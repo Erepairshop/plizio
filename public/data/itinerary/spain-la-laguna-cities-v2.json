@@ -1,0 +1,1227 @@
+{
+  "city_id": "spain-la-laguna-cities-v2",
+  "anchor": {
+    "name": "San Cristóbal de La Laguna",
+    "coords": [
+      -16.3159,
+      28.4871
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza del Adelantado",
+            "hu": "Plaza del Adelantado",
+            "ro": "Plaza del Adelantado",
+            "en": "Plaza del Adelantado"
+          },
+          "coords": [
+            -16.315,
+            28.4893
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee und beobachten Sie das morgendliche Treiben.",
+            "hu": "Kezdje a napot egy kávéval itt, és figyelje a város reggeli ébredését.",
+            "ro": "Începeți ziua cu o cafea aici și priviți forfota de dimineață.",
+            "en": "Start with a coffee here and watch the morning bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Kapitäne",
+            "hu": "Kapitányok háza",
+            "ro": "Casa Căpitanilor Generali",
+            "en": "House of the Captains General"
+          },
+          "coords": [
+            -16.3161,
+            28.4891
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Innenhof ist eine Oase der Ruhe und perfekt für Fotos.",
+            "hu": "A belső udvar a nyugalom szigete, tökéletes fotókhoz.",
+            "ro": "Curtea interioară este o oază de liniște, perfectă pentru fotografii.",
+            "en": "The inner courtyard is an oasis of calm, perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast von Nava",
+            "hu": "Nava-palota",
+            "ro": "Palatul Nava",
+            "en": "Palace of Nava"
+          },
+          "coords": [
+            -16.3155,
+            28.4896
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:06",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mischung aus Barock, Neoklassik und Manierismus an der Fassade.",
+            "hu": "Csodálja meg a barokk, neoklasszikus és manierista stílusok keveredését a homlokzaton.",
+            "ro": "Admirați amestecul de stiluri baroc, neoclasic și manierist de pe fațadă.",
+            "en": "Admire the mix of Baroque, Neoclassical, and Mannerist styles on its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von La Laguna",
+            "hu": "La Laguna-i székesegyház",
+            "ro": "Catedrala din La Laguna",
+            "en": "La Laguna Cathedral"
+          },
+          "coords": [
+            -16.3148,
+            28.4883
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die neoklassizistische Fassade und das beeindruckende Betongewölbe.",
+            "hu": "Figyelje meg a neoklasszikus homlokzatot és a lenyűgöző betonboltozatot.",
+            "ro": "Observați fațada neoclasică și bolta impresionantă din beton.",
+            "en": "Pay attention to the neoclassical facade and the impressive concrete vault."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche La Concepción",
+            "hu": "La Concepción-templom",
+            "ro": "Biserica La Concepción",
+            "en": "Church of La Concepción"
+          },
+          "coords": [
+            -16.3179,
+            28.4868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 56,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm für eine unschlagbare Aussicht über die Dächer der Stadt.",
+            "hu": "Menjen fel a toronyba a város háztetőire nyíló páratlan kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște imbatabilă asupra acoperișurilor orașului.",
+            "en": "Climb the tower for an unbeatable view over the city's rooftops."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Santa Catalina",
+            "hu": "Szent Katalin-kolostor",
+            "ro": "Mănăstirea Santa Catalina",
+            "en": "Monastery of Santa Catalina"
+          },
+          "coords": [
+            -16.3142,
+            28.4899
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:17",
+          "stay_min": 68,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Suchen Sie nach der berühmten Nonne Sr. María de Jesús, die hier begraben liegt.",
+            "hu": "Keresse meg a híres apáca, Sr. María de Jesús sírját, akit itt temettek el.",
+            "ro": "Căutați mormântul celebrei călugărițe, Sor María de Jesús, care este îngropată aici.",
+            "en": "Look for the tomb of the famous nun, Sr. María de Jesús, buried here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am belebten Plaza del Adelantado, dem Herzen der Stadt. Am Vormittag erkunden Sie die prächtigen Paläste wie das Haus der Kapitäne und den Nava-Palast, die von der reichen Geschichte der Insel zeugen. Nach dem Mittagessen in einer lokalen Tasca besuchen Sie die beeindruckende Kathedrale und die historische Kirche La Concepción. Der Nachmittag ist der spirituellen Ruhe des Klosters Santa Catalina gewidmet. Beenden Sie den Tag mit Tapas, während die Lichter der Stadt angehen.",
+        "hu": "Kezdje a sétát a nyüzsgő Plaza del Adelantado téren, a város szívében. Délelőtt fedezze fel a csodálatos palotákat, mint a Kapitányok Háza és a Nava-palota, amelyek a sziget gazdag történelméről tanúskodnak. Egy helyi 'tasca'-ban elköltött ebéd után látogasson el a lenyűgöző Katedrálishoz és a történelmi La Concepción-templomhoz. A délutánt a Santa Catalina-kolostor spirituális nyugalmának szentelje. Zárja a napot tapas-szal, miközben felgyúlnak a város fényei.",
+        "ro": "Începeți plimbarea în animata Plaza del Adelantado, inima orașului. Dimineața explorați palatele magnifice, precum Casa Căpitanilor și Palatul Nava, care mărturisesc istoria bogată a insulei. După prânzul la o 'tasca' locală, vizitați impresionanta Catedrală și istorica Biserică La Concepción. După-amiaza este dedicată liniștii spirituale a Mănăstirii Santa Catalina. Încheiați ziua cu tapas în timp ce luminile orașului se aprind.",
+        "en": "Start your walk in the bustling Plaza del Adelantado, the heart of the city. In the morning, explore the magnificent palaces like the House of the Captains and Nava Palace, which testify to the island's rich history. After lunch at a local 'tasca', visit the impressive Cathedral and the historic Church of La Concepción. The afternoon is dedicated to the spiritual tranquility of the Santa Catalina Monastery. End the day with tapas as the city lights turn on."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Papas Arrugadas con Mojo",
+            "tip": "Ein Muss auf den Kanaren. Probieren Sie es im 'Bodegón Tocuyo'."
+          },
+          {
+            "name": "Gofio",
+            "tip": "Ein geröstetes Getreidemehl, das in vielen traditionellen Gerichten verwendet wird."
+          },
+          {
+            "name": "Queso Asado",
+            "tip": "Gegrillter lokaler Käse, oft mit Mojo-Sauce serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Papas Arrugadas con Mojo",
+            "tip": "Kanári-szigeteki kötelező. Próbálja ki a 'Bodegón Tocuyo'-ban."
+          },
+          {
+            "name": "Gofio",
+            "tip": "Pörkölt gabonaliszt, amelyet sok hagyományos ételben használnak."
+          },
+          {
+            "name": "Queso Asado",
+            "tip": "Grillezett helyi sajt, gyakran mojo szósszal tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Papas Arrugadas con Mojo",
+            "tip": "O necesitate în Canare. Încercați la 'Bodegón Tocuyo'."
+          },
+          {
+            "name": "Gofio",
+            "tip": "Făină de cereale prăjită folosită în multe feluri de mâncare tradiționale."
+          },
+          {
+            "name": "Queso Asado",
+            "tip": "Brânză locală la grătar, adesea servită cu sos mojo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Papas Arrugadas con Mojo",
+            "tip": "A must-try in the Canary Islands. Sample it at 'Bodegón Tocuyo'."
+          },
+          {
+            "name": "Gofio",
+            "tip": "A roasted grain flour used in many traditional dishes."
+          },
+          {
+            "name": "Queso Asado",
+            "tip": "Grilled local cheese, often served with mojo sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innenhof des Nava-Palastes",
+            "tip": "Ein versteckter, ruhiger Ort mitten in der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardines de la Constitución",
+            "tip": "Ein kleiner Park zum Entspannen abseits der Hauptstraßen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Nava-palota belső udvara",
+            "tip": "Egy rejtett, csendes hely a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardines de la Constitución",
+            "tip": "Egy kis park a pihenésre a főutcáktól távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Palatului Nava",
+            "tip": "Un loc ascuns și liniștit în mijlocul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardines de la Constitución",
+            "tip": "Un mic parc pentru relaxare, departe de străzile principale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyard of the Nava Palace",
+            "tip": "A hidden, quiet spot in the middle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardines de la Constitución",
+            "tip": "A small park to relax away from the main streets.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Municipal de La Laguna",
+            "tip": "Kaufen Sie lokale Produkte, Käse und Handwerk."
+          },
+          {
+            "name": "Calle Herradores",
+            "tip": "Eine der Haupteinkaufsstraßen mit Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Municipal de La Laguna",
+            "tip": "Vásároljon helyi termékeket, sajtokat és kézműves árukat."
+          },
+          {
+            "name": "Calle Herradores",
+            "tip": "Az egyik fő bevásárlóutca butikokkal és ismert márkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Municipal de La Laguna",
+            "tip": "Cumpărați produse locale, brânzeturi și artizanat."
+          },
+          {
+            "name": "Calle Herradores",
+            "tip": "Una dintre principalele străzi comerciale cu buticuri și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Municipal de La Laguna",
+            "tip": "Shop for local produce, cheese, and crafts."
+          },
+          {
+            "name": "Calle Herradores",
+            "tip": "One of the main shopping streets with boutiques and well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt Kopfsteinpflaster hat.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander, ein Spaziergang ist die beste Art, die Stadt zu erkunden.",
+          "Achten Sie auf die einzigartigen Holzbalkone, ein Markenzeichen der kanarischen Architektur.",
+          "Viele Kirchen und Klöster haben eingeschränkte Öffnungszeiten, planen Sie Ihren Besuch entsprechend."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskaköves.",
+          "A legtöbb látnivaló közel van egymáshoz; a séta a legjobb módja a város felfedezésének.",
+          "Figyeljen az egyedi fa erkélyekre, a kanári építészet egyik jellegzetességére.",
+          "Sok templom és kolostor korlátozott nyitvatartással rendelkezik, tervezze meg a látogatását ennek megfelelően."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul vechi este pavat cu piatră cubică.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă; mersul pe jos este cel mai bun mod de a explora orașul.",
+          "Fiți atenți la balcoanele unice din lemn, o marcă a arhitecturii canariene.",
+          "Multe biserici și mănăstiri au program de vizitare limitat, planificați-vă vizita în consecință."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town has cobblestone streets.",
+          "Most sights are close to each other; walking is the best way to explore the city.",
+          "Pay attention to the unique wooden balconies, a hallmark of Canarian architecture.",
+          "Many churches and monasteries have limited opening hours, so plan your visit accordingly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza del Adelantado",
+            "hu": "Plaza del Adelantado",
+            "ro": "Plaza del Adelantado",
+            "en": "Plaza del Adelantado"
+          },
+          "coords": [
+            -16.315,
+            28.4893
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad in der Nähe und starten Sie Ihre Tour von diesem zentralen Platz aus.",
+            "hu": "Béreljen biciklit a közelben, és indítsa a túrát erről a központi térről.",
+            "ro": "Închiriați o bicicletă din apropiere și începeți turul din această piață centrală.",
+            "en": "Rent your bike nearby and start your tour from this central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von La Laguna",
+            "hu": "La Laguna-i székesegyház",
+            "ro": "Catedrala din La Laguna",
+            "en": "La Laguna Cathedral"
+          },
+          "coords": [
+            -16.3148,
+            28.4883
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die neoklassizistische Pracht betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a neoklasszikus pompába.",
+            "ro": "Legați-vă bine bicicleta înainte de a intra în splendoarea neoclasică.",
+            "en": "Lock your bike securely before entering the neoclassical splendor."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche La Concepción",
+            "hu": "La Concepción-templom",
+            "ro": "Biserica La Concepción",
+            "en": "Church of La Concepción"
+          },
+          "coords": [
+            -16.3179,
+            28.4868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:49",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Die kurze Radtour hierher lohnt sich für den Panoramablick vom Turm.",
+            "hu": "Megéri a rövid bicikliút a toronyból nyíló panorámáért.",
+            "ro": "Scurta plimbare cu bicicleta până aici merită pentru vederea panoramică din turn.",
+            "en": "The short bike ride here is worth it for the panoramic view from the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Santuario del Cristo",
+            "hu": "Királyi Krisztus-szentély",
+            "ro": "Sanctuarul Regal al lui Hristos",
+            "en": "Real Santuario del Cristo"
+          },
+          "coords": [
+            -16.3115,
+            28.4851
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:43",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Ort der Verehrung, etwas abseits des Zentrums, leicht mit dem Fahrrad erreichbar.",
+            "hu": "Egy imádkozóhely, kicsit távolabb a központtól, könnyen elérhető kerékpárral.",
+            "ro": "Un loc de pelerinaj, puțin în afara centrului, ușor accesibil cu bicicleta.",
+            "en": "A place of worship, slightly off the center, easily reachable by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause in der Altstadt",
+            "hu": "Ebédszünet az Óvárosban",
+            "ro": "Pauză de prânz în centrul vechi",
+            "en": "Lunch break in the Old Town"
+          },
+          "coords": [
+            -16.315,
+            28.488
+          ],
+          "category": "gastro",
+          "arrive_at": "13:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum und stärken Sie sich mit kanarischen Spezialitäten.",
+            "hu": "Tekerjen vissza a központba, és erősítse meg magát kanári specialitásokkal.",
+            "ro": "Întoarceți-vă în centru cu bicicleta și reîncărcați-vă bateriile cu specialități canariene.",
+            "en": "Cycle back to the center and refuel with some Canarian specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Wissenschaft und Kosmos",
+            "hu": "Tudományos és Kozmosz Múzeum",
+            "ro": "Muzeul de Știință și Cosmos",
+            "en": "Museum of Science and the Cosmos"
+          },
+          "coords": [
+            -16.2903,
+            28.4731
+          ],
+          "category": "museums",
+          "arrive_at": "15:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Eine längere, aber flache Radtour zu einem der interaktivsten Museen der Insel.",
+            "hu": "Egy hosszabb, de sík bicikliút a sziget egyik leginteraktívabb múzeumához.",
+            "ro": "O plimbare mai lungă, dar plată, cu bicicleta, la unul dintre cele mai interactive muzee de pe insulă.",
+            "en": "A longer but flat bike ride to one of the most interactive museums on the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Absacker in einer Bar",
+            "hu": "Egy utolsó ital egy bárban",
+            "ro": "O ultimă băutură la un bar",
+            "en": "Farewell drink at a bar"
+          },
+          "coords": [
+            -16.315,
+            28.4893
+          ],
+          "category": "gastro",
+          "arrive_at": "17:03",
+          "stay_min": 38,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie einen wohlverdienten Drink.",
+            "hu": "Adja vissza a biciklit, és élvezzen egy jól megérdemelt italt.",
+            "ro": "Returnați bicicleta și bucurați-vă de o băutură binemeritată.",
+            "en": "Return your bike and enjoy a well-deserved drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Plaza del Adelantado. Der Vormittag führt Sie zu den wichtigsten Kirchen der Stadt, der Kathedrale und La Concepción, wobei der Turmaufstieg eine willkommene Pause ist. Radeln Sie weiter zum ruhigen Real Santuario del Cristo, bevor Sie für ein herzhaftes Mittagessen ins Zentrum zurückkehren. Am Nachmittag steht eine längere, aber lohnende Fahrt zum interaktiven Museum für Wissenschaft und Kosmos an. Beenden Sie die Tour, wo sie begann, und stoßen Sie auf einen gelungenen Tag an.",
+        "hu": "Pattanjon biciklire, és induljon a Plaza del Adelantado térről. A délelőtt a város legfontosabb templomaihoz, a Katedrálishoz és a La Concepciónhoz vezet, ahol a toronymászás kellemes pihenőt jelent. Tekerjen tovább a csendes Real Santuario del Cristo-hoz, mielőtt visszatérne a központba egy kiadós ebédre. Délután egy hosszabb, de megéri utat tesz az interaktív Tudományos és Kozmosz Múzeumhoz. Fejezze be a túrát ott, ahol elkezdte, és koccintson egy sikeres napra.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Plaza del Adelantado. Dimineața vă duce la cele mai importante biserici din oraș, Catedrala și La Concepción, cu urcarea în turn fiind o pauză binevenită. Pedalați mai departe spre liniștitul Real Santuario del Cristo înainte de a vă întoarce în centru pentru un prânz copios. După-amiaza este rezervată unei plimbări mai lungi, dar pline de satisfacții, la interactivul Muzeu de Știință și Cosmos. Încheiați turul acolo unde a început, ciocnind un pahar pentru o zi reușită.",
+        "en": "Hop on your bike and start from Plaza del Adelantado. The morning takes you to the city's most important churches, the Cathedral and La Concepción, with the tower climb providing a welcome break. Pedal on to the tranquil Real Santuario del Cristo before returning to the center for a hearty lunch. The afternoon is for a longer but rewarding ride to the interactive Museum of Science and the Cosmos. End the tour where it began, toasting to a successful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo",
+            "tip": "Ein schnelles und leckeres Sandwich, perfekt für eine kurze Mittagspause."
+          },
+          {
+            "name": "Barraquito",
+            "tip": "Ein kanarischer Kaffee mit Kondensmilch, Likör und Zitrone für den Energiekick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo",
+            "tip": "Gyors és finom szendvics, tökéletes egy rövid ebédszünethez."
+          },
+          {
+            "name": "Barraquito",
+            "tip": "Kanári kávé sűrített tejjel, likőrrel és citrommal az energia-löketért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo",
+            "tip": "Un sandviș rapid și delicios, perfect pentru o pauză scurtă de prânz."
+          },
+          {
+            "name": "Barraquito",
+            "tip": "O cafea canariană cu lapte condensat, lichior și lămâie pentru un plus de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo",
+            "tip": "A quick and tasty sandwich, perfect for a short lunch break."
+          },
+          {
+            "name": "Barraquito",
+            "tip": "A Canarian coffee with condensed milk, liqueur, and lemon for an energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de la Constitución",
+            "tip": "Ein idealer Ort für eine kurze Pause im Schatten der Bäume.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Umgebung des Real Santuario",
+            "tip": "Die Gegend um die Wallfahrtskirche ist oft ruhiger als die Altstadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de la Constitución",
+            "tip": "Ideális hely egy rövid pihenőre a fák árnyékában.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Real Santuario környéke",
+            "tip": "A szentély környéke gyakran csendesebb, mint az óváros.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque de la Constitución",
+            "tip": "Un loc ideal pentru o scurtă pauză la umbra copacilor.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Împrejurimile Real Santuario",
+            "tip": "Zona din jurul sanctuarului este adesea mai liniștită decât centrul vechi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque de la Constitución",
+            "tip": "An ideal spot for a short break in the shade of the trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Surroundings of Real Santuario",
+            "tip": "The area around the sanctuary is often quieter than the old town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradgeschäfte",
+            "tip": "Fragen Sie nach lokalen Radwegen und Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Kérdezzen a helyi kerékpárutakról és kiegészítőkről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Întrebați despre pistele de biciclete locale și accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bike shops",
+            "tip": "Ask for tips on local cycling routes and accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen.",
+          "Die Altstadt ist eine Fußgängerzone, fahren Sie langsam und rücksichtsvoll.",
+          "Einige Straßen können steil sein, aber die meisten Hauptrouten sind flach.",
+          "Nehmen Sie immer ein Schloss mit und sichern Sie Ihr Fahrrad an den vorgesehenen Plätzen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket.",
+          "Az óváros sétálóövezet, lassan és körültekintően közlekedjen.",
+          "Néhány utca meredek lehet, de a legtöbb fő útvonal sík.",
+          "Mindig vigyen magával lakatot, és a kijelölt helyeken rögzítse a kerékpárt."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele.",
+          "Centrul vechi este în mare parte pietonal, mergeți încet și cu considerație.",
+          "Unele străzi pot fi abrupte, dar majoritatea rutelor principale sunt plate.",
+          "Luați întotdeauna un lacăt cu dvs. și asigurați-vă bicicleta în locurile desemnate."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes.",
+          "The old town is mostly pedestrianized, so ride slowly and be considerate.",
+          "Some streets can be steep, but most main routes are flat.",
+          "Always carry a lock and secure your bike in designated areas."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 11.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Kaffee im Zentrum",
+            "hu": "Parkolás és kávé a központban",
+            "ro": "Parcare și cafea în centru",
+            "en": "Parking and coffee in the center"
+          },
+          "coords": [
+            -16.313,
+            28.487
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am besten in einer Tiefgarage am Rande der Altstadt.",
+            "hu": "A legjobb, ha az óváros szélén egy mélygarázsban parkol.",
+            "ro": "Cel mai bine este să parcați într-o parcare subterană la marginea centrului vechi.",
+            "en": "It's best to park in an underground garage on the edge of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 1: Plaza & Kathedrale",
+            "hu": "1. csoport: Főtér és székesegyház",
+            "ro": "Cluster 1: Piața și Catedrala",
+            "en": "Cluster 1: Plaza & Cathedral"
+          },
+          "coords": [
+            -16.315,
+            28.4893
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie zu Fuß die Plaza del Adelantado und die nahegelegene Kathedrale.",
+            "hu": "Fedezze fel gyalog a Plaza del Adelantado teret és a közeli Katedrálist.",
+            "ro": "Explorați pe jos Plaza del Adelantado și Catedrala din apropiere.",
+            "en": "Explore Plaza del Adelantado and the nearby Cathedral on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 1: Kirche La Concepción",
+            "hu": "1. csoport: La Concepción-templom",
+            "ro": "Cluster 1: Biserica La Concepción",
+            "en": "Cluster 1: Church of La Concepción"
+          },
+          "coords": [
+            -16.3179,
+            28.4868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie zu dieser historischen Kirche mit ihrem markanten Turm.",
+            "hu": "Egy rövid séta elvezeti ehhez a történelmi templomhoz és jellegzetes tornyához.",
+            "ro": "O scurtă plimbare vă duce la această biserică istorică cu turnul său distinctiv.",
+            "en": "A short walk takes you to this historic church with its distinctive tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Fahrt zum Museum",
+            "hu": "2. csoport: Utazás a múzeumhoz",
+            "ro": "Cluster 2: Conduceți la muzeu",
+            "en": "Cluster 2: Drive to the Museum"
+          },
+          "coords": [
+            -16.2903,
+            28.4731
+          ],
+          "category": "museums",
+          "arrive_at": "12:54",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museum für Wissenschaft und Kosmos für ein interaktives Erlebnis.",
+            "hu": "Vezessen a Tudományos és Kozmosz Múzeumhoz egy interaktív élményért.",
+            "ro": "Conduceți la Muzeul de Știință și Cosmos pentru o experiență interactivă.",
+            "en": "Drive to the Museum of Science and the Cosmos for an interactive experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Mittagessen in der Nähe",
+            "hu": "2. csoport: Ebéd a közelben",
+            "ro": "Cluster 2: Prânz în apropiere",
+            "en": "Cluster 2: Lunch nearby"
+          },
+          "coords": [
+            -16.291,
+            28.4735
+          ],
+          "category": "gastro",
+          "arrive_at": "14:59",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt mehrere gute Restaurants in der Nähe des Museums.",
+            "hu": "A múzeum közelében több jó étterem is található.",
+            "ro": "Există mai multe restaurante bune în apropierea muzeului.",
+            "en": "There are several good restaurants near the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Real Santuario del Cristo",
+            "hu": "3. csoport: Real Santuario del Cristo",
+            "ro": "Cluster 3: Real Santuario del Cristo",
+            "en": "Cluster 3: Real Santuario del Cristo"
+          },
+          "coords": [
+            -16.3115,
+            28.4851
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:09",
+          "stay_min": 88,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Besuch dieses wichtigen Wallfahrtsortes.",
+            "hu": "Zárja a napot egy látogatással ezen a fontos zarándokhelyen.",
+            "ro": "Încheiați ziua cu o vizită la acest important loc de pelerinaj.",
+            "en": "End the day with a visit to this important pilgrimage site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto am Rande der Altstadt und erkunden Sie das erste Cluster zu Fuß: den Hauptplatz, die Kathedrale und die Conception-Kirche. Am Vormittag spüren Sie die historische Atmosphäre. Mittags fahren Sie zum zweiten Cluster, dem Museum für Wissenschaft und Kosmos, für eine Dosis Interaktivität und ein entspanntes Mittagessen in der Nähe. Der Nachmittag führt Sie zum dritten Cluster, dem besinnlichen Real Santuario del Cristo, ein perfekter, ruhiger Abschluss für Ihren Tag in La Laguna, bevor Sie zurück zum Auto gehen.",
+        "hu": "Parkolja le autóját az óváros szélén, és fedezze fel gyalog az első klasztert: a főteret, a katedrálist és a Conception-templomot. Délelőtt szívja magába a történelmi hangulatot. Délben vezessen a második klaszterhez, a Tudományos és Kozmosz Múzeumhoz egy adag interaktivitásért és egy közeli, nyugodt ebédért. A délután a harmadik klaszterhez, a elmélkedő Real Santuario del Cristo-hoz vezet, amely tökéletes, csendes lezárása a La Laguna-i napnak, mielőtt visszatérne az autóhoz.",
+        "ro": "Parcați mașina la marginea centrului vechi și explorați pe jos primul cluster: piața principală, catedrala și Biserica Concepción. Dimineața, simțiți atmosfera istorică. La prânz, conduceți spre al doilea cluster, Muzeul de Știință și Cosmos, pentru o doză de interactivitate și un prânz relaxat în apropiere. După-amiaza vă duce la al treilea cluster, contemplativul Real Santuario del Cristo, o încheiere perfectă și liniștită a zilei în La Laguna, înainte de a vă întoarce la mașină.",
+        "en": "Park your car on the edge of the old town and explore the first cluster on foot: the main square, the cathedral, and the Concepción Church. In the morning, soak up the historical atmosphere. At noon, drive to the second cluster, the Museum of Science and the Cosmos, for a dose of interactivity and a relaxed lunch nearby. The afternoon takes you to the third cluster, the contemplative Real Santuario del Cristo, a perfect, quiet end to your day in La Laguna before heading back to the car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ropa Vieja",
+            "tip": "Ein herzhafter Eintopf aus Fleisch und Kichererbsen, perfekt nach einem langen Vormittag."
+          },
+          {
+            "name": "Wein aus Tacoronte-Acentejo",
+            "tip": "Probieren Sie einen lokalen Rotwein aus der nahegelegenen Weinregion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ropa Vieja",
+            "tip": "Kiadós húsos-csicseriborsós egytálétel, tökéletes egy hosszú délelőtt után."
+          },
+          {
+            "name": "Tacoronte-Acentejo bor",
+            "tip": "Kóstoljon meg egy helyi vörösbort a közeli borvidékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ropa Vieja",
+            "tip": "O tocană consistentă de carne și năut, perfectă după o dimineață lungă."
+          },
+          {
+            "name": "Vin din Tacoronte-Acentejo",
+            "tip": "Încercați un vin roșu local din regiunea viticolă din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ropa Vieja",
+            "tip": "A hearty stew of meat and chickpeas, perfect after a long morning."
+          },
+          {
+            "name": "Wine from Tacoronte-Acentejo",
+            "tip": "Try a local red wine from the nearby wine region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de Jardina",
+            "tip": "Ein kurzer Abstecher mit dem Auto bietet atemberaubende Ausblicke auf die Landschaft.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque Rural de Anaga",
+            "tip": "Wenn Sie Zeit haben, fahren Sie in diesen nahen Naturpark für absolute Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de Jardina",
+            "tip": "Egy rövid autós kitérő lélegzetelállító kilátást nyújt a tájra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Anaga Vidéki Park",
+            "tip": "Ha van ideje, vezessen el ebbe a közeli természeti parkba a teljes nyugalomért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de Jardina",
+            "tip": "O scurtă deviere cu mașina oferă vederi uluitoare ale peisajului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Rural Anaga",
+            "tip": "Dacă aveți timp, conduceți până la acest parc natural din apropiere pentru liniște absolută.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de Jardina",
+            "tip": "A short detour by car offers breathtaking views of the landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Anaga Rural Park",
+            "tip": "If you have time, drive to this nearby natural park for absolute tranquility.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Casa de los Balcones (in La Orotava)",
+            "tip": "Ein längerer Ausflug, aber berühmt für kanarisches Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Casa de los Balcones (La Orotava)",
+            "tip": "Hosszabb kirándulás, de híres a kanári kézművességről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casa de los Balcones (în La Orotava)",
+            "tip": "O excursie mai lungă, dar renumită pentru meșteșugurile canariene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Casa de los Balcones (in La Orotava)",
+            "tip": "A longer trip, but famous for Canarian handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Altstadt ist schwierig und teuer, nutzen Sie Parkhäuser am Rand.",
+          "Die Cluster-Strategie spart Zeit und Nerven bei der Parkplatzsuche.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders zur Stoßzeit.",
+          "Ein Auto ermöglicht es Ihnen, auch nahegelegene Sehenswürdigkeiten außerhalb der Stadt zu besuchen."
+        ],
+        "hu": [
+          "Az óvárosban a parkolás nehéz és drága, használja a szélén lévő parkolóházakat.",
+          "A klaszter-stratégia időt és idegeket takarít meg a parkolóhely-keresésnél.",
+          "Tervezzen plusz időt a forgalomra, különösen csúcsidőben.",
+          "Az autó lehetővé teszi, hogy a városon kívüli közeli látnivalókat is meglátogassa."
+        ],
+        "ro": [
+          "Parcarea în centrul vechi este dificilă și scumpă, folosiți parcările de la periferie.",
+          "Strategia pe clustere economisește timp și nervi în căutarea unui loc de parcare.",
+          "Planificați timp suplimentar pentru trafic, în special la orele de vârf.",
+          "O mașină vă permite să vizitați și atracțiile din apropiere, în afara orașului."
+        ],
+        "en": [
+          "Parking in the old town is difficult and expensive; use parking garages on the outskirts.",
+          "The cluster strategy saves time and stress when looking for parking.",
+          "Allow extra time for traffic, especially during rush hour.",
+          "A car allows you to visit nearby attractions outside the city as well."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 7.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof La Laguna",
+            "hu": "Érkezés a La Laguna buszpályaudvarra",
+            "ro": "Sosire la stația de autobuz La Laguna",
+            "en": "Arrival at La Laguna bus station"
+          },
+          "coords": [
+            -16.309,
+            28.482
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte (Bono Bus) für unbegrenzte Fahrten.",
+            "hu": "Vásároljon napijegyet (Bono Bus) a korlátlan utazáshoz.",
+            "ro": "Cumpărați un abonament de o zi (Bono Bus) pentru călătorii nelimitate.",
+            "en": "Buy a day pass (Bono Bus) for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 1: Spaziergang zur Plaza",
+            "hu": "1. csoport: Séta a Főtérre",
+            "ro": "Cluster 1: Plimbare până la Piață",
+            "en": "Cluster 1: Walk to the Plaza"
+          },
+          "coords": [
+            -16.315,
+            28.4893
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Busbahnhof ins Herz der Altstadt. Erkunden Sie die Plaza und die Kathedrale.",
+            "hu": "Kellemes séta a buszpályaudvartól az óváros szívébe. Fedezze fel a teret és a Katedrálist.",
+            "ro": "O plimbare plăcută de la autogară în inima centrului vechi. Explorați piața și catedrala.",
+            "en": "A pleasant walk from the bus station to the heart of the old town. Explore the plaza and the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Fahrt zum Museum",
+            "hu": "2. csoport: Utazás a múzeumhoz",
+            "ro": "Cluster 2: Călătorie la muzeu",
+            "en": "Cluster 2: Trip to the Museum"
+          },
+          "coords": [
+            -16.2903,
+            28.4731
+          ],
+          "category": "museums",
+          "arrive_at": "12:12",
+          "stay_min": 150,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus der Linie 026 oder 027. Die Fahrt dauert etwa 20 Minuten.",
+            "hu": "Menjen a 026-os vagy 027-es busszal. Az út kb. 20 percig tart.",
+            "ro": "Luați autobuzul liniei 026 sau 027. Călătoria durează aproximativ 20 de minute.",
+            "en": "Take bus line 026 or 027. The journey takes about 20 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Mittagessen und Spaziergang",
+            "hu": "2. csoport: Ebéd és séta",
+            "ro": "Cluster 2: Prânz și plimbare",
+            "en": "Cluster 2: Lunch and walk"
+          },
+          "coords": [
+            -16.291,
+            28.4735
+          ],
+          "category": "gastro",
+          "arrive_at": "14:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie Ihr Mittagessen in einem Restaurant in der Nähe des Museums.",
+            "hu": "Ebédeljen a múzeum közelében lévő egyik étteremben.",
+            "ro": "Savurați prânzul la un restaurant de lângă muzeu.",
+            "en": "Enjoy lunch at a restaurant near the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Zurück zur Concepción-Kirche",
+            "hu": "3. csoport: Vissza a Concepción-templomhoz",
+            "ro": "Cluster 3: Înapoi la Biserica Concepción",
+            "en": "Cluster 3: Back to Concepción Church"
+          },
+          "coords": [
+            -16.3179,
+            28.4868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum und besichtigen Sie zum Abschluss den Turm von La Concepción.",
+            "hu": "Utazzon vissza a központba, és végül mássza meg a La Concepción tornyát.",
+            "ro": "Întoarceți-vă în centru și urcați în turnul La Concepción pentru a încheia ziua.",
+            "en": "Travel back to the center and climb the La Concepción tower to finish the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Busbahnhof La Laguna, Ihrem Tor zur Stadt. Das erste Cluster ist die historische Altstadt, die Sie nach einem kurzen Spaziergang erreichen. Verbringen Sie den Vormittag rund um die Plaza und die Kathedrale. Mittags bringt Sie ein Bus zum Museum für Wissenschaft und Kosmos, einem modernen Kontrastprogramm. Nach dem interaktiven Erlebnis und einer Stärkung fahren Sie mit dem Bus zurück in die Altstadt, um den Tag mit dem Aufstieg auf den Turm der Concepción-Kirche und dem Panoramablick abzuschließen.",
+        "hu": "Kezdje a napot a La Laguna buszpályaudvaron, a város kapujában. Az első klaszter a történelmi óváros, amelyet egy rövid sétával érhet el. Töltse a délelőttöt a Főtér és a Katedrális környékén. Délben egy busz elviszi Önt a Tudományos és Kozmosz Múzeumhoz, egy modern kontrasztprogramhoz. Az interaktív élmény és egy kis harapnivaló után busszal térjen vissza az óvárosba, hogy a napot a Concepción-templom tornyának megmászásával és a panorámában való gyönyörködéssel zárja.",
+        "ro": "Începeți la autogara din La Laguna, poarta dvs. de intrare în oraș. Primul cluster este centrul vechi istoric, la care ajungeți după o scurtă plimbare. Petreceți dimineața în jurul Pieței și a Catedralei. La prânz, un autobuz vă va duce la Muzeul de Știință și Cosmos, un contrast modern. După experiența interactivă și o gustare, luați autobuzul înapoi în centrul vechi pentru a încheia ziua urcând în turnul Bisericii Concepción și admirând panorama.",
+        "en": "Start at the La Laguna bus station, your gateway to the city. The first cluster is the historic old town, reached after a short walk. Spend the morning around the Plaza and the Cathedral. At noon, a bus will take you to the Museum of Science and the Cosmos, a modern contrast. After the interactive experience and a snack, take the bus back to the old town to end the day by climbing the tower of the Concepción Church and enjoying the panoramic view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frango",
+            "tip": "Probieren Sie gegrilltes Hähnchen, eine lokale Spezialität, in einem der vielen kleinen Restaurants."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Ein perfekter süßer Snack für den Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frango",
+            "tip": "Kóstolja meg a grillezett csirkét, egy helyi specialitást, a sok kis étterem egyikében."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Tökéletes édes délutáni snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Frango",
+            "tip": "Încercați pui la grătar, o specialitate locală, la unul dintre multele restaurante mici."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "O gustare dulce perfectă pentru după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frango",
+            "tip": "Try grilled chicken, a local specialty, at one of the many small restaurants."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "A perfect sweet snack for the afternoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Seitenstraße",
+            "tip": "Verlassen Sie die Hauptwege und entdecken Sie die ruhigen, farbenfrohen Gassen.",
+            "emoji": "🚶‍♀️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes mellékutca",
+            "tip": "Térjen le a fő útvonalakról, és fedezze fel a csendes, színes sikátorokat.",
+            "emoji": "🚶‍♀️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O stradă laterală liniștită",
+            "tip": "Părăsiți căile principale și descoperiți aleile liniștite și colorate.",
+            "emoji": "🚶‍♀️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet side street",
+            "tip": "Leave the main paths and discover the quiet, colorful alleys.",
+            "emoji": "🚶‍♀️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Obispo Rey Redondo",
+            "tip": "Bekannt als Calle La Carrera, eine weitere großartige Einkaufsstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Obispo Rey Redondo",
+            "tip": "Calle La Carrera néven is ismert, egy másik nagyszerű bevásárlóutca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Obispo Rey Redondo",
+            "tip": "Cunoscută și sub numele de Calle La Carrera, o altă stradă comercială excelentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Obispo Rey Redondo",
+            "tip": "Also known as Calle La Carrera, another great shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busse auf Teneriffa (guaguas) sind zuverlässig und günstig.",
+          "Validieren Sie Ihre Fahrkarte beim Einsteigen.",
+          "Die Google Maps App zeigt die Buslinien und Abfahrtszeiten in Echtzeit an.",
+          "Planen Sie etwas Pufferzeit ein, da Busse im Stadtverkehr stecken bleiben können."
+        ],
+        "hu": [
+          "A tenerifei buszok (guaguas) megbízhatóak és olcsók.",
+          "Felszálláskor érvényesítse a jegyét.",
+          "A Google Maps alkalmazás valós időben mutatja a buszjáratokat és indulási időket.",
+          "Tervezzen némi puffert, mivel a buszok elakadhatnak a városi forgalomban."
+        ],
+        "ro": [
+          "Autobuzele din Tenerife (guaguas) sunt fiabile și ieftine.",
+          "Validați-vă biletul la urcare.",
+          "Aplicația Google Maps arată liniile de autobuz și orele de plecare în timp real.",
+          "Planificați-vă un timp suplimentar, deoarece autobuzele pot rămâne blocate în trafic."
+        ],
+        "en": [
+          "Buses in Tenerife (guaguas) are reliable and inexpensive.",
+          "Validate your ticket when boarding.",
+          "The Google Maps app shows bus routes and departure times in real time.",
+          "Plan for some buffer time, as buses can get stuck in city traffic."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1460 @@
+{
+  "city_id": "romania-balan-cities-v2",
+  "anchor": {
+    "name": "Bălan",
+    "coords": [
+      25.8,
+      46.65
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturzentrum von Bălan",
+            "hu": "Balánbányai Művelődési Központ",
+            "ro": "Casa de Cultură din Bălan",
+            "en": "Cultural Center of Bălan"
+          },
+          "coords": [
+            25.8085,
+            46.6512
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, oft gibt es lokale Kunstausstellungen.",
+            "hu": "Érdeklődj a programról, gyakran vannak helyi képzőművészeti kiállítások.",
+            "ro": "Verificați programul; adesea găzduiește expoziții de artă locală.",
+            "en": "Check the schedule; it often hosts local art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaudenkmal",
+            "hu": "Bányász-emlékmű",
+            "ro": "Monumentul Minerului",
+            "en": "Mining Monument"
+          },
+          "coords": [
+            25.8095,
+            46.6501
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:55",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Denkmal ehrt die Generationen von Bergleuten, die die Stadt prägten.",
+            "hu": "Az emlékmű a várost formáló bányásznemzedékek előtt tiszteleg.",
+            "ro": "Monumentul onorează generațiile de mineri care au modelat orașul.",
+            "en": "The monument honours the generations of miners who shaped the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisch-katholische Kirche St. Katharina",
+            "hu": "Szent Katalin római katolikus templom",
+            "ro": "Biserica Romano-Catolică Sf. Ecaterina",
+            "en": "Saint Catherine Roman-Catholic Church"
+          },
+          "coords": [
+            25.811,
+            46.6485
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die schlichte, aber eindrucksvolle Holzarchitektur im Inneren.",
+            "hu": "Figyeld meg az egyszerű, de lenyűgöző belső faépítészetet.",
+            "ro": "Observați arhitectura interioară din lemn, simplă dar impresionantă.",
+            "en": "Notice the simple yet impressive wooden interior architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Orthodoxe Kirche Hl. Kaiser",
+            "hu": "Szent Császárok ortodox templom",
+            "ro": "Biserica Ortodoxă Sf. Împărați",
+            "en": "Holy Emperors Orthodox Church"
+          },
+          "coords": [
+            25.814,
+            46.645
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Vergleichen Sie den byzantinischen Stil dieser Kirche mit dem der katholischen.",
+            "hu": "Hasonlítsd össze ennek a templomnak a bizánci stílusát a katolikuséval.",
+            "ro": "Comparați stilul bizantin al acestei biserici cu cel al bisericii catolice.",
+            "en": "Compare the Byzantine style of this church with the Catholic one."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehemalige Kupferminen",
+            "hu": "Egykori rézbányák",
+            "ro": "Fostele Mine de Cupru",
+            "en": "Former Copper Mines"
+          },
+          "coords": [
+            25.795,
+            46.66
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Auch wenn die Minen geschlossen sind, zeugt die Landschaft von der industriellen Vergangenheit.",
+            "hu": "Bár a bányák bezártak, a táj tanúskodik az ipari múltról.",
+            "ro": "Chiar dacă minele sunt închise, peisajul poartă amprenta trecutului industrial.",
+            "en": "Even though the mines are closed, the landscape bears witness to the industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Jugendpark",
+            "hu": "Ifjúsági Park",
+            "ro": "Parcul Tineretului",
+            "en": "Youth Park"
+          },
+          "coords": [
+            25.8105,
+            46.644
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Pause nach dem Spaziergang, mit Blick auf die umliegenden Berge.",
+            "hu": "Ideális hely egy kis pihenésre a séta után, kilátással a környező hegyekre.",
+            "ro": "Un loc ideal pentru o pauză după plimbare, cu vedere la munții din jur.",
+            "en": "An ideal spot for a break after your walk, with views of the surrounding mountains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Bălan beginnt im Herzen der Stadt, wo Kultur und Geschichte aufeinandertreffen. Am Morgen erkunden Sie das kulturelle Zentrum und die Denkmäler, die an die Bergbauvergangenheit erinnern. Mittags führt Sie ein Spaziergang zu den beiden Hauptkirchen der Stadt, die die religiöse Vielfalt der Region widerspiegeln. Der Nachmittag ist einem längeren Marsch zu den ehemaligen Minen gewidmet, der Ihnen einen Einblick in das industrielle Erbe gibt. Den Tag lassen Sie entspannt im Jugendpark ausklingen, umgeben von der Natur der Hășmaș-Berge.",
+        "hu": "A balánbányai nap a város szívében kezdődik, ahol a kultúra és a történelem találkozik. Délelőtt felfedezi a kulturális központot és a bányászmúltra emlékeztető emlékműveket. Délben egy séta elvezeti a város két fő templomához, amelyek a régió vallási sokszínűségét tükrözik. A délután egy hosszabb sétával telik az egykori bányákhoz, betekintést nyújtva az ipari örökségbe. A napot az Ifjúsági Parkban zárja, a Hasmás-hegység természetével körülvéve.",
+        "ro": "Ziua dvs. în Bălan începe în inima orașului, unde cultura și istoria se întâlnesc. Dimineața explorați centrul cultural și monumentele ce amintesc de trecutul minier. La prânz, o plimbare vă duce la cele două biserici principale ale orașului, reflectând diversitatea religioasă a regiunii. După-amiaza este dedicată unei drumeții mai lungi spre fostele mine, oferindu-vă o perspectivă asupra patrimoniului industrial. Încheiați ziua relaxându-vă în Parcul Tineretului, înconjurat de natura Munților Hășmaș.",
+        "en": "Your day in Bălan starts in the heart of the city, where culture and history meet. In the morning, you'll explore the cultural center and monuments that recall the mining past. At noon, a walk takes you to the city's two main churches, reflecting the region's religious diversity. The afternoon is dedicated to a longer hike to the former mines, giving you an insight into the industrial heritage. You'll end the day relaxing in the Youth Park, surrounded by the nature of the Hășmaș Mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kurtoskalacs (Baumstriezel)",
+            "tip": "Suchen Sie nach einem Straßenverkäufer für eine frische, warme Version dieses süßen Gebäcks."
+          },
+          {
+            "name": "Gulasch",
+            "tip": "Probieren Sie eine herzhafte Gulaschsuppe in einem der lokalen Restaurants."
+          },
+          {
+            "name": "Telemea-Käse",
+            "tip": "Ein lokaler Salzlakenkäse, der oft in Salaten oder als Vorspeise serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kürtőskalács",
+            "tip": "Keress egy utcai árust egy friss, meleg kalácsért."
+          },
+          {
+            "name": "Gulyás",
+            "tip": "Kóstolj meg egy kiadós gulyáslevest az egyik helyi étteremben."
+          },
+          {
+            "name": "Telemea sajt",
+            "tip": "Helyi sós sajt, amelyet gyakran salátákban vagy előételként szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kurtoskalacs",
+            "tip": "Căutați un vânzător ambulant pentru o versiune proaspătă și caldă a acestui desert."
+          },
+          {
+            "name": "Gulaș",
+            "tip": "Încercați o supă gulaș consistentă la unul dintre restaurantele locale."
+          },
+          {
+            "name": "Brânză Telemea",
+            "tip": "O brânză locală maturată în saramură, adesea servită în salate sau ca aperitiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kurtoskalacs (Chimney Cake)",
+            "tip": "Look for a street vendor for a fresh, warm version of this sweet pastry."
+          },
+          {
+            "name": "Goulash",
+            "tip": "Try a hearty goulash soup at one of the local restaurants."
+          },
+          {
+            "name": "Telemea Cheese",
+            "tip": "A local brined cheese, often served in salads or as an appetizer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Olt",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, der durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick vom Kirchenhügel",
+            "tip": "Genießen Sie die Aussicht auf die Stadt und die Berge von der Anhöhe bei der katholischen Kirche.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wanderwege im Hășmaș-Gebirge",
+            "tip": "Schon die ersten Meter auf den Pfaden bieten Ruhe und frische Bergluft.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olt folyó partja",
+            "tip": "Egy csendes séta a városon átfolyó folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a templomdombról",
+            "tip": "Élvezd a városra és a hegyekre nyíló kilátást a katolikus templom melletti emelkedőről.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Túraösvények a Hasmás-hegységben",
+            "tip": "Már az ösvények első méterei is nyugalmat és friss hegyi levegőt kínálnak.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Olt",
+            "tip": "O plimbare liniștită de-a lungul râului care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de pe dealul bisericii",
+            "tip": "Bucurați-vă de priveliștea orașului și a munților de pe dealul de lângă biserica catolică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Trasee în Munții Hășmaș",
+            "tip": "Chiar și primii metri pe poteci oferă liniște și aer curat de munte.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Olt River",
+            "tip": "A quiet walk along the river that flows through the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Church Hill",
+            "tip": "Enjoy the view of the city and the mountains from the hill near the Catholic church.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hiking trails in the Hășmaș Mountains",
+            "tip": "Even the first few meters on the paths offer peace and fresh mountain air.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie hausgemachten Käse, Honig und andere Produkte aus der Region."
+          },
+          {
+            "name": "Handwerkskunst",
+            "tip": "Suchen Sie nach handgeschnitzten Holzgegenständen, einem traditionellen Handwerk der Szekler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásárolj házi készítésű sajtot, mézet és más helyi termékeket."
+          },
+          {
+            "name": "Kézműves termékek",
+            "tip": "Keress kézzel faragott fatárgyakat, egy hagyományos székely mesterséget."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați brânză de casă, miere și alte produse din regiune."
+          },
+          {
+            "name": "Artizanat",
+            "tip": "Căutați obiecte din lemn sculptate manual, un meșteșug tradițional secuiesc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy homemade cheese, honey, and other products from the region."
+          },
+          {
+            "name": "Handicrafts",
+            "tip": "Look for hand-carved wooden items, a traditional Szekler craft."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Gelände hügelig sein kann.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; die Bergluft macht durstig.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie zusätzliche Zeit für Fotostopps ein, die Landschaft ist es wert."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel a terep dombos lehet.",
+          "Vigyél magaddal újratölthető vizes palackot; a hegyi levegő szomjassá tesz.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Tervezz plusz időt a fotómegállókra, a táj megéri."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece terenul poate fi deluros.",
+          "Luați o sticlă de apă reutilizabilă; aerul de munte te face însetat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați timp suplimentar pentru opriri foto, peisajul merită."
+        ],
+        "en": [
+          "Wear comfortable shoes as the terrain can be hilly.",
+          "Bring a reusable water bottle; the mountain air makes you thirsty.",
+          "Most central sights are easily reachable on foot.",
+          "Plan for extra time for photo stops, the scenery is worth it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Jugendpark",
+            "hu": "Ifjúsági Park",
+            "ro": "Parcul Tineretului",
+            "en": "Youth Park"
+          },
+          "coords": [
+            25.8105,
+            46.644
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer leichten Radtour durch den Park.",
+            "hu": "Kezdd a napot egy könnyű biciklizéssel a parkban.",
+            "ro": "Începeți ziua cu o plimbare ușoară cu bicicleta prin parc.",
+            "en": "Start the day with a gentle bike ride through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Orthodoxe Kirche Hl. Kaiser",
+            "hu": "Szent Császárok ortodox templom",
+            "ro": "Biserica Ortodoxă Sf. Împărați",
+            "en": "Holy Emperors Orthodox Church"
+          },
+          "coords": [
+            25.814,
+            46.645
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Fahrrad lässt sich in der Nähe des Eingangs leicht abstellen.",
+            "hu": "A kerékpárt könnyen le lehet támasztani a bejárat közelében.",
+            "ro": "Bicicleta poate fi parcată cu ușurință lângă intrare.",
+            "en": "The bike can be easily parked near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisch-katholische Kirche St. Katharina",
+            "hu": "Szent Katalin római katolikus templom",
+            "ro": "Biserica Romano-Catolică Sf. Ecaterina",
+            "en": "Saint Catherine Roman-Catholic Church"
+          },
+          "coords": [
+            25.811,
+            46.6485
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die kurze Fahrt bergauf zu dieser zentralen Kirche.",
+            "hu": "Élvezd a rövid, emelkedős utat ehhez a központi templomhoz.",
+            "ro": "Bucurați-vă de scurta urcare cu bicicleta spre această biserică centrală.",
+            "en": "Enjoy the short uphill ride to this central church."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaudenkmal",
+            "hu": "Bányász-emlékmű",
+            "ro": "Monumentul Minerului",
+            "en": "Mining Monument"
+          },
+          "coords": [
+            25.8095,
+            46.6501
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:13",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schneller Stopp, um die Geschichte der Stadt zu würdigen.",
+            "hu": "Egy gyors megálló, hogy tisztelegj a város történelme előtt.",
+            "ro": "O oprire rapidă pentru a onora istoria orașului.",
+            "en": "A quick stop to appreciate the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum von Bălan",
+            "hu": "Balánbányai Művelődési Központ",
+            "ro": "Casa de Cultură din Bălan",
+            "en": "Cultural Center of Bălan"
+          },
+          "coords": [
+            25.8085,
+            46.6512
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und sehen Sie sich die aktuellen Ausstellungen an.",
+            "hu": "Tedd le a biciklit, és nézd meg az aktuális kiállításokat.",
+            "ro": "Parcați bicicleta și vizitați expozițiile curente.",
+            "en": "Park your bike and check out the current exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehemalige Kupferminen",
+            "hu": "Egykori rézbányák",
+            "ro": "Fostele Mine de Cupru",
+            "en": "Former Copper Mines"
+          },
+          "coords": [
+            25.795,
+            46.66
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Die Fahrt dorthin bietet großartige Ausblicke. Schließen Sie Ihr Fahrrad gut an, während Sie die Gegend erkunden.",
+            "hu": "Az odavezető út nagyszerű kilátást nyújt. Zárd le jól a biciklidet, amíg felfedezed a területet.",
+            "ro": "Drumul până acolo oferă priveliști grozave. Asigurați-vă bicicleta în timp ce explorați zona.",
+            "en": "The ride there offers great views. Lock your bike securely while exploring the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt in Richtung Hășmaș-Gebirge",
+            "hu": "Tekerés a Hasmás-hegység irányába",
+            "ro": "Plimbare spre Munții Hășmaș",
+            "en": "Ride towards Hășmaș Mountains"
+          },
+          "coords": [
+            25.84,
+            46.665
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 9,
+          "tip_5lang": {
+            "de": "Dies ist eine anspruchsvolle, aber lohnende Fahrt mit Panoramablick.",
+            "hu": "Ez egy kihívást jelentő, de hálás út panorámás kilátással.",
+            "ro": "Aceasta este o plimbare dificilă, dar plină de satisfacții, cu vederi panoramice.",
+            "en": "This is a challenging but rewarding ride with panoramic views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Bălan beginnt entspannt im Jugendpark. Am Vormittag radeln Sie durch das Stadtzentrum, vorbei an den Kirchen und dem Bergbaudenkmal, und machen Halt im Kulturzentrum. Gegen Mittag führt Sie die Route aus der Stadt hinaus zu den ehemaligen Kupferminen, wo Sie die industrielle Vergangenheit auf zwei Rädern erkunden. Der Nachmittag ist für die Abenteuerlustigen: eine anspruchsvollere Fahrt in Richtung des majestätischen Hășmaș-Gebirges, die mit atemberaubenden Ausblicken belohnt wird.",
+        "hu": "A balánbányai kerékpártúra lazán indul az Ifjúsági Parkban. Délelőtt a városközponton tekersz keresztül, elhaladva a templomok és a Bányász-emlékmű mellett, majd megállsz a Művelődési Központnál. Dél körül az útvonal kivezet a városból az egykori rézbányákhoz, ahol két keréken fedezheted fel az ipari múltat. A délután a kalandvágyóké: egy nagyobb kihívást jelentő tekerés a fenséges Hasmás-hegység felé, ami lélegzetelállító kilátással jutalmaz.",
+        "ro": "Turul cu bicicleta prin Bălan începe relaxat în Parcul Tineretului. Dimineața pedalați prin centrul orașului, trecând pe lângă biserici și Monumentul Minerului, cu o oprire la Casa de Cultură. Spre prânz, traseul vă scoate din oraș spre fostele mine de cupru, unde explorați trecutul industrial pe două roți. După-amiaza este pentru aventurieri: o tură mai solicitantă spre Munții Hășmaș, care vă va recompensa cu priveliști uluitoare.",
+        "en": "Your bike tour of Bălan starts with a relaxed ride in the Youth Park. In the morning, you'll cycle through the city center, passing the churches and the Mining Monument, with a stop at the Cultural Center. Around noon, the route takes you out of town to the former copper mines, where you'll explore the industrial past on two wheels. The afternoon is for the adventurous: a more challenging ride towards the majestic Hășmaș Mountains, which rewards you with breathtaking views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici",
+            "tip": "Perfekt für einen schnellen, proteinreichen Snack während einer Radtour."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Erfrischen Sie sich nach der Fahrt mit einem kalten Bier aus der Region Harghita."
+          },
+          {
+            "name": "Palatschinken (Plăcinte)",
+            "tip": "Süße oder herzhafte Pfannkuchen als wohlverdiente Belohnung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mics",
+            "tip": "Tökéletes egy gyors, fehérjedús harapnivalóhoz a biciklitúra közben."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Frissülj fel a tekerés után egy hideg, Hargita-környéki sörrel."
+          },
+          {
+            "name": "Palacsinta",
+            "tip": "Édes vagy sós palacsinta, mint jól megérdemelt jutalom."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici",
+            "tip": "Perfect pentru o gustare rapidă și bogată în proteine în timpul turului cu bicicleta."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Răcoriți-vă după plimbare cu o bere rece din regiunea Harghita."
+          },
+          {
+            "name": "Plăcinte",
+            "tip": "Clătite dulci sau sărate ca o recompensă binemeritată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici",
+            "tip": "Perfect for a quick, protein-rich snack during a bike tour."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Refresh yourself after the ride with a cold beer from the Harghita region."
+          },
+          {
+            "name": "Pancakes (Plăcinte)",
+            "tip": "Sweet or savory pancakes as a well-deserved reward."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Einsamer Fels",
+            "tip": "Wenn Sie in die Nähe radeln, bietet dieser Ort eine besondere Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rast am Fluss",
+            "tip": "Eine kurze Pause am Olt-Fluss, um dem Wasser zu lauschen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ausblick von den Minenhügeln",
+            "tip": "Von den Anhöhen bei den Minen hat man einen weiten, ruhigen Blick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egyes-kő",
+            "tip": "Ha a közelébe tekersz, ez a hely különleges csendet kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pihenő a folyónál",
+            "tip": "Egy rövid szünet az Olt folyónál, hogy hallgasd a víz csobogását.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a bánya-dombokról",
+            "tip": "A bányák melletti magaslatokról tágas, csendes kilátás nyílik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piatra Singuratică",
+            "tip": "Dacă pedalați în apropiere, acest loc oferă o liniște deosebită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Popas la râu",
+            "tip": "O scurtă pauză pe malul Oltului pentru a asculta susurul apei.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de pe dealurile minei",
+            "tip": "De pe înălțimile de lângă mine se deschide o priveliște vastă și liniștită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lonely Rock (Einsamer Fels)",
+            "tip": "If you cycle nearby, this place offers a special silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rest by the river",
+            "tip": "A short break by the Olt river to listen to the water.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the mine hills",
+            "tip": "From the hills near the mines, you get a wide, quiet view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Bergblumenhonig ist ein süßes und gesundes Souvenir."
+          },
+          {
+            "name": "Getrocknete Pilze",
+            "tip": "Auf den Märkten finden Sie oft eine Auswahl an lokalen Waldpilzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A hegyvidéki virágméz édes és egészséges szuvenír."
+          },
+          {
+            "name": "Szárított gomba",
+            "tip": "A piacokon gyakran találsz válogatást helyi erdei gombákból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Mierea de flori de munte este un suvenir dulce și sănătos."
+          },
+          {
+            "name": "Ciuperci uscate",
+            "tip": "În piețe veți găsi adesea o selecție de ciuperci de pădure locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Mountain flower honey is a sweet and healthy souvenir."
+          },
+          {
+            "name": "Dried Mushrooms",
+            "tip": "You can often find a selection of local forest mushrooms at the markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, insbesondere die Bremsen, vor den Abfahrten.",
+          "Ein Helm wird dringend empfohlen, besonders auf den Bergstraßen.",
+          "Nehmen Sie genügend Wasser und einige energiereiche Snacks mit.",
+          "Ein kleines Reparaturset kann bei einer Reifenpanne sehr nützlich sein."
+        ],
+        "hu": [
+          "Ellenőrizd a biciklidet, különösen a fékeket, a lejtők előtt.",
+          "A sisak viselése erősen ajánlott, különösen a hegyi utakon.",
+          "Vigyél magaddal elegendő vizet és néhány energiadús harapnivalót.",
+          "Egy kis javítókészlet nagyon hasznos lehet egy defekt esetén."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta, în special frânele, înainte de coborâri.",
+          "Casca este foarte recomandată, mai ales pe drumurile de munte.",
+          "Luați suficientă apă și câteva gustări energizante.",
+          "Un mic kit de reparații poate fi foarte util în caz de pană."
+        ],
+        "en": [
+          "Check your bike, especially the brakes, before the descents.",
+          "A helmet is highly recommended, especially on the mountain roads.",
+          "Bring enough water and some high-energy snacks.",
+          "A small repair kit can be very useful in case of a flat tire."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 35.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Stadtzentrum (Parken)",
+            "hu": "Városközpont Klaszter (Parkolás)",
+            "ro": "Cluster Centru (Parcare)",
+            "en": "City Center Cluster (Parking)"
+          },
+          "coords": [
+            25.808,
+            46.6515
+          ],
+          "category": "travel",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die Sehenswürdigkeiten im Zentrum zu Fuß.",
+            "hu": "Parkolj le itt, és fedezd fel gyalog a központi látnivalókat.",
+            "ro": "Parcați aici și explorați atracțiile din centru pe jos.",
+            "en": "Park here and explore the central sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum und Bergbaudenkmal",
+            "hu": "Művelődési Központ és Bányász-emlékmű",
+            "ro": "Casa de Cultură și Monumentul Minerului",
+            "en": "Cultural Center and Mining Monument"
+          },
+          "coords": [
+            25.809,
+            46.6505
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang hier, um ein Gefühl für die Stadt zu bekommen.",
+            "hu": "Kezdd itt a sétát, hogy ráérezz a város hangulatára.",
+            "ro": "Începeți turul pietonal de aici pentru a simți atmosfera orașului.",
+            "en": "Start your walking tour here to get a feel for the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisch-katholische und Orthodoxe Kirche",
+            "hu": "Római katolikus és ortodox templom",
+            "ro": "Bisericile Romano-Catolică și Ortodoxă",
+            "en": "Roman-Catholic and Orthodox Churches"
+          },
+          "coords": [
+            25.8125,
+            46.6467
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beide Kirchen liegen nahe beieinander und sind leicht zu Fuß erreichbar.",
+            "hu": "Mindkét templom közel van egymáshoz, könnyen megközelíthető gyalog.",
+            "ro": "Ambele biserici sunt apropiate și ușor accesibile pe jos.",
+            "en": "Both churches are close to each other and easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Kupferminen (Parken)",
+            "hu": "Rézbányák Klaszter (Parkolás)",
+            "ro": "Cluster Minele de Cupru (Parcare)",
+            "en": "Copper Mines Cluster (Parking)"
+          },
+          "coords": [
+            25.794,
+            46.661
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Fahren Sie zu den ehemaligen Minen. Die Überreste erzählen eine beeindruckende Geschichte.",
+            "hu": "Vezess el az egykori bányákhoz. A maradványok lenyűgöző történetet mesélnek.",
+            "ro": "Conduceți spre fostele mine. Rămășițele spun o poveste impresionantă.",
+            "en": "Drive to the former mines. The remains tell an impressive story."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Hășmaș-Gebirge (Parken)",
+            "hu": "Hasmás-hegység Klaszter (Parkolás)",
+            "ro": "Cluster Munții Hășmaș (Parcare)",
+            "en": "Hășmaș Mountains Cluster (Parking)"
+          },
+          "coords": [
+            25.85,
+            46.68
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 15,
+          "tip_5lang": {
+            "de": "Fahren Sie tiefer in die Berge, um die spektakuläre Natur zu erleben.",
+            "hu": "Hajts be mélyebbre a hegyekbe, hogy megtapasztald a látványos természetet.",
+            "ro": "Intrați mai adânc în munți pentru a experimenta natura spectaculoasă.",
+            "en": "Drive deeper into the mountains to experience the spectacular nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsamer Fels",
+            "hu": "Egyes-kő",
+            "ro": "Piatra Singuratică",
+            "en": "Lonely Rock"
+          },
+          "coords": [
+            25.855,
+            46.682
+          ],
+          "category": "natural features",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz führt Sie zu dieser ikonischen Felsformation.",
+            "hu": "Egy rövid séta a parkolótól elvezet ehhez az ikonikus sziklaképződményhez.",
+            "ro": "O scurtă plimbare de la parcare vă duce la această formațiune stâncoasă iconică.",
+            "en": "A short walk from the parking lot takes you to this iconic rock formation."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Hășmaș-Gebirge",
+            "hu": "Kilátópont a Hasmás-hegységben",
+            "ro": "Punct de belvedere în Munții Hășmaș",
+            "en": "Hășmaș Mountains Viewpoint"
+          },
+          "coords": [
+            25.845,
+            46.678
+          ],
+          "category": "natural features",
+          "arrive_at": "16:20",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15,
+          "tip_5lang": {
+            "de": "Auf dem Rückweg halten Sie an einem Aussichtspunkt für ein letztes Panorama.",
+            "hu": "Visszafelé állj meg egy kilátópontnál egy utolsó panorámáért.",
+            "ro": "Pe drumul de întoarcere, opriți-vă la un punct de belvedere pentru o ultimă panoramă.",
+            "en": "On the way back, stop at a viewpoint for a final panorama."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto kombiniert städtische Erkundung mit Naturerlebnissen. Am Morgen parken Sie im Zentrum von Bălan und erkunden den ersten Cluster zu Fuß: Kulturzentrum, Denkmal und die Kirchen. Mittags fahren Sie zum zweiten Cluster, den ehemaligen Kupferminen, um in die industrielle Vergangenheit einzutauchen. Der Nachmittag gehört ganz dem Hășmaș-Gebirge; Sie fahren zu einem Ausgangspunkt und wandern zum beeindruckenden Einsamen Fels. Ein letzter Stopp an einem Aussichtspunkt auf dem Rückweg rundet den Tag ab.",
+        "hu": "Az autós nap a városi felfedezést ötvözi a természeti élményekkel. Délelőtt Balánbánya központjában parkol, és gyalog fedezi fel az első klasztert: művelődési központ, emlékmű és a templomok. Délben a második klaszterhez, az egykori rézbányákhoz hajt, hogy elmerüljön az ipari múltban. A délután teljes egészében a Hasmás-hegységé; elautózik egy kiindulópontra, majd túrázik a lenyűgöző Egyes-kőhöz. A napot egy utolsó megálló zárja egy kilátópontnál a visszaúton.",
+        "ro": "Ziua dvs. cu mașina combină explorarea urbană cu experiențele în natură. Dimineața parcați în centrul Bălanului și explorați primul cluster pe jos: casa de cultură, monumentul și bisericile. La prânz, conduceți spre al doilea cluster, fostele mine de cupru, pentru a vă cufunda în trecutul industrial. După-amiaza este dedicată în întregime Munților Hășmaș; conduceți până la un punct de plecare și faceți o drumeție până la impresionanta Piatră Singuratică. O ultimă oprire la un punct de belvedere pe drumul de întoarcere încheie ziua.",
+        "en": "Your day by car combines urban exploration with nature experiences. In the morning, you'll park in the center of Bălan and explore the first cluster on foot: cultural center, monument, and the churches. At noon, you'll drive to the second cluster, the former copper mines, to delve into the industrial past. The afternoon is dedicated entirely to the Hășmaș Mountains; you drive to a trailhead and hike to the impressive Lonely Rock. A final stop at a viewpoint on the way back completes the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Eine traditionelle Kuttelsuppe, die man in vielen lokalen Gasthäusern findet."
+          },
+          {
+            "name": "Afinată",
+            "tip": "Ein lokaler Blaubeerlikör, perfekt als Digestif nach dem Essen."
+          },
+          {
+            "name": "Pâine de casă",
+            "tip": "Suchen Sie nach hausgemachtem Brot, das oft mit Kartoffeln gebacken wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pacalleves (Ciorbă de burtă)",
+            "tip": "Hagyományos leves, amelyet sok helyi vendéglőben megtalálhatsz."
+          },
+          {
+            "name": "Áfonyapálinka (Afinată)",
+            "tip": "Helyi áfonyalikőr, tökéletes emésztést segítő italként étkezés után."
+          },
+          {
+            "name": "Házi kenyér",
+            "tip": "Keress házi készítésű, gyakran burgonyával sütött kenyeret."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "O supă tradițională care se găsește în multe restaurante locale."
+          },
+          {
+            "name": "Afinată",
+            "tip": "Un lichior local de afine, perfect ca digestiv după masă."
+          },
+          {
+            "name": "Pâine de casă",
+            "tip": "Căutați pâine de casă, adesea făcută cu cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă de burtă (Tripe soup)",
+            "tip": "A traditional soup found in many local inns."
+          },
+          {
+            "name": "Afinată (Blueberry liqueur)",
+            "tip": "A local blueberry liqueur, perfect as a digestif after a meal."
+          },
+          {
+            "name": "Homemade bread",
+            "tip": "Look for homemade bread, often baked with potatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stille der Berge",
+            "tip": "Schalten Sie den Motor aus und genießen Sie die absolute Ruhe im Hășmaș-Gebirge.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Picknickplatz",
+            "tip": "Entlang der Bergstraßen finden sich viele Plätze für ein ruhiges Picknick.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang über den Gipfeln",
+            "tip": "Finden Sie einen westlich ausgerichteten Punkt für einen unvergesslichen Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A hegyek csendje",
+            "tip": "Állítsd le a motort, és élvezd a teljes csendet a Hasmás-hegységben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Piknikezőhely",
+            "tip": "A hegyi utak mentén számos hely található egy csendes piknikhez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a csúcsok felett",
+            "tip": "Keress egy nyugatra néző pontot egy felejthetetlen naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Liniștea munților",
+            "tip": "Opriți motorul și bucurați-vă de liniștea absolută din Munții Hășmaș.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Loc de picnic",
+            "tip": "De-a lungul drumurilor montane veți găsi multe locuri pentru un picnic liniștit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus peste creste",
+            "tip": "Găsiți un punct orientat spre vest pentru un apus de neuitat.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Silence of the mountains",
+            "tip": "Turn off the engine and enjoy the absolute silence in the Hășmaș Mountains.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Picnic spot",
+            "tip": "Along the mountain roads you will find many places for a quiet picnic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset over the peaks",
+            "tip": "Find a west-facing spot for an unforgettable sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Szekler-Tore",
+            "tip": "Auch wenn Sie keines kaufen können, bewundern Sie die Handwerkskunst in den umliegenden Dörfern."
+          },
+          {
+            "name": "Wollprodukte",
+            "tip": "Suchen Sie nach handgestrickten Socken, Mützen oder Decken aus lokaler Wolle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Székelykapuk",
+            "tip": "Még ha nem is tudsz egyet sem venni, csodáld meg a kézműves munkát a környező falvakban."
+          },
+          {
+            "name": "Gyapjútermékek",
+            "tip": "Keress kézzel kötött zoknikat, sapkákat vagy takarókat helyi gyapjúból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Porți secuiești",
+            "tip": "Chiar dacă nu puteți cumpăra una, admirați măiestria în satele din jur."
+          },
+          {
+            "name": "Produse din lână",
+            "tip": "Căutați șosete, căciuli sau pături tricotate manual din lână locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Szekler gates",
+            "tip": "Even if you can't buy one, admire the craftsmanship in the surrounding villages."
+          },
+          {
+            "name": "Wool products",
+            "tip": "Look for hand-knitted socks, hats or blankets made from local wool."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Zustand der Bergstraßen, bevor Sie losfahren, besonders außerhalb der Saison.",
+          "Tanken Sie voll, bevor Sie in die Berge fahren, Tankstellen sind dort selten.",
+          "Nehmen Sie eine gute Karte oder ein GPS-Gerät mit, da der Handyempfang lückenhaft sein kann.",
+          "Seien Sie auf plötzliche Wetteränderungen in den Bergen vorbereitet."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a hegyi utak állapotát, különösen szezonon kívül.",
+          "Tankolj tele, mielőtt a hegyekbe indulsz, a benzinkutak ott ritkák.",
+          "Vigyél magaddal egy jó térképet vagy GPS-készüléket, mert a mobil térerő akadozhat.",
+          "Készülj fel a hirtelen időjárás-változásokra a hegyekben."
+        ],
+        "ro": [
+          "Verificați starea drumurilor montane înainte de a pleca, mai ales în afara sezonului.",
+          "Faceți plinul înainte de a pleca la munte, benzinăriile sunt rare acolo.",
+          "Luați o hartă bună sau un dispozitiv GPS, deoarece semnalul mobil poate fi slab.",
+          "Fiți pregătiți pentru schimbări bruște de vreme la munte."
+        ],
+        "en": [
+          "Check the condition of the mountain roads before you go, especially out of season.",
+          "Fill up your tank before heading into the mountains, gas stations are rare there.",
+          "Bring a good map or GPS device, as cell reception can be patchy.",
+          "Be prepared for sudden weather changes in the mountains."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum (Spaziergang)",
+            "hu": "Központi Klaszter (Séta)",
+            "ro": "Cluster Centru (Plimbare)",
+            "en": "Center Cluster (Walk)"
+          },
+          "coords": [
+            25.8085,
+            46.6512
+          ],
+          "category": "travel",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Spaziergang durch das Stadtzentrum.",
+            "hu": "Kezdje a napot egy sétával a városközpontban.",
+            "ro": "Începeți ziua cu o plimbare prin centrul orașului.",
+            "en": "Start your day with a walk through the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisch-katholische und Orthodoxe Kirche",
+            "hu": "Római katolikus és ortodox templom",
+            "ro": "Bisericile Romano-Catolică și Ortodoxă",
+            "en": "Roman-Catholic and Orthodox Churches"
+          },
+          "coords": [
+            25.8125,
+            46.6467
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beiden Hauptkirchen der Stadt, die nur einen kurzen Spaziergang voneinander entfernt sind.",
+            "hu": "Fedezze fel a város két fő templomát, melyek csak egy rövid sétatávolságra vannak egymástól.",
+            "ro": "Descoperiți cele două biserici principale ale orașului, la o scurtă plimbare una de cealaltă.",
+            "en": "Discover the city's two main churches, just a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum und Bergbaudenkmal",
+            "hu": "Művelődési Központ és Bányász-emlékmű",
+            "ro": "Casa de Cultură și Monumentul Minerului",
+            "en": "Cultural Center and Mining Monument"
+          },
+          "coords": [
+            25.809,
+            46.6505
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie zum kulturellen Herzen der Stadt.",
+            "hu": "Egy rövid séta elviszi a város kulturális szívébe.",
+            "ro": "O scurtă plimbare vă duce la inima culturală a orașului.",
+            "en": "A short walk takes you to the cultural heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Kupferminen (Busfahrt)",
+            "hu": "Rézbányák Klaszter (Buszozás)",
+            "ro": "Cluster Minele de Cupru (Călătorie cu autobuzul)",
+            "en": "Copper Mines Cluster (Bus Ride)"
+          },
+          "coords": [
+            25.795,
+            46.66
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zu den ehemaligen Minen. Informieren Sie sich über den Fahrplan.",
+            "hu": "Menjen helyi busszal az egykori bányákhoz. Tájékozódjon a menetrendről.",
+            "ro": "Luați un autobuz local spre fostele mine. Verificați orarul.",
+            "en": "Take a local bus to the former mines. Check the schedule beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Jugendpark",
+            "hu": "Ifjúsági Park",
+            "ro": "Parcul Tineretului",
+            "en": "Youth Park"
+          },
+          "coords": [
+            25.8105,
+            46.644
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum und entspannen Sie im Park.",
+            "hu": "Menjen vissza busszal a központba és pihenjen a parkban.",
+            "ro": "Luați autobuzul înapoi în centru și relaxați-vă în parc.",
+            "en": "Take the bus back to the center and relax in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Bălan in zwei Clustern. Der Vormittag ist einem Spaziergang durch das Stadtzentrum gewidmet, bei dem Sie die Kirchen, das Denkmal und das Kulturzentrum besichtigen. Gegen Mittag nehmen Sie einen Bus, der Sie zum zweiten Cluster bringt: den weitläufigen ehemaligen Kupferminen, die Sie zu Fuß erkunden. Am Nachmittag fahren Sie mit dem Bus zurück ins Zentrum und lassen den Tag im Jugendpark ausklingen, einem grünen Treffpunkt für Einheimische und Besucher.",
+        "hu": "Tömegközlekedéssel két klaszterben fedezi fel Balánbányát. A délelőtt a városközpontban tett sétával telik, megnézve a templomokat, az emlékművet és a művelődési központot. Dél körül busszal utazik a második klaszterhez: a kiterjedt egykori rézbányákhoz, amelyeket gyalog fedez fel. Délután busszal tér vissza a központba, és a napot az Ifjúsági Parkban, a helyiek és a látogatók zöld találkozóhelyén zárja.",
+        "ro": "Folosind transportul public, explorați Bălanul în două clustere. Dimineața este dedicată unei plimbări prin centrul orașului, vizitând bisericile, monumentul și casa de cultură. Spre prânz, luați un autobuz care vă duce la al doilea cluster: fostele mine de cupru, pe care le explorați pe jos. După-amiaza, vă întoarceți cu autobuzul în centru și încheiați ziua în Parcul Tineretului, un loc de întâlnire verde pentru localnici și vizitatori.",
+        "en": "Using public transport, you'll explore Bălan in two clusters. The morning is dedicated to a walk through the city center, visiting the churches, the monument, and the cultural center. Around noon, you take a bus that brings you to the second cluster: the expansive former copper mines, which you explore on foot. In the afternoon, you return by bus to the center and end the day in the Youth Park, a green meeting place for locals and visitors."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi",
+            "tip": "Ein schneller und leckerer Snack, den man an vielen Straßenecken findet."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "Ein pflanzlicher Aufstrich aus geröstetem Gemüse, ideal mit frischem Brot."
+          },
+          {
+            "name": "Socată",
+            "tip": "Ein erfrischendes, fermentiertes Holunderblütengetränk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perec (Covrigi)",
+            "tip": "Gyors és finom harapnivaló, amelyet sok utcasarkon megtalálsz."
+          },
+          {
+            "name": "Zakuszka",
+            "tip": "Sült zöldségekből készült növényi krém, ideális friss kenyérrel."
+          },
+          {
+            "name": "Bodzaszörp (Socată)",
+            "tip": "Frissítő, erjesztett bodzavirág ital."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi",
+            "tip": "O gustare rapidă și delicioasă găsită la multe colțuri de stradă."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "O pastă vegetală din legume coapte, ideală cu pâine proaspătă."
+          },
+          {
+            "name": "Socată",
+            "tip": "O băutură răcoritoare, fermentată din flori de soc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi (Pretzels)",
+            "tip": "A quick and tasty snack found on many street corners."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "A vegetable spread made from roasted vegetables, ideal with fresh bread."
+          },
+          {
+            "name": "Socată (Elderflower drink)",
+            "tip": "A refreshing, fermented elderflower drink."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof",
+            "tip": "Die alten Friedhöfe der Stadt bieten eine ruhige Atmosphäre und historische Grabsteine.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank im Park",
+            "tip": "Setzen Sie sich einfach hin und beobachten Sie das Leben in Bălan.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick aus dem Bus",
+            "tip": "Die Fahrt aus der Stadt hinaus bietet schöne, ruhige Ausblicke auf die Landschaft.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető",
+            "tip": "A város régi temetői csendes légkört és történelmi sírköveket kínálnak.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad a parkban",
+            "tip": "Csak ülj le és figyeld az életet Balánbányán.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a buszról",
+            "tip": "A városból kivezető út szép, csendes kilátást nyújt a tájra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitir",
+            "tip": "Vechiile cimitire ale orașului oferă o atmosferă liniștită și pietre funerare istorice.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă în parc",
+            "tip": "Pur și simplu stați jos și observați viața din Bălan.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere din autobuz",
+            "tip": "Călătoria în afara orașului oferă priveliști frumoase și liniștite ale peisajului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery",
+            "tip": "The city's old cemeteries offer a quiet atmosphere and historic tombstones.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench in the park",
+            "tip": "Just sit down and watch life in Bălan.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the bus",
+            "tip": "The ride out of town offers beautiful, quiet views of the landscape.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Apotheke",
+            "tip": "Kaufen Sie pflanzliche Heilmittel und Tees aus der Region."
+          },
+          {
+            "name": "Kleiner Laden",
+            "tip": "Unterstützen Sie die lokale Wirtschaft, indem Sie in einem der kleinen, familiengeführten Geschäfte einkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógyszertár",
+            "tip": "Vásárolj helyi gyógynövényes készítményeket és teákat."
+          },
+          {
+            "name": "Kisbolt",
+            "tip": "Támogasd a helyi gazdaságot azzal, hogy az egyik kis, családi üzletben vásárolsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Farmacie",
+            "tip": "Cumpărați remedii din plante și ceaiuri din regiune."
+          },
+          {
+            "name": "Magazin mic",
+            "tip": "Susțineți economia locală cumpărând de la unul dintre micile magazine de familie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pharmacy",
+            "tip": "Buy herbal remedies and teas from the region."
+          },
+          {
+            "name": "Small shop",
+            "tip": "Support the local economy by shopping at one of the small, family-run stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Haben Sie Kleingeld für Bustickets bereit.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse möglicherweise nicht häufig fahren.",
+          "Fragen Sie Einheimische nach der richtigen Haltestelle; sie sind normalerweise sehr hilfsbereit.",
+          "Eine Tageskarte könnte günstiger sein, wenn Sie mehrere Fahrten planen."
+        ],
+        "hu": [
+          "Legyen nálad aprópénz a buszjegyekhez.",
+          "Ellenőrizd előre a buszmenetrendet, mivel a buszok nem biztos, hogy gyakran járnak.",
+          "Kérdezd meg a helyieket a megfelelő megállóról; általában nagyon segítőkészek.",
+          "Egy napijegy olcsóbb lehet, ha több utazást tervezel."
+        ],
+        "ro": [
+          "Aveți la îndemână monede pentru biletele de autobuz.",
+          "Verificați programul autobuzelor în avans, deoarece s-ar putea să nu circule frecvent.",
+          "Întrebați localnicii despre stația corectă; de obicei sunt foarte de ajutor.",
+          "Un abonament de o zi ar putea fi mai ieftin dacă plănuiți mai multe călătorii."
+        ],
+        "en": [
+          "Have small change ready for bus tickets.",
+          "Check the bus schedule in advance, as buses may not run frequently.",
+          "Ask locals for the right stop; they are usually very helpful.",
+          "A day pass might be cheaper if you plan multiple trips."
+        ]
+      }
+    }
+  }
+}

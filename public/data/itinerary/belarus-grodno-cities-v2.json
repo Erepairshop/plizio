@@ -1,0 +1,1504 @@
+{
+  "city_id": "belarus-grodno-cities-v2",
+  "anchor": {
+    "name": "Hrodna",
+    "coords": [
+      23.8333,
+      53.6667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Franz-Xaver-Kathedrale",
+            "hu": "Szent Ferenc Xavér-katedrális",
+            "ro": "Catedrala Sfântul Francisc Xavier",
+            "en": "St. Francis Xavier Cathedral"
+          },
+          "coords": [
+            23.8315,
+            53.6795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die hölzernen Altäre aus dem 18. Jahrhundert und die Turmuhr.",
+            "hu": "Csodálja meg a 18. századi faoltárokat és a toronyórát.",
+            "ro": "Admirați altarele de lemn din secolul al XVIII-lea și ceasul din turn.",
+            "en": "Admire the 18th-century wooden altars and the tower clock."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Synagoge",
+            "hu": "Nagy Zsinagóga",
+            "ro": "Marea Sinagogă",
+            "en": "Great Synagogue"
+          },
+          "coords": [
+            23.8268,
+            53.6801
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die restaurierten maurischen Architekturelemente.",
+            "hu": "Figyelje meg a felújított mór építészeti elemeket.",
+            "ro": "Observați elementele arhitecturale maure restaurate.",
+            "en": "Look for the restored Moorish architectural elements."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Schloss",
+            "hu": "Régi Vár",
+            "ro": "Castelul Vechi",
+            "en": "Old Castle"
+          },
+          "coords": [
+            23.823,
+            53.678
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Panoramablick auf den Njemen von den Schlossmauern ist fantastisch.",
+            "hu": "Fantasztikus panoráma nyílik a Nyeman folyóra a várfalakról.",
+            "ro": "Priveliștea panoramică asupra râului Neman de pe zidurile castelului este fantastică.",
+            "en": "The panoramic view of the Neman River from the castle walls is fantastic."
+          }
+        },
+        {
+          "name": {
+            "de": "Neues Schloss",
+            "hu": "Új Vár",
+            "ro": "Castelul Nou",
+            "en": "New Castle"
+          },
+          "coords": [
+            23.824,
+            53.677
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:42",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Hier wurde 1795 die dritte Teilung Polens unterzeichnet.",
+            "hu": "Itt írták alá Lengyelország harmadik felosztását 1795-ben.",
+            "ro": "Aici a fost semnată a treia partiție a Poloniei în 1795.",
+            "en": "The third partition of Poland was signed here in 1795."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaloscha-Kirche",
+            "hu": "Kalozsa-templom",
+            "ro": "Biserica Kalozha",
+            "en": "Kalozha Church"
+          },
+          "coords": [
+            23.816,
+            53.679
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Eine der ältesten Kirchen in Belarus, mit einzigartigen Steineinlagen.",
+            "hu": "Fehéroroszország egyik legrégebbi temploma, egyedi kőberakásokkal.",
+            "ro": "Una dintre cele mai vechi biserici din Belarus, cu inserții unice de piatră.",
+            "en": "One of the oldest churches in Belarus, with unique stone inlays."
+          }
+        },
+        {
+          "name": {
+            "de": "Dramatheater Hrodna",
+            "hu": "Hrodnai Drámai Színház",
+            "ro": "Teatrul Dramatic din Hrodna",
+            "en": "Hrodna Drama Theater"
+          },
+          "coords": [
+            23.829,
+            53.676
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:09",
+          "stay_min": 20,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von der unkonventionellen „Krone“-Architektur.",
+            "hu": "Készítsen egy fotót a szokatlan „korona” építészetéről.",
+            "ro": "Faceți o fotografie a arhitecturii neconvenționale în formă de „coroană”.",
+            "en": "Take a photo of the unconventional 'crown' architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Shilibera-Park",
+            "hu": "Shilibera Park",
+            "ro": "Parcul Shilibera",
+            "en": "Shilibera Park"
+          },
+          "coords": [
+            23.835,
+            53.675
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um am Flussufer zu entspannen und den Tag ausklingen zu lassen.",
+            "hu": "Tökéletes hely a pihenésre a folyóparton és a nap lezárására.",
+            "ro": "Un loc perfect pentru a vă relaxa pe malul râului și a încheia ziua.",
+            "en": "A perfect spot to relax by the riverside and wind down your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt an der majestätischen Franz-Xaver-Kathedrale und führt Sie durch das reiche jüdische Erbe der Stadt an der Großen Synagoge. Am Mittag erklimmen Sie die historischen Schlossberge, um das Alte und das Neue Schloss zu erkunden und die Aussicht auf den Njemen zu genießen. Der Nachmittag führt Sie zur uralten Kaloscha-Kirche, einem Symbol der Beständigkeit, bevor Sie die moderne Architektur des Dramatheaters bewundern. Beenden Sie Ihren Tag mit einem entspannten Spaziergang im Shilibera-Park am Flussufer, wo Sie die ruhige Atmosphäre auf sich wirken lassen können.",
+        "hu": "Sétája a fenséges Szent Ferenc Xavér-katedrálisnál kezdődik, majd a Nagy Zsinagógánál a város gazdag zsidó örökségén keresztül vezet. Délben megmássza a történelmi várhegyeket, hogy felfedezze a Régi és Új várat, és élvezze a Nyeman folyóra nyíló kilátást. A délután elvezeti Önt az ősi Kalozsa-templomhoz, az állandóság szimbólumához, mielőtt megcsodálná a Drámai Színház modern építészetét. A napot egy pihentető sétával zárja a folyóparti Shilibera Parkban, ahol magába szívhatja a nyugodt légkört.",
+        "ro": "Turul dumneavoastră pietonal începe la maiestuoasa Catedrală Sfântul Francisc Xavier, conducându-vă prin bogata moștenire evreiască a orașului la Marea Sinagogă. La prânz, veți urca pe dealurile istorice ale castelului pentru a explora Castelul Vechi și Castelul Nou, bucurându-vă de priveliștea asupra râului Neman. După-amiaza vă poartă la vechea Biserică Kalozha, un simbol al rezistenței, înainte de a admira arhitectura modernă a Teatrului Dramatic. Încheiați ziua cu o plimbare relaxantă în Parcul Shilibera de pe malul râului, absorbind atmosfera liniștită.",
+        "en": "Your walking tour begins at the majestic St. Francis Xavier Cathedral, leading you through the city's rich Jewish heritage at the Great Synagogue. At midday, you'll ascend the historic castle hills to explore the Old and New Castles, enjoying views over the Neman River. The afternoon takes you to the ancient Kalozha Church, a symbol of resilience, before admiring the modern architecture of the Drama Theater. End your day with a relaxing stroll in Shilibera Park by the riverside, soaking in the tranquil atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Draniki (Kartoffelpuffer)",
+            "tip": "Probieren Sie sie mit Sauerrahm in einem traditionellen Restaurant in der Nähe des Sowjetskaja-Platzes."
+          },
+          {
+            "name": "Kolduny",
+            "tip": "Gefüllte Teigtaschen, oft mit Fleisch; ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Kwas",
+            "tip": "Ein fermentiertes Roggengetränk, sehr erfrischend an einem warmen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Draniki (krumplilángos)",
+            "tip": "Kóstolja meg tejföllel egy hagyományos étteremben a Szovjetszkaja tér közelében."
+          },
+          {
+            "name": "Kolduny",
+            "tip": "Töltött táskák, gyakran hússal; kiadós ebéd."
+          },
+          {
+            "name": "Kvasz",
+            "tip": "Erjesztett rozskenyér-ital, nagyon frissítő egy meleg napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Draniki (clătite de cartofi)",
+            "tip": "Încercați-le cu smântână la un restaurant tradițional lângă Piața Sovetskaya."
+          },
+          {
+            "name": "Kolduny",
+            "tip": "Găluște umplute, adesea cu carne; un prânz consistent."
+          },
+          {
+            "name": "Cvas",
+            "tip": "O băutură fermentată din secară, foarte răcoritoare într-o zi caldă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Draniki (potato pancakes)",
+            "tip": "Try them with sour cream at a traditional restaurant near Sovetskaya Square."
+          },
+          {
+            "name": "Kolduny",
+            "tip": "Stuffed dumplings, often with meat; a hearty lunch."
+          },
+          {
+            "name": "Kvass",
+            "tip": "A fermented rye bread drink, very refreshing on a warm day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Njemen",
+            "tip": "Finden Sie eine Bank mit Blick auf die Kaloscha-Kirche für einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof des Alten Schlosses",
+            "tip": "Abseits der Hauptausstellungen kann der Hof eine ruhige Oase sein.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Shilibera-Park",
+            "tip": "Der perfekte Ort, um den Sonnenuntergang über dem Fluss zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyeman folyó partja",
+            "tip": "Keressen egy padot, ahonnan a Kalozsa-templomra nyílik kilátás egy csendes pillanatra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Régi Vár udvara",
+            "tip": "A fő kiállításoktól távol az udvar csendes menedék lehet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Shilibera Park",
+            "tip": "Tökéletes hely a naplemente megtekintéséhez a folyó felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Neman",
+            "tip": "Găsiți o bancă cu vedere la Biserica Kalozha pentru un moment de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Castelului Vechi",
+            "tip": "Departe de expozițiile principale, curtea poate fi un refugiu liniștit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Shilibera",
+            "tip": "Locul perfect pentru a privi apusul peste râu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Neman River Bank",
+            "tip": "Find a bench overlooking Kalozha Church for a moment of peace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Old Castle Courtyard",
+            "tip": "Away from the main exhibits, the courtyard can be a quiet haven.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Shilibera Park",
+            "tip": "The perfect spot to watch the sunset over the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sowjetskaja-Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen und internationalen Marken."
+          },
+          {
+            "name": "Leinenprodukte",
+            "tip": "Belarus ist bekannt für hochwertiges Leinen; suchen Sie nach Tischdecken oder Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szovjetszkaja utca",
+            "tip": "A fő bevásárlóutca helyi és nemzetközi márkák keverékével."
+          },
+          {
+            "name": "Lenszövet termékek",
+            "tip": "Fehéroroszország híres a kiváló minőségű lenvászonról; keressen asztalterítőket vagy ruhákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Sovetskaya",
+            "tip": "Principala stradă comercială cu un amestec de mărci locale și internaționale."
+          },
+          {
+            "name": "Produse din in",
+            "tip": "Belarus este renumit pentru inul de înaltă calitate; căutați fețe de masă sau haine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sovetskaya Street",
+            "tip": "The main pedestrian shopping street with a mix of local and international brands."
+          },
+          {
+            "name": "Linen Products",
+            "tip": "Belarus is famous for high-quality linen; look for tablecloths or clothing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Halten Sie eine kleine Menge Bargeld für Eintrittsgelder oder kleine Einkäufe bereit.",
+          "Beginnen Sie früh, um die Menschenmassen an den Schlössern zu vermeiden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Tartson magánál egy kevés készpénzt a belépőjegyekhez vagy kisebb vásárlásokhoz.",
+          "Kezdje korán, hogy elkerülje a tömeget a váraknál."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele din centrul vechi pot fi denivelate.",
+          "Majoritatea atracțiilor centrale sunt la distanță de mers pe jos.",
+          "Păstrați o sumă mică de numerar pentru taxele de intrare sau cumpărături mici.",
+          "Începeți devreme pentru a evita aglomerația de la castele."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most central sights are within easy walking distance of each other.",
+          "Keep a small amount of cash handy for entrance fees or small purchases.",
+          "Start early to beat the crowds at the castles."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Shilibera-Park",
+            "hu": "Shilibera Park",
+            "ro": "Parcul Shilibera",
+            "en": "Shilibera Park"
+          },
+          "coords": [
+            23.835,
+            53.675
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer erfrischenden Fahrt entlang des Flusses.",
+            "hu": "Kezdje a napot egy frissítő tekeréssel a folyó mentén.",
+            "ro": "Începeți ziua cu o plimbare revigorantă de-a lungul râului.",
+            "en": "Start your day with a refreshing ride along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Dramatheater Hrodna",
+            "hu": "Hrodnai Drámai Színház",
+            "ro": "Teatrul Dramatic din Hrodna",
+            "en": "Hrodna Drama Theater"
+          },
+          "coords": [
+            23.829,
+            53.676
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein schneller Fotostopp, um die einzigartige Architektur zu bewundern.",
+            "hu": "Egy gyors fotómegálló, hogy megcsodálja az egyedi építészetet.",
+            "ro": "O oprire rapidă pentru fotografii pentru a admira arhitectura unică.",
+            "en": "A quick photo stop to admire the unique architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Franz-Xaver-Kathedrale",
+            "hu": "Szent Ferenc Xavér-katedrális",
+            "ro": "Catedrala Sfântul Francisc Xavier",
+            "en": "St. Francis Xavier Cathedral"
+          },
+          "coords": [
+            23.8315,
+            53.6795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:21",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das prächtige Innere erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a pompás belső teret.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora interiorul magnific.",
+            "en": "Lock your bike securely before exploring the magnificent interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuerwachturm",
+            "hu": "Tűztorony",
+            "ro": "Turnul de Pompieri",
+            "en": "Fire Lookout Tower"
+          },
+          "coords": [
+            23.829,
+            53.681
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:17",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für den Eklektizismus des frühen 20. Jahrhunderts.",
+            "hu": "A 20. század eleji eklektika szép példája.",
+            "ro": "Un exemplu frumos de eclectism de la începutul secolului al XX-lea.",
+            "en": "A fine example of early 20th-century eclecticism."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Synagoge",
+            "hu": "Nagy Zsinagóga",
+            "ro": "Marea Sinagogă",
+            "en": "Great Synagogue"
+          },
+          "coords": [
+            23.8268,
+            53.6801
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Reflektieren Sie über die reiche Geschichte der jüdischen Gemeinde von Hrodna.",
+            "hu": "Gondolkodjon el Hrodna zsidó közösségének gazdag történelmén.",
+            "ro": "Reflectați asupra istoriei bogate a comunității evreiești din Hrodna.",
+            "en": "Reflect on the rich history of Hrodna's Jewish community."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Schloss",
+            "hu": "Régi Vár",
+            "ro": "Castelul Vechi",
+            "en": "Old Castle"
+          },
+          "coords": [
+            23.823,
+            53.678
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause mit spektakulärer Aussicht.",
+            "hu": "Ideális egy ebédszünethez, látványos kilátással.",
+            "ro": "Ideal pentru o pauză de prânz cu vederi spectaculoase.",
+            "en": "Ideal for a lunch break with spectacular views."
+          }
+        },
+        {
+          "name": {
+            "de": "Neues Schloss",
+            "hu": "Új Vár",
+            "ro": "Castelul Nou",
+            "en": "New Castle"
+          },
+          "coords": [
+            23.824,
+            53.677
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vergleichen Sie den königlichen Rokoko-Stil mit der mittelalterlichen Strenge des Alten Schlosses.",
+            "hu": "Hasonlítsa össze a királyi rokokó stílust a Régi Vár középkori szigorával.",
+            "ro": "Comparați stilul rococo regal cu austeritatea medievală a Castelului Vechi.",
+            "en": "Compare the royal Rococo style to the medieval austerity of the Old Castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaloscha-Kirche",
+            "hu": "Kalozsa-templom",
+            "ro": "Biserica Kalozha",
+            "en": "Kalozha Church"
+          },
+          "coords": [
+            23.816,
+            53.679
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:17",
+          "stay_min": 45,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Die Fahrt dorthin entlang des Flusses ist besonders malerisch.",
+            "hu": "A folyó menti út odáig különösen festői.",
+            "ro": "Plimbarea cu bicicleta de-a lungul râului până acolo este deosebit de pitorească.",
+            "en": "The ride there along the river is especially scenic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit einer leichten Fahrt durch den Shilibera-Park. Sie radeln dann ins Stadtzentrum, um die moderne Architektur des Dramatheaters und die Pracht der Franz-Xaver-Kathedrale zu sehen. Zur Mittagszeit navigieren Sie durch das historische Herz der Stadt, besuchen die Synagoge und die beiden Schlösser, die über dem Fluss thronen, und genießen eine wohlverdiente Pause. Am Nachmittag unternehmen Sie eine malerische Fahrt zur alten Kaloscha-Kirche, einem Juwel der alten russischen Architektur. Beenden Sie Ihre Tour mit einer gemütlichen Rückfahrt durch die Stadt, während die Sonne untergeht.",
+        "hu": "Kerékpártúrája a Shilibera Parkban tett könnyed tekeréssel kezdődik. Ezután a városközpontba kerekezik, hogy megnézze a Drámai Színház modern építészetét és a Szent Ferenc Xavér-katedrális pompáját. Délben a város történelmi szívében navigál, meglátogatja a zsinagógát és a folyó fölé magasodó két várat egy jól megérdemelt pihenővel. Délután egy festői útra indul az ősi Kalozsa-templomhoz, az óorosz építészet gyöngyszeméhez. A túrát egy kényelmes visszaúttal fejezi be a városon keresztül, miközben a nap lenyugszik.",
+        "ro": "Turul cu bicicleta începe cu o plimbare ușoară prin Parcul Shilibera. Apoi pedalați spre centrul orașului pentru a vedea arhitectura modernă a Teatrului Dramatic și splendoarea Catedralei Sfântul Francisc Xavier. La prânz, navigați prin inima istorică a orașului, vizitând sinagoga și cele două castele de pe malul râului pentru o pauză binemeritată. După-amiaza, faceți o plimbare pitorească până la vechea Biserică Kalozha, o bijuterie a arhitecturii vechi ruse. Încheiați turul cu o plimbare relaxată înapoi prin oraș la apusul soarelui.",
+        "en": "Your bike tour starts with a gentle ride through Shilibera Park. You'll then pedal into the city center to see the modern architecture of the Drama Theater and the splendor of St. Francis Xavier Cathedral. At midday, navigate the historic heart of the city, visiting the synagogue and the two castles perched above the river for a well-deserved break. In the afternoon, take a scenic ride to the ancient Kalozha Church, a jewel of Old Rus' architecture. Finish your tour with a leisurely ride back through the city as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Draniki (Kartoffelpuffer)",
+            "tip": "Eine schnelle und stärkende Mahlzeit für Radfahrer."
+          },
+          {
+            "name": "Borschtsch",
+            "tip": "Wärmt an einem kühleren Tag, serviert mit einem Klecks Sauerrahm."
+          },
+          {
+            "name": "Sbiten",
+            "tip": "Ein traditionelles heißes Honiggetränk, perfekt nach einer langen Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Draniki (krumplilángos)",
+            "tip": "Gyors és energiát adó étel kerékpárosoknak."
+          },
+          {
+            "name": "Borscs",
+            "tip": "Felmelegít egy hűvösebb napon, egy kanál tejföllel tálalva."
+          },
+          {
+            "name": "Szbityeny",
+            "tip": "Hagyományos forró mézes ital, tökéletes egy hosszú tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Draniki (clătite de cartofi)",
+            "tip": "O masă rapidă și energizantă pentru bicicliști."
+          },
+          {
+            "name": "Borș",
+            "tip": "Vă încălzește într-o zi mai răcoroasă, servit cu o lingură de smântână."
+          },
+          {
+            "name": "Sbiten",
+            "tip": "O băutură tradițională fierbinte cu miere, perfectă după o plimbare lungă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Draniki (potato pancakes)",
+            "tip": "A quick and energizing meal for cyclists."
+          },
+          {
+            "name": "Borscht",
+            "tip": "Warms you up on a cooler day, served with a dollop of sour cream."
+          },
+          {
+            "name": "Sbiten",
+            "tip": "A traditional hot honey-based drink, perfect after a long ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kaloscha-Park",
+            "tip": "Der Park rund um die Kirche ist ein friedlicher Ort zum Nachdenken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt am Alten Schloss",
+            "tip": "Radfahren Sie für eine atemberaubende Aussicht auf den Sonnenuntergang über dem Njemen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Flussuferweg",
+            "tip": "Genießen Sie eine ruhige Fahrt abseits des Stadtverkehrs.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kalozsa Park",
+            "tip": "A templom körüli park békés hely az elmélyülésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátópont a Régi Várnál",
+            "tip": "Tekerjen fel egy lélegzetelállító naplementéért a Nyeman felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Folyóparti ösvény",
+            "tip": "Élvezze a csendes tekerést távol a városi forgalomtól.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kalozha",
+            "tip": "Parcul din jurul bisericii este un loc pașnic pentru reflecție.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere la Castelul Vechi",
+            "tip": "Pedalați până sus pentru un apus de soare uluitor peste Neman.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Potecă pe malul râului",
+            "tip": "Bucurați-vă de o plimbare liniștită departe de traficul orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kalozha Park",
+            "tip": "The park surrounding the church is a peaceful spot for reflection.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Old Castle Viewpoint",
+            "tip": "Cycle up for a stunning sunset view over the Neman.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Riverside Path",
+            "tip": "Enjoy a quiet ride away from the city traffic.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentralmarkt (Central Rynok)",
+            "tip": "Ein authentisches Erlebnis, um lokale Produkte und Snacks zu finden."
+          },
+          {
+            "name": "Handgefertigte Souvenirs",
+            "tip": "Suchen Sie nach kleinen Ständen in der Nähe der Schlösser für einzigartige handgemachte Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi Piac (Central Rynok)",
+            "tip": "Autentikus élmény helyi termékek és harapnivalók felfedezéséhez."
+          },
+          {
+            "name": "Kézzel készített ajándéktárgyak",
+            "tip": "Keressen kis standokat a várak közelében egyedi, kézzel készített ajándékokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală (Central Rynok)",
+            "tip": "O experiență autentică pentru a găsi produse și gustări locale."
+          },
+          {
+            "name": "Suveniruri artizanale",
+            "tip": "Căutați tarabe mici lângă castele pentru cadouri unice făcute manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market (Central Rynok)",
+            "tip": "An authentic experience to find local produce and snacks."
+          },
+          {
+            "name": "Handmade Souvenirs",
+            "tip": "Look for small stalls near the castles for unique handmade gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Einige Straßen im Zentrum können für Radfahrer gesperrt sein; folgen Sie den Schildern.",
+          "Nehmen Sie eine Flasche Wasser und ein Schloss für Ihr Fahrrad mit.",
+          "Die Stadt ist relativ flach, aber die Anstiege zu den Schlössern können anspruchsvoll sein."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Néhány belvárosi utca le lehet zárva a kerékpárosok elől; kövesse a táblákat.",
+          "Vigyen magával egy üveg vizet és egy lakatot a kerékpárjához.",
+          "A város viszonylag sík, de a várakhoz vezető emelkedők kihívást jelenthetnek."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Unele străzi din centru pot fi închise bicicliștilor; urmați indicatoarele.",
+          "Luați o sticlă de apă și un lacăt pentru bicicletă.",
+          "Orașul este relativ plat, dar urcușurile spre castele pot fi solicitante."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Some central streets may be pedestrian-only; follow the signs.",
+          "Bring a water bottle and a lock for your bike.",
+          "The city is relatively flat, but the climbs to the castles can be challenging."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kaloscha-Kirche",
+            "hu": "Kalozsa-templom",
+            "ro": "Biserica Kalozha",
+            "en": "Kalozha Church"
+          },
+          "coords": [
+            23.816,
+            53.679
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, da es etwas außerhalb des Hauptzentrums liegt und Parkplätze leichter zu finden sind.",
+            "hu": "Kezdje itt, mivel ez kissé kívül esik a fő központtól, és könnyebb parkolót találni.",
+            "ro": "Începeți aici, deoarece este puțin în afara centrului principal și parcarea este mai ușor de găsit.",
+            "en": "Start here as it's slightly outside the main center and parking is easier to find."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Parkplatz: Schlossbereich",
+            "hu": "Klaszter Parkoló: Várnegyed",
+            "ro": "Parcare Cluster: Zona Castelului",
+            "en": "Cluster Parking: Castle Area"
+          },
+          "coords": [
+            23.822,
+            53.6775
+          ],
+          "category": "transport",
+          "arrive_at": "10:25",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die nächsten drei Orte zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel a következő három helyszínt gyalog.",
+            "ro": "Parcați aici și explorați următoarele trei locații pe jos.",
+            "en": "Park here and explore the next three locations on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Schloss",
+            "hu": "Régi Vár",
+            "ro": "Castelul Vechi",
+            "en": "Old Castle"
+          },
+          "coords": [
+            23.823,
+            53.678
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Hauptmuseum der Stadt befindet sich in diesem historischen Komplex.",
+            "hu": "A város fő múzeuma ebben a történelmi komplexumban található.",
+            "ro": "Muzeul principal al orașului este găzduit în acest complex istoric.",
+            "en": "The city's main museum is housed within this historic complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Neues Schloss",
+            "hu": "Új Vár",
+            "ro": "Castelul Nou",
+            "en": "New Castle"
+          },
+          "coords": [
+            23.824,
+            53.677
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Gärten zwischen den beiden Schlössern.",
+            "hu": "Sétáljon a két vár közötti kertekben.",
+            "ro": "Plimbați-vă prin grădinile dintre cele două castele.",
+            "en": "Stroll through the gardens between the two castles."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Synagoge",
+            "hu": "Nagy Zsinagóga",
+            "ro": "Marea Sinagogă",
+            "en": "Great Synagogue"
+          },
+          "coords": [
+            23.8268,
+            53.6801
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:07",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schlossberg hinunter.",
+            "hu": "Egy rövid séta le a várhegyről.",
+            "ro": "O scurtă plimbare la vale de dealul castelului.",
+            "en": "A short walk down from the castle hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Parkplatz: Sowjetskaja Platz",
+            "hu": "Klaszter Parkoló: Szovjetszkaja tér",
+            "ro": "Parcare Cluster: Piața Sovetskaya",
+            "en": "Cluster Parking: Sovetskaya Square"
+          },
+          "coords": [
+            23.832,
+            53.68
+          ],
+          "category": "transport",
+          "arrive_at": "14:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Neuer Parkplatz für den Nachmittags-Cluster.",
+            "hu": "Új parkoló a délutáni klaszterhez.",
+            "ro": "Parcare nouă pentru clusterul de după-amiază.",
+            "en": "New parking spot for the afternoon cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Franz-Xaver-Kathedrale",
+            "hu": "Szent Ferenc Xavér-katedrális",
+            "ro": "Catedrala Sfântul Francisc Xavier",
+            "en": "St. Francis Xavier Cathedral"
+          },
+          "coords": [
+            23.8315,
+            53.6795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Herz des katholischen Lebens in Hrodna.",
+            "hu": "Hrodna katolikus életének szíve.",
+            "ro": "Inima vieții catolice din Hrodna.",
+            "en": "The heart of Catholic life in Hrodna."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto bei der etwas abgelegenen Kaloscha-Kirche. Fahren Sie dann zum ersten Cluster und parken Sie in der Nähe der Schlösser. Verbringen Sie den Vormittag damit, zwischen dem Alten und Neuen Schloss zu spazieren und die Große Synagoge zu Fuß zu erreichen. Nach dem Mittagessen fahren Sie zu Ihrem zweiten Cluster am Sowjetskaja-Platz. Parken Sie erneut und widmen Sie den Nachmittag der Erkundung der prächtigen Franz-Xaver-Kathedrale und der umliegenden belebten Straßen. Dieser Plan minimiert die Parkplatzsuche und maximiert die Zeit, die Sie zu Fuß im Herzen der Geschichte verbringen.",
+        "hu": "Kezdje a napot autóval a kissé távolabb eső Kalozsa-templomnál. Ezután vezessen az első klaszterhez, és parkoljon a várak közelében. Töltse a délelőttöt a Régi és Új vár közötti sétával, és gyalog érje el a Nagy Zsinagógát. Ebéd után vezessen a második klaszterhez a Szovjetszkaja téren. Parkoljon le újra, és szentelje a délutánt a pompás Szent Ferenc Xavér-katedrális és a környező nyüzsgő utcák felfedezésének. Ez a terv minimalizálja a parkolóhely-keresést, és maximalizálja a történelem szívében gyalog töltött időt.",
+        "ro": "Începeți ziua cu mașina la Biserica Kalozha, aflată la o oarecare distanță. Apoi, conduceți spre primul cluster și parcați lângă castele. Petreceți dimineața plimbându-vă între Castelul Vechi și cel Nou și ajungând pe jos la Marea Sinagogă. După prânz, conduceți spre al doilea cluster din Piața Sovetskaya. Parcați din nou și dedicați după-amiaza explorării magnificei Catedrale Sfântul Francisc Xavier și a străzilor aglomerate din jur. Acest plan minimizează căutarea parcării și maximizează timpul petrecut pe jos în inima istoriei.",
+        "en": "Start your day by car at the slightly remote Kalozha Church. Then, drive to the first cluster and park near the castles. Spend your morning walking between the Old and New Castles and reaching the Great Synagogue on foot. After lunch, drive to your second cluster at Sovetskaya Square. Park again and dedicate the afternoon to exploring the magnificent St. Francis Xavier Cathedral and the surrounding bustling streets. This plan minimizes parking struggles and maximizes time spent walking in the heart of history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Machanka mit Blini",
+            "tip": "Ein dicker Schweinefleischeintopf, der mit Pfannkuchen serviert wird; ein Muss."
+          },
+          {
+            "name": "Restaurant Kronon",
+            "tip": "Befindet sich in einem Park und bietet ein gehobenes Speiseerlebnis mit europäischer Küche."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie eine lokale Biersorte, um Ihren Durst zu stillen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Macsanka blinivel",
+            "tip": "Sűrű sertéspörkölt palacsintával tálalva; kihagyhatatlan."
+          },
+          {
+            "name": "Kronon Étterem",
+            "tip": "Egy parkban található, és elegáns étkezési élményt kínál európai konyhával."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy helyi sört a szomjúság oltására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Machanka cu blini",
+            "tip": "O tocană groasă de porc servită cu clătite; o încercare obligatorie."
+          },
+          {
+            "name": "Restaurantul Kronon",
+            "tip": "Situat într-un parc, oferă o experiență culinară de lux cu bucătărie europeană."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încercați o marcă de bere locală pentru a vă potoli setea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Machanka with blini",
+            "tip": "A thick pork stew served with pancakes; a must-try."
+          },
+          {
+            "name": "Kronon Restaurant",
+            "tip": "Located in a park, offers an upscale dining experience with European cuisine."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a local brew to quench your thirst."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Augustow-Kanal",
+            "tip": "Machen Sie einen kurzen Abstecher (außerhalb der Stadt) für eine friedliche Naturkulisse.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park Zylibiera (Shilibera)",
+            "tip": "Nachdem Sie Ihr Auto abgestellt haben, ist dies ein großartiger Ort zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Neuen Schloss",
+            "tip": "Finden Sie einen ruhigen Platz in den Gärten mit Blick auf den Fluss.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Augustówi-csatorna",
+            "tip": "Tegyen egy rövid kitérőt (a városon kívül) egy békés természeti környezetért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zylibiera (Shilibera) Park",
+            "tip": "Miután leparkolta az autót, ez egy remek hely a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás az Új Várból",
+            "tip": "Keressen egy csendes helyet a kertekben, ahonnan a folyóra nyílik kilátás.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalul Augustów",
+            "tip": "Faceți o scurtă deviere (în afara orașului) pentru un cadru natural pașnic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Zylibiera (Shilibera)",
+            "tip": "După ce parcați mașina, acesta este un loc minunat pentru a vă relaxa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Castelul Nou",
+            "tip": "Găsiți un loc liniștit în grădini cu vedere la râu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Augustow Canal",
+            "tip": "Take a short drive out of the city for a peaceful natural setting.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zylibiera (Shilibera) Park",
+            "tip": "After parking your car, this is a great place to unwind.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "New Castle View",
+            "tip": "Find a quiet spot in the gardens overlooking the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kaufhaus Neman",
+            "tip": "Ein Kaufhaus aus der Sowjetzeit, das einen nostalgischen Einkaufsbummel bietet."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Obwohl es sich nicht um eine lokale Spezialität handelt, ist er in Souvenirläden weit verbreitet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Neman Áruház",
+            "tip": "Szovjet korabeli áruház, amely nosztalgikus vásárlási élményt nyújt."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Bár nem helyi specialitás, széles körben kapható az ajándékboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul universal Neman",
+            "tip": "Un magazin universal din epoca sovietică pentru o experiență de cumpărături nostalgică."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Deși nu este o specialitate locală, este disponibil pe scară largă în magazinele de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Neman Department Store",
+            "tip": "A Soviet-era department store for a nostalgic shopping trip."
+          },
+          {
+            "name": "Amber Jewelry",
+            "tip": "While not a local specialty, it's widely available in souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann schwierig sein; nutzen Sie die Cluster-Parkstrategie.",
+          "Achten Sie auf Fußgängerzonen, in die Sie nicht hineinfahren dürfen.",
+          "Ein GPS ist für die Navigation in der Stadt unerlässlich.",
+          "Überprüfen Sie die Öffnungszeiten der Museen, da diese variieren können."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nehézkes lehet; használja a klaszter-parkolási stratégiát.",
+          "Ügyeljen a sétálóutcákra, ahová nem hajthat be.",
+          "A városban való navigáláshoz elengedhetetlen a GPS.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, mivel az változhat."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă; utilizați strategia de parcare în clustere.",
+          "Fiți atenți la zonele pietonale unde nu aveți voie să intrați cu mașina.",
+          "Un GPS este esențial pentru a naviga prin oraș.",
+          "Verificați orele de funcționare ale muzeelor, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Parking in the city center can be challenging; use the cluster parking strategy.",
+          "Be aware of pedestrian-only zones where you cannot drive.",
+          "A GPS is essential for navigating the city.",
+          "Check museum opening times as they can vary."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bezirk: Schlossberg",
+            "hu": "Negyed: Várhegy",
+            "ro": "District: Dealul Castelului",
+            "en": "District: Castle Hill"
+          },
+          "coords": [
+            23.823,
+            53.678
+          ],
+          "category": "transport",
+          "arrive_at": "09:25",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Schlossberg und beginnen Sie Ihre Erkundung von oben.",
+            "hu": "Menjen busszal a Várhegyre, és kezdje a felfedezést fentről.",
+            "ro": "Luați un autobuz spre Dealul Castelului și începeți explorarea de sus.",
+            "en": "Take a bus to Castle Hill and start your exploration from the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Schloss",
+            "hu": "Régi Vár",
+            "ro": "Castelul Vechi",
+            "en": "Old Castle"
+          },
+          "coords": [
+            23.823,
+            53.678
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht, bevor Sie sich in die Geschichte vertiefen.",
+            "hu": "Élvezze a kilátást, mielőtt elmerülne a történelemben.",
+            "ro": "Bucurați-vă de priveliște înainte de a pătrunde în istorie.",
+            "en": "Enjoy the views before diving into the history."
+          }
+        },
+        {
+          "name": {
+            "de": "Neues Schloss",
+            "hu": "Új Vár",
+            "ro": "Castelul Nou",
+            "en": "New Castle"
+          },
+          "coords": [
+            23.824,
+            53.677
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang vom Alten Schloss aus.",
+            "hu": "Könnyű séta a Régi Vártól.",
+            "ro": "O plimbare ușoară de la Castelul Vechi.",
+            "en": "An easy walk across from the Old Castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Bezirk: Sowjetskaja Platz",
+            "hu": "Negyed: Szovjetszkaja tér",
+            "ro": "District: Piața Sovetskaya",
+            "en": "District: Sovetskaya Square"
+          },
+          "coords": [
+            23.8315,
+            53.6795
+          ],
+          "category": "transport",
+          "arrive_at": "12:17",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Trolleybus zum Hauptplatz der Stadt.",
+            "hu": "Menjen trolibusszal a város főterére.",
+            "ro": "Luați un troleibuz spre piața principală a orașului.",
+            "en": "Take a trolleybus to the city's main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Franz-Xaver-Kathedrale",
+            "hu": "Szent Ferenc Xavér-katedrális",
+            "ro": "Catedrala Sfântul Francisc Xavier",
+            "en": "St. Francis Xavier Cathedral"
+          },
+          "coords": [
+            23.8315,
+            53.6795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein guter Ort für eine Mittagspause in der Nähe.",
+            "hu": "Jó hely a közelben egy ebédszünetre.",
+            "ro": "Un loc bun pentru o pauză de prânz în apropiere.",
+            "en": "A good place to have a lunch break nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Synagoge",
+            "hu": "Nagy Zsinagóga",
+            "ro": "Marea Sinagogă",
+            "en": "Great Synagogue"
+          },
+          "coords": [
+            23.8268,
+            53.6801
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:37",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die belebten Straßen vom Platz aus.",
+            "hu": "Rövid séta a tér nyüzsgő utcáin keresztül.",
+            "ro": "O scurtă plimbare de la piață pe străzile aglomerate.",
+            "en": "A short walk from the square through bustling streets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Hrodnas effiziente Trolleybusse für diese Tour. Beginnen Sie mit einer Fahrt zum ersten Bezirk, dem Schlossberg, um den Vormittag mit der Erkundung des Alten und Neuen Schlosses zu verbringen. Von dort aus ist es ein einfacher Spaziergang zwischen den beiden. Zur Mittagszeit nehmen Sie einen weiteren Bus zum zentralen Sowjetskaja-Platz. Dieser zweite Bezirk ist ideal, um die prächtige Franz-Xaver-Kathedrale zu besichtigen und dann zur Großen Synagoge zu spazieren, wo Sie die Atmosphäre des alten Viertels auf sich wirken lassen. Diese Reiseroute nutzt den öffentlichen Nahverkehr, um größere Entfernungen zu überbrücken, und lässt Ihnen Zeit für gemütliche Spaziergänge in den wichtigsten historischen Vierteln.",
+        "hu": "Használja Hrodna hatékony trolibuszait ehhez a túrához. Kezdje egy utazással az első negyedbe, a Várhegyre, hogy a délelőttöt a Régi és Új vár felfedezésével töltse. Innen könnyű séta a kettő között. Délben szálljon fel egy másik buszra a központi Szovjetszkaja térre. Ez a második negyed ideális a pompás Szent Ferenc Xavér-katedrális megtekintéséhez, majd sétáljon el a Nagy Zsinagógához, magába szívva a régi negyed hangulatát. Ez az útiterv a tömegközlekedést használja a nagyobb távolságok áthidalására, miközben időt hagy a kényelmes sétákra a kulcsfontosságú történelmi negyedekben.",
+        "ro": "Folosiți troleibuzele eficiente din Hrodna pentru acest tur. Începeți cu o călătorie către primul district, Dealul Castelului, pentru a vă petrece dimineața explorând Castelul Vechi și cel Nou. De acolo, este o plimbare ușoară între cele două. La prânz, luați un alt autobuz spre Piața centrală Sovetskaya. Acest al doilea district este ideal pentru a vizita magnifica Catedrală Sfântul Francisc Xavier și apoi a vă plimba până la Marea Sinagogă, absorbind atmosfera cartierului vechi. Acest itinerar folosește transportul public pentru a acoperi distanțe mai mari, lăsându-vă timp pentru plimbări relaxante în districtele istorice cheie.",
+        "en": "Use Hrodna's efficient trolleybuses for this tour. Start with a ride to the first district, Castle Hill, to spend the morning exploring the Old and New Castles. From there, it's an easy walk between the two. At midday, catch another bus to the central Sovetskaya Square. This second district is ideal for visiting the magnificent St. Francis Xavier Cathedral and then strolling to the Great Synagogue, soaking in the old quarter's atmosphere. This itinerary uses transit to cover longer distances, leaving you time for leisurely walks within the key historic districts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chebureki",
+            "tip": "Ein beliebtes Straßenessen, eine frittierte Teigtasche mit Fleischfüllung."
+          },
+          {
+            "name": "Café an der Sowjetskaja",
+            "tip": "Viele Cafés rund um den Hauptplatz bieten guten Kaffee und Gebäck."
+          },
+          {
+            "name": "Soljanka",
+            "tip": "Eine dicke, säuerliche Suppe, die perfekt für ein schnelles Mittagessen ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csebureki",
+            "tip": "Népszerű utcai étel, egy sült, hússal töltött tészta."
+          },
+          {
+            "name": "Kávézó a Szovjetszkaja téren",
+            "tip": "A főtér körüli számos kávézó jó kávét és süteményeket kínál."
+          },
+          {
+            "name": "Szoljanka",
+            "tip": "Sűrű, savanykás leves, tökéletes egy gyors ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cebureki",
+            "tip": "O mâncare stradală populară, o plăcintă prăjită umplută cu carne."
+          },
+          {
+            "name": "Cafenea pe Sovetskaya",
+            "tip": "Multe cafenele din jurul pieței principale oferă cafea bună și produse de patiserie."
+          },
+          {
+            "name": "Solyanka",
+            "tip": "O supă groasă și acră, perfectă pentru un prânz rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chebureki",
+            "tip": "A popular street food, a deep-fried turnover filled with meat."
+          },
+          {
+            "name": "Cafe on Sovetskaya",
+            "tip": "Many cafes around the main square offer good coffee and pastries."
+          },
+          {
+            "name": "Solyanka",
+            "tip": "A thick, sour soup that's perfect for a quick lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dramatheater-Platz",
+            "tip": "Sitzen Sie auf einer Bank und beobachten Sie die Menschen vor der Kulisse des Theaters.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hinterhöfe der Altstadt",
+            "tip": "Verirren Sie sich in den ruhigeren Gassen abseits der Hauptstraßen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Schlossbrücke",
+            "tip": "Halten Sie für einen Moment inne, um die Aussicht auf den Fluss zu genießen, während Sie zwischen den Bezirken wechseln.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Drámai Színház tere",
+            "tip": "Üljön le egy padra, és nézze az embereket a színház hátterével.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az óváros hátsó udvarai",
+            "tip": "Tévedjen el a főutcáktól távolabb eső csendesebb sikátorokban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Várhídról",
+            "tip": "Álljon meg egy percre, hogy élvezze a folyóra nyíló kilátást, miközben a negyedek között közlekedik.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Teatrului Dramatic",
+            "tip": "Stați pe o bancă și priviți oamenii cu teatrul în fundal.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curțile interioare ale orașului vechi",
+            "tip": "Pierdeți-vă pe aleile mai liniștite, departe de străzile principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe Podul Castelului",
+            "tip": "Opriți-vă pentru un moment pentru a admira priveliștea râului în timp ce vă deplasați între districte.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drama Theater Square",
+            "tip": "Sit on a bench and people-watch against the backdrop of the theater.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Old Town Courtyards",
+            "tip": "Get lost in the quieter alleys away from the main streets.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Castle Bridge",
+            "tip": "Pause for a moment to take in the river view while in transit between districts.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Buchhandlungen",
+            "tip": "Finden Sie Bücher auf Belarussisch oder Russisch, auch mit schönen Illustrationen."
+          },
+          {
+            "name": "Lokale Süßigkeiten",
+            "tip": "Suchen Sie in Lebensmittelgeschäften nach belarussischer Schokolade oder Süßigkeiten als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könyvesboltok",
+            "tip": "Keressen fehérorosz vagy orosz nyelvű könyveket, akár szép illusztrációkkal is."
+          },
+          {
+            "name": "Helyi édességek",
+            "tip": "Keressen fehérorosz csokoládét vagy édességeket ajándékként az élelmiszerboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librării",
+            "tip": "Găsiți cărți în belarusă sau rusă, inclusiv unele cu ilustrații frumoase."
+          },
+          {
+            "name": "Dulciuri locale",
+            "tip": "Căutați ciocolată sau dulciuri belaruse în magazinele alimentare ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bookstores",
+            "tip": "Find books in Belarusian or Russian, including some with beautiful illustrations."
+          },
+          {
+            "name": "Local sweets",
+            "tip": "Look for Belarusian chocolate or candies in grocery stores for a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr für das beste Preis-Leistungs-Verhältnis.",
+          "Trolleybusse sind eine umweltfreundliche Art, sich in der Stadt fortzubewegen.",
+          "Die Routen können verwirrend sein, also nutzen Sie eine Karten-App, um Ihre Reise zu planen.",
+          "Validieren Sie Ihr Ticket immer, um eine Strafe zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez a legjobb ár-érték arány érdekében.",
+          "A trolibuszok környezetbarát módon közlekednek a városban.",
+          "Az útvonalak zavaróak lehetnek, ezért használjon térképalkalmazást az utazás megtervezéséhez.",
+          "Mindig érvényesítse a jegyét a bírság elkerülése érdekében."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru transportul public pentru cel mai bun raport calitate-preț.",
+          "Troleibuzele sunt o modalitate ecologică de a vă deplasa prin oraș.",
+          "Rutele pot fi confuze, așa că folosiți o aplicație de hărți pentru a vă planifica călătoria.",
+          "Validați întotdeauna biletul pentru a evita o amendă."
+        ],
+        "en": [
+          "Buy a day pass for public transport for the best value.",
+          "Trolleybuses are an eco-friendly way to get around the city.",
+          "Routes can be confusing, so use a map app to plan your journey.",
+          "Always validate your ticket to avoid a fine."
+        ]
+      }
+    }
+  }
+}

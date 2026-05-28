@@ -1,0 +1,1459 @@
+{
+  "city_id": "portugal-povoa-de-varzim-cities-v2",
+  "anchor": {
+    "name": "Póvoa de Varzim",
+    "coords": [
+      -8.7612,
+      41.3801
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Praça do Almada",
+            "hu": "Almada tér",
+            "ro": "Piața Almada",
+            "en": "Almada Square"
+          },
+          "coords": [
+            -8.7615,
+            41.3808
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das städtische Leben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, observând viața orașului.",
+            "en": "Start your day here with a coffee, watching the city life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche Santa Maria",
+            "hu": "Santa Maria Főtemplom",
+            "ro": "Biserica Matriz de Santa Maria",
+            "en": "Main Church of Santa Maria"
+          },
+          "coords": [
+            -8.7644,
+            41.3822
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die vergoldeten Holzarbeiten und die einzigartige Fassade.",
+            "hu": "Csodálja meg az aranyozott fafaragásokat és az egyedi homlokzatot.",
+            "ro": "Admirați lemnăria aurită și fațada sa unică.",
+            "en": "Admire the gilded woodwork and its unique façade."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Museum für Ethnographie",
+            "hu": "Városi Néprajzi Múzeum",
+            "ro": "Muzeul Municipal de Etnografie",
+            "en": "Municipal Museum of Ethnography"
+          },
+          "coords": [
+            -8.7661,
+            41.3815
+          ],
+          "category": "museums",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche Fischereigeschichte der Stadt.",
+            "hu": "Merüljön el a város gazdag halászati történelmében.",
+            "ro": "Cufundați-vă în istoria bogată a pescuitului din oraș.",
+            "en": "Dive into the rich fishing history of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Nossa Senhora da Conceição",
+            "hu": "Nossa Senhora da Conceição erőd",
+            "ro": "Fortăreața Nossa Senhora da Conceição",
+            "en": "Fortress of Nossa Senhora da Conceição"
+          },
+          "coords": [
+            -8.7719,
+            41.3785
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen Panoramablick auf den Hafen und das Meer. Ideal für das Mittagessen.",
+            "hu": "Tökéletes hely a kikötőre és a tengerre nyíló panorámához. Ideális ebédidőben.",
+            "ro": "Locul perfect pentru vederi panoramice ale portului și mării. Ideal pentru prânz.",
+            "en": "The perfect spot for panoramic views of the harbor and sea. Ideal for lunchtime."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für den Fischer",
+            "hu": "Halász-emlékmű",
+            "ro": "Monumentul Pescarului",
+            "en": "Monument to the Fisherman"
+          },
+          "coords": [
+            -8.7795,
+            41.3855
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:59",
+          "stay_min": 15,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein ergreifendes Denkmal, das das Herz der lokalen Kultur ehrt.",
+            "hu": "Egy megindító emlékmű, amely a helyi kultúra szívét ünnepli.",
+            "ro": "Un monument emoționant care onorează inima culturii locale.",
+            "en": "A poignant monument that honors the heart of the local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino da Póvoa",
+            "hu": "Póvoai Kaszinó",
+            "ro": "Cazinoul din Póvoa",
+            "en": "Casino da Póvoa"
+          },
+          "coords": [
+            -8.7811,
+            41.3825
+          ],
+          "category": "theatres/cultural-centres",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur, auch wenn Sie nicht spielen.",
+            "hu": "Csodálja meg a lenyűgöző építészetet, még ha nem is játszik.",
+            "ro": "Admirați arhitectura impresionantă, chiar dacă nu jucați.",
+            "en": "Admire the impressive architecture, even if you don't gamble."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Póvoa",
+            "hu": "Póvoa strandja",
+            "ro": "Plaja din Póvoa",
+            "en": "Póvoa Beach"
+          },
+          "coords": [
+            -8.7845,
+            41.3879
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:08",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich, genießen Sie die Sonne und beenden Sie den Tag am Meer.",
+            "hu": "Pihenjen, napozzon és zárja a napot a tengerparton.",
+            "ro": "Relaxați-vă, bucurați-vă de soare și încheiați ziua la malul mării.",
+            "en": "Relax, enjoy the sun, and finish the day by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang auf der historischen Praça do Almada, dem Herzen der Stadt. Am Vormittag erkunden Sie die religiöse und kulturelle Seite mit der Igreja Matriz und dem Ethnographischen Museum. Das Mittagessen genießen Sie mit Blick vom Fort, wo die Geschichte auf das Meer trifft. Am Nachmittag schlendern Sie die Küste entlang, vorbei am Fischermonument und dem eleganten Casino, und lassen den Tag am Sandstrand von Póvoa ausklingen.",
+        "hu": "Sétáját a város szívében, a történelmi Almada téren kezdje. A délelőttöt a vallási és kulturális örökség felfedezésével töltse a Főtemplomban és a Néprajzi Múzeumban. Ebédeljen az erődből nyíló kilátással, ahol a történelem és a tenger találkozik. Délután sétáljon végig a tengerparton a Halász-emlékmű és az elegáns Kaszinó mellett, majd zárja a napot a homokos Póvoa strandon.",
+        "ro": "Începeți plimbarea în istorica Piață Almada, inima orașului. Dimineața explorați latura religioasă și culturală la Biserica Matriz și Muzeul de Etnografie. Prânzul este cel mai bine savurat cu o priveliște de la fortăreață, unde istoria întâlnește marea. După-amiaza, plimbați-vă pe coastă, pe lângă Monumentul Pescarului și elegantul Cazinou, terminând ziua pe plaja nisipoasă din Póvoa.",
+        "en": "Start your walk in the historic Almada Square, the heart of the city. The morning is for exploring the religious and cultural side at the Main Church and the Ethnography Museum. Lunch is best enjoyed with a view from the fortress, where history meets the sea. In the afternoon, stroll along the coast, past the Fisherman's Monument and the elegant Casino, finishing your day on the sandy Póvoa Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pescada à Poveira",
+            "tip": "Ein traditionelles Fischgericht, das man probieren muss. Suchen Sie nach Restaurants in der Nähe des Hafens."
+          },
+          {
+            "name": "Francesinha Poveira",
+            "tip": "Eine lokale Variante des berühmten Sandwiches aus Porto. Perfekt für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Restaurante O Marinheiro",
+            "tip": "Bekannt für seine frischen Meeresfrüchte und seinen exzellenten Service."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pescada à Poveira",
+            "tip": "Hagyományos halétel, amit kötelező megkóstolni. Keressen éttermeket a kikötő közelében."
+          },
+          {
+            "name": "Francesinha Poveira",
+            "tip": "A híres portói szendvics helyi változata. Tökéletes egy kiadós ebédhez."
+          },
+          {
+            "name": "Restaurante O Marinheiro",
+            "tip": "Friss tengeri ételeiről és kiváló kiszolgálásáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pescada à Poveira",
+            "tip": "Un fel de mâncare tradițional cu pește, care trebuie încercat. Căutați restaurante lângă port."
+          },
+          {
+            "name": "Francesinha Poveira",
+            "tip": "O variantă locală a faimosului sandviș din Porto. Perfect pentru un prânz copios."
+          },
+          {
+            "name": "Restaurante O Marinheiro",
+            "tip": "Renumit pentru fructele de mare proaspete și serviciile excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pescada à Poveira",
+            "tip": "A traditional fish dish that is a must-try. Look for restaurants near the harbor."
+          },
+          {
+            "name": "Francesinha Poveira",
+            "tip": "A local version of the famous sandwich from Porto. Perfect for a hearty lunch."
+          },
+          {
+            "name": "Restaurante O Marinheiro",
+            "tip": "Known for its fresh seafood and excellent service."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Strand von Póvoa",
+            "tip": "Finden Sie einen Platz auf der langen Promenade und beobachten Sie, wie die Sonne im Atlantik versinkt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Festungsmauern",
+            "tip": "Abseits der Menschenmassen bieten die Mauern einen ruhigen Ort zum Nachdenken mit Blick auf das Meer.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Igreja da Lapa",
+            "tip": "Eine kleinere, oft ruhigere Kirche, um einen Moment der Stille zu finden.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Póvoa strandon",
+            "tip": "Keressen egy helyet a hosszú sétányon, és nézze, ahogy a nap lebukik az Atlanti-óceánba.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az erőd falai",
+            "tip": "Távol a tömegtől a falak csendes helyet kínálnak a tengerre néző elmélkedéshez.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Lapa-templom",
+            "tip": "Egy kisebb, gyakran csendesebb templom, ahol egy pillanatra elcsendesedhet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare pe Plaja Póvoa",
+            "tip": "Găsiți un loc pe promenada lungă și priviți soarele apunând în Atlantic.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Zidurile fortăreței",
+            "tip": "Departe de mulțime, zidurile oferă un loc liniștit pentru reflecție cu vedere la mare.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Biserica da Lapa",
+            "tip": "O biserică mai mică, adesea mai liniștită, pentru un moment de reculegere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Póvoa Beach",
+            "tip": "Find a spot on the long promenade and watch the sun dip into the Atlantic.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fortress Walls",
+            "tip": "Away from the crowds, the walls offer a quiet spot for reflection overlooking the sea.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Igreja da Lapa",
+            "tip": "A smaller, often quieter church to find a moment of peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rua da Junqueira",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen Geschäften und bekannten Marken."
+          },
+          {
+            "name": "Städtischer Markt",
+            "tip": "Erleben Sie die lokale Atmosphäre und kaufen Sie frische Produkte und traditionelle Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rua da Junqueira",
+            "tip": "A fő bevásárlóutca, helyi üzletek és ismert márkák keverékével."
+          },
+          {
+            "name": "Városi Piac",
+            "tip": "Tapasztalja meg a helyi hangulatot, és vásároljon friss termékeket és hagyományos árukat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rua da Junqueira",
+            "tip": "Principala stradă comercială cu un amestec de magazine locale și mărci cunoscute."
+          },
+          {
+            "name": "Piața Municipală",
+            "tip": "Experimentați atmosfera locală și cumpărați produse proaspete și bunuri tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rua da Junqueira",
+            "tip": "The main shopping street with a mix of local shops and known brands."
+          },
+          {
+            "name": "Municipal Market",
+            "tip": "Experience the local vibe and shop for fresh produce and traditional goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine leichte Jacke ist auch im Sommer nützlich, da es am Meer windig sein kann.",
+          "Probieren Sie unbedingt die lokalen Meeresfrüchtespezialitäten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Egy könnyű dzseki nyáron is jól jöhet a tengerparti szél miatt.",
+          "Feltétlenül kóstolja meg a helyi tengeri herkentyűket."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "O jachetă ușoară este utilă chiar și vara, deoarece poate fi vânt la malul mării.",
+          "Asigurați-vă că încercați specialitățile locale din fructe de mare."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "A light jacket is useful even in summer, as it can be windy by the sea.",
+          "Be sure to try the local seafood specialities."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praça do Almada",
+            "hu": "Almada tér",
+            "ro": "Piața Almada",
+            "en": "Almada Square"
+          },
+          "coords": [
+            -8.7615,
+            41.3808
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour vom zentralen Platz der Stadt.",
+            "hu": "Indítsa a biciklitúrát a város központi teréről.",
+            "ro": "Începeți turul cu bicicleta din piața centrală a orașului.",
+            "en": "Start your bike tour from the city's central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche Santa Maria",
+            "hu": "Santa Maria Főtemplom",
+            "ro": "Biserica Matriz de Santa Maria",
+            "en": "Main Church of Santa Maria"
+          },
+          "coords": [
+            -8.7644,
+            41.3822
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:38",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und nehmen Sie sich einen Moment Zeit, um die kunstvolle Fassade zu bewundern.",
+            "hu": "Zárja le a kerékpárt, és szánjon egy percet a díszes homlokzat megcsodálására.",
+            "ro": "Încuiați-vă bicicleta și admirați fațada sa ornamentată.",
+            "en": "Lock up your bike and take a moment to admire the ornate facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Nossa Senhora da Conceição",
+            "hu": "Nossa Senhora da Conceição erőd",
+            "ro": "Fortăreața Nossa Senhora da Conceição",
+            "en": "Fortress of Nossa Senhora da Conceição"
+          },
+          "coords": [
+            -8.7719,
+            41.3785
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Radfahren Sie zum Fort für einen atemberaubenden Blick über den Atlantik.",
+            "hu": "Tekerjen fel az erődhöz a lélegzetelállító atlanti-óceáni kilátásért.",
+            "ro": "Pedalați până la fortăreață pentru priveliști uimitoare ale Atlanticului.",
+            "en": "Cycle up to the fortress for stunning Atlantic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für den Fischer",
+            "hu": "Halász-emlékmű",
+            "ro": "Monumentul Pescarului",
+            "en": "Monument to the Fisherman"
+          },
+          "coords": [
+            -8.7795,
+            41.3855
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:26",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein schneller Stopp, um die Seele der Stadt zu würdigen.",
+            "hu": "Egy gyors megálló, hogy tisztelegjen a város lelke előtt.",
+            "ro": "O oprire rapidă pentru a aduce un omagiu sufletului orașului.",
+            "en": "A quick stop to pay homage to the soul of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino da Póvoa und Strandpromenade",
+            "hu": "Póvoai Kaszinó és tengerparti sétány",
+            "ro": "Cazinoul și promenada de pe plajă din Póvoa",
+            "en": "Casino da Póvoa and Beach Promenade"
+          },
+          "coords": [
+            -8.7811,
+            41.3825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:44",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie einen langen Mittagsspaziergang an der Promenade.",
+            "hu": "Parkolja le a biciklit, és ebéd után tegyen egy hosszú sétát a sétányon.",
+            "ro": "Parcați-vă bicicleta și bucurați-vă de o plimbare lungă de prânz pe promenadă.",
+            "en": "Park your bike and enjoy a long lunch and walk on the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour entlang der Küste nach Norden",
+            "hu": "Part menti biciklizés észak felé",
+            "ro": "Tur cu bicicleta de-a lungul coastei spre nord",
+            "en": "Coastal Bike Ride North"
+          },
+          "coords": [
+            -8.789,
+            41.41
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:34",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Meeresbrise auf einem speziellen Radweg, der die Küste entlangführt.",
+            "hu": "Élvezze a friss tengeri szellőt a part mentén vezető kerékpárúton.",
+            "ro": "Bucurați-vă de briza mării pe o pistă de biciclete dedicată de-a lungul coastei.",
+            "en": "Enjoy the fresh sea breeze on a dedicated cycle path along the coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour auf der Praça do Almada, fahren Sie durch die Altstadt und machen Sie Halt an der Igreja Matriz. Am Vormittag radeln Sie zum Fort, um die Aussicht zu genießen, bevor Sie die Küste erreichen. Das Mittagessen ist am besten in der Nähe des Casinos und des Strandes, wo Sie eine lange Pause einlegen können. Der Nachmittag ist einer malerischen Fahrt entlang der Küstenradwege gewidmet, bei der Sie die Atlantikbrise und die weiten Sandstrände in vollen Zügen genießen können.",
+        "hu": "Kezdje a biciklitúrát az Almada térről, majd tekerjen át az óvároson a Főtemplomhoz. Délelőtt bringázzon fel az erődhöz a kilátásért, mielőtt leér a partra. Ebédelni a Kaszinó és a strand közelében a legjobb, ahol egy hosszabb pihenőt is tarthat. A délutánt egy festői tekerésnek szentelje a parti kerékpárutakon, élvezve az atlanti szellőt és a homokos partokat.",
+        "ro": "Începeți turul cu bicicleta din Piața Almada, pedalând prin orașul vechi până la Biserica Matriz. Dimineața, urcați la fortăreață pentru priveliști înainte de a ajunge la coastă. Prânzul este cel mai bun lângă Cazinou și plajă, unde puteți lua o pauză lungă. După-amiaza este dedicată unei plimbări pitorești de-a lungul pistelor de biciclete de coastă, îmbrățișând briza Atlanticului și plajele nisipoase.",
+        "en": "Kick off your bike tour from Almada Square, cycling through the old town to the Main Church. The morning sees you pedal up to the fortress for views before hitting the coast. Lunch is best had near the Casino and beach, where you can take a long break. The afternoon is dedicated to a scenic ride along the coastal cycle paths, fully embracing the Atlantic breeze and sandy shores."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "Gegrillte Sardinen sind ein Küstenklassiker, besonders im Sommer."
+          },
+          {
+            "name": "Bolas de Berlim",
+            "tip": "Suchen Sie nach Strandverkäufern, die diese köstlichen, mit Sahne gefüllten Donuts verkaufen."
+          },
+          {
+            "name": "Theatro",
+            "tip": "Ein stilvolles Restaurant im Casino-Gebäude, perfekt für ein besonderes Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "A grillezett szardínia egy tengerparti klasszikus, különösen nyáron."
+          },
+          {
+            "name": "Bolas de Berlim",
+            "tip": "Keresse a strandárusokat, akik ezt a finom, krémmel töltött fánkot árulják."
+          },
+          {
+            "name": "Theatro",
+            "tip": "Stílusos étterem a Kaszinó épületében, tökéletes egy különleges vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "Sardinele la grătar sunt un clasic de coastă, mai ales în timpul verii."
+          },
+          {
+            "name": "Bolas de Berlim",
+            "tip": "Căutați vânzătorii de pe plajă care vând aceste gogoși delicioase umplute cu cremă."
+          },
+          {
+            "name": "Theatro",
+            "tip": "Un restaurant elegant în clădirea Cazinoului, perfect pentru o cină specială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "Grilled sardines are a coastal classic, especially in summer."
+          },
+          {
+            "name": "Bolas de Berlim",
+            "tip": "Look for beach vendors selling these delicious cream-filled doughnuts."
+          },
+          {
+            "name": "Theatro",
+            "tip": "A stylish restaurant located in the Casino building, perfect for a special dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nördliche Strände",
+            "tip": "Fahren Sie weiter nach Norden für ruhigere Strandabschnitte abseits der Hauptpromenade.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Pier",
+            "tip": "Der Pier bietet eine großartige Perspektive für den Sonnenuntergang über dem Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque da Cidade",
+            "tip": "Ein großer Stadtpark, etwas landeinwärts, perfekt für eine ruhige Pause vom Strand.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Északi strandok",
+            "tip": "Tekerjen tovább észak felé a fő sétánytól távolabb eső, csendesebb partszakaszokért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a mólónál",
+            "tip": "A móló nagyszerű perspektívát kínál a tenger feletti naplementéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque da Cidade",
+            "tip": "Egy nagy városi park a szárazföld belsejében, tökéletes egy csendes pihenőre a strandtól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plajele din nord",
+            "tip": "Pedalați mai departe spre nord pentru porțiuni de plajă mai liniștite, departe de promenada principală.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare la dig",
+            "tip": "Digul oferă o perspectivă excelentă pentru apusul soarelui peste ocean.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque da Cidade",
+            "tip": "Un parc mare al orașului, puțin în interior, perfect pentru o pauză liniștită de la plajă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Northern Beaches",
+            "tip": "Cycle further north for quieter stretches of beach away from the main promenade.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at the Pier",
+            "tip": "The pier offers a great perspective for the sunset over the ocean.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque da Cidade",
+            "tip": "A large city park, slightly inland, perfect for a quiet break from the beach.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Suchen Sie in den Seitenstraßen der Altstadt nach einzigartigen Souvenirs."
+          },
+          {
+            "name": "Fischmarkt",
+            "tip": "Auch wenn Sie nichts kaufen, ist es ein faszinierendes Erlebnis, den Fang des Tages zu sehen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen egyedi szuveníreket az óváros mellékutcáiban."
+          },
+          {
+            "name": "Halpiac",
+            "tip": "Még ha nem is vásárol, lenyűgöző élmény megnézni a napi fogást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați suveniruri unice pe străzile lăturalnice din orașul vechi."
+          },
+          {
+            "name": "Piața de pește",
+            "tip": "Chiar dacă nu cumpărați, este o experiență fascinantă să vedeți captura zilei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local artisan shops",
+            "tip": "Look for unique souvenirs in the side streets of the old town."
+          },
+          {
+            "name": "Fish Market",
+            "tip": "Even if you don't buy, it's a fascinating experience to see the catch of the day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit gutem Schloss.",
+          "Die Küstenradwege sind flach und für alle Fitnesslevel geeignet.",
+          "Achten Sie auf Fußgänger auf der Promenade.",
+          "Nehmen Sie Wasser und Sonnencreme mit."
+        ],
+        "hu": [
+          "Béreljen jó lakattal ellátott kerékpárt.",
+          "A tengerparti kerékpárutak síkak és minden edzettségi szintnek megfelelnek.",
+          "Vigyázzon a gyalogosokra a sétányon.",
+          "Vigyen magával vizet és naptejet."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu un lacăt bun.",
+          "Pistele de biciclete de coastă sunt plate și potrivite pentru toate nivelurile de fitness.",
+          "Fiți atenți la pietonii de pe promenadă.",
+          "Luați cu voi apă și cremă de soare."
+        ],
+        "en": [
+          "Rent a bike with a good lock.",
+          "The coastal cycle paths are flat and suitable for all fitness levels.",
+          "Be mindful of pedestrians on the promenade.",
+          "Bring water and sunscreen."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum",
+            "hu": "1. csoport: Történelmi központ",
+            "ro": "Cluster 1: Centrul Istoric",
+            "en": "Cluster 1: Historic Center"
+          },
+          "coords": [
+            -8.762,
+            41.381
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Praça do Almada. Sie werden diesen Bereich zu Fuß erkunden.",
+            "hu": "Parkoljon az Almada tér közelében. Ezt a területet gyalog fogja felfedezni.",
+            "ro": "Parcați lângă Piața Almada. Veți explora această zonă pe jos.",
+            "en": "Park your car near Almada Square. You'll explore this area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Praça do Almada",
+            "hu": "Almada tér",
+            "ro": "Piața Almada",
+            "en": "Almada Square"
+          },
+          "coords": [
+            -8.7615,
+            41.3808
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:12",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Ausgangspunkt für Ihren Spaziergang durch die Innenstadt.",
+            "hu": "A belvárosi séta kiindulópontja.",
+            "ro": "Punctul de plecare pentru plimbarea prin centrul orașului.",
+            "en": "The starting point for your downtown walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche Santa Maria",
+            "hu": "Santa Maria Főtemplom",
+            "ro": "Biserica Matriz de Santa Maria",
+            "en": "Main Church of Santa Maria"
+          },
+          "coords": [
+            -8.7644,
+            41.3822
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Rövid séta a főtértől.",
+            "ro": "O scurtă plimbare de la piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Museum für Ethnographie",
+            "hu": "Városi Néprajzi Múzeum",
+            "ro": "Muzeul Municipal de Etnografie",
+            "en": "Municipal Museum of Ethnography"
+          },
+          "coords": [
+            -8.7661,
+            41.3815
+          ],
+          "category": "museums",
+          "arrive_at": "10:23",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das Leben der Fischer, das die Stadt geprägt hat.",
+            "hu": "Ismerje meg a várost formáló halászok életét.",
+            "ro": "Aflați despre viața pescarilor care a modelat orașul.",
+            "en": "Learn about the fishing life that shaped the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Küste & Festung",
+            "hu": "2. csoport: Partvidék és Erőd",
+            "ro": "Cluster 2: Coasta și Fortăreața",
+            "en": "Cluster 2: Coast & Fortress"
+          },
+          "coords": [
+            -8.7715,
+            41.378
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:08",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Fort und parken Sie. Der Rest des Tages findet an der Küste statt.",
+            "hu": "Vezessen az erődhöz és parkoljon le. A nap hátralévő részét a tengerparton tölti.",
+            "ro": "Conduceți până la fortăreață și parcați. Restul zilei este pe coastă.",
+            "en": "Drive to the fortress and park. The rest of the day is coastal."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Nossa Senhora da Conceição",
+            "hu": "Nossa Senhora da Conceição erőd",
+            "ro": "Fortăreața Nossa Senhora da Conceição",
+            "en": "Fortress of Nossa Senhora da Conceição"
+          },
+          "coords": [
+            -8.7719,
+            41.3785
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Fort und genießen Sie ein Mittagessen in einem der nahegelegenen Restaurants.",
+            "hu": "Fedezze fel az erődöt, majd ebédeljen a közeli éttermek egyikében.",
+            "ro": "Explorați fortăreața și bucurați-vă de prânz la unul dintre restaurantele din apropiere.",
+            "en": "Explore the fortress and enjoy lunch at one of the nearby restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Póvoa",
+            "hu": "Póvoa strandja",
+            "ro": "Plaja din Póvoa",
+            "en": "Póvoa Beach"
+          },
+          "coords": [
+            -8.7845,
+            41.3879
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:59",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ein kurzes Stück zum Hauptstrandbereich für einen entspannten Nachmittag.",
+            "hu": "Vezessen egy rövid távot a fő strandrészhez egy pihentető délutánért.",
+            "ro": "Conduceți pe o distanță scurtă până la zona principală a plajei pentru o după-amiază relaxantă.",
+            "en": "Drive the short distance to the main beach area for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen parken Sie im Herzen von Póvoa und erkunden den historischen Kern zu Fuß: Praça do Almada, Igreja Matriz und das Museum. Dies gibt Ihnen einen tiefen Einblick in die lokale Kultur. Nach dem Mittagessen fahren Sie zur Küste. Den Nachmittag verbringen Sie damit, das Fort zu erkunden und sich am weitläufigen Strand zu entspannen, wobei Sie die frische Meeresluft und die weite Aussicht genießen. Das Auto bietet die Flexibilität, das Beste aus beiden Welten zu erleben.",
+        "hu": "Reggel parkoljon le Póvoa szívében, és fedezze fel gyalog a történelmi központot: az Almada teret, a Főtemplomot és a múzeumot. Ez mély betekintést nyújt a helyi kultúrába. Ebéd után vezessen le a partra. A délutánt az erőd felfedezésével és a tágas strandon való pihenéssel töltse, élvezve a friss tengeri levegőt és a panorámát. Az autó rugalmasságot biztosít, hogy mindkét világból a legjobbat hozza ki.",
+        "ro": "Dimineața, parcați în inima orașului Póvoa și explorați nucleul său istoric pe jos: Piața Almada, Biserica Matriz și muzeul. Acest lucru vă oferă o perspectivă profundă asupra culturii locale. După prânz, conduceți spre coastă. După-amiaza este petrecută explorând fortăreața și relaxându-vă pe plaja întinsă, bucurându-vă de aerul proaspăt al mării și de priveliștile vaste. Mașina oferă flexibilitatea de a experimenta ce e mai bun din ambele lumi.",
+        "en": "In the morning, park in the heart of Póvoa and explore its historic core on foot: Almada Square, the Main Church, and the museum. This gives you a deep dive into the local culture. After lunch, you'll drive to the coast. The afternoon is spent exploring the fortress and relaxing on the expansive beach, enjoying the fresh sea air and wide views. The car provides the flexibility to experience the best of both worlds."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz de Marisco",
+            "tip": "Ein Meeresfrüchte-Reis-Eintopf, der perfekt zum Teilen ist. Probieren Sie ihn in einem Restaurant am Strand."
+          },
+          {
+            "name": "Rabanadas Poveiras",
+            "tip": "Eine lokale Version von French Toast, oft als Dessert serviert."
+          },
+          {
+            "name": "Bodegão",
+            "tip": "Ein beliebtes Restaurant für große Portionen traditioneller portugiesischer Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz de Marisco",
+            "tip": "Tenger gyümölcsei rizses egytálétel, tökéletes megosztani. Próbálja ki egy tengerparti étteremben."
+          },
+          {
+            "name": "Rabanadas Poveiras",
+            "tip": "A bundáskenyér helyi változata, gyakran desszertként tálalva."
+          },
+          {
+            "name": "Bodegão",
+            "tip": "Népszerű étterem, ahol nagy adag hagyományos portugál ételeket szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz de Marisco",
+            "tip": "O tocană de orez cu fructe de mare, perfectă pentru a fi împărțită. Încercați-o la un restaurant pe plajă."
+          },
+          {
+            "name": "Rabanadas Poveiras",
+            "tip": "O versiune locală a frigănelelor, adesea servită ca desert."
+          },
+          {
+            "name": "Bodegão",
+            "tip": "Un restaurant popular pentru porții mari de mâncare tradițională portugheză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz de Marisco",
+            "tip": "A seafood rice stew that is perfect for sharing. Try it at a beachfront restaurant."
+          },
+          {
+            "name": "Rabanadas Poveiras",
+            "tip": "A local version of French toast, often served as a dessert."
+          },
+          {
+            "name": "Bodegão",
+            "tip": "A popular restaurant for large portions of traditional Portuguese food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aver-o-Mar",
+            "tip": "Fahren Sie ein kurzes Stück nach Norden zu diesem ruhigeren Strandbereich, um den Menschenmassen zu entkommen.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Garten der Igreja da Lapa",
+            "tip": "Ein kleiner, friedlicher Garten neben der Lapa-Kirche.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergangsfahrt",
+            "tip": "Machen Sie eine langsame Fahrt entlang der Küstenstraße, während die Sonne untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aver-o-Mar",
+            "tip": "Vezessen egy kicsit északabbra ehhez a csendesebb strandrészhez, hogy elkerülje a tömeget.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Az Lapa-templom kertje",
+            "tip": "Egy kicsi, békés kert a Lapa-templom mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplementés autózás",
+            "tip": "Tegyen egy lassú autózást a tengerparti úton, miközben a nap lenyugszik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aver-o-Mar",
+            "tip": "Conduceți o scurtă distanță spre nord până la această zonă de plajă mai liniștită pentru a scăpa de mulțimi.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Grădina Bisericii Lapa",
+            "tip": "O mică grădină liniștită lângă Biserica Lapa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare la apus",
+            "tip": "Faceți o plimbare lentă cu mașina de-a lungul drumului de coastă în timp ce soarele apune.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aver-o-Mar",
+            "tip": "Drive a short distance north to this quieter beach area to escape the crowds.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Igreja da Lapa Garden",
+            "tip": "A small, peaceful garden next to the Lapa church.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset Drive",
+            "tip": "Take a slow drive along the coastal road as the sun sets.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Feira da Velharia",
+            "tip": "Wenn Sie an einem Sonntag hier sind, besuchen Sie diesen Flohmarkt für einzigartige Funde."
+          },
+          {
+            "name": "Conserveira de Poveira",
+            "tip": "Kaufen Sie hochwertige Fischkonserven, ein klassisches portugiesisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Feira da Velharia",
+            "tip": "Ha vasárnap jár itt, látogasson el erre a bolhapiacra egyedi leletekért."
+          },
+          {
+            "name": "Conserveira de Poveira",
+            "tip": "Vásároljon minőségi halkonzervet, egy klasszikus portugál szuvenírt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Feira da Velharia",
+            "tip": "Dacă sunteți aici într-o duminică, vizitați această piață de vechituri pentru descoperiri unice."
+          },
+          {
+            "name": "Conserveira de Poveira",
+            "tip": "Cumpărați conserve de pește de înaltă calitate, un suvenir portughez clasic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Feira da Velharia",
+            "tip": "If you're here on a Sunday, check out this flea market for unique finds."
+          },
+          {
+            "name": "Conserveira de Poveira",
+            "tip": "Buy some high-quality canned fish, a classic Portuguese souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Sommer eine Herausforderung sein, besonders in der Nähe des Strandes.",
+          "Achten Sie auf Einbahnstraßen in der Altstadt.",
+          "Planen Sie, für das Parken zu bezahlen, die meisten zentralen Bereiche sind gebührenpflichtig."
+        ],
+        "hu": [
+          "A parkolás nyáron kihívást jelenthet, különösen a strand közelében.",
+          "Vigyázzon az egyirányú utcákra az óvárosban.",
+          "Tervezzen a parkolási díjakkal, a legtöbb központi terület fizetős."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în timpul verii, mai ales în apropierea plajei.",
+          "Fiți atenți la străzile cu sens unic din orașul vechi.",
+          "Planificați să plătiți pentru parcare, majoritatea zonelor centrale sunt cu plată."
+        ],
+        "en": [
+          "Parking can be challenging in the summer, especially near the beach.",
+          "Be aware of one-way streets in the old town.",
+          "Plan to pay for parking, most central areas are metered."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft: Bahnhof Póvoa de Varzim",
+            "hu": "Érkezés: Póvoa de Varzim állomás",
+            "ro": "Sosire: Stația Póvoa de Varzim",
+            "en": "Arrival: Póvoa de Varzim Station"
+          },
+          "coords": [
+            -8.756,
+            41.383
+          ],
+          "category": "transit-stop",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag vom zentralen Verkehrsknotenpunkt der Stadt aus.",
+            "hu": "Kezdje a napot a város központi közlekedési csomópontjáról.",
+            "ro": "Începeți ziua de la nodul central de transport al orașului.",
+            "en": "Start your day from the city's central transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Praça do Almada",
+            "hu": "Almada tér",
+            "ro": "Piața Almada",
+            "en": "Almada Square"
+          },
+          "coords": [
+            -8.7615,
+            41.3808
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof zum Herzen der Stadt.",
+            "hu": "Rövid séta az állomástól a város szívéig.",
+            "ro": "O scurtă plimbare de la stație până în inima orașului.",
+            "en": "A short walk from the station to the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche und Museum",
+            "hu": "Főtemplom és Múzeum",
+            "ro": "Biserica Principală și Muzeul",
+            "en": "Main Church and Museum"
+          },
+          "coords": [
+            -8.765,
+            41.3818
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 130,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie sowohl die Kirche als auch das nahegelegene Museum in einem Rutsch.",
+            "hu": "Látogassa meg a templomot és a közeli múzeumot egy körben.",
+            "ro": "Vizitați atât biserica, cât și muzeul din apropiere, într-o singură vizită.",
+            "en": "Visit both the church and the nearby museum in one go."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Fort",
+            "hu": "Busz az erődhöz",
+            "ro": "Autobuz către Fortăreață",
+            "en": "Bus to the Fortress"
+          },
+          "coords": [
+            -8.7719,
+            41.3785
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um den Hügel hinauf zum Fort zu gelangen und Energie zu sparen.",
+            "hu": "Menjen helyi busszal a dombra az erődhöz, hogy energiát spóroljon.",
+            "ro": "Luați un autobuz local pentru a urca dealul până la fortăreață, economisind energie.",
+            "en": "Take a local bus to get up the hill to the fortress, saving your energy."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino da Póvoa",
+            "hu": "Póvoai Kaszinó",
+            "ro": "Cazinoul din Póvoa",
+            "en": "Casino da Póvoa"
+          },
+          "coords": [
+            -8.7811,
+            41.3825
+          ],
+          "category": "theatres/cultural-centres",
+          "arrive_at": "13:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie vom Fort hinunter zum glamourösen Casino.",
+            "hu": "Sétáljon le az erődtől a csillogó kaszinóhoz.",
+            "ro": "Plimbați-vă de la fortăreață la cazinoul plin de farmec.",
+            "en": "Stroll down from the fortress to the glamorous casino."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Póvoa",
+            "hu": "Póvoa strandja",
+            "ro": "Plaja din Póvoa",
+            "en": "Póvoa Beach"
+          },
+          "coords": [
+            -8.7845,
+            41.3879
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:24",
+          "stay_min": 180,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus für eine kurze Fahrt entlang der Küste zum Hauptstrand.",
+            "hu": "Menjen busszal egy rövid utat a part mentén a fő strandig.",
+            "ro": "Luați un autobuz pentru o scurtă călătorie de-a lungul coastei până la plaja principală.",
+            "en": "Take a bus for a quick ride along the coast to the main beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Bahnhof, von wo aus Sie bequem ins historische Zentrum spazieren. Am Vormittag tauchen Sie in die Geschichte der Stadt ein. Zur Mittagszeit bringt Sie ein Bus zum Fort, wo Sie eine atemberaubende Aussicht und eine Mahlzeit genießen. Der Nachmittag ist der Küste gewidmet: ein Spaziergang vom Fort zum Casino und dann eine kurze Busfahrt zum Hauptstrand, wo Sie sich entspannen und den Tag ausklingen lassen.",
+        "hu": "A nap az állomáson kezdődik, ahonnan könnyedén besétálhat a történelmi központba. A délelőtt a város történelmének megismerésével telik. Ebédidőben egy busz viszi fel az erődhöz, ahonnan lenyűgöző kilátás és egy finom ebéd várja. A délután a tengerparté: séta az erődtől a Kaszinóig, majd egy rövid buszút a fő strandig, ahol pihenhet és lezárhatja a napot.",
+        "ro": "Ziua începe la gară, cu o plimbare ușoară în centrul istoric. Dimineața este petrecută cufundându-vă în istoria orașului. La prânz, un autobuz vă duce la fortăreață pentru priveliști uimitoare și o masă. După-amiaza este dedicată coastei: o plimbare de la fortăreață la Cazinou, apoi o scurtă călătorie cu autobuzul până la plaja principală pentru relaxare la sfârșitul zilei.",
+        "en": "Your day starts at the train station, with an easy walk into the historic center. The morning is spent immersing yourself in the town's history. For lunchtime, a bus takes you up to the fortress for stunning views and a meal. The afternoon is dedicated to the coast: a walk from the fort to the Casino, and then a short bus ride to the main beach for end-of-day relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pescada à Poveira",
+            "tip": "Ein traditionelles Fischgericht, das man probieren muss. Suchen Sie nach Restaurants in der Nähe des Hafens."
+          },
+          {
+            "name": "Francesinha Poveira",
+            "tip": "Eine lokale Variante des berühmten Sandwiches aus Porto. Perfekt für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Restaurante O Marinheiro",
+            "tip": "Bekannt für seine frischen Meeresfrüchte und seinen exzellenten Service."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pescada à Poveira",
+            "tip": "Hagyományos halétel, amit kötelező megkóstolni. Keressen éttermeket a kikötő közelében."
+          },
+          {
+            "name": "Francesinha Poveira",
+            "tip": "A híres portói szendvics helyi változata. Tökéletes egy kiadós ebédhez."
+          },
+          {
+            "name": "Restaurante O Marinheiro",
+            "tip": "Friss tengeri ételeiről és kiváló kiszolgálásáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pescada à Poveira",
+            "tip": "Un fel de mâncare tradițional cu pește, care trebuie încercat. Căutați restaurante lângă port."
+          },
+          {
+            "name": "Francesinha Poveira",
+            "tip": "O variantă locală a faimosului sandviș din Porto. Perfect pentru un prânz copios."
+          },
+          {
+            "name": "Restaurante O Marinheiro",
+            "tip": "Renumit pentru fructele de mare proaspete și serviciile excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pescada à Poveira",
+            "tip": "A traditional fish dish that is a must-try. Look for restaurants near the harbor."
+          },
+          {
+            "name": "Francesinha Poveira",
+            "tip": "A local version of the famous sandwich from Porto. Perfect for a hearty lunch."
+          },
+          {
+            "name": "Restaurante O Marinheiro",
+            "tip": "Known for its fresh seafood and excellent service."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Strand von Póvoa",
+            "tip": "Finden Sie einen Platz auf der langen Promenade und beobachten Sie, wie die Sonne im Atlantik versinkt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Festungsmauern",
+            "tip": "Abseits der Menschenmassen bieten die Mauern einen ruhigen Ort zum Nachdenken mit Blick auf das Meer.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Igreja da Lapa",
+            "tip": "Eine kleinere, oft ruhigere Kirche, um einen Moment der Stille zu finden.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Póvoa strandon",
+            "tip": "Keressen egy helyet a hosszú sétányon, és nézze, ahogy a nap lebukik az Atlanti-óceánba.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az erőd falai",
+            "tip": "Távol a tömegtől a falak csendes helyet kínálnak a tengerre néző elmélkedéshez.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Lapa-templom",
+            "tip": "Egy kisebb, gyakran csendesebb templom, ahol egy pillanatra elcsendesedhet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare pe Plaja Póvoa",
+            "tip": "Găsiți un loc pe promenada lungă și priviți soarele apunând în Atlantic.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Zidurile fortăreței",
+            "tip": "Departe de mulțime, zidurile oferă un loc liniștit pentru reflecție cu vedere la mare.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Biserica da Lapa",
+            "tip": "O biserică mai mică, adesea mai liniștită, pentru un moment de reculegere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Póvoa Beach",
+            "tip": "Find a spot on the long promenade and watch the sun dip into the Atlantic.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fortress Walls",
+            "tip": "Away from the crowds, the walls offer a quiet spot for reflection overlooking the sea.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Igreja da Lapa",
+            "tip": "A smaller, often quieter church to find a moment of peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rua da Junqueira",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen Geschäften und bekannten Marken."
+          },
+          {
+            "name": "Städtischer Markt",
+            "tip": "Erleben Sie die lokale Atmosphäre und kaufen Sie frische Produkte und traditionelle Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rua da Junqueira",
+            "tip": "A fő bevásárlóutca, helyi üzletek és ismert márkák keverékével."
+          },
+          {
+            "name": "Városi Piac",
+            "tip": "Tapasztalja meg a helyi hangulatot, és vásároljon friss termékeket és hagyományos árukat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rua da Junqueira",
+            "tip": "Principala stradă comercială cu un amestec de magazine locale și mărci cunoscute."
+          },
+          {
+            "name": "Piața Municipală",
+            "tip": "Experimentați atmosfera locală și cumpărați produse proaspete și bunuri tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rua da Junqueira",
+            "tip": "The main shopping street with a mix of local shops and known brands."
+          },
+          {
+            "name": "Municipal Market",
+            "tip": "Experience the local vibe and shop for fresh produce and traditional goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel für das beste Preis-Leistungs-Verhältnis.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere an Wochenenden.",
+          "Einige Busse akzeptieren möglicherweise keine großen Scheine, haben Sie also Kleingeld dabei."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a legjobb ár-érték arány érdekében.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén.",
+          "Néhány busz nem fogad el nagy címleteket, legyen Önnél aprópénz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru cel mai bun raport calitate-preț.",
+          "Verificați dinainte orarele autobuzelor, mai ales în weekend.",
+          "Unele autobuze s-ar putea să nu accepte bancnote mari, așa că aveți la îndemână mărunțiș."
+        ],
+        "en": [
+          "Buy a day pass for public transport for the best value.",
+          "Check bus schedules in advance, especially on weekends.",
+          "Some buses may not accept large bills, so have small change ready."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1168 @@
+{
+  "city_id": "ireland-edenderry-cities-v2",
+  "anchor": {
+    "name": "Edenderry",
+    "coords": [
+      53.336,
+      -7.05
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Edenderry",
+            "hu": "Edenderry városháza",
+            "ro": "Primăria Edenderry",
+            "en": "Edenderry Town Hall"
+          },
+          "coords": [
+            -7.051,
+            53.337
+          ],
+          "category": "monument",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die Uhr und die einzigartige Architektur des Gebäudes.",
+            "hu": "Figyelje meg az épület óráját és egyedi építészeti stílusát.",
+            "ro": "Observați ceasul și arhitectura unică a clădirii.",
+            "en": "Note the clock and the unique architecture of the building."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Marien",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            -7.053,
+            53.338
+          ],
+          "category": "church",
+          "arrive_at": "09:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie einen Moment der Ruhe im Inneren, um die Glasfenster zu bewundern.",
+            "hu": "Keressen egy csendes pillanatot a templomban, hogy megcsodálja az ólomüveg ablakokat.",
+            "ro": "Căutați un moment de liniște în interior pentru a admira vitraliile.",
+            "en": "Find a quiet moment inside to admire the stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Canal Hafen",
+            "hu": "Grand Canal kikötő",
+            "ro": "Portul Grand Canal",
+            "en": "The Grand Canal Harbour"
+          },
+          "coords": [
+            -7.048,
+            53.335
+          ],
+          "category": "port",
+          "arrive_at": "10:21",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen Spaziergang entlang des Wassers und zum Beobachten von Lastkähnen.",
+            "hu": "Tökéletes hely egy sétára a víz mentén és a hajók megfigyelésére.",
+            "ro": "Un loc perfect pentru o plimbare pe malul apei și pentru a privi barjele.",
+            "en": "A perfect spot for a stroll along the water and watching barges."
+          }
+        },
+        {
+          "name": {
+            "de": "Blundell-Schloss (Standort)",
+            "hu": "Blundell-kastély (helye)",
+            "ro": "Castelul Blundell (Situl)",
+            "en": "Blundell Castle (Site)"
+          },
+          "coords": [
+            -7.05,
+            53.336
+          ],
+          "category": "castle",
+          "arrive_at": "11:17",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stellen Sie sich die ursprüngliche Festung vor, die einst hier stand.",
+            "hu": "Képzelje el az eredeti erődöt, amely egykor itt állt.",
+            "ro": "Imaginați-vă fortăreața originală care se afla odată aici.",
+            "en": "Imagine the original fortress that once stood on this site."
+          }
+        },
+        {
+          "name": {
+            "de": "Monasteroris-Kloster",
+            "hu": "Monasteroris kolostor",
+            "ro": "Mănăstirea Monasteroris",
+            "en": "Monasteroris Friary"
+          },
+          "coords": [
+            -7.065,
+            53.345
+          ],
+          "category": "historical",
+          "arrive_at": "12:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 54,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen und den alten Friedhof für eine Reise in die Vergangenheit.",
+            "hu": "Fedezze fel a romokat és az ősi temetőt egy időutazáshoz.",
+            "ro": "Explorați ruinele și cimitirul antic pentru o călătorie înapoi în timp.",
+            "en": "Explore the ruins and the ancient graveyard for a trip back in time."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Edenderry mit der Besichtigung der lokalen Architektur. Machen Sie einen gemütlichen Spaziergang entlang des historischen Grand Canal. Nach dem Mittagessen führt Sie ein längerer Spaziergang zu den alten Ruinen des Monasteroris-Klosters. Beenden Sie Ihren Tag mit einem wohlverdienten Pint in einem örtlichen Pub.",
+        "hu": "Kezdje a napot Edenderry szívében, a helyi építészet felfedezésével. Tegyen egy kellemes sétát a történelmi Grand Canal mentén. Ebéd után egy hosszabb séta vezet a Monasteroris kolostor ősi romjaihoz. Zárja a napot egy jól megérdemelt korsó sörrel egy helyi kocsmában.",
+        "ro": "Începeți ziua în inima orașului Edenderry, vizitând arhitectura locală. Faceți o plimbare agale de-a lungul istoricului Grand Canal. După prânz, o plimbare mai lungă vă va duce la ruinele antice ale mănăstirii Monasteroris. Încheiați ziua cu o halbă binemeritată la un pub local.",
+        "en": "Start your day in the heart of Edenderry viewing its local architecture. Take a leisurely stroll along the historic Grand Canal. After lunch, a longer walk takes you to the ancient ruins of Monasteroris Friary. End your day with a well-deserved pint at a local pub."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Irish Stew in einem lokalen Pub",
+            "tip": "Ein herzhaftes und traditionelles Gericht, perfekt nach einem Spaziergang."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Genießen Sie diesen Klassiker in einer der örtlichen Gaststätten."
+          },
+          {
+            "name": "Frische Scones mit Marmelade und Sahne",
+            "tip": "Ein perfekter Nachmittagssnack in einem Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ír gulyás egy helyi pubban",
+            "tip": "Laktató és hagyományos étel, tökéletes egy séta után."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Élvezze ezt a klasszikust az egyik helyi étteremben."
+          },
+          {
+            "name": "Friss pogácsa lekvárral és tejszínnel",
+            "tip": "Tökéletes délutáni harapnivaló egy kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocăniță irlandeză la un pub local",
+            "tip": "Un fel de mâncare consistent și tradițional, perfect după o plimbare."
+          },
+          {
+            "name": "Pește cu cartofi prăjiți",
+            "tip": "Savurați acest clasic la una dintre tavernele locale."
+          },
+          {
+            "name": "Scones proaspete cu gem și frișcă",
+            "tip": "O gustare perfectă de după-amiază la o cafenea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Irish Stew at a local pub",
+            "tip": "A hearty and traditional dish, perfect after a walk."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Enjoy this classic at one of the local eateries."
+          },
+          {
+            "name": "Fresh Scones with jam and cream",
+            "tip": "A perfect afternoon treat at a café."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Grand Canal",
+            "tip": "Das ruhige Wasser und die grünen Ufer sind sehr friedlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monasteroris Friedhof",
+            "tip": "Ein Ort der Geschichte und Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Grand Canal mentén",
+            "tip": "A csendes víz és a zöld partok nagyon békések.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monasteroris temető",
+            "tip": "A történelem és a csend helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe Grand Canal",
+            "tip": "Apele liniștite și malurile verzi sunt foarte pașnice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Monasteroris",
+            "tip": "Un loc de istorie și liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Grand Canal",
+            "tip": "The calm water and green banks are very peaceful.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monasteroris Graveyard",
+            "tip": "A place of history and silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigten irischen Waren als einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kézzel készített ír termékeket egyedi szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat locale",
+            "tip": "Căutați articole irlandeze lucrate manual pentru un suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for handmade Irish goods for a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Prüfen Sie die Wettervorhersage und kleiden Sie sich entsprechend."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Ellenőrizze az időjárás-előrejelzést és öltözzön rétegesen."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Luați o sticlă de apă reutilizabilă.",
+          "Verificați prognoza meteo și îmbrăcați-vă în straturi."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring a reusable water bottle.",
+          "Check the weather forecast and dress in layers."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 21.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Edenderry",
+            "hu": "Edenderry városháza",
+            "ro": "Primăria Edenderry",
+            "en": "Edenderry Town Hall"
+          },
+          "coords": [
+            -7.051,
+            53.337
+          ],
+          "category": "monument",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ausgangspunkt mit guter Sicht auf die Hauptstraße.",
+            "hu": "Nagyszerű kiindulópont, jó kilátással a főutcára.",
+            "ro": "Un punct de plecare excelent, cu vizibilitate bună la strada principală.",
+            "en": "A great starting point with good visibility of the main street."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Canal Hafen",
+            "hu": "Grand Canal kikötő",
+            "ro": "Portul Grand Canal",
+            "en": "The Grand Canal Harbour"
+          },
+          "coords": [
+            -7.048,
+            53.335
+          ],
+          "category": "port",
+          "arrive_at": "09:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und machen Sie einen kurzen Spaziergang am Kanal.",
+            "hu": "Zárja le a biciklit és tegyen egy rövid sétát a csatorna mentén.",
+            "ro": "Încuiați bicicleta și faceți o scurtă plimbare de-a lungul canalului.",
+            "en": "Lock up your bike and take a short walk along the canal."
+          }
+        },
+        {
+          "name": {
+            "de": "Monasteroris-Kloster",
+            "hu": "Monasteroris kolostor",
+            "ro": "Mănăstirea Monasteroris",
+            "en": "Monasteroris Friary"
+          },
+          "coords": [
+            -7.065,
+            53.345
+          ],
+          "category": "historical",
+          "arrive_at": "10:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort, der mit dem Fahrrad gut erreichbar ist.",
+            "hu": "Békés hely, kerékpárral könnyen megközelíthető.",
+            "ro": "Un loc pașnic, ușor accesibil cu bicicleta.",
+            "en": "A peaceful spot that is easily accessible by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Carbury",
+            "hu": "Carbury kastély",
+            "ro": "Castelul Carbury",
+            "en": "Carbury Castle"
+          },
+          "coords": [
+            -7.15,
+            53.36
+          ],
+          "category": "castle",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Die Fahrt lohnt sich wegen der beeindruckenden Ruinen und der Aussicht.",
+            "hu": "Megéri az utat a lenyűgöző romokért és a kilátásért.",
+            "ro": "Merită călătoria pentru ruinele impresionante și priveliști.",
+            "en": "Worth the ride for the impressive ruins and views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Ballymacwilliam",
+            "hu": "Ballymacwilliam temploma",
+            "ro": "Biserica Ballymacwilliam",
+            "en": "Ballymacwilliam Church"
+          },
+          "coords": [
+            -7.1,
+            53.31
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte historische Kirchenruine.",
+            "hu": "Fedezze fel ezt az eldugott, történelmi templomromot.",
+            "ro": "Descoperiți această ruină istorică ascunsă a bisericii.",
+            "en": "Discover this hidden historical church ruin."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Marien",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            -7.053,
+            53.338
+          ],
+          "category": "church",
+          "arrive_at": "15:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem Moment der Besinnung.",
+            "hu": "Zárja a kerékpártúrát egy csendes elmélyüléssel.",
+            "ro": "Încheiați turul cu bicicleta cu un moment de reflecție.",
+            "en": "End your bike tour with a moment of reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im Zentrum von Edenderry und fahren Sie zum Grand Canal. Von dort aus führt eine längere Fahrt Sie zu den historischen Ruinen von Monasteroris und dem majestätischen Carbury Castle. Nach dem Mittagessen erkunden Sie die ländliche Umgebung mit einem Besuch der Ballymacwilliam Church, bevor Sie für einen letzten Halt in die Stadt zurückkehren.",
+        "hu": "Kezdje kerékpártúráját Edenderry központjában, majd tekerjen a Grand Canalhoz. Onnan egy hosszabb út vezet a Monasteroris történelmi romjaihoz és a fenséges Carbury kastélyhoz. Ebéd után fedezze fel a vidéki tájat a Ballymacwilliam templom meglátogatásával, mielőtt visszatérne a városba egy utolsó megállóra.",
+        "ro": "Începeți turul cu bicicleta în centrul orașului Edenderry și mergeți spre Grand Canal. De acolo, o plimbare mai lungă vă duce la ruinele istorice din Monasteroris și la maiestuosul Castel Carbury. După prânz, explorați zona rurală cu o vizită la Biserica Ballymacwilliam înainte de a vă întoarce în oraș pentru o ultimă oprire.",
+        "en": "Start your bike tour in the center of Edenderry and head to the Grand Canal. From there, a longer ride takes you to the historic ruins of Monasteroris and the majestic Carbury Castle. After lunch, explore the countryside with a visit to Ballymacwilliam Church before returning to town for a final stop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Café",
+            "tip": "Tanken Sie Energie mit Kaffee und Kuchen vor einer langen Fahrt."
+          },
+          {
+            "name": "Picknick am Carbury Castle",
+            "tip": "Packen Sie ein Mittagessen ein und genießen Sie es mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kávézó",
+            "tip": "Töltődjön fel kávéval és süteménnyel egy hosszú tekerés előtt."
+          },
+          {
+            "name": "Piknik a Carbury kastélynál",
+            "tip": "Csomagoljon ebédet és fogyassza el a kilátás mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea locală",
+            "tip": "Realimentați-vă cu cafea și prăjituri înainte de o plimbare lungă."
+          },
+          {
+            "name": "Picnic la Castelul Carbury",
+            "tip": "Împachetați un prânz și bucurați-vă de el cu o priveliște."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Café",
+            "tip": "Fuel up with coffee and cake before a long ride."
+          },
+          {
+            "name": "Picnic at Carbury Castle",
+            "tip": "Pack a lunch to enjoy with the view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Landstraßen um Carbury",
+            "tip": "Genießen Sie die Ruhe der irischen Landschaft.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ballymacwilliam Kirchenruine",
+            "tip": "Ein abgeschiedener Ort für ruhige Momente.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki utak Carbury környékén",
+            "tip": "Élvezze az ír vidék csendjét.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ballymacwilliam templomrom",
+            "tip": "Egy eldugott hely a csendes elmélkedéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumuri de țară în jurul Carbury",
+            "tip": "Bucurați-vă de liniștea peisajului rural irlandez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ruinele bisericii Ballymacwilliam",
+            "tip": "Un loc retras pentru contemplare liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Country roads around Carbury",
+            "tip": "Enjoy the quiet of the Irish countryside.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ballymacwilliam Church ruin",
+            "tip": "A secluded spot for quiet contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Holen Sie sich Zubehör oder Last-Minute-Reparaturen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Szerezzen be kiegészítőket vagy végezzen el utolsó pillanatos javításokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Luați orice provizii sau reparații de ultim moment."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Pick up any supplies or last-minute repairs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und helle Kleidung.",
+          "Bringen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen zu sichern.",
+          "Überprüfen Sie Ihre Reifen, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Viseljen sisakot és élénk színű ruházatot.",
+          "Hozzon magával lakatot a kerékpár lezárásához a megállóknál.",
+          "Indulás előtt ellenőrizze a gumikat."
+        ],
+        "ro": [
+          "Purtați cască și haine de culori deschise.",
+          "Aduceți un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Verificați-vă anvelopele înainte de a porni."
+        ],
+        "en": [
+          "Wear a helmet and bright clothing.",
+          "Bring a lock to secure your bike at stops.",
+          "Check your tires before you set off."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 20.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Parken im Stadtzentrum",
+            "hu": "A csoport: Parkolás a városközpontban",
+            "ro": "Cluster A: Parcare în centrul orașului",
+            "en": "Cluster A: Town Centre Parking"
+          },
+          "coords": [
+            -7.052,
+            53.336
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Teil der Stadt zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a város első részét.",
+            "ro": "Parcați aici pentru a explora prima parte a orașului pe jos.",
+            "en": "Park here to explore the first part of the town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Edenderry",
+            "hu": "Edenderry városháza",
+            "ro": "Primăria Edenderry",
+            "en": "Edenderry Town Hall"
+          },
+          "coords": [
+            -7.051,
+            53.337
+          ],
+          "category": "monument",
+          "arrive_at": "09:12",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus.",
+            "hu": "Egy rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Marien",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            -7.053,
+            53.338
+          ],
+          "category": "church",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Rathaus aus erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a városházától.",
+            "ro": "Ușor de ajuns pe jos de la primărie.",
+            "en": "An easy walk from the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Schloss Carbury",
+            "hu": "B csoport: Carbury kastély",
+            "ro": "Cluster B: Castelul Carbury",
+            "en": "Cluster B: Carbury Castle"
+          },
+          "coords": [
+            -7.15,
+            53.36
+          ],
+          "category": "castle",
+          "arrive_at": "10:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 9.9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem dramatischen Ort und erkunden Sie die Ruinen.",
+            "hu": "Vezessen el ehhez a drámai helyszínhez, és fedezze fel a romokat.",
+            "ro": "Conduceți până la acest sit dramatic și explorați ruinele.",
+            "en": "Drive to this dramatic site and explore the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Kirche von Ballymacwilliam",
+            "hu": "C csoport: Ballymacwilliam temploma",
+            "ro": "Cluster C: Biserica Ballymacwilliam",
+            "en": "Cluster C: Ballymacwilliam Church"
+          },
+          "coords": [
+            -7.1,
+            53.31
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zu einer weiteren friedlichen historischen Stätte.",
+            "hu": "Egy rövid autóút egy másik békés történelmi helyszínhez.",
+            "ro": "O scurtă călătorie cu mașina către un alt sit istoric pașnic.",
+            "en": "A short drive to another peaceful historical site."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Canal Hafen",
+            "hu": "Grand Canal kikötő",
+            "ro": "Portul Grand Canal",
+            "en": "The Grand Canal Harbour"
+          },
+          "coords": [
+            -7.048,
+            53.335
+          ],
+          "category": "port",
+          "arrive_at": "13:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in die Stadt für einen entspannenden Spaziergang zum Abschluss.",
+            "hu": "Vezessen vissza a városba egy befejező, pihentető sétára.",
+            "ro": "Conduceți înapoi în oraș pentru o plimbare relaxantă de încheiere.",
+            "en": "Drive back into town for a final relaxing walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie, indem Sie im Zentrum von Edenderry parken und die Sehenswürdigkeiten der Stadt zu Fuß erkunden. Am Vormittag fahren Sie zum beeindruckenden Carbury Castle. Nach dem Mittagessen in der Nähe führt Sie eine kurze Fahrt zur ruhigen Ballymacwilliam Church. Kehren Sie am späten Nachmittag nach Edenderry zurück, um einen friedlichen Spaziergang am Grand Canal zu genießen.",
+        "hu": "Kezdje a parkolással Edenderry központjában, és fedezze fel gyalog a város nevezetességeit. Délelőtt vezessen el a lenyűgöző Carbury kastélyhoz. Ebéd után egy közeli helyen egy rövid autóút vezet a csendes Ballymacwilliam templomhoz. Késő délután térjen vissza Edenderrybe, hogy élvezze a békés sétát a Grand Canal mentén.",
+        "ro": "Începeți prin a parca în centrul orașului Edenderry și a explora atracțiile sale pe jos. La amiază, conduceți la impresionantul Castel Carbury. După prânz în apropiere, o scurtă călătorie cu mașina vă duce la liniștita Biserică Ballymacwilliam. Întoarceți-vă în Edenderry după-amiaza târziu pentru o plimbare liniștită de-a lungul Grand Canal.",
+        "en": "Start by parking in central Edenderry and exploring its town sights on foot. Mid-morning, drive out to the impressive Carbury Castle. After lunch nearby, a short drive takes you to the serene Ballymacwilliam Church. Return to Edenderry in the late afternoon for a peaceful stroll along the Grand Canal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pub-Mittagessen in der Nähe von Carbury",
+            "tip": "Finden Sie ein Landgasthaus für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Eis am Kanal",
+            "tip": "Eine erfrischende Belohnung nach Ihrer Rückkehr in die Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kocsmai ebéd Carbury közelében",
+            "tip": "Keressen egy vidéki pubot egy autentikus élményért."
+          },
+          {
+            "name": "Fagylalt a csatornánál",
+            "tip": "Frissítő jutalom, miután visszatért a városba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prânz la pub lângă Carbury",
+            "tip": "Găsiți un han de țară pentru o experiență autentică."
+          },
+          {
+            "name": "Înghețată lângă canal",
+            "tip": "O recompensă răcoritoare la întoarcerea în oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pub lunch near Carbury",
+            "tip": "Find a country pub for an authentic experience."
+          },
+          {
+            "name": "Ice cream by the canal",
+            "tip": "A refreshing treat upon your return to town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Umgebung von Carbury Castle",
+            "tip": "Die Weite und die Aussicht bieten einen Moment der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pfad am Grand Canal",
+            "tip": "Ideal für einen langsamen, nachdenklichen Spaziergang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carbury kastély környéke",
+            "tip": "A tágasság és a kilátás nyugalmat áraszt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grand Canal ösvény",
+            "tip": "Ideális egy lassú, elmélkedő sétához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Împrejurimile Castelului Carbury",
+            "tip": "Întinderea și priveliștile oferă un moment de pace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cărarea de pe Grand Canal",
+            "tip": "Ideală pentru o plimbare lentă, contemplativă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Carbury Castle surroundings",
+            "tip": "The open space and views provide a moment of peace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grand Canal Path",
+            "tip": "Ideal for a slow, thoughtful walk.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden auf dem Land",
+            "tip": "Halten Sie Ausschau nach Schildern für frische lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmboltok vidéken",
+            "tip": "Figyelje a friss, helyi termékeket hirdető táblákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole la țară",
+            "tip": "Fiți atenți la indicatoarele pentru produse locale proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the countryside",
+            "tip": "Keep an eye out for signs advertising fresh local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App für die Landstraßen.",
+          "Überprüfen Sie die Parkmöglichkeiten an den historischen Stätten.",
+          "Irland fährt links!"
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a vidéki utakon.",
+          "Ellenőrizze a parkolási lehetőségeket a történelmi helyszíneken.",
+          "Írországban bal oldali közlekedés van!"
+        ],
+        "ro": [
+          "Folosiți o aplicație de navigație pentru drumurile de țară.",
+          "Verificați parcarea la siturile istorice.",
+          "Irlanda are volan pe dreapta!"
+        ],
+        "en": [
+          "Use a GPS app for the country lanes.",
+          "Check parking availability at the historic sites.",
+          "Remember to drive on the left!"
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Edenderry Stadtzentrum",
+            "hu": "A csoport: Edenderry városközpont",
+            "ro": "Cluster A: Centrul orașului Edenderry",
+            "en": "Cluster A: Edenderry Town Centre"
+          },
+          "coords": [
+            -7.051,
+            53.337
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kommen Sie mit einem lokalen Bus an und beginnen Sie Ihre Erkundung.",
+            "hu": "Érkezzen helyi busszal és kezdje meg a felfedezést.",
+            "ro": "Sosiți cu un autobuz local și începeți explorarea.",
+            "en": "Arrive via a local bus and start your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Marien",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            -7.053,
+            53.338
+          ],
+          "category": "church",
+          "arrive_at": "09:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom zentralen Busbahnhof aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a központi buszmegállótól.",
+            "ro": "Ușor de ajuns pe jos de la stația centrală de autobuz.",
+            "en": "An easy walk from the central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Canal Hafen",
+            "hu": "Grand Canal kikötő",
+            "ro": "Portul Grand Canal",
+            "en": "The Grand Canal Harbour"
+          },
+          "coords": [
+            -7.048,
+            53.335
+          ],
+          "category": "port",
+          "arrive_at": "10:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Stadtzentrum zum Kanal.",
+            "hu": "Sétáljon le a városközpontból a csatornához.",
+            "ro": "Faceți o plimbare din centrul orașului până la canal.",
+            "en": "Stroll down to the canal from the town centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Schloss Carbury",
+            "hu": "B csoport: Carbury kastély",
+            "ro": "Cluster B: Castelul Carbury",
+            "en": "Cluster B: Carbury Castle"
+          },
+          "coords": [
+            -7.15,
+            53.36
+          ],
+          "category": "castle",
+          "arrive_at": "12:04",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Carbury. Es kann ein kurzer Spaziergang von der Haltestelle erforderlich sein.",
+            "hu": "Menjen busszal Carbury felé. A megállótól rövid séta lehet szükséges.",
+            "ro": "Luați un autobuz spre Carbury. S-ar putea să fie nevoie de o scurtă plimbare de la stație.",
+            "en": "Take a bus towards Carbury. A short walk from the stop may be required."
+          }
+        },
+        {
+          "name": {
+            "de": "Monasteroris-Kloster",
+            "hu": "Monasteroris kolostor",
+            "ro": "Mănăstirea Monasteroris",
+            "en": "Monasteroris Friary"
+          },
+          "coords": [
+            -7.065,
+            53.345
+          ],
+          "category": "historical",
+          "arrive_at": "14:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 11.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück in Richtung Edenderry und steigen Sie in der Nähe der Ruinen aus.",
+            "hu": "Menjen busszal vissza Edenderry felé, és szálljon le a romok közelében.",
+            "ro": "Luați un autobuz înapoi spre Edenderry și coborâți lângă ruine.",
+            "en": "Take a bus back towards Edenderry, getting off near the friary."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das lokale Busnetz, um Ihren Tag zu gestalten. Beginnen Sie im Zentrum von Edenderry, das Sie zu Fuß erkunden. Am Vormittag bringt Sie eine Busfahrt aufs Land zum beeindruckenden Carbury Castle. Nach einem ausgiebigen Besuch bringt Sie ein weiterer Bus zurück in Richtung Stadt, mit einem Halt an den historischen Ruinen des Monasteroris-Klosters, bevor Sie den Tag beenden.",
+        "hu": "Használja a helyi buszhálózatot a nap megtervezéséhez. Kezdje Edenderry központjában, amelyet gyalog fedezhet fel. Délelőtt egy buszút kivisz a vidékre a lenyűgöző Carbury kastélyhoz. Egy alapos látogatás után egy másik busz visszavisz a város felé, megállva a történelmi Monasteroris kolostor romjainál, mielőtt befejezné a napot.",
+        "ro": "Folosiți rețeaua locală de autobuze pentru a vă structura ziua. Începeți în centrul orașului Edenderry, explorând pe jos. La amiază, o călătorie cu autobuzul vă duce la țară, la impresionantul Castel Carbury. După o vizită extinsă, un alt autobuz vă duce înapoi spre oraș, cu o oprire la ruinele istorice ale Mănăstirii Monasteroris înainte de a încheia ziua.",
+        "en": "Use the local bus network to structure your day. Start in central Edenderry, exploring on foot. Mid-morning, a bus journey takes you into the countryside to the impressive Carbury Castle. After an extensive visit, another bus brings you back towards town with a stop at the historic Monasteroris Friary ruins before you finish."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandwich aus einem lokalen Deli",
+            "tip": "Schnappen Sie sich ein Mittagessen zum Mitnehmen für Ihre Busfahrt."
+          },
+          {
+            "name": "Abendessen im Pub in Edenderry",
+            "tip": "Belohnen Sie sich nach Ihrer Reise mit einer warmen Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szendvics egy helyi deliből",
+            "tip": "Vigyen magával ebédet a buszútra."
+          },
+          {
+            "name": "Kocsmai vacsora Edenderryben",
+            "tip": "Jutalmazza meg magát egy meleg étellel az utazás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș de la o delicatesă locală",
+            "tip": "Luați un prânz la pachet pentru călătoria cu autobuzul."
+          },
+          {
+            "name": "Cină la pub în Edenderry",
+            "tip": "Recompensați-vă cu o masă caldă după călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandwich from a local deli",
+            "tip": "Grab a packed lunch for your bus journey."
+          },
+          {
+            "name": "Pub dinner in Edenderry",
+            "tip": "Reward yourself with a warm meal after your travels."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Deck eines Busses",
+            "tip": "Beobachten Sie die Landschaft aus einer anderen Perspektive.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Carbury Hill",
+            "tip": "Ein Ort der Stille mit weitreichender Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy busz emeleti része",
+            "tip": "Nézze a tájat egy másik perspektívából."
+          },
+          {
+            "name": "Carbury-hegy",
+            "tip": "Csendes hely, messzire nyúló kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puntea superioară a unui autobuz",
+            "tip": "Priviți peisajul dintr-o perspectivă diferită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Carbury",
+            "tip": "Un loc de liniște cu vederi ample.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of a bus",
+            "tip": "Watch the scenery go by from a different perspective.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Carbury Hill",
+            "tip": "A spot of tranquility with far-reaching views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Nachrichtenagentur",
+            "tip": "Kaufen Sie Snacks und Getränke für die Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Újságos",
+            "tip": "Vásároljon rágcsálnivalót és italokat az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agenție de presă",
+            "tip": "Cumpărați gustări și băuturi pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Newsagent",
+            "tip": "Buy snacks and drinks for the journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Haben Sie Kleingeld für den Busfahrpreis bereit.",
+          "Überprüfen Sie die Busfahrpläne im Voraus.",
+          "Laden Sie eine Offline-Karte auf Ihr Handy herunter."
+        ],
+        "hu": [
+          "Készítsen elő aprópénzt a buszjegyre.",
+          "Ellenőrizze előre a buszmenetrendet.",
+          "Töltsön le egy offline térképet a telefonjára."
+        ],
+        "ro": [
+          "Aveți la îndemână mărunțiș pentru biletul de autobuz.",
+          "Verificați din timp orarele autobuzelor.",
+          "Descărcați o hartă offline pe telefon."
+        ],
+        "en": [
+          "Have small change ready for the bus fare.",
+          "Check bus timetables in advance.",
+          "Download an offline map to your phone."
+        ]
+      }
+    }
+  }
+}

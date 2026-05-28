@@ -1,0 +1,1448 @@
+{
+  "city_id": "romania-ramnicu-valcea-cities-v2",
+  "anchor": {
+    "name": "Râmnicu Vâlcea",
+    "coords": [
+      24.3667,
+      45.1
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Park Mircea cel Bătrân",
+            "hu": "Mircea cel Bătrân Park",
+            "ro": "Parcul Mircea cel Bătrân",
+            "en": "Mircea cel Bătrân Park"
+          },
+          "coords": [
+            24.371,
+            45.105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem entspannten Spaziergang und genießen Sie die morgendliche Ruhe.",
+            "hu": "Kezdje a napot egy pihentető sétával, és élvezze a reggeli csendet.",
+            "ro": "Începeți ziua cu o plimbare relaxantă și bucurați-vă de liniștea dimineții.",
+            "en": "Start your day with a relaxing walk and enjoy the morning tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Mircea cel Bătrân",
+            "hu": "Öreg Mircea szobra",
+            "ro": "Statuia lui Mircea cel Bătrân",
+            "en": "Statue of Mircea the Elder"
+          },
+          "coords": [
+            24.37,
+            45.104
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein historisches Foto mit dem Gründer der Walachei.",
+            "hu": "Remek hely egy történelmi fotóhoz Havasalföld alapítójával.",
+            "ro": "Un loc excelent pentru o fotografie istorică cu fondatorul Țării Românești.",
+            "en": "A great spot for a historical photo with the founder of Wallachia."
+          }
+        },
+        {
+          "name": {
+            "de": "Bischofskathedrale St. Nikolaus",
+            "hu": "Szent Miklós Püspöki Székesegyház",
+            "ro": "Catedrala Episcopală Sfântul Nicolae",
+            "en": "Saint Nicholas Episcopal Cathedral"
+          },
+          "coords": [
+            24.368,
+            45.103
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Fresken und die friedliche Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző freskókat és a békés belső atmoszférát.",
+            "ro": "Observați frescele impresionante și atmosfera pașnică din interior.",
+            "en": "Pay attention to the impressive frescoes and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum Casa Simian",
+            "hu": "Casa Simian Művészeti Múzeum",
+            "ro": "Muzeul de Artă Casa Simian",
+            "en": "Casa Simian Art Museum"
+          },
+          "coords": [
+            24.365,
+            45.102
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die rumänische Kunst des 19. und 20. Jahrhunderts.",
+            "hu": "Koncentráljon a 19. és 20. századi román művészeti gyűjteményre.",
+            "ro": "Concentrați-vă pe colecția de artă românească din secolele XIX și XX.",
+            "en": "Focus on the collection of 19th and 20th-century Romanian art."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            24.366,
+            45.101
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Probieren Sie „Ciorbă de burtă“ in einem der traditionellen Restaurants.",
+            "hu": "Kóstolja meg a „Ciorbă de burtă”-t (pacallevest) egy hagyományos étteremben.",
+            "ro": "Încercați o ciorbă de burtă la unul dintre restaurantele tradiționale.",
+            "en": "Try the 'ciorbă de burtă' (tripe soup) at one of the traditional restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Anton-Pann-Gedenkhaus",
+            "hu": "Anton Pann Emlékház",
+            "ro": "Casa Memorială Anton Pann",
+            "en": "Anton Pann Memorial House"
+          },
+          "coords": [
+            24.364,
+            45.099
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben des berühmten rumänischen Dichters und Komponisten.",
+            "hu": "Ismerje meg a híres román költő és zeneszerző életét.",
+            "ro": "Descoperiți viața faimosului poet și compozitor român.",
+            "en": "Discover the life of the famous Romanian poet and composer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang im grünen Herzen der Stadt, dem Mircea cel Bătrân Park. Nach einem Tribut an den Stadtgründer tauchen Sie in die spirituelle Ruhe der Bischofskathedrale ein. Am Nachmittag widmen Sie sich der reichen lokalen Kultur im Kunstmuseum und dem Anton-Pann-Gedenkhaus, unterbrochen von einem herzhaften rumänischen Mittagessen.",
+        "hu": "Kezdje a sétát a város zöld szívében, a Mircea cel Bătrân Parkban. Miután tiszteletét tette a városalapítónál, merüljön el a püspöki székesegyház spirituális nyugalmában. Délután a gazdag helyi kultúrának szentelheti idejét a Művészeti Múzeumban és az Anton Pann Emlékházban, egy kiadós román ebéddel megszakítva.",
+        "ro": "Începeți turul pietonal în inima verde a orașului, Parcul Mircea cel Bătrân. După un omagiu adus fondatorului, scufundați-vă în liniștea spirituală a Catedralei Episcopale. După-amiaza este dedicată culturii locale bogate la Muzeul de Artă și Casa Memorială Anton Pann, cu o pauză pentru un prânz românesc copios.",
+        "en": "Start your walking tour in the green heart of the city, Mircea cel Bătrân Park. After a tribute to the city's founder, immerse yourself in the spiritual tranquility of the Episcopal Cathedral. The afternoon is dedicated to the rich local culture at the Art Museum and the Anton Pann Memorial House, interrupted by a hearty Romanian lunch."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă Rădăuțeană",
+            "tip": "Eine cremige Hühnersuppe, eine leichtere Alternative zur traditionellen Ciorbă de burtă."
+          },
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "Ein deftiger Eintopf mit Schweinefleisch, Wurst und Mămăligă (Polenta)."
+          },
+          {
+            "name": "Papanăși",
+            "tip": "Ein Muss zum Nachtisch: frittierte Quarkknödel mit saurer Sahne und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Radóci leves (Ciorbă Rădăuțeană)",
+            "tip": "Krémes csirkeleves, a pacalleves könnyebb alternatívája."
+          },
+          {
+            "name": "Moldvai tokány (Tochitură Moldovenească)",
+            "tip": "Kiadós pörkölt sertéshússal, kolbásszal és puliszkával (mămăligă)."
+          },
+          {
+            "name": "Papanasi (Papanăși)",
+            "tip": "Kötelező desszert: sült túrófánk tejföllel és lekvárral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă Rădăuțeană",
+            "tip": "O supă cremoasă de pui, o alternativă mai ușoară la ciorba de burtă."
+          },
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "O tocană consistentă cu carne de porc, cârnați și mămăligă."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert obligatoriu: gogoși din brânză de vaci, prăjite, cu smântână și dulceață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă Rădăuțeană",
+            "tip": "A creamy chicken soup, a lighter alternative to the traditional tripe soup."
+          },
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "A hearty stew with pork, sausages, and polenta (mămăligă)."
+          },
+          {
+            "name": "Papanăși",
+            "tip": "A must-try dessert: fried cheese doughnuts with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Capela-Hügel",
+            "tip": "Ein kurzer Spaziergang für einen Panoramablick über die Stadt bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Flusses Olt",
+            "tip": "Ein ruhiger Ort für einen Spaziergang abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kreisbibliothek Antim Ivireanul",
+            "tip": "Finden Sie eine ruhige Ecke und tauchen Sie in ein Buch ein.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kápolna-hegy (Dealul Capela)",
+            "tip": "Egy rövid séta a panorámás kilátásért a városra naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Olt folyó partja",
+            "tip": "Csendes hely egy sétához a városközponttól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Antim Ivireanul Megyei Könyvtár",
+            "tip": "Keressen egy csendes sarkot, és merüljön el egy könyvben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Capela",
+            "tip": "O scurtă plimbare pentru o vedere panoramică asupra orașului la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile râului Olt",
+            "tip": "Un loc liniștit pentru o plimbare departe de agitația centrului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biblioteca Județeană Antim Ivireanul",
+            "tip": "Găsiți un colț liniștit și cufundați-vă într-o carte.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Capela Hill",
+            "tip": "A short walk for a panoramic view over the city at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Olt River",
+            "tip": "A quiet spot for a stroll away from the city center bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Antim Ivireanul County Library",
+            "tip": "Find a quiet corner and dive into a book.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und traditionellen rumänischen Käse (Brânză de burduf)."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigter Keramik und traditionellen Textilien aus der Region Oltenien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és hagyományos román sajtot (Brânză de burduf)."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és hagyományos textíliákat Oltenia régiójából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și brânză de burduf tradițională."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică lucrată manual și textile tradiționale din regiunea Olteniei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and traditional Romanian cheese (Brânză de burduf)."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for handmade pottery and traditional textiles from the Oltenia region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und gut zu Fuß erreichbar ist.",
+          "Halten Sie Bargeld für kleinere Einkäufe auf dem Markt bereit.",
+          "Die meisten Museen sind montags geschlossen, planen Sie entsprechend.",
+          "Nutzen Sie die vielen Cafés für eine kurze Pause und einen starken rumänischen Kaffee."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a városközpont kompakt és könnyen bejárható gyalog.",
+          "Tartson magánál készpénzt a kisebb piaci vásárlásokhoz.",
+          "A legtöbb múzeum hétfőn zárva tart, tervezzen ennek megfelelően.",
+          "Használja ki a számos kávézót egy rövid szünetre és egy erős román kávéra."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, centrul orașului este compact și ușor de explorat pe jos.",
+          "Păstrați numerar la îndemână pentru cumpărături minore în piață.",
+          "Majoritatea muzeelor sunt închise lunea, planificați-vă vizita în consecință.",
+          "Profitați de numeroasele cafenele pentru o pauză scurtă și o cafea românească tare."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is compact and very walkable.",
+          "Keep some cash on hand for smaller purchases at the market.",
+          "Most museums are closed on Mondays, so plan accordingly.",
+          "Take advantage of the many cafes for a short break and a strong Romanian coffee."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorfmuseum Vâlcea",
+            "hu": "Vâlcea-i Falumúzeum",
+            "ro": "Muzeul Satului Vâlcean",
+            "en": "Vâlcea Village Museum"
+          },
+          "coords": [
+            24.39,
+            45.095
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die traditionelle Architektur der Region zu erkunden.",
+            "hu": "Szánjon időt a régió hagyományos építészetének felfedezésére.",
+            "ro": "Acordați-vă timp pentru a explora arhitectura tradițională a regiunii.",
+            "en": "Take your time to explore the traditional architecture of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Capela-Hügel",
+            "hu": "Kerékpározás a Kápolna-hegyre",
+            "ro": "Plimbare cu bicicleta spre Dealul Capela",
+            "en": "Ride to Capela Hill"
+          },
+          "coords": [
+            24.375,
+            45.108
+          ],
+          "category": "natural features",
+          "arrive_at": "11:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der kurze Anstieg lohnt sich für die Aussicht. Ein perfekter Ort für eine Pause.",
+            "hu": "A rövid emelkedő megéri a kilátásért. Tökéletes hely egy szünetre.",
+            "ro": "Scurta urcare merită pentru priveliște. Un loc perfect pentru o pauză.",
+            "en": "The short climb is worth it for the view. A perfect spot for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Mircea cel Bătrân",
+            "hu": "Mircea cel Bătrân Park",
+            "ro": "Parcul Mircea cel Bătrân",
+            "en": "Mircea cel Bătrân Park"
+          },
+          "coords": [
+            24.371,
+            45.105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie einen Spaziergang im Zentrum.",
+            "hu": "Zárja le a biciklit, és tegyen egy sétát a központban.",
+            "ro": "Parcați bicicleta și bucurați-vă de o plimbare în centru.",
+            "en": "Lock up your bike and enjoy a walk in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Parks",
+            "hu": "Ebéd a park közelében",
+            "ro": "Prânz lângă parc",
+            "en": "Lunch near the park"
+          },
+          "coords": [
+            24.37,
+            45.103
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Viele Restaurants hier bieten Tagesmenüs an, die preiswert und lecker sind.",
+            "hu": "Sok itteni étterem kínál napi menüt, ami olcsó és finom.",
+            "ro": "Multe restaurante de aici oferă meniuri zilnice, ieftine și gustoase.",
+            "en": "Many restaurants here offer daily menus that are inexpensive and delicious."
+          }
+        },
+        {
+          "name": {
+            "de": "Bischofskathedrale & Kunstmuseum",
+            "hu": "Püspöki Székesegyház és Művészeti Múzeum",
+            "ro": "Catedrala Episcopală & Muzeul de Artă",
+            "en": "Episcopal Cathedral & Art Museum"
+          },
+          "coords": [
+            24.366,
+            45.102
+          ],
+          "category": "combo",
+          "arrive_at": "14:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Kombinieren Sie diese beiden nahe gelegenen Sehenswürdigkeiten für einen Kulturnachmittag.",
+            "hu": "Kombinálja ezt a két közeli látnivalót egy kulturális délutánra.",
+            "ro": "Combinați aceste două atracții apropiate pentru o după-amiază culturală.",
+            "en": "Combine these two nearby attractions for an afternoon of culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kreisbibliothek Antim Ivireanul",
+            "hu": "Antim Ivireanul Megyei Könyvtár",
+            "ro": "Biblioteca Județeană Antim Ivireanul",
+            "en": "Antim Ivireanul County Library"
+          },
+          "coords": [
+            24.363,
+            45.1
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur des Gebäudes am Ende Ihrer Tour.",
+            "hu": "Csodálja meg az épület modern építészetét a túra végén.",
+            "ro": "Admirați arhitectura modernă a clădirii la finalul turului.",
+            "en": "Admire the modern architecture of the building at the end of your tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im Freilichtmuseum, um in die ländliche Geschichte einzutauchen. Erklimmen Sie dann den Capela-Hügel für eine atemberaubende Aussicht. Der Nachmittag gehört dem kulturellen Herzen der Stadt: dem zentralen Park, der Kathedrale und dem Kunstmuseum. Ein rumänisches Mittagessen sorgt für neue Energie für die zweite Tageshälfte.",
+        "hu": "Kezdje a biciklitúrát a falumúzeumban, hogy elmerüljön a vidéki történelemben. Ezután másszon fel a Kápolna-hegyre a lélegzetelállító kilátásért. A délután a város kulturális szívéé: a központi parké, a székesegyházé és a művészeti múzeumé. Egy román ebéd új energiát ad a nap második felére.",
+        "ro": "Începeți turul pe bicicletă la Muzeul Satului pentru o imersiune în istoria rurală. Apoi, urcați pe Dealul Capela pentru o priveliște uluitoare. După-amiaza este dedicată inimii culturale a orașului: parcul central, catedrala și muzeul de artă. Un prânz românesc vă va reîncărca bateriile pentru a doua jumătate a zilei.",
+        "en": "Start your bike tour at the open-air Village Museum for an immersion in rural history. Then, climb Capela Hill for a breathtaking view. The afternoon belongs to the cultural heart of the city: the central park, the cathedral, and the art museum. A Romanian lunch will recharge your batteries for the second half of the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă Rădăuțeană",
+            "tip": "Eine cremige Hühnersuppe, eine leichtere Alternative zur traditionellen Ciorbă de burtă."
+          },
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "Ein deftiger Eintopf mit Schweinefleisch, Wurst und Mămăligă (Polenta)."
+          },
+          {
+            "name": "Papanăși",
+            "tip": "Ein Muss zum Nachtisch: frittierte Quarkknödel mit saurer Sahne und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Radóci leves (Ciorbă Rădăuțeană)",
+            "tip": "Krémes csirkeleves, a pacalleves könnyebb alternatívája."
+          },
+          {
+            "name": "Moldvai tokány (Tochitură Moldovenească)",
+            "tip": "Kiadós pörkölt sertéshússal, kolbásszal és puliszkával (mămăligă)."
+          },
+          {
+            "name": "Papanasi (Papanăși)",
+            "tip": "Kötelező desszert: sült túrófánk tejföllel és lekvárral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă Rădăuțeană",
+            "tip": "O supă cremoasă de pui, o alternativă mai ușoară la ciorba de burtă."
+          },
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "O tocană consistentă cu carne de porc, cârnați și mămăligă."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert obligatoriu: gogoși din brânză de vaci, prăjite, cu smântână și dulceață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă Rădăuțeană",
+            "tip": "A creamy chicken soup, a lighter alternative to the traditional tripe soup."
+          },
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "A hearty stew with pork, sausages, and polenta (mămăligă)."
+          },
+          {
+            "name": "Papanăși",
+            "tip": "A must-try dessert: fried cheese doughnuts with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Capela-Hügel",
+            "tip": "Ein kurzer Spaziergang für einen Panoramablick über die Stadt bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Flusses Olt",
+            "tip": "Ein ruhiger Ort für einen Spaziergang abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kreisbibliothek Antim Ivireanul",
+            "tip": "Finden Sie eine ruhige Ecke und tauchen Sie in ein Buch ein.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kápolna-hegy (Dealul Capela)",
+            "tip": "Egy rövid séta a panorámás kilátásért a városra naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Olt folyó partja",
+            "tip": "Csendes hely egy sétához a városközponttól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Antim Ivireanul Megyei Könyvtár",
+            "tip": "Keressen egy csendes sarkot, és merüljön el egy könyvben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Capela",
+            "tip": "O scurtă plimbare pentru o vedere panoramică asupra orașului la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile râului Olt",
+            "tip": "Un loc liniștit pentru o plimbare departe de agitația centrului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biblioteca Județeană Antim Ivireanul",
+            "tip": "Găsiți un colț liniștit și cufundați-vă într-o carte.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Capela Hill",
+            "tip": "A short walk for a panoramic view over the city at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Olt River",
+            "tip": "A quiet spot for a stroll away from the city center bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Antim Ivireanul County Library",
+            "tip": "Find a quiet corner and dive into a book.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und traditionellen rumänischen Käse (Brânză de burduf)."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigter Keramik und traditionellen Textilien aus der Region Oltenien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és hagyományos román sajtot (Brânză de burduf)."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és hagyományos textíliákat Oltenia régiójából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și brânză de burduf tradițională."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică lucrată manual și textile tradiționale din regiunea Olteniei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and traditional Romanian cheese (Brânză de burduf)."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for handmade pottery and traditional textiles from the Oltenia region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Einige Straßen können uneben sein, fahren Sie vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer an, wenn Sie es unbeaufsichtigt lassen.",
+          "Die Stadt ist relativ flach, aber die Fahrt zum Hügel erfordert etwas Anstrengung."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Néhány út egyenetlen lehet, vezessen óvatosan.",
+          "Mindig zárja le a kerékpárt, ha felügyelet nélkül hagyja.",
+          "A város viszonylag sík, de a hegyre való feljutás némi erőfeszítést igényel."
+        ],
+        "ro": [
+          "Verificați bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Unele străzi pot fi denivelate, conduceți cu prudență.",
+          "Încuietoarea este esențială; asigurați-vă bicicleta când o lăsați nesupravegheată.",
+          "Orașul este relativ plat, dar urcarea pe deal necesită puțin efort."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Some roads can be uneven, so ride carefully.",
+          "Always lock your bike when leaving it unattended.",
+          "The city is relatively flat, but the ride to the hill requires some effort."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Dorfmuseum Vâlcea",
+            "hu": "1. klaszter: Vâlcea-i Falumúzeum",
+            "ro": "Cluster 1: Muzeul Satului Vâlcean",
+            "en": "Cluster 1: Vâlcea Village Museum"
+          },
+          "coords": [
+            24.39,
+            45.095
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihre Zeitreise in das ländliche Rumänien.",
+            "hu": "Parkoljon le itt, és kezdje meg az időutazást a vidéki Romániába.",
+            "ro": "Parcați aici și începeți călătoria în timp în România rurală.",
+            "en": "Park here and start your journey back in time to rural Romania."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Park Mircea cel Bătrân",
+            "hu": "2. klaszter: Mircea cel Bătrân Park",
+            "ro": "Cluster 2: Parcul Mircea cel Bătrân",
+            "en": "Cluster 2: Mircea cel Bătrân Park"
+          },
+          "coords": [
+            24.371,
+            45.105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen zentralen Parkplatz. Sie werden die nächsten Stunden zu Fuß unterwegs sein.",
+            "hu": "Keressen egy központi parkolót. A következő néhány órát gyalog fogja tölteni.",
+            "ro": "Găsiți o parcare centrală. Veți explora zona pe jos în următoarele ore.",
+            "en": "Find a central parking spot. You'll be exploring on foot for the next few hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue & Kathedrale",
+            "hu": "Szobor és Székesegyház",
+            "ro": "Statuia & Catedrala",
+            "en": "Statue & Cathedral"
+          },
+          "coords": [
+            24.369,
+            45.103
+          ],
+          "category": "combo",
+          "arrive_at": "11:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden historischen Wahrzeichen liegen nur wenige Gehminuten voneinander entfernt.",
+            "hu": "Ez a két történelmi nevezetesség sétatávolságra van egymástól.",
+            "ro": "Aceste două repere istorice se află la mică distanță de mers pe jos.",
+            "en": "These two historical landmarks are just a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            24.368,
+            45.102
+          ],
+          "category": "gastro",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine wohlverdiente Pause, bevor Sie zum Auto zurückkehren.",
+            "hu": "Élvezze a jól megérdemelt szünetet, mielőtt visszatér az autóhoz.",
+            "ro": "Bucurați-vă de o pauză binemeritată înainte de a vă întoarce la mașină.",
+            "en": "Enjoy a well-deserved break before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Kunst & Kultur",
+            "hu": "3. klaszter: Művészet és kultúra",
+            "ro": "Cluster 3: Artă și Cultură",
+            "en": "Cluster 3: Art & Culture"
+          },
+          "coords": [
+            24.365,
+            45.102
+          ],
+          "category": "museums",
+          "arrive_at": "15:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Kunstmuseums für Ihren letzten Kulturstopp.",
+            "hu": "Parkoljon a Művészeti Múzeum közelében az utolsó kulturális megállóhoz.",
+            "ro": "Parcați lângă Muzeul de Artă pentru ultima oprire culturală.",
+            "en": "Park near the Art Museum for your final cultural stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Anton-Pann-Gedenkhaus",
+            "hu": "Anton Pann Emlékház",
+            "ro": "Casa Memorială Anton Pann",
+            "en": "Anton Pann Memorial House"
+          },
+          "coords": [
+            24.364,
+            45.099
+          ],
+          "category": "museums",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kunstmuseum zu diesem charmanten Gedenkhaus.",
+            "hu": "Rövid séta a Művészeti Múzeumtól ehhez a bájos emlékházhoz.",
+            "ro": "O scurtă plimbare de la Muzeul de Artă la această casă memorială fermecătoare.",
+            "en": "A short walk from the Art Museum to this charming memorial house."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Capela-Hügel",
+            "hu": "Autózás a Kápolna-hegyre",
+            "ro": "Drum spre Dealul Capela",
+            "en": "Drive to Capela Hill"
+          },
+          "coords": [
+            24.375,
+            45.108
+          ],
+          "category": "natural features",
+          "arrive_at": "17:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Panoramablick auf die Stadt bei Sonnenuntergang.",
+            "hu": "Zárja a napot egy panorámás kilátással a városra naplementekor.",
+            "ro": "Încheiați ziua cu o vedere panoramică asupra orașului la apus.",
+            "en": "End your day with a panoramic view of the city at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer Autofahrt zum Dorfmuseum. Anschließend fahren Sie ins Zentrum, parken und erkunden den historischen Kern zu Fuß: Park, Statue und Kathedrale. Nach dem Mittagessen fahren Sie zu Ihrem letzten Cluster, der der Kunst gewidmet ist. Ein abendlicher Abstecher zum Capela-Hügel bietet einen perfekten Abschluss mit Panoramablick.",
+        "hu": "A nap a Falumúzeumhoz vezető autóúttal kezdődik. Ezután a központba hajt, leparkol, és gyalog fedezi fel a történelmi magot: park, szobor és székesegyház. Ebéd után az utolsó, művészetnek szentelt klaszterhez autózik. Egy esti kitérő a Kápolna-hegyre panorámás kilátással tökéletes befejezést nyújt.",
+        "ro": "Ziua începe cu o călătorie cu mașina la Muzeul Satului. Apoi, conduceți spre centru, parcați și explorați nucleul istoric pe jos: parc, statuie și catedrală. După prânz, vă îndreptați spre ultimul cluster dedicat artei. O excursie de seară pe Dealul Capela oferă o încheiere perfectă cu vederi panoramice.",
+        "en": "The day starts with a drive to the Village Museum. Then, you'll drive to the center, park your car, and explore the historic core on foot: park, statue, and cathedral. After lunch, you drive to your final cluster dedicated to art. An evening trip to Capela Hill provides a perfect conclusion with panoramic views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă Rădăuțeană",
+            "tip": "Eine cremige Hühnersuppe, eine leichtere Alternative zur traditionellen Ciorbă de burtă."
+          },
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "Ein deftiger Eintopf mit Schweinefleisch, Wurst und Mămăligă (Polenta)."
+          },
+          {
+            "name": "Papanăși",
+            "tip": "Ein Muss zum Nachtisch: frittierte Quarkknödel mit saurer Sahne und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Radóci leves (Ciorbă Rădăuțeană)",
+            "tip": "Krémes csirkeleves, a pacalleves könnyebb alternatívája."
+          },
+          {
+            "name": "Moldvai tokány (Tochitură Moldovenească)",
+            "tip": "Kiadós pörkölt sertéshússal, kolbásszal és puliszkával (mămăligă)."
+          },
+          {
+            "name": "Papanasi (Papanăși)",
+            "tip": "Kötelező desszert: sült túrófánk tejföllel és lekvárral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă Rădăuțeană",
+            "tip": "O supă cremoasă de pui, o alternativă mai ușoară la ciorba de burtă."
+          },
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "O tocană consistentă cu carne de porc, cârnați și mămăligă."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert obligatoriu: gogoși din brânză de vaci, prăjite, cu smântână și dulceață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă Rădăuțeană",
+            "tip": "A creamy chicken soup, a lighter alternative to the traditional tripe soup."
+          },
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "A hearty stew with pork, sausages, and polenta (mămăligă)."
+          },
+          {
+            "name": "Papanăși",
+            "tip": "A must-try dessert: fried cheese doughnuts with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Capela-Hügel",
+            "tip": "Ein kurzer Spaziergang für einen Panoramablick über die Stadt bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Flusses Olt",
+            "tip": "Ein ruhiger Ort für einen Spaziergang abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kreisbibliothek Antim Ivireanul",
+            "tip": "Finden Sie eine ruhige Ecke und tauchen Sie in ein Buch ein.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kápolna-hegy (Dealul Capela)",
+            "tip": "Egy rövid séta a panorámás kilátásért a városra naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Olt folyó partja",
+            "tip": "Csendes hely egy sétához a városközponttól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Antim Ivireanul Megyei Könyvtár",
+            "tip": "Keressen egy csendes sarkot, és merüljön el egy könyvben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Capela",
+            "tip": "O scurtă plimbare pentru o vedere panoramică asupra orașului la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile râului Olt",
+            "tip": "Un loc liniștit pentru o plimbare departe de agitația centrului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biblioteca Județeană Antim Ivireanul",
+            "tip": "Găsiți un colț liniștit și cufundați-vă într-o carte.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Capela Hill",
+            "tip": "A short walk for a panoramic view over the city at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Olt River",
+            "tip": "A quiet spot for a stroll away from the city center bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Antim Ivireanul County Library",
+            "tip": "Find a quiet corner and dive into a book.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und traditionellen rumänischen Käse (Brânză de burduf)."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigter Keramik und traditionellen Textilien aus der Region Oltenien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és hagyományos román sajtot (Brânză de burduf)."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és hagyományos textíliákat Oltenia régiójából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și brânză de burduf tradițională."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică lucrată manual și textile tradiționale din regiunea Olteniei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and traditional Romanian cheese (Brânză de burduf)."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for handmade pottery and traditional textiles from the Oltenia region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann schwierig sein, nutzen Sie kostenpflichtige Parkplätze.",
+          "Laden Sie eine Offline-Karte herunter, um die Navigation zu erleichtern.",
+          "Planen Sie zusätzliche Zeit für den Verkehr während der Stoßzeiten ein.",
+          "Die Cluster-Strategie spart Zeit und Nerven bei der Parkplatzsuche."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nehézkes lehet, használja a fizetős parkolókat.",
+          "Töltsön le egy offline térképet a navigáció megkönnyítéséhez.",
+          "Tervezzen plusz időt a csúcsforgalomra.",
+          "A klaszter-stratégia időt és idegeket takarít meg a parkolóhely-keresésnél."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă; folosiți parcările cu plată.",
+          "Descărcați o hartă offline pentru a facilita navigarea.",
+          "Planificați timp suplimentar pentru trafic în orele de vârf.",
+          "Strategia cluster vă economisește timp și stres la căutarea unui loc de parcare."
+        ],
+        "en": [
+          "Parking in the city center can be challenging; use paid parking lots.",
+          "Download an offline map to make navigation easier.",
+          "Plan for extra time for traffic during peak hours.",
+          "The cluster strategy saves time and stress when looking for parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum",
+            "hu": "1. klaszter: Történelmi központ",
+            "ro": "Cluster 1: Centrul Istoric",
+            "en": "Cluster 1: Historic Center"
+          },
+          "coords": [
+            24.371,
+            45.105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie am Hauptplatz, der mit vielen Buslinien gut erreichbar ist.",
+            "hu": "Kezdje a főtéren, amely számos buszjárattal könnyen megközelíthető.",
+            "ro": "Începeți din piața principală, ușor accesibilă cu multe linii de autobuz.",
+            "en": "Start at the main square, easily accessible by many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Bischofskathedrale St. Nikolaus",
+            "hu": "Szent Miklós Püspöki Székesegyház",
+            "ro": "Catedrala Episcopală Sfântul Nicolae",
+            "en": "Saint Nicholas Episcopal Cathedral"
+          },
+          "coords": [
+            24.368,
+            45.103
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom zentralen Park zu diesem spirituellen Wahrzeichen.",
+            "hu": "Rövid séta a központi parktól ehhez a spirituális nevezetességhez.",
+            "ro": "O plimbare scurtă de la parcul central la acest reper spiritual.",
+            "en": "A short walk from the central park to this spiritual landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum Casa Simian",
+            "hu": "Casa Simian Művészeti Múzeum",
+            "ro": "Muzeul de Artă Casa Simian",
+            "en": "Casa Simian Art Museum"
+          },
+          "coords": [
+            24.365,
+            45.102
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Kunstschätze der Region, die sich im selben Viertel befinden.",
+            "hu": "Fedezze fel a régió művészeti kincseit, amelyek ugyanabban a negyedben találhatók.",
+            "ro": "Descoperiți comorile de artă ale regiunii, situate în același cartier.",
+            "en": "Discover the region's art treasures, located in the same neighborhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Busfahrt",
+            "hu": "Ebéd és buszozás",
+            "ro": "Prânz și călătorie cu autobuzul",
+            "en": "Lunch and Bus Ride"
+          },
+          "coords": [
+            24.366,
+            45.101
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich vor der Busfahrt zum nächsten Besichtigungscluster.",
+            "hu": "Erősítse meg magát a következő látnivaló-klaszterhez vezető buszút előtt.",
+            "ro": "Luați o masă copioasă înainte de a lua autobuzul spre următorul cluster de vizitare.",
+            "en": "Refuel before taking the bus to the next sightseeing cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Dorfmuseum & Bibliothek",
+            "hu": "2. klaszter: Falumúzeum és Könyvtár",
+            "ro": "Cluster 2: Muzeul Satului și Biblioteca",
+            "en": "Cluster 2: Village Museum & Library"
+          },
+          "coords": [
+            24.39,
+            45.095
+          ],
+          "category": "museums",
+          "arrive_at": "14:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Dorfmuseum am Stadtrand.",
+            "hu": "Menjen busszal a város szélén található Falumúzeumba.",
+            "ro": "Luați un autobuz până la Muzeul Satului, la periferia orașului.",
+            "en": "Take a bus to the Village Museum on the outskirts of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kreisbibliothek Antim Ivireanul",
+            "hu": "Antim Ivireanul Megyei Könyvtár",
+            "ro": "Biblioteca Județeană Antim Ivireanul",
+            "en": "Antim Ivireanul County Library"
+          },
+          "coords": [
+            24.363,
+            45.1
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Besuch in diesem modernen Kulturzentrum.",
+            "hu": "Zárja a napot egy látogatással ebben a modern kulturális központban.",
+            "ro": "Încheiați ziua cu o vizită la acest centru cultural modern.",
+            "en": "End your day with a visit to this modern cultural center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um morgens das historische Zentrum zu erreichen. Erkunden Sie den Park, die Kathedrale und das Kunstmuseum zu Fuß. Nach einem Mittagessen im Zentrum bringt Sie ein Bus zum zweiten Cluster: dem weitläufigen Dorfmuseum. Ein letzter Bus bringt Sie zurück in die Nähe des Zentrums, um die moderne Bibliothek zu bewundern.",
+        "hu": "Használja a tömegközlekedést, hogy reggel elérje a történelmi központot. Fedezze fel gyalog a parkot, a székesegyházat és a művészeti múzeumot. A belvárosi ebéd után egy busz elviszi a második klaszterhez: a tágas Falumúzeumhoz. Egy utolsó busz visszaviszi a központ közelébe, hogy megcsodálhassa a modern könyvtárat.",
+        "ro": "Folosiți transportul public pentru a ajunge în centrul istoric dimineața. Explorați parcul, catedrala și muzeul de artă pe jos. După prânz în centru, un autobuz vă duce la al doilea cluster: Muzeul Satului. Un ultim autobuz vă aduce înapoi lângă centru pentru a admira biblioteca modernă.",
+        "en": "Use public transport to reach the historic center in the morning. Explore the park, cathedral, and art museum on foot. After lunch in the center, a bus takes you to the second cluster: the expansive Village Museum. A final bus ride brings you back near the center to admire the modern library."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă Rădăuțeană",
+            "tip": "Eine cremige Hühnersuppe, eine leichtere Alternative zur traditionellen Ciorbă de burtă."
+          },
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "Ein deftiger Eintopf mit Schweinefleisch, Wurst und Mămăligă (Polenta)."
+          },
+          {
+            "name": "Papanăși",
+            "tip": "Ein Muss zum Nachtisch: frittierte Quarkknödel mit saurer Sahne und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Radóci leves (Ciorbă Rădăuțeană)",
+            "tip": "Krémes csirkeleves, a pacalleves könnyebb alternatívája."
+          },
+          {
+            "name": "Moldvai tokány (Tochitură Moldovenească)",
+            "tip": "Kiadós pörkölt sertéshússal, kolbásszal és puliszkával (mămăligă)."
+          },
+          {
+            "name": "Papanasi (Papanăși)",
+            "tip": "Kötelező desszert: sült túrófánk tejföllel és lekvárral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă Rădăuțeană",
+            "tip": "O supă cremoasă de pui, o alternativă mai ușoară la ciorba de burtă."
+          },
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "O tocană consistentă cu carne de porc, cârnați și mămăligă."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert obligatoriu: gogoși din brânză de vaci, prăjite, cu smântână și dulceață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă Rădăuțeană",
+            "tip": "A creamy chicken soup, a lighter alternative to the traditional tripe soup."
+          },
+          {
+            "name": "Tochitură Moldovenească",
+            "tip": "A hearty stew with pork, sausages, and polenta (mămăligă)."
+          },
+          {
+            "name": "Papanăși",
+            "tip": "A must-try dessert: fried cheese doughnuts with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Capela-Hügel",
+            "tip": "Ein kurzer Spaziergang für einen Panoramablick über die Stadt bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Flusses Olt",
+            "tip": "Ein ruhiger Ort für einen Spaziergang abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kreisbibliothek Antim Ivireanul",
+            "tip": "Finden Sie eine ruhige Ecke und tauchen Sie in ein Buch ein.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kápolna-hegy (Dealul Capela)",
+            "tip": "Egy rövid séta a panorámás kilátásért a városra naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Olt folyó partja",
+            "tip": "Csendes hely egy sétához a városközponttól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Antim Ivireanul Megyei Könyvtár",
+            "tip": "Keressen egy csendes sarkot, és merüljön el egy könyvben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Capela",
+            "tip": "O scurtă plimbare pentru o vedere panoramică asupra orașului la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile râului Olt",
+            "tip": "Un loc liniștit pentru o plimbare departe de agitația centrului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biblioteca Județeană Antim Ivireanul",
+            "tip": "Găsiți un colț liniștit și cufundați-vă într-o carte.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Capela Hill",
+            "tip": "A short walk for a panoramic view over the city at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Olt River",
+            "tip": "A quiet spot for a stroll away from the city center bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Antim Ivireanul County Library",
+            "tip": "Find a quiet corner and dive into a book.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und traditionellen rumänischen Käse (Brânză de burduf)."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigter Keramik und traditionellen Textilien aus der Region Oltenien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és hagyományos román sajtot (Brânză de burduf)."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és hagyományos textíliákat Oltenia régiójából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și brânză de burduf tradițională."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică lucrată manual și textile tradiționale din regiunea Olteniei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and traditional Romanian cheese (Brânză de burduf)."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for handmade pottery and traditional textiles from the Oltenia region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, das ist die günstigste Option.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt.",
+          "Buslinien und Haltestellen sind auf den meisten Karten-Apps verfügbar.",
+          "Halten Sie Kleingeld für Tickets bereit, falls Sie direkt beim Fahrer kaufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ez a legolcsóbb lehetőség.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó járatot.",
+          "A buszvonalak és megállók a legtöbb térképalkalmazásban elérhetők.",
+          "Tartson magánál aprópénzt a jegyekhez, ha közvetlenül a sofőrnél vásárol."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, este cea mai economică opțiune.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima cursă.",
+          "Liniile de autobuz și stațiile sunt disponibile pe majoritatea aplicațiilor de hărți.",
+          "Păstrați mărunțiș pentru bilete dacă cumpărați direct de la șofer."
+        ],
+        "en": [
+          "Buy a one-day bus pass, it's the most economical option.",
+          "Check the bus schedule in advance, especially for the last return trip.",
+          "Bus routes and stops are available on most map applications.",
+          "Keep small change ready for tickets if you're buying directly from the driver."
+        ]
+      }
+    }
+  }
+}

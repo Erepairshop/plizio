@@ -1,0 +1,1091 @@
+{
+  "city_id": "montenegro-spuz-cities-v2",
+  "anchor": {
+    "name": "Spuž",
+    "coords": [
+      19.167,
+      42.516
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zeta-Brücke",
+            "hu": "Zeta-híd",
+            "ro": "Podul peste Zeta",
+            "en": "Zeta Bridge"
+          },
+          "coords": [
+            19.1665,
+            42.5155
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Morgenfotos des Flusses und der Festung.",
+            "hu": "Tökéletes hely a folyóról és az erődről készített reggeli fotókhoz.",
+            "ro": "Locul perfect pentru fotografii de dimineață cu râul și fortăreața.",
+            "en": "Perfect spot for morning photos of the river and the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeta-Promenade",
+            "hu": "Zeta-sétány",
+            "ro": "Promenada Zeta",
+            "en": "Zeta Promenade"
+          },
+          "coords": [
+            19.168,
+            42.517
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee in einem der Cafés am Flussufer.",
+            "hu": "Igyon meg egy kávét az egyik folyóparti kávézóban.",
+            "ro": "Savurați o cafea la una dintre cafenelele de pe malul râului.",
+            "en": "Enjoy a coffee at one of the riverside cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Geburt Mariens",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Birth of Mary"
+          },
+          "coords": [
+            19.169,
+            42.5165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die bescheidene, aber charmante Innenausstattung.",
+            "hu": "Figyelje meg a szerény, de bájos belső teret.",
+            "ro": "Observați interiorul modest, dar fermecător.",
+            "en": "Notice the modest but charming interior decoration."
+          }
+        },
+        {
+          "name": {
+            "de": "Gefallenen-Denkmal",
+            "hu": "Elesettek emlékműve",
+            "ro": "Monumentul Eroilor Căzuți",
+            "en": "Monument to the Fallen"
+          },
+          "coords": [
+            19.17,
+            42.518
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung auf die lokale Geschichte.",
+            "hu": "Egy pillanatnyi elmélkedés a helyi történelemről.",
+            "ro": "Un moment de reflecție asupra istoriei locale.",
+            "en": "A moment of reflection on the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Spuž (Glavica)",
+            "hu": "Spuž erőd (Glavica)",
+            "ro": "Cetatea Spuž (Glavica)",
+            "en": "Spuž Fortress (Glavica)"
+          },
+          "coords": [
+            19.162,
+            42.52
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die Aussicht ist die Mühe wert. Festes Schuhwerk tragen!",
+            "hu": "Meredek a kaptató, de a kilátás megéri a fáradságot. Viseljen erős cipőt!",
+            "ro": "Urcușul este abrupt, dar priveliștea merită efortul. Purtați încălțăminte rezistentă!",
+            "en": "The climb is steep, but the view is worth the effort. Wear sturdy shoes!"
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Mühle von Spuž",
+            "hu": "Régi spuži malom",
+            "ro": "Moara veche din Spuž",
+            "en": "Old Mill of Spuž"
+          },
+          "coords": [
+            19.159,
+            42.515
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein malerischer Ort, ideal zum Entspannen am Nachmittag.",
+            "hu": "Festői hely, ideális délutáni pihenésre.",
+            "ro": "Un loc pitoresc, ideal pentru relaxare după-amiaza.",
+            "en": "A picturesque spot, ideal for relaxing in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem ruhigen Spaziergang über die Zeta-Brücke, die einen herrlichen Blick auf den Fluss bietet. Am Vormittag schlendern Sie die von Cafés gesäumte Zeta-Promenade entlang und genießen die entspannte Atmosphäre der Stadt. Der Aufstieg zur Festung Spuž am Mittag belohnt Sie mit einer atemberaubenden Aussicht und einem Einblick in die Geschichte. Am Nachmittag erkunden Sie die kleineren historischen Stätten wie die Kirche und das Denkmal, bevor Sie den Tag an der malerischen Alten Mühle ausklingen lassen.",
+        "hu": "Kezdje a napot egy békés sétával a Zeta-hídon, ahonnan csodás kilátás nyílik a folyóra. A délelőttöt a kávézókkal tarkított Zeta-sétányon töltse, élvezve a város laza hangulatát. Délben másszon fel a Spuž erődhöz, ami lélegzetelállító panorámával és történelmi betekintéssel jutalmazza. Délután fedezze fel a kisebb történelmi helyszíneket, mint a templomot és az emlékművet, mielőtt a festői Régi Malomnál zárja a napot.",
+        "ro": "Începeți ziua cu o plimbare liniștită peste podul Zeta, admirând priveliștea magnifică a râului. Petreceți dimineața pe promenada Zeta, plină de cafenele, bucurându-vă de atmosfera relaxată a orașului. La prânz, urcarea la Cetatea Spuž vă va recompensa cu o panoramă uluitoare și o incursiune în istorie. După-amiaza, explorați siturile istorice mai mici, precum biserica și monumentul, înainte de a încheia ziua la pitoreasca Moară Veche.",
+        "en": "Start your day with a peaceful walk across the Zeta Bridge, offering splendid views of the river. Spend the morning strolling along the cafe-lined Zeta Promenade, soaking in the town's relaxed atmosphere. The midday climb to Spuž Fortress will reward you with breathtaking panoramic views and a glimpse into history. In the afternoon, explore the smaller historical sites like the church and monument before winding down your day at the picturesque Old Mill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kačamak",
+            "tip": "Ein herzhaftes Maismehlgericht, oft mit Käse und Kajmak serviert. Suchen Sie nach einem lokalen 'konoba'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kačamak",
+            "tip": "Kiadós kukoricadara-étel, gyakran sajttal és kajmakkal tálalva. Keressen egy helyi 'konoba'-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kačamak",
+            "tip": "Un preparat consistent din mălai, adesea servit cu brânză și caimac. Căutați o 'konoba' locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kačamak",
+            "tip": "A hearty cornmeal dish, often served with cheese and kajmak. Look for a local 'konoba'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Zeta",
+            "tip": "Finden Sie eine ruhige Bank entlang der Promenade, um dem Wasser zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gipfel der Festung",
+            "tip": "Nach dem Aufstieg ist die Stille mit der Aussicht die Belohnung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zeta-part",
+            "tip": "Keressen egy csendes padot a sétányon, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erőd csúcsa",
+            "tip": "A mászás után a csend és a kilátás a jutalom.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Zeta",
+            "tip": "Găsiți o bancă liniștită de-a lungul promenadei pentru a asculta susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vârful cetății",
+            "tip": "După urcuș, liniștea, acompaniată de priveliște, este recompensa.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Zeta",
+            "tip": "Find a quiet bench along the promenade to listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fortress Summit",
+            "tip": "After the climb, the silence accompanied by the view is your reward.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Suchen Sie nach hausgemachtem Honig aus der Region, der für seinen reichen Geschmack bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Keressen házi készítésű mézet a környékről, amely gazdag ízéről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Căutați miere de casă din regiune, cunoscută pentru aroma sa bogată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Look for homemade honey from the region, known for its rich flavor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders für den Aufstieg zur Festung.",
+          "Die besten Fotos machen Sie am Morgen oder am späten Nachmittag, wenn das Licht weicher ist."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Vigyen magával vizet, különösen az erődhöz való feljutáshoz.",
+          "A legjobb fotókat reggel vagy késő délután készítheti, amikor a fény lágyabb."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați apă cu dumneavoastră, mai ales pentru urcarea la cetate.",
+          "Cele mai bune fotografii se fac dimineața sau după-amiaza târziu, când lumina este mai blândă."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring water, especially for the climb to the fortress.",
+          "The best photos are taken in the morning or late afternoon when the light is softer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Spuž",
+            "hu": "Spuž vasútállomás",
+            "ro": "Gara Spuž",
+            "en": "Spuž Train Station"
+          },
+          "coords": [
+            19.175,
+            42.514
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt, um das industrielle Erbe der Stadt zu sehen.",
+            "hu": "A város ipari örökségének megtekintéséhez ideális kiindulópont.",
+            "ro": "Un punct de plecare pentru a vedea patrimoniul industrial al orașului.",
+            "en": "A starting point to see the town's industrial heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeta-Brücke",
+            "hu": "Zeta-híd",
+            "ro": "Podul peste Zeta",
+            "en": "Zeta Bridge"
+          },
+          "coords": [
+            19.1665,
+            42.5155
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:31",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Halten Sie für einen Moment an, um die Aussicht auf den Fluss zu genießen.",
+            "hu": "Álljon meg egy percre, és élvezze a folyóra nyíló kilátást.",
+            "ro": "Opriți-vă pentru un moment pentru a admira priveliștea râului.",
+            "en": "Stop for a moment to admire the view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeta-Promenade",
+            "hu": "Zeta-sétány",
+            "ro": "Promenada Zeta",
+            "en": "Zeta Promenade"
+          },
+          "coords": [
+            19.168,
+            42.517
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:54",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für eine kurze Pause und einen Kaffee.",
+            "hu": "Ideális egy rövid szünetre és egy kávéra.",
+            "ro": "Ideal pentru o scurtă pauză și o cafea.",
+            "en": "Ideal for a short break and a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Spuž (Glavica)",
+            "hu": "Spuž erőd (Glavica)",
+            "ro": "Cetatea Spuž (Glavica)",
+            "en": "Spuž Fortress (Glavica)"
+          },
+          "coords": [
+            19.162,
+            42.52
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad am Fuß des Hügels und gehen Sie zu Fuß weiter.",
+            "hu": "Hagyja a kerékpárt a domb alján, és gyalogoljon fel.",
+            "ro": "Lăsați bicicleta la poalele dealului și urcați pe jos.",
+            "en": "Leave your bike at the bottom of the hill and proceed on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Höhle von Spuž",
+            "hu": "Spuži-barlang",
+            "ro": "Peștera Spuž",
+            "en": "Spuž Cave"
+          },
+          "coords": [
+            19.155,
+            42.525
+          ],
+          "category": "natural features",
+          "arrive_at": "12:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein erfrischender Stopp an einem warmen Tag. Bringen Sie eine Taschenlampe mit.",
+            "hu": "Frissítő megálló egy meleg napon. Hozzon magával zseblámpát.",
+            "ro": "O oprire răcoritoare într-o zi călduroasă. Aduceți o lanternă.",
+            "en": "A refreshing stop on a warm day. Bring a flashlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Mühle von Spuž",
+            "hu": "Régi spuži malom",
+            "ro": "Moara veche din Spuž",
+            "en": "Old Mill of Spuž"
+          },
+          "coords": [
+            19.159,
+            42.515
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Zeit für ein spätes Mittagessen oder ein Picknick in malerischer Umgebung.",
+            "hu": "Ideje egy késői ebédnek vagy pikniknek a festői környezetben.",
+            "ro": "Timpul pentru un prânz târziu sau un picnic într-un cadru pitoresc.",
+            "en": "Time for a late lunch or a picnic in a picturesque setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Geburt Mariens",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Birth of Mary"
+          },
+          "coords": [
+            19.169,
+            42.5165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:23",
+          "stay_min": 52,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein friedlicher Abschluss Ihrer Radtour.",
+            "hu": "A kerékpártúra békés lezárása.",
+            "ro": "O încheiere pașnică a turului cu bicicleta.",
+            "en": "A peaceful end to your bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Bahnhof und radeln Sie entlang des Flusses, um die Zeta-Brücke und die Promenade zu erreichen. Am Vormittag führt Sie Ihre Tour hinauf zur beeindruckenden Festung Spuž, wo Sie eine längere Pause einlegen. Mittags wagen Sie sich weiter zur kühlen Spuž-Höhle, ein perfekter Ort, um der Mittagshitze zu entkommen. Der Nachmittag ist entspannter, mit einem Besuch der Alten Mühle und einem abschließenden Halt an der ruhigen Kirche, bevor Sie Ihre Tour beenden.",
+        "hu": "Induljon a vasútállomástól, és tekerjen a folyó mentén a Zeta-hídhoz és a sétányhoz. A délelőtt folyamán túrája a lenyűgöző Spuž erődhöz vezet, ahol hosszabb pihenőt tart. Délben merészkedjen tovább a hűvös Spuži-barlanghoz, amely tökéletes hely a déli hőség elől való menekülésre. A délután pihentetőbb, a Régi Malom meglátogatásával és egy utolsó megállóval a csendes templomnál, mielőtt befejezné a túrát.",
+        "ro": "Începeți de la gară și pedalați de-a lungul râului pentru a ajunge la podul Zeta și la promenadă. Dimineața, turul vă duce la impresionanta Cetate Spuž, unde veți face o pauză mai lungă. La prânz, aventurați-vă mai departe, la răcoroasa Peșteră Spuž, un loc perfect pentru a scăpa de căldura amiezii. După-amiaza este mai relaxantă, cu o vizită la Moara Veche și o oprire finală la biserica liniștită înainte de a încheia turul.",
+        "en": "Start at the train station and cycle along the river to reach the Zeta Bridge and promenade. In the morning, your tour takes you up to the impressive Spuž Fortress, where you'll take a longer break. At midday, venture further to the cool Spuž Cave, a perfect spot to escape the midday heat. The afternoon is more relaxed, with a visit to the Old Mill and a final stop at the quiet church before ending your tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Frischer Fisch aus dem Fluss Zeta, einfach gegrillt mit Knoblauch und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett hal",
+            "tip": "Friss hal a Zeta folyóból, egyszerűen grillezve fokhagymával és olívaolajjal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește la grătar",
+            "tip": "Pește proaspăt din râul Zeta, preparat simplu la grătar cu usturoi și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Fish",
+            "tip": "Fresh fish from the Zeta river, simply grilled with garlic and olive oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spuž-Höhle",
+            "tip": "Die kühle, stille Atmosphäre im Inneren ist eine willkommene Abwechslung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Uferweg",
+            "tip": "Ein ruhiger Abschnitt des Weges abseits des Stadtzentrums.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spuži-barlang",
+            "tip": "A hűvös, csendes belső légkör üdítő változatosságot nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parti ösvény",
+            "tip": "Az ösvény egy csendes szakasza a városközponttól távolabb.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peștera Spuž",
+            "tip": "Atmosfera răcoroasă și liniștită din interior este o pauză binevenită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Potecă de pe mal",
+            "tip": "O secțiune liniștită a potecii, departe de centrul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spuž Cave",
+            "tip": "The cool, quiet atmosphere inside is a welcome break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Riverbank path",
+            "tip": "A quiet section of the path away from the town center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Käse",
+            "tip": "Fragen Sie nach 'Njeguški sir' oder anderen lokalen Käsesorten auf kleinen Märkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajt",
+            "tip": "Kérdezzen a 'Njeguški sir'-ről vagy más helyi sajtokról a kis piacokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză locală",
+            "tip": "Întrebați de 'Njeguški sir' sau alte tipuri de brânzeturi locale în piețele mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese",
+            "tip": "Ask for 'Njeguški sir' or other local cheeses at small markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie genügend Wasser und einige Snacks für unterwegs mit."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Sisak viselése erősen ajánlott.",
+          "Vigyen magával elegendő vizet és némi harapnivalót az útra."
+        ],
+        "ro": [
+          "Verificați bicicleta înainte de a porni.",
+          "Casca este puternic recomandată.",
+          "Luați suficientă apă și câteva gustări pentru drum."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "A helmet is strongly recommended.",
+          "Take plenty of water and some snacks for the ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 17.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Spuž Zentrum",
+            "hu": "Spuž központ klaszter",
+            "ro": "Cluster Centru Spuž",
+            "en": "Spuž Center Cluster"
+          },
+          "coords": [
+            19.167,
+            42.5165
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Zeta-Brücke und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon a Zeta-híd közelében, és fedezze fel a központot gyalog.",
+            "ro": "Parcați lângă Podul Zeta și explorați centrul pe jos.",
+            "en": "Park near the Zeta Bridge and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Geburt Mariens",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Birth of Mary"
+          },
+          "coords": [
+            19.169,
+            42.5165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Brücke aus.",
+            "hu": "Rövid séta a hídtól.",
+            "ro": "O scurtă plimbare de la pod.",
+            "en": "A short walk from the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeta-Promenade",
+            "hu": "Zeta-sétány",
+            "ro": "Promenada Zeta",
+            "en": "Zeta Promenade"
+          },
+          "coords": [
+            19.168,
+            42.517
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zurück zum Fluss für eine Kaffeepause.",
+            "hu": "Vissza a folyóhoz egy kávészünetre.",
+            "ro": "Înapoi la râu pentru o pauză de cafea.",
+            "en": "Back to the river for a coffee break."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Festung & Höhle",
+            "hu": "Erőd és Barlang klaszter",
+            "ro": "Cluster Cetate & Peșteră",
+            "en": "Fortress & Cave Cluster"
+          },
+          "coords": [
+            19.16,
+            42.522
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz am Fuße des Festungshügels.",
+            "hu": "Hajtson az erőddomb lábánál lévő parkolóhoz.",
+            "ro": "Conduceți până la parcarea de la poalele dealului cetății.",
+            "en": "Drive to the parking area at the base of the fortress hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Höhle von Spuž",
+            "hu": "Spuži-barlang",
+            "ro": "Peștera Spuž",
+            "en": "Spuž Cave"
+          },
+          "coords": [
+            19.155,
+            42.525
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 85,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang oder eine sehr kurze Fahrt von der Festung entfernt.",
+            "hu": "Rövid séta vagy nagyon rövid autóút az erődtől.",
+            "ro": "O plimbare scurtă sau o călătorie foarte scurtă cu mașina de la cetate.",
+            "en": "A short walk or a very short drive from the fortress."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto im Zentrum von Spuž. Parken Sie und erkunden Sie das erste Cluster zu Fuß: die Brücke, die Kirche und die Promenade. Am Vormittag steigen Sie wieder ins Auto und fahren zum zweiten Cluster, dem Gebiet um die Festung. Verbringen Sie den Mittag damit, die Festung zu erklimmen und die Aussicht zu genießen. Am Nachmittag machen Sie einen kurzen Spaziergang zur kühlen Spuž-Höhle, bevor Sie ins Auto steigen und den Tag mit einer entspannten Fahrt durch die Landschaft beenden.",
+        "hu": "Kezdje a napot autóval Spuž központjában. Parkoljon le, és fedezze fel gyalog az első klasztert: a hidat, a templomot és a sétányt. Délelőtt szálljon vissza az autóba, és vezessen a második klaszterhez, az erőd környékére. Töltse a déli órákat az erőd megmászásával és a kilátás élvezetével. Délután tegyen egy rövid sétát a hűvös Spuži-barlanghoz, mielőtt autóba ül, és egy pihentető vidéki autózással zárja a napot.",
+        "ro": "Începeți ziua cu mașina în centrul orașului Spuž. Parcați și explorați primul cluster pe jos: podul, biserica și promenada. Dimineața, urcați-vă din nou în mașină și conduceți spre al doilea cluster, zona din jurul cetății. Petreceți prânzul urcând la cetate și bucurându-vă de priveliște. După-amiaza, faceți o scurtă plimbare până la răcoroasa Peșteră Spuž înainte de a vă urca în mașină și de a încheia ziua cu o plimbare relaxantă prin peisajul rural.",
+        "en": "Start your day by car in the center of Spuž. Park and explore the first cluster on foot: the bridge, the church, and the promenade. In the morning, get back in the car and drive to the second cluster, the area around the fortress. Spend the midday climbing the fortress and enjoying the views. In the afternoon, take a short walk to the cool Spuž Cave before getting in the car and ending the day with a relaxing drive through the countryside."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Fluss",
+            "tip": "Suchen Sie ein Restaurant mit Terrasse am Zeta-Fluss für ein Mittagessen mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti étterem",
+            "tip": "Keressen egy teraszos éttermet a Zeta folyó partján egy kilátással egybekötött ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe malul râului",
+            "tip": "Căutați un restaurant cu terasă pe malul râului Zeta pentru un prânz cu priveliște."
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside Restaurant",
+            "tip": "Find a restaurant with a terrace on the Zeta river for lunch with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt bei der Festung",
+            "tip": "Der beste Panoramablick über das Tal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ländliche Straßen",
+            "tip": "Genießen Sie die Ruhe auf den Straßen außerhalb der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont az erődnél",
+            "tip": "A legjobb panoráma a völgyre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vidéki utak",
+            "tip": "Élvezze a csendet a városon kívüli utakon.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere lângă cetate",
+            "tip": "Cea mai bună vedere panoramică asupra văii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Drumuri rurale",
+            "tip": "Bucurați-vă de liniștea drumurilor din afara orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint near the fortress",
+            "tip": "The best panoramic view over the valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rural Roads",
+            "tip": "Enjoy the quiet on the roads outside the town.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rakija",
+            "tip": "Ein lokaler Obstbrand, den man oft direkt von kleinen Produzenten am Straßenrand kaufen kann."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rakija",
+            "tip": "Helyi gyümölcspárlat, amelyet gyakran közvetlenül a kistermelőktől lehet megvásárolni az út mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rachiu",
+            "tip": "O țuică locală din fructe, adesea disponibilă pentru cumpărare direct de la micii producători de pe marginea drumului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rakija",
+            "tip": "A local fruit brandy, often available to buy directly from small producers on the roadside."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkmöglichkeiten können im Zentrum begrenzt sein.",
+          "Planen Sie Ihre Route im Voraus, da die Beschilderung manchmal unklar sein kann.",
+          "Haben Sie etwas Bargeld für kleine Einkäufe oder Parkgebühren dabei."
+        ],
+        "hu": [
+          "A parkolási lehetőségek korlátozottak lehetnek a központban.",
+          "Tervezze meg előre az útvonalat, mivel a jelzések néha nem egyértelműek.",
+          "Legyen Önnél némi készpénz a kisebb vásárlásokhoz vagy parkolási díjakhoz."
+        ],
+        "ro": [
+          "Parcarea poate fi limitată în centru.",
+          "Planificați-vă traseul în avans, deoarece semnalizarea poate fi uneori neclară.",
+          "Aveți la dumneavoastră numerar pentru cumpărături mici sau taxe de parcare."
+        ],
+        "en": [
+          "Parking can be limited in the center.",
+          "Plan your route in advance, as signage can sometimes be unclear.",
+          "Have some cash on hand for small purchases or parking fees."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Bahnhof",
+            "hu": "Vasútállomás klaszter",
+            "ro": "Cluster Gară",
+            "en": "Train Station Cluster"
+          },
+          "coords": [
+            19.175,
+            42.514
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Bahnhof und erkunden Sie die unmittelbare Umgebung.",
+            "hu": "Kezdje a vasútállomásnál, és fedezze fel a közvetlen környéket.",
+            "ro": "Începeți de la gară și explorați zona imediat înconjurătoare.",
+            "en": "Start at the train station and explore the immediate area."
+          }
+        },
+        {
+          "name": {
+            "de": "Gefallenen-Denkmal",
+            "hu": "Elesettek emlékműve",
+            "ro": "Monumentul Eroilor Căzuți",
+            "en": "Monument to the Fallen"
+          },
+          "coords": [
+            19.17,
+            42.518
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof in Richtung Stadtzentrum.",
+            "hu": "Rövid séta a vasútállomástól a városközpont felé.",
+            "ro": "O scurtă plimbare de la gară spre centrul orașului.",
+            "en": "A short walk from the station towards the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Flussufer",
+            "hu": "Folyóparti klaszter",
+            "ro": "Cluster Malul Râului",
+            "en": "Riverbank Cluster"
+          },
+          "coords": [
+            19.1665,
+            42.5155
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Flussufer und zur Zeta-Brücke.",
+            "hu": "Menjen helyi busszal a folyóparthoz és a Zeta-hídhoz.",
+            "ro": "Luați un autobuz local până la malul râului și podul Zeta.",
+            "en": "Take a local bus to the riverbank and the Zeta Bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeta-Promenade",
+            "hu": "Zeta-sétány",
+            "ro": "Promenada Zeta",
+            "en": "Zeta Promenade"
+          },
+          "coords": [
+            19.168,
+            42.517
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich hier und genießen Sie ein frühes Mittagessen.",
+            "hu": "Pihenjen itt, és fogyasszon el egy korai ebédet.",
+            "ro": "Relaxați-vă aici și bucurați-vă de un prânz timpuriu.",
+            "en": "Relax here and enjoy an early lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Spuž (Glavica)",
+            "hu": "Spuž erőd (Glavica)",
+            "ro": "Cetatea Spuž (Glavica)",
+            "en": "Spuž Fortress (Glavica)"
+          },
+          "coords": [
+            19.162,
+            42.52
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:39",
+          "stay_min": 191,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hauptaufstieg des Tages, nehmen Sie sich Zeit dafür.",
+            "hu": "A nap fő emelkedője, szánjon rá időt.",
+            "ro": "Principala urcare a zilei, acordați-i timp.",
+            "en": "The main climb of the day, take your time for it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Nahverkehr, um Spuž effizient zu erkunden. Beginnen Sie am Bahnhof und spazieren Sie zum nahegelegenen Denkmal. Am Vormittag bringt Sie ein Bus ins Zentrum, wo Sie die Brücke und die Promenade erkunden und zu Mittag essen. Der gesamte Nachmittag ist dem Aufstieg zur Festung und dem Genießen der herrlichen Aussicht gewidmet. Kehren Sie am späten Nachmittag mit dem Bus vom Stadtzentrum zurück.",
+        "hu": "Használja a helyi közlekedést Spuž hatékony felfedezéséhez. Kezdje a vasútállomásnál, és sétáljon el a közeli emlékműhöz. Délelőtt egy busz beviszi a központba, ahol felfedezheti a hidat és a sétányt, és megebédelhet. Az egész délutánt az erőd megmászásának és a csodálatos kilátás élvezetének szentelheti. Késő délután busszal térjen vissza a városközpontból.",
+        "ro": "Folosiți transportul public pentru a explora eficient Spuž. Începeți de la gară și plimbați-vă până la monumentul din apropiere. Dimineața, un autobuz vă va duce în centru, unde veți explora podul și promenada și veți lua prânzul. Întreaga după-amiază este dedicată urcării la cetate și admirării priveliștii magnifice. Întoarceți-vă cu autobuzul din centrul orașului după-amiaza târziu.",
+        "en": "Use local transit to explore Spuž efficiently. Start at the train station and walk to the nearby monument. In the morning, a bus will take you to the center, where you can explore the bridge and promenade and have lunch. The entire afternoon is dedicated to climbing the fortress and enjoying the magnificent view. Return by bus from the town center in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "Ein herzhaftes Gebäck, perfekt für ein schnelles Frühstück oder einen Snack unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Kiadós péksütemény, tökéletes egy gyors reggelihez vagy útközbeni harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "O plăcintă sărată, perfectă pentru un mic dejun rapid sau o gustare pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "A savory pastry, perfect for a quick breakfast or a snack on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festungsmauern",
+            "tip": "Finden Sie einen ruhigen Platz auf den Mauern, um die Landschaft zu betrachten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erődfalak",
+            "tip": "Keressen egy csendes helyet a falakon, és gyönyörködjön a tájban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile cetății",
+            "tip": "Găsiți un loc liniștit pe ziduri pentru a privi peisajul.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress Walls",
+            "tip": "Find a quiet spot on the walls to gaze at the landscape.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerk aus Olivenholz",
+            "tip": "Kleine handgefertigte Souvenirs sind manchmal in lokalen Geschäften zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olajfából készült kézműves termékek",
+            "tip": "Kis, kézzel készített ajándéktárgyak néha megtalálhatók a helyi üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat din lemn de măslin",
+            "tip": "Mici suveniruri lucrate manual pot fi găsite uneori în magazinele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Wood Crafts",
+            "tip": "Small handmade souvenirs can sometimes be found in local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne.",
+          "Haben Sie Kleingeld für Bustickets parat.",
+          "Die meisten Strecken im Zentrum sind leicht zu Fuß zu bewältigen."
+        ],
+        "hu": [
+          "Tájékozódjon előre a buszmenetrendekről.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "A központban a legtöbb távolság könnyen megtehető gyalog."
+        ],
+        "ro": [
+          "Verificați în avans orarele autobuzelor.",
+          "Pregătiți mărunțiș pentru biletele de autobuz.",
+          "Majoritatea distanțelor din centru sunt ușor de parcurs pe jos."
+        ],
+        "en": [
+          "Check bus schedules in advance.",
+          "Have small change ready for bus tickets.",
+          "Most distances in the center are easily walkable."
+        ]
+      }
+    }
+  }
+}

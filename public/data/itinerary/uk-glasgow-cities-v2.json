@@ -1,10 +1,10 @@
 {
   "city_id": "uk-glasgow-cities-v2",
   "anchor": {
-    "name": "George Square",
+    "name": "Glasgow",
     "coords": [
-      -4.2485,
-      55.8615
+      -4.2518,
+      55.8642
     ]
   },
   "modes": {
@@ -12,308 +12,80 @@
       "mode": "walk",
       "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "17:45",
-      "total_km": 4.5,
-      "stop_count": 7,
+      "end_estimate": "16:22",
+      "total_km": 3.1,
+      "stop_count": 4,
       "stops": [
         {
           "name": {
-            "de": "George Square",
-            "hu": "George Square",
-            "ro": "Piața George",
-            "en": "George Square"
+            "de": "Universität von Glasgow",
+            "hu": "Glasgow-i Egyetem",
+            "ro": "Universitatea din Glasgow",
+            "en": "University of Glasgow"
           },
           "coords": [
-            -4.2485,
-            55.8615
+            -4.288,
+            55.872
           ],
-          "category": "square",
+          "category": "famous residences",
           "arrive_at": "09:10",
-          "stay_min": 25,
+          "stay_min": 80,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Herz der Stadt mit prachtvoller City Chambers.",
-            "hu": "A város szíve a pompás City Chambers-szel.",
-            "ro": "Inima orașului cu splendida clădire City Chambers.",
-            "en": "Heart of the city with the grand City Chambers."
+            "de": "Bestaunen Sie die neugotische Architektur, die an Hogwarts erinnert.",
+            "hu": "Csodálja meg a neogótikus építészetet, ami a Roxfortra emlékeztet.",
+            "ro": "Admirați arhitectura neogotică ce amintește de Hogwarts.",
+            "en": "Marvel at the neo-Gothic architecture reminiscent of Hogwarts."
           }
         },
         {
           "name": {
-            "de": "Glasgow Cathedral",
-            "hu": "Glasgow-i székesegyház",
-            "ro": "Catedrala din Glasgow",
-            "en": "Glasgow Cathedral"
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădinile Botanice",
+            "en": "Botanical Gardens"
           },
           "coords": [
-            -4.2345,
-            55.8625
+            -4.293,
+            55.878
           ],
-          "category": "religious",
-          "arrive_at": "09:55",
-          "stay_min": 45,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 1.0,
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Eine der wenigen intakten mittelalterlichen Kathedralen.",
-            "hu": "A kevés ép középkori székesegyház egyike.",
-            "ro": "Una dintre puținele catedrale medievale intacte.",
-            "en": "One of the few intact medieval cathedrals."
+            "de": "Besuchen Sie Kibble Palace, ein prächtiges viktorianisches Gewächshaus.",
+            "hu": "Látogasson el a Kibble-palotába, egy csodálatos viktoriánus üvegházba.",
+            "ro": "Vizitați Palatul Kibble, o seră magnifică din epoca victoriană.",
+            "en": "Visit Kibble Palace, a magnificent Victorian glasshouse."
           }
         },
         {
           "name": {
-            "de": "Glasgow Necropolis",
-            "hu": "Glasgow-i nekropolisz",
-            "ro": "Necropola din Glasgow",
-            "en": "Glasgow Necropolis"
+            "de": "Kelvingrove Kunstgalerie und Museum",
+            "hu": "Kelvingrove Művészeti Galéria és Múzeum",
+            "ro": "Galeria de Artă și Muzeul Kelvingrove",
+            "en": "Kelvingrove Art Gallery and Museum"
           },
           "coords": [
-            -4.2315,
-            55.8622
+            -4.291,
+            55.868
           ],
-          "category": "historical",
-          "arrive_at": "10:50",
-          "stay_min": 50,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Viktorianischer Friedhof mit tollem Stadtblick.",
-            "hu": "Viktoriánus temető remek városi kilátással.",
-            "ro": "Cimitir victorian cu o vedere superbă asupra orașului.",
-            "en": "Victorian cemetery with great city views."
-          }
-        },
-        {
-          "name": {
-            "de": "Merchant City",
-            "hu": "Merchant City",
-            "ro": "Merchant City",
-            "en": "Merchant City"
-          },
-          "coords": [
-            -4.2455,
-            55.8585
-          ],
-          "category": "historical",
-          "arrive_at": "12:00",
-          "stay_min": 90,
-          "hop_from_prev_min": 20,
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
           "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Historisches Handelsviertel mit schicken Bars.",
-            "hu": "Történelmi kereskedelmi negyed elegáns bárokkal.",
-            "ro": "Cartier istoric de comerț cu baruri elegante.",
-            "en": "Historic merchant district with chic bars."
-          }
-        },
-        {
-          "name": {
-            "de": "Gallery of Modern Art (GoMA)",
-            "hu": "Modern Művészeti Galéria",
-            "ro": "Galeria de Artă Modernă",
-            "en": "Gallery of Modern Art (GoMA)"
-          },
-          "coords": [
-            -4.2525,
-            55.8602
-          ],
-          "category": "museum",
-          "arrive_at": "14:00",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.6,
-          "tip_5lang": {
-            "de": "Die Statue davor trägt oft einen Verkehrskegel.",
-            "hu": "Az előtte álló szobron gyakran látható bója.",
-            "ro": "Statuia din față poartă adesea un con de trafic.",
-            "en": "The statue in front often wears a traffic cone."
-          }
-        },
-        {
-          "name": {
-            "de": "Buchanan Street",
-            "hu": "Buchanan Street",
-            "ro": "Buchanan Street",
-            "en": "Buchanan Street"
-          },
-          "coords": [
-            -4.2535,
-            55.8625
-          ],
-          "category": "shopping",
-          "arrive_at": "15:15",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Die 'Style Mile' für Shopping-Fans.",
-            "hu": "A 'Style Mile' a vásárlás rajongóinak.",
-            "ro": "„Style Mile” pentru fanii cumpărăturilor.",
-            "en": "The 'Style Mile' for shopping enthusiasts."
-          }
-        },
-        {
-          "name": {
-            "de": "The Lighthouse",
-            "hu": "The Lighthouse",
-            "ro": "The Lighthouse",
-            "en": "The Lighthouse"
-          },
-          "coords": [
-            -4.2555,
-            55.8595
-          ],
-          "category": "viewpoint",
-          "arrive_at": "16:30",
-          "stay_min": 45,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Mackintosh-Design und toller Ausblick vom Turm.",
-            "hu": "Mackintosh design és remek kilátás a toronyból.",
-            "ro": "Design Mackintosh și o vedere superbă din turn.",
-            "en": "Mackintosh design and great views from the tower."
-          }
-        }
-      ],
-      "narrative_4lang": {
-        "de": "Vormittags erkunden Sie die mittelalterlichen Wurzeln Glasgows an der Kathedrale und der Nekropole. Mittags genießen Sie das Flair der Merchant City. Nachmittags widmen Sie sich der modernen Kunst im GoMA und dem Shopping auf der Buchanan Street.",
-        "hu": "Délelőtt Glasgow középkori gyökereit fedezi fel a katedrálisnál és a nekropolisznál. Ebédidőben élvezze Merchant City hangulatát. Délután a modern művészeté (GoMA) és a vásárlásé (Buchanan Street) a főszerep.",
-        "ro": "Dimineața explorați rădăcinile medievale ale orașului Glasgow la catedrală și necropolă. La prânz bucurați-vă de atmosfera din Merchant City. După-amiaza este dedicată artei moderne la GoMA și cumpărăturilor pe strada Buchanan.",
-        "en": "In the morning, explore Glasgow's medieval roots at the cathedral and necropolis. At lunchtime, enjoy the flair of Merchant City. The afternoon is dedicated to modern art at GoMA and shopping on Buchanan Street."
-      },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Gandolfi Fish",
-            "tip": "Frischer Fisch in Merchant City."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Gandolfi Fish",
-            "tip": "Friss hal Merchant Cityben."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Gandolfi Fish",
-            "tip": "Pește proaspăt în Merchant City."
-          }
-        ],
-        "en": [
-          {
-            "name": "Gandolfi Fish",
-            "tip": "Fresh fish in Merchant City."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Necropolis Viewpoint",
-            "tip": "Eindrucksvolle Stille.",
-            "emoji": "🪦"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Necropolis nézőpont",
-            "tip": "Impresszív csend.",
-            "emoji": "🪦"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Punctul de belvedere Necropolis",
-            "tip": "Liniște impresionantă.",
-            "emoji": "🪦"
-          }
-        ],
-        "en": [
-          {
-            "name": "Necropolis Viewpoint",
-            "tip": "Impressive silence.",
-            "emoji": "🪦"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Princes Square",
-            "tip": "Elegantes Einkaufszentrum."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Princes Square",
-            "tip": "Elegáns bevásárlóközpont."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Princes Square",
-            "tip": "Centru comercial elegant."
-          }
-        ],
-        "en": [
-          {
-            "name": "Princes Square",
-            "tip": "Elegant shopping centre."
-          }
-        ]
-      },
-      "tips": {
-        "de": [
-          "Glasgow ist hügeliger als man denkt.",
-          "Besuchen Sie die City Chambers für eine Tour."
-        ],
-        "hu": [
-          "Glasgow dombosabb, mint gondolná.",
-          "Látogasson el a City Chambersbe egy túrára."
-        ],
-        "ro": [
-          "Glasgow este mai deluros decât credeți.",
-          "Vizitați City Chambers pentru un tur."
-        ],
-        "en": [
-          "Glasgow is hillier than you might think.",
-          "Visit the City Chambers for a tour."
-        ]
-      }
-    },
-    "bike": {
-      "mode": "bike",
-      "speed_kmh": 12,
-      "start": "09:00",
-      "end_estimate": "17:30",
-      "total_km": 14.5,
-      "stop_count": 6,
-      "stops": [
-        {
-          "name": {
-            "de": "Clyde Riverside Walkway",
-            "hu": "Clyde-parti sétány",
-            "ro": "Promenada râului Clyde",
-            "en": "Clyde Riverside Walkway"
-          },
-          "coords": [
-            -4.2635,
-            55.8565
-          ],
-          "category": "harbor",
-          "arrive_at": "09:15",
-          "stay_min": 40,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
-          "tip_5lang": {
-            "de": "Toller Weg entlang des Flusses.",
-            "hu": "Remek út a folyó mentén.",
-            "ro": "O cale minunată de-a lungul râului.",
-            "en": "Great path along the river."
+            "de": "Suchen Sie nach Dalís Christus des Heiligen Johannes vom Kreuz.",
+            "hu": "Keresse Dalí Szent János Keresztjét ábrázoló Krisztus festményét.",
+            "ro": "Căutați opera lui Dalí, Hristos al Sfântului Ioan al Crucii.",
+            "en": "Look for Dalí's 'Christ of Saint John of the Cross'."
           }
         },
         {
@@ -324,173 +96,134 @@
             "en": "Riverside Museum"
           },
           "coords": [
-            -4.3055,
-            55.8655
+            -4.307,
+            55.866
           ],
-          "category": "museum",
-          "arrive_at": "10:15",
-          "stay_min": 90,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.5,
-          "tip_5lang": {
-            "de": "Zaha Hadid Architektur und Transportgeschichte.",
-            "hu": "Zaha Hadid építészet és közlekedéstörténet.",
-            "ro": "Arhitectură Zaha Hadid și istoria transportului.",
-            "en": "Zaha Hadid architecture and transport history."
-          }
-        },
-        {
-          "name": {
-            "de": "Kelvingrove Art Gallery and Museum",
-            "hu": "Kelvingrove Múzeum",
-            "ro": "Muzeul și Galeria de Artă Kelvingrove",
-            "en": "Kelvingrove Art Gallery and Museum"
-          },
-          "coords": [
-            -4.2905,
-            55.8685
-          ],
-          "category": "museum",
-          "arrive_at": "12:15",
+          "category": "museums",
+          "arrive_at": "14:12",
           "stay_min": 100,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Die Orgelkonzerte um 13 Uhr sind toll.",
-            "hu": "A délután 1 órai orgonakoncertek remekek.",
-            "ro": "Concertele de orgă de la ora 13:00 sunt grozave.",
-            "en": "The 1 PM organ recitals are great."
-          }
-        },
-        {
-          "name": {
-            "de": "University of Glasgow",
-            "hu": "Glasgow-i Egyetem",
-            "ro": "Universitatea din Glasgow",
-            "en": "University of Glasgow"
-          },
-          "coords": [
-            -4.2885,
-            55.8715
-          ],
-          "category": "civic",
-          "arrive_at": "14:10",
-          "stay_min": 45,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Atemberaubende Kreuzgänge und Campus.",
-            "hu": "Lélegzetelállító boltívek és campus.",
-            "ro": "Cloistre și campus uluitoare.",
-            "en": "Breathtaking cloisters and campus."
-          }
-        },
-        {
-          "name": {
-            "de": "Glasgow Botanic Gardens",
-            "hu": "Glasgow-i Botanikus Kert",
-            "ro": "Grădina Botanică din Glasgow",
-            "en": "Glasgow Botanic Gardens"
-          },
-          "coords": [
-            -4.2905,
-            55.8795
-          ],
-          "category": "garden",
-          "arrive_at": "15:15",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Besuchen Sie Kibble Palace Gewächshaus.",
-            "hu": "Látogasson el a Kibble Palace üvegházba.",
-            "ro": "Vizitați sera Kibble Palace.",
-            "en": "Visit the Kibble Palace glasshouse."
-          }
-        },
-        {
-          "name": {
-            "de": "Ashton Lane",
-            "hu": "Ashton Lane",
-            "ro": "Ashton Lane",
-            "en": "Ashton Lane"
-          },
-          "coords": [
-            -4.2915,
-            55.8755
-          ],
-          "category": "gastro",
-          "arrive_at": "16:30",
-          "stay_min": 60,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Kopfsteingasse mit toller Atmosphäre.",
-            "hu": "Macskaköves utca remek hangulattal.",
-            "ro": "Stradă pietruită cu o atmosferă grozavă.",
-            "en": "Cobbled lane with a great atmosphere."
+            "de": "Entworfen von Zaha Hadid; erkunden Sie die Tall Ship am Kai.",
+            "hu": "Zaha Hadid tervezte; fedezze fel a rakparton álló magas hajót.",
+            "ro": "Proiectat de Zaha Hadid; explorați corabia înaltă de la chei.",
+            "en": "Designed by Zaha Hadid; explore the Tall Ship at the quay."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Radeln Sie entlang des Clyde zum spektakulären Riverside Museum. Danach geht es ins West End zum Kelvingrove Museum und zur prächtigen Universität. Der Tag endet gemütlich auf der Ashton Lane.",
-        "hu": "Biciklizzen a Clyde mentén a látványos Riverside Múzeumig. Ezután irány a West End a Kelvingrove Múzeummal és a pompás egyetemmel. A napot hangulatosan az Ashton Lane-en zárja.",
-        "ro": "Pedalați de-a lungul râului Clyde până la spectaculosul muzeu Riverside. Apoi mergeți în West End la muzeul Kelvingrove și la magnifica universitate. Încheiați ziua confortabil pe Ashton Lane.",
-        "en": "Cycle along the Clyde to the spectacular Riverside Museum. Then head to the West End for the Kelvingrove Museum and the grand university. End the day cozily on Ashton Lane."
+        "de": "Beginnen Sie Ihren Tag im West End mit dem akademischen Flair der Universität Glasgow. Am Vormittag schlendern Sie durch die ruhigen Botanischen Gärten. Der Nachmittag ist der Kunst und dem Design gewidmet, mit Besuchen in der Kelvingrove Gallery und dem modernen Riverside Museum. Ein Tag voller Kultur und Natur zu Fuß.",
+        "hu": "Kezdje a napot a West Enden, a Glasgow-i Egyetem akadémikus légkörében. Délelőtt sétáljon a békés Botanikus Kertben. A délután a művészeté és a dizájné, látogatással a Kelvingrove Galériában és a modern Riverside Múzeumban. Egy gyalogos nap, tele kultúrával és természettel.",
+        "ro": "Începeți ziua în West End cu atmosfera academică a Universității din Glasgow. Dimineața, plimbați-vă prin liniștitele Grădini Botanice. După-amiaza este dedicată artei și designului, cu vizite la Galeria Kelvingrove și la modernul Muzeu Riverside. O zi de cultură și natură, explorată la pas.",
+        "en": "Start your day in the West End amid the academic air of the University of Glasgow. Mid-morning, stroll through the tranquil Botanical Gardens. The afternoon is for art and design, with visits to the Kelvingrove Gallery and the modern Riverside Museum. A day of culture and nature, all explored on foot."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Ubiquitous Chip",
-            "tip": "Schottische Küche auf Ashton Lane."
+            "name": "Haggis, Neeps & Tatties",
+            "tip": "Ein schottischer Klassiker, den man in vielen Pubs im West End findet."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "Eine cremige geräucherte Schellfischsuppe, perfekt für einen kühlen Tag."
+          },
+          {
+            "name": "Irn-Bru",
+            "tip": "Probieren Sie Schottlands anderes Nationalgetränk, ein einzigartiges kohlensäurehaltiges Getränk."
           }
         ],
         "hu": [
           {
-            "name": "Ubiquitous Chip",
-            "tip": "Skót konyha az Ashton Lane-en."
+            "name": "Haggis, neeps & tatties",
+            "tip": "Skót klasszikus, a West End számos pubjában megtalálható."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "Krémes füstölt tőkehal-leves, tökéletes egy hűvös napra."
+          },
+          {
+            "name": "Irn-Bru",
+            "tip": "Kóstolja meg Skócia másik nemzeti italát, egy egyedi szénsavas üdítőt."
           }
         ],
         "ro": [
           {
-            "name": "Ubiquitous Chip",
-            "tip": "Bucătărie scoțiană pe Ashton Lane."
+            "name": "Haggis, Neeps & Tatties",
+            "tip": "Un clasic scoțian, găsit în multe pub-uri din West End."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "O supă cremoasă de eglefin afumat, perfectă pentru o zi răcoroasă."
+          },
+          {
+            "name": "Irn-Bru",
+            "tip": "Încercați cealaltă băutură națională a Scoției, o băutură carbogazoasă unică."
           }
         ],
         "en": [
           {
-            "name": "Ubiquitous Chip",
-            "tip": "Scottish cuisine on Ashton Lane."
+            "name": "Haggis, Neeps & Tatties",
+            "tip": "A Scottish classic, found in many pubs around the West End."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "A creamy smoked haddock soup, perfect for a chilly day."
+          },
+          {
+            "name": "Irn-Bru",
+            "tip": "Try Scotland's 'other' national drink, a unique carbonated soft drink."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Kelvingrove Park",
-            "tip": "Schöne Aussicht auf die Uni.",
-            "emoji": "🏰"
+            "name": "Kelvin Walkway",
+            "tip": "Ein friedlicher Weg entlang des Flusses Kelvin, der die Gärten mit dem Park verbindet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Der Kreuzgang der Universität",
+            "tip": "Ein ruhiger, fotogener Ort, der oft für Dreharbeiten genutzt wird.",
+            "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "Kelvingrove Park",
-            "tip": "Szép kilátás az egyetemre.",
-            "emoji": "🏰"
+            "name": "Kelvin sétány",
+            "tip": "Békés ösvény a Kelvin folyó mentén, összeköti a kerteket a parkkal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az egyetemi kerengő",
+            "tip": "Csendes, fotogén hely, amit gyakran használnak filmezéshez.",
+            "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Parcul Kelvingrove",
-            "tip": "O vedere frumoasă spre universitate.",
-            "emoji": "🏰"
+            "name": "Promenada Kelvin",
+            "tip": "O potecă liniștită de-a lungul râului Kelvin, legând grădinile de parc.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Clasurile Universității",
+            "tip": "Un loc liniștit și fotogenic, adesea folosit pentru filmări.",
+            "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "Kelvingrove Park",
-            "tip": "Beautiful views of the university.",
-            "emoji": "🏰"
+            "name": "Kelvin Walkway",
+            "tip": "A peaceful path along the River Kelvin, connecting the gardens and the park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The University Cloisters",
+            "tip": "A quiet, photogenic spot often used in filming.",
+            "emoji": "🧘"
           }
         ]
       },
@@ -498,344 +231,720 @@
         "de": [
           {
             "name": "Byres Road",
-            "tip": "Interessante unabhängige Läden."
+            "tip": "Das Herz des West End mit einer Mischung aus unabhängigen Geschäften und bekannten Marken."
+          },
+          {
+            "name": "Ashton Lane",
+            "tip": "Eine charmante Kopfsteinpflastergasse mit Boutiquen und Restaurants."
           }
         ],
         "hu": [
           {
             "name": "Byres Road",
-            "tip": "Érdekes független boltok."
+            "tip": "A West End szíve, független boltok és ismert márkák keverékével."
+          },
+          {
+            "name": "Ashton Lane",
+            "tip": "Bájos macskaköves sikátor butikokkal és éttermekkel."
           }
         ],
         "ro": [
           {
             "name": "Byres Road",
-            "tip": "Magazine independente interesante."
+            "tip": "Inima West End-ului, cu un amestec de magazine independente și mărci cunoscute."
+          },
+          {
+            "name": "Ashton Lane",
+            "tip": "O alee pietruită fermecătoare, cu buticuri și restaurante."
           }
         ],
         "en": [
           {
             "name": "Byres Road",
-            "tip": "Interesting independent shops."
+            "tip": "The heart of the West End, with a mix of independent shops and high-street brands."
+          },
+          {
+            "name": "Ashton Lane",
+            "tip": "A charming cobbled lane filled with boutique shops and eateries."
           }
         ]
       },
       "tips": {
         "de": [
-          "OVO Bikes sind überall verfügbar.",
-          "Achten Sie auf Fußgänger am Riverside."
+          "Tragen Sie bequeme Schuhe, da dieser Plan viel Gehen erfordert.",
+          "Das Wetter in Glasgow ist unberechenbar; packen Sie einen Regenschirm und Schichten ein.",
+          "Viele Museen in Glasgow sind kostenlos, aber es können Spenden erbeten werden.",
+          "Das West End hat viele Cafés für Pausen zwischen den Besichtigungen."
         ],
         "hu": [
-          "OVO Bikes bárhol elérhető.",
-          "Figyeljen a gyalogosokra a parton."
+          "Viseljen kényelmes cipőt, ez a terv sok sétát igényel.",
+          "Glasgow időjárása kiszámíthatatlan; csomagoljon esernyőt és réteges ruházatot.",
+          "Sok glasgow-i múzeum ingyenes, de adományokat szívesen fogadnak.",
+          "A West End tele van kávézókkal, ahol megpihenhet a látnivalók között."
         ],
         "ro": [
-          "OVO Bikes sunt disponibile peste tot.",
-          "Atenție la pietoni pe malul râului."
+          "Purtați încălțăminte confortabilă, deoarece acest plan implică mult mers pe jos.",
+          "Vremea în Glasgow este imprevizibilă; luați o umbrelă și haine în straturi.",
+          "Multe muzee din Glasgow sunt gratuite, dar donațiile sunt apreciate.",
+          "West End are o mulțime de cafenele pentru pauze între vizite."
         ],
         "en": [
-          "OVO Bikes are available everywhere.",
-          "Watch out for pedestrians on the riverside."
+          "Wear comfortable shoes as this plan involves a significant amount of walking.",
+          "Glasgow weather is famously unpredictable; pack an umbrella and layers.",
+          "Many of Glasgow's museums offer free admission, but donations are encouraged.",
+          "The West End is full of cafes for taking breaks between sights."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:38",
+      "total_km": 7.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "George Square",
+            "hu": "George tér",
+            "ro": "Piața George",
+            "en": "George Square"
+          },
+          "coords": [
+            -4.2518,
+            55.8642
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Herz der Stadt, umgeben von beeindruckender viktorianischer Architektur.",
+            "hu": "A város szíve, lenyűgöző viktoriánus építészettel körülvéve.",
+            "ro": "Inima orașului, înconjurată de o arhitectură victoriană impresionantă.",
+            "en": "The heart of the city, surrounded by impressive Victorian architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Glasgow",
+            "hu": "Glasgow-i Katedrális",
+            "ro": "Catedrala din Glasgow",
+            "en": "Glasgow Cathedral"
+          },
+          "coords": [
+            -4.2405,
+            55.8617
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 115,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Vergessen Sie nicht, die untere Krypta mit dem Grab des Heiligen Mungo zu besuchen.",
+            "hu": "Ne hagyja ki az alsó kriptát Szent Mungo sírjával.",
+            "ro": "Nu ratați cripta inferioară cu mormântul Sfântului Mungo.",
+            "en": "Don't miss the lower crypt, which holds the tomb of St. Mungo."
+          }
+        },
+        {
+          "name": {
+            "de": "People's Palace",
+            "hu": "Népek Palotája",
+            "ro": "Palatul Poporului",
+            "en": "People's Palace"
+          },
+          "coords": [
+            -4.235,
+            55.848
+          ],
+          "category": "museums",
+          "arrive_at": "11:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die soziale Geschichte Glasgows in diesem Museum im Glasgow Green.",
+            "hu": "Ismerje meg Glasgow társadalomtörténetét ebben a Glasgow Green-i múzeumban.",
+            "ro": "Aflați despre istoria socială a Glasgow-ului la acest muzeu din Glasgow Green.",
+            "en": "Learn about the social history of Glasgow in this museum set in Glasgow Green."
+          }
+        },
+        {
+          "name": {
+            "de": "Riverside Museum",
+            "hu": "Riverside Múzeum",
+            "ro": "Muzeul Riverside",
+            "en": "Riverside Museum"
+          },
+          "coords": [
+            -4.307,
+            55.866
+          ],
+          "category": "museums",
+          "arrive_at": "13:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Radweg entlang des Clyde bietet eine malerische Route zu diesem Museum.",
+            "hu": "A Clyde menti kerékpárút festői útvonalat kínál ehhez a múzeumhoz.",
+            "ro": "Pista de biciclete de-a lungul râului Clyde oferă o rută pitorească spre acest muzeu.",
+            "en": "The cycle path along the River Clyde offers a scenic route to this museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kelvingrove Kunstgalerie und Museum",
+            "hu": "Kelvingrove Művészeti Galéria és Múzeum",
+            "ro": "Galeria de Artă și Muzeul Kelvingrove",
+            "en": "Kelvingrove Art Gallery and Museum"
+          },
+          "coords": [
+            -4.291,
+            55.868
+          ],
+          "category": "museums",
+          "arrive_at": "15:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und beenden Sie den Tag mit Kunst und Geschichte.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és fejezze be a napot művészettel és történelemmel.",
+            "ro": "Asigurați-vă bicicleta și încheiați ziua cu artă și istorie.",
+            "en": "Lock up your bike securely and finish the day with art and history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour, die das historische Herz mit dem modernen Ufer verbindet. Beginnen Sie am George Square, fahren Sie zur alten Kathedrale und dann nach Süden zum People's Palace. Am Nachmittag führt eine längere Fahrt entlang des Clyde zum Riverside Museum, bevor Sie im Kelvingrove enden. Ein umfassender Überblick über die Kontraste Glasgows auf zwei Rädern.",
+        "hu": "Egy kerékpártúra, ami összeköti a történelmi szívet a modern folyóparttal. Kezdjen a George téren, tekerjen a régi katedrálishoz, majd délre a Népek Palotájához. Délután egy hosszabb út vezet a Clyde mentén a Riverside Múzeumhoz, mielőtt a Kelvingrove-ban fejezné be. Glasgow kontrasztjainak átfogó képe két keréken.",
+        "ro": "Un tur cu bicicleta care leagă inima istorică de malul modern al râului. Începeți din Piața George, pedalați spre vechea catedrală, apoi spre sud, la Palatul Poporului. După-amiaza, o plimbare mai lungă de-a lungul râului Clyde vă duce la Muzeul Riverside, înainte de a termina la Kelvingrove. O imagine cuprinzătoare a contrastelor din Glasgow pe două roți.",
+        "en": "A bike tour connecting the historic heart with the modern riverside. Start at George Square, pedal to the ancient Cathedral, then south to the People's Palace. In the afternoon, a longer ride along the Clyde takes you to the Riverside Museum before finishing at Kelvingrove. A comprehensive look at Glasgow's contrasts on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Scotch Pie",
+            "tip": "Ein herzhafter Snack, perfekt für eine schnelle Stärkung auf einer Radtour."
+          },
+          {
+            "name": "Tennent's Lager",
+            "tip": "Probieren Sie das beliebteste Lagerbier Glasgows, gebraut in der Wellpark Brewery."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Genießen Sie es am Ufer des Clyde für ein authentisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scotch pie",
+            "tip": "Kiadós harapnivaló, tökéletes egy gyors energiapótláshoz a kerékpártúra során."
+          },
+          {
+            "name": "Tennent's Lager",
+            "tip": "Kóstolja meg Glasgow legnépszerűbb láger sörét, a Wellpark sörfőzdében főzve."
+          },
+          {
+            "name": "Fish and chips",
+            "tip": "Fogyassza a Clyde partján egy autentikus élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă scoțiană",
+            "tip": "O gustare consistentă, perfectă pentru o realimentare rapidă în timpul unei plimbări cu bicicleta."
+          },
+          {
+            "name": "Berea Tennent's",
+            "tip": "Încercați cea mai populară bere lager din Glasgow, produsă la fabrica de bere Wellpark."
+          },
+          {
+            "name": "Fish and chips",
+            "tip": "Savurați-l pe malul râului Clyde pentru o experiență autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Scotch Pie",
+            "tip": "A hearty snack, perfect for a quick refuel on a bike tour."
+          },
+          {
+            "name": "Tennent's Lager",
+            "tip": "Try Glasgow's most popular lager, brewed at the Wellpark Brewery."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Enjoy it by the River Clyde for an authentic experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Glasgow Green",
+            "tip": "Machen Sie eine Pause in Schottlands ältestem öffentlichen Park, neben dem People's Palace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Clyde",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser, um die Schiffe vorbeiziehen zu sehen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glasgow Green",
+            "tip": "Pihenjen Skócia legrégebbi közparkjában, a Népek Palotája mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Clyde folyó partja",
+            "tip": "Találjon egy csendes helyet a víz mellett, és nézze a hajókat.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Glasgow Green",
+            "tip": "Luați o pauză în cel mai vechi parc public din Scoția, lângă Palatul Poporului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Clyde",
+            "tip": "Găsiți un loc liniștit lângă apă pentru a privi navele trecând.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Glasgow Green",
+            "tip": "Take a break in Scotland's oldest public park, next to the People's Palace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Clyde",
+            "tip": "Find a quiet spot by the water to watch the ships go by.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Barras Market",
+            "tip": "Ein berühmter Straßenmarkt im East End, am besten am Wochenende."
+          },
+          {
+            "name": "St. Enoch Centre",
+            "tip": "Ein großes Einkaufszentrum in der Nähe des George Square für alle Ihre Bedürfnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Barras Market",
+            "tip": "Híres utcai piac az East Enden, a legjobb hétvégén.",
+            "emoji": ""
+          },
+          {
+            "name": "St. Enoch Centre",
+            "tip": "Nagy bevásárlóközpont a George tér közelében, minden igényt kielégít.",
+            "emoji": ""
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Barras",
+            "tip": "O faimoasă piață stradală din East End, cea mai bună în weekend.",
+            "emoji": ""
+          },
+          {
+            "name": "Centrul St. Enoch",
+            "tip": "Un centru comercial mare lângă Piața George pentru toate nevoile dumneavoastră.",
+            "emoji": ""
+          }
+        ],
+        "en": [
+          {
+            "name": "The Barras Market",
+            "tip": "A famous street market in the East End, best on weekends."
+          },
+          {
+            "name": "St. Enoch Centre",
+            "tip": "A large shopping centre near George Square for all your needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck und die Bremsen vor der Abfahrt.",
+          "Nutzen Sie die Radwege, insbesondere entlang des Clyde, für eine sicherere Fahrt.",
+          "Nehmen Sie ein gutes Schloss mit, da Sie Ihr Fahrrad an mehreren Orten abstellen werden.",
+          "Achten Sie auf den Verkehr, besonders in der Innenstadt."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "Használja a kerékpárutakat, különösen a Clyde mentén, a biztonságosabb közlekedés érdekében.",
+          "Vigyen magával egy jó lakatot, mivel több helyen is le kell majd zárnia a kerékpárt.",
+          "Legyen óvatos a forgalommal, különösen a városközpontban."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor și frânele înainte de a porni.",
+          "Folosiți pistele de biciclete, în special de-a lungul râului Clyde, pentru o plimbare mai sigură.",
+          "Luați un antifurt bun, deoarece veți lăsa bicicleta în mai multe locații.",
+          "Fiți atenți la trafic, în special în centrul orașului."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before setting off.",
+          "Utilize the cycle lanes, especially along the Clyde, for a safer journey.",
+          "Bring a good lock, as you'll be leaving your bike at multiple locations.",
+          "Be mindful of traffic, particularly around the city centre."
         ]
       }
     },
     "car": {
       "mode": "car",
-      "speed_kmh": 25,
+      "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "17:15",
-      "total_km": 32.5,
-      "stop_count": 8,
+      "end_estimate": "18:50",
+      "total_km": 8.0,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Burrell Collection",
-            "hu": "Burrell-gyűjtemény",
-            "ro": "Colecția Burrell",
-            "en": "Burrell Collection"
+            "de": "People's Palace",
+            "hu": "Népek Palotája",
+            "ro": "Palatul Poporului",
+            "en": "People's Palace"
           },
           "coords": [
-            -4.3085,
-            55.8305
+            -4.235,
+            55.848
           ],
-          "category": "museum",
-          "arrive_at": "09:25",
+          "category": "museums",
+          "arrive_at": "09:10",
           "stay_min": 100,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 7.5,
-          "tip_5lang": {
-            "de": "Weltklasse-Kunst im Pollok Park.",
-            "hu": "Világszínvonalú művészet a Pollok Parkban.",
-            "ro": "Artă de clasă mondială în Parcul Pollok.",
-            "en": "World-class art in Pollok Park."
-          }
-        },
-        {
-          "name": {
-            "de": "Pollok Country Park",
-            "hu": "Pollok Park",
-            "ro": "Pollok Country Park",
-            "en": "Pollok Country Park"
-          },
-          "coords": [
-            -4.3105,
-            55.8285
-          ],
-          "category": "park",
-          "arrive_at": "11:10",
-          "stay_min": 50,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Sehen Sie die Highland Cows.",
-            "hu": "Nézze meg a skót felföldi marhákat.",
-            "ro": "Vedeți vacile din Highland.",
-            "en": "See the Highland Cows."
-          }
-        },
-        {
-          "name": {
-            "de": "Ibrox Stadium (Rangers)",
-            "hu": "Ibrox stadion",
-            "ro": "Stadionul Ibrox",
-            "en": "Ibrox Stadium (Rangers)"
-          },
-          "coords": [
-            -4.3095,
-            55.8535
-          ],
-          "category": "recreational",
-          "arrive_at": "12:15",
-          "stay_min": 45,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 3.5,
-          "tip_5lang": {
-            "de": "Traditionsreiches Stadion der Rangers.",
-            "hu": "A Rangers hagyományőrző stadionja.",
-            "ro": "Stadionul tradițional al echipei Rangers.",
-            "en": "Historic stadium of the Rangers."
-          }
-        },
-        {
-          "name": {
-            "de": "House for an Art Lover",
-            "hu": "House for an Art Lover",
-            "ro": "House for an Art Lover",
-            "en": "House for an Art Lover"
-          },
-          "coords": [
-            -4.3145,
-            55.8455
-          ],
-          "category": "museum",
-          "arrive_at": "13:20",
-          "stay_min": 60,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.2,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
           "tip_5lang": {
-            "de": "Mackintosh-Design in Bellahouston Park.",
-            "hu": "Mackintosh design a Bellahouston Parkban.",
-            "ro": "Design Mackintosh în Parcul Bellahouston.",
-            "en": "Mackintosh design in Bellahouston Park."
+            "de": "Beginnen Sie hier, da es in der Nähe Parkplätze gibt, bevor die Innenstadt überfüllt ist.",
+            "hu": "Kezdje itt, mivel a közelben van parkoló, mielőtt a városközpont zsúfolttá válna.",
+            "ro": "Începeți aici, deoarece există parcare în apropiere înainte ca centrul orașului să devină aglomerat.",
+            "en": "Start here as there is nearby parking before the city centre gets busy."
           }
         },
         {
           "name": {
-            "de": "The Tall Ship Glenlee",
-            "hu": "Glenlee vitorlás",
-            "ro": "Nava Glenlee",
-            "en": "The Tall Ship Glenlee"
+            "de": "Kathedrale von Glasgow",
+            "hu": "Glasgow-i Katedrális",
+            "ro": "Catedrala din Glasgow",
+            "en": "Glasgow Cathedral"
           },
           "coords": [
-            -4.3065,
-            55.8655
+            -4.2405,
+            55.8617
           ],
-          "category": "historical",
-          "arrive_at": "14:40",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 3.2,
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2,
+          "hop_mode": "car",
           "tip_5lang": {
-            "de": "Ein restaurierter Dreimaster am Clyde.",
-            "hu": "Restaurált háromárbocos a Clyde-on.",
-            "ro": "O navă restaurată cu trei catarge pe Clyde.",
-            "en": "A restored three-masted ship on the Clyde."
+            "de": "Parken Sie auf dem nahegelegenen Parkplatz und erkunden Sie diesen historischen Bereich zu Fuß.",
+            "hu": "Parkoljon a közeli parkolóban, és fedezze fel gyalog ezt a történelmi területet.",
+            "ro": "Parcați în parcarea din apropiere și explorați pe jos această zonă istorică.",
+            "en": "Park in the nearby car park and explore this historic area on foot."
           }
         },
         {
           "name": {
-            "de": "Titan Crane (Clydebank)",
-            "hu": "Titan daru",
-            "ro": "Macaraua Titan",
-            "en": "Titan Crane (Clydebank)"
+            "de": "Glasgow Nekropolis",
+            "hu": "Glasgow-i Nekropolisz",
+            "ro": "Necropola din Glasgow",
+            "en": "Glasgow Necropolis"
           },
           "coords": [
-            -4.4015,
-            55.8985
+            -4.237,
+            55.862
           ],
-          "category": "viewpoint",
-          "arrive_at": "16:05",
+          "category": "monuments/statues",
+          "arrive_at": "12:21",
           "stay_min": 40,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 10.5,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Industrielles Denkmal mit toller Aussicht.",
-            "hu": "Ipari műemlék remek kilátással.",
-            "ro": "Monument industrial cu o vedere superbă.",
-            "en": "Industrial monument with great views."
+            "de": "Ein kurzer Spaziergang von der Kathedrale; genießen Sie die Aussicht von diesem viktorianischen Friedhof.",
+            "hu": "Rövid séta a katedrálistól; élvezze a kilátást erről a viktoriánus temetőről.",
+            "ro": "O scurtă plimbare de la catedrală; bucurați-vă de priveliștile de pe acest cimitir victorian.",
+            "en": "A short walk from the Cathedral; enjoy the views from this Victorian cemetery."
           }
         },
         {
           "name": {
-            "de": "Loch Humphrey View",
-            "hu": "Loch Humphrey kilátás",
-            "ro": "Vedere spre Loch Humphrey",
-            "en": "Loch Humphrey View"
+            "de": "Kelvingrove Kunstgalerie und Museum",
+            "hu": "Kelvingrove Művészeti Galéria és Múzeum",
+            "ro": "Galeria de Artă și Muzeul Kelvingrove",
+            "en": "Kelvingrove Art Gallery and Museum"
           },
           "coords": [
-            -4.4445,
-            55.9325
+            -4.291,
+            55.868
           ],
-          "category": "natural",
-          "arrive_at": "17:05",
-          "stay_min": 15,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 6.5,
+          "category": "museums",
+          "arrive_at": "13:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4,
+          "hop_mode": "car",
           "tip_5lang": {
-            "de": "Ein Hauch von Highlands nahe der Stadt.",
-            "hu": "Egy kis felföldi érzés a város közelében.",
-            "ro": "O notă de Highlands aproape de oraș.",
-            "en": "A touch of the Highlands near the city."
+            "de": "Fahren Sie zum West End. Parken kann schwierig sein, also planen Sie zusätzliche Zeit ein.",
+            "hu": "Vezessen a West Endre. A parkolás nehézkes lehet, ezért tervezzen plusz időt.",
+            "ro": "Conduceți spre West End. Parcarea poate fi dificilă, așa că alocați timp suplimentar.",
+            "en": "Drive to the West End. Parking can be challenging, so allow extra time."
           }
         },
         {
           "name": {
-            "de": "Sunset at Kilpatrick Hills",
-            "hu": "Kilpatrick Hills naplemente",
-            "ro": "Apus la Kilpatrick Hills",
-            "en": "Sunset at Kilpatrick Hills"
+            "de": "Universität von Glasgow",
+            "hu": "Glasgow-i Egyetem",
+            "ro": "Universitatea din Glasgow",
+            "en": "University of Glasgow"
           },
           "coords": [
-            -4.4455,
-            55.9335
+            -4.288,
+            55.872
           ],
-          "category": "natural",
-          "arrive_at": "17:25",
-          "stay_min": 20,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.1,
+          "category": "famous residences",
+          "arrive_at": "15:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Perfekter Ort für den Sonnenuntergang.",
-            "hu": "Tökéletes hely a naplementéhez.",
-            "ro": "Locul perfect pentru apus.",
-            "en": "Perfect spot for the sunset."
+            "de": "Schlendern Sie vom Museum zum beeindruckenden Campus.",
+            "hu": "Sétáljon át a múzeumtól a lenyűgöző egyetemi kampuszra.",
+            "ro": "Plimbați-vă de la muzeu la campusul impresionant al universității.",
+            "en": "Stroll up from the museum to the impressive university campus."
+          }
+        },
+        {
+          "name": {
+            "de": "Riverside Museum",
+            "hu": "Riverside Múzeum",
+            "ro": "Muzeul Riverside",
+            "en": "Riverside Museum"
+          },
+          "coords": [
+            -4.307,
+            55.866
+          ],
+          "category": "museums",
+          "arrive_at": "17:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein längerer Spaziergang, aber er führt durch den Kelvingrove Park zum Ufer.",
+            "hu": "Hosszabb séta, de a Kelvingrove Parkon keresztül vezet a folyópartra.",
+            "ro": "O plimbare mai lungă, dar vă duce prin Parcul Kelvingrove până la malul apei.",
+            "en": "A longer walk, but it takes you through Kelvingrove Park to the riverside."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Diese Autotour bringt Sie zu den Schätzen im Pollok Park und weiter zu den industriellen Wahrzeichen am Clyde. Zum Abschluss verlassen Sie die Stadtgrenze für ein Naturerlebnis in den Kilpatrick Hills.",
-        "hu": "Ez az autós túra a Pollok Park kincseihez és a Clyde ipari jelképeihez kalauzolja. Befejezésül elhagyja a várost egy kis természetközeli élményért a Kilpatrick Hills-nél.",
-        "ro": "Acest tur cu mașina vă poartă spre comorile din Parcul Pollok și mai departe spre reperele industriale de pe râul Clyde. La final, ieșiți din oraș pentru o experiență în natură la Kilpatrick Hills.",
-        "en": "This car tour takes you to the treasures in Pollok Park and further to the industrial landmarks on the Clyde. To end the day, leave the city boundaries for a nature experience at Kilpatrick Hills."
+        "de": "Nutzen Sie Ihr Auto, um zwischen den Hauptclustern Glasgows zu wechseln. Beginnen Sie im East End, wo das Parken einfacher ist, und erkunden Sie die Kathedrale und die Nekropole. Fahren Sie am Nachmittag ins West End, parken Sie einmal und erkunden Sie die Gruppe von Museen und die Universität zu Fuß. Ein effizienter Tag, der das Gehen minimiert, aber die Besichtigungen maximiert.",
+        "hu": "Használja autóját a glasgow-i fő klaszterek közötti váltáshoz. Kezdje az East Enden, ahol könnyebb a parkolás, és fedezze fel a katedrálist és a nekropoliszt. Délután vezessen a West Endre, parkoljon le egyszer, és gyalog fedezze fel a múzeumokat és az egyetemet. Hatékony nap, amely minimalizálja a gyaloglást, de maximalizálja a látnivalókat.",
+        "ro": "Folosiți mașina pentru a vă deplasa între principalele grupuri de atracții din Glasgow. Începeți în East End, unde parcarea este mai ușoară, explorând Catedrala și Necropola. După-amiaza, conduceți spre West End, parcați o dată și explorați pe jos grupul de muzee și universitatea. O zi eficientă care minimizează mersul pe jos, dar maximizează vizitarea obiectivelor turistice.",
+        "en": "Use your car to hop between Glasgow's main clusters. Start in the East End where parking is easier, exploring the Cathedral and Necropolis area. In the afternoon, drive to the West End, park once, and explore the cluster of museums and the university on foot. An efficient day that minimizes walking but maximizes sightseeing."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Pollok Park Cafe",
-            "tip": "Essen im grünsten Park Glasgows."
+            "name": "Curry in der Gibson Street",
+            "tip": "Nach dem Museumsbesuch, bekannt für seine vielen indischen Restaurants."
+          },
+          {
+            "name": "Finnieston's Restaurants",
+            "tip": "Ein kulinarischer Hotspot zwischen West End und dem Fluss, ideal für ein Abendessen."
+          },
+          {
+            "name": "Ein 'Wee Heavy' Bier",
+            "tip": "Ein starkes schottisches Ale, um den Tag ausklingen zu lassen."
           }
         ],
         "hu": [
           {
-            "name": "Pollok Park Cafe",
-            "tip": "Étkezés Glasgow legzöldebb parkjában."
+            "name": "Curry a Gibson Streeten",
+            "tip": "A múzeumlátogatás után, híres a sok indiai étterméről."
+          },
+          {
+            "name": "Finnieston éttermei",
+            "tip": "Gasztronómiai központ a West End és a folyó között, ideális vacsorához."
+          },
+          {
+            "name": "Egy 'Wee Heavy' sör",
+            "tip": "Erős skót ale a nap lezárásaként."
           }
         ],
         "ro": [
           {
-            "name": "Pollok Park Cafe",
-            "tip": "Mâncare în cel mai verde parc din Glasgow."
+            "name": "Curry pe strada Gibson",
+            "tip": "După vizita la muzeu, renumită pentru numeroasele sale restaurante indiene."
+          },
+          {
+            "name": "Restaurantele din Finnieston",
+            "tip": "Un punct fierbinte culinar între West End și râu, ideal pentru cină."
+          },
+          {
+            "name": "O bere 'Wee Heavy'",
+            "tip": "O bere scoțiană tare pentru a încheia ziua."
           }
         ],
         "en": [
           {
-            "name": "Pollok Park Cafe",
-            "tip": "Dining in Glasgow's greenest park."
+            "name": "Curry on Gibson Street",
+            "tip": "Post-museum-hopping, it's known for its many Indian restaurants."
+          },
+          {
+            "name": "Finnieston's Restaurants",
+            "tip": "A culinary hotspot between the West End and the river, great for dinner."
+          },
+          {
+            "name": "A 'Wee Heavy' beer",
+            "tip": "A strong Scotch ale to finish the day."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Kilpatrick Hills",
-            "tip": "Natur pur zum Abschalten.",
-            "emoji": "⛰️"
+            "name": "Blick von der Nekropole",
+            "tip": "Bietet eine überraschend ruhige Panoramaaussicht auf die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kelvingrove Park",
+            "tip": "Ein großer städtischer Park, perfekt für einen Spaziergang zwischen den Sehenswürdigkeiten des West End.",
+            "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Kilpatrick Hills",
-            "tip": "Tiszta természet a kikapcsolódáshoz.",
-            "emoji": "⛰️"
+            "name": "Kilátás a Nekropoliszról",
+            "tip": "Meglepően csendes panorámát kínál a városra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kelvingrove Park",
+            "tip": "Nagy városi park, tökéletes egy sétához a West End látnivalói között.",
+            "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Kilpatrick Hills",
-            "tip": "Natură pură pentru relaxare.",
-            "emoji": "⛰️"
+            "name": "Vedere de la Necropolă",
+            "tip": "Oferă o vedere panoramică surprinzător de liniștită asupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Kelvingrove",
+            "tip": "Un parc urban mare, perfect pentru o plimbare între atracțiile din West End.",
+            "emoji": "🏞️"
           }
         ],
         "en": [
           {
-            "name": "Kilpatrick Hills",
-            "tip": "Pure nature to unwind.",
-            "emoji": "⛰️"
+            "name": "View from the Necropolis",
+            "tip": "Offers a surprisingly peaceful panoramic view of the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kelvingrove Park",
+            "tip": "A large urban park, perfect for a stroll between West End sights.",
+            "emoji": "🏞️"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Silverburn",
-            "tip": "Großes Shopping-Center im Süden."
+            "name": "Buchanan Galleries",
+            "tip": "Ein wichtiges Einkaufszentrum mit einer Parkgarage in der Innenstadt."
+          },
+          {
+            "name": "Whisky-Geschäfte",
+            "tip": "Kaufen Sie eine Flasche Scotch als Souvenir, viele Geschäfte bieten Verkostungen an."
           }
         ],
         "hu": [
           {
-            "name": "Silverburn",
-            "tip": "Hatalmas bevásárlóközpont délen."
+            "name": "Buchanan Galleries",
+            "tip": "Jelentős bevásárlóközpont parkolóházzal a belvárosban."
+          },
+          {
+            "name": "Whiskyboltok",
+            "tip": "Vásároljon egy üveg skót whiskyt szuvenírként, sok bolt kínál kóstolót."
           }
         ],
         "ro": [
           {
-            "name": "Silverburn",
-            "tip": "Centru comercial mare în sud."
+            "name": "Galeriile Buchanan",
+            "tip": "Un centru comercial important cu parcare în centrul orașului."
+          },
+          {
+            "name": "Magazine de whisky",
+            "tip": "Cumpărați o sticlă de Scotch ca suvenir, multe magazine oferă degustări."
           }
         ],
         "en": [
           {
-            "name": "Silverburn",
-            "tip": "Large shopping centre in the south."
+            "name": "Buchanan Galleries",
+            "tip": "A major shopping centre with a car park in the city centre."
+          },
+          {
+            "name": "Whisky Shops",
+            "tip": "Pick up a bottle of Scotch as a souvenir; many shops offer tastings."
           }
         ]
       },
       "tips": {
         "de": [
-          "Der Pollok Park ist weitläufig.",
-          "Der Titan Crane erfordert Voranmeldung."
+          "Das Parken in Glasgow kann teuer sein; nutzen Sie 'Park and Ride'-Optionen, wenn möglich.",
+          "Achten Sie auf Busspuren, die zu bestimmten Zeiten aktiv sind.",
+          "Laden Sie eine Park-App wie RingGo herunter, um das Bezahlen zu erleichtern.",
+          "Der Verkehr kann während der Stoßzeiten stark sein, planen Sie Ihre Fahrten außerhalb dieser Zeiten."
         ],
         "hu": [
-          "A Pollok Park kiterjedt terület.",
-          "A Titan daruhoz előzetes bejelentkezés kell."
+          "A parkolás Glasgow-ban drága lehet; ha lehetséges, használja a 'Park and Ride' lehetőségeket.",
+          "Vigyázzon a buszsávokra, amelyek bizonyos időpontokban aktívak.",
+          "Töltsön le egy parkolási alkalmazást, mint a RingGo, a könnyebb fizetés érdekében.",
+          "A forgalom csúcsidőben sűrű lehet, tervezze utazásait ezen időszakokon kívül."
         ],
         "ro": [
-          "Parcul Pollok este vast.",
-          "Macaraua Titan necesită rezervare prealabilă."
+          "Parcarea în Glasgow poate fi scumpă; utilizați opțiunile 'Park and Ride' dacă este posibil.",
+          "Fiți atenți la benzile de autobuz, care sunt active în anumite ore.",
+          "Descărcați o aplicație de parcare precum RingGo pentru a plăti mai ușor.",
+          "Traficul poate fi intens la orele de vârf, planificați-vă călătoriile în afara acestor ore."
         ],
         "en": [
-          "Pollok Park is quite extensive.",
-          "The Titan Crane requires pre-booking."
+          "Parking in Glasgow can be expensive; consider using 'Park and Ride' options if possible.",
+          "Be aware of bus lanes, which are active during certain hours.",
+          "Download a parking app like RingGo to make payment easier.",
+          "Traffic can be heavy during peak hours, so plan your driving times around them."
         ]
       }
     },
@@ -843,276 +952,335 @@
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "17:45",
-      "total_km": 11.2,
-      "stop_count": 7,
+      "end_estimate": "17:56",
+      "total_km": 5.8,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Hillhead Subway Station",
-            "hu": "Hillhead metróállomás",
-            "ro": "Stația de metrou Hillhead",
-            "en": "Hillhead Subway Station"
+            "de": "George Square",
+            "hu": "George tér",
+            "ro": "Piața George",
+            "en": "George Square"
           },
           "coords": [
-            -4.2915,
-            55.8755
+            -4.2518,
+            55.8642
           ],
-          "category": "civic",
-          "arrive_at": "09:20",
-          "stay_min": 60,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 2.5,
-          "tip_5lang": {
-            "de": "Zentrum des West End.",
-            "hu": "A West End központja.",
-            "ro": "Centrul zonei West End.",
-            "en": "Center of the West End."
-          }
-        },
-        {
-          "name": {
-            "de": "The Hunterian Museum",
-            "hu": "Hunterian Múzeum",
-            "ro": "Muzeul Hunterian",
-            "en": "The Hunterian Museum"
-          },
-          "coords": [
-            -4.2885,
-            55.8715
-          ],
-          "category": "museum",
-          "arrive_at": "10:30",
-          "stay_min": 75,
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
           "tip_5lang": {
-            "de": "Schottlands ältestes öffentliches Museum.",
-            "hu": "Skócia legrégebbi nyilvános múzeuma.",
-            "ro": "Cel mai vechi muzeu public din Scoția.",
-            "en": "Scotland's oldest public museum."
+            "de": "Beginnen Sie in der Nähe der U-Bahn-Stationen Buchanan Street und Queen Street.",
+            "hu": "Kezdje a Buchanan Street és a Queen Street metróállomások közelében.",
+            "ro": "Începeți în apropierea stațiilor de metrou Buchanan Street și Queen Street.",
+            "en": "Start near Buchanan Street and Queen Street subway stations."
           }
         },
         {
           "name": {
-            "de": "Govan Subway / Govan Stones",
-            "hu": "Govan állomás / kövek",
-            "ro": "Metrou Govan / Pietrele Govan",
-            "en": "Govan Subway / Govan Stones"
+            "de": "Kathedrale von Glasgow",
+            "hu": "Glasgow-i Katedrális",
+            "ro": "Catedrala din Glasgow",
+            "en": "Glasgow Cathedral"
           },
           "coords": [
-            -4.3125,
-            55.8645
+            -4.2405,
+            55.8617
           ],
-          "category": "historical",
-          "arrive_at": "12:05",
-          "stay_min": 45,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 2.8,
+          "category": "churches/cathedrals",
+          "arrive_at": "09:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Einzigartige Wikinger-Grabsteine.",
-            "hu": "Egyedülálló viking sírkövek.",
-            "ro": "Pietre funerare vikinge unice.",
-            "en": "Unique Viking gravestones."
+            "de": "Ein angenehmer Spaziergang vom George Square durch die Merchant City.",
+            "hu": "Kellemes séta a George tértől a Merchant City-n keresztül.",
+            "ro": "O plimbare plăcută de la Piața George prin Merchant City.",
+            "en": "A pleasant walk from George Square through the Merchant City."
           }
         },
         {
           "name": {
-            "de": "St Enoch Subway / Shopping",
-            "hu": "St Enoch metróállomás",
-            "ro": "Metrou St Enoch / Cumpărături",
-            "en": "St Enoch Subway / Shopping"
+            "de": "Glasgow Nekropolis",
+            "hu": "Glasgow-i Nekropolisz",
+            "ro": "Necropola din Glasgow",
+            "en": "Glasgow Necropolis"
           },
           "coords": [
-            -4.2545,
-            55.8565
+            -4.237,
+            55.862
           ],
-          "category": "shopping",
-          "arrive_at": "13:10",
-          "stay_min": 90,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.2,
+          "category": "monuments/statues",
+          "arrive_at": "11:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Modernes Shopping und Subway-Herz.",
-            "hu": "Modern vásárlás és a metró szíve.",
-            "ro": "Cumpărături moderne și inima metroului.",
-            "en": "Modern shopping and subway heart."
+            "de": "Direkt neben der Kathedrale, erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Közvetlenül a katedrális mellett, fedezze fel gyalog az első klasztert.",
+            "ro": "Chiar lângă catedrală, explorați primul grup de atracții pe jos.",
+            "en": "Right next to the cathedral, explore the first cluster on foot."
           }
         },
         {
           "name": {
-            "de": "People's Palace (Glasgow Green)",
-            "hu": "People's Palace",
-            "ro": "Palatul Oamenilor",
-            "en": "People's Palace (Glasgow Green)"
+            "de": "Riverside Museum",
+            "hu": "Riverside Múzeum",
+            "ro": "Muzeul Riverside",
+            "en": "Riverside Museum"
           },
           "coords": [
-            -4.2375,
-            55.8505
+            -4.307,
+            55.866
           ],
-          "category": "museum",
-          "arrive_at": "15:00",
+          "category": "museums",
+          "arrive_at": "12:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die U-Bahn von der Buchanan St zur Kelvinhall, von dort ein kurzer Spaziergang.",
+            "hu": "Menjen a metróval a Buchanan St-től a Kelvinhall-ig, onnan rövid séta.",
+            "ro": "Luați metroul de la Buchanan St la Kelvinhall, apoi o scurtă plimbare.",
+            "en": "Take the subway from Buchanan St to Kelvinhall, then a short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kelvingrove Kunstgalerie und Museum",
+            "hu": "Kelvingrove Művészeti Galéria és Múzeum",
+            "ro": "Galeria de Artă și Muzeul Kelvingrove",
+            "en": "Kelvingrove Art Gallery and Museum"
+          },
+          "coords": [
+            -4.291,
+            55.868
+          ],
+          "category": "museums",
+          "arrive_at": "14:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie durch den Kelvingrove Park, um zu diesem großartigen Museum zu gelangen.",
+            "hu": "Sétáljon át a Kelvingrove Parkon, hogy eljusson ehhez a nagyszerű múzeumhoz.",
+            "ro": "Plimbați-vă prin Parcul Kelvingrove pentru a ajunge la acest muzeu magnific.",
+            "en": "Walk through Kelvingrove Park to get to this grand museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Universität von Glasgow",
+            "hu": "Glasgow-i Egyetem",
+            "ro": "Universitatea din Glasgow",
+            "en": "University of Glasgow"
+          },
+          "coords": [
+            -4.288,
+            55.872
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:08",
           "stay_min": 80,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Museum der Stadtgeschichte im ältesten Park.",
-            "hu": "Várostörténeti múzeum a legrégebbi parkban.",
-            "ro": "Muzeul istoriei orașului în cel mai vechi parc.",
-            "en": "City history museum in the oldest park."
-          }
-        },
-        {
-          "name": {
-            "de": "Doulton Fountain",
-            "hu": "Doulton szökőkút",
-            "ro": "Fântâna Doulton",
-            "en": "Doulton Fountain"
-          },
-          "coords": [
-            -4.2385,
-            55.8502
-          ],
-          "category": "civic",
-          "arrive_at": "16:25",
-          "stay_min": 20,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.1,
-          "tip_5lang": {
-            "de": "Größter Terrakotta-Brunnen der Welt.",
-            "hu": "A világ legnagyobb terrakotta szökőkútja.",
-            "ro": "Cea mai mare fântână de teracotă din lume.",
-            "en": "Largest terracotta fountain in the world."
-          }
-        },
-        {
-          "name": {
-            "de": "West Brewery",
-            "hu": "West sörfőzde",
-            "ro": "Berăria West",
-            "en": "West Brewery"
-          },
-          "coords": [
-            -4.2365,
-            55.8515
-          ],
-          "category": "gastro",
-          "arrive_at": "17:00",
-          "stay_min": 45,
-          "hop_from_prev_min": 15,
+          "hop_from_prev_min": 12,
           "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Bier im Tempelton Building.",
-            "hu": "Sör a Templeton épületben.",
-            "ro": "Bere în clădirea Templeton.",
-            "en": "Beer in the Templeton Building."
+            "de": "Beenden Sie Ihren Tag auf dem Hügel und bewundern Sie die Aussicht und Architektur.",
+            "hu": "Fejezze be a napot a dombon, csodálva a kilátást és az építészetet.",
+            "ro": "Încheiați-vă ziua pe deal, admirând priveliștea și arhitectura.",
+            "en": "End your day up on the hill, admiring the views and architecture."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Nutzen Sie die 'Clockwork Orange' (Subway), um vom West End ins historische Govan zu gelangen. Danach geht es zum Shopping am St Enoch und zum geschichtsträchtigen People's Palace im Glasgow Green.",
-        "hu": "Használja a 'Clockwork Orange'-ot (a metrót), hogy a West Endtől a történelmi Govanig jusson. Ezután vásárlás következik a St Enoch-nál, majd a történelmi People's Palace a Glasgow Greenben.",
-        "ro": "Utilizați „Clockwork Orange” (metroul) pentru a ajunge din West End în istoricul Govan. După aceea, mergeți la cumpărături la St Enoch și la istoricul Palat al Oamenilor din Glasgow Green.",
-        "en": "Use the 'Clockwork Orange' (the subway) to get from the West End to historic Govan. Then go shopping at St Enoch and visit the historic People's Palace in Glasgow Green."
+        "de": "Kombinieren Sie Spaziergänge mit der berühmten U-Bahn von Glasgow. Erkunden Sie morgens das historische Zentrum zu Fuß. Nach dem Mittagessen bringt Sie eine kurze U-Bahn-Fahrt ins West End, wo Sie ein zweites Cluster von Weltklasse-Museen und der Universität erkunden. Dies ist der beste Weg, um die Stadt wie ein Einheimischer zu erleben, indem Sie die Effizienz des Transits mit der Freude am Entdecken zu Fuß verbinden.",
+        "hu": "Kombinálja a sétát Glasgow híres metrójával. Délelőtt fedezze fel gyalog a történelmi központot. Ebéd után egy rövid metróút viszi a West Endre, ahol egy második klasztert fedezhet fel, világszínvonalú múzeumokkal és az egyetemmel. Ez a legjobb módja annak, hogy úgy ismerje meg a várost, mint egy helyi, ötvözve a közlekedés hatékonyságát a gyalogos felfedezés örömével.",
+        "ro": "Combinați mersul pe jos cu faimosul metrou din Glasgow. Explorați centrul istoric pe jos dimineața. După prânz, o scurtă călătorie cu metroul vă duce în West End pentru un al doilea grup de muzee de clasă mondială și universitate. Acesta este cel mai bun mod de a experimenta orașul ca un localnic, amestecând eficiența transportului public cu bucuria explorării pe jos.",
+        "en": "Combine walking with Glasgow's famous subway. Explore the historic city centre on foot in the morning. After lunch, a short subway ride takes you to the West End for a second cluster of world-class museums and the university. This is the best way to experience the city like a local, mixing transit efficiency with the joy of discovery on foot."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "WEST On The Green",
-            "tip": "Deutsche Braukunst in Schottland."
+            "name": "Ein 'Piece' in einem Café",
+            "tip": "Bestellen Sie ein 'Stück' Kuchen oder Sandwich, ein lokaler Begriff."
+          },
+          {
+            "name": "Merchant City's Bistros",
+            "tip": "Perfekt für ein Mittagessen nach dem Besuch der Kathedrale."
+          },
+          {
+            "name": "Subway-Sandwich (der Witz)",
+            "tip": "Nehmen Sie nicht das Fast-Food, sondern die 'Clockwork Orange' U-Bahn!"
           }
         ],
         "hu": [
           {
-            "name": "WEST On The Green",
-            "tip": "Német sörfőzési művészet Skóciában."
+            "name": "Egy 'piece' egy kávézóban",
+            "tip": "Rendeljen egy 'szelet' süteményt vagy szendvicset, ez egy helyi kifejezés."
+          },
+          {
+            "name": "Merchant City bisztrói",
+            "tip": "Tökéletes ebédhez a katedrális látogatása után."
+          },
+          {
+            "name": "Subway szendvics (a vicc)",
+            "tip": "Ne a gyorséttermet válassza, hanem a 'Clockwork Orange' metrót!"
           }
         ],
         "ro": [
           {
-            "name": "WEST On The Green",
-            "tip": "Artă germană a berii în Scoția."
+            "name": "O 'bucată' la o cafenea",
+            "tip": "Comandați o 'bucată' de tort sau un sandviș, un termen local."
+          },
+          {
+            "name": "Bistrourile din Merchant City",
+            "tip": "Perfecte pentru prânz după vizitarea catedralei."
+          },
+          {
+            "name": "Sandviș Subway (gluma)",
+            "tip": "Nu alegeți fast-food-ul, ci metroul 'Clockwork Orange'!"
           }
         ],
         "en": [
           {
-            "name": "WEST On The Green",
-            "tip": "German brewing art in Scotland."
+            "name": "A 'piece' at a cafe",
+            "tip": "Order a 'piece' of cake or a sandwich, a local term."
+          },
+          {
+            "name": "Merchant City's Bistros",
+            "tip": "Perfect for lunch after visiting the Cathedral area."
+          },
+          {
+            "name": "Subway sandwich (the joke)",
+            "tip": "Don't get the fast food, get the 'Clockwork Orange' subway!"
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Glasgow Green",
-            "tip": "Weitläufiger Park am Fluss.",
-            "emoji": "🏞️"
+            "name": "GoMA-Bibliothek",
+            "tip": "Die Bibliothek in der Gallery of Modern Art ist ein ruhiger Ort im Stadtzentrum.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Die 'Clockwork Orange'",
+            "tip": "Die Fahrt mit der U-Bahn selbst kann eine ruhige Pause von den Straßen sein.",
+            "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "Glasgow Green",
-            "tip": "Kiterjedt park a folyó mentén.",
-            "emoji": "🏞️"
+            "name": "GoMA Könyvtár",
+            "tip": "A Modern Művészeti Galéria könyvtára csendes hely a városközpontban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A 'Clockwork Orange'",
+            "tip": "Maga a metrózás is csendes pihenést jelenthet az utcáktól.",
+            "emoji": "🍃"
           }
         ],
         "ro": [
           {
-            "name": "Glasgow Green",
-            "tip": "Parc vast lângă râu.",
-            "emoji": "🏞️"
+            "name": "Biblioteca GoMA",
+            "tip": "Biblioteca din cadrul Galeriei de Artă Modernă este un spațiu liniștit în centrul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "'Clockwork Orange'",
+            "tip": "Călătoria cu metroul în sine poate fi o pauză liniștită de la străzi.",
+            "emoji": "🍃"
           }
         ],
         "en": [
           {
-            "name": "Glasgow Green",
-            "tip": "Vast park along the river.",
-            "emoji": "🏞️"
+            "name": "GoMA Library",
+            "tip": "The library inside the Gallery of Modern Art is a quiet space in the city centre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The 'Clockwork Orange'",
+            "tip": "The subway ride itself can be a quiet break from the streets.",
+            "emoji": "🍃"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "St Enoch Centre",
-            "tip": "Großes Einkaufszentrum in der Innenstadt."
+            "name": "Buchanan Street",
+            "tip": "Bekannt als 'Style Mile', Glasgows Haupteinkaufsstraße."
+          },
+          {
+            "name": "Merchant Square Craft Market",
+            "tip": "Ein Wochenendmarkt mit lokalen Handwerkern und Designern."
           }
         ],
         "hu": [
           {
-            "name": "St Enoch Centre",
-            "tip": "Hatalmas bevásárlóközpont a belvárosban."
+            "name": "Buchanan Street",
+            "tip": "Glasgow fő bevásárlóutcája, a 'Style Mile' néven ismert."
+          },
+          {
+            "name": "Merchant Square Kézműves Piac",
+            "tip": "Hétvégi piac helyi kézművesekkel és tervezőkkel."
           }
         ],
         "ro": [
           {
-            "name": "Centrul St Enoch",
-            "tip": "Centru comercial mare în centrul orașului."
+            "name": "Strada Buchanan",
+            "tip": "Cunoscută sub numele de 'Style Mile', principala stradă comercială din Glasgow."
+          },
+          {
+            "name": "Târgul de artizanat Merchant Square",
+            "tip": "O piață de weekend cu meșteșugari și designeri locali."
           }
         ],
         "en": [
           {
-            "name": "St Enoch Centre",
-            "tip": "Large shopping centre in the city centre."
+            "name": "Buchanan Street",
+            "tip": "Known as the 'Style Mile', Glasgow's main shopping thoroughfare."
+          },
+          {
+            "name": "Merchant Square Craft Market",
+            "tip": "A weekend market featuring local artisans and designers."
           }
         ]
       },
       "tips": {
         "de": [
-          "Die Subway fährt im Kreis.",
-          "Ein Tagesticket lohnt sich."
+          "Kaufen Sie eine Tageskarte für die U-Bahn für unbegrenzte Fahrten.",
+          "Die U-Bahn ist ein einfacher Kreis, man kann sich nicht verirren.",
+          "Beachten Sie die Betriebszeiten, da die U-Bahn früher schließt als in vielen anderen Städten.",
+          "Einige Stationen haben keine Rolltreppen oder Aufzüge, seien Sie auf Treppen vorbereitet."
         ],
         "hu": [
-          "A metró körpályán közlekedik.",
-          "A napijegy megéri."
+          "Vásároljon napijegyet a metróra korlátlan utazáshoz.",
+          "A metró egy egyszerű kör, nem lehet eltévedni.",
+          "Vegye figyelembe a nyitvatartási időt, a metró korábban zár, mint sok más városban.",
+          "Néhány állomáson nincs mozgólépcső vagy lift, készüljön a lépcsőzésre."
         ],
         "ro": [
-          "Metroul circulă în cerc.",
-          "Biletul de o zi merită cumpărat."
+          "Cumpărați un bilet de o zi pentru metrou pentru călătorii nelimitate.",
+          "Metroul este un cerc simplu, nu vă puteți rătăci.",
+          "Fiți atenți la orele de funcționare, deoarece metroul se închide mai devreme decât în multe alte orașe.",
+          "Unele stații nu au scări rulante sau lifturi, fiți pregătiți pentru scări."
         ],
         "en": [
-          "The subway runs in a loop.",
-          "A day ticket is worthwhile."
+          "Buy an all-day ticket for the subway for unlimited travel.",
+          "The subway is a simple circle, you can't get lost.",
+          "Be mindful of the operating hours, as the subway closes earlier than in many other cities.",
+          "Some stations do not have escalators or elevators, so be prepared for stairs."
         ]
       }
     }

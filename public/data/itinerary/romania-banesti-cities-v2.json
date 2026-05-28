@@ -1,0 +1,1255 @@
+{
+  "city_id": "romania-banesti-cities-v2",
+  "anchor": {
+    "name": "Bănești",
+    "coords": [
+      45.1,
+      25.75
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aurel Vlaicu Monument",
+            "hu": "Aurel Vlaicu emlékmű",
+            "ro": "Monumentul Aurel Vlaicu",
+            "en": "Aurel Vlaicu Monument"
+          },
+          "coords": [
+            25.752,
+            45.101
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ehren Sie den Pionier der rumänischen Luftfahrt an diesem imposanten Denkmal.",
+            "hu": "Tisztelegjen a román repülés úttörője előtt ennél a lenyűgöző emlékműnél.",
+            "ro": "Onorați pionierul aviației române la acest monument impunător.",
+            "en": "Honor the pioneer of Romanian aviation at this imposing monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokalhistorisches Museum",
+            "hu": "Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală",
+            "en": "Local History Museum"
+          },
+          "coords": [
+            25.755,
+            45.103
+          ],
+          "category": "museums",
+          "arrive_at": "09:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie Artefakte, die die reiche Geschichte der Prahova-Region erzählen.",
+            "hu": "Fedezze fel a Prahova régió gazdag történelmét bemutató tárgyakat.",
+            "ro": "Descoperiți artefacte care povestesc istoria bogată a regiunii Prahova.",
+            "en": "Discover artifacts that narrate the rich history of the Prahova region."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Georgs-Kirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "St. George's Church"
+          },
+          "coords": [
+            25.758,
+            45.099
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle orthodoxe Architektur und die friedliche Atmosphäre.",
+            "hu": "Csodálja meg a hagyományos ortodox építészetet és a békés légkört.",
+            "ro": "Admirați arhitectura tradițională ortodoxă și atmosfera pașnică.",
+            "en": "Admire the traditional Orthodox architecture and peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Bănești-Park",
+            "hu": "Bănești Park",
+            "ro": "Parcul Bănești",
+            "en": "Bănești Park"
+          },
+          "coords": [
+            25.75,
+            45.095
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für eine Mittagspause im Grünen.",
+            "hu": "Tökéletes hely egy déli pihenőre a zöldben.",
+            "ro": "Locul perfect pentru o pauză de prânz în mijlocul naturii.",
+            "en": "The perfect spot for a midday break amidst the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Steinbrücke",
+            "hu": "Régi kőhíd",
+            "ro": "Podul vechi de piatră",
+            "en": "Old Stone Bridge"
+          },
+          "coords": [
+            25.74,
+            45.088
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ein malerischer Ort, ideal für Fotos, besonders am späten Nachmittag.",
+            "hu": "Festői hely, ideális fotózáshoz, különösen késő délután.",
+            "ro": "Un loc pitoresc, ideal pentru fotografii, mai ales după-amiaza târziu.",
+            "en": "A picturesque spot, ideal for photos, especially in the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Prahova-Aussichtspunkt",
+            "hu": "Prahova-kilátó",
+            "ro": "Punct de belvedere Prahova",
+            "en": "Prahova Viewpoint"
+          },
+          "coords": [
+            25.735,
+            45.085
+          ],
+          "category": "natural features",
+          "arrive_at": "14:51",
+          "stay_min": 55,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das Tal und die umliegenden Hügel.",
+            "hu": "Élvezze a völgyre és a környező dombokra nyíló panorámát.",
+            "ro": "Bucurați-vă de vederea panoramică asupra văii și a dealurilor înconjurătoare.",
+            "en": "Enjoy the panoramic view of the valley and the surrounding hills."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Bănești beginnt mit einer Hommage an die Luftfahrtgeschichte am Aurel-Vlaicu-Denkmal. Am Vormittag tauchen Sie im Heimatmuseum in die lokale Kultur ein, gefolgt von einem Moment der Besinnung in der St.-Georgs-Kirche. Der Nachmittag ist der Entspannung im Park und dem Genuss der Natur gewidmet, mit einem Spaziergang zur alten Steinbrücke. Der Tag endet mit einem atemberaubenden Blick vom Prahova-Aussichtspunkt, der die Schönheit der Region einfängt.",
+        "hu": "A nap Băneștiben a repüléstörténeti tisztelgéssel kezdődik az Aurel Vlaicu emlékműnél. A délelőtt folyamán a helytörténeti múzeumban merül el a helyi kultúrában, majd a Szent György-templomban tart egy csendes elmélkedést. A délután a parkban való pihenésről és a természet élvezetéről szól, egy sétával a régi kőhídhoz. A napot a Prahova-kilátó lélegzetelállító panorámája zárja, megörökítve a régió szépségét.",
+        "ro": "Ziua dvs. în Bănești începe cu un omagiu adus istoriei aviației la Monumentul Aurel Vlaicu. Dimineața vă scufundați în cultura locală la muzeul de istorie, urmat de un moment de reculegere la Biserica Sfântul Gheorghe. După-amiaza este dedicată relaxării în parc și bucuriei naturii, cu o plimbare până la vechiul pod de piatră. Ziua se încheie cu o priveliște uluitoare de la punctul de belvedere Prahova, capturând frumusețea regiunii.",
+        "en": "Your day in Bănești begins with a tribute to aviation history at the Aurel Vlaicu Monument. The morning is for immersing yourself in local culture at the history museum, followed by a moment of reflection at St. George's Church. The afternoon is dedicated to relaxing in the park and enjoying nature, with a walk to the old stone bridge. The day concludes with a breathtaking view from the Prahova viewpoint, capturing the beauty of the region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Eine traditionelle Kuttelsuppe, ein Muss für Abenteuerlustige."
+          },
+          {
+            "name": "Mici mit Senf",
+            "tip": "Gegrillte Hackfleischröllchen, ein rumänischer Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csorba de burtă",
+            "tip": "Hagyományos pacalleves, kötelező a kalandvágyóknak."
+          },
+          {
+            "name": "Mics mustárral",
+            "tip": "Grillezett darált hús tekercs, egy román klasszikus."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "O supă tradițională, obligatorie pentru cei aventuroși."
+          },
+          {
+            "name": "Mici cu muștar",
+            "tip": "Rulouri de carne tocată la grătar, un clasic românesc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "A traditional tripe soup, a must-try for the adventurous."
+          },
+          {
+            "name": "Mici with mustard",
+            "tip": "Grilled minced meat rolls, a Romanian classic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Prahova-Flusses",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer, um dem Wasser zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănești-Park",
+            "tip": "Eine ruhige Bank unter einem alten Baum bietet eine friedliche Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prahova folyó partja",
+            "tip": "Keressen egy csendes helyet a folyóparton, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănești Park",
+            "tip": "Egy csendes pad egy öreg fa alatt békés pihenést kínál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Prahova",
+            "tip": "Găsiți un loc liniștit pe malul râului pentru a asculta apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Bănești",
+            "tip": "O bancă liniștită sub un copac bătrân oferă o pauză pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Prahova River",
+            "tip": "Find a quiet spot on the riverbank to listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănești Park",
+            "tip": "A quiet bench under an old tree offers a peaceful break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten wie Käse, Honig und handgefertigten Waren."
+          },
+          {
+            "name": "Handwerksladen",
+            "tip": "Kaufen Sie traditionelle rumänische Töpferwaren oder bestickte Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket, például sajtot, mézet és kézműves termékeket."
+          },
+          {
+            "name": "Kézműves bolt",
+            "tip": "Vásároljon hagyományos román kerámiát vagy hímzett textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale precum brânză, miere și produse artizanale."
+          },
+          {
+            "name": "Magazin de artizanat",
+            "tip": "Cumpărați ceramică tradițională românească sau textile brodate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local products like cheese, honey, and handcrafted goods."
+          },
+          {
+            "name": "Craft Shop",
+            "tip": "Purchase traditional Romanian pottery or embroidered textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders an warmen Tagen.",
+          "Respektieren Sie die Ruhe in der Kirche.",
+          "Einige Wege können uneben sein, seien Sie also vorsichtig."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Vigyen magával vizet, különösen meleg napokon.",
+          "Tartsa tiszteletben a csendet a templomban.",
+          "Néhány ösvény egyenetlen lehet, legyen óvatos."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați apă cu dvs., mai ales în zilele călduroase.",
+          "Respectați liniștea în biserică.",
+          "Unele poteci pot fi denivelate, așa că fiți atenți."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Bring water with you, especially on warm days.",
+          "Respect the silence in the church.",
+          "Some paths can be uneven, so be careful."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bănești-Park",
+            "hu": "Bănești Park",
+            "ro": "Parcul Bănești",
+            "en": "Bănești Park"
+          },
+          "coords": [
+            25.75,
+            45.095
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer leichten Radtour durch den zentralen Park.",
+            "hu": "Kezdje a napot egy könnyű biciklizéssel a központi parkban.",
+            "ro": "Începeți ziua cu o plimbare ușoară cu bicicleta prin parcul central.",
+            "en": "Start the day with a light bike ride through the central park."
+          }
+        },
+        {
+          "name": {
+            "de": "Aurel Vlaicu Monument",
+            "hu": "Aurel Vlaicu emlékmű",
+            "ro": "Monumentul Aurel Vlaicu",
+            "en": "Aurel Vlaicu Monument"
+          },
+          "coords": [
+            25.752,
+            45.101
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:39",
+          "stay_min": 20,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine kurze Radtour zum Denkmal des berühmten Fliegers.",
+            "hu": "Egy rövid biciklitúra a híres pilóta emlékművéhez.",
+            "ro": "O scurtă plimbare cu bicicleta până la monumentul faimosului aviator.",
+            "en": "A short bike ride to the monument of the famous aviator."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Georgs-Kirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "St. George's Church"
+          },
+          "coords": [
+            25.758,
+            45.099
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und nehmen Sie sich einen Moment Zeit für die spirituelle Atmosphäre.",
+            "hu": "Parkolja le a biciklit, és szánjon egy percet a spirituális légkörre.",
+            "ro": "Parcați bicicleta și acordați-vă un moment pentru atmosfera spirituală.",
+            "en": "Park your bike and take a moment for the spiritual atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmahnmal",
+            "hu": "Hősök emlékműve",
+            "ro": "Monumentul Eroilor",
+            "en": "Heroes' Monument"
+          },
+          "coords": [
+            25.765,
+            45.097
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein Denkmal zum Gedenken an die lokalen Helden.",
+            "hu": "Emlékmű a helyi hősök tiszteletére.",
+            "ro": "Un monument dedicat memoriei eroilor locali.",
+            "en": "A monument in memory of the local heroes."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Steinbrücke",
+            "hu": "Régi kőhíd",
+            "ro": "Podul vechi de piatră",
+            "en": "Old Stone Bridge"
+          },
+          "coords": [
+            25.74,
+            45.088
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:26",
+          "stay_min": 30,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour führt Sie zu dieser historischen Brücke.",
+            "hu": "Egy kellemes biciklitúra vezet ehhez a történelmi hídhoz.",
+            "ro": "O plimbare plăcută cu bicicleta vă duce la acest pod istoric.",
+            "en": "A pleasant bike ride takes you to this historic bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Prahova-Aussichtspunkt",
+            "hu": "Prahova-kilátó",
+            "ro": "Punct de belvedere Prahova",
+            "en": "Prahova Viewpoint"
+          },
+          "coords": [
+            25.735,
+            45.085
+          ],
+          "category": "natural features",
+          "arrive_at": "12:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die Aussicht. Ein idealer Ort für ein Picknick.",
+            "hu": "Megéri feltekerni a kilátásért. Ideális hely egy piknikhez.",
+            "ro": "Urcarea merită pentru priveliște. Un loc ideal pentru un picnic.",
+            "en": "The climb is worth it for the view. An ideal spot for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Bănești",
+            "hu": "Bănești Kultúrház",
+            "ro": "Casa de Cultură Bănești",
+            "en": "Bănești Cultural House"
+          },
+          "coords": [
+            25.748,
+            45.105
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:18",
+          "stay_min": 57,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob während Ihres Besuchs lokale Veranstaltungen oder Ausstellungen stattfinden.",
+            "hu": "Ellenőrizze, hogy vannak-e helyi események vagy kiállítások a látogatása során.",
+            "ro": "Verificați dacă au loc evenimente locale sau expoziții în timpul vizitei dvs.",
+            "en": "Check if there are any local events or exhibitions during your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden Sie Bănești, beginnend im zentralen Park. Die Route führt Sie zu historischen Monumenten und spirituellen Orten. Am Mittag genießen Sie die Natur an der alten Brücke und dem Prahova-Aussichtspunkt, perfekt für eine Pause. Der Nachmittag ist der lokalen Kultur gewidmet, bevor Sie Ihre Tour beenden. Es ist eine großartige Möglichkeit, die Landschaft und die Sehenswürdigkeiten in Ihrem eigenen Tempo zu erleben.",
+        "hu": "Két keréken fedezi fel Băneștit, a központi parkból indulva. Az útvonal történelmi emlékművekhez és spirituális helyekhez vezet. Délben a régi hídnál és a Prahova-kilátónál élvezheti a természetet, ami tökéletes egy pihenőre. A délután a helyi kultúrának van szentelve, mielőtt befejezi a túrát. Ez egy nagyszerű módja annak, hogy a saját tempójában élvezze a tájat és a látnivalókat.",
+        "ro": "Explorați Băneștiul pe două roți, pornind din parcul central. Traseul vă duce la monumente istorice și locuri spirituale. La prânz, vă bucurați de natură la podul vechi și la punctul de belvedere Prahova, perfect pentru o pauză. După-amiaza este dedicată culturii locale înainte de a încheia turul. Este o modalitate excelentă de a experimenta peisajul și atracțiile în ritmul propriu.",
+        "en": "You'll explore Bănești on two wheels, starting from the central park. The route takes you to historical monuments and spiritual places. At noon, you enjoy nature at the old bridge and the Prahova viewpoint, perfect for a break. The afternoon is dedicated to local culture before finishing your tour. It's a great way to experience the landscape and attractions at your own pace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Ein herzhafter Kuchen mit Käse gefüllt, perfekt für einen Energieschub."
+          },
+          {
+            "name": "Socată",
+            "tip": "Ein erfrischendes Holunderblütengetränk, ideal nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Sajttal töltött sós pite, tökéletes energiaforrás."
+          },
+          {
+            "name": "Socată",
+            "tip": "Frissítő bodzavirágszörp, ideális egy biciklitúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "O plăcintă sărată umplută cu brânză, perfectă pentru un plus de energie."
+          },
+          {
+            "name": "Socată",
+            "tip": "O băutură răcoritoare din flori de soc, ideală după o plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "A savory pie filled with cheese, perfect for an energy boost."
+          },
+          {
+            "name": "Socată",
+            "tip": "A refreshing elderflower drink, ideal after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prahova-Aussichtspunkt",
+            "tip": "Nach dem Aufstieg werden Sie mit Stille und einer weiten Aussicht belohnt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Weg entlang des Flusses",
+            "tip": "Eine ruhige Radtour abseits der Hauptstraßen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prahova-kilátó",
+            "tip": "A hegymenet után csend és tágas kilátás a jutalom.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Folyó menti ösvény",
+            "tip": "Egy csendes biciklizés a főutaktól távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Prahova",
+            "tip": "După urcare, veți fi răsplătit cu liniște și o priveliște vastă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Potecă de-a lungul râului",
+            "tip": "O plimbare liniștită cu bicicleta, departe de drumurile principale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prahova Viewpoint",
+            "tip": "After the climb, you are rewarded with silence and a wide view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Path along the river",
+            "tip": "A quiet bike ride away from the main roads.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen",
+            "tip": "Kaufen Sie frisches Obst und Gemüse direkt vom Erzeuger."
+          },
+          {
+            "name": "Souvenirstand",
+            "tip": "Finden Sie kleine Andenken an Ihre Radtour durch Bănești."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői bolt",
+            "tip": "Vásároljon friss gyümölcsöt és zöldséget közvetlenül a termelőtől."
+          },
+          {
+            "name": "Ajándékbolt",
+            "tip": "Találjon apró emléktárgyakat a bănești-i biciklitúrájáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin agricol",
+            "tip": "Cumpărați fructe și legume proaspete direct de la producători."
+          },
+          {
+            "name": "Stand de suveniruri",
+            "tip": "Găsiți mici amintiri din turul dvs. cu bicicleta prin Bănești."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shop",
+            "tip": "Buy fresh fruits and vegetables directly from the producer."
+          },
+          {
+            "name": "Souvenir Stand",
+            "tip": "Find small mementos of your bike tour through Bănești."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Tragen Sie einen Helm für Ihre Sicherheit.",
+          "Einige Wege könnten steil sein, seien Sie auf Anstiege vorbereitet.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen zu sichern."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Viseljen sisakot a biztonsága érdekében.",
+          "Néhány út meredek lehet, készüljön fel emelkedőkre.",
+          "Vigyen magával lakatot, hogy lezárja a biciklit a megállóknál."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Purtați cască pentru siguranța dvs.",
+          "Unele drumuri pot fi abrupte, fiți pregătiți pentru urcări.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri."
+        ],
+        "en": [
+          "Check your bike before you leave.",
+          "Wear a helmet for your safety.",
+          "Some roads might be steep, be prepared for climbs.",
+          "Bring a lock to secure your bike at the stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 6.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Aurel Vlaicu Monument",
+            "hu": "Központ Klaszter: Aurel Vlaicu emlékmű",
+            "ro": "Cluster Centru: Monumentul Aurel Vlaicu",
+            "en": "Center Cluster: Aurel Vlaicu Monument"
+          },
+          "coords": [
+            25.752,
+            45.101
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie Ihre Erkundung des Zentrums hier.",
+            "hu": "Parkoljon a közelben, és kezdje itt a központ felfedezését.",
+            "ro": "Parcați în apropiere și începeți explorarea centrului de aici.",
+            "en": "Park nearby and start your exploration of the center here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: St.-Georgs-Kirche",
+            "hu": "Központ Klaszter: Szent György-templom",
+            "ro": "Cluster Centru: Biserica Sfântul Gheorghe",
+            "en": "Center Cluster: St. George's Church"
+          },
+          "coords": [
+            25.758,
+            45.099
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Denkmal führt Sie zu dieser ruhigen Kirche.",
+            "hu": "Egy rövid séta az emlékműtől ehhez a csendes templomhoz vezet.",
+            "ro": "O scurtă plimbare de la monument vă duce la această biserică liniștită.",
+            "en": "A short walk from the monument takes you to this quiet church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Lokalhistorisches Museum",
+            "hu": "Központ Klaszter: Helytörténeti Múzeum",
+            "ro": "Cluster Centru: Muzeul de Istorie Locală",
+            "en": "Center Cluster: Local History Museum"
+          },
+          "coords": [
+            25.755,
+            45.103
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang durch das Zentrum mit einem tiefen Einblick in die Geschichte.",
+            "hu": "Fejezze be a központi sétát a történelem mélyebb megismerésével.",
+            "ro": "Încheiați turul centrului cu o incursiune adâncă în istorie.",
+            "en": "Finish your tour of the center with a deep dive into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Natur: Prahova-Aussichtspunkt",
+            "hu": "Természet Klaszter: Prahova-kilátó",
+            "ro": "Cluster Natură: Punct de belvedere Prahova",
+            "en": "Nature Cluster: Prahova Viewpoint"
+          },
+          "coords": [
+            25.735,
+            45.085
+          ],
+          "category": "natural features",
+          "arrive_at": "12:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Aussichtspunkt und parken Sie für einen atemberaubenden Panoramablick.",
+            "hu": "Vezessen a kilátóponthoz, és parkoljon le a lélegzetelállító panorámáért.",
+            "ro": "Conduceți la punctul de belvedere și parcați pentru o vedere panoramică uluitoare.",
+            "en": "Drive to the viewpoint and park for a breathtaking panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Natur: Alte Steinbrücke",
+            "hu": "Természet Klaszter: Régi kőhíd",
+            "ro": "Cluster Natură: Podul vechi de piatră",
+            "en": "Nature Cluster: Old Stone Bridge"
+          },
+          "coords": [
+            25.74,
+            45.088
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:00",
+          "stay_min": 51,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Aussichtspunkt aus ist es nur ein kurzer Spaziergang zu dieser fotogenen Brücke.",
+            "hu": "A kilátótól csak egy rövid séta ez a fotogén híd.",
+            "ro": "De la punctul de belvedere este doar o scurtă plimbare până la acest pod fotogenic.",
+            "en": "From the viewpoint, it's just a short walk to this photogenic bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Bănești in Clustern. Sie beginnen im Zentrum, wo Sie parken und zu Fuß das Vlaicu-Denkmal, die Kirche und das Museum erkunden. Am Nachmittag fahren Sie zum Naturcluster, um die Aussicht vom Prahova-Aussichtspunkt zu genießen und zur alten Steinbrücke zu spazieren. Diese Methode kombiniert den Komfort des Autos mit der Freude am Spazierengehen und Entdecken.",
+        "hu": "Autóval klaszterekben fedezi fel Băneștit. A központban kezdi, ahol leparkol, és gyalog fedezi fel a Vlaicu emlékművet, a templomot és a múzeumot. Délután áthajt a természet klaszterhez, hogy élvezze a Prahova-kilátó panorámáját, és elsétáljon a régi kőhídhoz. Ez a módszer ötvözi az autó kényelmét a séta és a felfedezés örömével.",
+        "ro": "Cu mașina, explorați Băneștiul în clustere. Începeți în centru, unde parcați și explorați pe jos Monumentul Vlaicu, biserica și muzeul. După-amiaza, conduceți la clusterul de natură pentru a vă bucura de priveliștea de la punctul de belvedere Prahova și pentru a vă plimba la podul vechi de piatră. Această metodă combină confortul mașinii cu bucuria de a merge pe jos și a descoperi.",
+        "en": "By car, you explore Bănești in clusters. You start in the center, where you park and explore the Vlaicu Monument, the church, and the museum on foot. In the afternoon, you drive to the nature cluster to enjoy the view from the Prahova viewpoint and walk to the old stone bridge. This method combines the comfort of the car with the joy of walking and discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant mit traditioneller Küche",
+            "tip": "Suchen Sie ein Restaurant außerhalb des Zentrums für authentische Aromen."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "In Wein- oder Kohlblättern gerolltes Hackfleisch, ein rumänisches Festtagsgericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hagyományos konyhájú étterem",
+            "tip": "Keressen egy éttermet a központon kívül az autentikus ízekért."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Szőlő- vagy káposztalevélbe tekert darált hús, egy román ünnepi étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant cu bucătărie tradițională",
+            "tip": "Căutați un restaurant în afara centrului pentru arome autentice."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Carne tocată rulată în foi de viță de vie sau varză, un fel de mâncare festiv românesc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant with traditional cuisine",
+            "tip": "Look for a restaurant outside the center for authentic flavors."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Minced meat rolled in grape or cabbage leaves, a Romanian festive dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt durch die Landschaft",
+            "tip": "Nehmen Sie eine Nebenstraße und genießen Sie die ruhige Landschaft der Walachei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parkplatz am Aussichtspunkt",
+            "tip": "Bleiben Sie nach dem Spaziergang noch einen Moment im Auto und genießen Sie die Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a vidéken",
+            "tip": "Válasszon egy mellékutat, és élvezze a Havasalföld csendes táját.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parkoló a kilátónál",
+            "tip": "A séta után maradjon még egy pillanatig az autóban, és élvezze a csendet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu mașina prin peisaj",
+            "tip": "Luați un drum secundar și bucurați-vă de peisajul liniștit al Munteniei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcare la punctul de belvedere",
+            "tip": "După plimbare, mai stați un moment în mașină și bucurați-vă de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive through the countryside",
+            "tip": "Take a side road and enjoy the quiet landscape of Wallachia.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parking at the viewpoint",
+            "tip": "After the walk, stay a moment longer in the car and enjoy the silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenverkäufer",
+            "tip": "Halten Sie Ausschau nach Verkäufern von Waldbeeren oder Pilzen am Straßenrand."
+          },
+          {
+            "name": "Lokale Imkerei",
+            "tip": "Kaufen Sie Honig direkt vom Imker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útszéli árusok",
+            "tip": "Figyelje az erdei gyümölcsöt vagy gombát árusítókat az út mentén."
+          },
+          {
+            "name": "Helyi méhészet",
+            "tip": "Vásároljon mézet közvetlenül a méhésztől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători ambulanți",
+            "tip": "Fiți atenți la vânzătorii de fructe de pădure sau ciuperci de pe marginea drumului."
+          },
+          {
+            "name": "Stupină locală",
+            "tip": "Cumpărați miere direct de la apicultor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside vendors",
+            "tip": "Look out for vendors selling forest berries or mushrooms on the roadside."
+          },
+          {
+            "name": "Local apiary",
+            "tip": "Buy honey directly from the beekeeper."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Parkmöglichkeiten im Voraus.",
+          "Kombinieren Sie Auto- und Gehstrecken für das beste Erlebnis.",
+          "Die Straßen können eng sein, fahren Sie also vorsichtig.",
+          "Ein GPS ist hilfreich, um die verschiedenen Cluster zu finden."
+        ],
+        "hu": [
+          "Tervezze meg előre a parkolási lehetőségeket.",
+          "Kombinálja az autós és gyalogos szakaszokat a legjobb élmény érdekében.",
+          "Az utak szűkek lehetnek, vezessen óvatosan.",
+          "GPS segít a különböző klaszterek megtalálásában."
+        ],
+        "ro": [
+          "Planificați-vă opțiunile de parcare în avans.",
+          "Combinați traseele cu mașina și pe jos pentru cea mai bună experiență.",
+          "Străzile pot fi înguste, așa că șofați cu prudență.",
+          "Un GPS este util pentru a găsi diferitele clustere."
+        ],
+        "en": [
+          "Plan your parking options in advance.",
+          "Combine car and walking sections for the best experience.",
+          "The roads can be narrow, so drive carefully.",
+          "A GPS is helpful for finding the different clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Park: Bănești-Park",
+            "hu": "Park Klaszter: Bănești Park",
+            "ro": "Cluster Parc: Parcul Bănești",
+            "en": "Park Cluster: Bănești Park"
+          },
+          "coords": [
+            25.75,
+            45.095
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag entspannt im zentralen Park, der mit dem Bus leicht zu erreichen ist.",
+            "hu": "Kezdje a napot pihentetően a központi parkban, amely busszal könnyen megközelíthető.",
+            "ro": "Începeți ziua relaxat în parcul central, ușor accesibil cu autobuzul.",
+            "en": "Start your day relaxed in the central park, easily accessible by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Park: Kulturhaus Bănești",
+            "hu": "Park Klaszter: Bănești Kultúrház",
+            "ro": "Cluster Parc: Casa de Cultură Bănești",
+            "en": "Park Cluster: Bănești Cultural House"
+          },
+          "coords": [
+            25.748,
+            45.105
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park zum Kulturzentrum.",
+            "hu": "Egy rövid séta a parktól a kulturális központig.",
+            "ro": "O scurtă plimbare de la parc la casa de cultură.",
+            "en": "A short walk from the park to the cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Historisch: St.-Georgs-Kirche",
+            "hu": "Történelmi Klaszter: Szent György-templom",
+            "ro": "Cluster Istoric: Biserica Sfântul Gheorghe",
+            "en": "Historic Cluster: St. George's Church"
+          },
+          "coords": [
+            25.758,
+            45.099
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum historischen Teil der Stadt.",
+            "hu": "Menjen helyi busszal a város történelmi részébe.",
+            "ro": "Luați un autobuz local spre partea istorică a orașului.",
+            "en": "Take a local bus to the historical part of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Historisch: Heldenmahnmal",
+            "hu": "Történelmi Klaszter: Hősök emlékműve",
+            "ro": "Cluster Istoric: Monumentul Eroilor",
+            "en": "Historic Cluster: Heroes' Monument"
+          },
+          "coords": [
+            25.765,
+            45.097
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:01",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzes Gedenken an die Helden, nur wenige Schritte von der Kirche entfernt.",
+            "hu": "Rövid megemlékezés a hősökről, csak pár lépésre a templomtól.",
+            "ro": "O scurtă comemorare a eroilor, la câțiva pași de biserică.",
+            "en": "A brief commemoration of the heroes, just a few steps from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Historisch: Aurel Vlaicu Monument",
+            "hu": "Történelmi Klaszter: Aurel Vlaicu emlékmű",
+            "ro": "Cluster Istoric: Monumentul Aurel Vlaicu",
+            "en": "Historic Cluster: Aurel Vlaicu Monument"
+          },
+          "coords": [
+            25.752,
+            45.101
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:53",
+          "stay_min": 95,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren historischen Spaziergang am beeindruckendsten Denkmal der Stadt ab.",
+            "hu": "Zárja a történelmi sétát a város legimpozánsabb emlékművénél.",
+            "ro": "Încheiați plimbarea istorică la cel mai impresionant monument al orașului.",
+            "en": "Conclude your historical walk at the city's most impressive monument."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erleben Sie Bănești aus einer lokalen Perspektive. Sie beginnen im Parkcluster, das leicht erreichbar ist, und spazieren zu den nahegelegenen Kulturstätten. Eine kurze Busfahrt bringt Sie dann ins historische Herz, wo Sie die Kirche und die Denkmäler zu Fuß erkunden. Diese Methode ist umweltfreundlich und ermöglicht es Ihnen, das tägliche Leben in der Gemeinde zu beobachten.",
+        "hu": "Tömegközlekedéssel helyi szemszögből tapasztalja meg Băneștit. A könnyen megközelíthető parkklaszterben kezd, és elsétál a közeli kulturális helyszínekhez. Egy rövid buszút után a történelmi szívbe ér, ahol gyalog fedezi fel a templomot és az emlékműveket. Ez a módszer környezetbarát, és lehetővé teszi, hogy megfigyelje a közösség mindennapi életét.",
+        "ro": "Folosind transportul public, experimentați Băneștiul dintr-o perspectivă locală. Începeți în clusterul parcului, ușor accesibil, și vă plimbați la siturile culturale din apropiere. O scurtă călătorie cu autobuzul vă duce apoi în inima istorică, unde explorați biserica și monumentele pe jos. Această metodă este ecologică și vă permite să observați viața de zi cu zi a comunității.",
+        "en": "Using public transport, you experience Bănești from a local perspective. You start in the easily accessible park cluster and walk to the nearby cultural sites. A short bus ride then takes you to the historic heart, where you explore the church and monuments on foot. This method is environmentally friendly and allows you to observe the daily life of the community."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi",
+            "tip": "Ein warmer, salziger Brezel, perfekt für unterwegs."
+          },
+          {
+            "name": "Gogoși",
+            "tip": "Rumänische Donuts, oft mit Puderzucker bestreut."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Covrigi",
+            "tip": "Meleg, sós perec, tökéletes útközben."
+          },
+          {
+            "name": "Gogoși",
+            "tip": "Román fánk, gyakran porcukorral megszórva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi",
+            "tip": "Un covrig cald și sărat, perfect pentru drum."
+          },
+          {
+            "name": "Gogoși",
+            "tip": "Gogoși românești, adesea pudrate cu zahăr."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi",
+            "tip": "A warm, salty pretzel, perfect for on the go."
+          },
+          {
+            "name": "Gogoși",
+            "tip": "Romanian doughnuts, often sprinkled with powdered sugar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Vororte",
+            "tip": "Beobachten Sie das Leben aus dem Fenster, während Sie durch ruhigere Gegenden fahren.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Friedhof neben der Kirche",
+            "tip": "Ein Ort der Stille und des Gedenkens.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a külvárosban",
+            "tip": "Figyelje az életet az ablakból, miközben csendesebb területeken halad át.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Temető a templom mellett",
+            "tip": "A csend és az emlékezés helye.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin suburbii",
+            "tip": "Priviți viața pe fereastră în timp ce călătoriți prin zone mai liniștite.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Cimitirul de lângă biserică",
+            "tip": "Un loc de liniște și comemorare.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the suburbs",
+            "tip": "Watch life from the window as you travel through quieter areas.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Cemetery next to the church",
+            "tip": "A place of silence and remembrance.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk an der Bushaltestelle",
+            "tip": "Kaufen Sie ein Ticket und vielleicht eine lokale Zeitung oder einen Snack."
+          },
+          {
+            "name": "Kleiner Laden in der Nähe der Kirche",
+            "tip": "Unterstützen Sie lokale Geschäfte, indem Sie eine Postkarte oder ein Getränk kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszmegállóban",
+            "tip": "Vásároljon jegyet és esetleg egy helyi újságot vagy snacket."
+          },
+          {
+            "name": "Kisbolt a templom közelében",
+            "tip": "Támogassa a helyi vállalkozásokat egy képeslap vagy egy ital megvásárlásával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc din stația de autobuz",
+            "tip": "Cumpărați un bilet și poate un ziar local sau o gustare."
+          },
+          {
+            "name": "Magazin mic lângă biserică",
+            "tip": "Sprijiniți afacerile locale cumpărând o carte poștală sau o băutură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus stop",
+            "tip": "Buy a ticket and maybe a local newspaper or a snack."
+          },
+          {
+            "name": "Small shop near the church",
+            "tip": "Support local businesses by buying a postcard or a drink."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über die Busfahrpläne.",
+          "Haben Sie Kleingeld für Tickets bereit.",
+          "Eine Tageskarte kann sich lohnen, wenn Sie mehrere Fahrten planen.",
+          "Seien Sie auf Wartezeiten an den Haltestellen vorbereitet."
+        ],
+        "hu": [
+          "Tájékozódjon a buszmenetrendekről.",
+          "Készítsen elő aprópénzt a jegyekhez.",
+          "Napijegy megéri, ha több utazást tervez.",
+          "Készüljön fel a várakozási időre a megállókban."
+        ],
+        "ro": [
+          "Informați-vă despre orarele autobuzelor.",
+          "Pregătiți mărunțiș pentru bilete.",
+          "Un abonament de o zi poate fi rentabil dacă plănuiți mai multe călătorii.",
+          "Fiți pregătiți pentru timpii de așteptare în stații."
+        ],
+        "en": [
+          "Find out about the bus schedules.",
+          "Have small change ready for tickets.",
+          "A day pass can be worthwhile if you are planning several trips.",
+          "Be prepared for waiting times at the stops."
+        ]
+      }
+    }
+  }
+}

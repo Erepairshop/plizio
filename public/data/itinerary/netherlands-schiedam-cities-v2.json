@@ -1,0 +1,1548 @@
+{
+  "city_id": "netherlands-schiedam-cities-v2",
+  "anchor": {
+    "name": "Schiedam",
+    "coords": [
+      4.4033,
+      51.9167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grote oder St. Janskerk",
+            "hu": "Szent János-templom (Grote Kerk)",
+            "ro": "Biserica Sf. Ioan (Grote Kerk)",
+            "en": "St. John's Church (Grote Kerk)"
+          },
+          "coords": [
+            4.396,
+            51.9175
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Buntglasfenster, die Geschichten der Stadt erzählen.",
+            "hu": "Csodálja meg a lenyűgöző ólomüveg ablakokat, melyek a város történeteit mesélik el.",
+            "ro": "Admirați vitraliile impresionante care spun poveștile orașului.",
+            "en": "Admire the impressive stained-glass windows that tell the city's stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Stedelijk Museum Schiedam",
+            "hu": "Schiedami Városi Múzeum",
+            "ro": "Muzeul Municipal Schiedam",
+            "en": "Stedelijk Museum Schiedam"
+          },
+          "coords": [
+            4.3965,
+            51.918
+          ],
+          "category": "museums",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die CoBrA-Bewegung, eine der Stärken des Museums.",
+            "hu": "Fókuszáljon a CoBrA mozgalomra, ami a múzeum egyik erőssége.",
+            "ro": "Concentrează-te pe mișcarea CoBrA, unul dintre punctele forte ale muzeului.",
+            "en": "Focus on the CoBrA movement, one of the museum's strengths."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Jenevermuseum",
+            "hu": "Nemzeti Jenever Múzeum",
+            "ro": "Muzeul Național al Jeneverului",
+            "en": "National Jenever Museum"
+          },
+          "coords": [
+            4.3948,
+            51.916
+          ],
+          "category": "museums",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Verkostung am Ende der Tour, um den echten Geschmack von Schiedam zu erleben.",
+            "hu": "Ne hagyja ki a kóstolót a túra végén, hogy megtapasztalja Schiedam igazi ízét.",
+            "ro": "Nu ratați degustarea de la sfârșitul turului pentru a experimenta gustul autentic al Schiedamului.",
+            "en": "Don't miss the tasting at the end of the tour to experience the real taste of Schiedam."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle De Walvisch",
+            "hu": "De Walvisch szélmalom",
+            "ro": "Moara de vânt De Walvisch",
+            "en": "De Walvisch Windmill"
+          },
+          "coords": [
+            4.392,
+            51.9145
+          ],
+          "category": "museums",
+          "arrive_at": "13:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kaufen Sie im Mühlenladen traditionell gemahlenes Mehl, ein einzigartiges Souvenir.",
+            "hu": "Vásároljon a malom boltjában hagyományosan őrölt lisztet, egyedi szuvenír.",
+            "ro": "Cumpărați făină măcinată tradițional de la magazinul morii, un suvenir unic.",
+            "en": "Buy traditionally ground flour from the mill shop, a unique souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle De Noord",
+            "hu": "De Noord szélmalom",
+            "ro": "Moara de vânt De Noord",
+            "en": "De Noord Windmill"
+          },
+          "coords": [
+            4.3995,
+            51.913
+          ],
+          "category": "historical",
+          "arrive_at": "13:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies ist eine der höchsten Windmühlen der Welt. Die schiere Größe ist aus der Nähe beeindruckend.",
+            "hu": "Ez a világ egyik legmagasabb szélmalma. A méretei lenyűgözőek közelről.",
+            "ro": "Aceasta este una dintre cele mai înalte mori de vânt din lume. Dimensiunea sa este impresionantă de aproape.",
+            "en": "This is one of the tallest windmills in the world. The sheer scale is impressive up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Havenpark",
+            "hu": "Havenpark",
+            "ro": "Parcul Haven",
+            "en": "Havenpark"
+          },
+          "coords": [
+            4.405,
+            51.915
+          ],
+          "category": "parks",
+          "arrive_at": "14:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um sich nach dem Spaziergang zu entspannen und die Boote auf dem Kanal zu beobachten.",
+            "hu": "Tökéletes hely a pihenésre a séta után, és a csónakok figyelésére a csatornán.",
+            "ro": "Un loc perfect pentru a vă relaxa după plimbare și a privi bărcile de pe canal.",
+            "en": "A perfect spot to relax after your walk and watch the boats on the canal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Schiedam beginnt im historischen Herzen, rund um die majestätische Grote Kerk. Am Vormittag erkunden Sie die Gassen und Kanäle, die von den größten Windmühlen der Welt überragt werden. Gegen Mittag tauchen Sie in die Welt des Jenever ein, dem berühmten Geist der Stadt, und genießen ein traditionelles holländisches Mittagessen. Der Nachmittag bietet einen ruhigen Ausklang im grünen Havenpark, wo Sie das geschäftige Treiben auf dem Wasser beobachten können. Beenden Sie den Tag mit einem Spaziergang entlang der beleuchteten Kanäle, die die reiche Geschichte Schiedams widerspiegeln.",
+        "hu": "Schiedami napja a történelmi szívben kezdődik, a fenséges Grote Kerk körül. A délelőtt folyamán felfedezi az utcákat és csatornákat, melyek fölé a világ legnagyobb szélmalmai tornyosulnak. Dél körül elmerül a jenever, a város híres italának világában, és elfogyaszt egy hagyományos holland ebédet. A délután csendes levezetést kínál a zöld Havenparkban, ahol megfigyelheti a vízi életet. A napot egy sétával zárja a kivilágított csatornák mentén, melyek Schiedam gazdag történelmét tükrözik.",
+        "ro": "Ziua dvs. în Schiedam începe în inima sa istorică, în jurul maiestuoasei Grote Kerk. În timpul dimineții, explorați străduțele și canalele vegheate de cele mai înalte mori de vânt din lume. La prânz, pătrundeți în lumea jeneverului, băutura emblematică a orașului, și savurați un prânz tradițional olandez. După-amiaza oferă o relaxare liniștită în verdele Havenpark, unde puteți observa agitația de pe apă. Încheiați ziua cu o plimbare de-a lungul canalelor iluminate, care reflectă istoria bogată a Schiedamului.",
+        "en": "Your day in Schiedam begins in its historic heart, around the majestic Grote Kerk. During the morning, you'll explore the alleys and canals overlooked by the world's largest windmills. Around noon, delve into the world of Jenever, the city's famous spirit, and enjoy a traditional Dutch lunch. The afternoon offers a quiet wind-down in the green Havenpark, where you can watch the bustle on the water. End your day with a stroll along the illuminated canals, reflecting Schiedam's rich history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Jenever",
+            "tip": "Probieren Sie einen 'oude' (alten) Jenever für einen komplexeren Geschmack in einer der vielen traditionellen Bars."
+          },
+          {
+            "name": "Haring",
+            "tip": "Wenn die Saison stimmt, probieren Sie einen rohen Hering mit Zwiebeln von einem lokalen Fischstand."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Genießen Sie eine frisch gemachte, warme Stroopwafel auf dem Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jenever",
+            "tip": "Kóstoljon meg egy 'oude' (régi) jenevert egy komplexebb ízért a sok hagyományos bár egyikében."
+          },
+          {
+            "name": "Haring (hering)",
+            "tip": "Ha szezonja van, kóstoljon meg egy nyers heringet hagymával egy helyi halkereskedőtől."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Élvezzen egy frissen készített, meleg stroopwafelt a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jenever",
+            "tip": "Încercați un jenever 'oude' (vechi) pentru o aromă mai complexă la unul dintre numeroasele baruri tradiționale."
+          },
+          {
+            "name": "Hering",
+            "tip": "Dacă este sezon, încercați un hering crud cu ceapă de la o tarabă locală de pește."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Savurați un stroopwafel proaspăt făcut, cald, de la piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jenever",
+            "tip": "Try an 'oude' (old) jenever for a more complex flavour at one of the many traditional bars."
+          },
+          {
+            "name": "Haring (Herring)",
+            "tip": "If it's the right season, try a raw herring with onions from a local fish stall."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Enjoy a freshly made, warm stroopwafel from the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lange Haven",
+            "tip": "Finden Sie eine ruhige Bank entlang des Hauptkanals am späten Nachmittag.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Havenpark",
+            "tip": "Der perfekte Ort, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beginenhof bei der Grote Kerk",
+            "tip": "Ein versteckter, friedlicher Hof im Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lange Haven",
+            "tip": "Keressen egy csendes padot a fő csatorna mentén késő délután.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Havenpark",
+            "tip": "Tökéletes hely a város nyüzsgése elől való menekülésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beginaudvar a Grote Kerk mellett",
+            "tip": "Egy rejtett, békés udvar a városközpontban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lange Haven",
+            "tip": "Găsiți o bancă liniștită de-a lungul canalului principal spre sfârșitul după-amiezii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Havenpark",
+            "tip": "Locul perfect pentru a evada din agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară de lângă Grote Kerk",
+            "tip": "O curte ascunsă și liniștită în centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lange Haven",
+            "tip": "Find a quiet bench along the main canal in the late afternoon.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Havenpark",
+            "tip": "The perfect place to escape the bustle of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Begijnhof near Grote Kerk",
+            "tip": "A hidden, peaceful courtyard in the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Jenevermuseum Shop",
+            "tip": "Die beste Auswahl an lokalen und handwerklichen Jenevern."
+          },
+          {
+            "name": "Molenwinkel De Walvisch",
+            "tip": "Kaufen Sie traditionelles Mehl und holländische Backmischungen."
+          },
+          {
+            "name": "Käseladen",
+            "tip": "Besuchen Sie einen lokalen 'kaaswinkel' für authentischen holländischen Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jenever Múzeum Boltja",
+            "tip": "A legjobb választék helyi és kézműves jeneverekből."
+          },
+          {
+            "name": "De Walvisch Malombolt",
+            "tip": "Vásároljon hagyományos lisztet és holland süteménykeverékeket."
+          },
+          {
+            "name": "Sajtbolt",
+            "tip": "Látogasson el egy helyi 'kaaswinkel'-be autentikus holland sajtokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului Jenever",
+            "tip": "Cea mai bună selecție de jenever local și artizanal."
+          },
+          {
+            "name": "Magazinul Morii De Walvisch",
+            "tip": "Cumpărați făină tradițională și amestecuri olandeze pentru copt."
+          },
+          {
+            "name": "Magazin de brânzeturi",
+            "tip": "Vizitați un 'kaaswinkel' local pentru brânză olandeză autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jenever Museum Shop",
+            "tip": "The best selection of local and artisanal jenevers."
+          },
+          {
+            "name": "De Walvisch Mill Shop",
+            "tip": "Buy traditional flour and Dutch baking mixes."
+          },
+          {
+            "name": "Cheese Shop",
+            "tip": "Visit a local 'kaaswinkel' for authentic Dutch cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen oft mit Kopfsteinpflaster belegt sind.",
+          "Viele Museen sind montags geschlossen, überprüfen Sie die Öffnungszeiten im Voraus.",
+          "Eine geführte Kanalrundfahrt bietet eine andere Perspektive auf die Stadt und ihre Mühlen.",
+          "Probieren Sie unbedingt die lokalen Spezialitäten in einem der vielen Cafés am Wasser."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az utcák gyakran macskakövesek.",
+          "Sok múzeum zárva tart hétfőnként, ellenőrizze előre a nyitvatartást.",
+          "Egy vezetett csatornatúra más perspektívát nyújt a városra és a malmaira.",
+          "Feltétlenül kóstolja meg a helyi specialitásokat az egyik vízparti kávézóban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile sunt adesea pavate cu piatră cubică.",
+          "Multe muzee sunt închise lunea, verificați programul în avans.",
+          "Un tur cu barca pe canal oferă o perspectivă diferită asupra orașului și a morilor sale.",
+          "Asigurați-vă că încercați specialitățile locale la una dintre numeroasele cafenele de pe malul apei."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets are often cobblestoned.",
+          "Many museums are closed on Mondays, check opening hours in advance.",
+          "A guided canal tour offers a different perspective on the city and its mills.",
+          "Be sure to try the local specialties at one of the many waterside cafes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:53",
+      "total_km": 3.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Huis te Riviere",
+            "hu": "Huis te Riviere kastélyrom",
+            "ro": "Ruinele castelului Huis te Riviere",
+            "en": "Huis te Riviere Castle Ruins"
+          },
+          "coords": [
+            4.408,
+            51.919
+          ],
+          "category": "castles",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie sich die einstige Größe dieser Burg vor, die nur noch von einem einzigen Turm bezeugt wird.",
+            "hu": "Képzelje el a vár egykori nagyságát, amiről már csak egyetlen torony tanúskodik.",
+            "ro": "Imaginați-vă măreția de odinioară a acestui castel, mărturisită acum doar de un singur turn.",
+            "en": "Imagine the former grandeur of this castle, now witnessed only by a single tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater aan de Schie",
+            "hu": "Theater aan de Schie",
+            "ro": "Teatrul aan de Schie",
+            "en": "Theater aan de Schie"
+          },
+          "coords": [
+            4.4,
+            51.921
+          ],
+          "category": "theatres",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm für eine Abendvorstellung, um zeitgenössische niederländische Kultur zu erleben.",
+            "hu": "Nézze meg az esti programot, hogy megtapasztalja a kortárs holland kultúrát.",
+            "ro": "Verificați programul pentru un spectacol de seară pentru a experimenta cultura olandeză contemporană.",
+            "en": "Check the schedule for an evening performance to experience contemporary Dutch culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote oder St. Janskerk",
+            "hu": "Szent János-templom (Grote Kerk)",
+            "ro": "Biserica Sf. Ioan (Grote Kerk)",
+            "en": "St. John's Church (Grote Kerk)"
+          },
+          "coords": [
+            4.396,
+            51.9175
+          ],
+          "category": "churches",
+          "arrive_at": "10:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Aufstieg auf den Turm ist die Mühe wert für die Aussicht über die Stadt.",
+            "hu": "A toronyba való felmászás megéri a fáradságot a városra nyíló kilátásért.",
+            "ro": "Urcarea în turn merită efortul pentru priveliștea asupra orașului.",
+            "en": "Climbing the tower is worth the effort for the view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle De Noord",
+            "hu": "De Noord szélmalom",
+            "ro": "Moara de vânt De Noord",
+            "en": "De Noord Windmill"
+          },
+          "coords": [
+            4.3995,
+            51.913
+          ],
+          "category": "historical",
+          "arrive_at": "10:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Restaurant in der Mühle bietet ein einzigartiges kulinarisches Erlebnis.",
+            "hu": "A malomban található étterem egyedülálló kulináris élményt nyújt.",
+            "ro": "Restaurantul din moară oferă o experiență culinară unică.",
+            "en": "The restaurant inside the mill offers a unique dining experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle De Walvisch",
+            "hu": "De Walvisch szélmalom",
+            "ro": "Moara de vânt De Walvisch",
+            "en": "De Walvisch Windmill"
+          },
+          "coords": [
+            4.392,
+            51.9145
+          ],
+          "category": "museums",
+          "arrive_at": "11:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine funktionierende Mühle, in der man manchmal den Müller bei der Arbeit beobachten kann.",
+            "hu": "Ez egy működő malom, ahol néha láthatja a molnárt munka közben.",
+            "ro": "O moară funcțională unde uneori îl puteți vedea pe morar la lucru.",
+            "en": "A working mill where you can sometimes see the miller at work."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Jenevermuseum",
+            "hu": "Nemzeti Jenever Múzeum",
+            "ro": "Muzeul Național al Jeneverului",
+            "en": "National Jenever Museum"
+          },
+          "coords": [
+            4.3948,
+            51.916
+          ],
+          "category": "museums",
+          "arrive_at": "12:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie hier Ihre Mittagspause ein; in der Nähe gibt es viele charmante Cafés.",
+            "hu": "Tervezze ide az ebédszünetet; a közelben számos bájos kávézó található.",
+            "ro": "Planificați-vă pauza de prânz aici; există multe cafenele fermecătoare în apropiere.",
+            "en": "Plan your lunch break here; there are many charming cafes nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Havenpark",
+            "hu": "Havenpark",
+            "ro": "Parcul Haven",
+            "en": "Havenpark"
+          },
+          "coords": [
+            4.405,
+            51.915
+          ],
+          "category": "parks",
+          "arrive_at": "14:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad gut ab und genießen Sie einen entspannten Spaziergang durch den Park.",
+            "hu": "Zárja le jól a kerékpárját, és élvezzen egy pihentető sétát a parkban.",
+            "ro": "Legați-vă bine bicicleta și bucurați-vă de o plimbare relaxantă prin parc.",
+            "en": "Lock your bike securely and enjoy a relaxing stroll through the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour bei den alten Ruinen von Huis te Riviere. Radeln Sie am Morgen durch das moderne Kulturviertel zum historischen Zentrum, wo Kirche und Windmühlen warten. Gönnen Sie sich zu Mittag eine Pause im Jenever-Viertel, probieren Sie die lokalen Köstlichkeiten und lernen Sie mehr über die Spirituosengeschichte. Der Nachmittag führt Sie entlang der malerischen Kanäle zum entspannten Havenpark. Schließen Sie den Tag ab, indem Sie Ihr Rad abstellen und die Abendstimmung in einem der vielen gemütlichen Restaurants am Wasser genießen.",
+        "hu": "Pattanjon nyeregbe, és kezdje a túrát a Huis te Riviere ősi romjainál. Reggel tekerjen át a modern kulturális negyeden a történelmi központba, ahol templom és szélmalmok várnak. Délben tartson szünetet a Jenever-negyedben, kóstolja meg a helyi finomságokat, és tudjon meg többet a szeszes ital történetéről. A délután a festői csatornák mentén a pihentető Havenparkba vezet. Zárja a napot azzal, hogy leteszi a kerékpárt, és élvezi az esti hangulatot az egyik hangulatos vízparti étteremben.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul de la ruinele antice ale Huis te Riviere. Dimineața pedalați prin cartierul cultural modern spre centrul istoric, unde vă așteaptă biserica și morile de vânt. La prânz, faceți o pauză în cartierul Jenever, gustați deliciile locale și învățați despre istoria băuturii. După-amiaza vă poartă de-a lungul canalelor pitorești spre relaxantul Havenpark. Încheiați ziua lăsând bicicleta deoparte și bucurându-vă de atmosfera de seară la unul dintre multele restaurante primitoare de pe malul apei.",
+        "en": "Get on your bike and start your tour at the ancient ruins of Huis te Riviere. In the morning, cycle through the modern cultural district to the historic center, where the church and windmills await. At noon, take a break in the Jenever district, taste the local delicacies, and learn about the spirit's history. The afternoon takes you along the picturesque canals to the relaxing Havenpark. End the day by parking your bike and enjoying the evening atmosphere at one of the many cozy waterfront restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Jenever",
+            "tip": "Probieren Sie einen 'oude' (alten) Jenever für einen komplexeren Geschmack in einer der vielen traditionellen Bars."
+          },
+          {
+            "name": "Haring",
+            "tip": "Wenn die Saison stimmt, probieren Sie einen rohen Hering mit Zwiebeln von einem lokalen Fischstand."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Genießen Sie eine frisch gemachte, warme Stroopwafel auf dem Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jenever",
+            "tip": "Kóstoljon meg egy 'oude' (régi) jenevert egy komplexebb ízért a sok hagyományos bár egyikében."
+          },
+          {
+            "name": "Haring (hering)",
+            "tip": "Ha szezonja van, kóstoljon meg egy nyers heringet hagymával egy helyi halkereskedőtől."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Élvezzen egy frissen készített, meleg stroopwafelt a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jenever",
+            "tip": "Încercați un jenever 'oude' (vechi) pentru o aromă mai complexă la unul dintre numeroasele baruri tradiționale."
+          },
+          {
+            "name": "Hering",
+            "tip": "Dacă este sezon, încercați un hering crud cu ceapă de la o tarabă locală de pește."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Savurați un stroopwafel proaspăt făcut, cald, de la piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jenever",
+            "tip": "Try an 'oude' (old) jenever for a more complex flavour at one of the many traditional bars."
+          },
+          {
+            "name": "Haring (Herring)",
+            "tip": "If it's the right season, try a raw herring with onions from a local fish stall."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Enjoy a freshly made, warm stroopwafel from the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lange Haven",
+            "tip": "Finden Sie eine ruhige Bank entlang des Hauptkanals am späten Nachmittag.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Havenpark",
+            "tip": "Der perfekte Ort, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beginenhof bei der Grote Kerk",
+            "tip": "Ein versteckter, friedlicher Hof im Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lange Haven",
+            "tip": "Keressen egy csendes padot a fő csatorna mentén késő délután.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Havenpark",
+            "tip": "Tökéletes hely a város nyüzsgése elől való menekülésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beginaudvar a Grote Kerk mellett",
+            "tip": "Egy rejtett, békés udvar a városközpontban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lange Haven",
+            "tip": "Găsiți o bancă liniștită de-a lungul canalului principal spre sfârșitul după-amiezii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Havenpark",
+            "tip": "Locul perfect pentru a evada din agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară de lângă Grote Kerk",
+            "tip": "O curte ascunsă și liniștită în centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lange Haven",
+            "tip": "Find a quiet bench along the main canal in the late afternoon.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Havenpark",
+            "tip": "The perfect place to escape the bustle of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Begijnhof near Grote Kerk",
+            "tip": "A hidden, peaceful courtyard in the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Jenevermuseum Shop",
+            "tip": "Die beste Auswahl an lokalen und handwerklichen Jenevern."
+          },
+          {
+            "name": "Molenwinkel De Walvisch",
+            "tip": "Kaufen Sie traditionelles Mehl und holländische Backmischungen."
+          },
+          {
+            "name": "Käseladen",
+            "tip": "Besuchen Sie einen lokalen 'kaaswinkel' für authentischen holländischen Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jenever Múzeum Boltja",
+            "tip": "A legjobb választék helyi és kézműves jeneverekből."
+          },
+          {
+            "name": "De Walvisch Malombolt",
+            "tip": "Vásároljon hagyományos lisztet és holland süteménykeverékeket."
+          },
+          {
+            "name": "Sajtbolt",
+            "tip": "Látogasson el egy helyi 'kaaswinkel'-be autentikus holland sajtokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului Jenever",
+            "tip": "Cea mai bună selecție de jenever local și artizanal."
+          },
+          {
+            "name": "Magazinul Morii De Walvisch",
+            "tip": "Cumpărați făină tradițională și amestecuri olandeze pentru copt."
+          },
+          {
+            "name": "Magazin de brânzeturi",
+            "tip": "Vizitați un 'kaaswinkel' local pentru brânză olandeză autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jenever Museum Shop",
+            "tip": "The best selection of local and artisanal jenevers."
+          },
+          {
+            "name": "De Walvisch Mill Shop",
+            "tip": "Buy traditional flour and Dutch baking mixes."
+          },
+          {
+            "name": "Cheese Shop",
+            "tip": "Visit a local 'kaaswinkel' for authentic Dutch cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad immer ab, auch für kurze Stopps.",
+          "Achten Sie auf die Straßenbahnschienen, besonders bei Nässe.",
+          "Nutzen Sie die gut ausgebauten Radwege entlang der Kanäle.",
+          "Eine wasserdichte Tasche ist bei dem unvorhersehbaren niederländischen Wetter eine gute Idee."
+        ],
+        "hu": [
+          "Mindig zárja le a kerékpárját, még rövid megállókra is.",
+          "Vigyázzon a villamossínekre, különösen nedves időben.",
+          "Használja a jól kiépített kerékpárutakat a csatornák mentén.",
+          "Egy vízálló táska jó ötlet a kiszámíthatatlan holland időjárás miatt."
+        ],
+        "ro": [
+          "Legați-vă întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "Fiți atenți la șinele de tramvai, mai ales pe carosabil umed.",
+          "Folosiți pistele de biciclete bine dezvoltate de-a lungul canalelor.",
+          "O geantă impermeabilă este o idee bună având în vedere vremea imprevizibilă din Olanda."
+        ],
+        "en": [
+          "Always lock your bike, even for short stops.",
+          "Watch out for the tram tracks, especially when wet.",
+          "Use the well-developed bike paths along the canals.",
+          "A waterproof bag is a good idea with the unpredictable Dutch weather."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 4.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Huis te Riviere",
+            "hu": "Huis te Riviere kastélyrom",
+            "ro": "Ruinele castelului Huis te Riviere",
+            "en": "Huis te Riviere Castle Ruins"
+          },
+          "coords": [
+            4.408,
+            51.919
+          ],
+          "category": "castles",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Tag mit einem Blick in die ferne Vergangenheit der Stadt.",
+            "hu": "Parkoljon le itt, és kezdje a napot a város távoli múltjába való bepillantással.",
+            "ro": "Parcați aici și începeți-vă ziua cu o privire în trecutul îndepărtat al orașului.",
+            "en": "Park here and start your day with a glimpse into the city's distant past."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater aan de Schie",
+            "hu": "Theater aan de Schie",
+            "ro": "Teatrul aan de Schie",
+            "en": "Theater aan de Schie"
+          },
+          "coords": [
+            4.4,
+            51.921
+          ],
+          "category": "theatres",
+          "arrive_at": "10:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von den Ruinen entfernt, repräsentiert dieses Theater das moderne Schiedam.",
+            "hu": "Rövid séta a romoktól, ez a színház a modern Schiedamot képviseli.",
+            "ro": "La o scurtă plimbare de ruine, acest teatru reprezintă Schiedamul modern.",
+            "en": "A short walk from the ruins, this theater represents modern Schiedam."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote oder St. Janskerk",
+            "hu": "Szent János-templom (Grote Kerk)",
+            "ro": "Biserica Sf. Ioan (Grote Kerk)",
+            "en": "St. John's Church (Grote Kerk)"
+          },
+          "coords": [
+            4.396,
+            51.9175
+          ],
+          "category": "churches",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nach der Fahrt parken Sie in einer nahegelegenen Garage und erkunden den Rest zu Fuß.",
+            "hu": "A vezetés után parkoljon egy közeli parkolóházban, és fedezze fel a többit gyalog.",
+            "ro": "După condus, parcați într-un garaj din apropiere și explorați restul pe jos.",
+            "en": "After the drive, park in a nearby garage and explore the rest on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stedelijk Museum Schiedam",
+            "hu": "Schiedami Városi Múzeum",
+            "ro": "Muzeul Municipal Schiedam",
+            "en": "Stedelijk Museum Schiedam"
+          },
+          "coords": [
+            4.3965,
+            51.918
+          ],
+          "category": "museums",
+          "arrive_at": "11:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die moderne Kunst als Kontrast zur historischen Umgebung.",
+            "hu": "Élvezze a modern művészetet, mint kontrasztot a történelmi környezettel.",
+            "ro": "Bucurați-vă de arta modernă ca un contrast cu mediul istoric.",
+            "en": "Enjoy the modern art as a contrast to the historical surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Jenevermuseum",
+            "hu": "Nemzeti Jenever Múzeum",
+            "ro": "Muzeul Național al Jeneverului",
+            "en": "National Jenever Museum"
+          },
+          "coords": [
+            4.3948,
+            51.916
+          ],
+          "category": "museums",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um mehr über das Getränk zu erfahren, das Schiedam berühmt gemacht hat.",
+            "hu": "A tökéletes hely, hogy többet megtudjon az italról, amely híressé tette Schiedamot.",
+            "ro": "Locul perfect pentru a afla mai multe despre băutura care a făcut Schiedamul celebru.",
+            "en": "The perfect place to learn about the drink that made Schiedam famous."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle De Walvisch",
+            "hu": "De Walvisch szélmalom",
+            "ro": "Moara de vânt De Walvisch",
+            "en": "De Walvisch Windmill"
+          },
+          "coords": [
+            4.392,
+            51.9145
+          ],
+          "category": "museums",
+          "arrive_at": "14:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein malerischer Spaziergang entlang des Kanals führt Sie zu dieser ikonischen Mühle.",
+            "hu": "Egy festői séta a csatorna mentén vezet ehhez az ikonikus malomhoz.",
+            "ro": "O plimbare pitorească de-a lungul canalului vă va duce la această moară emblematică.",
+            "en": "A picturesque walk along the canal will lead you to this iconic mill."
+          }
+        },
+        {
+          "name": {
+            "de": "Havenpark",
+            "hu": "Havenpark",
+            "ro": "Parcul Haven",
+            "en": "Havenpark"
+          },
+          "coords": [
+            4.405,
+            51.915
+          ],
+          "category": "parks",
+          "arrive_at": "15:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt Ihres Spaziergangs durch das Zentrum, bevor Sie zum Auto zurückkehren.",
+            "hu": "Az utolsó megálló a központon átvezető sétáján, mielőtt visszatérne az autóhoz.",
+            "ro": "Ultima oprire a plimbării dvs. prin centru înainte de a vă întoarce la mașină.",
+            "en": "The last stop on your walk through the center before heading back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto am Stadtrand bei den Ruinen von Huis te Riviere. Nach einem kurzen Spaziergang zum Theater fahren Sie ins Zentrum, parken Ihr Auto für den Rest des Tages und erkunden das Herz von Schiedam zu Fuß. Der Mittag ist der Kultur gewidmet, mit Besuchen in der Grote Kerk und den berühmten Museen. Am Nachmittag schlendern Sie entlang der Kanäle, vorbei an Windmühlen, zum entspannenden Havenpark. Kehren Sie am Abend zu Ihrem Auto zurück, nachdem Sie die historische Atmosphäre bei einem gemütlichen Abendessen aufgesogen haben.",
+        "hu": "Kezdje a napot autóval a város szélén, a Huis te Riviere romjainál. Egy rövid színházi séta után hajtson a központba, parkolja le az autót a nap hátralévő részére, és fedezze fel gyalog Schiedam szívét. A dél a kultúráé, a Grote Kerk és a híres múzeumok meglátogatásával. Délután sétáljon a csatornák mentén, szélmalmok mellett, a pihentető Havenparkba. Este térjen vissza az autójához, miután egy kellemes vacsora mellett magába szívta a történelmi hangulatot.",
+        "ro": "Începeți ziua cu mașina la periferia orașului, la ruinele Huis te Riviere. După o scurtă plimbare la teatru, conduceți spre centru, parcați mașina pentru restul zilei și explorați inima Schiedamului pe jos. Prânzul este dedicat culturii, cu vizite la Grote Kerk și la celebrele muzee. După-amiaza, plimbați-vă de-a lungul canalelor, pe lângă mori de vânt, până la relaxantul Havenpark. Seara, întoarceți-vă la mașină după ce ați absorbit atmosfera istorică la o cină liniștită.",
+        "en": "Start your day by car on the outskirts of the city at the ruins of Huis te Riviere. After a short walk to the theatre, drive to the center, park your car for the rest of the day, and explore the heart of Schiedam on foot. Midday is dedicated to culture, with visits to the Grote Kerk and the famous museums. In the afternoon, stroll along the canals, past windmills, to the relaxing Havenpark. Return to your car in the evening after soaking up the historic atmosphere over a leisurely dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Jenever",
+            "tip": "Probieren Sie einen 'oude' (alten) Jenever für einen komplexeren Geschmack in einer der vielen traditionellen Bars."
+          },
+          {
+            "name": "Haring",
+            "tip": "Wenn die Saison stimmt, probieren Sie einen rohen Hering mit Zwiebeln von einem lokalen Fischstand."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Genießen Sie eine frisch gemachte, warme Stroopwafel auf dem Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jenever",
+            "tip": "Kóstoljon meg egy 'oude' (régi) jenevert egy komplexebb ízért a sok hagyományos bár egyikében."
+          },
+          {
+            "name": "Haring (hering)",
+            "tip": "Ha szezonja van, kóstoljon meg egy nyers heringet hagymával egy helyi halkereskedőtől."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Élvezzen egy frissen készített, meleg stroopwafelt a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jenever",
+            "tip": "Încercați un jenever 'oude' (vechi) pentru o aromă mai complexă la unul dintre numeroasele baruri tradiționale."
+          },
+          {
+            "name": "Hering",
+            "tip": "Dacă este sezon, încercați un hering crud cu ceapă de la o tarabă locală de pește."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Savurați un stroopwafel proaspăt făcut, cald, de la piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jenever",
+            "tip": "Try an 'oude' (old) jenever for a more complex flavour at one of the many traditional bars."
+          },
+          {
+            "name": "Haring (Herring)",
+            "tip": "If it's the right season, try a raw herring with onions from a local fish stall."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Enjoy a freshly made, warm stroopwafel from the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lange Haven",
+            "tip": "Finden Sie eine ruhige Bank entlang des Hauptkanals am späten Nachmittag.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Havenpark",
+            "tip": "Der perfekte Ort, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beginenhof bei der Grote Kerk",
+            "tip": "Ein versteckter, friedlicher Hof im Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lange Haven",
+            "tip": "Keressen egy csendes padot a fő csatorna mentén késő délután.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Havenpark",
+            "tip": "Tökéletes hely a város nyüzsgése elől való menekülésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beginaudvar a Grote Kerk mellett",
+            "tip": "Egy rejtett, békés udvar a városközpontban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lange Haven",
+            "tip": "Găsiți o bancă liniștită de-a lungul canalului principal spre sfârșitul după-amiezii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Havenpark",
+            "tip": "Locul perfect pentru a evada din agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară de lângă Grote Kerk",
+            "tip": "O curte ascunsă și liniștită în centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lange Haven",
+            "tip": "Find a quiet bench along the main canal in the late afternoon.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Havenpark",
+            "tip": "The perfect place to escape the bustle of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Begijnhof near Grote Kerk",
+            "tip": "A hidden, peaceful courtyard in the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Jenevermuseum Shop",
+            "tip": "Die beste Auswahl an lokalen und handwerklichen Jenevern."
+          },
+          {
+            "name": "Molenwinkel De Walvisch",
+            "tip": "Kaufen Sie traditionelles Mehl und holländische Backmischungen."
+          },
+          {
+            "name": "Käseladen",
+            "tip": "Besuchen Sie einen lokalen 'kaaswinkel' für authentischen holländischen Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jenever Múzeum Boltja",
+            "tip": "A legjobb választék helyi és kézműves jeneverekből."
+          },
+          {
+            "name": "De Walvisch Malombolt",
+            "tip": "Vásároljon hagyományos lisztet és holland süteménykeverékeket."
+          },
+          {
+            "name": "Sajtbolt",
+            "tip": "Látogasson el egy helyi 'kaaswinkel'-be autentikus holland sajtokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului Jenever",
+            "tip": "Cea mai bună selecție de jenever local și artizanal."
+          },
+          {
+            "name": "Magazinul Morii De Walvisch",
+            "tip": "Cumpărați făină tradițională și amestecuri olandeze pentru copt."
+          },
+          {
+            "name": "Magazin de brânzeturi",
+            "tip": "Vizitați un 'kaaswinkel' local pentru brânză olandeză autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jenever Museum Shop",
+            "tip": "The best selection of local and artisanal jenevers."
+          },
+          {
+            "name": "De Walvisch Mill Shop",
+            "tip": "Buy traditional flour and Dutch baking mixes."
+          },
+          {
+            "name": "Cheese Shop",
+            "tip": "Visit a local 'kaaswinkel' for authentic Dutch cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Anlagen am Stadtrand, um teure Parkgebühren im Zentrum zu vermeiden.",
+          "Achten Sie auf die engen Straßen im historischen Zentrum.",
+          "Planen Sie Ihre Route im Voraus, da einige Straßen für den Autoverkehr gesperrt sind.",
+          "Ein Navigationssystem ist unerlässlich, um sich in den Einbahnstraßen zurechtzufinden."
+        ],
+        "hu": [
+          "Használja a város szélén található P+R parkolókat, hogy elkerülje a drága belvárosi parkolási díjakat.",
+          "Vigyázzon a szűk utcákra a történelmi központban.",
+          "Tervezze meg előre az útvonalat, mivel egyes utcák le vannak zárva az autóforgalom elől.",
+          "A navigációs rendszer elengedhetetlen az egyirányú utcákban való tájékozódáshoz."
+        ],
+        "ro": [
+          "Folosiți facilitățile Park and Ride de la periferia orașului pentru a evita taxele scumpe de parcare din centru.",
+          "Fiți atenți la străzile înguste din centrul istoric.",
+          "Planificați-vă ruta în avans, deoarece unele străzi sunt închise traficului auto.",
+          "Un sistem de navigație este esențial pentru a vă descurca pe străzile cu sens unic."
+        ],
+        "en": [
+          "Use Park and Ride facilities on the outskirts to avoid expensive city center parking fees.",
+          "Be cautious of the narrow streets in the historic center.",
+          "Plan your route in advance as some streets are closed to car traffic.",
+          "A navigation system is essential to navigate the one-way streets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Huis te Riviere",
+            "hu": "Huis te Riviere kastélyrom",
+            "ro": "Ruinele castelului Huis te Riviere",
+            "en": "Huis te Riviere Castle Ruins"
+          },
+          "coords": [
+            4.408,
+            51.919
+          ],
+          "category": "castles",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, leicht erreichbar vom Bahnhof Schiedam Centrum.",
+            "hu": "Kezdje a napot itt, könnyen megközelíthető a Schiedam Centrum állomástól.",
+            "ro": "Începeți-vă ziua aici, ușor accesibil de la gara Schiedam Centrum.",
+            "en": "Start your day here, easily accessible from Schiedam Centrum station."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater aan de Schie",
+            "hu": "Theater aan de Schie",
+            "ro": "Teatrul aan de Schie",
+            "en": "Theater aan de Schie"
+          },
+          "coords": [
+            4.4,
+            51.921
+          ],
+          "category": "theatres",
+          "arrive_at": "10:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch den Park führt Sie von den Ruinen zum Theater.",
+            "hu": "Egy séta a parkon keresztül vezet a romoktól a színházig.",
+            "ro": "O plimbare prin parc vă duce de la ruine la teatru.",
+            "en": "A walk through the park takes you from the ruins to the theatre."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote oder St. Janskerk",
+            "hu": "Szent János-templom (Grote Kerk)",
+            "ro": "Biserica Sf. Ioan (Grote Kerk)",
+            "en": "St. John's Church (Grote Kerk)"
+          },
+          "coords": [
+            4.396,
+            51.9175
+          ],
+          "category": "churches",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder eine Straßenbahn ins Herz der Stadt; die Haltestelle ist nur wenige Schritte entfernt.",
+            "hu": "Menjen busszal vagy villamossal a város szívébe; a megálló csak néhány lépésre van.",
+            "ro": "Luați un autobuz sau un tramvai spre inima orașului; stația este la doar câțiva pași.",
+            "en": "Take a bus or tram into the heart of the city; the stop is just steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Jenevermuseum",
+            "hu": "Nemzeti Jenever Múzeum",
+            "ro": "Muzeul Național al Jeneverului",
+            "en": "National Jenever Museum"
+          },
+          "coords": [
+            4.3948,
+            51.916
+          ],
+          "category": "museums",
+          "arrive_at": "11:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Kirchenbesuch ist es nur ein kurzer Spaziergang durch die historischen Gassen.",
+            "hu": "A templomlátogatás után csak egy rövid séta a történelmi utcákon keresztül.",
+            "ro": "După vizitarea bisericii, este doar o scurtă plimbare pe străduțele istorice.",
+            "en": "After visiting the church, it's just a short walk through the historic alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle De Walvisch",
+            "hu": "De Walvisch szélmalom",
+            "ro": "Moara de vânt De Walvisch",
+            "en": "De Walvisch Windmill"
+          },
+          "coords": [
+            4.392,
+            51.9145
+          ],
+          "category": "museums",
+          "arrive_at": "13:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie am Kanal entlang, um diese berühmte Windmühle zu erreichen.",
+            "hu": "Sétáljon a csatorna mentén, hogy elérje ezt a híres szélmalmot.",
+            "ro": "Plimbați-vă de-a lungul canalului pentru a ajunge la această faimoasă moară de vânt.",
+            "en": "Stroll along the canal to reach this famous windmill."
+          }
+        },
+        {
+          "name": {
+            "de": "Havenpark",
+            "hu": "Havenpark",
+            "ro": "Parcul Haven",
+            "en": "Havenpark"
+          },
+          "coords": [
+            4.405,
+            51.915
+          ],
+          "category": "parks",
+          "arrive_at": "13:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um Ihren Tag ausklingen zu lassen, bevor Sie die öffentlichen Verkehrsmittel zurück nehmen.",
+            "hu": "Szép hely a nap befejezéséhez, mielőtt visszamenne a tömegközlekedéssel.",
+            "ro": "Un loc frumos pentru a vă încheia ziua înainte de a lua transportul public înapoi.",
+            "en": "A lovely place to end your day before taking public transport back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die hervorragenden öffentlichen Verkehrsmittel, um Ihren Tag in Schiedam zu beginnen. Vom Bahnhof aus spazieren Sie zu den Ruinen von Huis te Riviere. Eine kurze Bus- oder Straßenbahnfahrt bringt Sie am Vormittag ins Herz der Stadt. Verbringen Sie den Mittag damit, die historischen Sehenswürdigkeiten rund um die Grote Kerk zu Fuß zu erkunden. Der Nachmittag ist einem Spaziergang entlang der Kanäle und Windmühlen gewidmet, der im Havenpark endet. Von hier aus ist es einfach, wieder eine Verbindung zu finden, um Ihre Reise fortzusetzen.",
+        "hu": "Használja ki a kiváló tömegközlekedést, hogy elkezdje a schiedami napját. Az állomástól sétáljon el a Huis te Riviere romjaihoz. Egy rövid busz- vagy villamosút a délelőtt folyamán a város szívébe viszi. Töltse a délt a Grote Kerk körüli történelmi látnivalók gyalogos felfedezésével. A délután a csatornák és szélmalmok menti sétáról szól, amely a Havenparkban ér véget. Innen könnyen talál csatlakozást az utazás folytatásához.",
+        "ro": "Folosiți excelentul transport public pentru a vă începe ziua în Schiedam. De la gară, plimbați-vă până la ruinele Huis te Riviere. O scurtă călătorie cu autobuzul sau tramvaiul vă va duce în inima orașului în timpul dimineții. Petreceți prânzul explorând pe jos atracțiile istorice din jurul Grote Kerk. După-amiaza este dedicată unei plimbări de-a lungul canalelor și morilor de vânt, terminând în Havenpark. De aici este ușor să găsiți o legătură pentru a vă continua călătoria.",
+        "en": "Use the excellent public transport to start your day in Schiedam. From the station, walk to the ruins of Huis te Riviere. A short bus or tram ride takes you into the heart of the city in the morning. Spend midday exploring the historic sights around the Grote Kerk on foot. The afternoon is dedicated to a walk along the canals and windmills, ending in Havenpark. From here, it's easy to find a connection to continue your journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Jenever",
+            "tip": "Probieren Sie einen 'oude' (alten) Jenever für einen komplexeren Geschmack in einer der vielen traditionellen Bars."
+          },
+          {
+            "name": "Haring",
+            "tip": "Wenn die Saison stimmt, probieren Sie einen rohen Hering mit Zwiebeln von einem lokalen Fischstand."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Genießen Sie eine frisch gemachte, warme Stroopwafel auf dem Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jenever",
+            "tip": "Kóstoljon meg egy 'oude' (régi) jenevert egy komplexebb ízért a sok hagyományos bár egyikében."
+          },
+          {
+            "name": "Haring (hering)",
+            "tip": "Ha szezonja van, kóstoljon meg egy nyers heringet hagymával egy helyi halkereskedőtől."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Élvezzen egy frissen készített, meleg stroopwafelt a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jenever",
+            "tip": "Încercați un jenever 'oude' (vechi) pentru o aromă mai complexă la unul dintre numeroasele baruri tradiționale."
+          },
+          {
+            "name": "Hering",
+            "tip": "Dacă este sezon, încercați un hering crud cu ceapă de la o tarabă locală de pește."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Savurați un stroopwafel proaspăt făcut, cald, de la piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jenever",
+            "tip": "Try an 'oude' (old) jenever for a more complex flavour at one of the many traditional bars."
+          },
+          {
+            "name": "Haring (Herring)",
+            "tip": "If it's the right season, try a raw herring with onions from a local fish stall."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Enjoy a freshly made, warm stroopwafel from the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lange Haven",
+            "tip": "Finden Sie eine ruhige Bank entlang des Hauptkanals am späten Nachmittag.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Havenpark",
+            "tip": "Der perfekte Ort, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beginenhof bei der Grote Kerk",
+            "tip": "Ein versteckter, friedlicher Hof im Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lange Haven",
+            "tip": "Keressen egy csendes padot a fő csatorna mentén késő délután.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Havenpark",
+            "tip": "Tökéletes hely a város nyüzsgése elől való menekülésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beginaudvar a Grote Kerk mellett",
+            "tip": "Egy rejtett, békés udvar a városközpontban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lange Haven",
+            "tip": "Găsiți o bancă liniștită de-a lungul canalului principal spre sfârșitul după-amiezii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Havenpark",
+            "tip": "Locul perfect pentru a evada din agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară de lângă Grote Kerk",
+            "tip": "O curte ascunsă și liniștită în centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lange Haven",
+            "tip": "Find a quiet bench along the main canal in the late afternoon.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Havenpark",
+            "tip": "The perfect place to escape the bustle of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Begijnhof near Grote Kerk",
+            "tip": "A hidden, peaceful courtyard in the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Jenevermuseum Shop",
+            "tip": "Die beste Auswahl an lokalen und handwerklichen Jenevern."
+          },
+          {
+            "name": "Molenwinkel De Walvisch",
+            "tip": "Kaufen Sie traditionelles Mehl und holländische Backmischungen."
+          },
+          {
+            "name": "Käseladen",
+            "tip": "Besuchen Sie einen lokalen 'kaaswinkel' für authentischen holländischen Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jenever Múzeum Boltja",
+            "tip": "A legjobb választék helyi és kézműves jeneverekből."
+          },
+          {
+            "name": "De Walvisch Malombolt",
+            "tip": "Vásároljon hagyományos lisztet és holland süteménykeverékeket."
+          },
+          {
+            "name": "Sajtbolt",
+            "tip": "Látogasson el egy helyi 'kaaswinkel'-be autentikus holland sajtokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului Jenever",
+            "tip": "Cea mai bună selecție de jenever local și artizanal."
+          },
+          {
+            "name": "Magazinul Morii De Walvisch",
+            "tip": "Cumpărați făină tradițională și amestecuri olandeze pentru copt."
+          },
+          {
+            "name": "Magazin de brânzeturi",
+            "tip": "Vizitați un 'kaaswinkel' local pentru brânză olandeză autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jenever Museum Shop",
+            "tip": "The best selection of local and artisanal jenevers."
+          },
+          {
+            "name": "De Walvisch Mill Shop",
+            "tip": "Buy traditional flour and Dutch baking mixes."
+          },
+          {
+            "name": "Cheese Shop",
+            "tip": "Visit a local 'kaaswinkel' for authentic Dutch cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine OV-chipkaart oder eine Tageskarte für unbegrenzte Fahrten.",
+          "Planen Sie Ihre Fahrten mit einer App wie 9292, um Echtzeit-Informationen zu erhalten.",
+          "Beachten Sie, dass Busse und Straßenbahnen oft nicht direkt im ältesten Teil des Zentrums fahren.",
+          "Validieren Sie Ihr Ticket beim Ein- und Aussteigen, um Strafen zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon OV-chipkaartot vagy napijegyet a korlátlan utazáshoz.",
+          "Tervezze meg utazásait egy olyan alkalmazással, mint a 9292, hogy valós idejű információkat kapjon.",
+          "Vegye figyelembe, hogy a buszok és villamosok gyakran nem közlekednek közvetlenül a központ legrégebbi részén.",
+          "Érvényesítse a jegyét be- és kiszálláskor a büntetések elkerülése érdekében."
+        ],
+        "ro": [
+          "Cumpărați un OV-chipkaart sau un bilet de o zi pentru călătorii nelimitate.",
+          "Planificați-vă călătoriile folosind o aplicație precum 9292 pentru informații în timp real.",
+          "Rețineți că autobuzele și tramvaiele adesea nu circulă direct în cea mai veche parte a centrului.",
+          "Validați-vă biletul la urcare și coborâre pentru a evita amenzile."
+        ],
+        "en": [
+          "Buy an OV-chipkaart or a day ticket for unlimited travel.",
+          "Plan your trips using an app like 9292 for real-time information.",
+          "Note that buses and trams often do not run directly in the oldest part of the center.",
+          "Validate your ticket when getting on and off to avoid fines."
+        ]
+      }
+    }
+  }
+}

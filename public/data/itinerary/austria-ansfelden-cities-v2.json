@@ -1,0 +1,1484 @@
+{
+  "city_id": "austria-ansfelden-cities-v2",
+  "anchor": {
+    "name": "Ansfelden",
+    "coords": [
+      14.2889,
+      48.2086
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Anton Bruckner Centrum",
+            "hu": "Anton Bruckner Centrum",
+            "ro": "Centrul Anton Bruckner",
+            "en": "Anton Bruckner Centre"
+          },
+          "coords": [
+            14.2881,
+            48.2095
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan im Voraus auf Konzerte oder Veranstaltungen.",
+            "hu": "Nézze meg előre a programfüzetet koncertek vagy események miatt.",
+            "ro": "Verificați programul în avans pentru concerte sau evenimente.",
+            "en": "Check the schedule in advance for any concerts or events."
+          }
+        },
+        {
+          "name": {
+            "de": "Bruckner-Statue",
+            "hu": "Bruckner-szobor",
+            "ro": "Statuia lui Bruckner",
+            "en": "Bruckner Statue"
+          },
+          "coords": [
+            14.2885,
+            48.2088
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:15",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein schnelles Foto, um dem Komponisten zu gedenken.",
+            "hu": "Tökéletes hely egy gyors fotóhoz, megemlékezve a zeneszerzőről.",
+            "ro": "Un loc perfect pentru o fotografie rapidă în memoria compozitorului.",
+            "en": "A perfect spot for a quick photo to commemorate the composer."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Valentin",
+            "hu": "Szent Bálint plébániatemplom",
+            "ro": "Biserica parohială Sf. Valentin",
+            "en": "Parish Church of St. Valentin"
+          },
+          "coords": [
+            14.2892,
+            48.2082
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Orgel, die Bruckner einst spielte.",
+            "hu": "Figyelje meg az orgonát, amelyen egykor Bruckner játszott.",
+            "ro": "Observați orga la care a cântat odată Bruckner.",
+            "en": "Look out for the organ that Bruckner once played."
+          }
+        },
+        {
+          "name": {
+            "de": "Anton Bruckner Geburtshaus",
+            "hu": "Anton Bruckner szülőháza",
+            "ro": "Casa natală Anton Bruckner",
+            "en": "Anton Bruckner's Birthplace"
+          },
+          "coords": [
+            14.2875,
+            48.2075
+          ],
+          "category": "museums",
+          "arrive_at": "11:32",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um tiefere Einblicke in sein Leben zu erhalten.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy mélyebb betekintést nyerjen az életébe.",
+            "ro": "Participați la un tur ghidat pentru a obține o perspectivă mai profundă asupra vieții sale.",
+            "en": "Join a guided tour to get deeper insights into his life."
+          }
+        },
+        {
+          "name": {
+            "de": "Ansfeldner Sagenweg",
+            "hu": "Ansfeldeni Mondák Útja",
+            "ro": "Calea Legendelor din Ansfelden",
+            "en": "Ansfelden Saga Trail"
+          },
+          "coords": [
+            14.2799,
+            48.215
+          ],
+          "category": "natural features",
+          "arrive_at": "13:36",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tragen Sie bequeme Schuhe; der Weg kann uneben sein.",
+            "hu": "Viseljen kényelmes cipőt, az ösvény egyenetlen lehet.",
+            "ro": "Purtați încălțăminte confortabilă; poteca poate fi denivelată.",
+            "en": "Wear comfortable shoes; the trail can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Kremspark",
+            "hu": "Kremspark",
+            "ro": "Parcul Krems",
+            "en": "Kremspark"
+          },
+          "coords": [
+            14.2955,
+            48.2055
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick nach einem langen Spaziergang.",
+            "hu": "Ideális hely egy piknikhez egy hosszú séta után.",
+            "ro": "Un loc ideal pentru un picnic după o plimbare lungă.",
+            "en": "An ideal spot for a picnic after a long walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im kulturellen Herzen von Ansfelden, dem Anton Bruckner Centrum. Der Vormittag ist eine musikalische Wallfahrt, bei der Sie die Statue, die Kirche und das Geburtshaus des Komponisten besuchen. Am Nachmittag tauchen Sie in die lokale Folklore auf dem Sagenweg ein, bevor Sie sich im ruhigen Kremspark entspannen. Der Tag verbindet nahtlos Kultur, Geschichte und Natur und bietet einen tiefen Einblick in das Erbe der Stadt.",
+        "hu": "Kezdje a napot Ansfelden kulturális szívében, az Anton Bruckner Centrumban. A délelőtt egy zenei zarándoklat a zeneszerző szobrának, templomának és szülőházának meglátogatásával. Délután merüljön el a helyi folklórban a Mondák Útján, mielőtt a csendes Kremsparkban pihenne. A nap zökkenőmentesen ötvözi a kultúrát, a történelmet és a természetet, mély betekintést nyújtva a város örökségébe.",
+        "ro": "Începeți ziua în inima culturală a Ansfeldenului, Centrul Anton Bruckner. Dimineața este un pelerinaj muzical, vizitând statuia, biserica și casa natală a compozitorului. După-amiaza, pătrundeți în folclorul local pe Calea Legendelor, înainte de a vă relaxa în liniștitul Parc Krems. Ziua îmbină perfect cultura, istoria și natura, oferind o perspectivă profundă asupra moștenirii orașului.",
+        "en": "Start your day in the cultural heart of Ansfelden at the Anton Bruckner Centre. The morning is a musical pilgrimage, visiting the composer's statue, church, and birthplace. In the afternoon, immerse yourself in local folklore on the Saga Trail before relaxing in the tranquil Kremspark. The day seamlessly blends culture, history, and nature, offering a deep dive into the town's heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mostheuriger",
+            "tip": "Probieren Sie den lokalen Apfelwein (Most) und eine traditionelle Jause (Brotzeit)."
+          },
+          {
+            "name": "Gasthof zum Goldenen Schiff",
+            "tip": "Ein klassisches österreichisches Gasthaus, das für seine Knödelgerichte bekannt ist."
+          },
+          {
+            "name": "Linzer Torte",
+            "tip": "Als Dessert oder zum Kaffee sollten Sie diese berühmte oberösterreichische Spezialität probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mostheuriger (almaborozó)",
+            "tip": "Kóstolja meg a helyi almabort (Most) és egy hagyományos uzsonnát (Jause)."
+          },
+          {
+            "name": "Gasthof zum Goldenen Schiff",
+            "tip": "Klasszikus osztrák vendéglő, amely gombócételeiről ismert."
+          },
+          {
+            "name": "Linzer torta",
+            "tip": "Desszertként vagy kávé mellé kóstolja meg ezt a híres felső-ausztriai specialitást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mostheuriger (Tavernă de cidru)",
+            "tip": "Încercați cidrul local (Most) și o gustare tradițională (Jause)."
+          },
+          {
+            "name": "Gasthof zum Goldenen Schiff",
+            "tip": "Un han austriac clasic, renumit pentru preparatele sale cu găluște (Knödel)."
+          },
+          {
+            "name": "Tort Linzer",
+            "tip": "Ca desert sau cu cafea, încercați această faimoasă specialitate din Austria Superioară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mostheuriger (Cider Tavern)",
+            "tip": "Try the local cider (Most) and a traditional snack platter (Jause)."
+          },
+          {
+            "name": "Gasthof zum Goldenen Schiff",
+            "tip": "A classic Austrian inn known for its dumpling dishes (Knödel)."
+          },
+          {
+            "name": "Linzer Torte",
+            "tip": "For dessert or with coffee, be sure to try this famous Upper Austrian specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kremspark",
+            "tip": "Finden Sie eine ruhige Bank am Fluss Krems.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ansfeldner Sagenweg",
+            "tip": "Der Waldweg bietet viele friedliche Abschnitte.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedhof bei der Pfarrkirche",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kremspark",
+            "tip": "Keressen egy csendes padot a Krems folyó partján.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ansfeldeni Mondák Útja",
+            "tip": "Az erdei ösvény számos békés szakaszt kínál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plébániatemplom melletti temető",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Krems",
+            "tip": "Găsiți o bancă liniștită lângă râul Krems.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Calea Legendelor din Ansfelden",
+            "tip": "Poteca prin pădure oferă multe secțiuni pașnice.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul de lângă biserica parohială",
+            "tip": "Un loc de liniște și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kremspark",
+            "tip": "Find a quiet bench by the River Krems.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ansfelden Saga Trail",
+            "tip": "The forest path offers many peaceful sections.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cemetery at the Parish Church",
+            "tip": "A place of silence and contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop im Bruckner-Geburtshaus",
+            "tip": "Kaufen Sie Souvenirs mit Bezug zu Bruckner, wie CDs oder Bücher."
+          },
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Halten Sie Ausschau nach regionalen Produkten wie Honig, Käse und Schnaps."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumbolt a Bruckner-szülőházban",
+            "tip": "Vásároljon Brucknerhez kapcsolódó emléktárgyakat, például CD-ket vagy könyveket."
+          },
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Keresse a regionális termékeket, mint a méz, sajt és pálinka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului la Casa natală Bruckner",
+            "tip": "Cumpărați suveniruri legate de Bruckner, cum ar fi CD-uri sau cărți."
+          },
+          {
+            "name": "Piața locală a fermierilor",
+            "tip": "Căutați produse regionale precum miere, brânză și schnapps."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum shop at Bruckner's Birthplace",
+            "tip": "Buy souvenirs related to Bruckner, such as CDs or books."
+          },
+          {
+            "name": "Local Farmers' Market",
+            "tip": "Look for regional products like honey, cheese, and schnapps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie sehr bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Prüfen Sie die Öffnungszeiten der Museen, insbesondere des Geburtshauses, da diese variieren können.",
+          "Das Mittagessen in einem traditionellen Gasthof ist ein Muss."
+        ],
+        "hu": [
+          "Viseljen nagyon kényelmes cipőt, mivel a nap nagy részében gyalogolni fog.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, különösen a szülőházét, mert változhat.",
+          "Az ebéd egy hagyományos vendéglőben kötelező."
+        ],
+        "ro": [
+          "Purtați pantofi foarte confortabili, deoarece veți merge pe jos în cea mai mare parte a zilei.",
+          "Luați cu dumneavoastră o sticlă de apă reutilizabilă.",
+          "Verificați orele de deschidere ale muzeelor, în special ale casei natale, deoarece acestea pot varia.",
+          "Prânzul la un han tradițional este o necesitate."
+        ],
+        "en": [
+          "Wear very comfortable shoes as you'll be on your feet for most of the day.",
+          "Bring a reusable water bottle with you.",
+          "Check the opening hours for the museums, especially the birthplace, as they can vary.",
+          "Lunch at a traditional Gasthof is a must-do."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Ritzlhof",
+            "hu": "Ritzlhof kastély",
+            "ro": "Castelul Ritzlhof",
+            "en": "Ritzlhof Castle"
+          },
+          "coords": [
+            14.2689,
+            48.2286
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die Gärten sind besonders schön im späten Frühling.",
+            "hu": "A kertek különösen szépek késő tavasszal.",
+            "ro": "Grădinile sunt deosebit de frumoase la sfârșitul primăverii.",
+            "en": "The gardens are particularly beautiful in late spring."
+          }
+        },
+        {
+          "name": {
+            "de": "Ansfeldner Sagenweg",
+            "hu": "Ansfeldeni Mondák Útja",
+            "ro": "Calea Legendelor din Ansfelden",
+            "en": "Ansfelden Saga Trail"
+          },
+          "coords": [
+            14.2799,
+            48.215
+          ],
+          "category": "natural features",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang des Weges ab.",
+            "hu": "Zárja le a kerékpárját az ösvény bejáratánál.",
+            "ro": "Legați-vă bicicleta la intrarea pe potecă.",
+            "en": "Lock your bike at the entrance to the trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Anton Bruckner Centrum",
+            "hu": "Anton Bruckner Centrum",
+            "ro": "Centrul Anton Bruckner",
+            "en": "Anton Bruckner Centre"
+          },
+          "coords": [
+            14.2881,
+            48.2095
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:55",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein guter Ort für eine kurze Pause und um Wasser aufzufüllen.",
+            "hu": "Jó hely egy rövid szünetre és a vizespalack feltöltésére.",
+            "ro": "Un loc bun pentru o pauză scurtă și pentru a vă umple sticla cu apă.",
+            "en": "A good place for a quick break and to refill water."
+          }
+        },
+        {
+          "name": {
+            "de": "Anton Bruckner Geburtshaus",
+            "hu": "Anton Bruckner szülőháza",
+            "ro": "Casa natală Anton Bruckner",
+            "en": "Anton Bruckner's Birthplace"
+          },
+          "coords": [
+            14.2875,
+            48.2075
+          ],
+          "category": "museums",
+          "arrive_at": "12:31",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Planen Sie hier Ihre Mittagspause ein.",
+            "hu": "Tervezze ide az ebédszünetet.",
+            "ro": "Planificați-vă pauza de prânz aici.",
+            "en": "Plan your lunch break around here."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Valentin",
+            "hu": "Szent Bálint plébániatemplom",
+            "ro": "Biserica parohială Sf. Valentin",
+            "en": "Parish Church of St. Valentin"
+          },
+          "coords": [
+            14.2892,
+            48.2082
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe im Inneren nach der Radtour.",
+            "hu": "Élvezze a benti csendet a kerékpártúra után.",
+            "ro": "Bucurați-vă de liniștea din interior după plimbarea cu bicicleta.",
+            "en": "Enjoy the quiet inside after the bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Glockenmuseum",
+            "hu": "Harangmúzeum",
+            "ro": "Muzeul Clopotelor",
+            "en": "Bell Museum"
+          },
+          "coords": [
+            14.2988,
+            48.2033
+          ],
+          "category": "museums",
+          "arrive_at": "15:05",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Ein einzigartiges Museum, das oft übersehen wird. Sehr zu empfehlen!",
+            "hu": "Egyedi múzeum, amelyet gyakran figyelmen kívül hagynak. Nagyon ajánlott!",
+            "ro": "Un muzeu unic, adesea trecut cu vederea. Foarte recomandat!",
+            "en": "A unique museum that's often overlooked. Highly recommended!"
+          }
+        },
+        {
+          "name": {
+            "de": "Kremspark",
+            "hu": "Kremspark",
+            "ro": "Parcul Krems",
+            "en": "Kremspark"
+          },
+          "coords": [
+            14.2955,
+            48.2055
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss für eine Radtour, entspannen Sie sich am Fluss.",
+            "hu": "Tökéletes befejezése egy kerékpártúrának, pihenjen a folyóparton.",
+            "ro": "Finalul perfect pentru un tur cu bicicleta, relaxați-vă lângă râu.",
+            "en": "The perfect end to a bike tour, relax by the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour durch Ansfelden bietet eine breitere Perspektive. Beginnen Sie am eleganten Schloss Ritzlhof und fahren Sie dann zum mythischen Sagenweg. Der Mittag ist Bruckners Erbe gewidmet, mit Besuchen im Centrum, seinem Geburtshaus und der Kirche. Beenden Sie Ihre Tour mit dem faszinierenden Glockenmuseum und einer wohlverdienten Pause im Kremspark, während Sie die abwechslungsreiche Landschaft und die Radwege genießen.",
+        "hu": "Az ansfeldeni kerékpártúra szélesebb perspektívát kínál. Induljon az elegáns Ritzlhof kastélytól, majd tekerjen a misztikus Mondák Útjához. A dél Bruckner örökségének van szentelve, látogatással a Centrumban, a szülőházában és a templomban. Fejezze be a túrát a lenyűgöző Harangmúzeummal és egy jól megérdemelt pihenővel a Kremsparkban, élvezve a változatos tájat és a kerékpárutakat.",
+        "ro": "Un tur cu bicicleta prin Ansfelden oferă o perspectivă mai largă. Începeți de la elegantul Castel Ritzlhof, apoi pedalați spre mitica Cale a Legendelor. Miezul zilei este dedicat moștenirii lui Bruckner, cu vizite la Centru, casa sa natală și biserică. Încheiați turul cu fascinantul Muzeu al Clopotelor și o pauză binemeritată în Parcul Krems, bucurându-vă de peisajul variat și de pistele de biciclete.",
+        "en": "A bike tour of Ansfelden offers a broader perspective. Start at the elegant Ritzlhof Castle, then pedal to the mythical Saga Trail. Midday is dedicated to Bruckner's legacy, with visits to the Centre, his birthplace, and the church. End your tour at the fascinating Bell Museum and a well-deserved rest in Kremspark, enjoying the varied landscape and bike paths."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mostheuriger",
+            "tip": "Probieren Sie den lokalen Apfelwein (Most) und eine traditionelle Jause (Brotzeit)."
+          },
+          {
+            "name": "Gasthof zum Goldenen Schiff",
+            "tip": "Ein klassisches österreichisches Gasthaus, das für seine Knödelgerichte bekannt ist."
+          },
+          {
+            "name": "Linzer Torte",
+            "tip": "Als Dessert oder zum Kaffee sollten Sie diese berühmte oberösterreichische Spezialität probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mostheuriger (almaborozó)",
+            "tip": "Kóstolja meg a helyi almabort (Most) és egy hagyományos uzsonnát (Jause)."
+          },
+          {
+            "name": "Gasthof zum Goldenen Schiff",
+            "tip": "Klasszikus osztrák vendéglő, amely gombócételeiről ismert."
+          },
+          {
+            "name": "Linzer torta",
+            "tip": "Desszertként vagy kávé mellé kóstolja meg ezt a híres felső-ausztriai specialitást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mostheuriger (Tavernă de cidru)",
+            "tip": "Încercați cidrul local (Most) și o gustare tradițională (Jause)."
+          },
+          {
+            "name": "Gasthof zum Goldenen Schiff",
+            "tip": "Un han austriac clasic, renumit pentru preparatele sale cu găluște (Knödel)."
+          },
+          {
+            "name": "Tort Linzer",
+            "tip": "Ca desert sau cu cafea, încercați această faimoasă specialitate din Austria Superioară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mostheuriger (Cider Tavern)",
+            "tip": "Try the local cider (Most) and a traditional snack platter (Jause)."
+          },
+          {
+            "name": "Gasthof zum Goldenen Schiff",
+            "tip": "A classic Austrian inn known for its dumpling dishes (Knödel)."
+          },
+          {
+            "name": "Linzer Torte",
+            "tip": "For dessert or with coffee, be sure to try this famous Upper Austrian specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Schloss Ritzlhof",
+            "tip": "Finden Sie einen ruhigen Platz inmitten der Blumenbeete.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Entlang des Kremsflusses",
+            "tip": "Es gibt viele friedliche Stellen entlang des Radweges.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ansfeldner Sagenweg",
+            "tip": "Der Wald bietet eine abgeschiedene Atmosphäre.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ritzlhof kastély kertjei",
+            "tip": "Keressen egy csendes helyet a virágágyások között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Krems folyó mentén",
+            "tip": "Számos békés hely található a kerékpárút mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ansfeldeni Mondák Útja",
+            "tip": "Az erdő elzárt hangulatot kínál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castelului Ritzlhof",
+            "tip": "Găsiți un loc liniștit printre straturile de flori.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "De-a lungul râului Krems",
+            "tip": "Există multe locuri pașnice de-a lungul pistei de biciclete.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Calea Legendelor din Ansfelden",
+            "tip": "Pădurea oferă o atmosferă retrasă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Ritzlhof Castle",
+            "tip": "Find a quiet spot among the flowerbeds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Along the Krems River",
+            "tip": "There are many peaceful spots along the bike path.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ansfelden Saga Trail",
+            "tip": "The forest provides a secluded atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop im Bruckner-Geburtshaus",
+            "tip": "Kaufen Sie Souvenirs mit Bezug zu Bruckner, wie CDs oder Bücher."
+          },
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Halten Sie Ausschau nach regionalen Produkten wie Honig, Käse und Schnaps."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumbolt a Bruckner-szülőházban",
+            "tip": "Vásároljon Brucknerhez kapcsolódó emléktárgyakat, például CD-ket vagy könyveket."
+          },
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Keresse a regionális termékeket, mint a méz, sajt és pálinka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului la Casa natală Bruckner",
+            "tip": "Cumpărați suveniruri legate de Bruckner, cum ar fi CD-uri sau cărți."
+          },
+          {
+            "name": "Piața locală a fermierilor",
+            "tip": "Căutați produse regionale precum miere, brânză și schnapps."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum shop at Bruckner's Birthplace",
+            "tip": "Buy souvenirs related to Bruckner, such as CDs or books."
+          },
+          {
+            "name": "Local Farmers' Market",
+            "tip": "Look for regional products like honey, cheese, and schnapps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten oder bringen Sie ein Fahrrad mit einem guten Schloss.",
+          "Die Radwege sind gut ausgebaut, aber eine Karte oder GPS ist hilfreich.",
+          "Nehmen Sie Snacks und Wasser mit, besonders für die Fahrt zum Schloss.",
+          "Ein Helm wird für die Sicherheit dringend empfohlen."
+        ],
+        "hu": [
+          "Béreljen vagy hozzon egy biciklit jó lakattal.",
+          "A kerékpárutak jól karbantartottak, de egy térkép vagy GPS hasznos.",
+          "Vigyen magával rágcsálnivalót és vizet, különösen a kastélyhoz vezető útra.",
+          "A sisak használata erősen ajánlott a biztonság érdekében."
+        ],
+        "ro": [
+          "Închiriați sau aduceți o bicicletă cu un lacăt bun.",
+          "Pistele de biciclete sunt bine întreținute, dar o hartă sau un GPS este de ajutor.",
+          "Luați gustări și apă, mai ales pentru drumul spre castel.",
+          "O cască este puternic recomandată pentru siguranță."
+        ],
+        "en": [
+          "Rent or bring a bike with a good lock.",
+          "The bike paths are well-maintained, but a map or GPS is helpful.",
+          "Pack snacks and water, especially for the ride to the castle.",
+          "A helmet is strongly recommended for safety."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 9.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Ritzlhof",
+            "hu": "Ritzlhof kastély",
+            "ro": "Castelul Ritzlhof",
+            "en": "Ritzlhof Castle"
+          },
+          "coords": [
+            14.2689,
+            48.2286
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und genießen Sie die Gärten, bevor Sie ins Zentrum fahren.",
+            "hu": "Parkoljon le itt, és élvezze a kerteket, mielőtt a központba hajt.",
+            "ro": "Parcați aici și bucurați-vă de grădini înainte de a merge în centru.",
+            "en": "Park here and enjoy the gardens before driving into the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum Ansfelden",
+            "hu": "Parkoló Ansfelden központjában",
+            "ro": "Parcare Centru Ansfelden",
+            "en": "Ansfelden Centre Car Park"
+          },
+          "coords": [
+            14.288,
+            48.209
+          ],
+          "category": "transport",
+          "arrive_at": "10:30",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Vormittags. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "Parkoljon le itt a délelőtt hátralévő részére. Innen minden gyalog elérhető.",
+            "ro": "Parcați aici pentru restul dimineții. Totul este accesibil pe jos de aici.",
+            "en": "Park here for the rest of the morning. Everything is within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Anton Bruckner Centrum",
+            "hu": "Anton Bruckner Centrum",
+            "ro": "Centrul Anton Bruckner",
+            "en": "Anton Bruckner Centre"
+          },
+          "coords": [
+            14.2881,
+            48.2095
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:32",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der erste Halt Ihres Spaziergangs.",
+            "hu": "A sétája első állomása.",
+            "ro": "Prima oprire a plimbării dumneavoastră.",
+            "en": "The first stop on your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Valentin & Bruckner-Statue",
+            "hu": "Szt. Bálint plébániatemplom és Bruckner-szobor",
+            "ro": "Biserica Sf. Valentin și Statuia lui Bruckner",
+            "en": "St. Valentin Church & Bruckner Statue"
+          },
+          "coords": [
+            14.2888,
+            48.2085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:07",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Statue befindet sich direkt vor der Kirche.",
+            "hu": "A szobor közvetlenül a templom előtt található.",
+            "ro": "Statuia este chiar în fața bisericii.",
+            "en": "The statue is located right in front of the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Anton Bruckner Geburtshaus",
+            "hu": "Anton Bruckner szülőháza",
+            "ro": "Casa natală Anton Bruckner",
+            "en": "Anton Bruckner's Birthplace"
+          },
+          "coords": [
+            14.2875,
+            48.2075
+          ],
+          "category": "museums",
+          "arrive_at": "12:02",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Planen Sie hier Ihre Mittagspause in einem nahegelegenen Gasthof ein.",
+            "hu": "Tervezzen itt ebédszünetet egy közeli vendéglőben.",
+            "ro": "Planificați-vă pauza de prânz aici la un han din apropiere.",
+            "en": "Plan your lunch break here at a nearby inn."
+          }
+        },
+        {
+          "name": {
+            "de": "Kremspark",
+            "hu": "Kremspark",
+            "ro": "Parcul Krems",
+            "en": "Kremspark"
+          },
+          "coords": [
+            14.2955,
+            48.2055
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park für einen entspannten Nachmittag.",
+            "hu": "Hajtson a parkba egy pihentető délutánért.",
+            "ro": "Conduceți până la parc pentru o după-amiază relaxantă.",
+            "en": "Drive to the park for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Glockenmuseum",
+            "hu": "Harangmúzeum",
+            "ro": "Muzeul Clopotelor",
+            "en": "Bell Museum"
+          },
+          "coords": [
+            14.2988,
+            48.2033
+          ],
+          "category": "museums",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Fahrt zum Abschluss des Tages mit diesem einzigartigen Fund.",
+            "hu": "Egy rövid autóút a nap lezárásaként ezzel az egyedi lelettel.",
+            "ro": "O scurtă călătorie cu mașina pentru a încheia ziua cu această descoperire unică.",
+            "en": "A short drive to end the day with this unique find."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die Umgebung von Ansfelden erkunden. Beginnen Sie am Schloss Ritzlhof außerhalb der Stadt. Fahren Sie dann ins Zentrum, parken Sie und machen Sie einen Spaziergang zu den Bruckner-Stätten: dem Centrum, der Kirche und seinem Geburtshaus. Nach dem Mittagessen fahren Sie zum Kremspark für einen entspannten Nachmittag am Fluss, gefolgt von einem Besuch im einzigartigen Glockenmuseum. Dieser Plan kombiniert Sightseeing mit dem Komfort des Fahrens zwischen den Hauptclustern.",
+        "hu": "Az autóval felfedezheti Ansfelden tágabb környezetét. Kezdje a városon kívüli Ritzlhof kastélynál. Ezután hajtson be a központba, parkoljon le, és tegyen egy gyalogos túrát a Bruckner-helyszínekhez: a Centrumhoz, a templomhoz és a szülőházához. Ebéd után hajtson a Kremsparkba egy pihentető folyóparti délutánra, majd látogasson el az egyedülálló Harangmúzeumba. Ez a terv ötvözi a városnézést a főbb klaszterek közötti autózás kényelmével.",
+        "ro": "Cu mașina, puteți explora împrejurimile mai largi ale Ansfeldenului. Începeți la Castelul Ritzlhof, în afara orașului. Apoi, conduceți în centru, parcați și faceți un tur pietonal al siturilor Bruckner: Centrul, biserica și casa sa natală. După prânz, conduceți la Parcul Krems pentru o după-amiază relaxantă pe malul râului, urmată de o vizită la unicul Muzeu al Clopotelor. Acest plan combină vizitarea obiectivelor turistice cu confortul condusului între clusterele principale.",
+        "en": "With a car, you can explore the wider surroundings of Ansfelden. Start at Ritzlhof Castle outside the town. Then, drive to the center, park, and do a walking tour of the Bruckner sites: the Centre, the church, and his birthplace. After lunch, drive to Kremspark for a relaxing afternoon by the river, followed by a visit to the unique Bell Museum. This plan combines sightseeing with the convenience of driving between the main clusters."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mostheuriger",
+            "tip": "Probieren Sie den lokalen Apfelwein (Most) und eine traditionelle Jause (Brotzeit)."
+          },
+          {
+            "name": "Gasthof zum Goldenen Schiff",
+            "tip": "Ein klassisches österreichisches Gasthaus, das für seine Knödelgerichte bekannt ist."
+          },
+          {
+            "name": "Linzer Torte",
+            "tip": "Als Dessert oder zum Kaffee sollten Sie diese berühmte oberösterreichische Spezialität probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mostheuriger (almaborozó)",
+            "tip": "Kóstolja meg a helyi almabort (Most) és egy hagyományos uzsonnát (Jause)."
+          },
+          {
+            "name": "Gasthof zum Goldenen Schiff",
+            "tip": "Klasszikus osztrák vendéglő, amely gombócételeiről ismert."
+          },
+          {
+            "name": "Linzer torta",
+            "tip": "Desszertként vagy kávé mellé kóstolja meg ezt a híres felső-ausztriai specialitást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mostheuriger (Tavernă de cidru)",
+            "tip": "Încercați cidrul local (Most) și o gustare tradițională (Jause)."
+          },
+          {
+            "name": "Gasthof zum Goldenen Schiff",
+            "tip": "Un han austriac clasic, renumit pentru preparatele sale cu găluște (Knödel)."
+          },
+          {
+            "name": "Tort Linzer",
+            "tip": "Ca desert sau cu cafea, încercați această faimoasă specialitate din Austria Superioară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mostheuriger (Cider Tavern)",
+            "tip": "Try the local cider (Most) and a traditional snack platter (Jause)."
+          },
+          {
+            "name": "Gasthof zum Goldenen Schiff",
+            "tip": "A classic Austrian inn known for its dumpling dishes (Knödel)."
+          },
+          {
+            "name": "Linzer Torte",
+            "tip": "For dessert or with coffee, be sure to try this famous Upper Austrian specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Schloss Ritzlhof",
+            "tip": "Ein ruhiger Start in den Tag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kremspark",
+            "tip": "Ideal für eine Pause am Nachmittag.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ansfeldner Sagenweg (mit dem Auto erreichbar)",
+            "tip": "Fahren Sie zum Ausgangspunkt für einen kurzen, ruhigen Spaziergang.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ritzlhof kastély kertjei",
+            "tip": "A nap csendes kezdete.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kremspark",
+            "tip": "Ideális egy délutáni szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ansfeldeni Mondák Útja (autóval elérhető)",
+            "tip": "Hajtson a kiindulóponthoz egy rövid, csendes sétára.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castelului Ritzlhof",
+            "tip": "Un început liniștit de zi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Krems",
+            "tip": "Ideal pentru o pauză de după-amiază.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Calea Legendelor (accesibilă cu mașina)",
+            "tip": "Conduceți până la punctul de plecare pentru o scurtă plimbare liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Ritzlhof Castle",
+            "tip": "A quiet start to the day.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kremspark",
+            "tip": "Ideal for an afternoon break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ansfelden Saga Trail (accessible by car)",
+            "tip": "Drive to the trailhead for a short, quiet walk.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop im Bruckner-Geburtshaus",
+            "tip": "Kaufen Sie Souvenirs mit Bezug zu Bruckner, wie CDs oder Bücher."
+          },
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Suchen Sie nach Bauernhöfen, die lokale Produkte direkt verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumbolt a Bruckner-szülőházban",
+            "tip": "Vásároljon Brucknerhez kapcsolódó emléktárgyakat, például CD-ket vagy könyveket."
+          },
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Keressen olyan gazdaságokat, amelyek közvetlenül helyi termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului la Casa natală Bruckner",
+            "tip": "Cumpărați suveniruri legate de Bruckner, cum ar fi CD-uri sau cărți."
+          },
+          {
+            "name": "Magazine de fermă în zonă",
+            "tip": "Căutați ferme care vând produse locale direct."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum shop at Bruckner's Birthplace",
+            "tip": "Buy souvenirs related to Bruckner, such as CDs or books."
+          },
+          {
+            "name": "Farm shops in the area",
+            "tip": "Look for farms selling local produce directly."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkmöglichkeiten und -gebühren im Stadtzentrum.",
+          "Ein GPS ist nützlich, um zwischen den Standorten zu navigieren.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, obwohl dieser in Ansfelden normalerweise gering ist.",
+          "Kombinieren Sie Ihren Besuch mit einem Ausflug in die nahe gelegene Stadt Linz."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási lehetőségeket és díjakat a városközpontban.",
+          "A GPS hasznos a helyszínek közötti navigáláshoz.",
+          "Tervezzen plusz időt a forgalomra, bár Ansfeldenben általában csekély.",
+          "Kombinálja a látogatást egy kirándulással a közeli Linz városába."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele în centrul orașului.",
+          "Un GPS este util pentru a naviga între locații.",
+          "Planificați timp suplimentar pentru trafic, deși de obicei este redus în Ansfelden.",
+          "Combinați vizita cu o excursie în orașul din apropiere, Linz."
+        ],
+        "en": [
+          "Check parking options and fees in the town center.",
+          "A GPS is useful for navigating between the sites.",
+          "Plan for extra time for traffic, although it's usually light in Ansfelden.",
+          "Combine your visit with a trip to the nearby city of Linz."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Ansfelden Zentrum",
+            "hu": "Buszmegálló, Ansfelden központ",
+            "ro": "Stație de autobuz Ansfelden Centru",
+            "en": "Ansfelden Centre Bus Stop"
+          },
+          "coords": [
+            14.2882,
+            48.2096
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, im Herzen der Stadt.",
+            "hu": "Kezdje a napot itt, a város szívében.",
+            "ro": "Începeți ziua aici, în inima orașului.",
+            "en": "Start your day here, in the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Anton Bruckner Centrum & Statue",
+            "hu": "Anton Bruckner Centrum és szobor",
+            "ro": "Centrul Anton Bruckner și Statuia",
+            "en": "Anton Bruckner Centre & Statue"
+          },
+          "coords": [
+            14.2881,
+            48.2095
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:03",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația de autobuz.",
+            "en": "A short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Anton Bruckner Geburtshaus",
+            "hu": "Anton Bruckner szülőháza",
+            "ro": "Casa natală Anton Bruckner",
+            "en": "Anton Bruckner's Birthplace"
+          },
+          "coords": [
+            14.2875,
+            48.2075
+          ],
+          "category": "museums",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Hauptziel Ihres Vormittags.",
+            "hu": "A délelőtt fő célpontja.",
+            "ro": "Destinația principală a dimineții dumneavoastră.",
+            "en": "The main destination of your morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Valentin",
+            "hu": "Szent Bálint plébániatemplom",
+            "ro": "Biserica parohială Sf. Valentin",
+            "en": "Parish Church of St. Valentin"
+          },
+          "coords": [
+            14.2892,
+            48.2082
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehen Sie nach dem Museum hierher, um einen Moment der Ruhe zu finden.",
+            "hu": "A múzeum után térjen be ide egy pillanatnyi csendért.",
+            "ro": "Mergeți aici după muzeu pentru un moment de liniște.",
+            "en": "Head here after the museum for a moment of quiet."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Kremspark",
+            "hu": "Kremspark megálló",
+            "ro": "Stația Kremspark",
+            "en": "Kremspark Stop"
+          },
+          "coords": [
+            14.295,
+            48.206
+          ],
+          "category": "transport",
+          "arrive_at": "13:11",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Park und genießen Sie Ihr Mittagessen.",
+            "hu": "Menjen busszal a parkba és ebédeljen meg.",
+            "ro": "Luați un autobuz spre parc și bucurați-vă de prânz.",
+            "en": "Take a bus to the park and enjoy your lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Ritzlhof",
+            "hu": "Ritzlhof kastély",
+            "ro": "Castelul Ritzlhof",
+            "en": "Ritzlhof Castle"
+          },
+          "coords": [
+            14.2689,
+            48.2286
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:41",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein Bus bringt Sie in die Nähe des Schlosses für Ihren letzten Besuch.",
+            "hu": "Egy busz elviszi a kastély közelébe az utolsó látogatáshoz.",
+            "ro": "Un autobuz vă va duce în apropierea castelului pentru ultima vizită.",
+            "en": "A bus will take you near the castle for your final visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Ansfelden mit öffentlichen Verkehrsmitteln. Beginnen Sie im Zentrum und spazieren Sie zu den wichtigsten Bruckner-Stätten: dem Centrum, seinem Geburtshaus und der Kirche. Nehmen Sie nach dem Mittagessen einen Bus zum Kremspark für eine entspannte Pause. Eine weitere Busfahrt bringt Sie zum prächtigen Schloss Ritzlhof, wo Sie den Tag ausklingen lassen können. Diese Route nutzt Busse, um die Lücken zwischen den fußläufigen Clustern zu schließen.",
+        "hu": "Fedezze fel Ansfeldent tömegközlekedéssel. Kezdje a központban, és sétáljon el a legfontosabb Bruckner-helyszínekhez: a Centrumhoz, a szülőházához és a templomhoz. Ebéd után buszozzon el a Kremsparkba egy pihentető szünetre. Egy másik buszjárat elviszi a csodálatos Ritzlhof kastélyhoz, ahol befejezheti a napot. Ez az útvonal buszokat használ a gyalogos klaszterek közötti távolságok áthidalására.",
+        "ro": "Explorați Ansfelden folosind transportul public. Începeți din centru și plimbați-vă pe la principalele situri Bruckner: Centrul, casa sa natală și biserica. După prânz, luați un autobuz spre Parcul Krems pentru o pauză relaxantă. O altă călătorie cu autobuzul vă va duce la splendidul Castel Ritzlhof pentru a încheia ziua. Acest traseu folosește autobuzele pentru a acoperi distanțele dintre clusterele pietonale.",
+        "en": "Explore Ansfelden using public transport. Start in the center and walk to the key Bruckner sites: the Centre, his birthplace, and the church. After lunch, take a bus to Kremspark for a relaxing break. Another bus ride will take you to the splendid Ritzlhof Castle to finish the day. This itinerary uses buses to bridge the gaps between walkable clusters."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mostheuriger",
+            "tip": "Probieren Sie den lokalen Apfelwein (Most) und eine traditionelle Jause (Brotzeit)."
+          },
+          {
+            "name": "Gasthof zum Goldenen Schiff",
+            "tip": "Ein klassisches österreichisches Gasthaus, das für seine Knödelgerichte bekannt ist."
+          },
+          {
+            "name": "Linzer Torte",
+            "tip": "Als Dessert oder zum Kaffee sollten Sie diese berühmte oberösterreichische Spezialität probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mostheuriger (almaborozó)",
+            "tip": "Kóstolja meg a helyi almabort (Most) és egy hagyományos uzsonnát (Jause)."
+          },
+          {
+            "name": "Gasthof zum Goldenen Schiff",
+            "tip": "Klasszikus osztrák vendéglő, amely gombócételeiről ismert."
+          },
+          {
+            "name": "Linzer torta",
+            "tip": "Desszertként vagy kávé mellé kóstolja meg ezt a híres felső-ausztriai specialitást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mostheuriger (Tavernă de cidru)",
+            "tip": "Încercați cidrul local (Most) și o gustare tradițională (Jause)."
+          },
+          {
+            "name": "Gasthof zum Goldenen Schiff",
+            "tip": "Un han austriac clasic, renumit pentru preparatele sale cu găluște (Knödel)."
+          },
+          {
+            "name": "Tort Linzer",
+            "tip": "Ca desert sau cu cafea, încercați această faimoasă specialitate din Austria Superioară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mostheuriger (Cider Tavern)",
+            "tip": "Try the local cider (Most) and a traditional snack platter (Jause)."
+          },
+          {
+            "name": "Gasthof zum Goldenen Schiff",
+            "tip": "A classic Austrian inn known for its dumpling dishes (Knödel)."
+          },
+          {
+            "name": "Linzer Torte",
+            "tip": "For dessert or with coffee, be sure to try this famous Upper Austrian specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kremspark",
+            "tip": "Leicht mit dem Bus zu erreichen für eine ruhige Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten von Schloss Ritzlhof",
+            "tip": "Ein friedlicher Abschluss des Tages.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inneres der Pfarrkirche",
+            "tip": "Ein ruhiger Ort im Zentrum der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kremspark",
+            "tip": "Könnyen elérhető busszal egy csendes szünetre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ritzlhof kastély kertjei",
+            "tip": "A nap békés lezárása.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plébániatemplom belseje",
+            "tip": "Csendes hely a város központjában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Krems",
+            "tip": "Ușor accesibil cu autobuzul pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Castelului Ritzlhof",
+            "tip": "Un final pașnic al zilei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Interiorul bisericii parohiale",
+            "tip": "Un spațiu liniștit în centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kremspark",
+            "tip": "Easily reachable by bus for a quiet break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Ritzlhof Castle",
+            "tip": "A peaceful end to the day.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inside the Parish Church",
+            "tip": "A quiet space in the center of town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop im Bruckner-Geburtshaus",
+            "tip": "Kaufen Sie Souvenirs mit Bezug zu Bruckner, wie CDs oder Bücher."
+          },
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Halten Sie Ausschau nach regionalen Produkten wie Honig, Käse und Schnaps."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumbolt a Bruckner-szülőházban",
+            "tip": "Vásároljon Brucknerhez kapcsolódó emléktárgyakat, például CD-ket vagy könyveket."
+          },
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Keresse a regionális termékeket, mint a méz, sajt és pálinka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului la Casa natală Bruckner",
+            "tip": "Cumpărați suveniruri legate de Bruckner, cum ar fi CD-uri sau cărți."
+          },
+          {
+            "name": "Piața locală a fermierilor",
+            "tip": "Căutați produse regionale precum miere, brânză și schnapps."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum shop at Bruckner's Birthplace",
+            "tip": "Buy souvenirs related to Bruckner, such as CDs or books."
+          },
+          {
+            "name": "Local Farmers' Market",
+            "tip": "Look for regional products like honey, cheese, and schnapps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Frequenzen variieren können.",
+          "Haben Sie etwas Bargeld für Bustickets dabei, falls keine Kartenzahlung möglich ist.",
+          "Seien Sie pünktlich an den Haltestellen, besonders auf weniger frequentierten Linien."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, mivel a járatok sűrűsége változhat.",
+          "Legyen Önnél készpénz a buszjegyekre, ha a kártyás fizetés nem lehetséges.",
+          "Érkezzen időben a megállókba, különösen a ritkábban közlekedő járatoknál."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, deoarece frecvențele pot varia.",
+          "Aveți niște bani lichizi pentru biletele de autobuz, în caz că plata cu cardul nu este o opțiune.",
+          "Fiți la timp la stații, mai ales pe rutele mai puțin frecvente."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check the bus schedule in advance, as frequencies can vary.",
+          "Have some cash for bus tickets, in case card payment is not an option.",
+          "Be on time at the stops, especially on less frequent routes."
+        ]
+      }
+    }
+  }
+}

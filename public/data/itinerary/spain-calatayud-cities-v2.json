@@ -1,0 +1,1548 @@
+{
+  "city_id": "spain-calatayud-cities-v2",
+  "anchor": {
+    "name": "Plaza de España, Calatayud",
+    "coords": [
+      -1.639,
+      41.354
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -1.639,
+            41.354
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafés."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Santa María",
+            "hu": "Santa María társkáptalani templom",
+            "ro": "Colegiata Santa María",
+            "en": "Collegiate Church of Santa María"
+          },
+          "coords": [
+            -1.642,
+            41.356
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie den achteckigen Turm, ein Meisterwerk der Mudéjar-Architektur.",
+            "hu": "Csodálja meg a nyolcszögletű tornyot, a mudéjar építészet remekművét.",
+            "ro": "Admirați turnul octogonal, o capodoperă a arhitecturii mudejar.",
+            "en": "Admire the octagonal tower, a masterpiece of Mudéjar architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche des Heiligen Grabes",
+            "hu": "Szent Sír társkáptalani templom",
+            "ro": "Colegiata Sfântul Mormânt",
+            "en": "Collegiate Church of the Holy Sepulchre"
+          },
+          "coords": [
+            -1.64,
+            41.352
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine seltene Kopie der Grabeskirche in Jerusalem.",
+            "hu": "A jeruzsálemi Szent Sír-templom ritka másolata.",
+            "ro": "O copie rară a Bisericii Sfântului Mormânt din Ierusalim.",
+            "en": "A rare copy of the Church of the Holy Sepulchre in Jerusalem."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro de los Francos",
+            "hu": "San Pedro de los Francos templom",
+            "ro": "Biserica San Pedro de los Francos",
+            "en": "Church of San Pedro de los Francos"
+          },
+          "coords": [
+            -1.641,
+            41.353
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie den geneigten Turm, den 'Schiefen Turm' von Calatayud.",
+            "hu": "Figyelje meg a dőlt tornyot, Calatayud 'ferde tornyát'.",
+            "ro": "Observați turnul înclinat, 'Turnul aplecat' din Calatayud.",
+            "en": "Notice the inclined tower, Calatayud's 'leaning tower'."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta de Terrer",
+            "hu": "Puerta de Terrer",
+            "ro": "Puerta de Terrer",
+            "en": "Puerta de Terrer"
+          },
+          "coords": [
+            -1.636,
+            41.353
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:58",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Tor ist ein schönes Beispiel für aragonesische Renaissance-Militärarchitektur.",
+            "hu": "A kapu az aragóniai reneszánsz katonai építészet szép példája.",
+            "ro": "Poarta este un exemplu frumos de arhitectură militară renascentistă aragoneză.",
+            "en": "The gate is a fine example of Aragonese Renaissance military architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Ayub",
+            "hu": "Ayub vára",
+            "ro": "Castelul Ayub",
+            "en": "Castle of Ayub"
+          },
+          "coords": [
+            -1.645,
+            41.358
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die Aussicht auf die Stadt ist es wert.",
+            "hu": "Meredek a kaptató, de a városra nyíló kilátás megéri.",
+            "ro": "Urcușul este abrupt, dar priveliștea asupra orașului merită.",
+            "en": "The climb is steep, but the views over the city are worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen von Bilbilis",
+            "hu": "Bílbilis romjai",
+            "ro": "Ruinele din Bilbilis",
+            "en": "Ruins of Bilbilis"
+          },
+          "coords": [
+            -1.68,
+            41.379
+          ],
+          "category": "natural features",
+          "arrive_at": "15:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tragen Sie bequeme Schuhe; das Gelände der römischen Ruinen ist uneben.",
+            "hu": "Viseljen kényelmes cipőt; a római romok területe egyenetlen.",
+            "ro": "Purtați încălțăminte confortabilă; terenul ruinelor romane este accidentat.",
+            "en": "Wear comfortable shoes; the terrain of the Roman ruins is uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt auf der belebten Plaza de España, dem Herzen von Calatayud. Der Vormittag ist der Erkundung des reichen Mudéjar-Erbes der Stadt gewidmet, mit Besuchen der prächtigen Stiftskirchen. Am Mittag steigen Sie zur Puerta de Terrer auf, bevor Sie die mächtige Burg von Ayub erklimmen, um einen Panoramablick zu genießen. Der Nachmittag ist eine Reise in die Vergangenheit zu den römischen Ruinen von Bilbilis und endet mit einem ruhigen Spaziergang durch die antike Geschichte.",
+        "hu": "A nap a nyüzsgő Plaza de Españán, Calatayud szívében kezdődik. A délelőttöt a város gazdag mudéjar örökségének felfedezésével tölti, meglátogatva a csodálatos társkáptalani templomokat. Délben felsétál a Puerta de Terrerhez, majd megmássza a hatalmas Ayub várat a panorámás kilátásért. A délután egy utazás a múltba Bílbilis római kori romjaihoz, melyet az ókori történelemben tett csendes séta zár.",
+        "ro": "Ziua dvs. începe în animata Plaza de España, inima orașului Calatayud. Dimineața este dedicată explorării bogatei moșteniri mudejar a orașului, vizitând magnificele colegiate. La prânz, urcați la Puerta de Terrer înainte de a cuceri impunătorul Castel Ayub pentru vederi panoramice. După-amiaza este o călătorie înapoi în timp la ruinele romane din Bilbilis, încheindu-se cu o plimbare liniștită prin istoria antică.",
+        "en": "Your day begins in the bustling Plaza de España, the heart of Calatayud. The morning is dedicated to exploring the city's rich Mudéjar heritage, visiting the magnificent collegiate churches. At noon, you'll ascend to the Puerta de Terrer before tackling the formidable Castle of Ayub for panoramic views. The afternoon is a journey back in time to the Roman ruins of Bilbilis, ending with a quiet stroll through ancient history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Probieren Sie das berühmte Lammbraten, eine lokale Spezialität."
+          },
+          {
+            "name": "Restaurante El Fogón de la Garnacha",
+            "tip": "Bekannt für traditionelle aragonesische Küche und eine gute Weinkarte."
+          },
+          {
+            "name": "Fardeles",
+            "tip": "Ein süßes Blätterteiggebäck, perfekt zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Kóstolja meg a híres sült bárányt, egy helyi specialitást."
+          },
+          {
+            "name": "Restaurante El Fogón de la Garnacha",
+            "tip": "Hagyományos aragóniai konyhájáról és jó borlapjáról ismert."
+          },
+          {
+            "name": "Fardeles",
+            "tip": "Édes leveles tészta, tökéletes a kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Încercați friptura de miel, o specialitate locală renumită."
+          },
+          {
+            "name": "Restaurante El Fogón de la Garnacha",
+            "tip": "Renumit pentru bucătăria tradițională aragoneză și o listă bună de vinuri."
+          },
+          {
+            "name": "Fardeles",
+            "tip": "Un produs de patiserie dulce, din foietaj, perfect cu cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Try the famous roast lamb, a local specialty."
+          },
+          {
+            "name": "Restaurante El Fogón de la Garnacha",
+            "tip": "Known for traditional Aragonese cuisine and a good wine list."
+          },
+          {
+            "name": "Fardeles",
+            "tip": "A sweet, flaky pastry, perfect with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Jalón",
+            "tip": "Ein ruhiger Spaziergang abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht von der Burg",
+            "tip": "Finden Sie einen ruhigen Platz, um die Landschaft bei Sonnenuntergang zu betrachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten der Colegiata del Santo Sepulcro",
+            "tip": "Ein kleiner, friedlicher Ort zum Nachdenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jalón folyó partja",
+            "tip": "Egy csendes séta a városközponttól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a várból",
+            "tip": "Keressen egy csendes helyet, ahonnan naplementekor gyönyörködhet a tájban.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Szent Sír-templom kertjei",
+            "tip": "Egy kis, békés hely az elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Jalón",
+            "tip": "O plimbare liniștită departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliște de la castel",
+            "tip": "Găsiți un loc liniștit pentru a privi peisajul la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Colegiatei Sfântului Mormânt",
+            "tip": "Un loc mic și pașnic pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Jalón River",
+            "tip": "A quiet walk away from the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Castle",
+            "tip": "Find a quiet spot to watch the landscape at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of the Colegiata del Santo Sepulcro",
+            "tip": "A small, peaceful spot for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bodegas",
+            "tip": "Kaufen Sie eine Flasche Wein aus der D.O. Calatayud."
+          },
+          {
+            "name": "Konditoreien",
+            "tip": "Nehmen Sie einige lokale Süßigkeiten wie 'Adoquines del Pilar' mit nach Hause."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach Keramik und Textilien aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bodegák",
+            "tip": "Vásároljon egy üveg bort a D.O. Calatayud borvidékről."
+          },
+          {
+            "name": "Cukrászdák",
+            "tip": "Vigyen haza helyi édességeket, mint az 'Adoquines del Pilar'."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen helyi kerámiákat és textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bodegas locale",
+            "tip": "Cumpărați o sticlă de vin din D.O. Calatayud."
+          },
+          {
+            "name": "Patiserii",
+            "tip": "Luați acasă câteva dulciuri locale, cum ar fi 'Adoquines del Pilar'."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică și textile din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bodegas",
+            "tip": "Buy a bottle of wine from the D.O. Calatayud."
+          },
+          {
+            "name": "Pastry Shops",
+            "tip": "Take home some local sweets like 'Adoquines del Pilar'."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for locally made ceramics and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie sehr bequeme Schuhe, da Sie viel laufen und auf Hügel steigen werden.",
+          "Nehmen Sie Wasser mit, besonders für den Aufstieg zur Burg und den Spaziergang nach Bilbilis.",
+          "Planen Sie ein spätes Mittagessen nach dem Besuch der Burg ein.",
+          "Die meisten Kirchen schließen am frühen Nachmittag, also planen Sie Ihre Besuche für den Vormittag."
+        ],
+        "hu": [
+          "Viseljen nagyon kényelmes cipőt, mivel sokat fog sétálni és dombokra mászni.",
+          "Vigyen magával vizet, különösen a várhoz való feljutáshoz és a Bílbilisbe vezető sétához.",
+          "Tervezzen egy késői ebédet a vár látogatása után.",
+          "A legtöbb templom kora délután bezár, ezért a látogatásokat délelőttre tervezze."
+        ],
+        "ro": [
+          "Purtați încălțăminte foarte confortabilă, deoarece veți merge mult pe jos și veți urca dealuri.",
+          "Luați apă cu dvs., mai ales pentru urcarea la castel și plimbarea spre Bilbilis.",
+          "Planificați un prânz târziu după vizitarea castelului.",
+          "Majoritatea bisericilor se închid la începutul după-amiezii, așa că planificați-vă vizitele pentru dimineață."
+        ],
+        "en": [
+          "Wear very comfortable shoes as you will be doing a lot of walking and hill climbing.",
+          "Bring water, especially for the climb to the castle and the walk to Bilbilis.",
+          "Plan for a late lunch after visiting the castle.",
+          "Most churches close in the early afternoon, so schedule your visits for the morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -1.639,
+            41.354
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und genießen Sie die Atmosphäre des Platzes.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és élvezze a tér hangulatát.",
+            "ro": "Asigurați-vă bicicleta și bucurați-vă de atmosfera pieței.",
+            "en": "Lock your bike securely and enjoy the atmosphere of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta de Terrer",
+            "hu": "Puerta de Terrer",
+            "ro": "Puerta de Terrer",
+            "en": "Puerta de Terrer"
+          },
+          "coords": [
+            -1.636,
+            41.353
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:33",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schneller Stopp, um dieses historische Tor zu fotografieren.",
+            "hu": "Egy gyors megálló, hogy lefényképezze ezt a történelmi kaput.",
+            "ro": "O oprire rapidă pentru a fotografia această poartă istorică.",
+            "en": "A quick stop to photograph this historic gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Santa María",
+            "hu": "Santa María társkáptalani templom",
+            "ro": "Colegiata Santa María",
+            "en": "Collegiate Church of Santa María"
+          },
+          "coords": [
+            -1.642,
+            41.356
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das beeindruckendste Mudéjar-Denkmal der Stadt.",
+            "hu": "A város legimpozánsabb mudéjar emlékműve.",
+            "ro": "Cel mai impresionant monument mudejar din oraș.",
+            "en": "The most impressive Mudéjar monument in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche des Heiligen Grabes",
+            "hu": "Szent Sír társkáptalani templom",
+            "ro": "Colegiata Sfântul Mormânt",
+            "en": "Collegiate Church of the Holy Sepulchre"
+          },
+          "coords": [
+            -1.64,
+            41.352
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:03",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein wichtiger Halt auf dem Jakobsweg.",
+            "hu": "Fontos megálló a Camino de Santiago zarándokúton.",
+            "ro": "O oprire importantă pe Camino de Santiago.",
+            "en": "An important stop on the Camino de Santiago pilgrimage route."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Ayub",
+            "hu": "Ayub vára",
+            "ro": "Castelul Ayub",
+            "en": "Castle of Ayub"
+          },
+          "coords": [
+            -1.645,
+            41.358
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:59",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bereiten Sie sich auf einen steilen Anstieg vor. Möglicherweise müssen Sie das Fahrrad schieben.",
+            "hu": "Készüljön fel egy meredek emelkedőre. Lehet, hogy tolnia kell a kerékpárt.",
+            "ro": "Pregătiți-vă pentru o urcare abruptă. S-ar putea să trebuiască să împingeți bicicleta.",
+            "en": "Be prepared for a steep climb. You might need to push the bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen von Bilbilis",
+            "hu": "Bílbilis romjai",
+            "ro": "Ruinele din Bilbilis",
+            "en": "Ruins of Bilbilis"
+          },
+          "coords": [
+            -1.68,
+            41.379
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Fahrt aus der Stadt ist angenehm und führt durch ländliche Gebiete.",
+            "hu": "A városból kivezető út kellemes, vidéki területeken vezet keresztül.",
+            "ro": "Plimbarea cu bicicleta în afara orașului este plăcută, traversând zone rurale.",
+            "en": "The ride out of the city is pleasant, passing through rural areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Andrés",
+            "hu": "San Andrés templom",
+            "ro": "Biserica San Andrés",
+            "en": "Church of San Andrés"
+          },
+          "coords": [
+            -1.645,
+            41.355
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein weiteres Juwel der Mudéjar-Architektur mit einem beeindruckenden Turm.",
+            "hu": "A mudéjar építészet újabb gyöngyszeme lenyűgöző toronnyal.",
+            "ro": "O altă bijuterie a arhitecturii mudejar, cu un turn impresionant.",
+            "en": "Another gem of Mudéjar architecture, with an impressive tower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour auf der Plaza de España und radeln Sie dann zu den wichtigsten historischen Stätten der Stadt. Der Vormittag ist eine Mischung aus Radfahren und Erkunden der Mudéjar-Kirchen. Nach einem anspruchsvollen, aber lohnenden Aufstieg zur Burg von Ayub geht es am Nachmittag auf eine längere Fahrt zu den römischen Ruinen von Bilbilis. Ihre Tour endet mit einem Besuch der schönen Kirche San Andrés, die einen letzten Einblick in das reiche Erbe von Calatayud bietet.",
+        "hu": "Kezdje kerékpártúráját a Plaza de Españán, majd tekerjen a város legfontosabb történelmi helyszíneihez. A délelőtt a kerékpározás és a mudéjar templomok felfedezésének keveréke. Az Ayub várához vezető kihívást jelentő, de hálás emelkedő után a délután egy hosszabb utat tartogat Bílbilis római kori romjaihoz. A túra a gyönyörű San Andrés-templom meglátogatásával zárul, amely utolsó bepillantást enged Calatayud gazdag örökségébe.",
+        "ro": "Începeți turul cu bicicleta din Plaza de España, apoi pedalați spre cele mai importante situri istorice ale orașului. Dimineața este un amestec de ciclism și explorare a bisericilor mudejar. După o urcare provocatoare, dar plină de satisfacții, la Castelul Ayub, după-amiaza vă rezervă o plimbare mai lungă spre ruinele romane din Bilbilis. Turul dvs. se încheie cu o vizită la frumoasa Biserică San Andrés, oferind o ultimă privire asupra bogatei moșteniri a orașului Calatayud.",
+        "en": "Start your cycling tour from Plaza de España, then pedal to the city's key historic sites. The morning is a mix of cycling and exploring the Mudéjar churches. After a challenging but rewarding climb to the Castle of Ayub, the afternoon holds a longer ride out to the Roman ruins of Bilbilis. Your tour concludes with a visit to the beautiful Church of San Andrés, offering a final glimpse into Calatayud's rich heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Migas",
+            "tip": "Ein herzhaftes Gericht aus Brotkrumen, perfekt für eine Energiezufuhr nach dem Radfahren."
+          },
+          {
+            "name": "Bodegas y Vinos",
+            "tip": "Viele Geschäfte bieten Weinproben der lokalen Garnacha-Traube an."
+          },
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Ein einfaches, aber köstliches Schinkensandwich für ein schnelles Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Migas",
+            "tip": "Kiadós zsemlemorzsa-étel, tökéletes energiafeltöltés kerékpározás után."
+          },
+          {
+            "name": "Bodegák és borok",
+            "tip": "Sok üzlet kínál borkóstolót a helyi Garnacha szőlőből."
+          },
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Egyszerű, de finom sonkás szendvics egy gyors ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare consistent din pesmet, perfect pentru a vă reîncărca cu energie după ciclism."
+          },
+          {
+            "name": "Bodegas y Vinos",
+            "tip": "Multe magazine oferă degustări de vin din strugurii locali Garnacha."
+          },
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Un sandviș simplu, dar delicios, cu șuncă, pentru un prânz rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Migas",
+            "tip": "A hearty dish of fried breadcrumbs, perfect for an energy boost after cycling."
+          },
+          {
+            "name": "Bodegas y Vinos",
+            "tip": "Many shops offer wine tastings of the local Garnacha grape."
+          },
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "A simple but delicious ham sandwich for a quick lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Fluss Jalón",
+            "tip": "Eine flache und friedliche Fahrt entlang des Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel von Bilbilis",
+            "tip": "Nach der Erkundung der Ruinen entspannen Sie sich und genießen Sie die Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Klostergänge der Kirchen",
+            "tip": "Viele Kirchen haben ruhige Innenhöfe, ideal für eine kurze Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Jalón folyó mentén",
+            "tip": "Sík és békés út a folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bílbilis dombjai",
+            "tip": "A romok felfedezése után pihenjen és élvezze a kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Templomok kerengői",
+            "tip": "Sok templomnak van csendes udvara, ideális egy rövid pihenőre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe râul Jalón",
+            "tip": "O plimbare plată și liniștită de-a lungul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealurile din Bilbilis",
+            "tip": "După ce explorați ruinele, relaxați-vă și bucurați-vă de priveliște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Clădirile bisericilor",
+            "tip": "Multe biserici au curți interioare liniștite, ideale pentru o scurtă pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jalón River Bike Path",
+            "tip": "A flat and peaceful ride along the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hills of Bilbilis",
+            "tip": "After exploring the ruins, relax and enjoy the view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cloisters of the Churches",
+            "tip": "Many churches have quiet courtyards ideal for a short break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für eventuell benötigte Ersatzteile oder Zubehör."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Kaufen Sie lokale Produkte wie Käse, Olivenöl und Obst."
+          },
+          {
+            "name": "Souvenirläden in der Nähe der Plaza",
+            "tip": "Finden Sie Postkarten und kleine Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Szükség esetén pótalkatrészekhez vagy kiegészítőkhöz."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Vásároljon helyi termékeket, mint sajt, olívaolaj és gyümölcs."
+          },
+          {
+            "name": "Szuvírboltok a Plaza közelében",
+            "tip": "Keressen képeslapokat és apró emléktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru orice piese de schimb sau accesorii de care ați putea avea nevoie."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Cumpărați produse locale precum brânză, ulei de măsline și fructe."
+          },
+          {
+            "name": "Magazine de suveniruri lângă Plaza",
+            "tip": "Găsiți cărți poștale și mici amintiri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "For any spare parts or accessories you might need."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Buy local produce like cheese, olive oil, and fruits."
+          },
+          {
+            "name": "Souvenir shops near the Plaza",
+            "tip": "Find postcards and small mementos."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist, insbesondere die Bremsen für die Abfahrten.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad bei den Besichtigungen sicher abzustellen.",
+          "Die Straßen im Stadtzentrum können eng sein, fahren Sie vorsichtig.",
+          "Ein Helm wird dringend empfohlen, besonders für die Fahrt außerhalb der Stadt."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy a kerékpárja jó állapotban van, különösen a fékek a lejtőkön.",
+          "Vigyen magával egy jó lakatot, hogy biztonságban lezárhassa a kerékpárját a látogatások során.",
+          "A belvárosi utcák szűkek lehetnek, óvatosan közlekedjen.",
+          "A sisak viselése erősen ajánlott, különösen a városon kívüli utakon."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este în stare bună, în special frânele pentru coborâri.",
+          "Luați un lacăt bun pentru a vă asigura bicicleta în timpul vizitelor.",
+          "Străzile din centrul orașului pot fi înguste, conduceți cu prudență.",
+          "O cască este foarte recomandată, mai ales pentru plimbările în afara orașului."
+        ],
+        "en": [
+          "Ensure your bike is in good condition, especially the brakes for the descents.",
+          "Bring a good lock to secure your bike while sightseeing.",
+          "The streets in the city center can be narrow, ride with caution.",
+          "A helmet is highly recommended, especially for the ride out of town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz bei Bilbilis",
+            "hu": "Parkoló Bílbilisnél",
+            "ro": "Parcare la Bilbilis",
+            "en": "Parking at Bilbilis"
+          },
+          "coords": [
+            -1.678,
+            41.378
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit dem am weitesten entfernten Punkt, um Menschenmassen zu vermeiden.",
+            "hu": "Kezdje a napot a legtávolabbi ponton, hogy elkerülje a tömeget.",
+            "ro": "Începeți ziua cu cel mai îndepărtat punct pentru a evita aglomerația.",
+            "en": "Start your day with the furthest point to avoid crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen von Bilbilis",
+            "hu": "Bílbilis romjai",
+            "ro": "Ruinele din Bilbilis",
+            "en": "Ruins of Bilbilis"
+          },
+          "coords": [
+            -1.68,
+            41.379
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Forum, das Theater und die Bäder dieser antiken römischen Stadt.",
+            "hu": "Fedezze fel ennek az ókori római városnak a fórumát, színházát és fürdőit.",
+            "ro": "Explorați forul, teatrul și termele acestui oraș roman antic.",
+            "en": "Explore the forum, theatre, and baths of this ancient Roman city."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Schloss",
+            "hu": "Várparkoló",
+            "ro": "Parcare la castel",
+            "en": "Castle Parking Area"
+          },
+          "coords": [
+            -1.644,
+            41.357
+          ],
+          "category": "transport",
+          "arrive_at": "11:30",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie so nah wie möglich an die Burg heran und parken Sie dort.",
+            "hu": "Hajtson a lehető legközelebb a várhoz, és parkoljon le.",
+            "ro": "Conduceți cât mai aproape de castel și parcați.",
+            "en": "Drive as close to the castle as possible and park."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Ayub",
+            "hu": "Ayub vára",
+            "ro": "Castelul Ayub",
+            "en": "Castle of Ayub"
+          },
+          "coords": [
+            -1.645,
+            41.358
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die beste Aussicht auf Calatayud und das Jalón-Tal.",
+            "hu": "Élvezze a legjobb kilátást Calatayudra és a Jalón-völgyre.",
+            "ro": "Bucurați-vă de cele mai bune priveliști ale orașului Calatayud și ale văii Jalón.",
+            "en": "Enjoy the best views of Calatayud and the Jalón valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus im Stadtzentrum",
+            "hu": "Parkolóház a központban",
+            "ro": "Parcare în centrul orașului",
+            "en": "City Center Parking Garage"
+          },
+          "coords": [
+            -1.638,
+            41.352
+          ],
+          "category": "transport",
+          "arrive_at": "13:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Stellen Sie das Auto für den Rest des Tages hier ab und erkunden Sie den Rest zu Fuß.",
+            "hu": "Hagyja itt az autót a nap hátralévő részére, és fedezze fel a többit gyalog.",
+            "ro": "Lăsați mașina aici pentru restul zilei și explorați pe jos.",
+            "en": "Leave the car here for the rest of the day and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Santa María",
+            "hu": "Santa María társkáptalani templom",
+            "ro": "Colegiata Santa María",
+            "en": "Collegiate Church of Santa María"
+          },
+          "coords": [
+            -1.642,
+            41.356
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:18",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für das Mittagessen in der Nähe, bevor oder nachdem Sie die Kirche besichtigt haben.",
+            "hu": "Szánjon időt az ebédre a közelben a templom megtekintése előtt vagy után.",
+            "ro": "Luați-vă timp pentru prânz în apropiere, înainte sau după vizitarea bisericii.",
+            "en": "Take your time for lunch nearby before or after visiting the church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um zuerst die weiter entfernten Sehenswürdigkeiten zu erreichen. Der Tag beginnt mit einer Reise in die römische Vergangenheit in Bilbilis. Danach fahren Sie zum höchsten Punkt der Stadt, der Burg von Ayub, um eine atemberaubende Aussicht zu genießen. Am Nachmittag parken Sie im Zentrum und tauchen in das Herz von Calatayud ein. Sie spazieren durch die Straßen und bewundern das Mudéjar-Erbe bei einem Besuch der Stiftskirche Santa María, gefolgt von einem gemütlichen Mittagessen.",
+        "hu": "Használja autóját, hogy először a távolabbi látnivalókat érje el. A nap egy utazással kezdődik a római múltba Bílbilisben. Ezután felhajt a város legmagasabb pontjára, az Ayub várhoz a lélegzetelállító kilátásért. Délután a központban parkol, és elmerül Calatayud szívében, sétál az utcákon, és megcsodálja a mudéjar örökséget a Santa María társkáptalani templom meglátogatásával, majd egy kellemes ebéddel.",
+        "ro": "Folosiți mașina pentru a ajunge mai întâi la atracțiile mai îndepărtate. Ziua începe cu o călătorie în trecutul roman la Bilbilis. După aceea, conduceți până la cel mai înalt punct al orașului, Castelul Ayub, pentru priveliști uimitoare. După-amiaza, parcați în centru și pătrundeți în inima orașului Calatayud, plimbându-vă pe străzi și admirând moștenirea mudejar cu o vizită la Colegiata Santa María, urmată de un prânz relaxat.",
+        "en": "Use your car to reach the more distant sights first. The day begins with a journey to the Roman past at Bilbilis. Afterwards, you'll drive to the highest point of the city, the Castle of Ayub, for stunning views. In the afternoon, park in the center and immerse yourself in the heart of Calatayud, strolling the streets and admiring the Mudéjar heritage with a visit to the Collegiate Church of Santa María, followed by a leisurely lunch."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Garnacha-Wein",
+            "tip": "Die Region ist berühmt für ihre kräftigen Rotweine. Perfekt zum Ternasco."
+          },
+          {
+            "name": "Congrio con garbanzos",
+            "tip": "Ein traditioneller Eintopf aus Meeraal und Kichererbsen."
+          },
+          {
+            "name": "Restaurante Marivella",
+            "tip": "Etwas außerhalb der Stadt, bekannt für seine ausgezeichnete regionale Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Garnacha bor",
+            "tip": "A régió híres erőteljes vörösborairól. Tökéletes a Ternascóhoz."
+          },
+          {
+            "name": "Congrio con garbanzos",
+            "tip": "Hagyományos tengeri angolnából és csicseriborsóból készült egytálétel."
+          },
+          {
+            "name": "Restaurante Marivella",
+            "tip": "Kicsit a városon kívül található, kiváló regionális konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Garnacha",
+            "tip": "Regiunea este renumită pentru vinurile sale roșii corpolente. Perfect cu Ternasco."
+          },
+          {
+            "name": "Congrio con garbanzos",
+            "tip": "O tocană tradițională de congrio și năut."
+          },
+          {
+            "name": "Restaurante Marivella",
+            "tip": "Puțin în afara orașului, cunoscut pentru bucătăria sa regională excelentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Garnacha Wine",
+            "tip": "The region is famous for its powerful red wines. Perfect with Ternasco."
+          },
+          {
+            "name": "Congrio con garbanzos",
+            "tip": "A traditional stew of conger eel and chickpeas."
+          },
+          {
+            "name": "Restaurante Marivella",
+            "tip": "Slightly out of town, known for its excellent regional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Monasterio de Piedra",
+            "tip": "Wenn Sie Zeit haben, ist dieser Naturpark eine 30-minütige Fahrt entfernt und absolut atemberaubend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Weinberge von Calatayud",
+            "tip": "Machen Sie eine malerische Fahrt durch die umliegenden Weinberge.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "Morgenstille in Bilbilis",
+            "tip": "Genießen Sie die Ruhe der antiken Ruinen, bevor die Besucher kommen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monasterio de Piedra",
+            "tip": "Ha van ideje, ez a természeti park 30 perces autóútra van, és lenyűgöző.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Calatayud szőlőültetvényei",
+            "tip": "Tegyen egy festői utat a környező szőlőültetvényeken keresztül.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "Reggeli csend Bílbilisben",
+            "tip": "Élvezze az ősi romok csendjét, mielőtt a látogatók megérkeznek.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monasterio de Piedra",
+            "tip": "Dacă aveți timp, acest parc natural se află la 30 de minute de mers cu mașina și este absolut uimitor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viile din Calatayud",
+            "tip": "Faceți o plimbare pitorească cu mașina prin podgoriile din jur.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "Liniștea dimineții la Bilbilis",
+            "tip": "Bucurați-vă de liniștea ruinelor antice înainte de sosirea vizitatorilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monasterio de Piedra",
+            "tip": "If you have time, this natural park is a 30-minute drive and absolutely stunning.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vineyards of Calatayud",
+            "tip": "Take a scenic drive through the surrounding vineyards.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "Morning quiet at Bilbilis",
+            "tip": "Enjoy the tranquility of the ancient ruins before visitors arrive.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein aus D.O. Calatayud",
+            "tip": "Kaufen Sie direkt bei den Weingütern oder in spezialisierten Geschäften."
+          },
+          {
+            "name": "Früchte aus Aragón",
+            "tip": "Suchen Sie nach lokalen Kirschen oder Pfirsichen, wenn Saison ist."
+          },
+          {
+            "name": "Keramik",
+            "tip": "Die nahe gelegene Stadt Muel ist berühmt für ihre Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bor a D.O. Calatayud borvidékről",
+            "tip": "Vásároljon közvetlenül a pincészeteknél vagy szaküzletekben."
+          },
+          {
+            "name": "Aragóniai gyümölcsök",
+            "tip": "Keressen helyi cseresznyét vagy őszibarackot, ha szezonja van."
+          },
+          {
+            "name": "Kerámia",
+            "tip": "A közeli Muel városa híres kerámiáiról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin din D.O. Calatayud",
+            "tip": "Cumpărați direct de la crame sau din magazine specializate."
+          },
+          {
+            "name": "Fructe din Aragón",
+            "tip": "Căutați cireșe sau piersici locale, în sezon."
+          },
+          {
+            "name": "Ceramică",
+            "tip": "Orașul Muel din apropiere este renumit pentru ceramica sa."
+          }
+        ],
+        "en": [
+          {
+            "name": "D.O. Calatayud Wine",
+            "tip": "Buy directly from the wineries or in specialized shops."
+          },
+          {
+            "name": "Fruits of Aragón",
+            "tip": "Look for local cherries or peaches when in season."
+          },
+          {
+            "name": "Ceramics",
+            "tip": "The nearby town of Muel is famous for its pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Öffnungszeiten von Bilbilis im Voraus, da diese variieren können.",
+          "Das Parken im Stadtzentrum kann schwierig sein, nutzen Sie eine Tiefgarage.",
+          "Ein GPS ist unerlässlich, um sich auf den Landstraßen zurechtzufinden.",
+          "Planen Sie zusätzliche Zeit für Fotostopps auf Ihren Fahrten ein."
+        ],
+        "hu": [
+          "Ellenőrizze előre Bílbilis nyitvatartási idejét, mivel az változhat.",
+          "A belvárosi parkolás nehézkes lehet, használjon mélygarázst.",
+          "A GPS elengedhetetlen a vidéki utakon való navigáláshoz.",
+          "Tervezzen plusz időt a fotómegállókra az utazások során."
+        ],
+        "ro": [
+          "Verificați în prealabil orele de deschidere ale Bilbilis, deoarece acestea pot varia.",
+          "Parcarea în centrul orașului poate fi dificilă, folosiți o parcare subterană.",
+          "Un GPS este esențial pentru a naviga pe drumurile de țară.",
+          "Planificați timp suplimentar pentru opriri foto în timpul călătoriilor."
+        ],
+        "en": [
+          "Check the opening hours for Bilbilis in advance as they can vary.",
+          "Parking in the city center can be tricky, use an underground car park.",
+          "A GPS is essential for navigating the country roads.",
+          "Allow extra time for photo stops on your drives."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -1.639,
+            41.354
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der zentrale Knotenpunkt, von dem aus viele Buslinien starten.",
+            "hu": "A központi csomópont, ahonnan sok buszjárat indul.",
+            "ro": "Nodul central de unde pleacă multe linii de autobuz.",
+            "en": "The central hub from where many bus lines start."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Santa María",
+            "hu": "Santa María társkáptalani templom",
+            "ro": "Colegiata Santa María",
+            "en": "Collegiate Church of Santa María"
+          },
+          "coords": [
+            -1.642,
+            41.356
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Egy rövid séta a főtértől.",
+            "ro": "O scurtă plimbare de la piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro de los Francos",
+            "hu": "San Pedro de los Francos templom",
+            "ro": "Biserica San Pedro de los Francos",
+            "en": "Church of San Pedro de los Francos"
+          },
+          "coords": [
+            -1.641,
+            41.353
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie das gotische Portal, bevor Sie weitergehen.",
+            "hu": "Csodálja meg a gótikus portált, mielőtt továbbmegy.",
+            "ro": "Admirați portalul gotic înainte de a merge mai departe.",
+            "en": "Admire the Gothic portal before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle am Schloss",
+            "hu": "Buszmegálló a várnál",
+            "ro": "Stația de autobuz de la castel",
+            "en": "Bus Stop near Castle"
+          },
+          "coords": [
+            -1.643,
+            41.357
+          ],
+          "category": "transport",
+          "arrive_at": "11:44",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um den steilen Aufstieg zu vermeiden.",
+            "hu": "Vegyen igénybe egy helyi buszt a meredek emelkedő elkerülése érdekében.",
+            "ro": "Luați un autobuz local pentru a evita urcușul abrupt.",
+            "en": "Take a local bus to avoid the steep part of the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Ayub",
+            "hu": "Ayub vára",
+            "ro": "Castelul Ayub",
+            "en": "Castle of Ayub"
+          },
+          "coords": [
+            -1.645,
+            41.358
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:49",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies ist der beste Aussichtspunkt der Stadt.",
+            "hu": "Ez a város legjobb kilátópontja.",
+            "ro": "Acesta este cel mai bun punct de belvedere din oraș.",
+            "en": "This is the best viewpoint in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Bilbilis",
+            "hu": "Buszmegálló Bílbilisnél",
+            "ro": "Stația de autobuz Bilbilis",
+            "en": "Bilbilis Bus Stop"
+          },
+          "coords": [
+            -1.677,
+            41.378
+          ],
+          "category": "transport",
+          "arrive_at": "13:49",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bus bringt Sie in die Nähe der Ruinen, aber es ist immer noch ein kurzer Spaziergang.",
+            "hu": "A busz a romok közelébe visz, de még mindig egy rövid séta.",
+            "ro": "Autobuzul vă va lăsa aproape de ruine, dar mai este o scurtă plimbare.",
+            "en": "The bus will get you close to the ruins, but it's still a short walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise mit öffentlichen Verkehrsmitteln beginnt im Herzen der Stadt, auf der Plaza de España. Der Vormittag ist ein Rundgang durch das historische Zentrum, bei dem Sie die Mudéjar-Kirchen zu Fuß erkunden. Um die Mittagszeit nehmen Sie einen Bus, der Sie den Hügel hinauf in die Nähe der Burg von Ayub bringt und Ihnen Energie für die Erkundung spart. Am Nachmittag bringt Sie ein weiterer Bus zu den antiken römischen Ruinen von Bilbilis, einem Höhepunkt Ihrer historischen Entdeckungsreise.",
+        "hu": "Tömegközlekedési utazása a város szívében, a Plaza de Españán kezdődik. A délelőtt egy séta a történelmi központban, gyalogosan felfedezve a mudéjar templomokat. Dél körül busszal jut fel a dombra, az Ayub vár közelébe, energiát spórolva a felfedezéshez. Délután egy másik busz elviszi Önt Bílbilis ókori római romjaihoz, a történelmi felfedezőút csúcspontjához.",
+        "ro": "Călătoria dvs. cu transportul public începe în inima orașului, Plaza de España. Dimineața este un tur pietonal al centrului istoric, explorând bisericile mudejar pe jos. La prânz, un autobuz vă duce pe deal, aproape de Castelul Ayub, economisindu-vă energia pentru explorare. După-amiaza, un alt autobuz vă transportă la ruinele romane antice din Bilbilis, un punct culminant al descoperirii dvs. istorice.",
+        "en": "Your public transport journey starts in the city's heart, Plaza de España. The morning is a walking tour of the historic center, exploring the Mudéjar churches on foot. Around noon, a bus takes you up the hill near the Castle of Ayub, saving your energy for exploration. In the afternoon, another bus transports you to the ancient Roman ruins of Bilbilis, a highlight of your historical discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chiretas",
+            "tip": "Ein abenteuerliches lokales Gericht aus gefülltem Lammdarm."
+          },
+          {
+            "name": "Tapas-Bars in der Nähe der Plaza",
+            "tip": "Ideal für ein schnelles und abwechslungsreiches Mittagessen."
+          },
+          {
+            "name": "Vino de la Tierra",
+            "tip": "Probieren Sie den lokalen Landwein, der oft in den Bars serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chiretas",
+            "tip": "Kalandos helyi étel, töltött báránybél."
+          },
+          {
+            "name": "Tapas bárok a Plaza közelében",
+            "tip": "Ideális egy gyors és változatos ebédhez."
+          },
+          {
+            "name": "Vino de la Tierra",
+            "tip": "Kóstolja meg a helyi, gyakran a bárokban felszolgált bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiretas",
+            "tip": "Un fel de mâncare local aventuros, făcut din intestine de miel umplute."
+          },
+          {
+            "name": "Baruri de tapas lângă Plaza",
+            "tip": "Ideal pentru un prânz rapid și variat."
+          },
+          {
+            "name": "Vino de la Tierra",
+            "tip": "Încercați vinul local, adesea servit în baruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chiretas",
+            "tip": "An adventurous local dish made of stuffed lamb intestines."
+          },
+          {
+            "name": "Tapas bars near the Plaza",
+            "tip": "Ideal for a quick and varied lunch."
+          },
+          {
+            "name": "Vino de la Tierra",
+            "tip": "Try the local 'country wine', often served in bars."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jüdisches Viertel (Judería)",
+            "tip": "Verlieren Sie sich in den engen, ruhigen Gassen dieses historischen Viertels.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Obere Befestigungsanlagen der Burg",
+            "tip": "Gehen Sie über die Hauptaussichtspunkte hinaus, um ruhigere Ecken zu finden.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Busfahrt aufs Land",
+            "tip": "Genießen Sie die Aussicht auf die aragonesische Landschaft vom Busfenster aus.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zsidónegyed (Judería)",
+            "tip": "Vesszen el ennek a történelmi negyednek a szűk, csendes utcáin.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A vár felső erődítményei",
+            "tip": "Menjen túl a fő kilátópontokon, hogy csendesebb sarkokat találjon.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Buszozás a vidékre",
+            "tip": "Élvezze az aragóniai táj látványát a busz ablakából.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartierul Evreiesc (Judería)",
+            "tip": "Pierdeți-vă pe străduțele înguste și liniștite ale acestui cartier istoric.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fortificațiile superioare ale castelului",
+            "tip": "Mergeți dincolo de punctele de belvedere principale pentru a găsi colțuri mai liniștite.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare cu autobuzul la țară",
+            "tip": "Bucurați-vă de priveliștile peisajului aragonez de la fereastra autobuzului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jewish Quarter (Judería)",
+            "tip": "Get lost in the narrow, quiet lanes of this historic neighborhood.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Upper fortifications of the castle",
+            "tip": "Go beyond the main viewpoints to find quieter corners.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bus ride to the countryside",
+            "tip": "Enjoy the views of the Aragonese landscape from the bus window.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Informieren Sie sich über die Markttage für frische Produkte und lokale Atmosphäre."
+          },
+          {
+            "name": "Religiöse Artikel",
+            "tip": "Geschäfte in der Nähe der Kirchen verkaufen Rosenkränze und Medaillen."
+          },
+          {
+            "name": "Traditionelle Textilien",
+            "tip": "Halten Sie Ausschau nach handgewebten Stoffen aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Érdeklődjön a piaci napokról a friss termékekért és a helyi hangulatért."
+          },
+          {
+            "name": "Vallási cikkek",
+            "tip": "A templomok közelében lévő boltok rózsafüzéreket és medálokat árulnak."
+          },
+          {
+            "name": "Hagyományos textíliák",
+            "tip": "Keressen kézzel szőtt textíliákat a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Verificați zilele de piață pentru produse proaspete și o atmosferă locală."
+          },
+          {
+            "name": "Articole religioase",
+            "tip": "Magazinele de lângă biserici vând rozarii și medalii."
+          },
+          {
+            "name": "Textile tradiționale",
+            "tip": "Căutați țesături realizate manual din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Check for market days for fresh produce and a local atmosphere."
+          },
+          {
+            "name": "Religious Articles",
+            "tip": "Shops near the churches sell rosaries and medals."
+          },
+          {
+            "name": "Traditional textiles",
+            "tip": "Look for handwoven fabrics from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar, das ist oft günstiger.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders für die weniger häufigen Routen wie nach Bilbilis.",
+          "Haben Sie etwas Kleingeld für die Bustickets dabei.",
+          "Seien Sie bereit, zwischen den Bushaltestellen und den eigentlichen Sehenswürdigkeiten etwas zu laufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha van, gyakran olcsóbb.",
+          "Ellenőrizze előre a buszmenetrendeket, különösen a ritkább járatokét, mint például Bílbilis felé.",
+          "Legyen Önnél aprópénz a buszjegyekhez.",
+          "Készüljön fel arra, hogy a buszmegállók és a látnivalók között sétálnia kell."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil, este adesea mai ieftin.",
+          "Verificați din timp orarele autobuzelor, în special pentru rutele mai puțin frecvente precum cea spre Bilbilis.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz.",
+          "Fiți pregătiți să mergeți pe jos între stațiile de autobuz și atracțiile turistice."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available, it's often cheaper.",
+          "Check bus schedules in advance, especially for the less frequent routes like the one to Bilbilis.",
+          "Have some small change ready for bus tickets.",
+          "Be prepared for some walking between the bus stops and the actual sights."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1440 @@
+{
+  "city_id": "bulgaria-dupnitsa-cities-v2",
+  "anchor": {
+    "name": "Dupniza",
+    "coords": [
+      42.2667,
+      23.1167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Uhrturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            42.2658,
+            23.1155
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt und ein toller erster Fotostopp.",
+            "hu": "A város jelképe és egy remek első fotómegálló.",
+            "ro": "Emblema orașului și o primă oprire excelentă pentru fotografii.",
+            "en": "The city's landmark and a great first photo stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum Dupniza",
+            "hu": "Dupnicai Történeti Múzeum",
+            "ro": "Muzeul de Istorie Dupnița",
+            "en": "Historical Museum Dupnitsa"
+          },
+          "coords": [
+            42.2665,
+            23.1148
+          ],
+          "category": "museums",
+          "arrive_at": "09:43",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Archäologie und Ethnographie der Region.",
+            "hu": "Fedezze fel a régió gazdag régészeti és néprajzi örökségét.",
+            "ro": "Descoperiți arheologia și etnografia bogată a regiunii.",
+            "en": "Discover the rich archaeology and ethnography of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtische Kunstgalerie",
+            "hu": "Városi Művészeti Galéria",
+            "ro": "Galeria de Artă Municipală",
+            "en": "Municipal Art Gallery"
+          },
+          "coords": [
+            42.2671,
+            23.1162
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:29",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie Werke lokaler und nationaler bulgarischer Künstler.",
+            "hu": "Csodálja meg a helyi és bolgár nemzeti művészek alkotásait.",
+            "ro": "Admirați lucrări ale artiștilor bulgari locali și naționali.",
+            "en": "Admire works by local and national Bulgarian artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Church of Saint George"
+          },
+          "coords": [
+            42.265,
+            23.118
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:37",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe mit beeindruckenden Ikonen und Fresken.",
+            "hu": "A nyugalom szigete, lenyűgöző ikonokkal és freskókkal.",
+            "ro": "Un loc de liniște cu icoane și fresce impresionante.",
+            "en": "A place of peace with impressive icons and frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Gefallenen",
+            "hu": "Az elesettek emlékműve",
+            "ro": "Monumentul celor Căzuți",
+            "en": "Monument to the Fallen"
+          },
+          "coords": [
+            42.269,
+            23.119
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:33",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Moment des Innehaltens, um der Geschichte der Stadt zu gedenken.",
+            "hu": "Egy pillanatnyi megállás a város történelmére emlékezve.",
+            "ro": "Un moment de reculegere pentru a comemora istoria orașului.",
+            "en": "A moment of pause to commemorate the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Rila-Park",
+            "hu": "Rila Park",
+            "ro": "Parcul Rila",
+            "en": "Rila Park"
+          },
+          "coords": [
+            42.263,
+            23.125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:14",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang am Nachmittag.",
+            "hu": "Tökéletes egy pihentető délutáni sétához.",
+            "ro": "Perfect pentru o plimbare relaxantă de după-amiază.",
+            "en": "Perfect for a relaxing afternoon stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke über die Bistriza",
+            "hu": "Híd a Bisztrica folyón",
+            "ro": "Podul peste Bistrița",
+            "en": "Bridge over the Bistritsa"
+          },
+          "coords": [
+            42.2625,
+            23.123
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:41",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht und das Rauschen des Flusses.",
+            "hu": "Élvezze a kilátást és a folyó zúgását.",
+            "ro": "Bucurați-vă de priveliște și de susurul râului.",
+            "en": "Enjoy the view and the sound of the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Uhrturm, dem Herzen von Dupniza. Am Vormittag tauchen Sie in die lokale Geschichte und Kunst ein und besuchen das Museum und die Galerie. Nach einem spirituellen Moment in der St.-Georgs-Kirche ist es Zeit für ein traditionelles bulgarisches Mittagessen. Der Nachmittag ist der Natur gewidmet: Ein langer Spaziergang durch den Rila-Park, der am ruhigen Fluss Bistriza endet, rundet den Tag perfekt ab.",
+        "hu": "Kezdje a napot az Óratoronynál, Dupnica szívében. Délelőtt merüljön el a helyi történelemben és művészetben a múzeumban és a galériában. A Szent György-templomban tett spirituális kitérő után ideje egy hagyományos bolgár ebédnek. A délutánt a természetnek szenteljük: egy hosszú séta a Rila Parkban, amely a csendes Bisztrica folyónál ér véget, tökéletesen lezárja a napot.",
+        "ro": "Începeți ziua la Turnul cu Ceas, inima Dupniței. Dimineața, scufundați-vă în istoria și arta locală la muzeu și galerie. După un moment spiritual la Biserica Sf. Gheorghe, este timpul pentru un prânz tradițional bulgăresc. După-amiaza este dedicată naturii: o plimbare lungă prin Parcul Rila, care se încheie la râul liniștit Bistrița, încheie perfect ziua.",
+        "en": "Start your day at the Clock Tower, the heart of Dupnitsa. In the morning, immerse yourself in local history and art at the museum and gallery. After a spiritual moment at the St. George Church, it's time for a traditional Bulgarian lunch. The afternoon is dedicated to nature: a long walk through Rila Park, ending at the quiet Bistritsa River, perfectly rounds off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Shopska-Salat",
+            "tip": "Ein Muss in Bulgarien, frisch und köstlich."
+          },
+          {
+            "name": "Kebapche",
+            "tip": "Gegrillte Hackfleischröllchen, perfekt für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Tarator",
+            "tip": "Eine erfrischende kalte Gurken-Joghurt-Suppe, ideal an warmen Tagen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sopszka saláta",
+            "tip": "Kötelező Bulgáriában, friss és ízletes."
+          },
+          {
+            "name": "Kebapcse",
+            "tip": "Grillezett darált hús rudacskák, tökéletes egy kiadós ebédhez."
+          },
+          {
+            "name": "Tarator",
+            "tip": "Frissítő hideg uborkás-joghurtos leves, ideális meleg napokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată Shopska",
+            "tip": "O necesitate în Bulgaria, proaspătă și delicioasă."
+          },
+          {
+            "name": "Kebapche",
+            "tip": "Rulouri de carne tocată la grătar, perfecte pentru un prânz copios."
+          },
+          {
+            "name": "Tarator",
+            "tip": "O supă rece răcoritoare de castraveți și iaurt, ideală în zilele calde."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopska Salad",
+            "tip": "A must-try in Bulgaria, fresh and delicious."
+          },
+          {
+            "name": "Kebapche",
+            "tip": "Grilled minced meat rolls, perfect for a hearty lunch."
+          },
+          {
+            "name": "Tarator",
+            "tip": "A refreshing cold cucumber and yogurt soup, ideal on warm days."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Bistriza",
+            "tip": "Finden Sie eine Bank und lauschen Sie dem Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rila-Park",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Ecken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hof der St.-Georgs-Kirche",
+            "tip": "Ein friedlicher Ort zum Nachdenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bisztrica folyó partja",
+            "tip": "Keressen egy padot és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rila Park",
+            "tip": "A fő utaktól távolabb csendes zugokat talál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent György-templom udvara",
+            "tip": "Békés hely az elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Bistrița",
+            "tip": "Găsiți o bancă și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Rila",
+            "tip": "Departe de cărările principale, veți găsi colțuri liniștite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Bisericii Sf. Gheorghe",
+            "tip": "Un loc pașnic pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Bistritsa River",
+            "tip": "Find a bench and listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rila Park",
+            "tip": "Away from the main paths, you will find quiet corners.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of St. George Church",
+            "tip": "A peaceful place for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie bulgarische Töpferwaren und Rosenölprodukte."
+          },
+          {
+            "name": "Zentrum der Stadt",
+            "tip": "Kleine Geschäfte mit handgemachten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon bolgár kerámiát és rózsaolaj termékeket."
+          },
+          {
+            "name": "Városközpont",
+            "tip": "Kis boltok kézzel készített szuvenírekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați ceramică bulgărească și produse din ulei de trandafiri."
+          },
+          {
+            "name": "Centrul orașului",
+            "tip": "Mici magazine cu suveniruri lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for Bulgarian pottery and rose oil products."
+          },
+          {
+            "name": "City Center",
+            "tip": "Small shops with handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das meiste zu Fuß erkundet wird.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Planen Sie Zeit für ein gemütliches Mittagessen in einer traditionellen Mehana ein.",
+          "Die besten Fotomotive finden Sie am frühen Morgen oder späten Nachmittag."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a legtöbb látnivalót gyalog fogja felfedezni.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Tervezzen időt egy kellemes ebédre egy hagyományos mehanában.",
+          "A legjobb fotókat kora reggel vagy késő délután készítheti."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece majoritatea explorării se face pe jos.",
+          "Luați cu dumneavoastră o sticlă de apă reutilizabilă.",
+          "Planificați timp pentru un prânz relaxat la o mehana tradițională.",
+          "Cele mai bune oportunități foto sunt dimineața devreme sau după-amiaza târziu."
+        ],
+        "en": [
+          "Wear comfortable shoes as most of the exploration is on foot.",
+          "Bring a reusable water bottle.",
+          "Plan time for a leisurely lunch at a traditional mehana.",
+          "The best photo opportunities are in the early morning or late afternoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 7.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Uhrturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            42.2658,
+            23.1155
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und beginnen Sie den Tag.",
+            "hu": "Zárja le a kerékpárt a közelben, és kezdje a napot.",
+            "ro": "Încuietoarea bicicletei în apropiere și începeți ziua.",
+            "en": "Lock your bike nearby and start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum Dupniza",
+            "hu": "Dupnicai Történeti Múzeum",
+            "ro": "Muzeul de Istorie Dupnița",
+            "en": "Historical Museum Dupnitsa"
+          },
+          "coords": [
+            42.2665,
+            23.1148
+          ],
+          "category": "museums",
+          "arrive_at": "09:33",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein tiefer Einblick in die lokale Kultur, gut für eine längere Pause.",
+            "hu": "Mély betekintés a helyi kultúrába, jó egy hosszabb pihenőre.",
+            "ro": "O incursiune profundă în cultura locală, bună pentru o pauză mai lungă.",
+            "en": "A deep dive into the local culture, good for a longer break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Church of Saint George"
+          },
+          "coords": [
+            42.265,
+            23.118
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:07",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt für einen Moment der Besinnung.",
+            "hu": "Egy rövid megálló egy pillanatnyi elmélkedésre.",
+            "ro": "O scurtă oprire pentru un moment de reflecție.",
+            "en": "A brief stop for a moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtische Kunstgalerie",
+            "hu": "Városi Művészeti Galéria",
+            "ro": "Galeria de Artă Municipală",
+            "en": "Municipal Art Gallery"
+          },
+          "coords": [
+            42.2671,
+            23.1162
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:40",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie die bulgarische Kunst.",
+            "hu": "Parkolja le a kerékpárt és élvezze a bolgár művészetet.",
+            "ro": "Parcați bicicleta și bucurați-vă de arta bulgară.",
+            "en": "Park your bike and enjoy Bulgarian art."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Gefallenen",
+            "hu": "Az elesettek emlékműve",
+            "ro": "Monumentul celor Căzuți",
+            "en": "Monument to the Fallen"
+          },
+          "coords": [
+            42.269,
+            23.119
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:38",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein schneller, aber bedeutungsvoller Halt auf Ihrer Route.",
+            "hu": "Gyors, de tartalmas megálló az útvonalon.",
+            "ro": "O oprire rapidă, dar semnificativă pe traseul dumneavoastră.",
+            "en": "A quick but meaningful stop on your route."
+          }
+        },
+        {
+          "name": {
+            "de": "Rila-Park",
+            "hu": "Rila Park",
+            "ro": "Parcul Rila",
+            "en": "Rila Park"
+          },
+          "coords": [
+            42.263,
+            23.125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Radfahren Sie durch den Park oder machen Sie hier eine längere Mittagspause.",
+            "hu": "Biciklizzen át a parkon, vagy tartson itt egy hosszabb ebédszünetet.",
+            "ro": "Pedalați prin parc sau luați o pauză de prânz mai lungă aici.",
+            "en": "Cycle through the park or take a longer lunch break here."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke über die Bistriza",
+            "hu": "Híd a Bisztrica folyón",
+            "ro": "Podul peste Bistrița",
+            "en": "Bridge over the Bistritsa"
+          },
+          "coords": [
+            42.2625,
+            23.123
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:24",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um die Landschaft zu genießen, bevor Sie weiterfahren.",
+            "hu": "Szép hely a táj élvezetére, mielőtt továbbhaladna.",
+            "ro": "Un loc frumos pentru a vă bucura de peisaj înainte de a merge mai departe.",
+            "en": "A beautiful spot to enjoy the scenery before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus-Museum Stanke Dimitrow",
+            "hu": "Sztanke Dimitrov Ház-Múzeum",
+            "ro": "Casa-Muzeu Stanke Dimitrov",
+            "en": "House-Museum Stanke Dimitrov"
+          },
+          "coords": [
+            42.26,
+            23.13
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:56",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, der dem Leben einer lokalen historischen Figur gewidmet ist.",
+            "hu": "A nap utolsó állomása, egy helyi történelmi személyiség életének szentelve.",
+            "ro": "Ultima oprire a zilei, dedicată vieții unei figuri istorice locale.",
+            "en": "The last stop of the day, dedicated to the life of a local historical figure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie am Uhrturm von Dupniza. Die Vormittagstour führt Sie durch das historische und kulturelle Herz der Stadt, vom Museum zur Kirche und Galerie. Nach einer kurzen Gedenkpause am Denkmal radeln Sie zum weitläufigen Rila-Park für ein Picknick oder ein schnelles Mittagessen. Der Nachmittag führt Sie über den Fluss Bistriza zu einem faszinierenden Haus-Museum, bevor Sie den Tag beenden.",
+        "hu": "Pattanjon kerékpárra, és induljon a dupnicai Óratoronytól. A délelőtti túra a város történelmi és kulturális szívén vezet keresztül, a múzeumtól a templomig és a galériáig. Az emlékműnél tartott rövid megemlékezés után tekerjen el a tágas Rila Parkba egy piknikre vagy egy gyors ebédre. A délután a Bisztrica folyón át egy lenyűgöző ház-múzeumhoz vezet, mielőtt befejezné a napot.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la Turnul cu Ceas din Dupnița. Turul de dimineață vă poartă prin inima istorică și culturală a orașului, de la muzeu la biserică și galerie. După o scurtă pauză comemorativă la monument, pedalați spre vastul Parc Rila pentru un picnic sau un prânz rapid. După-amiaza vă duce peste râul Bistrița la o casă-muzeu fascinantă înainte de a încheia ziua.",
+        "en": "Get on your bike and start at the Clock Tower of Dupnitsa. The morning tour takes you through the historical and cultural heart of the city, from the museum to the church and gallery. After a short commemorative break at the monument, cycle to the spacious Rila Park for a picnic or a quick lunch. The afternoon takes you across the Bistritsa River to a fascinating house-museum before ending the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Banitsa",
+            "tip": "Ein traditionelles bulgarisches Gebäck, ideal für einen schnellen Energieschub."
+          },
+          {
+            "name": "Lokale Mehana",
+            "tip": "Probieren Sie gegrilltes Fleisch und hausgemachten Wein."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Ein erfrischendes Joghurtgetränk, das perfekt zum Radfahren passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Banica",
+            "tip": "Hagyományos bolgár péksütemény, ideális egy gyors energialökethez."
+          },
+          {
+            "name": "Helyi mehana",
+            "tip": "Kóstolja meg a grillezett húsokat és a házi bort."
+          },
+          {
+            "name": "Ajrán",
+            "tip": "Frissítő joghurtital, amely tökéletesen illik a kerékpározáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Banitsa",
+            "tip": "O plăcintă tradițională bulgărească, ideală pentru o explozie rapidă de energie."
+          },
+          {
+            "name": "Mehana locală",
+            "tip": "Încercați carne la grătar și vin de casă."
+          },
+          {
+            "name": "Ayran",
+            "tip": "O băutură răcoritoare de iaurt, perfectă pentru a însoți ciclismul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Banitsa",
+            "tip": "A traditional Bulgarian pastry, ideal for a quick energy boost."
+          },
+          {
+            "name": "Local Mehana",
+            "tip": "Try grilled meats and homemade wine."
+          },
+          {
+            "name": "Ayran",
+            "tip": "A refreshing yogurt drink, perfect to accompany cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang des Flusses",
+            "tip": "Eine friedliche Route mit schöner Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Bänke im Rila-Park",
+            "tip": "Ein perfekter Ort für eine Pause im Schatten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a folyó mentén",
+            "tip": "Békés útvonal, gyönyörű kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rejtett padok a Rila Parkban",
+            "tip": "Tökéletes hely egy árnyékos pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului",
+            "tip": "Un traseu pașnic cu vederi frumoase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci ascunse în Parcul Rila",
+            "tip": "Un loc perfect pentru o pauză la umbră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the river",
+            "tip": "A peaceful route with beautiful views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden benches in Rila Park",
+            "tip": "A perfect spot for a break in the shade.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Falls Sie Fahrradzubehör benötigen."
+          },
+          {
+            "name": "Souvenirläden im Zentrum",
+            "tip": "Kleine Andenken an Ihre Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Ha kerékpár-kiegészítőkre lenne szüksége."
+          },
+          {
+            "name": "Szuvenírboltok a központban",
+            "tip": "Kis emlékek a kerékpártúráról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "În caz că aveți nevoie de accesorii pentru bicicletă."
+          },
+          {
+            "name": "Magazine de suveniruri în centru",
+            "tip": "Mici amintiri din turul dumneavoastră cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports shops",
+            "tip": "In case you need any bike accessories."
+          },
+          {
+            "name": "Souvenir shops in the center",
+            "tip": "Small mementos of your bike tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Tragen Sie einen Helm, besonders im Stadtverkehr.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Einige Straßen können holprig sein, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt.",
+          "Viseljen sisakot, különösen a városi forgalomban.",
+          "Hozzon magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a megállóknál.",
+          "Néhány út göröngyös lehet, vezessen óvatosan."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Purtați o cască, mai ales în traficul urban.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Unele drumuri pot fi denivelate, conduceți cu prudență."
+        ],
+        "en": [
+          "Check your bike before you leave.",
+          "Wear a helmet, especially in city traffic.",
+          "Bring a lock to secure your bike at the stops.",
+          "Some roads can be bumpy, ride with care."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Historischen Museum",
+            "hu": "Parkoló a Történeti Múzeumnál",
+            "ro": "Parcare la Muzeul de Istorie",
+            "en": "Parking at the Historical Museum"
+          },
+          "coords": [
+            42.2668,
+            23.1145
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel az első látnivaló-csoportot.",
+            "ro": "Parcați aici pentru a explora primul grup de obiective pe jos.",
+            "en": "Park here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum Dupniza",
+            "hu": "Dupnicai Történeti Múzeum",
+            "ro": "Muzeul de Istorie Dupnița",
+            "en": "Historical Museum Dupnitsa"
+          },
+          "coords": [
+            42.2665,
+            23.1148
+          ],
+          "category": "museums",
+          "arrive_at": "09:18",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour mit einem tiefen Einblick in die Geschichte.",
+            "hu": "Kezdje a túrát egy mély betekintéssel a történelembe.",
+            "ro": "Începeți turul cu o incursiune profundă în istorie.",
+            "en": "Start your tour with a deep dive into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            42.2658,
+            23.1155
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:44",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zum Wahrzeichen der Stadt.",
+            "hu": "Egy rövid séta a múzeumtól a város jelképéig.",
+            "ro": "O scurtă plimbare de la muzeu la emblema orașului.",
+            "en": "A short walk from the museum to the city's landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtische Kunstgalerie",
+            "hu": "Városi Művészeti Galéria",
+            "ro": "Galeria de Artă Municipală",
+            "en": "Municipal Art Gallery"
+          },
+          "coords": [
+            42.2671,
+            23.1162
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:10",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der letzte Halt im Stadtzentrum, bevor es weitergeht.",
+            "hu": "Az utolsó megálló a városközpontban, mielőtt tovább indul.",
+            "ro": "Ultima oprire în centrul orașului înainte de a merge mai departe.",
+            "en": "The last stop in the city center before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Rila-Park",
+            "hu": "Parkoló a Rila Parknál",
+            "ro": "Parcare la Parcul Rila",
+            "en": "Parking at Rila Park"
+          },
+          "coords": [
+            42.2635,
+            23.126
+          ],
+          "category": "transport",
+          "arrive_at": "12:15",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Zeit, zum zweiten Cluster zu fahren und das Auto wieder abzustellen.",
+            "hu": "Ideje a második látnivaló-csoporthoz hajtani és újra leparkolni.",
+            "ro": "Timpul să conduceți la al doilea grup și să parcați mașina din nou.",
+            "en": "Time to drive to the second cluster and park the car again."
+          }
+        },
+        {
+          "name": {
+            "de": "Rila-Park",
+            "hu": "Rila Park",
+            "ro": "Parcul Rila",
+            "en": "Rila Park"
+          },
+          "coords": [
+            42.263,
+            23.125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:23",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen langen Spaziergang und essen Sie in einem der Parkrestaurants zu Mittag.",
+            "hu": "Tegyen egy hosszú sétát és ebédeljen a park egyik éttermében.",
+            "ro": "Faceți o plimbare lungă și luați prânzul la unul dintre restaurantele din parc.",
+            "en": "Take a long walk and have lunch at one of the park's restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus-Museum Stanke Dimitrow",
+            "hu": "Sztanke Dimitrov Ház-Múzeum",
+            "ro": "Casa-Muzeu Stanke Dimitrov",
+            "en": "House-Museum Stanke Dimitrov"
+          },
+          "coords": [
+            42.26,
+            23.13
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:03",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein letzter kurzer Abstecher mit dem Auto zu diesem historischen Haus.",
+            "hu": "Egy utolsó rövid autós kitérő ehhez a történelmi házhoz.",
+            "ro": "Un ultim scurt ocol cu mașina la această casă istorică.",
+            "en": "A final short drive to this historic house."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Dupniza ist in zwei Cluster aufgeteilt. Beginnen Sie mit dem Parken im Stadtzentrum, um das historische Museum, den Uhrturm und die Kunstgalerie zu Fuß zu erkunden. Am Vormittag erleben Sie die städtische Kultur hautnah. Nach der Rückkehr zum Auto fahren Sie zum Rila-Park. Hier können Sie zu Mittag essen und einen langen Spaziergang genießen. Ein letzter kurzer Autotrip führt Sie zum Stanke Dimitrow Haus-Museum, einem perfekten Abschluss, um die lokale Geschichte zu würdigen.",
+        "hu": "Az autós nap Dupnicában két részre oszlik. Kezdje a parkolással a városközpontban, hogy gyalog fedezze fel a történelmi múzeumot, az óratornyot és a művészeti galériát. Délelőtt testközelből élheti át a városi kultúrát. Miután visszatért az autóhoz, hajtson a Rila Parkba. Itt megebédelhet és egy hosszú sétát tehet. Egy utolsó rövid autós út a Sztanke Dimitrov Ház-Múzeumhoz vezet, amely tökéletes lezárása a helyi történelem megismerésének.",
+        "ro": "Ziua cu mașina în Dupnița este împărțită în două grupuri. Începeți prin a parca în centrul orașului pentru a explora pe jos muzeul de istorie, turnul cu ceas și galeria de artă. Dimineața veți experimenta cultura urbană de aproape. După ce vă întoarceți la mașină, conduceți spre Parcul Rila. Aici puteți lua prânzul și vă puteți bucura de o plimbare lungă. O ultimă scurtă călătorie cu mașina vă duce la Casa-Muzeu Stanke Dimitrov, o încheiere perfectă pentru a aprecia istoria locală.",
+        "en": "Your car day in Dupnitsa is divided into two clusters. Start by parking in the city center to explore the historical museum, clock tower, and art gallery on foot. In the morning, you'll experience urban culture up close. After returning to the car, drive to Rila Park. Here you can have lunch and enjoy a long walk. A final short car trip takes you to the Stanke Dimitrov House-Museum, a perfect conclusion to appreciate local history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Rila-Park",
+            "tip": "Genießen Sie eine Mahlzeit im Grünen."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "Ein herzhafter, langsam gekochter Eintopf, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Mekitsi",
+            "tip": "Frittierter Teig, oft mit Puderzucker oder Käse serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Rila Parkban",
+            "tip": "Élvezzen egy étkezést a zöldben."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "Kiadós, lassan főtt pörkölt, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Mekici",
+            "tip": "Sült tészta, gyakran porcukorral vagy sajttal tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în Parcul Rila",
+            "tip": "Bucurați-vă de o masă în mijlocul naturii."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "O tocană consistentă, gătită lent, perfectă după o plimbare lungă."
+          },
+          {
+            "name": "Mekitsi",
+            "tip": "Aluat prăjit, adesea servit cu zahăr pudră sau brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant in Rila Park",
+            "tip": "Enjoy a meal surrounded by greenery."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "A hearty, slow-cooked stew, perfect after a long walk."
+          },
+          {
+            "name": "Mekitsi",
+            "tip": "Fried dough, often served with powdered sugar or cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein ruhiger Weg im Rila-Park",
+            "tip": "Entfliehen Sie dem Trubel der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Hügel in der Nähe des Stanke Dimitrow Museums",
+            "tip": "Eine schöne Aussicht über die Umgebung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes ösvény a Rila Parkban",
+            "tip": "Meneküljön el a város nyüzsgésétől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a dombról a Sztanke Dimitrov Múzeum közelében",
+            "tip": "Szép kilátás a környékre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O potecă liniștită în Parcul Rila",
+            "tip": "Evadați din agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe dealul de lângă Muzeul Stanke Dimitrov",
+            "tip": "O priveliște frumoasă asupra împrejurimilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet path in Rila Park",
+            "tip": "Escape the hustle and bustle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the hill near the Stanke Dimitrov Museum",
+            "tip": "A beautiful view over the surrounding area.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenhändler in der Nähe des Parks",
+            "tip": "Finden Sie lokale Produkte und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai árusok a park közelében",
+            "tip": "Találjon helyi termékeket és mézet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători ambulanți lângă parc",
+            "tip": "Găsiți produse locale și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street vendors near the park",
+            "tip": "Find local produce and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein GPS ist nützlich, um zwischen den Clustern zu navigieren.",
+          "Lassen Sie keine Wertsachen im Auto.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders am Nachmittag."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "GPS hasznos a látnivaló-csoportok közötti navigáláshoz.",
+          "Ne hagyjon értékeket az autóban.",
+          "Tervezzen plusz időt a forgalomra, különösen délután."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele în avans.",
+          "Un GPS este util pentru a naviga între grupuri.",
+          "Nu lăsați obiecte de valoare în mașină.",
+          "Planificați timp suplimentar pentru trafic, mai ales după-amiaza."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A GPS is useful for navigating between clusters.",
+          "Do not leave valuables in the car.",
+          "Plan for extra time for traffic, especially in the afternoon."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrale Bushaltestelle",
+            "hu": "Központi buszmegálló",
+            "ro": "Stația centrală de autobuz",
+            "en": "Central Bus Stop"
+          },
+          "coords": [
+            42.2675,
+            23.116
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihren Tag, im Herzen des öffentlichen Verkehrsnetzes.",
+            "hu": "Kezdje itt a napot, a tömegközlekedési hálózat szívében.",
+            "ro": "Începeți ziua aici, în inima rețelei de transport public.",
+            "en": "Start your day here, in the heart of the public transport network."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtische Kunstgalerie",
+            "hu": "Városi Művészeti Galéria",
+            "ro": "Galeria de Artă Municipală",
+            "en": "Municipal Art Gallery"
+          },
+          "coords": [
+            42.2671,
+            23.1162
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:18",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ihr erster Halt ist nur einen kurzen Spaziergang von der Haltestelle entfernt.",
+            "hu": "Az első megálló csak egy rövid sétára van a megállótól.",
+            "ro": "Prima oprire este la doar o scurtă plimbare de stație.",
+            "en": "Your first stop is just a short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            42.2658,
+            23.1155
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:24",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie zum Uhrturm und genießen Sie die Atmosphäre des Stadtzentrums.",
+            "hu": "Sétáljon el az Óratoronyhoz, és élvezze a városközpont hangulatát.",
+            "ro": "Plimbați-vă până la Turnul cu Ceas și bucurați-vă de atmosfera din centrul orașului.",
+            "en": "Stroll to the Clock Tower and enjoy the city center atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Gefallenen",
+            "hu": "Az elesettek emlékműve",
+            "ro": "Monumentul celor Căzuți",
+            "en": "Monument to the Fallen"
+          },
+          "coords": [
+            42.269,
+            23.119
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:01",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein nachdenklicher Halt, bevor Sie den Bus zum nächsten Ziel nehmen.",
+            "hu": "Elgondolkodtató megálló, mielőtt buszra szállna a következő célponthoz.",
+            "ro": "O oprire contemplativă înainte de a lua autobuzul spre următoarea destinație.",
+            "en": "A thoughtful stop before taking the bus to the next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Rila-Park",
+            "hu": "Rila Park",
+            "ro": "Parcul Rila",
+            "en": "Rila Park"
+          },
+          "coords": [
+            42.263,
+            23.125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:51",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Park für einen entspannten Nachmittag und Mittagessen.",
+            "hu": "Szálljon buszra a parkhoz egy pihentető délutánra és ebédre.",
+            "ro": "Luați un autobuz spre parc pentru o după-amiază relaxantă și prânz.",
+            "en": "Take a bus to the park for a relaxing afternoon and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke über die Bistriza",
+            "hu": "Híd a Bisztrica folyón",
+            "ro": "Podul peste Bistrița",
+            "en": "Bridge over the Bistritsa"
+          },
+          "coords": [
+            42.2625,
+            23.123
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:21",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein malerischer Spaziergang vom Park zur Brücke zum Abschluss des Tages.",
+            "hu": "Festői séta a parktól a hídig a nap lezárásaként.",
+            "ro": "O plimbare pitorească de la parc la pod pentru a încheia ziua.",
+            "en": "A scenic walk from the park to the bridge to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Dupniza in zwei Teilen. Der Morgen beginnt im Stadtzentrum, wo Sie die Kunstgalerie, den Uhrturm und das Denkmal bequem zu Fuß erreichen. Genießen Sie die städtische Atmosphäre, bevor Sie einen Bus nehmen. Der Nachmittag gehört dem Rila-Park. Nach einer Busfahrt können Sie hier entspannen, zu Mittag essen und zum Abschluss einen Spaziergang zur malerischen Bistriza-Brücke machen.",
+        "hu": "A tömegközlekedéssel két részletben fedezi fel Dupnicát. A reggel a városközpontban kezdődik, ahol a művészeti galériát, az óratornyot és az emlékművet kényelmesen, gyalog érheti el. Élvezze a városi hangulatot, mielőtt buszra szállna. A délután a Rila Parké. Egy buszozás után itt pihenhet, ebédelhet, és a nap végén tehet egy sétát a festői Bisztrica-hídhoz.",
+        "ro": "Folosind transportul public, explorați Dupnița în două părți. Dimineața începe în centrul orașului, unde puteți ajunge cu ușurință pe jos la galeria de artă, turnul cu ceas și monument. Bucurați-vă de atmosfera urbană înainte de a lua un autobuz. După-amiaza este dedicată Parcului Rila. După o călătorie cu autobuzul, vă puteți relaxa aici, puteți lua prânzul și, la final, puteți face o plimbare până la pitorescul pod Bistrița.",
+        "en": "Using public transport, you'll explore Dupnitsa in two parts. The morning starts in the city center, where you can easily reach the art gallery, clock tower, and monument on foot. Enjoy the urban atmosphere before taking a bus. The afternoon belongs to Rila Park. After a bus ride, you can relax here, have lunch, and finally take a walk to the picturesque Bistritsa bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei in der Nähe der Haltestelle",
+            "tip": "Holen Sie sich ein schnelles Gebäck für unterwegs."
+          },
+          {
+            "name": "Gyuveche",
+            "tip": "Ein traditionelles, in einem Tontopf gebackenes Gericht."
+          },
+          {
+            "name": "Boza",
+            "tip": "Ein fermentiertes Malzgetränk, ein einzigartiger lokaler Geschmack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a megálló közelében",
+            "tip": "Kapjon be egy gyors péksüteményt útközben."
+          },
+          {
+            "name": "Gjuvecse",
+            "tip": "Hagyományos, agyagedényben sült étel."
+          },
+          {
+            "name": "Boza",
+            "tip": "Erjesztett malátaital, egyedi helyi íz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie lângă stație",
+            "tip": "Luați un produs de patiserie rapid pentru drum."
+          },
+          {
+            "name": "Gyuveche",
+            "tip": "Un fel de mâncare tradițional copt într-un vas de lut."
+          },
+          {
+            "name": "Boza",
+            "tip": "O băutură fermentată din malț, un gust local unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery near the bus stop",
+            "tip": "Grab a quick pastry for the road."
+          },
+          {
+            "name": "Gyuveche",
+            "tip": "A traditional dish baked in a clay pot."
+          },
+          {
+            "name": "Boza",
+            "tip": "A fermented malt drink, a unique local taste."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Beobachten Sie die Stadt aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank am Fluss Bistriza",
+            "tip": "Ein perfekter Ort, um auf den Bus zurück zu warten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Nézze a várost egy másik perspektívából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a Bisztrica folyónál",
+            "tip": "Tökéletes hely, hogy megvárja a visszautazó buszt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Priviți orașul dintr-o altă perspectivă.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă lângă râul Bistrița",
+            "tip": "Un loc perfect pentru a aștepta autobuzul de întoarcere.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of a double-decker bus",
+            "tip": "Watch the city from a different perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench by the Bistritsa river",
+            "tip": "A perfect spot to wait for the bus back.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an den Bushaltestellen",
+            "tip": "Kaufen Sie Fahrkarten und kleine Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Vásároljon jegyeket és apró rágcsálnivalókat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la stațiile de autobuz",
+            "tip": "Cumpărați bilete și gustări mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at the bus stops",
+            "tip": "Buy tickets and small snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Fahrt zurück.",
+          "Halten Sie Kleingeld für Fahrkarten bereit, falls Sie es am Kiosk kaufen.",
+          "Fragen Sie Einheimische nach der richtigen Buslinie, sie sind oft hilfsbereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó visszaútra.",
+          "Tartson magánál aprópénzt a jegyekhez, ha a kioszkban vásárol.",
+          "Kérdezze meg a helyieket a megfelelő buszjáratról, gyakran segítőkészek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie de întoarcere.",
+          "Păstrați mărunțiș pentru bilete dacă cumpărați de la chioșc.",
+          "Întrebați localnicii despre linia corectă de autobuz, sunt adesea de ajutor."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Check the bus schedule in advance, especially for the last trip back.",
+          "Keep small change for tickets if buying from a kiosk.",
+          "Ask locals for the right bus line, they are often helpful."
+        ]
+      }
+    }
+  }
+}

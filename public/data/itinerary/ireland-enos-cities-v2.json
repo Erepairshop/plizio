@@ -1,0 +1,1353 @@
+{
+  "city_id": "ireland-enos-cities-v2",
+  "anchor": {
+    "name": "Enniskillen",
+    "coords": [
+      -7.639,
+      54.346
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Der Buttermarkt",
+            "hu": "A Vajpiac",
+            "ro": "Piața de Unt",
+            "en": "The Buttermarket"
+          },
+          "coords": [
+            -7.643,
+            54.346
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokalen Kunsthandwerksläden in den restaurierten Gebäuden aus dem 19. Jahrhundert.",
+            "hu": "Fedezze fel a 19. századi felújított épületekben található helyi kézműves boltokat.",
+            "ro": "Explorați magazinele de artizanat local din clădirile restaurate din secolul al XIX-lea.",
+            "en": "Explore the local craft shops housed in the restored 19th-century buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Macartin-Kathedrale",
+            "hu": "Szent Macartin-székesegyház",
+            "ro": "Catedrala Sf. Macartin",
+            "en": "St. Macartin's Cathedral"
+          },
+          "coords": [
+            -7.641,
+            54.344
+          ],
+          "category": "churches",
+          "arrive_at": "10:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Buntglasfenster und die hohe gotische Turmspitze.",
+            "hu": "Csodálja meg az ólomüveg ablakokat és a magas gótikus tornyot.",
+            "ro": "Admirați vitraliile și turla gotică înaltă.",
+            "en": "Admire the stained-glass windows and the tall Gothic spire."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Enniskillen",
+            "hu": "Enniskillen vára",
+            "ro": "Castelul Enniskillen",
+            "en": "Enniskillen Castle"
+          },
+          "coords": [
+            -7.647,
+            54.347
+          ],
+          "category": "castles",
+          "arrive_at": "11:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Schloss beherbergt zwei Museen, die einen tiefen Einblick in die lokale Geschichte bieten.",
+            "hu": "A vár két múzeumnak ad otthont, amelyek mély betekintést nyújtanak a helyi történelembe.",
+            "ro": "Castelul găzduiește două muzee care oferă o perspectivă profundă asupra istoriei locale.",
+            "en": "The castle houses two museums offering a deep dive into local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Cole's Monument",
+            "hu": "Cole-emlékmű",
+            "ro": "Monumentul lui Cole",
+            "en": "Cole's Monument"
+          },
+          "coords": [
+            -7.63,
+            54.35
+          ],
+          "category": "monuments",
+          "arrive_at": "13:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Steigen Sie die 108 Stufen zur Spitze für einen Panoramablick über die Stadt und Lough Erne.",
+            "hu": "Másszon fel a 108 lépcsőfokon a tetejére, ahonnan panorámás kilátás nyílik a városra és a Lough Erne-re.",
+            "ro": "Urcați cele 108 trepte până în vârf pentru o vedere panoramică a orașului și a lacului Lough Erne.",
+            "en": "Climb the 108 steps to the top for a panoramic view of the town and Lough Erne."
+          }
+        },
+        {
+          "name": {
+            "de": "Forthill Park",
+            "hu": "Forthill Park",
+            "ro": "Parcul Forthill",
+            "en": "Forthill Park"
+          },
+          "coords": [
+            -7.628,
+            54.351
+          ],
+          "category": "parks",
+          "arrive_at": "14:00",
+          "stay_min": 160,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Nachmittagspicknick. Hier befindet sich auch das Cole's Monument.",
+            "hu": "Tökéletes hely egy délutáni piknikhez. A Cole-emlékmű is itt található.",
+            "ro": "Un loc perfect pentru un picnic de după-amiază. Aici se află și Monumentul lui Cole.",
+            "en": "A perfect spot for an afternoon picnic. Cole's Monument is also located here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Enniskillen beginnt auf dem belebten Buttermarkt, wo Kunsthandwerk auf Geschichte trifft. Am Vormittag erkunden Sie die spirituelle Ruhe der St.-Macartin-Kathedrale, gefolgt von einer Reise in die Vergangenheit im majestätischen Schloss Enniskillen. Nach einem gemütlichen Mittagessen erklimmen Sie das Cole's Monument für eine atemberaubende Aussicht. Der Nachmittag ist einem entspannten Spaziergang im Forthill Park gewidmet, der den Tag inmitten der Natur ausklingen lässt.",
+        "hu": "Enniskilleni napja a nyüzsgő Vajpiacon kezdődik, ahol a kézművesség és a történelem találkozik. Délelőtt a Szent Macartin-székesegyház spirituális nyugalmát fedezi fel, majd a fenséges Enniskillen-várban tesz egy utazást a múltba. Egy kellemes ebéd után megmássza a Cole-emlékművet a lélegzetelállító kilátásért. A délutánt a Forthill Parkban tölti egy pihentető sétával, a természetben zárva a napot.",
+        "ro": "Ziua dvs. în Enniskillen începe la Piața de Unt plină de viață, unde meșteșugurile întâlnesc istoria. Înainte de prânz, explorați liniștea spirituală a Catedralei Sf. Macartin, urmată de o călătorie înapoi în timp la majestuosul Castel Enniskillen. După un prânz pe îndelete, urcați la Monumentul lui Cole pentru priveliști uimitoare. După-amiaza este dedicată unei plimbări relaxante în Parcul Forthill, încheind ziua în mijlocul naturii.",
+        "en": "Your day in Enniskillen begins at the bustling Buttermarket, where crafts meet history. Your morning explores the spiritual calm of St. Macartin's Cathedral, followed by a journey back in time at the majestic Enniskillen Castle. After a leisurely lunch, you'll climb Cole's Monument for breathtaking views. The afternoon is for a relaxing stroll in Forthill Park, ending the day amidst nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Ein herzhaftes traditionelles Frühstück, um den Tag zu beginnen. Probieren Sie es im The Jolly Sandwich Bar."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Frisch vom Lough Erne. Genießen Sie es am Wasser."
+          },
+          {
+            "name": "Boxty",
+            "tip": "Ein traditioneller irischer Kartoffelpfannkuchen, serviert im Franco's Restaurant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Egy kiadós, hagyományos reggeli a nap indításához. Kóstolja meg a The Jolly Sandwich Barban."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Frissen a Lough Erne-ből. Fogyassza a vízparton."
+          },
+          {
+            "name": "Boxty",
+            "tip": "Hagyományos ír krumplipalacsinta, a Franco's Restaurantban tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Un mic dejun tradițional consistent pentru a începe ziua. Încercați-l la The Jolly Sandwich Bar."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Proaspăt din Lough Erne. Savurați-l lângă apă."
+          },
+          {
+            "name": "Boxty",
+            "tip": "O clătită tradițională irlandeză din cartofi, servită la Restaurantul Franco's."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ulster Fry",
+            "tip": "A hearty traditional breakfast to start the day. Try it at The Jolly Sandwich Bar."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Fresh from Lough Erne. Enjoy it by the waterside."
+          },
+          {
+            "name": "Boxty",
+            "tip": "A traditional Irish potato pancake, served at Franco's Restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Lough Erne",
+            "tip": "Finden Sie eine ruhige Bank entlang des Flusses für einen friedlichen Moment.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten von Castle Coole",
+            "tip": "Auch ohne das Haus zu betreten, sind die Gärten ein ruhiger Rückzugsort.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang über Devenish Island",
+            "tip": "Beobachten Sie, wie die Sonne hinter dem alten runden Turm untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lough Erne partja",
+            "tip": "Keressen egy csendes padot a folyó mentén egy békés pillanatért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Coole kertjei",
+            "tip": "Még ha nem is megy be a házba, a kertek csendes menedéket nyújtanak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Devenish-sziget felett",
+            "tip": "Nézze, ahogy a nap lemegy az ősi kerek torony mögött.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile Lough Erne",
+            "tip": "Găsiți o bancă liniștită de-a lungul râului pentru un moment de pace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Castelului Coole",
+            "tip": "Chiar și fără a intra în casă, grădinile sunt un refugiu liniștit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus peste Insula Devenish",
+            "tip": "Priviți soarele apunând în spatele vechiului turn rotund.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lough Erne Shore",
+            "tip": "Find a quiet bench along the river for a peaceful moment.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Coole Gardens",
+            "tip": "Even without entering the house, the gardens are a tranquil escape.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset over Devenish Island",
+            "tip": "Watch the sun set behind the ancient round tower.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Der Buttermarkt",
+            "tip": "Kaufläden für lokales Kunsthandwerk, von Töpferei bis zu Textilien."
+          },
+          {
+            "name": "Erneside Shopping Centre",
+            "tip": "Eine Mischung aus lokalen und bekannten Markengeschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Vajpiac",
+            "tip": "Helyi kézműves termékeket árusító boltok, a kerámiától a textíliákig."
+          },
+          {
+            "name": "Erneside Bevásárlóközpont",
+            "tip": "Helyi és ismert márkaboltok keveréke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de Unt",
+            "tip": "Magazine care vând artizanat local, de la ceramică la textile."
+          },
+          {
+            "name": "Centrul Comercial Erneside",
+            "tip": "Un amestec de magazine locale și de marcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Buttermarket",
+            "tip": "Shops for local crafts, from pottery to textiles."
+          },
+          {
+            "name": "Erneside Shopping Centre",
+            "tip": "A mix of local and high-street brand shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Nehmen Sie einen Regenschirm mit, das Wetter in Fermanagh kann unvorhersehbar sein.",
+          "Überprüfen Sie die Öffnungszeiten für das Schloss und das Denkmal, da sie saisonal variieren können.",
+          "Bargeld ist nützlich für kleinere Einkäufe auf dem Markt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek.",
+          "Hozzon magával esernyőt, az időjárás Fermanagh-ban kiszámíthatatlan lehet.",
+          "Ellenőrizze a vár és az emlékmű nyitvatartási idejét, mivel szezonálisan változhat.",
+          "Készpénz hasznos lehet a kisebb piaci vásárlásokhoz."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavelele pot fi denivelate.",
+          "Aduceți o umbrelă, vremea în Fermanagh poate fi imprevizibilă.",
+          "Verificați orele de deschidere pentru castel și monument, deoarece acestea pot varia sezonier.",
+          "Numerarul este util pentru cumpărături mici în piață."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Bring an umbrella; Fermanagh weather can be unpredictable.",
+          "Check opening times for the castle and monument as they can be seasonal.",
+          "Cash is useful for smaller purchases at the market."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Der Buttermarkt",
+            "hu": "A Vajpiac",
+            "ro": "Piața de Unt",
+            "en": "The Buttermarket"
+          },
+          "coords": [
+            -7.643,
+            54.346
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ausgangspunkt mit Cafés, um sich vor der Radtour zu stärken.",
+            "hu": "Remek kiindulópont kávézókkal, ahol feltöltődhet a kerékpártúra előtt.",
+            "ro": "Un punct de plecare excelent, cu cafenele pentru a vă alimenta înainte de plimbarea cu bicicleta.",
+            "en": "A great starting point with cafes to fuel up before the cycle."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Macartin-Kathedrale",
+            "hu": "Szent Macartin-székesegyház",
+            "ro": "Catedrala Sf. Macartin",
+            "en": "St. Macartin's Cathedral"
+          },
+          "coords": [
+            -7.641,
+            54.344
+          ],
+          "category": "churches",
+          "arrive_at": "09:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad draußen und nehmen Sie sich einen Moment Zeit für die ruhige Atmosphäre im Inneren.",
+            "hu": "Parkolja le a kerékpárját odakint, és szánjon egy percet a benti csendes légkörre.",
+            "ro": "Parcați bicicleta afară și luați-vă un moment pentru atmosfera liniștită din interior.",
+            "en": "Park your bike outside and take a moment for the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Enniskillen",
+            "hu": "Enniskillen vára",
+            "ro": "Castelul Enniskillen",
+            "en": "Enniskillen Castle"
+          },
+          "coords": [
+            -7.647,
+            54.347
+          ],
+          "category": "castles",
+          "arrive_at": "10:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Eingangs. Die Museen sind einen Besuch wert.",
+            "hu": "A bejárat közelében kerékpártárolók találhatók. A múzeumokat érdemes meglátogatni.",
+            "ro": "Există suporturi pentru biciclete lângă intrare. Muzeele merită vizitate.",
+            "en": "There are bike racks near the entrance. The museums are well worth the visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Portora Royal School",
+            "hu": "Portora Királyi Iskola",
+            "ro": "Școala Regală Portora",
+            "en": "Portora Royal School"
+          },
+          "coords": [
+            -7.66,
+            54.35
+          ],
+          "category": "historical",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine historische Schule mit bemerkenswerten Alumni wie Oscar Wilde. Bewundern Sie die Architektur von außen.",
+            "hu": "Történelmi iskola olyan neves öregdiákokkal, mint Oscar Wilde. Csodálja meg az építészetét kívülről.",
+            "ro": "O școală istorică cu absolvenți notabili precum Oscar Wilde. Admirați arhitectura din exterior.",
+            "en": "A historic school with notable alumni like Oscar Wilde. Admire the architecture from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Forthill Park & Cole's Monument",
+            "hu": "Forthill Park és Cole-emlékmű",
+            "ro": "Parcul Forthill și Monumentul lui Cole",
+            "en": "Forthill Park & Cole's Monument"
+          },
+          "coords": [
+            -7.628,
+            54.351
+          ],
+          "category": "parks",
+          "arrive_at": "13:48",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Eine schöne, wenn auch anstrengende Radtour den Hügel hinauf. Die Aussicht von der Spitze des Denkmals ist die Mühe wert.",
+            "hu": "Egy gyönyörű, bár fárasztó kerékpártúra a dombra. A kilátás az emlékmű tetejéről megéri a fáradozást.",
+            "ro": "O plimbare frumoasă, deși dificilă, cu bicicleta pe deal. Priveliștea din vârful monumentului merită efortul.",
+            "en": "A beautiful, though challenging, cycle up the hill. The view from the top of the monument is worth the effort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt im historischen Buttermarkt. Von dort aus radeln Sie zur St.-Macartin-Kathedrale und zum Schloss Enniskillen und tauchen in das Herz der Stadt ein. Am Mittag unternehmen Sie eine landschaftlich reizvolle Fahrt zur berühmten Portora Royal School. Der Nachmittag führt Sie bergauf zum Forthill Park, wo Sie das Cole's Monument besteigen können, um eine unvergleichliche Aussicht zu genießen, bevor Sie den Tag mit einer gemütlichen Abfahrt ausklingen lassen.",
+        "hu": "Kerékpáros kalandja a történelmi Vajpiacon kezdődik. Innen a Szent Macartin-székesegyházhoz és az Enniskillen-várhoz teker, elmerülve a város szívében. Délben egy festői útra indul a híres Portora Királyi Iskolához. A délután a Forthill Parkba vezet fel a dombon, ahol megmászhatja a Cole-emlékművet a páratlan kilátásért, mielőtt egy kellemes lejtőzéssel zárja a napot.",
+        "ro": "Aventura dvs. pe bicicletă începe la istorica Piață de Unt. De acolo, pedalați spre Catedrala Sf. Macartin și Castelul Enniskillen, scufundându-vă în inima orașului. La prânz, faceți o plimbare pitorească până la faimoasa Școală Regală Portora. După-amiaza vă duce în susul dealului la Parcul Forthill, unde puteți urca la Monumentul lui Cole pentru priveliști de neegalat înainte de a încheia ziua cu o coborâre pe îndelete.",
+        "en": "Your cycling adventure starts at the historic Buttermarket. From there, you'll pedal to St. Macartin's Cathedral and Enniskillen Castle, immersing yourself in the town's heart. Midday involves a scenic ride out to the famous Portora Royal School. The afternoon takes you uphill to Forthill Park, where you can climb Cole's Monument for unparalleled views before a leisurely downhill ride to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Firehouse",
+            "tip": "Ideal für ein stärkendes Mittagessen nach einer Radtour, bekannt für seine Burger und Pizzen."
+          },
+          {
+            "name": "Cafe Merlot",
+            "tip": "Bietet leichtere Optionen und großartigen Kaffee."
+          },
+          {
+            "name": "Saddlers Restaurant",
+            "tip": "Ein gehobeneres Abendessen, um Ihre Radtour zu feiern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Firehouse",
+            "tip": "Ideális egy kiadós ebédhez egy kerékpártúra után, híres a hamburgereiről és pizzáiról."
+          },
+          {
+            "name": "Cafe Merlot",
+            "tip": "Könnyebb ételeket és remek kávét kínál."
+          },
+          {
+            "name": "Saddlers Restaurant",
+            "tip": "Egy elegánsabb vacsora a kerékpártúra megünneplésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Firehouse",
+            "tip": "Ideal pentru un prânz consistent după o plimbare cu bicicleta, cunoscut pentru burgerii și pizza sa."
+          },
+          {
+            "name": "Cafe Merlot",
+            "tip": "Oferă opțiuni mai ușoare și o cafea excelentă."
+          },
+          {
+            "name": "Saddlers Restaurant",
+            "tip": "O cină mai elegantă pentru a sărbători realizarea dvs. ciclistă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Firehouse",
+            "tip": "Ideal for a filling post-cycle lunch, known for its burgers and pizzas."
+          },
+          {
+            "name": "Cafe Merlot",
+            "tip": "Offers lighter options and great coffee."
+          },
+          {
+            "name": "Saddlers Restaurant",
+            "tip": "A more upmarket dinner to celebrate your cycling achievement."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Fluss",
+            "tip": "Genießen Sie eine ruhige Fahrt entlang des Flusses Erne.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Round 'O' Park",
+            "tip": "Ein weniger bekannter Park, perfekt für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Portora Royal School",
+            "tip": "Bietet einen friedlichen Blick über den Lough Erne.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti kerékpárút",
+            "tip": "Élvezze a csendes tekerést az Erne folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Round 'O' Park",
+            "tip": "Egy kevésbé ismert park, tökéletes egy rövid pihenőre."
+          },
+          {
+            "name": "Kilátás a Portora Királyi Iskolától",
+            "tip": "Békés kilátást nyújt a Lough Erne-re.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul râului",
+            "tip": "Bucurați-vă de o plimbare liniștită de-a lungul râului Erne.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Round 'O'",
+            "tip": "Un parc mai puțin cunoscut, perfect pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Școala Regală Portora",
+            "tip": "Oferă o priveliște liniștită asupra Lough Erne.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside Cycle Path",
+            "tip": "Enjoy a quiet ride along the River Erne.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Round 'O' Park",
+            "tip": "A lesser-known park perfect for a quick break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Portora Royal School",
+            "tip": "Offers a peaceful view over Lough Erne.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lakeland Bikes",
+            "tip": "Für alle Fahrradzubehörteile oder Last-Minute-Reparaturen."
+          },
+          {
+            "name": "Fermanagh Cottage Industries",
+            "tip": "Lokale handgemachte Waren und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lakeland Bikes",
+            "tip": "Mindenféle kerékpáros kiegészítőért vagy utolsó pillanatban történő javításokért."
+          },
+          {
+            "name": "Fermanagh Cottage Industries",
+            "tip": "Helyi kézzel készített áruk és ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lakeland Bikes",
+            "tip": "Pentru orice accesorii de bicicletă sau reparații de ultim moment."
+          },
+          {
+            "name": "Fermanagh Cottage Industries",
+            "tip": "Produse locale lucrate manual și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeland Bikes",
+            "tip": "For any cycling accessories or last-minute repairs."
+          },
+          {
+            "name": "Fermanagh Cottage Industries",
+            "tip": "Local handmade goods and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad im Voraus, besonders in der Hochsaison.",
+          "Tragen Sie einen Helm und gut sichtbare Kleidung.",
+          "Einige Straßen können eng sein, seien Sie vorsichtig im Verkehr.",
+          "Nehmen Sie Wasser und Snacks für Ihre Fahrt mit."
+        ],
+        "hu": [
+          "Béreljen kerékpárt előre, különösen a főszezonban.",
+          "Viseljen sisakot és jól láthatósági ruházatot.",
+          "Néhány út szűk lehet, legyen óvatos a forgalomban.",
+          "Vigyen magával vizet és harapnivalót az útra."
+        ],
+        "ro": [
+          "Închiriați o bicicletă în avans, mai ales în sezonul de vârf.",
+          "Purtați cască și haine cu vizibilitate ridicată.",
+          "Unele drumuri pot fi înguste, fiți atenți la trafic.",
+          "Luați apă și gustări pentru plimbare."
+        ],
+        "en": [
+          "Rent a bike in advance, especially during peak season.",
+          "Wear a helmet and high-visibility clothing.",
+          "Some roads can be narrow; be cautious of traffic.",
+          "Pack water and snacks for your ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 28.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Coole",
+            "hu": "Castle Coole",
+            "ro": "Castelul Coole",
+            "en": "Castle Coole"
+          },
+          "coords": [
+            -7.61,
+            54.335
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer Tour durch dieses prächtige neoklassizistische Herrenhaus. Buchen Sie Tickets im Voraus.",
+            "hu": "Kezdje a napot egy túrával ebben a pompás neoklasszikus kastélyban. Foglaljon jegyet előre.",
+            "ro": "Începeți ziua cu un tur al acestui conac neoclasic magnific. Rezervați biletele în avans.",
+            "en": "Start your day with a tour of this magnificent neoclassical mansion. Book tickets in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Buttermarkt & Stadtzentrum",
+            "hu": "A Vajpiac és a városközpont",
+            "ro": "Piața de Unt și Centrul Orașului",
+            "en": "The Buttermarket & Town Centre"
+          },
+          "coords": [
+            -7.643,
+            54.346
+          ],
+          "category": "squares",
+          "arrive_at": "11:04",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und erkunden Sie den Cluster der Innenstadt zu Fuß. Beginnen Sie mit dem Kunsthandwerk auf dem Buttermarkt.",
+            "hu": "Parkolja le az autót, és fedezze fel gyalog a belvárosi klasztert. Kezdje a Vajpiac kézműves termékeivel.",
+            "ro": "Parcați mașina și explorați grupul de atracții din centrul orașului pe jos. Începeți cu meșteșugurile de la Piața de Unt.",
+            "en": "Park your car and explore the town centre cluster on foot. Start with the crafts at the Buttermarket."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Macartin-Kathedrale",
+            "hu": "Szent Macartin-székesegyház",
+            "ro": "Catedrala Sf. Macartin",
+            "en": "St. Macartin's Cathedral"
+          },
+          "coords": [
+            -7.641,
+            54.344
+          ],
+          "category": "churches",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Buttermarkt. Nehmen Sie sich Zeit, die beeindruckende Orgel zu sehen.",
+            "hu": "Rövid séta a Vajpiactól. Szánjon időt a lenyűgöző orgona megtekintésére.",
+            "ro": "O scurtă plimbare de la Piața de Unt. Luați-vă timp pentru a vedea orga impresionantă.",
+            "en": "A short walk from the Buttermarket. Take time to see the impressive organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Enniskillen",
+            "hu": "Enniskillen vára",
+            "ro": "Castelul Enniskillen",
+            "en": "Enniskillen Castle"
+          },
+          "coords": [
+            -7.647,
+            54.347
+          ],
+          "category": "castles",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt in Ihrem Stadtzentrum-Cluster. Ideal für ein Mittagessen in einem der nahegelegenen Cafés danach.",
+            "hu": "Az utolsó megálló a belvárosi klaszterben. Ideális ebédre utána a közeli kávézók egyikében.",
+            "ro": "Ultima oprire din grupul centrului orașului. Ideal pentru prânz la una dintre cafenelele din apropiere după aceea.",
+            "en": "The final stop in your town centre cluster. Ideal for lunch at a nearby cafe afterwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Devenish Island Anlegestelle",
+            "hu": "Devenish-sziget kompkikötő",
+            "ro": "Debarcaderul Insulei Devenish",
+            "en": "Devenish Island Ferry Point"
+          },
+          "coords": [
+            -7.68,
+            54.37
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zur Anlegestelle für die Fähre. Überprüfen Sie den Fahrplan der Fähre im Voraus.",
+            "hu": "Hajtson a kompkikötőhöz. Ellenőrizze előre a komp menetrendjét.",
+            "ro": "Conduceți până la punctul de plecare al feribotului. Verificați programul feribotului în avans.",
+            "en": "Drive to the ferry departure point. Check the ferry schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Devenish Island",
+            "hu": "Devenish-sziget",
+            "ro": "Insula Devenish",
+            "en": "Devenish Island"
+          },
+          "coords": [
+            -7.675,
+            54.378
+          ],
+          "category": "island",
+          "arrive_at": "15:35",
+          "stay_min": 135,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Erkunden Sie die klösterliche Stätte, einschließlich des ikonischen runden Turms.",
+            "hu": "Fedezze fel a kolostori helyszínt, beleértve az ikonikus kerek tornyot.",
+            "ro": "Explorați situl monahal, inclusiv turnul rotund iconic.",
+            "en": "Explore the monastic site, including the iconic round tower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im eleganten Castle Coole. Danach fahren Sie ins Stadtzentrum, parken Ihr Auto und erkunden zu Fuß den historischen Kern: den Buttermarkt, die Kathedrale und das Schloss Enniskillen. Am Nachmittag bringt Sie eine kurze Fahrt zur Anlegestelle für Devenish Island. Eine ruhige Fährfahrt führt Sie zu den alten Klosterruinen, ein perfekter, friedlicher Abschluss Ihres Erkundungstages.",
+        "hu": "Autós napja az elegáns Castle Coole-ban kezdődik. Ezután a városközpontba hajt, leparkol, és gyalog fedezi fel a történelmi magot: a Vajpiacot, a székesegyházat és az Enniskillen-várat. Délután egy rövid autóút visz a Devenish-szigeti kompkikötőhöz. Egy csendes kompút vezet az ősi kolostorromokhoz, ami tökéletes, békés befejezése a felfedező napnak.",
+        "ro": "Ziua dvs. cu mașina începe la elegantul Castel Coole. Apoi, conduceți spre centrul orașului, parcați și explorați nucleul istoric pe jos: Piața de Unt, catedrala și Castelul Enniskillen. După-amiaza, o scurtă călătorie cu mașina vă duce la debarcaderul pentru Insula Devenish. O plimbare liniștită cu feribotul vă conduce la ruinele monahale antice, o încheiere perfectă și pașnică a zilei de explorare.",
+        "en": "Your car-based day starts at the elegant Castle Coole. Afterwards, you'll drive to the town centre, park up, and explore the historic core on foot: the Buttermarket, the Cathedral, and Enniskillen Castle. In the afternoon, a short drive takes you to the ferry point for Devenish Island. A serene ferry ride leads you to the ancient monastic ruins, a perfect, peaceful end to your day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Taphouse",
+            "tip": "Eine Gastropub-Erfahrung nach dem Besuch von Castle Coole."
+          },
+          {
+            "name": "The Crow's Nest",
+            "tip": "Bekannt für seine herzhaften Mahlzeiten und die freundliche Atmosphäre in der Nähe des Schlosses."
+          },
+          {
+            "name": "Little Wing Pizzeria",
+            "tip": "Eine großartige Option für ein zwangloses Abendessen nach Ihrer Rückkehr von Devenish Island."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Taphouse",
+            "tip": "Egy gasztropub élmény a Castle Coole meglátogatása után."
+          },
+          {
+            "name": "The Crow's Nest",
+            "tip": "A vár közelében található, kiadós ételeiről és barátságos légköréről ismert."
+          },
+          {
+            "name": "Little Wing Pizzeria",
+            "tip": "Remek lehetőség egy laza vacsorára a Devenish-szigetről való visszatérés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Taphouse",
+            "tip": "O experiență gastropub după vizitarea Castelului Coole."
+          },
+          {
+            "name": "The Crow's Nest",
+            "tip": "Renumit pentru mesele sale consistente și atmosfera prietenoasă, situat lângă castel."
+          },
+          {
+            "name": "Little Wing Pizzeria",
+            "tip": "O opțiune excelentă pentru o cină informală după întoarcerea de pe Insula Devenish."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Taphouse",
+            "tip": "A gastropub experience after visiting Castle Coole."
+          },
+          {
+            "name": "The Crow's Nest",
+            "tip": "Known for its hearty meals and friendly atmosphere near the castle."
+          },
+          {
+            "name": "Little Wing Pizzeria",
+            "tip": "A great option for a casual dinner after returning from Devenish Island."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang um den See bei Castle Coole",
+            "tip": "Ein friedlicher Weg, der das Anwesen umgibt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Stille auf Devenish Island",
+            "tip": "Sobald die Touristengruppen gehen, ist die Insel unglaublich ruhig.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussichtspunkt auf der Straße nach Florencecourt",
+            "tip": "Wenn Sie Zeit haben, bietet die Fahrt nach Süden Panoramablicke.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tó körüli séta a Castle Coole-nál",
+            "tip": "Egy békés ösvény, amely körülveszi a birtokot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A csend a Devenish-szigeten",
+            "tip": "Amint a turistacsoportok elmennek, a sziget hihetetlenül csendes.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátópont a Florencecourt felé vezető úton",
+            "tip": "Ha van ideje, a dél felé vezető út panorámás kilátást nyújt.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul lacului la Castelul Coole",
+            "tip": "O potecă liniștită care înconjoară domeniul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Liniștea de pe Insula Devenish",
+            "tip": "Odată ce grupurile de turiști pleacă, insula este incredibil de liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punct de belvedere pe drumul spre Florencecourt",
+            "tip": "Dacă aveți timp, drumul spre sud oferă vederi panoramice.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside walk at Castle Coole",
+            "tip": "A peaceful path that loops around the estate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The silence on Devenish Island",
+            "tip": "Once the tour groups leave, the island is incredibly quiet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Viewpoint on the road to Florencecourt",
+            "tip": "If you have time, the drive south offers panoramic views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "National Trust Shop bei Castle Coole",
+            "tip": "Einzigartige Geschenke und lokale Produkte."
+          },
+          {
+            "name": "Kunsthandwerksläden in Enniskillen",
+            "tip": "Entdecken Sie lokale Künstler in den kleineren Boutiquen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "National Trust bolt a Castle Coole-nál",
+            "tip": "Egyedi ajándékok és helyi termékek."
+          },
+          {
+            "name": "Kézműves boltok Enniskillenben",
+            "tip": "Fedezze fel a helyi művészeket a város kisebb butikjaiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul National Trust de la Castelul Coole",
+            "tip": "Cadouri unice și produse locale."
+          },
+          {
+            "name": "Magazine de artizanat în Enniskillen",
+            "tip": "Descoperiți artiștii locali în buticurile mai mici ale orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "National Trust Shop at Castle Coole",
+            "tip": "Unique gifts and local produce."
+          },
+          {
+            "name": "Craft shops in Enniskillen",
+            "tip": "Discover local artists in the town's smaller boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren können anfallen, halten Sie Kleingeld bereit.",
+          "Überprüfen Sie die Fahrpläne der Fähren für Devenish Island online, da sie sich ändern können.",
+          "Der Mobilfunkempfang kann auf Devenish Island lückenhaft sein.",
+          "Buchen Sie Touren für Castle Coole im Voraus, um Enttäuschungen zu vermeiden."
+        ],
+        "hu": [
+          "Parkolási díjak lehetnek, tartson magánál aprópénzt.",
+          "Ellenőrizze online a Devenish-szigeti kompok menetrendjét, mivel változhatnak.",
+          "A mobil térerő foltos lehet a Devenish-szigeten.",
+          "Foglaljon túrákat a Castle Coole-ba előre a csalódás elkerülése érdekében."
+        ],
+        "ro": [
+          "Se pot aplica taxe de parcare, aveți la îndemână monede.",
+          "Verificați online programele feribotului pentru Insula Devenish, deoarece se pot schimba.",
+          "Semnalul mobil poate fi slab pe Insula Devenish.",
+          "Rezervați tururile pentru Castelul Coole în avans pentru a evita dezamăgirile."
+        ],
+        "en": [
+          "Parking charges may apply, have some change ready.",
+          "Check ferry times for Devenish Island online as they can change.",
+          "Mobile signal can be patchy on Devenish Island.",
+          "Book tours for Castle Coole in advance to avoid disappointment."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle am Stadtzentrum",
+            "hu": "Belvárosi buszmegálló",
+            "ro": "Stația de autobuz din centrul orașului",
+            "en": "Town Centre Bus Stop"
+          },
+          "coords": [
+            -7.64,
+            54.345
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptbusbahnhof. Von hier aus ist das Stadtzentrum leicht zu Fuß erreichbar.",
+            "hu": "Kezdje a fő buszpályaudvaron. Innen a belváros könnyen megközelíthető gyalog.",
+            "ro": "Începeți de la autogara principală. Centrul orașului este la o distanță mică de mers pe jos de aici.",
+            "en": "Start at the main bus station. The town centre is an easy walk from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Buttermarkt",
+            "hu": "A Vajpiac",
+            "ro": "Piața de Unt",
+            "en": "The Buttermarket"
+          },
+          "coords": [
+            -7.643,
+            54.346
+          ],
+          "category": "squares",
+          "arrive_at": "09:17",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Halt in Ihrem Wandercluster im Stadtzentrum. Genießen Sie die Atmosphäre.",
+            "hu": "Az első megálló a belvárosi gyalogos klaszterben. Élvezze a hangulatot.",
+            "ro": "Prima oprire în clusterul dvs. de mers pe jos din centrul orașului. Bucurați-vă de atmosferă.",
+            "en": "The first stop in your town centre walking cluster. Soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Enniskillen",
+            "hu": "Enniskillen vára",
+            "ro": "Castelul Enniskillen",
+            "en": "Enniskillen Castle"
+          },
+          "coords": [
+            -7.647,
+            54.347
+          ],
+          "category": "castles",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie entlang des Flusses zum Schloss, ein angenehmer Spaziergang.",
+            "hu": "Sétáljon a folyó mentén a várhoz, egy kellemes séta.",
+            "ro": "Mergeți pe jos de-a lungul râului până la castel, o plimbare plăcută.",
+            "en": "Walk along the river to the castle for a pleasant stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Coole",
+            "hu": "Castle Coole",
+            "ro": "Castelul Coole",
+            "en": "Castle Coole"
+          },
+          "coords": [
+            -7.61,
+            54.335
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum. Der Spaziergang von der Bushaltestelle zum Haus ist wunderschön.",
+            "hu": "Menjen busszal a városközpontból. A séta a buszmegállótól a házig gyönyörű.",
+            "ro": "Luați un autobuz din centrul orașului. Plimbarea de la stația de autobuz la casă este frumoasă.",
+            "en": "Take a bus from the town centre. The walk from the bus stop to the house is lovely."
+          }
+        },
+        {
+          "name": {
+            "de": "Portora Royal School",
+            "hu": "Portora Királyi Iskola",
+            "ro": "Școala Regală Portora",
+            "en": "Portora Royal School"
+          },
+          "coords": [
+            -7.66,
+            54.35
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein weiterer Bus bringt Sie in die Nähe dieses historischen Wahrzeichens. Bewundern Sie es von außen.",
+            "hu": "Egy másik busz visz ennek a történelmi nevezetességnek a közelébe. Csodálja meg kívülről.",
+            "ro": "Un alt autobuz vă va duce aproape de acest reper istoric. Admirați-l din exterior.",
+            "en": "Another bus ride will get you close to this historic landmark. Admire from the outside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Busbahnhof im Zentrum. Sie erkunden zu Fuß den Buttermarkt und das Schloss Enniskillen. Am späten Vormittag bringt Sie ein Bus zum prächtigen Castle Coole, wo Sie das Haus und die Gärten erkunden. Am Nachmittag bringt Sie eine weitere Busfahrt zur historischen Portora Royal School für einen Fototermin, bevor Sie für einen entspannten Abend ins Stadtzentrum zurückkehren.",
+        "hu": "A napja a központi buszpályaudvaron kezdődik. Gyalogosan fedezi fel a Vajpiacot és az Enniskillen-várat. Késő délelőtt busz viszi a pompás Castle Coole-hoz, ahol felfedezheti a házat és a kerteket. Délután egy másik buszút visz a történelmi Portora Királyi Iskolához egy fotózásra, mielőtt visszatérne a városközpontba egy pihentető estére.",
+        "ro": "Ziua dvs. începe la autogara centrală. Explorați pe jos Piața de Unt și Castelul Enniskillen. Spre sfârșitul dimineții, un autobuz vă duce la magnificul Castel Coole pentru a explora casa și terenurile. După-amiaza, o altă călătorie cu autobuzul vă duce la istorica Școală Regală Portora pentru o fotografie, înainte de a vă întoarce în centrul orașului pentru o seară relaxantă.",
+        "en": "Your day starts at the central bus station. You'll explore the Buttermarket and Enniskillen Castle on foot. In the late morning, a bus will take you to the magnificent Castle Coole to explore the house and grounds. In the afternoon, another bus ride takes you to the historic Portora Royal School for a photo opportunity, before returning to the town centre for a relaxing evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Jolly Sandwich Bar",
+            "tip": "Perfekt für ein schnelles und leckeres Mittagessen im Stadtzentrum."
+          },
+          {
+            "name": "Granny Annies",
+            "tip": "Eine lebhafte Bar mit gutem Essen, leicht mit dem Bus erreichbar."
+          },
+          {
+            "name": "The Tea-Room bei Castle Coole",
+            "tip": "Genießen Sie Scones und Tee nach Ihrer Haustour (saisonal)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Jolly Sandwich Bar",
+            "tip": "Tökéletes egy gyors és finom ebédre a belvárosban."
+          },
+          {
+            "name": "Granny Annies",
+            "tip": "Élénk bár jó ételekkel, könnyen megközelíthető busszal."
+          },
+          {
+            "name": "A teázó a Castle Coole-nál",
+            "tip": "Élvezze a pogácsát és a teát a háznézés után (szezonális)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Jolly Sandwich Bar",
+            "tip": "Perfect pentru un prânz rapid și gustos în centrul orașului."
+          },
+          {
+            "name": "Granny Annies",
+            "tip": "Un bar animat cu mâncare bună, ușor accesibil cu autobuzul."
+          },
+          {
+            "name": "Ceainăria de la Castelul Coole",
+            "tip": "Bucurați-vă de scones și ceai după turul casei (sezonier)."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Jolly Sandwich Bar",
+            "tip": "Perfect for a quick and tasty lunch in the town centre."
+          },
+          {
+            "name": "Granny Annies",
+            "tip": "A lively bar with good food, easily accessible by bus."
+          },
+          {
+            "name": "The Tea-Room at Castle Coole",
+            "tip": "Enjoy scones and tea after your house tour (seasonal)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bänke am Fluss Erne",
+            "tip": "Ein ruhiger Ort, um auf den Bus zu warten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waldweg bei Castle Coole",
+            "tip": "Entfliehen Sie den Menschenmassen auf den markierten Wegen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof der St.-Macartin-Kathedrale",
+            "tip": "Ein überraschend friedlicher Ort im Herzen der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Padok az Erne folyó partján",
+            "tip": "Csendes hely a buszra várva.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erdei ösvény a Castle Coole-nál",
+            "tip": "Meneküljön el a tömeg elől a kijelölt ösvényeken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Szent Macartin-székesegyház temetője",
+            "tip": "Meglepően békés hely a város szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci pe malul râului Erne",
+            "tip": "Un loc liniștit pentru a aștepta autobuzul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Potecă prin pădure la Castelul Coole",
+            "tip": "Evadați de mulțime pe potecile marcate.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul Catedralei Sf. Macartin",
+            "tip": "Un loc surprinzător de pașnic în inima orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Erne Benches",
+            "tip": "A quiet spot to wait for a bus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Woodland trail at Castle Coole",
+            "tip": "Escape the crowds on the marked trails.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Macartin's Cathedral Graveyard",
+            "tip": "A surprisingly peaceful spot in the heart of town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschenkeladen im Schloss Enniskillen",
+            "tip": "Finden Sie geschichtsbezogene Bücher und Souvenirs."
+          },
+          {
+            "name": "Geschäfte in der High Street",
+            "tip": "Durchstöbern Sie die Geschäfte, während Sie auf Ihren nächsten Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt az Enniskillen-várban",
+            "tip": "Találjon történelmi témájú könyveket és ajándéktárgyakat."
+          },
+          {
+            "name": "Boltok a High Streeten",
+            "tip": "Böngésszen a boltokban, miközben a következő buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri al Castelului Enniskillen",
+            "tip": "Găsiți cărți și suveniruri legate de istorie."
+          },
+          {
+            "name": "Magazinele de pe High Street",
+            "tip": "Răsfoiți magazinele în timp ce așteptați următorul autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Enniskillen Castle Gift Shop",
+            "tip": "Find history-related books and souvenirs."
+          },
+          {
+            "name": "High Street Shops",
+            "tip": "Browse the shops while waiting for your next bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die Busfahrplan-App herunter oder machen Sie einen Screenshot der Fahrpläne.",
+          "Die Busse verkehren möglicherweise nicht häufig, planen Sie also entsprechend.",
+          "Signalisieren Sie dem Fahrer deutlich, dass er anhalten soll."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a buszmenetrend-alkalmazást, vagy készítsen képernyőképet a menetrendekről.",
+          "A buszok ritkán közlekedhetnek, ezért tervezzen ennek megfelelően.",
+          "Jelezzen egyértelműen a sofőrnek, hogy álljon meg."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația cu programul autobuzelor sau faceți o captură de ecran a orarelor.",
+          "Autobuzele pot circula mai rar, așa că planificați-vă în consecință.",
+          "Faceți semne clare șoferului pentru a opri."
+        ],
+        "en": [
+          "Purchase a day-pass for unlimited travel.",
+          "Download the bus schedule app or take a screenshot of the timetables.",
+          "Buses may not be frequent, so plan accordingly.",
+          "Signal clearly for the driver to stop."
+        ]
+      }
+    }
+  }
+}

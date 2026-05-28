@@ -1,0 +1,1276 @@
+{
+  "city_id": "mohacs",
+  "anchor": {
+    "name": "Mohatsch",
+    "coords": [
+      18.6814,
+      45.9956
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Széchenyi-Platz",
+            "hu": "Széchenyi tér",
+            "ro": "Piața Széchenyi",
+            "en": "Széchenyi Square"
+          },
+          "coords": [
+            18.682,
+            45.9958
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee und beobachten Sie das Leben der Stadt.",
+            "hu": "Kezdje itt a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea și priviți viața orașului.",
+            "en": "Start your day here with a coffee and watch the city life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            18.6825,
+            45.9955
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:37",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur und die bunten Zsolnay-Dachziegel.",
+            "hu": "Csodálja meg a lenyűgöző építészetet és a színes Zsolnay-cserepeket.",
+            "ro": "Admirați arhitectura impresionantă și țiglele colorate Zsolnay.",
+            "en": "Admire the impressive architecture and the colorful Zsolnay roof tiles."
+          }
+        },
+        {
+          "name": {
+            "de": "Votivkirche",
+            "hu": "Fogadalmi templom",
+            "ro": "Biserica Votivă",
+            "en": "Votive Church"
+          },
+          "coords": [
+            18.6841,
+            45.9942
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Denkmal für die Schlacht bei Mohács. Die Stille im Inneren ist sehr bewegend.",
+            "hu": "A mohácsi csata emlékműve. A benti csend nagyon megindító.",
+            "ro": "Un memorial al bătăliei de la Mohács. Liniștea din interior este foarte mișcătoare.",
+            "en": "A memorial to the Battle of Mohács. The silence inside is very moving."
+          }
+        },
+        {
+          "name": {
+            "de": "Busó-Hof (Busóudvar)",
+            "hu": "Busóudvar",
+            "ro": "Curtea Busó",
+            "en": "Busó Yard"
+          },
+          "coords": [
+            18.6866,
+            45.9918
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Welt der berühmten Busó-Masken. Ein Muss in Mohács!",
+            "hu": "Merüljön el a híres busó maszkok világában. Mohácson kötelező!",
+            "ro": "Cufundați-vă în lumea faimoaselor măști Busó. O vizită obligatorie în Mohács!",
+            "en": "Immerse yourself in the world of the famous Busó masks. A must-see in Mohács!"
+          }
+        },
+        {
+          "name": {
+            "de": "Dorottya-Kanizsai-Museum",
+            "hu": "Kanizsai Dorottya Múzeum",
+            "ro": "Muzeul Dorottya Kanizsai",
+            "en": "Dorottya Kanizsai Museum"
+          },
+          "coords": [
+            18.6822,
+            45.9925
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die lokale Geschichte, die weit über die Schlacht hinausgeht.",
+            "hu": "Tudjon meg többet a helyi történelemről, amely messze túlmutat a csatán.",
+            "ro": "Aflați mai multe despre istoria locală, care se întinde mult dincolo de bătălie.",
+            "en": "Learn about the local history that extends far beyond the battle."
+          }
+        },
+        {
+          "name": {
+            "de": "Donaupromenade",
+            "hu": "Duna-parti sétány",
+            "ro": "Promenada Dunării",
+            "en": "Danube Promenade"
+          },
+          "coords": [
+            18.6888,
+            45.996
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 135,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen entspannten Spaziergang zum Abschluss des Tages.",
+            "hu": "Tökéletes hely egy pihentető sétához a nap végén.",
+            "ro": "Locul perfect pentru o plimbare relaxantă la sfârșitul zilei.",
+            "en": "The perfect place for a relaxing walk to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Mohács beginnt am lebhaften Széchenyi-Platz, dem Herzen der Stadt. Am Vormittag erkunden Sie die architektonischen Juwelen rund um den Platz, darunter das prächtige Rathaus und die ergreifende Votivkirche, die an die berühmte Schlacht erinnert. \nDer Mittag ist der reichen Kultur der Region gewidmet. Sie tauchen im Busó-Hof in die faszinierende Welt der Busójárás-Tradition ein und vertiefen Ihr Wissen über die lokale Geschichte im Dorottya-Kanizsai-Museum. Planen Sie ein traditionelles Mittagessen in einem der nahegelegenen Restaurants ein.\nAm Nachmittag verlagert sich der Fokus auf Entspannung und Natur. Ein gemütlicher Spaziergang führt Sie zur Donaupromenade. Hier können Sie die friedliche Atmosphäre des Flusses genießen, die Schiffe beobachten und die frische Luft atmen. \nBeenden Sie Ihren Tag mit einem Abendessen in einem Restaurant mit Blick auf die Donau. Probieren Sie unbedingt die lokale Fischsuppe, während Sie den Sonnenuntergang über dem Wasser beobachten. Es ist der perfekte Ausklang für einen Tag voller Geschichte und Kultur.",
+        "hu": "Sétája Mohácson a város szívében, a nyüzsgő Széchenyi téren kezdődik. A délelőtt folyamán felfedezheti a tér körüli építészeti gyöngyszemeket, köztük a csodálatos Városházát és a híres csatára emlékeztető, megindító Fogadalmi templomot.\nA dél a régió gazdag kultúrájának jegyében telik. A Busóudvarban elmerülhet a busójárás lenyűgöző világában, a Kanizsai Dorottya Múzeumban pedig elmélyítheti tudását a helyi történelemről. Tervezzen be egy hagyományos ebédet a közeli éttermek egyikében.\nDélután a pihenésé és a természeté a főszerep. Egy kellemes séta elvezeti a Duna-parti sétányhoz. Itt élvezheti a folyó békés hangulatát, nézheti a hajókat és friss levegőt szívhat.\nZárja a napot egy vacsorával egy Duna-parti étteremben. Feltétlenül kóstolja meg a helyi halászlét, miközben a naplementét nézi a víz felett. Tökéletes lezárása egy történelemmel és kultúrával teli napnak.",
+        "ro": "Plimbarea dvs. prin Mohács începe în vibranta Piață Széchenyi, inima orașului. Dimineața, explorați bijuteriile arhitecturale din jurul pieței, inclusiv superba Primărie și emoționanta Biserică Votivă, care comemorează faimoasa bătălie.\nMiaza-ziua este dedicată bogatei culturi a regiunii. Vă veți cufunda în lumea fascinantă a tradiției Busójárás la Curtea Busó și vă veți aprofunda cunoștințele despre istoria locală la Muzeul Dorottya Kanizsai. Planificați un prânz tradițional la unul dintre restaurantele din apropiere.\nDupă-amiaza, accentul se mută pe relaxare și natură. O plimbare agale vă va duce la Promenada Dunării. Aici vă puteți bucura de atmosfera pașnică a fluviului, puteți privi vapoarele și respira aer curat.\nÎncheiați ziua cu o cină la un restaurant cu vedere la Dunăre. Asigurați-vă că încercați ciorba locală de pește în timp ce priviți apusul peste apă. Este finalul perfect pentru o zi plină de istorie și cultură.",
+        "en": "Your walk through Mohács begins in the bustling Széchenyi Square, the heart of the city. In the morning, you'll explore the architectural gems around the square, including the magnificent Town Hall and the poignant Votive Church, which commemorates the famous battle.\nMidday is dedicated to the region's rich culture. You'll dive into the fascinating world of the Busójárás tradition at the Busó Yard and deepen your knowledge of local history at the Dorottya Kanizsai Museum. Plan for a traditional lunch at one of the nearby restaurants.\nIn the afternoon, the focus shifts to relaxation and nature. A leisurely stroll will take you to the Danube Promenade. Here you can enjoy the peaceful atmosphere of the river, watch the ships, and breathe in the fresh air.\nEnd your day with dinner at a restaurant overlooking the Danube. Be sure to try the local fish soup while watching the sunset over the water. It's the perfect conclusion to a day filled with history and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mohácsi Halászcsárda",
+            "tip": "Probieren Sie die authentische 'Mohácsi Halászlé' (Fischsuppe), ein lokales Muss."
+          },
+          {
+            "name": "Busó-keller",
+            "tip": "Herzhafte ungarische Gerichte in einem stimmungsvollen Keller."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mohácsi Halászcsárda",
+            "tip": "Kóstolja meg az autentikus mohácsi halászlét, ami helyi kihagyhatatlan fogás."
+          },
+          {
+            "name": "Busó pince",
+            "tip": "Kiadós magyaros ételek egy hangulatos pincében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mohácsi Halászcsárda",
+            "tip": "Încercați autentica 'Mohácsi Halászlé' (ciorbă de pește), o specialitate locală de neratat."
+          },
+          {
+            "name": "Pivnița Busó",
+            "tip": "Mâncăruri maghiare consistente într-o pivniță atmosferică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mohács Fish Tavern",
+            "tip": "Try the authentic 'Mohácsi Halászlé' (fish soup), a local must-have."
+          },
+          {
+            "name": "Busó Cellar",
+            "tip": "Hearty Hungarian dishes in an atmospheric cellar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Donauufer",
+            "tip": "Finden Sie eine ruhige Bank und schauen Sie den Schiffen nach.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inneres der Votivkirche",
+            "tip": "Ein Ort der stillen Besinnung und des Gedenkens.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duna-part",
+            "tip": "Keressen egy csendes padot, és nézze a hajókat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Fogadalmi templom belseje",
+            "tip": "A csendes elmélkedés és emlékezés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Dunării",
+            "tip": "Găsiți o bancă liniștită și priviți vapoarele trecând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Interiorul Bisericii Votive",
+            "tip": "Un loc de contemplare tăcută și comemorare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Danube bank",
+            "tip": "Find a quiet bench and watch the ships go by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inside the Votive Church",
+            "tip": "A place for quiet contemplation and remembrance.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Busó-Masken",
+            "tip": "Kaufen Sie eine handgeschnitzte Maske als einzigartiges Souvenir."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach Paprika, Honig und anderen lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Busó maszkok",
+            "tip": "Vásároljon egy kézzel faragott maszkot egyedi szuvenírként."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen paprikát, mézet és más helyi termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Măști Busó",
+            "tip": "Cumpărați o mască sculptată manual ca un suvenir unic."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați boia de ardei, miere și alte produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Busó masks",
+            "tip": "Buy a hand-carved mask as a unique souvenir."
+          },
+          {
+            "name": "Local market",
+            "tip": "Look for paprika, honey, and other local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Innenstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Nehmen Sie sich Zeit für ein Mittagessen in einer traditionellen Csárda."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a belvárosi macskakövek egyenetlenek lehetnek.",
+          "A legtöbb látnivaló közel van egymáshoz.",
+          "Szánjon időt egy ebédre egy hagyományos csárdában."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul din centrul orașului poate fi denivelat.",
+          "Majoritatea atracțiilor sunt aproape una de cealaltă.",
+          "Acordați-vă timp pentru un prânz la o csárda tradițională."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the city center can be uneven.",
+          "Most attractions are located close to each other.",
+          "Take your time for lunch at a traditional Csárda."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Széchenyi-Platz",
+            "hu": "Széchenyi tér",
+            "ro": "Piața Széchenyi",
+            "en": "Széchenyi Square"
+          },
+          "coords": [
+            18.682,
+            45.9958
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der ideale Ausgangspunkt für Ihre Radtour durch die Stadt.",
+            "hu": "Ideális kiindulópont a városi kerékpártúrához.",
+            "ro": "Punctul de plecare ideal pentru turul cu bicicleta al orașului.",
+            "en": "The ideal starting point for your bike tour of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Votivkirche",
+            "hu": "Fogadalmi templom",
+            "ro": "Biserica Votivă",
+            "en": "Votive Church"
+          },
+          "coords": [
+            18.6841,
+            45.9942
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und nehmen Sie sich einen Moment Zeit für die Geschichte dieses Ortes.",
+            "hu": "Tegye le a kerékpárt, és szánjon egy percet a hely történelmére.",
+            "ro": "Parcați bicicleta și acordați-vă un moment pentru a reflecta la istoria acestui loc.",
+            "en": "Park your bike and take a moment to reflect on the history of this place."
+          }
+        },
+        {
+          "name": {
+            "de": "Busó-Hof (Busóudvar)",
+            "hu": "Busóudvar",
+            "ro": "Curtea Busó",
+            "en": "Busó Yard"
+          },
+          "coords": [
+            18.6866,
+            45.9918
+          ],
+          "category": "museums",
+          "arrive_at": "10:08",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in eine einzigartige ungarische Tradition.",
+            "hu": "Lenyűgöző betekintés egy egyedülálló magyar hagyományba.",
+            "ro": "O perspectivă fascinantă asupra unei tradiții maghiare unice.",
+            "en": "A fascinating insight into a unique Hungarian tradition."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Gedenkstätte",
+            "hu": "Történelmi Emlékhely",
+            "ro": "Parcul Memorial Istoric",
+            "en": "Historical Memorial Park"
+          },
+          "coords": [
+            18.6791,
+            45.9654
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Eine längere Radtour zum Gedenkpark der Schlacht. Sehr eindrucksvoll.",
+            "hu": "Egy hosszabb biciklitúra a csata emlékparkjához. Nagyon lenyűgöző.",
+            "ro": "O plimbare mai lungă cu bicicleta până la parcul memorial al bătăliei. Foarte impresionant.",
+            "en": "A longer bike ride to the memorial park of the battle. Very impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nikolaus Wassermühle",
+            "hu": "Szent Miklós Vízimalom",
+            "ro": "Moara de apă Sf. Nicolae",
+            "en": "St. Nicholas Watermill"
+          },
+          "coords": [
+            18.6655,
+            45.9911
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:40",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses technische Juwel, ein Zeugnis der Vergangenheit.",
+            "hu": "Fedezze fel ezt a műszaki gyöngyszemet, a múlt tanúját.",
+            "ro": "Descoperiți această bijuterie tehnică, o mărturie a trecutului.",
+            "en": "Discover this technical gem, a testament to the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorottya-Kanizsai-Museum",
+            "hu": "Kanizsai Dorottya Múzeum",
+            "ro": "Muzeul Dorottya Kanizsai",
+            "en": "Dorottya Kanizsai Museum"
+          },
+          "coords": [
+            18.6822,
+            45.9925
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Runden Sie Ihr Geschichtswissen über die Stadt hier ab.",
+            "hu": "Itt tegye teljessé a városról szerzett történelmi ismereteit.",
+            "ro": "Completați-vă cunoștințele istorice despre oraș aici.",
+            "en": "Complete your historical knowledge of the city here."
+          }
+        },
+        {
+          "name": {
+            "de": "Donaupromenade",
+            "hu": "Duna-parti sétány",
+            "ro": "Promenada Dunării",
+            "en": "Danube Promenade"
+          },
+          "coords": [
+            18.6888,
+            45.996
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Radeln Sie am Fluss entlang und genießen Sie die Aussicht.",
+            "hu": "Kerékpározzon a folyó mentén, és élvezze a kilátást.",
+            "ro": "Pedalați de-a lungul râului și bucurați-vă de priveliște.",
+            "en": "Cycle along the river and enjoy the view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und starten Sie am Széchenyi-Platz. Am Vormittag radeln Sie zu den zentralen historischen Stätten wie der Votivkirche und dem Busó-Hof. Die kurzen Strecken sind ideal, um sich mit der Stadt vertraut zu machen. \nDie Mittagszeit führt Sie auf eine längere, aber lohnende Tour zur Historischen Gedenkstätte südlich der Stadt. Diese Fahrt gibt Ihnen ein Gefühl für die Landschaft, die Schauplatz der berühmten Schlacht war. Nehmen Sie sich Zeit, die weitläufige Anlage zu erkunden, bevor Sie zur St.-Nikolaus-Wassermühle weiterfahren, einem versteckten technischen Juwel.\nAm Nachmittag kehren Sie ins Stadtzentrum zurück, um das Dorottya-Kanizsai-Museum zu besuchen. Die Tour endet mit einer entspannten Fahrt entlang der Donaupromenade, wo Sie die Beine ausstrecken und die Atmosphäre am Fluss genießen können.\nGenießen Sie zum Abschluss des Tages eine wohlverdiente Mahlzeit in einer der Csárdas der Stadt. Die Radtour hat Sie sicherlich hungrig gemacht, und eine herzhafte ungarische Mahlzeit ist genau das Richtige.",
+        "hu": "Pattanjon kerékpárra, és induljon a Széchenyi térről. A délelőtt folyamán tekerjen el a központi történelmi helyszínekhez, mint a Fogadalmi templom és a Busóudvar. A rövid távolságok ideálisak a város megismeréséhez.\nDélben egy hosszabb, de megérő túra vezet a várostól délre fekvő Történelmi Emlékhelyhez. Ez az út ízelítőt ad a tájból, amely a híres csata helyszíne volt. Szánjon időt a hatalmas terület felfedezésére, mielőtt továbbhalad a Szent Miklós Vízimalomhoz, egy rejtett műszaki gyöngyszemhez.\nDélután térjen vissza a városközpontba a Kanizsai Dorottya Múzeum megtekintésére. A túra egy pihentető tekeréssel zárul a Duna-parti sétányon, ahol kinyújtóztathatja a lábait és élvezheti a folyóparti hangulatot.\nA nap végén élvezzen egy jól megérdemelt ételt a város egyik csárdájában. A kerékpártúra biztosan éhessé tette, és egy kiadós magyar étel pont megfelelő lesz.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Széchenyi. Dimineața, pedalați spre siturile istorice centrale, cum ar fi Biserica Votivă și Curtea Busó. Distanțele scurte sunt ideale pentru a vă familiariza cu orașul.\nLa prânz, veți face un tur mai lung, dar plin de satisfacții, la Parcul Memorial Istoric, la sud de oraș. Această plimbare vă va oferi o imagine a peisajului care a fost scena faimoasei bătălii. Acordați-vă timp pentru a explora situl extins înainte de a continua spre Moara de apă Sf. Nicolae, o bijuterie tehnică ascunsă.\nDupă-amiaza, reveniți în centrul orașului pentru a vizita Muzeul Dorottya Kanizsai. Turul se încheie cu o plimbare relaxantă de-a lungul Promenadei Dunării, unde vă puteți întinde picioarele și vă puteți bucura de atmosfera de pe malul fluviului.\nLa sfârșitul zilei, bucurați-vă de o masă binemeritată la una dintre csárdele orașului. Turul cu bicicleta v-a făcut cu siguranță foame, iar o masă maghiară copioasă este exact ceea ce trebuie.",
+        "en": "Hop on your bike and start from Széchenyi Square. In the morning, you'll cycle to the central historical sites like the Votive Church and the Busó Yard. The short distances are ideal for getting familiar with the city.\nAt midday, a longer but rewarding tour takes you to the Historical Memorial Park south of the city. This ride gives you a feel for the landscape that was the scene of the famous battle. Take time to explore the vast site before continuing to the St. Nicholas Watermill, a hidden technical gem.\nIn the afternoon, you'll return to the city center to visit the Dorottya Kanizsai Museum. The tour concludes with a relaxing ride along the Danube Promenade, where you can stretch your legs and enjoy the riverside atmosphere.\nAt the end of the day, enjoy a well-deserved meal at one of the city's csárdas. The bike tour has surely made you hungry, and a hearty Hungarian meal is just the thing."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mohácsi Halászcsárda",
+            "tip": "Nach einer langen Radtour schmeckt die Fischsuppe hier doppelt so gut."
+          },
+          {
+            "name": "Révkapu Vendéglő",
+            "tip": "Traditionelle ungarische Küche mit Blick auf die Donau."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mohácsi Halászcsárda",
+            "tip": "Egy hosszú kerékpártúra után a halászlé itt kétszer olyan jól esik."
+          },
+          {
+            "name": "Révkapu Vendéglő",
+            "tip": "Hagyományos magyar konyha, kilátással a Dunára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mohácsi Halászcsárda",
+            "tip": "După o plimbare lungă cu bicicleta, ciorba de pește de aici are un gust de două ori mai bun."
+          },
+          {
+            "name": "Restaurant Révkapu",
+            "tip": "Bucătărie tradițională maghiară cu vedere la Dunăre."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mohács Fish Tavern",
+            "tip": "After a long bike ride, the fish soup here tastes twice as good."
+          },
+          {
+            "name": "Révkapu Restaurant",
+            "tip": "Traditional Hungarian cuisine with a view of the Danube."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Donau-Radweg",
+            "tip": "Eine friedliche Fahrt mit ständigem Blick auf den Fluss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gedenkpark",
+            "tip": "Die Weite und Stille des Parks laden zum Nachdenken ein.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duna menti kerékpárút",
+            "tip": "Békés tekerés, folyamatos kilátással a folyóra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Emlékpark",
+            "tip": "A park tágassága és csendje elgondolkodtatásra hív.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe Dunăre",
+            "tip": "O plimbare pașnică cu o priveliște constantă asupra fluviului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Memorial",
+            "tip": "Întinderea și liniștea parcului invită la reflecție.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Danube cycle path",
+            "tip": "A peaceful ride with a constant view of the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Memorial Park",
+            "tip": "The vastness and silence of the park invite reflection.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgemachte Souvenirs",
+            "tip": "In den kleinen Läden der Innenstadt finden Sie einzigartige Mitbringsel."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Die Region hat einige ausgezeichnete Weine zu bieten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves ajándéktárgyak",
+            "tip": "A belváros kis üzleteiben egyedi ajándékokat talál."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "A régió néhány kiváló borral büszkélkedhet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri artizanale",
+            "tip": "Veți găsi cadouri unice în micile magazine din centrul orașului."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Regiunea are câteva vinuri excelente de oferit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade souvenirs",
+            "tip": "You will find unique gifts in the small shops in the city center."
+          },
+          {
+            "name": "Local wines",
+            "tip": "The region has some excellent wines to offer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Ein Fahrradschloss ist unerlässlich.",
+          "Die Wege außerhalb der Stadt können unbefestigt sein."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "A kerékpárzár elengedhetetlen.",
+          "A városon kívüli utak lehetnek burkolatlanok."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "O încuietoare pentru bicicletă este esențială.",
+          "Drumurile din afara orașului pot fi neasfaltate."
+        ],
+        "en": [
+          "Check your tire pressure before you set off.",
+          "A bike lock is essential.",
+          "The roads outside the city can be unpaved."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 11.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Innenstadt",
+            "hu": "Belvárosi Parkoló",
+            "ro": "Parcare Centru",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            18.6815,
+            45.992
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Teil der Stadt zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel a város első részét gyalog.",
+            "ro": "Parcați aici și explorați prima parte a orașului pe jos.",
+            "en": "Park here and explore the first part of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Busó-Hof und Museen",
+            "hu": "Busóudvar és múzeumok",
+            "ro": "Curtea Busó și Muzee",
+            "en": "Busó Yard and Museums"
+          },
+          "coords": [
+            18.6866,
+            45.9918
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Cluster aus Kultur: Besuchen Sie den Busó-Hof und das nahegelegene Dorottya-Kanizsai-Museum.",
+            "hu": "Egy kulturális központ: látogassa meg a Busóudvart és a közeli Kanizsai Dorottya Múzeumot.",
+            "ro": "Un cluster de cultură: vizitați Curtea Busó și Muzeul Dorottya Kanizsai din apropiere.",
+            "en": "A cluster of culture: visit the Busó Yard and the nearby Dorottya Kanizsai Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Széchenyi-Platz und Votivkirche",
+            "hu": "Széchenyi tér és Fogadalmi templom",
+            "ro": "Piața Széchenyi și Biserica Votivă",
+            "en": "Széchenyi Square and Votive Church"
+          },
+          "coords": [
+            18.682,
+            45.9958
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie zum Hauptplatz, bewundern Sie das Rathaus und die Kirche.",
+            "hu": "Sétáljon el a főtérre, csodálja meg a Városházát és a templomot.",
+            "ro": "Faceți o plimbare până în piața principală, admirați Primăria și biserica.",
+            "en": "Stroll to the main square, admire the Town Hall and the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Gedenkstätte",
+            "hu": "Történelmi Emlékhely",
+            "ro": "Parcul Memorial Istoric",
+            "en": "Historical Memorial Park"
+          },
+          "coords": [
+            18.6791,
+            45.9654
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Gedenkpark, dem wichtigsten historischen Ort der Region.",
+            "hu": "Vezessen el az Emlékparkhoz, a régió legfontosabb történelmi helyszínéhez.",
+            "ro": "Conduceți până la parcul memorial, cel mai important sit istoric din regiune.",
+            "en": "Drive to the memorial park, the most important historical site in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Donaupromenade",
+            "hu": "Duna-parti sétány",
+            "ro": "Promenada Dunării",
+            "en": "Danube Promenade"
+          },
+          "coords": [
+            18.6888,
+            45.996
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 105,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.6,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Flusses und beenden Sie den Tag mit einem entspannten Spaziergang.",
+            "hu": "Parkoljon a folyó közelében, és fejezze be a napot egy pihentető sétával.",
+            "ro": "Parcați lângă râu și încheiați ziua cu o plimbare relaxantă.",
+            "en": "Park near the river and end the day with a relaxing walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Mohács in zwei Clustern. Sie parken zunächst im Zentrum und widmen den Vormittag dem kulturellen Herzen der Stadt. Zu Fuß entdecken Sie den Busó-Hof, das Dorottya-Kanizsai-Museum und spazieren dann zum Széchenyi-Platz mit der Votivkirche.\nNach einem Mittagessen in der Innenstadt fahren Sie zum wichtigsten historischen Ort der Region, der Historischen Gedenkstätte südlich der Stadt. Die kurze Fahrt gibt Ihnen die Flexibilität, diesen weitläufigen und bewegenden Ort in Ihrem eigenen Tempo zu erkunden. \nDer Nachmittag gehört der Donau. Sie fahren zum Ufer, parken erneut und genießen die entspannte Atmosphäre der Promenade. Ein langer Spaziergang am Wasser ist der perfekte Abschluss für einen Tag, der städtische Kultur mit bedeutender Geschichte verbindet.\nDer Tag endet, wenn Sie sich entscheiden, ob Sie in einer der vielen Csárdas der Stadt zu Abend essen oder die kurze Heimfahrt antreten. Das Auto bietet Ihnen die Freiheit, Ihren Abend flexibel zu gestalten.",
+        "hu": "Autóval két részletben fedezi fel Mohácsot. Először a központban parkol, és a délelőttöt a város kulturális szívének szenteli. Gyalog fedezi fel a Busóudvart, a Kanizsai Dorottya Múzeumot, majd elsétál a Széchenyi térre a Fogadalmi templommal.\nEgy belvárosi ebéd után autóba ül, és elvezet a régió legfontosabb történelmi helyszínéhez, a várostól délre fekvő Történelmi Emlékhelyhez. A rövid út rugalmasságot biztosít, hogy saját tempójában fedezze fel ezt a tágas és megindító helyet.\nA délután a Dunáé. Leautózik a partra, újra leparkol, és élvezi a sétány nyugodt hangulatát. Egy hosszú séta a vízparton tökéletes lezárása egy napnak, amely a városi kultúrát a jelentős történelemmel ötvözi.\nA nap akkor ér véget, amikor eldönti, hogy a város számos csárdájának egyikében vacsorázik, vagy elindul a rövid hazaútra. Az autó szabadságot ad az este rugalmas alakításához.",
+        "ro": "Cu mașina, explorați Mohács în două clustere. Mai întâi, parcați în centru și dedicați dimineața inimii culturale a orașului. Pe jos, descoperiți Curtea Busó, Muzeul Dorottya Kanizsai, apoi vă plimbați spre Piața Széchenyi cu Biserica Votivă.\nDupă prânz în centrul orașului, conduceți spre cel mai important sit istoric din regiune, Parcul Memorial Istoric, la sud de oraș. Scurta călătorie cu mașina vă oferă flexibilitatea de a explora acest sit vast și emoționant în ritmul propriu.\nDupă-amiaza aparține Dunării. Conduceți până la mal, parcați din nou și bucurați-vă de atmosfera relaxată a promenadei. O plimbare lungă pe malul apei este finalul perfect pentru o zi care combină cultura urbană cu istoria semnificativă.\nZiua se încheie când decideți dacă să luați cina la una dintre numeroasele csárde din oraș sau să porniți în scurta călătorie spre casă. Mașina vă oferă libertatea de a vă planifica seara în mod flexibil.",
+        "en": "By car, you'll explore Mohács in two clusters. First, you park in the center and dedicate the morning to the cultural heart of the city. On foot, you'll discover the Busó Yard, the Dorottya Kanizsai Museum, and then stroll to Széchenyi Square with the Votive Church.\nAfter lunch downtown, you drive to the region's most important historical site, the Historical Memorial Park south of the city. The short drive gives you the flexibility to explore this vast and moving place at your own pace.\nThe afternoon belongs to the Danube. You drive to the riverbank, park again, and enjoy the relaxed atmosphere of the promenade. A long walk by the water is the perfect end to a day that combines urban culture with significant history.\nThe day ends when you decide whether to have dinner at one of the city's many csárdas or start the short drive home. The car gives you the freedom to plan your evening flexibly."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Csárda an der Gedenkstätte",
+            "tip": "Verbinden Sie Geschichte mit einer Mahlzeit in der Nähe des Parks."
+          },
+          {
+            "name": "Szent János Hotel Étterem",
+            "tip": "Gehobene ungarische Küche im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csárda az Emlékhelynél",
+            "tip": "Kösse össze a történelmet egy ebéddel a park közelében."
+          },
+          {
+            "name": "Szent János Hotel Étterem",
+            "tip": "Elegáns magyar konyha a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Csárda la Parcul Memorial",
+            "tip": "Combinați istoria cu o masă lângă parc."
+          },
+          {
+            "name": "Restaurant Hotel Szent János",
+            "tip": "Bucătărie maghiară rafinată în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavern at the Memorial Park",
+            "tip": "Combine history with a meal near the park."
+          },
+          {
+            "name": "Szent János Hotel Restaurant",
+            "tip": "Fine Hungarian dining in the heart of the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gedenkpark",
+            "tip": "Die Stille und Weite dieses Ortes sind tief beeindruckend.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang der Donau",
+            "tip": "Lassen Sie die Seele baumeln und beobachten Sie den Fluss.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emlékpark",
+            "tip": "A hely csendje és tágassága mélyen lenyűgöző.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Duna mentén",
+            "tip": "Hagyja, hogy a lelke kikapcsolódjon, és figyelje a folyót.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Memorial",
+            "tip": "Liniștea și vastitatea acestui loc sunt profund impresionante.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul Dunării",
+            "tip": "Relaxați-vă sufletul și priviți fluviul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Memorial Park",
+            "tip": "The silence and vastness of this place are deeply impressive.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the Danube",
+            "tip": "Let your soul unwind and watch the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik aus der Region",
+            "tip": "Suchen Sie nach handgefertigter Keramik als schönes Andenken."
+          },
+          {
+            "name": "Eingelegte Spezialitäten",
+            "tip": "Probieren Sie lokale eingelegte Paprika oder Gurken vom Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámiák",
+            "tip": "Keressen kézzel készített kerámiákat szép emlékként."
+          },
+          {
+            "name": "Savanyúságok",
+            "tip": "Kóstoljon helyi savanyított paprikát vagy uborkát a piacról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică regională",
+            "tip": "Căutați ceramică lucrată manual ca o amintire frumoasă."
+          },
+          {
+            "name": "Murături",
+            "tip": "Încercați ardei murați locali sau castraveți de la piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional ceramics",
+            "tip": "Look for handmade pottery as a beautiful souvenir."
+          },
+          {
+            "name": "Pickled specialties",
+            "tip": "Try local pickled peppers or cucumbers from the market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über Parkgebühren im Stadtzentrum.",
+          "Planen Sie genügend Zeit für den Besuch der Gedenkstätte ein, sie ist sehr weitläufig.",
+          "Die Straßen können eng sein, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Tájékozódjon a belvárosi parkolási díjakról.",
+          "Tervezzen elegendő időt az Emlékhely meglátogatására, nagyon tágas.",
+          "Az utcák szűkek lehetnek, vezessen óvatosan."
+        ],
+        "ro": [
+          "Informați-vă despre taxele de parcare din centrul orașului.",
+          "Planificați suficient timp pentru a vizita parcul memorial, este foarte vast.",
+          "Străzile pot fi înguste, conduceți cu prudență."
+        ],
+        "en": [
+          "Find out about parking fees in the city center.",
+          "Plan enough time to visit the memorial park, it is very spacious.",
+          "The streets can be narrow, drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof",
+            "hu": "Érkezés a buszpályaudvarra",
+            "ro": "Sosire la autogară",
+            "en": "Arrival at the Bus Station"
+          },
+          "coords": [
+            18.6799,
+            45.991
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Széchenyi-Platz, um Ihre Tour zu beginnen.",
+            "hu": "Menjen helyi busszal a Széchenyi térre a túra megkezdéséhez.",
+            "ro": "Luați un autobuz local spre Piața Széchenyi pentru a începe turul.",
+            "en": "Take a local bus to Széchenyi Square to start your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Széchenyi-Platz",
+            "hu": "Széchenyi tér",
+            "ro": "Piața Széchenyi",
+            "en": "Széchenyi Square"
+          },
+          "coords": [
+            18.682,
+            45.9958
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der zentrale Knotenpunkt der Stadt und ein großartiger Ort, um Ihre Erkundung zu beginnen.",
+            "hu": "A város központi csomópontja és nagyszerű hely a felfedezés megkezdéséhez.",
+            "ro": "Nodul central al orașului și un loc minunat pentru a începe explorarea.",
+            "en": "The city's central hub and a great place to start your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Votivkirche",
+            "hu": "Fogadalmi templom",
+            "ro": "Biserica Votivă",
+            "en": "Votive Church"
+          },
+          "coords": [
+            18.6841,
+            45.9942
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz entfernt, aber eine völlig andere, ruhige Atmosphäre.",
+            "hu": "Rövid sétára a tértől, de teljesen más, csendes hangulat.",
+            "ro": "La o scurtă plimbare de piață, dar o atmosferă complet diferită, liniștită.",
+            "en": "A short walk from the square, but a completely different, quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Busó-Hof (Busóudvar)",
+            "hu": "Busóudvar",
+            "ro": "Curtea Busó",
+            "en": "Busó Yard"
+          },
+          "coords": [
+            18.6866,
+            45.9918
+          ],
+          "category": "museums",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, diese einzigartige Tradition ist faszinierend.",
+            "hu": "Szánjon rá elegendő időt, ez az egyedülálló hagyomány lenyűgöző.",
+            "ro": "Planificați suficient timp, această tradiție unică este fascinantă.",
+            "en": "Plan enough time, this unique tradition is fascinating."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorottya-Kanizsai-Museum",
+            "hu": "Kanizsai Dorottya Múzeum",
+            "ro": "Muzeul Dorottya Kanizsai",
+            "en": "Dorottya Kanizsai Museum"
+          },
+          "coords": [
+            18.6822,
+            45.9925
+          ],
+          "category": "museums",
+          "arrive_at": "12:48",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nach dem Busó-Hof bietet dieses Museum einen breiteren historischen Kontext.",
+            "hu": "A Busóudvar után ez a múzeum szélesebb történelmi kontextust nyújt.",
+            "ro": "După Curtea Busó, acest muzeu oferă un context istoric mai larg.",
+            "en": "After the Busó Yard, this museum provides a broader historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Donaupromenade",
+            "hu": "Duna-parti sétány",
+            "ro": "Promenada Dunării",
+            "en": "Danube Promenade"
+          },
+          "coords": [
+            18.6888,
+            45.996
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:38",
+          "stay_min": 142,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages mit Blick auf den mächtigen Fluss.",
+            "hu": "Pihentető befejezése a napnak, kilátással a hatalmas folyóra.",
+            "ro": "Un final relaxant al zilei, cu vedere la fluviul măreț.",
+            "en": "A relaxing end to the day with a view of the mighty river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise nach Mohács beginnt mit der Ankunft am Busbahnhof. Eine kurze Fahrt mit dem lokalen Bus bringt Sie ins Zentrum zum Széchenyi-Platz. Von hier aus ist der Rest des Tages eine Erkundung zu Fuß. Am Vormittag entdecken Sie die Votivkirche und den berühmten Busó-Hof.\nDer Mittag ist eine Mischung aus Geschichte und Essen. Nach dem Eintauchen in die Welt der Busós im Busó-Hof besuchen Sie das nahegelegene Dorottya-Kanizsai-Museum. Anschließend genießen Sie ein Mittagessen in einem der traditionellen Restaurants der Innenstadt.\nDer Nachmittag steht ganz im Zeichen der Entspannung am Flussufer. Ein gemütlicher Spaziergang führt Sie zur Donaupromenade, wo Sie die Schiffe beobachten und die Aussicht genießen können. Dies ist der perfekte Ort, um die Eindrücke des Tages zu verarbeiten.\nBevor Sie den Bus zurück nehmen, können Sie in einem Café an der Promenade einkehren. Ein Tag mit öffentlichen Verkehrsmitteln und zu Fuß gibt Ihnen einen authentischen Einblick in das Leben und den Rhythmus von Mohács.",
+        "hu": "Mohácsi utazása a buszpályaudvarra való érkezéssel kezdődik. Egy rövid helyi buszozás elviszi a központba, a Széchenyi térre. Innentől a nap hátralévő része gyalogos felfedezés. A délelőtt folyamán felfedezi a Fogadalmi templomot és a híres Busóudvart.\nA dél az történelem és az evés keveréke. Miután elmerült a busók világában a Busóudvarban, meglátogatja a közeli Kanizsai Dorottya Múzeumot. Ezután ebédeljen a belváros egyik hagyományos éttermében.\nA délután a folyóparti pihenésről szól. Egy kellemes séta elvezeti a Duna-parti sétányhoz, ahol nézheti a hajókat és élvezheti a kilátást. Ez a tökéletes hely a nap benyomásainak feldolgozására.\nMielőtt visszamenne a buszra, beülhet egy kávézóba a sétányon. Egy tömegközlekedéssel és gyaloglással töltött nap autentikus betekintést nyújt Mohács életébe és ritmusába.",
+        "ro": "Călătoria dvs. la Mohács începe cu sosirea la autogară. O scurtă călătorie cu autobuzul local vă duce în centru, în Piața Széchenyi. De aici, restul zilei este o explorare pe jos. Dimineața, descoperiți Biserica Votivă și faimoasa Curte Busó.\nPrânzul este un amestec de istorie și mâncare. După ce v-ați cufundat în lumea Busós la Curtea Busó, vizitați Muzeul Dorottya Kanizsai din apropiere. Apoi, bucurați-vă de prânz la unul dintre restaurantele tradiționale din centrul orașului.\nDupă-amiaza este dedicată relaxării pe malul fluviului. O plimbare agale vă va duce la Promenada Dunării, unde puteți privi vapoarele și vă puteți bucura de priveliște. Acesta este locul perfect pentru a procesa impresiile zilei.\nÎnainte de a lua autobuzul înapoi, puteți face o oprire la o cafenea de pe promenadă. O zi cu transport public și pe jos vă oferă o perspectivă autentică asupra vieții și ritmului din Mohács.",
+        "en": "Your trip to Mohács begins with your arrival at the bus station. A short local bus ride takes you to the center, Széchenyi Square. From here, the rest of the day is an exploration on foot. In the morning, you'll discover the Votive Church and the famous Busó Yard.\nLunch is a mix of history and food. After immersing yourself in the world of the Busós at the Busó Yard, you visit the nearby Dorottya Kanizsai Museum. Then, enjoy lunch at one of the traditional restaurants in the city center.\nThe afternoon is all about relaxing by the river. a leisurely stroll will take you to the Danube Promenade, where you can watch the ships and enjoy the view. This is the perfect place to process the day's impressions.\nBefore you take the bus back, you can stop at a café on the promenade. A day of public transport and walking gives you an authentic insight into the life and rhythm of Mohács."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mohácsi Halászcsárda",
+            "tip": "Ein Muss für jeden Besucher, um die lokale Fischsuppe zu probieren."
+          },
+          {
+            "name": "Kávézó a téren",
+            "tip": "Perfekt für eine schnelle Pause zwischen den Museumsbesuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mohácsi Halászcsárda",
+            "tip": "Minden látogatónak kötelező megkóstolni a helyi halászlét."
+          },
+          {
+            "name": "Kávézó a téren",
+            "tip": "Tökéletes egy gyors szünetre a múzeumlátogatások között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mohácsi Halászcsárda",
+            "tip": "O necesitate pentru fiecare vizitator să încerce ciorba locală de pește."
+          },
+          {
+            "name": "Cafenea în piață",
+            "tip": "Perfect pentru o pauză rapidă între vizitele la muzee."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mohács Fish Tavern",
+            "tip": "A must for every visitor to try the local fish soup."
+          },
+          {
+            "name": "Café in the square",
+            "tip": "Perfect for a quick break between museum visits."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Donauufer",
+            "tip": "Finden Sie eine ruhige Bank und schauen Sie den Schiffen nach.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inneres der Votivkirche",
+            "tip": "Ein Ort der stillen Besinnung und des Gedenkens.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duna-part",
+            "tip": "Keressen egy csendes padot, és nézze a hajókat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Fogadalmi templom belseje",
+            "tip": "A csendes elmélkedés és emlékezés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Dunării",
+            "tip": "Găsiți o bancă liniștită și priviți vapoarele trecând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Interiorul Bisericii Votive",
+            "tip": "Un loc de contemplare tăcută și comemorare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Danube bank",
+            "tip": "Find a quiet bench and watch the ships go by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inside the Votive Church",
+            "tip": "A place for quiet contemplation and remembrance.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Busó-Masken",
+            "tip": "Kaufen Sie eine handgeschnitzte Maske als einzigartiges Souvenir."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach Paprika, Honig und anderen lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Busó maszkok",
+            "tip": "Vásároljon egy kézzel faragott maszkot egyedi szuvenírként."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen paprikát, mézet és más helyi termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Măști Busó",
+            "tip": "Cumpărați o mască sculptată manual ca un suvenir unic."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați boia de ardei, miere și alte produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Busó masks",
+            "tip": "Buy a hand-carved mask as a unique souvenir."
+          },
+          {
+            "name": "Local market",
+            "tip": "Look for paprika, honey, and other local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn mehrere Fahrten geplant sind.",
+          "Überprüfen Sie den Busfahrplan im Voraus.",
+          "Vom Zentrum aus ist alles leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Előre ellenőrizze a buszmenetrendet.",
+          "A központból minden könnyen elérhető gyalog."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă planificați mai multe călătorii.",
+          "Verificați programul autobuzului în avans.",
+          "Totul este la distanță de mers pe jos de centru."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan multiple trips.",
+          "Check the bus schedule in advance.",
+          "Everything is within walking distance from the center."
+        ]
+      }
+    }
+  }
+}

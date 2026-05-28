@@ -1,0 +1,1556 @@
+{
+  "city_id": "moldova-ribnita-cities-v2",
+  "anchor": {
+    "name": "Rîbnița",
+    "coords": [
+      29.0069,
+      47.7617
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Brunnenplatz",
+            "hu": "Szökőkút tér",
+            "ro": "Piața Fântânilor",
+            "en": "Fountain Square"
+          },
+          "coords": [
+            29.0055,
+            47.762
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das lokale Leben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a helyi életet.",
+            "ro": "Începeți ziua aici cu o cafea și observați viața locală.",
+            "en": "Start your day here with a coffee and watch the local life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Vaterlandsverteidiger",
+            "hu": "Haza Védelmezőinek Emlékműve",
+            "ro": "Monumentul Apărătorilor Patriei",
+            "en": "Monument to the Defenders of the Fatherland"
+          },
+          "coords": [
+            29.008,
+            47.7635
+          ],
+          "category": "monuments",
+          "arrive_at": "09:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein wichtiger Ort des Gedenkens. Zeigen Sie Respekt.",
+            "hu": "Fontos emlékhely. Mutasson tiszteletet.",
+            "ro": "Un loc important de comemorare. Arătați respect.",
+            "en": "An important place of remembrance. Be respectful."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzengel-Michael-Kathedrale",
+            "hu": "Szent Mihály Arkangyal-székesegyház",
+            "ro": "Catedrala Arhanghelul Mihail",
+            "en": "Cathedral of Archangel Michael"
+          },
+          "coords": [
+            29.011,
+            47.7645
+          ],
+          "category": "churches",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Ikonen und die beeindruckende Kuppel.",
+            "hu": "Csodálja meg a modern ikonokat és a lenyűgöző kupolát.",
+            "ro": "Admirați icoanele moderne și cupola impresionantă.",
+            "en": "Admire the modern icons and the impressive dome."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Rîbnița",
+            "hu": "Rîbnițai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie și Etnografie din Rîbnița",
+            "en": "Rîbnița Museum of Local Lore"
+          },
+          "coords": [
+            28.999,
+            47.76
+          ],
+          "category": "museums",
+          "arrive_at": "11:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die archäologische Sammlung ein.",
+            "hu": "Szánjon elég időt a régészeti gyűjteményre.",
+            "ro": "Planificați suficient timp pentru colecția arheologică.",
+            "en": "Allow enough time for the archaeological collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Dnjestr-Brücke",
+            "hu": "Dnyeszter-híd",
+            "ro": "Podul peste Nistru",
+            "en": "Dniester Bridge"
+          },
+          "coords": [
+            28.994,
+            47.758
+          ],
+          "category": "bridges",
+          "arrive_at": "13:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf den Fluss, besonders bei Sonnenuntergang.",
+            "hu": "Élvezze a folyóra nyíló panorámát, különösen naplementekor.",
+            "ro": "Bucurați-vă de vederea panoramică asupra râului, mai ales la apus.",
+            "en": "Enjoy the panoramic view of the river, especially at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Komsomol-Park",
+            "hu": "Komszomol Park",
+            "ro": "Parcul Comsomol",
+            "en": "Komsomol Park"
+          },
+          "coords": [
+            28.9965,
+            47.7565
+          ],
+          "category": "parks",
+          "arrive_at": "13:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick oder eine entspannte Pause am Nachmittag.",
+            "hu": "Ideális hely egy piknikhez vagy egy pihentető délutáni szünethez.",
+            "ro": "Un loc ideal pentru un picnic sau o pauză relaxantă după-amiaza.",
+            "en": "An ideal spot for a picnic or a relaxing afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdischer Friedhof",
+            "hu": "Zsidó temető",
+            "ro": "Cimitirul Evreiesc",
+            "en": "Jewish Cemetery"
+          },
+          "coords": [
+            29.02,
+            47.77
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein stiller Ort der Reflexion. Die alten Grabsteine erzählen viele Geschichten.",
+            "hu": "A csendes elmélkedés helye. A régi sírkövek sok történetet mesélnek.",
+            "ro": "Un loc tăcut de reflecție. Pietrele funerare vechi spun multe povești.",
+            "en": "A quiet place for reflection. The old tombstones tell many stories."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Rîbnița beginnt am lebhaften Brunnenplatz. Nach einem Moment des Gedenkens am Verteidiger-Denkmal führt Sie Ihr Weg zur beeindruckenden Erzengel-Michael-Kathedrale. Der Vormittag endet mit einer Reise in die Vergangenheit im Heimatmuseum. Nach dem Mittagessen überqueren Sie die Dnjestr-Brücke für eine atemberaubende Aussicht, gefolgt von einer entspannenden Zeit im Komsomol-Park. Der Nachmittag ist dem ruhigen und geschichtsträchtigen jüdischen Friedhof gewidmet.",
+        "hu": "A rîbnițai nap a nyüzsgő Szökőkút téren kezdődik. A Védelmezők emlékművénél tett megemlékezés után az út a lenyűgöző Szent Mihály-székesegyházhoz vezet. A délelőtt a Helytörténeti Múzeumban tett múltbeli utazással zárul. Ebéd után átkel a Dnyeszter-hídon a lélegzetelállító kilátásért, majd pihenés következik a Komszomol Parkban. A délután a csendes és történelmi zsidó temető felfedezésével telik.",
+        "ro": "Ziua dumneavoastră în Rîbnița începe în vibranta Piață a Fântânilor. După un moment de reculegere la Monumentul Apărătorilor, drumul vă duce la impresionanta Catedrală Arhanghelul Mihail. Dimineața se încheie cu o călătorie în trecut la Muzeul de Istorie. După prânz, traversați podul peste Nistru pentru o priveliște uluitoare, urmată de o pauză relaxantă în Parcul Comsomol. După-amiaza este dedicată cimitirului evreiesc, un loc liniștit și plin de istorie.",
+        "en": "Your day in Rîbnița starts at the lively Fountain Square. After a moment of remembrance at the Defenders' Monument, your path leads to the impressive Archangel Michael Cathedral. The morning concludes with a journey into the past at the Museum of Local Lore. After lunch, cross the Dniester Bridge for a breathtaking view, followed by a relaxing time in Komsomol Park. The afternoon is dedicated to the quiet and historic Jewish Cemetery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Plăcinte",
+            "tip": "Probieren Sie diese traditionellen moldauischen Teigtaschen mit verschiedenen Füllungen wie Käse oder Kartoffeln."
+          },
+          {
+            "name": "Mămăligă",
+            "tip": "Ein Maisbrei, der oft mit Käse, saurer Sahne und Fleisch serviert wird - ein Grundnahrungsmittel."
+          },
+          {
+            "name": "Restaurant 'Nistru'",
+            "tip": "Bekannt für seine traditionelle Küche und die schöne Aussicht auf den Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plăcinte",
+            "tip": "Kóstolja meg ezeket a hagyományos moldáv pitéket különféle töltelékekkel, például sajttal vagy krumplival."
+          },
+          {
+            "name": "Mămăligă",
+            "tip": "Kukoricakása, amelyet gyakran sajttal, tejföllel és hússal tálalnak - alapvető élelmiszer."
+          },
+          {
+            "name": "Nistru Étterem",
+            "tip": "Hagyományos konyhájáról és a folyóra nyíló gyönyörű kilátásról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcinte",
+            "tip": "Încercați aceste plăcinte tradiționale moldovenești cu diverse umpluturi, cum ar fi brânză sau cartofi."
+          },
+          {
+            "name": "Mămăligă",
+            "tip": "O mămăligă servită adesea cu brânză, smântână și carne - un aliment de bază."
+          },
+          {
+            "name": "Restaurantul 'Nistru'",
+            "tip": "Cunoscut pentru bucătăria sa tradițională și vederea frumoasă asupra râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plăcinte",
+            "tip": "Try these traditional Moldovan pastries with various fillings like cheese or potatoes."
+          },
+          {
+            "name": "Mămăligă",
+            "tip": "A cornmeal porridge often served with cheese, sour cream, and meat - a staple dish."
+          },
+          {
+            "name": "Restaurant 'Nistru'",
+            "tip": "Known for its traditional cuisine and beautiful river views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Dnjestr",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer im Komsomol-Park, um die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jüdischer Friedhof",
+            "tip": "Ein Ort der Stille und des Nachdenkens, abseits des städtischen Trubels.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang an der Brücke",
+            "tip": "Der Blick von der Dnjestr-Brücke bei Sonnenuntergang ist friedlich und malerisch.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dnyeszter partja",
+            "tip": "Keressen egy csendes padot a folyóparton a Komszomol Parkban, hogy élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zsidó temető",
+            "tip": "A csend és az elmélkedés helye, távol a város zajától.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a hídnál",
+            "tip": "A kilátás a Dnyeszter-hídról naplementekor békés és festői.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Nistrului",
+            "tip": "Găsiți o bancă liniștită pe malul râului în Parcul Comsomol pentru a vă bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Evreiesc",
+            "tip": "Un loc de liniște și reflecție, departe de agitația orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare la pod",
+            "tip": "Priveliștea de pe podul Nistrului la apus este pașnică și pitorească.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Dniester",
+            "tip": "Find a quiet bench on the riverbank in Komsomol Park to enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jewish Cemetery",
+            "tip": "A place of silence and reflection, away from the city bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset at the Bridge",
+            "tip": "The view from the Dniester Bridge at sunset is peaceful and picturesque.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokale Handwerksprodukte auf dem Zentralmarkt."
+          },
+          {
+            "name": "Souvenirläden",
+            "tip": "In der Nähe des Brunnenplatzes finden Sie kleine Geschäfte mit traditionellen moldauischen Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi kézműves termékeket a központi piacon."
+          },
+          {
+            "name": "Szuvenírboltok",
+            "tip": "A Szökőkút tér közelében kis üzleteket talál, ahol hagyományos moldáv szuveníreket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și meșteșuguri locale de la piața centrală."
+          },
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Lângă Piața Fântânilor veți găsi mici magazine cu suveniruri tradiționale moldovenești."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and local handicrafts at the central market."
+          },
+          {
+            "name": "Souvenir Shops",
+            "tip": "Near Fountain Square, you'll find small shops with traditional Moldovan souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders an warmen Tagen.",
+          "Achten Sie auf Ihre Umgebung, besonders in belebten Gegenden.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, aber planen Sie Pausen ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Vigyen magával vizet, különösen meleg napokon.",
+          "Legyen óvatos a környezetével, különösen a forgalmas területeken.",
+          "A legtöbb látnivaló gyalogosan elérhető, de tervezzen be szüneteket."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați apă cu dumneavoastră, mai ales în zilele călduroase.",
+          "Fiți atenți la împrejurimi, în special în zonele aglomerate.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos, dar planificați pauze."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Bring water with you, especially on warm days.",
+          "Be aware of your surroundings, especially in busy areas.",
+          "Most sights are within walking distance, but plan for breaks."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 11.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Brunnenplatz",
+            "hu": "Szökőkút tér",
+            "ro": "Piața Fântânilor",
+            "en": "Fountain Square"
+          },
+          "coords": [
+            29.0055,
+            47.762
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, amíg felfedezi a teret.",
+            "ro": "Asigurați-vă bicicleta în timp ce explorați piața.",
+            "en": "Lock your bike securely while you explore the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzengel-Michael-Kathedrale",
+            "hu": "Szent Mihály Arkangyal-székesegyház",
+            "ro": "Catedrala Arhanghelul Mihail",
+            "en": "Cathedral of Archangel Michael"
+          },
+          "coords": [
+            29.011,
+            47.7645
+          ],
+          "category": "churches",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich Zeit für das Innere.",
+            "hu": "Parkolja le a közelben a kerékpárt, és szánjon időt a belső térre.",
+            "ro": "Parcați bicicleta în apropiere și acordați-vă timp pentru a vizita interiorul.",
+            "en": "Park your bike nearby and take your time to see the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Rîbnița",
+            "hu": "Rîbnițai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie și Etnografie din Rîbnița",
+            "en": "Rîbnița Museum of Local Lore"
+          },
+          "coords": [
+            28.999,
+            47.76
+          ],
+          "category": "museums",
+          "arrive_at": "10:23",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine großartige kulturelle Pause auf Ihrer Radtour.",
+            "hu": "Nagyszerű kulturális szünet a kerékpártúrán.",
+            "ro": "O pauză culturală excelentă în turul cu bicicleta.",
+            "en": "A great cultural break on your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Dnjestr-Brücke",
+            "hu": "Dnyeszter-híd",
+            "ro": "Podul peste Nistru",
+            "en": "Dniester Bridge"
+          },
+          "coords": [
+            28.994,
+            47.758
+          ],
+          "category": "bridges",
+          "arrive_at": "12:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Halten Sie für ein Foto an, aber achten Sie auf den Verkehr.",
+            "hu": "Álljon meg egy fotóra, de vigyázzon a forgalomra.",
+            "ro": "Opriți-vă pentru o fotografie, dar fiți atenți la trafic.",
+            "en": "Stop for a photo, but be mindful of the traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Komsomol-Park",
+            "hu": "Komszomol Park",
+            "ro": "Parcul Comsomol",
+            "en": "Komsomol Park"
+          },
+          "coords": [
+            28.9965,
+            47.7565
+          ],
+          "category": "parks",
+          "arrive_at": "12:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie auf den Parkwegen und genießen Sie die grüne Umgebung.",
+            "hu": "Kerékpározzon a park ösvényein, és élvezze a zöld környezetet.",
+            "ro": "Plimbați-vă cu bicicleta pe aleile parcului și bucurați-vă de mediul verde.",
+            "en": "Cycle through the park paths and enjoy the green surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdischer Friedhof",
+            "hu": "Zsidó temető",
+            "ro": "Cimitirul Evreiesc",
+            "en": "Jewish Cemetery"
+          },
+          "coords": [
+            29.02,
+            47.77
+          ],
+          "category": "historical",
+          "arrive_at": "13:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Weg dorthin ist eine gute Gelegenheit, die Umgebung der Stadt zu sehen.",
+            "hu": "Az odavezető út jó alkalom a város környékének megismerésére.",
+            "ro": "Drumul până acolo este o bună ocazie de a vedea împrejurimile orașului.",
+            "en": "The ride there is a good opportunity to see the city's surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Trajanswall (Valul lui Traian)",
+            "hu": "Traianus fala (Valul lui Traian)",
+            "ro": "Valul lui Traian",
+            "en": "Trajan's Wall (Valul lui Traian)"
+          },
+          "coords": [
+            29.04,
+            47.78
+          ],
+          "category": "historical",
+          "arrive_at": "15:09",
+          "stay_min": 42,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour zu diesem antiken Erdwall ist anspruchsvoll, aber lohnend für Geschichtsfans.",
+            "hu": "A kerékpártúra ehhez az ősi földsánchoz kihívást jelent, de a történelem kedvelőinek megéri.",
+            "ro": "Excursia cu bicicleta la acest val de pământ antic este provocatoare, dar plină de satisfacții pentru pasionații de istorie.",
+            "en": "The bike ride to this ancient earthwork is challenging but rewarding for history buffs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad für eine Entdeckungstour durch Rîbnița! Vom zentralen Brunnenplatz radeln Sie zur prächtigen Kathedrale und dann zum Heimatmuseum für eine Dosis Kultur. Zur Mittagszeit überqueren Sie die Dnjestr-Brücke und machen eine Pause im grünen Komsomol-Park. Der Nachmittag führt Sie zu zwei bedeutenden historischen Stätten: dem jüdischen Friedhof und den Überresten des Trajanswalls, was Ihnen einen umfassenden Einblick in die reiche Geschichte der Region gibt.",
+        "hu": "Pattanjon kerékpárra Rîbnița felfedezéséhez! A központi Szökőkút tértől tekerjen a csodálatos székesegyházhoz, majd a Helytörténeti Múzeumhoz egy adag kultúráért. Délidőben keljen át a Dnyeszter-hídon, és tartson szünetet a zöld Komszomol Parkban. A délután két fontos történelmi helyszínre vezet: a zsidó temetőhöz és Traianus falának maradványaihoz, ami átfogó betekintést nyújt a régió gazdag történelmébe.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur de descoperire a orașului Rîbnița! Din Piața centrală a Fântânilor, pedalați spre magnifica catedrală și apoi spre Muzeul de Istorie pentru o doză de cultură. La prânz, traversați podul Nistru și faceți o pauză în Parcul verde Comsomol. După-amiaza vă poartă spre două situri istorice importante: cimitirul evreiesc și rămășițele Valului lui Traian, oferindu-vă o perspectivă cuprinzătoare asupra istoriei bogate a regiunii.",
+        "en": "Get on your bike for a discovery tour of Rîbnița! From the central Fountain Square, you'll cycle to the magnificent cathedral and then to the Museum of Local Lore for a dose of culture. At noon, cross the Dniester Bridge and take a break in the green Komsomol Park. The afternoon takes you to two important historical sites: the Jewish Cemetery and the remains of Trajan's Wall, giving you a comprehensive insight into the region's rich history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă",
+            "tip": "Eine herzhafte, saure Suppe, perfekt zur Stärkung nach einer langen Radtour."
+          },
+          {
+            "name": "Frigarui",
+            "tip": "Gegrillte Fleischspieße, ein schneller und leckerer Imbiss für unterwegs."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Erfrischen Sie sich mit einem kalten Bier aus einer lokalen Brauerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csorba",
+            "tip": "Kiadós, savanyú leves, tökéletes egy hosszú kerékpártúra utáni feltöltődéshez."
+          },
+          {
+            "name": "Frigarui",
+            "tip": "Grillezett húsnyárs, gyors és ízletes harapnivaló útközben."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Frissítse fel magát egy hideg sörrel egy helyi sörfőzdéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă",
+            "tip": "O supă acră și consistentă, perfectă pentru a vă reface forțele după un tur lung cu bicicleta."
+          },
+          {
+            "name": "Frigărui",
+            "tip": "Frigărui de carne la grătar, o gustare rapidă și delicioasă pentru drum."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Răcoriți-vă cu o bere rece de la o fabrică de bere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă",
+            "tip": "A hearty, sour soup, perfect for refueling after a long bike ride."
+          },
+          {
+            "name": "Frigarui",
+            "tip": "Grilled meat skewers, a quick and tasty snack on the go."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Refresh yourself with a cold beer from a local brewery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Am Trajanswall",
+            "tip": "Die Landschaft um den Wall ist ruhig und bietet eine Pause vom Stadtleben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Flussufer-Radweg",
+            "tip": "Eine gemütliche Fahrt entlang des Dnjestr, abseits der Hauptstraßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke im Komsomol-Park",
+            "tip": "Finden Sie eine abgelegene Bank und entspannen Sie sich im Schatten der Bäume.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Traianus falánál",
+            "tip": "A fal körüli táj csendes, és szünetet kínál a városi élettől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Folyóparti kerékpárút",
+            "tip": "Kényelmes tekerés a Dnyeszter mentén, távol a főutaktól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Komszomol Parkban",
+            "tip": "Keressen egy félreeső padot, és pihenjen a fák árnyékában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Valul lui Traian",
+            "tip": "Peisajul din jurul valului este liniștit și oferă o pauză de la viața orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pista de biciclete de pe malul râului",
+            "tip": "O plimbare relaxantă de-a lungul Nistrului, departe de drumurile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci în Parcul Comsomol",
+            "tip": "Găsiți o bancă retrasă și relaxați-vă la umbra copacilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "At Trajan's Wall",
+            "tip": "The landscape around the wall is quiet and offers a break from city life.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Riverbank cycle path",
+            "tip": "A leisurely ride along the Dniester, away from the main roads.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches in Komsomol Park",
+            "tip": "Find a secluded bench and relax in the shade of the trees.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentralmarkt",
+            "tip": "Ein authentisches Erlebnis, um lokale Produkte und die Atmosphäre aufzusaugen."
+          },
+          {
+            "name": "Handgefertigte Waren",
+            "tip": "Halten Sie Ausschau nach Ständen, die traditionelle Stickereien und Holzarbeiten verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac",
+            "tip": "Autentikus élmény a helyi termékek és a hangulat magába szívásához."
+          },
+          {
+            "name": "Kézműves termékek",
+            "tip": "Keresse a hagyományos hímzéseket és fafaragásokat árusító standokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "O experiență autentică pentru a absorbi produsele locale și atmosfera."
+          },
+          {
+            "name": "Produse artizanale",
+            "tip": "Căutați tarabe care vând broderii tradiționale și obiecte din lemn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "An authentic experience to soak up local produce and the atmosphere."
+          },
+          {
+            "name": "Handmade goods",
+            "tip": "Look for stalls selling traditional embroidery and woodwork."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Einige Wege können uneben sein, seien Sie also vorbereitet.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Planen Sie Ihre Route im Voraus, besonders für die Fahrt zum Trajanswall."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "Néhány út egyenetlen lehet, ezért legyen felkészülve.",
+          "Vigyen magával egy lakatot, hogy biztonságosan lezárhassa a kerékpárt a megállóknál.",
+          "Tervezze meg előre az útvonalat, különösen a Traianus falához vezető utat."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Unele poteci pot fi denivelate, așa că fiți pregătiți.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Planificați-vă traseul în avans, în special pentru drumul spre Valul lui Traian."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Some paths can be uneven, so be prepared.",
+          "Bring a lock to secure your bike at the stops.",
+          "Plan your route in advance, especially for the ride to Trajan's Wall."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 19.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Brunnenplatz",
+            "hu": "A Klaszter: Szökőkút tér",
+            "ro": "Cluster A: Piața Fântânilor",
+            "en": "Cluster A: Fountain Square"
+          },
+          "coords": [
+            29.0055,
+            47.762
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie Ihren Rundgang durch das Stadtzentrum.",
+            "hu": "Parkoljon a közelben, és kezdje meg a városközponti sétát.",
+            "ro": "Parcați în apropiere și începeți turul pe jos al centrului orașului.",
+            "en": "Park nearby and start your walking tour of the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Vaterlandsverteidiger",
+            "hu": "Haza Védelmezőinek Emlékműve",
+            "ro": "Monumentul Apărătorilor Patriei",
+            "en": "Monument to the Defenders of the Fatherland"
+          },
+          "coords": [
+            29.008,
+            47.7635
+          ],
+          "category": "monuments",
+          "arrive_at": "09:36",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Brunnenplatz entfernt.",
+            "hu": "Csak egy rövid séta a Szökőkút tértől.",
+            "ro": "La doar o scurtă plimbare de Piața Fântânilor.",
+            "en": "Just a short walk from Fountain Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzengel-Michael-Kathedrale",
+            "hu": "Szent Mihály Arkangyal-székesegyház",
+            "ro": "Catedrala Arhanghelul Mihail",
+            "en": "Cathedral of Archangel Michael"
+          },
+          "coords": [
+            29.011,
+            47.7645
+          ],
+          "category": "churches",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Höhepunkt des ersten Clusters, nehmen Sie sich Zeit.",
+            "hu": "Az első klaszter fénypontja, szánjon rá időt.",
+            "ro": "Punctul culminant al primului cluster, acordați-vă timp.",
+            "en": "The highlight of the first cluster, take your time."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Dnjestr-Brücke",
+            "hu": "B Klaszter: Dnyeszter-híd",
+            "ro": "Cluster B: Podul peste Nistru",
+            "en": "Cluster B: Dniester Bridge"
+          },
+          "coords": [
+            28.994,
+            47.758
+          ],
+          "category": "bridges",
+          "arrive_at": "10:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Flussufer. Parken Sie und erkunden Sie die Brücke und den Park zu Fuß.",
+            "hu": "Vezessen a folyóparthoz. Parkoljon le, és fedezze fel a hidat és a parkot gyalog.",
+            "ro": "Conduceți spre malul râului. Parcați și explorați podul și parcul pe jos.",
+            "en": "Drive to the riverfront. Park and explore the bridge and park on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Komsomol-Park",
+            "hu": "Komszomol Park",
+            "ro": "Parcul Comsomol",
+            "en": "Komsomol Park"
+          },
+          "coords": [
+            28.9965,
+            47.7565
+          ],
+          "category": "parks",
+          "arrive_at": "11:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang vom Brückenbereich aus. Ideal für eine Mittagspause.",
+            "hu": "Kellemes séta a híd környékéről. Ideális egy ebédszünethez.",
+            "ro": "O plimbare relaxantă din zona podului. Ideal pentru o pauză de prânz.",
+            "en": "A relaxing walk from the bridge area. Ideal for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Rîbnița",
+            "hu": "Rîbnițai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie și Etnografie din Rîbnița",
+            "en": "Rîbnița Museum of Local Lore"
+          },
+          "coords": [
+            28.999,
+            47.76
+          ],
+          "category": "museums",
+          "arrive_at": "12:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Park aus leicht zu Fuß erreichbar, bevor Sie zum Auto zurückkehren.",
+            "hu": "Könnyen megközelíthető gyalog a parkból, mielőtt visszatérne az autóhoz.",
+            "ro": "Ușor de accesat pe jos din parc înainte de a vă întoarce la mașină.",
+            "en": "Easily walkable from the park before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Jüdischer Friedhof",
+            "hu": "C Klaszter: Zsidó temető",
+            "ro": "Cluster C: Cimitirul Evreiesc",
+            "en": "Cluster C: Jewish Cemetery"
+          },
+          "coords": [
+            29.02,
+            47.77
+          ],
+          "category": "historical",
+          "arrive_at": "14:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie in die Außenbezirke, um diesen historischen Ort und den Trajanswall zu erkunden.",
+            "hu": "Vezessen a külvárosba, hogy felfedezze ezt a történelmi helyet és Traianus falát.",
+            "ro": "Conduceți spre periferie pentru a explora acest sit istoric și Valul lui Traian.",
+            "en": "Drive to the outskirts to explore this historical site and Trajan's Wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Trajanswall (Valul lui Traian)",
+            "hu": "Traianus fala (Valul lui Traian)",
+            "ro": "Valul lui Traian",
+            "en": "Trajan's Wall (Valul lui Traian)"
+          },
+          "coords": [
+            29.04,
+            47.78
+          ],
+          "category": "historical",
+          "arrive_at": "16:07",
+          "stay_min": 39,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, eine kurze Fahrt vom Friedhof entfernt.",
+            "hu": "A nap utolsó állomása, egy rövid autóútra a temetőtől.",
+            "ro": "Ultima oprire a zilei, la o scurtă distanță cu mașina de cimitir.",
+            "en": "The last stop of the day, a short drive from the cemetery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Rîbnița und seine Umgebung bequem mit dem Auto. Beginnen Sie im Herzen der Stadt, parken Sie Ihr Auto und erkunden Sie den zentralen Platz, das Denkmal und die Kathedrale zu Fuß. Fahren Sie dann zum Flussufer für einen Spaziergang im Park und einen Besuch im Museum. Der Nachmittag ist einer Fahrt zu den historischen Stätten am Rande der Stadt gewidmet: dem jüdischen Friedhof und dem antiken Trajanswall. Diese Route kombiniert städtische Erkundung mit Ausflügen in die Natur und Geschichte.",
+        "hu": "Fedezze fel Rîbnițát és környékét kényelmesen autóval. Kezdje a város szívében, parkolja le az autót, és fedezze fel gyalog a központi teret, az emlékművet és a székesegyházat. Ezután vezessen a folyóparthoz egy parki sétáért és egy múzeumlátogatásért. A délután a város szélén található történelmi helyszínekhez vezet: a zsidó temetőhöz és az ókori Traianus falához. Ez az útvonal ötvözi a városi felfedezést a természeti és történelmi kirándulásokkal.",
+        "ro": "Descoperiți Rîbnița și împrejurimile sale în confortul mașinii. Începeți în inima orașului, parcați mașina și explorați pe jos piața centrală, monumentul și catedrala. Apoi, conduceți spre malul râului pentru o plimbare în parc și o vizită la muzeu. După-amiaza este dedicată unei excursii la siturile istorice de la marginea orașului: cimitirul evreiesc și anticul Val al lui Traian. Acest traseu combină explorarea urbană cu incursiuni în natură și istorie.",
+        "en": "Discover Rîbnița and its surroundings from the comfort of your car. Start in the heart of the city, park your car, and explore the central square, monument, and cathedral on foot. Then, drive to the riverfront for a walk in the park and a visit to the museum. The afternoon is dedicated to a drive to the historical sites on the outskirts of the city: the Jewish Cemetery and the ancient Trajan's Wall. This route combines urban exploration with trips into nature and history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Flussufer",
+            "tip": "Genießen Sie eine Mahlzeit mit Aussicht in einem der Restaurants in der Nähe des Dnjestr."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Moldawien ist für seine Weine bekannt. Halten Sie in einem Geschäft an, um eine Flasche als Souvenir zu kaufen."
+          },
+          {
+            "name": "Gozleme",
+            "tip": "Ein gefülltes Fladenbrot, das oft an Straßenständen verkauft wird und perfekt für einen schnellen Happen ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti étterem",
+            "tip": "Élvezzen egy étkezést kilátással a Dnyeszter közelében lévő éttermek egyikében."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "Moldova híres a borairól. Álljon meg egy boltban, hogy vegyen egy üveggel szuvenírként."
+          },
+          {
+            "name": "Gozleme",
+            "tip": "Töltött lepénykenyér, amelyet gyakran utcai standokon árulnak, tökéletes egy gyors falatra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe malul râului",
+            "tip": "Bucurați-vă de o masă cu priveliște la unul dintre restaurantele de lângă Nistru."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Moldova este renumită pentru vinurile sale. Opriți-vă la un magazin pentru a cumpăra o sticlă ca suvenir."
+          },
+          {
+            "name": "Gozleme",
+            "tip": "O lipie umplută, adesea vândută la tarabe stradale, perfectă pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverfront Restaurant",
+            "tip": "Enjoy a meal with a view at one of the restaurants near the Dniester."
+          },
+          {
+            "name": "Local Wines",
+            "tip": "Moldova is famous for its wines. Stop at a shop to buy a bottle as a souvenir."
+          },
+          {
+            "name": "Gozleme",
+            "tip": "A filled flatbread often sold at street stalls, perfect for a quick bite."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt aufs Land",
+            "tip": "Die Fahrt zum Trajanswall führt Sie durch eine ruhige, ländliche Landschaft.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt am Friedhof",
+            "tip": "Der Hügel des jüdischen Friedhofs bietet eine ruhige Aussicht über die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen am Brunnenplatz",
+            "tip": "Besuchen Sie den Platz, bevor die Stadt erwacht, für einen Moment der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a vidékre",
+            "tip": "A Traianus falához vezető út csendes, vidéki tájon vezet keresztül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátópont a temetőnél",
+            "tip": "A zsidó temető dombja csendes kilátást nyújt a városra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a Szökőkút téren",
+            "tip": "Látogasson el a térre, mielőtt a város felébred, egy pillanatnyi békéért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drum spre zona rurală",
+            "tip": "Drumul spre Valul lui Traian vă poartă printr-un peisaj rural liniștit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere la cimitir",
+            "tip": "Dealul cimitirului evreiesc oferă o priveliște liniștită asupra orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme în Piața Fântânilor",
+            "tip": "Vizitați piața înainte ca orașul să se trezească pentru un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive to the countryside",
+            "tip": "The drive to Trajan's Wall takes you through quiet, rural scenery.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint at the cemetery",
+            "tip": "The hill of the Jewish cemetery offers a quiet view over the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning at Fountain Square",
+            "tip": "Visit the square before the city wakes up for a moment of peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenverkäufer",
+            "tip": "Halten Sie an Ständen am Straßenrand für einzigartige lokale Produkte."
+          },
+          {
+            "name": "Supermärkte",
+            "tip": "Nutzen Sie das Auto, um in größeren Supermärkten lokale Spezialitäten und Weine zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai árusok",
+            "tip": "Álljon meg az út menti standoknál egyedi helyi termékekért."
+          },
+          {
+            "name": "Szupermarketek",
+            "tip": "Használja ki az autót, hogy nagyobb szupermarketekben vásároljon helyi specialitásokat és borokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători ambulanți",
+            "tip": "Opriți-vă la tarabele de pe marginea drumului pentru produse locale unice."
+          },
+          {
+            "name": "Supermarketuri",
+            "tip": "Folosiți mașina pentru a cumpăra specialități locale și vinuri din supermarketuri mai mari."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside vendors",
+            "tip": "Stop at stalls on the side of the road for unique local products."
+          },
+          {
+            "name": "Supermarkets",
+            "tip": "Use the car to buy local specialties and wines in larger supermarkets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum eine Herausforderung sein, suchen Sie nach ausgewiesenen Bereichen.",
+          "Planen Sie Ihre Route im Voraus und verwenden Sie GPS.",
+          "Achten Sie auf die örtlichen Verkehrsregeln und Geschwindigkeitsbegrenzungen.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch Orte außerhalb der Stadt zu erkunden."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a városközpontban, keressen kijelölt területeket.",
+          "Tervezze meg előre az útvonalat, és használjon GPS-t.",
+          "Vegye figyelembe a helyi közlekedési szabályokat és sebességkorlátozásokat.",
+          "Az autó rugalmasságot biztosít a városon kívüli helyek felfedezéséhez is."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centrul orașului, căutați zone desemnate.",
+          "Planificați-vă traseul în avans și utilizați GPS-ul.",
+          "Fiți atenți la regulile de circulație locale și la limitele de viteză.",
+          "O mașină vă oferă flexibilitatea de a explora și locuri din afara orașului."
+        ],
+        "en": [
+          "Parking can be challenging in the city center, look for designated areas.",
+          "Plan your route in advance and use GPS.",
+          "Be aware of local traffic rules and speed limits.",
+          "A car gives you the flexibility to explore places outside the city as well."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Brunnenplatz",
+            "hu": "A Klaszter: Szökőkút tér",
+            "ro": "Cluster A: Piața Fântânilor",
+            "en": "Cluster A: Fountain Square"
+          },
+          "coords": [
+            29.0055,
+            47.762
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Stadtzentrum, um Ihre Erkundung zu beginnen.",
+            "hu": "Menjen busszal a városközpontba, hogy elkezdje a felfedezést.",
+            "ro": "Luați un autobuz spre centrul orașului pentru a începe explorarea.",
+            "en": "Take a bus to the city center to start your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Vaterlandsverteidiger",
+            "hu": "Haza Védelmezőinek Emlékműve",
+            "ro": "Monumentul Apărătorilor Patriei",
+            "en": "Monument to the Defenders of the Fatherland"
+          },
+          "coords": [
+            29.008,
+            47.7635
+          ],
+          "category": "monuments",
+          "arrive_at": "09:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle am Platz.",
+            "hu": "Rövid séta a téri buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația de autobuz din piață.",
+            "en": "A short walk from the bus stop at the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzengel-Michael-Kathedrale",
+            "hu": "Szent Mihály Arkangyal-székesegyház",
+            "ro": "Catedrala Arhanghelul Mihail",
+            "en": "Cathedral of Archangel Michael"
+          },
+          "coords": [
+            29.011,
+            47.7645
+          ],
+          "category": "churches",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie weiter durch das Zentrum, um diese beeindruckende Kathedrale zu erreichen.",
+            "hu": "Sétáljon tovább a központon keresztül, hogy elérje ezt a lenyűgöző székesegyházat.",
+            "ro": "Continuați plimbarea prin centru pentru a ajunge la această catedrală impresionantă.",
+            "en": "Continue walking through the center to reach this impressive cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Heimatmuseum Rîbnița",
+            "hu": "B Klaszter: Rîbnițai Helytörténeti Múzeum",
+            "ro": "Cluster B: Muzeul de Istorie și Etnografie din Rîbnița",
+            "en": "Cluster B: Rîbnița Museum of Local Lore"
+          },
+          "coords": [
+            28.999,
+            47.76
+          ],
+          "category": "museums",
+          "arrive_at": "11:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zu diesem nächsten Cluster. Das Museum ist der erste Halt.",
+            "hu": "Menjen busszal ehhez a következő klaszterhez. A múzeum az első megálló.",
+            "ro": "Luați un autobuz către acest următor cluster. Muzeul este prima oprire.",
+            "en": "Take a bus to this next cluster. The museum is the first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Dnjestr-Brücke",
+            "hu": "Dnyeszter-híd",
+            "ro": "Podul peste Nistru",
+            "en": "Dniester Bridge"
+          },
+          "coords": [
+            28.994,
+            47.758
+          ],
+          "category": "bridges",
+          "arrive_at": "12:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum hinunter zum Flussufer.",
+            "hu": "Rövid séta a múzeumtól le a folyópartra.",
+            "ro": "O scurtă plimbare de la muzeu până la malul râului.",
+            "en": "A short walk from the museum down to the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Komsomol-Park",
+            "hu": "Komszomol Park",
+            "ro": "Parcul Comsomol",
+            "en": "Komsomol Park"
+          },
+          "coords": [
+            28.9965,
+            47.7565
+          ],
+          "category": "parks",
+          "arrive_at": "13:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Park, bevor Sie den Bus zur nächsten Haltestelle nehmen.",
+            "hu": "Fedezze fel a parkot, mielőtt busszal menne a következő megállóhoz.",
+            "ro": "Explorați parcul înainte de a lua autobuzul către următoarea oprire.",
+            "en": "Explore the park before taking the bus to the next stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Jüdischer Friedhof",
+            "hu": "C Klaszter: Zsidó temető",
+            "ro": "Cluster C: Cimitirul Evreiesc",
+            "en": "Cluster C: Jewish Cemetery"
+          },
+          "coords": [
+            29.02,
+            47.77
+          ],
+          "category": "historical",
+          "arrive_at": "15:05",
+          "stay_min": 85,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der letzte Bus bringt Sie zu diesem ruhigen und nachdenklichen Ort.",
+            "hu": "Az utolsó busz viszi el Önt ehhez a csendes és elgondolkodtató helyhez.",
+            "ro": "Ultimul autobuz vă va duce la acest loc liniștit și contemplativ.",
+            "en": "The last bus will take you to this quiet and reflective place."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das öffentliche Verkehrsnetz von Rîbnița, um die Stadt in Clustern zu erkunden. Beginnen Sie im Zentrum, das Sie mit dem Bus erreichen, und erkunden Sie den Hauptplatz und die Kathedrale zu Fuß. Ein weiterer Bus bringt Sie in die Nähe des Museums, von wo aus Sie zum Flussufer und in den Park spazieren können. Die letzte Etappe Ihrer Reise führt Sie mit dem Bus zum historischen jüdischen Friedhof und bietet einen Tag voller abwechslungsreicher Eindrücke, der Spaziergänge und bequeme Busfahrten kombiniert.",
+        "hu": "Használja Rîbnița tömegközlekedési hálózatát a város klaszterekben történő felfedezéséhez. Kezdje a központban, ahová busszal jut el, és fedezze fel gyalog a főteret és a székesegyházat. Egy másik busz elviszi a múzeum közelébe, ahonnan lesétálhat a folyópartra és a parkba. Az utazás utolsó szakasza busszal a történelmi zsidó temetőhöz vezet, amely változatos élményekkel teli napot kínál, ötvözve a sétákat és a kényelmes buszozást.",
+        "ro": "Folosiți rețeaua de transport public din Rîbnița pentru a explora orașul în clustere. Începeți în centru, ajungând cu autobuzul, și explorați piața principală și catedrala pe jos. Un alt autobuz vă va duce aproape de muzeu, de unde puteți merge pe jos până la malul râului și în parc. Ultima etapă a călătoriei vă duce cu autobuzul la cimitirul istoric evreiesc, oferind o zi de impresii variate, combinând plimbări și călătorii confortabile cu autobuzul.",
+        "en": "Use Rîbnița's public transport network to explore the city in clusters. Start in the center, arriving by bus, and explore the main square and cathedral on foot. Another bus will take you near the museum, from where you can walk to the riverbank and the park. The final leg of your journey takes you by bus to the historic Jewish Cemetery, offering a day of varied impressions that combines walking with convenient bus rides."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckereien",
+            "tip": "In der Nähe der Bushaltestellen finden Sie oft Bäckereien mit frischen Plăcinte für einen schnellen Snack."
+          },
+          {
+            "name": "Kwas",
+            "tip": "Ein traditionelles fermentiertes Getränk, das an Straßenkiosken verkauft wird und sehr erfrischend ist."
+          },
+          {
+            "name": "Café im Zentrum",
+            "tip": "Machen Sie eine Pause in einem der Cafés am Brunnenplatz, bevor Sie den nächsten Bus nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek",
+            "tip": "A buszmegállók közelében gyakran talál pékségeket friss plăcinte-vel egy gyors harapnivalóért."
+          },
+          {
+            "name": "Kvasz",
+            "tip": "Hagyományos erjesztett ital, amelyet utcai kioszkokban árulnak, és nagyon frissítő."
+          },
+          {
+            "name": "Kávézó a központban",
+            "tip": "Tartson szünetet a Szökőkút téri kávézók egyikében, mielőtt felszállna a következő buszra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării",
+            "tip": "Lângă stațiile de autobuz veți găsi adesea brutării cu plăcinte proaspete pentru o gustare rapidă."
+          },
+          {
+            "name": "Cvas",
+            "tip": "O băutură tradițională fermentată vândută la chioșcurile stradale, foarte răcoritoare."
+          },
+          {
+            "name": "Cafenea în centru",
+            "tip": "Faceți o pauză la una dintre cafenelele din Piața Fântânilor înainte de a lua următorul autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakeries",
+            "tip": "Near the bus stops, you'll often find bakeries with fresh plăcinte for a quick snack."
+          },
+          {
+            "name": "Kvass",
+            "tip": "A traditional fermented beverage sold at street kiosks, very refreshing."
+          },
+          {
+            "name": "Café in the center",
+            "tip": "Take a break at one of the cafes in Fountain Square before catching the next bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt",
+            "tip": "Schauen Sie aus dem Fenster und beobachten Sie die Stadt, während Sie zum nächsten Ziel fahren.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Spaziergang am Fluss",
+            "tip": "Der Bereich zwischen Museum und Park ist ideal für einen ruhigen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Denkmal am Morgen",
+            "tip": "Besuchen Sie das Verteidiger-Denkmal früh am Tag für eine ruhige Atmosphäre.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás",
+            "tip": "Nézzen ki az ablakon, és figyelje a várost, miközben a következő úti cél felé tart.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Séta a folyónál",
+            "tip": "A múzeum és a park közötti terület ideális egy csendes sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Emlékmű reggel",
+            "tip": "Látogasson el a Védelmezők emlékművéhez kora reggel a csendes hangulatért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul",
+            "tip": "Priviți pe fereastră și observați orașul în timp ce vă deplasați spre următoarea destinație.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Plimbare pe râu",
+            "tip": "Zona dintre muzeu și parc este ideală pentru o plimbare liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monumentul dimineața",
+            "tip": "Vizitați Monumentul Apărătorilor devreme în zi pentru o atmosferă liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride",
+            "tip": "Look out the window and observe the city as you travel to the next destination.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "River walk",
+            "tip": "The area between the museum and the park is ideal for a quiet walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monument in the morning",
+            "tip": "Visit the Defenders' Monument early in the day for a quiet atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Kaufen Sie Snacks, Getränke und Zeitungen, während Sie auf Ihren Bus warten."
+          },
+          {
+            "name": "Geschäfte in der Innenstadt",
+            "tip": "Erkunden Sie die kleinen Läden rund um den Brunnenplatz, bevor Sie weiterfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Vásároljon rágcsálnivalókat, italokat és újságokat, miközben a buszra vár."
+          },
+          {
+            "name": "Belvárosi üzletek",
+            "tip": "Fedezze fel a Szökőkút tér körüli kis üzleteket, mielőtt továbbmenne."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la stațiile de autobuz",
+            "tip": "Cumpărați gustări, băuturi și ziare în timp ce așteptați autobuzul."
+          },
+          {
+            "name": "Magazine din centrul orașului",
+            "tip": "Explorați micile magazine din jurul Pieței Fântânilor înainte de a merge mai departe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "Buy snacks, drinks, and newspapers while waiting for your bus."
+          },
+          {
+            "name": "Downtown shops",
+            "tip": "Explore the small shops around Fountain Square before moving on."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Buslinien und Fahrpläne.",
+          "Halten Sie Kleingeld für die Bustickets bereit.",
+          "Planen Sie zusätzliche Zeit für eventuelle Wartezeiten auf den Bus ein.",
+          "Achten Sie auf die richtige Bushaltestelle für Ihre nächste Etappe."
+        ],
+        "hu": [
+          "Tájékozódjon előre a buszjáratokról és a menetrendekről.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "Tervezzen plusz időt az esetleges buszra való várakozásra.",
+          "Figyeljen a megfelelő buszmegállóra a következő szakaszhoz."
+        ],
+        "ro": [
+          "Informați-vă în avans despre rutele și orarele autobuzelor.",
+          "Pregătiți bani mărunți pentru biletele de autobuz.",
+          "Planificați timp suplimentar pentru eventualele așteptări în stație.",
+          "Fiți atenți la stația de autobuz corectă pentru următoarea etapă."
+        ],
+        "en": [
+          "Find out about bus routes and schedules in advance.",
+          "Have small change ready for bus tickets.",
+          "Allow extra time for any waiting time for the bus.",
+          "Pay attention to the correct bus stop for your next leg."
+        ]
+      }
+    }
+  }
+}

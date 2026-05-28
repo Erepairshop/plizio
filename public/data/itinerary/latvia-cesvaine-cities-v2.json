@@ -1,0 +1,1300 @@
+{
+  "city_id": "latvia-cesvaine-cities-v2",
+  "anchor": {
+    "name": "Cesvaine",
+    "coords": [
+      26.315,
+      56.9658
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Cesvaine",
+            "hu": "Cesvaine vasútállomás",
+            "ro": "Gara Cesvaine",
+            "en": "Cesvaine Railway Station"
+          },
+          "coords": [
+            26.318,
+            56.972
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur des historischen Bahnhofsgebäudes aus dem frühen 20. Jahrhundert.",
+            "hu": "Csodálja meg a 20. század eleji, történelmi állomásépület építészetét.",
+            "ro": "Admirați arhitectura clădirii istorice a gării de la începutul secolului al XX-lea.",
+            "en": "Admire the architecture of the historic station building from the early 20th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Destillerie",
+            "hu": "Régi Szeszfőzde",
+            "ro": "Vechea Distilerie",
+            "en": "Old Distillery"
+          },
+          "coords": [
+            26.316,
+            56.97
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein faszinierendes Beispiel für die lokale Industriegeschichte.",
+            "hu": "A helyi ipartörténet lenyűgöző példája.",
+            "ro": "Un exemplu fascinant al istoriei industriale locale.",
+            "en": "A fascinating example of local industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cesvaine",
+            "hu": "Cesvaine-i kastély",
+            "ro": "Castelul Cesvaine",
+            "en": "Cesvaine Palace"
+          },
+          "coords": [
+            26.307,
+            56.966
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die opulenten Innenräume und die Geschichte des Schlosses zu entdecken.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy felfedezze a pazar belső tereket és a kastély történetét.",
+            "ro": "Participați la un tur ghidat pentru a descoperi interioarele opulente și istoria castelului.",
+            "en": "Take a guided tour to discover the opulent interiors and the history of the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum",
+            "hu": "Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală",
+            "en": "Local History Museum"
+          },
+          "coords": [
+            26.308,
+            56.9665
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im Schlosskomplex und bietet Einblicke in das Leben der Region.",
+            "hu": "A múzeum a kastélykomplexumban található, és bepillantást nyújt a régió életébe.",
+            "ro": "Muzeul este situat în complexul castelului și oferă o perspectivă asupra vieții din regiune.",
+            "en": "The museum is located within the palace complex and offers insights into the region's life."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherische Kirche Cesvaine",
+            "hu": "Cesvaine-i evangélikus templom",
+            "ro": "Biserica Luterană din Cesvaine",
+            "en": "Cesvaine Lutheran Church"
+          },
+          "coords": [
+            26.309,
+            56.967
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf den beeindruckenden Altar und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a lenyűgöző oltárt és a békés légkört.",
+            "ro": "Observați altarul impresionant și atmosfera liniștită.",
+            "en": "Pay attention to the impressive altar and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark & Teehaus",
+            "hu": "Kastélypark és Teaház",
+            "ro": "Parcul Castelului și Casa de Ceai",
+            "en": "Palace Park & Tea House"
+          },
+          "coords": [
+            26.31,
+            56.965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für einen entspannten Spaziergang. Suchen Sie das charmante Teehaus.",
+            "hu": "Ideális hely egy pihentető sétához. Keresse meg a bájos teaházat.",
+            "ro": "Un loc ideal pentru o plimbare relaxantă. Căutați fermecătoarea casă de ceai.",
+            "en": "An ideal place for a relaxing walk. Look for the charming tea house."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegerdenkmal",
+            "hu": "Hősi emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            26.311,
+            56.967
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung im Herzen der Stadt.",
+            "hu": "Egy pillanatnyi elmélkedés a város szívében.",
+            "ro": "Un moment de reflecție în inima orașului.",
+            "en": "A moment of reflection in the heart of the town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am historischen Bahnhof und spazieren Sie durch die Industriegeschichte zur beeindruckenden Schlossanlage. Der Vormittag ist der Erkundung des Schlosses und des Museums gewidmet. Nachmittags entdecken Sie die Kirche und entspannen im weitläufigen Schlosspark, bevor Sie den Tag am Kriegerdenkmal ausklingen lassen.",
+        "hu": "Kezdje a napot a történelmi vasútállomásnál, és sétáljon át az ipartörténeten a lenyűgöző kastélykomplexumig. A délelőtt a kastély és a múzeum felfedezésével telik. Délután fedezze fel a templomot és pihenjen a tágas kastélyparkban, mielőtt a hősi emlékműnél zárja a napot.",
+        "ro": "Începeți ziua la gara istorică și plimbați-vă prin istoria industrială până la impresionantul complex al castelului. Dimineața este dedicată explorării castelului și muzeului. După-amiaza, descoperiți biserica și relaxați-vă în parcul întins al castelului înainte de a încheia ziua la monumentul eroilor.",
+        "en": "Start your day at the historic train station and stroll through industrial history to the impressive palace complex. The morning is dedicated to exploring the palace and the museum. In the afternoon, discover the church and relax in the spacious palace park before ending the day at the war memorial."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Café",
+            "tip": "Probieren Sie den 'Rupjmaize' (Roggenbrot) mit Honig und einheimischem Kräutertee."
+          },
+          {
+            "name": "Schlossrestaurant (falls vorhanden)",
+            "tip": "Genießen Sie ein Gericht mit Waldpilzen oder Wild, inspiriert von der lettischen Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kávézó",
+            "tip": "Kóstolja meg a 'Rupjmaize' (rozskenyér) mézzel és helyi gyógyteával."
+          },
+          {
+            "name": "Kastélyétterem (ha van)",
+            "tip": "Élvezzen egy erdei gombás vagy vadas ételt, a lett konyha ihletésével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea locală",
+            "tip": "Încercați 'Rupjmaize' (pâine de secară) cu miere și ceai de plante local."
+          },
+          {
+            "name": "Restaurantul castelului (dacă există)",
+            "tip": "Savurați un fel de mâncare cu ciuperci de pădure sau vânat, inspirat din bucătăria letonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Café",
+            "tip": "Try the 'Rupjmaize' (rye bread) with honey and local herbal tea."
+          },
+          {
+            "name": "Palace Restaurant (if available)",
+            "tip": "Enjoy a dish with forest mushrooms or game, inspired by Latvian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer eines Teichs im Schlosspark",
+            "tip": "Finden Sie eine ruhige Bank am Wasser und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alter Friedhof bei der Kirche",
+            "tip": "Ein Ort der Stille und Geschichte, perfekt für eine kurze Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tópart a kastélyparkban",
+            "tip": "Keressen egy csendes padot a víz mellett, és hallgassa a természet hangjait.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Régi temető a templomnál",
+            "tip": "A csend és a történelem helye, tökéletes egy rövid szünetre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul unui iaz în Parcul Castelului",
+            "tip": "Găsiți o bancă liniștită lângă apă și ascultați sunetele naturii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul vechi de lângă biserică",
+            "tip": "Un loc de liniște și istorie, perfect pentru o scurtă pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pond shore in the Palace Park",
+            "tip": "Find a quiet bench by the water and listen to the sounds of nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Old cemetery near the church",
+            "tip": "A place of silence and history, perfect for a short break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop",
+            "tip": "Kaufen Sie Bücher über die lokale Geschichte oder handgefertigte Souvenirs."
+          },
+          {
+            "name": "Lokaler Markt (falls vorhanden)",
+            "tip": "Suchen Sie nach Leinenprodukten, Honig oder Bernstein – typisch lettische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Vásároljon könyveket a helytörténetről vagy kézzel készített ajándéktárgyakat."
+          },
+          {
+            "name": "Helyi piac (ha van)",
+            "tip": "Keressen lenvászon termékeket, mézet vagy borostyánt – tipikus lett termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Cumpărați cărți despre istoria locală sau suveniruri lucrate manual."
+          },
+          {
+            "name": "Piața locală (dacă există)",
+            "tip": "Căutați produse din in, miere sau chihlimbar – produse tipice letone."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Shop",
+            "tip": "Buy books on local history or handcrafted souvenirs."
+          },
+          {
+            "name": "Local Market (if available)",
+            "tip": "Look for linen products, honey, or amber – typical Latvian products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Prüfen Sie die Öffnungszeiten des Schlosses und des Museums im Voraus.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, besonders für den Spaziergang im Park.",
+          "Eine Kamera ist ein Muss, um die Schönheit des Schlosses und der umliegenden Natur festzuhalten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Előre ellenőrizze a kastély és a múzeum nyitvatartási idejét.",
+          "Hozzon magával újratölthető vizes palackot, különösen a parki sétához.",
+          "A fényképezőgép elengedhetetlen a kastély és a környező természet szépségének megörökítéséhez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi pe picioare toată ziua.",
+          "Verificați în avans orele de deschidere ale castelului și muzeului.",
+          "Luați o sticlă de apă reutilizabilă, în special pentru plimbarea în parc.",
+          "Un aparat de fotografiat este obligatoriu pentru a surprinde frumusețea castelului și a naturii înconjurătoare."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "Check the opening hours of the palace and museum in advance.",
+          "Bring a reusable water bottle, especially for the walk in the park.",
+          "A camera is a must to capture the beauty of the palace and the surrounding nature."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Cesvaine",
+            "hu": "Cesvaine vasútállomás",
+            "ro": "Gara Cesvaine",
+            "en": "Cesvaine Railway Station"
+          },
+          "coords": [
+            26.318,
+            56.972
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt Ihrer Radtour, ein schönes Beispiel für die Architektur der Jahrhundertwende.",
+            "hu": "Kerékpártúrájának kiindulópontja, a századfordulós építészet szép példája.",
+            "ro": "Punctul de plecare al turului dvs. cu bicicleta, un exemplu frumos de arhitectură de la începutul secolului.",
+            "en": "The starting point of your bike tour, a fine example of turn-of-the-century architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Destillerie",
+            "hu": "Régi Szeszfőzde",
+            "ro": "Vechea Distilerie",
+            "en": "Old Distillery"
+          },
+          "coords": [
+            26.316,
+            56.97
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um ein Stück Industriegeschichte zu sehen.",
+            "hu": "Egy rövid megálló, hogy megnézzen egy darabot az ipartörténetből.",
+            "ro": "O scurtă oprire pentru a vedea o bucată de istorie industrială.",
+            "en": "A quick stop to see a piece of industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegerdenkmal",
+            "hu": "Hősi emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            26.311,
+            56.967
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:07",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Halten Sie kurz inne, bevor Sie zum Hauptziel, dem Schloss, weiterradeln.",
+            "hu": "Tartson egy rövid szünetet, mielőtt továbbteker a fő cél, a kastély felé.",
+            "ro": "Faceți o scurtă pauză înainte de a continua cu bicicleta spre obiectivul principal, castelul.",
+            "en": "Pause for a moment before cycling on to the main attraction, the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cesvaine",
+            "hu": "Cesvaine-i kastély",
+            "ro": "Castelul Cesvaine",
+            "en": "Cesvaine Palace"
+          },
+          "coords": [
+            26.307,
+            56.966
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und nehmen Sie sich Zeit, dieses architektonische Meisterwerk zu erkunden.",
+            "hu": "Parkolja le a kerékpárját, és szánjon időt ennek az építészeti remekműnek a felfedezésére.",
+            "ro": "Parcați-vă bicicleta și acordați-vă timp pentru a explora această capodoperă arhitecturală.",
+            "en": "Park your bike and take your time to explore this architectural masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum",
+            "hu": "Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală",
+            "en": "Local History Museum"
+          },
+          "coords": [
+            26.308,
+            56.9665
+          ],
+          "category": "museums",
+          "arrive_at": "12:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ideal, um die Mittagspause mit Kultur zu verbinden. Es befindet sich direkt im Schloss.",
+            "hu": "Ideális az ebédidő és a kultúra összekapcsolására. Közvetlenül a kastélyban található.",
+            "ro": "Ideal pentru a combina pauza de prânz cu cultura. Este situat chiar în castel.",
+            "en": "Ideal for combining your lunch break with culture. It's located right in the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherische Kirche Cesvaine",
+            "hu": "Cesvaine-i evangélikus templom",
+            "ro": "Biserica Luterană din Cesvaine",
+            "en": "Cesvaine Lutheran Church"
+          },
+          "coords": [
+            26.309,
+            56.967
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:28",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe nach dem Trubel des Schlosses.",
+            "hu": "A nyugalom szigete a kastély nyüzsgése után.",
+            "ro": "Un loc de liniște după agitația de la castel.",
+            "en": "A place of peace after the hustle and bustle of the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour durch den Schlosspark",
+            "hu": "Kerékpártúra a Kastélyparkban",
+            "ro": "Tur cu bicicleta prin Parcul Castelului",
+            "en": "Bike Ride through the Palace Park"
+          },
+          "coords": [
+            26.315,
+            56.964
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:18",
+          "stay_min": 95,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine gemütliche Fahrt auf den Wegen des Parks und entdecken Sie versteckte Ecken und das Teehaus.",
+            "hu": "Élvezze a kényelmes tekerést a park ösvényein, fedezze fel a rejtett zugokat és a teaházat.",
+            "ro": "Bucurați-vă de o plimbare lejeră pe aleile parcului și descoperiți colțuri ascunse și casa de ceai.",
+            "en": "Enjoy a leisurely ride on the park's paths and discover hidden corners and the tea house."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich am Bahnhof aufs Rad und starten Sie Ihre Tour zur alten Destillerie. Nach einem kurzen Halt am Denkmal erreichen Sie das prächtige Schloss Cesvaine. Der Vormittag ist der Erkundung des Schlosses und des Museums gewidmet. Am Nachmittag radeln Sie zur Kirche und beenden den Tag mit einer ausgedehnten, entspannten Tour durch den malerischen Schlosspark.",
+        "hu": "Pattanjon kerékpárra az állomáson, és induljon a régi szeszfőzde felé. Az emlékműnél tett rövid megálló után érje el a csodálatos Cesvaine-i kastélyt. A délelőtt a kastély és a múzeum felfedezésével telik. Délután tekerjen el a templomhoz, és zárja a napot egy hosszú, pihentető túrával a festői kastélyparkban.",
+        "ro": "Urcați-vă pe bicicletă la gară și începeți turul spre vechea distilerie. După o scurtă oprire la monument, ajungeți la magnificul Castel Cesvaine. Dimineața este dedicată explorării castelului și muzeului. După-amiaza, mergeți cu bicicleta la biserică și încheiați ziua cu un tur extins și relaxant prin parcul pitoresc al castelului.",
+        "en": "Hop on your bike at the station and start your tour to the old distillery. After a short stop at the memorial, you'll reach the magnificent Cesvaine Palace. The morning is for exploring the palace and museum. In the afternoon, cycle to the church and end the day with a long, relaxing ride through the picturesque palace park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick im Schlosspark",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie ein Mittagessen im Grünen."
+          },
+          {
+            "name": "Gasthaus im Ort",
+            "tip": "Probieren Sie 'Sklandrausis', einen traditionellen lettischen süßen Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a kastélyparkban",
+            "tip": "Vásároljon helyi termékeket, és ebédeljen a szabadban."
+          },
+          {
+            "name": "Vendéglő a faluban",
+            "tip": "Kóstolja meg a 'Sklandrausis'-t, egy hagyományos lett édes süteményt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic în Parcul Castelului",
+            "tip": "Cumpărați produse locale și bucurați-vă de un prânz în aer liber."
+          },
+          {
+            "name": "Han local",
+            "tip": "Încercați 'Sklandrausis', o plăcintă dulce tradițională letonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic in the Palace Park",
+            "tip": "Buy some local produce and enjoy lunch outdoors."
+          },
+          {
+            "name": "Village Inn",
+            "tip": "Try 'Sklandrausis', a traditional Latvian sweet pie."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abgelegene Wege im Schlosspark",
+            "tip": "Entfliehen Sie den Hauptwegen und finden Sie Ihre eigene ruhige Ecke.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Schlossturm",
+            "tip": "Genießen Sie die weite Aussicht über die lettische Landschaft in der Stille der Höhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Félreeső ösvények a kastélyparkban",
+            "tip": "Meneküljön el a fő utaktól, és találja meg a saját csendes zugát.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a kastélytoronyból",
+            "tip": "Élvezze a lett tájra nyíló pazar kilátást a magasság csendjében.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteci retrase în Parcul Castelului",
+            "tip": "Evadați de pe aleile principale și găsiți-vă propriul colț de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere din turnul castelului",
+            "tip": "Bucurați-vă de priveliștea vastă asupra peisajului leton în liniștea înălțimilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Secluded paths in the Palace Park",
+            "tip": "Escape the main paths and find your own quiet corner.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Palace Tower",
+            "tip": "Enjoy the vast view over the Latvian landscape in the quiet of the heights.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksladen",
+            "tip": "Suchen Sie nach handgestrickten Wollsocken oder Handschuhen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves bolt",
+            "tip": "Keressen kézzel kötött gyapjú zoknit vagy kesztyűt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de artizanat",
+            "tip": "Căutați șosete sau mănuși de lână tricotate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Craft Shop",
+            "tip": "Look for hand-knitted wool socks or gloves."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist. Die Wege können gemischt sein.",
+          "Ein Helm wird für Ihre Sicherheit empfohlen.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad während der Besichtigungen sicher abzustellen.",
+          "Planen Sie zusätzliche Zeit für Fotostopps ein, die Landschaft ist es wert."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy a kerékpárja jó állapotban van. Az utak vegyesek lehetnek.",
+          "A biztonság érdekében sisak viselése ajánlott.",
+          "Hozzon magával egy jó lakatot, hogy biztonságban lezárhassa a kerékpárt a látogatások alatt.",
+          "Tervezzen plusz időt a fotómegállókra, a táj megéri."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este în stare bună. Traseele pot fi mixte.",
+          "Se recomandă purtarea unei căști pentru siguranța dumneavoastră.",
+          "Luați un lacăt bun pentru a vă asigura bicicleta în timpul vizitelor.",
+          "Planificați timp suplimentar pentru opriri foto, peisajul merită."
+        ],
+        "en": [
+          "Make sure your bike is in good condition. The paths can be mixed.",
+          "A helmet is recommended for your safety.",
+          "Bring a good lock to secure your bike during sightseeing.",
+          "Plan extra time for photo stops, the scenery is worth it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 2.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Bahnhof",
+            "hu": "Parkoló a vasútállomásnál",
+            "ro": "Parcare la gară",
+            "en": "Parking at the Railway Station"
+          },
+          "coords": [
+            26.3185,
+            56.9722
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihren Tag. Dies ist der erste Cluster Ihres Besuchs.",
+            "hu": "Itt kezdje a napot. Ez a látogatás első állomása.",
+            "ro": "Începeți-vă ziua aici. Acesta este primul grup de opriri al vizitei dumneavoastră.",
+            "en": "Start your day here. This is the first cluster of your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Cesvaine",
+            "hu": "Cesvaine vasútállomás",
+            "ro": "Gara Cesvaine",
+            "en": "Cesvaine Railway Station"
+          },
+          "coords": [
+            26.318,
+            56.972
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz, um die Architektur zu bewundern.",
+            "hu": "Egy rövid séta a parkolótól az építészet megcsodálására.",
+            "ro": "O scurtă plimbare de la parcare pentru a admira arhitectura.",
+            "en": "A short walk from the parking lot to admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Destillerie",
+            "hu": "Régi Szeszfőzde",
+            "ro": "Vechea Distilerie",
+            "en": "Old Distillery"
+          },
+          "coords": [
+            26.316,
+            56.97
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zu Fuß vom Bahnhof aus erreichbar, um mehr von der lokalen Atmosphäre aufzunehmen.",
+            "hu": "Gyalogosan elérhető az állomástól, hogy többet szívjon magába a helyi hangulatból.",
+            "ro": "Accesibil pe jos de la gară pentru a absorbi mai mult din atmosfera locală.",
+            "en": "Reachable on foot from the station to soak up more of the local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Schloss",
+            "hu": "Parkoló a kastélynál",
+            "ro": "Parcare la castel",
+            "en": "Parking at the Palace"
+          },
+          "coords": [
+            26.306,
+            56.965
+          ],
+          "category": "transport",
+          "arrive_at": "10:32",
+          "stay_min": 5,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den zweiten Teil Ihres Tages. Alle folgenden Sehenswürdigkeiten sind zu Fuß erreichbar.",
+            "hu": "Parkoljon itt a nap második részére. Az összes következő látnivaló gyalogosan elérhető.",
+            "ro": "Parcați aici pentru a doua parte a zilei. Toate atracțiile următoare sunt accesibile pe jos.",
+            "en": "Park here for the second part of your day. All subsequent sights are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cesvaine & Heimatmuseum",
+            "hu": "Cesvaine-i kastély és Helytörténeti Múzeum",
+            "ro": "Castelul Cesvaine și Muzeul de Istorie Locală",
+            "en": "Cesvaine Palace & Local History Museum"
+          },
+          "coords": [
+            26.307,
+            56.966
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:39",
+          "stay_min": 180,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich ausgiebig Zeit für das Schloss und das darin untergebrachte Museum.",
+            "hu": "Szánjon bőséges időt a kastélyra és a benne található múzeumra.",
+            "ro": "Acordați-vă timp suficient pentru castel și muzeul găzduit în interior.",
+            "en": "Take ample time for the palace and the museum housed inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherische Kirche Cesvaine",
+            "hu": "Cesvaine-i evangélikus templom",
+            "ro": "Biserica Luterană din Cesvaine",
+            "en": "Cesvaine Lutheran Church"
+          },
+          "coords": [
+            26.309,
+            56.967
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:03",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, besinnlicher Spaziergang vom Schloss.",
+            "hu": "Egy rövid, elmélyült séta a kastélytól.",
+            "ro": "O scurtă plimbare contemplativă de la castel.",
+            "en": "A short, contemplative walk from the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark & Teehaus",
+            "hu": "Kastélypark és Teaház",
+            "ro": "Parcul Castelului și Casa de Ceai",
+            "en": "Palace Park & Tea House"
+          },
+          "coords": [
+            26.31,
+            56.965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:41",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Nachmittag ausklingen zu lassen, bevor Sie zum Auto zurückkehren.",
+            "hu": "Tökéletes hely a délután befejezésére, mielőtt visszatérne az autóhoz.",
+            "ro": "Locul perfect pentru a încheia după-amiaza înainte de a vă întoarce la mașină.",
+            "en": "The perfect place to round off the afternoon before returning to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto am Bahnhof, um das Industrieerbe von Cesvaine zu Fuß zu erkunden. Am Vormittag fahren Sie zum Schloss, wo der zweite Teil Ihres Tages beginnt. Erkunden Sie die Schlossanlage, das Museum und die nahegelegene Kirche zu Fuß. Ein langer Spaziergang durch den Schlosspark bildet den entspannten Abschluss, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Parkolja le autóját a vasútállomásnál, hogy gyalogosan fedezze fel Cesvaine ipari örökségét. Délelőtt hajtson a kastélyhoz, ahol a nap második része kezdődik. Fedezze fel gyalog a kastélykomplexumot, a múzeumot és a közeli templomot. Egy hosszú séta a kastélyparkban jelenti a pihentető befejezést, mielőtt visszatérne az autójához.",
+        "ro": "Parcați mașina la gară pentru a explora pe jos patrimoniul industrial din Cesvaine. Dimineața, conduceți la castel, unde începe a doua parte a zilei. Explorați complexul castelului, muzeul și biserica din apropiere pe jos. O plimbare lungă prin parcul castelului oferă o încheiere relaxantă înainte de a vă întoarce la mașină.",
+        "en": "Park your car at the station to explore Cesvaine's industrial heritage on foot. In the morning, drive to the palace where the second part of your day begins. Explore the palace complex, museum, and nearby church on foot. A long walk through the palace park provides a relaxing conclusion before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im nächstgrößeren Ort",
+            "tip": "Nutzen Sie das Auto für eine kurze Fahrt zu einem gut bewerteten Restaurant in der Nähe, z.B. in Madona."
+          },
+          {
+            "name": "Bäckerei in Cesvaine",
+            "tip": "Holen Sie sich 'pīrāgi' (Speckbrötchen) für ein schnelles Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a következő nagyobb városban",
+            "tip": "Használja az autót egy rövid útra egy jól értékelt közeli étteremhez, pl. Madonában."
+          },
+          {
+            "name": "Pékség Cesvaine-ben",
+            "tip": "Vegyen 'pīrāgi'-t (szalonnás zsemle) egy gyors ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în următorul oraș mai mare",
+            "tip": "Folosiți mașina pentru o scurtă călătorie la un restaurant bine cotat din apropiere, de exemplu în Madona."
+          },
+          {
+            "name": "Brutărie în Cesvaine",
+            "tip": "Luați 'pīrāgi' (chifle cu slănină) pentru un prânz rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant in the next larger town",
+            "tip": "Use the car for a short drive to a well-rated restaurant nearby, e.g., in Madona."
+          },
+          {
+            "name": "Bakery in Cesvaine",
+            "tip": "Get some 'pīrāgi' (bacon buns) for a quick lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt auf Landstraßen",
+            "tip": "Genießen Sie die ruhige Fahrt durch die lettische Landschaft zwischen den Clustern.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Das Teehaus im Park",
+            "tip": "Ein abgeschiedener Ort für eine Pause inmitten der Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utazás a vidéki utakon",
+            "tip": "Élvezze a csendes autózást a lett tájon a klaszterek között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Teaház a parkban",
+            "tip": "Egy eldugott hely egy szünetre a természet közepén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe drumurile de țară",
+            "tip": "Bucurați-vă de condusul liniștit prin peisajul leton între grupuri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Casa de Ceai din parc",
+            "tip": "Un loc retras pentru o pauză în mijlocul naturii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive on country roads",
+            "tip": "Enjoy the quiet drive through the Latvian countryside between clusters.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The Tea House in the park",
+            "tip": "A secluded spot for a break surrounded by nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden auf dem Land",
+            "tip": "Halten Sie Ausschau nach Schildern, die frische Produkte oder Honig direkt vom Erzeuger verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok vidéken",
+            "tip": "Figyelje a táblákat, amelyek friss termékeket vagy mézet árulnak közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă la țară",
+            "tip": "Fiți atenți la indicatoarele care vând produse proaspete sau miere direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the countryside",
+            "tip": "Look out for signs selling fresh produce or honey direct from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und eventuelle Gebühren im Voraus.",
+          "Ein Navi ist hilfreich, um die Parkplätze der Cluster zu finden.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+          "Die Cluster-Walking-Methode spart Zeit und Parkplatzsuche an jeder einzelnen Sehenswürdigkeit."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és az esetleges díjakat.",
+          "A navigációs rendszer segít megtalálni a klaszterek parkolóit.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "A klaszter-séta módszer időt és parkolóhely-keresést takarít meg minden egyes látnivalónál."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și eventualele taxe în avans.",
+          "Un sistem de navigație este util pentru a găsi parcările grupurilor.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Metoda de mers pe jos în grup economisește timp și căutarea unui loc de parcare la fiecare atracție în parte."
+        ],
+        "en": [
+          "Check parking options and any fees in advance.",
+          "A navigation system is helpful for finding the cluster parking lots.",
+          "Do not leave valuables visible in the car.",
+          "The cluster-walking method saves time and the hassle of finding parking at each individual sight."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle am Bahnhof",
+            "hu": "Buszmegálló a vasútállomásnál",
+            "ro": "Stația de autobuz de la gară",
+            "en": "Bus stop at the Railway Station"
+          },
+          "coords": [
+            26.3188,
+            56.9718
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier. Die alte Destillerie ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "Kezdje itt. A régi szeszfőzde csak egy rövid sétára van.",
+            "ro": "Începeți aici. Vechea distilerie este la o scurtă plimbare.",
+            "en": "Start here. The old distillery is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Destillerie",
+            "hu": "Régi Szeszfőzde",
+            "ro": "Vechea Distilerie",
+            "en": "Old Distillery"
+          },
+          "coords": [
+            26.316,
+            56.97
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein interessanter Einblick in die industrielle Vergangenheit von Cesvaine.",
+            "hu": "Érdekes bepillantás Cesvaine ipari múltjába.",
+            "ro": "O perspectivă interesantă asupra trecutului industrial al Cesvainei.",
+            "en": "An interesting insight into Cesvaine's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Zentrum/Schloss",
+            "hu": "Buszmegálló Központ/Kastély",
+            "ro": "Stația de autobuz Centru/Castel",
+            "en": "Bus stop Center/Palace"
+          },
+          "coords": [
+            26.31,
+            56.9675
+          ],
+          "category": "transport",
+          "arrive_at": "10:25",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Von hier aus beginnt Ihr Rundgang durch den historischen Kern.",
+            "hu": "Innen indul a séta a történelmi központon keresztül.",
+            "ro": "De aici începe turul dumneavoastră pietonal prin centrul istoric.",
+            "en": "Your walking tour of the historic core starts from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cesvaine & Heimatmuseum",
+            "hu": "Cesvaine-i kastély és Helytörténeti Múzeum",
+            "ro": "Castelul Cesvaine și Muzeul de Istorie Locală",
+            "en": "Cesvaine Palace & Local History Museum"
+          },
+          "coords": [
+            26.307,
+            56.966
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:33",
+          "stay_min": 180,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Höhepunkt des Tages. Planen Sie genügend Zeit für beide Attraktionen ein.",
+            "hu": "A nap fénypontja. Tervezzen elegendő időt mindkét látnivalóra.",
+            "ro": "Punctul culminant al zilei. Planificați suficient timp pentru ambele atracții.",
+            "en": "The highlight of the day. Plan enough time for both attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherische Kirche Cesvaine",
+            "hu": "Cesvaine-i evangélikus templom",
+            "ro": "Biserica Luterană din Cesvaine",
+            "en": "Cesvaine Lutheran Church"
+          },
+          "coords": [
+            26.309,
+            56.967
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:57",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein paar Schritte vom Schloss entfernt, ein Ort der Ruhe.",
+            "hu": "Csak néhány lépésre a kastélytól, a béke szigete.",
+            "ro": "La doar câțiva pași de castel, un loc de liniște.",
+            "en": "Just a few steps from the palace, a place of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Palace Park"
+          },
+          "coords": [
+            26.31,
+            56.965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:37",
+          "stay_min": 123,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren Tag mit einem langen, erholsamen Spaziergang ab, bevor Sie zum Bus zurückkehren.",
+            "hu": "Zárja a napot egy hosszú, pihentető sétával, mielőtt visszatérne a buszhoz.",
+            "ro": "Încheiați-vă ziua cu o plimbare lungă și relaxantă înainte de a vă întoarce la autobuz.",
+            "en": "End your day with a long, relaxing walk before heading back to the bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nehmen Sie den Bus zum Bahnhof und erkunden Sie die Industriedenkmäler. Ein kurzer Bus-Hop bringt Sie ins Zentrum. Von dort aus sind Schloss, Museum und Kirche leicht zu Fuß erreichbar. Der Nachmittag gehört ganz dem ausgedehnten Schlosspark, ein perfekter, grüner Abschluss für Ihren Erkundungstag in Cesvaine.",
+        "hu": "Menjen busszal a vasútállomásra, és fedezze fel az ipari műemlékeket. Egy rövid buszozás a központba viszi. Onnan a kastély, a múzeum és a templom könnyen megközelíthető gyalog. A délután teljes egészében a tágas kastélyparké, tökéletes zöld befejezése a Cesvaine-i felfedezőútnak.",
+        "ro": "Luați autobuzul până la gară și explorați monumentele industriale. O scurtă călătorie cu autobuzul vă va duce în centru. De acolo, castelul, muzeul și biserica sunt ușor accesibile pe jos. După-amiaza este dedicată în întregime parcului extins al castelului, o încheiere verde perfectă pentru ziua dumneavoastră de explorare în Cesvaine.",
+        "en": "Take the bus to the train station and explore the industrial monuments. A short bus hop takes you to the center. From there, the palace, museum, and church are easily accessible on foot. The afternoon is entirely dedicated to the extensive palace park, a perfect green end to your day of exploration in Cesvaine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Café im Zentrum",
+            "tip": "Perfekt für eine Kaffeepause zwischen den Besichtigungen."
+          },
+          {
+            "name": "Mitgebrachtes Sandwich",
+            "tip": "Ideal für ein unkompliziertes Mittagessen im Schlosspark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kávézó a központban",
+            "tip": "Tökéletes egy kávészünetre a látogatások között."
+          },
+          {
+            "name": "Hozott szendvics",
+            "tip": "Ideális egy egyszerű ebédhez a kastélyparkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea locală în centru",
+            "tip": "Perfect pentru o pauză de cafea între vizite."
+          },
+          {
+            "name": "Sandviș la pachet",
+            "tip": "Ideal pentru un prânz necomplicat în parcul castelului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local café in the center",
+            "tip": "Perfect for a coffee break between sightseeing."
+          },
+          {
+            "name": "Packed sandwich",
+            "tip": "Ideal for an uncomplicated lunch in the palace park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bank im Schlosspark",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das Leben um sich herum.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Innenhof der Kirche",
+            "tip": "Ein stiller Ort, um dem Trubel für einen Moment zu entkommen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a kastélyparkban",
+            "tip": "Keressen egy csendes padot, és figyelje az életet maga körül.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A templom udvara",
+            "tip": "Csendes hely, ahol egy pillanatra elmenekülhet a nyüzsgés elől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă în parcul castelului",
+            "tip": "Găsiți o bancă liniștită și priviți viața din jurul dumneavoastră.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curtea bisericii",
+            "tip": "Un loc liniștit pentru a scăpa de agitație pentru un moment.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bench in the palace park",
+            "tip": "Find a quiet bench and watch the life around you.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Courtyard of the church",
+            "tip": "A quiet place to escape the hustle and bustle for a moment.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleiner Laden in der Nähe der Bushaltestelle",
+            "tip": "Kaufen Sie eine Postkarte oder ein kleines Andenken, bevor Sie abfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis bolt a buszmegálló közelében",
+            "tip": "Vásároljon egy képeslapot vagy egy kis emléktárgyat indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin mic lângă stația de autobuz",
+            "tip": "Cumpărați o carte poștală sau un mic suvenir înainte de a pleca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small shop near the bus stop",
+            "tip": "Buy a postcard or a small souvenir before you leave."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über den Busfahrplan, da die Frequenz in ländlichen Gebieten gering sein kann.",
+          "Haben Sie Kleingeld für Bustickets dabei.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind sehr gut zu Fuß erreichbar.",
+          "Planen Sie Pufferzeiten für eventuelle Busverspätungen ein."
+        ],
+        "hu": [
+          "Tájékozódjon a buszmenetrendről, mivel a járatok ritkábbak lehetnek a vidéki területeken.",
+          "Legyen nálad aprópénz a buszjegyekhez.",
+          "A központ legtöbb látnivalója nagyon könnyen megközelíthető gyalog.",
+          "Tervezzen pufferidőt az esetleges buszkésésekre."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor, deoarece frecvența poate fi redusă în zonele rurale.",
+          "Aveți la dumneavoastră mărunțiș pentru biletele de autobuz.",
+          "Majoritatea atracțiilor din centru sunt foarte ușor accesibile pe jos.",
+          "Planificați timp tampon pentru eventualele întârzieri ale autobuzelor."
+        ],
+        "en": [
+          "Check the bus schedule, as frequency can be low in rural areas.",
+          "Have small change ready for bus tickets.",
+          "Most sights in the center are very easily accessible on foot.",
+          "Plan for buffer times for potential bus delays."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1460 @@
+{
+  "city_id": "portugal-matosinhos-cities-v2",
+  "anchor": {
+    "name": "Matosinhos",
+    "coords": [
+      -8.6914,
+      41.1844
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt auf dem lebhaften Mercado Municipal. Nach dem Mittagessen mit frischem Fisch schlendern Sie zum Strand und erkunden die Küste. Der Nachmittag ist für das ikonische Castelo do Queijo und Denkmäler reserviert, die von der Seefahrtsgeschichte der Stadt zeugen und in einem entspannten Sonnenuntergang am Meer gipfeln.",
+        "hu": "A nap a nyüzsgő Mercado Municipal piac felfedezésével kezdődik. Egy friss halból készült ebéd után a tengerpartra sétál, hogy felfedezze a partvonalat. A délután az ikonikus Castelo do Queijo kastélyé és az emlékműveké, amelyek a város tengeri történelméről tanúskodnak, és egy pihentető tengerparti naplementében csúcsosodnak ki.",
+        "ro": "Ziua începe la vibranta Mercado Municipal. După un prânz cu pește proaspăt, vă plimbați spre plajă pentru a explora coasta. După-amiaza este rezervată pentru emblematicul Castelo do Queijo și monumentele care stau mărturie istoriei maritime a orașului, culminând cu un apus relaxant la malul mării.",
+        "en": "Your day begins at the vibrant Mercado Municipal. After a fresh fish lunch, you'll stroll towards the beach to explore the coastline. The afternoon is reserved for the iconic Castelo do Queijo and monuments that testify to the city's maritime history, culminating in a relaxing sunset by the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillte Sardinen",
+            "tip": "Ein Muss in Matosinhos, am besten frisch vom Grill in einem der vielen Restaurants in der Nähe des Hafens."
+          },
+          {
+            "name": "Arroz de Marisco",
+            "tip": "Ein herzhafter Meeresfrüchte-Reis, perfekt zum Teilen."
+          },
+          {
+            "name": "Tripas à Moda do Porto",
+            "tip": "Für Abenteuerlustige ein traditionelles Kuttelgericht aus der nahen gelegenen Stadt Porto."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett szardínia",
+            "tip": "Ezt Matosinhosban kötelező megkóstolni, a legjobb frissen grillezve a kikötő melletti számos étterem egyikében."
+          },
+          {
+            "name": "Arroz de Marisco",
+            "tip": "Egy kiadós tenger gyümölcsei rizs, tökéletes megosztáshoz."
+          },
+          {
+            "name": "Tripas à Moda do Porto",
+            "tip": "A kalandvágyóknak egy hagyományos pacalétel a közeli Porto városából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sardine la grătar",
+            "tip": "O necesitate în Matosinhos, cel mai bine savurată proaspătă de pe grătar la unul dintre multele restaurante de lângă port."
+          },
+          {
+            "name": "Arroz de Marisco",
+            "tip": "Un orez cu fructe de mare consistent, perfect de împărțit."
+          },
+          {
+            "name": "Tripas à Moda do Porto",
+            "tip": "Pentru cei aventuroși, un fel de mâncare tradițional cu burtă din orașul apropiat Porto."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Sardines",
+            "tip": "A must-try in Matosinhos, best enjoyed fresh off the grill at one of the many restaurants near the port."
+          },
+          {
+            "name": "Arroz de Marisco",
+            "tip": "A hearty seafood rice, perfect for sharing."
+          },
+          {
+            "name": "Tripas à Moda do Porto",
+            "tip": "For the adventurous, a traditional tripe dish from the nearby city of Porto."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piscina das Marés bei Ebbe",
+            "tip": "Erleben Sie die architektonische Harmonie mit dem Ozean in einem ruhigen Moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am Castelo do Queijo",
+            "tip": "Beobachten Sie, wie die Sonne unter den Horizont sinkt, mit der Festung als Silhouette.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein Spaziergang entlang der Praia de Matosinhos",
+            "tip": "Die Weite des Sandes und das Rauschen der Wellen bieten eine friedliche Flucht.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piscina das Marés apálykor",
+            "tip": "Tapasztalja meg az építészeti harmóniát az óceánnal egy csendes pillanatban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a Castelo do Queijo-nál",
+            "tip": "Nézze, ahogy a nap a horizont alá süllyed, a erőd sziluettjével.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Praia de Matosinhos mentén",
+            "tip": "A homokos part és a hullámok zaja békés menedéket nyújt.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piscina das Marés la reflux",
+            "tip": "Experimentați armonia arhitecturală cu oceanul într-un moment de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare la Castelo do Queijo",
+            "tip": "Urmăriți soarele cum coboară sub orizont cu fortăreața ca siluetă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O plimbare de-a lungul Praia de Matosinhos",
+            "tip": "Întinderea de nisip și sunetul valurilor oferă o evadare pașnică.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piscina das Marés at low tide",
+            "tip": "Experience the architectural harmony with the ocean in a quiet moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset at Castelo do Queijo",
+            "tip": "Watch the sun dip below the horizon with the fortress as a silhouette.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A walk along Praia de Matosinhos",
+            "tip": "The vastness of the sand and the sound of the waves offer a peaceful escape.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Kaufen Sie frischen Fisch, lokale Produkte und handwerklichen Käse."
+          },
+          {
+            "name": "Rua Brito Capelo",
+            "tip": "Die Haupteinkaufsstraße von Matosinhos mit einer Mischung aus lokalen Geschäften und internationalen Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Vásároljon friss halat, helyi termékeket és kézműves sajtokat."
+          },
+          {
+            "name": "Rua Brito Capelo",
+            "tip": "Matosinhos fő bevásárlóutcája, helyi üzletek és nemzetközi márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Cumpărați pește proaspăt, produse locale și brânzeturi artizanale."
+          },
+          {
+            "name": "Rua Brito Capelo",
+            "tip": "Strada principală de cumpărături din Matosinhos, cu un amestec de magazine locale și mărci internaționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Shop for fresh fish, local produce, and artisanal cheeses."
+          },
+          {
+            "name": "Rua Brito Capelo",
+            "tip": "The main shopping street in Matosinhos, with a mix of local shops and international brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die Fischrestaurants in der Nähe der Doca Pesca bieten den frischesten Fang.",
+          "Passen Sie auf Radfahrer auf der Promenade auf.",
+          "Die Strände können windig sein, bringen Sie also eine leichte Jacke mit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "A Doca Pesca melletti haléttermek a legfrissebb fogást kínálják.",
+          "Vigyázzon a kerékpárosokra a sétányon.",
+          "A strandok szelesek lehetnek, hozzon magával egy könnyű dzsekit."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Restaurantele cu pește de lângă Doca Pesca oferă cea mai proaspătă captură.",
+          "Fiți atenți la bicicliști pe promenadă.",
+          "Plajele pot fi vântoase, așa că aduceți o jachetă subțire."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "The fish restaurants near the Doca Pesca offer the freshest catch.",
+          "Watch out for cyclists on the promenade.",
+          "The beaches can be windy, so bring a light jacket."
+        ]
+      },
+      "stops": [
+        {
+          "name": {
+            "de": "Mercado Municipal de Matosinhos",
+            "hu": "Matosinhos Városi Piac",
+            "ro": "Piața Municipală din Matosinhos",
+            "en": "Mercado Municipal de Matosinhos"
+          },
+          "coords": [
+            -8.6885,
+            41.1852
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie die 'bifana' an einem der Stände für einen schnellen, lokalen Snack.",
+            "hu": "Kóstolja meg a 'bifanát' az egyik standnál egy gyors, helyi harapnivalóért.",
+            "ro": "Încercați 'bifana' la una dintre tarabe pentru o gustare locală rapidă.",
+            "en": "Try the 'bifana' at one of the stalls for a quick, local snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja do Bom Jesus de Matosinhos",
+            "hu": "Bom Jesus de Matosinhos templom",
+            "ro": "Biserica Bom Jesus din Matosinhos",
+            "en": "Igreja do Bom Jesus de Matosinhos"
+          },
+          "coords": [
+            -8.6861,
+            41.1865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die vergoldeten Holzschnitzereien im Inneren, ein Meisterwerk des Barocks.",
+            "hu": "Csodálja meg a belső aranyozott fafaragásokat, a barokk remekművét.",
+            "ro": "Admirați sculpturile interioare din lemn aurit, o capodoperă a barocului.",
+            "en": "Admire the gilded wood carvings inside, a masterpiece of Baroque art."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Matosinhos",
+            "hu": "Matosinhos strand",
+            "ro": "Plaja Matosinhos",
+            "en": "Praia de Matosinhos"
+          },
+          "coords": [
+            -8.6955,
+            41.178
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:12",
+          "stay_min": 180,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für Surfanfänger. Viele Surfschulen bieten Schnupperstunden an.",
+            "hu": "Ideális kezdő szörfösöknek. Számos szörfiskola kínál próbaórákat.",
+            "ro": "Ideal pentru surferii începători. Multe școli de surf oferă lecții de probă.",
+            "en": "Ideal for beginner surfers. Many surf schools offer trial lessons."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo do Queijo",
+            "hu": "Castelo do Queijo (Sajt-kastély)",
+            "ro": "Castelul Queijo (Castelul de Brânză)",
+            "en": "Castelo do Queijo (Cheese Castle)"
+          },
+          "coords": [
+            -8.6998,
+            41.1695
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Wälle für einen fantastischen Blick auf den Atlantik.",
+            "hu": "Másszon fel a falakra a fantasztikus atlanti-óceáni kilátásért.",
+            "ro": "Urcați pe metereze pentru o priveliște fantastică a Atlanticului.",
+            "en": "Climb the ramparts for a fantastic view of the Atlantic Ocean."
+          }
+        },
+        {
+          "name": {
+            "de": "Tragödie auf See Denkmal",
+            "hu": "Tengeri Tragédia Emlékmű",
+            "ro": "Monumentul Tragedia de pe Mare",
+            "en": "Tragedy at Sea Monument"
+          },
+          "coords": [
+            -8.6982,
+            41.1715
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ergreifendes Denkmal, das an die Fischer erinnert, die auf See ihr Leben verloren haben.",
+            "hu": "Egy megható emlékmű a tengeren elhunyt halászok emlékére.",
+            "ro": "Un monument emoționant care comemorează pescarii pierduți pe mare.",
+            "en": "A poignant memorial commemorating the fishermen lost at sea."
+          }
+        },
+        {
+          "name": {
+            "de": "She Changes (Die Anemone)",
+            "hu": "She Changes (Az Anemóna)",
+            "ro": "She Changes (Anemona)",
+            "en": "She Changes (The Anemone)"
+          },
+          "coords": [
+            -8.7011,
+            41.192
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:51",
+          "stay_min": 20,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie sich die Skulptur im Wind bewegt und das Netzfischen symbolisiert.",
+            "hu": "Nézze, ahogy a szobor mozog a szélben, szimbolizálva a hálós halászatot.",
+            "ro": "Urmăriți cum sculptura se mișcă în vânt, simbolizând pescuitul cu plasa.",
+            "en": "Watch the sculpture move and sway with the wind, symbolizing net fishing."
+          }
+        }
+      ]
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Radtour entlang der Küste von Matosinhos. Sie besuchen die berühmten Gezeitenbecken, bevor Sie nach Süden zum historischen Castelo do Queijo fahren. Nach einem Mittagessen am Meer können Sie das Stadtzentrum, den Markt und die Kirche erkunden. Der Tag endet mit einem Besuch des beeindruckenden 'She Changes'-Denkmals bei Sonnenuntergang.",
+        "hu": "Kezdje a napot egy kerékpártúrával Matosinhos tengerpartja mentén. Meglátogatja a híres árapály-medencéket, mielőtt dél felé veszi az irányt a történelmi Castelo do Queijo felé. Egy tengerparti ebéd után felfedezi a városközpontot, a piacot és a templomot. A napot a lenyűgöző „She Changes” emlékmű meglátogatásával zárja naplementekor.",
+        "ro": "Începeți ziua cu o plimbare cu bicicleta de-a lungul coastei Matosinhos. Veți vizita faimoasele piscine de maree înainte de a vă îndrepta spre sud, către istoricul Castelo do Queijo. După un prânz la malul mării, explorați centrul orașului, piața și biserica. Ziua se încheie cu o vizită la impresionanta sculptură „She Changes” la apus.",
+        "en": "Start your day with a bike ride along the Matosinhos coast. You'll visit the famous tidal pools before heading south to the historic Castelo do Queijo. After a seaside lunch, explore the town center, market, and church. The day concludes with a visit to the impressive 'She Changes' sculpture at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Die Restaurants entlang der Avenida Serpa Pinto sind weltberühmt für ihren frischen, gegrillten Fisch."
+          },
+          {
+            "name": "Bolinhas de Berlim",
+            "tip": "Probieren Sie diese cremigen Krapfen am Strand, die von lokalen Verkäufern verkauft werden."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Ein erfrischender, leicht moussierender Weißwein aus der Region, perfekt zu Meeresfrüchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett hal",
+            "tip": "Az Avenida Serpa Pinto mentén található éttermek világhírűek friss, grillezett halaikról."
+          },
+          {
+            "name": "Bolinhas de Berlim",
+            "tip": "Kóstolja meg ezeket a krémes fánkokat a strandon, amelyeket helyi árusok árulnak."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Egy frissítő, enyhén szénsavas fehérbor a régióból, tökéletes a tenger gyümölcseihez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește la grătar",
+            "tip": "Restaurantele de pe Avenida Serpa Pinto sunt renumite mondial pentru peștele proaspăt la grătar."
+          },
+          {
+            "name": "Bolinhas de Berlim",
+            "tip": "Încercați aceste gogoși cremoase pe plajă, vândute de vânzătorii locali."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Un vin alb răcoritor, ușor acidulat din regiune, perfect cu fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Fish",
+            "tip": "The restaurants along Avenida Serpa Pinto are world-famous for their fresh, grilled fish."
+          },
+          {
+            "name": "Bolinhas de Berlim",
+            "tip": "Try these cream-filled doughnuts on the beach, sold by local vendors."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "A refreshing, slightly sparkling white wine from the region, perfect with seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nördliches Ende der Praia de Matosinhos",
+            "tip": "Weniger überlaufen und ideal für einen ruhigen Moment am Meer.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Die Felsen am Castelo do Queijo",
+            "tip": "Setzen Sie sich auf die Felsen und lauschen Sie dem Rauschen der Wellen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang hinter 'She Changes'",
+            "tip": "Die Skulptur im Licht der untergehenden Sonne ist ein magischer Anblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Praia de Matosinhos északi vége",
+            "tip": "Kevésbé zsúfolt és ideális egy csendes pillanatra a tenger mellett.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "A sziklák a Castelo do Queijo-nál",
+            "tip": "Üljön le a sziklákra és hallgassa a hullámok morajlását.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a 'She Changes' mögött",
+            "tip": "A szobor a lenyugvó nap fényében varázslatos látványt nyújt.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capătul de nord al Praia de Matosinhos",
+            "tip": "Mai puțin aglomerat și ideal pentru un moment liniștit lângă ocean.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Stâncile de la Castelo do Queijo",
+            "tip": "Stați pe stânci și ascultați sunetul valurilor.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare în spatele 'She Changes'",
+            "tip": "Sculptura în lumina apusului este o priveliște magică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "North end of Praia de Matosinhos",
+            "tip": "Less crowded and ideal for a quiet moment by the ocean.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "The rocks by Castelo do Queijo",
+            "tip": "Sit on the rocks and listen to the sound of the crashing waves.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset behind 'She Changes'",
+            "tip": "The sculpture against the setting sun is a magical sight.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Perfekt für eine Pause, um lokales Obst oder Käse für ein Picknick zu kaufen."
+          },
+          {
+            "name": "Konservenläden",
+            "tip": "Suchen Sie nach Geschäften, die 'Conservas' verkaufen – wunderschön verpackter Fischkonserven, ein tolles Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Tökéletes egy szünetre, hogy helyi gyümölcsöt vagy sajtot vásároljon egy piknikhez."
+          },
+          {
+            "name": "Konzervboltok",
+            "tip": "Keressen 'Conservas' boltokat – gyönyörűen csomagolt halkonzervek, nagyszerű ajándéktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Perfect pentru o pauză pentru a cumpăra fructe locale sau brânză pentru un picnic."
+          },
+          {
+            "name": "Magazine de conserve",
+            "tip": "Căutați magazine care vând 'Conservas' – conserve de pește frumos ambalate, un suvenir excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Perfect for a break to buy some local fruit or cheese for a picnic."
+          },
+          {
+            "name": "Canned Fish Shops",
+            "tip": "Look for shops selling 'Conservas' - beautifully packaged canned fish, a great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen und Reifen.",
+          "Die Küstenradwege sind flach und für alle Fitnesslevel geeignet.",
+          "Schließen Sie Ihr Fahrrad immer an, auch wenn Sie nur kurz anhalten.",
+          "Achten Sie auf Fußgänger, da die Wege gemeinsam genutzt werden."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "A tengerparti kerékpárutak síkak és minden edzettségi szintnek megfelelnek.",
+          "Mindig zárja le a kerékpárt, még akkor is, ha csak rövid időre áll meg.",
+          "Vigyázzon a gyalogosokra, mivel az utak megosztottak."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Pistele de biciclete de pe coastă sunt plate și potrivite pentru toate nivelurile de fitness.",
+          "Încuiați-vă întotdeauna bicicleta, chiar dacă vă opriți doar pentru o clipă.",
+          "Fiți atenți la pietoni, deoarece căile sunt comune."
+        ],
+        "en": [
+          "Check your bike before starting, especially brakes and tires.",
+          "The coastal bike paths are flat and suitable for all fitness levels.",
+          "Always lock your bike, even when stopping for a short while.",
+          "Be mindful of pedestrians as the paths are shared."
+        ]
+      },
+      "stops": [
+        {
+          "name": {
+            "de": "Piscina das Marés",
+            "hu": "Piscina das Marés (Árapály-medencék)",
+            "ro": "Piscina das Marés (Piscinele de Maree)",
+            "en": "Piscina das Marés (Tidal Pools)"
+          },
+          "coords": [
+            -8.7075,
+            41.2
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Besuchen Sie bei Ebbe, um die Architektur im Einklang mit den Felsen zu sehen.",
+            "hu": "Látogasson el apály idején, hogy lássa az építészetet a sziklákkal összhangban.",
+            "ro": "Vizitați la reflux pentru a vedea arhitectura în armonie cu stâncile.",
+            "en": "Visit during low tide to see the architecture in harmony with the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Matosinhos",
+            "hu": "Matosinhos strand",
+            "ro": "Plaja Matosinhos",
+            "en": "Praia de Matosinhos"
+          },
+          "coords": [
+            -8.6955,
+            41.178
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause und beobachten Sie die Surfer.",
+            "hu": "Tartson egy szünetet és nézze a szörfösöket.",
+            "ro": "Luați o pauză și priviți surferii.",
+            "en": "Take a break and watch the surfers."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo do Queijo",
+            "hu": "Castelo do Queijo (Sajt-kastély)",
+            "ro": "Castelul Queijo (Castelul de Brânză)",
+            "en": "Castelo do Queijo (Cheese Castle)"
+          },
+          "coords": [
+            -8.6998,
+            41.1695
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ideal für einen Panoramablick auf die Küste.",
+            "hu": "Ideális a part menti panoráma megtekintéséhez.",
+            "ro": "Ideal pentru o vedere panoramică a coastei.",
+            "en": "Ideal for a panoramic view of the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Tragödie auf See Denkmal",
+            "hu": "Tengeri Tragédia Emlékmű",
+            "ro": "Monumentul Tragedia de pe Mare",
+            "en": "Tragedy at Sea Monument"
+          },
+          "coords": [
+            -8.6982,
+            41.1715
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:13",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung über die Beziehung der Stadt zum Meer.",
+            "hu": "Egy pillanatnyi elmélkedés a város és a tenger kapcsolatáról.",
+            "ro": "Un moment de reflecție asupra relației orașului cu marea.",
+            "en": "A moment of reflection on the city's relationship with the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado Municipal de Matosinhos",
+            "hu": "Matosinhos Városi Piac",
+            "ro": "Piața Municipală din Matosinhos",
+            "en": "Mercado Municipal de Matosinhos"
+          },
+          "coords": [
+            -8.6885,
+            41.1852
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:42",
+          "stay_min": 50,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um die Atmosphäre aufzusaugen und lokale Produkte zu sehen.",
+            "hu": "Tökéletes hely a hangulat magába szívásához és a helyi termékek megtekintéséhez.",
+            "ro": "Locul perfect pentru a absorbi atmosfera și a vedea produsele locale.",
+            "en": "The perfect place to soak up the atmosphere and see local produce."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja do Bom Jesus de Matosinhos",
+            "hu": "Bom Jesus de Matosinhos templom",
+            "ro": "Biserica Bom Jesus din Matosinhos",
+            "en": "Igreja do Bom Jesus de Matosinhos"
+          },
+          "coords": [
+            -8.6861,
+            41.1865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Juwel barocker Architektur, das man nicht verpassen sollte.",
+            "hu": "A barokk építészet ékköve, amelyet nem szabad kihagyni.",
+            "ro": "O bijuterie a arhitecturii baroce, de neratat.",
+            "en": "A gem of Baroque architecture not to be missed."
+          }
+        },
+        {
+          "name": {
+            "de": "She Changes (Die Anemone)",
+            "hu": "She Changes (Az Anemóna)",
+            "ro": "She Changes (Anemona)",
+            "en": "She Changes (The Anemone)"
+          },
+          "coords": [
+            -8.7011,
+            41.192
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein fantastischer Ort, um den Tag ausklingen zu lassen und Fotos zu machen.",
+            "hu": "Fantasztikus hely a nap befejezéséhez és fotózáshoz.",
+            "ro": "Un loc fantastic pentru a încheia ziua și a face fotografii.",
+            "en": "A fantastic spot to end the day and take photos."
+          }
+        }
+      ]
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 8.7,
+      "stop_count": 6,
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Matosinhos, wo Sie den Markt und die Hauptkirche zu Fuß erkunden. Dann fahren Sie zur Küste, parken und entdecken eine zweite Gruppe von Sehenswürdigkeiten: das Castelo do Queijo und nahegelegene Denkmäler. Ein letzter kurzer Autowechsel bringt Sie zu den berühmten Gezeitenbecken von Siza Vieira, was die Flexibilität des Autos zeigt, um verschiedene Küstenabschnitte zu verbinden.",
+        "hu": "A nap Matosinhos szívében kezdődik, ahol gyalogosan fedezi fel a piacot és a főtemplomot. Ezután a tengerpartra hajt, leparkol, és felfedez egy második látnivalócsoportot: a Castelo do Queijo-t és a közeli emlékműveket. Egy utolsó rövid autóút elviszi Siza Vieira híres árapály-medencéihez, bemutatva az autó rugalmasságát a különböző tengerparti szakaszok összekötésében.",
+        "ro": "Ziua începe în inima orașului Matosinhos, explorând pe jos piața și biserica principală. Apoi, conduceți spre coastă, parcați și descoperiți un al doilea grup de atracții: Castelo do Queijo și monumentele din apropiere. O ultimă scurtă călătorie cu mașina vă duce la faimoasele piscine de maree ale lui Siza Vieira, demonstrând flexibilitatea mașinii în conectarea diferitelor zone de coastă.",
+        "en": "Your day starts in the heart of Matosinhos, exploring the market and main church on foot. You then drive to the coast, park, and discover a second cluster of sights: the Castelo do Queijo and nearby monuments. A final short drive takes you to Siza Vieira's famous tidal pools, showing the car's flexibility in connecting different coastal zones."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischeintopf (Caldeirada)",
+            "tip": "Ein wärmender Eintopf mit verschiedenen Fischsorten, perfekt für ein gemütliches Mittagessen."
+          },
+          {
+            "name": "Garnelen in Knoblauchöl (Gambas al Ajillo)",
+            "tip": "Eine köstliche Vorspeise, die man am besten mit frischem Brot genießt."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Obwohl es aus Lissabon stammt, finden Sie auch hier ausgezeichnete Versionen dieser Puddingtörtchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászlé (Caldeirada)",
+            "tip": "Egy melegítő ragu különböző halfajtákkal, tökéletes egy kiadós ebédhez."
+          },
+          {
+            "name": "Fokhagymás garnélarák (Gambas al Ajillo)",
+            "tip": "Egy ízletes előétel, amelyet a legjobb friss kenyérrel fogyasztani."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Bár Lisszabonból származik, itt is kiváló verziókat talál ebből a krémes süteményből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocană de pește (Caldeirada)",
+            "tip": "O tocană încălzitoare cu diverse tipuri de pește, perfectă pentru un prânz copios."
+          },
+          {
+            "name": "Creveți în ulei de usturoi (Gambas al Ajillo)",
+            "tip": "Un aperitiv delicios, cel mai bine savurat cu pâine proaspătă."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Deși originar din Lisabona, veți găsi versiuni excelente ale acestor tarte cu cremă și aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Stew (Caldeirada)",
+            "tip": "A warming stew with various types of fish, perfect for a hearty lunch."
+          },
+          {
+            "name": "Garlic Shrimp (Gambas al Ajillo)",
+            "tip": "A delicious starter, best enjoyed with fresh bread to dip in the oil."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Although from Lisbon, you'll find excellent versions of these custard tarts here too."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardim Basílio Teles",
+            "tip": "Ein kleiner, ruhiger Park in der Nähe der Kirche, um eine Pause einzulegen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Der Wellenbrecher am Kreuzfahrtterminal",
+            "tip": "Spazieren Sie bis zum Ende für ein Gefühl der Weite und einen tollen Blick auf die Küste.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Praia do Titan (kleiner Strand)",
+            "tip": "Ein kleinerer, versteckter Strand südlich von Matosinhos für mehr Abgeschiedenheit.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardim Basílio Teles",
+            "tip": "Egy kis, csendes park a templom közelében egy kis szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A hullámtörő a sétahajó-terminálnál",
+            "tip": "Sétáljon el a végéig a tágasság érzéséért és a partra nyíló nagyszerű kilátásért.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Praia do Titan (kis strand)",
+            "tip": "Egy kisebb, rejtett strand Matosinhostól délre a nagyobb magány érdekében.",
+            "emoji": "🏖️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Basílio Teles",
+            "tip": "Un parc mic și liniștit lângă biserică pentru a lua o pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Digul de la terminalul de croazieră",
+            "tip": "Plimbați-vă până la capăt pentru o senzație de vastitate și o priveliște superbă asupra coastei.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Praia do Titan (plajă mică)",
+            "tip": "O plajă mai mică și ascunsă la sud de Matosinhos pentru mai multă izolare.",
+            "emoji": "🏖️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardim Basílio Teles",
+            "tip": "A small, quiet park near the church to take a break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The breakwater at the Cruise Terminal",
+            "tip": "Walk to the end for a sense of vastness and a great view of the coast.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Praia do Titan (small beach)",
+            "tip": "A smaller, more hidden beach south of Matosinhos for more seclusion.",
+            "emoji": "🏖️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "NorteShopping",
+            "tip": "Ein großes Einkaufszentrum in der Nähe, wenn Sie eine größere Auswahl an Geschäften suchen."
+          },
+          {
+            "name": "Lokale Keramik",
+            "tip": "Halten Sie Ausschau nach kleinen Läden, die handgefertigte portugiesische Keramik verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "NorteShopping",
+            "tip": "Egy nagy bevásárlóközpont a közelben, ha nagyobb üzletválasztékot keres."
+          },
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keresse a kis boltokat, amelyek kézzel készített portugál kerámiát árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "NorteShopping",
+            "tip": "Un centru comercial mare în apropiere, dacă doriți o selecție mai largă de magazine."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați magazine mici care vând ceramică portugheză lucrată manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "NorteShopping",
+            "tip": "A large shopping mall nearby if you're looking for a wider selection of stores."
+          },
+          {
+            "name": "Local Ceramics",
+            "tip": "Keep an eye out for small shops selling handmade Portuguese ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in der Nähe der Strände kann im Sommer schwierig sein. Seien Sie geduldig.",
+          "Achten Sie auf Mautstraßen (mit Via Verde-Schildern).",
+          "Ein Auto gibt Ihnen die Freiheit, auch die weniger bekannten Strände nördlich und südlich von Matosinhos zu erkunden.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "A parkolás a strandok közelében nyáron nehéz lehet. Legyen türelmes.",
+          "Figyeljen a fizetős utakra (Via Verde táblákkal jelölve).",
+          "Az autó szabadságot ad, hogy felfedezze a kevésbé ismert strandokat Matosinhostól északra és délre.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Parcarea lângă plaje poate fi dificilă vara. Aveți răbdare.",
+          "Fiți atenți la drumurile cu taxă (cele cu semne Via Verde).",
+          "O mașină vă oferă libertatea de a explora și plajele mai puțin cunoscute la nord și sud de Matosinhos.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Parking near the beaches can be difficult in the summer. Be patient.",
+          "Be aware of toll roads (marked with Via Verde signs).",
+          "A car gives you the freedom to explore the lesser-known beaches north and south of Matosinhos too.",
+          "Do not leave valuables visible in the car."
+        ]
+      },
+      "stops": [
+        {
+          "name": {
+            "de": "Mercado Municipal de Matosinhos",
+            "hu": "Matosinhos Városi Piac",
+            "ro": "Piața Municipală din Matosinhos",
+            "en": "Mercado Municipal de Matosinhos"
+          },
+          "coords": [
+            -8.6885,
+            41.1852
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einer nahegelegenen Tiefgarage und erkunden Sie die Gegend zu Fuß.",
+            "hu": "Parkoljon egy közeli mélygarázsban, és fedezze fel a környéket gyalog.",
+            "ro": "Parcați într-un garaj subteran din apropiere și explorați zona pe jos.",
+            "en": "Park in a nearby underground garage and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja do Bom Jesus de Matosinhos",
+            "hu": "Bom Jesus de Matosinhos templom",
+            "ro": "Biserica Bom Jesus din Matosinhos",
+            "en": "Igreja do Bom Jesus de Matosinhos"
+          },
+          "coords": [
+            -8.6861,
+            41.1865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Markt entfernt, ein schönes Beispiel barocker Kunst.",
+            "hu": "Csak egy rövid sétára a piactól, a barokk művészet gyönyörű példája.",
+            "ro": "La o scurtă plimbare de piață, un exemplu frumos de artă barocă.",
+            "en": "Just a short walk from the market, a beautiful example of Baroque art."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo do Queijo",
+            "hu": "Castelo do Queijo (Sajt-kastély)",
+            "ro": "Castelul Queijo (Castelul de Brânză)",
+            "en": "Castelo do Queijo (Cheese Castle)"
+          },
+          "coords": [
+            -8.6998,
+            41.1695
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Es gibt Parkplätze in der Nähe, aber sie können schnell voll sein. Seien Sie früh da.",
+            "hu": "Van a közelben parkoló, de gyorsan megtelhet. Érkezzen korán.",
+            "ro": "Există parcare în apropiere, dar se poate umple rapid. Ajungeți devreme.",
+            "en": "There is parking nearby, but it can fill up quickly. Be early."
+          }
+        },
+        {
+          "name": {
+            "de": "Tragödie auf See Denkmal",
+            "hu": "Tengeri Tragédia Emlékmű",
+            "ro": "Monumentul Tragedia de pe Mare",
+            "en": "Tragedy at Sea Monument"
+          },
+          "coords": [
+            -8.6982,
+            41.1715
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:26",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, besinnlicher Spaziergang vom Schloss aus.",
+            "hu": "Egy rövid, elgondolkodtató séta a kastélytól.",
+            "ro": "O scurtă plimbare sobră de la castel.",
+            "en": "A short, somber walk from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Matosinhos (Mittagessen)",
+            "hu": "Matosinhos strand (Ebéd)",
+            "ro": "Plaja Matosinhos (Prânz)",
+            "en": "Praia de Matosinhos (Lunch)"
+          },
+          "coords": [
+            -8.6955,
+            41.178
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:54",
+          "stay_min": 120,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zu den Fischrestaurants in der Rua Heróis de França.",
+            "hu": "Sétáljon el a Rua Heróis de França haléttermeihez.",
+            "ro": "Mergeți pe jos până la restaurantele cu pește de pe Rua Heróis de França.",
+            "en": "Walk to the fish restaurants on Rua Heróis de França."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina das Marés",
+            "hu": "Piscina das Marés (Árapály-medencék)",
+            "ro": "Piscina das Marés (Piscinele de Maree)",
+            "en": "Piscina das Marés (Tidal Pools)"
+          },
+          "coords": [
+            -8.7075,
+            41.2
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 4.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein architektonisches Meisterwerk. Überprüfen Sie die Öffnungszeiten, da sie saisonal sind.",
+            "hu": "Építészeti remekmű. Ellenőrizze a nyitvatartási időt, mivel szezonális.",
+            "ro": "O capodoperă arhitecturală. Verificați programul de funcționare, deoarece este sezonier.",
+            "en": "An architectural masterpiece. Check the opening hours as they are seasonal."
+          }
+        }
+      ]
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer Busfahrt ins Zentrum von Matosinhos, wo Sie den Markt und die Kirche zu Fuß erkunden. Eine weitere kurze Busfahrt bringt Sie in die Nähe des Castelo do Queijo für Ihren zweiten Entdeckungs-Cluster. Der Nachmittag wird am weitläufigen Strand von Matosinhos verbracht, der leicht mit dem Bus erreichbar ist, bevor Sie den Tag am modernen Kreuzfahrtterminal ausklingen lassen, ein Beispiel für die gute Anbindung der Stadt.",
+        "hu": "A nap buszozással kezdődik Matosinhos központjába, ahol gyalogosan fedezi fel a piacot és a templomot. Egy másik rövid buszozás elviszi a Castelo do Queijo közelébe a második felfedezőcsoporthoz. A délutánt a hatalmas Matosinhos strandon tölti, amely könnyen megközelíthető busszal, mielőtt a napot a modern sétahajó-terminálnál fejezi be, amely a város jó összeköttetéseit példázza.",
+        "ro": "Ziua începe cu o călătorie cu autobuzul în centrul orașului Matosinhos, explorând pe jos piața și biserica. O altă călătorie scurtă cu autobuzul vă duce lângă Castelo do Queijo pentru al doilea grup de explorare. După-amiaza este petrecută la plaja vastă Matosinhos, ușor accesibilă cu autobuzul, înainte de a încheia ziua la terminalul modern de croazieră, un exemplu al conectivității orașului.",
+        "en": "The day starts with a bus ride to central Matosinhos, exploring the market and church on foot. Another short bus trip takes you near Castelo do Queijo for your second cluster of exploration. The afternoon is spent at the vast Matosinhos beach, easily reached by bus, before ending the day at the modern cruise terminal, an example of the city's connectivity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Francesinha",
+            "tip": "Obwohl es aus Porto stammt, finden Sie auch in Matosinhos gute Versionen dieses monströsen, aber köstlichen Sandwiches."
+          },
+          {
+            "name": "Gegrillter Oktopus (Polvo à Lagareiro)",
+            "tip": "Zarter Oktopus, gegrillt und mit Olivenöl und Knoblauch beträufelt."
+          },
+          {
+            "name": "Meeresschnecken (Caracóis)",
+            "tip": "Ein beliebter saisonaler Snack, der oft mit einem kalten Bier genossen wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Francesinha",
+            "tip": "Bár Portóból származik, Matosinhosban is talál jó verziókat ebből a szörnyű, de finom szendvicsből."
+          },
+          {
+            "name": "Grillezett polip (Polvo à Lagareiro)",
+            "tip": "Puha polip, grillezve, olívaolajjal és fokhagymával meglocsolva."
+          },
+          {
+            "name": "Tengeri csigák (Caracóis)",
+            "tip": "Egy népszerű szezonális snack, amelyet gyakran hideg sörrel fogyasztanak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Francesinha",
+            "tip": "Deși este din Porto, veți găsi versiuni bune ale acestui sandviș monstruos, dar delicios, și în Matosinhos."
+          },
+          {
+            "name": "Caracatiță la grătar (Polvo à Lagareiro)",
+            "tip": "Caracatiță fragedă, la grătar și stropită cu ulei de măsline și usturoi."
+          },
+          {
+            "name": "Melci de mare (Caracóis)",
+            "tip": "O gustare populară de sezon, adesea savurată cu o bere rece."
+          }
+        ],
+        "en": [
+          {
+            "name": "Francesinha",
+            "tip": "Though from Porto, you can find good versions of this monstrous but delicious sandwich in Matosinhos too."
+          },
+          {
+            "name": "Grilled Octopus (Polvo à Lagareiro)",
+            "tip": "Tender octopus, grilled and drizzled with olive oil and garlic."
+          },
+          {
+            "name": "Sea Snails (Caracóis)",
+            "tip": "A popular seasonal snack, often enjoyed with a cold beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque da Cidade (Porto)",
+            "tip": "Leicht mit dem Bus von Matosinhos aus zu erreichen, ist dies der größte Stadtpark Portugals.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Spaziergang am Fluss Leça",
+            "tip": "Folgen Sie dem Fluss landeinwärts für eine ruhigere, grünere Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang von der Promenade aus",
+            "tip": "Finden Sie eine Bank und genießen Sie die Show der Natur.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque da Cidade (Porto)",
+            "tip": "Könnyen megközelíthető busszal Matosinhosból, ez Portugália legnagyobb városi parkja.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Séta a Leça folyó mentén",
+            "tip": "Kövesse a folyót a szárazföld belseje felé egy csendesebb, zöldebb tájért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a sétányról",
+            "tip": "Keressen egy padot és élvezze a természet előadását.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque da Cidade (Porto)",
+            "tip": "Ușor accesibil cu autobuzul din Matosinhos, acesta este cel mai mare parc urban din Portugalia.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Plimbare pe malul râului Leça",
+            "tip": "Urmați râul în amonte pentru un peisaj mai liniștit și mai verde.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare de pe promenadă",
+            "tip": "Găsiți o bancă și bucurați-vă de spectacolul naturii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque da Cidade (Porto)",
+            "tip": "Easily accessible by bus from Matosinhos, this is the largest urban park in Portugal.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Walk by the Leça River",
+            "tip": "Follow the river inland for a quieter, greener scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset from the promenade",
+            "tip": "Find a bench and enjoy nature's show.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "MAR Shopping",
+            "tip": "Ein weiteres großes Einkaufszentrum, das mit dem Bus erreichbar ist und eine IKEA-Filiale hat."
+          },
+          {
+            "name": "Lokale Bäckereien (Pastelarias)",
+            "tip": "Kaufen Sie eine Schachtel mit verschiedenen portugiesischen Gebäcken, um sie mit nach Hause zu nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "MAR Shopping",
+            "tip": "Egy másik nagy bevásárlóközpont, amely busszal elérhető és IKEA áruházzal rendelkezik."
+          },
+          {
+            "name": "Helyi pékségek (Pastelarias)",
+            "tip": "Vásároljon egy doboz különböző portugál süteményt hazavitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "MAR Shopping",
+            "tip": "Un alt centru comercial mare, accesibil cu autobuzul, care include un magazin IKEA."
+          },
+          {
+            "name": "Brutării locale (Pastelarias)",
+            "tip": "Cumpărați o cutie cu diverse produse de patiserie portugheze pentru a le lua acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "MAR Shopping",
+            "tip": "Another large mall accessible by bus, which includes an IKEA store."
+          },
+          {
+            "name": "Local Bakeries (Pastelarias)",
+            "tip": "Buy a box of assorted Portuguese pastries to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Andante Touristic' Karte für unbegrenzte Fahrten für einen oder drei Tage.",
+          "Validieren Sie Ihr Ticket jedes Mal, wenn Sie in einen Bus ein- oder umsteigen.",
+          "Die Buslinien 500 und 502 sind besonders nützlich für die Fortbewegung entlang der Küste.",
+          "Google Maps bietet zuverlässige Informationen zu öffentlichen Verkehrsmitteln in Echtzeit."
+        ],
+        "hu": [
+          "Vásároljon 'Andante Touristic' kártyát korlátlan utazáshoz egy vagy három napig.",
+          "Érvényesítse a jegyét minden alkalommal, amikor felszáll vagy átszáll egy buszra.",
+          "Az 500-as és 502-es buszjáratok különösen hasznosak a part menti közlekedéshez.",
+          "A Google Maps megbízható valós idejű tömegközlekedési információkat nyújt."
+        ],
+        "ro": [
+          "Cumpărați un card 'Andante Touristic' pentru călătorii nelimitate timp de una sau trei zile.",
+          "Validați-vă biletul de fiecare dată când urcați sau schimbați un autobuz.",
+          "Liniile de autobuz 500 și 502 sunt deosebit de utile pentru a vă deplasa de-a lungul coastei.",
+          "Google Maps oferă informații fiabile în timp real despre transportul public."
+        ],
+        "en": [
+          "Buy an 'Andante Touristic' card for unlimited travel for one or three days.",
+          "Validate your ticket every time you board or change a bus.",
+          "Bus lines 500 and 502 are particularly useful for getting around the coast.",
+          "Google Maps provides reliable real-time public transport information."
+        ]
+      },
+      "stops": [
+        {
+          "name": {
+            "de": "Mercado Municipal de Matosinhos",
+            "hu": "Matosinhos Városi Piac",
+            "ro": "Piața Municipală din Matosinhos",
+            "en": "Mercado Municipal de Matosinhos"
+          },
+          "coords": [
+            -8.6885,
+            41.1852
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zur Haltestelle 'Mercado'.",
+            "hu": "Vegye a buszt a 'Mercado' megállóig.",
+            "ro": "Luați autobuzul până la stația 'Mercado'.",
+            "en": "Take the bus to the 'Mercado' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja do Bom Jesus de Matosinhos",
+            "hu": "Bom Jesus de Matosinhos templom",
+            "ro": "Biserica Bom Jesus din Matosinhos",
+            "en": "Igreja do Bom Jesus de Matosinhos"
+          },
+          "coords": [
+            -8.6861,
+            41.1865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Markt aus ein kurzer Spaziergang bergauf.",
+            "hu": "A piactól egy rövid séta felfelé.",
+            "ro": "O scurtă plimbare la deal de la piață.",
+            "en": "A short uphill walk from the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo do Queijo",
+            "hu": "Castelo do Queijo (Sajt-kastély)",
+            "ro": "Castelul Queijo (Castelul de Brânză)",
+            "en": "Castelo do Queijo (Cheese Castle)"
+          },
+          "coords": [
+            -8.6998,
+            41.1695
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bus 500/502 bringt Sie direkt dorthin.",
+            "hu": "Az 500/502-es busz közvetlenül odavisz.",
+            "ro": "Autobuzul 500/502 vă duce direct acolo.",
+            "en": "Bus 500/502 will get you right there."
+          }
+        },
+        {
+          "name": {
+            "de": "Tragödie auf See Denkmal",
+            "hu": "Tengeri Tragédia Emlékmű",
+            "ro": "Monumentul Tragedia de pe Mare",
+            "en": "Tragedy at Sea Monument"
+          },
+          "coords": [
+            -8.6982,
+            41.1715
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss, wenn man in der Gegend ist.",
+            "hu": "Kötelező látnivaló a környéken.",
+            "ro": "O vizită obligatorie când sunteți în zonă.",
+            "en": "A must-see when in the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Matosinhos",
+            "hu": "Matosinhos strand",
+            "ro": "Plaja Matosinhos",
+            "en": "Praia de Matosinhos"
+          },
+          "coords": [
+            -8.6955,
+            41.178
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus für ein paar Haltestellen nach Norden oder genießen Sie einen 20-minütigen Spaziergang.",
+            "hu": "Menjen busszal néhány megállót észak felé, vagy élvezze a 20 perces sétát.",
+            "ro": "Luați un autobuz câteva stații spre nord sau bucurați-vă de o plimbare de 20 de minute.",
+            "en": "Take a bus a few stops north or enjoy a 20-minute walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kreuzfahrtterminal von Leixões",
+            "hu": "Leixões-i Kirándulóhajó Terminál",
+            "ro": "Terminalul de Croazieră Leixões",
+            "en": "Leixões Cruise Terminal"
+          },
+          "coords": [
+            -8.71,
+            41.195
+          ],
+          "category": "port",
+          "arrive_at": "16:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Überprüfen Sie, ob der öffentliche Zugang zum Wellenbrecher geöffnet ist.",
+            "hu": "Ellenőrizze, hogy a hullámtörő nyilvános hozzáférése nyitva van-e.",
+            "ro": "Verificați dacă accesul public la dig este deschis.",
+            "en": "Check if public access to the breakwater is open."
+          }
+        }
+      ]
+    }
+  }
+}

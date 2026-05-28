@@ -1,0 +1,1455 @@
+{
+  "city_id": "netherlands-hoogeveen-cities-v2",
+  "anchor": {
+    "name": "Hoogeveen",
+    "coords": [
+      6.474,
+      52.723
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grote Kerk",
+            "hu": "Nagy Templom (Grote Kerk)",
+            "ro": "Grote Kerk",
+            "en": "Grote Kerk"
+          },
+          "coords": [
+            6.4755,
+            52.724
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckende Orgel und die schlichte, protestantische Innenausstattung.",
+            "hu": "Figyelje meg a lenyűgöző orgonát és az egyszerű, protestáns belső teret.",
+            "ro": "Observați orga impresionantă și interiorul protestant simplu.",
+            "en": "Note the impressive organ and the simple, Protestant interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascade",
+            "hu": "Cascade vízesés szobor",
+            "ro": "Cascada",
+            "en": "Cascade"
+          },
+          "coords": [
+            6.477,
+            52.7255
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dies ist das längste Kunstwerk der Niederlande. Warten Sie auf den Wasserkreislauf.",
+            "hu": "Ez Hollandia leghosszabb műalkotása. Várja meg, amíg a víz körbeér.",
+            "ro": "Aceasta este cea mai lungă operă de artă din Olanda. Așteptați ciclul apei.",
+            "en": "This is the longest work of art in the Netherlands. Wait for the water cycle to complete."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum De 5000 Roeden",
+            "hu": "De 5000 Roeden Múzeum",
+            "ro": "Muzeul De 5000 Roeden",
+            "en": "Museum De 5000 Roeden"
+          },
+          "coords": [
+            6.481,
+            52.7265
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fokus auf die Torfgewinnungsgeschichte der Region. Interaktive Displays für Kinder.",
+            "hu": "A kiállítás a régió tőzegkitermelési történelmére összpontosít. Interaktív elemek gyerekeknek.",
+            "ro": "Concentrați-vă pe istoria extracției turbei din regiune. Expoziții interactive pentru copii.",
+            "en": "Focus on the region's peat extraction history. Interactive displays for kids."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebédszünet a központban",
+            "ro": "Pauză de prânz în centru",
+            "en": "Lunch Break in the Center"
+          },
+          "coords": [
+            6.478,
+            52.7245
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie ein 'Uitsmijter'-Sandwich in einem der Cafés am Kerkplein.",
+            "hu": "Kóstoljon meg egy 'Uitsmijter' szendvicset a Kerkplein egyik kávézójában.",
+            "ro": "Încercați un sandviș 'Uitsmijter' la una dintre cafenelele din Kerkplein.",
+            "en": "Try an 'Uitsmijter' sandwich at one of the cafés on Kerkplein."
+          }
+        },
+        {
+          "name": {
+            "de": "Korenmolen de Zwaluw",
+            "hu": "De Zwaluw szélmalom",
+            "ro": "Moara de vânt De Zwaluw",
+            "en": "Korenmolen de Zwaluw"
+          },
+          "coords": [
+            6.488,
+            52.721
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wenn sich die Flügel drehen, ist die Mühle in Betrieb. Kaufen Sie frisch gemahlenes Mehl im Laden.",
+            "hu": "Ha forognak a lapátok, a malom működik. Vásároljon frissen őrölt lisztet a boltban.",
+            "ro": "Dacă paletele se rotesc, moara este în funcțiune. Cumpărați făină proaspăt măcinată de la magazin.",
+            "en": "If the blades are turning, the mill is operational. Buy freshly ground flour in the shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Zuiderpark",
+            "hu": "Zuiderpark",
+            "ro": "Parcul Zuider",
+            "en": "Zuiderpark"
+          },
+          "coords": [
+            6.465,
+            52.718
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am See oder spazieren Sie durch die Themengärten.",
+            "hu": "Pihenjen a tó partján, vagy sétáljon egyet a tematikus kertekben.",
+            "ro": "Relaxați-vă lângă lac sau plimbați-vă prin grădinile tematice.",
+            "en": "Relax by the lake or take a stroll through the themed gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Hoogeveen beginnt im historischen Herzen mit der Grote Kerk, gefolgt vom modernen Wasser-Kunstwerk Cascade. Der Vormittag steht im Zeichen der Geschichte im Museum De 5000 Roeden, wo Sie alles über die Torfvergangenheit der Region erfahren. Nach einem stärkenden Mittagessen im Zentrum führt Sie Ihr Weg zu einem Symbol der niederländischen Landschaft, der Windmühle De Zwaluw. Der Nachmittag klingt entspannt im grünen Zuiderpark aus, perfekt für einen Spaziergang. Am Abend können Sie die lokale Gastfreundschaft in einem der vielen Restaurants genießen.",
+        "hu": "A nap Hoogeveen történelmi szívében indul a Grote Kerk templomnál, majd a modern Cascade vízesés-szobornál folytatódik. A délelőtt a történelemé a De 5000 Roeden Múzeumban, ahol mindent megtudhat a régió tőzegkitermelő múltjáról. Egy belvárosi ebéd után az út a holland táj egyik jelképéhez, a De Zwaluw szélmalomhoz vezet. A délután pihentetően zárul a zöldellő Zuiderparkban, ami tökéletes egy sétára. Este élvezze a helyi vendégszeretetet az egyik étteremben.",
+        "ro": "Ziua dvs. în Hoogeveen începe în inima istorică la Grote Kerk, urmată de opera de artă acvatică modernă, Cascade. Dimineața este dedicată istoriei la Muzeul De 5000 Roeden, unde veți învăța totul despre trecutul regiunii legat de turbă. După un prânz revigorant în centru, drumul vă duce la un simbol al peisajului olandez, moara de vânt De Zwaluw. După-amiaza se încheie relaxant în parcul verde Zuiderpark, perfect pentru o plimbare. Seara, bucurați-vă de ospitalitatea locală la unul dintre restaurante.",
+        "en": "Your day in Hoogeveen begins in the historic heart at the Grote Kerk, followed by the modern Cascade water feature. The morning is dedicated to history at the De 5000 Roeden Museum, where you'll learn about the region's peat-digging past. After a hearty lunch in the center, your path leads to a symbol of the Dutch landscape, the De Zwaluw windmill. The afternoon concludes with a relaxing stroll in the green Zuiderpark. In the evening, savor the local hospitality at one of the many restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Drentse Kosterworst",
+            "tip": "Eine lokale, getrocknete Wurst, perfekt als Snack."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kleine, flauschige Pfannkuchen, oft auf Märkten zu finden."
+          },
+          {
+            "name": "Restaurant 't Olde Schippershuus",
+            "tip": "Traditionelle niederländische Küche in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Drenthe-i Kosterworst",
+            "tip": "Helyi szárított kolbász, tökéletes harapnivaló."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Apró, pufók palacsinták, gyakran a piacokon kaphatók."
+          },
+          {
+            "name": "'t Olde Schippershuus étterem",
+            "tip": "Hagyományos holland konyha, hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kosterworst de Drenthe",
+            "tip": "Un cârnat local uscat, perfect pentru o gustare."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Clătite mici și pufoase, adesea găsite în piețe."
+          },
+          {
+            "name": "Restaurant 't Olde Schippershuus",
+            "tip": "Bucătărie tradițională olandeză într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Drenthe Kosterworst",
+            "tip": "A local dried sausage, perfect for a snack."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Small, fluffy pancakes, often found at markets."
+          },
+          {
+            "name": "Restaurant 't Olde Schippershuus",
+            "tip": "Traditional Dutch cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaarbankbos",
+            "tip": "Ein ruhiger Wald für einen friedlichen Spaziergang.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Sees im Zuiderpark",
+            "tip": "Finden Sie eine Bank und beobachten Sie das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vincent van Gogh Huis Garten",
+            "tip": "Ein Moment der Stille an einem Ort, der den Künstler inspirierte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spaarbankbos",
+            "tip": "Csendes erdő egy békés sétához.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Zuiderpark tavának partja",
+            "tip": "Keressen egy padot és nézze a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vincent van Gogh Ház kertje",
+            "tip": "Egy csendes pillanat egy helyen, amely a művészt is inspirálta.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Spaarbankbos",
+            "tip": "O pădure liniștită pentru o plimbare pașnică.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul lacului din Zuiderpark",
+            "tip": "Găsiți o bancă și priviți apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Casei Vincent van Gogh",
+            "tip": "Un moment de liniște într-un loc care l-a inspirat pe artist.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spaarbankbos",
+            "tip": "A quiet forest for a peaceful walk.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Lakeside in Zuiderpark",
+            "tip": "Find a bench and watch the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vincent van Gogh House Garden",
+            "tip": "A moment of quiet in a place that inspired the artist.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt (Donnerstag)",
+            "tip": "Kaufen Sie lokalen Käse, Blumen und andere Produkte."
+          },
+          {
+            "name": "Molenwinkel de Zwaluw",
+            "tip": "Kaufen Sie handwerklich hergestelltes Mehl und Backmischungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac (csütörtök)",
+            "tip": "Vásároljon helyi sajtot, virágokat és más termékeket."
+          },
+          {
+            "name": "De Zwaluw malombolt",
+            "tip": "Vásároljon kézműves lisztet és sütőkeverékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală (joi)",
+            "tip": "Cumpărați brânză locală, flori și alte produse."
+          },
+          {
+            "name": "Magazinul morii De Zwaluw",
+            "tip": "Cumpărați făină artizanală și amestecuri pentru copt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market (Thursday)",
+            "tip": "Shop for local cheese, flowers, and other produce."
+          },
+          {
+            "name": "De Zwaluw Mill Shop",
+            "tip": "Buy artisanal flour and baking mixes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Geschäfte schließen um 18:00 Uhr, planen Sie also entsprechend.",
+          "Ein Regenschirm ist in den Niederlanden immer eine gute Idee, auch an sonnigen Tagen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "A legtöbb üzlet 18:00-kor bezár, tervezzen ennek megfelelően.",
+          "Egy esernyő mindig jó ötlet Hollandiában, még napos időben is."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Majoritatea magazinelor se închid la ora 18:00, așa că planificați-vă în consecință.",
+          "O umbrelă este întotdeauna o idee bună în Olanda, chiar și în zilele însorite."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Most shops close around 6 PM, so plan accordingly.",
+          "An umbrella is always a good idea in the Netherlands, even on sunny days."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start",
+            "hu": "Kerékpárkölcsönzés és indulás",
+            "ro": "Închiriere biciclete & Start",
+            "en": "Bike Rental & Start"
+          },
+          "coords": [
+            6.473,
+            52.723
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe des Bahnhofs für maximale Flexibilität.",
+            "hu": "Béreljen kerékpárt az állomás közelében a maximális rugalmasság érdekében.",
+            "ro": "Închiriați o bicicletă lângă gară pentru flexibilitate maximă.",
+            "en": "Rent a bike near the train station for maximum flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Kerk & Cascade",
+            "hu": "Grote Kerk és Cascade",
+            "ro": "Grote Kerk & Cascade",
+            "en": "Grote Kerk & Cascade"
+          },
+          "coords": [
+            6.476,
+            52.7245
+          ],
+          "category": "landmark",
+          "arrive_at": "09:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie den zentralen Platz zu Fuß.",
+            "hu": "Zárja le a biciklit és fedezze fel a főteret gyalog.",
+            "ro": "Legați-vă bicicleta și explorați piața centrală pe jos.",
+            "en": "Lock up your bike and explore the central square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Korenmolen de Zwaluw",
+            "hu": "De Zwaluw szélmalom",
+            "ro": "Moara de vânt De Zwaluw",
+            "en": "Korenmolen de Zwaluw"
+          },
+          "coords": [
+            6.488,
+            52.721
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt entlang der Kanäle führt Sie direkt zur Mühle.",
+            "hu": "Kellemes tekerés a csatornák mentén egyenesen a malomhoz.",
+            "ro": "O plimbare plăcută cu bicicleta de-a lungul canalelor vă va duce direct la moară.",
+            "en": "A pleasant ride along the canals will lead you directly to the mill."
+          }
+        },
+        {
+          "name": {
+            "de": "Vincent van Gogh Huis",
+            "hu": "Vincent van Gogh Ház",
+            "ro": "Casa Vincent van Gogh",
+            "en": "Vincent van Gogh Huis"
+          },
+          "coords": [
+            6.48,
+            52.73
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie, wo Van Gogh eine kurze, aber prägende Zeit verbrachte.",
+            "hu": "Fedezze fel, hol töltött Van Gogh egy rövid, de meghatározó időszakot.",
+            "ro": "Descoperiți unde a petrecut Van Gogh o perioadă scurtă, dar formatoare.",
+            "en": "Discover where Van Gogh spent a brief but formative period."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause & De Tamboer",
+            "hu": "Ebédszünet és De Tamboer",
+            "ro": "Pauză de prânz & De Tamboer",
+            "en": "Lunch & De Tamboer"
+          },
+          "coords": [
+            6.483,
+            52.725
+          ],
+          "category": "gastro",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stärken Sie sich und werfen Sie einen Blick auf das Programm des Theaters.",
+            "hu": "Frissüljön fel, és vessen egy pillantást a színház műsorára.",
+            "ro": "Luați o pauză și aruncați o privire la programul teatrului.",
+            "en": "Refuel and take a look at the theater's program."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaarbankbos",
+            "hu": "Spaarbankbos",
+            "ro": "Pădurea Spaarbankbos",
+            "en": "Spaarbankbos"
+          },
+          "coords": [
+            6.505,
+            52.715
+          ],
+          "category": "natural features",
+          "arrive_at": "14:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Eine großartige Radtour vom Zentrum aus. Perfekt, um die Natur zu genießen.",
+            "hu": "Nagyszerű biciklitúra a központból. Tökéletes a természet élvezetéhez.",
+            "ro": "O excursie minunată cu bicicleta din centru. Perfect pentru a vă bucura de natură.",
+            "en": "A great bike ride from the center. Perfect for enjoying nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Zuiderpark",
+            "hu": "Zuiderpark",
+            "ro": "Parcul Zuider",
+            "en": "Zuiderpark"
+          },
+          "coords": [
+            6.465,
+            52.718
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:11",
+          "stay_min": 65,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die letzte Etappe Ihrer Radtour, ideal für eine entspannte Pause vor der Rückgabe des Fahrrads.",
+            "hu": "A kerékpártúra utolsó szakasza, ideális egy pihentető szünetre a bicikli visszaadása előtt.",
+            "ro": "Ultima oprire a turului cu bicicleta, ideală pentru o pauză relaxantă înainte de a returna bicicleta.",
+            "en": "The final leg of your bike tour, ideal for a relaxing break before returning the bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel für eine typisch niederländische Erkundung von Hoogeveen. Nach der Fahrradanmietung führt die erste Etappe ins Zentrum zur Grote Kerk und zum Cascade. Von dort aus radeln Sie zur historischen Windmühle De Zwaluw. Der Vormittag setzt sich mit einer kulturellen Note fort, einem Besuch im Vincent van Gogh Huis. Nach einer Mittagspause in der Nähe des Theaters De Tamboer geht es am Nachmittag ins Grüne: zuerst eine längere Tour zum Spaarbankbos, dann eine entspannte Fahrt zum Zuiderpark, bevor der Tag endet.",
+        "hu": "Pattanjon nyeregbe Hoogeveen tipikusan holland felfedezéséhez. A kerékpárbérlés után az első szakasz a központba vezet a Grote Kerkhez és a Cascade-hoz. Onnan a történelmi De Zwaluw szélmalomhoz teker. A délelőtt kulturális programmal folytatódik, a Vincent van Gogh Ház meglátogatásával. A De Tamboer színház közelében tartott ebédszünet után a délután a zöldben telik: először egy hosszabb túra a Spaarbankbos erdőbe, majd egy pihentető tekerés a Zuiderparkba a nap lezárásaként.",
+        "ro": "Urcați-vă pe bicicletă pentru o explorare tipic olandeză a orașului Hoogeveen. După închirierea bicicletei, prima etapă vă duce în centru la Grote Kerk și Cascade. De acolo, pedalați spre moara de vânt istorică De Zwaluw. Dimineața continuă cu o notă culturală, o vizită la Casa Vincent van Gogh. După o pauză de prânz lângă teatrul De Tamboer, după-amiaza este dedicată naturii: mai întâi un tur mai lung la pădurea Spaarbankbos, apoi o plimbare relaxantă la Zuiderpark înainte de sfârșitul zilei.",
+        "en": "Hop on a bike for a typically Dutch exploration of Hoogeveen. After renting your ride, the first leg takes you to the center's Grote Kerk and Cascade. From there, you'll cycle to the historic De Zwaluw windmill. The morning continues with a cultural touch, a visit to the Vincent van Gogh Huis. After a lunch break near the De Tamboer theatre, the afternoon is all about greenery: first, a longer ride to the Spaarbankbos forest, then a relaxing trip to Zuiderpark before calling it a day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Drentse Kosterworst",
+            "tip": "Eine lokale, getrocknete Wurst, perfekt als Snack."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kleine, flauschige Pfannkuchen, oft auf Märkten zu finden."
+          },
+          {
+            "name": "Restaurant 't Olde Schippershuus",
+            "tip": "Traditionelle niederländische Küche in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Drenthe-i Kosterworst",
+            "tip": "Helyi szárított kolbász, tökéletes harapnivaló."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Apró, pufók palacsinták, gyakran a piacokon kaphatók."
+          },
+          {
+            "name": "'t Olde Schippershuus étterem",
+            "tip": "Hagyományos holland konyha, hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kosterworst de Drenthe",
+            "tip": "Un cârnat local uscat, perfect pentru o gustare."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Clătite mici și pufoase, adesea găsite în piețe."
+          },
+          {
+            "name": "Restaurant 't Olde Schippershuus",
+            "tip": "Bucătărie tradițională olandeză într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Drenthe Kosterworst",
+            "tip": "A local dried sausage, perfect for a snack."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Small, fluffy pancakes, often found at markets."
+          },
+          {
+            "name": "Restaurant 't Olde Schippershuus",
+            "tip": "Traditional Dutch cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaarbankbos",
+            "tip": "Ein ruhiger Wald für einen friedlichen Spaziergang.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Sees im Zuiderpark",
+            "tip": "Finden Sie eine Bank und beobachten Sie das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vincent van Gogh Huis Garten",
+            "tip": "Ein Moment der Stille an einem Ort, der den Künstler inspirierte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spaarbankbos",
+            "tip": "Csendes erdő egy békés sétához.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Zuiderpark tavának partja",
+            "tip": "Keressen egy padot és nézze a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vincent van Gogh Ház kertje",
+            "tip": "Egy csendes pillanat egy helyen, amely a művészt is inspirálta.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Spaarbankbos",
+            "tip": "O pădure liniștită pentru o plimbare pașnică.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul lacului din Zuiderpark",
+            "tip": "Găsiți o bancă și priviți apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Casei Vincent van Gogh",
+            "tip": "Un moment de liniște într-un loc care l-a inspirat pe artist.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spaarbankbos",
+            "tip": "A quiet forest for a peaceful walk.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Lakeside in Zuiderpark",
+            "tip": "Find a bench and watch the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vincent van Gogh House Garden",
+            "tip": "A moment of quiet in a place that inspired the artist.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt (Donnerstag)",
+            "tip": "Kaufen Sie lokalen Käse, Blumen und andere Produkte."
+          },
+          {
+            "name": "Molenwinkel de Zwaluw",
+            "tip": "Kaufen Sie handwerklich hergestelltes Mehl und Backmischungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac (csütörtök)",
+            "tip": "Vásároljon helyi sajtot, virágokat és más termékeket."
+          },
+          {
+            "name": "De Zwaluw malombolt",
+            "tip": "Vásároljon kézműves lisztet és sütőkeverékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală (joi)",
+            "tip": "Cumpărați brânză locală, flori și alte produse."
+          },
+          {
+            "name": "Magazinul morii De Zwaluw",
+            "tip": "Cumpărați făină artizanală și amestecuri pentru copt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market (Thursday)",
+            "tip": "Shop for local cheese, flowers, and other produce."
+          },
+          {
+            "name": "De Zwaluw Mill Shop",
+            "tip": "Buy artisanal flour and baking mixes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Wettervorhersage und kleiden Sie sich in Schichten.",
+          "Nutzen Sie die gut ausgebauten Radwege, aber achten Sie auf Fußgänger.",
+          "Schließen Sie Ihr Fahrrad immer an, auch bei kurzen Stopps."
+        ],
+        "hu": [
+          "Ellenőrizze az időjárás-előrejelzést és öltözzön rétegesen.",
+          "Használja a jól kiépített kerékpárutakat, de figyeljen a gyalogosokra.",
+          "Mindig zárja le a kerékpárt, még rövid megállók esetén is."
+        ],
+        "ro": [
+          "Verificați prognoza meteo și îmbrăcați-vă în straturi.",
+          "Folosiți pistele de biciclete bine dezvoltate, dar fiți atenți la pietoni.",
+          "Legați-vă întotdeauna bicicleta, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Check the weather forecast and dress in layers.",
+          "Use the well-developed cycle paths, but be mindful of pedestrians.",
+          "Always lock your bike, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Spaarbankbos",
+            "hu": "1. klaszter: Spaarbankbos",
+            "ro": "Cluster 1: Pădurea Spaarbankbos",
+            "en": "Cluster 1: Spaarbankbos"
+          },
+          "coords": [
+            6.505,
+            52.715
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem erfrischenden Spaziergang. Parkplätze sind am Eingang vorhanden.",
+            "hu": "Kezdje a napot egy frissítő sétával. Parkolás a bejáratnál lehetséges.",
+            "ro": "Începeți ziua cu o plimbare revigorantă. Parcarea este disponibilă la intrare.",
+            "en": "Start the day with a refreshing walk. Parking is available at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Mühlen- und Kunstviertel",
+            "hu": "2. klaszter: Malom és művészeti negyed",
+            "ro": "Cluster 2: Cartierul morii și al artei",
+            "en": "Cluster 2: Mill & Art Quarter"
+          },
+          "coords": [
+            6.488,
+            52.721
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Mühle und erkunden Sie die Umgebung zu Fuß.",
+            "hu": "Parkoljon a malom közelében, és fedezze fel a környéket gyalog.",
+            "ro": "Parcați lângă moară și explorați zona pe jos.",
+            "en": "Park near the mill and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Vincent van Gogh Huis",
+            "hu": "Vincent van Gogh Ház",
+            "ro": "Casa Vincent van Gogh",
+            "en": "Vincent van Gogh Huis"
+          },
+          "coords": [
+            6.48,
+            52.73
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Mühle entfernt. Ein Muss für Kunstliebhaber.",
+            "hu": "Rövid séta a malomtól. Kötelező program a művészetkedvelőknek.",
+            "ro": "La o scurtă plimbare de moară. O vizită obligatorie pentru iubitorii de artă.",
+            "en": "A short walk from the mill. A must-see for art lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Stadtzentrum",
+            "hu": "3. klaszter: Városközpont",
+            "ro": "Cluster 3: Centrul orașului",
+            "en": "Cluster 3: City Center"
+          },
+          "coords": [
+            6.478,
+            52.724
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und genießen Sie ein Mittagessen. Viele Optionen zur Auswahl.",
+            "hu": "Parkoljon a központban és ebédeljen. Sok lehetőség közül választhat.",
+            "ro": "Parcați în centru și bucurați-vă de prânz. Multe opțiuni de ales.",
+            "en": "Park in the center and enjoy lunch. Plenty of options to choose from."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Kerk & Cascade",
+            "hu": "Grote Kerk és Cascade",
+            "ro": "Grote Kerk & Cascade",
+            "en": "Grote Kerk & Cascade"
+          },
+          "coords": [
+            6.476,
+            52.7245
+          ],
+          "category": "landmark",
+          "arrive_at": "14:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herz der Stadt, nur wenige Schritte von den meisten Restaurants entfernt.",
+            "hu": "A város szíve, csak pár lépésre a legtöbb étteremtől.",
+            "ro": "Inima orașului, la doar câțiva pași de majoritatea restaurantelor.",
+            "en": "The heart of the city, just a few steps from most restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum De 5000 Roeden",
+            "hu": "De 5000 Roeden Múzeum",
+            "ro": "Muzeul De 5000 Roeden",
+            "en": "Museum De 5000 Roeden"
+          },
+          "coords": [
+            6.481,
+            52.7265
+          ],
+          "category": "museums",
+          "arrive_at": "15:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss für Ihren kulturellen Spaziergang durch das Zentrum.",
+            "hu": "Tökéletes befejezése a kulturális sétának a központban.",
+            "ro": "Finalul perfect pentru plimbarea culturală prin centru.",
+            "en": "The perfect end to your cultural walk through the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschließender Halt: Zuiderpark",
+            "hu": "Befejező megálló: Zuiderpark",
+            "ro": "Oprire finală: Parcul Zuider",
+            "en": "Final Stop: Zuiderpark"
+          },
+          "coords": [
+            6.465,
+            52.718
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Vezessen el a parkba, hogy pihentetően zárja a napot.",
+            "ro": "Conduceți până la parc pentru a încheia ziua într-un mod relaxant.",
+            "en": "Drive to the park to end the day on a relaxing note."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Hoogeveen und seine Umgebung in Clustern. Beginnen Sie den Morgen im Grünen im Spaarbankbos. Danach fahren Sie zum Mühlen- und Kunstviertel, parken dort und erkunden zu Fuß die Korenmolen de Zwaluw und das nahegelegene Vincent van Gogh Huis. Zur Mittagszeit steuern Sie das Stadtzentrum an, wo Sie nach dem Essen die Grote Kerk, die Cascade und das Museum De 5000 Roeden zu Fuß entdecken. Die letzte Fahrt des Tages führt Sie zum Zuiderpark, ein perfekter Ort, um die gesammelten Eindrücke Revue passieren zu lassen.",
+        "hu": "Autóval Hoogeveent és környékét klaszterekben fedezheti fel. Kezdje a reggelt a zöldben, a Spaarbankbos erdőben. Ezután hajtson a malom- és művészeti negyedbe, parkoljon le, és gyalog fedezze fel a Korenmolen de Zwaluw malmot és a közeli Vincent van Gogh Házat. Ebédidőben irány a városközpont, ahol evés után gyalogosan fedezheti fel a Grote Kerk-et, a Cascade-ot és a De 5000 Roeden Múzeumot. A nap utolsó autózása a Zuiderparkba vezet, amely tökéletes hely a nap benyomásainak áttekintésére.",
+        "ro": "Cu mașina, explorați Hoogeveen și împrejurimile sale în clustere. Începeți dimineața în natură la pădurea Spaarbankbos. Apoi, conduceți spre cartierul morii și al artei, parcați și explorați pe jos moara Korenmolen de Zwaluw și Casa Vincent van Gogh din apropiere. La prânz, mergeți în centrul orașului, unde după masă puteți descoperi pe jos Grote Kerk, Cascade și Muzeul De 5000 Roeden. Ultima călătorie a zilei cu mașina vă duce la Zuiderpark, un loc perfect pentru a reflecta asupra impresiilor zilei.",
+        "en": "By car, you'll explore Hoogeveen and its surroundings in clusters. Start your morning in the green expanse of Spaarbankbos. Next, drive to the Mill and Art Quarter, park, and explore the Korenmolen de Zwaluw and the nearby Vincent van Gogh Huis on foot. For lunch, head to the city center, where you can discover the Grote Kerk, Cascade, and De 5000 Roeden Museum on foot after your meal. The day's final drive takes you to Zuiderpark, a perfect spot to reflect on your experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Drentse Kosterworst",
+            "tip": "Eine lokale, getrocknete Wurst, perfekt als Snack."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kleine, flauschige Pfannkuchen, oft auf Märkten zu finden."
+          },
+          {
+            "name": "Restaurant 't Olde Schippershuus",
+            "tip": "Traditionelle niederländische Küche in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Drenthe-i Kosterworst",
+            "tip": "Helyi szárított kolbász, tökéletes harapnivaló."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Apró, pufók palacsinták, gyakran a piacokon kaphatók."
+          },
+          {
+            "name": "'t Olde Schippershuus étterem",
+            "tip": "Hagyományos holland konyha, hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kosterworst de Drenthe",
+            "tip": "Un cârnat local uscat, perfect pentru o gustare."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Clătite mici și pufoase, adesea găsite în piețe."
+          },
+          {
+            "name": "Restaurant 't Olde Schippershuus",
+            "tip": "Bucătărie tradițională olandeză într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Drenthe Kosterworst",
+            "tip": "A local dried sausage, perfect for a snack."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Small, fluffy pancakes, often found at markets."
+          },
+          {
+            "name": "Restaurant 't Olde Schippershuus",
+            "tip": "Traditional Dutch cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaarbankbos",
+            "tip": "Ein ruhiger Wald für einen friedlichen Spaziergang.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Sees im Zuiderpark",
+            "tip": "Finden Sie eine Bank und beobachten Sie das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vincent van Gogh Huis Garten",
+            "tip": "Ein Moment der Stille an einem Ort, der den Künstler inspirierte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spaarbankbos",
+            "tip": "Csendes erdő egy békés sétához.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Zuiderpark tavának partja",
+            "tip": "Keressen egy padot és nézze a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vincent van Gogh Ház kertje",
+            "tip": "Egy csendes pillanat egy helyen, amely a művészt is inspirálta.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Spaarbankbos",
+            "tip": "O pădure liniștită pentru o plimbare pașnică.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul lacului din Zuiderpark",
+            "tip": "Găsiți o bancă și priviți apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Casei Vincent van Gogh",
+            "tip": "Un moment de liniște într-un loc care l-a inspirat pe artist.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spaarbankbos",
+            "tip": "A quiet forest for a peaceful walk.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Lakeside in Zuiderpark",
+            "tip": "Find a bench and watch the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vincent van Gogh House Garden",
+            "tip": "A moment of quiet in a place that inspired the artist.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt (Donnerstag)",
+            "tip": "Kaufen Sie lokalen Käse, Blumen und andere Produkte."
+          },
+          {
+            "name": "Molenwinkel de Zwaluw",
+            "tip": "Kaufen Sie handwerklich hergestelltes Mehl und Backmischungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac (csütörtök)",
+            "tip": "Vásároljon helyi sajtot, virágokat és más termékeket."
+          },
+          {
+            "name": "De Zwaluw malombolt",
+            "tip": "Vásároljon kézműves lisztet és sütőkeverékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală (joi)",
+            "tip": "Cumpărați brânză locală, flori și alte produse."
+          },
+          {
+            "name": "Magazinul morii De Zwaluw",
+            "tip": "Cumpărați făină artizanală și amestecuri pentru copt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market (Thursday)",
+            "tip": "Shop for local cheese, flowers, and other produce."
+          },
+          {
+            "name": "De Zwaluw Mill Shop",
+            "tip": "Buy artisanal flour and baking mixes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'blauwe zone'-Parkplätze (mit Parkscheibe) für kurzzeitiges Parken im Zentrum.",
+          "Planen Sie Ihre Fahrten zwischen den Clustern außerhalb der Stoßzeiten, um Verkehr zu vermeiden.",
+          "Ein Navigationssystem ist hilfreich, um die besten Parkmöglichkeiten zu finden."
+        ],
+        "hu": [
+          "Használja a 'kék zónás' parkolókat (parkolótárcsával) a rövid távú parkoláshoz a központban.",
+          "Tervezze az utazásokat a klaszterek között a csúcsidőn kívülre a forgalom elkerülése érdekében.",
+          "A navigációs rendszer segít megtalálni a legjobb parkolási lehetőségeket."
+        ],
+        "ro": [
+          "Folosiți parcarea 'zona albastră' (cu disc de parcare) pentru parcare pe termen scurt în centru.",
+          "Planificați-vă călătoriile între clustere în afara orelor de vârf pentru a evita traficul.",
+          "Un sistem de navigație este util pentru a găsi cele mai bune opțiuni de parcare."
+        ],
+        "en": [
+          "Use the 'blue zone' parking (with a parking disc) for short-term parking in the center.",
+          "Plan your drives between clusters outside of peak hours to avoid traffic.",
+          "A GPS is helpful for finding the best parking spots."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Zentrum",
+            "hu": "1. klaszter: Központ",
+            "ro": "Cluster 1: Centru",
+            "en": "Cluster 1: Center"
+          },
+          "coords": [
+            6.475,
+            52.724
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Hauptplatz (Haltestelle Centrum) und beginnen Sie bei der Grote Kerk.",
+            "hu": "Menjen busszal a főtérre (Centrum megálló) és kezdjen a Grote Kerk-nél.",
+            "ro": "Luați un autobuz spre piața principală (stația Centrum) și începeți la Grote Kerk.",
+            "en": "Take a bus to the main square (Centrum stop) and start at the Grote Kerk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascade & De Tamboer",
+            "hu": "Cascade és De Tamboer",
+            "ro": "Cascade & De Tamboer",
+            "en": "Cascade & De Tamboer"
+          },
+          "coords": [
+            6.479,
+            52.725
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Fußgängerzone verbindet diese beiden Sehenswürdigkeiten.",
+            "hu": "Egy rövid séta a sétálóutcán köti össze ezt a két látnivalót.",
+            "ro": "O scurtă plimbare prin zona pietonală leagă aceste două atracții.",
+            "en": "A short walk through the pedestrian zone connects these two sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Museum & Geschichte",
+            "hu": "2. klaszter: Múzeum és történelem",
+            "ro": "Cluster 2: Muzeu și Istorie",
+            "en": "Cluster 2: Museum & History"
+          },
+          "coords": [
+            6.481,
+            52.7265
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt bringt Sie in die Nähe des Museums.",
+            "hu": "Egy rövid buszút elvisz a múzeum közelébe.",
+            "ro": "O scurtă călătorie cu autobuzul vă va duce aproape de muzeu.",
+            "en": "A short bus ride will take you near the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Museums",
+            "hu": "Ebéd a múzeum közelében",
+            "ro": "Prânz lângă muzeu",
+            "en": "Lunch near the Museum"
+          },
+          "coords": [
+            6.482,
+            52.727
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt einige nette Cafés und Bäckereien in diesem Viertel.",
+            "hu": "Van néhány kedves kávézó és pékség ezen a környéken.",
+            "ro": "Există câteva cafenele și brutării drăguțe în acest cartier.",
+            "en": "There are some nice cafés and bakeries in this neighborhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Mühle & Park",
+            "hu": "3. klaszter: Malom és park",
+            "ro": "Cluster 3: Moară și Parc",
+            "en": "Cluster 3: Mill & Park"
+          },
+          "coords": [
+            6.488,
+            52.721
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen anderen Bus in Richtung Süden zur Windmühle.",
+            "hu": "Menjen egy másik busszal dél felé a szélmalomhoz.",
+            "ro": "Luați un alt autobuz spre sud, spre moara de vânt.",
+            "en": "Take another bus heading south to the windmill."
+          }
+        },
+        {
+          "name": {
+            "de": "Zuiderpark",
+            "hu": "Zuiderpark",
+            "ro": "Parcul Zuider",
+            "en": "Zuiderpark"
+          },
+          "coords": [
+            6.465,
+            52.718
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein längerer, aber angenehmer Spaziergang von der Mühle zum Park zum Abschluss des Tages.",
+            "hu": "Egy hosszabb, de kellemes séta a malomtól a parkig a nap lezárásaként.",
+            "ro": "O plimbare mai lungă, dar plăcută, de la moară la parc pentru a încheia ziua.",
+            "en": "A longer but pleasant walk from the mill to the park to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Hoogeveen lässt sich bequem mit öffentlichen Verkehrsmitteln erkunden. Starten Sie im Zentrum (Cluster 1), wo Sie nach der Ankunft mit dem Bus die Grote Kerk und die Cascade zu Fuß erkunden. Eine kurze Busfahrt bringt Sie zum zweiten Cluster, wo das Museum De 5000 Roeden und eine Mittagspause auf Sie warten. Der Nachmittag gehört dem dritten Cluster: Nehmen Sie einen Bus zur Windmühle De Zwaluw und spazieren Sie von dort aus zum weitläufigen Zuiderpark, wo Sie den Tag entspannt ausklingen lassen können.",
+        "hu": "Hoogeveen kényelmesen felfedezhető tömegközlekedéssel. Kezdjen a központban (1. klaszter), ahol a buszos érkezés után gyalogosan fedezheti fel a Grote Kerket és a Cascade-ot. Egy rövid buszozás elviszi a második klaszterhez, ahol a De 5000 Roeden Múzeum és egy ebédszünet várja. A délután a harmadik klaszteré: buszozzon el a De Zwaluw szélmalomhoz, onnan pedig sétáljon át a tágas Zuiderparkba, ahol pihentetően zárhatja a napot.",
+        "ro": "Hoogeveen poate fi explorat confortabil cu transportul public. Începeți în centru (Cluster 1), unde după sosirea cu autobuzul puteți explora pe jos Grote Kerk și Cascade. O scurtă călătorie cu autobuzul vă duce la al doilea cluster, unde vă așteaptă Muzeul De 5000 Roeden și o pauză de prânz. După-amiaza este dedicată celui de-al treilea cluster: luați un autobuz spre moara de vânt De Zwaluw și de acolo plimbați-vă până la parcul spațios Zuiderpark, unde puteți încheia ziua relaxându-vă.",
+        "en": "Hoogeveen is easily explored using public transport. Start in the center (Cluster 1), where you'll explore the Grote Kerk and Cascade on foot after arriving by bus. A short bus ride takes you to the second cluster, where the De 5000 Roeden Museum and a lunch break await. The afternoon belongs to the third cluster: take a bus to the De Zwaluw windmill, and from there, stroll to the spacious Zuiderpark to end your day with relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Drentse Kosterworst",
+            "tip": "Eine lokale, getrocknete Wurst, perfekt als Snack."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kleine, flauschige Pfannkuchen, oft auf Märkten zu finden."
+          },
+          {
+            "name": "Restaurant 't Olde Schippershuus",
+            "tip": "Traditionelle niederländische Küche in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Drenthe-i Kosterworst",
+            "tip": "Helyi szárított kolbász, tökéletes harapnivaló."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Apró, pufók palacsinták, gyakran a piacokon kaphatók."
+          },
+          {
+            "name": "'t Olde Schippershuus étterem",
+            "tip": "Hagyományos holland konyha, hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kosterworst de Drenthe",
+            "tip": "Un cârnat local uscat, perfect pentru o gustare."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Clătite mici și pufoase, adesea găsite în piețe."
+          },
+          {
+            "name": "Restaurant 't Olde Schippershuus",
+            "tip": "Bucătărie tradițională olandeză într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Drenthe Kosterworst",
+            "tip": "A local dried sausage, perfect for a snack."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Small, fluffy pancakes, often found at markets."
+          },
+          {
+            "name": "Restaurant 't Olde Schippershuus",
+            "tip": "Traditional Dutch cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaarbankbos",
+            "tip": "Ein ruhiger Wald für einen friedlichen Spaziergang.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Sees im Zuiderpark",
+            "tip": "Finden Sie eine Bank und beobachten Sie das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vincent van Gogh Huis Garten",
+            "tip": "Ein Moment der Stille an einem Ort, der den Künstler inspirierte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spaarbankbos",
+            "tip": "Csendes erdő egy békés sétához.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Zuiderpark tavának partja",
+            "tip": "Keressen egy padot és nézze a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vincent van Gogh Ház kertje",
+            "tip": "Egy csendes pillanat egy helyen, amely a művészt is inspirálta.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Spaarbankbos",
+            "tip": "O pădure liniștită pentru o plimbare pașnică.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul lacului din Zuiderpark",
+            "tip": "Găsiți o bancă și priviți apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Casei Vincent van Gogh",
+            "tip": "Un moment de liniște într-un loc care l-a inspirat pe artist.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spaarbankbos",
+            "tip": "A quiet forest for a peaceful walk.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Lakeside in Zuiderpark",
+            "tip": "Find a bench and watch the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vincent van Gogh House Garden",
+            "tip": "A moment of quiet in a place that inspired the artist.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt (Donnerstag)",
+            "tip": "Kaufen Sie lokalen Käse, Blumen und andere Produkte."
+          },
+          {
+            "name": "Molenwinkel de Zwaluw",
+            "tip": "Kaufen Sie handwerklich hergestelltes Mehl und Backmischungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac (csütörtök)",
+            "tip": "Vásároljon helyi sajtot, virágokat és más termékeket."
+          },
+          {
+            "name": "De Zwaluw malombolt",
+            "tip": "Vásároljon kézműves lisztet és sütőkeverékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală (joi)",
+            "tip": "Cumpărați brânză locală, flori și alte produse."
+          },
+          {
+            "name": "Magazinul morii De Zwaluw",
+            "tip": "Cumpărați făină artizanală și amestecuri pentru copt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market (Thursday)",
+            "tip": "Shop for local cheese, flowers, and other produce."
+          },
+          {
+            "name": "De Zwaluw Mill Shop",
+            "tip": "Buy artisanal flour and baking mixes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um unbegrenzt fahren zu können.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für Fahrten am späten Nachmittag.",
+          "Haben Sie etwas Bargeld dabei, da nicht alle Busse Kartenzahlung akzeptieren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan buszozáshoz.",
+          "Ellenőrizze előre a buszmenetrendet, különösen a késő délutáni járatok esetében.",
+          "Legyen Önnél némi készpénz, mivel nem minden buszon lehet kártyával fizetni."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzul.",
+          "Verificați programul autobuzelor în avans, în special pentru călătoriile de la sfârșitul după-amiezii.",
+          "Aveți niște bani lichizi la dumneavoastră, deoarece nu toate autobuzele acceptă plata cu cardul."
+        ],
+        "en": [
+          "Buy a day pass for the bus for unlimited travel.",
+          "Check the bus schedule in advance, especially for late afternoon trips.",
+          "Have some cash on hand, as not all buses may accept card payments."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,819 @@
+{
+  "city_id": "ee-narva",
+  "anchor": {
+    "name": "Narva",
+    "coords": [
+      28.1833,
+      59.3833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Narva",
+            "hu": "Narvai városháza",
+            "ro": "Primăria din Narva",
+            "en": "Narva Town Hall"
+          },
+          "coords": [
+            28.1977,
+            59.3795
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte barocke Fassade, ein Symbol des Wiederaufbaus.",
+            "hu": "Csodálja meg a visszafogott barokk homlokzatot, az újjáépítés szimbólumát.",
+            "ro": "Admirați fațada barocă sobră, un simbol al reconstrucției.",
+            "en": "Admire the sober baroque facade, a symbol of reconstruction."
+          }
+        },
+        {
+          "name": {
+            "de": "Auferstehungskathedrale",
+            "hu": "Feltámadás-székesegyház",
+            "ro": "Catedrala Învierii",
+            "en": "Resurrection Cathedral"
+          },
+          "coords": [
+            28.2033,
+            59.3779
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Beispiel neo-byzantinischer Architektur.",
+            "hu": "A neobizánci építészet lenyűgöző példája.",
+            "ro": "Un exemplu impresionant de arhitectură neo-bizantină.",
+            "en": "An impressive example of Neo-Byzantine architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Hermannsburg",
+            "hu": "Hermann-vár",
+            "ro": "Castelul Hermann",
+            "en": "Hermann Castle"
+          },
+          "coords": [
+            28.1999,
+            59.3755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm für den besten Blick auf die russische Festung Iwangorod.",
+            "hu": "Másszon fel a toronyba a legjobb kilátásért az orosz Ivangorodi erődre.",
+            "ro": "Urcați în turn pentru cea mai bună priveliște asupra cetății rusești Ivangorod.",
+            "en": "Climb the tower for the best view of the Russian Ivangorod fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Schwedische Löwe",
+            "hu": "Svéd oroszlán emlékmű",
+            "ro": "Monumentul Leului Suedez",
+            "en": "The Swedish Lion Monument"
+          },
+          "coords": [
+            28.1985,
+            59.3742
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erinnert an die Schlacht bei Narva im Großen Nordischen Krieg.",
+            "hu": "Az északi háború narvai csatájának állít emléket.",
+            "ro": "Comemorează Bătălia de la Narva din Marele Război al Nordului.",
+            "en": "Commemorates the Battle of Narva in the Great Northern War."
+          }
+        },
+        {
+          "name": {
+            "de": "Flusspromenade Narva",
+            "hu": "Narvai folyóparti sétány",
+            "ro": "Promenada de pe malul râului Narva",
+            "en": "Narva River Promenade"
+          },
+          "coords": [
+            28.2011,
+            59.3739
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für einen Mittagsspaziergang an der EU-Außengrenze.",
+            "hu": "Tökéletes egy déli sétához az EU külső határán.",
+            "ro": "Perfect pentru o plimbare de prânz de-a lungul frontierei externe a UE.",
+            "en": "Perfect for a midday stroll along the EU's external border."
+          }
+        },
+        {
+          "name": {
+            "de": "Viktoria-Bastion",
+            "hu": "Viktória-bástya",
+            "ro": "Bastionul Victoria",
+            "en": "Victoria Bastion"
+          },
+          "coords": [
+            28.2021,
+            59.3768
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kasematten und erfahren Sie mehr über die Festungsgeschichte.",
+            "hu": "Fedezze fel a kazamatákat, és tudjon meg többet az erődítmény történelméről.",
+            "ro": "Explorați cazematele și aflați despre istoria fortificațiilor.",
+            "en": "Explore the casemates and learn about the history of fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Puschkin-Park",
+            "hu": "Puskin park",
+            "ro": "Parcul Pușkin",
+            "en": "Pushkin Park"
+          },
+          "coords": [
+            28.1955,
+            59.3811
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:46",
+          "stay_min": 59,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um den Tag ausklingen zu lassen, benannt nach dem Dichter.",
+            "hu": "Egy csendes hely a nap befejezéséhez, a költőről elnevezve.",
+            "ro": "Un loc liniștit pentru a încheia ziua, numit după poet.",
+            "en": "A quiet place to end the day, named after the poet."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Narva am Rathausplatz. Am Vormittag erkunden Sie die mächtige Hermannsburg, die direkt an der Grenze zu Russland thront. Der Nachmittag ist einem Spaziergang entlang der Flusspromenade und der Erkundung der geheimnisvollen Kasematten der Viktoria-Bastion gewidmet. Lassen Sie den Abend entspannt im Puschkin-Park ausklingen, während Sie die einzigartige Atmosphäre dieser Grenzstadt auf sich wirken lassen.",
+        "hu": "Kezdje a napot Narva történelmi szívében, a Városháza téren. Délelőtt fedezze fel a hatalmas Hermann-várat, amely közvetlenül az orosz határ mellett magasodik. A délután a folyóparti sétányon tett sétáról és a Viktória-bástya rejtélyes kazamatáinak felfedezéséről szól. Zárja a napot egy pihentető sétával a Puskin parkban, magába szívva ennek a határvárosnak az egyedi hangulatát.",
+        "ro": "Începeți ziua în inima istorică a Narvei, la Piața Primăriei. În cursul dimineții, explorați impunătorul Castel Hermann, care domină granița cu Rusia. După-amiaza este dedicată unei plimbări pe promenada râului și explorării cazematelor misterioase ale Bastionului Victoria. Încheiați seara relaxându-vă în Parcul Pușkin, absorbind atmosfera unică a acestui oraș de frontieră.",
+        "en": "Start your day in the historical heart of Narva at the Town Hall Square. In the morning, explore the mighty Hermann Castle, towering right on the border with Russia. The afternoon is for a walk along the river promenade and exploring the mysterious casemates of the Victoria Bastion. End the evening relaxing in Pushkin Park, soaking up the unique atmosphere of this border city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Silm (Lamprei)",
+            "tip": "Probieren Sie dieses lokale Fischgericht, eine Spezialität der Narva-Region."
+          },
+          {
+            "name": "Restaurant Rondeel",
+            "tip": "Speisen Sie im Burghof und genießen Sie moderne estnische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Silm (Orsóhal)",
+            "tip": "Kóstolja meg ezt a helyi halételt, a Narva-régió specialitását."
+          },
+          {
+            "name": "Rondeel Étterem",
+            "tip": "Étkezzen a várudvarban és élvezze a modern észt konyhát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Silm (Chișcar)",
+            "tip": "Încercați acest preparat local din pește, o specialitate a regiunii Narva."
+          },
+          {
+            "name": "Restaurant Rondeel",
+            "tip": "Luați masa în curtea castelului și bucurați-vă de bucătăria estoniană modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silm (Lamprey)",
+            "tip": "Try this local fish dish, a specialty of the Narva region."
+          },
+          {
+            "name": "Rondeel Restaurant",
+            "tip": "Dine in the castle courtyard and enjoy modern Estonian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flusspromenade bei Sonnenuntergang",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses mit Blick auf die Festung Iwangorod.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dunkler Garten (Pimeaed)",
+            "tip": "Der älteste Park der Stadt, ein Ort der Ruhe und Besinnung.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti sétány naplementekor",
+            "tip": "Egy csendes séta a folyó mentén, kilátással az Ivangorodi erődre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sötét Kert (Pimeaed)",
+            "tip": "A város legrégebbi parkja, a béke és a szemlélődés helye.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada râului la apus",
+            "tip": "O plimbare liniștită de-a lungul râului cu vedere la cetatea Ivangorod.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Întunecată (Pimeaed)",
+            "tip": "Cel mai vechi parc din oraș, un loc de pace și contemplare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "River promenade at sunset",
+            "tip": "A quiet walk along the river with a view of the Ivangorod fortress.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dark Garden (Pimeaed)",
+            "tip": "The city's oldest park, a place of peace and contemplation.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Narva Museum Shop",
+            "tip": "Finden Sie historische Souvenirs und Bücher über die Region."
+          },
+          {
+            "name": "Fama Keskus",
+            "tip": "Ein modernes Einkaufszentrum für alltägliche Bedürfnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Narvai Múzeum boltja",
+            "tip": "Találjon történelmi szuveníreket és könyveket a régióról."
+          },
+          {
+            "name": "Fama Keskus",
+            "tip": "Modern bevásárlóközpont a mindennapi szükségletekhez."
+          }
+        ]
+      },
+      "ro": [
+        {
+          "name": "Magazinul Muzeului Narva",
+          "tip": "Găsiți suveniruri istorice și cărți despre regiune."
+        },
+        {
+          "name": "Fama Keskus",
+          "tip": "Un centru comercial modern pentru nevoile de zi cu zi."
+        }
+      ],
+      "en": [
+        {
+          "name": "Narva Museum Shop",
+          "tip": "Find historical souvenirs and books about the region."
+        },
+        {
+          "name": "Fama Keskus",
+          "tip": "A modern shopping center for everyday needs."
+        }
+      ]
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Narva",
+            "hu": "Narvai városháza",
+            "ro": "Primăria din Narva",
+            "en": "Narva Town Hall"
+          },
+          "coords": [
+            28.1977,
+            59.3795
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt Ihrer Tour im Herzen der Altstadt.",
+            "hu": "A túra kiindulópontja az óváros szívében.",
+            "ro": "Punctul de plecare al turului dumneavoastră în inima orașului vechi.",
+            "en": "The starting point of your tour in the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Hermannsburg & Flusspromenade",
+            "hu": "Hermann-vár és Folyóparti sétány",
+            "ro": "Castelul Hermann & Promenada Râului",
+            "en": "Hermann Castle & River Promenade"
+          },
+          "coords": [
+            28.1999,
+            59.3755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Kombinieren Sie die Burgbesichtigung mit einer Radtour entlang des Flusses.",
+            "hu": "Kombinálja a várlátogatást egy folyóparti kerékpártúrával.",
+            "ro": "Combinați vizita la castel cu o plimbare cu bicicleta de-a lungul râului.",
+            "en": "Combine the castle visit with a bike ride along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Viktoria-Bastion",
+            "hu": "Viktória-bástya",
+            "ro": "Bastionul Victoria",
+            "en": "Victoria Bastion"
+          },
+          "coords": [
+            28.2021,
+            59.3768
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:07",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die unterirdischen Gänge.",
+            "hu": "Tegye le a kerékpárt, és fedezze fel a föld alatti járatokat.",
+            "ro": "Parcați bicicleta și explorați pasajele subterane.",
+            "en": "Park your bike and explore the underground passages."
+          }
+        },
+        {
+          "name": {
+            "de": "Siivertsi-Denkmal",
+            "hu": "Siivertsi emlékmű",
+            "ro": "Monumentul Siivertsi",
+            "en": "Siivertsi Memorial"
+          },
+          "coords": [
+            28.1645,
+            59.3983
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:28",
+          "stay_min": 20,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Eine Radtour zu diesem Denkmal des estnischen Freiheitskrieges.",
+            "hu": "Kerékpártúra az észt szabadságharc emlékművéhez.",
+            "ro": "O plimbare cu bicicleta la acest monument al Războiului de Independență al Estoniei.",
+            "en": "A bike ride to this memorial of the Estonian War of Independence."
+          }
+        },
+        {
+          "name": {
+            "de": "Kreenholmer Manufaktur",
+            "hu": "Kreenholm Manufaktúra",
+            "ro": "Manufactura Kreenholm",
+            "en": "Kreenholm Manufacturing Company"
+          },
+          "coords": [
+            28.1925,
+            59.3621
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Ein faszinierender Komplex aus dem 19. Jahrhundert auf einer Insel im Fluss.",
+            "hu": "Egy lenyűgöző 19. századi komplexum egy szigeten a folyóban.",
+            "ro": "Un complex fascinant din secolul al XIX-lea, situat pe o insulă în râu.",
+            "en": "A fascinating 19th-century complex on an island in the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Puschkin-Park",
+            "hu": "Puskin park",
+            "ro": "Parcul Pușkin",
+            "en": "Pushkin Park"
+          },
+          "coords": [
+            28.1955,
+            59.3811
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 67,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um sich nach einer langen Radtour zu entspannen.",
+            "hu": "Tökéletes hely a pihenésre egy hosszú kerékpártúra után.",
+            "ro": "Locul perfect pentru a vă relaxa după o plimbare lungă cu bicicleta.",
+            "en": "The perfect place to relax after a long bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Rathaus. Der Vormittag führt Sie zur Hermannsburg und entlang der Flusspromenade. Erkunden Sie die Festungsanlagen, bevor Sie eine längere Tour zum Siivertsi-Denkmal und zur beeindruckenden Kreenholmer Manufaktur unternehmen. Am Nachmittag kehren Sie ins Stadtzentrum zurück und lassen den Tag im Puschkin-Park ausklingen.",
+        "hu": "Pattanjon kerékpárra és induljon a Városházától. A délelőtt a Hermann-várhoz és a folyóparti sétányra vezet. Fedezze fel az erődítményeket, mielőtt hosszabb túrára indulna a Siivertsi emlékműhöz és a lenyűgöző Kreenholm Manufaktúrához. Délután térjen vissza a városközpontba, és zárja a napot a Puskin parkban.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la Primărie. Dimineața vă duce la Castelul Hermann și de-a lungul promenadei râului. Explorați fortificațiile înainte de a face un tur mai lung la Monumentul Siivertsi și la impresionanta Manufactură Kreenholm. După-amiaza, reveniți în centrul orașului și încheiați ziua în Parcul Pușkin.",
+        "en": "Get on your bike and start at the Town Hall. The morning takes you to Hermann Castle and along the river promenade. Explore the fortifications before taking a longer tour to the Siivertsi Memorial and the impressive Kreenholm Manufacturing Company. In the afternoon, return to the city center and end the day in Pushkin Park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 11.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Kreenholm: Kreenholmer Manufaktur",
+            "hu": "Kreenholm Klaszter: Kreenholm Manufaktúra",
+            "ro": "Cluster Kreenholm: Manufactura Kreenholm",
+            "en": "Kreenholm Cluster: Kreenholm Manufacturing"
+          },
+          "coords": [
+            28.1925,
+            59.3621
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:18",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und nehmen Sie an einer Führung durch das riesige Industriedenkmal teil.",
+            "hu": "Parkoljon le itt, és vegyen részt egy vezetett túrán a hatalmas ipari műemléken.",
+            "ro": "Parcați aici și participați la un tur ghidat al imensului monument industrial.",
+            "en": "Park here and take a guided tour of the vast industrial monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Burg: Hermannsburg",
+            "hu": "Vár Klaszter: Hermann-vár",
+            "ro": "Cluster Castel: Castelul Hermann",
+            "en": "Castle Cluster: Hermann Castle"
+          },
+          "coords": [
+            28.1999,
+            59.3755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie die Erkundung des zentralen historischen Bereichs.",
+            "hu": "Parkoljon a közelben, és kezdje meg a központi történelmi terület felfedezését.",
+            "ro": "Parcați în apropiere și începeți explorarea zonei istorice centrale.",
+            "en": "Park nearby and start exploring the central historical area."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Burg: Flusspromenade Narva",
+            "hu": "Vár Klaszter: Narvai folyóparti sétány",
+            "ro": "Cluster Castel: Promenada Râului Narva",
+            "en": "Castle Cluster: Narva River Promenade"
+          },
+          "coords": [
+            28.2011,
+            59.3739
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Burg entfernt, ideal für die Mittagspause.",
+            "hu": "Rövid séta a vártól, ideális egy ebédszünethez.",
+            "ro": "O scurtă plimbare de la castel, ideală pentru o pauză de prânz.",
+            "en": "A short walk from the castle, ideal for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Burg: Denkmal der Schwedische Löwe",
+            "hu": "Vár Klaszter: Svéd oroszlán emlékmű",
+            "ro": "Cluster Castel: Monumentul Leului Suedez",
+            "en": "Castle Cluster: The Swedish Lion Monument"
+          },
+          "coords": [
+            28.1985,
+            59.3742
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:49",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie dieses historische Denkmal direkt neben der Burg nicht.",
+            "hu": "Ne hagyja ki ezt a történelmi emlékművet közvetlenül a vár mellett.",
+            "ro": "Nu ratați acest monument istoric chiar lângă castel.",
+            "en": "Don't miss this historical monument right next to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Altstadt: Rathaus Narva",
+            "hu": "Óváros Klaszter: Narvai városháza",
+            "ro": "Cluster Orașul Vechi: Primăria Narva",
+            "en": "Old Town Cluster: Narva Town Hall"
+          },
+          "coords": [
+            28.1977,
+            59.3795
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum letzten Cluster und parken Sie, um das barocke Zentrum zu sehen.",
+            "hu": "Vezessen az utolsó klaszterhez, és parkoljon le, hogy megnézze a barokk központot.",
+            "ro": "Conduceți spre ultimul cluster și parcați pentru a vedea centrul baroc.",
+            "en": "Drive to the last cluster and park to see the baroque center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Altstadt: Viktoria-Bastion",
+            "hu": "Óváros Klaszter: Viktória-bástya",
+            "ro": "Cluster Orașul Vechi: Bastionul Victoria",
+            "en": "Old Town Cluster: Victoria Bastion"
+          },
+          "coords": [
+            28.2021,
+            59.3768
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:45",
+          "stay_min": 139,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die letzte große Erkundung des Tages: die beeindruckenden Festungsanlagen.",
+            "hu": "A nap utolsó nagy felfedezése: a lenyűgöző erődítmények.",
+            "ro": "Ultima mare explorare a zilei: fortificațiile impresionante.",
+            "en": "The last major exploration of the day: the impressive fortifications."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um verschiedene Cluster von Narva zu erkunden. Beginnen Sie bei der abgelegenen, aber faszinierenden Kreenholmer Manufaktur. Fahren Sie dann zum Burg-Cluster, parken Sie und erkunden Sie zu Fuß die Hermannsburg und die Flusspromenade. Der letzte Autostopp führt Sie ins Altstadt-Cluster, wo Sie das Rathaus und die weitläufigen Anlagen der Viktoria-Bastion entdecken können. Diese Methode kombiniert Fahrkomfort mit intensiven Spaziergängen.",
+        "hu": "Használja autóját Narva különböző klasztereinek felfedezéséhez. Kezdje a távoli, de lenyűgöző Kreenholm Manufaktúránál. Ezután vezessen a Vár-klaszterhez, parkoljon le, és fedezze fel gyalog a Hermann-várat és a folyóparti sétányt. Az utolsó autós megálló az Óváros-klaszterbe vezet, ahol felfedezheti a Városházát és a Viktória-bástya kiterjedt erődítményeit. Ez a módszer ötvözi a vezetés kényelmét az intenzív sétákkal.",
+        "ro": "Folosiți mașina pentru a explora diferite clustere din Narva. Începeți cu îndepărtata, dar fascinanta Manufactură Kreenholm. Apoi, conduceți spre clusterul Castelului, parcați și explorați pe jos Castelul Hermann și promenada râului. Ultima oprire cu mașina vă duce la clusterul Orașului Vechi, unde puteți descoperi Primăria și fortificațiile extinse ale Bastionului Victoria. Această metodă combină confortul condusului cu plimbări intense.",
+        "en": "Use your car to explore different clusters of Narva. Start at the remote but fascinating Kreenholm Manufacturing Company. Then drive to the Castle cluster, park, and explore Hermann Castle and the river promenade on foot. The final car stop takes you to the Old Town cluster, where you can discover the Town Hall and the extensive fortifications of the Victoria Bastion. This method combines driving comfort with intense walks."
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Rathausplatz",
+            "hu": "Központ Klaszter: Városháza tér",
+            "ro": "Cluster Centru: Piața Primăriei",
+            "en": "Center Cluster: Town Hall Square"
+          },
+          "coords": [
+            28.1977,
+            59.3795
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Haltestelle 'Peetri plats' und beginnen Sie Ihre Tour.",
+            "hu": "Menjen busszal a 'Peetri plats' megállóig, és kezdje meg a túrát.",
+            "ro": "Luați un autobuz până la stația 'Peetri plats' și începeți turul.",
+            "en": "Take a bus to the 'Peetri plats' stop and start your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Auferstehungskathedrale",
+            "hu": "Központ Klaszter: Feltámadás-székesegyház",
+            "ro": "Cluster Centru: Catedrala Învierii",
+            "en": "Center Cluster: Resurrection Cathedral"
+          },
+          "coords": [
+            28.2033,
+            59.3779
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathausplatz zu diesem orthodoxen Juwel.",
+            "hu": "Rövid séta a Városháza tértől ehhez az ortodox gyöngyszemhez.",
+            "ro": "O scurtă plimbare de la Piața Primăriei la această bijuterie ortodoxă.",
+            "en": "A short walk from the Town Hall Square to this Orthodox gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Viktoria-Bastion",
+            "hu": "Központ Klaszter: Viktória-bástya",
+            "ro": "Cluster Centru: Bastionul Victoria",
+            "en": "Center Cluster: Victoria Bastion"
+          },
+          "coords": [
+            28.2021,
+            59.3768
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bleiben Sie im zentralen Cluster und erkunden Sie die Festungsanlagen.",
+            "hu": "Maradjon a központi klaszterben, és fedezze fel az erődítményeket.",
+            "ro": "Rămâneți în clusterul central și explorați fortificațiile.",
+            "en": "Stay in the central cluster and explore the fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Burg: Hermannsburg",
+            "hu": "Vár Klaszter: Hermann-vár",
+            "ro": "Cluster Castel: Castelul Hermann",
+            "en": "Castle Cluster: Hermann Castle"
+          },
+          "coords": [
+            28.1999,
+            59.3755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:58",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus für eine kurze Fahrt zum nächsten Cluster.",
+            "hu": "Menjen busszal egy rövid utat a következő klaszterig.",
+            "ro": "Luați un autobuz pentru o scurtă călătorie până la următorul cluster.",
+            "en": "Take a bus for a short ride to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Burg: Flusspromenade Narva",
+            "hu": "Vár Klaszter: Narvai folyóparti sétány",
+            "ro": "Cluster Castel: Promenada Râului Narva",
+            "en": "Castle Cluster: Narva River Promenade"
+          },
+          "coords": [
+            28.2011,
+            59.3739
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach der Burgbesichtigung entspannen Sie bei einem Spaziergang am Fluss.",
+            "hu": "A várlátogatás után pihenjen egy folyóparti sétával.",
+            "ro": "După vizitarea castelului, relaxați-vă cu o plimbare pe malul râului.",
+            "en": "After the castle visit, relax with a walk by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Kreenholm: Kreenholmer Manufaktur",
+            "hu": "Kreenholm Klaszter: Kreenholm Manufaktúra",
+            "ro": "Cluster Kreenholm: Manufactura Kreenholm",
+            "en": "Kreenholm Cluster: Kreenholm Manufacturing"
+          },
+          "coords": [
+            28.1925,
+            59.3621
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:42",
+          "stay_min": 117,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine längere Busfahrt bringt Sie zu diesem beeindruckenden Industriedenkmal.",
+            "hu": "Egy hosszabb buszút vezet ehhez a lenyűgöző ipari műemlékhez.",
+            "ro": "O călătorie mai lungă cu autobuzul vă duce la acest monument industrial impresionant.",
+            "en": "A longer bus ride takes you to this impressive industrial monument."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Narva mit dem Bus. Beginnen Sie im zentralen Cluster mit dem Rathaus und der Kathedrale. Ein kurzer Spaziergang führt Sie zur Viktoria-Bastion. Anschließend bringt Sie ein Bus zum Burg-Cluster, wo Sie die Hermannsburg und die Flusspromenade erkunden. Die letzte Etappe ist eine Busfahrt zur Kreenholmer Manufaktur, einem einzigartigen Industriedenkmal. So erleben Sie die Stadt effizient und umweltfreundlich.",
+        "hu": "Fedezze fel Narvát busszal. Kezdje a központi klaszterben a Városházával és a székesegyházzal. Egy rövid séta elvezet a Viktória-bástyához. Ezután egy busz elviszi a Vár-klaszterbe, ahol felfedezheti a Hermann-várat és a folyóparti sétányt. Az utolsó szakasz egy buszút a Kreenholm Manufaktúrához, egy egyedülálló ipari műemlékhez. Így hatékonyan és környezetbarát módon ismerheti meg a várost.",
+        "ro": "Explorați Narva cu autobuzul. Începeți în clusterul central cu Primăria și Catedrala. O scurtă plimbare vă duce la Bastionul Victoria. Apoi, un autobuz vă duce la clusterul Castelului, unde explorați Castelul Hermann și promenada râului. Ultima etapă este o călătorie cu autobuzul la Manufactura Kreenholm, un monument industrial unic. Astfel, experimentați orașul eficient și ecologic.",
+        "en": "Explore Narva by bus. Start in the central cluster with the Town Hall and the Cathedral. A short walk takes you to the Victoria Bastion. Then a bus takes you to the Castle cluster, where you explore Hermann Castle and the river promenade. The final leg is a bus ride to the Kreenholm Manufacturing Company, a unique industrial monument. This way, you experience the city efficiently and eco-friendly."
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Kosten zu sparen.",
+          "Prüfen Sie die Busfahrpläne im Voraus, besonders für die Fahrt zur Kreenholmer Manufaktur.",
+          "Die meisten zentralen Sehenswürdigkeiten sind in ihren Clustern leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy spóroljon.",
+          "Ellenőrizze előre a buszmenetrendet, különösen a Kreenholm Manufaktúrához.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog a klasztereken belül."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați în avans orarele autobuzelor, în special pentru călătoria la Manufactura Kreenholm.",
+          "Majoritatea atracțiilor centrale sunt ușor accesibile pe jos în cadrul clusterelor lor."
+        ],
+        "en": [
+          "Buy a day ticket for public transport to save costs.",
+          "Check bus schedules in advance, especially for the trip to Kreenholm Manufacturing Company.",
+          "Most central sights are easily accessible on foot within their clusters."
+        ]
+      }
+    }
+  }
+}

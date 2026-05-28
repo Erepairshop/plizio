@@ -1,0 +1,1644 @@
+{
+  "city_id": "poland-lodz-cities-v2",
+  "anchor": {
+    "name": "Lodz",
+    "coords": [
+      19.456,
+      51.7592
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Freiheitsplatz",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Liberty Square"
+          },
+          "coords": [
+            19.4545,
+            51.7779
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, am nördlichen Ende der berühmten Piotrkowska-Straße.",
+            "hu": "Kezdje a napot itt, a híres Piotrkowska utca északi végén.",
+            "ro": "Începeți ziua aici, la capătul nordic al celebrei străzi Piotrkowska.",
+            "en": "Start your day here, at the northern end of the famous Piotrkowska Street."
+          }
+        },
+        {
+          "name": {
+            "de": "Piotrkowska-Straße",
+            "hu": "Piotrkowska utca",
+            "ro": "Strada Piotrkowska",
+            "en": "Piotrkowska Street"
+          },
+          "coords": [
+            19.457,
+            51.771
+          ],
+          "category": "old-town",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Halten Sie Ausschau nach den vielen Statuen und Installationen entlang der Straße.",
+            "hu": "Figyelje a számos szobrot és installációt az utca mentén.",
+            "ro": "Fiți atenți la numeroasele statui și instalații de-a lungul străzii.",
+            "en": "Look out for the many statues and installations along the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Alexander-Newski-Kathedrale",
+            "hu": "Alekszandr Nyevszkij-székesegyház",
+            "ro": "Catedrala Alexandr Nevski",
+            "en": "Alexander Nevsky Cathedral"
+          },
+          "coords": [
+            19.4711,
+            51.7599
+          ],
+          "category": "churches",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die reiche Innenausstattung dieser orthodoxen Kathedrale.",
+            "hu": "Csodálja meg ennek az ortodox katedrálisnak a gazdag belső díszítését.",
+            "ro": "Admirați interiorul bogat decorat al acestei catedrale ortodoxe.",
+            "en": "Admire the richly decorated interior of this Orthodox cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast von Izrael Poznański",
+            "hu": "Izrael Poznański-palota",
+            "ro": "Palatul lui Izrael Poznański",
+            "en": "Izrael Poznański's Palace"
+          },
+          "coords": [
+            19.451,
+            51.778
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben der Manufaktura, ein Muss für Architekturfans.",
+            "hu": "Közvetlenül a Manufaktura mellett található, kötelező az építészet szerelmeseinek.",
+            "ro": "Chiar lângă Manufaktura, o vizită obligatorie pentru pasionații de arhitectură.",
+            "en": "Right next to Manufaktura, a must-see for architecture enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Manufaktura",
+            "hu": "Manufaktura",
+            "ro": "Manufaktura",
+            "en": "Manufaktura"
+          },
+          "coords": [
+            19.4501,
+            51.7795
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine Mittagspause mit vielen Restaurants.",
+            "hu": "Tökéletes hely egy ebédszünetre, számos étteremmel.",
+            "ro": "Locul perfect pentru o pauză de prânz, cu multe restaurante.",
+            "en": "The perfect spot for a lunch break, with plenty of restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum ms2",
+            "hu": "ms2 Művészeti Múzeum",
+            "ro": "Muzeul de Artă ms2",
+            "en": "Art Museum ms2"
+          },
+          "coords": [
+            19.449,
+            51.7788
+          ],
+          "category": "museums",
+          "arrive_at": "16:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Im Manufaktura-Komplex, mit Schwerpunkt auf Kunst des 20. und 21. Jahrhunderts.",
+            "hu": "A Manufaktura komplexumban található, a 20. és 21. századi művészetre összpontosítva.",
+            "ro": "Situat în complexul Manufaktura, axat pe arta secolelor XX și XXI.",
+            "en": "Located in the Manufaktura complex, focusing on 20th and 21st-century art."
+          }
+        },
+        {
+          "name": {
+            "de": "Großes Theater (Teatr Wielki)",
+            "hu": "Nagy Színház (Teatr Wielki)",
+            "ro": "Marele Teatru (Teatr Wielki)",
+            "en": "Grand Theatre (Teatr Wielki)"
+          },
+          "coords": [
+            19.467,
+            51.776
+          ],
+          "category": "theatres",
+          "arrive_at": "18:43",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auch wenn Sie keine Vorstellung besuchen, ist das Gebäude selbst beeindruckend.",
+            "hu": "Még ha nem is megy előadásra, maga az épület is lenyűgöző.",
+            "ro": "Chiar dacă nu mergeți la un spectacol, clădirea în sine este impresionantă.",
+            "en": "Even if you don't attend a performance, the building itself is impressive."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Freiheitsplatz, dem Tor zur berühmten Piotrkowska-Straße. Schlendern Sie nach Süden, genießen Sie die Atmosphäre und die Architektur, bevor Sie zur prächtigen Alexander-Newski-Kathedrale abbiegen. Am Nachmittag tauchen Sie in das industrielle Erbe von Lodz ein. Besichtigen Sie den opulenten Palast von Izrael Poznański, bevor Sie das riesige Manufaktura-Gelände erkunden, wo Sie zu Mittag essen und moderne Kunst im ms2 Museum entdecken können. Beenden Sie Ihren Tag mit einem Blick auf das beeindruckende Große Theater und erleben Sie die kulturelle Seite der Stadt.",
+        "hu": "Kezdje a napot a Szabadság téren, a híres Piotrkowska utca kapujában. Sétáljon dél felé, szívja magába a hangulatot és csodálja meg az építészetet, mielőtt letérne a pazar Alekszandr Nyevszkij-székesegyházhoz. Délután merüljön el Lodz ipari örökségében. Látogassa meg Izrael Poznański pazar palotáját, majd fedezze fel a hatalmas Manufaktura komplexumot, ahol megebédelhet és modern művészetet láthat az ms2 Múzeumban. A napot a lenyűgöző Nagy Színház megtekintésével zárja, megtapasztalva a város kulturális oldalát.",
+        "ro": "Începeți ziua în Piața Libertății, poarta de intrare pe faimoasa stradă Piotrkowska. Plimbați-vă spre sud, absorbind atmosfera și arhitectura înainte de a vă abate spre magnifica Catedrală Alexandr Nevski. După-amiaza, scufundați-vă în moștenirea industrială a orașului Lodz. Vizitați opulentul Palat al lui Izrael Poznański înainte de a explora vastul complex Manufaktura, unde puteți lua prânzul și descoperi arta modernă la Muzeul ms2. Încheiați ziua admirând impresionantul Teatru Mare, experimentând latura culturală a orașului.",
+        "en": "Start your day at Liberty Square, the gateway to the famous Piotrkowska Street. Stroll south, soaking up the atmosphere and architecture before detouring to the magnificent Alexander Nevsky Cathedral. In the afternoon, immerse yourself in Lodz's industrial heritage. Visit the opulent Izrael Poznański's Palace before exploring the vast Manufaktura complex, where you can have lunch and discover modern art at the ms2 Museum. End your day by admiring the impressive Grand Theatre, experiencing the city's cultural side."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zalewajka",
+            "tip": "Eine traditionelle saure Roggenmehlsuppe, ein echtes lokales Gericht."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die klassischen polnischen Teigtaschen mit verschiedenen Füllungen."
+          },
+          {
+            "name": "Anatewka",
+            "tip": "Ein Restaurant mit jüdischer Küche in der Nähe der Manufaktura, für ein einzigartiges kulinarisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zalewajka",
+            "tip": "Hagyományos savanyú rozsleves, egy igazi helyi étel."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a klasszikus lengyel derelyét különféle töltelékekkel."
+          },
+          {
+            "name": "Anatewka",
+            "tip": "Zsidó konyhát kínáló étterem a Manufaktura közelében, egyedi gasztronómiai élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zalewajka",
+            "tip": "O supă tradițională acră de secară, un adevărat preparat local."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele poloneze clasice cu diverse umpluturi."
+          },
+          {
+            "name": "Anatewka",
+            "tip": "Un restaurant cu bucătărie evreiască lângă Manufaktura pentru o experiență culinară unică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zalewajka",
+            "tip": "A traditional sour rye soup, a true local dish."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Try the classic Polish dumplings with various fillings."
+          },
+          {
+            "name": "Anatewka",
+            "tip": "A restaurant with Jewish cuisine near Manufaktura for a unique dining experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Herbst-Palast Gärten",
+            "tip": "Finden Sie eine ruhige Ecke in den Gärten dieses Museumspalastes.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park Źródliska",
+            "tip": "Einer der ältesten Parks in Lodz, perfekt für eine entspannende Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jüdischer Friedhof",
+            "tip": "Ein Ort der stillen Besinnung und Geschichte, abseits des Trubels.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herbst-palota kertje",
+            "tip": "Találjon egy csendes zugot ennek a múzeumpalotának a kertjében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Źródliska Park",
+            "tip": "Lodz egyik legrégebbi parkja, tökéletes egy pihentető szünetre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zsidó temető",
+            "tip": "A csendes elmélkedés és a történelem helye, távol a nyüzsgéstől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Herbst",
+            "tip": "Găsiți un colț liniștit în grădinile acestui palat-muzeu.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Źródliska",
+            "tip": "Unul dintre cele mai vechi parcuri din Lodz, perfect pentru o pauză relaxantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Evreiesc",
+            "tip": "Un loc de reflecție tăcută și istorie, departe de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Herbst Palace Gardens",
+            "tip": "Find a quiet corner in the gardens of this museum-palace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Źródliska Park",
+            "tip": "One of the oldest parks in Lodz, perfect for a relaxing break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jewish Cemetery",
+            "tip": "A place for quiet reflection and history, away from the hustle and bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piotrkowska-Straße",
+            "tip": "Voller Boutiquen, Galerien und Souvenirläden."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "Ein modernes Einkaufszentrum in einer historischen Fabrik, das alles von Mode bis zu lokalen Produkten bietet."
+          },
+          {
+            "name": "OFF Piotrkowska",
+            "tip": "Ein kreativer Raum mit unabhängigen Designern und Pop-up-Stores."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piotrkowska utca",
+            "tip": "Tele butikokkal, galériákkal és ajándékboltokkal."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "Modern bevásárlóközpont egy történelmi gyárban, divattól a helyi termékekig mindent kínál."
+          },
+          {
+            "name": "OFF Piotrkowska",
+            "tip": "Kreatív tér független tervezőkkel és pop-up boltokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Piotrkowska",
+            "tip": "Plină de buticuri, galerii și magazine de suveniruri."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "Un centru comercial modern într-o fabrică istorică, oferind de la modă la produse locale."
+          },
+          {
+            "name": "OFF Piotrkowska",
+            "tip": "Un spațiu creativ cu designeri independenți și magazine pop-up."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piotrkowska Street",
+            "tip": "Full of boutiques, galleries, and souvenir shops."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "A modern shopping center in a historic factory, offering everything from fashion to local products."
+          },
+          {
+            "name": "OFF Piotrkowska",
+            "tip": "A creative space with independent designers and pop-up stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Die Piotrkowska-Straße ist über 4 km lang; konzentrieren Sie sich auf den nördlichen Teil, um nicht zu müde zu werden.",
+          "Viele Restaurants und Cafés haben Sitzgelegenheiten im Freien, perfekt, um Leute zu beobachten.",
+          "Halten Sie die Augen offen für die einzigartigen Innenhöfe entlang der Piotrkowska."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog macskakövön sétálni.",
+          "A Piotrkowska utca több mint 4 km hosszú; koncentráljon az északi részre, hogy ne fáradjon el túlságosan.",
+          "Sok étteremnek és kávézónak van szabadtéri ülőhelye, ami tökéletes a nézelődéshez.",
+          "Tartsa nyitva a szemét az egyedi udvarokért a Piotrkowska mentén."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe piatră cubică.",
+          "Strada Piotrkowska are peste 4 km lungime; concentrați-vă pe secțiunea nordică pentru a evita oboseala.",
+          "Multe restaurante și cafenele au terase, perfecte pentru a privi oamenii.",
+          "Fiți atenți la curțile interioare unice de-a lungul străzii Piotrkowska."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot on cobblestones.",
+          "Piotrkowska Street is over 4 km long; focus on the northern section to avoid getting too tired.",
+          "Many restaurants and cafes have outdoor seating, perfect for people-watching.",
+          "Keep an eye out for the unique courtyards along Piotrkowska."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Freiheitsplatz",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Liberty Square"
+          },
+          "coords": [
+            19.4545,
+            51.7779
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt mit viel Platz, um Ihr Fahrrad vorzubereiten.",
+            "hu": "Ideális kiindulópont, bőséges hellyel a kerékpár előkészítéséhez.",
+            "ro": "Un punct de plecare ideal, cu mult spațiu pentru a vă pregăti bicicleta.",
+            "en": "An ideal starting point with plenty of space to get your bike ready."
+          }
+        },
+        {
+          "name": {
+            "de": "Manufaktura",
+            "hu": "Manufaktura",
+            "ro": "Manufaktura",
+            "en": "Manufaktura"
+          },
+          "coords": [
+            19.4501,
+            51.7795
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt viele Fahrradständer; stellen Sie Ihr Fahrrad ab und erkunden Sie den Komplex.",
+            "hu": "Sok kerékpártároló van; zárja le a biciklit és fedezze fel a komplexumot.",
+            "ro": "Există numeroase suporturi pentru biciclete; parcați bicicleta și explorați complexul.",
+            "en": "There are plenty of bike racks; park your bike and explore the complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast von Izrael Poznański",
+            "hu": "Izrael Poznański-palota",
+            "ro": "Palatul lui Izrael Poznański",
+            "en": "Izrael Poznański's Palace"
+          },
+          "coords": [
+            19.451,
+            51.778
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad an der Manufaktura und gehen Sie zu Fuß zu diesem Palast.",
+            "hu": "Hagyja a kerékpárt a Manufakturánál, és sétáljon át ehhez a palotához.",
+            "ro": "Lăsați bicicleta la Manufaktura și mergeți pe jos până la acest palat.",
+            "en": "Leave your bike at Manufaktura and walk over to this palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Piotrkowska-Straße",
+            "hu": "Piotrkowska utca",
+            "ro": "Strada Piotrkowska",
+            "en": "Piotrkowska Street"
+          },
+          "coords": [
+            19.457,
+            51.771
+          ],
+          "category": "old-town",
+          "arrive_at": "12:08",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie langsam und achten Sie auf Fußgänger; halten Sie für einen Kaffee an.",
+            "hu": "Tekerjen lassan és figyeljen a gyalogosokra; álljon meg egy kávéra.",
+            "ro": "Mergeți încet cu bicicleta și fiți atenți la pietoni; opriți-vă pentru o cafea.",
+            "en": "Ride slowly and be mindful of pedestrians; stop for a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Herbst-Palast",
+            "hu": "Herbst-palota",
+            "ro": "Palatul Herbst",
+            "en": "Herbst Palace"
+          },
+          "coords": [
+            19.488,
+            51.751
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schönes Ziel am Rande des Zentrums mit einem beeindruckenden Innenraum.",
+            "hu": "Egy gyönyörű célpont a központ szélén, lenyűgöző belső terekkel.",
+            "ro": "O destinație frumoasă la marginea centrului, cu un interior impresionant.",
+            "en": "A beautiful destination on the edge of the center with an impressive interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Alexander-Newski-Kathedrale",
+            "hu": "Alekszandr Nyevszkij-székesegyház",
+            "ro": "Catedrala Alexandr Nevski",
+            "en": "Alexander Nevsky Cathedral"
+          },
+          "coords": [
+            19.4711,
+            51.7599
+          ],
+          "category": "churches",
+          "arrive_at": "15:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die byzantinische Architektur zu bewundern.",
+            "hu": "Egy rövid megálló a bizánci építészet megcsodálására.",
+            "ro": "O scurtă oprire pentru a admira arhitectura bizantină.",
+            "en": "A quick stop to admire the Byzantine architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdischer Friedhof",
+            "hu": "Zsidó temető",
+            "ro": "Cimitirul Evreiesc",
+            "en": "Jewish Cemetery"
+          },
+          "coords": [
+            19.4886,
+            51.7961
+          ],
+          "category": "historical",
+          "arrive_at": "16:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein; der Friedhof ist sehr groß und geschichtsträchtig.",
+            "hu": "Szánjon rá elég időt; a temető nagyon nagy és tele van történelemmel.",
+            "ro": "Planificați suficient timp; cimitirul este foarte mare și plin de istorie.",
+            "en": "Allow plenty of time; the cemetery is very large and steeped in history."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Radegast",
+            "hu": "Radegast állomás",
+            "ro": "Gara Radegast",
+            "en": "Radegast Station"
+          },
+          "coords": [
+            19.493,
+            51.801
+          ],
+          "category": "monuments",
+          "arrive_at": "18:24",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein bewegendes Denkmal, das zu Fuß vom Friedhof aus erreichbar ist.",
+            "hu": "Megindító emlékmű, sétatávolságra a temetőtől.",
+            "ro": "Un monument emoționant, la mică distanță de mers pe jos de cimitir.",
+            "en": "A moving memorial, within walking distance from the cemetery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Freiheitsplatz und fahren Sie zum Manufaktura-Komplex. Nachdem Sie den angrenzenden Poznański-Palast erkundet haben, fahren Sie die berühmte Piotrkowska-Straße entlang. Am Nachmittag führt Sie Ihre Route zum eleganten Herbst-Palast und dann zur orthodoxen Alexander-Newski-Kathedrale. Der letzte Teil Ihrer Tour widmet sich der Geschichte, mit einem Besuch des großen jüdischen Friedhofs und einem besinnlichen Moment am Bahnhof Radegast, einem Holocaust-Mahnmal.",
+        "hu": "Kezdje a kerékpártúrát a Szabadság térről, majd tekerjen a Manufaktura komplexumhoz. Miután felfedezte a szomszédos Poznański-palotát, haladjon végig a híres Piotrkowska utcán. Délután az útvonal az elegáns Herbst-palotához, majd az ortodox Alekszandr Nyevszkij-székesegyházhoz vezet. A túra utolsó része a történelemnek szentelődik, látogatással a nagy zsidó temetőben és egy elgondolkodtató pillanattal a Radegast állomásnál, egy holokauszt-emlékműnél.",
+        "ro": "Începeți turul cu bicicleta din Piața Libertății și mergeți la complexul Manufaktura. După ce ați explorat adiacentul Palat Poznański, pedalați de-a lungul celebrei străzi Piotrkowska. După-amiaza, traseul vă duce la elegantul Palat Herbst și apoi la Catedrala Ortodoxă Alexandr Nevski. Partea finală a turului este dedicată istoriei, cu o vizită la marele Cimitir Evreiesc și un moment de reflecție la Gara Radegast, un memorial al Holocaustului.",
+        "en": "Start your bike tour from Liberty Square and head to the Manufaktura complex. After exploring the adjacent Poznański Palace, cycle down the famous Piotrkowska Street. In the afternoon, your route takes you to the elegant Herbst Palace and then to the Orthodox Alexander Nevsky Cathedral. The final part of your tour is dedicated to history, with a visit to the large Jewish Cemetery and a reflective moment at Radegast Station, a Holocaust memorial."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zalewajka",
+            "tip": "Eine traditionelle saure Roggenmehlsuppe, ein echtes lokales Gericht."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die klassischen polnischen Teigtaschen mit verschiedenen Füllungen."
+          },
+          {
+            "name": "Anatewka",
+            "tip": "Ein Restaurant mit jüdischer Küche in der Nähe der Manufaktura, für ein einzigartiges kulinarisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zalewajka",
+            "tip": "Hagyományos savanyú rozsleves, egy igazi helyi étel."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a klasszikus lengyel derelyét különféle töltelékekkel."
+          },
+          {
+            "name": "Anatewka",
+            "tip": "Zsidó konyhát kínáló étterem a Manufaktura közelében, egyedi gasztronómiai élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zalewajka",
+            "tip": "O supă tradițională acră de secară, un adevărat preparat local."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele poloneze clasice cu diverse umpluturi."
+          },
+          {
+            "name": "Anatewka",
+            "tip": "Un restaurant cu bucătărie evreiască lângă Manufaktura pentru o experiență culinară unică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zalewajka",
+            "tip": "A traditional sour rye soup, a true local dish."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Try the classic Polish dumplings with various fillings."
+          },
+          {
+            "name": "Anatewka",
+            "tip": "A restaurant with Jewish cuisine near Manufaktura for a unique dining experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Herbst-Palast Gärten",
+            "tip": "Finden Sie eine ruhige Ecke in den Gärten dieses Museumspalastes.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park Źródliska",
+            "tip": "Einer der ältesten Parks in Lodz, perfekt für eine entspannende Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jüdischer Friedhof",
+            "tip": "Ein Ort der stillen Besinnung und Geschichte, abseits des Trubels.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herbst-palota kertje",
+            "tip": "Találjon egy csendes zugot ennek a múzeumpalotának a kertjében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Źródliska Park",
+            "tip": "Lodz egyik legrégebbi parkja, tökéletes egy pihentető szünetre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zsidó temető",
+            "tip": "A csendes elmélkedés és a történelem helye, távol a nyüzsgéstől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Herbst",
+            "tip": "Găsiți un colț liniștit în grădinile acestui palat-muzeu.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Źródliska",
+            "tip": "Unul dintre cele mai vechi parcuri din Lodz, perfect pentru o pauză relaxantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Evreiesc",
+            "tip": "Un loc de reflecție tăcută și istorie, departe de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Herbst Palace Gardens",
+            "tip": "Find a quiet corner in the gardens of this museum-palace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Źródliska Park",
+            "tip": "One of the oldest parks in Lodz, perfect for a relaxing break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jewish Cemetery",
+            "tip": "A place for quiet reflection and history, away from the hustle and bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piotrkowska-Straße",
+            "tip": "Voller Boutiquen, Galerien und Souvenirläden."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "Ein modernes Einkaufszentrum in einer historischen Fabrik, das alles von Mode bis zu lokalen Produkten bietet."
+          },
+          {
+            "name": "OFF Piotrkowska",
+            "tip": "Ein kreativer Raum mit unabhängigen Designern und Pop-up-Stores."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piotrkowska utca",
+            "tip": "Tele butikokkal, galériákkal és ajándékboltokkal."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "Modern bevásárlóközpont egy történelmi gyárban, divattól a helyi termékekig mindent kínál."
+          },
+          {
+            "name": "OFF Piotrkowska",
+            "tip": "Kreatív tér független tervezőkkel és pop-up boltokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Piotrkowska",
+            "tip": "Plină de buticuri, galerii și magazine de suveniruri."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "Un centru comercial modern într-o fabrică istorică, oferind de la modă la produse locale."
+          },
+          {
+            "name": "OFF Piotrkowska",
+            "tip": "Un spațiu creativ cu designeri independenți și magazine pop-up."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piotrkowska Street",
+            "tip": "Full of boutiques, galleries, and souvenir shops."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "A modern shopping center in a historic factory, offering everything from fashion to local products."
+          },
+          {
+            "name": "OFF Piotrkowska",
+            "tip": "A creative space with independent designers and pop-up stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lodz ist relativ flach und daher gut zum Radfahren geeignet.",
+          "Nutzen Sie das städtische Fahrradverleihsystem, wenn Sie kein eigenes Fahrrad haben.",
+          "Achten Sie auf Straßenbahnschienen, besonders bei Nässe.",
+          "Schließen Sie Ihr Fahrrad immer an festen Gegenständen ab."
+        ],
+        "hu": [
+          "Lodz viszonylag sík, így ideális a kerékpározáshoz.",
+          "Használja a városi kerékpárkölcsönző rendszert, ha nincs sajátja.",
+          "Vigyázzon a villamossínekre, különösen nedves időben.",
+          "Mindig zárja le a kerékpárt egy szilárd tárgyhoz."
+        ],
+        "ro": [
+          "Lodz este relativ plat, ceea ce îl face potrivit pentru ciclism.",
+          "Utilizați sistemul public de închiriere de biciclete dacă nu aveți propria bicicletă.",
+          "Atenție la șinele de tramvai, mai ales pe carosabil umed.",
+          "Asigurați-vă întotdeauna bicicleta de un obiect fix."
+        ],
+        "en": [
+          "Lodz is relatively flat, making it suitable for cycling.",
+          "Use the city's public bike rental system if you don't have your own.",
+          "Be careful of tram tracks, especially when wet.",
+          "Always lock your bike to a fixed object."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 11.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Freiheitsplatz",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Liberty Square"
+          },
+          "coords": [
+            19.4545,
+            51.7779
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie Ihren Rundgang durch das erste Viertel hier.",
+            "hu": "Parkoljon a közelben, és itt kezdje meg az első negyed felfedezését.",
+            "ro": "Parcați în apropiere și începeți turul pietonal al primului cluster aici.",
+            "en": "Park nearby and start your walking tour of the first cluster here."
+          }
+        },
+        {
+          "name": {
+            "de": "Piotrkowska-Straße (nördlicher Teil)",
+            "hu": "Piotrkowska utca (északi rész)",
+            "ro": "Strada Piotrkowska (secțiunea nordică)",
+            "en": "Piotrkowska Street (northern section)"
+          },
+          "coords": [
+            19.457,
+            51.771
+          ],
+          "category": "old-town",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und genießen Sie den Spaziergang auf dieser lebhaften Straße.",
+            "hu": "Hagyja az autót, és élvezze a sétát ezen az élettel teli utcán.",
+            "ro": "Lăsați mașina și bucurați-vă de plimbarea pe această stradă plină de viață.",
+            "en": "Leave the car and enjoy the walk down this vibrant street."
+          }
+        },
+        {
+          "name": {
+            "de": "Alexander-Newski-Kathedrale",
+            "hu": "Alekszandr Nyevszkij-székesegyház",
+            "ro": "Catedrala Alexandr Nevski",
+            "en": "Alexander Nevsky Cathedral"
+          },
+          "coords": [
+            19.4711,
+            51.7599
+          ],
+          "category": "churches",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Piotrkowska entfernt.",
+            "hu": "Egy rövid séta a Piotrkowska utcától.",
+            "ro": "La o scurtă plimbare de strada Piotrkowska.",
+            "en": "A short walk from Piotrkowska street."
+          }
+        },
+        {
+          "name": {
+            "de": "Manufaktura",
+            "hu": "Manufaktura",
+            "ro": "Manufaktura",
+            "en": "Manufaktura"
+          },
+          "coords": [
+            19.4501,
+            51.7795
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Hier gibt es große Parkhäuser.",
+            "hu": "Vezessen a következő negyedbe. Itt nagy parkolóházak találhatók.",
+            "ro": "Conduceți spre următorul cluster. Există parcări mari aici.",
+            "en": "Drive to the next cluster. There are large parking garages here."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast von Izrael Poznański",
+            "hu": "Izrael Poznański-palota",
+            "ro": "Palatul lui Izrael Poznański",
+            "en": "Izrael Poznański's Palace"
+          },
+          "coords": [
+            19.451,
+            51.778
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben der Manufaktura gelegen, leicht zu Fuß erreichbar.",
+            "hu": "Közvetlenül a Manufaktura mellett található, könnyen megközelíthető gyalog.",
+            "ro": "Situat chiar lângă Manufaktura, ușor accesibil pe jos.",
+            "en": "Located right next to Manufaktura, easily reachable on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum ms2",
+            "hu": "ms2 Művészeti Múzeum",
+            "ro": "Muzeul de Artă ms2",
+            "en": "Art Museum ms2"
+          },
+          "coords": [
+            19.449,
+            51.7788
+          ],
+          "category": "museums",
+          "arrive_at": "14:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie moderne Kunst, ohne das Manufaktura-Gelände zu verlassen.",
+            "hu": "Fedezze fel a modern művészetet a Manufaktura elhagyása nélkül.",
+            "ro": "Descoperiți arta modernă fără a părăsi complexul Manufaktura.",
+            "en": "Discover modern art without leaving the Manufaktura grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdischer Friedhof",
+            "hu": "Zsidó temető",
+            "ro": "Cimitirul Evreiesc",
+            "en": "Jewish Cemetery"
+          },
+          "coords": [
+            19.4886,
+            51.7961
+          ],
+          "category": "historical",
+          "arrive_at": "16:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum letzten Cluster. Parken ist auf der Straße möglich.",
+            "hu": "Vezessen az utolsó negyedbe. Parkolás az utcán lehetséges.",
+            "ro": "Conduceți spre ultimul cluster. Parcarea este disponibilă pe stradă.",
+            "en": "Drive to the final cluster. Parking is available on the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Radegast",
+            "hu": "Radegast állomás",
+            "ro": "Gara Radegast",
+            "en": "Radegast Station"
+          },
+          "coords": [
+            19.493,
+            51.801
+          ],
+          "category": "monuments",
+          "arrive_at": "18:09",
+          "stay_min": 30,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, besinnlicher Spaziergang vom Friedhof zum Denkmal.",
+            "hu": "Egy rövid, elgondolkodtató séta a temetőtől az emlékműhöz.",
+            "ro": "O scurtă plimbare sobră de la cimitir la memorial.",
+            "en": "A short, reflective walk from the cemetery to the memorial."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto im Stadtzentrum, parken Sie in der Nähe des Freiheitsplatzes und erkunden Sie die Piotrkowska-Straße zu Fuß. Nach der Besichtigung der Alexander-Newski-Kathedrale fahren Sie zum Manufaktura-Komplex. Parken Sie dort für den Nachmittag und entdecken Sie das riesige Industriegelände, den benachbarten Poznański-Palast und das Kunstmuseum ms2 zu Fuß. Am späten Nachmittag fahren Sie in den nördlichen Teil der Stadt, um den historischen jüdischen Friedhof und das bewegende Denkmal am Bahnhof Radegast zu besuchen, die beide zum Nachdenken anregen.",
+        "hu": "Kezdje a napot autóval a városközpontban, parkoljon a Szabadság tér közelében, és fedezze fel gyalog a Piotrkowska utcát. Az Alekszandr Nyevszkij-székesegyház megtekintése után vezessen a Manufaktura komplexumhoz. Parkoljon le délutánra, és fedezze fel gyalog a hatalmas ipari területet, a szomszédos Poznański-palotát és az ms2 Művészeti Múzeumot. Késő délután vezessen a város északi részébe, hogy meglátogassa a történelmi zsidó temetőt és a Radegast állomás megindító emlékművét, mindkettő elgondolkodtató élmény.",
+        "ro": "Începeți ziua cu mașina în centrul orașului, parcând lângă Piața Libertății pentru a explora pe jos strada Piotrkowska. După ce ați văzut Catedrala Alexandr Nevski, conduceți spre complexul Manufaktura. Parcați acolo pentru după-amiază și descoperiți pe jos vastul sit industrial, Palatul Poznański adiacent și Muzeul de Artă ms2. Spre sfârșitul după-amiezii, conduceți spre partea de nord a orașului pentru a vizita cimitirul evreiesc istoric și memorialul emoționant de la Gara Radegast, ambele fiind experiențe sobre.",
+        "en": "Start your day by car in the city center, parking near Liberty Square to explore Piotrkowska Street on foot. After seeing the Alexander Nevsky Cathedral, drive to the Manufaktura complex. Park there for the afternoon and discover the vast industrial site, the adjacent Poznański Palace, and the ms2 Art Museum all by walking. In the late afternoon, drive to the northern part of the city to visit the historic Jewish Cemetery and the moving memorial at Radegast Station, both providing a reflective experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zalewajka",
+            "tip": "Eine traditionelle saure Roggenmehlsuppe, ein echtes lokales Gericht."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die klassischen polnischen Teigtaschen mit verschiedenen Füllungen."
+          },
+          {
+            "name": "Anatewka",
+            "tip": "Ein Restaurant mit jüdischer Küche in der Nähe der Manufaktura, für ein einzigartiges kulinarisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zalewajka",
+            "tip": "Hagyományos savanyú rozsleves, egy igazi helyi étel."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a klasszikus lengyel derelyét különféle töltelékekkel."
+          },
+          {
+            "name": "Anatewka",
+            "tip": "Zsidó konyhát kínáló étterem a Manufaktura közelében, egyedi gasztronómiai élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zalewajka",
+            "tip": "O supă tradițională acră de secară, un adevărat preparat local."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele poloneze clasice cu diverse umpluturi."
+          },
+          {
+            "name": "Anatewka",
+            "tip": "Un restaurant cu bucătărie evreiască lângă Manufaktura pentru o experiență culinară unică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zalewajka",
+            "tip": "A traditional sour rye soup, a true local dish."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Try the classic Polish dumplings with various fillings."
+          },
+          {
+            "name": "Anatewka",
+            "tip": "A restaurant with Jewish cuisine near Manufaktura for a unique dining experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Herbst-Palast Gärten",
+            "tip": "Finden Sie eine ruhige Ecke in den Gärten dieses Museumspalastes.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park Źródliska",
+            "tip": "Einer der ältesten Parks in Lodz, perfekt für eine entspannende Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jüdischer Friedhof",
+            "tip": "Ein Ort der stillen Besinnung und Geschichte, abseits des Trubels.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herbst-palota kertje",
+            "tip": "Találjon egy csendes zugot ennek a múzeumpalotának a kertjében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Źródliska Park",
+            "tip": "Lodz egyik legrégebbi parkja, tökéletes egy pihentető szünetre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zsidó temető",
+            "tip": "A csendes elmélkedés és a történelem helye, távol a nyüzsgéstől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Herbst",
+            "tip": "Găsiți un colț liniștit în grădinile acestui palat-muzeu.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Źródliska",
+            "tip": "Unul dintre cele mai vechi parcuri din Lodz, perfect pentru o pauză relaxantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Evreiesc",
+            "tip": "Un loc de reflecție tăcută și istorie, departe de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Herbst Palace Gardens",
+            "tip": "Find a quiet corner in the gardens of this museum-palace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Źródliska Park",
+            "tip": "One of the oldest parks in Lodz, perfect for a relaxing break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jewish Cemetery",
+            "tip": "A place for quiet reflection and history, away from the hustle and bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piotrkowska-Straße",
+            "tip": "Voller Boutiquen, Galerien und Souvenirläden."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "Ein modernes Einkaufszentrum in einer historischen Fabrik, das alles von Mode bis zu lokalen Produkten bietet."
+          },
+          {
+            "name": "OFF Piotrkowska",
+            "tip": "Ein kreativer Raum mit unabhängigen Designern und Pop-up-Stores."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piotrkowska utca",
+            "tip": "Tele butikokkal, galériákkal és ajándékboltokkal."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "Modern bevásárlóközpont egy történelmi gyárban, divattól a helyi termékekig mindent kínál."
+          },
+          {
+            "name": "OFF Piotrkowska",
+            "tip": "Kreatív tér független tervezőkkel és pop-up boltokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Piotrkowska",
+            "tip": "Plină de buticuri, galerii și magazine de suveniruri."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "Un centru comercial modern într-o fabrică istorică, oferind de la modă la produse locale."
+          },
+          {
+            "name": "OFF Piotrkowska",
+            "tip": "Un spațiu creativ cu designeri independenți și magazine pop-up."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piotrkowska Street",
+            "tip": "Full of boutiques, galleries, and souvenir shops."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "A modern shopping center in a historic factory, offering everything from fashion to local products."
+          },
+          {
+            "name": "OFF Piotrkowska",
+            "tip": "A creative space with independent designers and pop-up stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie große Parkhäuser wie das bei Manufaktura, um das Auto sicher abzustellen.",
+          "Das Parken im Stadtzentrum kann schwierig sein; planen Sie Zeit für die Parkplatzsuche ein.",
+          "Die Cluster-Strategie spart Parkgebühren und Stress.",
+          "Überprüfen Sie die Parkzonen und -gebühren, um Strafzettel zu vermeiden."
+        ],
+        "hu": [
+          "Használjon nagy parkolóházakat, mint a Manufakturánál, hogy biztonságban tudja az autóját.",
+          "A városközpontban a parkolás nehézkes lehet; tervezzen időt a parkolóhely keresésére.",
+          "A negyedekre osztott stratégia parkolási díjakat és stresszt takarít meg.",
+          "Ellenőrizze a parkolási zónákat és díjakat a büntetések elkerülése érdekében."
+        ],
+        "ro": [
+          "Folosiți parcări mari, precum cea de la Manufaktura, pentru a lăsa mașina în siguranță.",
+          "Parcarea în centrul orașului poate fi dificilă; alocați timp pentru a găsi un loc.",
+          "Strategia de cluster vă economisește taxele de parcare și stresul.",
+          "Verificați zonele de parcare și taxele pentru a evita amenzile."
+        ],
+        "en": [
+          "Use large parking garages like the one at Manufaktura to leave the car securely.",
+          "Parking in the city center can be challenging; plan time for finding a spot.",
+          "The cluster strategy saves on parking fees and stress.",
+          "Check parking zones and fees to avoid fines."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 7.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Freiheitsplatz",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Liberty Square"
+          },
+          "coords": [
+            19.4545,
+            51.7779
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein wichtiger Verkehrsknotenpunkt, von dem aus viele Straßenbahnen und Busse starten.",
+            "hu": "Fontos közlekedési csomópont, ahonnan számos villamos és busz indul.",
+            "ro": "Un nod important de transport public, de unde pleacă multe tramvaie și autobuze.",
+            "en": "A major public transport hub where many trams and buses start."
+          }
+        },
+        {
+          "name": {
+            "de": "Piotrkowska-Straße (nördlicher Teil)",
+            "hu": "Piotrkowska utca (északi rész)",
+            "ro": "Strada Piotrkowska (secțiunea nordică)",
+            "en": "Piotrkowska Street (northern section)"
+          },
+          "coords": [
+            19.457,
+            51.771
+          ],
+          "category": "old-town",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Freiheitsplatz aus und genießen Sie die autofreie Atmosphäre.",
+            "hu": "Sétáljon a Szabadság tértől, és élvezze az autómentes hangulatot.",
+            "ro": "Plimbați-vă din Piața Libertății și bucurați-vă de atmosfera fără mașini.",
+            "en": "Walk down from Liberty Square and enjoy the car-free atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Manufaktura",
+            "hu": "Manufaktura",
+            "ro": "Manufaktura",
+            "en": "Manufaktura"
+          },
+          "coords": [
+            19.4501,
+            51.7795
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:52",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie eine Straßenbahn für die kurze Fahrt zum nächsten Besichtigungscluster.",
+            "hu": "Menjen villamossal a következő látnivalócsoporthoz.",
+            "ro": "Luați un tramvai pentru scurta călătorie către următorul grup de obiective.",
+            "en": "Take a tram for the short ride to the next cluster of sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast von Izrael Poznański",
+            "hu": "Izrael Poznański-palota",
+            "ro": "Palatul lui Izrael Poznański",
+            "en": "Izrael Poznański's Palace"
+          },
+          "coords": [
+            19.451,
+            51.778
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Manufaktura-Gelände aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a Manufaktura területéről.",
+            "ro": "Ușor accesibil pe jos din incinta Manufaktura.",
+            "en": "Easily walkable from the Manufaktura grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Herbst-Palast",
+            "hu": "Herbst-palota",
+            "ro": "Palatul Herbst",
+            "en": "Herbst Palace"
+          },
+          "coords": [
+            19.488,
+            51.751
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere Fahrt mit der Straßenbahn bringt Sie zu diesem Juwel am Stadtrand.",
+            "hu": "Egy újabb villamosút visz el ehhez a külvárosi gyöngyszemhez.",
+            "ro": "O altă călătorie cu tramvaiul vă va duce la această bijuterie de la periferie.",
+            "en": "Another tram ride will take you to this gem on the outskirts."
+          }
+        },
+        {
+          "name": {
+            "de": "Großes Theater (Teatr Wielki)",
+            "hu": "Nagy Színház (Teatr Wielki)",
+            "ro": "Marele Teatru (Teatr Wielki)",
+            "en": "Grand Theatre (Teatr Wielki)"
+          },
+          "coords": [
+            19.467,
+            51.776
+          ],
+          "category": "theatres",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Herbst-Palast hierher, um das beeindruckende Gebäude zu sehen.",
+            "hu": "Sétáljon ide a Herbst-palotától, hogy megnézze ezt a lenyűgöző épületet.",
+            "ro": "Plimbați-vă de la Palatul Herbst aici pentru a vedea clădirea impresionantă.",
+            "en": "Stroll over from Herbst Palace to see the impressive building."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen auf der Piotrkowska",
+            "hu": "Vacsora a Piotrkowska utcán",
+            "ro": "Cină pe strada Piotrkowska",
+            "en": "Dinner on Piotrkowska Street"
+          },
+          "coords": [
+            19.46,
+            51.765
+          ],
+          "category": "gastro",
+          "arrive_at": "17:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Essen in einem der vielen Restaurants hier.",
+            "hu": "Zárja a napot egy vacsorával az itteni számos étterem egyikében.",
+            "ro": "Încheiați ziua cu o masă la unul dintre numeroasele restaurante de aici.",
+            "en": "End your day with a meal at one of the many restaurants here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Verkehrsknotenpunkt Freiheitsplatz und spazieren Sie die Piotrkowska-Straße entlang. Nehmen Sie dann eine Straßenbahn zum Manufaktura-Komplex, wo Sie den Nachmittag damit verbringen, das Industriegelände und den opulenten Poznański-Palast zu erkunden. Eine weitere Fahrt mit den öffentlichen Verkehrsmitteln bringt Sie zum eleganten Herbst-Palast. Von dort aus können Sie zum Großen Theater spazieren, um die kulturelle Architektur zu bewundern, bevor Sie für ein wohlverdientes Abendessen in das belebte Viertel der Piotrkowska-Straße zurückkehren.",
+        "hu": "Kezdje a napot a Szabadság téri közlekedési csomópontnál, és sétáljon végig a Piotrkowska utcán. Ezután villamossal utazzon a Manufaktura komplexumhoz, ahol a délutánt az ipari terület és a pazar Poznański-palota felfedezésével tölti. Egy újabb tömegközlekedési út viszi el az elegáns Herbst-palotához. Onnan sétáljon el a Nagy Színházhoz, hogy megcsodálja a kulturális építészetet, mielőtt visszatérne a Piotrkowska utca nyüzsgő negyedébe egy jól megérdemelt vacsorára.",
+        "ro": "Începeți de la nodul de transport Piața Libertății și plimbați-vă pe strada Piotrkowska. Apoi, luați un tramvai spre complexul Manufaktura, unde veți petrece după-amiaza explorând situl industrial și opulentul Palat Poznański. O altă călătorie cu transportul public vă va duce la elegantul Palat Herbst. De acolo, plimbați-vă până la Marele Teatru pentru a admira arhitectura culturală, înainte de a vă întoarce în zona animată a străzii Piotrkowska pentru o cină binemeritată.",
+        "en": "Start at the Liberty Square transport hub and walk down Piotrkowska Street. Then, take a tram to the Manufaktura complex, where you'll spend the afternoon exploring the industrial site and the opulent Poznański Palace. Another transit ride will take you to the elegant Herbst Palace. From there, stroll to the Grand Theatre to admire the cultural architecture before returning to the bustling Piotrkowska Street area for a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zalewajka",
+            "tip": "Eine traditionelle saure Roggenmehlsuppe, ein echtes lokales Gericht."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die klassischen polnischen Teigtaschen mit verschiedenen Füllungen."
+          },
+          {
+            "name": "Anatewka",
+            "tip": "Ein Restaurant mit jüdischer Küche in der Nähe der Manufaktura, für ein einzigartiges kulinarisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zalewajka",
+            "tip": "Hagyományos savanyú rozsleves, egy igazi helyi étel."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a klasszikus lengyel derelyét különféle töltelékekkel."
+          },
+          {
+            "name": "Anatewka",
+            "tip": "Zsidó konyhát kínáló étterem a Manufaktura közelében, egyedi gasztronómiai élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zalewajka",
+            "tip": "O supă tradițională acră de secară, un adevărat preparat local."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele poloneze clasice cu diverse umpluturi."
+          },
+          {
+            "name": "Anatewka",
+            "tip": "Un restaurant cu bucătărie evreiască lângă Manufaktura pentru o experiență culinară unică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zalewajka",
+            "tip": "A traditional sour rye soup, a true local dish."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Try the classic Polish dumplings with various fillings."
+          },
+          {
+            "name": "Anatewka",
+            "tip": "A restaurant with Jewish cuisine near Manufaktura for a unique dining experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Herbst-Palast Gärten",
+            "tip": "Finden Sie eine ruhige Ecke in den Gärten dieses Museumspalastes.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park Źródliska",
+            "tip": "Einer der ältesten Parks in Lodz, perfekt für eine entspannende Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jüdischer Friedhof",
+            "tip": "Ein Ort der stillen Besinnung und Geschichte, abseits des Trubels.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herbst-palota kertje",
+            "tip": "Találjon egy csendes zugot ennek a múzeumpalotának a kertjében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Źródliska Park",
+            "tip": "Lodz egyik legrégebbi parkja, tökéletes egy pihentető szünetre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zsidó temető",
+            "tip": "A csendes elmélkedés és a történelem helye, távol a nyüzsgéstől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Herbst",
+            "tip": "Găsiți un colț liniștit în grădinile acestui palat-muzeu.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Źródliska",
+            "tip": "Unul dintre cele mai vechi parcuri din Lodz, perfect pentru o pauză relaxantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Evreiesc",
+            "tip": "Un loc de reflecție tăcută și istorie, departe de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Herbst Palace Gardens",
+            "tip": "Find a quiet corner in the gardens of this museum-palace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Źródliska Park",
+            "tip": "One of the oldest parks in Lodz, perfect for a relaxing break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jewish Cemetery",
+            "tip": "A place for quiet reflection and history, away from the hustle and bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piotrkowska-Straße",
+            "tip": "Voller Boutiquen, Galerien und Souvenirläden."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "Ein modernes Einkaufszentrum in einer historischen Fabrik, das alles von Mode bis zu lokalen Produkten bietet."
+          },
+          {
+            "name": "OFF Piotrkowska",
+            "tip": "Ein kreativer Raum mit unabhängigen Designern und Pop-up-Stores."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piotrkowska utca",
+            "tip": "Tele butikokkal, galériákkal és ajándékboltokkal."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "Modern bevásárlóközpont egy történelmi gyárban, divattól a helyi termékekig mindent kínál."
+          },
+          {
+            "name": "OFF Piotrkowska",
+            "tip": "Kreatív tér független tervezőkkel és pop-up boltokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Piotrkowska",
+            "tip": "Plină de buticuri, galerii și magazine de suveniruri."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "Un centru comercial modern într-o fabrică istorică, oferind de la modă la produse locale."
+          },
+          {
+            "name": "OFF Piotrkowska",
+            "tip": "Un spațiu creativ cu designeri independenți și magazine pop-up."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piotrkowska Street",
+            "tip": "Full of boutiques, galleries, and souvenir shops."
+          },
+          {
+            "name": "Manufaktura",
+            "tip": "A modern shopping center in a historic factory, offering everything from fashion to local products."
+          },
+          {
+            "name": "OFF Piotrkowska",
+            "tip": "A creative space with independent designers and pop-up stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Straßenbahnen sind oft schneller als Busse, da sie eigene Spuren haben.",
+          "Überprüfen Sie die Fahrpläne im Voraus, besonders für spätere Fahrten.",
+          "Die App 'jakdojade' ist sehr nützlich für die Planung von Routen mit öffentlichen Verkehrsmitteln in Polen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "A villamosok gyakran gyorsabbak, mint a buszok, mivel saját sávjuk van.",
+          "Ellenőrizze előre a menetrendeket, különösen a későbbi járatok esetében.",
+          "A 'jakdojade' alkalmazás nagyon hasznos a lengyelországi tömegközlekedési útvonalak tervezéséhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Tramvaiele sunt adesea mai rapide decât autobuzele, deoarece au benzi dedicate.",
+          "Verificați orarele în avans, mai ales pentru călătoriile de seară.",
+          "Aplicația 'jakdojade' este foarte utilă pentru planificarea rutelor de transport public în Polonia."
+        ],
+        "en": [
+          "Buy a one-day public transport ticket to save money.",
+          "Trams are often faster than buses as they have dedicated lanes.",
+          "Check schedules in advance, especially for later trips.",
+          "The 'jakdojade' app is very useful for planning public transport routes in Poland."
+        ]
+      }
+    }
+  }
+}

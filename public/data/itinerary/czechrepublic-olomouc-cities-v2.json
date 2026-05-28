@@ -1,0 +1,1584 @@
+{
+  "city_id": "czechrepublic-olomouc-cities-v2",
+  "anchor": {
+    "name": "Olomouc",
+    "coords": [
+      17.2508,
+      49.5938
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Oberer Platz (Horní náměstí)",
+            "hu": "Felső tér (Horní náměstí)",
+            "ro": "Piața de Sus (Horní náměstí)",
+            "en": "Upper Square (Horní náměstí)"
+          },
+          "coords": [
+            17.251,
+            49.594
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonische Vielfalt und spüren Sie den Puls der Stadt.",
+            "hu": "Csodálja meg az építészeti sokszínűséget és érezze a város lüktetését.",
+            "ro": "Admirați diversitatea arhitecturală și simțiți pulsul orașului.",
+            "en": "Admire the architectural diversity and feel the pulse of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus mit astronomischer Uhr",
+            "hu": "Városháza a csillagászati órával",
+            "ro": "Primăria cu Ceasul Astronomic",
+            "en": "Town Hall with Astronomical Clock"
+          },
+          "coords": [
+            17.2515,
+            49.5945
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:37",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie sich das Glockenspiel um 12:00 Uhr an, eine einzigartige Darstellung im Stil des sozialistischen Realismus.",
+            "hu": "Nézze meg a 12:00 órás harangjátékot, amely a szocialista realizmus egyedi ábrázolása.",
+            "ro": "Urmăriți spectacolul de la ora 12:00, o reprezentare unică în stilul realismului socialist.",
+            "en": "Catch the glockenspiel performance at 12:00 PM, a unique socialist-realism style display."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitssäule",
+            "hu": "Szentháromság-oszlop",
+            "ro": "Coloana Sfintei Treimi",
+            "en": "Holy Trinity Column"
+          },
+          "coords": [
+            17.2505,
+            49.5938
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:59",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieses UNESCO-Denkmal ist eines der größten barocken bildhauerischen Ensembles in Mitteleuropa.",
+            "hu": "Ez az UNESCO emlékmű Közép-Európa egyik legnagyobb barokk szobrászati együttese.",
+            "ro": "Acest monument UNESCO este unul dintre cele mai mari ansambluri sculpturale baroce din Europa Centrală.",
+            "en": "This UNESCO monument is one of the largest Baroque sculptural ensembles in Central Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzbischöflicher Palast",
+            "hu": "Érseki palota",
+            "ro": "Palatul Arhiepiscopal",
+            "en": "Archbishop's Palace"
+          },
+          "coords": [
+            17.257,
+            49.597
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die prachtvollen Innenräume zu sehen, in denen einst Kaiser und Könige wohnten.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megnézze a pazar belső tereket, ahol egykor császárok és királyok szálltak meg.",
+            "ro": "Participați la un tur ghidat pentru a vedea interioarele somptuoase unde au stat odinioară împărați și regi.",
+            "en": "Take a guided tour to see the lavish interiors that once hosted emperors and kings."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Wenzels-Dom",
+            "hu": "Szent Vencel-székesegyház",
+            "ro": "Catedrala Sfântul Wenceslas",
+            "en": "Saint Wenceslas Cathedral"
+          },
+          "coords": [
+            17.261,
+            49.598
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bestaunen Sie die neugotische Fassade und finden Sie die Krypta mit den Überresten der ursprünglichen romanischen Basilika.",
+            "hu": "Csodálja meg a neogótikus homlokzatot, és keresse meg a kriptát az eredeti román bazilika maradványaival.",
+            "ro": "Admirați fațada neogotică și găsiți cripta cu rămășițele bazilicii romanice originale.",
+            "en": "Marvel at the Neo-Gothic facade and find the crypt with the remains of the original Romanesque basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für moderne Kunst",
+            "hu": "Modern Művészeti Múzeum",
+            "ro": "Muzeul de Artă Modernă",
+            "en": "Museum of Modern Art"
+          },
+          "coords": [
+            17.247,
+            49.596
+          ],
+          "category": "museums",
+          "arrive_at": "13:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum bietet eine großartige Sammlung tschechischer Kunst des 20. Jahrhunderts. Perfekt für einen kulturellen Nachmittag.",
+            "hu": "A múzeum a 20. századi cseh művészet nagyszerű gyűjteményét kínálja. Tökéletes egy kulturális délutánhoz.",
+            "ro": "Muzeul oferă o colecție excelentă de artă cehă din secolul XX. Perfect pentru o după-amiază culturală.",
+            "en": "The museum offers a great collection of 20th-century Czech art. Perfect for a cultural afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Bezruč-Park (Bezručovy sady)",
+            "hu": "Bezruč Park (Bezručovy sady)",
+            "ro": "Parcul Bezruč (Bezručovy sady)",
+            "en": "Bezruč Park (Bezručovy sady)"
+          },
+          "coords": [
+            17.255,
+            49.59
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang entlang der mittelalterlichen Mauern und genießen Sie die ruhige Atmosphäre.",
+            "hu": "Tegyen egy pihentető sétát a középkori falak mentén, és élvezze a csendes légkört.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul zidurilor medievale și bucurați-vă de atmosfera liniștită.",
+            "en": "Take a relaxing stroll along the medieval walls and enjoy the quiet atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Olmütz beginnt auf dem belebten Oberen Platz, dem Herzen der Stadt, wo Sie die beeindruckende Dreifaltigkeitssäule und die einzigartige astronomische Uhr am Rathaus bewundern. Am Vormittag erkunden Sie die prächtigen Säle des Erzbischöflichen Palastes und die majestätische St.-Wenzels-Kathedrale, die von der reichen Geschichte der Stadt zeugen. Nach dem Mittagessen tauchen Sie im Museum für moderne Kunst in die tschechische Kultur ein, ein Kontrast zu den historischen Stätten. Der Tag endet mit einem erholsamen Spaziergang durch den ruhigen Bezruč-Park, ein perfekter Abschluss für Ihre Erkundungstour durch diese mährische Perle.",
+        "hu": "Olmützi napja a nyüzsgő Felső téren, a város szívében kezdődik, ahol megcsodálhatja a lenyűgöző Szentháromság-oszlopot és a városháza egyedi csillagászati óráját. Délelőtt felfedezi az Érseki Palota pompás termeit és a fenséges Szent Vencel-székesegyházat, amelyek a város gazdag történelméről tanúskodnak. Ebéd után a Modern Művészeti Múzeumban merül el a cseh kultúrában, amely kontrasztot képez a történelmi helyszínekkel. A napot egy pihentető séta zárja a békés Bezruč Parkban, amely tökéletes befejezése ennek a morva gyöngyszemnek a felfedezésének.",
+        "ro": "Ziua dvs. în Olomouc începe în Piața de Sus, inima orașului, unde veți admira impresionanta Coloană a Sfintei Treimi și ceasul astronomic unic de la Primărie. Dimineața explorați sălile magnifice ale Palatului Arhiepiscopal și Catedrala maiestuoasă Sfântul Wenceslas, mărturii ale istoriei bogate a orașului. După prânz, vă veți cufunda în cultura cehă la Muzeul de Artă Modernă, un contrast cu siturile istorice. Ziua se încheie cu o plimbare relaxantă prin liniștitul Parc Bezruč, o încheiere perfectă a explorării acestei bijuterii morave.",
+        "en": "Your day in Olomouc begins in the bustling Upper Square, the city's heart, where you'll admire the impressive Holy Trinity Column and the unique Astronomical Clock at the Town Hall. In the morning, you'll explore the magnificent halls of the Archbishop's Palace and the majestic Saint Wenceslas Cathedral, testaments to the city's rich history. After lunch, immerse yourself in Czech culture at the Museum of Modern Art, a contrast to the historical sites. The day concludes with a relaxing stroll through the tranquil Bezruč Park, a perfect end to your exploration of this Moravian gem."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Olomoucké tvarůžky",
+            "tip": "Probieren Sie den berühmten, würzigen Reifekäse. Ein Muss für Käseliebhaber, aber seien Sie auf das intensive Aroma vorbereitet!"
+          },
+          {
+            "name": "Hanácký koláč",
+            "tip": "Ein süßer Kuchen mit verschiedenen Füllungen wie Quark oder Mohn. Perfekt für eine Kaffeepause."
+          },
+          {
+            "name": "Moravský Vrabec",
+            "tip": "Ein traditionelles Gericht aus geröstetem Schweinefleisch mit Knödeln und Kraut, zu finden in vielen lokalen Restaurants."
+          },
+          {
+            "name": "Restaurant U Mořice",
+            "tip": "Genießen Sie authentische mährische Küche in einem historischen Gebäude mit eigener Brauerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olomoucké tvarůžky",
+            "tip": "Kóstolja meg a híres, fűszeres érlelt sajtot. A sajtok szerelmeseinek kötelező, de készüljön fel az intenzív aromára!"
+          },
+          {
+            "name": "Hanácký koláč",
+            "tip": "Édes sütemény különféle töltelékekkel, például túróval vagy mákkal. Tökéletes egy kávészünethez."
+          },
+          {
+            "name": "Moravský Vrabec",
+            "tip": "Hagyományos sült sertéshúsos étel knédlivel és káposztával, amelyet számos helyi étteremben megtalálhat."
+          },
+          {
+            "name": "U Mořice Étterem",
+            "tip": "Élvezze az autentikus morva konyhát egy történelmi épületben, saját sörfőzdével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Olomoucké tvarůžky",
+            "tip": "Încercați celebra brânză maturată și picantă. O necesitate pentru iubitorii de brânzeturi, dar fiți pregătiți pentru aroma sa intensă!"
+          },
+          {
+            "name": "Hanácký koláč",
+            "tip": "O prăjitură dulce cu diverse umpluturi, cum ar fi brânză de vaci sau mac. Perfectă pentru o pauză de cafea."
+          },
+          {
+            "name": "Moravský Vrabec",
+            "tip": "Un fel de mâncare tradițional din carne de porc prăjită cu găluște și varză, găsit în multe restaurante locale."
+          },
+          {
+            "name": "Restaurantul U Mořice",
+            "tip": "Bucurați-vă de bucătăria moravă autentică într-o clădire istorică cu propria sa fabrică de bere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olomoucké tvarůžky",
+            "tip": "Try the famous pungent, ripened cheese. A must for cheese lovers, but be prepared for its intense aroma!"
+          },
+          {
+            "name": "Hanácký koláč",
+            "tip": "A sweet cake with various fillings like curd or poppy seeds. Perfect for a coffee break."
+          },
+          {
+            "name": "Moravský Vrabec",
+            "tip": "A traditional dish of roasted pork with dumplings and cabbage, found in many local restaurants."
+          },
+          {
+            "name": "U Mořice Restaurant",
+            "tip": "Enjoy authentic Moravian cuisine in a historic building with its own brewery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bezruč-Park",
+            "tip": "Ein Spaziergang unter den alten Bäumen entlang der Stadtmauern ist der perfekte Weg, um dem Trubel zu entkommen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Etwas außerhalb des Zentrums gelegen, bietet er eine friedliche Oase der Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Teich",
+            "tip": "Finden Sie einen Platz in der Nähe eines der Teiche im Smetana-Park für einen malerischen Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innenhof des Erzbischöflichen Palastes",
+            "tip": "Nach der Tour finden Sie einen Moment der Ruhe im eleganten Innenhof.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bezruč Park",
+            "tip": "Egy séta az öreg fák alatt a városfalak mentén tökéletes módja a nyüzsgésből való kiszakadásnak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Kicsit a központon kívül található, a béke és nyugalom szigetét kínálja.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a tónál",
+            "tip": "Keressen egy helyet a Smetana Park tavainak egyikénél egy festői naplementéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az Érseki Palota udvara",
+            "tip": "A túra után találjon egy csendes pillanatot az elegáns udvaron.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Bezruč",
+            "tip": "O plimbare sub copacii bătrâni de-a lungul zidurilor orașului este modalitatea perfectă de a scăpa de agitație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Situată puțin în afara centrului, oferă o oază de pace și liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare la iaz",
+            "tip": "Găsiți un loc lângă unul dintre iazurile din Parcul Smetana pentru un apus de soare pitoresc.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Palatului Arhiepiscopal",
+            "tip": "După tur, găsiți un moment de liniște în curtea elegantă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bezruč Park",
+            "tip": "A walk under the old trees along the city walls is the perfect way to escape the hustle and bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "Located a bit outside the center, it offers a peaceful oasis of tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset by the pond",
+            "tip": "Find a spot near one of the ponds in Smetana Park for a picturesque sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Archbishop's Palace Courtyard",
+            "tip": "After the tour, find a moment of quiet in the elegant courtyard.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galerie Moritz",
+            "tip": "Ein modernes Einkaufszentrum im Herzen der Stadt für Mode und mehr."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie Ausschau nach saisonalen Märkten auf dem Oberen und Unteren Platz für lokale Produkte und Kunsthandwerk."
+          },
+          {
+            "name": "Tvarůžky-Geschäfte",
+            "tip": "Kaufen Sie den berühmten Olmützer Käse in spezialisierten Geschäften als einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galerie Moritz",
+            "tip": "Modern bevásárlóközpont a város szívében divatért és egyéb termékekért."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a szezonális piacokat a Felső és Alsó téren helyi termékekért és kézműves árukért."
+          },
+          {
+            "name": "Tvarůžky boltok",
+            "tip": "Vásárolja meg a híres olmützi sajtot speciális boltokban egyedi szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerie Moritz",
+            "tip": "Un centru comercial modern în inima orașului pentru modă și multe altele."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețele sezoniere din Piața de Sus și Piața de Jos pentru produse locale și artizanat."
+          },
+          {
+            "name": "Magazine Tvarůžky",
+            "tip": "Cumpărați celebra brânză de Olomouc din magazinele specializate ca suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galerie Moritz",
+            "tip": "A modern shopping center in the heart of the city for fashion and more."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Look for seasonal markets in the Upper and Lower Squares for local produce and crafts."
+          },
+          {
+            "name": "Tvarůžky Shops",
+            "tip": "Buy the famous Olomouc cheese from specialized shops as a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das historische Zentrum am besten zu Fuß erkundet wird und die Straßen gepflastert sind.",
+          "Die Olomouc Region Card bietet freien Eintritt zu vielen Sehenswürdigkeiten und kostenlose öffentliche Verkehrsmittel.",
+          "Viele Restaurants bieten mittags preiswerte Tagesmenüs an ('denní menu').",
+          "Verpassen Sie nicht die sechs barocken Brunnen, die über das Stadtzentrum verteilt sind und jeweils eine andere mythologische Figur darstellen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a történelmi központot a legjobb gyalog felfedezni, és az utcák macskakövesek.",
+          "Az Olomouc Region Card ingyenes belépést biztosít számos látnivalóhoz és ingyenes tömegközlekedést.",
+          "Sok étterem kínál kedvező árú ebédmenüt ('denní menu').",
+          "Ne hagyja ki a hat barokk szökőkutat, amelyek a városközpontban találhatók, mindegyik más mitológiai alakot ábrázol."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul istoric este cel mai bine explorat pe jos, iar străzile sunt pavate.",
+          "Cardul Regiunii Olomouc oferă intrare gratuită la multe atracții și transport public gratuit.",
+          "Multe restaurante oferă meniuri de prânz la prețuri avantajoase ('denní menu').",
+          "Nu ratați cele șase fântâni baroce răspândite în centrul orașului, fiecare reprezentând o figură mitologică diferită."
+        ],
+        "en": [
+          "Wear comfortable shoes as the historic center is best explored on foot and the streets are cobblestoned.",
+          "The Olomouc Region Card offers free admission to many attractions and free public transport.",
+          "Many restaurants offer affordable lunch menus ('denní menu') at noon.",
+          "Don't miss the six Baroque fountains scattered throughout the city center, each depicting a different mythological figure."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Oberer Platz",
+            "hu": "Felső tér",
+            "ro": "Piața de Sus",
+            "en": "Upper Square"
+          },
+          "coords": [
+            17.251,
+            49.594
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie hier, um die Atmosphäre aufzusaugen. Schließen Sie Ihr Rad ab und erkunden Sie die Umgebung.",
+            "hu": "Kezdje itt, hogy magába szívja a hangulatot. Zárja le a biciklijét és fedezze fel a környéket.",
+            "ro": "Începeți de aici pentru a absorbi atmosfera. Lăsați bicicleta și explorați zona înconjurătoare.",
+            "en": "Start here to soak in the atmosphere. Lock up your bike and explore the immediate area."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Astronomische Uhr",
+            "hu": "Városháza és Csillagászati Óra",
+            "ro": "Primăria și Ceasul Astronomic",
+            "en": "Town Hall & Astronomical Clock"
+          },
+          "coords": [
+            17.2515,
+            49.5945
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Platz entfernt. Planen Sie, um 12:00 Uhr für die Show zurück zu sein.",
+            "hu": "Csak egy rövid séta a térről. Tervezze úgy, hogy 12-re visszaér az előadásra.",
+            "ro": "La doar o scurtă plimbare de piață. Planificați să fiți înapoi la 12:00 pentru spectacol.",
+            "en": "Just a short walk from where you parked your bike. Plan to be back for the 12 PM show."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Wenzels-Dom",
+            "hu": "Szent Vencel-székesegyház",
+            "ro": "Catedrala Sfântul Wenceslas",
+            "en": "Saint Wenceslas Cathedral"
+          },
+          "coords": [
+            17.261,
+            49.598
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:54",
+          "stay_min": 35,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt zum Domhügel. Der Anblick der Türme ist die kleine Anstrengung wert.",
+            "hu": "Kellemes tekerés a székesegyház dombjára. A tornyok látványa megéri a kis erőfeszítést.",
+            "ro": "O plimbare plăcută până la dealul catedralei. Priveliștea turlelor merită micul efort.",
+            "en": "A pleasant ride to the cathedral hill. The sight of the spires is worth the small effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzbischöflicher Palast",
+            "hu": "Érseki palota",
+            "ro": "Palatul Arhiepiscopal",
+            "en": "Archbishop's Palace"
+          },
+          "coords": [
+            17.257,
+            49.597
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Gleich neben dem Dom. Hier können Sie eine längere Pause einlegen und Ihr Fahrrad sicher abstellen.",
+            "hu": "Közvetlenül a dóm mellett. Itt tarthat egy hosszabb szünetet, és biztonságosan leparkolhatja a biciklijét.",
+            "ro": "Chiar lângă catedrală. Puteți lua o pauză mai lungă aici și vă puteți parca bicicleta în siguranță.",
+            "en": "Right next to the cathedral. You can take a longer break here and park your bike securely."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Hradisko",
+            "hu": "Hradisko kolostor",
+            "ro": "Mănăstirea Hradisko",
+            "en": "Hradisko Monastery"
+          },
+          "coords": [
+            17.272,
+            49.605
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:44",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine längere, aber flache Fahrt entlang des Flusses führt zu diesem beeindruckenden Klosterkomplex.",
+            "hu": "Egy hosszabb, de sík út a folyó mentén vezet ehhez a lenyűgöző kolostorkomplexumhoz.",
+            "ro": "O plimbare mai lungă, dar plată, de-a lungul râului duce la acest complex mănăstiresc impresionant.",
+            "en": "A longer but flat ride along the river leads to this impressive monastery complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für moderne Kunst",
+            "hu": "Modern Művészeti Múzeum",
+            "ro": "Muzeul de Artă Modernă",
+            "en": "Museum of Modern Art"
+          },
+          "coords": [
+            17.247,
+            49.596
+          ],
+          "category": "museums",
+          "arrive_at": "13:44",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum für eine Dosis Kultur. In der Nähe gibt es Fahrradständer.",
+            "hu": "Tekerjen vissza a központba egy adag kultúráért. A közelben vannak kerékpártárolók.",
+            "ro": "Întoarceți-vă în centru pentru o doză de cultură. Există suporturi pentru biciclete în apropiere.",
+            "en": "Ride back towards the center for a dose of culture. Bike racks are available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Bezruč-Park",
+            "hu": "Bezruč Park",
+            "ro": "Parcul Bezruč",
+            "en": "Bezruč Park"
+          },
+          "coords": [
+            17.255,
+            49.59
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine entspannte Fahrt am Nachmittag. Die Wege sind gut für Fahrräder geeignet.",
+            "hu": "Tökéletes egy pihentető délutáni tekeréshez. Az ösvények kiválóan alkalmasak biciklizésre.",
+            "ro": "Perfect pentru o plimbare relaxantă de după-amiază. Căile sunt potrivite pentru biciclete.",
+            "en": "Perfect for a relaxing afternoon ride. The paths are well-suited for bikes."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitssäule zur goldenen Stunde",
+            "hu": "Szentháromság-oszlop az aranyórában",
+            "ro": "Coloana Sfintei Treimi la ora de aur",
+            "en": "Holy Trinity Column at Golden Hour"
+          },
+          "coords": [
+            17.2505,
+            49.5938
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:28",
+          "stay_min": 32,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kehren Sie zum Hauptplatz zurück, um die Säule im warmen Licht des späten Nachmittags zu sehen.",
+            "hu": "Térjen vissza a főtérre, hogy megnézze az oszlopot a késő délutáni meleg fényben.",
+            "ro": "Întoarceți-vă în piața principală pentru a vedea coloana în lumina caldă a după-amiezii târzii.",
+            "en": "Return to the main square to see the column in the warm late afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Olmütz beginnt auf dem historischen Oberen Platz. Von dort aus radeln Sie zur St.-Wenzels-Kathedrale und zum nahegelegenen Erzbischöflichen Palast. Eine längere, aber lohnende Fahrt führt Sie zum ruhigen Kloster Hradisko. Nach dem Mittagessen geht es zurück ins Zentrum, um im Museum für moderne Kunst in die Kultur einzutauchen. Der Nachmittag ist für eine entspannte Fahrt durch den grünen Bezruč-Park reserviert. Sie beenden den Tag, indem Sie zur Dreifaltigkeitssäule zurückkehren, um sie im magischen Licht der goldenen Stunde zu erleben.",
+        "hu": "Olmützi kerékpártúrája a történelmi Felső téren kezdődik. Innen a Szent Vencel-székesegyházhoz és a közeli Érseki Palotához teker. Egy hosszabb, de megérő út vezet a békés Hradisko kolostorhoz. Ebéd után visszatér a központba, hogy elmerüljön a kultúrában a Modern Művészeti Múzeumban. A délután egy pihentető tekerésre van fenntartva a zöld Bezruč Parkban. A napot a Szentháromság-oszlophoz való visszatéréssel zárja, hogy az aranyóra varázslatos fényében élvezhesse.",
+        "ro": "Turul dvs. cu bicicleta prin Olomouc începe în istorica Piață de Sus. De acolo, pedalați spre Catedrala Sfântul Wenceslas și Palatul Arhiepiscopal din apropiere. O plimbare mai lungă, dar care merită, vă duce la liniștita Mănăstire Hradisko. După prânz, vă întoarceți în centru pentru a vă cufunda în cultură la Muzeul de Artă Modernă. După-amiaza este rezervată pentru o plimbare relaxantă prin Parcul verde Bezruč. Încheiați ziua revenind la Coloana Sfintei Treimi pentru a o experimenta în lumina magică a orei de aur.",
+        "en": "Your bike tour of Olomouc starts in the historic Upper Square. From there, you'll cycle to Saint Wenceslas Cathedral and the nearby Archbishop's Palace. A longer but rewarding ride takes you to the tranquil Hradisko Monastery. After lunch, it's back to the center to immerse in culture at the Museum of Modern Art. The afternoon is reserved for a relaxing ride through the green Bezruč Park. You'll end the day by returning to the Holy Trinity Column to experience it in the magical light of the golden hour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pivní specials",
+            "tip": "Probieren Sie lokale Craft-Biere in Pubs wie dem 'Pivovar Moritz'."
+          },
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "Ein in Öl und Gewürzen eingelegter Camembert-Käse, der perfekte Snack zum Bier."
+          },
+          {
+            "name": "Bistro Nro 67",
+            "tip": "Ein modernes Bistro mit frischen, saisonalen Gerichten, ideal für ein schnelles und gesundes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pivní specials",
+            "tip": "Kóstoljon helyi kézműves söröket olyan pubokban, mint a 'Pivovar Moritz'."
+          },
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "Olajban és fűszerekben pácolt camembert sajt, tökéletes sörkorcsolya."
+          },
+          {
+            "name": "Bistro Nro 67",
+            "tip": "Modern bisztró friss, szezonális ételekkel, ideális egy gyors és egészséges ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pivní specials",
+            "tip": "Încercați beri artizanale locale în pub-uri precum 'Pivovar Moritz'."
+          },
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "O brânză Camembert marinată în ulei și condimente, gustarea perfectă la bere."
+          },
+          {
+            "name": "Bistro Nro 67",
+            "tip": "Un bistro modern cu mâncăruri proaspete, de sezon, ideal pentru un prânz rapid și sănătos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pivní specials",
+            "tip": "Try local craft beers in pubs like 'Pivovar Moritz'."
+          },
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "A pickled Camembert-style cheese marinated in oil and spices, the perfect beer snack."
+          },
+          {
+            "name": "Bistro Nro 67",
+            "tip": "A modern bistro with fresh, seasonal dishes, ideal for a quick and healthy lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer der March",
+            "tip": "Fahren Sie entlang des Flusses für eine friedliche Flucht aus der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Smetana-Park",
+            "tip": "Ein großer Park, perfekt für eine Pause im Schatten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht vom Domturm",
+            "tip": "Wenn Sie die Energie haben, steigen Sie hinauf für eine ruhige Aussicht über die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Morva folyó partja",
+            "tip": "Tekerjen a folyó mentén egy békés menekülésért a városból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Smetana Park",
+            "tip": "Nagy park, tökéletes egy árnyékos pihenőhöz."
+          },
+          {
+            "name": "Kilátás a dóm tornyából",
+            "tip": "Ha van energiája, másszon fel a csendes városi panorámáért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Morava",
+            "tip": "Pedalați de-a lungul râului pentru o evadare liniștită din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Smetana",
+            "tip": "Un parc mare, perfect pentru o pauză la umbră.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere din turnul catedralei",
+            "tip": "Dacă aveți energie, urcați pentru o priveliște liniștită asupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Morava Riverbank",
+            "tip": "Cycle along the river for a peaceful escape from the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Smetana Park",
+            "tip": "A large park perfect for taking a break in the shade.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Cathedral Tower",
+            "tip": "If you have the energy, climb up for a quiet view over the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Es gibt mehrere gut ausgestattete Fahrradgeschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Suchen Sie nach kleinen Geschäften, die lokale Produkte wie Honig, Wein und natürlich Tvarůžky verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Számos jól felszerelt kerékpárbolt található kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Keressen kis boltokat, amelyek helyi termékeket, például mézet, bort és természetesen Tvarůžky-t árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Există mai multe magazine de biciclete bine echipate pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Căutați magazine mici care vând produse locale precum miere, vin și, desigur, Tvarůžky."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "There are several well-equipped bike shops for any accessories or quick repairs."
+          },
+          {
+            "name": "Local Delicacies",
+            "tip": "Look for small shops selling local products like honey, wine, and of course, Tvarůžky."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Olmütz ist relativ flach, aber einige Steigungen zum Domhügel erfordern etwas Anstrengung.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders auf den Hauptplätzen.",
+          "Nutzen Sie die Radwege entlang des Flusses für sichere und malerische Routen.",
+          "Ein Helm wird empfohlen, ist aber nicht gesetzlich vorgeschrieben."
+        ],
+        "hu": [
+          "Olmütz viszonylag sík, de a dóm dombjára való feljutás némi erőfeszítést igényel.",
+          "Mindig zárja le jól a biciklijét, különösen a főtereken.",
+          "Használja a folyó menti kerékpárutakat a biztonságos és festői útvonalakért.",
+          "Sisak viselése ajánlott, de nem kötelező."
+        ],
+        "ro": [
+          "Olomouc este relativ plat, dar unele urcări spre dealul catedralei necesită un pic de efort.",
+          "Încuiați-vă întotdeauna bicicleta bine, mai ales în piețele principale.",
+          "Folosiți pistele de biciclete de-a lungul râului pentru rute sigure și pitorești.",
+          "Se recomandă casca, dar nu este obligatorie prin lege."
+        ],
+        "en": [
+          "Olomouc is relatively flat, but some inclines to the cathedral hill require a bit of effort.",
+          "Always lock your bike securely, especially in the main squares.",
+          "Utilize the bike paths along the river for safe and scenic routes.",
+          "A helmet is recommended, though not legally mandatory."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken Cluster Altstadt",
+            "hu": "Parkolás az Óváros klaszterben",
+            "ro": "Parcare în clusterul Orașul Vechi",
+            "en": "Parking at Old Town Cluster"
+          },
+          "coords": [
+            17.248,
+            49.593
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Palác' oder in der Nähe. Von hier aus erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon a 'Palác' parkolóházban vagy a közelben. Innen gyalog fedezze fel az első klasztert.",
+            "ro": "Parcați în parcarea 'Palác' sau în apropiere. De aici veți explora primul cluster pe jos.",
+            "en": "Park in the 'Palác' parking garage or nearby. You'll explore the first cluster on foot from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberer Platz & Rathaus",
+            "hu": "Felső tér és Városháza",
+            "ro": "Piața de Sus și Primăria",
+            "en": "Upper Square & Town Hall"
+          },
+          "coords": [
+            17.251,
+            49.594
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz. Bewundern Sie die Dreifaltigkeitssäule und die Uhr.",
+            "hu": "Rövid séta a parkolótól. Csodálja meg a Szentháromság-oszlopot és az órát.",
+            "ro": "O scurtă plimbare de la parcare. Admirați Coloana Sfintei Treimi și ceasul.",
+            "en": "A short walk from the parking. Admire the Trinity Column and the clock."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für moderne Kunst",
+            "hu": "Modern Művészeti Múzeum",
+            "ro": "Muzeul de Artă Modernă",
+            "en": "Museum of Modern Art"
+          },
+          "coords": [
+            17.247,
+            49.596
+          ],
+          "category": "museums",
+          "arrive_at": "10:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zurück in Richtung Parkplatz. Das Museum ist eine großartige Ergänzung zum historischen Platz.",
+            "hu": "Sétáljon vissza a parkoló irányába. A múzeum remek kiegészítője a történelmi térnek.",
+            "ro": "Întoarceți-vă spre parcare. Muzeul este o completare excelentă a pieței istorice.",
+            "en": "Walk back towards your parking. The museum is a great addition to the historic square."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Cluster Domhügel",
+            "hu": "Utazás a Dóm-domb klaszterhez",
+            "ro": "Deplasare către clusterul Dealul Catedralei",
+            "en": "Drive to Cathedral Hill Cluster"
+          },
+          "coords": [
+            17.26,
+            49.599
+          ],
+          "category": "transport",
+          "arrive_at": "12:06",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie eine kurze Strecke und finden Sie einen Parkplatz in der Nähe des Doms.",
+            "hu": "Vezessen egy rövid távot, és keressen parkolóhelyet a dóm közelében.",
+            "ro": "Conduceți pe o distanță scurtă și găsiți un loc de parcare lângă catedrală.",
+            "en": "Take a short drive and find parking near the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Wenzels-Dom & Erzbischöflicher Palast",
+            "hu": "Szent Vencel-székesegyház és Érseki palota",
+            "ro": "Catedrala Sf. Wenceslas și Palatul Arhiepiscopal",
+            "en": "St. Wenceslas Cathedral & Archbishop's Palace"
+          },
+          "coords": [
+            17.261,
+            49.598
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:11",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beiden benachbarten Wahrzeichen. Planen Sie hier auch eine Mittagspause ein.",
+            "hu": "Fedezze fel ezt a két szomszédos nevezetességet. Tervezzen itt egy ebédszünetet is.",
+            "ro": "Explorați aceste două repere adiacente. Planificați și o pauză de prânz aici.",
+            "en": "Explore these two adjacent landmarks. Plan for a lunch break here as well."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Cluster Hradisko",
+            "hu": "Utazás a Hradisko klaszterhez",
+            "ro": "Deplasare către clusterul Hradisko",
+            "en": "Drive to Hradisko Cluster"
+          },
+          "coords": [
+            17.272,
+            49.605
+          ],
+          "category": "transport",
+          "arrive_at": "14:23",
+          "stay_min": 0,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die letzte Fahrt des Tages führt Sie zu diesem historischen Kloster.",
+            "hu": "A nap utolsó útja ehhez a történelmi kolostorhoz vezet.",
+            "ro": "Ultima deplasare a zilei vă duce la această mănăstire istorică.",
+            "en": "The final drive of the day takes you to this historic monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Hradisko & Park",
+            "hu": "Hradisko kolostor és Park",
+            "ro": "Mănăstirea Hradisko și Parcul",
+            "en": "Hradisko Monastery & Park"
+          },
+          "coords": [
+            17.27,
+            49.604
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie das Äußere des Klosters und machen Sie dann einen Spaziergang in den nahegelegenen Parkanlagen.",
+            "hu": "Csodálja meg a kolostor külsejét, majd tegyen egy sétát a közeli parkokban.",
+            "ro": "Admirați exteriorul mănăstirii și apoi faceți o plimbare în parcurile din apropiere.",
+            "en": "Admire the monastery's exterior and then take a walk in the nearby parklands."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Olmütz ist in drei bequeme Cluster unterteilt. Sie beginnen mit dem Parken in der Nähe der Altstadt, um den Oberen Platz, das Rathaus und das Museum für moderne Kunst zu Fuß zu erkunden. Eine kurze Autofahrt bringt Sie dann zum Domhügel, wo Sie die St.-Wenzels-Kathedrale und den Erzbischöflichen Palast besichtigen. Die letzte Etappe führt Sie zum beeindruckenden Kloster Hradisko, wo Sie den Nachmittag mit einem Spaziergang ausklingen lassen können. Diese Methode maximiert die Besichtigungszeit und minimiert den Parkstress.",
+        "hu": "Olmützi autós napja három kényelmes klaszterre oszlik. Az Óváros közelében parkolva kezdi, hogy gyalog fedezze fel a Felső teret, a Városházát és a Modern Művészeti Múzeumot. Egy rövid autóút viszi a Dóm-dombra, ahol megnézheti a Szent Vencel-székesegyházat és az Érseki Palotát. Az utolsó szakasz a lenyűgöző Hradisko kolostorhoz vezet, ahol egy sétával zárhatja a délutánt. Ez a módszer maximalizálja a városnézésre szánt időt és minimalizálja a parkolási stresszt.",
+        "ro": "Ziua dvs. cu mașina în Olomouc este împărțită în trei clustere convenabile. Începeți prin a parca lângă Orașul Vechi pentru a explora pe jos Piața de Sus, Primăria și Muzeul de Artă Modernă. O scurtă călătorie cu mașina vă duce apoi la Dealul Catedralei pentru a vizita Catedrala Sf. Wenceslas și Palatul Arhiepiscopal. Ultima etapă vă duce la impresionanta Mănăstire Hradisko, unde vă puteți încheia după-amiaza cu o plimbare. Această metodă maximizează timpul de vizitare și minimizează stresul parcării.",
+        "en": "Your car day in Olomouc is divided into three convenient clusters. You start by parking near the Old Town to explore the Upper Square, Town Hall, and Museum of Modern Art on foot. A short drive then takes you to Cathedral Hill to visit St. Wenceslas Cathedral and the Archbishop's Palace. The final leg brings you to the impressive Hradisko Monastery, where you can conclude the afternoon with a walk. This method maximizes sightseeing time and minimizes parking stress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "U Mořice",
+            "tip": "Leicht mit dem Auto zu erreichen und bietet herzhafte mährische Küche."
+          },
+          {
+            "name": "Svatováclavský Pivovar",
+            "tip": "In der Nähe des Doms gelegen, perfekt für ein Mittagessen nach der Besichtigung. Hat Parkplätze."
+          },
+          {
+            "name": "Restaurace a penzion Archa",
+            "tip": "Ein wenig außerhalb des Zentrums, bekannt für seine exzellente Küche und ruhige Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "U Mořice",
+            "tip": "Könnyen megközelíthető autóval, és kiadós morva ételeket kínál."
+          },
+          {
+            "name": "Svatováclavský Pivovar",
+            "tip": "A dóm közelében található, tökéletes ebédre a városnézés után. Van parkolója."
+          },
+          {
+            "name": "Restaurace a penzion Archa",
+            "tip": "Kicsit a központon kívül, kiváló konyhájáról és csendes légköréről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "U Mořice",
+            "tip": "Ușor accesibil cu mașina și oferă bucătărie moravă consistentă."
+          },
+          {
+            "name": "Svatováclavský Pivovar",
+            "tip": "Situat lângă catedrală, perfect pentru prânz după vizitare. Are parcare."
+          },
+          {
+            "name": "Restaurace a penzion Archa",
+            "tip": "Puțin în afara centrului, cunoscut pentru bucătăria sa excelentă și atmosfera liniștită."
+          }
+        ],
+        "en": [
+          {
+            "name": "U Mořice",
+            "tip": "Easily accessible by car and offers hearty Moravian cuisine."
+          },
+          {
+            "name": "Svatováclavský Pivovar",
+            "tip": "Located near the cathedral, perfect for lunch after sightseeing. Has parking."
+          },
+          {
+            "name": "Restaurace a penzion Archa",
+            "tip": "A bit outside the center, known for its excellent cuisine and quiet atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Heilig-Geist-Kirche",
+            "tip": "Ein kurzer Abstecher zu dieser ruhigen Kirche und dem nahegelegenen Park.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fahrt entlang der March",
+            "tip": "Machen Sie eine malerische Fahrt entlang des Flusses, um die Landschaft zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt Svatý Kopeček (Heiliger Berg)",
+            "tip": "Eine kurze Autofahrt von der Stadt entfernt für eine atemberaubende Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szentlélek-templom",
+            "tip": "Rövid kitérő ehhez a csendes templomhoz és a közeli parkhoz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Autózás a Morva mentén",
+            "tip": "Tegyen egy festői utat a folyó mentén, hogy élvezze a tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Svatý Kopeček (Szent Hegy) kilátó",
+            "tip": "Rövid autóútra a várostól, lélegzetelállító kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sfântul Spirit",
+            "tip": "Un scurt ocol la această biserică liniștită și parcul din apropiere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare cu mașina pe malul Moravei",
+            "tip": "Faceți o plimbare pitorească de-a lungul râului pentru a vă bucura de peisaj.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere Svatý Kopeček (Muntele Sfânt)",
+            "tip": "La o scurtă distanță cu mașina de oraș pentru o priveliște uluitoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church of the Holy Spirit",
+            "tip": "A quick detour to this quiet church and nearby park.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Drive along the Morava",
+            "tip": "Take a scenic drive along the river to enjoy the landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Svatý Kopeček (Holy Hill) Viewpoint",
+            "tip": "A short drive out of the city for a breathtaking view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olympia Olomouc",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand, leicht mit dem Auto zu erreichen."
+          },
+          {
+            "name": "Bauernmärkte",
+            "tip": "Fahren Sie zu einem der Märkte am Stadtrand, um frische lokale Produkte zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olympia Olomouc",
+            "tip": "Nagy bevásárlóközpont a város szélén, autóval könnyen megközelíthető."
+          },
+          {
+            "name": "Termelői piacok",
+            "tip": "Vezessen ki a város szélén található piacok egyikére friss helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Olympia Olomouc",
+            "tip": "Un centru comercial mare la marginea orașului, ușor accesibil cu mașina."
+          },
+          {
+            "name": "Piețe agricole",
+            "tip": "Conduceți la una dintre piețele de la periferie pentru a cumpăra produse locale proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olympia Olomouc",
+            "tip": "A large shopping mall on the outskirts of the city, easily accessible by car."
+          },
+          {
+            "name": "Farmer's Markets",
+            "tip": "Drive to one of the markets on the city's edge to buy fresh local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Möglichkeiten am Stadtrand, um den Verkehr im Zentrum zu vermeiden.",
+          "Achten Sie auf Einbahnstraßen und Fußgängerzonen im historischen Zentrum.",
+          "Die Parkgebühren können im Zentrum hoch sein; Tagespauschalen in Parkhäusern sind oft günstiger.",
+          "Planen Sie zusätzliche Zeit für die Parkplatzsuche ein, besonders an Wochenenden."
+        ],
+        "hu": [
+          "Használja a P+R lehetőségeket a város szélén, hogy elkerülje a belvárosi forgalmat.",
+          "Vigyázzon az egyirányú utcákra és a sétálóövezetekre a történelmi központban.",
+          "A parkolási díjak magasak lehetnek a központban; a parkolóházak napidíjai gyakran olcsóbbak.",
+          "Tervezzen plusz időt a parkolóhely keresésére, különösen hétvégén."
+        ],
+        "ro": [
+          "Folosiți facilitățile Park and Ride de la periferia orașului pentru a evita traficul din centru.",
+          "Fiți atenți la străzile cu sens unic și zonele pietonale din centrul istoric.",
+          "Taxele de parcare pot fi mari în centru; tarifele zilnice din parcările multietajate sunt adesea mai ieftine.",
+          "Planificați timp suplimentar pentru găsirea unui loc de parcare, mai ales în weekend."
+        ],
+        "en": [
+          "Use Park and Ride facilities on the outskirts to avoid city center traffic.",
+          "Be mindful of one-way streets and pedestrian zones in the historic center.",
+          "Parking fees can be high in the center; daily rates in parking garages are often cheaper.",
+          "Plan extra time for finding a parking spot, especially on weekends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Hauptbahnhof",
+            "hu": "Érkezés a főpályaudvarra",
+            "ro": "Sosire la Gara Principală",
+            "en": "Arrival at Main Train Station"
+          },
+          "coords": [
+            17.278,
+            49.593
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie vom Hauptbahnhof eine Straßenbahn zum ersten Cluster in der Innenstadt (Haltestelle U Sv. Mořice).",
+            "hu": "A főpályaudvarról villamossal utazzon az első belvárosi klaszterhez (U Sv. Mořice megálló).",
+            "ro": "De la Gara Principală, luați un tramvai spre primul cluster din centrul orașului (stația U Sv. Mořice).",
+            "en": "From the main station, take a tram to the first cluster downtown (U Sv. Mořice stop)."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberer Platz & Dreifaltigkeitssäule",
+            "hu": "Felső tér és Szentháromság-oszlop",
+            "ro": "Piața de Sus și Coloana Sfintei Treimi",
+            "en": "Upper Square & Holy Trinity Column"
+          },
+          "coords": [
+            17.251,
+            49.594
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:28",
+          "stay_min": 50,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie aus und tauchen Sie direkt ins Herz von Olmütz ein. Das Rathaus ist ebenfalls hier.",
+            "hu": "Szálljon le és merüljön el Olmütz szívében. A városháza is itt található.",
+            "ro": "Coborâți și plonjați direct în inima orașului Olomouc. Primăria este, de asemenea, aici.",
+            "en": "Get off and dive straight into the heart of Olomouc. The Town Hall is here too."
+          }
+        },
+        {
+          "name": {
+            "de": "Bezruč-Park",
+            "hu": "Bezruč Park",
+            "ro": "Parcul Bezruč",
+            "en": "Bezruč Park"
+          },
+          "coords": [
+            17.255,
+            49.59
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Hauptplatz führt Sie zu dieser grünen Oase.",
+            "hu": "Kellemes séta a főtértől ehhez a zöld oázishoz.",
+            "ro": "O plimbare plăcută din piața principală vă duce la această oază verde.",
+            "en": "A pleasant walk from the main square takes you to this green oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Domhügel",
+            "hu": "Utazás a Dóm-dombra",
+            "ro": "Călătorie spre Dealul Catedralei",
+            "en": "Trip to Cathedral Hill"
+          },
+          "coords": [
+            17.261,
+            49.598
+          ],
+          "category": "transport",
+          "arrive_at": "11:51",
+          "stay_min": 0,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie eine Straßenbahn vom Stadtzentrum zur Haltestelle 'U Dómu'.",
+            "hu": "A városközpontból villamossal menjen az 'U Dómu' megállóig.",
+            "ro": "Luați un tramvai din centrul orașului până la stația 'U Dómu'.",
+            "en": "Take a tram from the city center to the 'U Dómu' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Wenzels-Dom & Erzbischöflicher Palast",
+            "hu": "Szent Vencel-székesegyház és Érseki palota",
+            "ro": "Catedrala Sf. Wenceslas și Palatul Arhiepiscopal",
+            "en": "St. Wenceslas Cathedral & Archbishop's Palace"
+          },
+          "coords": [
+            17.259,
+            49.598
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:54",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beide Hauptattraktionen sind nur einen kurzen Spaziergang von der Haltestelle entfernt. Ideal für eine längere Mittagspause.",
+            "hu": "Mindkét fő látványosság rövid sétára van a megállótól. Ideális egy hosszabb ebédszünetre.",
+            "ro": "Ambele atracții principale sunt la o scurtă plimbare de stație. Ideal pentru o pauză de prânz mai lungă.",
+            "en": "Both main attractions are a short walk from the stop. Ideal for a longer lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für moderne Kunst",
+            "hu": "Modern Művészeti Múzeum",
+            "ro": "Muzeul de Artă Modernă",
+            "en": "Museum of Modern Art"
+          },
+          "coords": [
+            17.247,
+            49.596
+          ],
+          "category": "museums",
+          "arrive_at": "14:24",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang zurück in Richtung Zentrum führt Sie zu Ihrem letzten Halt für den Tag.",
+            "hu": "Egy séta vissza a központ felé elvezeti Önt a nap utolsó állomásához.",
+            "ro": "O plimbare înapoi spre centru vă duce la ultima oprire a zilei.",
+            "en": "A walk back towards the center brings you to your last stop for the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den effizienten Straßenbahnen von Olmütz ist die Erkundung der Stadt ein Kinderspiel. Vom Hauptbahnhof aus fahren Sie ins Zentrum, um den Oberen Platz zu erleben, gefolgt von einem Spaziergang zum Bezruč-Park. Eine weitere kurze Straßenbahnfahrt bringt Sie zum Domhügel, wo Sie die Kathedrale und den Palast erkunden können. Der Tag endet mit einem Spaziergang zum Museum für moderne Kunst, bevor Sie bequem mit der Straßenbahn zum Bahnhof zurückkehren. Diese Reiseroute verbindet die wichtigsten Sehenswürdigkeiten nahtlos mit der Bequemlichkeit des öffentlichen Nahverkehrs.",
+        "hu": "Olmütz hatékony villamosaival a város felfedezése gyerekjáték. A főpályaudvarról a központba utazik, hogy megtapasztalja a Felső teret, majd sétáljon a Bezruč Parkba. Egy másik rövid villamosút elviszi a Dóm-dombra, ahol felfedezheti a székesegyházat és a palotát. A nap a Modern Művészeti Múzeumhoz tett sétával zárul, mielőtt kényelmesen visszatérne a pályaudvarra villamossal. Ez az útiterv zökkenőmentesen ötvözi a főbb látnivalókat a tömegközlekedés kényelmével.",
+        "ro": "Explorarea Olomouc este o joacă de copil cu tramvaiele sale eficiente. De la gara principală, călătoriți în centru pentru a experimenta Piața de Sus, urmată de o plimbare până la Parcul Bezruč. O altă scurtă călătorie cu tramvaiul vă duce la Dealul Catedralei pentru a explora catedrala și palatul. Ziua se încheie cu o plimbare la Muzeul de Artă Modernă, înainte de a vă întoarce convenabil la gară cu tramvaiul. Acest itinerar îmbină perfect atracțiile majore cu confortul transportului public.",
+        "en": "Exploring Olomouc is a breeze with its efficient trams. From the main train station, you'll travel to the center to experience the Upper Square, followed by a walk to Bezruč Park. Another short tram ride takes you to Cathedral Hill to explore the cathedral and palace. The day concludes with a walk to the Museum of Modern Art before conveniently returning to the station by tram. This itinerary seamlessly blends major sights with the convenience of public transport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Street Food Stände",
+            "tip": "In der Nähe der Straßenbahnhaltestellen im Zentrum finden Sie oft Stände, die schnelle und leckere Snacks verkaufen."
+          },
+          {
+            "name": "Restaurace Drápal",
+            "tip": "Ein klassisches tschechisches Restaurant, das bei Einheimischen beliebt ist und leicht mit öffentlichen Verkehrsmitteln zu erreichen ist."
+          },
+          {
+            "name": "Kafec",
+            "tip": "Ein großartiger Ort für Frühstück oder Kaffee, bevor Sie Ihre Erkundungstour beginnen, in der Nähe mehrerer Haltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai ételstandok",
+            "tip": "A belvárosi villamosmegállók közelében gyakran talál standokat, amelyek gyors és finom falatokat árulnak."
+          },
+          {
+            "name": "Restaurace Drápal",
+            "tip": "Klasszikus cseh étterem, amely a helyiek körében népszerű és tömegközlekedéssel könnyen megközelíthető."
+          },
+          {
+            "name": "Kafec",
+            "tip": "Nagyszerű hely reggelire vagy kávéra a felfedezés megkezdése előtt, több megálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Standuri de mâncare stradală",
+            "tip": "Lângă stațiile de tramvai din centru veți găsi adesea standuri care vând gustări rapide și delicioase."
+          },
+          {
+            "name": "Restaurace Drápal",
+            "tip": "Un restaurant ceh clasic, popular printre localnici și ușor accesibil cu transportul public."
+          },
+          {
+            "name": "Kafec",
+            "tip": "Un loc minunat pentru micul dejun sau o cafea înainte de a începe explorarea, aproape de mai multe stații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street Food Stalls",
+            "tip": "Near the tram stops in the center, you'll often find stalls selling quick and delicious snacks."
+          },
+          {
+            "name": "Restaurace Drápal",
+            "tip": "A classic Czech restaurant popular with locals and easily accessible by public transport."
+          },
+          {
+            "name": "Kafec",
+            "tip": "A great spot for breakfast or coffee before you start your exploration, close to several stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche St. Michael",
+            "tip": "Eine weitere schöne Kirche, die oft ruhiger ist als der Dom.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fahrt in die Vororte",
+            "tip": "Nehmen Sie eine Straßenbahn in einen der grüneren Vororte für einen Einblick in das lokale Leben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lesesäle der Forschungsbibliothek",
+            "tip": "Ein ungewöhnlicher, aber sehr ruhiger Ort, um sich für eine Weile zurückzuziehen.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Mihály-templom",
+            "tip": "Egy másik gyönyörű templom, amely gyakran csendesebb, mint a dóm."
+          },
+          {
+            "name": "Utazás a külvárosba",
+            "tip": "Menjen villamossal az egyik zöldebb külvárosba, hogy bepillantást nyerjen a helyi életbe."
+          },
+          {
+            "name": "A Kutatókönyvtár olvasótermei",
+            "tip": "Szokatlan, de nagyon csendes hely egy kis időre való elvonuláshoz."
+          },
+          {
+            "name": "A Tudományos Könyvtár olvasótermei",
+            "tip": "Szokatlan, de nagyon csendes hely egy kis időre való elvonuláshoz.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sf. Mihail",
+            "tip": "O altă biserică frumoasă, adesea mai liniștită decât catedrala.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Călătorie în suburbii",
+            "tip": "Luați un tramvai spre una dintre suburbiile mai verzi pentru o privire asupra vieții locale."
+          },
+          {
+            "name": "Sălile de lectură ale Bibliotecii de Cercetare",
+            "tip": "Un loc neobișnuit, dar foarte liniștit pentru a vă retrage pentru o vreme.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Michael's Church",
+            "tip": "Another beautiful church that is often quieter than the cathedral.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ride to the suburbs",
+            "tip": "Take a tram to one of the greener suburbs for a glimpse of local life.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reading Rooms of the Research Library",
+            "tip": "An unusual but very quiet place to retreat for a while.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Šantovka Galerie",
+            "tip": "Ein großes Einkaufszentrum, das mit einer speziellen Straßenbahnlinie direkt vom Stadtzentrum aus erreichbar ist."
+          },
+          {
+            "name": "Unterer Platz (Dolní náměstí)",
+            "tip": "Oft finden hier kleinere Märkte und es gibt viele einzigartige Geschäfte in den Seitenstraßen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Šantovka Galéria",
+            "tip": "Nagy bevásárlóközpont, amely egy külön villamosvonallal közvetlenül a városközpontból érhető el."
+          },
+          {
+            "name": "Alsó tér (Dolní náměstí)",
+            "tip": "Gyakran tartanak itt kisebb piacokat, és az oldalsó utcákban sok egyedi bolt található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Šantovka",
+            "tip": "Un centru comercial mare accesibil cu o linie specială de tramvai direct din centrul orașului."
+          },
+          {
+            "name": "Piața de Jos (Dolní náměstí)",
+            "tip": "Adesea găzduiește piețe mai mici și există multe magazine unice pe străzile laterale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Šantovka Gallery",
+            "tip": "A large shopping mall accessible by a dedicated tram line directly from the city center."
+          },
+          {
+            "name": "Lower Square (Dolní náměstí)",
+            "tip": "Often hosts smaller markets and there are many unique shops in the side streets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte (24-Stunden-Ticket), die für alle Straßenbahnen und Busse gültig ist.",
+          "Validieren Sie Ihr Ticket in der Entwertungsmaschine, sobald Sie in die Straßenbahn einsteigen.",
+          "Die Linienpläne sind an jeder Haltestelle deutlich ausgehängt.",
+          "Die App 'IDOS' ist sehr nützlich für die Planung von Routen mit öffentlichen Verkehrsmitteln in Echtzeit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet (24 órás jegyet), amely minden villamosra és buszra érvényes.",
+          "Érvényesítse a jegyét a villamosra való felszálláskor a jegykezelő gépben.",
+          "A menetrendek minden megállóban jól láthatóan ki vannak függesztve.",
+          "Az 'IDOS' alkalmazás nagyon hasznos a tömegközlekedési útvonalak valós idejű tervezéséhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi (bilet de 24 de ore), care este valabil pentru toate tramvaiele și autobuzele.",
+          "Validați biletul în aparatul de validare imediat ce urcați în tramvai.",
+          "Orarele sunt afișate clar la fiecare stație.",
+          "Aplicația 'IDOS' este foarte utilă pentru planificarea rutelor de transport public în timp real."
+        ],
+        "en": [
+          "Buy a one-day pass (24-hour ticket), which is valid on all trams and buses.",
+          "Validate your ticket in the validation machine as soon as you board the tram.",
+          "Line maps are clearly displayed at every stop.",
+          "The 'IDOS' app is very useful for planning public transport routes in real-time."
+        ]
+      }
+    }
+  }
+}

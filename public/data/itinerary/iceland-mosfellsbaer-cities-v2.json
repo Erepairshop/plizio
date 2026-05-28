@@ -1,0 +1,1345 @@
+{
+  "city_id": "iceland-mosfellsbaer-cities-v2",
+  "anchor": {
+    "name": "Mosfellsbær",
+    "coords": [
+      -21.7167,
+      64.1667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Álafosskvos - Das Wollviertel",
+            "hu": "Álafosskvos - A gyapjúnegyed",
+            "ro": "Álafosskvos - Cartierul lânii",
+            "en": "Álafosskvos - The Wool Quarter"
+          },
+          "coords": [
+            -21.698,
+            64.168
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die alten Fabrikläden, in denen noch heute isländische Wolle verarbeitet wird.",
+            "hu": "Nézze meg a régi gyárboltokat, ahol ma is feldolgozzák az izlandi gyapjút.",
+            "ro": "Vizitați vechile magazine din fabrică unde lâna islandeză este procesată și astăzi.",
+            "en": "Visit the old factory stores where Icelandic wool is still processed today."
+          }
+        },
+        {
+          "name": {
+            "de": "Álafoss Wasserfall",
+            "hu": "Álafoss-vízesés",
+            "ro": "Cascada Álafoss",
+            "en": "Álafoss Waterfall"
+          },
+          "coords": [
+            -21.697,
+            64.1685
+          ],
+          "category": "natural features",
+          "arrive_at": "10:12",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kleiner, aber charmanter Wasserfall, der das Herz des Viertels bildet.",
+            "hu": "Egy kicsi, de bájos vízesés, amely a negyed szívét képezi.",
+            "ro": "O cascadă mică, dar fermecătoare, care este inima cartierului.",
+            "en": "A small but charming waterfall that is the heart of the district."
+          }
+        },
+        {
+          "name": {
+            "de": "Mosfellskirkja",
+            "hu": "Mosfellskirkja templom",
+            "ro": "Biserica Mosfellskirkja",
+            "en": "Mosfellskirkja Church"
+          },
+          "coords": [
+            -21.708,
+            64.165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Genießen Sie die Stille und die schlichte Schönheit dieser typisch isländischen Kirche.",
+            "hu": "Élvezze a csendet és ennek a tipikus izlandi templomnak az egyszerű szépségét.",
+            "ro": "Bucurați-vă de liniștea și frumusețea simplă a acestei biserici tipic islandeze.",
+            "en": "Enjoy the silence and simple beauty of this typical Icelandic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            -21.716,
+            64.166
+          ],
+          "category": "gastro",
+          "arrive_at": "12:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Probieren Sie eine herzhafte Kjötsúpa (Lamm-Suppe) in einem der örtlichen Bistros.",
+            "hu": "Kóstoljon meg egy kiadós Kjötsúpát (báránylevest) az egyik helyi bisztróban.",
+            "ro": "Încercați o Kjötsúpa (supă de miel) consistentă la unul dintre bistrourile locale.",
+            "en": "Try a hearty Kjötsúpa (lamb soup) at one of the local bistros."
+          }
+        },
+        {
+          "name": {
+            "de": "Lágafellslaug Geothermalbad",
+            "hu": "Lágafellslaug geotermikus fürdő",
+            "ro": "Piscina geotermală Lágafellslaug",
+            "en": "Lágafellslaug Geothermal Pool"
+          },
+          "coords": [
+            -21.69,
+            64.172
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:52",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den Hot Pots unter freiem Himmel – ein authentisches isländisches Erlebnis.",
+            "hu": "Pihenjen a szabadtéri forróvizes medencékben – egy igazi izlandi élmény.",
+            "ro": "Relaxați-vă în piscinele fierbinți în aer liber - o experiență islandeză autentică.",
+            "en": "Relax in the outdoor hot pots – an authentic Icelandic experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im kreativen Herzen von Mosfellsbær, dem Wollviertel Álafosskvos. Nach der Erkundung des charmanten Wasserfalls führt Sie ein Spaziergang zur stillen Mosfellskirkja. Gegen Mittag stärken Sie sich mit einer traditionellen isländischen Suppe im Zentrum. Der Nachmittag steht ganz im Zeichen der Entspannung: Tauchen Sie ein in die warmen Wasser des geothermischen Bades Lágafellslaug und lassen Sie die Seele baumeln, umgeben von der isländischen Landschaft.",
+        "hu": "Kezdje a napot Mosfellsbær kreatív szívében, az Álafosskvos gyapjúnegyedben. A bájos vízesés felfedezése után egy séta a csendes Mosfellskirkja templomhoz vezet. Dél körül erősítse meg magát egy hagyományos izlandi levessel a központban. A délután a pihenésé: merüljön el a Lágafellslaug geotermikus fürdő meleg vizében, és lazítson az izlandi táj ölelésében.",
+        "ro": "Începeți ziua în inima creativă a orașului Mosfellsbær, cartierul de lână Álafosskvos. După explorarea cascadei fermecătoare, o plimbare vă duce la liniștita biserică Mosfellskirkja. La prânz, vă puteți întări cu o supă tradițională islandeză în centru. După-amiaza este dedicată relaxării: scufundați-vă în apele calde ale piscinei geotermale Lágafellslaug și relaxați-vă, înconjurat de peisajul islandez.",
+        "en": "Start your day in the creative heart of Mosfellsbær, the Álafosskvos wool district. After exploring the charming waterfall, a walk takes you to the quiet Mosfellskirkja church. At noon, fortify yourself with a traditional Icelandic soup in the center. The afternoon is all about relaxation: immerse yourself in the warm waters of the Lágafellslaug geothermal pool and unwind, surrounded by the Icelandic landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kjötsúpa",
+            "tip": "Eine traditionelle isländische Lamm-Suppe, perfekt zum Aufwärmen."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Probieren Sie den cremigen, proteinreichen isländischen Joghurt, oft mit Beeren serviert."
+          },
+          {
+            "name": "Lokales Handwerksbier",
+            "tip": "Viele kleine Brauereien bieten einzigartige Biere an, die Sie in örtlichen Bars finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kjötsúpa",
+            "tip": "Hagyományos izlandi bárányleves, tökéletes felmelegedéshez."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Kóstolja meg a krémes, fehérjében gazdag izlandi joghurtot, gyakran bogyós gyümölcsökkel tálalva."
+          },
+          {
+            "name": "Helyi kézműves sör",
+            "tip": "Sok kis sörfőzde kínál egyedi söröket, amelyeket a helyi bárokban talál meg."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kjötsúpa",
+            "tip": "O supă tradițională islandeză de miel, perfectă pentru a te încălzi."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Încercați iaurtul islandez cremos, bogat în proteine, adesea servit cu fructe de pădure."
+          },
+          {
+            "name": "Berea artizanală locală",
+            "tip": "Multe mici berării oferă beri unice, pe care le puteți găsi în barurile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kjötsúpa",
+            "tip": "A traditional Icelandic lamb soup, perfect for warming up."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Try the creamy, protein-rich Icelandic yogurt, often served with berries."
+          },
+          {
+            "name": "Local Craft Beer",
+            "tip": "Many small breweries offer unique beers that you can find in local bars."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang des Flusses Varmá",
+            "tip": "Ein ruhiger Weg, der durch die Stadt führt und friedliche Momente bietet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel bei der Mosfellskirkja",
+            "tip": "Ein friedlicher Ort mit schöner Aussicht auf die Umgebung.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Varmá folyó mentén",
+            "tip": "Egy csendes ösvény, amely a városon keresztül vezet és békés pillanatokat kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Domb a Mosfellskirkja mellett",
+            "tip": "Békés hely, szép kilátással a környékre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul râului Varmá",
+            "tip": "O potecă liniștită care traversează orașul, oferind momente de pace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul de lângă Biserica Mosfellskirkja",
+            "tip": "Un loc pașnic cu o priveliște frumoasă asupra împrejurimilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Varmá river",
+            "tip": "A quiet path that runs through the town, offering peaceful moments.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hill by Mosfellskirkja Church",
+            "tip": "A peaceful spot with a nice view of the surroundings.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Álafoss Wolladen",
+            "tip": "Kaufen Sie authentische isländische Pullover (Lopapeysa) und Wolldecken direkt von der Quelle."
+          },
+          {
+            "name": "Lokale Kunstgalerien",
+            "tip": "Entdecken Sie Werke von Künstlern, die von der isländischen Natur inspiriert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Álafoss gyapjúbolt",
+            "tip": "Vásároljon autentikus izlandi pulóvereket (Lopapeysa) és gyapjútakarókat közvetlenül a forrásból."
+          },
+          {
+            "name": "Helyi művészeti galériák",
+            "tip": "Fedezze fel az izlandi természet által inspirált művészek alkotásait."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de lână Álafoss",
+            "tip": "Cumpărați pulovere islandeze autentice (Lopapeysa) și pături de lână direct de la sursă."
+          },
+          {
+            "name": "Galerii de artă locale",
+            "tip": "Descoperiți lucrări ale artiștilor inspirați de natura islandeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Álafoss Wool Store",
+            "tip": "Buy authentic Icelandic sweaters (Lopapeysa) and wool blankets directly from the source."
+          },
+          {
+            "name": "Local Art Galleries",
+            "tip": "Discover works by artists inspired by Icelandic nature."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme, wasserdichte Schuhe, da das Wetter schnell wechseln kann.",
+          "Ein leichter Spaziergang ist ideal, um die Details des Álafoss-Viertels zu entdecken.",
+          "Nehmen Sie unbedingt Badekleidung für das geothermische Bad mit.",
+          "Prüfen Sie die Öffnungszeiten der Kirche, da sie manchmal für Veranstaltungen geschlossen ist."
+        ],
+        "hu": [
+          "Viseljen kényelmes, vízálló cipőt, mivel az időjárás gyorsan változhat.",
+          "Egy könnyű séta ideális az Álafoss negyed részleteinek felfedezéséhez.",
+          "Feltétlenül vigyen magával fürdőruhát a geotermikus fürdőbe.",
+          "Ellenőrizze a templom nyitvatartási idejét, mert néha rendezvények miatt zárva van."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă și impermeabilă, deoarece vremea se poate schimba rapid.",
+          "O plimbare ușoară este ideală pentru a descoperi detaliile cartierului Álafoss.",
+          "Asigurați-vă că aduceți un costum de baie pentru piscina geotermală.",
+          "Verificați programul de funcționare al bisericii, deoarece uneori este închisă pentru evenimente."
+        ],
+        "en": [
+          "Wear comfortable, waterproof shoes as the weather can change quickly.",
+          "A light walk is ideal for discovering the details of the Álafoss district.",
+          "Be sure to bring a swimsuit for the geothermal pool.",
+          "Check the church's opening hours, as it is sometimes closed for events."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start",
+            "hu": "Kerékpárkölcsönzés és indulás",
+            "ro": "Închiriere de biciclete și start",
+            "en": "Bike Rental & Start"
+          },
+          "coords": [
+            -21.7167,
+            64.1667
+          ],
+          "category": "service",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein robustes Fahrrad, das auch für leichte Schotterwege geeignet ist.",
+            "hu": "Béreljen egy masszív kerékpárt, amely enyhe murvás utakra is alkalmas.",
+            "ro": "Închiriați o bicicletă robustă, potrivită și pentru drumuri cu pietriș ușor.",
+            "en": "Rent a sturdy bike that is also suitable for light gravel paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Álafosskvos & Wasserfall",
+            "hu": "Álafosskvos és vízesés",
+            "ro": "Álafosskvos și cascada",
+            "en": "Álafosskvos & Waterfall"
+          },
+          "coords": [
+            -21.698,
+            64.168
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie das historische Wollviertel zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel a történelmi gyapjúnegyedet gyalog.",
+            "ro": "Parcați bicicleta și explorați cartierul istoric al lânii pe jos.",
+            "en": "Park your bike and explore the historic wool district on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Gljúfrasteinn - Haus von Halldór Laxness",
+            "hu": "Gljúfrasteinn - Halldór Laxness háza",
+            "ro": "Gljúfrasteinn - Casa lui Halldór Laxness",
+            "en": "Gljúfrasteinn - Home of Halldór Laxness"
+          },
+          "coords": [
+            -21.62,
+            64.18
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Ein Muss für Literaturliebhaber. Das Haus ist so erhalten, wie der Nobelpreisträger es verlassen hat.",
+            "hu": "Irodalomkedvelőknek kötelező. A ház úgy maradt meg, ahogyan a Nobel-díjas író elhagyta.",
+            "ro": "O vizită obligatorie pentru iubitorii de literatură. Casa este păstrată așa cum a lăsat-o laureatul Nobel.",
+            "en": "A must-see for literature lovers. The house is preserved as the Nobel laureate left it."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe von Gljúfrasteinn",
+            "hu": "Ebéd Gljúfrasteinn közelében",
+            "ro": "Prânz lângă Gljúfrasteinn",
+            "en": "Lunch near Gljúfrasteinn"
+          },
+          "coords": [
+            -21.625,
+            64.178
+          ],
+          "category": "gastro",
+          "arrive_at": "12:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kleines Café in der Nähe bietet leichte Mahlzeiten und einen schönen Blick auf den Fluss.",
+            "hu": "A közeli kis kávézó könnyű ételeket és szép kilátást kínál a folyóra.",
+            "ro": "O mică cafenea din apropiere oferă mese ușoare și o priveliște frumoasă la râu.",
+            "en": "A small café nearby offers light meals and a nice view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Laxnes Pferdefarm",
+            "hu": "Laxnes lovasfarm",
+            "ro": "Ferma de cai Laxnes",
+            "en": "Laxnes Horse Farm"
+          },
+          "coords": [
+            -21.66,
+            64.155
+          ],
+          "category": "natural features",
+          "arrive_at": "14:06",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Auch wenn Sie nicht reiten, ist es faszinierend, die berühmten Islandpferde aus der Nähe zu sehen.",
+            "hu": "Még ha nem is lovagol, lenyűgöző látni a híres izlandi lovakat közelről.",
+            "ro": "Chiar dacă nu călăriți, este fascinant să vedeți faimoșii cai islandezi de aproape.",
+            "en": "Even if you don't ride, it's fascinating to see the famous Icelandic horses up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung im Lágafellslaug",
+            "hu": "Pihenés a Lágafellslaugban",
+            "ro": "Relaxare la Lágafellslaug",
+            "en": "Relaxation at Lágafellslaug"
+          },
+          "coords": [
+            -21.69,
+            64.172
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:26",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss einer Radtour: Lockern Sie Ihre Muskeln in den warmen Pools.",
+            "hu": "Egy kerékpártúra tökéletes befejezése: lazítsa el izmait a meleg medencékben.",
+            "ro": "Finalul perfect pentru un tur cu bicicleta: relaxați-vă mușchii în piscinele calde.",
+            "en": "The perfect end to a bike tour: loosen your muscles in the warm pools."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie Ihre Erkundungstour in Richtung des kreativen Álafoss-Viertels. Von dort führt die Route Sie weiter zum historischen Gljúfrasteinn, dem ehemaligen Wohnhaus des Nobelpreisträgers Halldór Laxness. Nach einer literarischen Pause und einem leichten Mittagessen geht es zur berühmten Laxnes Pferdefarm. Hier können Sie die robusten Islandpferde bewundern. Den krönenden Abschluss Ihrer Radtour bildet ein entspannendes Bad in den geothermischen Pools von Lágafellslaug.",
+        "hu": "Pattanjon kerékpárra, és induljon felfedezőútra a kreatív Álafoss negyed felé. Onnan az útvonal a történelmi Gljúfrasteinn-hez, Halldór Laxness Nobel-díjas író egykori otthonához vezet. Egy irodalmi szünet és egy könnyű ebéd után irány a híres Laxnes lovasfarm. Itt megcsodálhatja a szívós izlandi lovakat. A kerékpártúra megkoronázása egy pihentető fürdőzés a Lágafellslaug geotermikus medencéiben.",
+        "ro": "Urcați-vă pe bicicletă și începeți explorarea spre cartierul creativ Álafoss. De acolo, traseul vă duce mai departe la istoricul Gljúfrasteinn, fosta casă a laureatului Nobel Halldór Laxness. După o pauză literară și un prânz ușor, mergeți la faimoasa fermă de cai Laxnes. Aici puteți admira caii islandezi robuști. Turul cu bicicleta se încheie în stil mare cu o baie relaxantă în piscinele geotermale de la Lágafellslaug.",
+        "en": "Get on your bike and start your exploration towards the creative Álafoss district. From there, the route takes you further to the historic Gljúfrasteinn, the former home of Nobel laureate Halldór Laxness. After a literary break and a light lunch, head to the famous Laxnes Horse Farm. Here you can admire the sturdy Icelandic horses. The crowning glory of your bike tour is a relaxing dip in the geothermal pools of Lágafellslaug."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pylsur",
+            "tip": "Der isländische Hotdog ist ein beliebter und schneller Snack, probieren Sie ihn 'eina með öllu' (einen mit allem)."
+          },
+          {
+            "name": "Harðfiskur",
+            "tip": "Getrockneter Fisch mit Butter, ein nahrhafter und traditioneller Snack für unterwegs."
+          },
+          {
+            "name": "Rúgbrauð",
+            "tip": "Dunkles, süßliches Roggenbrot, das oft in geothermischer Hitze gebacken wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pylsur",
+            "tip": "Az izlandi hot dog népszerű és gyors harapnivaló, próbálja ki „eina með öllu” (egyet mindennel)."
+          },
+          {
+            "name": "Harðfiskur",
+            "tip": "Szárított hal vajjal, tápláló és hagyományos útközbeni snack."
+          },
+          {
+            "name": "Rúgbrauð",
+            "tip": "Sötét, édeskés rozskenyér, amelyet gyakran geotermikus hőben sütnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pylsur",
+            "tip": "Hotdog-ul islandez este o gustare populară și rapidă, încercați-l 'eina með öllu' (unul cu de toate)."
+          },
+          {
+            "name": "Harðfiskur",
+            "tip": "Pește uscat cu unt, o gustare hrănitoare și tradițională pentru drum."
+          },
+          {
+            "name": "Rúgbrauð",
+            "tip": "Pâine de secară închisă la culoare, dulceagă, adesea coaptă în căldură geotermală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pylsur",
+            "tip": "The Icelandic hot dog is a popular and quick snack, try it 'eina með öllu' (one with everything)."
+          },
+          {
+            "name": "Harðfiskur",
+            "tip": "Dried fish with butter, a nutritious and traditional on-the-go snack."
+          },
+          {
+            "name": "Rúgbrauð",
+            "tip": "Dark, sweet rye bread, often baked in geothermal heat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Kaldakvísl",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer auf dem Weg nach Gljúfrasteinn.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel hinter Gljúfrasteinn",
+            "tip": "Ein kurzer Anstieg bietet eine weite Aussicht und absolute Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Kaldakvísl folyó partja",
+            "tip": "Találjon egy csendes helyet a folyóparton a Gljúfrasteinn felé vezető úton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Domb Gljúfrasteinn mögött",
+            "tip": "Egy rövid emelkedő tágas kilátást és teljes csendet kínál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Kaldakvísl",
+            "tip": "Găsiți un loc liniștit pe malul râului în drum spre Gljúfrasteinn.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul din spatele Gljúfrasteinn",
+            "tip": "O urcare scurtă oferă o priveliște largă și liniște absolută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Kaldakvísl River",
+            "tip": "Find a quiet spot on the riverbank on the way to Gljúfrasteinn.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hill behind Gljúfrasteinn",
+            "tip": "A short climb offers a wide view and absolute silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop Gljúfrasteinn",
+            "tip": "Kaufen Sie Bücher von Halldór Laxness in verschiedenen Sprachen und literarische Souvenirs."
+          },
+          {
+            "name": "Álafoss Wolladen",
+            "tip": "Ein Muss für hochwertige isländische Wollprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gljúfrasteinn múzeumbolt",
+            "tip": "Vásároljon Halldór Laxness könyveket különböző nyelveken és irodalmi ajándéktárgyakat."
+          },
+          {
+            "name": "Álafoss gyapjúbolt",
+            "tip": "Kihagyhatatlan a minőségi izlandi gyapjútermékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului Gljúfrasteinn",
+            "tip": "Cumpărați cărți de Halldór Laxness în diverse limbi și suveniruri literare."
+          },
+          {
+            "name": "Magazinul de lână Álafoss",
+            "tip": "O vizită obligatorie pentru produse de lână islandeză de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gljúfrasteinn Museum Shop",
+            "tip": "Buy books by Halldór Laxness in various languages and literary souvenirs."
+          },
+          {
+            "name": "Álafoss Wool Store",
+            "tip": "A must-visit for high-quality Icelandic wool products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und wetterfeste Kleidung.",
+          "Die Route nach Gljúfrasteinn hat einige Steigungen, seien Sie also vorbereitet.",
+          "Nehmen Sie Wasser und Snacks mit, da es zwischen den Haltestellen nur wenige Geschäfte gibt.",
+          "Sichern Sie Ihr Fahrrad immer gut, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Viseljen sisakot és időjárásálló ruházatot.",
+          "A Gljúfrasteinn felé vezető úton vannak emelkedők, ezért készüljön fel.",
+          "Vigyen magával vizet és rágcsálnivalót, mert kevés bolt van a megállók között.",
+          "Mindig jól zárja le a kerékpárját, amikor leparkolja."
+        ],
+        "ro": [
+          "Purtați cască și îmbrăcăminte rezistentă la intemperii.",
+          "Traseul spre Gljúfrasteinn are câteva urcări, așa că fiți pregătit.",
+          "Luați cu voi apă și gustări, deoarece există puține magazine între opriri.",
+          "Asigurați-vă întotdeauna bicicleta bine atunci când o parcați."
+        ],
+        "en": [
+          "Wear a helmet and weather-resistant clothing.",
+          "The route to Gljúfrasteinn has some inclines, so be prepared.",
+          "Bring water and snacks, as there are few shops between stops.",
+          "Always lock your bike securely when you park it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 45,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Álafoss Viertel",
+            "hu": "1. klaszter: Álafoss negyed",
+            "ro": "Cluster 1: Cartierul Álafoss",
+            "en": "Cluster 1: Álafoss Quarter"
+          },
+          "coords": [
+            -21.698,
+            64.168
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die nächsten beiden Stopps zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel a következő két megállót gyalog.",
+            "ro": "Parcați aici și explorați următoarele două opriri pe jos.",
+            "en": "Park here and explore the next two stops on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Álafoss Wasserfall",
+            "hu": "Álafoss-vízesés",
+            "ro": "Cascada Álafoss",
+            "en": "Álafoss Waterfall"
+          },
+          "coords": [
+            -21.697,
+            64.1685
+          ],
+          "category": "natural features",
+          "arrive_at": "10:17",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Wolladen entfernt, perfekt für Fotos.",
+            "hu": "Egy rövid séta a gyapjúbolttól, tökéletes fotózáshoz.",
+            "ro": "La o scurtă plimbare de magazinul de lână, perfect pentru fotografii.",
+            "en": "A short walk from the wool store, perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Gljúfrasteinn",
+            "hu": "2. klaszter: Gljúfrasteinn",
+            "ro": "Cluster 2: Gljúfrasteinn",
+            "en": "Cluster 2: Gljúfrasteinn"
+          },
+          "coords": [
+            -21.62,
+            64.18
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Welt des isländischen Nobelpreisträgers. Planen Sie genügend Zeit für das Museum ein.",
+            "hu": "Merüljön el az izlandi Nobel-díjas világában. Szánjon elegendő időt a múzeumra.",
+            "ro": "Cufundați-vă în lumea laureatului Nobel islandez. Alocați suficient timp pentru muzeu.",
+            "en": "Immerse yourself in the world of the Icelandic Nobel laureate. Allow enough time for the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Restaurant Laxnes",
+            "hu": "Ebéd a Laxnes étteremben",
+            "ro": "Prânz la Restaurantul Laxnes",
+            "en": "Lunch at Laxnes Restaurant"
+          },
+          "coords": [
+            -21.66,
+            64.155
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Genießen Sie traditionelle Gerichte mit Blick auf die Pferdeweiden.",
+            "hu": "Élvezze a hagyományos ételeket a lovas legelőkre néző kilátással.",
+            "ro": "Bucurați-vă de mâncăruri tradiționale cu vedere la pășunile cailor.",
+            "en": "Enjoy traditional dishes with a view of the horse pastures."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Berg Úlfarsfell & Helgufoss",
+            "hu": "3. klaszter: Úlfarsfell-hegy és Helgufoss",
+            "ro": "Cluster 3: Muntele Úlfarsfell și Helgufoss",
+            "en": "Cluster 3: Mount Úlfarsfell & Helgufoss"
+          },
+          "coords": [
+            -21.75,
+            64.14
+          ],
+          "category": "natural features",
+          "arrive_at": "14:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 18,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Fuße des Berges. Eine kurze Wanderung bietet eine atemberaubende Aussicht.",
+            "hu": "Parkoljon a hegy lábánál. Egy rövid túra lélegzetelállító kilátást nyújt.",
+            "ro": "Parcați la poalele muntelui. O scurtă drumeție oferă o priveliște uluitoare.",
+            "en": "Park at the foot of the mountain. A short hike offers a breathtaking view."
+          }
+        },
+        {
+          "name": {
+            "de": "Helgufoss Wasserfall",
+            "hu": "Helgufoss-vízesés",
+            "ro": "Cascada Helgufoss",
+            "en": "Helgufoss Waterfall"
+          },
+          "coords": [
+            -21.73,
+            64.15
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel, das einen kurzen Spaziergang vom Hauptweg entfernt liegt.",
+            "hu": "Egy rejtett gyöngyszem, rövid sétára a főúttól.",
+            "ro": "O bijuterie ascunsă, la o scurtă plimbare de poteca principală.",
+            "en": "A hidden gem, a short walk from the main path."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung im Lágafellslaug",
+            "hu": "Pihenés a Lágafellslaugban",
+            "ro": "Relaxare la Lágafellslaug",
+            "en": "Relaxation at Lágafellslaug"
+          },
+          "coords": [
+            -21.69,
+            64.172
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in den geothermischen Hot Pots ausklingen.",
+            "hu": "Zárja a napot a geotermikus forróvizes medencékben.",
+            "ro": "Încheiați ziua în piscinele fierbinți geotermale.",
+            "en": "End the day relaxing in the geothermal hot pots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im charmanten Álafoss-Viertel. Nach einem kurzen Spaziergang zum Wasserfall fahren Sie weiter zum kulturellen Highlight, Gljúfrasteinn. Nach dem Mittagessen in ländlicher Umgebung wartet das Naturerlebnis: Sie fahren zum Berg Úlfarsfell, wandern zu einem Aussichtspunkt und entdecken den versteckten Helgufoss-Wasserfall. Zum Abschluss des Tages können Sie sich im warmen Wasser des Lágafellslaug-Bades entspannen und die vielfältigen Eindrücke Revue passieren lassen.",
+        "hu": "Autós napja a bájos Álafoss negyedben kezdődik. A vízeséshez tett rövid séta után továbbutazik a kulturális fénypont, Gljúfrasteinn felé. A vidéki környezetben elköltött ebéd után a természetélmény várja: elautózik az Úlfarsfell-hegyhez, túrázik egy kilátóponthoz, és felfedezi a rejtett Helgufoss-vízesést. A nap végén pihenhet a Lágafellslaug fürdő meleg vizében, és áttekintheti a sokszínű benyomásokat.",
+        "ro": "Ziua cu mașina începe în fermecătorul cartier Álafoss. După o scurtă plimbare până la cascadă, continuați spre punctul culminant cultural, Gljúfrasteinn. După prânzul într-un cadru rural, vă așteaptă experiența naturii: conduceți spre muntele Úlfarsfell, faceți o drumeție până la un punct de belvedere și descoperiți cascada ascunsă Helgufoss. La sfârșitul zilei, vă puteți relaxa în apele calde ale piscinei Lágafellslaug și puteți rememora impresiile diverse.",
+        "en": "Your car day begins in the charming Álafoss district. After a short walk to the waterfall, you continue to the cultural highlight, Gljúfrasteinn. After lunch in a rural setting, the nature experience awaits: you drive to Mount Úlfarsfell, hike to a viewpoint, and discover the hidden Helgufoss waterfall. At the end of the day, you can relax in the warm waters of the Lágafellslaug pool and review the diverse impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Isländisches Lamm",
+            "tip": "Probieren Sie Lammkoteletts oder eine gebratene Lammkeule, bekannt für ihren zarten Geschmack."
+          },
+          {
+            "name": "Fisch des Tages",
+            "tip": "Frischer geht es nicht. Viele Restaurants bieten täglich wechselnden Fang an."
+          },
+          {
+            "name": "Skyr-Kuchen",
+            "tip": "Eine leichtere, isländische Variante des Käsekuchens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Izlandi bárány",
+            "tip": "Kóstolja meg a bárányszeletet vagy a sült báránycombot, amely a zsenge ízéről ismert."
+          },
+          {
+            "name": "A nap hala",
+            "tip": "Ennél frissebb már nem is lehetne. Sok étterem kínál naponta változó fogást."
+          },
+          {
+            "name": "Skyr torta",
+            "tip": "A sajttorta könnyebb, izlandi változata."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel islandez",
+            "tip": "Încercați cotletele de miel sau un picior de miel la cuptor, renumite pentru gustul lor fraged."
+          },
+          {
+            "name": "Peștele zilei",
+            "tip": "Nu există ceva mai proaspăt. Multe restaurante oferă capturi care se schimbă zilnic."
+          },
+          {
+            "name": "Prăjitură cu Skyr",
+            "tip": "O variantă islandeză mai ușoară a cheesecake-ului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Icelandic Lamb",
+            "tip": "Try lamb chops or a roasted leg of lamb, known for its tender flavor."
+          },
+          {
+            "name": "Fish of the Day",
+            "tip": "It doesn't get any fresher. Many restaurants offer a catch that changes daily."
+          },
+          {
+            "name": "Skyr Cake",
+            "tip": "A lighter, Icelandic version of cheesecake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Úlfarsfell",
+            "tip": "Die ultimative 360-Grad-Aussicht über die Region, Reykjavik und das Meer. Perfekt bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Umgebung von Helgufoss",
+            "tip": "Ein abgeschiedener Ort, um dem Rauschen des Wassers zu lauschen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Úlfarsfell csúcsa",
+            "tip": "A végső 360 fokos kilátás a régióra, Reykjavíkra és a tengerre. Tökéletes naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Helgufoss környéke",
+            "tip": "Egy eldugott hely, ahol a víz csobogását hallgathatja.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful muntelui Úlfarsfell",
+            "tip": "Priveliștea supremă de 360 de grade asupra regiunii, Reykjavik și mării. Perfect la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Împrejurimile cascadei Helgufoss",
+            "tip": "Un loc izolat pentru a asculta sunetul apei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Mount Úlfarsfell",
+            "tip": "The ultimate 360-degree view over the region, Reykjavik, and the sea. Perfect at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Surroundings of Helgufoss",
+            "tip": "A secluded spot to listen to the sound of the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie Ausschau nach kleinen Schildern, die direkt ab Hof landwirtschaftliche Produkte verkaufen."
+          },
+          {
+            "name": "Álafoss Wolladen",
+            "tip": "Der beste Ort für authentische isländische Souvenirs und warme Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Keresse a kis táblákat, amelyek közvetlenül a gazdaságból árulnak mezőgazdasági termékeket."
+          },
+          {
+            "name": "Álafoss gyapjúbolt",
+            "tip": "A legjobb hely autentikus izlandi ajándéktárgyak és meleg ruhák vásárlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor",
+            "tip": "Fiți atenți la micile semne care indică vânzarea de produse agricole direct de la fermă."
+          },
+          {
+            "name": "Magazinul de lână Álafoss",
+            "tip": "Cel mai bun loc pentru suveniruri autentice islandeze și haine călduroase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Look out for small signs selling farm products directly from the farm."
+          },
+          {
+            "name": "Álafoss Wool Store",
+            "tip": "The best place for authentic Icelandic souvenirs and warm clothing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tanken Sie Ihr Auto voll, bevor Sie die Stadt verlassen, besonders wenn Sie in die Berge fahren.",
+          "Prüfen Sie die Wetter- und Straßenbedingungen, bevor Sie eine Wanderung auf den Úlfarsfell unternehmen.",
+          "Parken Sie nur auf ausgewiesenen Flächen, um die empfindliche Natur zu schützen.",
+          "Ein GPS oder eine Navigations-App ist unerlässlich, um die abgelegeneren Orte zu finden."
+        ],
+        "hu": [
+          "Tankolja tele az autóját, mielőtt elhagyja a várost, különösen, ha a hegyekbe megy.",
+          "Ellenőrizze az időjárási és útviszonyokat, mielőtt túrázni indulna az Úlfarsfellre.",
+          "Csak a kijelölt helyeken parkoljon, hogy megvédje az érzékeny természetet.",
+          "GPS vagy navigációs alkalmazás elengedhetetlen az eldugottabb helyek megtalálásához."
+        ],
+        "ro": [
+          "Alimentați mașina înainte de a părăsi orașul, mai ales dacă mergeți la munte.",
+          "Verificați condițiile meteorologice și de drum înainte de a face o drumeție pe muntele Úlfarsfell.",
+          "Parcați numai în zonele desemnate pentru a proteja natura sensibilă.",
+          "Un GPS sau o aplicație de navigație este esențială pentru a găsi locurile mai îndepărtate."
+        ],
+        "en": [
+          "Fill up your car before leaving the city, especially if you are heading into the mountains.",
+          "Check the weather and road conditions before hiking Mount Úlfarsfell.",
+          "Park only in designated areas to protect the sensitive nature.",
+          "A GPS or navigation app is essential to find the more remote places."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Start am Busterminal",
+            "hu": "1. klaszter: Indulás a buszpályaudvarról",
+            "ro": "Cluster 1: Start de la terminalul de autobuz",
+            "en": "Cluster 1: Start at the Bus Terminal"
+          },
+          "coords": [
+            -21.7167,
+            64.1667
+          ],
+          "category": "service",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für das Strætó-Busnetz, um flexibel zu sein.",
+            "hu": "Vásároljon napijegyet a Strætó buszhálózatra a rugalmasság érdekében.",
+            "ro": "Cumpărați un abonament de o zi pentru rețeaua de autobuze Strætó pentru flexibilitate.",
+            "en": "Buy a day pass for the Strætó bus network for flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Álafosskvos & Wasserfall",
+            "hu": "Álafosskvos és vízesés",
+            "ro": "Álafosskvos și cascada",
+            "en": "Álafosskvos & Waterfall"
+          },
+          "coords": [
+            -21.698,
+            64.168
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie an der Haltestelle 'Álafoss' aus und erkunden Sie das Gebiet zu Fuß.",
+            "hu": "Szálljon le az 'Álafoss' megállónál, és fedezze fel a környéket gyalog.",
+            "ro": "Coborâți la stația 'Álafoss' și explorați zona pe jos.",
+            "en": "Get off at the 'Álafoss' stop and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mosfellskirkja",
+            "hu": "Mosfellskirkja templom",
+            "ro": "Biserica Mosfellskirkja",
+            "en": "Mosfellskirkja Church"
+          },
+          "coords": [
+            -21.708,
+            64.165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Álafoss-Viertel durch ein Wohngebiet.",
+            "hu": "Rövid séta az Álafoss negyedből egy lakónegyeden keresztül.",
+            "ro": "O scurtă plimbare din cartierul Álafoss printr-o zonă rezidențială.",
+            "en": "A short walk from the Álafoss district through a residential area."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Lágafell Bereich",
+            "hu": "2. klaszter: Lágafell terület",
+            "ro": "Cluster 2: Zona Lágafell",
+            "en": "Cluster 2: Lágafell Area"
+          },
+          "coords": [
+            -21.69,
+            64.172
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie zur Haltestelle 'Lágafellsskóli'. Das Schwimmbad ist direkt gegenüber.",
+            "hu": "Menjen a 'Lágafellsskóli' megállóig. Az uszoda közvetlenül szemben van.",
+            "ro": "Mergeți la stația 'Lágafellsskóli'. Piscina este chiar vizavi.",
+            "en": "Go to the 'Lágafellsskóli' stop. The swimming pool is right across."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen im Kaffi Lágafell",
+            "hu": "Késői ebéd a Kaffi Lágafellben",
+            "ro": "Prânz târziu la Kaffi Lágafell",
+            "en": "Late lunch at Kaffi Lágafell"
+          },
+          "coords": [
+            -21.688,
+            64.17
+          ],
+          "category": "gastro",
+          "arrive_at": "13:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein gemütliches Café neben dem Pool, ideal für eine Stärkung nach dem Schwimmen.",
+            "hu": "Egy hangulatos kávézó a medence mellett, ideális egy úszás utáni frissítőhöz.",
+            "ro": "O cafenea primitoare lângă piscină, ideală pentru o gustare după înot.",
+            "en": "A cozy café next to the pool, ideal for a refreshment after swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Laxnes Pferdefarm",
+            "hu": "3. klaszter: Laxnes lovasfarm",
+            "ro": "Cluster 3: Ferma de cai Laxnes",
+            "en": "Cluster 3: Laxnes Horse Farm"
+          },
+          "coords": [
+            -21.66,
+            64.155
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus in Richtung Þingvellir und steigen Sie bei Laxnes aus. Überprüfen Sie den Fahrplan für die Rückfahrt im Voraus!",
+            "hu": "Menjen a Þingvellir felé tartó busszal, és szálljon le Laxnesnél. Ellenőrizze előre a visszaút menetrendjét!",
+            "ro": "Luați autobuzul spre Þingvellir și coborâți la Laxnes. Verificați orarul pentru întoarcere în avans!",
+            "en": "Take the bus towards Þingvellir and get off at Laxnes. Check the return schedule in advance!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus erkunden Sie Mosfellsbær ganz entspannt. Ihr erster Halt ist das historische Álafoss-Viertel. Nach einem kurzen Spaziergang zur Kirche nehmen Sie den Bus zum Lágafell-Gebiet, wo Sie im geothermischen Pool entspannen können. Nach einem späten Mittagessen in einem lokalen Café fahren Sie weiter zur Laxnes Pferdefarm. Dort haben Sie Zeit, die berühmten Islandpferde zu beobachten, bevor Sie den Bus zurück ins Zentrum nehmen.",
+        "hu": "Busszal kényelmesen felfedezheti Mosfellsbært. Az első megálló a történelmi Álafoss negyed. A templomhoz tett rövid séta után busszal juthat el a Lágafell területre, ahol pihenhet a geotermikus medencében. Egy helyi kávézóban elköltött késői ebéd után továbbutazik a Laxnes lovasfarmra. Ott van ideje megfigyelni a híres izlandi lovakat, mielőtt visszautazik a központba.",
+        "ro": "Cu autobuzul, explorați Mosfellsbær într-un mod relaxat. Prima oprire este cartierul istoric Álafoss. După o scurtă plimbare la biserică, luați autobuzul spre zona Lágafell, unde vă puteți relaxa în piscina geotermală. După un prânz târziu la o cafenea locală, continuați spre ferma de cai Laxnes. Acolo veți avea timp să observați faimoșii cai islandezi înainte de a lua autobuzul înapoi în centru.",
+        "en": "Explore Mosfellsbær in a relaxed way by bus. Your first stop is the historic Álafoss district. After a short walk to the church, you take the bus to the Lágafell area, where you can relax in the geothermal pool. After a late lunch at a local café, you continue to the Laxnes Horse Farm. There you will have time to observe the famous Icelandic horses before taking the bus back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckereien",
+            "tip": "Probieren Sie Kleina (isländisches Gebäck) oder Snúður (Zimtschnecke) in einer der örtlichen Bäckereien."
+          },
+          {
+            "name": "Suppenbar",
+            "tip": "Viele Cafés bieten eine 'Suppe des Tages' an, oft mit hausgemachtem Brot serviert."
+          },
+          {
+            "name": "Supermarkt-Snacks",
+            "tip": "Für ein günstiges Mittagessen, holen Sie sich Skyr, Flatkaka (Fladenbrot) und Hangikjöt (geräuchertes Lamm)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek",
+            "tip": "Kóstolja meg a Kleinát (izlandi fánk) vagy a Snúðurt (fahéjas csiga) az egyik helyi pékségben."
+          },
+          {
+            "name": "Levesbár",
+            "tip": "Sok kávézó kínál „napi levest”, gyakran házi kenyérrel tálalva."
+          },
+          {
+            "name": "Szupermarket snackek",
+            "tip": "Egy olcsó ebédhez vegyen Skyrt, Flatkakát (lepénykenyér) és Hangikjötöt (füstölt bárány)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării",
+            "tip": "Încercați Kleina (gogoși islandeze) sau Snúður (rulou cu scorțișoară) la una dintre brutăriile locale."
+          },
+          {
+            "name": "Bar de supe",
+            "tip": "Multe cafenele oferă o 'supă a zilei', adesea servită cu pâine de casă."
+          },
+          {
+            "name": "Gustări de la supermarket",
+            "tip": "Pentru un prânz ieftin, luați Skyr, Flatkaka (pâine plată) și Hangikjöt (miel afumat)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakeries",
+            "tip": "Try Kleina (Icelandic pastry) or Snúður (cinnamon roll) at one of the local bakeries."
+          },
+          {
+            "name": "Soup Bar",
+            "tip": "Many cafés offer a 'soup of the day', often served with homemade bread."
+          },
+          {
+            "name": "Supermarket Snacks",
+            "tip": "For a cheap lunch, get Skyr, Flatkaka (flatbread), and Hangikjöt (smoked lamb)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bibliothek Mosfellsbær",
+            "tip": "Ein warmer, ruhiger Ort zum Lesen und Entspannen, besonders an einem regnerischen Tag.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park am Lágafell",
+            "tip": "Nach dem Schwimmen ein ruhiger Ort, um die frische isländische Luft zu genießen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mosfellsbær könyvtár",
+            "tip": "Meleg, csendes hely olvasásra és pihenésre, különösen egy esős napon.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park Lágafellnél",
+            "tip": "Úszás után csendes hely a friss izlandi levegő élvezetére.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca Mosfellsbær",
+            "tip": "Un loc cald și liniștit pentru a citi și a te relaxa, mai ales într-o zi ploioasă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul de la Lágafell",
+            "tip": "După înot, un loc liniștit pentru a te bucura de aerul proaspăt islandez.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mosfellsbær Library",
+            "tip": "A warm, quiet place to read and relax, especially on a rainy day.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park at Lágafell",
+            "tip": "After swimming, a quiet place to enjoy the fresh Icelandic air.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bonus Supermarkt",
+            "tip": "Kaufen Sie isländische Süßigkeiten wie Þristur oder Lakkrís als günstige Souvenirs."
+          },
+          {
+            "name": "Álafoss Wolladen",
+            "tip": "Ein Muss für hochwertige isländische Wollprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bonus szupermarket",
+            "tip": "Vásároljon izlandi édességeket, mint a Þristur vagy a Lakkrís, olcsó ajándékként."
+          },
+          {
+            "name": "Álafoss gyapjúbolt",
+            "tip": "Kihagyhatatlan a minőségi izlandi gyapjútermékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket Bonus",
+            "tip": "Cumpărați dulciuri islandeze precum Þristur sau Lakkrís ca suveniruri ieftine."
+          },
+          {
+            "name": "Magazinul de lână Álafoss",
+            "tip": "O vizită obligatorie pentru produse de lână islandeză de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bonus Supermarket",
+            "tip": "Buy Icelandic sweets like Þristur or Lakkrís as cheap souvenirs."
+          },
+          {
+            "name": "Álafoss Wool Store",
+            "tip": "A must-visit for high-quality Icelandic wool products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die Strætó-App herunter, um Fahrpläne in Echtzeit zu sehen und Tickets zu kaufen.",
+          "Busse auf dem Land fahren seltener. Planen Sie Ihre Rückfahrt von Laxnes sorgfältig.",
+          "Geben Sie dem Fahrer ein Handzeichen, wenn Sie möchten, dass der Bus anhält.",
+          "Seien Sie pünktlich an der Haltestelle; die Busse sind in der Regel sehr pünktlich."
+        ],
+        "hu": [
+          "Töltse le a Strætó alkalmazást a valós idejű menetrendek megtekintéséhez és jegyvásárláshoz.",
+          "A vidéki buszok ritkábban közlekednek. Tervezze meg gondosan a visszautat Laxnesből.",
+          "Intsen a sofőrnek, ha azt szeretné, hogy a busz megálljon.",
+          "Legyen időben a megállóban; a buszok általában nagyon pontosak."
+        ],
+        "ro": [
+          "Descărcați aplicația Strætó pentru a vedea orarele în timp real și pentru a cumpăra bilete.",
+          "Autobuzele din zonele rurale circulă mai rar. Planificați-vă cu atenție călătoria de întoarcere de la Laxnes.",
+          "Faceți semn șoferului dacă doriți ca autobuzul să oprească.",
+          "Fiți la timp la stație; autobuzele sunt de obicei foarte punctuale."
+        ],
+        "en": [
+          "Download the Strætó app to see real-time schedules and buy tickets.",
+          "Buses in the countryside run less frequently. Plan your return trip from Laxnes carefully.",
+          "Signal the driver if you want the bus to stop.",
+          "Be at the bus stop on time; buses are usually very punctual."
+        ]
+      }
+    }
+  }
+}

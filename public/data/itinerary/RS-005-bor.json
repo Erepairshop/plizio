@@ -1,0 +1,1385 @@
+{
+  "city_id": "RS-005-bor",
+  "anchor": {
+    "name": "Bor",
+    "coords": [
+      22.1,
+      44.0667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Palast des Fürsten Miloš",
+            "hu": "Miloš herceg palotája",
+            "ro": "Palatul Prințului Miloš",
+            "en": "Prince Miloš's Palace"
+          },
+          "coords": [
+            22.096,
+            44.075
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die osmanisch-balkanische Architektur, die für die Region untypisch ist.",
+            "hu": "Figyelje meg az oszmán-balkáni építészetet, amely szokatlan a régióban.",
+            "ro": "Observați arhitectura otomană-balcanică, atipică pentru regiune.",
+            "en": "Look for the Ottoman-Balkan architecture, which is atypical for the region.",
+            "tr": ""
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Museum für Bergbau und Hüttenwesen",
+            "hu": "Bányászati és Kohászati Múzeum",
+            "ro": "Muzeul Mineritului și Metalurgiei",
+            "en": "Museum of Mining and Metallurgy"
+          },
+          "coords": [
+            22.098,
+            44.076
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Mineraliensammlung ist der Höhepunkt. Planen Sie dafür zusätzliche Zeit ein.",
+            "hu": "Az ásványgyűjtemény a fénypont. Tervezzen rá extra időt.",
+            "ro": "Colecția de minerale este piesa de rezistență. Planificați timp suplimentar pentru ea.",
+            "en": "The mineral collection is the highlight. Plan extra time for it.",
+            "tr": ""
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "E-béd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            22.099,
+            44.077
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie 'Pljeskavica', ein lokales gegrilltes Fleischgericht.",
+            "hu": "Kóstolja meg a 'Pljeskavica'-t, egy helyi grillezett húsételt.",
+            "ro": "Încercați 'Pljeskavica', un preparat local din carne la grătar.",
+            "en": "Try 'Pljeskavica', a local grilled meat patty.",
+            "tr": ""
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Spaziergang zum Tagebau Kupferbergwerk Bor",
+            "hu": "Séta a bori rézbánya külszíni fejtéséhez",
+            "ro": "Plimbare spre mina de cupru Bor",
+            "en": "Walk towards the Bor Copper Mine open pit"
+          },
+          "coords": [
+            22.115,
+            44.07
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:25",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der Aussichtspunkt bietet einen beeindruckenden Blick auf die gewaltige Grube.",
+            "hu": "A kilátópontról lenyűgöző a kilátás a hatalmas bányagödörre.",
+            "ro": "Punctul de belvedere oferă o priveliște impresionantă asupra imensei exploatări.",
+            "en": "The viewpoint offers a staggering view of the massive pit.",
+            "tr": ""
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Entspannung in einem örtlichen Park",
+            "hu": "Pihenés egy helyi parkban",
+            "ro": "Relaxare într-un parc local",
+            "en": "Relaxation in a local park"
+          },
+          "coords": [
+            22.102,
+            44.078
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein guter Ort, um das tägliche Leben der Einheimischen zu beobachten.",
+            "hu": "Jó hely a helyiek mindennapi életének megfigyelésére.",
+            "ro": "Un loc bun pentru a observa viața de zi cu zi a localnicilor.",
+            "en": "A good spot to observe the daily life of the locals.",
+            "tr": ""
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Bor beginnt mit einem Einblick in die Geschichte im Palast des Fürsten Miloš. Der Vormittag ist der industriellen Seele der Stadt gewidmet, mit einem ausführlichen Besuch im Museum für Bergbau und Hüttenwesen. Nach einem herzhaften serbischen Mittagessen spazieren Sie zum Rand des gewaltigen Kupfertagebaus, ein unvergesslicher Anblick. Der Nachmittag endet entspannt in einem der Stadtparks, wo Sie die Eindrücke des Tages verarbeiten können.",
+        "hu": "A bori nap a történelembe való bepillantással kezdődik Miloš herceg palotájában. A délelőttöt a város ipari lelkének szenteli, egy alapos látogatással a Bányászati és Kohászati Múzeumban. Egy kiadós szerb ebéd után elsétál a hatalmas rézbánya külszíni fejtésének pereméhez, ami felejthetetlen látványt nyújt. A délután egy városi parkban zárul, ahol feldolgozhatja a nap élményeit.",
+        "ro": "Ziua dvs. în Bor începe cu o incursiune în istorie la Palatul Prințului Miloš. Dimineața este dedicată sufletului industrial al orașului, cu o vizită extinsă la Muzeul Mineritului și Metalurgiei. După un prânz sârbesc consistent, vă plimbați până la marginea imensei mine de cupru, o priveliște de neuitat. După-amiaza se încheie relaxant într-unul dintre parcurile orașului, procesând impresiile zilei.",
+        "en": "Your day in Bor begins with a glimpse into history at Prince Miloš's Palace. The morning is dedicated to the city's industrial soul with an extensive visit to the Museum of Mining and Metallurgy. After a hearty Serbian lunch, you'll stroll to the edge of the vast open-pit copper mine, an unforgettable sight. The afternoon concludes with relaxation in a city park, processing the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Ein großes, gewürztes Fleischpatty, oft mit Fladenbrot und Zwiebeln serviert."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "Gegrillte Hackfleischröllchen, ein Balkan-Klassiker."
+          },
+          {
+            "name": "Komplet lepinja",
+            "tip": "Ein reichhaltiges Gericht aus Fladenbrot, gefüllt mit Sahne (Kajmak) und einem Ei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Nagy, fűszeres húspogácsa, gyakran lepénnyel és hagymával tálalva."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "Grillezett darált hús tekercsek, egy balkáni klasszikus."
+          },
+          {
+            "name": "Komplet lepinja",
+            "tip": "Gazdag étel, amely lepényből áll, tejföllel (kajmak) és tojással töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pljeskavica",
+            "tip": "O chiftea mare de carne condimentată, adesea servită cu pâine plată și ceapă."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "Rulouri de carne tocată la grătar, un clasic balcanic."
+          },
+          {
+            "name": "Komplet lepinja",
+            "tip": "Un fel de mâncare bogat, constând dintr-o pâine plată umplută cu smântână (kajmak) și un ou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pljeskavica",
+            "tip": "A large, seasoned meat patty, often served in flatbread with onions."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "Grilled minced meat rolls, a Balkan classic."
+          },
+          {
+            "name": "Komplet lepinja",
+            "tip": "A rich dish of flatbread filled with cream (kajmak) and an egg."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Bor-Sees",
+            "tip": "Außerhalb des Zentrums, aber ein kurzer Taxitrip für echte Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein Café im Stadtzentrum",
+            "tip": "Finden Sie eine ruhige Ecke, um das Treiben zu beobachten.",
+            "emoji": "☕"
+          },
+          {
+            "name": "Park hinter dem Museum",
+            "tip": "Ein kleiner, oft übersehener grüner Fleck.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Bori-tó partja",
+            "tip": "A központon kívül, de egy rövid taxizással elérhető a valódi béke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy kávézó a központban",
+            "tip": "Keressen egy csendes sarkot, és figyelje a nyüzsgést.",
+            "emoji": "☕"
+          },
+          {
+            "name": "Park a múzeum mögött",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott zöldterület.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Bor",
+            "tip": "În afara centrului, dar o scurtă călătorie cu taxiul pentru liniște adevărată.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O cafenea în centru",
+            "tip": "Găsiți un colț liniștit pentru a privi agitația.",
+            "emoji": "☕"
+          },
+          {
+            "name": "Parcul din spatele muzeului",
+            "tip": "Un mic spațiu verde, adesea trecut cu vederea.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Lake Bor",
+            "tip": "Outside the center, but a short taxi ride for true tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A downtown café",
+            "tip": "Find a quiet corner to watch the city buzz.",
+            "emoji": "☕"
+          },
+          {
+            "name": "Park behind the museum",
+            "tip": "A small, often-overlooked patch of green.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach hausgemachtem Kajmak (Rahm) und lokalem Honig."
+          },
+          {
+            "name": "Souvenirladen des Museums",
+            "tip": "Kaufen Sie Mineralienproben und Bücher über die Bergbaugeschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen házi készítésű kajmakot (tejföl) és helyi mézet."
+          },
+          {
+            "name": "Múzeumi ajándékbolt",
+            "tip": "Vásároljon ásványmintákat és könyveket a bányászat történetéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați kajmak (smântână) de casă și miere locală."
+          },
+          {
+            "name": "Magazinul de suveniruri al muzeului",
+            "tip": "Cumpărați mostre de minerale și cărți despre istoria mineritului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for homemade kajmak (clotted cream) and local honey."
+          },
+          {
+            "name": "Museum Gift Shop",
+            "tip": "Purchase mineral samples and books on mining history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Gelände im Stadtzentrum hügelig sein kann.",
+          "Die Gehwege können uneben sein, achten Sie also auf Ihren Schritt.",
+          "Ein Spaziergang zum Tagebau ist machbar, aber nehmen Sie Wasser mit, besonders im Sommer.",
+          "Fragen Sie im Museum nach geführten Touren für tiefere Einblicke."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont terepe dombos lehet.",
+          "A járdák egyenetlenek lehetnek, ezért figyeljen, hova lép.",
+          "A séta a külszíni fejtéshez megtehető, de vigyen magával vizet, különösen nyáron.",
+          "Érdeklődjön a múzeumban vezetett túrákról a mélyebb betekintésért."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece terenul din centrul orașului poate fi deluros.",
+          "Trotuarele pot fi denivelate, așa că fiți atenți pe unde călcați.",
+          "Plimbarea până la mina deschisă este fezabilă, dar luați apă, mai ales vara.",
+          "Întrebați la muzeu despre tururile ghidate pentru o perspectivă mai profundă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the terrain in the city center can be hilly.",
+          "Pavements can be uneven, so watch your step.",
+          "The walk to the open pit mine is doable, but take water, especially in summer.",
+          "Ask at the museum for guided tours for deeper insights."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 19.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Museum für Bergbau und Hüttenwesen",
+            "hu": "Bányászati és Kohászati Múzeum",
+            "ro": "Muzeul Mineritului și Metalurgiei",
+            "en": "Museum of Mining and Metallurgy"
+          },
+          "coords": [
+            22.098,
+            44.076
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fragen Sie, ob Sie Ihr Fahrrad sicher abstellen können, während Sie drinnen sind.",
+            "hu": "Kérdezze meg, hogy biztonságosan le tudja-e tenni a kerékpárját, amíg bent van.",
+            "ro": "Întrebați dacă puteți parca bicicleta în siguranță în timp ce sunteți înăuntru.",
+            "en": "Ask if you can park your bike safely while you're inside.",
+            "tr": ""
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Fahrt zum Bor-See",
+            "hu": "Kerékpártúra a Bori-tóhoz",
+            "ro": "Plimbare cu bicicleta la Lacul Bor",
+            "en": "Ride to Lake Bor"
+          },
+          "coords": [
+            22.128,
+            44.045
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Der Weg hat einige Steigungen. Genießen Sie die Landschaft auf dem Weg.",
+            "hu": "Az úton vannak emelkedők. Élvezze a tájat útközben.",
+            "ro": "Traseul are câteva urcări. Bucurați-vă de peisaj pe drum.",
+            "en": "The route has some inclines. Enjoy the scenery along the way.",
+            "tr": ""
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Mittagessen am See",
+            "hu": "Ebéd a tónál",
+            "ro": "Prânz la lac",
+            "en": "Lunch by the lake"
+          },
+          "coords": [
+            22.129,
+            44.044
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Mehrere Restaurants bieten frischen Fisch aus dem See an.",
+            "hu": "Több étterem kínál friss halat a tóból.",
+            "ro": "Mai multe restaurante oferă pește proaspăt din lac.",
+            "en": "Several restaurants offer fresh fish from the lake.",
+            "tr": ""
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Fahrt zum Brestovacer Bad",
+            "hu": "Kerékpározás a Brestovaci fürdőhöz",
+            "ro": "Plimbare cu bicicleta la Băile Brestovac",
+            "en": "Ride to Brestovac Spa"
+          },
+          "coords": [
+            22.04,
+            44.06
+          ],
+          "category": "natural features",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8,
+          "tip_5lang": {
+            "de": "Das Thermalwasser soll heilende Eigenschaften haben. Ein Fußbad ist erfrischend.",
+            "hu": "A termálvíznek gyógyító tulajdonságai vannak. Egy lábfürdő frissítő.",
+            "ro": "Se spune că apa termală are proprietăți vindecătoare. O baie la picioare este revigorantă.",
+            "en": "The thermal water is said to have healing properties. A foot bath is refreshing.",
+            "tr": ""
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Rückfahrt ins Stadtzentrum",
+            "hu": "Vissza a városközpontba",
+            "ro": "Întoarcere în centrul orașului",
+            "en": "Ride back to the city center"
+          },
+          "coords": [
+            22.099,
+            44.077
+          ],
+          "category": "city",
+          "arrive_at": "17:20",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem wohlverdienten Getränk in einem Café.",
+            "hu": "Zárja a napot egy jól megérdemelt itallal egy kávézóban.",
+            "ro": "Încheiați ziua cu o băutură binemeritată la o cafenea.",
+            "en": "End the day with a well-deserved drink at a café.",
+            "tr": ""
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihren Tag im Bergbaumuseum. Von dort aus führt Sie eine belebende Radtour durch die Landschaft zum wunderschönen Bor-See. Hier verbringen Sie den Mittag mit einem Spaziergang und einem Essen am Wasser. Gestärkt radeln Sie weiter zum historischen Brestovacer Bad für eine kurze, erfrischende Pause. Die Tour endet mit der Rückfahrt ins Stadtzentrum, voller Eindrücke von Bors Natur und Industrie.",
+        "hu": "Pattanjon nyeregbe, és kezdje a napot a Bányászati Múzeumban. Onnan egy élénkítő kerékpártúra vezet a tájon keresztül a gyönyörű Bori-tóhoz. Itt tölti a délt egy sétával és egy tóparti ebéddel. Feltöltődve továbbteker a történelmi Brestovaci fürdőhöz egy rövid, frissítő pihenőre. A túra a városközpontba való visszatéréssel ér véget, tele a bori természet és ipar benyomásaival.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua la Muzeul Mineritului. De acolo, o plimbare revigorantă cu bicicleta prin peisaj vă duce la frumosul Lac Bor. Aici vă veți petrece amiaza cu o plimbare și o masă lângă apă. Întăriți, pedalați mai departe spre istorica Baie Brestovac pentru o pauză scurtă și răcoritoare. Turul se încheie cu întoarcerea în centrul orașului, plin de impresii despre natura și industria din Bor.",
+        "en": "Get on your bike and start the day at the Mining Museum. From there, an invigorating bike ride through the countryside takes you to the beautiful Lake Bor. You'll spend midday here with a walk and a meal by the water. Refreshed, you'll cycle on to the historic Brestovac Spa for a short, refreshing break. The tour ends with the ride back to the city center, full of impressions of Bor's nature and industry."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisch vom Bor-See",
+            "tip": "Probieren Sie in einem der Restaurants am See gegrillten Karpfen oder Zander."
+          },
+          {
+            "name": "Gibanița",
+            "tip": "Ein herzhafter Käsekuchen, perfekt für eine energiereiche Pause."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Fragen Sie nach regionalen Biersorten, um sich nach der Fahrt abzukühlen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hal a Bori-tóból",
+            "tip": "Kóstoljon grillezett pontyot vagy süllőt a tóparti éttermek egyikében."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "Sós túrós pite, tökéletes egy energiadús szünethez."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kérjen regionális söröket, hogy lehűtse magát a tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește din Lacul Bor",
+            "tip": "Încercați crap sau șalău la grătar la unul dintre restaurantele de pe malul lacului."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "O plăcintă sărată cu brânză, perfectă pentru o pauză energizantă."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Întrebați de berile regionale pentru a vă răcori după plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish from Lake Bor",
+            "tip": "Try grilled carp or zander at one of the lakeside restaurants."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "A savory cheese pie, perfect for an energy-boosting break."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Ask for regional beers to cool down after the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Versteckte Bucht am Bor-See",
+            "tip": "Radfahren Sie um den See herum, um einen ruhigen Platz abseits der Hauptstrände zu finden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park am Brestovacer Bad",
+            "tip": "Nach dem Radfahren ist der Schatten der alten Bäume besonders wohltuend.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Aussichtspunkt Crni Vrh",
+            "tip": "Nur für sehr fitte Radfahrer, aber die Aussicht ist die Mühe wert.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rejtett öböl a Bori-tónál",
+            "tip": "Kerékpározzon körbe a tó körül, hogy találjon egy csendes helyet a fő strandoktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park a Brestovaci fürdőnél",
+            "tip": "Kerékpározás után különösen jólesik a régi fák árnyéka.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Crni Vrh kilátó",
+            "tip": "Csak nagyon edzett kerékpárosoknak, de a kilátás megéri a fáradságot.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golf ascuns pe Lacul Bor",
+            "tip": "Mergeți cu bicicleta în jurul lacului pentru a găsi un loc liniștit departe de plajele principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de la Băile Brestovac",
+            "tip": "După plimbarea cu bicicleta, umbra copacilor bătrâni este deosebit de plăcută.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Punctul de belvedere Crni Vrh",
+            "tip": "Doar pentru cicliștii foarte antrenați, dar priveliștea merită efortul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hidden cove at Lake Bor",
+            "tip": "Cycle around the lake to find a quiet spot away from the main beaches.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park at Brestovac Spa",
+            "tip": "After cycling, the shade of the old trees is especially welcome.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Crni Vrh Viewpoint",
+            "tip": "For very fit cyclists only, but the view is worth the effort.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Imkereien",
+            "tip": "Entlang der Landstraßen finden Sie oft Schilder für hausgemachten Honig."
+          },
+          {
+            "name": "Handwerksstände am See",
+            "tip": "Im Sommer verkaufen Einheimische manchmal handgemachte Souvenirs am Bor-See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méhészetek",
+            "tip": "A vidéki utak mentén gyakran talál táblákat házi mézre."
+          },
+          {
+            "name": "Kézműves standok a tónál",
+            "tip": "Nyáron a helyiek néha kézzel készített ajándéktárgyakat árulnak a Bori-tónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stupine locale",
+            "tip": "De-a lungul drumurilor de țară, veți găsi adesea semne pentru miere de casă."
+          },
+          {
+            "name": "Standuri de artizanat la lac",
+            "tip": "Vara, localnicii vând uneori suveniruri lucrate manual la Lacul Bor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Apiaries",
+            "tip": "Along the country roads, you'll often find signs for homemade honey."
+          },
+          {
+            "name": "Craft stalls at the lake",
+            "tip": "In summer, locals sometimes sell handmade souvenirs at Lake Bor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Zustand Ihres Fahrrads, bevor Sie losfahren; die Straßen können rau sein.",
+          "Ein Helm wird dringend empfohlen, besonders auf den Landstraßen.",
+          "Nehmen Sie genügend Wasser und Snacks mit, da es zwischen den Orten nur wenige Geschäfte gibt.",
+          "Ein einfaches Reparaturset kann bei einer Reifenpanne nützlich sein."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát; az utak rosszak lehetnek.",
+          "Sisak viselése erősen ajánlott, különösen a vidéki utakon.",
+          "Vigyen magával elegendő vizet és harapnivalót, mert a helyek között kevés bolt van.",
+          "Egy egyszerű javítókészlet hasznos lehet defekt esetén."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni; drumurile pot fi proaste.",
+          "O cască este foarte recomandată, în special pe drumurile de țară.",
+          "Luați suficientă apă și gustări, deoarece există puține magazine între localități.",
+          "Un kit simplu de reparații poate fi util în caz de pană."
+        ],
+        "en": [
+          "Check your bike's condition before you set off; roads can be rough.",
+          "A helmet is strongly recommended, especially on country roads.",
+          "Carry enough water and snacks, as there are few shops between locations.",
+          "A basic repair kit can be useful in case of a flat tire."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 54.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Lazar-Canyon Aussichtspunkt",
+            "hu": "Lázár-kanyon kilátópont",
+            "ro": "Punct de belvedere Canionul Lazar",
+            "en": "Lazar Canyon Viewpoint"
+          },
+          "coords": [
+            21.96,
+            44.11
+          ],
+          "category": "natural features",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 18,
+          "tip_5lang": {
+            "de": "Der erste Blick in die Schlucht ist atemberaubend. Perfekt für Fotos am Morgen.",
+            "hu": "Az első pillantás a szurdokba lélegzetelállító. Tökéletes reggeli fotókhoz.",
+            "ro": "Prima priveliște a canionului este uluitoare. Perfect pentru fotografii de dimineață.",
+            "en": "The first glance into the canyon is breathtaking. Perfect for morning photos.",
+            "tr": ""
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Lazar-Höhle (Zlotska pećina)",
+            "hu": "Lázár-barlang (Zlotska pećina)",
+            "ro": "Peștera lui Lazar (Zlotska pećina)",
+            "en": "Lazar's Cave (Zlotska pećina)"
+          },
+          "coords": [
+            21.965,
+            44.112
+          ],
+          "category": "natural features",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die beeindruckenden Formationen zu sehen. Es ist kühl drinnen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy láthassa a lenyűgöző képződményeket. Hűvös van bent.",
+            "ro": "Participați la un tur ghidat pentru a vedea formațiunile impresionante. Este răcoare înăuntru.",
+            "en": "Join a guided tour to see the impressive formations. It's cool inside.",
+            "tr": ""
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Fahrt zum Brestovacer Bad & Mittagessen",
+            "hu": "Utazás a Brestovaci fürdőhöz és ebéd",
+            "ro": "Călătorie la Băile Brestovac și prânz",
+            "en": "Drive to Brestovac Spa & Lunch"
+          },
+          "coords": [
+            22.04,
+            44.06
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 15,
+          "tip_5lang": {
+            "de": "Kombinieren Sie ein traditionelles Mittagessen mit einem Spaziergang durch den historischen Kurpark.",
+            "hu": "Kombinálja a hagyományos ebédet egy sétával a történelmi fürdőparkban.",
+            "ro": "Combinați un prânz tradițional cu o plimbare prin parcul istoric al stațiunii.",
+            "en": "Combine a traditional lunch with a stroll through the historic spa park.",
+            "tr": ""
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Museum für Bergbau und Hüttenwesen",
+            "hu": "Bányászati és Kohászati Múzeum",
+            "ro": "Muzeul Mineritului și Metalurgiei",
+            "en": "Museum of Mining and Metallurgy"
+          },
+          "coords": [
+            22.098,
+            44.076
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und erkunden Sie auch den Palast des Fürsten Miloš zu Fuß.",
+            "hu": "Parkoljon a közelben, és gyalog fedezze fel Miloš herceg palotáját is.",
+            "ro": "Parcați în apropiere și explorați și Palatul Prințului Miloš pe jos.",
+            "en": "Park nearby and explore Prince Miloš's Palace on foot as well.",
+            "tr": ""
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Aussichtspunkt Kupferbergwerk Bor",
+            "hu": "Bori rézbánya kilátópont",
+            "ro": "Punct de belvedere Mina de Cupru Bor",
+            "en": "Bor Copper Mine Viewpoint"
+          },
+          "coords": [
+            22.115,
+            44.07
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Der späte Nachmittag bietet oft ein dramatisches Licht über dem Tagebau.",
+            "hu": "A késő délután gyakran drámai fényeket vet a külszíni fejtésre.",
+            "ro": "După-amiaza târzie oferă adesea o lumină dramatică peste mină.",
+            "en": "The late afternoon often provides dramatic light over the open pit.",
+            "tr": ""
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Entspannung und Abendessen am Bor-See",
+            "hu": "Pihenés és vacsora a Bori-tónál",
+            "ro": "Relaxare și cină la Lacul Bor",
+            "en": "Relaxation and Dinner at Lake Bor"
+          },
+          "coords": [
+            22.128,
+            44.045
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:25",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 14,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Terrasse, um den Sonnenuntergang über dem See zu genießen.",
+            "hu": "Válasszon egy teraszos éttermet, hogy élvezhesse a naplementét a tó felett.",
+            "ro": "Alegeți un restaurant cu terasă pentru a vă bucura de apusul peste lac.",
+            "en": "Choose a restaurant with a terrace to enjoy the sunset over the lake.",
+            "tr": ""
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einem Paukenschlag in der wilden Natur des Lazar-Canyons und der kühlen Tiefe der Lazar-Höhle. Nach diesem Naturerlebnis fahren Sie zum historischen Brestovacer Bad für ein entspanntes Mittagessen. Der Nachmittag gehört der Stadt: Sie parken im Zentrum, um das Bergbaumuseum und den nahegelegenen Palast zu Fuß zu erkunden und einen Blick in den Kupfertagebau zu werfen. Der Tag klingt idyllisch am Bor-See aus, wo Sie bei einem Abendessen den Sonnenuntergang genießen.",
+        "hu": "Autós napja egy csapással kezdődik a Lázár-kanyon vad természetében és a Lázár-barlang hűvös mélyén. E természeti élmény után a történelmi Brestovaci fürdőbe hajt egy pihentető ebédre. A délután a városé: a központban parkol, hogy gyalog fedezze fel a Bányászati Múzeumot és a közeli palotát, és bepillantson a rézbányába. A nap idillikusan zárul a Bori-tónál, ahol egy vacsora mellett élvezheti a naplementét.",
+        "ro": "Ziua dvs. cu mașina începe în forță în natura sălbatică a Canionului Lazar și în adâncurile răcoroase ale Peșterii lui Lazar. După această experiență în natură, conduceți spre istorica Baie Brestovac pentru un prânz relaxant. După-amiaza aparține orașului: parcați în centru pentru a explora pe jos Muzeul Mineritului și palatul din apropiere și pentru a arunca o privire în mina de cupru. Ziua se încheie idilic la Lacul Bor, unde vă bucurați de apus la cină.",
+        "en": "Your car day starts with a bang in the wild nature of Lazar Canyon and the cool depths of Lazar's Cave. After this nature experience, you drive to the historic Brestovac Spa for a relaxing lunch. The afternoon belongs to the city: you park in the center to explore the Mining Museum and the nearby palace on foot, and take a look at the copper mine. The day ends idyllically at Lake Bor, where you enjoy the sunset over dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Teletina ispod sača",
+            "tip": "Kalbfleisch, das langsam unter einer mit Glut bedeckten Glocke gegart wird, unglaublich zart."
+          },
+          {
+            "name": "Forelle (Pastrmka)",
+            "tip": "In den Restaurants in der Nähe der Naturattraktionen oft frisch serviert."
+          },
+          {
+            "name": "Šljivovica",
+            "tip": "Ein starker Pflaumenschnaps, den man vor dem Essen als Aperitif trinkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Teletina ispod sača",
+            "tip": "Borjúhús, lassan sütve parázssal borított harang alatt, hihetetlenül omlós."
+          },
+          {
+            "name": "Pisztráng (Pastrmka)",
+            "tip": "Gyakran frissen szolgálják fel a természeti látványosságok közelében lévő éttermekben."
+          },
+          {
+            "name": "Šljivovica",
+            "tip": "Erős szilvapálinka, amelyet étkezés előtt aperitifként isznak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Teletina ispod sača",
+            "tip": "Carne de vițel gătită lent sub un capac acoperit cu jar, incredibil de fragedă."
+          },
+          {
+            "name": "Păstrăv (Pastrmka)",
+            "tip": "Adesea servit proaspăt în restaurantele din apropierea atracțiilor naturale."
+          },
+          {
+            "name": "Șlivoviță",
+            "tip": "O țuică de prune tare, băută ca aperitiv înainte de masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Teletina ispod sača",
+            "tip": "Veal slow-cooked under a bell-like lid covered in embers, incredibly tender."
+          },
+          {
+            "name": "Trout (Pastrmka)",
+            "tip": "Often served fresh in restaurants near the natural attractions."
+          },
+          {
+            "name": "Šljivovica",
+            "tip": "A strong plum brandy, sipped as an aperitif before the meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Crni Vrh (Schwarzer Gipfel)",
+            "tip": "Eine kurze Fahrt vom Canyon entfernt, bietet es Panoramablicke und Stille.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Wanderwege am Lazar-Canyon",
+            "tip": "Abseits des Hauptaussichtspunkts finden Sie ruhige Pfade.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Abendstimmung am Bor-See",
+            "tip": "Nachdem die Tagesausflügler gegangen sind, kehrt eine wunderbare Ruhe ein.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crni Vrh (Fekete-csúcs)",
+            "tip": "Rövid autóútra a kanyontól, panorámás kilátást és csendet kínál.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Túraútvonalak a Lázár-kanyonnál",
+            "tip": "A fő kilátóponttól távolabb csendes ösvényeket talál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Esti hangulat a Bori-tónál",
+            "tip": "Miután a napközbeni kirándulók elmentek, csodálatos nyugalom száll a tájra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crni Vrh (Vârful Negru)",
+            "tip": "La o scurtă distanță cu mașina de canion, oferă vederi panoramice și liniște.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Trasee de drumeție la Canionul Lazar",
+            "tip": "Departe de punctul principal de belvedere, veți găsi poteci liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Atmosfera de seară la Lacul Bor",
+            "tip": "După plecarea excursioniștilor de o zi, se așterne o liniște minunată.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Crni Vrh (Black Peak)",
+            "tip": "A short drive from the canyon, it offers panoramic views and silence.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Hiking trails at Lazar Canyon",
+            "tip": "Away from the main viewpoint, you'll find quiet paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Evening atmosphere at Lake Bor",
+            "tip": "After the day-trippers have left, a wonderful calm sets in.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käse aus der Region Homolje",
+            "tip": "Halten Sie Ausschau nach Ständen, die diesen besonderen weißen Käse verkaufen."
+          },
+          {
+            "name": "Kräutertees",
+            "tip": "Die Berge um Bor sind reich an Heilkräutern. Ein gesundes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Homoljei sajt",
+            "tip": "Keresse azokat a standokat, amelyek ezt a különleges fehér sajtot árulják."
+          },
+          {
+            "name": "Gyógyteák",
+            "tip": "A Bor körüli hegyek gazdagok gyógynövényekben. Egészséges ajándék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză din regiunea Homolje",
+            "tip": "Fiți atenți la standurile care vând această brânză albă specială."
+          },
+          {
+            "name": "Ceaiuri de plante",
+            "tip": "Munții din jurul Borului sunt bogați în ierburi medicinale. Un suvenir sănătos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese from the Homolje region",
+            "tip": "Look for stalls selling this special white cheese."
+          },
+          {
+            "name": "Herbal teas",
+            "tip": "The mountains around Bor are rich in medicinal herbs. A healthy souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tanken Sie voll, bevor Sie in die Canyon-Region fahren, Tankstellen sind selten.",
+          "Die Straßen zu den Naturattraktionen können eng und kurvig sein. Fahren Sie vorsichtig.",
+          "Überprüfen Sie die Öffnungszeiten der Lazar-Höhle im Voraus.",
+          "Einige Parkplätze an den Sehenswürdigkeiten sind möglicherweise nicht befestigt."
+        ],
+        "hu": [
+          "Tankoljon tele, mielőtt a kanyonvidékre indul, a benzinkutak ritkák.",
+          "A természeti látványosságokhoz vezető utak szűkek és kanyargósak lehetnek. Vezessen óvatosan.",
+          "Előre ellenőrizze a Lázár-barlang nyitvatartási idejét.",
+          "Néhány parkoló a látnivalóknál lehet, hogy nincs leaszfaltozva."
+        ],
+        "ro": [
+          "Alimentați complet înainte de a merge în regiunea canionului, benzinăriile sunt rare.",
+          "Drumurile către atracțiile naturale pot fi înguste și sinuoase. Conduceți cu prudență.",
+          "Verificați în avans programul de funcționare al Peșterii lui Lazar.",
+          "Unele parcări de la atracții pot să nu fie asfaltate."
+        ],
+        "en": [
+          "Fill up your tank before heading to the canyon region; gas stations are scarce.",
+          "Roads to the natural attractions can be narrow and winding. Drive carefully.",
+          "Check the opening hours for Lazar's Cave in advance.",
+          "Some parking at the attractions may be on unpaved surfaces."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Museum für Bergbau und Hüttenwesen",
+            "hu": "Bányászati és Kohászati Múzeum",
+            "ro": "Muzeul Mineritului și Metalurgiei",
+            "en": "Museum of Mining and Metallurgy"
+          },
+          "coords": [
+            22.098,
+            44.076
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie hier, da es in der Nähe des zentralen Busknotenpunkts liegt.",
+            "hu": "Kezdje itt, mivel a központi buszcsomópont közelében van.",
+            "ro": "Începeți de aici, deoarece este aproape de nodul central de autobuze.",
+            "en": "Start here as it's close to the central bus hub.",
+            "tr": ""
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Palast des Fürsten Miloš",
+            "hu": "Miloš herceg palotája",
+            "ro": "Palatul Prințului Miloš",
+            "en": "Prince Miloš's Palace"
+          },
+          "coords": [
+            22.096,
+            44.075
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum. Bewundern Sie die einzigartige Architektur.",
+            "hu": "Rövid séta a múzeumtól. Csodálja meg az egyedi építészetet.",
+            "ro": "O scurtă plimbare de la muzeu. Admirați arhitectura unică.",
+            "en": "A short walk from the museum. Admire the unique architecture.",
+            "tr": ""
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Busfahrt zum Bor-See und Mittagessen",
+            "hu": "Buszozás a Bori-tóhoz és ebéd",
+            "ro": "Călătorie cu autobuzul la Lacul Bor și prânz",
+            "en": "Bus ride to Lake Bor & Lunch"
+          },
+          "coords": [
+            22.128,
+            44.045
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über den Busfahrplan. Genießen Sie die Aussicht vom Seeufer.",
+            "hu": "Tájékozódjon a buszmenetrendről. Élvezze a kilátást a tópartról.",
+            "ro": "Verificați orarul autobuzelor. Bucurați-vă de priveliștea de pe malul lacului.",
+            "en": "Check the bus schedule. Enjoy the views from the lake shore.",
+            "tr": ""
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Busfahrt zum Brestovacer Bad",
+            "hu": "Buszozás a Brestovaci fürdőhöz",
+            "ro": "Călătorie cu autobuzul la Băile Brestovac",
+            "en": "Bus ride to Brestovac Spa"
+          },
+          "coords": [
+            22.04,
+            44.06
+          ],
+          "category": "natural features",
+          "arrive_at": "15:25",
+          "stay_min": 70,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8,
+          "tip_5lang": {
+            "de": "Möglicherweise müssen Sie im Zentrum umsteigen. Der Park ist ideal für einen Spaziergang.",
+            "hu": "Lehet, hogy a központban át kell szállnia. A park ideális egy sétához.",
+            "ro": "S-ar putea să trebuiască să schimbați autobuzul în centru. Parcul este ideal pentru o plimbare.",
+            "en": "You might need to change buses in the center. The park is ideal for a stroll.",
+            "tr": ""
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Rückkehr ins Zentrum und Abschluss",
+            "hu": "Visszatérés a központba és befejezés",
+            "ro": "Întoarcere în centru și încheiere",
+            "en": "Return to center and wrap-up"
+          },
+          "coords": [
+            22.099,
+            44.077
+          ],
+          "category": "city",
+          "arrive_at": "17:05",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Kaffee, während Sie auf Ihren Bus warten.",
+            "hu": "Zárja a napot egy kávéval, amíg a buszára vár.",
+            "ro": "Încheiați ziua cu o cafea în timp ce așteptați autobuzul.",
+            "en": "End your day with a coffee while waiting for your connecting bus.",
+            "tr": ""
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Bors Industrieerbe, dem Bergbaumuseum, das Sie leicht vom Busbahnhof aus erreichen. Ein kurzer Spaziergang führt Sie zum Palast des Fürsten Miloš. Mittags nehmen Sie den Bus zum Bor-See für ein Mittagessen mit Aussicht. Ein weiterer Bus bringt Sie am Nachmittag zum historischen Brestovacer Bad, wo Sie im Thermalpark entspannen können. Der Tag endet wieder im Zentrum, perfekt getaktet für Ihre Weiterreise.",
+        "hu": "A nap Bor ipari örökségének szívében, a Bányászati Múzeumban kezdődik, amelyet könnyen elérhet a buszpályaudvarról. Egy rövid séta elvezeti Miloš herceg palotájához. Délben busszal megy a Bori-tóhoz egy kilátással egybekötött ebédre. Egy másik busz délután a történelmi Brestovaci fürdőbe viszi, ahol pihenhet a termálparkban. A nap ismét a központban ér véget, tökéletesen időzítve a továbbutazáshoz.",
+        "ro": "Ziua dvs. începe în inima patrimoniului industrial al Borului, Muzeul Mineritului, ușor accesibil de la autogară. O scurtă plimbare vă duce la Palatul Prințului Miloš. La prânz, luați autobuzul spre Lacul Bor pentru un prânz cu priveliște. Un alt autobuz vă duce după-amiaza la istorica Baie Brestovac, unde vă puteți relaxa în parcul termal. Ziua se încheie din nou în centru, perfect sincronizată pentru călătoria dvs. ulterioară.",
+        "en": "Your day starts in the heart of Bor's industrial heritage, the Mining Museum, easily reached from the bus station. A short walk takes you to Prince Miloš's Palace. At noon, you take the bus to Lake Bor for lunch with a view. Another bus takes you to the historic Brestovac Spa in the afternoon, where you can relax in the thermal park. The day ends back in the center, perfectly timed for your onward journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "Ein Blätterteiggebäck, gefüllt mit Käse oder Fleisch, ideal für ein schnelles Frühstück oder einen Snack."
+          },
+          {
+            "name": "Kajmak",
+            "tip": "Eine Art Rahm, köstlich auf frischem Brot. Kaufen Sie ihn auf dem lokalen Markt."
+          },
+          {
+            "name": "Hausgemachter Saft (Sok)",
+            "tip": "Viele Cafés bieten Säfte aus lokalen Früchten wie Himbeeren oder Kirschen an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Rétes tészta, sajttal vagy hússal töltve, ideális egy gyors reggelihez vagy uzsonnához."
+          },
+          {
+            "name": "Kajmak",
+            "tip": "Egyfajta tejföl, finom friss kenyérrel. Vegye meg a helyi piacon."
+          },
+          {
+            "name": "Házi gyümölcslé (Sok)",
+            "tip": "Sok kávézó kínál helyi gyümölcsökből, például málnából vagy cseresznyéből készült leveket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "O patiserie din foietaj, umplută cu brânză sau carne, ideală pentru un mic dejun rapid sau o gustare."
+          },
+          {
+            "name": "Kajmak",
+            "tip": "Un fel de smântână groasă, delicioasă pe pâine proaspătă. Cumpărați-o de la piața locală."
+          },
+          {
+            "name": "Suc de casă (Sok)",
+            "tip": "Multe cafenele oferă sucuri din fructe locale, cum ar fi zmeura sau cireșele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "A flaky pastry filled with cheese or meat, ideal for a quick breakfast or snack."
+          },
+          {
+            "name": "Kajmak",
+            "tip": "A type of clotted cream, delicious on fresh bread. Buy it at the local market."
+          },
+          {
+            "name": "Homemade juice (Sok)",
+            "tip": "Many cafes offer juices made from local fruits like raspberries or cherries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang um den Bor-See",
+            "tip": "Gehen Sie ein Stück vom Hauptstrand weg, um die Ruhe des Wassers zu finden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park am Brestovacer Bad",
+            "tip": "Die alten Bäume und die historische Atmosphäre sind sehr beruhigend.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Eine Bank im Stadtpark",
+            "tip": "Ein einfacher, aber effektiver Ort, um sich vom Sightseeing zu erholen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Bori-tó körül",
+            "tip": "Menjen egy kicsit távolabb a fő strandtól, hogy megtalálja a víz nyugalmát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park a Brestovaci fürdőnél",
+            "tip": "A régi fák és a történelmi légkör nagyon megnyugtató.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Egy pad a városi parkban",
+            "tip": "Egyszerű, de hatékony hely a városnézés utáni pihenésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare în jurul Lacului Bor",
+            "tip": "Îndepărtați-vă puțin de plaja principală pentru a găsi liniștea apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de la Băile Brestovac",
+            "tip": "Copacii bătrâni și atmosfera istorică sunt foarte liniștitoare.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "O bancă în parcul orașului",
+            "tip": "Un loc simplu, dar eficient pentru a vă odihni după vizitarea obiectivelor turistice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk around Lake Bor",
+            "tip": "Move a little away from the main beach to find the tranquility of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park at Brestovac Spa",
+            "tip": "The old trees and historic atmosphere are very calming.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A bench in the city park",
+            "tip": "A simple but effective place to rest from sightseeing.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Der beste Ort für frische Produkte und um das lokale Leben zu erleben."
+          },
+          {
+            "name": "Kleine Bäckereien (Pekara)",
+            "tip": "Kaufen Sie frisches Brot und Gebäck für Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "A legjobb hely friss termékekért és a helyi élet megtapasztalásáért."
+          },
+          {
+            "name": "Kis pékségek (Pekara)",
+            "tip": "Vásároljon friss kenyeret és péksüteményt az utazáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cel mai bun loc pentru produse proaspete și pentru a experimenta viața locală."
+          },
+          {
+            "name": "Mici brutării (Pekara)",
+            "tip": "Cumpărați pâine proaspătă și produse de patiserie pentru călătoria dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "The best place for fresh produce and to experience local life."
+          },
+          {
+            "name": "Small bakeries (Pekara)",
+            "tip": "Buy fresh bread and pastries for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Holen Sie sich am Busbahnhof einen Fahrplan oder nutzen Sie eine lokale App.",
+          "Die Busse fahren möglicherweise nicht häufig, planen Sie also Ihre Abfahrten sorgfältig.",
+          "Haben Sie Kleingeld für die Bustickets bereit.",
+          "Bestätigen Sie die letzte Busverbindung zurück ins Zentrum, besonders vom See aus."
+        ],
+        "hu": [
+          "Szerezzen be egy menetrendet a buszpályaudvaron, vagy használjon egy helyi alkalmazást.",
+          "A buszok nem feltétlenül járnak gyakran, ezért gondosan tervezze meg az indulásokat.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "Erősítse meg az utolsó buszjáratot vissza a központba, különösen a tótól."
+        ],
+        "ro": [
+          "Obțineți un orar de la autogară sau folosiți o aplicație locală.",
+          "Autobuzele s-ar putea să nu circule frecvent, așa că planificați-vă plecările cu atenție.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz.",
+          "Confirmați ultima legătură de autobuz înapoi spre centru, în special de la lac."
+        ],
+        "en": [
+          "Get a schedule from the bus station or use a local app.",
+          "Buses may not be frequent, so plan your departures carefully.",
+          "Have small change ready for bus tickets.",
+          "Confirm the last bus connection back to the center, especially from the lake."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1508 @@
+{
+  "city_id": "iceland-vestmannaeyjar-cities-v2",
+  "anchor": {
+    "name": "Vestmannaeyjar",
+    "coords": [
+      -20.27,
+      63.44
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen und Skansinn Festung",
+            "hu": "Kikötő és a Skansinn erőd",
+            "ro": "Portul și Fortăreața Skansinn",
+            "en": "Harbor and Skansinn Fortress"
+          },
+          "coords": [
+            -20.278,
+            63.441
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie die ankommenden Fischerboote und die Papageientaucher-Statuen.",
+            "hu": "Figyeld a beérkező halászhajókat és a lunda szobrokat.",
+            "ro": "Urmăriți bărcile de pescuit care sosesc și statuile de papagali de mare.",
+            "en": "Watch the fishing boats arrive and spot the puffin statues."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimaey Stabkirche",
+            "hu": "Heimaey dongatemplom",
+            "ro": "Biserica de lemn Heimaey",
+            "en": "Heimaey Stave Church"
+          },
+          "coords": [
+            -20.275,
+            63.442
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Geschenk aus Norwegen, das an die Christianisierung Islands erinnert.",
+            "hu": "Norvégia ajándéka, Izland kereszténnyé válásának emléket állít.",
+            "ro": "Un cadou din Norvegia care comemorează creștinarea Islandei.",
+            "en": "A gift from Norway, commemorating the Christianization of Iceland."
+          }
+        },
+        {
+          "name": {
+            "de": "Eldheimar Museum",
+            "hu": "Eldheimar Múzeum",
+            "ro": "Muzeul Eldheimar",
+            "en": "Eldheimar Museum"
+          },
+          "coords": [
+            -20.255,
+            63.435
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum ist um ein bei dem Ausbruch von 1973 verschüttetes Haus gebaut.",
+            "hu": "A múzeum egy, az 1973-as kitörés során betemetett ház köré épült.",
+            "ro": "Muzeul este construit în jurul unei case îngropate în erupția din 1973.",
+            "en": "The museum is built around a house buried in the 1973 eruption."
+          }
+        },
+        {
+          "name": {
+            "de": "Besteigung des Vulkans Eldfell",
+            "hu": "Az Eldfell vulkán megmászása",
+            "ro": "Urcarea pe vulcanul Eldfell",
+            "en": "Climbing the Eldfell Volcano"
+          },
+          "coords": [
+            -20.245,
+            63.432
+          ],
+          "category": "natural features",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Boden ist an einigen Stellen noch warm. Toller Panoramablick!",
+            "hu": "A talaj helyenként még mindig meleg. Nagyszerű panoráma!",
+            "ro": "Pământul este încă cald în unele locuri. O panoramă superbă!",
+            "en": "The ground is still warm in some spots. Great panoramic views!"
+          }
+        },
+        {
+          "name": {
+            "de": "Sprangan Klippenschaukeln",
+            "hu": "Sprangan sziklaugrás",
+            "ro": "Leagănul de pe stânca Sprangan",
+            "en": "Sprangan Cliff Swinging"
+          },
+          "coords": [
+            -20.282,
+            63.438
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie zu, wie Einheimische ihre traditionellen seil-schwingenden Fähigkeiten zeigen.",
+            "hu": "Nézd, ahogy a helyiek bemutatják a hagyományos kötél-lengő tudásukat.",
+            "ro": "Urmăriți localnicii demonstrându-și abilitățile tradiționale de legănat pe frânghie.",
+            "en": "Watch locals demonstrate their traditional rope-swinging skills."
+          }
+        },
+        {
+          "name": {
+            "de": "Beluga Whale Sanctuary",
+            "hu": "Beluga Menedékhely",
+            "ro": "Sanctuarul balenelor Beluga",
+            "en": "Beluga Whale Sanctuary"
+          },
+          "coords": [
+            -20.28,
+            63.45
+          ],
+          "category": "natural features",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Rettung und Rehabilitation dieser sanften Riesen.",
+            "hu": "Ismerd meg ezeknek a szelíd óriásoknak a mentését és rehabilitációját.",
+            "ro": "Aflați despre salvarea și reabilitarea acestor giganți blânzi.",
+            "en": "Learn about the rescue and rehabilitation of these gentle giants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am lebhaften Hafen, wo die Geschichte der Insel bei der Festung Skansinn und der Stabkirche Heimaey lebendig wird. Am Vormittag tauchen Sie im Eldheimar-Museum tief in die dramatische Vulkangeschichte ein. Der Nachmittag ist ein Abenteuer: Sie besteigen den noch warmen Vulkan Eldfell und genießen atemberaubende Ausblicke. Zum Abschluss des Tages erleben Sie bei Sprangan eine einzigartige lokale Tradition und besuchen die sanften Riesen im Beluga-Schutzgebiet, ein ruhiger Ausklang eines ereignisreichen Tages.",
+        "hu": "A nap a nyüzsgő kikötőben kezdődik, ahol a sziget történelme a Skansinn erődnél és a Heimaey dongatemplomnál kel életre. A délelőtt folyamán az Eldheimar Múzeumban mélyen elmerül a drámai vulkáni múltban. A délután egy kaland: megmássza a még mindig meleg Eldfell vulkánt, lélegzetelállító kilátást élvezve. A nap végén a Sprangannál egy egyedi helyi hagyományt tapasztalhat meg, és meglátogatja a Beluga Menedékhely szelíd óriásait, ami egy eseménydús nap békés lezárása.",
+        "ro": "Ziua începe în portul plin de viață, unde istoria insulei prinde viață la Fortăreața Skansinn și la Biserica de lemn Heimaey. În cursul dimineții, vă veți scufunda adânc în istoria vulcanică dramatică la Muzeul Eldheimar. După-amiaza este o aventură: veți urca pe vulcanul încă cald Eldfell, bucurându-vă de priveliști uluitoare. La finalul zilei, veți experimenta o tradiție locală unică la Sprangan și veți vizita giganții blânzi de la Sanctuarul balenelor Beluga, o încheiere liniștită a unei zile pline de evenimente.",
+        "en": "Your day starts at the lively harbor, where the island's history comes alive at Skansinn Fortress and Heimaey Stave Church. In the morning, you'll delve deep into the dramatic volcanic history at the Eldheimar Museum. The afternoon is an adventure: climbing the still-warm Eldfell volcano for breathtaking views. To end the day, you'll witness a unique local tradition at Sprangan and visit the gentle giants at the Beluga Whale Sanctuary, a peaceful conclusion to an eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisch des Tages",
+            "tip": "Probieren Sie den Fang des Tages im Restaurant Gott, bekannt für seine frischen, gesunden Gerichte."
+          },
+          {
+            "name": "Isländische Kjötsúpa (Lamm-Suppe)",
+            "tip": "Eine herzhafte Suppe, perfekt zum Aufwärmen nach einer Wanderung. Suchen Sie nach ihr in lokalen Cafés."
+          },
+          {
+            "name": "Skyr-Dessert",
+            "tip": "Ein traditionelles isländisches Milchprodukt, oft mit Beeren serviert. Ein leichter und leckerer Genuss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A nap fogása",
+            "tip": "Kóstold meg a nap fogását a Gott étteremben, amely friss, egészséges ételeiről ismert."
+          },
+          {
+            "name": "Izlandi Kjötsúpa (bárányleves)",
+            "tip": "Kiadós leves, tökéletes felmelegedés egy túra után. Keresd a helyi kávézókban."
+          },
+          {
+            "name": "Skyr desszert",
+            "tip": "Hagyományos izlandi tejtermék, gyakran bogyós gyümölcsökkel tálalva. Könnyű és finom csemege."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peștele zilei",
+            "tip": "Încercați captura zilei la Restaurant Gott, cunoscut pentru preparatele sale proaspete și sănătoase."
+          },
+          {
+            "name": "Kjötsúpa islandeză (supă de miel)",
+            "tip": "O supă consistentă, perfectă pentru a vă încălzi după o drumeție. Căutați-o în cafenelele locale."
+          },
+          {
+            "name": "Desert cu Skyr",
+            "tip": "Un produs lactat tradițional islandez, adesea servit cu fructe de pădure. Un deliciu ușor și gustos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish of the Day",
+            "tip": "Try the catch of the day at Gott Restaurant, known for its fresh, healthy dishes."
+          },
+          {
+            "name": "Icelandic Kjötsúpa (Lamb Soup)",
+            "tip": "A hearty soup, perfect for warming up after a hike. Look for it in local cafes."
+          },
+          {
+            "name": "Skyr Dessert",
+            "tip": "A traditional Icelandic dairy product, often served with berries. A light and delicious treat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Eldfell",
+            "tip": "Der 360-Grad-Blick von oben ist die Wanderung wert. Ein Ort der Ruhe über der Stadt.",
+            "emoji": "🌋"
+          },
+          {
+            "name": "Klippen bei Sprangan",
+            "tip": "Abseits der Vorführungen ist dies ein großartiger Ort, um dem Meer zu lauschen.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Abend am Hafen",
+            "tip": "Finden Sie eine Bank und beobachten Sie, wie die Boote bei Sonnenuntergang sanft schaukeln.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eldfell csúcsa",
+            "tip": "A 360 fokos kilátás a csúcsról megéri a túrát. A nyugalom helye a város felett.",
+            "emoji": "🌋"
+          },
+          {
+            "name": "Sziklák Sprangannál",
+            "tip": "A bemutatókon kívül ez egy remek hely a tenger zúgásának hallgatására.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Este a kikötőben",
+            "tip": "Keress egy padot, és nézd, ahogy a hajók lágyan ringatóznak a naplementében.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Eldfell",
+            "tip": "Priveliștea de 360 de grade de sus merită drumeția. Un loc de liniște deasupra orașului.",
+            "emoji": "🌋"
+          },
+          {
+            "name": "Stâncile de la Sprangan",
+            "tip": "În afara demonstrațiilor, acesta este un loc minunat pentru a asculta marea.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Seara în port",
+            "tip": "Găsiți o bancă și priviți bărcile legănându-se ușor la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Eldfell",
+            "tip": "The 360-degree view from the top is worth the hike. A place of tranquility above the town.",
+            "emoji": "🌋"
+          },
+          {
+            "name": "Cliffs near Sprangan",
+            "tip": "Away from the demonstrations, this is a great spot to listen to the sea.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Evening at the Harbor",
+            "tip": "Find a bench and watch the boats gently bobbing as the sun sets.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wollwaren",
+            "tip": "Suchen Sie nach einem handgestrickten Lopapeysa (isländischer Pullover) in den örtlichen Kunsthandwerksläden."
+          },
+          {
+            "name": "Vulkan-Souvenirs",
+            "tip": "Schmuck aus Lavagestein oder Asche aus dem Ausbruch von 1973 sind einzigartige Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyapjú termékek",
+            "tip": "Keress egy kézzel kötött Lopapeysa-t (izlandi pulóver) a helyi kézműves boltokban."
+          },
+          {
+            "name": "Vulkáni szuvenírek",
+            "tip": "Lávakőből készült ékszerek vagy az 1973-as kitörés hamuja egyedi emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole din lână",
+            "tip": "Căutați un Lopapeysa (pulover islandez) tricotat manual în magazinele de artizanat locale."
+          },
+          {
+            "name": "Suveniruri vulcanice",
+            "tip": "Bijuteriile din rocă de lavă sau cenușa de la erupția din 1973 sunt suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Woolen Goods",
+            "tip": "Look for a hand-knitted Lopapeysa (Icelandic sweater) in the local craft shops."
+          },
+          {
+            "name": "Volcanic Souvenirs",
+            "tip": "Jewelry made from lava rock or ash from the 1973 eruption are unique keepsakes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie feste, bequeme Wanderschuhe. Die Wege können uneben sein.",
+          "Das Wetter kann sich schnell ändern. Kleiden Sie sich in Schichten und bringen Sie wasserdichte Kleidung mit.",
+          "Buchen Sie Fährtickets und alle Touren (wie Walbeobachtung) im Voraus, besonders im Sommer.",
+          "Respektieren Sie die Nistplätze der Papageientaucher und halten Sie Abstand."
+        ],
+        "hu": [
+          "Viselj erős, kényelmes túracipőt. Az ösvények egyenetlenek lehetnek.",
+          "Az időjárás gyorsan változhat. Öltözz rétegesen, és vigyél magaddal vízálló ruhát.",
+          "Foglald le előre a kompjegyet és a túrákat (például bálnafigyelést), különösen nyáron.",
+          "Tartsd tiszteletben a lundák fészkelőhelyeit, és tarts távolságot."
+        ],
+        "ro": [
+          "Purtați pantofi de drumeție rezistenți și confortabili. Traseele pot fi denivelate.",
+          "Vremea se poate schimba rapid. Îmbrăcați-vă în straturi și aduceți haine impermeabile.",
+          "Rezervați biletele de feribot și orice tururi (cum ar fi observarea balenelor) în avans, în special vara.",
+          "Respectați zonele de cuibărit ale papagalilor de mare și păstrați distanța."
+        ],
+        "en": [
+          "Wear sturdy, comfortable walking shoes. The paths can be uneven.",
+          "The weather can change quickly. Dress in layers and bring waterproof gear.",
+          "Book ferry tickets and any tours (like whale watching) in advance, especially in summer.",
+          "Respect the puffin nesting areas and keep your distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 21.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Hafen",
+            "hu": "Kerékpárkölcsönző és kikötő",
+            "ro": "Închiriere de biciclete și port",
+            "en": "Bike Rental & Harbor"
+          },
+          "coords": [
+            -20.27,
+            63.44
+          ],
+          "category": "other",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Fahrrad und machen Sie eine kurze Runde um den Hafen, um sich aufzuwärmen.",
+            "hu": "Vedde át a kerékpárt, és tegyen egy rövid kört a kikötőben bemelegítésként.",
+            "ro": "Luați-vă bicicleta și faceți o scurtă tură în jurul portului pentru a vă încălzi.",
+            "en": "Pick up your bike and do a quick loop around the harbor to warm up."
+          }
+        },
+        {
+          "name": {
+            "de": "Eldheimar Museum",
+            "hu": "Eldheimar Múzeum",
+            "ro": "Muzeul Eldheimar",
+            "en": "Eldheimar Museum"
+          },
+          "coords": [
+            -20.255,
+            63.435
+          ],
+          "category": "museums",
+          "arrive_at": "09:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie in die Geschichte des Ausbruchs von 1973 ein.",
+            "hu": "Parkolja le a kerékpárt, és merüljön el az 1973-as kitörés történetében.",
+            "ro": "Parcați-vă bicicleta și scufundați-vă în istoria erupției din 1973.",
+            "en": "Park your bike and immerse yourself in the history of the 1973 eruption."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuß des Vulkans Eldfell",
+            "hu": "Az Eldfell vulkán lába",
+            "ro": "Poalele vulcanului Eldfell",
+            "en": "Base of Eldfell Volcano"
+          },
+          "coords": [
+            -20.245,
+            63.432
+          ],
+          "category": "natural features",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und wandern Sie zum Gipfel. Die Aussicht ist die Mühe wert.",
+            "hu": "Hagyja itt a kerékpárt, és túrázzon fel a csúcsra. A kilátás megéri a fáradságot.",
+            "ro": "Lăsați bicicleta și urcați pe jos până în vârf. Priveliștea merită efortul.",
+            "en": "Leave your bike and hike to the summit. The view is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Elephant Rock",
+            "hu": "Elefánt-szikla kilátópont",
+            "ro": "Punct de belvedere Elephant Rock",
+            "en": "Elephant Rock Viewpoint"
+          },
+          "coords": [
+            -20.305,
+            63.439
+          ],
+          "category": "natural features",
+          "arrive_at": "13:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Fotostopp. Der Felsen sieht wirklich wie ein Elefant aus!",
+            "hu": "Remek fotómegálló. A szikla tényleg úgy néz ki, mint egy elefánt!",
+            "ro": "O oprire excelentă pentru fotografii. Stânca chiar arată ca un elefant!",
+            "en": "A great photo stop. The rock really does look like an elephant!"
+          }
+        },
+        {
+          "name": {
+            "de": "Stórhöfði",
+            "hu": "Stórhöfði",
+            "ro": "Stórhöfði",
+            "en": "Stórhöfði"
+          },
+          "coords": [
+            -20.3,
+            63.405
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Einer der windigsten Orte Europas und ein Paradies für Papageientaucher im Sommer.",
+            "hu": "Európa egyik legszelesebb helye és nyáron a lundák paradicsoma.",
+            "ro": "Unul dintre cele mai vântoase locuri din Europa și un paradis pentru papagali de mare în timpul verii.",
+            "en": "One of the windiest places in Europe and a puffin paradise in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Beluga Whale Sanctuary",
+            "hu": "Beluga Menedékhely",
+            "ro": "Sanctuarul balenelor Beluga",
+            "en": "Beluga Whale Sanctuary"
+          },
+          "coords": [
+            -20.28,
+            63.45
+          ],
+          "category": "natural features",
+          "arrive_at": "15:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine lohnende Fahrt, um mehr über den Schutz dieser erstaunlichen Tiere zu erfahren.",
+            "hu": "Megéri az utat, hogy többet megtudj ezeknek a csodálatos állatoknak a védelméről.",
+            "ro": "O plimbare care merită pentru a afla despre conservarea acestor creaturi uimitoare.",
+            "en": "A rewarding ride to learn about the conservation of these amazing creatures."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Stadtzentrum",
+            "hu": "Vacsora a városközpontban",
+            "ro": "Cină în centrul orașului",
+            "en": "Dinner in the Town Center"
+          },
+          "coords": [
+            -20.272,
+            63.439
+          ],
+          "category": "gastro",
+          "arrive_at": "16:52",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie eine wohlverdiente Mahlzeit im Slippurinn oder Gott.",
+            "hu": "Adja le a kerékpárt, és élvezzen egy jól megérdemelt vacsorát a Slippurinn vagy a Gott étteremben.",
+            "ro": "Returnați bicicleta și bucurați-vă de o masă binemeritată la Slippurinn sau Gott.",
+            "en": "Return your bike and enjoy a well-deserved meal at Slippurinn or Gott."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf zwei Rädern mit einer Fahrt um den Hafen. Der Vormittag führt Sie zum Eldheimar-Museum und dann zum Fuß des Vulkans Eldfell, wo Sie für eine kurze Wanderung absteigen. Am Mittag radeln Sie zur Westküste, um den berühmten Elephant Rock zu sehen, bevor Sie sich auf den Weg zum windigen Stórhöfði machen, einem Hotspot für die Beobachtung von Papageientauchern. Der Nachmittag endet mit einem Besuch im Beluga-Schutzgebiet, bevor Sie für ein herzhaftes Abendessen ins Stadtzentrum zurückkehren.",
+        "hu": "Kezdje a napot két keréken egy kikötői körrel. A délelőtt az Eldheimar Múzeumhoz, majd az Eldfell vulkán lábához vezet, ahol egy rövid túrára száll le a kerékpárról. Délben a nyugati partra teker, hogy megnézze a híres Elefánt-sziklát, mielőtt a szeles Stórhöfði felé veszi az irányt, amely a lundák megfigyelésének központja. A délután a Beluga Menedékhely meglátogatásával zárul, mielőtt visszatérne a városközpontba egy kiadós vacsorára.",
+        "ro": "Începeți ziua pe două roți cu o plimbare în jurul portului. Dimineața vă duce la Muzeul Eldheimar și apoi la poalele vulcanului Eldfell, unde descălecați pentru o scurtă drumeție. La amiază, pedalați spre coasta de vest pentru a vedea faimoasa Stâncă Elefant, înainte de a vă îndrepta spre vântosul Stórhöfði, un punct fierbinte pentru observarea papagalilor de mare. După-amiaza se încheie cu o vizită la Sanctuarul balenelor Beluga înainte de a vă întoarce în centrul orașului pentru o cină copioasă.",
+        "en": "Start your day on two wheels with a ride around the harbor. The morning takes you to Eldheimar Museum and then to the base of Eldfell volcano, where you'll dismount for a short hike. At midday, you'll cycle to the west coast to see the famous Elephant Rock before heading to the windy Stórhöfði, a puffin-watching hotspot. The afternoon concludes with a visit to the Beluga Whale Sanctuary before returning to the town center for a hearty dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Slippurinn",
+            "tip": "Ein hoch bewertetes Restaurant in einer alten Maschinenwerkstatt, das sich auf lokale, saisonale Zutaten konzentriert."
+          },
+          {
+            "name": "Einsi Kaldi",
+            "tip": "Bietet ein fantastisches Fischbuffet und einen großartigen Blick auf den Hafen."
+          },
+          {
+            "name": "Bruder Burger",
+            "tip": "Für eine zwanglosere, aber köstliche Option, probieren Sie die lokalen Burger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Slippurinn",
+            "tip": "Magasan értékelt étterem egy régi gépgyárban, helyi, szezonális alapanyagokra összpontosítva."
+          },
+          {
+            "name": "Einsi Kaldi",
+            "tip": "Fantasztikus halbüfét és nagyszerű kilátást kínál a kikötőre."
+          },
+          {
+            "name": "Bruder Burger",
+            "tip": "Egy lazább, de finom lehetőségért próbáld ki a helyi hamburgereket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Slippurinn",
+            "tip": "Un restaurant foarte apreciat, situat într-un vechi atelier de mașini, axat pe ingrediente locale de sezon."
+          },
+          {
+            "name": "Einsi Kaldi",
+            "tip": "Oferă un bufet fantastic de pește și o priveliște minunată asupra portului."
+          },
+          {
+            "name": "Bruder Burger",
+            "tip": "Pentru o opțiune mai casual, dar delicioasă, încercați burgerii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Slippurinn",
+            "tip": "A highly-rated restaurant in an old machine workshop, focusing on local, seasonal ingredients."
+          },
+          {
+            "name": "Einsi Kaldi",
+            "tip": "Offers a fantastic fish buffet and great views of the harbor."
+          },
+          {
+            "name": "Bruder Burger",
+            "tip": "For a more casual but delicious option, try the local burgers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stórhöfði Klippen",
+            "tip": "Finden Sie einen ruhigen Platz, um Tausende von Papageientauchern (im Sommer) zu beobachten.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Westküstenpfad",
+            "tip": "Die Fahrt entlang der Westküste bietet atemberaubende Ausblicke auf das Meer und die Klippen.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Lavafelder",
+            "tip": "Machen Sie eine Pause in den moosbedeckten Lavafeldern; es ist eine andere Welt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stórhöfði sziklái",
+            "tip": "Keress egy csendes helyet, és figyeld a lundák ezreit (nyáron).",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Nyugati parti ösvény",
+            "tip": "A nyugati parton való tekerés lenyűgöző kilátást nyújt a tengerre és a sziklákra.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Lávamezők",
+            "tip": "Tarts egy szünetet a mohával borított lávamezőkön; ez egy másik világ.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile Stórhöfði",
+            "tip": "Găsiți un loc liniștit pentru a privi miile de papagali de mare (vara).",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Traseul coastei de vest",
+            "tip": "Plimbarea cu bicicleta de-a lungul coastei de vest oferă priveliști uimitoare ale mării și stâncilor.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Câmpiile de lavă",
+            "tip": "Luați o pauză în câmpiile de lavă acoperite de mușchi; este o altă lume.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stórhöfði Cliffs",
+            "tip": "Find a quiet spot to watch thousands of puffins (in summer).",
+            "emoji": "🐦"
+          },
+          {
+            "name": "West Coast Path",
+            "tip": "The ride along the west coast offers stunning sea and cliff views.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Lava Fields",
+            "tip": "Take a break in the moss-covered lava fields; it's another world.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Suchen Sie nach Outdoor-Ausrüstung oder Kleidung mit isländischem Design."
+          },
+          {
+            "name": "Lokale Töpferwaren",
+            "tip": "Einige Geschäfte verkaufen Keramik, die von der vulkanischen Landschaft inspiriert ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Keress kültéri felszerelést vagy izlandi dizájnú ruházatot."
+          },
+          {
+            "name": "Helyi kerámiák",
+            "tip": "Néhány bolt a vulkáni táj által inspirált kerámiákat árul."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "Căutați echipament de exterior sau îmbrăcăminte cu design islandez."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Unele magazine vând ceramică inspirată de peisajul vulcanic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sport Shops",
+            "tip": "Look for outdoor gear or clothing with an Icelandic design."
+          },
+          {
+            "name": "Local Pottery",
+            "tip": "Some shops sell ceramics inspired by the volcanic landscape."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen und Reifen.",
+          "Einige Straßen können steil sein, besonders die zum Stórhöfði. Seien Sie auf einen Anstieg vorbereitet.",
+          "Nehmen Sie Wasser und Snacks mit, da es außerhalb der Stadt nur wenige Geschäfte gibt.",
+          "Seien Sie vorsichtig bei Windböen, die auf der Insel häufig sind."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a kerékpárt, különösen a fékeket és a gumikat.",
+          "Néhány út meredek lehet, különösen a Stórhöfði felé. Készülj fel egy emelkedőre.",
+          "Vigyél magaddal vizet és rágcsálnivalót, mert a városon kívül kevés a bolt.",
+          "Légy óvatos a széllökésekkel, amelyek gyakoriak a szigeten."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Unele drumuri pot fi abrupte, în special cel spre Stórhöfði. Fiți pregătiți pentru o urcare.",
+          "Luați apă și gustări, deoarece există puține magazine în afara orașului.",
+          "Aveți grijă la rafalele de vânt, care sunt frecvente pe insulă."
+        ],
+        "en": [
+          "Check your bike before you set off, especially the brakes and tires.",
+          "Some roads can be steep, especially the one to Stórhöfði. Be prepared for a climb.",
+          "Bring water and snacks, as there are few shops outside of the main town.",
+          "Be careful of gusts of wind, which are common on the island."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 20.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stórhöfði",
+            "hu": "1. klaszter: Stórhöfði",
+            "ro": "Cluster 1: Stórhöfði",
+            "en": "Cluster 1: Stórhöfði"
+          },
+          "coords": [
+            -20.3,
+            63.405
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie direkt zum südlichen Punkt, um die Papageientaucher am Morgen zu beobachten. Parken Sie hier.",
+            "hu": "Vezessen egyenesen a déli ponthoz a reggeli lundalesre. Parkoljon itt.",
+            "ro": "Conduceți direct la punctul sudic pentru a observa papagalii de mare dimineața. Parcați aici.",
+            "en": "Drive straight to the southern point for morning puffin watching. Park here."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Elephant Rock",
+            "hu": "Elefánt-szikla kilátópont",
+            "ro": "Punct de belvedere Elephant Rock",
+            "en": "Elephant Rock Viewpoint"
+          },
+          "coords": [
+            -20.305,
+            63.439
+          ],
+          "category": "natural features",
+          "arrive_at": "10:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt für ein ikonisches Foto. Der Parkplatz ist klein.",
+            "hu": "Rövid megálló egy ikonikus fotóért. A parkoló kicsi.",
+            "ro": "O oprire scurtă pentru o fotografie iconică. Parcarea este mică.",
+            "en": "A quick stop for an iconic photo. The parking area is small."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Eldheimar & Eldfell",
+            "hu": "2. klaszter: Eldheimar és Eldfell",
+            "ro": "Cluster 2: Eldheimar & Eldfell",
+            "en": "Cluster 2: Eldheimar & Eldfell"
+          },
+          "coords": [
+            -20.255,
+            63.435
+          ],
+          "category": "museums",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie beim Eldheimar-Museum. Von hier aus erkunden Sie das Museum und den Vulkan.",
+            "hu": "Parkoljon az Eldheimar Múzeumnál. Innen fedezi fel a múzeumot és a vulkánt.",
+            "ro": "Parcați la Muzeul Eldheimar. De aici veți explora muzeul și vulcanul.",
+            "en": "Park at the Eldheimar Museum. You'll explore the museum and the volcano from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Besteigung des Vulkans Eldfell",
+            "hu": "Az Eldfell vulkán megmászása",
+            "ro": "Urcarea pe vulcanul Eldfell",
+            "en": "Climbing the Eldfell Volcano"
+          },
+          "coords": [
+            -20.245,
+            63.432
+          ],
+          "category": "natural features",
+          "arrive_at": "12:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zum Ausgangspunkt des Wanderwegs. Der Aufstieg ist moderat.",
+            "hu": "Rövid séta a múzeumtól a turistaút kiindulópontjáig. A mászás mérsékelt.",
+            "ro": "O scurtă plimbare de la muzeu până la începutul traseului. Urcarea este moderată.",
+            "en": "A short walk from the museum to the trailhead. The climb is moderate."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Hafenbereich",
+            "hu": "3. klaszter: Kikötő környéke",
+            "ro": "Cluster 3: Zona portuară",
+            "en": "Cluster 3: Harbor Area"
+          },
+          "coords": [
+            -20.278,
+            63.441
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und erkunden Sie den Rest zu Fuß. Beginnen Sie bei der Festung Skansinn.",
+            "hu": "Parkoljon a központban, és fedezze fel a többit gyalog. Kezdje a Skansinn erődnél.",
+            "ro": "Parcați în centru și explorați restul pe jos. Începeți cu Fortăreața Skansinn.",
+            "en": "Park in the center and explore the rest on foot. Start at Skansinn Fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimaey Stabkirche",
+            "hu": "Heimaey dongatemplom",
+            "ro": "Biserica de lemn Heimaey",
+            "en": "Heimaey Stave Church"
+          },
+          "coords": [
+            -20.275,
+            63.442
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf von der Festung entfernt, ein wunderschönes Stück Architektur.",
+            "hu": "Csak egy kőhajításnyira az erődtől, egy gyönyörű építészeti alkotás.",
+            "ro": "La o aruncătură de băț de fortăreață, o frumoasă piesă de arhitectură.",
+            "en": "Just a stone's throw from the fortress, a beautiful piece of architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Beluga Whale Sanctuary",
+            "hu": "Beluga Menedékhely",
+            "ro": "Sanctuarul balenelor Beluga",
+            "en": "Beluga Whale Sanctuary"
+          },
+          "coords": [
+            -20.28,
+            63.45
+          ],
+          "category": "natural features",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang entlang der Bucht vom Hafenzentrum aus.",
+            "hu": "Kellemes séta az öböl mentén a kikötő központjából.",
+            "ro": "O plimbare plăcută de-a lungul golfului din centrul portului.",
+            "en": "A pleasant walk along the bay from the harbor center."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen mit Hafenblick",
+            "hu": "Vacsora kikötői kilátással",
+            "ro": "Cină cu vedere la port",
+            "en": "Dinner with Harbor View"
+          },
+          "coords": [
+            -20.272,
+            63.439
+          ],
+          "category": "gastro",
+          "arrive_at": "16:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in einem Restaurant Ihrer Wahl in der Nähe Ihres Parkplatzes.",
+            "hu": "Fejezze be a napot egy tetszőleges étteremben a parkoló közelében.",
+            "ro": "Încheiați ziua la un restaurant la alegere, lângă locul unde ați parcat.",
+            "en": "End your day at a restaurant of your choice near where you parked."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt am südlichsten Punkt, Stórhöfði, für eine morgendliche Vogelbeobachtung. Nach einem Fotostopp am Elephant Rock fahren Sie zum zweiten Cluster: dem Eldheimar-Museum und dem Vulkan Eldfell. Hier parken Sie und erkunden zu Fuß, spüren die Geschichte und die Geologie der Insel. Der Nachmittag ist dem Hafengebiet gewidmet, dem Herzen der Gemeinde. Sie parken ein letztes Mal und spazieren zur Festung, der Stabkirche und dem Beluga-Schutzgebiet, bevor Sie den Tag mit einem Abendessen mit Blick auf das Wasser ausklingen lassen.",
+        "hu": "Az autós túra a legdélibb ponton, Stórhöfðinél kezdődik egy reggeli madárlessel. Az Elefánt-sziklánál tett fotómegálló után a második klaszterhez hajt: az Eldheimar Múzeumhoz és az Eldfell vulkánhoz. Itt leparkol, és gyalog fedezi fel a sziget történelmét és geológiáját. A délután a kikötő környékéé, a közösség szívéé. Utoljára leparkol, és átsétál az erőd, a dongatemplom és a Beluga Menedékhely megtekintéséhez, mielőtt a napot egy vízparti vacsorával zárja.",
+        "ro": "Excursia cu mașina începe la cel mai sudic punct, Stórhöfði, pentru observarea păsărilor dimineața. După o oprire pentru fotografii la Stânca Elefant, vă îndreptați spre al doilea cluster: Muzeul Eldheimar și vulcanul Eldfell. Aici parcați și explorați pe jos, simțind istoria și geologia insulei. După-amiaza este dedicată zonei portuare, inima comunității. Parcați pentru ultima dată și vă plimbați până la fortăreață, biserica de lemn și Sanctuarul balenelor Beluga, înainte de a încheia ziua cu o cină cu vedere la apă.",
+        "en": "Your road trip begins at the southernmost point, Stórhöfði, for morning birdwatching. After a photo stop at Elephant Rock, you'll drive to the second cluster: the Eldheimar Museum and Eldfell volcano. Here, you park and explore on foot, feeling the island's history and geology. The afternoon is for the harbor area, the heart of the community. You'll park one last time and stroll to the fortress, stave church, and Beluga Whale Sanctuary before ending with dinner overlooking the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisch des Tages",
+            "tip": "Probieren Sie den Fang des Tages im Restaurant Gott, bekannt für seine frischen, gesunden Gerichte."
+          },
+          {
+            "name": "Isländische Kjötsúpa (Lamm-Suppe)",
+            "tip": "Eine herzhafte Suppe, perfekt zum Aufwärmen nach einer Wanderung. Suchen Sie nach ihr in lokalen Cafés."
+          },
+          {
+            "name": "Skyr-Dessert",
+            "tip": "Ein traditionelles isländisches Milchprodukt, oft mit Beeren serviert. Ein leichter und leckerer Genuss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A nap fogása",
+            "tip": "Kóstold meg a nap fogását a Gott étteremben, amely friss, egészséges ételeiről ismert."
+          },
+          {
+            "name": "Izlandi Kjötsúpa (bárányleves)",
+            "tip": "Kiadós leves, tökéletes felmelegedés egy túra után. Keresd a helyi kávézókban."
+          },
+          {
+            "name": "Skyr desszert",
+            "tip": "Hagyományos izlandi tejtermék, gyakran bogyós gyümölcsökkel tálalva. Könnyű és finom csemege."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peștele zilei",
+            "tip": "Încercați captura zilei la Restaurant Gott, cunoscut pentru preparatele sale proaspete și sănătoase."
+          },
+          {
+            "name": "Kjötsúpa islandeză (supă de miel)",
+            "tip": "O supă consistentă, perfectă pentru a vă încălzi după o drumeție. Căutați-o în cafenelele locale."
+          },
+          {
+            "name": "Desert cu Skyr",
+            "tip": "Un produs lactat tradițional islandez, adesea servit cu fructe de pădure. Un deliciu ușor și gustos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish of the Day",
+            "tip": "Try the catch of the day at Gott Restaurant, known for its fresh, healthy dishes."
+          },
+          {
+            "name": "Icelandic Kjötsúpa (Lamb Soup)",
+            "tip": "A hearty soup, perfect for warming up after a hike. Look for it in local cafes."
+          },
+          {
+            "name": "Skyr Dessert",
+            "tip": "A traditional Icelandic dairy product, often served with berries. A light and delicious treat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Eldfell",
+            "tip": "Der 360-Grad-Blick von oben ist die Wanderung wert. Ein Ort der Ruhe über der Stadt.",
+            "emoji": "🌋"
+          },
+          {
+            "name": "Stórhöfði Klippen",
+            "tip": "Finden Sie einen ruhigen Platz, um Tausende von Papageientauchern (im Sommer) zu beobachten.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Abend am Hafen",
+            "tip": "Finden Sie eine Bank und beobachten Sie, wie die Boote bei Sonnenuntergang sanft schaukeln.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eldfell csúcsa",
+            "tip": "A 360 fokos kilátás a csúcsról megéri a túrát. A nyugalom helye a város felett.",
+            "emoji": "🌋"
+          },
+          {
+            "name": "Stórhöfði sziklái",
+            "tip": "Keress egy csendes helyet, és figyeld a lundák ezreit (nyáron).",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Este a kikötőben",
+            "tip": "Keress egy padot, és nézd, ahogy a hajók lágyan ringatóznak a naplementében.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Eldfell",
+            "tip": "Priveliștea de 360 de grade de sus merită drumeția. Un loc de liniște deasupra orașului.",
+            "emoji": "🌋"
+          },
+          {
+            "name": "Stâncile Stórhöfði",
+            "tip": "Găsiți un loc liniștit pentru a privi miile de papagali de mare (vara).",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Seara în port",
+            "tip": "Găsiți o bancă și priviți bărcile legănându-se ușor la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Eldfell",
+            "tip": "The 360-degree view from the top is worth the hike. A place of tranquility above the town.",
+            "emoji": "🌋"
+          },
+          {
+            "name": "Stórhöfði Cliffs",
+            "tip": "Find a quiet spot to watch thousands of puffins (in summer).",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Evening at the Harbor",
+            "tip": "Find a bench and watch the boats gently bobbing as the sun sets.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wollwaren",
+            "tip": "Suchen Sie nach einem handgestrickten Lopapeysa (isländischer Pullover) in den örtlichen Kunsthandwerksläden."
+          },
+          {
+            "name": "Vulkan-Souvenirs",
+            "tip": "Schmuck aus Lavagestein oder Asche aus dem Ausbruch von 1973 sind einzigartige Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyapjú termékek",
+            "tip": "Keress egy kézzel kötött Lopapeysa-t (izlandi pulóver) a helyi kézműves boltokban."
+          },
+          {
+            "name": "Vulkáni szuvenírek",
+            "tip": "Lávakőből készült ékszerek vagy az 1973-as kitörés hamuja egyedi emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole din lână",
+            "tip": "Căutați un Lopapeysa (pulover islandez) tricotat manual în magazinele de artizanat locale."
+          },
+          {
+            "name": "Suveniruri vulcanice",
+            "tip": "Bijuteriile din rocă de lavă sau cenușa de la erupția din 1973 sunt suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Woolen Goods",
+            "tip": "Look for a hand-knitted Lopapeysa (Icelandic sweater) in the local craft shops."
+          },
+          {
+            "name": "Volcanic Souvenirs",
+            "tip": "Jewelry made from lava rock or ash from the 1973 eruption are unique keepsakes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mietwagen sind auf der Insel begrenzt; buchen Sie weit im Voraus.",
+          "Die Straßen sind eng. Fahren Sie vorsichtig, besonders wenn Schafe in der Nähe sind.",
+          "Parken ist im Allgemeinen einfach, aber halten Sie sich an die ausgewiesenen Bereiche.",
+          "Das Tanken ist teuer, also planen Sie Ihre Fahrten effizient."
+        ],
+        "hu": [
+          "A bérelt autók száma korlátozott a szigeten; foglalj jó előre.",
+          "Az utak keskenyek. Vezess óvatosan, különösen, ha juhok vannak a közelben.",
+          "A parkolás általában egyszerű, de tartsd be a kijelölt helyeket.",
+          "A tankolás drága, ezért tervezd meg hatékonyan az utakat."
+        ],
+        "ro": [
+          "Mașinile de închiriat sunt limitate pe insulă; rezervați cu mult timp în avans.",
+          "Drumurile sunt înguste. Conduceți cu prudență, mai ales dacă sunt oi în apropiere.",
+          "Parcarea este în general ușoară, dar respectați zonele desemnate.",
+          "Combustibilul este scump, așa că planificați-vă călătoriile eficient."
+        ],
+        "en": [
+          "Rental cars are limited on the island; book well in advance.",
+          "The roads are narrow. Drive carefully, especially with sheep nearby.",
+          "Parking is generally easy, but stick to designated areas.",
+          "Fuel is expensive, so plan your driving efficiently."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Hafen & Stadtzentrum",
+            "hu": "1. klaszter: Kikötő és városközpont",
+            "ro": "Cluster 1: Port și centrul orașului",
+            "en": "Cluster 1: Harbor & Town Center"
+          },
+          "coords": [
+            -20.27,
+            63.44
+          ],
+          "category": "other",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptbusbahnhof im Zentrum. Erkunden Sie zuerst den Hafen.",
+            "hu": "Kezdje a központi buszpályaudvaron. Először fedezze fel a kikötőt.",
+            "ro": "Începeți de la autogara principală din centru. Explorați mai întâi portul.",
+            "en": "Start at the main bus stop in the center. Explore the harbor area first."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimaey Stabkirche & Skansinn",
+            "hu": "Heimaey dongatemplom és Skansinn",
+            "ro": "Biserica de lemn Heimaey și Skansinn",
+            "en": "Heimaey Stave Church & Skansinn"
+          },
+          "coords": [
+            -20.276,
+            63.4415
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof zu diesen beiden historischen Stätten.",
+            "hu": "Rövid séta a buszmegállótól ehhez a két történelmi helyszínhez.",
+            "ro": "O scurtă plimbare de la stația de autobuz la aceste două situri istorice.",
+            "en": "A short walk from the bus stop to these two historic sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Vulkangebiet",
+            "hu": "2. klaszter: Vulkáni terület",
+            "ro": "Cluster 2: Zona vulcanică",
+            "en": "Cluster 2: Volcanic Area"
+          },
+          "coords": [
+            -20.255,
+            63.435
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum Eldheimar-Museum. Der Busfahrplan ist begrenzt, also planen Sie entsprechend.",
+            "hu": "Menjen busszal az Eldheimar Múzeumhoz. A buszmenetrend korlátozott, tervezzen ennek megfelelően.",
+            "ro": "Luați autobuzul până la Muzeul Eldheimar. Programul autobuzului este limitat, așa că planificați-vă în consecință.",
+            "en": "Take the bus to Eldheimar Museum. The bus schedule is limited, so plan accordingly."
+          }
+        },
+        {
+          "name": {
+            "de": "Besteigung des Vulkans Eldfell",
+            "hu": "Az Eldfell vulkán megmászása",
+            "ro": "Urcarea pe vulcanul Eldfell",
+            "en": "Climbing the Eldfell Volcano"
+          },
+          "coords": [
+            -20.245,
+            63.432
+          ],
+          "category": "natural features",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Museum aus ist es ein einfacher Spaziergang zum Ausgangspunkt des Eldfell-Wanderwegs.",
+            "hu": "A múzeumtól könnyű séta az Eldfell turistaút kiindulópontjához.",
+            "ro": "De la muzeu, este o plimbare ușoară până la începutul traseului Eldfell.",
+            "en": "From the museum, it's an easy walk to the Eldfell trailhead."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Stórhöfði",
+            "hu": "3. klaszter: Stórhöfði",
+            "ro": "Cluster 3: Stórhöfði",
+            "en": "Cluster 3: Stórhöfði"
+          },
+          "coords": [
+            -20.3,
+            63.405
+          ],
+          "category": "natural features",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum südlichen Punkt. Überprüfen Sie unbedingt die Rückfahrzeit!",
+            "hu": "Menjen busszal a déli pontra. Feltétlenül ellenőrizze a visszaindulási időt!",
+            "ro": "Luați un autobuz spre punctul sudic. Asigurați-vă că verificați ora de întoarcere!",
+            "en": "Take a bus to the southern point. Be sure to check the return time!"
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum & Abendessen",
+            "hu": "Visszatérés a központba és vacsora",
+            "ro": "Întoarcere în centru și cină",
+            "en": "Return to Center & Dinner"
+          },
+          "coords": [
+            -20.272,
+            63.439
+          ],
+          "category": "gastro",
+          "arrive_at": "16:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie von der zentralen Bushaltestelle zu einem Restaurant Ihrer Wahl.",
+            "hu": "Sétáljon a központi buszmegállótól egy tetszőleges étteremhez.",
+            "ro": "De la stația centrală de autobuz, mergeți pe jos la un restaurant la alegere.",
+            "en": "Walk from the central bus stop to a restaurant of your choice."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen der Stadt, wo Sie den Hafen und die historischen Stätten zu Fuß erkunden. Am Vormittag bringt Sie ein Bus zum Eldheimar-Museum und zum Vulkan Eldfell, wo Sie in die feurige Vergangenheit der Insel eintauchen. Am Nachmittag unternehmen Sie eine Busfahrt zum windgepeitschten Stórhöfði, um die reiche Vogelwelt zu beobachten. Der Tag endet mit einer Rückfahrt ins Zentrum für ein wohlverdientes Abendessen, nachdem Sie die Insel mit einer Mischung aus Busfahrten und Spaziergängen erlebt haben.",
+        "hu": "A tömegközlekedéssel töltött nap a város szívében kezdődik, ahol gyalogosan fedezi fel a kikötőt és a történelmi helyszíneket. Délelőtt busszal jut el az Eldheimar Múzeumhoz és az Eldfell vulkánhoz, elmerülve a sziget tüzes múltjában. Délután buszútra indul a szélfútta Stórhöfði-hoz, hogy megfigyelje a gazdag madárvilágot. A nap a központba való visszatéréssel és egy jól megérdemelt vacsorával zárul, miután buszozás és séták keverékével tapasztalta meg a szigetet.",
+        "ro": "Ziua dvs. cu transportul public începe în inima orașului, unde explorați portul și siturile istorice pe jos. Dimineața, un autobuz vă duce la Muzeul Eldheimar și la vulcanul Eldfell, scufundându-vă în trecutul de foc al insulei. După-amiaza, faceți o călătorie cu autobuzul spre Stórhöfði, bătut de vânturi, pentru a observa viața bogată a păsărilor. Ziua se încheie cu o întoarcere în centru pentru o cină binemeritată, după ce ați experimentat insula printr-un amestec de plimbări cu autobuzul și pe jos.",
+        "en": "Your day on public transit starts in the heart of town, exploring the harbor and historic sites on foot. In the morning, a bus takes you to the Eldheimar Museum and Eldfell volcano, immersing you in the island's fiery past. The afternoon involves a bus journey to windswept Stórhöfði to observe the rich birdlife. The day concludes with a return to the center for a well-deserved dinner, having experienced the island through a mix of bus rides and walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Slippurinn",
+            "tip": "Ein hoch bewertetes Restaurant in einer alten Maschinenwerkstatt, das sich auf lokale, saisonale Zutaten konzentriert."
+          },
+          {
+            "name": "Einsi Kaldi",
+            "tip": "Bietet ein fantastisches Fischbuffet und einen großartigen Blick auf den Hafen."
+          },
+          {
+            "name": "Bruder Burger",
+            "tip": "Für eine zwanglosere, aber köstliche Option, probieren Sie die lokalen Burger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Slippurinn",
+            "tip": "Magasan értékelt étterem egy régi gépgyárban, helyi, szezonális alapanyagokra összpontosítva."
+          },
+          {
+            "name": "Einsi Kaldi",
+            "tip": "Fantasztikus halbüfét és nagyszerű kilátást kínál a kikötőre."
+          },
+          {
+            "name": "Bruder Burger",
+            "tip": "Egy lazább, de finom lehetőségért próbáld ki a helyi hamburgereket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Slippurinn",
+            "tip": "Un restaurant foarte apreciat, situat într-un vechi atelier de mașini, axat pe ingrediente locale de sezon."
+          },
+          {
+            "name": "Einsi Kaldi",
+            "tip": "Oferă un bufet fantastic de pește și o priveliște minunată asupra portului."
+          },
+          {
+            "name": "Bruder Burger",
+            "tip": "Pentru o opțiune mai casual, dar delicioasă, încercați burgerii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Slippurinn",
+            "tip": "A highly-rated restaurant in an old machine workshop, focusing on local, seasonal ingredients."
+          },
+          {
+            "name": "Einsi Kaldi",
+            "tip": "Offers a fantastic fish buffet and great views of the harbor."
+          },
+          {
+            "name": "Bruder Burger",
+            "tip": "For a more casual but delicious option, try the local burgers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Eldfell",
+            "tip": "Der 360-Grad-Blick von oben ist die Wanderung wert. Ein Ort der Ruhe über der Stadt.",
+            "emoji": "🌋"
+          },
+          {
+            "name": "Klippen bei Stórhöfði",
+            "tip": "Abseits der Hauptaussichtsplattform können Sie einen ruhigen Ort finden, um die Vögel zu beobachten.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Lavafelder",
+            "tip": "Machen Sie eine Pause in den moosbedeckten Lavafeldern; es ist eine andere Welt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eldfell csúcsa",
+            "tip": "A 360 fokos kilátás a csúcsról megéri a túrát. A nyugalom helye a város felett.",
+            "emoji": "🌋"
+          },
+          {
+            "name": "Stórhöfði sziklái",
+            "tip": "A fő kilátótól távolabb találhat egy csendes helyet a madarak megfigyelésére.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Lávamezők",
+            "tip": "Tarts egy szünetet a mohával borított lávamezőkön; ez egy másik világ.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Eldfell",
+            "tip": "Priveliștea de 360 de grade de sus merită drumeția. Un loc de liniște deasupra orașului.",
+            "emoji": "🌋"
+          },
+          {
+            "name": "Stâncile de la Stórhöfði",
+            "tip": "Departe de platforma principală de observare, puteți găsi un loc liniștit pentru a privi păsările.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Câmpiile de lavă",
+            "tip": "Luați o pauză în câmpiile de lavă acoperite de mușchi; este o altă lume.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Eldfell",
+            "tip": "The 360-degree view from the top is worth the hike. A place of tranquility above the town.",
+            "emoji": "🌋"
+          },
+          {
+            "name": "Cliffs at Stórhöfði",
+            "tip": "Away from the main viewing platform, you can find a quiet spot to watch the birds.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Lava Fields",
+            "tip": "Take a break in the moss-covered lava fields; it's another world.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wollwaren",
+            "tip": "Suchen Sie nach einem handgestrickten Lopapeysa (isländischer Pullover) in den örtlichen Kunsthandwerksläden."
+          },
+          {
+            "name": "Bücher über Vulkane",
+            "tip": "Der Museumsshop im Eldheimar verkauft ausgezeichnete Bücher über den Ausbruch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyapjú termékek",
+            "tip": "Keress egy kézzel kötött Lopapeysa-t (izlandi pulóver) a helyi kézműves boltokban."
+          },
+          {
+            "name": "Könyvek a vulkánokról",
+            "tip": "Az Eldheimar múzeumi boltja kiváló könyveket árul a kitörésről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole din lână",
+            "tip": "Căutați un Lopapeysa (pulover islandez) tricotat manual în magazinele de artizanat locale."
+          },
+          {
+            "name": "Cărți despre vulcani",
+            "tip": "Magazinul muzeului Eldheimar vinde cărți excelente despre erupție."
+          }
+        ],
+        "en": [
+          {
+            "name": "Woolen Goods",
+            "tip": "Look for a hand-knitted Lopapeysa (Icelandic sweater) in the local craft shops."
+          },
+          {
+            "name": "Books on Volcanoes",
+            "tip": "The Eldheimar museum shop sells excellent books about the eruption."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Holen Sie sich bei Ihrer Ankunft einen Busfahrplan. Der Service ist nicht häufig.",
+          "Kaufen Sie Tickets direkt beim Fahrer. Haben Sie Kleingeld dabei, obwohl Karten normalerweise akzeptiert werden.",
+          "Seien Sie pünktlich an der Bushaltestelle. Die Busse warten nicht.",
+          "Bestätigen Sie die letzte Busfahrt des Tages zurück ins Zentrum, besonders von Stórhöfði."
+        ],
+        "hu": [
+          "Érkezéskor szerezz be egy buszmenetrendet. A járatok nem sűrűek.",
+          "Vegyél jegyet közvetlenül a sofőrtől. Legyen nálad aprópénz, bár általában elfogadják a kártyát.",
+          "Légy pontosan a buszmegállóban. A buszok nem várnak.",
+          "Erősítsd meg az utolsó buszjárat idejét a központba, különösen Stórhöfðiból."
+        ],
+        "ro": [
+          "Obțineți un program al autobuzelor la sosire. Serviciul nu este frecvent.",
+          "Cumpărați bilete direct de la șofer. Aveți bani mărunți, deși cardurile sunt de obicei acceptate.",
+          "Fiți la stația de autobuz la timp. Autobuzele nu așteaptă.",
+          "Confirmați ultimul autobuz al zilei înapoi în centru, în special de la Stórhöfði."
+        ],
+        "en": [
+          "Get a bus schedule upon arrival. The service is not frequent.",
+          "Buy tickets directly from the driver. Have small change, though cards are usually accepted.",
+          "Be at the bus stop on time. The buses do not wait.",
+          "Confirm the last bus of the day back to the center, especially from Stórhöfði."
+        ]
+      }
+    }
+  }
+}

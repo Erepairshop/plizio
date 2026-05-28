@@ -1,0 +1,1532 @@
+{
+  "city_id": "greece-sofades-cities-v2",
+  "anchor": {
+    "name": "Sofades",
+    "coords": [
+      22.1333,
+      39.3667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Platz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            22.1335,
+            39.3668
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der lokalen Kafenions.",
+            "hu": "Indítsa a napot egy kávéval a helyi kafenionok egyikében.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale (kafenion).",
+            "en": "Start your day with a coffee at one of the local kafenions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Georgios",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Church of Agios Georgios"
+          },
+          "coords": [
+            22.1345,
+            39.3675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ikonostase und die ruhige Atmosphäre im Inneren.",
+            "hu": "Csodálja meg az ikonosztázt és a benti békés légkört.",
+            "ro": "Admirați iconostasul și atmosfera liniștită din interior.",
+            "en": "Admire the iconostasis and the serene atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Gefallenendenkmal",
+            "hu": "Háborús emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            22.1328,
+            39.3662
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:31",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Moment des Innehaltens, um der lokalen Geschichte zu gedenken.",
+            "hu": "Egy pillanatnyi megállás, hogy megemlékezzen a helyi történelemről.",
+            "ro": "Un moment de reculegere pentru a comemora istoria locală.",
+            "en": "A moment of pause to commemorate the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundliche Sammlung",
+            "hu": "Néprajzi Gyűjtemény",
+            "ro": "Colecția Folclorică",
+            "en": "Folklore Collection"
+          },
+          "coords": [
+            22.1315,
+            39.368
+          ],
+          "category": "museums",
+          "arrive_at": "10:58",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie traditionelle Werkzeuge und Trachten aus der Region Thessalien.",
+            "hu": "Fedezze fel a thesszáliai régió hagyományos eszközeit és viseleteit.",
+            "ro": "Descoperiți unelte și costume tradiționale din regiunea Tesalia.",
+            "en": "Discover traditional tools and costumes from the Thessaly region."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Sofades",
+            "hu": "Szofádeszi Kulturális Központ",
+            "ro": "Centrul Cultural Sofades",
+            "en": "Sofades Cultural Center"
+          },
+          "coords": [
+            22.135,
+            39.369
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:56",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob während Ihres Besuchs lokale Veranstaltungen oder Ausstellungen stattfinden.",
+            "hu": "Nézze meg, hogy látogatása során tartanak-e helyi rendezvényeket vagy kiállításokat.",
+            "ro": "Verificați dacă au loc evenimente sau expoziții locale în timpul vizitei dumneavoastră.",
+            "en": "Check if any local events or exhibitions are happening during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Bahnhof",
+            "hu": "Régi vasútállomás",
+            "ro": "Gara Veche",
+            "en": "Old Train Station"
+          },
+          "coords": [
+            22.128,
+            39.365
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:14",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein nostalgischer Ort, der von der industriellen Vergangenheit der Stadt erzählt.",
+            "hu": "Egy nosztalgikus hely, amely a város ipari múltjáról mesél.",
+            "ro": "Un loc nostalgic care povestește despre trecutul industrial al orașului.",
+            "en": "A nostalgic spot that tells of the town's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Enipeas-Flussufer",
+            "hu": "Enipeas-folyó partja",
+            "ro": "Malul râului Enipeas",
+            "en": "Enipeas Riverbank"
+          },
+          "coords": [
+            22.126,
+            39.37
+          ],
+          "category": "natural features",
+          "arrive_at": "15:16",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang am späten Nachmittag.",
+            "hu": "Tökéletes egy pihentető késő délutáni sétához.",
+            "ro": "Perfect pentru o plimbare relaxantă la sfârșitul după-amiezii.",
+            "en": "Perfect for a relaxing late afternoon stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am belebten Zentralplatz, dem Herz der Stadt. Am Vormittag erkunden Sie die religiöse und historische Seite von Sofades, besuchen die Agios Georgios Kirche und das Kriegerdenkmal. Nach dem Mittagessen tauchen Sie im Folkloremuseum in die lokale Kultur ein, bevor Sie das moderne Kulturzentrum entdecken. Beenden Sie den Tag mit einem nostalgischen Besuch am alten Bahnhof und einem entspannenden Spaziergang entlang des Enipeas-Flusses, um die friedliche Atmosphäre zu genießen.",
+        "hu": "Sétáját a város szívében, a nyüzsgő Központi téren kezdje. A délelőtt folyamán fedezze fel Szofádesz vallási és történelmi oldalát, látogasson el a Szent György-templomba és a háborús emlékműhöz. Ebéd után merüljön el a helyi kultúrában a Néprajzi Múzeumban, majd fedezze fel a modern Kulturális Központot. A napot egy nosztalgikus látogatással zárja a régi vasútállomáson, majd egy pihentető sétával az Enipeas-folyó partján, élvezve a békés hangulatot.",
+        "ro": "Începeți turul pietonal în Piața Centrală plină de viață, inima orașului. Dimineața, explorați latura religioasă și istorică a Sofades, vizitând Biserica Sfântul Gheorghe și Monumentul Eroilor. După prânz, aprofundați cultura locală la Muzeul de Folclor înainte de a descoperi Centrul Cultural modern. Încheiați ziua cu o vizită nostalgică la vechea gară și o plimbare relaxantă de-a lungul malului râului Enipeas, bucurându-vă de atmosfera pașnică.",
+        "en": "Start your walking tour at the bustling Central Square, the heart of the city. In the morning, explore the religious and historical side of Sofades, visiting the Agios Georgios Church and the War Memorial. After lunch, delve into local culture at the Folklore Museum before discovering the modern Cultural Center. End your day with a nostalgic visit to the old train station and a relaxing stroll along the Enipeas riverbank, soaking in the peaceful atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Taverne",
+            "tip": "Probieren Sie 'Kontosouvli' (gegrilltes Schweinefleisch am Spieß) oder eine herzhafte 'Fasolada' (Bohnensuppe)."
+          },
+          {
+            "name": "Tsipouradiko",
+            "tip": "Genießen Sie 'Tsipouro' mit einer Auswahl an 'Mezedes' (kleine Vorspeisen)."
+          },
+          {
+            "name": "Bäckerei am Platz",
+            "tip": "Holen Sie sich eine frische 'Spanakopita' (Spinatpastete) für einen schnellen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi taverna",
+            "tip": "Kóstolja meg a 'Kontosouvli'-t (nyárson sült sertéshús) vagy egy kiadós 'Fasolada'-t (bableves)."
+          },
+          {
+            "name": "Tsipouradiko",
+            "tip": "Fogyasszon 'Tsipouro'-t 'Mezedes' (kis előételek) válogatással."
+          },
+          {
+            "name": "Pékség a téren",
+            "tip": "Vegyen egy friss 'Spanakopita'-t (spenótos pite) egy gyors harapnivalóért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavernă locală",
+            "tip": "Încercați 'Kontosouvli' (frigărui de porc la grătar) sau o 'Fasolada' (ciorbă de fasole) consistentă."
+          },
+          {
+            "name": "Tsipouradiko",
+            "tip": "Savurați 'Tsipouro' cu o selecție de 'Mezedes' (mici aperitive)."
+          },
+          {
+            "name": "Brutărie în piață",
+            "tip": "Luați o 'Spanakopita' (plăcintă cu spanac) proaspătă pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Taverna",
+            "tip": "Try 'Kontosouvli' (grilled pork on a spit) or a hearty 'Fasolada' (bean soup)."
+          },
+          {
+            "name": "Tsipouradiko",
+            "tip": "Enjoy 'Tsipouro' accompanied by a selection of 'Mezedes' (small appetizers)."
+          },
+          {
+            "name": "Bakery on the square",
+            "tip": "Grab a fresh 'Spanakopita' (spinach pie) for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Enipeas-Flussufer",
+            "tip": "Ein ruhiger Ort, um dem Stadtlärm zu entfliehen und die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof der Kirche Agia Paraskevi",
+            "tip": "Ein versteckter, friedlicher Ort für eine kurze Pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park in der Nähe des Kulturzentrums",
+            "tip": "Finden Sie eine Bank im Schatten und entspannen Sie sich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Enipeas-folyó partja",
+            "tip": "Csendes hely, ahol elmenekülhet a város zajától és élvezheti a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agia Paraskevi-templom udvara",
+            "tip": "Egy rejtett, békés hely egy rövid szünetre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park a Kulturális Központ közelében",
+            "tip": "Keressen egy padot az árnyékban és pihenjen.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Enipeas",
+            "tip": "Un loc liniștit pentru a scăpa de zgomotul orașului și a te bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Bisericii Agia Paraskevi",
+            "tip": "Un loc ascuns și pașnic pentru o scurtă pauză.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parc lângă Centrul Cultural",
+            "tip": "Găsiți o bancă la umbră și relaxați-vă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Enipeas Riverbank",
+            "tip": "A quiet spot to escape the city noise and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Agia Paraskevi Church",
+            "tip": "A hidden, peaceful spot for a short break.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park near the Cultural Center",
+            "tip": "Find a bench in the shade and relax.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie regionalen Honig, Käse und Oliven direkt von den Erzeugern."
+          },
+          {
+            "name": "Geschäfte um den Zentralplatz",
+            "tip": "Stöbern Sie nach handgefertigten Souvenirs und lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi mézet, sajtot és olajbogyót közvetlenül a termelőktől."
+          },
+          {
+            "name": "Üzletek a Központi tér körül",
+            "tip": "Böngésszen kézműves ajándéktárgyak és helyi termékek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați miere, brânză și măsline regionale direct de la producători."
+          },
+          {
+            "name": "Magazine în jurul Pieței Centrale",
+            "tip": "Căutați suveniruri artizanale și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy regional honey, cheese, and olives directly from the producers."
+          },
+          {
+            "name": "Shops around the Central Square",
+            "tip": "Browse for handmade souvenirs and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben.",
+          "Die meisten Geschäfte und Museen könnten während der Mittagszeit für eine Siesta schließen.",
+          "Genießen Sie die langsame Lebensweise und nehmen Sie sich Zeit für einen Kaffee."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részét gyalog fogja tölteni.",
+          "Hozzon magával egy újrafelhasználható vizes palackot, hogy hidratált maradjon.",
+          "A legtöbb üzlet és múzeum délben bezárhat egy szieszta erejéig.",
+          "Élvezze a lassú élettempót, és szánjon időt egy kávéra."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Luați cu dumneavoastră o sticlă de apă reutilizabilă pentru a vă menține hidratat.",
+          "Majoritatea magazinelor și muzeelor s-ar putea închide la prânz pentru siestă.",
+          "Bucurați-vă de ritmul lent al vieții și acordați-vă timp pentru o cafea."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking for most of the day.",
+          "Bring a reusable water bottle to stay hydrated.",
+          "Most shops and museums might close during midday for a siesta.",
+          "Embrace the slow pace of life and take your time for a coffee."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Platz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            22.1335,
+            39.3668
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die morgendliche Atmosphäre.",
+            "hu": "Parkolja le a kerékpárt, és élvezze a reggeli hangulatot.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosfera de dimineață.",
+            "en": "Park your bike and enjoy the morning atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Bahnhof",
+            "hu": "Régi vasútállomás",
+            "ro": "Gara Veche",
+            "en": "Old Train Station"
+          },
+          "coords": [
+            22.128,
+            39.365
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:30",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eine interessante Radtour in die Vergangenheit der industriellen Entwicklung der Stadt.",
+            "hu": "Érdekes kerékpártúra a város ipari fejlődésének múltjába.",
+            "ro": "O plimbare interesantă cu bicicleta în trecutul dezvoltării industriale a orașului.",
+            "en": "An interesting bike ride into the past of the town's industrial development."
+          }
+        },
+        {
+          "name": {
+            "de": "Enipeas-Flussufer",
+            "hu": "Enipeas-folyó partja",
+            "ro": "Malul râului Enipeas",
+            "en": "Enipeas Riverbank"
+          },
+          "coords": [
+            22.126,
+            39.37
+          ],
+          "category": "natural features",
+          "arrive_at": "10:23",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Fahren Sie am Fluss entlang und genießen Sie die frische Luft.",
+            "hu": "Kerékpározzon a folyó mentén, és élvezze a friss levegőt.",
+            "ro": "Plimbați-vă cu bicicleta de-a lungul râului și bucurați-vă de aerul proaspăt.",
+            "en": "Ride along the river and enjoy the fresh air."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agia Paraskevi",
+            "hu": "Szent Paraszkevi-templom",
+            "ro": "Biserica Sfânta Parascheva",
+            "en": "Church of Agia Paraskevi"
+          },
+          "coords": [
+            22.138,
+            39.372
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Diese Kirche liegt etwas abseits und ist eine friedliche Radtour wert.",
+            "hu": "Ez a templom kissé távolabb esik, és megér egy békés kerékpártúrát.",
+            "ro": "Această biserică este puțin mai departe și merită o plimbare pașnică cu bicicleta.",
+            "en": "This church is a bit further out and worth a peaceful bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Sofades",
+            "hu": "Szofádeszi Kulturális Központ",
+            "ro": "Centrul Cultural Sofades",
+            "en": "Sofades Cultural Center"
+          },
+          "coords": [
+            22.135,
+            39.369
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:21",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein moderner Kontrast zu den historischen Stätten, leicht mit dem Fahrrad erreichbar.",
+            "hu": "Modern kontraszt a történelmi helyszínekkel, könnyen megközelíthető kerékpárral.",
+            "ro": "Un contrast modern cu siturile istorice, ușor accesibil cu bicicleta.",
+            "en": "A modern contrast to the historical sites, easily reachable by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundliche Sammlung",
+            "hu": "Néprajzi Gyűjtemény",
+            "ro": "Colecția Folclorică",
+            "en": "Folklore Collection"
+          },
+          "coords": [
+            22.1315,
+            39.368
+          ],
+          "category": "museums",
+          "arrive_at": "13:17",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Planen Sie hier eine längere Pause für das Mittagessen und den Museumsbesuch ein.",
+            "hu": "Tervezzen itt egy hosszabb szünetet ebédre és a múzeumlátogatásra.",
+            "ro": "Planificați o pauză mai lungă aici pentru prânz și vizita la muzeu.",
+            "en": "Plan a longer break here for lunch and the museum visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Georgios",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Church of Agios Georgios"
+          },
+          "coords": [
+            22.1345,
+            39.3675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:53",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kehren Sie ins Zentrum zurück und besuchen Sie die Hauptkirche der Stadt.",
+            "hu": "Térjen vissza a központba, és látogassa meg a város fő templomát.",
+            "ro": "Întoarceți-vă în centru și vizitați biserica principală a orașului.",
+            "en": "Return to the center and visit the town's main church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Zentralplatz und fahren Sie zum historischen alten Bahnhof. Genießen Sie am Vormittag eine Fahrt entlang des Enipeas-Flusses, bevor Sie zur etwas abgelegenen Agia-Paraskevi-Kirche radeln. Gegen Mittag erkunden Sie das moderne Kulturzentrum und machen eine längere Pause beim Folkloremuseum. Am Nachmittag kehren Sie ins Zentrum zurück, um die Hauptkirche Agios Georgios zu besichtigen und den Tag ausklingen zu lassen.",
+        "hu": "Kerékpártúráját a Központi téren kezdje, majd tekerjen el a történelmi régi vasútállomáshoz. Délelőtt élvezze a kerékpározást az Enipeas-folyó mentén, mielőtt a kissé távolabb eső Agia Paraskevi-templomhoz kerekezik. Dél körül fedezze fel a modern Kulturális Központot, és tartson egy hosszabb szünetet a Néprajzi Múzeumnál. Délután térjen vissza a központba, hogy megnézze a fő templomot, a Szent Györgyöt, és lezárja a napot.",
+        "ro": "Începeți turul cu bicicleta din Piața Centrală și pedalați spre vechea gară istorică. Dimineața, bucurați-vă de o plimbare de-a lungul râului Enipeas înainte de a merge la biserica mai retrasă Agia Paraskevi. În jurul prânzului, explorați modernul Centru Cultural și luați o pauză mai lungă la Muzeul de Folclor. După-amiaza, reveniți în centru pentru a vizita biserica principală Agios Georgios și pentru a încheia ziua.",
+        "en": "Start your bike tour from the Central Square and pedal to the historic old train station. In the morning, enjoy a ride along the Enipeas River before cycling to the slightly more remote Agia Paraskevi Church. Around noon, explore the modern Cultural Center and take a longer break at the Folklore Museum. In the afternoon, return to the center to visit the main church, Agios Georgios, and to round off your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Taverne",
+            "tip": "Probieren Sie 'Kontosouvli' (gegrilltes Schweinefleisch am Spieß) oder eine herzhafte 'Fasolada' (Bohnensuppe)."
+          },
+          {
+            "name": "Tsipouradiko",
+            "tip": "Genießen Sie 'Tsipouro' mit einer Auswahl an 'Mezedes' (kleine Vorspeisen)."
+          },
+          {
+            "name": "Bäckerei am Platz",
+            "tip": "Holen Sie sich eine frische 'Spanakopita' (Spinatpastete) für einen schnellen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi taverna",
+            "tip": "Kóstolja meg a 'Kontosouvli'-t (nyárson sült sertéshús) vagy egy kiadós 'Fasolada'-t (bableves)."
+          },
+          {
+            "name": "Tsipouradiko",
+            "tip": "Fogyasszon 'Tsipouro'-t 'Mezedes' (kis előételek) válogatással."
+          },
+          {
+            "name": "Pékség a téren",
+            "tip": "Vegyen egy friss 'Spanakopita'-t (spenótos pite) egy gyors harapnivalóért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavernă locală",
+            "tip": "Încercați 'Kontosouvli' (frigărui de porc la grătar) sau o 'Fasolada' (ciorbă de fasole) consistentă."
+          },
+          {
+            "name": "Tsipouradiko",
+            "tip": "Savurați 'Tsipouro' cu o selecție de 'Mezedes' (mici aperitive)."
+          },
+          {
+            "name": "Brutărie în piață",
+            "tip": "Luați o 'Spanakopita' (plăcintă cu spanac) proaspătă pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Taverna",
+            "tip": "Try 'Kontosouvli' (grilled pork on a spit) or a hearty 'Fasolada' (bean soup)."
+          },
+          {
+            "name": "Tsipouradiko",
+            "tip": "Enjoy 'Tsipouro' accompanied by a selection of 'Mezedes' (small appetizers)."
+          },
+          {
+            "name": "Bakery on the square",
+            "tip": "Grab a fresh 'Spanakopita' (spinach pie) for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Enipeas-Flussufer",
+            "tip": "Ein ruhiger Ort, um dem Stadtlärm zu entfliehen und die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof der Kirche Agia Paraskevi",
+            "tip": "Ein versteckter, friedlicher Ort für eine kurze Pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park in der Nähe des Kulturzentrums",
+            "tip": "Finden Sie eine Bank im Schatten und entspannen Sie sich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Enipeas-folyó partja",
+            "tip": "Csendes hely, ahol elmenekülhet a város zajától és élvezheti a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agia Paraskevi-templom udvara",
+            "tip": "Egy rejtett, békés hely egy rövid szünetre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park a Kulturális Központ közelében",
+            "tip": "Keressen egy padot az árnyékban és pihenjen.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Enipeas",
+            "tip": "Un loc liniștit pentru a scăpa de zgomotul orașului și a te bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Bisericii Agia Paraskevi",
+            "tip": "Un loc ascuns și pașnic pentru o scurtă pauză.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parc lângă Centrul Cultural",
+            "tip": "Găsiți o bancă la umbră și relaxați-vă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Enipeas Riverbank",
+            "tip": "A quiet spot to escape the city noise and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Agia Paraskevi Church",
+            "tip": "A hidden, peaceful spot for a short break.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park near the Cultural Center",
+            "tip": "Find a bench in the shade and relax.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie regionalen Honig, Käse und Oliven direkt von den Erzeugern."
+          },
+          {
+            "name": "Geschäfte um den Zentralplatz",
+            "tip": "Stöbern Sie nach handgefertigten Souvenirs und lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi mézet, sajtot és olajbogyót közvetlenül a termelőktől."
+          },
+          {
+            "name": "Üzletek a Központi tér körül",
+            "tip": "Böngésszen kézműves ajándéktárgyak és helyi termékek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați miere, brânză și măsline regionale direct de la producători."
+          },
+          {
+            "name": "Magazine în jurul Pieței Centrale",
+            "tip": "Căutați suveniruri artizanale și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy regional honey, cheese, and olives directly from the producers."
+          },
+          {
+            "name": "Shops around the Central Square",
+            "tip": "Browse for handmade souvenirs and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Schließen Sie Ihr Fahrrad immer an, wenn Sie es unbeaufsichtigt lassen.",
+          "Die Stadt ist relativ flach, was sie ideal für eine gemütliche Radtour macht.",
+          "Eine Klingel ist nützlich, um Fußgänger auf Ihre Anwesenheit aufmerksam zu machen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Mindig zárja le a kerékpárt, ha felügyelet nélkül hagyja.",
+          "A város viszonylag sík, ami ideálissá teszi egy kényelmes kerékpártúrához.",
+          "A csengő hasznos lehet, hogy figyelmeztesse a gyalogosokat a jelenlétére."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Încuietăți-vă întotdeauna bicicleta când o lăsați nesupravegheată.",
+          "Orașul este relativ plat, ceea ce îl face ideal pentru o plimbare relaxantă cu bicicleta.",
+          "Un claxon este util pentru a avertiza pietonii de prezența dumneavoastră."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Always lock your bike when leaving it unattended.",
+          "The town is relatively flat, making it ideal for a leisurely bike ride.",
+          "A bell is useful to alert pedestrians of your presence."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Zentralplatz (Cluster A)",
+            "hu": "Parkoló a Központi térnél (A Klaszter)",
+            "ro": "Parcare Piața Centrală (Cluster A)",
+            "en": "Parking at Central Square (Cluster A)"
+          },
+          "coords": [
+            22.133,
+            39.3665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das Stadtzentrum zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a városközpontot.",
+            "ro": "Parcați aici pentru a explora centrul orașului pe jos.",
+            "en": "Park here to explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Georgios",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Church of Agios Georgios"
+          },
+          "coords": [
+            22.1345,
+            39.3675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz zur Hauptkirche.",
+            "hu": "Rövid séta a főtérről a főtemplomhoz.",
+            "ro": "O scurtă plimbare de la piața principală la biserica principală.",
+            "en": "A short walk from the main square to the main church."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundliche Sammlung",
+            "hu": "Néprajzi Gyűjtemény",
+            "ro": "Colecția Folclorică",
+            "en": "Folklore Collection"
+          },
+          "coords": [
+            22.1315,
+            39.368
+          ],
+          "category": "museums",
+          "arrive_at": "10:23",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal, um den Vormittag zu verbringen und die lokale Kultur kennenzulernen.",
+            "hu": "Ideális a délelőtt eltöltésére és a helyi kultúra megismerésére.",
+            "ro": "Ideal pentru a petrece dimineața și a învăța despre cultura locală.",
+            "en": "Ideal for spending the morning and learning about local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Alter Bahnhof (Cluster B)",
+            "hu": "Parkoló a Régi Vasútállomásnál (B Klaszter)",
+            "ro": "Parcare Gara Veche (Cluster B)",
+            "en": "Parking at Old Station (Cluster B)"
+          },
+          "coords": [
+            22.128,
+            39.365
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:13",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem zweiten Cluster, um ein anderes Stück Geschichte zu sehen.",
+            "hu": "Vezessen ehhez a második klaszterhez, hogy egy másik történelmi darabot lásson.",
+            "ro": "Conduceți la acest al doilea cluster pentru a vedea o altă bucată de istorie.",
+            "en": "Drive to this second cluster to see a different piece of history."
+          }
+        },
+        {
+          "name": {
+            "de": "Enipeas-Flussufer",
+            "hu": "Enipeas-folyó partja",
+            "ro": "Malul râului Enipeas",
+            "en": "Enipeas Riverbank"
+          },
+          "coords": [
+            22.126,
+            39.37
+          ],
+          "category": "natural features",
+          "arrive_at": "13:21",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie einen Verdauungsspaziergang nach dem Mittagessen am Fluss.",
+            "hu": "Tegyen egy emésztő sétát ebéd után a folyóparton.",
+            "ro": "Faceți o plimbare digestivă după prânz de-a lungul râului.",
+            "en": "Take a digestive walk after lunch along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum (Cluster C)",
+            "hu": "Kulturális Központ (C Klaszter)",
+            "ro": "Centrul Cultural (Cluster C)",
+            "en": "Cultural Center (Cluster C)"
+          },
+          "coords": [
+            22.135,
+            39.369
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:51",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum letzten Cluster für eine Dosis moderner Kultur.",
+            "hu": "Vezessen az utolsó klaszterhez egy adag modern kultúráért.",
+            "ro": "Conduceți la ultimul cluster pentru o doză de cultură modernă.",
+            "en": "Drive to the last cluster for a dose of modern culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agia Paraskevi",
+            "hu": "Szent Paraszkevi-templom",
+            "ro": "Biserica Sfânta Parascheva",
+            "en": "Church of Agia Paraskevi"
+          },
+          "coords": [
+            22.138,
+            39.372
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:01",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kulturzentrum zu dieser ruhigen Kirche.",
+            "hu": "Rövid séta a Kulturális Központtól ehhez a csendes templomhoz.",
+            "ro": "O scurtă plimbare de la Centrul Cultural la această biserică liniștită.",
+            "en": "A short walk from the cultural center to this quiet church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um Sofades in Clustern zu erkunden. Beginnen Sie im Zentrum (Cluster A), wo Sie parken und zu Fuß die Hauptkirche und das Folkloremuseum besuchen. Am Mittag fahren Sie zum alten Bahnhof (Cluster B) für ein historisches Intermezzo, gefolgt von einer Pause am Enipeas-Fluss. Am Nachmittag bringt Sie eine kurze Fahrt zum Kulturviertel (Cluster C), wo Sie das Kulturzentrum und die nahe gelegene Agia-Paraskevi-Kirche entdecken, bevor Sie den Tag beenden.",
+        "hu": "Használja autóját Szofádesz klaszterekben történő felfedezéséhez. Kezdje a központban (A klaszter), ahol leparkolhat, és gyalog meglátogathatja a főtemplomot és a Néprajzi Múzeumot. Délben vezessen el a régi vasútállomáshoz (B klaszter) egy történelmi közjátékra, majd tartson szünetet az Enipeas-folyónál. Délután egy rövid autóút a kulturális negyedbe (C klaszter) viszi, ahol felfedezheti a Kulturális Központot és a közeli Agia Paraskevi-templomot, mielőtt befejezi a napot.",
+        "ro": "Folosiți mașina pentru a explora Sofades în clustere. Începeți în centru (Cluster A), unde parcați și vizitați pe jos biserica principală și Muzeul de Folclor. La prânz, conduceți la vechea gară (Cluster B) pentru un intermezzo istoric, urmat de o pauză pe malul râului Enipeas. După-amiaza, o scurtă călătorie cu mașina vă duce în cartierul cultural (Cluster C), unde descoperiți Centrul Cultural și biserica Agia Paraskevi din apropiere, înainte de a încheia ziua.",
+        "en": "Use your car to explore Sofades in clusters. Start in the center (Cluster A), where you park and visit the main church and the Folklore Museum on foot. At midday, drive to the old train station (Cluster B) for a historical interlude, followed by a break at the Enipeas River. In the afternoon, a short drive takes you to the cultural quarter (Cluster C), where you'll discover the Cultural Center and the nearby Agia Paraskevi Church before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Taverne",
+            "tip": "Probieren Sie 'Kontosouvli' (gegrilltes Schweinefleisch am Spieß) oder eine herzhafte 'Fasolada' (Bohnensuppe)."
+          },
+          {
+            "name": "Tsipouradiko",
+            "tip": "Genießen Sie 'Tsipouro' mit einer Auswahl an 'Mezedes' (kleine Vorspeisen)."
+          },
+          {
+            "name": "Bäckerei am Platz",
+            "tip": "Holen Sie sich eine frische 'Spanakopita' (Spinatpastete) für einen schnellen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi taverna",
+            "tip": "Kóstolja meg a 'Kontosouvli'-t (nyárson sült sertéshús) vagy egy kiadós 'Fasolada'-t (bableves)."
+          },
+          {
+            "name": "Tsipouradiko",
+            "tip": "Fogyasszon 'Tsipouro'-t 'Mezedes' (kis előételek) válogatással."
+          },
+          {
+            "name": "Pékség a téren",
+            "tip": "Vegyen egy friss 'Spanakopita'-t (spenótos pite) egy gyors harapnivalóért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavernă locală",
+            "tip": "Încercați 'Kontosouvli' (frigărui de porc la grătar) sau o 'Fasolada' (ciorbă de fasole) consistentă."
+          },
+          {
+            "name": "Tsipouradiko",
+            "tip": "Savurați 'Tsipouro' cu o selecție de 'Mezedes' (mici aperitive)."
+          },
+          {
+            "name": "Brutărie în piață",
+            "tip": "Luați o 'Spanakopita' (plăcintă cu spanac) proaspătă pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Taverna",
+            "tip": "Try 'Kontosouvli' (grilled pork on a spit) or a hearty 'Fasolada' (bean soup)."
+          },
+          {
+            "name": "Tsipouradiko",
+            "tip": "Enjoy 'Tsipouro' accompanied by a selection of 'Mezedes' (small appetizers)."
+          },
+          {
+            "name": "Bakery on the square",
+            "tip": "Grab a fresh 'Spanakopita' (spinach pie) for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Enipeas-Flussufer",
+            "tip": "Ein ruhiger Ort, um dem Stadtlärm zu entfliehen und die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof der Kirche Agia Paraskevi",
+            "tip": "Ein versteckter, friedlicher Ort für eine kurze Pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park in der Nähe des Kulturzentrums",
+            "tip": "Finden Sie eine Bank im Schatten und entspannen Sie sich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Enipeas-folyó partja",
+            "tip": "Csendes hely, ahol elmenekülhet a város zajától és élvezheti a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agia Paraskevi-templom udvara",
+            "tip": "Egy rejtett, békés hely egy rövid szünetre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park a Kulturális Központ közelében",
+            "tip": "Keressen egy padot az árnyékban és pihenjen.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Enipeas",
+            "tip": "Un loc liniștit pentru a scăpa de zgomotul orașului și a te bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Bisericii Agia Paraskevi",
+            "tip": "Un loc ascuns și pașnic pentru o scurtă pauză.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parc lângă Centrul Cultural",
+            "tip": "Găsiți o bancă la umbră și relaxați-vă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Enipeas Riverbank",
+            "tip": "A quiet spot to escape the city noise and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Agia Paraskevi Church",
+            "tip": "A hidden, peaceful spot for a short break.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park near the Cultural Center",
+            "tip": "Find a bench in the shade and relax.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie regionalen Honig, Käse und Oliven direkt von den Erzeugern."
+          },
+          {
+            "name": "Geschäfte um den Zentralplatz",
+            "tip": "Stöbern Sie nach handgefertigten Souvenirs und lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi mézet, sajtot és olajbogyót közvetlenül a termelőktől."
+          },
+          {
+            "name": "Üzletek a Központi tér körül",
+            "tip": "Böngésszen kézműves ajándéktárgyak és helyi termékek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați miere, brânză și măsline regionale direct de la producători."
+          },
+          {
+            "name": "Magazine în jurul Pieței Centrale",
+            "tip": "Căutați suveniruri artizanale și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy regional honey, cheese, and olives directly from the producers."
+          },
+          {
+            "name": "Shops around the Central Square",
+            "tip": "Browse for handmade souvenirs and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum eine Herausforderung sein; suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Ein GPS ist nützlich, um zwischen den Clustern zu navigieren.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen in der Stadt.",
+          "Das Auto gibt Ihnen die Flexibilität, auch nahe gelegene Dörfer zu erkunden, falls Sie Zeit haben."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a városközpontban; keressen kijelölt parkolóhelyeket.",
+          "A GPS hasznos a klaszterek közötti navigációhoz.",
+          "Vegye figyelembe a sebességkorlátozásokat a városban.",
+          "Az autó rugalmasságot biztosít a közeli falvak felfedezéséhez is, ha van ideje."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centrul orașului; căutați parcări desemnate.",
+          "Un GPS este util pentru a naviga între clustere.",
+          "Fiți atenți la limitele de viteză din oraș.",
+          "Mașina vă oferă flexibilitatea de a explora și satele din apropiere, dacă aveți timp."
+        ],
+        "en": [
+          "Parking can be a challenge in the city center; look for designated parking areas.",
+          "A GPS is useful for navigating between the clusters.",
+          "Be mindful of the speed limits within the town.",
+          "The car gives you the flexibility to also explore nearby villages if you have time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz (Cluster A)",
+            "hu": "Központi tér (A Klaszter)",
+            "ro": "Piața Centrală (Cluster A)",
+            "en": "Central Square (Cluster A)"
+          },
+          "coords": [
+            22.1335,
+            39.3668
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Hauptbusknotenpunkt ist oft in der Nähe. Beginnen Sie Ihre Erkundung von hier aus.",
+            "hu": "A fő buszcsomópont gyakran a közelben van. Innen kezdje a felfedezést.",
+            "ro": "Principalul nod de autobuz este adesea în apropiere. Începeți explorarea de aici.",
+            "en": "The main bus hub is often nearby. Start your exploration from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Georgios",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Church of Agios Georgios"
+          },
+          "coords": [
+            22.1345,
+            39.3675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz.",
+            "hu": "Rövid séta a térről.",
+            "ro": "O scurtă plimbare din piață.",
+            "en": "A short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Gefallenendenkmal",
+            "hu": "Háborús emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            22.1328,
+            39.3662
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:16",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom ersten Cluster aus erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog az első klaszterből.",
+            "ro": "Ușor accesibil pe jos din primul cluster.",
+            "en": "Easily accessible on foot within the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum (Cluster B)",
+            "hu": "Kulturális Központ (B Klaszter)",
+            "ro": "Centrul Cultural (Cluster B)",
+            "en": "Cultural Center (Cluster B)"
+          },
+          "coords": [
+            22.135,
+            39.369
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:51",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zu diesem Kulturcluster.",
+            "hu": "Menjen helyi busszal ehhez a kulturális klaszterhez.",
+            "ro": "Luați un autobuz local către acest cluster cultural.",
+            "en": "Take a local bus to this cultural cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundliche Sammlung",
+            "hu": "Néprajzi Gyűjtemény",
+            "ro": "Colecția Folclorică",
+            "en": "Folklore Collection"
+          },
+          "coords": [
+            22.1315,
+            39.368
+          ],
+          "category": "museums",
+          "arrive_at": "11:59",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Kulturzentrum aus zu Fuß erreichbar.",
+            "hu": "Gyalogosan elérhető a Kulturális Központtól.",
+            "ro": "Accesibil pe jos de la Centrul Cultural.",
+            "en": "Within walking distance from the Cultural Center."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Bahnhof (Cluster C)",
+            "hu": "Régi vasútállomás (C Klaszter)",
+            "ro": "Gara Veche (Cluster C)",
+            "en": "Old Train Station (Cluster C)"
+          },
+          "coords": [
+            22.128,
+            39.365
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:59",
+          "stay_min": 50,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie in die Nähe des alten Bahnhofs.",
+            "hu": "Egy újabb buszozás a régi vasútállomás közelébe visz.",
+            "ro": "O altă călătorie cu autobuzul vă va duce aproape de vechea gară.",
+            "en": "Another bus ride will take you close to the old station."
+          }
+        },
+        {
+          "name": {
+            "de": "Enipeas-Flussufer",
+            "hu": "Enipeas-folyó partja",
+            "ro": "Malul râului Enipeas",
+            "en": "Enipeas Riverbank"
+          },
+          "coords": [
+            22.126,
+            39.37
+          ],
+          "category": "natural features",
+          "arrive_at": "15:01",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem entspannenden Spaziergang am Fluss.",
+            "hu": "Zárja a napot egy pihentető sétával a folyóparton.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă pe malul râului.",
+            "en": "End your day with a relaxing walk by the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Sofades mit öffentlichen Verkehrsmitteln, indem Sie zwischen den Sehenswürdigkeitenclustern wechseln. Beginnen Sie im zentralen Cluster (A), wo Sie den Hauptplatz und die Kirchen zu Fuß erkunden. Ein Bus bringt Sie mittags zum Kulturcluster (B) mit seinem Zentrum und dem Folkloremuseum. Am Nachmittag bringt Sie eine weitere Busfahrt zum historischen Bahnhof (C), von wo aus Sie einen ruhigen Spaziergang zum Enipeas-Flussufer unternehmen können, um den Tag ausklingen zu lassen.",
+        "hu": "Fedezze fel Szofádeszt tömegközlekedéssel, a látnivalók klaszterei között váltogatva. Kezdje a központi klaszterben (A), ahol gyalogosan felfedezheti a főteret és a templomokat. Délben egy busz elviszi a kulturális klaszterbe (B), annak központjával és a Néprajzi Múzeummal. Délután egy újabb buszozás elviszi a történelmi vasútállomáshoz (C), ahonnan egy csendes sétát tehet az Enipeas-folyó partjára, hogy lezárja a napot.",
+        "ro": "Explorați Sofades cu transportul public, alternând între clusterele de atracții. Începeți în clusterul central (A), unde explorați piața principală și bisericile pe jos. Un autobuz vă va duce la prânz la clusterul cultural (B), cu centrul său și Muzeul de Folclor. După-amiaza, o altă călătorie cu autobuzul vă va duce la gara istorică (C), de unde puteți face o plimbare liniștită până la malul râului Enipeas pentru a încheia ziua.",
+        "en": "Explore Sofades using public transport by hopping between clusters of sights. Start at the central cluster (A), exploring the main square and churches on foot. A bus will take you to the cultural cluster (B) at midday, featuring its center and the Folklore Museum. In the afternoon, another bus ride takes you to the historic station (C), from where you can take a peaceful walk to the Enipeas riverbank to finish the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Taverne",
+            "tip": "Probieren Sie 'Kontosouvli' (gegrilltes Schweinefleisch am Spieß) oder eine herzhafte 'Fasolada' (Bohnensuppe)."
+          },
+          {
+            "name": "Tsipouradiko",
+            "tip": "Genießen Sie 'Tsipouro' mit einer Auswahl an 'Mezedes' (kleine Vorspeisen)."
+          },
+          {
+            "name": "Bäckerei am Platz",
+            "tip": "Holen Sie sich eine frische 'Spanakopita' (Spinatpastete) für einen schnellen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi taverna",
+            "tip": "Kóstolja meg a 'Kontosouvli'-t (nyárson sült sertéshús) vagy egy kiadós 'Fasolada'-t (bableves)."
+          },
+          {
+            "name": "Tsipouradiko",
+            "tip": "Fogyasszon 'Tsipouro'-t 'Mezedes' (kis előételek) válogatással."
+          },
+          {
+            "name": "Pékség a téren",
+            "tip": "Vegyen egy friss 'Spanakopita'-t (spenótos pite) egy gyors harapnivalóért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavernă locală",
+            "tip": "Încercați 'Kontosouvli' (frigărui de porc la grătar) sau o 'Fasolada' (ciorbă de fasole) consistentă."
+          },
+          {
+            "name": "Tsipouradiko",
+            "tip": "Savurați 'Tsipouro' cu o selecție de 'Mezedes' (mici aperitive)."
+          },
+          {
+            "name": "Brutărie în piață",
+            "tip": "Luați o 'Spanakopita' (plăcintă cu spanac) proaspătă pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Taverna",
+            "tip": "Try 'Kontosouvli' (grilled pork on a spit) or a hearty 'Fasolada' (bean soup)."
+          },
+          {
+            "name": "Tsipouradiko",
+            "tip": "Enjoy 'Tsipouro' accompanied by a selection of 'Mezedes' (small appetizers)."
+          },
+          {
+            "name": "Bakery on the square",
+            "tip": "Grab a fresh 'Spanakopita' (spinach pie) for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Enipeas-Flussufer",
+            "tip": "Ein ruhiger Ort, um dem Stadtlärm zu entfliehen und die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof der Kirche Agia Paraskevi",
+            "tip": "Ein versteckter, friedlicher Ort für eine kurze Pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park in der Nähe des Kulturzentrums",
+            "tip": "Finden Sie eine Bank im Schatten und entspannen Sie sich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Enipeas-folyó partja",
+            "tip": "Csendes hely, ahol elmenekülhet a város zajától és élvezheti a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agia Paraskevi-templom udvara",
+            "tip": "Egy rejtett, békés hely egy rövid szünetre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park a Kulturális Központ közelében",
+            "tip": "Keressen egy padot az árnyékban és pihenjen.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Enipeas",
+            "tip": "Un loc liniștit pentru a scăpa de zgomotul orașului și a te bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Bisericii Agia Paraskevi",
+            "tip": "Un loc ascuns și pașnic pentru o scurtă pauză.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parc lângă Centrul Cultural",
+            "tip": "Găsiți o bancă la umbră și relaxați-vă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Enipeas Riverbank",
+            "tip": "A quiet spot to escape the city noise and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Agia Paraskevi Church",
+            "tip": "A hidden, peaceful spot for a short break.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park near the Cultural Center",
+            "tip": "Find a bench in the shade and relax.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie regionalen Honig, Käse und Oliven direkt von den Erzeugern."
+          },
+          {
+            "name": "Geschäfte um den Zentralplatz",
+            "tip": "Stöbern Sie nach handgefertigten Souvenirs und lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi mézet, sajtot és olajbogyót közvetlenül a termelőktől."
+          },
+          {
+            "name": "Üzletek a Központi tér körül",
+            "tip": "Böngésszen kézműves ajándéktárgyak és helyi termékek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați miere, brânză și măsline regionale direct de la producători."
+          },
+          {
+            "name": "Magazine în jurul Pieței Centrale",
+            "tip": "Căutați suveniruri artizanale și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy regional honey, cheese, and olives directly from the producers."
+          },
+          {
+            "name": "Shops around the Central Square",
+            "tip": "Browse for handmade souvenirs and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besorgen Sie sich einen Busfahrplan oder nutzen Sie eine App für öffentliche Verkehrsmittel.",
+          "Eine Tageskarte könnte günstiger sein als Einzelfahrscheine.",
+          "Seien Sie sich bewusst, dass Busse in ländlichen Gebieten möglicherweise nicht so häufig fahren.",
+          "Fragen Sie Einheimische nach der richtigen Buslinie, wenn Sie unsicher sind."
+        ],
+        "hu": [
+          "Szerezzen be egy buszmenetrendet, vagy használjon egy tömegközlekedési alkalmazást.",
+          "Egy napijegy olcsóbb lehet, mint az egyszeri jegyek.",
+          "Vegye figyelembe, hogy a buszok a vidéki területeken ritkábban közlekedhetnek.",
+          "Ha bizonytalan, kérdezze meg a helyieket a megfelelő buszjáratról."
+        ],
+        "ro": [
+          "Obțineți un orar al autobuzelor sau folosiți o aplicație de transport public.",
+          "Un bilet de o zi ar putea fi mai ieftin decât biletele individuale.",
+          "Fiți conștienți că autobuzele în zonele rurale s-ar putea să nu circule la fel de frecvent.",
+          "Întrebați localnicii despre linia corectă de autobuz dacă nu sunteți sigur."
+        ],
+        "en": [
+          "Get a bus schedule or use a public transport app.",
+          "A day pass might be cheaper than single tickets.",
+          "Be aware that buses in rural areas may not be as frequent.",
+          "Ask locals for the right bus line if you are unsure."
+        ]
+      }
+    }
+  }
+}

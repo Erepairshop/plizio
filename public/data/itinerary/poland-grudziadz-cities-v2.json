@@ -1,0 +1,1140 @@
+{
+  "city_id": "poland-grudziadz-cities-v2",
+  "anchor": {
+    "name": "Grudziądz",
+    "coords": [
+      53.4841,
+      18.7537
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Rynek)",
+            "hu": "Piactér (Rynek)",
+            "ro": "Piața Centrală (Rynek)",
+            "en": "Market Square (Rynek)"
+          },
+          "coords": [
+            18.755,
+            53.485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Leben in der Altstadt.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését a főtér egyik kávézójából.",
+            "ro": "Începeți ziua cu o cafea aici și priviți viața orașului vechi.",
+            "en": "Start your day here with a coffee and watch the life of the old town unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Nikolaus",
+            "hu": "Szent Miklós-bazilika",
+            "ro": "Bazilica Sf. Nicolae",
+            "en": "Basilica of St. Nicholas"
+          },
+          "coords": [
+            18.756,
+            53.4855
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur und die ruhige Atmosphäre im Inneren.",
+            "hu": "Csodálja meg a gótikus építészetet és a templom békés hangulatát.",
+            "ro": "Admirați arhitectura gotică și atmosfera liniștită din interior.",
+            "en": "Admire the Gothic architecture and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum in Grudziądz",
+            "hu": "Grudziądzi Múzeum",
+            "ro": "Muzeul din Grudziądz",
+            "en": "Museum in Grudziądz"
+          },
+          "coords": [
+            18.7545,
+            53.4865
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Stadt und der Region.",
+            "hu": "Fedezze fel a város és a régió gazdag történelmét bemutató kiállításokat.",
+            "ro": "Descoperiți istoria bogată a orașului și a regiunii.",
+            "en": "Discover the rich history of the city and the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Klimek-Turm",
+            "hu": "Klimek-torony",
+            "ro": "Turnul Klimek",
+            "en": "Klimek Tower"
+          },
+          "coords": [
+            18.753,
+            53.488
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf für einen Panoramablick über die Stadt und die Weichsel.",
+            "hu": "Másszon fel a panorámás kilátásért a városra és a Visztulára.",
+            "ro": "Urcați pentru o vedere panoramică asupra orașului și a râului Vistula.",
+            "en": "Climb up for a panoramic view over the city and the Vistula River."
+          }
+        },
+        {
+          "name": {
+            "de": "Speicher an der Weichsel",
+            "hu": "Visztula-parti magtárak",
+            "ro": "Grânarele de pe Vistula",
+            "en": "Granaries on the Vistula"
+          },
+          "coords": [
+            18.75,
+            53.487
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die einzigartige Silhouette dieser Gebäude ist das Wahrzeichen der Stadt.",
+            "hu": "Ezeknek az épületeknek az egyedi sziluettje a város szimbóluma.",
+            "ro": "Silueta unică a acestor clădiri este simbolul orașului.",
+            "en": "The unique silhouette of these buildings is the city's landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Wassertor",
+            "hu": "Vízi kapu",
+            "ro": "Poarta Apei",
+            "en": "Water Gate"
+          },
+          "coords": [
+            18.751,
+            53.486
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein malerisches Überbleibsel der alten Stadtbefestigung direkt am Fluss.",
+            "hu": "Az egykori városfal festői maradványa közvetlenül a folyóparton.",
+            "ro": "O rămășiță pitorească a vechilor fortificații ale orașului, chiar lângă râu.",
+            "en": "A picturesque remnant of the old city fortifications right by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Weichselauen (Błonia Nadwiślańskie)",
+            "hu": "Visztula-menti rét (Błonia Nadwiślańskie)",
+            "ro": "Pajiștile Vistulei (Błonia Nadwiślańskie)",
+            "en": "Vistula Meadows (Błonia Nadwiślańskie)"
+          },
+          "coords": [
+            18.745,
+            53.483
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang am Nachmittag.",
+            "hu": "Tökéletes hely egy pihentető délutáni sétához a folyó mentén. Ebéd után ideális.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă de după-amiază. Ideal după prânz.",
+            "en": "A perfect place for a relaxing afternoon walk along the river. Ideal after lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem historischen Marktplatz, umgeben von bunten Bürgerhäusern. Erkunden Sie die gotische Basilika und das Stadtmuseum, bevor Sie den Klimek-Turm für eine atemberaubende Aussicht besteigen. Am Nachmittag schlendern Sie entlang der berühmten Speicher an der Weichsel, passieren das Wassertor und entspannen schließlich auf den weitläufigen Weichselauen.",
+        "hu": "Kezdje a napot a történelmi Piactéren, színes bérházakkal körülvéve. Fedezze fel a gótikus bazilikát és a városi múzeumot, mielőtt megmássza a Klimek-tornyot a lélegzetelállító kilátásért. Délután sétáljon végig a híres Visztula-parti magtárak mellett, haladjon el a Vízi kapunál, és végül pihenjen meg a tágas Visztula-menti réten.",
+        "ro": "Începeți ziua în Piața istorică a orașului, înconjurată de case colorate. Explorați bazilica gotică și muzeul orașului înainte de a urca în Turnul Klimek pentru o priveliște uluitoare. După-amiaza, plimbați-vă pe lângă celebrele grânare de pe Vistula, treceți pe la Poarta Apei și relaxați-vă pe pajiștile întinse ale Vistulei.",
+        "en": "Start your day in the historic Market Square, surrounded by colorful townhouses. Explore the Gothic basilica and the city museum before climbing the Klimek Tower for a breathtaking view. In the afternoon, stroll along the famous granaries on the Vistula, pass the Water Gate, and finally relax on the expansive Vistula Meadows."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die traditionellen polnischen Teigtaschen in einem der Restaurants am Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hagyományos lengyel derelyét a főtér egyik éttermében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele tradiționale poloneze la unul dintre restaurantele din Piața Centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the traditional Polish dumplings in one of the restaurants on the Market Square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weichselauen",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie den Blick auf den Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Visztula-menti rét",
+            "tip": "Keressen egy csendes padot, és élvezze a folyóra nyíló kilátást.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pajiștile Vistulei",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de priveliștea râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vistula Meadows",
+            "tip": "Find a quiet bench and enjoy the view of the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "In den Gassen der Altstadt finden Sie einzigartige Souvenirs und Bernsteinprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Az óváros sikátoraiban egyedi szuveníreket és borostyán termékeket talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Pe străduțele din centrul vechi veți găsi suveniruri unice și produse din chihlimbar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "In the alleys of the Old Town, you will find unique souvenirs and amber products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar.",
+          "Planen Sie ein Mittagessen in einem Restaurant mit Blick auf die Weichsel ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "A legtöbb látnivaló gyalogosan elérhető.",
+          "Tervezzen egy ebédet egy Visztulára néző étteremben."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor sunt accesibile pe jos.",
+          "Planificați prânzul la un restaurant cu vedere la Vistula."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the Old Town can be uneven.",
+          "Most attractions are within walking distance.",
+          "Plan for lunch at a restaurant with a view of the Vistula River."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Rynek)",
+            "hu": "Piactér (Rynek)",
+            "ro": "Piața Centrală (Rynek)",
+            "en": "Market Square (Rynek)"
+          },
+          "coords": [
+            18.755,
+            53.485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie den Platz zu Fuß.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel a teret gyalog.",
+            "ro": "Parcați bicicleta și explorați piața pe jos.",
+            "en": "Lock up your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Speicher an der Weichsel",
+            "hu": "Visztula-parti magtárak",
+            "ro": "Grânarele de pe Vistula",
+            "en": "Granaries on the Vistula"
+          },
+          "coords": [
+            18.75,
+            53.487
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine tolle Fotomöglichkeit vom gegenüberliegenden Ufer.",
+            "hu": "Nagyszerű fotózási lehetőség a szemközti partról.",
+            "ro": "O oportunitate excelentă pentru fotografii de pe malul opus.",
+            "en": "A great photo opportunity from the opposite bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Błonia Nadwiślańskie",
+            "hu": "Visztula-menti rét",
+            "ro": "Pajiștile Vistulei",
+            "en": "Vistula Meadows"
+          },
+          "coords": [
+            18.745,
+            53.483
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannte Fahrt entlang des Flusses.",
+            "hu": "Élvezze a pihentető kerékpározást a folyó mentén.",
+            "ro": "Bucurați-vă de o plimbare relaxantă cu bicicleta de-a lungul râului.",
+            "en": "Enjoy a relaxing bike ride along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle Grudziądz",
+            "hu": "Grudziądzi Citadella",
+            "ro": "Cetatea Grudziądz",
+            "en": "Grudziądz Citadel"
+          },
+          "coords": [
+            18.758,
+            53.495
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Fahrt bergauf ist eine Herausforderung, aber die Festung ist es wert.",
+            "hu": "Az út felfelé kihívást jelent, de az erőd megéri a fáradságot.",
+            "ro": "Urcușul este o provocare, dar cetatea merită efortul.",
+            "en": "The uphill ride is a challenge, but the fortress is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Klimek-Turm",
+            "hu": "Klimek-torony",
+            "ro": "Turnul Klimek",
+            "en": "Klimek Tower"
+          },
+          "coords": [
+            18.753,
+            53.488
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Lohnender Stopp auf dem Rückweg ins Stadtzentrum.",
+            "hu": "Érdemes megállni a városközpont felé vezető úton.",
+            "ro": "O oprire care merită la întoarcerea spre centrul orașului.",
+            "en": "A worthwhile stop on your way back to the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Nikolaus",
+            "hu": "Szent Miklós-bazilika",
+            "ro": "Bazilica Sf. Nicolae",
+            "en": "Basilica of St. Nicholas"
+          },
+          "coords": [
+            18.756,
+            53.4855
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe nach der Radtour.",
+            "hu": "A nyugalom helye a kerékpártúra után.",
+            "ro": "Un loc de liniște după turul cu bicicleta.",
+            "en": "A place of tranquility after the bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum in Grudziądz",
+            "hu": "Grudziądzi Múzeum",
+            "ro": "Muzeul din Grudziądz",
+            "en": "Museum in Grudziądz"
+          },
+          "coords": [
+            18.7545,
+            53.4865
+          ],
+          "category": "museums",
+          "arrive_at": "14:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem tiefen Einblick in die lokale Geschichte.",
+            "hu": "Zárja a túrát a helyi történelem alapos megismerésével.",
+            "ro": "Încheiați turul cu o incursiune profundă în istoria locală.",
+            "en": "End your tour with a deep dive into local history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Marktplatz und radeln Sie zu den beeindruckenden Speichern an der Weichsel. Genießen Sie eine Fahrt entlang der Weichselauen, bevor Sie die anspruchsvolle, aber lohnende Strecke zur Zitadelle in Angriff nehmen. Auf dem Rückweg ins Zentrum erklimmen Sie den Klimek-Turm, besuchen die Basilika und tauchen im Museum in die Geschichte ein.",
+        "hu": "Induljon a Piactérről, és tekerjen el a lenyűgöző Visztula-parti magtárakhoz. Élvezze a folyó menti kerékpározást a réten, mielőtt nekivág a kihívást jelentő, de annál inkább megérő útnak a Citadellához. Visszafelé a központba mássza meg a Klimek-tornyot, látogasson el a bazilikába, és merüljön el a történelemben a múzeumban.",
+        "ro": "Porniți din Piața Centrală și pedalați spre impresionantele grânare de pe Vistula. Bucurați-vă de o plimbare de-a lungul Pajiștilor Vistulei înainte de a aborda traseul provocator, dar plin de satisfacții, către Cetate. La întoarcerea spre centru, urcați în Turnul Klimek, vizitați bazilica și aprofundați istoria la muzeu.",
+        "en": "Start at the Market Square and cycle to the impressive granaries on the Vistula. Enjoy a ride along the Vistula Meadows before tackling the challenging but rewarding route to the Citadel. On the way back to the center, climb the Klimek Tower, visit the basilica, and delve into history at the museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Żurek",
+            "tip": "Eine traditionelle saure Roggenmehlsuppe, perfekt nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Żurek",
+            "tip": "Hagyományos lengyel savanyú rozsleves, tökéletes egy kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Żurek",
+            "tip": "O supă tradițională acră de secară, perfectă după o plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Żurek",
+            "tip": "A traditional sour rye soup, perfect after a bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Weichsel",
+            "tip": "Machen Sie eine Pause und schauen Sie den Schiffen nach.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Visztula partja",
+            "tip": "Tartson egy szünetet és nézze a hajókat.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Vistulei",
+            "tip": "Luați o pauză și priviți vapoarele.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Vistula",
+            "tip": "Take a break and watch the ships go by.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha tartozékra vagy gyors javításra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "In case you need accessories or a quick repair."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Luftdruck Ihrer Reifen vor der Abfahrt.",
+          "Einige Wege können hügelig sein, besonders zur Zitadelle.",
+          "Nutzen Sie die Radwege entlang der Weichsel."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Néhány út emelkedhet, különösen a Citadellához vezető.",
+          "Használja a Visztula menti kerékpárutakat."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Unele trasee pot fi deluroase, în special cel spre Cetate.",
+          "Folosiți pistele de biciclete de-a lungul Vistulei."
+        ],
+        "en": [
+          "Check your tire pressure before you leave.",
+          "Some paths can be hilly, especially to the Citadel.",
+          "Use the bike paths along the Vistula River."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 9.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zitadelle Grudziądz",
+            "hu": "Grudziądzi Citadella",
+            "ro": "Cetatea Grudziądz",
+            "en": "Grudziądz Citadel"
+          },
+          "coords": [
+            18.758,
+            53.495
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und nehmen Sie sich Zeit, das riesige Festungsgelände zu erkunden.",
+            "hu": "Parkoljon le, és szánjon időt a hatalmas erődítmény területének felfedezésére.",
+            "ro": "Parcați aici și acordați-vă timp pentru a explora vastul teren al cetății.",
+            "en": "Park here and take your time to explore the vast fortress grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Klimek-Turm",
+            "hu": "Klimek-torony",
+            "ro": "Turnul Klimek",
+            "en": "Klimek Tower"
+          },
+          "coords": [
+            18.753,
+            53.488
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Zitadellenhügel ein kurzer Spaziergang zum wiederaufgebauten Turm.",
+            "hu": "A citadella dombjáról egy rövid séta a wiederaufgebauten toronyhoz.",
+            "ro": "De pe dealul cetății, o scurtă plimbare până la turnul reconstruit.",
+            "en": "From the citadel hill, a short walk to the rebuilt tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Altstadt",
+            "hu": "Óvárosi parkoló",
+            "ro": "Parcare Centrul Vechi",
+            "en": "Old Town Parking"
+          },
+          "coords": [
+            18.758,
+            53.485
+          ],
+          "category": "transport",
+          "arrive_at": "11:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Auto hier für den Rest des Tages ab und erkunden Sie die Innenstadt zu Fuß.",
+            "hu": "Hagyja itt az autóját a nap hátralévő részére, és fedezze fel a belvárost gyalog.",
+            "ro": "Lăsați mașina aici pentru restul zilei și explorați centrul orașului pe jos.",
+            "en": "Leave your car here for the rest of the day and explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz (Rynek)",
+            "hu": "Piactér (Rynek)",
+            "ro": "Piața Centrală (Rynek)",
+            "en": "Market Square (Rynek)"
+          },
+          "coords": [
+            18.755,
+            53.485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um einen Mittagsimbiss zu finden.",
+            "hu": "Tökéletes hely egy ebédre.",
+            "ro": "Locul perfect pentru a găsi o gustare de prânz.",
+            "en": "The perfect place to find a lunch snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum in Grudziądz",
+            "hu": "Grudziądzi Múzeum",
+            "ro": "Muzeul din Grudziądz",
+            "en": "Museum in Grudziądz"
+          },
+          "coords": [
+            18.7545,
+            53.4865
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte, direkt neben dem Marktplatz.",
+            "hu": "Történelem iránt érdeklődőknek kötelező, közvetlenül a főtér mellett.",
+            "ro": "O necesitate pentru pasionații de istorie, chiar lângă piață.",
+            "en": "A must for history buffs, right next to the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Speicher an der Weichsel",
+            "hu": "Visztula-parti magtárak",
+            "ro": "Grânarele de pe Vistula",
+            "en": "Granaries on the Vistula"
+          },
+          "coords": [
+            18.75,
+            53.487
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang entlang des Flusses, um die berühmte Skyline zu bewundern.",
+            "hu": "Sétáljon egyet a folyó mentén, hogy megcsodálja a híres városképet.",
+            "ro": "Faceți o plimbare de-a lungul râului pentru a admira faimoasa panoramă.",
+            "en": "Take a walk along the river to admire the famous skyline."
+          }
+        },
+        {
+          "name": {
+            "de": "Weichselauen (Błonia Nadwiślańskie)",
+            "hu": "Visztula-menti rét (Błonia Nadwiślańskie)",
+            "ro": "Pajiștile Vistulei (Błonia Nadwiślańskie)",
+            "en": "Vistula Meadows (Błonia Nadwiślańskie)"
+          },
+          "coords": [
+            18.745,
+            53.483
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Abschluss des Tages hierher, um sich zu entspannen und die Natur zu genießen.",
+            "hu": "A nap végén vezessen ide, hogy pihenjen és élvezze a természetet.",
+            "ro": "Conduceți aici la sfârșitul zilei pentru a vă relaxa și a vă bucura de natură.",
+            "en": "Drive here at the end of the day to relax and enjoy nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto bei der imposanten Zitadelle (Cluster 1). Nach der Erkundung fahren Sie zu einem zentralen Parkplatz (Cluster 2) und entdecken den Marktplatz, das Museum und die berühmten Speicher zu Fuß. Für eine entspannte Auszeit am Nachmittag fahren Sie zu den weitläufigen Weichselauen (Cluster 3), ein perfekter Abschluss Ihres Besuchs.",
+        "hu": "Kezdje a napot autóval a lenyűgöző Citadellánál (1. csoport). A felfedezés után hajtson egy központi parkolóba (2. csoport), és fedezze fel gyalog a Piacteret, a múzeumot és a híres magtárakat. Egy pihentető délutáni kikapcsolódáshoz hajtson a tágas Visztula-menti rétre (3. csoport), amely tökéletes lezárása a látogatásnak.",
+        "ro": "Începeți ziua cu mașina la impunătoarea Cetate (Cluster 1). După explorare, conduceți la o parcare centrală (Cluster 2) și descoperiți Piața, muzeul și faimoasele grânare pe jos. Pentru o pauză relaxantă după-amiaza, conduceți la întinsele Pajiști ale Vistulei (Cluster 3), o încheiere perfectă a vizitei dumneavoastră.",
+        "en": "Start your day by car at the imposing Citadel (Cluster 1). After exploring, drive to a central parking lot (Cluster 2) and discover the Market Square, the museum, and the famous granaries on foot. For a relaxing afternoon break, drive to the expansive Vistula Meadows (Cluster 3), a perfect end to your visit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karpfen auf Grudenzer Art",
+            "tip": "Eine lokale Fischspezialität, die man in Restaurants am Fluss probieren kann."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ponty grudziądzi módra",
+            "tip": "Helyi halkülönlegesség, amelyet a folyóparti éttermekben kóstolhat meg."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crap în stil Grudziądz",
+            "tip": "O specialitate locală de pește care poate fi încercată la restaurantele de pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grudziądz-style carp",
+            "tip": "A local fish specialty that can be tried in restaurants by the river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von der Zitadelle",
+            "tip": "Genießen Sie die weite Aussicht über das Weichseltal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Citadelláról",
+            "tip": "Élvezze a Visztula völgyére nyíló széles kilátást.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliștea de la Cetate",
+            "tip": "Bucurați-vă de vederea largă asupra Văii Vistulei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Citadel",
+            "tip": "Enjoy the wide view over the Vistula valley.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Produkte",
+            "tip": "Suchen Sie nach lokalen Honig- und Handwerksprodukten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Keressen helyi mézet és kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse regionale",
+            "tip": "Căutați miere locală și produse artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional Products",
+            "tip": "Look for local honey and handicraft products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Innenstadt kann schwierig sein; nutzen Sie die ausgewiesenen Parkplätze.",
+          "Planen Sie genügend Zeit für die Zitadelle ein.",
+          "Das Fahren zwischen den Clustern ist effizienter als die Parkplatzsuche für jede einzelne Attraktion."
+        ],
+        "hu": [
+          "A belvárosi parkolás nehézkes lehet; használja a kijelölt parkolókat.",
+          "Szánjon elegendő időt a Citadellára.",
+          "A klaszterek közötti autózás hatékonyabb, mint minden egyes látnivalónál parkolóhelyet keresni."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă; folosiți parcările desemnate.",
+          "Planificați suficient timp pentru Cetate.",
+          "Conducerea între clustere este mai eficientă decât căutarea unui loc de parcare pentru fiecare atracție în parte."
+        ],
+        "en": [
+          "Parking in the city center can be difficult; use the designated parking lots.",
+          "Plan enough time for the Citadel.",
+          "Driving between clusters is more efficient than looking for parking at each individual attraction."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zitadelle Grudziądz",
+            "hu": "Grudziądzi Citadella",
+            "ro": "Cetatea Grudziądz",
+            "en": "Grudziądz Citadel"
+          },
+          "coords": [
+            18.758,
+            53.495
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum hierher. Kaufen Sie eine Tageskarte.",
+            "hu": "Menjen busszal a városközpontból. Érdemes napijegyet venni.",
+            "ro": "Luați un autobuz din centrul orașului până aici. Cumpărați un bilet de o zi.",
+            "en": "Take a bus from the city center here. Buy a day ticket."
+          }
+        },
+        {
+          "name": {
+            "de": "Klimek-Turm",
+            "hu": "Klimek-torony",
+            "ro": "Turnul Klimek",
+            "en": "Klimek Tower"
+          },
+          "coords": [
+            18.753,
+            53.488
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergab von der Zitadelle.",
+            "hu": "Rövid séta lefelé a Citadellától.",
+            "ro": "O scurtă plimbare la vale de la Cetate.",
+            "en": "A short walk downhill from the Citadel."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz (Rynek)",
+            "hu": "Piactér (Rynek)",
+            "ro": "Piața Centrală (Rynek)",
+            "en": "Market Square (Rynek)"
+          },
+          "coords": [
+            18.755,
+            53.485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Herz der Altstadt.",
+            "hu": "Menjen vissza busszal az óváros szívébe.",
+            "ro": "Luați autobuzul înapoi în inima orașului vechi.",
+            "en": "Take the bus back to the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum in Grudziądz",
+            "hu": "Grudziądzi Múzeum",
+            "ro": "Muzeul din Grudziądz",
+            "en": "Museum in Grudziądz"
+          },
+          "coords": [
+            18.7545,
+            53.4865
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Schritte vom Marktplatz entfernt.",
+            "hu": "Csak néhány lépésre a Piactértől.",
+            "ro": "La doar câțiva pași de Piața Centrală.",
+            "en": "Just a few steps from the Market Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Speicher an der Weichsel",
+            "hu": "Visztula-parti magtárak",
+            "ro": "Grânarele de pe Vistula",
+            "en": "Granaries on the Vistula"
+          },
+          "coords": [
+            18.75,
+            53.487
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang zum Flussufer ist erfrischend.",
+            "hu": "A séta a folyópartra frissítő.",
+            "ro": "Plimbarea până la malul râului este revigorantă.",
+            "en": "The walk to the riverbank is refreshing."
+          }
+        },
+        {
+          "name": {
+            "de": "Błonia Nadwiślańskie",
+            "hu": "Visztula-menti rét",
+            "ro": "Pajiștile Vistulei",
+            "en": "Vistula Meadows"
+          },
+          "coords": [
+            18.745,
+            53.483
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang entlang des Flusses.",
+            "hu": "Zárja a napot egy sétával a folyó mentén.",
+            "ro": "Încheiați ziua cu o plimbare de-a lungul râului.",
+            "en": "End the day with a walk along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Bus, um zur weitläufigen Zitadelle zu gelangen (Cluster 1). Erkunden Sie das Gelände und spazieren Sie zum Klimek-Turm. Fahren Sie mit dem Bus zurück in die Altstadt (Cluster 2), wo Sie den Marktplatz, das Museum und die berühmten Speicher zu Fuß entdecken können. Der Tag endet mit einem entspannten Spaziergang zu den nahegelegenen Weichselauen.",
+        "hu": "Használja a buszt, hogy eljusson a tágas Citadellához (1. csoport). Fedezze fel a területet és sétáljon el a Klimek-toronyhoz. Utazzon vissza busszal az Óvárosba (2. csoport), ahol gyalog fedezheti fel a Piacteret, a múzeumot és a híres magtárakat. A nap egy pihentető sétával zárul a közeli Visztula-menti réten.",
+        "ro": "Folosiți autobuzul pentru a ajunge la întinsa Cetate (Cluster 1). Explorați zona și plimbați-vă până la Turnul Klimek. Luați autobuzul înapoi în Orașul Vechi (Cluster 2), unde puteți descoperi pe jos Piața, muzeul și faimoasele grânare. Ziua se încheie cu o plimbare relaxantă la Pajiștile Vistulei din apropiere.",
+        "en": "Use the bus to get to the expansive Citadel (Cluster 1). Explore the grounds and walk to the Klimek Tower. Take the bus back to the Old Town (Cluster 2), where you can discover the Market Square, the museum, and the famous granaries on foot. The day ends with a relaxing walk to the nearby Vistula Meadows."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gofry",
+            "tip": "Probieren Sie eine polnische Waffel mit verschiedenen Toppings als süßen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gofry",
+            "tip": "Kóstoljon meg egy lengyel gofrit különféle feltétekkel édes nassolnivalóként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gofry",
+            "tip": "Încercați o vafă poloneză cu diverse toppinguri ca o gustare dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gofry",
+            "tip": "Try a Polish waffle with various toppings as a sweet snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss",
+            "tip": "Ein ruhiger Weg, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a folyóparton",
+            "tip": "Csendes út, hogy elmeneküljön a város nyüzsgésétől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "O cale liniștită pentru a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverfront walk",
+            "tip": "A quiet path to escape the hustle and bustle of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktstände",
+            "tip": "Halten Sie Ausschau nach Ständen mit frischem Obst und lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piaci standok",
+            "tip": "Keresse a friss gyümölcsöt és helyi termékeket kínáló standokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe de piață",
+            "tip": "Căutați tarabe cu fructe proaspete și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market stalls",
+            "tip": "Look out for stalls with fresh fruit and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eine Tageskarte für den Bus ist oft die günstigste Option.",
+          "Überprüfen Sie den Busfahrplan im Voraus.",
+          "Die meisten Busse sind modern und zugänglich."
+        ],
+        "hu": [
+          "A busz napijegy gyakran a legolcsóbb megoldás.",
+          "Előre ellenőrizze a buszmenetrendet.",
+          "A legtöbb busz modern és akadálymentesített."
+        ],
+        "ro": [
+          "Un bilet de o zi pentru autobuz este adesea cea mai ieftină opțiune.",
+          "Verificați programul autobuzelor în avans.",
+          "Majoritatea autobuzelor sunt moderne și accesibile."
+        ],
+        "en": [
+          "A day ticket for the bus is often the cheapest option.",
+          "Check the bus schedule in advance.",
+          "Most buses are modern and accessible."
+        ]
+      }
+    }
+  }
+}

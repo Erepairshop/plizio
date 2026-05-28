@@ -1,0 +1,1023 @@
+{
+  "city_id": "greece-sitia-cities-v2",
+  "anchor": {
+    "name": "Sitia",
+    "coords": [
+      26.107,
+      35.2078
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Venezianischer Hafen",
+          "coords": [
+            26.1085,
+            35.2091
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Morgenspaziergang am Hafen für beste Fotos.",
+            "hu": "Reggeli séta a kikötőben a legjobb fotókért.",
+            "ro": "Plimbare de dimineață în port pentru fotografii perfecte.",
+            "en": "Morning walk at the harbor for the best photos."
+          }
+        },
+        {
+          "name": "Statue von Vitsentzos Kornaros",
+          "coords": [
+            26.1075,
+            35.2085
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ehrt den Autor des berühmten Epos Erotokritos.",
+            "hu": "Az Erotokritosz eposz szerzőjének emlékműve.",
+            "ro": "In cinstea autorului celebrei epopei Erotokritos.",
+            "en": "Honors the author of the famous epic Erotokritos."
+          }
+        },
+        {
+          "name": "Stadtgarten",
+          "coords": [
+            26.106,
+            35.208
+          ],
+          "category": "natural features",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine grüne Oase mitten im Stadtzentrum.",
+            "hu": "Zöld oázis a városközpont szívében.",
+            "ro": "O oază verde chiar în centrul orașului.",
+            "en": "A green oasis right in the city center."
+          }
+        },
+        {
+          "name": "Kirche Agia Ekaterini",
+          "coords": [
+            26.1055,
+            35.207
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wunderschöne Ikonen im Inneren, respektvolle Kleidung beachten.",
+            "hu": "Gyönyörű ikonok, megfelelő öltözet javasolt.",
+            "ro": "Icoane frumoase la interior, purtați ținută decentă.",
+            "en": "Beautiful icons inside, respectful clothing required."
+          }
+        },
+        {
+          "name": "Kazarma-Festung",
+          "coords": [
+            26.104,
+            35.2095
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fantastischer Panoramablick über die gesamte Bucht.",
+            "hu": "Fantasztikus panoráma az egész öbölre.",
+            "ro": "Panoramă fantastică asupra întregului golf.",
+            "en": "Fantastic panoramic view over the entire bay."
+          }
+        },
+        {
+          "name": "Archäologisches Museum",
+          "coords": [
+            26.1065,
+            35.2045
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zeigt minoische Funde aus der Region um Zakros.",
+            "hu": "Mínoszi leletek a zakroszi régióból.",
+            "ro": "Expune descoperiri minoice din regiunea Zakros.",
+            "en": "Displays Minoan finds from the Zakros region."
+          }
+        },
+        {
+          "name": "Uferpromenade von Sitia",
+          "coords": [
+            26.109,
+            35.2065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für einen späten Nachmittagskaffee am Wasser.",
+            "hu": "Tökéletes helyszín egy délutáni kávéhoz a vízparton.",
+            "ro": "Perfect pentru o cafea târzie după-amiaza la malul mării.",
+            "en": "Perfect for a late afternoon coffee by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt entspannt am idyllischen venezianischen Hafen von Sitia, gefolgt von einem Besuch beim Kornaros-Denkmal und dem grünen Stadtgarten. Gegen Mittag erkunden wir die Agia Ekaterini und besteigen die Kazarma-Festung für den besten Ausblick. Am Nachmittag tauchen wir im Archäologischen Museum in die minoische Geschichte ein. Der Tag klingt gemütlich an der Uferpromenade mit Meeresrauschen aus.",
+        "hu": "A nap a festői velencei kikötőben indul, majd a Kornarosz-szobor és a zöldellő városi park következik. Kora délután az Agia Ekaterini templom megtekintése után a Kazarma-erődbe kapaszkodunk fel a panorámáért. Később a Régészeti Múzeumban a mínoszi történelem vár. A sétát a hangulatos tengerparti sétányon zárjuk egy kellemes kávé kíséretében.",
+        "ro": "Ziua începe relaxant în portul venețian pitoresc, urmată de monumentul lui Kornaros și grădina verde a orașului. La prânz, explorăm biserica Agia Ekaterini și urcăm la fortăreața Kazarma pentru priveliști panoramice. După-amiaza este dedicată istoriei minoice la Muzeul Arheologic. Plimbarea se încheie liniștit pe promenada de la malul mării, la o cafea.",
+        "en": "The day begins at the idyllic Venetian harbor, followed by a visit to the Kornaros monument and the lush city garden. Around midday, we explore Agia Ekaterini and climb to the Kazarma Fortress for sweeping views. The afternoon is dedicated to Minoan history at the Archaeological Museum. The walk concludes along the lively waterfront promenade with the sound of the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dakos",
+            "tip": "Kretischer Zwieback mit Tomaten und Feta in den Tavernen am Hafen."
+          },
+          {
+            "name": "Sitia Olivenöl",
+            "tip": "Lokales, weltberühmtes Olivenöl probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dakos",
+            "tip": "Krétai kétszersült paradicsommal és fetával a kikötői tavernákban."
+          },
+          {
+            "name": "Sitia olívaolaj",
+            "tip": "Helyi, világhírű olívaolaj megkóstolása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dakos",
+            "tip": "Pâine uscată cretană cu roșii și brânză feta în tavernele din port."
+          },
+          {
+            "name": "Ulei de măsline Sitia",
+            "tip": "Degustați faimosul ulei de măsline local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dakos",
+            "tip": "Cretan rusk with tomatoes and feta at harbor taverns."
+          },
+          {
+            "name": "Sitia Olive Oil",
+            "tip": "Taste the world-famous local olive oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kazarma Mauern",
+            "tip": "Ruhiger Blick über die Stadt bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Östlicher Hafenbereich",
+            "tip": "Wenig überlaufen und ideal zum Entspannen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kazarma falai",
+            "tip": "Nyugodt kilátás a városra naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Keleti kikötői rész",
+            "tip": "Csendesebb szakasz, ideális pihenésre.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile Kazarma",
+            "tip": "Priveliște liniștită asupra orașului la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Zona de est a portului",
+            "tip": "Mai puțin aglomerată, ideală pentru relaxare.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kazarma Walls",
+            "tip": "Quiet view over the city at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eastern Harbor Area",
+            "tip": "Less crowded and ideal for relaxing.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Dienstags für frische lokale Produkte."
+          },
+          {
+            "name": "Kretische Kräuter",
+            "tip": "Thymian und Oregano aus den Bergen Kretas kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Keddenként friss helyi termékek széles választéka."
+          },
+          {
+            "name": "Krétai gyógynövények",
+            "tip": "Hegyi kakukkfű és oregánó vásárlása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Marțea pentru produse locale proaspete."
+          },
+          {
+            "name": "Ierburi cretane",
+            "tip": "Cumpărați cimbru și oregano din munții Cretei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "On Tuesdays for fresh local produce."
+          },
+          {
+            "name": "Cretan Herbs",
+            "tip": "Buy mountain thyme and oregano."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequemes Schuhwerk für den Aufstieg zur Festung tragen.",
+          "Die Mittagshitze am besten in einer schattigen Taverne verbringen.",
+          "Sonnencreme und Wasser sind bei Spaziergängen unerlässlich.",
+          "Der Hafen ist abends autofrei und perfekt für Fußgänger."
+        ],
+        "hu": [
+          "Kényelmes cipő ajánlott az erődhöz vezető kapaszkodó miatt.",
+          "A déli hőséget érdemes egy árnyékos tavernában átvészelni.",
+          "Naptej és elegendő víz mindig legyen nálad.",
+          "A kikötő este autómentes, ideális az esti sétákhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru urcarea spre fortăreață.",
+          "Petreceți căldura prânzului într-o tavernă umbrită.",
+          "Nu uitați crema de protecție solară și apa.",
+          "Seara, portul este închis traficului auto și perfect pentru pietoni."
+        ],
+        "en": [
+          "Wear comfortable shoes for the climb to the fortress.",
+          "Spend the midday heat in a shaded tavern.",
+          "Sunscreen and water are essential for walking around.",
+          "The harbor is car-free in the evenings, perfect for pedestrians."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Venezianischer Hafen",
+          "coords": [
+            26.1085,
+            35.2091
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Morgens ist hier am wenigsten los.",
+            "hu": "Reggel a legcsendesebb a környék.",
+            "ro": "Dimineața este cea mai liniștită zonă.",
+            "en": "Morning is the quietest time here."
+          }
+        },
+        {
+          "name": "Uferpromenade von Sitia",
+          "coords": [
+            26.109,
+            35.2065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schöne flache Strecke direkt am Wasser entlang.",
+            "hu": "Szép, sík útszakasz közvetlenül a vízparton.",
+            "ro": "Traseu plat și frumos chiar de-a lungul apei.",
+            "en": "Beautiful flat path right along the water."
+          }
+        },
+        {
+          "name": "Archäologisches Museum",
+          "coords": [
+            26.1065,
+            35.2045
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrrad sicher vor dem Eingang abschließen.",
+            "hu": "Kerékpárt a bejáratnál biztonságosan le lehet zárni.",
+            "ro": "Bicicleta poate fi încuiată în siguranță la intrare.",
+            "en": "Lock your bike safely in front of the entrance."
+          }
+        },
+        {
+          "name": "Stadtgarten",
+          "coords": [
+            26.106,
+            35.208
+          ],
+          "category": "natural features",
+          "arrive_at": "12:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kurze Pause im kühlen Schatten der Bäume.",
+            "hu": "Rövid pihenő a fák hűsítő árnyékában.",
+            "ro": "Pauză scurtă la umbra răcoroasă a copacilor.",
+            "en": "Short break in the cool shade of the trees."
+          }
+        },
+        {
+          "name": "Kazarma-Festung",
+          "coords": [
+            26.104,
+            35.2095
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Steile Auffahrt, evtl. das Rad die letzten Meter schieben.",
+            "hu": "Meredek emelkedő, érdemes lehet az utolsó métereken tolni a biciklit.",
+            "ro": "Urcare abruptă, s-ar putea să trebuiască să împingeți bicicleta la final.",
+            "en": "Steep incline, you might need to push the bike the last few meters."
+          }
+        },
+        {
+          "name": "Volkskundemuseum",
+          "coords": [
+            26.105,
+            35.2075
+          ],
+          "category": "museums",
+          "arrive_at": "14:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Einblick in das traditionelle kretische Leben.",
+            "hu": "Bepillantás a hagyományos krétai életbe.",
+            "ro": "O privire asupra vieții tradiționale cretane.",
+            "en": "A glimpse into traditional Cretan life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour beginnt flach und entspannt am Hafen und führt entlang der Uferpromenade. Danach radeln wir etwas ins Landesinnere zum Archäologischen Museum. Mittags gibt es eine Erfrischungspause im Stadtgarten. Am Nachmittag wird es etwas anspruchsvoller beim Anstieg zur Kazarma-Festung, belohnt durch eine tolle Aussicht. Den Abschluss bildet das Volkskundemuseum im Stadtzentrum.",
+        "hu": "A kerékpártúra sík terepen, a kikötőben kezdődik, és a tengerparti sétányon halad. Ezt követően a Régészeti Múzeum felé tekerünk. Délben a városi park zöldjében pihenünk meg. Délután következik a kihívást jelentő emelkedő a Kazarma-erődhöz, amiért a kilátás kárpótol. A napot a belvárosi Néprajzi Múzeumban zárjuk.",
+        "ro": "Turul cu bicicleta începe relaxant în port și continuă pe promenada de pe coastă. Apoi pedalăm spre Muzeul Arheologic. La prânz, ne relaxăm în grădina orașului. După-amiaza urmează urcarea provocatoare către fortăreața Kazarma, răsplătită cu o vedere minunată. Ziua se încheie la Muzeul de Etnografie din centru.",
+        "en": "The bike tour starts flat and relaxed at the harbor and continues along the waterfront promenade. We then cycle slightly inland to the Archaeological Museum. At midday, we take a refreshing break in the city garden. The afternoon brings a more challenging climb to the Kazarma Fortress, rewarded by a great view. We finish up at the Folklore Museum downtown."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mezedes",
+            "tip": "Viele kleine kretische Vorspeisen, ideal zum Teilen nach der Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Meze",
+            "tip": "Sok kis krétai előétel, ideális megosztásra a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mezedes",
+            "tip": "Multe aperitive cretane mici, ideale pentru a fi împărțite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mezedes",
+            "tip": "Many small Cretan appetizers, ideal for sharing after the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ende der Uferpromenade",
+            "tip": "Hier bricht sich das Meer sanft, perfekt für eine Radpause.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A sétány vége",
+            "tip": "A hullámok lágyan törnek meg itt, remek pihenőhely a bringázás után.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capătul promenadei",
+            "tip": "Marea se sparge ușor aici, perfect pentru o pauză de bicicletă.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "End of the Promenade",
+            "tip": "The sea breaks gently here, perfect for a cycling break.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig",
+            "tip": "Lokaler Thymianhonig ist leicht zu transportieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Méz",
+            "tip": "A helyi kakukkfűméz könnyen szállítható a biciklin."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere",
+            "tip": "Mierea locală de cimbru este ușor de transportat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Honey",
+            "tip": "Local thyme honey is easy to carry on a bike."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen können im Zentrum schmal und steil sein.",
+          "Beim Aufstieg zur Burg eventuell den niedrigsten Gang nutzen.",
+          "Vorsicht bei sandigen Stellen nahe der Promenade."
+        ],
+        "hu": [
+          "A belvárosi utcák szűkek és meredekek lehetnek.",
+          "A várhoz felfelé érdemes a legkisebb sebességfokozatot használni.",
+          "A sétány közelében lévő homokos szakaszokon óvatosan tekerj."
+        ],
+        "ro": [
+          "Străzile pot fi înguste și abrupte în centru.",
+          "La urcarea spre castel, folosiți viteza cea mai mică.",
+          "Atenție la zonele nisipoase din apropierea promenadei."
+        ],
+        "en": [
+          "Streets in the center can be narrow and steep.",
+          "Use the lowest gear for the climb to the castle.",
+          "Watch out for sandy patches near the promenade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Venezianischer Hafen",
+          "coords": [
+            26.1085,
+            35.2091
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am großen Parkplatz östlich des Hafens.",
+            "hu": "Parkoljon a kikötőtől keletre fekvő nagy parkolóban.",
+            "ro": "Parcați în parcarea mare la est de port.",
+            "en": "Park at the large parking lot east of the harbor."
+          }
+        },
+        {
+          "name": "Uferpromenade von Sitia",
+          "coords": [
+            26.109,
+            35.2065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schöner Fußweg vom Hafen aus.",
+            "hu": "Kellemes séta a kikötőtől.",
+            "ro": "Traseu pietonal frumos dinspre port.",
+            "en": "Nice walking path from the harbor."
+          }
+        },
+        {
+          "name": "Statue von Vitsentzos Kornaros",
+          "coords": [
+            26.1075,
+            35.2085
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Befindet sich auf dem Weg zurück zum Auto.",
+            "hu": "Útban vissza az autóhoz található.",
+            "ro": "Se află pe drumul de întoarcere spre mașină.",
+            "en": "Located on the way back to the car."
+          }
+        },
+        {
+          "name": "Kazarma-Festung",
+          "coords": [
+            26.104,
+            35.2095
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die Straßen nach oben sind schmal, aber es gibt Parkmöglichkeiten am Rand.",
+            "hu": "Az utak felfelé szűkek, de az út szélén meg lehet állni.",
+            "ro": "Străzile în sus sunt înguste, dar există parcări pe margine.",
+            "en": "The roads up are narrow, but street parking is available."
+          }
+        },
+        {
+          "name": "Archäologisches Museum",
+          "coords": [
+            26.1065,
+            35.2045
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Bequemes Parken direkt am Museumsgelände.",
+            "hu": "Kényelmes parkolás közvetlenül a múzeum területén.",
+            "ro": "Parcare confortabilă chiar pe terenul muzeului.",
+            "en": "Convenient parking right on the museum grounds."
+          }
+        },
+        {
+          "name": "Volkskundemuseum",
+          "coords": [
+            26.105,
+            35.2075
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom archäologischen Museum entfernt.",
+            "hu": "Rövid sétatávolságra a régészeti múzeumtól.",
+            "ro": "La o scurtă plimbare de muzeul arheologic.",
+            "en": "A short walk away from the archaeological museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Autotag ist in drei kleine Bereiche geteilt. Wir parken morgens zentral und spazieren durch den Hafen, die Promenade und zum Kornaros-Denkmal. Danach fahren wir bequem den steilen Hügel hinauf zur Kazarma-Festung für die Aussicht. Am Nachmittag bringt uns das Auto in den südlichen Teil der Stadt, um die spannenden Museen – das archäologische und volkskundliche – ausgiebig zu Fuß zu erkunden.",
+        "hu": "Ez az autós nap három kis szakaszra van osztva. Reggel a központban parkolunk, és besétáljuk a kikötőt, a sétányt és a Kornarosz-emlékművet. Ezután kényelmesen felhajtunk a meredek dombon a Kazarma-erődhöz a panorámáért. Délután az autóval a város déli részébe hajtunk, hogy a régészeti és néprajzi múzeumokat egy rövid séta keretében felfedezzük.",
+        "ro": "Această zi cu mașina este împărțită în trei zone mici. Dimineața parcăm central și ne plimbăm prin port, promenadă și la monumentul Kornaros. Apoi urcăm comod cu mașina pe dealul abrupt până la fortăreața Kazarma pentru panoramă. După-amiaza, mașina ne duce în partea de sud a orașului pentru a explora pe jos muzeele fascinante.",
+        "en": "This car trip is divided into three small clusters. We park centrally in the morning and walk through the harbor, promenade, and to the Kornaros Monument. Then, we drive comfortably up the steep hill to the Kazarma Fortress for the view. In the afternoon, we drive to the southern part of the city to explore the fascinating museums on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kakavia",
+            "tip": "Traditionelle kretische Fischsuppe, perfekt nach den Museumsbesuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kakavia",
+            "tip": "Hagyományos krétai halászlé, tökéletes a múzeumi látogatások után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kakavia",
+            "tip": "Supă tradițională cretană de pește, perfectă după vizitarea muzeelor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kakavia",
+            "tip": "Traditional Cretan fish soup, perfect after the museum visits."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt bei der Burg",
+            "tip": "Mit dem Auto leicht erreichbarer Panoramapunkt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a várnál",
+            "tip": "Autóval könnyen megközelíthető panorámapont.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la castel",
+            "tip": "Punct panoramic ușor accesibil cu mașina.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint near the Castle",
+            "tip": "Easily accessible panoramic spot by car.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weine",
+            "tip": "Einige Flaschen des lokalen Sitia-Weins für den Kofferraum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Néhány üveg helyi Sitia bor a csomagtartóba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Câteva sticle din vinul local Sitia pentru portbagaj."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wines",
+            "tip": "A few bottles of local Sitia wine for the trunk."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Sitia gibt es viele Einbahnstraßen im Zentrum, folgen Sie dem Navi.",
+          "Parken am Hafen ist meist kostenpflichtig.",
+          "Die Straßen zur Festung sind mit großen SUVs schwerer zu befahren."
+        ],
+        "hu": [
+          "Sitiában sok az egyirányú utca a központban, használjon GPS-t.",
+          "A kikötőben a parkolás többnyire fizetős.",
+          "A várhoz vezető utak nagyobb terepjárókkal nehezen járhatók."
+        ],
+        "ro": [
+          "Există multe străzi cu sens unic în centru, folosiți navigația.",
+          "Parcarea în port este de obicei cu plată.",
+          "Străzile spre fortăreață sunt mai dificil de parcurs cu SUV-uri mari."
+        ],
+        "en": [
+          "There are many one-way streets in the center, follow your GPS.",
+          "Parking at the harbor is usually paid.",
+          "The roads to the fortress are harder to navigate with large SUVs."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Venezianischer Hafen",
+          "coords": [
+            26.1085,
+            35.2091
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Busbahnhof liegt in Gehweite zum Hafen.",
+            "hu": "A központi buszpályaudvar sétatávolságra van a kikötőtől.",
+            "ro": "Stația centrală de autobuz este la o scurtă plimbare de port.",
+            "en": "Central bus station is within walking distance of the harbor."
+          }
+        },
+        {
+          "name": "Uferpromenade von Sitia",
+          "coords": [
+            26.109,
+            35.2065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Promenade lädt zum Flanieren am Morgen ein.",
+            "hu": "A sétány reggeli korzózásra csábít.",
+            "ro": "Promenada invită la o plimbare matinală.",
+            "en": "The promenade invites you for a morning stroll."
+          }
+        },
+        {
+          "name": "Statue von Vitsentzos Kornaros",
+          "coords": [
+            26.1075,
+            35.2085
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schönes Fotomotiv auf dem Weg in die Stadt.",
+            "hu": "Remek fotótéma a belváros felé haladva.",
+            "ro": "Un motiv foto frumos în drum spre oraș.",
+            "en": "A beautiful photo motif on the way to the city."
+          }
+        },
+        {
+          "name": "Archäologisches Museum",
+          "coords": [
+            26.1065,
+            35.2045
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der lokale Bus hält in der Nähe, um den Weg abzukürzen.",
+            "hu": "A helyi járat a közelben áll meg, lerövidítve az utat.",
+            "ro": "Autobuzul local oprește în apropiere pentru a scurta drumul.",
+            "en": "The local bus stops nearby to shorten the walk."
+          }
+        },
+        {
+          "name": "Volkskundemuseum",
+          "coords": [
+            26.105,
+            35.2075
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt zu Fuß im Anschluss ans andere Museum erreichbar.",
+            "hu": "Közvetlenül gyalog elérhető a másik múzeum után.",
+            "ro": "Accesibil direct pe jos după celălalt muzeu.",
+            "en": "Directly accessible on foot after the other museum."
+          }
+        },
+        {
+          "name": "Kazarma-Festung",
+          "coords": [
+            26.104,
+            35.2095
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein Taxi oder Bus spart Kraft beim steilen Anstieg zur Burg.",
+            "hu": "Taxi vagy busz megkímél a meredek hegymászástól a várhoz.",
+            "ro": "Un taxi sau autobuz vă scutește de efort la urcarea abruptă spre castel.",
+            "en": "A taxi or bus saves energy on the steep climb to the castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sitia ist klein, aber die Höhenunterschiede machen öffentliche Verkehrsmittel praktisch. Wir beginnen den Tag am flachen Hafenbereich und der Promenade, die wir erlaufen. Um uns Wege zu sparen, nutzen wir mittags den Bus, um in den Bezirk des Archäologischen Museums zu gelangen. Das nahegelegene Volkskundemuseum nehmen wir gleich fußläufig mit. Nachmittags lassen wir uns zur Kazarma-Festung fahren, um den anstrengenden Aufstieg zu umgehen und genießen den Panoramablick.",
+        "hu": "Sitia kisváros, de a szintkülönbségek miatt praktikus a helyi közlekedés. A napot a sík kikötőben és a sétányon kezdjük, amit gyalog járunk be. Hogy utat spóroljunk, délben buszra szállunk a Régészeti Múzeum negyede felé. A közeli Néprajzi Múzeumot szintén gyalog nézzük meg. Délután felvitetjük magunkat a Kazarma-erődhöz, így elkerüljük a fárasztó hegymenetet, és egyből élvezhetjük a panorámát.",
+        "ro": "Sitia este mică, dar diferențele de altitudine fac transportul public practic. Începem ziua în zona plană a portului și a promenadei. La prânz, luăm autobuzul spre districtul Muzeului Arheologic. Vizităm și Muzeul de Etnografie din apropiere pe jos. După-amiaza, ne lăsăm conduși spre fortăreața Kazarma, evitând urcarea obositoare, și ne bucurăm de vederea panoramică.",
+        "en": "Sitia is small, but the elevation changes make public transport handy. We start the day exploring the flat harbor and promenade area on foot. At midday, we hop on a bus to reach the Archaeological Museum district, adding the nearby Folklore Museum on foot. In the afternoon, we take transport up to the Kazarma Fortress, skipping the exhausting climb, and enjoy the panoramic view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kretischer Salat",
+            "tip": "In den Tavernen rund um die Bushaltestellen immer frisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krétai saláta",
+            "tip": "A buszmegállók körüli tavernákban mindig friss."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată cretană",
+            "tip": "În tavernele din jurul stațiilor de autobuz, întotdeauna proaspătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cretan Salad",
+            "tip": "Always fresh in the taverns around the bus stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bänke am Hafen",
+            "tip": "Warten Sie gemütlich aufs nächste Verkehrsmittel am Wasser.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Padok a kikötőben",
+            "tip": "Várakozzon kényelmesen a következő járatra a vízparton.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci în port",
+            "tip": "Așteptați confortabil următorul mijloc de transport la apă.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Benches at the Harbor",
+            "tip": "Wait comfortably for the next transport by the water.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl-Seife",
+            "tip": "Kleines, praktisches Souvenir, das überall im Zentrum erhältlich ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolajos szappan",
+            "tip": "Kicsi, praktikus emlék, ami mindenhol kapható a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Săpun cu ulei de măsline",
+            "tip": "Suvenir mic, practic, disponibil peste tot în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil Soap",
+            "tip": "Small, practical souvenir available everywhere in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie vorab die lokalen Busfahrpläne, da diese oft spärlich getaktet sind.",
+          "Ein Taxi zur Festung ist eine günstige Alternative zum Bus.",
+          "Tickets oft in Kiosken oder beim Fahrer kaufbar."
+        ],
+        "hu": [
+          "Előre ellenőrizze a helyi buszmenetrendeket, mivel ritkán járnak.",
+          "A taxi a várhoz olcsó alternatívája lehet a busznak.",
+          "Jegyek gyakran a kioszkokban vagy a sofőrnél vehetők."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor locale în prealabil, acestea circulă rar.",
+          "Un taxi spre fortăreață este o alternativă ieftină la autobuz.",
+          "Biletele pot fi cumpărate de la chioșcuri sau de la șofer."
+        ],
+        "en": [
+          "Check local bus schedules in advance, as they often run infrequently.",
+          "A taxi to the fortress is a cheap alternative to the bus.",
+          "Tickets can often be bought at kiosks or from the driver."
+        ]
+      }
+    }
+  }
+}

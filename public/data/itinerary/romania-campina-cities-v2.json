@@ -1,0 +1,1564 @@
+{
+  "city_id": "romania-campina-cities-v2",
+  "anchor": {
+    "name": "Câmpina",
+    "coords": [
+      25.73,
+      45.13
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 3.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirschenbrunnen",
+            "hu": "Cseresznyés-kút",
+            "ro": "Fântâna cu Cireși",
+            "en": "Cherry Tree Fountain"
+          },
+          "coords": [
+            25.7355,
+            45.129
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein beliebter lokaler Treffpunkt und ein schöner Startpunkt für einen Stadtrundgang.",
+            "hu": "Népszerű helyi találkozóhely, és egy szép kiindulópont a városi sétához.",
+            "ro": "Un punct de întâlnire local popular și un loc frumos pentru a începe turul orașului.",
+            "en": "A popular local meeting spot and a lovely starting point for a city tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitskirche",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica „Sfânta Treime”",
+            "en": "Holy Trinity Church"
+          },
+          "coords": [
+            25.737,
+            45.1298
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Ikonostase und die ruhige Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző ikonosztázt és a belső csendes légkört.",
+            "ro": "Observați iconostasul impresionant și atmosfera liniștită din interior.",
+            "en": "Pay attention to the impressive iconostasis and the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolae-Grigorescu-Gedenkhaus",
+            "hu": "Nicolae Grigorescu Emlékház",
+            "ro": "Casa Memorială Nicolae Grigorescu",
+            "en": "Nicolae Grigorescu Memorial House"
+          },
+          "coords": [
+            25.741,
+            45.1315
+          ],
+          "category": "museums",
+          "arrive_at": "10:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Atelier des Malers, das genau so erhalten ist, wie er es verlassen hat.",
+            "hu": "Fedezze fel a festő műtermét, amelyet pontosan úgy őriztek meg, ahogy elhagyta.",
+            "ro": "Descoperiți atelierul pictorului, păstrat exact așa cum l-a lăsat.",
+            "en": "Discover the painter's studio, preserved exactly as he left it."
+          }
+        },
+        {
+          "name": {
+            "de": "B.P.-Hasdeu-Gedenkmuseum",
+            "hu": "B.P. Hasdeu Emlékmúzeum",
+            "ro": "Muzeul Memorial B.P. Hasdeu",
+            "en": "B.P. Hasdeu Memorial Museum"
+          },
+          "coords": [
+            25.743,
+            45.134
+          ],
+          "category": "museums",
+          "arrive_at": "12:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im selben Gebäude wie das Schloss, der Eintritt ist oft kombiniert.",
+            "hu": "A múzeum ugyanabban az épületben található, mint a kastély, a belépés gyakran kombinált.",
+            "ro": "Muzeul este în aceeași clădire cu castelul, biletul de intrare este adesea combinat.",
+            "en": "The museum is in the same building as the castle; entry is often combined."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Iulia Hasdeu",
+            "hu": "Iulia Hasdeu-kastély",
+            "ro": "Castelul Iulia Hasdeu",
+            "en": "Iulia Hasdeu Castle"
+          },
+          "coords": [
+            25.7432,
+            45.1342
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den esoterischen Symbolen und der tragischen Geschichte hinter dem Bau fesseln.",
+            "hu": "Hagyja, hogy magával ragadják az ezoterikus szimbólumok és az építés mögötti tragikus történet.",
+            "ro": "Lăsați-vă captivat de simbolurile ezoterice și de povestea tragică din spatele construcției.",
+            "en": "Be captivated by the esoteric symbols and the tragic story behind its construction."
+          }
+        },
+        {
+          "name": {
+            "de": "Soceram-Park",
+            "hu": "Soceram Park",
+            "ro": "Parcul Soceram",
+            "en": "Soceram Park"
+          },
+          "coords": [
+            25.73,
+            45.135
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Pause am Nachmittag, bei den Einheimischen sehr beliebt.",
+            "hu": "Ideális hely egy délutáni pihenőre, nagyon népszerű a helyiek körében.",
+            "ro": "Un loc ideal pentru o pauză de după-amiază, foarte popular printre localnici.",
+            "en": "An ideal spot for an afternoon break, very popular with the locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzkirche St. Nikolaus",
+            "hu": "Szent Miklós-fatemplom",
+            "ro": "Biserica de lemn „Sfântul Nicolae”",
+            "en": "St. Nicholas Wooden Church"
+          },
+          "coords": [
+            25.725,
+            45.132
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine kleine, versteckte Perle. Prüfen Sie die Öffnungszeiten, da sie begrenzt sein können.",
+            "hu": "Egy kicsi, rejtett gyöngyszem. Ellenőrizze a nyitvatartási időt, mert korlátozott lehet.",
+            "ro": "O mică bijuterie ascunsă. Verificați programul de vizitare, deoarece poate fi limitat.",
+            "en": "A small, hidden gem. Check the opening hours as they can be limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Muscel-Hügel",
+            "hu": "Muscel-domb",
+            "ro": "Dealul Muscel",
+            "en": "Muscel Hill"
+          },
+          "coords": [
+            25.72,
+            45.128
+          ],
+          "category": "natural features",
+          "arrive_at": "17:27",
+          "stay_min": 27,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der beste Ort in der Stadt für einen Panoramablick bei Sonnenuntergang.",
+            "hu": "A város legjobb helye a naplementés panorámához.",
+            "ro": "Cel mai bun loc din oraș pentru o priveliște panoramică la apus.",
+            "en": "The best spot in the city for a panoramic view at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Câmpina, wo Denkmäler und Kirchen die lokale Geschichte erzählen. Schlendern Sie durch die Straßen, die einst den berühmten Maler Grigorescu inspirierten. Am Nachmittag tauchen Sie in die mystische Welt des Hasdeu-Schlosses ein, einem Ort voller Geheimnisse. Beenden Sie Ihren Tag mit einem entspannenden Spaziergang im Park und genießen Sie den Panoramablick vom Muscel-Hügel, der die Schönheit der Stadt offenbart.",
+        "hu": "Kezdje a napot Câmpina szívében, ahol emlékművek és templomok mesélnek a helyi történelemről. Sétáljon az utcákon, amelyek egykor a híres festőt, Grigorescut inspirálták. Délután merüljön el a Hasdeu-kastély misztikus világában, egy titkokkal teli helyen. Zárja a napot egy pihentető sétával a parkban, és élvezze a panorámát a Muscel-dombról, amely felfedi a város szépségét.",
+        "ro": "Începeți ziua în inima Câmpinei, unde monumentele și bisericile spun povestea locală. Plimbați-vă pe străzile care l-au inspirat odată pe celebrul pictor Grigorescu. După-amiaza, scufundați-vă în lumea mistică a Castelului Hasdeu, un loc plin de secrete. Încheiați ziua cu o plimbare relaxantă în parc și bucurați-vă de panorama de pe Dealul Muscel, care dezvăluie frumusețea orașului.",
+        "en": "Start your day in the heart of Câmpina, where monuments and churches tell the local story. Stroll through the streets that once inspired the famous painter Grigorescu. In the afternoon, delve into the mystical world of Hasdeu Castle, a place full of secrets. End your day with a relaxing walk in the park and enjoy the panoramic view from Muscel Hill, revealing the city's beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sarmale cu mămăliguță",
+            "tip": "Klassische rumänische Kohlrouladen, serviert mit Polenta. Ein Muss!"
+          },
+          {
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen, ein beliebtes Street-Food und Restaurant-Gericht."
+          },
+          {
+            "name": "Restaurant Oscar",
+            "tip": "Bekannt für seine traditionelle rumänische Küche und gemütliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sarmale cu mămăliguță",
+            "tip": "Klasszikus román töltött káposzta puliszkával tálalva. Ezt muszáj megkóstolni!"
+          },
+          {
+            "name": "Mici",
+            "tip": "Grillezett fasírtrolád, népszerű utcai étel és éttermi fogás."
+          },
+          {
+            "name": "Restaurant Oscar",
+            "tip": "Hagyományos román konyhájáról és hangulatos légköréről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sarmale cu mămăliguță",
+            "tip": "Un preparat clasic românesc. O necesitate absolută!"
+          },
+          {
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar, un street-food popular și un fel de mâncare de restaurant."
+          },
+          {
+            "name": "Restaurant Oscar",
+            "tip": "Cunoscut pentru bucătăria sa tradițională românească și atmosfera primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sarmale cu mămăliguță",
+            "tip": "Classic Romanian cabbage rolls served with polenta. An absolute must-try!"
+          },
+          {
+            "name": "Mici",
+            "tip": "Grilled minced meat rolls, a popular street food and restaurant dish."
+          },
+          {
+            "name": "Oscar Restaurant",
+            "tip": "Known for its traditional Romanian cuisine and cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Muscel-Hügel",
+            "tip": "Der perfekte Ort, um dem Trubel der Stadt zu entfliehen und die Aussicht zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Soceram-Park",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das Leben der Einheimischen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Garten des Grigorescu-Hauses",
+            "tip": "Ein friedlicher, kleiner Garten, der zum Museum gehört.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Muscel-domb",
+            "tip": "Tökéletes hely a város nyüzsgéséből való elmeneküléshez és a kilátás élvezetéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Soceram Park",
+            "tip": "Keressen egy csendes padot, és figyelje a helyiek életét.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grigorescu-ház kertje",
+            "tip": "Egy békés kis kert a múzeumhoz tartozóan.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Muscel",
+            "tip": "Locul perfect pentru a evada din agitația orașului și a te bucura de priveliște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Soceram",
+            "tip": "Găsiți o bancă liniștită și priviți viața localnicilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina Casei Grigorescu",
+            "tip": "O grădină mică și pașnică, parte a muzeului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Muscel Hill",
+            "tip": "The perfect place to escape the city bustle and enjoy the view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Soceram Park",
+            "tip": "Find a quiet bench and watch the local life go by.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grigorescu House Garden",
+            "tip": "A peaceful little garden attached to the museum.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokalen Käse (telemea)."
+          },
+          {
+            "name": "Museumsläden",
+            "tip": "Bücher und Reproduktionen im Zusammenhang mit Hasdeu und Grigorescu."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi sajtot (telemea)."
+          },
+          {
+            "name": "Múzeumi boltok",
+            "tip": "Hasdeuval és Grigorescuval kapcsolatos könyvek és reprodukciók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și brânză locală (telemea)."
+          },
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Cărți și reproduceri legate de Hasdeu și Grigorescu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and local cheese (telemea)."
+          },
+          {
+            "name": "Museum Shops",
+            "tip": "Books and reproductions related to Hasdeu and Grigorescu."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in einigen Bereichen uneben sein kann.",
+          "Nehmen Sie eine Wasserflasche mit; Sie können sie an öffentlichen Brunnen auffüllen.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander, sodass ein ganzer Tag zu Fuß gut machbar ist.",
+          "Planen Sie Ihr Mittagessen in der Nähe des Schlossbereichs ein, da es dort mehrere gute Möglichkeiten gibt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő egyes területeken egyenetlen lehet.",
+          "Hozzon magával egy vizes palackot; a nyilvános kutaknál újratöltheti.",
+          "A legtöbb látnivaló közel van egymáshoz, így egy egész napos séta teljesen kivitelezhető.",
+          "Tervezze az ebédet a kastély környékére, mivel ott több jó lehetőség is van."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat în unele zone.",
+          "Luați o sticlă de apă; o puteți reumple de la fântânile publice.",
+          "Majoritatea atracțiilor sunt apropiate, făcând o zi întreagă de mers pe jos foarte fezabilă.",
+          "Planificați prânzul în jurul zonei castelului, deoarece există mai multe opțiuni bune acolo."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven in some areas.",
+          "Bring a water bottle; you can refill it at public fountains.",
+          "Most attractions are close to each other, making a full day of walking very feasible.",
+          "Plan your lunch around the castle area as there are several good options there."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 5.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirschenbrunnen",
+            "hu": "Cseresznyés-kút",
+            "ro": "Fântâna cu Cireși",
+            "en": "Cherry Tree Fountain"
+          },
+          "coords": [
+            25.7355,
+            45.129
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein idealer, zentraler Ort, um Ihr Fahrrad für den Tag vorzubereiten.",
+            "hu": "Ideális, központi hely a kerékpár felkészítésére a napra.",
+            "ro": "Un loc central ideal pentru a vă pregăti bicicleta pentru ziua respectivă.",
+            "en": "An ideal, central spot to get your bike ready for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitskirche",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica „Sfânta Treime”",
+            "en": "Holy Trinity Church"
+          },
+          "coords": [
+            25.737,
+            45.1298
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und genießen Sie die Stille im Inneren.",
+            "hu": "Zárja le a kerékpárt a közelben, és élvezze a belső csendet.",
+            "ro": "Legați-vă bicicleta în apropiere și bucurați-vă de liniștea din interior.",
+            "en": "Lock your bike nearby and enjoy the silence inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolae-Grigorescu-Gedenkhaus",
+            "hu": "Nicolae Grigorescu Emlékház",
+            "ro": "Casa Memorială Nicolae Grigorescu",
+            "en": "Nicolae Grigorescu Memorial House"
+          },
+          "coords": [
+            25.741,
+            45.1315
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Museum hat oft einen Fahrradständer im Hof.",
+            "hu": "A múzeum udvarán gyakran van kerékpártároló.",
+            "ro": "Muzeul are adesea un suport pentru biciclete în curte.",
+            "en": "The museum often has a bike rack in its courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Iulia Hasdeu",
+            "hu": "Iulia Hasdeu-kastély",
+            "ro": "Castelul Iulia Hasdeu",
+            "en": "Iulia Hasdeu Castle"
+          },
+          "coords": [
+            25.7432,
+            45.1342
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der kurze Anstieg zum Schloss ist die Mühe wert.",
+            "hu": "A kastélyhoz vezető rövid emelkedő megéri a fáradságot.",
+            "ro": "Scurta urcare până la castel merită efortul.",
+            "en": "The short climb up to the castle is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "B.P.-Hasdeu-Gedenkmuseum",
+            "hu": "B.P. Hasdeu Emlékmúzeum",
+            "ro": "Muzeul Memorial B.P. Hasdeu",
+            "en": "B.P. Hasdeu Memorial Museum"
+          },
+          "coords": [
+            25.743,
+            45.134
+          ],
+          "category": "museums",
+          "arrive_at": "13:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nach dem Schlossbesuch eine perfekte Ergänzung. Das Fahrrad kann am selben Ort bleiben.",
+            "hu": "A kastélylátogatás után tökéletes kiegészítés. A kerékpár ugyanott maradhat.",
+            "ro": "O completare perfectă după vizita la castel. Bicicleta poate rămâne în același loc.",
+            "en": "A perfect addition after the castle visit. The bike can stay in the same spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Soceram-Park",
+            "hu": "Soceram Park",
+            "ro": "Parcul Soceram",
+            "en": "Soceram Park"
+          },
+          "coords": [
+            25.73,
+            45.135
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Fahren Sie eine gemütliche Runde durch den Park, bevor Sie eine Pause einlegen.",
+            "hu": "Tegyen egy kényelmes kört a parkban, mielőtt szünetet tart.",
+            "ro": "Faceți o tură lejeră cu bicicleta prin parc înainte de a lua o pauză.",
+            "en": "Take a leisurely ride around the park before taking a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Muscel-Hügel",
+            "hu": "Muscel-domb",
+            "ro": "Dealul Muscel",
+            "en": "Muscel Hill"
+          },
+          "coords": [
+            25.72,
+            45.128
+          ],
+          "category": "natural features",
+          "arrive_at": "16:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Anstieg ist eine Herausforderung, aber die Aussicht belohnt Sie reichlich.",
+            "hu": "Az emelkedő kihívást jelent, de a kilátás bőségesen kárpótolja.",
+            "ro": "Urcușul este o provocare, dar priveliștea vă va recompensa din plin.",
+            "en": "The climb is challenging, but the view will reward you generously."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzkirche St. Nikolaus",
+            "hu": "Szent Miklós-fatemplom",
+            "ro": "Biserica de lemn „Sfântul Nicolae”",
+            "en": "St. Nicholas Wooden Church"
+          },
+          "coords": [
+            25.725,
+            45.132
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:37",
+          "stay_min": 16,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Abfahrt vom Hügel zu dieser charmanten Kirche.",
+            "hu": "Élvezze a csendes leereszkedést a dombról ehhez a bájos templomhoz.",
+            "ro": "Bucurați-vă de coborârea liniștită de pe deal spre această biserică fermecătoare.",
+            "en": "Enjoy the quiet descent from the hill to this charming church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Câmpina auf zwei Rädern. Beginnen Sie im Stadtzentrum und radeln Sie zu den kulturellen Höhepunkten, vom Grigorescu-Haus bis zum mystischen Hasdeu-Schloss. Die Fahrradtour ermöglicht es Ihnen, mühelos zwischen den Sehenswürdigkeiten zu wechseln. Am Nachmittag nehmen Sie die Herausforderung des Muscel-Hügels an, um eine spektakuläre Aussicht zu genießen, bevor Sie den Tag in der Ruhe des Soceram-Parks ausklingen lassen.",
+        "hu": "Fedezze fel Câmpinát két keréken. Kezdje a városközpontban, és tekerjen el a kulturális fénypontokhoz, a Grigorescu-háztól a misztikus Hasdeu-kastélyig. A kerékpártúra lehetővé teszi, hogy könnyedén váltson a látnivalók között. Délután vállalja a Muscel-domb kihívását egy látványos kilátásért, mielőtt a napot a Soceram Park csendjében zárná.",
+        "ro": "Explorați Câmpina pe două roți. Începeți din centrul orașului și pedalați către punctele de atracție culturală, de la Casa Grigorescu la misticul Castel Hasdeu. Turul cu bicicleta vă permite să treceți fără efort de la un obiectiv la altul. După-amiaza, acceptați provocarea Dealului Muscel pentru o priveliște spectaculoasă, înainte de a încheia ziua în liniștea Parcului Soceram.",
+        "en": "Explore Câmpina on two wheels. Start in the city center and pedal to the cultural highlights, from the Grigorescu House to the mystical Hasdeu Castle. The bike tour allows you to move effortlessly between sights. In the afternoon, take on the challenge of Muscel Hill for a spectacular view before ending the day in the tranquility of Soceram Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Eine traditionelle Kuttelsuppe, die als Delikatesse gilt. Sehr sättigend!"
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein köstliches Dessert: frittierte Quarkbällchen mit saurer Sahne und Marmelade."
+          },
+          {
+            "name": "Club de la Prahova",
+            "tip": "Bietet eine Mischung aus lokalen und internationalen Gerichten in einem modernen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Hagyományos pacalleves, amelyet csemegének tartanak. Nagyon laktató!"
+          },
+          {
+            "name": "Papanași",
+            "tip": "Finom desszert: sült túrógombóc tejföllel és lekvárral."
+          },
+          {
+            "name": "Club de la Prahova",
+            "tip": "Helyi és nemzetközi ételek keverékét kínálja modern környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "O supă tradițională considerată o delicatesă. Foarte sățioasă!"
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert delicios: gogoși de brânză prăjite cu smântână și gem."
+          },
+          {
+            "name": "Club de la Prahova",
+            "tip": "Oferă un amestec de preparate locale și internaționale într-o ambianță modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "A traditional tripe soup considered a delicacy. Very filling!"
+          },
+          {
+            "name": "Papanași",
+            "tip": "A delicious dessert: fried cheese doughnuts with sour cream and jam."
+          },
+          {
+            "name": "Club de la Prahova",
+            "tip": "Offers a mix of local and international dishes in a modern setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Prahova",
+            "tip": "Ein ruhiger Radweg führt entlang des Flusses, ideal für eine entspannte Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muscel-Hügel am Morgen",
+            "tip": "Weniger überlaufen als am Abend, bietet eine friedliche Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Friedhof neben der Holzkirche",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prahova folyó partja",
+            "tip": "Egy csendes kerékpárút vezet a folyó mentén, ideális egy pihentető tekeréshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muscel-domb reggel",
+            "tip": "Kevésbé zsúfolt, mint este, békés kilátást nyújt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A fatemplom melletti temető",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Prahova",
+            "tip": "O pistă de biciclete liniștită se întinde de-a lungul râului, ideală pentru o plimbare relaxantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Muscel dimineața",
+            "tip": "Mai puțin aglomerat decât seara, oferă o priveliște pașnică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul de lângă biserica de lemn",
+            "tip": "Un loc de liniște și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Prahova River",
+            "tip": "A quiet bike path runs along the river, ideal for a relaxing ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muscel Hill in the morning",
+            "tip": "Less crowded than in the evening, offering a peaceful view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cemetery next to the wooden church",
+            "tip": "A place of silence and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für eventuelle schnelle Reparaturen oder Zubehör."
+          },
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Halten Sie Ausschau nach kleinen Läden, die Holzschnitzereien und Töpferwaren verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Esetleges gyors javításokhoz vagy kiegészítőkhöz."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keresse a fafaragásokat és kerámiákat árusító kis boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru orice reparații rapide sau accesorii necesare."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Fiți atenți la micile magazine care vând sculpturi în lemn și ceramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "For any quick repairs or accessories needed."
+          },
+          {
+            "name": "Local Crafts",
+            "tip": "Look out for small shops selling wood carvings and pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Einige Straßen haben möglicherweise keinen eigenen Radweg, fahren Sie also vorsichtig.",
+          "Ein Schloss ist unerlässlich, um Ihr Fahrrad sicher abzustellen, während Sie Museen und Kirchen besuchen.",
+          "Die Hügel können anspruchsvoll sein, schalten Sie rechtzeitig in einen niedrigeren Gang."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Néhány úton lehet, hogy nincs külön kerékpárút, ezért óvatosan közlekedjen.",
+          "A lakat elengedhetetlen a kerékpár biztonságos lezárásához, amíg a múzeumokat és templomokat látogatja.",
+          "A dombok kihívást jelenthetnek, időben váltson alacsonyabb sebességfokozatba."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a porni.",
+          "Unele străzi s-ar putea să nu aibă o bandă dedicată pentru biciclete, așa că pedalați cu prudență.",
+          "Un antifurt este esențial pentru a vă lăsa bicicleta în siguranță în timp ce vizitați muzeele și bisericile.",
+          "Dealurile pot fi solicitante, schimbați într-o viteză inferioară din timp."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Some streets may not have a dedicated bike lane, so ride with caution.",
+          "A lock is essential to leave your bike securely while you visit museums and churches.",
+          "The hills can be challenging; shift to a lower gear in time."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Központi parkoló",
+            "ro": "Parcare Centrală",
+            "en": "Central Parking"
+          },
+          "coords": [
+            25.736,
+            45.1285
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster von Sehenswürdigkeiten zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel az első látnivalócsoportot.",
+            "ro": "Parcați aici pentru a explora primul grup de atracții pe jos.",
+            "en": "Park here to explore the first cluster of attractions on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirschenbrunnen",
+            "hu": "Cseresznyés-kút",
+            "ro": "Fântâna cu Cireși",
+            "en": "Cherry Tree Fountain"
+          },
+          "coords": [
+            25.7355,
+            45.129
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:14",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitskirche",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica „Sfânta Treime”",
+            "en": "Holy Trinity Church"
+          },
+          "coords": [
+            25.737,
+            45.1298
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese Kirche liegt im selben Fußgängerbereich wie der Brunnen.",
+            "hu": "Ez a templom ugyanabban a sétálóövezetben található, mint a kút.",
+            "ro": "Această biserică se află în aceeași zonă pietonală ca și fântâna.",
+            "en": "This church is in the same pedestrian cluster as the fountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolae-Grigorescu-Gedenkhaus",
+            "hu": "Nicolae Grigorescu Emlékház",
+            "ro": "Casa Memorială Nicolae Grigorescu",
+            "en": "Nicolae Grigorescu Memorial House"
+          },
+          "coords": [
+            25.741,
+            45.1315
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der letzte Halt in diesem Cluster, bevor Sie zum Auto zurückkehren.",
+            "hu": "Az utolsó megálló ebben a csoportban, mielőtt visszatérne az autóhoz.",
+            "ro": "Ultima oprire din acest grup înainte de a vă întoarce la mașină.",
+            "en": "The last stop in this cluster before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Iulia Hasdeu",
+            "hu": "Iulia Hasdeu-kastély",
+            "ro": "Castelul Iulia Hasdeu",
+            "en": "Iulia Hasdeu Castle"
+          },
+          "coords": [
+            25.7432,
+            45.1342
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Schloss und parken Sie in der Nähe. Dies ist der Beginn des zweiten Clusters.",
+            "hu": "Vezessen a kastélyhoz és parkoljon a közelben. Ez a második látnivalócsoport kezdete.",
+            "ro": "Conduceți până la castel și parcați în apropiere. Acesta este începutul celui de-al doilea grup de atracții.",
+            "en": "Drive to the castle and park nearby. This is the start of the second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "B.P.-Hasdeu-Gedenkmuseum",
+            "hu": "B.P. Hasdeu Emlékmúzeum",
+            "ro": "Muzeul Memorial B.P. Hasdeu",
+            "en": "B.P. Hasdeu Memorial Museum"
+          },
+          "coords": [
+            25.743,
+            45.134
+          ],
+          "category": "museums",
+          "arrive_at": "13:34",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben dem Schloss, keine Notwendigkeit, das Auto umzuparken.",
+            "hu": "Közvetlenül a kastély mellett, nem kell átparkolni.",
+            "ro": "Chiar lângă castel, nu este nevoie să mutați mașina.",
+            "en": "Right next to the castle, no need to move the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Muscel-Hügel",
+            "hu": "Muscel-domb",
+            "ro": "Dealul Muscel",
+            "en": "Muscel Hill"
+          },
+          "coords": [
+            25.72,
+            45.128
+          ],
+          "category": "natural features",
+          "arrive_at": "15:05",
+          "stay_min": 70,
+          "hop_mode": "car",
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Fuß des Hügels für den besten Zugang zum Aussichtspunkt.",
+            "hu": "Hajtson a domb lábához a kilátó legjobb megközelítéséhez.",
+            "ro": "Conduceți până la poalele dealului pentru cel mai bun acces la punctul de belvedere.",
+            "en": "Drive to the base of the hill for the best access to the viewpoint."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um Câmpina in Clustern zu entdecken. Parken Sie im Zentrum und erkunden Sie den historischen Kern zu Fuß. Am Nachmittag fahren Sie zum geheimnisvollen Hasdeu-Schloss, einem eigenen kleinen Universum. Den Abschluss bildet eine kurze Fahrt zum Muscel-Hügel, von wo aus Sie einen atemberaubenden Blick über die Stadt haben, die Sie gerade erkundet haben.",
+        "hu": "Használja ki az autó rugalmasságát Câmpina látnivalócsoportonkénti felfedezéséhez. Parkoljon a központban, és fedezze fel a történelmi magot gyalog. Délután vezessen el a titokzatos Hasdeu-kastélyhoz, egy saját kis univerzumhoz. A napot egy rövid autózással zárja a Muscel-dombhoz, ahonnan lélegzetelállító kilátás nyílik a városra, amelyet éppen bejárt.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a descoperi Câmpina în grupuri de atracții. Parcați în centru și explorați nucleul istoric pe jos. După-amiaza, conduceți spre misteriosul Castel Hasdeu, un mic univers în sine. Încheiați cu o scurtă călătorie cu mașina până la Dealul Muscel pentru o priveliște uluitoare asupra orașului pe care tocmai l-ați explorat.",
+        "en": "Use the flexibility of the car to discover Câmpina in clusters. Park in the center and explore the historic core on foot. In the afternoon, drive to the mysterious Hasdeu Castle, a small universe of its own. Conclude with a short drive to Muscel Hill for a breathtaking view over the city you've just explored."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tochitură",
+            "tip": "Ein herzhafter Eintopf mit Schweinefleisch, Wurst und Mămăligă, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Ein traditioneller rumänischer Kuchen, oft gefüllt mit süßem oder salzigem Käse."
+          },
+          {
+            "name": "Pizzeria Club-T",
+            "tip": "Wenn Sie eine Pause von der traditionellen Küche brauchen, eine gute Option mit Parkplätzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tochitură",
+            "tip": "Kiadós pörkölt sertéshússal, kolbásszal és puliszkával, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Hagyományos román pite, gyakran édes vagy sós túróval töltve."
+          },
+          {
+            "name": "Pizzeria Club-T",
+            "tip": "Ha szünetet tartana a hagyományos konyhától, jó lehetőség parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tochitură",
+            "tip": "O tocană consistentă cu carne de porc, cârnați și mămăligă, perfectă după o plimbare lungă."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "O plăcintă tradițională românească, adesea umplută cu brânză dulce sau sărată."
+          },
+          {
+            "name": "Pizzeria Club-T",
+            "tip": "Dacă aveți nevoie de o pauză de la bucătăria tradițională, o opțiune bună cu locuri de parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tochitură",
+            "tip": "A hearty stew with pork, sausage, and mămăligă, perfect after a long walk."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "A traditional Romanian pie, often filled with sweet or savory cheese."
+          },
+          {
+            "name": "Pizzeria Club-T",
+            "tip": "If you need a break from traditional food, a good option with parking."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Muscel-Hügel",
+            "tip": "Fahren Sie hinauf, parken Sie und genießen Sie die Stille fernab des Stadtzentrums.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Soceram-Park",
+            "tip": "Ein einfacher Halt mit dem Auto für eine schnelle, ruhige Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Straßen am Stadtrand",
+            "tip": "Machen Sie eine langsame Fahrt durch die Wohngebiete, um das lokale Leben zu sehen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Muscel-domb",
+            "tip": "Hajtson fel, parkoljon le, és élvezze a csendet a városközponttól távol.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Soceram Park",
+            "tip": "Könnyű megálló autóval egy gyors, csendes szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A város széli utcák",
+            "tip": "Tegyen egy lassú kört a lakónegyedekben, hogy lássa a helyi életet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Muscel",
+            "tip": "Conduceți până sus, parcați și bucurați-vă de liniștea departe de centrul orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Soceram",
+            "tip": "O oprire ușoară cu mașina pentru o pauză rapidă și liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Străzile de la periferie",
+            "tip": "Faceți o plimbare lentă cu mașina prin zonele rezidențiale pentru a vedea viața locală.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Muscel Hill",
+            "tip": "Drive up, park, and enjoy the silence away from the city center.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Soceram Park",
+            "tip": "An easy stop by car for a quick, quiet break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The streets on the outskirts",
+            "tip": "Take a slow drive through the residential areas to see local life.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermärkte am Stadtrand",
+            "tip": "Ideal, um lokale Produkte und Weine für zu Hause zu kaufen."
+          },
+          {
+            "name": "Souvenirladen am Schloss Hasdeu",
+            "tip": "Finden Sie einzigartige Andenken, die mit der mystischen Geschichte des Schlosses verbunden sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarketek a város szélén",
+            "tip": "Ideális helyi termékek és borok vásárlására hazavitelre."
+          },
+          {
+            "name": "Ajándékbolt a Hasdeu-kastélynál",
+            "tip": "Találjon egyedi emléktárgyakat, amelyek a kastély misztikus történetéhez kapcsolódnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketuri la periferie",
+            "tip": "Ideal pentru a cumpăra produse locale și vinuri pentru acasă."
+          },
+          {
+            "name": "Magazin de suveniruri la Castelul Hasdeu",
+            "tip": "Găsiți suveniruri unice legate de istoria mistică a castelului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarkets on the outskirts",
+            "tip": "Ideal for buying local products and wines to take home."
+          },
+          {
+            "name": "Souvenir shop at Hasdeu Castle",
+            "tip": "Find unique mementos related to the castle's mystical history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkgebühren im Stadtzentrum.",
+          "Ein GPS ist nützlich, um zwischen den Clustern zu navigieren.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders am späten Nachmittag.",
+          "Die Straßen können eng sein, fahren Sie also vorsichtig."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra a városközpontban.",
+          "A GPS hasznos a látnivalócsoportok közötti navigáláshoz.",
+          "Tervezzen plusz időt a forgalomra, különösen késő délután.",
+          "Az utcák szűkek lehetnek, ezért vezessen óvatosan."
+        ],
+        "ro": [
+          "Fiți atenți la taxele de parcare în centrul orașului.",
+          "Un GPS este util pentru a naviga între grupurile de atracții.",
+          "Planificați timp suplimentar pentru trafic, în special după-amiaza târziu.",
+          "Străzile pot fi înguste, așa că șofați cu prudență."
+        ],
+        "en": [
+          "Be aware of parking fees in the city center.",
+          "A GPS is useful for navigating between the clusters.",
+          "Plan for extra time for traffic, especially in the late afternoon.",
+          "The streets can be narrow, so drive with caution."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszmegálló",
+            "ro": "Stație de autobuz centrală",
+            "en": "Central Bus Stop"
+          },
+          "coords": [
+            25.7365,
+            45.1288
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier. Kaufen Sie eine Tageskarte für maximale Flexibilität.",
+            "hu": "Kezdje itt a napot. Vásároljon napijegyet a maximális rugalmasság érdekében.",
+            "ro": "Începeți ziua aici. Cumpărați un bilet de o zi pentru flexibilitate maximă.",
+            "en": "Start your day here. Buy a day pass for maximum flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirschenbrunnen",
+            "hu": "Cseresznyés-kút",
+            "ro": "Fântâna cu Cireși",
+            "en": "Cherry Tree Fountain"
+          },
+          "coords": [
+            25.7355,
+            45.129
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:14",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Csak egy rövid sétára a buszmegállótól.",
+            "ro": "La doar o scurtă plimbare de stația de autobuz.",
+            "en": "Just a short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolae-Grigorescu-Gedenkhaus",
+            "hu": "Nicolae Grigorescu Emlékház",
+            "ro": "Casa Memorială Nicolae Grigorescu",
+            "en": "Nicolae Grigorescu Memorial House"
+          },
+          "coords": [
+            25.741,
+            45.1315
+          ],
+          "category": "museums",
+          "arrive_at": "09:44",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Künstlerviertel zu Fuß, bevor Sie den Bus zum nächsten Cluster nehmen.",
+            "hu": "Fedezze fel a művésznegyedet gyalog, mielőtt busszal a következő látnivalócsoporthoz menne.",
+            "ro": "Explorați cartierul artiștilor pe jos înainte de a lua autobuzul spre următorul grup de atracții.",
+            "en": "Explore the artists' quarter on foot before taking the bus to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Iulia Hasdeu",
+            "hu": "Iulia Hasdeu-kastély",
+            "ro": "Castelul Iulia Hasdeu",
+            "en": "Iulia Hasdeu Castle"
+          },
+          "coords": [
+            25.7432,
+            45.1342
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:32",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zu der Haltestelle, die dem Schloss am nächsten liegt.",
+            "hu": "Menjen busszal a kastélyhoz legközelebbi megállóig.",
+            "ro": "Luați autobuzul până la stația cea mai apropiată de castel.",
+            "en": "Take the bus to the stop closest to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "B.P.-Hasdeu-Gedenkmuseum",
+            "hu": "B.P. Hasdeu Emlékmúzeum",
+            "ro": "Muzeul Memorial B.P. Hasdeu",
+            "en": "B.P. Hasdeu Memorial Museum"
+          },
+          "coords": [
+            25.743,
+            45.134
+          ],
+          "category": "museums",
+          "arrive_at": "12:54",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gehen Sie nach dem Schlossbesuch einfach die Straße hinunter.",
+            "hu": "A kastélylátogatás után csak sétáljon le az utcán.",
+            "ro": "După vizitarea castelului, mergeți pe jos pe aceeași stradă.",
+            "en": "Simply walk down the street after visiting the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Soceram-Park",
+            "hu": "Soceram Park",
+            "ro": "Parcul Soceram",
+            "en": "Soceram Park"
+          },
+          "coords": [
+            25.73,
+            45.135
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:23",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt bringt Sie in diesen entspannenden Park.",
+            "hu": "Egy rövid buszút elviszi ebbe a pihentető parkba.",
+            "ro": "O scurtă călătorie cu autobuzul vă va duce la acest parc relaxant.",
+            "en": "A short bus ride will take you to this relaxing park."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzkirche St. Nikolaus",
+            "hu": "Szent Miklós-fatemplom",
+            "ro": "Biserica de lemn „Sfântul Nicolae”",
+            "en": "St. Nicholas Wooden Church"
+          },
+          "coords": [
+            25.725,
+            45.132
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:46",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die letzte Station des Tages, ein friedlicher Spaziergang vom Park aus.",
+            "hu": "A nap utolsó állomása, egy békés séta a parkból.",
+            "ro": "Ultima oprire a zilei, o plimbare liniștită de la parc.",
+            "en": "The last stop of the day, a peaceful walk from the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie Câmpina mit den öffentlichen Verkehrsmitteln, eine großartige Möglichkeit, die Stadt wie ein Einheimischer zu sehen. Beginnen Sie im Zentrum und spazieren Sie durch den ersten historischen Cluster. Nehmen Sie dann den Bus zum rätselhaften Hasdeu-Schloss. Eine weitere kurze Fahrt bringt Sie zum Soceram-Park für eine Pause am Nachmittag, bevor Sie Ihren Tag mit einem Besuch der charmanten Holzkirche ausklingen lassen.",
+        "hu": "Tapasztalja meg Câmpinát a tömegközlekedéssel, ami remek módja annak, hogy úgy lássa a várost, mint egy helyi. Kezdje a központban, és sétáljon végig az első történelmi látnivalócsoporton. Ezután buszozzon el a rejtélyes Hasdeu-kastélyhoz. Egy újabb rövid út elviszi a Soceram parkba egy délutáni szünetre, mielőtt a napot a bájos fatemplom meglátogatásával zárná.",
+        "ro": "Experimentați Câmpina folosind transportul public, o modalitate excelentă de a vedea orașul ca un localnic. Începeți în centru și plimbați-vă prin primul grup istoric. Apoi, luați autobuzul spre enigmaticul Castel Hasdeu. O altă călătorie scurtă vă va duce la Parcul Soceram pentru o pauză de după-amiază, înainte de a încheia ziua cu o vizită la fermecătoarea biserică de lemn.",
+        "en": "Experience Câmpina using public transit, a great way to see the city like a local. Start in the center and walk through the first historical cluster. Then, take a bus to the enigmatic Hasdeu Castle. Another short ride brings you to Soceram Park for an afternoon break, before ending your day with a visit to the charming wooden church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi",
+            "tip": "Ein schneller und leckerer Snack, den Sie an vielen Straßenecken finden. Perfekt für unterwegs."
+          },
+          {
+            "name": "Cofetărie",
+            "tip": "Besuchen Sie eine lokale Konditorei für Kuchen und Gebäck wie Amandine oder Savarină."
+          },
+          {
+            "name": "Terasa Bulevard",
+            "tip": "Ein Restaurant mit Terrasse, das leicht mit dem Bus zu erreichen ist und eine gute Auswahl bietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Covrigi",
+            "tip": "Gyors és finom perec, amelyet sok utcasarkon megtalál. Tökéletes útközben."
+          },
+          {
+            "name": "Cofetărie",
+            "tip": "Látogasson el egy helyi cukrászdába süteményekért, mint az Amandine vagy a Savarină."
+          },
+          {
+            "name": "Terasa Bulevard",
+            "tip": "Egy teraszos étterem, amely könnyen megközelíthető busszal és jó választékot kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi",
+            "tip": "O gustare rapidă și delicioasă găsită la multe colțuri de stradă. Perfect pentru călătorii."
+          },
+          {
+            "name": "Cofetărie",
+            "tip": "Vizitați o cofetărie locală pentru prăjituri precum Amandina sau Savarina."
+          },
+          {
+            "name": "Terasa Bulevard",
+            "tip": "Un restaurant cu terasă, ușor accesibil cu autobuzul, ce oferă o selecție bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi",
+            "tip": "A quick and delicious pretzel snack found on many street corners. Perfect for on-the-go."
+          },
+          {
+            "name": "Cofetărie",
+            "tip": "Visit a local pastry shop for cakes and pastries like Amandine or Savarină."
+          },
+          {
+            "name": "Terasa Bulevard",
+            "tip": "A restaurant with a terrace, easily accessible by bus, offering a good selection."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Busfahrt",
+            "tip": "Setzen Sie sich ans Fenster und beobachten Sie die Stadt an sich vorbeiziehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Soceram-Park",
+            "tip": "Leicht mit dem Bus zu erreichen und ein großartiger Ort zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Obere Bänke am Muscel-Hügel",
+            "tip": "Obwohl der Hügel selbst nicht auf dieser Route liegt, kann eine nahegelegene Haltestelle einen Blick darauf bieten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes buszút",
+            "tip": "Üljön az ablakhoz, és nézze, ahogy elsuhan a város.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Soceram Park",
+            "tip": "Könnyen megközelíthető busszal, és remek hely a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Felső padok a Muscel-dombon",
+            "tip": "Bár maga a domb nincs ezen az útvonalon, egy közeli megálló kilátást nyújthat rá.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O călătorie liniștită cu autobuzul",
+            "tip": "Așezați-vă la geam și priviți orașul cum trece pe lângă dumneavoastră.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Soceram",
+            "tip": "Ușor accesibil cu autobuzul și un loc minunat pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Băncile superioare de pe Dealul Muscel",
+            "tip": "Deși dealul în sine nu este pe acest traseu, o stație din apropiere poate oferi o priveliște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet bus ride",
+            "tip": "Sit by the window and watch the city go by.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Soceram Park",
+            "tip": "Easily accessible by bus and a great place to relax.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Upper benches on Muscel Hill",
+            "tip": "Although the hill itself isn't on this route, a nearby stop might offer a glimpse.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Kaufen Sie Fahrkarten, Zeitungen und kleine Snacks."
+          },
+          {
+            "name": "Geschäfte entlang der Hauptstraßen",
+            "tip": "Die Buslinien führen oft durch die Haupteinkaufsstraßen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Vásároljon jegyeket, újságokat és apró harapnivalókat."
+          },
+          {
+            "name": "Boltok a főutak mentén",
+            "tip": "A buszjáratok gyakran a város fő bevásárlóutcáin haladnak keresztül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri din stațiile de autobuz",
+            "tip": "Cumpărați bilete, ziare și mici gustări."
+          },
+          {
+            "name": "Magazine de-a lungul străzilor principale",
+            "tip": "Liniile de autobuz trec adesea prin principalele străzi comerciale ale orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "Buy tickets, newspapers, and small snacks."
+          },
+          {
+            "name": "Shops along the main roads",
+            "tip": "The bus routes often pass through the city's main shopping streets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus.",
+          "Eine Tageskarte ist oft günstiger als Einzeltickets.",
+          "Halten Sie Kleingeld für Tickets bereit, falls Sie an Bord kaufen.",
+          "Seien Sie sich der Stoßzeiten bewusst, wenn die Busse voller sein können."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet.",
+          "A napijegy gyakran olcsóbb, mint az egyedi jegyek.",
+          "Tartson magánál aprópénzt a jegyekhez, ha a fedélzeten vásárol.",
+          "Legyen tisztában a csúcsidővel, amikor a buszok zsúfoltabbak lehetnek."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans.",
+          "Un bilet de o zi este adesea mai ieftin decât biletele individuale.",
+          "Păstrați mărunțiș pentru bilete dacă le cumpărați la bord.",
+          "Fiți conștienți de orele de vârf, când autobuzele pot fi mai aglomerate."
+        ],
+        "en": [
+          "Check the bus schedule in advance.",
+          "A day pass is often cheaper than single tickets.",
+          "Keep small change ready for tickets if buying on board.",
+          "Be aware of peak hours when buses can be more crowded."
+        ]
+      }
+    }
+  }
+}

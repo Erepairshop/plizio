@@ -1,0 +1,1488 @@
+{
+  "city_id": "switzerland-aarau-cities-v2",
+  "anchor": {
+    "name": "Aarau",
+    "coords": [
+      8.044,
+      47.392
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Aarau & Altstadt",
+            "hu": "Aaraui Városháza és Óváros",
+            "ro": "Primăria Aarau și Centrul Vechi",
+            "en": "Aarau Town Hall & Old Town"
+          },
+          "coords": [
+            8.045,
+            47.3925
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die bemalten Dachuntersichten, die „Dachhimmel“.",
+            "hu": "Figyelje a festett ereszaljakat, a „Dachhimmeleket”.",
+            "ro": "Fiți atenți la streșinile pictate, numite „Dachhimmel”.",
+            "en": "Look for the painted undersides of the eaves, the 'Dachhimmel'."
+          }
+        },
+        {
+          "name": {
+            "de": "Obertorturm",
+            "hu": "Obertorturm (Felső kaputorony)",
+            "ro": "Obertorturm (Turnul Porții Superioare)",
+            "en": "Obertorturm (Upper Gate Tower)"
+          },
+          "coords": [
+            8.048,
+            47.391
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:18",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Turm ist das älteste erhaltene Gebäude der Stadt.",
+            "hu": "A torony a város legrégebbi fennmaradt épülete.",
+            "ro": "Turnul este cea mai veche clădire conservată din oraș.",
+            "en": "The tower is the oldest preserved building in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche Aarau",
+            "hu": "Aaraui városi templom",
+            "ro": "Biserica Orașului Aarau",
+            "en": "Aarau City Church"
+          },
+          "coords": [
+            8.046,
+            47.393
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Glasfenster von Felix Hoffmann.",
+            "hu": "Nézze meg Felix Hoffmann ólomüveg ablakait.",
+            "ro": "Admirați vitraliile realizate de Felix Hoffmann.",
+            "en": "Visit the stained glass windows by Felix Hoffmann."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlössli Aarau",
+            "hu": "Schlössli Aarau (kis kastély)",
+            "ro": "Schlössli Aarau (Micul Castel)",
+            "en": "Schlössli Aarau (Little Castle)"
+          },
+          "coords": [
+            8.042,
+            47.3935
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:41",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beherbergt heute das Stadtmuseum.",
+            "hu": "Ma a városi múzeumnak ad otthont.",
+            "ro": "Astăzi găzduiește muzeul orașului.",
+            "en": "Today it houses the city museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Aargauer Kunsthaus",
+            "hu": "Aargaui Művészeti Múzeum",
+            "ro": "Muzeul de Artă Aargau",
+            "en": "Aargau Art Museum"
+          },
+          "coords": [
+            8.051,
+            47.392
+          ],
+          "category": "museums",
+          "arrive_at": "13:17",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fokus auf Schweizer Kunst vom 18. Jahrhundert bis heute.",
+            "hu": "A 18. századtól napjainkig tartó svájci művészetre összpontosít.",
+            "ro": "Se concentrează pe arta elvețiană din secolul al XVIII-lea până în prezent.",
+            "en": "Focuses on Swiss art from the 18th century to the present."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturama Aargau",
+            "hu": "Naturama Aargau",
+            "ro": "Naturama Aargau",
+            "en": "Naturama Aargau"
+          },
+          "coords": [
+            8.055,
+            47.394
+          ],
+          "category": "museums",
+          "arrive_at": "15:07",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Interaktive Ausstellung über die Natur des Kantons.",
+            "hu": "Interaktív kiállítás a kanton természetéről.",
+            "ro": "Expoziție interactivă despre natura cantonului.",
+            "en": "Interactive exhibition about the nature of the canton."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang an der Aare",
+            "hu": "Séta az Aare folyó partján",
+            "ro": "Plimbare pe malul râului Aare",
+            "en": "Walk along the Aare River"
+          },
+          "coords": [
+            8.043,
+            47.397
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:46",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Wasser und beobachten Sie die Schwimmer.",
+            "hu": "Pihenjen a vízparton és nézze a fürdőzőket.",
+            "ro": "Relaxați-vă la malul apei și priviți înotătorii.",
+            "en": "Relax by the water and watch the swimmers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in der malerischen Altstadt von Aarau, bewundern Sie die berühmten bemalten Dachgiebel und erklimmen Sie den historischen Obertorturm für einen ersten Überblick. Am Mittag tauchen Sie im Schlössli und im Kunsthaus in die reiche Kultur und Geschichte der Region ein. Schliessen Sie den Tag mit einem lehrreichen Besuch im Naturama und einem entspannten Spaziergang entlang des kühlen Wassers der Aare ab. Geniessen Sie die kompakte und charmante Atmosphäre der Stadt.",
+        "hu": "Kezdje a napot Aarau festői óvárosában, csodálja meg a híres festett oromzatokat, és másszon fel a történelmi Obertorturmra egy első áttekintésért. Délben merüljön el a régió gazdag kultúrájában és történelmében a Schlössliben és a Művészeti Múzeumban. Zárja a napot egy tanulságos látogatással a Naturamában és egy pihentető sétával az Aare hűs vize mentén. Élvezze a város kompakt és bájos hangulatát.",
+        "ro": "Începeți ziua în pitorescul centru vechi din Aarau, admirați faimoasele frontoane pictate și urcați în istoricul Obertorturm pentru o primă imagine de ansamblu. La prânz, scufundați-vă în cultura și istoria bogată a regiunii la Schlössli și la Muzeul de Artă. Încheiați ziua cu o vizită educativă la Naturama și o plimbare relaxantă de-a lungul apelor răcoroase ale râului Aare. Bucurați-vă de atmosfera compactă și fermecătoare a orașului.",
+        "en": "Start your day in the picturesque Old Town of Aarau, admire the famous painted gables and climb the historic Obertorturm for a first overview. At noon, immerse yourself in the rich culture and history of the region at the Schlössli and the Art Museum. End the day with an educational visit to the Naturama and a relaxing walk along the cool waters of the Aare river. Enjoy the compact and charming atmosphere of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aargauer Rüeblitorte",
+            "tip": "Probieren Sie den berühmten Karottenkuchen, eine lokale Spezialität."
+          },
+          {
+            "name": "Restaurant Mürset",
+            "tip": "Ein traditionelles Restaurant mit gutbürgerlicher Schweizer Küche."
+          },
+          {
+            "name": "Glockenhof",
+            "tip": "Geniessen Sie ein Abendessen in einem historischen Zunfthaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aargaui répatorta",
+            "tip": "Kóstolja meg a híres répatortát, egy helyi különlegességet."
+          },
+          {
+            "name": "Mürset étterem",
+            "tip": "Hagyományos étterem svájci polgári konyhával."
+          },
+          {
+            "name": "Glockenhof",
+            "tip": "Vacsora egy történelmi céh-házban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tort de morcovi Aargauer",
+            "tip": "Încercați faimosul tort de morcovi, o specialitate locală."
+          },
+          {
+            "name": "Restaurant Mürset",
+            "tip": "Un restaurant tradițional cu bucătărie elvețiană clasică."
+          },
+          {
+            "name": "Glockenhof",
+            "tip": "Luați cina într-o casă istorică a breslelor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aargau Carrot Cake",
+            "tip": "Try the famous carrot cake, a local specialty."
+          },
+          {
+            "name": "Restaurant Mürset",
+            "tip": "A traditional restaurant with classic Swiss cuisine."
+          },
+          {
+            "name": "Glockenhof",
+            "tip": "Enjoy dinner in a historic guild house."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aareuferweg",
+            "tip": "Der Weg entlang des Flusses ist perfekt für eine ruhige Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten des Kunsthauses",
+            "tip": "Eine kleine, grüne Oase mitten in der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Entspannen Sie auf einer Bank im Herzen der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aare-parti sétány",
+            "tip": "A folyó menti út tökéletes egy csendes szünethez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Művészeti Múzeum kertje",
+            "tip": "Egy kis zöld oázis a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Városi park",
+            "tip": "Pihenjen meg egy padon a város szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe malul Aare",
+            "tip": "Poteca de-a lungul râului este perfectă pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Muzeului de Artă",
+            "tip": "O mică oază de verdeață în mijlocul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Orașului",
+            "tip": "Relaxați-vă pe o bancă în inima orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aare riverside path",
+            "tip": "The path along the river is perfect for a quiet break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of the Art Museum",
+            "tip": "A small green oasis in the middle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "City Park",
+            "tip": "Relax on a bench in the heart of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt in der Altstadt",
+            "tip": "Jeden Samstagmorgen für frische, lokale Produkte."
+          },
+          {
+            "name": "Laurenzenvorstadt",
+            "tip": "Eine charmante Einkaufsstrasse mit vielen kleinen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac az óvárosban",
+            "tip": "Minden szombat reggel friss, helyi termékekért."
+          },
+          {
+            "name": "Laurenzenvorstadt",
+            "tip": "Bájos bevásárlóutca sok kis butikkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Centrul Vechi",
+            "tip": "În fiecare sâmbătă dimineața pentru produse proaspete, locale."
+          },
+          {
+            "name": "Laurenzenvorstadt",
+            "tip": "O stradă comercială fermecătoare cu multe buticuri mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly market in the Old Town",
+            "tip": "Every Saturday morning for fresh, local produce."
+          },
+          {
+            "name": "Laurenzenvorstadt",
+            "tip": "A charming shopping street with many small boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuss erreichbar.",
+          "Nehmen Sie eine Wasserflasche mit, es gibt mehrere öffentliche Brunnen.",
+          "Planen Sie genügend Zeit für die Museen ein, sie sind überraschend umfangreich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakő egyenetlen lehet.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog.",
+          "Vigyen magával vizes palackot, több nyilvános kút is található.",
+          "Tervezzen elegendő időt a múzeumokra, meglepően nagyok."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul din Centrul Vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Luați o sticlă de apă cu voi, există mai multe fântâni publice.",
+          "Planificați suficient timp pentru muzee, sunt surprinzător de vaste."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the Old Town can be uneven.",
+          "Most sights in the center are easily reachable on foot.",
+          "Bring a water bottle; there are several public fountains.",
+          "Allow enough time for the museums; they are surprisingly extensive."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Bahnhof Aarau",
+            "hu": "Indulás az aaraui pályaudvarról",
+            "ro": "Pornire de la gara Aarau",
+            "en": "Start at Aarau Station"
+          },
+          "coords": [
+            8.056,
+            47.3945
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe, falls Sie keins dabeihaben.",
+            "hu": "Béreljen kerékpárt a közelben, ha nincs sajátja.",
+            "ro": "Închiriați o bicicletă din apropiere dacă nu aveți una.",
+            "en": "Rent a bike nearby if you don't have one with you."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt & Rathaus",
+            "hu": "Óváros és Városháza",
+            "ro": "Centrul Vechi și Primăria",
+            "en": "Old Town & Town Hall"
+          },
+          "coords": [
+            8.045,
+            47.3925
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:31",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad durch die engsten Gassen.",
+            "hu": "Tolja a kerékpárt a legszűkebb sikátorokon.",
+            "ro": "Împingeți bicicleta pe cele mai înguste alei.",
+            "en": "Push your bike through the narrowest alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Aareuferweg & Schlössli",
+            "hu": "Aare-parti út és a kastély",
+            "ro": "Potecă pe malul Aare și Castelul",
+            "en": "Aare riverside path & Castle"
+          },
+          "coords": [
+            8.042,
+            47.394
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "10:24",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Eine schöne Strecke entlang des Flusses mit Blick auf das Schlössli.",
+            "hu": "Szép útvonal a folyó mentén, kilátással a kastélyra.",
+            "ro": "Un traseu frumos de-a lungul râului, cu vedere la castel.",
+            "en": "A beautiful route along the river with a view of the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Aargauer Kunsthaus",
+            "hu": "Aargaui Művészeti Múzeum",
+            "ro": "Muzeul de Artă Aargau",
+            "en": "Aargau Art Museum"
+          },
+          "coords": [
+            8.051,
+            47.392
+          ],
+          "category": "museums",
+          "arrive_at": "11:23",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie die Kunst geniessen.",
+            "hu": "Biztonságosan zárja le a kerékpárt, mielőtt élvezné a művészetet.",
+            "ro": "Parcați bicicleta în siguranță înainte de a vă bucura de artă.",
+            "en": "Securely park your bike before enjoying the art."
+          }
+        },
+        {
+          "name": {
+            "de": "Wildpark Roggenhausen",
+            "hu": "Roggenhauseni Vadaspark",
+            "ro": "Parcul de animale sălbatice Roggenhausen",
+            "en": "Roggenhausen Wildlife Park"
+          },
+          "coords": [
+            8.012,
+            47.385
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:33",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Der Park beherbergt Hirsche, Wildschweine und Luchse.",
+            "hu": "A parkban szarvasok, vaddisznók és hiúzok élnek.",
+            "ro": "Parcul găzduiește căprioare, mistreți și râși.",
+            "en": "The park is home to deer, wild boars, and lynxes."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum via Laurenzenvorstadt",
+            "hu": "Vissza a központba a Laurenzenvorstadton keresztül",
+            "ro": "Întoarcere în centru prin Laurenzenvorstadt",
+            "en": "Return to the center via Laurenzenvorstadt"
+          },
+          "coords": [
+            8.049,
+            47.3915
+          ],
+          "category": "shopping",
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss mit einem Bummel durch die Boutiquen.",
+            "hu": "Szép befejezés egy sétával a butikok között.",
+            "ro": "O încheiere plăcută cu o plimbare printre buticuri.",
+            "en": "A nice end to the day with a stroll through the boutiques."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Velotour am Bahnhof Aarau. Erkunden Sie die Altstadt, bevor Sie am malerischen Aareufer entlang zum Kunsthaus radeln. Dort erwartet Sie eine beeindruckende Sammlung Schweizer Kunst. Am Nachmittag führt Sie ein längerer, aber lohnender Weg zum Wildpark Roggenhausen, wo Sie die heimische Tierwelt beobachten können. Die Tour endet mit einer entspannten Fahrt zurück ins Zentrum, mit einem optionalen Einkaufsbummel in der Laurenzenvorstadt.",
+        "hu": "Kezdje a kerékpártúrát az aaraui pályaudvaron. Fedezze fel az óvárost, mielőtt a festői Aare-part mentén a Művészeti Múzeumhoz teker. Ott a svájci művészet lenyűgöző gyűjteménye várja. Délután egy hosszabb, de megérő út vezet a Roggenhauseni Vadasparkba, ahol megfigyelheti a helyi vadvilágot. A túra egy pihentető visszaúttal zárul a központba, opcionális vásárlással a Laurenzenvorstadtban.",
+        "ro": "Începeți turul cu bicicleta de la gara din Aarau. Explorați Centrul Vechi înainte de a pedala de-a lungul pitorescului mal al râului Aare până la Muzeul de Artă. Acolo vă așteaptă o colecție impresionantă de artă elvețiană. După-amiaza, un drum mai lung, dar plin de satisfacții, duce la Parcul de animale sălbatice Roggenhausen, unde puteți observa fauna locală. Turul se încheie cu o plimbare relaxantă înapoi în centru, cu o sesiune opțională de cumpărături în Laurenzenvorstadt.",
+        "en": "Start your bike tour at Aarau train station. Explore the Old Town before cycling along the picturesque banks of the Aare to the Art Museum. An impressive collection of Swiss art awaits you there. In the afternoon, a longer but rewarding route takes you to the Roggenhausen Wildlife Park, where you can observe the local wildlife. The tour ends with a relaxing ride back to the center, with an optional shopping stroll in Laurenzenvorstadt."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café an der Aare",
+            "tip": "Ein perfekter Ort für eine Kaffeepause während der Radtour."
+          },
+          {
+            "name": "Restaurant im Wildpark Roggenhausen",
+            "tip": "Stärken Sie sich mit einem Mittagessen nach der Tierbeobachtung."
+          },
+          {
+            "name": "Gelateria an der Laurenzenvorstadt",
+            "tip": "Belohnen Sie sich mit einem handwerklichen Eis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézó az Aare partján",
+            "tip": "Tökéletes hely egy kávészünetre a kerékpártúra közben."
+          },
+          {
+            "name": "Étterem a Roggenhauseni Vadasparkban",
+            "tip": "Erősítse meg magát egy ebéddel az állatok megfigyelése után."
+          },
+          {
+            "name": "Fagylaltozó a Laurenzenvorstadtban",
+            "tip": "Jutalmazza meg magát egy kézműves fagyival."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea pe malul Aare",
+            "tip": "Un loc perfect pentru o pauză de cafea în timpul turului cu bicicleta."
+          },
+          {
+            "name": "Restaurant în Parcul de animale sălbatice Roggenhausen",
+            "tip": "Întăriți-vă cu un prânz după observarea animalelor."
+          },
+          {
+            "name": "Gelaterie pe Laurenzenvorstadt",
+            "tip": "Recompensați-vă cu o înghețată artizanală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café on the Aare",
+            "tip": "A perfect spot for a coffee break during your bike tour."
+          },
+          {
+            "name": "Restaurant in Roggenhausen Wildlife Park",
+            "tip": "Refuel with lunch after watching the animals."
+          },
+          {
+            "name": "Gelateria on Laurenzenvorstadt",
+            "tip": "Reward yourself with an artisanal ice cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aare-Inseli",
+            "tip": "Eine kleine Insel im Fluss, ideal für eine ruhige Rast.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waldwege im Roggenhausen",
+            "tip": "Finden Sie Stille abseits der Hauptwege im Wildpark.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Blick von der Kettenbrücke",
+            "tip": "Halten Sie an und geniessen Sie den Ausblick auf den Fluss und die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aare-sziget (Aare-Inseli)",
+            "tip": "Egy kis sziget a folyóban, ideális egy csendes pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erdei ösvények Roggenhausenben",
+            "tip": "Találjon csendet a vadaspark fő útjaitól távol.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kilátás a Lánchídról (Kettenbrücke)",
+            "tip": "Álljon meg és élvezze a kilátást a folyóra és a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insulița Aare (Aare-Inseli)",
+            "tip": "O mică insulă pe râu, ideală pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cărări forestiere în Roggenhausen",
+            "tip": "Găsiți liniște departe de potecile principale din parcul de animale sălbatice.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Vedere de pe Podul cu Lanțuri (Kettenbrücke)",
+            "tip": "Opriți-vă și bucurați-vă de priveliștea asupra râului și orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aare Islet (Aare-Inseli)",
+            "tip": "A small island in the river, ideal for a quiet rest.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Forest trails in Roggenhausen",
+            "tip": "Find silence away from the main paths in the wildlife park.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "View from the Chain Bridge (Kettenbrücke)",
+            "tip": "Stop and enjoy the view of the river and the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Velogeschäft Aarau",
+            "tip": "Für nützliches Zubehör oder eine schnelle Reparatur."
+          },
+          {
+            "name": "Hofladen in der Umgebung",
+            "tip": "Halten Sie Ausschau nach Hofläden für lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aaraui kerékpárbolt",
+            "tip": "Hasznos kiegészítőkért vagy egy gyors javításért."
+          },
+          {
+            "name": "Termelői boltok a környéken",
+            "tip": "Keresse a termelői boltokat a helyi specialitásokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete Aarau",
+            "tip": "Pentru accesorii utile sau o reparație rapidă."
+          },
+          {
+            "name": "Magazine de fermă în zonă",
+            "tip": "Fiți atenți la magazinele de fermă pentru specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aarau Bike Shop",
+            "tip": "For useful accessories or a quick repair."
+          },
+          {
+            "name": "Farm shops in the area",
+            "tip": "Look out for farm shops for local specialities."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck und die Bremsen, bevor Sie starten.",
+          "Die Strecke zum Wildpark hat einige Steigungen.",
+          "Nutzen Sie die gut ausgebauten Radwege entlang der Aare.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "A vadasparkhoz vezető úton vannak emelkedők.",
+          "Használja a jól kiépített kerékpárutakat az Aare mentén.",
+          "Sisak használata erősen ajánlott."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope și frânele înainte de a porni.",
+          "Traseul către parcul de animale sălbatice are câteva urcări.",
+          "Folosiți pistele de biciclete bine dezvoltate de-a lungul râului Aare.",
+          "Se recomandă insistent purtarea căștii."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before you start.",
+          "The route to the wildlife park has some climbs.",
+          "Use the well-developed cycle paths along the Aare.",
+          "A helmet is strongly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 10.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Altstadt & Start",
+            "hu": "Óvárosi parkolóház és indulás",
+            "ro": "Parcare Centrul Vechi și start",
+            "en": "Old Town Car Park & Start"
+          },
+          "coords": [
+            8.05,
+            47.391
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie zentral, um den ersten Cluster zu Fuss zu erkunden.",
+            "hu": "Parkoljon központilag, hogy gyalog fedezze fel az első klasztert.",
+            "ro": "Parcați central pentru a explora primul cluster pe jos.",
+            "en": "Park centrally to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Obertorturm",
+            "hu": "Városháza és Obertorturm",
+            "ro": "Primăria și Obertorturm",
+            "en": "Town Hall & Obertorturm"
+          },
+          "coords": [
+            8.047,
+            47.3918
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:21",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Gassen zwischen den beiden Wahrzeichen.",
+            "hu": "Sétáljon a két nevezetesség közötti sikátorokban.",
+            "ro": "Plimbați-vă pe aleile dintre cele două repere.",
+            "en": "Stroll through the alleys between the two landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche Aarau",
+            "hu": "Aaraui városi templom",
+            "ro": "Biserica Orașului Aarau",
+            "en": "Aarau City Church"
+          },
+          "coords": [
+            8.046,
+            47.393
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:27",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz.",
+            "hu": "Rövid séta a főtérről.",
+            "ro": "O scurtă plimbare din piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kultur-Cluster",
+            "hu": "Utazás a kulturális klaszterhez",
+            "ro": "Călătorie spre clusterul cultural",
+            "en": "Drive to the Culture Cluster"
+          },
+          "coords": [
+            8.051,
+            47.392
+          ],
+          "category": "museums",
+          "arrive_at": "11:17",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz des Kunsthauses.",
+            "hu": "Hajtson a Művészeti Múzeum parkolójába.",
+            "ro": "Conduceți spre parcarea Muzeului de Artă.",
+            "en": "Drive to the Art Museum car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Aargauer Kunsthaus",
+            "hu": "Aargaui Művészeti Múzeum",
+            "ro": "Muzeul de Artă Aargau",
+            "en": "Aargau Art Museum"
+          },
+          "coords": [
+            8.0515,
+            47.3922
+          ],
+          "category": "museums",
+          "arrive_at": "11:22",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die umfassende Sammlung ein.",
+            "hu": "Tervezzen elegendő időt a gazdag gyűjteményre.",
+            "ro": "Planificați suficient timp pentru colecția vastă.",
+            "en": "Plan enough time for the extensive collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Wildpark Roggenhausen",
+            "hu": "Utazás a Roggenhauseni Vadasparkba",
+            "ro": "Călătorie la Parcul de animale sălbatice Roggenhausen",
+            "en": "Drive to Roggenhausen Wildlife Park"
+          },
+          "coords": [
+            8.012,
+            47.385
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:40",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.2,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für den Nachmittag, besonders mit Kindern.",
+            "hu": "Ideális hely a délutánra, különösen gyerekekkel.",
+            "ro": "Un loc ideal pentru după-amiază, mai ales cu copiii.",
+            "en": "An ideal place for the afternoon, especially with children."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt und Spaziergang an der Aare",
+            "hu": "Visszaút és séta az Aare partján",
+            "ro": "Întoarcere și plimbare pe malul Aare",
+            "en": "Return journey and walk along the Aare"
+          },
+          "coords": [
+            8.043,
+            47.397
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Kettenbrücke für einen letzten Spaziergang.",
+            "hu": "Parkoljon a Lánchíd (Kettenbrücke) közelében egy utolsó sétára.",
+            "ro": "Parcați lângă Podul cu Lanțuri (Kettenbrücke) pentru o ultimă plimbare.",
+            "en": "Park near the Chain Bridge (Kettenbrücke) for a final walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto, indem Sie bequem in der Nähe der Aarauer Altstadt parken. Erkunden Sie den ersten historischen Cluster zu Fuss, vom Rathaus über den Obertorturm bis zur Stadtkirche. Am Mittag fahren Sie zum zweiten Cluster, dem Kulturviertel, wo Sie das renommierte Aargauer Kunsthaus besuchen. Den Nachmittag verbringen Sie im Grünen: eine kurze Autofahrt bringt Sie zum weitläufigen Wildpark Roggenhausen. Zum Abschluss kehren Sie für einen entspannenden Spaziergang am Aareufer zurück in die Stadt.",
+        "hu": "Kezdje a napot autóval, kényelmesen parkolva Aarau óvárosának közelében. Fedezze fel gyalog az első történelmi klasztert a Városházától az Obertorturmon át a városi templomig. Délben vezessen a második klaszterhez, a kulturális negyedhez, ahol meglátogathatja a neves Aargaui Művészeti Múzeumot. A délutánt a természetben tölti: egy rövid autóút a tágas Roggenhauseni Vadasparkba visz. Végül térjen vissza a városba egy pihentető sétára az Aare partján.",
+        "ro": "Începeți ziua cu mașina, parcând convenabil lângă Centrul Vechi din Aarau. Explorați primul cluster istoric pe jos, de la Primărie la Obertorturm și la Biserica Orașului. La prânz, conduceți către al doilea cluster, cartierul cultural, unde puteți vizita renumitul Muzeu de Artă Aargau. Petreceți după-amiaza în natură: o scurtă călătorie cu mașina vă duce la vastul Parc de animale sălbatice Roggenhausen. La final, reveniți în oraș pentru o plimbare relaxantă pe malul râului Aare.",
+        "en": "Start your day by car, parking conveniently near Aarau's Old Town. Explore the first historical cluster on foot, from the Town Hall to the Obertorturm and the City Church. At noon, drive to the second cluster, the cultural quarter, where you can visit the renowned Aargau Art Museum. Spend the afternoon in nature: a short drive takes you to the spacious Roggenhausen Wildlife Park. To finish, return to the city for a relaxing walk along the banks of the Aare."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Landgasthof ausserhalb der Stadt",
+            "tip": "Verbinden Sie die Fahrt zum Wildpark mit einem Mittagessen in einem traditionellen Landgasthof."
+          },
+          {
+            "name": "Bäckerei-Café in der Altstadt",
+            "tip": "Perfekt für einen Kaffee und eine Rüeblitorte vor dem Start."
+          },
+          {
+            "name": "Restaurant mit Aareblick",
+            "tip": "Geniessen Sie das Abendessen mit Blick auf den Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki fogadó a városon kívül",
+            "tip": "Kösse össze a vadasparki kirándulást egy ebéddel egy hagyományos vidéki fogadóban."
+          },
+          {
+            "name": "Pékség-kávézó az óvárosban",
+            "tip": "Tökéletes egy kávéra és egy répatortára indulás előtt."
+          },
+          {
+            "name": "Étterem kilátással az Aare-ra",
+            "tip": "Élvezze a vacsorát a folyóra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Han de țară în afara orașului",
+            "tip": "Combinați călătoria la parcul de animale sălbatice cu un prânz la un han tradițional."
+          },
+          {
+            "name": "Brutărie-cafenea în Centrul Vechi",
+            "tip": "Perfect pentru o cafea și o prăjitură cu morcovi înainte de a începe."
+          },
+          {
+            "name": "Restaurant cu vedere la Aare",
+            "tip": "Bucurați-vă de cină cu vedere la râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Country inn outside the city",
+            "tip": "Combine the trip to the wildlife park with lunch at a traditional country inn."
+          },
+          {
+            "name": "Bakery-café in the Old Town",
+            "tip": "Perfect for a coffee and a carrot cake before you start."
+          },
+          {
+            "name": "Restaurant with a view of the Aare",
+            "tip": "Enjoy dinner with a view of the river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt im Wildpark",
+            "tip": "Finden Sie einen ruhigen Ort mit Blick über das Gelände.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Uferbänke an der Aare",
+            "tip": "Perfekt für eine Pause am späten Nachmittag.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Innenhof des Schlössli",
+            "tip": "Eine unerwartet ruhige Ecke im Herzen der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a vadasparkban",
+            "tip": "Találjon egy csendes helyet, ahonnan kilátás nyílik a területre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok az Aare partján",
+            "tip": "Tökéletes egy késő délutáni szünetre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A kastély belső udvara",
+            "tip": "Váratlanul csendes zug a város szívében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere în parcul de animale sălbatice",
+            "tip": "Găsiți un loc liniștit cu vedere asupra parcului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci pe malul râului Aare",
+            "tip": "Perfect pentru o pauză în după-amiaza târzie.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curtea interioară a castelului",
+            "tip": "Un colț neașteptat de liniștit în inima orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint in the wildlife park",
+            "tip": "Find a quiet spot with a view over the grounds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches on the banks of the Aare",
+            "tip": "Perfect for a late afternoon break.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Courtyard of the castle",
+            "tip": "An unexpectedly quiet corner in the heart of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum am Stadtrand",
+            "tip": "Nutzen Sie das Auto für einen Abstecher in ein grösseres Einkaufszentrum."
+          },
+          {
+            "name": "Fabrikladen Chocolat Frey",
+            "tip": "Ein Muss für Schokoladenliebhaber, nur eine kurze Autofahrt entfernt in Buchs.",
+            "emoji": "🍫"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bevásárlóközpont a város szélén",
+            "tip": "Használja az autót egy kitérőre egy nagyobb bevásárlóközpontba."
+          },
+          {
+            "name": "Chocolat Frey gyárbolt",
+            "tip": "Kötelező a csokoládé szerelmeseinek, csak egy rövid autóútra Buchsban.",
+            "emoji": "🍫"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centru comercial la periferia orașului",
+            "tip": "Folosiți mașina pentru o excursie la un centru comercial mai mare."
+          },
+          {
+            "name": "Magazinul fabricii Chocolat Frey",
+            "tip": "O necesitate pentru iubitorii de ciocolată, la o scurtă călătorie cu mașina în Buchs.",
+            "emoji": "🍫"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopping center on the outskirts",
+            "tip": "Use the car for a trip to a larger shopping center."
+          },
+          {
+            "name": "Chocolat Frey factory shop",
+            "tip": "A must for chocolate lovers, just a short drive away in Buchs.",
+            "emoji": "🍫"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Öffnungszeiten und Parkgebühren der Parkhäuser im Voraus.",
+          "Die Strassen in der Altstadt sind sehr eng; das Auto am besten stehen lassen.",
+          "Planen Sie etwas Pufferzeit für den Verkehr ein, besonders am Nachmittag.",
+          "Viele Parkplätze sind zeitlich begrenzt (blaue Zone)."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolóházak nyitvatartási idejét és díjait.",
+          "Az óváros utcái nagyon szűkek; a legjobb, ha az autót leparkolja.",
+          "Tervezzen némi puffert a forgalomra, különösen délután.",
+          "Sok parkolóhely időben korlátozott (kék zóna)."
+        ],
+        "ro": [
+          "Verificați în avans orele de funcționare și taxele de parcare ale parcărilor.",
+          "Străzile din Centrul Vechi sunt foarte înguste; cel mai bine este să lăsați mașina parcată.",
+          "Planificați un timp tampon pentru trafic, mai ales după-amiaza.",
+          "Multe locuri de parcare sunt limitate în timp (zona albastră)."
+        ],
+        "en": [
+          "Check the opening hours and fees of the car parks in advance.",
+          "The streets in the Old Town are very narrow; it's best to leave the car parked.",
+          "Allow some buffer time for traffic, especially in the afternoon.",
+          "Many parking spaces are time-limited (blue zone)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Aarau",
+            "hu": "Érkezés az aaraui pályaudvarra",
+            "ro": "Sosire la gara Aarau",
+            "en": "Arrival at Aarau Station"
+          },
+          "coords": [
+            8.056,
+            47.3945
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Bahnhof ist der zentrale Knotenpunkt für alle Buslinien.",
+            "hu": "A pályaudvar az összes buszjárat központi csomópontja.",
+            "ro": "Gara este nodul central pentru toate liniile de autobuz.",
+            "en": "The station is the central hub for all bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zur Altstadt (Cluster 1)",
+            "hu": "Buszozás az óvárosba (1. klaszter)",
+            "ro": "Călătorie cu autobuzul spre Centrul Vechi (Cluster 1)",
+            "en": "Bus ride to the Old Town (Cluster 1)"
+          },
+          "coords": [
+            8.047,
+            47.392
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:28",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Haltestelle „Holzmarkt“.",
+            "hu": "Menjen busszal a „Holzmarkt” megállóig.",
+            "ro": "Luați un autobuz până la stația „Holzmarkt”.",
+            "en": "Take a bus to the 'Holzmarkt' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Stadtkirche",
+            "hu": "Városháza és városi templom",
+            "ro": "Primăria și Biserica Orașului",
+            "en": "Town Hall & City Church"
+          },
+          "coords": [
+            8.046,
+            47.3928
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:39",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Herz der Altstadt zu Fuss.",
+            "hu": "Fedezze fel gyalog az óváros szívét.",
+            "ro": "Explorați inima Centrului Vechi pe jos.",
+            "en": "Explore the heart of the Old Town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlössli Aarau",
+            "hu": "Schlössli Aarau (kis kastély)",
+            "ro": "Schlössli Aarau (Micul Castel)",
+            "en": "Schlössli Aarau (Little Castle)"
+          },
+          "coords": [
+            8.042,
+            47.3935
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:17",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang entlang der alten Stadtmauer.",
+            "hu": "Rövid séta a régi városfal mentén.",
+            "ro": "O scurtă plimbare de-a lungul vechiului zid al orașului.",
+            "en": "A short walk along the old city wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Museum-Cluster (Cluster 2)",
+            "hu": "Buszozás a múzeumi klaszterhez (2. klaszter)",
+            "ro": "Călătorie cu autobuzul spre clusterul muzeal (Cluster 2)",
+            "en": "Bus ride to the Museum Cluster (Cluster 2)"
+          },
+          "coords": [
+            8.052,
+            47.393
+          ],
+          "category": "museums",
+          "arrive_at": "12:47",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Haltestelle „Kunsthaus“.",
+            "hu": "Menjen busszal a „Kunsthaus” megállóig.",
+            "ro": "Luați un autobuz până la stația „Kunsthaus”.",
+            "en": "Take a bus to the 'Kunsthaus' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Aargauer Kunsthaus & Naturama",
+            "hu": "Aargaui Művészeti Múzeum és Naturama",
+            "ro": "Muzeul de Artă Aargau și Naturama",
+            "en": "Aargau Art Museum & Naturama"
+          },
+          "coords": [
+            8.053,
+            47.3935
+          ],
+          "category": "museums",
+          "arrive_at": "13:03",
+          "stay_min": 240,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die beiden Museen liegen nur wenige Gehminuten voneinander entfernt. Planen Sie auch eine Mittagspause ein.",
+            "hu": "A két múzeum csak pár perc sétára van egymástól. Tervezzen be egy ebédszünetet is.",
+            "ro": "Cele două muzee sunt la doar câteva minute de mers pe jos unul de celălalt. Planificați și o pauză de prânz.",
+            "en": "The two museums are just a few minutes' walk from each other. Plan a lunch break as well."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Busnetz von Aarau. Vom Bahnhof aus bringt Sie ein Bus direkt ins Herz der Altstadt. Erkunden Sie diesen historischen Cluster zu Fuss, inklusive Rathaus, Kirche und Schlössli. Eine weitere kurze Busfahrt führt Sie am Mittag zum zweiten Cluster, der aus dem Kunsthaus und dem Naturama besteht. Hier können Sie den gesamten Nachmittag mit Kultur und Naturwissenschaft verbringen, bevor Sie bequem mit dem Bus zum Bahnhof zurückkehren.",
+        "hu": "Használja Aarau hatékony buszhálózatát. A pályaudvarról egy busz egyenesen az óváros szívébe visz. Fedezze fel gyalog ezt a történelmi klasztert, beleértve a Városházát, a templomot és a kastélyt. Egy másik rövid buszút délben a második klaszterhez vezet, amely a Művészeti Múzeumból és a Naturamából áll. Itt az egész délutánt kultúrával és természettudománnyal töltheti, mielőtt kényelmesen visszatérne busszal a pályaudvarra.",
+        "ro": "Utilizați rețeaua eficientă de autobuze din Aarau. De la gară, un autobuz vă duce direct în inima Centrului Vechi. Explorați acest cluster istoric pe jos, incluzând Primăria, biserica și castelul. O altă călătorie scurtă cu autobuzul la prânz vă duce la al doilea cluster, format din Muzeul de Artă și Naturama. Aici puteți petrece întreaga după-amiază cu cultură și științe naturale, înainte de a vă întoarce confortabil la gară cu autobuzul.",
+        "en": "Use Aarau's efficient bus network. From the station, a bus takes you directly to the heart of the Old Town. Explore this historic cluster on foot, including the Town Hall, church, and castle. Another short bus ride at noon takes you to the second cluster, consisting of the Art Museum and the Naturama. Here you can spend the entire afternoon with culture and natural science before conveniently returning to the station by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant in der Nähe des Kunsthauses",
+            "tip": "Ideal für ein Mittagessen zwischen den Museumsbesuchen."
+          },
+          {
+            "name": "Take-Away am Bahnhof",
+            "tip": "Schnappen Sie sich einen schnellen Imbiss vor der Heimfahrt."
+          },
+          {
+            "name": "Café in der Laurenzenvorstadt",
+            "tip": "Geniessen Sie Kaffee und Kuchen in einer der Boutiquenstrassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Művészeti Múzeum közelében",
+            "tip": "Ideális egy ebédre a múzeumlátogatások között."
+          },
+          {
+            "name": "Elviteles étel a pályaudvaron",
+            "tip": "Kapjon be egy gyors falatot a hazautazás előtt."
+          },
+          {
+            "name": "Kávézó a Laurenzenvorstadtban",
+            "tip": "Élvezzen egy kávét és süteményt az egyik butikutcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant lângă Muzeul de Artă",
+            "tip": "Ideal pentru un prânz între vizitele la muzee."
+          },
+          {
+            "name": "Take-away la gară",
+            "tip": "Luați o gustare rapidă înainte de a pleca acasă."
+          },
+          {
+            "name": "Cafenea în Laurenzenvorstadt",
+            "tip": "Bucurați-vă de o cafea și o prăjitură pe una dintre străzile cu buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant near the Art Museum",
+            "tip": "Ideal for lunch between museum visits."
+          },
+          {
+            "name": "Take-away at the station",
+            "tip": "Grab a quick snack before heading home."
+          },
+          {
+            "name": "Café in Laurenzenvorstadt",
+            "tip": "Enjoy coffee and cake on one of the boutique streets."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Regierungsgebäude Innenhof",
+            "tip": "Ein ruhiger, architektonisch interessanter Ort.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Obere Vorstadt",
+            "tip": "Weniger belebt als die Hauptgassen, ideal für einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Leseecke in der Kantonsbibliothek",
+            "tip": "Kombinieren Sie Kultur mit einer stillen Pause.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A kormányzati épület belső udvara",
+            "tip": "Csendes, építészetileg érdekes hely.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Obere Vorstadt (Felső külváros)",
+            "tip": "Kevésbé forgalmas, mint a fő utcák, ideális egy csendes sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Olvasósarok a Kantoni Könyvtárban",
+            "tip": "Kombinálja a kultúrát egy csendes szünettel.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea interioară a clădirii guvernamentale",
+            "tip": "Un loc liniștit, interesant din punct de vedere arhitectural.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Obere Vorstadt (Suburbia Superioară)",
+            "tip": "Mai puțin aglomerată decât aleile principale, ideală pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Colț de lectură la Biblioteca Cantonală",
+            "tip": "Combinați cultura cu o pauză liniștită.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "Government building courtyard",
+            "tip": "A quiet, architecturally interesting place.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Obere Vorstadt (Upper Suburb)",
+            "tip": "Less crowded than the main alleys, ideal for a quiet walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Reading corner in the Cantonal Library",
+            "tip": "Combine culture with a quiet break.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Igelweid",
+            "tip": "Ein modernes Einkaufszentrum direkt am Bahnhof."
+          },
+          {
+            "name": "Kleine Läden in der Altstadt",
+            "tip": "Entdecken Sie einzigartige Souvenirs und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Igelweid",
+            "tip": "Modern bevásárlóközpont közvetlenül a pályaudvarnál."
+          },
+          {
+            "name": "Kis boltok az óvárosban",
+            "tip": "Fedezzen fel egyedi szuveníreket és kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Igelweid",
+            "tip": "Un centru comercial modern chiar lângă gară."
+          },
+          {
+            "name": "Mici magazine în Centrul Vechi",
+            "tip": "Descoperiți suveniruri unice și produse de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Igelweid",
+            "tip": "A modern shopping center right next to the station."
+          },
+          {
+            "name": "Small shops in the Old Town",
+            "tip": "Discover unique souvenirs and handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Verkehr, das ist am günstigsten.",
+          "Laden Sie die SBB Mobile App herunter für Fahrpläne in Echtzeit.",
+          "Achten Sie auf die Busnummern und Endstationen.",
+          "Busse fahren in der Regel pünktlich, seien Sie also rechtzeitig an der Haltestelle."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, az a legolcsóbb.",
+          "Töltse le az SBB Mobile alkalmazást a valós idejű menetrendekért.",
+          "Figyeljen a buszszámokra és a végállomásokra.",
+          "A buszok általában pontosan indulnak, ezért legyen időben a megállóban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public, este cel mai ieftin.",
+          "Descărcați aplicația SBB Mobile pentru orare în timp real.",
+          "Fiți atenți la numerele autobuzelor și la stațiile terminus.",
+          "Autobuzele circulă de obicei la timp, așa că ajungeți la stație din timp."
+        ],
+        "en": [
+          "Buy a day pass for public transport, it's the cheapest option.",
+          "Download the SBB Mobile app for real-time schedules.",
+          "Pay attention to the bus numbers and final destinations.",
+          "Buses usually run on time, so be at the stop in good time."
+        ]
+      }
+    }
+  }
+}

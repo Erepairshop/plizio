@@ -1,0 +1,1372 @@
+{
+  "city_id": "austria-landeck-cities-v2",
+  "anchor": {
+    "name": "Landeck",
+    "coords": [
+      10.5647,
+      47.1356
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Gerberbrücke",
+            "hu": "Indulás: Gerberbrücke híd",
+            "ro": "Start: Podul Gerberbrücke",
+            "en": "Start: Gerberbrücke Bridge"
+          },
+          "coords": [
+            10.5665,
+            47.1378
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein erstes Foto von der Altstadt und dem Inn.",
+            "hu": "Tökéletes hely az első fotóhoz az óvárosról és az Inn folyóról.",
+            "ro": "Locul perfect pentru o primă fotografie cu orașul vechi și râul Inn.",
+            "en": "The perfect spot for a first photo of the old town and the Inn river."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche Mariä Himmelfahrt",
+            "hu": "Mária Mennybemenetele plébániatemplom",
+            "ro": "Biserica parohială Adormirea Maicii Domnului",
+            "en": "Parish Church of the Assumption of Mary"
+          },
+          "coords": [
+            10.5678,
+            47.1365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie den spätgotischen Altar, ein Meisterwerk der Tiroler Kunst.",
+            "hu": "Figyelje meg a késő gótikus oltárt, a tiroli művészet remekművét.",
+            "ro": "Observați altarul gotic târziu, o capodoperă a artei tiroleze.",
+            "en": "Note the late Gothic altar, a masterpiece of Tyrolean art."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Landeck & Museum",
+            "hu": "Landeck kastély és múzeum",
+            "ro": "Castelul Landeck și Muzeul",
+            "en": "Landeck Castle & Museum"
+          },
+          "coords": [
+            10.563,
+            47.1395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch mit dem Heimatmuseum im Inneren für die volle Dosis Geschichte.",
+            "hu": "Kombinálja a látogatást a benne található helytörténeti múzeummal a teljes történelmi élményért.",
+            "ro": "Combinați vizita cu muzeul local din interior pentru o doză completă de istorie.",
+            "en": "Combine the visit with the local history museum inside for a full dose of history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            10.566,
+            47.137
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie Tiroler Gröstl in einem der traditionellen Gasthöfe.",
+            "hu": "Kóstolja meg a Tiroler Gröstl-t egy hagyományos vendéglőben.",
+            "ro": "Încercați Tiroler Gröstl la unul dintre hanurile tradiționale.",
+            "en": "Try a Tiroler Gröstl in one of the traditional inns."
+          }
+        },
+        {
+          "name": {
+            "de": "Perfuchsturm und Burschl-Kirchlein",
+            "hu": "Perfuchsturm és a Burschl-kápolna",
+            "ro": "Turnul Perfuchs și bisericuța Burschl",
+            "en": "Perfuchs Tower and Burschl Church"
+          },
+          "coords": [
+            10.5566,
+            47.1388
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg wird mit einer fantastischen Aussicht über das gesamte Tal belohnt.",
+            "hu": "A felfelé vezető út jutalma egy fantasztikus kilátás az egész völgyre.",
+            "ro": "Urcușul este răsplătit cu o priveliște fantastică asupra întregii văi.",
+            "en": "The climb is rewarded with a fantastic view over the entire valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang entlang des Inns",
+            "hu": "Séta az Inn folyó partján",
+            "ro": "Plimbare de-a lungul râului Inn",
+            "en": "Stroll along the River Inn"
+          },
+          "coords": [
+            10.56,
+            47.141
+          ],
+          "category": "nature/scenery",
+          "arrive_at": "15:17",
+          "stay_min": 88,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie auf einer der Bänke und genießen Sie die Ruhe des Flusses.",
+            "hu": "Pihenjen meg egy padon, és élvezze a folyó nyugalmát.",
+            "ro": "Relaxați-vă pe una dintre bănci și bucurați-vă de liniștea râului.",
+            "en": "Relax on one of the benches and enjoy the tranquility of the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Landeck beginnt an der historischen Gerberbrücke mit Blick auf die Altstadt. Der Vormittag ist der reichen Geschichte gewidmet, mit einem Besuch der prächtigen Stadtpfarrkirche und dem imposanten Schloss Landeck. Nach einem stärkenden Tiroler Mittagessen überqueren Sie den Inn für einen malerischen Aufstieg zum Perfuchsturm, der Sie mit Panoramablicken belohnt. Der späte Nachmittag lädt zu einem entspannten Spaziergang am Flussufer ein, um die Eindrücke des Tages in Ruhe Revue passieren zu lassen und die alpine Atmosphäre zu genießen.",
+        "hu": "A landecki nap a történelmi Gerberbrücke-hídnál kezdődik, ahonnan kilátás nyílik az óvárosra. A délelőtt a gazdag történelemé, a csodálatos plébániatemplom és a lenyűgöző landecki vár meglátogatásával. Egy kiadós tiroli ebéd után átkel az Inn folyón, hogy festői úton másszon fel a Perfuchsturmhoz, ahonnan panorámás kilátás nyílik. A késő délután egy pihentető sétára hív a folyóparton, hogy nyugodtan áttekintse a nap benyomásait és élvezze az alpesi hangulatot.",
+        "ro": "Ziua dvs. în Landeck începe la podul istoric Gerberbrücke, cu vedere la orașul vechi. Dimineața este dedicată istoriei bogate, cu o vizită la magnifica biserică parohială și la impunătorul Castel Landeck. După un prânz tirolez consistent, traversați râul Inn pentru o urcare pitorească la Turnul Perfuchs, care vă va recompensa cu vederi panoramice. După-amiaza târziu vă invită la o plimbare relaxantă pe malul râului pentru a reflecta în liniște asupra impresiilor zilei și a vă bucura de atmosfera alpină.",
+        "en": "Your day in Landeck begins at the historic Gerberbrücke bridge overlooking the old town. The morning is dedicated to rich history, with a visit to the magnificent parish church and the imposing Landeck Castle. After a hearty Tyrolean lunch, you cross the River Inn for a scenic climb to the Perfuchs Tower, rewarding you with panoramic views. The late afternoon invites you for a relaxing stroll along the riverbank to quietly review the day's impressions and enjoy the alpine atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "Herzhaftes Pfannengericht aus Kartoffeln, Rindfleisch und Zwiebeln, oft mit Spiegelei serviert."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "In Brühe oder mit Sauerkraut servierte Käseknödel."
+          },
+          {
+            "name": "Gasthof Greif",
+            "tip": "Traditionelles Restaurant mit gemütlicher Atmosphäre im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "Kiadós serpenyős étel burgonyából, marhahúsból és hagymából, gyakran tükörtojással tálalva."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Sajtgombóc, húslevesben vagy savanyú káposztával tálalva."
+          },
+          {
+            "name": "Gasthof Greif",
+            "tip": "Hagyományos étterem hangulatos légkörrel a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "Mâncare consistentă la tigaie din cartofi, carne de vită și ceapă, adesea servită cu un ou ochi."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Găluște cu brânză servite în supă sau cu varză murată."
+          },
+          {
+            "name": "Gasthof Greif",
+            "tip": "Restaurant tradițional cu o atmosferă primitoare în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "Hearty pan-fried dish of potatoes, beef, and onions, often served with a fried egg."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Cheese dumplings served in broth or with sauerkraut."
+          },
+          {
+            "name": "Gasthof Greif",
+            "tip": "Traditional restaurant with a cozy atmosphere in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burschl-Kirchlein",
+            "tip": "Ein ruhiger, spiritueller Ort mit herrlicher Aussicht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Uferweg am Inn",
+            "tip": "Finden Sie eine Bank am Fluss und lauschen Sie dem Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosshof Landeck",
+            "tip": "Der Innenhof des Schlosses ist oft eine Oase der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burschl-kápolna",
+            "tip": "Csendes, spirituális hely, csodálatos kilátással.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sétány az Inn partján",
+            "tip": "Keressen egy padot a folyó mellett, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Landeck kastély udvara",
+            "tip": "A kastély udvara gyakran a nyugalom oázisa.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bisericuța Burschl",
+            "tip": "Un loc liniștit, spiritual, cu o priveliște minunată.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Promenada de pe malul Innului",
+            "tip": "Găsiți o bancă lângă râu și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Castelului Landeck",
+            "tip": "Curtea castelului este adesea o oază de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Burschl Church",
+            "tip": "A quiet, spiritual place with a wonderful view.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Path along the Inn",
+            "tip": "Find a bench by the river and listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Landeck Castle Courtyard",
+            "tip": "The castle's courtyard is often an oasis of calm.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Freitag hier sind, besuchen Sie den Markt für lokale Produkte und Handwerk."
+          },
+          {
+            "name": "Malserstraße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Ha pénteken jár itt, látogasson el a piacra helyi termékekért és kézműves árukért."
+          },
+          {
+            "name": "Malserstraße",
+            "tip": "A fő bevásárlóutca, ahol különféle üzletek találhatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți aici într-o vineri, vizitați piața pentru produse locale și artizanat."
+          },
+          {
+            "name": "Malserstraße",
+            "tip": "Principala stradă comercială cu un amestec de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "If you're here on a Friday, visit the market for local produce and crafts."
+          },
+          {
+            "name": "Malserstraße",
+            "tip": "The main shopping street with a mix of shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Planen Sie genügend Zeit für den Aufstieg zum Perfuchsturm ein, es lohnt sich!",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Szánjon elég időt a Perfuchsturmhoz való feljutásra, megéri!",
+          "A központ legtöbb látnivalója könnyen megközelíthető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Planificați suficient timp pentru urcarea la Turnul Perfuchs, merită!",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the cobblestones in the old town can be uneven.",
+          "Allow enough time for the climb to Perfuchs Tower, it's worth it!",
+          "Most sights in the center are easily reachable on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Venetbahn Talstation",
+            "hu": "Indulás: Venetbahn völgyállomás",
+            "ro": "Start: Stația de vale Venetbahn",
+            "en": "Start: Venetbahn Valley Station"
+          },
+          "coords": [
+            10.5511,
+            47.1472
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Informieren Sie sich über die Betriebszeiten, falls Sie eine Fahrt auf den Berg planen.",
+            "hu": "Tájékozódjon a nyitvatartási időről, ha hegyi utat tervez.",
+            "ro": "Verificați programul de funcționare dacă plănuiți o excursie pe munte.",
+            "en": "Check the operating hours if you plan a trip up the mountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Inns zur Gerberbrücke",
+            "hu": "Kerékpározás az Inn mentén a Gerberbrückéhez",
+            "ro": "Plimbare cu bicicleta de-a lungul Inn-ului până la podul Gerberbrücke",
+            "en": "Ride along the Inn to Gerberbrücke Bridge"
+          },
+          "coords": [
+            10.5665,
+            47.1378
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Radweg ist gut ausgebaut und bietet schöne Ausblicke.",
+            "hu": "A kerékpárút jól kiépített és szép kilátást nyújt.",
+            "ro": "Pista de biciclete este bine dezvoltată și oferă priveliști frumoase.",
+            "en": "The cycle path is well-developed and offers beautiful views."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Landeck & Museum",
+            "hu": "Landeck kastély és múzeum",
+            "ro": "Castelul Landeck și Muzeul",
+            "en": "Landeck Castle & Museum"
+          },
+          "coords": [
+            10.563,
+            47.1395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und erklimmen Sie den Hügel zum Schloss.",
+            "hu": "Biztonságosan zárja le a kerékpárját, és másszon fel a dombra a kastélyhoz.",
+            "ro": "Parcați bicicleta în siguranță și urcați dealul spre castel.",
+            "en": "Park your bike safely and climb the hill to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Altstadt",
+            "hu": "Ebéd és óváros",
+            "ro": "Prânz și orașul vechi",
+            "en": "Lunch and Old Town"
+          },
+          "coords": [
+            10.5678,
+            47.1365
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie nach dem Essen durch die Gassen rund um die Stadtpfarrkirche.",
+            "hu": "Ebéd után sétáljon a plébániatemplom körüli sikátorokban.",
+            "ro": "După prânz, plimbați-vă pe aleile din jurul bisericii parohiale.",
+            "en": "After lunch, stroll through the alleys around the parish church."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt über die andere Innseite",
+            "hu": "Visszaút az Inn másik oldalán",
+            "ro": "Întoarcere pe cealaltă parte a Inn-ului",
+            "en": "Return trip on the other side of the Inn"
+          },
+          "coords": [
+            10.555,
+            47.142
+          ],
+          "category": "nature/scenery",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Diese Route bietet eine andere Perspektive auf die Stadt und die umliegenden Berge.",
+            "hu": "Ez az útvonal más perspektívát kínál a városra és a környező hegyekre.",
+            "ro": "Acest traseu oferă o perspectivă diferită asupra orașului și a munților din jur.",
+            "en": "This route offers a different perspective on the city and the surrounding mountains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet sportlich an der Venetbahn-Talstation. Sie folgen dem malerischen Inn-Radweg ins Herz von Landeck, wo die Gerberbrücke und die Altstadt warten. Der Vormittag gipfelt im Besuch des Schlosses Landeck, das majestätisch über der Stadt thront. Nach einem ausgiebigen Mittagessen erkunden Sie die Gassen zu Fuß. Der Nachmittag führt Sie auf einer größeren Schleife über die andere Flussseite zurück, wobei Sie ständig neue, atemberaubende Ausblicke auf die Tiroler Alpen genießen.",
+        "hu": "A kerékpártúra sportosan indul a Venetbahn völgyállomásától. A festői Inn-kerékpárúton halad Landeck szívébe, ahol a Gerberbrücke és az óváros várja. A délelőtt a város felett méltóságteljesen trónoló Landeck kastély meglátogatásával csúcsosodik ki. Egy kiadós ebéd után gyalogosan fedezi fel a sikátorokat. A délután egy nagyobb körön, a folyó másik oldalán vezet vissza, miközben folyamatosan új, lélegzetelállító kilátás nyílik a tiroli Alpokra.",
+        "ro": "Turul dvs. cu bicicleta începe sportiv la stația de vale Venetbahn. Urmați pitoreasca pistă de biciclete de-a lungul Inn-ului până în inima orașului Landeck, unde vă așteaptă podul Gerberbrücke și orașul vechi. Dimineața culminează cu o vizită la Castelul Landeck, care tronează maiestuos deasupra orașului. După un prânz copios, explorați aleile pe jos. După-amiaza vă poartă într-un circuit mai mare pe cealaltă parte a râului, bucurându-vă constant de noi priveliști uluitoare ale Alpilor tirolezi.",
+        "en": "Your bike tour starts energetically at the Venetbahn valley station. You'll follow the scenic Inn cycle path into the heart of Landeck, where the Gerberbrücke and the old town await. The morning culminates in a visit to Landeck Castle, which sits majestically above the town. After a hearty lunch, you'll explore the alleys on foot. The afternoon takes you on a larger loop back across the other side of the river, constantly enjoying new, breathtaking views of the Tyrolean Alps."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein Klassiker zur Stärkung nach der Radtour, am besten mit Vanillesauce."
+          },
+          {
+            "name": "Radler",
+            "tip": "Das perfekte, erfrischende Getränk für eine Pause."
+          },
+          {
+            "name": "Cafe Zangerl",
+            "tip": "Bekannt für guten Kaffee und hausgemachte Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Almás rétes",
+            "tip": "Klasszikus a kerékpártúra utáni feltöltődéshez, a legjobb vaníliaszósszal."
+          },
+          {
+            "name": "Radler",
+            "tip": "A tökéletes, frissítő ital egy szünethez."
+          },
+          {
+            "name": "Cafe Zangerl",
+            "tip": "Jó kávéjáról és házi süteményeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ștrudel cu mere",
+            "tip": "Un clasic pentru a vă reface forțele după turul cu bicicleta, cel mai bun cu sos de vanilie."
+          },
+          {
+            "name": "Radler",
+            "tip": "Băutura perfectă și răcoritoare pentru o pauză."
+          },
+          {
+            "name": "Cafe Zangerl",
+            "tip": "Renumită pentru cafeaua bună și prăjiturile de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Apple strudel",
+            "tip": "A classic to refuel after the bike tour, best with vanilla sauce."
+          },
+          {
+            "name": "Radler",
+            "tip": "The perfect, refreshing drink for a break."
+          },
+          {
+            "name": "Cafe Zangerl",
+            "tip": "Known for good coffee and homemade cakes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer des Inn",
+            "tip": "Abseits der Hauptwege finden sich ruhige Plätze direkt am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Burschl-Kirchlein",
+            "tip": "Auch mit dem Rad erreichbar, belohnt der Ort mit Stille und Aussicht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussichtspunkt bei Stanz",
+            "tip": "Eine kleine Extratour für Radsportler mit spektakulärem Blick ins Tal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Inn folyó partja",
+            "tip": "A fő utaktól távol, csendes helyek találhatók közvetlenül a víz mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Burschl-kápolna",
+            "tip": "Kerékpárral is elérhető, a hely csenddel és kilátással jutalmaz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátó Stanz közelében",
+            "tip": "Egy kis extra túra kerékpárosoknak, látványos kilátással a völgyre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Inn",
+            "tip": "Departe de potecile principale, veți găsi locuri liniștite chiar lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bisericuța Burschl",
+            "tip": "Accesibilă și cu bicicleta, locul vă recompensează cu liniște și priveliști.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punct de belvedere lângă Stanz",
+            "tip": "Un mic tur suplimentar pentru cicliști, cu o vedere spectaculoasă asupra văii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the River Inn",
+            "tip": "Away from the main paths, you'll find quiet spots right by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Burschl Church",
+            "tip": "Also reachable by bike, the place rewards you with silence and views.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Viewpoint near Stanz",
+            "tip": "A small extra tour for cyclists with a spectacular view into the valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "In Landeck gibt es mehrere gut sortierte Sportgeschäfte für Rad- und Bergausrüstung."
+          },
+          {
+            "name": "Bauernladen",
+            "tip": "Suchen Sie nach einem Hofladen für lokale Spezialitäten wie Käse, Speck und Schnaps."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Landeckben több jól felszerelt sportbolt található kerékpáros és hegyi felszerelésekhez."
+          },
+          {
+            "name": "Gazdabolt",
+            "tip": "Keressen egy tanyasi boltot helyi specialitásokért, mint például sajt, szalonna és pálinka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "În Landeck există mai multe magazine de sport bine aprovizionate pentru echipament de ciclism și montan."
+          },
+          {
+            "name": "Magazin agricol",
+            "tip": "Căutați un magazin la fermă pentru specialități locale precum brânză, slănină și schnapps."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports shops",
+            "tip": "In Landeck there are several well-stocked sports shops for cycling and mountain equipment."
+          },
+          {
+            "name": "Farm shop",
+            "tip": "Look for a farm shop for local specialties such as cheese, bacon, and schnapps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads vor der Tour, insbesondere Bremsen und Reifen.",
+          "Ein Helm ist dringend empfohlen.",
+          "Nehmen Sie genügend Wasser mit, besonders für die längere Schleife am Nachmittag."
+        ],
+        "hu": [
+          "Ellenőrizze kerékpárja állapotát a túra előtt, különösen a fékeket és a gumikat.",
+          "Sisak viselése erősen ajánlott.",
+          "Vigyen magával elegendő vizet, különösen a délutáni hosszabb körre."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de tur, în special frânele și anvelopele.",
+          "Cască este puternic recomandată.",
+          "Luați suficientă apă cu dumneavoastră, mai ales pentru bucla mai lungă de după-amiază."
+        ],
+        "en": [
+          "Check the condition of your bike before the tour, especially brakes and tires.",
+          "A helmet is strongly recommended.",
+          "Take enough water with you, especially for the longer loop in the afternoon."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Parken im Zentrum",
+            "hu": "A csoport: Parkolás a központban",
+            "ro": "Cluster A: Parcare în centru",
+            "en": "Cluster A: Parking in the Center"
+          },
+          "coords": [
+            10.568,
+            47.138
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie einen der öffentlichen Parkplätze oder eine Tiefgarage für den Vormittag.",
+            "hu": "Keressen egy nyilvános parkolót vagy mélygarázst a délelőttre.",
+            "ro": "Căutați una dintre parcările publice sau o parcare subterană pentru dimineață.",
+            "en": "Look for one of the public car parks or an underground garage for the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & Gerberbrücke",
+            "hu": "Plébániatemplom és Gerberbrücke",
+            "ro": "Biserica parohială și podul Gerberbrücke",
+            "en": "Parish Church & Gerberbrücke"
+          },
+          "coords": [
+            10.567,
+            47.137
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang direkt im Herzen der Altstadt.",
+            "hu": "Kezdje a sétát közvetlenül az óváros szívében.",
+            "ro": "Începeți turul pietonal chiar în inima orașului vechi.",
+            "en": "Start your walking tour right in the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Landeck",
+            "hu": "Landeck kastély",
+            "ro": "Castelul Landeck",
+            "en": "Landeck Castle"
+          },
+          "coords": [
+            10.563,
+            47.1395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der kurze Spaziergang bergauf vom Zentrum ist den Ausblick wert.",
+            "hu": "A rövid séta a központból a hegyre megéri a kilátást.",
+            "ro": "Scurta plimbare la deal din centru merită priveliștea.",
+            "en": "The short uphill walk from the center is worth the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            10.566,
+            47.137
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich, bevor Sie zum nächsten Cluster fahren.",
+            "hu": "Erősítse meg magát, mielőtt a következő csoporthoz hajtana.",
+            "ro": "Întăriți-vă înainte de a conduce la următorul cluster.",
+            "en": "Refuel before driving to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Fahrt zur Venetbahn",
+            "hu": "B csoport: Utazás a Venetbahnhoz",
+            "ro": "Cluster B: Conduceți la Venetbahn",
+            "en": "Cluster B: Drive to Venetbahn"
+          },
+          "coords": [
+            10.5511,
+            47.1472
+          ],
+          "category": "transport",
+          "arrive_at": "13:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die Umgebung zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel a környéket gyalog.",
+            "ro": "Parcați aici și explorați zona pe jos.",
+            "en": "Park here and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Burschl-Kirchlein & Aussicht",
+            "hu": "Burschl-kápolna és kilátás",
+            "ro": "Bisericuța Burschl și priveliștea",
+            "en": "Burschl Church & View"
+          },
+          "coords": [
+            10.5566,
+            47.1388
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 140,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe und den Panoramablick über Landeck.",
+            "hu": "Élvezze a csendet és a panorámás kilátást Landeckre.",
+            "ro": "Bucurați-vă de liniște și de vederea panoramică asupra Landeck.",
+            "en": "Enjoy the peace and the panoramic view over Landeck."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Landeck clever in zwei Clustern. Zuerst parken Sie im Zentrum und entdecken zu Fuß die historische Altstadt mit der Pfarrkirche und dem Schloss. Nach einem gemütlichen Mittagessen fahren Sie über den Inn zum zweiten Cluster. Dort parken Sie bei der Venetbahn und spazieren zum malerischen Burschl-Kirchlein. Dieser Nachmittag steht im Zeichen von Ruhe und grandiosen Aussichten, bevor Sie den Tag entspannt ausklingen lassen.",
+        "hu": "Autóval okosan, két klaszterben fedezheti fel Landecket. Először a központban parkol, és gyalogosan fedezi fel a történelmi óvárost a plébániatemplommal és a kastéllyal. Egy kellemes ebéd után átvezet az Inn folyón a második klaszterhez. Ott a Venetbahn-nál parkol, és elsétál a festői Burschl-kápolnához. Ez a délután a nyugalomról és a nagyszerű kilátásról szól, mielőtt pihentetően zárná a napot.",
+        "ro": "Cu mașina, explorați Landeck inteligent în două clustere. Mai întâi parcați în centru și descoperiți pe jos orașul vechi istoric cu biserica parohială și castelul. După un prânz relaxant, conduceți peste Inn la al doilea cluster. Acolo parcați lângă Venetbahn și faceți o plimbare până la pitoreasca bisericuță Burschl. Această după-amiază este despre liniște și priveliști grandioase, înainte de a încheia ziua într-un mod relaxat.",
+        "en": "By car, you explore Landeck cleverly in two clusters. First, you park in the center and discover the historic old town with the parish church and the castle on foot. After a leisurely lunch, you drive across the Inn to the second cluster. There, you park at the Venetbahn and stroll to the picturesque Burschl Church. This afternoon is all about tranquility and grand views before you end the day in a relaxed manner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brettljause",
+            "tip": "Eine kalte Platte mit Tiroler Speck, Käse und Wurst, perfekt für ein rustikales Mittagessen."
+          },
+          {
+            "name": "Zirbenschnaps",
+            "tip": "Ein lokaler Schnaps aus den Zapfen der Zirbelkiefer."
+          },
+          {
+            "name": "Restaurant Schrofenstein",
+            "tip": "Gehobene Küche mit regionalen Zutaten und Blick auf das Schloss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brettljause",
+            "tip": "Hidegtál tiroli szalonnával, sajttal és kolbásszal, tökéletes egy rusztikus ebédhez."
+          },
+          {
+            "name": "Cédrusfenyő pálinka",
+            "tip": "Helyi pálinka a cirbolyafenyő tobozából."
+          },
+          {
+            "name": "Restaurant Schrofenstein",
+            "tip": "Elegáns konyha regionális alapanyagokkal és kilátással a kastélyra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brettljause",
+            "tip": "Un platou rece cu șuncă tiroleză, brânză și cârnați, perfect pentru un prânz rustic."
+          },
+          {
+            "name": "Schnapps de Zirben",
+            "tip": "Un schnapps local făcut din conurile de pin cembra."
+          },
+          {
+            "name": "Restaurant Schrofenstein",
+            "tip": "Bucătărie rafinată cu ingrediente regionale și vedere la castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brettljause",
+            "tip": "A cold platter with Tyrolean bacon, cheese, and sausage, perfect for a rustic lunch."
+          },
+          {
+            "name": "Zirbenschnaps (Stone Pine Schnapps)",
+            "tip": "A local schnapps made from the cones of the stone pine."
+          },
+          {
+            "name": "Restaurant Schrofenstein",
+            "tip": "Fine dining with regional ingredients and a view of the castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zammer Lochputz",
+            "tip": "Eine kurze Fahrt entfernt, eine beeindruckende Klamm für einen ruhigen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ruine Schrofenstein",
+            "tip": "Ein kurzer Abstecher mit dem Auto bietet eine tolle Aussicht und historische Atmosphäre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kloster Stams",
+            "tip": "Eine längere Fahrt, aber ein prächtiges Barockkloster, das Ruhe ausstrahlt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zammer Lochputz",
+            "tip": "Rövid autóútra található, lenyűgöző szurdok egy csendes sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schrofenstein romjai",
+            "tip": "Egy rövid autós kitérő nagyszerű kilátást és történelmi hangulatot kínál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stams-i kolostor",
+            "tip": "Hosszabb autóút, de egy csodálatos barokk kolostor, amely nyugalmat áraszt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zammer Lochputz",
+            "tip": "La o scurtă distanță cu mașina, o cheie impresionantă pentru o plimbare liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ruinele Schrofenstein",
+            "tip": "O scurtă deviere cu mașina oferă o priveliște minunată și o atmosferă istorică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mănăstirea Stams",
+            "tip": "O călătorie mai lungă, dar o mănăstire barocă magnifică ce emană liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zammer Lochputz",
+            "tip": "A short drive away, an impressive gorge for a quiet walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schrofenstein Ruin",
+            "tip": "A short detour by car offers a great view and historical atmosphere.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stams Abbey",
+            "tip": "A longer drive, but a magnificent baroque monastery that exudes tranquility.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schnapsbrennerei",
+            "tip": "Besuchen Sie eine lokale Brennerei, um preisgekrönte Edelbrände zu verkosten und zu kaufen."
+          },
+          {
+            "name": "Handwerksladen",
+            "tip": "Suchen Sie nach handgeschnitzten Holzfiguren oder anderen Tiroler Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pálinkafőzde",
+            "tip": "Látogasson el egy helyi főzdébe, hogy díjnyertes párlatokat kóstoljon és vásároljon."
+          },
+          {
+            "name": "Kézműves bolt",
+            "tip": "Keressen kézzel faragott fafigurákat vagy más tiroli ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Distilerie de schnapps",
+            "tip": "Vizitați o distilerie locală pentru a degusta și a cumpăra schnapps-uri premiate."
+          },
+          {
+            "name": "Magazin de artizanat",
+            "tip": "Căutați figurine din lemn sculptate manual sau alte suveniruri tiroleze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schnapps Distillery",
+            "tip": "Visit a local distillery to taste and buy award-winning spirits."
+          },
+          {
+            "name": "Craft shop",
+            "tip": "Look for hand-carved wooden figures or other Tyrolean souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren sind in den meisten zentralen Parkhäusern zu entrichten.",
+          "Achten Sie auf die Beschilderung für Parkzonen, um Strafzettel zu vermeiden.",
+          "Planen Sie Ihre Route zwischen den Clustern im Voraus, um Zeit zu sparen."
+        ],
+        "hu": [
+          "A legtöbb központi parkolóházban parkolási díjat kell fizetni.",
+          "A büntetések elkerülése érdekében figyeljen a parkolási zónák tábláira.",
+          "Tervezze meg előre az útvonalat a klaszterek között, hogy időt takarítson meg."
+        ],
+        "ro": [
+          "Taxele de parcare se aplică în majoritatea parcărilor centrale.",
+          "Fiți atenți la semnalizarea zonelor de parcare pentru a evita amenzile.",
+          "Planificați-vă ruta între clustere în avans pentru a economisi timp."
+        ],
+        "en": [
+          "Parking fees apply in most central car parks.",
+          "Pay attention to the signs for parking zones to avoid fines.",
+          "Plan your route between clusters in advance to save time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busterminal Landeck",
+            "hu": "Érkezés a landecki buszpályaudvarra",
+            "ro": "Sosire la terminalul de autobuze Landeck",
+            "en": "Arrival at Landeck Bus Terminal"
+          },
+          "coords": [
+            10.569,
+            47.135
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Machen Sie sich mit den lokalen Buslinien vertraut. Eine Tageskarte kann sich lohnen.",
+            "hu": "Ismerkedjen meg a helyi buszjáratokkal. Egy napijegy megérheti.",
+            "ro": "Familiarizați-vă cu liniile locale de autobuz. Un bilet de o zi poate fi rentabil.",
+            "en": "Familiarize yourself with the local bus lines. A day ticket can be worthwhile."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster A: Altstadt (Schloss & Kirche)",
+            "hu": "A csoport: Óváros (kastély és templom)",
+            "ro": "Cluster A: Orașul vechi (castel și biserică)",
+            "en": "Cluster A: Old Town (Castle & Church)"
+          },
+          "coords": [
+            10.565,
+            47.138
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Schloss und die Pfarrkirche, die nur einen kurzen Spaziergang voneinander entfernt sind.",
+            "hu": "Fedezze fel a kastélyt és a plébániatemplomot, amelyek csak egy rövid sétára vannak egymástól.",
+            "ro": "Explorați castelul și biserica parohială, aflate la o scurtă plimbare una de cealaltă.",
+            "en": "Explore the castle and the parish church, which are just a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            10.567,
+            47.137
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant in der Nähe Ihrer Bushaltestelle für den Nachmittag.",
+            "hu": "Válasszon egy éttermet a délutáni buszmegálló közelében.",
+            "ro": "Alegeți un restaurant aproape de stația de autobuz pentru după-amiază.",
+            "en": "Choose a restaurant near your bus stop for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Busfahrt nach Perfuchs",
+            "hu": "B csoport: Buszozás Perfuchsba",
+            "ro": "Cluster B: Călătorie cu autobuzul spre Perfuchs",
+            "en": "Cluster B: Bus ride to Perfuchs"
+          },
+          "coords": [
+            10.558,
+            47.139
+          ],
+          "category": "transport",
+          "arrive_at": "13:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Busse fahren regelmäßig. Steigen Sie in der Nähe des Perfuchsturms aus.",
+            "hu": "A buszok rendszeresen közlekednek. Szálljon le a Perfuchsturm közelében.",
+            "ro": "Autobuzele circulă regulat. Coborâți lângă Turnul Perfuchs.",
+            "en": "The buses run regularly. Get off near the Perfuchs Tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Perfuchsturm & Burschl-Kirchlein",
+            "hu": "Perfuchsturm és Burschl-kápolna",
+            "ro": "Turnul Perfuchs și Bisericuța Burschl",
+            "en": "Perfuchs Tower & Burschl Church"
+          },
+          "coords": [
+            10.557,
+            47.1388
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:50",
+          "stay_min": 190,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Nachmittag mit einem Spaziergang zwischen diesen beiden Aussichtspunkten.",
+            "hu": "Élvezze a délutánt egy sétával a két kilátópont között.",
+            "ro": "Bucurați-vă de după-amiază cu o plimbare între aceste două puncte de belvedere.",
+            "en": "Enjoy the afternoon with a walk between these two viewpoints."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Entdeckungstour mit öffentlichen Verkehrsmitteln startet am zentralen Busterminal. Von hier aus ist es nur ein kurzer Spaziergang ins erste Cluster, die Altstadt, wo Sie den Vormittag mit Schloss und Kirche verbringen. Nach dem Mittagessen bringt Sie ein lokaler Bus bequem über den Fluss zum zweiten Cluster in Perfuchs. Dort widmen Sie den Nachmittag dem Aufstieg zum Turm und der Kapelle und genießen die weite Aussicht, bevor Sie mit dem Bus ins Zentrum zurückkehren.",
+        "hu": "A tömegközlekedéssel tett felfedezőút a központi buszpályaudvarról indul. Innen csak egy rövid séta az első klaszterbe, az óvárosba, ahol a délelőttöt a kastéllyal és a templommal tölti. Ebéd után egy helyi busz kényelmesen átviszi a folyón a második klaszterbe, Perfuchsba. Ott a délutánt a toronyhoz és a kápolnához való feljutásnak szenteli, és élvezi a tágas kilátást, mielőtt busszal visszatérne a központba.",
+        "ro": "Turul dvs. de descoperire cu transportul public începe de la terminalul central de autobuze. De aici, este doar o scurtă plimbare până la primul cluster, orașul vechi, unde vă veți petrece dimineața la castel și biserică. După prânz, un autobuz local vă duce confortabil peste râu la al doilea cluster din Perfuchs. Acolo, vă dedicați după-amiaza urcării la turn și la capelă și vă bucurați de priveliștea vastă înainte de a vă întoarce în centru cu autobuzul.",
+        "en": "Your discovery tour by public transport starts at the central bus terminal. From here, it's just a short walk to the first cluster, the old town, where you'll spend the morning at the castle and church. After lunch, a local bus takes you comfortably across the river to the second cluster in Perfuchs. There, you'll dedicate the afternoon to climbing the tower and chapel, enjoying the wide views before returning to the center by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Ein süßes Hauptgericht oder Dessert, das immer passt."
+          },
+          {
+            "name": "Almdudler",
+            "tip": "Die österreichische Kräuterlimonade als Alternative zu Cola & Co."
+          },
+          {
+            "name": "Hotel-Gasthof zum Hirschen",
+            "tip": "Gut erreichbar und bietet eine solide Auswahl an Tiroler Gerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Császármorzsa",
+            "tip": "Édes főétel vagy desszert, amely mindig megfelelő."
+          },
+          {
+            "name": "Almdudler",
+            "tip": "Az osztrák gyógynövénylimonádé, a kóla és társai alternatívája."
+          },
+          {
+            "name": "Hotel-Gasthof zum Hirschen",
+            "tip": "Könnyen megközelíthető, és tiroli ételek széles választékát kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Un fel principal dulce sau un desert care se potrivește întotdeauna."
+          },
+          {
+            "name": "Almdudler",
+            "tip": "Limonada austriacă din plante ca alternativă la Cola & Co."
+          },
+          {
+            "name": "Hotel-Gasthof zum Hirschen",
+            "tip": "Ușor accesibil și oferă o selecție solidă de mâncăruri tiroleze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "A sweet main course or dessert that always fits."
+          },
+          {
+            "name": "Almdudler",
+            "tip": "The Austrian herbal lemonade as an alternative to Coke & Co."
+          },
+          {
+            "name": "Hotel-Gasthof zum Hirschen",
+            "tip": "Easily accessible and offers a solid selection of Tyrolean dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weg entlang der Sanna",
+            "tip": "Ein kurzer Spaziergang, wo die Sanna in den Inn mündet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof bei der Pfarrkirche",
+            "tip": "Ein oft übersehener, aber sehr friedlicher Ort.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abendstimmung am Inn",
+            "tip": "Finden Sie einen Platz am Ufer, wenn die Sonne hinter den Bergen verschwindet.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Út a Sanna mentén",
+            "tip": "Rövid séta ott, ahol a Sanna az Innbe ömlik.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Temető a plébániatemplomnál",
+            "tip": "Gyakran figyelmen kívül hagyott, de nagyon békés hely.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Esti hangulat az Inn partján",
+            "tip": "Keressen egy helyet a parton, amikor a nap eltűnik a hegyek mögött.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă de-a lungul Sannei",
+            "tip": "O scurtă plimbare unde Sanna se varsă în Inn.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de lângă biserica parohială",
+            "tip": "Un loc adesea trecut cu vederea, dar foarte pașnic.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Atmosferă de seară pe Inn",
+            "tip": "Găsiți un loc pe mal când soarele dispare în spatele munților.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Path along the Sanna",
+            "tip": "A short walk where the Sanna flows into the Inn.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery at the parish church",
+            "tip": "An often overlooked but very peaceful place.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Evening atmosphere on the Inn",
+            "tip": "Find a spot on the bank as the sun disappears behind the mountains.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bäckerei",
+            "tip": "Kaufen Sie ein frisches Tiroler Brot für unterwegs."
+          },
+          {
+            "name": "Touristeninformation",
+            "tip": "Hier finden Sie Karten, Souvenirs und oft auch lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség",
+            "tip": "Vásároljon friss tiroli kenyeret útközben."
+          },
+          {
+            "name": "Turisztikai információs iroda",
+            "tip": "Itt térképeket, ajándéktárgyakat és gyakran helyi termékeket is talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie",
+            "tip": "Cumpărați o pâine proaspătă tiroleză pentru drum."
+          },
+          {
+            "name": "Birou de informații turistice",
+            "tip": "Aici veți găsi hărți, suveniruri și adesea produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery",
+            "tip": "Buy a fresh Tyrolean bread for the road."
+          },
+          {
+            "name": "Tourist Information Office",
+            "tip": "Here you will find maps, souvenirs and often local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über den Fahrplan der Busse im Voraus, um Wartezeiten zu minimieren.",
+          "Eine Tageskarte ist oft günstiger als mehrere Einzelfahrscheine.",
+          "Beachten Sie, dass der letzte Bus am Abend eventuell früher fährt als erwartet."
+        ],
+        "hu": [
+          "A várakozási idő minimalizálása érdekében előre tájékozódjon a buszmenetrendről.",
+          "A napijegy gyakran olcsóbb, mint több vonaljegy.",
+          "Vegye figyelembe, hogy az utolsó esti busz esetleg korábban indul a vártnál."
+        ],
+        "ro": [
+          "Verificați în avans orarul autobuzelor pentru a minimiza timpii de așteptare.",
+          "Un bilet de o zi este adesea mai ieftin decât mai multe bilete simple.",
+          "Rețineți că ultimul autobuz de seară poate pleca mai devreme decât vă așteptați."
+        ],
+        "en": [
+          "Check the bus schedule in advance to minimize waiting times.",
+          "A day ticket is often cheaper than several single tickets.",
+          "Note that the last bus in the evening may leave earlier than expected."
+        ]
+      }
+    }
+  }
+}

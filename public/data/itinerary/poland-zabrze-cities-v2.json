@@ -1,0 +1,1398 @@
+{
+  "city_id": "poland-zabrze-cities-v2",
+  "anchor": {
+    "name": "Hindenburg",
+    "coords": [
+      18.7857,
+      50.3081
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St.-Andreas-Kirche",
+            "hu": "Szent András-templom",
+            "ro": "Biserica Sf. Andrei",
+            "en": "St. Andrew's Church"
+          },
+          "coords": [
+            18.788,
+            50.3095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotischen Details und die beeindruckenden Glasfenster.",
+            "hu": "Csodálja meg a neogótikus részleteket és a lenyűgöző üvegablakokat.",
+            "ro": "Admirați detaliile neogotice și vitraliile impresionante.",
+            "en": "Admire the neo-Gothic details and the impressive stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Zabrze-Museum",
+            "hu": "Zabrze Múzeum",
+            "ro": "Muzeul Zabrze",
+            "en": "Zabrze Museum"
+          },
+          "coords": [
+            18.785,
+            50.307
+          ],
+          "category": "museums",
+          "arrive_at": "09:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen, die das städtische Leben im 19. und 20. Jahrhundert dokumentieren.",
+            "hu": "Fókuszáljon a 19. és 20. századi városi életet bemutató kiállításokra.",
+            "ro": "Concentrați-vă pe expozițiile care documentează viața urbană din secolele XIX și XX.",
+            "en": "Focus on the exhibitions documenting urban life in the 19th and 20th centuries."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Kohlebergbau",
+            "hu": "Szénbányászati Múzeum",
+            "ro": "Muzeul Mineritului de Cărbune",
+            "en": "Museum of Coal Mining"
+          },
+          "coords": [
+            18.8,
+            50.314
+          ],
+          "category": "museums",
+          "arrive_at": "11:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein Muss, um den Kontext der anderen Industriestandorte zu verstehen. Planen Sie ausreichend Zeit ein.",
+            "hu": "Kötelező darab, hogy megértse a többi ipari helyszín kontextusát. Tervezzen elég időt.",
+            "ro": "O vizită obligatorie pentru a înțelege contextul celorlalte situri industriale. Planificați suficient timp.",
+            "en": "A must-see to understand the context of the other industrial sites. Allow plenty of time."
+          }
+        },
+        {
+          "name": {
+            "de": "Stollen Königin Luise",
+            "hu": "Lujza királynő-táró",
+            "ro": "Galeria subterană Regina Luiza",
+            "en": "Queen Louise Adit"
+          },
+          "coords": [
+            18.801,
+            50.315
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die unterirdische Bootstour ist das Highlight. Buchen Sie Tickets im Voraus.",
+            "hu": "A földalatti csónaktúra a fénypont. Foglaljon jegyet előre.",
+            "ro": "Turul cu barca subterană este punctul culminant. Rezervați biletele în avans.",
+            "en": "The underground boat tour is the highlight. Book tickets in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergwerk Guido",
+            "hu": "Guido bánya",
+            "ro": "Mina Guido",
+            "en": "Guido Mine"
+          },
+          "coords": [
+            18.765,
+            50.298
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:58",
+          "stay_min": 165,
+          "hop_from_prev_min": 53,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Wählen Sie die 'Deep Level' Tour, um 320 Meter unter die Erde zu fahren. Nicht für Klaustrophobiker.",
+            "hu": "Válassza a 'Mélyszint' túrát, hogy 320 méter mélyre menjen. Nem klausztrofóbiásoknak.",
+            "ro": "Alegeți turul 'Deep Level' pentru a coborî la 320 de metri sub pământ. Nu este pentru claustrofobi.",
+            "en": "Choose the 'Deep Level' tour to go 320 meters underground. Not for the claustrophobic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Zabrze beginnt im Herzen der Stadt mit einem Besuch der neugotischen St.-Andreas-Kirche. Von dort aus tauchen Sie im Stadtmuseum in die lokale Geschichte ein, bevor Sie sich dem industriellen Erbe widmen. Der Vormittag gipfelt im Museum für Kohlebergbau, das die Bühne für die kommenden unterirdischen Abenteuer bereitet. Nach dem Mittagessen erkunden Sie den weitläufigen Komplex des Königin-Luise-Stollens, ein Labyrinth aus Gängen und Wasserwegen. Der Nachmittag führt Sie dann noch tiefer in die Erde, in das historische Bergwerk Guido, wo Sie die harte Arbeit der Bergleute hautnah erleben. Dieser intensive Tag endet mit unvergesslichen Eindrücken aus der Welt des 'schwarzen Goldes'.",
+        "hu": "Zabrzei napja a város szívében kezdődik a neogótikus Szent András-templom meglátogatásával. Innen a Városi Múzeumban merül el a helyi történelemben, mielőtt az ipari örökség felé fordulna. A délelőtt a Szénbányászati Múzeumban csúcsosodik ki, amely előkészíti a terepet a következő földalatti kalandokhoz. Ebéd után felfedezi a Lujza királynő-táró hatalmas komplexumát, egy folyosókból és vízi utakból álló labirintust. A délután még mélyebbre viszi a föld alá, a történelmi Guido bányába, ahol testközelből tapasztalhatja meg a bányászok kemény munkáját. Ez az intenzív nap a 'fekete arany' világából származó felejthetetlen benyomásokkal zárul.",
+        "ro": "Ziua dumneavoastră în Zabrze începe în inima orașului cu o vizită la biserica neogotică Sf. Andrei. De acolo, vă scufundați în istoria locală la Muzeul Orașului înainte de a vă îndrepta spre patrimoniul industrial. Dimineața culminează la Muzeul Mineritului de Cărbune, pregătind scena pentru aventurile subterane ce vor urma. După prânz, explorați vastul complex al Galeriei subterane Regina Luiza, un labirint de coridoare și căi navigabile. După-amiaza vă duce și mai adânc în subteran, la mina istorică Guido, unde veți experimenta direct munca grea a minerilor. Această zi intensă se încheie cu impresii de neuitat din lumea 'aurului negru'.",
+        "en": "Your day in Zabrze starts in the heart of the city with a visit to the neo-Gothic St. Andrew's Church. From there, delve into local history at the City Museum before turning to the industrial heritage. The morning culminates at the Museum of Coal Mining, setting the stage for the underground adventures to come. After lunch, you'll explore the vast Queen Louise Adit complex, a labyrinth of corridors and waterways. The afternoon takes you even deeper underground to the historic Guido Mine, where you'll experience the hard work of miners firsthand. This intense day concludes with unforgettable impressions from the world of 'black gold'."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schlesische Klöße (Kluski śląskie)",
+            "tip": "Ein Muss. Weiche Kartoffelklöße mit einer charakteristischen Vertiefung für die Soße."
+          },
+          {
+            "name": "Roulade (Rolada)",
+            "tip": "Herzhaftes Rinderroulade, oft mit Gurken, Speck und Zwiebeln gefüllt."
+          },
+          {
+            "name": "Szyb Maciej",
+            "tip": "Speisen Sie in einem umgebauten Förderturm mit fantastischer Aussicht und moderner schlesischer Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai gombóc (Kluski śląskie)",
+            "tip": "Kötelező megkóstolni. Puha burgonyagombóc jellegzetes mélyedéssel a szósznak."
+          },
+          {
+            "name": "Rolád (Rolada)",
+            "tip": "Kiadós marhahúsrolád, gyakran uborkával, szalonnával és hagymával töltve."
+          },
+          {
+            "name": "Szyb Maciej",
+            "tip": "Étkezzen egy átalakított aknatoronyban, fantasztikus kilátással és modern sziléziai konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Găluște sileziene (Kluski śląskie)",
+            "tip": "O necesitate. Găluște moi de cartofi cu o adâncitură caracteristică pentru sos."
+          },
+          {
+            "name": "Ruladă (Rolada)",
+            "tip": "Ruladă consistentă de vită, adesea umplută cu castraveți, slănină și ceapă."
+          },
+          {
+            "name": "Szyb Maciej",
+            "tip": "Luați masa într-un turn de extracție reconvertit, cu vederi fantastice și bucătărie sileziană modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian Dumplings (Kluski śląskie)",
+            "tip": "A must-try. Soft potato dumplings with a characteristic dent for sauce."
+          },
+          {
+            "name": "Roulade (Rolada)",
+            "tip": "Hearty beef roulade, often stuffed with pickles, bacon, and onion."
+          },
+          {
+            "name": "Szyb Maciej",
+            "tip": "Dine inside a converted mining shaft tower with fantastic views and modern Silesian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Ein ruhiger Spaziergang durch die Themengärten ist der perfekte Ausgleich zum industriellen Erbe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Guido Mine - Stille Zone",
+            "tip": "320 Meter unter der Erde gibt es einen Ort der Stille. Eine einzigartige Erfahrung der Isolation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park Poległych Bohaterów",
+            "tip": "Ein zentraler Park, um auf einer Bank zu sitzen und das städtische Leben zu beobachten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus Kert",
+            "tip": "Egy csendes séta a tematikus kertekben tökéletes ellensúlyt képez az ipari örökséggel szemben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Guido bánya - Csendes zóna",
+            "tip": "320 méterrel a föld alatt van egy csendes hely. Az elszigeteltség egyedülálló élménye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park Poległych Bohaterów",
+            "tip": "Egy központi park, ahol leülhet egy padra és figyelheti a városi életet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "O plimbare liniștită prin grădinile tematice este contraponderea perfectă la patrimoniul industrial.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mina Guido - Zona de liniște",
+            "tip": "La 320 de metri sub pământ, există un loc al tăcerii. O experiență unică de izolare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Poległych Bohaterów",
+            "tip": "Un parc central pentru a sta pe o bancă și a privi viața urbană.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "A quiet walk through the themed gardens is the perfect counterbalance to the industrial heritage.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Guido Mine - Quiet Zone",
+            "tip": "320 meters underground, there is a place of silence. A unique experience of isolation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Poległych Bohaterów Park",
+            "tip": "A central park to sit on a bench and watch the urban life go by.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus Kohle",
+            "tip": "In den Museumsshops der Minen finden Sie einzigartige Figuren und Schmuck aus Kohle."
+          },
+          {
+            "name": "Lokaler Markt (Targowisko)",
+            "tip": "Kaufen Sie frische Produkte und vielleicht einige lokale schlesische Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szén ajándéktárgyak",
+            "tip": "A bányák múzeumi boltjaiban egyedi szénfigurákat és ékszereket talál."
+          },
+          {
+            "name": "Helyi piac (Targowisko)",
+            "tip": "Vásároljon friss termékeket és talán néhány helyi sziléziai specialitást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din cărbune",
+            "tip": "În magazinele de suveniruri ale minelor, veți găsi figurine unice și bijuterii din cărbune."
+          },
+          {
+            "name": "Piața locală (Targowisko)",
+            "tip": "Cumpărați produse proaspete și poate unele specialități locale sileziene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coal Souvenirs",
+            "tip": "In the mine museum shops, you'll find unique figurines and jewelry made from coal."
+          },
+          {
+            "name": "Local Market (Targowisko)",
+            "tip": "Shop for fresh produce and maybe some local Silesian specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie sehr bequeme Schuhe; dieser Tag beinhaltet viel Gehen, sowohl über als auch unter der Erde.",
+          "Die Temperaturen in den Minen sind konstant kühl (ca. 14-16°C), also bringen Sie eine leichte Jacke mit.",
+          "Buchen Sie alle Minenführungen im Voraus online, besonders in der Hochsaison, um Enttäuschungen zu vermeiden.",
+          "Einige Touren sind körperlich anspruchsvoll. Prüfen Sie die Anforderungen, bevor Sie buchen."
+        ],
+        "hu": [
+          "Viseljen nagyon kényelmes cipőt; ez a nap sok sétát tartalmaz, mind a felszínen, mind a föld alatt.",
+          "A bányákban a hőmérséklet állandóan hűvös (kb. 14-16°C), ezért hozzon magával egy könnyű dzsekit.",
+          "Foglalja le az összes bányatúrát előre online, különösen a főszezonban, hogy elkerülje a csalódást.",
+          "Néhány túra fizikailag megterhelő. Ellenőrizze a követelményeket a foglalás előtt."
+        ],
+        "ro": [
+          "Purtați încălțăminte foarte confortabilă; această zi implică mult mers pe jos, atât la suprafață, cât și în subteran.",
+          "Temperaturile din mine sunt constant scăzute (aprox. 14-16°C), așa că aduceți o jachetă subțire.",
+          "Rezervați toate tururile miniere în avans online, mai ales în sezonul de vârf, pentru a evita dezamăgirile.",
+          "Unele tururi sunt solicitante din punct de vedere fizic. Verificați cerințele înainte de a rezerva."
+        ],
+        "en": [
+          "Wear very comfortable shoes; this day involves a lot of walking, both above and below ground.",
+          "Temperatures in the mines are consistently cool (around 14-16°C), so bring a light jacket.",
+          "Book all mine tours in advance online, especially during peak season, to avoid disappointment.",
+          "Some tours are physically demanding. Check the requirements before you book."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 19.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            18.81,
+            50.31
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit frischer Luft. Schließen Sie Ihr Fahrrad sicher ab und genießen Sie die Ruhe.",
+            "hu": "Kezdje a napot friss levegővel. Zárja le biztonságosan a kerékpárját, és élvezze a csendet.",
+            "ro": "Începeți ziua cu aer proaspăt. Asigurați-vă bicicleta și bucurați-vă de liniște.",
+            "en": "Start the day with some fresh air. Lock your bike securely and enjoy the peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Stollen Königin Luise",
+            "hu": "Lujza királynő-táró",
+            "ro": "Galeria subterană Regina Luiza",
+            "en": "Queen Louise Adit"
+          },
+          "coords": [
+            18.801,
+            50.315
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:21",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe des Eingangs ab. Die unterirdische Bootstour ist eine willkommene Pause vom Radfahren.",
+            "hu": "Parkolja le a kerékpárt a bejárat közelében. A földalatti csónaktúra kellemes pihenést nyújt a biciklizés után.",
+            "ro": "Parcați bicicleta lângă intrare. Turul cu barca subterană este o pauză binevenită de la ciclism.",
+            "en": "Park your bike near the entrance. The underground boat tour is a welcome break from cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Andreas-Kirche",
+            "hu": "Szent András-templom",
+            "ro": "Biserica Sf. Andrei",
+            "en": "St. Andrew's Church"
+          },
+          "coords": [
+            18.788,
+            50.3095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:29",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die Architektur zu bewundern, bevor Sie im Stadtzentrum zu Mittag essen.",
+            "hu": "Egy rövid megálló, hogy megcsodálja az építészetet, mielőtt megebédel a városközpontban.",
+            "ro": "O oprire scurtă pentru a admira arhitectura înainte de a lua prânzul în centrul orașului.",
+            "en": "A quick stop to admire the architecture before grabbing lunch in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Zabrze-Museum",
+            "hu": "Zabrze Múzeum",
+            "ro": "Muzeul Zabrze",
+            "en": "Zabrze Museum"
+          },
+          "coords": [
+            18.785,
+            50.307
+          ],
+          "category": "museums",
+          "arrive_at": "13:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Pause nach dem Mittagessen, um mehr über die Stadt zu erfahren.",
+            "hu": "Tökéletes egy ebéd utáni szünetre, hogy többet tudjon meg a városról.",
+            "ro": "Perfect pentru o pauză după prânz pentru a afla mai multe despre oraș.",
+            "en": "Perfect for a post-lunch break to learn more about the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergwerk Guido",
+            "hu": "Guido bánya",
+            "ro": "Mina Guido",
+            "en": "Guido Mine"
+          },
+          "coords": [
+            18.765,
+            50.298
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Die Hauptattraktion des Nachmittags. Planen Sie genügend Zeit für die lange Tour ein.",
+            "hu": "A délután fő attrakciója. Tervezzen elég időt a hosszú túrára.",
+            "ro": "Atracția principală a după-amiezii. Planificați suficient timp pentru turul lung.",
+            "en": "The main attraction for the afternoon. Plan enough time for the long tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Maciej-Schacht",
+            "hu": "Maciej-akna",
+            "ro": "Puțul Maciej",
+            "en": "Maciej Shaft"
+          },
+          "coords": [
+            18.75,
+            50.32
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:59",
+          "stay_min": 45,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um den Tag ausklingen zu lassen, vielleicht mit einem Getränk im Restaurant an der Spitze.",
+            "hu": "Nagyszerű hely a nap befejezéséhez, talán egy itallal a tetején lévő étteremben.",
+            "ro": "Un loc minunat pentru a încheia ziua, poate cu o băutură la restaurantul din vârf.",
+            "en": "A great spot to end the day, perhaps with a drink at the restaurant on top."
+          }
+        },
+        {
+          "name": {
+            "de": "Stahlhaus",
+            "hu": "Acélház",
+            "ro": "Casa de Oțel",
+            "en": "Steel House"
+          },
+          "coords": [
+            18.79,
+            50.306
+          ],
+          "category": "famous residences",
+          "arrive_at": "18:08",
+          "stay_min": 46,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 12,
+          "tip_5lang": {
+            "de": "Fahren Sie an diesem architektonischen Experiment vorbei und bewundern Sie die einzigartige Metallkonstruktion.",
+            "hu": "Tekerjen el emellett az építészeti kísérlet mellett, és csodálja meg az egyedi fémszerkezetet.",
+            "ro": "Treceți pe lângă acest experiment arhitectural și admirați construcția metalică unică.",
+            "en": "Cycle past this architectural experiment and admire the unique metal construction."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrradtour durch Zabrze beginnt grün im Botanischen Garten. Von dort radeln Sie zum weitläufigen Komplex des Königin-Luise-Stollens. Nach der unterirdischen Erkundung geht es weiter ins Stadtzentrum. Dort legen Sie kurze Stopps an der St.-Andreas-Kirche und dem Zabrze-Museum ein, ideal für eine Mittagspause. Am Nachmittag steht das beeindruckende Bergwerk Guido auf dem Programm, die größte Attraktion des Tages. Zum Abschluss radeln Sie zum Maciej-Schacht, wo Sie den Tag mit einer atemberaubenden Aussicht und vielleicht einem Abendessen im Turmrestaurant ausklingen lassen. Auf dem Rückweg werfen Sie noch einen Blick auf das futuristische Stahlhaus.",
+        "hu": "Zabrze-i kerékpártúrája zölden indul a Botanikus Kertben. Onnan a Lujza királynő-táró hatalmas komplexumához teker. A földalatti felfedezés után a városközpont felé veszi az irányt. Ott rövid megállókat tesz a Szent András-templomnál és a Zabrze Múzeumnál, ami ideális egy ebédszünethez. Délután a lenyűgöző Guido bánya szerepel a programban, a nap legnagyobb attrakciója. Végül a Maciej-aknához biciklizik, ahol lélegzetelállító kilátással és esetleg egy vacsorával zárja a napot a toronyétteremben. Visszafelé még egy pillantást vet a futurisztikus Acélházra.",
+        "ro": "Turul dumneavoastră cu bicicleta prin Zabrze începe în verdeața Grădinii Botanice. De acolo, pedalați spre vastul complex al Galeriei subterane Regina Luiza. După explorarea subterană, continuați spre centrul orașului. Acolo, faceți opriri scurte la Biserica Sf. Andrei și la Muzeul Zabrze, ideale pentru o pauză de prânz. După-amiaza este dedicată impresionantei Mine Guido, cea mai mare atracție a zilei. În cele din urmă, pedalați spre Puțul Maciej, unde puteți încheia ziua cu o priveliște uluitoare și poate o cină la restaurantul din turn. La întoarcere, aruncați o privire și la futurista Casă de Oțel.",
+        "en": "Your cycling tour of Zabrze starts green in the Botanical Garden. From there, you'll pedal to the vast Queen Louise Adit complex. After the underground exploration, you'll continue to the city center. There, you'll make short stops at St. Andrew's Church and the Zabrze Museum, ideal for a lunch break. The afternoon is dedicated to the impressive Guido Mine, the day's biggest attraction. Finally, you'll cycle to the Maciej Shaft, where you can end the day with a breathtaking view and perhaps dinner at the tower restaurant. On your way back, you'll catch a glimpse of the futuristic Steel House."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schlesische Klöße (Kluski śląskie)",
+            "tip": "Ein Muss. Weiche Kartoffelklöße mit einer charakteristischen Vertiefung für die Soße."
+          },
+          {
+            "name": "Roulade (Rolada)",
+            "tip": "Herzhaftes Rinderroulade, oft mit Gurken, Speck und Zwiebeln gefüllt."
+          },
+          {
+            "name": "Szyb Maciej",
+            "tip": "Speisen Sie in einem umgebauten Förderturm mit fantastischer Aussicht und moderner schlesischer Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai gombóc (Kluski śląskie)",
+            "tip": "Kötelező megkóstolni. Puha burgonyagombóc jellegzetes mélyedéssel a szósznak."
+          },
+          {
+            "name": "Rolád (Rolada)",
+            "tip": "Kiadós marhahúsrolád, gyakran uborkával, szalonnával és hagymával töltve."
+          },
+          {
+            "name": "Szyb Maciej",
+            "tip": "Étkezzen egy átalakított aknatoronyban, fantasztikus kilátással és modern sziléziai konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Găluște sileziene (Kluski śląskie)",
+            "tip": "O necesitate. Găluște moi de cartofi cu o adâncitură caracteristică pentru sos."
+          },
+          {
+            "name": "Ruladă (Rolada)",
+            "tip": "Ruladă consistentă de vită, adesea umplută cu castraveți, slănină și ceapă."
+          },
+          {
+            "name": "Szyb Maciej",
+            "tip": "Luați masa într-un turn de extracție reconvertit, cu vederi fantastice și bucătărie sileziană modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian Dumplings (Kluski śląskie)",
+            "tip": "A must-try. Soft potato dumplings with a characteristic dent for sauce."
+          },
+          {
+            "name": "Roulade (Rolada)",
+            "tip": "Hearty beef roulade, often stuffed with pickles, bacon, and onion."
+          },
+          {
+            "name": "Szyb Maciej",
+            "tip": "Dine inside a converted mining shaft tower with fantastic views and modern Silesian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Ein ruhiger Spaziergang durch die Themengärten ist der perfekte Ausgleich zum industriellen Erbe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Guido Mine - Stille Zone",
+            "tip": "320 Meter unter der Erde gibt es einen Ort der Stille. Eine einzigartige Erfahrung der Isolation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park Poległych Bohaterów",
+            "tip": "Ein zentraler Park, um auf einer Bank zu sitzen und das städtische Leben zu beobachten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus Kert",
+            "tip": "Egy csendes séta a tematikus kertekben tökéletes ellensúlyt képez az ipari örökséggel szemben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Guido bánya - Csendes zóna",
+            "tip": "320 méterrel a föld alatt van egy csendes hely. Az elszigeteltség egyedülálló élménye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park Poległych Bohaterów",
+            "tip": "Egy központi park, ahol leülhet egy padra és figyelheti a városi életet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "O plimbare liniștită prin grădinile tematice este contraponderea perfectă la patrimoniul industrial.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mina Guido - Zona de liniște",
+            "tip": "La 320 de metri sub pământ, există un loc al tăcerii. O experiență unică de izolare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Poległych Bohaterów",
+            "tip": "Un parc central pentru a sta pe o bancă și a privi viața urbană.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "A quiet walk through the themed gardens is the perfect counterbalance to the industrial heritage.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Guido Mine - Quiet Zone",
+            "tip": "320 meters underground, there is a place of a silence. A unique experience of isolation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Poległych Bohaterów Park",
+            "tip": "A central park to sit on a bench and watch the urban life go by.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus Kohle",
+            "tip": "In den Museumsshops der Minen finden Sie einzigartige Figuren und Schmuck aus Kohle."
+          },
+          {
+            "name": "Lokaler Markt (Targowisko)",
+            "tip": "Kaufen Sie frische Produkte und vielleicht einige lokale schlesische Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szén ajándéktárgyak",
+            "tip": "A bányák múzeumi boltjaiban egyedi szénfigurákat és ékszereket talál."
+          },
+          {
+            "name": "Helyi piac (Targowisko)",
+            "tip": "Vásároljon friss termékeket és talán néhány helyi sziléziai specialitást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din cărbune",
+            "tip": "În magazinele de suveniruri ale minelor, veți găsi figurine unice și bijuterii din cărbune."
+          },
+          {
+            "name": "Piața locală (Targowisko)",
+            "tip": "Cumpărați produse proaspete și poate unele specialități locale sileziene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coal Souvenirs",
+            "tip": "In the mine museum shops, you'll find unique figurines and jewelry made from coal."
+          },
+          {
+            "name": "Local Market (Targowisko)",
+            "tip": "Shop for fresh produce and maybe some local Silesian specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Zabrze ist hügelig; seien Sie auf einige Anstiege vorbereitet.",
+          "Nutzen Sie ausgewiesene Radwege, wo immer möglich.",
+          "Nehmen Sie ein starkes Schloss mit, um Ihr Fahrrad an den verschiedenen Standorten sicher abzustellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "Zabrze dombos; készüljön fel néhány emelkedőre.",
+          "Használja a kijelölt kerékpárutakat, ahol csak lehetséges.",
+          "Vigyen magával egy erős lakatot, hogy biztonságosan lezárhassa a kerékpárját a különböző helyszíneken."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Zabrze este deluros; fiți pregătit pentru câteva urcări.",
+          "Folosiți pistele de biciclete desemnate ori de câte ori este posibil.",
+          "Luați un lacăt solid pentru a vă asigura bicicleta la diferitele locații."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Zabrze is hilly; be prepared for some climbs.",
+          "Use designated bike paths wherever possible.",
+          "Bring a strong lock to secure your bike at the various locations."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Cluster 'Industrie Ost'",
+            "hu": "'Kelet-Ipari' Klaszter Parkoló",
+            "ro": "Parcare Cluster 'Industria de Est'",
+            "en": "Parking Cluster 'Industry East'"
+          },
+          "coords": [
+            18.802,
+            50.316
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den Stollen und das Bergbaumuseum zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a tárót és a bányamúzeumot.",
+            "ro": "Parcați aici pentru a explora galeria și muzeul minier pe jos.",
+            "en": "Park here to explore the adit and the mining museum on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stollen Königin Luise",
+            "hu": "Lujza királynő-táró",
+            "ro": "Galeria subterană Regina Luiza",
+            "en": "Queen Louise Adit"
+          },
+          "coords": [
+            18.801,
+            50.315
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:03",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Abenteuer mit der faszinierenden unterirdischen Bootstour.",
+            "hu": "Kezdje kalandját a lenyűgöző földalatti csónaktúrával.",
+            "ro": "Începeți aventura cu fascinantul tur cu barca subterană.",
+            "en": "Start your adventure with the fascinating underground boat tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Kohlebergbau",
+            "hu": "Szénbányászati Múzeum",
+            "ro": "Muzeul Mineritului de Cărbune",
+            "en": "Museum of Coal Mining"
+          },
+          "coords": [
+            18.8,
+            50.314
+          ],
+          "category": "museums",
+          "arrive_at": "11:06",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vertiefen Sie Ihr Wissen über die Technologie und die soziale Geschichte des Bergbaus.",
+            "hu": "Mélyítse el tudását a bányászat technológiájáról és társadalomtörténetéről.",
+            "ro": "Aprofundați-vă cunoștințele despre tehnologia și istoria socială a mineritului.",
+            "en": "Deepen your knowledge of the technology and social history of mining."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Cluster 'Industrie West'",
+            "hu": "'Nyugat-Ipari' Klaszter Parkoló",
+            "ro": "Parcare Cluster 'Industria de Vest'",
+            "en": "Parking Cluster 'Industry West'"
+          },
+          "coords": [
+            18.764,
+            50.299
+          ],
+          "category": "transport",
+          "arrive_at": "12:30",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Der Ausgangspunkt für das Bergwerk Guido. Suchen Sie nach einem Platz und planen Sie einen langen Aufenthalt.",
+            "hu": "A Guido bánya kiindulópontja. Keressen egy helyet, és tervezzen hosszú tartózkodást.",
+            "ro": "Punctul de plecare pentru Mina Guido. Căutați un loc și planificați o ședere lungă.",
+            "en": "The starting point for the Guido Mine. Find a spot and plan for a long stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergwerk Guido",
+            "hu": "Guido bánya",
+            "ro": "Mina Guido",
+            "en": "Guido Mine"
+          },
+          "coords": [
+            18.765,
+            50.298
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:33",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil und essen Sie anschließend in der 'Pumpenstation'-Kneipe zu Mittag.",
+            "hu": "Vegyen részt egy vezetett túrán, majd ebédeljen a 'Pumpenstation' kocsmában.",
+            "ro": "Participați la un tur ghidat și apoi luați prânzul la pub-ul 'Pumpenstation'.",
+            "en": "Take a guided tour and then have lunch at the 'Pumpenstation' pub."
+          }
+        },
+        {
+          "name": {
+            "de": "Maciej-Schacht",
+            "hu": "Maciej-akna",
+            "ro": "Puțul Maciej",
+            "en": "Maciej Shaft"
+          },
+          "coords": [
+            18.75,
+            50.32
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:52",
+          "stay_min": 140,
+          "hop_mode": "car",
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss des Tages mit einem Panoramablick und einem gehobenen Abendessen.",
+            "hu": "A nap tökéletes befejezése panorámás kilátással és egy elegáns vacsorával.",
+            "ro": "Finalul perfect al zilei, cu o priveliște panoramică și o cină rafinată.",
+            "en": "The perfect end to the day with a panoramic view and an upscale dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour durch Zabrze ist in drei Cluster aufgeteilt. Sie beginnen im Osten und parken in der Nähe des Königin-Luise-Stollens, den Sie am Vormittag zusammen mit dem Bergbaumuseum zu Fuß erkunden. Gegen Mittag fahren Sie zum westlichen Industriecluster. Dort parken Sie erneut und verbringen den Großteil des Nachmittags im beeindruckenden Guido-Bergwerk, einschließlich einer Mittagspause 320 Meter unter der Erde. Den späten Nachmittag und Abend verbringen Sie im dritten Cluster, dem Maciej-Schacht. Nach einer kurzen Fahrt können Sie dort die Aussicht genießen und den Tag mit einem ausgezeichneten Abendessen im Turmrestaurant ausklingen lassen. Diese Route minimiert die Parkplatzsuche und maximiert das Erlebnis.",
+        "hu": "Zabrze-i autós túrája három klaszterre oszlik. Keleten kezd, és a Lujza királynő-táró közelében parkol, amelyet délelőtt a Bányamúzeummal együtt gyalogosan fedez fel. Dél körül áthajt a nyugati ipari klaszterbe. Ott újra leparkol, és a délután nagy részét a lenyűgöző Guido bányában tölti, beleértve egy ebédszünetet 320 méterrel a föld alatt. A késő délutánt és estét a harmadik klaszterben, a Maciej-aknában tölti. Egy rövid autóút után élvezheti a kilátást, és a napot egy kiváló vacsorával zárhatja a toronyétteremben. Ez az útvonal minimalizálja a parkolóhely-keresést és maximalizálja az élményt.",
+        "ro": "Turul dumneavoastră cu mașina prin Zabrze este împărțit în trei clustere. Începeți în est, parcând lângă Galeria subterană Regina Luiza, pe care o explorați pe jos dimineața, împreună cu Muzeul Mineritului. În jurul prânzului, conduceți spre clusterul industrial de vest. Acolo, parcați din nou și petreceți cea mai mare parte a după-amiezii în impresionanta Mină Guido, inclusiv o pauză de prânz la 320 de metri sub pământ. Seara târzie și seara le petreceți în al treilea cluster, Puțul Maciej. După o scurtă călătorie cu mașina, vă puteți bucura de priveliște și puteți încheia ziua cu o cină excelentă la restaurantul din turn. Acest traseu minimizează căutarea parcării și maximizează experiența.",
+        "en": "Your car tour of Zabrze is divided into three clusters. You start in the east, parking near the Queen Louise Adit, which you explore on foot in the morning along with the Mining Museum. Around noon, you drive to the western industrial cluster. There, you park again and spend most of the afternoon in the impressive Guido Mine, including a lunch break 320 meters underground. The late afternoon and evening are spent at the third cluster, the Maciej Shaft. After a short drive, you can enjoy the view and end the day with an excellent dinner at the tower restaurant. This route minimizes parking searches and maximizes the experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schlesische Klöße (Kluski śląskie)",
+            "tip": "Ein Muss. Weiche Kartoffelklöße mit einer charakteristischen Vertiefung für die Soße."
+          },
+          {
+            "name": "Roulade (Rolada)",
+            "tip": "Herzhaftes Rinderroulade, oft mit Gurken, Speck und Zwiebeln gefüllt."
+          },
+          {
+            "name": "Szyb Maciej",
+            "tip": "Speisen Sie in einem umgebauten Förderturm mit fantastischer Aussicht und moderner schlesischer Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai gombóc (Kluski śląskie)",
+            "tip": "Kötelező megkóstolni. Puha burgonyagombóc jellegzetes mélyedéssel a szósznak."
+          },
+          {
+            "name": "Rolád (Rolada)",
+            "tip": "Kiadós marhahúsrolád, gyakran uborkával, szalonnával és hagymával töltve."
+          },
+          {
+            "name": "Szyb Maciej",
+            "tip": "Étkezzen egy átalakított aknatoronyban, fantasztikus kilátással és modern sziléziai konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Găluște sileziene (Kluski śląskie)",
+            "tip": "O necesitate. Găluște moi de cartofi cu o adâncitură caracteristică pentru sos."
+          },
+          {
+            "name": "Ruladă (Rolada)",
+            "tip": "Ruladă consistentă de vită, adesea umplută cu castraveți, slănină și ceapă."
+          },
+          {
+            "name": "Szyb Maciej",
+            "tip": "Luați masa într-un turn de extracție reconvertit, cu vederi fantastice și bucătărie sileziană modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian Dumplings (Kluski śląskie)",
+            "tip": "A must-try. Soft potato dumplings with a characteristic dent for sauce."
+          },
+          {
+            "name": "Roulade (Rolada)",
+            "tip": "Hearty beef roulade, often stuffed with pickles, bacon, and onion."
+          },
+          {
+            "name": "Szyb Maciej",
+            "tip": "Dine inside a converted mining shaft tower with fantastic views and modern Silesian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Ein ruhiger Spaziergang durch die Themengärten ist der perfekte Ausgleich zum industriellen Erbe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Guido Mine - Stille Zone",
+            "tip": "320 Meter unter der Erde gibt es einen Ort der Stille. Eine einzigartige Erfahrung der Isolation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park Poległych Bohaterów",
+            "tip": "Ein zentraler Park, um auf einer Bank zu sitzen und das städtische Leben zu beobachten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus Kert",
+            "tip": "Egy csendes séta a tematikus kertekben tökéletes ellensúlyt képez az ipari örökséggel szemben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Guido bánya - Csendes zóna",
+            "tip": "320 méterrel a föld alatt van egy csendes hely. Az elszigeteltség egyedülálló élménye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park Poległych Bohaterów",
+            "tip": "Egy központi park, ahol leülhet egy padra és figyelheti a városi életet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "O plimbare liniștită prin grădinile tematice este contraponderea perfectă la patrimoniul industrial.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mina Guido - Zona de liniște",
+            "tip": "La 320 de metri sub pământ, există un loc al tăcerii. O experiență unică de izolare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Poległych Bohaterów",
+            "tip": "Un parc central pentru a sta pe o bancă și a privi viața urbană.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "A quiet walk through the themed gardens is the perfect counterbalance to the industrial heritage.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Guido Mine - Quiet Zone",
+            "tip": "320 meters underground, there is a place of silence. A unique experience of isolation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Poległych Bohaterów Park",
+            "tip": "A central park to sit on a bench and watch the urban life go by.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus Kohle",
+            "tip": "In den Museumsshops der Minen finden Sie einzigartige Figuren und Schmuck aus Kohle."
+          },
+          {
+            "name": "Lokaler Markt (Targowisko)",
+            "tip": "Kaufen Sie frische Produkte und vielleicht einige lokale schlesische Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szén ajándéktárgyak",
+            "tip": "A bányák múzeumi boltjaiban egyedi szénfigurákat és ékszereket talál."
+          },
+          {
+            "name": "Helyi piac (Targowisko)",
+            "tip": "Vásároljon friss termékeket és talán néhány helyi sziléziai specialitást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din cărbune",
+            "tip": "În magazinele de suveniruri ale minelor, veți găsi figurine unice și bijuterii din cărbune."
+          },
+          {
+            "name": "Piața locală (Targowisko)",
+            "tip": "Cumpărați produse proaspete și poate unele specialități locale sileziene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coal Souvenirs",
+            "tip": "In the mine museum shops, you'll find unique figurines and jewelry made from coal."
+          },
+          {
+            "name": "Local Market (Targowisko)",
+            "tip": "Shop for fresh produce and maybe some local Silesian specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Verwenden Sie eine Navigations-App, um Staus zwischen den Clustern zu vermeiden.",
+          "Die Parkplätze an den Hauptattraktionen können voll sein. Planen Sie etwas mehr Zeit für die Parkplatzsuche ein.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen.",
+          "Die Cluster-Strategie spart Zeit und Nerven. Halten Sie sich an den Plan, um das Beste aus dem Tag zu machen."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a dugók elkerülésére a klaszterek között.",
+          "A fő látványosságok parkolói zsúfoltak lehetnek. Tervezzen egy kicsit több időt a parkolóhely keresésére.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban.",
+          "A klaszter-stratégia időt és idegeket takarít meg. Tartsa magát a tervhez, hogy a legtöbbet hozza ki a napból."
+        ],
+        "ro": [
+          "Folosiți o aplicație de navigație pentru a evita blocajele de trafic între clustere.",
+          "Parcările de la atracțiile principale pot fi aglomerate. Planificați un pic mai mult timp pentru a găsi un loc de parcare.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Strategia clusterelor economisește timp și nervi. Respectați planul pentru a profita la maximum de zi."
+        ],
+        "en": [
+          "Use a navigation app to avoid traffic jams between clusters.",
+          "Parking at the main attractions can be crowded. Allow a little extra time to find a parking spot.",
+          "Do not leave valuables visible in the car.",
+          "The cluster strategy saves time and nerves. Stick to the plan to make the most of the day."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrum",
+            "hu": "Városközpont",
+            "ro": "Centrul orașului",
+            "en": "City Center"
+          },
+          "coords": [
+            18.7885,
+            50.309
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an einer zentralen Haltestelle in der Nähe der St.-Andreas-Kirche.",
+            "hu": "Kezdje a napot egy központi megállónál a Szent András-templom közelében.",
+            "ro": "Începeți ziua la o stație centrală lângă Biserica Sf. Andrei.",
+            "en": "Start your day at a central stop near St. Andrew's Church."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Andreas-Kirche",
+            "hu": "Szent András-templom",
+            "ro": "Biserica Sf. Andrei",
+            "en": "St. Andrew's Church"
+          },
+          "coords": [
+            18.788,
+            50.3095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:02",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kurzer Blick auf die beeindruckende Fassade, bevor der Tag richtig beginnt.",
+            "hu": "Egy gyors pillantás a lenyűgöző homlokzatra, mielőtt a nap igazán elkezdődik.",
+            "ro": "O privire rapidă la fațada impresionantă înainte ca ziua să înceapă cu adevărat.",
+            "en": "A quick look at the impressive facade before the day really gets started."
+          }
+        },
+        {
+          "name": {
+            "de": "Zabrze-Museum",
+            "hu": "Zabrze Múzeum",
+            "ro": "Muzeul Zabrze",
+            "en": "Zabrze Museum"
+          },
+          "coords": [
+            18.785,
+            50.307
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kirchplatz zum Museum, das die Geschichte der Stadt erzählt.",
+            "hu": "Egy rövid séta a templomtértől a múzeumig, amely a város történetét meséli el.",
+            "ro": "O scurtă plimbare de la piața bisericii la muzeul care spune povestea orașului.",
+            "en": "A short walk from the church square to the museum that tells the city's story."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergwerk Guido",
+            "hu": "Guido bánya",
+            "ro": "Mina Guido",
+            "en": "Guido Mine"
+          },
+          "coords": [
+            18.765,
+            50.298
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:20",
+          "stay_min": 180,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder eine Straßenbahn. Dies wird Ihr Hauptprogrammpunkt für den Nachmittag sein.",
+            "hu": "Menjen busszal vagy villamossal. Ez lesz a délutáni fő programpont.",
+            "ro": "Luați un autobuz sau un tramvai. Acesta va fi punctul principal al programului dumneavoastră de după-amiază.",
+            "en": "Take a bus or tram. This will be your main event for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Stollen Königin Luise",
+            "hu": "Lujza királynő-táró",
+            "ro": "Galeria subterană Regina Luiza",
+            "en": "Queen Louise Adit"
+          },
+          "coords": [
+            18.801,
+            50.315
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:55",
+          "stay_min": 160,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Eine weitere Fahrt mit öffentlichen Verkehrsmitteln bringt Sie zum zweiten großen Industriekomplex des Tages.",
+            "hu": "Egy újabb tömegközlekedési út viszi a nap második nagy ipari komplexumához.",
+            "ro": "O altă călătorie cu transportul public vă duce la al doilea mare complex industrial al zilei.",
+            "en": "Another transit ride takes you to the second major industrial complex of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt im Stadtzentrum mit kurzen Spaziergängen zwischen der St.-Andreas-Kirche und dem Zabrze-Museum. Nach diesem kulturellen Einstieg nehmen Sie einen Bus oder eine Straßenbahn zum ersten großen Industrie-Highlight: dem Guido-Bergwerk, wo Sie den größten Teil des Tages verbringen werden. Eine Mittagspause unter Tage ist sehr zu empfehlen. Am Nachmittag bringt Sie eine weitere Fahrt mit den öffentlichen Verkehrsmitteln zum Königin-Luise-Stollen. Dort beenden Sie Ihren Tag mit einer unvergesslichen unterirdischen Bootstour. Diese Route nutzt das öffentliche Verkehrsnetz, um die weit auseinander liegenden Hauptattraktionen effizient zu verbinden.",
+        "hu": "Tömegközlekedési túrája a városközpontban kezdődik rövid sétákkal a Szent András-templom és a Zabrze Múzeum között. E kulturális bevezető után busszal vagy villamossal utazik az első nagy ipari látványossághoz: a Guido bányához, ahol a nap nagy részét tölti. Egy földalatti ebédszünet erősen ajánlott. Délután egy újabb tömegközlekedési út viszi a Lujza királynő-táróhoz. Ott egy felejthetetlen földalatti csónaktúrával zárja a napot. Ez az útvonal a tömegközlekedési hálózatot használja a távol eső fő látványosságok hatékony összekötésére.",
+        "ro": "Turul dumneavoastră cu transportul public începe în centrul orașului, cu plimbări scurte între Biserica Sf. Andrei și Muzeul Zabrze. După această introducere culturală, luați un autobuz sau un tramvai spre primul punct culminant industrial: Mina Guido, unde veți petrece cea mai mare parte a zilei. O pauză de prânz în subteran este foarte recomandată. După-amiaza, o altă călătorie cu transportul public vă va duce la Galeria subterană Regina Luiza. Acolo, veți încheia ziua cu un tur subteran cu barca de neuitat. Acest traseu utilizează rețeaua de transport public pentru a conecta eficient principalele atracții îndepărtate.",
+        "en": "Your public transport tour begins in the city center with short walks between St. Andrew's Church and the Zabrze Museum. After this cultural introduction, you take a bus or tram to the first major industrial highlight: the Guido Mine, where you will spend most of the day. A lunch break underground is highly recommended. In the afternoon, another transit ride will take you to the Queen Louise Adit. There, you'll end your day with an unforgettable underground boat tour. This route uses the public transport network to efficiently connect the distant main attractions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schlesische Klöße (Kluski śląskie)",
+            "tip": "Ein Muss. Weiche Kartoffelklöße mit einer charakteristischen Vertiefung für die Soße."
+          },
+          {
+            "name": "Roulade (Rolada)",
+            "tip": "Herzhaftes Rinderroulade, oft mit Gurken, Speck und Zwiebeln gefüllt."
+          },
+          {
+            "name": "Szyb Maciej",
+            "tip": "Speisen Sie in einem umgebauten Förderturm mit fantastischer Aussicht und moderner schlesischer Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai gombóc (Kluski śląskie)",
+            "tip": "Kötelező megkóstolni. Puha burgonyagombóc jellegzetes mélyedéssel a szósznak."
+          },
+          {
+            "name": "Rolád (Rolada)",
+            "tip": "Kiadós marhahúsrolád, gyakran uborkával, szalonnával és hagymával töltve."
+          },
+          {
+            "name": "Szyb Maciej",
+            "tip": "Étkezzen egy átalakított aknatoronyban, fantasztikus kilátással és modern sziléziai konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Găluște sileziene (Kluski śląskie)",
+            "tip": "O necesitate. Găluște moi de cartofi cu o adâncitură caracteristică pentru sos."
+          },
+          {
+            "name": "Ruladă (Rolada)",
+            "tip": "Ruladă consistentă de vită, adesea umplută cu castraveți, slănină și ceapă."
+          },
+          {
+            "name": "Szyb Maciej",
+            "tip": "Luați masa într-un turn de extracție reconvertit, cu vederi fantastice și bucătărie sileziană modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian Dumplings (Kluski śląskie)",
+            "tip": "A must-try. Soft potato dumplings with a characteristic dent for sauce."
+          },
+          {
+            "name": "Roulade (Rolada)",
+            "tip": "Hearty beef roulade, often stuffed with pickles, bacon, and onion."
+          },
+          {
+            "name": "Szyb Maciej",
+            "tip": "Dine inside a converted mining shaft tower with fantastic views and modern Silesian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Ein ruhiger Spaziergang durch die Themengärten ist der perfekte Ausgleich zum industriellen Erbe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Guido Mine - Stille Zone",
+            "tip": "320 Meter unter der Erde gibt es einen Ort der Stille. Eine einzigartige Erfahrung der Isolation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park Poległych Bohaterów",
+            "tip": "Ein zentraler Park, um auf einer Bank zu sitzen und das städtische Leben zu beobachten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus Kert",
+            "tip": "Egy csendes séta a tematikus kertekben tökéletes ellensúlyt képez az ipari örökséggel szemben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Guido bánya - Csendes zóna",
+            "tip": "320 méterrel a föld alatt van egy csendes hely. Az elszigeteltség egyedülálló élménye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park Poległych Bohaterów",
+            "tip": "Egy központi park, ahol leülhet egy padra és figyelheti a városi életet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "O plimbare liniștită prin grădinile tematice este contraponderea perfectă la patrimoniul industrial.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mina Guido - Zona de liniște",
+            "tip": "La 320 de metri sub pământ, există un loc al tăcerii. O experiență unică de izolare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Poległych Bohaterów",
+            "tip": "Un parc central pentru a sta pe o bancă și a privi viața urbană.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "A quiet walk through the themed gardens is the perfect counterbalance to the industrial heritage.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Guido Mine - Quiet Zone",
+            "tip": "320 meters underground, there is a place of silence. A unique experience of isolation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Poległych Bohaterów Park",
+            "tip": "A central park to sit on a bench and watch the urban life go by.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus Kohle",
+            "tip": "In den Museumsshops der Minen finden Sie einzigartige Figuren und Schmuck aus Kohle."
+          },
+          {
+            "name": "Lokaler Markt (Targowisko)",
+            "tip": "Kaufen Sie frische Produkte und vielleicht einige lokale schlesische Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szén ajándéktárgyak",
+            "tip": "A bányák múzeumi boltjaiban egyedi szénfigurákat és ékszereket talál."
+          },
+          {
+            "name": "Helyi piac (Targowisko)",
+            "tip": "Vásároljon friss termékeket és talán néhány helyi sziléziai specialitást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din cărbune",
+            "tip": "În magazinele de suveniruri ale minelor, veți găsi figurine unice și bijuterii din cărbune."
+          },
+          {
+            "name": "Piața locală (Targowisko)",
+            "tip": "Cumpărați produse proaspete și poate unele specialități locale sileziene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coal Souvenirs",
+            "tip": "In the mine museum shops, you'll find unique figurines and jewelry made from coal."
+          },
+          {
+            "name": "Local Market (Targowisko)",
+            "tip": "Shop for fresh produce and maybe some local Silesian specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um unbegrenzte Fahrten zu ermöglichen.",
+          "Verwenden Sie eine ÖPNV-App, um Routen und Abfahrtszeiten in Echtzeit zu überprüfen.",
+          "Beachten Sie, dass Busse und Straßenbahnen zu Stoßzeiten voll sein können. Planen Sie entsprechend.",
+          "Haben Sie etwas Bargeld für Tickets dabei, falls die Automaten keine Karten akzeptieren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez a korlátlan utazás érdekében.",
+          "Használjon tömegközlekedési alkalmazást az útvonalak és indulási idők valós idejű ellenőrzéséhez.",
+          "Vegye figyelembe, hogy a buszok és villamosok csúcsidőben zsúfoltak lehetnek. Tervezzen ennek megfelelően.",
+          "Legyen Önnél készpénz a jegyekhez, ha az automaták nem fogadnak el kártyát."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a avea călătorii nelimitate.",
+          "Utilizați o aplicație de transport public pentru a verifica rutele și orele de plecare în timp real.",
+          "Rețineți că autobuzele și tramvaiele pot fi aglomerate la orele de vârf. Planificați în consecință.",
+          "Aveți la dumneavoastră numerar pentru bilete, în cazul în care automatele nu acceptă carduri."
+        ],
+        "en": [
+          "Buy a day pass for public transport to allow for unlimited travel.",
+          "Use a public transport app to check routes and departure times in real-time.",
+          "Be aware that buses and trams can be crowded during peak hours. Plan accordingly.",
+          "Have some cash on hand for tickets in case the machines don't accept cards."
+        ]
+      }
+    }
+  }
+}

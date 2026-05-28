@@ -1,0 +1,1051 @@
+{
+  "city_id": "greece-amfilochia-cities-v2",
+  "anchor": {
+    "name": "Amfilochia",
+    "coords": [
+      21.1667,
+      38.85
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Hafen von Amfilochia",
+          "coords": [
+            21.166,
+            38.862
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für einen Morgenkaffee am Wasser.",
+            "hu": "Tökéletes egy reggeli kávéhoz a vízparton.",
+            "ro": "Perfect pentru o cafea de dimineață pe malul apei.",
+            "en": "Perfect for a morning coffee by the water."
+          }
+        },
+        {
+          "name": "Amfilochia Promenade",
+          "coords": [
+            21.1665,
+            38.8615
+          ],
+          "category": "parks",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Küste des Ambrakischen Golfs.",
+            "hu": "Sétáljon végig az Amvrakiai-öböl partján.",
+            "ro": "Plimbați-vă de-a lungul coastei Golfului Ambracian.",
+            "en": "Stroll along the coast of the Ambracian Gulf."
+          }
+        },
+        {
+          "name": "Kulturzentrum",
+          "coords": [
+            21.168,
+            38.86
+          ],
+          "category": "theatres",
+          "arrive_at": "11:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie sich lokale Kunstausstellungen an.",
+            "hu": "Tekintse meg a helyi művészeti kiállításokat.",
+            "ro": "Vedeți expozițiile de artă locală.",
+            "en": "Check out local art exhibitions."
+          }
+        },
+        {
+          "name": "Kirche Agios Athanasios",
+          "coords": [
+            21.167,
+            38.858
+          ],
+          "category": "religious",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die traditionelle orthodoxe Architektur.",
+            "hu": "Figyelje meg a hagyományos ortodox építészetet.",
+            "ro": "Observați arhitectura ortodoxă tradițională.",
+            "en": "Notice the traditional Orthodox architecture."
+          }
+        },
+        {
+          "name": "Antikes Limnaia",
+          "coords": [
+            21.16,
+            38.855
+          ],
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bringen Sie Wasser für den Aufstieg zu den Ruinen mit.",
+            "hu": "Hozzon vizet a romokhoz vezető emelkedőhöz.",
+            "ro": "Aduceți apă pentru urcarea către ruine.",
+            "en": "Bring water for the climb to the ruins."
+          }
+        },
+        {
+          "name": "Bouka Strand",
+          "coords": [
+            21.155,
+            38.87
+          ],
+          "category": "beach",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal zum Entspannen nach dem Wandern.",
+            "hu": "Ideális pihenésre a túrázás után.",
+            "ro": "Ideal pentru relaxare după drumeție.",
+            "en": "Ideal for relaxing after hiking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt entspannt am Hafen von Amfilochia und auf der angrenzenden Promenade mit Blick auf das Wasser. Am Mittag erkunden Sie das Kulturzentrum und die Architektur der Kirche Agios Athanasios im Zentrum. Der Nachmittag ist für den historischen Aufstieg zum Antiken Limnaia reserviert, wo Sie Ruinen besichtigen können. Den Tag lassen Sie am ruhigen Bouka Strand ausklingen.",
+        "hu": "A reggel nyugodtan indul Amfilochia kikötőjében és a szomszédos sétányon, ahonnan kilátás nyílik a vízre. Délben a kulturális központot és az Agios Athanasios templom építészetét fedezheti fel a központban. A délután az ókori Limnaia romjaihoz vezető történelmi sétáé. A napot a csendes Bouka strandon pihenheti ki.",
+        "ro": "Dimineața începe relaxant la portul Amfilochia și pe promenada adiacentă, cu vedere la apă. La prânz, explorați centrul cultural și arhitectura Bisericii Agios Athanasios din centru. După-amiaza este rezervată urcării istorice către Limnaia Antică, unde puteți vizita ruinele. Veți încheia ziua relaxându-vă pe plaja liniștită Bouka.",
+        "en": "The morning starts calmly at the Port of Amfilochia and the adjacent promenade overlooking the water. At midday, you explore the cultural center and the architecture of Agios Athanasios Church in the center. The afternoon is reserved for the historical climb to Ancient Limnaia, where you can visit the ruins. You end the day relaxing at the quiet Bouka Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischtaverne am Hafen",
+            "tip": "Probieren Sie frischen Fisch aus dem Ambrakischen Golf."
+          },
+          {
+            "name": "Traditionelles Kafenio",
+            "tip": "Griechischer Kaffee und süßes Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői haltaverna",
+            "tip": "Kóstolja meg az Amvrakiai-öbölből származó friss halat."
+          },
+          {
+            "name": "Hagyományos Kafenio",
+            "tip": "Görög kávé és édes sütemények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna de pește din port",
+            "tip": "Gustați pește proaspăt din Golful Ambracian."
+          },
+          {
+            "name": "Kafenio tradițional",
+            "tip": "Cafea grecească și produse de patiserie dulci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Fish Taverna",
+            "tip": "Try fresh fish from the Ambracian Gulf."
+          },
+          {
+            "name": "Traditional Kafenio",
+            "tip": "Greek coffee and sweet pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bouka Strand bei Sonnenuntergang",
+            "tip": "Ruhige Wellen und tolles Licht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Antikes Limnaia",
+            "tip": "Panoramablick über die Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bouka strand naplementekor",
+            "tip": "Csendes hullámok és nagyszerű fények.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ókori Limnaia",
+            "tip": "Panorámás kilátás a városra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Bouka la apus",
+            "tip": "Valuri liniștite și lumină grozavă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Limnaia Antică",
+            "tip": "Vedere panoramică asupra orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bouka Beach at sunset",
+            "tip": "Quiet waves and great light.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ancient Limnaia",
+            "tip": "Panoramic view over the city.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Olivenöl und regionale Kräuter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Olívaolaj és regionális fűszernövények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Ulei de măsline și ierburi regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Olive oil and regional herbs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die unebenen Wege zum antiken Limnaia.",
+          "Die Mittagssonne kann stark sein, planen Sie Pausen im Schatten ein.",
+          "Am Hafen gibt es viele Bänke zum Ausruhen.",
+          "Nehmen Sie Badesachen für den Bouka Strand mit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az ókori Limnaia felé vezető egyenetlen utakon.",
+          "A déli nap erős lehet, tervezzen árnyékos pihenőket.",
+          "A kikötőben sok pad található a pihenéshez.",
+          "Vigyen magával fürdőruhát a Bouka strandhoz."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru potecile denivelate către Limnaia Antică.",
+          "Soarele de la amiază poate fi puternic, planificați pauze la umbră.",
+          "Există multe bănci de odihnă în port.",
+          "Luați costumul de baie pentru plaja Bouka."
+        ],
+        "en": [
+          "Wear comfortable shoes for the uneven paths to Ancient Limnaia.",
+          "The midday sun can be strong, plan breaks in the shade.",
+          "There are many benches to rest at the port.",
+          "Take your swimsuit for Bouka Beach."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Amfilochia Promenade",
+          "coords": [
+            21.1665,
+            38.8615
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Flacher Start entlang der Küstenlinie.",
+            "hu": "Lapos szakasz a partvonal mentén.",
+            "ro": "Început plat de-a lungul coastei.",
+            "en": "Flat start along the coastline."
+          }
+        },
+        {
+          "name": "Hafen von Amfilochia",
+          "coords": [
+            21.166,
+            38.862
+          ],
+          "category": "port",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote.",
+            "hu": "Figyelje meg a halászhajókat.",
+            "ro": "Priviți bărcile de pescari.",
+            "en": "Watch the fishing boats."
+          }
+        },
+        {
+          "name": "Bibliothek von Amfilochia",
+          "coords": [
+            21.165,
+            38.859
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kurzer historischer Stopp in der Stadt.",
+            "hu": "Rövid történelmi megálló a városban.",
+            "ro": "Scurtă oprire istorică în oraș.",
+            "en": "Short historical stop in the city."
+          }
+        },
+        {
+          "name": "Kirche Agios Athanasios",
+          "coords": [
+            21.167,
+            38.858
+          ],
+          "category": "religious",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrrad draußen abschließen.",
+            "hu": "Zárja le a kerékpárt kint.",
+            "ro": "Lăsați bicicleta încuiată afară.",
+            "en": "Lock your bike outside."
+          }
+        },
+        {
+          "name": "Antikes Limnaia",
+          "coords": [
+            21.16,
+            38.855
+          ],
+          "category": "historical",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Weg hierhin steigt leicht an.",
+            "hu": "Az út ide kissé emelkedik.",
+            "ro": "Drumul până aici urcă ușor.",
+            "en": "The path up here is slightly uphill."
+          }
+        },
+        {
+          "name": "Hügel von Agios Georgios",
+          "coords": [
+            21.17,
+            38.85
+          ],
+          "category": "natural features",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Tolle Aussicht als Belohnung für den Anstieg.",
+            "hu": "Nagyszerű kilátás az emelkedő jutalmaként.",
+            "ro": "Priveliște grozavă ca recompensă pentru urcare.",
+            "en": "Great view as a reward for the climb."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern starten Sie entlang der flachen Promenade und des Hafens, wo eine leichte Brise weht. Danach geht es weiter in die Stadt zur Bibliothek und zur Kirche Agios Athanasios. Der anspruchsvollere Teil folgt am Nachmittag mit dem leichten Anstieg zu den Ruinen des Antiken Limnaia. Zum Abschluss genießen Sie die weite Aussicht vom Hügel von Agios Georgios.",
+        "hu": "Két keréken a lapos sétány és a kikötő mentén indul, ahol könnyű szellő fúj. Ezután a városba megy tovább a könyvtárhoz és az Agios Athanasios templomhoz. A kihívást jelentő rész délután következik az ókori Limnaia romjaihoz vezető enyhe emelkedővel. Végül élvezze a széles kilátást az Agios Georgios-hegyről.",
+        "ro": "Pe două roți, începeți de-a lungul promenadei plate și a portului, unde bate o briză ușoară. Apoi continuați în oraș spre bibliotecă și Biserica Agios Athanasios. Partea mai solicitantă urmează după-amiaza cu o ușoară urcare către ruinele Limnaiei Antice. La final, bucurați-vă de vederea largă de pe Dealul Agios Georgios.",
+        "en": "On two wheels, you start along the flat promenade and the port, where a light breeze blows. Then you continue into the city to the library and Agios Athanasios Church. The more challenging part follows in the afternoon with the slight climb to the ruins of Ancient Limnaia. Finally, enjoy the sweeping view from the Hill of Agios Georgios."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei im Zentrum",
+            "tip": "Snacks für die Radtour."
+          },
+          {
+            "name": "Taverna am Hügel",
+            "tip": "Deftiges Essen nach dem Radfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a központban",
+            "tip": "Nassolnivalók a kerékpártúrához."
+          },
+          {
+            "name": "Taverna a hegyen",
+            "tip": "Kiadós étel kerékpározás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie în centru",
+            "tip": "Gustări pentru plimbarea cu bicicleta."
+          },
+          {
+            "name": "Tavernă pe deal",
+            "tip": "Mâncare consistentă după ciclism."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in the center",
+            "tip": "Snacks for the bike ride."
+          },
+          {
+            "name": "Taverna on the hill",
+            "tip": "Hearty food after cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel von Agios Georgios",
+            "tip": "Ruhiger Aussichtspunkt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agios Georgios-hegy",
+            "tip": "Csendes kilátó.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Agios Georgios",
+            "tip": "Punct de belvedere liniștit.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hill of Agios Georgios",
+            "tip": "Quiet viewpoint.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk an der Promenade",
+            "tip": "Erfrischungsgetränke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a sétányon",
+            "tip": "Üdítőitalok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc pe promenadă",
+            "tip": "Băuturi răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk on the promenade",
+            "tip": "Soft drinks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie vor dem Start den Reifendruck.",
+          "Die Straßen zum Hügel sind teilweise unbefestigt.",
+          "Tragen Sie immer einen Helm.",
+          "In der Mittagszeit besser im Schatten pausieren."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "A hegyhez vezető utak részben burkolatlanok.",
+          "Mindig viseljen sisakot.",
+          "Délidőben jobb árnyékban pihenni."
+        ],
+        "ro": [
+          "Verificați presiunea pneurilor înainte de a începe.",
+          "Drumurile spre deal sunt parțial neasfaltate.",
+          "Purtați întotdeauna cască.",
+          "La prânz este mai bine să faceți o pauză la umbră."
+        ],
+        "en": [
+          "Check tire pressure before starting.",
+          "The roads to the hill are partly unpaved.",
+          "Always wear a helmet.",
+          "Better to take a break in the shade at noon."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Hafen von Amfilochia",
+          "coords": [
+            21.166,
+            38.862
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier zentral für Cluster 1.",
+            "hu": "Parkoljon itt központilag az 1. klaszterhez.",
+            "ro": "Parcați aici central pentru clusterul 1.",
+            "en": "Park here centrally for cluster 1."
+          }
+        },
+        {
+          "name": "Amfilochia Promenade",
+          "coords": [
+            21.1665,
+            38.8615
+          ],
+          "category": "parks",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Hafen entfernt.",
+            "hu": "Csak egy rövid sétára a kikötőtől.",
+            "ro": "La doar o scurtă plimbare de port.",
+            "en": "Just a short walk from the port."
+          }
+        },
+        {
+          "name": "Bibliothek von Amfilochia",
+          "coords": [
+            21.165,
+            38.859
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Letzter Stopp in diesem Fußgänger-Cluster.",
+            "hu": "Utolsó megálló ebben a gyalogos klaszterben.",
+            "ro": "Ultima oprire din acest cluster pietonal.",
+            "en": "Last stop in this pedestrian cluster."
+          }
+        },
+        {
+          "name": "Antikes Limnaia",
+          "coords": [
+            21.16,
+            38.855
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt zum zweiten Cluster am Hang.",
+            "hu": "Utazás a második klaszterhez a domboldalon.",
+            "ro": "Conduceți spre al doilea cluster de pe deal.",
+            "en": "Drive to the second cluster on the hillside."
+          }
+        },
+        {
+          "name": "Kirche Agios Athanasios",
+          "coords": [
+            21.167,
+            38.858
+          ],
+          "category": "religious",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von den Ruinen hinab.",
+            "hu": "Rövid séta lefelé a romoktól.",
+            "ro": "Scurtă coborâre de la ruine.",
+            "en": "Short walk down from the ruins."
+          }
+        },
+        {
+          "name": "Bouka Strand",
+          "coords": [
+            21.155,
+            38.87
+          ],
+          "category": "beach",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Cluster 3: Zeit zum Entspannen am Wasser.",
+            "hu": "3. klaszter: Idő a pihenésre a vízparton.",
+            "ro": "Cluster 3: Timp pentru relaxare pe apă.",
+            "en": "Cluster 3: Time to relax by the water."
+          }
+        },
+        {
+          "name": "Hügel von Agios Georgios",
+          "coords": [
+            21.17,
+            38.85
+          ],
+          "category": "natural features",
+          "arrive_at": "16:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt zum letzten Aussichtspunkt des Tages.",
+            "hu": "Utazás a nap utolsó kilátópontjához.",
+            "ro": "Conduceți până la ultimul punct de belvedere al zilei.",
+            "en": "Drive to the last viewpoint of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Auto ermöglicht es Ihnen, Amfilochia in drei Clustern zu erkunden. Zuerst parken Sie am Hafen und erkunden die Uferpromenade sowie die Bibliothek zu Fuß. Später fahren Sie den Hang hinauf, um das Antike Limnaia und die Kirche Agios Athanasios zu besuchen. Den Nachmittag verbringen Sie entspannt am Bouka Strand, bevor Sie für den Sonnenuntergang auf den Hügel von Agios Georgios fahren.",
+        "hu": "Autója lehetővé teszi, hogy három klaszterben fedezze fel Amfilochiát. Először parkoljon le a kikötőben, és gyalog fedezze fel a tengerparti sétányt, valamint a könyvtárat. Később vezessen fel a domboldalon, hogy meglátogassa az ókori Limnaiát és az Agios Athanasios templomot. A délutánt pihentetően a Bouka strandon töltheti, majd naplementekor az Agios Georgios-hegyre hajt.",
+        "ro": "Mașina vă permite să explorați Amfilochia în trei grupuri. Mai întâi, parcați la port și explorați promenada de pe faleză, precum și biblioteca, pe jos. Mai târziu, urcați dealul pentru a vizita Limnaia Antică și Biserica Agios Athanasios. Vă petreceți după-amiaza relaxându-vă la plaja Bouka înainte de a merge pe Dealul Agios Georgios pentru apus.",
+        "en": "Your car allows you to explore Amfilochia in three clusters. First, park at the port and explore the waterfront promenade and the library on foot. Later, drive up the hillside to visit Ancient Limnaia and Agios Athanasios Church. You spend the afternoon relaxing at Bouka Beach before driving up the Hill of Agios Georgios for sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Strand",
+            "tip": "Mittagessen direkt am Meer."
+          },
+          {
+            "name": "Café am Hafen",
+            "tip": "Perfekt für den Start in den Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a tengerparton",
+            "tip": "Ebéd közvetlenül a tenger mellett."
+          },
+          {
+            "name": "Kávézó a kikötőben",
+            "tip": "Tökéletes a nap indításához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe plajă",
+            "tip": "Prânz chiar lângă mare."
+          },
+          {
+            "name": "Cafenea în port",
+            "tip": "Perfect pentru începutul zilei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant on the beach",
+            "tip": "Lunch right by the sea."
+          },
+          {
+            "name": "Cafe at the port",
+            "tip": "Perfect to start the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel von Agios Georgios",
+            "tip": "Bester Ort für den Abend.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agios Georgios-hegy",
+            "tip": "A legjobb hely estére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Agios Georgios",
+            "tip": "Cel mai bun loc pentru seară.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hill of Agios Georgios",
+            "tip": "Best spot for the evening.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop",
+            "tip": "Kleine Andenken aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt",
+            "tip": "Kisebb ajándéktárgyak a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri",
+            "tip": "Mici suveniruri din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop",
+            "tip": "Small souvenirs from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lassen Sie das Auto am Hafen stehen, während Sie das Zentrum erkunden.",
+          "Die Straßen zu den Ruinen können eng sein.",
+          "Achten Sie auf lokale Parkverbote.",
+          "Nehmen Sie Snacks für die Fahrt mit."
+        ],
+        "hu": [
+          "Hagyja az autót a kikötőben, amíg felfedezi a központot.",
+          "A romokhoz vezető utak szűkek lehetnek.",
+          "Ügyeljen a helyi parkolási tilalmakra.",
+          "Vigyen magával harapnivalót az útra."
+        ],
+        "ro": [
+          "Lăsați mașina la port în timp ce explorați centrul.",
+          "Drumurile spre ruine pot fi înguste.",
+          "Acordați atenție interdicțiilor locale de parcare.",
+          "Luați gustări pentru drum."
+        ],
+        "en": [
+          "Leave the car at the port while exploring the center.",
+          "The roads to the ruins can be narrow.",
+          "Pay attention to local parking bans.",
+          "Take snacks for the drive."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Amfilochia Promenade",
+          "coords": [
+            21.1665,
+            38.8615
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Wasser-Cluster.",
+            "hu": "Kezdje a napot a vízparti klaszterben.",
+            "ro": "Începeți-vă ziua în clusterul apei.",
+            "en": "Start your day in the water cluster."
+          }
+        },
+        {
+          "name": "Hafen von Amfilochia",
+          "coords": [
+            21.166,
+            38.862
+          ],
+          "category": "port",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie gemütlich hierher.",
+            "hu": "Sétáljon kényelmesen ide.",
+            "ro": "Plimbați-vă pe îndelete până aici.",
+            "en": "Take a leisurely walk here."
+          }
+        },
+        {
+          "name": "Kulturzentrum",
+          "coords": [
+            21.168,
+            38.86
+          ],
+          "category": "theatres",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kurze Busfahrt ins kulturelle Zentrum.",
+            "hu": "Rövid buszút a kulturális központba.",
+            "ro": "Scurtă călătorie cu autobuzul până la centrul cultural.",
+            "en": "Short bus ride to the cultural center."
+          }
+        },
+        {
+          "name": "Kirche Agios Athanasios",
+          "coords": [
+            21.167,
+            38.858
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Schritte vom Kulturzentrum entfernt.",
+            "hu": "Csak néhány lépésre a kulturális központtól.",
+            "ro": "La doar câțiva pași de centrul cultural.",
+            "en": "Just a few steps from the cultural center."
+          }
+        },
+        {
+          "name": "Antikes Limnaia",
+          "coords": [
+            21.16,
+            38.855
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kleiner Fußmarsch bergauf.",
+            "hu": "Egy kis séta hegynek fel.",
+            "ro": "O mică plimbare pe jos la deal.",
+            "en": "A small walk uphill."
+          }
+        },
+        {
+          "name": "Bouka Strand",
+          "coords": [
+            21.155,
+            38.87
+          ],
+          "category": "beach",
+          "arrive_at": "14:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum Strand für den Nachmittag.",
+            "hu": "Délután menjen busszal a strandra.",
+            "ro": "Luați autobuzul spre plajă pentru după-amiază.",
+            "en": "Take the bus to the beach for the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie lokale Verkehrsmittel, um zwischen den Hauptbereichen von Amfilochia zu wechseln. Beginnen Sie an der Küste mit Promenade und Hafen. Fahren Sie dann ins Stadtzentrum für Kultur und Geschichte, bevor Sie einen letzten Bustransfer zum Bouka Strand nehmen, um den Tag gemütlich am Wasser ausklingen zu lassen.",
+        "hu": "Használja a helyi közlekedést Amfilochia fő területei közötti utazáshoz. Kezdje a tengerparton a sétánnyal és a kikötővel. Ezután menjen be a városközpontba kultúráért és történelemért, mielőtt egy utolsó buszjárattal eljutna a Bouka strandhoz, hogy kényelmesen fejezze be a napot a víz mellett.",
+        "ro": "Utilizați transportul local pentru a vă deplasa între zonele principale din Amfilochia. Începeți pe coastă cu promenada și portul. Apoi mergeți în centrul orașului pentru cultură și istorie înainte de a lua un ultim autobuz către plaja Bouka pentru a vă încheia ziua confortabil lângă apă.",
+        "en": "Use local transport to switch between the main areas of Amfilochia. Start on the coast with the promenade and port. Then head to the city center for culture and history before taking a final bus transfer to Bouka Beach to end the day comfortably by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyros-Stand im Zentrum",
+            "tip": "Schnelles und authentisches Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyrosos a központban",
+            "tip": "Gyors és autentikus ebéd."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand de Gyros în centru",
+            "tip": "Prânz rapid și autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyros stand in the center",
+            "tip": "Fast and authentic lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkbank an der Promenade",
+            "tip": "Beobachten Sie das Treiben.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parki pad a sétányon",
+            "tip": "Figyelje a nyüzsgést.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă de parc pe promenadă",
+            "tip": "Urmăriți agitația.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park bench on the promenade",
+            "tip": "Watch the hustle and bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Minimarkt am Hafen",
+            "tip": "Perfekt für kleine Einkäufe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kisbolt a kikötőben",
+            "tip": "Tökéletes kisebb vásárlásokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Minimarket în port",
+            "tip": "Perfect pentru cumpărături mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Minimarket at the port",
+            "tip": "Perfect for small purchases."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab an Kiosken.",
+          "Informieren Sie sich über die aktuellen Fahrpläne.",
+          "Die Haltestellen sind meist gut ausgeschildert.",
+          "Haben Sie Kleingeld für schnelle Einkäufe dabei."
+        ],
+        "hu": [
+          "Vásárolja meg a buszjegyeket előre a kioszkokban.",
+          "Tájékozódjon az aktuális menetrendekről.",
+          "A megállók általában jól ki vannak táblázva.",
+          "Legyen nálad aprópénz a gyors vásárlásokhoz."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz în avans de la chioșcuri.",
+          "Aflați despre orarele actuale.",
+          "Stațiile sunt de obicei bine marcate.",
+          "Aveți mărunt la voi pentru cumpărături rapide."
+        ],
+        "en": [
+          "Buy bus tickets in advance at kiosks.",
+          "Find out about the current timetables.",
+          "The stops are usually well marked.",
+          "Have small change with you for quick purchases."
+        ]
+      }
+    }
+  }
+}

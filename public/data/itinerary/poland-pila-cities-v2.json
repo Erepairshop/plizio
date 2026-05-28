@@ -1,0 +1,1484 @@
+{
+  "city_id": "poland-pila-cities-v2",
+  "anchor": {
+    "name": "Schneidemühl (Piła)",
+    "coords": [
+      16.7381,
+      53.1511
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal für die Befreier",
+            "hu": "Felszabadítók emlékműve",
+            "ro": "Monumentul Eliberatorilor",
+            "en": "Monument to the Liberators"
+          },
+          "coords": [
+            16.7395,
+            53.1505
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem zentralen Punkt, einem wichtigen Symbol der Stadtgeschichte.",
+            "hu": "Kezdje a napot ennél a központi emlékműnél, a város történelmének fontos szimbólumánál.",
+            "ro": "Începeți ziua la acest punct central, un simbol important al istoriei orașului.",
+            "en": "Start your day at this central point, an important symbol of the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Antoniuskirche",
+            "hu": "Szent Antal-templom",
+            "ro": "Biserica Sfântul Anton",
+            "en": "St. Anthony's Church"
+          },
+          "coords": [
+            16.7421,
+            53.1528
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur und die ruhige Atmosphäre im Inneren.",
+            "hu": "Csodálja meg a lenyűgöző építészetet és a belső tér békés hangulatát.",
+            "ro": "Admirați arhitectura impresionantă și atmosfera liniștită din interior.",
+            "en": "Admire the impressive architecture and the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanisław-Staszic-Museum",
+            "hu": "Stanisław Staszic Múzeum",
+            "ro": "Muzeul Stanisław Staszic",
+            "en": "Stanisław Staszic Museum"
+          },
+          "coords": [
+            16.7388,
+            53.1492
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das Leben und Werk des berühmten Sohnes der Stadt.",
+            "hu": "Tudjon meg többet a város híres szülöttének életéről és munkásságáról.",
+            "ro": "Aflați mai multe despre viața și opera celebrului fiu al orașului.",
+            "en": "Learn about the life and work of the city's famous son."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            16.739,
+            53.148
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie Pierogi oder Żurek in einem der traditionellen Restaurants.",
+            "hu": "Kóstolja meg a pierogit vagy a żureket egy hagyományos étteremben.",
+            "ro": "Încercați pierogi sau żurek la unul dintre restaurantele tradiționale.",
+            "en": "Try some pierogi or żurek in one of the traditional restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der polnischen Armee",
+            "hu": "Lengyel Hadsereg Múzeuma",
+            "ro": "Muzeul Armatei Poloneze",
+            "en": "Museum of the Polish Army"
+          },
+          "coords": [
+            16.7321,
+            53.1565
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Interessante Ausstellung über die Militärgeschichte der Region.",
+            "hu": "Érdekes kiállítás a régió katonai történelméről.",
+            "ro": "Expoziție interesantă despre istoria militară a regiunii.",
+            "en": "An interesting exhibition on the military history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Inselpark (Park na Wyspie)",
+            "hu": "Sziget-park (Park na Wyspie)",
+            "ro": "Parcul Insula (Park na Wyspie)",
+            "en": "Island Park (Park na Wyspie)"
+          },
+          "coords": [
+            16.7488,
+            53.1499
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang am Flussufer ist der perfekte Abschluss des Nachmittags.",
+            "hu": "Egy pihentető séta a folyóparton tökéletes lezárása a délutánnak.",
+            "ro": "O plimbare relaxantă pe malul râului este finalul perfect al după-amiezii.",
+            "en": "A relaxing walk along the riverbank is the perfect end to the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Kultur in Piła",
+            "hu": "Kultúra Háza, Piła",
+            "ro": "Casa de Cultură din Piła",
+            "en": "House of Culture in Piła"
+          },
+          "coords": [
+            16.7451,
+            53.1478
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm für Abendveranstaltungen oder bewundern Sie einfach die moderne Architektur.",
+            "hu": "Nézze meg az esti programokat, vagy csak csodálja meg a modern építészetet.",
+            "ro": "Verificați programul pentru evenimente de seară sau pur și simplu admirați arhitectura modernă.",
+            "en": "Check the schedule for evening events or simply admire the modern architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Piła beginnt am Denkmal der Befreier, einem zentralen Punkt der Stadt. Von dort aus schlendern Sie zur Antoniuskirche und tauchen dann im Stanisław-Staszic-Museum in die lokale Geschichte ein. Nach einem herzhaften polnischen Mittagessen erkunden Sie die Militärgeschichte im Museum der Polnischen Armee. Am Nachmittag entspannen Sie im grünen Inselpark am Ufer des Flusses Gwda. Der Tag endet mit einem Blick auf das moderne Kulturhaus, das einen Kontrast zur historischen Altstadt bildet.",
+        "hu": "Sétája Pilában a Felszabadítók emlékművénél kezdődik, a város központi pontjánál. Innen a Szent Antal-templomhoz sétál, majd a Stanisław Staszic Múzeumban elmerül a helyi történelemben. Egy kiadós lengyel ebéd után a Lengyel Hadsereg Múzeumában is felfedezheti a katonai múltat. Délután a zöld Sziget-parkban pihenhet a Gwda folyó partján. A napot a modern Kultúra Háza megtekintésével zárja, amely kontrasztot alkot a történelmi óvárossal.",
+        "ro": "Plimbarea dvs. prin Piła începe la Monumentul Eliberatorilor, un punct central al orașului. De acolo, vă îndreptați spre Biserica Sfântul Anton și apoi aprofundați istoria locală la Muzeul Stanisław Staszic. După un prânz polonez copios, explorați istoria militară la Muzeul Armatei Poloneze. După-amiaza vă relaxați în Parcul Insula, pe malul râului Gwda. Ziua se încheie cu o privire la moderna Casă de Cultură, care contrastează cu centrul vechi istoric.",
+        "en": "Your walk through Piła begins at the Monument to the Liberators, a central point in the city. From there, you'll stroll to St. Anthony's Church and then delve into local history at the Stanisław Staszic Museum. After a hearty Polish lunch, you'll explore military history at the Museum of the Polish Army. In the afternoon, relax in the green Island Park on the banks of the Gwda River. The day concludes with a look at the modern House of Culture, which contrasts with the historic old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi Ruskie",
+            "tip": "Klassische polnische Teigtaschen mit Kartoffel-Käse-Füllung."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine saure Roggenmehlsuppe, oft mit Wurst und Ei serviert."
+          },
+          {
+            "name": "Bigos",
+            "tip": "Ein herzhafter Sauerkrauteintopf, bekannt als das polnische Nationalgericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi Ruskie",
+            "tip": "Klasszikus lengyel táskák burgonyás-túrós töltelékkel."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Savanyú rozslisztes leves, gyakran kolbásszal és tojással tálalva."
+          },
+          {
+            "name": "Bigos",
+            "tip": "Kiadós savanyúkáposzta-egytálétel, a lengyel nemzeti étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi Ruskie",
+            "tip": "Găluște poloneze clasice umplute cu cartofi și brânză."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă acră de secară, adesea servită cu cârnați și ou."
+          },
+          {
+            "name": "Bigos",
+            "tip": "O tocană consistentă de varză murată, cunoscută ca felul de mâncare național polonez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi Ruskie",
+            "tip": "Classic Polish dumplings with a potato and cheese filling."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A sour rye flour soup, often served with sausage and egg."
+          },
+          {
+            "name": "Bigos",
+            "tip": "A hearty sauerkraut stew, known as Poland's national dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Inselpark",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Płotki-Sees",
+            "tip": "Etwas außerhalb, aber perfekt für eine ruhige Auszeit.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Inneres der Johannes-der-Täufer-Kirche",
+            "tip": "Ein Moment der stillen Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziget-park",
+            "tip": "Keressen egy csendes padot a folyóparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Płotki-tó partja",
+            "tip": "Kicsit kijjebb esik, de tökéletes egy csendes pihenőre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Keresztelő Szent János-templom belseje",
+            "tip": "A csendes elmélkedés pillanata.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Insula",
+            "tip": "Găsiți o bancă liniștită pe malul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul lacului Płotki",
+            "tip": "Puțin în afara orașului, dar perfect pentru o pauză liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Interiorul Bisericii Sfântul Ioan Botezătorul",
+            "tip": "Un moment de reflecție tăcută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Island Park",
+            "tip": "Find a quiet bench by the riverbank.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Shore of Płotki Lake",
+            "tip": "A bit out of the way, but perfect for a quiet escape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Inside St. John the Baptist Church",
+            "tip": "A moment of quiet contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach frischen Produkten und handgemachten Waren."
+          },
+          {
+            "name": "Souvenirläden in der Altstadt",
+            "tip": "Finden Sie Bernstein-Schmuck oder traditionelle polnische Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen friss termékeket és kézműves árukat."
+          },
+          {
+            "name": "SzOUvenírboltok az óvárosban",
+            "tip": "Keressen borostyán ékszereket vagy hagyományos lengyel kerámiát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse proaspete și articole de artizanat."
+          },
+          {
+            "name": "Magazine de suveniruri din centrul vechi",
+            "tip": "Găsiți bijuterii din chihlimbar sau ceramică tradițională poloneză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for fresh produce and handmade goods."
+          },
+          {
+            "name": "Old Town Souvenir Shops",
+            "tip": "Find amber jewelry or traditional Polish pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Halten Sie immer etwas Bargeld für kleine Einkäufe bereit.",
+          "Ein Stadtplan oder eine Navigations-App ist hilfreich.",
+          "Die meisten zentralen Sehenswürdigkeiten sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog sétálni.",
+          "Mindig tartson magánál készpénzt a kisebb vásárlásokhoz.",
+          "Egy térkép vagy navigációs alkalmazás hasznos lehet.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Aveți întotdeauna niște bani lichizi pentru cumpărături mici.",
+          "O hartă a orașului sau o aplicație de navigație este utilă.",
+          "Majoritatea atracțiilor centrale sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Always have some cash on hand for small purchases.",
+          "A city map or a navigation app is helpful.",
+          "Most central attractions are within easy walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Inselpark (Park na Wyspie)",
+            "hu": "Sziget-park (Park na Wyspie)",
+            "ro": "Parcul Insula (Park na Wyspie)",
+            "en": "Island Park (Park na Wyspie)"
+          },
+          "coords": [
+            16.7488,
+            53.1499
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer leichten Radtour durch diesen schönen Park am Fluss.",
+            "hu": "Kezdje a napot egy könnyű biciklitúrával ebben a szép folyóparti parkban.",
+            "ro": "Începeți cu o plimbare ușoară cu bicicleta prin acest frumos parc de pe malul râului.",
+            "en": "Start with a gentle bike ride through this beautiful riverside park."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanisław-Staszic-Museum",
+            "hu": "Stanisław Staszic Múzeum",
+            "ro": "Muzeul Stanisław Staszic",
+            "en": "Stanisław Staszic Museum"
+          },
+          "coords": [
+            16.7388,
+            53.1492
+          ],
+          "category": "museums",
+          "arrive_at": "09:57",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und tauchen Sie in die Geschichte ein.",
+            "hu": "Parkolja le a kerékpárt a közelben, és merüljön el a történelemben.",
+            "ro": "Parcați bicicleta în apropiere și cufundați-vă în istorie.",
+            "en": "Park your bike nearby and dive into the history."
+          }
+        },
+        {
+          "name": {
+            "de": "Antoniuskirche",
+            "hu": "Szent Antal-templom",
+            "ro": "Biserica Sfântul Anton",
+            "en": "St. Anthony's Church"
+          },
+          "coords": [
+            16.7421,
+            53.1528
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Radtour zu diesem architektonischen Juwel der Stadt.",
+            "hu": "Egy rövid biciklizés a város ezen építészeti gyöngyszeméhez.",
+            "ro": "O scurtă plimbare cu bicicleta până la această bijuterie arhitecturală a orașului.",
+            "en": "A short bike ride to this architectural gem of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Zentrums",
+            "hu": "Ebéd a központ közelében",
+            "ro": "Prânz lângă centru",
+            "en": "Lunch near the center"
+          },
+          "coords": [
+            16.74,
+            53.15
+          ],
+          "category": "gastro",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt viele fahrradfreundliche Restaurants mit Außensitzplätzen.",
+            "hu": "Számos biciklibarát étterem található kültéri ülőhelyekkel.",
+            "ro": "Există multe restaurante prietenoase cu bicicliștii, cu terase.",
+            "en": "There are many bike-friendly restaurants with outdoor seating."
+          }
+        },
+        {
+          "name": {
+            "de": "Płotki-See",
+            "hu": "Płotki-tó",
+            "ro": "Lacul Płotki",
+            "en": "Płotki Lake"
+          },
+          "coords": [
+            16.668,
+            53.181
+          ],
+          "category": "lake",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 11.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine längere, aber lohnende Radtour zu diesem wunderschönen See. Perfekt zum Entspannen.",
+            "hu": "Egy hosszabb, de megérő biciklitúra ehhez a gyönyörű tóhoz. Tökéletes a pihenésre.",
+            "ro": "O plimbare mai lungă cu bicicleta, dar care merită, până la acest lac frumos. Perfect pentru relaxare.",
+            "en": "A longer but rewarding bike ride to this beautiful lake. Perfect for relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the Center"
+          },
+          "coords": [
+            16.7381,
+            53.1511
+          ],
+          "category": "city",
+          "arrive_at": "16:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Kaffee in einem der vielen Cafés der Stadt.",
+            "hu": "Fejezze be a túrát egy kávéval a város számos kávézójának egyikében.",
+            "ro": "Încheiați turul cu o cafea la una dintre numeroasele cafenele din oraș.",
+            "en": "Finish your tour with a coffee at one of the city's many cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet im malerischen Inselpark. Von dort aus radeln Sie ins Herz der Stadt zum Stanisław-Staszic-Museum und zur Antoniuskirche. Nach einem stärkenden Mittagessen unternehmen Sie eine längere Tour zum idyllischen Płotki-See, wo Sie die Natur genießen und entspannen können. Am späten Nachmittag kehren Sie ins Stadtzentrum zurück, um den Tag bei einem Kaffee ausklingen zu lassen. Diese Tour verbindet Kultur im Zentrum mit einem schönen Naturerlebnis am See.",
+        "hu": "Biciklitúrája a festői Sziget-parkban kezdődik. Innen a város szívébe teker, a Stanisław Staszic Múzeumhoz és a Szent Antal-templomhoz. Egy frissítő ebéd után egy hosszabb túrára indul az idilli Płotki-tóhoz, ahol élvezheti a természetet és pihenhet. Késő délután visszatér a városközpontba, hogy egy kávé mellett zárja a napot. Ez a túra ötvözi a központi kulturális látnivalókat a tóparti gyönyörű természeti élménnyel.",
+        "ro": "Turul dvs. cu bicicleta începe în pitorescul Parc Insula. De acolo, pedalați spre inima orașului, la Muzeul Stanisław Staszic și Biserica Sfântul Anton. După un prânz revigorant, faceți o excursie mai lungă la idilicul lac Płotki, unde vă puteți bucura de natură și relaxa. Spre sfârșitul după-amiezii, vă întoarceți în centrul orașului pentru a încheia ziua cu o cafea. Acest tur combină cultura din centru cu o experiență frumoasă în natură la lac.",
+        "en": "Your bike tour starts in the picturesque Island Park. From there, you'll cycle into the heart of the city to the Stanisław Staszic Museum and St. Anthony's Church. After a refreshing lunch, you'll take a longer tour to the idyllic Płotki Lake, where you can enjoy nature and relax. In the late afternoon, you'll return to the city center to end the day with a coffee. This tour combines culture in the center with a beautiful nature experience at the lake."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Barszcz",
+            "tip": "Eine Rote-Bete-Suppe, die heiß oder kalt genossen werden kann."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Kohlrouladen gefüllt mit Fleisch und Reis."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Ein traditioneller polnischer Käsekuchen als Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barszcz",
+            "tip": "Céklaleves, amelyet melegen vagy hidegen is fogyaszthatnak."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Hússal és rizzsel töltött káposztatekercs."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Hagyományos lengyel sajttorta desszertként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Barszcz",
+            "tip": "O supă de sfeclă roșie care poate fi savurată caldă sau rece."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Sarmale în foi de varză umplute cu carne și orez."
+          },
+          {
+            "name": "Sernik",
+            "tip": "O prăjitură cu brânză tradițională poloneză ca desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Barszcz",
+            "tip": "A beetroot soup that can be enjoyed hot or cold."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Cabbage rolls stuffed with meat and rice."
+          },
+          {
+            "name": "Sernik",
+            "tip": "A traditional Polish cheesecake for dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Fluss Gwda",
+            "tip": "Eine friedliche Route entlang des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Płotki-See",
+            "tip": "Der perfekte Ort für Ruhe und Frieden.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Bänke im Inselpark",
+            "tip": "Finden Sie Ihren eigenen kleinen Rückzugsort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Gwda folyó mentén",
+            "tip": "Békés útvonal a víz mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Płotki-tó",
+            "tip": "Tökéletes hely a csendhez és a békéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Elrejtett padok a Sziget-parkban",
+            "tip": "Találja meg a saját kis menedékét.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Gwda",
+            "tip": "Un traseu pașnic de-a lungul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lacul Płotki",
+            "tip": "Locul perfect pentru liniște și pace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bănci ascunse în Parcul Insula",
+            "tip": "Găsiți-vă propriul mic refugiu.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Gwda river",
+            "tip": "A peaceful route along the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Płotki Lake",
+            "tip": "The perfect place for peace and quiet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden benches in Island Park",
+            "tip": "Find your own little retreat.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Regionale Produkte",
+            "tip": "Suchen Sie nach Honig oder anderen lokalen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Regionális termékek",
+            "tip": "Keressen mézet vagy más helyi specialitásokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Produse regionale",
+            "tip": "Căutați miere sau alte specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "For any accessories or quick repairs."
+          },
+          {
+            "name": "Regional Products",
+            "tip": "Look for honey or other local delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Zustand Ihres Fahrrads vor der Abfahrt.",
+          "Nutzen Sie die ausgewiesenen Radwege, wo immer es möglich ist.",
+          "Ein Helm wird für Ihre Sicherheit empfohlen.",
+          "Nehmen Sie eine Flasche Wasser mit, besonders für die Fahrt zum See."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát.",
+          "Használja a kijelölt kerékpárutakat, ahol csak lehetséges.",
+          "A biztonsága érdekében sisak viselése ajánlott.",
+          "Vigyen magával egy üveg vizet, különösen a tóhoz vezető útra."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a pleca.",
+          "Folosiți pistele de biciclete desemnate ori de câte ori este posibil.",
+          "Se recomandă o cască pentru siguranța dvs.",
+          "Luați o sticlă de apă cu dvs., mai ales pentru drumul spre lac."
+        ],
+        "en": [
+          "Check the condition of your bike before setting off.",
+          "Use designated bike paths wherever possible.",
+          "A helmet is recommended for your safety.",
+          "Bring a bottle of water, especially for the ride to the lake."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 20.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Płotki-See",
+            "hu": "1. csoport: Płotki-tó",
+            "ro": "Cluster 1: Lacul Płotki",
+            "en": "Cluster 1: Płotki Lake"
+          },
+          "coords": [
+            16.668,
+            53.181
+          ],
+          "category": "lake",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Ausflug zum See. Parken Sie und genießen Sie einen langen Spaziergang am Ufer.",
+            "hu": "Kezdje a napot egy kirándulással a tóhoz. Parkoljon le és élvezzen egy hosszú sétát a parton.",
+            "ro": "Începeți ziua cu o excursie la lac. Parcați și bucurați-vă de o plimbare lungă pe mal.",
+            "en": "Start the day with a trip to the lake. Park your car and enjoy a long walk along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Stadtzentrum Parkplatz",
+            "hu": "2. csoport: Városközponti parkoló",
+            "ro": "Cluster 2: Parcare în centrul orașului",
+            "en": "Cluster 2: City Center Parking"
+          },
+          "coords": [
+            16.7375,
+            53.1518
+          ],
+          "category": "parking",
+          "arrive_at": "11:30",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon itt a nap hátralévő részére, és fedezze fel a központot gyalog.",
+            "ro": "Parcați aici pentru restul zilei și explorați centrul pe jos.",
+            "en": "Park here for the rest of the day and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Antoniuskirche",
+            "hu": "Szent Antal-templom",
+            "ro": "Biserica Sfântul Anton",
+            "en": "St. Anthony's Church"
+          },
+          "coords": [
+            16.7421,
+            53.1528
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zu diesem beeindruckenden Gotteshaus.",
+            "hu": "Egy rövid séta a parkolótól ehhez a lenyűgöző templomhoz.",
+            "ro": "O scurtă plimbare de la parcare la această biserică impresionantă.",
+            "en": "A short walk from the parking lot to this impressive church."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            16.739,
+            53.148
+          ],
+          "category": "gastro",
+          "arrive_at": "12:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich mit traditioneller polnischer Küche.",
+            "hu": "Erősítse meg magát hagyományos lengyel ételekkel.",
+            "ro": "Întăriți-vă cu bucătăria tradițională poloneză.",
+            "en": "Refuel with some traditional Polish cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanisław-Staszic-Museum",
+            "hu": "Stanisław Staszic Múzeum",
+            "ro": "Muzeul Stanisław Staszic",
+            "en": "Stanisław Staszic Museum"
+          },
+          "coords": [
+            16.7388,
+            53.1492
+          ],
+          "category": "museums",
+          "arrive_at": "13:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich direkt im Herzen der Stadt.",
+            "hu": "A múzeum közvetlenül a város szívében található.",
+            "ro": "Muzeul este situat chiar în inima orașului.",
+            "en": "The museum is located right in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der polnischen Armee",
+            "hu": "Lengyel Hadsereg Múzeuma",
+            "ro": "Muzeul Armatei Poloneze",
+            "en": "Museum of the Polish Army"
+          },
+          "coords": [
+            16.7321,
+            53.1565
+          ],
+          "category": "museums",
+          "arrive_at": "15:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein weiterer kurzer Spaziergang zu diesem interessanten Museum.",
+            "hu": "Egy újabb rövid séta ehhez az érdekes múzeumhoz.",
+            "ro": "O altă plimbare scurtă până la acest muzeu interesant.",
+            "en": "Another short walk to this interesting museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Inselpark (Park na Wyspie)",
+            "hu": "Sziget-park (Park na Wyspie)",
+            "ro": "Parcul Insula (Park na Wyspie)",
+            "en": "Island Park (Park na Wyspie)"
+          },
+          "coords": [
+            16.7488,
+            53.1499
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:53",
+          "stay_min": 42,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Spaziergang zurück durch den Park zu Ihrem Auto.",
+            "hu": "Zárja a napot egy pihentető sétával a parkon keresztül vissza az autójához.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă înapoi prin parc la mașina dvs.",
+            "en": "End the day with a relaxing walk back through the park to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einem entspannten Morgen am Płotki-See außerhalb der Stadt. Nach einem erfrischenden Spaziergang fahren Sie ins Zentrum von Piła, parken Ihr Auto und erkunden den Rest des Tages zu Fuß. Sie besuchen die Antoniuskirche, genießen ein polnisches Mittagessen und tauchen in die Geschichte im Stanisław-Staszic-Museum und im Armeemuseum ein. Ein Spaziergang durch den Inselpark rundet Ihren Besuch ab, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Autós napja egy pihentető reggellel kezdődik a városon kívüli Płotki-tónál. Egy frissítő séta után beautózik Piła központjába, leparkol, és a nap hátralévő részét gyalogosan fedezi fel. Meglátogatja a Szent Antal-templomot, elfogyaszt egy lengyel ebédet, majd elmerül a történelemben a Stanisław Staszic Múzeumban és a Hadsereg Múzeumában. A látogatást egy séta zárja a Sziget-parkban, mielőtt visszatérne az autójához.",
+        "ro": "Ziua dvs. cu mașina începe cu o dimineață relaxantă la lacul Płotki, în afara orașului. După o plimbare revigorantă, conduceți în centrul orașului Piła, parcați mașina și explorați restul zilei pe jos. Veți vizita Biserica Sfântul Anton, vă veți bucura de un prânz polonez și veți aprofunda istoria la Muzeul Stanisław Staszic și Muzeul Armatei. O plimbare prin Parcul Insula completează vizita înainte de a vă întoarce la mașină.",
+        "en": "Your car day begins with a relaxing morning at Płotki Lake outside the city. After a refreshing walk, you drive to the center of Piła, park your car, and explore for the rest of the day on foot. You'll visit St. Anthony's Church, enjoy a Polish lunch, and delve into history at the Stanisław Staszic Museum and the Army Museum. A walk through Island Park completes your visit before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pyry z gzikiem",
+            "tip": "Eine Spezialität aus Großpolen: Kartoffeln mit Quark."
+          },
+          {
+            "name": "Kaczka z jabłkami",
+            "tip": "Ente mit Äpfeln, ein festliches Gericht."
+          },
+          {
+            "name": "Rogal świętomarciński",
+            "tip": "Ein mit Mohn und Nüssen gefülltes Hörnchen, typisch für die Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pyry z gzikiem",
+            "tip": "Nagy-Lengyelország specialitása: burgonya túróval."
+          },
+          {
+            "name": "Kaczka z jabłkami",
+            "tip": "Kacsa almával, ünnepi étel."
+          },
+          {
+            "name": "Rogal świętomarciński",
+            "tip": "Mákka és dióval töltött kifli, a régióra jellemző."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pyry z gzikiem",
+            "tip": "O specialitate din Polonia Mare: cartofi cu brânză de vaci."
+          },
+          {
+            "name": "Kaczka z jabłkami",
+            "tip": "Rață cu mere, un fel de mâncare festiv."
+          },
+          {
+            "name": "Rogal świętomarciński",
+            "tip": "Un corn umplut cu mac și nuci, tipic regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pyry z gzikiem",
+            "tip": "A specialty from Greater Poland: potatoes with cottage cheese."
+          },
+          {
+            "name": "Kaczka z jabłkami",
+            "tip": "Duck with apples, a festive dish."
+          },
+          {
+            "name": "Rogal świętomarciński",
+            "tip": "A croissant filled with poppy seeds and nuts, typical for the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Morgens am Płotki-See",
+            "tip": "Genießen Sie die Stille, bevor die meisten Besucher ankommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eine Bank im hinteren Teil des Inselparks",
+            "tip": "Ein Ort, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Johannes-der-Täufer-Kirche",
+            "tip": "Ein oft übersehener, aber sehr friedlicher Ort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reggel a Płotki-tónál",
+            "tip": "Élvezze a csendet, mielőtt a legtöbb látogató megérkezik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy pad a Sziget-park hátsó részében",
+            "tip": "Egy hely, ahol elmenekülhet a város nyüzsgése elől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Keresztelő Szent János-templom",
+            "tip": "Gyakran figyelmen kívül hagyott, de nagyon békés hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dimineața la Lacul Płotki",
+            "tip": "Bucurați-vă de liniște înainte de sosirea majorității vizitatorilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O bancă în spatele Parcului Insula",
+            "tip": "Un loc pentru a evada din agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Sfântul Ioan Botezătorul",
+            "tip": "Un loc adesea trecut cu vederea, dar foarte pașnic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Morning at Płotki Lake",
+            "tip": "Enjoy the silence before most visitors arrive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A bench in the back of Island Park",
+            "tip": "A place to escape the hustle and bustle of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. John the Baptist Church",
+            "tip": "An often-overlooked but very peaceful spot.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden außerhalb der Stadt",
+            "tip": "Kaufen Sie lokale Produkte direkt vom Erzeuger."
+          },
+          {
+            "name": "Kunstgalerien",
+            "tip": "Entdecken Sie Werke lokaler Künstler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a városon kívül",
+            "tip": "Vásároljon helyi termékeket közvetlenül a termelőtől."
+          },
+          {
+            "name": "Művészeti galériák",
+            "tip": "Fedezze fel a helyi művészek alkotásait."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la ferme în afara orașului",
+            "tip": "Cumpărați produse locale direct de la producători."
+          },
+          {
+            "name": "Galerii de artă",
+            "tip": "Descoperiți lucrările artiștilor locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops outside the city",
+            "tip": "Buy local produce directly from the source."
+          },
+          {
+            "name": "Art Galleries",
+            "tip": "Discover works by local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren im Stadtzentrum.",
+          "Planen Sie genügend Zeit für den Verkehr ein, besonders am Morgen.",
+          "Ein GPS ist unerlässlich, um sich zwischen den Clustern zurechtzufinden.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar zurück."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat a városközpontban.",
+          "Tervezzen elegendő időt a forgalomra, különösen reggel.",
+          "A GPS elengedhetetlen a klaszterek közötti navigáláshoz.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în centrul orașului.",
+          "Planificați suficient timp pentru trafic, mai ales dimineața.",
+          "Un GPS este esențial pentru a naviga între clustere.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Check parking fees in the city center.",
+          "Allow enough time for traffic, especially in the morning.",
+          "A GPS is essential for navigating between clusters.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Hauptbahnhof & Umgebung",
+            "hu": "1. csoport: Főpályaudvar és környéke",
+            "ro": "Cluster 1: Gara Centrală și împrejurimile",
+            "en": "Cluster 1: Main Station & Surroundings"
+          },
+          "coords": [
+            16.735,
+            53.158
+          ],
+          "category": "transit",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptverkehrsknotenpunkt der Stadt.",
+            "hu": "Kezdje a város fő közlekedési csomópontjánál.",
+            "ro": "Începeți de la principalul nod de transport al orașului.",
+            "en": "Start at the city's main transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der polnischen Armee",
+            "hu": "Lengyel Hadsereg Múzeuma",
+            "ro": "Muzeul Armatei Poloneze",
+            "en": "Museum of the Polish Army"
+          },
+          "coords": [
+            16.7321,
+            53.1565
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum ist nur einen kurzen Spaziergang vom Bahnhof entfernt.",
+            "hu": "A múzeum csak egy rövid sétára van az állomástól.",
+            "ro": "Muzeul este la o scurtă plimbare de gară.",
+            "en": "The museum is just a short walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Stadtzentrum (via Bus)",
+            "hu": "2. csoport: Városközpont (busszal)",
+            "ro": "Cluster 2: Centrul orașului (cu autobuzul)",
+            "en": "Cluster 2: City Center (by bus)"
+          },
+          "coords": [
+            16.74,
+            53.151
+          ],
+          "category": "transit",
+          "arrive_at": "10:55",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Herz der Altstadt.",
+            "hu": "Menjen busszal az óváros szívébe.",
+            "ro": "Luați un autobuz spre inima centrului vechi.",
+            "en": "Take a bus to the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Antoniuskirche und Mittagessen",
+            "hu": "Szent Antal-templom és ebéd",
+            "ro": "Biserica Sfântul Anton și prânz",
+            "en": "St. Anthony's Church and Lunch"
+          },
+          "coords": [
+            16.7421,
+            53.1528
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kirche und genießen Sie dann ein Mittagessen in einem nahegelegenen Restaurant.",
+            "hu": "Fedezze fel a templomot, majd ebédeljen egy közeli étteremben.",
+            "ro": "Explorați biserica și apoi luați prânzul la un restaurant din apropiere.",
+            "en": "Explore the church and then have lunch at a nearby restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanisław-Staszic-Museum",
+            "hu": "Stanisław Staszic Múzeum",
+            "ro": "Muzeul Stanisław Staszic",
+            "en": "Stanisław Staszic Museum"
+          },
+          "coords": [
+            16.7388,
+            53.1492
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Innenstadt zum nächsten Museum.",
+            "hu": "Rövid séta a belvároson keresztül a következő múzeumhoz.",
+            "ro": "O scurtă plimbare prin centrul orașului până la următorul muzeu.",
+            "en": "A short walk through the city center to the next museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Inselpark (via Bus)",
+            "hu": "3. csoport: Sziget-park (busszal)",
+            "ro": "Cluster 3: Parcul Insula (cu autobuzul)",
+            "en": "Cluster 3: Island Park (by bus)"
+          },
+          "coords": [
+            16.7488,
+            53.1499
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 155,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einer entspannten Zeit im Park. Nehmen Sie einen Bus dorthin.",
+            "hu": "Zárja a napot egy pihentető időtöltéssel a parkban. Menjen busszal.",
+            "ro": "Încheiați ziua cu un moment de relaxare în parc. Luați un autobuz până acolo.",
+            "en": "End your day with some relaxing time in the park. Take a bus to get there."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln starten Sie am Bahnhof mit einem Besuch des Armeemuseums. Ein Bus bringt Sie dann ins Stadtzentrum, wo Sie die Antoniuskirche erkunden und zu Mittag essen. Nach einem Spaziergang zum Stanisław-Staszic-Museum nehmen Sie einen weiteren Bus zum Inselpark, um den Nachmittag im Grünen ausklingen zu lassen. Diese Tour ist eine effiziente Möglichkeit, die Highlights der Stadt zu erleben, ohne sich um das Parken sorgen zu müssen.",
+        "hu": "Tömegközlekedéssel az állomáson kezdi a napot a Hadsereg Múzeumának meglátogatásával. Ezután egy busz beviszi a városközpontba, ahol felfedezheti a Szent Antal-templomot és megebédelhet. A Stanisław Staszic Múzeumhoz tett séta után egy másik buszra száll, hogy a Sziget-parkban zárja a délutánt a zöldben. Ez a túra hatékony módja a város nevezetességeinek megismerésének anélkül, hogy a parkolás miatt kellene aggódnia.",
+        "ro": "Folosind transportul public, începeți la gară cu o vizită la Muzeul Armatei. Un autobuz vă duce apoi în centrul orașului, unde explorați Biserica Sfântul Anton și luați prânzul. După o plimbare la Muzeul Stanisław Staszic, luați un alt autobuz spre Parcul Insula pentru a încheia după-amiaza în mijlocul naturii. Acest tur este o modalitate eficientă de a experimenta atracțiile orașului fără grija parcării.",
+        "en": "Using public transport, you start at the station with a visit to the Army Museum. A bus then takes you to the city center, where you explore St. Anthony's Church and have lunch. After a walk to the Stanisław Staszic Museum, you take another bus to Island Park to end the afternoon in the green. This tour is an efficient way to experience the city's highlights without worrying about parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein überbackenes Baguette, ein beliebter polnischer Straßensnack."
+          },
+          {
+            "name": "Naleśniki",
+            "tip": "Dünne Pfannkuchen, süß oder herzhaft gefüllt."
+          },
+          {
+            "name": "Kompot",
+            "tip": "Ein traditionelles Fruchtgetränk, das zu den Mahlzeiten serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Sajtos-gombás melegszendvics, népszerű lengyel utcai étel."
+          },
+          {
+            "name": "Naleśniki",
+            "tip": "Vékony palacsinta, édes vagy sós töltelékkel."
+          },
+          {
+            "name": "Kompot",
+            "tip": "Hagyományos gyümölcsital, amelyet étkezésekhez szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "O baghetă gratinată, o gustare stradală populară poloneză."
+          },
+          {
+            "name": "Naleśniki",
+            "tip": "Clătite subțiri, umplute cu dulce sau sărat."
+          },
+          {
+            "name": "Compot",
+            "tip": "O băutură tradițională din fructe servită la mese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "A baked open-face sandwich, a popular Polish street food."
+          },
+          {
+            "name": "Naleśniki",
+            "tip": "Thin crepes, filled with sweet or savory fillings."
+          },
+          {
+            "name": "Kompot",
+            "tip": "A traditional fruit drink served with meals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Ecke im Inselpark",
+            "tip": "Perfekt, um ein Buch zu lesen oder die Leute zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof in der Nähe der Johannes-der-Täufer-Kirche",
+            "tip": "Ein Ort der Geschichte und Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Frühmorgens am Fluss Gwda",
+            "tip": "Genießen Sie die friedliche Atmosphäre, bevor die Stadt erwacht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes sarok a Sziget-parkban",
+            "tip": "Tökéletes egy könyv olvasásához vagy az emberek figyeléséhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Temető a Keresztelő Szent János-templom közelében",
+            "tip": "A történelem és a csend helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kora reggel a Gwda folyónál",
+            "tip": "Élvezze a békés hangulatot, mielőtt a város felébred.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un colț liniștit în Parcul Insula",
+            "tip": "Perfect pentru a citi o carte sau a privi oamenii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de lângă Biserica Sfântul Ioan Botezătorul",
+            "tip": "Un loc de istorie și liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dimineața devreme pe râul Gwda",
+            "tip": "Bucurați-vă de atmosfera pașnică înainte ca orașul să se trezească.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet corner in Island Park",
+            "tip": "Perfect for reading a book or people-watching.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery near St. John the Baptist Church",
+            "tip": "A place of history and silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Early morning by the Gwda river",
+            "tip": "Enjoy the peaceful atmosphere before the city wakes up.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Für einen schnellen Snack oder eine Zeitung."
+          },
+          {
+            "name": "Geschäfte in der Nähe des Stadtzentrums",
+            "tip": "Entdecken Sie lokale Boutiquen abseits der Hauptstraßen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Egy gyors harapnivalóért vagy újságért."
+          },
+          {
+            "name": "Boltok a városközpont közelében",
+            "tip": "Fedezze fel a helyi butikokat a főutcáktól távolabb."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri din stațiile de autobuz",
+            "tip": "Pentru o gustare rapidă sau un ziar."
+          },
+          {
+            "name": "Magazine lângă centrul orașului",
+            "tip": "Descoperiți buticuri locale departe de străzile principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "For a quick snack or a newspaper."
+          },
+          {
+            "name": "Shops near the city center",
+            "tip": "Discover local boutiques off the main streets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Informieren Sie sich im Voraus über die Busfahrpläne.",
+          "Halten Sie Ausschau nach Ihrer Haltestelle, da die Ansagen möglicherweise nur auf Polnisch sind.",
+          "Planen Sie etwas Pufferzeit für mögliche Verspätungen ein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Előre tájékozódjon a buszmenetrendekről.",
+          "Figyelje a megállóját, mivel a bemondások csak lengyelül lehetnek.",
+          "Tervezzen némi pufferidőt az esetleges késésekre."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați în avans orarele autobuzelor.",
+          "Fiți atenți la stația dvs., deoarece anunțurile pot fi doar în poloneză.",
+          "Planificați un timp suplimentar pentru posibile întârzieri."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Check bus schedules in advance.",
+          "Keep an eye out for your stop, as announcements may only be in Polish.",
+          "Allow some buffer time for potential delays."
+        ]
+      }
+    }
+  }
+}

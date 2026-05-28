@@ -1,0 +1,1388 @@
+{
+  "city_id": "city-msida-extra",
+  "anchor": {
+    "name": "Msida",
+    "coords": [
+      14.4869,
+      35.8983
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Unabhängigkeitsdenkmal",
+            "hu": "Függetlenségi emlékmű",
+            "ro": "Monumentul Independenței",
+            "en": "Independence Monument"
+          },
+          "coords": [
+            14.4875,
+            35.897
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein schneller Halt, um die Bedeutung dieses nationalen Symbols zu würdigen.",
+            "hu": "Egy gyors megálló, hogy méltányoljuk ennek a nemzeti szimbólumnak a jelentőségét.",
+            "ro": "O oprire rapidă pentru a aprecia importanța acestui simbol național.",
+            "en": "A quick stop to appreciate the importance of this national symbol."
+          }
+        },
+        {
+          "name": {
+            "de": "Msida Creek Promenade",
+            "hu": "Msida Creek sétány",
+            "ro": "Promenada Msida Creek",
+            "en": "Msida Creek Promenade"
+          },
+          "coords": [
+            14.488,
+            35.8975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:29",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf den Hafen und die traditionellen maltesischen Boote.",
+            "hu": "Élvezze a kikötőre és a hagyományos máltai hajókra nyíló kilátást.",
+            "ro": "Bucurați-vă de priveliștea portului și a bărcilor tradiționale malteze.",
+            "en": "Enjoy the views of the harbour and the traditional Maltese boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Joseph",
+            "hu": "Szent József plébániatemplom",
+            "ro": "Biserica Parohială Sf. Iosif",
+            "en": "St. Joseph Parish Church"
+          },
+          "coords": [
+            14.486,
+            35.8965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Kuppel, ein Wahrzeichen von Msida.",
+            "hu": "Csodálja meg a lenyűgöző kupolát, Msida egyik jelképét.",
+            "ro": "Admirați cupola impresionantă, un punct de reper al Msida.",
+            "en": "Admire the impressive dome, a landmark of Msida."
+          }
+        },
+        {
+          "name": {
+            "de": "Msida Yacht Marina",
+            "hu": "Msida jachtkikötő",
+            "ro": "Portul de iahturi Msida",
+            "en": "Msida Yacht Marina"
+          },
+          "coords": [
+            14.4895,
+            35.899
+          ],
+          "category": "port",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für einen Mittagsimbiss mit Blick auf die luxuriösen Yachten.",
+            "hu": "Ideális egy ebédhez a luxusjachtokra nyíló kilátással.",
+            "ro": "Ideal pentru o gustare de prânz cu vedere la iahturile de lux.",
+            "en": "Ideal for a lunch snack with a view of the luxurious yachts."
+          }
+        },
+        {
+          "name": {
+            "de": "Universität von Malta",
+            "hu": "Máltai Egyetem",
+            "ro": "Universitatea din Malta",
+            "en": "University of Malta"
+          },
+          "coords": [
+            14.484,
+            35.9018
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie über den Campus und spüren Sie die jugendliche Energie.",
+            "hu": "Sétáljon végig az egyetemi campuson, és érezze a fiatalos energiát.",
+            "ro": "Plimbați-vă prin campus și simțiți energia tinerească.",
+            "en": "Stroll through the campus and feel the youthful energy."
+          }
+        },
+        {
+          "name": {
+            "de": "Msida Bastion Historic Garden",
+            "hu": "Msida Bástya Történelmi Kert",
+            "ro": "Grădina Istorică Bastionul Msida",
+            "en": "Msida Bastion Historic Garden"
+          },
+          "coords": [
+            14.499,
+            35.8945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:48",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel mit Panoramablick und einer friedlichen Atmosphäre.",
+            "hu": "Rejtett gyöngyszem panorámás kilátással és békés légkörrel.",
+            "ro": "O bijuterie ascunsă cu vederi panoramice și o atmosferă liniștită.",
+            "en": "A hidden gem with panoramic views and a peaceful atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der Uferpromenade von Msida, spüren Sie die Meeresbrise und beobachten Sie die Boote. Am Vormittag erkunden Sie das Herz der Stadt rund um die beeindruckende Pfarrkirche St. Joseph. Gönnen Sie sich ein Mittagessen in der Nähe des Jachthafens, umgeben von eleganten Schiffen. Der Nachmittag führt Sie hinauf zur Universität und in die ruhigen, historischen Gärten, die einen atemberaubenden Blick über den Hafen bieten.",
+        "hu": "Kezdje a napot Msida vízparti sétányán, érezze a tengeri szellőt és figyelje a hajókat. Délelőtt fedezze fel a város szívét a lenyűgöző Szent József plébániatemplom körül. Ebédeljen a jachtkikötő közelében, elegáns hajókkal körülvéve. Délután feljuthat az egyetemre és a csendes, történelmi kertekbe, ahonnan lélegzetelállító kilátás nyílik a kikötőre.",
+        "ro": "Începeți-vă ziua pe promenada de la malul mării din Msida, simțind briza mării și urmărind bărcile. Dimineața, explorați inima orașului în jurul impunătoarei Biserici Parohiale Sf. Iosif. Bucurați-vă de prânz lângă portul de iahturi, înconjurat de ambarcațiuni elegante. După-amiaza vă duce la Universitate și la grădinile istorice liniștite, care oferă vederi uluitoare asupra portului.",
+        "en": "Start your day on Msida's waterfront promenade, feeling the sea breeze and watching the boats. In the morning, explore the heart of the town around the imposing St. Joseph Parish Church. Enjoy lunch near the yacht marina, surrounded by elegant vessels. The afternoon takes you up to the University and into the quiet historic gardens, which offer breathtaking views over the harbour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastizzi",
+            "tip": "Probieren Sie dieses herzhafte maltesische Gebäck in einer der vielen 'Pastizzerias'."
+          },
+          {
+            "name": "Fisch des Tages",
+            "tip": "Frischer geht es nicht in den Restaurants rund um den Jachthafen."
+          },
+          {
+            "name": "Kinnie",
+            "tip": "Maltas einzigartiges bittersüßes Erfrischungsgetränk, perfekt für eine Pause am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastizzi",
+            "tip": "Kóstolja meg ezt a sós máltai péksüteményt a sok 'Pastizzeria' egyikében."
+          },
+          {
+            "name": "A nap hala",
+            "tip": "A legfrissebb hal a jachtkikötő körüli éttermekben."
+          },
+          {
+            "name": "Kinnie",
+            "tip": "Málta egyedi keserédes üdítőitala, tökéletes egy délutáni szünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastizzi",
+            "tip": "Încercați acest produs de patiserie maltez sărat de la una dintre numeroasele 'Pastizzerias'."
+          },
+          {
+            "name": "Peștele zilei",
+            "tip": "Cel mai proaspăt pește posibil în restaurantele din jurul portului de iahturi."
+          },
+          {
+            "name": "Kinnie",
+            "tip": "Băutura răcoritoare unică, dulce-amăruie, din Malta, perfectă pentru o pauză de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastizzi",
+            "tip": "Try this savoury Maltese pastry from one of the many 'Pastizzerias'."
+          },
+          {
+            "name": "Fish of the Day",
+            "tip": "As fresh as it gets in the restaurants around the yacht marina."
+          },
+          {
+            "name": "Kinnie",
+            "tip": "Malta's unique bittersweet soft drink, perfect for an afternoon break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Msida Bastion Historic Garden",
+            "tip": "Ein Ort der Ruhe mit herrlichem Ausblick, ideal zum Nachdenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Wied il-Kappara",
+            "tip": "Entfliehen Sie in dieses kleine Tal für einen Moment in der Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Früher Morgen an der Promenade",
+            "tip": "Erleben Sie die Ruhe, bevor die Stadt erwacht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Msida Bástya Történelmi Kert",
+            "tip": "A nyugalom helye, nagyszerű kilátással, ideális a gondolkodáshoz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Wied il-Kappara",
+            "tip": "Meneküljön el ebbe a kis völgybe egy pillanatra a természetben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggel a sétányon",
+            "tip": "Tapasztalja meg a nyugalmat, mielőtt a város felébred.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Istorică Bastionul Msida",
+            "tip": "Un loc de liniște cu vederi minunate, ideal pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Wied il-Kappara",
+            "tip": "Evadați în această mică vale pentru un moment în natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dimineața devreme pe promenadă",
+            "tip": "Experimentați liniștea înainte ca orașul să se trezească.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Msida Bastion Historic Garden",
+            "tip": "A place of tranquility with great views, ideal for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Wied il-Kappara",
+            "tip": "Escape to this small valley for a moment in nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Early morning at the Promenade",
+            "tip": "Experience the quiet before the town wakes up.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kioske",
+            "tip": "Kaufen Sie Snacks und Getränke entlang der Promenade."
+          },
+          {
+            "name": "Universitätsbuchhandlung",
+            "tip": "Finden Sie Bücher über die maltesische Geschichte und Kultur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kioszkok",
+            "tip": "Vásároljon rágcsálnivalókat és italokat a sétány mentén."
+          },
+          {
+            "name": "Egyetemi könyvesbolt",
+            "tip": "Keressen könyveket a máltai történelemről és kultúráról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri locale",
+            "tip": "Cumpărați gustări și băuturi de-a lungul promenadei."
+          },
+          {
+            "name": "Librăria universității",
+            "tip": "Găsiți cărți despre istoria și cultura malteză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Kiosks",
+            "tip": "Purchase snacks and drinks along the promenade."
+          },
+          {
+            "name": "University Bookstore",
+            "tip": "Find books on Maltese history and culture."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders in den Sommermonaten.",
+          "Einige Wege können uneben sein, achten Sie also auf Ihren Schritt.",
+          "Respektieren Sie die Ruhe in den Wohn- und Universitätsgebieten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Hozzon magával vizet, különösen a nyári hónapokban.",
+          "Néhány út egyenetlen lehet, ezért figyeljen a lépéseire.",
+          "Tartsa tiszteletben a csendet a lakó- és egyetemi területeken."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Aduceți apă, mai ales în lunile de vară.",
+          "Unele poteci pot fi denivelate, așa că aveți grijă pe unde călcați.",
+          "Respectați liniștea în zonele rezidențiale și universitare."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring water with you, especially during the summer months.",
+          "Some paths can be uneven, so watch your step.",
+          "Be respectful of the quiet in residential and university areas."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Msida Creek Promenade",
+            "hu": "Msida Creek sétány",
+            "ro": "Promenada Msida Creek",
+            "en": "Msida Creek Promenade"
+          },
+          "coords": [
+            14.488,
+            35.8975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour mit einer leichten Fahrt entlang des Wassers.",
+            "hu": "Kezdje a kerékpártúrát egy könnyed tekeréssel a víz mellett.",
+            "ro": "Începeți turul cu bicicleta cu o plimbare ușoară de-a lungul apei.",
+            "en": "Start your bike tour with an easy ride along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Msida Yacht Marina",
+            "hu": "Msida jachtkikötő",
+            "ro": "Portul de iahturi Msida",
+            "en": "Msida Yacht Marina"
+          },
+          "coords": [
+            14.4895,
+            35.899
+          ],
+          "category": "port",
+          "arrive_at": "09:44",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und spazieren Sie entlang der Stege, um die Boote zu bewundern.",
+            "hu": "Zárja le a kerékpárt, és sétáljon a stégeken, hogy megcsodálja a hajókat.",
+            "ro": "Blocați-vă bicicleta și plimbați-vă pe pontoane pentru a admira bărcile.",
+            "en": "Lock up your bike and walk the pontoons to admire the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Joseph",
+            "hu": "Szent József plébániatemplom",
+            "ro": "Biserica Parohială Sf. Iosif",
+            "en": "St. Joseph Parish Church"
+          },
+          "coords": [
+            14.486,
+            35.8965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber steiler Anstieg, der sich für die Aussicht und Architektur lohnt.",
+            "hu": "Egy rövid, de meredek emelkedő, ami megéri a kilátásért és az építészetért.",
+            "ro": "O urcare scurtă, dar abruptă, care merită pentru priveliște și arhitectură.",
+            "en": "A short but steep climb that's worth it for the view and architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Wied il-Kappara",
+            "hu": "Wied il-Kappara",
+            "ro": "Wied il-Kappara",
+            "en": "Wied il-Kappara"
+          },
+          "coords": [
+            14.478,
+            35.9005
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:21",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein Hauch von Natur. Ideal für eine Pause und einen Snack.",
+            "hu": "Egy kis természet. Ideális egy szünetre és egy harapnivalóra.",
+            "ro": "O gură de natură. Ideal pentru o pauză și o gustare.",
+            "en": "A touch of nature. Ideal for a break and a snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Universität von Malta",
+            "hu": "Máltai Egyetem",
+            "ro": "Universitatea din Malta",
+            "en": "University of Malta"
+          },
+          "coords": [
+            14.484,
+            35.9018
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:28",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Fahren Sie durch den weitläufigen Campus und essen Sie in einer der Mensen zu Mittag.",
+            "hu": "Tekerjen át a tágas egyetemen, és ebédeljen az egyik menzán.",
+            "ro": "Pedalați prin campusul întins și luați prânzul la una dintre cantine.",
+            "en": "Cycle through the sprawling campus and grab lunch at one of the canteens."
+          }
+        },
+        {
+          "name": {
+            "de": "Msida Bastion Historic Garden",
+            "hu": "Msida Bástya Történelmi Kert",
+            "ro": "Grădina Istorică Bastionul Msida",
+            "en": "Msida Bastion Historic Garden"
+          },
+          "coords": [
+            14.499,
+            35.8945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:12",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag ausklingen zu lassen, mit unvergesslicher Aussicht.",
+            "hu": "A tökéletes hely a nap befejezéséhez, felejthetetlen kilátással.",
+            "ro": "Locul perfect pentru a încheia ziua, cu vederi de neuitat.",
+            "en": "The perfect place to end the day, with unforgettable views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour entlang der Msida Creek Promenade. Am Vormittag radeln Sie zum belebten Jachthafen und erklimmen dann den Hügel zur Pfarrkirche. Mittags machen Sie eine grüne Pause im Wied il-Kappara, bevor Sie den Campus der Universität für ein Mittagessen und etwas Kultur erkunden. Der Nachmittag endet im ruhigen Msida Bastion Garden, einem perfekten Ort, um die Aussicht nach einer langen Fahrt zu genießen.",
+        "hu": "Kezdje kerékpártúráját a Msida Creek sétány mentén. Délelőtt tekerjen el a nyüzsgő jachtkikötőbe, majd másszon fel a dombra a plébániatemplomhoz. Délben tartson egy zöld szünetet Wied il-Kapparában, mielőtt felfedezné az egyetemi campust ebédre és egy kis kultúrára. A délután a csendes Msida Bástyakertben ér véget, amely tökéletes hely a kilátás élvezetére egy hosszú tekerés után.",
+        "ro": "Începeți turul cu bicicleta de-a lungul promenadei Msida Creek. Dimineața, pedalați spre portul de iahturi plin de viață, apoi urcați dealul până la biserica parohială. La prânz, faceți o pauză verde la Wied il-Kappara înainte de a explora campusul universitar pentru prânz și puțină cultură. După-amiaza se încheie la liniștita Grădină Bastion Msida, un loc perfect pentru a vă bucura de priveliște după o plimbare lungă.",
+        "en": "Begin your cycle tour along the Msida Creek Promenade. In the morning, pedal to the bustling yacht marina, then climb the hill to the parish church. At midday, take a green break at Wied il-Kappara before exploring the university campus for lunch and some culture. The afternoon concludes at the serene Msida Bastion Garden, a perfect spot to enjoy the views after a long ride."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ftira",
+            "tip": "Ein traditionelles maltesisches Sandwich, perfekt für ein schnelles und sättigendes Radler-Mittagessen."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Gönnen Sie sich am Ende Ihrer Tour ein erfrischendes Cisk Lager."
+          },
+          {
+            "name": "Gelato",
+            "tip": "Kühlen Sie sich mit einem Eis von einer der Eisdielen in der Nähe des Jachthafens ab."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ftira",
+            "tip": "Hagyományos máltai szendvics, tökéletes egy gyors és laktató kerékpáros ebédhez."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kényeztesse magát egy frissítő Cisk Lagerrel a túra végén."
+          },
+          {
+            "name": "Gelato",
+            "tip": "Hűsítse le magát egy fagylalttal a jachtkikötő közelében lévő egyik fagyizóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ftira",
+            "tip": "Un sandviș tradițional maltez, perfect pentru un prânz rapid și sățios pentru cicliști."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Răsfățați-vă cu o bere Cisk Lager răcoritoare la sfârșitul turului."
+          },
+          {
+            "name": "Gelato",
+            "tip": "Răcoriți-vă cu o înghețată de la una dintre gelateriile de lângă portul de iahturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ftira",
+            "tip": "A traditional Maltese sandwich, perfect for a quick and filling cyclist's lunch."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Treat yourself to a refreshing Cisk Lager at the end of your tour."
+          },
+          {
+            "name": "Gelato",
+            "tip": "Cool down with an ice cream from one of the parlours near the marina."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wied il-Kappara",
+            "tip": "Ein ruhiges Tal, um dem Stadtverkehr zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke im Msida Bastion Garden",
+            "tip": "Entspannen Sie Ihre Beine und genießen Sie die stille Schönheit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang über dem Jachthafen",
+            "tip": "Finden Sie einen Platz und beobachten Sie, wie die Lichter angehen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wied il-Kappara",
+            "tip": "Egy csendes völgy, hogy elmeneküljön a városi forgalom elől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Msida Bástyakertben",
+            "tip": "Pihentesse a lábait, és élvezze a csendes szépséget.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a jachtkikötő felett",
+            "tip": "Keressen egy helyet, és nézze, ahogy felgyulladnak a fények.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wied il-Kappara",
+            "tip": "O vale liniștită pentru a scăpa de traficul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci în Grădina Bastion Msida",
+            "tip": "Odihniți-vă picioarele și bucurați-vă de frumusețea tăcută.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare peste portul de iahturi",
+            "tip": "Găsiți un loc și priviți cum se aprind luminile.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wied il-Kappara",
+            "tip": "A quiet valley to escape the city traffic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches in Msida Bastion Garden",
+            "tip": "Rest your legs and enjoy the silent beauty.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset over the marina",
+            "tip": "Find a spot and watch the lights come on.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "In der Nähe gibt es möglicherweise Geschäfte für alle Notfälle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A közelben lehetnek boltok bármilyen vészhelyzet esetére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "S-ar putea să existe magazine în apropiere pentru orice urgență."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessories",
+            "tip": "There might be shops nearby for any emergencies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, wenn Sie in der Dämmerung unterwegs sind.",
+          "Schließen Sie Ihr Fahrrad an sicheren Orten ab.",
+          "Seien Sie auf einige steile Anstiege abseits der Küste vorbereitet."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket.",
+          "Viseljen sisakot, és használjon lámpát, ha szürkületkor kerékpározik.",
+          "Zárja le a kerékpárt biztonságos helyeken.",
+          "Készüljön fel néhány meredek emelkedőre a parttól távolabb."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele.",
+          "Purtați cască și folosiți lumini dacă pedalați la amurg.",
+          "Blocați-vă bicicleta în locuri sigure.",
+          "Fiți pregătiți pentru câteva urcări abrupte departe de coastă."
+        ],
+        "en": [
+          "Check your bike before you set off, especially the brakes.",
+          "Wear a helmet and use lights if riding at dusk.",
+          "Lock your bike in secure locations.",
+          "Be prepared for some steep climbs away from the coast."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wied il-Kappara",
+            "hu": "Wied il-Kappara",
+            "ro": "Wied il-Kappara",
+            "en": "Wied il-Kappara"
+          },
+          "coords": [
+            14.478,
+            35.9005
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Hauch frischer Luft. Parken Sie in der Nähe und erkunden Sie das Tal zu Fuß.",
+            "hu": "Kezdje a napot egy kis friss levegővel. Parkoljon a közelben, és fedezze fel a völgyet gyalog.",
+            "ro": "Începeți ziua cu o gură de aer proaspăt. Parcați în apropiere și explorați valea pe jos.",
+            "en": "Start the day with a breath of fresh air. Park nearby and explore the valley on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Universität von Malta & Junior College",
+            "hu": "Máltai Egyetem & Junior College",
+            "ro": "Universitatea din Malta & Junior College",
+            "en": "University of Malta & Junior College"
+          },
+          "coords": [
+            14.484,
+            35.9018
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:22",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hauptcampus. Parken Sie und machen Sie einen Spaziergang durch das akademische Zentrum Maltas.",
+            "hu": "Vezessen a fő campushoz. Parkoljon le, és tegyen egy sétát Málta akadémiai központjában.",
+            "ro": "Conduceți spre campusul principal. Parcați și faceți o plimbare prin centrul academic al Maltei.",
+            "en": "Drive to the main campus. Park and take a stroll through Malta's academic hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Msida Bastion Historic Garden",
+            "hu": "Msida Bástya Történelmi Kert",
+            "ro": "Grădina Istorică Bastionul Msida",
+            "en": "Msida Bastion Historic Garden"
+          },
+          "coords": [
+            14.499,
+            35.8945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:22",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein etwas schwieriger zu findender Parkplatz, aber die Aussicht ist die Mühe wert.",
+            "hu": "Kicsit nehezebb parkolóhelyet találni, de a kilátás megéri a fáradságot.",
+            "ro": "Un pic mai greu de găsit parcare, dar priveliștea merită efortul.",
+            "en": "A bit trickier to find parking, but the views are worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Msida Yacht Marina (Mittagessen)",
+            "hu": "Msida jachtkikötő (ebéd)",
+            "ro": "Portul de iahturi Msida (Prânz)",
+            "en": "Msida Yacht Marina (Lunch)"
+          },
+          "coords": [
+            14.4895,
+            35.899
+          ],
+          "category": "port",
+          "arrive_at": "12:54",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Parken Sie für den Rest des Tages hier. Es gibt viele Restaurants zur Auswahl.",
+            "hu": "Parkoljon le itt a nap hátralévő részére. Rengeteg étterem közül választhat.",
+            "ro": "Parcați aici pentru restul zilei. Există o mulțime de restaurante din care puteți alege.",
+            "en": "Park here for the rest of the day. Plenty of restaurants to choose from."
+          }
+        },
+        {
+          "name": {
+            "de": "Msida Creek Promenade",
+            "hu": "Msida Creek sétány",
+            "ro": "Promenada Msida Creek",
+            "en": "Msida Creek Promenade"
+          },
+          "coords": [
+            14.488,
+            35.8975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:28",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang nach dem Mittagessen, um die Yachten und das Wasser zu genießen.",
+            "hu": "Egy pihentető séta ebéd után, hogy élvezze a jachtokat és a vizet.",
+            "ro": "O plimbare relaxantă după prânz pentru a vă bucura de iahturi și de apă.",
+            "en": "A relaxing post-lunch stroll to enjoy the yachts and the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Joseph",
+            "hu": "Szent József plébániatemplom",
+            "ro": "Biserica Parohială Sf. Iosif",
+            "en": "St. Joseph Parish Church"
+          },
+          "coords": [
+            14.486,
+            35.8965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:13",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, ein kurzer Spaziergang vom Jachthafen entfernt.",
+            "hu": "A nap utolsó állomása, egy rövid sétára a jachtkikötőtől.",
+            "ro": "Ultima oprire a zilei, la o scurtă plimbare de portul de iahturi.",
+            "en": "The final stop of the day, a short walk from the marina."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Grünen im Wied il-Kappara. Am Vormittag fahren Sie zum Uni-Campus und dann zum historischen Msida Bastion Garden für eine unglaubliche Aussicht. Parken Sie Ihr Auto für den Rest des Tages am Jachthafen und genießen Sie ein gemütliches Mittagessen. Am Nachmittag erkunden Sie die Uferpromenade und die berühmte Kirche von Msida zu Fuß, ganz ohne Verkehrsstress.",
+        "hu": "Kezdje a napot a zöldben, Wied il-Kapparában. Délelőtt vezessen az egyetemi campusra, majd a történelmi Msida Bástyakertbe a hihetetlen kilátásért. Parkolja le autóját a nap hátralévő részére a jachtkikötőben, és élvezze a kellemes ebédet. Délután fedezze fel gyalog a vízparti sétányt és Msida híres templomát, a forgalmi stressz nélkül.",
+        "ro": "Începeți ziua în verdeață la Wied il-Kappara. Dimineața, conduceți spre campusul universitar și apoi spre Grădina Istorică Bastionul Msida pentru vederi incredibile. Parcați mașina pentru restul zilei la portul de iahturi pentru un prânz pe îndelete. După-amiaza, explorați promenada de la malul mării și faimoasa biserică din Msida pe jos, fără stresul traficului.",
+        "en": "Start your day in the green at Wied il-Kappara. In the morning, drive to the university campus and then to the historic Msida Bastion Garden for incredible views. Park your car for the rest of the day at the yacht marina for a leisurely lunch. The afternoon is for exploring the waterfront and Msida's famous church on foot, free from traffic stress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kanincheneintopf (Stuffat tal-Fenek)",
+            "tip": "Maltas Nationalgericht, das man am besten in einem traditionellen Restaurant genießt."
+          },
+          {
+            "name": "Lampuki Pie",
+            "tip": "Ein saisonaler Fischkuchen, halten Sie danach Ausschau, wenn Sie im Herbst hier sind."
+          },
+          {
+            "name": "Maltesischer Weinkeller",
+            "tip": "Fragen Sie nach einem lokalen Wein, der zu Ihrem Essen passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyúlpörkölt (Stuffat tal-Fenek)",
+            "tip": "Málta nemzeti étele, amelyet a legjobb egy hagyományos étteremben elfogyasztani."
+          },
+          {
+            "name": "Lampuki pite",
+            "tip": "Szezonális halas pite, keresse, ha ősszel látogat ide."
+          },
+          {
+            "name": "Máltai borpince",
+            "tip": "Kérjen egy helyi bort az ételéhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocăniță de iepure (Stuffat tal-Fenek)",
+            "tip": "Mâncarea națională a Maltei, cel mai bine savurată la un restaurant tradițional."
+          },
+          {
+            "name": "Plăcintă Lampuki",
+            "tip": "O plăcintă de pește de sezon, căutați-o dacă vizitați în toamnă."
+          },
+          {
+            "name": "Crama malteză",
+            "tip": "Cereți un vin local care să se potrivească cu masa dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rabbit Stew (Stuffat tal-Fenek)",
+            "tip": "Malta's national dish, best enjoyed at a traditional restaurant."
+          },
+          {
+            "name": "Lampuki Pie",
+            "tip": "A seasonal fish pie, look out for it if visiting in Autumn."
+          },
+          {
+            "name": "Maltese Wine",
+            "tip": "Ask for a local wine to pair with your meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Msida Bastion Historic Garden",
+            "tip": "Ein friedlicher Rückzugsort über dem geschäftigen Hafen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Wied il-Kappara",
+            "tip": "Hören Sie die Geräusche der Natur, nur wenige Minuten von der Stadt entfernt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Seitenstraßen der Universität",
+            "tip": "Während der Vorlesungszeiten sind die Bereiche um den Campus überraschend ruhig.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Msida Bástya Történelmi Kert",
+            "tip": "Békés menedék a nyüzsgő kikötő felett.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Wied il-Kappara",
+            "tip": "Hallgassa a természet hangjait, mindössze percekre a várostól.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egyetemi mellékutcák",
+            "tip": "Az órák alatt a campus körüli területek meglepően csendesek.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Istorică Bastionul Msida",
+            "tip": "Un refugiu pașnic deasupra portului aglomerat.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Wied il-Kappara",
+            "tip": "Ascultați sunetele naturii la doar câteva minute de oraș.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Străzi secundare ale universității",
+            "tip": "În timpul orelor de curs, zonele din jurul campusului sunt surprinzător de liniștite.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Msida Bastion Historic Garden",
+            "tip": "A peaceful retreat above the busy harbour.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Wied il-Kappara",
+            "tip": "Listen to the sounds of nature just minutes from the town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "University side-streets",
+            "tip": "During lecture times, the areas around campus are surprisingly quiet.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Halten Sie Ausschau nach Souvenirläden in der Nähe der touristischeren Gegenden von Sliema/Valletta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen ajándékboltokat a Sliema/Valletta turistásabb területei közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați magazine de suveniruri mai aproape de zonele mai turistice Sliema/Valletta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Look for souvenir shops closer to the more touristy areas of Sliema/Valletta."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann in Msida eine Herausforderung sein, seien Sie also geduldig.",
+          "Verwenden Sie eine Navigations-App, da die Straßen verwirrend sein können.",
+          "Achten Sie auf Einbahnstraßen und enge Gassen.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet Msidában, ezért legyen türelmes.",
+          "Használjon navigációs alkalmazást, mivel az utcák zavaróak lehetnek.",
+          "Vigyázzon az egyirányú utcákra és a szűk sikátorokra.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în Msida, așa că aveți răbdare.",
+          "Utilizați o aplicație de navigare, deoarece străzile pot fi încurcate.",
+          "Fiți atenți la străzile cu sens unic și la aleile înguste.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Parking can be a challenge in Msida, so be patient.",
+          "Use a navigation app, as the roads can be confusing.",
+          "Be aware of one-way streets and narrow alleys.",
+          "Do not leave valuables visible in your car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Msida (Ankunft)",
+            "hu": "Msida buszmegálló (érkezés)",
+            "ro": "Stația de autobuz Msida (Sosire)",
+            "en": "Msida Bus Stop (Arrival)"
+          },
+          "coords": [
+            14.487,
+            35.898
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie sich mit der Umgebung vertraut und überprüfen Sie die Busfahrpläne für später.",
+            "hu": "Ismerkedjen meg a környékkel, és ellenőrizze a későbbi buszmenetrendeket.",
+            "ro": "Familiarizați-vă cu zona și verificați orarele autobuzelor pentru mai târziu.",
+            "en": "Get your bearings and check the bus schedules for later."
+          }
+        },
+        {
+          "name": {
+            "de": "Msida Creek Promenade",
+            "hu": "Msida Creek sétány",
+            "ro": "Promenada Msida Creek",
+            "en": "Msida Creek Promenade"
+          },
+          "coords": [
+            14.488,
+            35.8975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:22",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einem Spaziergang entlang des Wassers.",
+            "hu": "Kezdje egy sétával a vízparton.",
+            "ro": "Începeți cu o plimbare de-a lungul apei.",
+            "en": "Start with a walk along the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Joseph",
+            "hu": "Szent József plébániatemplom",
+            "ro": "Biserica Parohială Sf. Iosif",
+            "en": "St. Joseph Parish Church"
+          },
+          "coords": [
+            14.486,
+            35.8965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:07",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein ikonischer Anblick, der nur einen kurzen Spaziergang entfernt ist.",
+            "hu": "Egy ikonikus látvány, csak egy rövid séta.",
+            "ro": "O priveliște iconică la doar o scurtă plimbare.",
+            "en": "An iconic sight just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Universität von Malta (mit Bus)",
+            "hu": "Máltai Egyetem (busszal)",
+            "ro": "Universitatea din Malta (cu autobuzul)",
+            "en": "University of Malta (by bus)"
+          },
+          "coords": [
+            14.484,
+            35.9018
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Campus, um Energie für die Erkundung zu sparen.",
+            "hu": "Menjen busszal az egyetemre, hogy energiát takarítson meg a felfedezéshez.",
+            "ro": "Luați un autobuz până în campus pentru a economisi energie pentru explorare.",
+            "en": "Take a bus up to campus to save energy for exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Msida Bastion Historic Garden (mit Bus)",
+            "hu": "Msida Bástya Történelmi Kert (busszal)",
+            "ro": "Grădina Istorică Bastionul Msida (cu autobuzul)",
+            "en": "Msida Bastion Historic Garden (by bus)"
+          },
+          "coords": [
+            14.499,
+            35.8945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:38",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt bringt Sie zu diesem friedlichen Ort.",
+            "hu": "Egy másik rövid buszút elviszi erre a békés helyre.",
+            "ro": "O altă călătorie scurtă cu autobuzul vă va duce la acest loc pașnic.",
+            "en": "Another short bus ride will take you to this peaceful spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Msida Yacht Marina (Spaziergang)",
+            "hu": "Msida jachtkikötő (séta)",
+            "ro": "Portul de iahturi Msida (plimbare)",
+            "en": "Msida Yacht Marina (walk)"
+          },
+          "coords": [
+            14.4895,
+            35.899
+          ],
+          "category": "port",
+          "arrive_at": "15:08",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem späten Mittagessen oder frühen Abendessen am Wasser.",
+            "hu": "Zárja a napot egy késői ebéddel vagy korai vacsorával a vízparton.",
+            "ro": "Încheiați ziua cu un prânz târziu sau o cină devreme lângă apă.",
+            "en": "End the day with a late lunch or early dinner by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Msida mit einem Spaziergang entlang der Uferpromenade und zur Kirche. Am Vormittag bringt Sie ein Bus zum weitläufigen Campus der Universität. Ein weiterer Bus bringt Sie zu den ruhigen Msida Bastion Gardens für einen Panoramablick und eine Mittagspause. Am Nachmittag kehren Sie zum Jachthafen zurück, um die maritime Atmosphäre zu genießen und den Tag bei einem Essen am Wasser ausklingen zu lassen.",
+        "hu": "Kezdje a napot Msida szívében egy sétával a vízparti sétányon és a templomnál. Délelőtt egy busz felviszi Önt a tágas egyetemi campusra. Egy másik busz elviszi a csendes Msida Bástyakertekbe, ahonnan panorámás kilátás nyílik és ebédidőt tölthet el. Délután térjen vissza a jachtkikötőbe, hogy élvezze a tengeri hangulatot, és a napot egy vízparti étkezéssel zárja.",
+        "ro": "Începeți ziua în inima Msida cu o plimbare de-a lungul promenadei și până la biserică. Dimineața, un autobuz vă va duce la campusul universitar întins. Un alt autobuz vă va duce la liniștitele Grădini Bastion Msida pentru priveliști panoramice și o pauză de prânz. După-amiaza, întoarceți-vă la portul de iahturi pentru a vă bucura de atmosfera maritimă, încheind ziua cu o masă lângă apă.",
+        "en": "Start your day in the heart of Msida with a walk along the promenade and to the church. In the morning, a bus will take you up to the sprawling university campus. Another bus hop takes you to the tranquil Msida Bastion Gardens for panoramic views and a lunch break. The afternoon sees you returning to the marina to soak in the maritime atmosphere, ending the day with a meal by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Imbissbuden in der Nähe der Bushaltestellen",
+            "tip": "Perfekt für einen schnellen Snack, während Sie auf Ihren Bus warten."
+          },
+          {
+            "name": "Studentencafés",
+            "tip": "Günstige und herzhafte Mahlzeiten rund um den Universitätscampus."
+          },
+          {
+            "name": "Meeresfrüchte-Platte",
+            "tip": "Teilen Sie eine Platte mit Freunden in einem der Restaurants am Jachthafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfék a buszmegállók közelében",
+            "tip": "Tökéletes egy gyors harapnivalóhoz, miközben a buszra vár."
+          },
+          {
+            "name": "Diákkávézók",
+            "tip": "Olcsó és bőséges ételek az egyetemi campus környékén."
+          },
+          {
+            "name": "Tenger gyümölcsei tál",
+            "tip": "Osszon meg egy tálat a barátaival a kikötő egyik éttermében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri de mâncare lângă stațiile de autobuz",
+            "tip": "Perfect pentru o gustare rapidă în timp ce așteptați autobuzul."
+          },
+          {
+            "name": "Cafenele studențești",
+            "tip": "Mese ieftine și copioase în jurul campusului universitar."
+          },
+          {
+            "name": "Platou cu fructe de mare",
+            "tip": "Împărțiți un platou cu prietenii la unul dintre restaurantele din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Food kiosks near bus stops",
+            "tip": "Perfect for a quick snack while waiting for your bus."
+          },
+          {
+            "name": "Student Cafes",
+            "tip": "Cheap and hearty meals available around the university campus."
+          },
+          {
+            "name": "Seafood Platter",
+            "tip": "Share a platter with friends at one of the marina restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Deck eines Busses",
+            "tip": "Genießen Sie die Aussicht und eine andere Perspektive auf die Stadt.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Msida Bastion Historic Garden",
+            "tip": "Auch mit öffentlichen Verkehrsmitteln leicht erreichbar, ein idealer Ort der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Universitätsbibliothek",
+            "tip": "Wenn Sie eine Pause brauchen, ist die Bibliothek ein ruhiger Ort.",
+            "emoji": "🤫"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy busz felső szintje",
+            "tip": "Élvezze a kilátást és a város más szemszögét.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Msida Bástya Történelmi Kert",
+            "tip": "Tömegközlekedéssel is könnyen megközelíthető, ideális csendes hely.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egyetemi könyvtár",
+            "tip": "Ha szünetre van szüksége, a könyvtár egy csendes hely.",
+            "emoji": "🤫"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puntea superioară a unui autobuz",
+            "tip": "Bucurați-vă de priveliști și de o perspectivă diferită asupra orașului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Grădina Istorică Bastionul Msida",
+            "tip": "Ușor accesibil chiar și cu transportul public, un loc ideal de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Biblioteca universitară",
+            "tip": "Dacă aveți nevoie de o pauză, biblioteca este un spațiu liniștit.",
+            "emoji": "🤫"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of a bus",
+            "tip": "Enjoy the views and a different perspective of the town.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Msida Bastion Historic Garden",
+            "tip": "Easily accessible even by public transport, an ideal quiet spot.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "University Library",
+            "tip": "If you need a break, the library is a quiet space.",
+            "emoji": "🤫"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bücher und Schreibwaren",
+            "tip": "Die Geschäfte rund um die Universität sind gut sortiert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könyvek és írószerek",
+            "tip": "Az egyetem körüli üzletek jól felszereltek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărți și papetărie",
+            "tip": "Magazinele din jurul universității sunt bine aprovizionate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Books and Stationery",
+            "tip": "The shops around the university are well-stocked."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tallinja-Karte für mehrere Fahrten, um Geld zu sparen.",
+          "Verwenden Sie die Tallinja-App, um Busse in Echtzeit zu verfolgen.",
+          "Busse können während der Stoßzeiten überfüllt sein.",
+          "Validieren Sie Ihr Ticket jedes Mal, wenn Sie in einen Bus einsteigen."
+        ],
+        "hu": [
+          "Vásároljon Tallinja kártyát több utazáshoz, hogy pénzt takarítson meg.",
+          "Használja a Tallinja alkalmazást a buszok valós idejű követéséhez.",
+          "A buszok zsúfoltak lehetnek a csúcsidőben.",
+          "Érvényesítse a jegyét minden alkalommal, amikor felszáll egy buszra."
+        ],
+        "ro": [
+          "Cumpărați un card Tallinja pentru mai multe călătorii pentru a economisi bani.",
+          "Utilizați aplicația Tallinja pentru a urmări autobuzele în timp real.",
+          "Autobuzele pot fi aglomerate în timpul orelor de vârf.",
+          "Validați-vă biletul de fiecare dată când urcați într-un autobuz."
+        ],
+        "en": [
+          "Buy a Tallinja card for multiple journeys to save money.",
+          "Use the Tallinja app to track buses in real-time.",
+          "Buses can be crowded during peak hours.",
+          "Validate your ticket every time you board a bus."
+        ]
+      }
+    }
+  }
+}

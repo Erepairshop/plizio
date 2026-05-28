@@ -1,0 +1,1470 @@
+{
+  "city_id": "portugal-fundao-cities-v2",
+  "anchor": {
+    "name": "Fundão",
+    "coords": [
+      -7.5,
+      40.1333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Praça do Município",
+            "hu": "Városháza tér",
+            "ro": "Praça do Município",
+            "en": "Praça do Município (Town Hall Square)"
+          },
+          "coords": [
+            -7.5005,
+            40.137
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz und beobachten Sie das lokale Leben.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában, és figyelje a helyi életet.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață și observați viața locală.",
+            "en": "Start your day with a coffee at one of the square's cafés and watch the local life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelourinho do Fundão",
+            "hu": "Fundão pellengére",
+            "ro": "Pelourinho do Fundão",
+            "en": "Pillory of Fundão"
+          },
+          "coords": [
+            -7.5008,
+            40.1372
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein manuelinischer Schandpfahl, Symbol der städtischen Autonomie. Perfekt für ein schnelles Foto.",
+            "hu": "Egy mánuel stílusú pellengér, a városi autonómia jelképe. Tökéletes egy gyors fotóhoz.",
+            "ro": "Un stâlp al infamiei în stil manuelin, simbol al autonomiei municipale. Perfect pentru o fotografie rapidă.",
+            "en": "A Manueline-style pillory, a symbol of municipal autonomy. Perfect for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz do Fundão",
+            "hu": "Fundão-i főtemplom",
+            "ro": "Igreja Matriz do Fundão",
+            "en": "Mother Church of Fundão"
+          },
+          "coords": [
+            -7.5015,
+            40.138
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocken Altaraufsätze und die bemalte Decke im Inneren.",
+            "hu": "Csodálja meg a barokk oltárképeket és a festett mennyezetet odabent.",
+            "ro": "Admirați altarele baroce și tavanul pictat din interior.",
+            "en": "Admire the Baroque altarpieces and the painted ceiling inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum José Monteiro",
+            "hu": "José Monteiro Régészeti Múzeum",
+            "ro": "Muzeul Arheologic José Monteiro",
+            "en": "José Monteiro Archaeological Museum"
+          },
+          "coords": [
+            -7.499,
+            40.1385
+          ],
+          "category": "museums",
+          "arrive_at": "10:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die römischen Artefakte, die in der Region gefunden wurden.",
+            "hu": "Fókuszáljon a régióban talált római kori leletekre.",
+            "ro": "Concentrați-vă pe artefactele romane găsite în regiune.",
+            "en": "Focus on the Roman artifacts discovered in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Solar dos Falcões",
+            "hu": "Solar dos Falcões",
+            "ro": "Solar dos Falcões",
+            "en": "Solar dos Falcões"
+          },
+          "coords": [
+            -7.503,
+            40.1395
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Obwohl es sich in Privatbesitz befindet, ist die Fassade ein großartiges Beispiel für die Adelsarchitektur des 18. Jahrhunderts.",
+            "hu": "Bár magántulajdonban van, a homlokzat a 18. századi nemesi építészet remek példája.",
+            "ro": "Deși este proprietate privată, fațada este un exemplu superb de arhitectură nobiliară din secolul al XVIII-lea.",
+            "en": "Although it's private property, the facade is a great example of 18th-century noble architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtbibliothek Eugénio de Andrade",
+            "hu": "Eugénio de Andrade Városi Könyvtár",
+            "ro": "Biblioteca Municipală Eugénio de Andrade",
+            "en": "Eugénio de Andrade Municipal Library"
+          },
+          "coords": [
+            -7.495,
+            40.141
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:03",
+          "stay_min": 50,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein modernes Kulturzentrum. Schauen Sie nach, ob es eine temporäre Ausstellung gibt.",
+            "hu": "Egy modern kulturális központ. Nézze meg, van-e időszaki kiállítás.",
+            "ro": "Un centru cultural modern. Verificați dacă există vreo expoziție temporară.",
+            "en": "A modern cultural hub. Check if there's a temporary exhibition on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Verde do Fundão",
+            "hu": "Fundão-i Zöld Park",
+            "ro": "Parque Verde do Fundão",
+            "en": "Green Park of Fundão"
+          },
+          "coords": [
+            -7.493,
+            40.142
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um sich am Nachmittag zu entspannen, vielleicht mit einem Buch aus der Bibliothek.",
+            "hu": "Tökéletes hely a délutáni pihenésre, talán egy könyvvel a könyvtárból.",
+            "ro": "Locul perfect pentru a vă relaxa după-amiaza, poate cu o carte de la bibliotecă.",
+            "en": "The perfect spot to relax in the afternoon, perhaps with a book from the library."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt auf der belebten Praça do Município, dem Herzen von Fundão. Am Vormittag erkunden Sie die historischen Symbole der Stadt, wie den Schandpfahl und die Hauptkirche, gefolgt von einem tiefen Einblick in die Vergangenheit im Archäologischen Museum. Der Nachmittag steht im Zeichen der Entspannung und Kultur, beginnend mit der eleganten Fassade des Solar dos Falcões, gefolgt von einem Besuch der modernen Bibliothek und einem ruhigen Abschluss im üppigen Parque Verde. Dieser Tag bietet eine ausgewogene Mischung aus Geschichte und Freizeit in einem kompakten, zu Fuß erreichbaren Bereich.",
+        "hu": "Sétája Fundão szívében, a nyüzsgő Praça do Município téren kezdődik. A délelőtt folyamán felfedezi a város történelmi jelképeit, mint a pellengért és a főtemplomot, majd a Régészeti Múzeumban mélyül el a múltban. A délután a pihenésé és a kultúráé: megcsodálja a Solar dos Falcões elegáns homlokzatát, ellátogat a modern könyvtárba, végül pedig a buja Parque Verde parkban zárja a napot. Ez az útvonal a történelem és a kikapcsolódás kiegyensúlyozott keverékét kínálja egy kompakt, gyalogosan bejárható területen.",
+        "ro": "Turul dumneavoastră pietonal începe în vibranta Praça do Município, inima orașului Fundão. Dimineața explorați simbolurile istorice ale orașului, cum ar fi stâlpul infamiei și biserica principală, urmate de o incursiune în trecut la Muzeul Arheologic. După-amiaza este dedicată relaxării și culturii, admirând fațada elegantă a Solar dos Falcões, vizitând biblioteca modernă și încheind ziua într-o notă liniștită în luxuriantul Parque Verde. Acest itinerar oferă un amestec echilibrat de istorie și relaxare într-o zonă compactă, ușor de parcurs pe jos.",
+        "en": "Your walking tour starts in the vibrant Praça do Município, the heart of Fundão. The morning is for exploring the city's historical symbols like the pillory and the Mother Church, followed by a deep dive into the past at the Archaeological Museum. The afternoon is for relaxation and culture, admiring the elegant facade of Solar dos Falcões, visiting the modern library, and ending on a quiet note in the lush Parque Verde. This itinerary offers a balanced mix of history and leisure in a compact, walkable area."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kirschen aus Fundão",
+            "tip": "Probieren Sie die berühmten Kirschen der Region, besonders wenn Sie im Frühsommer hier sind."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Ein klassisches portugiesisches Gebäck, das man in jeder Bäckerei (Pastelaria) findet."
+          },
+          {
+            "name": "Restaurante O Beiral",
+            "tip": "Bekannt für seine traditionelle portugiesische Küche und herzhaften Fleischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fundão-i cseresznye",
+            "tip": "Kóstolja meg a régió híres cseresznyéjét, különösen, ha kora nyáron látogat ide."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Klasszikus portugál sütemény, amelyet minden pékségben (Pastelaria) megtalál."
+          },
+          {
+            "name": "Restaurante O Beiral",
+            "tip": "Hagyományos portugál konyhájáról és kiadós húsételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cireșe de Fundão",
+            "tip": "Gustați faimoasele cireșe ale regiunii, mai ales dacă vizitați la începutul verii."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Un desert clasic portughez pe care îl puteți găsi la orice patiserie (Pastelaria)."
+          },
+          {
+            "name": "Restaurante O Beiral",
+            "tip": "Cunoscut pentru bucătăria sa tradițională portugheză și mâncărurile consistente din carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cherries from Fundão",
+            "tip": "Taste the region's famous cherries, especially if you're visiting in early summer."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "A classic Portuguese pastry you can find at any bakery (Pastelaria)."
+          },
+          {
+            "name": "Restaurante O Beiral",
+            "tip": "Known for its traditional Portuguese cuisine and hearty meat dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Verde do Fundão",
+            "tip": "Finden Sie eine ruhige Bank am See und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten der Capela de Nossa Senhora da Conceição",
+            "tip": "Ein friedlicher, oft übersehener Ort mit schöner Aussicht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Serra da Gardunha",
+            "tip": "Für eine längere Flucht, die nahegelegenen Berge bieten absolute Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Verde do Fundão",
+            "tip": "Keressen egy csendes padot a tó mellett, és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela de Nossa Senhora da Conceição kertje",
+            "tip": "Békés, gyakran figyelmen kívül hagyott hely, szép kilátással.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Serra da Gardunha",
+            "tip": "Egy hosszabb kikapcsolódáshoz a közeli hegyek teljes nyugalmat kínálnak.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque Verde do Fundão",
+            "tip": "Găsiți o bancă liniștită lângă lac și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Capelei Nossa Senhora da Conceição",
+            "tip": "Un loc pașnic, adesea trecut cu vederea, cu priveliști frumoase.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Serra da Gardunha",
+            "tip": "Pentru o evadare mai lungă, munții din apropiere oferă o liniște absolută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque Verde do Fundão",
+            "tip": "Find a quiet bench by the lake and enjoy the nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Capela de Nossa Senhora da Conceição",
+            "tip": "A peaceful, often overlooked spot with nice views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Serra da Gardunha",
+            "tip": "For a longer escape, the nearby mountains offer absolute tranquility.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie lokale Produkte, insbesondere Käse, Olivenöl und natürlich Kirschen."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigter Keramik und Textilien in den kleinen Läden der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi termékeket, különösen sajtot, olívaolajat és természetesen cseresznyét."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és textíliákat az óváros kis üzleteiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Locală",
+            "tip": "Cumpărați produse locale, în special brânzeturi, ulei de măsline și, desigur, cireșe."
+          },
+          {
+            "name": "Magazine de Artizanat",
+            "tip": "Căutați ceramică și textile lucrate manual în micile magazine din centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for local produce, especially cheese, olive oil, and of course, cherries."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for handmade ceramics and textiles in the small shops of the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Geschäfte und einige Museen können zur Mittagszeit (ca. 13:00-15:00) schließen.",
+          "Halten Sie immer etwas Bargeld bereit, da kleinere Cafés möglicherweise keine Karten akzeptieren.",
+          "Ein leichter Schal oder eine Jacke ist auch an warmen Tagen nützlich, um Kirchen zu betreten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "A legtöbb üzlet és néhány múzeum bezárhat ebédidőben (kb. 13:00-15:00).",
+          "Mindig tartson magánál némi készpénzt, mivel a kisebb kávézók nem mindig fogadnak el kártyát.",
+          "Egy könnyű sál vagy dzseki még meleg napokon is hasznos lehet a templomokba való belépéshez."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea magazinelor și unele muzee pot fi închise la prânz (aprox. 13:00-15:00).",
+          "Aveți întotdeauna niște numerar la dumneavoastră, deoarece cafenelele mai mici s-ar putea să nu accepte carduri.",
+          "O eșarfă ușoară sau o jachetă este utilă chiar și în zilele calde pentru a intra în biserici."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most shops and some museums might close for lunch (around 1 PM to 3 PM).",
+          "Always keep some cash on you, as smaller cafes might not accept cards.",
+          "A light scarf or jacket is useful even on warm days for entering churches."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Praça do Município",
+            "hu": "Városháza tér",
+            "ro": "Praça do Município",
+            "en": "Praça do Município (Town Hall Square)"
+          },
+          "coords": [
+            -7.5005,
+            40.137
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und genießen Sie einen Kaffee, bevor die Tour beginnt.",
+            "hu": "Zárja le a kerékpárt, és igyon egy kávét a túra megkezdése előtt.",
+            "ro": "Asigurați-vă bicicleta și savurați o cafea înainte de a începe turul.",
+            "en": "Lock up your bike and enjoy a coffee before starting the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz do Fundão",
+            "hu": "Fundão-i főtemplom",
+            "ro": "Igreja Matriz do Fundão",
+            "en": "Mother Church of Fundão"
+          },
+          "coords": [
+            -7.5015,
+            40.138
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:34",
+          "stay_min": 35,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Achten Sie auf die kunstvollen Holzschnitzereien, die typisch für die Region sind.",
+            "hu": "Figyelje meg a régióra jellemző, díszes fafaragásokat.",
+            "ro": "Observați sculpturile elaborate în lemn, tipice pentru regiune.",
+            "en": "Note the ornate wood carvings, typical of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela de Nossa Senhora da Conceição",
+            "hu": "Nossa Senhora da Conceição kápolna",
+            "ro": "Capela de Nossa Senhora da Conceição",
+            "en": "Chapel of Our Lady of the Conception"
+          },
+          "coords": [
+            -7.505,
+            40.135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Von hier aus hat man einen leichten Panoramablick über die Stadt.",
+            "hu": "Innen enyhe panorámás kilátás nyílik a városra.",
+            "ro": "De aici se poate admira o ușoară vedere panoramică asupra orașului.",
+            "en": "Offers a slight panoramic view over the town from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum José Monteiro",
+            "hu": "José Monteiro Régészeti Múzeum",
+            "ro": "Muzeul Arheologic José Monteiro",
+            "en": "José Monteiro Archaeological Museum"
+          },
+          "coords": [
+            -7.499,
+            40.1385
+          ],
+          "category": "museums",
+          "arrive_at": "11:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Sammlung ist kompakt, aber reich an lokaler Geschichte. Ideal für eine längere Pause.",
+            "hu": "A gyűjtemény kompakt, de gazdag helytörténeti anyagban. Ideális egy hosszabb pihenőre.",
+            "ro": "Colecția este compactă, dar bogată în istorie locală. Ideală pentru o pauză mai lungă.",
+            "en": "The collection is compact but rich in local history. Ideal for a longer break."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtbibliothek Eugénio de Andrade",
+            "hu": "Eugénio de Andrade Városi Könyvtár",
+            "ro": "Biblioteca Municipală Eugénio de Andrade",
+            "en": "Eugénio de Andrade Municipal Library"
+          },
+          "coords": [
+            -7.495,
+            40.141
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:43",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein architektonisch interessantes Gebäude, das einen Kontrast zur Altstadt bildet.",
+            "hu": "Építészetileg érdekes épület, amely kontrasztot alkot az óvárossal.",
+            "ro": "O clădire interesantă din punct de vedere arhitectural, care contrastează cu orașul vechi.",
+            "en": "An architecturally interesting building that contrasts with the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Verde do Fundão",
+            "hu": "Fundão-i Zöld Park",
+            "ro": "Parque Verde do Fundão",
+            "en": "Green Park of Fundão"
+          },
+          "coords": [
+            -7.493,
+            40.142
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick-Mittagessen. Es gibt auch Wege, die sich gut zum Radfahren eignen.",
+            "hu": "Ideális egy piknik ebédhez. Vannak kerékpározásra is alkalmas utak.",
+            "ro": "Ideal pentru un prânz la picnic. Există și alei potrivite pentru ciclism.",
+            "en": "Ideal for a picnic lunch. There are also paths suitable for cycling within the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Solar dos Falcões",
+            "hu": "Solar dos Falcões",
+            "ro": "Solar dos Falcões",
+            "en": "Solar dos Falcões"
+          },
+          "coords": [
+            -7.503,
+            40.1395
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der letzte Halt der Tour, bewundern Sie die architektonischen Details, bevor Sie zurück ins Zentrum fahren.",
+            "hu": "A túra utolsó állomása, csodálja meg az építészeti részleteket, mielőtt visszatekerne a központba.",
+            "ro": "Ultima oprire a turului, admirați detaliile arhitecturale înainte de a vă întoarce în centru.",
+            "en": "The last stop on the tour, admire the architectural details before heading back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie durch das Herz von Fundão und darüber hinaus. Nach einem Start auf der Praça do Município radeln Sie zu den wichtigsten Kirchen, einschließlich der etwas abgelegenen Capela, die eine schöne Aussicht bietet. Die Mitte des Tages ist der Kultur gewidmet, mit einem langen Stopp im Museum. Am Nachmittag können Sie im Parque Verde entspannen und ein Picknick machen, bevor Sie Ihre Tour mit einem Blick auf das historische Herrenhaus Solar dos Falcões abschließen. Die Route kombiniert mühelos städtische Erkundung mit entspannten Pausen im Grünen.",
+        "hu": "Ez a kerékpártúra Fundão szívén és annak környékén vezet végig. A Praça do Município-n való indítás után elteker a főbb templomokhoz, beleértve a kissé távolabb eső, szép kilátást nyújtó kápolnát. A nap közepe a kultúráé, egy hosszabb megállóval a múzeumban. Délután pihenhet és piknikezhet a Parque Verde parkban, mielőtt a történelmi Solar dos Falcões megtekintésével zárja a túrát. Az útvonal könnyedén ötvözi a városi felfedezést a zöldben töltött pihentető szünetekkel.",
+        "ro": "Acest tur cu bicicleta vă poartă prin inima orașului Fundão și dincolo de ea. După o pornire din Praça do Município, pedalați spre principalele biserici, inclusiv capela puțin mai îndepărtată, care oferă priveliști frumoase. Miezul zilei este dedicat culturii, cu o oprire lungă la muzeu. După-amiaza vă puteți relaxa cu un picnic în Parque Verde înainte de a încheia turul cu o privire la conacul istoric Solar dos Falcões. Traseul combină explorarea urbană cu pauze relaxante în natură.",
+        "en": "This bike tour takes you through the heart of Fundão and beyond. After a start at Praça do Município, you'll pedal to the main churches, including the slightly more distant Chapel for nice views. The middle of the day is dedicated to culture with a long stop at the museum. In the afternoon, relax with a picnic in Parque Verde before concluding your tour with a look at the historic Solar dos Falcões manor. The route effortlessly combines urban exploration with relaxing green breaks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kirschlikör",
+            "tip": "Ein lokaler Likör, den man in vielen Geschäften als Souvenir findet."
+          },
+          {
+            "name": "Käse aus der Serra da Estrela",
+            "tip": "Auch wenn er nicht direkt aus Fundão stammt, ist dieser berühmte Käse in der Region weit verbreitet."
+          },
+          {
+            "name": "Restaurante Hermínia",
+            "tip": "Ein beliebter Ort für Einheimische, der authentische, hausgemachte Gerichte serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cseresznyelikőr",
+            "tip": "Helyi likőr, amelyet ajándékboltokban szuvenírként is megtalálhat."
+          },
+          {
+            "name": "Serra da Estrela-i sajt",
+            "tip": "Bár nem közvetlenül Fundãoból származik, ez a híres sajt széles körben elérhető a régióban."
+          },
+          {
+            "name": "Restaurante Hermínia",
+            "tip": "A helyiek kedvelt helye, autentikus, házias ételeket szolgál fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lichior de cireșe",
+            "tip": "Un lichior local pe care îl puteți găsi ca suvenir în multe magazine."
+          },
+          {
+            "name": "Brânză Serra da Estrela",
+            "tip": "Deși nu este direct din Fundão, această brânză faimoasă este larg disponibilă în regiune."
+          },
+          {
+            "name": "Restaurante Hermínia",
+            "tip": "Un loc popular printre localnici, care servește mâncăruri autentice, ca la mama acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cherry Liqueur",
+            "tip": "A local liqueur you can find as a souvenir in many shops."
+          },
+          {
+            "name": "Serra da Estrela Cheese",
+            "tip": "Although not directly from Fundão, this famous cheese is widely available in the region."
+          },
+          {
+            "name": "Restaurante Hermínia",
+            "tip": "A popular spot for locals, serving authentic, home-style dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Verde do Fundão",
+            "tip": "Machen Sie eine Radtour um den See, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Flusses Zêzere (in der Nähe)",
+            "tip": "Eine kurze Radtour aus der Stadt heraus führt Sie zu ruhigen Plätzen am Fluss.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kirschgärten (in der Saison)",
+            "tip": "Im Frühling durch die blühenden Kirschgärten zu radeln, ist ein unvergessliches Erlebnis.",
+            "emoji": "🌸"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Verde do Fundão",
+            "tip": "Tegyen egy kört a tó körül kerékpárral, hogy elmeneküljön a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zêzere folyó partja (a közelben)",
+            "tip": "Egy rövid kerékpártúra a városból a folyó csendes szakaszaihoz vezet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cseresznyéskertek (szezonban)",
+            "tip": "Tavasszal a virágzó cseresznyéskerteken keresztül biciklizni felejthetetlen élmény.",
+            "emoji": "🌸"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque Verde do Fundão",
+            "tip": "Faceți o plimbare cu bicicleta în jurul lacului pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Zêzere (în apropiere)",
+            "tip": "O scurtă plimbare cu bicicleta în afara orașului vă va duce la locuri liniștite pe malul râului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Livezile de cireși (în sezon)",
+            "tip": "Plimbarea cu bicicleta prin livezile de cireși înflorite primăvara este o experiență de neuitat.",
+            "emoji": "🌸"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque Verde do Fundão",
+            "tip": "Take a bike ride around the lake to escape the city buzz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Zêzere River (nearby)",
+            "tip": "A short bike ride out of town will take you to quiet spots by the river.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cherry Orchards (in season)",
+            "tip": "Cycling through the blooming cherry orchards in spring is an unforgettable experience.",
+            "emoji": "🌸"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Ideal, um lokale Produkte für ein Picknick zu kaufen."
+          },
+          {
+            "name": "Feinkostläden",
+            "tip": "Suchen Sie nach `Doce de Cereja` (Kirschmarmelade) als leckeres Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Ideális helyi termékek beszerzésére egy piknikhez."
+          },
+          {
+            "name": "Delikát üzletek",
+            "tip": "Keressen `Doce de Cereja`-t (cseresznyelekvárt) finom ajándékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Ideal pentru a cumpăra produse locale pentru un picnic."
+          },
+          {
+            "name": "Delicatese",
+            "tip": "Căutați `Doce de Cereja` (gem de cireșe) ca un suvenir gustos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Ideal for buying local produce for a picnic."
+          },
+          {
+            "name": "Delicatessen Shops",
+            "tip": "Look for `Doce de Cereja` (cherry jam) as a delicious souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren. Die Straßen können steil sein.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie viel Wasser mit, besonders an heißen Tagen.",
+          "Ein gutes Schloss ist unerlässlich, wenn Sie Ihr Fahrrad abstellen, um Sehenswürdigkeiten zu besichtigen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt. Az utak meredekek lehetnek.",
+          "Sisak használata erősen ajánlott.",
+          "Vigyen magával sok vizet, különösen meleg napokon.",
+          "Egy jó lakat elengedhetetlen, ha lezárja a kerékpárt a látnivalók megtekintése közben."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni. Drumurile pot fi abrupte.",
+          "Casca este foarte recomandată.",
+          "Luați multă apă, mai ales în zilele fierbinți.",
+          "Un lacăt bun este esențial atunci când lăsați bicicleta pentru a vizita obiectivele turistice."
+        ],
+        "en": [
+          "Check your bike before you set off. The roads can be steep.",
+          "A helmet is highly recommended.",
+          "Bring plenty of water, especially on hot days.",
+          "A good lock is essential for when you leave your bike to explore sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 11.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Historisches Zentrum",
+            "hu": "A klaszter: Történelmi központ",
+            "ro": "Cluster A: Centrul Istoric",
+            "en": "Cluster A: Historic Center"
+          },
+          "coords": [
+            -7.5005,
+            40.137
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe der Praça do Município. Sie werden dieses Gebiet zu Fuß erkunden.",
+            "hu": "Parkolja le az autót a Praça do Município közelében. Ezt a területet gyalog fogja felfedezni.",
+            "ro": "Parcați mașina lângă Praça do Município. Veți explora această zonă pe jos.",
+            "en": "Park your car near Praça do Município. You'll explore this area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz do Fundão",
+            "hu": "Fundão-i főtemplom",
+            "ro": "Igreja Matriz do Fundão",
+            "en": "Mother Church of Fundão"
+          },
+          "coords": [
+            -7.5015,
+            40.138
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus. Bewundern Sie die barocke Fassade.",
+            "hu": "Rövid séta a térről. Csodálja meg a barokk homlokzatot.",
+            "ro": "O scurtă plimbare din piață. Admirați fațada barocă.",
+            "en": "A short walk from the square. Admire the baroque facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum José Monteiro",
+            "hu": "José Monteiro Régészeti Múzeum",
+            "ro": "Muzeul Arheologic José Monteiro",
+            "en": "José Monteiro Archaeological Museum"
+          },
+          "coords": [
+            -7.499,
+            40.1385
+          ],
+          "category": "museums",
+          "arrive_at": "10:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die reiche Geschichte der Region, bevor Sie zu Mittag essen.",
+            "hu": "Ismerje meg a régió gazdag történelmét ebéd előtt.",
+            "ro": "Aflați despre istoria bogată a regiunii înainte de prânz.",
+            "en": "Learn about the region's rich history before having lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Kultur- und Freizeitbereich",
+            "hu": "B klaszter: Kulturális és szabadidős zóna",
+            "ro": "Cluster B: Zona Culturală și de Agrement",
+            "en": "Cluster B: Cultural and Leisure Zone"
+          },
+          "coords": [
+            -7.493,
+            40.142
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parque Verde. Hier gibt es ausreichend Parkplätze. Ideal für ein Mittagessen und einen Spaziergang.",
+            "hu": "Vezessen a Parque Verde-hez. Itt bőséges parkolóhely található. Ideális ebédhez és sétához.",
+            "ro": "Conduceți spre Parque Verde. Există parcare amplă aici. Ideal pentru prânz și o plimbare.",
+            "en": "Drive to Parque Verde. There's ample parking here. Ideal for lunch and a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtbibliothek Eugénio de Andrade",
+            "hu": "Eugénio de Andrade Városi Könyvtár",
+            "ro": "Biblioteca Municipală Eugénio de Andrade",
+            "en": "Eugénio de Andrade Municipal Library"
+          },
+          "coords": [
+            -7.495,
+            40.141
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Park entfernt, ein Muss für Architekturliebhaber.",
+            "hu": "Csak egy rövid séta a parktól, kötelező az építészet szerelmeseinek.",
+            "ro": "La o scurtă plimbare de parc, o vizită obligatorie pentru iubitorii de arhitectură.",
+            "en": "Just a short walk from the park, a must-see for architecture lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Serra da Gardunha",
+            "hu": "Serra da Gardunha kilátó",
+            "ro": "Punct de belvedere Serra da Gardunha",
+            "en": "Serra da Gardunha Viewpoint"
+          },
+          "coords": [
+            -7.55,
+            40.08
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt in die Berge für einen atemberaubenden Panoramablick auf die Region.",
+            "hu": "Egy rövid autóút a hegyekbe a régió lélegzetelállító panorámájáért.",
+            "ro": "O scurtă călătorie cu mașina în munți pentru vederi panoramice uluitoare ale regiunii.",
+            "en": "A short drive into the mountains for breathtaking panoramic views of the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Autotag ist in Cluster unterteilt, um das Beste von Fundão und seiner Umgebung zu erleben. Sie beginnen im historischen Zentrum, parken Ihr Auto und erkunden die Hauptsehenswürdigkeiten zu Fuß. Nach dem Eintauchen in die Geschichte fahren Sie zum grünen Herzen der Stadt, dem Parque Verde, für ein entspanntes Mittagessen und einen kulturellen Besuch in der Bibliothek. Der Tag endet mit einer malerischen Fahrt in die Serra da Gardunha, die einen unvergesslichen Blick auf die Landschaft der Beira Baixa bietet. Diese Route optimiert das Fahren und maximiert das Erlebnis zu Fuß.",
+        "hu": "Ez az autós nap klaszterekre van osztva, hogy a legtöbbet hozza ki Fundãoból és környékéből. A történelmi központban kezd, ahol leparkolja az autót, és gyalog fedezi fel a fő látnivalókat. A történelembe való elmerülés után a város zöld szívébe, a Parque Verde-be hajt egy pihentető ebédre és egy kulturális látogatásra a könyvtárban. A nap egy festői autózással zárul a Serra da Gardunha-hegységbe, ahonnan felejthetetlen kilátás nyílik a Beira Baixa tájaira. Ez az útvonal optimalizálja a vezetést és maximalizálja a gyalogos élményt.",
+        "ro": "Această zi cu mașina este structurată în clustere pentru a experimenta ce este mai bun în Fundão și împrejurimile sale. Începeți în centrul istoric, parcând mașina și explorând principalele atracții pe jos. După imersiunea în istorie, conduceți spre inima verde a orașului, Parque Verde, pentru un prânz relaxant și o vizită culturală la bibliotecă. Ziua se încheie cu o plimbare pitorească în Serra da Gardunha, oferind vederi de neuitat ale peisajului din Beira Baixa. Acest itinerar optimizează condusul și maximizează experiența pietonală.",
+        "en": "This car-based day is structured in clusters to experience the best of Fundão and its surroundings. You'll start in the historic center, parking your car and exploring the main sights on foot. After your history immersion, you drive to the city's green heart, Parque Verde, for a relaxed lunch and a cultural visit to the library. The day culminates with a scenic drive up to Serra da Gardunha, offering unforgettable views of the Beira Baixa landscape. This itinerary optimizes driving and maximizes the walking experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gebratenes Lamm",
+            "tip": "Ein regionales Gericht, das oft in Restaurants außerhalb des Stadtzentrums zu finden ist."
+          },
+          {
+            "name": "Migas",
+            "tip": "Ein traditionelles portugiesisches Gericht aus Brot und verschiedenen Zutaten, oft als Beilage serviert."
+          },
+          {
+            "name": "As Fontes",
+            "tip": "Ein Restaurant, das für seine atemberaubende Aussicht und seine gehobene regionale Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült bárány",
+            "tip": "Regionális étel, amelyet gyakran találni a városközponton kívüli éttermekben."
+          },
+          {
+            "name": "Migas",
+            "tip": "Hagyományos portugál étel kenyérből és különféle összetevőkből, gyakran köretként szolgálják fel."
+          },
+          {
+            "name": "As Fontes",
+            "tip": "Lélegzetelállító kilátásáról és igényes regionális konyhájáról ismert étterem."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la cuptor",
+            "tip": "Un fel de mâncare regional, adesea găsit în restaurantele din afara centrului orașului."
+          },
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare tradițional portughez făcut din pâine și diverse ingrediente, adesea servit ca garnitură."
+          },
+          {
+            "name": "As Fontes",
+            "tip": "Un restaurant renumit pentru priveliștile sale uimitoare și bucătăria regională rafinată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roasted Lamb",
+            "tip": "A regional dish often found in restaurants outside the city center."
+          },
+          {
+            "name": "Migas",
+            "tip": "A traditional Portuguese dish made from bread and various ingredients, often served as a side."
+          },
+          {
+            "name": "As Fontes",
+            "tip": "A restaurant known for its stunning views and upscale regional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Serra da Gardunha",
+            "tip": "Der ultimative Ort für Ruhe und Frieden mit weitreichenden Ausblicken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Picknick im Parque Verde",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Plätze für ein privates Picknick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aldeias Históricas (in der Nähe)",
+            "tip": "Machen Sie einen Abstecher zu einem der nahegelegenen historischen Dörfer wie Castelo Novo für eine Reise in die Vergangenheit.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Serra da Gardunha",
+            "tip": "A béke és nyugalom legfőbb helyszíne, messzire nyúló kilátással.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Piknik a Parque Verde-ben",
+            "tip": "A fő utaktól távol csendes helyeket találhat egy privát piknikhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aldeias Históricas (a közelben)",
+            "tip": "Tegyen egy kitérőt a közeli történelmi falvak egyikébe, mint például Castelo Novo, egy utazásra a múltba.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Serra da Gardunha",
+            "tip": "Locul suprem pentru pace și liniște, cu vederi ample.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Picnic în Parque Verde",
+            "tip": "Departe de potecile principale, puteți găsi locuri liniștite pentru un picnic privat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aldeias Históricas (în apropiere)",
+            "tip": "Faceți un ocol la unul dintre satele istorice din apropiere, cum ar fi Castelo Novo, pentru o călătorie înapoi în timp.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Serra da Gardunha",
+            "tip": "The ultimate spot for peace and quiet with far-reaching views.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Picnic in Parque Verde",
+            "tip": "Away from the main paths, you can find quiet spots for a private picnic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aldeias Históricas (nearby)",
+            "tip": "Take a detour to one of the nearby historical villages like Castelo Novo for a trip back in time.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenstände in der Serra da Gardunha",
+            "tip": "Kaufen Sie Honig, Käse und geräucherte Wurstwaren direkt vom Erzeuger."
+          },
+          {
+            "name": "Kirschprodukte",
+            "tip": "Halten Sie Ausschau nach Geschäften, die alles von Kirschmarmelade bis zu Kirschseife verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útszéli standok a Serra da Gardunha-hegységben",
+            "tip": "Vásároljon mézet, sajtot és füstölt kolbászokat közvetlenül a termelőktől."
+          },
+          {
+            "name": "Cseresznye termékek",
+            "tip": "Keresse azokat az üzleteket, amelyek a cseresznyelekvártól a cseresznyeszappanig mindent árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe la marginea drumului în Serra da Gardunha",
+            "tip": "Cumpărați miere, brânză și mezeluri direct de la producători."
+          },
+          {
+            "name": "Produse din cireșe",
+            "tip": "Căutați magazine care vând de la gem de cireșe la săpun de cireșe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside stalls in Serra da Gardunha",
+            "tip": "Buy honey, cheese, and cured meats directly from the producers."
+          },
+          {
+            "name": "Cherry Products",
+            "tip": "Look for shops selling everything from cherry jam to cherry soap."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum schwierig sein, aber es gibt mehrere ausgewiesene Parkplätze.",
+          "Die Straßen in der Serra da Gardunha sind eng und kurvenreich, fahren Sie vorsichtig.",
+          "Überprüfen Sie die Öffnungszeiten, da einige Sehenswürdigkeiten saisonabhängig sein können.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "A parkolás nehézkes lehet a városközpontban, de több kijelölt parkoló is található.",
+          "A Serra da Gardunha útjai keskenyek és kanyargósak, vezessen óvatosan.",
+          "Ellenőrizze a nyitvatartási időket, mivel néhány látnivaló szezonális lehet.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în centrul orașului, dar există mai multe parcări desemnate.",
+          "Drumurile din Serra da Gardunha sunt înguste și sinuoase, conduceți cu prudență.",
+          "Verificați orele de deschidere, deoarece unele atracții pot fi sezoniere.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Parking can be tricky in the city center, but there are several designated car parks.",
+          "The roads in Serra da Gardunha are narrow and winding, drive carefully.",
+          "Check opening times as some attractions may be seasonal.",
+          "Don't leave valuables visible in your car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Praça do Município",
+            "hu": "A klaszter: Városháza tér",
+            "ro": "Cluster A: Praça do Município",
+            "en": "Cluster A: Praça do Município"
+          },
+          "coords": [
+            -7.5005,
+            40.137
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Hauptplatz, um Ihren Tag zu beginnen. Die meisten Linien halten hier.",
+            "hu": "Vegyen egy buszt a főtérre a nap kezdéséhez. A legtöbb járat itt megáll.",
+            "ro": "Luați un autobuz până în piața principală pentru a vă începe ziua. Majoritatea liniilor opresc aici.",
+            "en": "Take a bus to the main square to start your day. Most lines stop here."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelourinho und Igreja Matriz",
+            "hu": "Pellengér és Főtemplom",
+            "ro": "Pelourinho și Igreja Matriz",
+            "en": "Pillory and Mother Church"
+          },
+          "coords": [
+            -7.501,
+            40.1376
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:34",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden historischen Wahrzeichen liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Ez a két történelmi nevezetesség csak pár lépésre van egymástól.",
+            "ro": "Aceste două repere istorice sunt la doar câțiva pași unul de celălalt.",
+            "en": "These two historic landmarks are just steps from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Solar dos Falcões",
+            "hu": "Solar dos Falcões",
+            "ro": "Solar dos Falcões",
+            "en": "Solar dos Falcões"
+          },
+          "coords": [
+            -7.503,
+            40.1395
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:32",
+          "stay_min": 35,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch die Altstadt führt Sie zu diesem beeindruckenden Herrenhaus.",
+            "hu": "Egy szép séta az óvároson keresztül vezet ehhez a lenyűgöző kúriához.",
+            "ro": "O plimbare plăcută prin orașul vechi vă va duce la acest conac impresionant.",
+            "en": "A nice stroll through the old town will lead you to this impressive manor."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Museum und Park",
+            "hu": "B klaszter: Múzeum és Park",
+            "ro": "Cluster B: Muzeu și Parc",
+            "en": "Cluster B: Museum and Park"
+          },
+          "coords": [
+            -7.499,
+            40.1385
+          ],
+          "category": "museums",
+          "arrive_at": "11:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in die Nähe des Museums. Von hier aus ist der Rest zu Fuß erreichbar.",
+            "hu": "Vegyen egy buszt a múzeum közelébe. Innen a többi látnivaló gyalogosan elérhető.",
+            "ro": "Luați un autobuz în apropierea muzeului. Restul este accesibil pe jos de aici.",
+            "en": "Take a bus near the museum. The rest is walkable from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Verde do Fundão",
+            "hu": "Fundão-i Zöld Park",
+            "ro": "Parque Verde do Fundão",
+            "en": "Green Park of Fundão"
+          },
+          "coords": [
+            -7.493,
+            40.142
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Museum ist dies der perfekte Ort für eine Mittagspause.",
+            "hu": "A múzeum után ez a tökéletes hely egy ebédszünetre.",
+            "ro": "După muzeu, acesta este locul perfect pentru o pauză de prânz.",
+            "en": "After the museum, this is the perfect place for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtbibliothek Eugénio de Andrade",
+            "hu": "Eugénio de Andrade Városi Könyvtár",
+            "ro": "Biblioteca Municipală Eugénio de Andrade",
+            "en": "Eugénio de Andrade Municipal Library"
+          },
+          "coords": [
+            -7.495,
+            40.141
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, ein modernes Juwel, bevor Sie den Bus zurück nehmen.",
+            "hu": "A nap utolsó állomása, egy modern gyöngyszem, mielőtt visszamenne a busszal.",
+            "ro": "Ultima oprire a zilei, o bijuterie modernă înainte de a lua autobuzul înapoi.",
+            "en": "The last stop of the day, a modern gem before you take the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erleben Sie Fundão wie ein Einheimischer. Der Tag ist in zwei Hauptcluster unterteilt. Der Vormittag konzentriert sich auf das historische Zentrum, das leicht zu Fuß erreichbar ist, nachdem Sie mit dem Bus am Hauptplatz angekommen sind. Nach einer zweiten, kurzen Busfahrt am Nachmittag erkunden Sie das kulturelle Zentrum rund um das Museum und entspannen im Parque Verde. Diese Route ist effizient und ermöglicht es Ihnen, die Atmosphäre der Stadt in einem gemächlichen Tempo aufzusaugen, ohne sich um das Parken sorgen zu müssen.",
+        "hu": "A tömegközlekedéssel úgy élheti át Fundão-t, mint egy helyi. A nap két fő klaszterre oszlik. A délelőtt a történelmi központra fókuszál, amely könnyen bejárható gyalog, miután busszal megérkezett a főtérre. Egy második, rövid délutáni buszozás után felfedezheti a múzeum körüli kulturális központot és pihenhet a Parque Verde parkban. Ez az útvonal hatékony, és lehetővé teszi, hogy kényelmes tempóban szívja magába a város hangulatát, anélkül, hogy a parkolás miatt kellene aggódnia.",
+        "ro": "Folosind transportul public, veți experimenta Fundão ca un localnic. Ziua este împărțită în două clustere principale. Dimineața se concentrează pe centrul istoric, ușor de explorat pe jos după ce ajungeți cu autobuzul în piața principală. După o a doua călătorie scurtă cu autobuzul după-amiaza, veți explora centrul cultural din jurul muzeului și vă veți relaxa în Parque Verde. Acest itinerar este eficient și vă permite să absorbiți atmosfera orașului într-un ritm lejer, fără grija parcării.",
+        "en": "Using public transit, you'll experience Fundão like a local. The day is divided into two main clusters. The morning focuses on the historic center, easily explored on foot after arriving by bus at the main square. After a second, short bus ride in the afternoon, you'll explore the cultural hub around the museum and relax in Parque Verde. This itinerary is efficient and allows you to soak up the city's atmosphere at a leisurely pace, without worrying about parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana",
+            "tip": "Ein schnelles und leckeres portugiesisches Sandwich mit Schweinefleisch, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Die Region Beira Interior produziert ausgezeichnete Weine, die Sie in vielen Restaurants finden."
+          },
+          {
+            "name": "O Boguinhas",
+            "tip": "Ein kleines, familiengeführtes Restaurant, das für seine freundliche Atmosphäre und ehrliche Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana",
+            "tip": "Gyors és ízletes portugál sertéshúsos szendvics, tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "A Beira Interior régió kiváló borokat termel, amelyeket számos étteremben megtalál."
+          },
+          {
+            "name": "O Boguinhas",
+            "tip": "Kicsi, családi vezetésű étterem, barátságos hangulatáról és őszinte konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș portughez rapid și delicios cu carne de porc, perfect pentru un prânz rapid."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Regiunea Beira Interior produce vinuri excelente, pe care le puteți găsi în multe restaurante."
+          },
+          {
+            "name": "O Boguinhas",
+            "tip": "Un restaurant mic, de familie, cunoscut pentru atmosfera sa prietenoasă și bucătăria onestă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana",
+            "tip": "A quick and delicious Portuguese pork sandwich, perfect for a fast lunch."
+          },
+          {
+            "name": "Local Wines",
+            "tip": "The Beira Interior region produces excellent wines that you can find in many restaurants."
+          },
+          {
+            "name": "O Boguinhas",
+            "tip": "A small, family-run restaurant known for its friendly atmosphere and honest cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Ecke im Parque Verde",
+            "tip": "Entfliehen Sie dem Trubel und lesen Sie ein Buch am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine kleine, unbekannte Kirche",
+            "tip": "Entdecken Sie eine der kleineren Kapellen für einen Moment der Besinnung.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Busfahrt aus der Stadt",
+            "tip": "Manchmal ist die Fahrt selbst die beste Möglichkeit, die Landschaft in Ruhe zu genießen.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes sarok a Parque Verde-ben",
+            "tip": "Meneküljön el a nyüzsgéstől és olvasson egy könyvet a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy kis, ismeretlen templom",
+            "tip": "Fedezze fel a kisebb kápolnák egyikét egy pillanatnyi elmélkedésre.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Buszozás a városból kifelé",
+            "tip": "Néha maga az utazás a legjobb módja annak, hogy békében élvezze a tájat.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un colț liniștit în Parque Verde",
+            "tip": "Evadați din agitație și citiți o carte lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O biserică mică, necunoscută",
+            "tip": "Descoperiți una dintre capelele mai mici pentru un moment de contemplare.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "O călătorie cu autobuzul în afara orașului",
+            "tip": "Uneori, călătoria în sine este cel mai bun mod de a vă bucura de peisaj în liniște.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet corner in Parque Verde",
+            "tip": "Escape the hustle and read a book by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A small, unknown church",
+            "tip": "Discover one of the smaller chapels for a moment of contemplation.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "A bus ride out of town",
+            "tip": "Sometimes the journey itself is the best way to enjoy the scenery in peace.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Städtischer Markt (Mercado Municipal)",
+            "tip": "Ein großartiger Ort, um die lokale Atmosphäre aufzusaugen und frische Produkte zu sehen."
+          },
+          {
+            "name": "Regionale Produkte",
+            "tip": "Suchen Sie in den Geschäften im Zentrum nach Olivenöl und Käse aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Piac (Mercado Municipal)",
+            "tip": "Nagyszerű hely a helyi hangulat magába szívására és a friss termékek megtekintésére."
+          },
+          {
+            "name": "Regionális termékek",
+            "tip": "Keressen helyi olívaolajat és sajtot a központi üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Municipală (Mercado Municipal)",
+            "tip": "Un loc minunat pentru a absorbi atmosfera locală și a vedea produse proaspete."
+          },
+          {
+            "name": "Produse regionale",
+            "tip": "Căutați ulei de măsline local și brânzeturi în magazinele din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Market (Mercado Municipal)",
+            "tip": "A great place to soak up the local atmosphere and see fresh produce."
+          },
+          {
+            "name": "Regional Products",
+            "tip": "Look for local olive oil and cheese in the shops in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, wenn Sie mehrere Fahrten planen, um Geld zu sparen.",
+          "Die Busfahrpläne können am Wochenende und an Feiertagen eingeschränkt sein.",
+          "Behalten Sie die Busnummern im Auge; nicht alle Busse halten an jeder Haltestelle.",
+          "Validieren Sie Ihr Ticket immer beim Einsteigen, um eine Strafe zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, ha több utazást tervez, hogy pénzt takarítson meg.",
+          "A buszmenetrendek hétvégén és ünnepnapokon korlátozottak lehetnek.",
+          "Figyelje a buszszámokat; nem minden busz áll meg minden megállóban.",
+          "Beszálláskor mindig érvényesítse a jegyét, hogy elkerülje a bírságot."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi dacă plănuiți mai multe călătorii pentru a economisi bani.",
+          "Orarele autobuzelor pot fi limitate în weekend și de sărbători.",
+          "Fiți atenți la numerele autobuzelor; nu toate autobuzele opresc în fiecare stație.",
+          "Validați întotdeauna biletul la urcare pentru a evita o amendă."
+        ],
+        "en": [
+          "Buy a day pass if you plan on taking multiple trips to save money.",
+          "Bus schedules can be limited on weekends and holidays.",
+          "Keep an eye on bus numbers; not all buses stop at every stop.",
+          "Always validate your ticket when you board to avoid a fine."
+        ]
+      }
+    }
+  }
+}

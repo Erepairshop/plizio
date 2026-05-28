@@ -1,0 +1,1428 @@
+{
+  "city_id": "spain-lorca-cities-v2",
+  "anchor": {
+    "name": "Lorca",
+    "coords": [
+      -1.6968,
+      37.6715
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -1.6968,
+            37.6715
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herz von Lorca, ideal um den Tag bei einem Kaffee zu beginnen.",
+            "hu": "Lorca szíve, ideális egy kávéval kezdeni a napot.",
+            "ro": "Inima orașului Lorca, ideală pentru a începe ziua cu o cafea.",
+            "en": "The heart of Lorca, ideal for starting the day with a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche San Patricio",
+            "hu": "San Patricio társkáptalan",
+            "ro": "Colegiata San Patricio",
+            "en": "Collegiate Church of San Patricio"
+          },
+          "coords": [
+            -1.697,
+            37.6718
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende barocke Fassade und das Innere dieser Stiftskirche.",
+            "hu": "Csodálja meg ennek a templomnak a lenyűgöző barokk homlokzatát és belső terét.",
+            "ro": "Admirați fațada barocă impresionantă și interiorul acestei colegiate.",
+            "en": "Admire the impressive baroque facade and the interior of this collegiate church."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Guevara",
+            "hu": "Guevara-palota",
+            "ro": "Palatul Guevara",
+            "en": "Guevara's Palace"
+          },
+          "coords": [
+            -1.698,
+            37.6725
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:12",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein prächtiges Beispiel für den Zivilbarock in Lorca, bekannt als das „Haus der Säulen“.",
+            "hu": "A lorcai polgári barokk csodálatos példája, az „Oszlopok Háza” néven ismert.",
+            "ro": "Un exemplu magnific al barocului civil din Lorca, cunoscut drept „Casa Coloanelor”.",
+            "en": "A magnificent example of civil baroque architecture in Lorca, known as the 'House of Columns'."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Guerra",
+            "hu": "Guerra Színház",
+            "ro": "Teatrul Guerra",
+            "en": "Guerra Theatre"
+          },
+          "coords": [
+            -1.6995,
+            37.6705
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:06",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das älteste Theater in der Region Murcia; prüfen Sie, ob eine Besichtigung möglich ist.",
+            "hu": "Murcia régió legrégebbi színháza; ellenőrizze, hogy lehetséges-e a látogatás.",
+            "ro": "Cel mai vechi teatru din Regiunea Murcia; verificați dacă este posibil un tur.",
+            "en": "The oldest theatre in the Murcia region; check if a tour is possible."
+          }
+        },
+        {
+          "name": {
+            "de": "MUBB - Stickereimuseum Paso Blanco",
+            "hu": "MUBB - Paso Blanco Hímzőmúzeum",
+            "ro": "MUBB - Muzeul de Broderie Paso Blanco",
+            "en": "MUBB - Paso Blanco Embroidery Museum"
+          },
+          "coords": [
+            -1.7001,
+            37.674
+          ],
+          "category": "museums",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die unglaublichen Seiden- und Goldstickereien für die Osterprozessionen.",
+            "hu": "Fedezze fel a húsvéti körmenetekhez készült hihetetlen selyem- és aranyhímzéseket.",
+            "ro": "Descoperiți broderiile incredibile din mătase și aur pentru procesiunile de Paște.",
+            "en": "Discover the incredible silk and gold embroideries for the Easter processions."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Lorca (Fortaleza del Sol)",
+            "hu": "Lorcai vár (A Nap Erődje)",
+            "ro": "Castelul din Lorca (Fortăreața Soarelui)",
+            "en": "Lorca Castle (Fortress of the Sun)"
+          },
+          "coords": [
+            -1.7045,
+            37.6765
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:29",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein anspruchsvoller Aufstieg, der aber mit einer fantastischen Aussicht und viel Geschichte belohnt wird.",
+            "hu": "Kihívást jelentő séta felfelé, de a fantasztikus kilátás és a gazdag történelem megéri.",
+            "ro": "O urcare provocatoare, dar care recompensează cu vederi fantastice și multă istorie.",
+            "en": "A challenging walk up, but it rewards you with fantastic views and a lot of history."
+          }
+        },
+        {
+          "name": {
+            "de": "Porche de San Antonio",
+            "hu": "San Antonio kapu",
+            "ro": "Poarta San Antonio",
+            "en": "Porche de San Antonio"
+          },
+          "coords": [
+            -1.7015,
+            37.671
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:33",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein altes Tor der mittelalterlichen Stadtmauer, ein perfekter Ort für ein Foto zum Abschluss.",
+            "hu": "A középkori városfal régi kapuja, tökéletes hely egy befejező fotóhoz.",
+            "ro": "O poartă veche a zidului medieval al orașului, un loc perfect pentru o fotografie de final.",
+            "en": "An old gate of the medieval city wall, a perfect spot for a final photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am belebten Plaza de España, dem Herzen der Altstadt von Lorca. Am Vormittag erkunden Sie die barocke Pracht der Colegiata de San Patricio und des Palacio de Guevara. Nach einem kurzen Blick auf das historische Teatro Guerra tauchen Sie mittags in die einzigartige Welt der Osterstickereien im MUBB ein. Der Nachmittag ist für den anspruchsvollen, aber lohnenden Aufstieg zur Fortaleza del Sol reserviert, von wo aus Sie einen Panoramablick genießen können. Schließen Sie den Tag mit einem Foto am historischen Porche de San Antonio ab, einem Überbleibsel der alten Stadtmauern.",
+        "hu": "Kezdje sétáját a nyüzsgő Plaza de España téren, Lorca óvárosának szívében. A délelőttöt a San Patricio társkáptalan és a Guevara-palota barokk pompájának felfedezésével töltse. A történelmi Guerra Színházra vetett rövid pillantás után délben merüljön el a MUBB egyedülálló húsvéti hímzéseinek világában. A délután a kihívást jelentő, de annál hálásabb sétáé a Fortaleza del Sol erődhöz, ahonnan panorámás kilátás nyílik. Zárja a napot egy fotóval a történelmi Porche de San Antonio kapunál, a régi városfalak maradványánál.",
+        "ro": "Începeți plimbarea în animata Plaza de España, inima centrului vechi din Lorca. Petreceți dimineața explorând splendoarea barocă a Colegiatei San Patricio și a Palatului Guevara. După o privire rapidă la istoricul Teatru Guerra, la prânz, pătrundeți în lumea unică a broderiilor de Paște de la MUBB. După-amiaza este rezervată pentru urcarea provocatoare, dar plină de satisfacții, la Fortaleza del Sol pentru vederi panoramice. Încheiați ziua cu o fotografie la istorica Poartă San Antonio, o relicvă a vechilor ziduri ale orașului.",
+        "en": "Start your walk in the bustling Plaza de España, the heart of Lorca's old town. Spend the morning exploring the baroque splendor of the Collegiate Church of San Patricio and Guevara's Palace. After a quick look at the historic Guerra Theatre, delve into the unique world of Easter embroideries at MUBB at noon. The afternoon is reserved for the challenging but rewarding walk up to the Fortaleza del Sol for panoramic views. End your day with a photo at the historic Porche de San Antonio, a remnant of the old city walls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zarangollo Murciano",
+            "tip": "Ein leichtes Rührei mit Zucchini und Zwiebeln, perfekt für ein Mittagessen."
+          },
+          {
+            "name": "Paparajotes",
+            "tip": "Ein einzigartiges Dessert: in Teig getauchte und frittierte Zitronenblätter."
+          },
+          {
+            "name": "Marineras",
+            "tip": "Ein lokaler Aperitif: Russischer Salat auf einem Brotring mit einer Sardelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zarangollo Murciano",
+            "tip": "Könnyű rántotta cukkinivel és hagymával, tökéletes ebédre."
+          },
+          {
+            "name": "Paparajotes",
+            "tip": "Különleges desszert: tésztába mártott és kisütött citromlevelek."
+          },
+          {
+            "name": "Marineras",
+            "tip": "Helyi aperitif: orosz saláta egy kenyérkarikán, szardellával a tetején."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zarangollo Murciano",
+            "tip": "O omletă ușoară cu dovlecel și ceapă, perfectă pentru prânz."
+          },
+          {
+            "name": "Paparajotes",
+            "tip": "Un desert unic: frunze de lămâi în aluat și prăjite."
+          },
+          {
+            "name": "Marineras",
+            "tip": "Un aperitiv local: salată rusească pe un covrig cu o anșoa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zarangollo Murciano",
+            "tip": "A light scrambled egg dish with zucchini and onion, perfect for lunch."
+          },
+          {
+            "name": "Paparajotes",
+            "tip": "A unique dessert: lemon leaves dipped in batter and fried."
+          },
+          {
+            "name": "Marineras",
+            "tip": "A local appetizer: Russian salad on a bread ring with an anchovy on top."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burg von Lorca",
+            "tip": "Nach dem Aufstieg bietet die Burg ruhige Ecken mit atemberaubender Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innenhof des Palacio de Guevara",
+            "tip": "Finden Sie einen Moment der Ruhe im eleganten Innenhof dieses Barockpalastes.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lorcai vár",
+            "tip": "A séta után a vár csendes zugokat kínál lélegzetelállító kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Guevara-palota udvara",
+            "tip": "Találjon egy pillanatnyi nyugalmat ennek a barokk palotának az elegáns udvarán.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Castelul din Lorca",
+            "tip": "După urcare, castelul oferă colțuri liniștite cu vederi impresionante.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea interioară a Palatului Guevara",
+            "tip": "Găsiți un moment de liniște în curtea elegantă a acestui palat baroc.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lorca Castle",
+            "tip": "After the climb, the castle offers quiet corners with breathtaking views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of Guevara's Palace",
+            "tip": "Find a moment of peace in the elegant courtyard of this baroque palace.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksläden in der Altstadt",
+            "tip": "Suchen Sie nach Keramik und Souvenirs rund um die Calle Corredera."
+          },
+          {
+            "name": "Museumsläden (MUBB/MASS)",
+            "tip": "Kaufen Sie hochwertige Repliken und Bücher über die berühmten Stickereien von Lorca."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves boltok az óvárosban",
+            "tip": "Keressen kerámiákat és szuveníreket a Calle Corredera környékén."
+          },
+          {
+            "name": "Múzeumi boltok (MUBB/MASS)",
+            "tip": "Vásároljon minőségi másolatokat és könyveket Lorca híres hímzéseiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat în centrul vechi",
+            "tip": "Căutați ceramică și suveniruri în jurul străzii Calle Corredera."
+          },
+          {
+            "name": "Magazinele muzeelor (MUBB/MASS)",
+            "tip": "Cumpărați replici de calitate și cărți despre faimoasele broderii din Lorca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Craft shops in the Old Town",
+            "tip": "Look for ceramics and souvenirs around Calle Corredera."
+          },
+          {
+            "name": "Museum Shops (MUBB/MASS)",
+            "tip": "Buy high-quality replicas and books about Lorca's famous embroideries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie sehr bequeme Schuhe, da der Aufstieg zur Burg steil ist.",
+          "Nehmen Sie viel Wasser mit, besonders in den wärmeren Monaten.",
+          "Viele kleinere Geschäfte schließen während der Siesta am Nachmittag.",
+          "Lorcas Hauptattraktion ist die Semana Santa; die Stickereimuseen erklären warum."
+        ],
+        "hu": [
+          "Viseljen nagyon kényelmes cipőt, mivel a várhoz vezető út meredek.",
+          "Vigyen magával sok vizet, különösen a melegebb hónapokban.",
+          "Sok kisebb üzlet bezár a délutáni szieszta idejére.",
+          "Lorca fő vonzereje a Szent Hét; a hímzőmúzeumokból kiderül, miért."
+        ],
+        "ro": [
+          "Purtați încălțăminte foarte confortabilă, deoarece urcarea la castel este abruptă.",
+          "Luați multă apă, mai ales în lunile mai calde.",
+          "Multe magazine mici se închid în timpul siestei de după-amiază.",
+          "Atracția principală a Lorcăi este Semana Santa; muzeele de broderie explică de ce."
+        ],
+        "en": [
+          "Wear very comfortable shoes as the walk up to the castle is steep.",
+          "Bring plenty of water, especially in the warmer months.",
+          "Many smaller shops close for the afternoon siesta.",
+          "Lorca's main attraction is its Semana Santa (Holy Week); the embroidery museums explain why."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 6.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -1.6968,
+            37.6715
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour am zentralen Platz.",
+            "hu": "Indítsa a kerékpártúrát a központi térről.",
+            "ro": "Începeți turul cu bicicleta din piața centrală.",
+            "en": "Start your bike tour from the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Guerra",
+            "hu": "Guerra Színház",
+            "ro": "Teatrul Guerra",
+            "en": "Guerra Theatre"
+          },
+          "coords": [
+            -1.6995,
+            37.6705
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:23",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die Fassade des ältesten Theaters der Region zu bewundern.",
+            "hu": "Egy gyors megálló, hogy megcsodálja a régió legrégebbi színházának homlokzatát.",
+            "ro": "O oprire scurtă pentru a admira fațada celui mai vechi teatru din regiune.",
+            "en": "A quick stop to admire the facade of the region's oldest theatre."
+          }
+        },
+        {
+          "name": {
+            "de": "Porche de San Antonio",
+            "hu": "San Antonio kapu",
+            "ro": "Poarta San Antonio",
+            "en": "Porche de San Antonio"
+          },
+          "coords": [
+            -1.7015,
+            37.671
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie durch dieses historische Tor, ein Überbleibsel der Stadtmauern.",
+            "hu": "Kerékpározzon át ezen a történelmi kapun, a városfalak maradványán.",
+            "ro": "Treceți cu bicicleta prin această poartă istorică, o rămășiță a zidurilor orașului.",
+            "en": "Cycle through this historic gate, a remnant of the city walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Lorca (Fortaleza del Sol)",
+            "hu": "Lorcai vár (A Nap Erődje)",
+            "ro": "Castelul din Lorca (Fortăreața Soarelui)",
+            "en": "Lorca Castle (Fortress of the Sun)"
+          },
+          "coords": [
+            -1.7045,
+            37.6765
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:08",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Auffahrt ist steil, aber mit dem Rad machbar. Oben erwartet Sie eine Belohnung.",
+            "hu": "Az út meredek, de kerékpárral teljesíthető. Fent jutalom vár.",
+            "ro": "Urcușul este abrupt, dar fezabil cu bicicleta. O recompensă vă așteaptă în vârf.",
+            "en": "The ride up is steep but manageable by bike. A reward awaits at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "MUBB - Stickereimuseum Paso Blanco",
+            "hu": "MUBB - Paso Blanco Hímzőmúzeum",
+            "ro": "MUBB - Muzeul de Broderie Paso Blanco",
+            "en": "MUBB - Paso Blanco Embroidery Museum"
+          },
+          "coords": [
+            -1.7001,
+            37.674
+          ],
+          "category": "museums",
+          "arrive_at": "12:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Rollen Sie vom Schloss hinunter zu diesem einzigartigen Museum.",
+            "hu": "Guruljon le a várból ehhez az egyedülálló múzeumhoz.",
+            "ro": "Coborâți de la castel la acest muzeu unic.",
+            "en": "Roll downhill from the castle to this unique museum."
+          }
+        },
+        {
+          "name": {
+            "de": "MASS - Stickereimuseum Paso Azul",
+            "hu": "MASS - Paso Azul Hímzőmúzeum",
+            "ro": "MASS - Muzeul de Broderie Paso Azul",
+            "en": "MASS - Paso Azul Embroidery Museum"
+          },
+          "coords": [
+            -1.6955,
+            37.673
+          ],
+          "category": "museums",
+          "arrive_at": "13:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Vergleichen Sie die Kunstfertigkeit mit dem anderen großen Osterbruderschaftsmuseum.",
+            "hu": "Hasonlítsa össze a művészi kivitelezést a másik nagy húsvéti testvériség múzeumával.",
+            "ro": "Comparați măiestria cu celălalt mare muzeu al frăției de Paște.",
+            "en": "Compare the artistry with the other great Easter brotherhood's museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Guevara",
+            "hu": "Guevara-palota",
+            "ro": "Palatul Guevara",
+            "en": "Guevara's Palace"
+          },
+          "coords": [
+            -1.698,
+            37.6725
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie dieses barocke Juwel.",
+            "hu": "Parkolja le a kerékpárt, és csodálja meg ezt a barokk gyöngyszemet.",
+            "ro": "Parcați bicicleta și admirați această bijuterie barocă.",
+            "en": "Park your bike and admire this baroque gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche San Patricio",
+            "hu": "San Patricio társkáptalan",
+            "ro": "Colegiata San Patricio",
+            "en": "Collegiate Church of San Patricio"
+          },
+          "coords": [
+            -1.697,
+            37.6718
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:09",
+          "stay_min": 65,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour wieder am Plaza de España mit einem Besuch dieser wichtigen Kirche.",
+            "hu": "Fejezze be a túrát ismét a Plaza de España téren, meglátogatva ezt a fontos templomot.",
+            "ro": "Încheiați turul înapoi în Plaza de España cu o vizită la această biserică importantă.",
+            "en": "End your tour back at Plaza de España with a visit to this important church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Lorca ist eine Reise durch Geschichte und Handwerkskunst. Beginnen Sie am Plaza de España und machen Sie kurze Stopps am Teatro Guerra und dem historischen Tor Porche de San Antonio. Die größte Herausforderung des Vormittags ist der Anstieg zur Burg, der Fortaleza del Sol, aber die Aussicht ist jede Mühe wert. Nach der Abfahrt erkunden Sie die faszinierenden Stickereimuseen, die der berühmten Semana Santa gewidmet sind. Am Nachmittag gleiten Sie zurück ins Herz der Stadt, um die barocke Eleganz des Palacio de Guevara und der Colegiata de San Patricio zu bewundern.",
+        "hu": "A lorcai kerékpártúra egy utazás a történelemben és a kézművességben. Induljon a Plaza de España térről, majd tegyen rövid megállókat a Guerra Színháznál és a történelmi Porche de San Antonio kapunál. A délelőtt legnagyobb kihívása a várhoz, a Fortaleza del Solhoz való feljutás, de a kilátás minden fáradságot megér. A leereszkedés után fedezze fel a híres Szent Hétnek szentelt lenyűgöző hímzőmúzeumokat. Délután tekerjen vissza a város szívébe, hogy megcsodálja a Guevara-palota és a San Patricio társkáptalan barokk eleganciáját.",
+        "ro": "Turul cu bicicleta prin Lorca este o călătorie prin istorie și măiestrie. Începeți din Plaza de España, cu opriri rapide la Teatrul Guerra și poarta istorică Porche de San Antonio. Provocarea dimineții este urcarea la castel, Fortaleza del Sol, dar priveliștea merită tot efortul. După coborâre, explorați fascinantele muzee de broderie dedicate celebrei Semana Santa. După-amiaza, pedalați înapoi în inima orașului pentru a admira eleganța barocă a Palatului Guevara și a Colegiatei San Patricio.",
+        "en": "Your bike tour of Lorca is a journey through history and craftsmanship. Start at Plaza de España, with quick stops at the Guerra Theatre and the historic Porche de San Antonio gate. The morning's main challenge is the climb to the castle, the Fortaleza del Sol, but the views are worth every effort. After descending, explore the fascinating embroidery museums dedicated to the famous Holy Week. In the afternoon, cycle back to the heart of the city to admire the baroque elegance of the Guevara Palace and the Collegiate Church of San Patricio."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Migas con tropezones",
+            "tip": "Ein herzhaftes Gericht aus gebratenen Brotkrumen mit Chorizo und Paprika, perfekt für Radfahrer."
+          },
+          {
+            "name": "Caldo con pelotas",
+            "tip": "Eine wärmende Fleischklößchensuppe, ideal nach einer langen Fahrt."
+          },
+          {
+            "name": "Crespillos",
+            "tip": "Ein dünner, knuspriger Snack, der oft mit Zucker oder Salz bestreut wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Migas con tropezones",
+            "tip": "Kiadós étel sült kenyérmorzsából, chorizóval és paprikával, tökéletes kerékpárosoknak."
+          },
+          {
+            "name": "Caldo con pelotas",
+            "tip": "Melegítő húsgombócleves, ideális egy hosszú tekerés után."
+          },
+          {
+            "name": "Crespillos",
+            "tip": "Vékony, ropogós snack, gyakran cukorral vagy sóval megszórva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migas con tropezones",
+            "tip": "Un fel de mâncare consistent din pesmet prăjit cu chorizo și ardei, perfect pentru bicicliști."
+          },
+          {
+            "name": "Caldo con pelotas",
+            "tip": "O supă caldă cu perișoare de carne, ideală după o plimbare lungă."
+          },
+          {
+            "name": "Crespillos",
+            "tip": "O gustare subțire și crocantă, adesea presărată cu zahăr sau sare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Migas con tropezones",
+            "tip": "A hearty dish of fried breadcrumbs with chorizo and peppers, perfect for cyclists."
+          },
+          {
+            "name": "Caldo con pelotas",
+            "tip": "A warming meatball soup, ideal after a long ride."
+          },
+          {
+            "name": "Crespillos",
+            "tip": "A thin, crispy snack, often sprinkled with sugar or salt."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkte der Burg",
+            "tip": "Finden Sie einen ruhigen Platz entlang der Burgmauern, um das Tal zu überblicken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang entlang des Guadalentín",
+            "tip": "Machen Sie eine entspannte Fahrt entlang des Flussbetts für eine Pause vom Stadtzentrum.",
+            "emoji": "🚴"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A vár kilátópontjai",
+            "tip": "Keressen egy csendes helyet a várfalak mentén, ahonnan beláthatja a völgyet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a Guadalentín folyó mentén",
+            "tip": "Tegyen egy nyugodt sétát a folyóparton, hogy kiszakadjon a városközpontból.",
+            "emoji": "🚴"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puncte de belvedere ale castelului",
+            "tip": "Găsiți un loc liniștit de-a lungul zidurilor castelului pentru a privi valea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul râului Guadalentín",
+            "tip": "Faceți o plimbare relaxantă de-a lungul albiei râului pentru o pauză de la centrul orașului.",
+            "emoji": "🚴"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle viewpoints",
+            "tip": "Find a quiet spot along the castle walls to overlook the valley.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Guadalentín Riverbed walk",
+            "tip": "Take a relaxed ride along the riverbed for a break from the city center.",
+            "emoji": "🚴"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wochenmarkt",
+            "tip": "Informieren Sie sich über den Markttag (normalerweise Donnerstag) für frische Produkte und lokale Waren."
+          },
+          {
+            "name": "Calle Corredera",
+            "tip": "Die Haupteinkaufsstraße für eine Mischung aus nationalen Marken und lokalen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi heti piac",
+            "tip": "Érdeklődjön a piac napjáról (általában csütörtök) a friss termékekért és helyi árukért."
+          },
+          {
+            "name": "Calle Corredera",
+            "tip": "A fő bevásárlóutca, ahol nemzeti márkák és helyi boltok keverednek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală locală",
+            "tip": "Verificați ziua de piață (de obicei joi) pentru produse proaspete și bunuri locale."
+          },
+          {
+            "name": "Calle Corredera",
+            "tip": "Principala stradă comercială pentru un amestec de mărci naționale și magazine locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Weekly Market",
+            "tip": "Check for market day (usually Thursday) for fresh produce and local goods."
+          },
+          {
+            "name": "Calle Corredera",
+            "tip": "The main shopping street for a mix of national brands and local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads, bevor Sie den Anstieg zur Burg in Angriff nehmen.",
+          "Ein E-Bike wird für den Aufstieg zur Burg dringend empfohlen.",
+          "Schließen Sie Ihr Fahrrad an den Hauptattraktionen immer sicher ab.",
+          "Die Straßen in der Altstadt können eng und gepflastert sein."
+        ],
+        "hu": [
+          "Ellenőrizze a kerékpár állapotát, mielőtt nekivág a várhoz vezető emelkedőnek.",
+          "Erősen ajánlott egy e-bike a várhoz való feljutáshoz.",
+          "Mindig biztonságosan zárja le a kerékpárt a fő látnivalóknál.",
+          "Az óváros utcái szűkek és macskakövesek lehetnek."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a aborda urcarea la castel.",
+          "O bicicletă electrică este foarte recomandată pentru urcarea la castel.",
+          "Legați întotdeauna bicicleta în siguranță la atracțiile principale.",
+          "Străzile din centrul vechi pot fi înguste și pavate cu piatră cubică."
+        ],
+        "en": [
+          "Check your bike's condition before tackling the climb to the castle.",
+          "An e-bike is highly recommended for the ascent to the castle.",
+          "Always lock your bike securely at the main attractions.",
+          "The streets in the old town can be narrow and cobbled."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 8.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare centrală",
+            "en": "Central Parking"
+          },
+          "coords": [
+            -1.6985,
+            37.67
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den ersten Teil Ihres Rundgangs durch die Altstadt.",
+            "hu": "Parkoljon itt az óvárosi séta első részéhez.",
+            "ro": "Parcați aici pentru prima parte a turului pietonal în centrul vechi.",
+            "en": "Park here for the first part of your walking tour of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de España & Colegiata de San Patricio",
+            "hu": "Plaza de España és San Patricio társkáptalan",
+            "ro": "Plaza de España și Colegiata San Patricio",
+            "en": "Plaza de España & Collegiate of San Patricio"
+          },
+          "coords": [
+            -1.6968,
+            37.6715
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Hauptplatz und seine beeindruckende Kirche zu Fuß.",
+            "hu": "Fedezze fel gyalog a főteret és a lenyűgöző templomot.",
+            "ro": "Explorați piața principală și biserica sa impresionantă pe jos.",
+            "en": "Explore the main square and its impressive church on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Guevara & MUBB Museum",
+            "hu": "Guevara-palota és MUBB Múzeum",
+            "ro": "Palatul Guevara și Muzeul MUBB",
+            "en": "Guevara Palace & MUBB Museum"
+          },
+          "coords": [
+            -1.698,
+            37.673
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie zu diesen beiden barocken und handwerklichen Juwelen.",
+            "hu": "Egy rövid séta elvezeti ehhez a két barokk és kézműves gyöngyszemhez.",
+            "ro": "O scurtă plimbare vă duce la aceste două bijuterii baroce și artizanale.",
+            "en": "A short walk takes you to these two baroque and artisanal gems."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Lorca (Fortaleza del Sol)",
+            "hu": "Lorcai vár (A Nap Erődje)",
+            "ro": "Castelul din Lorca (Fortăreața Soarelui)",
+            "en": "Lorca Castle (Fortress of the Sun)"
+          },
+          "coords": [
+            -1.7045,
+            37.6765
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:28",
+          "stay_min": 150,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Gipfel für einen einfachen Zugang und mehr Zeit, die Burg und die Aussicht zu erkunden.",
+            "hu": "Vezessen fel a csúcsra a könnyű hozzáférésért és hogy több ideje maradjon a vár és a kilátás felfedezésére.",
+            "ro": "Conduceți până în vârf pentru acces ușor și mai mult timp pentru a explora castelul și priveliștile.",
+            "en": "Drive to the top for easy access and more time to explore the castle and views."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe der Burg",
+            "hu": "Ebéd a vár közelében",
+            "ro": "Prânz lângă castel",
+            "en": "Lunch near the Castle"
+          },
+          "coords": [
+            -1.705,
+            37.675
+          ],
+          "category": "gastro",
+          "arrive_at": "14:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt Restaurants mit herrlicher Aussicht auf dem Burggelände oder in der Nähe.",
+            "hu": "Vannak éttermek csodálatos kilátással a vár területén vagy a közelben.",
+            "ro": "Există restaurante cu vederi magnifice în incinta castelului sau în apropiere.",
+            "en": "There are restaurants with magnificent views within the castle grounds or nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Porche de San Antonio & MASS Museum",
+            "hu": "San Antonio kapu és MASS Múzeum",
+            "ro": "Poarta San Antonio și Muzeul MASS",
+            "en": "Porche de San Antonio & MASS Museum"
+          },
+          "coords": [
+            -1.698,
+            37.672
+          ],
+          "category": "museums",
+          "arrive_at": "16:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie erneut und beenden Sie Ihren Tag mit dem zweiten Stickereimuseum und einem historischen Tor.",
+            "hu": "Parkoljon le újra, és fejezze be a napot a második hímzőmúzeummal és a történelmi kapuval.",
+            "ro": "Parcați din nou și încheiați-vă ziua cu al doilea muzeu de broderie și o poartă istorică.",
+            "en": "Park again and finish your day with the second embroidery museum and a historic gate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lässt sich Lorca bequem in Clustern erkunden. Parken Sie am Vormittag im Zentrum und entdecken Sie zu Fuß den historischen Kern rund um die Plaza de España, die Colegiata und den Palacio de Guevara. Mittags fahren Sie zur beeindruckenden Fortaleza del Sol, wo Sie nicht nur die Geschichte, sondern auch ein Mittagessen mit Panoramablick genießen. Der Nachmittag ist einem anderen Teil der Stadt gewidmet: Nach einer kurzen Fahrt erkunden Sie das MASS-Museum und das historische Tor von San Antonio und tauchen so noch einmal tief in die Kultur Lorcas ein, bevor der Tag zu Ende geht.",
+        "hu": "Autóval kényelmesen, klaszterekben fedezheti fel Lorcát. Délelőtt parkoljon a központban, és sétálva ismerje meg a történelmi magot a Plaza de España, a társkáptalan és a Guevara-palota környékén. Délben vezessen fel a lenyűgöző Fortaleza del Sol erődhöz, ahol nemcsak a történelmet, hanem egy panorámás ebédet is élvezhet. A délután a város egy másik részének szól: egy rövid autózás után fedezze fel a MASS múzeumot és a történelmi San Antonio kaput, mélyen elmerülve Lorca kultúrájában a nap végén.",
+        "ro": "Cu mașina, puteți explora convenabil Lorca în clustere. Dimineața, parcați în centru și descoperiți pe jos nucleul istoric din jurul Plaza de España, Colegiata și Palatul Guevara. La prânz, conduceți la impresionanta Fortaleza del Sol, unde vă puteți bucura nu doar de istorie, ci și de un prânz cu vedere panoramică. După-amiaza este dedicată unei alte părți a orașului: după o scurtă călătorie cu mașina, explorați muzeul MASS și poarta istorică San Antonio, aprofundând cultura Lorcăi înainte de sfârșitul zilei.",
+        "en": "With a car, you can conveniently explore Lorca in clusters. In the morning, park in the center and discover the historic core on foot, around Plaza de España, the Collegiate, and Guevara Palace. At noon, drive up to the impressive Fortaleza del Sol, where you can enjoy not only history but also a panoramic lunch. The afternoon is dedicated to another part of the city: after a short drive, explore the MASS museum and the historic San Antonio gate, diving deep into Lorca's culture before the day ends."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pisto Murciano",
+            "tip": "Ein Gemüse-Ratatouille, oft mit einem Spiegelei serviert. Herzhaft und köstlich."
+          },
+          {
+            "name": "Cordero Segureño al horno",
+            "tip": "Lamm aus der Region, langsam im Ofen gegart, zart und geschmackvoll."
+          },
+          {
+            "name": "Vinos de Bullas",
+            "tip": "Probieren Sie einen Rotwein aus der nahegelegenen Weinregion Bullas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pisto Murciano",
+            "tip": "Zöldséges lecsó, gyakran tükörtojással tálalva. Kiadós és finom."
+          },
+          {
+            "name": "Cordero Segureño al horno",
+            "tip": "Helyi bárány, lassan sütőben sütve, puha és ízletes."
+          },
+          {
+            "name": "Vinos de Bullas",
+            "tip": "Kóstoljon meg egy vörösbort a közeli Bullas borvidékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pisto Murciano",
+            "tip": "O tocană de legume, adesea servită cu un ou prăjit. Consistentă și delicioasă."
+          },
+          {
+            "name": "Cordero Segureño al horno",
+            "tip": "Miel local, gătit lent la cuptor, fraged și plin de gust."
+          },
+          {
+            "name": "Vinuri de Bullas",
+            "tip": "Încercați un vin roșu din regiunea viticolă apropiată, Bullas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pisto Murciano",
+            "tip": "A vegetable ratatouille, often served with a fried egg. Hearty and delicious."
+          },
+          {
+            "name": "Cordero Segureño al horno",
+            "tip": "Local lamb slow-cooked in the oven, tender and flavorful."
+          },
+          {
+            "name": "Wines from Bullas",
+            "tip": "Try a red wine from the nearby Bullas wine region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt durch die Landschaft",
+            "tip": "Erwägen Sie eine kurze Fahrt in die umliegende Landschaft für eine friedliche Abwechslung.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Parador de Lorca",
+            "tip": "Genießen Sie einen Kaffee oder ein Getränk in diesem modernen Hotel auf dem Burggelände mit spektakulärer Aussicht.",
+            "emoji": "☕"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a vidéken",
+            "tip": "Fontolja meg egy rövid autózást a környező vidéken egy békés kikapcsolódásért.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Parador de Lorca",
+            "tip": "Élvezzen egy kávét vagy italt ebben a modern szállodában a vár területén, ahonnan lenyűgöző a kilátás.",
+            "emoji": "☕"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu mașina prin peisajul rural",
+            "tip": "Luați în considerare o scurtă plimbare cu mașina în peisajul rural înconjurător pentru o schimbare pașnică.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Parador de Lorca",
+            "tip": "Bucurați-vă de o cafea sau o băutură la acest hotel modern din incinta castelului, cu vederi spectaculoase.",
+            "emoji": "☕"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive in the countryside",
+            "tip": "Consider a short drive into the surrounding countryside for a peaceful change of scenery.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Parador de Lorca",
+            "tip": "Enjoy a coffee or drink at this modern hotel on the castle grounds with spectacular views.",
+            "emoji": "☕"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Comercial Parque Almenara",
+            "tip": "Ein Einkaufszentrum am Stadtrand für eine größere Auswahl an Geschäften."
+          },
+          {
+            "name": "Töpferwerkstätten",
+            "tip": "Lorca und die weitere Region sind für ihre Töpferwaren bekannt; halten Sie Ausschau nach Werkstätten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centro Comercial Parque Almenara",
+            "tip": "Egy bevásárlóközpont a város szélén a nagyobb üzletválasztékért."
+          },
+          {
+            "name": "Fazekasműhelyek",
+            "tip": "Lorca és a tágabb régió híres a fazekasságáról; keresse a műhelyeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Parque Almenara",
+            "tip": "Un centru comercial la marginea orașului pentru o selecție mai largă de magazine."
+          },
+          {
+            "name": "Ateliere de ceramică",
+            "tip": "Lorca și regiunea înconjurătoare sunt cunoscute pentru ceramică; căutați ateliere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque Almenara Shopping Center",
+            "tip": "A shopping mall on the outskirts for a wider selection of stores."
+          },
+          {
+            "name": "Pottery Workshops",
+            "tip": "Lorca and the wider region are known for their pottery; look out for workshops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Nutzung des Autos ist ideal, um den steilen Anstieg zur Burg zu vermeiden.",
+          "Parken im Stadtzentrum kann schwierig sein; nutzen Sie ausgewiesene Parkplätze oder -häuser.",
+          "Planen Sie Ihre Route zwischen den Clustern, um Zeit zu sparen.",
+          "Die Festung der Sonne ist weitläufig; planen Sie genügend Zeit für Ihren Besuch ein."
+        ],
+        "hu": [
+          "Az autó használata ideális a várhoz vezető meredek emelkedő elkerülésére.",
+          "A parkolás a városközpontban nehézkes lehet; használja a kijelölt parkolókat.",
+          "Tervezze meg az útvonalat a klaszterek között az időmegtakarítás érdekében.",
+          "A Nap Erődje kiterjedt; szánjon elegendő időt a látogatásra."
+        ],
+        "ro": [
+          "Utilizarea mașinii este ideală pentru a evita urcarea abruptă la castel.",
+          "Parcarea în centrul orașului poate fi dificilă; utilizați parcările desemnate.",
+          "Planificați-vă traseul între clustere pentru a economisi timp.",
+          "Fortăreața Soarelui este extinsă; alocați suficient timp pentru vizita dumneavoastră."
+        ],
+        "en": [
+          "Using the car is ideal for avoiding the steep climb to the castle.",
+          "Parking in the city center can be challenging; use designated car parks.",
+          "Plan your route between clusters to save time.",
+          "The Fortress of the Sun is extensive; allow plenty of time for your visit."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrale Bushaltestelle (Lorca Sutullena)",
+            "hu": "Központi buszmegálló (Lorca Sutullena)",
+            "ro": "Stație centrală de autobuz (Lorca Sutullena)",
+            "en": "Central Bus Stop (Lorca Sutullena)"
+          },
+          "coords": [
+            -1.693,
+            37.669
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier und nehmen Sie einen Bus oder gehen Sie ins historische Zentrum.",
+            "hu": "Kezdje a napot itt, és busszal vagy gyalog menjen a történelmi központba.",
+            "ro": "Începeți ziua aici și luați un autobuz sau mergeți pe jos spre centrul istoric.",
+            "en": "Start your day here and take a bus or walk to the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de España & Colegiata de San Patricio",
+            "hu": "Plaza de España és San Patricio társkáptalan",
+            "ro": "Plaza de España și Colegiata San Patricio",
+            "en": "Plaza de España & Collegiate of San Patricio"
+          },
+          "coords": [
+            -1.6968,
+            37.6715
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:23",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Spaziergang des Tages führt Sie ins Herz von Lorca.",
+            "hu": "A nap első sétája Lorca szívébe vezet.",
+            "ro": "Prima plimbare a zilei vă duce în inima orașului Lorca.",
+            "en": "The first walk of the day takes you to the heart of Lorca."
+          }
+        },
+        {
+          "name": {
+            "de": "MUBB & MASS Stickereimuseen",
+            "hu": "MUBB és MASS Hímzőmúzeumok",
+            "ro": "Muzeele de Broderie MUBB & MASS",
+            "en": "MUBB & MASS Embroidery Museums"
+          },
+          "coords": [
+            -1.698,
+            37.6735
+          ],
+          "category": "museums",
+          "arrive_at": "10:41",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang oder eine Busfahrt bringt Sie zu diesen beiden wichtigen Museen.",
+            "hu": "Egy rövid séta vagy buszozás elviszi ehhez a két fontos múzeumhoz.",
+            "ro": "O scurtă plimbare pe jos sau cu autobuzul vă duce la aceste două muzee importante.",
+            "en": "A short walk or bus ride will take you to these two important museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Lorca (Fortaleza del Sol)",
+            "hu": "Lorcai vár (A Nap Erődje)",
+            "ro": "Castelul din Lorca (Fortăreața Soarelui)",
+            "en": "Lorca Castle (Fortress of the Sun)"
+          },
+          "coords": [
+            -1.7045,
+            37.6765
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Touristen-Trolley oder einen lokalen Bus zum Gipfel, um Energie zu sparen.",
+            "hu": "Használja a turista trolit vagy egy helyi buszt a csúcsra jutáshoz, hogy energiát takarítson meg.",
+            "ro": "Luați trenulețul turistic sau un autobuz local până în vârf pentru a economisi energie.",
+            "en": "Take the tourist trolley or a local bus to the top to save your energy."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Guevara",
+            "hu": "Guevara-palota",
+            "ro": "Palatul Guevara",
+            "en": "Guevara's Palace"
+          },
+          "coords": [
+            -1.698,
+            37.6725
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:43",
+          "stay_min": 50,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie vom Schloss zurück ins Zentrum, um dieses barocke Meisterwerk zu sehen.",
+            "hu": "Utazzon vissza a várból a központba, hogy megnézze ezt a barokk remekművet.",
+            "ro": "Luați un autobuz înapoi de la castel spre centru pentru a vedea această capodoperă barocă.",
+            "en": "Take a bus back from the castle to the center to see this baroque masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Guerra",
+            "hu": "Guerra Színház",
+            "ro": "Teatrul Guerra",
+            "en": "Guerra Theatre"
+          },
+          "coords": [
+            -1.6995,
+            37.6705
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:36",
+          "stay_min": 22,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter kurzer Spaziergang, um den Tag am ältesten Theater der Region ausklingen zu lassen.",
+            "hu": "Egy utolsó rövid séta, hogy a napot a régió legrégebbi színházánál fejezze be.",
+            "ro": "O ultimă plimbare scurtă pentru a încheia ziua la cel mai vechi teatru din regiune.",
+            "en": "A final short walk to end the day at the region's oldest theatre."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln können Sie die Highlights von Lorca effizient verbinden. Beginnen Sie im historischen Zentrum und erkunden Sie die Plaza de España zu Fuß. Nutzen Sie den Bus, um bequem zu den berühmten Stickereimuseen zu gelangen. Am Mittag bringt Sie ein Bus oder der Touristenzug auf den Burghügel zur Fortaleza del Sol, dem Höhepunkt des Tages. Von dort aus geht es am Nachmittag zurück ins Stadtzentrum, um weitere architektonische Juwelen wie den Palacio de Guevara und das Teatro Guerra zu besichtigen, bevor Sie Ihre Heimreise antreten.",
+        "hu": "A tömegközlekedéssel hatékonyan kötheti össze Lorca nevezetességeit. Kezdje a történelmi központban, és fedezze fel gyalog a Plaza de España környékét. Használja a buszt, hogy kényelmesen eljusson a híres hímzőmúzeumokhoz. Délben egy busz vagy a turistavonat felviszi a várhegyre a Fortaleza del Solhoz, a nap fénypontjához. Innen délután visszatérhet a városközpontba, hogy további építészeti gyöngyszemeket, például a Guevara-palotát és a Guerra Színházat is megtekinthesse, mielőtt hazaindulna.",
+        "ro": "Folosind transportul public, puteți conecta eficient atracțiile principale din Lorca. Începeți în centrul istoric, explorând Plaza de España pe jos. Folosiți autobuzul pentru a ajunge confortabil la faimoasele muzee de broderie. La prânz, un autobuz sau trenul turistic vă va duce pe dealul castelului la Fortaleza del Sol, punctul culminant al zilei. De acolo, după-amiaza vă întoarceți în centrul orașului pentru a vizita alte bijuterii arhitecturale, precum Palatul Guevara și Teatrul Guerra, înainte de a vă încheia ziua.",
+        "en": "Using public transport, you can efficiently connect Lorca's highlights. Start in the historic center, exploring Plaza de España on foot. Use the bus to comfortably reach the famous embroidery museums. At midday, a bus or the tourist train will take you up the castle hill to Fortaleza del Sol, the highlight of the day. From there, the afternoon takes you back to the city center to visit other architectural gems like the Guevara Palace and the Guerra Theatre before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas-Bars in der Altstadt",
+            "tip": "Probieren Sie verschiedene lokale Spezialitäten in den vielen Bars rund um die Calle Corredera."
+          },
+          {
+            "name": "Pastel de Cierva",
+            "tip": "Ein einzigartiger süßer und herzhafter Kuchen, eine lokale Delikatesse."
+          },
+          {
+            "name": "Asiático-Kaffee",
+            "tip": "Ein Kaffeegetränk mit Kondensmilch, Brandy und Likör 43, typisch für die Region Murcia."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas bárok az óvárosban",
+            "tip": "Kóstoljon meg különféle helyi specialitásokat a Calle Corredera körüli számos bárban."
+          },
+          {
+            "name": "Pastel de Cierva",
+            "tip": "Egyedülálló édes és sós sütemény, helyi finomság."
+          },
+          {
+            "name": "Asiático kávé",
+            "tip": "Kávéital sűrített tejjel, brandyvel és Licor 43-mal, a Murcia régióra jellemző."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baruri de tapas în centrul vechi",
+            "tip": "Încercați diverse specialități locale în numeroasele baruri din jurul Calle Corredera."
+          },
+          {
+            "name": "Pastel de Cierva",
+            "tip": "O plăcintă unică dulce și sărată, o delicatesă locală."
+          },
+          {
+            "name": "Cafea Asiático",
+            "tip": "O băutură de cafea cu lapte condensat, coniac și Licor 43, tipică regiunii Murcia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas bars in the Old Town",
+            "tip": "Try various local specialties in the many bars around Calle Corredera."
+          },
+          {
+            "name": "Pastel de Cierva",
+            "tip": "A unique sweet and savory pie, a local delicacy."
+          },
+          {
+            "name": "Asiático coffee",
+            "tip": "A coffee drink with condensed milk, brandy, and Licor 43, typical of the Murcia region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Synagoge in der Burg",
+            "tip": "Ein ruhiger und historisch bedeutsamer Ort innerhalb des Festungskomplexes.",
+            "emoji": "✡️"
+          },
+          {
+            "name": "Gärten und Plätze",
+            "tip": "Finden Sie eine ruhige Bank in einem der kleineren Plätze abseits der Hauptstraßen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zsinagóga a várban",
+            "tip": "Csendes és történelmileg jelentős hely az erődegyüttesen belül.",
+            "emoji": "✡️"
+          },
+          {
+            "name": "Kertek és terek",
+            "tip": "Keressen egy csendes padot az egyik kisebb téren, távol a főutcáktól.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sinagoga din castel",
+            "tip": "Un loc liniștit și semnificativ din punct de vedere istoric în complexul fortăreței.",
+            "emoji": "✡️"
+          },
+          {
+            "name": "Grădini și piețe",
+            "tip": "Găsiți o bancă liniștită într-una dintre piețele mai mici, departe de străzile principale.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Synagogue in the Castle",
+            "tip": "A quiet and historically significant site within the fortress complex.",
+            "emoji": "✡️"
+          },
+          {
+            "name": "Gardens and Plazas",
+            "tip": "Find a quiet bench in one of the smaller plazas off the main streets.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Corredera und Umgebung",
+            "tip": "Die Hauptachse für Shopping, von traditionellen Geschäften bis zu bekannten Marken."
+          },
+          {
+            "name": "Süßwarengeschäfte",
+            "tip": "Kaufen Sie lokale Süßigkeiten und Gebäck als leckeres Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Corredera és környéke",
+            "tip": "A vásárlás fő tengelye, a hagyományos boltoktól a jól ismert márkákig."
+          },
+          {
+            "name": "Cukrászdák",
+            "tip": "Vásároljon helyi édességeket és süteményeket finom szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Corredera și împrejurimile",
+            "tip": "Axa principală pentru cumpărături, de la magazine tradiționale la mărci cunoscute."
+          },
+          {
+            "name": "Cofetării",
+            "tip": "Cumpărați dulciuri și produse de patiserie locale ca un suvenir delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Corredera and surroundings",
+            "tip": "The main axis for shopping, from traditional shops to well-known brands."
+          },
+          {
+            "name": "Pastry Shops (Confiterías)",
+            "tip": "Buy local sweets and pastries as a delicious souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere für die Linien zur Burg.",
+          "Der Touristenzug ist eine gute Alternative zum öffentlichen Bus für den Besuch der Burg.",
+          "Einige Strecken lassen sich auch gut zu Fuß zurücklegen, planen Sie eine Mischung aus Gehen und Fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Előre ellenőrizze a buszmenetrendet, különösen a várhoz közlekedő járatokét.",
+          "A turistavonat jó alternatívája a helyi busznak a vár meglátogatásához.",
+          "Néhány távolság gyalog is könnyen megtehető, tervezzen vegyesen sétát és utazást."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați în avans orarele autobuzelor, în special pentru rutele către castel.",
+          "Trenulețul turistic este o alternativă bună la autobuzul public pentru a vizita castelul.",
+          "Unele distanțe sunt ușor de parcurs pe jos, planificați un amestec de mers pe jos și călătorii cu autobuzul."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making multiple trips.",
+          "Check bus schedules in advance, especially for the routes to the castle.",
+          "The tourist train is a good alternative to the public bus for visiting the castle.",
+          "Some distances are easily walkable, plan for a mix of walking and riding."
+        ]
+      }
+    }
+  }
+}

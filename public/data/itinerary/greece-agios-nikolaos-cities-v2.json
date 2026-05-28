@@ -1,0 +1,1399 @@
+{
+  "city_id": "greece-agios-nikolaos-cities-v2",
+  "anchor": {
+    "name": "Agios Nikolaos",
+    "coords": [
+      25.7151,
+      35.1912
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Agios Nikolaos",
+            "hu": "Ágiosz Nikólaosz kikötője",
+            "ro": "Portul din Agios Nikolaos",
+            "en": "Port of Agios Nikolaos"
+          },
+          "coords": [
+            25.7175,
+            35.1925
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote, die am Morgen ein- und auslaufen.",
+            "hu": "Figyeld a reggel ki- és befutó halászhajókat.",
+            "ro": "Priviți bărcile pescărești care intră și ies dimineața.",
+            "en": "Watch the fishing boats coming in and out in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Horn von Amaltheia",
+            "hu": "Amaltheia szarva",
+            "ro": "Cornul Amaltheei",
+            "en": "Horn of Amalthea"
+          },
+          "coords": [
+            25.7182,
+            35.1931
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:58",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein modernes Kunstwerk mit toller Aussicht auf die Mirabello-Bucht.",
+            "hu": "Egy modern szobor, remek kilátással a Mirabello-öbölre.",
+            "ro": "O sculptură modernă cu o priveliște excelentă spre Golful Mirabello.",
+            "en": "A modern sculpture offering great views of the Mirabello Bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Voulismeni-See",
+            "hu": "Voulismeni-tó",
+            "ro": "Lacul Voulismeni",
+            "en": "Lake Voulismeni"
+          },
+          "coords": [
+            25.7155,
+            35.191
+          ],
+          "category": "natural features",
+          "arrive_at": "10:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Umrunden Sie den „bodenlosen“ See und genießen Sie einen Kaffee in einem der Cafés.",
+            "hu": "Sétáld körbe a „feneketlen” tavat és igyál egy kávét az egyik kávézóban.",
+            "ro": "Înconjurați lacul „fără fund” și savurați o cafea la una dintre cafenele.",
+            "en": "Walk around the 'bottomless' lake and enjoy a coffee at one of the cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            25.716,
+            35.1905
+          ],
+          "category": "museums",
+          "arrive_at": "10:54",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kleiner Einblick in das kretische Leben vergangener Zeiten.",
+            "hu": "Egy kis betekintés a régi idők krétai életébe.",
+            "ro": "O mică incursiune în viața cretană de altădată.",
+            "en": "A small glimpse into Cretan life of bygone eras."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            25.712,
+            35.1899
+          ],
+          "category": "museums",
+          "arrive_at": "12:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie Artefakte aus der minoischen Zeit, die in Ostkreta gefunden wurden.",
+            "hu": "Csodáld meg a Kelet-Krétán talált minószi korból származó leleteket.",
+            "ro": "Admirați artefacte din perioada minoică găsite în estul Cretei.",
+            "en": "Admire artifacts from the Minoan era found in eastern Crete."
+          }
+        },
+        {
+          "name": {
+            "de": "Kitroplatia-Strand",
+            "hu": "Kitroplatia strand",
+            "ro": "Plaja Kitroplatia",
+            "en": "Kitroplatia Beach"
+          },
+          "coords": [
+            25.72,
+            35.1905
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:02",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Stadtstrand, perfekt für ein Mittagessen und ein erfrischendes Bad.",
+            "hu": "Városi strand, tökéletes egy ebédhez és egy frissítő fürdőzéshez.",
+            "ro": "O plajă urbană perfectă pentru prânz și o baie răcoritoare.",
+            "en": "A city beach, perfect for having lunch and a refreshing swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am See",
+            "hu": "Vacsora a tónál",
+            "ro": "Cină la lac",
+            "en": "Dinner by the Lake"
+          },
+          "coords": [
+            25.715,
+            35.1915
+          ],
+          "category": "gastro",
+          "arrive_at": "17:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wählen Sie eine Taverne mit Blick auf den See für ein stimmungsvolles Abendessen.",
+            "hu": "Válassz egy tóra néző tavernát egy hangulatos vacsorához.",
+            "ro": "Alegeți o tavernă cu vedere la lac pentru o cină atmosferică.",
+            "en": "Choose a taverna overlooking the lake for an atmospheric dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am lebhaften Hafen, bevor Sie zum ruhigen Voulismeni-See schlendern, dem Herzen der Stadt. Der Morgen ist perfekt, um die Mythen und die lokale Atmosphäre aufzusaugen. Erkunden Sie die kleinen Gassen und genießen Sie die maritime Brise.\nAm Mittag tauchen Sie in die reiche Geschichte Kretas ein. Das Archäologische Museum zeigt minoische Schätze, die Sie in eine andere Zeit versetzen. Danach ist es Zeit für Entspannung am Stadtstrand Kitroplatia. Gönnen Sie sich ein Mittagessen in einer Taverne direkt am Meer.\nDer Nachmittag steht ganz im Zeichen von Sonne und Meer. Verbringen Sie entspannte Stunden am Strand, schwimmen Sie im klaren Wasser oder lesen Sie einfach ein Buch im Schatten. Dies ist der perfekte Moment, um die Seele baumeln zu lassen und das kretische Leben zu genießen.\nSchließen Sie den Tag mit einem unvergesslichen Abendessen ab. Die Tavernen rund um den Voulismeni-See bieten eine magische Kulisse. Genießen Sie lokale Spezialitäten, während die Lichter der Stadt sich im Wasser spiegeln und eine romantische Atmosphäre schaffen.",
+        "hu": "Kezdje a napot a nyüzsgő kikötőben, majd sétáljon át a nyugodt Voulismeni-tóhoz, a város szívéhez. A reggel tökéletes a mítoszok és a helyi hangulat befogadására. Fedezze fel a kis utcákat, és élvezze a tengeri szellőt.\nDélben merüljön el Kréta gazdag történelmében. A Régészeti Múzeum minószi kincseket tár elénk, amelyek egy másik korba repítenek. Ezután ideje pihenni a városi Kitroplatia strandon. Ebédeljen egy tengerparti tavernában.\nA délután a napról és a tengerről szól. Töltsön el pihentető órákat a strandon, ússzon a tiszta vízben, vagy egyszerűen csak olvasson egy könyvet az árnyékban. Ez a tökéletes pillanat a kikapcsolódásra és a krétai élet élvezetére.\nZárja a napot egy felejthetetlen vacsorával. A Voulismeni-tó körüli tavernák varázslatos hátteret biztosítanak. Élvezze a helyi specialitásokat, miközben a város fényei visszatükröződnek a vízen, romantikus hangulatot teremtve.",
+        "ro": "Începeți ziua în portul plin de viață, apoi plimbați-vă spre liniștitul Lac Voulismeni, inima orașului. Dimineața este perfectă pentru a absorbi miturile și atmosfera locală. Explorați străduțele și bucurați-vă de briza mării.\nLa prânz, scufundați-vă în istoria bogată a Cretei. Muzeul de Arheologie expune comori minoice care vă transportă într-o altă epocă. După aceea, este timpul pentru relaxare pe plaja urbană Kitroplatia. Savurați prânzul la o tavernă direct pe malul mării.\nDupă-amiaza este dedicată soarelui și mării. Petreceți ore relaxante pe plajă, înotați în apa limpede sau pur și simplu citiți o carte la umbră. Acesta este momentul perfect pentru a vă relaxa și a vă bucura de viața cretană.\nÎncheiați ziua cu o cină de neuitat. Tavernele din jurul Lacului Voulismeni oferă un cadru magic. Bucurați-vă de specialități locale în timp ce luminile orașului se reflectă în apă, creând o atmosferă romantică.",
+        "en": "Start your day at the lively port before strolling to the tranquil Lake Voulismeni, the heart of the city. The morning is perfect for soaking up the myths and local atmosphere. Explore the small streets and enjoy the maritime breeze.\nAt midday, delve into Crete's rich history. The Archaeological Museum showcases Minoan treasures that transport you to another era. Afterwards, it's time for relaxation at the city beach, Kitroplatia. Enjoy lunch at a taverna right by the sea.\nThe afternoon is all about sun and sea. Spend relaxing hours on the beach, swim in the clear water, or simply read a book in the shade. This is the perfect moment to unwind and enjoy the Cretan way of life.\nEnd the day with an unforgettable dinner. The tavernas around Lake Voulismeni offer a magical setting. Enjoy local specialities as the city lights reflect on the water, creating a romantic atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch",
+            "tip": "Probieren Sie den Fang des Tages in einer Taverne am Hafen."
+          },
+          {
+            "name": "Dakos-Salat",
+            "tip": "Ein kretischer Klassiker mit Gerstenzwieback, Tomaten und Mizithra-Käse."
+          },
+          {
+            "name": "Raki",
+            "tip": "Der lokale Tresterbrand, oft nach dem Essen vom Haus angeboten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss hal",
+            "tip": "Kóstold meg a nap fogását egy kikötői tavernában."
+          },
+          {
+            "name": "Dakos saláta",
+            "tip": "Klasszikus krétai saláta árpakétszersülttel, paradicsommal és Mizithra sajttal."
+          },
+          {
+            "name": "Raki",
+            "tip": "A helyi törkölypálinka, amit gyakran a ház ajándékaként szolgálnak fel étkezés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt",
+            "tip": "Încercați captura zilei la o tavernă din port."
+          },
+          {
+            "name": "Salată Dakos",
+            "tip": "Un clasic cretan cu pesmet de orz, roșii și brânză Mizithra."
+          },
+          {
+            "name": "Raki",
+            "tip": "Rachiul local din tescovină, adesea oferit din partea casei după masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Fish",
+            "tip": "Try the catch of the day at a taverna in the port."
+          },
+          {
+            "name": "Dakos Salad",
+            "tip": "A Cretan classic with barley rusk, tomatoes, and Mizithra cheese."
+          },
+          {
+            "name": "Raki",
+            "tip": "The local pomace brandy, often offered on the house after a meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Kitroplatia-Strand",
+            "tip": "Finden Sie einen ruhigen Platz, um die Sonne über dem Meer untergehen zu sehen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang oberhalb des Sees",
+            "tip": "Die Wege oberhalb des Voulismeni-Sees bieten eine ruhige Perspektive.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ambelos-Strand",
+            "tip": "Ein kleiner, abgeschiedener Strand südlich der Stadt für echte Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Kitroplatia strandon",
+            "tip": "Keress egy csendes helyet, és nézd, ahogy a nap a tengerbe bukik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a tó felett",
+            "tip": "A Voulismeni-tó feletti ösvények nyugodt perspektívát kínálnak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ambelos strand",
+            "tip": "Egy kis, eldugott strand a várostól délre az igazi békéért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la plaja Kitroplatia",
+            "tip": "Găsiți un loc liniștit pentru a privi soarele apunând peste mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare deasupra lacului",
+            "tip": "Căile de deasupra lacului Voulismeni oferă o perspectivă liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja Ambelos",
+            "tip": "O plajă mică și retrasă la sud de oraș pentru o liniște adevărată.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Kitroplatia Beach",
+            "tip": "Find a quiet spot to watch the sun set over the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk above the lake",
+            "tip": "The paths above Lake Voulismeni offer a quiet perspective.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ambelos Beach",
+            "tip": "A small, secluded beach south of the town for true tranquility.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Handgefertigte Töpferwaren in traditionellen und modernen Designs."
+          },
+          {
+            "name": "Olivenölprodukte",
+            "tip": "Hochwertiges kretisches Olivenöl und Seifen."
+          },
+          {
+            "name": "Kräuter und Gewürze",
+            "tip": "Kaufen Sie aromatischen Thymian, Oregano und andere kretische Kräuter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Kézzel készített agyagedények tradicionális és modern kivitelben."
+          },
+          {
+            "name": "Olívaolaj termékek",
+            "tip": "Kiváló minőségű krétai olívaolaj és szappanok."
+          },
+          {
+            "name": "Gyógynövények és fűszerek",
+            "tip": "Vásárolj aromás kakukkfüvet, oregánót és más krétai gyógynövényeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Articole de olărit realizate manual, cu design tradițional și modern."
+          },
+          {
+            "name": "Produse din ulei de măsline",
+            "tip": "Ulei de măsline cretan de înaltă calitate și săpunuri."
+          },
+          {
+            "name": "Ierburi și condimente",
+            "tip": "Cumpărați cimbru aromat, oregano și alte ierburi cretane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Ceramics",
+            "tip": "Handmade pottery in traditional and modern designs."
+          },
+          {
+            "name": "Olive Oil Products",
+            "tip": "High-quality Cretan olive oil and soaps."
+          },
+          {
+            "name": "Herbs and Spices",
+            "tip": "Buy aromatic thyme, oregano, and other Cretan herbs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen hügelig sein können.",
+          "Eine wiederverwendbare Wasserflasche ist bei der griechischen Hitze unerlässlich.",
+          "Die meisten Geschäfte schließen am Nachmittag für eine Siesta.",
+          "Seien Sie auf viele Treppen vorbereitet, besonders rund um den See.",
+          "Ein Sonnenhut und Sonnencreme sind auch bei kurzen Spaziergängen ein Muss."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, az utcák emelkedhetnek.",
+          "Egy újratölthető vizes palack elengedhetetlen a görög hőségben.",
+          "A legtöbb üzlet délután bezár a szieszta idejére.",
+          "Készülj fel a sok lépcsőre, különösen a tó körül.",
+          "A kalap és a naptej még rövid séták során is kötelező."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile pot fi deluroase.",
+          "O sticlă de apă reutilizabilă este esențială în căldura grecească.",
+          "Majoritatea magazinelor închid după-amiaza pentru siestă.",
+          "Fiți pregătiți pentru multe scări, în special în jurul lacului.",
+          "O pălărie de soare și crema de protecție solară sunt obligatorii chiar și pentru plimbări scurte."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets can be hilly.",
+          "A reusable water bottle is essential in the Greek heat.",
+          "Most shops close in the afternoon for a siesta.",
+          "Be prepared for many stairs, especially around the lake.",
+          "A sun hat and sunscreen are a must, even for short walks."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Voulismeni-See",
+            "hu": "Voulismeni-tó",
+            "ro": "Lacul Voulismeni",
+            "en": "Lake Voulismeni"
+          },
+          "coords": [
+            25.7155,
+            35.191
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour im Herzen der Stadt.",
+            "hu": "Kezdje a túrát a város szívében.",
+            "ro": "Începeți turul în inima orașului.",
+            "en": "Start your tour in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Agios Nikolaos",
+            "hu": "Ágiosz Nikólaosz kikötője",
+            "ro": "Portul din Agios Nikolaos",
+            "en": "Port of Agios Nikolaos"
+          },
+          "coords": [
+            25.7175,
+            35.1925
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der Marina und bewundern Sie die Boote.",
+            "hu": "Biciklizz végig a marina mentén, és csodáld meg a hajókat.",
+            "ro": "Pedalați de-a lungul marinei și admirați bărcile.",
+            "en": "Cycle along the marina and admire the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Kitroplatia-Strand",
+            "hu": "Kitroplatia strand",
+            "ro": "Plaja Kitroplatia",
+            "en": "Kitroplatia Beach"
+          },
+          "coords": [
+            25.72,
+            35.1905
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:16",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein guter Ort für eine kurze Pause und ein erfrischendes Getränk.",
+            "hu": "Jó hely egy rövid szünetre és egy frissítő italra.",
+            "ro": "Un loc bun pentru o scurtă pauză și o băutură răcoritoare.",
+            "en": "A good spot for a short break and a refreshing drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            25.712,
+            35.1899
+          ],
+          "category": "museums",
+          "arrive_at": "11:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie in die minoische Geschichte ein.",
+            "hu": "Zárd le biztonságosan a kerékpárod, és merülj el a minószi történelemben.",
+            "ro": "Parcați-vă bicicleta în siguranță și scufundați-vă în istoria minoică.",
+            "en": "Park your bike securely and dive into Minoan history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Ammoudi",
+            "hu": "Ebéd Ammoudiban",
+            "ro": "Prânz în Ammoudi",
+            "en": "Lunch at Ammoudi"
+          },
+          "coords": [
+            25.724,
+            35.196
+          ],
+          "category": "gastro",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Radeln Sie zum Strand von Ammoudi für ein entspanntes Mittagessen am Meer.",
+            "hu": "Tekerj el az Ammoudi strandra egy laza tengerparti ebédért.",
+            "ro": "Pedalați până la plaja Ammoudi pentru un prânz relaxat la malul mării.",
+            "en": "Cycle to Ammoudi beach for a relaxed seaside lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Gargadoros Strand",
+            "hu": "Gargadoros strand",
+            "ro": "Plaja Gargadoros",
+            "en": "Gargadoros Beach"
+          },
+          "coords": [
+            25.705,
+            35.185
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Eine längere Fahrt zu einem ruhigeren Strand, perfekt für den Nachmittag.",
+            "hu": "Egy hosszabb tekerés egy csendesebb strandra, tökéletes a délutánra.",
+            "ro": "O plimbare mai lungă cu bicicleta până la o plajă mai liniștită, perfectă pentru după-amiază.",
+            "en": "A longer ride to a quieter beach, perfect for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Aperitif am See",
+            "hu": "Aperitif a tónál",
+            "ro": "Aperitiv la lac",
+            "en": "Aperitif by the lake"
+          },
+          "coords": [
+            25.715,
+            35.1915
+          ],
+          "category": "gastro",
+          "arrive_at": "16:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem Drink und Blick auf den Voulismeni-See.",
+            "hu": "Fejezd be a kerékpártúrát egy itallal a Voulismeni-tóra nézve.",
+            "ro": "Încheiați turul cu bicicleta cu o băutură cu vedere la Lacul Voulismeni.",
+            "en": "End your bike tour with a drink overlooking Lake Voulismeni."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Voulismeni-See und fahren Sie entlang des Hafens, um die Meeresluft zu genießen. Die Route führt Sie zum Kitroplatia-Strand, einem perfekten Ort für eine erste Pause. Der Morgen ist ideal, um die Küste der Stadt zu erkunden.\nAm Mittag führt Sie Ihre Tour landeinwärts zum Archäologischen Museum. Nachdem Sie die reiche Geschichte Kretas aufgesogen haben, radeln Sie weiter zum Ammoudi-Strand für ein wohlverdientes Mittagessen in einer Taverne mit Blick auf das klare Wasser.\nDer Nachmittag ist für eine längere, aber lohnende Fahrt zum ruhigeren Gargadoros-Strand reserviert. Hier können Sie sich entspannen, schwimmen und die Sonne genießen, abseits der belebteren Gegenden. Die Fahrt selbst bietet schöne Ausblicke auf die Küste.\nBeenden Sie Ihren Tag dort, wo er begonnen hat: am Voulismeni-See. Stellen Sie Ihr Fahrrad ab und belohnen Sie sich mit einem erfrischenden Aperitif in einer der vielen Bars. Es ist der perfekte Abschluss eines aktiven Tages, während Sie den Sonnenuntergang beobachten.",
+        "hu": "Kezdje a kerékpártúrát a Voulismeni-tónál, és tekerjen végig a kikötő mentén, hogy élvezze a tengeri levegőt. Az útvonal a Kitroplatia strandhoz vezet, amely tökéletes hely az első pihenőre. A reggel ideális a város partvidékének felfedezésére.\nDélben a túra a szárazföld belseje felé, a Régészeti Múzeumhoz vezet. Miután magába szívta Kréta gazdag történelmét, tekerjen tovább az Ammoudi strandra egy jól megérdemelt ebédre egy tiszta vizű tavernában.\nA délutánt egy hosszabb, de megérő út várja a csendesebb Gargadoros strandra. Itt pihenhet, úszhat és élvezheti a napot, távol a forgalmasabb területektől. Maga az út is gyönyörű kilátást nyújt a partra.\nFejezze be a napot ott, ahol kezdte: a Voulismeni-tónál. Tegye le a kerékpárt, és jutalmazza meg magát egy frissítő aperitiffel a sok bár egyikében. Ez a tökéletes lezárása egy aktív napnak, miközben a naplementét nézi.",
+        "ro": "Începeți turul cu bicicleta de la Lacul Voulismeni și pedalați de-a lungul portului pentru a vă bucura de aerul mării. Traseul vă duce la plaja Kitroplatia, un loc perfect pentru o primă pauză. Dimineața este ideală pentru a explora coasta orașului.\nLa prânz, turul vă duce spre interior, la Muzeul de Arheologie. După ce ați absorbit istoria bogată a Cretei, pedalați mai departe spre plaja Ammoudi pentru un prânz binemeritat la o tavernă cu vedere la apa limpede.\nDupă-amiaza este rezervată unei plimbări mai lungi, dar pline de satisfacții, până la plaja mai liniștită Gargadoros. Aici vă puteți relaxa, înota și vă puteți bucura de soare, departe de zonele mai aglomerate. Plimbarea în sine oferă priveliști frumoase ale coastei.\nÎncheiați ziua unde a început: la Lacul Voulismeni. Lăsați bicicleta și recompensați-vă cu un aperitiv răcoritor la unul dintre numeroasele baruri. Este finalul perfect pentru o zi activă, în timp ce priviți apusul.",
+        "en": "Start your bike tour at Lake Voulismeni and cycle along the port to enjoy the sea air. The route takes you to Kitroplatia Beach, a perfect spot for a first break. The morning is ideal for exploring the city's coastline.\nAt midday, your tour leads you inland to the Archaeological Museum. After soaking up Crete's rich history, cycle on to Ammoudi Beach for a well-deserved lunch at a taverna overlooking the clear water.\nThe afternoon is reserved for a longer but rewarding ride to the quieter Gargadoros Beach. Here you can relax, swim, and enjoy the sun, away from the busier areas. The ride itself offers beautiful coastal views.\nEnd your day where it began: at Lake Voulismeni. Park your bike and reward yourself with a refreshing aperitif at one of the many bars. It's the perfect end to an active day while watching the sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Eine Spezialität, die man in den Tavernen am Meer findet."
+          },
+          {
+            "name": "Griechischer Joghurt mit Honig",
+            "tip": "Ein perfekter, leichter Snack nach einer Radtour."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "Ein süßes oder herzhaftes Gebäck, ideal zum Frühstück oder als Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett polip",
+            "tip": "A tengerparti tavernák specialitása."
+          },
+          {
+            "name": "Görög joghurt mézzel",
+            "tip": "Tökéletes, könnyű harapnivaló egy kerékpártúra után."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "Édes vagy sós péksütemény, ideális reggelire vagy uzsonnára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "O specialitate găsită la tavernele de pe malul mării."
+          },
+          {
+            "name": "Iaurt grecesc cu miere",
+            "tip": "O gustare perfectă și ușoară după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "Un produs de patiserie dulce sau sărat, ideal pentru micul dejun sau ca gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Octopus",
+            "tip": "A specialty found at the seaside tavernas."
+          },
+          {
+            "name": "Greek Yogurt with Honey",
+            "tip": "A perfect, light snack after a bike ride."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "A sweet or savory pastry, ideal for breakfast or a snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ammos Strand",
+            "tip": "Ein langer Sandstrand, der sich gut für einen ruhigen Spaziergang mit dem Rad eignet.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Blick von den Hügeln",
+            "tip": "Fahren Sie in die Hügel oberhalb der Stadt für eine atemberaubende und ruhige Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Olivenhaine",
+            "tip": "Eine Radtour durch die umliegenden Olivenhaine bietet pure Entspannung.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ammos strand",
+            "tip": "Hosszú homokos strand, amely kiválóan alkalmas egy csendes kerékpáros sétára.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Kilátás a dombokról",
+            "tip": "Tekerj fel a város feletti dombokra a lélegzetelállító és csendes kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Olajfaligetek",
+            "tip": "A környező olajfaligeteken keresztüli kerékpártúra tiszta kikapcsolódást nyújt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Ammos",
+            "tip": "O plajă lungă cu nisip, potrivită pentru o plimbare liniștită cu bicicleta.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Vedere de pe dealuri",
+            "tip": "Pedalați spre dealurile de deasupra orașului pentru o priveliște uluitoare și liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Livezi de măslini",
+            "tip": "O plimbare cu bicicleta prin livezile de măslini din jur oferă relaxare pură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ammos Beach",
+            "tip": "A long sandy beach well-suited for a quiet cycle.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "View from the hills",
+            "tip": "Ride up into the hills above town for a breathtaking and quiet view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Olive Groves",
+            "tip": "A bike ride through the surrounding olive groves offers pure relaxation.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, um die Hügel leichter zu bewältigen.",
+          "Die Küstenstraßen sind schön, aber achten Sie auf den Verkehr.",
+          "Nehmen Sie viel Wasser mit, besonders für längere Fahrten.",
+          "Ein Helm wird dringend empfohlen.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Bérelj e-biciklit, hogy könnyebben megbirkózz a dombokkal.",
+          "A tengerparti utak szépek, de figyelj a forgalomra.",
+          "Vigyél magaddal sok vizet, különösen a hosszabb utakra.",
+          "A sisak használata erősen ajánlott.",
+          "Mindig zárd le jól a kerékpárodat, ha leteszed."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru a face față mai ușor dealurilor.",
+          "Drumurile de coastă sunt frumoase, dar fiți atenți la trafic.",
+          "Luați multă apă, mai ales pentru plimbările mai lungi.",
+          "O cască este foarte recomandată.",
+          "Încuietăți-vă întotdeauna bine bicicleta când o parcați."
+        ],
+        "en": [
+          "Rent an e-bike to tackle the hills more easily.",
+          "The coastal roads are beautiful, but be mindful of traffic.",
+          "Bring plenty of water, especially for longer rides.",
+          "A helmet is highly recommended.",
+          "Always lock your bike securely when you park it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:43",
+      "total_km": 28.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Panagia Kera",
+            "hu": "Panagia Kera templom",
+            "ro": "Biserica Panagia Kera",
+            "en": "Church of Panagia Kera"
+          },
+          "coords": [
+            25.6667,
+            35.1884
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 10,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Bewundern Sie die berühmten byzantinischen Fresken in dieser historischen Kirche.",
+            "hu": "Csodálja meg a híres bizánci freskókat ebben a történelmi templomban.",
+            "ro": "Admirați faimoasele fresce bizantine din această biserică istorică.",
+            "en": "Admire the famous Byzantine frescoes in this historic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            25.712,
+            35.1899
+          ],
+          "category": "museums",
+          "arrive_at": "11:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und entdecken Sie die minoischen Schätze der Region.",
+            "hu": "Parkolj a közelben, és fedezd fel a régió minószi kincseit.",
+            "ro": "Parcați în apropiere și descoperiți comorile minoice ale regiunii.",
+            "en": "Park nearby and discover the Minoan treasures of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Voulismeni-See",
+            "hu": "Voulismeni-tó",
+            "ro": "Lacul Voulismeni",
+            "en": "Lake Voulismeni"
+          },
+          "coords": [
+            25.7155,
+            35.191
+          ],
+          "category": "natural features",
+          "arrive_at": "12:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zum legendären See der Stadt.",
+            "hu": "Egy rövid séta a múzeumtól a város legendás taváig.",
+            "ro": "O scurtă plimbare de la muzeu la lacul legendar al orașului.",
+            "en": "A short walk from the museum to the city's legendary lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am See",
+            "hu": "Ebéd a tónál",
+            "ro": "Prânz la lac",
+            "en": "Lunch by the lake"
+          },
+          "coords": [
+            25.715,
+            35.1915
+          ],
+          "category": "gastro",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie kretische Spezialitäten in einer Taverne mit Seeblick.",
+            "hu": "Élvezze a krétai specialitásokat egy tóra néző tavernában.",
+            "ro": "Bucurați-vă de specialități cretane la o tavernă cu vedere la lac.",
+            "en": "Enjoy Cretan specialties at a taverna with a lake view."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen & Kitroplatia-Strand",
+            "hu": "Kikötő és Kitroplatia strand",
+            "ro": "Portul și Plaja Kitroplatia",
+            "en": "Harbour & Kitroplatia Beach"
+          },
+          "coords": [
+            25.72,
+            35.1905
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:48",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hafenbereich, parken Sie und genießen Sie den Strand und die Promenade.",
+            "hu": "Vezessen a kikötőhöz, parkoljon, és élvezze a strandot és a sétányt.",
+            "ro": "Conduceți spre zona portuară, parcați și bucurați-vă de plajă și promenadă.",
+            "en": "Drive to the harbour area, park, and enjoy the beach and promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Horn von Amaltheia",
+            "hu": "Amaltheia szarva",
+            "ro": "Cornul Amaltheei",
+            "en": "Horn of Amalthea"
+          },
+          "coords": [
+            25.7182,
+            35.1931
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Strand zu dieser markanten Skulptur.",
+            "hu": "Rövid séta a strandtól ehhez a jellegzetes szoborhoz.",
+            "ro": "O scurtă plimbare de la plajă la această sculptură impresionantă.",
+            "en": "A short walk from the beach to this striking sculpture."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt bei Kritsa",
+            "hu": "Kilátópont Kritsa közelében",
+            "ro": "Punct de belvedere lângă Kritsa",
+            "en": "Viewpoint near Kritsa"
+          },
+          "coords": [
+            25.645,
+            35.158
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:29",
+          "stay_min": 45,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 10,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie für einen spektakulären Sonnenuntergangsblick über die Bucht.",
+            "hu": "Vezessen fel egy látványos naplementés kilátásért az öböl felett.",
+            "ro": "Conduceți pentru o priveliște spectaculoasă la apus peste golf.",
+            "en": "Drive up for a spectacular sunset view over the bay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto beginnt mit einer kurzen Fahrt zur historischen Kirche Panagia Kera, die für ihre atemberaubenden byzantinischen Fresken bekannt ist. Dieser erste Halt bietet einen tiefen Einblick in die religiöse Kunst Kretas, bevor Sie sich dem Trubel der Stadt zuwenden.\nAls Nächstes fahren Sie ins Zentrum von Agios Nikolaos. Parken Sie Ihr Auto und erkunden Sie zu Fuß das Cluster aus Archäologischem Museum und dem berühmten Voulismeni-See. Nach der Kultur genießen Sie ein entspanntes Mittagessen in einer der vielen Tavernen am Seeufer.\nAm Nachmittag fahren Sie zum Hafen. Hier können Sie Ihr Auto wieder abstellen und das maritime Flair genießen. Schlendern Sie entlang der Promenade, entspannen Sie am Kitroplatia-Strand oder besuchen Sie die Skulptur „Horn von Amaltheia“. Dies ist ein perfekter Ort, um die Nachmittagssonne zu genießen.\nZum Abschluss des Tages fahren Sie in die Hügel nahe dem Dorf Kritsa. Von hier aus haben Sie einen unvergesslichen Panoramablick auf die Mirabello-Bucht bei Sonnenuntergang – ein perfekter fotografischer Abschluss für Ihren erlebnisreichen Tag.",
+        "hu": "Autós napja egy rövid vezetéssel kezdődik a történelmi Panagia Kera templomhoz, amely lenyűgöző bizánci freskóiról híres. Ez az első megálló mély betekintést nyújt Kréta vallási művészetébe, mielőtt a város nyüzsgése felé veszi az irányt.\nEzután Ágiosz Nikólaosz központjába hajt. Parkolja le az autóját, és fedezze fel gyalog a Régészeti Múzeum és a híres Voulismeni-tó alkotta klasztert. A kultúra után élvezzen egy laza ebédet az egyik tóparti tavernában.\nDélután a kikötőbe vezet az út. Itt ismét leparkolhat, és élvezheti a tengeri hangulatot. Sétáljon végig a sétányon, pihenjen a Kitroplatia strandon, vagy látogasson el az „Amaltheia szarva” szoborhoz. Ez a tökéletes hely a délutáni nap élvezetére.\nA nap zárásaként hajtson fel a Kritsa falu melletti dombokra. Innen felejthetetlen panoráma nyílik a Mirabello-öbölre naplementekor – tökéletes fotós befejezése az eseménydús napnak.",
+        "ro": "Ziua cu mașina începe cu o scurtă călătorie spre biserica istorică Panagia Kera, renumită pentru frescele sale bizantine uimitoare. Această primă oprire oferă o perspectivă profundă asupra artei religioase cretane înainte de a vă îndrepta spre agitația orașului.\nApoi, conduceți spre centrul orașului Agios Nikolaos. Parcați mașina și explorați pe jos clusterul format din Muzeul de Arheologie și faimosul Lac Voulismeni. După cultură, bucurați-vă de un prânz relaxat la una dintre numeroasele taverne de pe malul lacului.\nDupă-amiaza, conduceți spre port. Aici puteți parca din nou și vă puteți bucura de atmosfera maritimă. Plimbați-vă de-a lungul promenadei, relaxați-vă pe plaja Kitroplatia sau vizitați sculptura „Cornul Amaltheei”. Acesta este un loc perfect pentru a vă bucura de soarele de după-amiază.\nPentru a încheia ziua, conduceți spre dealurile de lângă satul Kritsa. De aici, veți avea o priveliște panoramică de neuitat asupra Golfului Mirabello la apus – un final fotografic perfect pentru ziua dumneavoastră plină de evenimente.",
+        "en": "Your day by car begins with a short drive to the historic Church of Panagia Kera, famous for its stunning Byzantine frescoes. This first stop offers a deep dive into Cretan religious art before you head into the bustle of the city.\nNext, drive to the center of Agios Nikolaos. Park your car and explore the cluster of the Archaeological Museum and the famous Lake Voulismeni on foot. After the culture, enjoy a relaxed lunch at one of the many lakeside tavernas.\nIn the afternoon, drive to the port. Here you can park again and enjoy the maritime atmosphere. Stroll along the promenade, relax on Kitroplatia Beach, or visit the 'Horn of Amalthea' sculpture. This is a perfect place to enjoy the afternoon sun.\nTo end the day, drive up into the hills near the village of Kritsa. From here you'll have an unforgettable panoramic view of Mirabello Bay at sunset – a perfect photographic conclusion to your eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kreatopita",
+            "tip": "Ein herzhafter Fleischkuchen, den man oft in den Bergdörfern wie Kritsa findet."
+          },
+          {
+            "name": "Antikristo",
+            "tip": "Über dem Feuer gegrilltes Lamm, eine traditionelle kretische Spezialität."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Kleine Käse- oder Kräuterpasteten, perfekt für einen Snack unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kreatopita",
+            "tip": "Húsos pite, amelyet gyakran találni a hegyi falvakban, mint Kritsa."
+          },
+          {
+            "name": "Antikristo",
+            "tip": "Tűz felett grillezett bárány, egy tradicionális krétai specialitás."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Kis sajtos vagy zöldfűszeres piték, tökéletes útközbeni harapnivalónak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kreatopita",
+            "tip": "O plăcintă cu carne consistentă, adesea găsită în satele de munte precum Kritsa."
+          },
+          {
+            "name": "Antikristo",
+            "tip": "Miel la grătar deasupra focului, o specialitate tradițională cretană."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Mici plăcinte cu brânză sau ierburi, perfecte pentru o gustare pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kreatopita",
+            "tip": "A hearty meat pie, often found in mountain villages like Kritsa."
+          },
+          {
+            "name": "Antikristo",
+            "tip": "Lamb grilled over an open fire, a traditional Cretan specialty."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Small cheese or herb pies, perfect for a snack on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Katharo-Hochebene",
+            "tip": "Eine längere Fahrt in die Berge für absolute Ruhe und eine andere Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Voulisma Strand",
+            "tip": "Ein kurzer Abstecher mit dem Auto zu einem der schönsten Strände der Region.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Spaziergang in Kritsa",
+            "tip": "Das traditionelle Dorf Kritsa ist ruhig und perfekt für einen entspannten Spaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katharo-fennsík",
+            "tip": "Egy hosszabb autóút a hegyekbe az abszolút nyugalomért és egy másfajta tájért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Voulisma strand",
+            "tip": "Egy rövid autós kitérő a régió egyik legszebb strandjához.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Séta Kritsában",
+            "tip": "A hagyományos Kritsa falu csendes és tökéletes egy nyugodt sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podișul Katharo",
+            "tip": "O călătorie mai lungă cu mașina în munți pentru o liniște absolută și un peisaj diferit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja Voulisma",
+            "tip": "Un scurt ocol cu mașina către una dintre cele mai frumoase plaje din regiune.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Plimbare în Kritsa",
+            "tip": "Satul tradițional Kritsa este liniștit și perfect pentru o plimbare relaxantă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Katharo Plateau",
+            "tip": "A longer drive into the mountains for absolute tranquility and a different landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Voulisma Beach",
+            "tip": "A short car detour to one of the most beautiful beaches in the region.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Walk in Kritsa",
+            "tip": "The traditional village of Kritsa is quiet and perfect for a relaxing walk.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein kleines Auto, da die Straßen in der Stadt und in den Dörfern eng sein können.",
+          "Parken ist im Zentrum eine Herausforderung. Nutzen Sie ausgewiesene Parkplätze.",
+          "Die Straßen in den Bergen können kurvenreich sein. Fahren Sie vorsichtig.",
+          "Ein GPS ist sehr hilfreich, um abgelegene Orte zu finden.",
+          "Achten Sie auf Ziegen auf der Straße, besonders in ländlichen Gebieten."
+        ],
+        "hu": [
+          "Bérelj kis autót, mert a városi és falusi utcák szűkek lehetnek.",
+          "A parkolás kihívást jelent a központban. Használd a kijelölt parkolókat.",
+          "A hegyi utak kanyargósak lehetnek. Vezess óvatosan.",
+          "A GPS nagyon hasznos az eldugott helyek megtalálásához.",
+          "Vigyázz a kecskékre az úton, különösen a vidéki területeken."
+        ],
+        "ro": [
+          "Închiriați o mașină mică, deoarece străzile din oraș și din sate pot fi înguste.",
+          "Parcarea este o provocare în centru. Folosiți parcările desemnate.",
+          "Drumurile de munte pot fi șerpuite. Conduceți cu prudență.",
+          "Un GPS este foarte util pentru a găsi locuri izolate.",
+          "Fiți atenți la caprele de pe drum, în special în zonele rurale."
+        ],
+        "en": [
+          "Rent a small car, as streets in the town and villages can be narrow.",
+          "Parking is a challenge in the center. Use designated parking areas.",
+          "Mountain roads can be winding. Drive carefully.",
+          "A GPS is very helpful for finding remote spots.",
+          "Watch out for goats on the road, especially in rural areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszpályaudvar",
+            "ro": "Autogara Centrală",
+            "en": "Central Bus Station"
+          },
+          "coords": [
+            25.71,
+            35.188
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie hier, um sich mit dem lokalen Bussystem vertraut zu machen.",
+            "hu": "Kezdje itt, hogy megismerkedjen a helyi buszrendszerrel.",
+            "ro": "Începeți de aici pentru a vă familiariza cu sistemul local de autobuze.",
+            "en": "Start here to get familiar with the local bus system."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            25.712,
+            35.1899
+          ],
+          "category": "museums",
+          "arrive_at": "09:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof, um in die Geschichte einzutauchen.",
+            "hu": "Egy rövid séta a buszpályaudvartól, hogy elmerülj a történelemben.",
+            "ro": "O scurtă plimbare de la autogară pentru a vă cufunda în istorie.",
+            "en": "A short walk from the bus station to immerse yourself in history."
+          }
+        },
+        {
+          "name": {
+            "de": "Voulismeni-See",
+            "hu": "Voulismeni-tó",
+            "ro": "Lacul Voulismeni",
+            "en": "Lake Voulismeni"
+          },
+          "coords": [
+            25.7155,
+            35.191
+          ],
+          "category": "natural features",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie zum See und nehmen Sie sich Zeit für ein Mittagessen.",
+            "hu": "Sétáljon le a tóhoz, és szánjon időt egy ebédre.",
+            "ro": "Plimbați-vă până la lac și luați-vă timp pentru prânz.",
+            "en": "Stroll down to the lake and take your time for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Ammos Strand",
+            "hu": "Ammos strand",
+            "ro": "Plaja Ammos",
+            "en": "Ammos Beach"
+          },
+          "coords": [
+            25.725,
+            35.198
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:08",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zu diesem beliebten Strand für den Nachmittag.",
+            "hu": "Menjen helyi busszal erre a népszerű strandra délután.",
+            "ro": "Luați un autobuz local spre această plajă populară pentru după-amiază.",
+            "en": "Take a local bus to this popular beach for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Agios Nikolaos",
+            "hu": "Ágiosz Nikólaosz kikötője",
+            "ro": "Portul din Agios Nikolaos",
+            "en": "Port of Agios Nikolaos"
+          },
+          "coords": [
+            25.7175,
+            35.1925
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ins Zentrum und erkunden Sie den Hafenbereich.",
+            "hu": "Buszozzon vissza a központba, és fedezze fel a kikötő környékét.",
+            "ro": "Luați autobuzul înapoi în centru și explorați zona portuară.",
+            "en": "Take the bus back to the center and explore the port area."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Stadt",
+            "hu": "Vacsora a városban",
+            "ro": "Cină în oraș",
+            "en": "Dinner in town"
+          },
+          "coords": [
+            25.719,
+            35.191
+          ],
+          "category": "gastro",
+          "arrive_at": "16:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem Abendessen in einer der vielen Gassen der Altstadt.",
+            "hu": "Fejezze be a napot egy vacsorával az óváros egyik sikátorában.",
+            "ro": "Încheiați ziua cu o cină pe una dintre numeroasele alei din orașul vechi.",
+            "en": "End your day with dinner in one of the old town's many alleyways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am zentralen Busbahnhof, dem Knotenpunkt für Ihre Erkundungen. Von hier aus ist es nur ein kurzer Spaziergang zum Archäologischen Museum. Tauchen Sie in die minoische Welt ein, bevor der Tag richtig beginnt. Dies ist der erste, kulturelle Cluster Ihres Tages.\nNach dem Museum schlendern Sie zum Voulismeni-See. Dies ist das Herz der Stadt und der perfekte Ort für ein gemütliches Mittagessen. Genießen Sie die Aussicht und die Atmosphäre, bevor Sie mit dem Bus Ihr nächstes Abenteuer beginnen.\nAm Nachmittag nehmen Sie den Bus zum Ammos-Strand. Hier können Sie sich entspannen, schwimmen und die kretische Sonne genießen. Der Bus bringt Sie bequem zu diesem beliebten Ort und wieder zurück ins Zentrum, was Ihnen einen entspannten Strandaufenthalt ermöglicht.\nZurück im Stadtzentrum erkunden Sie den Hafenbereich zu Fuß. Die maritime Atmosphäre ist besonders am späten Nachmittag reizvoll. Schließen Sie Ihren Tag mit einem Abendessen in einer der charmanten Tavernen ab, die in den Gassen versteckt sind, und lassen Sie die Eindrücke des Tages auf sich wirken.",
+        "hu": "A nap a központi buszpályaudvaron kezdődik, a felfedezőút csomópontján. Innen csak egy rövid séta a Régészeti Múzeum. Merüljön el a minószi világban, mielőtt a nap igazán elkezdődik. Ez a nap első, kulturális klasztere.\nA múzeum után sétáljon el a Voulismeni-tóhoz. Ez a város szíve és tökéletes hely egy kellemes ebédhez. Élvezze a kilátást és a hangulatot, mielőtt busszal elkezdi a következő kalandot.\nDélután busszal menjen az Ammos strandra. Itt pihenhet, úszhat és élvezheti a krétai napot. A busz kényelmesen elviszi Önt erre a népszerű helyre, és vissza a központba, lehetővé téve a pihentető strandolást.\nVisszatérve a városközpontba, fedezze fel gyalog a kikötő környékét. A tengeri hangulat különösen késő délután vonzó. Zárja a napot egy vacsorával az egyik bájos, sikátorokban megbúvó tavernában, és hagyja, hogy a nap benyomásai hassanak Önre.",
+        "ro": "Ziua începe la autogara centrală, nodul principal pentru explorările dumneavoastră. De aici, este doar o scurtă plimbare până la Muzeul de Arheologie. Scufundați-vă în lumea minoică înainte ca ziua să înceapă cu adevărat. Acesta este primul cluster cultural al zilei.\nDupă muzeu, plimbați-vă până la Lacul Voulismeni. Aceasta este inima orașului și locul perfect pentru un prânz liniștit. Bucurați-vă de priveliște și atmosferă înainte de a începe următoarea aventură cu autobuzul.\nDupă-amiaza, luați autobuzul spre plaja Ammos. Aici vă puteți relaxa, înota și vă puteți bucura de soarele cretan. Autobuzul vă duce confortabil la acest loc popular și înapoi în centru, permițându-vă o ședere relaxantă la plajă.\nÎnapoi în centrul orașului, explorați zona portuară pe jos. Atmosfera maritimă este deosebit de fermecătoare la sfârșitul după-amiezii. Încheiați ziua cu o cină la una dintre tavernele fermecătoare ascunse pe alei și lăsați impresiile zilei să se așeze.",
+        "en": "Your day starts at the central bus station, the hub for your explorations. From here, it's just a short walk to the Archaeological Museum. Immerse yourself in the Minoan world before the day truly begins. This is the first cultural cluster of your day.\nAfter the museum, stroll to Lake Voulismeni. This is the heart of the city and the perfect place for a leisurely lunch. Enjoy the view and the atmosphere before starting your next adventure by bus.\nIn the afternoon, take the bus to Ammos Beach. Here you can relax, swim, and enjoy the Cretan sun. The bus conveniently takes you to this popular spot and back to the center, allowing for a relaxing beach stay.\nBack in the city center, explore the port area on foot. The maritime atmosphere is particularly charming in the late afternoon. End your day with dinner at one of the charming tavernas hidden in the alleys and let the day's impressions sink in."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souvlaki/Gyros",
+            "tip": "Ein schneller, leckerer und günstiger Happen, ideal für unterwegs."
+          },
+          {
+            "name": "Mezedes",
+            "tip": "Bestellen Sie eine Auswahl kleiner Gerichte, um verschiedene Geschmäcker zu probieren."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Der berühmte griechische Eiskaffee für eine Koffeinpause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvlaki/Gyros",
+            "tip": "Gyors, finom és olcsó falat, ideális útközben."
+          },
+          {
+            "name": "Mezedes",
+            "tip": "Rendeljen egy válogatást kis ételekből, hogy különböző ízeket kóstolhasson."
+          },
+          {
+            "name": "Frappé",
+            "tip": "A híres görög jegeskávé egy koffeinszünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvlaki/Gyros",
+            "tip": "O gustare rapidă, delicioasă și ieftină, ideală pentru drum."
+          },
+          {
+            "name": "Mezedes",
+            "tip": "Comandați o selecție de preparate mici pentru a încerca diferite arome."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Faimoasa cafea cu gheață grecească pentru o pauză de cofeină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvlaki/Gyros",
+            "tip": "A quick, delicious, and cheap bite, ideal for on the go."
+          },
+          {
+            "name": "Mezedes",
+            "tip": "Order a selection of small dishes to try different flavors."
+          },
+          {
+            "name": "Frappé",
+            "tip": "The famous Greek iced coffee for a caffeine break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park oberhalb des Sees",
+            "tip": "Ein kleiner Park mit Bänken und einer tollen Aussicht auf den See und die Stadt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Havania Strand",
+            "tip": "Nehmen Sie den Bus etwas weiter nördlich zu diesem ruhigeren Strand.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lesen in einem Kafenion",
+            "tip": "Suchen Sie sich ein traditionelles Café in einer Seitengasse für eine ruhige Pause.",
+            "emoji": "☕"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park a tó felett",
+            "tip": "Egy kis park padokkal és remek kilátással a tóra és a városra.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Havania strand",
+            "tip": "Menjen busszal egy kicsit északabbra ehhez a csendesebb strandhoz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olvasás egy Kafenionban",
+            "tip": "Keressen egy hagyományos kávézót egy mellékutcában egy csendes pihenőre.",
+            "emoji": "☕"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de deasupra lacului",
+            "tip": "Un mic parc cu bănci și o priveliște minunată asupra lacului și a orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Plaja Havania",
+            "tip": "Luați autobuzul puțin mai la nord spre această plajă mai liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Citit într-un Kafenion",
+            "tip": "Găsiți o cafenea tradițională pe o alee laterală pentru o pauză liniștită.",
+            "emoji": "☕"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park above the lake",
+            "tip": "A small park with benches and a great view of the lake and the city.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Havania Beach",
+            "tip": "Take the bus a bit further north to this quieter beach.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Reading in a Kafenion",
+            "tip": "Find a traditional coffee shop in a side alley for a quiet break.",
+            "emoji": "☕"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Die Busfahrpläne können variieren, informieren Sie sich am besten am Bahnhof.",
+          "In den Bussen kann es voll werden, besonders im Sommer.",
+          "Halten Sie Kleingeld für die Tickets bereit.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind vom Busbahnhof aus leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "A buszmenetrend változhat, a legjobb, ha a pályaudvaron tájékozódik.",
+          "A buszok zsúfoltak lehetnek, különösen nyáron.",
+          "Készítsen elő aprópénzt a jegyekhez.",
+          "A központ legtöbb látnivalója könnyen megközelíthető gyalog a buszpályaudvarról."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă planificați mai multe călătorii.",
+          "Orarele autobuzelor pot varia, cel mai bine este să vă informați la gară.",
+          "Autobuzele pot fi aglomerate, mai ales vara.",
+          "Aveți la îndemână mărunțiș pentru bilete.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos de la autogară."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan multiple trips.",
+          "Bus schedules can vary, it's best to check at the station.",
+          "Buses can get crowded, especially in the summer.",
+          "Have small change ready for tickets.",
+          "Most central attractions are easily walkable from the bus station."
+        ]
+      }
+    }
+  }
+}

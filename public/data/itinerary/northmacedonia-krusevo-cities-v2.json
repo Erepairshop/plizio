@@ -1,0 +1,1508 @@
+{
+  "city_id": "northmacedonia-krusevo-cities-v2",
+  "anchor": {
+    "name": "Kruschewo",
+    "coords": [
+      41.3686,
+      21.2461
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nikola-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            21.2488,
+            41.3701
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Ikonostase, ein Meisterwerk der Holzschnitzerei.",
+            "hu": "Csodálja meg a lenyűgöző ikonosztázt, a fafaragás mesterművét.",
+            "ro": "Admirați iconostasul impresionant, o capodoperă a sculpturii în lemn.",
+            "en": "Admire the impressive iconostasis, a masterpiece of woodcarving."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikola-Martinoski-Galerie",
+            "hu": "Nikola Martinoski Galéria",
+            "ro": "Galeria Nikola Martinoski",
+            "en": "Nikola Martinoski Gallery"
+          },
+          "coords": [
+            21.2495,
+            41.3705
+          ],
+          "category": "museums",
+          "arrive_at": "09:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie das Werk eines der Väter der modernen mazedonischen Malerei.",
+            "hu": "Ismerje meg a modern macedón festészet egyik atyjának munkásságát.",
+            "ro": "Descoperiți opera unuia dintre părinții picturii macedonene moderne.",
+            "en": "Discover the work of one of the fathers of modern Macedonian painting."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Kruševo",
+            "hu": "Kruševói óratorony",
+            "ro": "Turnul cu ceas din Crușova",
+            "en": "Kruševo Clock Tower"
+          },
+          "coords": [
+            21.2481,
+            41.3712
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:04",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp für ein Foto dieses historischen Wahrzeichens im Herzen der Stadt.",
+            "hu": "Egy gyors fotómegálló a város szívében álló történelmi nevezetességnél.",
+            "ro": "O scurtă oprire pentru o fotografie cu acest punct de reper istoric din inima orașului.",
+            "en": "A quick stop for a photo of this historic landmark in the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Ilinden-Aufstands",
+            "hu": "Ilindeni felkelés múzeuma",
+            "ro": "Muzeul Revoltei de Ilinden",
+            "en": "Museum of the Ilinden Uprising"
+          },
+          "coords": [
+            21.2415,
+            41.3742
+          ],
+          "category": "museums",
+          "arrive_at": "11:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss, um die Geschichte der kurzlebigen Republik Kruševo zu verstehen.",
+            "hu": "Kötelező látnivaló a rövid életű Kruševói Köztársaság történetének megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege istoria efemerei Republici Crușova.",
+            "en": "A must-visit to understand the history of the short-lived Kruševo Republic."
+          }
+        },
+        {
+          "name": {
+            "de": "Makedonium (Ilinden-Denkmal)",
+            "hu": "Makedonium (Ilinden-emlékmű)",
+            "ro": "Makedonium (Monumentul Ilinden)",
+            "en": "Makedonium (Ilinden Monument)"
+          },
+          "coords": [
+            21.2401,
+            41.3755
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:12",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das futuristische Innere und genießen Sie die Panoramaaussicht.",
+            "hu": "Fedezze fel a futurisztikus belső teret és élvezze a panorámás kilátást.",
+            "ro": "Explorați interiorul futurist și bucurați-vă de vederea panoramică.",
+            "en": "Explore the futuristic interior and enjoy the panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Toše-Proeski-Gedenkhaus",
+            "hu": "Toše Proeski Emlékház",
+            "ro": "Casa Memorială Toše Proeski",
+            "en": "Toše Proeski Memorial House"
+          },
+          "coords": [
+            21.2388,
+            41.3768
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:07",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine emotionale Hommage an den beliebtesten Popstar des Balkans.",
+            "hu": "Érzelmes tiszteletadás a Balkán legkedveltebb popsztárja előtt.",
+            "ro": "Un omagiu emoționant adus celui mai iubit star pop din Balcani.",
+            "en": "An emotional tribute to the Balkans' most beloved pop star."
+          }
+        },
+        {
+          "name": {
+            "de": "Mečkin Kamen",
+            "hu": "Mečkin Kamen",
+            "ro": "Mečkin Kamen",
+            "en": "Mečkin Kamen"
+          },
+          "coords": [
+            21.2251,
+            41.3621
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:47",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Denken Sie am Ort der letzten Schlacht des Aufstands über Mut und Opfer nach.",
+            "hu": "Gondolkodjon el a bátorságról és áldozatról a felkelés utolsó csatájának helyszínén.",
+            "ro": "Reflectați la curaj și sacrificiu la locul ultimei bătălii a revoltei.",
+            "en": "Reflect on bravery and sacrifice at the site of the uprising's final battle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Herzen von Kruševo und führt Sie durch die kopfsteingepflasterten Gassen zu den wichtigsten Kirchen und Museen. Am Vormittag tauchen Sie in die reiche Kultur und die traditionelle Architektur der höchstgelegenen Stadt Mazedoniens ein. Der Spaziergang ist eine Reise in die Vergangenheit. Nach einem traditionellen Mittagessen steigen Sie am Nachmittag zu den monumentalen Hügeln auf. Sie besuchen das futuristische Makedonium-Denkmal und das nahegelegene Toše-Proeski-Gedenkhaus und erfahren mehr über die revolutionäre und moderne Seele der Stadt. Zum Abschluss des Tages wandern Sie zum Mečkin Kamen. Der Abend dämmert und bietet einen Moment der stillen Einkehr mit Blick auf die umliegenden Berge, bevor Sie für ein herzhaftes Abendessen in die Stadt zurückkehren.",
+        "hu": "A nap Kruševo történelmi szívében kezdődik, a macskaköves utcákon át a legfontosabb templomokhoz és múzeumokhoz vezet. A délelőtt folyamán elmerülhet Macedónia legmagasabban fekvő városának gazdag kultúrájában és hagyományos építészetében. A séta egy utazás a múltba. Egy hagyományos ebéd után délután felkapaszkodik a monumentális dombokra. Meglátogatja a futurisztikus Makedonium emlékművet és a közeli Toše Proeski Emlékházat, megismerve a város forradalmi és modern lelkét. A napot a Mečkin Kamenhez tett sétával zárja. Az este csendes elmélkedésre ad lehetőséget a környező hegyekre nyíló kilátással, mielőtt visszatérne a városba egy kiadós vacsorára.",
+        "ro": "Ziua dvs. începe în inima istorică a orașului Crușova, plimbându-vă pe aleile pietruite către bisericile și muzeele cheie. Dimineața vă scufundă în cultura bogată și arhitectura tradițională a celui mai înalt oraș din Macedonia. Plimbarea este o călătorie înapoi în timp. După un prânz tradițional, după-amiaza urcă spre dealurile monumentale. Veți vizita monumentul futurist Makedonium și Casa Memorială Toše Proeski din apropiere, învățând despre sufletul revoluționar și modern al orașului. Încheiați ziua cu o plimbare la Mečkin Kamen. Seara se lasă, oferind un moment de reflecție liniștită cu vedere la munții din jur, înainte de a vă întoarce în oraș pentru o cină copioasă.",
+        "en": "Your day begins in the historic heart of Kruševo, winding through its cobblestone alleys to key churches and museums. The morning immerses you in the rich culture and traditional architecture of Macedonia's highest town. The walk is a journey back in time. After a traditional lunch, the afternoon ascends to the monumental hills. You'll visit the futuristic Makedonium monument and the nearby Toše Proeski Memorial House, learning about the town's revolutionary and modern soul. Conclude the day with a hike to Mečkin Kamen. The evening descends, offering a moment of quiet reflection overlooking the surrounding mountains before you return to town for a hearty dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kruševo-Wurst",
+            "tip": "Eine würzige, lokale Spezialität, oft gegrillt serviert."
+          },
+          {
+            "name": "Tavče Gravče",
+            "tip": "Der klassische mazedonische gebackene Bohneneintopf."
+          },
+          {
+            "name": "Lokaler Käse und Joghurt",
+            "tip": "Probieren Sie die frischen Milchprodukte aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kruševói kolbász",
+            "tip": "Fűszeres, helyi specialitás, gyakran grillezve tálalják."
+          },
+          {
+            "name": "Tavče Gravče",
+            "tip": "A klasszikus macedón sült babragu."
+          },
+          {
+            "name": "Helyi sajt és joghurt",
+            "tip": "Kóstolja meg a régió friss tejtermékeit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnați de Crușova",
+            "tip": "O specialitate locală picantă, adesea servită la grătar."
+          },
+          {
+            "name": "Tavče Gravče",
+            "tip": "Mâncarea clasică macedoneană de fasole la cuptor."
+          },
+          {
+            "name": "Brânză și iaurt local",
+            "tip": "Gustați produsele lactate proaspete din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kruševo Sausage",
+            "tip": "A spicy, local specialty, often served grilled."
+          },
+          {
+            "name": "Tavče Gravče",
+            "tip": "The classic Macedonian baked beans stew."
+          },
+          {
+            "name": "Local Cheese and Yogurt",
+            "tip": "Try the fresh dairy products from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Makedonium",
+            "tip": "Genießen Sie die Ruhe und den weiten Blick über die Landschaft.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang um den Kruševo-See",
+            "tip": "Ein friedlicher Ort außerhalb der Stadt, ideal für eine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke bei der Heilig-Geist-Kirche",
+            "tip": "Ein ruhiger Ort, um die Atmosphäre der Stadt aufzusaugen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Makedoniumtól",
+            "tip": "Élvezze a csendet és a tájra nyíló széles kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Kruševói-tó körül",
+            "tip": "Békés hely a városon kívül, ideális egy kis szünetre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Szentlélek-templomnál",
+            "tip": "Csendes hely, ahol magába szívhatja a város hangulatát.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Makedonium",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică asupra peisajului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare în jurul lacului Crușova",
+            "tip": "Un loc pașnic în afara orașului, perfect pentru o pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci lângă Biserica Sfântul Duh",
+            "tip": "Un loc liniștit pentru a absorbi atmosfera orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Makedonium",
+            "tip": "Enjoy the silence and the sweeping view over the landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk around Kruševo Lake",
+            "tip": "A peaceful spot outside the town, perfect for a break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches near the Holy Spirit Church",
+            "tip": "A quiet spot to soak in the town's atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie nach handgewebten Textilien und Holzschnitzereien in den kleinen Läden."
+          },
+          {
+            "name": "Ilinden-Souvenirs",
+            "tip": "Gegenstände, die an den historischen Aufstand erinnern, sind beliebte Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel szőtt textileket és fafaragásokat a kis boltokban."
+          },
+          {
+            "name": "Ilindeni szuvenírek",
+            "tip": "A történelmi felkelésre emlékeztető tárgyak népszerű emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați textile țesute manual și sculpturi în lemn în micile magazine."
+          },
+          {
+            "name": "Suveniruri Ilinden",
+            "tip": "Articolele care comemorează revolta istorică sunt suveniruri populare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for hand-woven textiles and woodcarvings in the small shops."
+          },
+          {
+            "name": "Ilinden Souvenirs",
+            "tip": "Items commemorating the historic uprising are popular keepsakes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen steil und oft gepflastert sind.",
+          "Planen Sie zusätzliche Zeit für die Museen ein, um die reiche Geschichte vollständig zu erfassen.",
+          "Nehmen Sie Wasser mit, besonders für den Aufstieg zu den Denkmälern.",
+          "Die Einheimischen sind freundlich; zögern Sie nicht, nach dem Weg zu fragen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az utcák meredekek és gyakran macskakövesek.",
+          "Szánjon több időt a múzeumokra, hogy teljes mértékben megismerje a gazdag történelmet.",
+          "Vigyen magával vizet, különösen az emlékművekhez való feljutáshoz.",
+          "A helyiek barátságosak; ne habozzon útbaigazítást kérni."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile sunt abrupte și adesea pietruite.",
+          "Alocați timp suplimentar pentru muzee pentru a absorbi pe deplin istoria bogată.",
+          "Luați apă cu dvs., mai ales pentru urcarea la monumente.",
+          "Localnicii sunt prietenoși; nu ezitați să cereți indicații."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets are steep and often cobblestoned.",
+          "Allow extra time for the museums to fully absorb the rich history.",
+          "Bring water, especially for the climb up to the monuments.",
+          "The locals are friendly; don't hesitate to ask for directions."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtzentrum & Uhrturm",
+            "hu": "Városközpont és Óratorony",
+            "ro": "Centrul orașului și Turnul cu Ceas",
+            "en": "Town Center & Clock Tower"
+          },
+          "coords": [
+            21.2481,
+            41.3712
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour im Herzen der Stadt, um ein Gefühl für die Atmosphäre zu bekommen.",
+            "hu": "Kezdje a túrát a város szívében, hogy ráhangolódjon a hangulatra.",
+            "ro": "Începeți turul în inima orașului pentru a simți atmosfera.",
+            "en": "Start your tour in the heart of the town to get a feel for the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikola-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            21.2488,
+            41.3701
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und nehmen Sie sich Zeit, die berühmte Ikonostase zu besichtigen.",
+            "hu": "Zárja le a biciklit, és szánjon időt a híres ikonosztáz megtekintésére.",
+            "ro": "Încuietoarea bicicletei și luați-vă timp pentru a vedea faimosul iconostas.",
+            "en": "Lock up your bike and take time to see the famed iconostasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Makedonium (Ilinden-Denkmal)",
+            "hu": "Makedonium (Ilinden-emlékmű)",
+            "ro": "Makedonium (Monumentul Ilinden)",
+            "en": "Makedonium (Ilinden Monument)"
+          },
+          "coords": [
+            21.2401,
+            41.3755
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:29",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour den Hügel hinauf ist eine Herausforderung, aber die Aussicht ist es wert.",
+            "hu": "A hegyre feltekerni kihívás, de a kilátás megéri.",
+            "ro": "Urcarea cu bicicleta pe deal este o provocare, dar priveliștea merită.",
+            "en": "The bike ride up the hill is challenging, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Toše-Proeski-Gedenkhaus",
+            "hu": "Toše Proeski Emlékház",
+            "ro": "Casa Memorială Toše Proeski",
+            "en": "Toše Proeski Memorial House"
+          },
+          "coords": [
+            21.2388,
+            41.3768
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:17",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein moderner Komplex, der einen starken Kontrast zur Altstadt bildet.",
+            "hu": "Modern komplexum, amely éles kontrasztban áll az óvárossal.",
+            "ro": "Un complex modern care contrastează puternic cu orașul vechi.",
+            "en": "A modern complex that offers a strong contrast to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Mečkin Kamen",
+            "hu": "Mečkin Kamen",
+            "ro": "Mečkin Kamen",
+            "en": "Mečkin Kamen"
+          },
+          "coords": [
+            21.2251,
+            41.3621
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kraftvoller Ort, der mit dem Fahrrad durch eine malerische Landschaft erreichbar ist.",
+            "hu": "Erőteljes hely, amely kerékpárral, festői tájon keresztül érhető el.",
+            "ro": "Un loc puternic, accesibil cu bicicleta printr-un peisaj pitoresc.",
+            "en": "A powerful site reachable by bike through a scenic landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Kruševo-See",
+            "hu": "Kruševói-tó",
+            "ro": "Lacul Crușova",
+            "en": "Kruševo Lake"
+          },
+          "coords": [
+            21.2655,
+            41.3595
+          ],
+          "category": "natural features",
+          "arrive_at": "13:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause und eine erfrischende Pause vom Radfahren.",
+            "hu": "Tökéletes egy ebédszünetre és egy frissítő pihenőre a biciklizés után.",
+            "ro": "Perfect pentru o pauză de prânz și o pauză răcoritoare de la ciclism.",
+            "en": "Perfect for a lunch break and a refreshing pause from cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Wlachische Kirche (St. Johannes)",
+            "hu": "Vlach templom (Szent János)",
+            "ro": "Biserica Vlahă (Sfântul Ioan)",
+            "en": "Vlach Church (St. John)"
+          },
+          "coords": [
+            21.2522,
+            41.3665
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entdecken Sie diese weniger besuchte Kirche mit ihrer einzigartigen Geschichte.",
+            "hu": "Fedezze fel ezt a kevésbé látogatott, egyedi történetű templomot.",
+            "ro": "Descoperiți această biserică mai puțin vizitată, cu istoria sa unică.",
+            "en": "Discover this less-visited church with its unique history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt im belebten Zentrum von Kruševo, von wo aus Sie schnell zu den historischen Kirchen gelangen. Am Vormittag erklimmen Sie den Hügel zum Makedonium, eine anspruchsvolle, aber lohnende Fahrt, die mit einem Panoramablick belohnt wird. Sie besuchen auch das Toše-Proeski-Gedenkhaus, bevor Sie eine lange Mittagspause einlegen. Am Nachmittag radeln Sie durch die Landschaft zum heldenhaften Denkmal von Mečkin Kamen. Die Route führt Sie dann zum ruhigen Kruševo-See, ein idealer Ort für eine entspannte Pause inmitten der Natur. Zum Abschluss des Tages kehren Sie in die Stadt zurück. Sie erkunden die einzigartige wlachische Kirche, bevor Sie den Abend bei einem wohlverdienten Abendessen ausklingen lassen.",
+        "hu": "Kerékpáros kalandja Kruševo nyüzsgő központjában kezdődik, ahonnan gyorsan eljuthat a történelmi templomokhoz. A délelőtt folyamán felteker a Makedoniumhoz vezető dombra, ami egy kihívást jelentő, de hálás út, panorámás kilátással jutalmazva. Meglátogatja a Toše Proeski Emlékházat is, mielőtt hosszabb ebédszünetet tartana. Délután a tájon át kerékpározik a hősies Mečkin Kamen emlékműhöz. Az útvonal ezután a csendes Kruševói-tóhoz vezet, amely ideális hely egy pihentető szünetre a természet lágy ölén. A nap végén visszatér a városba. Felfedezi az egyedülálló vlach templomot, mielőtt egy jól megérdemelt vacsorával zárja az estét.",
+        "ro": "Aventura dvs. pe bicicletă începe în centrul plin de viață al orașului Crușova, de unde ajungeți rapid la bisericile istorice. Dimineața, urcați dealul spre Makedonium, o plimbare provocatoare, dar plină de satisfacții, recompensată cu vederi panoramice. Vizitați și Casa Memorială Toše Proeski înainte de a lua o pauză lungă de prânz. După-amiaza, pedalați prin peisajul rural până la monumentul eroic Mečkin Kamen. Traseul vă duce apoi la liniștitul lac Crușova, un loc ideal pentru o pauză relaxantă în mijlocul naturii. La sfârșitul zilei, vă întoarceți în oraș. Explorați biserica vlahă unică înainte de a încheia seara cu o cină binemeritată.",
+        "en": "Your cycling adventure starts in the bustling center of Kruševo, quickly getting you to the historic churches. The morning involves a climb up the hill to the Makedonium, a challenging but rewarding ride rewarded with panoramic views. You'll also visit the Toše Proeski Memorial House before taking a long lunch break. In the afternoon, you'll pedal through the countryside to the heroic monument of Mečkin Kamen. The route then takes you to the tranquil Kruševo Lake, an ideal spot for a relaxing break surrounded by nature. Finishing the day, you'll return to the town. You'll explore the unique Vlach Church before ending the evening with a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillte Forelle",
+            "tip": "Frisch aus den umliegenden Gewässern, oft in Restaurants am See serviert."
+          },
+          {
+            "name": "Pita (Burek)",
+            "tip": "Ein schneller und sättigender Snack, perfekt für eine Radtour-Pause."
+          },
+          {
+            "name": "Hausgemachter Wein",
+            "tip": "Viele lokale Familien stellen ihren eigenen Wein her; fragen Sie in den Restaurants danach."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett pisztráng",
+            "tip": "Frissen a környező vizekből, gyakran a tóparti éttermekben szolgálják fel."
+          },
+          {
+            "name": "Pita (Burek)",
+            "tip": "Gyors és laktató harapnivaló, tökéletes egy biciklis pihenőhöz."
+          },
+          {
+            "name": "Házi bor",
+            "tip": "Sok helyi család készít saját bort; kérdezzen rá az éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Păstrăv la grătar",
+            "tip": "Proaspăt din apele din jur, adesea servit la restaurantele de pe malul lacului."
+          },
+          {
+            "name": "Pita (Burek)",
+            "tip": "O gustare rapidă și sățioasă, perfectă pentru o pauză de ciclism."
+          },
+          {
+            "name": "Vin de casă",
+            "tip": "Multe familii locale își fac propriul vin; întrebați la restaurante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Trout",
+            "tip": "Fresh from the surrounding waters, often served at lakeside restaurants."
+          },
+          {
+            "name": "Pita (Burek)",
+            "tip": "A quick and filling snack, perfect for a cycling break."
+          },
+          {
+            "name": "Homemade Wine",
+            "tip": "Many local families make their own wine; ask for it at restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Kruševo-Sees",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser, um sich zu entspannen und die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mečkin Kamen bei Sonnenuntergang",
+            "tip": "Die Abendsonne wirft ein dramatisches Licht auf das Denkmal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Waldwege rund um Kruševo",
+            "tip": "Erkunden Sie die markierten Wege für eine ruhige Fahrt abseits der Hauptstraßen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Kruševói-tó partja",
+            "tip": "Keressen egy csendes helyet a vízparton, hogy pihenjen és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mečkin Kamen naplementekor",
+            "tip": "Az esti nap drámai fénybe vonja az emlékművet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Erdei utak Kruševo körül",
+            "tip": "Fedezze fel a jelzett utakat egy csendes tekeréshez a főutaktól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Crușova",
+            "tip": "Găsiți un loc liniștit lângă apă pentru a vă relaxa și a vă bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mečkin Kamen la apus",
+            "tip": "Soarele de seară aruncă o lumină dramatică asupra monumentului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Poteci forestiere în jurul Crușovei",
+            "tip": "Explorați traseele marcate pentru o plimbare liniștită departe de drumurile principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Kruševo Lake",
+            "tip": "Find a quiet spot by the water to relax and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mečkin Kamen at sunset",
+            "tip": "The evening sun casts a dramatic light on the monument.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Forest trails around Kruševo",
+            "tip": "Explore the marked trails for a quiet ride away from the main roads.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Die Bergwiesen ergeben einen köstlichen und aromatischen Honig."
+          },
+          {
+            "name": "Flasche Rakija",
+            "tip": "Ein starker Obstbrand, das Nationalgetränk Mazedoniens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A hegyi rétek ízletes és aromás mézet adnak."
+          },
+          {
+            "name": "Egy üveg Rakija",
+            "tip": "Erős gyümölcspárlat, Macedónia nemzeti itala."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Pajiștile montane produc o miere delicioasă și aromatică."
+          },
+          {
+            "name": "O sticlă de Rakija",
+            "tip": "O băutură spirtoasă puternică din fructe, băutura națională a Macedoniei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "The mountain meadows produce a delicious and aromatic honey."
+          },
+          {
+            "name": "Bottle of Rakija",
+            "tip": "A strong fruit brandy, Macedonia's national drink."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Mountainbike ist aufgrund der steilen Hügel und gemischten Wege empfehlenswert.",
+          "Überprüfen Sie Ihre Bremsen vor der Abfahrt.",
+          "Nehmen Sie ein Reparaturset und eine Pumpe mit.",
+          "Die Straßen können eng sein; achten Sie auf den Verkehr, besonders in der Stadt."
+        ],
+        "hu": [
+          "Hegyikerékpár ajánlott a meredek dombok és vegyes terepviszonyok miatt.",
+          "Indulás előtt ellenőrizze a fékeket.",
+          "Vigyen magával javítókészletet és pumpát.",
+          "Az utak szűkek lehetnek; figyeljen a forgalomra, különösen a városban."
+        ],
+        "ro": [
+          "O bicicletă de munte este recomandată din cauza dealurilor abrupte și a traseelor mixte.",
+          "Verificați-vă frânele înainte de a coborî.",
+          "Luați un kit de reparații și o pompă.",
+          "Drumurile pot fi înguste; fiți atenți la trafic, mai ales în oraș."
+        ],
+        "en": [
+          "A mountain bike is recommended due to the steep hills and mixed terrain.",
+          "Check your brakes before any descent.",
+          "Carry a repair kit and a pump.",
+          "Roads can be narrow; be aware of traffic, especially in the town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 11.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster: Mečkin Kamen & Kruševo-See",
+            "hu": "Klaszter: Mečkin Kamen és Kruševói-tó",
+            "ro": "Cluster: Mečkin Kamen și Lacul Crușova",
+            "en": "Cluster: Mečkin Kamen & Kruševo Lake"
+          },
+          "coords": [
+            21.2251,
+            41.3621
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Rande der Stadt für einen dramatischen Einstieg in die Geschichte.",
+            "hu": "Kezdje a város szélén, hogy drámai bevezetést kapjon a történelembe.",
+            "ro": "Începeți la marginea orașului pentru o intrare dramatică în istorie.",
+            "en": "Start at the town's edge for a dramatic entry into its history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kruševo-See",
+            "hu": "Kruševói-tó",
+            "ro": "Lacul Crușova",
+            "en": "Kruševo Lake"
+          },
+          "coords": [
+            21.2655,
+            41.3595
+          ],
+          "category": "natural features",
+          "arrive_at": "10:14",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher für eine ruhige Morgenansicht, bevor Sie ins Zentrum fahren.",
+            "hu": "Egy gyors kitérő egy csendes reggeli látképért, mielőtt a központba menne.",
+            "ro": "Un scurt ocol pentru o priveliște liniștită de dimineață înainte de a vă îndrepta spre centru.",
+            "en": "A quick detour for a peaceful morning view before heading to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Gumenje-Hügel (Parken)",
+            "hu": "Klaszter: Gumenje-hegy (parkolás)",
+            "ro": "Cluster: Dealul Gumenje (Parcare)",
+            "en": "Cluster: Gumenje Hill (Parking)"
+          },
+          "coords": [
+            21.241,
+            41.375
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:06",
+          "stay_min": 0,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die Denkmäler zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel gyalog az emlékműveket.",
+            "ro": "Parcați aici și explorați monumentele pe jos.",
+            "en": "Park here and explore the monuments on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Makedonium (Ilinden-Denkmal)",
+            "hu": "Makedonium (Ilinden-emlékmű)",
+            "ro": "Makedonium (Monumentul Ilinden)",
+            "en": "Makedonium (Ilinden Monument)"
+          },
+          "coords": [
+            21.2401,
+            41.3755
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das zentrale Denkmal des Komplexes, nur einen kurzen Spaziergang vom Parkplatz entfernt.",
+            "hu": "A komplexum központi emlékműve, rövid sétára a parkolótól.",
+            "ro": "Monumentul central al complexului, la o scurtă plimbare de parcare.",
+            "en": "The central monument of the complex, a short walk from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Toše-Proeski-Gedenkhaus",
+            "hu": "Toše Proeski Emlékház",
+            "ro": "Casa Memorială Toše Proeski",
+            "en": "Toše Proeski Memorial House"
+          },
+          "coords": [
+            21.2388,
+            41.3768
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:01",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie den Hügel hinunter, um diese moderne Hommage zu besuchen.",
+            "hu": "Sétáljon le a dombról, hogy meglátogassa ezt a modern tiszteletadást.",
+            "ro": "Coborâți pe jos dealul pentru a vizita acest omagiu modern.",
+            "en": "Walk down the hill to visit this modern tribute."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Altstadt (Parken)",
+            "hu": "Klaszter: Óváros (parkolás)",
+            "ro": "Cluster: Orașul Vechi (Parcare)",
+            "en": "Cluster: Old Town (Parking)"
+          },
+          "coords": [
+            21.2505,
+            41.3695
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:16",
+          "stay_min": 0,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz und erkunden Sie den Rest der Stadt zu Fuß.",
+            "hu": "Keressen egy parkolóhelyet, és fedezze fel a város többi részét gyalog.",
+            "ro": "Găsiți un loc de parcare și explorați restul orașului pe jos.",
+            "en": "Find a parking spot and explore the rest of the town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikola-Kirche & historisches Zentrum",
+            "hu": "Szent Miklós-templom és történelmi központ",
+            "ro": "Biserica Sf. Nicolae și centrul istoric",
+            "en": "St. Nicholas Church & Historic Center"
+          },
+          "coords": [
+            21.2488,
+            41.3701
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:22",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Kirche, die Museen und ein Mittagessen in diesem Viertel.",
+            "hu": "Szánjon időt a templomra, a múzeumokra és egy ebédre ebben a negyedben.",
+            "ro": "Luați-vă timp pentru biserică, muzee și prânz în acest cartier.",
+            "en": "Take your time for the church, museums, and lunch in this neighborhood."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto beginnt am Stadtrand, wo Sie die abgelegenen, aber bedeutenden Denkmäler von Mečkin Kamen und den ruhigen Kruševo-See besuchen. Dieser morgendliche Ausflug bietet eine Perspektive, bevor Sie in das Herz der Geschichte eintauchen. Am Vormittag fahren Sie zum Gumenje-Hügel. Sie parken Ihr Auto und erkunden zu Fuß den beeindruckenden Komplex des Makedonium und des Toše-Proeski-Gedenkhauses, die die moderne Identität der Stadt symbolisieren. Nach der Rückkehr zum Auto fahren Sie am Nachmittag hinunter in die Altstadt. Sie parken ein letztes Mal und verbringen den Rest des Tages damit, durch die engen Gassen zu schlendern, die Nikola-Kirche zu besuchen und in einem lokalen Restaurant zu Mittag zu essen. Der Abend bricht herein, während Sie die einzigartige Architektur genießen, eine perfekte Mischung aus Bequemlichkeit und Erkundung.",
+        "hu": "Autós napja a város szélén kezdődik, ahol meglátogatja a távoli, de jelentős Mečkin Kamen emlékművet és a csendes Kruševói-tavat. Ez a reggeli kirándulás perspektívát nyújt, mielőtt elmerülne a történelem szívében. Délelőtt a Gumenje-hegyre hajt. Léparkolja autóját, és gyalog fedezi fel a lenyűgöző Makedonium komplexumot és a Toše Proeski Emlékházat, amelyek a város modern identitását jelképezik. Visszatérve az autóhoz, délután leereszkedik az óvárosba. Utoljára leparkol, és a nap hátralévő részét a szűk utcákon sétálva, a Szent Miklós-templomot meglátogatva és egy helyi étteremben ebédelve tölti. Az este leszáll, miközben élvezi az egyedülálló építészetet, a kényelem és a felfedezés tökéletes keverékét.",
+        "ro": "Ziua dvs. cu mașina începe la periferia orașului, vizitând monumentele îndepărtate, dar semnificative, Mečkin Kamen și liniștitul lac Crușova. Această excursie matinală oferă perspectivă înainte de a vă cufunda în inima istoriei. La amiază, conduceți spre Dealul Gumenje. Parcați mașina și explorați pe jos complexul impresionant al Makedonium și Casa Memorială Toše Proeski, simboluri ale identității moderne a orașului. După ce vă întoarceți la mașină, după-amiaza coborâți în orașul vechi. Parcați pentru ultima dată și petreceți restul zilei plimbându-vă pe străzile înguste, vizitând Biserica Sf. Nicolae și luând prânzul la un restaurant local. Seara se lasă în timp ce vă bucurați de arhitectura unică, un amestec perfect de confort și explorare.",
+        "en": "Your day by car begins on the outskirts, visiting the remote yet significant Mečkin Kamen monument and the tranquil Kruševo Lake. This morning excursion provides perspective before you dive into the heart of the history. By mid-morning, you'll drive up to Gumenje Hill. Park your car and explore on foot the impressive complex of the Makedonium and the Toše Proeski Memorial House, symbols of the town's modern identity. After returning to your car, the afternoon sees you descending into the old town. You'll park for the final time and spend the rest of the day wandering the narrow streets, visiting St. Nicholas Church, and enjoying lunch at a local restaurant. Evening falls as you soak in the unique architecture, a perfect blend of convenience and exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gebackenes Lamm",
+            "tip": "Eine Spezialität, die oft für besondere Anlässe zubereitet wird; fragen Sie nach der Verfügbarkeit."
+          },
+          {
+            "name": "Sarma",
+            "tip": "Gefüllte Wein- oder Kohlblätter, ein herzhafter Genuss."
+          },
+          {
+            "name": "Lokaler Rotwein",
+            "tip": "Die Sorte Vranec ist eine ausgezeichnete Wahl zu Fleischgerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült bárány",
+            "tip": "Különleges alkalmakra készített specialitás; érdeklődjön a rendelkezésre állásról."
+          },
+          {
+            "name": "Sarma",
+            "tip": "Töltött szőlő- vagy káposztalevelek, egy kiadós csemege."
+          },
+          {
+            "name": "Helyi vörösbor",
+            "tip": "A Vranec fajta kiváló választás húsételekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la cuptor",
+            "tip": "O specialitate adesea pregătită pentru ocazii speciale; întrebați despre disponibilitate."
+          },
+          {
+            "name": "Sarma",
+            "tip": "Frunze de varză sau de viță de vie umplute, o delicatesă consistentă."
+          },
+          {
+            "name": "Vin roșu local",
+            "tip": "Soiul Vranec este o alegere excelentă pentru a acompania preparatele din carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baked Lamb",
+            "tip": "A specialty often prepared for special occasions; ask about availability."
+          },
+          {
+            "name": "Sarma",
+            "tip": "Stuffed grape or cabbage leaves, a hearty delight."
+          },
+          {
+            "name": "Local Red Wine",
+            "tip": "The Vranec grape variety is an excellent choice to pair with meat dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt auf dem Weg nach Mečkin Kamen",
+            "tip": "Halten Sie an einem der vielen Aussichtspunkte an, um die Landschaft zu fotografieren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen am Kruševo-See",
+            "tip": "Die Stille wird nur von den Geräuschen der Natur unterbrochen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die ruhigen Oberstraßen der Altstadt",
+            "tip": "Abseits der Hauptplätze finden Sie friedliche Gassen mit authentischer Architektur.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a Mečkin Kamen felé vezető úton",
+            "tip": "Álljon meg az egyik kilátónál, hogy lefényképezze a tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a Kruševói-tónál",
+            "tip": "A csendet csak a természet hangjai törik meg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az óváros csendes felső utcái",
+            "tip": "A főterektől távol békés sikátorokat talál autentikus építészettel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere pe drumul spre Mečkin Kamen",
+            "tip": "Opriți-vă la unul dintre numeroasele puncte de belvedere pentru a fotografia peisajul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme la Lacul Crușova",
+            "tip": "Liniștea este întreruptă doar de sunetele naturii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străzile superioare liniștite din orașul vechi",
+            "tip": "Departe de piețele principale, veți găsi alei pașnice cu arhitectură autentică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint on the road to Mečkin Kamen",
+            "tip": "Pull over at one of the many viewpoints to photograph the landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning at Kruševo Lake",
+            "tip": "The silence is broken only by the sounds of nature.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The quiet upper streets of the Old Town",
+            "tip": "Away from the main squares, you'll find peaceful alleys with authentic architecture.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Traditionelle Kleidung",
+            "tip": "Einige Geschäfte bieten handgefertigte Westen und andere traditionelle Kleidungsstücke an."
+          },
+          {
+            "name": "Gemälde lokaler Künstler",
+            "tip": "Die Nikola-Martinoski-Galerie könnte Sie dazu inspirieren, ein lokales Kunstwerk zu erwerben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hagyományos ruházat",
+            "tip": "Néhány üzlet kézzel készített mellényeket és más hagyományos ruhadarabokat kínál."
+          },
+          {
+            "name": "Helyi művészek festményei",
+            "tip": "A Nikola Martinoski Galéria inspirálhatja Önt egy helyi műalkotás megvásárlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Îmbrăcăminte tradițională",
+            "tip": "Unele magazine oferă veste lucrate manual și alte articole vestimentare tradiționale."
+          },
+          {
+            "name": "Picturi ale artiștilor locali",
+            "tip": "Galeria Nikola Martinoski vă poate inspira să cumpărați o operă de artă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Traditional clothing",
+            "tip": "Some shops offer handmade vests and other traditional garments."
+          },
+          {
+            "name": "Paintings by local artists",
+            "tip": "The Nikola Martinoski Gallery might inspire you to purchase a piece of local art."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann in der Altstadt eine Herausforderung sein; seien Sie geduldig.",
+          "Die Straßen sind eng und kurvenreich; fahren Sie vorsichtig.",
+          "Tanken Sie, bevor Sie in die Bergregionen fahren.",
+          "Kombinieren Sie Fahren und Gehen, um das Beste aus Ihrem Besuch zu machen."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet az óvárosban; legyen türelmes.",
+          "Az utak szűkek és kanyargósak; vezessen óvatosan.",
+          "Tankoljon, mielőtt a hegyvidéki régiókba indul.",
+          "Kombinálja a vezetést és a gyaloglást, hogy a legtöbbet hozza ki a látogatásból."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în orașul vechi; aveți răbdare.",
+          "Drumurile sunt înguste și sinuoase; conduceți cu prudență.",
+          "Alimentați cu combustibil înainte de a vă îndrepta spre regiunile muntoase.",
+          "Combinați condusul cu mersul pe jos pentru a profita la maximum de vizita dvs."
+        ],
+        "en": [
+          "Parking can be challenging in the old town; be patient.",
+          "The roads are narrow and winding; drive with caution.",
+          "Fill up on gas before heading into the mountainous regions.",
+          "Combine driving and walking to get the most out of your visit."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster: Stadtzentrum (Ankunft)",
+            "hu": "Klaszter: Városközpont (érkezés)",
+            "ro": "Cluster: Centrul orașului (Sosire)",
+            "en": "Cluster: Town Center (Arrival)"
+          },
+          "coords": [
+            21.2481,
+            41.3712
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie im Herzen der Stadt, der mit lokalen Bussen leicht erreichbar ist.",
+            "hu": "Kezdje a város szívében, amely helyi buszokkal könnyen megközelíthető.",
+            "ro": "Începeți în inima orașului, ușor accesibilă cu autobuzele locale.",
+            "en": "Start in the heart of the town, easily reachable by local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikola-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            21.2488,
+            41.3701
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Hauptkirche ist nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "A főtemplom csak egy rövid sétára van a buszmegállótól.",
+            "ro": "Biserica principală este la o scurtă plimbare de stația de autobuz.",
+            "en": "The main church is just a short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikola-Martinoski-Galerie",
+            "hu": "Nikola Martinoski Galéria",
+            "ro": "Galeria Nikola Martinoski",
+            "en": "Nikola Martinoski Gallery"
+          },
+          "coords": [
+            21.2495,
+            41.3705
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kunstszene der Stadt, die sich im selben Viertel befindet.",
+            "hu": "Fedezze fel a város művészeti színterét, amely ugyanabban a negyedben található.",
+            "ro": "Explorați scena artistică a orașului, situată în același cartier.",
+            "en": "Explore the town's art scene, located in the same neighborhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Gumenje-Hügel (Busfahrt)",
+            "hu": "Klaszter: Gumenje-hegy (buszozás)",
+            "ro": "Cluster: Dealul Gumenje (călătorie cu autobuzul)",
+            "en": "Cluster: Gumenje Hill (Bus Ride)"
+          },
+          "coords": [
+            21.241,
+            41.375
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:12",
+          "stay_min": 0,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Denkmal-Komplex auf dem Hügel.",
+            "hu": "Menjen busszal a hegyen lévő emlékmű-komplexumhoz.",
+            "ro": "Luați un autobuz până la complexul monumental de pe deal.",
+            "en": "Take a bus up to the monument complex on the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Makedonium & Museum des Ilinden-Aufstands",
+            "hu": "Makedonium és Ilindeni felkelés múzeuma",
+            "ro": "Makedonium și Muzeul Revoltei de Ilinden",
+            "en": "Makedonium & Museum of the Ilinden Uprising"
+          },
+          "coords": [
+            21.2401,
+            41.3755
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:16",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden wichtigen Stätten liegen nebeneinander, perfekt für einen langen Besuch.",
+            "hu": "Ez a két fontos helyszín egymás mellett fekszik, tökéletes egy hosszabb látogatáshoz.",
+            "ro": "Aceste două situri majore sunt una lângă alta, perfecte pentru o vizită lungă.",
+            "en": "These two major sites are next to each other, perfect for a long visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Mečkin Kamen (Busfahrt)",
+            "hu": "Klaszter: Mečkin Kamen (buszozás)",
+            "ro": "Cluster: Mečkin Kamen (călătorie cu autobuzul)",
+            "en": "Cluster: Mečkin Kamen (Bus Ride)"
+          },
+          "coords": [
+            21.2251,
+            41.3621
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein lokaler Bus oder ein Taxi kann Sie zu diesem etwas abgelegenen Denkmal bringen.",
+            "hu": "Helyi busz vagy taxi elviheti Önt ehhez a kissé távoli emlékműhöz.",
+            "ro": "Un autobuz local sau un taxi vă poate duce la acest monument oarecum îndepărtat.",
+            "en": "A local bus or taxi can take you to this somewhat remote monument."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im historischen Zentrum, das mit dem Bus leicht zu erreichen ist. Der Morgen ist der Erkundung des kulturellen Kerns der Stadt gewidmet, wobei Sie zwischen der Nikola-Kirche und den Galerien spazieren. Am Vormittag nehmen Sie einen Bus, der Sie auf den Gumenje-Hügel bringt. Dort verbringen Sie viel Zeit damit, zwischen dem futuristischen Makedonium und dem Museum des Ilinden-Aufstands zu spazieren und die jüngere Geschichte der Stadt kennenzulernen. Nach dem Mittagessen führt Sie Ihre Reise mit einem weiteren Bus zum Mečkin Kamen. Der Nachmittag ist diesem symbolträchtigen Ort des Opfers gewidmet und bietet Zeit zur Reflexion, bevor Sie mit dem Bus in die Stadt zurückkehren. Der Abend endet mit einem gemütlichen Spaziergang durch die nun vertrauten Straßen, der die Effizienz des Transits mit der Freude am Entdecken verbindet.",
+        "hu": "Tömegközlekedéssel töltött napja a történelmi központban kezdődik, amely busszal könnyen elérhető. A délelőttöt a város kulturális magjának felfedezésével tölti, sétálva a Szent Miklós-templom és a galériák között. Délelőtt busszal felmegy a Gumenje-hegyre. Ott hosszabb időt tölt a futurisztikus Makedonium és az Ilindeni felkelés múzeuma között sétálva, megismerve a város modern kori történelmét. Ebéd után útja egy másik busszal a Mečkin Kamenhez vezet. A délutánt ennek az áldozat szimbolikus helyének szenteli, időt hagyva az elmélkedésre, mielőtt visszatérne a városba busszal. Az este egy kellemes sétával zárul a már ismerős utcákon, ötvözve a közlekedés hatékonyságát a felfedezés örömével.",
+        "ro": "Ziua dvs. cu transportul public începe în centrul istoric, ușor de ajuns cu autobuzul. Dimineața este dedicată explorării nucleului cultural al orașului, plimbându-vă între Biserica Sf. Nicolae și galerii. La amiază, luați un autobuz care vă urcă pe Dealul Gumenje. Acolo petreceți un timp considerabil plimbându-vă între futuristul Makedonium și Muzeul Revoltei de Ilinden, absorbind istoria modernă a orașului. După prânz, călătoria vă duce la Mečkin Kamen cu un alt autobuz. După-amiaza este dedicată acestui loc simbolic al sacrificiului, permițând timp pentru reflecție înainte de a vă întoarce în oraș cu autobuzul. Seara se încheie cu o plimbare relaxantă pe străzile acum familiare, combinând eficiența tranzitului cu bucuria descoperirii.",
+        "en": "Your day using public transit begins in the historic center, easily accessed by bus. The morning is dedicated to exploring the town's cultural core, walking between St. Nicholas Church and the galleries. By mid-morning, you'll catch a bus that takes you up Gumenje Hill. There, you'll spend a significant amount of time walking between the futuristic Makedonium and the Museum of the Ilinden Uprising, absorbing the town's modern history. After lunch, your journey takes you to Mečkin Kamen via another bus ride. The afternoon is devoted to this symbolic site of sacrifice, allowing time for reflection before you return to town by bus. The evening ends with a leisurely stroll through the now-familiar streets, blending the efficiency of transit with the joy of discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kruševo-Fladenbrot",
+            "tip": "Ein einzigartiges, oft mit Käse oder Fleisch gefülltes Fladenbrot, ideal für unterwegs."
+          },
+          {
+            "name": "Gjomleze",
+            "tip": "Ein langsam gebackener, geschichteter Teigkuchen, eine wahre lokale Delikatesse."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Ein erfrischendes Joghurtgetränk, das perfekt zu herzhaften Speisen passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kruševói lepény",
+            "tip": "Egyedi, gyakran sajttal vagy hússal töltött lepénykenyér, ideális útközben."
+          },
+          {
+            "name": "Gjomleze",
+            "tip": "Lassan sült, réteges tésztasütemény, igazi helyi finomság."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Frissítő joghurtital, amely tökéletesen illik a sós ételekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă de Crușova",
+            "tip": "O plăcintă unică, adesea umplută cu brânză sau carne, ideală pentru a fi mâncată pe drum."
+          },
+          {
+            "name": "Gjomleze",
+            "tip": "O prăjitură stratificată din aluat, coaptă lent, o adevărată delicatesă locală."
+          },
+          {
+            "name": "Ayran",
+            "tip": "O băutură răcoritoare pe bază de iaurt, care se potrivește perfect cu mâncărurile sărate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kruševo flatbread",
+            "tip": "A unique flatbread, often filled with cheese or meat, ideal for eating on the go."
+          },
+          {
+            "name": "Gjomleze",
+            "tip": "A slow-baked, layered pastry pie, a true local delicacy."
+          },
+          {
+            "name": "Ayran",
+            "tip": "A refreshing yogurt drink that pairs perfectly with savory food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Heilig-Geist-Kirche",
+            "tip": "Eine kleine, ruhige Kirche, die oft von Touristen übersehen wird.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Panoramablick vom Bus",
+            "tip": "Genießen Sie die Aussicht während der Fahrt die Hügel hinauf und hinunter.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Abendspaziergang im Stadtzentrum",
+            "tip": "Nachdem die Tagesbesucher gegangen sind, kehrt eine friedliche Atmosphäre ein.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szentlélek-templom",
+            "tip": "Kicsi, csendes templom, amelyet a turisták gyakran figyelmen kívül hagynak.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Panorámás kilátás a buszról",
+            "tip": "Élvezze a kilátást a dombokon felfelé és lefelé tartó utazás során.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Esti séta a városközpontban",
+            "tip": "Miután a napközbeni látogatók elmentek, békés hangulat telepszik a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sfântul Duh",
+            "tip": "O biserică mică și liniștită, adesea trecută cu vederea de turiști.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere panoramică din autobuz",
+            "tip": "Bucurați-vă de priveliști în timpul călătoriei în sus și în jos pe dealuri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare de seară în centrul orașului",
+            "tip": "O atmosferă pașnică se instalează după plecarea vizitatorilor de o zi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Holy Spirit Church",
+            "tip": "A small, quiet church often overlooked by tourists.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Panoramic view from the bus",
+            "tip": "Enjoy the views during the ride up and down the hills.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Evening stroll in the town center",
+            "tip": "A peaceful atmosphere descends after the day-trippers have left.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Toše Proeski Merchandise",
+            "tip": "Am Gedenkhaus finden Sie eine Vielzahl von Souvenirs, die dem Sänger gewidmet sind."
+          },
+          {
+            "name": "Postkarten mit historischen Ansichten",
+            "tip": "Vergleichen Sie das alte Kruševo mit dem heutigen in den Souvenirläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Toše Proeski ajándéktárgyak",
+            "tip": "Az emlékháznál sokféle, az énekesnek szentelt szuvenírt talál."
+          },
+          {
+            "name": "Képeslapok történelmi nézetekkel",
+            "tip": "Hasonlítsa össze a régi Kruševót a maival az ajándékboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole promoționale Toše Proeski",
+            "tip": "La casa memorială veți găsi o varietate de suveniruri dedicate cântărețului."
+          },
+          {
+            "name": "Cărți poștale cu vederi istorice",
+            "tip": "Comparați vechiul Crușova cu cel de astăzi în magazinele de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Toše Proeski merchandise",
+            "tip": "At the memorial house, you'll find a variety of souvenirs dedicated to the singer."
+          },
+          {
+            "name": "Postcards with historical views",
+            "tip": "Compare the old Kruševo with the present day at the souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Verbindungen begrenzt sein können.",
+          "Haben Sie Kleingeld für die Bustickets dabei.",
+          "Fragen Sie die Einheimischen nach den richtigen Bushaltestellen; sie sind oft hilfsbereit.",
+          "Einige Orte wie Mečkin Kamen erfordern möglicherweise einen längeren Spaziergang von der nächsten Bushaltestelle."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mivel a járatok korlátozottak lehetnek.",
+          "Legyen nálad aprópénz a buszjegyekhez.",
+          "Kérdezze meg a helyieket a megfelelő buszmegállókról; gyakran segítőkészek.",
+          "Néhány hely, mint például a Mečkin Kamen, hosszabb sétát igényelhet a legközelebbi buszmegállótól."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece serviciile pot fi limitate.",
+          "Aveți la îndemână bani mărunți pentru biletele de autobuz.",
+          "Întrebați localnicii despre stațiile de autobuz corecte; aceștia sunt adesea de ajutor.",
+          "Unele situri, cum ar fi Mečkin Kamen, pot necesita o plimbare mai lungă de la cea mai apropiată stație de autobuz."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as services might be limited.",
+          "Have small change ready for bus tickets.",
+          "Ask locals for the correct bus stops; they are often helpful.",
+          "Some sites like Mečkin Kamen may require a longer walk from the nearest bus stop."
+        ]
+      }
+    }
+  }
+}

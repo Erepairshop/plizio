@@ -1,0 +1,1404 @@
+{
+  "city_id": "austria-freistadt-cities-v2",
+  "anchor": {
+    "name": "Freistadt",
+    "coords": [
+      14.505,
+      48.51
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Hauptplatz",
+            "hu": "Érkezés a Fő térre",
+            "ro": "Sosire în Piața Principală (Hauptplatz)",
+            "en": "Arrival at the Main Square"
+          },
+          "coords": [
+            14.505,
+            48.51
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in einem der Cafés und beobachten Sie das Treiben.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában, és figyelje a város ébredését.",
+            "ro": "Începeți ziua la una dintre cafenele și priviți agitația pieței.",
+            "en": "Start your day at one of the cafés and watch the square come to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Katharina",
+            "hu": "Szent Katalin plébániatemplom",
+            "ro": "Biserica parohială Sf. Ecaterina",
+            "en": "Parish Church of St. Catherine"
+          },
+          "coords": [
+            14.506,
+            48.511
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden gotischen Gewölbe und den barocken Hochaltar.",
+            "hu": "Figyelje meg a lenyűgöző gótikus boltozatokat és a barokk főoltárt.",
+            "ro": "Fiți atenți la bolțile gotice impresionante și la altarul baroc.",
+            "en": "Look for the impressive Gothic vaults and the Baroque high altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Linzer Tor",
+            "hu": "Linzi kapu",
+            "ro": "Poarta Linzer",
+            "en": "Linzer Gate"
+          },
+          "coords": [
+            14.504,
+            48.508
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:29",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Einer der am besten erhaltenen mittelalterlichen Tortürme Österreichs.",
+            "hu": "Ausztria egyik legjobb állapotban megmaradt középkori kaputornya.",
+            "ro": "Unul dintre cele mai bine conservate turnuri de poartă medievale din Austria.",
+            "en": "One of the best-preserved medieval gate towers in Austria."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Freistadt & Mühlviertler Schlossmuseum",
+            "hu": "Freistadti kastély és Múzeum",
+            "ro": "Castelul Freistadt și Muzeul Mühlviertel",
+            "en": "Freistadt Castle & Museum"
+          },
+          "coords": [
+            14.503,
+            48.512
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für das Museum ein, um die regionale Geschichte zu verstehen.",
+            "hu": "Szánjon elég időt a múzeumra, hogy megértse a régió történelmét.",
+            "ro": "Planificați suficient timp pentru muzeu pentru a înțelege istoria regională.",
+            "en": "Plan enough time for the museum to understand the regional history."
+          }
+        },
+        {
+          "name": {
+            "de": "Böhmertor",
+            "hu": "Cseh kapu (Böhmertor)",
+            "ro": "Poarta Bohemiană (Böhmertor)",
+            "en": "Bohemian Gate (Böhmertor)"
+          },
+          "coords": [
+            14.508,
+            48.511
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:51",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fotografieren Sie das Tor mit der Stadtmauer im Hintergrund.",
+            "hu": "Készítsen egy fotót a kapuról a városfallal a háttérben.",
+            "ro": "Fotografiați poarta cu zidul orașului în fundal.",
+            "en": "Take a photo of the gate with the city wall in the background."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauhaus Freistadt",
+            "hu": "Freistadti Sörfőzde",
+            "ro": "Fabrica de bere Freistadt",
+            "en": "Freistadt Brewhouse"
+          },
+          "coords": [
+            14.507,
+            48.51
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie das Zwicklbier direkt vom Fass und bestellen Sie eine deftige Jause.",
+            "hu": "Kóstolja meg a csapolt Zwickl sört, és rendeljen egy kiadós uzsonnát.",
+            "ro": "Încercați berea Zwickl direct de la robinet și comandați o gustare consistentă.",
+            "en": "Try the Zwickl beer straight from the tap and order a hearty snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang an der Stadtmauer",
+            "hu": "Séta a városfal mentén",
+            "ro": "Plimbare de-a lungul zidului orașului",
+            "en": "Walk along the City Wall"
+          },
+          "coords": [
+            14.502,
+            48.51
+          ],
+          "category": "historical",
+          "arrive_at": "15:07",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Finden Sie einen ruhigen Abschnitt auf der Westseite für einen entspannten Ausklang.",
+            "hu": "Találjon egy csendes szakaszt a nyugati oldalon a nap békés lezárásához.",
+            "ro": "Găsiți o secțiune liniștită pe partea de vest pentru o încheiere relaxantă a zilei.",
+            "en": "Find a quiet section on the west side for a peaceful end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Freistadt beginnt am belebten Hauptplatz, umgeben von farbenfrohen Bürgerhäusern. Spüren Sie die Geschichte, während Sie durch die Gassen zur imposanten Stadtpfarrkirche schlendern. Am Vormittag erkunden Sie die mächtigen Wehranlagen. Sie durchschreiten das Linzer Tor und steigen zum Schloss hinauf, wo das Museum faszinierende Einblicke in die Vergangenheit des Mühlviertels gewährt. Der Nachmittag gehört dem Bier. Im Brauhaus Freistadt genießen Sie lokale Spezialitäten und das berühmte Freistädter Bier. Zum Abschluss umrunden Sie die fast vollständig erhaltene Stadtmauer und lassen die mittelalterliche Atmosphäre auf sich wirken, während die Sonne langsam untergeht.",
+        "hu": "A nap Freistadtban a nyüzsgő Fő téren kezdődik, színes polgárházakkal körülvéve. Érezze a történelem szellemét, miközben a sikátorokon át az impozáns plébániatemplomhoz sétál. Délelőtt a hatalmas erődítményeket fedezi fel. Áthalad a Linzi-kapun, és felsétál a kastélyhoz, ahol a múzeum lenyűgöző bepillantást nyújt a Mühlviertel múltjába. A délután a söré. A Freistadti Sörfőzdében helyi specialitásokat és a híres Freistädter sört kóstolhatja meg. Végül körbesétálja a szinte teljesen épen maradt városfalat, és hagyja, hogy a középkori hangulat magával ragadja, miközben a nap lassan lenyugszik.",
+        "ro": "Ziua dvs. în Freistadt începe în animata Piață Principală, înconjurată de case burgheze colorate. Simțiți istoria în timp ce vă plimbați pe alei spre impunătoarea biserică parohială. În cursul dimineții, explorați fortificațiile puternice. Treceți prin Poarta Linzer și urcați la castel, unde muzeul oferă perspective fascinante asupra trecutului regiunii Mühlviertel. După-amiaza este dedicată berii. La berăria Freistadt vă bucurați de specialități locale și de faimoasa bere Freistädter. La final, înconjurați zidul orașului, aproape complet conservat, și lăsați atmosfera medievală să vă cuprindă în timp ce soarele apune încet.",
+        "en": "Your day in Freistadt begins in the bustling Main Square, surrounded by colorful townhouses. Feel the history as you stroll through the alleys to the imposing parish church. In the morning, you'll explore the mighty fortifications. You'll pass through the Linzer Gate and climb up to the castle, where the museum offers fascinating insights into the Mühlviertel's past. The afternoon is all about beer. At the Freistadt Brewhouse, you'll enjoy local specialties and the famous Freistädter beer. Finally, you'll walk around the almost completely preserved city wall, soaking up the medieval atmosphere as the sun slowly sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brauhaus Freistadt",
+            "tip": "Ein Muss für Bierliebhaber. Probieren Sie das 'Rotschopf' und dazu ein Brauherren-Gulasch."
+          },
+          {
+            "name": "Gasthof 'Zum Goldenen Hirschen'",
+            "tip": "Traditionelle Mühlviertler Küche. Die Leinölerdäpfel sind eine lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brauhaus Freistadt",
+            "tip": "Kötelező a sörkedvelőknek. Kóstolja meg a 'Rotschopf' sört és egy sörfőző gulyást."
+          },
+          {
+            "name": "Gasthof 'Zum Goldenen Hirschen'",
+            "tip": "Hagyományos Mühlviertel-i konyha. A lenolajos burgonya helyi specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brauhaus Freistadt",
+            "tip": "O necesitate pentru iubitorii de bere. Încercați 'Rotschopf' și un gulaș al berarului."
+          },
+          {
+            "name": "Gasthof 'Zum Goldenen Hirschen'",
+            "tip": "Bucătărie tradițională din Mühlviertel. Cartofii cu ulei de in sunt o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brauhaus Freistadt",
+            "tip": "A must for beer lovers. Try the 'Rotschopf' and a Brewer's Goulash."
+          },
+          {
+            "name": "Gasthof 'Zum Goldenen Hirschen'",
+            "tip": "Traditional Mühlviertel cuisine. The linseed oil potatoes are a local specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang an der Stadtmauer",
+            "tip": "Besonders der westliche Teil der Mauer bietet Ruhe und schöne Ausblicke.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Schlosshof",
+            "tip": "Im Innenhof des Schlosses finden Sie oft eine ruhige Ecke.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dechanthofgarten",
+            "tip": "Ein kleiner, versteckter Garten für eine kurze Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a városfal mentén",
+            "tip": "Különösen a fal nyugati része kínál csendet és szép kilátást.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kastélyudvar",
+            "tip": "A kastély belső udvarán gyakran talál egy csendes zugot.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dechanthof kertje",
+            "tip": "Egy kicsi, rejtett kert egy rövid pihenőre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul zidului orașului",
+            "tip": "În special partea de vest a zidului oferă liniște și priveliști frumoase.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea castelului",
+            "tip": "În curtea interioară a castelului veți găsi adesea un colț liniștit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Dechanthof",
+            "tip": "O grădină mică, ascunsă, pentru o pauză scurtă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the City Wall",
+            "tip": "Especially the western part of the wall offers peace and beautiful views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Courtyard",
+            "tip": "You can often find a quiet corner in the castle's inner courtyard.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dechanthof Garden",
+            "tip": "A small, hidden garden for a short break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Braushop Freistadt",
+            "tip": "Bierspezialitäten und Gläser als Souvenir."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Freitagvormittag am Hauptplatz für regionale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Freistadti Sörbolt",
+            "tip": "Sörkülönlegességek és poharak emléktárgyként."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Minden péntek délelőtt a Fő téren, helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul berăriei Freistadt",
+            "tip": "Specialități de bere și pahare ca suveniruri."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare vineri dimineață în Piața Principală pentru produse regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Freistadt Brewery Shop",
+            "tip": "Beer specialties and glasses as souvenirs."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Every Friday morning on the main square for regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, das Kopfsteinpflaster kann uneben sein.",
+          "Fast alle Sehenswürdigkeiten liegen innerhalb der Stadtmauern und sind leicht zu Fuß erreichbar.",
+          "Einige Gassen sind sehr eng und malerisch – perfekt für Fotos.",
+          "Die Stadt ist kompakt, Sie können den Plan flexibel anpassen und spontan verweilen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakő egyenetlen lehet.",
+          "Szinte minden látnivaló a városfalakon belül található és könnyen megközelíthető gyalog.",
+          "Néhány sikátor nagyon szűk és festői – tökéletes fotókhoz.",
+          "A város kompakt, a tervet rugalmasan alakíthatja és spontán elidőzhet."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, pavajul poate fi denivelat.",
+          "Aproape toate atracțiile sunt situate în interiorul zidurilor orașului și sunt ușor accesibile pe jos.",
+          "Unele alei sunt foarte înguste și pitorești - perfecte pentru fotografii.",
+          "Orașul este compact, puteți adapta planul în mod flexibil și puteți zăbovi spontan."
+        ],
+        "en": [
+          "Wear comfortable shoes, the cobblestones can be uneven.",
+          "Almost all sights are located within the city walls and are easily accessible on foot.",
+          "Some alleys are very narrow and picturesque – perfect for photos.",
+          "The city is compact, you can flexibly adapt the plan and linger spontaneously."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 2.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Hauptplatz",
+            "hu": "Érkezés a Fő térre",
+            "ro": "Sosire în Piața Principală (Hauptplatz)",
+            "en": "Arrival at the Main Square"
+          },
+          "coords": [
+            14.505,
+            48.51
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre des Platzes.",
+            "hu": "Tegye le a biciklit, és élvezze a tér hangulatát.",
+            "ro": "Parcați-vă bicicleta și bucurați-vă de atmosfera pieței.",
+            "en": "Park your bike and enjoy the atmosphere of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Katharina",
+            "hu": "Szent Katalin plébániatemplom",
+            "ro": "Biserica parohială Sf. Ecaterina",
+            "en": "Parish Church of St. Catherine"
+          },
+          "coords": [
+            14.506,
+            48.511
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der kurze Abstecher von der Hauptroute lohnt sich für die gotische Architektur.",
+            "hu": "A fő útvonaltól tett rövid kitérő megéri a gótikus építészet miatt.",
+            "ro": "Micul ocol de la traseul principal merită pentru arhitectura gotică.",
+            "en": "The short detour from the main route is worth it for the Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Linzer Tor",
+            "hu": "Linzi kapu",
+            "ro": "Poarta Linzer",
+            "en": "Linzer Gate"
+          },
+          "coords": [
+            14.504,
+            48.508
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fahren Sie durch das Tor, um ein Gefühl für die mittelalterliche Einfahrt zu bekommen.",
+            "hu": "Hajtson át a kapun, hogy átérezze a középkori bejárat hangulatát.",
+            "ro": "Treceți cu bicicleta prin poartă pentru a simți intrarea medievală.",
+            "en": "Ride through the gate to get a feel for the medieval entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Freistadt & Mühlviertler Schlossmuseum",
+            "hu": "Freistadti kastély és Múzeum",
+            "ro": "Castelul Freistadt și Muzeul Mühlviertel",
+            "en": "Freistadt Castle & Museum"
+          },
+          "coords": [
+            14.503,
+            48.512
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Gute Fahrradständer finden Sie im äußeren Schlosshof.",
+            "hu": "A külső kastélyudvarban jó kerékpártárolókat talál.",
+            "ro": "Veți găsi suporturi bune pentru biciclete în curtea exterioară a castelului.",
+            "en": "You'll find good bike racks in the outer castle courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Böhmertor",
+            "hu": "Cseh kapu (Böhmertor)",
+            "ro": "Poarta Bohemiană (Böhmertor)",
+            "en": "Bohemian Gate (Böhmertor)"
+          },
+          "coords": [
+            14.508,
+            48.511
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein idealer Punkt für eine kurze Pause auf Ihrer Radtour um die Stadt.",
+            "hu": "Ideális pont egy rövid szünetre a város körüli kerékpártúrán.",
+            "ro": "Un punct ideal pentru o scurtă pauză în turul cu bicicleta în jurul orașului.",
+            "en": "An ideal spot for a short break on your bike tour around the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauhaus Freistadt",
+            "hu": "Freistadti Sörfőzde",
+            "ro": "Fabrica de bere Freistadt",
+            "en": "Freistadt Brewhouse"
+          },
+          "coords": [
+            14.507,
+            48.51
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem kühlen Bier und herzhafter Kost.",
+            "hu": "Jutalmazza meg magát egy hideg sörrel és egy kiadós étellel.",
+            "ro": "Recompensați-vă cu o bere rece și o masă copioasă.",
+            "en": "Reward yourself with a cold beer and hearty food."
+          }
+        },
+        {
+          "name": {
+            "de": "Runde entlang der Stadtmauer",
+            "hu": "Kör a városfal mentén",
+            "ro": "Tur de-a lungul zidului orașului",
+            "en": "Loop along the City Wall"
+          },
+          "coords": [
+            14.502,
+            48.51
+          ],
+          "category": "historical",
+          "arrive_at": "14:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die äußere Promenade ist perfekt für eine entspannte Radrunde.",
+            "hu": "A külső sétány tökéletes egy laza kerékpáros körhöz.",
+            "ro": "Promenada exterioară este perfectă pentru o plimbare relaxantă cu bicicleta.",
+            "en": "The outer promenade is perfect for a relaxed bike loop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine Erkundungstour durch Freistadt. Vom Hauptplatz aus radeln Sie durch mittelalterliche Gassen zur Stadtpfarrkirche. Die Tour führt Sie weiter zu den beeindruckenden Stadttoren, dem Linzer Tor im Süden und dem Böhmertor im Osten. Am Vormittag stellen Sie Ihr Rad am Schloss Freistadt ab, um das reiche Erbe der Region im Museum zu entdecken. Nach so viel Geschichte lockt am Nachmittag das Brauhaus Freistadt. Stärken Sie sich mit lokalen Schmankerln, bevor Sie eine letzte Runde um die Stadt drehen und die fast vollständig erhaltene Wehrmauer vom Fahrradsattel aus bewundern.",
+        "hu": "Pattanjon biciklire, és fedezze fel Freistadtot. A Fő térről középkori sikátorokon át tekerjen a plébániatemplomhoz. A túra tovább vezet a lenyűgöző városkapukhoz, délen a Linzi-kapuhoz és keleten a Cseh-kapuhoz. Délelőtt tegye le a kerékpárt a Freistadti kastélynál, hogy felfedezze a régió gazdag örökségét a múzeumban. A sok történelem után délután a Freistadti Sörfőzde csábít. Erősítse meg magát helyi finomságokkal, mielőtt egy utolsó kört tenne a város körül, és a kerékpár nyergéből megcsodálná a szinte teljesen épen maradt védőfalat.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur de explorare a orașului Freistadt. Din Piața Principală, pedalați pe alei medievale până la biserica parohială. Turul vă duce mai departe la porțile impresionante ale orașului, Poarta Linzer la sud și Poarta Bohemiană la est. Dimineața, parcați bicicleta la Castelul Freistadt pentru a descoperi bogata moștenire a regiunii în muzeu. După atâta istorie, după-amiaza vă atrage berăria Freistadt. Întăriți-vă cu delicatese locale înainte de a face un ultim tur în jurul orașului și de a admira zidul de apărare aproape complet conservat de pe șaua bicicletei.",
+        "en": "Hop on your bike for an exploratory tour of Freistadt. From the Main Square, you'll cycle through medieval alleys to the parish church. The tour continues to the impressive city gates, the Linzer Gate in the south and the Bohemian Gate in the east. In the morning, park your bike at Freistadt Castle to discover the region's rich heritage in the museum. After so much history, the Freistadt Brewhouse beckons in the afternoon. Fortify yourself with local delicacies before taking one last loop around the city, admiring the almost completely preserved defensive wall from your saddle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brauhaus Freistadt",
+            "tip": "Ein Muss für Bierliebhaber. Probieren Sie das 'Rotschopf' und dazu ein Brauherren-Gulasch."
+          },
+          {
+            "name": "Gasthof 'Zum Goldenen Hirschen'",
+            "tip": "Traditionelle Mühlviertler Küche. Die Leinölerdäpfel sind eine lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brauhaus Freistadt",
+            "tip": "Kötelező a sörkedvelőknek. Kóstolja meg a 'Rotschopf' sört és egy sörfőző gulyást."
+          },
+          {
+            "name": "Gasthof 'Zum Goldenen Hirschen'",
+            "tip": "Hagyományos Mühlviertel-i konyha. A lenolajos burgonya helyi specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brauhaus Freistadt",
+            "tip": "O necesitate pentru iubitorii de bere. Încercați 'Rotschopf' și un gulaș al berarului."
+          },
+          {
+            "name": "Gasthof 'Zum Goldenen Hirschen'",
+            "tip": "Bucătărie tradițională din Mühlviertel. Cartofii cu ulei de in sunt o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brauhaus Freistadt",
+            "tip": "A must for beer lovers. Try the 'Rotschopf' and a Brewer's Goulash."
+          },
+          {
+            "name": "Gasthof 'Zum Goldenen Hirschen'",
+            "tip": "Traditional Mühlviertel cuisine. The linseed oil potatoes are a local specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang an der Stadtmauer",
+            "tip": "Besonders der westliche Teil der Mauer bietet Ruhe und schöne Ausblicke.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Schlosshof",
+            "tip": "Im Innenhof des Schlosses finden Sie oft eine ruhige Ecke.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dechanthofgarten",
+            "tip": "Ein kleiner, versteckter Garten für eine kurze Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a városfal mentén",
+            "tip": "Különösen a fal nyugati része kínál csendet és szép kilátást.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kastélyudvar",
+            "tip": "A kastély belső udvarán gyakran talál egy csendes zugot.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dechanthof kertje",
+            "tip": "Egy kicsi, rejtett kert egy rövid pihenőre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul zidului orașului",
+            "tip": "În special partea de vest a zidului oferă liniște și priveliști frumoase.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea castelului",
+            "tip": "În curtea interioară a castelului veți găsi adesea un colț liniștit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Dechanthof",
+            "tip": "O grădină mică, ascunsă, pentru o pauză scurtă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the City Wall",
+            "tip": "Especially the western part of the wall offers peace and beautiful views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Courtyard",
+            "tip": "You can often find a quiet corner in the castle's inner courtyard.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dechanthof Garden",
+            "tip": "A small, hidden garden for a short break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Braushop Freistadt",
+            "tip": "Bierspezialitäten und Gläser als Souvenir."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Freitagvormittag am Hauptplatz für regionale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Freistadti Sörbolt",
+            "tip": "Sörkülönlegességek és poharak emléktárgyként."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Minden péntek délelőtt a Fő téren, helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul berăriei Freistadt",
+            "tip": "Specialități de bere și pahare ca suveniruri."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare vineri dimineață în Piața Principală pentru produse regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Freistadt Brewery Shop",
+            "tip": "Beer specialties and glasses as souvenirs."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Every Friday morning on the main square for regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist klein, das Rad ist eher für die Anfahrt und eine Runde um die Mauern ideal.",
+          "Schließen Sie Ihr Rad gut ab, besonders am belebten Hauptplatz.",
+          "Auf dem Kopfsteinpflaster in den Gassen ist vorsichtiges Fahren geboten.",
+          "Nutzen Sie die Promenade außerhalb der Mauern für eine entspannte Fahrt."
+        ],
+        "hu": [
+          "A belváros kicsi, a kerékpár inkább a megközelítéshez és a falak körüli körhöz ideális.",
+          "Zárja le jól a kerékpárját, különösen a forgalmas Fő téren.",
+          "A sikátorok macskakövein óvatosan kell közlekedni.",
+          "Használja a falakon kívüli sétányt egy nyugodt tekeréshez."
+        ],
+        "ro": [
+          "Centrul orașului este mic, bicicleta este ideală mai degrabă pentru acces și pentru un tur în jurul zidurilor.",
+          "Legați-vă bine bicicleta, mai ales în aglomerata Piață Principală.",
+          "Este necesară prudență la pedalarea pe pavajul de pe alei.",
+          "Folosiți promenada din afara zidurilor pentru o plimbare relaxantă."
+        ],
+        "en": [
+          "The city center is small; the bike is ideal for getting there and for a loop around the walls.",
+          "Lock your bike securely, especially in the busy Main Square.",
+          "Ride carefully on the cobblestones in the alleys.",
+          "Use the promenade outside the walls for a relaxed ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 1.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Parken am St. Peter Parkplatz",
+            "hu": "Érkezés és parkolás a St. Peter parkolóban",
+            "ro": "Sosire și parcare la parcarea St. Peter",
+            "en": "Arrival & Parking at St. Peter Car Park"
+          },
+          "coords": [
+            14.502,
+            48.508
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den ganzen Tag. Die Altstadt ist von hier aus perfekt zu Fuß erreichbar.",
+            "hu": "Parkoljon itt egész napra. Az óváros innen tökéletesen megközelíthető gyalog.",
+            "ro": "Parcați aici pentru întreaga zi. Centrul vechi este perfect accesibil pe jos de aici.",
+            "en": "Park here for the whole day. The old town is perfectly accessible on foot from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz & Linzer Tor",
+            "hu": "Fő tér és Linzi kapu",
+            "ro": "Piața Principală și Poarta Linzer",
+            "en": "Main Square & Linzer Gate"
+          },
+          "coords": [
+            14.505,
+            48.51
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang am südlichen Eingang der Altstadt.",
+            "hu": "Kezdje a sétát az óváros déli bejáratánál.",
+            "ro": "Începeți turul pietonal la intrarea de sud a orașului vechi.",
+            "en": "Start your walking tour at the southern entrance to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & Dechanthof",
+            "hu": "Plébániatemplom és Dechanthof",
+            "ro": "Biserica Parohială și Dechanthof",
+            "en": "Parish Church & Dechanthof"
+          },
+          "coords": [
+            14.506,
+            48.511
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden historischen Gebäude liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Ez a két történelmi épület csak néhány lépésre van egymástól.",
+            "ro": "Aceste două clădiri istorice se află la doar câțiva pași una de cealaltă.",
+            "en": "These two historic buildings are just a few steps from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Freistadt & Mühlviertler Schlossmuseum",
+            "hu": "Freistadti kastély és Múzeum",
+            "ro": "Castelul Freistadt și Muzeul Mühlviertel",
+            "en": "Freistadt Castle & Museum"
+          },
+          "coords": [
+            14.503,
+            48.512
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das größte Gebäude der Stadt, nehmen Sie sich Zeit für die Ausstellung.",
+            "hu": "A város legnagyobb épülete, szánjon időt a kiállításra.",
+            "ro": "Cea mai mare clădire din oraș, acordați-vă timp pentru expoziție.",
+            "en": "The largest building in the city, take your time for the exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauhaus Freistadt",
+            "hu": "Freistadti Sörfőzde",
+            "ro": "Fabrica de bere Freistadt",
+            "en": "Freistadt Brewhouse"
+          },
+          "coords": [
+            14.507,
+            48.51
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein spätes Mittagessen nach dem Museumsbesuch.",
+            "hu": "Ideális hely egy késői ebédhez a múzeumlátogatás után.",
+            "ro": "Un loc ideal pentru un prânz târziu după vizita la muzeu.",
+            "en": "An ideal place for a late lunch after visiting the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang an Stadtmauer & Böhmertor",
+            "hu": "Séta a városfalnál és Cseh kapu",
+            "ro": "Plimbare la zidul orașului și Poarta Bohemiană",
+            "en": "Walk at the City Wall & Bohemian Gate"
+          },
+          "coords": [
+            14.508,
+            48.511
+          ],
+          "category": "historical",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Verdauungsspaziergang entlang der östlichen Stadtmauer.",
+            "hu": "Zárja a napot egy emésztést segítő sétával a keleti városfal mentén.",
+            "ro": "Încheiați ziua cu o plimbare digestivă de-a lungul zidului estic al orașului.",
+            "en": "End the day with a digestive walk along the eastern city wall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Reisen Sie mit dem Auto nach Freistadt und parken Sie bequem außerhalb der Mauern. Ihr ganzer Tag ist ein einziger Spaziergang durchs Mittelalter. Sie beginnen am Hauptplatz, dem Herzen der Stadt, und besuchen die nahegelegene Stadtpfarrkirche. Der Vormittag ist dem imposanten Schloss und seinem Museum gewidmet, das Sie bequem zu Fuß erreichen. Nach einer tiefen Dosis Geschichte ist es Zeit für das Mittagessen und eine Bierverkostung im berühmten Brauhaus. Den Nachmittag verbringen Sie damit, die alten Wehrtürme und die Stadtmauer zu erkunden, bevor Sie gemütlich zu Ihrem Auto zurückkehren.",
+        "hu": "Utazzon autóval Freistadtba, és parkoljon kényelmesen a falakon kívül. Az egész nap egyetlen séta a középkorban. A város szívében, a Fő téren kezdi, és meglátogatja a közeli plébániatemplomot. A délelőttöt az impozáns kastélynak és múzeumának szenteli, amelyet kényelmesen elérhet gyalog. Egy alapos történelmi adag után itt az ideje az ebédnek és egy sörkóstolónak a híres sörfőzdében. A délutánt a régi védőtornyok és a városfal felfedezésével tölti, mielőtt kényelmesen visszasétálna az autójához.",
+        "ro": "Călătoriți cu mașina la Freistadt și parcați convenabil în afara zidurilor. Întreaga zi este o singură plimbare prin Evul Mediu. Începeți în Piața Principală, inima orașului, și vizitați biserica parohială din apropiere. Dimineața este dedicată impunătorului castel și muzeului său, la care puteți ajunge confortabil pe jos. După o doză profundă de istorie, este timpul pentru prânz și o degustare de bere la faimoasa berărie. Petreceți după-amiaza explorând vechile turnuri de apărare și zidul orașului înainte de a vă întoarce pe îndelete la mașină.",
+        "en": "Travel to Freistadt by car and park comfortably outside the walls. Your entire day is a single walk through the Middle Ages. You start at the Main Square, the heart of the city, and visit the nearby parish church. The morning is dedicated to the imposing castle and its museum, which you can easily reach on foot. After a deep dose of history, it's time for lunch and a beer tasting at the famous brewhouse. You'll spend the afternoon exploring the old defensive towers and the city wall before strolling back to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brauhaus Freistadt",
+            "tip": "Ein Muss für Bierliebhaber. Probieren Sie das 'Rotschopf' und dazu ein Brauherren-Gulasch."
+          },
+          {
+            "name": "Gasthof 'Zum Goldenen Hirschen'",
+            "tip": "Traditionelle Mühlviertler Küche. Die Leinölerdäpfel sind eine lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brauhaus Freistadt",
+            "tip": "Kötelező a sörkedvelőknek. Kóstolja meg a 'Rotschopf' sört és egy sörfőző gulyást."
+          },
+          {
+            "name": "Gasthof 'Zum Goldenen Hirschen'",
+            "tip": "Hagyományos Mühlviertel-i konyha. A lenolajos burgonya helyi specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brauhaus Freistadt",
+            "tip": "O necesitate pentru iubitorii de bere. Încercați 'Rotschopf' și un gulaș al berarului."
+          },
+          {
+            "name": "Gasthof 'Zum Goldenen Hirschen'",
+            "tip": "Bucătărie tradițională din Mühlviertel. Cartofii cu ulei de in sunt o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brauhaus Freistadt",
+            "tip": "A must for beer lovers. Try the 'Rotschopf' and a Brewer's Goulash."
+          },
+          {
+            "name": "Gasthof 'Zum Goldenen Hirschen'",
+            "tip": "Traditional Mühlviertel cuisine. The linseed oil potatoes are a local specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang an der Stadtmauer",
+            "tip": "Besonders der westliche Teil der Mauer bietet Ruhe und schöne Ausblicke.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Schlosshof",
+            "tip": "Im Innenhof des Schlosses finden Sie oft eine ruhige Ecke.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dechanthofgarten",
+            "tip": "Ein kleiner, versteckter Garten für eine kurze Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a városfal mentén",
+            "tip": "Különösen a fal nyugati része kínál csendet és szép kilátást.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kastélyudvar",
+            "tip": "A kastély belső udvarán gyakran talál egy csendes zugot.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dechanthof kertje",
+            "tip": "Egy kicsi, rejtett kert egy rövid pihenőre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul zidului orașului",
+            "tip": "În special partea de vest a zidului oferă liniște și priveliști frumoase.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea castelului",
+            "tip": "În curtea interioară a castelului veți găsi adesea un colț liniștit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Dechanthof",
+            "tip": "O grădină mică, ascunsă, pentru o pauză scurtă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the City Wall",
+            "tip": "Especially the western part of the wall offers peace and beautiful views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Courtyard",
+            "tip": "You can often find a quiet corner in the castle's inner courtyard.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dechanthof Garden",
+            "tip": "A small, hidden garden for a short break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Braushop Freistadt",
+            "tip": "Bierspezialitäten und Gläser als Souvenir."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Freitagvormittag am Hauptplatz für regionale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Freistadti Sörbolt",
+            "tip": "Sörkülönlegességek és poharak emléktárgyként."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Minden péntek délelőtt a Fő téren, helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul berăriei Freistadt",
+            "tip": "Specialități de bere și pahare ca suveniruri."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare vineri dimineață în Piața Principală pentru produse regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Freistadt Brewery Shop",
+            "tip": "Beer specialties and glasses as souvenirs."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Every Friday morning on the main square for regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplätze außerhalb der Mauern sind gut ausgeschildert und meist gebührenpflichtig.",
+          "Lassen Sie Ihr Auto für den gesamten Besuch stehen. Innerhalb der Mauern ist Fahren nicht empfehlenswert.",
+          "Planen Sie am Ende des Tages Zeit für den Rückweg zum Parkplatz ein.",
+          "Freistadt ist eine 'Stadt der kurzen Wege', ideal für die 'Cluster-Walking'-Philosophie."
+        ],
+        "hu": [
+          "A falakon kívüli parkolók jól ki vannak táblázva és többnyire fizetősek.",
+          "Hagyja az autóját az egész látogatás idejére. A falakon belül nem ajánlott vezetni.",
+          "A nap végén tervezzen időt a parkolóba való visszajutásra.",
+          "Freistadt a 'rövid távolságok városa', ideális a 'csoportos séta' filozófiájához."
+        ],
+        "ro": [
+          "Parcările din afara zidurilor sunt bine semnalizate și de obicei cu plată.",
+          "Lăsați mașina parcată pe durata întregii vizite. Conducerea în interiorul zidurilor nu este recomandată.",
+          "Planificați timp la sfârșitul zilei pentru a vă întoarce la parcare.",
+          "Freistadt este un 'oraș al distanțelor scurte', ideal pentru filozofia 'plimbării în cluster'."
+        ],
+        "en": [
+          "The car parks outside the walls are well signposted and usually require a fee.",
+          "Leave your car for the entire visit. Driving within the walls is not recommended.",
+          "Allow time at the end of the day to walk back to the car park.",
+          "Freistadt is a 'city of short distances', ideal for the 'cluster-walking' philosophy."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 1.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof Freistadt",
+            "hu": "Érkezés a freistadti buszpályaudvarra",
+            "ro": "Sosire la autogara Freistadt",
+            "en": "Arrival at Freistadt Bus Station"
+          },
+          "coords": [
+            14.509,
+            48.508
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Von hier sind es nur wenige Gehminuten bis zum ersten Highlight.",
+            "hu": "Innen csak néhány perc séta az első látnivaló.",
+            "ro": "De aici sunt doar câteva minute de mers pe jos până la primul punct de atracție.",
+            "en": "From here it's just a few minutes' walk to the first highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz & Linzer Tor",
+            "hu": "Fő tér és Linzi kapu",
+            "ro": "Piața Principală și Poarta Linzer",
+            "en": "Main Square & Linzer Gate"
+          },
+          "coords": [
+            14.505,
+            48.51
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang am südlichen Eingang der Altstadt.",
+            "hu": "Kezdje a sétát az óváros déli bejáratánál.",
+            "ro": "Începeți turul pietonal la intrarea de sud a orașului vechi.",
+            "en": "Start your walking tour at the southern entrance to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & Dechanthof",
+            "hu": "Plébániatemplom és Dechanthof",
+            "ro": "Biserica Parohială și Dechanthof",
+            "en": "Parish Church & Dechanthof"
+          },
+          "coords": [
+            14.506,
+            48.511
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:13",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden historischen Gebäude liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Ez a két történelmi épület csak néhány lépésre van egymástól.",
+            "ro": "Aceste două clădiri istorice se află la doar câțiva pași una de cealaltă.",
+            "en": "These two historic buildings are just a few steps from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Freistadt & Mühlviertler Schlossmuseum",
+            "hu": "Freistadti kastély és Múzeum",
+            "ro": "Castelul Freistadt și Muzeul Mühlviertel",
+            "en": "Freistadt Castle & Museum"
+          },
+          "coords": [
+            14.503,
+            48.512
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:08",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das größte Gebäude der Stadt, nehmen Sie sich Zeit für die Ausstellung.",
+            "hu": "A város legnagyobb épülete, szánjon időt a kiállításra.",
+            "ro": "Cea mai mare clădire din oraș, acordați-vă timp pentru expoziție.",
+            "en": "The largest building in the city, take your time for the exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauhaus Freistadt",
+            "hu": "Freistadti Sörfőzde",
+            "ro": "Fabrica de bere Freistadt",
+            "en": "Freistadt Brewhouse"
+          },
+          "coords": [
+            14.507,
+            48.51
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein spätes Mittagessen nach dem Museumsbesuch.",
+            "hu": "Ideális hely egy késői ebédhez a múzeumlátogatás után.",
+            "ro": "Un loc ideal pentru un prânz târziu după vizita la muzeu.",
+            "en": "An ideal place for a late lunch after visiting the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang an Stadtmauer & Böhmertor",
+            "hu": "Séta a városfalnál és Cseh kapu",
+            "ro": "Plimbare la zidul orașului și Poarta Bohemiană",
+            "en": "Walk at the City Wall & Bohemian Gate"
+          },
+          "coords": [
+            14.508,
+            48.511
+          ],
+          "category": "historical",
+          "arrive_at": "15:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Verdauungsspaziergang entlang der östlichen Stadtmauer.",
+            "hu": "Zárja a napot egy emésztést segítő sétával a keleti városfal mentén.",
+            "ro": "Încheiați ziua cu o plimbare digestivă de-a lungul zidului estic al orașului.",
+            "en": "End the day with a digestive walk along the eastern city wall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach Ihrer Ankunft am Busbahnhof Freistadt beginnt Ihr autofreier Tag. Ein kurzer Spaziergang bringt Sie direkt ins Herz der Altstadt, zum Hauptplatz. Von hier aus erkunden Sie zu Fuß die gotische Pracht der Stadtpfarrkirche. Der Vormittag gipfelt im Besuch des Schlosses und seines Museums, das die Geschichte des Mühlviertels lebendig werden lässt. Das Mittagessen im Brauhaus ist eine wohlverdiente Pause mit lokalen Bierspezialitäten. Am Nachmittag schlendern Sie entlang der mächtigen Stadtmauern, entdecken die alten Tortürme und genießen die zeitlose Atmosphäre, bevor Sie entspannt den Bus nach Hause nehmen.",
+        "hu": "Miután megérkezik a freistadti buszpályaudvarra, megkezdődik az autómentes napja. Egy rövid séta egyenesen az óváros szívébe, a Fő térre vezet. Innen gyalogosan fedezi fel a plébániatemplom gótikus pompáját. A délelőtt a kastély és múzeumának meglátogatásával csúcsosodik ki, amely életre kelti a Mühlviertel történelmét. Az ebéd a sörfőzdében egy jól megérdemelt szünet helyi sörkülönlegességekkel. Délután a hatalmas városfalak mentén sétál, felfedezi a régi kaputornyokat, és élvezi az időtlen hangulatot, mielőtt nyugodtan hazabuszozna.",
+        "ro": "După sosirea la autogara din Freistadt, începe ziua fără mașină. O scurtă plimbare vă duce direct în inima orașului vechi, în Piața Principală. De aici, explorați pe jos splendoarea gotică a bisericii parohiale. Dimineața culminează cu o vizită la castel și la muzeul său, care aduce la viață istoria regiunii Mühlviertel. Prânzul la berărie este o pauză binemeritată cu specialități locale de bere. După-amiaza, vă plimbați de-a lungul zidurilor puternice ale orașului, descoperiți vechile turnuri de poartă și vă bucurați de atmosfera atemporală înainte de a lua autobuzul spre casă în mod relaxat.",
+        "en": "After arriving at the Freistadt bus station, your car-free day begins. A short walk takes you right into the heart of the old town, the Main Square. From here, you'll explore the Gothic splendor of the parish church on foot. The morning culminates in a visit to the castle and its museum, which brings the history of the Mühlviertel to life. Lunch at the brewhouse is a well-deserved break with local beer specialties. In the afternoon, you'll stroll along the mighty city walls, discover the old gate towers, and enjoy the timeless atmosphere before taking a relaxed bus ride home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brauhaus Freistadt",
+            "tip": "Ein Muss für Bierliebhaber. Probieren Sie das 'Rotschopf' und dazu ein Brauherren-Gulasch."
+          },
+          {
+            "name": "Gasthof 'Zum Goldenen Hirschen'",
+            "tip": "Traditionelle Mühlviertler Küche. Die Leinölerdäpfel sind eine lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brauhaus Freistadt",
+            "tip": "Kötelező a sörkedvelőknek. Kóstolja meg a 'Rotschopf' sört és egy sörfőző gulyást."
+          },
+          {
+            "name": "Gasthof 'Zum Goldenen Hirschen'",
+            "tip": "Hagyományos Mühlviertel-i konyha. A lenolajos burgonya helyi specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brauhaus Freistadt",
+            "tip": "O necesitate pentru iubitorii de bere. Încercați 'Rotschopf' și un gulaș al berarului."
+          },
+          {
+            "name": "Gasthof 'Zum Goldenen Hirschen'",
+            "tip": "Bucătărie tradițională din Mühlviertel. Cartofii cu ulei de in sunt o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brauhaus Freistadt",
+            "tip": "A must for beer lovers. Try the 'Rotschopf' and a Brewer's Goulash."
+          },
+          {
+            "name": "Gasthof 'Zum Goldenen Hirschen'",
+            "tip": "Traditional Mühlviertel cuisine. The linseed oil potatoes are a local specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang an der Stadtmauer",
+            "tip": "Besonders der westliche Teil der Mauer bietet Ruhe und schöne Ausblicke.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Schlosshof",
+            "tip": "Im Innenhof des Schlosses finden Sie oft eine ruhige Ecke.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dechanthofgarten",
+            "tip": "Ein kleiner, versteckter Garten für eine kurze Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a városfal mentén",
+            "tip": "Különösen a fal nyugati része kínál csendet és szép kilátást.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kastélyudvar",
+            "tip": "A kastély belső udvarán gyakran talál egy csendes zugot.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dechanthof kertje",
+            "tip": "Egy kicsi, rejtett kert egy rövid pihenőre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul zidului orașului",
+            "tip": "În special partea de vest a zidului oferă liniște și priveliști frumoase.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea castelului",
+            "tip": "În curtea interioară a castelului veți găsi adesea un colț liniștit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Dechanthof",
+            "tip": "O grădină mică, ascunsă, pentru o pauză scurtă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the City Wall",
+            "tip": "Especially the western part of the wall offers peace and beautiful views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Courtyard",
+            "tip": "You can often find a quiet corner in the castle's inner courtyard.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dechanthof Garden",
+            "tip": "A small, hidden garden for a short break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Braushop Freistadt",
+            "tip": "Bierspezialitäten und Gläser als Souvenir."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Freitagvormittag am Hauptplatz für regionale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Freistadti Sörbolt",
+            "tip": "Sörkülönlegességek és poharak emléktárgyként."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Minden péntek délelőtt a Fő téren, helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul berăriei Freistadt",
+            "tip": "Specialități de bere și pahare ca suveniruri."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare vineri dimineață în Piața Principală pentru produse regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Freistadt Brewery Shop",
+            "tip": "Beer specialties and glasses as souvenirs."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Every Friday morning on the main square for regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan im Voraus, besonders für die Rückfahrt.",
+          "Einmal in Freistadt, sind alle Sehenswürdigkeiten bequem zu Fuß erreichbar.",
+          "Die Bushaltestelle liegt günstig nahe der Altstadt.",
+          "Dieser Plan zeigt, dass man auch ohne Auto einen perfekten Tag in einer mittelalterlichen Stadt verbringen kann."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, különösen a visszaútra.",
+          "Freistadtba érve minden látnivaló kényelmesen elérhető gyalog.",
+          "A buszmegálló kényelmesen, az óváros közelében található.",
+          "Ez a terv megmutatja, hogy autó nélkül is tökéletes napot lehet tölteni egy középkori városban."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, în special pentru călătoria de întoarcere.",
+          "Odată ajuns în Freistadt, toate atracțiile sunt ușor accesibile pe jos.",
+          "Stația de autobuz este situată convenabil, aproape de orașul vechi.",
+          "Acest plan arată că puteți petrece o zi perfectă într-un oraș medieval chiar și fără mașină."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially for the return trip.",
+          "Once in Freistadt, all sights are easily accessible on foot.",
+          "The bus stop is conveniently located near the old town.",
+          "This plan shows that you can have a perfect day in a medieval city even without a car."
+        ]
+      }
+    }
+  }
+}

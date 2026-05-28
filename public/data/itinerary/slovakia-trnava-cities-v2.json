@@ -1,0 +1,1364 @@
+{
+  "city_id": "slovakia-trnava-cities-v2",
+  "anchor": {
+    "name": "Trnava",
+    "coords": [
+      17.5883,
+      48.3775
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Rathaus & Dreifaltigkeitsplatz",
+            "hu": "Történelmi városháza és Szentháromság tér",
+            "ro": "Primăria istorică și Piața Sfintei Treimi",
+            "en": "Historic Town Hall & Holy Trinity Square"
+          },
+          "coords": [
+            17.5855,
+            48.3775
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Stadtturm (Mestská veža)",
+            "hu": "Várostorony (Mestská veža)",
+            "ro": "Turnul Orașului (Mestská veža)",
+            "en": "City Tower (Mestská veža)"
+          },
+          "coords": [
+            17.5858,
+            48.3777
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:52",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Trnavaer Universität",
+            "hu": "Nagyszombati Egyetem",
+            "ro": "Universitatea din Trnava",
+            "en": "Trnava University"
+          },
+          "coords": [
+            17.5845,
+            48.3785
+          ],
+          "category": "historical",
+          "arrive_at": "10:48",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Basilika St. Nikolaus",
+            "hu": "Szent Miklós-bazilika",
+            "ro": "Bazilica Sfântul Nicolae",
+            "en": "Basilica of St. Nicholas"
+          },
+          "coords": [
+            17.5825,
+            48.3795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:56",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Kathedrale des heiligen Johannes des Täufers",
+            "hu": "Keresztelő Szent János-katedrális",
+            "ro": "Catedrala Sfântul Ioan Botezătorul",
+            "en": "Cathedral of St. John the Baptist"
+          },
+          "coords": [
+            17.5899,
+            48.3788
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7
+        },
+        {
+          "name": {
+            "de": "Synagoge Status Quo Ante",
+            "hu": "Status Quo Ante Zsinagóga",
+            "ro": "Sinagoga Status Quo Ante",
+            "en": "Synagogue Status Quo Ante"
+          },
+          "coords": [
+            17.588,
+            48.3755
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:23",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Jan-Koniarek-Galerie",
+            "hu": "Ján Koniarek Galéria",
+            "ro": "Galeria Ján Koniarek",
+            "en": "Ján Koniarek Gallery"
+          },
+          "coords": [
+            17.5875,
+            48.3765
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:12",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Trnava, dem 'slowakischen Rom', beginnt im Herzen der Altstadt. Der Vormittag ist der Erkundung des monumentalen Stadtturms und der historischen Universitätsgebäude gewidmet, die von der reichen Geschichte der Stadt zeugen. Mittags besuchen Sie die beiden prächtigsten Kirchen, die Basilika und die Kathedrale, die die geistliche Bedeutung Trnavas unterstreichen. Der Nachmittag führt Sie in das jüdische Viertel zur Synagoge und zur Jan-Koniarek-Galerie, wo Sie in die Kunst und Kultur eintauchen. Zum Abschluss des Tages genießen Sie die entspannte Atmosphäre der Stadt bei einem Glas Wein aus der Region.",
+        "hu": "A „szlovák Rómának” is nevezett Nagyszombatban a nap a történelmi óváros szívében kezdődik. A délelőtt a város gazdag múltjáról tanúskodó monumentális Várostorony és a történelmi egyetemi épületek felfedezésével telik. Délben a város spirituális jelentőségét hangsúlyozó két legfontosabb templomot, a bazilikát és a katedrálist keresi fel. A délután a zsidó negyedbe, a zsinagógához és a Ján Koniarek Galériába vezet, ahol elmerülhet a művészetben és a kultúrában. A nap végén egy pohár helyi bor mellett élvezheti a város nyugodt hangulatát.",
+        "ro": "Ziua dumneavoastră în Trnava, 'Mica Romă a Slovaciei', începe în inima orașului vechi. Dimineața este dedicată explorării monumentalului Turn al Orașului și clădirilor istorice ale universității, care mărturisesc istoria bogată a orașului. La prânz, veți vizita cele mai importante două biserici, Bazilica și Catedrala, care subliniază importanța spirituală a Trnavei. După-amiaza vă va purta în cartierul evreiesc la Sinagogă și la Galeria Ján Koniarek, unde vă veți cufunda în artă și cultură. La sfârșitul zilei, bucurați-vă de atmosfera relaxată a orașului cu un pahar de vin local.",
+        "en": "Your day in Trnava, the 'Slovak Rome', begins in the heart of the old town. The morning is dedicated to exploring the monumental City Tower and the historic university buildings, which testify to the city's rich history. At noon, you will visit the two most important churches, the Basilica and the Cathedral, highlighting Trnava's spiritual significance. The afternoon takes you to the Jewish quarter to the Synagogue and the Ján Koniarek Gallery, where you can immerse yourself in art and culture. At the end of the day, enjoy the relaxed atmosphere of the city with a glass of local wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokše",
+            "tip": "Probieren Sie diese Kartoffelfladen, oft mit Gänsefett oder Mohn serviert. Suchen Sie nach Restaurants wie 'Sessler' für eine authentische Erfahrung."
+          },
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Obwohl es ein Nationalgericht ist, finden Sie auch in Trnava ausgezeichnete Versionen. Ein Muss für jeden Besucher."
+          },
+          {
+            "name": "Trnavský medovník",
+            "tip": "Ein lokaler Honigkuchen, perfekt als süßer Snack. Kaufen Sie ihn in einer örtlichen Bäckerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lokše (tócsni)",
+            "tip": "Kóstolja meg ezt a krumplilángost, gyakran libazsírral vagy mákkal tálalva. Keressen olyan éttermeket, mint a 'Sessler' az autentikus élményért."
+          },
+          {
+            "name": "Bryndzové halušky (juhtúrós galuska)",
+            "tip": "Bár ez egy nemzeti étel, Nagyszombatban is talál kiváló változatokat. Minden látogatónak kötelező."
+          },
+          {
+            "name": "Trnavský medovník (Nagyszombati mézeskalács)",
+            "tip": "Helyi mézes sütemény, tökéletes édes falat. Vásárolja meg egy helyi pékségben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lokše",
+            "tip": "Încercați aceste turte de cartofi, adesea servite cu untură de gâscă sau mac. Căutați restaurante precum 'Sessler' pentru o experiență autentică."
+          },
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Deși este un fel de mâncare național, veți găsi versiuni excelente și în Trnava. O necesitate pentru orice vizitator."
+          },
+          {
+            "name": "Trnavský medovník",
+            "tip": "O prăjitură locală cu miere, perfectă ca gustare dulce. Cumpărați-o de la o brutărie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lokše",
+            "tip": "Try these potato flatbreads, often served with goose fat or poppy seeds. Look for restaurants like 'Sessler' for an authentic experience."
+          },
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Although it's a national dish, you'll find excellent versions in Trnava too. A must-try for any visitor."
+          },
+          {
+            "name": "Trnavský medovník",
+            "tip": "A local honey cake, perfect as a sweet snack. Buy it from a local bakery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang der Stadtmauer",
+            "tip": "Finden Sie einen ruhigen Abschnitt der alten Befestigungsanlagen für einen friedlichen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rosengarten (Ružový park)",
+            "tip": "Ein wunderschöner Park, ideal für eine Pause vom Trubel der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchplatz der Basilika St. Nikolaus",
+            "tip": "Der Platz hinter der Basilika ist oft ruhig und bietet eine schöne Aussicht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a városfal mentén",
+            "tip": "Keressen egy csendes szakaszt a régi erődítmények mentén egy békés sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rózsakert (Ružový park)",
+            "tip": "Egy gyönyörű park, ideális egy kis pihenésre a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Miklós-bazilika tere",
+            "tip": "A bazilika mögötti tér gyakran csendes és szép kilátást nyújt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul zidurilor orașului",
+            "tip": "Găsiți o secțiune liniștită a vechilor fortificații pentru o plimbare pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina cu trandafiri (Ružový park)",
+            "tip": "Un parc frumos, ideal pentru o pauză de la agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piața Bazilicii Sf. Nicolae",
+            "tip": "Piața din spatele bazilicii este adesea liniștită și oferă o priveliște frumoasă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the City Walls",
+            "tip": "Find a quiet section of the old fortifications for a peaceful stroll.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rose Garden (Ružový park)",
+            "tip": "A beautiful park, ideal for a break from the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Square of St. Nicholas Basilica",
+            "tip": "The square behind the basilica is often quiet and offers a nice view.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weine",
+            "tip": "Die Region Trnava ist für ihren Wein bekannt. Besuchen Sie ein Weingeschäft, um eine Flasche mit nach Hause zu nehmen."
+          },
+          {
+            "name": "Handwerkskunst",
+            "tip": "Auf dem Hauptplatz und in den Seitengassen finden Sie Geschäfte, die lokales slowakisches Handwerk verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "A nagyszombati régió híres a borairól. Látogasson el egy borboltba, és vigyen haza egy üveggel."
+          },
+          {
+            "name": "Kézműves termékek",
+            "tip": "A főtéren és a mellékutcákban helyi szlovák kézműves termékeket árusító üzleteket talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Regiunea Trnava este cunoscută pentru vinul său. Vizitați un magazin de vinuri pentru a lua o sticlă acasă."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "În piața principală și pe străduțele lăturalnice veți găsi magazine care vând produse artizanale slovace locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wines",
+            "tip": "The Trnava region is known for its wine. Visit a wine shop to take a bottle home."
+          },
+          {
+            "name": "Local Crafts",
+            "tip": "In the main square and side streets, you'll find shops selling local Slovak crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das gesamte Zentrum aus Kopfsteinpflaster besteht.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie zusätzliche Zeit ein, um einfach durch die malerischen Gassen zu schlendern.",
+          "Einige kleinere Museen haben möglicherweise mittags geschlossen; überprüfen Sie die Öffnungszeiten im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az egész központ macskaköves.",
+          "A legtöbb központi látnivaló könnyen megközelíthető gyalog.",
+          "Szánjon extra időt arra, hogy csak sétálgasson a festői sikátorokban.",
+          "Néhány kisebb múzeum délben bezárhat; ellenőrizze a nyitvatartási időt előre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece întregul centru este pavat cu piatră cubică.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați timp suplimentar pentru a vă plimba pur și simplu pe aleile pitorești.",
+          "Unele muzee mai mici ar putea fi închise la prânz; verificați orele de deschidere în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes as the entire center is cobblestoned.",
+          "Most sights in the center are easily within walking distance.",
+          "Plan for extra time just to wander through the picturesque alleyways.",
+          "Some smaller museums might close for lunch; check their opening hours beforehand."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtturm & Hauptplatz",
+            "hu": "Várostorony és Fő tér",
+            "ro": "Turnul Orașului și Piața Principală",
+            "en": "City Tower & Main Square"
+          },
+          "coords": [
+            17.5858,
+            48.3777
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Trnavaer Universität & Kathedrale",
+            "hu": "Nagyszombati Egyetem és Katedrális",
+            "ro": "Universitatea și Catedrala din Trnava",
+            "en": "Trnava University & Cathedral"
+          },
+          "coords": [
+            17.589,
+            48.3788
+          ],
+          "category": "historical",
+          "arrive_at": "10:01",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name": {
+            "de": "Synagoge Status Quo Ante",
+            "hu": "Status Quo Ante Zsinagóga",
+            "ro": "Sinagoga Status Quo Ante",
+            "en": "Synagogue Status Quo Ante"
+          },
+          "coords": [
+            17.588,
+            48.3755
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6
+        },
+        {
+          "name": {
+            "de": "Jan-Koniarek-Galerie",
+            "hu": "Ján Koniarek Galéria",
+            "ro": "Galeria Ján Koniarek",
+            "en": "Ján Koniarek Gallery"
+          },
+          "coords": [
+            17.5875,
+            48.3765
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Orașul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            17.586,
+            48.377
+          ],
+          "category": "gastro",
+          "arrive_at": "13:19",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Basilika St. Nikolaus",
+            "hu": "Szent Miklós-bazilika",
+            "ro": "Bazilica Sfântul Nicolae",
+            "en": "Basilica of St. Nicholas"
+          },
+          "coords": [
+            17.5825,
+            48.3795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:34",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8
+        },
+        {
+          "name": {
+            "de": "Stadtmauer von Trnava",
+            "hu": "Nagyszombat városfala",
+            "ro": "Zidurile orașului Trnava",
+            "en": "City Walls of Trnava"
+          },
+          "coords": [
+            17.58,
+            48.378
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:28",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Rosengarten (Ružový park)",
+            "hu": "Rózsakert (Ružový park)",
+            "ro": "Grădina cu trandafiri (Ružový park)",
+            "en": "Rose Garden (Ružový park)"
+          },
+          "coords": [
+            17.575,
+            48.375
+          ],
+          "category": "park",
+          "arrive_at": "16:16",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Trnava schnell und flexibel. Beginnen Sie am Hauptplatz, radeln Sie zu den beeindruckenden Kirchen und der Universität. Nach einem Besuch der Synagoge und der Kunstgalerie stärken Sie sich beim Mittagessen. Am Nachmittag entdecken Sie die ruhigere Seite der Stadt bei der St.-Nikolaus-Basilika und den alten Stadtmauern, bevor Sie im Rosengarten entspannen. Das Fahrrad ermöglicht es Ihnen, auch die grünen Oasen der Stadt leicht zu erreichen.",
+        "hu": "Kerékpárral gyorsan és rugalmasan fedezheti fel Nagyszombatot. Induljon a főtérről, tekerjen el a lenyűgöző templomokhoz és az egyetemhez. A zsinagóga és a művészeti galéria meglátogatása után ebédeljen egy jót. Délután fedezze fel a város csendesebb oldalát a Szent Miklós-bazilikánál és a régi városfalaknál, mielőtt a Rózsakertben pihenne. A kerékpárral a város zöld oázisait is könnyedén elérheti.",
+        "ro": "Cu bicicleta, explorați Trnava rapid și flexibil. Începeți din piața principală, pedalați spre bisericile impresionante și universitate. După o vizită la sinagogă și la galeria de artă, luați prânzul. După-amiaza, descoperiți partea mai liniștită a orașului la Bazilica Sf. Nicolae și la vechile ziduri ale orașului, înainte de a vă relaxa în Grădina cu Trandafiri. Bicicleta vă permite să ajungeți cu ușurință și la oazele verzi ale orașului.",
+        "en": "By bike, you can explore Trnava quickly and flexibly. Start at the main square, cycle to the impressive churches and the university. After visiting the synagogue and the art gallery, have lunch. In the afternoon, discover the quieter side of the city at St. Nicholas Basilica and the old city walls, before relaxing in the Rose Garden. The bike allows you to easily reach the city's green oases as well."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Živánska",
+            "tip": "Ein herzhaftes Gericht aus Fleisch und Gemüse, im Feuer gebraten. Perfekt nach einer Radtour."
+          },
+          {
+            "name": "Fassbier",
+            "tip": "Genießen Sie ein lokales Bier in einem der vielen Pubs. Brauerei Sessler ist eine gute Wahl."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Die slowakische Antwort auf Cola, ein erfrischendes Getränk für eine Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zsiványpecsenye",
+            "tip": "Húsból és zöldségekből készült, parázson sült kiadós étel. Tökéletes egy kerékpártúra után."
+          },
+          {
+            "name": "Csapolt sör",
+            "tip": "Élvezzen egy helyi sört a sok kocsma egyikében. A Sessler sörfőzde jó választás."
+          },
+          {
+            "name": "Kofola",
+            "tip": "A szlovák válasz a kólára, frissítő ital egy kis szünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Živánska",
+            "tip": "Un fel de mâncare consistent din carne și legume, fript la foc. Perfect după un tur cu bicicleta."
+          },
+          {
+            "name": "Berea la halbă",
+            "tip": "Bucurați-vă de o bere locală într-unul din numeroasele pub-uri. Fabrica de bere Sessler este o alegere bună."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Răspunsul slovac la Coca-Cola, o băutură răcoritoare pentru o pauză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Živánska",
+            "tip": "A hearty dish of meat and vegetables roasted over a fire. Perfect after a bike ride."
+          },
+          {
+            "name": "Draught Beer",
+            "tip": "Enjoy a local beer in one of the many pubs. Sessler brewery is a good choice."
+          },
+          {
+            "name": "Kofola",
+            "tip": "The Slovak answer to Coke, a refreshing drink for a break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Trnávka",
+            "tip": "Finden Sie einen ruhigen Platz am kleinen Fluss, der durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kupecká Straße",
+            "tip": "Eine der ruhigeren Gassen in der Altstadt, perfekt für einen entspannten Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park Janka Kráľa",
+            "tip": "Ein größerer Park etwas außerhalb des Zentrums, leicht mit dem Fahrrad zu erreichen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Trnávka folyó partja",
+            "tip": "Keressen egy csendes helyet a városon átfolyó kis folyó partján.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kupecká utca",
+            "tip": "Az óváros egyik csendesebb sikátora, tökéletes egy nyugodt sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Janko Kráľ park",
+            "tip": "Egy nagyobb park a központon kívül, könnyen elérhető kerékpárral.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Trnávka",
+            "tip": "Găsiți un loc liniștit pe malul micului râu care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strada Kupecká",
+            "tip": "Una dintre aleile mai liniștite din orașul vechi, perfectă pentru o plimbare relaxantă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Janka Kráľa",
+            "tip": "Un parc mai mare, puțin în afara centrului, ușor accesibil cu bicicleta.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Trnávka River",
+            "tip": "Find a quiet spot by the small river that flows through the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kupecká Street",
+            "tip": "One of the quieter alleys in the old town, perfect for a relaxed stroll.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Janka Kráľa Park",
+            "tip": "A larger park just outside the center, easily reachable by bike.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "In Trnava gibt es mehrere Fahrradgeschäfte für eventuelle Bedürfnisse."
+          },
+          {
+            "name": "Regionale Produkte",
+            "tip": "Halten Sie Ausschau nach kleinen Geschäften, die Honig, Käse oder Wein aus der Region verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "Nagyszombatban több kerékpárbolt is található az esetleges igények kielégítésére."
+          },
+          {
+            "name": "Helyi termékek",
+            "tip": "Keresse a kis boltokat, ahol mézet, sajtot vagy bort árulnak a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Există mai multe magazine de biciclete în Trnava pentru orice nevoie."
+          },
+          {
+            "name": "Produse regionale",
+            "tip": "Căutați magazine mici care vând miere, brânză sau vin din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessories",
+            "tip": "There are several bike shops in Trnava for any needs."
+          },
+          {
+            "name": "Regional Products",
+            "tip": "Look for small shops selling honey, cheese, or wine from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Stadtzentrum ist fahrradfreundlich, aber achten Sie auf Fußgänger in den Hauptstraßen.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an belebten Plätzen.",
+          "Nutzen Sie die Radwege entlang der Stadtmauern für eine malerische Tour.",
+          "Einige Gassen könnten zu eng zum Radfahren sein; steigen Sie ab und schieben Sie."
+        ],
+        "hu": [
+          "A városközpont kerékpárbarát, de figyeljen a gyalogosokra a főutcákon.",
+          "Mindig zárja le jól a kerékpárját, különösen a forgalmas helyeken.",
+          "Használja a városfalak menti kerékpárutakat egy festői túrához.",
+          "Néhány sikátor túl szűk lehet a kerékpározáshoz; szálljon le és tolja."
+        ],
+        "ro": [
+          "Centrul orașului este prietenos cu bicicletele, dar fiți atenți la pietoni pe străzile principale.",
+          "Legați-vă întotdeauna bine bicicleta, mai ales în locurile aglomerate.",
+          "Folosiți pistele de biciclete de-a lungul zidurilor orașului pentru un tur pitoresc.",
+          "Unele alei ar putea fi prea înguste pentru ciclism; descălecați și împingeți."
+        ],
+        "en": [
+          "The city center is bike-friendly, but watch out for pedestrians on the main streets.",
+          "Always lock your bike securely, especially in busy places.",
+          "Use the bike paths along the city walls for a scenic tour.",
+          "Some alleys might be too narrow for cycling; dismount and walk."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 5.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Zentrum & Start Cluster 1",
+            "hu": "Központi Parkolóház és 1. Klaszter kezdete",
+            "ro": "Parcare Centrală & Start Cluster 1",
+            "en": "Central Parking Garage & Start of Cluster 1"
+          },
+          "coords": [
+            17.591,
+            48.376
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Kathedrale des heiligen Johannes des Täufers",
+            "hu": "Keresztelő Szent János-katedrális",
+            "ro": "Catedrala Sfântul Ioan Botezătorul",
+            "en": "Cathedral of St. John the Baptist"
+          },
+          "coords": [
+            17.5899,
+            48.3788
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:28",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Trnavaer Universität",
+            "hu": "Nagyszombati Egyetem",
+            "ro": "Universitatea din Trnava",
+            "en": "Trnava University"
+          },
+          "coords": [
+            17.5845,
+            48.3785
+          ],
+          "category": "historical",
+          "arrive_at": "10:48",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Stadtturm & Historisches Rathaus",
+            "hu": "Várostorony és Történelmi Városháza",
+            "ro": "Turnul Orașului și Primăria Istorică",
+            "en": "City Tower & Historic Town Hall"
+          },
+          "coords": [
+            17.5858,
+            48.3777
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:41",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Fahrt zu Cluster 2 & Parken",
+            "hu": "Utazás a 2. Klaszterhez és Parkolás",
+            "ro": "Deplasare la Cluster 2 & Parcare",
+            "en": "Drive to Cluster 2 & Parking"
+          },
+          "coords": [
+            17.581,
+            48.38
+          ],
+          "category": "transport",
+          "arrive_at": "13:00",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 4
+        },
+        {
+          "name": {
+            "de": "Basilika St. Nikolaus",
+            "hu": "Szent Miklós-bazilika",
+            "ro": "Bazilica Sfântul Nicolae",
+            "en": "Basilica of St. Nicholas"
+          },
+          "coords": [
+            17.5825,
+            48.3795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:12",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Spaziergang an der Stadtmauer",
+            "hu": "Séta a Városfalnál",
+            "ro": "Plimbare pe Zidurile Orașului",
+            "en": "Walk at the City Walls"
+          },
+          "coords": [
+            17.58,
+            48.378
+          ],
+          "category": "historical",
+          "arrive_at": "14:06",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto nutzen Sie die Cluster-Walking-Strategie für ein entspanntes Erlebnis. Sie parken im ersten Cluster und erkunden zu Fuß die Kathedrale, die Universität und den Stadtturm. Nach dem Mittagessen fahren Sie zum zweiten Cluster. Dort parken Sie erneut und besuchen die Basilika St. Nikolaus und die nahegelegenen Stadtmauern. Diese Methode kombiniert den Komfort des Autos mit der intensiven Erfahrung eines Stadtspaziergangs, ohne ständige Parkplatzsuche.",
+        "hu": "Autóval a klaszteres séta stratégiáját alkalmazva pihentető élményben lesz része. Lepparkol az első klaszternél, és gyalog fedezi fel a katedrálist, az egyetemet és a Várostornyot. Ebéd után áthajt a második klaszterhez. Itt újra leparkol, és meglátogatja a Szent Miklós-bazilikát és a közeli városfalakat. Ez a módszer ötvözi az autó kényelmét a városi séta intenzív élményével, anélkül, hogy állandóan parkolóhelyet kellene keresnie.",
+        "ro": "Cu mașina, folosiți strategia de plimbare pe clustere pentru o experiență relaxantă. Parcați în primul cluster și explorați pe jos catedrala, universitatea și Turnul Orașului. După prânz, conduceți spre al doilea cluster. Parcați din nou și vizitați Bazilica Sf. Nicolae și zidurile orașului din apropiere. Această metodă combină confortul mașinii cu experiența intensă a unei plimbări prin oraș, fără căutarea constantă a unui loc de parcare.",
+        "en": "By car, you use the cluster-walking strategy for a relaxed experience. Park in the first cluster and explore the cathedral, university, and City Tower on foot. After lunch, you drive to the second cluster. There, you park again and visit the Basilica of St. Nicholas and the nearby city walls. This method combines the convenience of a car with the immersive experience of a city walk, without the constant search for parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Reštaurácia Forhaus",
+            "tip": "Befindet sich direkt am Hauptplatz und bietet eine Mischung aus slowakischer und internationaler Küche."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Obwohl es eher eine Touristenattraktion ist, ist dieser süße Gebäckzylinder ein leckerer Genuss."
+          },
+          {
+            "name": "Slowakischer Wein",
+            "tip": "Die Region Malé Karpaty (Kleine Karpaten) in der Nähe von Trnava ist berühmt für ihre Weißweine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forhaus étterem",
+            "tip": "Közvetlenül a főtéren található, szlovák és nemzetközi ételek keverékét kínálja."
+          },
+          {
+            "name": "Kürtőskalács (Trdelník)",
+            "tip": "Bár inkább turisztikai látványosság, ez az édes sütemény finom csemege."
+          },
+          {
+            "name": "Szlovák bor",
+            "tip": "A Nagyszombat melletti Kis-Kárpátok (Malé Karpaty) borvidéke híres a fehérborairól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Forhaus",
+            "tip": "Situat chiar în piața principală, oferă un amestec de bucătărie slovacă și internațională."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Deși este mai mult o atracție turistică, acest cilindru de patiserie dulce este un deliciu gustos."
+          },
+          {
+            "name": "Vin slovac",
+            "tip": "Regiunea Malé Karpaty (Carpații Mici) de lângă Trnava este renumită pentru vinurile sale albe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Forhaus Restaurant",
+            "tip": "Located right on the main square, offering a mix of Slovak and international cuisine."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Although more of a tourist attraction, this sweet pastry cylinder is a tasty treat."
+          },
+          {
+            "name": "Slovak Wine",
+            "tip": "The Malé Karpaty (Little Carpathians) region near Trnava is famous for its white wines."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bernolákov sad",
+            "tip": "Ein ruhiger Park entlang eines Teils der alten Stadtmauern.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof neben der Basilika",
+            "tip": "Historische Friedhöfe können überraschend friedliche Orte für einen Spaziergang sein.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fahrt in die Kleinen Karpaten",
+            "tip": "Wenn Sie Zeit haben, fahren Sie zu den nahegelegenen Weinbergen für eine atemberaubende Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bernolák park",
+            "tip": "Csendes park a régi városfalak egy része mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Temető a bazilika mellett",
+            "tip": "A történelmi temetők meglepően békés helyek lehetnek egy sétához.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kirándulás a Kis-Kárpátokba",
+            "tip": "Ha van ideje, hajtson el a közeli szőlőültetvényekhez a lélegzetelállító kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bernolákov sad",
+            "tip": "Un parc liniștit de-a lungul unei părți a vechilor ziduri ale orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de lângă bazilică",
+            "tip": "Cimitirele istorice pot fi locuri surprinzător de pașnice pentru o plimbare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Excursie în Carpații Mici",
+            "tip": "Dacă aveți timp, conduceți spre podgoriile din apropiere pentru o priveliște uluitoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bernolákov sad",
+            "tip": "A quiet park along a part of the old city walls.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery next to the Basilica",
+            "tip": "Historic cemeteries can be surprisingly peaceful places for a walk.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Drive to the Little Carpathians",
+            "tip": "If you have time, drive to the nearby vineyards for a breathtaking view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "City Arena",
+            "tip": "Ein modernes Einkaufszentrum neben dem Fußballstadion für alle Ihre Einkaufsbedürfnisse."
+          },
+          {
+            "name": "Modranská Keramik",
+            "tip": "Suchen Sie nach dieser berühmten blauen Keramik aus der nahe gelegenen Stadt Modra."
+          }
+        ],
+        "hu": [
+          {
+            "name": "City Arena",
+            "tip": "Modern bevásárlóközpont a futballstadion mellett minden vásárlási igény kielégítésére."
+          },
+          {
+            "name": "Modori kerámia",
+            "tip": "Keresse ezt a híres kék kerámiát a közeli Modor városából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "City Arena",
+            "tip": "Un centru comercial modern lângă stadionul de fotbal pentru toate nevoile de cumpărături."
+          },
+          {
+            "name": "Ceramică Modranská",
+            "tip": "Căutați această faimoasă ceramică albastră din orașul apropiat Modra."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Arena",
+            "tip": "A modern shopping mall next to the football stadium for all your shopping needs."
+          },
+          {
+            "name": "Modranská ceramics",
+            "tip": "Look for this famous blue pottery from the nearby town of Modra."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren im Voraus; das Parken im Zentrum kann teuer sein.",
+          "Die Altstadt ist eine Umweltzone; stellen Sie sicher, dass Ihr Fahrzeug die Anforderungen erfüllt.",
+          "Verwenden Sie eine Navigations-App, um Parkhäuser in der Nähe Ihrer Cluster zu finden.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen, während Sie die Cluster erkunden."
+        ],
+        "hu": [
+          "Ellenőrizze előre a parkolási díjakat; a központi parkolás drága lehet.",
+          "Az óváros környezetvédelmi zóna; győződjön meg róla, hogy járműve megfelel a követelményeknek.",
+          "Használjon navigációs alkalmazást, hogy parkolóházakat találjon a klaszterek közelében.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban, amíg a klasztereket fedezi fel."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în avans; parcarea în centru poate fi scumpă.",
+          "Orașul vechi este o zonă cu emisii scăzute; asigurați-vă că vehiculul dvs. respectă cerințele.",
+          "Folosiți o aplicație de navigație pentru a găsi parcări în apropierea clusterelor.",
+          "Nu lăsați obiecte de valoare la vedere în mașină în timp ce explorați clusterele."
+        ],
+        "en": [
+          "Check parking fees in advance; parking in the center can be expensive.",
+          "The old town is a low-emission zone; make sure your vehicle complies.",
+          "Use a navigation app to find parking garages near your clusters.",
+          "Do not leave valuables visible in the car while exploring the clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof & Start Cluster 1",
+            "hu": "Érkezés a buszpályaudvarra és 1. Klaszter kezdete",
+            "ro": "Sosire la autogară & Start Cluster 1",
+            "en": "Arrival at Bus Station & Start of Cluster 1"
+          },
+          "coords": [
+            17.594,
+            48.373
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Synagoge & Jan-Koniarek-Galerie",
+            "hu": "Zsinagóga és Ján Koniarek Galéria",
+            "ro": "Sinagoga și Galeria Ján Koniarek",
+            "en": "Synagogue & Ján Koniarek Gallery"
+          },
+          "coords": [
+            17.588,
+            48.3755
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:33",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Fahrt zu Cluster 2 (Hauptplatz)",
+            "hu": "Utazás a 2. Klaszterhez (Fő tér)",
+            "ro": "Deplasare la Cluster 2 (Piața Principală)",
+            "en": "Transit to Cluster 2 (Main Square)"
+          },
+          "coords": [
+            17.586,
+            48.377
+          ],
+          "category": "transport",
+          "arrive_at": "11:23",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Stadtturm & Historisches Rathaus",
+            "hu": "Várostorony és Történelmi Városháza",
+            "ro": "Turnul Orașului și Primăria Istorică",
+            "en": "City Tower & Historic Town Hall"
+          },
+          "coords": [
+            17.5858,
+            48.3777
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:30",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Kathedrale des heiligen Johannes des Täufers",
+            "hu": "Keresztelő Szent János-katedrális",
+            "ro": "Catedrala Sfântul Ioan Botezătorul",
+            "en": "Cathedral of St. John the Baptist"
+          },
+          "coords": [
+            17.5899,
+            48.3788
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:48",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Basilika St. Nikolaus",
+            "hu": "Szent Miklós-bazilika",
+            "ro": "Bazilica Sfântul Nicolae",
+            "en": "Basilica of St. Nicholas"
+          },
+          "coords": [
+            17.5825,
+            48.3795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:12",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Trnava effizient. Sie beginnen im südlichen Teil der Altstadt, wo Sie die Synagoge und eine Kunstgalerie besichtigen. Ein kurzer Bus- oder Trolleybus-Trip bringt Sie dann ins Zentrum des Geschehens am Hauptplatz. Von dort aus erkunden Sie zu Fuß den Stadtturm, die prächtige Kathedrale und die ruhige Basilika. Dieser Plan zeigt, wie Sie mit einer einzigen Fahrt die wichtigsten Bereiche der Stadt verbinden können.",
+        "hu": "Tömegközlekedéssel hatékonyan fedezheti fel Nagyszombatot. Az óváros déli részén kezdi, ahol meglátogatja a zsinagógát és egy művészeti galériát. Egy rövid busz- vagy trolibuszút elviszi a főtér központi forgatagába. Onnan gyalog fedezi fel a Várostornyot, a pompás katedrálist és a csendes bazilikát. Ez a terv bemutatja, hogyan kötheti össze a város legfontosabb területeit egyetlen utazással.",
+        "ro": "Cu transportul public, explorați Trnava eficient. Începeți în partea de sud a orașului vechi, unde vizitați sinagoga și o galerie de artă. O scurtă călătorie cu autobuzul sau troleibuzul vă duce apoi în centrul acțiunii, în Piața Principală. De acolo, explorați pe jos Turnul Orașului, catedrala magnifică și bazilica liniștită. Acest plan arată cum puteți conecta principalele zone ale orașului cu o singură călătorie.",
+        "en": "Using public transport, you can explore Trnava efficiently. You start in the southern part of the old town, visiting the synagogue and an art gallery. A short bus or trolleybus trip then takes you to the center of the action at the main square. From there, you explore the City Tower, the magnificent cathedral, and the quiet basilica on foot. This plan shows how you can connect the main areas of the city with a single transit ride."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Piváreň a reštaurácia Bokovka",
+            "tip": "Beliebt bei Einheimischen für gutes Bier und herzhafte slowakische Gerichte."
+          },
+          {
+            "name": "Kapustnica",
+            "tip": "Eine traditionelle Sauerkrautsuppe, besonders beliebt in den kälteren Monaten."
+          },
+          {
+            "name": "Süßwarenläden",
+            "tip": "Entlang der Hauptstraße Štefánikova trieda finden Sie viele Cafés mit köstlichen Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bokovka söröző és étterem",
+            "tip": "A helyiek körében népszerű a jó sör és a kiadós szlovák ételek miatt."
+          },
+          {
+            "name": "Kapustnica (káposztaleves)",
+            "tip": "Hagyományos savanyúkáposzta-leves, különösen népszerű a hidegebb hónapokban."
+          },
+          {
+            "name": "Cukrászdák",
+            "tip": "A főutcán, a Štefánikova triedán, számos kávézót talál finom süteményekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piváreň a reštaurácia Bokovka",
+            "tip": "Popular printre localnici pentru bere bună și mâncăruri slovace consistente."
+          },
+          {
+            "name": "Kapustnica",
+            "tip": "O supă tradițională de varză acră, deosebit de populară în lunile mai reci."
+          },
+          {
+            "name": "Cofetării",
+            "tip": "De-a lungul străzii principale Štefánikova trieda veți găsi multe cafenele cu prăjituri delicioase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piváreň a reštaurácia Bokovka",
+            "tip": "Popular with locals for good beer and hearty Slovak dishes."
+          },
+          {
+            "name": "Kapustnica",
+            "tip": "A traditional sauerkraut soup, especially popular in the colder months."
+          },
+          {
+            "name": "Pastry Shops",
+            "tip": "Along the main street, Štefánikova trieda, you'll find many cafes with delicious cakes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Ein ruhiger Ort, um dem Stadtlärm zu entfliehen, oft mit dem Bus erreichbar.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kuppel der Kathedrale",
+            "tip": "Wenn der Zugang möglich ist, bietet die Höhe eine ruhige Perspektive.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lesen im Park",
+            "tip": "Nehmen Sie ein Buch mit und entspannen Sie sich auf einer Bank im Bernolákov sad.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus Kert",
+            "tip": "Csendes hely a város zajától való elmeneküléshez, gyakran busszal is elérhető.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A katedrális kupolája",
+            "tip": "Ha a bejutás lehetséges, a magasság csendes perspektívát kínál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olvasás a parkban",
+            "tip": "Vigyen magával egy könyvet, és pihenjen egy padon a Bernolák parkban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Un loc liniștit pentru a scăpa de zgomotul orașului, adesea accesibil cu autobuzul.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cupola catedralei",
+            "tip": "Dacă accesul este posibil, înălțimea oferă o perspectivă liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Citit în parc",
+            "tip": "Luați o carte și relaxați-vă pe o bancă în parcul Bernolákov sad.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "A quiet place to escape the city noise, often accessible by bus.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dome of the Cathedral",
+            "tip": "If access is possible, the height offers a quiet perspective.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Reading in the park",
+            "tip": "Take a book and relax on a bench in Bernolákov sad park.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Überprüfen Sie, ob während Ihres Besuchs ein lokaler Markt stattfindet, um frische Produkte zu kaufen."
+          },
+          {
+            "name": "Buchhandlungen",
+            "tip": "Trnava hat mehrere charmante Buchhandlungen, in denen Sie ein slowakisches Buch als Souvenir finden können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Ellenőrizze, hogy tartanak-e helyi piacot a látogatása során, ahol friss termékeket vásárolhat."
+          },
+          {
+            "name": "Könyvesboltok",
+            "tip": "Nagyszombatban több hangulatos könyvesbolt is található, ahol szuvenírként találhat egy szlovák könyvet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața fermierilor",
+            "tip": "Verificați dacă există o piață locală în timpul vizitei dvs. pentru a cumpăra produse proaspete."
+          },
+          {
+            "name": "Librării",
+            "tip": "Trnava are mai multe librării fermecătoare unde puteți găsi o carte slovacă ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmers' Market",
+            "tip": "Check if there's a local market during your visit to buy fresh produce."
+          },
+          {
+            "name": "Bookstores",
+            "tip": "Trnava has several charming bookstores where you can find a Slovak book as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel für das beste Preis-Leistungs-Verhältnis.",
+          "Laden Sie die offizielle Nahverkehrs-App von Trnava herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Die meisten Busse sind modern, aber halten Sie Kleingeld für den Fall bereit, dass Sie ein Ticket beim Fahrer kaufen müssen.",
+          "Achten Sie auf die Ansagen der Haltestellen oder verfolgen Sie Ihre Position auf einer Karte, um nicht Ihre Haltestelle zu verpassen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a legjobb ár-érték arány érdekében.",
+          "Töltse le Nagyszombat hivatalos tömegközlekedési alkalmazását a valós idejű menetrendekért.",
+          "A legtöbb busz modern, de tartson magánál aprópénzt arra az esetre, ha a sofőrtől kell jegyet vennie.",
+          "Figyelje a megálló-bemondásokat, vagy kövesse a pozícióját a térképen, nehogy lekéstje a megállóját."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru cel mai bun raport calitate-preț.",
+          "Descărcați aplicația oficială de transport public din Trnava pentru a vedea orarele în timp real.",
+          "Majoritatea autobuzelor sunt moderne, dar pregătiți mărunțiș în caz că trebuie să cumpărați un bilet de la șofer.",
+          "Fiți atenți la anunțurile stațiilor sau urmăriți-vă poziția pe o hartă pentru a nu rata stația."
+        ],
+        "en": [
+          "Buy a day pass for public transport for the best value.",
+          "Download the official Trnava public transport app for real-time schedules.",
+          "Most buses are modern, but have some change ready in case you need to buy a ticket from the driver.",
+          "Pay attention to the stop announcements or track your location on a map to not miss your stop."
+        ]
+      }
+    }
+  }
+}

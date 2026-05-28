@@ -1,0 +1,1515 @@
+{
+  "city_id": "belgium-chatelet-cities-v2",
+  "anchor": {
+    "name": "Châtelet",
+    "coords": [
+      4.5284,
+      50.4032
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Perron",
+            "hu": "Perron tér",
+            "ro": "Piața Perron",
+            "en": "Perron Square"
+          },
+          "coords": [
+            4.528,
+            50.4035
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das städtische Treiben.",
+            "hu": "Kezdje a napot egy kávéval a téren, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, observând agitația orașului.",
+            "en": "Start your day here with a coffee, watching the town's hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            4.5275,
+            50.4038
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und suchen Sie nach dem Stadtwappen.",
+            "hu": "Csodálja meg az építészetet, és keresse a város címerét.",
+            "ro": "Admirați arhitectura și căutați stema orașului.",
+            "en": "Admire the architecture and look for the town's coat of arms."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saints-Pierre-et-Paul",
+            "hu": "Szent Péter és Pál templom",
+            "ro": "Biserica Sfinții Petru și Pavel",
+            "en": "Saints-Pierre-et-Paul Church"
+          },
+          "coords": [
+            4.529,
+            50.4045
+          ],
+          "category": "churches",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Buntglasfenster, die biblische Szenen darstellen.",
+            "hu": "Figyelje meg a bibliai jeleneteket ábrázoló ólomüveg ablakokat.",
+            "ro": "Fiți atenți la vitraliile care înfățișează scene biblice.",
+            "en": "Pay attention to the stained-glass windows depicting biblical scenes."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Roch",
+            "hu": "Szent Rókus kápolna",
+            "ro": "Capela Saint-Roch",
+            "en": "Saint-Roch Chapel"
+          },
+          "coords": [
+            4.524,
+            50.406
+          ],
+          "category": "churches",
+          "arrive_at": "11:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kleiner, ruhiger Ort für einen Moment der Besinnung.",
+            "hu": "Egy csendes, békés hely egy pillanatnyi elmélkedésre.",
+            "ro": "Un loc mic și liniștit pentru un moment de reflecție.",
+            "en": "A small, quiet place for a moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de la Poterie",
+            "hu": "Kerámia Ház",
+            "ro": "Casa Olaritului",
+            "en": "House of Pottery"
+          },
+          "coords": [
+            4.531,
+            50.401
+          ],
+          "category": "museums",
+          "arrive_at": "12:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Live-Vorführungen der Töpfer.",
+            "hu": "Ne hagyja ki a fazekasok élő bemutatóit.",
+            "ro": "Nu ratați demonstrațiile live ale olarilor.",
+            "en": "Don't miss the live demonstrations by the potters."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison René Magritte",
+            "hu": "René Magritte Ház",
+            "ro": "Casa René Magritte",
+            "en": "René Magritte House"
+          },
+          "coords": [
+            4.532,
+            50.4005
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Auch wenn es nicht sein Hauptmuseum ist, spürt man hier den Geist des Surrealismus.",
+            "hu": "Bár ez nem a fő múzeuma, itt érezhető a szürrealizmus szelleme.",
+            "ro": "Chiar dacă nu este muzeul său principal, spiritul suprarealismului se simte aici.",
+            "en": "Even if it's not his main museum, you can feel the spirit of surrealism here."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Communal",
+            "hu": "Városi Park",
+            "ro": "Parcul Comunal",
+            "en": "Communal Park"
+          },
+          "coords": [
+            4.535,
+            50.402
+          ],
+          "category": "parks",
+          "arrive_at": "15:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für eine Pause am Nachmittag auf einer Parkbank.",
+            "hu": "Tökéletes hely egy délutáni pihenőre egy parki padon.",
+            "ro": "Locul perfect pentru o pauză de după-amiază pe o bancă în parc.",
+            "en": "The perfect spot for an afternoon break on a park bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Sambre",
+            "hu": "Sambre folyó",
+            "ro": "Râul Sambre",
+            "en": "The Sambre River"
+          },
+          "coords": [
+            4.53,
+            50.399
+          ],
+          "category": "natural features",
+          "arrive_at": "16:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang am Ufer und genießen Sie die Aussicht zum Abschluss des Tages.",
+            "hu": "Sétáljon egyet a parton, és élvezze a kilátást a nap végén.",
+            "ro": "Faceți o plimbare de-a lungul malului pentru a vă bucura de priveliștea de la sfârșitul zilei.",
+            "en": "Take a walk along the bank to enjoy the view at the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am Place du Perron, dem lebhaften Herzen von Châtelet. Erkunden Sie vormittags das historische Zentrum, einschließlich des Rathauses und der majestätischen Kirche Saints-Pierre-et-Paul. Am Nachmittag tauchen Sie in die lokale Kunst ein, besuchen das Töpfermuseum und das ehemalige Haus von René Magritte. Beenden Sie Ihren Tag mit einem entspannenden Spaziergang im Parc Communal und entlang des Flusses Sambre, um die ruhige Atmosphäre der Stadt in sich aufzunehmen.",
+        "hu": "Indítsa gyalogtúráját a Place du Perronról, Châtelet nyüzsgő szívéből. A délelőtt folyamán fedezze fel a történelmi központot, beleértve a Városházát és a fenséges Szent Péter és Pál templomot. Délután merüljön el a helyi művészetekben a Kerámia Háznál és René Magritte egykori otthonánál. A napot egy pihentető sétával zárja a Városi Parkban és a Sambre folyó mentén, magába szívva a város nyugodt hangulatát.",
+        "ro": "Începeți turul pietonal din Place du Perron, inima vibrantă a orașului Châtelet. Explorați centrul istoric dimineața, inclusiv Primăria și maiestuoasa Biserică Sfinții Petru și Pavel. După-amiaza, scufundați-vă în arta locală la Casa Olaritului și fosta casă a lui René Magritte. Încheiați ziua cu o plimbare relaxantă în Parcul Comunal și de-a lungul râului Sambre, absorbind atmosfera liniștită a orașului.",
+        "en": "Begin your walking tour at Place du Perron, the vibrant heart of Châtelet. Explore the historic center in the morning, including the Town Hall and the majestic Saints-Pierre-et-Paul Church. In the afternoon, immerse yourself in local art at the House of Pottery and René Magritte's former home. End your day with a relaxing stroll in the Communal Park and along the Sambre river, soaking up the town's tranquil atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Belgische Waffeln",
+            "tip": "Probieren Sie eine warme Lütticher Waffel von einem Straßenverkäufer."
+          },
+          {
+            "name": "Carbonnade flamande",
+            "tip": "Ein herzhafter Rindfleisch- und Zwiebeleintopf, gekocht in Bier."
+          },
+          {
+            "name": "Lokale Biere",
+            "tip": "Besuchen Sie eine lokale Brasserie, um Biere aus der Region Wallonien zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belga gofri",
+            "tip": "Kóstoljon meg egy meleg liège-i gofrit egy utcai árustól."
+          },
+          {
+            "name": "Carbonnade flamande",
+            "tip": "Egy kiadós, sörben főtt marha- és hagymaragu."
+          },
+          {
+            "name": "Helyi sörök",
+            "tip": "Látogasson el egy helyi sörözőbe, és kóstolja meg Vallónia söreit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gofre belgiene",
+            "tip": "Încercați o gofră caldă de Liège de la un vânzător ambulant."
+          },
+          {
+            "name": "Carbonnade flamande",
+            "tip": "O tocană consistentă de vită și ceapă, gătită în bere."
+          },
+          {
+            "name": "Beri locale",
+            "tip": "Vizitați o braseria locală pentru a degusta beri din regiunea Valonia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Belgian Waffles",
+            "tip": "Try a warm Liège waffle from a street vendor."
+          },
+          {
+            "name": "Carbonnade flamande",
+            "tip": "A hearty beef and onion stew cooked in beer."
+          },
+          {
+            "name": "Local Beers",
+            "tip": "Visit a local brasserie to sample beers from the Wallonia region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Sambre",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc Communal",
+            "tip": "Ein friedlicher Rückzugsort im Herzen der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Chapelle Saint-Roch",
+            "tip": "Ein Ort der stillen Einkehr.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sambre-part",
+            "tip": "Keressen egy csendes padot a folyóparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Békés menedék a város szívében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Rókus kápolna",
+            "tip": "A csendes elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Sambre",
+            "tip": "Găsiți o bancă liniștită pe malul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Comunal",
+            "tip": "Un refugiu pașnic în inima orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Capela Saint-Roch",
+            "tip": "Un loc de contemplație tăcută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Sambre",
+            "tip": "Find a quiet bench by the riverside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Communal Park",
+            "tip": "A peaceful retreat in the heart of the town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Saint-Roch Chapel",
+            "tip": "A place for quiet contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik",
+            "tip": "Kaufen Sie ein handgefertigtes Souvenir im Maison de la Poterie."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Suchen Sie nach lokalen Märkten für Käse und Wurstwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámiák",
+            "tip": "Vásároljon kézzel készített szuvenírt a Kerámia Házban."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Keressen helyi piacokat, ahol sajtokat és felvágottakat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică",
+            "tip": "Cumpărați un suvenir lucrat manual de la Casa Olaritului."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Căutați piețele locale pentru brânzeturi și mezeluri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pottery",
+            "tip": "Purchase a handcrafted souvenir at the Maison de la Poterie."
+          },
+          {
+            "name": "Local Delicacies",
+            "tip": "Look for local markets for cheese and cured meats."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskaköves utcák egyenetlenek lehetnek.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "A legtöbb látnivaló sétatávolságra van egymástól.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat.",
+          "Luați cu voi o sticlă de apă reutilizabilă.",
+          "Majoritatea atracțiilor sunt la mică distanță de mers pe jos.",
+          "Verificați în avans orele de deschidere ale muzeelor."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Bring a reusable water bottle.",
+          "Most sights are within easy walking distance of each other.",
+          "Check museum opening times in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Perron",
+            "hu": "Perron tér",
+            "ro": "Piața Perron",
+            "en": "Perron Square"
+          },
+          "coords": [
+            4.528,
+            50.4035
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre dieses zentralen Platzes.",
+            "hu": "Zárja le a biciklit, és élvezze a központi tér hangulatát.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosfera acestei piețe centrale.",
+            "en": "Park your bike and soak in the atmosphere of this central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            4.5275,
+            50.4038
+          ],
+          "category": "historical",
+          "arrive_at": "09:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schneller Fotostopp vor diesem beeindruckenden Gebäude.",
+            "hu": "Egy gyors fotómegálló ennél a lenyűgöző épületnél.",
+            "ro": "O oprire rapidă pentru fotografii în fața acestei clădiri impresionante.",
+            "en": "A quick photo stop in front of this impressive building."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saints-Pierre-et-Paul",
+            "hu": "Szent Péter és Pál templom",
+            "ro": "Biserica Sfinții Petru și Pavel",
+            "en": "Saints-Pierre-et-Paul Church"
+          },
+          "coords": [
+            4.529,
+            50.4045
+          ],
+          "category": "churches",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die ruhige Atmosphäre im Inneren zu genießen.",
+            "hu": "Szánjon időt a belső csendes légkör élvezetére.",
+            "ro": "Luați-vă timp să apreciați atmosfera liniștită din interior.",
+            "en": "Take a moment to appreciate the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de la Poterie",
+            "hu": "Kerámia Ház",
+            "ro": "Casa Olaritului",
+            "en": "House of Pottery"
+          },
+          "coords": [
+            4.531,
+            50.401
+          ],
+          "category": "museums",
+          "arrive_at": "10:54",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Eingangs.",
+            "hu": "A bejárat közelében vannak kerékpártárolók.",
+            "ro": "Există suporturi pentru biciclete lângă intrare.",
+            "en": "There are bike racks available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison René Magritte",
+            "hu": "René Magritte Ház",
+            "ro": "Casa René Magritte",
+            "en": "René Magritte House"
+          },
+          "coords": [
+            4.532,
+            50.4005
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:26",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss für alle Kunstliebhaber, nur eine kurze Fahrt vom Töpfermuseum entfernt.",
+            "hu": "Minden művészetkedvelőnek kötelező, csak egy rövid tekerésre a Kerámia Háztól.",
+            "ro": "O vizită obligatorie pentru iubitorii de artă, la o scurtă plimbare cu bicicleta de Casa Olaritului.",
+            "en": "A must-visit for art lovers, just a short ride from the pottery museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Communal",
+            "hu": "Városi Park",
+            "ro": "Parcul Comunal",
+            "en": "Communal Park"
+          },
+          "coords": [
+            4.535,
+            50.402
+          ],
+          "category": "parks",
+          "arrive_at": "13:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick-Mittagessen. Fahren Sie langsam durch die Wege.",
+            "hu": "Ideális egy piknik ebédhez. Lassan hajtson át az ösvényeken.",
+            "ro": "Ideal pentru un prânz la picnic. Pedalați încet pe alei.",
+            "en": "Ideal for a picnic lunch. Cycle slowly through its paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour entlang der Sambre",
+            "hu": "Biciklizés a Sambre mentén",
+            "ro": "Plimbare cu bicicleta pe malul râului Sambre",
+            "en": "Bike ride along the Sambre"
+          },
+          "coords": [
+            4.525,
+            50.398
+          ],
+          "category": "natural features",
+          "arrive_at": "15:06",
+          "stay_min": 71,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Der Radweg am Fluss ist flach und perfekt für eine entspannte Fahrt.",
+            "hu": "A folyóparti bicikliút sík és tökéletes egy laza tekeréshez.",
+            "ro": "Pista de biciclete de pe malul râului este plată și perfectă pentru o plimbare relaxantă.",
+            "en": "The riverside bike path is flat and perfect for a relaxing ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Châtelet auf zwei Rädern! Beginnen Sie am Place du Perron und radeln Sie durch das historische Herz der Stadt. Der Morgen ist dem Erbe gewidmet, mit Stopps am Rathaus und der Kirche. Am Nachmittag führt Sie Ihre Route zu den künstlerischen Sehenswürdigkeiten, dem Töpfermuseum und dem Magritte-Haus, bevor Sie eine wohlverdiente Pause im Parc Communal einlegen. Beenden Sie Ihren Tag mit einer malerischen Fahrt entlang des Flusses Sambre und genießen Sie die Landschaft in Ihrem eigenen Tempo.",
+        "hu": "Fedezze fel Châtelet-t két keréken! Induljon a Place du Perronról, és tekerjen át a város történelmi szívén. A délelőtt az örökségé, megállókkal a Városházánál és a templomnál. Délután az útvonal a művészeti látnivalókhoz, a Kerámia Házhoz és a Magritte-házhoz vezet, mielőtt egy jól megérdemelt pihenőt tartana a Városi Parkban. Zárja a napot egy festői tekeréssel a Sambre folyó mentén, saját tempójában élvezve a tájat.",
+        "ro": "Explorați Châtelet pe două roți! Începeți din Place du Perron și pedalați prin inima istorică a orașului. Dimineața este dedicată patrimoniului, cu opriri la Primărie și biserică. După-amiaza, traseul vă duce la atracțiile artistice, Casa Olaritului și Casa Magritte, înainte de o pauză binemeritată în Parcul Comunal. Încheiați ziua cu o plimbare pitorească de-a lungul râului Sambre, bucurându-vă de peisaj în ritmul propriu.",
+        "en": "Explore Châtelet on two wheels! Start at Place du Perron and cycle through the town's historic heart. The morning is for heritage, with stops at the Town Hall and church. In the afternoon, your route takes you to the artistic sites, the pottery museum and Magritte house, before a well-deserved break in the Communal Park. Finish your day with a scenic ride along the Sambre river, enjoying the landscape at your own pace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frites",
+            "tip": "Eine Tüte belgische Pommes ist der perfekte schnelle Biker-Snack."
+          },
+          {
+            "name": "Tarte al Djote",
+            "tip": "Eine lokale herzhafte Torte, ideal zum Auftanken."
+          },
+          {
+            "name": "Fruchtsäfte",
+            "tip": "Erfrischen Sie sich mit frisch gepressten Säften von einem lokalen Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hasábburgonya",
+            "tip": "Egy zacskó belga hasábburgonya tökéletes gyors harapnivaló a bicikliseknek."
+          },
+          {
+            "name": "Tarte al Djote",
+            "tip": "Helyi sós pite, ideális energiatöltéshez."
+          },
+          {
+            "name": "Gyümölcslevek",
+            "tip": "Frissüljön fel egy helyi kávézó frissen facsart leveivel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartofi prăjiți",
+            "tip": "Un cornet de cartofi prăjiți belgieni este gustarea perfectă și rapidă pentru bicicliști."
+          },
+          {
+            "name": "Tarte al Djote",
+            "tip": "O tartă sărată locală, perfectă pentru a vă reîncărca bateriile."
+          },
+          {
+            "name": "Sucuri de fructe",
+            "tip": "Reîmprospătați-vă cu sucuri proaspăt stoarse de la o cafenea locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frites",
+            "tip": "A cone of Belgian fries is the perfect quick biker's snack."
+          },
+          {
+            "name": "Tarte al Djote",
+            "tip": "A local savoury tart, great for refueling."
+          },
+          {
+            "name": "Fruit Juices",
+            "tip": "Refresh with freshly squeezed juices from a local café."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Fluss",
+            "tip": "Die Fahrt entlang des Wassers ist von Natur aus beruhigend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Ecke im Parc Communal",
+            "tip": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Stille.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof",
+            "tip": "Ein Moment der Stille am frühen Morgen bei der Kirche Saints-Pierre-et-Paul.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti bicikliút",
+            "tip": "A víz melletti tekerés természetesen nyugtató hatású.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rejtett zug a Városi Parkban",
+            "tip": "Tegye le a biciklit és élvezze a csendet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "Egy csendes pillanat kora reggel a Szent Péter és Pál templomnál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul râului",
+            "tip": "Plimbarea de-a lungul apei este inerent calmantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colț ascuns în Parcul Comunal",
+            "tip": "Lăsați bicicleta și bucurați-vă de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii",
+            "tip": "Un moment de liniște dimineața devreme la Biserica Sfinții Petru și Pavel.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside bike path",
+            "tip": "The ride along the water is inherently calming.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden corner in Parc Communal",
+            "tip": "Park your bike and enjoy the silence.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Churchyard",
+            "tip": "A moment of peace in the early morning at Saints-Pierre-et-Paul church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "Vielleicht finden Sie ein kleines lokales Geschäft für Fahrradzubehör."
+          },
+          {
+            "name": "Postkarten",
+            "tip": "Senden Sie eine Postkarte mit surrealistischen Motiven in Anlehnung an Magritte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biciklis kiegészítők",
+            "tip": "Talán talál egy kis helyi boltot biciklis kiegészítőkkel."
+          },
+          {
+            "name": "Képeslapok",
+            "tip": "Küldjön egy szürrealista témájú képeslapot Magritte emlékére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "S-ar putea să găsiți un mic magazin local pentru accesorii de bicicletă."
+          },
+          {
+            "name": "Cărți poștale",
+            "tip": "Trimiteți o carte poștală cu tematică suprarealistă, un omagiu adus lui Magritte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessories",
+            "tip": "You might find a small local shop for bike gear."
+          },
+          {
+            "name": "Postcards",
+            "tip": "Send a surrealist-themed postcard in a nod to Magritte."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad immer gut ab.",
+          "Achten Sie auf Fußgänger in den engen Gassen.",
+          "Eine kleine Fahrradtasche ist nützlich für Wasser und Souvenirs.",
+          "Planen Sie Ihre Route, aber seien Sie offen für spontane Abstecher."
+        ],
+        "hu": [
+          "Mindig gondosan zárja le a kerékpárt.",
+          "Vigyázzon a gyalogosokra a szűk utcákban.",
+          "Egy kis kerékpártáska hasznos a víznek és az ajándéktárgyaknak.",
+          "Tervezze meg az útvonalat, de legyen nyitott a spontán kitérőkre."
+        ],
+        "ro": [
+          "Asigurați-vă întotdeauna bicicleta cu un lacăt bun.",
+          "Fiți atenți la pietoni pe străzile înguste.",
+          "O geantă mică pentru bicicletă este utilă pentru apă și suveniruri.",
+          "Planificați-vă traseul, dar fiți deschis la ocoluri spontane."
+        ],
+        "en": [
+          "Always lock your bike securely.",
+          "Watch out for pedestrians in the narrow streets.",
+          "A small bike bag is useful for water and souvenirs.",
+          "Plan your route, but be open to spontaneous detours."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum (Cluster A)",
+            "hu": "Központi Parkoló (A klaszter)",
+            "ro": "Parcare Centrală (Cluster A)",
+            "en": "Central Parking (Cluster A)"
+          },
+          "coords": [
+            4.527,
+            50.403
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Das historische Zentrum ist zu Fuß erreichbar.",
+            "hu": "Parkoljon itt a délelőttre. A történelmi központ gyalogosan elérhető.",
+            "ro": "Parcați aici pentru dimineață. Centrul istoric este accesibil pe jos.",
+            "en": "Park here for the morning. The historic center is accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Place du Perron",
+            "hu": "Perron tér",
+            "ro": "Piața Perron",
+            "en": "Perron Square"
+          },
+          "coords": [
+            4.528,
+            50.4035
+          ],
+          "category": "squares",
+          "arrive_at": "09:19",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Halt Ihres Rundgangs durch das Stadtzentrum.",
+            "hu": "A belvárosi séta első állomása.",
+            "ro": "Prima oprire a turului dumneavoastră pietonal prin centrul orașului.",
+            "en": "The first stop on your walking tour of the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            4.5275,
+            50.4038
+          ],
+          "category": "historical",
+          "arrive_at": "09:43",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz entfernt, bewundern Sie die Fassade.",
+            "hu": "Csak egy rövid séta a térről, csodálja meg a homlokzatot.",
+            "ro": "La o scurtă plimbare de piață, admirați fațada.",
+            "en": "A short walk from the square, admire the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saints-Pierre-et-Paul",
+            "hu": "Szent Péter és Pál templom",
+            "ro": "Biserica Sfinții Petru și Pavel",
+            "en": "Saints-Pierre-et-Paul Church"
+          },
+          "coords": [
+            4.529,
+            50.4045
+          ],
+          "category": "churches",
+          "arrive_at": "10:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Hauptkirche der Stadt, ein Muss in diesem Viertel.",
+            "hu": "A város fő temploma, kihagyhatatlan ebben a negyedben.",
+            "ro": "Biserica principală a orașului, o vizită obligatorie în acest cluster.",
+            "en": "The town's main church, a must-see in this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de la Poterie (Cluster B)",
+            "hu": "Kerámia Ház (B klaszter)",
+            "ro": "Casa Olaritului (Cluster B)",
+            "en": "House of Pottery (Cluster B)"
+          },
+          "coords": [
+            4.531,
+            50.401
+          ],
+          "category": "museums",
+          "arrive_at": "11:14",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Parken Sie in der Nähe des Museums.",
+            "hu": "Vezessen át a második klaszterhez. Parkoljon a múzeum közelében.",
+            "ro": "Conduceți spre al doilea cluster. Parcați lângă muzeu.",
+            "en": "Drive to the second cluster. Park near the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison René Magritte",
+            "hu": "René Magritte Ház",
+            "ro": "Casa René Magritte",
+            "en": "René Magritte House"
+          },
+          "coords": [
+            4.532,
+            50.4005
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zu Fuß vom Töpfermuseum aus erreichbar, tauchen Sie ein in den Surrealismus.",
+            "hu": "Sétatávolságra a Kerámia Háztól, merüljön el a szürrealizmusban.",
+            "ro": "La câțiva pași de muzeul de ceramică, pătrundeți în suprarealism.",
+            "en": "Within walking distance from the pottery museum, delve into surrealism."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Communal & Die Sambre",
+            "hu": "Városi Park és Sambre folyó",
+            "ro": "Parcul Comunal și Râul Sambre",
+            "en": "Communal Park & The Sambre River"
+          },
+          "coords": [
+            4.535,
+            50.402
+          ],
+          "category": "parks",
+          "arrive_at": "14:48",
+          "stay_min": 117,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz und genießen Sie einen langen Spaziergang, um den Park und den Fluss zu erkunden.",
+            "hu": "Keressen egy parkolóhelyet, és élvezze a hosszú sétát a park és a folyó felfedezésére.",
+            "ro": "Găsiți un loc de parcare și bucurați-vă de o plimbare lungă pentru a explora parcul și râul.",
+            "en": "Find a parking spot and enjoy a long walk to explore the park and the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie Châtelet in Clustern erkunden. Parken Sie morgens im Zentrum (Cluster A), um den Place du Perron, das Rathaus und die Hauptkirche zu Fuß zu entdecken. Am Nachmittag fahren Sie zum Cluster B, um in die Welt der Keramik und des Surrealismus einzutauchen. Schließen Sie Ihren Tag mit einer Fahrt zum Parc Communal ab, wo Sie Ihr Auto abstellen und die Natur entlang des Flusses Sambre genießen können. Diese Methode kombiniert den Komfort des Autos mit der Freude am Spazierengehen.",
+        "hu": "Autóval klaszterekben fedezheti fel Châtelet-t. Reggel parkoljon a központban (A klaszter), hogy gyalog fedezze fel a Place du Perront, a Városházát és a fő templomot. Délután vezessen át a B klaszterbe, hogy elmerüljön a kerámia és a szürrealizmus világában. A napot a Városi Parkhoz való autózással zárja, ahol letéve az autót élvezheti a természetet a Sambre folyó mentén. Ez a módszer ötvözi az autó kényelmét a séta örömével.",
+        "ro": "Cu mașina, explorați Châtelet în clustere. Parcați în centru dimineața (Cluster A) pentru a descoperi pe jos Place du Perron, Primăria și biserica principală. După-amiaza, conduceți spre Cluster B pentru a vă cufunda în lumea ceramicii și a suprarealismului. Încheiați ziua conducând spre Parcul Comunal, unde puteți lăsa mașina și vă puteți bucura de natură de-a lungul râului Sambre. Această metodă combină confortul mașinii cu plăcerea mersului pe jos.",
+        "en": "With a car, explore Châtelet in clusters. Park downtown in the morning (Cluster A) to discover Place du Perron, the Town Hall, and the main church on foot. In the afternoon, drive to Cluster B to immerse yourself in the world of pottery and surrealism. End your day by driving to the Communal Park, where you can leave the car and enjoy nature along the Sambre River. This method blends the convenience of a car with the joy of walking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulets à la Liégeoise",
+            "tip": "Fleischbällchen in einer süß-sauren Sauce, eine wallonische Spezialität."
+          },
+          {
+            "name": "Crêpes",
+            "tip": "Perfekt für einen süßen Snack am Nachmittag."
+          },
+          {
+            "name": "Restaurant Le Prieuré",
+            "tip": "Suchen Sie nach einem Restaurant mit Parkplatz für ein entspanntes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulets à la Liégeoise",
+            "tip": "Húsgombócok édes-savanyú szószban, vallon specialitás."
+          },
+          {
+            "name": "Palacsinta",
+            "tip": "Tökéletes egy édes délutáni harapnivalóhoz."
+          },
+          {
+            "name": "Le Prieuré Étterem",
+            "tip": "Keressen egy parkolóval rendelkező éttermet egy nyugodt ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulets à la Liégeoise",
+            "tip": "Chiftele într-un sos dulce-acrișor, o specialitate valonă."
+          },
+          {
+            "name": "Crêpes",
+            "tip": "Perfecte pentru o gustare dulce de după-amiază."
+          },
+          {
+            "name": "Restaurant Le Prieuré",
+            "tip": "Căutați un restaurant cu parcare pentru un prânz relaxat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulets à la Liégeoise",
+            "tip": "Meatballs in a sweet and sour sauce, a Walloon specialty."
+          },
+          {
+            "name": "Crêpes",
+            "tip": "Perfect for a sweet afternoon snack."
+          },
+          {
+            "name": "Restaurant Le Prieuré",
+            "tip": "Look for a restaurant with parking for a relaxed lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt aufs Land",
+            "tip": "Nutzen Sie das Auto für eine kurze Fahrt in die ländliche Umgebung von Châtelet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc Communal",
+            "tip": "Nachdem Sie geparkt haben, ist der Park eine Oase der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Am Flussufer parken",
+            "tip": "Finden Sie einen abgelegenen Platz am Fluss Sambre, um die Aussicht vom Auto aus zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a vidékre",
+            "tip": "Használja ki az autót egy rövid kirándulásra Châtelet vidéki környékére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Miután leparkolt, a park a nyugalom oázisa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parkolás a folyóparton",
+            "tip": "Keressen egy félreeső helyet a Sambre folyónál, hogy az autóból élvezze a kilátást.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu mașina la țară",
+            "tip": "Folosiți mașina pentru o scurtă plimbare în zona rurală din jurul Châtelet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Comunal",
+            "tip": "După ce ați parcat, parcul este o oază de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcare pe malul râului",
+            "tip": "Găsiți un loc retras pe malul râului Sambre pentru a vă bucura de priveliște din mașină.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive to the countryside",
+            "tip": "Use the car for a short drive into the rural area surrounding Châtelet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Communal Park",
+            "tip": "Once you've parked, the park is an oasis of calm.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Riverside Parking",
+            "tip": "Find a secluded spot by the Sambre river to enjoy the view from your car.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Großeinkauf",
+            "tip": "Nutzen Sie das Auto, um größere Keramikstücke oder lokale Produkte zu kaufen."
+          },
+          {
+            "name": "Hofläden",
+            "tip": "Fahren Sie zu den Bauernhöfen in der Umgebung, um frische Produkte zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nagybevásárlás",
+            "tip": "Használja ki az autót, hogy nagyobb kerámiatárgyakat vagy helyi termékeket vásároljon."
+          },
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Vezessen el a környékbeli farmokra friss termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cumpărături în vrac",
+            "tip": "Folosiți mașina pentru a cumpăra piese mai mari de ceramică sau produse locale."
+          },
+          {
+            "name": "Magazine la fermă",
+            "tip": "Conduceți la fermele din jur pentru produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulk Shopping",
+            "tip": "Use the car to buy larger pottery pieces or local produce."
+          },
+          {
+            "name": "Farm Shops",
+            "tip": "Drive to surrounding farms for fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkbeschränkungen und -gebühren im Stadtzentrum.",
+          "Ein GPS ist nützlich, um zwischen den Clustern zu navigieren.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+          "Planen Sie zusätzliche Zeit für die Parkplatzsuche ein."
+        ],
+        "hu": [
+          "Figyeljen a parkolási korlátozásokra és díjakra a belvárosban.",
+          "A GPS hasznos a klaszterek közötti navigáláshoz.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "Számoljon extra időt a parkolóhely keresésére."
+        ],
+        "ro": [
+          "Fiți atenți la restricțiile de parcare și la taxele din centrul orașului.",
+          "Un GPS este util pentru a naviga între clustere.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Planificați timp suplimentar pentru găsirea unui loc de parcare."
+        ],
+        "en": [
+          "Be aware of parking restrictions and fees in the city center.",
+          "A GPS is useful for navigating between clusters.",
+          "Do not leave valuables visible in the car.",
+          "Plan for extra time to find parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrum Haltestelle (Cluster A)",
+            "hu": "Központi Megálló (A klaszter)",
+            "ro": "Stația Centrală (Cluster A)",
+            "en": "Central Stop (Cluster A)"
+          },
+          "coords": [
+            4.5282,
+            50.4033
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kommen Sie mit dem Bus an und beginnen Sie Ihre Erkundung des historischen Zentrums.",
+            "hu": "Érkezzen busszal, és kezdje meg a történelmi központ felfedezését.",
+            "ro": "Sosiți cu autobuzul și începeți explorarea centrului istoric.",
+            "en": "Arrive by bus and begin your exploration of the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Place du Perron & Hôtel de Ville",
+            "hu": "Perron tér és Városháza",
+            "ro": "Piața Perron și Primăria",
+            "en": "Perron Square & Town Hall"
+          },
+          "coords": [
+            4.5278,
+            50.4037
+          ],
+          "category": "historical",
+          "arrive_at": "09:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Hauptplatz und das Rathaus, die beide nur wenige Schritte von der Haltestelle entfernt sind.",
+            "hu": "Fedezze fel a főteret és a városházát, mindkettő pár lépésre a megállótól.",
+            "ro": "Explorați piața principală și primăria, ambele la câțiva pași de stație.",
+            "en": "Explore the main square and town hall, both steps from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saints-Pierre-et-Paul",
+            "hu": "Szent Péter és Pál templom",
+            "ro": "Biserica Sfinții Petru și Pavel",
+            "en": "Saints-Pierre-et-Paul Church"
+          },
+          "coords": [
+            4.529,
+            50.4045
+          ],
+          "category": "churches",
+          "arrive_at": "10:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Altstadt führt Sie zu dieser beeindruckenden Kirche.",
+            "hu": "Egy rövid séta az óvárosban elvezeti ehhez a lenyűgöző templomhoz.",
+            "ro": "O scurtă plimbare prin orașul vechi vă va duce la această biserică impresionantă.",
+            "en": "A short walk through the old town will lead you to this impressive church."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Poterie (Cluster B)",
+            "hu": "Poterie Megálló (B klaszter)",
+            "ro": "Stația Poterie (Cluster B)",
+            "en": "Poterie Stop (Cluster B)"
+          },
+          "coords": [
+            4.5315,
+            50.4012
+          ],
+          "category": "transport",
+          "arrive_at": "11:30",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum nächsten Cluster. Die Haltestelle befindet sich in der Nähe der Museen.",
+            "hu": "Vegyen buszt a következő klaszterhez. A megálló a múzeumok közelében van.",
+            "ro": "Luați un autobuz către următorul cluster. Stația este aproape de muzee.",
+            "en": "Take a bus to the next cluster. The stop is near the museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de la Poterie & Maison René Magritte",
+            "hu": "Kerámia Ház és René Magritte Ház",
+            "ro": "Casa Olaritului și Casa René Magritte",
+            "en": "House of Pottery & René Magritte House"
+          },
+          "coords": [
+            4.531,
+            50.4008
+          ],
+          "category": "museums",
+          "arrive_at": "11:39",
+          "stay_min": 160,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie beide Museen, die nur wenige Gehminuten voneinander entfernt sind.",
+            "hu": "Látogassa meg mindkét múzeumot, amelyek sétatávolságra vannak egymástól.",
+            "ro": "Vizitați ambele muzee, care sunt la distanță de mers pe jos unul de celălalt.",
+            "en": "Visit both museums, which are within walking distance of each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Communal",
+            "hu": "Városi Park",
+            "ro": "Parcul Comunal",
+            "en": "Communal Park"
+          },
+          "coords": [
+            4.535,
+            50.402
+          ],
+          "category": "parks",
+          "arrive_at": "14:59",
+          "stay_min": 92,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen kurzen Bus oder machen Sie einen längeren Spaziergang, um den Tag im Park ausklingen zu lassen.",
+            "hu": "Menjen egy rövid buszútra, vagy tegyen egy hosszabb sétát, hogy a parkban fejezze be a napot.",
+            "ro": "Luați un autobuz pe o distanță scurtă sau faceți o plimbare mai lungă pentru a încheia ziua în parc.",
+            "en": "Take a short bus ride or a longer walk to end your day at the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Nutzung öffentlicher Verkehrsmittel in Châtelet ist einfach und effizient. Beginnen Sie im historischen Cluster und erkunden Sie die Sehenswürdigkeiten rund um den Place du Perron. Eine kurze Busfahrt bringt Sie dann zum Kunst- und Kulturcluster, wo Sie das Töpferhandwerk und das Erbe von Magritte entdecken können. Der Tag endet mit einer weiteren kurzen Fahrt oder einem Spaziergang zum Parc Communal, der einen perfekten grünen Abschluss Ihres Besuchs bietet. Dies ist eine umweltfreundliche Art, die Stadt zu erleben.",
+        "hu": "A tömegközlekedés használata Châtelet-ben egyszerű és hatékony. Kezdje a történelmi klaszterben, fedezze fel a Place du Perron körüli látnivalókat. Egy rövid buszút elviszi a művészeti és kulturális klaszterbe, ahol felfedezheti a fazekasságot és Magritte örökségét. A nap egy másik rövid buszúttal vagy sétával zárul a Városi Parkban, amely tökéletes zöld lezárása a látogatásnak. Ez egy környezetbarát módja a város megismerésének.",
+        "ro": "Utilizarea transportului public în Châtelet este ușoară și eficientă. Începeți în clusterul istoric, explorând atracțiile din jurul Place du Perron. O scurtă călătorie cu autobuzul vă va duce apoi la clusterul de artă și cultură pentru a descoperi ceramica și moștenirea lui Magritte. Ziua se încheie cu o altă călătorie scurtă cu autobuzul sau o plimbare până la Parcul Comunal, oferind o încheiere verde perfectă vizitei dumneavoastră. Acesta este un mod ecologic de a experimenta orașul.",
+        "en": "Using public transit in Châtelet is easy and efficient. Start in the historic cluster, exploring the sights around Place du Perron. A short bus ride will then take you to the art and culture cluster to discover pottery and Magritte's legacy. The day concludes with another short bus ride or walk to the Communal Park, providing a perfect green end to your visit. This is an eco-friendly way to experience the town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei-Sandwich",
+            "tip": "Holen Sie sich ein frisches Sandwich von einer Bäckerei in der Nähe einer Bushaltestelle."
+          },
+          {
+            "name": "Schokolade",
+            "tip": "Belgien ist berühmt für seine Schokolade; ein perfekter Genuss für unterwegs."
+          },
+          {
+            "name": "Lokale Cafés",
+            "tip": "Machen Sie eine Pause in einem Café, während Sie auf Ihren Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Péksüteményes szendvics",
+            "tip": "Vegyen egy friss szendvicset egy buszmegálló közeli pékségből."
+          },
+          {
+            "name": "Csokoládé",
+            "tip": "Belgium híres a csokoládéjáról; tökéletes útravaló finomság."
+          },
+          {
+            "name": "Helyi kávézók",
+            "tip": "Tartson szünetet egy kávézóban, amíg a buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș de la brutărie",
+            "tip": "Luați un sandviș proaspăt de la o brutărie de lângă o stație de autobuz."
+          },
+          {
+            "name": "Ciocolată",
+            "tip": "Belgia este renumită pentru ciocolata sa; un răsfăț perfect pentru drum."
+          },
+          {
+            "name": "Cafenele locale",
+            "tip": "Faceți o pauză la o cafenea în timp ce așteptați autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery Sandwich",
+            "tip": "Grab a fresh sandwich from a bakery near a bus stop."
+          },
+          {
+            "name": "Chocolate",
+            "tip": "Belgium is famous for its chocolate; a perfect treat for the road."
+          },
+          {
+            "name": "Local Cafes",
+            "tip": "Take a break at a cafe while waiting for your bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt",
+            "tip": "Schauen Sie aus dem Fenster und beobachten Sie das Leben in der Stadt, während Sie von A nach B fahren.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Warten auf den Bus",
+            "tip": "Ein unerwarteter Moment der Ruhe an einer weniger belebten Haltestelle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Oberdeck des Busses",
+            "tip": "Wenn verfügbar, bietet das Oberdeck eine andere Perspektive und mehr Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás",
+            "tip": "Nézzen ki az ablakon, és figyelje a városi életet, miközben A-ból B-be utazik.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Várakozás a buszra",
+            "tip": "Egy váratlan pillanat a csendre egy kevésbé forgalmas megállóban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A busz emelete",
+            "tip": "Ha van, az emelet más perspektívát és több nyugalmat kínál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul",
+            "tip": "Priviți pe fereastră și observați viața orașului în timp ce călătoriți de la A la B.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Așteptând autobuzul",
+            "tip": "Un moment neașteptat de liniște într-o stație mai puțin aglomerată.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Etajul superior al autobuzului",
+            "tip": "Dacă este disponibil, etajul superior oferă o perspectivă diferită și mai multă liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Bus Ride",
+            "tip": "Look out the window and watch city life go by as you travel from A to B.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Waiting for the bus",
+            "tip": "An unexpected moment of quiet at a less busy stop.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Top deck of the bus",
+            "tip": "If available, the top deck offers a different perspective and more quiet.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosksouvenirs",
+            "tip": "Kaufen Sie kleine Souvenirs an Kiosken in der Nähe von Verkehrsknotenpunkten."
+          },
+          {
+            "name": "Markt in der Nähe einer Haltestelle",
+            "tip": "Steigen Sie aus und erkunden Sie einen lokalen Markt, wenn Sie einen sehen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkos szuvenírek",
+            "tip": "Vásároljon apró ajándéktárgyakat a közlekedési csomópontok közelében lévő kioszkoknál."
+          },
+          {
+            "name": "Piac egy megálló közelében",
+            "tip": "Szálljon le és fedezzen fel egy helyi piacot, ha lát egyet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la chioșc",
+            "tip": "Cumpărați mici suveniruri de la chioșcurile din apropierea nodurilor de transport."
+          },
+          {
+            "name": "Piață lângă o stație",
+            "tip": "Coborâți și explorați o piață locală dacă vedeți una."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk Souvenirs",
+            "tip": "Buy small souvenirs from kiosks near transport hubs."
+          },
+          {
+            "name": "Market near a stop",
+            "tip": "Hop off and explore a local market if you see one."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Halten Sie Kleingeld für Tickets bereit, wenn Sie beim Fahrer kaufen.",
+          "Geben Sie dem Fahrer ein Zeichen, wenn Sie an Ihrer Haltestelle aussteigen möchten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Tartson magánál aprópénzt a jegyekhez, ha a sofőrtől vásárol.",
+          "Jelezzen a sofőrnek, ha le szeretne szállni a megállójában."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația locală de transport public pentru orare în timp real.",
+          "Păstrați mărunțiș pentru bilete dacă cumpărați de la șofer.",
+          "Semnalizați șoferului când doriți să coborâți la stația dumneavoastră."
+        ],
+        "en": [
+          "Purchase a day pass for unlimited travel.",
+          "Download the local public transit app for real-time schedules.",
+          "Keep small change handy for tickets if buying from the driver.",
+          "Signal the driver when you want to get off at your stop."
+        ]
+      }
+    }
+  }
+}

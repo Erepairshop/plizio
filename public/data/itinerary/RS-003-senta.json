@@ -1,0 +1,1100 @@
+{
+  "city_id": "RS-003-senta",
+  "anchor": {
+    "name": "Senta",
+    "coords": [
+      20.0817,
+      45.9289
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Feuerturm",
+            "hu": "Városháza és Tűztorony",
+            "ro": "Primăria și Turnul de Pompieri",
+            "en": "Town Hall and Fire Tower"
+          },
+          "coords": [
+            20.088,
+            45.93
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Steigen Sie auf den Turm für einen Panoramablick über die Stadt und die Theiß.",
+            "hu": "Másszon fel a toronyba, ahonnan panorámás kilátás nyílik a városra és a Tiszára.",
+            "ro": "Urcați în turn pentru o vedere panoramică asupra orașului și a râului Tisa.",
+            "en": "Climb the tower for a panoramic view over the town and the Tisa river."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Senta",
+            "hu": "Zentai Városi Múzeum",
+            "ro": "Muzeul Orașului Senta",
+            "en": "Senta Town Museum"
+          },
+          "coords": [
+            20.087,
+            45.929
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellung zur Schlacht von Zenta, um die lokale Geschichte zu verstehen.",
+            "hu": "Koncentráljon a zentai csatáról szóló kiállításra, hogy megértse a helyi történelmet.",
+            "ro": "Concentrați-vă pe expoziția despre Bătălia de la Senta pentru a înțelege istoria locală.",
+            "en": "Focus on the Battle of Zenta exhibit to understand the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Antonius",
+            "hu": "Szent Antal-templom",
+            "ro": "Biserica Sfântul Anton",
+            "en": "Church of Saint Anthony"
+          },
+          "coords": [
+            20.09,
+            45.931
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Beachten Sie die beeindruckenden Glasfenster und die ruhige Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző ólomüveg ablakokat és a csendes belső légkört.",
+            "ro": "Observați vitraliile impresionante și atmosfera liniștită din interior.",
+            "en": "Note the impressive stained-glass windows and the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Orthodoxe Erzengel-Michael-Kirche",
+            "hu": "Szent Mihály Arkangyal Ortodox Templom",
+            "ro": "Biserica Ortodoxă Sfântul Arhanghel Mihail",
+            "en": "Orthodox Church of Saint Michael the Archangel"
+          },
+          "coords": [
+            20.085,
+            45.927
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Bewundern Sie die reiche Ikonostase und die byzantinische Architektur.",
+            "hu": "Csodálja meg a gazdag ikonosztázt és a bizánci stílusú építészetet.",
+            "ro": "Admirați iconostasul bogat și arhitectura în stil bizantin.",
+            "en": "Admire the rich iconostasis and the Byzantine-style architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedenkstätte Schlacht von Senta",
+            "hu": "A Zentai Csata Emlékműve",
+            "ro": "Memorialul Bătăliei de la Senta",
+            "en": "Battle of Senta Memorial"
+          },
+          "coords": [
+            20.082,
+            45.925
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Nehmen Sie sich Zeit für ein Mittagessen in einem der nahegelegenen Restaurants am Flussufer.",
+            "hu": "Szánjon időt egy ebédre a közeli, folyóparti éttermek egyikében.",
+            "ro": "Luați-vă timp pentru prânz la unul dintre restaurantele din apropiere, de pe malul râului.",
+            "en": "Take your time for lunch at one of the nearby riverside restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Theiß-Brücke",
+            "hu": "Tiszai híd",
+            "ro": "Podul peste Tisa",
+            "en": "Tisa Bridge"
+          },
+          "coords": [
+            20.08,
+            45.926
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Gehen Sie zur Mitte der Brücke für die beste Aussicht auf den Fluss und die Stadt.",
+            "hu": "Sétáljon a híd közepére a legjobb kilátásért a folyóra és a városra.",
+            "ro": "Mergeți până la mijlocul podului pentru cea mai bună priveliște asupra râului și orașului.",
+            "en": "Walk to the middle of the bridge for the best view of the river and the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Tisa-Promenade",
+            "hu": "Tisza-parti sétány",
+            "ro": "Promenada Tisa",
+            "en": "Tisa Promenade"
+          },
+          "coords": [
+            20.078,
+            45.924
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang oder einen Kaffee in einem der Cafés am Flussufer.",
+            "hu": "Tegyen egy pihentető sétát, vagy igyon meg egy kávét a folyóparti kávézók egyikében.",
+            "ro": "Bucurați-vă de o plimbare relaxantă sau de o cafea la una dintre cafenelele de pe malul râului.",
+            "en": "Enjoy a relaxing walk or have a coffee at one of the riverside cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit Kultur im Zentrum, vom Rathaus bis zu den Kirchen. Am Nachmittag entdecken Sie die Geschichte der Schlacht von Zenta am Flussufer. Der Tag endet mit einem entspannten Spaziergang entlang der Theiß-Promenade, wo Sie die ruhige Atmosphäre genießen können.",
+        "hu": "A nap a központban kezdődik kultúrával, a Városházától a templomokig. Délután a zentai csata történelmét fedezi fel a folyóparton. A nap egy pihentető sétával zárul a Tisza-parti sétányon, ahol élvezheti a nyugodt légkört.",
+        "ro": "Ziua începe cu cultură în centru, de la Primărie la biserici. După-amiaza, descoperiți istoria Bătăliei de la Senta pe malul râului. Ziua se încheie cu o plimbare relaxantă de-a lungul Promenadei Tisa, unde vă puteți bucura de atmosfera liniștită.",
+        "en": "Your day begins with culture in the center, from the Town Hall to the churches. In the afternoon, you'll discover the history of the Battle of Zenta on the riverbank. The day concludes with a relaxing stroll along the Tisa Promenade, enjoying the tranquil atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischgulasch (Riblja čorba)",
+            "tip": "Probieren Sie diese lokale Spezialität in einem Restaurant am Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászlé",
+            "tip": "Kóstolja meg ezt a helyi specialitást egy folyóparti étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de pește (Riblja čorba)",
+            "tip": "Încercați această specialitate locală la un restaurant de pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish soup (Riblja čorba)",
+            "tip": "Try this local specialty at a riverside restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tisa-Promenade am späten Nachmittag",
+            "tip": "Finden Sie eine Bank und beobachten Sie, wie die Sonne untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tisza-parti sétány késő délután",
+            "tip": "Keressen egy padot, és nézze a naplementét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Tisa după-amiaza târziu",
+            "tip": "Găsiți o bancă și priviți apusul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tisa Promenade in the late afternoon",
+            "tip": "Find a bench and watch the sun set.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokale Handwerkskunst in der Nähe des Stadtzentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi kézműves termékeket a városközpont közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și artizanat local în apropierea centrului orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and local crafts near the town center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag laufen werden.",
+          "Nehmen Sie Wasser mit, besonders an warmen Tagen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap gyalogolni fog.",
+          "Vigyen magával vizet, különösen meleg napokon."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos toată ziua.",
+          "Luați apă cu dumneavoastră, mai ales în zilele călduroase."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking all day.",
+          "Bring water with you, especially on warm days."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 6.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Feuerturm",
+            "hu": "Városháza és Tűztorony",
+            "ro": "Primăria și Turnul de Pompieri",
+            "en": "Town Hall and Fire Tower"
+          },
+          "coords": [
+            20.088,
+            45.93
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Fragen Sie nach Fahrradständern in der Nähe.",
+            "hu": "Érdeklődjön a közeli kerékpártárolókról.",
+            "ro": "Întrebați despre suporturile de biciclete din apropiere.",
+            "en": "Ask about bicycle parking stands nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Antonius",
+            "hu": "Szent Antal-templom",
+            "ro": "Biserica Sfântul Anton",
+            "en": "Church of Saint Anthony"
+          },
+          "coords": [
+            20.09,
+            45.931
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárt, mielőtt belép a templomba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în biserică.",
+            "en": "Lock your bike securely before entering the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Stevan-Sremac-Gedenkhaus",
+            "hu": "Stevan Sremac Emlékház",
+            "ro": "Casa Memorială Stevan Sremac",
+            "en": "Stevan Sremac Memorial House"
+          },
+          "coords": [
+            20.086,
+            45.928
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Ein kurzer Stopp, um das Leben eines berühmten serbischen Schriftstellers kennenzulernen.",
+            "hu": "Rövid megálló, hogy megismerje egy híres szerb író életét.",
+            "ro": "O oprire scurtă pentru a afla despre viața unui faimos scriitor sârb.",
+            "en": "A quick stop to learn about the life of a famous Serbian writer."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Senta",
+            "hu": "Zentai Városi Múzeum",
+            "ro": "Muzeul Orașului Senta",
+            "en": "Senta Town Museum"
+          },
+          "coords": [
+            20.087,
+            45.929
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Perfekt für eine Mittagspause von der Radtour, um tief in die Geschichte einzutauchen.",
+            "hu": "Tökéletes egy déli pihenőre a kerékpártúráról, hogy elmélyedjen a történelemben.",
+            "ro": "Perfect pentru o pauză de prânz de la ciclism pentru a aprofunda istoria.",
+            "en": "Perfect for a midday break from cycling to delve into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedenkstätte Schlacht von Senta",
+            "hu": "A Zentai Csata Emlékműve",
+            "ro": "Memorialul Bătăliei de la Senta",
+            "en": "Battle of Senta Memorial"
+          },
+          "coords": [
+            20.082,
+            45.925
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Ein guter Ort, um eine Pause einzulegen und über die historische Bedeutung nachzudenken.",
+            "hu": "Jó hely egy szünetre és a történelmi jelentőség átgondolására.",
+            "ro": "Un loc bun pentru a face o pauză și a reflecta la semnificația istorică.",
+            "en": "A good spot to take a break and reflect on the historical significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Theiß-Brücke",
+            "hu": "Tiszai híd",
+            "ro": "Podul peste Tisa",
+            "en": "Tisa Bridge"
+          },
+          "coords": [
+            20.08,
+            45.926
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Fahren Sie vorsichtig, wenn Sie die Brücke überqueren; es kann windig sein.",
+            "hu": "Óvatosan keljen át a hídon, szeles lehet.",
+            "ro": "Mergeți cu grijă pe pod; poate fi vânt.",
+            "en": "Cycle carefully when crossing the bridge; it can be windy."
+          }
+        },
+        {
+          "name": {
+            "de": "Tisa-Promenade",
+            "hu": "Tisza-parti sétány",
+            "ro": "Promenada Tisa",
+            "en": "Tisa Promenade"
+          },
+          "coords": [
+            20.078,
+            45.924
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Der Radweg entlang der Promenade ist ideal für eine entspannte Fahrt am Nachmittag.",
+            "hu": "A sétány menti kerékpárút ideális egy laza délutáni tekeréshez.",
+            "ro": "Pista de biciclete de-a lungul promenadei este ideală pentru o plimbare relaxantă după-amiaza.",
+            "en": "The bike path along the promenade is ideal for a relaxed afternoon ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Senta auf zwei Rädern. Die Route führt Sie durch das historische Zentrum und dann entlang des Flusses. Die flache Topografie der Stadt macht das Radfahren einfach und angenehm. Der Nachmittag ist für eine gemütliche Fahrt und eine lange Pause an der Theiß-Promenade reserviert.",
+        "hu": "Fedezze fel Zentát két keréken. Az útvonal a történelmi központon, majd a folyó mentén vezet. A város sík domborzata egyszerűvé és élvezetessé teszi a kerékpározást. A délután egy kellemes tekerésre és egy hosszú pihenőre van fenntartva a Tisza-parti sétányon.",
+        "ro": "Explorați Senta pe două roți. Traseul vă duce prin centrul istoric și apoi de-a lungul râului. Topografia plată a orașului face ciclismul ușor și plăcut. După-amiaza este rezervată pentru o plimbare lejeră și o pauză lungă pe Promenada Tisa.",
+        "en": "Explore Senta on two wheels. The route takes you through the historic center and then along the river. The city's flat topography makes cycling easy and enjoyable. The afternoon is reserved for a leisurely ride and a long break at the Tisa Promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Ein herzhaftes lokales Gericht, perfekt nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Egy kiadós helyi étel, tökéletes egy kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Un fel de mâncare local consistent, perfect după o tură cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pljeskavica",
+            "tip": "A hearty local dish, perfect after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Theiß",
+            "tip": "Halten Sie an einem ruhigen Ort am Fluss an, um die Natur zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tisza-part",
+            "tip": "Álljon meg egy csendes helyen a folyóparton, és élvezze a természetet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Tisei",
+            "tip": "Opriți-vă într-un loc liniștit pe malul râului pentru a vă bucura de natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Tisa",
+            "tip": "Stop at a quiet spot along the river to enjoy nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigte Souvenirs",
+            "tip": "Suchen Sie nach kleinen Geschäften, die lokale Handwerkskunst verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített ajándéktárgyak",
+            "tip": "Keressen kis boltokat, ahol helyi kézműves termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri artizanale",
+            "tip": "Căutați magazine mici care vând produse artizanale locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade souvenirs",
+            "tip": "Look for small shops selling local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen zu sichern."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Vigyen magával lakatot a kerékpár lezárásához a megállóknál."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Bring a lock to secure your bike at stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Feuerturm",
+            "hu": "Városháza és Tűztorony",
+            "ro": "Primăria și Turnul de Pompieri",
+            "en": "Town Hall and Fire Tower"
+          },
+          "coords": [
+            20.088,
+            45.93
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Parken Sie Ihr Auto auf einem der ausgewiesenen Parkplätze im Zentrum.",
+            "hu": "Parkolja le autóját a központban található kijelölt parkolók egyikében.",
+            "ro": "Parcați mașina într-una dintre parcările desemnate din centru.",
+            "en": "Park your car in one of the designated parking lots in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Senta",
+            "hu": "Zentai Városi Múzeum",
+            "ro": "Muzeul Orașului Senta",
+            "en": "Senta Town Museum"
+          },
+          "coords": [
+            20.087,
+            45.929
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Vom Rathaus aus ist es nur ein kurzer Spaziergang.",
+            "hu": "A Városházától csak egy rövid séta.",
+            "ro": "Este la o scurtă plimbare de Primărie.",
+            "en": "It's just a short walk from the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Antonius",
+            "hu": "Szent Antal-templom",
+            "ro": "Biserica Sfântul Anton",
+            "en": "Church of Saint Anthony"
+          },
+          "coords": [
+            20.09,
+            45.931
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Setzen Sie Ihren Spaziergang durch das Stadtzentrum fort.",
+            "hu": "Folytassa sétáját a városközpontban.",
+            "ro": "Continuați plimbarea prin centrul orașului.",
+            "en": "Continue your walk through the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedenkstätte Schlacht von Senta",
+            "hu": "A Zentai Csata Emlékműve",
+            "ro": "Memorialul Bătăliei de la Senta",
+            "en": "Battle of Senta Memorial"
+          },
+          "coords": [
+            20.082,
+            45.925
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Fahren Sie zum Flussufer und parken Sie in der Nähe des Denkmals.",
+            "hu": "Vezessen a folyóparthoz, és parkoljon az emlékmű közelében.",
+            "ro": "Conduceți spre malul râului și parcați lângă memorial.",
+            "en": "Drive to the riverbank and park near the memorial."
+          }
+        },
+        {
+          "name": {
+            "de": "Theiß-Brücke",
+            "hu": "Tiszai híd",
+            "ro": "Podul peste Tisa",
+            "en": "Tisa Bridge"
+          },
+          "coords": [
+            20.08,
+            45.926
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Denkmal aus bietet eine großartige Aussicht.",
+            "hu": "Az emlékműtől egy rövid sétára nagyszerű kilátás nyílik.",
+            "ro": "O scurtă plimbare de la memorial vă va oferi o priveliște minunată.",
+            "en": "A short walk from the memorial will give you a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Tisa-Promenade",
+            "hu": "Tisza-parti sétány",
+            "ro": "Promenada Tisa",
+            "en": "Tisa Promenade"
+          },
+          "coords": [
+            20.078,
+            45.924
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Verbringen Sie den Nachmittag hier, essen Sie zu Mittag und entspannen Sie am Fluss.",
+            "hu": "Töltse itt a délutánt, ebédeljen, és pihenjen a folyóparton.",
+            "ro": "Petreceți după-amiaza aici, luați prânzul și relaxați-vă lângă râu.",
+            "en": "Spend the afternoon here, have lunch, and relax by the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die Stadt in zwei Clustern erkunden. Der Vormittag ist dem historischen Zentrum gewidmet, das Sie zu Fuß erkunden. Am Nachmittag fahren Sie zum Theißufer, um das Denkmal und die Promenade zu genießen. Diese Methode kombiniert den Komfort des Autos mit entspannten Spaziergängen.",
+        "hu": "Autóval két klaszterben fedezheti fel a várost. A délelőtt a történelmi központé, amelyet gyalogosan járhat be. Délután a Tisza-parthoz hajt, hogy élvezze az emlékművet és a sétányt. Ez a módszer ötvözi az autó kényelmét a pihentető sétákkal.",
+        "ro": "Cu mașina, puteți explora orașul în două clustere. Dimineața este dedicată centrului istoric, pe care îl veți explora pe jos. După-amiaza, veți conduce spre malul Tisei pentru a vă bucura de memorial și promenadă. Această metodă combină confortul mașinii cu plimbări relaxante.",
+        "en": "By car, you can explore the city in two clusters. The morning is dedicated to the historic center, which you'll explore on foot. In the afternoon, you'll drive to the Tisa riverbank to enjoy the memorial and promenade. This method combines the convenience of the car with relaxing walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrilltes Fleisch",
+            "tip": "Suchen Sie nach einem 'Roštilj'-Restaurant für authentische serbische Grillspezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett húsok",
+            "tip": "Keressen egy 'Roštilj' éttermet az autentikus szerb grillételekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne la grătar",
+            "tip": "Căutați un restaurant 'Roštilj' pentru specialități sârbești autentice la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled meats",
+            "tip": "Look for a 'Roštilj' restaurant for authentic Serbian grilled dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein ruhiger Ort am Fluss",
+            "tip": "Entfliehen Sie dem Trubel der Stadt und finden Sie einen friedlichen Ort entlang der Theiß.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes hely a folyóparton",
+            "tip": "Meneküljön el a város nyüzsgésétől, és keressen egy békés helyet a Tisza mentén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un loc liniștit pe malul râului",
+            "tip": "Evadați din agitația orașului și găsiți un loc pașnic de-a lungul Tisei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet spot by the river",
+            "tip": "Escape the city buzz and find a peaceful spot along the Tisa.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein oder Rakija",
+            "tip": "Ein tolles Souvenir aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor vagy pálinka",
+            "tip": "Nagyszerű ajándéktárgy a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local sau Rakija",
+            "tip": "Un suvenir minunat din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local wine or Rakija",
+            "tip": "A great souvenir from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkvorschriften und -gebühren im Voraus.",
+          "Planen Sie Ihre Route zwischen den Clustern, um Zeit zu sparen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási szabályokat és díjakat.",
+          "Tervezze meg az útvonalat a klaszterek között, hogy időt takarítson meg."
+        ],
+        "ro": [
+          "Verificați în avans regulile și taxele de parcare.",
+          "Planificați-vă traseul între clustere pentru a economisi timp."
+        ],
+        "en": [
+          "Check parking regulations and fees in advance.",
+          "Plan your route between clusters to save time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Feuerturm",
+            "hu": "Városháza és Tűztorony",
+            "ro": "Primăria și Turnul de Pompieri",
+            "en": "Town Hall and Fire Tower"
+          },
+          "coords": [
+            20.088,
+            45.93
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der zentralen Bushaltestelle.",
+            "hu": "Kezdje a napot a központi buszmegállóban.",
+            "ro": "Începeți ziua la stația centrală de autobuz.",
+            "en": "Start your day at the central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Senta",
+            "hu": "Zentai Városi Múzeum",
+            "ro": "Muzeul Orașului Senta",
+            "en": "Senta Town Museum"
+          },
+          "coords": [
+            20.087,
+            45.929
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Gehen Sie vom Rathaus aus zu Fuß, es ist ganz in der Nähe.",
+            "hu": "Sétáljon a Városházától, nagyon közel van.",
+            "ro": "Mergeți pe jos de la Primărie, este foarte aproape.",
+            "en": "Walk from the Town Hall, it's very close."
+          }
+        },
+        {
+          "name": {
+            "de": "Orthodoxe Erzengel-Michael-Kirche",
+            "hu": "Szent Mihály Arkangyal Ortodox Templom",
+            "ro": "Biserica Ortodoxă Sfântul Arhanghel Mihail",
+            "en": "Orthodox Church of Saint Michael the Archangel"
+          },
+          "coords": [
+            20.085,
+            45.927
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein weiterer kurzer Spaziergang durch die charmanten Straßen des Zentrums.",
+            "hu": "Egy újabb rövid séta a központ hangulatos utcáin.",
+            "ro": "O altă plimbare scurtă pe străzile fermecătoare ale centrului.",
+            "en": "Another short walk through the center's charming streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Tisa-Promenade",
+            "hu": "Tisza-parti sétány",
+            "ro": "Promenada Tisa",
+            "en": "Tisa Promenade"
+          },
+          "coords": [
+            20.078,
+            45.924
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nehmen Sie einen Bus zum Flussufer und verbringen Sie den Nachmittag hier.",
+            "hu": "Menjen busszal a folyóparthoz, és töltse itt a délutánt.",
+            "ro": "Luați un autobuz până la malul râului și petreceți după-amiaza aici.",
+            "en": "Take a bus to the riverfront and spend the afternoon here."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedenkstätte Schlacht von Senta",
+            "hu": "A Zentai Csata Emlékműve",
+            "ro": "Memorialul Bătăliei de la Senta",
+            "en": "Battle of Senta Memorial"
+          },
+          "coords": [
+            20.082,
+            45.925
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Gehen Sie entlang der Promenade, um das Denkmal zu erreichen.",
+            "hu": "Sétáljon végig a sétányon, hogy elérje az emlékművet.",
+            "ro": "Plimbați-vă de-a lungul promenadei pentru a ajunge la memorial.",
+            "en": "Walk along the promenade to reach the memorial."
+          }
+        },
+        {
+          "name": {
+            "de": "Theiß-Brücke",
+            "hu": "Tiszai híd",
+            "ro": "Podul peste Tisa",
+            "en": "Tisa Bridge"
+          },
+          "coords": [
+            20.08,
+            45.926
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Beenden Sie Ihren Tag mit einem Blick von der Brücke, bevor Sie den Bus zurück nehmen.",
+            "hu": "Fejezze be a napot egy pillantással a hídról, mielőtt visszaindulna a busszal.",
+            "ro": "Încheiați-vă ziua cu o priveliște de pe pod înainte de a lua autobuzul înapoi.",
+            "en": "End your day with a view from the bridge before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um zwischen dem Stadtzentrum und dem Flussufer zu wechseln. Der Vormittag konzentriert sich auf die zu Fuß erreichbaren Sehenswürdigkeiten im Zentrum. Eine Busfahrt bringt Sie dann zur Theiß-Promenade, wo Sie den Rest des Tages mit Spaziergängen am Wasser und Besichtigungen verbringen.",
+        "hu": "Használja a tömegközlekedést a városközpont és a folyópart közötti közlekedéshez. A délelőtt a központ gyalogosan elérhető látnivalóira összpontosít. Egy buszút elviszi a Tisza-parti sétányhoz, ahol a nap hátralévő részét vízparti sétákkal és nézelődéssel töltheti.",
+        "ro": "Folosiți transportul public pentru a vă deplasa între centrul orașului și malul râului. Dimineața se concentrează pe atracțiile pietonale din centru. O călătorie cu autobuzul vă va duce apoi la Promenada Tisa, unde vă veți petrece restul zilei plimbându-vă pe malul apei și vizitând obiective.",
+        "en": "Use public transit to move between the city center and the riverbank. The morning focuses on the walkable sights in the center. A bus ride then takes you to the Tisa Promenade, where you'll spend the rest of the day with waterside walks and sightseeing."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "Ein schneller und leckerer Snack, den man in vielen Bäckereien findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Gyors és finom harapnivaló, amelyet számos pékségben megtalál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "O gustare rapidă și delicioasă găsită la multe brutării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "A quick and delicious snack found at many bakeries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank am Fluss",
+            "tip": "Warten Sie auf Ihren Bus, während Sie die ruhige Strömung der Theiß beobachten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a folyóparton",
+            "tip": "Várja a buszt, miközben a Tisza csendes áramlását nézi.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă pe malul râului",
+            "tip": "Așteptați autobuzul în timp ce priviți cursul liniștit al Tisei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench by the river",
+            "tip": "Wait for your bus while watching the calm flow of the Tisa.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte",
+            "tip": "Kaufen Sie Paprika oder andere lokale Produkte auf dem Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Vásároljon paprikát vagy más helyi termékeket a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale",
+            "tip": "Cumpărați boia de ardei sau alte produse locale de la piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local produce",
+            "tip": "Buy paprika or other local products at the market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere an Wochenenden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Előre ellenőrizze a buszmenetrendet, különösen hétvégén."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Check the bus schedule in advance, especially on weekends."
+        ]
+      }
+    }
+  }
+}

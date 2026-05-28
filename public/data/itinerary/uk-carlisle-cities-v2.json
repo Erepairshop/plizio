@@ -1,0 +1,1484 @@
+{
+  "city_id": "uk-carlisle-cities-v2",
+  "anchor": {
+    "name": "Carlisle",
+    "coords": [
+      -2.9362,
+      54.8948
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Carlisle Markthalle",
+            "hu": "Carlisle Vásárcsarnok",
+            "ro": "Hala Pieței din Carlisle",
+            "en": "Carlisle Market Hall"
+          },
+          "coords": [
+            -2.935,
+            54.894
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Probieren Sie Cumberland-Wurst von einem lokalen Metzger.",
+            "hu": "Kóstolja meg a Cumberland kolbászt egy helyi hentesnél.",
+            "ro": "Încercați cârnatul Cumberland de la o măcelărie locală.",
+            "en": "Try some Cumberland sausage from a local butcher."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Zunfthaus (Guildhall)",
+            "hu": "A Céhcsarnok",
+            "ro": "The Guildhall (Casa Breslelor)",
+            "en": "The Guildhall"
+          },
+          "coords": [
+            -2.9355,
+            54.8951
+          ],
+          "category": "landmark",
+          "arrive_at": "09:50",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das älteste bürgerliche Gebäude in Carlisle, achten Sie auf die mittelalterliche Holzkonstruktion.",
+            "hu": "Carlisle legrégebbi polgári épülete, figyelje meg a középkori faszerkezetet.",
+            "ro": "Cea mai veche clădire civică din Carlisle, observați structura medievală din lemn.",
+            "en": "The oldest civic building in Carlisle, look for the medieval timber frame."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Cuthbert's Kirche",
+            "hu": "Szent Cuthbert-templom",
+            "ro": "Biserica Sf. Cuthbert",
+            "en": "St Cuthbert's Church"
+          },
+          "coords": [
+            -2.9378,
+            54.8938
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:17",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem wunderschönen Buntglasfenster aus dem 19. Jahrhundert.",
+            "hu": "Keresse a gyönyörű 19. századi ólomüveg ablakot.",
+            "ro": "Căutați frumosul vitraliu din secolul al XIX-lea.",
+            "en": "Look for the beautiful 19th-century stained glass window."
+          }
+        },
+        {
+          "name": {
+            "de": "Carlisle Kathedrale",
+            "hu": "Carlisle-i székesegyház",
+            "ro": "Catedrala din Carlisle",
+            "en": "Carlisle Cathedral"
+          },
+          "coords": [
+            -2.939,
+            54.895
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:57",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die bemalte Decke des Chors, ein Sternenhimmel.",
+            "hu": "Ne hagyja ki a kórus festett mennyezetét, ami egy csillagos égbolt.",
+            "ro": "Nu ratați tavanul pictat al corului, un cer înstelat.",
+            "en": "Don't miss the painted ceiling of the choir, a sky of stars."
+          }
+        },
+        {
+          "name": {
+            "de": "Tullie House Museum und Kunstgalerie",
+            "hu": "Tullie House Múzeum és Képtár",
+            "ro": "Muzeul și Galeria de Artă Tullie House",
+            "en": "Tullie House Museum and Art Gallery"
+          },
+          "coords": [
+            -2.9405,
+            54.8961
+          ],
+          "category": "museums",
+          "arrive_at": "12:12",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ideal für einen Regentag, mit Ausstellungen zur römischen Geschichte und mehr.",
+            "hu": "Tökéletes egy esős napra, a római kori kiállításokkal és sok mással.",
+            "ro": "Ideal pentru o zi ploioasă, cu exponate despre istoria romană și multe altele.",
+            "en": "Perfect for a rainy day, with exhibits on Roman history and more."
+          }
+        },
+        {
+          "name": {
+            "de": "Carlisle Castle",
+            "hu": "Carlisle vára",
+            "ro": "Castelul Carlisle",
+            "en": "Carlisle Castle"
+          },
+          "coords": [
+            -2.943,
+            54.898
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:52",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kerker, in denen Mary, Queen of Scots, gefangen gehalten wurde.",
+            "hu": "Fedezze fel a börtönöket, ahol Stuart Máriát is fogva tartották.",
+            "ro": "Explorați temnițele unde a fost întemnițată Maria, Regina Scoției.",
+            "en": "Explore the dungeons where Mary, Queen of Scots, was imprisoned."
+          }
+        },
+        {
+          "name": {
+            "de": "Bitts Park",
+            "hu": "Bitts Park",
+            "ro": "Parcul Bitts",
+            "en": "Bitts Park"
+          },
+          "coords": [
+            -2.948,
+            54.897
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:12",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang entlang des Flusses Eden, perfekt zum Entspannen.",
+            "hu": "Egy kellemes séta az Eden folyó mentén, tökéletes a pihenésre.",
+            "ro": "O plimbare minunată de-a lungul râului Eden, perfectă pentru relaxare.",
+            "en": "A lovely walk along the River Eden, perfect for unwinding."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem belebten Markt von Carlisle, bevor Sie die mittelalterliche Guildhall und die ruhige St. Cuthbert's Church erkunden. Am Vormittag tauchen Sie in die Geschichte der prächtigen Kathedrale und des Tullie House Museums ein. Nach dem Mittagessen erobern Sie die mächtigen Mauern von Carlisle Castle, wo einst Könige und Königinnen wandelten. Beenden Sie Ihren Tag mit einem entspannenden Spaziergang durch den grünen Bitts Park entlang des Flusses Eden, während die Sonne untergeht.",
+        "hu": "Kezdje a napot Carlisle nyüzsgő piacán, mielőtt felfedezné a középkori Céhcsarnokot és a csendes Szent Cuthbert-templomot. Délelőtt merüljön el a csodálatos székesegyház és a Tullie House Múzeum történelmében. Ebéd után hódítsa meg Carlisle várának hatalmas falait, ahol egykor királyok és királynők jártak. Zárja a napot egy pihentető sétával a zöldellő Bitts Parkban az Eden folyó mentén, miközben a nap lenyugszik.",
+        "ro": "Începeți ziua în piața plină de viață din Carlisle înainte de a explora Guildhall-ul medieval și liniștita Biserică Sf. Cuthbert. Dimineața, pătrundeți în istoria magnificei Catedrale și a Muzeului Tullie House. După prânz, cuceriți zidurile impunătoare ale Castelului Carlisle, unde au pășit odinioară regi și regine. Încheiați ziua cu o plimbare relaxantă prin Parcul Bitts, de-a lungul râului Eden, în timp ce soarele apune.",
+        "en": "Start your day in Carlisle's bustling market before exploring the medieval Guildhall and the quiet St Cuthbert's Church. In the morning, delve into the history at the magnificent Cathedral and Tullie House Museum. After lunch, conquer the mighty walls of Carlisle Castle, where kings and queens once walked. End your day with a relaxing stroll through the verdant Bitts Park along the River Eden as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cumberland Sausage",
+            "tip": "Eine würzige, gedrehte Schweinswurst. Suchen Sie sie in traditionellen Pubs."
+          },
+          {
+            "name": "Sticky Toffee Pudding",
+            "tip": "Ein klassisches britisches Dessert, das oft in der Region serviert wird."
+          },
+          {
+            "name": "The Old Bank",
+            "tip": "Ein beliebtes Restaurant in der Innenstadt, das moderne britische Küche serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cumberland kolbász",
+            "tip": "Fűszeres, tekert sertéskolbász. Keresse a hagyományos pubokban."
+          },
+          {
+            "name": "Ragacsos karamellapuding",
+            "tip": "Klasszikus brit desszert, gyakran szolgálják fel a régióban."
+          },
+          {
+            "name": "The Old Bank",
+            "tip": "Népszerű étterem a városközpontban, modern brit ételeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnat Cumberland",
+            "tip": "Un cârnat de porc picant, încolăcit. Căutați-l în pub-urile tradiționale."
+          },
+          {
+            "name": "Budincă de caramel lipicios",
+            "tip": "Un desert britanic clasic, adesea servit în regiune."
+          },
+          {
+            "name": "The Old Bank",
+            "tip": "Un restaurant popular din centrul orașului care servește bucătărie britanică modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cumberland Sausage",
+            "tip": "A spicy, coiled pork sausage. Look for it in traditional pubs."
+          },
+          {
+            "name": "Sticky Toffee Pudding",
+            "tip": "A classic British dessert, often served in the region."
+          },
+          {
+            "name": "The Old Bank",
+            "tip": "A popular city-centre restaurant serving modern British cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Eden",
+            "tip": "Ein ruhiger Weg abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kathedralen-Gärten",
+            "tip": "Ein friedlicher Ort zum Nachdenken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hadrian's Wall Path",
+            "tip": "Beginnen Sie den Pfad für einen Moment der Einsamkeit und Geschichte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta az Eden folyó mentén",
+            "tip": "Csendes útvonal a városközponttól távolabb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Székesegyház kertje",
+            "tip": "Békés hely az elmélkedésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hadrianus falának ösvénye",
+            "tip": "Kezdje el az ösvényt egy pillanatnyi magányért és történelemért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Eden",
+            "tip": "O potecă liniștită departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Catedralei",
+            "tip": "Un loc pașnic pentru contemplare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Poteca Zidului lui Hadrian",
+            "tip": "Începeți poteca pentru un moment de singurătate și istorie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Eden Walk",
+            "tip": "A quiet path away from the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cathedral Gardens",
+            "tip": "A peaceful spot for contemplation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hadrian's Wall Path",
+            "tip": "Start the path for a moment of solitude and history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Carlisle Market Hall",
+            "tip": "Ein viktorianischer Markt mit unabhängigen Händlern."
+          },
+          {
+            "name": "The Lanes Shopping Centre",
+            "tip": "Die wichtigste Einkaufsdestination mit bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carlisle Vásárcsarnok",
+            "tip": "Viktoriánus piac független kereskedőkkel."
+          },
+          {
+            "name": "The Lanes Bevásárlóközpont",
+            "tip": "A fő bevásárlóhelyszín ismert márkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala Pieței din Carlisle",
+            "tip": "O piață victoriană cu comercianți independenți."
+          },
+          {
+            "name": "Centrul Comercial The Lanes",
+            "tip": "Principala destinație de cumpărături cu mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carlisle Market Hall",
+            "tip": "A Victorian market with independent traders."
+          },
+          {
+            "name": "The Lanes Shopping Centre",
+            "tip": "The main shopping destination with high-street brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und gut zu Fuß zu erkunden ist.",
+          "Viele der historischen Gebäude sind nahe beieinander, was einen gemütlichen Spaziergang ermöglicht.",
+          "Das Wetter kann unvorhersehbar sein, nehmen Sie also eine wasserdichte Jacke mit.",
+          "Buchen Sie Tickets für Carlisle Castle im Voraus, um Warteschlangen zu vermeiden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a városközpont kompakt és könnyen bejárható gyalog.",
+          "A történelmi épületek közül sok közel van egymáshoz, ami kényelmes sétát tesz lehetővé.",
+          "Az időjárás kiszámíthatatlan lehet, ezért vigyen magával vízálló kabátot.",
+          "Foglaljon jegyet Carlisle várába előre, hogy elkerülje a sorban állást."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, centrul orașului este compact și ușor de explorat pe jos.",
+          "Multe dintre clădirile istorice sunt apropiate, permițând o plimbare relaxantă.",
+          "Vremea poate fi imprevizibilă, așa că luați o geacă impermeabilă.",
+          "Rezervați biletele la Castelul Carlisle în avans pentru a evita cozile."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city centre is compact and very walkable.",
+          "Many of the historic buildings are close together, making for a leisurely stroll.",
+          "The weather can be unpredictable, so bring a waterproof jacket.",
+          "Book tickets for Carlisle Castle in advance to avoid queues."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Carlisle Kathedrale",
+            "hu": "Carlisle-i székesegyház",
+            "ro": "Catedrala din Carlisle",
+            "en": "Carlisle Cathedral"
+          },
+          "coords": [
+            -2.939,
+            54.895
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und bewundern Sie die astronomische Uhr.",
+            "hu": "Zárja le a kerékpárját a közelben, és csodálja meg az asztronómiai órát.",
+            "ro": "Legați-vă bicicleta în apropiere și admirați ceasul astronomic.",
+            "en": "Lock your bike nearby and admire the astronomical clock."
+          }
+        },
+        {
+          "name": {
+            "de": "Carlisle Castle",
+            "hu": "Carlisle vára",
+            "ro": "Castelul Carlisle",
+            "en": "Carlisle Castle"
+          },
+          "coords": [
+            -2.943,
+            54.898
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radfahren um die Burgmauern bietet eine einzigartige Perspektive.",
+            "hu": "A várfalak körüli kerékpározás egyedi perspektívát nyújt.",
+            "ro": "Mersul cu bicicleta în jurul zidurilor castelului oferă o perspectivă unică.",
+            "en": "Cycling around the castle walls gives a unique perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Tullie House Museum",
+            "hu": "Tullie House Múzeum",
+            "ro": "Muzeul Tullie House",
+            "en": "Tullie House Museum"
+          },
+          "coords": [
+            -2.9405,
+            54.8961
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein guter Ort, um Ihr Fahrrad abzustellen und die Ausstellungen zu genießen.",
+            "hu": "Jó hely a bicikli leparkolására és a kiállítások élvezetére.",
+            "ro": "Un loc bun pentru a vă parca bicicleta și a vă bucura de expoziții.",
+            "en": "A good place to park your bike and enjoy the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Bitts Park",
+            "hu": "Bitts Park",
+            "ro": "Parcul Bitts",
+            "en": "Bitts Park"
+          },
+          "coords": [
+            -2.948,
+            54.897
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie eine gemütliche Fahrt auf den Wegen des Parks.",
+            "hu": "Élvezze a kellemes kerékpározást a park ösvényein.",
+            "ro": "Bucurați-vă de o plimbare relaxantă pe aleile parcului.",
+            "en": "Enjoy a leisurely ride along the park's pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Hadrian's Wall Path Start",
+            "hu": "Hadrianus falának ösvénye - Kezdet",
+            "ro": "Începutul Potecii Zidului lui Hadrian",
+            "en": "Hadrian's Wall Path Start"
+          },
+          "coords": [
+            -2.954,
+            54.896
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Radle ein kurzes Stück auf dem berühmten Pfad für einen Hauch von Geschichte.",
+            "hu": "Tekerjen egy rövid szakaszon a híres ösvényen a történelem ízéért.",
+            "ro": "Pedalați o scurtă distanță pe faimoasa potecă pentru o doză de istorie.",
+            "en": "Cycle a short distance on the famous path for a taste of history."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Zunfthaus (Guildhall)",
+            "hu": "A Céhcsarnok",
+            "ro": "The Guildhall (Casa Breslelor)",
+            "en": "The Guildhall"
+          },
+          "coords": [
+            -2.9355,
+            54.8951
+          ],
+          "category": "landmark",
+          "arrive_at": "15:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Legen Sie eine Pause ein und bewundern Sie dieses historische Juwel im Stadtzentrum.",
+            "hu": "Tartson egy szünetet és csodálja meg ezt a történelmi gyöngyszemet a városközpontban.",
+            "ro": "Faceți o pauză pentru a admira această bijuterie istorică din centrul orașului.",
+            "en": "Take a break and admire this historic gem in the city centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Carlisle Market Hall",
+            "hu": "Carlisle Vásárcsarnok",
+            "ro": "Hala Pieței din Carlisle",
+            "en": "Carlisle Market Hall"
+          },
+          "coords": [
+            -2.935,
+            54.894
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:35",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag mit lokalen Snacks ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap befejezéséhez helyi finomságokkal.",
+            "ro": "Locul perfect pentru a încheia ziua cu gustări locale.",
+            "en": "The perfect place to end the day with some local snacks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in den Sattel und beginnen Sie am historischen Herzen von Carlisle, der Kathedrale und der Burg. Am Vormittag tauchen Sie im Tullie House Museum in die Kultur ein, bevor Sie eine erfrischende Fahrt durch den Bitts Park genießen. Nachmittags folgen Sie dem Ruf der Geschichte auf einem kurzen Abschnitt des Hadrian's Wall Path. Kehren Sie ins Stadtzentrum zurück, um die mittelalterliche Guildhall zu bewundern und Ihren Tag mit den lebhaften Sehenswürdigkeiten und Gerüchen der Market Hall ausklingen zu lassen.",
+        "hu": "Pattanjon nyeregbe, és induljon Carlisle történelmi szívéből, a székesegyháztól és a vártól. Délelőtt merüljön el a kultúrában a Tullie House Múzeumban, mielőtt egy frissítő tekerést tenne a Bitts Parkban. Délután kövesse a történelem hívását a Hadrianus falának ösvényének egy rövid szakaszán. Térjen vissza a városközpontba, hogy megcsodálja a középkori Céhcsarnokot, és zárja a napot a Vásárcsarnok élénk látványával és illataival.",
+        "ro": "Urcați-vă în șa și porniți din inima istorică a orașului Carlisle, Catedrala și Castelul. Dimineața, absorbiți cultura la Muzeul Tullie House înainte de o plimbare revigorantă prin Parcul Bitts. După-amiaza, urmați chemarea istoriei pe o scurtă secțiune a Potecii Zidului lui Hadrian. Întoarceți-vă în centrul orașului pentru a admira Guildhall-ul medieval și încheiați-vă ziua cu priveliștile și mirosurile vibrante ale Halei Pieței.",
+        "en": "Hop on your bike and start at the historic heart of Carlisle, the Cathedral and Castle. In the morning, absorb some culture at Tullie House Museum before a refreshing ride through Bitts Park. In the afternoon, follow the call of history on a short section of Hadrian's Wall Path. Cycle back to the city centre to admire the medieval Guildhall and end your day with the vibrant sights and smells of the Market Hall."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cumberland Sausage",
+            "tip": "Eine würzige, gedrehte Schweinswurst. Suchen Sie sie in traditionellen Pubs."
+          },
+          {
+            "name": "Sticky Toffee Pudding",
+            "tip": "Ein klassisches britisches Dessert, das oft in der Region serviert wird."
+          },
+          {
+            "name": "The Old Bank",
+            "tip": "Ein beliebtes Restaurant in der Innenstadt, das moderne britische Küche serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cumberland kolbász",
+            "tip": "Fűszeres, tekert sertéskolbász. Keresse a hagyományos pubokban."
+          },
+          {
+            "name": "Ragacsos karamellapuding",
+            "tip": "Klasszikus brit desszert, gyakran szolgálják fel a régióban."
+          },
+          {
+            "name": "The Old Bank",
+            "tip": "Népszerű étterem a városközpontban, modern brit ételeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnat Cumberland",
+            "tip": "Un cârnat de porc picant, încolăcit. Căutați-l în pub-urile tradiționale."
+          },
+          {
+            "name": "Budincă de caramel lipicios",
+            "tip": "Un desert britanic clasic, adesea servit în regiune."
+          },
+          {
+            "name": "The Old Bank",
+            "tip": "Un restaurant popular din centrul orașului care servește bucătărie britanică modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cumberland Sausage",
+            "tip": "A spicy, coiled pork sausage. Look for it in traditional pubs."
+          },
+          {
+            "name": "Sticky Toffee Pudding",
+            "tip": "A classic British dessert, often served in the region."
+          },
+          {
+            "name": "The Old Bank",
+            "tip": "A popular city-centre restaurant serving modern British cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Eden",
+            "tip": "Ein ruhiger Weg abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kathedralen-Gärten",
+            "tip": "Ein friedlicher Ort zum Nachdenken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hadrian's Wall Path",
+            "tip": "Beginnen Sie den Pfad für einen Moment der Einsamkeit und Geschichte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta az Eden folyó mentén",
+            "tip": "Csendes útvonal a városközponttól távolabb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Székesegyház kertje",
+            "tip": "Békés hely az elmélkedésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hadrianus falának ösvénye",
+            "tip": "Kezdje el az ösvényt egy pillanatnyi magányért és történelemért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Eden",
+            "tip": "O potecă liniștită departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Catedralei",
+            "tip": "Un loc pașnic pentru contemplare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Poteca Zidului lui Hadrian",
+            "tip": "Începeți poteca pentru un moment de singurătate și istorie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Eden Walk",
+            "tip": "A quiet path away from the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cathedral Gardens",
+            "tip": "A peaceful spot for contemplation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hadrian's Wall Path",
+            "tip": "Start the path for a moment of solitude and history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Carlisle Market Hall",
+            "tip": "Ein viktorianischer Markt mit unabhängigen Händlern."
+          },
+          {
+            "name": "The Lanes Shopping Centre",
+            "tip": "Die wichtigste Einkaufsdestination mit bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carlisle Vásárcsarnok",
+            "tip": "Viktoriánus piac független kereskedőkkel."
+          },
+          {
+            "name": "The Lanes Bevásárlóközpont",
+            "tip": "A fő bevásárlóhelyszín ismert márkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala Pieței din Carlisle",
+            "tip": "O piață victoriană cu comercianți independenți."
+          },
+          {
+            "name": "Centrul Comercial The Lanes",
+            "tip": "Principala destinație de cumpărături cu mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carlisle Market Hall",
+            "tip": "A Victorian market with independent traders."
+          },
+          {
+            "name": "The Lanes Shopping Centre",
+            "tip": "The main shopping destination with high-street brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Carlisle ist relativ flach und daher fahrradfreundlich.",
+          "Achten Sie auf den Verkehr in der Innenstadt, insbesondere während der Stoßzeiten.",
+          "Schließen Sie Ihr Fahrrad immer an einem sicheren Ort ab.",
+          "Fahrradwege sind im Bitts Park und entlang des Flusses gut ausgebaut."
+        ],
+        "hu": [
+          "Carlisle viszonylag sík, így kerékpárbarát.",
+          "Figyeljen a belvárosi forgalomra, különösen csúcsidőben.",
+          "Mindig zárja le a kerékpárját biztonságos helyen.",
+          "A Bitts Parkban és a folyó mentén jól kiépített kerékpárutak vannak."
+        ],
+        "ro": [
+          "Carlisle este relativ plat, ceea ce îl face prietenos pentru biciclete.",
+          "Fiți atenți la traficul din centrul orașului, în special la orele de vârf.",
+          "Legați-vă întotdeauna bicicleta într-un loc sigur.",
+          "Pistele de biciclete sunt bine dezvoltate în Parcul Bitts și de-a lungul râului."
+        ],
+        "en": [
+          "Carlisle is relatively flat, making it bike-friendly.",
+          "Be aware of traffic in the city centre, especially during peak hours.",
+          "Always lock your bike in a secure place.",
+          "Cycle paths are well-established in Bitts Park and along the river."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Schloss",
+            "hu": "Parkolás a várnál",
+            "ro": "Parcare la Castel",
+            "en": "Castle Car Park"
+          },
+          "coords": [
+            -2.942,
+            54.897
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Es ist der ideale Ausgangspunkt.",
+            "hu": "Parkoljon itt a délelőttre. Ideális kiindulópont.",
+            "ro": "Parcați aici pentru dimineață. Este punctul de plecare ideal.",
+            "en": "Park here for the morning. It's the ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Carlisle Castle",
+            "hu": "Carlisle vára",
+            "ro": "Castelul Carlisle",
+            "en": "Carlisle Castle"
+          },
+          "coords": [
+            -2.943,
+            54.898
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie über die Zugbrücke und stellen Sie sich die Geschichte vor.",
+            "hu": "Sétáljon át a felvonóhídon, és képzelje el a történelmet.",
+            "ro": "Plimbați-vă peste podul mobil și imaginați-vă istoria.",
+            "en": "Stroll across the drawbridge and imagine the history."
+          }
+        },
+        {
+          "name": {
+            "de": "Tullie House Museum",
+            "hu": "Tullie House Múzeum",
+            "ro": "Muzeul Tullie House",
+            "en": "Tullie House Museum"
+          },
+          "coords": [
+            -2.9405,
+            54.8961
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss entfernt, perfekt für den zweiten Teil des Vormittags.",
+            "hu": "Rövid séta a vártól, tökéletes a délelőtt második felére.",
+            "ro": "La o scurtă plimbare de castel, perfect pentru a doua parte a dimineții.",
+            "en": "A short walk from the castle, perfect for the second part of the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Hadrian's Wall Path (Bitts Park)",
+            "hu": "Hadrianus falának ösvénye (Bitts Park)",
+            "ro": "Poteca Zidului lui Hadrian (Parcul Bitts)",
+            "en": "Hadrian's Wall Path (Bitts Park)"
+          },
+          "coords": [
+            -2.954,
+            54.896
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 15,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park und machen Sie einen Spaziergang entlang des berühmten römischen Erbes.",
+            "hu": "Vezessen el a parkhoz, és tegyen egy sétát a híres római örökség mentén.",
+            "ro": "Conduceți până la parc pentru o plimbare de-a lungul faimoasei moșteniri romane.",
+            "en": "Drive to the park for a stroll along the famous Roman heritage trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Carlisle Kathedrale",
+            "hu": "Carlisle-i székesegyház",
+            "ro": "Catedrala din Carlisle",
+            "en": "Carlisle Cathedral"
+          },
+          "coords": [
+            -2.939,
+            54.895
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Zentrums und betreten Sie diesen Ort der Ruhe.",
+            "hu": "Parkoljon a központ közelében, és lépjen be a nyugalom ezen helyére.",
+            "ro": "Parcați lângă centru și intrați în acest loc de liniște.",
+            "en": "Park near the centre and step into this place of tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Zunfthaus & Markthalle",
+            "hu": "Céhcsarnok és Vásárcsarnok",
+            "ro": "Guildhall & Hala Pieței",
+            "en": "The Guildhall & Market Hall"
+          },
+          "coords": [
+            -2.9355,
+            54.8951
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour zu Fuß, indem Sie die historischen und kommerziellen Herzen der Stadt erkunden.",
+            "hu": "Fejezze be a gyalogtúrát a város történelmi és kereskedelmi szívének felfedezésével.",
+            "ro": "Încheiați turul pe jos explorând inimile istorice și comerciale ale orașului.",
+            "en": "Finish your walking tour by exploring the historic and commercial hearts of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie in der Nähe des Schlosses parken und den Vormittag damit verbringen, das Carlisle Castle und das Tullie House Museum zu Fuß zu erkunden. Gegen Mittag fahren Sie zum Bitts Park, um einen Teil des historischen Hadrian's Wall Path zu erleben. Am Nachmittag parken Sie im Stadtzentrum, um die spirituelle Atmosphäre der Kathedrale zu genießen und Ihren Tag mit einem Spaziergang durch die Guildhall und die belebte Market Hall abzuschließen.",
+        "hu": "Kezdje a napot a vár közelében parkolva, és töltse a délelőttöt a Carlisle vár és a Tullie House Múzeum gyalogos felfedezésével. Dél körül vezessen el a Bitts Parkba, hogy megtapasztalja a történelmi Hadrianus falának ösvényének egy részét. Délután parkoljon le a városközpontban, hogy magába szívja a székesegyház spirituális hangulatát, majd zárja a napot egy sétával a Céhcsarnokban és a nyüzsgő Vásárcsarnokban.",
+        "ro": "Începeți ziua parcând lângă castel și petreceți dimineața explorând Castelul Carlisle și Muzeul Tullie House pe jos. La prânz, conduceți spre Parcul Bitts pentru a experimenta o parte din istorica Potecă a Zidului lui Hadrian. După-amiaza, parcați în centrul orașului pentru a absorbi atmosfera spirituală a Catedralei, apoi încheiați ziua cu o plimbare prin Guildhall și vibranta Hală a Pieței.",
+        "en": "Start your day by parking near the castle and spend the morning exploring Carlisle Castle and Tullie House Museum on foot. Around midday, drive to Bitts Park to experience a part of the historic Hadrian's Wall Path. In the afternoon, park in the city centre to absorb the spiritual atmosphere of the Cathedral, then conclude your day with a stroll through the Guildhall and the bustling Market Hall."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cumberland Sausage",
+            "tip": "Eine würzige, gedrehte Schweinswurst. Suchen Sie sie in traditionellen Pubs."
+          },
+          {
+            "name": "Sticky Toffee Pudding",
+            "tip": "Ein klassisches britisches Dessert, das oft in der Region serviert wird."
+          },
+          {
+            "name": "The Old Bank",
+            "tip": "Ein beliebtes Restaurant in der Innenstadt, das moderne britische Küche serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cumberland kolbász",
+            "tip": "Fűszeres, tekert sertéskolbász. Keresse a hagyományos pubokban."
+          },
+          {
+            "name": "Ragacsos karamellapuding",
+            "tip": "Klasszikus brit desszert, gyakran szolgálják fel a régióban."
+          },
+          {
+            "name": "The Old Bank",
+            "tip": "Népszerű étterem a városközpontban, modern brit ételeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnat Cumberland",
+            "tip": "Un cârnat de porc picant, încolăcit. Căutați-l în pub-urile tradiționale."
+          },
+          {
+            "name": "Budincă de caramel lipicios",
+            "tip": "Un desert britanic clasic, adesea servit în regiune."
+          },
+          {
+            "name": "The Old Bank",
+            "tip": "Un restaurant popular din centrul orașului care servește bucătărie britanică modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cumberland Sausage",
+            "tip": "A spicy, coiled pork sausage. Look for it in traditional pubs."
+          },
+          {
+            "name": "Sticky Toffee Pudding",
+            "tip": "A classic British dessert, often served in the region."
+          },
+          {
+            "name": "The Old Bank",
+            "tip": "A popular city-centre restaurant serving modern British cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Eden",
+            "tip": "Ein ruhiger Weg abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kathedralen-Gärten",
+            "tip": "Ein friedlicher Ort zum Nachdenken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hadrian's Wall Path",
+            "tip": "Beginnen Sie den Pfad für einen Moment der Einsamkeit und Geschichte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta az Eden folyó mentén",
+            "tip": "Csendes útvonal a városközponttól távolabb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Székesegyház kertje",
+            "tip": "Békés hely az elmélkedésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hadrianus falának ösvénye",
+            "tip": "Kezdje el az ösvényt egy pillanatnyi magányért és történelemért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Eden",
+            "tip": "O potecă liniștită departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Catedralei",
+            "tip": "Un loc pașnic pentru contemplare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Poteca Zidului lui Hadrian",
+            "tip": "Începeți poteca pentru un moment de singurătate și istorie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Eden Walk",
+            "tip": "A quiet path away from the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cathedral Gardens",
+            "tip": "A peaceful spot for contemplation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hadrian's Wall Path",
+            "tip": "Start the path for a moment of solitude and history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Carlisle Market Hall",
+            "tip": "Ein viktorianischer Markt mit unabhängigen Händlern."
+          },
+          {
+            "name": "The Lanes Shopping Centre",
+            "tip": "Die wichtigste Einkaufsdestination mit bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carlisle Vásárcsarnok",
+            "tip": "Viktoriánus piac független kereskedőkkel."
+          },
+          {
+            "name": "The Lanes Bevásárlóközpont",
+            "tip": "A fő bevásárlóhelyszín ismert márkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala Pieței din Carlisle",
+            "tip": "O piață victoriană cu comercianți independenți."
+          },
+          {
+            "name": "Centrul Comercial The Lanes",
+            "tip": "Principala destinație de cumpărături cu mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carlisle Market Hall",
+            "tip": "A Victorian market with independent traders."
+          },
+          {
+            "name": "The Lanes Shopping Centre",
+            "tip": "The main shopping destination with high-street brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren und -zeiten, da diese variieren können.",
+          "Die Nutzung von Park-and-Ride-Diensten kann eine stressfreie Alternative sein.",
+          "Planen Sie Ihre Fahrten außerhalb der Stoßzeiten, um Verkehr zu vermeiden.",
+          "Achten Sie auf Zonen nur für Fußgänger im Stadtzentrum."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat és időket, mivel azok változhatnak.",
+          "A P+R szolgáltatások használata stresszmentes alternatíva lehet.",
+          "Tervezze az utazásait csúcsidőn kívülre a forgalom elkerülése érdekében.",
+          "Ügyeljen a csak gyalogos zónákra a városközpontban."
+        ],
+        "ro": [
+          "Verificați taxele și orele de parcare, deoarece acestea pot varia.",
+          "Utilizarea serviciilor de park-and-ride poate fi o alternativă fără stres.",
+          "Planificați-vă călătoriile în afara orelor de vârf pentru a evita traficul.",
+          "Fiți atenți la zonele pietonale din centrul orașului."
+        ],
+        "en": [
+          "Check parking fees and times as they can vary.",
+          "Using park-and-ride services can be a stress-free alternative.",
+          "Plan your drives outside of peak hours to avoid traffic.",
+          "Be aware of pedestrian-only zones in the city centre."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Carlisle Bushaltestelle (Zentrum)",
+            "hu": "Carlisle buszpályaudvar (központ)",
+            "ro": "Stația de autobuz Carlisle (Centru)",
+            "en": "Carlisle Bus Station (Centre)"
+          },
+          "coords": [
+            -2.933,
+            54.893
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+            "en": "Buy a day-rider ticket for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Carlisle Kathedrale",
+            "hu": "Carlisle-i székesegyház",
+            "ro": "Catedrala din Carlisle",
+            "en": "Carlisle Cathedral"
+          },
+          "coords": [
+            -2.939,
+            54.895
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle zu diesem spirituellen Zentrum.",
+            "hu": "Rövid séta a buszmegállótól ehhez a spirituális központhoz.",
+            "ro": "O scurtă plimbare de la stația de autobuz la acest centru spiritual.",
+            "en": "A short walk from the bus stop to this spiritual centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Carlisle Castle",
+            "hu": "Carlisle vára",
+            "ro": "Castelul Carlisle",
+            "en": "Carlisle Castle"
+          },
+          "coords": [
+            -2.943,
+            54.898
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehen Sie vom Dom zur Burg, um Ihren historischen Vormittag fortzusetzen.",
+            "hu": "Sétáljon át a székesegyháztól a várhoz, hogy folytassa a történelmi délelőttöt.",
+            "ro": "Mergeți de la catedrală la castel pentru a continua dimineața istorică.",
+            "en": "Walk from the Cathedral to the Castle to continue your historic morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Tullie House Museum",
+            "hu": "Tullie House Múzeum",
+            "ro": "Muzeul Tullie House",
+            "en": "Tullie House Museum"
+          },
+          "coords": [
+            -2.9405,
+            54.8961
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ausstellungen, die nur einen Steinwurf vom Schloss entfernt sind.",
+            "hu": "Fedezze fel a kiállításokat, melyek csak egy kőhajításnyira vannak a vártól.",
+            "ro": "Explorați exponatele la o aruncătură de băț de castel.",
+            "en": "Explore the exhibits just a stone's throw from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Bitts Park",
+            "hu": "Bitts Park",
+            "ro": "Parcul Bitts",
+            "en": "Bitts Park"
+          },
+          "coords": [
+            -2.948,
+            54.897
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Park für eine entspannte Pause am Nachmittag.",
+            "hu": "Buszozzon el a parkba egy pihentető délutáni szünetre.",
+            "ro": "Luați un autobuz spre parc pentru o pauză de după-amiază relaxantă.",
+            "en": "Take a bus to the park for a relaxing afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Carlisle Market Hall",
+            "hu": "Carlisle Vásárcsarnok",
+            "ro": "Hala Pieței din Carlisle",
+            "en": "Carlisle Market Hall"
+          },
+          "coords": [
+            -2.935,
+            54.894
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:10",
+          "stay_min": 50,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Kehren Sie mit dem Bus ins Zentrum zurück und erkunden Sie den Markt.",
+            "hu": "Térjen vissza busszal a központba, és fedezze fel a piacot.",
+            "ro": "Întoarceți-vă în centru cu autobuzul pentru a explora piața.",
+            "en": "Return to the centre by bus to explore the market."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der zentralen Bushaltestelle und machen Sie sich auf den Weg, um die historischen Juwelen von Carlisle zu Fuß zu erkunden: die Kathedrale, die Burg und das Tullie House Museum. Dieser morgendliche Spaziergang bildet einen dichten historischen Cluster. Am Nachmittag nehmen Sie einen Bus zum weitläufigen Bitts Park für eine Dosis Natur. Schließlich bringt Sie ein weiterer Bus zurück ins Herz der Stadt, um Ihren Tag mit einem Bummel durch die lebhafte Market Hall abzuschließen.",
+        "hu": "Kezdje a napot a központi buszpályaudvaron, és induljon el Carlisle történelmi gyöngyszemeinek gyalogos felfedezésére: a székesegyház, a vár és a Tullie House Múzeum. Ez a reggeli séta egy sűrű történelmi csomópontot alkot. Délután buszra szállva juthat el a tágas Bitts Parkba egy adag természetért. Végül egy másik busz visszaviszi a város szívébe, hogy a nyüzsgő Vásárcsarnokban tett sétával zárja a napot.",
+        "ro": "Începeți ziua la stația centrală de autobuz și porniți într-un grup de explorare pe jos a bijuteriilor istorice din Carlisle: Catedrala, Castelul și Muzeul Tullie House. Această plimbare de dimineață formează un cluster istoric dens. După-amiaza, luați un autobuz spre întinsul Parc Bitts pentru o doză de natură. În cele din urmă, un alt autobuz vă va duce înapoi în inima orașului pentru a încheia ziua cu o plimbare prin vibranta Hală a Pieței.",
+        "en": "Start your day at the central bus station and set off on a walking cluster to explore Carlisle's historic gems: the Cathedral, the Castle, and Tullie House Museum. This morning stroll forms a dense historic hub. In the afternoon, take a bus to the expansive Bitts Park for a dose of nature. Finally, another bus will take you back to the heart of the city to end your day with a browse through the lively Market Hall."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cumberland Sausage",
+            "tip": "Eine würzige, gedrehte Schweinswurst. Suchen Sie sie in traditionellen Pubs."
+          },
+          {
+            "name": "Sticky Toffee Pudding",
+            "tip": "Ein klassisches britisches Dessert, das oft in der Region serviert wird."
+          },
+          {
+            "name": "The Old Bank",
+            "tip": "Ein beliebtes Restaurant in der Innenstadt, das moderne britische Küche serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cumberland kolbász",
+            "tip": "Fűszeres, tekert sertéskolbász. Keresse a hagyományos pubokban."
+          },
+          {
+            "name": "Ragacsos karamellapuding",
+            "tip": "Klasszikus brit desszert, gyakran szolgálják fel a régióban."
+          },
+          {
+            "name": "The Old Bank",
+            "tip": "Népszerű étterem a városközpontban, modern brit ételeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnat Cumberland",
+            "tip": "Un cârnat de porc picant, încolăcit. Căutați-l în pub-urile tradiționale."
+          },
+          {
+            "name": "Budincă de caramel lipicios",
+            "tip": "Un desert britanic clasic, adesea servit în regiune."
+          },
+          {
+            "name": "The Old Bank",
+            "tip": "Un restaurant popular din centrul orașului care servește bucătărie britanică modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cumberland Sausage",
+            "tip": "A spicy, coiled pork sausage. Look for it in traditional pubs."
+          },
+          {
+            "name": "Sticky Toffee Pudding",
+            "tip": "A classic British dessert, often served in the region."
+          },
+          {
+            "name": "The Old Bank",
+            "tip": "A popular city-centre restaurant serving modern British cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Eden",
+            "tip": "Ein ruhiger Weg abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kathedralen-Gärten",
+            "tip": "Ein friedlicher Ort zum Nachdenken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hadrian's Wall Path",
+            "tip": "Beginnen Sie den Pfad für einen Moment der Einsamkeit und Geschichte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta az Eden folyó mentén",
+            "tip": "Csendes útvonal a városközponttól távolabb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Székesegyház kertje",
+            "tip": "Békés hely az elmélkedésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hadrianus falának ösvénye",
+            "tip": "Kezdje el az ösvényt egy pillanatnyi magányért és történelemért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Eden",
+            "tip": "O potecă liniștită departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Catedralei",
+            "tip": "Un loc pașnic pentru contemplare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Poteca Zidului lui Hadrian",
+            "tip": "Începeți poteca pentru un moment de singurătate și istorie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Eden Walk",
+            "tip": "A quiet path away from the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cathedral Gardens",
+            "tip": "A peaceful spot for contemplation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hadrian's Wall Path",
+            "tip": "Start the path for a moment of solitude and history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Carlisle Market Hall",
+            "tip": "Ein viktorianischer Markt mit unabhängigen Händlern."
+          },
+          {
+            "name": "The Lanes Shopping Centre",
+            "tip": "Die wichtigste Einkaufsdestination mit bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carlisle Vásárcsarnok",
+            "tip": "Viktoriánus piac független kereskedőkkel."
+          },
+          {
+            "name": "The Lanes Bevásárlóközpont",
+            "tip": "A fő bevásárlóhelyszín ismert márkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala Pieței din Carlisle",
+            "tip": "O piață victoriană cu comercianți independenți."
+          },
+          {
+            "name": "Centrul Comercial The Lanes",
+            "tip": "Principala destinație de cumpărături cu mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carlisle Market Hall",
+            "tip": "A Victorian market with independent traders."
+          },
+          {
+            "name": "The Lanes Shopping Centre",
+            "tip": "The main shopping destination with high-street brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere an Wochenenden.",
+          "Eine Tageskarte ist oft günstiger als Einzelfahrscheine.",
+          "Die Stagecoach-App ist nützlich für Live-Bus-Tracking.",
+          "Seien Sie auf mögliche Verspätungen während der Stoßzeiten vorbereitet."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén.",
+          "A napijegy gyakran olcsóbb, mint az egyedi jegyek.",
+          "A Stagecoach alkalmazás hasznos az élő buszkövetéshez.",
+          "Készüljön fel a lehetséges késésekre csúcsidőben."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor în avans, în special în weekend.",
+          "Un bilet de o zi este adesea mai ieftin decât biletele individuale.",
+          "Aplicația Stagecoach este utilă pentru urmărirea în direct a autobuzelor.",
+          "Fiți pregătiți pentru posibile întârzieri în timpul orelor de vârf."
+        ],
+        "en": [
+          "Check bus timetables in advance, especially on weekends.",
+          "A day-rider ticket is often cheaper than buying single fares.",
+          "The Stagecoach app is useful for live bus tracking.",
+          "Be prepared for potential delays during peak hours."
+        ]
+      }
+    }
+  }
+}

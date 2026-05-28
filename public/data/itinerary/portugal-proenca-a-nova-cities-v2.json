@@ -1,0 +1,1375 @@
+{
+  "city_id": "portugal-proenca-a-nova-cities-v2",
+  "anchor": {
+    "name": "Proença-a-Nova",
+    "coords": [
+      -7.9333,
+      39.75
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Jardim das Plantas",
+            "hu": "Növénykert",
+            "ro": "Grădina Botanică",
+            "en": "Garden of Plants"
+          },
+          "coords": [
+            -7.9325,
+            39.751
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag entspannt inmitten der lokalen Flora.",
+            "hu": "Kezdje a napot egy pihentető sétával a helyi flóra között.",
+            "ro": "Începeți ziua relaxat în mijlocul florei locale.",
+            "en": "Start the day relaxed amidst the local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz de Proença-a-Nova",
+            "hu": "Proença-a-Nova főtemploma",
+            "ro": "Biserica Matriz din Proença-a-Nova",
+            "en": "Main Church of Proença-a-Nova"
+          },
+          "coords": [
+            -7.9338,
+            39.7505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beachten Sie das manuelinische Portal und den barocken Altaraufsatz im Inneren.",
+            "hu": "Figyelje meg a mánueli stílusú portált és a barokk oltárképet.",
+            "ro": "Observați portalul manuelin și altarul baroc din interior.",
+            "en": "Note the Manueline portal and the Baroque altarpiece inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela da Misericórdia",
+            "hu": "Irgalmasság Kápolnája",
+            "ro": "Capela Misericórdia",
+            "en": "Chapel of Mercy"
+          },
+          "coords": [
+            -7.9345,
+            39.7498
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine kleine Kapelle mit einer schlichten, aber eindrucksvollen Atmosphäre.",
+            "hu": "Egy kis kápolna egyszerű, mégis lenyűgöző hangulattal.",
+            "ro": "O capelă mică, cu o atmosferă simplă, dar impresionantă.",
+            "en": "A small chapel with a simple yet impressive atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Etnográfico",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            -7.9355,
+            39.7512
+          ],
+          "category": "museums",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Traditionen der Harz- und Olivenölgewinnung in der Region.",
+            "hu": "Ismerje meg a régió gyanta- és olívaolaj-termelési hagyományait.",
+            "ro": "Aflați despre tradițiile de recoltare a rășinii și a uleiului de măsline din regiune.",
+            "en": "Learn about the resin and olive oil harvesting traditions of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            -7.9348,
+            39.7508
+          ],
+          "category": "gastro",
+          "arrive_at": "13:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie das lokale \"Maranho\" in einem der traditionellen Restaurants.",
+            "hu": "Kóstolja meg a helyi \"Maranho\"-t egy hagyományos étteremben.",
+            "ro": "Încercați \"Maranho\", o specialitate locală, la unul dintre restaurantele tradiționale.",
+            "en": "Try the local \"Maranho\" in one of the traditional restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Ciência Viva da Floresta",
+            "hu": "Az Erdő Élő Tudomány Központja",
+            "ro": "Centrul de Știință Vie a Pădurii",
+            "en": "Forest Science Live Center"
+          },
+          "coords": [
+            -7.941,
+            39.7545
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Interaktive Ausstellungen, ideal für Familien, die den Wald spielerisch entdecken möchten.",
+            "hu": "Interaktív kiállítások, ideális családoknak, akik játékosan szeretnék felfedezni az erdőt.",
+            "ro": "Expoziții interactive, ideale pentru familii, pentru a descoperi pădurea într-un mod jucăuș.",
+            "en": "Interactive exhibits, ideal for families to discover the forest in a playful way."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Proença-a-Nova beginnt mit einem Spaziergang durch den ruhigen Jardim das Plantas. Am Vormittag erkunden Sie das historische Herz der Stadt, besuchen die beeindruckende Igreja Matriz und die besinnliche Capela da Misericórdia. Mittags tauchen Sie im Museu Etnográfico in die lokalen Traditionen ein, bevor Sie eine wohlverdiente Pause mit regionalen Spezialitäten einlegen. Der Nachmittag ist der Wissenschaft gewidmet: Ein längerer Spaziergang führt Sie zum Centro Ciência Viva da Floresta, wo Sie die Geheimnisse des Waldes entdecken. Der Tag endet mit neuen Erkenntnissen und dem Gefühl, die Stadt wirklich erlebt zu haben.",
+        "hu": "A nap Proença-a-Novában egy sétával kezdődik a csendes Növénykertben. Délelőtt felfedezi a város történelmi szívét, meglátogatja a lenyűgöző főtemplomot és az elmélyült Irgalmasság Kápolnáját. Délben a Néprajzi Múzeumban elmerül a helyi hagyományokban, mielőtt egy jól megérdemelt szünetet tartana regionális különlegességekkel. A délután a tudományé: egy hosszabb séta vezet az Erdő Élő Tudomány Központjába, ahol felfedezheti az erdő titkait. A nap új ismeretekkel és azzal az érzéssel zárul, hogy igazán átélte a várost.",
+        "ro": "Ziua dumneavoastră în Proença-a-Nova începe cu o plimbare prin liniștita Grădină Botanică. Dimineața explorați inima istorică a orașului, vizitând impresionanta Biserică Matriz și Capela Misericórdia, plină de reculegere. La prânz, vă cufundați în tradițiile locale la Muzeul Etnografic, înainte de a lua o pauză binemeritată cu specialități regionale. După-amiaza este dedicată științei: o plimbare mai lungă vă duce la Centrul de Știință Vie a Pădurii, unde descoperiți secretele pădurii. Ziua se încheie cu noi cunoștințe și cu sentimentul că ați trăit cu adevărat orașul.",
+        "en": "Your day in Proença-a-Nova begins with a stroll through the tranquil Garden of Plants. In the morning, you'll explore the historical heart of the town, visiting the impressive Main Church and the contemplative Chapel of Mercy. At noon, delve into local traditions at the Ethnographic Museum before taking a well-deserved break with regional specialties. The afternoon is dedicated to science: a longer walk takes you to the Forest Science Live Center, where you'll discover the secrets of the forest. The day ends with new knowledge and the feeling of having truly experienced the town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maranho",
+            "tip": "Eine lokale Wurstspezialität aus Ziegenfleisch, Reis und Minze, die man probieren muss."
+          },
+          {
+            "name": "Queijo de Cabra",
+            "tip": "Handwerklich hergestellter Ziegenkäse aus der Region, perfekt als Vorspeise."
+          },
+          {
+            "name": "Tigelada",
+            "tip": "Ein traditioneller Pudding-ähnlicher Nachtisch, gebacken in einem Tontopf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maranho",
+            "tip": "Helyi kolbászkülönlegesség kecskehúsból, rizsből és mentából, amit muszáj megkóstolni."
+          },
+          {
+            "name": "Queijo de Cabra",
+            "tip": "Kézműves kecskesajt a régióból, tökéletes előételnek."
+          },
+          {
+            "name": "Tigelada",
+            "tip": "Hagyományos, pudingszerű desszert, agyagedényben sütve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maranho",
+            "tip": "O specialitate locală de cârnat din carne de capră, orez și mentă, care trebuie încercată."
+          },
+          {
+            "name": "Queijo de Cabra",
+            "tip": "Brânză de capră artizanală din regiune, perfectă ca aperitiv."
+          },
+          {
+            "name": "Tigelada",
+            "tip": "Un desert tradițional asemănător budincii, copt într-un vas de lut."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maranho",
+            "tip": "A local sausage specialty made from goat meat, rice, and mint that is a must-try."
+          },
+          {
+            "name": "Queijo de Cabra",
+            "tip": "Artisanal goat cheese from the region, perfect as a starter."
+          },
+          {
+            "name": "Tigelada",
+            "tip": "A traditional pudding-like dessert baked in a clay pot."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardim das Plantas",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Stille am Morgen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Ribeira da Pracana",
+            "tip": "Ein kurzer Spaziergang entlang des Baches bietet eine friedliche Flucht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardim das Plantas",
+            "tip": "Keressen egy csendes padot, és élvezze a reggeli nyugalmat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ribeira da Pracana partja",
+            "tip": "Egy rövid séta a patak mentén békés kikapcsolódást nyújt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardim das Plantas",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de liniștea dimineții.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile pârâului Ribeira da Pracana",
+            "tip": "O scurtă plimbare de-a lungul pârâului oferă o evadare pașnică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden of Plants",
+            "tip": "Find a quiet bench and enjoy the morning tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Ribeira da Pracana stream",
+            "tip": "A short walk along the stream offers a peaceful escape.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie regionalen Honig, Olivenöl und Kunsthandwerk."
+          },
+          {
+            "name": "Korbwaren",
+            "tip": "Die Region ist bekannt für ihre handgefertigten Körbe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi mézet, olívaolajat és kézműves termékeket."
+          },
+          {
+            "name": "Kosárfonás",
+            "tip": "A régió híres kézzel készített kosarairól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați miere locală, ulei de măsline și produse de artizanat."
+          },
+          {
+            "name": "Împletituri din răchită",
+            "tip": "Regiunea este cunoscută pentru coșurile sale lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy regional honey, olive oil, and handicrafts."
+          },
+          {
+            "name": "Basketry",
+            "tip": "The region is known for its handmade baskets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages auf Kopfsteinpflaster unterwegs sein werden.",
+          "Nehmen Sie eine Wasserflasche mit, besonders für den längeren Spaziergang am Nachmittag.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie etwas mehr Zeit für das Ethnographische Museum ein, es gibt viel zu entdecken."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében macskaköves utakon fog sétálni.",
+          "Vigyen magával egy vizes palackot, különösen a délutáni hosszabb sétára.",
+          "A központ legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Tervezzen egy kicsit több időt a Néprajzi Múzeumra, sok a látnivaló."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe străzi pavate în cea mai mare parte a zilei.",
+          "Luați cu dumneavoastră o sticlă de apă, mai ales pentru plimbarea mai lungă de după-amiază.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați puțin mai mult timp pentru Muzeul Etnografic, sunt multe de descoperit."
+        ],
+        "en": [
+          "Wear comfortable shoes, as you will be walking on cobblestone streets for most of the day.",
+          "Bring a water bottle, especially for the longer walk in the afternoon.",
+          "Most sights in the center are easily reachable on foot.",
+          "Plan a little extra time for the Ethnographic Museum; there is a lot to discover."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Centro Ciência Viva",
+            "hu": "Indulás a Ciência Viva Központtól",
+            "ro": "Pornire de la Centrul Ciência Viva",
+            "en": "Start at the Ciência Viva Center"
+          },
+          "coords": [
+            -7.941,
+            39.7545
+          ],
+          "category": "other",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Holen Sie Ihr Fahrrad ab und bereiten Sie sich auf eine Tour zwischen Wissenschaft und Natur vor.",
+            "hu": "Vegye át a kerékpárt, és készüljön fel egy túrára a tudomány és a természet között.",
+            "ro": "Luați bicicleta și pregătiți-vă pentru un tur între știință și natură.",
+            "en": "Pick up your bike and get ready for a tour between science and nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte Romana de Alvito",
+            "hu": "Alvito római híd",
+            "ro": "Podul Roman din Alvito",
+            "en": "Roman Bridge of Alvito"
+          },
+          "coords": [
+            -7.91,
+            39.78
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Eine malerische Radtour führt zu dieser alten Brücke. Ein perfekter Ort für Fotos.",
+            "hu": "Festői kerékpártúra vezet ehhez az ősi hídhoz. Tökéletes hely fotózáshoz.",
+            "ro": "O plimbare pitorească cu bicicleta duce la acest pod antic. Un loc perfect pentru fotografii.",
+            "en": "A scenic bike ride leads to this ancient bridge. A perfect spot for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz de Proença-a-Nova",
+            "hu": "Proença-a-Nova főtemploma",
+            "ro": "Biserica Matriz din Proença-a-Nova",
+            "en": "Main Church of Proença-a-Nova"
+          },
+          "coords": [
+            -7.9338,
+            39.7505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie das historische Zentrum.",
+            "hu": "Parkolja le a kerékpárt, és csodálja meg a történelmi központot.",
+            "ro": "Parcați bicicleta și admirați centrul istoric.",
+            "en": "Park your bike and admire the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Etnográfico",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            -7.9355,
+            39.7512
+          ],
+          "category": "museums",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Hauptplatz entfernt, um mehr über die lokale Kultur zu erfahren.",
+            "hu": "Rövid biciklizés a főtérről, hogy többet tudjon meg a helyi kultúráról.",
+            "ro": "O scurtă plimbare cu bicicleta din piața principală pentru a afla mai multe despre cultura locală.",
+            "en": "A short ride from the main square to learn about the local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            -7.9348,
+            39.7508
+          ],
+          "category": "gastro",
+          "arrive_at": "13:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stärken Sie sich mit lokalen Köstlichkeiten für die Nachmittagstour.",
+            "hu": "Erősítse meg magát helyi finomságokkal a délutáni túrára.",
+            "ro": "Întăriți-vă cu delicatese locale pentru turul de după-amiază.",
+            "en": "Refuel with local delicacies for the afternoon tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardim das Plantas",
+            "hu": "Növénykert",
+            "ro": "Grădina Botanică",
+            "en": "Garden of Plants"
+          },
+          "coords": [
+            -7.9325,
+            39.751
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannten Zeit in diesem schönen Garten.",
+            "hu": "Zárja a kerékpártúrát egy pihentető időtöltéssel ebben a szép kertben.",
+            "ro": "Încheiați turul cu bicicleta cu un moment de relaxare în această grădină frumoasă.",
+            "en": "End your bike tour with some relaxing time in this beautiful garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrradtour beginnt am Wissenschaftszentrum, von wo aus Sie eine malerische Route zur historischen Ponte Romana de Alvito nehmen. Am Vormittag radeln Sie zurück ins Herz von Proença-a-Nova, um die Igreja Matriz und das nahegelegene Museu Etnográfico zu erkunden. Nach einem stärkenden Mittagessen mit lokalen Spezialitäten führt Sie eine gemütliche Fahrt zum Jardim das Plantas, wo Sie den Nachmittag ausklingen lassen. Diese Tour kombiniert perfekt Naturerlebnisse mit kulturellen Entdeckungen und bietet eine aktive Möglichkeit, die Vielfalt der Region zu erleben.",
+        "hu": "A kerékpártúra a Tudományos Központtól indul, ahonnan festői úton jut el a történelmi Alvito római hídhoz. Délelőtt visszateker Proença-a-Nova szívébe, hogy felfedezze a főtemplomot és a közeli Néprajzi Múzeumot. Egy helyi specialitásokkal teli, feltöltő ebéd után egy kellemes út vezet a Növénykertbe, ahol a délutánt töltheti. Ez a túra tökéletesen ötvözi a természeti élményeket a kulturális felfedezésekkel, és aktív módot kínál a régió sokszínűségének megismerésére.",
+        "ro": "Turul dumneavoastră cu bicicleta începe de la Centrul de Știință, de unde urmați un traseu pitoresc către istoricul Pod Roman din Alvito. Dimineața pedalați înapoi în inima orașului Proença-a-Nova pentru a explora Biserica Matriz și Muzeul Etnografic din apropiere. După un prânz revigorant cu specialități locale, o plimbare relaxantă vă duce la Grădina Botanică, unde vă puteți petrece după-amiaza. Acest tur combină perfect experiențele în natură cu descoperirile culturale, oferind o modalitate activă de a experimenta diversitatea regiunii.",
+        "en": "Your bike tour starts at the Science Center, from where you'll take a scenic route to the historic Roman Bridge of Alvito. In the morning, you'll cycle back to the heart of Proença-a-Nova to explore the Main Church and the nearby Ethnographic Museum. After a fortifying lunch with local specialties, a leisurely ride takes you to the Garden of Plants, where you can spend the afternoon. This tour perfectly combines nature experiences with cultural discoveries, offering an active way to experience the region's diversity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maranho",
+            "tip": "Eine lokale Wurstspezialität aus Ziegenfleisch, Reis und Minze, die man probieren muss."
+          },
+          {
+            "name": "Queijo de Cabra",
+            "tip": "Handwerklich hergestellter Ziegenkäse aus der Region, perfekt als Vorspeise."
+          },
+          {
+            "name": "Vinho da Beira Interior",
+            "tip": "Probieren Sie einen lokalen Wein aus der Weinregion Beira Interior."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maranho",
+            "tip": "Helyi kolbászkülönlegesség kecskehúsból, rizsből és mentából, amit muszáj megkóstolni."
+          },
+          {
+            "name": "Queijo de Cabra",
+            "tip": "Kézműves kecskesajt a régióból, tökéletes előételnek."
+          },
+          {
+            "name": "Vinho da Beira Interior",
+            "tip": "Kóstoljon meg egy helyi bort a Beira Interior borvidékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maranho",
+            "tip": "O specialitate locală de cârnat din carne de capră, orez și mentă, care trebuie încercată."
+          },
+          {
+            "name": "Queijo de Cabra",
+            "tip": "Brânză de capră artizanală din regiune, perfectă ca aperitiv."
+          },
+          {
+            "name": "Vinho da Beira Interior",
+            "tip": "Gustați un vin local din regiunea viticolă Beira Interior."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maranho",
+            "tip": "A local sausage specialty made from goat meat, rice, and mint that is a must-try."
+          },
+          {
+            "name": "Queijo de Cabra",
+            "tip": "Artisanal goat cheese from the region, perfect as a starter."
+          },
+          {
+            "name": "Vinho da Beira Interior",
+            "tip": "Try a local wine from the Beira Interior wine region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ponte Romana de Alvito",
+            "tip": "Genießen Sie die Ruhe an diesem historischen Ort am Morgen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardim das Plantas",
+            "tip": "Ein perfekter Ort zum Entspannen nach einer langen Radtour.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alvito római híd",
+            "tip": "Élvezze a csendet ezen a történelmi helyen reggel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Növénykert",
+            "tip": "Tökéletes hely a pihenésre egy hosszú kerékpártúra után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podul Roman din Alvito",
+            "tip": "Bucurați-vă de liniște în acest loc istoric dimineața.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Un loc perfect pentru a vă relaxa după o plimbare lungă cu bicicleta.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Roman Bridge of Alvito",
+            "tip": "Enjoy the tranquility at this historic site in the morning.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of Plants",
+            "tip": "A perfect place to relax after a long bike ride.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie nach handgefertigter Keramik und Textilien."
+          },
+          {
+            "name": "Süßwarenläden",
+            "tip": "Kaufen Sie 'Bolo Finto', ein lokales süßes Brot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézművesség",
+            "tip": "Keressen kézzel készített kerámiákat és textíliákat."
+          },
+          {
+            "name": "Cukrászdák",
+            "tip": "Vásároljon 'Bolo Finto'-t, egy helyi édes kenyeret."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați ceramică și textile lucrate manual."
+          },
+          {
+            "name": "Cofetării",
+            "tip": "Cumpărați 'Bolo Finto', o pâine dulce locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Look for handmade ceramics and textiles."
+          },
+          {
+            "name": "Pastry Shops",
+            "tip": "Buy 'Bolo Finto', a local sweet bread."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Zustand Ihres Fahrrads, bevor Sie losfahren, insbesondere die Bremsen und Reifen.",
+          "Einige Strecken können hügelig sein, seien Sie also auf Anstiege vorbereitet.",
+          "Nehmen Sie ausreichend Wasser und Snacks für unterwegs mit.",
+          "Ein Helm wird für Ihre Sicherheit dringend empfohlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát, különösen a fékeket és a gumikat.",
+          "Néhány szakasz dombos lehet, ezért készüljön fel emelkedőkre.",
+          "Vigyen magával elegendő vizet és harapnivalót az útra.",
+          "A sisak viselése erősen ajánlott a biztonsága érdekében."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a pleca, în special frânele și anvelopele.",
+          "Unele secțiuni pot fi deluroase, așa că fiți pregătiți pentru urcări.",
+          "Luați suficientă apă și gustări pentru drum.",
+          "O cască este foarte recomandată pentru siguranța dumneavoastră."
+        ],
+        "en": [
+          "Check the condition of your bike before you leave, especially the brakes and tires.",
+          "Some sections can be hilly, so be prepared for climbs.",
+          "Take enough water and snacks for the road.",
+          "A helmet is highly recommended for your safety."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 42.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Miradouro das Portas de Almourão",
+            "hu": "Portas de Almourão kilátó",
+            "ro": "Punct de belvedere Portas de Almourão",
+            "en": "Portas de Almourão Viewpoint"
+          },
+          "coords": [
+            -7.858,
+            39.7995
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer atemberaubenden Aussicht auf die Schlucht. Am besten frühmorgens.",
+            "hu": "Kezdje a napot a szurdokra nyíló lélegzetelállító kilátással. A legjobb kora reggel.",
+            "ro": "Începeți ziua cu o priveliște uluitoare asupra defileului. Cel mai bine dimineața devreme.",
+            "en": "Start the day with a breathtaking view of the gorge. Best in the early morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte Romana de Alvito",
+            "hu": "Alvito római híd",
+            "ro": "Podul Roman din Alvito",
+            "en": "Roman Bridge of Alvito"
+          },
+          "coords": [
+            -7.91,
+            39.78
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um dieses Stück antiker Ingenieurskunst zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja ezt az ókori mérnöki alkotást.",
+            "ro": "O scurtă oprire pentru a admira această bucată de inginerie antică.",
+            "en": "A quick stop to admire this piece of ancient engineering."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz de Proença-a-Nova (Cluster-Start)",
+            "hu": "Proença-a-Nova főtemploma (Klaszter kezdete)",
+            "ro": "Biserica Matriz din Proença-a-Nova (Începutul clusterului)",
+            "en": "Main Church of Proença-a-Nova (Cluster Start)"
+          },
+          "coords": [
+            -7.9338,
+            39.7505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie die historischen Sehenswürdigkeiten zu Fuß.",
+            "hu": "Parkolja le autóját a központban, és fedezze fel gyalog a történelmi látnivalókat.",
+            "ro": "Parcați mașina în centru și explorați obiectivele istorice pe jos.",
+            "en": "Park your car in the center and explore the historical sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Etnográfico",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            -7.9355,
+            39.7512
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche entfernt, um in die lokale Kultur einzutauchen.",
+            "hu": "Rövid séta a templomtól, hogy elmerüljön a helyi kultúrában.",
+            "ro": "O scurtă plimbare de la biserică pentru a vă cufunda în cultura locală.",
+            "en": "A short walk from the church to immerse yourself in the local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            -7.9348,
+            39.7508
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie ein herzhaftes Mittagessen, bevor Sie zum nächsten Ziel aufbrechen.",
+            "hu": "Élvezzen egy kiadós ebédet, mielőtt a következő célponthoz indul.",
+            "ro": "Bucurați-vă de un prânz copios înainte de a porni spre următoarea destinație.",
+            "en": "Enjoy a hearty lunch before setting off for the next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Fluvial da Aldeia Ruiva",
+            "hu": "Aldeia Ruiva folyóparti strand",
+            "ro": "Plaja fluvială Aldeia Ruiva",
+            "en": "Aldeia Ruiva River Beach"
+          },
+          "coords": [
+            -8.015,
+            39.73
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 16.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Nachmittag mit Schwimmen und Entspannen in der Natur zu verbringen.",
+            "hu": "Tökéletes hely a délutáni úszáshoz és pihenéshez a természetben.",
+            "ro": "Locul perfect pentru a petrece după-amiaza înotând și relaxându-vă în natură.",
+            "en": "The perfect place to spend the afternoon swimming and relaxing in nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the Center"
+          },
+          "coords": [
+            -7.9333,
+            39.75
+          ],
+          "category": "other",
+          "arrive_at": "18:25",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 16.6,
+          "tip_5lang": {
+            "de": "Ein erlebnisreicher Tag voller Kontraste zwischen Kultur und Natur geht zu Ende.",
+            "hu": "Egy eseménydús, kultúra és természet közötti kontrasztokkal teli nap ér véget.",
+            "ro": "O zi plină de evenimente, cu contraste între cultură și natură, se apropie de sfârșit.",
+            "en": "An eventful day full of contrasts between culture and nature comes to an end."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einem Paukenschlag am Miradouro das Portas de Almourão, wo Sie eine spektakuläre Aussicht genießen. Nach einem kurzen Halt an der antiken Ponte Romana de Alvito fahren Sie ins Zentrum von Proença-a-Nova. Hier parken Sie und erkunden den ersten Cluster zu Fuß: die Igreja Matriz und das Museu Etnográfico. Nach einem traditionellen Mittagessen fahren Sie zum zweiten Highlight, der Praia Fluvial da Aldeia Ruiva, wo Sie den gesamten Nachmittag entspannen. Dieser Roadtrip verbindet landschaftliche Höhepunkte mit dem historischen Kern der Stadt und einem erfrischenden Naturerlebnis.",
+        "hu": "Az autós nap egy csúcsponttal kezdődik a Portas de Almourão kilátónál, ahonnan lenyűgöző kilátás nyílik. Egy rövid megálló után az ókori Alvito római hídnál Proença-a-Nova központjába hajt. Itt leparkol, és gyalog fedezi fel az első klasztert: a főtemplomot és a Néprajzi Múzeumot. Egy hagyományos ebéd után a második fénypont, az Aldeia Ruiva folyóparti strand felé veszi az irányt, ahol az egész délutánt pihenéssel tölti. Ez az autós túra ötvözi a festői csúcspontokat a város történelmi magjával és egy frissítő természeti élménnyel.",
+        "ro": "Ziua dumneavoastră cu mașina începe în forță la Punctul de belvedere Portas de Almourão, unde vă bucurați de o priveliște spectaculoasă. După o scurtă oprire la anticul Pod Roman din Alvito, conduceți spre centrul orașului Proença-a-Nova. Aici parcați și explorați primul cluster pe jos: Biserica Matriz și Muzeul Etnografic. După un prânz tradițional, vă îndreptați spre al doilea punct de atracție, Plaja fluvială Aldeia Ruiva, unde vă relaxați toată după-amiaza. Acest road trip combină punctele de atracție peisagistice cu nucleul istoric al orașului și o experiență revigorantă în natură.",
+        "en": "Your car day starts with a bang at the Portas de Almourão Viewpoint, where you'll enjoy a spectacular view. After a quick stop at the ancient Roman Bridge of Alvito, you'll drive to the center of Proença-a-Nova. Here, you park and explore the first cluster on foot: the Main Church and the Ethnographic Museum. After a traditional lunch, you'll head to the second highlight, the Aldeia Ruiva River Beach, where you'll relax for the entire afternoon. This road trip combines scenic highlights with the town's historic core and a refreshing nature experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maranho",
+            "tip": "Probieren Sie diese einzigartige Spezialität in einem Restaurant im Stadtzentrum."
+          },
+          {
+            "name": "Afogado da Boda",
+            "tip": "Ein Ziegeneintopf, der traditionell bei Hochzeiten serviert wird."
+          },
+          {
+            "name": "Käse aus der Region",
+            "tip": "Suchen Sie nach handwerklich hergestelltem Ziegen- und Schafskäse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maranho",
+            "tip": "Kóstolja meg ezt az egyedülálló különlegességet egy belvárosi étteremben."
+          },
+          {
+            "name": "Afogado da Boda",
+            "tip": "Kecskepörkölt, amelyet hagyományosan esküvőkön szolgálnak fel."
+          },
+          {
+            "name": "Helyi sajtok",
+            "tip": "Keressen kézműves kecske- és juhsajtokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maranho",
+            "tip": "Încercați această specialitate unică la un restaurant din centrul orașului."
+          },
+          {
+            "name": "Afogado da Boda",
+            "tip": "O tocană de capră servită în mod tradițional la nunți."
+          },
+          {
+            "name": "Brânzeturi din regiune",
+            "tip": "Căutați brânzeturi artizanale de capră și oaie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maranho",
+            "tip": "Try this unique specialty at a restaurant in the city center."
+          },
+          {
+            "name": "Afogado da Boda",
+            "tip": "A goat stew traditionally served at weddings."
+          },
+          {
+            "name": "Cheeses from the region",
+            "tip": "Look for artisanal goat and sheep cheeses."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Miradouro das Portas de Almourão",
+            "tip": "Genießen Sie die Stille und die weite Aussicht am Morgen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Praia Fluvial da Aldeia Ruiva",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ponte Romana de Alvito",
+            "tip": "Ein friedlicher, geschichtsträchtiger Ort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Portas de Almourão kilátó",
+            "tip": "Élvezze a csendet és a tágas kilátást reggel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aldeia Ruiva folyóparti strand",
+            "tip": "Keressen egy csendes helyet a vízparton, és hallgassa a természet hangjait.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alvito római híd",
+            "tip": "Békés, történelmi hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Portas de Almourão",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică dimineața.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaja fluvială Aldeia Ruiva",
+            "tip": "Găsiți un loc liniștit lângă apă și ascultați sunetele naturii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Podul Roman din Alvito",
+            "tip": "Un loc pașnic, încărcat de istorie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Portas de Almourão Viewpoint",
+            "tip": "Enjoy the silence and the vast view in the morning.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aldeia Ruiva River Beach",
+            "tip": "Find a quiet spot by the water and listen to the sounds of nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Roman Bridge of Alvito",
+            "tip": "A peaceful place steeped in history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenverkäufer in der Nähe von Sehenswürdigkeiten",
+            "tip": "Kaufen Sie handgemachtes Kunsthandwerk als Souvenir."
+          },
+          {
+            "name": "Lokale Produzenten",
+            "tip": "Halten Sie Ausschau nach Schildern, die Olivenöl oder Honig direkt vom Erzeuger verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai árusok a látnivalók közelében",
+            "tip": "Vásároljon kézzel készített kézműves termékeket ajándékba."
+          },
+          {
+            "name": "Helyi termelők",
+            "tip": "Keresse azokat a táblákat, amelyek olívaolajat vagy mézet árulnak közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători ambulanți lângă atracții",
+            "tip": "Cumpărați obiecte de artizanat lucrate manual ca suveniruri."
+          },
+          {
+            "name": "Producători locali",
+            "tip": "Fiți atenți la indicatoarele care vând ulei de măsline sau miere direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street vendors near attractions",
+            "tip": "Buy handmade crafts as souvenirs."
+          },
+          {
+            "name": "Local Producers",
+            "tip": "Look for signs selling olive oil or honey directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Auto ist ideal, um die weiter entfernten Naturattraktionen zu erreichen.",
+          "Parken Sie im Zentrum, um die Stadt bequem zu Fuß zu erkunden.",
+          "Die Straßen zu den Aussichtspunkten können eng und kurvig sein, fahren Sie vorsichtig.",
+          "Packen Sie Badekleidung und Handtücher für den Flussstrand ein."
+        ],
+        "hu": [
+          "Az autó ideális a távolabbi természeti látnivalók eléréséhez.",
+          "Parkoljon a központban, hogy kényelmesen felfedezhesse a várost gyalog.",
+          "A kilátókhoz vezető utak szűkek és kanyargósak lehetnek, vezessen óvatosan.",
+          "Csomagoljon fürdőruhát és törölközőt a folyóparti strandhoz."
+        ],
+        "ro": [
+          "O mașină este ideală pentru a ajunge la atracțiile naturale mai îndepărtate.",
+          "Parcați în centru pentru a explora orașul confortabil pe jos.",
+          "Drumurile către punctele de belvedere pot fi înguste și sinuoase, conduceți cu prudență.",
+          "Împachetați costume de baie și prosoape pentru plaja fluvială."
+        ],
+        "en": [
+          "A car is ideal for reaching the more distant natural attractions.",
+          "Park in the center to explore the town comfortably on foot.",
+          "The roads to the viewpoints can be narrow and winding, drive carefully.",
+          "Pack swimwear and towels for the river beach."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft im Zentrum (Cluster A)",
+            "hu": "Érkezés a központba (A klaszter)",
+            "ro": "Sosire în centru (Cluster A)",
+            "en": "Arrival in the Center (Cluster A)"
+          },
+          "coords": [
+            -7.9338,
+            39.7505
+          ],
+          "category": "other",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie an der zentralen Bushaltestelle aus und beginnen Sie Ihre Erkundung.",
+            "hu": "Szálljon le a központi buszmegállóban, és kezdje meg a felfedezést.",
+            "ro": "Coborâți la stația centrală de autobuz și începeți explorarea.",
+            "en": "Get off at the central bus stop and start your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz de Proença-a-Nova",
+            "hu": "Proença-a-Nova főtemploma",
+            "ro": "Biserica Matriz din Proença-a-Nova",
+            "en": "Main Church of Proença-a-Nova"
+          },
+          "coords": [
+            -7.9338,
+            39.7505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Hauptkirche liegt direkt im Zentrum und ist der erste Halt.",
+            "hu": "A főtemplom közvetlenül a központban található, ez az első megálló.",
+            "ro": "Biserica principală este chiar în centru și este prima oprire.",
+            "en": "The main church is right in the center and is the first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Etnográfico",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            -7.9355,
+            39.7512
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die charmanten Straßen zum Museum.",
+            "hu": "Rövid séta a hangulatos utcákon a múzeumig.",
+            "ro": "O scurtă plimbare pe străzile fermecătoare până la muzeu.",
+            "en": "A short walk through the charming streets to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardim das Plantas",
+            "hu": "Növénykert",
+            "ro": "Grădina Botanică",
+            "en": "Garden of Plants"
+          },
+          "coords": [
+            -7.9325,
+            39.751
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich vor dem Mittagessen im Stadtgarten.",
+            "hu": "Pihenjen ebéd előtt a városi kertben.",
+            "ro": "Relaxați-vă în grădina orașului înainte de prânz.",
+            "en": "Relax in the city garden before lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Cluster B & Mittagessen",
+            "hu": "Buszozás a B klaszterbe és ebéd",
+            "ro": "Călătorie cu autobuzul către Cluster B și prânz",
+            "en": "Bus ride to Cluster B & Lunch"
+          },
+          "coords": [
+            -7.94,
+            39.754
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum nächsten Cluster und finden Sie ein Restaurant für das Mittagessen.",
+            "hu": "Menjen helyi busszal a következő klaszterbe, és keressen egy éttermet ebédre.",
+            "ro": "Luați un autobuz local către următorul cluster și găsiți un restaurant pentru prânz.",
+            "en": "Take a local bus to the next cluster and find a restaurant for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Ciência Viva da Floresta",
+            "hu": "Az Erdő Élő Tudomány Központja",
+            "ro": "Centrul de Știință Vie a Pădurii",
+            "en": "Forest Science Live Center"
+          },
+          "coords": [
+            -7.941,
+            39.7545
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Nachmittag ist der interaktiven Erkundung des Waldes gewidmet.",
+            "hu": "A délután az erdő interaktív felfedezésének van szentelve.",
+            "ro": "După-amiaza este dedicată explorării interactive a pădurii.",
+            "en": "The afternoon is dedicated to the interactive exploration of the forest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen von Proença-a-Nova. Vom zentralen Busbahnhof aus erkunden Sie den ersten Cluster zu Fuß: die Igreja Matriz, das Museu Etnográfico und den entspannenden Jardim das Plantas. Am Mittag nehmen Sie einen lokalen Bus, der Sie in die Nähe des Centro Ciência Viva bringt, wo Sie zu Mittag essen. Der gesamte Nachmittag ist dem interaktiven Wissenschaftszentrum gewidmet. Diese Tour zeigt, wie man das kulturelle Zentrum und die wissenschaftlichen Attraktionen der Stadt auch ohne Auto effizient verbinden kann.",
+        "hu": "A tömegközlekedéssel töltött nap Proença-a-Nova szívében kezdődik. A központi buszpályaudvarról gyalogosan fedezi fel az első klasztert: a főtemplomot, a Néprajzi Múzeumot és a pihentető Növénykertet. Délben egy helyi busszal eljut a Ciência Viva Központ közelébe, ahol megebédel. Az egész délutánt az interaktív tudományos központnak szenteli. Ez a túra megmutatja, hogyan lehet hatékonyan összekötni a város kulturális központját és tudományos látványosságait autó nélkül is.",
+        "ro": "Ziua dumneavoastră cu transportul public începe în inima orașului Proença-a-Nova. De la autogara centrală, explorați primul cluster pe jos: Biserica Matriz, Muzeul Etnografic și relaxanta Grădină Botanică. La prânz, luați un autobuz local care vă duce în apropierea Centrului Ciência Viva, unde luați masa de prânz. Întreaga după-amiază este dedicată centrului interactiv de știință. Acest tur demonstrează cum puteți conecta eficient centrul cultural și atracțiile științifice ale orașului chiar și fără mașină.",
+        "en": "Your day using public transport begins in the heart of Proença-a-Nova. From the central bus station, you'll explore the first cluster on foot: the Main Church, the Ethnographic Museum, and the relaxing Garden of Plants. At midday, you'll take a local bus to the vicinity of the Ciência Viva Center, where you'll have lunch. The entire afternoon is dedicated to the interactive science center. This tour demonstrates how to efficiently connect the city's cultural center and scientific attractions even without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maranho",
+            "tip": "Eine lokale Wurstspezialität aus Ziegenfleisch, Reis und Minze."
+          },
+          {
+            "name": "Bifana",
+            "tip": "Ein klassisches portugiesisches Sandwich mit mariniertem Schweinefleisch, ideal für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Auch hier zu finden, perfekt für eine Kaffeepause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maranho",
+            "tip": "Helyi kolbászkülönlegesség kecskehúsból, rizsből és mentából."
+          },
+          {
+            "name": "Bifana",
+            "tip": "Klasszikus portugál szendvics pácolt sertéshússal, ideális egy gyors ebédhez."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Itt is megtalálható, tökéletes egy kávészünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maranho",
+            "tip": "O specialitate locală de cârnat din carne de capră, orez și mentă."
+          },
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș portughez clasic cu carne de porc marinată, ideal pentru un prânz rapid."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Se găsește și aici, perfect pentru o pauză de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maranho",
+            "tip": "A local sausage specialty made of goat meat, rice, and mint."
+          },
+          {
+            "name": "Bifana",
+            "tip": "A classic Portuguese sandwich with marinated pork, ideal for a quick lunch."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Also found here, perfect for a coffee break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardim das Plantas",
+            "tip": "Ein ruhiger Rückzugsort im Herzen der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Capela da Misericórdia",
+            "tip": "Ein Moment der Stille in dieser kleinen, andächtigen Kapelle.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Növénykert",
+            "tip": "Csendes menedék a város szívében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Irgalmasság Kápolnája",
+            "tip": "Egy pillanatnyi csend ebben a kis, áhítatos kápolnában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Un refugiu liniștit în inima orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Capela Misericórdia",
+            "tip": "Un moment de liniște în această mică capelă pioasă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden of Plants",
+            "tip": "A quiet retreat in the heart of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Chapel of Mercy",
+            "tip": "A moment of silence in this small, devout chapel.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und regionalen Käse."
+          },
+          {
+            "name": "Souvenirläden",
+            "tip": "Finden Sie kleine Andenken an Ihren Besuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi sajtot."
+          },
+          {
+            "name": "Ajándékboltok",
+            "tip": "Találjon apró emléktárgyakat a látogatásáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și brânză regională."
+          },
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Găsiți mici amintiri ale vizitei dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy fresh produce and regional cheese."
+          },
+          {
+            "name": "Souvenir Shops",
+            "tip": "Find small mementos of your visit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne, da die Frequenzen variieren können.",
+          "Eine Tageskarte könnte günstiger sein als Einzelfahrscheine.",
+          "Seien Sie pünktlich an der Bushaltestelle, besonders bei seltenen Verbindungen.",
+          "Die meisten Sehenswürdigkeiten innerhalb eines Clusters sind gut zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszmenetrendekről, mivel a járatok sűrűsége változhat.",
+          "Egy napijegy olcsóbb lehet, mint a vonaljegyek.",
+          "Legyen időben a buszmegállóban, különösen ritka járatok esetén.",
+          "A legtöbb látnivaló egy klaszteren belül könnyen elérhető gyalog."
+        ],
+        "ro": [
+          "Informați-vă în prealabil despre orarele autobuzelor, deoarece frecvențele pot varia.",
+          "Un bilet de o zi ar putea fi mai ieftin decât biletele individuale.",
+          "Fiți la timp la stația de autobuz, mai ales pentru cursele rare.",
+          "Majoritatea atracțiilor dintr-un cluster sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Check the bus schedules in advance, as frequencies may vary.",
+          "A day ticket might be cheaper than single tickets.",
+          "Be at the bus stop on time, especially for infrequent services.",
+          "Most sights within a cluster are easily accessible on foot."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1287 @@
+{
+  "city_id": "uk-newcastle-upon-tyne-cities-v2",
+  "anchor": {
+    "name": "Newcastle upon Tyne",
+    "coords": [
+      -1.6178,
+      54.9783
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grey's Monument",
+            "hu": "Grey-emlékmű",
+            "ro": "Monumentul Grey",
+            "en": "Grey's Monument"
+          },
+          "coords": [
+            -1.6138,
+            54.9753
+          ],
+          "category": "monument",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bester Fotopunkt ist von der Treppe aus, mit Blick auf die Grainger Street.",
+            "hu": "A legjobb fotókat a lépcsőkről lehet készíteni, a Grainger Street felé nézve.",
+            "ro": "Cel mai bun loc pentru fotografii este de pe trepte, cu vedere spre Grainger Street.",
+            "en": "Best photo spot is from the steps looking down Grainger Street."
+          }
+        },
+        {
+          "name": {
+            "de": "Grainger Market",
+            "hu": "Grainger Market",
+            "ro": "Piața Grainger",
+            "en": "Grainger Market"
+          },
+          "coords": [
+            -1.6145,
+            54.973
+          ],
+          "category": "historical",
+          "arrive_at": "09:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie die Original-Marks-&-Spencer-Penny-Bazaar aus.",
+            "hu": "Keressék meg az eredeti Marks & Spencer „Penny Bazaar” helyét.",
+            "ro": "Căutați locația originală a Marks & Spencer Penny Bazaar.",
+            "en": "Look for the original Marks & Spencer Penny Bazaar stall."
+          }
+        },
+        {
+          "name": {
+            "de": "Newcastle Castle",
+            "hu": "Newcastle vára",
+            "ro": "Castelul Newcastle",
+            "en": "Newcastle Castle"
+          },
+          "coords": [
+            -1.6115,
+            54.969
+          ],
+          "category": "castles",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Der Blick vom Dach des Bergfrieds ist die beste Aussicht auf den Fluss Tyne.",
+            "hu": "A vártorony tetejéről nyílik a legjobb kilátás a Tyne folyóra.",
+            "ro": "Priveliștea de pe acoperișul donjonului este cea mai bună panoramă asupra râului Tyne.",
+            "en": "The view from the roof of the keep is the best vista of the River Tyne."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kathedrale",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sf. Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            -1.612,
+            54.97
+          ],
+          "category": "cathedrals",
+          "arrive_at": "12:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf das ungewöhnliche laternenturmartige Dach.",
+            "hu": "Figyeljék meg a szokatlan, lámpás alakú toronysisakot.",
+            "ro": "Observați turla neobișnuită în formă de felinar.",
+            "en": "Look for the unusual lantern spire, a beacon for ships."
+          }
+        },
+        {
+          "name": {
+            "de": "Quayside",
+            "hu": "Quayside",
+            "ro": "Quayside",
+            "en": "Quayside"
+          },
+          "coords": [
+            -1.602,
+            54.968
+          ],
+          "category": "promenades",
+          "arrive_at": "13:26",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Am Sonntag findet hier ein beliebter Markt statt. Ideal für ein Mittagessen.",
+            "hu": "Vasárnaponként népszerű piac működik itt. Ebédre is kiváló.",
+            "ro": "Duminica aici are loc o piață populară. Perfect pentru prânz.",
+            "en": "On Sundays, a popular market takes place here. Great for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Tyne-Brücke",
+            "hu": "Tyne híd",
+            "ro": "Podul Tyne",
+            "en": "Tyne Bridge"
+          },
+          "coords": [
+            -1.6078,
+            54.9683
+          ],
+          "category": "bridges",
+          "arrive_at": "15:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Gehen Sie zur Mitte der Brücke für eine ikonische Ansicht beider Ufer.",
+            "hu": "Sétáljanak a híd közepére az ikonikus, mindkét partra nyíló kilátásért.",
+            "ro": "Mergeți la mijlocul podului pentru o vedere iconică a ambelor maluri.",
+            "en": "Walk to the middle of the bridge for an iconic view of both banks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Grey's Monument, dem Herzen der Stadt. Von dort aus tauchen Sie in die pulsierende Atmosphäre des historischen Grainger Market ein. Am Nachmittag erkunden Sie die mittelalterlichen Geheimnisse des Newcastle Castle und der benachbarten Kathedrale. Lassen Sie den Tag mit einem entspannten Spaziergang entlang des Quayside ausklingen, wo Sie die berühmte Tyne-Brücke bewundern können.",
+        "hu": "Kezdje a napot a város szívében, a Grey-emlékműnél. Innen merüljön el a történelmi Grainger Market nyüzsgő forgatagában. Délután fedezze fel a Newcastle-i vár és a szomszédos katedrális középkori titkait. Zárja a napot egy kellemes sétával a Quayside mentén, megcsodálva a híres Tyne hidat.",
+        "ro": "Începeți ziua la Monumentul Grey, inima orașului. De acolo, scufundați-vă în atmosfera vibrantă a istoricei Piețe Grainger. După-amiaza, explorați secretele medievale ale Castelului Newcastle și ale catedralei adiacente. Încheiați ziua cu o plimbare relaxantă de-a lungul Quayside, admirând faimosul Pod Tyne.",
+        "en": "Start your day at Grey's Monument, the heart of the city. From there, dive into the vibrant atmosphere of the historic Grainger Market. In the afternoon, explore the medieval secrets of Newcastle Castle and the adjacent cathedral. End the day with a relaxing stroll along the Quayside, admiring the famous Tyne Bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Greggs",
+            "tip": "Probieren Sie eine Wurstsemmel oder einen Stottie Cake in der Stadt, in der alles begann."
+          },
+          {
+            "name": "Pan Haggerty",
+            "tip": "Ein traditioneller Kartoffelauflauf aus Northumberland, der in vielen Pubs serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Greggs",
+            "tip": "Kóstoljon meg egy kolbásztekercset vagy egy „stottie” kenyeret a városban, ahol a lánc indult."
+          },
+          {
+            "name": "Pan Haggerty",
+            "tip": "Hagyományos northumberlandi burgonyás étel, amelyet sok pubban felszolgálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Greggs",
+            "tip": "Încercați un rulou cu cârnați sau o prăjitură stottie în orașul unde a început totul."
+          },
+          {
+            "name": "Pan Haggerty",
+            "tip": "O caserolă tradițională de cartofi din Northumberland, servită în multe pub-uri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Greggs",
+            "tip": "Try a sausage roll or a stottie cake in the city where it all began."
+          },
+          {
+            "name": "Pan Haggerty",
+            "tip": "A traditional Northumbrian potato bake dish, served in many pubs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St.-Nikolaus-Kathedrale",
+            "tip": "Finden Sie einen Moment der Ruhe in der historischen Kathedrale.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Millennium Bridge bei Sonnenuntergang",
+            "tip": "Beobachten Sie, wie sich das Licht auf dem Fluss verändert.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Miklós-székesegyház",
+            "tip": "Találjon egy csendes percet a történelmi katedrálisban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Millennium híd naplementekor",
+            "tip": "Nézze, ahogy a fények változnak a folyón.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Catedrala Sf. Nicolae",
+            "tip": "Găsiți un moment de liniște în interiorul catedralei istorice.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Podul Millennium la apus",
+            "tip": "Priviți cum se schimbă luminile pe râu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Nicholas Cathedral",
+            "tip": "Find a moment of peace inside the historic cathedral.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Millennium Bridge at sunset",
+            "tip": "Watch the light change over the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Grainger Market",
+            "tip": "Ein historischer Markt mit unabhängigen Händlern, Street Food und einzigartigen Fundstücken."
+          },
+          {
+            "name": "Fenwick",
+            "tip": "Ein luxuriöses Kaufhaus mit einer berühmten Lebensmittelhalle im Untergeschoss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grainger Market",
+            "tip": "Történelmi piac független árusokkal, street fooddal és egyedi leletekkel."
+          },
+          {
+            "name": "Fenwick",
+            "tip": "Luxusáruház, amelynek alagsorában híres élelmiszercsarnok található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Grainger",
+            "tip": "O piață istorică cu comercianți independenți, mâncare stradală și descoperiri unice."
+          },
+          {
+            "name": "Fenwick",
+            "tip": "Un magazin universal de lux, cu o faimoasă hală alimentară la subsol."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grainger Market",
+            "tip": "A historic market with independent traders, street food, and unique finds."
+          },
+          {
+            "name": "Fenwick",
+            "tip": "A luxury department store with a famous food hall in the basement."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum hügelig sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Nutzen Sie die vielen Brücken, um die Aussicht aus verschiedenen Perspektiven zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont dombos lehet.",
+          "A legtöbb központi látnivaló könnyen megközelíthető gyalog.",
+          "Használja ki a sok hidat, hogy különböző szögekből élvezze a kilátást."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului poate fi deluros.",
+          "Majoritatea atracțiilor centrale sunt la mică distanță de mers pe jos.",
+          "Folosiți numeroasele poduri pentru a vă bucura de priveliști din perspective diferite."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city centre can be hilly.",
+          "Most central attractions are within easy walking distance.",
+          "Make use of the many bridges to enjoy views from different perspectives."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:04",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Grey's Monument",
+            "hu": "Grey-emlékmű",
+            "ro": "Monumentul Grey",
+            "en": "Grey's Monument"
+          },
+          "coords": [
+            -1.6138,
+            54.9753
+          ],
+          "category": "monument",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie die Gegend erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, amíg felfedezi a környéket.",
+            "ro": "Asigurați-vă bicicleta în timp ce explorați zona.",
+            "en": "Lock your bike securely while you explore the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Discovery Museum",
+            "hu": "Discovery Múzeum",
+            "ro": "Muzeul Discovery",
+            "en": "Discovery Museum"
+          },
+          "coords": [
+            -1.628,
+            54.97
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Turbinia, das erste dampfturbinenbetriebene Schiff.",
+            "hu": "Ne hagyja ki a Turbiniát, az első gőzturbinás hajót.",
+            "ro": "Nu ratați Turbinia, prima navă alimentată cu turbină cu abur.",
+            "en": "Don't miss the Turbinia, the first steam turbine-powered ship."
+          }
+        },
+        {
+          "name": {
+            "de": "Newcastle Castle",
+            "hu": "Newcastle vára",
+            "ro": "Castelul Newcastle",
+            "en": "Newcastle Castle"
+          },
+          "coords": [
+            -1.6115,
+            54.969
+          ],
+          "category": "castles",
+          "arrive_at": "11:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Fahrradständer befinden sich in der Nähe des Eingangs.",
+            "hu": "Kerékpártárolók a bejárat közelében találhatók.",
+            "ro": "Rastele pentru biciclete sunt disponibile lângă intrare.",
+            "en": "Bike racks are available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Quayside",
+            "hu": "Quayside",
+            "ro": "Quayside",
+            "en": "Quayside"
+          },
+          "coords": [
+            -1.595,
+            54.969
+          ],
+          "category": "promenades",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang des Flusses bis zur Millennium Bridge für eine großartige Aussicht.",
+            "hu": "Kerékpározzon a folyó mentén a Millennium hídig a nagyszerű kilátásért.",
+            "ro": "Pedalați de-a lungul râului până la Podul Millennium pentru o priveliște superbă.",
+            "en": "Cycle along the river to the Millennium Bridge for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Great North Museum: Hancock",
+            "hu": "Great North Museum: Hancock",
+            "ro": "Great North Museum: Hancock",
+            "en": "Great North Museum: Hancock"
+          },
+          "coords": [
+            -1.616,
+            54.982
+          ],
+          "category": "museums",
+          "arrive_at": "14:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Perfekt für einen regnerischen Tag, mit Exponaten von der Naturgeschichte bis zur Archäologie.",
+            "hu": "Tökéletes egy esős napra, a kiállítások a természetrajztól a régészetig terjednek.",
+            "ro": "Perfect pentru o zi ploioasă, cu exponate de la istorie naturală la arheologie.",
+            "en": "Perfect for a rainy day, with exhibits from natural history to archaeology."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesmond Dene",
+            "hu": "Jesmond Dene",
+            "ro": "Jesmond Dene",
+            "en": "Jesmond Dene"
+          },
+          "coords": [
+            -1.595,
+            54.995
+          ],
+          "category": "parks",
+          "arrive_at": "16:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Ein friedlicher Rückzugsort aus der Stadt. Halten Sie Ausschau nach der Old Mill.",
+            "hu": "Békés menedék a városból. Keresse a régi malmot (Old Mill).",
+            "ro": "O evadare pașnică din oraș. Căutați vechea moară (Old Mill).",
+            "en": "A peaceful escape from the city. Look out for the Old Mill."
+          }
+        },
+        {
+          "name": {
+            "de": "Theatre Royal",
+            "hu": "Theatre Royal",
+            "ro": "Teatrul Regal",
+            "en": "Theatre Royal"
+          },
+          "coords": [
+            -1.614,
+            54.976
+          ],
+          "category": "theatres",
+          "arrive_at": "17:41",
+          "stay_min": 20,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Fassade, auch wenn Sie keine Vorstellung besuchen.",
+            "hu": "Csodálja meg a lenyűgöző homlokzatot, még ha nem is megy előadásra.",
+            "ro": "Admirați fațada impresionantă, chiar dacă nu participați la un spectacol.",
+            "en": "Admire the impressive facade even if you're not seeing a show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Grey's Monument und radeln Sie westwärts zum Discovery Museum. Folgen Sie dann dem Ruf der Geschichte zum Newcastle Castle. Am Nachmittag genießen Sie eine Fahrt entlang des Quayside, bevor Sie nach Norden zum Great North Museum und dem friedlichen Jesmond Dene fahren. Beenden Sie Ihre Tour mit einem Blick auf das prächtige Theatre Royal im Herzen der Stadt.",
+        "hu": "Induljon a Grey-emlékműtől, és tekerjen nyugat felé a Discovery Múzeumhoz. Ezután kövesse a történelem hívását a Newcastle-i várhoz. Délután élvezze a kerékpározást a Quayside mentén, mielőtt észak felé veszi az irányt a Great North Múzeumhoz és a békés Jesmond Dene-hez. Fejezze be a túrát a város szívében álló pompás Theatre Royal megtekintésével.",
+        "ro": "Porniți de la Monumentul Grey și pedalați spre vest către Muzeul Discovery. Apoi, urmați chemarea istoriei la Castelul Newcastle. După-amiaza, bucurați-vă de o plimbare pe Quayside înainte de a vă îndrepta spre nord către Great North Museum și liniștitul Jesmond Dene. Încheiați turul cu o privire la magnificul Teatru Regal din inima orașului.",
+        "en": "Start from Grey's Monument and cycle west to the Discovery Museum. Then, follow the call of history to Newcastle Castle. In the afternoon, enjoy a ride along the Quayside before heading north to the Great North Museum and the peaceful Jesmond Dene. Finish your tour with a look at the magnificent Theatre Royal in the heart of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Ship Inn",
+            "tip": "Ein gemütlicher Pub im Ouseburn Valley, bekannt für seine veganen Speisen und Craft-Biere."
+          },
+          {
+            "name": "Quayside Seaside",
+            "tip": "Im Sommer gibt es hier Pop-up-Bars und Street Food mit Blick auf den Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Ship Inn",
+            "tip": "Hangulatos pub az Ouseburn-völgyben, vegán ételeiről és kézműves söreiről ismert."
+          },
+          {
+            "name": "Quayside Seaside",
+            "tip": "Nyáron pop-up bárok és street food várja a látogatókat a folyóra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Ship Inn",
+            "tip": "Un pub primitor în Valea Ouseburn, cunoscut pentru mâncarea vegană și berile artizanale."
+          },
+          {
+            "name": "Quayside Seaside",
+            "tip": "Vara, baruri pop-up și mâncare stradală apar aici, cu vedere la râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Ship Inn",
+            "tip": "A cozy pub in the Ouseburn Valley, known for its vegan food and craft beers."
+          },
+          {
+            "name": "Quayside Seaside",
+            "tip": "In summer, pop-up bars and street food appear here, overlooking the river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jesmond Dene",
+            "tip": "Folgen Sie dem Fluss Ouseburn durch dieses bewaldete Tal für eine Pause vom Stadtleben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Victoria Tunnel Entrance",
+            "tip": "Ein ruhiger Ort, um über die industrielle Vergangenheit der Stadt nachzudenken.",
+            "emoji": "🤫"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jesmond Dene",
+            "tip": "Kövesse az Ouseburn folyót ezen az erdős völgyön keresztül a városi életből való kikapcsolódásért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Victoria alagút bejárata",
+            "tip": "Csendes hely, ahol elgondolkodhat a város ipari múltjáról.",
+            "emoji": "🤫"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jesmond Dene",
+            "tip": "Urmați râul Ouseburn prin această vale împădurită pentru o pauză de la viața urbană.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Intrarea în tunelul Victoria",
+            "tip": "Un loc liniștit pentru a reflecta asupra trecutului industrial al orașului.",
+            "emoji": "🤫"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jesmond Dene",
+            "tip": "Follow the River Ouseburn through this wooded valley for a break from city life.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Victoria Tunnel Entrance",
+            "tip": "A quiet spot to reflect on the city's industrial past.",
+            "emoji": "🤫"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ouseburn's artist studios",
+            "tip": "Kaufen Sie Kunst und Handwerk direkt von den Machern in diesem kreativen Viertel."
+          },
+          {
+            "name": "Central Arcade",
+            "tip": "Eine wunderschöne viktorianische Einkaufspassage mit einzigartigen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ouseburn művészstúdiói",
+            "tip": "Vásároljon művészeti alkotásokat és kézműves termékeket közvetlenül az alkotóktól ebben a kreatív negyedben."
+          },
+          {
+            "name": "Central Arcade",
+            "tip": "Gyönyörű viktoriánus bevásárlóárkád egyedi butikokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Studiourile de artiști din Ouseburn",
+            "tip": "Cumpărați artă și meșteșuguri direct de la creatori în acest cartier creativ."
+          },
+          {
+            "name": "Central Arcade",
+            "tip": "O frumoasă arcadă comercială victoriană cu buticuri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ouseburn's artist studios",
+            "tip": "Buy art and crafts directly from the makers in this creative quarter."
+          },
+          {
+            "name": "Central Arcade",
+            "tip": "A beautiful Victorian shopping arcade with unique boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Newcastle ist fahrradfreundlich, aber einige Hügel erfordern etwas Anstrengung.",
+          "Nutzen Sie die ausgewiesenen Radwege, insbesondere entlang des Flusses.",
+          "Ein Helm wird empfohlen, ist aber nicht gesetzlich vorgeschrieben."
+        ],
+        "hu": [
+          "Newcastle kerékpárbarát, de néhány emelkedő némi erőfeszítést igényel.",
+          "Használja a kijelölt kerékpárutakat, különösen a folyó mentén.",
+          "A sisak ajánlott, de törvényileg nem kötelező."
+        ],
+        "ro": [
+          "Newcastle este prietenos cu bicicletele, dar unele dealuri necesită puțin efort.",
+          "Utilizați pistele de biciclete desemnate, în special de-a lungul râului.",
+          "Casca este recomandată, dar nu este obligatorie prin lege."
+        ],
+        "en": [
+          "Newcastle is bike-friendly, but some hills will require a bit of effort.",
+          "Use the designated cycle lanes, especially along the river.",
+          "A helmet is recommended but not legally required."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Jesmond Dene",
+            "hu": "Jesmond Dene",
+            "ro": "Jesmond Dene",
+            "en": "Jesmond Dene"
+          },
+          "coords": [
+            -1.595,
+            54.995
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Jesmond Dene Road und beginnen Sie Ihren Tag mit einem Spaziergang.",
+            "hu": "Parkoljon a Jesmond Dene Road mentén, és kezdje a napot egy sétával.",
+            "ro": "Parcați pe Jesmond Dene Road și începeți ziua cu o plimbare.",
+            "en": "Park on Jesmond Dene Road and start your day with a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Great North Museum: Hancock",
+            "hu": "Great North Museum: Hancock",
+            "ro": "Great North Museum: Hancock",
+            "en": "Great North Museum: Hancock"
+          },
+          "coords": [
+            -1.616,
+            54.982
+          ],
+          "category": "museums",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Es gibt einen Parkplatz am Museum, aber er kann schnell voll werden.",
+            "hu": "Van parkoló a múzeumnál, de hamar megtelhet.",
+            "ro": "Există o parcare la muzeu, dar se poate umple rapid.",
+            "en": "There is a car park at the museum, but it can fill up quickly."
+          }
+        },
+        {
+          "name": {
+            "de": "Grey's Monument",
+            "hu": "Grey-emlékmű",
+            "ro": "Monumentul Grey",
+            "en": "Grey's Monument"
+          },
+          "coords": [
+            -1.6138,
+            54.9753
+          ],
+          "category": "monument",
+          "arrive_at": "12:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Tiefgarage Eldon Garden und gehen Sie zu Fuß.",
+            "hu": "Parkoljon az Eldon Garden mélygarázsban, és sétáljon a helyszínre.",
+            "ro": "Parcați în parcarea subterană Eldon Garden și mergeți pe jos.",
+            "en": "Park in the Eldon Garden car park and walk over."
+          }
+        },
+        {
+          "name": {
+            "de": "Grainger Market",
+            "hu": "Grainger Market",
+            "ro": "Piața Grainger",
+            "en": "Grainger Market"
+          },
+          "coords": [
+            -1.6145,
+            54.973
+          ],
+          "category": "historical",
+          "arrive_at": "12:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein schnelles und vielfältiges Mittagessen.",
+            "hu": "Nagyszerű hely egy gyors és változatos ebédhez.",
+            "ro": "Un loc minunat pentru un prânz rapid și divers.",
+            "en": "A great spot for a quick and varied lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Newcastle Castle",
+            "hu": "Newcastle vára",
+            "ro": "Castelul Newcastle",
+            "en": "Newcastle Castle"
+          },
+          "coords": [
+            -1.6115,
+            54.969
+          ],
+          "category": "castles",
+          "arrive_at": "14:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Quayside und gehen Sie den Hügel hinauf zum Schloss.",
+            "hu": "Parkoljon a Quayside-on, és sétáljon fel a dombon a várhoz.",
+            "ro": "Parcați la Quayside și urcați dealul până la castel.",
+            "en": "Park at the Quayside and walk up the hill to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Tyne-Brücke",
+            "hu": "Tyne híd",
+            "ro": "Podul Tyne",
+            "en": "Tyne Bridge"
+          },
+          "coords": [
+            -1.6078,
+            54.9683
+          ],
+          "category": "bridges",
+          "arrive_at": "16:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem ikonischen Foto von der Brücke aus.",
+            "hu": "Zárja a napot egy ikonikus fotóval a hídról.",
+            "ro": "Încheiați ziua cu o fotografie iconică de pe pod.",
+            "en": "End your day with an iconic photo from the bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im ruhigen Jesmond Dene. Fahren Sie dann zum Great North Museum, um in die Kultur einzutauchen. Parken Sie im Stadtzentrum, um den Cluster aus Grey's Monument und Grainger Market zu Fuß zu erkunden. Ein kurzer Sprung mit dem Auto bringt Sie zum letzten Cluster in der Nähe des Flusses, wo das historische Newcastle Castle und die beeindruckende Tyne Bridge auf Sie warten.",
+        "hu": "Kezdje a napot a békés Jesmond Dene-ben. Ezután vezessen a Great North Múzeumhoz egy kulturális merülésért. Parkoljon a városközpontban, hogy gyalog fedezze fel a Grey-emlékmű és a Grainger Market csoportját. Egy rövid autós ugrás az utolsó, folyóparti csoporthoz viszi, ahol a történelmi Newcastle-i vár és a lenyűgöző Tyne híd várja.",
+        "ro": "Începeți ziua în liniștitul Jesmond Dene. Apoi, conduceți la Great North Museum pentru o imersiune culturală. Parcați în centrul orașului pentru a explora pe jos clusterul format din Monumentul Grey și Piața Grainger. O scurtă călătorie cu mașina vă duce la ultimul cluster, lângă râu, unde vă așteaptă istoricul Castel Newcastle și impresionantul Pod Tyne.",
+        "en": "Start your day in the peaceful Jesmond Dene. Then, drive to the Great North Museum for a cultural dip. Park in the city centre to explore the cluster of Grey's Monument and Grainger Market on foot. A short car hop takes you to the final cluster near the river, where the historic Newcastle Castle and the impressive Tyne Bridge await."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Peace & Loaf Jesmond",
+            "tip": "Ein gehobenes Restaurant in der Nähe von Jesmond Dene, perfekt für ein besonderes Mittagessen."
+          },
+          {
+            "name": "The Broad Chare",
+            "tip": "Ein erstklassiger Gastropub am Quayside mit exzellentem Essen und Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peace & Loaf Jesmond",
+            "tip": "Kifinomult étterem a Jesmond Dene közelében, tökéletes egy különleges ebédhez."
+          },
+          {
+            "name": "The Broad Chare",
+            "tip": "Kiváló gasztropub a Quayside-on, remek ételekkel és sörökkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peace & Loaf Jesmond",
+            "tip": "Un restaurant rafinat lângă Jesmond Dene, perfect pentru un prânz special."
+          },
+          {
+            "name": "The Broad Chare",
+            "tip": "Un gastropub de top pe Quayside, cu mâncare și bere excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Peace & Loaf Jesmond",
+            "tip": "An upmarket restaurant near Jesmond Dene, perfect for a special lunch."
+          },
+          {
+            "name": "The Broad Chare",
+            "tip": "A top-tier gastropub on the Quayside with excellent food and beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jesmond Dene's Waterfall",
+            "tip": "Ein überraschend ruhiger Ort, um dem Stadtlärm zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von Gateshead",
+            "tip": "Fahren Sie über die Brücke für einen Panoramablick auf die Skyline von Newcastle.",
+            "emoji": "🏙️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jesmond Dene vízesése",
+            "tip": "Meglepően csendes hely a város zaja elől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás Gatesheadből",
+            "tip": "Hajtson át a hídon a Newcastle látképére nyíló panorámáért.",
+            "emoji": "🏙️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascada din Jesmond Dene",
+            "tip": "Un loc surprinzător de liniștit pentru a scăpa de zgomotul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere din Gateshead",
+            "tip": "Conduceți peste pod pentru o vedere panoramică a orizontului din Newcastle.",
+            "emoji": "🏙️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jesmond Dene's Waterfall",
+            "tip": "A surprisingly quiet spot to escape the city noise.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Gateshead",
+            "tip": "Drive over the bridge for a panoramic view of the Newcastle skyline.",
+            "emoji": "🏙️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Metrocentre",
+            "tip": "Fahren Sie ein kurzes Stück außerhalb der Stadt zu einem der größten Einkaufszentren Europas."
+          },
+          {
+            "name": "Northumberland Street",
+            "tip": "Die Haupteinkaufsstraße der Stadt mit allen großen britischen Einzelhandelsketten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Metrocentre",
+            "tip": "Vezessen egy kicsit a városon kívülre Európa egyik legnagyobb bevásárlóközpontjához."
+          },
+          {
+            "name": "Northumberland Street",
+            "tip": "A város fő bevásárlóutcája az összes nagy brit üzletlánccal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Metrocentre",
+            "tip": "Conduceți o scurtă distanță în afara orașului până la unul dintre cele mai mari centre comerciale din Europa."
+          },
+          {
+            "name": "Northumberland Street",
+            "tip": "Strada comercială principală a orașului, cu toate marile lanțuri de retail din Marea Britanie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Metrocentre",
+            "tip": "Drive a short distance out of town to one of Europe's largest shopping centres."
+          },
+          {
+            "name": "Northumberland Street",
+            "tip": "The city's main shopping high street with all the major UK retailers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum ist teuer. Nutzen Sie Park-and-Ride-Möglichkeiten.",
+          "Der Verkehr kann zu Stoßzeiten stark sein, planen Sie also entsprechend.",
+          "Beachten Sie die 'Bus-Lanes' (Busspuren), die für Privatfahrzeuge gesperrt sind."
+        ],
+        "hu": [
+          "A parkolás a városközpontban drága. Használja a Park and Ride lehetőségeket.",
+          "A forgalom csúcsidőben sűrű lehet, tervezzen ennek megfelelően.",
+          "Vigyázzon a buszsávokra, amelyekbe személyautóval tilos behajtani."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este scumpă. Folosiți opțiunile de Park and Ride.",
+          "Traficul poate fi aglomerat la orele de vârf, așa că planificați-vă în consecință.",
+          "Fiți atenți la benzile de autobuz, care sunt interzise vehiculelor private."
+        ],
+        "en": [
+          "Parking in the city centre is expensive. Use Park and Ride facilities.",
+          "Traffic can be heavy during peak hours, so plan accordingly.",
+          "Be aware of 'bus lanes' which are restricted for private vehicles."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grey's Monument",
+            "hu": "Grey-emlékmű",
+            "ro": "Monumentul Grey",
+            "en": "Grey's Monument"
+          },
+          "coords": [
+            -1.6138,
+            54.9753
+          ],
+          "category": "monument",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die U-Bahn-Station Monument befindet sich direkt unter Ihnen.",
+            "hu": "A Monument metróállomás közvetlenül Ön alatt található.",
+            "ro": "Stația de metrou Monument este chiar sub dumneavoastră.",
+            "en": "The Monument Metro station is directly beneath you."
+          }
+        },
+        {
+          "name": {
+            "de": "Grainger Market",
+            "hu": "Grainger Market",
+            "ro": "Piața Grainger",
+            "en": "Grainger Market"
+          },
+          "coords": [
+            -1.6145,
+            54.973
+          ],
+          "category": "historical",
+          "arrive_at": "09:34",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den Gängen dieses viktorianischen Wunders.",
+            "hu": "Vesszen el ennek a viktoriánus csodának a folyosóin.",
+            "ro": "Pierdeți-vă pe culoarele acestei minuni victoriene.",
+            "en": "Get lost in the aisles of this Victorian marvel."
+          }
+        },
+        {
+          "name": {
+            "de": "Newcastle Castle & Kathedrale",
+            "hu": "Newcastle vár és katedrális",
+            "ro": "Castelul Newcastle și Catedrala",
+            "en": "Newcastle Castle & Cathedral"
+          },
+          "coords": [
+            -1.6115,
+            54.969
+          ],
+          "category": "castles",
+          "arrive_at": "10:32",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden historischen Juwelen liegen direkt nebeneinander.",
+            "hu": "Ez a két történelmi gyöngyszem közvetlenül egymás mellett fekszik.",
+            "ro": "Aceste două bijuterii istorice sunt una lângă cealaltă.",
+            "en": "These two historic gems are right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Quayside",
+            "hu": "Quayside",
+            "ro": "Quayside",
+            "en": "Quayside"
+          },
+          "coords": [
+            -1.59,
+            54.97
+          ],
+          "category": "promenades",
+          "arrive_at": "12:52",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den QuayLink-Bus (Q1/Q2), um den Flussbereich zu erkunden.",
+            "hu": "Használja a QuayLink buszt (Q1/Q2) a folyóparti terület felfedezéséhez.",
+            "ro": "Luați autobuzul QuayLink (Q1/Q2) pentru a explora zona râului.",
+            "en": "Take the QuayLink bus (Q1/Q2) to explore the river area."
+          }
+        },
+        {
+          "name": {
+            "de": "Great North Museum: Hancock",
+            "hu": "Great North Museum: Hancock",
+            "ro": "Great North Museum: Hancock",
+            "en": "Great North Museum: Hancock"
+          },
+          "coords": [
+            -1.616,
+            54.982
+          ],
+          "category": "museums",
+          "arrive_at": "14:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die U-Bahn bis zur Station Haymarket, die sich in der Nähe befindet.",
+            "hu": "Menjen a metróval a közeli Haymarket állomásig.",
+            "ro": "Luați metroul până la stația Haymarket, care este în apropiere.",
+            "en": "Take the Metro to Haymarket station, which is nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Theatre Royal",
+            "hu": "Theatre Royal",
+            "ro": "Teatrul Regal",
+            "en": "Theatre Royal"
+          },
+          "coords": [
+            -1.614,
+            54.976
+          ],
+          "category": "theatres",
+          "arrive_at": "16:22",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zurück ins Herz von Grainger Town.",
+            "hu": "Rövid séta a múzeumtól vissza Grainger Town szívébe.",
+            "ro": "O scurtă plimbare de la muzeu înapoi în inima orașului Grainger.",
+            "en": "A short walk from the museum back into the heart of Grainger Town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am zentralen Knotenpunkt Monument und erkunden Sie den ersten Cluster aus Markt, Burg und Kathedrale zu Fuß. Ein kurzer Bus-Hop bringt Sie zum zweiten Cluster am Quayside. Von dort aus bringt Sie die U-Bahn zum dritten Cluster, dem Great North Museum. Beenden Sie den Tag mit einem kurzen Spaziergang zurück zum Theatre Royal und dem pulsierenden Stadtzentrum.",
+        "hu": "Induljon a központi Monument csomóponttól, és fedezze fel gyalog az első, piacból, várból és katedrálisból álló csoportot. Egy rövid buszozás a második, Quayside-i csoporthoz visz. Onnan a metróval juthat el a harmadik csoporthoz, a Great North Múzeumhoz. Zárja a napot egy rövid sétával vissza a Theatre Royalhoz és a nyüzsgő városközponthoz.",
+        "ro": "Porniți de la nodul central Monument și explorați pe jos primul cluster format din piață, castel și catedrală. O scurtă călătorie cu autobuzul vă duce la al doilea cluster de la Quayside. De acolo, metroul vă va duce la al treilea cluster, Great North Museum. Încheiați ziua cu o scurtă plimbare înapoi la Teatrul Regal și centrul vibrant al orașului.",
+        "en": "Start at the central Monument hub and explore the first cluster of the market, castle, and cathedral on foot. A short bus hop takes you to the second cluster at the Quayside. From there, the Metro will take you to the third cluster, the Great North Museum. End the day with a short walk back to the Theatre Royal and the vibrant city centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Snack im Grainger Market",
+            "tip": "Probieren Sie Street Food aus aller Welt an den vielen Ständen."
+          },
+          {
+            "name": "The Old George Inn",
+            "tip": "Der älteste Pub von Newcastle, ein kurzer Spaziergang von der Kathedrale entfernt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Harapnivaló a Grainger Marketben",
+            "tip": "Kóstoljon street foodot a világ minden tájáról a sok bódénál."
+          },
+          {
+            "name": "The Old George Inn",
+            "tip": "Newcastle legrégebbi pubja, rövid sétára a katedrálistól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustare în Piața Grainger",
+            "tip": "Încercați mâncare stradală din întreaga lume la numeroasele tarabe."
+          },
+          {
+            "name": "The Old George Inn",
+            "tip": "Cel mai vechi pub din Newcastle, la o scurtă plimbare de catedrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grainger Market Snack",
+            "tip": "Try street food from around the world at the many stalls."
+          },
+          {
+            "name": "The Old George Inn",
+            "tip": "Newcastle's oldest pub, a short walk from the Cathedral."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Literary and Philosophical Society",
+            "tip": "Eine wunderschöne, ruhige Bibliothek in der Nähe des Hauptbahnhofs.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Blick von der High Level Bridge",
+            "tip": "Eine andere Perspektive auf den Fluss, oft ruhiger als die Tyne Bridge.",
+            "emoji": "🌉"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Irodalmi és Filozófiai Társaság",
+            "tip": "Gyönyörű, csendes könyvtár a központi pályaudvar közelében.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Kilátás a High Level hídról",
+            "tip": "Másik perspektíva a folyóra, gyakran csendesebb, mint a Tyne híd.",
+            "emoji": "🌉"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Societatea Literară și Filozofică",
+            "tip": "O bibliotecă frumoasă și liniștită, lângă Gara Centrală.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Vedere de pe Podul High Level",
+            "tip": "O perspectivă diferită asupra râului, adesea mai liniștită decât Podul Tyne.",
+            "emoji": "🌉"
+          }
+        ],
+        "en": [
+          {
+            "name": "Literary and Philosophical Society",
+            "tip": "A beautiful, quiet library near Central Station.",
+            "emoji": "📚"
+          },
+          {
+            "name": "View from the High Level Bridge",
+            "tip": "A different perspective of the river, often quieter than the Tyne Bridge.",
+            "emoji": "🌉"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Flip",
+            "tip": "Ein klassischer Vintage-Laden in der Nähe von Grainger Town für einzigartige Kleidung."
+          },
+          {
+            "name": "Quayside Market",
+            "tip": "Wenn Sie an einem Sonntag hier sind, finden Sie hier Kunsthandwerk, Lebensmittel und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Flip",
+            "tip": "Klasszikus vintage üzlet Grainger Town közelében egyedi ruhákért."
+          },
+          {
+            "name": "Quayside Market",
+            "tip": "Ha vasárnap van itt, kézműves termékeket, ételeket és ajándéktárgyakat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Flip",
+            "tip": "Un magazin vintage clasic, lângă Grainger Town, pentru haine unice."
+          },
+          {
+            "name": "Piața Quayside",
+            "tip": "Dacă sunteți aici duminica, veți găsi meșteșuguri, mâncare și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Flip",
+            "tip": "A classic vintage store near Grainger Town for unique clothes."
+          },
+          {
+            "name": "Quayside Market",
+            "tip": "If you're here on a Sunday, you'll find crafts, food, and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Day Saver'-Karte für unbegrenzte Fahrten mit der U-Bahn und den Bussen.",
+          "Die U-Bahn ist der schnellste Weg, um größere Entfernungen zu überwinden, z. B. nach Jesmond oder zu den Museen.",
+          "Laden Sie die 'Nexus'-App herunter, um Ihre Reise in Echtzeit zu planen."
+        ],
+        "hu": [
+          "Vásároljon 'Day Saver' napijegyet a korlátlan metró- és buszhasználathoz.",
+          "A metró a leggyorsabb módja a nagyobb távolságok leküzdésének, például Jesmondba vagy a múzeumokhoz.",
+          "Töltse le a 'Nexus' alkalmazást az utazás valós idejű tervezéséhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet „Day Saver” pentru călătorii nelimitate cu metroul și autobuzele.",
+          "Metroul este cel mai rapid mod de a parcurge distanțe mai mari, cum ar fi spre Jesmond sau muzee.",
+          "Descărcați aplicația „Nexus” pentru planificarea călătoriei în timp real."
+        ],
+        "en": [
+          "Buy a 'Day Saver' ticket for unlimited travel on the Metro and buses.",
+          "The Metro is the quickest way to cover longer distances, such as to Jesmond or the museums.",
+          "Download the 'Nexus' app for real-time journey planning."
+        ]
+      }
+    }
+  }
+}

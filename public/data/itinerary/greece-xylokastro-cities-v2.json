@@ -1,0 +1,1400 @@
+{
+  "city_id": "greece-xylokastro-cities-v2",
+  "anchor": {
+    "name": "Xylokastro",
+    "coords": [
+      22.6333,
+      38.0833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Aristonauton-Platz",
+            "hu": "Arisztonauton tér",
+            "ro": "Piața Aristonauton",
+            "en": "Aristonauton Square"
+          },
+          "coords": [
+            22.6333,
+            38.0833
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Freddo Cappuccino in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy freddo cappuccinóval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu un freddo cappuccino la una dintre cafenelele din piață.",
+            "en": "Start your day with a freddo cappuccino at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Vlasios",
+            "hu": "Agios Vlasios templom",
+            "ro": "Biserica Agios Vlasios",
+            "en": "Church of Agios Vlasios"
+          },
+          "coords": [
+            22.6325,
+            38.0828
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Ikonostase und die Wandmalereien im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző ikonosztázt és a belső falfestményeket.",
+            "ro": "Observați iconostasul impresionant și picturile murale din interior.",
+            "en": "Look for the impressive iconostasis and the murals inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Xylokastro",
+            "hu": "Xylokastro Városháza",
+            "ro": "Primăria din Xylokastro",
+            "en": "Xylokastro Town Hall"
+          },
+          "coords": [
+            22.634,
+            38.0838
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel neoklassizistischer Architektur, perfekt für ein Foto.",
+            "hu": "A neoklasszikus építészet szép példája, tökéletes egy fotóhoz.",
+            "ro": "Un exemplu frumos de arhitectură neoclasică, perfect pentru o fotografie.",
+            "en": "A fine example of neoclassical architecture, perfect for a photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Xylokastro",
+            "hu": "Xylokastro kikötője",
+            "ro": "Portul din Xylokastro",
+            "en": "Port of Xylokastro"
+          },
+          "coords": [
+            22.635,
+            38.086
+          ],
+          "category": "port",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischer bei ihrer Arbeit und genießen Sie die Meeresbrise.",
+            "hu": "Nézze a halászokat munka közben, és élvezze a tengeri szellőt.",
+            "ro": "Urmăriți pescarii la lucru și bucurați-vă de briza mării.",
+            "en": "Watch the fishermen at work and enjoy the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Xylokastro",
+            "hu": "Xylokastro strandja",
+            "ro": "Plaja din Xylokastro",
+            "en": "Xylokastro Beach"
+          },
+          "coords": [
+            22.63,
+            38.0875
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Mieten Sie eine Sonnenliege und genießen Sie das klare Wasser. Mittagessen in einer Taverne am Strand!",
+            "hu": "Béreljen napágyat, és élvezze a tiszta vizet. Ebédeljen egy tengerparti tavernában!",
+            "ro": "Închiriați un șezlong și bucurați-vă de apa limpede. Prânz la o tavernă pe plajă!",
+            "en": "Rent a sunbed and enjoy the clear waters. Have lunch at a beachside taverna!"
+          }
+        },
+        {
+          "name": {
+            "de": "Pefkias-Kiefernwald",
+            "hu": "Pefkias fenyőerdő",
+            "ro": "Pădurea de pini Pefkias",
+            "en": "Pefkias Pine Forest"
+          },
+          "coords": [
+            22.625,
+            38.088
+          ],
+          "category": "forest",
+          "arrive_at": "15:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Spaziergang im Schatten der Pinien ist eine perfekte Flucht vor der Mittagssonne.",
+            "hu": "Egy séta a fenyők árnyékában tökéletes menedék a déli nap elől.",
+            "ro": "O plimbare la umbra pinilor este o evadare perfectă de soarele amiezii.",
+            "en": "A walk in the shade of the pine trees is a perfect escape from the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Sythas-Flussufer",
+            "hu": "Sythas-folyó partja",
+            "ro": "Malul râului Sythas",
+            "en": "Sythas River Bank"
+          },
+          "coords": [
+            22.645,
+            38.081
+          ],
+          "category": "natural features",
+          "arrive_at": "16:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um den Tag ausklingen zu lassen und den Sonnenuntergang zu beobachten.",
+            "hu": "Egy békés hely a nap befejezéséhez és a naplemente megtekintéséhez.",
+            "ro": "Un loc liniștit pentru a încheia ziua și a privi apusul.",
+            "en": "A peaceful spot to end the day and watch the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem belebten Aristonauton-Platz, dem Herzen von Xylokastro. Nach der Erkundung der historischen Agios-Vlasios-Kirche führt Sie ein kurzer Spaziergang zum Hafen. Verbringen Sie den Nachmittag entspannt am Strand, bevor Sie in den schattigen Pefkias-Wald eintauchen. Der Tag endet mit einem ruhigen Spaziergang entlang des Sythas-Flusses, während die Sonne untergeht.",
+        "hu": "Kezdje a napot a nyüzsgő Arisztonauton téren, Xylokastro szívében. A történelmi Agios Vlasios templom felfedezése után egy rövid séta elvisz a kikötőbe. Töltse a délutánt a tengerparton pihenve, mielőtt elmerülne az árnyas Pefkias-erdőben. A nap egy békés sétával zárul a Sythas folyó mentén, miközben a nap lenyugszik.",
+        "ro": "Începeți ziua în vibranta Piață Aristonauton, inima orașului Xylokastro. După explorarea istoricei Biserici Agios Vlasios, o scurtă plimbare vă duce în port. Petreceți după-amiaza relaxându-vă pe plajă înainte de a vă cufunda în umbra pădurii Pefkias. Ziua se încheie cu o plimbare liniștită de-a lungul râului Sythas, în timp ce soarele apune.",
+        "en": "Start your day at the bustling Aristonauton Square, the heart of Xylokastro. After exploring the historic Agios Vlasios Church, a short walk takes you to the port. Spend the afternoon relaxing on the beach before delving into the shady Pefkias Forest. The day concludes with a peaceful stroll along the Sythas River as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch vom Grill",
+            "tip": "Fragen Sie in einer Taverne am Meer nach dem 'Fang des Tages'."
+          },
+          {
+            "name": "Griechischer Salat (Choriatiki)",
+            "tip": "Ein Muss zu jeder Mahlzeit, mit lokalem Feta und Olivenöl."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Ein schneller und leckerer Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett friss hal",
+            "tip": "Kérje a 'nap fogását' egy tengerparti tavernában."
+          },
+          {
+            "name": "Görög saláta (Choriatiki)",
+            "tip": "Minden étkezéshez kötelező, helyi fetával és olívaolajjal."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Gyors és ízletes harapnivaló útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt la grătar",
+            "tip": "Întrebați de 'captura zilei' la o tavernă de pe malul mării."
+          },
+          {
+            "name": "Salată grecească (Choriatiki)",
+            "tip": "O necesitate la orice masă, cu feta locală și ulei de măsline."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "O gustare rapidă și delicioasă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Fresh Fish",
+            "tip": "Ask for the 'catch of the day' at a seaside taverna."
+          },
+          {
+            "name": "Greek Salad (Choriatiki)",
+            "tip": "A must with any meal, with local feta and olive oil."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "A quick and delicious snack on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pefkias-Kiefernwald",
+            "tip": "Finden Sie eine ruhige Bank und lauschen Sie den Zikaden.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sonnenuntergang am Sythas-Fluss",
+            "tip": "Perfekte Stille am Ende des Tages.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Früher Morgen am Strand",
+            "tip": "Erleben Sie den Strand, bevor die Menschenmassen eintreffen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pefkias fenyőerdő",
+            "tip": "Keressen egy csendes padot, és hallgassa a kabócákat.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Naplemente a Sythas folyónál",
+            "tip": "Tökéletes csend a nap végén.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kora reggel a tengerparton",
+            "tip": "Élvezze a strandot, mielőtt a tömeg megérkezik.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de pini Pefkias",
+            "tip": "Găsiți o bancă liniștită și ascultați cicadele.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Apus la râul Sythas",
+            "tip": "Liniște perfectă la sfârșitul zilei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dimineața devreme pe plajă",
+            "tip": "Experimentați plaja înainte de sosirea mulțimilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pefkias Pine Forest",
+            "tip": "Find a quiet bench and listen to the cicadas.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sunset at Sythas River",
+            "tip": "Perfect tranquility at the end of the day.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Early morning on the beach",
+            "tip": "Experience the beach before the crowds arrive.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Geschäfte",
+            "tip": "Stöbern Sie in den kleinen Geschäften rund um den Aristonauton-Platz nach Souvenirs."
+          },
+          {
+            "name": "Olivenöl und Honig",
+            "tip": "Suchen Sie nach lokalen Produzenten für authentische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi üzletek",
+            "tip": "Böngésszen az Arisztonauton tér körüli kis üzletekben szuvenírek után."
+          },
+          {
+            "name": "Olívaolaj és méz",
+            "tip": "Keressen helyi termelőket az autentikus termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale",
+            "tip": "Răsfoiți micile magazine din jurul Pieței Aristonauton pentru suveniruri."
+          },
+          {
+            "name": "Ulei de măsline și miere",
+            "tip": "Căutați producători locali pentru produse autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Shops",
+            "tip": "Browse the small shops around Aristonauton Square for souvenirs."
+          },
+          {
+            "name": "Olive Oil and Honey",
+            "tip": "Look for local producers for authentic products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine Wasserflasche ist unerlässlich, besonders in den Sommermonaten.",
+          "Vergessen Sie nicht Sonnencreme und einen Hut.",
+          "Halten Sie Kleingeld für kleine Einkäufe oder einen Kaffee bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Egy vizes palack elengedhetetlen, különösen a nyári hónapokban.",
+          "Ne felejtse el a naptejet és a kalapot.",
+          "Tartson aprópénzt kisebb vásárlásokhoz vagy egy kávéhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "O sticlă de apă este esențială, mai ales în lunile de vară.",
+          "Nu uitați de cremă de soare și o pălărie.",
+          "Păstrați mărunțiș pentru cumpărături mici sau o cafea."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "A water bottle is essential, especially during the summer months.",
+          "Don't forget sunscreen and a hat.",
+          "Keep some small change handy for small purchases or a coffee."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Aristonauton-Platz",
+            "hu": "Arisztonauton tér",
+            "ro": "Piața Aristonauton",
+            "en": "Aristonauton Square"
+          },
+          "coords": [
+            22.6333,
+            38.0833
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Treffpunkt, um Ihr Fahrrad zu überprüfen, bevor Sie losfahren.",
+            "hu": "Tökéletes találkozóhely a kerékpár ellenőrzéséhez indulás előtt.",
+            "ro": "Punct de întâlnire perfect pentru a vă verifica bicicleta înainte de a porni.",
+            "en": "Perfect meeting point to check your bike before setting off."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Xylokastro",
+            "hu": "Xylokastro kikötője",
+            "ro": "Portul din Xylokastro",
+            "en": "Port of Xylokastro"
+          },
+          "coords": [
+            22.635,
+            38.086
+          ],
+          "category": "port",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam entlang des Piers und genießen Sie die Aussicht auf die Boote.",
+            "hu": "Tekerjen lassan a mólón, és élvezze a hajók látványát.",
+            "ro": "Pedalați încet de-a lungul cheiului și bucurați-vă de priveliștea bărcilor.",
+            "en": "Cycle slowly along the pier and enjoy the view of the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Xylokastro",
+            "hu": "Xylokastro strandja",
+            "ro": "Plaja din Xylokastro",
+            "en": "Xylokastro Beach"
+          },
+          "coords": [
+            22.63,
+            38.0875
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und nehmen Sie ein erfrischendes Bad im Meer.",
+            "hu": "Parkolja le a biciklit, és vegyen egy frissítő fürdőt a tengerben.",
+            "ro": "Parcați bicicleta și faceți o baie răcoritoare în mare.",
+            "en": "Park your bike and take a refreshing dip in the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Pefkias-Kiefernwald",
+            "hu": "Pefkias fenyőerdő",
+            "ro": "Pădurea de pini Pefkias",
+            "en": "Pefkias Pine Forest"
+          },
+          "coords": [
+            22.625,
+            38.088
+          ],
+          "category": "forest",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Die Radwege durch den Wald sind ideal für eine entspannte Fahrt.",
+            "hu": "Az erdőn átvezető kerékpárutak ideálisak egy laza tekeréshez.",
+            "ro": "Pistele de biciclete prin pădure sunt ideale pentru o plimbare relaxantă.",
+            "en": "The bike paths through the forest are ideal for a relaxing ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Sythas-Flussufer",
+            "hu": "Sythas-folyó partja",
+            "ro": "Malul râului Sythas",
+            "en": "Sythas River Bank"
+          },
+          "coords": [
+            22.645,
+            38.081
+          ],
+          "category": "natural features",
+          "arrive_at": "14:50",
+          "stay_min": 85,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Eine längere Fahrt, aber die ruhige Atmosphäre am Fluss ist es wert.",
+            "hu": "Hosszabb út, de a folyó melletti békés hangulat megéri.",
+            "ro": "O plimbare mai lungă, dar atmosfera liniștită de lângă râu merită.",
+            "en": "A longer ride, but the peaceful atmosphere by the river is worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schnappen Sie sich ein Fahrrad und beginnen Sie Ihre Tour am Aristonauton-Platz. Fahren Sie die Küste entlang, vorbei am Hafen, bis zum Hauptstrand für eine Mittagspause. Am Nachmittag erkunden Sie die kühlen, schattigen Wege des Pefkias-Waldes. Eine längere Fahrt führt Sie zum ruhigen Sythas-Fluss, ein perfekter Ort, um sich zu entspannen, bevor Sie zurück ins Zentrum fahren.",
+        "hu": "Pattanjon biciklire, és kezdje a túrát az Arisztonauton térről. Tekerjen végig a tengerparton, elhaladva a kikötő mellett, egészen a fő strandig egy ebédszünetre. Délután fedezze fel a Pefkias-erdő hűvös, árnyas ösvényeit. Egy hosszabb út vezet a békés Sythas folyóhoz, amely tökéletes hely a pihenésre, mielőtt visszatérne a központba.",
+        "ro": "Luați o bicicletă și începeți turul din Piața Aristonauton. Pedalați de-a lungul coastei, trecând de port, până la plaja principală pentru o pauză de prânz. După-amiaza, explorați potecile răcoroase și umbrite ale pădurii Pefkias. O plimbare mai lungă vă va duce la liniștitul râu Sythas, un loc perfect pentru a vă relaxa înainte de a vă întoarce în centru.",
+        "en": "Grab a bike and start your tour from Aristonauton Square. Cycle along the coast, past the port, to the main beach for a midday break. In the afternoon, explore the cool, shaded paths of the Pefkias Forest. A longer ride will take you to the tranquil Sythas River, a perfect spot to unwind before heading back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meeresfrüchte-Pasta",
+            "tip": "Eine großartige Möglichkeit, Energie für Ihre Radtour zu tanken."
+          },
+          {
+            "name": "Frisch gepresster Orangensaft",
+            "tip": "Erfrischend und an vielen Ständen erhältlich."
+          },
+          {
+            "name": "Griechischer Joghurt mit Honig",
+            "tip": "Ein leichter und gesunder Leckerbissen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei tészta",
+            "tip": "Remek módja az energiapótlásnak a kerékpártúrához."
+          },
+          {
+            "name": "Frissen facsart narancslé",
+            "tip": "Frissítő és sok standon kapható."
+          },
+          {
+            "name": "Görög joghurt mézzel",
+            "tip": "Könnyű és egészséges csemege."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste cu fructe de mare",
+            "tip": "O modalitate excelentă de a vă energiza pentru turul cu bicicleta."
+          },
+          {
+            "name": "Suc proaspăt de portocale",
+            "tip": "Răcoritor și disponibil la multe tarabe."
+          },
+          {
+            "name": "Iaurt grecesc cu miere",
+            "tip": "Un deliciu ușor și sănătos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Pasta",
+            "tip": "A great way to fuel up for your bike ride."
+          },
+          {
+            "name": "Freshly squeezed orange juice",
+            "tip": "Refreshing and available at many stalls."
+          },
+          {
+            "name": "Greek yogurt with honey",
+            "tip": "A light and healthy treat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg im Pefkias-Wald",
+            "tip": "Die ruhigen Wege bieten eine friedliche Flucht.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Bank am Sythas-Fluss",
+            "tip": "Ein abgeschiedener Ort, um die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Östliches Ende des Strandes",
+            "tip": "Weniger überlaufen und perfekt zum Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Pefkias-erdőben",
+            "tip": "A csendes ösvények békés menedéket nyújtanak.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Pad a Sythas folyónál",
+            "tip": "Egy eldugott hely a természet élvezetéhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A strand keleti vége",
+            "tip": "Kevésbé zsúfolt és tökéletes a pihenéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete din Pădurea Pefkias",
+            "tip": "Potecile liniștite oferă o evadare pașnică.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Bancă pe malul râului Sythas",
+            "tip": "Un loc retras pentru a te bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capătul estic al plajei",
+            "tip": "Mai puțin aglomerat și perfect pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pefkias Forest bike path",
+            "tip": "The quiet paths offer a peaceful escape.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Bench by the Sythas River",
+            "tip": "A secluded spot to enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "East end of the beach",
+            "tip": "Less crowded and perfect for relaxation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih",
+            "tip": "Suchen Sie nach Geschäften, die auch Zubehör wie Helme und Körbe anbieten."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "Ein süßes und energiegeladenes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönző",
+            "tip": "Keressen olyan üzleteket, amelyek sisakot és kosarat is kínálnak."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "Édes és energiadús szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închiriere de biciclete",
+            "tip": "Căutați magazine care oferă și accesorii precum căști și coșuri."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Un suvenir dulce și energizant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rental Shop",
+            "tip": "Look for shops that also offer accessories like helmets and baskets."
+          },
+          {
+            "name": "Local Honey",
+            "tip": "A sweet and energizing souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist, bevor Sie starten.",
+          "Ein Schloss ist wichtig, um Ihr Fahrrad an den Haltestellen zu sichern.",
+          "Die Küstenstraße kann windig sein, seien Sie vorbereitet.",
+          "Planen Sie Ihre Route im Voraus, aber seien Sie flexibel."
+        ],
+        "hu": [
+          "Indulás előtt győződjön meg róla, hogy a kerékpárja jó állapotban van.",
+          "A lakat fontos a kerékpár biztonságba helyezéséhez a megállóknál.",
+          "A parti út szeles lehet, készüljön fel.",
+          "Tervezze meg előre az útvonalát, de legyen rugalmas."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este în stare bună înainte de a porni.",
+          "Un lacăt este important pentru a vă asigura bicicleta la opriri.",
+          "Drumul de coastă poate fi vântos, fiți pregătit.",
+          "Planificați-vă traseul în avans, dar fiți flexibil."
+        ],
+        "en": [
+          "Make sure your bike is in good condition before you start.",
+          "A lock is important to secure your bike at stops.",
+          "The coastal road can be windy, be prepared.",
+          "Plan your route in advance, but be flexible."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Aristonauton-Platz",
+            "hu": "Parkoló az Arisztonauton térnél",
+            "ro": "Parcare lângă Piața Aristonauton",
+            "en": "Parking near Aristonauton Square"
+          },
+          "coords": [
+            22.6338,
+            38.083
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das Stadtzentrum zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a városközpontot.",
+            "ro": "Parcați aici pentru a explora centrul orașului pe jos.",
+            "en": "Park here to explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Aristonauton-Platz & Umgebung",
+            "hu": "Arisztonauton tér és környéke",
+            "ro": "Piața Aristonauton și împrejurimile",
+            "en": "Aristonauton Square & Surroundings"
+          },
+          "coords": [
+            22.6333,
+            38.0833
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die Atmosphäre des Hauptplatzes aufzusaugen.",
+            "hu": "Szánjon időt a főtér hangulatának magába szívására.",
+            "ro": "Luați-vă timp pentru a absorbi atmosfera pieței principale.",
+            "en": "Take your time to soak in the atmosphere of the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Vlasios",
+            "hu": "Agios Vlasios templom",
+            "ro": "Biserica Agios Vlasios",
+            "en": "Church of Agios Vlasios"
+          },
+          "coords": [
+            22.6325,
+            38.0828
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz entfernt, ein Muss für Geschichtsinteressierte.",
+            "hu": "Rövid sétára a tértől, a történelem iránt érdeklődőknek kötelező.",
+            "ro": "La o scurtă plimbare de piață, o vizită obligatorie pentru pasionații de istorie.",
+            "en": "A short walk from the square, a must-see for history buffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Pefkias-Wald",
+            "hu": "Parkoló a Pefkias-erdőnél",
+            "ro": "Parcare lângă Pădurea Pefkias",
+            "en": "Parking at Pefkias Forest"
+          },
+          "coords": [
+            22.6245,
+            38.0885
+          ],
+          "category": "forest",
+          "arrive_at": "11:00",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der zweite Hauptstopp. Von hier aus erkunden Sie die Küste.",
+            "hu": "A második fő megálló. Innen fedezze fel a tengerpartot.",
+            "ro": "A doua oprire principală. De aici, explorați coasta.",
+            "en": "The second main stop. From here, you'll explore the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Pefkias-Kiefernwald",
+            "hu": "Pefkias fenyőerdő",
+            "ro": "Pădurea de pini Pefkias",
+            "en": "Pefkias Pine Forest"
+          },
+          "coords": [
+            22.625,
+            38.088
+          ],
+          "category": "forest",
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen langen Spaziergang und genießen Sie die Natur, bevor Sie zu Mittag essen.",
+            "hu": "Tegyen egy hosszú sétát, és élvezze a természetet ebéd előtt.",
+            "ro": "Faceți o plimbare lungă și bucurați-vă de natură înainte de prânz.",
+            "en": "Take a long walk and enjoy nature before having lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Xylokastro & Hafen",
+            "hu": "Xylokastro strandja és kikötője",
+            "ro": "Plaja și portul din Xylokastro",
+            "en": "Xylokastro Beach & Port"
+          },
+          "coords": [
+            22.632,
+            38.087
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:25",
+          "stay_min": 215,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Rest des Nachmittags gehört dem Meer. Entspannen, schwimmen und genießen.",
+            "hu": "A délután hátralévő része a tengeré. Pihenjen, ússzon és élvezze!",
+            "ro": "Restul după-amiezii este pentru mare. Relaxați-vă, înotați și bucurați-vă.",
+            "en": "The rest of the afternoon is for the sea. Relax, swim, and enjoy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie den Aristonauton-Platz und die Agios-Vlasios-Kirche zu Fuß. Am Vormittag fahren Sie zum Pefkias-Wald. Parken Sie dort erneut und verbringen Sie den Rest des Tages damit, den Wald, den angrenzenden Strand und den Hafen zu Fuß zu erkunden, mit viel Zeit für ein langes Mittagessen und Schwimmen.",
+        "hu": "Parkolja le autóját a központban, és fedezze fel gyalog az Arisztonauton teret és az Agios Vlasios templomot. Délelőtt vezessen el a Pefkias-erdőhöz. Parkoljon le újra, és töltse a nap hátralévő részét az erdő, a szomszédos strand és a kikötő gyalogos felfedezésével, bőséges időt hagyva egy hosszú ebédre és úszásra.",
+        "ro": "Parcați mașina în centru și explorați pe jos Piața Aristonauton și Biserica Agios Vlasios. Dimineața târziu, conduceți spre Pădurea Pefkias. Parcați din nou și petreceți restul zilei explorând pe jos pădurea, plaja adiacentă și portul, cu mult timp pentru un prânz lung și înot.",
+        "en": "Park your car in the center and explore Aristonauton Square and Agios Vlasios Church on foot. In the late morning, drive to the Pefkias Forest. Park again and spend the rest of the day exploring the forest, the adjacent beach, and the port on foot, with plenty of time for a long lunch and swimming."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverne am Strand",
+            "tip": "Wählen Sie eine mit Blick aufs Meer für das ultimative griechische Erlebnis."
+          },
+          {
+            "name": "Oktopus in Essig",
+            "tip": "Eine klassische Meeresfrüchte-Vorspeise."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Fragen Sie nach einer Empfehlung aus der Region Peloponnes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengerparti taverna",
+            "tip": "Válasszon egy tengerre nézőt a tökéletes görög élményért."
+          },
+          {
+            "name": "Ecetes polip",
+            "tip": "Klasszikus tenger gyümölcsei előétel."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kérjen ajánlást a Peloponnészoszi régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavernă pe plajă",
+            "tip": "Alegeți una cu vedere la mare pentru experiența grecească supremă."
+          },
+          {
+            "name": "Caracatiță în oțet",
+            "tip": "Un aperitiv clasic cu fructe de mare."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Cereți o recomandare din regiunea Peloponez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beachside Taverna",
+            "tip": "Pick one with a sea view for the ultimate Greek experience."
+          },
+          {
+            "name": "Octopus in vinegar",
+            "tip": "A classic seafood appetizer."
+          },
+          {
+            "name": "Local wine",
+            "tip": "Ask for a recommendation from the Peloponnese region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tiefer im Pefkias-Wald",
+            "tip": "Je weiter Sie hineingehen, desto ruhiger wird es.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ein abgelegener Teil des Strandes",
+            "tip": "Gehen Sie vom Haupteingang weg, um mehr Privatsphäre zu finden.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang am Hafen am späten Nachmittag",
+            "tip": "Ruhiger, nachdem die meisten Tagesausflügler gegangen sind.",
+            "emoji": "⚓"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mélyebben a Pefkias-erdőben",
+            "tip": "Minél beljebb megy, annál csendesebb lesz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A strand egy eldugott része",
+            "tip": "Menjen távolabb a főbejárattól a nagyobb nyugalomért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Késő délutáni séta a kikötőben",
+            "tip": "Csendesebb, miután a legtöbb napos kiránduló elment.",
+            "emoji": "⚓"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mai adânc în Pădurea Pefkias",
+            "tip": "Cu cât mergeți mai departe, cu atât devine mai liniștit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O parte retrasă a plajei",
+            "tip": "Îndepărtați-vă de intrarea principală pentru mai multă intimitate.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare în port după-amiaza târziu",
+            "tip": "Mai liniștit după plecarea majorității vizitatorilor de o zi.",
+            "emoji": "⚓"
+          }
+        ],
+        "en": [
+          {
+            "name": "Deeper in Pefkias Forest",
+            "tip": "The further you go in, the quieter it gets.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A secluded part of the beach",
+            "tip": "Walk away from the main entrance for more privacy.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Late afternoon port walk",
+            "tip": "Quieter after most day-trippers have left.",
+            "emoji": "⚓"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik",
+            "tip": "Handgefertigte Keramik ist ein schönes und authentisches Souvenir."
+          },
+          {
+            "name": "Strandbekleidung",
+            "tip": "Die Geschäfte entlang der Küste bieten eine große Auswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia",
+            "tip": "A kézzel készített kerámia szép és autentikus szuvenír."
+          },
+          {
+            "name": "Strandruházat",
+            "tip": "A part menti üzletek nagy választékot kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică",
+            "tip": "Ceramica lucrată manual este un suvenir frumos și autentic."
+          },
+          {
+            "name": "Îmbrăcăminte de plajă",
+            "tip": "Magazinele de-a lungul coastei oferă o selecție largă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramics",
+            "tip": "Handmade pottery is a beautiful and authentic souvenir."
+          },
+          {
+            "name": "Beachwear",
+            "tip": "The shops along the coast offer a wide selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkvorschriften, um Strafzettel zu vermeiden.",
+          "Ein kleineres Auto ist in den engen Straßen leichter zu manövrieren.",
+          "Lassen Sie keine Wertsachen im Auto liegen.",
+          "Planen Sie Pufferzeit für die Parkplatzsuche ein, besonders im Sommer."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási szabályokat a büntetések elkerülése érdekében.",
+          "Egy kisebb autóval könnyebb manőverezni a szűk utcákban.",
+          "Ne hagyjon értékeket az autóban.",
+          "Tervezzen plusz időt a parkolóhely keresésére, különösen nyáron."
+        ],
+        "ro": [
+          "Verificați regulile de parcare pentru a evita amenzile.",
+          "O mașină mai mică este mai ușor de manevrat pe străzile înguste.",
+          "Nu lăsați obiecte de valoare în mașină.",
+          "Planificați timp suplimentar pentru găsirea unui loc de parcare, mai ales vara."
+        ],
+        "en": [
+          "Check parking regulations to avoid fines.",
+          "A smaller car is easier to maneuver in the narrow streets.",
+          "Don't leave valuables in the car.",
+          "Plan for buffer time to find parking, especially in summer."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Aristonauton-Platz",
+            "hu": "Arisztonauton tér",
+            "ro": "Piața Aristonauton",
+            "en": "Aristonauton Square"
+          },
+          "coords": [
+            22.6333,
+            38.0833
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der zentrale Busknotenpunkt der Stadt. Beginnen Sie hier Ihr Abenteuer.",
+            "hu": "A város központi buszcsomópontja. Itt kezdje a kalandot.",
+            "ro": "Nodul central de autobuz al orașului. Începeți-vă aventura de aici.",
+            "en": "The city's central bus hub. Start your adventure here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Vlasios",
+            "hu": "Agios Vlasios templom",
+            "ro": "Biserica Agios Vlasios",
+            "en": "Church of Agios Vlasios"
+          },
+          "coords": [
+            22.6325,
+            38.0828
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Hauptplatz aus zu erreichen.",
+            "hu": "Könnyen megközelíthető gyalog a főtérről.",
+            "ro": "Ușor de ajuns pe jos din piața principală.",
+            "en": "Easily reachable on foot from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle am Strand",
+            "hu": "Buszmegálló a strandnál",
+            "ro": "Stație de autobuz la plajă",
+            "en": "Bus Stop at the Beach"
+          },
+          "coords": [
+            22.6295,
+            38.087
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:50",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus, um den Küstenabschnitt des Tages zu beginnen.",
+            "hu": "Szálljon le itt a nap tengerparti szakaszának megkezdéséhez.",
+            "ro": "Coborâți aici pentru a începe porțiunea de coastă a zilei.",
+            "en": "Get off here to start the coastal part of your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Xylokastro",
+            "hu": "Xylokastro strandja",
+            "ro": "Plaja din Xylokastro",
+            "en": "Xylokastro Beach"
+          },
+          "coords": [
+            22.63,
+            38.0875
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Verbringen Sie hier den Großteil des Nachmittags.",
+            "hu": "Töltse itt a délután nagy részét.",
+            "ro": "Petreceți cea mai mare parte a după-amiezii aici.",
+            "en": "Spend the bulk of your afternoon here."
+          }
+        },
+        {
+          "name": {
+            "de": "Pefkias-Kiefernwald & Hafen",
+            "hu": "Pefkias fenyőerdő és kikötő",
+            "ro": "Pădurea de pini Pefkias și portul",
+            "en": "Pefkias Pine Forest & Port"
+          },
+          "coords": [
+            22.628,
+            38.088
+          ],
+          "category": "forest",
+          "arrive_at": "14:15",
+          "stay_min": 195,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Strand zum Wald und dann zum Hafen, um den Tag ausklingen zu lassen.",
+            "hu": "Egy kellemes séta a strandtól az erdőig, majd a kikötőig a nap lezárásaként.",
+            "ro": "O plimbare plăcută de la plajă la pădure și apoi la port pentru a încheia ziua.",
+            "en": "A lovely walk from the beach to the forest and then the port to round off the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Aristonauton-Platz und erkunden Sie die nahe gelegene Kirche zu Fuß. Nehmen Sie dann einen Bus zum Strandbereich. Verbringen Sie einen entspannten Nachmittag am Meer und machen Sie dann einen ausgedehnten Spaziergang durch den Pefkias-Wald und entlang des Hafens, bevor Sie einen Bus zurück ins Zentrum nehmen.",
+        "hu": "Kezdje az Arisztonauton téren, és fedezze fel a közeli templomot gyalog. Ezután vegyen egy buszt a strand területére. Töltsön egy pihentető délutánt a tengernél, majd tegyen egy hosszú sétát a Pefkias-erdőn keresztül és a kikötő mentén, mielőtt busszal visszatérne a központba.",
+        "ro": "Începeți din Piața Aristonauton și explorați biserica din apropiere pe jos. Apoi, luați un autobuz spre zona de plajă. Petreceți o după-amiază relaxantă la mare, apoi faceți o plimbare extinsă prin Pădurea Pefkias și de-a lungul portului înainte de a lua un autobuz înapoi în centru.",
+        "en": "Start at Aristonauton Square and explore the nearby church on foot. Then, take a bus to the beach area. Spend a relaxing afternoon by the sea, then take an extended walk through the Pefkias Forest and along the port before catching a bus back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyros Pita",
+            "tip": "Ein perfektes, erschwingliches Mittagessen, das man am Strand essen kann."
+          },
+          {
+            "name": "Gefüllte Weinblätter (Dolmades)",
+            "tip": "Eine köstliche vegetarische Option."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Ein süßer Abschluss des Tages."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyros pita",
+            "tip": "Tökéletes, megfizethető ebéd a strandon."
+          },
+          {
+            "name": "Töltött szőlőlevél (Dolmades)",
+            "tip": "Ízletes vegetáriánus opció."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Édes befejezése a napnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gyros Pita",
+            "tip": "Un prânz perfect, accesibil, de mâncat pe plajă."
+          },
+          {
+            "name": "Sarmale în foi de viță (Dolmades)",
+            "tip": "O opțiune vegetariană delicioasă."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Un final dulce pentru zi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyros Pita",
+            "tip": "A perfect, affordable lunch to eat on the beach."
+          },
+          {
+            "name": "Stuffed Vine Leaves (Dolmades)",
+            "tip": "A delicious vegetarian option."
+          },
+          {
+            "name": "Baklava",
+            "tip": "A sweet end to the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt mit Aussicht",
+            "tip": "Schnappen Sie sich einen Fensterplatz für eine kostenlose Stadtrundfahrt.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Spaziergang am Wasser",
+            "tip": "Die Promenade zwischen Strand und Wald ist besonders ruhig.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Kulturzentrum",
+            "tip": "Überprüfen Sie, ob es eine ruhige Ausstellung oder Veranstaltung gibt.",
+            "emoji": "🎭"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás kilátással",
+            "tip": "Csípjen meg egy ablak melletti helyet egy ingyenes városnézéshez.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Séta a vízparton",
+            "tip": "A strand és az erdő közötti sétány különösen csendes.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Kulturális Központ",
+            "tip": "Nézze meg, van-e csendes kiállítás vagy esemény.",
+            "emoji": "🎭"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul cu vedere",
+            "tip": "Prindeți un loc la fereastră pentru un tur gratuit al orașului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Plimbare pe malul apei",
+            "tip": "Promenada dintre plajă și pădure este deosebit de liniștită.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Centrul Cultural",
+            "tip": "Verificați dacă există o expoziție sau un eveniment liniștit.",
+            "emoji": "🎭"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride with a view",
+            "tip": "Grab a window seat for a free city tour.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Walk by the water",
+            "tip": "The promenade between the beach and the forest is especially tranquil.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Cultural Center",
+            "tip": "Check if there is a quiet exhibition or event.",
+            "emoji": "🎭"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie Snacks und Getränke für Ihre Reise."
+          },
+          {
+            "name": "Handgefertigter Schmuck",
+            "tip": "Einzigartige Stücke, die von lokalen Handwerkern hergestellt werden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon rágcsálnivalót és italokat az útra."
+          },
+          {
+            "name": "Kézzel készített ékszerek",
+            "tip": "Egyedi darabok helyi kézművesektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați gustări și băuturi pentru călătoria dvs."
+          },
+          {
+            "name": "Bijuterii handmade",
+            "tip": "Piese unice realizate de artizani locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy snacks and drinks for your journey."
+          },
+          {
+            "name": "Handmade jewelry",
+            "tip": "Unique pieces made by local artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Fahrt zurück.",
+          "Haben Sie den genauen Fahrpreis parat oder verwenden Sie eine kontaktlose Zahlungsmethode.",
+          "Die Busse können im Sommer überfüllt sein, seien Sie geduldig."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, különösen az utolsó visszautat.",
+          "Legyen Önnél pontos viteldíj, vagy használjon érintés nélküli fizetési módot.",
+          "A buszok nyáron zsúfoltak lehetnek, legyen türelmes."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzului în avans, în special pentru ultima călătorie înapoi.",
+          "Aveți la îndemână suma exactă sau folosiți o metodă de plată contactless.",
+          "Autobuzele pot fi aglomerate vara, aveți răbdare."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check the bus schedule in advance, especially for the last ride back.",
+          "Have the exact fare ready or use a contactless payment method.",
+          "Buses can be crowded in the summer, be patient."
+        ]
+      }
+    }
+  }
+}

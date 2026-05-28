@@ -1,0 +1,1100 @@
+{
+  "city_id": "romania-pangrati-cities-v2",
+  "anchor": {
+    "name": "Pangrati",
+    "coords": [
+      46.9,
+      26.25
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 5.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster Pângărați",
+            "hu": "Pângărați kolostor",
+            "ro": "Mănăstirea Pângărați",
+            "en": "Pângărați Monastery"
+          },
+          "coords": [
+            26.255,
+            46.903
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige überlappende Kirchturmarchitektur, ein seltenes Design.",
+            "hu": "Csodálja meg a ritka, egymásra épülő tornyokból álló egyedi építészeti megoldást.",
+            "ro": "Admirați arhitectura unică a turlelor suprapuse, un design rar întâlnit.",
+            "en": "Admire the unique overlapping steeple architecture, a rare design."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Demetrius-Kirche",
+            "hu": "Szent Demeter-templom",
+            "ro": "Biserica Sfântul Dumitru",
+            "en": "Saint Demetrius Church"
+          },
+          "coords": [
+            26.256,
+            46.902
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach den ältesten Fresken im Inneren; sie erzählen die Geschichte des Ortes.",
+            "hu": "Keresse a legrégebbi belső freskókat, melyek a hely történetét mesélik el.",
+            "ro": "Căutați cele mai vechi fresce din interior; ele spun povestea locului.",
+            "en": "Look for the oldest frescoes inside; they tell the story of the place."
+          }
+        },
+        {
+          "name": {
+            "de": "Pângărați-Viadukt",
+            "hu": "Pângărați-viadukt",
+            "ro": "Viaductul Pângărați",
+            "en": "Pângărați Viaduct"
+          },
+          "coords": [
+            26.251,
+            46.908
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für Fotos vom See und dem Damm aus der Ferne.",
+            "hu": "Nagyszerű hely a tóról és a gátról készülő távoli fotókhoz.",
+            "ro": "Un loc excelent pentru fotografii cu lacul și barajul de la distanță.",
+            "en": "A great spot for photos of the lake and the dam from a distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer des Pângărați-Sees",
+            "hu": "Pângărați-tó partja",
+            "ro": "Malul Lacului Pângărați",
+            "en": "Pângărați Lake Shore"
+          },
+          "coords": [
+            26.24,
+            46.915
+          ],
+          "category": "natural features",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick zu Mittag. Bringen Sie eine Decke mit.",
+            "hu": "Tökéletes egy ebédidős piknikhez. Hozzon magával egy pokrócot.",
+            "ro": "Perfect pentru un picnic la prânz. Aduceți o pătură.",
+            "en": "Perfect for a midday picnic. Bring a blanket."
+          }
+        },
+        {
+          "name": {
+            "de": "Pângărați-Staudamm",
+            "hu": "Pângărați-gát",
+            "ro": "Barajul Pângărați",
+            "en": "Pângărați Dam"
+          },
+          "coords": [
+            26.235,
+            46.92
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spüren Sie die Kraft des Wassers und schätzen Sie die Ingenieurskunst.",
+            "hu": "Érezze a víz erejét és értékelje a mérnöki munkát.",
+            "ro": "Simțiți puterea apei și apreciați ingineria din spatele construcției.",
+            "en": "Feel the power of the water and appreciate the engineering."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit spiritueller Ruhe im Klosterkomplex Pângărați. Am Vormittag erkunden Sie die historischen Kirchen, bevor Sie zum Viadukt spazieren, um die Aussicht zu genießen. Den Nachmittag verbringen Sie entspannt am Ufer des Pângărați-Sees, gefolgt von einem beeindruckenden Spaziergang über den Damm, der den Tag mit einem Gefühl von Größe und Natur ausklingen lässt.",
+        "hu": "A nap spirituális nyugalommal kezdődik a Pângărați kolostorkomplexumban. Délelőtt felfedezi a történelmi templomokat, majd a viadukthoz sétál a kilátásért. A délutánt a Pângărați-tó partján tölti pihenéssel, majd egy lenyűgöző séta következik a gáton, amely a természet és az emberi alkotás nagyságának érzésével zárja a napot.",
+        "ro": "Ziua dvs. începe cu liniște spirituală la complexul monahal Pângărați. Dimineața explorați bisericile istorice înainte de a vă plimba la viaduct pentru priveliști. După-amiaza o petreceți relaxându-vă pe malul lacului Pângărați, urmată de o plimbare impresionantă pe baraj, încheind ziua cu un sentiment de măreție inginerească și naturală.",
+        "en": "Your day begins with spiritual tranquility at the Pângărați monastery complex. In the morning, you'll explore the historic churches before strolling to the viaduct for views. The afternoon is for relaxing by the Pângărați Lake shore, followed by an impressive walk across the dam, ending the day with a sense of natural and engineering grandeur."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Păstrăv la grătar",
+            "tip": "Gegrillte Forelle, oft direkt aus den lokalen Bergflüssen, serviert mit Mămăligă."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett pisztráng",
+            "tip": "Gyakran a helyi hegyi patakokból fogott grillezett pisztráng, mamaligával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Păstrăv la grătar",
+            "tip": "Păstrăv proaspăt, adesea din pâraiele montane locale, servit cu mămăliguță."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Trout",
+            "tip": "Fresh trout, often from the local mountain streams, served with polenta (mămăligă)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eiben-Reservat",
+            "tip": "Ein ruhiger Spaziergang durch diesen alten Wald ist tief beruhigend.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am See",
+            "tip": "Finden Sie eine ruhige Stelle am Ufer, um die Farben des Himmels zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tiszafa rezervátum",
+            "tip": "Egy csendes séta ebben az ősi erdőben mélyen megnyugtató.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a tónál",
+            "tip": "Keressen egy csendes helyet a parton, és figyelje az égbolt színeit.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația de tise",
+            "tip": "O plimbare liniștită prin această pădure veche este profund calmantă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus pe lac",
+            "tip": "Găsiți un loc liniștit pe mal pentru a privi culorile cerului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Yew Tree Reservation",
+            "tip": "A quiet walk through this ancient forest is deeply calming.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset by the lake",
+            "tip": "Find a quiet spot on the shore to watch the sky's colors.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Klostersouvenirs",
+            "tip": "Im Klosterladen finden Sie religiöse Ikonen, Kräutertees und lokalen Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostori ajándéktárgyak",
+            "tip": "A kolostor boltjában vallási ikonokat, gyógyteákat és helyi mézet talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la mănăstire",
+            "tip": "Cumpărați icoane religioase, ceaiuri din plante și miere locală de la magazinul mănăstirii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Souvenirs",
+            "tip": "Purchase religious icons, herbal teas, and local honey from the monastery shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser und Snacks mit, da die Verpflegungsmöglichkeiten begrenzt sein können.",
+          "Respektieren Sie die Stille und die Regeln in den religiösen Stätten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Vigyen magával vizet és rágcsálnivalót, mivel az étkezési lehetőségek korlátozottak lehetnek.",
+          "Tartsa tiszteletben a csendet és a szabályokat a vallási helyszíneken."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați apă și gustări, deoarece opțiunile de luat masa pot fi limitate.",
+          "Respectați liniștea și regulile din lăcașurile de cult."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring water and snacks, as food options may be limited.",
+          "Respect the silence and rules at the religious sites."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster Pângărați",
+            "hu": "Pângărați kolostor",
+            "ro": "Mănăstirea Pângărați",
+            "en": "Pângărați Monastery"
+          },
+          "coords": [
+            26.255,
+            46.903
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Gelände erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a területet.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora complexul.",
+            "en": "Securely lock your bike before exploring the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Pângărați-Viadukt",
+            "hu": "Pângărați-viadukt",
+            "ro": "Viaductul Pângărați",
+            "en": "Pângărați Viaduct"
+          },
+          "coords": [
+            26.251,
+            46.908
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Vorsicht vor dem Verkehr beim Anhalten für Fotos auf der Brücke.",
+            "hu": "Legyen óvatos a forgalommal, amikor megáll fotózni a hídon.",
+            "ro": "Atenție la trafic când vă opriți pentru fotografii pe viaduct.",
+            "en": "Be careful with traffic when stopping for photos on the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Pângărați-Staudamm",
+            "hu": "Pângărați-gát",
+            "ro": "Barajul Pângărați",
+            "en": "Pângărați Dam"
+          },
+          "coords": [
+            26.235,
+            46.92
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren über den Damm bietet eine einzigartige Perspektive und eine leichte Brise.",
+            "hu": "A gáton való kerékpározás egyedi perspektívát és kellemes szellőt kínál.",
+            "ro": "Plimbarea cu bicicleta pe baraj oferă o perspectivă unică și o briză răcoroasă.",
+            "en": "Biking across the dam offers a unique perspective and a nice breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Pângărați-See",
+            "hu": "Ebéd a Pângărați-tónál",
+            "ro": "Prânz pe malul lacului Pângărați",
+            "en": "Lunch at Pângărați Lake"
+          },
+          "coords": [
+            26.24,
+            46.915
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Finden Sie ein lokales Restaurant mit Seeblick für eine wohlverdiente Pause.",
+            "hu": "Keressen egy helyi, tóra néző éttermet egy jól megérdemelt szünetre.",
+            "ro": "Găsiți un restaurant local cu vedere la lac pentru o pauză binemeritată.",
+            "en": "Find a local restaurant with a lake view for a well-deserved break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus",
+            "hu": "Kultúrház",
+            "ro": "Căminul Cultural",
+            "en": "Cultural House"
+          },
+          "coords": [
+            26.26,
+            46.9
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob lokale Veranstaltungen oder Ausstellungen stattfinden.",
+            "hu": "Nézze meg, hogy van-e valamilyen helyi esemény vagy kiállítás.",
+            "ro": "Verificați dacă au loc evenimente sau expoziții locale.",
+            "en": "Check if there are any local events or exhibitions happening."
+          }
+        },
+        {
+          "name": {
+            "de": "Eiben-Reservat",
+            "hu": "Tiszafa rezervátum",
+            "ro": "Rezervația de Tise (Pădurea de Tisă)",
+            "en": "Yew Tree Reservation"
+          },
+          "coords": [
+            26.28,
+            46.88
+          ],
+          "category": "natural features",
+          "arrive_at": "15:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein steilerer Anstieg, aber die Stille des alten Waldes ist es wert. Gehen Sie ein Stück zu Fuß.",
+            "hu": "Meredekebb emelkedő, de megéri az ősi erdő csendjéért. Sétáljon egy kicsit.",
+            "ro": "O urcare mai abruptă, dar liniștea pădurii seculare merită efortul. Plimbați-vă pe jos.",
+            "en": "A steeper climb, but the silence of the ancient forest is worth it. Take a walk inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Kloster Pângărați und fahren Sie dann zum Damm, um die Aussicht auf den See zu genießen. Nach einer Mittagspause am Wasser führt Sie die Route am Nachmittag zum Kulturhaus und gipfelt in einem Besuch des ruhigen Eiben-Reservats. Die Fahrt kombiniert spirituelle Orte mit Ingenieurskunst und der tiefen Ruhe der Natur.",
+        "hu": "Kezdje a kerékpártúrát a Pângărați kolostornál, majd tekerjen a gáthoz, ahonnan élvezheti a tóra nyíló kilátást. Egy vízparti ebédszünet után az útvonal délután a kultúrházhoz vezet, és a csendes Tiszafa rezervátum meglátogatásával csúcsosodik ki. A túra ötvözi a spirituális helyeket, a mérnöki csodákat és a természet mély nyugalmát.",
+        "ro": "Începeți turul pe bicicletă la Mănăstirea Pângărați, apoi pedalați spre baraj pentru vederi ale lacului. După o pauză de prânz lângă apă, traseul vă duce după-amiaza la Căminul Cultural și culminează cu o vizită la liniștita Rezervație de Tise. Turul combină locuri spirituale, inginerie și pacea profundă a naturii.",
+        "en": "Start your bike tour at Pângărați Monastery, then pedal to the dam for lake views. After a lunch break by the water, the afternoon route takes you to the Cultural House and culminates with a visit to the serene Yew Tree Reservation. The ride combines spiritual sites, engineering, and the deep peace of nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Ein herzhaftes Gericht aus Polenta, Käse und Wurst, perfekt zur Stärkung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Kiadós étel puliszkából, sajtból és kolbászból, tökéletes energiaforrás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "O mâncare consistentă din mămăligă cu brânză și cârnați, perfectă pentru a vă reface energia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shepherd's Bulz",
+            "tip": "A hearty dish of polenta, cheese, and sausage, perfect for refueling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg am See",
+            "tip": "Finden Sie einen abgelegenen Pfad am See entlang für einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt im Tarcău-Gebirge",
+            "tip": "Wenn Sie die Energie haben, bietet eine Fahrt in die Ausläufer eine atemberaubende Aussicht.",
+            "emoji": "⛰️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tóparti ösvény",
+            "tip": "Keressen egy eldugott ösvényt a tó mentén egy pillanatnyi csendért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátópont a Tarcău-hegységben",
+            "tip": "Ha van energiája, egy út a hegyalja felé lélegzetelállító kilátást nyújt.",
+            "emoji": "⛰️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărare pe malul lacului",
+            "tip": "Găsiți o potecă retrasă de-a lungul lacului pentru un moment de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere în Munții Tarcău",
+            "tip": "Dacă aveți energie, o plimbare spre poalele munților oferă priveliști uimitoare.",
+            "emoji": "⛰️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside Path",
+            "tip": "Find a secluded path along the lake for a moment of quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tarcău Mountains Viewpoint",
+            "tip": "If you have the energy, a ride into the foothills offers stunning views.",
+            "emoji": "⛰️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte",
+            "tip": "Halten Sie Ausschau nach Ständen, die hausgemachte Marmeladen und Sirupe verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Keresse a házi lekvárokat és szörpöket árusító standokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale",
+            "tip": "Fiți atenți la tarabele care vând gemuri și siropuri de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Produce",
+            "tip": "Look out for roadside stands selling homemade jams and syrups."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und seien Sie auf hügeliges Gelände vorbereitet.",
+          "Die Straßen können schmal sein, fahren Sie also defensiv.",
+          "Nehmen Sie ein Reparaturset für Reifenpannen mit."
+        ],
+        "hu": [
+          "Viseljen sisakot, és készüljön fel a dombos terepre.",
+          "Az utak keskenyek lehetnek, vezessen védekezően.",
+          "Vigyen magával defektjavító készletet."
+        ],
+        "ro": [
+          "Purtați cască de protecție și fiți pregătit pentru teren deluros.",
+          "Drumurile pot fi înguste, așa că pedalați defensiv.",
+          "Luați cu dvs. un kit de reparație pentru pană."
+        ],
+        "en": [
+          "Wear a helmet and be prepared for hilly terrain.",
+          "The roads can be narrow, so ride defensively.",
+          "Carry a puncture repair kit."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 42.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster Pângărați",
+            "hu": "Pângărați kolostor",
+            "ro": "Mănăstirea Pângărați",
+            "en": "Pângărați Monastery"
+          },
+          "coords": [
+            26.255,
+            46.903
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihre Erkundung des ersten Clusters.",
+            "hu": "Parkoljon itt, és kezdje meg az első látnivalócsoport felfedezését.",
+            "ro": "Parcați aici și începeți explorarea primului grup de obiective.",
+            "en": "Park here and begin your exploration of the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Demetrius-Kirche",
+            "hu": "Szent Demeter-templom",
+            "ro": "Biserica Sfântul Dumitru",
+            "en": "Saint Demetrius Church"
+          },
+          "coords": [
+            26.256,
+            46.902
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptkloster entfernt, lassen Sie das Auto stehen.",
+            "hu": "Csak egy rövid séta a fő kolostortól, hagyja az autót a parkolóban.",
+            "ro": "O scurtă plimbare de la mănăstirea principală, lăsați mașina parcată.",
+            "en": "A short walk from the main monastery, leave the car parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Pângărați-Staudamm",
+            "hu": "Pângărați-gát",
+            "ro": "Barajul Pângărați",
+            "en": "Pângărați Dam"
+          },
+          "coords": [
+            26.235,
+            46.92
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Damm und parken Sie. Gehen Sie über den Damm und am See entlang.",
+            "hu": "Vezessen a gáthoz és parkoljon le. Sétáljon át a gáton és a tó partján.",
+            "ro": "Conduceți la baraj și parcați. Plimbați-vă pe coronament și pe malul lacului.",
+            "en": "Drive to the dam and park. Walk across the top and along the lake shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Pângărați-See",
+            "hu": "Ebéd a Pângărați-tónál",
+            "ro": "Prânz pe malul lacului Pângărați",
+            "en": "Lunch at Pângărați Lake"
+          },
+          "coords": [
+            26.24,
+            46.915
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Restaurants sind vom Damm aus zu Fuß erreichbar.",
+            "hu": "Sok étterem sétatávolságra van a gáttól.",
+            "ro": "Multe restaurante sunt la mică distanță de mers pe jos de la baraj.",
+            "en": "Many restaurants are within walking distance from the dam area."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt im Tarcău-Gebirge",
+            "hu": "Kilátópont a Tarcău-hegységben",
+            "ro": "Punct de belvedere în Munții Tarcău",
+            "en": "Tarcău Mountains Viewpoint"
+          },
+          "coords": [
+            26.35,
+            46.85
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 20.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine malerische Fahrt in die Berge für eine atemberaubende Aussicht auf das Tal.",
+            "hu": "Festői autózás a hegyekbe a völgyre nyíló lélegzetelállító kilátásért.",
+            "ro": "O călătorie pitorească în munți pentru o priveliște uluitoare asupra văii.",
+            "en": "A scenic drive into the mountains for a breathtaking view of the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Eiben-Reservat",
+            "hu": "Tiszafa rezervátum",
+            "ro": "Rezervația de Tise (Pădurea de Tisă)",
+            "en": "Yew Tree Reservation"
+          },
+          "coords": [
+            26.28,
+            46.88
+          ],
+          "category": "natural features",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang und machen Sie einen langen Spaziergang in diesem einzigartigen Wald.",
+            "hu": "Parkoljon a bejáratnál, és tegyen egy hosszú sétát ebben az egyedülálló erdőben.",
+            "ro": "Parcați la intrare și faceți o plimbare lungă în această pădure unică.",
+            "en": "Park at the entrance and take a long walk in this unique forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus (Vorbeifahrt)",
+            "hu": "Kultúrház (elhaladás)",
+            "ro": "Căminul Cultural (în trecere)",
+            "en": "Cultural House (Drive-by)"
+          },
+          "coords": [
+            26.26,
+            46.9
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie das Zentrum des Gemeindelebens auf dem Rückweg aus den Wäldern.",
+            "hu": "Tekintse meg a közösségi élet központját, amint visszatér az erdőkből.",
+            "ro": "Vedeți centrul vieții comunitare la întoarcerea din pădure.",
+            "en": "See the center of community life on your way back from the forests."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit der Erkundung des Kloster-Clusters zu Fuß. Dann fahren Sie zum See, um den Damm zu überqueren und zu Mittag zu essen. Der Nachmittag ist einem Ausflug in die Tarcău-Berge gewidmet, der Panoramablicke und einen friedlichen Spaziergang durch das Eiben-Reservat bietet. Die Cluster-Walking-Methode kombiniert bequemes Fahren mit intensiven Spaziergängen in der Natur.",
+        "hu": "A nap a kolostor-csoport gyalogos felfedezésével kezdődik. Ezután a tóhoz hajt, hogy átkeljen a gáton és megebédeljen. A délután a Tarcău-hegységbe tett kirándulásé, panorámás kilátással és egy békés sétával a Tiszafa rezervátumban. A \"cluster-walking\" módszer ötvözi a kényelmes autózást a természetben tett intenzív sétákkal.",
+        "ro": "Ziua dvs. începe explorând pe jos grupul de obiective de la mănăstire. Apoi, conduceți spre lac pentru a traversa barajul și a lua prânzul. După-amiaza este dedicată unei excursii în Munții Tarcău, oferind vederi panoramice și o plimbare liniștită prin Rezervația de Tise. Metoda plimbărilor în grupuri de obiective combină condusul convenabil cu plimbări imersive în natură.",
+        "en": "Your day starts by exploring the monastery cluster on foot. You'll then drive to the lake to cross the dam and have lunch. The afternoon is dedicated to a trip into the Tarcău Mountains, offering panoramic views and a peaceful walk through the Yew Tree Reservation. The cluster-walking method combines convenient driving with immersive nature walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de fasole cu afumătură",
+            "tip": "Eine traditionelle Bohnensuppe mit geräuchertem Fleisch, ideal nach einer Wanderung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csorba füstölt hússal",
+            "tip": "Hagyományos bableves füstölt hússal, ideális egy túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de fasole cu afumătură",
+            "tip": "O ciorbă tradițională, consistentă, ideală după o drumeție."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bean soup with smoked meat",
+            "tip": "A traditional, hearty soup, ideal after a hike."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tarcău-Gebirge",
+            "tip": "Die Fahrt selbst ist schon beruhigend, mit weiten Ausblicken und wenig Verkehr.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Versteckte Buchten am See",
+            "tip": "Fahren Sie ein Stück die Straße entlang und finden Sie einen ruhigen Platz am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tarcău-hegység",
+            "tip": "Maga az út is megnyugtató, széles panorámával és kevés forgalommal.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Rejtett öblök a tónál",
+            "tip": "Vezessen egy kicsit tovább az úton, és keressen egy csendes helyet a víz mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Munții Tarcău",
+            "tip": "Drumul în sine este liniștitor, cu priveliști largi și trafic redus.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Golfuri ascunse pe lac",
+            "tip": "Conduceți puțin de-a lungul drumului și găsiți un loc liniștit lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tarcău Mountains",
+            "tip": "The drive itself is calming, with wide views and little traffic.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Hidden coves on the lake",
+            "tip": "Drive a little down the road and find a quiet spot by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käse von der Schäferei",
+            "tip": "Halten Sie Ausschau nach Schildern für 'Stână' (Schäferei), wo Sie frischen Käse kaufen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajt a juhászatból",
+            "tip": "Keresse a 'Stână' (juhászat) táblákat, ahol friss sajtot vásárolhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de la stână",
+            "tip": "Fiți atenți la indicatoarele spre 'Stână', de unde puteți cumpăra brânză proaspătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese from a sheepfold",
+            "tip": "Look for signs for 'Stână' (sheepfold) where you can buy fresh cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Bergstraßen können kurvig sein; fahren Sie vorsichtig.",
+          "Haben Sie genug Benzin, da Tankstellen selten sein können.",
+          "Parken Sie nur auf ausgewiesenen Flächen, um die Natur nicht zu beschädigen."
+        ],
+        "hu": [
+          "A hegyi utak kanyargósak lehetnek; vezessen óvatosan.",
+          "Győződjön meg róla, hogy van elég üzemanyaga, mert a benzinkutak ritkák lehetnek.",
+          "Csak a kijelölt helyeken parkoljon, hogy ne károsítsa a természetet."
+        ],
+        "ro": [
+          "Drumurile montane pot fi sinuoase; conduceți cu prudență.",
+          "Asigurați-vă că aveți suficient combustibil, benzinăriile pot fi rare.",
+          "Parcați doar în zonele desemnate pentru a nu afecta natura."
+        ],
+        "en": [
+          "Mountain roads can be winding; drive with care.",
+          "Have enough fuel, as gas stations can be infrequent.",
+          "Park only in designated areas to avoid damaging nature."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.4,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Kloster Pângărați",
+            "hu": "Pângărați kolostor buszmegálló",
+            "ro": "Stația de autobuz Mănăstirea Pângărați",
+            "en": "Pângărați Monastery Bus Stop"
+          },
+          "coords": [
+            26.258,
+            46.901
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier. Der erste Cluster ist zu Fuß erreichbar.",
+            "hu": "Kezdje itt a napot. Az első látnivalócsoport gyalogosan elérhető.",
+            "ro": "Începeți-vă ziua aici. Primul grup de obiective este accesibil pe jos.",
+            "en": "Start your day here. The first cluster is within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Pângărați & St.-Demetrius-Kirche",
+            "hu": "Pângărați kolostor és Szent Demeter-templom",
+            "ro": "Mănăstirea Pângărați & Biserica Sf. Dumitru",
+            "en": "Pângărați Monastery & St. Demetrius Church"
+          },
+          "coords": [
+            26.255,
+            46.903
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den gesamten Klosterkomplex, bevor Sie weiterziehen.",
+            "hu": "Fedezze fel az egész kolostorkomplexumot, mielőtt továbbhaladna.",
+            "ro": "Explorați întregul complex monahal înainte de a merge mai departe.",
+            "en": "Explore the entire monastery complex before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Pângărați-Staudamm",
+            "hu": "Pângărați-gát buszmegálló",
+            "ro": "Stația de autobuz Baraj Pângărați",
+            "en": "Pângărați Dam Bus Stop"
+          },
+          "coords": [
+            26.237,
+            46.918
+          ],
+          "category": "transport",
+          "arrive_at": "11:45",
+          "stay_min": 10,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus für den zweiten Cluster: den See und den Damm.",
+            "hu": "Szálljon le itt a második látnivalócsoporthoz: a tóhoz és a gáthoz.",
+            "ro": "Coborâți aici pentru al doilea grup de obiective: lacul și barajul.",
+            "en": "Get off here for the second cluster: the lake and the dam."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Pângărați-See & Damm",
+            "hu": "Séta a Pângărați-tónál és a gátnál",
+            "ro": "Plimbare la Lacul și Barajul Pângărați",
+            "en": "Walk at Pângărați Lake & Dam"
+          },
+          "coords": [
+            26.235,
+            46.92
+          ],
+          "category": "natural features",
+          "arrive_at": "12:05",
+          "stay_min": 205,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für einen Spaziergang, Fotos und ein Mittagessen.",
+            "hu": "Szánjon időt a sétára, fotózásra és ebédre.",
+            "ro": "Luați-vă timp pentru o plimbare, fotografii și prânz.",
+            "en": "Take your time for a walk, photos, and lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um zwischen zwei Hauptbereichen zu pendeln. Der Morgen ist dem spirituellen Zentrum um das Kloster Pângărați gewidmet. Am Nachmittag bringt Sie ein Bus zum See, wo Sie den Damm und die Uferpromenade zu Fuß erkunden können. Diese Reiseroute ist ideal für diejenigen, die die Hauptattraktionen ohne Auto erleben möchten.",
+        "hu": "Használja a helyi buszt a két fő terület közötti ingázáshoz. A délelőtt a Pângărați kolostor körüli spirituális központnak van szentelve. Délután egy busz elviszi a tóhoz, ahol gyalogosan fedezheti fel a gátat és a partot. Ez az útiterv ideális azok számára, akik autó nélkül szeretnék megtapasztalni a főbb látnivalókat.",
+        "ro": "Folosiți autobuzul local pentru a naviga între două zone principale. Dimineața este dedicată centrului spiritual din jurul Mănăstirii Pângărați. După-amiaza, un autobuz vă duce la lac, unde puteți explora barajul și malul pe jos. Acest itinerar este ideal pentru cei care doresc să experimenteze atracțiile principale fără mașină.",
+        "en": "Use the local bus to navigate between two main areas. The morning is dedicated to the spiritual hub around Pângărați Monastery. In the afternoon, a bus takes you to the lake, where you can explore the dam and shore on foot. This itinerary is ideal for those wanting to experience the main attractions without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Plăcinte cu brânză",
+            "tip": "Herzhafte Käsepasteten, ein schneller und leckerer Snack von lokalen Bäckereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Túrós pite",
+            "tip": "Kiadós, sós piték, gyors és finom harapnivaló a helyi pékségekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcinte cu brânză",
+            "tip": "Plăcinte sărate, o gustare rapidă și delicioasă de la brutăriile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese Pies (Plăcinte)",
+            "tip": "Savory cheese-filled pastries, a quick and delicious snack from local bakeries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten",
+            "tip": "Finden Sie eine ruhige Bank im Klostergarten zum Nachdenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abgelegenes Seeufer",
+            "tip": "Gehen Sie ein Stück vom Hauptdammbereich weg für mehr Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkert",
+            "tip": "Keressen egy csendes padot a kolostorkertben elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Elhagyatott tópart",
+            "tip": "Sétáljon távolabb a gát fő területétől a nagyobb csendért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Găsiți o bancă liniștită în grădina mănăstirii pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul retras al lacului",
+            "tip": "Îndepărtați-vă de zona principală a barajului pentru mai multă liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Garden",
+            "tip": "Find a quiet bench within the monastery grounds for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Secluded Lake Shore",
+            "tip": "Walk away from the main dam area for more tranquility.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgemachte Kerzen",
+            "tip": "Im Kloster werden oft handgemachte Bienenwachskerzen verkauft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített gyertyák",
+            "tip": "A kolostorban gyakran árulnak kézzel készített méhviasz gyertyákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lumânări artizanale",
+            "tip": "Mănăstirea vinde adesea lumânări din ceară de albine, făcute manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Candles",
+            "tip": "The monastery often sells handmade beeswax candles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse selten fahren können.",
+          "Haben Sie Kleingeld für die Fahrkarten dabei.",
+          "Planen Sie zusätzliche Zeit für mögliche Verspätungen ein."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, mivel a járatok ritkák lehetnek.",
+          "Legyen Önnél aprópénz a jegyekhez.",
+          "Számoljon extra idővel az esetleges késések miatt."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, deoarece pot fi rare.",
+          "Aveți bani mărunți pentru bilete.",
+          "Planificați timp suplimentar pentru posibile întârzieri."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as services can be infrequent.",
+          "Have small change ready for bus tickets.",
+          "Plan for extra time to account for potential delays."
+        ]
+      }
+    }
+  }
+}

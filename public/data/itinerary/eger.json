@@ -1,0 +1,1226 @@
+{
+  "city_id": "eger",
+  "anchor": {
+    "name": "Eger",
+    "coords": [
+      20.3739,
+      47.9025
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dobó-Platz",
+            "hu": "Dobó István tér",
+            "ro": "Piața Dobó István",
+            "en": "Dobó Square"
+          },
+          "coords": [
+            20.3762,
+            47.9015
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen Morgenkaffee mit Blick auf die Minoritenkirche.",
+            "hu": "Tökéletes hely egy reggeli kávéhoz, kilátással a minorita templomra.",
+            "ro": "Locul perfect pentru o cafea de dimineață cu vedere la Biserica Minoriților.",
+            "en": "The perfect spot for a morning coffee with a view of the Minorite Church."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika von Eger",
+            "hu": "Egri bazilika",
+            "ro": "Bazilica din Eger",
+            "en": "Basilica of Eger"
+          },
+          "coords": [
+            20.373,
+            47.9002
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besteigen Sie die Kuppel für eine fantastische Aussicht über die Stadt.",
+            "hu": "Mássz fel a kupolába a fantasztikus városi panorámáért!",
+            "ro": "Urcați în cupolă pentru o priveliște fantastică asupra orașului.",
+            "en": "Climb the dome for a fantastic panoramic view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Lyzeum (Zauberturm)",
+            "hu": "Líceum (Varázstorony)",
+            "ro": "Liceul (Turnul Magic)",
+            "en": "Lyceum (Magic Tower)"
+          },
+          "coords": [
+            20.3738,
+            47.9011
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Camera Obscura an der Spitze, die ein Live-Panorama der Stadt projiziert.",
+            "hu": "Ne hagyd ki a tetején található Camera Obscurát, ami a város élő panorámáját vetíti ki.",
+            "ro": "Nu ratați Camera Obscura din vârf, care proiectează o panoramă live a orașului.",
+            "en": "Don't miss the Camera Obscura at the top, projecting a live panorama of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Eger",
+            "hu": "Egri vár",
+            "ro": "Cetatea Eger",
+            "en": "Castle of Eger"
+          },
+          "coords": [
+            20.3795,
+            47.9045
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die unterirdischen Kasematten, um ein Gefühl für die Belagerung zu bekommen.",
+            "hu": "Szánj időt a földalatti kazamatákra, hogy átérezd az ostrom hangulatát.",
+            "ro": "Acordați-vă timp pentru cazematele subterane pentru a simți atmosfera asediului.",
+            "en": "Take time for the underground casemates to get a real feel of the siege."
+          }
+        },
+        {
+          "name": {
+            "de": "Minarett von Eger",
+            "hu": "Egri minaret",
+            "ro": "Minaretul din Eger",
+            "en": "Eger Minaret"
+          },
+          "coords": [
+            20.3748,
+            47.9051
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist eng, aber die 360-Grad-Aussicht von der Spitze ist es wert.",
+            "hu": "Szűk a feljáró, de a 360 fokos kilátás a tetejéről megéri.",
+            "ro": "Urcușul este îngust, dar vederea de 360 de grade din vârf merită.",
+            "en": "The climb is narrow, but the 360-degree view from the top is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Türkisches Bad",
+            "hu": "Török Fürdő",
+            "ro": "Baia Turcească",
+            "en": "Turkish Bath"
+          },
+          "coords": [
+            20.3791,
+            47.8969
+          ],
+          "category": "natural features",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Das goldene Kuppelbad ist besonders stimmungsvoll. Probieren Sie das Heilwasser.",
+            "hu": "Az aranykupolás medence különösen hangulatos. Kóstold meg a gyógyvizet!",
+            "ro": "Piscina cu cupolă aurie este deosebit de atmosferică. Încercați apa medicinală.",
+            "en": "The golden dome pool is especially atmospheric. Try the medicinal water."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschiedsessen",
+            "hu": "Búcsúvacsora",
+            "ro": "Cină de rămas bun",
+            "en": "Farewell Dinner"
+          },
+          "coords": [
+            20.376,
+            47.902
+          ],
+          "category": "gastro",
+          "arrive_at": "17:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant in der Nähe des Dobó-Platzes, um den Tag ausklingen zu lassen.",
+            "hu": "Válassz egy éttermet a Dobó tér közelében, hogy lezárhasd a napot.",
+            "ro": "Alegeți un restaurant lângă Piața Dobó pentru a încheia ziua.",
+            "en": "Choose a restaurant near Dobó Square to wrap up the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Eger am Dobó-Platz. Erklimmen Sie die Stufen zur prächtigen Basilika und entdecken Sie die Geheimnisse des Lyzeums. Am Nachmittag erobern Sie die historische Burg, von der aus Sie einen Panoramablick genießen können. Steigen Sie auf das Minarett, bevor Sie sich im historischen Türkischen Bad entspannen. Beenden Sie Ihren Tag mit einem köstlichen ungarischen Abendessen.",
+        "hu": "Kezdje a napot Eger szívében, a Dobó téren! Sétáljon fel a csodálatos Bazilikához, majd fedezze fel a Líceum titkait. Délután vegye be a történelmi várat, ahonnan panorámás kilátás nyílik. Másszon fel a Minarethez, mielőtt lazítana a Török Fürdőben. Zárja a napot egy finom magyar vacsorával.",
+        "ro": "Începeți ziua în inima orașului Eger, în Piața Dobó. Urcați treptele spre magnifica Bazilică și descoperiți secretele Liceului. După-amiaza, cuceriți castelul istoric pentru vederi panoramice. Urcați în Minaret înainte de a vă relaxa la Baia Turcească istorică. Încheiați ziua cu o cină maghiară delicioasă.",
+        "en": "Start your day in the heart of Eger at Dobó Square. Climb the steps to the magnificent Basilica and discover the secrets of the Lyceum. In the afternoon, conquer the historic castle for panoramic views. Ascend the Minaret before relaxing in the historic Turkish Bath. End your day with a delicious Hungarian dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Egri Bikavér",
+            "tip": "Probieren Sie den berühmten 'Stierblut'-Rotwein in einem der vielen Weinkeller."
+          },
+          {
+            "name": "Gulaschsuppe",
+            "tip": "Ein Muss in jedem traditionellen ungarischen Restaurant (Csárda)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egri Bikavér",
+            "tip": "Kóstold meg a híres vörösbort a számos borospince egyikében."
+          },
+          {
+            "name": "Gulyásleves",
+            "tip": "Kötelező fogás minden hagyományos magyar étteremben (csárdában)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Egri Bikavér (Sânge de Taur)",
+            "tip": "Gustați faimosul vin roșu într-una dintre numeroasele crame."
+          },
+          {
+            "name": "Supă de gulaș",
+            "tip": "Un preparat obligatoriu în orice restaurant tradițional maghiar (csárda)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Egri Bikavér (Bull's Blood)",
+            "tip": "Taste the famous red wine in one of the many cellars."
+          },
+          {
+            "name": "Goulash Soup",
+            "tip": "A must-try dish at any traditional Hungarian restaurant (csárda)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Erzbischöflicher Garten",
+            "tip": "Ein ruhiger Park hinter der Basilika, ideal für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang des Eger-Bachs",
+            "tip": "Ein friedlicher Weg, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Érsekkert",
+            "tip": "Egy csendes park a Bazilika mögött, ideális egy rövid pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta az Eger-patak partján",
+            "tip": "Békés útvonal, hogy elmenekülj a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Arhiepiscopală",
+            "tip": "Un parc liniștit în spatele Bazilicii, ideal pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul pârâului Eger",
+            "tip": "O cale pașnică pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Archbishop's Garden",
+            "tip": "A quiet park behind the Basilica, perfect for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the Eger stream",
+            "tip": "A peaceful path to escape the city buzz.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Széchenyi Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen Geschäften und bekannten Marken."
+          },
+          {
+            "name": "Lokale Handwerkermärkte",
+            "tip": "Halten Sie Ausschau nach kleinen Märkten am Dobó-Platz für einzigartige Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Széchenyi utca",
+            "tip": "A fő bevásárlóutca helyi üzletek és ismert márkák keverékével."
+          },
+          {
+            "name": "Helyi kézműves vásárok",
+            "tip": "Keresd a kisebb piacokat a Dobó téren egyedi szuvenírekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Széchenyi",
+            "tip": "Principala stradă comercială cu un amestec de magazine locale și mărci cunoscute."
+          },
+          {
+            "name": "Piețe de artizanat local",
+            "tip": "Căutați piețe mici în Piața Dobó pentru suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Széchenyi Street",
+            "tip": "The main shopping street with a mix of local shops and known brands."
+          },
+          {
+            "name": "Local Craft Markets",
+            "tip": "Look out for small markets in Dobó Square for unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum Kopfsteinpflaster hat und der Weg zur Burg steil ist.",
+          "Die meisten Museen sind montags geschlossen.",
+          "Probieren Sie unbedingt einen 'Kürtőskalács' (Baumkuchen) von einem Straßenverkäufer."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel a belváros macskaköves és a várhoz vezető út meredek.",
+          "A legtöbb múzeum hétfőn zárva tart.",
+          "Feltétlenül kóstolj meg egy kürtőskalácsot egy utcai árustól."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece centrul orașului are pavele și drumul spre castel este abrupt.",
+          "Majoritatea muzeelor sunt închise lunea.",
+          "Asigurați-vă că încercați un 'Kürtőskalács' (cozonac secuiesc) de la un vânzător ambulant."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is cobblestoned and the walk to the castle is steep.",
+          "Most museums are closed on Mondays.",
+          "Be sure to try a 'Kürtőskalács' (chimney cake) from a street vendor."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Dobó-Platz",
+            "hu": "Kerékpárkölcsönzés és Dobó tér",
+            "ro": "Închiriere biciclete și Piața Dobó",
+            "en": "Bike Rental & Dobó Square"
+          },
+          "coords": [
+            20.3762,
+            47.9015
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer kurzen Fahrt über den Platz, um sich an das Fahrrad zu gewöhnen.",
+            "hu": "Kezdd egy rövid körrel a téren, hogy megszokd a biciklit.",
+            "ro": "Începeți cu o scurtă plimbare prin piață pentru a vă obișnui cu bicicleta.",
+            "en": "Start with a quick ride around the square to get used to the bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika von Eger",
+            "hu": "Egri bazilika",
+            "ro": "Bazilica din Eger",
+            "en": "Basilica of Eger"
+          },
+          "coords": [
+            20.373,
+            47.9002
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die prächtige Kathedrale betreten.",
+            "hu": "Zárd le biztonságosan a kerékpárt, mielőtt belépsz a csodálatos székesegyházba.",
+            "ro": "Legați-vă bicicleta în siguranță înainte de a intra în catedrala magnifică.",
+            "en": "Lock your bike securely before entering the magnificent cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Eger",
+            "hu": "Egri vár",
+            "ro": "Cetatea Eger",
+            "en": "Castle of Eger"
+          },
+          "coords": [
+            20.3795,
+            47.9045
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Anstieg ist eine Herausforderung, aber die Aussicht und die Geschichte sind die Belohnung.",
+            "hu": "A hegyre feltekerni kihívás, de a kilátás és a történelem a jutalom.",
+            "ro": "Urcușul este o provocare, dar priveliștea și istoria sunt recompensa.",
+            "en": "The climb is a challenge, but the views and history are the reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Minaretts",
+            "hu": "Ebéd a Minaret közelében",
+            "ro": "Prânz lângă Minaret",
+            "en": "Lunch near the Minaret"
+          },
+          "coords": [
+            20.375,
+            47.9055
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stärken Sie sich in einem lokalen Restaurant, bevor Sie die nächste Etappe in Angriff nehmen.",
+            "hu": "Erősíts meg egy helyi étteremben a következő szakasz előtt.",
+            "ro": "Refaceți-vă forțele la un restaurant local înainte de următoarea etapă.",
+            "en": "Refuel at a local restaurant before tackling the next leg of your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Tal der Schönen Frau",
+            "hu": "Szépasszony-völgy",
+            "ro": "Valea Femeii Frumoase",
+            "en": "Valley of the Beautiful Woman"
+          },
+          "coords": [
+            20.354,
+            47.892
+          ],
+          "category": "natural features",
+          "arrive_at": "14:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und gehen Sie von Keller zu Keller, um Weine zu probieren. Fahren Sie danach nicht mehr!",
+            "hu": "Parkold le a biciklit, és sétálj pincéről pincére borkóstolásra. Utána már ne ülj nyeregbe!",
+            "ro": "Parcați bicicleta și mergeți din cramă în cramă pentru a degusta vinuri. Nu mai pedalați după aceea!",
+            "en": "Park your bike and walk from cellar to cellar for wine tasting. Do not ride afterwards!"
+          }
+        },
+        {
+          "name": {
+            "de": "Erzbischöflicher Palast",
+            "hu": "Érseki Palota",
+            "ro": "Palatul Arhiepiscopal",
+            "en": "Archbishop's Palace"
+          },
+          "coords": [
+            20.3755,
+            47.9009
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Architektur und die reich verzierten Innenräume.",
+            "hu": "Csodáld meg a barokk építészetet és a gazdagon díszített belső tereket.",
+            "ro": "Admirați arhitectura barocă și interioarele bogat decorate.",
+            "en": "Admire the baroque architecture and the richly decorated interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrradrückgabe",
+            "hu": "Kerékpár leadása",
+            "ro": "Returnarea bicicletei",
+            "en": "Bike Drop-off"
+          },
+          "coords": [
+            20.3762,
+            47.9015
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour dort, wo Sie sie begonnen haben, und genießen Sie einen letzten Blick auf den Platz.",
+            "hu": "Fejezd be a túrát ott, ahol elkezdted, és vess egy utolsó pillantást a térre.",
+            "ro": "Încheiați-vă turul acolo unde l-ați început și bucurați-vă de o ultimă priveliște a pieței.",
+            "en": "End your tour where you started and enjoy one last look at the square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie am Dobó-Platz. Fahren Sie zur Basilika und nehmen Sie dann den Anstieg zur Burg in Angriff. Nach der Erkundung der Festung fahren Sie hinunter zum Minarett für ein Mittagessen. Am Nachmittag führt Sie eine längere Fahrt ins Tal der Schönen Frau für eine wohlverdiente Weinprobe. Kehren Sie ins Zentrum zurück, um den Erzbischöflichen Palast zu besichtigen, bevor Sie Ihr Fahrrad zurückgeben.",
+        "hu": "Pattanj nyeregbe, és indulj a Dobó térről! Tekerj el a Bazilikához, majd vágj neki az emelkedőnek a várhoz. A vár felfedezése után gurulj le a Minarethez ebédelni. Délután egy hosszabb út vezet a Szépasszony-völgybe egy jól megérdemelt borkóstolóra. Térj vissza a központba az Érseki Palotához, mielőtt leadnád a kerékpárt.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Dobó. Pedalați spre Bazilică, apoi abordați urcușul spre castel. După explorarea cetății, coborâți la Minaret pentru prânz. După-amiaza, o plimbare mai lungă vă duce în Valea Femeii Frumoase pentru o degustare de vinuri binemeritată. Întoarceți-vă în centru la Palatul Arhiepiscopal înainte de a returna bicicleta.",
+        "en": "Hop on your bike and start from Dobó Square. Ride to the Basilica, then tackle the climb to the castle. After exploring the fortress, coast down to the Minaret for lunch. In the afternoon, a longer ride takes you to the Valley of the Beautiful Woman for a well-deserved wine tasting. Return to the center to see the Archbishop's Palace before dropping off your bike."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lángos",
+            "tip": "Ein frittierter Teigfladen, der oft mit Käse und Sauerrahm belegt ist – perfekt für einen schnellen Bissen."
+          },
+          {
+            "name": "Egri Csillag",
+            "tip": "Der weiße Gegenpart zum Bikavér, ein leichter und frischer Wein, ideal für den Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lángos",
+            "tip": "Sajttal és tejföllel megkent sült tészta – tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Egri Csillag",
+            "tip": "A Bikavér fehér párja, egy könnyű és friss bor, ideális a délutánra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lángos",
+            "tip": "O plăcintă prăjită, adesea acoperită cu brânză și smântână - perfectă pentru o gustare rapidă."
+          },
+          {
+            "name": "Egri Csillag (Steaua din Eger)",
+            "tip": "Omologul alb al vinului Bikavér, un vin ușor și proaspăt, ideal pentru după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lángos",
+            "tip": "A deep-fried flatbread often topped with cheese and sour cream—perfect for a quick bite."
+          },
+          {
+            "name": "Egri Csillag (Star of Eger)",
+            "tip": "The white counterpart to Bikavér, a light and fresh wine ideal for the afternoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gárdonyi-Géza-Museumsgarten",
+            "tip": "Ein kleiner, friedlicher Garten am ehemaligen Wohnhaus des Schriftstellers.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht von den Burgmauern",
+            "tip": "Finden Sie eine ruhige Ecke auf den Mauern, um die Aussicht zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gárdonyi Géza Emlékmúzeum kertje",
+            "tip": "Egy kicsi, békés kert az író egykori otthonánál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a várfalakról",
+            "tip": "Keress egy csendes zugot a falakon, hogy élvezd a kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Muzeului Memorial Gárdonyi Géza",
+            "tip": "O grădină mică și liniștită la fosta casă a scriitorului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe zidurile castelului",
+            "tip": "Găsiți un colț liniștit pe ziduri pentru a vă bucura de priveliște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gárdonyi Géza Memorial Museum Garden",
+            "tip": "A small, peaceful garden at the writer's former home.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Castle Walls",
+            "tip": "Find a quiet corner on the walls to enjoy the view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinhandlungen im Tal der Schönen Frau",
+            "tip": "Kaufen Sie Flaschen direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borboltok a Szépasszony-völgyben",
+            "tip": "Vásárolj palackokat közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de vinuri din Valea Femeii Frumoase",
+            "tip": "Cumpărați sticle direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine shops in the Valley of the Beautiful Woman",
+            "tip": "Buy bottles directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Bremsen, bevor Sie den Anstieg zur Burg in Angriff nehmen.",
+          "Einige Straßen im Zentrum sind Fußgängerzonen, steigen Sie dort ab und schieben Sie.",
+          "Nehmen Sie eine Wasserflasche mit, besonders für die Fahrt ins Tal."
+        ],
+        "hu": [
+          "Ellenőrizd a fékeket, mielőtt nekivágsz a várhoz vezető emelkedőnek.",
+          "Néhány belvárosi utca sétálóutca, ott szállj le és told a biciklit.",
+          "Vigyél magaddal egy kulacs vizet, különösen a völgybe vezető útra."
+        ],
+        "ro": [
+          "Verificați frânele înainte de a aborda urcușul spre castel.",
+          "Unele străzi din centru sunt pietonale, descălecați și împingeți bicicleta acolo.",
+          "Luați o sticlă de apă, mai ales pentru drumul spre vale."
+        ],
+        "en": [
+          "Check your brakes before tackling the climb to the castle.",
+          "Some central streets are pedestrian-only; dismount and walk your bike there.",
+          "Bring a water bottle, especially for the ride to the valley."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken im Zentrum & Dobó-Platz",
+            "hu": "Parkolás a központban és Dobó tér",
+            "ro": "Parcare în centru și Piața Dobó",
+            "en": "Parking in the Center & Dobó Square"
+          },
+          "coords": [
+            20.3762,
+            47.9015
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem der Parkhäuser in der Nähe und beginnen Sie Ihren Rundgang.",
+            "hu": "Parkolj le a közeli parkolóházak egyikében, és kezdd a sétát.",
+            "ro": "Parcați într-una dintre parcările din apropiere și începeți turul pietonal.",
+            "en": "Park in a nearby garage and start your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika von Eger",
+            "hu": "Egri bazilika",
+            "ro": "Bazilica din Eger",
+            "en": "Basilica of Eger"
+          },
+          "coords": [
+            20.373,
+            47.9002
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Dobó-Platz. Bewundern Sie die monumentale Fassade.",
+            "hu": "Rövid séta a Dobó térről. Csodáld meg a monumentális homlokzatot.",
+            "ro": "O scurtă plimbare din Piața Dobó. Admirați fațada monumentală.",
+            "en": "A short walk from Dobó Square. Admire the monumental facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Lyzeum (Zauberturm)",
+            "hu": "Líceum (Varázstorony)",
+            "ro": "Liceul (Turnul Magic)",
+            "en": "Lyceum (Magic Tower)"
+          },
+          "coords": [
+            20.3738,
+            47.9011
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gegenüber der Basilika gelegen, ist dies der nächste logische Stopp in Ihrem Cluster.",
+            "hu": "A Bazilikával szemben található, ez a következő logikus megálló a sétádon.",
+            "ro": "Situat vizavi de Bazilică, aceasta este următoarea oprire logică în clusterul dumneavoastră.",
+            "en": "Located opposite the Basilica, this is the next logical stop in your cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt und Parken bei der Burg",
+            "hu": "Autóval a várhoz",
+            "ro": "Cu mașina la castel",
+            "en": "Drive and Park at the Castle"
+          },
+          "coords": [
+            20.3795,
+            47.9045
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Burgparkplatz. Planen Sie hier Ihr Mittagessen in einem der Burgrestaurants.",
+            "hu": "Vezess a vár parkolójába. Tervezd ide az ebédedet a vár éttermeinek egyikében.",
+            "ro": "Conduceți până la parcarea castelului. Planificați-vă prânzul aici, la unul dintre restaurantele castelului.",
+            "en": "Drive to the castle parking area. Plan your lunch here at one of the castle restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt ins Tal der Schönen Frau",
+            "hu": "Autóval a Szépasszony-völgybe",
+            "ro": "Cu mașina în Valea Femeii Frumoase",
+            "en": "Drive to the Valley of the Beautiful Woman"
+          },
+          "coords": [
+            20.354,
+            47.892
+          ],
+          "category": "natural features",
+          "arrive_at": "15:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und erkunden Sie die Weinkeller zu Fuß. Der Fahrer sollte nicht trinken!",
+            "hu": "Hagyd az autót a parkolóban, és fedezd fel gyalog a borospincéket. A sofőr ne igyon!",
+            "ro": "Parcați mașina și explorați cramele pe jos. Șoferul nu ar trebui să bea!",
+            "en": "Park your car and explore the wine cellars on foot. The driver should not drink!"
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Hotel/Abfahrt",
+            "hu": "Visszatérés a szállodába/Indulás",
+            "ro": "Întoarcere la hotel/plecare",
+            "en": "Return to Hotel/Departure"
+          },
+          "coords": [
+            20.3739,
+            47.9025
+          ],
+          "category": "gastro",
+          "arrive_at": "17:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einer Flasche Ihres Lieblingsweins zum Mitnehmen.",
+            "hu": "Zárd a napot egy palack kedvenc boroddal, amit hazavihetsz.",
+            "ro": "Încheiați ziua cu o sticlă de vin preferat la pachet.",
+            "en": "End your day with a bottle of your favorite wine to take away."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie im Zentrum und erkunden Sie den ersten Cluster: Dobó-Platz, Basilika und Lyzeum zu Fuß. Steigen Sie dann ins Auto und fahren Sie zum zweiten Cluster, der historischen Burg, wo Sie zu Mittag essen. Am Nachmittag bringt Sie eine kurze Fahrt zum dritten Cluster, dem Tal der Schönen Frau. Parken Sie Ihr Auto und genießen Sie eine Weinprobe in den berühmten Kellern, bevor Sie den Tag beenden.",
+        "hu": "Parkolj a központban, és fedezd fel gyalog az első látnivalócsoportot: a Dobó teret, a Bazilikát és a Líceumot. Ezután ülj autóba, és vezess a második csoporthoz, a történelmi várhoz, ahol megebédelhetsz. Délután egy rövid autóút a harmadik állomásra, a Szépasszony-völgybe visz. Tedd le az autót, és élvezd a borkóstolást a híres pincékben a nap zárásaként.",
+        "ro": "Parcați în centru și explorați pe jos primul cluster: Piața Dobó, Bazilica și Liceul. Apoi urcați-vă în mașină și conduceți spre al doilea cluster, castelul istoric, unde veți lua prânzul. După-amiaza, o scurtă călătorie cu mașina vă duce la al treilea cluster, Valea Femeii Frumoase. Parcați mașina și bucurați-vă de o degustare de vinuri în celebrele crame înainte de a încheia ziua.",
+        "en": "Park in the center and explore the first cluster: Dobó Square, the Basilica, and the Lyceum on foot. Then, get in the car and drive to the second cluster, the historic castle, where you'll have lunch. In the afternoon, a short drive takes you to the third cluster, the Valley of the Beautiful Woman. Park your car and enjoy wine tasting in the famous cellars before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Tal",
+            "tip": "Viele Keller servieren auch deftige ungarische Gerichte, die perfekt zum Wein passen."
+          },
+          {
+            "name": "Marzipanmuseum",
+            "tip": "Kein richtiges Essen, aber ein süßer Stopp mit erstaunlichen Marzipanskulpturen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a völgyben",
+            "tip": "Sok pince kiadós magyar ételeket is kínál, amelyek tökéletesen illenek a borhoz."
+          },
+          {
+            "name": "Marcipán Múzeum",
+            "tip": "Nem igazi étel, de egy édes megálló lenyűgöző marcipánszobrokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în vale",
+            "tip": "Multe crame servesc și mâncăruri consistente maghiare, perfecte cu vinul."
+          },
+          {
+            "name": "Muzeul de Marțipan",
+            "tip": "Nu este o masă propriu-zisă, dar este o oprire dulce cu sculpturi uimitoare din marțipan."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant in the Valley",
+            "tip": "Many cellars also serve hearty Hungarian dishes that pair perfectly with the wine."
+          },
+          {
+            "name": "Marzipan Museum",
+            "tip": "Not a meal, but a sweet stop with amazing marzipan sculptures."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Serbisch-Orthodoxe Kirche",
+            "tip": "Eine oft übersehene, ruhige Oase mit einer wunderschönen Ikonostase.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Picknick im Erzbischöflichen Garten",
+            "tip": "Holen Sie sich lokale Produkte und genießen Sie ein ruhiges Mittagessen im Park.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szerb Ortodox Templom",
+            "tip": "Egy gyakran figyelmen kívül hagyott, csendes oázis gyönyörű ikonosztázzal.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Piknik az Érsekkertben",
+            "tip": "Szerezz be helyi termékeket és élvezz egy csendes ebédet a parkban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Ortodoxă Sârbă",
+            "tip": "O oază de liniște adesea trecută cu vederea, cu un iconostas frumos.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Picnic în Grădina Arhiepiscopală",
+            "tip": "Luați produse locale și bucurați-vă de un prânz liniștit în parc.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Serbian Orthodox Church",
+            "tip": "An often-overlooked, quiet oasis with a beautiful iconostasis.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Picnic in the Archbishop's Garden",
+            "tip": "Grab some local produce and enjoy a quiet lunch in the park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Paprika und Salami",
+            "tip": "Kaufen Sie in der Markthalle authentische ungarische Gewürze und Wurstwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paprika és szalámi",
+            "tip": "Vásárolj a vásárcsarnokban autentikus magyar fűszereket és kolbászféléket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boia și salam",
+            "tip": "Cumpărați condimente și mezeluri autentice maghiare din piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paprika and Salami",
+            "tip": "Shop for authentic Hungarian spices and cured meats at the market hall."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkzonen und -gebühren im Stadtzentrum.",
+          "Planen Sie genügend Zeit für den Verkehr ein, besonders an Wochenenden.",
+          "Bestimmen Sie einen Fahrer, wenn Sie im Tal der Schönen Frau Wein probieren."
+        ],
+        "hu": [
+          "Figyelj a parkolási zónákra és díjakra a belvárosban.",
+          "Tervezz elegendő időt a forgalomra, különösen hétvégén.",
+          "Jelölj ki egy sofőrt, ha borkóstolásra mész a Szépasszony-völgybe."
+        ],
+        "ro": [
+          "Fiți atenți la zonele și taxele de parcare din centrul orașului.",
+          "Acordați suficient timp pentru trafic, mai ales în weekend.",
+          "Desemnați un șofer desemnat dacă degustați vin în Valea Femeii Frumoase."
+        ],
+        "en": [
+          "Be aware of parking zones and fees in the city center.",
+          "Allow extra time for traffic, especially on weekends.",
+          "Designate a driver if you plan on wine tasting in the Valley of the Beautiful Woman."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof & Dobó-Platz",
+            "hu": "Érkezés a buszpályaudvarra és Dobó tér",
+            "ro": "Sosire la autogară și Piața Dobó",
+            "en": "Arrival at Bus Station & Dobó Square"
+          },
+          "coords": [
+            20.3762,
+            47.9015
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel für unbegrenzte Fahrten.",
+            "hu": "Vásárolj napijegyet a korlátlan utazáshoz.",
+            "ro": "Cumpărați un abonament de o zi pentru transportul public pentru călătorii nelimitate.",
+            "en": "Buy a day pass for public transport for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika von Eger",
+            "hu": "Egri bazilika",
+            "ro": "Bazilica din Eger",
+            "en": "Basilica of Eger"
+          },
+          "coords": [
+            20.373,
+            47.9002
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herzstück des ersten fußläufigen Clusters Ihrer Tour.",
+            "hu": "A túrád első gyalogos szakaszának központi eleme.",
+            "ro": "Piesa centrală a primului cluster pietonal al turului dumneavoastră.",
+            "en": "The centerpiece of the first walking cluster of your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzbischöflicher Palast",
+            "hu": "Érseki Palota",
+            "ro": "Palatul Arhiepiscopal",
+            "en": "Archbishop's Palace"
+          },
+          "coords": [
+            20.3755,
+            47.9009
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf von der Basilika entfernt, ein Muss in diesem Viertel.",
+            "hu": "Csak egy kőhajításnyira a Bazilikától, kötelező látnivaló ebben a negyedben.",
+            "ro": "La o aruncătură de băț de Bazilică, o vizită obligatorie în acest cartier.",
+            "en": "Just a stone's throw from the Basilica, a must-see in this district."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zur Burg & Erkundung",
+            "hu": "Buszozás a várhoz és felfedezés",
+            "ro": "Călătorie cu autobuzul la castel și explorare",
+            "en": "Bus to the Castle & Exploration"
+          },
+          "coords": [
+            20.3795,
+            47.9045
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der Sie in die Nähe des Burgeingangs bringt, um den steilen Aufstieg zu vermeiden.",
+            "hu": "Menj busszal a vár bejáratának közelébe, hogy elkerüld a meredek emelkedőt.",
+            "ro": "Luați un autobuz până aproape de intrarea în castel pentru a evita urcușul abrupt.",
+            "en": "Take a bus close to the castle entrance to avoid the steep walk up."
+          }
+        },
+        {
+          "name": {
+            "de": "Minarett von Eger",
+            "hu": "Egri minaret",
+            "ro": "Minaretul din Eger",
+            "en": "Eger Minaret"
+          },
+          "coords": [
+            20.3748,
+            47.9051
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergab von der Burg führt Sie zu diesem osmanischen Relikt.",
+            "hu": "A várból lefelé sétálva jutsz el ehhez az oszmán kori emlékhez.",
+            "ro": "O scurtă plimbare la vale de la castel vă va duce la această relicvă otomană.",
+            "en": "A short walk downhill from the castle will take you to this Ottoman relic."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus ins Tal der Schönen Frau",
+            "hu": "Buszozás a Szépasszony-völgybe",
+            "ro": "Cu autobuzul în Valea Femeii Frumoase",
+            "en": "Bus to the Valley of the Beautiful Woman"
+          },
+          "coords": [
+            20.354,
+            47.892
+          ],
+          "category": "natural features",
+          "arrive_at": "15:05",
+          "stay_min": 160,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Es gibt spezielle Buslinien, die Touristen direkt ins Herz des Weintals bringen.",
+            "hu": "Külön buszjáratok viszik a turistákat közvetlenül a borvölgy szívébe.",
+            "ro": "Există autobuze dedicate care duc turiștii direct în inima văii vinului.",
+            "en": "There are dedicated bus services that take tourists right to the heart of the wine valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Busbahnhof, kaufen Sie eine Tageskarte und gehen Sie zum Dobó-Platz. Erkunden Sie den zentralen Cluster mit Basilika und Palast zu Fuß. Nehmen Sie dann einen Bus, um den steilen Aufstieg zur Burg zu umgehen. Nach der Erkundung der Burg und des nahegelegenen Minaretts bringt Sie ein weiterer Bus ins Tal der Schönen Frau für einen entspannten Nachmittag mit Weinprobe.",
+        "hu": "Indulj a buszpályaudvarról, vegyél egy napijegyet, és sétálj a Dobó térre. Fedezd fel gyalog a központi részt a Bazilikával és a Palotával. Ezután busszal kerüld ki a meredek emelkedőt a várhoz. A vár és a közeli Minaret felfedezése után egy másik busz elvisz a Szépasszony-völgybe egy laza, borkóstolós délutánra.",
+        "ro": "Începeți de la autogară, cumpărați un abonament de o zi și mergeți pe jos până în Piața Dobó. Explorați clusterul central cu Bazilica și Palatul pe jos. Apoi, luați un autobuz pentru a evita urcarea abruptă la castel. După ce explorați castelul și Minaretul din apropiere, un alt autobuz vă va duce în Valea Femeii Frumoase pentru o după-amiază relaxantă de degustare de vinuri.",
+        "en": "Start at the bus station, grab a day pass, and walk to Dobó Square. Explore the central cluster of the Basilica and Palace on foot. Then, take a bus to bypass the steep climb to the castle. After exploring the castle and the nearby Minaret, another bus will whisk you away to the Valley of the Beautiful Woman for a relaxed afternoon of wine tasting."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dobos Torta",
+            "tip": "Ein klassischer ungarischer Schichtkuchen, den man in den Konditoreien der Stadt findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dobos torta",
+            "tip": "Klasszikus magyar sütemény, amit a város cukrászdáiban találsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tort Doboș",
+            "tip": "Un tort clasic maghiar stratificat, găsit în cofetăriile din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dobos Torta (Dobos Cake)",
+            "tip": "A classic Hungarian layered sponge cake found in the city's confectioneries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof neben der Burg",
+            "tip": "Ein historischer und ruhiger Ort mit Blick auf die Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető a vár mellett",
+            "tip": "Történelmi és csendes hely, kilátással a városra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă castel",
+            "tip": "Un loc istoric și liniștit, cu vedere la oraș.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery next to the Castle",
+            "tip": "A historic and quiet spot overlooking the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgemachte Keramik",
+            "tip": "Suchen Sie in den Souvenirläden nach traditioneller ungarischer Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített kerámia",
+            "tip": "Keress hagyományos magyar kerámiákat a szuvenírboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică manuală",
+            "tip": "Căutați ceramică tradițională maghiară în magazinele de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Pottery",
+            "tip": "Look for traditional Hungarian pottery in the souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt aus dem Tal.",
+          "Validieren Sie Ihr Ticket bei jeder Fahrt.",
+          "Die Busse können voll werden, seien Sie also auf Stehplätze vorbereitet."
+        ],
+        "hu": [
+          "Ellenőrizd előre a buszmenetrendet, különösen az utolsó járatot a völgyből.",
+          "Érvényesítsd a jegyed minden utazáskor.",
+          "A buszok zsúfoltak lehetnek, készülj fel az állóhelyekre."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie de întoarcere din vale.",
+          "Validați biletul la fiecare călătorie.",
+          "Autobuzele pot fi aglomerate, așa că fiți pregătiți să stați în picioare."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially for the last return trip from the valley.",
+          "Validate your ticket each time you board.",
+          "Buses can get crowded, so be prepared to stand."
+        ]
+      }
+    }
+  }
+}

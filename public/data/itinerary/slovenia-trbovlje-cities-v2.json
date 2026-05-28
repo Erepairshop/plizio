@@ -1,0 +1,1380 @@
+{
+  "city_id": "slovenia-trbovlje-cities-v2",
+  "anchor": {
+    "name": "Trbovlje",
+    "coords": [
+      15.053,
+      46.155
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Arbeiterheim Trbovlje",
+            "hu": "Trbovljei Munkásotthon",
+            "ro": "Căminul Muncitoresc din Trbovlje",
+            "en": "Trbovlje Workers' Home"
+          },
+          "coords": [
+            15.054,
+            46.154
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die sozialistisch-realistische Architektur, ein wichtiges lokales Symbol.",
+            "hu": "Figyelje meg a szocialista-realista építészetet, amely egy fontos helyi szimbólum.",
+            "ro": "Observați arhitectura realist-socialistă, un simbol local important.",
+            "en": "Look for the socialist-realist architecture, an important local symbol."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenada Park",
+            "hu": "Promenada Park",
+            "ro": "Parcul Promenada",
+            "en": "Promenada Park"
+          },
+          "coords": [
+            15.056,
+            46.155
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine kurze Kaffeepause in einem der nahegelegenen Cafés.",
+            "hu": "Ideális hely egy rövid kávészünetre a közeli kávézók egyikében.",
+            "ro": "Un loc ideal pentru o scurtă pauză de cafea la una dintre cafenelele din apropiere.",
+            "en": "An ideal spot for a short coffee break at one of the nearby cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Trbovlje",
+            "hu": "Trbovljei Kultúrház",
+            "ro": "Casa de Cultură Trbovlje",
+            "en": "Trbovlje House of Culture"
+          },
+          "coords": [
+            15.052,
+            46.156
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:38",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine interessante Abendvorstellung.",
+            "hu": "Nézze meg a műsort, hátha van egy érdekes esti előadás.",
+            "ro": "Verificați programul, s-ar putea să fie un spectacol de seară interesant.",
+            "en": "Check the schedule, there might be an interesting evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sf. Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            15.048,
+            46.157
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die Mischung aus romanischen und gotischen Elementen.",
+            "hu": "Figyelje meg a román és gótikus elemek keveredését.",
+            "ro": "Observați amestecul de elemente romanice și gotice.",
+            "en": "Notice the mix of Romanesque and Gothic elements."
+          }
+        },
+        {
+          "name": {
+            "de": "Kohlenbergbaumuseum von Slowenien",
+            "hu": "Szlovén Szénbányászati Múzeum",
+            "ro": "Muzeul Mineritului de Cărbune din Slovenia",
+            "en": "Coal Mining Museum of Slovenia"
+          },
+          "coords": [
+            15.041,
+            46.159
+          ],
+          "category": "museums",
+          "arrive_at": "12:06",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die Untertage-Ausstellung ein, es ist der Höhepunkt.",
+            "hu": "Szánjon elég időt a földalatti kiállításra, ez a fénypont.",
+            "ro": "Planificați suficient timp pentru expoziția subterană, este punctul culminant.",
+            "en": "Plan enough time for the underground exhibition, it's the highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            15.053,
+            46.155
+          ],
+          "category": "gastro",
+          "arrive_at": "14:06",
+          "stay_min": 139,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie eine Gostilna für authentische slowenische Gerichte. Nach dem Museum wohlverdient.",
+            "hu": "Próbáljon ki egy gostilnát az autentikus szlovén ételekért. Megérdemli a múzeum után.",
+            "ro": "Încercați o gostilna pentru mâncăruri slovene autentice. Bine meritat după muzeu.",
+            "en": "Try a gostilna for authentic Slovenian dishes. Well-deserved after the museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Trbovlje am Arbeiterheim, einem Zeugnis der industriellen Vergangenheit. Ein Spaziergang durch den Promenada Park führt Sie zum Kulturhaus und der historischen St.-Martins-Kirche, wo Sie die lokale Atmosphäre aufsaugen können. Der Vormittag ist eine Mischung aus städtischem Leben und Geschichte. Der Höhepunkt des Tages ist das Kohlenbergbaumuseum, das einen tiefen Einblick in die Seele der Stadt bietet. Sie werden in die Welt der Bergleute eintauchen und die harte Arbeit verstehen, die diese Region geprägt hat. Beenden Sie Ihre Erkundung mit einem herzhaften Mittagessen in einer traditionellen Gostilna, wo Sie über die beeindruckenden Erlebnisse des Tages nachdenken können. Dies ist ein Tag, der dem reichen Erbe von Trbovlje gewidmet ist.",
+        "hu": "Kezdje a napot Trbovlje szívében, a Munkásotthonnál, amely az ipari múlt tanúja. Sétáljon át a Promenada Parkon a Kultúrházhoz és a történelmi Szent Márton-templomhoz, ahol magába szívhatja a helyi hangulatot. A délelőtt a városi élet és a történelem keveréke. A nap fénypontja a Szénbányászati Múzeum, amely mély betekintést nyújt a város lelkébe. Elmerül a bányászok világában, és megérti azt a kemény munkát, amely ezt a régiót formálta. Zárja a felfedezést egy kiadós ebéddel egy hagyományos gostilnában, ahol elgondolkodhat a nap lenyűgöző élményein. Ez a nap Trbovlje gazdag örökségének szenteltetett.",
+        "ro": "Începeți ziua în inima orașului Trbovlje la Căminul Muncitoresc, o mărturie a trecutului industrial. O plimbare prin Parcul Promenada vă va duce la Casa de Cultură și la istorica Biserică Sf. Martin, absorbind atmosfera locală. Dimineața este un amestec de viață urbană și istorie. Punctul culminant al zilei este Muzeul Mineritului de Cărbune, care oferă o perspectivă profundă asupra sufletului orașului. Vă veți cufunda în lumea minerilor, înțelegând munca grea care a modelat această regiune. Încheiați explorarea cu un prânz copios la o gostilna tradițională, reflectând la experiențele impresionante ale zilei. Aceasta este o zi dedicată bogatei moșteniri a orașului Trbovlje.",
+        "en": "Start your day in the heart of Trbovlje at the Workers' Home, a testament to its industrial past. A walk through Promenada Park will lead you to the House of Culture and the historic St. Martin's Church, soaking up the local atmosphere. The morning is a mix of urban life and history. The highlight of the day is the Coal Mining Museum, offering a deep dive into the city's soul. You'll immerse yourself in the world of miners, understanding the hard work that has shaped this region. Conclude your exploration with a hearty lunch at a traditional gostilna, reflecting on the day's impressive experiences. This is a day dedicated to Trbovlje's rich heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Idrijski Žlikrofi",
+            "tip": "Kleine Teigtaschen, oft mit Kartoffelfüllung, serviert mit Soße."
+          },
+          {
+            "name": "Kranjska Klobasa",
+            "tip": "Eine berühmte slowenische Wurst, die man unbedingt probieren muss."
+          },
+          {
+            "name": "Gostilna Martin",
+            "tip": "Bekannt für traditionelle Gerichte in einer gemütlichen Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Idrijski Žlikrofi",
+            "tip": "Kis tésztatáskák, gyakran burgonyatöltelékkel, mártással tálalva."
+          },
+          {
+            "name": "Kranjska Klobasa",
+            "tip": "Híres szlovén kolbász, amelyet kötelező megkóstolni."
+          },
+          {
+            "name": "Gostilna Martin",
+            "tip": "Hagyományos ételeiről ismert, hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Idrijski Žlikrofi",
+            "tip": "Găluște mici, adesea umplute cu cartofi, servite cu sos."
+          },
+          {
+            "name": "Kranjska Klobasa",
+            "tip": "Un cârnat sloven celebru, care trebuie neapărat încercat."
+          },
+          {
+            "name": "Gostilna Martin",
+            "tip": "Renumită pentru mâncărurile tradiționale într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Idrijski Žlikrofi",
+            "tip": "Small dumplings, often with a potato filling, served with sauce."
+          },
+          {
+            "name": "Kranjska Klobasa",
+            "tip": "A famous Slovenian sausage that is a must-try."
+          },
+          {
+            "name": "Gostilna Martin",
+            "tip": "Known for traditional dishes in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang des Flusses",
+            "tip": "Ein ruhiger Spaziergang entlang des kleinen Flusses, der durch die Stadt fließt, kann sehr entspannend sein.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke in der St.-Martins-Kirche",
+            "tip": "Finden Sie einen Moment der Stille im Inneren der alten Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a folyó mentén",
+            "tip": "Egy csendes séta a városon átfolyó kis folyó mentén nagyon pihentető lehet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Szent Márton-templomban",
+            "tip": "Találjon egy pillanatnyi csendet a régi templom belsejében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul râului",
+            "tip": "O plimbare liniștită de-a lungul micului râu care traversează orașul poate fi foarte relaxantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Băncile din Biserica Sf. Martin",
+            "tip": "Găsiți un moment de liniște în interiorul bisericii vechi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the river",
+            "tip": "A quiet walk along the small river that runs through the town can be very relaxing.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches at St. Martin's Church",
+            "tip": "Find a moment of silence inside the old church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten wie Honig oder handwerklichen Erzeugnissen."
+          },
+          {
+            "name": "Souvenirs aus dem Museum",
+            "tip": "Das Kohlenbergbaumuseum hat oft einzigartige, themenbezogene Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket, például mézet vagy kézműves árukat."
+          },
+          {
+            "name": "Múzeumi ajándéktárgyak",
+            "tip": "A Szénbányászati Múzeumban gyakran vannak egyedi, tematikus ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale precum miere sau obiecte de artizanat."
+          },
+          {
+            "name": "Suveniruri de la muzeu",
+            "tip": "Muzeul Mineritului are adesea suveniruri unice, tematice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local products like honey or artisan crafts."
+          },
+          {
+            "name": "Museum Souvenirs",
+            "tip": "The Coal Mining Museum often has unique, themed souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum hügelig ist.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt öffentliche Brunnen.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont dombos.",
+          "A legtöbb központi látnivaló könnyen megközelíthető gyalog.",
+          "Vigyen magával újratölthető vizes palackot; vannak nyilvános kutak.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este deluros.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Luați o sticlă de apă reutilizabilă; există fântâni publice.",
+          "Verificați în avans programul de funcționare al muzeului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is hilly.",
+          "Most central sights are within easy walking distance.",
+          "Bring a reusable water bottle; there are public fountains.",
+          "Check the museum's opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Arbeiterheim Trbovlje",
+            "hu": "Trbovljei Munkásotthon",
+            "ro": "Căminul Muncitoresc din Trbovlje",
+            "en": "Trbovlje Workers' Home"
+          },
+          "coords": [
+            15.054,
+            46.154
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt, um sich mit der Geschichte der Stadt vertraut zu machen.",
+            "hu": "Jó kiindulópont a város történelmével való ismerkedéshez.",
+            "ro": "Un bun punct de plecare pentru a vă familiariza cu istoria orașului.",
+            "en": "A good starting point to get acquainted with the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sf. Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            15.048,
+            46.157
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a templomba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în biserică.",
+            "en": "Lock your bike securely before entering the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Kohlenbergbaumuseum von Slowenien",
+            "hu": "Szlovén Szénbányászati Múzeum",
+            "ro": "Muzeul Mineritului de Cărbune din Slovenia",
+            "en": "Coal Mining Museum of Slovenia"
+          },
+          "coords": [
+            15.041,
+            46.159
+          ],
+          "category": "museums",
+          "arrive_at": "10:11",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Muss, um die industrielle Identität von Trbovlje zu verstehen.",
+            "hu": "Kötelező látnivaló Trbovlje ipari identitásának megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege identitatea industrială a orașului Trbovlje.",
+            "en": "A must-visit to understand Trbovlje's industrial identity."
+          }
+        },
+        {
+          "name": {
+            "de": "Virtuelles Museum Log",
+            "hu": "Log Virtuális Múzeum",
+            "ro": "Muzeul Virtual Log",
+            "en": "Virtual Museum Log"
+          },
+          "coords": [
+            15.025,
+            46.162
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine moderne Ergänzung zur Geschichte, die Sie mit dem Fahrrad leicht erreichen können.",
+            "hu": "A történelem modern kiegészítése, könnyen elérhető kerékpárral.",
+            "ro": "O completare modernă a istoriei, ușor de accesat cu bicicleta.",
+            "en": "A modern addition to history, easily reachable by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Schornstein von Trbovlje",
+            "hu": "Trbovljei kémény",
+            "ro": "Coșul de fum din Trbovlje",
+            "en": "Trbovlje Chimney"
+          },
+          "coords": [
+            15.065,
+            46.135
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Fahrt dorthin ist hügelig, aber die Aussicht auf den höchsten Schornstein Europas ist es wert.",
+            "hu": "Az út hegyes, de a kilátás Európa legmagasabb kéményére megéri.",
+            "ro": "Drumul până acolo este deluros, dar priveliștea celui mai înalt coș de fum din Europa merită.",
+            "en": "The ride there is hilly, but the view of Europe's tallest chimney is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen & Erholung",
+            "hu": "Késői ebéd és pihenés",
+            "ro": "Prânz târziu și relaxare",
+            "en": "Late Lunch & Rest"
+          },
+          "coords": [
+            15.053,
+            46.155
+          ],
+          "category": "gastro",
+          "arrive_at": "14:32",
+          "stay_min": 109,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Zurück im Zentrum, belohnen Sie sich mit einer lokalen Spezialität.",
+            "hu": "Visszatérve a központba, jutalmazza meg magát egy helyi specialitással.",
+            "ro": "Înapoi în centru, recompensați-vă cu o specialitate locală.",
+            "en": "Back in the center, reward yourself with a local specialty."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und beginnen Sie am Arbeiterheim, dem Symbol der Stadt. Radeln Sie durch die Straßen zur St.-Martins-Kirche und dann zum faszinierenden Kohlenbergbaumuseum, dem Herzstück des industriellen Erbes. Ihre Radtour führt Sie weiter zu einer modernen Perspektive im Virtuellen Museum Log. Am Nachmittag erwartet Sie die größte Herausforderung und Belohnung: die Fahrt zum beeindruckenden Schornstein von Trbovlje. Die Anstrengung wird mit einer unvergesslichen Aussicht belohnt. Kehren Sie ins Zentrum zurück für ein wohlverdientes spätes Mittagessen und lassen Sie die Eindrücke eines aktiven und aufschlussreichen Tages auf sich wirken.",
+        "hu": "Pattanjon kerékpárra, és induljon a város szimbólumától, a Munkásotthontól. Tekerjen végig az utcákon a Szent Márton-templomig, majd a lenyűgöző Szénbányászati Múzeumig, az ipari örökség szívéig. A kerékpártúra ezután egy modernebb perspektívát kínáló Log Virtuális Múzeumhoz vezet. Délután várja a legnagyobb kihívás és jutalom: az út a lenyűgöző trbovljei kéményhez. Az erőfeszítést felejthetetlen kilátás koronázza. Térjen vissza a központba egy jól megérdemelt késői ebédre, és hagyja, hogy leülepedjenek egy aktív és tanulságos nap benyomásai.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la Căminul Muncitoresc, simbolul orașului. Pedalați pe străzi până la Biserica Sf. Martin, apoi la fascinantul Muzeu al Mineritului, inima patrimoniului industrial. Turul cu bicicleta vă duce mai departe, la o perspectivă modernă la Muzeul Virtual Log. După-amiaza vă rezervă cea mai mare provocare și recompensă: drumul spre impunătorul Coș de fum din Trbovlje. Efortul va fi răsplătit cu o priveliște de neuitat. Întoarceți-vă în centru pentru un prânz târziu binemeritat și lăsați-vă copleșiți de impresiile unei zile active și revelatoare.",
+        "en": "Hop on your bike and start at the Workers' Home, the city's symbol. Cycle through the streets to St. Martin's Church and then to the fascinating Coal Mining Museum, the heart of the industrial heritage. Your bike tour takes you further to a modern perspective at the Virtual Museum Log. In the afternoon, the biggest challenge and reward awaits: the ride to the impressive Trbovlje Chimney. The effort is rewarded with an unforgettable view. Return to the center for a well-deserved late lunch and let the impressions of an active and insightful day sink in."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Prekmurska Gibanica",
+            "tip": "Ein energiereicher Schichtkuchen, perfekt nach einer langen Radtour."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Gekochte oder gebackene Teigrollen mit verschiedenen Füllungen."
+          },
+          {
+            "name": "Pivnica Klet",
+            "tip": "Guter Ort für ein kaltes Bier und einen herzhaften Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prekmurska Gibanica",
+            "tip": "Energiadús réteges sütemény, tökéletes egy hosszú kerékpártúra után."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Főtt vagy sült tésztatekercsek, különféle töltelékekkel."
+          },
+          {
+            "name": "Pivnica Klet",
+            "tip": "Jó hely egy hideg sörre és egy kiadós harapnivalóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prekmurska Gibanica",
+            "tip": "O prăjitură stratificată plină de energie, perfectă după un tur lung cu bicicleta."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Rulouri de aluat fierte sau coapte cu diverse umpluturi."
+          },
+          {
+            "name": "Pivnica Klet",
+            "tip": "Un loc bun pentru o bere rece și o gustare consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Prekmurska Gibanica",
+            "tip": "An energy-rich layered cake, perfect after a long bike ride."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Boiled or baked dough rolls with various fillings."
+          },
+          {
+            "name": "Pivnica Klet",
+            "tip": "Good place for a cold beer and a hearty snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt in der Nähe des Schornsteins",
+            "tip": "Finden Sie einen ruhigen Ort, um die Größe des Bauwerks auf sich wirken zu lassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Radweg am Fluss",
+            "tip": "Folgen Sie dem Fluss für eine entspannte Fahrt abseits der Hauptstraßen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a kémény közelében",
+            "tip": "Keressen egy csendes helyet, hogy befogadja az építmény nagyságát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Folyóparti kerékpárút",
+            "tip": "Kövesse a folyót egy pihentető tekerésért a főutaktól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere lângă coșul de fum",
+            "tip": "Găsiți un loc liniștit pentru a admira măreția structurii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista de biciclete de pe malul râului",
+            "tip": "Urmați râul pentru o plimbare relaxantă, departe de drumurile principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint near the Chimney",
+            "tip": "Find a quiet spot to take in the sheer scale of the structure.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "River bike path",
+            "tip": "Follow the river for a relaxed ride away from the main roads.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für alle notwendigen Reparaturen oder Zubehörteile."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Kaufen Sie energiereiche Snacks für Ihre Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Minden szükséges javításhoz vagy kiegészítőhöz."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vásároljon energiadús harapnivalókat a túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru orice reparații sau accesorii necesare."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Cumpărați gustări bogate în energie pentru turul dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop",
+            "tip": "For any necessary repairs or accessories."
+          },
+          {
+            "name": "Local delicacies",
+            "tip": "Buy some energy-rich snacks for your tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Trbovlje ist hügelig; ein E-Bike könnte eine gute Option sein.",
+          "Tragen Sie einen Helm und seien Sie im Stadtverkehr vorsichtig.",
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen.",
+          "Nehmen Sie ausreichend Wasser und Snacks mit, besonders für die Fahrt zum Schornstein."
+        ],
+        "hu": [
+          "Trbovlje dombos; egy e-bike jó választás lehet.",
+          "Viseljen sisakot, és legyen óvatos a városi forgalomban.",
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket.",
+          "Vigyen magával elegendő vizet és harapnivalót, különösen a kéményhez vezető útra."
+        ],
+        "ro": [
+          "Trbovlje este deluros; o bicicletă electrică ar putea fi o opțiune bună.",
+          "Purtați cască și fiți prudenți în traficul urban.",
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele.",
+          "Luați suficientă apă și gustări, mai ales pentru drumul spre coșul de fum."
+        ],
+        "en": [
+          "Trbovlje is hilly; an e-bike could be a good option.",
+          "Wear a helmet and be cautious in city traffic.",
+          "Check your bike before you leave, especially the brakes.",
+          "Bring enough water and snacks, especially for the ride to the chimney."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:28",
+      "total_km": 30.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Parken im Stadtzentrum",
+            "hu": "1. klaszter: Parkolás a városközpontban",
+            "ro": "Cluster 1: Parcare în centrul orașului",
+            "en": "Cluster 1: Park in the City Center"
+          },
+          "coords": [
+            15.055,
+            46.155
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen zentralen Parkplatz, von dem aus Sie die erste Gruppe von Sehenswürdigkeiten zu Fuß erkunden können.",
+            "hu": "Keressen egy központi parkolót, ahonnan gyalog fedezheti fel az első látnivalócsoportot.",
+            "ro": "Găsiți o parcare centrală de unde puteți explora primul grup de atracții pe jos.",
+            "en": "Find a central parking spot from which you can explore the first group of sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sf. Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            15.048,
+            46.157
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus, um den Tag mit etwas Geschichte zu beginnen.",
+            "hu": "Egy rövid séta a parkolótól, hogy egy kis történelemmel kezdje a napot.",
+            "ro": "O scurtă plimbare de la parcare pentru a începe ziua cu puțină istorie.",
+            "en": "A short walk from the parking lot to start the day with some history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kohlenbergbaumuseum von Slowenien",
+            "hu": "Szlovén Szénbányászati Múzeum",
+            "ro": "Muzeul Mineritului de Cărbune din Slovenia",
+            "en": "Coal Mining Museum of Slovenia"
+          },
+          "coords": [
+            15.041,
+            46.159
+          ],
+          "category": "museums",
+          "arrive_at": "10:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hauptanziehungspunkt des Tages. Planen Sie mindestens zwei Stunden ein.",
+            "hu": "A nap fő látványossága. Szánjon rá legalább két órát.",
+            "ro": "Atracția principală a zilei. Planificați cel puțin două ore.",
+            "en": "The main attraction of the day. Plan for at least two hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Stadt",
+            "hu": "Ebéd a városban",
+            "ro": "Prânz în oraș",
+            "en": "Lunch in town"
+          },
+          "coords": [
+            15.053,
+            46.155
+          ],
+          "category": "gastro",
+          "arrive_at": "12:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zurück zum Auto gehen und in der Nähe eine Gostilna für das Mittagessen finden.",
+            "hu": "Sétáljon vissza az autóhoz, és keressen egy közeli gostilnát ebédre.",
+            "ro": "Întoarceți-vă la mașină și găsiți o gostilna în apropiere pentru prânz.",
+            "en": "Walk back towards the car and find a gostilna nearby for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Schornstein von Trbovlje",
+            "hu": "2. klaszter: Trbovljei kémény",
+            "ro": "Cluster 2: Coșul de fum din Trbovlje",
+            "en": "Cluster 2: Trbovlje Chimney"
+          },
+          "coords": [
+            15.065,
+            46.135
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Aussichtspunkt für diesen technischen Giganten. Parken Sie und genießen Sie die Aussicht.",
+            "hu": "Vezessen el ennek a mérnöki óriásnak a kilátópontjához. Parkoljon le és élvezze a kilátást.",
+            "ro": "Conduceți până la punctul de belvedere pentru acest gigant ingineresc. Parcați și bucurați-vă de priveliște.",
+            "en": "Drive to the viewpoint for this engineering giant. Park and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Berg Kum",
+            "hu": "3. klaszter: Kum-hegy",
+            "ro": "Cluster 3: Muntele Kum",
+            "en": "Cluster 3: Mount Kum"
+          },
+          "coords": [
+            15.105,
+            46.11
+          ],
+          "category": "natural features",
+          "arrive_at": "15:38",
+          "stay_min": 120,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 25.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die 'Triglav von Zasavje'. Eine längere Fahrt, aber die Panoramaaussicht ist die Belohnung für den Tag.",
+            "hu": "A 'Zasavjei Triglav'. Hosszabb út, de a panorámás kilátás a nap jutalma.",
+            "ro": "'Triglavul din Zasavje'. Un drum mai lung, dar priveliștea panoramică este recompensa zilei.",
+            "en": "The 'Triglav of Zasavje'. A longer drive, but the panoramic views are the day's reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen mit Aussicht",
+            "hu": "Vacsora kilátással",
+            "ro": "Cină cu priveliște",
+            "en": "Dinner with a View"
+          },
+          "coords": [
+            15.104,
+            46.111
+          ],
+          "category": "gastro",
+          "arrive_at": "17:48",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Oben auf dem Kum gibt es eine Hütte, die einfache, aber köstliche Mahlzeiten anbietet. Der perfekte Abschluss.",
+            "hu": "A Kum tetején van egy menedékház, amely egyszerű, de finom ételeket kínál. Tökéletes befejezés.",
+            "ro": "Există o cabană în vârful muntelui Kum care servește mese simple, dar delicioase. Finalul perfect.",
+            "en": "There's a lodge on top of Kum that serves simple but delicious meals. The perfect ending."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Zentrum von Trbovlje. Parken Sie und erkunden Sie zu Fuß die St.-Martins-Kirche und das beeindruckende Kohlenbergbaumuseum. Dies ist Ihr Eintauchen in die lokale Kultur. Nach einem stärkenden Mittagessen im Zentrum steigen Sie wieder ins Auto. Die erste Fahrt führt Sie zum Schornstein von Trbovlje, einem Symbol der industriellen Stärke. Bewundern Sie seine Größe, bevor Sie die Hauptreise des Tages antreten. Die Nachmittagsfahrt bringt Sie auf den Berg Kum, den lokalen Riesen. Die kurvenreiche Straße wird mit einer atemberaubenden 360-Grad-Aussicht über Slowenien belohnt. Ein kurzer Spaziergang auf dem Gipfel und ein Abendessen in der Berghütte runden ein Abenteuer ab, das städtisches Erbe mit alpiner Schönheit verbindet.",
+        "hu": "Autós napja Trbovlje központjában kezdődik. Parkoljon le, és gyalog fedezze fel a Szent Márton-templomot és a lenyűgöző Szénbányászati Múzeumot. Ez a merülés a helyi kultúrába. Egy kiadós belvárosi ebéd után szálljon vissza az autóba. Az első út a trbovljei kéményhez vezet, az ipari erő szimbólumához. Csodálja meg méretét, mielőtt elindulna a nap fő útjára. A délutáni autózás a Kum-hegyre, a helyi óriásra viszi. A kanyargós út jutalma egy lélegzetelállító 360 fokos panoráma Szlovéniára. Egy rövid séta a csúcson és egy vacsora a hegyi menedékházban teszi teljessé a kalandot, amely ötvözi a városi örökséget az alpesi szépséggel.",
+        "ro": "Ziua cu mașina începe în centrul orașului Trbovlje. Parcați și explorați pe jos Biserica Sf. Martin și impresionantul Muzeu al Mineritului. Aceasta este imersiunea dumneavoastră în cultura locală. După un prânz consistent în centru, urcați-vă din nou în mașină. Prima călătorie vă duce la Coșul de fum din Trbovlje, un simbol al puterii industriale. Admirați-i scara înainte de a porni în călătoria principală a zilei. Drumul de după-amiază vă duce pe Muntele Kum, gigantul local. Drumul șerpuit este răsplătit cu o vedere panoramică uluitoare de 360 de grade asupra Sloveniei. O scurtă plimbare pe vârf și cina la cabana montană completează o aventură care combină moștenirea urbană cu frumusețea alpină.",
+        "en": "Your car day starts in the center of Trbovlje. Park up and explore St. Martin's Church and the impressive Coal Mining Museum on foot. This is your immersion into the local culture. After a hearty lunch back in the center, get back in the car. The first drive takes you to the Trbovlje Chimney, a symbol of industrial might. Admire its scale before embarking on the day's main journey. The afternoon drive takes you up Mount Kum, the local giant. The winding road is rewarded with a breathtaking 360-degree panoramic view over Slovenia. A short walk on the summit and dinner at the mountain lodge completes an adventure blending urban heritage with alpine beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bograč",
+            "tip": "Ein herzhafter Gulasch-ähnlicher Eintopf, perfekt für einen kühlen Tag auf dem Berg."
+          },
+          {
+            "name": "Hausgemachter Apfelstrudel",
+            "tip": "In den Berghütten oft frisch zubereitet."
+          },
+          {
+            "name": "Planinski Dom na Kumu",
+            "tip": "Die Hütte auf dem Kum, die authentische Bergküche serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bograč",
+            "tip": "Kiadós, gulyásszerű egytálétel, tökéletes egy hűvös napra a hegyen."
+          },
+          {
+            "name": "Házi almásrétes",
+            "tip": "Gyakran frissen készítik a hegyi menedékházakban."
+          },
+          {
+            "name": "Planinski Dom na Kumu",
+            "tip": "A Kumi menedékház, amely autentikus hegyi ételeket szolgál fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bograč",
+            "tip": "O tocană consistentă, asemănătoare gulașului, perfectă pentru o zi răcoroasă pe munte."
+          },
+          {
+            "name": "Ștrudel de mere de casă",
+            "tip": "Adesea proaspăt preparat în cabanele montane."
+          },
+          {
+            "name": "Planinski Dom na Kumu",
+            "tip": "Cabana de pe muntele Kum, care servește mâncăruri montane autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bograč",
+            "tip": "A hearty goulash-like stew, perfect for a cool day on the mountain."
+          },
+          {
+            "name": "Homemade Apple Strudel",
+            "tip": "Often freshly made in the mountain lodges."
+          },
+          {
+            "name": "Planinski Dom na Kumu",
+            "tip": "The lodge on Mount Kum, serving authentic mountain fare."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Kum",
+            "tip": "Abseits der Hütte finden Sie absolute Stille und eine endlose Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wälder rund um den Kum",
+            "tip": "Machen Sie einen kurzen Spaziergang in den Wald für ein Gefühl der Abgeschiedenheit.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Kum csúcsa",
+            "tip": "A menedékháztól távolabb abszolút csendet és végtelen kilátást talál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Erdők a Kum körül",
+            "tip": "Tegyen egy rövid sétát az erdőbe az elszigeteltség érzéséért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful muntelui Kum",
+            "tip": "Departe de cabană, veți găsi liniște absolută și o priveliște nesfârșită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pădurile din jurul muntelui Kum",
+            "tip": "Faceți o scurtă plimbare în pădure pentru un sentiment de izolare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Kum",
+            "tip": "Away from the lodge, you'll find absolute silence and an endless view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Forests around Kum",
+            "tip": "Take a short walk into the woods for a sense of seclusion.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Die Region Zasavje ist für ihren Qualitätshonig bekannt."
+          },
+          {
+            "name": "Handgeschnitzte Holzarbeiten",
+            "tip": "Halten Sie Ausschau nach kleinen Handwerksläden in den Dörfern auf dem Weg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A Zasavje régió híres a minőségi mézéről."
+          },
+          {
+            "name": "Kézzel faragott fa tárgyak",
+            "tip": "Keresse a kis kézműves boltokat az útközbeni falvakban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Regiunea Zasavje este cunoscută pentru mierea sa de calitate."
+          },
+          {
+            "name": "Obiecte din lemn sculptate manual",
+            "tip": "Căutați mici magazine de artizanat în satele de pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "The Zasavje region is known for its quality honey."
+          },
+          {
+            "name": "Hand-carved wooden items",
+            "tip": "Look for small craft shops in the villages along the way."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tanken Sie voll, bevor Sie sich auf den Weg zum Berg Kum machen.",
+          "Die Straßen in den Bergen können eng sein, fahren Sie vorsichtig.",
+          "Überprüfen Sie das Wetter, bevor Sie auf den Kum fahren; die Bedingungen können sich schnell ändern.",
+          "Haben Sie Kleingeld für das Parken im Stadtzentrum dabei."
+        ],
+        "hu": [
+          "Tankoljon tele, mielőtt elindul a Kum-hegyre.",
+          "A hegyi utak szűkek lehetnek, vezessen óvatosan.",
+          "Ellenőrizze az időjárást, mielőtt felmegy a Kumra; a körülmények gyorsan változhatnak.",
+          "Legyen Önnél aprópénz a belvárosi parkoláshoz."
+        ],
+        "ro": [
+          "Faceți plinul înainte de a porni spre Muntele Kum.",
+          "Drumurile de munte pot fi înguste, conduceți cu prudență.",
+          "Verificați vremea înainte de a urca pe Kum; condițiile se pot schimba rapid.",
+          "Aveți la dumneavoastră monede pentru parcarea în centrul orașului."
+        ],
+        "en": [
+          "Fill up your gas tank before heading to Mount Kum.",
+          "The mountain roads can be narrow, drive carefully.",
+          "Check the weather before driving up Kum; conditions can change quickly.",
+          "Have some change ready for parking in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 6.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft am Busbahnhof",
+            "hu": "1. klaszter: Érkezés a buszpályaudvarra",
+            "ro": "Cluster 1: Sosire la autogară",
+            "en": "Cluster 1: Arrive at the Bus Station"
+          },
+          "coords": [
+            15.056,
+            46.152
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier und machen Sie sich bereit, das Stadtzentrum zu Fuß zu erkunden.",
+            "hu": "Kezdje a napot itt, és készüljön fel a városközpont gyalogos felfedezésére.",
+            "ro": "Începeți ziua aici și pregătiți-vă să explorați centrul orașului pe jos.",
+            "en": "Start your day here and get ready to explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Arbeiterheim Trbovlje",
+            "hu": "Trbovljei Munkásotthon",
+            "ro": "Căminul Muncitoresc din Trbovlje",
+            "en": "Trbovlje Workers' Home"
+          },
+          "coords": [
+            15.054,
+            46.154
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof zu diesem wichtigen Wahrzeichen.",
+            "hu": "Rövid séta a buszpályaudvartól ehhez a fontos nevezetességhez.",
+            "ro": "O scurtă plimbare de la autogară până la acest important punct de reper.",
+            "en": "A short walk from the bus station to this important landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sf. Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            15.048,
+            46.157
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie weiter durch das Zentrum zu diesem historischen Ort.",
+            "hu": "Sétáljon tovább a központon keresztül ehhez a történelmi helyszínhez.",
+            "ro": "Continuați plimbarea prin centru până la acest sit istoric.",
+            "en": "Continue walking through the center to this historical site."
+          }
+        },
+        {
+          "name": {
+            "de": "Kohlenbergbaumuseum von Slowenien",
+            "hu": "Szlovén Szénbányászati Múzeum",
+            "ro": "Muzeul Mineritului de Cărbune din Slovenia",
+            "en": "Coal Mining Museum of Slovenia"
+          },
+          "coords": [
+            15.041,
+            46.159
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr Hauptziel für den Vormittag, ein tiefes Eintauchen in die lokale Geschichte.",
+            "hu": "A délelőtt fő célpontja, mély merülés a helyi történelembe.",
+            "ro": "Destinația principală pentru dimineață, o scufundare profundă în istoria locală.",
+            "en": "Your main destination for the morning, a deep dive into local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Busfahrt zum Schornstein",
+            "hu": "2. klaszter: Buszozás a kéményhez",
+            "ro": "Cluster 2: Călătorie cu autobuzul la coșul de fum",
+            "en": "Cluster 2: Bus to the Chimney"
+          },
+          "coords": [
+            15.065,
+            46.135
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus in Richtung Kraftwerk. Steigen Sie so nah wie möglich aus.",
+            "hu": "Menjen egy helyi busszal az erőmű felé. Szálljon le a lehető legközelebb.",
+            "ro": "Luați un autobuz local spre centrala electrică. Coborâți cât mai aproape posibil.",
+            "en": "Take a local bus towards the power plant. Get off as close as you can."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen im Zentrum",
+            "hu": "Késői ebéd a központban",
+            "ro": "Prânz târziu în centru",
+            "en": "Late lunch in the center"
+          },
+          "coords": [
+            15.053,
+            46.155
+          ],
+          "category": "gastro",
+          "arrive_at": "14:25",
+          "stay_min": 115,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ins Zentrum und gönnen Sie sich eine wohlverdiente Mahlzeit.",
+            "hu": "Buszozzon vissza a központba egy jól megérdemelt étkezésre.",
+            "ro": "Întoarceți-vă în centru cu autobuzul pentru o masă binemeritată.",
+            "en": "Take the bus back to the center for a well-deserved meal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt am zentralen Busbahnhof von Trbovlje. Von hier aus ist es nur ein kurzer Spaziergang zu den ersten Sehenswürdigkeiten: dem Arbeiterheim und der St.-Martins-Kirche. Der Vormittag ist dem Kohlenbergbaumuseum gewidmet, einem tiefen Einblick in die Seele der Stadt. Nach dem Museum nehmen Sie einen lokalen Bus zum Wahrzeichen der Region, dem hoch aufragenden Schornstein von Trbovlje. Dies ist Ihr Ausflug außerhalb des Zentrums, der Ihnen eine andere Perspektive auf die Industrielandschaft bietet. Fahren Sie mit dem Bus zurück ins Zentrum für ein spätes, entspanntes Mittagessen. Dieser Plan kombiniert bequeme Spaziergänge mit der Effizienz des lokalen Nahverkehrs.",
+        "hu": "Tömegközlekedéssel töltött napja a trbovljei központi buszpályaudvaron kezdődik. Innen rövid sétával elérhetők az első látnivalók: a Munkásotthon és a Szent Márton-templom. A délelőttöt a Szénbányászati Múzeumnak szenteljük, amely mély betekintést nyújt a város lelkébe. A múzeum után helyi busszal utazik a régió nevezetességéhez, a magasba törő trbovljei kéményhez. Ez a központon kívüli kirándulás más perspektívát kínál az ipari tájra. Térjen vissza busszal a központba egy késői, pihentető ebédre. Ez a terv ötvözi a kényelmes sétákat a helyi tömegközlekedés hatékonyságával.",
+        "ro": "Ziua dumneavoastră cu transportul public începe la autogara centrală din Trbovlje. De aici, este o scurtă plimbare până la primele atracții: Căminul Muncitoresc și Biserica Sf. Martin. Dimineața este dedicată Muzeului Mineritului, o incursiune profundă în sufletul orașului. După muzeu, veți lua un autobuz local spre emblema regiunii, impunătorul Coș de fum din Trbovlje. Aceasta este excursia dumneavoastră în afara centrului, oferind o perspectivă diferită asupra peisajului industrial. Întoarceți-vă cu autobuzul în centru pentru un prânz târziu și relaxant. Acest plan combină plimbările convenabile cu eficiența transportului public local.",
+        "en": "Your day on public transport begins at Trbovlje's central bus station. From here, it's a short walk to the first sights: the Workers' Home and St. Martin's Church. The morning is dedicated to the Coal Mining Museum, a deep dive into the city's soul. After the museum, you'll take a local bus to the region's landmark, the towering Trbovlje Chimney. This is your excursion outside the center, offering a different perspective on the industrial landscape. Return to the center by bus for a late, relaxing lunch. This plan combines convenient walking with the efficiency of local transit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kranjska Klobasa mit Brot",
+            "tip": "Ein schneller, sättigender und authentischer Snack."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein slowenisches Bier wie Laško oder Union."
+          },
+          {
+            "name": "Gostilna RaMar",
+            "tip": "Bietet gute Tagesmenüs zu vernünftigen Preisen an, ideal für Reisende."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kranjska Klobasa kenyérrel",
+            "tip": "Gyors, laktató és autentikus harapnivaló."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy szlovén sört, mint a Laško vagy az Union."
+          },
+          {
+            "name": "Gostilna RaMar",
+            "tip": "Jó napi menüket kínál elfogadható áron, ideális utazóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kranjska Klobasa cu pâine",
+            "tip": "O gustare rapidă, sățioasă și autentică."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Încercați o bere slovenă precum Laško sau Union."
+          },
+          {
+            "name": "Gostilna RaMar",
+            "tip": "Oferă meniuri bune ale zilei la prețuri rezonabile, ideale pentru călători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kranjska Klobasa with bread",
+            "tip": "A quick, filling, and authentic snack."
+          },
+          {
+            "name": "Local beer",
+            "tip": "Try a Slovenian beer like Laško or Union."
+          },
+          {
+            "name": "Gostilna RaMar",
+            "tip": "Offers good daily menus at reasonable prices, ideal for travelers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Die Fahrt aus der Stadt heraus bietet unerwartet ruhige Ausblicke auf die umliegenden Hügel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Promenada Park",
+            "tip": "Nach dem Museumsbesuch ist der Park ein guter Ort, um sich auszuruhen, bevor man weiterfährt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "A városból kifelé vezető út váratlanul csendes kilátást nyújt a környező dombokra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Promenada Park",
+            "tip": "A múzeumlátogatás után a park jó hely a pihenésre, mielőtt továbbindulna.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliștea de la fereastra autobuzului",
+            "tip": "Călătoria în afara orașului oferă priveliști neașteptat de liniștite ale dealurilor din jur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Promenada",
+            "tip": "După vizita la muzeu, parcul este un loc bun pentru a vă odihni înainte de a merge mai departe.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the bus window",
+            "tip": "The ride out of town offers unexpectedly quiet views of the surrounding hills.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Promenada Park",
+            "tip": "After the museum visit, the park is a good place to rest before moving on.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie hier Fahrkarten, Getränke und kleine Snacks."
+          },
+          {
+            "name": "Bäckerei im Zentrum",
+            "tip": "Holen Sie sich frisches Gebäck für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon itt jegyeket, italokat és apró harapnivalókat."
+          },
+          {
+            "name": "Pékség a központban",
+            "tip": "Szerezzen be friss péksüteményt útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați bilete, băuturi și mici gustări de aici."
+          },
+          {
+            "name": "Brutărie în centru",
+            "tip": "Luați produse de patiserie proaspete pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy tickets, drinks, and small snacks here."
+          },
+          {
+            "name": "Bakery in the center",
+            "tip": "Get some fresh pastries for the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besorgen Sie sich am besten eine Tageskarte für den Bus.",
+          "Informieren Sie sich im Voraus über die Busfahrpläne, da die Frequenz variieren kann.",
+          "Behalten Sie die Zeit im Auge, um den letzten Bus zurück nicht zu verpassen.",
+          "Laden Sie Offline-Karten herunter, um sich zurechtzufinden."
+        ],
+        "hu": [
+          "A legjobb, ha napijegyet vesz a buszra.",
+          "Előre tájékozódjon a buszmenetrendekről, mivel a járatok sűrűsége változhat.",
+          "Tartsa szemmel az időt, hogy ne késsen le az utolsó visszaútról.",
+          "Töltsön le offline térképeket a tájékozódáshoz."
+        ],
+        "ro": [
+          "Cel mai bine este să cumpărați un bilet de o zi pentru autobuz.",
+          "Verificați în avans orarele autobuzelor, deoarece frecvența poate varia.",
+          "Fiți atenți la timp pentru a nu pierde ultimul autobuz de întoarcere.",
+          "Descărcați hărți offline pentru a vă orienta."
+        ],
+        "en": [
+          "It's best to get a day pass for the bus.",
+          "Check the bus schedules in advance, as frequency can vary.",
+          "Keep an eye on the time so you don't miss the last bus back.",
+          "Download offline maps to help you navigate."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,952 @@
+{
+  "city_id": "austria-lustenau-cities-v2",
+  "anchor": {
+    "name": "Lustenau",
+    "coords": [
+      9.6589,
+      47.4267
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirchplatz",
+            "hu": "Templom tér",
+            "ro": "Piața Bisericii",
+            "en": "Church Square"
+          },
+          "coords": [
+            9.658,
+            47.4265
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Indítsa a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the cafés on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Peter und Paul",
+            "hu": "Szt. Péter és Pál plébániatemplom",
+            "ro": "Biserica parohială Sf. Petru și Paul",
+            "en": "Parish Church of St. Peter and Paul"
+          },
+          "coords": [
+            9.6575,
+            47.427
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende neoklassizistische Architektur und die imposante Kuppel.",
+            "hu": "Csodálja meg a lenyűgöző neoklasszicista építészetet és az impozáns kupolát!",
+            "ro": "Admirați arhitectura neoclasică impresionantă și cupola impunătoare.",
+            "en": "Admire the impressive neoclassical architecture and the imposing dome."
+          }
+        },
+        {
+          "name": {
+            "de": "Stickereimuseum",
+            "hu": "Hímzőmúzeum",
+            "ro": "Muzeul Broderiei",
+            "en": "Embroidery Museum"
+          },
+          "coords": [
+            9.661,
+            47.428
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die alten Stickmaschinen in Aktion zu sehen.",
+            "hu": "Vegyen részt egy tárlatvezetésen, hogy működés közben lássa a régi hímzőgépeket!",
+            "ro": "Participați la un tur ghidat pentru a vedea vechile mașini de brodat în acțiune.",
+            "en": "Join a guided tour to see the old embroidery machines in action."
+          }
+        },
+        {
+          "name": {
+            "de": "Blaues Haus",
+            "hu": "Kék Ház",
+            "ro": "Casa Albastră",
+            "en": "Blue House"
+          },
+          "coords": [
+            9.6595,
+            47.4255
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein perfekter Fotospot, besonders im Kontrast zur traditionellen Architektur.",
+            "hu": "Tökéletes fotóhelyszín, különösen a hagyományos építészettel kontrasztban.",
+            "ro": "Un loc perfect pentru fotografii, mai ales în contrast cu arhitectura tradițională.",
+            "en": "A perfect photo spot, especially contrasting with traditional architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Millennium Park",
+            "hu": "Millennium Park",
+            "ro": "Parcul Millennium",
+            "en": "Millennium Park"
+          },
+          "coords": [
+            9.665,
+            47.421
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 140,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal für eine entspannte Pause nach dem Mittagessen oder eine Runde Minigolf.",
+            "hu": "Ideális egy pihentető ebédszünethez vagy egy minigolf partihoz.",
+            "ro": "Ideal pentru o pauză relaxantă după prânz sau o rundă de minigolf.",
+            "en": "Ideal for a relaxing break after lunch or a round of mini-golf."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Lustenau beginnt am belebten Kirchplatz. Von dort führt der Weg zur majestätischen Pfarrkirche, einem Meisterwerk der Baukunst. Am Mittag tauchen Sie in die Geschichte der Stickerei ein, die den Ort reich gemacht hat. Nachmittags kontrastiert das moderne Blaue Haus mit der Tradition, bevor der Tag im grünen Millennium Park entspannt ausklingt. Ein Tag voller Kultur und Erholung im Herzen Vorarlbergs.",
+        "hu": "A lustenaui séta a nyüzsgő Templom téren kezdődik. Innen az út a fenséges plébániatemplomhoz vezet, az építészet remekművéhez. Délben elmerülhet a hímzés történelmében, amely gazdaggá tette a várost. Délután a modern Kék Ház kontrasztot alkot a hagyományokkal, mielőtt a nap a zöld Millennium Parkban ér véget. Egy kultúrával és pihenéssel teli nap Vorarlberg szívében.",
+        "ro": "O plimbare prin Lustenau începe în animata Piață a Bisericii. De acolo, drumul duce la majestuoasa biserică parohială, o capodoperă a arhitecturii. La prânz, vă veți cufunda în istoria broderiei care a îmbogățit orașul. După-amiaza, moderna Casă Albastră contrastează cu tradiția, înainte ca ziua să se încheie relaxant în verdele Parc Millennium. O zi plină de cultură și relaxare în inima Vorarlbergului.",
+        "en": "A walk through Lustenau begins at the lively Church Square. From there, the path leads to the majestic parish church, a masterpiece of architecture. At midday, you'll delve into the history of embroidery that made the town rich. In the afternoon, the modern Blue House contrasts with tradition before the day ends relaxingly in the green Millennium Park. A day full of culture and recreation in the heart of Vorarlberg."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Käsknöpfle",
+            "tip": "Eine herzhafte Vorarlberger Spezialität, oft mit Apfelmus serviert. Probieren Sie sie im Gasthof Meindl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Käsknöpfle",
+            "tip": "Egy kiadós vorarlbergi specialitás, gyakran almaszósszal tálalva. Kóstolja meg a Gasthof Meindlben!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Käsknöpfle",
+            "tip": "O specialitate consistentă din Vorarlberg, adesea servită cu sos de mere. Încercați-o la Gasthof Meindl."
+          }
+        ],
+        "en": [
+          {
+            "name": "Käsknöpfle",
+            "tip": "A hearty Vorarlberg specialty, often served with apple sauce. Try it at Gasthof Meindl."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alter Rhein",
+            "tip": "Ein Spaziergang entlang des Alten Rheins bietet Ruhe und schöne Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alter Rhein",
+            "tip": "Egy séta a Régi-Rajna mentén nyugalmat és gyönyörű természetet kínál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rinul Vechi",
+            "tip": "O plimbare de-a lungul Rinului Vechi oferă liniște și o natură frumoasă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Rhine",
+            "tip": "A walk along the Old Rhine offers tranquility and beautiful nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lustenauer Stickerei",
+            "tip": "Kaufen Sie einzigartige bestickte Textilien als authentisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lustenaui hímzés",
+            "tip": "Vásároljon egyedi hímzett textíliákat autentikus szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Broderie din Lustenau",
+            "tip": "Cumpărați textile brodate unice ca un suvenir autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lustenau Embroidery",
+            "tip": "Buy unique embroidered textiles as an authentic souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Zentrum leicht zu Fuß zu erkunden ist. Planen Sie eine längere Mittagspause ein, um die lokale Küche zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a központ könnyen bejárható gyalog. Tervezzen hosszabb ebédszünetet a helyi konyha élvezetéhez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul este ușor de explorat pe jos. Planificați o pauză de prânz mai lungă pentru a vă bucura de bucătăria locală."
+        ],
+        "en": [
+          "Wear comfortable shoes as the center is easy to explore on foot. Plan for a longer lunch break to enjoy the local cuisine."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirchplatz",
+            "hu": "Templom tér",
+            "ro": "Piața Bisericii",
+            "en": "Church Square"
+          },
+          "coords": [
+            9.658,
+            47.4265
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Leihen Sie sich bei Bedarf ein Fahrrad in der Nähe des Zentrums.",
+            "hu": "Szükség esetén béreljen kerékpárt a központ közelében.",
+            "ro": "Închiriați o bicicletă din apropierea centrului, dacă este necesar.",
+            "en": "Rent a bike near the center if needed."
+          }
+        },
+        {
+          "name": {
+            "de": "Stickereimuseum",
+            "hu": "Hímzőmúzeum",
+            "ro": "Muzeul Broderiei",
+            "en": "Embroidery Museum"
+          },
+          "coords": [
+            9.661,
+            47.428
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die goldene Ära der Stickerei in Lustenau.",
+            "hu": "Tudjon meg mindent a hímzés aranykoráról Lustenauban.",
+            "ro": "Aflați totul despre epoca de aur a broderiei din Lustenau.",
+            "en": "Learn all about the golden era of embroidery in Lustenau."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhein-Schauen Museum",
+            "hu": "Rhein-Schauen Múzeum",
+            "ro": "Muzeul Rhein-Schauen",
+            "en": "Rhein-Schauen Museum"
+          },
+          "coords": [
+            9.625,
+            47.435
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Die Fahrt mit der historischen Eisenbahn ist ein Muss!",
+            "hu": "A történelmi vasúttal való utazás kihagyhatatlan!",
+            "ro": "O plimbare cu trenul istoric este obligatorie!",
+            "en": "The ride on the historic railway is a must-do!"
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Rohr",
+            "hu": "Rohr Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Rohr",
+            "en": "Rohr Nature Reserve"
+          },
+          "coords": [
+            9.63,
+            47.445
+          ],
+          "category": "natural features",
+          "arrive_at": "13:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bringen Sie ein Fernglas mit, um die vielfältige Vogelwelt zu beobachten.",
+            "hu": "Hozzon távcsövet a változatos madárvilág megfigyeléséhez.",
+            "ro": "Aduceți un binoclu pentru a observa diversitatea de păsări.",
+            "en": "Bring binoculars to observe the diverse birdlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Reichshofstadion",
+            "hu": "Reichshofstadion",
+            "ro": "Stadionul Reichshof",
+            "en": "Reichshofstadion"
+          },
+          "coords": [
+            9.672,
+            47.423
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht findet gerade ein Fußballspiel statt.",
+            "hu": "Ellenőrizze a menetrendet, talán éppen egy futballmeccs zajlik.",
+            "ro": "Verificați programul, s-ar putea să aibă loc un meci de fotbal.",
+            "en": "Check the schedule, there might be a football match going on."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrradtour startet im Zentrum und führt schnell zum Stickereimuseum. Nach dieser kulturellen Dosis geht es westwärts zum Rhein. Am Mittag erleben Sie Technikgeschichte im Rhein-Schauen Museum. Der Nachmittag gehört der Natur im Naturschutzgebiet Rohr, ein Paradies für Vögel und Ruhesuchende. Die Tour schließt mit einer langen Fahrt zum Reichshofstadion ab, das Lustenaus sportliche Seite zeigt. Ein abwechslungsreicher Tag auf zwei Rädern.",
+        "hu": "A kerékpártúra a központból indul és gyorsan a Hímzőmúzeumhoz vezet. E kulturális adag után nyugat felé, a Rajnához vesszük az irányt. Délben technikatörténeti élményben lesz része a Rhein-Schauen Múzeumban. A délután a természeté a Rohr Természetvédelmi Területen, a madarak és a nyugalmat keresők paradicsomában. A túra egy hosszú tekeréssel zárul a Reichshofstadionhoz, amely Lustenau sportos oldalát mutatja be. Változatos nap két keréken.",
+        "ro": "Turul cu bicicleta începe în centru și duce rapid la Muzeul Broderiei. După această doză culturală, ne îndreptăm spre vest, spre Rin. La prânz, veți experimenta istoria tehnicii la Muzeul Rhein-Schauen. După-amiaza este dedicată naturii în Rezervația Naturală Rohr, un paradis pentru păsări și iubitorii de liniște. Turul se încheie cu o plimbare lungă până la Stadionul Reichshof, care arată latura sportivă a orașului Lustenau. O zi variată pe două roți.",
+        "en": "The bike tour starts in the center and quickly leads to the Embroidery Museum. After this cultural dose, it's westward to the Rhine. At noon, you'll experience technical history at the Rhein-Schauen Museum. The afternoon belongs to nature in the Rohr Nature Reserve, a paradise for birds and those seeking peace. The tour concludes with a long ride to the Reichshofstadion, showcasing Lustenau's sporty side. A varied day on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Riebel",
+            "tip": "Ein traditionelles Maisgericht, perfekt für eine stärkende Mahlzeit. Suchen Sie nach einem 'Buura Zmorga' (Bauernfrühstück)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Riebel",
+            "tip": "Hagyományos kukoricaétel, tökéletes egy erősítő étkezéshez. Keressen egy 'Buura Zmorga'-t (parasztreggeli)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Riebel",
+            "tip": "Un fel de mâncare tradițional din porumb, perfect pentru o masă copioasă. Căutați un 'Buura Zmorga' (mic dejun țărănesc)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Riebel",
+            "tip": "A traditional corn dish, perfect for a hearty meal. Look for a 'Buura Zmorga' (farmer's breakfast)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rheindamm",
+            "tip": "Radfahren auf dem Rheindamm bei Sonnenuntergang ist ein unvergessliches Erlebnis.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rajna-gát",
+            "tip": "Naplementekor biciklizni a Rajna-gáton felejthetetlen élmény.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digul Rinului",
+            "tip": "Mersul pe bicicletă pe digul Rinului la apus este o experiență de neuitat.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rhine dam",
+            "tip": "Cycling on the Rhine dam at sunset is an unforgettable experience.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Donnerstag und Samstag am Kirchplatz für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Minden csütörtökön és szombaton a Templom téren helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare joi și sâmbătă în Piața Bisericii pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Thursday and Saturday at the Church Square for local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Radwege entlang des Rheins sind flach und gut ausgebaut. Achten Sie auf den Wind, der manchmal stark sein kann. Eine Flasche Wasser ist unerlässlich."
+        ],
+        "hu": [
+          "A Rajna menti kerékpárutak síkak és jól kiépítettek. Vigyázzon a szélre, amely néha erős lehet. Egy üveg víz elengedhetetlen."
+        ],
+        "ro": [
+          "Pistele de biciclete de-a lungul Rinului sunt plate și bine dezvoltate. Fiți atenți la vânt, care uneori poate fi puternic. O sticlă de apă este esențială."
+        ],
+        "en": [
+          "The cycle paths along the Rhine are flat and well-maintained. Watch out for the wind, which can sometimes be strong. A bottle of water is essential."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare centru",
+            "en": "Parking lot downtown"
+          },
+          "coords": [
+            9.659,
+            47.425
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das Zentrum zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a központot.",
+            "ro": "Parcați aici pentru a explora centrul pe jos.",
+            "en": "Park here to explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirchplatz",
+            "hu": "Templom tér",
+            "ro": "Piața Bisericii",
+            "en": "Church Square"
+          },
+          "coords": [
+            9.658,
+            47.4265
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Cluster beginnt im Herzen von Lustenau.",
+            "hu": "Az első klaszter Lustenau szívében kezdődik.",
+            "ro": "Primul cluster începe în inima orașului Lustenau.",
+            "en": "The first cluster starts in the heart of Lustenau."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Peter und Paul",
+            "hu": "Szt. Péter és Pál plébániatemplom",
+            "ro": "Biserica parohială Sf. Petru și Paul",
+            "en": "Parish Church of St. Peter and Paul"
+          },
+          "coords": [
+            9.6575,
+            47.427
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Platz entfernt.",
+            "hu": "Csak egy rövid sétára a tértől.",
+            "ro": "La doar o scurtă plimbare de piață.",
+            "en": "Just a short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stickereimuseum",
+            "hu": "Hímzőmúzeum",
+            "ro": "Muzeul Broderiei",
+            "en": "Embroidery Museum"
+          },
+          "coords": [
+            9.661,
+            47.428
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt im ersten Cluster vor der Weiterfahrt.",
+            "hu": "Az első klaszter utolsó állomása, mielőtt továbbhajtana.",
+            "ro": "Ultima oprire din primul cluster înainte de a merge mai departe.",
+            "en": "The last stop in the first cluster before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhein-Schauen Museum",
+            "hu": "Rhein-Schauen Múzeum",
+            "ro": "Muzeul Rhein-Schauen",
+            "en": "Rhein-Schauen Museum"
+          },
+          "coords": [
+            9.625,
+            47.435
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein neuer Cluster am Rhein. Parkplätze sind vorhanden.",
+            "hu": "Egy új klaszter a Rajnánál. Parkolóhelyek rendelkezésre állnak.",
+            "ro": "Un nou cluster pe Rin. Sunt disponibile locuri de parcare.",
+            "en": "A new cluster by the Rhine. Parking is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Rohr",
+            "hu": "Rohr Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Rohr",
+            "en": "Rohr Nature Reserve"
+          },
+          "coords": [
+            9.63,
+            47.445
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ein kurzes Stück weiter für einen entspannten Naturspaziergang.",
+            "hu": "Vezessen egy rövid szakaszon egy pihentető természetjáráshoz.",
+            "ro": "Conduceți o distanță scurtă pentru o plimbare relaxantă în natură.",
+            "en": "Drive a short distance further for a relaxing nature walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto macht den Tag flexibel. Der Vormittag ist dem historischen Zentrum gewidmet, das bequem zu Fuß erkundet wird: Kirchplatz, Kirche und Stickereimuseum bilden den ersten Kultur-Cluster. Nach dem Mittagessen bringt Sie das Auto westwärts zum Rhein. Dort wartet ein zweiter Cluster: das Rhein-Schauen Museum mit seiner Technikgeschichte und das ruhige Naturschutzgebiet Rohr. Ein perfekter Mix aus Stadtkultur und Naturerlebnis.",
+        "hu": "Az autó rugalmassá teszi a napot. A délelőtt a történelmi központé, amelyet kényelmesen, gyalogosan lehet felfedezni: a Templom tér, a templom és a Hímzőmúzeum alkotják az első kulturális klasztert. Ebéd után az autó nyugat felé, a Rajnához viszi. Ott egy második klaszter vár: a Rhein-Schauen Múzeum a technikatörténetével és a csendes Rohr Természetvédelmi Terület. A városi kultúra és a természeti élmény tökéletes keveréke.",
+        "ro": "Mașina face ziua flexibilă. Dimineața este dedicată centrului istoric, care este explorat convenabil pe jos: Piața Bisericii, biserica și Muzeul Broderiei formează primul cluster cultural. După prânz, mașina vă duce spre vest, la Rin. Acolo vă așteaptă un al doilea cluster: Muzeul Rhein-Schauen cu istoria sa tehnică și liniștita Rezervație Naturală Rohr. Un amestec perfect de cultură urbană și experiență în natură.",
+        "en": "The car makes the day flexible. The morning is dedicated to the historic center, conveniently explored on foot: Church Square, the church, and the Embroidery Museum form the first cultural cluster. After lunch, the car takes you west to the Rhine. A second cluster awaits there: the Rhein-Schauen Museum with its technical history and the quiet Rohr Nature Reserve. A perfect mix of urban culture and nature experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthaus am Rohr",
+            "tip": "In der Nähe des Naturschutzgebiets, ideal für eine Jause nach dem Spaziergang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthaus am Rohr",
+            "tip": "A természetvédelmi terület közelében, ideális egy uzsonnára a séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthaus am Rohr",
+            "tip": "Aproape de rezervația naturală, ideal pentru o gustare după plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthaus am Rohr",
+            "tip": "Near the nature reserve, ideal for a snack after your walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt am Rheindamm",
+            "tip": "Halten Sie für einen Moment an und genießen Sie den Blick über den Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Rajna-gáton",
+            "tip": "Álljon meg egy pillanatra, és élvezze a folyóra nyíló kilátást.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere pe digul Rinului",
+            "tip": "Opriți-vă o clipă și bucurați-vă de vederea asupra râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint on the Rhine dam",
+            "tip": "Stop for a moment and enjoy the view over the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Entlang der Landstraßen finden Sie Hofläden mit frischen, regionalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Az országutak mentén tanyasi boltokat talál friss, regionális termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "De-a lungul drumurilor de țară veți găsi magazine de fermă cu produse proaspete, regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Along the country roads, you will find farm shops with fresh, regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Walk-Strategie, um Parkgebühren zu sparen und mehr zu sehen. Prüfen Sie die Öffnungszeiten der Museen im Voraus, besonders außerhalb der Hauptsaison."
+        ],
+        "hu": [
+          "Használja a 'parkolj és sétálj' stratégiát a parkolási díjak megtakarítása és a több látnivaló érdekében. Ellenőrizze előre a múzeumok nyitvatartási idejét, különösen a főszezonon kívül."
+        ],
+        "ro": [
+          "Folosiți strategia 'parchează și mergi' pentru a economisi la taxele de parcare și a vedea mai multe. Verificați în avans orele de deschidere ale muzeelor, în special în afara sezonului de vârf."
+        ],
+        "en": [
+          "Use the park-and-walk strategy to save on parking fees and see more. Check the opening hours of the museums in advance, especially outside the main season."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Haltestelle Kirchplatz",
+            "hu": "Kirchplatz megálló",
+            "ro": "Stația Kirchplatz",
+            "en": "Kirchplatz stop"
+          },
+          "coords": [
+            9.6585,
+            47.426
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das Zentrum ist gut mit dem Bus erreichbar.",
+            "hu": "A központ busszal jól megközelíthető.",
+            "ro": "Centrul este ușor accesibil cu autobuzul.",
+            "en": "The center is easily accessible by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirchplatz & Pfarrkirche",
+            "hu": "Templom tér és Plébániatemplom",
+            "ro": "Piața Bisericii și Biserica Parohială",
+            "en": "Church Square & Parish Church"
+          },
+          "coords": [
+            9.6578,
+            47.4268
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und die beeindruckende Kirche.",
+            "hu": "Fedezze fel a teret és a lenyűgöző templomot.",
+            "ro": "Explorați piața și biserica impresionantă.",
+            "en": "Explore the square and the impressive church."
+          }
+        },
+        {
+          "name": {
+            "de": "Blaues Haus",
+            "hu": "Kék Ház",
+            "ro": "Casa Albastră",
+            "en": "Blue House"
+          },
+          "coords": [
+            9.6595,
+            47.4255
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zu diesem modernen Architektur-Highlight.",
+            "hu": "Rövid séta ehhez a modern építészeti remekműhöz.",
+            "ro": "O scurtă plimbare până la acest punct de atracție arhitectural modern.",
+            "en": "A short walk to this modern architectural highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Millennium Park",
+            "hu": "Millennium Park",
+            "ro": "Parcul Millennium",
+            "en": "Millennium Park"
+          },
+          "coords": [
+            9.665,
+            47.421
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Süden. Ideal für die Mittagspause.",
+            "hu": "Menjen busszal dél felé. Ideális ebédidőre.",
+            "ro": "Luați un autobuz spre sud. Ideal pentru pauza de prânz.",
+            "en": "Take a bus heading south. Ideal for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Stickereimuseum",
+            "hu": "Hímzőmúzeum",
+            "ro": "Muzeul Broderiei",
+            "en": "Embroidery Museum"
+          },
+          "coords": [
+            9.661,
+            47.428
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie zurück in die Nähe des Zentrums.",
+            "hu": "Egy újabb buszozással visszajut a központ közelébe.",
+            "ro": "O altă călătorie cu autobuzul vă aduce înapoi aproape de centru.",
+            "en": "Another bus ride takes you back near the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus lässt sich Lustenau effizient erkunden. Der Tag startet im Zentrum mit dem ersten Cluster: dem Kirchplatz, der Pfarrkirche und dem Blauen Haus, alles bequem zu Fuß erreichbar. Ein Bus bringt Sie dann zum zweiten Cluster im Süden, dem Millennium Park, perfekt für eine ausgedehnte Mittagspause im Grünen. Am Nachmittag geht es per Bus zurück ins Zentrum, um im Stickereimuseum in die lokale Geschichte einzutauchen. Ein gut getakteter Tag zwischen Kultur und Entspannung.",
+        "hu": "Busszal hatékonyan felfedezhető Lustenau. A nap a központban kezdődik az első klaszterrel: a Templom térrel, a plébániatemplommal és a Kék Házzal, mindegyik kényelmesen megközelíthető gyalog. Ezután egy busz elviszi a déli második klaszterhez, a Millennium Parkhoz, amely tökéletes egy hosszabb ebédszünetre a zöldben. Délután busszal tér vissza a központba, hogy a Hímzőmúzeumban elmerüljön a helyi történelemben. Jól ütemezett nap a kultúra és a pihenés között.",
+        "ro": "Cu autobuzul, Lustenau poate fi explorat eficient. Ziua începe în centru cu primul cluster: Piața Bisericii, biserica parohială și Casa Albastră, toate accesibile convenabil pe jos. Un autobuz vă duce apoi la al doilea cluster din sud, Parcul Millennium, perfect pentru o pauză de prânz extinsă în verdeață. După-amiaza, vă întoarceți cu autobuzul în centru pentru a vă cufunda în istoria locală la Muzeul Broderiei. O zi bine ritmată între cultură și relaxare.",
+        "en": "Lustenau can be explored efficiently by bus. The day starts in the center with the first cluster: the Church Square, the parish church, and the Blue House, all conveniently reachable on foot. A bus then takes you to the second cluster in the south, Millennium Park, perfect for an extended lunch break in the green. In the afternoon, it's back to the center by bus to delve into local history at the Embroidery Museum. A well-timed day between culture and relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei-Café",
+            "tip": "Genießen Sie frisches Gebäck und Kaffee in einem der vielen Cafés im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség-kávézó",
+            "tip": "Élvezze a friss péksüteményeket és a kávét a központ számos kávézójának egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie-cafenea",
+            "tip": "Bucurați-vă de produse de patiserie proaspete și cafea la una dintre numeroasele cafenele din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery-Café",
+            "tip": "Enjoy fresh pastries and coffee at one of the many cafés in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bank im Millennium Park",
+            "tip": "Finden Sie eine ruhige Bank am Wasser und beobachten Sie das Treiben.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a Millennium Parkban",
+            "tip": "Keressen egy csendes padot a víz mellett, és figyelje a nyüzsgést.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Millennium",
+            "tip": "Găsiți o bancă liniștită lângă apă și priviți agitația.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bench in Millennium Park",
+            "tip": "Find a quiet bench by the water and watch the world go by.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Kirchplatz",
+            "tip": "Rund um den zentralen Platz finden Sie kleine Boutiquen und Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a Templom téren",
+            "tip": "A központi tér körül kis butikokat és üzleteket talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Piața Bisericii",
+            "tip": "În jurul pieței centrale veți găsi mici buticuri și magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops at the Church Square",
+            "tip": "Around the central square, you'll find small boutiques and shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um flexibel zu bleiben. Informieren Sie sich über die Busfahrpläne, um Wartezeiten zu minimieren. Die VVV (Verkehrsverbund Vorarlberg) App ist dafür sehr hilfreich."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy rugalmas maradjon. Tájékozódjon a buszmenetrendekről a várakozási idők minimalizálása érdekében. A VVV (Vorarlbergi Közlekedési Szövetség) alkalmazás nagyon hasznos ehhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a rămâne flexibil. Verificați orarele autobuzelor pentru a minimiza timpii de așteptare. Aplicația VVV (Asociația de Transport Vorarlberg) este foarte utilă pentru asta."
+        ],
+        "en": [
+          "Buy a day ticket for the bus to stay flexible. Check the bus schedules to minimize waiting times. The VVV (Vorarlberg Transport Association) app is very helpful for this."
+        ]
+      }
+    }
+  }
+}

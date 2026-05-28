@@ -1,0 +1,1448 @@
+{
+  "city_id": "serbia-prijepolje-cities-v2",
+  "anchor": {
+    "name": "Prijepolje",
+    "coords": [
+      19.658,
+      43.385
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Park der Helden",
+            "hu": "Hősök Parkja",
+            "ro": "Parcul Eroilor",
+            "en": "Park of Heroes"
+          },
+          "coords": [
+            19.655,
+            43.386
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag entspannt mit einem Kaffee auf einer Parkbank.",
+            "hu": "Kezdje a napot egy kávéval a park egyik padján, ráhangolódásként.",
+            "ro": "Începeți ziua relaxat cu o cafea pe o bancă din parc.",
+            "en": "Start your day with a relaxing coffee on a park bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Prijepolje",
+            "hu": "Prijepoljei Múzeum",
+            "ro": "Muzeul din Prijepolje",
+            "en": "Museum of Prijepolje"
+          },
+          "coords": [
+            19.653,
+            43.387
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die römischen und mittelalterlichen Artefakte.",
+            "hu": "Keresse a római és középkori leleteket bemutató kiállításrészt.",
+            "ro": "Fiți atenți la artefactele romane și medievale.",
+            "en": "Look out for the Roman and medieval artifacts on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Sahat-kula (Uhrturm)",
+            "hu": "Sahat-kula (Óratorony)",
+            "ro": "Sahat-kula (Turnul cu ceas)",
+            "en": "Sahat-kula (Clock Tower)"
+          },
+          "coords": [
+            19.651,
+            43.388
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Turm ist ein tolles Fotomotiv und ein Symbol des osmanischen Erbes.",
+            "hu": "Az óratorony az oszmán örökség jelképe, remek fotótéma.",
+            "ro": "Turnul este un subiect excelent pentru fotografii și un simbol al moștenirii otomane.",
+            "en": "The tower is a great photo opportunity and a symbol of Ottoman heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Ibrahim-Pascha-Moschee",
+            "hu": "Ibrahim pasa mecset",
+            "ro": "Moscheea Ibrahim Pașa",
+            "en": "Ibrahim Pasha Mosque"
+          },
+          "coords": [
+            19.65,
+            43.3885
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie die Gebetszeiten und kleiden Sie sich respektvoll.",
+            "hu": "Viselkedjen tisztelettudóan, és vegye figyelembe az imaidőket.",
+            "ro": "Respectați orele de rugăciune și îmbrăcați-vă respectuos.",
+            "en": "Be mindful of prayer times and dress respectfully."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Lim Fluss",
+            "hu": "Séta a Lim folyó partján",
+            "ro": "Plimbare pe malul râului Lim",
+            "en": "Walk along the Lim River"
+          },
+          "coords": [
+            19.658,
+            43.389
+          ],
+          "category": "natural features",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause in einem der Cafés am Ufer.",
+            "hu": "Ideális egy ebéd- vagy kávészünetre a folyóparti kávézók egyikében.",
+            "ro": "Ideal pentru o pauză de prânz la una dintre cafenelele de pe mal.",
+            "en": "Ideal for a lunch break at one of the riverside cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Mileševa",
+            "hu": "Mileševa kolostor",
+            "ro": "Mănăstirea Mileševa",
+            "en": "Mileševa Monastery"
+          },
+          "coords": [
+            19.718,
+            43.371
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Suchen Sie das berühmte Fresko des „Weißen Engels“. Es ist ein Muss!",
+            "hu": "Keresse meg a híres „Fehér Angyal” freskót. Ezt látni kell!",
+            "ro": "Căutați faimoasa frescă a „Îngerului Alb”. Este obligatoriu de văzut!",
+            "en": "Look for the famous 'White Angel' fresco. It's a must-see!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt im grünen Herzen der Stadt, dem Park der Helden. Am Vormittag erkunden Sie die reiche Geschichte im Stadtmuseum und bewundern die osmanische Architektur des Uhrturms und der Moschee. Der Nachmittag gehört dem Lim-Fluss, wo Sie eine entspannte Mittagspause einlegen, bevor Sie den spirituellen Höhepunkt des Tages, das Kloster Mileševa, mit seinem weltberühmten Fresko erreichen. Der Abend klingt mit den Eindrücken jahrhundertealter Kunst und Kultur aus.",
+        "hu": "Sétája a város zöld szívében, a Hősök Parkjában kezdődik. Délelőtt a városi múzeumban elmerülhet a gazdag történelemben, és megcsodálhatja az óratorony és a mecset oszmán építészetét. A délután a Lim folyóé, ahol egy pihentető ebédszünetet tarthat, mielőtt elérné a nap spirituális csúcspontját, a világhírű freskójáról ismert Mileševa kolostort. Az estét az évszázados művészet és kultúra benyomásai zárják.",
+        "ro": "Turul dumneavoastră pietonal începe în inima verde a orașului, Parcul Eroilor. Dimineața explorați istoria bogată la muzeul orașului și admirați arhitectura otomană a Turnului cu Ceas și a moscheii. După-amiaza este dedicată râului Lim, unde puteți lua o pauză de prânz relaxantă înainte de a ajunge la punctul culminant spiritual al zilei, Mănăstirea Mileševa, cu faimoasa sa frescă. Seara se încheie cu impresiile unei arte și culturi vechi de secole.",
+        "en": "Your walking tour begins in the green heart of the city, the Park of Heroes. In the morning, explore the rich history at the city museum and admire the Ottoman architecture of the Clock Tower and the mosque. The afternoon is for the Lim River, where you can have a relaxing lunch break before reaching the spiritual highlight of the day, the Mileševa Monastery, with its world-famous fresco. The evening concludes with the impressions of centuries-old art and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Komplet Lepinja",
+            "tip": "Ein herzhaftes lokales Frühstück, das man probiert haben muss."
+          },
+          {
+            "name": "Prijepoljski sir",
+            "tip": "Probieren Sie den berühmten lokalen Käse, am besten direkt vom Markt."
+          },
+          {
+            "name": "Lamm am Spieß",
+            "tip": "In den Restaurants entlang des Lim-Flusses oft zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Komplet Lepinja",
+            "tip": "Kiadós helyi reggeli, amit muszáj megkóstolni."
+          },
+          {
+            "name": "Prijepoljei sajt",
+            "tip": "Kóstolja meg a híres helyi sajtot, a legjobb a piacról."
+          },
+          {
+            "name": "Nyárson sült bárány",
+            "tip": "Gyakran kapható a Lim folyó menti éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Komplet Lepinja",
+            "tip": "Un mic dejun local consistent, care trebuie încercat."
+          },
+          {
+            "name": "Brânză de Prijepolje",
+            "tip": "Încercați faimoasa brânză locală, cel mai bine direct de la piață."
+          },
+          {
+            "name": "Miel la proțap",
+            "tip": "Se găsește adesea în restaurantele de pe malul râului Lim."
+          }
+        ],
+        "en": [
+          {
+            "name": "Komplet Lepinja",
+            "tip": "A hearty local breakfast that is a must-try."
+          },
+          {
+            "name": "Prijepolje cheese",
+            "tip": "Taste the famous local cheese, best bought directly from the market."
+          },
+          {
+            "name": "Lamb on the spit",
+            "tip": "Often found in restaurants along the Lim River."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Lim",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klostergarten Mileševa",
+            "tip": "Ein Ort der Stille und spirituellen Einkehr.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang über den Bergen",
+            "tip": "Ein kurzer Spaziergang flussaufwärts bietet eine tolle Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lim partja",
+            "tip": "Keressen egy csendes padot, és nézze a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mileševa kolostorkert",
+            "tip": "A csend és a spirituális elmélyülés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a hegyek felett",
+            "tip": "Egy rövid séta felfelé a folyón remek kilátást nyújt.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Lim",
+            "tip": "Găsiți o bancă liniștită și priviți apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Mănăstirii Mileševa",
+            "tip": "Un loc de liniște și reculegere spirituală.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare peste munți",
+            "tip": "O scurtă plimbare în amonte oferă o priveliște minunată.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Lim River",
+            "tip": "Find a quiet bench and watch the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mileševa Monastery Garden",
+            "tip": "A place of silence and spiritual reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset over the mountains",
+            "tip": "A short walk upstream offers a great view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie hausgemachten Käse und Honig."
+          },
+          {
+            "name": "Souvenirladen im Kloster Mileševa",
+            "tip": "Ikonen-Repliken und religiöse Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon házi sajtot és mézet."
+          },
+          {
+            "name": "Mileševa kolostor szuvenírboltja",
+            "tip": "Ik másolatok és vallási emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați brânză de casă și miere."
+          },
+          {
+            "name": "Magazin de suveniruri la Mănăstirea Mileševa",
+            "tip": "Replici de icoane și suveniruri religioase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy homemade cheese and honey."
+          },
+          {
+            "name": "Mileševa Monastery Souvenir Shop",
+            "tip": "Icon replicas and religious keepsakes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Weg zum Kloster ansteigend sein kann.",
+          "Nehmen Sie immer etwas Bargeld mit, besonders für Märkte und kleinere Läden.",
+          "Probieren Sie das Leitungswasser, es ist in der Regel von guter Qualität.",
+          "Fragen Sie die Einheimischen nach dem Weg, sie sind meist sehr hilfsbereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a kolostorhoz vezető út emelkedhet.",
+          "Mindig legyen Önnél készpénz, különösen a piacokon és a kisebb boltokban.",
+          "Kóstolja meg a csapvizet, általában jó minőségű.",
+          "Kérdezze meg a helyieket, ha eltévedne, általában nagyon segítőkészek."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece drumul spre mănăstire poate fi în pantă.",
+          "Aveți întotdeauna niște bani lichizi, mai ales pentru piețe și magazine mici.",
+          "Încercați apa de la robinet, de obicei este de bună calitate.",
+          "Întrebați localnicii despre direcții, de obicei sunt foarte de ajutor."
+        ],
+        "en": [
+          "Wear comfortable shoes as the path to the monastery can be uphill.",
+          "Always carry some cash, especially for markets and smaller shops.",
+          "Try the tap water, it is generally of good quality.",
+          "Ask locals for directions, they are usually very helpful."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lim Fluss Ufer",
+            "hu": "Lim folyó partja",
+            "ro": "Malul râului Lim",
+            "en": "Lim River Bank"
+          },
+          "coords": [
+            19.66,
+            43.39
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Start mit einer leichten Fahrt entlang des Wassers.",
+            "hu": "Tökéletes kezdés egy könnyed tekeréssel a víz mentén.",
+            "ro": "Un început perfect cu o plimbare ușoară de-a lungul apei.",
+            "en": "A perfect start with a light ride along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Helden",
+            "hu": "Hősök Parkja",
+            "ro": "Parcul Eroilor",
+            "en": "Park of Heroes"
+          },
+          "coords": [
+            19.655,
+            43.386
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre.",
+            "hu": "Zárja le a biciklit, és élvezze a park hangulatát.",
+            "ro": "Lăsați bicicleta și bucurați-vă de atmosferă.",
+            "en": "Park your bike and enjoy the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Prijepolje",
+            "hu": "Prijepoljei Múzeum",
+            "ro": "Muzeul din Prijepolje",
+            "en": "Museum of Prijepolje"
+          },
+          "coords": [
+            19.653,
+            43.387
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine willkommene Pause vom Radfahren und eine Dosis Kultur.",
+            "hu": "Kellemes pihenő a biciklizés után egy adag kultúrával.",
+            "ro": "O pauză binevenită de la ciclism și o doză de cultură.",
+            "en": "A welcome break from cycling and a dose of culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Sahat-kula und Ibrahim-Pascha-Moschee",
+            "hu": "Sahat-kula és Ibrahim pasa mecset",
+            "ro": "Sahat-kula și Moscheea Ibrahim Pașa",
+            "en": "Sahat-kula and Ibrahim Pasha Mosque"
+          },
+          "coords": [
+            19.651,
+            43.388
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese beiden nahe beieinander liegenden Wahrzeichen.",
+            "hu": "Csodálja meg ezt a két, egymáshoz közel álló nevezetességet.",
+            "ro": "Admirați aceste două repere apropiate.",
+            "en": "Admire these two landmarks located close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Valter Monument",
+            "hu": "Valter-emlékmű",
+            "ro": "Monumentul lui Valter",
+            "en": "Valter Monument"
+          },
+          "coords": [
+            19.645,
+            43.39
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine kurze Radtour zu Ehren des lokalen Helden.",
+            "hu": "Egy rövid biciklitúra a helyi hős tiszteletére.",
+            "ro": "O scurtă plimbare cu bicicleta în onoarea eroului local.",
+            "en": "A short bike ride to honor the local hero."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kloster Mileševa",
+            "hu": "Út a Mileševa kolostorhoz",
+            "ro": "Plimbare spre Mănăstirea Mileševa",
+            "en": "Ride to Mileševa Monastery"
+          },
+          "coords": [
+            19.718,
+            43.371
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 11.5,
+          "tip_5lang": {
+            "de": "Die Fahrt ist anspruchsvoll, aber die Belohnung ist unbezahlbar.",
+            "hu": "Az út kihívást jelent, de a jutalom felbecsülhetetlen.",
+            "ro": "Călătoria este solicitantă, dar recompensa este neprețuită.",
+            "en": "The ride is challenging, but the reward is priceless."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am belebenden Ufer des Lim-Flusses. Von dort aus radeln Sie in den Park der Helden und erkunden dann das kulturelle Zentrum mit Museum, Uhrturm und Moschee. Ein kurzer Abstecher führt Sie zum Valter-Denkmal. Der Höhepunkt des Nachmittags ist die anspruchsvolle, aber lohnende Fahrt zum historischen Kloster Mileševa, wo Sie in die spirituelle Atmosphäre eintauchen können. Der Tag verbindet Natur, Kultur und sportliche Aktivität perfekt.",
+        "hu": "Kerékpártúrája a Lim folyó éltető partján indul. Onnan a Hősök Parkjába teker, majd felfedezi a kulturális központot a múzeummal, az óratoronnyal és a mecsettel. Egy rövid kitérő a Valter-emlékműhöz vezet. A délután csúcspontja a kihívást jelentő, de annál nagyobb élményt nyújtó út a történelmi Mileševa kolostorhoz, ahol elmerülhet a spirituális légkörben. A nap tökéletesen ötvözi a természetet, a kultúrát és a sportos tevékenységet.",
+        "ro": "Turul cu bicicleta începe pe malul înviorător al râului Lim. De acolo, pedalați spre Parcul Eroilor, apoi explorați centrul cultural cu muzeul, Turnul cu Ceas și moscheea. Un scurt ocol vă duce la Monumentul lui Valter. Punctul culminant al după-amiezii este călătoria solicitantă, dar plină de satisfacții, către istorica Mănăstire Mileševa, unde vă puteți cufunda în atmosfera spirituală. Ziua îmbină perfect natura, cultura și activitatea sportivă.",
+        "en": "Your bike tour starts on the invigorating banks of the Lim River. From there, you'll cycle to the Park of Heroes, then explore the cultural center with its museum, Clock Tower, and mosque. A short detour takes you to the Valter Monument. The highlight of the afternoon is the challenging but rewarding ride to the historic Mileševa Monastery, where you can immerse yourself in the spiritual atmosphere. The day perfectly combines nature, culture, and sporting activity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Der perfekte, schnelle Energielieferant für Radfahrer."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Eine erfrischende Belohnung nach der Tour zum Kloster."
+          },
+          {
+            "name": "Frischer Salat mit Kajmak",
+            "tip": "Eine leichtere Option, die dennoch sättigt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Tökéletes, gyors energiaforrás a kerékpárosoknak."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Frissítő jutalom a kolostorhoz vezető túra után."
+          },
+          {
+            "name": "Friss saláta kajmakkal",
+            "tip": "Könnyebb, de mégis laktató opció."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Sursa de energie perfectă și rapidă pentru bicicliști."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "O recompensă răcoritoare după turul la mănăstire."
+          },
+          {
+            "name": "Salată proaspătă cu Kajmak",
+            "tip": "O opțiune mai ușoară, dar totuși sățioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "The perfect, quick source of energy for cyclists."
+          },
+          {
+            "name": "Local beer",
+            "tip": "A refreshing reward after the tour to the monastery."
+          },
+          {
+            "name": "Fresh salad with Kajmak",
+            "tip": "A lighter yet filling option."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Lim",
+            "tip": "Frühmorgens ist es hier besonders friedlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel oberhalb von Mileševa",
+            "tip": "Fahren Sie ein kleines Stück weiter für eine atemberaubende Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park der Helden in der Mittagssonne",
+            "tip": "Eine kurze Pause im Schatten der Bäume.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Lim mentén",
+            "tip": "Kora reggel különösen békés itt minden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Domb Mileševa felett",
+            "tip": "Tekerjen egy kicsit tovább a lélegzetelállító kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hősök Parkja a déli napon",
+            "tip": "Egy rövid pihenő a fák árnyékában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Lim",
+            "tip": "Dimineața devreme este deosebit de pașnic aici.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul de deasupra Mileševei",
+            "tip": "Mergeți puțin mai departe pentru o priveliște uluitoare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Eroilor la amiază",
+            "tip": "O scurtă pauză la umbra copacilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Lim",
+            "tip": "It's especially peaceful here in the early morning.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hill above Mileševa",
+            "tip": "Ride a little further for a breathtaking view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park of Heroes in the midday sun",
+            "tip": "A short break in the shade of the trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für Ersatzteile oder Zubehör."
+          },
+          {
+            "name": "Markt für energiereiche Snacks",
+            "tip": "Kaufen Sie Nüsse und Trockenfrüchte für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Pótalkatrészekhez vagy kiegészítőkhöz."
+          },
+          {
+            "name": "Piac az energizáló falatokért",
+            "tip": "Vásároljon dióféléket és aszalt gyümölcsöket az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru piese de schimb sau accesorii."
+          },
+          {
+            "name": "Piața pentru gustări energizante",
+            "tip": "Cumpărați nuci și fructe uscate pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bicycle shops",
+            "tip": "For spare parts or accessories."
+          },
+          {
+            "name": "Market for energy-rich snacks",
+            "tip": "Buy nuts and dried fruits for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der langen Fahrt zum Kloster.",
+          "Nehmen Sie ausreichend Wasser mit, besonders im Sommer.",
+          "Ein Helm wird dringend empfohlen.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Ellenőrizze a kerékpárt a kolostorhoz vezető hosszú út előtt.",
+          "Vigyen magával elegendő vizet, különösen nyáron.",
+          "Sisak használata erősen ajánlott.",
+          "Mindig gondosan zárja le a kerékpárt, ha leparkolja."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de lunga călătorie spre mănăstire.",
+          "Luați suficientă apă, mai ales vara.",
+          "O cască este puternic recomandată.",
+          "Încuietăți-vă întotdeauna bine bicicleta când o parcați."
+        ],
+        "en": [
+          "Check your bike before the long ride to the monastery.",
+          "Bring plenty of water, especially in summer.",
+          "A helmet is strongly recommended.",
+          "Always lock your bike securely when you park it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 35.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum",
+            "hu": "Parkoló a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "Parking in the city center"
+          },
+          "coords": [
+            19.654,
+            43.385
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Hier beginnt Ihr Stadtrundgang. Das Auto bleibt für die nächsten Stunden hier.",
+            "hu": "Innen indul a városnéző séta. Az autó a következő pár órában itt marad.",
+            "ro": "Turul dumneavoastră pietonal începe de aici. Mașina va rămâne aici pentru următoarele ore.",
+            "en": "Your walking tour starts here. The car will stay here for the next few hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Sahat-kula und Ibrahim-Pascha-Moschee",
+            "hu": "Sahat-kula és Ibrahim pasa mecset",
+            "ro": "Sahat-kula și Moscheea Ibrahim Pașa",
+            "en": "Sahat-kula and Ibrahim Pasha Mosque"
+          },
+          "coords": [
+            19.651,
+            43.388
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch die osmanische Geschichte der Stadt.",
+            "hu": "Séta a város oszmán történelmében.",
+            "ro": "O plimbare prin istoria otomană a orașului.",
+            "en": "A walk through the city's Ottoman history."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Prijepolje",
+            "hu": "Prijepoljei Múzeum",
+            "ro": "Muzeul din Prijepolje",
+            "en": "Museum of Prijepolje"
+          },
+          "coords": [
+            19.653,
+            43.387
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vertiefen Sie Ihr Wissen über die Region.",
+            "hu": "Mélyítse el tudását a régióról.",
+            "ro": "Aprofundați-vă cunoștințele despre regiune.",
+            "en": "Deepen your knowledge of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Lim",
+            "hu": "Ebéd a Lim partján",
+            "ro": "Prânz pe malul râului Lim",
+            "en": "Lunch on the Lim River"
+          },
+          "coords": [
+            19.658,
+            43.389
+          ],
+          "category": "gastro",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zurück zum Auto spazieren und dabei ein gutes Essen genießen.",
+            "hu": "Sétáljon vissza az autóhoz, útközben ebédeljen egy jót.",
+            "ro": "Mergeți înapoi la mașină, bucurându-vă de o masă bună pe drum.",
+            "en": "Walk back to the car while enjoying a good meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kloster Mileševa",
+            "hu": "Autóval a Mileševa kolostorhoz",
+            "ro": "Cu mașina la Mănăstirea Mileševa",
+            "en": "Drive to Mileševa Monastery"
+          },
+          "coords": [
+            19.718,
+            43.371
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für diesen spirituellen Ort. Es gibt einen Parkplatz.",
+            "hu": "Szánjon időt erre a spirituális helyre. Parkoló rendelkezésre áll.",
+            "ro": "Acordați-vă timp pentru acest loc spiritual. Există o parcare.",
+            "en": "Take your time for this spiritual place. There is a parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sopotnica Wasserfälle",
+            "hu": "Sopotnica-vízesések",
+            "ro": "Cascadele Sopotnica",
+            "en": "Sopotnica Waterfalls"
+          },
+          "coords": [
+            19.57,
+            43.285
+          ],
+          "category": "natural features",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 28,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein malerischer Abschluss des Tages in der Natur.",
+            "hu": "A nap festői lezárása a természetben.",
+            "ro": "Un final pitoresc al zilei în natură.",
+            "en": "A picturesque end to the day in nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Prijepolje",
+            "hu": "Visszaút Prijepoljéba",
+            "ro": "Întoarcere la Prijepolje",
+            "en": "Return to Prijepolje"
+          },
+          "coords": [
+            19.658,
+            43.385
+          ],
+          "category": "transport",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zeit für ein Abendessen und die Reflexion des Tages.",
+            "hu": "Ideje vacsorázni és átgondolni a napot.",
+            "ro": "Timpul pentru cină și pentru a reflecta asupra zilei.",
+            "en": "Time for dinner and reflecting on the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit dem Parken im Zentrum von Prijepolje. Ein Spaziergang führt Sie zu den osmanischen Wahrzeichen und ins Museum (Cluster 1). Nach dem Mittagessen am Fluss fahren Sie zum spirituellen Herzen der Region, dem Kloster Mileševa (Cluster 2). Der Nachmittag ist einem Naturwunder gewidmet: den Sopotnica-Wasserfällen (Cluster 3), ein perfekter Ort, um die Seele baumeln zu lassen. Dieser auto-basierte Ausflug kombiniert Stadtkultur mit atemberaubender Natur.",
+        "hu": "A nap Prijepolje központjában való parkolással kezdődik. Egy séta elvezeti az oszmán kori nevezetességekhez és a múzeumba (1. klaszter). A folyóparti ebéd után a régió spirituális szívéhez, a Mileševa kolostorhoz autózik (2. klaszter). A délután egy természeti csodáé: a Sopotnica-vízeséseké (3. klaszter), amely tökéletes hely a kikapcsolódásra. Ez az autós kirándulás ötvözi a városi kultúrát a lélegzetelállító természettel.",
+        "ro": "Ziua dumneavoastră începe cu parcarea în centrul orașului Prijepolje. O plimbare vă duce la reperele otomane și la muzeu (Cluster 1). După prânzul pe malul râului, conduceți spre inima spirituală a regiunii, Mănăstirea Mileševa (Cluster 2). După-amiaza este dedicată unei minuni naturale: Cascadele Sopotnica (Cluster 3), un loc perfect pentru a vă relaxa sufletul. Această excursie cu mașina combină cultura urbană cu natura uluitoare.",
+        "en": "Your day begins by parking in the center of Prijepolje. A walk takes you to the Ottoman landmarks and the museum (Cluster 1). After lunch by the river, you drive to the spiritual heart of the region, Mileševa Monastery (Cluster 2). The afternoon is dedicated to a natural wonder: the Sopotnica Waterfalls (Cluster 3), a perfect place to unwind. This car-based trip combines urban culture with breathtaking nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Sopotnica",
+            "tip": "Frische Forelle direkt aus dem Bergbach."
+          },
+          {
+            "name": "Käse und Schinken Platte",
+            "tip": "Perfekt für ein Picknick bei den Wasserfällen."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Probieren Sie den lokalen Schnaps, aber fahren Sie danach nicht mehr!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Sopotnicánál",
+            "tip": "Friss pisztráng egyenesen a hegyi patakból."
+          },
+          {
+            "name": "Sajt- és sonkatál",
+            "tip": "Tökéletes egy piknikhez a vízeséseknél."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Kóstolja meg a helyi pálinkát, de utána már ne vezessen!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la Sopotnica",
+            "tip": "Păstrăv proaspăt direct din pârâul de munte."
+          },
+          {
+            "name": "Platou cu brânză și șuncă",
+            "tip": "Perfect pentru un picnic la cascade."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Încercați țuica locală, dar nu mai conduceți după aceea!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at Sopotnica",
+            "tip": "Fresh trout straight from the mountain stream."
+          },
+          {
+            "name": "Cheese and ham platter",
+            "tip": "Perfect for a picnic at the waterfalls."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Try the local brandy, but don't drive afterwards!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sopotnica Wasserfälle",
+            "tip": "Das Rauschen des Wassers ist unglaublich beruhigend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof des Klosters Mileševa",
+            "tip": "Ein Moment der Stille an einem heiligen Ort.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussichtspunkt auf dem Weg nach Sopotnica",
+            "tip": "Halten Sie an und genießen Sie das Panorama des Lim-Tals.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sopotnica-vízesések",
+            "tip": "A víz zúgása hihetetlenül megnyugtató.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mileševa kolostor udvara",
+            "tip": "Egy csendes pillanat egy szent helyen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátópont a Sopotnicához vezető úton",
+            "tip": "Álljon meg, és élvezze a Lim-völgy panorámáját.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascadele Sopotnica",
+            "tip": "Sunetul apei este incredibil de liniștitor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a Mănăstirii Mileševa",
+            "tip": "Un moment de liniște într-un loc sfânt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punct de belvedere pe drumul spre Sopotnica",
+            "tip": "Opriți-vă și bucurați-vă de panorama văii Lim.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sopotnica Waterfalls",
+            "tip": "The sound of the water is incredibly soothing.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inner courtyard of Mileševa Monastery",
+            "tip": "A moment of silence in a sacred place.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Viewpoint on the way to Sopotnica",
+            "tip": "Stop and enjoy the panorama of the Lim valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerkskunst aus Holz",
+            "tip": "In den Dörfern rund um Sopotnica finden Sie oft handgeschnitzte Souvenirs."
+          },
+          {
+            "name": "Klosterhonig",
+            "tip": "Im Kloster Mileševa wird oft Honig aus der Region verkauft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fafaragások",
+            "tip": "Sopotnica környéki falvakban gyakran találni kézzel faragott ajándéktárgyakat."
+          },
+          {
+            "name": "Kolostori méz",
+            "tip": "A Mileševa kolostorban gyakran árulnak helyi mézet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat din lemn",
+            "tip": "În satele din jurul Sopotnicei găsiți adesea suveniruri sculptate manual."
+          },
+          {
+            "name": "Miere de mănăstire",
+            "tip": "La Mănăstirea Mileševa se vinde adesea miere din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wooden crafts",
+            "tip": "In the villages around Sopotnica, you can often find hand-carved souvenirs."
+          },
+          {
+            "name": "Monastery honey",
+            "tip": "Honey from the region is often sold at Mileševa Monastery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tanken Sie voll, bevor Sie die Bergstraßen befahren.",
+          "Die Straßen zu den Wasserfällen können eng sein, fahren Sie vorsichtig.",
+          "Überprüfen Sie die Öffnungszeiten des Klosters im Voraus.",
+          "Ein GPS oder eine gute Karte ist unerlässlich."
+        ],
+        "hu": [
+          "Tankoljon tele, mielőtt a hegyi utakra indul.",
+          "A vízesésekhez vezető utak szűkek lehetnek, vezessen óvatosan.",
+          "Előre ellenőrizze a kolostor nyitvatartási idejét.",
+          "GPS vagy egy jó térkép elengedhetetlen."
+        ],
+        "ro": [
+          "Alimentați complet înainte de a porni pe drumurile de munte.",
+          "Drumurile spre cascade pot fi înguste, conduceți cu prudență.",
+          "Verificați în prealabil programul de funcționare al mănăstirii.",
+          "Un GPS sau o hartă bună este esențială."
+        ],
+        "en": [
+          "Fill up the tank before heading into the mountain roads.",
+          "The roads to the waterfalls can be narrow, drive carefully.",
+          "Check the monastery's opening hours in advance.",
+          "A GPS or a good map is essential."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 14.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am zentralen Busbahnhof",
+            "hu": "Érkezés a központi buszpályaudvarra",
+            "ro": "Sosire la autogara centrală",
+            "en": "Arrival at the central bus station"
+          },
+          "coords": [
+            19.65,
+            43.384
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Von hier aus beginnt Ihr erster Stadt-Cluster zu Fuß.",
+            "hu": "Innen indul az első városi séta-klaszter.",
+            "ro": "De aici începe primul dumneavoastră cluster de plimbare prin oraș.",
+            "en": "Your first city walking cluster starts from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Prijepolje",
+            "hu": "Prijepoljei Múzeum",
+            "ro": "Muzeul din Prijepolje",
+            "en": "Museum of Prijepolje"
+          },
+          "coords": [
+            19.653,
+            43.387
+          ],
+          "category": "museums",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof entfernt.",
+            "hu": "Rövid sétára a buszpályaudvartól.",
+            "ro": "La o scurtă plimbare de autogară.",
+            "en": "A short walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Sahat-kula und Ibrahim-Pascha-Moschee",
+            "hu": "Sahat-kula és Ibrahim pasa mecset",
+            "ro": "Sahat-kula și Moscheea Ibrahim Pașa",
+            "en": "Sahat-kula and Ibrahim Pasha Mosque"
+          },
+          "coords": [
+            19.651,
+            43.388
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie das osmanische Herz der Stadt.",
+            "hu": "Fedezze fel a város oszmán szívét.",
+            "ro": "Descoperiți inima otomană a orașului.",
+            "en": "Discover the Ottoman heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Helden und Lim-Ufer",
+            "hu": "Hősök Parkja és a Lim partja",
+            "ro": "Parcul Eroilor și malul râului Lim",
+            "en": "Park of Heroes and Lim River Bank"
+          },
+          "coords": [
+            19.656,
+            43.387
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für die Mittagspause, bevor es weitergeht.",
+            "hu": "Tökéletes egy ebédszünetre, mielőtt tovább indul.",
+            "ro": "Perfect pentru pauza de prânz înainte de a continua.",
+            "en": "Perfect for a lunch break before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Kloster Mileševa",
+            "hu": "Buszozás a Mileševa kolostorhoz",
+            "ro": "Călătorie cu autobuzul la Mănăstirea Mileševa",
+            "en": "Bus ride to Mileševa Monastery"
+          },
+          "coords": [
+            19.718,
+            43.371
+          ],
+          "category": "transport",
+          "arrive_at": "13:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 6.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Suchen Sie den lokalen Bus, der Richtung Kloster fährt.",
+            "hu": "Keresse a kolostor irányába közlekedő helyi buszt.",
+            "ro": "Căutați autobuzul local care merge spre mănăstire.",
+            "en": "Look for the local bus heading towards the monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Erkundung des Klosters Mileševa",
+            "hu": "A Mileševa kolostor felfedezése",
+            "ro": "Explorarea Mănăstirii Mileševa",
+            "en": "Exploring Mileševa Monastery"
+          },
+          "coords": [
+            19.72,
+            43.37
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie den ganzen Nachmittag an diesem magischen Ort.",
+            "hu": "Töltse az egész délutánt ezen a varázslatos helyen.",
+            "ro": "Petreceți întreaga după-amiază în acest loc magic.",
+            "en": "Spend the whole afternoon in this magical place."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus erreichen Sie mühelos das Zentrum von Prijepolje. Der Vormittag gehört dem ersten Cluster: ein Spaziergang vom Museum zu den osmanischen Bauten und hin zum entspannenden Lim-Ufer. Nach dem Mittagessen bringt Sie ein lokaler Bus zum zweiten Cluster des Tages: dem beeindruckenden Kloster Mileševa. Hier haben Sie ausgiebig Zeit, die Fresken und die friedliche Atmosphäre zu genießen, bevor Sie am späten Nachmittag die Rückfahrt antreten. Ein Tag, der Kultur und Spiritualität bequem verbindet.",
+        "hu": "Busszal könnyedén elérheti Prijepolje központját. A délelőtt az első klaszteré: séta a múzeumtól az oszmán épületekig és a pihentető Lim-partig. Ebéd után egy helyi busz elviszi a nap második klaszteréhez: a lenyűgöző Mileševa kolostorhoz. Itt bőséges ideje lesz élvezni a freskókat és a békés légkört, mielőtt késő délután visszaindulna. Egy nap, amely kényelmesen ötvözi a kultúrát és a spiritualitást.",
+        "ro": "Cu autobuzul puteți ajunge cu ușurință în centrul orașului Prijepolje. Dimineața este dedicată primului cluster: o plimbare de la muzeu la clădirile otomane și la malul relaxant al râului Lim. După prânz, un autobuz local vă duce la al doilea cluster al zilei: impresionanta Mănăstire Mileševa. Aici aveți suficient timp pentru a vă bucura de fresce și de atmosfera pașnică înainte de a vă întoarce după-amiaza târziu. O zi care combină confortabil cultura și spiritualitatea.",
+        "en": "You can easily reach the center of Prijepolje by bus. The morning belongs to the first cluster: a walk from the museum to the Ottoman buildings and down to the relaxing banks of the Lim. After lunch, a local bus takes you to the second cluster of the day: the impressive Mileševa Monastery. Here you have plenty of time to enjoy the frescoes and the peaceful atmosphere before heading back in the late afternoon. A day that comfortably combines culture and spirituality."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "Ein schneller und leckerer Snack, den man an jeder Ecke findet."
+          },
+          {
+            "name": "Joghurt (als Getränk)",
+            "tip": "Passt perfekt zu herzhaften Backwaren."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "Ein Muss für Fleischliebhaber, serviert in einem Fladenbrot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Gyors és finom harapnivaló, amit minden sarkon megtalál."
+          },
+          {
+            "name": "Joghurt (italként)",
+            "tip": "Tökéletesen illik a sós péksüteményekhez."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "Húsimádóknak kötelező, lepényben tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "O gustare rapidă și delicioasă pe care o găsiți la fiecare colț."
+          },
+          {
+            "name": "Iaurt (ca băutură)",
+            "tip": "Se potrivește perfect cu produsele de patiserie sărate."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "O necesitate pentru iubitorii de carne, servită într-o lipie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "A quick and delicious snack found on every corner."
+          },
+          {
+            "name": "Yogurt (as a drink)",
+            "tip": "Goes perfectly with savory pastries."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "A must-try for meat lovers, served in a flatbread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Galerien des Klosters",
+            "tip": "Weniger besucht und bieten eine andere Perspektive.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank im Park der Helden",
+            "tip": "Beobachten Sie das tägliche Leben der Einheimischen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Die Fahrt aufs Land ist entspannend und malerisch.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A kolostor felső galériái",
+            "tip": "Kevésbé látogatottak és más perspektívát kínálnak.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad a Hősök Parkjában",
+            "tip": "Figyelje a helyiek mindennapi életét.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Az út vidékre pihentető és festői.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeriile superioare ale mănăstirii",
+            "tip": "Mai puțin vizitate și oferă o perspectivă diferită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă în Parcul Eroilor",
+            "tip": "Priviți viața de zi cu zi a localnicilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliștea de la geamul autobuzului",
+            "tip": "Călătoria spre zona rurală este relaxantă și pitorească.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper galleries of the monastery",
+            "tip": "Less crowded and offer a different perspective.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench in the Park of Heroes",
+            "tip": "Watch the daily life of the locals.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "The ride to the countryside is relaxing and scenic.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Für Reisesnacks und Getränke."
+          },
+          {
+            "name": "Klosterladen",
+            "tip": "Kaufen Sie ein Andenken an den „Weißen Engel“."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Útravaló harapnivalókért és italokért."
+          },
+          {
+            "name": "Kolostorbolt",
+            "tip": "Vásároljon egy „Fehér Angyal” emléktárgyat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Pentru gustări și băuturi de călătorie."
+          },
+          {
+            "name": "Magazinul mănăstirii",
+            "tip": "Cumpărați un suvenir cu „Îngerul Alb”."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "For travel snacks and drinks."
+          },
+          {
+            "name": "Monastery shop",
+            "tip": "Buy a souvenir of the 'White Angel'."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über die Busfahrpläne, besonders für die Rückfahrt vom Kloster.",
+          "Kaufen Sie Tickets im Voraus oder fragen Sie, ob man im Bus bezahlen kann.",
+          "Haben Sie Kleingeld für die Tickets bereit.",
+          "Planen Sie Pufferzeiten für eventuelle Verspätungen ein."
+        ],
+        "hu": [
+          "Tájékozódjon a buszmenetrendekről, különösen a kolostorból való visszautazáshoz.",
+          "Vásárolja meg a jegyeket előre, vagy kérdezze meg, lehet-e a buszon fizetni.",
+          "Készítsen elő aprópénzt a jegyekhez.",
+          "Tervezzen pufferidőt az esetleges késésekre."
+        ],
+        "ro": [
+          "Informați-vă despre orarele autobuzelor, în special pentru călătoria de întoarcere de la mănăstire.",
+          "Cumpărați biletele în avans sau întrebați dacă puteți plăti în autobuz.",
+          "Pregătiți mărunțiș pentru bilete.",
+          "Planificați timp tampon pentru posibile întârzieri."
+        ],
+        "en": [
+          "Find out about bus schedules, especially for the return trip from the monastery.",
+          "Buy tickets in advance or ask if you can pay on the bus.",
+          "Have small change ready for tickets.",
+          "Plan buffer times for possible delays."
+        ]
+      }
+    }
+  }
+}

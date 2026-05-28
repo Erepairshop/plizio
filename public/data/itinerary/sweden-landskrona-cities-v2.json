@@ -1,0 +1,1556 @@
+{
+  "city_id": "sweden-landskrona-cities-v2",
+  "anchor": {
+    "name": "Landskrona",
+    "coords": [
+      12.8302,
+      55.8708
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Landskrona",
+            "hu": "Landskronai Városháza",
+            "ro": "Primăria Landskrona",
+            "en": "Landskrona Town Hall"
+          },
+          "coords": [
+            12.8305,
+            55.8712
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassizistische Fassade aus dem 19. Jahrhundert.",
+            "hu": "Csodálja meg a 19. századi klasszicista homlokzatot.",
+            "ro": "Admirați fațada clasicistă din secolul al XIX-lea.",
+            "en": "Admire the 19th-century classicist facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Sofia Albertina Kirche",
+            "hu": "Sofia Albertina templom",
+            "ro": "Biserica Sofia Albertina",
+            "en": "Sofia Albertina Church"
+          },
+          "coords": [
+            12.833,
+            55.8725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie den einzigartigen kreuzförmigen Grundriss und die schöne Innenausstattung.",
+            "hu": "Figyelje meg az egyedülálló kereszt alaprajzot és a gyönyörű belső teret.",
+            "ro": "Observați planul unic în formă de cruce și interiorul frumos.",
+            "en": "Note the unique cross-shaped floor plan and beautiful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Landskrona",
+            "hu": "Landskronai Citadella",
+            "ro": "Citadela din Landskrona",
+            "en": "Landskrona Citadel"
+          },
+          "coords": [
+            12.825,
+            55.868
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang um die gut erhaltenen Wälle und Wassergräben.",
+            "hu": "Sétáljon egyet a jól megőrzött sáncok és vizesárkok körül.",
+            "ro": "Faceți o plimbare în jurul meterezelor și șanțurilor de apă bine conservate.",
+            "en": "Take a walk around the well-preserved ramparts and moats."
+          }
+        },
+        {
+          "name": {
+            "de": "Rothoffska kolonin",
+            "hu": "Rothoffska kert",
+            "ro": "Grădina Rothoffska",
+            "en": "Rothoffska Allotment Garden"
+          },
+          "coords": [
+            12.8245,
+            55.8665
+          ],
+          "category": "museums",
+          "arrive_at": "12:06",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies ist Schwedens ältestes Kleingartengelände, eine friedliche Oase.",
+            "hu": "Ez Svédország legrégebbi volksparkja, egy békés oázis.",
+            "ro": "Aceasta este cea mai veche grădină comunitară din Suedia, o oază de pace.",
+            "en": "This is Sweden's oldest allotment area, a peaceful oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Landskrona",
+            "hu": "Landskrona Múzeum",
+            "ro": "Muzeul Landskrona",
+            "en": "Landskrona Museum"
+          },
+          "coords": [
+            12.827,
+            55.869
+          ],
+          "category": "museums",
+          "arrive_at": "12:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Ausstellungen decken sowohl die lokale Geschichte als auch Fotografie ab. Ideal für das Mittagessen.",
+            "hu": "A kiállítások a helytörténetet és a fotográfiát is felölelik. Ebédre ideális.",
+            "ro": "Expozițiile acoperă atât istoria locală, cât și fotografia. Ideal pentru o pauză de prânz.",
+            "en": "Exhibits cover both local history and photography. Great for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Landskrona Konsthall",
+            "hu": "Landskronai Művészeti Csarnok",
+            "ro": "Galeria de Artă Landskrona",
+            "en": "Landskrona Art Gallery"
+          },
+          "coords": [
+            12.828,
+            55.87
+          ],
+          "category": "museums",
+          "arrive_at": "14:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel modernistischer Architektur in einem Skulpturenpark.",
+            "hu": "A modernista építészet szép példája egy szoborparkban.",
+            "ro": "Un exemplu frumos de arhitectură modernistă într-un parc de sculpturi.",
+            "en": "A beautiful example of modernist architecture set in a sculpture park."
+          }
+        },
+        {
+          "name": {
+            "de": "Borstahusen",
+            "hu": "Borstahusen",
+            "ro": "Borstahusen",
+            "en": "Borstahusen"
+          },
+          "coords": [
+            12.82,
+            55.895
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:13",
+          "stay_min": 52,
+          "hop_from_prev_min": 72,
+          "hop_from_prev_km": 3.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das malerische Fischerdorf und genießen Sie die Meeresbrise.",
+            "hu": "Sétáljon végig a festői halászfalun, és élvezze a tengeri szellőt.",
+            "ro": "Plimbați-vă prin satul pescăresc pitoresc și bucurați-vă de briza mării.",
+            "en": "Stroll through the picturesque fishing village and enjoy the sea breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am belebten Rathaus und der beeindruckenden Sofia-Albertina-Kirche. Der Vormittag führt Sie zur historischen Zitadelle, wo Sie in die Militärgeschichte eintauchen und die friedlichen Gärten von Rothoffska genießen. Nach dem Mittagessen erkunden Sie die Kunst- und Fotoszene im Landskrona Museum und der Konsthall. Der Tag endet mit einem langen, erfrischenden Spaziergang zum charmanten Fischerdorf Borstahusen, wo Sie die entspannte Küstenatmosphäre aufsaugen können.",
+        "hu": "Kezdje a gyalogtúrát a nyüzsgő Városházánál és a lenyűgöző Sofia Albertina templomnál. A délelőtt a történelmi Citadellához vezet, ahol elmerülhet a katonai múltban, majd élvezheti a Rothoffska békés kertjeit. Ebéd után fedezze fel a művészeti és fotográfiai színteret a Landskrona Múzeumban és a Konsthallban. A nap egy hosszú, frissítő sétával zárul a bájos Borstahusen halászfaluig, ahol magába szívhatja a nyugodt tengerparti hangulatot.",
+        "ro": "Începeți turul pietonal la Primăria plină de viață și la impresionanta Biserică Sofia Albertina. Dimineața vă duce la Citadela istorică pentru a explora istoria militară și a vă bucura de grădinile pașnice de la Rothoffska. După prânz, explorați scena artistică și fotografică la Muzeul Landskrona și Konsthall. Ziua se încheie cu o plimbare lungă și revigorantă până la fermecătorul sat pescăresc Borstahusen pentru a absorbi atmosfera relaxată de coastă.",
+        "en": "Start your walking tour at the bustling Town Hall and the impressive Sofia Albertina Church. The morning takes you to the historic Citadel to delve into military history and enjoy the peaceful gardens at Rothoffska. After lunch, explore the art and photography scene at Landskrona Museum and Konsthall. The day concludes with a long, refreshing walk to the charming fishing village of Borstahusen to soak in the relaxed coastal atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gebratener Hering (Stekt strömming)",
+            "tip": "Ein klassisches schwedisches Gericht, oft mit Kartoffelpüree und Preiselbeeren serviert. Probieren Sie es in einem der Restaurants in Borstahusen."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "Ein dicker Eierkuchen aus Schonen, traditionell mit gebratenem Schweinefleisch und Preiselbeeren serviert. Sehr sättigend!"
+          },
+          {
+            "name": "Kardemummabullar",
+            "tip": "Schwedische Kardamom-Brötchen, perfekt für eine 'Fika' (Kaffeepause) in einem örtlichen Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült hering (Stekt strömming)",
+            "tip": "Klasszikus svéd étel, gyakran krumplipürével és vörösáfonya-lekvárral tálalva. Kóstolja meg Borstahusen egyik éttermében."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "Vastag skånei tojáslepény, hagyományosan sült sertéshússal és vörösáfonyával. Nagyon laktató!"
+          },
+          {
+            "name": "Kardemummabullar",
+            "tip": "Svéd kardamomos zsemle, tökéletes egy 'fikára' (kávészünetre) egy helyi kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hering prăjit (Stekt strömming)",
+            "tip": "Un fel de mâncare suedez clasic, adesea servit cu piure de cartofi și merișoare. Încercați-l la unul dintre restaurantele din Borstahusen."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "O clătită groasă cu ouă din Scania, servită tradițional cu carne de porc prăjită și merișoare. Foarte sățioasă!"
+          },
+          {
+            "name": "Kardemummabullar",
+            "tip": "Chifle suedeze cu cardamom, perfecte pentru o 'fika' (pauză de cafea) la o cafenea locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fried Herring (Stekt strömming)",
+            "tip": "A classic Swedish dish, often served with mashed potatoes and lingonberries. Try it at one of the restaurants in Borstahusen."
+          },
+          {
+            "name": "Äggakaka",
+            "tip": "A thick Scanian egg cake, traditionally served with fried pork and lingonberries. Very filling!"
+          },
+          {
+            "name": "Kardemummabullar",
+            "tip": "Swedish cardamom buns, perfect for a 'fika' (coffee break) at a local café."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zitadellen-Gärten",
+            "tip": "Finden Sie eine ruhige Ecke in den Gärten der Zitadelle, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Strand von Borstahusen",
+            "tip": "Setzen Sie sich an den Strand und beobachten Sie die Boote und die Fähren nach Ven.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Skulpturenpark",
+            "tip": "Der Park rund um die Landskrona Konsthall ist ein ruhiger Ort, um Kunst im Freien zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citadella kertjei",
+            "tip": "Találjon egy csendes sarkot a Citadella kertjeiben, hogy elmeneküljön a város nyüzsgése elől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Borstahuseni strand",
+            "tip": "Üljön le a partra, és nézze a hajókat és a Venbe tartó kompokat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szoborpark",
+            "tip": "A Landskrona Konsthall körüli park egy nyugodt hely a szabadtéri művészet élvezetére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Cetății",
+            "tip": "Găsiți un colț liniștit în grădinile din jurul Citadelei pentru a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja Borstahusen",
+            "tip": "Stați pe plajă și priviți bărcile și feriboturile care merg spre Ven.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul de sculpturi",
+            "tip": "Parcul din jurul Landskrona Konsthall este un loc liniștit pentru a vă bucura de artă în aer liber.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Citadel Gardens",
+            "tip": "Find a quiet corner in the gardens surrounding the Citadel to escape the city buzz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Borstahusen Beach",
+            "tip": "Sit on the beach and watch the boats and the ferries going to Ven.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sculpture Park",
+            "tip": "The park around Landskrona Konsthall is a serene place to enjoy art outdoors.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "In der Innenstadt und in Borstahusen finden Sie kleine Läden, die lokales Kunsthandwerk und Souvenirs verkaufen."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Der Shop im Landskrona Museum bietet oft einzigartige Geschenke, Bücher und Drucke im Zusammenhang mit Fotografie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "A belvárosban és Borstahusenben találhat kis üzleteket, amelyek helyi kézműves termékeket és szuveníreket árulnak."
+          },
+          {
+            "name": "Múzeumi bolt",
+            "tip": "A Landskrona Múzeum boltja gyakran kínál egyedi ajándékokat, könyveket és fotográfiával kapcsolatos nyomatokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "În centrul orașului și în Borstahusen veți găsi mici magazine care vând obiecte de artizanat local și suveniruri."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Magazinul de la Muzeul Landskrona oferă adesea cadouri unice, cărți și printuri legate de fotografie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "In the city center and in Borstahusen, you'll find small shops selling local crafts and souvenirs."
+          },
+          {
+            "name": "Museum Shop",
+            "tip": "The shop at Landskrona Museum often has unique gifts, books, and prints related to photography."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da dieser Plan viel Gehen beinhaltet, insbesondere den langen Spaziergang nach Borstahusen.",
+          "Prüfen Sie die Öffnungszeiten der Museen und der Konsthall im Voraus, da diese variieren können.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt mehrere Orte zum Nachfüllen.",
+          "Ein Fernglas kann nützlich sein, um die Insel Ven vom Festland aus zu beobachten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel ez a terv sok gyaloglást tartalmaz, különösen a hosszú sétát Borstahusenbe.",
+          "Előre ellenőrizze a múzeumok és a Konsthall nyitvatartási idejét, mivel az változhat.",
+          "Hozzon magával újratölthető vizes palackot; több helyen is újratöltheti.",
+          "Egy távcső hasznos lehet, hogy a szárazföldről megfigyelje Ven szigetét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece acest itinerar implică mult mers pe jos, în special plimbarea lungă până la Borstahusen.",
+          "Verificați în avans orele de deschidere ale muzeelor și ale Konsthall, deoarece acestea pot varia.",
+          "Luați o sticlă de apă reutilizabilă; există mai multe locuri pentru a o umple.",
+          "Un binoclu poate fi util pentru a observa insula Ven de pe continent."
+        ],
+        "en": [
+          "Wear comfortable shoes as this plan involves a lot of walking, especially the long walk to Borstahusen.",
+          "Check the opening hours for the museums and Konsthall in advance, as they can vary.",
+          "Bring a reusable water bottle; there are several places to refill it.",
+          "A pair of binoculars can be useful for spotting the island of Ven from the mainland."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Borstahusen",
+            "hu": "Borstahusen",
+            "ro": "Borstahusen",
+            "en": "Borstahusen"
+          },
+          "coords": [
+            12.82,
+            55.895
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einer erfrischenden Fahrt zum Fischerdorf.",
+            "hu": "Kezdje a napot egy frissítő tekeréssel a halászfaluhoz.",
+            "ro": "Începeți ziua cu o plimbare revigorantă cu bicicleta până la satul pescăresc.",
+            "en": "Start the day with a refreshing ride to the fishing village."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Landskrona",
+            "hu": "Landskronai Városháza",
+            "ro": "Primăria Landskrona",
+            "en": "Landskrona Town Hall"
+          },
+          "coords": [
+            12.8305,
+            55.8712
+          ],
+          "category": "historical",
+          "arrive_at": "10:23",
+          "stay_min": 20,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Zentrum ist leicht mit dem Fahrrad zu erreichen. Parken Sie und machen Sie ein Foto.",
+            "hu": "A központ könnyen elérhető biciklivel. Parkoljon le és készítsen egy fotót.",
+            "ro": "Centrul este ușor accesibil cu bicicleta. Parcați și faceți o fotografie.",
+            "en": "The center is easily reachable by bike. Park and take a photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Sofia Albertina Kirche",
+            "hu": "Sofia Albertina templom",
+            "ro": "Biserica Sofia Albertina",
+            "en": "Sofia Albertina Church"
+          },
+          "coords": [
+            12.833,
+            55.8725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nur eine kurze Fahrt vom Rathaus entfernt. Ein Muss für Architekturliebhaber.",
+            "hu": "Csak egy rövid bicikliút a Városházától. Építészetkedvelőknek kötelező.",
+            "ro": "La doar o scurtă plimbare cu bicicleta de Primărie. O vizită obligatorie pentru iubitorii de arhitectură.",
+            "en": "Just a short ride from the Town Hall. A must-see for architecture lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Landskrona",
+            "hu": "Landskronai Citadella",
+            "ro": "Citadela din Landskrona",
+            "en": "Landskrona Citadel"
+          },
+          "coords": [
+            12.825,
+            55.868
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie um die Festung herum, um ihre Größe voll zu erfassen, bevor Sie hineingehen.",
+            "hu": "Tekerjen körbe az erőd körül, hogy teljes mértékben felmérje a nagyságát, mielőtt bemegy.",
+            "ro": "Mergeți cu bicicleta în jurul cetății pentru a aprecia pe deplin scara sa înainte de a intra.",
+            "en": "Cycle around the fortress to fully appreciate its scale before heading inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Rothoffska kolonin",
+            "hu": "Rothoffska kert",
+            "ro": "Grădina Rothoffska",
+            "en": "Rothoffska Allotment Garden"
+          },
+          "coords": [
+            12.8245,
+            55.8665
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Mittagspause mit einem Picknick.",
+            "hu": "Tökéletes hely egy piknikkel egybekötött ebédszünetre.",
+            "ro": "Un loc perfect pentru o pauză de prânz cu un picnic.",
+            "en": "A perfect spot for a lunch break with a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Landskrona & Konsthall",
+            "hu": "Landskrona Múzeum és Művészeti Csarnok",
+            "ro": "Muzeul și Galeria de Artă Landskrona",
+            "en": "Landskrona Museum & Art Gallery"
+          },
+          "coords": [
+            12.8275,
+            55.8695
+          ],
+          "category": "museums",
+          "arrive_at": "13:48",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kombinieren Sie diese beiden Orte, da sie direkt nebeneinander liegen. Ein Paradies für Kunstliebhaber.",
+            "hu": "Kombinálja ezt a két helyszínt, mivel egymás mellett vannak. Művészetkedvelők paradicsoma.",
+            "ro": "Combinați aceste două locuri, deoarece sunt chiar unul lângă celălalt. Un paradis pentru iubitorii de artă.",
+            "en": "Combine these two as they are right next to each other. An art lover's paradise."
+          }
+        },
+        {
+          "name": {
+            "de": "Ven-Fähre",
+            "hu": "Ven komp",
+            "ro": "Feribotul Ven",
+            "en": "Ven Ferry"
+          },
+          "coords": [
+            12.818,
+            55.873
+          ],
+          "category": "port",
+          "arrive_at": "15:54",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Auch wenn Sie keine Zeit haben, die Insel zu besuchen, ist es schön, die Fähren kommen und gehen zu sehen.",
+            "hu": "Még ha nincs is ideje meglátogatni a szigetet, jó nézni a kompok érkezését és indulását.",
+            "ro": "Chiar dacă nu aveți timp să vizitați insula, este frumos să priviți feriboturile venind și plecând.",
+            "en": "Even if you don't have time to visit the island, it's nice to see the ferries come and go."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Strand",
+            "hu": "Naplemente a tengerparton",
+            "ro": "Apus de soare pe plajă",
+            "en": "Sunset at the Beach"
+          },
+          "coords": [
+            12.815,
+            55.885
+          ],
+          "category": "sunset",
+          "arrive_at": "16:26",
+          "stay_min": 19,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer gemütlichen Fahrt entlang der Küste, um den Sonnenuntergang zu beobachten.",
+            "hu": "Zárja a napot egy kellemes tekeréssel a part mentén, hogy megnézze a naplementét.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă pe coastă pentru a privi apusul.",
+            "en": "End the day with a leisurely ride along the coast to watch the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag mit einer belebenden Fahrt zum Fischerdorf Borstahusen. Von dort aus radeln Sie ins Stadtzentrum, um das Rathaus und die Sofia-Albertina-Kirche zu bewundern. Der Vormittag ist der Erkundung des riesigen Zitadellengeländes gewidmet. Nach einer Pause in den Rothoffska-Gärten tauchen Sie am Nachmittag in Kunst und Geschichte im Landskrona Museum und der Konsthall ein. Schließlich radeln Sie zum Hafen, um die Ven-Fähre zu sehen, und beenden den Tag mit einer malerischen Küstenfahrt, um den Sonnenuntergang zu genießen.",
+        "hu": "Kezdje a biciklis napot egy élénkítő tekeréssel Borstahusen halászfaluhoz. Onnan tekerjen be a városközpontba, hogy megcsodálja a Városházát és a Sofia Albertina templomot. A délelőtt a hatalmas Citadella területének felfedezésével telik. A Rothoffska kertekben tartott szünet után délután merüljön el a művészetben és a történelemben a Landskrona Múzeumban és a Konsthallban. Végül tekerjen el a kikötőbe, hogy megnézze a Ven kompot, és zárja a napot egy festői tengerparti úttal, hogy élvezze a naplementét.",
+        "ro": "Începeți ziua de ciclism cu o plimbare revigorantă până la satul pescăresc Borstahusen. De acolo, pedalați spre centrul orașului pentru a admira Primăria și Biserica Sofia Albertina. Dimineața este dedicată explorării vastului complex al Cetății. După o pauză în grădinile Rothoffska, scufundați-vă în artă și istorie la Muzeul Landskrona și Konsthall după-amiaza. În cele din urmă, pedalați până la port pentru a vedea feribotul Ven, încheind ziua cu o plimbare pitorească pe coastă pentru a vă bucura de apus.",
+        "en": "Kick off your cycling day with an invigorating ride to Borstahusen fishing village. From there, pedal to the city center to admire the Town Hall and Sofia Albertina Church. The morning is dedicated to exploring the vast Citadel grounds. After a break in the Rothoffska gardens, immerse yourself in art and history at Landskrona Museum and Konsthall in the afternoon. Finally, cycle to the harbour to see the Ven ferry, ending the day with a scenic coastal ride to enjoy the sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischsuppentopf",
+            "tip": "In einem der Restaurants am Hafen von Borstahusen finden Sie köstliche, cremige Fischsuppen."
+          },
+          {
+            "name": "Smörgås",
+            "tip": "Ein offenes Sandwich mit verschiedenen Belägen. Ein schnelles und leckeres schwedisches Mittagessen."
+          },
+          {
+            "name": "Café Lust",
+            "tip": "Ein charmantes Café in der Nähe der Zitadelle, ideal für eine Fika."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászlé",
+            "tip": "Borstahusen kikötői éttermeiben ízletes, krémes halászleveket talál."
+          },
+          {
+            "name": "Smörgås",
+            "tip": "Nyitott szendvics különféle feltétekkel. Gyors és finom svéd ebéd."
+          },
+          {
+            "name": "Café Lust",
+            "tip": "Egy bájos kávézó a Citadella közelében, ideális egy fikára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de pește",
+            "tip": "Găsiți supe de pește delicioase și cremoase la unul dintre restaurantele din portul Borstahusen."
+          },
+          {
+            "name": "Smörgås",
+            "tip": "Un sandviș deschis cu diverse toppinguri. Un prânz suedez rapid și gustos."
+          },
+          {
+            "name": "Café Lust",
+            "tip": "O cafenea fermecătoare lângă Citadelă, perfectă pentru o fika."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Stew",
+            "tip": "Find delicious, creamy fish stews at one of the restaurants in Borstahusen harbour."
+          },
+          {
+            "name": "Smörgås",
+            "tip": "An open-faced sandwich with various toppings. A quick and tasty Swedish lunch."
+          },
+          {
+            "name": "Café Lust",
+            "tip": "A charming café near the Citadel, perfect for a fika."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenradweg",
+            "tip": "Der Weg zwischen dem Zentrum und Borstahusen bietet atemberaubende Ausblicke und ruhige Momente.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Ven Blick",
+            "tip": "Halten Sie an einem beliebigen Punkt entlang der Küste an, um den Blick auf die Insel Ven zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhofskirche",
+            "tip": "Der Friedhof um die Sofia-Albertina-Kirche ist ein überraschend ruhiger und schöner Ort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti kerékpárút",
+            "tip": "A központ és Borstahusen közötti út lélegzetelállító kilátást és csendes pillanatokat kínál.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Kilátás Venre",
+            "tip": "Álljon meg bárhol a part mentén, hogy élvezze a Ven szigetére nyíló kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "A Sofia Albertina templom körüli temető meglepően csendes és szép hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de coastă",
+            "tip": "Traseul dintre centru și Borstahusen oferă priveliști uimitoare și momente de liniște.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Vedere spre Ven",
+            "tip": "Opriți-vă în orice punct de-a lungul coastei pentru a admira priveliștea insulei Ven.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul bisericii",
+            "tip": "Cimitirul din jurul Bisericii Sofia Albertina este un loc surprinzător de liniștit și frumos.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal bike path",
+            "tip": "The path between the center and Borstahusen offers stunning views and quiet moments.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Ven Viewpoint",
+            "tip": "Stop at any point along the coast to enjoy the view of Ven island.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Church Graveyard",
+            "tip": "The graveyard around Sofia Albertina Church is a surprisingly peaceful and beautiful spot.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih",
+            "tip": "Wenn Sie kein eigenes Fahrrad haben, gibt es mehrere Verleihstationen in der Stadt."
+          },
+          {
+            "name": "Hantverksboden i Borstahusen",
+            "tip": "Ein kleiner Laden, der lokales Kunsthandwerk verkauft, von Keramik bis Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönző",
+            "tip": "Ha nincs saját kerékpárja, a városban több kölcsönző is található."
+          },
+          {
+            "name": "Hantverksboden i Borstahusen",
+            "tip": "Egy kis bolt, amely helyi kézműves termékeket árul, a kerámiától a textilekig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închiriere de biciclete",
+            "tip": "Dacă nu aveți propria bicicletă, există mai multe magazine de închirieri în oraș."
+          },
+          {
+            "name": "Hantverksboden i Borstahusen",
+            "tip": "Un mic magazin care vinde artizanat local, de la ceramică la textile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rentals",
+            "tip": "If you don't have your own bike, there are several rental shops in town."
+          },
+          {
+            "name": "Hantverksboden i Borstahusen",
+            "tip": "A small shop selling local handicrafts, from ceramics to textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Landskrona ist sehr fahrradfreundlich mit vielen Radwegen.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch wenn Sie es nur für kurze Zeit abstellen.",
+          "Der Wind kann an der Küste stark sein, seien Sie also vorbereitet.",
+          "Einige Teile der Zitadelle sind möglicherweise nicht mit dem Fahrrad zugänglich, seien Sie also bereit, zu Fuß zu gehen."
+        ],
+        "hu": [
+          "Landskrona nagyon biciklibarát, sok kerékpárúttal.",
+          "Mindig zárja le a kerékpárját, még akkor is, ha csak rövid időre hagyja ott.",
+          "A szél erős lehet a tengerparton, ezért készüljön fel.",
+          "A Citadella egyes részei nem biztos, hogy megközelíthetők kerékpárral, ezért készüljön fel a gyaloglásra."
+        ],
+        "ro": [
+          "Landskrona este foarte prietenoasă cu bicicletele, cu multe piste dedicate.",
+          "Încuietăți întotdeauna bicicleta, chiar dacă o lăsați doar pentru o perioadă scurtă.",
+          "Vântul poate fi puternic pe coastă, așa că fiți pregătiți.",
+          "Unele părți ale Citadelei s-ar putea să nu fie accesibile cu bicicleta, așa că fiți pregătiți să mergeți pe jos."
+        ],
+        "en": [
+          "Landskrona is very bike-friendly with many dedicated cycle paths.",
+          "Always lock your bike, even if leaving it for a short period.",
+          "The wind can be strong on the coast, so be prepared.",
+          "Some parts of the Citadel may not be accessible by bike, so be ready to walk."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Borstahusen",
+            "hu": "Borstahusen",
+            "ro": "Borstahusen",
+            "en": "Borstahusen"
+          },
+          "coords": [
+            12.82,
+            55.895
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Hafen und beginnen Sie den Tag mit einem Spaziergang durch das alte Fischerdorf.",
+            "hu": "Parkoljon le a kikötőnél, és kezdje a napot egy sétával a régi halászfaluban.",
+            "ro": "Parcați lângă port și începeți ziua cu o plimbare prin vechiul sat pescăresc.",
+            "en": "Park near the harbour and start the day with a walk through the old fishing village."
+          }
+        },
+        {
+          "name": {
+            "de": "Ven-Fähre Anleger",
+            "hu": "Ven kompkikötő",
+            "ro": "Terminalul feribotului Ven",
+            "en": "Ven Ferry Pier"
+          },
+          "coords": [
+            12.818,
+            55.873
+          ],
+          "category": "port",
+          "arrive_at": "10:24",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Fährterminal, um die Aussicht auf den Öresund zu genießen.",
+            "hu": "Vezessen el a kompkikötőhöz, hogy élvezze az Öresund-szorosra nyíló kilátást.",
+            "ro": "Conduceți până la terminalul de feribot pentru a vă bucura de priveliștea spre strâmtoarea Öresund.",
+            "en": "Drive to the ferry terminal to enjoy the views across the Öresund strait."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Zitadelle & Gärten",
+            "hu": "Klaszter: Citadella és kertek",
+            "ro": "Cluster: Citadelă și grădini",
+            "en": "Cluster: Citadel & Gardens"
+          },
+          "coords": [
+            12.825,
+            55.868
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den nächsten Cluster. Beginnen Sie mit der Erkundung der massiven Festung.",
+            "hu": "Parkoljon le itt a következő klaszterhez. Kezdje a hatalmas erőd felfedezésével.",
+            "ro": "Parcați aici pentru următorul cluster. Începeți prin a explora fortăreața masivă.",
+            "en": "Park here for the next cluster. Start by exploring the massive fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Rothoffska kolonin",
+            "hu": "Rothoffska kert",
+            "ro": "Grădina Rothoffska",
+            "en": "Rothoffska Allotment Garden"
+          },
+          "coords": [
+            12.8245,
+            55.8665
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Zitadelle entfernt, ideal für eine ruhige Pause vor dem Mittagessen.",
+            "hu": "Rövid séta a Citadellától, ideális egy csendes pihenőre ebéd előtt.",
+            "ro": "O scurtă plimbare de la Citadelă, perfectă pentru o pauză liniștită înainte de prânz.",
+            "en": "A short walk from the Citadel, perfect for a quiet break before lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum & Konsthall",
+            "hu": "Múzeum és Művészeti Csarnok",
+            "ro": "Muzeu și Galerie de Artă",
+            "en": "Museum & Art Gallery"
+          },
+          "coords": [
+            12.8275,
+            55.8695
+          ],
+          "category": "museums",
+          "arrive_at": "13:04",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zurück in Richtung Zitadelle spazieren, um die beiden wichtigsten Kunsträume der Stadt zu besuchen.",
+            "hu": "Sétáljon vissza a Citadella felé, hogy meglátogassa a város két fő művészeti helyszínét.",
+            "ro": "Mergeți înapoi spre Citadelă pentru a vizita cele două spații principale de artă ale orașului.",
+            "en": "Walk back towards the Citadel to visit the city's two main art spaces."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Stadtzentrum",
+            "hu": "Klaszter: Városközpont",
+            "ro": "Cluster: Centrul orașului",
+            "en": "Cluster: City Center"
+          },
+          "coords": [
+            12.8305,
+            55.8712
+          ],
+          "category": "historical",
+          "arrive_at": "15:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum und parken Sie. Beginnen Sie mit dem Rathaus.",
+            "hu": "Vezessen a központba és parkoljon le. Kezdje a Városházával.",
+            "ro": "Conduceți spre centru și parcați. Începeți cu Primăria.",
+            "en": "Drive to the center and park. Start with the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Sofia Albertina Kirche",
+            "hu": "Sofia Albertina templom",
+            "ro": "Biserica Sofia Albertina",
+            "en": "Sofia Albertina Church"
+          },
+          "coords": [
+            12.833,
+            55.8725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:42",
+          "stay_min": 58,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathausplatz. Nehmen Sie sich Zeit, das Innere zu bewundern.",
+            "hu": "Rövid séta a Városház tértől. Szánjon időt a belső tér megcsodálására.",
+            "ro": "O scurtă plimbare din piața primăriei. Luați-vă timp să admirați interiorul.",
+            "en": "A short walk from the town hall square. Take your time to admire the interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Auto mit einer Fahrt zum malerischen Fischerdorf Borstahusen. Nach einem Küstenspaziergang fahren Sie zum Fährhafen, bevor Sie zum ersten Hauptcluster aufbrechen: der Zitadelle. Parken Sie Ihr Auto und verbringen Sie den Vormittag damit, die Festung, die ruhigen Rothoffska-Gärten und die nahegelegenen Museen und Kunstgalerien zu Fuß zu erkunden. Am Nachmittag fahren Sie in den letzten Cluster, das Stadtzentrum. Parken Sie erneut und besuchen Sie das Rathaus und die prächtige Sofia-Albertina-Kirche, um einen Tag voller Entdeckungen abzurunden.",
+        "hu": "Kezdje az autós napot egy utazással a festői Borstahusen halászfaluhoz. A tengerparti séta után hajtson a kompkikötőhöz, mielőtt elindulna az első fő klaszterhez: a Citadellához. Parkolja le az autót, és töltse a délelőttöt az erőd, a békés Rothoffska-kertek és a közeli múzeumok és művészeti galériák gyalogos felfedezésével. Délután hajtson az utolsó klaszterbe, a városközpontba. Parkoljon le újra, és látogassa meg a Városházát és a csodálatos Sofia Albertina templomot, hogy lezárja a felfedezésekkel teli napot.",
+        "ro": "Începeți ziua cu mașina cu o plimbare până la pitorescul sat pescăresc Borstahusen. După o plimbare pe coastă, conduceți spre portul de feribot înainte de a vă îndrepta spre primul cluster principal: Cetatea. Parcați mașina și petreceți dimineața explorând pe jos fortăreața, grădinile liniștite Rothoffska și muzeele și galeriile de artă din apropiere. După-amiaza, conduceți spre ultimul cluster, centrul orașului. Parcați din nou și vizitați Primăria și magnifica Biserică Sofia Albertina pentru a încheia o zi de explorare.",
+        "en": "Start your car-based day with a drive to the picturesque Borstahusen fishing village. After a coastal stroll, drive by the ferry port before heading to the first main cluster: the Citadel. Park your car and spend the morning exploring the fortress, the serene Rothoffska gardens, and the nearby museums and art galleries on foot. In the afternoon, drive to the final cluster, the city center. Park again and visit the Town Hall and the magnificent Sofia Albertina Church to round off a day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Erikstorps Kungsgård",
+            "tip": "Ein gehobenes Restaurant in der Nähe der Zitadelle, bekannt für seine innovativen Gerichte mit lokalen Zutaten."
+          },
+          {
+            "name": "Pumphuset",
+            "tip": "Ein Restaurant und eine Bar in Borstahusen mit großartigem Essen und Blick auf den Hafen."
+          },
+          {
+            "name": "Fika in der Innenstadt",
+            "tip": "Es gibt viele gemütliche Cafés rund um den Rathausplatz für eine klassische schwedische Kaffeepause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erikstorps Kungsgård",
+            "tip": "Egy elegáns étterem a Citadella közelében, amely innovatív, helyi alapanyagokból készült ételeiről ismert."
+          },
+          {
+            "name": "Pumphuset",
+            "tip": "Étterem és bár Borstahusenben, remek ételekkel és kilátással a kikötőre."
+          },
+          {
+            "name": "Fika a belvárosban",
+            "tip": "A Városház tér körül számos hangulatos kávézó található egy klasszikus svéd kávészünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Erikstorps Kungsgård",
+            "tip": "Un restaurant de lux lângă Citadelă, cunoscut pentru preparatele sale inovatoare cu ingrediente locale."
+          },
+          {
+            "name": "Pumphuset",
+            "tip": "Un restaurant și bar în Borstahusen cu mâncare excelentă și vedere la port."
+          },
+          {
+            "name": "Fika în centrul orașului",
+            "tip": "Există multe cafenele primitoare în jurul pieței primăriei pentru o pauză de cafea suedeză clasică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Erikstorps Kungsgård",
+            "tip": "An upscale restaurant near the Citadel, known for its innovative dishes using local ingredients."
+          },
+          {
+            "name": "Pumphuset",
+            "tip": "A restaurant and bar in Borstahusen with great food and views of the harbour."
+          },
+          {
+            "name": "Fika in the city center",
+            "tip": "There are many cozy cafés around the main square for a classic Swedish coffee break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang der Küste",
+            "tip": "Die Fahrt zwischen Borstahusen und dem Zentrum bietet wunderschöne Ausblicke auf den Öresund.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Wallgräben der Zitadelle",
+            "tip": "Gehen Sie entlang der ruhigen Wassergräben, um einen friedlichen Moment zu finden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Strand von Borstahusen",
+            "tip": "Kehren Sie am Ende des Tages nach Borstahusen zurück, um einen spektakulären Sonnenuntergang zu erleben.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a part mentén",
+            "tip": "A Borstahusen és a központ közötti út gyönyörű kilátást nyújt az Öresundra.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Citadella vizesárkai",
+            "tip": "Sétáljon a csendes vizesárkok mentén egy békés pillanatért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a Borstahusen strandon",
+            "tip": "Térjen vissza Borstahusenbe a nap végén egy látványos naplementéért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Condus pe coastă",
+            "tip": "Drumul dintre Borstahusen și centru oferă priveliști frumoase ale strâmtorii Öresund.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Șanțurile Cetății",
+            "tip": "Plimbați-vă de-a lungul șanțurilor liniștite pentru un moment de pace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus la plaja Borstahusen",
+            "tip": "Întoarceți-vă la Borstahusen la sfârșitul zilei pentru un apus spectaculos.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal Drive",
+            "tip": "The drive between Borstahusen and the center offers beautiful views of the Öresund.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Citadel Moats",
+            "tip": "Walk along the quiet moats to find a peaceful moment.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at Borstahusen Beach",
+            "tip": "Return to Borstahusen at the end of the day for a spectacular sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Innenstadt",
+            "tip": "Die Hauptstraßen um das Rathaus bieten eine Mischung aus schwedischen Marken und unabhängigen Boutiquen."
+          },
+          {
+            "name": "Gårdsbutiker (Hofläden)",
+            "tip": "Achten Sie auf Hofläden außerhalb der Stadt, die lokale Produkte und Delikatessen verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi üzletek",
+            "tip": "A Városháza körüli főutcák svéd márkák és független butikok keverékét kínálják."
+          },
+          {
+            "name": "Tanyasi boltok (Gårdsbutiker)",
+            "tip": "Keresse a városon kívüli tanyasi boltokat, amelyek helyi termékeket és finomságokat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine din centrul orașului",
+            "tip": "Străzile principale din jurul primăriei oferă un amestec de mărci suedeze și buticuri independente."
+          },
+          {
+            "name": "Magazine de fermă (Gårdsbutiker)",
+            "tip": "Fiți atenți la magazinele de fermă din afara orașului, care vând produse locale și delicatese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Downtown Shops",
+            "tip": "The main streets around the town hall offer a mix of Swedish brands and independent boutiques."
+          },
+          {
+            "name": "Farm Shops (Gårdsbutiker)",
+            "tip": "Look out for farm shops on the outskirts of town selling local produce and delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum kostenpflichtig sein; halten Sie nach Parkautomaten Ausschau.",
+          "Die Cluster-Walking-Philosophie hilft, Parkprobleme zu minimieren. Parken Sie einmal pro Bereich.",
+          "Planen Sie Ihre Fahrten zwischen den Clustern außerhalb der Stoßzeiten, um Verkehr zu vermeiden.",
+          "Ein GPS ist unerlässlich, um sich auf den lokalen Straßen zurechtzufinden."
+        ],
+        "hu": [
+          "A parkolás fizetős lehet a városközpontban; keresse a parkolóautomatákat.",
+          "A klaszteres séta filozófiája segít minimalizálni a parkolási problémákat. Parkoljon egyszer területenként.",
+          "Tervezze az utazásokat a klaszterek között a csúcsforgalmon kívülre, hogy elkerülje a dugókat.",
+          "A GPS elengedhetetlen a helyi utakon való navigáláshoz."
+        ],
+        "ro": [
+          "Parcarea poate fi contra cost în centrul orașului; căutați parcometre.",
+          "Filozofia plimbării în clustere ajută la minimizarea problemelor de parcare. Parcați o dată pe zonă.",
+          "Planificați-vă călătoriile între clustere în afara orelor de vârf pentru a evita traficul.",
+          "Un GPS este esențial pentru a naviga pe drumurile locale."
+        ],
+        "en": [
+          "Parking can be paid in the city center; look for parking meters.",
+          "The cluster-walking philosophy helps minimize parking hassles. Park once per area.",
+          "Plan your drives between clusters outside of rush hours to avoid traffic.",
+          "A GPS is essential for navigating the local roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 7.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster: Stadtzentrum",
+            "hu": "Klaszter: Városközpont",
+            "ro": "Cluster: Centrul orașului",
+            "en": "Cluster: City Center"
+          },
+          "coords": [
+            12.8305,
+            55.8712
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zentralen Platz, um am Rathaus zu beginnen.",
+            "hu": "Menjen busszal a központi térre, és kezdje a Városházánál.",
+            "ro": "Luați un autobuz până în piața centrală pentru a începe de la Primărie.",
+            "en": "Take a bus to the central square to start at the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Sofia Albertina Kirche",
+            "hu": "Sofia Albertina templom",
+            "ro": "Biserica Sofia Albertina",
+            "en": "Sofia Albertina Church"
+          },
+          "coords": [
+            12.833,
+            55.8725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Rathaus aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a Városházától.",
+            "ro": "O plimbare ușoară de la Primărie.",
+            "en": "An easy walk from the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Zitadelle & Museen",
+            "hu": "Klaszter: Citadella és múzeumok",
+            "ro": "Cluster: Citadelă și muzee",
+            "en": "Cluster: Citadel & Museums"
+          },
+          "coords": [
+            12.825,
+            55.868
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen kurzen Bus zum nächsten Cluster. Beginnen Sie mit der Zitadelle.",
+            "hu": "Menjen egy rövid buszúttal a következő klaszterhez. Kezdje a Citadellával.",
+            "ro": "Luați un autobuz pe o distanță scurtă până la următorul cluster. Începeți cu Citadela.",
+            "en": "Take a short bus ride to the next cluster. Start with the Citadel."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Landskrona",
+            "hu": "Landskrona Múzeum",
+            "ro": "Muzeul Landskrona",
+            "en": "Landskrona Museum"
+          },
+          "coords": [
+            12.827,
+            55.869
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf von der Zitadelle entfernt, perfekt für die Mittagszeit.",
+            "hu": "Csak egy kőhajításnyira a Citadellától, tökéletes ebédidőre.",
+            "ro": "La o aruncătură de băț de Citadelă, perfect pentru perioada prânzului.",
+            "en": "A stone's throw from the Citadel, perfect for the lunch period."
+          }
+        },
+        {
+          "name": {
+            "de": "Landskrona Konsthall",
+            "hu": "Landskronai Művészeti Csarnok",
+            "ro": "Galeria de Artă Landskrona",
+            "en": "Landskrona Art Gallery"
+          },
+          "coords": [
+            12.828,
+            55.87
+          ],
+          "category": "museums",
+          "arrive_at": "13:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben dem Museum gelegen, was den Besuch beider Orte sehr einfach macht.",
+            "hu": "Közvetlenül a múzeum mellett található, így mindkét hely könnyen meglátogatható.",
+            "ro": "Situat chiar lângă muzeu, ceea ce face vizitarea ambelor locuri foarte ușoară.",
+            "en": "Located right next to the museum, making it very easy to visit both."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Borstahusen",
+            "hu": "Klaszter: Borstahusen",
+            "ro": "Cluster: Borstahusen",
+            "en": "Cluster: Borstahusen"
+          },
+          "coords": [
+            12.82,
+            55.895
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:19",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus nach Norden zum letzten Cluster des Tages.",
+            "hu": "Menjen busszal észak felé a nap utolsó klaszteréhez.",
+            "ro": "Luați autobuzul spre nord, spre ultimul cluster al zilei.",
+            "en": "Take the bus north to the final cluster of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Borstahusen",
+            "hu": "Borstahuseni kikötő",
+            "ro": "Portul Borstahusen",
+            "en": "Borstahusen Harbour"
+          },
+          "coords": [
+            12.819,
+            55.896
+          ],
+          "category": "port",
+          "arrive_at": "16:13",
+          "stay_min": 57,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den Hafen, genießen Sie ein Eis und die Meeresluft.",
+            "hu": "Sétáljon a kikötőben, egyen egy fagyit és élvezze a tengeri levegőt.",
+            "ro": "Plimbați-vă prin port, bucurați-vă de o înghețată și de aerul mării.",
+            "en": "Stroll around the harbour, enjoy an ice cream, and the sea air."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen von Landskrona, wo Sie das Rathaus und die Kirche zu Fuß erkunden. Eine kurze Busfahrt bringt Sie zum zweiten Cluster, dem Zitadellenbereich, wo der Vormittag der Geschichte und Kunst gewidmet ist. Verbringen Sie Zeit in der Festung und den angrenzenden Museen. Nach dem Mittagessen bringt Sie eine weitere Busfahrt zum Küstencluster Borstahusen. Der Nachmittag wird damit verbracht, durch das charmante Fischerdorf und seinen Hafen zu schlendern und den Tag in einer entspannten maritimen Atmosphäre ausklingen zu lassen.",
+        "hu": "A tömegközlekedéssel töltött nap Landskrona szívében kezdődik, ahol gyalog fedezi fel a Városházát és a templomot. Egy rövid buszút elviszi a második klaszterhez, a Citadella területére, ahol a délelőtt a történelemé és a művészeté. Töltsön időt az erődben és a szomszédos múzeumokban. Ebéd után egy másik busz elviszi a tengerparti Borstahusen klaszterhez. A délutánt a bájos halászfalu és kikötőjének felfedezésével tölti, a napot egy pihentető tengeri hangulatban zárva.",
+        "ro": "Ziua dvs. cu transportul public începe în inima orașului Landskrona, explorând Primăria și biserica pe jos. O scurtă călătorie cu autobuzul vă duce la al doilea cluster, zona Cetății, unde dimineața este dedicată istoriei și artei. Petreceți timp la fortăreață și la muzeele adiacente. După prânz, o altă călătorie cu autobuzul vă duce la clusterul de coastă Borstahusen. După-amiaza este petrecută plimbându-vă prin fermecătorul sat pescăresc și portul său, încheind ziua într-o atmosferă maritimă relaxată.",
+        "en": "Your day on public transport begins in the heart of Landskrona, exploring the Town Hall and church on foot. A short bus ride takes you to the second cluster, the Citadel area, where the morning is dedicated to history and art. Spend time at the fortress and its adjacent museums. After lunch, another bus ride brings you to the coastal cluster of Borstahusen. The afternoon is spent strolling through the charming fishing village and its harbour, ending the day in a relaxed maritime atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Räkmacka",
+            "tip": "Ein klassisches schwedisches Garnelen-Sandwich. Probieren Sie eines in einem Café in Borstahusen."
+          },
+          {
+            "name": "Tagesgericht (Dagens rätt)",
+            "tip": "Halten Sie Ausschau nach Mittagsangeboten in Restaurants in der Nähe der Bushaltestellen, um ein gutes Preis-Leistungs-Verhältnis zu erhalten."
+          },
+          {
+            "name": "Konditori",
+            "tip": "Besuchen Sie eine lokale Konditorei für Kaffee und Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Räkmacka",
+            "tip": "Klasszikus svéd garnélás szendvics. Kóstoljon meg egyet Borstahusen egyik kávézójában."
+          },
+          {
+            "name": "Napi menü (Dagens rätt)",
+            "tip": "Keresse a napi ajánlatokat az éttermekben a buszmegállók közelében a jó ár-érték arányért."
+          },
+          {
+            "name": "Cukrászda (Konditori)",
+            "tip": "Látogasson el egy helyi cukrászdába egy kávéra és süteményre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Räkmacka",
+            "tip": "Un sandviș clasic suedez cu creveți. Încercați unul la o cafenea din Borstahusen."
+          },
+          {
+            "name": "Meniul zilei (Dagens rätt)",
+            "tip": "Căutați oferte de prânz la restaurantele din apropierea stațiilor de autobuz pentru un raport calitate-preț bun."
+          },
+          {
+            "name": "Cofetărie (Konditori)",
+            "tip": "Vizitați o cofetărie locală pentru cafea și produse de patiserie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Räkmacka",
+            "tip": "A classic Swedish shrimp sandwich. Try one at a café in Borstahusen."
+          },
+          {
+            "name": "Dish of the day (Dagens rätt)",
+            "tip": "Look for lunch specials at restaurants near the bus stops for good value."
+          },
+          {
+            "name": "Pastry shop (Konditori)",
+            "tip": "Visit a local pastry shop for coffee and pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt-Fensterplatz",
+            "tip": "Genießen Sie die wechselnde Landschaft von einem Fensterplatz im Bus aus, besonders auf der Strecke nach Borstahusen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Skulpturenpark bei der Konsthall",
+            "tip": "Ein ruhiger Ort, um nach dem Museumsbesuch zu sitzen und nachzudenken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die hinteren Straßen von Borstahusen",
+            "tip": "Verirren Sie sich in den ruhigeren Gassen abseits des Hafens.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ablak melletti ülés a buszon",
+            "tip": "Élvezze a változó tájat egy ablak melletti ülésről a buszon, különösen a Borstahusenbe vezető úton.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Szoborpark a Konsthallnál",
+            "tip": "Egy csendes hely, ahol leülhet és elmélkedhet a múzeumi látogatás után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Borstahusen hátsó utcái",
+            "tip": "Tévedjen el a kikötőtől távolabbi, csendesebb sikátorokban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc la geam în autobuz",
+            "tip": "Bucurați-vă de peisajul în schimbare de la un loc de la geam în autobuz, în special pe ruta spre Borstahusen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Parcul de sculpturi de la Konsthall",
+            "tip": "Un loc liniștit pentru a sta și a reflecta după vizita la muzeu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străzile din spatele Borstahusen",
+            "tip": "Pierdeți-vă pe aleile mai liniștite, departe de port.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus window seat",
+            "tip": "Enjoy the changing scenery from a window seat on the bus, especially on the route to Borstahusen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Sculpture Park at Konsthall",
+            "tip": "A quiet place to sit and reflect after the museum visit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The back streets of Borstahusen",
+            "tip": "Get lost in the quieter alleyways away from the harbour.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pressbyrån",
+            "tip": "Kaufen Sie Ihre Bustickets und Snacks in diesen praktischen Kiosken."
+          },
+          {
+            "name": "Lokale Kunst in Borstahusen",
+            "tip": "Einige Künstler haben kleine Galerien oder Ateliers, die für die Öffentlichkeit zugänglich sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pressbyrån",
+            "tip": "Vásárolja meg a buszjegyeit és a rágcsálnivalókat ezekben a kényelmes kioszkokban."
+          },
+          {
+            "name": "Helyi művészet Borstahusenben",
+            "tip": "Néhány művésznek kis galériája vagy stúdiója van, amely nyitva áll a közönség előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pressbyrån",
+            "tip": "Cumpărați-vă biletele de autobuz și gustările de la aceste chioșcuri convenabile."
+          },
+          {
+            "name": "Artă locală în Borstahusen",
+            "tip": "Unii artiști au mici galerii sau studiouri deschise publicului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pressbyrån",
+            "tip": "Buy your bus tickets and snacks at these convenient kiosks."
+          },
+          {
+            "name": "Local art in Borstahusen",
+            "tip": "Some artists have small galleries or studios open to the public."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um unbegrenzte Fahrten zu erhalten.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne und Routen in Echtzeit zu verfolgen.",
+          "Beachten Sie die Nummer des Busses, den Sie nehmen; verschiedene Routen bedienen dieselben Haltestellen.",
+          "Die Busse sind in der Regel pünktlich, planen Sie also entsprechend."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan buszozáshoz.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendek és útvonalak követéséhez.",
+          "Jegyezze meg a busz számát, amire felszáll; különböző útvonalak ugyanazokat a megállókat szolgálják ki.",
+          "A buszok általában pontosak, ezért tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzul.",
+          "Descărcați aplicația locală de transport public pentru a urmări orarele și rutele în timp real.",
+          "Fiți atenți la numărul autobuzului pe care îl luați; diferite rute deservesc aceleași stații.",
+          "Autobuzele sunt de obicei punctuale, așa că planificați-vă în consecință."
+        ],
+        "en": [
+          "Purchase a day pass for the bus for unlimited travel.",
+          "Download the local public transport app to track real-time schedules and routes.",
+          "Be mindful of the number of the bus you're taking; different routes serve the same stops.",
+          "Buses are generally on time, so plan accordingly."
+        ]
+      }
+    }
+  }
+}

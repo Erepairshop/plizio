@@ -1,0 +1,1448 @@
+{
+  "city_id": "city-tapa",
+  "anchor": {
+    "name": "Tapa",
+    "coords": [
+      25.9583,
+      59.2606
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Platz von Tapa",
+            "hu": "Tapa központi tere",
+            "ro": "Piața Centrală din Tapa",
+            "en": "Central Square of Tapa"
+          },
+          "coords": [
+            25.958,
+            59.2605
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, um die lokale Atmosphäre aufzusaugen.",
+            "hu": "Kezdje a napot itt, hogy magába szívja a helyi hangulatot.",
+            "ro": "Începeți-vă ziua aici pentru a absorbi atmosfera locală.",
+            "en": "Start your day here to soak in the local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Jakobi Kirche",
+            "hu": "Szent Jakab-templom",
+            "ro": "Biserica Sf. Iacob",
+            "en": "St. Jacob's Church"
+          },
+          "coords": [
+            25.9591,
+            59.2625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die schlichte, aber elegante neugotische Architektur.",
+            "hu": "Figyelje meg az egyszerű, de elegáns neogótikus építészetet.",
+            "ro": "Observați arhitectura neogotică simplă, dar elegantă.",
+            "en": "Notice the simple yet elegant Neo-Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Tapa",
+            "hu": "Tapa Múzeum",
+            "ro": "Muzeul din Tapa",
+            "en": "Tapa Museum"
+          },
+          "coords": [
+            25.956,
+            59.26
+          ],
+          "category": "museums",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Eisenbahngeschichte der Stadt.",
+            "hu": "Ismerje meg a város gazdag vasúttörténetét.",
+            "ro": "Descoperiți istoria feroviară bogată a orașului.",
+            "en": "Discover the town's rich railway history."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Tapa",
+            "hu": "Tapa vasútállomás",
+            "ro": "Gara Tapa",
+            "en": "Tapa Railway Station"
+          },
+          "coords": [
+            25.965,
+            59.258
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "12:31",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein Muss für Eisenbahnfans; ein wichtiger Knotenpunkt in Estland.",
+            "hu": "Kötelező látnivaló a vasút rajongóinak; Észtország fontos csomópontja.",
+            "ro": "O vizită obligatorie pentru pasionații de căi ferate; un nod important în Estonia.",
+            "en": "A must-see for railway enthusiasts; a key hub in Estonia."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Militärgelände",
+            "hu": "Történelmi katonai terület",
+            "ro": "Fostul Teren Militar",
+            "en": "Historic Military Grounds"
+          },
+          "coords": [
+            25.96,
+            59.255
+          ],
+          "category": "historical",
+          "arrive_at": "13:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Reflektieren Sie über die sowjetische Vergangenheit Estlands an diesem weitläufigen Ort.",
+            "hu": "Gondolkodjon el Észtország szovjet múltján ezen a kiterjedt helyszínen.",
+            "ro": "Reflectați asupra trecutului sovietic al Estoniei în acest loc vast.",
+            "en": "Reflect on Estonia's Soviet past at this expansive site."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Valgejõgi",
+            "hu": "Valgejõgi folyó",
+            "ro": "Râul Valgejõgi",
+            "en": "Valgejõgi River"
+          },
+          "coords": [
+            25.945,
+            59.265
+          ],
+          "category": "natural-features",
+          "arrive_at": "15:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen ruhigen Spaziergang zum Abschluss des Tages.",
+            "hu": "Tökéletes hely egy csendes sétához a nap lezárásaként.",
+            "ro": "Un loc perfect pentru o plimbare liniștită la sfârșitul zilei.",
+            "en": "A perfect spot for a quiet walk to end your day's exploration."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt am belebten Zentralplatz, dem Herz von Tapa. Am Vormittag erkunden Sie das geistige Erbe in der St.-Jakobi-Kirche, bevor Sie tief in die lokale Geschichte im Stadtmuseum eintauchen. Nach dem Mittagessen steht die Eisenbahngeschichte im Mittelpunkt, mit einem Besuch des Bahnhofs und des nahegelegenen Militärgeländes, die beide die strategische Bedeutung der Stadt unterstreichen. Der Nachmittag klingt mit einem friedlichen Spaziergang entlang des Flusses Valgejõgi aus, der einen natürlichen Kontrast zur industriellen Vergangenheit der Stadt bietet. Am Abend kehren Sie ins Zentrum zurück, um ein herzhaftes estnisches Abendessen zu genießen.",
+        "hu": "Sétája Tapa nyüzsgő központi terén, a város szívében kezdődik. Délelőtt fedezze fel a spirituális örökséget a Szent Jakab-templomban, majd merüljön el a helyi történelemben a városi múzeumban. Ebéd után a vasúti örökség kerül a középpontba a pályaudvar és a közeli katonai terület meglátogatásával, amelyek mind a város stratégiai fontosságát hangsúlyozzák. A délután egy békés sétával zárul a Valgejõgi folyó mentén, amely természetes kontrasztot kínál a város ipari múltjával. Este térjen vissza a központba egy kiadós észt vacsorára.",
+        "ro": "Turul dumneavoastră pietonal începe în Piața Centrală, inima orașului Tapa. În cursul dimineții, explorați moștenirea spirituală la Biserica Sf. Iacob înainte de a aprofunda istoria locală la muzeul orașului. După prânz, accentul se mută pe moștenirea feroviară cu o vizită la gară și la terenul militar din apropiere, ambele subliniind importanța strategică a orașului. După-amiaza se încheie cu o plimbare liniștită de-a lungul râului Valgejõgi, oferind un contrast natural cu trecutul industrial al orașului. Seara, vă întoarceți în centru pentru o cină estoniană consistentă.",
+        "en": "Your walking tour begins in the bustling Central Square, the heart of Tapa. In the morning, you'll explore the spiritual heritage at St. Jacob's Church before diving deep into local history at the town museum. After lunch, the focus shifts to the railway heritage with a visit to the station and the nearby military grounds, both highlighting the town's strategic importance. The afternoon concludes with a peaceful walk along the Valgejõgi River, offering a natural contrast to the town's industrial past. In the evening, return to the center for a hearty Estonian dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Verivorst mit Preiselbeermarmelade",
+            "tip": "Probieren Sie diese estnische Blutwurst, ein traditionelles Wintergericht."
+          },
+          {
+            "name": "Mulgipuder",
+            "tip": "Ein herzhaftes Gersten- und Kartoffelbrei, oft mit Speck serviert."
+          },
+          {
+            "name": "Dunkles Roggenbrot (Leib)",
+            "tip": "Ein Grundnahrungsmittel in Estland, köstlich mit gesalzener Butter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Verivorst vörösáfonya lekvárral",
+            "tip": "Kóstolja meg ezt az észt véres hurkát, egy hagyományos téli ételt."
+          },
+          {
+            "name": "Mulgipuder",
+            "tip": "Kiadós árpa- és burgonyapüré, gyakran szalonnával tálalva."
+          },
+          {
+            "name": "Sötét rozskenyér (Leib)",
+            "tip": "Észtország alapvető élelmiszere, finom sós vajjal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Verivorst cu gem de merișoare",
+            "tip": "Încercați acest cârnat de sânge estonian, un fel de mâncare tradițional de iarnă."
+          },
+          {
+            "name": "Mulgipuder",
+            "tip": "Un piure consistent de orz și cartofi, adesea servit cu slănină."
+          },
+          {
+            "name": "Pâine neagră de secară (Leib)",
+            "tip": "Un aliment de bază în Estonia, delicios cu unt sărat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Verivorst with lingonberry jam",
+            "tip": "Try this Estonian blood sausage, a traditional winter dish."
+          },
+          {
+            "name": "Mulgipuder",
+            "tip": "A hearty barley and potato porridge, often served with bacon."
+          },
+          {
+            "name": "Dark Rye Bread (Leib)",
+            "tip": "A staple in Estonia, delicious with salted butter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Valgejõgi",
+            "tip": "Finden Sie eine ruhige Bank und lauschen Sie dem fließenden Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhofskapelle Tapa",
+            "tip": "Ein Ort der stillen Besinnung und historischen Architektur.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Früher Morgen am Zentralplatz",
+            "tip": "Erleben Sie die Stadt, bevor der Trubel beginnt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Valgejõgi folyó partja",
+            "tip": "Keressen egy csendes padot, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tapa temetőkápolna",
+            "tip": "A csendes elmélkedés és a történelmi építészet helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kora reggel a központi téren",
+            "tip": "Tapasztalja meg a várost, mielőtt a nyüzsgés elkezdődik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Valgejõgi",
+            "tip": "Găsiți o bancă liniștită și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela cimitirului din Tapa",
+            "tip": "Un loc de reflecție tăcută și arhitectură istorică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dimineața devreme în Piața Centrală",
+            "tip": "Experimentați orașul înainte de agitația zilei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of Valgejõgi River",
+            "tip": "Find a quiet bench and listen to the flowing water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tapa Cemetery Chapel",
+            "tip": "A place for quiet reflection and historical architecture.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Early morning in the Central Square",
+            "tip": "Experience the town before the daily hustle begins.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Handwerksprodukten und saisonalen Produkten."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Kaufen Sie einzigartige Souvenirs im Zusammenhang mit der Eisenbahngeschichte von Tapa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi kézműves termékeket és szezonális árukat."
+          },
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Vásároljon egyedi, Tapa vasúttörténetével kapcsolatos ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse artizanale locale și produse de sezon."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Cumpărați suveniruri unice legate de istoria feroviară a orașului Tapa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local handicrafts and seasonal produce."
+          },
+          {
+            "name": "Museum Shop",
+            "tip": "Purchase unique souvenirs related to Tapa's railway history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil der Stadt zu Fuß erkunden werden.",
+          "Die meisten Sehenswürdigkeiten sind klein, sodass Sie nicht lange anstehen müssen.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Einige Wege in der Nähe des Flusses können uneben sein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a város nagy részét gyalog fogja bejárni.",
+          "A legtöbb látnivaló kicsi, így nem kell sorban állnia.",
+          "Ellenőrizze előre a múzeum nyitvatartási idejét.",
+          "A folyó menti ösvények némelyike egyenetlen lehet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți explora cea mai mare parte a orașului pe jos.",
+          "Majoritatea atracțiilor sunt mici, deci nu vă așteptați la cozi.",
+          "Verificați în avans orele de funcționare ale muzeului.",
+          "Unele poteci de lângă râu pot fi denivelate."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be exploring most of the town on foot.",
+          "Most attractions are small, so you won't face long queues.",
+          "Check the museum's opening hours in advance.",
+          "Some paths near the river can be uneven."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Platz von Tapa",
+            "hu": "Tapa központi tere",
+            "ro": "Piața Centrală din Tapa",
+            "en": "Central Square of Tapa"
+          },
+          "coords": [
+            25.958,
+            59.2605
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit Platz, um Ihr Fahrrad kurz abzustellen.",
+            "hu": "Jó kiindulópont, ahol van hely a kerékpár rövid lezárásához.",
+            "ro": "Un punct de plecare bun, cu spațiu pentru a vă parca bicicleta pentru scurt timp.",
+            "en": "A good starting point with space to lock up your bike for a bit."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Jakobi Kirche",
+            "hu": "Szent Jakab-templom",
+            "ro": "Biserica Sf. Iacob",
+            "en": "St. Jacob's Church"
+          },
+          "coords": [
+            25.9591,
+            59.2625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Kirche von außen, bevor Sie Ihre Radtour fortsetzen.",
+            "hu": "Csodálja meg a templomot kívülről, mielőtt folytatná a kerékpártúrát.",
+            "ro": "Admirați biserica din exterior înainte de a continua turul cu bicicleta.",
+            "en": "Admire the church from the outside before continuing your bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Tapa",
+            "hu": "Tapa Múzeum",
+            "ro": "Muzeul din Tapa",
+            "en": "Tapa Museum"
+          },
+          "coords": [
+            25.956,
+            59.26
+          ],
+          "category": "museums",
+          "arrive_at": "10:06",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Planen Sie einen längeren Stopp ein; es gibt Fahrradständer in der Nähe.",
+            "hu": "Tervezzen hosszabb megállót; a közelben vannak kerékpártárolók.",
+            "ro": "Planificați o oprire mai lungă; există suporturi de biciclete în apropiere.",
+            "en": "Plan for a longer stop; there are bike racks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Tapa",
+            "hu": "Tapa vasútállomás",
+            "ro": "Gara Tapa",
+            "en": "Tapa Railway Station"
+          },
+          "coords": [
+            25.965,
+            59.258
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "11:42",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Die flache Umgebung macht die Anfahrt mit dem Fahrrad einfach.",
+            "hu": "A sík terep megkönnyíti a kerékpárral való megközelítést.",
+            "ro": "Terenul plat face ca accesul cu bicicleta să fie ușor.",
+            "en": "The flat terrain makes it an easy ride to the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Militärgelände",
+            "hu": "Történelmi katonai terület",
+            "ro": "Fostul Teren Militar",
+            "en": "Historic Military Grounds"
+          },
+          "coords": [
+            25.968,
+            59.25
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Gelände ist weitläufig und lässt sich gut mit dem Fahrrad erkunden.",
+            "hu": "A terület kiterjedt és kerékpárral jól felfedezhető.",
+            "ro": "Terenul este vast și excelent pentru a fi explorat cu bicicleta.",
+            "en": "The grounds are expansive and excellent for exploring by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Valgejõgi",
+            "hu": "Valgejõgi folyó",
+            "ro": "Râul Valgejõgi",
+            "en": "Valgejõgi River"
+          },
+          "coords": [
+            25.945,
+            59.265
+          ],
+          "category": "natural-features",
+          "arrive_at": "13:42",
+          "stay_min": 90,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Eine erfrischende Fahrt aus der Stadt heraus zu diesem malerischen Ort.",
+            "hu": "Egy frissítő út a városból ehhez a festői helyhez.",
+            "ro": "O plimbare revigorantă în afara orașului către acest loc pitoresc.",
+            "en": "A refreshing ride out of the town center to this scenic spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im Zentrum von Tapa und fahren Sie zur St.-Jakobi-Kirche. Am Vormittag tauchen Sie im Stadtmuseum in die Geschichte ein, bevor Sie zum beeindruckenden Bahnhof radeln, einem Zeugnis der Eisenbahn-Vergangenheit. Nach dem Mittagessen erkunden Sie das weitläufige historische Militärgelände, das sich ideal für eine Erkundung auf zwei Rädern eignet. Die Tour gipfelt in einer längeren, landschaftlich reizvollen Fahrt zum Fluss Valgejõgi, wo Sie sich entspannen und die Natur genießen können. Dieser Ausflug bietet eine perfekte Mischung aus städtischen Sehenswürdigkeiten und ländlicher Ruhe.",
+        "hu": "Kezdje kerékpártúráját Tapa központjából, és tekerjen el a Szent Jakab-templomhoz. Délelőtt merüljön el a történelemben a városi múzeumban, mielőtt a vasúti múlt tanújaként álló lenyűgöző pályaudvarhoz kerekezik. Ebéd után fedezze fel a kiterjedt történelmi katonai területet, amely ideális a két keréken való felfedezéshez. A túra egy hosszabb, festői úttal csúcsosodik ki a Valgejõgi folyóhoz, ahol pihenhet és élvezheti a természetet. Ez az útvonal tökéletes keveréke a városi látnivalóknak és a vidéki nyugalomnak.",
+        "ro": "Începeți turul cu bicicleta din centrul orașului Tapa și mergeți la Biserica Sf. Iacob. Dimineața, aprofundați istoria la muzeul orașului înainte de a pedala spre impresionanta gară, o mărturie a trecutului feroviar. După prânz, explorați vastul teren militar istoric, ideal pentru a fi descoperit pe două roți. Turul culminează cu o plimbare mai lungă și pitorească spre râul Valgejõgi, unde vă puteți relaxa și bucura de natură. Acest itinerar oferă un amestec perfect de atracții urbane și liniște rurală.",
+        "en": "Start your bike tour from Tapa's center, heading to St. Jacob's Church. The morning is for delving into history at the town museum before cycling to the impressive railway station, a testament to the railway past. After lunch, explore the expansive historic military grounds, which are ideal for discovery on two wheels. The tour culminates in a longer, scenic ride to the Valgejõgi River, where you can relax and enjoy nature. This itinerary offers a perfect blend of urban sights and rural tranquility."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pirukad",
+            "tip": "Herzhafte estnische Gebäcke, perfekt als schneller Snack."
+          },
+          {
+            "name": "Kama",
+            "tip": "Ein traditionelles Dessert aus geröstetem Getreide, erfrischend und einzigartig."
+          },
+          {
+            "name": "Lokales Craft-Bier",
+            "tip": "Fragen Sie in einem lokalen Café nach Bieren aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pirukad",
+            "tip": "Kiadós észt péksütemények, tökéletesek egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Kama",
+            "tip": "Hagyományos desszert pörkölt gabonából, frissítő és egyedi."
+          },
+          {
+            "name": "Helyi kézműves sör",
+            "tip": "Érdeklődjön a helyi sörökről egy kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pirukad",
+            "tip": "Produse de patiserie estoniene sărate, perfecte pentru o gustare rapidă."
+          },
+          {
+            "name": "Kama",
+            "tip": "Un desert tradițional din cereale prăjite, răcoritor și unic."
+          },
+          {
+            "name": "Bere artizanală locală",
+            "tip": "Întrebați la o cafenea locală despre berile din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pirukad",
+            "tip": "Savory Estonian pastries, perfect for a quick snack."
+          },
+          {
+            "name": "Kama",
+            "tip": "A traditional dessert made from roasted grains, refreshing and unique."
+          },
+          {
+            "name": "Local Craft Beer",
+            "tip": "Ask at a local pub or cafe for beers from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pfad am Fluss Valgejõgi",
+            "tip": "Radfahren Sie langsam und genießen Sie die friedliche Umgebung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tapa Musikschule (außen)",
+            "tip": "Ein ruhiger Ort, um die Architektur zu bewundern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedhofskapelle Tapa",
+            "tip": "Halten Sie für einen Moment der Ruhe inne.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ösvény a Valgejõgi folyó mentén",
+            "tip": "Tekerjen lassan, és élvezze a békés környezetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tapa Zeneiskola (kívülről)",
+            "tip": "Csendes hely az építészet megcsodálására.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tapa temetőkápolna",
+            "tip": "Álljon meg egy pillanatra a csendért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă de-a lungul râului Valgejõgi",
+            "tip": "Pedalați încet și bucurați-vă de peisajul liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Școala de Muzică Tapa (exterior)",
+            "tip": "Un loc liniștit pentru a admira arhitectura.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Capela cimitirului din Tapa",
+            "tip": "Opriți-vă pentru un moment de reculegere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Path along Valgejõgi River",
+            "tip": "Cycle slowly and enjoy the peaceful surroundings.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tapa Music School (exterior)",
+            "tip": "A quiet spot to admire the architecture.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tapa Cemetery Chapel",
+            "tip": "Pause for a moment of quiet contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Lokale Lebensmittelgeschäfte",
+            "tip": "Kaufen Sie Snacks und Getränke für Ihre Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha kiegészítőre vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Helyi élelmiszerboltok",
+            "tip": "Vásároljon rágcsálnivalókat és italokat az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          },
+          {
+            "name": "Magazine alimentare locale",
+            "tip": "Cumpărați gustări și băuturi pentru plimbarea dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "In case you need any accessories or a quick fix."
+          },
+          {
+            "name": "Local Grocery Stores",
+            "tip": "Stock up on snacks and drinks for your ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Die Stadt ist größtenteils flach, was das Radfahren erleichtert.",
+          "Planen Sie Ihre Route zum Fluss, da einige Wege möglicherweise nicht asphaltiert sind."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Hozzon magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a megállóknál.",
+          "A város többnyire sík, ami megkönnyíti a kerékpározást.",
+          "Tervezze meg az útvonalat a folyóhoz, mivel néhány ösvény lehet, hogy nem aszfaltozott."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Aduceți un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Orașul este în mare parte plat, ceea ce face ciclismul ușor.",
+          "Planificați-vă traseul spre râu, deoarece unele poteci s-ar putea să nu fie asfaltate."
+        ],
+        "en": [
+          "Check your tire pressure before heading out.",
+          "Bring a lock to secure your bike at stops.",
+          "The town is mostly flat, which makes for easy cycling.",
+          "Plan your route to the river, as some paths may not be paved."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare Centrală",
+            "en": "Central Parking"
+          },
+          "coords": [
+            25.9575,
+            59.261
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel az első látnivaló-csoportot.",
+            "ro": "Parcați aici pentru a explora primul grup de atracții pe jos.",
+            "en": "Park here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentraler Platz von Tapa",
+            "hu": "Tapa központi tere",
+            "ro": "Piața Centrală din Tapa",
+            "en": "Central Square of Tapa"
+          },
+          "coords": [
+            25.958,
+            59.2605
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:14",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum Herzen der Stadt.",
+            "hu": "Egy rövid séta a parkolótól a város szívébe.",
+            "ro": "O scurtă plimbare de la parcare până în inima orașului.",
+            "en": "A short walk from the parking spot to the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Jakobi Kirche",
+            "hu": "Szent Jakab-templom",
+            "ro": "Biserica Sf. Iacob",
+            "en": "St. Jacob's Church"
+          },
+          "coords": [
+            25.9591,
+            59.2625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Platz aus zu erreichen.",
+            "hu": "Könnyen megközelíthető gyalog a térről.",
+            "ro": "Ușor accesibil pe jos din piață.",
+            "en": "Easily reachable on foot from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Tapa",
+            "hu": "Tapa Múzeum",
+            "ro": "Muzeul din Tapa",
+            "en": "Tapa Museum"
+          },
+          "coords": [
+            25.956,
+            59.26
+          ],
+          "category": "museums",
+          "arrive_at": "10:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt in diesem zentralen Rundgang.",
+            "hu": "Az utolsó megálló ebben a központi sétában.",
+            "ro": "Ultima oprire în acest tur pietonal central.",
+            "en": "The final stop in this central walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Tapa",
+            "hu": "Tapa vasútállomás",
+            "ro": "Gara Tapa",
+            "en": "Tapa Railway Station"
+          },
+          "coords": [
+            25.965,
+            59.258
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "12:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Hier gibt es normalerweise Parkplätze.",
+            "hu": "Vezessen a következő látnivaló-csoporthoz. Itt általában van parkoló.",
+            "ro": "Conduceți spre următorul grup de atracții. De obicei, aici se găsesc locuri de parcare.",
+            "en": "Drive to the next cluster. Parking is usually available here."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Militärgelände",
+            "hu": "Történelmi katonai terület",
+            "ro": "Fostul Teren Militar",
+            "en": "Historic Military Grounds"
+          },
+          "coords": [
+            25.96,
+            59.255
+          ],
+          "category": "historical",
+          "arrive_at": "13:08",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses weitläufige Gelände zu Fuß, nachdem Sie in der Nähe des Bahnhofs geparkt haben.",
+            "hu": "Fedezze fel ezt a tágas területet gyalog, miután a pályaudvar közelében parkolt.",
+            "ro": "Explorați acest sit vast pe jos după ce ați parcat lângă gară.",
+            "en": "Explore this vast site on foot after parking near the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Valgejõgi",
+            "hu": "Valgejõgi folyó",
+            "ro": "Râul Valgejõgi",
+            "en": "Valgejõgi River"
+          },
+          "coords": [
+            25.945,
+            59.265
+          ],
+          "category": "natural-features",
+          "arrive_at": "15:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt aus der Stadt für einen entspannenden Abschluss des Tages.",
+            "hu": "Egy rövid autóút a városból a nap pihentető lezárásához.",
+            "ro": "O scurtă călătorie cu mașina în afara orașului pentru o încheiere relaxantă a zilei.",
+            "en": "A short drive out of town for a relaxing end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Zentrum von Tapa parken. Der Vormittag ist einem Spaziergang gewidmet, der Sie vom Zentralplatz zur St.-Jakobi-Kirche und ins aufschlussreiche Stadtmuseum führt. Nach diesem kulturellen Eintauchen kehren Sie zu Ihrem Auto zurück und fahren zum zweiten Cluster: dem historischen Bahnhof und dem nahegelegenen Militärgelände, die von der strategischen Bedeutung Tapas zeugen. Am späten Nachmittag unternehmen Sie eine kurze Fahrt zum Fluss Valgejõgi, einem perfekten Ort, um sich zu entspannen und die estnische Natur zu genießen, bevor Sie den Tag beenden.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját Tapa központjában. A délelőtt egy sétáé, amely a központi tértől a Szent Jakab-templomig és a tanulságos városi múzeumig vezet. A kulturális feltöltődés után térjen vissza autójához, és vezessen a második látnivaló-csoporthoz: a történelmi pályaudvarhoz és a közeli katonai területhez, amelyek Tapa stratégiai jelentőségéről tanúskodnak. Késő délután tegyen egy rövid autóutat a Valgejõgi folyóhoz, amely tökéletes hely a pihenésre és az észt természet élvezetére a nap lezárása előtt.",
+        "ro": "Începeți ziua parcând mașina în centrul orașului Tapa. Dimineața este dedicată unei plimbări care vă poartă de la Piața Centrală la Biserica Sf. Iacob și la muzeul orașului, plin de informații. După această imersiune culturală, reveniți la mașină și conduceți spre al doilea grup de atracții: gara istorică și terenul militar din apropiere, martori ai importanței strategice a orașului Tapa. Spre sfârșitul după-amiezii, faceți o scurtă călătorie cu mașina până la râul Valgejõgi, un loc perfect pentru a vă relaxa și a vă bucura de natura estoniană înainte de a încheia ziua.",
+        "en": "Start your day by parking your car in the center of Tapa. The morning is dedicated to a walking cluster, taking you from the Central Square to St. Jacob's Church and the insightful town museum. After this cultural immersion, return to your car and drive to the second cluster: the historic railway station and the nearby military grounds, which testify to Tapa's strategic importance. In the late afternoon, take a short drive to the Valgejõgi River, a perfect spot to unwind and enjoy the Estonian nature before concluding your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seljanka",
+            "tip": "Eine reichhaltige, säuerliche Suppe, perfekt für ein Mittagessen."
+          },
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Suchen Sie nach Restaurants, die frischen Fisch aus lokalen Seen und Flüssen servieren."
+          },
+          {
+            "name": "Kohuke",
+            "tip": "Ein mit Schokolade überzogener Quark-Snack, den man in jedem Supermarkt findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szoljanka",
+            "tip": "Gazdag, savanykás leves, tökéletes ebédre."
+          },
+          {
+            "name": "Grillezett hal",
+            "tip": "Keressen olyan éttermeket, amelyek friss halat szolgálnak fel a helyi tavakból és folyókból."
+          },
+          {
+            "name": "Kohuke",
+            "tip": "Csokoládéval bevont túrós snack, minden szupermarketben megtalálható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Solyanka",
+            "tip": "O supă bogată și acrișoară, perfectă pentru prânz."
+          },
+          {
+            "name": "Pește la grătar",
+            "tip": "Căutați restaurante care servesc pește proaspăt din lacurile și râurile locale."
+          },
+          {
+            "name": "Kohuke",
+            "tip": "O gustare din brânză de vaci glazurată cu ciocolată, găsită în orice supermarket."
+          }
+        ],
+        "en": [
+          {
+            "name": "Solyanka",
+            "tip": "A rich, sour soup, perfect for a filling lunch."
+          },
+          {
+            "name": "Grilled Fish",
+            "tip": "Look for restaurants serving fresh fish from local lakes and rivers."
+          },
+          {
+            "name": "Kohuke",
+            "tip": "A chocolate-glazed curd snack, a must-try found in any supermarket."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Naturpfade am Valgejõgi",
+            "tip": "Parken Sie und machen Sie einen langen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof hinter der St. Jakobi Kirche",
+            "tip": "Ein Ort der Ruhe im Stadtzentrum.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussicht vom Militärgelände",
+            "tip": "Bietet weite Ausblicke über die Landschaft.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Természetösvények a Valgejõgi mentén",
+            "tip": "Parkoljon le, és tegyen egy hosszú sétát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Temető a Szent Jakab-templom mögött",
+            "tip": "A béke szigete a városközpontban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a katonai területről",
+            "tip": "Széles kilátást nyújt a tájra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteci naturale lângă Valgejõgi",
+            "tip": "Parcați mașina și faceți o plimbare lungă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul din spatele Bisericii Sf. Iacob",
+            "tip": "Un loc de liniște în centrul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de pe terenul militar",
+            "tip": "Oferă priveliști largi asupra peisajului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nature trails at Valgejõgi",
+            "tip": "Park the car and go for a long walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery behind St. Jacob's Church",
+            "tip": "A spot of tranquility in the town center.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the Military Grounds",
+            "tip": "Offers wide views over the landscape.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden außerhalb der Stadt",
+            "tip": "Halten Sie auf Ihrer Fahrt Ausschau nach Schildern für frische Produkte."
+          },
+          {
+            "name": "Handwerksläden im Zentrum",
+            "tip": "Stöbern Sie nach authentischen estnischen Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a városon kívül",
+            "tip": "Figyelje a friss termékeket hirdető táblákat útközben."
+          },
+          {
+            "name": "Kézműves boltok a központban",
+            "tip": "Böngésszen autentikus észt ajándéktárgyak között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă în afara orașului",
+            "tip": "Fiți atenți la indicatoarele pentru produse proaspete în timpul călătoriei."
+          },
+          {
+            "name": "Magazine de artizanat în centru",
+            "tip": "Căutați suveniruri estoniene autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops outside town",
+            "tip": "Look for signs for fresh produce during your drives."
+          },
+          {
+            "name": "Handicraft stores in the center",
+            "tip": "Browse for authentic Estonian souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Tapa ist im Allgemeinen einfach und kostenlos.",
+          "Planen Sie Ihre Cluster, um unnötiges Fahren zu vermeiden.",
+          "Das Auto gibt Ihnen die Flexibilität, auch weiter entfernte Naturgebiete zu erkunden.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen, besonders in Wohngebieten."
+        ],
+        "hu": [
+          "A parkolás Tapában általában egyszerű és ingyenes.",
+          "Tervezze meg a látnivaló-csoportokat a felesleges autózás elkerülése érdekében.",
+          "Az autó rugalmasságot ad a távolabbi természeti területek felfedezéséhez is.",
+          "Ügyeljen a sebességkorlátozásokra, különösen a lakóövezetekben."
+        ],
+        "ro": [
+          "Parcarea în Tapa este în general ușoară și gratuită.",
+          "Planificați-vă grupurile de atracții pentru a evita condusul inutil.",
+          "Mașina vă oferă flexibilitatea de a explora și zonele naturale mai îndepărtate.",
+          "Fiți atenți la limitele de viteză, mai ales în zonele rezidențiale."
+        ],
+        "en": [
+          "Parking in Tapa is generally easy and free.",
+          "Plan your clusters to avoid unnecessary driving.",
+          "The car gives you the flexibility to explore natural areas further afield.",
+          "Be mindful of speed limits, especially in residential areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Platz von Tapa",
+            "hu": "Tapa központi tere",
+            "ro": "Piața Centrală din Tapa",
+            "en": "Central Square of Tapa"
+          },
+          "coords": [
+            25.958,
+            59.2605
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die meisten Buslinien halten in der Nähe des Platzes.",
+            "hu": "A legtöbb buszjárat a tér közelében áll meg.",
+            "ro": "Majoritatea liniilor de autobuz opresc lângă piață.",
+            "en": "Most bus lines will stop near the square."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Jakobi Kirche",
+            "hu": "Szent Jakab-templom",
+            "ro": "Biserica Sf. Iacob",
+            "en": "St. Jacob's Church"
+          },
+          "coords": [
+            25.9591,
+            59.2625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus.",
+            "hu": "Egy rövid séta a tértől.",
+            "ro": "O scurtă plimbare de la piață.",
+            "en": "A short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Tapa",
+            "hu": "Tapa Múzeum",
+            "ro": "Muzeul din Tapa",
+            "en": "Tapa Museum"
+          },
+          "coords": [
+            25.956,
+            59.26
+          ],
+          "category": "museums",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie hier Ihren ersten Spaziergang.",
+            "hu": "Fejezze be itt az első sétáját.",
+            "ro": "Încheiați aici primul grup de atracții pietonale.",
+            "en": "Finish your first walking cluster here."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Tapa",
+            "hu": "Tapa vasútállomás",
+            "ro": "Gara Tapa",
+            "en": "Tapa Railway Station"
+          },
+          "coords": [
+            25.965,
+            59.258
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "12:27",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus vom Zentrum zum Bahnhofsbereich.",
+            "hu": "Vegyen egy helyi buszt a központból a pályaudvar környékére.",
+            "ro": "Luați un autobuz local din centru spre zona gării.",
+            "en": "Take a local bus from the center to the station area."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Militärgelände",
+            "hu": "Történelmi katonai terület",
+            "ro": "Fostul Teren Militar",
+            "en": "Historic Military Grounds"
+          },
+          "coords": [
+            25.96,
+            59.255
+          ],
+          "category": "historical",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a pályaudvarról.",
+            "ro": "Ușor accesibil pe jos de la gară.",
+            "en": "Easily walkable from the railway station."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedhofskapelle Tapa",
+            "hu": "Tapa temetőkápolna",
+            "ro": "Capela cimitirului din Tapa",
+            "en": "Tapa Cemetery Chapel"
+          },
+          "coords": [
+            25.972,
+            59.256
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um den Erkundungstag zu beenden.",
+            "hu": "Egy békés hely a felfedező nap befejezéséhez.",
+            "ro": "Un loc liniștit pentru a încheia ziua de explorare.",
+            "en": "A peaceful place to conclude the day's exploration."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einem Spaziergang durch das Zentrum von Tapa, bei dem Sie den Zentralplatz, die Kirche und das Museum erkunden. Nach dem Mittagessen nehmen Sie einen lokalen Bus, der Sie zum zweiten Cluster bringt: dem Bahnhofsviertel. Hier tauchen Sie in die industrielle und militärische Vergangenheit der Stadt ein, mit einem Spaziergang vom Bahnhof zum historischen Militärgelände. Ein weiterer kurzer Spaziergang führt Sie zur ruhigen Friedhofskapelle, einem Ort der Besinnung. Am Abend bringt Sie ein Bus zurück ins Zentrum, wo Sie den Tag ausklingen lassen können.",
+        "hu": "A nap egy sétával kezdődik Tapa központjában, felfedezve a központi teret, a templomot és a múzeumot. Ebéd után egy helyi buszra száll, amely elviszi a második látnivaló-csoporthoz: a pályaudvar negyedébe. Itt elmerülhet a város ipari és katonai múltjában egy sétával a pályaudvartól a történelmi katonai területig. Egy másik rövid séta a csendes temetőkápolnához vezet, amely az elmélyülés helyszíne. Este egy busz viszi vissza a központba, ahol lezárhatja a napot.",
+        "ro": "Ziua începe cu o plimbare prin centrul orașului Tapa, explorând Piața Centrală, biserica și muzeul. După prânz, luați un autobuz local care vă duce la al doilea grup de atracții: cartierul gării. Aici, vă veți cufunda în trecutul industrial și militar al orașului, cu o plimbare de la gară la terenul militar istoric. O altă scurtă plimbare vă va duce la liniștita capelă a cimitirului, un loc de reculegere. Seara, un autobuz vă va duce înapoi în centru pentru a încheia ziua.",
+        "en": "Your day starts with a walking tour of Tapa's center, exploring the Central Square, church, and museum. After lunch, you'll hop on a local bus to take you to the second cluster: the railway station district. Here, you'll delve into the town's industrial and military past with a walk from the station to the historic military grounds. Another short walk takes you to the serene Cemetery Chapel, a place for contemplation. In the evening, a bus will take you back to the center to wrap up your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Imbiss am Bahnhof",
+            "tip": "Schnappen Sie sich einen schnellen und authentischen Bissen, während Sie auf Ihren Bus warten."
+          },
+          {
+            "name": "Süßkartoffel-Pommes",
+            "tip": "Eine beliebte moderne Variante, die in vielen Cafés erhältlich ist."
+          },
+          {
+            "name": "Kringel",
+            "tip": "Ein süßes, geflochtenes Kardamombrot, das oft zu besonderen Anlässen gegessen wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfé a pályaudvaron",
+            "tip": "Kapjon be egy gyors és autentikus falatot, amíg a buszra vár."
+          },
+          {
+            "name": "Édesburgonya-hasábburgonya",
+            "tip": "Népszerű modern köret, sok kávézóban kapható."
+          },
+          {
+            "name": "Kringel",
+            "tip": "Édes, fonott kardamomos kenyér, amelyet gyakran különleges alkalmakkor fogyasztanak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustare la gară",
+            "tip": "Luați o gustare rapidă și autentică în timp ce așteptați autobuzul."
+          },
+          {
+            "name": "Cartofi dulci prăjiți",
+            "tip": "O variantă modernă populară, disponibilă în multe cafenele."
+          },
+          {
+            "name": "Kringel",
+            "tip": "O pâine dulce, împletită, cu cardamom, adesea consumată la ocazii speciale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snack at the station",
+            "tip": "Grab a quick and authentic bite while waiting for your bus."
+          },
+          {
+            "name": "Sweet potato fries",
+            "tip": "A popular modern side dish available at many cafes."
+          },
+          {
+            "name": "Kringel",
+            "tip": "A sweet, braided cardamom bread, often eaten on special occasions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage eines Busses",
+            "tip": "Beobachten Sie die Stadt aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank in der Nähe der Musikschule",
+            "tip": "Lauschen Sie den Klängen, die aus den Fenstern dringen.",
+            "emoji": "🎶"
+          },
+          {
+            "name": "Spaziergang um den Friedhof",
+            "tip": "Ein Ort des Friedens und der Geschichte.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy busz emelete",
+            "tip": "Nézze a várost egy másik perspektívából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a Zeneiskola közelében",
+            "tip": "Hallgassa az ablakokból kiszűrődő hangokat.",
+            "emoji": "🎶"
+          },
+          {
+            "name": "Séta a temető körül",
+            "tip": "A béke és a történelem helye.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz",
+            "tip": "Priviți orașul dintr-o perspectivă diferită.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă lângă Școala de Muzică",
+            "tip": "Ascultați sunetele care vin de la ferestre.",
+            "emoji": "🎶"
+          },
+          {
+            "name": "Plimbare în jurul cimitirului",
+            "tip": "Un loc de pace și istorie.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of a bus",
+            "tip": "Watch the town go by from a different perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench near the Music School",
+            "tip": "Listen for the sounds drifting from the windows.",
+            "emoji": "🎶"
+          },
+          {
+            "name": "Walk around the cemetery",
+            "tip": "A place of peace and history.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie Zeitschriften oder Snacks für die Fahrt."
+          },
+          {
+            "name": "Kleine Boutiquen im Zentrum",
+            "tip": "Entdecken Sie einzigartige Kleidung oder Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon magazinokat vagy rágcsálnivalókat az útra."
+          },
+          {
+            "name": "Kis butikok a központban",
+            "tip": "Fedezzen fel egyedi ruhákat vagy ajándékokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați reviste sau gustări pentru călătorie."
+          },
+          {
+            "name": "Mici buticuri în centru",
+            "tip": "Descoperiți haine sau cadouri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Pick up magazines or snacks for the ride."
+          },
+          {
+            "name": "Small boutiques in the center",
+            "tip": "Discover unique clothing or gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne, da die Frequenz gering sein kann.",
+          "Haben Sie etwas Kleingeld für Bustickets dabei.",
+          "Eine Tageskarte kann günstiger sein, wenn Sie mehrere Fahrten planen.",
+          "Die Haltestellen sind nicht immer deutlich gekennzeichnet, fragen Sie also im Zweifelsfall den Fahrer."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszmenetrendekről, mivel a járatok ritkák lehetnek.",
+          "Legyen Önnél aprópénz a buszjegyekhez.",
+          "Egy napijegy olcsóbb lehet, ha több utazást tervez.",
+          "A megállók nem mindig vannak egyértelműen jelezve, ezért kétség esetén kérdezze meg a sofőrt."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor în avans, deoarece frecvența poate fi redusă.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz.",
+          "Un abonament de o zi poate fi mai ieftin dacă plănuiți mai multe călătorii.",
+          "Stațiile nu sunt întotdeauna marcate clar, așa că întrebați șoferul dacă aveți dubii."
+        ],
+        "en": [
+          "Check bus schedules in advance as service might be infrequent.",
+          "Have some small change ready for bus tickets.",
+          "A day pass might be cheaper if you plan on making several trips.",
+          "Stops are not always clearly marked, so ask the driver if in doubt."
+        ]
+      }
+    }
+  }
+}

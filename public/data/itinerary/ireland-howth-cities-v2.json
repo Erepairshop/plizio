@@ -1,0 +1,1428 @@
+{
+  "city_id": "ireland-howth-cities-v2",
+  "anchor": {
+    "name": "Howth",
+    "coords": [
+      -6.07,
+      53.389
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Howth",
+            "hu": "Howth kikötője",
+            "ro": "Portul Howth",
+            "en": "Howth Harbour"
+          },
+          "coords": [
+            -6.066,
+            53.391
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie die Robben, die auf Fischabfälle von den Trawlern warten.",
+            "hu": "Figyeld a fókákat, amint a halászhajókról lehulló maradékra várnak.",
+            "ro": "Urmăriți focile care așteaptă resturi de pește de la traulere.",
+            "en": "Watch the seals waiting for fish scraps from the trawlers."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Marien-Abtei",
+            "hu": "Szent Mária apátság",
+            "ro": "Abația Sf. Maria",
+            "en": "St. Mary's Abbey"
+          },
+          "coords": [
+            -6.064,
+            53.388
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie das Grab von Christopher St. Lawrence, 8. Baron Howth.",
+            "hu": "Keresd meg Christopher St. Lawrence, Howth 8. bárójának sírját.",
+            "ro": "Căutați mormântul lui Christopher St. Lawrence, al 8-lea Baron de Howth.",
+            "en": "Look for the tomb of Christopher St. Lawrence, 8th Baron of Howth."
+          }
+        },
+        {
+          "name": {
+            "de": "Claremont Strand",
+            "hu": "Claremont strand",
+            "ro": "Plaja Claremont",
+            "en": "Claremont Beach"
+          },
+          "coords": [
+            -6.08,
+            53.386
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für einen entspannten Spaziergang bei Ebbe.",
+            "hu": "Apálykor ideális egy pihentető sétára.",
+            "ro": "Ideal pentru o plimbare relaxantă la reflux.",
+            "en": "Ideal for a relaxing walk during low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Meer",
+            "hu": "Tengerparti ebéd",
+            "ro": "Prânz pe malul mării",
+            "en": "Seaside Lunch"
+          },
+          "coords": [
+            -6.068,
+            53.39
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie den frischen Fang des Tages in einem der Pubs am Hafen.",
+            "hu": "Kóstold meg a nap friss fogását a kikötő egyik pubjában.",
+            "ro": "Încercați captura proaspătă a zilei la unul dintre pub-urile din port.",
+            "en": "Try the fresh catch of the day at one of the harbour pubs."
+          }
+        },
+        {
+          "name": {
+            "de": "Howth Gipfel",
+            "hu": "Howth-csúcs",
+            "ro": "Vârful Howth",
+            "en": "Howth Summit"
+          },
+          "coords": [
+            -6.074,
+            53.376
+          ],
+          "category": "natural features",
+          "arrive_at": "14:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Klippenweg bietet spektakuläre Ausblicke auf die Bucht von Dublin.",
+            "hu": "A sziklaösvényről látványos kilátás nyílik a Dublini-öbölre.",
+            "ro": "Poteca de pe stâncă oferă vederi spectaculoase ale golfului Dublin.",
+            "en": "The cliff path walk offers spectacular views of Dublin Bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Martello Turm Howth",
+            "hu": "Howth Martello-torony",
+            "ro": "Turnul Martello Howth",
+            "en": "Martello Tower Howth"
+          },
+          "coords": [
+            -6.06,
+            53.39
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Heute beherbergt er ein Museum für Radio-Nostalgie.",
+            "hu": "Ma egy rádió-nosztalgia múzeumnak ad otthont.",
+            "ro": "Astăzi găzduiește un muzeu de nostalgie radio.",
+            "en": "Today it houses a museum of radio nostalgia."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Howth beginnt mit der frischen Meeresbrise im geschäftigen Hafen, wo Robben spielen. Nach einem kurzen Spaziergang bergauf erkunden Sie die alten Ruinen der St. Mary's Abbey und genießen die Ruhe. Am Mittag schlendern Sie entlang des Claremont Beach, bevor Sie sich mit einem herzhaften Meeresfrüchte-Mittagessen stärken. Der Nachmittag ist für den belebenden Klippenpfad zum Howth Summit reserviert, der mit atemberaubenden Panoramablicken belohnt. Der Tag endet mit einem Abstieg zurück zum Dorf und einem Blick auf den historischen Martello Tower, während die Sonne untergeht.",
+        "hu": "A howth-i nap a nyüzsgő kikötő friss tengeri szellőjével kezdődik, ahol fókák játszanak. Egy rövid séta után felfedezheti a Szent Mária apátság ősi romjait. Délben a Claremont strandon sétálgat, mielőtt megerősítené magát egy kiadós tengeri herkentyűs ebéddel. A délutánt a Howth-csúcsra vezető sziklaösvénynek szentelik, amely lélegzetelállító panorámával jutalmaz. A nap a faluba való visszatéréssel és a történelmi Martello-torony megtekintésével zárul naplementekor.",
+        "ro": "Ziua dvs. în Howth începe cu briza proaspătă a mării în portul plin de viață. După o scurtă plimbare la deal, explorați ruinele antice ale Abației Sf. Maria. La amiază, vă plimbați pe plaja Claremont înainte de a vă bucura de un prânz copios cu fructe de mare. După-amiaza este rezervată pentru plimbarea pe poteca de pe stâncă spre Vârful Howth, care răsplătește cu vederi panoramice uluitoare. Ziua se încheie cu o coborâre înapoi în sat și o privire la Turnul Martello istoric.",
+        "en": "Your day in Howth begins with the fresh sea breeze at the bustling harbour. After a short uphill walk, you'll explore the ancient ruins of St. Mary's Abbey. At noon, you'll stroll along Claremont Beach before enjoying a hearty seafood lunch. The afternoon is dedicated to the cliff path walk to Howth Summit, which rewards with breathtaking panoramic views. The day concludes with a descent back to the village and a look at the historic Martello Tower as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisch & Chips von Beshoffs",
+            "tip": "Ein Klassiker aus Howth, den man am besten am Pier isst."
+          },
+          {
+            "name": "Meeresfrüchte-Chowder",
+            "tip": "Eine cremige Suppe, perfekt für einen kühlen Tag."
+          },
+          {
+            "name": "Dublin Bay Prawns",
+            "tip": "Lokal gefangen und unglaublich frisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish & Chips a Beshoffs-tól",
+            "tip": "Egy howth-i klasszikus, amit a mólón a legjobb elfogyasztani."
+          },
+          {
+            "name": "Tengeri herkentyűs chowder",
+            "tip": "Krémes leves, tökéletes egy hűvös napra."
+          },
+          {
+            "name": "Dublin-öbölbeli garnélarák",
+            "tip": "Helyben fogott és hihetetlenül friss."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish & Chips de la Beshoffs",
+            "tip": "Un clasic din Howth, cel mai bine savurat pe dig."
+          },
+          {
+            "name": "Ciorbă de fructe de mare",
+            "tip": "O supă cremoasă, perfectă pentru o zi răcoroasă."
+          },
+          {
+            "name": "Creveți din Golful Dublin",
+            "tip": "Prinși local și incredibil de proaspeți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish & Chips from Beshoffs",
+            "tip": "A Howth classic, best eaten on the pier."
+          },
+          {
+            "name": "Seafood Chowder",
+            "tip": "A creamy soup perfect for a chilly day."
+          },
+          {
+            "name": "Dublin Bay Prawns",
+            "tip": "Locally caught and incredibly fresh."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bog of Frogs Loop",
+            "tip": "Ein ruhigerer Teil des Klippenwegs mit einzigartiger Flora.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Howth Summit",
+            "tip": "Beobachten Sie, wie die Lichter von Dublin zu funkeln beginnen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten von Howth Castle",
+            "tip": "Ein friedlicher Spaziergang durch die Rhododendron-Gärten (saisonal).",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bog of Frogs túraútvonal",
+            "tip": "A sziklaösvény egy csendesebb része egyedi növényvilággal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Howth-csúcson",
+            "tip": "Nézd, ahogy Dublin fényei elkezdenek csillogni.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Howth-kastély kertjei",
+            "tip": "Békés séta a rododendronkertekben (szezonális).",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Circuitul Bog of Frogs",
+            "tip": "O parte mai liniștită a potecii de pe stâncă, cu o floră unică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus la Vârful Howth",
+            "tip": "Urmăriți cum luminile Dublinului încep să sclipească.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Castelului Howth",
+            "tip": "O plimbare liniștită prin grădinile de rododendroni (sezonier).",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bog of Frogs Loop",
+            "tip": "A quieter part of the cliff walk with unique flora.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at Howth Summit",
+            "tip": "Watch as the lights of Dublin begin to twinkle.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Howth Castle Gardens",
+            "tip": "A peaceful walk through the rhododendron gardens (seasonal).",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Howth Market",
+            "tip": "Lokales Handwerk, Bio-Lebensmittel und einzigartige Geschenke (Wochenenden)."
+          },
+          {
+            "name": "Dorans on the Pier",
+            "tip": "Kaufen Sie frischen oder geräucherten Fisch direkt vom Boot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Howth-i piac",
+            "tip": "Helyi kézműves termékek, bioélelmiszerek és egyedi ajándékok (hétvégén)."
+          },
+          {
+            "name": "Dorans a mólón",
+            "tip": "Vásárolj friss vagy füstölt halat közvetlenül a hajóról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Howth",
+            "tip": "Artizanat local, alimente organice și cadouri unice (weekenduri)."
+          },
+          {
+            "name": "Dorans on the Pier",
+            "tip": "Cumpărați pește proaspăt sau afumat direct de pe barcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Howth Market",
+            "tip": "Local crafts, organic food, and unique gifts (weekends)."
+          },
+          {
+            "name": "Dorans on the Pier",
+            "tip": "Buy fresh or smoked fish straight from the boat."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie feste Wanderschuhe für den Klippenweg.",
+          "Das Wetter kann sich schnell ändern, packen Sie eine Regenjacke ein.",
+          "Nehmen Sie Wasser und Snacks für die Wanderung zum Gipfel mit.",
+          "Überprüfen Sie die Gezeitenzeiten, bevor Sie am Strand spazieren gehen."
+        ],
+        "hu": [
+          "Viselj erős túracipőt a sziklaösvényhez.",
+          "Az időjárás gyorsan változhat, csomagolj esőkabátot.",
+          "Vigyél vizet és rágcsálnivalót a csúcstúrára.",
+          "Ellenőrizd az árapály idejét, mielőtt a tengerparton sétálsz."
+        ],
+        "ro": [
+          "Purtați încălțăminte rezistentă pentru plimbarea pe stâncă.",
+          "Vremea se poate schimba rapid, împachetați o geacă de ploaie.",
+          "Luați apă și gustări pentru drumeția spre vârf.",
+          "Verificați orele mareelor înainte de a vă plimba pe plajă."
+        ],
+        "en": [
+          "Wear sturdy walking shoes for the cliff path.",
+          "The weather can change quickly, so pack a rain jacket.",
+          "Bring water and snacks for the hike to the summit.",
+          "Check the tide times before walking on the beach."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih",
+            "hu": "Kerékpárkölcsönző",
+            "ro": "Închiriere de biciclete",
+            "en": "Bike Rental"
+          },
+          "coords": [
+            -6.07,
+            53.389
+          ],
+          "category": "service",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie ein E-Bike für die Hügel – es lohnt sich!",
+            "hu": "Bérelj e-biciklit a dombokra – megéri!",
+            "ro": "Închiriați o bicicletă electrică pentru dealuri - merită!",
+            "en": "Rent an e-bike for the hills - it's worth it!"
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Howth",
+            "hu": "Howth kikötője",
+            "ro": "Portul Howth",
+            "en": "Howth Harbour"
+          },
+          "coords": [
+            -6.066,
+            53.391
+          ],
+          "category": "port",
+          "arrive_at": "09:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und spazieren Sie die Piers entlang.",
+            "hu": "Zárd le a biciklidet és sétálj végig a mólókon.",
+            "ro": "Încuiați-vă bicicleta și plimbați-vă pe diguri.",
+            "en": "Lock up your bike and take a walk down the piers."
+          }
+        },
+        {
+          "name": {
+            "de": "Howth Castle",
+            "hu": "Howth-kastély",
+            "ro": "Castelul Howth",
+            "en": "Howth Castle"
+          },
+          "coords": [
+            -6.085,
+            53.385
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Gärten sind wunderschön, aber überprüfen Sie die Öffnungszeiten.",
+            "hu": "A kertek gyönyörűek, de ellenőrizd a nyitvatartási időt.",
+            "ro": "Grădinile sunt frumoase, dar verificați programul de vizitare.",
+            "en": "The gardens are beautiful, but check for opening times."
+          }
+        },
+        {
+          "name": {
+            "de": "Howth Gipfel",
+            "hu": "Howth-csúcs",
+            "ro": "Vârful Howth",
+            "en": "Howth Summit"
+          },
+          "coords": [
+            -6.074,
+            53.376
+          ],
+          "category": "natural features",
+          "arrive_at": "11:39",
+          "stay_min": 45,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist anspruchsvoll, aber die Aussicht ist die Belohnung.",
+            "hu": "A kaptató kihívást jelent, de a kilátás a jutalom.",
+            "ro": "Urcușul este solicitant, dar priveliștea este recompensa.",
+            "en": "The climb is challenging, but the view is the reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Baily",
+            "hu": "Baily-világítótorony",
+            "ro": "Farul Baily",
+            "en": "Baily Lighthouse"
+          },
+          "coords": [
+            -6.052,
+            53.362
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Man kann nicht hineingehen, aber die Aussicht vom Tor aus ist fantastisch.",
+            "hu": "Nem lehet bemenni, de a kaputól fantasztikus a kilátás.",
+            "ro": "Nu puteți intra, dar priveliștea de la poartă este fantastică.",
+            "en": "You can't go inside, but the view from the gate is fantastic."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im The Summit Inn",
+            "hu": "Ebéd a The Summit Inn-ben",
+            "ro": "Prânz la The Summit Inn",
+            "en": "Lunch at The Summit Inn"
+          },
+          "coords": [
+            -6.075,
+            53.377
+          ],
+          "category": "gastro",
+          "arrive_at": "14:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein wohlverdientes Pint und ein herzhaftes Essen nach der Radtour.",
+            "hu": "Egy jól megérdemelt korsó sör és egy kiadós étel a biciklizés után.",
+            "ro": "O halbă bine meritată și o masă copioasă după plimbarea cu bicicleta.",
+            "en": "A well-earned pint and a hearty meal after your cycle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nachdem Sie Ihr Fahrrad abgeholt haben, radeln Sie zum Hafen von Howth, um die maritime Atmosphäre aufzusaugen. Von dort geht es weiter zum historischen Howth Castle, um die Anlagen zu erkunden. Der Hauptteil des Vormittags ist der anspruchsvolle, aber lohnende Aufstieg zum Howth Summit. Nach dem Genuss der Aussicht radeln Sie weiter zum malerischen Baily Lighthouse. Am Nachmittag kehren Sie zum Gipfel zurück für ein herzhaftes Mittagessen im berühmten Summit Inn, bevor Sie gemütlich zurück ins Dorf rollen, um den Tag ausklingen zu lassen.",
+        "hu": "Miután felvetted a kerékpárt, tekerj el a Howth kikötőbe, hogy magadba szívd a tengeri hangulatot. Innen irány a történelmi Howth-kastély. A délelőtt nagy részét a kihívást jelentő, de hálás emelkedő teszi ki a Howth-csúcsra. A kilátás után tovább tekersz a festői Baily-világítótoronyhoz. Délután visszatérsz a csúcsra egy kiadós ebédre a híres Summit Innben, mielőtt kényelmesen visszagurulsz a faluba, hogy lezárd a napot.",
+        "ro": "După ce vă luați bicicleta, pedalați spre portul Howth pentru a absorbi atmosfera maritimă. De acolo, continuați spre istoricul Castel Howth. Partea principală a dimineții este urcarea provocatoare, dar plină de satisfacții, spre Vârful Howth. După ce vă bucurați de priveliște, pedalați mai departe spre pitorescul Far Baily. După-amiaza, vă întoarceți la vârf pentru un prânz copios la faimosul The Summit Inn, înainte de a coborî agale înapoi în sat pentru a încheia ziua.",
+        "en": "After picking up your bike, you'll cycle to Howth Harbour to soak in the maritime atmosphere. From there, it's on to the historic Howth Castle. The main part of the morning is the challenging but rewarding climb to Howth Summit. After enjoying the views, you'll cycle on to the picturesque Baily Lighthouse. In the afternoon, you'll return towards the summit for a hearty lunch at the famous Summit Inn before a gentle roll back down to the village to end your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Summit Inn",
+            "tip": "Traditioneller Pub mit großartigem Essen und noch besserer Aussicht."
+          },
+          {
+            "name": "The Bloody Stream",
+            "tip": "Direkt am Bahnhof, ideal für ein Getränk nach der Fahrt."
+          },
+          {
+            "name": "Howth Market",
+            "tip": "Holen Sie sich einen Kaffee und einen süßen Leckerbissen für einen Energieschub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Summit Inn",
+            "tip": "Hagyományos pub nagyszerű ételekkel és még jobb kilátással."
+          },
+          {
+            "name": "The Bloody Stream",
+            "tip": "Közvetlenül az állomás mellett, ideális egy italra a túra után."
+          },
+          {
+            "name": "Howth-i piac",
+            "tip": "Szerezz egy kávét és egy édességet egy energiafeltöltéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Summit Inn",
+            "tip": "Pub tradițional cu mâncare excelentă și priveliști și mai bune."
+          },
+          {
+            "name": "The Bloody Stream",
+            "tip": "Chiar lângă gară, excelent pentru o băutură după plimbare."
+          },
+          {
+            "name": "Piața Howth",
+            "tip": "Luați o cafea și un dulce pentru un plus de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Summit Inn",
+            "tip": "Traditional pub with great food and even better views."
+          },
+          {
+            "name": "The Bloody Stream",
+            "tip": "Right by the station, great for a post-ride drink."
+          },
+          {
+            "name": "Howth Market",
+            "tip": "Grab a coffee and a sweet treat for an energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick vom Baily Lighthouse",
+            "tip": "Ein ruhiger Ort, um über die Irische See zu blicken.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Versteckte Buchten am Klippenweg",
+            "tip": "Finden Sie Ihren eigenen kleinen Ort abseits des Hauptweges.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Claremont Beach bei Ebbe",
+            "tip": "Ein weiter, offener Raum für einen friedlichen Moment.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Baily-világítótoronytól",
+            "tip": "Csendes hely az Ír-tengerre nézve.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Rejtett öblök a sziklaösvényen",
+            "tip": "Találd meg a saját kis helyedet a fő ösvénytől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Claremont strand apálykor",
+            "tip": "Tágas, nyílt tér egy békés pillanathoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Farul Baily",
+            "tip": "Un loc liniștit pentru a privi peste Marea Irlandei.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Golfuri ascunse pe poteca de pe stâncă",
+            "tip": "Găsiți-vă propriul loc mic departe de poteca principală.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaja Claremont la reflux",
+            "tip": "Un spațiu larg, deschis pentru un moment de pace.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Baily Lighthouse",
+            "tip": "A quiet spot to gaze across the Irish Sea.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Hidden coves on the cliff path",
+            "tip": "Find your own little spot away from the main path.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Claremont Beach at low tide",
+            "tip": "A wide open space for a peaceful moment.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Howth Market",
+            "tip": "Lokales Handwerk und Lebensmittel, perfekt für Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Howth-i piac",
+            "tip": "Helyi kézműves termékek és élelmiszerek, tökéletes szuvenírnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Howth",
+            "tip": "Artizanat local și mâncare, perfect pentru suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Howth Market",
+            "tip": "Local crafts and food, perfect for souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen, bevor Sie den Gipfel hinunterfahren.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch für kurze Stopps.",
+          "Nehmen Sie eine Karte der Radwege mit oder verwenden Sie eine GPS-App.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Ellenőrizd a fékeket, mielőtt leereszkedsz a csúcsról.",
+          "Mindig zárd le a biciklidet, még rövid megállókra is.",
+          "Vigyél magaddal kerékpárút-térképet vagy használj GPS-alkalmazást.",
+          "A sisak viselése erősen ajánlott."
+        ],
+        "ro": [
+          "Verificați-vă frânele înainte de a coborî de pe vârf.",
+          "Încuiați-vă întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "Luați o hartă a traseelor de ciclism sau folosiți o aplicație GPS.",
+          "Casca este foarte recomandată."
+        ],
+        "en": [
+          "Check your brakes before heading down from the summit.",
+          "Always lock your bike, even for short stops.",
+          "Bring a map of the cycle routes or use a GPS app.",
+          "A helmet is strongly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 15.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Howth Summit",
+            "hu": "Parkoló a Howth-csúcson",
+            "ro": "Parcare la Vârful Howth",
+            "en": "Howth Summit Car Park"
+          },
+          "coords": [
+            -6.076,
+            53.377
+          ],
+          "category": "service",
+          "arrive_at": "09:25",
+          "stay_min": 10,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kommen Sie früh an, um einen guten Parkplatz zu sichern.",
+            "hu": "Érkezz korán, hogy jó parkolóhelyet biztosíts.",
+            "ro": "Ajungeți devreme pentru a asigura un loc bun de parcare.",
+            "en": "Arrive early to secure a good parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Howth Gipfel Klippenweg",
+            "hu": "Howth-csúcs sziklaösvény",
+            "ro": "Potecă pe stâncă Vârful Howth",
+            "en": "Howth Summit Cliff Walk"
+          },
+          "coords": [
+            -6.074,
+            53.376
+          ],
+          "category": "natural features",
+          "arrive_at": "09:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Spaziergang für eine unglaubliche Aussicht.",
+            "hu": "Tegyél egy rövid sétát a hihetetlen kilátásért.",
+            "ro": "Faceți o scurtă plimbare pentru vederi incredibile.",
+            "en": "Take a short walk for incredible views."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Baily",
+            "hu": "Baily-világítótorony",
+            "ro": "Farul Baily",
+            "en": "Baily Lighthouse"
+          },
+          "coords": [
+            -6.052,
+            53.362
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie vorsichtig am Straßenrand, um ein Foto zu machen.",
+            "hu": "Óvatosan parkolj az út szélén egy fotóért.",
+            "ro": "Parcați cu atenție pe marginea drumului pentru o fotografie.",
+            "en": "Park carefully on the roadside for a photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Hafen",
+            "hu": "Kikötői parkoló",
+            "ro": "Parcare în port",
+            "en": "Harbour Car Park"
+          },
+          "coords": [
+            -6.068,
+            53.39
+          ],
+          "category": "service",
+          "arrive_at": "11:28",
+          "stay_min": 10,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kann voll sein, aber das Warten lohnt sich für die zentrale Lage.",
+            "hu": "Lehet, hogy tele van, de megéri várni a központi elhelyezkedésért.",
+            "ro": "Poate fi aglomerat, dar merită așteptarea pentru locația centrală.",
+            "en": "Can be busy, but worth the wait for the central location."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch in the Harbour"
+          },
+          "coords": [
+            -6.067,
+            53.391
+          ],
+          "category": "gastro",
+          "arrive_at": "11:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie aus vielen Restaurants mit frischen Meeresfrüchten.",
+            "hu": "Válassz a sok friss tengeri herkentyűs étterem közül.",
+            "ro": "Alegeți dintre numeroasele restaurante cu fructe de mare proaspete.",
+            "en": "Take your pick of many fresh seafood restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Pier & St.-Marien-Abtei",
+            "hu": "Mólóséta és Szent Mária apátság",
+            "ro": "Plimbare pe dig și Abația Sf. Maria",
+            "en": "Pier Walk & St. Mary's Abbey"
+          },
+          "coords": [
+            -6.064,
+            53.388
+          ],
+          "category": "port",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Verdauungsspaziergang, der Geschichte und Meer verbindet.",
+            "hu": "Egy kellemes emésztő séta, ami összeköti a történelmet és a tengert.",
+            "ro": "O plimbare digestivă plăcută, combinând istoria și marea.",
+            "en": "A lovely digestive walk combining history and the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Howth Castle",
+            "hu": "Howth-kastély",
+            "ro": "Castelul Howth",
+            "en": "Howth Castle"
+          },
+          "coords": [
+            -6.085,
+            53.385
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Überprüfen Sie, ob Führungen oder Veranstaltungen im Schloss stattfinden.",
+            "hu": "Ellenőrizd, hogy vannak-e vezetett túrák vagy események a kastélyban.",
+            "ro": "Verificați dacă există tururi ghidate sau evenimente la castel.",
+            "en": "Check for guided tours or events happening at the castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt direkt zum Howth Summit, um die Menschenmassen zu vermeiden und die Morgenansicht zu genießen. Nach einem kurzen Klippenspaziergang fahren Sie zum dramatischen Baily Lighthouse für ein Foto. Dann geht es hinunter zum Hafen, wo Sie Ihr Auto für den mittleren Teil des Tages parken. Genießen Sie ein gemütliches Mittagessen mit Meeresfrüchten, gefolgt von einem Spaziergang entlang der Piers und hinauf zur historischen St. Mary's Abbey. Am Nachmittag unternehmen Sie eine kurze Fahrt zum Howth Castle, um das Anwesen zu erkunden, bevor Sie den Tag beenden.",
+        "hu": "Kezdje a napot egyenesen a Howth-csúcsra hajtva, hogy elkerülje a tömeget és élvezze a reggeli kilátást. Egy rövid sziklaséta után vezessen el a drámai Baily-világítótoronyhoz egy fotóért. Ezután irány a kikötő, ahol leparkolhatja az autóját a nap középső részére. Élvezzen egy kényelmes tengeri herkentyűs ebédet, majd sétáljon végig a mólókon és fel a történelmi Szent Mária apátsághoz. Délután tegyen egy rövid autózást a Howth-kastélyhoz, hogy felfedezze a birtokot, mielőtt befejezi a napot.",
+        "ro": "Începeți ziua conducând direct la Vârful Howth pentru a evita mulțimile și a vă bucura de priveliștea de dimineață. După o scurtă plimbare pe stâncă, conduceți spre dramaticul Far Baily pentru o fotografie. Apoi coborâți în port, unde parcați mașina pentru partea de mijloc a zilei. Bucurați-vă de un prânz pe îndelete cu fructe de mare, urmat de o plimbare pe diguri și până la istorica Abație Sf. Maria. După-amiaza, faceți o scurtă călătorie cu mașina la Castelul Howth pentru a explora domeniul înainte de a încheia ziua.",
+        "en": "Start your day by driving straight to Howth Summit to beat the crowds and enjoy the morning view. After a short cliff walk, drive to the dramatic Baily Lighthouse for a photo. Then, it's down to the harbour where you'll park the car for the middle part of the day. Enjoy a leisurely seafood lunch, followed by a walk along the piers and up to the historic St. Mary's Abbey. In the afternoon, take a short drive to Howth Castle to explore the grounds before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aqua Restaurant",
+            "tip": "Gehobene Küche mit Panoramablick auf das Meer."
+          },
+          {
+            "name": "The Oar House",
+            "tip": "Ausgezeichnete Meeresfrüchte in einer umgebauten Bootshalle."
+          },
+          {
+            "name": "The Wrights of Howth",
+            "tip": "Eine Institution in Howth für Fisch und Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aqua Étterem",
+            "tip": "Elegáns étterem panorámás tengeri kilátással."
+          },
+          {
+            "name": "The Oar House",
+            "tip": "Kiváló tengeri herkentyűk egy átalakított csónakházban."
+          },
+          {
+            "name": "The Wrights of Howth",
+            "tip": "Egy howth-i intézmény a halak és tengeri herkentyűk terén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Aqua",
+            "tip": "Mâncare rafinată cu vederi panoramice la mare."
+          },
+          {
+            "name": "The Oar House",
+            "tip": "Fructe de mare excelente într-un fost atelier de bărci."
+          },
+          {
+            "name": "The Wrights of Howth",
+            "tip": "O instituție din Howth pentru pește și fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aqua Restaurant",
+            "tip": "Fine dining with panoramic sea views."
+          },
+          {
+            "name": "The Oar House",
+            "tip": "Excellent seafood in a converted boathouse."
+          },
+          {
+            "name": "The Wrights of Howth",
+            "tip": "A Howth institution for fish and seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Red Rock Beach",
+            "tip": "Eine abgelegene Bucht südlich von Sutton, eine kurze Autofahrt entfernt.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Spaziergang auf Ireland's Eye",
+            "tip": "Nehmen Sie ein Boot vom Hafen für ultimative Ruhe (erfordert zusätzliche Zeit).",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Morgen am Gipfel",
+            "tip": "Vor 10 Uhr ist es am friedlichsten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Red Rock strand",
+            "tip": "Egy eldugott öböl Suttontól délre, rövid autóútra.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Séta az Ireland's Eye-on",
+            "tip": "Menj hajóval a kikötőből a tökéletes nyugalomért (több időt igényel).",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reggel a csúcson",
+            "tip": "Délelőtt 10 óra előtt a legbékésebb.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Red Rock",
+            "tip": "Un golf izolat la sud de Sutton, la o scurtă distanță cu mașina.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Plimbare pe Ireland's Eye",
+            "tip": "Luați o barcă din port pentru liniște supremă (necesită timp suplimentar).",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața la Vârf",
+            "tip": "Cel mai liniștit este înainte de ora 10 dimineața.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Red Rock Beach",
+            "tip": "A secluded cove just south of Sutton, a short drive away.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Walk on Ireland's Eye",
+            "tip": "Take a boat from the harbour for ultimate tranquility (requires extra time).",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Morning at the Summit",
+            "tip": "It's most peaceful before 10 AM.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Howth Market (Wochenenden)",
+            "tip": "Ein Muss für lokale Produkte und Handwerk."
+          },
+          {
+            "name": "Nauticalia",
+            "tip": "Geschenkeladen mit nautischem Thema in der Nähe des Hafens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Howth-i piac (hétvégén)",
+            "tip": "Kötelező a helyi termékekért és kézműves árukért."
+          },
+          {
+            "name": "Nauticalia",
+            "tip": "Tengerészeti témájú ajándékbolt a kikötő közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Howth (weekenduri)",
+            "tip": "O vizită obligatorie pentru produse locale și artizanat."
+          },
+          {
+            "name": "Nauticalia",
+            "tip": "Magazin de cadouri cu tematică nautică lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Howth Market (weekends)",
+            "tip": "A must-visit for local produce and crafts."
+          },
+          {
+            "name": "Nauticalia",
+            "tip": "Nautical-themed gift shop near the harbour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann an sonnigen Wochenenden eine Herausforderung sein.",
+          "Achten Sie auf enge, kurvenreiche Straßen, besonders in der Nähe des Gipfels.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+          "Die Parkgebühren variieren, also halten Sie Münzen oder eine Park-App bereit."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet napos hétvégéken.",
+          "Vigyázz a szűk, kanyargós utakra, különösen a csúcs közelében.",
+          "Ne hagyj értéktárgyakat látható helyen az autóban.",
+          "A parkolási díjak változnak, ezért legyen nálad érme vagy parkolóalkalmazás."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în weekendurile însorite.",
+          "Fiți atenți la drumurile înguste și șerpuite, în special în apropierea vârfului.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Taxele de parcare variază, așa că aveți la îndemână monede sau o aplicație de parcare."
+        ],
+        "en": [
+          "Parking can be challenging on sunny weekends.",
+          "Be aware of narrow, winding roads, especially near the summit.",
+          "Do not leave valuables visible in the car.",
+          "Parking fees vary, so have coins or a parking app ready."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 5.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Howth DART",
+            "hu": "Érkezés a Howth DART állomásra",
+            "ro": "Sosire la Gara Howth DART",
+            "en": "Arrival at Howth DART Station"
+          },
+          "coords": [
+            -6.071,
+            53.388
+          ],
+          "category": "service",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Zug bietet eine malerische Fahrt entlang der Küste von Dublin aus.",
+            "hu": "A vonat festői utat kínál a part mentén Dublinból.",
+            "ro": "Trenul oferă o călătorie pitorească de-a lungul coastei din Dublin.",
+            "en": "The train offers a scenic journey along the coast from Dublin."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Howth & St.-Marien-Abtei",
+            "hu": "Howth kikötője és Szent Mária apátság",
+            "ro": "Portul Howth și Abația Sf. Maria",
+            "en": "Howth Harbour & St. Mary's Abbey"
+          },
+          "coords": [
+            -6.066,
+            53.391
+          ],
+          "category": "port",
+          "arrive_at": "09:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Hafenbereich und gehen Sie dann den Hügel zur Abtei hinauf.",
+            "hu": "Fedezd fel a kikötő területét, majd sétálj fel a dombra az apátsághoz.",
+            "ro": "Explorați zona portuară, apoi urcați dealul spre abație.",
+            "en": "Explore the harbour area then walk up the hill to the abbey."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Hafens",
+            "hu": "Ebéd a kikötő közelében",
+            "ro": "Prânz lângă port",
+            "en": "Lunch near the Harbour"
+          },
+          "coords": [
+            -6.069,
+            53.39
+          ],
+          "category": "gastro",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele tolle Möglichkeiten für ein gemütliches Mittagessen.",
+            "hu": "Sok remek lehetőség egy kellemes ebédhez.",
+            "ro": "Multe opțiuni excelente pentru un prânz relaxat.",
+            "en": "Plenty of great options for a leisurely lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Howth Summit",
+            "hu": "Busz a Howth-csúcsra",
+            "ro": "Autobuz spre Vârful Howth",
+            "en": "Bus to Howth Summit"
+          },
+          "coords": [
+            -6.075,
+            53.377
+          ],
+          "category": "service",
+          "arrive_at": "12:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bus 31/31a bringt Sie zum Gipfel und erspart Ihnen den Aufstieg.",
+            "hu": "A 31/31a busz felvisz a csúcsra, megspórolva a mászást.",
+            "ro": "Autobuzul 31/31a vă duce la vârf, scutindu-vă de urcare.",
+            "en": "The 31/31a bus takes you to the summit, saving your legs the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang auf dem Gipfel",
+            "hu": "Séta a csúcson",
+            "ro": "Plimbare la vârf",
+            "en": "Summit Walk"
+          },
+          "coords": [
+            -6.074,
+            53.376
+          ],
+          "category": "natural features",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Panoramablicke und die frische Luft.",
+            "hu": "Élvezd a panorámás kilátást és a friss levegőt.",
+            "ro": "Bucurați-vă de vederile panoramice și de aerul proaspăt.",
+            "en": "Enjoy the panoramic views and fresh air."
+          }
+        },
+        {
+          "name": {
+            "de": "Abstieg und Martello Turm",
+            "hu": "Leereszkedés és a Martello-torony",
+            "ro": "Coborâre și Turnul Martello",
+            "en": "Descent & Martello Tower"
+          },
+          "coords": [
+            -6.06,
+            53.39
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:05",
+          "stay_min": 65,
+          "hop_from_prev_min": 90,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang bergab zurück zum Dorf, vorbei am Turm.",
+            "hu": "Kellemes séta lefelé a faluba, a torony mellett elhaladva.",
+            "ro": "O plimbare plăcută la vale înapoi în sat, pe lângă turn.",
+            "en": "A nice downhill walk back to the village, passing the tower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise beginnt mit einer malerischen DART-Zugfahrt nach Howth. Vom Bahnhof aus spazieren Sie direkt zum Hafengebiet, erkunden die Piers und die nahegelegene St. Mary's Abbey. Nach einem leckeren Mittagessen mit Meeresfrüchten nehmen Sie einen lokalen Bus, der Sie mühelos zum Howth Summit bringt. Verbringen Sie den Nachmittag damit, die atemberaubende Aussicht vom Gipfel zu genießen. Anstatt den Bus zurück zu nehmen, machen Sie einen gemütlichen Spaziergang bergab, entdecken den Martello Tower und kehren rechtzeitig zum Bahnhof zurück, um Ihren Zug zu erwischen.",
+        "hu": "Az utazás egy festői DART vonatúttal kezdődik Howth-ba. Az állomásról egyenesen a kikötőbe sétálsz, felfedezed a mólókat és a közeli Szent Mária apátságot. Egy finom tengeri herkentyűs ebéd után egy helyi buszra szállsz, amely könnyedén felvisz a Howth-csúcsra. Töltsd a délutánt a csúcsról nyíló lélegzetelállító kilátás élvezetével. Ahelyett, hogy busszal mennél vissza, tegyél egy kényelmes sétát lefelé, fedezd fel a Martello-tornyot, és érj vissza időben az állomásra a vonathoz.",
+        "ro": "Călătoria dvs. începe cu o călătorie pitorească cu trenul DART spre Howth. De la gară, vă plimbați direct în zona portuară, explorând digurile și Abația Sf. Maria din apropiere. După un prânz delicios cu fructe de mare, luați un autobuz local care vă duce fără efort la Vârful Howth. Petreceți după-amiaza bucurându-vă de priveliștile uluitoare de pe vârf. În loc să luați autobuzul înapoi, faceți o plimbare agale la vale, descoperind Turnul Martello și revenind la gară la timp pentru trenul dvs.",
+        "en": "Your journey begins with a scenic DART train ride to Howth. From the station, you'll walk straight to the harbour area, exploring the piers and the nearby St. Mary's Abbey. After a delicious seafood lunch, you'll catch a local bus that whisks you effortlessly up to Howth Summit. Spend the afternoon soaking in the stunning views from the top. Instead of taking the bus back, enjoy a leisurely walk downhill, discovering the Martello Tower and arriving back at the station in time for your train."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Dog House Blue's Tea Room",
+            "tip": "Schrulliges Café mit großartigem Kaffee und Pizza."
+          },
+          {
+            "name": "Crabby Jo's",
+            "tip": "Lebhaftes Restaurant mit Schwerpunkt auf Krabben und Hummer."
+          },
+          {
+            "name": "Leo Burdock",
+            "tip": "Eine Filiale der berühmten Dubliner Fish-and-Chips-Kette."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Dog House Blue's Tea Room",
+            "tip": "Különc kávézó nagyszerű kávéval és pizzával."
+          },
+          {
+            "name": "Crabby Jo's",
+            "tip": "Élénk étterem, amely a rákra és a homárra összpontosít."
+          },
+          {
+            "name": "Leo Burdock",
+            "tip": "A híres dublini fish and chips lánc egyik üzlete."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Dog House Blue's Tea Room",
+            "tip": "Cafenea excentrică cu cafea și pizza grozave."
+          },
+          {
+            "name": "Crabby Jo's",
+            "tip": "Restaurant plin de viață, axat pe crab și homar."
+          },
+          {
+            "name": "Leo Burdock",
+            "tip": "O filială a celebrului lanț de fish and chips din Dublin."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Dog House Blue's Tea Room",
+            "tip": "Quirky cafe with great coffee and pizza."
+          },
+          {
+            "name": "Crabby Jo's",
+            "tip": "Lively restaurant focusing on crab and lobster."
+          },
+          {
+            "name": "Leo Burdock",
+            "tip": "A branch of the famous Dublin fish and chip chain."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St.-Marien-Abtei Friedhof",
+            "tip": "Ein friedlicher, historischer Ort zum Nachdenken.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Weg hinter dem Gipfel",
+            "tip": "Entfliehen Sie den Menschenmassen auf den weniger befahrenen Wegen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ende des Westpiers",
+            "tip": "Ein ruhiger Ort, um die Boote und Vögel zu beobachten.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Mária apátság temetője",
+            "tip": "Békés, történelmi hely az elmélkedésre.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Ösvény a csúcs mögött",
+            "tip": "Menekülj el a tömeg elől a kevésbé járt ösvényeken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A nyugati móló vége",
+            "tip": "Csendes hely a hajók és madarak figyelésére.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Abației Sf. Maria",
+            "tip": "Un loc istoric pașnic pentru reflecție.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Potecă în spatele vârfului",
+            "tip": "Evadați de mulțime pe cărările mai puțin bătute.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Capătul digului de vest",
+            "tip": "Un loc liniștit pentru a privi bărcile și păsările.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Mary's Abbey Graveyard",
+            "tip": "A peaceful, historic spot for reflection.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Path behind the Summit",
+            "tip": "Escape the crowds on the less-travelled paths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "End of the West Pier",
+            "tip": "A quiet spot to watch the boats and birds.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Howth Market",
+            "tip": "Günstig gelegen in der Nähe des Bahnhofs für einen schnellen Besuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Howth-i piac",
+            "tip": "Kényelmesen elhelyezkedik az állomás közelében egy gyors látogatáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Howth",
+            "tip": "Situată convenabil lângă gară pentru o vizită rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Howth Market",
+            "tip": "Conveniently located near the station for a quick visit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Leap Visitor Card für einfaches Reisen mit DART und Bussen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse nicht häufig fahren.",
+          "Überprüfen Sie die letzte DART-Zugzeit zurück nach Dublin, um nicht gestrandet zu sein.",
+          "Die meisten Sehenswürdigkeiten in Howth sind zu Fuß erreichbar, seien Sie also auf Spaziergänge vorbereitet."
+        ],
+        "hu": [
+          "Vásárolj egy Leap Visitor Card-ot a DART-on és a buszokon való egyszerű utazáshoz.",
+          "Ellenőrizd előre a buszmenetrendet, mivel a járatok nem sűrűn közlekednek.",
+          "Ellenőrizd az utolsó DART vonat indulási idejét Dublinba, hogy ne ragadj ott.",
+          "A legtöbb látnivaló Howth-ban gyalogosan elérhető, úgyhogy készülj a sétára."
+        ],
+        "ro": [
+          "Cumpărați un card de vizitator Leap pentru călătorii ușoare cu DART și autobuze.",
+          "Verificați orarul autobuzelor în avans, deoarece serviciile pot fi rare.",
+          "Verificați ora ultimului tren DART înapoi spre Dublin pentru a nu rămâne blocat.",
+          "Majoritatea atracțiilor din Howth sunt la distanță de mers pe jos, așa că fiți pregătiți pentru plimbări."
+        ],
+        "en": [
+          "Purchase a Leap Visitor Card for easy travel on DART and buses.",
+          "Check the bus timetable in advance as services can be infrequent.",
+          "Check the last DART train time back to Dublin to avoid getting stranded.",
+          "Most of Howth is walkable, so be prepared for walking."
+        ]
+      }
+    }
+  }
+}

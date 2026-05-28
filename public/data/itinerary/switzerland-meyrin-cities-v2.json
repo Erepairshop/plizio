@@ -1,0 +1,1460 @@
+{
+  "city_id": "switzerland-meyrin-cities-v2",
+  "anchor": {
+    "name": "Meyrin",
+    "coords": [
+      46.231,
+      6.078
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Meyrin-Dorf",
+            "hu": "Meyrin-falu",
+            "ro": "Satul Meyrin",
+            "en": "Meyrin-Village"
+          },
+          "coords": [
+            46.2335,
+            6.0761
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einem Kaffee in einem der örtlichen Cafés, um die Atmosphäre aufzusaugen.",
+            "hu": "Kezdje a napot egy kávéval a helyi kávézók egyikében, hogy magába szívja a hangulatot.",
+            "ro": "Începeți cu o cafea la una dintre cafenelele locale pentru a absorbi atmosfera.",
+            "en": "Start with a coffee at a local café to soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heimsuchung",
+            "hu": "Sarlós Boldogasszony-templom",
+            "ro": "Biserica Vizitării",
+            "en": "Church of the Visitation"
+          },
+          "coords": [
+            46.2341,
+            6.0755
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die moderne Architektur, die sich von traditionellen Schweizer Kirchen abhebt.",
+            "hu": "Figyelje meg a modern építészetet, amely eltér a hagyományos svájci templomoktól.",
+            "ro": "Observați arhitectura modernă, care se distinge de bisericile tradiționale elvețiene.",
+            "en": "Notice the modern architecture, which stands out from traditional Swiss churches."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Mairie",
+            "hu": "Városháza Park",
+            "ro": "Parcul Primăriei",
+            "en": "Parc de la Mairie"
+          },
+          "coords": [
+            46.2328,
+            6.0782
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine kurze Pause und um die Skulpturen zu bewundern.",
+            "hu": "Ideális hely egy rövid szünetre és a szobrok megcsodálására.",
+            "ro": "Un loc ideal pentru o scurtă pauză și pentru a admira sculpturile.",
+            "en": "An ideal spot for a short break and admiring the sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Alpiner Botanischer Garten",
+            "hu": "Alpesi Botanikus Kert",
+            "ro": "Grădina Botanică Alpină",
+            "en": "Jardin botanique alpin"
+          },
+          "coords": [
+            46.2295,
+            6.0851
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bringen Sie ein Picknick mit und genießen Sie die Vielfalt der Alpenflora.",
+            "hu": "Hozzon magával piknikkosarat, és élvezze az alpesi flóra sokszínűségét.",
+            "ro": "Aduceți un picnic și bucurați-vă de varietatea florei alpine.",
+            "en": "Bring a picnic to enjoy amidst the diverse alpine flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Vivarium von Meyrin",
+            "hu": "Meyrini Vivárium",
+            "ro": "Vivariumul din Meyrin",
+            "en": "Vivarium de Meyrin"
+          },
+          "coords": [
+            46.2288,
+            6.0862
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für Familien. Planen Sie Ihren Besuch um die Fütterungszeiten.",
+            "hu": "Tökéletes családok számára. Tervezze a látogatást az etetési idők köré.",
+            "ro": "Perfect pentru familii. Planificați-vă vizita în jurul orelor de hrănire.",
+            "en": "Perfect for families. Plan your visit around the feeding times."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre Forum Meyrin",
+            "hu": "Forum Meyrin Színház",
+            "ro": "Teatrul Forum Meyrin",
+            "en": "Théâtre Forum Meyrin"
+          },
+          "coords": [
+            46.2331,
+            6.0805
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Abendprogramm, vielleicht gibt es eine interessante Vorstellung.",
+            "hu": "Nézze meg az esti programot, hátha talál egy érdekes előadást.",
+            "ro": "Verificați programul de seară, poate prindeți un spectacol interesant.",
+            "en": "Check the evening schedule; you might catch an interesting performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Meyrin beginnt im charmanten alten Dorf, wo Sie die lokale Atmosphäre bei einem Kaffee genießen. Am Vormittag erkunden Sie die moderne Architektur der Kirche und entspannen im ruhigen Parc de la Mairie. Der Nachmittag ist der Natur gewidmet, mit einem langen Spaziergang durch den Alpinen Botanischen Garten, gefolgt von einem faszinierenden Besuch im Vivarium, um exotische Reptilien zu sehen. Zum Abschluss des Tages tauchen Sie in die lokale Kultur im Théâtre Forum Meyrin ein und überlegen vielleicht, eine Abendvorstellung zu besuchen.",
+        "hu": "A meyrini nap a bájos ófaluban kezdődik, ahol egy kávé mellett élvezheti a helyi hangulatot. Délelőtt felfedezi a templom modern építészetét és pihen a csendes Városháza Parkban. A délután a természeté: egy hosszú séta az Alpesi Botanikus Kertben, majd egy lenyűgöző látogatás a Viváriumban, ahol egzotikus hüllőket láthat. A napot a Forum Meyrin Színházban a helyi kultúrával zárja, és talán elgondolkodik egy esti előadáson.",
+        "ro": "Ziua dvs. în Meyrin începe în satul vechi fermecător, savurând atmosfera locală la o cafea. În cursul dimineții, explorați arhitectura modernă a bisericii și vă relaxați în liniștitul Parc de la Mairie. După-amiaza este dedicată naturii, cu o plimbare lungă prin Grădina Botanică Alpină, urmată de o vizită fascinantă la Vivarium pentru a vedea reptile exotice. Încheiați ziua imersându-vă în cultura locală la Teatrul Forum Meyrin, poate chiar luând în considerare un spectacol de seară.",
+        "en": "Your day in Meyrin starts in the charming old village, soaking up the local atmosphere over a coffee. The morning involves exploring the modern architecture of the church and relaxing in the peaceful Parc de la Mairie. The afternoon is dedicated to nature, with a long walk through the Alpine Botanical Garden, followed by a fascinating visit to the Vivarium to see exotic reptiles. You'll end the day by immersing yourself in local culture at the Théâtre Forum Meyrin, perhaps considering an evening show."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Käsefondue",
+            "tip": "Ein Muss in der Schweiz. Suchen Sie nach einem 'Auberge' für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Knusprig gebratene Kartoffeln, oft mit Spiegelei serviert."
+          },
+          {
+            "name": "Schokolade",
+            "tip": "Besuchen Sie eine lokale Chocolaterie für handgemachte Pralinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajtfondü",
+            "tip": "Kötelező Svájcban. Keressen egy 'Auberge'-t az autentikus élményért."
+          },
+          {
+            "name": "Röszti",
+            "tip": "Ropogósra sült burgonya, gyakran tükörtojással tálalva."
+          },
+          {
+            "name": "Csokoládé",
+            "tip": "Látogasson el egy helyi csokoládéboltba kézműves pralinékért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fondue de brânză",
+            "tip": "O necesitate în Elveția. Căutați un 'Auberge' pentru o experiență autentică."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Cartofi prăjiți crocanți, adesea serviți cu un ou ochi."
+          },
+          {
+            "name": "Ciocolată",
+            "tip": "Vizitați o ciocolaterie locală pentru praline artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese Fondue",
+            "tip": "A must-try in Switzerland. Look for an 'Auberge' for an authentic experience."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Crispy fried potatoes, often served with a fried egg."
+          },
+          {
+            "name": "Chocolate",
+            "tip": "Visit a local chocolaterie for handmade pralines."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin botanique alpin",
+            "tip": "Finden Sie eine ruhige Bank zwischen den Alpenblumen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de la Mairie",
+            "tip": "Ideal für eine ruhige Lektüre am Nachmittag.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang der Rhône",
+            "tip": "Ein kurzer Busausflug für einen friedlichen Spaziergang am Flussufer.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alpesi Botanikus Kert",
+            "tip": "Keressen egy csendes padot az alpesi virágok között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városháza Park",
+            "tip": "Ideális egy csendes délutáni olvasáshoz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Rhône mentén",
+            "tip": "Egy rövid buszút egy békés folyóparti sétáért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică Alpină",
+            "tip": "Găsiți o bancă liniștită printre florile alpine.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Primăriei",
+            "tip": "Ideal pentru o lectură liniștită după-amiaza.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul Ronului",
+            "tip": "O scurtă călătorie cu autobuzul pentru o plimbare liniștită pe malul râului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin botanique alpin",
+            "tip": "Find a quiet bench among the alpine flowers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de la Mairie",
+            "tip": "Ideal for a quiet afternoon read.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the Rhône",
+            "tip": "A short bus trip away for a peaceful riverside walk.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Meyrin Centre",
+            "tip": "Einkaufszentrum für alltägliche Bedürfnisse und einige Boutiquen."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Halten Sie Ausschau nach saisonalen Märkten für frische Produkte und lokale Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Meyrin Centre",
+            "tip": "Bevásárlóközpont a mindennapi szükségletekre és néhány butik."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keresse a szezonális piacokat friss termékekért és helyi kézműves termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Meyrin Centre",
+            "tip": "Centru comercial pentru nevoi zilnice și câteva buticuri."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Fiți cu ochii pe piețele sezoniere pentru produse proaspete și artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Meyrin Centre",
+            "tip": "Shopping center for daily needs and some boutiques."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look out for seasonal markets for fresh produce and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten, insbesondere für das Vivarium und das Theater.",
+          "Ein wiederverwendbarer Wasserflasche ist nützlich.",
+          "Genf ist nur eine kurze Fahrt mit den öffentlichen Verkehrsmitteln entfernt, falls Sie mehr erkunden möchten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Ellenőrizze a nyitvatartási időket, különösen a Vivárium és a színház esetében.",
+          "Egy újrafelhasználható vizes palack hasznos lehet.",
+          "Genf csak egy rövid tömegközlekedési útra van, ha többet szeretne felfedezni."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați orele de deschidere, în special pentru Vivarium și teatru.",
+          "O sticlă de apă reutilizabilă este utilă.",
+          "Geneva este la o scurtă călătorie cu transportul public dacă doriți să explorați mai mult."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Check opening hours, especially for the Vivarium and the theatre.",
+          "A reusable water bottle is useful.",
+          "Geneva is a short public transport ride away if you wish to explore more."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "CERN Globus der Wissenschaft und Innovation",
+            "hu": "CERN Tudományos és Innovációs Glóbusz",
+            "ro": "Globul CERN al Științei și Inovației",
+            "en": "CERN Globe of Science and Innovation"
+          },
+          "coords": [
+            46.233,
+            6.054
+          ],
+          "category": "landmarks",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein ikonischer Ort für ein Foto. Die Ausstellungen im Inneren sind oft kostenlos.",
+            "hu": "Ikonikus hely egy fotóhoz. A benti kiállítások gyakran ingyenesek.",
+            "ro": "Un loc iconic pentru o fotografie. Expozițiile din interior sunt adesea gratuite.",
+            "en": "An iconic spot for a photo. The exhibitions inside are often free."
+          }
+        },
+        {
+          "name": {
+            "de": "Mikrokosmos",
+            "hu": "Mikrokozmosz",
+            "ro": "Microcosm",
+            "en": "Microcosm"
+          },
+          "coords": [
+            46.234,
+            6.052
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Buchen Sie Führungen im Voraus, um das Beste aus Ihrem CERN-Besuch herauszuholen.",
+            "hu": "Foglaljon előre vezetett túrát, hogy a legtöbbet hozza ki a CERN-látogatásból.",
+            "ro": "Rezervați tururile ghidate în avans pentru a profita la maximum de vizita la CERN.",
+            "en": "Book guided tours in advance to get the most out of your CERN visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Meyrin-Dorf",
+            "hu": "Meyrin-falu",
+            "ro": "Satul Meyrin",
+            "en": "Meyrin-Village"
+          },
+          "coords": [
+            46.2335,
+            6.0761
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die Gassen. Ideal für ein Mittagessen.",
+            "hu": "Tegye le a biciklit és fedezze fel a sikátorokat. Ideális ebédelőhely.",
+            "ro": "Parcați bicicleta și explorați străduțele. Ideal pentru prânz.",
+            "en": "Park your bike and explore the alleys. Great for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Alpiner Botanischer Garten",
+            "hu": "Alpesi Botanikus Kert",
+            "ro": "Grădina Botanică Alpină",
+            "en": "Jardin botanique alpin"
+          },
+          "coords": [
+            46.2295,
+            6.0851
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Garten ist hügelig, seien Sie auf einige Anstiege vorbereitet.",
+            "hu": "A kert dombos, készüljön fel néhány emelkedőre.",
+            "ro": "Grădina este deluroasă, fiți pregătit pentru câteva urcări.",
+            "en": "The garden is hilly, be prepared for some climbs."
+          }
+        },
+        {
+          "name": {
+            "de": "Vivarium von Meyrin",
+            "hu": "Meyrini Vivárium",
+            "ro": "Vivariumul din Meyrin",
+            "en": "Vivarium de Meyrin"
+          },
+          "coords": [
+            46.2288,
+            6.0862
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine faszinierende Sammlung von Reptilien und Amphibien aus aller Welt.",
+            "hu": "Lenyűgöző gyűjtemény hüllőkből és kétéltűekből a világ minden tájáról.",
+            "ro": "O colecție fascinantă de reptile și amfibieni din întreaga lume.",
+            "en": "A fascinating collection of reptiles and amphibians from around the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre Forum Meyrin",
+            "hu": "Forum Meyrin Színház",
+            "ro": "Teatrul Forum Meyrin",
+            "en": "Théâtre Forum Meyrin"
+          },
+          "coords": [
+            46.2331,
+            6.0805
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und die öffentlichen Kunstwerke rund um das Gebäude.",
+            "hu": "Csodálja meg az épület körüli építészetet és köztéri műalkotásokat.",
+            "ro": "Admirați arhitectura și operele de artă publică din jurul clădirii.",
+            "en": "Admire the architecture and public art surrounding the building."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Mairie",
+            "hu": "Városháza Park",
+            "ro": "Parcul Primăriei",
+            "en": "Parc de la Mairie"
+          },
+          "coords": [
+            46.2328,
+            6.0782
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss des Tages, bevor Sie zurückradeln.",
+            "hu": "Egy pihentető befejezése a napnak, mielőtt visszatekerne.",
+            "ro": "O încheiere relaxantă a zilei înainte de a pedala înapoi.",
+            "en": "A relaxing end to the day before you cycle back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt bei der Ikone der Wissenschaft, dem CERN-Globus. Nach der Erkundung des Mikrokosmos radeln Sie ins Herz von Meyrin zum Mittagessen im alten Dorf. Der Nachmittag ist eine Mischung aus Natur und Wissenschaft, mit einem Besuch des Alpinen Botanischen Gartens und des faszinierenden Vivariums. Die Tour endet mit einem kulturellen Stopp am Forum Meyrin und einer entspannten Zeit im Parc de la Mairie, die die Vielfalt der Stadt widerspiegelt.",
+        "hu": "Kerékpártúrája a tudomány ikonjánál, a CERN-glóbusznál kezdődik. A Mikrokozmosz felfedezése után Meyrin szívébe teker egy ebédre az ófaluban. A délután a természet és a tudomány keveréke, látogatással az Alpesi Botanikus Kertben és a lenyűgöző Viváriumban. A túra a Forum Meyrinnél tett kulturális megállóval és a Városháza Parkban való pihenéssel zárul, tükrözve a város sokszínűségét.",
+        "ro": "Turul pe bicicletă începe la simbolul științei, Globul CERN. După ce explorați Microcosm, pedalați spre inima Meyrinului pentru prânz în satul vechi. După-amiaza este un amestec de natură și știință, cu o vizită la Grădina Botanică Alpină și la fascinantul Vivarium. Turul se încheie cu o oprire culturală la Forum Meyrin și un moment de relaxare în Parc de la Mairie, reflectând diversitatea orașului.",
+        "en": "Your bike tour starts at the icon of science, the CERN Globe. After exploring the Microcosm, you'll cycle to the heart of Meyrin for lunch in the old village. The afternoon is a mix of nature and science, with a visit to the Alpine Botanical Garden and the fascinating Vivarium. The tour concludes with a cultural stop at the Forum Meyrin and some relaxing time in the Parc de la Mairie, reflecting the town's diversity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Longeole",
+            "tip": "Eine Genfer Wurstspezialität, suchen Sie danach in traditionellen Restaurants."
+          },
+          {
+            "name": "Malakoff",
+            "tip": "Frittierte Käsebällchen, perfekt als Snack nach dem Radfahren."
+          },
+          {
+            "name": "Bircher Müsli",
+            "tip": "Für einen gesunden Start in den Tag in einem lokalen Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Longeole",
+            "tip": "Genfi kolbászkülönlegesség, keresse a hagyományos éttermekben."
+          },
+          {
+            "name": "Malakoff",
+            "tip": "Sült sajtgolyók, tökéletes snack a biciklizés után."
+          },
+          {
+            "name": "Bircher Müzli",
+            "tip": "Egészséges napkezdéshez egy helyi kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Longeole",
+            "tip": "O specialitate de cârnat din Geneva, căutați-o în restaurantele tradiționale."
+          },
+          {
+            "name": "Malakoff",
+            "tip": "Bile de brânză prăjite, perfecte ca gustare după ciclism."
+          },
+          {
+            "name": "Bircher Muesli",
+            "tip": "Pentru un început sănătos de zi la o cafenea locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Longeole",
+            "tip": "A Geneva sausage specialty, look for it in traditional restaurants."
+          },
+          {
+            "name": "Malakoff",
+            "tip": "Fried cheese balls, perfect as a post-cycling snack."
+          },
+          {
+            "name": "Bircher Muesli",
+            "tip": "For a healthy start to your day at a local café."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin botanique alpin",
+            "tip": "Ein friedlicher Rückzugsort, auch mit dem Fahrrad erreichbar.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Mandement",
+            "tip": "Eine kurze Radtour zu den Weinbergen für eine weite Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc de la Mairie",
+            "tip": "Ein ruhiger Ort, um sich nach der Radtour zu strecken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alpesi Botanikus Kert",
+            "tip": "Békés menedék, kerékpárral is elérhető.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mandement partja",
+            "tip": "Egy rövid biciklitúra a szőlőültetvényekhez a tágas kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Városháza Park",
+            "tip": "Csendes hely a nyújtáshoz a kerékpártúra után.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică Alpină",
+            "tip": "Un refugiu pașnic, accesibil și cu bicicleta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Coasta Mandement",
+            "tip": "O scurtă plimbare cu bicicleta spre podgorii pentru priveliști deschise.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Primăriei",
+            "tip": "Un loc liniștit pentru a vă întinde după turul cu bicicleta.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin botanique alpin",
+            "tip": "A peaceful retreat, accessible even by bike.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mandement hillside",
+            "tip": "A short cycle ride to the vineyards for open views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc de la Mairie",
+            "tip": "A quiet place to stretch after your bike tour.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Meyrin hat mehrere Geschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Überprüfen Sie die Tage für den lokalen Markt, um Snacks für die Fahrt zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Meyrinben több üzlet is található kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Ellenőrizze a helyi piac napjait, hogy harapnivalót vásároljon az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Meyrin are mai multe magazine pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Verificați zilele pieței locale pentru a cumpăra gustări pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Meyrin has several shops for accessories or quick repairs."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Check for local market days to buy snacks for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Schweiz ist fahrradfreundlich, nutzen Sie die ausgewiesenen Wege.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie ein Schloss für Ihr Fahrrad mit, um es an den Haltestellen sicher abzustellen.",
+          "Die öffentlichen Verkehrsmittel in Genf erlauben oft Fahrräder außerhalb der Stoßzeiten."
+        ],
+        "hu": [
+          "Svájc biciklibarát, használja a kijelölt utakat.",
+          "Sisak viselése erősen ajánlott.",
+          "Hozzon magával lakatot a kerékpár biztonságos lezárásához a megállóknál.",
+          "A genfi tömegközlekedés gyakran engedélyezi a kerékpárokat csúcsidőn kívül."
+        ],
+        "ro": [
+          "Elveția este prietenoasă cu bicicletele, folosiți pistele desemnate.",
+          "O cască este puternic recomandată.",
+          "Luați un lacăt pentru bicicletă pentru a o securiza la opriri.",
+          "Transportul public din Geneva permite adesea biciclete în afara orelor de vârf."
+        ],
+        "en": [
+          "Switzerland is bike-friendly; use the designated paths.",
+          "A helmet is strongly recommended.",
+          "Carry a lock for your bike to secure it at stops.",
+          "Geneva's public transport often allows bikes outside of peak hours."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "CERN Globus & Mikrokosmos (Cluster)",
+            "hu": "CERN Glóbusz és Mikrokozmosz (Klaszter)",
+            "ro": "Globul CERN & Microcosm (Cluster)",
+            "en": "CERN Globe & Microcosm (Cluster)"
+          },
+          "coords": [
+            46.233,
+            6.054
+          ],
+          "category": "landmarks",
+          "arrive_at": "09:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf dem CERN-Besucherparkplatz. Der Globus und der Mikrokosmos sind zu Fuß erreichbar.",
+            "hu": "Parkoljon a CERN látogatói parkolójában. A Glóbusz és a Mikrokozmosz gyalog is elérhető.",
+            "ro": "Parcați în parcarea pentru vizitatori CERN. Globul și Microcosm sunt la distanță de mers pe jos.",
+            "en": "Park at the CERN visitor parking. The Globe and Microcosm are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mikrokosmos",
+            "hu": "Mikrokozmosz",
+            "ro": "Microcosm",
+            "en": "Microcosm"
+          },
+          "coords": [
+            46.234,
+            6.052
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die interaktiven Exponate, die die komplexe Physik erklären.",
+            "hu": "Szánjon időt az interaktív kiállításokra, amelyek elmagyarázzák a komplex fizikát.",
+            "ro": "Luați-vă timp pentru exponatele interactive care explică fizica complexă.",
+            "en": "Take your time with the interactive exhibits that explain the complex physics."
+          }
+        },
+        {
+          "name": {
+            "de": "Meyrin-Dorf (Cluster)",
+            "hu": "Meyrin-falu (Klaszter)",
+            "ro": "Satul Meyrin (Cluster)",
+            "en": "Meyrin-Village (Cluster)"
+          },
+          "coords": [
+            46.2335,
+            6.0761
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie einen Parkplatz in der Nähe des Zentrums und erkunden Sie das Dorf zu Fuß. Perfekt für das Mittagessen.",
+            "hu": "Keressen parkolót a központ közelében, és fedezze fel a falut gyalog. Tökéletes ebédhez.",
+            "ro": "Găsiți o parcare lângă centru și explorați satul pe jos. Perfect pentru prânz.",
+            "en": "Find parking near the center and explore the village on foot. Perfect for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Mairie",
+            "hu": "Városháza Park",
+            "ro": "Parcul Primăriei",
+            "en": "Parc de la Mairie"
+          },
+          "coords": [
+            46.2328,
+            6.0782
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Dorfzentrum, ideal für eine Verdauungspause.",
+            "hu": "Rövid séta a falu központjától, ideális emésztési szünetre.",
+            "ro": "O scurtă plimbare din centrul satului, ideală pentru o pauză digestivă.",
+            "en": "A short walk from the village center, ideal for a digestive break."
+          }
+        },
+        {
+          "name": {
+            "de": "Alpiner Botanischer Garten (Cluster)",
+            "hu": "Alpesi Botanikus Kert (Klaszter)",
+            "ro": "Grădina Botanică Alpină (Cluster)",
+            "en": "Jardin botanique alpin (Cluster)"
+          },
+          "coords": [
+            46.2295,
+            6.0851
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Auto im Dorf geparkt, es ist ein angenehmer Spaziergang zum Garten.",
+            "hu": "Hagyja az autót a faluban parkolni, kellemes séta a kertig.",
+            "ro": "Lăsați mașina parcată în sat, este o plimbare plăcută până la grădină.",
+            "en": "Leave your car parked in the village; it's a pleasant walk to the garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Vivarium von Meyrin",
+            "hu": "Meyrini Vivárium",
+            "ro": "Vivariumul din Meyrin",
+            "en": "Vivarium de Meyrin"
+          },
+          "coords": [
+            46.2288,
+            6.0862
+          ],
+          "category": "museums",
+          "arrive_at": "16:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer lehrreichen Erfahrung für die ganze Familie.",
+            "hu": "Zárja a napot egy tanulságos élménnyel az egész család számára.",
+            "ro": "Încheiați ziua cu o experiență educativă pentru întreaga familie.",
+            "en": "End your day with an educational experience for the whole family."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Fahrt zum CERN, wo Sie in die Welt der Teilchenphysik eintauchen. Nach der Erkundung des Globus und des Mikrokosmos fahren Sie ins historische Herz von Meyrin zum Mittagessen. Der Nachmittag ist eine fußgängerfreundliche Erkundung des Dorfes, des ruhigen Parc de la Mairie und der üppigen Flora des Alpinen Botanischen Gartens, die alle bequem von einem einzigen Parkplatz aus erreichbar sind. Der Tag endet im faszinierenden Vivarium, bevor Sie Ihre Heimreise antreten.",
+        "hu": "A nap a CERN-hez való autózással kezdődik, ahol elmerülhet a részecskefizika világában. A Glóbusz és a Mikrokozmosz felfedezése után Meyrin történelmi szívébe hajt egy ebédre. A délután egy gyalogosbarát felfedezés a faluban, a csendes Városháza Parkban és az Alpesi Botanikus Kert buja növényvilágában, mindez egyetlen parkolóból kényelmesen elérhető. A nap a lenyűgöző Viváriumban ér véget, mielőtt hazaindulna.",
+        "ro": "Ziua începe cu o călătorie cu mașina la CERN, unde vă veți cufunda în lumea fizicii particulelor. După ce explorați Globul și Microcosm, conduceți spre inima istorică a Meyrinului pentru prânz. După-amiaza este o explorare pietonală a satului, a liniștitului Parc de la Mairie și a florei luxuriante a Grădinii Botanice Alpine, toate accesibile convenabil dintr-un singur loc de parcare. Ziua se încheie la fascinantul Vivarium înainte de a vă întoarce acasă.",
+        "en": "Your day starts with a drive to CERN to immerse yourself in the world of particle physics. After exploring the Globe and Microcosm, you'll drive to Meyrin's historic heart for lunch. The afternoon is a pedestrian-friendly exploration of the village, the tranquil Parc de la Mairie, and the lush flora of the Alpine Botanical Garden, all conveniently reached from a single parking spot. The day concludes at the fascinating Vivarium before you head back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Auberge de Meyrin",
+            "tip": "Suchen Sie nach diesem Restaurant für traditionelle Schweizer Gerichte."
+          },
+          {
+            "name": "Fondue Bacchus",
+            "tip": "Eine Variante des Fondues, bei der Brot in Wein statt Käse getaucht wird."
+          },
+          {
+            "name": "Meringues",
+            "tip": "Genießen Sie leichte und luftige Meringues mit Doppelrahm aus Gruyère."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Auberge de Meyrin",
+            "tip": "Keresse ezt az éttermet a hagyományos svájci ételekért."
+          },
+          {
+            "name": "Fondue Bacchus",
+            "tip": "A fondü egy változata, ahol a kenyeret sajt helyett borba mártják."
+          },
+          {
+            "name": "Habcsók",
+            "tip": "Élvezze a könnyű és légies habcsókokat Gruyère-i tejszínnel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Auberge de Meyrin",
+            "tip": "Căutați acest restaurant pentru mâncăruri tradiționale elvețiene."
+          },
+          {
+            "name": "Fondue Bacchus",
+            "tip": "O variantă de fondue în care pâinea este înmuiată în vin în loc de brânză."
+          },
+          {
+            "name": "Bezele",
+            "tip": "Bucurați-vă de bezele ușoare și aerate cu smântână dublă din Gruyère."
+          }
+        ],
+        "en": [
+          {
+            "name": "Auberge de Meyrin",
+            "tip": "Look for this restaurant for traditional Swiss dishes."
+          },
+          {
+            "name": "Fondue Bacchus",
+            "tip": "A variation of fondue where bread is dipped in wine instead of cheese."
+          },
+          {
+            "name": "Meringues",
+            "tip": "Enjoy light and airy meringues with double cream from Gruyère."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bois de la Traille",
+            "tip": "Ein nahegelegener Wald, perfekt für einen kurzen, ruhigen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt bei den CERN-Wohnungen",
+            "tip": "Bietet einen weiten Blick über die Landschaft.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Les Jardins de la Croisette",
+            "tip": "Ein weniger bekannter Park für einen Moment der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bois de la Traille",
+            "tip": "Közeli erdő, tökéletes egy rövid, csendes sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátó a CERN lakásainál",
+            "tip": "Tágas kilátást nyújt a vidékre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Les Jardins de la Croisette",
+            "tip": "Kevésbé ismert park egy pillanatnyi békéért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bois de la Traille",
+            "tip": "O pădure din apropiere, perfectă pentru o plimbare scurtă și liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere lângă apartamentele CERN",
+            "tip": "Oferă o vedere panoramică asupra peisajului rural.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Les Jardins de la Croisette",
+            "tip": "Un parc mai puțin cunoscut pentru un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bois de la Traille",
+            "tip": "A nearby forest perfect for a short, quiet walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint near CERN apartments",
+            "tip": "Offers a wide view over the countryside.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Les Jardins de la Croisette",
+            "tip": "A lesser-known park for a moment of peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Blandonnet Centre",
+            "tip": "Ein großes Einkaufszentrum in der Nähe mit dem Auto erreichbar."
+          },
+          {
+            "name": "CERN Souvenirshop",
+            "tip": "Einzigartige Geschenke für Wissenschaftsbegeisterte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Blandonnet Centre",
+            "tip": "Nagy bevásárlóközpont a közelben, autóval elérhető."
+          },
+          {
+            "name": "CERN Ajándékbolt",
+            "tip": "Egyedi ajándékok a tudomány rajongóinak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Blandonnet",
+            "tip": "Un centru comercial mare în apropiere, accesibil cu mașina."
+          },
+          {
+            "name": "Magazinul de suveniruri CERN",
+            "tip": "Cadouri unice pentru pasionații de știință."
+          }
+        ],
+        "en": [
+          {
+            "name": "Blandonnet Centre",
+            "tip": "A large shopping mall nearby, accessible by car."
+          },
+          {
+            "name": "CERN Souvenir Shop",
+            "tip": "Unique gifts for science enthusiasts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren können in der Schweiz teuer sein, halten Sie Münzen bereit.",
+          "Eine 'blaue Scheibe' ist für das Parken in blauen Zonen erforderlich.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen, die streng durchgesetzt werden.",
+          "Planen Sie Ihre Route im Voraus, um Verkehr zu vermeiden."
+        ],
+        "hu": [
+          "A parkolási díjak drágák lehetnek Svájcban, tartson magánál érméket.",
+          "A kék zónákban való parkoláshoz 'kék korong' szükséges.",
+          "Figyeljen a sebességhatárokra, amelyeket szigorúan betartatnak.",
+          "Tervezze meg előre az útvonalat a forgalom elkerülése érdekében."
+        ],
+        "ro": [
+          "Taxele de parcare pot fi scumpe în Elveția, pregătiți monede.",
+          "Este necesar un 'disc albastru' pentru parcarea în zonele albastre.",
+          "Fiți atenți la limitele de viteză, care sunt strict aplicate.",
+          "Planificați-vă traseul în avans pentru a evita traficul."
+        ],
+        "en": [
+          "Parking fees can be expensive in Switzerland; have coins ready.",
+          "A 'blue disc' is required for parking in blue zones.",
+          "Be mindful of speed limits, which are strictly enforced.",
+          "Plan your route in advance to avoid traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "CERN (Cluster)",
+            "hu": "CERN (Klaszter)",
+            "ro": "CERN (Cluster)",
+            "en": "CERN (Cluster)"
+          },
+          "coords": [
+            46.233,
+            6.054
+          ],
+          "category": "landmarks",
+          "arrive_at": "09:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Straßenbahnlinie 18 aus Genf hält direkt am CERN. Kaufen Sie eine Tageskarte.",
+            "hu": "A 18-as villamos Genfből közvetlenül a CERN-nél áll meg. Vegyen napijegyet.",
+            "ro": "Tramvaiul 18 din Geneva oprește chiar la CERN. Cumpărați un bilet de o zi.",
+            "en": "Tram 18 from Geneva stops right at CERN. Buy a day pass."
+          }
+        },
+        {
+          "name": {
+            "de": "Mikrokosmos",
+            "hu": "Mikrokozmosz",
+            "ro": "Microcosm",
+            "en": "Microcosm"
+          },
+          "coords": [
+            46.234,
+            6.052
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Globus entfernt, folgen Sie einfach den Schildern.",
+            "hu": "Rövid séta a Glóbusztól, csak kövesse a táblákat.",
+            "ro": "O scurtă plimbare de la Glob, urmați indicatoarele.",
+            "en": "A short walk from the Globe, just follow the signs."
+          }
+        },
+        {
+          "name": {
+            "de": "Meyrin-Dorf (Cluster)",
+            "hu": "Meyrin-falu (Klaszter)",
+            "ro": "Satul Meyrin (Cluster)",
+            "en": "Meyrin-Village (Cluster)"
+          },
+          "coords": [
+            46.2335,
+            6.0761
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom CERN zur Haltestelle 'Meyrin-Village'. Zeit für das Mittagessen.",
+            "hu": "Szálljon buszra a CERN-től a 'Meyrin-Village' megállóig. Itt az ebédidő.",
+            "ro": "Luați un autobuz de la CERN până la stația 'Meyrin-Village'. Timp pentru prânz.",
+            "en": "Take a bus from CERN to the 'Meyrin-Village' stop. Time for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heimsuchung",
+            "hu": "Sarlós Boldogasszony-templom",
+            "ro": "Biserica Vizitării",
+            "en": "Church of the Visitation"
+          },
+          "coords": [
+            46.2341,
+            6.0755
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort, nur wenige Schritte vom belebten Dorfzentrum entfernt.",
+            "hu": "Békés hely, csak néhány lépésre a forgalmas falu központjától.",
+            "ro": "Un loc pașnic la doar câțiva pași de centrul aglomerat al satului.",
+            "en": "A peaceful spot just a few steps from the bustling village center."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre Forum Meyrin",
+            "hu": "Forum Meyrin Színház",
+            "ro": "Teatrul Forum Meyrin",
+            "en": "Théâtre Forum Meyrin"
+          },
+          "coords": [
+            46.2331,
+            6.0805
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein architektonisches Highlight der Region. Überprüfen Sie, ob tagsüber Ausstellungen stattfinden.",
+            "hu": "A régió építészeti fénypontja. Ellenőrizze, vannak-e napközben kiállítások.",
+            "ro": "Un punct de atracție arhitectural al regiunii. Verificați dacă există expoziții în timpul zilei.",
+            "en": "An architectural highlight of the region. Check for any daytime exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin botanique alpin",
+            "hu": "Alpesi Botanikus Kert",
+            "ro": "Grădina Botanică Alpină",
+            "en": "Jardin botanique alpin"
+          },
+          "coords": [
+            46.2295,
+            6.0851
+          ],
+          "arrive_at": "16:05",
+          "stay_min": 85,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "category": "parks/promenades/beaches",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur nächsten Haltestelle und genießen Sie einen entspannenden Spaziergang zum Abschluss des Tages.",
+            "hu": "Szálljon buszra a legközelebbi megállóig, és élvezze a pihentető sétát a nap végén.",
+            "ro": "Luați un autobuz până la cea mai apropiată stație și bucurați-vă de o plimbare relaxantă la sfârșitul zilei.",
+            "en": "Take a bus to the nearest stop and enjoy a relaxing walk to end your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit einer Tageskarte für die öffentlichen Verkehrsmittel beginnen Sie am CERN, dem globalen Zentrum für Wissenschaft. Nach einem Vormittag voller Entdeckungen bringt Sie ein Bus ins Herz von Meyrin zum Mittagessen. Der Nachmittag ist eine fußgängerfreundliche Erkundung des Dorfes, der Kirche und des Theaters. Ein weiterer kurzer Busausflug führt Sie zum Alpinen Botanischen Garten für einen ruhigen Abschluss des Tages, der die Effizienz und Reichweite des Schweizer Verkehrsnetzes demonstriert.",
+        "hu": "Egy napijeggyel a tömegközlekedéshez a CERN-nél, a tudomány globális központjában kezdi a napot. A felfedezésekkel teli délelőtt után egy busz Meyrin szívébe viszi ebédelni. A délután a falu, a templom és a színház gyalogos felfedezése. Egy újabb rövid buszút vezet az Alpesi Botanikus Kertbe, hogy békésen zárja a napot, bemutatva a svájci közlekedési hálózat hatékonyságát és hatókörét.",
+        "ro": "Folosind un abonament de o zi pentru transportul public, începeți la CERN, centrul global pentru știință. După o dimineață de explorare, un autobuz vă duce în inima Meyrinului pentru prânz. După-amiaza este o explorare pietonală a satului, a bisericii și a teatrului. O altă scurtă călătorie cu autobuzul vă duce la Grădina Botanică Alpină pentru o încheiere liniștită a zilei, demonstrând eficiența și acoperirea rețelei de transport elvețiene.",
+        "en": "Using a public transit day pass, you'll start at CERN, the global hub for science. After a morning of discovery, a bus takes you to the heart of Meyrin for lunch. The afternoon is a pedestrian-friendly exploration of the village, the church, and the theatre. Another short bus trip takes you to the Alpine Botanical Garden for a peaceful end to the day, showcasing the efficiency and reach of the Swiss transport network."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Papet Vaudois",
+            "tip": "Lauch und Kartoffeln mit Wurst, ein herzhaftes Gericht aus der Nachbarregion."
+          },
+          {
+            "name": "Carac",
+            "tip": "Ein kleines Törtchen mit grüner Glasur, eine süße Schweizer Spezialität."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Probieren Sie das berühmte Schweizer Erfrischungsgetränk aus Milchserum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Papet Vaudois",
+            "tip": "Póréhagyma és burgonya kolbásszal, egy kiadós étel a szomszédos régióból."
+          },
+          {
+            "name": "Carac",
+            "tip": "Kis tortácska zöld mázzal, egy édes svájci különlegesség."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Kóstolja meg a híres svájci üdítőitalt, amely tejsavóból készül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Papet Vaudois",
+            "tip": "Praz și cartofi cu cârnați, un fel de mâncare consistent din regiunea vecină."
+          },
+          {
+            "name": "Carac",
+            "tip": "O mică tartă cu glazură verde, o specialitate dulce elvețiană."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Încercați celebra băutură răcoritoare elvețiană făcută din zer de lapte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Papet Vaudois",
+            "tip": "Leeks and potatoes with sausage, a hearty dish from the neighboring region."
+          },
+          {
+            "name": "Carac",
+            "tip": "A small tartlet with green icing, a sweet Swiss specialty."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Try the famous Swiss soft drink made from milk serum."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Les Vergers",
+            "tip": "Ein modernes Öko-Viertel mit ruhigen Grünflächen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bibliothèque de Meyrin",
+            "tip": "Eine ruhige Bibliothek zum Entspannen und Lesen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang des Nant d'Avril",
+            "tip": "Ein kleiner Bach mit einem friedlichen Weg.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Vergers",
+            "tip": "Modern öko-negyed csendes zöldterületekkel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Meyrini Könyvtár",
+            "tip": "Csendes könyvtár a pihenéshez és olvasáshoz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Nant d'Avril mentén",
+            "tip": "Kis patak békés ösvénnyel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Vergers",
+            "tip": "Un eco-cartier modern cu spații verzi liniștite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biblioteca din Meyrin",
+            "tip": "O bibliotecă liniștită pentru a vă relaxa și a citi.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul Nant d'Avril",
+            "tip": "Un pârâu mic cu o potecă pașnică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Vergers",
+            "tip": "A modern eco-district with quiet green spaces.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Meyrin Library",
+            "tip": "A quiet library to relax and read.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the Nant d'Avril",
+            "tip": "A small stream with a peaceful path.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Genfer Geschenke",
+            "tip": "Suchen Sie nach Uhren, Messern und Schokolade in den Geschäften im Zentrum."
+          },
+          {
+            "name": "TPG-Verkaufsstelle",
+            "tip": "Hier erhalten Sie Informationen und Tickets für den öffentlichen Verkehr in Genf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Genfi ajándékok",
+            "tip": "Keressen órákat, késeket és csokoládét a központi üzletekben."
+          },
+          {
+            "name": "TPG értékesítési pont",
+            "tip": "Itt kaphat információt és jegyeket a genfi tömegközlekedéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cadouri din Geneva",
+            "tip": "Căutați ceasuri, cuțite și ciocolată în magazinele din centru."
+          },
+          {
+            "name": "Punct de vânzare TPG",
+            "tip": "Obțineți informații și bilete pentru transportul public din Geneva aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Geneva Gifts",
+            "tip": "Look for watches, knives, and chocolate in the central shops."
+          },
+          {
+            "name": "TPG Sales Point",
+            "tip": "Get information and tickets for Geneva public transport here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eine Tageskarte ('Carte Journalière') ist die kostengünstigste Option.",
+          "Validieren Sie Ihr Ticket vor jeder Fahrt.",
+          "Laden Sie die TPG-App für Echtzeit-Fahrpläne herunter.",
+          "Busse und Straßenbahnen sind pünktlich, planen Sie entsprechend."
+        ],
+        "hu": [
+          "A napijegy ('Carte Journalière') a legköltséghatékonyabb lehetőség.",
+          "Érvényesítse a jegyét minden utazás előtt.",
+          "Töltse le a TPG alkalmazást a valós idejű menetrendekért.",
+          "A buszok és villamosok pontosak, tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Un bilet de o zi ('Carte Journalière') este cea mai rentabilă opțiune.",
+          "Validați-vă biletul înainte de fiecare călătorie.",
+          "Descărcați aplicația TPG pentru orare în timp real.",
+          "Autobuzele și tramvaiele sunt punctuale, planificați-vă în consecință."
+        ],
+        "en": [
+          "A day pass ('Carte Journalière') is the most cost-effective option.",
+          "Validate your ticket before each journey.",
+          "Download the TPG app for real-time schedules.",
+          "Buses and trams are punctual, so plan accordingly."
+        ]
+      }
+    }
+  }
+}

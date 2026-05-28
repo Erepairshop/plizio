@@ -1,0 +1,1540 @@
+{
+  "city_id": "slovakia-kosice-cities-v2",
+  "anchor": {
+    "name": "Košice",
+    "coords": [
+      21.2611,
+      48.7164
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 2.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptstraße (Hlavná ulica)",
+            "hu": "Fő utca (Hlavná ulica)",
+            "ro": "Strada Principală (Hlavná ulica)",
+            "en": "Main Street (Hlavná ulica)"
+          },
+          "coords": [
+            21.2577,
+            48.7205
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihren Tag mit einem Kaffee in einem der vielen Cafés.",
+            "hu": "Indítsa a napot egy kávéval az utca számos kávézójának egyikében.",
+            "ro": "Începeți ziua aici cu o cafea la una dintre numeroasele cafenele.",
+            "en": "Start your day here with a coffee at one of the many cafés."
+          }
+        },
+        {
+          "name": {
+            "de": "Pestäule (Immaculata)",
+            "hu": "Pestis-szobor (Immaculata)",
+            "ro": "Coloana Ciumei (Immaculata)",
+            "en": "Plague Column (Immaculata)"
+          },
+          "coords": [
+            21.2575,
+            48.7212
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Denkmal im Herzen der Stadt. Ideal für Fotos.",
+            "hu": "Egy lenyűgöző emlékmű a város szívében. Ideális fotózáshoz.",
+            "ro": "Un monument impresionant în inima orașului. Ideal pentru fotografii.",
+            "en": "An impressive monument in the heart of the city. Ideal for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom der Heiligen Elisabeth",
+            "hu": "Szent Erzsébet-dóm",
+            "ro": "Catedrala Sfânta Elisabeta",
+            "en": "St. Elisabeth Cathedral"
+          },
+          "coords": [
+            21.2579,
+            48.7207
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besteigen Sie den Nordturm für eine atemberaubende Aussicht über die Stadt.",
+            "hu": "Másszon fel az Északi-toronyba a városra nyíló lélegzetelállító kilátásért.",
+            "ro": "Urcați în Turnul de Nord pentru o priveliște uluitoare asupra orașului.",
+            "en": "Climb the North Tower for a breathtaking view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Michaels-Kapelle",
+            "hu": "Szent Mihály-kápolna",
+            "ro": "Capela Sfântul Mihail",
+            "en": "St. Michael's Chapel"
+          },
+          "coords": [
+            21.2582,
+            48.7201
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine Oase der Ruhe direkt neben der belebten Kathedrale.",
+            "hu": "A nyugalom oázisa a nyüzsgő dóm mellett.",
+            "ro": "O oază de liniște chiar lângă catedrala aglomerată.",
+            "en": "An oasis of calm right next to the bustling cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Urban-Turm",
+            "hu": "Orbán-torony",
+            "ro": "Turnul Urban",
+            "en": "Urban Tower"
+          },
+          "coords": [
+            21.2586,
+            48.7211
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Glockenturm hat eine faszinierende Geschichte und beherbergt ein kleines Wachsfigurenkabinett.",
+            "hu": "A harangtorony lenyűgöző történettel rendelkezik és egy kis panoptikumnak ad otthont.",
+            "ro": "Clopotnița are o istorie fascinantă și găzduiește un mic muzeu de ceară.",
+            "en": "The bell tower has a fascinating history and houses a small wax museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mikluš-Gefängnis",
+            "hu": "Miklós börtön",
+            "ro": "Închisoarea Mikluš",
+            "en": "Mikluš Prison"
+          },
+          "coords": [
+            21.26,
+            48.7233
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Buchen Sie eine Führung, um die gruseligen Geschichten dieses mittelalterlichen Gefängnisses zu hören.",
+            "hu": "Foglaljon vezetett túrát, hogy hallja a középkori börtön hátborzongató történeteit.",
+            "ro": "Rezervați un tur ghidat pentru a auzi poveștile înfiorătoare ale acestei închisori medievale.",
+            "en": "Book a guided tour to hear the spooky stories of this medieval prison."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostslowakisches Museum",
+            "hu": "Kelet-Szlovákiai Múzeum",
+            "ro": "Muzeul Slovaciei de Est",
+            "en": "East Slovak Museum"
+          },
+          "coords": [
+            21.2625,
+            48.723
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den Goldenen Schatz von Košice, eine beeindruckende Sammlung von Goldmünzen.",
+            "hu": "Ne hagyja ki a Kassai aranykincset, egy lenyűgöző aranyérme-gyűjteményt.",
+            "ro": "Nu ratați Tezaurul de Aur din Košice, o colecție impresionantă de monede de aur.",
+            "en": "Don't miss the Golden Treasure of Košice, an impressive collection of gold coins."
+          }
+        },
+        {
+          "name": {
+            "de": "Singender Brunnen",
+            "hu": "Éneklő szökőkút",
+            "ro": "Fântâna Cântătoare",
+            "en": "Singing Fountain"
+          },
+          "coords": [
+            21.2583,
+            48.7222
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Ende des Tages und genießen Sie die Musik- und Lichtshow am Abend.",
+            "hu": "Pihenjen a nap végén, és élvezze az esti zene- és fény-showt.",
+            "ro": "Relaxați-vă la sfârșitul zilei și bucurați-vă de spectacolul de muzică și lumini seara.",
+            "en": "Relax at the end of the day and enjoy the music and light show in the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Košice beginnt auf der prächtigen Hauptstraße, dem Herzen der Stadt. Am Vormittag erkunden Sie das religiöse Zentrum mit dem Elisabeth-Dom und der Michaelskapelle. Der Mittag führt Sie in die dunkle Vergangenheit des Mikluš-Gefängnisses, bevor Sie am Nachmittag die Schätze des Ostslowakischen Museums entdecken. Den Abend lassen Sie entspannt am Singenden Brunnen ausklingen und genießen die Atmosphäre dieser lebendigen Stadt.",
+        "hu": "Kassai napja a város szívében, a csodálatos Fő utcán kezdődik. Délelőtt a vallási központot fedezi fel a Szent Erzsébet-dómmal és a Szent Mihály-kápolnával. A dél a Miklós börtön sötét múltjába vezeti, mielőtt délután felfedezné a Kelet-Szlovákiai Múzeum kincseit. Az estét pihenéssel zárja az Éneklő szökőkútnál, élvezve ennek az élettel teli városnak a hangulatát.",
+        "ro": "Ziua dvs. în Košice începe pe splendida Stradă Principală, inima orașului. Dimineața explorați centrul religios cu Catedrala Sf. Elisabeta și Capela Sf. Mihail. Amiaza vă poartă în trecutul întunecat al Închisorii Mikluš, înainte de a descoperi comorile Muzeului Slovaciei de Est după-amiaza. Încheiați seara relaxându-vă la Fântâna Cântătoare, bucurându-vă de atmosfera acestui oraș vibrant.",
+        "en": "Your day in Košice begins on the magnificent Main Street, the heart of the city. In the morning, you'll explore the religious center with St. Elisabeth Cathedral and St. Michael's Chapel. Midday takes you into the dark past of Mikluš Prison before you discover the treasures of the East Slovak Museum in the afternoon. You'll end the evening relaxing at the Singing Fountain, enjoying the atmosphere of this vibrant city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové Halušky",
+            "tip": "Probieren Sie das slowakische Nationalgericht in einem traditionellen Restaurant wie dem Med Malina."
+          },
+          {
+            "name": "Lokše",
+            "tip": "Kartoffelfladen, süß oder herzhaft gefüllt, ein perfekter Snack vom Weihnachtsmarkt oder in Restaurants wie Hostinec."
+          },
+          {
+            "name": "Gulaschsuppe (Gulášová polievka)",
+            "tip": "Eine herzhafte Suppe, ideal für einen kühlen Tag, oft in den Pubs entlang der Hauptstraße serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové Halušky (Juhtúrós sztrapacska)",
+            "tip": "Kóstolja meg Szlovákia nemzeti ételét egy hagyományos étteremben, mint például a Med Malina."
+          },
+          {
+            "name": "Lokše (Krumplilángos)",
+            "tip": "Édesen vagy sósan töltött burgonyalepény, tökéletes harapnivaló a karácsonyi vásárból vagy éttermekből, mint a Hostinec."
+          },
+          {
+            "name": "Gulyásleves (Gulášová polievka)",
+            "tip": "Kiadós leves, ideális egy hűvös napra, gyakran szolgálják fel a Fő utca pubjaiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové Halušky",
+            "tip": "Încercați mâncarea națională slovacă la un restaurant tradițional precum Med Malina."
+          },
+          {
+            "name": "Lokše",
+            "tip": "Turte de cartofi, umplute dulce sau sărat, o gustare perfectă de la târgul de Crăciun sau la restaurante precum Hostinec."
+          },
+          {
+            "name": "Supă de gulaș (Gulášová polievka)",
+            "tip": "O supă consistentă, ideală pentru o zi răcoroasă, adesea servită în pub-urile de pe strada principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové Halušky",
+            "tip": "Try the Slovak national dish at a traditional restaurant like Med Malina."
+          },
+          {
+            "name": "Lokše",
+            "tip": "Potato pancakes, filled sweet or savory, a perfect snack from the Christmas market or at restaurants like Hostinec."
+          },
+          {
+            "name": "Goulash Soup (Gulášová polievka)",
+            "tip": "A hearty soup, ideal for a cool day, often served in the pubs along Main Street."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St.-Michaels-Kapelle",
+            "tip": "Ein friedlicher Ort, um dem Trubel der Hauptstraße zu entkommen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Etwas außerhalb des Zentrums, aber eine grüne Oase der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang vom Domturm",
+            "tip": "Wenn die Öffnungszeiten es erlauben, ist der Blick auf die Stadt im Abendlicht magisch.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Mihály-kápolna",
+            "tip": "Békés hely, ahol elmenekülhet a Fő utca nyüzsgése elől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Kicsit a központon kívül, de a nyugalom zöld oázisa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a dóm tornyából",
+            "tip": "Ha a nyitvatartás engedi, a város látványa az esti fényben varázslatos.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Sfântul Mihail",
+            "tip": "Un loc pașnic pentru a scăpa de agitația străzii principale.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Puțin în afara centrului, dar o oază verde de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare din turnul catedralei",
+            "tip": "Dacă programul permite, priveliștea orașului în lumina serii este magică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Michael's Chapel",
+            "tip": "A peaceful spot to escape the hustle and bustle of the main street.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "A bit outside the center, but a green oasis of calm.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset from the Cathedral Tower",
+            "tip": "If opening hours permit, the view of the city in the evening light is magical.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Aupark Shopping Center",
+            "tip": "Für bekannte Marken und eine moderne Einkaufserfahrung."
+          },
+          {
+            "name": "Kleine Läden auf der Hauptstraße",
+            "tip": "Stöbern Sie nach einzigartigen Souvenirs und lokalen Handwerksprodukten."
+          },
+          {
+            "name": "Dominikanerplatz-Markt",
+            "tip": "Ein Bauernmarkt mit frischen Produkten und lokalen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aupark Bevásárlóközpont",
+            "tip": "Ismert márkákért és modern vásárlási élményért."
+          },
+          {
+            "name": "Kis boltok a Fő utcán",
+            "tip": "Böngésszen egyedi ajándéktárgyak és helyi kézműves termékek között."
+          },
+          {
+            "name": "Domonkos téri piac",
+            "tip": "Termelői piac friss árukkal és helyi specialitásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Aupark",
+            "tip": "Pentru mărci cunoscute și o experiență modernă de cumpărături."
+          },
+          {
+            "name": "Micile magazine de pe Strada Principală",
+            "tip": "Căutați suveniruri unice și produse artizanale locale."
+          },
+          {
+            "name": "Piața Dominicană",
+            "tip": "O piață agricolă cu produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aupark Shopping Center",
+            "tip": "For well-known brands and a modern shopping experience."
+          },
+          {
+            "name": "Small shops on Main Street",
+            "tip": "Browse for unique souvenirs and local craft products."
+          },
+          {
+            "name": "Dominican Square Market",
+            "tip": "A farmers' market with fresh produce and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Košice ist eine sehr fußgängerfreundliche Stadt, besonders das historische Zentrum.",
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Die meisten Sehenswürdigkeiten sind sehr nah beieinander, was einen Spaziergang ideal macht.",
+          "Planen Sie Pausen in den vielen Cafés und Parks entlang der Hauptstraße ein.",
+          "Vergessen Sie Ihre Kamera nicht, die Architektur ist atemberaubend."
+        ],
+        "hu": [
+          "Kassa egy nagyon gyalogosbarát város, különösen a történelmi központ.",
+          "Viseljen kényelmes cipőt, mivel sokat fog macskakövön sétálni.",
+          "A legtöbb látnivaló nagyon közel van egymáshoz, ami ideálissá teszi a sétát.",
+          "Tervezzen szüneteket a Fő utca mentén található számos kávézóban és parkban.",
+          "Ne felejtse otthon a fényképezőgépét, az építészet lenyűgöző."
+        ],
+        "ro": [
+          "Košice este un oraș foarte prietenos cu pietonii, în special centrul istoric.",
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe piatră cubică.",
+          "Majoritatea atracțiilor sunt foarte apropiate una de cealaltă, ceea ce face plimbarea ideală.",
+          "Planificați pauze în numeroasele cafenele și parcuri de-a lungul străzii principale.",
+          "Nu uitați aparatul foto, arhitectura este uluitoare."
+        ],
+        "en": [
+          "Košice is a very pedestrian-friendly city, especially the historic center.",
+          "Wear comfortable shoes, as you will be walking a lot on cobblestones.",
+          "Most of the sights are very close to each other, which makes a walk ideal.",
+          "Plan for breaks in the many cafes and parks along the main street.",
+          "Don't forget your camera, the architecture is stunning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 4.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptstraße (Hlavná ulica)",
+            "hu": "Fő utca (Hlavná ulica)",
+            "ro": "Strada Principală (Hlavná ulica)",
+            "en": "Main Street (Hlavná ulica)"
+          },
+          "coords": [
+            21.2577,
+            48.7205
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und genießen Sie einen ersten Spaziergang.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és tegyen egy első sétát.",
+            "ro": "Legați-vă bicicleta în siguranță și bucurați-vă de o primă plimbare.",
+            "en": "Lock your bike securely and enjoy a first stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatstheater Košice",
+            "hu": "Kassai Állami Színház",
+            "ro": "Teatrul de Stat Košice",
+            "en": "State Theatre Košice"
+          },
+          "coords": [
+            21.2581,
+            48.722
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:44",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die neobarocke Fassade, auch wenn Sie keine Vorstellung besuchen.",
+            "hu": "Csodálja meg a neobarokk homlokzatot, még ha nem is megy előadásra.",
+            "ro": "Admirați fațada neobarocă, chiar dacă nu mergeți la un spectacol.",
+            "en": "Admire the neo-baroque facade, even if you don't attend a performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom der Heiligen Elisabeth",
+            "hu": "Szent Erzsébet-dóm",
+            "ro": "Catedrala Sfânta Elisabeta",
+            "en": "St. Elisabeth Cathedral"
+          },
+          "coords": [
+            21.2579,
+            48.7207
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Eintritt ist frei, aber eine Spende für den Unterhalt wird geschätzt.",
+            "hu": "A belépés ingyenes, de adományokat szívesen fogadnak a fenntartásra.",
+            "ro": "Intrarea este gratuită, dar o donație pentru întreținere este apreciată.",
+            "en": "Admission is free, but a donation for maintenance is appreciated."
+          }
+        },
+        {
+          "name": {
+            "de": "Jakab-Palais",
+            "hu": "Jakab-palota",
+            "ro": "Palatul Jakab",
+            "en": "Jakab's Palace"
+          },
+          "coords": [
+            21.2628,
+            48.7188
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:28",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Fotostopp wert. Das Gebäude ist ein faszinierendes Beispiel für vielseitige Architektur.",
+            "hu": "Érdemes megállni egy fotóra. Az épület a sokszínű építészet lenyűgöző példája.",
+            "ro": "Merită o oprire pentru fotografii. Clădirea este un exemplu fascinant de arhitectură eclectică.",
+            "en": "Worth a photo stop. The building is a fascinating example of eclectic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mikluš-Gefängnis",
+            "hu": "Miklós börtön",
+            "ro": "Închisoarea Mikluš",
+            "en": "Mikluš Prison"
+          },
+          "coords": [
+            21.26,
+            48.7233
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Verbinden Sie den Besuch mit dem Henker-Bastion, um die ganze Geschichte zu erfahren.",
+            "hu": "Kösse össze a látogatást a Hóhérbástyával, hogy megismerje a teljes történetet.",
+            "ro": "Combinați vizita cu Bastionul Călăului pentru a afla întreaga poveste.",
+            "en": "Combine the visit with the Executioner's Bastion to get the full story."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostslowakisches Museum",
+            "hu": "Kelet-Szlovákiai Múzeum",
+            "ro": "Muzeul Slovaciei de Est",
+            "en": "East Slovak Museum"
+          },
+          "coords": [
+            21.2625,
+            48.723
+          ],
+          "category": "museums",
+          "arrive_at": "13:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die naturhistorische Ausstellung im Hauptgebäude ein.",
+            "hu": "Tervezzen elegendő időt a főépületben található természettudományi kiállításra.",
+            "ro": "Planificați suficient timp pentru expoziția de istorie naturală din clădirea principală.",
+            "en": "Plan enough time for the natural history exhibition in the main building."
+          }
+        },
+        {
+          "name": {
+            "de": "Singender Brunnen",
+            "hu": "Éneklő szökőkút",
+            "ro": "Fântâna Cântătoare",
+            "en": "Singing Fountain"
+          },
+          "coords": [
+            21.2583,
+            48.7222
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:18",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Pause. Die Musik wechselt alle Stunde.",
+            "hu": "Nagyszerű hely egy szünetre. A zene óránként változik.",
+            "ro": "Un loc minunat pentru o pauză. Muzica se schimbă în fiecare oră.",
+            "en": "A great place for a break. The music changes every hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Urban-Turm",
+            "hu": "Orbán-torony",
+            "ro": "Turnul Urban",
+            "en": "Urban Tower"
+          },
+          "coords": [
+            21.2586,
+            48.7211
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht und das kleine Café im Inneren am Ende Ihrer Tour.",
+            "hu": "Élvezze a kilátást és a bent található kis kávézót a túra végén.",
+            "ro": "Bucurați-vă de priveliște și de mica cafenea din interior la sfârșitul turului.",
+            "en": "Enjoy the view and the small café inside at the end of your tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Košice schnell und flexibel. Der Morgen beginnt im Herzen der Stadt, an der Hauptstraße und dem Staatstheater, bevor Sie zum majestätischen Dom radeln. Zur Mittagszeit tauchen Sie in die Geschichte im Jakab-Palais und Mikluš-Gefängnis ein. Der Nachmittag ist der Kultur im Ostslowakischen Museum gewidmet. Ihre Tour endet entspannt am Singenden Brunnen, von wo aus Sie den Urban-Turm für einen letzten Ausblick erklimmen.",
+        "hu": "Kerékpárral gyorsan és rugalmasan fedezheti fel Kassát. A reggel a város szívében, a Fő utcán és az Állami Színháznál kezdődik, mielőtt a fenséges dómhoz tekerne. Délidőben elmerülhet a történelemben a Jakab-palotánál és a Miklós börtönben. A délután a kultúráé a Kelet-Szlovákiai Múzeumban. A túra az Éneklő szökőkútnál ér véget, ahonnan felmászhat az Orbán-toronyba egy utolsó kilátásért.",
+        "ro": "Cu bicicleta, explorați Košice rapid și flexibil. Dimineața începe în inima orașului, pe Strada Principală și la Teatrul de Stat, înainte de a pedala spre catedrala maiestuoasă. La prânz, vă scufundați în istorie la Palatul Jakab și Închisoarea Mikluš. După-amiaza este dedicată culturii la Muzeul Slovaciei de Est. Turul se încheie relaxat la Fântâna Cântătoare, de unde puteți urca în Turnul Urban pentru o ultimă priveliște.",
+        "en": "By bike, you can explore Košice quickly and flexibly. The morning starts in the heart of the city, on Main Street and at the State Theatre, before you cycle to the majestic cathedral. At lunchtime, you'll delve into history at Jakab's Palace and Mikluš Prison. The afternoon is dedicated to culture at the East Slovak Museum. Your tour ends relaxing at the Singing Fountain, from where you can climb the Urban Tower for a final view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Republika Východu",
+            "tip": "Ein trendiges Bistro mit modernen slowakischen Gerichten, perfekt für ein Mittagessen."
+          },
+          {
+            "name": "Zmrzlina u Júliusa",
+            "tip": "Das beste Eis der Stadt, ideal für eine Erfrischung auf Ihrer Radtour."
+          },
+          {
+            "name": "Pivovar Hostinec",
+            "tip": "Brauerei und Restaurant mit deftiger lokaler Küche und hauseigenem Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Republika Východu",
+            "tip": "Trendi bisztró modern szlovák ételekkel, tökéletes ebédre."
+          },
+          {
+            "name": "Zmrzlina u Júliusa",
+            "tip": "A város legjobb fagyija, ideális frissítő a kerékpártúra során."
+          },
+          {
+            "name": "Pivovar Hostinec",
+            "tip": "Sörfőzde és étterem kiadós helyi konyhával és saját főzésű sörrel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Republika Východu",
+            "tip": "Un bistro la modă cu mâncăruri slovace moderne, perfect pentru prânz."
+          },
+          {
+            "name": "Zmrzlina u Júliusa",
+            "tip": "Cea mai bună înghețată din oraș, ideală pentru o răcorire în timpul turului cu bicicleta."
+          },
+          {
+            "name": "Pivovar Hostinec",
+            "tip": "Berărie și restaurant cu bucătărie locală consistentă și bere proprie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Republika Východu",
+            "tip": "A trendy bistro with modern Slovak dishes, perfect for lunch."
+          },
+          {
+            "name": "Zmrzlina u Júliusa",
+            "tip": "The best ice cream in town, ideal for a refreshment on your bike tour."
+          },
+          {
+            "name": "Pivovar Hostinec",
+            "tip": "Brewery and restaurant with hearty local cuisine and house-brewed beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mestský Park",
+            "tip": "Der Stadtpark südlich der Altstadt ist ideal für eine ruhige Radtour.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Hornád",
+            "tip": "Folgen Sie dem Fluss für eine entspannte Fahrt abseits des Stadtzentrums.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedhof Rozália",
+            "tip": "Ein historischer Friedhof mit alten Bäumen und einer friedlichen Atmosphäre.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mestský Park (Városi Park)",
+            "tip": "Az óvárostól délre fekvő városi park ideális egy csendes kerékpártúrához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hernád partja",
+            "tip": "Kövesse a folyót egy pihentető tekerésért a városközponton kívül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rozália temető",
+            "tip": "Történelmi temető öreg fákkal és békés hangulattal.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Mestský",
+            "tip": "Parcul orașului la sud de centrul vechi este ideal pentru o plimbare liniștită cu bicicleta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Hornád",
+            "tip": "Urmați râul pentru o plimbare relaxantă departe de centrul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul Rozália",
+            "tip": "Un cimitir istoric cu copaci bătrâni și o atmosferă pașnică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mestský Park (City Park)",
+            "tip": "The city park south of the old town is ideal for a quiet bike ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Hornád River",
+            "tip": "Follow the river for a relaxing ride away from the city center.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rozália Cemetery",
+            "tip": "A historic cemetery with old trees and a peaceful atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Úľuv",
+            "tip": "Geschäft für traditionelles slowakisches Handwerk und hochwertige Souvenirs."
+          },
+          {
+            "name": "Knihkupectvo Artforum",
+            "tip": "Eine unabhängige Buchhandlung mit einer guten Auswahl an englischsprachigen Büchern und einzigartigen Geschenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Úľuv",
+            "tip": "Hagyományos szlovák kézműves termékek és minőségi ajándéktárgyak boltja."
+          },
+          {
+            "name": "Knihkupectvo Artforum",
+            "tip": "Független könyvesbolt jó angol nyelvű könyvválasztékkal és egyedi ajándékokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Úľuv",
+            "tip": "Magazin de artizanat tradițional slovac și suveniruri de înaltă calitate."
+          },
+          {
+            "name": "Knihkupectvo Artforum",
+            "tip": "O librărie independentă cu o selecție bună de cărți în limba engleză și cadouri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Úľuv",
+            "tip": "Shop for traditional Slovak crafts and high-quality souvenirs."
+          },
+          {
+            "name": "Knihkupectvo Artforum",
+            "tip": "An independent bookstore with a good selection of English-language books and unique gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Košice ist relativ flach, was das Radfahren angenehm macht.",
+          "Achten Sie auf die Straßenbahnschienen auf der Hauptstraße.",
+          "Es gibt mehrere Fahrradverleihstationen in der Stadt.",
+          "Nutzen Sie die Radwege entlang des Flusses für eine entspannte Tour.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders im Stadtzentrum."
+        ],
+        "hu": [
+          "Kassa viszonylag sík, ami kellemessé teszi a kerékpározást.",
+          "Vigyázzon a villamossínekre a Fő utcán.",
+          "A városban több kerékpárkölcsönző állomás is található.",
+          "Használja a folyó menti kerékpárutakat egy pihentető túrához.",
+          "Mindig zárja le jól a kerékpárját, különösen a városközpontban."
+        ],
+        "ro": [
+          "Košice este relativ plat, ceea ce face ciclismul plăcut.",
+          "Fiți atenți la șinele de tramvai de pe strada principală.",
+          "Există mai multe stații de închiriere de biciclete în oraș.",
+          "Folosiți pistele de biciclete de-a lungul râului pentru un tur relaxant.",
+          "Legați-vă întotdeauna bine bicicleta, mai ales în centrul orașului."
+        ],
+        "en": [
+          "Košice is relatively flat, which makes cycling pleasant.",
+          "Be aware of the tram tracks on the main street.",
+          "There are several bike rental stations in the city.",
+          "Use the cycle paths along the river for a relaxing tour.",
+          "Always lock your bike securely, especially in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus am Ostslowakischen Museum",
+            "hu": "Parkolóház a Kelet-Szlovákiai Múzeumnál",
+            "ro": "Parcare la Muzeul Slovaciei de Est",
+            "en": "Parking at the East Slovak Museum"
+          },
+          "coords": [
+            21.263,
+            48.7235
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel az első látnivaló-csoportot.",
+            "ro": "Parcați aici pentru a explora primul grup de atracții pe jos.",
+            "en": "Park here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostslowakisches Museum",
+            "hu": "Kelet-Szlovákiai Múzeum",
+            "ro": "Muzeul Slovaciei de Est",
+            "en": "East Slovak Museum"
+          },
+          "coords": [
+            21.2625,
+            48.723
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihre Tour, um den Goldenen Schatz zu sehen.",
+            "hu": "Kezdje itt a túrát, hogy megnézze az Aranykincset.",
+            "ro": "Începeți turul aici pentru a vedea Tezaurul de Aur.",
+            "en": "Start your tour here to see the Golden Treasure."
+          }
+        },
+        {
+          "name": {
+            "de": "Mikluš-Gefängnis",
+            "hu": "Miklós börtön",
+            "ro": "Închisoarea Mikluš",
+            "en": "Mikluš Prison"
+          },
+          "coords": [
+            21.26,
+            48.7233
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum entfernt, tauchen Sie in die mittelalterliche Justiz ein.",
+            "hu": "Egy rövid sétára a múzeumtól, merüljön el a középkori igazságszolgáltatásban.",
+            "ro": "La o scurtă plimbare de muzeu, pătrundeți în justiția medievală.",
+            "en": "A short walk from the museum, delve into medieval justice."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus bei der Hauptstraße",
+            "hu": "Parkolóház a Fő utcánál",
+            "ro": "Parcare lângă Strada Principală",
+            "en": "Parking near Main Street"
+          },
+          "coords": [
+            21.255,
+            48.721
+          ],
+          "category": "transport",
+          "arrive_at": "12:50",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Wechseln Sie das Parkhaus für den zweiten Cluster. Mittagessen in der Nähe.",
+            "hu": "Váltson parkolóházat a második látnivaló-csoporthoz. Ebéd a közelben.",
+            "ro": "Schimbați parcarea pentru al doilea grup de atracții. Prânz în apropiere.",
+            "en": "Change parking garage for the second cluster. Lunch is nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom der Heiligen Elisabeth",
+            "hu": "Szent Erzsébet-dóm",
+            "ro": "Catedrala Sfânta Elisabeta",
+            "en": "St. Elisabeth Cathedral"
+          },
+          "coords": [
+            21.2579,
+            48.7207
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herzstück des zweiten Clusters. Planen Sie Zeit für den Turmaufstieg ein.",
+            "hu": "A második látnivaló-csoport központi eleme. Tervezzen időt a toronymászásra.",
+            "ro": "Piesa centrală a celui de-al doilea grup. Planificați timp pentru a urca în turn.",
+            "en": "The centerpiece of the second cluster. Plan time to climb the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatstheater Košice & Singender Brunnen",
+            "hu": "Kassai Állami Színház és Éneklő szökőkút",
+            "ro": "Teatrul de Stat Košice și Fântâna Cântătoare",
+            "en": "State Theatre Košice & Singing Fountain"
+          },
+          "coords": [
+            21.2581,
+            48.722
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Attraktionen liegen direkt nebeneinander, perfekt für einen entspannten Nachmittag.",
+            "hu": "Ez a két látnivaló közvetlenül egymás mellett található, tökéletes egy pihentető délutánhoz.",
+            "ro": "Aceste două atracții sunt chiar una lângă alta, perfecte pentru o după-amiază relaxantă.",
+            "en": "These two attractions are right next to each other, perfect for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsturm Hradová",
+            "hu": "Hradová kilátótorony",
+            "ro": "Turnul de observație Hradová",
+            "en": "Hradová Observation Tower"
+          },
+          "coords": [
+            21.25,
+            48.75
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:04",
+          "stay_min": 135,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Abschluss des Tages auf den Hügel für den besten Panoramablick auf Košice.",
+            "hu": "A nap végén hajtson fel a hegyre Kassa legjobb panorámájáért.",
+            "ro": "La sfârșitul zilei, conduceți pe deal pentru cea mai bună vedere panoramică a orașului Košice.",
+            "en": "At the end of the day, drive up the hill for the best panoramic view of Košice."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Košice ist in zwei fußläufige Cluster aufgeteilt. Sie beginnen im Osten, parken beim Ostslowakischen Museum und erkunden das Museumsviertel mit dem Mikluš-Gefängnis. Am Mittag fahren Sie ins absolute Zentrum, parken erneut und widmen sich dem Dom, dem Theater und dem Brunnen. Zum Abschluss des Tages fahren Sie zum Hradová-Turm, um einen atemberaubenden Blick auf die Stadt zu genießen, die Sie gerade erkundet haben.",
+        "hu": "Autós napja Kassán két gyalogos zónára oszlik. Keleten kezd, a Kelet-Szlovákiai Múzeumnál parkol, és felfedezi a múzeumi negyedet a Miklós börtönnel. Délben a központba hajt, újra parkol, és a dómnak, a színháznak és a szökőkútnak szenteli idejét. A nap végén felhajt a Hradová-toronyhoz, hogy élvezze a lenyűgöző kilátást a városra, amelyet éppen felfedezett.",
+        "ro": "Ziua dvs. cu mașina în Košice este împărțită în două grupuri pietonale. Începeți în est, parcați la Muzeul Slovaciei de Est și explorați cartierul muzeelor cu Închisoarea Mikluš. La prânz, conduceți spre centrul absolut, parcați din nou și dedicați-vă Catedralei, teatrului și fântânii. La sfârșitul zilei, conduceți spre Turnul Hradová pentru a vă bucura de o priveliște uluitoare asupra orașului pe care tocmai l-ați explorat.",
+        "en": "Your car day in Košice is divided into two walking clusters. You'll start in the east, parking at the East Slovak Museum and exploring the museum quarter with Mikluš Prison. At noon, you'll drive to the absolute center, park again, and dedicate your time to the Cathedral, the theatre, and the fountain. At the end of the day, you'll drive to the Hradová Tower to enjoy a breathtaking view of the city you've just explored."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Colonial Restaurant",
+            "tip": "Ein gehobenes Restaurant in der Nähe des Doms, ideal für ein entspanntes Mittagessen."
+          },
+          {
+            "name": "Camelot",
+            "tip": "Mittelalterliches Ambiente und herzhafte Fleischgerichte. Ein Erlebnis für das Abendessen."
+          },
+          {
+            "name": "Karpatská Perla",
+            "tip": "Probieren Sie lokale Weine, um den Tag ausklingen zu lassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Colonial Étterem",
+            "tip": "Elegáns étterem a dóm közelében, ideális egy pihentető ebédhez."
+          },
+          {
+            "name": "Camelot",
+            "tip": "Középkori hangulat és kiadós húsételek. Élmény a vacsorához."
+          },
+          {
+            "name": "Karpatská Perla",
+            "tip": "Kóstoljon helyi borokat a nap lezárásaként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Le Colonial",
+            "tip": "Un restaurant elegant lângă catedrală, ideal pentru un prânz relaxant."
+          },
+          {
+            "name": "Camelot",
+            "tip": "Ambianță medievală și preparate consistente din carne. O experiență pentru cină."
+          },
+          {
+            "name": "Karpatská Perla",
+            "tip": "Degustați vinuri locale pentru a încheia ziua."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Colonial Restaurant",
+            "tip": "An upscale restaurant near the cathedral, ideal for a relaxed lunch."
+          },
+          {
+            "name": "Camelot",
+            "tip": "Medieval atmosphere and hearty meat dishes. An experience for dinner."
+          },
+          {
+            "name": "Karpatská Perla",
+            "tip": "Taste local wines to round off the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtsturm Hradová",
+            "tip": "Der perfekte Ort, um über der Stadt zu stehen und die Ruhe zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bankov Erholungsgebiet",
+            "tip": "Ein kurzer Ausflug mit dem Auto in die Wälder für einen Spaziergang in der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hradová kilátótorony",
+            "tip": "Tökéletes hely, hogy a város felett állva élvezze a csendet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bankov üdülőterület",
+            "tip": "Rövid autós kirándulás az erdőbe egy természetjáró sétáért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul de observație Hradová",
+            "tip": "Locul perfect pentru a sta deasupra orașului și a te bucura de liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Zona de agrement Bankov",
+            "tip": "O scurtă excursie cu mașina în pădure pentru o plimbare în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hradová Observation Tower",
+            "tip": "The perfect place to stand above the city and enjoy the quiet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bankov Recreation Area",
+            "tip": "A short car trip to the forests for a walk in nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galéria Shopping",
+            "tip": "Ein weiteres großes Einkaufszentrum, das leicht mit dem Auto zu erreichen ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galéria Shopping",
+            "tip": "Egy másik nagy bevásárlóközpont, amely autóval könnyen megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galéria Shopping",
+            "tip": "Un alt centru comercial mare, ușor accesibil cu mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galéria Shopping",
+            "tip": "Another large shopping center that is easily accessible by car."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Zentrum teuer sein. Nutzen Sie Parkhäuser am Rande der Fußgängerzone.",
+          "Planen Sie Ihre Route im Voraus, um Einbahnstraßen zu vermeiden.",
+          "Die Cluster-Strategie spart Parkgebühren und Stress.",
+          "Ein Ausflug zu den umliegenden Hügeln ist mit dem Auto einfach und lohnenswert.",
+          "Achten Sie auf die Parkzonen und deren Beschränkungen."
+        ],
+        "hu": [
+          "A parkolás drága lehet a központban. Használja a parkolóházakat a sétálóövezet szélén.",
+          "Tervezze meg előre az útvonalat, hogy elkerülje az egyirányú utcákat.",
+          "A zónás stratégia parkolási díjat és stresszt takarít meg.",
+          "Egy kirándulás a környező hegyekbe autóval egyszerű és megéri.",
+          "Figyeljen a parkolási zónákra és azok korlátozásaira."
+        ],
+        "ro": [
+          "Parcarea poate fi scumpă în centru. Folosiți parcările de la marginea zonei pietonale.",
+          "Planificați-vă ruta în avans pentru a evita străzile cu sens unic.",
+          "Strategia pe grupuri economisește taxe de parcare și stres.",
+          "O excursie la dealurile din jur este ușoară și merită cu mașina.",
+          "Fiți atenți la zonele de parcare și la restricțiile acestora."
+        ],
+        "en": [
+          "Parking can be expensive in the center. Use parking garages on the edge of the pedestrian zone.",
+          "Plan your route in advance to avoid one-way streets.",
+          "The cluster strategy saves parking fees and stress.",
+          "A trip to the surrounding hills is easy and worthwhile by car.",
+          "Pay attention to the parking zones and their restrictions."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Haltestelle Námestie osloboditeľov",
+            "hu": "Námestie osloboditeľov megálló",
+            "ro": "Stația Námestie osloboditeľov",
+            "en": "Námestie osloboditeľov stop"
+          },
+          "coords": [
+            21.2619,
+            48.7169
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Dies ist ein zentraler Knotenpunkt, von dem aus Sie den südlichen Teil der Altstadt erreichen.",
+            "hu": "Ez egy központi csomópont, ahonnan elérheti az óváros déli részét.",
+            "ro": "Acesta este un nod central de unde puteți ajunge în partea de sud a orașului vechi.",
+            "en": "This is a central hub from which you can reach the southern part of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Jakab-Palais",
+            "hu": "Jakab-palota",
+            "ro": "Palatul Jakab",
+            "en": "Jakab's Palace"
+          },
+          "coords": [
+            21.2628,
+            48.7188
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Haltestelle zu diesem architektonischen Juwel.",
+            "hu": "Rövid séta a megállótól ehhez az építészeti gyöngyszemhez.",
+            "ro": "O scurtă plimbare de la stație până la această bijuterie arhitecturală.",
+            "en": "A short walk from the stop to this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostslowakisches Museum",
+            "hu": "Kelet-Szlovákiai Múzeum",
+            "ro": "Muzeul Slovaciei de Est",
+            "en": "East Slovak Museum"
+          },
+          "coords": [
+            21.2625,
+            48.723
+          ],
+          "category": "museums",
+          "arrive_at": "09:58",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Vormittag hier, bevor Sie weiter ins Zentrum gehen.",
+            "hu": "Töltse itt a délelőttöt, mielőtt továbbmegy a központba.",
+            "ro": "Petreceți dimineața aici înainte de a merge mai departe în centru.",
+            "en": "Spend the morning here before heading further into the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Dom sv. Alžbety",
+            "hu": "Dom sv. Alžbety megálló",
+            "ro": "Stația Dom sv. Alžbety",
+            "en": "Dom sv. Alžbety stop"
+          },
+          "coords": [
+            21.259,
+            48.72
+          ],
+          "category": "transport",
+          "arrive_at": "12:13",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahn, um zum zweiten, zentralen Cluster zu gelangen.",
+            "hu": "Menjen villamossal a második, központi zónába.",
+            "ro": "Luați tramvaiul pentru a ajunge la al doilea grup, cel central.",
+            "en": "Take the tram to get to the second, central cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom der Heiligen Elisabeth",
+            "hu": "Szent Erzsébet-dóm",
+            "ro": "Catedrala Sfânta Elisabeta",
+            "en": "St. Elisabeth Cathedral"
+          },
+          "coords": [
+            21.2579,
+            48.7207
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie aus und stehen Sie direkt vor dem Wahrzeichen der Stadt.",
+            "hu": "Szálljon le, és máris a város jelképe előtt áll.",
+            "ro": "Coborâți și vă veți afla chiar în fața emblemei orașului.",
+            "en": "Get off and find yourself right in front of the city's landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptstraße & Pestsäule",
+            "hu": "Fő utca és Pestis-szobor",
+            "ro": "Strada Principală și Coloana Ciumei",
+            "en": "Main Street & Plague Column"
+          },
+          "coords": [
+            21.2577,
+            48.7205
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für das Mittagessen und zum Schlendern auf dieser wunderschönen Straße.",
+            "hu": "Szánjon időt az ebédre és a sétára ezen a gyönyörű utcán.",
+            "ro": "Luați-vă timp pentru prânz și pentru a vă plimba pe această stradă frumoasă.",
+            "en": "Take your time for lunch and to stroll down this beautiful street."
+          }
+        },
+        {
+          "name": {
+            "de": "Singender Brunnen & Staatstheater",
+            "hu": "Éneklő szökőkút és Állami Színház",
+            "ro": "Fântâna Cântătoare și Teatrul de Stat",
+            "en": "Singing Fountain & State Theatre"
+          },
+          "coords": [
+            21.2583,
+            48.7222
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:46",
+          "stay_min": 145,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss des Tages. Die Abendvorstellung des Brunnens ist besonders schön.",
+            "hu": "Pihentető befejezése a napnak. A szökőkút esti előadása különösen szép.",
+            "ro": "Un final relaxant al zilei. Spectacolul de seară al fântânii este deosebit de frumos.",
+            "en": "A relaxing end to the day. The evening performance of the fountain is particularly beautiful."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln navigieren Sie clever durch Košice. Sie starten am südlichen Ende der Altstadt und erkunden zu Fuß das Viertel um den Jakab-Palast und das Ostslowakische Museum. Eine kurze Straßenbahnfahrt bringt Sie am Mittag ins Herz der Stadt, zum Dom. Von dort aus erkunden Sie den Rest des Tages das zentrale Cluster zu Fuß, schlendern über die Hauptstraße und beenden Ihren Tag bei der magischen Atmosphäre des Singenden Brunnens.",
+        "hu": "Tömegközlekedéssel okosan navigálhat Kassán. Az óváros déli végénél kezd, és gyalog fedezi fel a Jakab-palota és a Kelet-Szlovákiai Múzeum környékét. Egy rövid villamosút viszi délben a város szívébe, a dómhoz. Onnan a nap hátralévő részében gyalogosan fedezi fel a központi zónát, sétál a Fő utcán, és a napot az Éneklő szökőkút varázslatos hangulatánál fejezi be.",
+        "ro": "Cu transportul public, navigați inteligent prin Košice. Începeți la capătul sudic al orașului vechi și explorați pe jos cartierul din jurul Palatului Jakab și al Muzeului Slovaciei de Est. O scurtă călătorie cu tramvaiul vă duce la prânz în inima orașului, la Catedrală. De acolo, explorați restul zilei grupul central pe jos, plimbându-vă pe Strada Principală și încheind ziua în atmosfera magică a Fântânii Cântătoare.",
+        "en": "Using public transport, you can navigate Košice cleverly. You start at the southern end of the old town and explore the quarter around Jakab's Palace and the East Slovak Museum on foot. A short tram ride takes you to the heart of the city, the Cathedral, at noon. From there, you'll explore the central cluster on foot for the rest of the day, strolling along Main Street and ending your day in the magical atmosphere of the Singing Fountain."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dobre Bistro",
+            "tip": "Ein beliebtes Bistro für ein schnelles und leckeres Mittagessen in der Nähe der Hauptstraße."
+          },
+          {
+            "name": "Villa Cassa",
+            "tip": "Ein elegantes Restaurant mit einer schönen Terrasse, ideal für ein Abendessen nach einem langen Tag."
+          },
+          {
+            "name": "Kávé Kassa",
+            "tip": "Eine lokale Kaffeerösterei für einen authentischen Kaffeegenuss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dobre Bistro",
+            "tip": "Népszerű bisztró egy gyors és finom ebédhez a Fő utca közelében."
+          },
+          {
+            "name": "Villa Cassa",
+            "tip": "Elegáns étterem szép terasszal, ideális vacsorához egy hosszú nap után."
+          },
+          {
+            "name": "Kávé Kassa",
+            "tip": "Helyi kávépörkölő egy autentikus kávéélményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dobre Bistro",
+            "tip": "Un bistro popular pentru un prânz rapid și delicios lângă strada principală."
+          },
+          {
+            "name": "Villa Cassa",
+            "tip": "Un restaurant elegant cu o terasă frumoasă, ideal pentru cină după o zi lungă."
+          },
+          {
+            "name": "Kávé Kassa",
+            "tip": "O prăjitorie de cafea locală pentru o experiență autentică a cafelei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dobre Bistro",
+            "tip": "A popular bistro for a quick and delicious lunch near the main street."
+          },
+          {
+            "name": "Villa Cassa",
+            "tip": "An elegant restaurant with a beautiful terrace, ideal for dinner after a long day."
+          },
+          {
+            "name": "Kávé Kassa",
+            "tip": "A local coffee roastery for an authentic coffee experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innenhof des Henker-Bastions",
+            "tip": "Ein ruhiger, historischer Ort direkt neben dem Mikluš-Gefängnis.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kulturpark",
+            "tip": "Ein renoviertes Kasernengelände, das jetzt ein ruhiger Ort für Kunst und Entspannung ist.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hóhérbástya udvara",
+            "tip": "Csendes, történelmi hely közvetlenül a Miklós börtön mellett.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kultúrpark",
+            "tip": "Felújított laktanya-terület, amely ma a művészet és a pihenés csendes helye.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Bastionului Călăului",
+            "tip": "Un loc liniștit, istoric, chiar lângă Închisoarea Mikluš.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kulturpark",
+            "tip": "O fostă cazarmă renovată, acum un loc liniștit pentru artă și relaxare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyard of the Executioner's Bastion",
+            "tip": "A quiet, historic spot right next to Mikluš Prison.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kulturpark",
+            "tip": "A renovated barracks area that is now a quiet place for art and relaxation.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Optima Atrium",
+            "tip": "Ein großes Einkaufszentrum, das mit mehreren Buslinien leicht zu erreichen ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Optima Atrium",
+            "tip": "Nagy bevásárlóközpont, amely több buszjárattal is könnyen elérhető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Optima Atrium",
+            "tip": "Un centru comercial mare, ușor accesibil cu mai multe linii de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Optima Atrium",
+            "tip": "A large shopping center that is easily accessible by several bus lines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Die Straßenbahnen sind der effizienteste Weg, um die Hauptachsen der Stadt zu befahren.",
+          "Überprüfen Sie den Fahrplan im Voraus, besonders am Abend.",
+          "Die meisten Haltestellen im Zentrum sind mit digitalen Anzeigen ausgestattet.",
+          "Die App `imhd.sk` ist sehr nützlich für die Routenplanung in der Slowakei."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "A villamosok a leghatékonyabb módja a város fő tengelyein való közlekedésnek.",
+          "Ellenőrizze előre a menetrendet, különösen este.",
+          "A legtöbb központi megálló digitális kijelzővel van felszerelve.",
+          "Az `imhd.sk` alkalmazás nagyon hasznos az útvonaltervezéshez Szlovákiában."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Tramvaiele sunt cel mai eficient mod de a călători pe axele principale ale orașului.",
+          "Verificați orarul în avans, mai ales seara.",
+          "Majoritatea stațiilor din centru sunt dotate cu afișaje digitale.",
+          "Aplicația `imhd.sk` este foarte utilă pentru planificarea rutelor în Slovacia."
+        ],
+        "en": [
+          "Buy a day ticket for public transport to save money.",
+          "Trams are the most efficient way to travel along the city's main axes.",
+          "Check the schedule in advance, especially in the evening.",
+          "Most stops in the center are equipped with digital displays.",
+          "The `imhd.sk` app is very useful for route planning in Slovakia."
+        ]
+      }
+    }
+  }
+}

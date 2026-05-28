@@ -1,0 +1,1468 @@
+{
+  "city_id": "switzerland-bellinzona-cities-v2",
+  "anchor": {
+    "name": "Bellinzona",
+    "coords": [
+      9.0232,
+      46.1925
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Bellinzona",
+            "hu": "Bellinzona Óvárosa",
+            "ro": "Centrul Vechi din Bellinzona",
+            "en": "Old Town of Bellinzona"
+          },
+          "coords": [
+            9.0225,
+            46.1935
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Samstagsmarkt für lokale Produkte und eine lebhafte Atmosphäre.",
+            "hu": "Látogasson el a szombati piacra helyi termékekért és a nyüzsgő hangulatért.",
+            "ro": "Vizitați piața de sâmbătă pentru produse locale și o atmosferă vibrantă.",
+            "en": "Visit the Saturday market for local produce and a lively atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Collegiata dei SS. Pietro e Stefano",
+            "hu": "Szent Péter és István társkáptalan",
+            "ro": "Colegiata Sfinții Petru și Ștefan",
+            "en": "Collegiate Church of Saints Peter and Stephen"
+          },
+          "coords": [
+            9.0218,
+            46.1941
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Fassade und die reichen barocken Innendekorationen.",
+            "hu": "Csodálja meg a reneszánsz homlokzatot és a gazdag barokk belső díszítést.",
+            "ro": "Admirați fațada renascentistă și decorațiunile interioare bogate în stil baroc.",
+            "en": "Admire the Renaissance facade and the rich Baroque interior decorations."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelgrande",
+            "hu": "Castelgrande",
+            "ro": "Castelgrande",
+            "en": "Castelgrande"
+          },
+          "coords": [
+            9.0228,
+            46.1926
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Aufzug vom Piazza del Sole für einen einfachen Zugang.",
+            "hu": "Használja a liftet a Piazza del Sole térről a könnyű feljutásért.",
+            "ro": "Luați liftul din Piazza del Sole pentru un acces facil.",
+            "en": "Take the elevator from Piazza del Sole for easy access."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause in einem Grotto",
+            "hu": "Ebédszünet egy grottóban",
+            "ro": "Pauză de prânz la un grotto",
+            "en": "Lunch break at a grotto"
+          },
+          "coords": [
+            9.0245,
+            46.195
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie Risotto oder Polenta, die Spezialitäten des Tessins.",
+            "hu": "Kóstolja meg a rizottót vagy a polentát, Ticino specialitásait.",
+            "ro": "Încercați risotto sau polenta, specialitățile din Ticino.",
+            "en": "Try some risotto or polenta, Ticino's specialities."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Montebello",
+            "hu": "Montebello kastély",
+            "ro": "Castelul Montebello",
+            "en": "Montebello Castle"
+          },
+          "coords": [
+            9.0289,
+            46.1923
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal für Familien, mit einem archäologischen und städtischen Museum im Inneren.",
+            "hu": "Családoknak ideális, régészeti és városi múzeum található benne.",
+            "ro": "Ideal pentru familii, cu un muzeu arheologic și civic în interior.",
+            "en": "Great for families, with an archaeological and civic museum inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Sasso Corbaro",
+            "hu": "Sasso Corbaro kastély",
+            "ro": "Castelul Sasso Corbaro",
+            "en": "Sasso Corbaro Castle"
+          },
+          "coords": [
+            9.0325,
+            46.1884
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:55",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Der Spaziergang ist steil, aber die Panoramasicht ist die Mühe wert.",
+            "hu": "Meredek séta, de a panorámás kilátás megéri a fáradságot.",
+            "ro": "Plimbarea este abruptă, dar vederea panoramică merită efortul.",
+            "en": "The walk is steep, but the panoramic view is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria delle Grazie",
+            "hu": "Santa Maria delle Grazie templom",
+            "ro": "Biserica Santa Maria delle Grazie",
+            "en": "Church of Santa Maria delle Grazie"
+          },
+          "coords": [
+            9.0181,
+            46.1901
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:05",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Renaissance-Juwel etwas außerhalb des Zentrums, berühmt für sein großes Fresko.",
+            "hu": "Egy reneszánsz ékszer a központon kívül, híres a nagy freskójáról.",
+            "ro": "O bijuterie renascentistă chiar în afara centrului, faimoasă pentru fresca sa mare.",
+            "en": "A Renaissance gem just outside the center, famous for its large fresco."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in der charmanten Altstadt von Bellinzona, bevor Sie die nahegelegene Collegiata-Kirche erkunden. Der Vormittag gipfelt in der Erkundung des majestätischen Castelgrande, das vom Herzen der Stadt aus zugänglich ist. Nach dem Mittagessen führt Sie ein gemütlicher Spaziergang bergauf zu den Burgen Montebello und Sasso Corbaro. Am Nachmittag genießen Sie von diesen Festungen aus eine atemberaubende Aussicht und tauchen in die reiche Geschichte der Region ein. Beenden Sie Ihren Tag mit einem Besuch der ruhigen Kirche Santa Maria delle Grazie, bevor Sie sich zum Abendessen in die Stadt zurückziehen.",
+        "hu": "Kezdje a napot Bellinzona bájos óvárosában, majd fedezze fel a közeli társkáptalant. A délelőtt a fenséges Castelgrande felfedezésével csúcsosodik ki, amely a város szívéből érhető el. Ebéd után egy kellemes séta vezet fel a Montebello és Sasso Corbaro várakhoz. Délután élvezze a lélegzetelállító kilátást ezekből az erődítményekből, és merüljön el a régió gazdag történelmében. Zárja a napot a békés Santa Maria delle Grazie templom meglátogatásával, mielőtt visszatérne a városba vacsorázni.",
+        "ro": "Începeți ziua în fermecătorul Centru Vechi din Bellinzona, înainte de a explora Colegiata din apropiere. Dimineața culminează cu explorarea maiestuosului Castelgrande, accesibil din inima orașului. După prânz, o plimbare plăcută la deal vă va duce la castelele Montebello și Sasso Corbaro. După-amiaza, bucurați-vă de priveliști uluitoare de la aceste fortărețe și adânciți-vă în istoria bogată a regiunii. Încheiați ziua cu o vizită la liniștita Biserică Santa Maria delle Grazie înainte de a vă retrage în oraș pentru cină.",
+        "en": "Start your day in the charming Old Town of Bellinzona before exploring the nearby Collegiate Church. The morning culminates in exploring the majestic Castelgrande, accessible from the heart of the city. After lunch, a pleasant uphill walk will take you to the castles of Montebello and Sasso Corbaro. In the afternoon, enjoy breathtaking views from these fortresses and delve into the region's rich history. Conclude your day with a visit to the peaceful Church of Santa Maria delle Grazie before heading back into town for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Risotto Ticinese",
+            "tip": "Ein cremiges Risotto mit Luganiga-Wurst und Safran."
+          },
+          {
+            "name": "Polenta e brasato",
+            "tip": "Langsam geschmortes Rindfleisch, serviert mit weicher Polenta."
+          },
+          {
+            "name": "Grotto San Michele",
+            "tip": "Authentisches Grotto im Castelgrande mit lokaler Küche und herrlicher Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ticinese rizottó",
+            "tip": "Krémes rizottó Luganiga kolbásszal és sáfránnyal."
+          },
+          {
+            "name": "Polenta e brasato",
+            "tip": "Lassan párolt marhahús puha polentával tálalva."
+          },
+          {
+            "name": "Grotto San Michele",
+            "tip": "Autentikus grotto a Castelgrandéban, helyi ételekkel és csodás kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Risotto Ticinese",
+            "tip": "Un risotto cremos cu cârnați Luganiga și șofran."
+          },
+          {
+            "name": "Polenta e brasato",
+            "tip": "Vită fiartă lent, servită cu mămăligă moale."
+          },
+          {
+            "name": "Grotto San Michele",
+            "tip": "Grotto autentic la Castelgrande, cu bucătărie locală și priveliști superbe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Risotto Ticinese",
+            "tip": "A creamy risotto made with Luganiga sausage and saffron."
+          },
+          {
+            "name": "Polenta e brasato",
+            "tip": "Slow-braised beef served with soft polenta."
+          },
+          {
+            "name": "Grotto San Michele",
+            "tip": "Authentic grotto within Castelgrande with local cuisine and great views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panoramaweg Sasso Corbaro",
+            "tip": "Der Weg zum höchsten Schloss bietet die besten Aussichten auf die Stadt und die Alpen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof des Castelgrande",
+            "tip": "Finden Sie eine ruhige Ecke auf den weitläufigen Rasenflächen innerhalb der Burgmauern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Fluss Ticino",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt finden Sie ruhige Wege entlang des Flusses.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sasso Corbaro panorámaút",
+            "tip": "A legmagasabb várhoz vezető ösvényről nyílik a legjobb kilátás a városra és az Alpokra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castelgrande udvara",
+            "tip": "Találjon egy csendes zugot a várfalakon belüli tágas pázsiton.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Ticino-folyó partján",
+            "tip": "A központtól rövid sétára békés ösvényeket talál a folyó mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă panoramică Sasso Corbaro",
+            "tip": "Cărarea către cel mai înalt castel oferă cele mai bune priveliști asupra orașului și Alpilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Castelgrande",
+            "tip": "Găsiți un colț liniștit pe peluzele extinse din interiorul zidurilor castelului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului Ticino",
+            "tip": "La o scurtă plimbare de centru, veți găsi poteci liniștite de-a lungul râului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sasso Corbaro panoramic path",
+            "tip": "The trail to the highest castle offers the best views of the city and the Alps.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Castelgrande",
+            "tip": "Find a quiet corner on the expansive lawns inside the castle walls.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ticino Riverside Walk",
+            "tip": "A short walk from the center will lead you to peaceful paths along the river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato di Bellinzona",
+            "tip": "Jeden Samstag findet in der Altstadt ein großer Markt mit Lebensmitteln, Antiquitäten und Kunsthandwerk statt."
+          },
+          {
+            "name": "Lokale Salumeria",
+            "tip": "Kaufen Sie Tessiner Wurstwaren wie Salame oder Coppa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bellinzonai piac",
+            "tip": "Minden szombaton nagy piacot tartanak az óvárosban élelmiszerekkel, régiségekkel és kézműves termékekkel."
+          },
+          {
+            "name": "Helyi hentesüzlet",
+            "tip": "Vásároljon ticinói felvágottakat, mint a szalámi vagy a coppa."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Bellinzona",
+            "tip": "În fiecare sâmbătă, în Centrul Vechi are loc o piață mare cu mâncare, antichități și artizanat."
+          },
+          {
+            "name": "Salumeria locală",
+            "tip": "Cumpărați mezeluri din Ticino, cum ar fi salame sau coppa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bellinzona Market",
+            "tip": "Every Saturday, a large market with food, antiques, and crafts takes over the Old Town."
+          },
+          {
+            "name": "Local Salumeria",
+            "tip": "Purchase Ticino cured meats like salame or coppa."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie sehr bequeme Schuhe, da das Kopfsteinpflaster und die Anstiege anspruchsvoll sein können.",
+          "Kaufen Sie den Bellinzona Pass, um alle drei Burgen zu einem ermäßigten Preis zu besuchen.",
+          "Wasserflaschen können an den vielen öffentlichen Brunnen in der Stadt aufgefüllt werden."
+        ],
+        "hu": [
+          "Viseljen nagyon kényelmes cipőt, mivel a macskakő és az emelkedők megterhelőek lehetnek.",
+          "Vásárolja meg a Bellinzona Passt, hogy kedvezményes áron látogathassa meg mindhárom várat.",
+          "A vizes palackokat a város számos közkútjánál újratöltheti."
+        ],
+        "ro": [
+          "Purtați pantofi foarte confortabili, deoarece pavajul și urcușurile pot fi solicitante.",
+          "Cumpărați Bellinzona Pass pentru a vizita toate cele trei castele la un preț redus.",
+          "Sticlele de apă pot fi umplute de la numeroasele fântâni publice din oraș."
+        ],
+        "en": [
+          "Wear very comfortable shoes, as the cobblestones and climbs can be demanding.",
+          "Purchase the Bellinzona Pass to visit all three castles at a reduced price.",
+          "Water bottles can be refilled at the many public fountains around the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt & Radverleih",
+            "hu": "Óváros és kerékpárkölcsönző",
+            "ro": "Centrul Vechi & Închiriere biciclete",
+            "en": "Old Town & Bike Rental"
+          },
+          "coords": [
+            9.0225,
+            46.1935
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Kaffee auf einem Platz, bevor Sie Ihr Fahrrad für den Tag abholen.",
+            "hu": "Kezdje egy kávéval egy téren, mielőtt felvenné a kerékpárját a napra.",
+            "ro": "Începeți cu o cafea într-o piață înainte de a vă ridica bicicleta pentru o zi.",
+            "en": "Start with a coffee in a square before picking up your bike for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Montebello",
+            "hu": "Montebello kastély",
+            "ro": "Castelul Montebello",
+            "en": "Montebello Castle"
+          },
+          "coords": [
+            9.0289,
+            46.1923
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die Radtour ist ein guter Warm-up für den steileren Anstieg, der noch kommt.",
+            "hu": "A biciklizés jó bemelegítés a későbbi meredekebb emelkedőhöz.",
+            "ro": "Plimbarea cu bicicleta este o bună încălzire pentru urcușul mai abrupt care urmează.",
+            "en": "The bike ride up is a good warm-up for the steeper climb to come."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Sasso Corbaro",
+            "hu": "Sasso Corbaro kastély",
+            "ro": "Castelul Sasso Corbaro",
+            "en": "Sasso Corbaro Castle"
+          },
+          "coords": [
+            9.0325,
+            46.1884
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:20",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schalten Sie in einen niedrigen Gang! Oben werden Sie mit der besten Aussicht belohnt.",
+            "hu": "Váltson alacsony sebességfokozatba! A tetején a legjobb kilátás lesz a jutalma.",
+            "ro": "Treceți într-o viteză inferioară! Veți fi răsplătit cu cea mai bună priveliște în vârf.",
+            "en": "Shift into a low gear! You'll be rewarded with the best view at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Aussicht",
+            "hu": "Ebéd kilátással",
+            "ro": "Prânz cu vedere",
+            "en": "Lunch with a View"
+          },
+          "coords": [
+            9.029,
+            46.189
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Finden Sie ein Grotto auf dem Rückweg bergab für eine wohlverdiente Mahlzeit.",
+            "hu": "Keressen egy grottót lefelé menet egy jól megérdemelt ebédhez.",
+            "ro": "Găsiți un grotto la coborâre pentru o masă binemeritată.",
+            "en": "Find a grotto on the way back downhill for a well-deserved meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelgrande",
+            "hu": "Castelgrande",
+            "ro": "Castelgrande",
+            "en": "Castelgrande"
+          },
+          "coords": [
+            9.0228,
+            46.1926
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad unten an und nehmen Sie den Aufzug nach oben.",
+            "hu": "Zárja le a kerékpárt lent, és menjen fel a lifttel.",
+            "ro": "Lăsați bicicleta jos și luați liftul până sus.",
+            "en": "Lock your bike at the bottom and take the elevator up."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria delle Grazie",
+            "hu": "Santa Maria delle Grazie templom",
+            "ro": "Biserica Santa Maria delle Grazie",
+            "en": "Church of Santa Maria delle Grazie"
+          },
+          "coords": [
+            9.0181,
+            46.1901
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:51",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine kurze, flache Fahrt vom Zentrum entfernt, um ein Meisterwerk der Renaissance zu sehen.",
+            "hu": "Egy rövid, sík út a központtól egy reneszánsz remekmű megtekintéséhez.",
+            "ro": "O plimbare scurtă și plată de la centru pentru a vedea o capodoperă renascentistă.",
+            "en": "A short, flat ride from the center to see a Renaissance masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Fluss Ticino",
+            "hu": "Séta a Ticino-folyó partján",
+            "ro": "Plimbare pe malul râului Ticino",
+            "en": "Ticino Riverside Ride"
+          },
+          "coords": [
+            9.015,
+            46.195
+          ],
+          "category": "river",
+          "arrive_at": "16:49",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer entspannten Fahrt entlang der malerischen Radwege am Fluss.",
+            "hu": "Zárja a napot egy pihentető tekeréssel a folyó menti festői kerékpárutakon.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă de-a lungul pistelor de biciclete pitorești de pe malul râului.",
+            "en": "End the day with a relaxing ride along the scenic riverside bike paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nachdem Sie Ihr Fahrrad gesichert haben, beginnen Sie den Tag mit einem anspruchsvollen, aber lohnenden Aufstieg zu den Burgen Montebello und Sasso Corbaro. Am Vormittag werden Sie mit atemberaubenden Panoramablicken auf Bellinzona und die Alpen belohnt. Nach dem Mittagessen in einem Grotto auf dem Hügel, fahren Sie hinunter, um das zentrale Castelgrande zu erkunden. Der Nachmittag ist einer entspannteren Erkundung gewidmet, mit einem Besuch der Renaissance-Kirche Santa Maria delle Grazie. Beenden Sie Ihr Radabenteuer mit einer gemütlichen Fahrt entlang des ruhigen Flusses Ticino, während die Sonne untergeht.",
+        "hu": "Miután biztosította a kerékpárját, kezdje a napot egy kihívást jelentő, de annál hálásabb emelkedővel a Montebello és Sasso Corbaro várakhoz. A délelőtt folyamán lélegzetelállító panorámában lesz része Bellinzonára és az Alpokra. Miután megebédelt egy hegyi grottóban, tekerjen le a központi Castelgrande felfedezésére. A délután egy lazább felfedezésé, meglátogatva a reneszánsz Santa Maria delle Grazie templomot. Zárja a kerékpáros kalandot egy kellemes tekeréssel a békés Ticino folyó mentén, naplementekor.",
+        "ro": "După ce vă asigurați bicicleta, începeți ziua cu o urcare provocatoare, dar plină de satisfacții, la castelele Montebello și Sasso Corbaro. În timpul dimineții, veți fi răsplătit cu vederi panoramice uluitoare asupra Bellinzonei și Alpilor. După prânz la un grotto pe deal, coborâți pentru a explora Castelgrande central. După-amiaza este dedicată unei explorări mai relaxate, cu o vizită la biserica renascentistă Santa Maria delle Grazie. Încheiați aventura pe bicicletă cu o plimbare liniștită de-a lungul râului liniștit Ticino, pe măsură ce soarele apune.",
+        "en": "After securing your bike, start the day with a challenging but rewarding climb to the castles of Montebello and Sasso Corbaro. During the morning, you'll be rewarded with breathtaking panoramic views of Bellinzona and the Alps. After lunch at a hillside grotto, you'll cycle down to explore the central Castelgrande. The afternoon is dedicated to more relaxed exploration, with a visit to the Renaissance church of Santa Maria delle Grazie. Conclude your cycling adventure with a leisurely ride along the tranquil Ticino River as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gazzosa Ticinese",
+            "tip": "Ein lokales kohlensäurehaltiges Getränk, perfekt zur Erfrischung nach einer Radtour."
+          },
+          {
+            "name": "Torta di Pane",
+            "tip": "Ein traditioneller Brotkuchen, ideal für einen Energieschub."
+          },
+          {
+            "name": "Osteria Sasso Corbaro",
+            "tip": "Belohnen Sie sich mit einem feinen Essen im Restaurant der höchsten Burg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gazzosa Ticinese",
+            "tip": "Helyi szénsavas ital, tökéletes frissítő egy biciklitúra után."
+          },
+          {
+            "name": "Torta di Pane",
+            "tip": "Hagyományos kenyértorta, ideális energiaforrás."
+          },
+          {
+            "name": "Osteria Sasso Corbaro",
+            "tip": "Jutalmazza meg magát egy finom ebéddel a legmagasabb vár éttermében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gazzosa Ticinese",
+            "tip": "O băutură carbogazoasă locală, perfectă pentru a vă reîmprospăta după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Torta di Pane",
+            "tip": "O prăjitură tradițională din pâine, ideală pentru un plus de energie."
+          },
+          {
+            "name": "Osteria Sasso Corbaro",
+            "tip": "Recompensați-vă cu o masă rafinată la restaurantul celui mai înalt castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gazzosa Ticinese",
+            "tip": "A local carbonated drink, perfect for refreshing after a bike ride."
+          },
+          {
+            "name": "Torta di Pane",
+            "tip": "A traditional bread cake, great for an energy boost."
+          },
+          {
+            "name": "Osteria Sasso Corbaro",
+            "tip": "Reward yourself with a fine meal at the restaurant in the highest castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Fluss Ticino",
+            "tip": "Der flache, von Bäumen gesäumte Weg ist perfekt für eine ruhige Flucht aus der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Castello di Montebello",
+            "tip": "Finden Sie einen ruhigen Platz, um sich auszuruhen und die Aussicht nach dem Aufstieg zu genießen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussichtspunkt Sasso Corbaro",
+            "tip": "Der ruhigste der drei Burgen, der weitreichende Ausblicke in Frieden bietet.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ticino folyóparti kerékpárút",
+            "tip": "A sík, fákkal szegélyezett ösvény tökéletes egy csendes meneküléshez a városból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castello di Montebello kertjei",
+            "tip": "Találjon egy csendes helyet a pihenésre és a kilátás élvezetére a mászás után.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sasso Corbaro kilátópont",
+            "tip": "A három vár közül a legcsendesebb, békés, messzire nyúló kilátást kínál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul râului Ticino",
+            "tip": "Calea plată, mărginită de copaci, este perfectă pentru o evadare liniștită din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Castello di Montebello",
+            "tip": "Găsiți un loc liniștit pentru a vă odihni și a admira priveliștea după urcare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punct de belvedere Sasso Corbaro",
+            "tip": "Cel mai liniștit dintre cele trei castele, oferind vederi extinse în pace.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ticino Riverside Bike Path",
+            "tip": "The flat, tree-lined path is perfect for a quiet escape from the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Castello di Montebello",
+            "tip": "Find a peaceful spot to rest and enjoy the view after your climb.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sasso Corbaro Viewpoint",
+            "tip": "The quietest of the three castles, offering expansive views in peace.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Suchen Sie nach 'Miele Ticinese', einem süßen Souvenir Ihrer Reise."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Bellinzona hat mehrere Geschäfte für Zubehör oder schnelle Reparaturen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Keressen 'Miele Ticinese'-t, egy édes emléket az utazásáról."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Bellinzonában több üzlet is található kiegészítőkért vagy gyors javításokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Căutați 'Miele Ticinese', un suvenir dulce al călătoriei dumneavoastră."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Bellinzona are mai multe magazine pentru accesorii sau reparații rapide."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Look for 'Miele Ticinese' as a sweet souvenir of your trip."
+          },
+          {
+            "name": "Bike Shops",
+            "tip": "Bellinzona has several shops for any accessories or quick repairs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike wird für den Aufstieg zu den oberen Burgen dringend empfohlen.",
+          "Tragen Sie einen Helm und bringen Sie viel Wasser mit.",
+          "Schließen Sie Ihr Fahrrad immer an, auch für kurze Stopps, insbesondere in touristischen Gebieten."
+        ],
+        "hu": [
+          "Az e-bike erősen ajánlott a felső várakhoz való feljutáshoz.",
+          "Viseljen sisakot és vigyen magával sok vizet.",
+          "Mindig zárja le a kerékpárját, még rövid megállókra is, különösen a turistaövezetekben."
+        ],
+        "ro": [
+          "O bicicletă electrică este foarte recomandată pentru urcarea la castelele superioare.",
+          "Purtați cască și aduceți multă apă.",
+          "Legați-vă întotdeauna bicicleta, chiar și pentru opriri scurte, mai ales în zonele turistice."
+        ],
+        "en": [
+          "An e-bike is highly recommended for the climb to the upper castles.",
+          "Wear a helmet and bring plenty of water.",
+          "Always lock your bike, even for short stops, especially in tourist areas."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt & Parken am Castello di Sasso Corbaro",
+            "hu": "Autózás és parkolás a Sasso Corbaro kastélynál",
+            "ro": "Condus și parcare la Castelul Sasso Corbaro",
+            "en": "Drive & Park at Sasso Corbaro Castle"
+          },
+          "coords": [
+            9.0325,
+            46.1884
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie am höchsten Punkt. Es gibt kostenlose Parkplätze, aber die Plätze sind begrenzt.",
+            "hu": "Kezdje a legmagasabb ponton. Ingyenes parkolás van, de a helyek korlátozottak.",
+            "ro": "Începeți de la cel mai înalt punct. Există parcare gratuită, dar locurile sunt limitate.",
+            "en": "Start at the highest point. There's free parking available, but spots are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Castello di Montebello",
+            "hu": "Autózás a Montebello kastélyhoz",
+            "ro": "Condus la Castelul Montebello",
+            "en": "Drive to Montebello Castle"
+          },
+          "coords": [
+            9.0289,
+            46.1923
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt bergab. Parken Sie auf dem ausgewiesenen Parkplatz unterhalb des Schlosses.",
+            "hu": "Egy rövid út lefelé. Parkoljon a kijelölt parkolóban a vár alatt.",
+            "ro": "O scurtă coborâre cu mașina. Parcați în parcarea desemnată de sub castel.",
+            "en": "A short downhill drive. Park in the designated lot below the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt & Parken in der Innenstadt (Cluster A)",
+            "hu": "Autózás és parkolás a belvárosban (A klaszter)",
+            "ro": "Condus și parcare în centrul orașului (Cluster A)",
+            "en": "Drive & Park in City Center (Cluster A)"
+          },
+          "coords": [
+            9.023,
+            46.191
+          ],
+          "category": "transport",
+          "arrive_at": "11:40",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie im 'Piazza del Sole' oder 'Cervia' Parkhaus für den Rest des Tages. Genießen Sie hier Ihr Mittagessen.",
+            "hu": "Parkoljon a 'Piazza del Sole' vagy 'Cervia' parkolóházban a nap hátralévő részére. Itt ebédeljen.",
+            "ro": "Parcați în parcarea 'Piazza del Sole' sau 'Cervia' pentru restul zilei. Savurați prânzul aici.",
+            "en": "Park at 'Piazza del Sole' or 'Cervia' parking garage for the rest of the day. Enjoy your lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelgrande",
+            "hu": "Castelgrande",
+            "ro": "Castelgrande",
+            "en": "Castelgrande"
+          },
+          "coords": [
+            9.0228,
+            46.1926
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkhaus und ein Aufzug bringen Sie direkt in die Festung.",
+            "hu": "Rövid séta a parkolóháztól, és egy lift egyenesen az erődbe visz.",
+            "ro": "O scurtă plimbare de la parcare și un lift vă duc direct în fortăreață.",
+            "en": "A short walk from the parking garage and an elevator takes you right into the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Bellinzona",
+            "hu": "Bellinzona Óvárosa",
+            "ro": "Centrul Vechi din Bellinzona",
+            "en": "Old Town of Bellinzona"
+          },
+          "coords": [
+            9.0225,
+            46.1935
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Gassen und erkunden Sie die Geschäfte und Plätze.",
+            "hu": "Sétáljon végig a sikátorokon, fedezze fel az üzleteket és a tereket.",
+            "ro": "Plimbați-vă pe alei, explorând magazinele și piețele.",
+            "en": "Wander through the alleyways, exploring the shops and squares."
+          }
+        },
+        {
+          "name": {
+            "de": "Collegiata dei SS. Pietro e Stefano",
+            "hu": "Szent Péter és István társkáptalan",
+            "ro": "Colegiata Sfinții Petru și Ștefan",
+            "en": "Collegiate Church of Saints Peter and Stephen"
+          },
+          "coords": [
+            9.0218,
+            46.1941
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss Ihres Rundgangs, bevor Sie zu Ihrem Auto zurückkehren.",
+            "hu": "Egy gyönyörű befejezése a sétának, mielőtt visszatérne az autójához.",
+            "ro": "O concluzie frumoasă a turului pietonal înainte de a vă întoarce la mașină.",
+            "en": "A beautiful conclusion to your walking tour before heading back to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie direkt zu den oberen Schlössern fahren und am Sasso Corbaro und dann am Montebello parken. Dieser 'Top-Down'-Ansatz spart Ihnen den Aufstieg und bietet morgens sofortige Panoramablicke. Nach der Erkundung der beiden oberen Festungen fahren Sie ins Stadtzentrum. Parken Sie Ihr Auto für den Rest des Tages und genießen Sie ein Mittagessen. Der Nachmittag ist einem entspannten Spaziergang gewidmet, der das Castelgrande, die charmante Altstadt und die beeindruckende Collegiata-Kirche umfasst. Dieser Cluster-Ansatz kombiniert den Komfort des Autofahrens mit einem intensiven Rundgang.",
+        "hu": "Kezdje a napot azzal, hogy egyenesen a felső várakhoz hajt, először a Sasso Corbaro, majd a Montebello mellett parkolva. Ez a 'fentről lefelé' megközelítés megkíméli Önt a mászástól, és azonnali panorámás kilátást nyújt reggel. Miután felfedezte a két felső erődöt, hajtson le a városközpontba. Parkolja le autóját a nap hátralévő részére, és ebédeljen meg. A délután egy laza sétáé, amely magában foglalja a Castelgrandét, a bájos Óvárost és a lenyűgöző Társkáptalant. Ez a klaszter-megközelítés ötvözi az autó kényelmét egy magával ragadó sétaélménnyel.",
+        "ro": "Începeți ziua conducând direct la castelele superioare, parcând mai întâi la Sasso Corbaro, apoi la Montebello. Această abordare 'de sus în jos' vă scutește de urcare și oferă priveliști panoramice imediate dimineața. După ce ați explorat cele două fortărețe superioare, coborâți în centrul orașului. Parcați mașina pentru restul zilei și bucurați-vă de prânz. După-amiaza este dedicată unui tur pietonal relaxat, care acoperă Castelgrande, Centrul Vechi fermecător și impresionanta Colegiată. Această abordare pe clustere combină confortul mașinii cu o experiență de plimbare imersivă.",
+        "en": "Start your day by driving directly to the upper castles, parking first at Sasso Corbaro, then Montebello. This 'top-down' approach saves you the climb and offers immediate panoramic views in the morning. After exploring the two upper fortresses, drive down to the city center. Park your car for the rest of the day and enjoy lunch. The afternoon is dedicated to a relaxed walking cluster, covering Castelgrande, the charming Old Town, and the impressive Collegiate Church. This clustered approach combines the convenience of driving with an immersive walking experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mortadella di fegato",
+            "tip": "Eine lokale Leberwurst, die man in Feinkostläden findet."
+          },
+          {
+            "name": "Merlot del Ticino",
+            "tip": "Probieren Sie einen lokalen Merlot-Wein zu Ihrem Essen."
+          },
+          {
+            "name": "Ristorante Castelgrande",
+            "tip": "Speisen Sie stilvoll mit gehobener Küche und unvergleichlicher Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mortadella di fegato",
+            "tip": "Helyi májkolbász, csemegeboltokban kapható."
+          },
+          {
+            "name": "Merlot del Ticino",
+            "tip": "Kóstoljon meg egy helyi Merlot bort az ételéhez."
+          },
+          {
+            "name": "Ristorante Castelgrande",
+            "tip": "Étkezzen stílusosan, finom ételekkel és páratlan kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mortadella di fegato",
+            "tip": "Un salam de ficat local găsit în delicatese."
+          },
+          {
+            "name": "Merlot del Ticino",
+            "tip": "Încercați un vin Merlot local cu masa dumneavoastră."
+          },
+          {
+            "name": "Ristorante Castelgrande",
+            "tip": "Luați masa în stil cu bucătărie rafinată și priveliști de neegalat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mortadella di fegato",
+            "tip": "A local liver sausage found in delicatessens."
+          },
+          {
+            "name": "Merlot del Ticino",
+            "tip": "Try a local Merlot wine with your meal."
+          },
+          {
+            "name": "Ristorante Castelgrande",
+            "tip": "Dine in style with fine cuisine and unparalleled views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festungsmauern von Sasso Corbaro",
+            "tip": "Gehen Sie auf den Mauern für eine 360-Grad-Aussicht in relativer Einsamkeit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirche Santa Maria delle Grazie",
+            "tip": "Ein kurzer Abstecher mit dem Auto vor der Rückkehr ins Zentrum für einen Moment der stillen Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Versteckte Innenhöfe",
+            "tip": "Entdecken Sie beim Spaziergang durch die Altstadt kleine, ruhige Innenhöfe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sasso Corbaro várfalai",
+            "tip": "Sétáljon a falakon a 360 fokos kilátásért, viszonylagos magányban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santa Maria delle Grazie templom",
+            "tip": "Egy rövid autós kitérő, mielőtt visszatérne a központba egy csendes elmélkedés pillanatáért.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rejtett udvarok",
+            "tip": "Fedezzen fel apró, csendes udvarokat, miközben az Óvárosban sétál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile Sasso Corbaro",
+            "tip": "Plimbați-vă pe ziduri pentru o vedere de 360 de grade într-o solitudine relativă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Santa Maria delle Grazie",
+            "tip": "Un scurt ocol cu mașina înainte de a vă întoarce în centru pentru un moment de reflecție liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curți ascunse",
+            "tip": "Descoperiți curți mici și liniștite în timp ce vă plimbați prin Centrul Vechi.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sasso Corbaro Ramparts",
+            "tip": "Walk the walls for a 360-degree view in relative solitude.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Church of Santa Maria delle Grazie",
+            "tip": "A quick detour by car before returning to the centre for a moment of quiet reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hidden Courtyards",
+            "tip": "Discover small, quiet courtyards while walking through the Old Town.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Nocino",
+            "tip": "Ein traditioneller Walnusslikör aus dem Tessin."
+          },
+          {
+            "name": "Kunsthandwerk aus Olivenholz",
+            "tip": "Halten Sie Ausschau nach lokal gefertigten Schalen und Utensilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nocino",
+            "tip": "Hagyományos ticinói diólikőr."
+          },
+          {
+            "name": "Olajfa kézműves termékek",
+            "tip": "Keressen helyben készült tálakat és eszközöket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nocino",
+            "tip": "Un lichior tradițional de nuci din Ticino."
+          },
+          {
+            "name": "Artizanat din lemn de măslin",
+            "tip": "Căutați boluri și ustensile realizate local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nocino",
+            "tip": "A traditional walnut liqueur from Ticino."
+          },
+          {
+            "name": "Olive Wood Crafts",
+            "tip": "Look for locally made bowls and utensils."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Verwenden Sie eine Navigations-App, um die engen Straßen zu den oberen Burgen zu befahren.",
+          "Die Parkgebühren in den Parkhäusern im Stadtzentrum können teuer sein; bereiten Sie sich auf eine Tagespauschale vor.",
+          "Die Schweizer Autobahnvignette ist erforderlich, wenn Sie auf Autobahnen nach Bellinzona fahren."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a felső várakhoz vezető szűk utakon való közlekedéshez.",
+          "A belvárosi parkolóházakban a parkolási díjak drágák lehetnek; készüljön fel egy napidíjra.",
+          "A svájci autópálya-matrica kötelező, ha autópályán érkezik Bellinzonába."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație pentru a naviga pe drumurile înguste către castelele superioare.",
+          "Taxele de parcare în parcările din centrul orașului pot fi scumpe; fiți pregătit pentru o taxă zilnică.",
+          "Vinieta elvețiană de autostradă este necesară dacă conduceți pe autostrăzi spre Bellinzona."
+        ],
+        "en": [
+          "Use a navigation app to navigate the narrow roads to the upper castles.",
+          "Parking fees in city center garages can be expensive; be prepared for a daily rate.",
+          "The Swiss motorway vignette is required if driving on highways to Bellinzona."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Spaziergang durch die Altstadt",
+            "hu": "Érkezés és séta az Óvárosban",
+            "ro": "Sosire & Plimbare prin Centrul Vechi",
+            "en": "Arrival & Old Town Stroll"
+          },
+          "coords": [
+            9.0225,
+            46.1935
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof Bellinzona ist es nur ein kurzer Spaziergang oder eine Busfahrt ins Zentrum.",
+            "hu": "A bellinzonai állomástól csak egy rövid séta vagy buszút a központ.",
+            "ro": "De la gara Bellinzona, este doar o scurtă plimbare pe jos sau cu autobuzul până în centru.",
+            "en": "From Bellinzona station, it's a short walk or bus ride to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelgrande (Cluster A)",
+            "hu": "Castelgrande (A klaszter)",
+            "ro": "Castelgrande (Cluster A)",
+            "en": "Castelgrande (Cluster A)"
+          },
+          "coords": [
+            9.0228,
+            46.1926
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die erste Burg, die vom Stadtzentrum aus am leichtesten zu erreichen ist.",
+            "hu": "Fedezze fel az első várat, amely a városközpontból a legkönnyebben elérhető.",
+            "ro": "Explorați primul castel, cel mai ușor accesibil din centrul orașului.",
+            "en": "Explore the first castle, most easily accessible from the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            9.024,
+            46.1945
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stärken Sie sich, bevor Sie den Bus zu den oberen Burgen nehmen.",
+            "hu": "Erősítsen, mielőtt felszállna a felső várakhoz tartó buszra.",
+            "ro": "Alimentați-vă înainte de a lua autobuzul către castelele superioare.",
+            "en": "Fuel up before taking the bus to the upper castles."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt & Castello di Montebello (Cluster B)",
+            "hu": "Buszozás és Montebello kastély (B klaszter)",
+            "ro": "Călătorie cu autobuzul și Castelul Montebello (Cluster B)",
+            "en": "Bus Ride & Montebello Castle (Cluster B)"
+          },
+          "coords": [
+            9.0289,
+            46.1923
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Buslinie 4 von der Viale Stazione. Steigen Sie an der Haltestelle 'Ospedale' aus und gehen Sie zu Fuß.",
+            "hu": "Menjen a 4-es busszal a Viale Stazione-ról. Szálljon le az 'Ospedale' megállónál és sétáljon.",
+            "ro": "Luați linia de autobuz 4 de la Viale Stazione. Coborâți la stația 'Ospedale' și mergeți pe jos.",
+            "en": "Take bus line 4 from Viale Stazione. Get off at the 'Ospedale' stop and walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt & Castello di Sasso Corbaro",
+            "hu": "Buszozás és Sasso Corbaro kastély",
+            "ro": "Călătorie cu autobuzul și Castelul Sasso Corbaro",
+            "en": "Bus Ride & Sasso Corbaro Castle"
+          },
+          "coords": [
+            9.0325,
+            46.1884
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:05",
+          "stay_min": 70,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Von Montebello aus nehmen Sie dieselbe Buslinie weiter bergauf.",
+            "hu": "A Montebellótól ugyanazzal a busszal menjen tovább felfelé.",
+            "ro": "De la Montebello, continuați urcarea cu aceeași linie de autobuz.",
+            "en": "From Montebello, continue uphill on the same bus line."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum & Aperitivo",
+            "hu": "Visszatérés a központba és aperitivo",
+            "ro": "Întoarcere în centru și Aperitivo",
+            "en": "Return to Center & Aperitivo"
+          },
+          "coords": [
+            9.022,
+            46.194
+          ],
+          "category": "gastro",
+          "arrive_at": "16:35",
+          "stay_min": 65,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum und genießen Sie ein Getränk, um Ihren Tag ausklingen zu lassen.",
+            "hu": "Menjen vissza busszal a központba, és élvezze az italt, hogy lezárja a napot.",
+            "ro": "Luați autobuzul înapoi în centru și bucurați-vă de o băutură pentru a încheia ziua.",
+            "en": "Take the bus back downtown and enjoy a drink to cap off your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Erkundung des Stadtzentrums zu Fuß, einschließlich der Altstadt und des leicht zugänglichen Castelgrande. Dieser erste Spaziergang-Cluster ermöglicht es Ihnen, das Herz von Bellinzona aufzunehmen. Nach dem Mittagessen nutzen Sie das effiziente Bussystem, um zu Ihrem zweiten Cluster aufzusteigen: dem Castello di Montebello. Verbringen Sie Zeit mit der Erkundung dieser mittleren Festung. Am Nachmittag nehmen Sie einen weiteren Bus, um den höchsten Punkt zu erreichen, das Castello di Sasso Corbaro, und seine unvergleichlichen Aussichten zu genießen. Beenden Sie den Tag, indem Sie mit dem Bus ins Zentrum zurückkehren, um einen entspannten Aperitivo zu genießen, nachdem Sie alle drei UNESCO-Stätten erobert haben.",
+        "hu": "A nap a városközpont gyalogos felfedezésével kezdődik, beleértve az Óvárost és a könnyen megközelíthető Castelgrandét. Ez az első sétáló klaszter lehetővé teszi, hogy magába szívja Bellinzona szívét. Ebéd után használja a hatékony buszrendszert a második klaszterhez, a Montebello kastélyhoz való feljutáshoz. Töltsön időt ennek a középső erődítménynek a felfedezésével. Délután egy másik busszal éri el a legmagasabb pontot, a Sasso Corbaro kastélyt, hogy élvezze annak páratlan kilátását. Zárja a napot azzal, hogy visszabuszozik a központba egy pihentető aperitivóra, miután meghódította mindhárom UNESCO helyszínt.",
+        "ro": "Ziua dvs. începe cu o explorare pietonală a centrului orașului, incluzând Centrul Vechi și Castelgrande, ușor accesibil. Acest prim cluster pietonal vă permite să absorbiți inima Bellinzonei. După prânz, folosiți sistemul eficient de autobuze pentru a urca la al doilea cluster: Castelul Montebello. Petreceți timp explorând această fortăreață de mijloc. După-amiaza, un alt autobuz vă va duce la cel mai înalt punct, Castelul Sasso Corbaro, pentru a vă bucura de priveliștile sale de neegalat. Încheiați ziua luând autobuzul înapoi în centru pentru un aperitivo relaxant, după ce ați cucerit toate cele trei situri UNESCO.",
+        "en": "Your day begins with a walking exploration of the city center, including the Old Town and the easily accessible Castelgrande. This initial walking cluster allows you to absorb the heart of Bellinzona. After lunch, you'll use the efficient bus system to ascend to your second cluster: Castello di Montebello. Spend time exploring this middle fortress. In the afternoon, another bus ride will take you to the highest point, Castello di Sasso Corbaro, to enjoy its unparalleled views. Finish the day by taking the bus back to the center for a relaxing aperitivo, having conquered all three UNESCO sites."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Käsesorten",
+            "tip": "Probieren Sie einen Zincarlìn- oder Piora-Käse aus der Region."
+          },
+          {
+            "name": "Polenta-Chips",
+            "tip": "Ein knuspriger Snack, den man auf Märkten oder in Bars findet."
+          },
+          {
+            "name": "Caffè-Bar-Snacks",
+            "tip": "Viele Cafés bieten zum Aperitivo kostenlose kleine Häppchen an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajtok",
+            "tip": "Kóstoljon meg egy Zincarlìn vagy Piora sajtot a régióból."
+          },
+          {
+            "name": "Polenta chips",
+            "tip": "Ropogós snack, piacokon vagy bárokban található."
+          },
+          {
+            "name": "Kávézó-bár snackek",
+            "tip": "Sok kávézó ingyenes kis falatkákat kínál az aperitivóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânzeturi locale",
+            "tip": "Încercați o brânză Zincarlìn sau Piora din regiune."
+          },
+          {
+            "name": "Chipsuri de mămăligă",
+            "tip": "O gustare crocantă găsită în piețe sau baruri."
+          },
+          {
+            "name": "Gustări de la cafenele",
+            "tip": "Multe cafenele oferă mici gustări gratuite cu aperitivo-ul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheeses",
+            "tip": "Try a Zincarlìn or Piora cheese from the region."
+          },
+          {
+            "name": "Polenta Chips",
+            "tip": "A crunchy snack found in markets or bars."
+          },
+          {
+            "name": "Café-Bar Snacks",
+            "tip": "Many cafes offer complimentary small bites with your aperitivo."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Busfahrt",
+            "tip": "Genießen Sie die wechselnde Landschaft, während Sie zwischen den Burgen den Hügel hinauffahren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Palazzo Civico Innenhof",
+            "tip": "Ein ruhiger, moderner Raum im Herzen der Stadt, um dem Trubel zu entfliehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick vom Zug",
+            "tip": "Wenn Sie mit dem Zug an- oder abreisen, genießen Sie die malerische Aussicht auf die Burgen von unten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csendes buszozás",
+            "tip": "Élvezze a változó tájat, miközben a hegyre kapaszkodik a várak között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Palazzo Civico udvara",
+            "tip": "Egy csendes, modern tér a város szívében, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a vonatból",
+            "tip": "Ha vonattal érkezik vagy távozik, élvezze a várak festői látványát alulról.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O călătorie liniștită cu autobuzul",
+            "tip": "Bucurați-vă de peisajul în schimbare în timp ce urcați dealul între castele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Palazzo Civico",
+            "tip": "Un spațiu liniștit și modern în inima orașului pentru a scăpa de agitație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere din tren",
+            "tip": "Dacă sosiți sau plecați cu trenul, bucurați-vă de vederea pitorească a castelelor de jos.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "A Quiet Bus Ride",
+            "tip": "Enjoy the changing scenery as you ride up the hill between castles.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Palazzo Civico Courtyard",
+            "tip": "A tranquil, modern space in the heart of the city to escape the bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the Train",
+            "tip": "If arriving or leaving by train, enjoy the scenic view of the castles from below.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ticino Ticket",
+            "tip": "Kaufen Sie dieses Ticket für kostenlose öffentliche Verkehrsmittel und Ermäßigungen auf Attraktionen."
+          },
+          {
+            "name": "Postkarten der Burgen",
+            "tip": "Ein klassisches Souvenir, um es nach Hause zu schicken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ticino Ticket",
+            "tip": "Vásárolja meg ezt a jegyet ingyenes tömegközlekedésért és kedvezményekért a látnivalókra."
+          },
+          {
+            "name": "Képeslapok a várakról",
+            "tip": "Klasszikus ajándéktárgy, amelyet hazaküldhet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ticino Ticket",
+            "tip": "Cumpărați acest bilet pentru transport public gratuit și reduceri la atracții."
+          },
+          {
+            "name": "Cărți poștale cu castele",
+            "tip": "Un suvenir clasic de trimis acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ticino Ticket",
+            "tip": "Purchase this ticket for free public transport and discounts on attractions."
+          },
+          {
+            "name": "Postcards of the Castles",
+            "tip": "A classic souvenir to send home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse zu den oberen Burgen möglicherweise nicht sehr häufig fahren.",
+          "Der 'Artù' Touristenzug ist eine unterhaltsame Alternative zum öffentlichen Bus, um die Burgen zu verbinden.",
+          "Validieren Sie Ihr Ticket immer, wenn Sie in einen Bus einsteigen."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, mivel a felső várakhoz közlekedő buszok nem biztos, hogy túl gyakran járnak.",
+          "Az 'Artù' turistavonat szórakoztató alternatívája a tömegközlekedési busznak a várak összekötésére.",
+          "Mindig érvényesítse a jegyét, amikor felszáll egy buszra."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, deoarece autobuzele către castelele superioare s-ar putea să nu circule foarte des.",
+          "Trenulețul turistic 'Artù' este o alternativă distractivă la autobuzul public pentru a conecta castelele.",
+          "Validați-vă întotdeauna biletul la urcarea în autobuz."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as services to the upper castles may not be very frequent.",
+          "The 'Artù' tourist train is a fun alternative to the public bus for connecting the castles.",
+          "Always validate your ticket when you board a bus."
+        ]
+      }
+    }
+  }
+}

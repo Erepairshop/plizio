@@ -1,0 +1,1332 @@
+{
+  "city_id": "denmark-ikast-cities-v2",
+  "anchor": {
+    "name": "Ikast",
+    "coords": [
+      9.15,
+      56.14
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Strøgcentret (Fußgängerzone)",
+            "hu": "Strøgcentret (sétálóutca)",
+            "ro": "Strøgcentret (zonă pietonală)",
+            "en": "Strøgcentret (pedestrian street)"
+          },
+          "coords": [
+            9.151,
+            56.1405
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der örtlichen Cafés, um die Atmosphäre aufzusaugen.",
+            "hu": "Kezdje a napot egy kávéval a helyi kávézók egyikében, hogy magába szívja a hangulatot.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale pentru a absorbi atmosfera.",
+            "en": "Start your day with a coffee at one of the local cafes to soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Ikast Kirche",
+            "hu": "Ikasti templom",
+            "ro": "Biserica Ikast",
+            "en": "Ikast Church"
+          },
+          "coords": [
+            9.154,
+            56.142
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die moderne Architektur und die einzigartigen Glasfenster der Kirche.",
+            "hu": "Figyelje meg a templom modern építészetét és egyedi üvegablakait.",
+            "ro": "Observați arhitectura modernă a bisericii și vitraliile sale unice.",
+            "en": "Pay attention to the church's modern architecture and unique glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstpakhuset (Kunstgalerie)",
+            "hu": "Kunstpakhuset (Művészeti Galéria)",
+            "ro": "Kunstpakhuset (Galeria de Artă)",
+            "en": "Kunstpakhuset (Art Gallery)"
+          },
+          "coords": [
+            9.156,
+            56.141
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prüfen Sie den aktuellen Ausstellungskalender, da hier oft wechselnde Ausstellungen stattfinden.",
+            "hu": "Nézze meg az aktuális kiállítási naptárat, mivel gyakran vannak időszakos tárlatok.",
+            "ro": "Verificați calendarul expozițiilor curente, deoarece găzduiește adesea expoziții temporare.",
+            "en": "Check the current exhibition calendar, as it often hosts temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Ikast Wasserturm",
+            "hu": "Ikasti víztorony",
+            "ro": "Turnul de apă din Ikast",
+            "en": "Ikast Water Tower"
+          },
+          "coords": [
+            9.148,
+            56.138
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:25",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Wahrzeichen der Stadt. Obwohl man nicht hinaufsteigen kann, ist es ein tolles Fotomotiv.",
+            "hu": "A város egyik jelképe. Bár nem lehet felmenni, remek fotótéma.",
+            "ro": "Un punct de reper al orașului. Deși nu se poate urca, este un subiect excelent pentru fotografii.",
+            "en": "A landmark of the town. Although you can't go up, it's a great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Frisenborg Parken",
+            "hu": "Frisenborg Park",
+            "ro": "Parcul Frisenborg",
+            "en": "Frisenborg Park"
+          },
+          "coords": [
+            9.16,
+            56.135
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Perfekt für ein Mittagspicknick. Es gibt viel Grünfläche zum Entspannen.",
+            "hu": "Tökéletes hely egy ebédpiknikhez. Bőven van zöldterület a pihenéshez.",
+            "ro": "Perfect pentru un picnic la prânz. Există o mulțime de spațiu verde pentru relaxare.",
+            "en": "Perfect for a lunch picnic. There's plenty of green space to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Ikast Svømmecenter (Schwimmzentrum)",
+            "hu": "Ikast Svømmecenter (uszoda)",
+            "ro": "Centrul de înot Ikast",
+            "en": "Ikast Swimming Center"
+          },
+          "coords": [
+            9.165,
+            56.136
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nicht nur zum Schwimmen. Es hat auch Wellnessbereiche zum Entspannen nach einem langen Spaziergang.",
+            "hu": "Nem csak úszásra. Wellness-részlegei is vannak, ahol egy hosszú séta után pihenhet.",
+            "ro": "Nu doar pentru înot. Are și zone de wellness pentru a vă relaxa după o plimbare lungă.",
+            "en": "Not just for swimming. It also has wellness areas to relax after a long walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Ikast, dem Strøgcentret. Nach einem Kaffee erkunden Sie die moderne Ikast Kirche und tauchen in die lokale Kunstszene im Kunstpakhuset ein. Der Vormittag bietet eine Mischung aus städtischem Leben und Kultur. Am Nachmittag geht es weiter zum ikonischen Wasserturm, bevor Sie im Frisenborg Parken entspannen. Hier können Sie die Natur genießen und ein Picknick machen. Der Tag endet aktiv im Ikast Svømmecenter, wo Sie schwimmen oder im Wellnessbereich entspannen können, eine perfekte Belohnung nach einem Tag voller Entdeckungen zu Fuß.",
+        "hu": "Kezdje a napot Ikast szívében, a Strøgcentret-ben. Egy kávé után fedezze fel a modern Ikasti templomot és merüljön el a helyi művészeti életben a Kunstpakhuset-ben. A délelőtt a városi élet és a kultúra keverékét kínálja. Délután folytassa útját az ikonikus víztoronyhoz, mielőtt a Frisenborg Parkban pihenne. Itt élvezheti a természetet és piknikezhet egyet. A nap aktívan zárul az Ikast Svømmecenterben, ahol úszhat vagy relaxálhat a wellness-részlegben, ami tökéletes jutalom egy gyalogos felfedezéssel töltött nap után.",
+        "ro": "Începeți-vă ziua în inima orașului Ikast, la Strøgcentret. După o cafea, explorați moderna Biserică Ikast și scufundați-vă în scena artistică locală la Kunstpakhuset. Dimineața oferă un amestec de viață urbană și cultură. După-amiaza, continuați spre iconicul Turn de Apă înainte de a vă relaxa în Parcul Frisenborg. Aici vă puteți bucura de natură și puteți face un picnic. Ziua se încheie activ la Centrul de Înot Ikast, unde puteți înota sau vă puteți relaxa în zona de wellness, o recompensă perfectă după o zi de explorare pe jos.",
+        "en": "Start your day in the heart of Ikast at Strøgcentret. After a coffee, explore the modern Ikast Church and dive into the local art scene at Kunstpakhuset. The morning offers a mix of urban life and culture. In the afternoon, continue to the iconic Water Tower before relaxing in Frisenborg Park. Here you can enjoy nature and have a picnic. The day ends actively at Ikast Swimming Center, where you can swim or relax in the wellness area, a perfect reward after a day of exploring on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Probieren Sie das klassische dänische offene Sandwich in einem der lokalen Bistros."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Genießen Sie dänische Fleischbällchen, oft mit Kartoffelsalat serviert."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Gönnen Sie sich ein dänisches Gebäck zum Kaffee am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Kóstolja meg a klasszikus dán nyitott szendvicset a helyi bisztrók egyikében."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Élvezze a dán húsgombócokat, amelyeket gyakran burgonyasalátával tálalnak."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Kényeztesse magát egy dán péksüteménnyel a délutáni kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Încercați sandvișul deschis danez clasic la unul dintre bistrourile locale."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Savurați chiftelele daneze, adesea servite cu salată de cartofi."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Răsfățați-vă cu un produs de patiserie danez la cafeaua de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Try the classic Danish open-faced sandwich at one of the local bistros."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Enjoy Danish meatballs, often served with potato salad."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Treat yourself to a Danish pastry with your afternoon coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Frisenborg Parken",
+            "tip": "Finden Sie eine ruhige Bank am See und genießen Sie die Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang um den See",
+            "tip": "Ein friedlicher Spaziergang um einen der kleinen Seen in der Nähe des Parks.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frisenborg Park",
+            "tip": "Keressen egy csendes padot a tó mellett, és élvezze a nyugalmat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a tó körül",
+            "tip": "Egy békés séta a parkhoz közeli kis tavak egyike körül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Frisenborg",
+            "tip": "Găsiți o bancă liniștită lângă lac și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare în jurul lacului",
+            "tip": "O plimbare liniștită în jurul unuia dintre lacurile mici din apropierea parcului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Frisenborg Park",
+            "tip": "Find a quiet bench by the lake and enjoy the tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk around the lake",
+            "tip": "A peaceful walk around one of the small lakes near the park.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Strøgcentret",
+            "tip": "Entdecken Sie lokale Boutiquen und dänische Designläden."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie lokale Produkte und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strøgcentret",
+            "tip": "Fedezze fel a helyi butikokat és dán dizájnboltokat."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Ha piacnapon van itt, helyi termékeket és kézműves árukat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strøgcentret",
+            "tip": "Explorați buticurile locale și magazinele de design danez."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți aici într-o zi de piață, veți găsi produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Strøgcentret",
+            "tip": "Explore local boutiques and Danish design shops."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "If you're here on a market day, you'll find local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Eine wiederverwendbare Wasserflasche ist praktisch.",
+          "Prüfen Sie die Öffnungszeiten des Kunstpakhuset im Voraus.",
+          "Ein leichter Regenmantel ist in Dänemark immer eine gute Idee."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Egy újrafelhasználható vizes palack praktikus.",
+          "Előre ellenőrizze a Kunstpakhuset nyitvatartási idejét.",
+          "Egy könnyű esőkabát mindig jó ötlet Dániában."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți fi în picioare toată ziua.",
+          "O sticlă de apă reutilizabilă este la îndemână.",
+          "Verificați în avans orele de deschidere ale Kunstpakhuset.",
+          "O haină de ploaie ușoară este întotdeauna o idee bună în Danemarca."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "A reusable water bottle is handy.",
+          "Check the opening hours of Kunstpakhuset in advance.",
+          "A light raincoat is always a good idea in Denmark."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Strøgcentret",
+            "hu": "Strøgcentret",
+            "ro": "Strøgcentret",
+            "en": "Strøgcentret"
+          },
+          "coords": [
+            9.151,
+            56.1405
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und erkunden Sie die Geschäfte zu Fuß.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel gyalog az üzleteket.",
+            "ro": "Parcați-vă bicicleta în siguranță și explorați magazinele pe jos.",
+            "en": "Park your bike securely and explore the shops on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ikast Kirche",
+            "hu": "Ikasti templom",
+            "ro": "Biserica Ikast",
+            "en": "Ikast Church"
+          },
+          "coords": [
+            9.154,
+            56.142
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine kurze Radtour vom Zentrum entfernt. Genießen Sie die friedliche Atmosphäre.",
+            "hu": "Rövid bicikliút a központtól. Élvezze a békés hangulatot.",
+            "ro": "O scurtă plimbare cu bicicleta din centru. Bucurați-vă de atmosfera pașnică.",
+            "en": "A short bike ride from the center. Enjoy the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstpakhuset",
+            "hu": "Kunstpakhuset",
+            "ro": "Kunstpakhuset",
+            "en": "Kunstpakhuset"
+          },
+          "coords": [
+            9.156,
+            56.141
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kultureller Stopp, um die Beine nach dem Radfahren auszuruhen.",
+            "hu": "Kulturális megálló, hogy a biciklizés után megpihentesse a lábait.",
+            "ro": "O oprire culturală pentru a vă odihni picioarele după mersul pe bicicletă.",
+            "en": "A cultural stop to rest your legs after cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Isenvad Kirche",
+            "hu": "Isenvadi templom",
+            "ro": "Biserica Isenvad",
+            "en": "Isenvad Church"
+          },
+          "coords": [
+            9.23,
+            56.12
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.7,
+          "tip_5lang": {
+            "de": "Eine malerische Radtour durch die Landschaft zu dieser charmanten Dorfkirche.",
+            "hu": "Festői kerékpártúra a vidéken ehhez a bájos falusi templomhoz.",
+            "ro": "O plimbare pitorească cu bicicleta prin peisajul rural până la această biserică de sat fermecătoare.",
+            "en": "A scenic bike ride through the countryside to this charming village church."
+          }
+        },
+        {
+          "name": {
+            "de": "Frisenborg Parken",
+            "hu": "Frisenborg Park",
+            "ro": "Parcul Frisenborg",
+            "en": "Frisenborg Park"
+          },
+          "coords": [
+            9.16,
+            56.135
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für ein spätes Mittagessen und eine lange Pause nach der Radtour.",
+            "hu": "Tökéletes hely egy késői ebédhez és egy hosszú szünethez a kerékpártúra után.",
+            "ro": "Locul perfect pentru un prânz târziu și o pauză lungă după plimbarea cu bicicleta.",
+            "en": "The perfect spot for a late lunch and a long break after the bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im Zentrum von Ikast am Strøgcentret. Von dort aus sind es nur kurze Fahrten zur Ikast Kirche und zum Kunstpakhuset, wo Sie Kultur tanken können. Der Vormittag ist eine Erkundung des städtischen Kerns. Am Nachmittag führt Sie eine längere, malerische Radtour zur charmanten Isenvad Kirche. Der Weg führt durch die friedliche dänische Landschaft. Zum Abschluss radeln Sie zurück zum Frisenborg Parken, dem idealen Ort, um sich nach der Tour bei einem Picknick zu erholen und den Rest des Nachmittags zu genießen.",
+        "hu": "Kezdje a kerékpártúrát Ikast központjában, a Strøgcentret-nél. Innen rövid utat tesz meg az Ikasti templomig és a Kunstpakhuset-ig, ahol kultúrát szívhat magába. A délelőtt a város magjának felfedezéséről szól. Délután egy hosszabb, festői kerékpártúra vezet a bájos Isenvadi templomhoz. Az út a békés dán vidéken vezet keresztül. Végül tekerjen vissza a Frisenborg Parkba, amely ideális hely a túra utáni pihenésre egy piknik mellett, és az egész délután élvezetére.",
+        "ro": "Începeți turul cu bicicleta în centrul orașului Ikast, la Strøgcentret. De acolo, sunt doar plimbări scurte până la Biserica Ikast și Kunstpakhuset, unde vă puteți bucura de cultură. Dimineața este o explorare a nucleului urban. După-amiaza, o plimbare mai lungă și pitorească cu bicicleta vă duce la fermecătoarea Biserică Isenvad. Traseul trece prin peisajul rural danez pașnic. În cele din urmă, pedalați înapoi la Parcul Frisenborg, locul ideal pentru a vă relaxa cu un picnic după tur și a vă bucura de restul după-amiezii.",
+        "en": "Start your bike tour in the center of Ikast at Strøgcentret. From there, it's short rides to Ikast Church and Kunstpakhuset, where you can soak up some culture. The morning is an exploration of the urban core. In the afternoon, a longer, scenic bike ride takes you to the charming Isenvad Church. The route passes through the peaceful Danish countryside. Finally, cycle back to Frisenborg Park, the ideal place to relax with a picnic after the tour and enjoy the rest of the afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rugbrød",
+            "tip": "Ein herzhaftes Roggenbrot-Sandwich ist die perfekte Stärkung für Radfahrer."
+          },
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Probieren Sie die Fischfrikadellen als leichtere Alternative."
+          },
+          {
+            "name": "Koldskål",
+            "tip": "Ein erfrischendes Buttermilch-Dessert, besonders gut an einem warmen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rugbrød",
+            "tip": "Egy kiadós rozskenyér-szendvics tökéletes energiaforrás a kerékpárosoknak."
+          },
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Kóstolja meg a halgombócokat könnyebb alternatívaként."
+          },
+          {
+            "name": "Koldskål",
+            "tip": "Frissítő írós desszert, különösen jó meleg napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rugbrød",
+            "tip": "Un sandviș consistent cu pâine de secară este combustibilul perfect pentru bicicliști."
+          },
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Încercați chiftelele de pește ca o alternativă mai ușoară."
+          },
+          {
+            "name": "Koldskål",
+            "tip": "Un desert răcoritor din lapte bătut, deosebit de bun într-o zi călduroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rugbrød",
+            "tip": "A hearty rye bread sandwich is the perfect fuel for cyclists."
+          },
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Try the fish cakes as a lighter alternative."
+          },
+          {
+            "name": "Koldskål",
+            "tip": "A refreshing buttermilk dessert, especially good on a warm day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Harrild Hede",
+            "tip": "Wenn Sie Zeit haben, ist eine kurze Radtour in diese Heidelandschaft sehr friedlich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Radwege um Ikast",
+            "tip": "Die Radwege außerhalb der Stadt sind ruhig und gut gepflegt.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Harrild Hede",
+            "tip": "Ha van ideje, egy rövid biciklitúra ebbe a fenyérbe nagyon békés.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kerékpárutak Ikast körül",
+            "tip": "A városon kívüli kerékpárutak csendesek és jól karbantartottak.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Harrild Hede",
+            "tip": "Dacă aveți timp, o scurtă plimbare cu bicicleta în această zonă de erica este foarte pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Piste de biciclete în jurul Ikast",
+            "tip": "Pistele de biciclete din afara orașului sunt liniștite și bine întreținute.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harrild Hede",
+            "tip": "If you have time, a short bike ride into this heathland is very peaceful.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bike paths around Ikast",
+            "tip": "The cycle paths outside the town are quiet and well-maintained.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Kaufen Sie lokales Fahrradzubehör oder Souvenirs."
+          },
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf dem Land Ausschau nach Hofläden mit frischen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Vásároljon helyi kerékpáros kiegészítőket vagy szuveníreket."
+          },
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Vidéken keresse a friss termékeket kínáló tanyasi boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Cumpărați accesorii locale pentru biciclete sau suveniruri."
+          },
+          {
+            "name": "Magazine la fermă",
+            "tip": "Fiți atenți la magazinele de la fermă cu produse proaspete în mediul rural."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Buy some local cycling accessories or souvenirs."
+          },
+          {
+            "name": "Farm Shops",
+            "tip": "Look out for farm shops with fresh produce in the countryside."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit guter Gangschaltung für die Landschaft.",
+          "Ein Helm ist sehr zu empfehlen.",
+          "Nehmen Sie Wasser und Snacks für die längere Tour mit.",
+          "Überprüfen Sie die Wettervorhersage, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Béreljen jó sebességváltóval rendelkező kerékpárt a vidéki túrához.",
+          "Sisak viselése erősen ajánlott.",
+          "Vigyen magával vizet és harapnivalót a hosszabb túrára.",
+          "Indulás előtt ellenőrizze az időjárás-előrejelzést."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze bune pentru peisajul rural.",
+          "O cască este foarte recomandată.",
+          "Luați apă și gustări pentru turul mai lung.",
+          "Verificați prognoza meteo înainte de a pleca."
+        ],
+        "en": [
+          "Rent a bike with good gears for the countryside.",
+          "A helmet is highly recommended.",
+          "Take water and snacks for the longer tour.",
+          "Check the weather forecast before you leave."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 25.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Harrild Hede (Naturreservat)",
+            "hu": "Harrild Hede (természetvédelmi terület)",
+            "ro": "Harrild Hede (rezervație naturală)",
+            "en": "Harrild Hede (nature reserve)"
+          },
+          "coords": [
+            9.28,
+            56.05
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:25",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag in der Natur. Die Wanderwege hier sind perfekt für einen Morgenspaziergang.",
+            "hu": "Kezdje a napot a természetben. Az itteni túraútvonalak tökéletesek egy reggeli sétához.",
+            "ro": "Începeți ziua în natură. Traseele de drumeții de aici sunt perfecte pentru o plimbare de dimineață.",
+            "en": "Start the day in nature. The hiking trails here are perfect for a morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Isenvad Kirche",
+            "hu": "Isenvadi templom",
+            "ro": "Biserica Isenvad",
+            "en": "Isenvad Church"
+          },
+          "coords": [
+            9.23,
+            56.12
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt von der Heide entfernt. Eine kleine, aber feine Dorfkirche.",
+            "hu": "Rövid autóútra a fenyértől. Kicsi, de szép falusi templom.",
+            "ro": "La o scurtă distanță cu mașina de erica. O biserică de sat mică, dar frumoasă.",
+            "en": "A short drive from the heath. A small but fine village church."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Strøgcentret",
+            "hu": "Parkoló a Strøgcentret-nél",
+            "ro": "Parcare Strøgcentret",
+            "en": "Parking at Strøgcentret"
+          },
+          "coords": [
+            9.149,
+            56.141
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den Stadtkern zu Fuß zu erkunden. Dies ist Ihr erster Cluster-Stopp.",
+            "hu": "Parkoljon le itt, hogy gyalog fedezze fel a városközpontot. Ez az első klaszter-megállója.",
+            "ro": "Parcați aici pentru a explora centrul orașului pe jos. Acesta este primul dvs. popas în cluster.",
+            "en": "Park here to explore the city core on foot. This is your first cluster stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            9.151,
+            56.1405
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wählen Sie eines der vielen Restaurants rund um die Fußgängerzone.",
+            "hu": "Válasszon a sétálóutca körüli számos étterem közül.",
+            "ro": "Alegeți unul dintre numeroasele restaurante din jurul zonei pietonale.",
+            "en": "Choose one of the many restaurants around the pedestrian area."
+          }
+        },
+        {
+          "name": {
+            "de": "Ikast Kirche",
+            "hu": "Ikasti templom",
+            "ro": "Biserica Ikast",
+            "en": "Ikast Church"
+          },
+          "coords": [
+            9.154,
+            56.142
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Mittagessen entfernt, um die moderne Architektur zu bewundern.",
+            "hu": "Rövid séta az ebédtől, hogy megcsodálja a modern építészetet.",
+            "ro": "La o scurtă plimbare de la prânz pentru a admira arhitectura modernă.",
+            "en": "A short walk from lunch to admire the modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstpakhuset",
+            "hu": "Kunstpakhuset",
+            "ro": "Kunstpakhuset",
+            "en": "Kunstpakhuset"
+          },
+          "coords": [
+            9.156,
+            56.141
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang durch das Zentrum mit einem Besuch der Kunstgalerie.",
+            "hu": "Zárja a központi sétát a művészeti galéria meglátogatásával.",
+            "ro": "Încheiați-vă plimbarea prin centru cu o vizită la galeria de artă.",
+            "en": "End your walk through the center with a visit to the art gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Frisenborg Parken",
+            "hu": "Frisenborg Park",
+            "ro": "Parcul Frisenborg",
+            "en": "Frisenborg Park"
+          },
+          "coords": [
+            9.16,
+            56.135
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park für einen entspannten Ausklang des Tages.",
+            "hu": "Vezessen a parkba egy pihentető napzárásra.",
+            "ro": "Conduceți spre parc pentru o încheiere relaxantă a zilei.",
+            "en": "Drive to the park for a relaxing end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto beginnt mit einem Ausflug in die Natur. Fahren Sie zur Harrild Hede für eine morgendliche Wanderung, gefolgt von einem Besuch der ruhigen Isenvad Kirche. Dies bildet Ihren ersten Outdoor-Cluster. Anschließend fahren Sie ins Zentrum von Ikast, parken Ihr Auto und erkunden den zweiten Cluster zu Fuß: Mittagessen, die moderne Ikast Kirche und das Kunstpakhuset. Der Nachmittag steht im Zeichen von Kultur und Stadtleben. Zum Abschluss des Tages fahren Sie zum Frisenborg Parken, um sich im Grünen zu entspannen und die Eindrücke des Tages Revue passieren zu lassen.",
+        "hu": "Az autós napja egy természeti kirándulással kezdődik. Vezessen a Harrild Hede-hez egy reggeli túrára, majd látogasson el a csendes Isenvadi templomhoz. Ez alkotja az első szabadtéri klasztert. Ezután vezessen Ikast központjába, parkolja le az autót, és fedezze fel gyalog a második klasztert: ebéd, a modern Ikasti templom és a Kunstpakhuset. A délután a kultúra és a városi élet jegyében telik. A nap lezárásaként vezessen a Frisenborg Parkba, hogy a zöldben pihenjen és átgondolja a nap élményeit.",
+        "ro": "Ziua dvs. cu mașina începe cu o excursie în natură. Conduceți spre Harrild Hede pentru o drumeție de dimineață, urmată de o vizită la liniștita Biserică Isenvad. Acesta formează primul dvs. cluster în aer liber. Apoi, conduceți spre centrul orașului Ikast, parcați mașina și explorați al doilea cluster pe jos: prânz, moderna Biserică Ikast și Kunstpakhuset. După-amiaza este dedicată culturii și vieții urbane. Pentru a încheia ziua, conduceți spre Parcul Frisenborg pentru a vă relaxa în verdeață și a reflecta asupra impresiilor zilei.",
+        "en": "Your day by car begins with a trip into nature. Drive to Harrild Hede for a morning hike, followed by a visit to the quiet Isenvad Church. This forms your first outdoor cluster. Then drive into the center of Ikast, park your car, and explore the second cluster on foot: lunch, the modern Ikast Church, and Kunstpakhuset. The afternoon is all about culture and city life. To end the day, drive to Frisenborg Park to relax in the greenery and reflect on the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kro",
+            "tip": "Suchen Sie nach einem traditionellen dänischen Gasthof (Kro) für ein authentisches Mittagessen."
+          },
+          {
+            "name": "Pølsevogn",
+            "tip": "Für einen schnellen Snack probieren Sie einen Hotdog von einem dänischen Hotdog-Stand."
+          },
+          {
+            "name": "Æblekage",
+            "tip": "Ein traditioneller dänischer Apfelkuchen als Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kro",
+            "tip": "Keressen egy hagyományos dán fogadót (Kro) egy autentikus ebédért."
+          },
+          {
+            "name": "Pølsevogn",
+            "tip": "Egy gyors harapnivalóért kóstoljon meg egy hot dogot egy dán hot dog standnál."
+          },
+          {
+            "name": "Æblekage",
+            "tip": "Hagyományos dán almás sütemény desszertként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kro",
+            "tip": "Căutați un han tradițional danez (Kro) pentru un prânz autentic."
+          },
+          {
+            "name": "Pølsevogn",
+            "tip": "Pentru o gustare rapidă, încercați un hot dog de la un stand de hot dog danez."
+          },
+          {
+            "name": "Æblekage",
+            "tip": "O prăjitură tradițională daneză cu mere ca desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kro",
+            "tip": "Look for a traditional Danish inn (Kro) for an authentic lunch."
+          },
+          {
+            "name": "Pølsevogn",
+            "tip": "For a quick snack, try a hot dog from a Danish hot dog stand."
+          },
+          {
+            "name": "Æblekage",
+            "tip": "A traditional Danish apple cake for dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Harrild Hede",
+            "tip": "Die Weite der Heidelandschaft ist unglaublich beruhigend.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Frisenborg Parken am Abend",
+            "tip": "Wenn die Tagesbesucher weg sind, ist der Park besonders friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Harrild Hede",
+            "tip": "A fenyér tágassága hihetetlenül megnyugtató.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Frisenborg Park este",
+            "tip": "Amikor a napközbeni látogatók elmennek, a park különösen békés.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Harrild Hede",
+            "tip": "Vastitatea ericii este incredibil de liniștitoare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Frisenborg seara",
+            "tip": "Când vizitatorii de zi pleacă, parcul este deosebit de pașnic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harrild Hede",
+            "tip": "The vastness of the heathland is incredibly calming.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Frisenborg Park in the evening",
+            "tip": "When the day visitors are gone, the park is especially peaceful.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunst im Kunstpakhuset",
+            "tip": "Manchmal kann man Drucke oder kleine Kunstwerke von lokalen Künstlern kaufen."
+          },
+          {
+            "name": "Dänische Delikatessen",
+            "tip": "Kaufen Sie Lakritz oder andere dänische Süßigkeiten als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi művészet a Kunstpakhuset-ben",
+            "tip": "Néha vásárolhat nyomatokat vagy kis műalkotásokat helyi művészektől."
+          },
+          {
+            "name": "Dán finomságok",
+            "tip": "Vásároljon medvecukrot vagy más dán édességet szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artă locală la Kunstpakhuset",
+            "tip": "Uneori puteți cumpăra printuri sau mici opere de artă de la artiști locali."
+          },
+          {
+            "name": "Delicatese daneze",
+            "tip": "Cumpărați lemn dulce sau alte dulciuri daneze ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local art at Kunstpakhuset",
+            "tip": "Sometimes you can buy prints or small artworks from local artists."
+          },
+          {
+            "name": "Danish delicacies",
+            "tip": "Buy licorice or other Danish sweets as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um die besten Routen zwischen den Zielen zu finden.",
+          "Parken im Zentrum kann gebührenpflichtig sein, halten Sie Münzen oder eine Park-App bereit.",
+          "Planen Sie genügend Zeit für den Verkehr ein, besonders am Nachmittag.",
+          "Ein Auto gibt Ihnen die Flexibilität, spontan anzuhalten."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a célok közötti legjobb útvonalak megtalálásához.",
+          "A központi parkolás díjköteles lehet, tartson készenlétben érméket vagy parkolóalkalmazást.",
+          "Tervezzen elegendő időt a forgalomra, különösen délután.",
+          "Az autó rugalmasságot ad a spontán megállásokhoz."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație pentru a găsi cele mai bune rute între destinații.",
+          "Parcarea în centru poate fi contra cost, aveți la îndemână monede sau o aplicație de parcare.",
+          "Planificați suficient timp pentru trafic, mai ales după-amiaza.",
+          "O mașină vă oferă flexibilitatea de a face opriri spontane."
+        ],
+        "en": [
+          "Use a navigation app to find the best routes between destinations.",
+          "Parking in the center can be paid, have coins or a parking app ready.",
+          "Allow enough time for traffic, especially in the afternoon.",
+          "A car gives you the flexibility to make spontaneous stops."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Ikast",
+            "hu": "Érkezés az Ikast vasútállomásra",
+            "ro": "Sosire la gara Ikast",
+            "en": "Arrival at Ikast station"
+          },
+          "coords": [
+            9.158,
+            56.143
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den Bus, um sich flexibel bewegen zu können.",
+            "hu": "Vásároljon napijegyet a buszra a rugalmas közlekedés érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru autobuz pentru a vă deplasa flexibil.",
+            "en": "Buy a day pass for the bus to move around flexibly."
+          }
+        },
+        {
+          "name": {
+            "de": "Strøgcentret",
+            "hu": "Strøgcentret",
+            "ro": "Strøgcentret",
+            "en": "Strøgcentret"
+          },
+          "coords": [
+            9.151,
+            56.1405
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof. Erkunden Sie die Hauptstraße und frühstücken Sie.",
+            "hu": "Rövid séta az állomástól. Fedezze fel a főutcát és reggelizzen.",
+            "ro": "La o scurtă plimbare de gară. Explorați strada principală și luați micul dejun.",
+            "en": "A short walk from the station. Explore the main street and have breakfast."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstpakhuset",
+            "hu": "Kunstpakhuset",
+            "ro": "Kunstpakhuset",
+            "en": "Kunstpakhuset"
+          },
+          "coords": [
+            9.156,
+            56.141
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Im selben Fußgänger-Cluster wie das Zentrum, leicht zu Fuß erreichbar.",
+            "hu": "Ugyanabban a gyalogos klaszterben, mint a központ, könnyen megközelíthető gyalog.",
+            "ro": "În același cluster pietonal ca și centrul, ușor accesibil pe jos.",
+            "en": "In the same pedestrian cluster as the center, easily reachable on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ikast Svømmecenter",
+            "hu": "Ikast Svømmecenter",
+            "ro": "Centrul de înot Ikast",
+            "en": "Ikast Swimming Center"
+          },
+          "coords": [
+            9.165,
+            56.136
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zu diesem zweiten Cluster. Perfekt für eine Nachmittagsaktivität.",
+            "hu": "Menjen busszal ehhez a második klaszterhez. Tökéletes délutáni tevékenység.",
+            "ro": "Luați un autobuz spre acest al doilea cluster. Perfect pentru o activitate de după-amiază.",
+            "en": "Take a bus to this second cluster. Perfect for an afternoon activity."
+          }
+        },
+        {
+          "name": {
+            "de": "Frisenborg Parken",
+            "hu": "Frisenborg Park",
+            "ro": "Parcul Frisenborg",
+            "en": "Frisenborg Park"
+          },
+          "coords": [
+            9.16,
+            56.135
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schwimmzentrum, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Rövid séta az uszodától, hogy pihentetően zárja a napot.",
+            "ro": "La o scurtă plimbare de centrul de înot pentru a încheia ziua într-un mod relaxant.",
+            "en": "A short walk from the swimming center to end the day in a relaxed way."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt am Bahnhof von Ikast. Der erste Cluster ist das Stadtzentrum, das Sie zu Fuß erkunden: Strøgcentret und das nahegelegene Kunstpakhuset. Hier können Sie den Puls der Stadt spüren. Am Nachmittag nehmen Sie einen Bus zum zweiten Cluster, dem Freizeitbereich. Besuchen Sie das Ikast Svømmecenter für etwas Aktivität oder Entspannung. Anschließend spazieren Sie zum benachbarten Frisenborg Parken, um den Tag im Grünen ausklingen zu lassen, bevor Sie den Bus zurück zum Bahnhof nehmen.",
+        "hu": "A tömegközlekedési túrája az ikasti vasútállomáson kezdődik. Az első klaszter a városközpont, amelyet gyalog fedez fel: a Strøgcentret és a közeli Kunstpakhuset. Itt érezheti a város lüktetését. Délután busszal utazik a második klaszterhez, a szabadidős területhez. Látogasson el az Ikast Svømmecenterbe egy kis mozgásért vagy pihenésért. Ezután sétáljon át a szomszédos Frisenborg Parkba, hogy a zöldben fejezze be a napot, mielőtt visszabuszozna az állomásra.",
+        "ro": "Turul dvs. cu transportul public începe la gara din Ikast. Primul cluster este centrul orașului, pe care îl explorați pe jos: Strøgcentret și Kunstpakhuset din apropiere. Aici puteți simți pulsul orașului. După-amiaza, luați un autobuz spre al doilea cluster, zona de agrement. Vizitați Centrul de Înot Ikast pentru puțină activitate sau relaxare. Apoi, plimbați-vă până la Parcul Frisenborg adiacent pentru a încheia ziua în verdeață înainte de a lua autobuzul înapoi la gară.",
+        "en": "Your tour by public transport starts at Ikast train station. The first cluster is the city center, which you explore on foot: Strøgcentret and the nearby Kunstpakhuset. Here you can feel the pulse of the city. In the afternoon, you take a bus to the second cluster, the leisure area. Visit Ikast Swimming Center for some activity or relaxation. Afterwards, stroll over to the adjacent Frisenborg Park to end the day in the green before taking the bus back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei-Café",
+            "tip": "Ein Café in einer Bäckerei ist perfekt für einen schnellen, leckeren und preiswerten Lunch."
+          },
+          {
+            "name": "Supermarkt-Salatbar",
+            "tip": "Für ein gesundes und günstiges Picknick im Park."
+          },
+          {
+            "name": "Ristet Hotdog",
+            "tip": "Probieren Sie den dänischen Hotdog mit gerösteten Zwiebeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség-kávézó",
+            "tip": "Egy pékségben lévő kávézó tökéletes egy gyors, finom és olcsó ebédhez."
+          },
+          {
+            "name": "Szupermarket salátabár",
+            "tip": "Egy egészséges és olcsó piknikhez a parkban."
+          },
+          {
+            "name": "Ristet Hotdog",
+            "tip": "Kóstolja meg a dán hot dogot pirított hagymával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea-patiserie",
+            "tip": "O cafenea într-o patiserie este perfectă pentru un prânz rapid, delicios și ieftin."
+          },
+          {
+            "name": "Salad bar la supermarket",
+            "tip": "Pentru un picnic sănătos și ieftin în parc."
+          },
+          {
+            "name": "Ristet Hotdog",
+            "tip": "Încercați hot dog-ul danez cu ceapă prăjită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery Café",
+            "tip": "A café in a bakery is perfect for a quick, delicious, and affordable lunch."
+          },
+          {
+            "name": "Supermarket salad bar",
+            "tip": "For a healthy and cheap picnic in the park."
+          },
+          {
+            "name": "Ristet Hotdog",
+            "tip": "Try the Danish hot dog with roasted onions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leseecke im Kunstpakhuset",
+            "tip": "Manchmal gibt es ruhige Ecken mit Büchern zum Blättern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bank im Frisenborg Parken",
+            "tip": "Suchen Sie sich einen Platz abseits der Hauptwege.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasósarok a Kunstpakhuset-ben",
+            "tip": "Néha vannak csendes sarkok könyvekkel, amiket lapozgathat.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pad a Frisenborg Parkban",
+            "tip": "Keressen egy helyet a fő ösvényektől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colț de lectură la Kunstpakhuset",
+            "tip": "Uneori există colțuri liniștite cu cărți de răsfoit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bancă în Parcul Frisenborg",
+            "tip": "Găsiți un loc departe de potecile principale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading corner in Kunstpakhuset",
+            "tip": "Sometimes there are quiet corners with books to browse.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bench in Frisenborg Park",
+            "tip": "Find a spot away from the main paths.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs am Bahnhof",
+            "tip": "Der Kiosk am Bahnhof hat oft kleine Andenken."
+          },
+          {
+            "name": "Lokale Produkte im Supermarkt",
+            "tip": "Kaufen Sie dänische Schokolade oder Kekse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírek az állomáson",
+            "tip": "Az állomási kioszkban gyakran vannak apró ajándéktárgyak."
+          },
+          {
+            "name": "Helyi termékek a szupermarketben",
+            "tip": "Vásároljon dán csokoládét vagy kekszet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la gară",
+            "tip": "Chioșcul de la gară are adesea mici suveniruri."
+          },
+          {
+            "name": "Produse locale la supermarket",
+            "tip": "Cumpărați ciocolată sau biscuiți danezi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at the station",
+            "tip": "The kiosk at the station often has small souvenirs."
+          },
+          {
+            "name": "Local products in the supermarket",
+            "tip": "Buy Danish chocolate or biscuits."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie den Busfahrplan herunter oder nutzen Sie eine App wie Rejseplanen.",
+          "Achten Sie auf die Abfahrtszeiten des letzten Busses zurück zum Bahnhof.",
+          "Eine Powerbank für Ihr Smartphone ist nützlich für Navigation und Fahrpläne.",
+          "Validieren Sie Ihr Ticket bei jedem Einstieg."
+        ],
+        "hu": [
+          "Töltse le a buszmenetrendet, vagy használjon egy alkalmazást, mint a Rejseplanen.",
+          "Figyeljen az utolsó busz indulási idejére vissza az állomásra.",
+          "Egy power bank a telefonjához hasznos a navigációhoz és a menetrendekhez.",
+          "Minden felszálláskor érvényesítse a jegyét."
+        ],
+        "ro": [
+          "Descărcați orarul autobuzelor sau folosiți o aplicație precum Rejseplanen.",
+          "Fiți atenți la ora de plecare a ultimului autobuz înapoi la gară.",
+          "O baterie externă pentru smartphone-ul dvs. este utilă pentru navigație și orare.",
+          "Validați biletul la fiecare îmbarcare."
+        ],
+        "en": [
+          "Download the bus schedule or use an app like Rejseplanen.",
+          "Pay attention to the departure time of the last bus back to the station.",
+          "A power bank for your smartphone is useful for navigation and schedules.",
+          "Validate your ticket every time you board."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1122 @@
+{
+  "city_id": "spain-sabadell-cities-v2",
+  "anchor": {
+    "name": "Sabadell",
+    "coords": [
+      2.1086,
+      41.5463
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "14:42",
+      "total_km": 1.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Ajuntament de Sabadell",
+          "coords": [
+            2.1086,
+            41.5463
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die neoklassizistische Fassade.",
+            "hu": "Figyelje meg a neoklasszicista homlokzatot.",
+            "ro": "Observați fațada neoclasică.",
+            "en": "Notice the neo-classical facade."
+          }
+        },
+        {
+          "name": "Sant Fèlix Kirche",
+          "coords": [
+            2.1084,
+            41.5475
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der gotische Glockenturm ist das Wahrzeichen der Stadt.",
+            "hu": "A gótikus harangtorony a város jelképe.",
+            "ro": "Turnul clopotniță gotic este simbolul orașului.",
+            "en": "The Gothic bell tower is the city's symbol."
+          }
+        },
+        {
+          "name": "Casa Duran",
+          "coords": [
+            2.1095,
+            41.545
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Adelshaus aus dem 16. Jahrhundert.",
+            "hu": "Egy 16. századi nemesi udvarház.",
+            "ro": "O casă nobiliară din secolul al XVI-lea.",
+            "en": "A 16th-century noble house."
+          }
+        },
+        {
+          "name": "Mercat Central",
+          "coords": [
+            2.107,
+            41.544
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:36",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für frische katalanische Produkte.",
+            "hu": "Kiváló hely a friss katalán termékekhez.",
+            "ro": "Ideal pentru produse proaspete catalane.",
+            "en": "Great for fresh Catalan produce."
+          }
+        },
+        {
+          "name": "Museu d'Art",
+          "coords": [
+            2.1105,
+            41.5455
+          ],
+          "category": "museums",
+          "arrive_at": "12:32",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Gemälde aus dem 19. Jahrhundert.",
+            "hu": "Fedezze fel a 19. századi helyi festményeket.",
+            "ro": "Descoperiți picturile locale din secolul al XIX-lea.",
+            "en": "Discover local 19th-century paintings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden wir das historische Herz mit dem Rathaus und der Kirche. Mittags bewundern wir Casa Duran und besuchen den lebhaften Mercat Central. Nachmittags tauchen wir im Kunstmuseum in die Kultur ein. Abends locken die Altstadtgassen.",
+        "hu": "A történelmi városmagban kezdünk, érintve a városházát és a templomot. Délben a Casa Duran nemesi épületét és a pezsgő központi piacot fedezzük fel. Délután a művészeti múzeum gyűjteménye vár. Este kellemes séta a központban.",
+        "ro": "Dimineața explorăm inima istorică cu primăria și biserica. La prânz admirăm Casa Duran și vizităm piața centrală animată. După-amiaza ne bucurăm de artă la muzeul local. Seara ne relaxăm pe străduțele vechi.",
+        "en": "We start in the historic core with the city hall and church. Midday brings us to the noble Casa Duran and the bustling central market. Afternoon is dedicated to local art at the museum. The evening is perfect for a town stroll."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "Katalanisches Brot mit Tomaten."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Traditionelles Dessert."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Paella mit Nudeln statt Reis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "Katalán paradicsomos kenyér."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Hagyományos desszert."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Tésztás paella tenger gyümölcseivel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "Pâine catalană cu roșii."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Desert tradițional delicios."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Paella preparată cu fidea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "Catalan bread with tomato."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Traditional sweet dessert."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Noodle-based paella dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de Catalunya",
+            "tip": "Ruhiger Spaziergang am Seeufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de la Caixa",
+            "tip": "Kleiner Garten für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de Catalunya",
+            "tip": "Csendes séta a tóparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de la Caixa",
+            "tip": "Kis kert egy rövid pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de Catalunya",
+            "tip": "Plimbare liniștită pe malul lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de la Caixa",
+            "tip": "O mică grădină pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de Catalunya",
+            "tip": "Quiet walk along the lakeside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de la Caixa",
+            "tip": "A small garden for a rest.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercat Central",
+            "tip": "Lokale Lebensmittel."
+          },
+          {
+            "name": "Rambla de Sabadell",
+            "tip": "Boutiquen und Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercat Central",
+            "tip": "Helyi élelmiszerek és piac."
+          },
+          {
+            "name": "Rambla de Sabadell",
+            "tip": "Butikok és üzletek sora."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercat Central",
+            "tip": "Alimente locale."
+          },
+          {
+            "name": "Rambla de Sabadell",
+            "tip": "Buticuri și magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercat Central",
+            "tip": "Local food and fresh produce."
+          },
+          {
+            "name": "Rambla de Sabadell",
+            "tip": "Boutiques and various shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die Altstadt lässt sich am besten zu Fuß erkunden.",
+          "Probieren Sie Tapas in den kleinen Gassen.",
+          "Achten Sie auf die modernistischen Details an den Gebäuden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákon.",
+          "Az óvárost a legjobb gyalogosan felfedezni.",
+          "Kóstolja meg a tapasokat a kis sikátorokban.",
+          "Figyelje meg a modernista részleteket az épületeken."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru piatra cubică.",
+          "Centrul vechi este cel mai bine explorat pe jos.",
+          "Încercați tapas în micile alei.",
+          "Fiți atenți la detaliile moderniste ale clădirilor."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestones.",
+          "The old town is best explored on foot.",
+          "Try tapas in the small alleys.",
+          "Look out for modernist details on the buildings."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "14:28",
+      "total_km": 3.7,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Torre de l'Aigua",
+          "coords": [
+            2.113,
+            41.554
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Besteigen Sie den Wasserturm für eine tolle Aussicht.",
+            "hu": "Másszon fel a víztoronyba a nagyszerű kilátásért.",
+            "ro": "Urcați în turnul de apă pentru o priveliște excelentă.",
+            "en": "Climb the water tower for a great view."
+          }
+        },
+        {
+          "name": "Parc de Catalunya",
+          "coords": [
+            2.095,
+            41.551
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie ein kleines Boot auf dem See.",
+            "hu": "Béreljen kis csónakot a tavon.",
+            "ro": "Închiriați o barcă mică pe lac.",
+            "en": "Rent a small boat on the lake."
+          }
+        },
+        {
+          "name": "Institut Paleontològic",
+          "coords": [
+            2.103,
+            41.549
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sehen Sie sich den Triceratops-Schädel an.",
+            "hu": "Nézze meg a Triceratops koponyát.",
+            "ro": "Priviți craniul de Triceratops.",
+            "en": "Check out the Triceratops skull."
+          }
+        },
+        {
+          "name": "Mercat Central",
+          "coords": [
+            2.107,
+            41.544
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für einen frischen Snack.",
+            "hu": "Tökéletes hely egy frissítő harapnivalóhoz.",
+            "ro": "Perfect pentru o gustare proaspătă.",
+            "en": "Perfect for a fresh snack."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens radeln wir zum markanten Wasserturm Torre de l'Aigua. Danach machen wir eine entspannte Pause im Parc de Catalunya. Nachmittags besuchen wir die Fossilien im paläontologischen Institut. Die Tour endet am historischen Mercat Central.",
+        "hu": "Reggel a lenyűgöző Torre de l'Aigua víztoronyhoz tekerünk. Ezután a Parc de Catalunya zöldjében pihenünk meg. Délután a paleontológiai intézet őslénytani leleteit nézzük meg, majd a túra a központi piacnál ér véget.",
+        "ro": "Dimineața pedalăm către impresionantul turn de apă Torre de l'Aigua. Apoi facem o pauză relaxantă în Parc de Catalunya. După-amiaza vizităm fosilele institutului paleontologic. Turul se încheie la piața centrală.",
+        "en": "Morning cycle to the striking Torre de l'Aigua water tower. Then we take a relaxing break in Parc de Catalunya. Afternoon is for viewing fossils at the Paleontological Institute. The tour ends at the historic central market."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "Katalanisches Brot mit Tomaten."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Traditionelles Dessert."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Paella mit Nudeln statt Reis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "Katalán paradicsomos kenyér."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Hagyományos desszert."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Tésztás paella tenger gyümölcseivel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "Pâine catalană cu roșii."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Desert tradițional delicios."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Paella preparată cu fidea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "Catalan bread with tomato."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Traditional sweet dessert."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Noodle-based paella dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de Catalunya",
+            "tip": "Ruhiger Spaziergang am Seeufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de la Caixa",
+            "tip": "Kleiner Garten für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de Catalunya",
+            "tip": "Csendes séta a tóparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de la Caixa",
+            "tip": "Kis kert egy rövid pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de Catalunya",
+            "tip": "Plimbare liniștită pe malul lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de la Caixa",
+            "tip": "O mică grădină pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de Catalunya",
+            "tip": "Quiet walk along the lakeside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de la Caixa",
+            "tip": "A small garden for a rest.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercat Central",
+            "tip": "Lokale Lebensmittel."
+          },
+          {
+            "name": "Rambla de Sabadell",
+            "tip": "Boutiquen und Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercat Central",
+            "tip": "Helyi élelmiszerek és piac."
+          },
+          {
+            "name": "Rambla de Sabadell",
+            "tip": "Butikok és üzletek sora."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercat Central",
+            "tip": "Alimente locale."
+          },
+          {
+            "name": "Rambla de Sabadell",
+            "tip": "Buticuri și magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercat Central",
+            "tip": "Local food and fresh produce."
+          },
+          {
+            "name": "Rambla de Sabadell",
+            "tip": "Boutiques and various shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut ausgebauten Radwege.",
+          "Schließen Sie Ihr Fahrrad an belebten Plätzen sicher ab.",
+          "Nehmen Sie Wasser für die Fahrt mit.",
+          "Achten Sie im Zentrum auf Fußgängerzonen."
+        ],
+        "hu": [
+          "Használja a jól kiépített kerékpárutakat.",
+          "Forgalmas helyeken mindig zárja le a kerékpárt.",
+          "Vigyen magával vizet az útra.",
+          "A központban figyeljen a sétálóutcákra."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete bine dezvoltate.",
+          "Încuiați-vă bicicleta în locuri aglomerate.",
+          "Luați apă cu dumneavoastră.",
+          "Acordați atenție zonelor pietonale din centru."
+        ],
+        "en": [
+          "Use the well-developed bike paths.",
+          "Lock your bike securely in busy places.",
+          "Bring water for the ride.",
+          "Pay attention to pedestrian zones in the center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:52",
+      "total_km": 4.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Casa Duran",
+          "coords": [
+            2.1095,
+            41.545
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das historische Cluster zu erkunden.",
+            "hu": "Parkoljon le itt a történelmi negyed felfedezéséhez.",
+            "ro": "Parcați aici pentru a explora zona istorică.",
+            "en": "Park here to explore the historical cluster."
+          }
+        },
+        {
+          "name": "Sant Fèlix Kirche",
+          "coords": [
+            2.1084,
+            41.5475
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von Casa Duran.",
+            "hu": "Csak egy rövid sétára a Casa Durantól.",
+            "ro": "La doar o scurtă plimbare de Casa Duran.",
+            "en": "Just a short walk from Casa Duran."
+          }
+        },
+        {
+          "name": "Mercat Central",
+          "coords": [
+            2.107,
+            41.544
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:19",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kaufen Sie ein paar lokale Snacks für später.",
+            "hu": "Vásároljon néhány helyi falatot későbbre.",
+            "ro": "Cumpărați câteva gustări locale pentru mai târziu.",
+            "en": "Buy some local snacks for later."
+          }
+        },
+        {
+          "name": "Torre de l'Aigua",
+          "coords": [
+            2.113,
+            41.554
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster in den Norden.",
+            "hu": "Vezessen át a következő északi zónába.",
+            "ro": "Conduceți către următorul cluster din nord.",
+            "en": "Drive to the next cluster in the north."
+          }
+        },
+        {
+          "name": "Parc de Catalunya",
+          "coords": [
+            2.095,
+            41.551
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Park und entspannen Sie sich.",
+            "hu": "Parkoljon le a parknál és pihenjen.",
+            "ro": "Parcați la parc și relaxați-vă.",
+            "en": "Park at the park and relax."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten im historischen Zentrum und erkunden Casa Duran und die Kirche zu Fuß. Danach spazieren wir zum nahegelegenen Mercat Central. Mittags fahren wir zum nördlichen Cluster für den Wasserturm. Der Nachmittag gehört dem weitläufigen Parc de Catalunya.",
+        "hu": "A történelmi központban kezdünk, gyalogosan fedezzük fel a Casa Durant és a templomot. Utána a közeli piacra sétálunk. Délben átvezetünk az északi részre a víztoronyhoz. A délutánt a tágas Parc de Catalunya-ban töltjük.",
+        "ro": "Începem în centrul istoric, explorând Casa Duran și biserica pe jos. Apoi ne plimbăm la piața centrală din apropiere. La prânz conducem către turnul de apă. După-amiaza este dedicată vastului Parc de Catalunya.",
+        "en": "We start in the historic center, exploring Casa Duran and the church on foot. Then we walk to the nearby central market. Midday, we drive north to the water tower. The afternoon is spent relaxing in Parc de Catalunya."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "Katalanisches Brot mit Tomaten."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Traditionelles Dessert."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Paella mit Nudeln statt Reis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "Katalán paradicsomos kenyér."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Hagyományos desszert."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Tésztás paella tenger gyümölcseivel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "Pâine catalană cu roșii."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Desert tradițional delicios."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Paella preparată cu fidea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "Catalan bread with tomato."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Traditional sweet dessert."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Noodle-based paella dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de Catalunya",
+            "tip": "Ruhiger Spaziergang am Seeufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de la Caixa",
+            "tip": "Kleiner Garten für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de Catalunya",
+            "tip": "Csendes séta a tóparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de la Caixa",
+            "tip": "Kis kert egy rövid pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de Catalunya",
+            "tip": "Plimbare liniștită pe malul lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de la Caixa",
+            "tip": "O mică grădină pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de Catalunya",
+            "tip": "Quiet walk along the lakeside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de la Caixa",
+            "tip": "A small garden for a rest.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercat Central",
+            "tip": "Lokale Lebensmittel."
+          },
+          {
+            "name": "Rambla de Sabadell",
+            "tip": "Boutiquen und Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercat Central",
+            "tip": "Helyi élelmiszerek és piac."
+          },
+          {
+            "name": "Rambla de Sabadell",
+            "tip": "Butikok és üzletek sora."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercat Central",
+            "tip": "Alimente locale."
+          },
+          {
+            "name": "Rambla de Sabadell",
+            "tip": "Buticuri și magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercat Central",
+            "tip": "Local food and fresh produce."
+          },
+          {
+            "name": "Rambla de Sabadell",
+            "tip": "Boutiques and various shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lassen Sie das Auto an einem Ort stehen und gehen Sie zu Fuß weiter.",
+          "Nutzen Sie die Tiefgaragen im Zentrum.",
+          "Vermeiden Sie die Fahrt während der Hauptverkehrszeit.",
+          "Viele Sehenswürdigkeiten sind eng beieinander gruppiert."
+        ],
+        "hu": [
+          "Hagyja az autót egy helyen, és fedezze fel a környéket gyalog.",
+          "Használja a központi mélygarázsokat.",
+          "Kerülje a vezetést a csúcsforgalom idején.",
+          "Sok látványosság szorosan egymás mellett található."
+        ],
+        "ro": [
+          "Lăsați mașina într-un loc și explorați zona pe jos.",
+          "Folosiți parcările subterane din centru.",
+          "Evitați conducerea în timpul orelor de vârf.",
+          "Multe atracții sunt grupate strâns."
+        ],
+        "en": [
+          "Leave the car in one spot and explore the area on foot.",
+          "Use underground parking in the center.",
+          "Avoid driving during rush hour.",
+          "Many attractions are closely clustered."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 3.6,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Ajuntament de Sabadell",
+          "coords": [
+            2.1086,
+            41.5463
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie hier nach der Busfahrt ins Zentrum.",
+            "hu": "Kezdje a városnézést itt a buszos érkezés után.",
+            "ro": "Începeți aici după călătoria cu autobuzul în centru.",
+            "en": "Start here after taking the bus to the center."
+          }
+        },
+        {
+          "name": "Museu d'Art",
+          "coords": [
+            2.1105,
+            41.5455
+          ],
+          "category": "museums",
+          "arrive_at": "09:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten vom Rathaus entfernt.",
+            "hu": "Csak egy rövid sétára a városházától.",
+            "ro": "La doar câteva minute de mers pe jos de primărie.",
+            "en": "Just a short walk from the city hall."
+          }
+        },
+        {
+          "name": "Parc de Catalunya",
+          "coords": [
+            2.095,
+            41.551
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum Park-Cluster.",
+            "hu": "Menjen busszal a park körüli részhez.",
+            "ro": "Luați autobuzul către zona parcului.",
+            "en": "Take the bus to the park cluster."
+          }
+        },
+        {
+          "name": "Institut Paleontològic",
+          "coords": [
+            2.103,
+            41.549
+          ],
+          "category": "museums",
+          "arrive_at": "12:52",
+          "stay_min": 130,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Park direkt hierher.",
+            "hu": "Sétáljon át ide a parkból.",
+            "ro": "Plimbați-vă de la parc direct aici.",
+            "en": "Walk directly here from the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen mit dem Bus ins Zentrum zum Rathaus und laufen zum Kunstmuseum. Mittags nutzen wir die öffentlichen Verkehrsmittel zum großen Parc de Catalunya. Der Nachmittag gehört den Dinosauriern im nahen paläontologischen Institut.",
+        "hu": "Busszal érkezünk a központba, megnézzük a városházát és átsétálunk a művészeti múzeumba. Délben tömegközlekedéssel megyünk a Parc de Catalunya-hoz. A délutánt a közeli paleontológiai intézet dinoszauruszai töltik ki.",
+        "ro": "Începem cu autobuzul în centru la primărie și mergem pe jos la muzeul de artă. La prânz folosim transportul public spre Parc de Catalunya. După-amiaza aparține dinozaurilor de la institutul paleontologic apropiat.",
+        "en": "We start with a bus ride to the center for the city hall, then walk to the art museum. Midday, we use transit to reach Parc de Catalunya. The afternoon is spent at the nearby paleontological institute."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "Katalanisches Brot mit Tomaten."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Traditionelles Dessert."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Paella mit Nudeln statt Reis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "Katalán paradicsomos kenyér."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Hagyományos desszert."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Tésztás paella tenger gyümölcseivel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "Pâine catalană cu roșii."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Desert tradițional delicios."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Paella preparată cu fidea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "Catalan bread with tomato."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Traditional sweet dessert."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Noodle-based paella dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de Catalunya",
+            "tip": "Ruhiger Spaziergang am Seeufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de la Caixa",
+            "tip": "Kleiner Garten für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de Catalunya",
+            "tip": "Csendes séta a tóparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de la Caixa",
+            "tip": "Kis kert egy rövid pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de Catalunya",
+            "tip": "Plimbare liniștită pe malul lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de la Caixa",
+            "tip": "O mică grădină pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de Catalunya",
+            "tip": "Quiet walk along the lakeside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardins de la Caixa",
+            "tip": "A small garden for a rest.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercat Central",
+            "tip": "Lokale Lebensmittel."
+          },
+          {
+            "name": "Rambla de Sabadell",
+            "tip": "Boutiquen und Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercat Central",
+            "tip": "Helyi élelmiszerek és piac."
+          },
+          {
+            "name": "Rambla de Sabadell",
+            "tip": "Butikok és üzletek sora."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercat Central",
+            "tip": "Alimente locale."
+          },
+          {
+            "name": "Rambla de Sabadell",
+            "tip": "Buticuri și magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercat Central",
+            "tip": "Local food and fresh produce."
+          },
+          {
+            "name": "Rambla de Sabadell",
+            "tip": "Boutiques and various shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für den Bus.",
+          "Die Fahrpläne sind sehr verlässlich.",
+          "Laufen Sie zwischen nahen Sehenswürdigkeiten, statt zu warten.",
+          "Überprüfen Sie die Routen im Voraus online."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszokra.",
+          "A menetrendek nagyon megbízhatóak.",
+          "A közeli látnivalók között sétáljon buszra várás helyett.",
+          "Ellenőrizze az útvonalakat előre az interneten."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz.",
+          "Orarele sunt foarte fiabile.",
+          "Mergeți pe jos între obiectivele apropiate în loc să așteptați.",
+          "Verificați rutele în avans online."
+        ],
+        "en": [
+          "Buy a daily pass for the bus.",
+          "Schedules are very reliable.",
+          "Walk between nearby sights instead of waiting.",
+          "Check the routes in advance online."
+        ]
+      }
+    }
+  }
+}

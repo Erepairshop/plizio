@@ -1,0 +1,1204 @@
+{
+  "city_id": "greece-rethymno-cities-v2",
+  "anchor": {
+    "name": "Rethymno",
+    "coords": [
+      24.4748,
+      35.3678
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 2.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Altstadt von Rethymno",
+          "coords": [
+            24.4745,
+            35.368
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Morgens sind die Gassen noch wunderbar ruhig für Fotos.",
+            "hu": "Reggel a legnyugodtabbak a szűk sikátorok a fotózáshoz.",
+            "ro": "Dimineața străduțele sunt încă liniștite pentru fotografii.",
+            "en": "The alleys are wonderfully quiet in the morning for photos."
+          }
+        },
+        {
+          "name": "Rimondi-Brunnen",
+          "coords": [
+            24.474,
+            35.3692
+          ],
+          "category": "monument",
+          "arrive_at": "10:36",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die venezianischen Wappen am Stein.",
+            "hu": "Figyelje meg a kőbe vésett velencei címereket.",
+            "ro": "Observați blazoanele venețiene sculptate în piatră.",
+            "en": "Notice the Venetian coat of arms carved into the stone."
+          }
+        },
+        {
+          "name": "Neratze-Moschee",
+          "coords": [
+            24.4738,
+            35.3688
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Gebäude dient heute oft als Musikschule und Konzertsaal.",
+            "hu": "Az épület ma gyakran zeneiskolaként és koncertteremként működik.",
+            "ro": "Clădirea servește astăzi adesea drept școală de muzică.",
+            "en": "The building now often serves as a music school and concert hall."
+          }
+        },
+        {
+          "name": "Fortezza von Rethymno",
+          "coords": [
+            24.472,
+            35.3715
+          ],
+          "category": "historical",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bringen Sie Wasser mit, das Gelände ist sehr weitläufig.",
+            "hu": "Vigyen magával vizet, a terület hatalmas és napos.",
+            "ro": "Aduceți apă, terenul este vast și expus la soare.",
+            "en": "Bring water as the grounds are extensive and sunny."
+          }
+        },
+        {
+          "name": "Venezianischer Hafen",
+          "coords": [
+            24.476,
+            35.3705
+          ],
+          "category": "harbor",
+          "arrive_at": "13:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine Kaffeepause mit Blick auf die Boote.",
+            "hu": "Tökéletes hely egy kávészünetre, kilátással a hajókra.",
+            "ro": "Locul perfect pentru o pauză de cafea cu vedere la bărci.",
+            "en": "Perfect spot for a coffee break with a view of the boats."
+          }
+        },
+        {
+          "name": "Leuchtturm von Rethymno",
+          "coords": [
+            24.477,
+            35.371
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Einer der ältesten erhaltenen Leuchttürme Griechenlands.",
+            "hu": "Görögország egyik legrégebbi fennmaradt világítótornya.",
+            "ro": "Unul dintre cele mai vechi faruri păstrate din Grecia.",
+            "en": "One of the oldest surviving lighthouses in Greece."
+          }
+        },
+        {
+          "name": "Archäologisches Museum",
+          "coords": [
+            24.4742,
+            35.3684
+          ],
+          "category": "museum",
+          "arrive_at": "14:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die minoischen Sarkophage sind das Highlight der Ausstellung.",
+            "hu": "A minószi szarkofágok a kiállítás fénypontjai.",
+            "ro": "Sarcofagele minoice sunt atracția principală a expoziției.",
+            "en": "The Minoan sarcophagi are the highlight of the exhibition."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in den historischen Gassen der Altstadt und am Rimondi-Brunnen. Mittags erkunden Sie die imposante Festung Fortezza, bevor Sie sich am malerischen venezianischen Hafen entspannen. Der Nachmittag endet mit einem gemütlichen Spaziergang zum Leuchtturm und einem tiefen Einblick in die Geschichte im Archäologischen Museum.",
+        "hu": "Kezdje a napot az óváros hangulatos sikátoraiban és a Rimondi-kútnál. Délben fedezze fel az impozáns Fortezza erődöt, majd pihenjen meg a festői velencei kikötőben. A délután egy kellemes sétával zárul a világítótoronyhoz és az ókori krétai történelmet bemutató régészeti múzeumhoz.",
+        "ro": "Începeți ziua pe străduțele istorice ale orașului vechi și la fântâna Rimondi. La prânz, explorați impunătoarea cetate Fortezza, înainte de a vă relaxa în pitorescul port venețian. După-amiaza se încheie cu o plimbare spre far și o vizită la Muzeul Arheologic.",
+        "en": "Start your day in the historic alleys of the Old Town and at the Rimondi Fountain. Midday, explore the imposing Fortezza fortress before relaxing at the picturesque Venetian Harbor. The afternoon concludes with a walk to the lighthouse and a deep dive into history at the Archaeological Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dakos-Salat",
+            "tip": "Traditioneller kretischer Zwieback mit Tomaten und Feta."
+          },
+          {
+            "name": "Tavernen am Hafen",
+            "tip": "Frischer Fisch direkt an der Uferpromenade."
+          },
+          {
+            "name": "Rakomelo",
+            "tip": "Warmer kretischer Schnaps mit Honig als Digestif."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dakos saláta",
+            "tip": "Hagyományos krétai kétszersült paradicsommal és fetával."
+          },
+          {
+            "name": "Kikötői tavernák",
+            "tip": "Friss tengeri ételek közvetlenül a sétányon."
+          },
+          {
+            "name": "Rakomelo",
+            "tip": "Mézes meleg krétai pálinka emésztést segítőként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată Dakos",
+            "tip": "Pâine tradițională cretană cu roșii și brânză feta."
+          },
+          {
+            "name": "Tavernele din port",
+            "tip": "Pește proaspăt direct pe promenada portului."
+          },
+          {
+            "name": "Rakomelo",
+            "tip": "Băutură caldă din raki și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dakos Salad",
+            "tip": "Traditional Cretan rusk with tomatoes and feta cheese."
+          },
+          {
+            "name": "Harbor Tavernas",
+            "tip": "Fresh seafood right on the waterfront promenade."
+          },
+          {
+            "name": "Rakomelo",
+            "tip": "Warm Cretan spirit with honey served as a digestif."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtgarten von Rethymno",
+            "tip": "Eine grüne Oase im Zentrum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Westufer an der Festung",
+            "tip": "Perfekter Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koumoundourou Strandpromenade",
+            "tip": "Ruhiger Spaziergang abseits des Trubels.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park",
+            "tip": "Zöld oázis a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az erőd nyugati partja",
+            "tip": "Tökéletes hely a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koumoundourou tengerparti sétány",
+            "tip": "Nyugodt séta távol a tömegtől.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Municipală",
+            "tip": "O oază verde în centrul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Coasta de vest a cetății",
+            "tip": "Locul perfect pentru apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Promenada Koumoundourou",
+            "tip": "O plimbare liniștită departe de agitație.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Garden",
+            "tip": "A green oasis in the city center.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Western shore by the fortress",
+            "tip": "Perfect spot to watch the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koumoundourou Beach Promenade",
+            "tip": "A quiet walk away from the crowds.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souliou Straße",
+            "tip": "Bekannt für handgemachten Schmuck und Keramik."
+          },
+          {
+            "name": "Kretisches Olivenöl",
+            "tip": "Kaltgepresstes lokales Öl in den Altstadt-Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souliou utca",
+            "tip": "Híres a kézzel készített ékszerekről és kerámiákról."
+          },
+          {
+            "name": "Krétai olívaolaj",
+            "tip": "Helyi hidegensajtolt olaj az óvárosi boltokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Souliou",
+            "tip": "Renumită pentru bijuterii și ceramică lucrate manual."
+          },
+          {
+            "name": "Ulei de măsline cretan",
+            "tip": "Ulei presat la rece din magazinele vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souliou Street",
+            "tip": "Famous for handmade jewelry and ceramics."
+          },
+          {
+            "name": "Cretan Olive Oil",
+            "tip": "Cold-pressed local oil available in Old Town boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Kopfsteinpflaster in der Altstadt erfordert bequeme Schuhe.",
+          "Starten Sie früh, um die Mittagshitze in der Festung zu meiden."
+        ],
+        "hu": [
+          "Az óváros macskaköves utcái kényelmes cipőt igényelnek.",
+          "Induljon korán, hogy elkerülje a déli hőséget az erődben."
+        ],
+        "ro": [
+          "Străduțele pietruite din centrul vechi necesită încălțăminte comodă.",
+          "Începeți devreme pentru a evita căldura de prânz în cetate."
+        ],
+        "en": [
+          "The cobblestone streets in the Old Town require comfortable shoes.",
+          "Start early to avoid the midday heat while visiting the fortress."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:19",
+      "total_km": 4.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Venezianischer Hafen",
+          "coords": [
+            24.476,
+            35.3705
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Morgens ist es hier angenehm leer für Radfahrer.",
+            "hu": "Reggel még kellemesen szellős a terep a kerékpárosoknak.",
+            "ro": "Dimineața este plăcut de liber pentru bicicliști.",
+            "en": "The area is pleasantly uncrowded for cyclists in the morning."
+          }
+        },
+        {
+          "name": "Leuchtturm von Rethymno",
+          "coords": [
+            24.477,
+            35.371
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad für die letzten Meter auf der Mole.",
+            "hu": "Tolja a biciklit az utolsó métereken a mólón.",
+            "ro": "Împingeți bicicleta pe ultimii metri pe dig.",
+            "en": "Walk your bike for the last few meters on the pier."
+          }
+        },
+        {
+          "name": "Fortezza von Rethymno",
+          "coords": [
+            24.472,
+            35.3715
+          ],
+          "category": "historical",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Räder am Eingangstor sicher anschließen.",
+            "hu": "A kerékpárokat a bejárati kapunál biztonságosan zárja le.",
+            "ro": "Legați-vă bicicleta în siguranță la poarta de la intrare.",
+            "en": "Secure your bikes safely at the entrance gate."
+          }
+        },
+        {
+          "name": "Altstadt von Rethymno",
+          "coords": [
+            24.4745,
+            35.368
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "In den sehr engen Gassen empfiehlt es sich, abzusteigen.",
+            "hu": "A legszűkebb utcákban érdemes leszállni a bicikliről.",
+            "ro": "În străduțele foarte înguste este recomandat să coborâți.",
+            "en": "It is advisable to dismount in the very narrow alleys."
+          }
+        },
+        {
+          "name": "Rimondi-Brunnen",
+          "coords": [
+            24.474,
+            35.3692
+          ],
+          "category": "monument",
+          "arrive_at": "13:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich kurz am historischen Brunnen.",
+            "hu": "Frissítse fel magát röviden a történelmi kútnál.",
+            "ro": "Răcoriți-vă scurt la fântâna istorică.",
+            "en": "Refresh yourself briefly at the historic fountain."
+          }
+        },
+        {
+          "name": "Venezianische Loggia",
+          "coords": [
+            24.4735,
+            35.3695
+          ],
+          "category": "square",
+          "arrive_at": "13:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Früher ein Treffpunkt der venezianischen Elite.",
+            "hu": "Egykor a velencei elit találkozóhelye volt.",
+            "ro": "Odinioară un loc de întâlnire pentru elita venețiană.",
+            "en": "Formerly a meeting place for the Venetian elite."
+          }
+        },
+        {
+          "name": "Historisches Museum",
+          "coords": [
+            24.475,
+            35.3675
+          ],
+          "category": "museum",
+          "arrive_at": "14:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Spannende Einblicke in die traditionelle kretische Lebensweise.",
+            "hu": "Izgalmas bepillantás a hagyományos krétai életmódba.",
+            "ro": "O privire fascinantă asupra stilului de viață tradițional cretan.",
+            "en": "Fascinating insights into the traditional Cretan way of life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens entspannt am venezianischen Hafen entlang zum Leuchtturm. Anschließend fahren Sie hinauf zur Fortezza für einen beeindruckenden Ausblick. Der Nachmittag gehört der Altstadt, wo Sie das Rad abstellen, um die Loggia und den Rimondi-Brunnen zu Fuß zu erkunden, gefolgt von einem Besuch im Historischen Museum.",
+        "hu": "Kerékpározzon reggel a velencei kikötő mentén a világítótoronyhoz. Ezután tekerjen fel a Fortezza erődhöz a lenyűgöző kilátásért. A délután az óvárosé, ahol letéve a biciklit gyalog fedezheti fel a Loggiát és a Rimondi-kutat, mielőtt a Történeti Múzeumba látogatna.",
+        "ro": "Plimbați-vă dimineața cu bicicleta pe lângă portul venețian până la far. Apoi urcați la cetatea Fortezza pentru o priveliște impresionantă. După-amiaza aparține orașului vechi, unde lăsați bicicleta pentru a explora Loggia și fântâna pe jos, urmate de Muzeul Istoric.",
+        "en": "Cycle relaxed along the Venetian Harbor to the lighthouse in the morning. Then head up to the Fortezza for an impressive view. The afternoon belongs to the Old Town, where you park the bike to explore the Loggia and Rimondi Fountain on foot, followed by the Historical Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mezedes-Tavernen",
+            "tip": "Viele kleine Teller zum Teilen, perfekt für Radfahrer."
+          },
+          {
+            "name": "Kalter Frappé",
+            "tip": "Griechischer Eiskaffee für den schnellen Energie-Kick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Meze tavernák",
+            "tip": "Sok apró tányér megosztva, tökéletes kerékpárosoknak."
+          },
+          {
+            "name": "Hideg Frappé",
+            "tip": "Görög jegeskávé a gyors energiapótlásért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverne cu Meze",
+            "tip": "Multe farfurii mici de împărțit, perfecte după efort."
+          },
+          {
+            "name": "Frappé rece",
+            "tip": "Cafea grecească cu gheață pentru un plus de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Meze Tavernas",
+            "tip": "Many small plates to share, perfect for cyclists."
+          },
+          {
+            "name": "Cold Frappé",
+            "tip": "Greek iced coffee for a quick energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strandpromenade im Osten",
+            "tip": "Lange gerade Radwege direkt am Meer.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Marina von Rethymno",
+            "tip": "Moderne Yachten und ruhigere Ecken.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Keleti tengerparti sétány",
+            "tip": "Hosszú egyenes kerékpárutak közvetlenül a tenger mellett.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Rethymno Marina",
+            "tip": "Modern jachtok és csendesebb szegletek.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada estică a plajei",
+            "tip": "Piste lungi și drepte chiar lângă mare.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Marina Rethymno",
+            "tip": "Iahturi moderne și colțuri mai liniștite.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Eastern Beach Promenade",
+            "tip": "Long straight bike paths right next to the sea.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Rethymno Marina",
+            "tip": "Modern yachts and quieter corners.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt an der Marina",
+            "tip": "Bequem mit dem Rad erreichbar, frische Früchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac a Marinánál",
+            "tip": "Kerékpárral könnyen megközelíthető, friss gyümölcsök."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de lângă Marina",
+            "tip": "Ușor accesibilă cu bicicleta, fructe proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marina Market",
+            "tip": "Easily accessible by bike, offering fresh fruits."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Respektieren Sie Fußgänger in den engen Gassen der Altstadt.",
+          "Die Uferstraße bietet die besten zusammenhängenden Radwege."
+        ],
+        "hu": [
+          "Tisztelje a gyalogosokat az óváros szűk utcáiban.",
+          "A parti út kínálja a legjobb összefüggő kerékpárutakat."
+        ],
+        "ro": [
+          "Acordați prioritate pietonilor în străduțele înguste.",
+          "Drumul de coastă oferă cele mai bune piste de biciclete continue."
+        ],
+        "en": [
+          "Respect pedestrians in the narrow alleys of the Old Town.",
+          "The coastal road offers the best continuous bike paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 4.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Fortezza von Rethymno",
+          "coords": [
+            24.472,
+            35.3715
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nutzen Sie den großen Parkplatz direkt vor der Festung.",
+            "hu": "Használja a közvetlenül az erőd előtti nagy parkolót.",
+            "ro": "Folosiți parcarea mare direct în fața cetății.",
+            "en": "Use the large parking lot right in front of the fortress."
+          }
+        },
+        {
+          "name": "Venezianischer Hafen",
+          "coords": [
+            24.476,
+            35.3705
+          ],
+          "category": "harbor",
+          "arrive_at": "10:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von der Festung aus bequem zu Fuß erreichbar.",
+            "hu": "Az erődtől kényelmes sétatávolságra található.",
+            "ro": "Ușor accesibil pe jos de la cetate.",
+            "en": "Easily reachable on foot from the fortress."
+          }
+        },
+        {
+          "name": "Leuchtturm von Rethymno",
+          "coords": [
+            24.477,
+            35.371
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang auf der Hafenmauer.",
+            "hu": "Rövid séta a kikötő védőgátján.",
+            "ro": "Scurtă plimbare pe digul portului.",
+            "en": "Short walk along the harbor breakwater."
+          }
+        },
+        {
+          "name": "Historisches Museum",
+          "coords": [
+            24.475,
+            35.3675
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie südlich der Altstadt für diesen zweiten Abschnitt.",
+            "hu": "Parkoljon az óvárostól délre ehhez a második szakaszhoz.",
+            "ro": "Parcați la sud de centrul vechi pentru această a doua etapă.",
+            "en": "Park south of the Old Town for this second segment."
+          }
+        },
+        {
+          "name": "Altstadt von Rethymno",
+          "coords": [
+            24.4745,
+            35.368
+          ],
+          "category": "historical",
+          "arrive_at": "13:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Gassen sind autofrei, perfekt zum Schlendern.",
+            "hu": "Az utcák autómentesek, tökéletesek egy sétához.",
+            "ro": "Străduțele sunt pietonale, perfecte pentru plimbare.",
+            "en": "The alleys are car-free, perfect for strolling."
+          }
+        },
+        {
+          "name": "Rimondi-Brunnen",
+          "coords": [
+            24.474,
+            35.3692
+          ],
+          "category": "monument",
+          "arrive_at": "15:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schönes Fotomotiv inmitten der alten Häuser.",
+            "hu": "Szép fotótéma a régi házak ölelésében.",
+            "ro": "Un motiv fotografic frumos printre casele vechi.",
+            "en": "A beautiful photo spot amidst the old houses."
+          }
+        },
+        {
+          "name": "Neratze-Moschee",
+          "coords": [
+            24.4738,
+            35.3688
+          ],
+          "category": "religious",
+          "arrive_at": "15:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Minarette sind schon von weitem sichtbar.",
+            "hu": "A minaretek már messziről jól láthatók.",
+            "ro": "Minaretele sunt vizibile de departe.",
+            "en": "The minarets are visible from afar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Autotag teilt Rethymno in zwei Cluster. Parken Sie morgens an der Fortezza, um die Festung und den venezianischen Hafen zu Fuß zu erkunden. Mittags fahren Sie zum südlichen Rand der Altstadt, parken erneut und tauchen in die Gassen ein: Das Historische Museum, der Rimondi-Brunnen und die Neratze-Moschee bilden den kulturellen Abschluss.",
+        "hu": "Ez az autós nap két részre osztja Rethymnót. Reggel parkoljon a Fortezza mellett, és gyalog fedezze fel az erődöt, valamint a kikötőt. Délben hajtson az óváros déli szélére, parkoljon le újra, és merüljön el az utcákban: a Történeti Múzeum, a Rimondi-kút és a Neratze-mecset adja a nap kulturális befejezését.",
+        "ro": "Această zi cu mașina împarte Rethymno în două zone. Parcați dimineața la Fortezza pentru a explora cetatea și portul venețian pe jos. La prânz, conduceți spre marginea de sud a centrului vechi, parcați din nou și explorați străduțele: Muzeul Istoric, Fântâna Rimondi și Moscheea Neratze oferă o concluzie culturală.",
+        "en": "This car day divides Rethymno into two clusters. Park in the morning at the Fortezza to explore the fortress and the Venetian Harbor on foot. At midday, drive to the southern edge of the Old Town, park again, and dive into the alleys: the Historical Museum, the Rimondi Fountain, and the Neratze Mosque form the cultural conclusion."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meeresfrüchte-Pasta",
+            "tip": "In den traditionellen Hafenrestaurants ein Muss."
+          },
+          {
+            "name": "Gemista",
+            "tip": "Mit Reis und Kräutern gefülltes Gemüse, sehr authentisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei tészta",
+            "tip": "A hagyományos kikötői éttermekben kötelező."
+          },
+          {
+            "name": "Gemista",
+            "tip": "Rizzsel és fűszernövényekkel töltött zöldség, nagyon autentikus."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste cu fructe de mare",
+            "tip": "O necesitate în restaurantele tradiționale din port."
+          },
+          {
+            "name": "Gemista",
+            "tip": "Legume umplute cu orez și ierburi, foarte autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Pasta",
+            "tip": "A must-try in the traditional harbor restaurants."
+          },
+          {
+            "name": "Gemista",
+            "tip": "Vegetables stuffed with rice and herbs, very authentic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klippen bei der Fortezza",
+            "tip": "Ruhiger Blick auf das weite Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bucht von Bali (Fahrt)",
+            "tip": "Ein schöner Abstecher mit dem Auto östlich der Stadt.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziklák a Fortezza mellett",
+            "tip": "Nyugodt kilátás a nyílt tengerre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bali öböl (autóval)",
+            "tip": "Egy szép kitérő autóval a várostól keletre.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile de lângă Fortezza",
+            "tip": "O vedere liniștită spre marea deschisă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Golful Bali (cu mașina)",
+            "tip": "O opțiune frumoasă de deviere cu mașina la est de oraș.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cliffs by the Fortezza",
+            "tip": "Quiet view out to the open sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bali Bay (drive)",
+            "tip": "A nice detour by car east of the city.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermärkte am Stadtrand",
+            "tip": "Praktisch, um regionale Produkte günstig einzukaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Külvárosi szupermarketek",
+            "tip": "Praktikus a helyi termékek olcsó beszerzéséhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketuri la periferie",
+            "tip": "Practic pentru a cumpăra produse regionale ieftine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Outskirts Supermarkets",
+            "tip": "Practical for buying regional products cheaply."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie es, tief in die Altstadt zu fahren; die Gassen sind extrem eng.",
+          "Parkplätze am Hafen sind oft gebührenpflichtig und schnell voll."
+        ],
+        "hu": [
+          "Kerülje a behajtást az óváros mélyére; az utcák rendkívül szűkek.",
+          "A kikötői parkolók gyakran fizetősek és hamar megtelnek."
+        ],
+        "ro": [
+          "Evitați să conduceți adânc în orașul vechi; străzile sunt extrem de înguste.",
+          "Parcările din port sunt deseori cu plată și se ocupă repede."
+        ],
+        "en": [
+          "Avoid driving deep into the Old Town; the alleys are extremely narrow.",
+          "Parking at the harbor is often paid and fills up quickly."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:38",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Altstadt von Rethymno",
+          "coords": [
+            24.4745,
+            35.368
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentrale Bushaltestellen liegen direkt an den Altstadttoren.",
+            "hu": "A központi buszmegállók közvetlenül az óváros kapuinál találhatók.",
+            "ro": "Stațiile centrale de autobuz sunt chiar la porțile orașului vechi.",
+            "en": "Central bus stops are located right at the Old Town gates."
+          }
+        },
+        {
+          "name": "Kirche Agios Frangiskos",
+          "coords": [
+            24.4741,
+            35.3685
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die venezianische Architektur.",
+            "hu": "A velencei építészet egyik szép példája.",
+            "ro": "Un frumos exemplu de arhitectură venețiană.",
+            "en": "A beautiful example of Venetian architecture."
+          }
+        },
+        {
+          "name": "Archäologisches Museum",
+          "coords": [
+            24.4742,
+            35.3684
+          ],
+          "category": "museum",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Befindet sich ganz in der Nähe der Kirche.",
+            "hu": "Egészen közel található a templomhoz.",
+            "ro": "Se află foarte aproape de biserică.",
+            "en": "Located very close to the church."
+          }
+        },
+        {
+          "name": "Venezianischer Hafen",
+          "coords": [
+            24.476,
+            35.3705
+          ],
+          "category": "harbor",
+          "arrive_at": "13:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der lokale Bus bringt Sie schnell zur Hafenpromenade.",
+            "hu": "A helyi busz gyorsan elviszi a kikötői sétányhoz.",
+            "ro": "Autobuzul local vă duce rapid la promenada portului.",
+            "en": "The local bus takes you quickly to the harbor promenade."
+          }
+        },
+        {
+          "name": "Venezianische Loggia",
+          "coords": [
+            24.4735,
+            35.3695
+          ],
+          "category": "square",
+          "arrive_at": "13:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein quadratisches Gebäude mit eleganten Bögen.",
+            "hu": "Elegáns boltívekkel díszített négyzetes épület.",
+            "ro": "O clădire pătrată cu arcade elegante.",
+            "en": "A square building with elegant arches."
+          }
+        },
+        {
+          "name": "Rimondi-Brunnen",
+          "coords": [
+            24.474,
+            35.3692
+          ],
+          "category": "monument",
+          "arrive_at": "14:21",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Rauschen des Wassers ist sehr beruhigend.",
+            "hu": "A víz csobogása nagyon nyugtató.",
+            "ro": "Susurul apei este foarte liniștitor.",
+            "en": "The sound of the water is very soothing."
+          }
+        },
+        {
+          "name": "Fortezza von Rethymno",
+          "coords": [
+            24.472,
+            35.3715
+          ],
+          "category": "historical",
+          "arrive_at": "14:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Anstieg ist moderat, belohnt aber mit toller Sicht.",
+            "hu": "Az emelkedő mérsékelt, de pazar kilátással jutalmaz.",
+            "ro": "Urcușul este moderat, dar răsplătit cu o vedere minunată.",
+            "en": "The climb is moderate but rewarded with great views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Bussystem ermöglicht Ihnen bequeme Sprünge zwischen den Zonen. Beginnen Sie in der zentralen Altstadt für die Kirchen und Museen. Am frühen Nachmittag nehmen Sie einen Bus Richtung Norden zum venezianischen Hafen. Von dort aus flanieren Sie entspannt zur Loggia, zum Brunnen und beenden den Tag oben auf der mächtigen Fortezza.",
+        "hu": "A buszhálózat kényelmes ugrásokat tesz lehetővé a zónák között. Kezdjen a központi óvárosban, a templomoknál és múzeumoknál. Kora délután buszozzon északra a velencei kikötőhöz. Innen kényelmesen elsétálhat a Loggiához és a kúthoz, majd a napot a hatalmas Fortezza erődben zárhatja.",
+        "ro": "Rețeaua de autobuze vă permite salturi comode între zone. Începeți în centrul vechi central pentru biserici și muzee. După-amiaza devreme, luați un autobuz spre nord către portul venețian. De acolo, plimbați-vă relaxat până la Loggia, la fântână și încheiați ziua sus pe puternica Fortezza.",
+        "en": "The bus system allows convenient jumps between zones. Start in the central Old Town for the churches and museums. In the early afternoon, take a bus north to the Venetian Harbor. From there, stroll relaxed to the Loggia, the fountain, and end the day atop the mighty Fortezza."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckereien in der Stadt",
+            "tip": "Probieren Sie frische Kalitsounia (Käsetaschen) für unterwegs."
+          },
+          {
+            "name": "Gyros-Pita",
+            "tip": "Der perfekte, schnelle Snack nach dem Museumsbesuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi pékségek",
+            "tip": "Kóstolja meg a friss Kalitsouniát (sajtos batyu) útközben."
+          },
+          {
+            "name": "Gyros Pita",
+            "tip": "A tökéletes, gyors harapnivaló a múzeumlátogatás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăriile din oraș",
+            "tip": "Încercați Kalitsounia (pateuri cu brânză) proaspete la pachet."
+          },
+          {
+            "name": "Gyros Pita",
+            "tip": "Gustarea perfectă și rapidă după vizitarea muzeului."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Bakeries",
+            "tip": "Try fresh Kalitsounia (cheese pastries) on the go."
+          },
+          {
+            "name": "Gyros Pita",
+            "tip": "The perfect, quick snack after visiting the museum."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innenhof der Moschee",
+            "tip": "Oft sehr still und kühl an heißen Tagen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bänke am Hafen",
+            "tip": "Beobachten Sie entspannt das Ein- und Ausfahren der Schiffe.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A mecset belső udvara",
+            "tip": "Forró napokon gyakran nagyon csendes és hűvös.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Padok a kikötőben",
+            "tip": "Nézze nyugodtan a hajók jövés-menését.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea interioară a moscheii",
+            "tip": "Deseori foarte liniștită și răcoroasă în zilele toride.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Băncile din port",
+            "tip": "Priviți relaxat intrarea și ieșirea vapoarelor.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mosque Courtyard",
+            "tip": "Often very quiet and cool on hot days.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Harbor Benches",
+            "tip": "Relax and watch the ships coming and going.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentrale Bushaltestelle Kioske",
+            "tip": "Holen Sie sich Wasser und kleine Snacks für die Busfahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi buszmegálló kioszkjai",
+            "tip": "Vegyen vizet és apró rágcsálnivalókat az utazáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcurile din autogara centrală",
+            "tip": "Luați apă și gustări mici pentru călătoriile cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Bus Station Kiosks",
+            "tip": "Grab water and small snacks for the bus rides."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tickets für den Stadtbus kaufen Sie am besten vorab im Kiosk (Periptero).",
+          "Beachten Sie die Busfahrpläne, am Nachmittag gibt es oft Pausen."
+        ],
+        "hu": [
+          "A helyi buszra a jegyet érdemes előre, a kioszkokban (Periptero) megvenni.",
+          "Figyelje a buszmenetrendeket, délután gyakran vannak szünetek."
+        ],
+        "ro": [
+          "Biletele pentru autobuzul local se cumpără cel mai bine în avans de la chioșcuri (Periptero).",
+          "Fiți atenți la orarul autobuzelor, după-amiaza sunt adesea pauze."
+        ],
+        "en": [
+          "It is best to buy tickets for the city bus in advance at the kiosks (Periptero).",
+          "Pay attention to the bus schedules, as there are often breaks in the afternoon."
+        ]
+      }
+    }
+  }
+}

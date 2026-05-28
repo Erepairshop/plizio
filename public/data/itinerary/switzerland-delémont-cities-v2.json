@@ -1,0 +1,1233 @@
+{
+  "city_id": "switzerland-delémont-cities-v2",
+  "anchor": {
+    "name": "Delémont",
+    "coords": [
+      7.3533,
+      47.3621
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte au Loup",
+            "hu": "Porte au Loup (Farkas-kapu)",
+            "ro": "Poarta Lupului (Porte au Loup)",
+            "en": "Porte au Loup (Wolf Gate)"
+          },
+          "coords": [
+            7.3488,
+            47.3625
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier, um das mittelalterliche Gefühl der Stadt sofort zu spüren.",
+            "hu": "Kezdje itt a napot, hogy azonnal átérezze a város középkori hangulatát.",
+            "ro": "Începeți aici pentru a simți imediat atmosfera medievală a orașului.",
+            "en": "Start here to immediately get the medieval feel of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Delsberg",
+            "hu": "Delémont-i kastély",
+            "ro": "Castelul Delémont",
+            "en": "Delémont Castle"
+          },
+          "coords": [
+            7.3495,
+            47.3619
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der ehemalige Wohnsitz der Fürstbischöfe von Basel; heute Schulgebäude.",
+            "hu": "A bázeli hercegpüspökök egykori rezidenciája, ma iskolaépület.",
+            "ro": "Fosta reședință a prinților-episcopi de Basel; astăzi o clădire școlară.",
+            "en": "The former residence of the Prince-Bishops of Basel; now a school building."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Marcel",
+            "hu": "Saint-Marcel templom",
+            "ro": "Biserica Saint-Marcel",
+            "en": "Church of Saint-Marcel"
+          },
+          "coords": [
+            7.3508,
+            47.3622
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocken Elemente und die beeindruckende Orgel.",
+            "hu": "Csodálja meg a barokk elemeket és a lenyűgöző orgonát.",
+            "ro": "Admirați elementele baroce și orga impresionantă.",
+            "en": "Admire the baroque elements and the impressive organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Jurassisches Museum für Kunst und Geschichte",
+            "hu": "Jura Művészeti és Történeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie din Jura",
+            "en": "Jurassic Museum of Art and History"
+          },
+          "coords": [
+            7.352,
+            47.3615
+          ],
+          "category": "museums",
+          "arrive_at": "12:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Planen Sie Zeit für die Mittagspause im Museumscafé ein.",
+            "hu": "Tervezzen egy ebédszünetet a múzeum kávézójában.",
+            "ro": "Planificați o pauză de prânz la cafeneaua muzeului.",
+            "en": "Plan time for a lunch break in the museum café."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontaine du Sauvage",
+            "hu": "Fontaine du Sauvage (Vadember-kút)",
+            "ro": "Fântâna Sălbaticului",
+            "en": "Fountain of the Savage"
+          },
+          "coords": [
+            7.3533,
+            47.3621
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine der berühmtesten Renaissance-Brunnenfiguren der Schweiz.",
+            "hu": "Svájc egyik leghíresebb reneszánsz kútszobra.",
+            "ro": "Una dintre cele mai faimoase statui de fântână renascentistă din Elveția.",
+            "en": "One of Switzerland's most famous Renaissance fountain figures."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            7.3545,
+            47.363
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Von hier aus haben Sie einen tollen Blick über die Dächer der Altstadt.",
+            "hu": "Innen remek kilátás nyílik az óváros háztetőire.",
+            "ro": "De aici aveți o priveliște minunată asupra acoperișurilor orașului vechi.",
+            "en": "From here you have a great view over the rooftops of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de Porrentruy",
+            "hu": "Porte de Porrentruy (Porrentruy-kapu)",
+            "ro": "Poarta Porrentruy",
+            "en": "Porte de Porrentruy"
+          },
+          "coords": [
+            7.3566,
+            47.3642
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:27",
+          "stay_min": 45,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein letztes Foto und zum Abschluss des Rundgangs.",
+            "hu": "Tökéletes hely egy utolsó fotóhoz és a séta befejezéséhez.",
+            "ro": "Un loc perfect pentru o ultimă fotografie și pentru a încheia turul.",
+            "en": "A perfect spot for a final photo and to conclude the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der Porte au Loup und tauchen Sie in die mittelalterliche Atmosphäre von Delémont ein. Spazieren Sie durch die charmante Altstadt zum Schloss und der Kirche Saint-Marcel, die von der reichen Geschichte der Stadt zeugen. Nach dem Mittagessen entdecken Sie die Kunst und Geschichte der Region im Jurassischen Museum. Erklimmen Sie am Nachmittag den Uhrturm für eine fantastische Aussicht, bevor Sie Ihren Spaziergang an der historischen Porte de Porrentruy ausklingen lassen.",
+        "hu": "Kezdje a napot a Porte au Loup kapunál, és merüljön el Delémont középkori hangulatában. Sétáljon végig a hangulatos óvároson a kastélyig és a Saint-Marcel templomig, melyek a város gazdag történelméről tanúskodnak. Ebéd után fedezze fel a régió művészetét és történelmét a Jura Múzeumban. Délután másszon fel az Óratoronyba a fantasztikus kilátásért, mielőtt a történelmi Porte de Porrentruy kapunál fejezné be a sétát.",
+        "ro": "Începeți ziua la Porte au Loup și cufundați-vă în atmosfera medievală din Delémont. Plimbați-vă prin fermecătorul oraș vechi până la castel și biserica Saint-Marcel, care mărturisesc istoria bogată a orașului. După prânz, descoperiți arta și istoria regiunii la Muzeul Jura. După-amiaza, urcați în Turnul cu Ceas pentru o priveliște fantastică, înainte de a încheia plimbarea la istorica Porte de Porrentruy.",
+        "en": "Start your day at Porte au Loup and immerse yourself in the medieval atmosphere of Delémont. Stroll through the charming old town to the castle and the Church of Saint-Marcel, which bear witness to the city's rich history. After lunch, discover the art and history of the region at the Jurassic Museum. In the afternoon, climb the Clock Tower for a fantastic view before ending your walk at the historic Porte de Porrentruy."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tête de Moine AOP",
+            "tip": "Probieren Sie diesen einzigartigen Schabkäse, der in der Region hergestellt wird."
+          },
+          {
+            "name": "Saucisse d'Ajoie",
+            "tip": "Eine herzhafte, geräucherte Wurst, perfekt für eine Stärkung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tête de Moine AOP",
+            "tip": "Kóstolja meg ezt az egyedülálló, forgáccsal készített sajtot, amelyet a régióban gyártanak."
+          },
+          {
+            "name": "Saucisse d'Ajoie",
+            "tip": "Egy kiadós, füstölt kolbász, tökéletes harapnivaló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tête de Moine AOP",
+            "tip": "Încercați această brânză unică, rasă, produsă în regiune."
+          },
+          {
+            "name": "Saucisse d'Ajoie",
+            "tip": "Un cârnat consistent, afumat, perfect pentru o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tête de Moine AOP",
+            "tip": "Try this unique shaved cheese produced in the region."
+          },
+          {
+            "name": "Saucisse d'Ajoie",
+            "tip": "A hearty, smoked sausage, perfect for a snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Sorne",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Schlossgarten",
+            "tip": "Finden Sie eine ruhige Bank im Garten des Schlosses.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sorne folyó partja",
+            "tip": "Egy csendes séta a folyó mentén, hogy elmeneküljön a város nyüzsgésétől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kastélykert",
+            "tip": "Keressen egy csendes padot a kastély kertjében.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Sorne",
+            "tip": "O plimbare liniștită de-a lungul râului pentru a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina castelului",
+            "tip": "Găsiți o bancă liniștită în grădina castelului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Sorne",
+            "tip": "A quiet walk along the river to escape the hustle and bustle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Garden",
+            "tip": "Find a quiet bench in the castle's garden.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Kaufen Sie samstags lokale Produkte und Spezialitäten."
+          },
+          {
+            "name": "Rue du 23-Juin",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen Geschäften und Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Vásároljon helyi termékeket és különlegességeket szombatonként."
+          },
+          {
+            "name": "Rue du 23-Juin",
+            "tip": "A fő bevásárlóutca helyi boltok és butikok keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Cumpărați produse locale și specialități sâmbăta."
+          },
+          {
+            "name": "Rue du 23-Juin",
+            "tip": "Strada principală de cumpărături cu un amestec de magazine locale și buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Buy local products and specialties on Saturdays."
+          },
+          {
+            "name": "Rue du 23-Juin",
+            "tip": "The main shopping street with a mix of local shops and boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander, was einen Spaziergang ideal macht.",
+          "Halten Sie Ausschau nach den vielen historischen Brunnen der Stadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "A legtöbb látnivaló közel van egymáshoz, így a séta ideális.",
+          "Figyelje a város számos történelmi kútját."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavelele din orașul vechi pot fi denivelate.",
+          "Majoritatea atracțiilor sunt apropiate, făcând plimbarea ideală.",
+          "Fiți atenți la numeroasele fântâni istorice ale orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights are close to each other, making walking ideal.",
+          "Look out for the city's many historic fountains."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            7.3525,
+            47.3618
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade dieses wichtigen städtischen Gebäudes.",
+            "hu": "Csodálja meg ennek a fontos városi épületnek a homlokzatát.",
+            "ro": "Admirați fațada acestei importante clădiri municipale.",
+            "en": "Admire the facade of this important municipal building."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontaine du Sauvage & Kirche Saint-Marcel",
+            "hu": "Vadember-kút és Saint-Marcel templom",
+            "ro": "Fântâna Sălbaticului & Biserica Saint-Marcel",
+            "en": "Savage Fountain & Church of Saint-Marcel"
+          },
+          "coords": [
+            7.3518,
+            47.362
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:36",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zwei wichtige Sehenswürdigkeiten direkt nebeneinander.",
+            "hu": "Két fontos látnivaló közvetlenül egymás mellett.",
+            "ro": "Două atracții importante chiar una lângă alta.",
+            "en": "Two important sights right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Jurassisches Museum für Kunst und Geschichte",
+            "hu": "Jura Művészeti és Történeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie din Jura",
+            "en": "Jurassic Museum of Art and History"
+          },
+          "coords": [
+            7.352,
+            47.3615
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche Kultur des Kantons Jura.",
+            "hu": "Merüljön el Jura kanton gazdag kultúrájában.",
+            "ro": "Cufundați-vă în cultura bogată a cantonului Jura.",
+            "en": "Immerse yourself in the rich culture of the canton of Jura."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Delsberg",
+            "hu": "Delémont-i kastély",
+            "ro": "Castelul Delémont",
+            "en": "Delémont Castle"
+          },
+          "coords": [
+            7.3495,
+            47.3619
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Pause, auch wenn das Innere nicht zugänglich ist.",
+            "hu": "Szép hely egy pihenőre, még ha a belseje nem is látogatható.",
+            "ro": "Un loc frumos pentru o pauză, chiar dacă interiorul nu este accesibil.",
+            "en": "A beautiful place for a break, even if the interior is not accessible."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Sorne",
+            "hu": "Kerékpártúra a Sorne mentén",
+            "ro": "Plimbare pe malul râului Sorne",
+            "en": "Ride along the Sorne River"
+          },
+          "coords": [
+            7.365,
+            47.368
+          ],
+          "category": "nature",
+          "arrive_at": "13:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Natur und die flache Strecke, ideal für eine entspannte Fahrt.",
+            "hu": "Élvezze a természetet és a sík terepet, ideális egy pihentető tekeréshez.",
+            "ro": "Bucurați-vă de natură și de traseul plat, ideal pentru o plimbare relaxantă.",
+            "en": "Enjoy nature and the flat route, ideal for a relaxed ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de Porrentruy",
+            "hu": "Porte de Porrentruy (Porrentruy-kapu)",
+            "ro": "Poarta Porrentruy",
+            "en": "Porte de Porrentruy"
+          },
+          "coords": [
+            7.3566,
+            47.3642
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:06",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit dem Blick auf dieses historische Stadttor.",
+            "hu": "Fejezze be a kerékpártúrát ennek a történelmi városkapunak a látványával.",
+            "ro": "Încheiați turul cu bicicleta cu o priveliște a acestei porți istorice a orașului.",
+            "en": "End your bike tour with a view of this historic city gate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Delémont auf zwei Rädern. Beginnen Sie am Rathaus im Herzen der Altstadt. Eine kurze Fahrt bringt Sie zu den Wahrzeichen, der Fontaine du Sauvage und der Kirche. Tauchen Sie im Jurassischen Museum in die lokale Kultur ein, bevor Sie zum Schloss radeln. Am Nachmittag genießen Sie eine entspannte Fahrt entlang der Sorne und beenden Ihre Tour an der imposanten Porte de Porrentruy.",
+        "hu": "Fedezze fel Delémont-t két keréken. Kezdje a Városházánál az óváros szívében. Egy rövid tekerés elvezeti a város jelképeihez, a Vadember-kúthoz és a templomhoz. Merüljön el a helyi kultúrában a Jura Múzeumban, mielőtt a kastélyhoz kerékpározna. Délután élvezze a pihentető utat a Sorne folyó mentén, és fejezze be a túrát az impozáns Porte de Porrentruy kapunál.",
+        "ro": "Explorați Delémont pe două roți. Începeți de la Primărie, în inima orașului vechi. O scurtă plimbare vă duce la reperele orașului, Fântâna Sălbaticului și biserică. Cufundați-vă în cultura locală la Muzeul Jura înainte de a pedala spre castel. După-amiaza, bucurați-vă de o plimbare relaxantă de-a lungul râului Sorne și încheiați turul la impunătoarea Porte de Porrentruy.",
+        "en": "Explore Delémont on two wheels. Start at the Town Hall in the heart of the old town. A short ride takes you to the landmarks, the Savage Fountain and the church. Immerse yourself in local culture at the Jurassic Museum before cycling to the castle. In the afternoon, enjoy a relaxing ride along the Sorne river and end your tour at the imposing Porte de Porrentruy."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant du Jura",
+            "tip": "Traditionelle Schweizer Küche in einem gemütlichen Ambiente."
+          },
+          {
+            "name": "Damassine AOP",
+            "tip": "Probieren Sie nach dem Essen diesen edlen Obstbrand aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant du Jura",
+            "tip": "Hagyományos svájci konyha hangulatos környezetben."
+          },
+          {
+            "name": "Damassine AOP",
+            "tip": "Étkezés után kóstolja meg ezt a nemes gyümölcspárlatot a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant du Jura",
+            "tip": "Bucătărie tradițională elvețiană într-o atmosferă primitoare."
+          },
+          {
+            "name": "Damassine AOP",
+            "tip": "După masă, încercați acest rachiu fin de fructe din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant du Jura",
+            "tip": "Traditional Swiss cuisine in a cozy atmosphere."
+          },
+          {
+            "name": "Damassine AOP",
+            "tip": "After your meal, try this noble fruit brandy from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chapelle du Vorbourg",
+            "tip": "Eine kurze, aber steile Radtour zu dieser Kapelle bietet eine unglaubliche Aussicht und Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin botanique",
+            "tip": "Entspannen Sie im Botanischen Garten der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chapelle du Vorbourg",
+            "tip": "Egy rövid, de meredek bicikliút ehhez a kápolnához hihetetlen kilátást és csendet kínál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Botanikus kert",
+            "tip": "Pihenjen a város botanikus kertjében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Vorbourg",
+            "tip": "O plimbare scurtă, dar abruptă cu bicicleta până la această capelă oferă o priveliște incredibilă și liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Relaxați-vă în grădina botanică a orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chapelle du Vorbourg",
+            "tip": "A short but steep bike ride to this chapel offers incredible views and tranquility.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "Relax in the city's botanical garden.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Käsereien",
+            "tip": "Kaufen Sie Tête de Moine direkt vom Hersteller."
+          },
+          {
+            "name": "Confiserie",
+            "tip": "Suchen Sie nach handgemachter Schokolade und Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajtüzemek",
+            "tip": "Vásároljon Tête de Moine sajtot közvetlenül a termelőtől."
+          },
+          {
+            "name": "Cukrászda",
+            "tip": "Keressen kézzel készített csokoládét és süteményeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabrici locale de brânză",
+            "tip": "Cumpărați Tête de Moine direct de la producător."
+          },
+          {
+            "name": "Cofetărie",
+            "tip": "Căutați ciocolată și produse de patiserie artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local cheese dairies",
+            "tip": "Buy Tête de Moine directly from the producer."
+          },
+          {
+            "name": "Confectionery",
+            "tip": "Look for handmade chocolate and pastries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Delémont ist relativ flach, aber einige Strecken außerhalb des Zentrums können ansteigend sein.",
+          "Nutzen Sie die gut ausgebauten Radwege entlang der Flüsse.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders in der Nähe von Sehenswürdigkeiten."
+        ],
+        "hu": [
+          "Delémont viszonylag sík, de a központon kívüli egyes szakaszok emelkedhetnek.",
+          "Használja ki a folyók mentén jól kiépített kerékpárutakat.",
+          "Mindig zárja le jól a kerékpárját, különösen a látnivalók közelében."
+        ],
+        "ro": [
+          "Delémont este relativ plat, dar unele trasee în afara centrului pot fi în pantă.",
+          "Folosiți pistele de biciclete bine dezvoltate de-a lungul râurilor.",
+          "Încuiați-vă întotdeauna bicicleta bine, mai ales în apropierea atracțiilor turistice."
+        ],
+        "en": [
+          "Delémont is relatively flat, but some routes outside the center can be hilly.",
+          "Take advantage of the well-developed cycle paths along the rivers.",
+          "Always lock your bike securely, especially near attractions."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 21.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Altstadt: Parken und Start",
+            "hu": "Óváros Klaszter: Parkolás és Indulás",
+            "ro": "Cluster Centrul Vechi: Parcare și Start",
+            "en": "Old Town Cluster: Park and Start"
+          },
+          "coords": [
+            7.348,
+            47.363
+          ],
+          "category": "parking",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Altstadt, z.B. im Parking de la Vieille Ville.",
+            "hu": "Parkoljon az óváros közelében, pl. a Parking de la Vieille Ville parkolóban.",
+            "ro": "Parcați lângă centrul vechi, de ex. la Parking de la Vieille Ville.",
+            "en": "Park near the old town, e.g., in the Parking de la Vieille Ville."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte au Loup & Schloss Delsberg",
+            "hu": "Farkas-kapu és Delémont-i kastély",
+            "ro": "Poarta Lupului și Castelul Delémont",
+            "en": "Wolf Gate & Delémont Castle"
+          },
+          "coords": [
+            7.349,
+            47.362
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:18",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang verbindet diese beiden historischen Wahrzeichen.",
+            "hu": "Egy rövid séta köti össze ezt a két történelmi nevezetességet.",
+            "ro": "O scurtă plimbare leagă aceste două repere istorice.",
+            "en": "A short walk connects these two historic landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Marcel & Fontaine du Sauvage",
+            "hu": "Saint-Marcel templom és Vadember-kút",
+            "ro": "Biserica Saint-Marcel și Fântâna Sălbaticului",
+            "en": "Church of Saint-Marcel & Savage Fountain"
+          },
+          "coords": [
+            7.352,
+            47.362
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:38",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Herz der Altstadt zu Fuss.",
+            "hu": "Fedezze fel gyalog az óváros szívét.",
+            "ro": "Descoperiți inima orașului vechi pe jos.",
+            "en": "Discover the heart of the old town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Jurassisches Museum für Kunst und Geschichte",
+            "hu": "Jura Művészeti és Történeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie din Jura",
+            "en": "Jurassic Museum of Art and History"
+          },
+          "coords": [
+            7.352,
+            47.3615
+          ],
+          "category": "museums",
+          "arrive_at": "11:42",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Inklusive Mittagspause in der Nähe des Museums.",
+            "hu": "Az ár tartalmazza az ebédszünetet a múzeum közelében.",
+            "ro": "Include o pauză de prânz lângă muzeu.",
+            "en": "Including a lunch break near the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Vorbourg: Chapelle du Vorbourg",
+            "hu": "Vorbourg Klaszter: Vorbourg-kápolna",
+            "ro": "Cluster Vorbourg: Capela Vorbourg",
+            "en": "Vorbourg Cluster: Vorbourg Chapel"
+          },
+          "coords": [
+            7.351,
+            47.352
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:13",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem Aussichtspunkt für einen Panoramablick auf Delémont.",
+            "hu": "Hajtson el ehhez a kilátóponthoz, ahonnan panorámás kilátás nyílik Delémont-ra.",
+            "ro": "Conduceți până la acest punct de belvedere pentru o vedere panoramică a orașului Delémont.",
+            "en": "Drive to this viewpoint for a panoramic view of Delémont."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Flussufer der Birs",
+            "hu": "Séta a Birs folyó partján",
+            "ro": "Plimbare pe malul râului Birs",
+            "en": "Walk along the Birs riverbank"
+          },
+          "coords": [
+            7.345,
+            47.355
+          ],
+          "category": "nature",
+          "arrive_at": "15:38",
+          "stay_min": 111,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.1,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Spaziergang in der Natur.",
+            "hu": "Zárja a napot egy pihentető sétával a természetben.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă în natură.",
+            "en": "End the day with a relaxing walk in nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto in der Nähe der Altstadt und erkunden Sie den ersten Cluster zu Fuss: Entdecken Sie mittelalterliche Tore, das Schloss und die charmanten Plätze. Nach einem tiefen Einblick in die regionale Kultur im Jurassischen Museum, fahren Sie zum zweiten Cluster, der Chapelle du Vorbourg. Geniessen Sie von dort die atemberaubende Aussicht. Zum Abschluss des Tages fahren Sie zum Ufer der Birs für einen ruhigen Spaziergang, bevor Sie die Rückreise antreten.",
+        "hu": "Parkolja le autóját az óváros közelében, és fedezze fel gyalog az első klasztert: fedezze fel a középkori kapukat, a kastélyt és a bájos tereket. Miután a Jura Múzeumban mély betekintést nyert a regionális kultúrába, hajtson át a második klaszterhez, a Vorbourg-kápolnához. Élvezze onnan a lélegzetelállító kilátást. A nap végén hajtson le a Birs folyó partjára egy csendes sétára, mielőtt hazaindulna.",
+        "ro": "Parcați mașina lângă centrul vechi și explorați primul cluster pe jos: descoperiți porțile medievale, castelul și piețele fermecătoare. După o incursiune profundă în cultura regională la Muzeul Jura, conduceți spre al doilea cluster, Capela Vorbourg. Bucurați-vă de priveliștea uluitoare de acolo. La sfârșitul zilei, conduceți până pe malul râului Birs pentru o plimbare liniștită înainte de a vă întoarce.",
+        "en": "Park your car near the old town and explore the first cluster on foot: discover medieval gates, the castle, and charming squares. After a deep dive into regional culture at the Jurassic Museum, drive to the second cluster, the Chapelle du Vorbourg. Enjoy the breathtaking view from there. At the end of the day, drive to the banks of the Birs river for a quiet walk before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Auberge de la Croix Blanche",
+            "tip": "Ein Restaurant etwas ausserhalb für gehobene, regionale Küche."
+          },
+          {
+            "name": "Fondue jurassienne",
+            "tip": "Ein Muss in der Region, oft mit Tête de Moine verfeinert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Auberge de la Croix Blanche",
+            "tip": "Egy kissé kieső étterem az emelkedett, regionális konyháért."
+          },
+          {
+            "name": "Fondue jurassienne",
+            "tip": "Kötelező a régióban, gyakran Tête de Moine sajttal finomítva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Auberge de la Croix Blanche",
+            "tip": "Un restaurant puțin în afara orașului pentru bucătărie regională rafinată."
+          },
+          {
+            "name": "Fondue jurassienne",
+            "tip": "O necesitate în regiune, adesea rafinată cu Tête de Moine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Auberge de la Croix Blanche",
+            "tip": "A restaurant just outside the city for upscale, regional cuisine."
+          },
+          {
+            "name": "Fondue jurassienne",
+            "tip": "A must-try in the region, often enhanced with Tête de Moine cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Étang de la Gruère",
+            "tip": "Eine kurze Autofahrt zu diesem Hochmoorsee für absolute Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt bei der Chapelle du Vorbourg",
+            "tip": "Der perfekte Ort, um den Sonnenuntergang über dem Jura zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étang de la Gruère",
+            "tip": "Egy rövid autóút ehhez a tőzegláp tóhoz az abszolút csendért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátó a Chapelle du Vorbourg-nál",
+            "tip": "Tökéletes hely a naplemente megtekintéséhez a Jura-hegység felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Étang de la Gruère",
+            "tip": "O scurtă călătorie cu mașina până la acest lac de turbă pentru liniște absolută.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere la Capela Vorbourg",
+            "tip": "Locul perfect pentru a privi apusul peste Munții Jura.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Étang de la Gruère",
+            "tip": "A short drive to this peat bog lake for absolute tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint at Chapelle du Vorbourg",
+            "tip": "The perfect place to watch the sunset over the Jura mountains.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Suchen Sie auf dem Land nach Bauernhöfen, die Käse und Wurst direkt verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Keressen a vidéken olyan farmokat, amelyek közvetlenül sajtot és kolbászt árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă",
+            "tip": "Căutați ferme la țară care vând brânză și cârnați direct."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Look for farms in the countryside that sell cheese and sausages directly."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren können in der Innenstadt hoch sein; suchen Sie nach Tagespauschalen.",
+          "Planen Sie Ihre Route im Voraus, da einige Bergstraßen eng sein können.",
+          "Ein Auto ermöglicht es Ihnen, auch abgelegenere Sehenswürdigkeiten im Jura zu erkunden."
+        ],
+        "hu": [
+          "A parkolási díjak magasak lehetnek a belvárosban; keressen napidíjas lehetőségeket.",
+          "Tervezze meg előre az útvonalat, mivel egyes hegyi utak szűkek lehetnek.",
+          "Az autó lehetővé teszi a Jura távolabbi látnivalóinak felfedezését is."
+        ],
+        "ro": [
+          "Taxele de parcare pot fi mari în centrul orașului; căutați tarife zilnice.",
+          "Planificați-vă traseul în avans, deoarece unele drumuri de munte pot fi înguste.",
+          "O mașină vă permite să explorați și atracțiile mai îndepărtate din Jura."
+        ],
+        "en": [
+          "Parking fees can be high in the city center; look for daily flat rates.",
+          "Plan your route in advance as some mountain roads can be narrow.",
+          "A car allows you to explore more remote sights in the Jura."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Altstadt: Ankunft an der Haltestelle 'Vieille Ville'",
+            "hu": "Óváros Klaszter: Érkezés a 'Vieille Ville' megállóhoz",
+            "ro": "Cluster Centrul Vechi: Sosire la stația 'Vieille Ville'",
+            "en": "Old Town Cluster: Arrival at 'Vieille Ville' stop"
+          },
+          "coords": [
+            7.3515,
+            47.361
+          ],
+          "category": "transit_stop",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public.",
+            "en": "Buy a day pass for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Jurassisches Museum & Hôtel de Ville",
+            "hu": "Jura Múzeum és Városháza",
+            "ro": "Muzeul Jura și Primăria",
+            "en": "Jurassic Museum & Town Hall"
+          },
+          "coords": [
+            7.352,
+            47.3615
+          ],
+          "category": "museums",
+          "arrive_at": "09:14",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang direkt im Herzen der Altstadt.",
+            "hu": "Kezdje a túrát közvetlenül az óváros szívében.",
+            "ro": "Începeți turul chiar în inima orașului vechi.",
+            "en": "Start your tour right in the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Marcel & Schloss Delsberg",
+            "hu": "Saint-Marcel templom és Delémont-i kastély",
+            "ro": "Biserica Saint-Marcel și Castelul Delémont",
+            "en": "Church of Saint-Marcel & Delémont Castle"
+          },
+          "coords": [
+            7.35,
+            47.362
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:06",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch die Geschichte der Fürstbischöfe.",
+            "hu": "Séta a hercegpüspökök történelmében.",
+            "ro": "O plimbare prin istoria prinților-episcopi.",
+            "en": "A walk through the history of the Prince-Bishops."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Bahnhof: Ankunft und Mittagessen",
+            "hu": "Pályaudvar Klaszter: Érkezés és Ebéd",
+            "ro": "Cluster Gară: Sosire și Prânz",
+            "en": "Train Station Cluster: Arrival and Lunch"
+          },
+          "coords": [
+            7.35,
+            47.366
+          ],
+          "category": "gastro",
+          "arrive_at": "12:44",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus von der Altstadt zum Bahnhof für mehr Essensoptionen.",
+            "hu": "Menjen busszal az óvárosból a pályaudvarra a több étkezési lehetőségért.",
+            "ro": "Luați un autobuz din centrul vechi spre gară pentru mai multe opțiuni de masă.",
+            "en": "Take a bus from the old town to the train station for more dining options."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            7.3545,
+            47.363
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:08",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nach dem Essen ein kurzer Spaziergang zurück in Richtung Altstadt.",
+            "hu": "Ebéd után egy rövid séta vissza az óváros felé.",
+            "ro": "După prânz, o scurtă plimbare înapoi spre centrul vechi.",
+            "en": "After lunch, a short walk back towards the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de Porrentruy",
+            "hu": "Porte de Porrentruy",
+            "ro": "Poarta Porrentruy",
+            "en": "Porte de Porrentruy"
+          },
+          "coords": [
+            7.3566,
+            47.3642
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der Abschluss des Tages mit Blick auf das imposante Tor.",
+            "hu": "A nap lezárása az impozáns kapu látványával.",
+            "ro": "Încheierea zilei cu o priveliște a porții impunătoare.",
+            "en": "Ending the day with a view of the imposing gate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um Delémont zu entdecken. Beginnen Sie im Altstadt-Cluster, wo Sie die wichtigsten historischen Gebäude zu Fuss erreichen. Nach der Erkundung von Museum, Kirche und Schloss fahren Sie mit dem Bus zum Bahnhofs-Cluster. Hier finden Sie eine grössere Auswahl an Restaurants für das Mittagessen. Am Nachmittag spazieren Sie zurück in Richtung Altstadt, um den Uhrturm und das Porrentruy-Tor zu besichtigen.",
+        "hu": "Használja a tömegközlekedést Delémont felfedezéséhez. Kezdje az óvárosi klaszterben, ahol gyalogosan elérheti a legfontosabb történelmi épületeket. A múzeum, a templom és a kastély felfedezése után utazzon busszal a pályaudvari klaszterbe. Itt nagyobb étteremválasztékot talál ebédre. Délután sétáljon vissza az óváros felé, hogy megnézze az Óratornyot és a Porrentruy-kaput.",
+        "ro": "Folosiți transportul public pentru a descoperi Delémont. Începeți în clusterul centrului vechi, unde puteți ajunge pe jos la cele mai importante clădiri istorice. După explorarea muzeului, bisericii și castelului, luați autobuzul spre clusterul gării. Aici veți găsi o selecție mai mare de restaurante pentru prânz. După-amiaza, plimbați-vă înapoi spre centrul vechi pentru a vizita Turnul cu Ceas și Poarta Porrentruy.",
+        "en": "Use public transport to discover Delémont. Start in the old town cluster, where you can reach the most important historical buildings on foot. After exploring the museum, church, and castle, take a bus to the train station cluster. Here you will find a larger selection of restaurants for lunch. In the afternoon, walk back towards the old town to visit the Clock Tower and the Porrentruy Gate."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "Ein klassisches Bahnhofsrestaurant mit soliden Tagesmenüs."
+          },
+          {
+            "name": "Bäckereien in der Altstadt",
+            "tip": "Holen Sie sich ein Sandwich oder ein Gebäck für ein schnelles Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "Klasszikus pályaudvari étterem, jó napi menükkel."
+          },
+          {
+            "name": "Pékségek az óvárosban",
+            "tip": "Vegyen egy szendvicset vagy süteményt egy gyors ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "Un restaurant clasic de gară, cu meniuri bune ale zilei."
+          },
+          {
+            "name": "Brutării din centrul vechi",
+            "tip": "Luați un sandviș sau un produs de patiserie pentru un prânz rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "A classic train station restaurant with solid daily menus."
+          },
+          {
+            "name": "Bakeries in the old town",
+            "tip": "Get a sandwich or a pastry for a quick lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Les Ordons",
+            "tip": "Nehmen Sie einen Bus zu diesem Hügel für eine weite Aussicht über das Tal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Ordons",
+            "tip": "Menjen busszal erre a dombra, ahonnan széles kilátás nyílik a völgyre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Ordons",
+            "tip": "Luați un autobuz până la acest deal pentru o vedere panoramică asupra văii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Ordons",
+            "tip": "Take a bus to this hill for a wide view over the valley.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Bahnhof",
+            "tip": "Praktisch für Last-Minute-Einkäufe oder Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a pályaudvaron",
+            "tip": "Praktikus utolsó pillanatos vásárlásokhoz vagy szuvenírekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine la gară",
+            "tip": "Practice pentru cumpărături de ultim moment sau suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops at the train station",
+            "tip": "Convenient for last-minute shopping or souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders an Wochenenden.",
+          "Eine Tageskarte ist oft günstiger als Einzeltickets.",
+          "Viele Busse sind mit Bildschirmen ausgestattet, die die nächsten Haltestellen anzeigen."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén.",
+          "A napijegy gyakran olcsóbb, mint az egyedi jegyek.",
+          "Sok busz kijelzővel van felszerelve, amely mutatja a következő megállókat."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Un bilet de o zi este adesea mai ieftin decât biletele individuale.",
+          "Multe autobuze sunt echipate cu ecrane care afișează următoarele stații."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially on weekends.",
+          "A day pass is often cheaper than single tickets.",
+          "Many buses are equipped with screens showing the next stops."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1460 @@
+{
+  "city_id": "switzerland-wetzikon-cities-v2",
+  "anchor": {
+    "name": "Wetzikon",
+    "coords": [
+      8.798,
+      47.326
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Reformierte Kirche Wetzikon",
+            "hu": "Wetzikoni Református Templom",
+            "ro": "Biserica Reformată Wetzikon",
+            "en": "Reformed Church Wetzikon"
+          },
+          "coords": [
+            8.796,
+            47.325
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die schlichte Eleganz des Innenraums, typisch für reformierte Kirchen.",
+            "hu": "Figyelje meg a belső tér egyszerű eleganciáját, ami jellemző a református templomokra.",
+            "ro": "Observați eleganța sobră a interiorului, tipică bisericilor reformate.",
+            "en": "Note the simple elegance of the interior, typical for Reformed churches."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Wetzikon",
+            "hu": "Wetzikoni Múzeum",
+            "ro": "Muzeul Wetzikon",
+            "en": "Museum Wetzikon"
+          },
+          "coords": [
+            8.799,
+            47.328
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fokus auf die Ausstellung über die Pfahlbauten, um den Kontext für spätere Besuche zu verstehen.",
+            "hu": "Koncentráljon a cölöpházakról szóló kiállításra, hogy kontextusba helyezze a későbbi látnivalókat.",
+            "ro": "Concentrează-te pe expoziția despre locuințele lacustre pentru a înțelege contextul vizitelor ulterioare.",
+            "en": "Focus on the pile-dwelling exhibition to get context for later sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturfabrik Wetzikon",
+            "hu": "Kulturfabrik Wetzikon",
+            "ro": "Kulturfabrik Wetzikon",
+            "en": "Kulturfabrik Wetzikon"
+          },
+          "coords": [
+            8.803,
+            47.329
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Abendprogramm; vielleicht gibt es ein interessantes Konzert oder eine Show.",
+            "hu": "Nézze meg az esti programot; talán van egy érdekes koncert vagy előadás.",
+            "ro": "Verificați programul de seară; s-ar putea să fie un concert sau un spectacol interesant.",
+            "en": "Check the evening program; there might be an interesting concert or show."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            8.798,
+            47.327
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Restaurant für Zürcher Geschnetzeltes.",
+            "hu": "Kóstoljon meg egy helyi éttermet, és egyen egy Zürcher Geschnetzeltes-t.",
+            "ro": "Încercați un restaurant local pentru Zürcher Geschnetzeltes.",
+            "en": "Try a local restaurant for Zürcher Geschnetzeltes."
+          }
+        },
+        {
+          "name": {
+            "de": "Schönau-Weiher",
+            "hu": "Schönau-tó",
+            "ro": "Iazul Schönau",
+            "en": "Schönau Pond"
+          },
+          "coords": [
+            8.785,
+            47.321
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine ruhige Pause und um die lokale Vogelwelt zu beobachten.",
+            "hu": "Ideális hely egy csendes pihenőre és a helyi madárvilág megfigyelésére.",
+            "ro": "Un loc ideal pentru o pauză liniștită și pentru a observa păsările locale.",
+            "en": "An ideal spot for a quiet break and to watch local birdlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang Kemptner Tobel",
+            "hu": "Séta a Kemptner Tobelben",
+            "ro": "Plimbare prin Kemptner Tobel",
+            "en": "Stroll in Kemptner Tobel"
+          },
+          "coords": [
+            8.815,
+            47.315
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tragen Sie gutes Schuhwerk, die Wege können rutschig sein.",
+            "hu": "Viseljen jó cipőt, az ösvények csúszósak lehetnek.",
+            "ro": "Purtați încălțăminte adecvată, potecile pot fi alunecoase.",
+            "en": "Wear good footwear as the paths can be slippery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung des kulturellen Herzens von Wetzikon, von der spirituellen Ruhe der Kirche bis zur lokalen Geschichte im Museum. Nach dem Mittagessen führt Sie ein Spaziergang in die Natur, zuerst zum ruhigen Schönau-Weiher. Der Nachmittag ist einem erfrischenden Spaziergang durch die beeindruckende Kemptner Tobel gewidmet. Der Abend klingt bei einem entspannten Abendessen in der Stadt aus.",
+        "hu": "Kezdje a napot Wetzikon kulturális szívének felfedezésével, a templom spirituális nyugalmától a helyi történelemig a múzeumban. Ebéd után a természetbe vezet az út, először a békés Schönau-tóhoz. A délutánt egy frissítő séta teszi ki a lenyűgöző Kemptner Tobel-szurdokban. Az este egy kellemes vacsorával zárul a városban.",
+        "ro": "Începeți ziua explorând inima culturală a Wetzikonului, de la liniștea spirituală a bisericii la istoria locală la muzeu. După prânz, o plimbare vă duce în natură, mai întâi la liniștitul iaz Schönau. După-amiaza este dedicată unei plimbări revigorante prin impresionantul defileu Kemptner Tobel. Seara se încheie cu o cină relaxantă în oraș.",
+        "en": "Start your day exploring the cultural heart of Wetzikon, from the spiritual calm of the church to local history at the museum. After lunch, a walk takes you into nature, first to the tranquil Schönau Pond. The afternoon is dedicated to a refreshing stroll through the impressive Kemptner Tobel gorge. The evening concludes with a relaxed dinner in town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zürcher Geschnetzeltes mit Rösti",
+            "tip": "Ein cremiges Kalbsragout, das man im Restaurant Falken probieren kann."
+          },
+          {
+            "name": "Käsefondue",
+            "tip": "Ein Muss in der Schweiz, perfekt für einen gemütlichen Abend."
+          },
+          {
+            "name": "Tirggel",
+            "tip": "Ein traditionelles Zürcher Honiggebäck, ideal als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zürcher Geschnetzeltes Rösztivel",
+            "tip": "Krémes borjúragu, próbálja ki a Falken étteremben."
+          },
+          {
+            "name": "Sajtfondü",
+            "tip": "Kötelező Svájcban, tökéletes egy hangulatos estére."
+          },
+          {
+            "name": "Tirggel",
+            "tip": "Hagyományos zürichi mézes sütemény, ideális ajándéknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zürcher Geschnetzeltes cu Rösti",
+            "tip": "O tocăniță cremoasă de vițel, de încercat la Restaurant Falken."
+          },
+          {
+            "name": "Fondue de brânză",
+            "tip": "O necesitate în Elveția, perfect pentru o seară confortabilă."
+          },
+          {
+            "name": "Tirggel",
+            "tip": "Un biscuit tradițional cu miere din Zurich, ideal ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zürcher Geschnetzeltes with Rösti",
+            "tip": "A creamy veal ragout, try it at Restaurant Falken."
+          },
+          {
+            "name": "Cheese Fondue",
+            "tip": "A must-try in Switzerland, perfect for a cozy evening."
+          },
+          {
+            "name": "Tirggel",
+            "tip": "A traditional Zurich honey biscuit, ideal as a souvenir."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Pfäffikersees",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie den Blick auf den See.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schönau-Weiher",
+            "tip": "Ein verstecktes Juwel für eine friedliche Pause in der Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kemptner Tobel",
+            "tip": "Das Rauschen des Wassers hat eine beruhigende Wirkung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pfäffikersee partja",
+            "tip": "Keressen egy csendes padot, és élvezze a tó látványát.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schönau-tó",
+            "tip": "Rejtett gyöngyszem egy békés természeti pihenőhöz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kemptner Tobel",
+            "tip": "A víz zúgása nyugtató hatású.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Pfäffikersee",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de priveliștea lacului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Iazul Schönau",
+            "tip": "O bijuterie ascunsă pentru o pauză pașnică în natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kemptner Tobel",
+            "tip": "Sunetul apei are un efect calmant.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Pfäffikersee",
+            "tip": "Find a quiet bench and enjoy the view of the lake.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schönau Pond",
+            "tip": "A hidden gem for a peaceful break in nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kemptner Tobel",
+            "tip": "The sound of the water has a calming effect.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Finden Sie lokale Produkte und Handwerkskunst auf dem Markt im Stadtzentrum."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie frisches Brot und süße Leckereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat a városközpont piacán."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon friss kenyeret és édes süteményeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Găsiți produse locale și artizanat la piața din centrul orașului."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați pâine proaspătă și dulciuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Find local produce and crafts at the market in the town center."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Buy fresh bread and sweet treats."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich, besonders für die Wanderung im Tobel.",
+          "Halten Sie eine Kamera für die malerischen Landschaften bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog sétálni.",
+          "Ellenőrizze előre a múzeum nyitvatartási idejét.",
+          "Egy újratölthető vizes palack hasznos, különösen a Tobel-túrához.",
+          "Készítsen fényképezőgépet a festői tájakhoz."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "O sticlă de apă reutilizabilă este utilă, mai ales pentru drumeția în defileu.",
+          "Pregătiți o cameră pentru peisajele pitorești."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Check the museum's opening hours in advance.",
+          "A reusable water bottle is useful, especially for the hike in the gorge.",
+          "Keep a camera ready for the picturesque landscapes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Pfäffikersee",
+            "hu": "Indulás a Pfäffikersee-től",
+            "ro": "Start de la lacul Pfäffikersee",
+            "en": "Start at Pfäffikersee"
+          },
+          "coords": [
+            8.78,
+            47.355
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe des Sees oder bringen Sie Ihr eigenes mit.",
+            "hu": "Béreljen kerékpárt a tó közelében, vagy hozza a sajátját.",
+            "ro": "Închiriați o bicicletă lângă lac sau aduceți-vă propria.",
+            "en": "Rent a bike near the lake or bring your own."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfahlbauten Robenhausen",
+            "hu": "Robenhauseni Cölöpházak",
+            "ro": "Locuințele lacustre Robenhausen",
+            "en": "Pile Dwellings Robenhausen"
+          },
+          "coords": [
+            8.788,
+            47.345
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein UNESCO-Weltkulturerbe, das einen Einblick in prähistorische Zeiten bietet.",
+            "hu": "UNESCO Világörökségi helyszín, amely bepillantást enged a történelem előtti időkbe.",
+            "ro": "Un sit al Patrimoniului Mondial UNESCO care oferă o perspectivă asupra timpurilor preistorice.",
+            "en": "A UNESCO World Heritage site offering a glimpse into prehistoric times."
+          }
+        },
+        {
+          "name": {
+            "de": "Kemptner Tobel",
+            "hu": "Kemptner Tobel",
+            "ro": "Kemptner Tobel",
+            "en": "Kemptner Tobel"
+          },
+          "coords": [
+            8.815,
+            47.315
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang ab und erkunden Sie die Schlucht zu Fuß.",
+            "hu": "Zárja le a kerékpárt a bejáratnál, és fedezze fel a szurdokot gyalog.",
+            "ro": "Legați-vă bicicleta la intrare și explorați defileul pe jos.",
+            "en": "Lock your bike at the entrance and explore the gorge on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Wetzikon",
+            "hu": "Ebéd Wetzikonban",
+            "ro": "Prânz în Wetzikon",
+            "en": "Lunch in Wetzikon"
+          },
+          "coords": [
+            8.798,
+            47.327
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stärken Sie sich in einem der vielen Restaurants im Stadtzentrum.",
+            "hu": "Frissüljön fel a városközpont számos éttermének egyikében.",
+            "ro": "Luați o pauză la unul dintre multele restaurante din centrul orașului.",
+            "en": "Recharge at one of the many restaurants in the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche Wetzikon",
+            "hu": "Wetzikoni Református Templom",
+            "ro": "Biserica Reformată Wetzikon",
+            "en": "Reformed Church Wetzikon"
+          },
+          "coords": [
+            8.796,
+            47.325
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die Architektur und die friedliche Atmosphäre zu bewundern.",
+            "hu": "Egy rövid megálló az építészet és a békés légkör csodálására.",
+            "ro": "O scurtă oprire pentru a admira arhitectura și atmosfera pașnică.",
+            "en": "A brief stop to admire the architecture and peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt um den Pfäffikersee",
+            "hu": "Visszaút a Pfäffikersee körül",
+            "ro": "Tur de retur în jurul lacului Pfäffikersee",
+            "en": "Return trip around Pfäffikersee"
+          },
+          "coords": [
+            8.76,
+            47.36
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die letzte Etappe Ihrer Radtour mit herrlichem Blick auf den See.",
+            "hu": "Élvezze a kerékpártúra utolsó szakaszát a tóra nyíló csodálatos kilátással.",
+            "ro": "Bucurați-vă de ultima parte a turului cu bicicleta cu vederi magnifice ale lacului.",
+            "en": "Enjoy the last leg of your bike tour with magnificent views of the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour, die das Beste aus Natur und Kultur vereint. Starten Sie am malerischen Pfäffikersee, besuchen Sie die prähistorischen Pfahlbauten und radeln Sie dann zur beeindruckenden Kemptner Tobel. Nach einer Mittagspause im Stadtzentrum von Wetzikon erkunden Sie kurz die Kirche, bevor Sie den Tag mit einer entspannten Runde um den See ausklingen lassen. Perfekt für aktive Entdecker.",
+        "hu": "Egy kerékpártúra, amely a természet és a kultúra legjavát ötvözi. Induljon a festői Pfäffikersee-tótól, látogasson el az őskori cölöpházakhoz, majd tekerjen el a lenyűgöző Kemptner Tobel-szurdokhoz. Egy wetzikoni ebédszünet után röviden fedezze fel a templomot, mielőtt egy tó körüli, pihentető körrel zárja a napot. Tökéletes az aktív felfedezők számára.",
+        "ro": "Un tur cu bicicleta care combină ce e mai bun din natură și cultură. Începeți de la pitorescul lac Pfäffikersee, vizitați locuințele preistorice lacustre, apoi pedalați spre impresionantul defileu Kemptner Tobel. După o pauză de prânz în centrul orașului Wetzikon, explorați pe scurt biserica înainte de a încheia ziua cu o tură relaxantă în jurul lacului. Perfect pentru exploratorii activi.",
+        "en": "A bike tour combining the best of nature and culture. Start at the picturesque Pfäffikersee, visit the prehistoric pile dwellings, then cycle to the impressive Kemptner Tobel. After a lunch break in Wetzikon's town center, briefly explore the church before ending the day with a relaxing loop around the lake. Perfect for active explorers."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bündner Nusstorte",
+            "tip": "Eine energiereiche Süßigkeit, perfekt für eine Radtour."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Das Schweizer Nationalgetränk zur Erfrischung."
+          },
+          {
+            "name": "Picknick am See",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie ein Mittagessen mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bündner diótorta",
+            "tip": "Energiadús édesség, tökéletes egy kerékpártúrához."
+          },
+          {
+            "name": "Rivella",
+            "tip": "A svájci nemzeti ital a frissüléshez."
+          },
+          {
+            "name": "Piknik a tónál",
+            "tip": "Vásároljon helyi termékeket, és ebédeljen a kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bündner Nusstorte",
+            "tip": "Un dulce energizant, perfect pentru un tur cu bicicleta."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Băutura națională elvețiană pentru a vă reîmprospăta."
+          },
+          {
+            "name": "Picnic pe malul lacului",
+            "tip": "Cumpărați produse locale și bucurați-vă de un prânz cu priveliște."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bündner Nusstorte",
+            "tip": "An energy-rich sweet, perfect for a bike tour."
+          },
+          {
+            "name": "Rivella",
+            "tip": "The Swiss national drink for refreshment."
+          },
+          {
+            "name": "Picnic by the lake",
+            "tip": "Buy local products and enjoy lunch with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Juckerhof in Seegräben",
+            "tip": "Ein Bauernhof mit toller Aussicht auf den See, leicht mit dem Fahrrad zu erreichen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pfad im Kemptner Tobel",
+            "tip": "Wandern Sie ein Stück den Pfad entlang und lauschen Sie der Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Abgelegene Bänke am See",
+            "tip": "Finden Sie Ihren eigenen ruhigen Platz entlang des Seewegs.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Juckerhof Seegräbenben",
+            "tip": "Egy farm, ahonnan remek kilátás nyílik a tóra, könnyen megközelíthető kerékpárral.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ösvény a Kemptner Tobelben",
+            "tip": "Sétáljon egy kicsit az ösvényen, és hallgassa a természet hangjait.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Elhagyatott padok a tónál",
+            "tip": "Találja meg a saját csendes helyét a tó menti úton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Juckerhof în Seegräben",
+            "tip": "O fermă cu vederi minunate la lac, ușor accesibilă cu bicicleta.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Potecă în Kemptner Tobel",
+            "tip": "Plimbați-vă puțin pe potecă și ascultați natura.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci izolate pe malul lacului",
+            "tip": "Găsiți-vă propriul loc liniștit de-a lungul cărării de pe malul lacului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Juckerhof in Seegräben",
+            "tip": "A farm with great views of the lake, easily accessible by bike.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Path in Kemptner Tobel",
+            "tip": "Walk a bit along the path and listen to nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Secluded benches by the lake",
+            "tip": "Find your own quiet spot along the lakeside path.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden rund um den See",
+            "tip": "Kaufen Sie frische Produkte direkt vom Bauern."
+          },
+          {
+            "name": "Sportgeschäfte in Wetzikon",
+            "tip": "Für Fahrradzubehör oder Outdoor-Ausrüstung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a tó körül",
+            "tip": "Vásároljon friss termékeket közvetlenül a termelőtől."
+          },
+          {
+            "name": "Sportboltok Wetzikonban",
+            "tip": "Kerékpár-kiegészítőkért vagy outdoor felszerelésért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă în jurul lacului",
+            "tip": "Cumpărați produse proaspete direct de la fermieri."
+          },
+          {
+            "name": "Magazine de sport în Wetzikon",
+            "tip": "Pentru accesorii de bicicletă sau echipament de exterior."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops around the lake",
+            "tip": "Buy fresh produce directly from the farmer."
+          },
+          {
+            "name": "Sports shops in Wetzikon",
+            "tip": "For bike accessories or outdoor gear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Zustand Ihres Fahrrads vor der Abfahrt.",
+          "Nehmen Sie genügend Wasser und Snacks für die Tour mit.",
+          "Ein Helm wird dringend empfohlen.",
+          "Respektieren Sie die Natur und bleiben Sie auf den markierten Wegen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát.",
+          "Vigyen magával elegendő vizet és harapnivalót az útra.",
+          "Sisak viselése erősen ajánlott.",
+          "Tisztelje a természetet, és maradjon a kijelölt utakon."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a pleca.",
+          "Luați suficientă apă și gustări pentru tur.",
+          "Se recomandă insistent purtarea căștii de protecție.",
+          "Respectați natura și rămâneți pe potecile marcate."
+        ],
+        "en": [
+          "Check the condition of your bike before setting off.",
+          "Take enough water and snacks for the tour.",
+          "A helmet is strongly recommended.",
+          "Respect nature and stay on the marked paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 24.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Kemptner Tobel",
+            "hu": "1. Klaszter: Kemptner Tobel",
+            "ro": "Cluster 1: Kemptner Tobel",
+            "en": "Cluster 1: Kemptner Tobel"
+          },
+          "coords": [
+            8.818,
+            47.313
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang der Schlucht. Der erste Halt des Tages für eine erfrischende Wanderung.",
+            "hu": "Parkoljon a szurdok bejáratánál. A nap első megállója egy frissítő túrára.",
+            "ro": "Parcați la intrarea în defileu. Prima oprire a zilei pentru o drumeție revigorantă.",
+            "en": "Park at the entrance to the gorge. The first stop of the day for a refreshing hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Pfäffikersee & Pfahlbauten",
+            "hu": "2. Klaszter: Pfäffikersee és Cölöpházak",
+            "ro": "Cluster 2: Lacul Pfäffikersee și Locuințele lacustre",
+            "en": "Cluster 2: Pfäffikersee & Pile Dwellings"
+          },
+          "coords": [
+            8.788,
+            47.345
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz bei Robenhausen. Erkunden Sie von hier aus die UNESCO-Stätte.",
+            "hu": "Vezessen a robenhauseni parkolóhoz. Innen fedezze fel az UNESCO helyszínt.",
+            "ro": "Conduceți la parcarea de lângă Robenhausen. Explorați situl UNESCO de aici.",
+            "en": "Drive to the parking lot near Robenhausen. Explore the UNESCO site from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Pfäffikersee",
+            "hu": "Séta a Pfäffikersee partján",
+            "ro": "Plimbare pe malul lacului Pfäffikersee",
+            "en": "Walk along Pfäffikersee"
+          },
+          "coords": [
+            8.782,
+            47.35
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum Seeufer für eine tolle Aussicht.",
+            "hu": "Rövid séta a parkolótól a tópartig a nagyszerű kilátásért.",
+            "ro": "O scurtă plimbare de la parcare la malul lacului pentru o priveliște minunată.",
+            "en": "A short walk from the parking lot to the lake shore for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am See",
+            "hu": "Ebéd a tónál",
+            "ro": "Prânz pe malul lacului",
+            "en": "Lunch by the lake"
+          },
+          "coords": [
+            8.78,
+            47.355
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie Ihr Mittagessen in einem Restaurant mit Seeblick.",
+            "hu": "Fogyassza el ebédjét egy tóra néző étteremben.",
+            "ro": "Savurați prânzul la un restaurant cu vedere la lac.",
+            "en": "Enjoy your lunch at a restaurant with a lake view."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Stadtzentrum Wetzikon",
+            "hu": "3. Klaszter: Wetzikon városközpont",
+            "ro": "Cluster 3: Centrul orașului Wetzikon",
+            "en": "Cluster 3: Wetzikon Town Center"
+          },
+          "coords": [
+            8.799,
+            47.328
+          ],
+          "category": "museums",
+          "arrive_at": "15:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und besuchen Sie das Museum Wetzikon.",
+            "hu": "Parkoljon a központban, és látogasson el a Wetzikoni Múzeumba.",
+            "ro": "Parcați în centru și vizitați Muzeul Wetzikon.",
+            "en": "Park in the center and visit the Museum Wetzikon."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche Wetzikon",
+            "hu": "Wetzikoni Református Templom",
+            "ro": "Biserica Reformată Wetzikon",
+            "en": "Reformed Church Wetzikon"
+          },
+          "coords": [
+            8.796,
+            47.325
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zur Kirche.",
+            "hu": "Rövid séta a múzeumtól a templomig.",
+            "ro": "O scurtă plimbare de la muzeu la biserică.",
+            "en": "A short walk from the museum to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaffee und Kuchen",
+            "hu": "Kávé és sütemény",
+            "ro": "Cafea și prăjitură",
+            "en": "Coffee and Cake"
+          },
+          "coords": [
+            8.797,
+            47.326
+          ],
+          "category": "gastro",
+          "arrive_at": "17:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer süßen Belohnung in einem Café im Zentrum.",
+            "hu": "Zárja a napot egy édes jutalommal egy központi kávézóban.",
+            "ro": "Încheiați ziua cu o recompensă dulce la o cafenea din centru.",
+            "en": "End the day with a sweet treat at a café in the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um Wetzikons vielfältige Attraktionen zu erkunden. Der Tag beginnt mit einer Wanderung im Kemptner Tobel. Danach fahren Sie zum Pfäffikersee, um die prähistorischen Pfahlbauten zu sehen und am Ufer zu Mittag zu essen. Der Nachmittag ist dem kulturellen Zentrum von Wetzikon gewidmet, mit Besuchen im Museum und in der Kirche, die alle bequem zu Fuß erreichbar sind, nachdem Sie Ihr Auto geparkt haben.",
+        "hu": "Használja ki az autó rugalmasságát Wetzikon változatos látnivalóinak felfedezéséhez. A nap a Kemptner Tobel-szurdokban tett túrával kezdődik. Ezután irány a Pfäffikersee, ahol megtekintheti az őskori cölöpházakat és ebédelhet a parton. A délután Wetzikon kulturális központjának van szentelve, múzeumi és templomi látogatásokkal, melyek mind könnyen elérhetők gyalog, miután leparkolta az autót.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a explora atracțiile diverse ale Wetzikonului. Ziua începe cu o drumeție în Kemptner Tobel. Apoi, conduceți la lacul Pfäffikersee pentru a vedea locuințele preistorice lacustre și pentru a lua prânzul pe mal. După-amiaza este dedicată centrului cultural al Wetzikonului, cu vizite la muzeu și biserică, toate accesibile pe jos după ce ați parcat mașina.",
+        "en": "Use the flexibility of the car to explore Wetzikon's diverse attractions. The day begins with a hike in Kemptner Tobel. Then, drive to Pfäffikersee to see the prehistoric pile dwellings and have lunch on the shore. The afternoon is dedicated to Wetzikon's cultural center, with visits to the museum and church, all easily reachable on foot after parking your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am See",
+            "tip": "Genießen Sie frischen Fisch mit Blick auf den Pfäffikersee."
+          },
+          {
+            "name": "Landgasthof",
+            "tip": "Probieren Sie authentische Schweizer Küche in einem traditionellen Gasthof außerhalb der Stadt."
+          },
+          {
+            "name": "Bäckerei-Café",
+            "tip": "Perfekt für einen schnellen Kaffee und ein Stück Kuchen am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a tónál",
+            "tip": "Élvezze a friss halat a Pfäffikersee-re néző kilátással."
+          },
+          {
+            "name": "Vidéki fogadó",
+            "tip": "Kóstolja meg az autentikus svájci konyhát egy hagyományos, városon kívüli fogadóban."
+          },
+          {
+            "name": "Pékség-kávézó",
+            "tip": "Tökéletes egy gyors délutáni kávéra és süteményre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe malul lacului",
+            "tip": "Savurați pește proaspăt cu vedere la lacul Pfäffikersee."
+          },
+          {
+            "name": "Han rustic",
+            "tip": "Încercați bucătăria elvețiană autentică la un han tradițional din afara orașului."
+          },
+          {
+            "name": "Cafenea-brutărie",
+            "tip": "Perfect pentru o cafea rapidă și o felie de tort după-amiaza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant by the lake",
+            "tip": "Enjoy fresh fish with a view of Pfäffikersee."
+          },
+          {
+            "name": "Country inn",
+            "tip": "Try authentic Swiss cuisine at a traditional inn outside the town."
+          },
+          {
+            "name": "Bakery-café",
+            "tip": "Perfect for a quick coffee and a slice of cake in the afternoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt im Kemptner Tobel",
+            "tip": "Finden Sie einen hohen Punkt für einen weiten Blick über die Schlucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Pfäffikersee",
+            "tip": "Der beste Ort, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Leseecke im Museumspark",
+            "tip": "Ein ruhiger Ort nach dem Museumsbesuch.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Kemptner Tobelben",
+            "tip": "Keressen egy magas pontot, ahonnan messzire ellátni a szurdok felett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a Pfäffikersee-nél",
+            "tip": "A legjobb hely a nap befejezéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Olvasósarok a Múzeumparkban",
+            "tip": "Csendes hely a múzeumlátogatás után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere în Kemptner Tobel",
+            "tip": "Găsiți un punct înalt pentru o priveliște largă asupra defileului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare la lacul Pfäffikersee",
+            "tip": "Cel mai bun loc pentru a încheia ziua.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Colț de lectură în parcul muzeului",
+            "tip": "Un loc liniștit după vizita la muzeu.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint in Kemptner Tobel",
+            "tip": "Find a high spot for a wide view over the gorge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at Pfäffikersee",
+            "tip": "The best place to end the day.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Reading corner in the Museum Park",
+            "tip": "A quiet spot after the museum visit.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Jucker Farm Shop",
+            "tip": "Kaufen Sie Kürbisse, Äpfel und andere saisonale Produkte."
+          },
+          {
+            "name": "Käserei in der Region",
+            "tip": "Nehmen Sie ein Stück authentischen Schweizer Käse mit nach Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jucker Farm boltja",
+            "tip": "Vásároljon tököt, almát és más szezonális termékeket."
+          },
+          {
+            "name": "Sajtüzem a régióban",
+            "tip": "Vigyen haza egy darab autentikus svájci sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fermei Jucker",
+            "tip": "Cumpărați dovleci, mere și alte produse de sezon."
+          },
+          {
+            "name": "Fabrică de brânzeturi din regiune",
+            "tip": "Luați acasă o bucată de brânză elvețiană autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jucker Farm Shop",
+            "tip": "Buy pumpkins, apples, and other seasonal products."
+          },
+          {
+            "name": "Cheese dairy in the region",
+            "tip": "Take home a piece of authentic Swiss cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Planen Sie genügend Zeit für den Verkehr zwischen den Clustern ein.",
+          "Ein GPS ist unerlässlich.",
+          "Kombinieren Sie Auto- und Gehstrecken, um das Beste aus Ihrem Besuch zu machen."
+        ],
+        "hu": [
+          "Ellenőrizze előre a parkolási lehetőségeket és díjakat.",
+          "Tervezzen elegendő időt a klaszterek közötti forgalomra.",
+          "GPS elengedhetetlen.",
+          "Kombinálja az autós és gyalogos szakaszokat, hogy a legtöbbet hozza ki a látogatásból."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare și taxele.",
+          "Planificați suficient timp pentru traficul dintre clustere.",
+          "Un GPS este esențial.",
+          "Combinați deplasările cu mașina și pe jos pentru a profita la maximum de vizită."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "Allow enough time for traffic between clusters.",
+          "A GPS is essential.",
+          "Combine driving and walking to make the most of your visit."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft am Bahnhof Wetzikon",
+            "hu": "1. Klaszter: Érkezés a Wetzikon pályaudvarra",
+            "ro": "Cluster 1: Sosire la gara Wetzikon",
+            "en": "Cluster 1: Arrival at Wetzikon station"
+          },
+          "coords": [
+            8.805,
+            47.323
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für die lokalen Busse, um sich flexibel zu bewegen.",
+            "hu": "Vásároljon napijegyet a helyi buszokra a rugalmas közlekedés érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru autobuzele locale pentru a vă deplasa flexibil.",
+            "en": "Buy a day pass for the local buses to move around flexibly."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Wetzikon",
+            "hu": "Wetzikoni Múzeum",
+            "ro": "Muzeul Wetzikon",
+            "en": "Museum Wetzikon"
+          },
+          "coords": [
+            8.799,
+            47.328
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus leicht zu Fuß erreichbar.",
+            "hu": "A pályaudvarról könnyen megközelíthető gyalog.",
+            "ro": "Ușor accesibil pe jos de la gară.",
+            "en": "Easily accessible on foot from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche Wetzikon",
+            "hu": "Wetzikoni Református Templom",
+            "ro": "Biserica Reformată Wetzikon",
+            "en": "Reformed Church Wetzikon"
+          },
+          "coords": [
+            8.796,
+            47.325
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch das Stadtzentrum vom Museum aus.",
+            "hu": "Rövid séta a városközponton keresztül a múzeumtól.",
+            "ro": "O scurtă plimbare prin centrul orașului de la muzeu.",
+            "en": "A short walk through the town center from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Bus zum Pfäffikersee",
+            "hu": "2. Klaszter: Busz a Pfäffikersee-hez",
+            "ro": "Cluster 2: Autobuz spre lacul Pfäffikersee",
+            "en": "Cluster 2: Bus to Pfäffikersee"
+          },
+          "coords": [
+            8.788,
+            47.345
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus Richtung See und steigen Sie bei 'Robenhausen' aus.",
+            "hu": "Menjen busszal a tó irányába, és szálljon le a 'Robenhausen' megállónál.",
+            "ro": "Luați autobuzul spre lac și coborâți la 'Robenhausen'.",
+            "en": "Take the bus towards the lake and get off at 'Robenhausen'."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang am See",
+            "hu": "Ebéd és séta a tónál",
+            "ro": "Prânz și plimbare pe malul lacului",
+            "en": "Lunch and walk by the lake"
+          },
+          "coords": [
+            8.782,
+            47.35
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie Ihr Mittagessen mit einem entspannten Spaziergang am Ufer.",
+            "hu": "Kombinálja az ebédet egy pihentető sétával a parton.",
+            "ro": "Combinați prânzul cu o plimbare relaxantă pe mal.",
+            "en": "Combine your lunch with a relaxing walk along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Bus zum Kemptner Tobel",
+            "hu": "3. Klaszter: Busz a Kemptner Tobel-hez",
+            "ro": "Cluster 3: Autobuz spre Kemptner Tobel",
+            "en": "Cluster 3: Bus to Kemptner Tobel"
+          },
+          "coords": [
+            8.815,
+            47.315
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:20",
+          "stay_min": 85,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum und steigen Sie um in Richtung Kempten.",
+            "hu": "Menjen busszal vissza a központba, és szálljon át Kempten irányába.",
+            "ro": "Luați un autobuz înapoi în centru și schimbați spre Kempten.",
+            "en": "Take a bus back to the center and change towards Kempten."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Wetzikon und seine Umgebung bequem mit öffentlichen Verkehrsmitteln. Beginnen Sie im Stadtzentrum mit Kultur im Museum und der Kirche. Ein Bus bringt Sie dann zum wunderschönen Pfäffikersee für einen historischen Einblick und ein Mittagessen am Wasser. Den Abschluss bildet ein weiterer Busausflug in die beeindruckende Natur des Kemptner Tobels, bevor Sie zum Bahnhof zurückkehren.",
+        "hu": "Fedezze fel Wetzikont és környékét kényelmesen, tömegközlekedéssel. Kezdjen a városközpontban kultúrával a múzeumban és a templomban. Egy busz elviszi a gyönyörű Pfäffikersee-hez egy történelmi betekintésért és egy vízparti ebédért. A napot egy újabb buszos kirándulás zárja a Kemptner Tobel lenyűgöző természetébe, mielőtt visszatérne a pályaudvarra.",
+        "ro": "Descoperiți Wetzikon și împrejurimile sale convenabil cu transportul public. Începeți în centrul orașului cu cultură la muzeu și biserică. Un autobuz vă va duce apoi la frumosul lac Pfäffikersee pentru o perspectivă istorică și un prânz pe malul apei. Turul se încheie cu o altă excursie cu autobuzul în natura impresionantă a Kemptner Tobel înainte de a vă întoarce la gară.",
+        "en": "Discover Wetzikon and its surroundings conveniently by public transport. Start in the town center with culture at the museum and church. A bus then takes you to the beautiful Pfäffikersee for a historical insight and a waterside lunch. The tour concludes with another bus trip into the impressive nature of Kemptner Tobel before returning to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandwich vom Beck",
+            "tip": "Holen Sie sich ein schnelles und leckeres Mittagessen von einer lokalen Bäckerei."
+          },
+          {
+            "name": "Restaurant am Bahnhof",
+            "tip": "Praktisch für ein Abendessen vor der Abreise."
+          },
+          {
+            "name": "Glacé (Eiscreme)",
+            "tip": "Eine süße Erfrischung an einem sonnigen Tag am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szendvics a pékségből",
+            "tip": "Vegyen egy gyors és finom ebédet egy helyi pékségben."
+          },
+          {
+            "name": "Étterem a pályaudvarnál",
+            "tip": "Praktikus egy vacsorához indulás előtt."
+          },
+          {
+            "name": "Glacé (fagylalt)",
+            "tip": "Édes frissítő egy napsütéses napon a tónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș de la brutărie",
+            "tip": "Luați un prânz rapid și delicios de la o brutărie locală."
+          },
+          {
+            "name": "Restaurant la gară",
+            "tip": "Convenabil pentru o cină înainte de plecare."
+          },
+          {
+            "name": "Glacé (înghețată)",
+            "tip": "O răcoritoare dulce într-o zi însorită la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandwich from the bakery",
+            "tip": "Get a quick and delicious lunch from a local bakery."
+          },
+          {
+            "name": "Restaurant at the station",
+            "tip": "Convenient for a dinner before departure."
+          },
+          {
+            "name": "Glacé (ice cream)",
+            "tip": "A sweet refreshment on a sunny day at the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Landschaft",
+            "tip": "Genießen Sie die Aussicht aus dem Fenster auf dem Weg zum See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank am Seeufer",
+            "tip": "Der perfekte Ort, um nach dem Mittagessen zu entspannen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stille Momente in der Kirche",
+            "tip": "Ein Ort der Ruhe mitten in der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a tájon keresztül",
+            "tip": "Élvezze a kilátást az ablakból a tó felé vezető úton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a tóparton",
+            "tip": "Tökéletes hely a pihenésre ebéd után.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Csendes pillanatok a templomban",
+            "tip": "A béke szigete a város közepén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin peisaj",
+            "tip": "Bucurați-vă de priveliștea de la fereastră în drum spre lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă pe malul lacului",
+            "tip": "Locul perfect pentru a vă relaxa după prânz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Momente de liniște în biserică",
+            "tip": "Un loc de pace în mijlocul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the countryside",
+            "tip": "Enjoy the view from the window on the way to the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench on the lake shore",
+            "tip": "The perfect place to relax after lunch.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quiet moments in the church",
+            "tip": "A place of peace in the middle of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Für Zeitschriften, Snacks und Getränke für die Fahrt."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Finden Sie Bücher und Souvenirs zur lokalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a pályaudvarnál",
+            "tip": "Magazinokért, rágcsálnivalókért és italokért az útra."
+          },
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Keressen könyveket és ajándéktárgyakat a helyi történelemről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Pentru reviste, gustări și băuturi pentru călătorie."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Găsiți cărți și suveniruri despre istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the station",
+            "tip": "For magazines, snacks, and drinks for the journey."
+          },
+          {
+            "name": "Museum shop",
+            "tip": "Find books and souvenirs about local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die Fahrplan-App der SBB oder ZVV herunter.",
+          "Beachten Sie die Abfahrtszeiten der letzten Busse, besonders vom Kemptner Tobel.",
+          "Eine Tageskarte ist oft günstiger als Einzelfahrscheine.",
+          "Fragen Sie den Busfahrer, wenn Sie unsicher sind, wo Sie aussteigen müssen."
+        ],
+        "hu": [
+          "Töltse le az SBB vagy ZVV menetrend-alkalmazást.",
+          "Figyeljen az utolsó buszok indulási idejére, különösen a Kemptner Tobel-től.",
+          "A napijegy gyakran olcsóbb, mint az egyedi jegyek.",
+          "Kérdezze meg a buszsofőrt, ha nem biztos benne, hol kell leszállnia."
+        ],
+        "ro": [
+          "Descărcați aplicația de orare SBB sau ZVV.",
+          "Fiți atenți la orele de plecare ale ultimelor autobuze, în special de la Kemptner Tobel.",
+          "Un bilet de o zi este adesea mai ieftin decât biletele individuale.",
+          "Întrebați șoferul autobuzului dacă nu sunteți sigur unde să coborâți."
+        ],
+        "en": [
+          "Download the SBB or ZVV timetable app.",
+          "Be aware of the departure times of the last buses, especially from Kemptner Tobel.",
+          "A day pass is often cheaper than single tickets.",
+          "Ask the bus driver if you are unsure where to get off."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1508 @@
+{
+  "city_id": "poland-gdansk-cities-v2",
+  "anchor": {
+    "name": "Danzig",
+    "coords": [
+      18.6466,
+      54.352
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Goldenes Tor",
+            "hu": "Aranykapu",
+            "ro": "Poarta de Aur",
+            "en": "Golden Gate"
+          },
+          "coords": [
+            18.647,
+            54.3495
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Startpunkt, um die berühmte Lange Gasse zu betreten.",
+            "hu": "Tökéletes kiindulópont a híres Hosszú utca (Ulica Długa) felfedezéséhez.",
+            "ro": "Punctul de start perfect pentru a intra pe faimoasa Ulița Lungă.",
+            "en": "The perfect starting point to enter the famous Long Lane."
+          }
+        },
+        {
+          "name": {
+            "de": "Rechtstädtisches Rathaus",
+            "hu": "Fővárosi Városháza",
+            "ro": "Primăria Orașului Principal",
+            "en": "Main Town Hall"
+          },
+          "coords": [
+            18.6525,
+            54.3488
+          ],
+          "category": "landmark",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine fantastische Aussicht über die Altstadt.",
+            "hu": "Másszon fel a toronyba a csodálatos kilátásért az óvárosra.",
+            "ro": "Urcați în turn pentru o priveliște fantastică asupra orașului vechi.",
+            "en": "Climb the tower for a fantastic view over the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Neptunbrunnen & Artushof",
+            "hu": "Neptun-kút és Artus-udvar",
+            "ro": "Fântâna lui Neptun și Curtea lui Artus",
+            "en": "Neptune's Fountain & Artus Court"
+          },
+          "coords": [
+            18.6533,
+            54.3485
+          ],
+          "category": "monuments",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Brunnen ist das Wahrzeichen von Danzig, perfekt für Fotos.",
+            "hu": "A szökőkút Gdańsk jelképe, tökéletes fotóhelyszín.",
+            "ro": "Fântâna este simbolul orașului Gdańsk, perfectă pentru fotografii.",
+            "en": "The fountain is the symbol of Gdańsk, perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Motlawa-Ufer & Krantor",
+            "hu": "Motława-part és a Daru",
+            "ro": "Cheiul Motława și Macaraua",
+            "en": "Motława Embankment & The Crane"
+          },
+          "coords": [
+            18.657,
+            54.3505
+          ],
+          "category": "promenades",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie hier Ihr Mittagessen mit Blick auf den Fluss.",
+            "hu": "Ebédeljen itt, gyönyörködve a folyóra néző kilátásban.",
+            "ro": "Luați prânzul aici, cu vedere la râu.",
+            "en": "Enjoy your lunch here with a view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche",
+            "hu": "Mária-templom",
+            "ro": "Biserica Sfânta Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            18.653,
+            54.3498
+          ],
+          "category": "churches",
+          "arrive_at": "12:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine der größten Backsteinkirchen der Welt. Der Aufstieg zum Turm lohnt sich.",
+            "hu": "A világ egyik legnagyobb téglatemploma. A toronymászás megéri a fáradságot.",
+            "ro": "Una dintre cele mai mari biserici din cărămidă din lume. Merită să urcați în turn.",
+            "en": "One of the largest brick churches in the world. The climb to the tower is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Europäisches Zentrum der Solidarność",
+            "hu": "Európai Szolidaritás Központ",
+            "ro": "Centrul European de Solidaritate",
+            "en": "European Solidarity Centre"
+          },
+          "coords": [
+            18.6495,
+            54.3615
+          ],
+          "category": "museums",
+          "arrive_at": "14:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss, um die jüngere polnische Geschichte und den Fall des Kommunismus zu verstehen.",
+            "hu": "Kötelező látnivaló a lengyel közelmúlt és a kommunizmus bukásának megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege istoria recentă a Poloniei și căderea comunismului.",
+            "en": "A must-visit to understand Poland's recent history and the fall of communism."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Motlawa-Ufer",
+            "hu": "Vacsora a Motława-parton",
+            "ro": "Cină pe Cheiul Motława",
+            "en": "Dinner at the Motława Embankment"
+          },
+          "coords": [
+            18.6565,
+            54.349
+          ],
+          "category": "gastro",
+          "arrive_at": "16:51",
+          "stay_min": 140,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag in einem der vielen Restaurants mit Blick auf die beleuchtete Uferpromenade.",
+            "hu": "Zárja a napot a kivilágított folyópartra néző számos étterem egyikében.",
+            "ro": "Încheiați ziua la unul dintre multele restaurante cu vedere la promenada luminată.",
+            "en": "End the day at one of the many restaurants overlooking the illuminated embankment."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt am Goldenen Tor und führt Sie durch das Herz der Rechtstadt. Am Vormittag erkunden Sie den berühmten Langen Markt mit dem Rathaus und dem Neptunbrunnen. Mittags schlendern Sie entlang des malerischen Motlawa-Ufers, bewundern das Krantor und genießen ein lokales Mittagessen. Der Nachmittag ist der beeindruckenden Marienkirche gewidmet, bevor Sie in die jüngere Geschichte Polens im Solidarność-Zentrum eintauchen. Der Abend klingt mit einem köstlichen Abendessen am Wasser aus, während Sie die Lichter der Stadt bewundern.",
+        "hu": "A nap az Aranykapunál kezdődik, és a Főváros szívén vezet keresztül. Délelőtt felfedezi a híres Hosszú Piacot a Városházával és a Neptun-kúttal. Délben a festői Motława-parton sétál, megcsodálja a Darut és elfogyaszt egy helyi ebédet. A délután a lenyűgöző Mária-templomé, mielőtt elmerülne Lengyelország közelmúltjában a Szolidaritás Központban. Az este egy finom vízparti vacsorával zárul, miközben a város fényeiben gyönyörködik.",
+        "ro": "Ziua începe la Poarta de Aur și vă poartă prin inima Orașului Principal. Dimineața explorați faimoasa Piață Lungă cu Primăria și Fântâna lui Neptun. La prânz vă plimbați pe pitorescul Chei al Motławei, admirați Macaraua și savurați un prânz local. După-amiaza este dedicată impresionantei Biserici Sfânta Maria, înainte de a vă cufunda în istoria recentă a Poloniei la Centrul Solidaritatea. Seara se încheie cu o cină delicioasă pe malul apei, admirând luminile orașului.",
+        "en": "The day begins at the Golden Gate, leading you through the heart of the Main Town. In the morning, you'll explore the famous Long Market with the Town Hall and Neptune's Fountain. At midday, stroll along the picturesque Motława Embankment, admire the Crane and enjoy a local lunch. The afternoon is dedicated to the impressive St. Mary's Church before you delve into Poland's recent history at the Solidarity Centre. The evening concludes with a delicious dinner by the water, admiring the city lights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die traditionellen polnischen Teigtaschen, gefüllt mit Fleisch, Käse oder Pilzen."
+          },
+          {
+            "name": "Goldwasser",
+            "tip": "Ein starker Kräuterlikör mit kleinen Goldflocken, eine Danziger Spezialität."
+          },
+          {
+            "name": "Gebratener Dorsch",
+            "tip": "Frischer Fisch aus der Ostsee, oft mit Kartoffeln und Salat serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hagyományos lengyel derelyét hússal, sajttal vagy gombával töltve."
+          },
+          {
+            "name": "Goldwasser",
+            "tip": "Erős gyógynövénylikőr apró aranypelyhekkel, gdański specialitás."
+          },
+          {
+            "name": "Sült tőkehal",
+            "tip": "Friss hal a Balti-tengerből, gyakran krumplival és salátával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați colțunașii tradiționali polonezi, umpluți cu carne, brânză sau ciuperci."
+          },
+          {
+            "name": "Goldwasser",
+            "tip": "Un lichior de plante puternic, cu fulgi mici de aur, o specialitate din Gdańsk."
+          },
+          {
+            "name": "Cod la grătar",
+            "tip": "Pește proaspăt de la Marea Baltică, servit adesea cu cartofi și salată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the traditional Polish dumplings, filled with meat, cheese, or mushrooms."
+          },
+          {
+            "name": "Goldwasser",
+            "tip": "A strong herbal liqueur with small flakes of gold, a Gdańsk specialty."
+          },
+          {
+            "name": "Fried Cod",
+            "tip": "Fresh fish from the Baltic Sea, often served with potatoes and salad."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ulica Mariacka",
+            "tip": "Eine ruhige, charmante Gasse mit Bernsteinschmuckläden.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Ufer der Speicherinsel",
+            "tip": "Weniger überlaufen als das Hauptufer, mit moderner Architektur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Krantor",
+            "tip": "Beobachten Sie, wie die Sonne hinter den historischen Gebäuden untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mariacka utca",
+            "tip": "Csendes, bájos utca borostyán ékszerboltokkal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Spichlerz-sziget partján",
+            "tip": "Kevésbé zsúfolt, mint a fő sétány, modern építészettel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a Darunál",
+            "tip": "Nézze, ahogy a nap lenyugszik a történelmi épületek mögött.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Mariacka",
+            "tip": "O alee liniștită și fermecătoare, cu magazine de bijuterii din chihlimbar.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul insulei Spichlerz",
+            "tip": "Mai puțin aglomerat decât cheiul principal, cu arhitectură modernă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare la Macara",
+            "tip": "Priviți soarele apunând în spatele clădirilor istorice.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mariacka Street",
+            "tip": "A quiet, charming lane with amber jewelry shops.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk on the Granary Island embankment",
+            "tip": "Less crowded than the main embankment, with modern architecture.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at the Crane",
+            "tip": "Watch the sun set behind the historic buildings.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Danzig ist bekannt als die Welthauptstadt des Bernsteins. Ulica Mariacka ist der beste Ort dafür."
+          },
+          {
+            "name": "Hala Targowa (Markthalle)",
+            "tip": "Kaufen Sie frische Produkte und lokale Spezialitäten in dieser historischen Markthalle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Gdańskot a borostyán világfővárosaként ismerik. A Mariacka utca a legjobb hely a vásárlásra."
+          },
+          {
+            "name": "Hala Targowa (Vásárcsarnok)",
+            "tip": "Vásároljon friss termékeket és helyi specialitásokat ebben a történelmi vásárcsarnokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Gdańsk este cunoscut drept capitala mondială a chihlimbarului. Strada Mariacka este cel mai bun loc pentru asta."
+          },
+          {
+            "name": "Hala Targowa (Piața interioară)",
+            "tip": "Cumpărați produse proaspete și specialități locale din această piață istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Amber Jewelry",
+            "tip": "Gdańsk is known as the world capital of amber. Mariacka Street is the best place for it."
+          },
+          {
+            "name": "Hala Targowa (Market Hall)",
+            "tip": "Buy fresh produce and local specialties in this historic market hall."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Rechtstadt ist eine Fußgängerzone, tragen Sie also bequeme Schuhe.",
+          "Kaufen Sie eine Gdańsk Tourist Card für freien Eintritt zu vielen Museen und kostenlose öffentliche Verkehrsmittel.",
+          "Viele Restaurants am Ufer bieten mittags spezielle Menüs zu günstigeren Preisen an.",
+          "Achten Sie auf die Wasserspeier an den Gebäuden in der Ulica Mariacka, sie sind einzigartig."
+        ],
+        "hu": [
+          "A Főváros nagyrészt sétálóövezet, ezért viseljen kényelmes cipőt.",
+          "Vásároljon Gdańsk Turista Kártyát, amellyel ingyenes a belépés számos múzeumba és ingyenes a tömegközlekedés.",
+          "Sok folyóparti étterem kínál kedvezőbb árú ebédmenüt.",
+          "Figyelje meg a vízköpőket a Mariacka utca épületein, igazán egyediek."
+        ],
+        "ro": [
+          "Orașul Principal este în mare parte pietonal, așa că purtați încălțăminte confortabilă.",
+          "Cumpărați un Card Turistic Gdańsk pentru intrare gratuită la multe muzee și transport public gratuit.",
+          "Multe restaurante de pe chei oferă meniuri speciale de prânz la prețuri mai mici.",
+          "Fiți atenți la garguiele de pe clădirile de pe strada Mariacka, sunt unice."
+        ],
+        "en": [
+          "The Main Town is largely a pedestrian zone, so wear comfortable shoes.",
+          "Buy a Gdańsk Tourist Card for free entry to many museums and free public transport.",
+          "Many restaurants on the embankment offer special lunch menus at cheaper prices.",
+          "Look out for the gargoyle-like downspouts on the buildings of Mariacka Street, they are unique."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rechtstädtisches Rathaus & Langer Markt",
+            "hu": "Fővárosi Városháza és Hosszú Piac",
+            "ro": "Primăria și Piața Lungă",
+            "en": "Main Town Hall & Long Market"
+          },
+          "coords": [
+            18.6525,
+            54.3488
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie im Herzen der Stadt. Schließen Sie Ihr Rad an und erkunden Sie den Platz zu Fuß.",
+            "hu": "Kezdje a napot a város szívében. Zárja le a biciklit és fedezze fel a teret gyalog.",
+            "ro": "Începeți în inima orașului. Lăsați bicicleta și explorați piața pe jos.",
+            "en": "Start in the heart of the city. Lock up your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Motlawa-Ufer & Krantor",
+            "hu": "Motława-part és a Daru",
+            "ro": "Cheiul Motława și Macaraua",
+            "en": "Motława Embankment & The Crane"
+          },
+          "coords": [
+            18.657,
+            54.3505
+          ],
+          "category": "promenades",
+          "arrive_at": "10:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie am Wasser entlang. Es gibt viele Cafés für eine kurze Pause.",
+            "hu": "Biciklizzen a vízparton. Számos kávézó található egy rövid pihenőre.",
+            "ro": "Pedalați de-a lungul apei. Există multe cafenele pentru o pauză scurtă.",
+            "en": "Cycle along the water's edge. There are plenty of cafes for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Europäisches Zentrum der Solidarność",
+            "hu": "Európai Szolidaritás Központ",
+            "ro": "Centrul European de Solidaritate",
+            "en": "European Solidarity Centre"
+          },
+          "coords": [
+            18.6495,
+            54.3615
+          ],
+          "category": "museums",
+          "arrive_at": "11:01",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt gute Fahrradwege, die direkt zum Zentrum und den Werften führen.",
+            "hu": "Jó kerékpárutak vezetnek közvetlenül a központhoz és a hajógyárakhoz.",
+            "ro": "Există piste bune de biciclete care duc direct la centru și la șantierele navale.",
+            "en": "There are good cycle paths leading directly to the centre and the shipyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe der Werft",
+            "hu": "Ebéd a hajógyár közelében",
+            "ro": "Prânz lângă șantierul naval",
+            "en": "Lunch near the shipyards"
+          },
+          "coords": [
+            18.651,
+            54.363
+          ],
+          "category": "gastro",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Probieren Sie eines der trendigen Restaurants in den renovierten Werftgebäuden.",
+            "hu": "Próbálja ki a felújított hajógyári épületek egyik trendi éttermét.",
+            "ro": "Încercați unul dintre restaurantele la modă din clădirile renovate ale șantierului naval.",
+            "en": "Try one of the trendy restaurants in the renovated shipyard buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Westerplatte",
+            "hu": "Westerplatte",
+            "ro": "Westerplatte",
+            "en": "Westerplatte"
+          },
+          "coords": [
+            18.666,
+            54.406
+          ],
+          "category": "historical",
+          "arrive_at": "15:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine längere, aber lohnende Fahrt zu dem Ort, an dem der Zweite Weltkrieg begann.",
+            "hu": "Hosszabb, de megéri az utat a helyre, ahol a második világháború elkezdődött.",
+            "ro": "O călătorie mai lungă, dar meritată, spre locul unde a început Al Doilea Război Mondial.",
+            "en": "A longer but rewarding ride to the site where WWII began."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zur Marienkirche",
+            "hu": "Vissza a Mária-templomhoz",
+            "ro": "Înapoi la Biserica Sfânta Maria",
+            "en": "Return to St. Mary's Church"
+          },
+          "coords": [
+            18.653,
+            54.3498
+          ],
+          "category": "churches",
+          "arrive_at": "17:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag, indem Sie das Innere der massiven Kirche erkunden.",
+            "hu": "Zárja a napot a hatalmas templom belsejének felfedezésével.",
+            "ro": "Încheiați ziua explorând interiorul bisericii masive.",
+            "en": "End the day by exploring the interior of the massive church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern beginnt Ihr Tag im Herzen der Rechtstadt, bevor Sie zum lebhaften Motlawa-Ufer radeln. Am Vormittag führt Sie die Route nach Norden zum Europäischen Solidarność-Zentrum, wo Sie in die Geschichte eintauchen. Nach einem Mittagessen in der Nähe der historischen Werften unternehmen Sie eine längere Fahrt zur Westerplatte, einem Ort von großer historischer Bedeutung. Der Nachmittag endet mit der Rückkehr in die Altstadt, wo Sie die beeindruckende Marienkirche besichtigen und den Tag ausklingen lassen.",
+        "hu": "Két keréken a nap a Főváros szívében indul, mielőtt az élénk Motława-partra tekeregne. Délelőtt az útvonal észak felé vezet az Európai Szolidaritás Központhoz, ahol elmerülhet a történelemben. A történelmi hajógyárak közelében elfogyasztott ebéd után egy hosszabb túrát tesz a Westerplattéhoz, a nagy történelmi jelentőségű helyszínre. A délután az óvárosba való visszatéréssel zárul, ahol megtekintheti a lenyűgöző Mária-templomot.",
+        "ro": "Pe două roți, ziua începe în inima Orașului Principal înainte de a pedala spre vibrantul Chei Motława. Dimineața, traseul vă duce spre nord, la Centrul European de Solidaritate, pentru o incursiune în istorie. După prânzul lângă șantierele navale istorice, faceți o plimbare mai lungă cu bicicleta până la Westerplatte, un loc de mare importanță istorică. După-amiaza se încheie cu o întoarcere în orașul vechi pentru a vizita impunătoarea Biserică Sfânta Maria.",
+        "en": "On two wheels, your day starts in the heart of the Main Town before cycling to the vibrant Motława Embankment. In the morning, the route takes you north to the European Solidarity Centre for a dive into history. After lunch near the historic shipyards, you'll take a longer ride to Westerplatte, a site of great historical importance. The afternoon concludes with a return to the old town to visit the impressive St. Mary's Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smażalnia ryb",
+            "tip": "Suchen Sie nach diesen kleinen Fischbratereien für den frischesten Fang des Tages."
+          },
+          {
+            "name": "Zupa rybna",
+            "tip": "Eine herzhafte Fischsuppe, perfekt nach einer langen Radtour."
+          },
+          {
+            "name": "Piwo regionalne",
+            "tip": "Probieren Sie ein lokales Bier aus einer der vielen Danziger Mikrobrauereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smażalnia ryb",
+            "tip": "Keresse ezeket a kis hal-sütödéket a nap legfrissebb fogásáért."
+          },
+          {
+            "name": "Zupa rybna",
+            "tip": "Kiadós halleves, tökéletes egy hosszú biciklitúra után."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy helyi sört a számos gdański kisüzemi sörfőzde egyikéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smażalnia ryb",
+            "tip": "Căutați aceste mici prăjitorii de pește pentru cea mai proaspătă captură a zilei."
+          },
+          {
+            "name": "Zupa rybna",
+            "tip": "O supă de pește consistentă, perfectă după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Piwo regionalne",
+            "tip": "Încercați o bere locală de la una dintre numeroasele microberării din Gdańsk."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smażalnia ryb",
+            "tip": "Look for these small fish fry-shops for the freshest catch of the day."
+          },
+          {
+            "name": "Zupa rybna",
+            "tip": "A hearty fish soup, perfect after a long bike ride."
+          },
+          {
+            "name": "Piwo regionalne",
+            "tip": "Try a local beer from one of Gdańsk's many microbreweries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Oliwski",
+            "tip": "Obwohl er eine Fahrt entfernt ist, ist er der schönste Park der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fahrradweg entlang der Küste",
+            "tip": "Von Brzeźno nach Sopot, eine erfrischende Meeresbrise.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grüne Brücke (Zielona Brama)",
+            "tip": "Halten Sie an, um die Aussicht auf den Fluss und die Speicherinsel zu genießen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oliwa Park",
+            "tip": "Bár messzebb van, ez a város legszebb parkja.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Part menti kerékpárút",
+            "tip": "Brzeźnótól Sopotig, frissítő tengeri szellővel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Zöld híd (Zielona Brama)",
+            "tip": "Álljon meg, hogy élvezze a kilátást a folyóra és a Spichlerz-szigetre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Oliwa",
+            "tip": "Deși este la o distanță cu mașina, este cel mai frumos parc din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista de biciclete de-a lungul coastei",
+            "tip": "De la Brzeźno la Sopot, o briză marină răcoritoare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Podul Verde (Zielona Brama)",
+            "tip": "Opriți-vă pentru a admira vederea spre râu și Insula Grânelor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oliwa Park",
+            "tip": "Although a ride away, it's the most beautiful park in the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seaside cycle path",
+            "tip": "From Brzeźno to Sopot, a refreshing sea breeze.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Green Bridge (Zielona Brama)",
+            "tip": "Stop to enjoy the view of the river and Granary Island.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrrad-Souvenirs",
+            "tip": "Einige Geschäfte verkaufen T-Shirts und Accessoires mit Fahrradmotiven aus Danzig."
+          },
+          {
+            "name": "Bernstein-Werkstätten",
+            "tip": "Besuchen Sie eine Werkstatt, um zu sehen, wie der Schmuck hergestellt wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpáros ajándéktárgyak",
+            "tip": "Néhány bolt gdański kerékpáros motívumokkal díszített pólókat és kiegészítőket árul."
+          },
+          {
+            "name": "Borostyánműhelyek",
+            "tip": "Látogasson el egy műhelybe, és nézze meg, hogyan készülnek az ékszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri pentru bicicliști",
+            "tip": "Unele magazine vând tricouri și accesorii cu motive de ciclism din Gdańsk."
+          },
+          {
+            "name": "Ateliere de chihlimbar",
+            "tip": "Vizitați un atelier pentru a vedea cum sunt realizate bijuteriile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycling souvenirs",
+            "tip": "Some shops sell t-shirts and accessories with Gdańsk cycling themes."
+          },
+          {
+            "name": "Amber workshops",
+            "tip": "Visit a workshop to see how the jewelry is made."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein MEVO-Stadtrad, es ist günstig und praktisch.",
+          "Achten Sie auf Fußgänger in der Altstadt; die Straßen sind oft geteilt.",
+          "Einige Wege führen über Kopfsteinpflaster, was eine Herausforderung sein kann.",
+          "Nehmen Sie ein gutes Schloss mit und sichern Sie Ihr Fahrrad immer, besonders in touristischen Gebieten."
+        ],
+        "hu": [
+          "Béreljen MEVO városi kerékpárt, olcsó és praktikus.",
+          "Vigyázzon a gyalogosokra az óvárosban; az utakon gyakran osztozni kell.",
+          "Néhány út macskakövön vezet, ami kihívást jelenthet.",
+          "Vigyen magával egy jó lakatot, és mindig zárja le a kerékpárt, különösen a turistaövezetekben."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de oraș MEVO; este ieftină și convenabilă.",
+          "Fiți atenți la pietoni în orașul vechi; străzile sunt adesea comune.",
+          "Unele trasee sunt pe piatră cubică, ceea ce poate fi o provocare.",
+          "Luați un lacăt bun și asigurați-vă întotdeauna bicicleta, mai ales în zonele turistice."
+        ],
+        "en": [
+          "Rent a MEVO city bike; it's cheap and convenient.",
+          "Be mindful of pedestrians in the old town; the streets are often shared.",
+          "Some paths are on cobblestones, which can be challenging.",
+          "Bring a good lock and always secure your bike, especially in tourist areas."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 28.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Oliwa-Kathedrale & Park",
+            "hu": "1. klaszter: Oliwa katedrális és park",
+            "ro": "Cluster 1: Catedrala și Parcul Oliwa",
+            "en": "Cluster 1: Oliwa Cathedral & Park"
+          },
+          "coords": [
+            18.558,
+            54.41
+          ],
+          "category": "churches",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie im ruhigen Stadtteil Oliwa. Parken Sie in der Nähe und verpassen Sie nicht das Orgelkonzert.",
+            "hu": "Kezdje a napot a csendes Oliwa negyedben. Parkoljon a közelben, és ne hagyja ki az orgonakoncertet.",
+            "ro": "Începeți în liniștitul cartier Oliwa. Parcați în apropiere și nu ratați concertul de orgă.",
+            "en": "Start in the quiet district of Oliwa. Park nearby and don't miss the organ concert."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Park Oliwski",
+            "hu": "Séta az Oliwa Parkban",
+            "ro": "Plimbare în Parcul Oliwa",
+            "en": "Stroll in Oliwa Park"
+          },
+          "coords": [
+            18.559,
+            54.411
+          ],
+          "category": "garden",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein wunderschöner Park direkt neben der Kathedrale, ideal für einen ruhigen Morgenspaziergang.",
+            "hu": "Egy gyönyörű park közvetlenül a katedrális mellett, ideális egy csendes reggeli sétához.",
+            "ro": "Un parc frumos chiar lângă catedrală, ideal pentru o plimbare liniștită de dimineață.",
+            "en": "A beautiful park right next to the cathedral, ideal for a quiet morning stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Westerplatte",
+            "hu": "2. klaszter: Westerplatte",
+            "ro": "Cluster 2: Westerplatte",
+            "en": "Cluster 2: Westerplatte"
+          },
+          "coords": [
+            18.666,
+            54.406
+          ],
+          "category": "historical",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 10,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum historischen Denkmal. Das Gelände ist weitläufig, planen Sie Zeit für einen Spaziergang ein.",
+            "hu": "Hajtson el a történelmi emlékműhöz. A terület tágas, tervezzen időt egy sétára.",
+            "ro": "Conduceți până la monumentul istoric. Situl este extins, planificați timp pentru o plimbare.",
+            "en": "Drive to the historic monument. The site is extensive, so plan time for a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Rechtstadt (Parkhaus)",
+            "hu": "3. klaszter: Főváros (Parkolóház)",
+            "ro": "Cluster 3: Orașul Principal (Parcare)",
+            "en": "Cluster 3: Main Town (Parking Garage)"
+          },
+          "coords": [
+            18.659,
+            54.352
+          ],
+          "category": "landmark",
+          "arrive_at": "13:30",
+          "stay_min": 0,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 15,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in einem der Parkhäuser am Rande der Altstadt für den Rest des Tages.",
+            "hu": "Parkolja le az autót a nap hátralévő részére az óváros szélén található parkolóházak egyikében.",
+            "ro": "Parcați mașina pentru restul zilei într-una din parcările de la marginea orașului vechi.",
+            "en": "Park your car in one of the parking garages on the edge of the old town for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang am Motlawa-Ufer",
+            "hu": "Ebéd és séta a Motława-parton",
+            "ro": "Prânz și plimbare pe Cheiul Motława",
+            "en": "Lunch and stroll at Motława Embankment"
+          },
+          "coords": [
+            18.657,
+            54.3505
+          ],
+          "category": "gastro",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Parkhaus aus ist das Ufer nur einen kurzen Spaziergang entfernt.",
+            "hu": "A parkolóházból a folyópart csak egy rövid sétára van.",
+            "ro": "De la parcare, cheiul este la o scurtă plimbare.",
+            "en": "From the parking garage, the embankment is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Neptunbrunnen & Artushof",
+            "hu": "Neptun-kút és Artus-udvar",
+            "ro": "Fântâna lui Neptun și Curtea lui Artus",
+            "en": "Neptune's Fountain & Artus Court"
+          },
+          "coords": [
+            18.6533,
+            54.3485
+          ],
+          "category": "monuments",
+          "arrive_at": "15:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Fluss ins Herz des Langen Marktes.",
+            "hu": "Egy rövid séta a folyótól a Hosszú Piac szívébe.",
+            "ro": "O scurtă plimbare de la râu până în inima Pieței Lungi.",
+            "en": "A short walk from the river into the heart of the Long Market."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche & Bernsteineinkauf",
+            "hu": "Mária-templom és borostyánvásárlás",
+            "ro": "Biserica Sf. Maria și cumpărături de chihlimbar",
+            "en": "St. Mary's Church & Amber Shopping"
+          },
+          "coords": [
+            18.653,
+            54.3498
+          ],
+          "category": "churches",
+          "arrive_at": "15:55",
+          "stay_min": 175,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit der Erkundung der Kirche und der nahegelegenen Ulica Mariacka.",
+            "hu": "Zárja a napot a templom és a közeli Mariacka utca felfedezésével.",
+            "ro": "Încheiați ziua explorând biserica și strada Mariacka din apropiere.",
+            "en": "End the day exploring the church and the nearby Mariacka Street."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die weiter entfernten Schätze Danzigs. Der Morgen beginnt im ruhigen Oliwa, wo Sie die berühmte Kathedrale und den angrenzenden Park besichtigen. Anschließend fahren Sie zur Westerplatte, um in die Geschichte des Zweiten Weltkriegs einzutauchen. Am Mittag parken Sie Ihr Auto in der Nähe der Altstadt und erkunden den Rest des Tages zu Fuß. Sie essen am Motlawa-Ufer zu Mittag und verbringen den Nachmittag damit, durch die Rechtstadt zu schlendern, vom Neptunbrunnen bis zur gewaltigen Marienkirche.",
+        "hu": "Autóval Gdańsk távolabbi kincseit fedezi fel. A reggel a csendes Oliwában kezdődik, ahol meglátogatja a híres katedrálist és a szomszédos parkot. Ezután a Westerplattéhoz hajt, hogy elmerüljön a második világháború történelmében. Délben leparkolja az autót az óváros közelében, és a nap hátralévő részét gyalog fedezi fel. A Motława-parton ebédel, a délutánt pedig a Fővárosban sétálva tölti, a Neptun-kúttól a hatalmas Mária-templomig.",
+        "ro": "Cu mașina, explorați comorile mai îndepărtate ale Gdańskului. Dimineața începe în liniștita Oliwa, vizitând faimoasa catedrală și parcul adiacent. Apoi, conduceți spre Westerplatte pentru o imersiune în istoria celui de-al Doilea Război Mondial. La prânz, parcați mașina lângă orașul vechi și explorați restul zilei pe jos. Luați prânzul pe Cheiul Motława și petreceți după-amiaza plimbându-vă prin Orașul Principal, de la Fântâna lui Neptun la masiva Biserică Sfânta Maria.",
+        "en": "By car, you explore Gdańsk's more distant treasures. The morning starts in quiet Oliwa, visiting the famous cathedral and its adjacent park. Then, you'll drive to Westerplatte for an immersion in WWII history. At midday, park your car near the old town and explore the rest of the day on foot. You'll have lunch on the Motława Embankment and spend the afternoon strolling through the Main Town, from Neptune's Fountain to the massive St. Mary's Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogarnia Mandu",
+            "tip": "Eine berühmte Pierogi-Kette, auch mit einer Filiale in Oliwa."
+          },
+          {
+            "name": "Brovarnia",
+            "tip": "Ein Hotel-Restaurant mit eigener Brauerei und gehobener polnischer Küche."
+          },
+          {
+            "name": "Bar Mleczny (Milchbar)",
+            "tip": "Für ein authentisches, günstiges polnisches Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogarnia Mandu",
+            "tip": "Híres pierogi-lác, Oliwában is van éttermük."
+          },
+          {
+            "name": "Brovarnia",
+            "tip": "Szállodai étterem saját sörfőzdével és elegáns lengyel konyhával."
+          },
+          {
+            "name": "Bar Mleczny (Tejbár)",
+            "tip": "Egy autentikus, olcsó lengyel ebédért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogarnia Mandu",
+            "tip": "Un lanț faimos de pierogi, cu o locație și în Oliwa."
+          },
+          {
+            "name": "Brovarnia",
+            "tip": "Un restaurant de hotel cu propria fabrică de bere și bucătărie poloneză rafinată."
+          },
+          {
+            "name": "Bar Mleczny (Bar de lapte)",
+            "tip": "Pentru un prânz polonez autentic și ieftin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogarnia Mandu",
+            "tip": "A famous pierogi chain, with a location in Oliwa as well."
+          },
+          {
+            "name": "Brovarnia",
+            "tip": "A hotel restaurant with its own brewery and upscale Polish cuisine."
+          },
+          {
+            "name": "Bar Mleczny (Milk Bar)",
+            "tip": "For an authentic, cheap Polish lunch experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Góra Gradowa",
+            "tip": "Ein kurzer Hügel mit einem Kreuz und Panoramablick über die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jelitkowo Strand",
+            "tip": "Ein breiter Sandstrand, nur eine kurze Autofahrt von Oliwa entfernt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die flüsternden Bäume im Park Oliwski",
+            "tip": "Ein spezieller Ort im Park, der für seine Akustik bekannt ist.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Góra Gradowa kilátó",
+            "tip": "Egy alacsony domb kereszttel és panorámás kilátással a városra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jelitkowo strand",
+            "tip": "Széles homokos strand, csak egy rövid autóútra Oliwától.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Suttogó fák az Oliwa Parkban",
+            "tip": "Különleges hely a parkban, amely akusztikájáról ismert.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Góra Gradowa",
+            "tip": "Un deal scurt cu o cruce și vederi panoramice asupra orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja Jelitkowo",
+            "tip": "O plajă largă cu nisip, la o scurtă călătorie cu mașina de Oliwa.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Copacii șoptitori din Parcul Oliwa",
+            "tip": "Un loc special în parc, cunoscut pentru acustica sa.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Góra Gradowa viewpoint",
+            "tip": "A short hill with a cross and panoramic views of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jelitkowo Beach",
+            "tip": "A wide sandy beach just a short drive from Oliwa.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The Whispering Trees in Oliwa Park",
+            "tip": "A special spot in the park known for its acoustics.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galeria Bałtycka",
+            "tip": "Ein großes Einkaufszentrum in der Nähe des Bahnhofs Wrzeszcz, wenn Sie moderne Geschäfte suchen."
+          },
+          {
+            "name": "Bernsteinmuseum",
+            "tip": "Kombinieren Sie Kultur mit Shopping im Museumsshop."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galeria Bałtycka",
+            "tip": "Nagy bevásárlóközpont a Wrzeszcz pályaudvar közelében, ha modern üzleteket keres."
+          },
+          {
+            "name": "Borostyánmúzeum",
+            "tip": "Kösse össze a kultúrát a vásárlással a múzeumi boltban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Bałtycka",
+            "tip": "Un mare centru comercial lângă gara Wrzeszcz, dacă sunteți în căutarea magazinelor moderne."
+          },
+          {
+            "name": "Muzeul Chihlimbarului",
+            "tip": "Combinați cultura cu cumpărăturile la magazinul muzeului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galeria Bałtycka",
+            "tip": "A large shopping mall near Wrzeszcz station if you're looking for modern shops."
+          },
+          {
+            "name": "Amber Museum",
+            "tip": "Combine culture with shopping at the museum's gift store."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in der Altstadt ist schwierig und teuer; nutzen Sie Parkhäuser am Rand.",
+          "Planen Sie für den Verkehr zwischen den Stadtteilen, besonders zur Hauptverkehrszeit, zusätzliche Zeit ein.",
+          "Ein GPS ist unerlässlich, um sich in der Dreistadt (Gdańsk, Sopot, Gdynia) zurechtzufinden.",
+          "Überprüfen Sie die Öffnungszeiten und Konzertpläne für die Oliwa-Kathedrale im Voraus."
+        ],
+        "hu": [
+          "Az óvárosban a parkolás nehéz és drága; használja a szélén lévő parkolóházakat.",
+          "Tervezzen plusz időt a városrészek közötti közlekedésre, különösen csúcsidőben.",
+          "GPS elengedhetetlen a Hármasvárosban (Gdańsk, Sopot, Gdynia) való navigáláshoz.",
+          "Előre ellenőrizze az Oliwa katedrális nyitvatartási idejét és koncertprogramját."
+        ],
+        "ro": [
+          "Parcarea în orașul vechi este dificilă și scumpă; folosiți parcările de la periferie.",
+          "Planificați timp suplimentar pentru traficul între cartiere, în special la orele de vârf.",
+          "Un GPS este esențial pentru a naviga în Tri-City (Gdańsk, Sopot, Gdynia).",
+          "Verificați în avans programul de funcționare și programul concertelor pentru Catedrala Oliwa."
+        ],
+        "en": [
+          "Parking in the old town is difficult and expensive; use parking garages on the edge.",
+          "Plan for extra time for traffic between districts, especially during rush hour.",
+          "A GPS is essential for navigating the Tri-City (Gdańsk, Sopot, Gdynia) area.",
+          "Check the opening hours and organ concert schedules for Oliwa Cathedral in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 19.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Europäisches Zentrum der Solidarność",
+            "hu": "1. klaszter: Európai Szolidaritás Központ",
+            "ro": "Cluster 1: Centrul European de Solidaritate",
+            "en": "Cluster 1: European Solidarity Centre"
+          },
+          "coords": [
+            18.6495,
+            54.3615
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie hier. Das Zentrum ist vom Hauptbahnhof aus leicht zu Fuß oder mit der Straßenbahn zu erreichen.",
+            "hu": "Kezdje itt. A központ a főpályaudvartól könnyen elérhető gyalog vagy villamossal.",
+            "ro": "Începeți aici. Centrul este ușor accesibil pe jos sau cu tramvaiul de la gara principală.",
+            "en": "Start here. The centre is easily reachable from the main train station by foot or tram."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die gefallenen Werftarbeiter",
+            "hu": "Az elesett hajógyári munkások emlékműve",
+            "ro": "Monumentul Muncitorilor de pe Șantierul Naval Căzuți",
+            "en": "Monument to the Fallen Shipyard Workers"
+          },
+          "coords": [
+            18.648,
+            54.3605
+          ],
+          "category": "monuments",
+          "arrive_at": "11:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt vor dem Zentrum, ein ergreifendes Denkmal.",
+            "hu": "Közvetlenül a központ előtt, egy megrendítő emlékmű.",
+            "ro": "Chiar în fața centrului, un monument emoționant.",
+            "en": "Right in front of the centre, a poignant monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Rechtstadt (Straßenbahnhaltestelle Brama Wyżynna)",
+            "hu": "2. klaszter: Főváros (Brama Wyżynna villamosmegálló)",
+            "ro": "Cluster 2: Orașul Principal (stația de tramvai Brama Wyżynna)",
+            "en": "Cluster 2: Main Town (Brama Wyżynna tram stop)"
+          },
+          "coords": [
+            18.647,
+            54.3495
+          ],
+          "category": "landmark",
+          "arrive_at": "11:45",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie eine Straßenbahn für ein paar Haltestellen, um zum Eingang der Altstadt zu gelangen.",
+            "hu": "Menjen villamossal néhány megállót az óváros bejáratához.",
+            "ro": "Luați tramvaiul câteva stații pentru a ajunge la intrarea în orașul vechi.",
+            "en": "Take a tram for a few stops to get to the entrance of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Langen Markt",
+            "hu": "Ebéd a Hosszú Piacon",
+            "ro": "Prânz în Piața Lungă",
+            "en": "Lunch at the Long Market"
+          },
+          "coords": [
+            18.6533,
+            54.3485
+          ],
+          "category": "gastro",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich, bevor Sie die Sehenswürdigkeiten der Rechtstadt erkunden.",
+            "hu": "Erősítsen, mielőtt felfedezné a Főváros látnivalóit.",
+            "ro": "Întăriți-vă înainte de a explora atracțiile Orașului Principal.",
+            "en": "Fuel up before exploring the sights of the Main Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche & Motlawa-Ufer",
+            "hu": "Mária-templom és Motława-part",
+            "ro": "Biserica Sf. Maria și Cheiul Motława",
+            "en": "St. Mary's Church & Motława Embankment"
+          },
+          "coords": [
+            18.655,
+            54.35
+          ],
+          "category": "churches",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Hauptattraktionen liegen nur wenige Gehminuten voneinander entfernt.",
+            "hu": "Ez a két fő látványosság csak pár perc sétára van egymástól.",
+            "ro": "Aceste două atracții principale sunt la doar câteva minute de mers pe jos una de cealaltă.",
+            "en": "These two main attractions are just a few minutes' walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Oliwa-Kathedrale (SKM-Zug)",
+            "hu": "3. klaszter: Oliwa katedrális (SKM vonat)",
+            "ro": "Cluster 3: Catedrala Oliwa (tren SKM)",
+            "en": "Cluster 3: Oliwa Cathedral (SKM train)"
+          },
+          "coords": [
+            18.558,
+            54.41
+          ],
+          "category": "churches",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 9.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den SKM-Zug vom Hauptbahnhof nach Gdańsk Oliwa. Es ist der schnellste Weg.",
+            "hu": "Menjen az SKM vonattal a főpályaudvarról Gdańsk Oliwába. Ez a leggyorsabb út.",
+            "ro": "Luați trenul SKM de la gara principală la Gdańsk Oliwa. Este cel mai rapid mod.",
+            "en": "Take the SKM train from the main station to Gdańsk Oliwa. It's the fastest way."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang und Abendessen in Oliwa",
+            "hu": "Séta és vacsora Oliwában",
+            "ro": "Plimbare și cină în Oliwa",
+            "en": "Stroll and Dinner in Oliwa"
+          },
+          "coords": [
+            18.56,
+            54.412
+          ],
+          "category": "gastro",
+          "arrive_at": "16:40",
+          "stay_min": 135,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag in diesem charmanten Viertel, es gibt einige ausgezeichnete Restaurants.",
+            "hu": "Zárja a napot ebben a bájos negyedben, itt található néhány kiváló étterem.",
+            "ro": "Încheiați ziua în acest cartier fermecător, există câteva restaurante excelente.",
+            "en": "End the day in this charming district, there are some excellent restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln beginnen Sie Ihren Tag im historisch bedeutsamen Solidarność-Zentrum. Nach einem kurzen Spaziergang zu den Werftdenkmälern bringt Sie eine Straßenbahn in die Rechtstadt. Dort verbringen Sie die Mittagszeit und den frühen Nachmittag mit Spaziergängen zwischen dem Langen Markt, der Marienkirche und dem Motlawa-Ufer. Später am Nachmittag nehmen Sie den schnellen SKM-Zug nach Oliwa, um die berühmte Kathedrale und ihre Orgel zu bewundern und den Tag in der ruhigen Atmosphäre dieses Stadtteils ausklingen zu lassen.",
+        "hu": "Tömegközlekedéssel a napot a történelmi jelentőségű Szolidaritás Központban kezdi. A hajógyári emlékművekhez tett rövid séta után egy villamos viszi a Fővárosba. Itt tölti az ebédidőt és a kora délutánt, sétálva a Hosszú Piac, a Mária-templom és a Motława-part között. Később délután a gyors SKM vonattal Oliwába utazik, hogy megcsodálja a híres katedrálist és orgonáját, majd a napot ennek a városrésznek a csendes légkörében zárja.",
+        "ro": "Folosind transportul public, începeți ziua la istoricul Centru Solidaritatea. După o scurtă plimbare la monumentele șantierului naval, un tramvai vă duce în Orașul Principal. Acolo petreceți prânzul și după-amiaza devreme, plimbându-vă între Piața Lungă, Biserica Sfânta Maria și Cheiul Motława. Mai târziu, luați trenul rapid SKM spre Oliwa pentru a admira faimoasa catedrală și orga sa, încheind ziua în atmosfera liniștită a acestui cartier.",
+        "en": "Using public transport, you start your day at the historically significant Solidarity Centre. After a short walk to the shipyard monuments, a tram takes you to the Main Town. There, you'll spend midday and early afternoon walking between the Long Market, St. Mary's Church, and the Motława Embankment. Later in the afternoon, you take the fast SKM train to Oliwa to admire the famous cathedral and its organ, ending the day in the quiet atmosphere of this district."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gdański Bowke",
+            "tip": "Ein beliebtes Restaurant am Ufer mit traditioneller Küche und eigenem Bier."
+          },
+          {
+            "name": "Pączki (Donuts)",
+            "tip": "Suchen Sie nach einer 'Pączkarnia' für frische, warme polnische Donuts."
+          },
+          {
+            "name": "Restauracja Kubicki",
+            "tip": "Das älteste Restaurant in Danzig, ein Erlebnis für sich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gdański Bowke",
+            "tip": "Népszerű étterem a folyóparton, hagyományos konyhával és saját sörrel."
+          },
+          {
+            "name": "Pączki (fánk)",
+            "tip": "Keressen egy 'Pączkarnia'-t friss, meleg lengyel fánkért."
+          },
+          {
+            "name": "Restauracja Kubicki",
+            "tip": "Gdańsk legrégebbi étterme, önmagában is egy élmény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gdański Bowke",
+            "tip": "Un restaurant popular pe chei, cu bucătărie tradițională și bere proprie."
+          },
+          {
+            "name": "Pączki (gogoși)",
+            "tip": "Căutați o 'Pączkarnia' pentru gogoși poloneze proaspete și calde."
+          },
+          {
+            "name": "Restauracja Kubicki",
+            "tip": "Cel mai vechi restaurant din Gdańsk, o experiență în sine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gdański Bowke",
+            "tip": "A popular restaurant on the embankment with traditional cuisine and its own beer."
+          },
+          {
+            "name": "Pączki (Doughnuts)",
+            "tip": "Look for a 'Pączkarnia' for fresh, warm Polish doughnuts."
+          },
+          {
+            "name": "Restauracja Kubicki",
+            "tip": "The oldest restaurant in Gdańsk, an experience in itself."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bank in der Nähe der Philharmonie",
+            "tip": "Ein ruhiger Ort auf der anderen Seite des Flusses mit Blick auf das Krantor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof der Nichtvorhandenen Friedhöfe",
+            "tip": "Ein nachdenklich stimmender Ort in der Nähe des Solidarność-Zentrums.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanischer Garten in Oliwa",
+            "tip": "Teil des Oliwa-Parks, ein sehr friedlicher Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a Filharmónia közelében",
+            "tip": "Csendes hely a folyó túloldalán, kilátással a Darura.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nem Létező Temetők Temetője",
+            "tip": "Gondolatébresztő hely a Szolidaritás Központ közelében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanikus Kert Oliwában",
+            "tip": "Az Oliwa Park része, nagyon békés hely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă lângă Filarmonică",
+            "tip": "Un loc liniștit pe cealaltă parte a râului, cu vedere la Macara.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Cimitirelor Inexistente",
+            "tip": "Un loc care îndeamnă la reflecție, aproape de Centrul Solidaritatea.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Botanică din Oliwa",
+            "tip": "Parte a Parcului Oliwa, un loc foarte pașnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bench near the Philharmonic",
+            "tip": "A quiet spot on the other side of the river with a view of the Crane.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery of Non-Existent Cemeteries",
+            "tip": "A thought-provoking place near the Solidarity Centre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanical Garden in Oliwa",
+            "tip": "Part of Oliwa Park, a very peaceful place.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Langer Markt (Długi Targ)",
+            "tip": "Hier finden Sie viele Souvenirläden, aber auch hochwertige Handwerkskunst."
+          },
+          {
+            "name": "Keramik aus Bolesławiec (Bunzlau)",
+            "tip": "Suchen Sie nach Geschäften, die diese berühmte polnische Keramik verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hosszú Piac (Długi Targ)",
+            "tip": "Sok ajándékboltot talál itt, de minőségi kézműves termékeket is."
+          },
+          {
+            "name": "Bolesławieci kerámia",
+            "tip": "Keressen olyan üzleteket, amelyek ezt a híres lengyel kerámiát árulják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Lungă (Długi Targ)",
+            "tip": "Veți găsi multe magazine de suveniruri aici, dar și artizanat de înaltă calitate."
+          },
+          {
+            "name": "Ceramică de Bolesławiec",
+            "tip": "Căutați magazine care vând această faimoasă ceramică poloneză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Long Market (Długi Targ)",
+            "tip": "You'll find many souvenir shops here, but also high-quality crafts."
+          },
+          {
+            "name": "Bolesławiec Pottery",
+            "tip": "Look for shops selling this famous Polish pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 24-Stunden-Karte für den öffentlichen Nahverkehr, sie gilt für Busse, Straßenbahnen und SKM-Züge innerhalb der Stadt.",
+          "Die App 'Jakdojade' ist unerlässlich für die Planung von Routen mit öffentlichen Verkehrsmitteln in Polen.",
+          "Validieren Sie Ihr Ticket immer sofort nach dem Einsteigen, um eine Strafe zu vermeiden.",
+          "Die SKM-Züge nach Sopot und Gdynia fahren sehr häufig und sind eine gute Möglichkeit, die Dreistadt zu erkunden."
+        ],
+        "hu": [
+          "Vásároljon 24 órás tömegközlekedési jegyet, amely érvényes a városi buszokra, villamosokra és SKM vonatokra.",
+          "A 'Jakdojade' alkalmazás elengedhetetlen a lengyelországi tömegközlekedési útvonalak tervezéséhez.",
+          "Felszállás után azonnal érvényesítse a jegyét, hogy elkerülje a bírságot.",
+          "Az SKM vonatok Sopotba és Gdyniába nagyon gyakran járnak, és jó lehetőséget kínálnak a Hármasváros felfedezésére."
+        ],
+        "ro": [
+          "Cumpărați un bilet de 24 de ore pentru transportul public, este valabil pentru autobuze, tramvaie și trenuri SKM în oraș.",
+          "Aplicația 'Jakdojade' este esențială pentru planificarea rutelor de transport public în Polonia.",
+          "Validați întotdeauna biletul imediat după urcare pentru a evita o amendă.",
+          "Trenurile SKM către Sopot și Gdynia circulă foarte des și sunt o modalitate bună de a explora Tri-City."
+        ],
+        "en": [
+          "Buy a 24-hour public transport ticket, it's valid on buses, trams, and SKM trains within the city.",
+          "The 'Jakdojade' app is essential for planning public transport routes in Poland.",
+          "Always validate your ticket immediately after boarding to avoid a fine.",
+          "The SKM trains to Sopot and Gdynia are very frequent and a great way to explore the Tri-City."
+        ]
+      }
+    }
+  }
+}

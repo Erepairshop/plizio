@@ -1,0 +1,1223 @@
+{
+  "city_id": "finland-karkkila-cities-v2",
+  "anchor": {
+    "name": "Karkkila",
+    "coords": [
+      24.2111,
+      60.5361
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fagerkulla Wohngebiet",
+            "hu": "Fagerkulla lakónegyed",
+            "ro": "Cartierul rezidențial Fagerkulla",
+            "en": "Fagerkulla Residential Area"
+          },
+          "coords": [
+            24.213,
+            60.537
+          ],
+          "category": "old-town",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die einzigartige Holzarchitektur, die für diese Region typisch ist.",
+            "hu": "Figyelje meg az egyedi, erre a régióra jellemző faépítészetet.",
+            "ro": "Observați arhitectura unică din lemn, tipică acestei regiuni.",
+            "en": "Look for the unique wooden architecture typical of this region."
+          }
+        },
+        {
+          "name": {
+            "de": "Bremer Herrenhaus",
+            "hu": "Bremer-udvarház",
+            "ro": "Conacul Bremer",
+            "en": "Bremer Mansion"
+          },
+          "coords": [
+            24.209,
+            60.539
+          ],
+          "category": "famous-residences",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Herrenhaus ist oft nur von außen zu besichtigen, aber der umliegende Garten ist wunderschön.",
+            "hu": "A kúria gyakran csak kívülről látogatható, de a környező kert gyönyörű.",
+            "ro": "Conacul poate fi vizitat adesea doar din exterior, dar grădina înconjurătoare este frumoasă.",
+            "en": "The mansion is often only viewable from the outside, but the surrounding garden is beautiful."
+          }
+        },
+        {
+          "name": {
+            "de": "Hochofen Högfors",
+            "hu": "Högforsi nagyolvasztó",
+            "ro": "Furnalul Högfors",
+            "en": "Högfors Blast Furnace"
+          },
+          "coords": [
+            24.205,
+            60.541
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Denkmal der finnischen Industriegeschichte. Nehmen Sie sich Zeit für die Infotafeln.",
+            "hu": "A finn ipartörténet lenyűgöző emlékműve. Szánjon időt az információs táblákra.",
+            "ro": "Un monument impresionant al istoriei industriale finlandeze. Acordați-vă timp pentru panourile informative.",
+            "en": "An impressive monument to Finnish industrial history. Take time to read the info boards."
+          }
+        },
+        {
+          "name": {
+            "de": "Gießereimuseum",
+            "hu": "Öntödei Múzeum",
+            "ro": "Muzeul Turnătoriei",
+            "en": "Foundry Museum"
+          },
+          "coords": [
+            24.206,
+            60.54
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich direkt neben dem Hochofen und bietet einen tieferen Einblick in die Arbeit der Gießerei.",
+            "hu": "A múzeum közvetlenül a nagyolvasztó mellett található, és mélyebb betekintést nyújt az öntöde munkájába.",
+            "ro": "Muzeul este situat chiar lângă furnal și oferă o perspectivă mai profundă asupra muncii din turnătorie.",
+            "en": "The museum is right next to the blast furnace and offers a deeper insight into the foundry's work."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Karkkila",
+            "hu": "Karkkilai templom",
+            "ro": "Biserica din Karkkila",
+            "en": "Church of Karkkila"
+          },
+          "coords": [
+            24.215,
+            60.535
+          ],
+          "category": "churches",
+          "arrive_at": "13:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Eine schlichte, aber schöne moderne Kirche. Genießen Sie die friedliche Atmosphäre im Inneren.",
+            "hu": "Egyszerű, de gyönyörű modern templom. Élvezze a békés légkört bent.",
+            "ro": "O biserică modernă simplă, dar frumoasă. Bucurați-vă de atmosfera liniștită din interior.",
+            "en": "A simple but beautiful modern church. Enjoy the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Ala-Emäkoski Stromschnellen",
+            "hu": "Ala-Emäkoski zuhatag",
+            "ro": "Cascadele Ala-Emäkoski",
+            "en": "Ala-Emäkoski Rapids"
+          },
+          "coords": [
+            24.202,
+            60.538
+          ],
+          "category": "natural-features",
+          "arrive_at": "14:12",
+          "stay_min": 103,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort zum Entspannen. Bringen Sie ein Picknick mit und genießen Sie das Rauschen des Wassers.",
+            "hu": "Nagyszerű hely a pihenésre. Hozzon magával piknikkosarat, és élvezze a víz csobogását.",
+            "ro": "Un loc minunat pentru relaxare. Aduceți un picnic și bucurați-vă de sunetul apei.",
+            "en": "A great place to relax. Bring a picnic and enjoy the sound of the rushing water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im charmanten Holzhausviertel Fagerkulla und spazieren Sie zum historischen Bremer Herrenhaus. Das industrielle Herz von Karkkila erwartet Sie am Nachmittag. Der massive Hochofen und das Gießereimuseum erzählen die Geschichte des Ortes. Besichtigen Sie die schlichte Eleganz der Kirche von Karkkila, bevor Sie am Ufer der tosenden Ala-Emäkoski-Stromschnellen entspannen. Der perfekte Abschluss eines Tages voller Entdeckungen.",
+        "hu": "Kezdje a napot a bájos Fagerkulla faházas negyedében, majd sétáljon át a történelmi Bremer-udvarházhoz. Délután Karkkila ipari szíve várja. A hatalmas nagyolvasztó és az Öntödei Múzeum a város történetét meséli el. Tekintse meg a karkkilai templom egyszerű eleganciáját, mielőtt a zubogó Ala-Emäkoski zuhatag partján pihenne. Tökéletes lezárása egy felfedezésekkel teli napnak.",
+        "ro": "Începeți ziua în fermecătorul cartier cu case de lemn Fagerkulla și plimbați-vă până la istoricul Conac Bremer. Inima industrială a orașului Karkkila vă așteaptă după-amiaza. Furnalul masiv și Muzeul Turnătoriei spun povestea locului. Vizitați eleganța simplă a Bisericii din Karkkila înainte de a vă relaxa pe malurile cascadelor zgomotoase Ala-Emäkoski. Finalul perfect pentru o zi plină de descoperiri.",
+        "en": "Start your day in the charming Fagerkulla wooden house district and stroll to the historic Bremer Mansion. The industrial heart of Karkkila awaits in the afternoon. The massive blast furnace and the Foundry Museum tell the story of the town. Visit the simple elegance of the Church of Karkkila before relaxing on the banks of the roaring Ala-Emäkoski rapids. The perfect end to a day of discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karjalanpiirakka",
+            "tip": "Herzhaftes Roggengebäck, oft mit Eibutter serviert. In lokalen Bäckereien zu finden."
+          },
+          {
+            "name": "Lohikeitto",
+            "tip": "Eine cremige Lachssuppe, perfekt für kühle Tage. Probieren Sie sie im Restaurant Wanha-Karkkila."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karjalanpiirakka",
+            "tip": "Kínáló rozskenyer, gyakran tojásvajjal szolgálva. Helyi pékségekben kapható."
+          },
+          {
+            "name": "Lohikeitto",
+            "tip": "Krémes lazacleves, tökéletes a hűvös napokra. Kóstolja meg a Wanha-Karkkila étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karjalanpiirakka",
+            "tip": "Plăcintă de secară savuroasă, adesea servită cu unt de ou. Se găsește în brutăriile locale."
+          },
+          {
+            "name": "Lohikeitto",
+            "tip": "O supă cremoasă de somon, perfectă pentru zilele răcoroase. Încercați-o la restaurantul Wanha-Karkkila."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karjalanpiirakka",
+            "tip": "A savory rye pastry, often served with egg butter. Found in local bakeries."
+          },
+          {
+            "name": "Lohikeitto",
+            "tip": "A creamy salmon soup, perfect for cool days. Try it at Restaurant Wanha-Karkkila."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Ala-Emäkoski",
+            "tip": "Setzen Sie sich auf einen Felsen und lauschen Sie dem Wasser.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchpark",
+            "tip": "Ein ruhiger Ort für eine kurze Pause im Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ala-Emäkoski partja",
+            "tip": "Üljön le egy sziklára és hallgassa a víz hangját.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "Csendes hely egy rövid szünetre a városközpontban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile Ala-Emäkoski",
+            "tip": "Stați pe o stâncă și ascultați sunetul apei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul bisericii",
+            "tip": "Un loc liniștit pentru o scurtă pauză în centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of Ala-Emäkoski",
+            "tip": "Sit on a rock and listen to the water.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church Park",
+            "tip": "A quiet spot for a short break in the town center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksprodukte",
+            "tip": "Suchen Sie nach kleinen Geschäften, die von lokalen Handwerkern hergestellte Wollwaren oder Holzschnitzereien verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kis üzleteket, amelyek helyi kézművesek által készített gyapjúárut vagy fafaragásokat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse artizanale locale",
+            "tip": "Căutați mici magazine care vând articole din lână sau sculpturi în lemn realizate de artizani locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local handicrafts",
+            "tip": "Look for small shops selling woolens or wood carvings made by local artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf unebenem Gelände unterwegs sein werden.",
+          "Einige Museen haben eingeschränkte Öffnungszeiten, überprüfen Sie diese im Voraus.",
+          "Das Wetter in Finnland kann sich schnell ändern, packen Sie eine Regenjacke ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog sétálni egyenetlen terepen.",
+          "Néhány múzeum nyitvatartása korlátozott, ellenőrizze előre.",
+          "Az időjárás Finnországban gyorsan változhat, csomagoljon esőkabátot."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe teren accidentat.",
+          "Unele muzee au program limitat, verificați în avans.",
+          "Vremea în Finlanda se poate schimba rapid, împachetați o jachetă de ploaie."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot on uneven terrain.",
+          "Some museums have limited opening hours, check them in advance.",
+          "The weather in Finland can change quickly, pack a raincoat."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hochofen Högfors & Gießereimuseum",
+            "hu": "Högforsi nagyolvasztó és Öntödei Múzeum",
+            "ro": "Furnalul Högfors și Muzeul Turnătoriei",
+            "en": "Högfors Blast Furnace & Foundry Museum"
+          },
+          "coords": [
+            24.205,
+            60.541
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie das gesamte Industriegebiet zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel gyalog az egész ipari területet.",
+            "ro": "Parcați bicicleta și explorați întreaga zonă industrială pe jos.",
+            "en": "Park your bike and explore the entire industrial area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ala-Emäkoski Stromschnellen",
+            "hu": "Ala-Emäkoski zuhatag",
+            "ro": "Cascadele Ala-Emäkoski",
+            "en": "Ala-Emäkoski Rapids"
+          },
+          "coords": [
+            24.202,
+            60.538
+          ],
+          "category": "natural-features",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer, einfacher Radweg führt vom Industriegebiet hierher.",
+            "hu": "Egy rövid, könnyű kerékpárút vezet ide az ipari területről.",
+            "ro": "O pistă de biciclete scurtă și ușoară duce aici din zona industrială.",
+            "en": "A short, easy bike path leads here from the industrial area."
+          }
+        },
+        {
+          "name": {
+            "de": "Tehtaanpuisto Park",
+            "hu": "Tehtaanpuisto Park",
+            "ro": "Parcul Tehtaanpuisto",
+            "en": "Tehtaanpuisto Park"
+          },
+          "coords": [
+            24.21,
+            60.538
+          ],
+          "category": "parks",
+          "arrive_at": "11:48",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine kurze Pause, bevor Sie ins Stadtzentrum radeln.",
+            "hu": "Szép hely egy rövid szünetre, mielőtt a városközpontba biciklizne.",
+            "ro": "Un loc frumos pentru o scurtă pauză înainte de a merge cu bicicleta în centrul orașului.",
+            "en": "A nice spot for a short break before cycling to the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Fagerkulla Wohngebiet",
+            "hu": "Fagerkulla lakónegyed",
+            "ro": "Cartierul rezidențial Fagerkulla",
+            "en": "Fagerkulla Residential Area"
+          },
+          "coords": [
+            24.213,
+            60.537
+          ],
+          "category": "old-town",
+          "arrive_at": "12:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Radeln Sie langsam durch die Straßen, um die Details der Holzhäuser zu bewundern.",
+            "hu": "Lassan biciklizzen végig az utcákon, hogy megcsodálhassa a faházak részleteit.",
+            "ro": "Mergeți încet cu bicicleta pe străzi pentru a admira detaliile caselor din lemn.",
+            "en": "Cycle slowly through the streets to admire the details of the wooden houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Karkkila",
+            "hu": "Karkkilai templom",
+            "ro": "Biserica din Karkkila",
+            "en": "Church of Karkkila"
+          },
+          "coords": [
+            24.215,
+            60.535
+          ],
+          "category": "churches",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer direkt vor der Kirche.",
+            "hu": "A templom előtt kerékpártárolók találhatók.",
+            "ro": "Există suporturi pentru biciclete chiar în fața bisericii.",
+            "en": "There are bike racks right in front of the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyhäjärvi See",
+            "hu": "Pyhäjärvi-tó",
+            "ro": "Lacul Pyhäjärvi",
+            "en": "Pyhäjärvi Lake"
+          },
+          "coords": [
+            24.255,
+            60.55
+          ],
+          "category": "natural-features",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der Radweg zum See ist malerisch. Es gibt einen Strand, an dem Sie sich an einem warmen Tag abkühlen können.",
+            "hu": "A tóhoz vezető kerékpárút festői. Van egy strand, ahol egy meleg napon lehűlhet.",
+            "ro": "Pista de biciclete spre lac este pitorească. Există o plajă unde vă puteți răcori într-o zi caldă.",
+            "en": "The bike path to the lake is scenic. There's a beach where you can cool off on a warm day."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Stadtzentrum",
+            "hu": "Vissza a városközpontba",
+            "ro": "Înapoi în centrul orașului",
+            "en": "Return to Town Center"
+          },
+          "coords": [
+            24.2111,
+            60.5361
+          ],
+          "category": "gastro",
+          "arrive_at": "15:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem späten Mittagessen oder einem Kaffee in einem der Cafés im Zentrum.",
+            "hu": "Zárja a túrát egy késői ebéddel vagy egy kávéval a központ egyik kávézójában.",
+            "ro": "Încheiați-vă turul cu un prânz târziu sau o cafea la una dintre cafenelele din centru.",
+            "en": "End your tour with a late lunch or a coffee at one of the cafés in the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Karkkila mit dem Fahrrad, beginnend im Industriegebiet Högfors. Nach einem Einblick in die Geschichte radeln Sie zu den Ala-Emäkoski-Stromschnellen. Eine kurze Pause im Tehtaanpuisto-Park bereitet Sie auf das charmante Fagerkulla-Viertel vor. Nach dem Besuch der Kirche führt eine längere, malerische Fahrt zum Pyhäjärvi-See, ideal für eine ausgedehnte Pause. Kehren Sie ins Zentrum zurück, um den Tag bei einem wohlverdienten Essen ausklingen zu lassen.",
+        "hu": "Fedezze fel Karkkilát kerékpárral, kezdve a Högfors ipari negyedben. A történelembe való betekintés után tekerjen az Ala-Emäkoski zuhataghoz. A Tehtaanpuisto parkban tartott rövid szünet felkészíti a bájos Fagerkulla negyedre. A templom meglátogatása után egy hosszabb, festői út vezet a Pyhäjärvi-tóhoz, amely ideális egy hosszabb pihenőre. Térjen vissza a központba, hogy egy jól megérdemelt étkezéssel zárja a napot.",
+        "ro": "Explorați Karkkila pe bicicletă, începând din zona industrială Högfors. După o incursiune în istorie, pedalați spre cascadele Ala-Emäkoski. O scurtă pauză în parcul Tehtaanpuisto vă pregătește pentru fermecătorul cartier Fagerkulla. După vizitarea bisericii, o plimbare mai lungă și pitorească duce la lacul Pyhäjärvi, ideal pentru o pauză extinsă. Întoarceți-vă în centru pentru a încheia ziua cu o masă binemeritată.",
+        "en": "Explore Karkkila by bike, starting in the Högfors industrial area. After a glimpse into history, cycle to the Ala-Emäkoski rapids. A short break in Tehtaanpuisto Park prepares you for the charming Fagerkulla district. After visiting the church, a longer, scenic ride leads to Lake Pyhäjärvi, ideal for an extended break. Return to the center to end the day with a well-deserved meal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Korvapuusti",
+            "tip": "Finnische Zimtschnecken, perfekt als Energieschub für Radfahrer. In jeder Bäckerei erhältlich."
+          },
+          {
+            "name": "Grillimakkara",
+            "tip": "Bratwurst, die oft am offenen Feuer gegrillt wird. Suchen Sie nach Grillplätzen am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Korvapuusti",
+            "tip": "Finn fahéjas csiga, tökéletes energiafröccs a bicikliseknek. Minden pékségben kapható."
+          },
+          {
+            "name": "Grillimakkara",
+            "tip": "Grillezett kolbász, amelyet gyakran nyílt tűzön sütnek. Keressen grillhelyeket a tó partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Korvapuusti",
+            "tip": "Rulouri finlandeze cu scorțișoară, perfecte pentru un plus de energie pentru bicicliști. Disponibile în orice brutărie."
+          },
+          {
+            "name": "Grillimakkara",
+            "tip": "Cârnați la grătar, adesea gătiți pe foc deschis. Căutați locuri de grătar lângă lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Korvapuusti",
+            "tip": "Finnish cinnamon buns, a perfect energy boost for cyclists. Available at any bakery."
+          },
+          {
+            "name": "Grillimakkara",
+            "tip": "Grilled sausage, often cooked over an open fire. Look for grill spots by the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pyhäjärvi Seeufer",
+            "tip": "Finden Sie eine ruhige Bucht und genießen Sie die Stille des Sees.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tehtaanpuisto Park",
+            "tip": "Ein kleiner, aber friedlicher Park am Fluss.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pyhäjärvi-tó partja",
+            "tip": "Keressen egy csendes öblöt és élvezze a tó csendjét.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tehtaanpuisto Park",
+            "tip": "Kicsi, de békés park a folyó mellett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Pyhäjärvi",
+            "tip": "Găsiți un golf liniștit și bucurați-vă de liniștea lacului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Tehtaanpuisto",
+            "tip": "Un parc mic, dar pașnic, lângă râu.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pyhäjärvi lake shore",
+            "tip": "Find a quiet cove and enjoy the silence of the lake.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tehtaanpuisto Park",
+            "tip": "A small but peaceful park by the river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt für Picknick",
+            "tip": "Kaufen Sie lokale Snacks für Ihre Pause am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarket a piknikhez",
+            "tip": "Vásároljon helyi harapnivalókat a tavi szünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket pentru picnic",
+            "tip": "Cumpărați gustări locale pentru pauza de la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarket for picnic",
+            "tip": "Buy some local snacks for your break at the lake."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein Fahrradschloss mit.",
+          "Die Wege zum See können unbefestigt sein, ein Mountainbike oder Trekkingrad ist von Vorteil.",
+          "Denken Sie an Wasser und Snacks."
+        ],
+        "hu": [
+          "Hozzon magával kerékpárzárat.",
+          "A tóhoz vezető utak lehetnek burkolatlanok, egy mountain bike vagy trekking kerékpár előnyös.",
+          "Gondoljon a vízre és a harapnivalókra."
+        ],
+        "ro": [
+          "Aduceți un lacăt de bicicletă.",
+          "Căile spre lac pot fi neasfaltate, o bicicletă de munte sau de trekking este avantajoasă.",
+          "Nu uitați de apă și gustări."
+        ],
+        "en": [
+          "Bring a bike lock.",
+          "The paths to the lake can be unpaved, a mountain or trekking bike is advantageous.",
+          "Remember to bring water and snacks."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 11.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Pyhäjärvi See",
+            "hu": "1. klaszter: Pyhäjärvi-tó",
+            "ro": "Cluster 1: Lacul Pyhäjärvi",
+            "en": "Cluster 1: Pyhäjärvi Lake"
+          },
+          "coords": [
+            24.255,
+            60.55
+          ],
+          "category": "natural-features",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in der Natur. Parken Sie am Strand und machen Sie einen Spaziergang am Ufer.",
+            "hu": "Kezdje a napot a természetben. Parkoljon a strandnál és tegyen egy sétát a parton.",
+            "ro": "Începeți ziua în natură. Parcați la plajă și faceți o plimbare pe mal.",
+            "en": "Start the day in nature. Park at the beach and take a walk along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Högfors Industriegebiet",
+            "hu": "2. klaszter: Högfors ipari terület",
+            "ro": "Cluster 2: Zona Industrială Högfors",
+            "en": "Cluster 2: Högfors Industrial Area"
+          },
+          "coords": [
+            24.205,
+            60.541
+          ],
+          "category": "parking",
+          "arrive_at": "10:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die nächsten drei Stationen zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel a következő három megállót gyalog.",
+            "ro": "Parcați aici și explorați următoarele trei opriri pe jos.",
+            "en": "Park here and explore the next three stops on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hochofen Högfors",
+            "hu": "Högforsi nagyolvasztó",
+            "ro": "Furnalul Högfors",
+            "en": "Högfors Blast Furnace"
+          },
+          "coords": [
+            24.205,
+            60.541
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "10:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herzstück des Industrieerbes von Karkkila.",
+            "hu": "Karkkila ipari örökségének szíve.",
+            "ro": "Inima patrimoniului industrial din Karkkila.",
+            "en": "The heart of Karkkila's industrial heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Gießereimuseum",
+            "hu": "Öntödei Múzeum",
+            "ro": "Muzeul Turnătoriei",
+            "en": "Foundry Museum"
+          },
+          "coords": [
+            24.206,
+            60.54
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben dem Hochofen gelegen, für ein umfassendes Erlebnis.",
+            "hu": "Közvetlenül a nagyolvasztó mellett található a teljes élmény érdekében.",
+            "ro": "Situat chiar lângă furnal pentru o experiență completă.",
+            "en": "Located right next to the blast furnace for a comprehensive experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Ala-Emäkoski Stromschnellen",
+            "hu": "Ala-Emäkoski zuhatag",
+            "ro": "Cascadele Ala-Emäkoski",
+            "en": "Ala-Emäkoski Rapids"
+          },
+          "coords": [
+            24.202,
+            60.538
+          ],
+          "category": "natural-features",
+          "arrive_at": "12:57",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum entfernt, um die Kraft der Natur zu spüren.",
+            "hu": "Rövid séta a múzeumtól, hogy érezze a természet erejét.",
+            "ro": "La o scurtă plimbare de muzeu pentru a simți puterea naturii.",
+            "en": "A short walk from the museum to feel the power of nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Stadtzentrum",
+            "hu": "3. klaszter: Városközpont",
+            "ro": "Cluster 3: Centrul orașului",
+            "en": "Cluster 3: Town Center"
+          },
+          "coords": [
+            24.214,
+            60.536
+          ],
+          "category": "gastro",
+          "arrive_at": "13:42",
+          "stay_min": 133,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum, essen Sie zu Mittag und erkunden Sie die Kirche und Fagerkulla.",
+            "hu": "Parkoljon a központban, ebédeljen, majd fedezze fel a templomot és Fagerkullát.",
+            "ro": "Parcați în centru, luați prânzul și explorați biserica și Fagerkulla.",
+            "en": "Park in the center, have lunch, and explore the church and Fagerkulla."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Freiheit, den Tag am ruhigen Pyhäjärvi-See zu beginnen. Nach einem erfrischenden Spaziergang fahren Sie zum Industriegebiet Högfors. Parken Sie Ihr Auto und erkunden Sie den Hochofen, das Gießereimuseum und die nahegelegenen Ala-Emäkoski-Stromschnellen zu Fuß. Am Nachmittag fahren Sie ins Zentrum von Karkkila, wo Sie zu Mittag essen und die charmanten Holzhäuser von Fagerkulla und die moderne Kirche der Stadt besichtigen können.",
+        "hu": "Az autó szabadságot ad, hogy a napot a csendes Pyhäjärvi-tónál kezdje. Egy frissítő séta után vezessen a Högfors ipari negyedbe. Parkolja le az autót, és fedezze fel gyalog a nagyolvasztót, az Öntödei Múzeumot és a közeli Ala-Emäkoski zuhatagot. Délután irány Karkkila központja, ahol megebédelhet, és felfedezheti Fagerkulla bájos faházait és a város modern templomát.",
+        "ro": "Cu mașina, aveți libertatea de a începe ziua la liniștitul lac Pyhäjärvi. După o plimbare revigorantă, conduceți spre zona industrială Högfors. Parcați mașina și explorați pe jos furnalul, Muzeul Turnătoriei și cascadele Ala-Emäkoski din apropiere. După-amiaza, mergeți în centrul orașului Karkkila pentru prânz și pentru a explora fermecătoarele case de lemn din Fagerkulla și biserica modernă a orașului.",
+        "en": "With a car, you have the freedom to start the day at the tranquil Pyhäjärvi Lake. After a refreshing walk, drive to the Högfors industrial area. Park your car and explore the blast furnace, Foundry Museum, and the nearby Ala-Emäkoski rapids on foot. In the afternoon, head to the center of Karkkila for lunch and to explore the charming wooden houses of Fagerkulla and the town's modern church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Wanha-Karkkila",
+            "tip": "Bekannt für traditionelle finnische Küche in einem historischen Ambiente."
+          },
+          {
+            "name": "Tankstelle ABC",
+            "tip": "Für einen schnellen und unkomplizierten Happen, bietet überraschend gute Mahlzeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wanha-Karkkila étterem",
+            "tip": "Hagyományos finn konyhájáról ismert, történelmi környezetben."
+          },
+          {
+            "name": "ABC benzinkút",
+            "tip": "Egy gyors és egyszerű falathoz, meglepően jó ételeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Wanha-Karkkila",
+            "tip": "Cunoscut pentru bucătăria tradițională finlandeză într-un cadru istoric."
+          },
+          {
+            "name": "Benzinăria ABC",
+            "tip": "Pentru o masă rapidă și simplă, oferă mâncăruri surprinzător de bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Wanha-Karkkila",
+            "tip": "Known for traditional Finnish cuisine in a historic setting."
+          },
+          {
+            "name": "ABC gas station",
+            "tip": "For a quick and uncomplicated bite, offers surprisingly good meals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pyhäjärvi Seeufer am Morgen",
+            "tip": "Genießen Sie die Stille, bevor andere Besucher ankommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang entlang des Flusses",
+            "tip": "Der Weg zwischen dem Museum und den Stromschnellen ist oft sehr ruhig.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pyhäjärvi-tó partja reggel",
+            "tip": "Élvezze a csendet, mielőtt a többi látogató megérkezik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a folyó mentén",
+            "tip": "A múzeum és a zuhatag közötti út gyakran nagyon csendes.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Pyhäjärvi dimineața",
+            "tip": "Bucurați-vă de liniște înainte de sosirea altor vizitatori.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare de-a lungul râului",
+            "tip": "Calea dintre muzeu și cascade este adesea foarte liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pyhäjärvi lake shore in the morning",
+            "tip": "Enjoy the silence before other visitors arrive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk along the river",
+            "tip": "The path between the museum and the rapids is often very quiet.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Högforsin Ruukki Shop",
+            "tip": "Bietet Souvenirs im Zusammenhang mit der Industriegeschichte des Gebiets."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Högforsin Ruukki bolt",
+            "tip": "A terület ipartörténetével kapcsolatos ajándéktárgyakat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Högforsin Ruukki",
+            "tip": "Oferă suveniruri legate de istoria industrială a zonei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Högforsin Ruukki Shop",
+            "tip": "Offers souvenirs related to the area's industrial history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkmöglichkeiten und -beschränkungen im Voraus.",
+          "Das Auto ermöglicht es Ihnen, auch weiter entfernte Naturgebiete zu erkunden.",
+          "Kombinieren Sie Autofahrten mit kurzen Spaziergängen für das beste Erlebnis."
+        ],
+        "hu": [
+          "Ellenőrizze előre a parkolási lehetőségeket és korlátozásokat.",
+          "Az autó lehetővé teszi a távolabbi természeti területek felfedezését is.",
+          "Kombinálja az autózást rövid sétákkal a legjobb élmény érdekében."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile și restricțiile de parcare.",
+          "Mașina vă permite să explorați și zone naturale mai îndepărtate.",
+          "Combinați călătoriile cu mașina cu plimbări scurte pentru cea mai bună experiență."
+        ],
+        "en": [
+          "Check parking options and restrictions in advance.",
+          "The car allows you to explore more distant natural areas as well.",
+          "Combine car rides with short walks for the best experience."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum",
+            "hu": "1. klaszter: Városközpont",
+            "ro": "Cluster 1: Centrul orașului",
+            "en": "Cluster 1: Town Center"
+          },
+          "coords": [
+            24.214,
+            60.536
+          ],
+          "category": "transit-stop",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie an der zentralen Bushaltestelle und erkunden Sie die nächsten Stationen zu Fuß.",
+            "hu": "Kezdje a központi buszmegállónál, és fedezze fel gyalog a következő megállókat.",
+            "ro": "Începeți de la stația centrală de autobuz și explorați următoarele opriri pe jos.",
+            "en": "Start at the central bus stop and explore the next stops on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Karkkila",
+            "hu": "Karkkilai templom",
+            "ro": "Biserica din Karkkila",
+            "en": "Church of Karkkila"
+          },
+          "coords": [
+            24.215,
+            60.535
+          ],
+          "category": "churches",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Csak egy rövid sétára a buszmegállótól.",
+            "ro": "La doar o scurtă plimbare de stația de autobuz.",
+            "en": "Just a short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Fagerkulla Wohngebiet",
+            "hu": "Fagerkulla lakónegyed",
+            "ro": "Cartierul rezidențial Fagerkulla",
+            "en": "Fagerkulla Residential Area"
+          },
+          "coords": [
+            24.213,
+            60.537
+          ],
+          "category": "old-town",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die malerischen Straßen.",
+            "hu": "Sétáljon végig a festői utcákon.",
+            "ro": "Plimbați-vă pe străzile pitorești.",
+            "en": "Stroll through the picturesque streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Högfors Industriegebiet",
+            "hu": "2. klaszter: Högfors ipari terület",
+            "ro": "Cluster 2: Zona Industrială Högfors",
+            "en": "Cluster 2: Högfors Industrial Area"
+          },
+          "coords": [
+            24.204,
+            60.542
+          ],
+          "category": "transit-stop",
+          "arrive_at": "10:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum Industriegebiet. Die nächsten Stationen sind zu Fuß erreichbar.",
+            "hu": "Menjen busszal az ipari negyedbe. A következő megállók gyalogosan elérhetők.",
+            "ro": "Luați autobuzul spre zona industrială. Următoarele opriri sunt la distanță de mers pe jos.",
+            "en": "Take the bus to the industrial area. The next stops are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Hochofen Högfors & Gießereimuseum",
+            "hu": "Högforsi nagyolvasztó és Öntödei Múzeum",
+            "ro": "Furnalul Högfors și Muzeul Turnătoriei",
+            "en": "Högfors Blast Furnace & Foundry Museum"
+          },
+          "coords": [
+            24.205,
+            60.541
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um beide Attraktionen vollständig zu erkunden.",
+            "hu": "Szánjon elegendő időt mindkét látnivaló teljes felfedezésére.",
+            "ro": "Planificați suficient timp pentru a explora pe deplin ambele atracții.",
+            "en": "Allow enough time to fully explore both attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Ala-Emäkoski Stromschnellen & Mittagessen",
+            "hu": "Ala-Emäkoski zuhatag és ebéd",
+            "ro": "Cascadele Ala-Emäkoski și prânz",
+            "en": "Ala-Emäkoski Rapids & Lunch"
+          },
+          "coords": [
+            24.202,
+            60.538
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 185,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang zu den Stromschnellen und essen Sie danach im nahegelegenen Restaurant zu Mittag.",
+            "hu": "Sétáljon el a zuhataghoz, majd ebédeljen a közeli étteremben.",
+            "ro": "Faceți o plimbare până la cascade și apoi luați prânzul la restaurantul din apropiere.",
+            "en": "Take a walk to the rapids and then have lunch at the nearby restaurant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um Karkkila zu entdecken. Beginnen Sie im Zentrum mit einem Spaziergang zur Kirche und durch das Fagerkulla-Viertel. Anschließend bringt Sie ein Bus zum beeindruckenden Industriegebiet Högfors. Hier können Sie den Hochofen und das Museum erkunden, bevor Sie einen entspannten Spaziergang zu den Ala-Emäkoski-Stromschnellen machen, wo Sie den Nachmittag mit einem Mittagessen ausklingen lassen.",
+        "hu": "Használja a tömegközlekedést Karkkila felfedezéséhez. Kezdje a központban egy sétával a templomhoz és a Fagerkulla negyeden keresztül. Ezután egy busz elviszi a lenyűgöző Högfors ipari negyedbe. Itt felfedezheti a nagyolvasztót és a múzeumot, mielőtt egy pihentető sétát tenne az Ala-Emäkoski zuhataghoz, ahol egy ebéddel zárhatja a délutánt.",
+        "ro": "Folosiți transportul public pentru a descoperi Karkkila. Începeți în centru cu o plimbare la biserică și prin cartierul Fagerkulla. Apoi, un autobuz vă va duce în impresionanta zonă industrială Högfors. Aici puteți explora furnalul și muzeul înainte de a face o plimbare relaxantă la cascadele Ala-Emäkoski, unde puteți încheia după-amiaza cu un prânz.",
+        "en": "Use public transport to discover Karkkila. Start in the center with a walk to the church and through the Fagerkulla district. Then, a bus will take you to the impressive Högfors industrial area. Here you can explore the blast furnace and museum before taking a relaxing walk to the Ala-Emäkoski rapids, where you can end the afternoon with lunch."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Café im Zentrum",
+            "tip": "Genießen Sie einen Kaffee und Gebäck, bevor Sie Ihre Tour beginnen."
+          },
+          {
+            "name": "Restaurant am Fluss",
+            "tip": "Einige Restaurants in der Nähe der Stromschnellen bieten eine tolle Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kávézó a központban",
+            "tip": "Élvezzen egy kávét és süteményt, mielőtt elkezdi a túrát."
+          },
+          {
+            "name": "Étterem a folyóparton",
+            "tip": "Néhány étterem a zuhatag közelében nagyszerű kilátást kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea locală în centru",
+            "tip": "Bucurați-vă de o cafea și produse de patiserie înainte de a începe turul."
+          },
+          {
+            "name": "Restaurant pe malul râului",
+            "tip": "Unele restaurante de lângă cascade oferă o priveliște minunată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local café in the center",
+            "tip": "Enjoy a coffee and pastry before starting your tour."
+          },
+          {
+            "name": "Riverside restaurant",
+            "tip": "Some restaurants near the rapids offer a great view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang durch Fagerkulla",
+            "tip": "Die ruhigen Straßen sind perfekt für eine besinnliche Zeit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick auf die Stromschnellen",
+            "tip": "Finden Sie einen Platz zum Sitzen und beobachten Sie das fließende Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta Fagerkullán keresztül",
+            "tip": "A csendes utcák tökéletesek egy kis elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a zuhatagra",
+            "tip": "Keressen egy helyet, ahol leülhet és nézheti a hömpölygő vizet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare prin Fagerkulla",
+            "tip": "Străzile liniștite sunt perfecte pentru un moment de contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere la cascade",
+            "tip": "Găsiți un loc unde să stați și să priviți apa curgând.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk through Fagerkulla",
+            "tip": "The quiet streets are perfect for some contemplative time.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View of the rapids",
+            "tip": "Find a spot to sit and watch the flowing water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "K-Market Karkkila",
+            "tip": "Ein Supermarkt im Zentrum für alle notwendigen Einkäufe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "K-Market Karkkila",
+            "tip": "Egy szupermarket a központban minden szükséges bevásárláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "K-Market Karkkila",
+            "tip": "Un supermarket în centru pentru toate cumpărăturile necesare."
+          }
+        ],
+        "en": [
+          {
+            "name": "K-Market Karkkila",
+            "tip": "A supermarket in the center for any necessary purchases."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Informieren Sie sich über den Busfahrplan, da die Busse möglicherweise nicht sehr häufig fahren.",
+          "Seien Sie bereit, zwischen den Haltestellen in den Clustern zu Fuß zu gehen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Tájékozódjon a buszmenetrendről, mivel a buszok nem biztos, hogy túl gyakran közlekednek.",
+          "Készüljön fel a gyaloglásra a klasztereken belüli megállók között."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați orarul autobuzelor, deoarece este posibil ca acestea să nu circule foarte des.",
+          "Fiți pregătiți să mergeți pe jos între stațiile din clustere."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan multiple trips.",
+          "Check the bus schedule, as buses may not run very frequently.",
+          "Be prepared to walk between stops within the clusters."
+        ]
+      }
+    }
+  }
+}

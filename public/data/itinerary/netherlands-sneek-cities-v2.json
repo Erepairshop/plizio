@@ -1,0 +1,1436 @@
+{
+  "city_id": "netherlands-sneek-cities-v2",
+  "anchor": {
+    "name": "Sneek",
+    "coords": [
+      53.03,
+      5.66
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Waterpoort",
+            "hu": "Érkezés a Vízi kapuhoz",
+            "ro": "Sosire la Poarta de Apă (Waterpoort)",
+            "en": "Arrival at the Waterpoort"
+          },
+          "coords": [
+            5.6555,
+            53.0335
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie das klassische Foto von Sweeks Wahrzeichen. Die Brücke ist rund um die Uhr zugänglich.",
+            "hu": "Készítsd el a klasszikus fotót Sneek jelképéről. A híd éjjel-nappal megtekinthető.",
+            "ro": "Faceți fotografia clasică a simbolului orașului Sneek. Podul este accesibil non-stop.",
+            "en": "Take the classic photo of Sneek's landmark. The bridge is accessible 24/7."
+          }
+        },
+        {
+          "name": {
+            "de": "Martinikerk",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sf. Martin (Martinikerk)",
+            "en": "St. Martin's Church (Martinikerk)"
+          },
+          "coords": [
+            5.6601,
+            53.0321
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die geschnitzten Details im Inneren und die beeindruckende Orgel.",
+            "hu": "Figyeld meg a belső faragott részleteket és a lenyűgöző orgonát.",
+            "ro": "Observați detaliile sculptate din interior și orga impresionantă.",
+            "en": "Look for the carved details inside and the impressive organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadhuis Sneek",
+            "hu": "Városháza",
+            "ro": "Primăria (Stadhuis Sneek)",
+            "en": "City Hall (Stadhuis Sneek)"
+          },
+          "coords": [
+            5.6592,
+            53.0315
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die reich verzierte Rokoko-Fassade. Das Gebäude ist besonders fotogen.",
+            "hu": "Csodáld meg a gazdagon díszített rokokó homlokzatot. Az épület különösen fotogén.",
+            "ro": "Admirați fațada rococo bogat decorată. Clădirea este deosebit de fotogenică.",
+            "en": "Admire the ornate Rococo facade. The building is especially photogenic."
+          }
+        },
+        {
+          "name": {
+            "de": "Fries Scheepvaart Museum",
+            "hu": "Fríz Hajózási Múzeum",
+            "ro": "Muzeul Maritim Frizian",
+            "en": "Frisian Maritime Museum"
+          },
+          "coords": [
+            5.6578,
+            53.0338
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein; das Museum ist größer als es scheint und sehr fesselnd.",
+            "hu": "Szánj rá elég időt; a múzeum nagyobb, mint amilyennek látszik, és nagyon lebilincselő.",
+            "ro": "Planificați suficient timp; muzeul este mai mare decât pare și foarte captivant.",
+            "en": "Plan enough time; the museum is larger than it seems and very engaging."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "E-béééd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            5.661,
+            53.031
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein 'Broodje Beerenburg-vlees', eine lokale Spezialität.",
+            "hu": "Kóstolj meg egy 'Broodje Beerenburg-vlees'-t, egy helyi különlegességet.",
+            "ro": "Încercați un 'Broodje Beerenburg-vlees', o specialitate locală.",
+            "en": "Try a 'Broodje Beerenburg-vlees', a local specialty."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Sneekermeer",
+            "hu": "Séta a Sneekermeer tóhoz",
+            "ro": "Plimbare spre lacul Sneekermeer",
+            "en": "Walk to Sneekermeer Lake"
+          },
+          "coords": [
+            5.7,
+            53.05
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort zum Entspannen. Im Sommer können Sie hier auch Boote mieten.",
+            "hu": "Tökéletes hely a pihenésre. Nyáron csónakot is bérelhetsz itt.",
+            "ro": "Un loc perfect pentru a vă relaxa. Vara, puteți închiria și bărci aici.",
+            "en": "A perfect spot to relax. In summer, you can also rent boats here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am berühmten Waterpoort, dem Symbol von Sneek. Erkunden Sie vormittags das historische Zentrum mit der Martinikerk und dem prächtigen Stadhuis. Nach einem tiefen Einblick in die Seefahrtsgeschichte im Fries Scheepvaart Museum, genießen Sie ein lokales Mittagessen. Der Nachmittag ist einem entspannten Spaziergang zum und am Sneekermeer gewidmet, wo Sie die friesische Wasserlandschaft in vollen Zügen genießen können.",
+        "hu": "Kezdje a napot a híres Waterpoortnál, Sneek szimbólumánál. Délelőtt fedezze fel a történelmi központot a Martinikerkkel és a csodálatos Városházával. Miután mély betekintést nyert a tengerészet történetébe a Fríz Hajózási Múzeumban, élvezzen egy helyi ebédet. A délután a Sneekermeer tóhoz tett pihentető sétáról szól, ahol teljes mértékben élvezheti a fríz vízi tájat.",
+        "ro": "Începeți ziua la faimoasa Poartă de Apă (Waterpoort), simbolul orașului Sneek. Explorați centrul istoric dimineața, cu Biserica Sf. Martin și Primăria magnifică. După o incursiune profundă în istoria maritimă la Muzeul Maritim Frizian, savurați un prânz local. După-amiaza este dedicată unei plimbări relaxante spre și în jurul lacului Sneekermeer, unde vă puteți bucura pe deplin de peisajul acvatic frizian.",
+        "en": "Start your day at the famous Waterpoort, the symbol of Sneek. Explore the historic center in the morning with the Martinikerk and the magnificent City Hall. After a deep dive into maritime history at the Frisian Maritime Museum, enjoy a local lunch. The afternoon is dedicated to a relaxing walk to and around the Sneekermeer lake, where you can fully enjoy the Frisian water landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fryske dúmkes",
+            "tip": "Probieren Sie diese süßen und würzigen friesischen Kekse in einer örtlichen Bäckerei."
+          },
+          {
+            "name": "Beerenburg",
+            "tip": "Ein Kräuterbitter, der oft als Digestif getrunken wird. Wärmt von innen!"
+          },
+          {
+            "name": "De Walrus",
+            "tip": "Ein beliebtes Grand Café im Zentrum, ideal für ein ungezwungenes Mittag- oder Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fryske dúmkes",
+            "tip": "Kóstold meg ezeket az édes és fűszeres fríz kekszeket egy helyi pékségben."
+          },
+          {
+            "name": "Beerenburg",
+            "tip": "Egy gyógynövénylikőr, amelyet gyakran emésztéssegítőként isznak. Belülről melegít!"
+          },
+          {
+            "name": "De Walrus",
+            "tip": "Népszerű grand café a központban, ideális egy laza ebédhez vagy vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fryske dúmkes",
+            "tip": "Încercați acești biscuiți frizieni dulci și picanți la o brutărie locală."
+          },
+          {
+            "name": "Beerenburg",
+            "tip": "Un bitter din plante adesea băut ca digestiv. Te încălzește din interior!"
+          },
+          {
+            "name": "De Walrus",
+            "tip": "O cafenea populară în centru, ideală pentru un prânz sau o cină informală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fryske dúmkes",
+            "tip": "Try these sweet and spicy Frisian cookies at a local bakery."
+          },
+          {
+            "name": "Beerenburg",
+            "tip": "An herbal bitter often drunk as a digestif. It warms you from the inside!"
+          },
+          {
+            "name": "De Walrus",
+            "tip": "A popular grand café in the center, ideal for a casual lunch or dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Sneekermeer",
+            "tip": "Finden Sie eine ruhige Bank am Seeufer und beobachten Sie die Segelboote.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wilhelminapark",
+            "tip": "Ein kleiner, aber feiner Stadtpark für eine kurze Auszeit vom Trubel.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Grachten von Sneek",
+            "tip": "Ein früher Morgenspaziergang entlang der Kanäle, bevor die Stadt erwacht.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Sneekermeer partja",
+            "tip": "Keress egy csendes padot a tóparton, és nézd a vitorlásokat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wilhelminapark",
+            "tip": "Egy kicsi, de szép városi park egy rövid szünetre a nyüzsgéstől.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sneek csatornái",
+            "tip": "Egy kora reggeli séta a csatornák mentén, mielőtt a város felébred.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Sneekermeer",
+            "tip": "Găsiți o bancă liniștită pe malul lacului și priviți bărcile cu pânze.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Wilhelmina",
+            "tip": "Un parc mic, dar frumos, pentru o scurtă pauză de agitația orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Canalele din Sneek",
+            "tip": "O plimbare de dimineață devreme de-a lungul canalelor, înainte ca orașul să se trezească.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Sneekermeer",
+            "tip": "Find a quiet bench by the lake and watch the sailboats.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wilhelminapark",
+            "tip": "A small but lovely city park for a short break from the hustle and bustle.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Canals of Sneek",
+            "tip": "An early morning walk along the canals before the city wakes up.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt am Dienstag & Samstag",
+            "tip": "Kaufen Sie lokalen Käse und frische Produkte direkt von den Erzeugern."
+          },
+          {
+            "name": "Kleine Kerkstraat",
+            "tip": "Bekannt für ihre unabhängigen Boutiquen und einzigartigen Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac kedden és szombaton",
+            "tip": "Vásárolj helyi sajtot és friss termékeket közvetlenül a termelőktől."
+          },
+          {
+            "name": "Kleine Kerkstraat",
+            "tip": "Független butikjairól és egyedi üzleteiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de marți și sâmbătă",
+            "tip": "Cumpărați brânză locală și produse proaspete direct de la producători."
+          },
+          {
+            "name": "Kleine Kerkstraat",
+            "tip": "Cunoscută pentru buticurile sale independente și magazinele unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market on Tuesday & Saturday",
+            "tip": "Buy local cheese and fresh produce directly from the producers."
+          },
+          {
+            "name": "Kleine Kerkstraat",
+            "tip": "Known for its independent boutiques and unique shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Sneek ist sehr fußgängerfreundlich, alle Hauptattraktionen im Zentrum sind leicht zu erreichen.",
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden, besonders wenn Sie zum See gehen.",
+          "Ein Regenschirm ist immer eine gute Idee in den Niederlanden, auch an sonnigen Tagen.",
+          "Nehmen Sie sich Zeit, um durch die kleineren Gassen abseits der Hauptstraßen zu schlendern."
+        ],
+        "hu": [
+          "Sneek nagyon gyalogosbarát, a központ összes fő látnivalója könnyen elérhető.",
+          "Viselj kényelmes cipőt, mert sokat fogsz sétálni, különösen, ha a tóhoz mész.",
+          "Egy esernyő mindig jó ötlet Hollandiában, még napos napokon is.",
+          "Szánj időt arra, hogy a főutcáktól távolabb eső kisebb sikátorokban is sétálgass."
+        ],
+        "ro": [
+          "Sneek este foarte prietenos cu pietonii, toate atracțiile principale din centru sunt ușor accesibile.",
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos, mai ales dacă mergeți la lac.",
+          "O umbrelă este întotdeauna o idee bună în Olanda, chiar și în zilele însorite.",
+          "Luați-vă timp să vă plimbați pe aleile mai mici, departe de străzile principale."
+        ],
+        "en": [
+          "Sneek is very pedestrian-friendly; all major attractions in the center are within easy walking distance.",
+          "Wear comfortable shoes as you will be doing a lot of walking, especially if you go to the lake.",
+          "An umbrella is always a good idea in the Netherlands, even on sunny days.",
+          "Take time to wander through the smaller alleys off the main streets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start am Waterpoort",
+            "hu": "Kerékpárbérlés és indulás a Waterpoorttól",
+            "ro": "Închiriere biciclete și start de la Waterpoort",
+            "en": "Bike Rental & Start at Waterpoort"
+          },
+          "coords": [
+            5.6555,
+            53.0335
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe, um die Stadt und die Umgebung flexibel zu erkunden.",
+            "hu": "Bérelj a közelben egy kerékpárt, hogy rugalmasan fedezhesd fel a várost és a környéket.",
+            "ro": "Închiriați o bicicletă din apropiere pentru a explora orașul și împrejurimile în mod flexibil.",
+            "en": "Rent a bike nearby to explore the city and its surroundings flexibly."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrum: Martinikerk & Stadhuis",
+            "hu": "Központ: Martinikerk és Városháza",
+            "ro": "Centru: Martinikerk & Primărie",
+            "en": "Center: Martinikerk & City Hall"
+          },
+          "coords": [
+            5.6601,
+            53.0321
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie diesen Bereich zu Fuß.",
+            "hu": "Biztonságosan zárd le a kerékpárodat, és gyalog fedezd fel ezt a területet.",
+            "ro": "Legați-vă bicicleta în siguranță și explorați această zonă pe jos.",
+            "en": "Lock your bike securely and explore this area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fries Scheepvaart Museum",
+            "hu": "Fríz Hajózási Múzeum",
+            "ro": "Muzeul Maritim Frizian",
+            "en": "Frisian Maritime Museum"
+          },
+          "coords": [
+            5.6578,
+            53.0338
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Museum hat oft einen Fahrradständer direkt davor.",
+            "hu": "A múzeum előtt gyakran van kerékpártároló.",
+            "ro": "Muzeul are adesea un suport pentru biciclete chiar în față.",
+            "en": "The museum often has a bike rack right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            5.661,
+            53.031
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Cafés haben Terrassen, auf denen Sie Ihr Fahrrad im Auge behalten können.",
+            "hu": "Sok kávézónak van terasza, ahonnan szemmel tarthatod a kerékpárodat.",
+            "ro": "Multe cafenele au terase de unde vă puteți supraveghea bicicleta.",
+            "en": "Many cafes have terraces where you can keep an eye on your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour zum Sneekermeer",
+            "hu": "Kerékpártúra a Sneekermeerhez",
+            "ro": "Tur cu bicicleta la Sneekermeer",
+            "en": "Bike ride to Sneekermeer"
+          },
+          "coords": [
+            5.7,
+            53.05
+          ],
+          "category": "natural features",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die flache, malerische Route durch die friesische Landschaft.",
+            "hu": "Élvezd a sík, festői útvonalat a fríz tájon keresztül.",
+            "ro": "Bucurați-vă de traseul plat și pitoresc prin peisajul frizian.",
+            "en": "Enjoy the flat, scenic route through the Frisian countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Erkunden Sie das Ufer des Sees",
+            "hu": "Fedezze fel a tó partját",
+            "ro": "Explorați malul lacului",
+            "en": "Explore the lake shore"
+          },
+          "coords": [
+            5.715,
+            53.055
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie ein Stück am Ufer entlang, um verschiedene Aussichtspunkte zu finden.",
+            "hu": "Tekerj egy darabon a part mentén, hogy különböző kilátópontokat találj.",
+            "ro": "Pedalați o bucată de-a lungul malului pentru a găsi diferite puncte de belvedere.",
+            "en": "Ride a bit along the shore to find different viewpoints."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum und Kaffee",
+            "hu": "Vissza a központba és egy kávé",
+            "ro": "Întoarcere în centru și o cafea",
+            "en": "Return to the center and coffee"
+          },
+          "coords": [
+            5.662,
+            53.032
+          ],
+          "category": "gastro",
+          "arrive_at": "16:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und belohnen Sie sich mit einem Kaffee und einem Stück 'Oranjekoek'.",
+            "hu": "Add vissza a kerékpárt, és jutalmazd meg magad egy kávéval és egy szelet 'Oranjekoek'-kal.",
+            "ro": "Returnați bicicleta și răsfățați-vă cu o cafea și o felie de 'Oranjekoek'.",
+            "en": "Return your bike and reward yourself with a coffee and a piece of 'Oranjekoek'."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Radtag in Sneek beginnt mit der Erkundung der Innenstadt-Highlights wie dem Waterpoort und der Martinikerk. Nach einem Museumsbesuch am Vormittag und einem stärkenden Mittagessen führt die Hauptroute Sie aus der Stadt hinaus. Der Nachmittag ist einer malerischen Radtour zum und um das Sneekermeer gewidmet, dem Herzen des friesischen Seengebiets. Genießen Sie die frische Luft und die weite Landschaft, bevor Sie für einen entspannten Ausklang ins Stadtzentrum zurückkehren.",
+        "hu": "Egy sneeki biciklis nap a belvárosi látnivalók, mint a Waterpoort és a Martinikerk felfedezésével kezdődik. A délelőtti múzeumlátogatás és egy kiadós ebéd után a fő útvonal kivisz a városból. A délután a Sneekermeerhez, a fríz tóvidék szívéhez vezető festői kerékpártúráé. Élvezze a friss levegőt és a tágas tájat, mielőtt visszatérne a városközpontba egy pihentető lezárásra.",
+        "ro": "O zi cu bicicleta în Sneek începe cu explorarea punctelor de atracție din centrul orașului, precum Waterpoort și Martinikerk. După o vizită la muzeu dimineața și un prânz copios, traseul principal vă scoate din oraș. După-amiaza este dedicată unui tur pitoresc cu bicicleta spre și în jurul lacului Sneekermeer, inima regiunii lacurilor friziene. Bucurați-vă de aerul proaspăt și de peisajul vast înainte de a vă întoarce în centrul orașului pentru o încheiere relaxantă.",
+        "en": "A bike day in Sneek starts with exploring the city center highlights like the Waterpoort and Martinikerk. After a morning museum visit and a hearty lunch, the main route takes you out of the city. The afternoon is dedicated to a scenic bike tour to and around the Sneekermeer, the heart of the Frisian Lakes area. Enjoy the fresh air and wide landscape before returning to the city center for a relaxing conclusion."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Paling (Aal)",
+            "tip": "Geräucherter Aal ist eine Delikatesse der Region, probieren Sie ihn auf einem Markt."
+          },
+          {
+            "name": "Oranjekoek",
+            "tip": "Ein typisch friesischer Kuchen mit rosa Glasur, perfekt zum Kaffee."
+          },
+          {
+            "name": "Pannenkoekschip",
+            "tip": "Essen Sie Pfannkuchen auf einem Schiff! Ein einzigartiges Erlebnis für die ganze Familie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paling (angolna)",
+            "tip": "A füstölt angolna a régió csemegéje, kóstold meg egy piacon."
+          },
+          {
+            "name": "Oranjekoek",
+            "tip": "Tipikus fríz sütemény rózsaszín mázzal, tökéletes kávé mellé."
+          },
+          {
+            "name": "Pannenkoekschip",
+            "tip": "Egyél palacsintát egy hajón! Egyedülálló élmény az egész családnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paling (Anghilă)",
+            "tip": "Anghila afumată este o delicatesă regională, încercați-o într-o piață."
+          },
+          {
+            "name": "Oranjekoek",
+            "tip": "O prăjitură tipic friziană cu glazură roz, perfectă cu cafea."
+          },
+          {
+            "name": "Pannenkoekschip",
+            "tip": "Mâncați clătite pe o navă! O experiență unică pentru întreaga familie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paling (Eel)",
+            "tip": "Smoked eel is a regional delicacy; try it at a market."
+          },
+          {
+            "name": "Oranjekoek",
+            "tip": "A typical Frisian cake with pink icing, perfect with coffee."
+          },
+          {
+            "name": "Pannenkoekschip",
+            "tip": "Eat pancakes on a ship! A unique experience for the whole family."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rastplatz am Sneekermeer",
+            "tip": "Machen Sie eine Pause auf Ihrer Radtour und genießen Sie die Stille am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Epemastate Gärten",
+            "tip": "Auch wenn das Schloss privat ist, ist die Umgebung oft ruhig und friedlich.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Wallekerk Hof",
+            "tip": "Ein kleiner, abgeschiedener Innenhof bei der Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pihenőhely a Sneekermeernél",
+            "tip": "Tarts szünetet a kerékpártúrán, és élvezd a csendet a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Epemastate kertek",
+            "tip": "Bár a kastély magántulajdonban van, a környék gyakran csendes és békés.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Wallekerk udvara",
+            "tip": "Egy kicsi, eldugott belső udvar a templomnál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc de odihnă la Sneekermeer",
+            "tip": "Faceți o pauză în turul cu bicicleta și bucurați-vă de liniștea de lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Epemastate",
+            "tip": "Chiar dacă castelul este privat, zona înconjurătoare este adesea liniștită și pașnică.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Curtea Wallekerk",
+            "tip": "O mică curte interioară, retrasă, lângă biserică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rest stop at Sneekermeer",
+            "tip": "Take a break on your bike tour and enjoy the silence by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Epemastate Gardens",
+            "tip": "Even though the castle is private, the surrounding area is often quiet and peaceful.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Wallekerk Courtyard",
+            "tip": "A small, secluded courtyard by the church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Auf Ihrer Radtour finden Sie vielleicht kleine Läden, die Käse oder Marmelade verkaufen."
+          },
+          {
+            "name": "Wassersportgeschäfte",
+            "tip": "Sneek ist die Hauptstadt des Wassersports, perfekt für maritime Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "Kerékpártúrád során találhatsz kis boltokat, ahol sajtot vagy lekvárt árulnak."
+          },
+          {
+            "name": "Vízisport üzletek",
+            "tip": "Sneek a vízisportok fővárosa, tökéletes hely tengeri ajándéktárgyak vásárlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole locale",
+            "tip": "În timpul turului cu bicicleta, s-ar putea să găsiți mici magazine care vând brânză sau gem."
+          },
+          {
+            "name": "Magazine de sporturi nautice",
+            "tip": "Sneek este capitala sporturilor nautice, perfectă pentru suveniruri maritime."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local farm shops",
+            "tip": "On your bike tour, you might find small shops selling cheese or jam."
+          },
+          {
+            "name": "Water sports shops",
+            "tip": "Sneek is the capital of water sports, perfect for maritime souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Wetterbericht; Wind kann eine größere Rolle spielen als Hügel.",
+          "Stellen Sie sicher, dass Ihr Fahrrad Licht hat, wenn Sie planen, bis in den Abend zu fahren.",
+          "Die Niederlande haben fantastische Radwege; nutzen Sie sie und folgen Sie den Schildern.",
+          "Ein aufgeladenes Telefon mit GPS ist hilfreich, um die Routen um den See zu navigieren."
+        ],
+        "hu": [
+          "Ellenőrizd az időjárás-előrejelzést; a szél nagyobb szerepet játszhat, mint a dombok.",
+          "Győződj meg róla, hogy a kerékpárodon van világítás, ha estig tervezel tekerni.",
+          "Hollandiában fantasztikus kerékpárutak vannak; használd őket és kövesd a táblákat.",
+          "Egy feltöltött telefon GPS-szel segít a tó körüli útvonalak navigálásában."
+        ],
+        "ro": [
+          "Verificați prognoza meteo; vântul poate juca un rol mai mare decât dealurile.",
+          "Asigurați-vă că bicicleta are lumini dacă plănuiți să pedalați până seara.",
+          "Olanda are piste de biciclete fantastice; folosiți-le și urmați indicatoarele.",
+          "Un telefon încărcat cu GPS este util pentru a naviga pe traseele din jurul lacului."
+        ],
+        "en": [
+          "Check the weather forecast; wind can be a bigger factor than hills.",
+          "Make sure your bike has lights if you plan to ride into the evening.",
+          "The Netherlands has fantastic bike paths; use them and follow the signs.",
+          "A charged phone with GPS is helpful for navigating the routes around the lake."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 19.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken & Cluster 1: Zentrum Sneek",
+            "hu": "Parkolás és 1. klaszter: Sneek központ",
+            "ro": "Parcare & Cluster 1: Centrul Sneek",
+            "en": "Parking & Cluster 1: Sneek Center"
+          },
+          "coords": [
+            5.657,
+            53.035
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am besten am Rande des Zentrums und beginnen Sie Ihren Rundgang am Waterpoort.",
+            "hu": "A legjobb, ha a központ szélén parkolsz, és a Waterpoortnál kezded a sétát.",
+            "ro": "Cel mai bine este să parcați la marginea centrului și să începeți turul de la Waterpoort.",
+            "en": "It's best to park on the edge of the center and start your tour at the Waterpoort."
+          }
+        },
+        {
+          "name": {
+            "de": "Martinikerk & Stadhuis",
+            "hu": "Martinikerk és Városháza",
+            "ro": "Martinikerk & Primărie",
+            "en": "Martinikerk & City Hall"
+          },
+          "coords": [
+            5.6601,
+            53.0321
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Sehenswürdigkeiten liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Ez a két látnivaló csak néhány lépésre van egymástól.",
+            "ro": "Aceste două atracții sunt la doar câțiva pași una de cealaltă.",
+            "en": "These two sights are just a few steps from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Fries Scheepvaart Museum",
+            "hu": "Fríz Hajózási Múzeum",
+            "ro": "Muzeul Maritim Frizian",
+            "en": "Frisian Maritime Museum"
+          },
+          "coords": [
+            5.6578,
+            53.0338
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss, um die Verbindung der Region zum Wasser zu verstehen.",
+            "hu": "Kötelező látnivaló, hogy megértsd a régió és a víz kapcsolatát.",
+            "ro": "O vizită obligatorie pentru a înțelege legătura regiunii cu apa.",
+            "en": "A must-visit to understand the region's connection to water."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            5.661,
+            53.031
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Pause, bevor Sie zum Auto zurückkehren.",
+            "hu": "Élvezz egy szünetet, mielőtt visszatérsz az autóhoz.",
+            "ro": "Bucurați-vă de o pauză înainte de a vă întoarce la mașină.",
+            "en": "Enjoy a break before returning to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zu Cluster 2: Sneekermeer",
+            "hu": "Utazás a 2. klaszterhez: Sneekermeer",
+            "ro": "Drum spre Cluster 2: Sneekermeer",
+            "en": "Drive to Cluster 2: Sneekermeer"
+          },
+          "coords": [
+            5.705,
+            53.052
+          ],
+          "category": "natural features",
+          "arrive_at": "14:39",
+          "stay_min": 70,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Paviljoen Sneekermeer, dort gibt es Parkplätze und eine tolle Aussicht.",
+            "hu": "Vezess a Paviljoen Sneekermeerhez, ott van parkoló és remek kilátás.",
+            "ro": "Conduceți la Paviljoen Sneekermeer, există parcare și o priveliște minunată.",
+            "en": "Drive to the Paviljoen Sneekermeer; there is parking and a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zu Cluster 3: Epemastate",
+            "hu": "Utazás a 3. klaszterhez: Epemastate",
+            "ro": "Drum spre Cluster 3: Epemastate",
+            "en": "Drive to Cluster 3: Epemastate"
+          },
+          "coords": [
+            5.63,
+            53.025
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um das historische Anwesen von außen zu bewundern. Es ist in Privatbesitz.",
+            "hu": "Egy rövid megálló, hogy megcsodáld a történelmi birtokot kívülről. Magántulajdonban van.",
+            "ro": "O scurtă oprire pentru a admira proprietatea istorică din exterior. Este proprietate privată.",
+            "en": "A short stop to admire the historic estate from the outside. It is privately owned."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Flexibilität, das Beste von Sneek und seiner Umgebung zu erleben. Beginnen Sie mit einem Spaziergang durch das historische Zentrum (Cluster 1), nachdem Sie Ihr Auto geparkt haben. Nach dem Mittagessen fahren Sie zum Sneekermeer (Cluster 2), dem pulsierenden Herzen der friesischen Seen. Genießen Sie die maritime Atmosphäre, bevor Sie den Tag mit einem kurzen Besuch des ländlichen Epemastate (Cluster 3) abrunden, das einen Einblick in die Adelsgeschichte der Region bietet.",
+        "hu": "Autóval rugalmasan fedezheti fel Sneek és környéke legjavát. A parkolás után kezdje a napot egy sétával a történelmi központban (1. klaszter). Ebéd után irány a Sneekermeer (2. klaszter), a fríz tavak lüktető szíve. Élvezze a tengeri hangulatot, mielőtt a napot a vidéki Epemastate (3. klaszter) rövid meglátogatásával zárja, amely bepillantást nyújt a régió nemesi történelmébe.",
+        "ro": "Cu mașina, aveți flexibilitatea de a experimenta tot ce este mai bun în Sneek și împrejurimile sale. Începeți cu o plimbare prin centrul istoric (Cluster 1) după ce ați parcat mașina. După prânz, conduceți spre Sneekermeer (Cluster 2), inima vibrantă a lacurilor friziene. Bucurați-vă de atmosfera maritimă înainte de a încheia ziua cu o scurtă vizită la ruralul Epemastate (Cluster 3), care oferă o privire asupra istoriei nobile a regiunii.",
+        "en": "By car, you have the flexibility to experience the best of Sneek and its surroundings. Start with a walk through the historic center (Cluster 1) after parking your car. After lunch, drive to the Sneekermeer (Cluster 2), the vibrant heart of the Frisian lakes. Enjoy the maritime atmosphere before rounding off the day with a short visit to the rural Epemastate (Cluster 3), offering a glimpse into the region's noble history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant in einem der Wassersportdörfer",
+            "tip": "Kombinieren Sie Ihre Fahrt mit einem Abendessen am Wasser, z.B. in Terherne."
+          },
+          {
+            "name": "Friese worst (Wurst)",
+            "tip": "Eine herzhafte, getrocknete Wurst, ideal für ein Picknick am See."
+          },
+          {
+            "name": "Proeflokaal Wouters",
+            "tip": "Ein gemütlicher Ort im Zentrum für ein gutes Glas Wein oder ein Spezialbier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem egy vízisport-faluban",
+            "tip": "Kösd össze az autózást egy vacsorával a vízparton, pl. Terherne-ben."
+          },
+          {
+            "name": "Friese worst (kolbász)",
+            "tip": "Kiadós, szárított kolbász, ideális egy tóparti piknikhez."
+          },
+          {
+            "name": "Proeflokaal Wouters",
+            "tip": "Hangulatos hely a központban egy jó pohár borhoz vagy egy különleges sörhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant într-unul din satele de sporturi nautice",
+            "tip": "Combinați călătoria cu o cină pe malul apei, de ex. în Terherne."
+          },
+          {
+            "name": "Friese worst (cârnat)",
+            "tip": "Un cârnat consistent, uscat, ideal pentru un picnic pe malul lacului."
+          },
+          {
+            "name": "Proeflokaal Wouters",
+            "tip": "Un loc primitor în centru pentru un pahar bun de vin sau o bere specială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant in one of the water sports villages",
+            "tip": "Combine your drive with a dinner by the water, e.g., in Terherne."
+          },
+          {
+            "name": "Friese worst (sausage)",
+            "tip": "A hearty, dried sausage, ideal for a picnic by the lake."
+          },
+          {
+            "name": "Proeflokaal Wouters",
+            "tip": "A cozy place in the center for a good glass of wine or a special beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt am Sneekermeer",
+            "tip": "Halten Sie an einem der vielen ruhigen Parkplätze mit Blick auf den See.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ländliche Straßen um IJsbrechtum",
+            "tip": "Eine langsame Fahrt durch die Landschaft rund um das Epemastate.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Früher Morgen am Waterpoort",
+            "tip": "Besuchen Sie es, bevor die Menschenmassen ankommen, um die friedliche Atmosphäre zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a Sneekermeernél",
+            "tip": "Állj meg az egyik csendes parkolóban, ahonnan kilátás nyílik a tóra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vidéki utak IJsbrechtum környékén",
+            "tip": "Lassú autózás a tájon az Epemastate körül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggel a Waterpoortnál",
+            "tip": "Látogasd meg, mielőtt a tömeg megérkezik, hogy élvezd a békés hangulatot.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la Sneekermeer",
+            "tip": "Opriți-vă într-una din numeroasele parcări liniștite cu vedere la lac.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Drumuri rurale în jurul IJsbrechtum",
+            "tip": "O plimbare lentă cu mașina prin peisajul din jurul Epemastate.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dimineața devreme la Waterpoort",
+            "tip": "Vizitați-l înainte de sosirea mulțimilor pentru a vă bucura de atmosfera pașnică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at Sneekermeer",
+            "tip": "Stop at one of the many quiet parking spots overlooking the lake.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rural roads around IJsbrechtum",
+            "tip": "A slow drive through the countryside surrounding the Epemastate.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Early morning at the Waterpoort",
+            "tip": "Visit before the crowds arrive to enjoy the peaceful atmosphere.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käsefarmen",
+            "tip": "Suchen Sie nach Schildern für 'Kaasboerderij', um Käse direkt vom Bauernhof zu kaufen."
+          },
+          {
+            "name": "Antiquitätenläden",
+            "tip": "In den Dörfern rund um Sneek gibt es oft versteckte Schätze."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajtfarmok",
+            "tip": "Keress 'Kaasboerderij' táblákat, hogy közvetlenül a farmról vásárolj sajtot."
+          },
+          {
+            "name": "Antikváriumok",
+            "tip": "Sneek körüli falvakban gyakran rejtett kincsekre bukkanhatsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ferme de brânzeturi",
+            "tip": "Căutați indicatoare pentru 'Kaasboerderij' pentru a cumpăra brânză direct de la fermă."
+          },
+          {
+            "name": "Magazine de antichități",
+            "tip": "Există adesea comori ascunse în satele din jurul Sneek."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese farms",
+            "tip": "Look for 'Kaasboerderij' signs to buy cheese directly from the farm."
+          },
+          {
+            "name": "Antique shops",
+            "tip": "There are often hidden treasures in the villages around Sneek."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkzonen und -gebühren im Stadtzentrum ('Blauwe Zone' bedeutet oft Parkscheibe).",
+          "Die Straßen können eng sein, fahren Sie vorsichtig.",
+          "Ein Auto ermöglicht es Ihnen, auch kleinere, abgelegene Dörfer zu besuchen.",
+          "Kombinieren Sie Ihren Besuch mit einer Fährfahrt über einen der Seen für eine andere Perspektive."
+        ],
+        "hu": [
+          "Figyelj a parkolási zónákra és díjakra a városközpontban (a 'Blauwe Zone' gyakran parkolótárcsát jelent).",
+          "Az utak szűkek lehetnek, vezess óvatosan.",
+          "Az autó lehetővé teszi, hogy kisebb, távoli falvakat is meglátogass.",
+          "Kombináld a látogatást egy kompúttal az egyik tavon egy másik perspektíváért."
+        ],
+        "ro": [
+          "Fiți atenți la zonele de parcare și la taxe în centrul orașului ('Blauwe Zone' înseamnă adesea disc de parcare).",
+          "Străzile pot fi înguste, conduceți cu prudență.",
+          "O mașină vă permite să vizitați și sate mai mici și mai îndepărtate.",
+          "Combinați vizita cu o călătorie cu feribotul peste unul dintre lacuri pentru o perspectivă diferită."
+        ],
+        "en": [
+          "Pay attention to parking zones and fees in the city center ('Blauwe Zone' often means parking disc).",
+          "The roads can be narrow, drive carefully.",
+          "A car allows you to visit smaller, more remote villages.",
+          "Combine your visit with a ferry trip across one of the lakes for a different perspective."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof & Cluster 1: Zentrum",
+            "hu": "Érkezés az állomásra és 1. klaszter: Központ",
+            "ro": "Sosire la gară & Cluster 1: Centru",
+            "en": "Arrival at the station & Cluster 1: Center"
+          },
+          "coords": [
+            5.663,
+            53.028
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Bahnhof Sneek ist das Zentrum in wenigen Minuten zu Fuß erreichbar.",
+            "hu": "A sneeki vasútállomástól a központ pár perces sétával elérhető.",
+            "ro": "Din gara Sneek, centrul este la câteva minute de mers pe jos.",
+            "en": "From Sneek station, the center is a few minutes' walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Waterpoort, Martinikerk & Stadhuis",
+            "hu": "Waterpoort, Martinikerk és Városháza",
+            "ro": "Waterpoort, Martinikerk & Primărie",
+            "en": "Waterpoort, Martinikerk & City Hall"
+          },
+          "coords": [
+            5.658,
+            53.033
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen kompakten historischen Kern zu Fuß.",
+            "hu": "Fedezd fel ezt a kompakt történelmi magot gyalog.",
+            "ro": "Explorați pe jos acest nucleu istoric compact.",
+            "en": "Explore this compact historic core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum & Mittagessen",
+            "hu": "Múzeum és ebéd",
+            "ro": "Muzeu și prânz",
+            "en": "Museum & Lunch"
+          },
+          "coords": [
+            5.6578,
+            53.0338
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Museumsbesuch mit einem Mittagessen in einem der nahegelegenen Restaurants.",
+            "hu": "Kösd össze a múzeumlátogatást egy ebéddel a közeli éttermek egyikében.",
+            "ro": "Combinați vizita la muzeu cu un prânz la unul dintre restaurantele din apropiere.",
+            "en": "Combine the museum visit with lunch at one of the nearby restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zu Cluster 2: Sneekermeer",
+            "hu": "Buszozás a 2. klaszterhez: Sneekermeer",
+            "ro": "Călătorie cu autobuzul spre Cluster 2: Sneekermeer",
+            "en": "Bus ride to Cluster 2: Sneekermeer"
+          },
+          "coords": [
+            5.705,
+            53.052
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Joure/Heerenveen und steigen Sie in der Nähe des Sees aus.",
+            "hu": "Vegyél egy buszt Joure/Heerenveen irányába, és szállj le a tó közelében.",
+            "ro": "Luați un autobuz spre Joure/Heerenveen și coborâți lângă lac.",
+            "en": "Take a bus towards Joure/Heerenveen and get off near the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt zum Bahnhof",
+            "hu": "Vissza az állomásra",
+            "ro": "Întoarcere la gară",
+            "en": "Return to the station"
+          },
+          "coords": [
+            5.663,
+            53.028
+          ],
+          "category": "transport",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für den Bus zurück ins Zentrum ein.",
+            "hu": "Szánj elég időt a buszra vissza a központba.",
+            "ro": "Planificați suficient timp pentru autobuzul de întoarcere în centru.",
+            "en": "Allow plenty of time for the bus back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sneek lässt sich gut mit öffentlichen Verkehrsmitteln erkunden. Vom Bahnhof aus erreichen Sie das historische Zentrum (Cluster 1) bequem zu Fuß. Verbringen Sie den Vormittag damit, die Wahrzeichen und das Schifffahrtsmuseum zu entdecken. Am Nachmittag bringt Sie ein Bus zum Sneekermeer (Cluster 2), wo Sie die Weite der friesischen Wasserlandschaft erleben können. Die Rückfahrt zum Bahnhof ist unkompliziert und rundet einen abwechslungsreichen Tag ab.",
+        "hu": "Sneek tömegközlekedéssel is jól felfedezhető. A vasútállomástól könnyen elérhető a történelmi központ (1. klaszter). Töltsd a délelőttöt a nevezetességek és a hajózási múzeum felfedezésével. Délután egy busz visz a Sneekermeerhez (2. klaszter), ahol megtapasztalhatod a fríz vízi táj tágasságát. A visszaút az állomásra egyszerű, és egy változatos napot zár le.",
+        "ro": "Sneek poate fi explorat cu ușurință folosind transportul public. Din gară, puteți ajunge convenabil pe jos în centrul istoric (Cluster 1). Petreceți dimineața descoperind monumentele și muzeul maritim. După-amiaza, un autobuz vă va duce la Sneekermeer (Cluster 2), unde puteți experimenta vastitatea peisajului acvatic frizian. Călătoria de întoarcere la gară este simplă și încheie o zi variată.",
+        "en": "Sneek is easy to explore using public transport. From the train station, you can conveniently walk to the historic center (Cluster 1). Spend the morning discovering the landmarks and the maritime museum. In the afternoon, a bus will take you to the Sneekermeer (Cluster 2), where you can experience the vastness of the Frisian water landscape. The return trip to the station is straightforward and concludes a varied day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Snackbar am Bahnhof",
+            "tip": "Probieren Sie eine 'Krokett' oder 'Frikandel' für einen schnellen, typisch holländischen Snack."
+          },
+          {
+            "name": "Sûkerbôle (Zuckerbrot)",
+            "tip": "Ein süßes, klebriges Brot, das Sie in jeder Bäckerei finden."
+          },
+          {
+            "name": "Café 't Ouwe Vat",
+            "tip": "Ein traditionelles 'braunes Café' für ein lokales Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfé az állomáson",
+            "tip": "Kóstolj meg egy 'krokett'-et vagy 'frikandel'-t egy gyors, tipikus holland harapnivalóért."
+          },
+          {
+            "name": "Sûkerbôle (cukros kenyér)",
+            "tip": "Édes, ragacsos kenyér, amelyet minden pékségben megtalálsz."
+          },
+          {
+            "name": "Café 't Ouwe Vat",
+            "tip": "Hagyományos 'barna kávézó' egy helyi sörre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Snack bar la gară",
+            "tip": "Încercați o 'kroket' sau 'frikandel' pentru o gustare rapidă, tipic olandeză."
+          },
+          {
+            "name": "Sûkerbôle (pâine cu zahăr)",
+            "tip": "O pâine dulce și lipicioasă pe care o găsiți în orice brutărie."
+          },
+          {
+            "name": "Café 't Ouwe Vat",
+            "tip": "O 'cafenea maro' tradițională pentru o bere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snackbar at the station",
+            "tip": "Try a 'kroket' or 'frikandel' for a quick, typically Dutch snack."
+          },
+          {
+            "name": "Sûkerbôle (sugar bread)",
+            "tip": "A sweet, sticky bread you can find in any bakery."
+          },
+          {
+            "name": "Café 't Ouwe Vat",
+            "tip": "A traditional 'brown café' for a local beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Am Ufer des Sneekermeer",
+            "tip": "Entfliehen Sie dem Stadttrubel und genießen Sie die Ruhe am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank im Wilhelminapark",
+            "tip": "Auf dem Weg vom Bahnhof ins Zentrum eine gute Gelegenheit für eine Pause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Innenhof des Fries Scheepvaart Museum",
+            "tip": "Ein oft übersehener, ruhiger Ort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Sneekermeer partján",
+            "tip": "Menekülj el a város nyüzsgésétől, és élvezd a csendet a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a Wilhelminaparkban",
+            "tip": "Az állomástól a központ felé vezető úton jó lehetőség egy kis pihenésre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Fríz Hajózási Múzeum belső udvara",
+            "tip": "Gyakran figyelmen kívül hagyott, csendes hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pe malul lacului Sneekermeer",
+            "tip": "Evadați din agitația orașului și bucurați-vă de liniștea de lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în Parcul Wilhelmina",
+            "tip": "O bună oportunitate pentru o pauză în drumul de la gară spre centru.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Curtea interioară a Muzeului Maritim Frizian",
+            "tip": "Un loc liniștit, adesea trecut cu vederea.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "On the shore of the Sneekermeer",
+            "tip": "Escape the city bustle and enjoy the peace by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in the Wilhelminapark",
+            "tip": "A good opportunity for a break on the way from the station to the center.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Courtyard of the Frisian Maritime Museum",
+            "tip": "An often overlooked, quiet spot.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Oosterdijk",
+            "tip": "Die Haupteinkaufsstraße von Sneek."
+          },
+          {
+            "name": "Souvenirs im Fries Scheepvaart Museum",
+            "tip": "Kaufen Sie ein maritimes Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek az Oosterdijk utcában",
+            "tip": "Sneek fő bevásárlóutcája."
+          },
+          {
+            "name": "Ajándéktárgyak a Fríz Hajózási Múzeumban",
+            "tip": "Vásárolj egy tengeri emléket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe Oosterdijk",
+            "tip": "Principala stradă comercială din Sneek."
+          },
+          {
+            "name": "Suveniruri la Muzeul Maritim Frizian",
+            "tip": "Cumpărați un suvenir maritim."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on the Oosterdijk",
+            "tip": "The main shopping street of Sneek."
+          },
+          {
+            "name": "Souvenirs at the Frisian Maritime Museum",
+            "tip": "Buy a maritime memento."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'OV-chipkaart' oder nutzen Sie Ihre Debit-/Kreditkarte zum Ein- und Auschecken.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders am Wochenende.",
+          "Die meisten Busse in Friesland werden von Arriva betrieben.",
+          "Fragen Sie den Busfahrer, er ist normalerweise sehr hilfsbereit."
+        ],
+        "hu": [
+          "Vásárolj egy 'OV-chipkaart'-ot, vagy használd a bank-/hitelkártyádat a be- és kijelentkezéshez.",
+          "Ellenőrizd előre a buszmenetrendet, különösen hétvégén.",
+          "Frízföldön a legtöbb buszt az Arriva üzemelteti.",
+          "Kérdezd meg a buszsofőrt, általában nagyon segítőkészek."
+        ],
+        "ro": [
+          "Cumpărați un 'OV-chipkaart' sau folosiți cardul de debit/credit pentru check-in și check-out.",
+          "Verificați orarele autobuzelor în avans, mai ales în weekend.",
+          "Majoritatea autobuzelor din Friesland sunt operate de Arriva.",
+          "Întrebați șoferul de autobuz, de obicei este foarte amabil."
+        ],
+        "en": [
+          "Buy an 'OV-chipkaart' or use your debit/credit card to check in and out.",
+          "Check bus schedules in advance, especially on weekends.",
+          "Most buses in Friesland are operated by Arriva.",
+          "Ask the bus driver; they are usually very helpful."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1284 @@
+{
+  "city_id": "greece-poros-town-cities-v2",
+  "anchor": {
+    "name": "Poros Stadt",
+    "coords": [
+      23.45,
+      37.5
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Uferpromenade Poros",
+            "hu": "Poroszi parti sétány",
+            "ro": "Promenada de pe faleza din Poros",
+            "en": "Poros Waterfront Promenade"
+          },
+          "coords": [
+            23.453,
+            37.5
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Freddo Cappuccino in einem der Cafés am Wasser.",
+            "hu": "Kezdje a napot egy Freddo Cappuccinóval a vízparti kávézók egyikében.",
+            "ro": "Începeți ziua cu un Freddo Cappuccino la una dintre cafenelele de pe malul apei.",
+            "en": "Start your day with a Freddo Cappuccino at one of the waterfront cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Poros",
+            "hu": "Poroszi Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Poros",
+            "en": "Archaeological Museum of Poros"
+          },
+          "coords": [
+            23.451,
+            37.499
+          ],
+          "category": "museums",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die mykenischen Artefakte aus den Gräbern von Galatas.",
+            "hu": "Keresse a Galatasz sírjaiból származó mükénéi leleteket.",
+            "ro": "Căutați artefactele miceniene din mormintele de la Galatas.",
+            "en": "Look for the Mycenaean artifacts recovered from the tombs at Galatas."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Agios Georgios",
+            "hu": "Szent György-székesegyház",
+            "ro": "Catedrala Sfântul Gheorghe",
+            "en": "Cathedral of Agios Georgios"
+          },
+          "coords": [
+            23.454,
+            37.501
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Wandmalereien des modernen Malers Parthenis.",
+            "hu": "Csodálja meg Parthenis modern festő lenyűgöző falfestményeit.",
+            "ro": "Admirați picturile murale impresionante ale pictorului modern Parthenis.",
+            "en": "Admire the impressive wall paintings by the modern painter Parthenis."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Poros",
+            "hu": "Poroszi óratorony",
+            "ro": "Turnul cu ceas din Poros",
+            "en": "Clock Tower of Poros"
+          },
+          "coords": [
+            23.455,
+            37.502
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber der Panoramablick bei Sonnenuntergang ist es wert.",
+            "hu": "Meredek a kaptató, de a naplementekor nyíló panoráma megéri.",
+            "ro": "Urcușul este abrupt, dar priveliștea panoramică la apus merită efortul.",
+            "en": "The climb is steep, but the panoramic view at sunset is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in einer Taverne",
+            "hu": "Vacsora egy tavernában",
+            "ro": "Cină la o tavernă",
+            "en": "Dinner at a Taverna"
+          },
+          "coords": [
+            23.452,
+            37.4995
+          ],
+          "category": "gastro",
+          "arrive_at": "15:31",
+          "stay_min": 120,
+          "hop_from_prev_min": 90,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Wählen Sie eine Taverne in den Gassen für ein authentischeres Erlebnis.",
+            "hu": "Válasszon egy tavernát a mellékutcákban az autentikusabb élményért.",
+            "ro": "Alegeți o tavernă de pe străduțele lăturalnice pentru o experiență mai autentică.",
+            "en": "Choose a taverna in the backstreets for a more authentic experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der lebhaften Uferpromenade von Poros und genießen Sie die maritime Atmosphäre. Mittags tauchen Sie im Archäologischen Museum in die antike Geschichte ein, bevor Sie die spirituelle Ruhe der Agios Georgios Kathedrale erleben. Der Nachmittag führt Sie auf den Hügel zum ikonischen Uhrturm, wo Sie ein atemberaubender Panoramablick erwartet. Beenden Sie Ihren perfekten Tag mit einem köstlichen Abendessen in einer traditionellen griechischen Taverne in den verwinkelten Gassen der Stadt.",
+        "hu": "Kezdje a napot Porosz nyüzsgő vízparti sétányán, élvezve a tengeri hangulatot. Délben merüljön el az ókori történelemben a Régészeti Múzeumban, mielőtt megtapasztalná az Agios Georgios katedrális spirituális nyugalmát. A délután a dombra vezet az ikonikus Óratoronyhoz, ahol lélegzetelállító panoráma fogadja. Zárja a tökéletes napot egy finom vacsorával egy hagyományos görög tavernában a város kanyargós sikátoraiban.",
+        "ro": "Începeți ziua pe faleza vibrantă din Poros, bucurându-vă de atmosfera maritimă. La prânz, scufundați-vă în istoria antică la Muzeul de Arheologie înainte de a experimenta liniștea spirituală a Catedralei Agios Georgios. După-amiaza vă duce pe deal la emblematicul Turn cu Ceas, unde vă așteaptă o priveliște panoramică uluitoare. Încheiați ziua perfectă cu o cină delicioasă la o tavernă tradițională grecească pe străduțele întortocheate ale orașului.",
+        "en": "Start your day on the vibrant Poros waterfront, soaking in the maritime atmosphere. At midday, delve into ancient history at the Archaeological Museum before experiencing the spiritual tranquility of Agios Georgios Cathedral. The afternoon takes you up the hill to the iconic Clock Tower, where a breathtaking panoramic view awaits. End your perfect day with a delicious dinner at a traditional Greek taverna in the town's winding backstreets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Oktopus",
+            "tip": "Gegrillt mit Olivenöl und Zitrone, eine lokale Spezialität."
+          },
+          {
+            "name": "Poseidon Taverna",
+            "tip": "Bekannt für seine Fischgerichte und den Blick auf den Hafen."
+          },
+          {
+            "name": "Amygdalota",
+            "tip": "Probieren Sie dieses Mandelgebäck zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss polip",
+            "tip": "Grillezve, olívaolajjal és citrommal, helyi különlegesség."
+          },
+          {
+            "name": "Poseidon Taverna",
+            "tip": "Híres a halételeiről és a kikötőre néző kilátásról."
+          },
+          {
+            "name": "Amygdalota",
+            "tip": "Kóstolja meg ezt a mandulás süteményt a kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caracatiță proaspătă",
+            "tip": "La grătar cu ulei de măsline și lămâie, o specialitate locală."
+          },
+          {
+            "name": "Taverna Poseidon",
+            "tip": "Renumită pentru preparatele din pește și vederea spre port."
+          },
+          {
+            "name": "Amygdalota",
+            "tip": "Încercați această prăjitură cu migdale la cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Octopus",
+            "tip": "Grilled with olive oil and lemon, a local specialty."
+          },
+          {
+            "name": "Poseidon Taverna",
+            "tip": "Known for its fish dishes and view of the harbour."
+          },
+          {
+            "name": "Amygdalota",
+            "tip": "Try this almond pastry with your coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Uhrturm",
+            "tip": "Der beste Ort, um die Sonne über dem Saronischen Golf untergehen zu sehen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gassen hinter dem Hafen",
+            "tip": "Verlieren Sie sich in den ruhigen, blumengeschmückten Gassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente az Óratoronynál",
+            "tip": "A legjobb hely a naplemente megtekintéséhez a Szaróni-öböl felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sikátorok a kikötő mögött",
+            "tip": "Vesszen el a csendes, virágokkal díszített sikátorokban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus la Turnul cu Ceas",
+            "tip": "Cel mai bun loc pentru a privi soarele apunând peste Golful Saronic.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțele din spatele portului",
+            "tip": "Pierdeți-vă pe aleile liniștite, decorate cu flori.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at the Clock Tower",
+            "tip": "The best spot to watch the sun set over the Saronic Gulf.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alleys behind the harbour",
+            "tip": "Get lost in the quiet, flower-adorned alleyways.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Handgefertigte Keramik mit traditionellen griechischen Motiven."
+          },
+          {
+            "name": "Gewürze und Kräuter",
+            "tip": "Kaufen Sie Oregano und Thymian aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Kézzel készített kerámiák hagyományos görög motívumokkal."
+          },
+          {
+            "name": "Fűszerek és gyógynövények",
+            "tip": "Vásároljon helyi oregánót és kakukkfüvet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Ceramică lucrată manual cu motive tradiționale grecești."
+          },
+          {
+            "name": "Condimente și ierburi",
+            "tip": "Cumpărați oregano și cimbru din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pottery",
+            "tip": "Handmade ceramics with traditional Greek designs."
+          },
+          {
+            "name": "Spices and Herbs",
+            "tip": "Stock up on local oregano and thyme."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen und Wege zum Uhrturm steil und gepflastert sind.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Die meisten Geschäfte halten eine Siesta am Nachmittag, planen Sie Ihre Einkäufe entsprechend.",
+          "Achten Sie auf die Wassertaxis, eine schnelle Möglichkeit, zu nahegelegenen Stränden zu gelangen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az utcák és az Óratoronyhoz vezető út meredek és macskaköves.",
+          "Hozzon magával sok vizet, különösen a nyári hónapokban.",
+          "A legtöbb üzlet délután sziesztát tart, tervezze meg a vásárlást ennek megfelelően.",
+          "Figyelje a vízitaxikat, amelyekkel gyorsan eljuthat a közeli strandokra."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile și cărările către Turnul cu Ceas sunt abrupte și pavate.",
+          "Luați cu voi multă apă, mai ales în lunile de vară.",
+          "Majoritatea magazinelor au o siestă după-amiaza, planificați-vă cumpărăturile în consecință.",
+          "Fiți atenți la taxiurile pe apă, o modalitate rapidă de a ajunge la plajele din apropiere."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets and paths to the Clock Tower are steep and cobbled.",
+          "Bring plenty of water, especially during the summer months.",
+          "Most shops close for an afternoon siesta, so plan your shopping accordingly.",
+          "Look out for the water taxis, a quick way to get to nearby beaches."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih an der Promenade",
+            "hu": "Kerékpárkölcsönzés a sétányon",
+            "ro": "Închiriere de biciclete pe promenadă",
+            "en": "Bike Rental on the Promenade"
+          },
+          "coords": [
+            23.453,
+            37.5
+          ],
+          "category": "shopping",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Mountainbike, wenn Sie die hügeligeren Teile erkunden möchten.",
+            "hu": "Válasszon mountain bike-ot, ha a dombosabb részeket is fel szeretné fedezni.",
+            "ro": "Alegeți o bicicletă de munte dacă doriți să explorați părțile mai deluroase.",
+            "en": "Choose a mountain bike if you plan to explore the hillier parts."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Poros",
+            "hu": "Poroszi óratorony",
+            "ro": "Turnul cu ceas din Poros",
+            "en": "Clock Tower of Poros"
+          },
+          "coords": [
+            23.455,
+            37.502
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad unten an und gehen Sie die letzten Stufen zu Fuß.",
+            "hu": "Zárja le a kerékpárt lent, és gyalog tegye meg az utolsó lépcsőket.",
+            "ro": "Lăsați bicicleta jos și urcați ultimele trepte pe jos.",
+            "en": "Lock your bike at the bottom and walk up the final steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Russische Marinestation",
+            "hu": "Orosz Haditengerészeti Állomás",
+            "ro": "Stația Navală Rusă",
+            "en": "Russian Naval Station"
+          },
+          "coords": [
+            23.43,
+            37.493
+          ],
+          "category": "historical",
+          "arrive_at": "10:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Ein ruhiger, historischer Ort mit einer interessanten Geschichte. Gut für Fotos.",
+            "hu": "Csendes, történelmi hely érdekes történettel. Jó fotótéma.",
+            "ro": "Un loc liniștit, istoric, cu o poveste interesantă. Bun pentru fotografii.",
+            "en": "A quiet, historic spot with an interesting story. Good for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Love Bay",
+            "hu": "Szerelem-öböl (Love Bay)",
+            "ro": "Golful Iubirii (Love Bay)",
+            "en": "Love Bay"
+          },
+          "coords": [
+            23.435,
+            37.495
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:34",
+          "stay_min": 180,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein organisierter Strand, umgeben von Pinien, die bis zum Wasser reichen.",
+            "hu": "Egy szervezett strand, fenyőfákkal körülvéve, melyek egészen a vízig érnek.",
+            "ro": "O plajă organizată, înconjurată de pini care ajung până la apă.",
+            "en": "An organized beach surrounded by pine trees that reach down to the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Askeli",
+            "hu": "Ebéd Askeliben",
+            "ro": "Prânz în Askeli",
+            "en": "Lunch in Askeli"
+          },
+          "coords": [
+            23.472,
+            37.503
+          ],
+          "category": "gastro",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Askeli hat viele Tavernen direkt am Strand. Eine schöne Abwechslung zur Stadt.",
+            "hu": "Askeliben számos taverna található közvetlenül a tengerparton. Kellemes változatosság a városhoz képest.",
+            "ro": "Askeli are multe taverne chiar pe plajă. O schimbare plăcută față de oraș.",
+            "en": "Askeli has many beachfront tavernas. A nice change of pace from the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückgabe der Fahrräder & Spaziergang",
+            "hu": "Kerékpárok leadása és séta",
+            "ro": "Returnarea bicicletelor și plimbare",
+            "en": "Bike Return & Stroll"
+          },
+          "coords": [
+            23.453,
+            37.5
+          ],
+          "category": "shopping",
+          "arrive_at": "17:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 133,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie einen letzten Spaziergang am Hafen.",
+            "hu": "Adja le a kerékpárt, és tegyen egy utolsó sétát a kikötőben.",
+            "ro": "Returnați bicicleta și bucurați-vă de o ultimă plimbare în port.",
+            "en": "Return your bike and enjoy a final stroll along the harbour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mieten Sie morgens ein Fahrrad und erklimmen Sie den Uhrturm für eine erste Aussicht. Mittags radeln Sie zur historischen Russischen Bucht und entspannen dann am berühmten Love Bay. Am Nachmittag genießen Sie ein spätes Mittagessen am Strand von Askeli, bevor Sie in die Stadt zurückkehren. Geben Sie Ihr Fahrrad zurück und lassen Sie den Abend bei einem gemütlichen Spaziergang entlang der Uferpromenade ausklingen, während die Lichter angehen.",
+        "hu": "Béreljen reggel kerékpárt, és másszon fel az Óratoronyhoz az első kilátásért. Délben tekerjen el a történelmi Orosz-öbölhöz, majd pihenjen a híres Szerelem-öbölben. Délután élvezze a késői ebédet Askeli strandján, mielőtt visszatér a városba. Adja le a kerékpárt, és hagyja, hogy az este egy kellemes sétával záruljon a parti sétányon, miközben felgyúlnak a fények.",
+        "ro": "Închiriați o bicicletă dimineața și urcați la Turnul cu Ceas pentru o primă priveliște. La prânz, pedalați până la istoricul Golf Rusesc și apoi relaxați-vă la faimosul Golf al Iubirii. După-amiaza, bucurați-vă de un prânz târziu pe plaja din Askeli înainte de a vă întoarce în oraș. Returnați bicicleta și încheiați seara cu o plimbare relaxantă de-a lungul promenadei de pe faleză, în timp ce se aprind luminile.",
+        "en": "Rent a bike in the morning and climb to the Clock Tower for an initial view. At midday, cycle to the historic Russian Bay and then relax at the famous Love Bay. In the afternoon, enjoy a late lunch on Askeli beach before returning to town. Drop off your bike and let the evening wind down with a leisurely stroll along the waterfront as the lights turn on."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverna Rota",
+            "tip": "In Askeli gelegen, bietet es großartige hausgemachte griechische Gerichte."
+          },
+          {
+            "name": "Souvlaki-Wrap",
+            "tip": "Ein schneller und leckerer Snack für unterwegs."
+          },
+          {
+            "name": "Frisch gepresster Orangensaft",
+            "tip": "Erfrischend nach einer langen Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rota Taverna",
+            "tip": "Askeliben található, nagyszerű házias görög ételeket kínál."
+          },
+          {
+            "name": "Souvlaki-tekercs",
+            "tip": "Gyors és finom harapnivaló útközben."
+          },
+          {
+            "name": "Frissen facsart narancslé",
+            "tip": "Frissítő egy hosszú kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna Rota",
+            "tip": "Situată în Askeli, oferă mâncăruri grecești excelente, gătite în casă."
+          },
+          {
+            "name": "Souvlaki la lipie",
+            "tip": "O gustare rapidă și delicioasă pentru drum."
+          },
+          {
+            "name": "Suc de portocale proaspăt stors",
+            "tip": "Răcoritor după o plimbare lungă cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taverna Rota",
+            "tip": "Located in Askeli, offers great home-cooked Greek dishes."
+          },
+          {
+            "name": "Souvlaki Wrap",
+            "tip": "A quick and delicious snack for on the go."
+          },
+          {
+            "name": "Freshly Squeezed Orange Juice",
+            "tip": "Refreshing after a long bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Russische Bucht am frühen Morgen",
+            "tip": "Genießen Sie die Stille und das spiegelglatte Wasser.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pinienwald bei Love Bay",
+            "tip": "Der Duft der Pinien und das Rauschen des Meeres sind sehr beruhigend.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orosz-öböl kora reggel",
+            "tip": "Élvezze a csendet és a tükörsima vizet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fenyőerdő a Love Bay-nél",
+            "tip": "A fenyők illata és a tenger zúgása nagyon megnyugtató.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Rusesc dimineața devreme",
+            "tip": "Bucurați-vă de liniște și de apa ca oglinda.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pădurea de pini de lângă Love Bay",
+            "tip": "Mirosul de pin și sunetul mării sunt foarte liniștitoare.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Russian Bay in the early morning",
+            "tip": "Enjoy the silence and the mirror-like water.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pine forest near Love Bay",
+            "tip": "The scent of the pines and the sound of the sea are very calming.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgemachter Schmuck",
+            "tip": "Kleine Boutiquen verkaufen einzigartigen Schmuck mit Meeresmotiven."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "Thymianhonig von Poros ist ein köstliches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített ékszerek",
+            "tip": "Kis butikok egyedi, tengeri motívumokkal díszített ékszereket árulnak."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "A poroszi kakukkfűméz finom szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii lucrate manual",
+            "tip": "Micile buticuri vând bijuterii unice cu motive marine."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Mierea de cimbru din Poros este un suvenir delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Jewelry",
+            "tip": "Small boutiques sell unique jewelry with sea-themed designs."
+          },
+          {
+            "name": "Local Honey",
+            "tip": "Thyme honey from Poros is a delicious souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zur Russischen Bucht und Love Bay ist relativ flach und für die meisten Fitnesslevel geeignet.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen, während Sie am Strand sind oder essen.",
+          "Einige Strände haben Fahrradständer.",
+          "Tragen Sie einen Hut und Sonnencreme, da es auf der Straße wenig Schatten gibt."
+        ],
+        "hu": [
+          "Az Orosz-öbölhöz és a Love Bay-hez vezető út viszonylag sík, a legtöbb edzettségi szintnek megfelel.",
+          "Hozzon magával lakatot, hogy biztonságban lezárhassa a kerékpárt, amíg a strandon van vagy eszik.",
+          "Néhány strandon van kerékpártároló.",
+          "Viseljen kalapot és naptejet, mivel az úton kevés az árnyék."
+        ],
+        "ro": [
+          "Drumul către Golful Rusesc și Love Bay este relativ plat și potrivit pentru majoritatea nivelurilor de fitness.",
+          "Aduceți un lacăt pentru a vă asigura bicicleta în timp ce sunteți la plajă sau la masă.",
+          "Unele plaje au suporturi pentru biciclete.",
+          "Purtați o pălărie și cremă de protecție solară, deoarece există puțină umbră pe drum."
+        ],
+        "en": [
+          "The road to Russian Bay and Love Bay is relatively flat and suitable for most fitness levels.",
+          "Bring a lock to secure your bike while you're on the beach or eating.",
+          "Some beaches have bike racks available.",
+          "Wear a hat and sunscreen as there is little shade on the road."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:22",
+      "total_km": 15.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Hafen & Spaziergang",
+            "hu": "Parkolás a kikötőben és séta",
+            "ro": "Parcare în port și plimbare",
+            "en": "Parking at the Port & Stroll"
+          },
+          "coords": [
+            23.453,
+            37.5
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Fähranleger. Der erste Cluster wird zu Fuß erkundet.",
+            "hu": "Parkoljon a kompkikötőnél. Az első klaszter gyalogosan fedezhető fel.",
+            "ro": "Parcați lângă terminalul de feribot. Primul grup de obiective va fi explorat pe jos.",
+            "en": "Park near the ferry terminal. The first cluster is explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Poros",
+            "hu": "Poroszi Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Poros",
+            "en": "Archaeological Museum of Poros"
+          },
+          "coords": [
+            23.451,
+            37.499
+          ],
+          "category": "museums",
+          "arrive_at": "09:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kleiner Spaziergang vom Parkplatz aus. Kaufen Sie hier Ihre Tickets.",
+            "hu": "Rövid séta a parkolótól. Itt veheti meg a jegyeket.",
+            "ro": "O scurtă plimbare de la parcare. Cumpărați biletele de aici.",
+            "en": "A short walk from where you parked. Buy your tickets here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Zoodochos Pigi",
+            "hu": "Zoodochos Pigi kolostor",
+            "ro": "Mănăstirea Zoodochos Pigi",
+            "en": "Monastery of Zoodochos Pigi"
+          },
+          "coords": [
+            23.49,
+            37.505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Kleiden Sie sich respektvoll. Die Fahrt bietet wunderschöne Ausblicke auf die Küste.",
+            "hu": "Öltözzön tisztelettudóan. Az út során gyönyörű kilátás nyílik a partra.",
+            "ro": "Îmbrăcați-vă respectuos. Drumul oferă vederi frumoase ale coastei.",
+            "en": "Dress respectfully. The drive offers beautiful coastal views."
+          }
+        },
+        {
+          "name": {
+            "de": "Danae-Leuchtturm",
+            "hu": "Danae-világítótorony",
+            "ro": "Farul Danae",
+            "en": "Danae Lighthouse"
+          },
+          "coords": [
+            23.418,
+            37.482
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Parken Sie und gehen Sie das letzte Stück. Ein malerischer Ort am Ende der Halbinsel.",
+            "hu": "Parkoljon le, és tegye meg gyalog az utolsó szakaszt. Festői hely a félsziget végén.",
+            "ro": "Parcați și mergeți pe jos ultima bucată. Un loc pitoresc la capătul peninsulei.",
+            "en": "Park and walk the final stretch. A picturesque spot at the end of the peninsula."
+          }
+        },
+        {
+          "name": {
+            "de": "Love Bay",
+            "hu": "Szerelem-öböl (Love Bay)",
+            "ro": "Golful Iubirii (Love Bay)",
+            "en": "Love Bay"
+          },
+          "coords": [
+            23.435,
+            37.495
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:33",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Zeit für ein langes Bad und Entspannung im Schatten der Pinien.",
+            "hu": "Ideje egy hosszú fürdőzésnek és pihenésnek a fenyők árnyékában.",
+            "ro": "Timpul pentru o baie lungă și relaxare la umbra pinilor.",
+            "en": "Time for a long swim and relaxation in the shade of the pines."
+          }
+        },
+        {
+          "name": {
+            "de": "Russische Marinestation",
+            "hu": "Orosz Haditengerészeti Állomás",
+            "ro": "Stația Navală Rusă",
+            "en": "Russian Naval Station"
+          },
+          "coords": [
+            23.43,
+            37.493
+          ],
+          "category": "historical",
+          "arrive_at": "15:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von Love Bay aus, um die historischen Ruinen zu sehen.",
+            "hu": "Rövid séta a Love Bay-től a történelmi romok megtekintéséhez.",
+            "ro": "O scurtă plimbare de la Love Bay pentru a vedea ruinele istorice.",
+            "en": "A short walk over from Love Bay to see the historic ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm zum Sonnenuntergang",
+            "hu": "Óratorony naplementekor",
+            "ro": "Turnul cu Ceas la apus",
+            "en": "Clock Tower for Sunset"
+          },
+          "coords": [
+            23.455,
+            37.502
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:49",
+          "stay_min": 30,
+          "hop_from_prev_min": 135,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in die Stadt, parken Sie erneut und steigen Sie für die beste Aussicht hinauf.",
+            "hu": "Vezessen vissza a városba, parkoljon le újra, és másszon fel a legjobb kilátásért.",
+            "ro": "Întoarceți-vă în oraș, parcați din nou și urcați pentru cea mai bună priveliște.",
+            "en": "Drive back to town, park again, and climb up for the best view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Stadtzentrum abstellen und den historischen Kern mit dem Museum zu Fuß erkunden. Mittags fahren Sie zum abgelegenen Kloster Zoodochos Pigi. Am Nachmittag geht es weiter zum westlichen Ende der Insel, um den Danae-Leuchtturm und die berühmte Love Bay für eine ausgiebige Pause zu besuchen. Bevor Sie zum Abendessen zurückkehren, machen Sie einen kurzen Spaziergang zu den Ruinen der Russischen Bucht und beenden den Tag mit dem Sonnenuntergang vom Uhrturm aus.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját a városközpontban, és gyalog fedezi fel a történelmi magot a múzeummal. Délben hajtson el a távoli Zoodochos Pigi kolostorhoz. Délután folytassa útját a sziget nyugati végébe, hogy meglátogassa a Danae-világítótornyot és a híres Szerelem-öblöt egy hosszabb pihenőre. Mielőtt visszatérne vacsorázni, tegyen egy rövid sétát az Orosz-öböl romjaihoz, és zárja a napot a naplementével az Óratoronytól.",
+        "ro": "Începeți ziua parcând mașina în centrul orașului și explorând pe jos nucleul istoric cu muzeul său. La prânz, conduceți până la Mănăstirea Zoodochos Pigi. După-amiaza, continuați spre capătul vestic al insulei pentru a vizita Farul Danae și faimosul Golf al Iubirii pentru o pauză extinsă. Înainte de a vă întoarce pentru cină, faceți o scurtă plimbare până la ruinele Golfului Rusesc și încheiați ziua cu apusul de la Turnul cu Ceas.",
+        "en": "Start your day by parking in the town center and exploring the historic core and its museum on foot. At midday, drive to the secluded Monastery of Zoodochos Pigi. In the afternoon, continue to the island's western end to visit the Danae Lighthouse and the famous Love Bay for an extended break. Before returning for dinner, take a short walk to the Russian Bay ruins and end the day watching the sunset from the Clock Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Apagio Taverna",
+            "tip": "Etwas außerhalb der Stadt, bekannt für ausgezeichnete Meeresfrüchte."
+          },
+          {
+            "name": "Lemon-Pie",
+            "tip": "Poros ist berühmt für seine Zitronen, probieren Sie unbedingt den lokalen Zitronenkuchen."
+          },
+          {
+            "name": "Taverne am Strand von Askeli",
+            "tip": "Perfekt für ein zwangloses Mittagessen mit den Füßen im Sand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Apagio Taverna",
+            "tip": "Kicsit a városon kívül, kiváló tengeri ételeiről ismert."
+          },
+          {
+            "name": "Citrontorta",
+            "tip": "Porosz híres a citromjáról, feltétlenül kóstolja meg a helyi citromtortát."
+          },
+          {
+            "name": "Taverna Askeli strandján",
+            "tip": "Tökéletes egy laza ebédhez, lábbal a homokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna Apagio",
+            "tip": "Puțin în afara orașului, renumită pentru fructele de mare excelente."
+          },
+          {
+            "name": "Plăcintă cu lămâie",
+            "tip": "Poros este renumit pentru lămâile sale, asigurați-vă că încercați plăcinta locală cu lămâie."
+          },
+          {
+            "name": "Tavernă pe plaja Askeli",
+            "tip": "Perfect pentru un prânz casual cu picioarele în nisip."
+          }
+        ],
+        "en": [
+          {
+            "name": "Apagio Taverna",
+            "tip": "Slightly out of town, known for excellent seafood."
+          },
+          {
+            "name": "Lemon Pie",
+            "tip": "Poros is famous for its lemons, make sure to try the local lemon pie."
+          },
+          {
+            "name": "Taverna on Askeli Beach",
+            "tip": "Perfect for a casual lunch with your feet in the sand."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster Zoodochos Pigi",
+            "tip": "Ein Ort der Stille und Besinnung mit einem schönen Innenhof.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Danae-Leuchtturm",
+            "tip": "Genießen Sie die Meeresbrise und die Einsamkeit am Rande der Insel.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zoodochos Pigi kolostor",
+            "tip": "A csend és az elmélkedés helye, gyönyörű belső udvarral.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Danae-világítótorony",
+            "tip": "Élvezze a tengeri szellőt és a magányt a sziget szélén.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Zoodochos Pigi",
+            "tip": "Un loc de liniște și contemplare, cu o curte interioară frumoasă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Farul Danae",
+            "tip": "Bucurați-vă de briza mării și de singurătate la marginea insulei.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery of Zoodochos Pigi",
+            "tip": "A place of peace and contemplation with a beautiful courtyard.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Danae Lighthouse",
+            "tip": "Enjoy the sea breeze and solitude at the edge of the island.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lemon-Produkte",
+            "tip": "Von Likör (Limoncello) bis hin zu Marmelade finden Sie alles aus den berühmten lokalen Zitronen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citromos termékek",
+            "tip": "A likőrtől (Limoncello) a lekvárig mindent megtalál a híres helyi citromból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse din lămâie",
+            "tip": "De la lichior (Limoncello) la gem, veți găsi totul făcut din faimoasele lămâi locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lemon Products",
+            "tip": "From liqueur (Limoncello) to jam, you'll find everything made from the famous local lemons."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in Poros-Stadt kann im Sommer schwierig sein. Seien Sie geduldig oder nutzen Sie die Parkplätze am Rande der Stadt.",
+          "Die Straßen sind eng, fahren Sie vorsichtig.",
+          "Ein Auto gibt Ihnen die Freiheit, versteckte Buchten und Strände zu entdecken.",
+          "Überprüfen Sie die Öffnungszeiten des Klosters, bevor Sie hinfahren."
+        ],
+        "hu": [
+          "A parkolás Porosz városában nyáron nehéz lehet. Legyen türelmes, vagy használja a város szélén lévő parkolókat.",
+          "Az utak szűkek, vezessen óvatosan.",
+          "Az autó szabadságot ad a rejtett öblök és strandok felfedezéséhez.",
+          "Indulás előtt ellenőrizze a kolostor nyitvatartási idejét."
+        ],
+        "ro": [
+          "Parcarea în orașul Poros poate fi dificilă în timpul verii. Aveți răbdare sau folosiți parcările de la marginea orașului.",
+          "Străzile sunt înguste, conduceți cu prudență.",
+          "O mașină vă oferă libertatea de a descoperi golfuri și plaje ascunse.",
+          "Verificați programul de funcționare al mănăstirii înainte de a merge."
+        ],
+        "en": [
+          "Parking in Poros town can be difficult in the summer. Be patient or use the car parks on the outskirts.",
+          "The roads are narrow, so drive carefully.",
+          "A car gives you the freedom to discover hidden coves and beaches.",
+          "Check the opening hours of the monastery before you go."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Hafen & Spaziergang",
+            "hu": "Érkezés a kikötőbe és séta",
+            "ro": "Sosire în port și plimbare",
+            "en": "Arrival at Port & Stroll"
+          },
+          "coords": [
+            23.453,
+            37.5
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Platz, wo die Busse und Wassertaxis abfahren.",
+            "hu": "Kezdje a központi téren, ahonnan a buszok és a vízitaxik indulnak.",
+            "ro": "Începeți din piața centrală, de unde pleacă autobuzele și taxiurile pe apă.",
+            "en": "Start at the central square where buses and water taxis depart."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Poros",
+            "hu": "Poroszi Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Poros",
+            "en": "Archaeological Museum of Poros"
+          },
+          "coords": [
+            23.451,
+            37.499
+          ],
+          "category": "museums",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz durch die Einkaufsstraßen.",
+            "hu": "Rövid séta a főtérről a bevásárlóutcákon keresztül.",
+            "ro": "O scurtă plimbare din piața principală pe străzile comerciale.",
+            "en": "A short walk from the main square through the shopping streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Kloster Zoodochos Pigi",
+            "hu": "Busz a Zoodochos Pigi kolostorhoz",
+            "ro": "Autobuz spre Mănăstirea Zoodochos Pigi",
+            "en": "Bus to Zoodochos Pigi Monastery"
+          },
+          "coords": [
+            23.49,
+            37.505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über den Busfahrplan, da die Busse nicht sehr oft fahren.",
+            "hu": "Ellenőrizze a buszmenetrendet, mivel a buszok nem járnak túl gyakran.",
+            "ro": "Verificați orarul autobuzelor, deoarece nu circulă foarte des.",
+            "en": "Check the bus schedule, as they don't run very frequently."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus & Spaziergang zur Love Bay",
+            "hu": "Busz és séta a Love Bay-hez",
+            "ro": "Autobuz și plimbare la Love Bay",
+            "en": "Bus & Walk to Love Bay"
+          },
+          "coords": [
+            23.435,
+            37.495
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück Richtung Stadt und steigen Sie an der Haltestelle für Love Bay aus.",
+            "hu": "Menjen vissza busszal a város felé, és szálljon le a Love Bay megállónál.",
+            "ro": "Luați autobuzul înapoi spre oraș și coborâți la stația pentru Love Bay.",
+            "en": "Take the bus back towards town and get off at the stop for Love Bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Wassertaxi zum Uhrturm",
+            "hu": "Vízitaxi az Óratoronyhoz",
+            "ro": "Taxi pe apă la Turnul cu Ceas",
+            "en": "Water Taxi to Clock Tower area"
+          },
+          "coords": [
+            23.455,
+            37.502
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eine schnelle und malerische Fahrt zurück in die Stadt.",
+            "hu": "Gyors és festői út vissza a városba.",
+            "ro": "O călătorie rapidă și pitorească înapoi în oraș.",
+            "en": "A quick and scenic ride back to town."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Altstadt",
+            "hu": "Vacsora az óvárosban",
+            "ro": "Cină în orașul vechi",
+            "en": "Dinner in the Old Town"
+          },
+          "coords": [
+            23.452,
+            37.4995
+          ],
+          "category": "gastro",
+          "arrive_at": "18:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Finden Sie eine Taverne in der Nähe des Uhrturms.",
+            "hu": "Keressen egy tavernát az Óratorony közelében.",
+            "ro": "Găsiți o tavernă lângă Turnul cu Ceas.",
+            "en": "Find a taverna near the Clock Tower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Poros-Stadt und besuchen Sie das Museum. Nehmen Sie mittags den Bus zum friedlichen Kloster Zoodochos Pigi. Am Nachmittag fahren Sie mit dem Bus und einem kurzen Spaziergang zur Love Bay, um im kristallklaren Wasser zu schwimmen. Ein Wassertaxi bringt Sie am späten Nachmittag zurück in die Stadt, rechtzeitig um den Sonnenuntergang vom Uhrturm aus zu genießen, bevor Sie den Abend in einer lokalen Taverne ausklingen lassen.",
+        "hu": "Kezdje a napot Porosz város szívében, és látogassa meg a múzeumot. Délben buszozzon el a békés Zoodochos Pigi kolostorhoz. Délután busszal és egy rövid sétával juthat el a Love Bay-hez, hogy ússzon egyet a kristálytiszta vízben. Késő délután egy vízitaxi viszi vissza a városba, éppen időben, hogy élvezze a naplementét az Óratoronytól, mielőtt egy helyi tavernában zárja az estét.",
+        "ro": "Începeți ziua în inima orașului Poros și vizitați muzeul. La prânz, luați autobuzul până la liniștita Mănăstire Zoodochos Pigi. După-amiaza, călătoriți cu autobuzul și o scurtă plimbare până la Love Bay pentru o baie în apele cristaline. Un taxi pe apă vă va duce înapoi în oraș după-amiaza târziu, la timp pentru a vă bucura de apusul de la Turnul cu Ceas înainte de a încheia seara la o tavernă locală.",
+        "en": "Start your day in the heart of Poros town and visit the museum. At midday, take the bus to the peaceful Zoodochos Pigi Monastery. In the afternoon, travel by bus and a short walk to Love Bay for a swim in the crystal-clear waters. A water taxi will take you back to town in the late afternoon, just in time to enjoy the sunset from the Clock Tower before finishing the evening at a local taverna."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meeresfrüchte-Pasta",
+            "tip": "Viele Restaurants am Hafen servieren ausgezeichnete Pasta mit frischen Meeresfrüchten."
+          },
+          {
+            "name": "Gia mas Taverna",
+            "tip": "Eine familiengeführte Taverne mit authentischer Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei tészta",
+            "tip": "Sok étterem a kikötőben kiváló tésztát szolgál fel friss tenger gyümölcseivel."
+          },
+          {
+            "name": "Gia mas Taverna",
+            "tip": "Családi vezetésű taverna autentikus konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste cu fructe de mare",
+            "tip": "Multe restaurante din port servesc paste excelente cu fructe de mare proaspete."
+          },
+          {
+            "name": "Taverna Gia mas",
+            "tip": "O tavernă de familie cu bucătărie autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Pasta",
+            "tip": "Many harbourside restaurants serve excellent pasta with fresh seafood."
+          },
+          {
+            "name": "Gia mas Taverna",
+            "tip": "A family-run taverna with authentic cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wassertaxifahrt",
+            "tip": "Die Fahrt zwischen den Buchten bietet eine ruhige Perspektive auf die Insel.",
+            "emoji": "🚤"
+          },
+          {
+            "name": "Eine Bank in der Nähe der Kathedrale",
+            "tip": "Ein schattiger, ruhiger Ort, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vízitaxi út",
+            "tip": "Az öblök közötti utazás csendes perspektívát kínál a szigetre.",
+            "emoji": "🚤"
+          },
+          {
+            "name": "Egy pad a székesegyház közelében",
+            "tip": "Árnyékos, csendes hely a város nyüzsgésétől távol.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu taxiul pe apă",
+            "tip": "Călătoria între golfuri oferă o perspectivă liniștită asupra insulei.",
+            "emoji": "🚤"
+          },
+          {
+            "name": "O bancă lângă catedrală",
+            "tip": "Un loc umbros și liniștit pentru a scăpa de agitația orașului.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Water Taxi Ride",
+            "tip": "The journey between coves offers a quiet perspective on the island.",
+            "emoji": "🚤"
+          },
+          {
+            "name": "A bench near the Cathedral",
+            "tip": "A shady, quiet spot to escape the town's bustle.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Komboloi (Sorgenperlen)",
+            "tip": "Ein klassisches griechisches Souvenir, in vielen Geschäften erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Komboloi (aggodalomgyöngyök)",
+            "tip": "Klasszikus görög szuvenír, sok üzletben kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Komboloi (mărgele de îngrijorare)",
+            "tip": "Un suvenir grecesc clasic, disponibil în multe magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Komboloi (Worry Beads)",
+            "tip": "A classic Greek souvenir, available in many shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Fahrpläne für Busse und Wassertaxis sind am Hafen ausgehängt.",
+          "Wassertaxis sind oft schneller als Busse, aber etwas teurer.",
+          "Kaufen Sie Bustickets im Voraus in Kiosken, wenn möglich.",
+          "Fragen Sie die Einheimischen nach den besten Verbindungen, sie sind sehr hilfsbereit."
+        ],
+        "hu": [
+          "A buszok és vízitaxik menetrendje a kikötőben van kifüggesztve.",
+          "A vízitaxik gyakran gyorsabbak, mint a buszok, de valamivel drágábbak.",
+          "Ha lehetséges, vásároljon buszjegyet előre a kioszkokban.",
+          "Kérdezze meg a helyieket a legjobb közlekedési lehetőségekről, nagyon segítőkészek."
+        ],
+        "ro": [
+          "Orarele pentru autobuze și taxiuri pe apă sunt afișate în port.",
+          "Taxiurile pe apă sunt adesea mai rapide decât autobuzele, dar puțin mai scumpe.",
+          "Cumpărați bilete de autobuz în avans de la chioșcuri, dacă este posibil.",
+          "Întrebați localnicii despre cele mai bune legături, sunt foarte de ajutor."
+        ],
+        "en": [
+          "Schedules for buses and water taxis are posted at the port.",
+          "Water taxis are often faster than buses but slightly more expensive.",
+          "Buy bus tickets in advance from kiosks if possible.",
+          "Ask locals for the best connections; they are very helpful."
+        ]
+      }
+    }
+  }
+}

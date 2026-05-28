@@ -1,0 +1,1232 @@
+{
+  "city_id": "austria-wolfsberg-cities-v2",
+  "anchor": {
+    "name": "Wolfsberg",
+    "coords": [
+      46.8394,
+      14.8455
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hoher Platz",
+            "hu": "Hoher Platz",
+            "ro": "Piața Hoher Platz",
+            "en": "Hoher Platz Square"
+          },
+          "coords": [
+            46.8405,
+            14.8438
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der charmanten Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele fermecătoare din piață.",
+            "en": "Start your day with a coffee at one of the charming cafés on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Wolfsberg",
+            "hu": "Wolfsbergi Városháza",
+            "ro": "Primăria Wolfsberg",
+            "en": "Wolfsberg Town Hall"
+          },
+          "coords": [
+            46.8408,
+            14.8442
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:41",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade des historischen Gebäudes, ein schönes Fotomotiv.",
+            "hu": "Csodálja meg a történelmi épület homlokzatát, remek fotótéma.",
+            "ro": "Admirați fațada clădirii istorice, un subiect excelent pentru fotografii.",
+            "en": "Admire the facade of the historic building, a great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Markus",
+            "hu": "Szent Márk Plébániatemplom",
+            "ro": "Biserica Parohială Sf. Marcu",
+            "en": "St. Mark's Parish Church"
+          },
+          "coords": [
+            46.8399,
+            14.8428
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den beeindruckenden Glasfenstern und dem kunstvollen Altar.",
+            "hu": "Keresse a lenyűgöző ólomüveg ablakokat és a művészien faragott oltárt.",
+            "ro": "Căutați vitraliile impresionante și altarul bogat ornamentat.",
+            "en": "Look for the impressive stained glass windows and the ornate altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum im Lavanthaus",
+            "hu": "Lavanthaus Múzeum",
+            "ro": "Muzeul Lavanthaus",
+            "en": "Museum in the Lavanthaus"
+          },
+          "coords": [
+            46.8385,
+            14.8415
+          ],
+          "category": "museums",
+          "arrive_at": "11:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die interaktiven Ausstellungen zur Regionalgeschichte ein.",
+            "hu": "Tervezzen elég időt a regionális történelemmel foglalkozó interaktív kiállításokra.",
+            "ro": "Planificați suficient timp pentru expozițiile interactive despre istoria regională.",
+            "en": "Plan enough time for the interactive exhibitions on regional history."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Wolfsberg",
+            "hu": "Wolfsberg Kastély",
+            "ro": "Castelul Wolfsberg",
+            "en": "Wolfsberg Castle"
+          },
+          "coords": [
+            46.8451,
+            14.8359
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über das Lavanttal von den Schlossterrassen.",
+            "hu": "Élvezze a panorámát a Lavant-völgyre a kastély teraszairól.",
+            "ro": "Bucurați-vă de vederea panoramică asupra Văii Lavant de pe terasele castelului.",
+            "en": "Enjoy the panoramic view over the Lavanttal valley from the castle terraces."
+          }
+        },
+        {
+          "name": {
+            "de": "Filialkirche St. Jakob",
+            "hu": "Szent Jakab-templom",
+            "ro": "Biserica filială Sf. Iacob",
+            "en": "St. Jacob's Branch Church"
+          },
+          "coords": [
+            46.834,
+            14.8465
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für eine kurze Pause, etwas abseits des Haupttrubels.",
+            "hu": "Egy csendes hely egy rövid pihenőre, távol a fő nyüzsgéstől.",
+            "ro": "Un loc liniștit pentru o scurtă pauză, puțin departe de agitația principală.",
+            "en": "A quiet place for a short break, slightly away from the main hustle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Wolfsberg beginnt am lebhaften Hohen Platz, dem Herzen der Altstadt. Von hier aus schlendern Sie durch historische Gassen zur imposanten Stadtpfarrkirche St. Markus. Am Vormittag entdecken Sie die reiche Geschichte der Region im modernen Museum im Lavanthaus.\nNach einem stärkenden Mittagessen führt Sie ein angenehmer Spaziergang den Hügel hinauf zum majestätischen Schloss Wolfsberg. Der Panoramablick von hier oben ist die Belohnung für den Aufstieg. Sie werden die beeindruckende Architektur bewundern und die ruhige Atmosphäre genießen.\nAm Nachmittag spazieren Sie zurück in Richtung Stadtzentrum und machen Halt an der charmanten Filialkirche St. Jakob. Dieser friedliche Ort bietet einen Moment der Besinnung. Der Weg führt Sie durch ruhigere Wohngegenden und zeigt eine andere Facette der Stadt.\nZum Ausklang des Tages kehren Sie ins Zentrum zurück. Genießen Sie ein Abendessen in einem der traditionellen Gasthäuser oder lassen Sie den Tag bei einem Glas Wein aus der Region ausklingen und reflektieren Sie die Eindrücke Ihres Spaziergangs.",
+        "hu": "Wolfsbergi sétája a nyüzsgő Hoher Platzon, az óváros szívében kezdődik. Innen történelmi sikátorokon keresztül sétálhat el a lenyűgöző Szent Márk plébániatemplomhoz. Délelőtt a modern Lavanthaus Múzeumban fedezheti fel a régió gazdag történelmét.\nEgy kiadós ebéd után egy kellemes séta vezet fel a dombra a fenséges Wolfsberg kastélyhoz. A panorámás kilátás a jutalom a kaptatóért. Megcsodálhatja a lenyűgöző építészetet és élvezheti a nyugodt légkört.\nDélután visszasétál a városközpont felé, megállva a bájos Szent Jakab-templomnál. Ez a békés hely lehetőséget ad egy pillanatnyi elmélyülésre. Az út csendesebb lakónegyedeken vezet keresztül, megmutatva a város egy másik arcát.\nA nap végén térjen vissza a központba. Vacsorázzon egy hagyományos vendéglőben, vagy zárja a napot egy pohár helyi borral, átgondolva a séta során szerzett benyomásokat.",
+        "ro": "Plimbarea dvs. prin Wolfsberg începe în animata Piață Hoher Platz, inima orașului vechi. De aici, vă plimbați pe străduțe istorice până la impunătoarea Biserică Parohială Sf. Marcu. Dimineața, descoperiți istoria bogată a regiunii la modernul Muzeu Lavanthaus.\nDupă un prânz revigorant, o plimbare plăcută vă duce pe deal până la maiestuosul Castel Wolfsberg. Vederea panoramică de aici este recompensa pentru urcuș. Veți admira arhitectura impresionantă și vă veți bucura de atmosfera liniștită.\nDupă-amiaza, vă întoarceți spre centrul orașului, oprindu-vă la fermecătoarea Biserică filială Sf. Iacob. Acest loc pașnic oferă un moment de reflecție. Traseul vă poartă prin cartiere rezidențiale mai liniștite, arătând o altă față a orașului.\nLa finalul zilei, reveniți în centru. Savurați o cină la unul dintre hanurile tradiționale sau încheiați ziua cu un pahar de vin local, reflectând la impresiile plimbării dvs.",
+        "en": "Your walk through Wolfsberg begins at the lively Hoher Platz, the heart of the old town. From here, you'll stroll through historic alleys to the imposing St. Mark's Parish Church. In the morning, you'll discover the region's rich history at the modern Museum in the Lavanthaus.\nAfter a hearty lunch, a pleasant walk takes you up the hill to the majestic Wolfsberg Castle. The panoramic view from up here is the reward for the climb. You will admire the impressive architecture and enjoy the peaceful atmosphere.\nIn the afternoon, you'll walk back towards the city center, stopping at the charming St. Jacob's Branch Church. This peaceful place offers a moment of reflection. The path takes you through quieter residential areas, showing another side of the city.\nTo round off the day, return to the center. Enjoy dinner at one of the traditional inns or end the day with a glass of local wine, reflecting on the impressions of your walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lavanttaler Apfelwein (Most)",
+            "tip": "Ein erfrischender, leicht säuerlicher Apfelwein, typisch für die Region. Probieren Sie ihn in einem Buschenschank."
+          },
+          {
+            "name": "Kärntner Kasnudeln",
+            "tip": "Handgemachte Teigtaschen mit einer Füllung aus Kartoffeln, Quark und Minze."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lavant-völgyi almabor (Most)",
+            "tip": "Frissítő, enyhén savanykás almabor, a régió jellegzetessége. Kóstolja meg egy Buschenschankban."
+          },
+          {
+            "name": "Karintiai sajtos tészta (Kasnudeln)",
+            "tip": "Kézzel készített tésztatáskák krumplis-túrós-mentás töltelékkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de mere din Lavanttal (Most)",
+            "tip": "Un vin de mere răcoritor, ușor acidulat, tipic pentru regiune. Încercați-l la un 'Buschenschank'."
+          },
+          {
+            "name": "Kärntner Kasnudeln",
+            "tip": "Găluște făcute manual, umplute cu cartofi, brânză de vaci și mentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavanttal Apple Wine (Most)",
+            "tip": "A refreshing, slightly tart apple wine, typical for the region. Try it at a 'Buschenschank' (wine tavern)."
+          },
+          {
+            "name": "Carinthian Cheese Noodles (Kasnudeln)",
+            "tip": "Handmade pasta pockets with a filling of potatoes, curd cheese, and mint."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossterrassen Wolfsberg",
+            "tip": "Der beste Ort für einen weiten Blick und eine ruhige Minute.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer der Lavant",
+            "tip": "Ein Spaziergang entlang des Flusses ist immer entspannend.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wolfsberg kastélyteraszai",
+            "tip": "A legjobb hely a széles kilátásért és egy csendes percért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Lavant folyó partja",
+            "tip": "Egy séta a folyó mentén mindig pihentető.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasele Castelului Wolfsberg",
+            "tip": "Cel mai bun loc pentru o priveliște largă și un moment de liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile râului Lavant",
+            "tip": "O plimbare de-a lungul râului este întotdeauna relaxantă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wolfsberg Castle Terraces",
+            "tip": "The best place for a wide view and a quiet minute.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Lavant River",
+            "tip": "A walk along the river is always relaxing.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt am Griesplatz",
+            "tip": "Kaufen Sie lokale Produkte wie Zirbenschnaps oder Lavanttaler Apfelsaft."
+          },
+          {
+            "name": "Souvenirläden am Hohen Platz",
+            "tip": "Finden Sie handgefertigte Andenken und lokale Kunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac a Griesplatzon",
+            "tip": "Vásároljon helyi termékeket, például cirbolyapálinkát vagy Lavant-völgyi almalevet."
+          },
+          {
+            "name": "Ajándékboltok a Hoher Platzon",
+            "tip": "Találjon kézzel készített szuveníreket és helyi művészeti alkotásokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Griesplatz",
+            "tip": "Cumpărați produse locale precum rachiu de pin (Zirbenschnaps) sau suc de mere din Lavanttal."
+          },
+          {
+            "name": "Magazine de suveniruri în Hoher Platz",
+            "tip": "Găsiți suveniruri artizanale și artă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market on Griesplatz",
+            "tip": "Buy local products like stone pine schnapps (Zirbenschnaps) or Lavanttal apple juice."
+          },
+          {
+            "name": "Souvenir Shops on Hoher Platz",
+            "tip": "Find handcrafted souvenirs and local art."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Weg zum Schloss ansteigend ist.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Wolfsberg ist kompakt, aber die kleinen Gassen können verwirrend sein; eine Karte ist hilfreich.",
+          "Viele Geschäfte haben über Mittag geschlossen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a kastélyhoz vezető út emelkedik.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "Wolfsberg kompakt, de a kis sikátorok zavaróak lehetnek; egy térkép hasznos.",
+          "Sok üzlet bezár délben."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece drumul spre castel este în pantă.",
+          "Verificați în prealabil programul de funcționare al muzeului.",
+          "Wolfsberg este compact, dar străduțele pot fi încurcate; o hartă este utilă.",
+          "Multe magazine sunt închise la prânz."
+        ],
+        "en": [
+          "Wear comfortable shoes as the path to the castle is uphill.",
+          "Check the museum's opening hours in advance.",
+          "Wolfsberg is compact, but the small alleys can be confusing; a map is helpful.",
+          "Many shops close for lunch."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Griesplatz",
+            "hu": "Griesplatz",
+            "ro": "Piața Gries",
+            "en": "Griesplatz Square"
+          },
+          "coords": [
+            46.8366,
+            14.8461
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit Parkmöglichkeiten für Fahrräder.",
+            "hu": "Jó kiindulópont kerékpárparkolási lehetőségekkel.",
+            "ro": "Un bun punct de plecare cu facilități de parcare pentru biciclete.",
+            "en": "A good starting point with bicycle parking facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Hoher Platz",
+            "hu": "Hoher Platz",
+            "ro": "Piața Hoher Platz",
+            "en": "Hoher Platz Square"
+          },
+          "coords": [
+            46.8405,
+            14.8438
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:36",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die Altstadt zu Fuß.",
+            "hu": "Tegye le a biciklit, és fedezze fel gyalog az óvárost.",
+            "ro": "Parcați bicicleta și explorați centrul vechi pe jos.",
+            "en": "Park your bike and explore the old town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Markus",
+            "hu": "Szent Márk Plébániatemplom",
+            "ro": "Biserica Parohială Sf. Marcu",
+            "en": "St. Mark's Parish Church"
+          },
+          "coords": [
+            46.8399,
+            14.8428
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Im Inneren finden Sie eine Oase der Ruhe abseits des städtischen Trubels.",
+            "hu": "Belül a nyugalom oázisára lel a városi nyüzsgéstől távol.",
+            "ro": "În interior veți găsi o oază de liniște, departe de agitația orașului.",
+            "en": "Inside you'll find an oasis of calm away from the city hustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum im Lavanthaus",
+            "hu": "Lavanthaus Múzeum",
+            "ro": "Muzeul Lavanthaus",
+            "en": "Museum in the Lavanthaus"
+          },
+          "coords": [
+            46.8385,
+            14.8415
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Museum ist fahrradfreundlich und bietet sichere Abstellmöglichkeiten.",
+            "hu": "A múzeum biciklibarát, és biztonságos tárolókat kínál.",
+            "ro": "Muzeul este prietenos cu bicicliștii și oferă locuri sigure de parcare.",
+            "en": "The museum is bike-friendly and offers secure parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Kultur- und Seminarzentrum Kuss",
+            "hu": "Kuss Kultúr- és Szemináriumközpont",
+            "ro": "Centrul Cultural și de Seminarii Kuss",
+            "en": "Kuss Culture and Seminar Center"
+          },
+          "coords": [
+            46.8319,
+            14.8492
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:53",
+          "stay_min": 20,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm, vielleicht gibt es eine interessante Veranstaltung.",
+            "hu": "Nézze meg a programot, hátha van egy érdekes esemény.",
+            "ro": "Verificați programul, poate există un eveniment interesant.",
+            "en": "Check the program, there might be an interesting event."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Wolfsberg",
+            "hu": "Wolfsberg Kastély",
+            "ro": "Castelul Wolfsberg",
+            "en": "Wolfsberg Castle"
+          },
+          "coords": [
+            46.8451,
+            14.8359
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:51",
+          "stay_min": 110,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der Anstieg ist anspruchsvoll, aber der Lavanttal-Radweg führt in der Nähe vorbei.",
+            "hu": "Az emelkedő kihívást jelent, de a Lavant-völgyi kerékpárút a közelben halad el.",
+            "ro": "Urcușul este solicitant, dar pista de biciclete Lavanttal trece prin apropiere.",
+            "en": "The climb is challenging, but the Lavanttal cycle path passes nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am Griesplatz, von wo aus Sie schnell ins historische Zentrum gelangen. Die erste Etappe führt Sie zum Hohen Platz, wo Sie das Fahrrad abstellen und die Atmosphäre der Altstadt genießen. Danach besuchen Sie die nahegelegene Stadtpfarrkirche St. Markus.\nAm Vormittag radeln Sie zum Museum im Lavanthaus, um in die Geschichte einzutauchen. Die Route ist flach und angenehm. Nach dem Museumsbesuch gönnen Sie sich eine Mittagspause in einem der vielen Restaurants der Innenstadt.\nGestärkt geht es am Nachmittag auf eine längere Etappe zum Kulturzentrum Kuss am Stadtrand. Der Weg dorthin führt durch ruhigere Viertel und Parks. Von dort aus nehmen Sie die Herausforderung an und radeln hinauf zum Schloss Wolfsberg.\nDer Anstieg zum Schloss wird mit einer atemberaubenden Aussicht belohnt. Nehmen Sie sich Zeit, das Schlossgelände zu erkunden, bevor Sie die Abfahrt zurück in die Stadt genießen. Ihr Tag endet mit einer entspannten Rückfahrt ins Zentrum.",
+        "hu": "Kerékpártúrája a Griesplatzról indul, ahonnan gyorsan bejut a történelmi központba. Az első szakasz a Hoher Platzra vezet, ahol leteszi a kerékpárt és élvezi az óváros hangulatát. Ezután meglátogatja a közeli Szent Márk plébániatemplomot.\nDélelőtt a Lavanthaus Múzeumba teker, hogy elmerüljön a történelemben. Az útvonal sík és kellemes. A múzeumlátogatás után ebédszünetet tart a belváros egyik éttermében.\nErőt gyűjtve délután egy hosszabb szakasz következik a Kuss kultúrközponthoz a város szélén. Az út csendesebb negyedeken és parkokon keresztül vezet. Onnan vállalkozik a kihívásra, és felteker a Wolfsberg kastélyhoz.\nA kastélyhoz vezető emelkedőt lélegzetelállító kilátás jutalmazza. Szánjon időt a kastély területének felfedezésére, mielőtt élvezné a lejtmenetet vissza a városba. A nap egy pihentető visszaúttal zárul a központba.",
+        "ro": "Turul dvs. cu bicicleta începe din Griesplatz, de unde ajungeți rapid în centrul istoric. Prima etapă vă duce în Hoher Platz, unde parcați bicicleta și vă bucurați de atmosfera orașului vechi. Apoi vizitați Biserica Parohială Sf. Marcu din apropiere.\nDimineața pedalați spre Muzeul Lavanthaus pentru a vă cufunda în istorie. Traseul este plat și plăcut. După vizitarea muzeului, luați o pauză de prânz la unul dintre numeroasele restaurante din centrul orașului.\nRevigorat, după-amiaza porniți într-o etapă mai lungă spre Centrul Cultural Kuss, la marginea orașului. Drumul până acolo trece prin cartiere și parcuri mai liniștite. De acolo, acceptați provocarea și pedalați până la Castelul Wolfsberg.\nUrcușul spre castel este răsplătit cu o priveliște uluitoare. Luați-vă timp să explorați domeniul castelului înainte de a vă bucura de coborârea înapoi în oraș. Ziua se încheie cu o plimbare relaxantă înapoi în centru.",
+        "en": "Your bike tour starts at Griesplatz, from where you can quickly reach the historic center. The first stage takes you to Hoher Platz, where you can park your bike and enjoy the atmosphere of the old town. Afterwards, you'll visit the nearby St. Mark's Parish Church.\nIn the morning, you'll cycle to the Museum in the Lavanthaus to delve into history. The route is flat and pleasant. After visiting the museum, treat yourself to a lunch break in one of the many downtown restaurants.\nRefreshed, you'll embark on a longer stage in the afternoon to the Kuss cultural center on the outskirts of town. The path there leads through quieter neighborhoods and parks. From there, you'll take on the challenge and cycle up to Wolfsberg Castle.\nThe climb to the castle is rewarded with a breathtaking view. Take your time to explore the castle grounds before enjoying the descent back into town. Your day ends with a relaxed ride back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brettljause",
+            "tip": "Eine herzhafte Platte mit regionalem Speck, Wurst und Käse, ideal für eine Radlerpause."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein klassischer österreichischer Nachtisch, der nach einer langen Tour neue Energie gibt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paraszttál (Brettljause)",
+            "tip": "Kiadós tál helyi szalonnával, kolbásszal és sajttal, ideális egy biciklis pihenőhöz."
+          },
+          {
+            "name": "Almás rétes (Apfelstrudel)",
+            "tip": "Klasszikus osztrák desszert, amely új energiát ad egy hosszú túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platou țărănesc (Brettljause)",
+            "tip": "Un platou consistent cu slănină, cârnați și brânză regională, ideal pentru o pauză de ciclist."
+          },
+          {
+            "name": "Ștrudel cu mere (Apfelstrudel)",
+            "tip": "Un desert austriac clasic care vă redă energia după un tur lung."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmer's Platter (Brettljause)",
+            "tip": "A hearty platter with regional bacon, sausage, and cheese, ideal for a cyclist's break."
+          },
+          {
+            "name": "Apple Strudel (Apfelstrudel)",
+            "tip": "A classic Austrian dessert that gives you new energy after a long tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lavant-Radweg",
+            "tip": "Folgen Sie dem Fluss für eine ruhige und flache Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick vom Schlossberg",
+            "tip": "Der beste Ort, um durchzuatmen und die Landschaft zu genießen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lavant-kerékpárút",
+            "tip": "Kövesse a folyót egy csendes és sík útvonalon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Várhegyről",
+            "tip": "A legjobb hely, hogy levegőt vegyen és élvezze a tájat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete Lavant",
+            "tip": "Urmați râul pentru o plimbare liniștită și plată.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliștea de pe Dealul Castelului",
+            "tip": "Cel mai bun loc pentru a respira adânc și a vă bucura de peisaj.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavant Cycle Path",
+            "tip": "Follow the river for a quiet and flat ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Castle Hill",
+            "tip": "The best place to take a breath and enjoy the scenery.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für den Fall, dass Sie Ersatzteile oder Zubehör benötigen."
+          },
+          {
+            "name": "Bauernläden",
+            "tip": "Kaufen Sie hausgemachte Marmeladen und Säfte als Proviant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha pótalkatrészekre vagy kiegészítőkre lenne szüksége."
+          },
+          {
+            "name": "Termelői boltok",
+            "tip": "Vásároljon házi lekvárokat és gyümölcsleveket útravalónak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de piese de schimb sau accesorii."
+          },
+          {
+            "name": "Magazine agricole",
+            "tip": "Cumpărați gemuri și sucuri de casă pentru provizii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "In case you need any spare parts or accessories."
+          },
+          {
+            "name": "Farm Shops",
+            "tip": "Buy homemade jams and juices for provisions."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Helm ist empfehlenswert, besonders bei der Abfahrt vom Schloss.",
+          "Nehmen Sie genügend Wasser mit, der Anstieg kann anstrengend sein.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders im Stadtzentrum.",
+          "Achten Sie auf die Radwegbeschilderung, um sich nicht zu verfahren."
+        ],
+        "hu": [
+          "Sisak viselése ajánlott, különösen a kastélyból lefelé jövet.",
+          "Vigyen magával elegendő vizet, az emelkedő megerőltető lehet.",
+          "Mindig zárja le jól a kerékpárját, különösen a városközpontban.",
+          "Figyeljen a kerékpárút jelzéseire, hogy ne tévedjen el."
+        ],
+        "ro": [
+          "Se recomandă purtarea căștii, în special la coborârea de la castel.",
+          "Luați suficientă apă cu dvs., urcușul poate fi obositor.",
+          "Asigurați-vă întotdeauna bicicleta, mai ales în centrul orașului.",
+          "Fiți atenți la semnalizarea pistelor de biciclete pentru a nu vă rătăci."
+        ],
+        "en": [
+          "A helmet is recommended, especially on the descent from the castle.",
+          "Bring enough water, the climb can be strenuous.",
+          "Always lock your bike securely, especially in the city center.",
+          "Pay attention to the cycle path signs to avoid getting lost."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Wolfsberg",
+            "hu": "Wolfsberg Kastély",
+            "ro": "Castelul Wolfsberg",
+            "en": "Wolfsberg Castle"
+          },
+          "coords": [
+            46.8451,
+            14.8359
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Schloss und beginnen Sie den Tag mit einer grandiosen Aussicht.",
+            "hu": "Parkoljon a kastélynál, és kezdje a napot egy nagyszerű kilátással.",
+            "ro": "Parcați la castel și începeți ziua cu o priveliște magnifică.",
+            "en": "Park at the castle and start the day with a magnificent view."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum im Lavanthaus",
+            "hu": "Lavanthaus Múzeum",
+            "ro": "Muzeul Lavanthaus",
+            "en": "Museum in the Lavanthaus"
+          },
+          "coords": [
+            46.8385,
+            14.8415
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Vom Schloss aus ist das Museum nur eine kurze Autofahrt entfernt. Suchen Sie einen Parkplatz in der Innenstadt.",
+            "hu": "A kastélytól a múzeum csak egy rövid autóútra van. Keressen parkolót a belvárosban.",
+            "ro": "De la castel, muzeul este la o scurtă distanță cu mașina. Căutați un loc de parcare în centrul orașului.",
+            "en": "From the castle, the museum is just a short drive away. Look for a parking spot downtown."
+          }
+        },
+        {
+          "name": {
+            "de": "Hoher Platz",
+            "hu": "Hoher Platz",
+            "ro": "Piața Hoher Platz",
+            "en": "Hoher Platz Square"
+          },
+          "coords": [
+            46.8405,
+            14.8438
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und erkunden Sie den Platz und die Umgebung zu Fuß.",
+            "hu": "Hagyja az autót, és fedezze fel a teret és környékét gyalog.",
+            "ro": "Lăsați mașina și explorați piața și împrejurimile pe jos.",
+            "en": "Leave the car and explore the square and its surroundings on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Markus",
+            "hu": "Szent Márk Plébániatemplom",
+            "ro": "Biserica Parohială Sf. Marcu",
+            "en": "St. Mark's Parish Church"
+          },
+          "coords": [
+            46.8399,
+            14.8428
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Kirche ist nur wenige Schritte vom Hohen Platz entfernt.",
+            "hu": "A templom csak néhány lépésre van a Hoher Platztól.",
+            "ro": "Biserica este la doar câțiva pași de Hoher Platz.",
+            "en": "The church is just a few steps from Hoher Platz."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Wolfsberg",
+            "hu": "Wolfsbergi Városháza",
+            "ro": "Primăria Wolfsberg",
+            "en": "Wolfsberg Town Hall"
+          },
+          "coords": [
+            46.8408,
+            14.8442
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:23",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie das Gebäude von außen bei einem Spaziergang um den Platz.",
+            "hu": "Csodálja meg az épületet kívülről a tér körüli séta során.",
+            "ro": "Admirați clădirea din exterior în timpul unei plimbări în jurul pieței.",
+            "en": "Admire the building from the outside during a walk around the square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Fahrt zum Schloss Wolfsberg, das hoch über der Stadt thront. Parken Sie hier und genießen Sie die atemberaubende Aussicht, bevor Sie das Schloss erkunden. Dies bildet den ersten Cluster Ihres Besuchs.\nAnschließend fahren Sie hinunter in die Stadt zum zweiten Cluster. Parken Sie Ihr Auto in der Nähe des Museums im Lavanthaus und tauchen Sie in die faszinierende Regionalgeschichte ein. Planen Sie hier genügend Zeit für die interaktiven Ausstellungen ein.\nNach dem Museumsbesuch erkunden Sie den Rest des Stadtzentrums zu Fuß. Schlendern Sie zum Hohen Platz, dem pulsierenden Herzen Wolfsbergs, und nehmen Sie sich Zeit für ein Mittagessen in einem der umliegenden Restaurants.\nVom Hohen Platz aus sind es nur wenige Schritte zur beeindruckenden Stadtpfarrkirche St. Markus und zum historischen Rathaus. Dieser Spaziergang ermöglicht es Ihnen, die architektonischen Details und die Atmosphäre der Altstadt in Ruhe aufzunehmen, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "A nap a Wolfsberg kastélyhoz való autózással kezdődik, amely magasan a város felett trónol. Parkoljon le itt, és élvezze a lélegzetelállító kilátást, mielőtt felfedezné a kastélyt. Ez alkotja látogatásának első klaszterét.\nEzután hajtson le a városba a második klaszterhez. Parkolja le autóját a Lavanthaus Múzeum közelében, és merüljön el a lenyűgöző regionális történelemben. Tervezzen itt elegendő időt az interaktív kiállításokra.\nA múzeumlátogatás után fedezze fel a városközpont többi részét gyalog. Sétáljon el a Hoher Platzra, Wolfsberg lüktető szívébe, és szánjon időt egy ebédre a környező éttermek egyikében.\nA Hoher Platzról csak néhány lépés a lenyűgöző Szent Márk plébániatemplom és a történelmi városháza. Ez a séta lehetővé teszi, hogy nyugodtan magába szívja az óváros építészeti részleteit és hangulatát, mielőtt visszatérne autójához.",
+        "ro": "Ziua dvs. începe cu o călătorie cu mașina la Castelul Wolfsberg, care se înalță deasupra orașului. Parcați aici și bucurați-vă de priveliștea uluitoare înainte de a explora castelul. Acesta formează primul cluster al vizitei dvs.\nApoi, coborâți cu mașina în oraș pentru al doilea cluster. Parcați mașina lângă Muzeul Lavanthaus și cufundați-vă în fascinanta istorie regională. Planificați suficient timp aici pentru expozițiile interactive.\nDupă vizitarea muzeului, explorați restul centrului orașului pe jos. Plimbați-vă până la Hoher Platz, inima vibrantă a Wolfsbergului, și luați-vă timp pentru prânz la unul dintre restaurantele din jur.\nDin Hoher Platz, sunteți la doar câțiva pași de impresionanta Biserică Parohială Sf. Marcu și de primăria istorică. Această plimbare vă permite să absorbiți în liniște detaliile arhitecturale și atmosfera orașului vechi înainte de a vă întoarce la mașină.",
+        "en": "Your day begins with a drive to Wolfsberg Castle, perched high above the city. Park here and enjoy the breathtaking view before exploring the castle. This forms the first cluster of your visit.\nAfterwards, drive down into the city for the second cluster. Park your car near the Museum in the Lavanthaus and immerse yourself in the fascinating regional history. Plan enough time here for the interactive exhibits.\nAfter visiting the museum, explore the rest of the city center on foot. Stroll to Hoher Platz, the vibrant heart of Wolfsberg, and take time for lunch at one of the surrounding restaurants.\nFrom Hoher Platz, it's just a few steps to the impressive St. Mark's Parish Church and the historic Town Hall. This walk allows you to quietly absorb the architectural details and atmosphere of the old town before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof zum Bären",
+            "tip": "Ein traditionelles Wirtshaus mit authentischer Kärntner Küche."
+          },
+          {
+            "name": "Lavanttaler Spargel (saisonal)",
+            "tip": "Wenn Sie im Frühling hier sind, verpassen Sie nicht den berühmten lokalen Spargel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof zum Bären",
+            "tip": "Hagyományos fogadó autentikus karintiai konyhával."
+          },
+          {
+            "name": "Lavant-völgyi spárga (szezonális)",
+            "tip": "Ha tavasszal jár itt, ne hagyja ki a híres helyi spárgát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthof zum Bären",
+            "tip": "Un han tradițional cu bucătărie carintiană autentică."
+          },
+          {
+            "name": "Sparanghel din Lavanttal (sezonier)",
+            "tip": "Dacă sunteți aici primăvara, nu ratați faimosul sparanghel local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof zum Bären",
+            "tip": "A traditional inn with authentic Carinthian cuisine."
+          },
+          {
+            "name": "Lavanttal Asparagus (seasonal)",
+            "tip": "If you're here in spring, don't miss the famous local asparagus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt am Schlossberg",
+            "tip": "Perfekt für eine Pause mit Weitblick, bevor Sie in die Stadt fahren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seitengassen der Altstadt",
+            "tip": "Entfliehen Sie dem Trubel am Hauptplatz und entdecken Sie ruhige Ecken.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Várhegyen",
+            "tip": "Tökéletes egy pihenőre a messzi kilátással, mielőtt a városba hajtana.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az óváros mellékutcái",
+            "tip": "Meneküljön el a főtér nyüzsgésétől, és fedezzen fel csendes zugokat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere pe Dealul Castelului",
+            "tip": "Perfect pentru o pauză cu o priveliște vastă înainte de a coborî în oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străduțele laterale ale orașului vechi",
+            "tip": "Evadați din agitația pieței principale și descoperiți colțuri liniștite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint on the Castle Hill",
+            "tip": "Perfect for a break with a wide view before driving into the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Side alleys of the Old Town",
+            "tip": "Escape the hustle of the main square and discover quiet corners.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden im Lavanttal",
+            "tip": "Nutzen Sie das Auto, um auf dem Land regionale Spezialitäten direkt vom Erzeuger zu kaufen."
+          },
+          {
+            "name": "Getreidegasse",
+            "tip": "Eine kleine Einkaufsstraße mit individuellen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a Lavant-völgyben",
+            "tip": "Használja ki az autót, hogy vidéken vásároljon regionális különlegességeket közvetlenül a termelőtől."
+          },
+          {
+            "name": "Getreidegasse",
+            "tip": "Egy kis bevásárlóutca egyedi üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă în Valea Lavant",
+            "tip": "Folosiți mașina pentru a cumpăra specialități regionale direct de la producători, la țară."
+          },
+          {
+            "name": "Getreidegasse",
+            "tip": "O mică stradă comercială cu magazine individuale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the Lavanttal valley",
+            "tip": "Use the car to buy regional specialties directly from the producer in the countryside."
+          },
+          {
+            "name": "Getreidegasse",
+            "tip": "A small shopping street with individual shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Innenstadt ist gebührenpflichtig (Kurzparkzone).",
+          "Das Schloss hat eigene Parkplätze, die oft kostenlos sind.",
+          "Achten Sie auf Einbahnstraßen in der Altstadt.",
+          "Planen Sie Ihre Route zwischen den Clustern, um Zeit zu sparen."
+        ],
+        "hu": [
+          "A belvárosi parkolás díjköteles (rövid parkolási zóna).",
+          "A kastélynak saját, gyakran ingyenes parkolói vannak.",
+          "Figyeljen az egyirányú utcákra az óvárosban.",
+          "Tervezze meg az útvonalat a klaszterek között az időmegtakarítás érdekében."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este contra cost (zonă de parcare pe termen scurt).",
+          "Castelul are propriile locuri de parcare, adesea gratuite.",
+          "Fiți atenți la străzile cu sens unic din orașul vechi.",
+          "Planificați-vă ruta între clustere pentru a economisi timp."
+        ],
+        "en": [
+          "Parking in the city center is subject to a fee (short-term parking zone).",
+          "The castle has its own parking lots, which are often free.",
+          "Pay attention to one-way streets in the old town.",
+          "Plan your route between clusters to save time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof/Griesplatz",
+            "hu": "Buszpályaudvar/Griesplatz",
+            "ro": "Autogară/Griesplatz",
+            "en": "Bus Station/Griesplatz"
+          },
+          "coords": [
+            46.8366,
+            14.8461
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Orientieren Sie sich hier und besorgen Sie sich eine Tageskarte für den Stadtbus.",
+            "hu": "Tájékozódjon itt, és szerezzen be egy napijegyet a városi buszra.",
+            "ro": "Orientați-vă aici și cumpărați un bilet de o zi pentru autobuzul urban.",
+            "en": "Get your bearings here and buy a day ticket for the city bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Hoher Platz",
+            "hu": "Hoher Platz",
+            "ro": "Piața Hoher Platz",
+            "en": "Hoher Platz Square"
+          },
+          "coords": [
+            46.8405,
+            14.8438
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Das Herz der Stadt. Steigen Sie hier aus, um den ersten Spaziergang zu beginnen.",
+            "hu": "A város szíve. Szálljon ki itt az első séta megkezdéséhez.",
+            "ro": "Inima orașului. Coborâți aici pentru a începe prima plimbare.",
+            "en": "The heart of the city. Get off here to start the first walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Markus",
+            "hu": "Szent Márk Plébániatemplom",
+            "ro": "Biserica Parohială Sf. Marcu",
+            "en": "St. Mark's Parish Church"
+          },
+          "coords": [
+            46.8399,
+            14.8428
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Fußweg vom Hohen Platz, leicht zu finden.",
+            "hu": "Csak egy rövid séta a Hoher Platzról, könnyen megtalálható.",
+            "ro": "La doar o scurtă plimbare de Hoher Platz, ușor de găsit.",
+            "en": "Just a short walk from Hoher Platz, easy to find."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum im Lavanthaus",
+            "hu": "Lavanthaus Múzeum",
+            "ro": "Muzeul Lavanthaus",
+            "en": "Museum in the Lavanthaus"
+          },
+          "coords": [
+            46.8385,
+            14.8415
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte, gut zu Fuß vom Zentrum erreichbar.",
+            "hu": "A történelem iránt érdeklődőknek kötelező, gyalog könnyen megközelíthető a központból.",
+            "ro": "O necesitate pentru pasionații de istorie, ușor accesibil pe jos din centru.",
+            "en": "A must for history buffs, easily accessible on foot from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Wolfsberg",
+            "hu": "Wolfsberg Kastély",
+            "ro": "Castelul Wolfsberg",
+            "en": "Wolfsberg Castle"
+          },
+          "coords": [
+            46.8451,
+            14.8359
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus, der in die Nähe des Schlosses fährt, um den steilen Anstieg zu vermeiden.",
+            "hu": "Vegye igénybe a kastély közelében közlekedő buszt, hogy elkerülje a meredek emelkedőt.",
+            "ro": "Luați autobuzul care merge aproape de castel pentru a evita urcușul abrupt.",
+            "en": "Take the bus that goes near the castle to avoid the steep climb."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln startet am zentralen Busbahnhof am Griesplatz. Hier besorgen Sie sich eine Tageskarte und nehmen den Bus zum Hohen Platz, dem Herzen der Altstadt. Dies ist Ihr erster Cluster.\nZu Fuß erkunden Sie vom Hohen Platz aus die engen Gassen, die Stadtpfarrkirche St. Markus und das Museum im Lavanthaus. Genießen Sie die Flexibilität, in Ihrem eigenen Tempo zu schlendern und nehmen Sie sich Zeit für ein Mittagessen in der Innenstadt.\nNach dem Mittagessen beginnt Ihr zweiter Cluster. Sie nehmen einen Bus, der Sie in die Nähe des Schlosses Wolfsberg bringt. Dies erspart Ihnen den anstrengenden Fußmarsch den Hügel hinauf und lässt Ihnen mehr Energie, das Schloss und die Aussicht zu genießen.\nNachdem Sie das Schloss ausgiebig erkundet haben, bringt Sie der Bus wieder zurück ins Stadtzentrum. Lassen Sie den Tag in einem Café ausklingen oder machen Sie noch einen kleinen Einkaufsbummel, bevor Sie vom Busbahnhof aus Ihre Rückreise antreten.",
+        "hu": "Tömegközlekedési túrája a központi buszpályaudvarról, a Griesplatzról indul. Itt szerez be egy napijegyet, és busszal megy a Hoher Platzra, az óváros szívébe. Ez az első klaszter.\nGyalogosan fedezi fel a Hoher Platzról a szűk sikátorokat, a Szent Márk plébániatemplomot és a Lavanthaus Múzeumot. Élvezze a rugalmasságot, hogy saját tempójában sétálhat, és szánjon időt egy ebédre a belvárosban.\nEbéd után kezdődik a második klaszter. Busszal megy, amely a Wolfsberg kastély közelébe viszi. Ezzel megspórolja a fárasztó gyaloglást a dombra, és több energiája marad a kastély és a kilátás élvezetére.\nMiután alaposan felfedezte a kastélyt, a busz visszaviszi a városközpontba. Zárja a napot egy kávézóban, vagy tegyen egy rövid bevásárló körutat, mielőtt a buszpályaudvarról megkezdené a hazaútját.",
+        "ro": "Turul dvs. cu transportul public începe de la autogara centrală din Griesplatz. De aici, cumpărați un bilet de o zi și luați autobuzul spre Hoher Platz, inima orașului vechi. Acesta este primul dvs. cluster.\nPe jos, explorați de la Hoher Platz străduțele înguste, Biserica Parohială Sf. Marcu și Muzeul Lavanthaus. Bucurați-vă de flexibilitatea de a vă plimba în propriul ritm și luați-vă timp pentru prânz în centrul orașului.\nDupă prânz, începe al doilea cluster. Luați un autobuz care vă duce în apropierea Castelului Wolfsberg. Acest lucru vă scutește de urcușul obositor pe deal și vă lasă mai multă energie pentru a vă bucura de castel și de priveliște.\nDupă ce ați explorat pe îndelete castelul, autobuzul vă aduce înapoi în centrul orașului. Încheiați ziua la o cafenea sau faceți o mică sesiune de cumpărături înainte de a vă întoarce de la autogară.",
+        "en": "Your public transport tour starts at the central bus station at Griesplatz. Here you get a day ticket and take the bus to Hoher Platz, the heart of the old town. This is your first cluster.\nOn foot, you'll explore the narrow alleys, St. Mark's Parish Church, and the Museum in the Lavanthaus from Hoher Platz. Enjoy the flexibility of strolling at your own pace and take time for lunch downtown.\nAfter lunch, your second cluster begins. You take a bus that takes you near Wolfsberg Castle. This saves you the strenuous walk up the hill and leaves you with more energy to enjoy the castle and the view.\nAfter you have thoroughly explored the castle, the bus will take you back to the city center. End the day in a café or do some shopping before starting your journey back from the bus station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am Hohen Platz",
+            "tip": "Holen Sie sich eine schnelle Jause für zwischendurch."
+          },
+          {
+            "name": "Eissalon",
+            "tip": "An warmen Tagen eine willkommene Erfrischung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a Hoher Platzon",
+            "tip": "Szerezzen be egy gyors uzsonnát útközben."
+          },
+          {
+            "name": "Fagylaltozó",
+            "tip": "Meleg napokon üdítő felüdülés."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie în Hoher Platz",
+            "tip": "Luați o gustare rapidă pentru drum."
+          },
+          {
+            "name": "Gelaterie",
+            "tip": "O răcorire binevenită în zilele călduroase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery on Hoher Platz",
+            "tip": "Get a quick snack for on the go."
+          },
+          {
+            "name": "Ice Cream Parlor",
+            "tip": "A welcome refreshment on warm days."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche St. Jakob",
+            "tip": "Ein kurzer Spaziergang vom Zentrum zu einem Ort der Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park am Kulturzentrum Kuss",
+            "tip": "Eine grüne Lunge, ideal für eine Pause zwischen zwei Busfahrten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Jakab-templom",
+            "tip": "Rövid séta a központtól egy csendes helyre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park a Kuss Kultúrközpontnál",
+            "tip": "Zöld oázis, ideális pihenő két buszozás között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sf. Iacob",
+            "tip": "O scurtă plimbare din centru către un loc de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul de la Centrul Cultural Kuss",
+            "tip": "Un plămân verde, ideal pentru o pauză între două călătorii cu autobuzul.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Jacob's Church",
+            "tip": "A short walk from the center to a place of silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park at the Kuss Cultural Center",
+            "tip": "A green lung, ideal for a break between two bus rides.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske am Busbahnhof",
+            "tip": "Für Last-Minute-Souvenirs oder einen Reiseführer."
+          },
+          {
+            "name": "Lokale Geschäfte",
+            "tip": "Unterstützen Sie die lokale Wirtschaft, indem Sie in den kleinen Läden einkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszpályaudvaron",
+            "tip": "Utolsó pillanatos ajándéktárgyakért vagy egy útikönyvért."
+          },
+          {
+            "name": "Helyi üzletek",
+            "tip": "Támogassa a helyi gazdaságot a kis boltokban való vásárlással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la autogară",
+            "tip": "Pentru suveniruri de ultim moment sau un ghid turistic."
+          },
+          {
+            "name": "Magazine locale",
+            "tip": "Susțineți economia locală făcând cumpărături în magazinele mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at the bus station",
+            "tip": "For last-minute souvenirs or a travel guide."
+          },
+          {
+            "name": "Local shops",
+            "tip": "Support the local economy by shopping in the small stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über den Busfahrplan, besonders für die letzte Fahrt vom Schloss.",
+          "Eine Tageskarte ist meist günstiger als Einzeltickets.",
+          "Die Busse sind nicht immer pünktlich, planen Sie etwas Pufferzeit ein.",
+          "Achten Sie auf die Haltestellenansagen oder nutzen Sie eine Karten-App."
+        ],
+        "hu": [
+          "Tájékozódjon a buszmenetrendről, különösen az utolsó járatról a kastélytól.",
+          "A napijegy általában olcsóbb, mint az egyedi jegyek.",
+          "A buszok nem mindig pontosak, tervezzen némi pufferidőt.",
+          "Figyeljen a megálló bemondásokra, vagy használjon térképalkalmazást."
+        ],
+        "ro": [
+          "Informați-vă despre orarul autobuzelor, în special pentru ultima cursă de la castel.",
+          "Un bilet de o zi este de obicei mai ieftin decât biletele individuale.",
+          "Autobuzele nu sunt întotdeauna punctuale, planificați un timp tampon.",
+          "Fiți atenți la anunțurile stațiilor sau folosiți o aplicație cu hărți."
+        ],
+        "en": [
+          "Check the bus schedule, especially for the last ride from the castle.",
+          "A day ticket is usually cheaper than single tickets.",
+          "Buses are not always on time, so plan for some buffer time.",
+          "Pay attention to the stop announcements or use a map app."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1247 @@
+{
+  "city_id": "greece-veria-cities-v2",
+  "anchor": {
+    "name": "Veria",
+    "coords": [
+      40.5204,
+      22.2045
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Paulus-Tribüne",
+            "hu": "Szent Pál tribünje",
+            "ro": "Tribuna Apostolului Pavel",
+            "en": "Tribune of Saint Paul"
+          },
+          "coords": [
+            22.2055,
+            40.52
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein Ort der Besinnung. Nehmen Sie sich einen Moment Zeit, um die historische Bedeutung auf sich wirken zu lassen.",
+            "hu": "Egy hely az elmélkedésre. Szánjon egy percet, hogy átérezze a történelmi jelentőséget.",
+            "ro": "Un loc de reflecție. Luați-vă un moment pentru a absorbi semnificația istorică.",
+            "en": "A place for reflection. Take a moment to absorb the historical significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Barbouta Viertel",
+            "hu": "Barbouta negyed",
+            "ro": "Cartierul Barbouta",
+            "en": "Barbouta Quarter"
+          },
+          "coords": [
+            22.203,
+            40.5215
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den Gassen des alten jüdischen Viertels. Achten Sie auf die einzigartige Architektur.",
+            "hu": "Tévedjen el a régi zsidó negyed sikátoraiban. Figyelje meg az egyedi építészetet.",
+            "ro": "Pierdeți-vă pe aleile vechiului cartier evreiesc. Observați arhitectura unică.",
+            "en": "Get lost in the alleys of the old Jewish quarter. Pay attention to the unique architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Metropole",
+            "hu": "Régi Metropólia",
+            "ro": "Vechea Mitropolie",
+            "en": "Old Metropolis"
+          },
+          "coords": [
+            22.204,
+            40.523
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:44",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den verborgenen Fresken, die jahrhundertelang unter Putz versteckt waren.",
+            "hu": "Keresse meg a rejtett freskókat, amelyek évszázadokig vakolat alatt voltak elrejtve.",
+            "ro": "Căutați frescele ascunse care au fost acoperite de tencuială timp de secole.",
+            "en": "Look for the hidden frescoes that were concealed under plaster for centuries."
+          }
+        },
+        {
+          "name": {
+            "de": "Kyriotissa Viertel",
+            "hu": "Kyriotissa negyed",
+            "ro": "Cartierul Kyriotissa",
+            "en": "Kyriotissa Quarter"
+          },
+          "coords": [
+            22.206,
+            40.522
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für eine Kaffeepause in einem der kleinen, traditionellen 'Kafenia'.",
+            "hu": "Tökéletes egy kávészünetre a kis, hagyományos 'kafenia'-k egyikében.",
+            "ro": "Perfect pentru o pauză de cafea într-una dintre micile 'kafenia' tradiționale.",
+            "en": "Perfect for a coffee break in one of the small, traditional 'kafenia'."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinisches Museum",
+            "hu": "Bizánci Múzeum",
+            "ro": "Muzeul Bizantin",
+            "en": "Byzantine Museum"
+          },
+          "coords": [
+            22.2095,
+            40.5185
+          ],
+          "category": "museums",
+          "arrive_at": "13:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ikonensammlung aus der post-byzantinischen Zeit.",
+            "hu": "Koncentráljon a poszt-bizánci időszakból származó ikon gyűjteményre.",
+            "ro": "Concentrați-vă pe colecția de icoane din perioada post-bizantină.",
+            "en": "Focus on the icon collection from the post-Byzantine period."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            22.208,
+            40.519
+          ],
+          "category": "museums",
+          "arrive_at": "14:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den 'Kalathos von Veria', ein Meisterwerk antiker Keramik.",
+            "hu": "Ne hagyja ki a 'Vérojai Kalathoszt', az ókori kerámia mesterművét.",
+            "ro": "Nu ratați 'Kalathos din Veria', o capodoperă a ceramicii antice.",
+            "en": "Don't miss the 'Kalathos of Veria', a masterpiece of ancient pottery."
+          }
+        },
+        {
+          "name": {
+            "de": "Elia Park",
+            "hu": "Elia Park",
+            "ro": "Parcul Elia",
+            "en": "Elia Park"
+          },
+          "coords": [
+            22.212,
+            40.523
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:36",
+          "stay_min": 45,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um den Tag ausklingen zu lassen und den Blick über die Ebene zu genießen.",
+            "hu": "Szép hely a nap lezárásához és a síkságra nyíló kilátás élvezetéhez.",
+            "ro": "Un loc frumos pentru a încheia ziua și a admira priveliștea asupra câmpiei.",
+            "en": "A lovely spot to end the day and enjoy the view over the plain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der Paulus-Tribüne, einem Ort von großer historischer Bedeutung. Erkunden Sie am Vormittag die verwinkelten Gassen der alten jüdischen und christlichen Viertel Barbouta und Kyriotissa. Am Nachmittag tauchen Sie in die reiche Geschichte der Region ein, indem Sie die byzantinischen und archäologischen Museen besuchen. Beenden Sie Ihren Rundgang mit einem entspannten Spaziergang im Elia Park und genießen Sie die friedliche Atmosphäre und die Aussicht.",
+        "hu": "Kezdje a napot a Szent Pál tribünjénél, egy nagy történelmi jelentőségű helyen. Délelőtt fedezze fel a Barbouta és Kyriotissa régi zsidó és keresztény negyedek kanyargós sikátorait. Délután merüljön el a régió gazdag történelmében a bizánci és régészeti múzeumok meglátogatásával. Zárja a túrát egy pihentető sétával az Elia Parkban, élvezve a békés légkört és a kilátást.",
+        "ro": "Începeți ziua la Tribuna Apostolului Pavel, un loc de mare importanță istorică. Dimineața, explorați aleile întortocheate ale vechilor cartiere evreiești și creștine, Barbouta și Kyriotissa. După-amiaza, cufundați-vă în istoria bogată a regiunii vizitând muzeele bizantin și arheologic. Încheiați turul cu o plimbare relaxantă în Parcul Elia, bucurându-vă de atmosfera liniștită și de priveliște.",
+        "en": "Start your day at the Tribune of Saint Paul, a site of great historical significance. In the morning, explore the winding alleys of the old Jewish and Christian quarters, Barbouta and Kyriotissa. In the afternoon, immerse yourself in the region's rich history by visiting the Byzantine and Archaeological museums. Conclude your tour with a relaxing stroll in Elia Park, enjoying the peaceful atmosphere and the views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Revani",
+            "tip": "Ein traditioneller griechischer Grießkuchen, oft mit Sirup getränkt. Suchen Sie nach einer lokalen Bäckerei!"
+          },
+          {
+            "name": "Soutzoukakia",
+            "tip": "Würzige Frikadellen in Tomatensauce, ein lokaler Favorit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Revani",
+            "tip": "Hagyományos görög búzadara sütemény, gyakran sziruppal leöntve. Keressen egy helyi pékséget!"
+          },
+          {
+            "name": "Soutzoukakia",
+            "tip": "Fűszeres húsgombócok paradicsomszószban, egy helyi kedvenc."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Revani",
+            "tip": "O prăjitură tradițională grecească din griș, adesea însiropată. Căutați o brutărie locală!"
+          },
+          {
+            "name": "Soutzoukakia",
+            "tip": "Chiftele picante în sos de roșii, un favorit local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Revani",
+            "tip": "A traditional Greek semolina cake, often soaked in syrup. Look for a local bakery!"
+          },
+          {
+            "name": "Soutzoukakia",
+            "tip": "Spicy meatballs in tomato sauce, a local favorite."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Tripotamos",
+            "tip": "Folgen Sie dem Fluss, der durch die Stadt fließt, für einen ruhigen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Elia Park",
+            "tip": "Bietet Panoramablicke und Bänke zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tripotamos folyó partja",
+            "tip": "Kövesse a városon átfolyó folyót egy csendes sétáért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Elia Park",
+            "tip": "Panorámás kilátást és padokat kínál a pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Tripotamos",
+            "tip": "Urmați râul care traversează orașul pentru o plimbare liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Elia",
+            "tip": "Oferă vederi panoramice și bănci pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Tripotamos River",
+            "tip": "Follow the river that runs through the city for a quiet walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Elia Park",
+            "tip": "Offers panoramic views and benches for relaxation.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Kaufen Sie lokale Produkte wie Pfirsiche (für die Veria berühmt ist), Käse und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Vásároljon helyi termékeket, mint az őszibarack (amelyről Véroia híres), sajt és olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețele locale",
+            "tip": "Cumpărați produse locale, cum ar fi piersici (pentru care Veria este renumită), brânză și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Shop for local produce like peaches (which Veria is famous for), cheese, and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Gassen der Altstadt Kopfsteinpflaster haben.",
+          "Nehmen Sie sich Zeit, um die vielen kleinen Kirchen zu entdecken, die über die Stadt verstreut sind.",
+          "Viele Geschäfte halten am frühen Nachmittag eine Siesta."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros sikátorai macskakövesek.",
+          "Szánjon időt a városban szétszórtan található sok kis templom felfedezésére.",
+          "Sok üzlet tart sziesztát kora délután."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece aleile din orașul vechi sunt pavate.",
+          "Acordați-vă timp pentru a descoperi numeroasele biserici mici răspândite prin oraș.",
+          "Multe magazine au o siestă la începutul după-amiezii."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town alleys are cobblestoned.",
+          "Take your time to discover the many small churches scattered throughout the city.",
+          "Many shops observe a siesta in the early afternoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Traditionelle Wassermühlen",
+            "hu": "Hagyományos vízimalmok",
+            "ro": "Mori de apă tradiționale",
+            "en": "Traditional Watermills"
+          },
+          "coords": [
+            22.198,
+            40.525
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein malerischer Start in den Tag am Rande der Stadt.",
+            "hu": "Festői kezdete a napnak a város szélén.",
+            "ro": "Un început pitoresc de zi la marginea orașului.",
+            "en": "A picturesque start to the day on the edge of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Barbouta Viertel",
+            "hu": "Barbouta negyed",
+            "ro": "Cartierul Barbouta",
+            "en": "Barbouta Quarter"
+          },
+          "coords": [
+            22.203,
+            40.5215
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:59",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die engen Gassen zu Fuß.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel a szűk sikátorokat gyalog.",
+            "ro": "Încuiați bicicleta și explorați aleile înguste pe jos.",
+            "en": "Lock up your bike and explore the narrow alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Paulus-Tribüne",
+            "hu": "Szent Pál tribünje",
+            "ro": "Tribuna Apostolului Pavel",
+            "en": "Tribune of Saint Paul"
+          },
+          "coords": [
+            22.2055,
+            40.52
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:52",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber wichtiger Halt auf Ihrer historischen Radtour.",
+            "hu": "Rövid, de fontos megálló a történelmi kerékpártúrán.",
+            "ro": "O oprire scurtă, dar importantă, în turul dumneavoastră istoric cu bicicleta.",
+            "en": "A short but important stop on your historical bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinisches Museum",
+            "hu": "Bizánci Múzeum",
+            "ro": "Muzeul Bizantin",
+            "en": "Byzantine Museum"
+          },
+          "coords": [
+            22.2095,
+            40.5185
+          ],
+          "category": "museums",
+          "arrive_at": "11:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine willkommene Pause von der Sonne und eine Dosis Kultur.",
+            "hu": "Üdvözlendő szünet a napfénytől és egy adag kultúra.",
+            "ro": "O pauză binevenită de la soare și o doză de cultură.",
+            "en": "A welcome break from the sun and a dose of culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Elia Park",
+            "hu": "Elia Park",
+            "ro": "Parcul Elia",
+            "en": "Elia Park"
+          },
+          "coords": [
+            22.212,
+            40.523
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick-Mittagessen mit lokalen Produkten.",
+            "hu": "Ideális egy piknik ebédhez helyi termékekből.",
+            "ro": "Ideal pentru un prânz la picnic cu produse locale.",
+            "en": "Ideal for a picnic lunch with local products."
+          }
+        },
+        {
+          "name": {
+            "de": "Kyriotissa Viertel",
+            "hu": "Kyriotissa negyed",
+            "ro": "Cartierul Kyriotissa",
+            "en": "Kyriotissa Quarter"
+          },
+          "coords": [
+            22.206,
+            40.522
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem erfrischenden Getränk in diesem charmanten Viertel.",
+            "hu": "Fejezze be a kerékpártúrát egy frissítő itallal ebben a bájos negyedben.",
+            "ro": "Încheiați turul cu bicicleta cu o băutură răcoritoare în acest cartier fermecător.",
+            "en": "End your bike tour with a refreshing drink in this charming quarter."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt bei den malerischen Wassermühlen am Stadtrand. Von dort radeln Sie ins Herz der Altstadt, um die historischen Viertel Barbouta und Kyriotissa zu erkunden. Ein kurzer Halt an der Paulus-Tribüne verbindet Sie mit der antiken Vergangenheit der Stadt. Nach einer kulturellen Pause im Byzantinischen Museum genießen Sie ein ausgedehntes Picknick im Elia Park. Die Tour endet im lebhaften Kyriotissa-Viertel, perfekt für einen Kaffee.",
+        "hu": "A kerékpártúra a festői vízimalmoknál kezdődik a város szélén. Innen tekerjen az óváros szívébe, hogy felfedezze a történelmi Barbouta és Kyriotissa negyedeket. Egy rövid megálló a Szent Pál tribünjénél összeköti Önt a város ókori múltjával. A Bizánci Múzeumban tartott kulturális szünet után élvezzen egy bőséges pikniket az Elia Parkban. A túra a nyüzsgő Kyriotissa negyedben ér véget, amely tökéletes egy kávéra.",
+        "ro": "Turul dumneavoastră cu bicicleta începe la morile de apă pitorești de la marginea orașului. De acolo, pedalați în inima orașului vechi pentru a explora cartierele istorice Barbouta și Kyriotissa. O scurtă oprire la Tribuna Apostolului Pavel vă conectează cu trecutul antic al orașului. După o pauză culturală la Muzeul Bizantin, bucurați-vă de un picnic extins în Parcul Elia. Turul se încheie în vibrantul cartier Kyriotissa, perfect pentru o cafea.",
+        "en": "Your bike tour starts at the picturesque watermills on the outskirts of the city. From there, cycle into the heart of the old town to explore the historic quarters of Barbouta and Kyriotissa. A brief stop at the Tribune of Saint Paul connects you to the city's ancient past. After a cultural break at the Byzantine Museum, enjoy an extended picnic in Elia Park. The tour concludes in the vibrant Kyriotissa quarter, perfect for a coffee."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Pfirsiche",
+            "tip": "Veria ist berühmt für seine Pfirsiche. Ein saftiger und erfrischender Snack für unterwegs."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "Ein griechisches Gebäck aus Filoteig, gefüllt mit Grießpudding oder Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi őszibarack",
+            "tip": "Véroia híres az őszibarackjáról. Lédús és frissítő snack útközben."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "Görög leveles tészta, búzadara krémmel vagy sajttal töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piersici locale",
+            "tip": "Veria este renumită pentru piersicile sale. O gustare suculentă și răcoritoare pentru drum."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "O plăcintă grecească din foietaj filo, umplută cu cremă de griș sau brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Peaches",
+            "tip": "Veria is famous for its peaches. A juicy and refreshing snack on the go."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "A Greek pastry made with phyllo dough, filled with semolina custard or cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Elia Park",
+            "tip": "Finden Sie eine ruhige Ecke mit Blick auf die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Entlang des Tripotamos",
+            "tip": "Eine ruhige Radstrecke abseits der Hauptstraßen.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elia Park",
+            "tip": "Keressen egy csendes sarkot a városra néző kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Tripotamos mentén",
+            "tip": "Csendes kerékpárút a főutaktól távol.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Elia",
+            "tip": "Găsiți un colț liniștit cu vedere la oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "De-a lungul râului Tripotamos",
+            "tip": "Un traseu liniștit pentru biciclete, departe de drumurile principale.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Elia Park",
+            "tip": "Find a quiet corner overlooking the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Along the Tripotamos River",
+            "tip": "A peaceful cycling route away from the main roads.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha tartozékokra vagy gyors javításra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "In case you need any accessories or a quick repair."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Einige Straßen in der Altstadt können steil sein.",
+          "Nehmen Sie viel Wasser mit, besonders an heißen Tagen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Néhány utca az óvárosban meredek lehet.",
+          "Vigyen magával sok vizet, különösen forró napokon."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Unele străzi din orașul vechi pot fi abrupte.",
+          "Luați multă apă cu dumneavoastră, mai ales în zilele călduroase."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Some streets in the old town can be steep.",
+          "Bring plenty of water, especially on hot days."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 11.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches & Byzantinisches Museum",
+            "hu": "Régészeti és Bizánci Múzeum",
+            "ro": "Muzeul de Arheologie și Bizantin",
+            "en": "Archaeological & Byzantine Museum"
+          },
+          "coords": [
+            22.2088,
+            40.5188
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe. Die beiden Museen liegen nebeneinander, perfekt für einen Kultur-Vormittag.",
+            "hu": "Parkoljon a közelben. A két múzeum egymás mellett található, tökéletes egy kulturális délelőtthöz.",
+            "ro": "Parcați în apropiere. Cele două muzee sunt unul lângă altul, perfecte pentru o dimineață culturală.",
+            "en": "Park nearby. The two museums are next to each other, perfect for a cultural morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Elia Park",
+            "hu": "Elia Park",
+            "ro": "Parcul Elia",
+            "en": "Elia Park"
+          },
+          "coords": [
+            22.212,
+            40.523
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museumsparkplatz, um frische Luft zu schnappen.",
+            "hu": "Rövid séta a múzeum parkolójából, hogy friss levegőt szívjon.",
+            "ro": "O scurtă plimbare de la parcarea muzeului pentru a lua o gură de aer proaspăt.",
+            "en": "A short walk from the museum parking lot to get some fresh air."
+          }
+        },
+        {
+          "name": {
+            "de": "Barbouta Viertel (Park & Walk)",
+            "hu": "Barbouta negyed (Parkolj és Sétálj)",
+            "ro": "Cartierul Barbouta (Parcați și Plimbați-vă)",
+            "en": "Barbouta Quarter (Park & Walk)"
+          },
+          "coords": [
+            22.203,
+            40.5215
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz am Rande des Viertels und erkunden Sie es zu Fuß.",
+            "hu": "Keressen egy parkolót a negyed szélén, és fedezze fel gyalog.",
+            "ro": "Găsiți un loc de parcare la marginea cartierului și explorați-l pe jos.",
+            "en": "Find a parking spot on the edge of the quarter and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Metropole",
+            "hu": "Régi Metropólia",
+            "ro": "Vechea Mitropolie",
+            "en": "Old Metropolis"
+          },
+          "coords": [
+            22.204,
+            40.523
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von Barbouta aus.",
+            "hu": "Rövid séta Barboutából.",
+            "ro": "O scurtă plimbare de la Barbouta.",
+            "en": "A short walk from Barbouta."
+          }
+        },
+        {
+          "name": {
+            "de": "Paulus-Tribüne",
+            "hu": "Szent Pál tribünje",
+            "ro": "Tribuna Apostolului Pavel",
+            "en": "Tribune of Saint Paul"
+          },
+          "coords": [
+            22.2055,
+            40.52
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:14",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um die Wanderung durch die Altstadt abzuschließen, bevor Sie zum Auto zurückkehren.",
+            "hu": "Tökéletes hely az óvárosi séta befejezéséhez, mielőtt visszatérne az autóhoz.",
+            "ro": "Locul perfect pentru a încheia plimbarea prin orașul vechi înainte de a vă întoarce la mașină.",
+            "en": "The perfect spot to conclude the old town walk before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Traditionelle Wassermühlen",
+            "hu": "Hagyományos vízimalmok",
+            "ro": "Mori de apă tradiționale",
+            "en": "Traditional Watermills"
+          },
+          "coords": [
+            22.198,
+            40.525
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:49",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt für einen Kontrast zur städtischen Umgebung.",
+            "hu": "Rövid autóút a városi környezettel való kontrasztért.",
+            "ro": "O scurtă călătorie cu mașina pentru un contrast cu mediul urban.",
+            "en": "A short drive for a contrast to the urban environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Kyriotissa Viertel",
+            "hu": "Kyriotissa negyed",
+            "ro": "Cartierul Kyriotissa",
+            "en": "Kyriotissa Quarter"
+          },
+          "coords": [
+            22.206,
+            40.522
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:44",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zurück in der Stadt für einen Kaffee zum Abschluss des Tages.",
+            "hu": "Vissza a városba egy kávéra a nap lezárásaként.",
+            "ro": "Înapoi în oraș pentru o cafea la sfârșitul zilei.",
+            "en": "Back in town for a coffee to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Dosis Kultur, indem Sie Ihr Auto in der Nähe der Museen parken und sowohl das Archäologische als auch das Byzantinische Museum besuchen. Machen Sie einen kurzen Spaziergang zum Elia Park. Fahren Sie dann ins historische Zentrum, parken Sie und erkunden Sie das Barbouta-Viertel, die Alte Metropole und die Paulus-Tribüne zu Fuß. Eine kurze Fahrt führt Sie zu den ruhigen Wassermühlen, bevor Sie den Tag im charmanten Kyriotissa-Viertel ausklingen lassen.",
+        "hu": "Kezdje a napot egy adag kultúrával: parkoljon le a múzeumok közelében, és látogassa meg a Régészeti és Bizánci Múzeumot. Sétáljon egy rövidet az Elia Parkba. Ezután vezessen a történelmi központba, parkoljon le, és fedezze fel gyalog a Barbouta negyedet, a Régi Metropóliát és a Szent Pál tribünt. Egy rövid autóút elviszi a békés vízimalmokhoz, mielőtt a napot a bájos Kyriotissa negyedben zárná.",
+        "ro": "Începeți ziua cu o doză de cultură parcând lângă muzee și vizitând atât Muzeul Arheologic, cât și cel Bizantin. Faceți o scurtă plimbare până în Parcul Elia. Apoi, conduceți spre centrul istoric, parcați și explorați pe jos cartierul Barbouta, Vechea Mitropolie și Tribuna Apostolului Pavel. O scurtă călătorie cu mașina vă duce la liniștitele mori de apă, înainte de a încheia ziua în fermecătorul cartier Kyriotissa.",
+        "en": "Start your day with a dose of culture by parking near the museums and visiting both the Archaeological and Byzantine Museums. Take a short walk to Elia Park. Then, drive to the historic center, park, and explore the Barbouta quarter, Old Metropolis, and Tribune of Saint Paul on foot. A short drive takes you to the peaceful watermills before you end the day in the charming Kyriotissa quarter."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavernen in Kyriotissa",
+            "tip": "Nach Ihrem Spaziergang finden Sie hier authentische lokale Küche."
+          },
+          {
+            "name": "Patsas",
+            "tip": "Eine traditionelle Kuttelsuppe, für abenteuerlustige Esser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavernák Kyriotissában",
+            "tip": "A séta után itt autentikus helyi ételeket talál."
+          },
+          {
+            "name": "Patsas",
+            "tip": "Hagyományos pacalleves, kalandvágyóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavernele din Kyriotissa",
+            "tip": "După plimbare, veți găsi aici bucătărie locală autentică."
+          },
+          {
+            "name": "Patsas",
+            "tip": "O ciorbă tradițională de burtă, pentru mâncăcioșii aventuroși."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavernas in Kyriotissa",
+            "tip": "After your walk, you'll find authentic local cuisine here."
+          },
+          {
+            "name": "Patsas",
+            "tip": "A traditional tripe soup, for adventurous eaters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang des Aliakmonas",
+            "tip": "Wenn Sie Zeit haben, ist eine Fahrt entlang des nahe gelegenen Flusses sehr malerisch.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kloster Panagia Soumela",
+            "tip": "Ein wichtiger Wallfahrtsort, eine längere Fahrt entfernt, aber sehr friedlich.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás az Aliakmonas mentén",
+            "tip": "Ha van ideje, egy út a közeli folyó mentén nagyon festői.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Panagia Soumela kolostor",
+            "tip": "Fontos zarándokhely, hosszabb autóútra, de nagyon békés.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de-a lungul râului Aliakmonas",
+            "tip": "Dacă aveți timp, o plimbare cu mașina de-a lungul râului din apropiere este foarte pitorească.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mănăstirea Panagia Soumela",
+            "tip": "Un important loc de pelerinaj, la o distanță mai mare cu mașina, dar foarte liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive along the Aliakmonas River",
+            "tip": "If you have time, a drive along the nearby river is very scenic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Panagia Soumela Monastery",
+            "tip": "An important pilgrimage site, a longer drive away but very peaceful.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingüter",
+            "tip": "Die Region ist für ihren Wein bekannt. Besuchen Sie ein lokales Weingut für eine Verkostung und zum Kauf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borászatok",
+            "tip": "A régió a borairól ismert. Látogasson el egy helyi borászatba kóstolóra és vásárlásra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame",
+            "tip": "Regiunea este cunoscută pentru vinul său. Vizitați o cramă locală pentru o degustare și pentru a cumpăra."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wineries",
+            "tip": "The region is known for its wine. Visit a local winery for a tasting and purchase."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann in der Innenstadt schwierig sein; nutzen Sie ausgewiesene Parkplätze.",
+          "Planen Sie Ihre Route im Voraus, um Einbahnstraßen in der Altstadt zu vermeiden.",
+          "Kombinieren Sie Ihren Besuch mit einer Fahrt in die umliegende Landschaft."
+        ],
+        "hu": [
+          "A parkolás nehéz lehet a belvárosban; használja a kijelölt parkolókat.",
+          "Tervezze meg előre az útvonalat, hogy elkerülje az egyirányú utcákat az óvárosban.",
+          "Kombinálja a látogatást egy kirándulással a környező vidékre."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în centrul orașului; folosiți parcările desemnate.",
+          "Planificați-vă traseul în avans pentru a evita străzile cu sens unic din orașul vechi.",
+          "Combinați vizita cu o excursie în peisajul rural înconjurător."
+        ],
+        "en": [
+          "Parking can be difficult downtown; use designated parking lots.",
+          "Plan your route in advance to avoid one-way streets in the old town.",
+          "Combine your visit with a drive into the surrounding countryside."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof & Paulus-Tribüne",
+            "hu": "Központi buszpályaudvar és Szent Pál tribünje",
+            "ro": "Autogara Centrală și Tribuna Apostolului Pavel",
+            "en": "Central Bus Station & Tribune of Saint Paul"
+          },
+          "coords": [
+            22.2055,
+            40.52
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie direkt nach der Ankunft mit dem Bus am ersten historischen Wahrzeichen.",
+            "hu": "Kezdje az első történelmi emlékműnél, közvetlenül a busszal való érkezés után.",
+            "ro": "Începeți chiar de la primul punct de reper istoric după sosirea cu autobuzul.",
+            "en": "Start at the first historical landmark right after arriving by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Barbouta Viertel",
+            "hu": "Barbouta negyed",
+            "ro": "Cartierul Barbouta",
+            "en": "Barbouta Quarter"
+          },
+          "coords": [
+            22.203,
+            40.5215
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof in das Herz der Geschichte.",
+            "hu": "Rövid séta a buszpályaudvartól a történelem szívébe.",
+            "ro": "O scurtă plimbare de la autogară în inima istoriei.",
+            "en": "A short walk from the bus station into the heart of history."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Metropole",
+            "hu": "Régi Metropólia",
+            "ro": "Vechea Mitropolie",
+            "en": "Old Metropolis"
+          },
+          "coords": [
+            22.204,
+            40.523
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:54",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Cluster von Sehenswürdigkeiten zu Fuß.",
+            "hu": "Fedezze fel ezt a látnivalókból álló csoportot gyalog.",
+            "ro": "Explorați acest grup de atracții pe jos.",
+            "en": "Explore this cluster of sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum (mit Bus)",
+            "hu": "Régészeti Múzeum (busszal)",
+            "ro": "Muzeul de Arheologie (cu autobuzul)",
+            "en": "Archaeological Museum (by bus)"
+          },
+          "coords": [
+            22.208,
+            40.519
+          ],
+          "category": "museums",
+          "arrive_at": "12:04",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zum nächsten Cluster, den Museen, zu gelangen.",
+            "hu": "Menjen helyi busszal a következő csoporthoz, a múzeumokhoz.",
+            "ro": "Luați un autobuz local pentru a ajunge la următorul grup de atracții, muzeele.",
+            "en": "Take a local bus to get to the next cluster, the museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinisches Museum",
+            "hu": "Bizánci Múzeum",
+            "ro": "Muzeul Bizantin",
+            "en": "Byzantine Museum"
+          },
+          "coords": [
+            22.2095,
+            40.5185
+          ],
+          "category": "museums",
+          "arrive_at": "14:08",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum liegt direkt neben dem Archäologischen, kein weiterer Transport erforderlich.",
+            "hu": "A múzeum közvetlenül a Régészeti mellett található, nincs szükség további közlekedésre.",
+            "ro": "Muzeul este chiar lângă cel arheologic, nu este nevoie de transport suplimentar.",
+            "en": "The museum is right next to the archaeological one, no further transport needed."
+          }
+        },
+        {
+          "name": {
+            "de": "Kyriotissa Viertel (mit Bus)",
+            "hu": "Kyriotissa negyed (busszal)",
+            "ro": "Cartierul Kyriotissa (cu autobuzul)",
+            "en": "Kyriotissa Quarter (by bus)"
+          },
+          "coords": [
+            22.206,
+            40.522
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer Busfahrt zurück ins Herz der Altstadt für einen Kaffee oder ein Abendessen.",
+            "hu": "Zárja a napot egy buszúttal vissza az óváros szívébe egy kávéra vagy vacsorára.",
+            "ro": "Încheiați ziua cu o călătorie cu autobuzul înapoi în inima orașului vechi pentru o cafea sau cină.",
+            "en": "End the day with a bus ride back to the heart of the old town for a coffee or dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am zentralen Busbahnhof, von wo aus Sie sofort die Paulus-Tribüne und das Barbouta-Viertel zu Fuß erkunden. Nachdem Sie das erste historische Cluster erkundet haben, nehmen Sie einen lokalen Bus zum Museumscluster. Verbringen Sie den Nachmittag damit, in die byzantinische und antike Geschichte einzutauchen. Eine letzte Busfahrt bringt Sie in das charmante Kyriotissa-Viertel, wo Sie in einer der vielen Tavernen entspannen können.",
+        "hu": "A nap a központi buszpályaudvaron kezdődik, ahonnan azonnal gyalog felfedezheti a Szent Pál tribünt és a Barbouta negyedet. Miután felfedezte az első történelmi csoportot, szálljon helyi buszra a múzeumi csoporthoz. Töltse a délutánt a bizánci és ókori történelembe való elmélyüléssel. Egy utolsó buszút elviszi a bájos Kyriotissa negyedbe, ahol pihenhet a sok taverna egyikében.",
+        "ro": "Ziua dumneavoastră începe la autogara centrală, de unde puteți explora imediat pe jos Tribuna Apostolului Pavel și cartierul Barbouta. După ce ați explorat primul grup istoric, luați un autobuz local către grupul de muzee. Petreceți după-amiaza cufundându-vă în istoria bizantină și antică. O ultimă călătorie cu autobuzul vă va duce în fermecătorul cartier Kyriotissa, unde vă puteți relaxa la una dintre numeroasele taverne.",
+        "en": "Your day begins at the central bus station, from where you can immediately explore the Tribune of Saint Paul and the Barbouta quarter on foot. After exploring the first historical cluster, take a local bus to the museum cluster. Spend the afternoon immersing yourself in Byzantine and ancient history. A final bus ride will take you to the charming Kyriotissa quarter, where you can relax at one of the many tavernas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyros-Imbiss",
+            "tip": "Ein schneller, günstiger und leckerer Bissen in der Nähe einer Bushaltestelle."
+          },
+          {
+            "name": "Griechischer Kaffee",
+            "tip": "Bestellen Sie einen 'ellinikós kafés' in einem Kafenion in Kyriotissa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyroszos",
+            "tip": "Gyors, olcsó és finom falat egy buszmegálló közelében."
+          },
+          {
+            "name": "Görög kávé",
+            "tip": "Rendeljen egy 'ellinikós kafés'-t egy kafenionban Kyriotissában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gyros stand",
+            "tip": "O gustare rapidă, ieftină și delicioasă lângă o stație de autobuz."
+          },
+          {
+            "name": "Cafea grecească",
+            "tip": "Comandați o 'ellinikós kafés' la o cafenenea din Kyriotissa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyros stand",
+            "tip": "A quick, cheap, and delicious bite near a bus stop."
+          },
+          {
+            "name": "Greek coffee",
+            "tip": "Order an 'ellinikós kafés' at a kafenion in Kyriotissa."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fensterplatz im Bus",
+            "tip": "Beobachten Sie das Stadtleben aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kirchhöfe",
+            "tip": "Die vielen kleinen Kirchen haben oft ruhige Innenhöfe.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ablak melletti ülés a buszon",
+            "tip": "Figyelje a városi életet egy másik szemszögből.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Templomkertek",
+            "tip": "A sok kis templomnak gyakran csendes udvara van.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc la fereastră în autobuz",
+            "tip": "Observați viața orașului dintr-o altă perspectivă.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Curțile bisericilor",
+            "tip": "Multe dintre bisericile mici au adesea curți liniștite.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Window seat on the bus",
+            "tip": "Observe city life from a different perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Churchyards",
+            "tip": "The many small churches often have quiet courtyards.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk (Periptero)",
+            "tip": "Kaufen Sie Ihr Busticket, eine Flasche Wasser und einen Snack an einem der allgegenwärtigen Kioske."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk (Periptero)",
+            "tip": "Vásárolja meg a buszjegyét, egy üveg vizet és egy snacket az egyik mindenütt jelenlévő kioszkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc (Periptero)",
+            "tip": "Cumpărați biletul de autobuz, o sticlă de apă și o gustare de la unul dintre chioșcurile omniprezente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk (Periptero)",
+            "tip": "Buy your bus ticket, a bottle of water, and a snack from one of the ubiquitous kiosks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar.",
+          "Die Busfahrpläne können variieren, informieren Sie sich im Voraus.",
+          "Halten Sie Kleingeld für Tickets bereit, die Sie beim Fahrer kaufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha elérhető.",
+          "A buszmenetrendek változhatnak, tájékozódjon előre.",
+          "Tartson aprópénzt a sofőrnél vásárolt jegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil.",
+          "Orarul autobuzelor poate varia, verificați în avans.",
+          "Păstrați mărunțiș pentru biletele cumpărate de la șofer."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available.",
+          "Bus schedules can vary, check in advance.",
+          "Keep small change for tickets bought from the driver."
+        ]
+      }
+    }
+  }
+}

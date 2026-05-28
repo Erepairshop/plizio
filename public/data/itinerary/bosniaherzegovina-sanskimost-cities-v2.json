@@ -1,0 +1,1460 @@
+{
+  "city_id": "bosniaherzegovina-sanskimost-cities-v2",
+  "anchor": {
+    "name": "Sanski Most",
+    "coords": [
+      44.7667,
+      16.6667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal der Befreiung",
+            "hu": "Felszabadulási emlékmű",
+            "ro": "Monumentul Eliberării",
+            "en": "Liberation Monument"
+          },
+          "coords": [
+            16.6635,
+            44.768
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein guter Startpunkt, um über die lokale Geschichte des 20. Jahrhunderts nachzudenken.",
+            "hu": "Jó kiindulópont a város 20. századi történelmének megismeréséhez.",
+            "ro": "Un bun punct de plecare pentru a reflecta asupra istoriei locale din secolul XX.",
+            "en": "A good starting point to reflect on the local history of the 20th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Sana-Brücke",
+            "hu": "Szana-híd",
+            "ro": "Podul Sana",
+            "en": "Sana Bridge"
+          },
+          "coords": [
+            16.665,
+            44.766
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verweilen Sie in der Mitte für einen schönen Blick auf den Fluss und die Stadt.",
+            "hu": "Álljon meg a közepén, hogy gyönyörködjön a folyóra és a városra nyíló kilátásban.",
+            "ro": "Opriți-vă la mijloc pentru o priveliște frumoasă asupra râului și orașului.",
+            "en": "Pause in the middle for a lovely view of the river and the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Hamzibeg-Moschee",
+            "hu": "Hamza Bég Dzsámi",
+            "ro": "Moscheea Hamza Bey",
+            "en": "Hamza Bey Mosque"
+          },
+          "coords": [
+            16.667,
+            44.7655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die Kleiderordnung und bewundern Sie die osmanische Architektur.",
+            "hu": "Tartsa be a megfelelő öltözködési szabályokat, és csodálja meg az oszmán építészetet.",
+            "ro": "Respectați codul vestimentar și admirați arhitectura otomană.",
+            "en": "Be mindful of the dress code and admire the Ottoman architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebed a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            16.6685,
+            44.7665
+          ],
+          "category": "gastro",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Ćevapi in einem der Restaurants am Flussufer.",
+            "hu": "Kóstolja meg a helyi ćevapit az egyik folyóparti étteremben.",
+            "ro": "Încercați ćevapi locali la unul dintre restaurantele de pe malul râului.",
+            "en": "Try some local ćevapi at one of the riverside restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Sanski Most",
+            "hu": "Sanski Most Városi Park",
+            "ro": "Parcul Orașului Sanski Most",
+            "en": "Sanski Most City Park"
+          },
+          "coords": [
+            16.6735,
+            44.763
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:43",
+          "stay_min": 158,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen entspannten Nachmittag nach dem Mittagessen.",
+            "hu": "Tökéletes hely egy pihentető ebéd utáni délutánhoz.",
+            "ro": "Locul perfect pentru o după-amiază relaxantă după prânz.",
+            "en": "The perfect place for a relaxing afternoon stroll after lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Sanski Most beginnt mit einer Reflexion über die Geschichte am Denkmal der Befreiung. Am Vormittag überqueren Sie die Sana-Brücke und genießen die Aussicht, bevor Sie die spirituelle Ruhe der Hamzibeg-Moschee erleben. Das Mittagessen ist eine Gelegenheit, die berühmten Ćevapi zu probieren. Der Nachmittag ist einem gemütlichen Spaziergang und der Entspannung im grünen Stadtpark gewidmet, der einen friedlichen Abschluss Ihrer Erkundungstour bietet.",
+        "hu": "A nap Sanski Mostban a Felszabadulási emlékműnél kezdődik, ahol elmerülhet a történelemben. A délelőtt folyamán átsétál a Szana-hídon, gyönyörködve a kilátásban, majd megtapasztalja a Hamza Bég Dzsámi spirituális nyugalmát. Az ebéd remek alkalom a híres ćevapi megkóstolására. A délutánt a zöldellő Városi Parkban való kellemes sétának és pihenésnek szentelheti, amely békés lezárása a felfedezőútnak.",
+        "ro": "Ziua dvs. în Sanski Most începe cu o reflecție asupra istoriei la Monumentul Eliberării. Dimineața traversați Podul Sana, bucurându-vă de priveliște, înainte de a experimenta liniștea spirituală a Moscheei Hamza Bey. Prânzul este o ocazie de a gusta faimoșii ćevapi. După-amiaza este dedicată unei plimbări și relaxări în Parcul Orașului, oferind o încheiere pașnică explorării dumneavoastră.",
+        "en": "Your day in Sanski Most begins with a reflection on history at the Liberation Monument. In the morning, you'll cross the Sana Bridge, enjoying the views, before experiencing the spiritual calm of the Hamza Bey Mosque. Lunch is an opportunity to taste the famous ćevapi. The afternoon is dedicated to a leisurely stroll and relaxation in the green City Park, providing a peaceful end to your exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Bosnisches Nationalgericht, gegrillte Hackfleischröllchen in Fladenbrot."
+          },
+          {
+            "name": "Burek",
+            "tip": "Blätterteiggebäck gefüllt mit Fleisch, Käse oder Spinat."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Eine reichhaltige Hühner- und Gemüsesuppe, oft mit Sauerrahm serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Bosnyák nemzeti étel, grillezett darált húsos tekercsek lepénykenyérben."
+          },
+          {
+            "name": "Burek",
+            "tip": "Hússal, sajttal vagy spenóttal töltött leveles tészta."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Gazdag csirke- és zöldségleves, gyakran tejföllel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Mâncare națională bosniacă, rulouri de carne tocată la grătar în lipie."
+          },
+          {
+            "name": "Burek",
+            "tip": "Produse de patiserie din foietaj umplute cu carne, brânză sau spanac."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "O supă bogată de pui și legume, adesea servită cu smântână."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Bosnian national dish, grilled minced meat rolls in flatbread."
+          },
+          {
+            "name": "Burek",
+            "tip": "Flaky pastry filled with meat, cheese, or spinach."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "A rich chicken and vegetable soup, often served with sour cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Sana",
+            "tip": "Finden Sie eine ruhige Bank entlang des Flusses, um dem Wasser zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Ein friedlicher Ort, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Frühmorgens an der Brücke",
+            "tip": "Erleben Sie die Stille der Stadt, bevor der Tag beginnt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Szana folyó partja",
+            "tip": "Keressen egy csendes padot a folyó mentén, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Békés hely a város zajától távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggel a hídnál",
+            "tip": "Tapasztalja meg a város csendjét, mielőtt a nap elkezdődik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Sana",
+            "tip": "Găsiți o bancă liniștită de-a lungul râului pentru a asculta apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Orașului",
+            "tip": "Un loc pașnic pentru a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dimineața devreme la pod",
+            "tip": "Experimentați liniștea orașului înainte de începerea zilei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Sana River",
+            "tip": "Find a quiet bench along the river to listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "City Park",
+            "tip": "A peaceful spot to escape the city bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Early morning at the bridge",
+            "tip": "Experience the quiet of the town before the day starts.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach frischen Produkten und handgemachtem Käse."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Entdecken Sie traditionelle bosnische Holzarbeiten und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen friss termékeket és kézműves sajtokat."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Fedezze fel a hagyományos bosnyák fafaragásokat és textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse proaspete și brânzeturi artizanale."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Descoperiți obiecte tradiționale bosniace din lemn și textile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for fresh produce and handmade cheeses."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Discover traditional Bosnian woodwork and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag laufen werden.",
+          "Halten Sie Bargeld für kleine Einkäufe auf dem Markt bereit.",
+          "Probieren Sie unbedingt das lokale Gebäck.",
+          "Respektieren Sie die lokalen Bräuche, insbesondere beim Besuch religiöser Stätten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap gyalogolni fog.",
+          "Készítsen elő készpénzt a piaci apróbb vásárlásokhoz.",
+          "Feltétlenül kóstolja meg a helyi péksüteményeket.",
+          "Tartsa tiszteletben a helyi szokásokat, különösen a vallási helyszínek látogatásakor."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge pe jos toată ziua.",
+          "Aveți la îndemână numerar pentru cumpărături mici în piață.",
+          "Asigurați-vă că încercați produsele de patiserie locale.",
+          "Respectați obiceiurile locale, în special atunci când vizitați situri religioase."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking all day.",
+          "Keep some cash handy for small purchases at the market.",
+          "Be sure to try the local pastries.",
+          "Respect local customs, especially when visiting religious sites."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtpark Sanski Most",
+            "hu": "Sanski Most Városi Park",
+            "ro": "Parcul Orașului Sanski Most",
+            "en": "Sanski Most City Park"
+          },
+          "coords": [
+            16.668,
+            44.764
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer entspannten Radtour durch den Park.",
+            "hu": "Kezdje a napot egy kellemes kerékpártúrával a parkban.",
+            "ro": "Începeți ziua cu o plimbare relaxantă cu bicicleta prin parc.",
+            "en": "Start your day with a relaxing bike ride through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Sana-Brücke",
+            "hu": "Szana-híd",
+            "ro": "Podul Sana",
+            "en": "Sana Bridge"
+          },
+          "coords": [
+            16.665,
+            44.766
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:58",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Fotostopp. Schließen Sie Ihr Fahrrad ab, um die Aussicht zu genießen.",
+            "hu": "Remek fotómegálló. Zárja le a kerékpárját, hogy élvezze a kilátást.",
+            "ro": "O oprire excelentă pentru fotografii. Încuiați-vă bicicleta pentru a vă bucura de priveliște.",
+            "en": "A great photo stop. Lock up your bike to enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Hamzibeg-Moschee",
+            "hu": "Hamza Bég Dzsámi",
+            "ro": "Moscheea Hamza Bey",
+            "en": "Hamza Bey Mosque"
+          },
+          "coords": [
+            16.667,
+            44.7655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad draußen und nehmen Sie sich Zeit für einen respektvollen Besuch.",
+            "hu": "Parkolja le a kerékpárját odakint, és szánjon időt egy tiszteletteljes látogatásra.",
+            "ro": "Parcați-vă bicicleta afară și acordați-vă timp pentru o vizită respectuoasă.",
+            "en": "Park your bike outside and take time for a respectful visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Kamengrad",
+            "hu": "Kamengrádi vár",
+            "ro": "Cetatea Kamengrad",
+            "en": "Kamengrad Fortress"
+          },
+          "coords": [
+            16.583,
+            44.789
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 58,
+          "hop_from_prev_km": 9.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour hierher ist anspruchsvoll, aber die Aussicht ist die Belohnung.",
+            "hu": "A kerékpárút ide kihívást jelent, de a kilátás megéri a fáradságot.",
+            "ro": "Plimbarea cu bicicleta până aici este solicitantă, dar priveliștea este recompensa.",
+            "en": "The bike ride here is challenging, but the views are the reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Kamengrad",
+            "hu": "Ebed Kamengrádban",
+            "ro": "Prânz în Kamengrad",
+            "en": "Lunch in Kamengrad"
+          },
+          "coords": [
+            16.5825,
+            44.7875
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Tanken Sie neue Energie in einem lokalen Restaurant in der Nähe der Festung.",
+            "hu": "Töltődjön fel egy helyi étteremben a vár közelében.",
+            "ro": "Refaceți-vă plinul la un restaurant local de lângă cetate.",
+            "en": "Refuel at a local restaurant near the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück am Fluss Sana",
+            "hu": "Vissza a Szana folyóhoz",
+            "ro": "Înapoi la râul Sana",
+            "en": "Back to the Sana River"
+          },
+          "coords": [
+            16.6667,
+            44.7667
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:37",
+          "stay_min": 98,
+          "hop_from_prev_min": 62,
+          "hop_from_prev_km": 10.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannten Zeit am Flussufer.",
+            "hu": "Zárja a kerékpártúrát egy kellemes pihenéssel a folyóparton.",
+            "ro": "Încheiați-vă turul cu bicicleta cu o perioadă de relaxare pe malul râului.",
+            "en": "End your bike tour with some relaxing time by the riverside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Sanski Most beginnt im Stadtpark. Sie radeln zur Sana-Brücke und dann zur Hamzibeg-Moschee. Der Vormittag gipfelt in einer anspruchsvollen, aber lohnenden Fahrt zur Festung Kamengrad. Nach dem Mittagessen in Kamengrad genießen Sie eine lange Abfahrt zurück in die Stadt. Der Nachmittag endet entspannt am Ufer des Flusses Sana, wo Sie die Eindrücke des Tages Revue passieren lassen können.",
+        "hu": "A sanski mosti kerékpártúra a Városi Parkban kezdődik. Elteker a Szana-hídhoz, majd a Hamza Bég Dzsámihoz. A délelőtt egy kihívásokkal teli, de annál nagyobb jutalommal kecsegtető úttal csúcsosodik ki a kamengrádi várhoz. A kamengrádi ebéd után egy hosszú lejtmenetben gyönyörködhet vissza a városba. A délután a Szana folyó partján ér véget, ahol feldolgozhatja a nap élményeit.",
+        "ro": "Turul dvs. cu bicicleta prin Sanski Most începe în Parcul Orașului. Pedalați spre Podul Sana și apoi spre Moscheea Hamza Bey. Dimineața culminează cu o plimbare provocatoare, dar plină de satisfacții, spre Cetatea Kamengrad. După prânzul în Kamengrad, vă bucurați de o coborâre lungă înapoi în oraș. După-amiaza se încheie relaxant pe malul râului Sana, unde puteți reflecta asupra zilei.",
+        "en": "Your bike tour of Sanski Most starts in the City Park. You'll cycle to the Sana Bridge and then to the Hamza Bey Mosque. The morning culminates in a challenging but rewarding ride up to Kamengrad Fortress. After lunch in Kamengrad, you'll enjoy a long descent back to the city. The afternoon ends with a relaxing time by the banks of the Sana River, reflecting on the day's journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Bosnisches Nationalgericht, gegrillte Hackfleischröllchen in Fladenbrot."
+          },
+          {
+            "name": "Burek",
+            "tip": "Blätterteiggebäck gefüllt mit Fleisch, Käse oder Spinat."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Eine reichhaltige Hühner- und Gemüsesuppe, oft mit Sauerrahm serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Bosnyák nemzeti étel, grillezett darált húsos tekercsek lepénykenyérben."
+          },
+          {
+            "name": "Burek",
+            "tip": "Hússal, sajttal vagy spenóttal töltött leveles tészta."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Gazdag csirke- és zöldségleves, gyakran tejföllel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Mâncare națională bosniacă, rulouri de carne tocată la grătar în lipie."
+          },
+          {
+            "name": "Burek",
+            "tip": "Produse de patiserie din foietaj umplute cu carne, brânză sau spanac."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "O supă bogată de pui și legume, adesea servită cu smântână."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Bosnian national dish, grilled minced meat rolls in flatbread."
+          },
+          {
+            "name": "Burek",
+            "tip": "Flaky pastry filled with meat, cheese, or spinach."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "A rich chicken and vegetable soup, often served with sour cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von der Festung Kamengrad",
+            "tip": "Genießen Sie die Stille und den Panoramablick nach dem anstrengenden Aufstieg.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Flusses Sana",
+            "tip": "Ein friedlicher Ort, um sich nach einer langen Radtour auszuruhen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dabar-Höhle (mit dem Rad erreichbar)",
+            "tip": "Eine kühle, ruhige Zuflucht an einem heißen Tag.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a kamengrádi várból",
+            "tip": "Élvezze a csendet és a panorámát a megerőltető emelkedő után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Szana folyó partja",
+            "tip": "Békés hely a pihenésre egy hosszú kerékpártúra után.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dabar-barlang (kerékpárral elérhető)",
+            "tip": "Hűs, csendes menedék egy forró napon.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Cetatea Kamengrad",
+            "tip": "Bucurați-vă de liniște și de vederea panoramică după urcarea dificilă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Sana",
+            "tip": "Un loc pașnic pentru a vă odihni după o plimbare lungă cu bicicleta.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Peștera Dabar (accesibilă cu bicicleta)",
+            "tip": "Un refugiu răcoros și liniștit într-o zi fierbinte.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Kamengrad Fortress",
+            "tip": "Enjoy the silence and panoramic view after the hard climb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Sana River",
+            "tip": "A peaceful place to rest after a long bike ride.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dabar Cave (reachable by bike)",
+            "tip": "A cool, quiet escape on a hot day.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach frischen Produkten und handgemachtem Käse."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Entdecken Sie traditionelle bosnische Holzarbeiten und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen friss termékeket és kézműves sajtokat."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Fedezze fel a hagyományos bosnyák fafaragásokat és textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse proaspete și brânzeturi artizanale."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Descoperiți obiecte tradiționale bosniace din lemn și textile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for fresh produce and handmade cheeses."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Discover traditional Bosnian woodwork and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen für die Abfahrt.",
+          "Nehmen Sie viel Wasser mit, besonders für die Fahrt zur Festung.",
+          "Ein Helm wird dringend empfohlen.",
+          "Schließen Sie Ihr Fahrrad an belebten Orten immer ab."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket a lejtmenethez.",
+          "Vigyen magával sok vizet, különösen a várhoz vezető útra.",
+          "Sisak használata erősen ajánlott.",
+          "Forgalmas helyeken mindig zárja le a kerékpárját."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele pentru coborâre.",
+          "Luați multă apă, mai ales pentru urcarea la cetate.",
+          "O cască este foarte recomandată.",
+          "Încuiați-vă întotdeauna bicicleta în locuri aglomerate."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes for the descent.",
+          "Bring plenty of water, especially for the ride to the fortress.",
+          "A helmet is highly recommended.",
+          "Always lock your bike in busy areas."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:46",
+      "total_km": 43.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Sana-Brücke (Cluster A)",
+            "hu": "Szana-híd (A csoport)",
+            "ro": "Podul Sana (Grupul A)",
+            "en": "Sana Bridge (Cluster A)"
+          },
+          "coords": [
+            16.665,
+            44.766
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie Ihre Erkundung des Stadtzentrums zu Fuß.",
+            "hu": "Parkoljon a közelben, és kezdje meg a belváros gyalogos felfedezését.",
+            "ro": "Parcați în apropiere și începeți explorarea centrului orașului pe jos.",
+            "en": "Park nearby and begin your walking exploration of the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Befreiung (Cluster A)",
+            "hu": "Felszabadulási emlékmű (A csoport)",
+            "ro": "Monumentul Eliberării (Grupul A)",
+            "en": "Liberation Monument (Cluster A)"
+          },
+          "coords": [
+            16.6635,
+            44.768
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Brücke, um einen Moment innezuhalten.",
+            "hu": "Egy rövid séta a hídtól, hogy megálljon egy pillanatra.",
+            "ro": "O scurtă plimbare de la pod pentru un moment de reflecție.",
+            "en": "A short walk from the bridge for a moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Hamzibeg-Moschee (Cluster A)",
+            "hu": "Hamza Bég Dzsámi (A csoport)",
+            "ro": "Moscheea Hamza Bey (Grupul A)",
+            "en": "Hamza Bey Mosque (Cluster A)"
+          },
+          "coords": [
+            16.667,
+            44.7655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt in diesem Fußgänger-Cluster, bevor Sie weiterfahren.",
+            "hu": "Az utolsó megálló ebben a gyalogos zónában, mielőtt továbbhajtana.",
+            "ro": "Ultima oprire în acest grup pietonal înainte de a merge mai departe.",
+            "en": "The final stop in this walking cluster before you drive on."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Kamengrad (Cluster B)",
+            "hu": "Kamengrádi vár (B csoport)",
+            "ro": "Cetatea Kamengrad (Grupul B)",
+            "en": "Kamengrad Fortress (Cluster B)"
+          },
+          "coords": [
+            16.583,
+            44.789
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem historischen Ort und parken Sie, um die Gegend zu erkunden.",
+            "hu": "Vezessen el ehhez a történelmi helyszínhez, és parkoljon le a környék felfedezéséhez.",
+            "ro": "Conduceți până la acest sit istoric și parcați pentru a explora zona.",
+            "en": "Drive to this historic site and park to explore the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Musalla in Kamengrad (Cluster B)",
+            "hu": "Muszalla Kamengrádban (B csoport)",
+            "ro": "Musalla din Kamengrad (Grupul B)",
+            "en": "Musalla in Kamengrad (Cluster B)"
+          },
+          "coords": [
+            16.582,
+            44.788
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Festung, um dieses einzigartige Freiluft-Heiligtum zu sehen.",
+            "hu": "Rövid séta a vártól, hogy megnézze ezt az egyedülálló szabadtéri szentélyt.",
+            "ro": "O scurtă plimbare de la cetate pentru a vedea acest sanctuar unic în aer liber.",
+            "en": "A short walk from the fortress to see this unique open-air sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Kamengrad (Cluster B)",
+            "hu": "Ebed Kamengrádban (B csoport)",
+            "ro": "Prânz în Kamengrad (Grupul B)",
+            "en": "Lunch in Kamengrad (Cluster B)"
+          },
+          "coords": [
+            16.5822,
+            44.787
+          ],
+          "category": "gastro",
+          "arrive_at": "13:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit, bevor Sie zum nächsten Abenteuer aufbrechen.",
+            "hu": "Fogyasszon el egy ebédet, mielőtt a következő kalandra indulna.",
+            "ro": "Bucurați-vă de o masă înainte de a pleca spre următoarea aventură.",
+            "en": "Enjoy a meal before heading to your next adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Bliha-Wasserfall (Cluster C)",
+            "hu": "Bliha-vízesés (C csoport)",
+            "ro": "Cascada Bliha (Grupul C)",
+            "en": "Bliha Waterfall (Cluster C)"
+          },
+          "coords": [
+            16.7167,
+            44.65
+          ],
+          "category": "natural features",
+          "arrive_at": "15:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 43,
+          "hop_from_prev_km": 20.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein Naturwunder, das eine kurze Fahrt wert ist. Beachten Sie, dass ein kurzer Spaziergang vom Parkplatz erforderlich ist.",
+            "hu": "Egy természeti csoda, ami megér egy rövid autóutat. A parkolótól rövid séta szükséges.",
+            "ro": "O minune naturală care merită o scurtă călătorie cu mașina. Rețineți că este necesară o scurtă plimbare de la parcare.",
+            "en": "A natural wonder well worth the drive. Note that a short walk from the parking area is required."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Sanski Most",
+            "hu": "Sanski Most Városi Park",
+            "ro": "Parcul Orașului Sanski Most",
+            "en": "Sanski Most City Park"
+          },
+          "coords": [
+            16.668,
+            44.764
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kehren Sie in die Stadt zurück und beenden Sie den Tag mit einem entspannten Spaziergang im Park.",
+            "hu": "Térjen vissza a városba, és fejezze be a napot egy pihentető sétával a parkban.",
+            "ro": "Întoarceți-vă în oraș pentru a încheia ziua cu o plimbare relaxantă în parc.",
+            "en": "Return to the city to end your day with a relaxing walk in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Herzen von Sanski Most, wo Sie parken, um die Sana-Brücke und die Hamzibeg-Moschee zu Fuß zu erkunden. Am Vormittag fahren Sie zur historischen Festung Kamengrad und ihrer Musalla. Nach dem Mittagessen in der Nähe führt Sie die Reise zum beeindruckenden Bliha-Wasserfall, einem Höhepunkt in der Natur. Der Tag endet mit der Rückkehr in die Stadt und einem entspannten Spaziergang im Stadtpark bei Sonnenuntergang.",
+        "hu": "Az autós nap Sanski Most szívében kezdődik, ahol leparkol, hogy gyalog fedezze fel a Szana-hidat és a Hamza Bég Dzsámit. A délelőtt folyamán a történelmi kamengrádi várhoz és annak muszallájához hajt. Az ebéd után az út a lenyűgöző Bliha-vízeséshez vezet. A nap a városba való visszatéréssel és egy pihentető sétával zárul a Városi Parkban naplementekor.",
+        "ro": "Ziua dvs. cu mașina începe în inima orașului Sanski Most, unde parcați pentru a explora pe jos Podul Sana și Moscheea Hamza Bey. Dimineața, conduceți spre istorica Cetate Kamengrad și Musalla sa. După prânzul în apropiere, călătoria vă duce la impresionanta Cascadă Bliha. Ziua se încheie cu întoarcerea în oraș pentru o plimbare relaxantă în Parcul Orașului la apus.",
+        "en": "Your car day starts in the heart of Sanski Most, where you'll park to explore the Sana Bridge and Hamza Bey Mosque on foot. In the morning, you drive to the historic Kamengrad Fortress and its Musalla. After lunch nearby, the journey takes you to the stunning Bliha Waterfall. The day concludes by returning to the city for a relaxing walk in the City Park as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Bosnisches Nationalgericht, gegrillte Hackfleischröllchen in Fladenbrot."
+          },
+          {
+            "name": "Burek",
+            "tip": "Blätterteiggebäck gefüllt mit Fleisch, Käse oder Spinat."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Eine reichhaltige Hühner- und Gemüsesuppe, oft mit Sauerrahm serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Bosnyák nemzeti étel, grillezett darált húsos tekercsek lepénykenyérben."
+          },
+          {
+            "name": "Burek",
+            "tip": "Hússal, sajttal vagy spenóttal töltött leveles tészta."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Gazdag csirke- és zöldségleves, gyakran tejföllel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Mâncare națională bosniacă, rulouri de carne tocată la grătar în lipie."
+          },
+          {
+            "name": "Burek",
+            "tip": "Produse de patiserie din foietaj umplute cu carne, brânză sau spanac."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "O supă bogată de pui și legume, adesea servită cu smântână."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Bosnian national dish, grilled minced meat rolls in flatbread."
+          },
+          {
+            "name": "Burek",
+            "tip": "Flaky pastry filled with meat, cheese, or spinach."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "A rich chicken and vegetable soup, often served with sour cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bliha-Wasserfall",
+            "tip": "Das Rauschen des Wassers ist unglaublich beruhigend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht von der Festung Kamengrad",
+            "tip": "Ein Panoramablick über die Landschaft.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dabar-Höhle",
+            "tip": "Erkunden Sie die Stille unter der Erde, wenn Sie Zeit haben.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bliha-vízesés",
+            "tip": "A víz zúgása hihetetlenül megnyugtató.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a kamengrádi várból",
+            "tip": "Panorámás kilátás a tájra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dabar-barlang",
+            "tip": "Fedezze fel a föld alatti csendet, ha van ideje.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascada Bliha",
+            "tip": "Sunetul apei este incredibil de liniștitor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Cetatea Kamengrad",
+            "tip": "O priveliște panoramică asupra peisajului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Peștera Dabar",
+            "tip": "Explorați liniștea subterană dacă aveți timp.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bliha Waterfall",
+            "tip": "The sound of the water is incredibly calming.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Kamengrad Fortress",
+            "tip": "A panoramic view over the landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dabar Cave",
+            "tip": "Explore the silence underground if you have time.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach frischen Produkten und handgemachtem Käse."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Entdecken Sie traditionelle bosnische Holzarbeiten und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen friss termékeket és kézműves sajtokat."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Fedezze fel a hagyományos bosnyák fafaragásokat és textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse proaspete și brânzeturi artizanale."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Descoperiți obiecte tradiționale bosniace din lemn și textile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for fresh produce and handmade cheeses."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Discover traditional Bosnian woodwork and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Parkplätze im Voraus.",
+          "Verwenden Sie eine GPS-App für die Navigation zwischen den Clustern.",
+          "Überprüfen Sie die Öffnungszeiten, insbesondere für die Festung.",
+          "Haben Sie Snacks und Wasser im Auto für die längeren Fahrten."
+        ],
+        "hu": [
+          "Tervezze meg előre a parkolást.",
+          "Használjon GPS-alkalmazást a klaszterek közötti navigációhoz.",
+          "Ellenőrizze a nyitvatartási időket, különösen a vár esetében.",
+          "Készítsen be rágcsálnivalót és vizet az autóba a hosszabb utakra."
+        ],
+        "ro": [
+          "Planificați-vă locurile de parcare în avans.",
+          "Utilizați o aplicație GPS pentru a naviga între grupuri.",
+          "Verificați orele de deschidere, în special pentru cetate.",
+          "Aveți gustări și apă în mașină pentru călătoriile mai lungi."
+        ],
+        "en": [
+          "Plan your parking spots in advance.",
+          "Use a GPS app for navigation between clusters.",
+          "Check opening hours, especially for the fortress.",
+          "Have snacks and water in the car for the longer drives."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 19.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtzentrum (Cluster A)",
+            "hu": "Városközpont (A csoport)",
+            "ro": "Centrul orașului (Grupul A)",
+            "en": "City Center (Cluster A)"
+          },
+          "coords": [
+            16.6667,
+            44.7667
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Busbahnhof und orientieren Sie sich.",
+            "hu": "Kezdje a központi buszállomáson, és tájékozódjon.",
+            "ro": "Începeți de la stația centrală de autobuz și orientați-vă.",
+            "en": "Start at the central bus station and get your bearings."
+          }
+        },
+        {
+          "name": {
+            "de": "Sana-Brücke (Cluster A)",
+            "hu": "Szana-híd (A csoport)",
+            "ro": "Podul Sana (Grupul A)",
+            "en": "Sana Bridge (Cluster A)"
+          },
+          "coords": [
+            16.665,
+            44.766
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:28",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof.",
+            "hu": "Rövid séta a buszállomástól.",
+            "ro": "O scurtă plimbare de la stația de autobuz.",
+            "en": "A short walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Befreiung (Cluster A)",
+            "hu": "Felszabadulási emlékmű (A csoport)",
+            "ro": "Monumentul Eliberării (Grupul A)",
+            "en": "Liberation Monument (Cluster A)"
+          },
+          "coords": [
+            16.6635,
+            44.768
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:54",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den zentralen Bereich zu Fuß, bevor Sie den Bus nehmen.",
+            "hu": "Fedezze fel a központi területet gyalog, mielőtt buszra szállna.",
+            "ro": "Explorați zona centrală pe jos înainte de a lua autobuzul.",
+            "en": "Explore the central area on foot before catching the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Kamengrad (Cluster B)",
+            "hu": "Kamengrádi vár (B csoport)",
+            "ro": "Cetatea Kamengrad (Grupul B)",
+            "en": "Kamengrad Fortress (Cluster B)"
+          },
+          "coords": [
+            16.583,
+            44.789
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:52",
+          "stay_min": 90,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 9.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus nach Kamengrad. Fragen Sie nach dem Fahrplan.",
+            "hu": "Menjen helyi busszal Kamengrádba. Érdeklődjön a menetrendről.",
+            "ro": "Luați un autobuz local spre Kamengrad. Întrebați despre program.",
+            "en": "Take a local bus to Kamengrad. Ask around for the schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "Musalla in Kamengrad (Cluster B)",
+            "hu": "Muszalla Kamengrádban (B csoport)",
+            "ro": "Musalla din Kamengrad (Grupul B)",
+            "en": "Musalla in Kamengrad (Cluster B)"
+          },
+          "coords": [
+            16.582,
+            44.788
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:26",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Leicht zu Fuß von der Bushaltestelle bei der Festung zu erreichen.",
+            "hu": "Könnyen megközelíthető gyalog a buszmegállótól a várnál.",
+            "ro": "Ușor de ajuns pe jos de la stația de autobuz de lângă cetate.",
+            "en": "Easily walkable from the bus stop near the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück in Sanski Most (Cluster A)",
+            "hu": "Vissza Sanski Mostba (A csoport)",
+            "ro": "Înapoi în Sanski Most (Grupul A)",
+            "en": "Back in Sanski Most (Cluster A)"
+          },
+          "coords": [
+            16.667,
+            44.7655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:29",
+          "stay_min": 185,
+          "hop_from_prev_min": 78,
+          "hop_from_prev_km": 9.4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum und genießen Sie den Rest des Nachmittags mit Mittagessen und einem Spaziergang.",
+            "hu": "Menjen vissza busszal a központba, és töltse a délután hátralévő részét ebéddel és sétával.",
+            "ro": "Luați autobuzul înapoi în centru și bucurați-vă de restul după-amiezii cu prânz și o plimbare.",
+            "en": "Take the bus back to the center and enjoy the rest of the afternoon with lunch and a walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Zentrum von Sanski Most, das Sie zu Fuß erkunden. Am Vormittag nehmen Sie einen lokalen Bus zum historischen Dorf Kamengrad, um die Festung und die Musalla zu besichtigen. Nach diesem Ausflug fahren Sie mit dem Bus zurück in die Stadt. Der Nachmittag steht Ihnen zur freien Verfügung, um zu Mittag zu essen, einzukaufen und die Atmosphäre der Stadt aufzusaugen, bevor Sie Ihre Heimreise antreten.",
+        "hu": "A nap Sanski Most központjában kezdődik, amelyet gyalog fedez fel. A délelőtt folyamán helyi busszal utazik a történelmi Kamengrad faluba, hogy megnézze a várat és a muszallát. A kirándulás után busszal tér vissza a városba. A délután szabadon áll rendelkezésére, hogy megebédeljen, vásároljon és magába szívja a város hangulatát, mielőtt hazaindulna.",
+        "ro": "Ziua dvs. începe în centrul orașului Sanski Most, explorat pe jos. Dimineața, luați un autobuz local către satul istoric Kamengrad pentru a vedea cetatea și Musalla. După această excursie, vă întoarceți în oraș cu autobuzul. După-amiaza este a dvs. pentru a lua prânzul, a face cumpărături și a vă bucura de atmosfera orașului înainte de a pleca.",
+        "en": "Your day begins in the center of Sanski Most, explored on foot. In the morning, you'll take a local bus to the historic village of Kamengrad to see the fortress and Musalla. After this excursion, you return to the city by bus. The afternoon is yours to have lunch, shop, and soak up the town's atmosphere before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Bosnisches Nationalgericht, gegrillte Hackfleischröllchen in Fladenbrot."
+          },
+          {
+            "name": "Burek",
+            "tip": "Blätterteiggebäck gefüllt mit Fleisch, Käse oder Spinat."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Eine reichhaltige Hühner- und Gemüsesuppe, oft mit Sauerrahm serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Bosnyák nemzeti étel, grillezett darált húsos tekercsek lepénykenyérben."
+          },
+          {
+            "name": "Burek",
+            "tip": "Hússal, sajttal vagy spenóttal töltött leveles tészta."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Gazdag csirke- és zöldségleves, gyakran tejföllel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Mâncare națională bosniacă, rulouri de carne tocată la grătar în lipie."
+          },
+          {
+            "name": "Burek",
+            "tip": "Produse de patiserie din foietaj umplute cu carne, brânză sau spanac."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "O supă bogată de pui și legume, adesea servită cu smântână."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Bosnian national dish, grilled minced meat rolls in flatbread."
+          },
+          {
+            "name": "Burek",
+            "tip": "Flaky pastry filled with meat, cheese, or spinach."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "A rich chicken and vegetable soup, often served with sour cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Sana",
+            "tip": "Finden Sie eine ruhige Bank entlang des Flusses, um dem Wasser zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht von der Festung Kamengrad",
+            "tip": "Genießen Sie die Stille und den Panoramablick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Ein friedlicher Ort, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Szana folyó partja",
+            "tip": "Keressen egy csendes padot a folyó mentén, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a kamengrádi várból",
+            "tip": "Élvezze a csendet és a panorámát.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Békés hely a város zajától távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Sana",
+            "tip": "Găsiți o bancă liniștită de-a lungul râului pentru a asculta apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Cetatea Kamengrad",
+            "tip": "Bucurați-vă de liniște și de vederea panoramică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Orașului",
+            "tip": "Un loc pașnic pentru a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Sana River",
+            "tip": "Find a quiet bench along the river to listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Kamengrad Fortress",
+            "tip": "Enjoy the silence and panoramic view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "City Park",
+            "tip": "A peaceful spot to escape the city bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach frischen Produkten und handgemachtem Käse."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Entdecken Sie traditionelle bosnische Holzarbeiten und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen friss termékeket és kézműves sajtokat."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Fedezze fel a hagyományos bosnyák fafaragásokat és textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse proaspete și brânzeturi artizanale."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Descoperiți obiecte tradiționale bosniace din lemn și textile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for fresh produce and handmade cheeses."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Discover traditional Bosnian woodwork and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne, da diese möglicherweise nicht häufig verkehren.",
+          "Haben Sie Kleingeld für Bustickets.",
+          "Seien Sie auf Wartezeiten bei den Bussen vorbereitet.",
+          "Die Naturattraktionen wie der Wasserfall sind mit öffentlichen Verkehrsmitteln wahrscheinlich nicht erreichbar."
+        ],
+        "hu": [
+          "Érdeklődjön előre a buszmenetrendekről, mivel a járatok ritkák lehetnek.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "Készüljön fel a buszokra való várakozásra.",
+          "A természeti látnivalók, mint például a vízesés, valószínűleg nem érhetők el tömegközlekedéssel."
+        ],
+        "ro": [
+          "Verificați în avans orarele autobuzelor, deoarece s-ar putea să nu fie frecvente.",
+          "Aveți bani mărunți pentru biletele de autobuz.",
+          "Fiți pregătiți pentru timpi de așteptare pentru autobuze.",
+          "Atracțiile naturale, cum ar fi cascada, probabil nu sunt accesibile cu transportul public."
+        ],
+        "en": [
+          "Check bus schedules in advance as they may be infrequent.",
+          "Have small change ready for bus tickets.",
+          "Be prepared for some waiting time for buses.",
+          "The natural attractions like the waterfall are likely not accessible by public transport."
+        ]
+      }
+    }
+  }
+}

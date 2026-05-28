@@ -1,0 +1,1408 @@
+{
+  "city_id": "poi-mt-mdina",
+  "anchor": {
+    "name": "Mdina (Stille Stadt)",
+    "coords": [
+      14.4031,
+      35.8858
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mdina-Tor",
+            "hu": "Mdinai kapu",
+            "ro": "Poarta Mdina",
+            "en": "Mdina Gate"
+          },
+          "coords": [
+            14.4034,
+            35.885
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das Tor ist beeindruckend, besonders früh am Morgen ohne die Menschenmassen.",
+            "hu": "A kapu kora reggel a leglenyűgözőbb, amikor még nincsen tömeg.",
+            "ro": "Poarta este impresionantă, mai ales dimineața devreme, fără mulțimi.",
+            "en": "The gate is most impressive early in the morning without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Vilhena-Palast",
+            "hu": "Vilhena palota",
+            "ro": "Palatul Vilhena",
+            "en": "Vilhena Palace"
+          },
+          "coords": [
+            14.4036,
+            35.8853
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fokus auf die naturhistorische Sammlung, falls die Zeit knapp ist.",
+            "hu": "Ha kevés az idő, a természettudományi gyűjteményre koncentráljon.",
+            "ro": "Concentrați-vă pe colecția de istorie naturală dacă timpul este scurt.",
+            "en": "Focus on the natural history collection if time is short."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Paul's Kathedrale",
+            "hu": "Szent Pál-katedrális",
+            "ro": "Catedrala Sf. Paul",
+            "en": "St. Paul's Cathedral"
+          },
+          "coords": [
+            14.4041,
+            35.8865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die prächtigen Marmor-Grabsteine im Boden.",
+            "hu": "Figyelje meg a padlózatot díszítő pazar márvány sírköveket.",
+            "ro": "Fiți atenți la pietrele funerare magnifice de marmură de pe podea.",
+            "en": "Pay attention to the magnificent marble tombstones on the floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Metropolitan-Kathedralmuseum",
+            "hu": "Főszékesegyházi Múzeum",
+            "ro": "Muzeul Catedralei Metropolitane",
+            "en": "Metropolitan Cathedral Museum"
+          },
+          "coords": [
+            14.4044,
+            35.8868
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Ticket für die Kathedrale gilt auch hier. Sparen Sie es!",
+            "hu": "A katedrális belépője ide is érvényes. Tegye el!",
+            "ro": "Biletul de la catedrală este valabil și aici. Păstrați-l!",
+            "en": "The ticket for the cathedral is also valid here. Save it!"
+          }
+        },
+        {
+          "name": {
+            "de": "Karmeliterkirche",
+            "hu": "Karmelita templom",
+            "ro": "Biserica Carmeliților",
+            "en": "Carmelite Church"
+          },
+          "coords": [
+            14.4025,
+            35.8859
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein ruhigerer Ort als die Kathedrale, perfekt für eine kurze Pause.",
+            "hu": "Csendesebb hely a katedrálisnál, tökéletes egy rövid pihenőre.",
+            "ro": "Un loc mai liniștit decât catedrala, perfect pentru o scurtă pauză.",
+            "en": "A quieter spot than the cathedral, perfect for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion Square",
+            "hu": "Bástya tér",
+            "ro": "Piața Bastionului",
+            "en": "Bastion Square"
+          },
+          "coords": [
+            14.4022,
+            35.8867
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der beste Ort für den Sonnenuntergang mit Blick über die Insel.",
+            "hu": "A legjobb hely a naplemente megcsodálására, kilátással az egész szigetre.",
+            "ro": "Cel mai bun loc pentru apus, cu vedere la întreaga insulă.",
+            "en": "The best spot for sunset with a view over the island."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Mdina-Tor und tauchen Sie in die 'Stille Stadt' ein. Der Vormittag ist der Erkundung der Paläste und der prächtigen St. Paul's Kathedrale gewidmet. Nach dem Mittagessen im Herzen der Stadt können Sie die Ruhe der kleineren Kirchen genießen. Der Nachmittag endet auf dem Bastion Square, wo Sie einen atemberaubenden Panoramablick über Malta haben. Ein Abendessen in einem der Gewölberestaurants rundet den Tag perfekt ab.",
+        "hu": "Kezdje a napot a Mdina kapunál, és merüljön el a 'Csendes Városban'. A délelőttöt a paloták és a csodálatos Szent Pál-katedrális felfedezésével töltse. Egy belvárosi ebéd után élvezze a kisebb templomok nyugalmát. A délután a Bástya téren ér véget, ahonnan lélegzetelállító panoráma nyílik Máltára. A napot egy boltíves étteremben elköltött vacsora teszi tökéletessé.",
+        "ro": "Începeți ziua la Poarta Mdina și scufundați-vă în 'Orașul Tăcut'. Dimineața este dedicată explorării palatelor și a magnificei Catedrale Sf. Paul. După prânzul în inima orașului, bucurați-vă de liniștea bisericilor mai mici. După-amiaza se încheie în Piața Bastionului, cu o vedere panoramică uluitoare asupra Maltei. O cină într-unul dintre restaurantele boltite încheie perfect ziua.",
+        "en": "Start your day at the Mdina Gate and immerse yourself in the 'Silent City'. The morning is for exploring palaces and the magnificent St. Paul's Cathedral. After lunch in the heart of the city, enjoy the tranquility of the smaller churches. The afternoon concludes at Bastion Square, offering a breathtaking panoramic view over Malta. Dinner in one of the vaulted restaurants provides a perfect end to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastizzi",
+            "tip": "Probieren Sie diese Blätterteigpasteten mit Ricotta- oder Erbsenfüllung. Ein lokaler Snack."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "Ein traditioneller Kanincheneintopf, oft mit der Familie geteilt."
+          },
+          {
+            "name": "Fontanella Tea Garden",
+            "tip": "Berühmt für seine Kuchen und die unglaubliche Aussicht von den Bastionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastizzi",
+            "tip": "Kóstolja meg ezt a leveles tésztát ricottás vagy borsós töltelékkel. Helyi harapnivaló."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "Hagyományos nyúlpörkölt, amelyet gyakran családi körben fogyasztanak."
+          },
+          {
+            "name": "Fontanella Tea Garden",
+            "tip": "Híres süteményeiről és a bástyákról nyíló hihetetlen kilátásról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastizzi",
+            "tip": "Încercați aceste produse de patiserie cu umplutură de ricotta sau mazăre. O gustare locală."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "O tocană tradițională de iepure, adesea împărțită cu familia."
+          },
+          {
+            "name": "Fontanella Tea Garden",
+            "tip": "Faimoasă pentru prăjiturile sale și vederea incredibilă de pe bastioane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastizzi",
+            "tip": "Try these flaky pastries with a ricotta or pea filling. A local snack."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "A traditional rabbit stew, often shared with family."
+          },
+          {
+            "name": "Fontanella Tea Garden",
+            "tip": "Famous for its cakes and the incredible view from the bastions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bastion Square am Abend",
+            "tip": "Nachdem die Tagesausflügler weg sind, ist dies ein magischer Ort der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Gassen",
+            "tip": "Verirren Sie sich in den engen, autofreien Gassen für einen Moment der Stille.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Karmeliterkirche",
+            "tip": "Eine Oase der Ruhe abseits der Haupttouristenroute.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bástya tér este",
+            "tip": "Miután a napközbeni turisták elmentek, ez egy varázslatosan csendes hely.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett sikátorok",
+            "tip": "Tévedjen el a szűk, autómentes sikátorokban egy csendes pillanatért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Karmelita templom",
+            "tip": "A béke oázisa a fő turistaútvonaltól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Bastionului seara",
+            "tip": "După plecarea turiștilor de o zi, acesta este un loc magic și liniștit.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțe ascunse",
+            "tip": "Pierdeți-vă pe străduțele înguste, fără mașini, pentru un moment de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Carmeliților",
+            "tip": "O oază de pace, departe de traseul turistic principal.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bastion Square in the evening",
+            "tip": "After the day-trippers have left, this is a magical place of tranquility.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden Alleys",
+            "tip": "Get lost in the narrow, car-free alleys for a moment of silence.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Carmelite Church",
+            "tip": "An oasis of peace away from the main tourist route.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mdina Glass",
+            "tip": "Kaufen Sie einzigartige, handgefertigte Glaswaren, ein berühmtes maltesisches Handwerk."
+          },
+          {
+            "name": "Ritter-Souvenirs",
+            "tip": "Kleine Statuetten und Andenken an die Ritter von Malta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mdina Glass",
+            "tip": "Vásároljon egyedi, kézzel készített üvegárut, egy híres máltai mesterséget."
+          },
+          {
+            "name": "Lovagi szuvenírek",
+            "tip": "Kis szobrok és emléktárgyak a Máltai lovagokról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mdina Glass",
+            "tip": "Cumpărați articole unice din sticlă lucrată manual, un meșteșug faimos maltez."
+          },
+          {
+            "name": "Suveniruri cu cavaleri",
+            "tip": "Statuete mici și amintiri cu Cavalerii de Malta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mdina Glass",
+            "tip": "Shop for unique, handmade glassware, a famous Maltese craft."
+          },
+          {
+            "name": "Knight Souvenirs",
+            "tip": "Small statuettes and memorabilia related to the Knights of Malta."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen uneben sein können.",
+          "Respektieren Sie die Stille; die Stadt ist immer noch bewohnt.",
+          "Besuchen Sie die Stadt früh am Morgen oder spät am Abend, um die Menschenmassen zu vermeiden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az utcák egyenetlenek lehetnek.",
+          "Tartsa tiszteletben a csendet; a város ma is lakott.",
+          "Látogasson el kora reggel vagy késő este, hogy elkerülje a tömeget."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile pot fi denivelate.",
+          "Respectați liniștea; orașul este încă locuit.",
+          "Vizitați devreme dimineața sau târziu seara pentru a evita aglomerația."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets can be uneven.",
+          "Respect the silence; the city is still inhabited.",
+          "Visit early in the morning or late in the evening to avoid the crowds."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Rad abstellen",
+            "hu": "Érkezés és kerékpár lezárása",
+            "ro": "Sosire și parcare bicicletă",
+            "en": "Arrival & Bike Parking"
+          },
+          "coords": [
+            14.4034,
+            35.8848
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad am Haupteingang an, da Radfahren im Inneren nicht gestattet ist.",
+            "hu": "Zárja le a kerékpárt a főbejáratnál, mert bent nem lehet biciklizni.",
+            "ro": "Legați-vă bicicleta la intrarea principală, ciclismul nu este permis în interior.",
+            "en": "Lock your bike near the main gate as cycling is not allowed inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Vilhena-Palast",
+            "hu": "Vilhena palota",
+            "ro": "Palatul Vilhena",
+            "en": "Vilhena Palace"
+          },
+          "coords": [
+            14.4036,
+            35.8853
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fokus auf die naturhistorische Sammlung, falls die Zeit knapp ist.",
+            "hu": "Ha kevés az idő, a természettudományi gyűjteményre koncentráljon.",
+            "ro": "Concentrați-vă pe colecția de istorie naturală dacă timpul este scurt.",
+            "en": "Focus on the natural history collection if time is short."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Paul's Kathedrale",
+            "hu": "Szent Pál-katedrális",
+            "ro": "Catedrala Sf. Paul",
+            "en": "St. Paul's Cathedral"
+          },
+          "coords": [
+            14.4041,
+            35.8865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die prächtigen Marmor-Grabsteine im Boden.",
+            "hu": "Figyelje meg a padlózatot díszítő pazar márvány sírköveket.",
+            "ro": "Fiți atenți la pietrele funerare magnifice de marmură de pe podea.",
+            "en": "Pay attention to the magnificent marble tombstones on the floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Metropolitan-Kathedralmuseum",
+            "hu": "Főszékesegyházi Múzeum",
+            "ro": "Muzeul Catedralei Metropolitane",
+            "en": "Metropolitan Cathedral Museum"
+          },
+          "coords": [
+            14.4044,
+            35.8868
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Ticket für die Kathedrale gilt auch hier. Sparen Sie es!",
+            "hu": "A katedrális belépője ide is érvényes. Tegye el!",
+            "ro": "Biletul de la catedrală este valabil și aici. Păstrați-l!",
+            "en": "The ticket for the cathedral is also valid here. Save it!"
+          }
+        },
+        {
+          "name": {
+            "de": "Karmeliterkirche",
+            "hu": "Karmelita templom",
+            "ro": "Biserica Carmeliților",
+            "en": "Carmelite Church"
+          },
+          "coords": [
+            14.4025,
+            35.8859
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein ruhigerer Ort als die Kathedrale, perfekt für eine kurze Pause.",
+            "hu": "Csendesebb hely a katedrálisnál, tökéletes egy rövid pihenőre.",
+            "ro": "Un loc mai liniștit decât catedrala, perfect pentru o scurtă pauză.",
+            "en": "A quieter spot than the cathedral, perfect for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion Square",
+            "hu": "Bástya tér",
+            "ro": "Piața Bastionului",
+            "en": "Bastion Square"
+          },
+          "coords": [
+            14.4022,
+            35.8867
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich nach der Radtour mit einem Stück Kuchen im Fontanella Tea Garden.",
+            "hu": "Jutalmazza meg magát a kerékpártúra után egy szelet süteménnyel a Fontanella teázóban.",
+            "ro": "Recompensați-vă cu o felie de tort la Fontanella Tea Garden după turul cu bicicleta.",
+            "en": "Reward yourself with a slice of cake at Fontanella Tea Garden after your bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie nach Mdina und stellen Sie Ihr Fahrrad am Tor ab. Die Stadt selbst erkunden Sie zu Fuß. Ihr Tag beginnt mit einem Spaziergang durch die alten Gassen zum Vilhena-Palast und zur beeindruckenden Kathedrale. Genießen Sie ein Mittagessen in einem der charmanten Restaurants. Der Nachmittag bietet Zeit für das Kathedralmuseum und einen ruhigen Moment in der Karmeliterkirche, bevor Sie den Tag mit der berühmten Aussicht vom Bastion Square beenden.",
+        "hu": "Tekerjen el Mdinába, és hagyja a kerékpárt a kapunál. Magát a várost gyalog fedezheti fel. A nap a régi sikátorokon át a Vilhena-palotához és a lenyűgöző katedrálishoz vezető sétával kezdődik. Ebédeljen meg az egyik hangulatos étteremben. Délután jusson idő a Katedrális Múzeumra és egy csendes percre a Karmelita templomban, mielőtt a napot a Bástya tér híres kilátásával zárja.",
+        "ro": "Pedalați până la Mdina și lăsați-vă bicicleta la poartă. Veți explora orașul pe jos. Ziua începe cu o plimbare pe străduțele vechi până la Palatul Vilhena și impresionanta catedrală. Savurați prânzul la unul dintre restaurantele fermecătoare. După-amiaza oferă timp pentru Muzeul Catedralei și un moment de liniște la Biserica Carmeliților înainte de a încheia ziua cu faimoasa priveliște din Piața Bastionului.",
+        "en": "Cycle to Mdina and leave your bike at the gate. You'll explore the city itself on foot. Your day starts with a walk through the old alleys to Vilhena Palace and the impressive cathedral. Enjoy lunch at one of the charming restaurants. The afternoon allows for the Cathedral Museum and a quiet moment at the Carmelite Church before ending the day with the famous view from Bastion Square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastizzi",
+            "tip": "Probieren Sie diese Blätterteigpasteten mit Ricotta- oder Erbsenfüllung. Ein lokaler Snack."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "Ein traditioneller Kanincheneintopf, oft mit der Familie geteilt."
+          },
+          {
+            "name": "Fontanella Tea Garden",
+            "tip": "Berühmt für seine Kuchen und die unglaubliche Aussicht von den Bastionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastizzi",
+            "tip": "Kóstolja meg ezt a leveles tésztát ricottás vagy borsós töltelékkel. Helyi harapnivaló."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "Hagyományos nyúlpörkölt, amelyet gyakran családi körben fogyasztanak."
+          },
+          {
+            "name": "Fontanella Tea Garden",
+            "tip": "Híres süteményeiről és a bástyákról nyíló hihetetlen kilátásról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastizzi",
+            "tip": "Încercați aceste produse de patiserie cu umplutură de ricotta sau mazăre. O gustare locală."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "O tocană tradițională de iepure, adesea împărțită cu familia."
+          },
+          {
+            "name": "Fontanella Tea Garden",
+            "tip": "Faimoasă pentru prăjiturile sale și vederea incredibilă de pe bastioane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastizzi",
+            "tip": "Try these flaky pastries with a ricotta or pea filling. A local snack."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "A traditional rabbit stew, often shared with family."
+          },
+          {
+            "name": "Fontanella Tea Garden",
+            "tip": "Famous for its cakes and the incredible view from the bastions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bastion Square am Abend",
+            "tip": "Nachdem die Tagesausflügler weg sind, ist dies ein magischer Ort der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Gassen",
+            "tip": "Verirren Sie sich in den engen, autofreien Gassen für einen Moment der Stille.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Karmeliterkirche",
+            "tip": "Eine Oase der Ruhe abseits der Haupttouristenroute.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bástya tér este",
+            "tip": "Miután a napközbeni turisták elmentek, ez egy varázslatosan csendes hely.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett sikátorok",
+            "tip": "Tévedjen el a szűk, autómentes sikátorokban egy csendes pillanatért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Karmelita templom",
+            "tip": "A béke oázisa a fő turistaútvonaltól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Bastionului seara",
+            "tip": "După plecarea turiștilor de o zi, acesta este un loc magic și liniștit.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțe ascunse",
+            "tip": "Pierdeți-vă pe străduțele înguste, fără mașini, pentru un moment de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Carmeliților",
+            "tip": "O oază de pace, departe de traseul turistic principal.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bastion Square in the evening",
+            "tip": "After the day-trippers have left, this is a magical place of tranquility.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden Alleys",
+            "tip": "Get lost in the narrow, car-free alleys for a moment of silence.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Carmelite Church",
+            "tip": "An oasis of peace away from the main tourist route.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mdina Glass",
+            "tip": "Kaufen Sie einzigartige, handgefertigte Glaswaren, ein berühmtes maltesisches Handwerk."
+          },
+          {
+            "name": "Ritter-Souvenirs",
+            "tip": "Kleine Statuetten und Andenken an die Ritter von Malta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mdina Glass",
+            "tip": "Vásároljon egyedi, kézzel készített üvegárut, egy híres máltai mesterséget."
+          },
+          {
+            "name": "Lovagi szuvenírek",
+            "tip": "Kis szobrok és emléktárgyak a Máltai lovagokról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mdina Glass",
+            "tip": "Cumpărați articole unice din sticlă lucrată manual, un meșteșug faimos maltez."
+          },
+          {
+            "name": "Suveniruri cu cavaleri",
+            "tip": "Statuete mici și amintiri cu Cavalerii de Malta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mdina Glass",
+            "tip": "Shop for unique, handmade glassware, a famous Maltese craft."
+          },
+          {
+            "name": "Knight Souvenirs",
+            "tip": "Small statuettes and memorabilia related to the Knights of Malta."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad sicher außerhalb der Mauern ab.",
+          "Die Straßen in der Umgebung von Mdina können hügelig sein.",
+          "Kombinieren Sie die Radtour mit einem Besuch der nahe gelegenen Stadt Rabat."
+        ],
+        "hu": [
+          "Zárja le biztonságosan a kerékpárt a falakon kívül.",
+          "Mdina környékén az utak dombosak lehetnek.",
+          "Kombinálja a kerékpártúrát a közeli Rabat városának meglátogatásával."
+        ],
+        "ro": [
+          "Asigurați-vă bicicleta în afara zidurilor.",
+          "Drumurile din jurul Mdinei pot fi deluroase.",
+          "Combinați turul cu bicicleta cu o vizită în orașul Rabat din apropiere."
+        ],
+        "en": [
+          "Lock your bike securely outside the walls.",
+          "The roads around Mdina can be hilly.",
+          "Combine the bike tour with a visit to the nearby town of Rabat."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Parken",
+            "hu": "Érkezés és parkolás",
+            "ro": "Sosire și parcare",
+            "en": "Arrival & Parking"
+          },
+          "coords": [
+            14.4024,
+            35.8841
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Parkplatz außerhalb des Haupttors. Im Inneren sind Autos nicht erlaubt.",
+            "hu": "Parkoljon a főkapun kívüli nagy parkolóban. Bent nem engedélyezettek az autók.",
+            "ro": "Parcați în parcarea mare din afara porții principale. Mașinile nu sunt permise în interior.",
+            "en": "Park in the large car park outside the main gate. Cars are not allowed inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Vilhena-Palast",
+            "hu": "Vilhena palota",
+            "ro": "Palatul Vilhena",
+            "en": "Vilhena Palace"
+          },
+          "coords": [
+            14.4036,
+            35.8853
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie vom Parkplatz zum Tor und dann direkt zum Palast.",
+            "hu": "Sétáljon a parkolóból a kapuhoz, majd egyenesen a palotához.",
+            "ro": "Mergeți pe jos de la parcare la poartă și apoi direct la palat.",
+            "en": "Walk from the car park to the gate and then straight to the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Paul's Kathedrale",
+            "hu": "Szent Pál-katedrális",
+            "ro": "Catedrala Sf. Paul",
+            "en": "St. Paul's Cathedral"
+          },
+          "coords": [
+            14.4041,
+            35.8865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Kathedrale ist das Herz der Stadt, nur wenige Gehminuten entfernt.",
+            "hu": "A katedrális a város szíve, csak néhány perc sétára.",
+            "ro": "Catedrala este inima orașului, la doar câteva minute de mers pe jos.",
+            "en": "The cathedral is the heart of the city, just a few minutes' walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Metropolitan-Kathedralmuseum",
+            "hu": "Főszékesegyházi Múzeum",
+            "ro": "Muzeul Catedralei Metropolitane",
+            "en": "Metropolitan Cathedral Museum"
+          },
+          "coords": [
+            14.4044,
+            35.8868
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben der Kathedrale gelegen, sehr praktisch.",
+            "hu": "Közvetlenül a katedrális mellett található, nagyon kényelmes.",
+            "ro": "Situat chiar lângă catedrală, foarte convenabil.",
+            "en": "Located right next to the cathedral, very convenient."
+          }
+        },
+        {
+          "name": {
+            "de": "Karmeliterkirche",
+            "hu": "Karmelita templom",
+            "ro": "Biserica Carmeliților",
+            "en": "Carmelite Church"
+          },
+          "coords": [
+            14.4025,
+            35.8859
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Gassen führt zu dieser ruhigen Kirche.",
+            "hu": "Egy rövid séta a sikátorokon keresztül vezet ehhez a csendes templomhoz.",
+            "ro": "O scurtă plimbare pe străduțe duce la această biserică liniștită.",
+            "en": "A short walk through the alleys leads to this peaceful church."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion Square",
+            "hu": "Bástya tér",
+            "ro": "Piața Bastionului",
+            "en": "Bastion Square"
+          },
+          "coords": [
+            14.4022,
+            35.8867
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Rundgang hier, bevor Sie zum Parkplatz zurückkehren.",
+            "hu": "Itt fejezze be a körsétát, mielőtt visszatér a parkolóba.",
+            "ro": "Încheiați turul aici înainte de a vă întoarce la parcare.",
+            "en": "End your walking tour here before heading back to the car park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie nach Mdina und parken Sie Ihr Auto außerhalb. Der Rest des Tages ist eine Fußerkundung der 'Stillen Stadt'. Der Vormittag führt Sie zu historischen Palästen und der Hauptkathedrale. Nach einem entspannten Mittagessen erkunden Sie die ruhigeren Ecken der Stadt. Der Höhepunkt des Nachmittags ist die spektakuläre Aussicht vom Bastion Square, ein perfekter Abschluss, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Vezessen Mdinába, és parkolja le az autóját a falakon kívül. A nap további része a 'Csendes Város' gyalogos felfedezése. A délelőtt a történelmi palotákhoz és a főkatedrálishoz vezet. Egy pihentető ebéd után fedezze fel a város csendesebb zugait. A délután csúcspontja a Bástya térről nyíló látványos kilátás, tökéletes befejezés, mielőtt visszatérne az autójához.",
+        "ro": "Conduceți la Mdina și parcați mașina afară. Restul zilei este o explorare pe jos a 'Orașului Tăcut'. Dimineața vă duce la palatele istorice și la catedrala principală. După un prânz relaxant, explorați colțurile mai liniștite ale orașului. Punctul culminant al după-amiezii este vederea spectaculoasă din Piața Bastionului, un final perfect înainte de a vă întoarce la mașină.",
+        "en": "Drive to Mdina and park your car outside. The rest of the day is a walking exploration of the 'Silent City'. The morning takes you to historic palaces and the main cathedral. After a relaxing lunch, explore the quieter corners of the city. The afternoon's highlight is the spectacular view from Bastion Square, a perfect conclusion before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastizzi",
+            "tip": "Probieren Sie diese Blätterteigpasteten mit Ricotta- oder Erbsenfüllung. Ein lokaler Snack."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "Ein traditioneller Kanincheneintopf, oft mit der Familie geteilt."
+          },
+          {
+            "name": "Fontanella Tea Garden",
+            "tip": "Berühmt für seine Kuchen und die unglaubliche Aussicht von den Bastionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastizzi",
+            "tip": "Kóstolja meg ezt a leveles tésztát ricottás vagy borsós töltelékkel. Helyi harapnivaló."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "Hagyományos nyúlpörkölt, amelyet gyakran családi körben fogyasztanak."
+          },
+          {
+            "name": "Fontanella Tea Garden",
+            "tip": "Híres süteményeiről és a bástyákról nyíló hihetetlen kilátásról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastizzi",
+            "tip": "Încercați aceste produse de patiserie cu umplutură de ricotta sau mazăre. O gustare locală."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "O tocană tradițională de iepure, adesea împărțită cu familia."
+          },
+          {
+            "name": "Fontanella Tea Garden",
+            "tip": "Faimoasă pentru prăjiturile sale și vederea incredibilă de pe bastioane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastizzi",
+            "tip": "Try these flaky pastries with a ricotta or pea filling. A local snack."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "A traditional rabbit stew, often shared with family."
+          },
+          {
+            "name": "Fontanella Tea Garden",
+            "tip": "Famous for its cakes and the incredible view from the bastions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bastion Square am Abend",
+            "tip": "Nachdem die Tagesausflügler weg sind, ist dies ein magischer Ort der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Gassen",
+            "tip": "Verirren Sie sich in den engen, autofreien Gassen für einen Moment der Stille.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Karmeliterkirche",
+            "tip": "Eine Oase der Ruhe abseits der Haupttouristenroute.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bástya tér este",
+            "tip": "Miután a napközbeni turisták elmentek, ez egy varázslatosan csendes hely.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett sikátorok",
+            "tip": "Tévedjen el a szűk, autómentes sikátorokban egy csendes pillanatért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Karmelita templom",
+            "tip": "A béke oázisa a fő turistaútvonaltól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Bastionului seara",
+            "tip": "După plecarea turiștilor de o zi, acesta este un loc magic și liniștit.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțe ascunse",
+            "tip": "Pierdeți-vă pe străduțele înguste, fără mașini, pentru un moment de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Carmeliților",
+            "tip": "O oază de pace, departe de traseul turistic principal.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bastion Square in the evening",
+            "tip": "After the day-trippers have left, this is a magical place of tranquility.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden Alleys",
+            "tip": "Get lost in the narrow, car-free alleys for a moment of silence.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Carmelite Church",
+            "tip": "An oasis of peace away from the main tourist route.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mdina Glass",
+            "tip": "Kaufen Sie einzigartige, handgefertigte Glaswaren, ein berühmtes maltesisches Handwerk."
+          },
+          {
+            "name": "Ritter-Souvenirs",
+            "tip": "Kleine Statuetten und Andenken an die Ritter von Malta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mdina Glass",
+            "tip": "Vásároljon egyedi, kézzel készített üvegárut, egy híres máltai mesterséget."
+          },
+          {
+            "name": "Lovagi szuvenírek",
+            "tip": "Kis szobrok és emléktárgyak a Máltai lovagokról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mdina Glass",
+            "tip": "Cumpărați articole unice din sticlă lucrată manual, un meșteșug faimos maltez."
+          },
+          {
+            "name": "Suveniruri cu cavaleri",
+            "tip": "Statuete mici și amintiri cu Cavalerii de Malta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mdina Glass",
+            "tip": "Shop for unique, handmade glassware, a famous Maltese craft."
+          },
+          {
+            "name": "Knight Souvenirs",
+            "tip": "Small statuettes and memorabilia related to the Knights of Malta."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplätze können in der Hochsaison schnell voll werden, kommen Sie früh.",
+          "Vergessen Sie nicht, wo Sie geparkt haben!",
+          "Kombinieren Sie den Besuch mit den Dingli-Klippen, die nur eine kurze Autofahrt entfernt sind."
+        ],
+        "hu": [
+          "A parkolók főszezonban gyorsan megtelnek, érkezzen korán.",
+          "Ne felejtse el, hol parkolt!",
+          "Kombinálja a látogatást a Dingli-sziklákkal, amelyek csak egy rövid autóútra vannak."
+        ],
+        "ro": [
+          "Parcările se pot umple rapid în sezonul de vârf, veniți devreme.",
+          "Nu uitați unde ați parcat!",
+          "Combinați vizita cu Stâncile Dingli, aflate la o scurtă distanță cu mașina."
+        ],
+        "en": [
+          "Parking can fill up quickly in peak season, arrive early.",
+          "Don't forget where you parked!",
+          "Combine the visit with Dingli Cliffs, which are a short drive away."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft mit dem Bus",
+            "hu": "Érkezés busszal",
+            "ro": "Sosire cu autobuzul",
+            "en": "Arrival by Bus"
+          },
+          "coords": [
+            14.4022,
+            35.8842
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Bushaltestelle 'Mdina' befindet sich direkt vor dem Haupttor.",
+            "hu": "Az 'Mdina' buszmegálló közvetlenül a főkapu előtt található.",
+            "ro": "Stația de autobuz 'Mdina' este chiar în fața porții principale.",
+            "en": "The 'Mdina' bus stop is located right outside the main gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Vilhena-Palast",
+            "hu": "Vilhena palota",
+            "ro": "Palatul Vilhena",
+            "en": "Vilhena Palace"
+          },
+          "coords": [
+            14.4036,
+            35.8853
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof ins Innere der Mauern.",
+            "hu": "Rövid séta a buszmegállótól a falakon belülre.",
+            "ro": "O scurtă plimbare de la stația de autobuz în interiorul zidurilor.",
+            "en": "A short walk from the bus stop to inside the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Paul's Kathedrale",
+            "hu": "Szent Pál-katedrális",
+            "ro": "Catedrala Sf. Paul",
+            "en": "St. Paul's Cathedral"
+          },
+          "coords": [
+            14.4041,
+            35.8865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie den Schildern zur Kathedrale im Zentrum der Stadt.",
+            "hu": "Kövesse a táblákat a katedrálishoz a város központjában.",
+            "ro": "Urmați indicatoarele către catedrală în centrul orașului.",
+            "en": "Follow the signs to the cathedral in the center of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Metropolitan-Kathedralmuseum",
+            "hu": "Főszékesegyházi Múzeum",
+            "ro": "Muzeul Catedralei Metropolitane",
+            "en": "Metropolitan Cathedral Museum"
+          },
+          "coords": [
+            14.4044,
+            35.8868
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie Ihren Besuch mit der Kathedrale, da sie direkt nebeneinander liegen.",
+            "hu": "Kombinálja a látogatást a katedrálissal, mivel közvetlenül egymás mellett vannak.",
+            "ro": "Combinați vizita cu cea a catedralei, deoarece sunt chiar una lângă alta.",
+            "en": "Combine your visit with the cathedral as they are right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Karmeliterkirche",
+            "hu": "Karmelita templom",
+            "ro": "Biserica Carmeliților",
+            "en": "Carmelite Church"
+          },
+          "coords": [
+            14.4025,
+            35.8859
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang, um nach dem Mittagessen die Beine zu vertreten.",
+            "hu": "Kellemes séta ebéd után, hogy megmozgassa a lábait.",
+            "ro": "O plimbare plăcută pentru a vă dezmorți picioarele după prânz.",
+            "en": "A nice walk to stretch your legs after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion Square",
+            "hu": "Bástya tér",
+            "ro": "Piața Bastionului",
+            "en": "Bastion Square"
+          },
+          "coords": [
+            14.4022,
+            35.8867
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Warten Sie auf den Sonnenuntergang, bevor Sie den Bus zurück nehmen.",
+            "hu": "Várja meg a naplementét, mielőtt visszaindulna a busszal.",
+            "ro": "Așteptați apusul înainte de a lua autobuzul înapoi.",
+            "en": "Wait for the sunset before catching the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nehmen Sie einen Bus nach Mdina, der Sie direkt vor den Toren absetzt. Sobald Sie drinnen sind, ist alles zu Fuß erreichbar. Verbringen Sie den Vormittag damit, die reiche Geschichte der Stadt in ihren Palästen und der Kathedrale aufzusaugen. Genießen Sie ein Mittagessen in einem lokalen Restaurant, gefolgt von einem ruhigen Nachmittag, an dem Sie versteckte Kirchen entdecken und die Aussicht vom Bastion Square genießen, bevor Sie den Bus zurück nehmen.",
+        "hu": "Buszozzon el Mdinába, amely közvetlenül a kapuk előtt teszi le. Miután bejutott, minden sétatávolságra van. Töltse a délelőttöt a város gazdag történelmének megismerésével a palotákban és a katedrálisban. Ebédeljen egy helyi étteremben, majd töltsön egy csendes délutánt rejtett templomok felfedezésével és a Bástya térről nyíló kilátás élvezetével, mielőtt visszaindulna a busszal.",
+        "ro": "Luați un autobuz până la Mdina, care vă lasă chiar în fața porților. Odată intrat, totul este la distanță de mers pe jos. Petreceți dimineața absorbind istoria bogată a orașului în palatele și catedrala sa. Bucurați-vă de prânz la un restaurant local, urmat de o după-amiază liniștită explorând biserici ascunse și admirând vederea din Piața Bastionului înainte de a lua autobuzul înapoi.",
+        "en": "Take a bus to Mdina, which drops you right outside the gates. Once inside, everything is within walking distance. Spend the morning absorbing the city's rich history in its palaces and cathedral. Enjoy lunch at a local restaurant, followed by a quiet afternoon discovering hidden churches and enjoying the view from Bastion Square before catching the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastizzi",
+            "tip": "Probieren Sie diese Blätterteigpasteten mit Ricotta- oder Erbsenfüllung. Ein lokaler Snack."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "Ein traditioneller Kanincheneintopf, oft mit der Familie geteilt."
+          },
+          {
+            "name": "Fontanella Tea Garden",
+            "tip": "Berühmt für seine Kuchen und die unglaubliche Aussicht von den Bastionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastizzi",
+            "tip": "Kóstolja meg ezt a leveles tésztát ricottás vagy borsós töltelékkel. Helyi harapnivaló."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "Hagyományos nyúlpörkölt, amelyet gyakran családi körben fogyasztanak."
+          },
+          {
+            "name": "Fontanella Tea Garden",
+            "tip": "Híres süteményeiről és a bástyákról nyíló hihetetlen kilátásról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastizzi",
+            "tip": "Încercați aceste produse de patiserie cu umplutură de ricotta sau mazăre. O gustare locală."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "O tocană tradițională de iepure, adesea împărțită cu familia."
+          },
+          {
+            "name": "Fontanella Tea Garden",
+            "tip": "Faimoasă pentru prăjiturile sale și vederea incredibilă de pe bastioane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastizzi",
+            "tip": "Try these flaky pastries with a ricotta or pea filling. A local snack."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "A traditional rabbit stew, often shared with family."
+          },
+          {
+            "name": "Fontanella Tea Garden",
+            "tip": "Famous for its cakes and the incredible view from the bastions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bastion Square am Abend",
+            "tip": "Nachdem die Tagesausflügler weg sind, ist dies ein magischer Ort der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Gassen",
+            "tip": "Verirren Sie sich in den engen, autofreien Gassen für einen Moment der Stille.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Karmeliterkirche",
+            "tip": "Eine Oase der Ruhe abseits der Haupttouristenroute.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bástya tér este",
+            "tip": "Miután a napközbeni turisták elmentek, ez egy varázslatosan csendes hely.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett sikátorok",
+            "tip": "Tévedjen el a szűk, autómentes sikátorokban egy csendes pillanatért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Karmelita templom",
+            "tip": "A béke oázisa a fő turistaútvonaltól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Bastionului seara",
+            "tip": "După plecarea turiștilor de o zi, acesta este un loc magic și liniștit.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțe ascunse",
+            "tip": "Pierdeți-vă pe străduțele înguste, fără mașini, pentru un moment de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Carmeliților",
+            "tip": "O oază de pace, departe de traseul turistic principal.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bastion Square in the evening",
+            "tip": "After the day-trippers have left, this is a magical place of tranquility.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden Alleys",
+            "tip": "Get lost in the narrow, car-free alleys for a moment of silence.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Carmelite Church",
+            "tip": "An oasis of peace away from the main tourist route.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mdina Glass",
+            "tip": "Kaufen Sie einzigartige, handgefertigte Glaswaren, ein berühmtes maltesisches Handwerk."
+          },
+          {
+            "name": "Ritter-Souvenirs",
+            "tip": "Kleine Statuetten und Andenken an die Ritter von Malta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mdina Glass",
+            "tip": "Vásároljon egyedi, kézzel készített üvegárut, egy híres máltai mesterséget."
+          },
+          {
+            "name": "Lovagi szuvenírek",
+            "tip": "Kis szobrok és emléktárgyak a Máltai lovagokról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mdina Glass",
+            "tip": "Cumpărați articole unice din sticlă lucrată manual, un meșteșug faimos maltez."
+          },
+          {
+            "name": "Suveniruri cu cavaleri",
+            "tip": "Statuete mici și amintiri cu Cavalerii de Malta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mdina Glass",
+            "tip": "Shop for unique, handmade glassware, a famous Maltese craft."
+          },
+          {
+            "name": "Knight Souvenirs",
+            "tip": "Small statuettes and memorabilia related to the Knights of Malta."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Tallinja Card' für günstigere Busfahrten.",
+          "Überprüfen Sie den Busfahrplan für Ihre Rückfahrt im Voraus.",
+          "Viele Buslinien von Valletta und anderen wichtigen Städten halten in Mdina."
+        ],
+        "hu": [
+          "Vásároljon 'Tallinja Card'-ot az olcsóbb buszozásért.",
+          "Ellenőrizze előre a busz menetrendjét a visszaúthoz.",
+          "Számos buszjárat megáll Mdinában Vallettából és más nagyobb városokból."
+        ],
+        "ro": [
+          "Cumpărați un card 'Tallinja' pentru călătorii mai ieftine cu autobuzul.",
+          "Verificați din timp orarul autobuzului pentru călătoria de întoarcere.",
+          "Multe rute de autobuz din Valletta și alte orașe importante opresc la Mdina."
+        ],
+        "en": [
+          "Buy a 'Tallinja Card' for cheaper bus fares.",
+          "Check the bus schedule for your return trip in advance.",
+          "Many bus routes from Valletta and other major towns stop at Mdina."
+        ]
+      }
+    }
+  }
+}

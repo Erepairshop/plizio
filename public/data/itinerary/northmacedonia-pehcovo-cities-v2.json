@@ -1,0 +1,1460 @@
+{
+  "city_id": "northmacedonia-pehcovo-cities-v2",
+  "anchor": {
+    "name": "Pehčevo",
+    "coords": [
+      22.8872,
+      41.7611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz Pehčevo",
+            "hu": "Pehcsevói városi tér",
+            "ro": "Piața orașului Pehcevo",
+            "en": "Pehčevo Town Square"
+          },
+          "coords": [
+            22.8875,
+            41.7615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das lokale Leben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a helyi életet.",
+            "ro": "Începeți ziua aici cu o cafea și observați viața locală.",
+            "en": "Start your day here with a coffee and watch the local life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Peter und Paul",
+            "hu": "Szent Péter és Pál templom",
+            "ro": "Biserica Sf. Petru și Pavel",
+            "en": "Church of St. Peter and Paul"
+          },
+          "coords": [
+            22.888,
+            41.76
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Ikonostase und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a lenyűgöző ikonosztázt és a békés légkört.",
+            "ro": "Fiți atenți la iconostasul impresionant și la atmosfera liniștită.",
+            "en": "Pay attention to the impressive iconostasis and the serene atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Pehčevo",
+            "hu": "Pehcsevói Múzeum",
+            "ro": "Muzeul din Pehcevo",
+            "en": "Museum of Pehčevo"
+          },
+          "coords": [
+            22.8865,
+            41.762
+          ],
+          "category": "museums",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Region Maleševo.",
+            "hu": "Ismerje meg a Maleševo régió gazdag történelmét.",
+            "ro": "Descoperiți istoria bogată a regiunii Maleševo.",
+            "en": "Discover the rich history of the Maleševo region."
+          }
+        },
+        {
+          "name": {
+            "de": "Erholungsgebiet Ravna Reka",
+            "hu": "Ravna Reka üdülőterület",
+            "ro": "Zona de agrement Ravna Reka",
+            "en": "Ravna Reka Recreational Area"
+          },
+          "coords": [
+            22.875,
+            41.769
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick am Mittag inmitten der Natur.",
+            "hu": "Ideális hely egy déli piknikhez a természet közepén.",
+            "ro": "Un loc ideal pentru un picnic la prânz în mijlocul naturii.",
+            "en": "An ideal spot for a midday picnic surrounded by nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Pehčevo-Wasserfälle",
+            "hu": "Pehcsevói-vízesések",
+            "ro": "Cascadele Pehcevo",
+            "en": "Pehčevo Waterfalls"
+          },
+          "coords": [
+            22.865,
+            41.775
+          ],
+          "category": "natural features",
+          "arrive_at": "14:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie dem Pfad, um die Hauptkaskade zu erreichen. Festes Schuhwerk wird empfohlen.",
+            "hu": "Kövesse az ösvényt a fő vízesés eléréséhez. Erős cipő ajánlott.",
+            "ro": "Urmați poteca pentru a ajunge la cascada principală. Se recomandă încălțăminte rezistentă.",
+            "en": "Follow the path to reach the main cascade. Sturdy footwear is recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Stadtzentrum zum Abendessen",
+            "hu": "Visszatérés a városközpontba vacsorára",
+            "ro": "Întoarcere în centrul orașului pentru cină",
+            "en": "Return to the city center for dinner"
+          },
+          "coords": [
+            22.887,
+            41.761
+          ],
+          "category": "gastro",
+          "arrive_at": "16:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Belohnen Sie sich nach einem langen Spaziergang mit einer herzhaften lokalen Mahlzeit.",
+            "hu": "Jutalmazza meg magát egy kiadós helyi étellel a hosszú séta után.",
+            "ro": "Recompensați-vă cu o masă locală copioasă după o plimbare lungă.",
+            "en": "Reward yourself with a hearty local meal after a long walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Pehčevo beginnt gemütlich am Stadtplatz, dem Herzen der Kleinstadt. Nach dem Eintauchen in die lokale Kultur in der St. Peter und Paul Kirche und dem Museum, führt Sie ein belebender Spaziergang in die Natur. Am Mittag genießen Sie die Ruhe im Erholungsgebiet Ravna Reka. Der Nachmittag ist der Entdeckung der malerischen Pehčevo-Wasserfälle gewidmet, ein echtes Naturhighlight der Region. Zum Abend kehren Sie mit vielen Eindrücken ins Zentrum zurück und lassen den Tag bei einem traditionellen mazedonischen Abendessen ausklingen.",
+        "hu": "A nap Pehcsóban a kisváros szívében, a főtéren kezdődik. Miután elmerült a helyi kultúrában a Szent Péter és Pál templomban és a múzeumban, egy élénkítő séta vezet a természetbe. Délben élvezze a Ravna Reka üdülőterület nyugalmát. A délután a festői Pehcsevói-vízesések felfedezésével telik, a régió igazi természeti csodájával. Este sok élménnyel tér vissza a központba, és egy hagyományos macedón vacsorával zárja a napot.",
+        "ro": "Ziua dvs. în Pehcevo începe pe îndelete în piața orașului, inima micului oraș. După ce v-ați cufundat în cultura locală la Biserica Sf. Petru și Pavel și la muzeu, o plimbare revigorantă vă va duce în natură. La prânz, bucurați-vă de liniștea din zona de agrement Ravna Reka. După-amiaza este dedicată descoperirii pitoreștilor Cascade Pehcevo, un adevărat punct de atracție natural al regiunii. Seara, vă întoarceți în centru plini de impresii și încheiați ziua cu o cină tradițională macedoneană.",
+        "en": "Your day in Pehčevo begins leisurely at the town square, the heart of the small town. After immersing yourself in local culture at the St. Peter and Paul Church and the museum, a refreshing walk takes you into nature. At noon, you'll enjoy the tranquility of the Ravna Reka recreational area. The afternoon is dedicated to discovering the picturesque Pehčevo Waterfalls, a true natural highlight of the region. In the evening, you return to the center full of impressions and end the day with a traditional Macedonian dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavče Gravče",
+            "tip": "Ein traditioneller Bohneneintopf, oft mit Wurst serviert. Ein Muss in Mazedonien."
+          },
+          {
+            "name": "Maleševsko sirenje",
+            "tip": "Probieren Sie den berühmten lokalen Weißkäse, der in der gesamten Region bekannt ist."
+          },
+          {
+            "name": "Gostilnica Kaj i da e",
+            "tip": "Ein lokales Restaurant, das für seine authentische Hausmannskost bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavče Gravče",
+            "tip": "Hagyományos babragu, gyakran kolbásszal tálalva. Macedóniában kötelező."
+          },
+          {
+            "name": "Maleševsko sirenje",
+            "tip": "Kóstolja meg a híres helyi fehér sajtot, amely az egész régióban ismert."
+          },
+          {
+            "name": "Gostilnica Kaj i da e",
+            "tip": "Helyi étterem, amely autentikus házias ételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavče Gravče",
+            "tip": "O tocană tradițională de fasole, adesea servită cu cârnați. O necesitate în Macedonia."
+          },
+          {
+            "name": "Maleševsko sirenje",
+            "tip": "Încercați celebra brânză albă locală, renumită în întreaga regiune."
+          },
+          {
+            "name": "Gostilnica Kaj i da e",
+            "tip": "Un restaurant local cunoscut pentru mâncarea sa autentică, gătită în casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavče Gravče",
+            "tip": "A traditional bean stew, often served with sausage. A must-try in Macedonia."
+          },
+          {
+            "name": "Maleševsko sirenje",
+            "tip": "Try the famous local white cheese, renowned throughout the region."
+          },
+          {
+            "name": "Gostilnica Kaj i da e",
+            "tip": "A local restaurant known for its authentic, home-cooked meals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Pehčevo-Flusses",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer für eine friedliche Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naturreservat Yudovi Livadi",
+            "tip": "Ein etwas längerer Spaziergang, aber die unberührte Natur ist es wert.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Hügel hinter der Kirche",
+            "tip": "Ein kurzer Aufstieg für einen Panoramablick über die Stadt und die umliegenden Berge.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pehcsevói-folyó partja",
+            "tip": "Keressen egy csendes padot a folyóparton egy békés pihenőhöz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Yudovi Livadi Természetvédelmi Terület",
+            "tip": "Kicsit hosszabb séta, de az érintetlen természet megéri.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a templom mögötti dombról",
+            "tip": "Rövid emelkedő a városra és a környező hegyekre nyíló panorámáért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Pehcevo",
+            "tip": "Găsiți o bancă liniștită pe malul râului pentru o pauză pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rezervația Naturală Yudovi Livadi",
+            "tip": "O plimbare puțin mai lungă, dar natura neatinsă merită efortul.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe dealul din spatele bisericii",
+            "tip": "O urcare scurtă pentru o vedere panoramică asupra orașului și a munților din jur.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Pehčevo River",
+            "tip": "Find a quiet bench on the riverbank for a peaceful break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Yudovi Livadi Nature Reserve",
+            "tip": "A bit of a longer walk, but the pristine nature is worth it.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the hill behind the church",
+            "tip": "A short climb for a panoramic view over the town and surrounding mountains.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, lokalen Honig und handgemachten Käse."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgeschnitzten Holzgegenständen, einem traditionellen Handwerk der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, helyi mézet és kézműves sajtot."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel faragott fatárgyakat, a régió hagyományos mesterségét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, miere locală și brânză artizanală."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați obiecte din lemn sculptate manual, o ambarcațiune tradițională a regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce, local honey, and handmade cheese."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Look for hand-carved wooden items, a traditional craft of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe, da Sie viel zu Fuß unterwegs sein werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt mehrere Brunnen, um sie aufzufüllen.",
+          "Die Wanderwege zu den Wasserfällen können rutschig sein, seien Sie also vorsichtig.",
+          "Die Einheimischen sind freundlich, aber es ist immer höflich, ein paar Worte Mazedonisch zu lernen."
+        ],
+        "hu": [
+          "Viseljen kényelmes túracipőt, mivel sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot; több kút is van a feltöltéséhez.",
+          "A vízesésekhez vezető ösvények csúszósak lehetnek, ezért legyen óvatos.",
+          "A helyiek barátságosak, de mindig udvarias dolog megtanulni néhány macedón szót."
+        ],
+        "ro": [
+          "Purtați pantofi de mers confortabili, deoarece veți merge mult pe jos.",
+          "Luați o sticlă de apă reutilizabilă; există mai multe fântâni pentru a o reumple.",
+          "Traseele către cascade pot fi alunecoase, așa că fiți precauți.",
+          "Localnicii sunt prietenoși, dar este întotdeauna politicos să învățați câteva cuvinte în macedoneană."
+        ],
+        "en": [
+          "Wear comfortable walking shoes as you will be covering a lot of ground on foot.",
+          "Bring a reusable water bottle; there are several fountains to refill it.",
+          "The paths to the waterfalls can be slippery, so be cautious.",
+          "Locals are friendly, but learning a few words of Macedonian is always polite."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz Pehčevo",
+            "hu": "Pehcsevói városi tér",
+            "ro": "Piața orașului Pehcevo",
+            "en": "Pehčevo Town Square"
+          },
+          "coords": [
+            22.8875,
+            41.7615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Fahrrad und genießen Sie einen Morgenkaffee, bevor Sie losfahren.",
+            "hu": "Vegye át a kerékpárt, és igyon egy reggeli kávét, mielőtt elindul.",
+            "ro": "Luați-vă bicicleta și savurați o cafea de dimineață înainte de a porni la drum.",
+            "en": "Grab your bike and enjoy a morning coffee before setting off."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Pehčevo",
+            "hu": "Pehcsevói Múzeum",
+            "ro": "Muzeul din Pehcevo",
+            "en": "Museum of Pehčevo"
+          },
+          "coords": [
+            22.8865,
+            41.762
+          ],
+          "category": "museums",
+          "arrive_at": "09:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad draußen und tauchen Sie in die lokale Geschichte ein.",
+            "hu": "Parkolja le a kerékpárt odakint, és merüljön el a helyi történelemben.",
+            "ro": "Parcați-vă bicicleta afară și pătrundeți în istoria locală.",
+            "en": "Park your bike outside and dive into the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Erholungsgebiet Ravna Reka",
+            "hu": "Ravna Reka üdülőterület",
+            "ro": "Zona de agrement Ravna Reka",
+            "en": "Ravna Reka Recreational Area"
+          },
+          "coords": [
+            22.875,
+            41.769
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour führt Sie in dieses grüne Tal.",
+            "hu": "Egy kellemes kerékpártúra vezet ebbe a zöld völgybe.",
+            "ro": "O plimbare plăcută cu bicicleta vă va duce în această vale verde.",
+            "en": "A pleasant bike ride will take you to this green valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Pehčevo-Wasserfälle",
+            "hu": "Pehcsevói-vízesések",
+            "ro": "Cascadele Pehcevo",
+            "en": "Pehčevo Waterfalls"
+          },
+          "coords": [
+            22.865,
+            41.775
+          ],
+          "category": "natural features",
+          "arrive_at": "11:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und machen Sie eine kurze Wanderung zu den Wasserfällen.",
+            "hu": "Zárja le a kerékpárt, és tegyen egy rövid túrát a vízesésekhez.",
+            "ro": "Legați-vă bicicleta și faceți o scurtă drumeție până la cascade.",
+            "en": "Lock up your bike and take a short hike to the falls."
+          }
+        },
+        {
+          "name": {
+            "de": "Spikovski-Wasserfall",
+            "hu": "Spikovski-vízesés",
+            "ro": "Cascada Spikovski",
+            "en": "Spikovski Waterfall"
+          },
+          "coords": [
+            22.85,
+            41.74
+          ],
+          "category": "natural features",
+          "arrive_at": "13:18",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel, das eine etwas anspruchsvollere Fahrt erfordert.",
+            "hu": "Egy rejtett gyöngyszem, amely egy kicsit nagyobb kihívást jelentő utat igényel.",
+            "ro": "O bijuterie ascunsă care necesită o plimbare ceva mai solicitantă.",
+            "en": "A hidden gem that requires a slightly more challenging ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Peter und Paul",
+            "hu": "Szent Péter és Pál templom",
+            "ro": "Biserica Sf. Petru și Pavel",
+            "en": "Church of St. Peter and Paul"
+          },
+          "coords": [
+            22.888,
+            41.76
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen spirituellen Ort am Nachmittag für eine ruhige Reflexion.",
+            "hu": "Látogasson el délután ebbe a spirituális helyre egy csendes elmélkedésre.",
+            "ro": "Vizitați acest loc spiritual după-amiaza pentru o reflecție liniștită.",
+            "en": "Visit this spiritual place in the afternoon for some quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Zentrum",
+            "hu": "Vacsora a központban",
+            "ro": "Cină în centru",
+            "en": "Dinner in the center"
+          },
+          "coords": [
+            22.887,
+            41.761
+          ],
+          "category": "gastro",
+          "arrive_at": "16:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie ein wohlverdientes Abendessen.",
+            "hu": "Tegye le a kerékpárt, és élvezze a jól megérdemelt vacsorát.",
+            "ro": "Parcați-vă bicicleta și bucurați-vă de o cină binemeritată.",
+            "en": "Park your bike and enjoy a well-deserved dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel für einen aktiven Tag rund um Pehčevo. Der Morgen beginnt mit einer kurzen Stadtrundfahrt, die Sie zum Museum führt. Von dort aus radeln Sie ins grüne Ravna Reka-Tal, ein perfekter Ort für eine kurze Pause. Der Höhepunkt des Vormittags ist die Fahrt zu den beeindruckenden Pehčevo-Wasserfällen und dem versteckten Spikovski-Wasserfall. Nach dem Mittagessen erkunden Sie auf dem Rückweg die St. Peter und Paul Kirche. Der Abend gehört der Entspannung und den kulinarischen Genüssen, die Sie sich nach dieser sportlichen Tour redlich verdient haben.",
+        "hu": "Pattanjon nyeregbe egy aktív napért Pehcsó környékén. A reggel egy rövid városnézéssel kezdődik, amely elvezeti a múzeumhoz. Onnan a zöld Ravna Reka-völgybe kerékpározik, amely tökéletes hely egy rövid pihenőre. A délelőtt csúcspontja a lenyűgöző Pehcsevói-vízesésekhez és a rejtett Spikovski-vízeséshez vezető út. Ebéd után, visszafelé fedezze fel a Szent Péter és Pál templomot. Az este a pihenésé és a kulináris élvezeteké, amelyeket a sportos túra után megérdemelt.",
+        "ro": "Urcați-vă în șa pentru o zi activă în jurul orașului Pehcevo. Dimineața începe cu un scurt tur al orașului care vă duce la muzeu. De acolo, pedalați spre valea verde Ravna Reka, un loc perfect pentru o scurtă pauză. Punctul culminant al dimineții este plimbarea cu bicicleta către impresionantele cascade Pehcevo și cascada ascunsă Spikovski. După prânz, explorați Biserica Sf. Petru și Pavel pe drumul de întoarcere. Seara este dedicată relaxării și deliciilor culinare pe care le-ați câștigat pe bună dreptate după acest tur sportiv.",
+        "en": "Get on your bike for an active day around Pehčevo. The morning starts with a short city tour that takes you to the museum. From there, you'll cycle into the green Ravna Reka valley, a perfect spot for a short break. The highlight of the morning is the ride to the impressive Pehčevo Waterfalls and the hidden Spikovski Waterfall. After lunch, explore the St. Peter and Paul Church on your way back. The evening is for relaxation and culinary delights, well-earned after this sporty tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastrmajlija",
+            "tip": "Eine Art mazedonische Pizza, oft mit Fleisch belegt. Perfekt, um die Energiereserven aufzufüllen."
+          },
+          {
+            "name": "Lokales Craft-Bier",
+            "tip": "Fragen Sie in den Bars nach Bieren von kleinen mazedonischen Brauereien."
+          },
+          {
+            "name": "Gegrilltes Gemüse",
+            "tip": "Frisches, lokal angebautes Gemüse, einfach gegrillt, ist köstlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastrmajlija",
+            "tip": "Egyfajta macedón pizza, gyakran hússal feltéve. Tökéletes az energiatartalékok feltöltésére."
+          },
+          {
+            "name": "Helyi kézműves sör",
+            "tip": "Kérdezzen a bárokban a kis macedón sörfőzdék söreiről."
+          },
+          {
+            "name": "Grillezett zöldségek",
+            "tip": "A friss, helyben termesztett, egyszerűen grillezett zöldségek finomak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastrmajlija",
+            "tip": "Un fel de pizza macedoneană, adesea cu carne. Perfectă pentru a vă reface rezervele de energie."
+          },
+          {
+            "name": "Berea artizanală locală",
+            "tip": "Întrebați în baruri despre berile de la micile fabrici de bere macedonene."
+          },
+          {
+            "name": "Legume la grătar",
+            "tip": "Legumele proaspete, cultivate local, pur și simplu la grătar, sunt delicioase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastrmajlija",
+            "tip": "A type of Macedonian pizza, often topped with meat. Perfect for refueling."
+          },
+          {
+            "name": "Local Craft Beer",
+            "tip": "Ask in bars for beers from small Macedonian breweries."
+          },
+          {
+            "name": "Grilled Vegetables",
+            "tip": "Fresh, locally grown vegetables, simply grilled, are delicious."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Naturreservat Yudovi Livadi",
+            "tip": "Eine längere Radtour für diejenigen, die absolute Stille suchen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Picknickplatz bei den Wasserfällen",
+            "tip": "Ein großartiger Ort, um dem Rauschen des Wassers zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang über dem Maleševo-Gebirge",
+            "tip": "Finden Sie einen Aussichtspunkt und beobachten Sie, wie die Sonne hinter den Gipfeln verschwindet.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Yudovi Livadi Természetvédelmi Terület",
+            "tip": "Hosszabb kerékpártúra azoknak, akik abszolút csendre vágynak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Piknikezőhely a vízeséseknél",
+            "tip": "Nagyszerű hely a víz csobogásának hallgatására.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a Maleševo-hegység felett",
+            "tip": "Keressen egy kilátópontot, és nézze, ahogy a nap eltűnik a csúcsok mögött.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Naturală Yudovi Livadi",
+            "tip": "O plimbare mai lungă cu bicicleta pentru cei care caută liniște absolută.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Loc de picnic lângă cascade",
+            "tip": "Un loc minunat pentru a asculta sunetul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare peste Munții Maleševo",
+            "tip": "Găsiți un punct de belvedere și priviți soarele apunând după vârfuri.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Yudovi Livadi Nature Reserve",
+            "tip": "A longer bike ride for those seeking absolute silence.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Picnic spot by the waterfalls",
+            "tip": "A great place to listen to the sound of rushing water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset over the Maleševo Mountains",
+            "tip": "Find a viewpoint and watch the sun set behind the peaks.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Imker",
+            "tip": "Kaufen Sie den berühmten Maleševo-Honig direkt vom Erzeuger."
+          },
+          {
+            "name": "Souvenirladen im Museum",
+            "tip": "Kleine Andenken und Bücher über die Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méhész",
+            "tip": "Vásároljon a híres Maleševo mézből közvetlenül a termelőtől."
+          },
+          {
+            "name": "Ajándékbolt a múzeumban",
+            "tip": "Kis ajándéktárgyak és könyvek a régióról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apicultor local",
+            "tip": "Cumpărați faimoasa miere de Maleševo direct de la producător."
+          },
+          {
+            "name": "Magazin de suveniruri la muzeu",
+            "tip": "Mici suveniruri și cărți despre regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Beekeeper",
+            "tip": "Buy the famous Maleševo honey directly from the producer."
+          },
+          {
+            "name": "Museum Gift Shop",
+            "tip": "Small souvenirs and books about the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck und die Bremsen, bevor Sie losfahren.",
+          "Einige Wege können steil sein, seien Sie also auf Steigungen vorbereitet.",
+          "Nehmen Sie genügend Wasser und einige Snacks für unterwegs mit.",
+          "Ein Helm wird dringend empfohlen, besonders auf den Landstraßen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "Néhány út meredek lehet, ezért készüljön fel az emelkedőkre.",
+          "Vigyen magával elegendő vizet és néhány harapnivalót az útra.",
+          "Sisak viselése erősen ajánlott, különösen a vidéki utakon."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope și frânele înainte de a porni.",
+          "Unele poteci pot fi abrupte, așa că fiți pregătiți pentru urcușuri.",
+          "Luați suficientă apă și câteva gustări pentru drum.",
+          "O cască este puternic recomandată, mai ales pe drumurile de țară."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before you set off.",
+          "Some paths can be steep, so be prepared for climbs.",
+          "Take enough water and some snacks for the journey.",
+          "A helmet is highly recommended, especially on the country roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 38.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz im Zentrum (Cluster A)",
+            "hu": "Parkoló a központban (A Klaszter)",
+            "ro": "Parcare în centru (Cluster A)",
+            "en": "Parking in the Center (Cluster A)"
+          },
+          "coords": [
+            22.8872,
+            41.7605
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier Ihr Auto für den Vormittag und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkolja le itt az autóját délelőttre, és fedezze fel a központot gyalog.",
+            "ro": "Parcați-vă mașina aici pentru dimineață și explorați centrul pe jos.",
+            "en": "Park your car here for the morning and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtplatz Pehčevo",
+            "hu": "Pehcsevói városi tér",
+            "ro": "Piața orașului Pehcevo",
+            "en": "Pehčevo Town Square"
+          },
+          "coords": [
+            22.8875,
+            41.7615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Halt Ihres Spaziergangs durch das Stadtzentrum.",
+            "hu": "A városközponti séta első állomása.",
+            "ro": "Prima oprire a plimbării dvs. prin centrul orașului.",
+            "en": "The first stop on your walk through the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Peter und Paul",
+            "hu": "Szent Péter és Pál templom",
+            "ro": "Biserica Sf. Petru și Pavel",
+            "en": "Church of St. Peter and Paul"
+          },
+          "coords": [
+            22.888,
+            41.76
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid sétára a főtértől.",
+            "ro": "La doar o scurtă plimbare de piața principală.",
+            "en": "Just a short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Erholungsgebiet Ravna Reka (Cluster B)",
+            "hu": "Ravna Reka üdülőterület (B Klaszter)",
+            "ro": "Zona de agrement Ravna Reka (Cluster B)",
+            "en": "Ravna Reka Recreational Area (Cluster B)"
+          },
+          "coords": [
+            22.875,
+            41.769
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:50",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster und parken Sie in der Nähe des Eingangs des Erholungsgebiets.",
+            "hu": "Vezessen a következő klaszterhez, és parkoljon az üdülőterület bejáratának közelében.",
+            "ro": "Conduceți spre următorul cluster și parcați lângă intrarea în zona de agrement.",
+            "en": "Drive to the next cluster and park near the entrance of the recreational area."
+          }
+        },
+        {
+          "name": {
+            "de": "Pehčevo-Wasserfälle",
+            "hu": "Pehcsevói-vízesések",
+            "ro": "Cascadele Pehcevo",
+            "en": "Pehčevo Waterfalls"
+          },
+          "coords": [
+            22.865,
+            41.775
+          ],
+          "category": "natural features",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Parkplatz Ravna Reka aus.",
+            "hu": "Egy szép séta a Ravna Reka parkolójából.",
+            "ro": "O plimbare plăcută de la parcarea Ravna Reka.",
+            "en": "A beautiful walk from the Ravna Reka parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturreservat Yudovi Livadi (Cluster C)",
+            "hu": "Yudovi Livadi Természetvédelmi Terület (C Klaszter)",
+            "ro": "Rezervația Naturală Yudovi Livadi (Cluster C)",
+            "en": "Yudovi Livadi Nature Reserve (Cluster C)"
+          },
+          "coords": [
+            22.91,
+            41.78
+          ],
+          "category": "natural features",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 14.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie in die Berge für eine Nachmittagswanderung in diesem unberührten Reservat.",
+            "hu": "Autózzon a hegyekbe egy délutáni túrára ebben az érintetlen rezervátumban.",
+            "ro": "Conduceți spre munți pentru o drumeție de după-amiază în această rezervație neatinsă.",
+            "en": "Drive into the mountains for an afternoon hike in this pristine reserve."
+          }
+        },
+        {
+          "name": {
+            "de": "Gipfel Crn Kamen (Ausgangspunkt)",
+            "hu": "Crn Kamen csúcs (kiindulópont)",
+            "ro": "Vârful Crn Kamen (punct de plecare)",
+            "en": "Crn Kamen Peak (trailhead)"
+          },
+          "coords": [
+            22.935,
+            41.75
+          ],
+          "category": "natural features",
+          "arrive_at": "16:40",
+          "stay_min": 95,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 20.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Ausgangspunkt für einen atemberaubenden Blick auf den Sonnenuntergang.",
+            "hu": "Vezessen a kiindulóponthoz egy lélegzetelállító naplementéért.",
+            "ro": "Conduceți până la punctul de plecare pentru o vedere uluitoare la apus.",
+            "en": "Drive to the trailhead for a breathtaking sunset view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Pehčevo und seine atemberaubende Umgebung in Clustern. Der Vormittag gehört dem historischen Zentrum, das Sie bequem zu Fuß erkunden. Danach fahren Sie zum Ravna Reka-Cluster, wo Sie nach einem kurzen Spaziergang die erfrischenden Wasserfälle erreichen. Der Nachmittag ist ein Abenteuer in den Bergen: Sie fahren zum Yudovi Livadi Reservat für eine Wanderung und beenden den Tag mit einer Fahrt zum Ausgangspunkt des Crn Kamen Gipfels, um einen unvergesslichen Sonnenuntergang zu erleben. Dieser Tag kombiniert Stadtkultur mit tiefen Naturerlebnissen.",
+        "hu": "Autóval klaszterekben fedezheti fel Pehcsót és lenyűgöző környékét. A délelőtt a történelmi központé, amelyet kényelmesen, gyalogosan járhat be. Ezután a Ravna Reka-klaszterhez hajt, ahol egy rövid séta után eléri a frissítő vízeséseket. A délután egy hegyi kaland: elautózik a Yudovi Livadi rezervátumba egy túrára, és a napot a Crn Kamen csúcs kiindulópontjához vezető autózással zárja, hogy egy felejthetetlen naplementében gyönyörködhessen. Ez a nap a városi kultúrát mély természeti élményekkel ötvözi.",
+        "ro": "Cu mașina, veți explora Pehcevo și împrejurimile sale uimitoare în clustere. Dimineața este dedicată centrului istoric, pe care îl puteți explora confortabil pe jos. Apoi, conduceți spre clusterul Ravna Reka, unde, după o scurtă plimbare, ajungeți la cascadele răcoritoare. După-amiaza este o aventură în munți: conduceți spre Rezervația Yudovi Livadi pentru o drumeție și încheiați ziua cu o plimbare cu mașina până la punctul de plecare al Vârfului Crn Kamen pentru a admira un apus de soare de neuitat. Această zi combină cultura urbană cu experiențe profunde în natură.",
+        "en": "By car, you'll explore Pehčevo and its stunning surroundings in clusters. The morning is dedicated to the historic center, which you can comfortably explore on foot. Afterward, you drive to the Ravna Reka cluster, where a short walk brings you to the refreshing waterfalls. The afternoon is a mountain adventure: you drive to the Yudovi Livadi Reserve for a hike and end the day with a drive to the Crn Kamen Peak trailhead to witness an unforgettable sunset. This day combines city culture with deep nature experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick mit lokalen Produkten",
+            "tip": "Kaufen Sie Käse, Brot und Ajvar auf dem Markt für ein Picknick in der Natur."
+          },
+          {
+            "name": "Berghütte",
+            "tip": "Einige Wanderwege führen an Hütten vorbei, die einfache, aber herzhafte Mahlzeiten anbieten."
+          },
+          {
+            "name": "Šopska Salata",
+            "tip": "Ein erfrischender Salat aus Tomaten, Gurken, Paprika und geriebenem Sirene-Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik helyi termékekkel",
+            "tip": "Vásároljon sajtot, kenyeret és ajvárt a piacon egy természetbeni piknikhez."
+          },
+          {
+            "name": "Hegyi menedékház",
+            "tip": "Néhány túraútvonal olyan menedékházak mellett vezet el, amelyek egyszerű, de kiadós ételeket kínálnak."
+          },
+          {
+            "name": "Sopszka saláta",
+            "tip": "Frissítő saláta paradicsomból, uborkából, paprikából és reszelt sirene sajtból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic cu produse locale",
+            "tip": "Cumpărați brânză, pâine și ajvar de la piață pentru un picnic în natură."
+          },
+          {
+            "name": "Cabană montană",
+            "tip": "Unele trasee de drumeție trec pe lângă cabane care oferă mese simple, dar consistente."
+          },
+          {
+            "name": "Salată Shopska",
+            "tip": "O salată răcoritoare din roșii, castraveți, ardei și brânză Sirene rasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic with local products",
+            "tip": "Buy cheese, bread, and ajvar at the market for a picnic in nature."
+          },
+          {
+            "name": "Mountain Hut",
+            "tip": "Some hiking trails pass by huts that offer simple but hearty meals."
+          },
+          {
+            "name": "Shopska Salata",
+            "tip": "A refreshing salad of tomatoes, cucumbers, peppers, and grated sirene cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel Crn Kamen",
+            "tip": "Die ultimative Belohnung für eine Fahrt und Wanderung, mit weitreichenden Ausblicken.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein versteckter Ort im Yudovi Livadi Reservat",
+            "tip": "Weichen Sie vom Hauptweg ab und finden Sie Ihren eigenen friedlichen Ort.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Früher Morgen am Stadtplatz",
+            "tip": "Erleben Sie die Stadt, bevor sie erwacht, in fast völliger Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crn Kamen csúcs",
+            "tip": "A vezetés és túrázás végső jutalma, messzire nyúló kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy rejtett hely a Yudovi Livadi Rezervátumban",
+            "tip": "Térjen le a fő útról, és találja meg a saját békés helyét.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggel a főtéren",
+            "tip": "Tapasztalja meg a várost, mielőtt felébred, szinte teljes csendben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Crn Kamen",
+            "tip": "Recompensa supremă pentru o plimbare cu mașina și o drumeție, cu vederi extinse.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Un loc ascuns în Rezervația Yudovi Livadi",
+            "tip": "Abateți-vă de la poteca principală și găsiți-vă propriul loc pașnic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dimineața devreme în piața orașului",
+            "tip": "Experimentați orașul înainte de a se trezi, în liniște aproape totală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Crn Kamen Peak",
+            "tip": "The ultimate reward for a drive and hike, with far-reaching views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A hidden spot in Yudovi Livadi Reserve",
+            "tip": "Deviate from the main path and find your own peaceful place.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Early morning at the town square",
+            "tip": "Experience the town before it wakes up in almost complete silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenstände außerhalb der Stadt",
+            "tip": "Halten Sie Ausschau nach Ständen, die Waldfrüchte, Pilze und Kräuter verkaufen."
+          },
+          {
+            "name": "Wollprodukte",
+            "tip": "Die Region Maleševo ist bekannt für ihre hochwertigen Wollprodukte wie Socken und Decken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útszéli standok a városon kívül",
+            "tip": "Figyelje az erdei gyümölcsöket, gombákat és gyógynövényeket árusító standokat."
+          },
+          {
+            "name": "Gyapjútermékek",
+            "tip": "A Maleševo régió híres a kiváló minőségű gyapjútermékeiről, mint például a zoknik és takarók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe la marginea drumului în afara orașului",
+            "tip": "Fiți atenți la tarabele care vând fructe de pădure, ciuperci și ierburi."
+          },
+          {
+            "name": "Produse din lână",
+            "tip": "Regiunea Maleševo este cunoscută pentru produsele sale de lână de înaltă calitate, cum ar fi șosetele și păturile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside stalls outside the town",
+            "tip": "Look for stalls selling forest fruits, mushrooms, and herbs."
+          },
+          {
+            "name": "Woolen products",
+            "tip": "The Maleševo region is known for its high-quality woolen products like socks and blankets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Auto für Bergstraßen geeignet ist.",
+          "Laden Sie Offline-Karten herunter, da der Handyempfang in den Bergen lückenhaft sein kann.",
+          "Lassen Sie keine Wertsachen im Auto, besonders nicht an abgelegenen Parkplätzen.",
+          "Planen Sie genügend Zeit für die Fahrten ein, da die Straßen kurvenreich sein können."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy autója alkalmas a hegyi utakra.",
+          "Töltsön le offline térképeket, mivel a mobil vétel a hegyekben foltos lehet.",
+          "Ne hagyjon értékeket az autóban, különösen a félreeső parkolókban.",
+          "Tervezzen elegendő időt az utazásokra, mivel az utak kanyargósak lehetnek."
+        ],
+        "ro": [
+          "Asigurați-vă că mașina dvs. este potrivită pentru drumurile de munte.",
+          "Descărcați hărți offline, deoarece semnalul mobil poate fi slab în munți.",
+          "Nu lăsați obiecte de valoare în mașină, mai ales în parcările izolate.",
+          "Planificați suficient timp pentru călătorii, deoarece drumurile pot fi șerpuite."
+        ],
+        "en": [
+          "Ensure your car is suitable for mountain roads.",
+          "Download offline maps, as cell reception can be patchy in the mountains.",
+          "Do not leave valuables in the car, especially at remote parking spots.",
+          "Plan enough time for the drives, as roads can be winding."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz Pehčevo (Cluster A)",
+            "hu": "Pehcsevói városi tér (A Klaszter)",
+            "ro": "Piața orașului Pehcevo (Cluster A)",
+            "en": "Pehčevo Town Square (Cluster A)"
+          },
+          "coords": [
+            22.8875,
+            41.7615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Pehčevo, das Sie zu Fuß erkunden werden.",
+            "hu": "Kezdje a napot Pehcsó szívében, amelyet gyalogosan fedezhet fel.",
+            "ro": "Începeți ziua în inima orașului Pehcevo, pe care o veți explora pe jos.",
+            "en": "Start your day in the heart of Pehčevo, which you'll explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Pehčevo",
+            "hu": "Pehcsevói Múzeum",
+            "ro": "Muzeul din Pehcevo",
+            "en": "Museum of Pehčevo"
+          },
+          "coords": [
+            22.8865,
+            41.762
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz zum Museum.",
+            "hu": "Rövid séta a tértől a múzeumig.",
+            "ro": "O scurtă plimbare de la piață la muzeu.",
+            "en": "A short walk from the square to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle für Bus nach Ravna Reka (Cluster B)",
+            "hu": "Buszmegálló Ravna Reka felé (B Klaszter)",
+            "ro": "Stație de autobuz spre Ravna Reka (Cluster B)",
+            "en": "Bus stop for Ravna Reka (Cluster B)"
+          },
+          "coords": [
+            22.885,
+            41.759
+          ],
+          "category": "transport",
+          "arrive_at": "11:25",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus oder ein Sammeltaxi zum nächsten Natur-Hotspot.",
+            "hu": "Vegyen egy helyi buszt vagy iránytaxit a következő természeti látványossághoz.",
+            "ro": "Luați un autobuz local sau un taxi colectiv către următorul punct fierbinte al naturii.",
+            "en": "Take a local bus or a shared taxi to the next nature hotspot."
+          }
+        },
+        {
+          "name": {
+            "de": "Pehčevo-Wasserfälle",
+            "hu": "Pehcsevói-vízesések",
+            "ro": "Cascadele Pehcevo",
+            "en": "Pehčevo Waterfalls"
+          },
+          "coords": [
+            22.865,
+            41.775
+          ],
+          "category": "natural features",
+          "arrive_at": "11:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von der Haltestelle Ravna Reka ist es ein angenehmer Spaziergang zu den Wasserfällen.",
+            "hu": "A Ravna Reka megállótól kellemes séta vezet a vízesésekhez.",
+            "ro": "De la stația Ravna Reka, este o plimbare plăcută până la cascade.",
+            "en": "From the Ravna Reka stop, it's a pleasant walk to the waterfalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum für ein spätes Mittagessen",
+            "hu": "Visszatérés a központba egy késői ebédre",
+            "ro": "Întoarcere în centru pentru un prânz târziu",
+            "en": "Return to the center for a late lunch"
+          },
+          "coords": [
+            22.887,
+            41.761
+          ],
+          "category": "gastro",
+          "arrive_at": "15:05",
+          "stay_min": 135,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück und belohnen Sie sich mit einer ausgiebigen Mahlzeit.",
+            "hu": "Menjen vissza busszal, és jutalmazza meg magát egy bőséges étkezéssel.",
+            "ro": "Luați autobuzul înapoi și recompensați-vă cu o masă copioasă.",
+            "en": "Take the bus back and reward yourself with a substantial meal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Plan nutzt lokale Verkehrsmittel, um das Beste von Pehčevo zu kombinieren. Der Morgen beginnt mit einem Spaziergang durch das kompakte Stadtzentrum, bei dem Sie den Hauptplatz und das Museum besichtigen. Anschließend bringt Sie ein kurzer Bus- oder Taxitransfer in die Nähe des Ravna Reka-Gebiets. Von dort aus spazieren Sie zu den malerischen Wasserfällen und genießen die Natur. Nach diesem Ausflug kehren Sie am Nachmittag ins Zentrum zurück, um ein spätes, aber wohlverdientes mazedonisches Mittagessen zu genießen und den Rest des Tages entspannt ausklingen zu lassen.",
+        "hu": "Ez a terv a helyi közlekedést használja Pehcsó legjavának ötvözésére. A reggel egy sétával kezdődik a kompakt városközpontban, ahol megtekintheti a főteret és a múzeumot. Ezután egy rövid busz- vagy taxitranszfer elviszi a Ravna Reka-terület közelébe. Onnan a festői vízesésekhez sétál, és élvezi a természetet. A kirándulás után délután visszatér a központba egy késői, de megérdemelt macedón ebédre, és a nap hátralévő részét pihenéssel tölti.",
+        "ro": "Acest plan folosește transportul local pentru a combina tot ce este mai bun din Pehcevo. Dimineața începe cu o plimbare prin centrul compact al orașului, vizitând piața principală și muzeul. Apoi, un scurt transfer cu autobuzul sau taxiul vă va duce în apropierea zonei Ravna Reka. De acolo, vă veți plimba până la cascadele pitorești și vă veți bucura de natură. După această excursie, vă veți întoarce în centru după-amiaza pentru un prânz macedonean târziu, dar binemeritat, și veți petrece restul zilei relaxându-vă.",
+        "en": "This plan uses local transit to combine the best of Pehčevo. The morning starts with a walk through the compact town center, visiting the main square and the museum. Then, a short bus or taxi transfer takes you near the Ravna Reka area. From there, you'll walk to the picturesque waterfalls and enjoy nature. After this excursion, you'll return to the center in the afternoon for a late but well-deserved Macedonian lunch, spending the rest of the day at a relaxed pace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "Ein Blätterteiggebäck, gefüllt mit Käse oder Fleisch, perfekt als Snack für unterwegs."
+          },
+          {
+            "name": "Ajvar",
+            "tip": "Ein Paprika-Aufstrich, der zu fast allem passt. Probieren Sie ihn mit frischem Brot."
+          },
+          {
+            "name": "Restaurant Etno Selo",
+            "tip": "Bekannt für seine traditionelle Atmosphäre und eine große Auswahl an lokalen Gerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Rétes tészta, sajttal vagy hússal töltve, tökéletes útközbeni harapnivaló."
+          },
+          {
+            "name": "Ajvár",
+            "tip": "Paprikakrém, amely szinte mindenhez illik. Próbálja ki friss kenyérrel."
+          },
+          {
+            "name": "Etno Selo Étterem",
+            "tip": "Hagyományos hangulatáról és a helyi ételek széles választékáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "O plăcintă cu foietaj umplută cu brânză sau carne, perfectă pentru o gustare pe drum."
+          },
+          {
+            "name": "Ajvar",
+            "tip": "O pastă de ardei care se potrivește cu aproape orice. Încercați-o cu pâine proaspătă."
+          },
+          {
+            "name": "Restaurantul Etno Selo",
+            "tip": "Cunoscut pentru atmosfera sa tradițională și o selecție largă de mâncăruri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "A flaky pastry filled with cheese or meat, perfect for a snack on the go."
+          },
+          {
+            "name": "Ajvar",
+            "tip": "A pepper-based condiment that goes with almost everything. Try it with fresh bread."
+          },
+          {
+            "name": "Restaurant Etno Selo",
+            "tip": "Known for its traditional atmosphere and a wide selection of local dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bank im Park",
+            "tip": "Setzen Sie sich nach dem Mittagessen in einen der kleinen Parks und beobachten Sie die Welt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof von St. Peter und Paul",
+            "tip": "Ein friedlicher Ort für einen Moment der Stille und Kontemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang des Flusses",
+            "tip": "Ein ruhiger Spaziergang am späten Nachmittag entlang des Flusses ist sehr entspannend.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a parkban",
+            "tip": "Ebéd után üljön le az egyik kis parkban, és figyelje a világot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Péter és Pál templomkert",
+            "tip": "Békés hely egy csendes és elmélkedő pillanatra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a folyó mentén",
+            "tip": "Egy csendes késő délutáni séta a folyó mentén nagyon pihentető.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă în parc",
+            "tip": "Stați pe o bancă într-unul din micile parcuri după prânz și priviți lumea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Bisericii Sf. Petru și Pavel",
+            "tip": "Un loc pașnic pentru un moment de liniște și contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "O plimbare liniștită de după-amiază târzie de-a lungul râului este foarte relaxantă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bench in the park",
+            "tip": "Sit on a bench in one of the small parks after lunch and watch the world go by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Churchyard of St. Peter and Paul",
+            "tip": "A peaceful place for a moment of silence and contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stroll along the river",
+            "tip": "A quiet late afternoon walk along the river is very relaxing.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Der beste Ort, um authentische lokale Produkte und Souvenirs zu finden."
+          },
+          {
+            "name": "Handgefertigter Schmuck",
+            "tip": "Halten Sie Ausschau nach kleinen Läden, die einzigartigen, von lokalen Kunsthandwerkern gefertigten Schmuck verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "A legjobb hely autentikus helyi termékek és ajándéktárgyak megtalálására."
+          },
+          {
+            "name": "Kézzel készített ékszerek",
+            "tip": "Keressen kis boltokat, amelyek egyedi, helyi kézművesek által készített ékszereket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cel mai bun loc pentru a găsi produse locale autentice și suveniruri."
+          },
+          {
+            "name": "Bijuterii lucrate manual",
+            "tip": "Căutați magazine mici care vând bijuterii unice realizate de artizani locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "The best place to find authentic local products and souvenirs."
+          },
+          {
+            "name": "Handmade jewelry",
+            "tip": "Look for small shops selling unique jewelry made by local artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Erkundigen Sie sich im Voraus nach den Busfahrplänen, da diese möglicherweise nicht häufig verkehren.",
+          "Haben Sie Kleingeld für Bustickets oder Taxis dabei.",
+          "Sammeltaxis (marshrutkas) sind üblich und können eine schnelle Alternative zum Bus sein.",
+          "Seien Sie flexibel; der öffentliche Nahverkehr in ländlichen Gebieten kann unvorhersehbar sein."
+        ],
+        "hu": [
+          "Érdeklődjön előre a buszmenetrendekről, mivel lehet, hogy nem közlekednek gyakran.",
+          "Legyen nálad aprópénz buszjegyekre vagy taxikra.",
+          "Az iránytaxik (marshrutkák) gyakoriak és gyors alternatívát jelenthetnek a buszhoz képest.",
+          "Legyen rugalmas; a tömegközlekedés a vidéki területeken kiszámíthatatlan lehet."
+        ],
+        "ro": [
+          "Întrebați din timp despre orarele autobuzelor, deoarece s-ar putea să nu fie frecvente.",
+          "Aveți la îndemână bani mărunți pentru bilete de autobuz sau taxiuri.",
+          "Taxiurile colective (marshrutkas) sunt comune și pot fi o alternativă rapidă la autobuz.",
+          "Fiți flexibil; transportul public în zonele rurale poate fi imprevizibil."
+        ],
+        "en": [
+          "Ask about bus schedules in advance, as they may not be frequent.",
+          "Have small change ready for bus tickets or taxis.",
+          "Shared taxis (marshrutkas) are common and can be a fast alternative to the bus.",
+          "Be flexible; public transport in rural areas can be unpredictable."
+        ]
+      }
+    }
+  }
+}

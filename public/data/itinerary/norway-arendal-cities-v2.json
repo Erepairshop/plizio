@@ -1,0 +1,1469 @@
+{
+  "city_id": "norway-arendal-cities-v2",
+  "anchor": {
+    "name": "Arendal",
+    "coords": [
+      8.76,
+      58.46
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tyholmen (Altstadt)",
+            "hu": "Tyholmen (Óváros)",
+            "ro": "Tyholmen (Orașul vechi)",
+            "en": "Tyholmen (Old Town)"
+          },
+          "coords": [
+            8.765,
+            58.4605
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen mit den weißen Holzhäusern.",
+            "hu": "Tévedjen el a fehér faházakkal szegélyezett szűk sikátorokban.",
+            "ro": "Pierdeți-vă pe aleile înguste cu case albe din lemn.",
+            "en": "Get lost in the narrow alleys lined with white wooden houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Pollen (Hafen)",
+            "hu": "Pollen (Kikötő)",
+            "ro": "Pollen (Portul)",
+            "en": "Pollen (Harbour)"
+          },
+          "coords": [
+            8.766,
+            58.4625
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:46",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie frische Garnelen direkt von den Fischerbooten.",
+            "hu": "Kóstoljon friss garnélarákot egyenesen a halászhajókról.",
+            "ro": "Încercați creveți proaspeți direct de la bărcile pescarilor.",
+            "en": "Try some fresh shrimp directly from the fishing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Arendal",
+            "hu": "Arendali városháza",
+            "ro": "Primăria din Arendal",
+            "en": "Arendal Town Hall"
+          },
+          "coords": [
+            8.768,
+            58.4618
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eines der höchsten Holzgebäude Norwegens. Schöne Architektur.",
+            "hu": "Norvégia egyik legmagasabb faépülete. Gyönyörű építészet.",
+            "ro": "Una dintre cele mai înalte clădiri din lemn din Norvegia. Arhitectură frumoasă.",
+            "en": "One of Norway's tallest wooden buildings. Beautiful architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitskirche",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Trinity Church"
+          },
+          "coords": [
+            8.769,
+            58.464
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine großartige Aussicht auf die Stadt.",
+            "hu": "Másszon fel a toronyba a városra nyíló nagyszerű kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște minunată asupra orașului.",
+            "en": "Climb the tower for a great view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Hafens",
+            "hu": "Ebéd a kikötő közelében",
+            "ro": "Prânz lângă port",
+            "en": "Lunch near the harbour"
+          },
+          "coords": [
+            8.767,
+            58.462
+          ],
+          "category": "gastro",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Fischsuppe in einem der Restaurants am Wasser.",
+            "hu": "Élvezzen egy hallevest a vízparti éttermek egyikében.",
+            "ro": "Savurați o supă de pește la unul dintre restaurantele de pe malul apei.",
+            "en": "Enjoy a fish soup at one of the waterfront restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "KUBEN Museum",
+            "hu": "KUBEN Múzeum",
+            "ro": "Muzeul KUBEN",
+            "en": "KUBEN Museum"
+          },
+          "coords": [
+            8.755,
+            58.468
+          ],
+          "category": "museums",
+          "arrive_at": "15:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Interaktive Ausstellungen zur Geschichte der Region Aust-Agder.",
+            "hu": "Interaktív kiállítások Aust-Agder régió történelméről.",
+            "ro": "Expoziții interactive despre istoria regiunii Aust-Agder.",
+            "en": "Interactive exhibits on the history of the Aust-Agder region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Arendal, Tyholmen, wo weiße Holzhäuser die Szene dominieren. Schlendern Sie zum belebten Hafen Pollen, um die maritime Atmosphäre aufzusaugen. Am Mittag erklimmen Sie den Turm der Dreifaltigkeitskirche für einen Panoramablick, bevor Sie in einem der charmanten Hafenrestaurants zu Mittag essen. Der Nachmittag ist der Kultur gewidmet, mit einem tiefen Einblick in die lokale Geschichte im KUBEN Museum. Beenden Sie den Tag mit einem entspannten Spaziergang zurück durch die Altstadt.",
+        "hu": "Kezdje a napot Arendal történelmi szívében, Tyholmenben, ahol fehér faházak uralják a látképet. Sétáljon le a nyüzsgő Pollen kikötőbe, hogy magába szívja a tengeri hangulatot. Délben másszon fel a Szentháromság-templom tornyába a panorámáért, majd ebédeljen meg az egyik hangulatos kikötői étteremben. A délutánt a kultúrának szentelje, mélyedjen el a helyi történelemben a KUBEN Múzeumban. A napot egy kellemes sétával zárja az óvárosban.",
+        "ro": "Începeți ziua în inima istorică a Arendalului, Tyholmen, unde casele albe din lemn domină peisajul. Plimbați-vă până la portul plin de viață Pollen pentru a absorbi atmosfera maritimă. La prânz, urcați în turnul Bisericii Sfânta Treime pentru vederi panoramice înainte de a lua masa la unul dintre restaurantele fermecătoare din port. După-amiaza este dedicată culturii, cu o incursiune profundă în istoria locală la Muzeul KUBEN. Încheiați ziua cu o plimbare relaxantă înapoi prin orașul vechi.",
+        "en": "Start your day in the historic heart of Arendal, Tyholmen, where white wooden houses dominate the scene. Stroll down to the bustling Pollen harbour to absorb the maritime atmosphere. At midday, climb the tower of the Trinity Church for panoramic views before having lunch at one of the charming harbour restaurants. The afternoon is dedicated to culture, with a deep dive into local history at the KUBEN Museum. End your day with a relaxing walk back through the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischsuppe",
+            "tip": "Cremig und reichhaltig, ein lokaler Favorit. Am besten in Restaurants wie 'Fiskekompaniet' genießen."
+          },
+          {
+            "name": "Frische Garnelen",
+            "tip": "Direkt vom Boot im Hafen von Pollen gekauft, mit Brot und Mayonnaise serviert."
+          },
+          {
+            "name": "Waffeln mit Brunost",
+            "tip": "Eine norwegische Spezialität. Probieren Sie sie in einem gemütlichen Café in Tyholmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halleves",
+            "tip": "Krémes és gazdag, a helyiek kedvence. A legjobb a 'Fiskekompaniet' étteremben."
+          },
+          {
+            "name": "Friss garnélarák",
+            "tip": "Vásárolja meg a Pollen kikötőben a hajókról, kenyérrel és majonézzel tálalva."
+          },
+          {
+            "name": "Gofri barna sajttal (Brunost)",
+            "tip": "Norvég különlegesség. Kóstolja meg egy hangulatos kávézóban Tyholmenben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de pește",
+            "tip": "Cremă și bogată, o favorită locală. Cel mai bun la restaurante precum 'Fiskekompaniet'."
+          },
+          {
+            "name": "Creveți proaspeți",
+            "tip": "Cumpărați direct de pe barcă în portul Pollen, serviți cu pâine și maioneză."
+          },
+          {
+            "name": "Vafe cu Brunost",
+            "tip": "O specialitate norvegiană. Încercați-le la o cafenea confortabilă din Tyholmen."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Soup",
+            "tip": "Creamy and rich, a local favourite. Best enjoyed at restaurants like 'Fiskekompaniet'."
+          },
+          {
+            "name": "Fresh Shrimps",
+            "tip": "Bought directly from the boat in Pollen harbour, served with bread and mayonnaise."
+          },
+          {
+            "name": "Waffles with Brunost",
+            "tip": "A Norwegian specialty. Try them at a cozy café in Tyholmen."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bänke in Tyholmen",
+            "tip": "Finden Sie eine ruhige Bank in den oberen Gassen von Tyholmen für einen Moment der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussicht von der Dreifaltigkeitskirche",
+            "tip": "Genießen Sie die friedliche Aussicht über die Dächer und das Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang am Abend in Pollen",
+            "tip": "Nachdem die Menschenmassen gegangen sind, ist der Hafen ein Ort der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Padok Tyholmenben",
+            "tip": "Keressen egy csendes padot Tyholmen felső sikátoraiban egy pillanatnyi békéért.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Szentháromság-templomból",
+            "tip": "Élvezze a békés kilátást a háztetőkre és a tengerre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Esti séta Pollenben",
+            "tip": "Miután a tömeg elvonul, a kikötő a nyugalom helyszíne.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci în Tyholmen",
+            "tip": "Găsiți o bancă liniștită pe aleile superioare din Tyholmen pentru un moment de pace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de la Biserica Sfânta Treime",
+            "tip": "Bucurați-vă de priveliștea pașnică peste acoperișuri și mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare de seară în Pollen",
+            "tip": "După ce mulțimile pleacă, portul este un loc de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Benches in Tyholmen",
+            "tip": "Find a quiet bench in the upper alleys of Tyholmen for a moment of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from Trinity Church",
+            "tip": "Enjoy the peaceful view over the rooftops and the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Evening walk in Pollen",
+            "tip": "After the crowds have left, the harbour is a place of tranquility.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "In Tyholmen finden Sie kleine Boutiquen, die handgefertigte Keramik und Schmuck verkaufen."
+          },
+          {
+            "name": "Arendal Glasværk",
+            "tip": "Kaufen Sie einzigartige Glaswaren, die lokal entworfen wurden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Tyholmenben kis butikokat talál, ahol kézzel készített kerámiákat és ékszereket árulnak."
+          },
+          {
+            "name": "Arendali Üveggyár",
+            "tip": "Vásároljon egyedi, helyi tervezésű üvegárut."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de artizanat",
+            "tip": "În Tyholmen veți găsi mici buticuri care vând ceramică și bijuterii lucrate manual."
+          },
+          {
+            "name": "Arendal Glasværk",
+            "tip": "Cumpărați obiecte unice din sticlă, proiectate local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local handicraft shops",
+            "tip": "In Tyholmen, you will find small boutiques selling handmade ceramics and jewelry."
+          },
+          {
+            "name": "Arendal Glassworks",
+            "tip": "Purchase unique glassware designed locally."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen in Tyholmen gepflastert sind.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Überprüfen Sie die Öffnungszeiten des KUBEN Museums im Voraus, da sie saisonal variieren können.",
+          "Ein Spaziergang am Abend entlang des Hafens bietet eine andere, ruhigere Perspektive auf die Stadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel Tyholmen utcái macskakövesek.",
+          "A városközpont legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Ellenőrizze előre a KUBEN Múzeum nyitvatartási idejét, mert szezonálisan változhat.",
+          "Egy esti séta a kikötő mentén más, csendesebb perspektívát nyújt a városra."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile din Tyholmen sunt pavate cu piatră cubică.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Verificați în avans programul de funcționare al Muzeului KUBEN, deoarece acesta poate varia sezonier.",
+          "O plimbare de seară de-a lungul portului oferă o perspectivă diferită, mai liniștită, a orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets in Tyholmen are cobblestoned.",
+          "Most attractions in the city center are within easy walking distance.",
+          "Check the opening hours of the KUBEN Museum in advance as they can vary seasonally.",
+          "An evening walk along the harbour offers a different, more tranquil perspective of the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pollen (Hafen)",
+            "hu": "Pollen (Kikötő)",
+            "ro": "Pollen (Portul)",
+            "en": "Pollen (Harbour)"
+          },
+          "coords": [
+            8.766,
+            58.4625
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit der frischen Meeresbrise.",
+            "hu": "Kezdje a napot a friss tengeri szellővel.",
+            "ro": "Începeți ziua cu briza proaspătă a mării.",
+            "en": "Start the day with the fresh sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Tyholmen (Altstadt)",
+            "hu": "Tyholmen (Óváros)",
+            "ro": "Tyholmen (Orașul vechi)",
+            "en": "Tyholmen (Old Town)"
+          },
+          "coords": [
+            8.765,
+            58.4605
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die Gassen zu Fuß.",
+            "hu": "Parkolja le a biciklit és fedezze fel a sikátorokat gyalog.",
+            "ro": "Parcați bicicleta și explorați aleile pe jos.",
+            "en": "Park your bike and explore the alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hisøy Kirche",
+            "hu": "Hisøy-templom",
+            "ro": "Biserica Hisøy",
+            "en": "Hisøy Church"
+          },
+          "coords": [
+            8.72,
+            58.44
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Eine charmante Kirche auf der Insel Hisøy, eine angenehme Radtour vom Zentrum entfernt.",
+            "hu": "Bájos templom Hisøy szigetén, kellemes kerékpárútra a központtól.",
+            "ro": "O biserică fermecătoare pe insula Hisøy, o plimbare plăcută cu bicicleta din centru.",
+            "en": "A charming church on Hisøy island, a pleasant bike ride from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen auf Hisøy",
+            "hu": "Ebéd Hisøy-on",
+            "ro": "Prânz pe Hisøy",
+            "en": "Lunch on Hisøy"
+          },
+          "coords": [
+            8.722,
+            58.441
+          ],
+          "category": "gastro",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Finden Sie ein lokales Café für ein leichtes Mittagessen, bevor Sie zurück in die Stadt fahren.",
+            "hu": "Keressen egy helyi kávézót egy könnyű ebédre, mielőtt visszatekerne a városba.",
+            "ro": "Găsiți o cafenea locală pentru un prânz ușor înainte de a vă întoarce în oraș.",
+            "en": "Find a local cafe for a light lunch before cycling back to the city."
+          }
+        },
+        {
+          "name": {
+            "de": "KUBEN Museum",
+            "hu": "KUBEN Múzeum",
+            "ro": "Muzeul KUBEN",
+            "en": "KUBEN Museum"
+          },
+          "coords": [
+            8.755,
+            58.468
+          ],
+          "category": "museums",
+          "arrive_at": "13:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie in die Geschichte ein.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a történelemben.",
+            "ro": "Asigurați-vă bicicleta și scufundați-vă în istorie.",
+            "en": "Secure your bike and dive into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitskirche",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Trinity Church"
+          },
+          "coords": [
+            8.769,
+            58.464
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:27",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Aufstieg auf den Turm belohnt Sie nach der Radtour.",
+            "hu": "A toronyba való felmászás jutalom a biciklizés után.",
+            "ro": "Urcarea în turn vă va răsplăti după plimbarea cu bicicleta.",
+            "en": "The climb up the tower will reward you after the bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung am Pollen",
+            "hu": "Pihenés Pollenben",
+            "ro": "Relaxare la Pollen",
+            "en": "Relaxation at Pollen"
+          },
+          "coords": [
+            8.766,
+            58.4625
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag bei einem Eis am Hafen.",
+            "hu": "Zárja a napot egy fagyival a kikötőben.",
+            "ro": "Încheiați ziua cu o înghețată în port.",
+            "en": "End the day with an ice cream by the harbour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour in Arendal beginnt am besten am Hafen Pollen. Von dort aus können Sie die Altstadt Tyholmen erkunden, bevor Sie eine landschaftlich reizvolle Fahrt über die Brücke zur Hisøy-Kirche unternehmen. Genießen Sie ein ruhiges Mittagessen auf der Insel, bevor Sie zurück ins Zentrum radeln. Der Nachmittag gehört der Kultur im KUBEN Museum und dem Panoramablick von der Dreifaltigkeitskirche. Die Tour endet entspannt am Ausgangspunkt, dem Hafen, wo Sie die Boote beobachten können.",
+        "hu": "Az arendali biciklitúra a Pollen kikötőből indul. Innen fedezze fel Tyholmen óvárosát, mielőtt egy festői úton átteker a hídon a Hisøy-templomhoz. Fogyasszon el egy csendes ebédet a szigeten, mielőtt visszatér a központba. A délután a KUBEN Múzeum kultúrájáról és a Szentháromság-templom panorámájáról szól. A túra a kiindulópontnál, a kikötőnél ér véget, ahol a hajókat figyelheti.",
+        "ro": "Un tur cu bicicleta în Arendal începe cel mai bine din portul Pollen. De acolo, explorați orașul vechi Tyholmen înainte de a face o plimbare pitorească peste pod până la Biserica Hisøy. Bucurați-vă de un prânz liniștit pe insulă înainte de a pedala înapoi în centru. După-amiaza este pentru cultura la Muzeul KUBEN și vederile panoramice de la Biserica Sfânta Treime. Turul se încheie relaxat la punctul de plecare, portul, unde puteți privi bărcile.",
+        "en": "A bike tour in Arendal best starts from Pollen harbour. From there, explore the old town of Tyholmen before taking a scenic ride across the bridge to Hisøy Church. Enjoy a quiet lunch on the island before cycling back to the center. The afternoon is for culture at the KUBEN Museum and panoramic views from the Trinity Church. The tour ends relaxing back at the starting point, the harbour, where you can watch the boats."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich ein 'Skolebrød' (Schulbrot) für einen Energieschub."
+          },
+          {
+            "name": "Sjøbod-Restaurants",
+            "tip": "Viele alte Bootshäuser in Pollen sind heute Restaurants, die Meeresfrüchte servieren."
+          },
+          {
+            "name": "Picknick am Strand",
+            "tip": "Kaufen Sie lokale Produkte und machen Sie ein Picknick an einem der kleinen Strände auf Hisøy."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Vegyen egy 'Skolebrød'-t (iskolakenyér) egy kis energiáért."
+          },
+          {
+            "name": "Sjøbod éttermek",
+            "tip": "Pollenben sok régi csónakház ma tengeri ételeket kínáló étterem."
+          },
+          {
+            "name": "Piknik a tengerparton",
+            "tip": "Vásároljon helyi termékeket és piknikezzen Hisøy egyik kis strandján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați un 'Skolebrød' (pâine școlară) pentru un plus de energie."
+          },
+          {
+            "name": "Restaurante Sjøbod",
+            "tip": "Multe dintre vechile case de bărci din Pollen sunt acum restaurante care servesc fructe de mare."
+          },
+          {
+            "name": "Picnic pe plajă",
+            "tip": "Cumpărați produse locale și faceți un picnic pe una dintre micile plaje de pe Hisøy."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Grab a 'Skolebrød' (school bread) for an energy boost."
+          },
+          {
+            "name": "Sjøbod Restaurants",
+            "tip": "Many old boathouses in Pollen are now restaurants serving seafood."
+          },
+          {
+            "name": "Beach Picnic",
+            "tip": "Buy some local produce and have a picnic on one of the small beaches on Hisøy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenradweg auf Hisøy",
+            "tip": "Genießen Sie die Ruhe und die Aussicht auf das Meer abseits der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Leuchtturm",
+            "tip": "Wenn Sie Zeit haben, radeln Sie zu einem Punkt mit Blick auf die Torungen-Leuchttürme.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hintergassen von Tyholmen",
+            "tip": "Selbst am belebtesten Tag finden Sie hier ruhige Ecken.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti kerékpárút Hisøy-on",
+            "tip": "Élvezze a csendet és a tengerre nyíló kilátást a várostól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a világítótoronynál",
+            "tip": "Ha van ideje, tekerjen el egy pontra, ahonnan látszanak a Torungen világítótornyok.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tyholmen hátsó sikátorai",
+            "tip": "Még a legforgalmasabb napon is talál itt csendes zugokat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de coastă pe Hisøy",
+            "tip": "Bucurați-vă de liniște și de vederea la mare, departe de oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare la far",
+            "tip": "Dacă aveți timp, pedalați până la un punct cu vedere la farurile Torungen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aleile din spatele Tyholmen",
+            "tip": "Chiar și în cea mai aglomerată zi, veți găsi colțuri liniștite aici.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal bike path on Hisøy",
+            "tip": "Enjoy the quiet and the sea views away from the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at the lighthouse",
+            "tip": "If you have time, cycle to a point with a view of the Torungen lighthouses.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Back alleys of Tyholmen",
+            "tip": "Even on the busiest day, you'll find quiet corners here.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Arendal hat gute Geschäfte für Outdoor- und Fahrradausrüstung."
+          },
+          {
+            "name": "Hofläden auf Hisøy",
+            "tip": "Suchen Sie nach kleinen Ständen, die lokale Marmeladen oder Honig verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Arendalban jó üzletek találhatók a szabadtéri és kerékpáros felszerelésekhez."
+          },
+          {
+            "name": "Tanyasi boltok Hisøy-on",
+            "tip": "Keressen kis standokat, ahol helyi lekvárokat vagy mézet árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "Arendal are magazine bune pentru echipament de exterior și ciclism."
+          },
+          {
+            "name": "Magazine de fermă pe Hisøy",
+            "tip": "Căutați mici tarabe care vând gemuri locale sau miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports shops",
+            "tip": "Arendal has good shops for outdoor and cycling gear."
+          },
+          {
+            "name": "Farm shops on Hisøy",
+            "tip": "Look for small stalls selling local jams or honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad im Stadtzentrum, wenn Sie keins haben.",
+          "Die Brücken können bei Wind eine Herausforderung sein.",
+          "Nehmen Sie eine Wasserflasche und Snacks für die Fahrt nach Hisøy mit.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders in der Nähe von Touristenattraktionen."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a városközpontban, ha nincs sajátja.",
+          "A hidak szeles időben kihívást jelenthetnek.",
+          "Vigyen magával egy üveg vizet és rágcsálnivalót a Hisøy-ra vezető útra.",
+          "Mindig zárja le jól a kerékpárját, különösen a turisztikai látványosságok közelében."
+        ],
+        "ro": [
+          "Închiriați o bicicletă din centrul orașului dacă nu aveți una.",
+          "Podurile pot fi o provocare pe vânt.",
+          "Luați o sticlă de apă și gustări pentru drumul spre Hisøy.",
+          "Asigurați-vă întotdeauna bicicleta, mai ales în apropierea atracțiilor turistice."
+        ],
+        "en": [
+          "Rent a bike in the city center if you don't have one.",
+          "The bridges can be challenging when it's windy.",
+          "Bring a water bottle and snacks for the ride to Hisøy.",
+          "Always lock your bike securely, especially near tourist attractions."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 36.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Spaziergang im Zentrum",
+            "hu": "Parkolás és séta a központban",
+            "ro": "Parcare și plimbare în centru",
+            "en": "Park and Walk in the Center"
+          },
+          "coords": [
+            8.769,
+            58.46
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon a parkolóházban, és fedezze fel az első központot gyalog.",
+            "ro": "Parcați în parcarea subterană și explorați primul cluster pe jos.",
+            "en": "Park in the parking garage and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Tyholmen & Pollen",
+            "hu": "Tyholmen és Pollen",
+            "ro": "Tyholmen & Pollen",
+            "en": "Tyholmen & Pollen"
+          },
+          "coords": [
+            8.765,
+            58.461
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der historische Kern und der lebhafte Hafen sind ein Muss.",
+            "hu": "A történelmi mag és a nyüzsgő kikötő kihagyhatatlan.",
+            "ro": "Centrul istoric și portul plin de viață sunt obligatorii.",
+            "en": "The historic core and the lively harbour are a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Dreifaltigkeitskirche",
+            "hu": "Városháza és Szentháromság-templom",
+            "ro": "Primăria și Biserica Sfânta Treime",
+            "en": "Town Hall & Trinity Church"
+          },
+          "coords": [
+            8.7685,
+            58.463
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zwei ikonische Gebäude, die zu Fuß leicht erreichbar sind.",
+            "hu": "Két ikonikus épület, melyek gyalog könnyen elérhetők.",
+            "ro": "Două clădiri emblematice, ușor accesibile pe jos.",
+            "en": "Two iconic buildings easily reachable on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Bomsholmen Museum",
+            "hu": "Utazás a Bomsholmen Múzeumhoz",
+            "ro": "Drumul spre Muzeul Bomsholmen",
+            "en": "Drive to Bomsholmen Museum"
+          },
+          "coords": [
+            8.85,
+            58.49
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein altes Sägewerk und ein Museum über die Holzflößerei.",
+            "hu": "Egy régi fűrésztelep és egy faúsztatási múzeum.",
+            "ro": "O veche fabrică de cherestea și un muzeu despre plutărit.",
+            "en": "An old sawmill and a museum about timber floating."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Insel Merdø (Fähranleger)",
+            "hu": "Utazás Merdø szigetére (kompkikötő)",
+            "ro": "Drumul spre Insula Merdø (terminalul de feribot)",
+            "en": "Drive to Merdø Island (Ferry Pier)"
+          },
+          "coords": [
+            8.79,
+            58.44
+          ],
+          "category": "island",
+          "arrive_at": "14:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie und nehmen Sie die Fähre zur autofreien Insel.",
+            "hu": "Parkoljon le, és menjen komppal az autómentes szigetre.",
+            "ro": "Parcați și luați feribotul spre insula fără mașini.",
+            "en": "Park your car and take the ferry to the car-free island."
+          }
+        },
+        {
+          "name": {
+            "de": "Erkundung von Merdø",
+            "hu": "Merdø felfedezése",
+            "ro": "Explorarea insulei Merdø",
+            "en": "Exploring Merdø"
+          },
+          "coords": [
+            8.8,
+            58.435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie zu den Stränden und dem alten Museum.",
+            "hu": "Sétáljon el a strandokhoz és a régi múzeumhoz.",
+            "ro": "Plimbați-vă la plaje și la vechiul muzeu.",
+            "en": "Walk to the beaches and the old museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Blick auf die Torungen Leuchttürme",
+            "hu": "Kilátás a Torungen világítótornyokra",
+            "ro": "Vedere la farurile Torungen",
+            "en": "View of Torungen Lighthouses"
+          },
+          "coords": [
+            8.82,
+            58.42
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu einem Aussichtspunkt auf dem Festland für ein tolles Foto.",
+            "hu": "Vezessen egy szárazföldi kilátóponthoz egy nagyszerű fotóért.",
+            "ro": "Conduceți la un punct de belvedere de pe continent pentru o fotografie excelentă.",
+            "en": "Drive to a viewpoint on the mainland for a great photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Tag mit dem Auto ermöglicht es, Arendals Umgebung zu erkunden. Beginnen Sie mit einem Spaziergang durch den zentralen Cluster von Tyholmen und Pollen. Nach dem Eintauchen in die Stadtatmosphäre fahren Sie zum Bomsholmen Museum, um mehr über die industrielle Vergangenheit zu erfahren. Am Nachmittag bringt Sie eine kurze Fahrt zum Fähranleger für die idyllische Insel Merdø. Verbringen Sie Stunden mit der Erkundung dieser autofreien Oase. Beenden Sie den Tag mit einer Fahrt zu einem Aussichtspunkt, um die berühmten Torungen-Leuchttürme bei Sonnenuntergang zu sehen.",
+        "hu": "Az autós nap lehetővé teszi Arendal környékének felfedezését. Kezdje egy sétával Tyholmen és Pollen központi részén. Miután elmerült a városi hangulatban, vezessen a Bomsholmen Múzeumhoz, hogy többet tudjon meg az ipari múltról. Délután egy rövid autóút visz a kompkikötőhöz, ahonnan az idilli Merdø szigetre juthat. Töltsön órákat ennek az autómentes oázisnak a felfedezésével. A napot egy kilátópontnál fejezze be, ahonnan naplementekor megcsodálhatja a híres Torungen világítótornyokat.",
+        "ro": "O zi cu mașina vă permite să explorați împrejurimile Arendalului. Începeți cu o plimbare prin clusterul central din Tyholmen și Pollen. După ce ați absorbit atmosfera orașului, conduceți la Muzeul Bomsholmen pentru a afla despre trecutul industrial. După-amiaza, o scurtă călătorie cu mașina vă duce la terminalul de feribot pentru idilica insulă Merdø. Petreceți ore explorând această oază fără mașini. Încheiați ziua cu o călătorie cu mașina la un punct de belvedere pentru a vedea faimoasele faruri Torungen la apus.",
+        "en": "A day by car allows you to explore Arendal's surroundings. Start with a walk through the central cluster of Tyholmen and Pollen. After soaking up the city atmosphere, drive to the Bomsholmen Museum to learn about the industrial past. In the afternoon, a short drive takes you to the ferry pier for the idyllic Merdø island. Spend hours exploring this car-free oasis. End the day with a drive to a viewpoint to see the famous Torungen lighthouses at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Merdøgaard Café",
+            "tip": "Ein einfaches, aber charmantes Café auf der Insel Merdø, perfekt für eine Kaffeepause."
+          },
+          {
+            "name": "Fischrestaurants am Hafen",
+            "tip": "Zurück im Zentrum, gönnen Sie sich ein Abendessen mit frischem Fang des Tages."
+          },
+          {
+            "name": "Tankstellen-Hotdog (Pølse)",
+            "tip": "Für einen schnellen, authentisch norwegischen Snack unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Merdøgaard Kávézó",
+            "tip": "Egyszerű, de bájos kávézó Merdø szigetén, tökéletes egy kávészünetre."
+          },
+          {
+            "name": "Kikötői haléttermek",
+            "tip": "Visszatérve a központba, kényeztesse magát egy vacsorával a nap friss fogásából."
+          },
+          {
+            "name": "Benzinkutas hot-dog (Pølse)",
+            "tip": "Egy gyors, autentikus norvég harapnivalóért útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafeneaua Merdøgaard",
+            "tip": "O cafenea simplă, dar fermecătoare, pe insula Merdø, perfectă pentru o pauză de cafea."
+          },
+          {
+            "name": "Restaurante cu pește din port",
+            "tip": "Înapoi în centru, răsfățați-vă cu o cină cu captura proaspătă a zilei."
+          },
+          {
+            "name": "Hot-dog de la benzinărie (Pølse)",
+            "tip": "Pentru o gustare rapidă, autentic norvegiană, din mers."
+          }
+        ],
+        "en": [
+          {
+            "name": "Merdøgaard Café",
+            "tip": "A simple but charming café on Merdø island, perfect for a coffee break."
+          },
+          {
+            "name": "Harbour fish restaurants",
+            "tip": "Back in the center, treat yourself to a dinner with the fresh catch of the day."
+          },
+          {
+            "name": "Gas station hot dog (Pølse)",
+            "tip": "For a quick, authentically Norwegian snack on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strände von Merdø",
+            "tip": "Finden Sie Ihren eigenen kleinen Sandstrand und genießen Sie die Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick auf die Leuchttürme",
+            "tip": "Ein perfekter Ort, um den Tag ausklingen zu lassen und die Aussicht zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Waldwege bei Bomsholmen",
+            "tip": "Machen Sie einen kurzen Spaziergang in der Natur rund um das Museum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Merdø strandjai",
+            "tip": "Találja meg a saját kis homokos strandját, és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a világítótornyokra",
+            "tip": "Tökéletes hely a nap lezárásához és a kilátás élvezetéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Erdei ösvények Bomsholmennél",
+            "tip": "Tegyen egy rövid sétát a természetben a múzeum körül.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plajele din Merdø",
+            "tip": "Găsiți-vă propria mică plajă de nisip și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere la faruri",
+            "tip": "Un loc perfect pentru a încheia ziua și a vă bucura de priveliște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Poteci forestiere lângă Bomsholmen",
+            "tip": "Faceți o scurtă plimbare în natură în jurul muzeului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beaches of Merdø",
+            "tip": "Find your own little sandy beach and enjoy the silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View of the lighthouses",
+            "tip": "A perfect spot to end the day and enjoy the view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Forest trails near Bomsholmen",
+            "tip": "Take a short walk in nature around the museum.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop auf Merdø",
+            "tip": "Ein kleiner Laden mit Büchern und Souvenirs über die Insel."
+          },
+          {
+            "name": "Alti Arendal Einkaufszentrum",
+            "tip": "Wenn Sie etwas Bestimmtes brauchen, finden Sie hier eine große Auswahl an Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt Merdø-n",
+            "tip": "Egy kis bolt könyvekkel és szuvenírekkel a szigetről."
+          },
+          {
+            "name": "Alti Arendal bevásárlóközpont",
+            "tip": "Ha valami konkrétra van szüksége, itt széles üzletválasztékot talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului de pe Merdø",
+            "tip": "Un mic magazin cu cărți și suveniruri despre insulă."
+          },
+          {
+            "name": "Centrul comercial Alti Arendal",
+            "tip": "Dacă aveți nevoie de ceva specific, veți găsi aici o selecție largă de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum shop on Merdø",
+            "tip": "A small shop with books and souvenirs about the island."
+          },
+          {
+            "name": "Alti Arendal shopping center",
+            "tip": "If you need anything specific, you'll find a wide selection of shops here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fährplan nach Merdø im Voraus, besonders außerhalb der Hauptsaison.",
+          "Das Parken im Stadtzentrum kann teuer sein; Tageskarten sind oft günstiger.",
+          "Planen Sie genügend Zeit für die Fährfahrt und die Erkundung von Merdø ein.",
+          "Die Straßen um Arendal sind schmal und kurvenreich, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Ellenőrizze előre a Merdø-ra induló komp menetrendjét, különösen a főszezonon kívül.",
+          "A parkolás a városközpontban drága lehet; a napijegyek gyakran olcsóbbak.",
+          "Tervezzen elegendő időt a kompútra és Merdø felfedezésére.",
+          "Az utak Arendal körül szűkek és kanyargósak, vezessen óvatosan."
+        ],
+        "ro": [
+          "Verificați în avans programul feribotului spre Merdø, mai ales în afara sezonului de vârf.",
+          "Parcarea în centrul orașului poate fi scumpă; biletele de o zi sunt adesea mai ieftine.",
+          "Alocați suficient timp pentru călătoria cu feribotul și explorarea insulei Merdø.",
+          "Drumurile din jurul Arendalului sunt înguste și sinuoase, conduceți cu prudență."
+        ],
+        "en": [
+          "Check the ferry schedule to Merdø in advance, especially outside the high season.",
+          "Parking in the city center can be expensive; day passes are often cheaper.",
+          "Allow plenty of time for the ferry ride and exploring Merdø.",
+          "The roads around Arendal are narrow and winding, drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Arendal Busbahnhof",
+            "hu": "Érkezés az Arendal buszpályaudvarra",
+            "ro": "Sosire la autogara Arendal",
+            "en": "Arrival at Arendal bus terminal"
+          },
+          "coords": [
+            8.76,
+            58.465
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Verkehrsknotenpunkt der Stadt.",
+            "hu": "Kezdje a napot a város közlekedési csomópontjában.",
+            "ro": "Începeți ziua la nodul de transport al orașului.",
+            "en": "Start your day at the city's transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Tyholmen & Pollen",
+            "hu": "Séta: Tyholmen és Pollen",
+            "ro": "Plimbare: Tyholmen & Pollen",
+            "en": "Walk: Tyholmen & Pollen"
+          },
+          "coords": [
+            8.765,
+            58.461
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Cluster ist ein Spaziergang durch das Herz von Arendal.",
+            "hu": "Az első rész egy séta Arendal szívében.",
+            "ro": "Primul cluster este o plimbare prin inima Arendalului.",
+            "en": "The first cluster is a walk through the heart of Arendal."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: KUBEN Museum",
+            "hu": "Séta: KUBEN Múzeum",
+            "ro": "Plimbare: Muzeul KUBEN",
+            "en": "Walk: KUBEN Museum"
+          },
+          "coords": [
+            8.755,
+            58.468
+          ],
+          "category": "museums",
+          "arrive_at": "11:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hafen zum kulturellen Zentrum.",
+            "hu": "Egy rövid séta a kikötőtől a kulturális központig.",
+            "ro": "O scurtă plimbare de la port la centrul cultural.",
+            "en": "A short walk from the harbour to the cultural hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Hisøy",
+            "hu": "Busszal Hisøy-ra",
+            "ro": "Autobuz spre Hisøy",
+            "en": "Bus to Hisøy"
+          },
+          "coords": [
+            8.72,
+            58.44
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um die charmante Inselkirche zu besuchen.",
+            "hu": "Menjen helyi busszal a bájos szigeti templomhoz.",
+            "ro": "Luați un autobuz local pentru a vizita biserica fermecătoare de pe insulă.",
+            "en": "Take a local bus to visit the charming island church."
+          }
+        },
+        {
+          "name": {
+            "de": "Fähre zur Insel Merdø",
+            "hu": "Komp Merdø szigetére",
+            "ro": "Feribot spre Insula Merdø",
+            "en": "Ferry to Merdø Island"
+          },
+          "coords": [
+            8.79,
+            58.44
+          ],
+          "category": "island",
+          "arrive_at": "15:08",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine Kombination aus Bus und Fähre bringt Sie in dieses Paradies.",
+            "hu": "Busz és komp kombinációjával juthat el ebbe a paradicsomba.",
+            "ro": "O combinație de autobuz și feribot vă duce în acest paradis.",
+            "en": "A combination of bus and ferry takes you to this paradise."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the Center"
+          },
+          "coords": [
+            8.76,
+            58.465
+          ],
+          "category": "transit",
+          "arrive_at": "18:05",
+          "stay_min": 0,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit der Rückfahrt zum Busbahnhof.",
+            "hu": "A napot a buszpályaudvarra való visszatéréssel zárja.",
+            "ro": "Încheiați ziua cu o călătorie înapoi la autogară.",
+            "en": "End your day with the journey back to the bus terminal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Arendal in Clustern. Beginnen Sie zu Fuß im Stadtzentrum, entdecken Sie Tyholmen, Pollen und das KUBEN Museum. Nach dem Mittagessen bringt Sie ein Bus zur ruhigen Insel Hisøy. Der Höhepunkt des Nachmittags ist eine Fährfahrt zur autofreien Insel Merdø. Hier können Sie an Stränden entspannen und durch malerische Landschaften wandern. Die Rückfahrt ins Zentrum mit Fähre und Bus schließt einen abwechslungsreichen Tag ab.",
+        "hu": "Tömegközlekedéssel Arendalt csoportokban fedezheti fel. Kezdje gyalog a városközpontban, fedezze fel Tyholment, Pollent és a KUBEN Múzeumot. Ebéd után egy busz elviszi a csendes Hisøy szigetére. A délután fénypontja egy kompút az autómentes Merdø szigetre. Itt pihenhet a strandokon és sétálhat a festői tájakon. A komppal és busszal a központba való visszatérés zárja a változatos napot.",
+        "ro": "Cu transportul public, explorați Arendal în clustere. Începeți pe jos în centrul orașului, descoperind Tyholmen, Pollen și Muzeul KUBEN. După prânz, un autobuz vă duce pe liniștita insulă Hisøy. Punctul culminant al după-amiezii este o călătorie cu feribotul spre insula fără mașini Merdø. Aici vă puteți relaxa pe plaje și vă puteți plimba prin peisaje pitorești. Călătoria de întoarcere în centru cu feribotul și autobuzul încheie o zi plină de varietate.",
+        "en": "Using public transport, you explore Arendal in clusters. Start on foot in the city center, discovering Tyholmen, Pollen, and the KUBEN Museum. After lunch, a bus takes you to the quiet Hisøy island. The highlight of the afternoon is a ferry trip to the car-free Merdø island. Here you can relax on beaches and wander through picturesque landscapes. The return journey to the center by ferry and bus concludes a varied day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckereien in der Nähe des Busbahnhofs",
+            "tip": "Perfekt für einen schnellen Kaffee und ein Gebäck, bevor es losgeht."
+          },
+          {
+            "name": "Café auf Merdø",
+            "tip": "Genießen Sie eine Waffel in ruhiger Inselatmosphäre."
+          },
+          {
+            "name": "Restaurants in Pollen",
+            "tip": "Große Auswahl für ein frühes Abendessen nach Ihrer Rückkehr ins Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek a buszpályaudvar közelében",
+            "tip": "Tökéletes egy gyors kávéra és süteményre indulás előtt."
+          },
+          {
+            "name": "Kávézó Merdø-n",
+            "tip": "Élvezzen egy gofrit a csendes szigeti hangulatban."
+          },
+          {
+            "name": "Éttermek Pollenben",
+            "tip": "Nagy választék egy korai vacsorához a központba való visszatérés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării lângă autogară",
+            "tip": "Perfect pentru o cafea rapidă și un produs de patiserie înainte de a porni."
+          },
+          {
+            "name": "Cafenea pe Merdø",
+            "tip": "Bucurați-vă de o vafă în atmosfera liniștită a insulei."
+          },
+          {
+            "name": "Restaurante în Pollen",
+            "tip": "O selecție largă pentru o cină timpurie după întoarcerea în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakeries near the bus terminal",
+            "tip": "Perfect for a quick coffee and pastry before you start."
+          },
+          {
+            "name": "Café on Merdø",
+            "tip": "Enjoy a waffle in the quiet island atmosphere."
+          },
+          {
+            "name": "Restaurants in Pollen",
+            "tip": "A wide selection for an early dinner after you return to the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Insel Merdø",
+            "tip": "Die ganze Insel ist eine Oase der Ruhe. Finden Sie einen abgelegenen Felsen am Meer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof der Hisøy Kirche",
+            "tip": "Ein friedlicher Ort mit alten Grabsteinen und Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Fährfahrt",
+            "tip": "Genießen Sie die Stille auf dem Wasser und die wechselnde Landschaft.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Merdø sziget",
+            "tip": "Az egész sziget a nyugalom oázisa. Keressen egy eldugott sziklát a tengernél.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Hisøy-templom temetője",
+            "tip": "Békés hely régi sírkövekkel és fákkal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kompút",
+            "tip": "Élvezze a csendet a vízen és a változó tájat.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Merdø",
+            "tip": "Întreaga insulă este o oază de liniște. Găsiți o stâncă izolată lângă mare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Bisericii Hisøy",
+            "tip": "Un loc pașnic cu pietre funerare vechi și copaci.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Călătoria cu feribotul",
+            "tip": "Bucurați-vă de liniștea de pe apă și de peisajul în schimbare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Merdø Island",
+            "tip": "The whole island is an oasis of calm. Find a secluded rock by the sea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hisøy Church cemetery",
+            "tip": "A peaceful place with old tombstones and trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ferry ride",
+            "tip": "Enjoy the quiet on the water and the changing scenery.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Fähranleger",
+            "tip": "Kaufen Sie eine Postkarte oder ein Eis, während Sie auf die Fähre warten."
+          },
+          {
+            "name": "Geschäfte im Stadtzentrum",
+            "tip": "Nutzen Sie die Zeit am Morgen, um in den Boutiquen von Tyholmen zu stöbern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a kompkikötőnél",
+            "tip": "Vásároljon egy képeslapot vagy egy fagyit, amíg a kompra vár."
+          },
+          {
+            "name": "Üzletek a városközpontban",
+            "tip": "Használja ki a reggeli időt, hogy böngésszen Tyholmen butikjaiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la terminalul de feribot",
+            "tip": "Cumpărați o carte poștală sau o înghețată în timp ce așteptați feribotul."
+          },
+          {
+            "name": "Magazine în centrul orașului",
+            "tip": "Folosiți timpul de dimineață pentru a răsfoi buticurile din Tyholmen."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the ferry pier",
+            "tip": "Buy a postcard or an ice cream while waiting for the ferry."
+          },
+          {
+            "name": "Shops in the city center",
+            "tip": "Use the time in the morning to browse the boutiques in Tyholmen."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, die oft auch für einige Fähren gilt.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Planen Sie Pufferzeiten für Bus- und Fährverbindungen ein.",
+          "Die letzte Fähre von Merdø fährt relativ früh, verpassen Sie sie nicht!"
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, amely gyakran érvényes néhány kompra is.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "Tervezzen pufferidőt a busz- és komp-csatlakozásokhoz.",
+          "Az utolsó komp Merdø-ról viszonylag korán indul, ne hagyja ki!"
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, care este adesea valabil și pentru unele feriboturi.",
+          "Descărcați aplicația locală de transport public pentru a vedea orarele și rutele în timp real.",
+          "Planificați timp tampon pentru conexiunile de autobuz și feribot.",
+          "Ultimul feribot din Merdø pleacă relativ devreme, nu-l ratați!"
+        ],
+        "en": [
+          "Buy a day pass for the bus, which often is also valid for some ferries.",
+          "Download the local public transport app to see real-time schedules and routes.",
+          "Plan for buffer time for bus and ferry connections.",
+          "The last ferry from Merdø leaves relatively early, don't miss it!"
+        ]
+      }
+    }
+  }
+}

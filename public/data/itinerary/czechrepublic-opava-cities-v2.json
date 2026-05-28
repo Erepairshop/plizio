@@ -1,0 +1,1436 @@
+{
+  "city_id": "czechrepublic-opava-cities-v2",
+  "anchor": {
+    "name": "Troppau",
+    "coords": [
+      17.9026,
+      49.9387
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Oberer Platz (Horní náměstí)",
+            "hu": "Felső tér (Horní náměstí)",
+            "ro": "Piața de Sus (Horní náměstí)",
+            "en": "Upper Square (Horní náměstí)"
+          },
+          "coords": [
+            17.9028,
+            49.9386
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mischung aus Gotik, Barock und Jugendstil der umliegenden Gebäude.",
+            "hu": "Csodálja meg a környező épületek gótikus, barokk és szecessziós stílusának keverékét.",
+            "ro": "Admirați amestecul de stiluri gotic, baroc și Art Nouveau al clădirilor înconjurătoare.",
+            "en": "Admire the mix of Gothic, Baroque, and Art Nouveau styles of the surrounding buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Hláska (Rathausturm)",
+            "hu": "Hláska (Városháza tornya)",
+            "ro": "Hláska (Turnul Primăriei)",
+            "en": "Hláska (Town Hall Tower)"
+          },
+          "coords": [
+            17.9025,
+            49.9381
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:41",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den besten Panoramablick über die Dächer von Opava.",
+            "hu": "Megéri felmászni a legjobb panorámáért Opava háztetői felett.",
+            "ro": "Urcarea merită pentru cea mai bună vedere panoramică asupra acoperișurilor din Opava.",
+            "en": "The climb is worth it for the best panoramic view over the rooftops of Opava."
+          }
+        },
+        {
+          "name": {
+            "de": "Konkathedrale Mariä Himmelfahrt",
+            "hu": "Mária Mennybemenetele társszékesegyház",
+            "ro": "Co-catedrala Adormirea Maicii Domnului",
+            "en": "Co-Cathedral of the Assumption of the Virgin Mary"
+          },
+          "coords": [
+            17.9044,
+            49.9392
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:14",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden gotischen Ziegelbauten, untypisch für diese Region.",
+            "hu": "Figyelje meg a lenyűgöző gótikus téglaszerkezetet, amely atipikus ebben a régióban.",
+            "ro": "Observați impresionanta structură gotică din cărămidă, atipică pentru această regiune.",
+            "en": "Look for the impressive Gothic brick structure, atypical for this region."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesisches Theater Opava",
+            "hu": "Sziléziai Színház Opava",
+            "ro": "Teatrul Silezian din Opava",
+            "en": "Silesian Theatre Opava"
+          },
+          "coords": [
+            17.9015,
+            49.9395
+          ],
+          "category": "landmark",
+          "arrive_at": "11:39",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Fotopunkt. Überprüfen Sie das Abendprogramm für eine mögliche Vorstellung.",
+            "hu": "Tökéletes fotóhelyszín. Ellenőrizze az esti programot egy lehetséges előadásért.",
+            "ro": "Loc perfect pentru fotografii. Verificați programul de seară pentru un posibil spectacol.",
+            "en": "Perfect photo spot. Check the evening program for a possible performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            17.9022,
+            49.9375
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Restaurant in der Nähe des Oberen Platzes.",
+            "hu": "Próbáljon ki egy helyi éttermet a Felső tér közelében.",
+            "ro": "Încercați un restaurant local lângă Piața de Sus.",
+            "en": "Try a local restaurant near the Upper Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesisches Landesmuseum",
+            "hu": "Sziléziai Tartományi Múzeum",
+            "ro": "Muzeul Regional Silezian",
+            "en": "Silesian Regional Museum"
+          },
+          "coords": [
+            17.8981,
+            49.9405
+          ],
+          "category": "museums",
+          "arrive_at": "13:59",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Dies ist das älteste Museum in der Tschechischen Republik, nehmen Sie sich Zeit für die Ausstellungen.",
+            "hu": "Ez Csehország legrégebbi múzeuma, szánjon időt a kiállításokra.",
+            "ro": "Acesta este cel mai vechi muzeu din Republica Cehă, acordați-vă timp pentru expoziții.",
+            "en": "This is the oldest museum in the Czech Republic, take your time for the exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Kreuz-Kapelle",
+            "hu": "Szent Kereszt-kápolna",
+            "ro": "Capela Sfintei Cruci",
+            "en": "Chapel of the Holy Cross"
+          },
+          "coords": [
+            17.9061,
+            49.9411
+          ],
+          "category": "churches",
+          "arrive_at": "15:53",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um die Tour abzuschließen, bekannt für seine Verbindung zum Deutschen Orden.",
+            "hu": "Egy csendes hely a túra befejezéséhez, ismert a Német Lovagrenddel való kapcsolatáról.",
+            "ro": "Un loc liniștit pentru a încheia turul, cunoscut pentru legătura sa cu Ordinul Teutonic.",
+            "en": "A quiet place to conclude the tour, known for its connection to the Teutonic Knights."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Opava am Oberen Platz. Nach dem Aufstieg auf den Rathausturm für eine Vogelperspektive, tauchen Sie in die gotische Pracht der Konkathedrale ein. Am Nachmittag schlendern Sie zum prachtvollen Theater und genießen ein lokales Mittagessen. Der Nachmittag ist der reichen Geschichte im Schlesischen Landesmuseum gewidmet, dem ältesten Museum des Landes. Beenden Sie Ihren Tag mit einem Moment der Besinnung in der Heilig-Kreuz-Kapelle und genießen Sie die ruhige Atmosphäre.",
+        "hu": "Kezdje a napot Opava szívében, a Felső téren. Miután megmászta a Városháza tornyát a madártávlati kilátásért, merüljön el a társszékesegyház gótikus pompájában. Délután sétáljon el a csodálatos színházhoz, és fogyasszon el egy helyi ebédet. A délutánt a gazdag történelemnek szentelje az ország legrégebbi múzeumában, a Sziléziai Tartományi Múzeumban. Zárja a napot egy elmélkedő pillanattal a Szent Kereszt-kápolnában, élvezve a csendes légkört.",
+        "ro": "Începeți ziua în inima orașului Opava, în Piața de Sus. După ce urcați în Turnul Primăriei pentru o vedere panoramică, scufundați-vă în splendoarea gotică a Co-catedralei. La prânz, plimbați-vă la magnificul teatru și savurați un prânz local. După-amiaza este dedicată istoriei bogate la Muzeul Regional Silezian, cel mai vechi muzeu din țară. Încheiați ziua cu un moment de reflecție la Capela Sfintei Cruci, bucurându-vă de atmosfera liniștită.",
+        "en": "Start your day in the heart of Opava at the Upper Square. After climbing the Town Hall Tower for a bird's-eye view, immerse yourself in the Gothic splendor of the Co-Cathedral. At noon, stroll to the magnificent theatre and enjoy a local lunch. The afternoon is dedicated to the rich history in the Silesian Regional Museum, the oldest museum in the country. End your day with a moment of reflection at the Chapel of the Holy Cross, enjoying the quiet atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schlesische Knödel (Kluski śląskie)",
+            "tip": "Herzhafte Kartoffelknödel, oft mit Soße serviert."
+          },
+          {
+            "name": "Bier aus lokaler Brauerei",
+            "tip": "Probieren Sie ein frisches Bier von Zlatovar oder einer anderen lokalen Brauerei."
+          },
+          {
+            "name": "U Tří kohoutů Restaurant",
+            "tip": "Bekannt für traditionelle tschechische und schlesische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai gombóc (Kluski śląskie)",
+            "tip": "Kiados burgonyagombócok, gyakran mártással tálalva."
+          },
+          {
+            "name": "Helyi sörfőzde söre",
+            "tip": "Kóstoljon meg egy friss sört a Zlatovartól vagy más helyi sörfőzdétől."
+          },
+          {
+            "name": "U Tří kohoutů étterem",
+            "tip": "Hagyományos cseh és sziléziai konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Găluște sileziene (Kluski śląskie)",
+            "tip": "Găluște consistente din cartofi, adesea servite cu sos."
+          },
+          {
+            "name": "Bere de la o fabrică locală",
+            "tip": "Încercați o bere proaspătă de la Zlatovar sau altă fabrică locală."
+          },
+          {
+            "name": "Restaurantul U Tří kohoutů",
+            "tip": "Renumit pentru bucătăria tradițională cehă și sileziană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian Dumplings (Kluski śląskie)",
+            "tip": "Hearty potato dumplings, often served with gravy."
+          },
+          {
+            "name": "Beer from a local brewery",
+            "tip": "Try a fresh beer from Zlatovar or another local brewery."
+          },
+          {
+            "name": "U Tří kohoutů Restaurant",
+            "tip": "Known for traditional Czech and Silesian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark (Městské sady)",
+            "tip": "Ein großer, ruhiger Park, ideal für einen entspannten Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Flussufer der Opava",
+            "tip": "Finden Sie eine Bank am Fluss und beobachten Sie das Wasser.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hof der Heilig-Kreuz-Kapelle",
+            "tip": "Ein abgeschiedener Ort für einen Moment der Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park (Městské sady)",
+            "tip": "Nagy, csendes park, ideális egy pihentető sétához."
+          },
+          {
+            "name": "Opava folyó partja",
+            "tip": "Keressen egy padot a folyóparton, és nézze a vizet."
+          },
+          {
+            "name": "Szent Kereszt-kápolna udvara",
+            "tip": "Elzárt hely egy csendes pillanathoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului (Městské sady)",
+            "tip": "Un parc mare și liniștit, ideal pentru o plimbare relaxantă."
+          },
+          {
+            "name": "Malul râului Opava",
+            "tip": "Găsiți o bancă pe malul râului și priviți apa."
+          },
+          {
+            "name": "Curtea Capelei Sfintei Cruci",
+            "tip": "Un loc retras pentru un moment de liniște."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park (Městské sady)",
+            "tip": "A large, quiet park, ideal for a relaxing walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Opava River",
+            "tip": "Find a bench by the river and watch the water.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of the Chapel of the Holy Cross",
+            "tip": "A secluded spot for a moment of silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Souvenirläden",
+            "tip": "In den Straßen rund um den Oberen Platz finden Sie Andenken."
+          },
+          {
+            "name": "Breda & Weinstein Einkaufszentrum",
+            "tip": "Für eine moderne Shopping-Erfahrung mit bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi ajándékboltok",
+            "tip": "A Felső tér körüli utcákban talál emléktárgyakat."
+          },
+          {
+            "name": "Breda & Weinstein bevásárlóközpont",
+            "tip": "Modern vásárlási élményért ismert márkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de suveniruri",
+            "tip": "Pe străzile din jurul Pieței de Sus veți găsi suveniruri."
+          },
+          {
+            "name": "Centrul Comercial Breda & Weinstein",
+            "tip": "Pentru o experiență modernă de cumpărături cu mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Souvenir Shops",
+            "tip": "Find keepsakes on the streets around the Upper Square."
+          },
+          {
+            "name": "Breda & Weinstein Shopping Centre",
+            "tip": "For a modern shopping experience with well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster im Stadtzentrum uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Halten Sie eine Kamera für die vielfältige Architektur bereit.",
+          "Planen Sie zusätzliche Zeit für das Schlesische Museum ein, es ist größer als es scheint."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a belvárosi macskakövek egyenetlenek lehetnek.",
+          "A központ legtöbb látnivalója könnyen elérhető gyalog.",
+          "Készítsen elő egy fényképezőgépet a változatos építészet megörökítéséhez.",
+          "Szánjon több időt a Sziléziai Múzeumra, nagyobb, mint amilyennek látszik."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul din centrul orașului poate fi denivelat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Pregătiți o cameră foto pentru arhitectura diversă.",
+          "Planificați timp suplimentar pentru Muzeul Silezian, este mai mare decât pare."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the city center can be uneven.",
+          "Most sights in the center are easily within walking distance.",
+          "Keep a camera ready for the diverse architecture.",
+          "Plan extra time for the Silesian Museum; it's larger than it appears."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Oberer Platz (Horní náměstí)",
+            "hu": "Felső tér (Horní náměstí)",
+            "ro": "Piața de Sus (Horní náměstí)",
+            "en": "Upper Square (Horní náměstí)"
+          },
+          "coords": [
+            17.9028,
+            49.9386
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier Ihre Tour und mieten Sie bei Bedarf ein Fahrrad in der Nähe.",
+            "hu": "Itt kezdje a túrát, és ha szükséges, béreljen kerékpárt a közelben.",
+            "ro": "Începeți turul aici și închiriați o bicicletă din apropiere, dacă este necesar.",
+            "en": "Start your tour here and rent a bike nearby if needed."
+          }
+        },
+        {
+          "name": {
+            "de": "Konkathedrale Mariä Himmelfahrt",
+            "hu": "Mária Mennybemenetele társszékesegyház",
+            "ro": "Co-catedrala Adormirea Maicii Domnului",
+            "en": "Co-Cathedral of the Assumption of the Virgin Mary"
+          },
+          "coords": [
+            17.9044,
+            49.9392
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die beeindruckende Backsteingotik bewundern.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt megcsodálná a lenyűgöző téglagótikát.",
+            "ro": "Asigurați-vă bicicleta înainte de a admira impresionanta arhitectură gotică din cărămidă.",
+            "en": "Lock your bike securely before admiring the impressive brick Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesisches Landesmuseum",
+            "hu": "Sziléziai Tartományi Múzeum",
+            "ro": "Muzeul Regional Silezian",
+            "en": "Silesian Regional Museum"
+          },
+          "coords": [
+            17.8981,
+            49.9405
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radfahren durch den angrenzenden Park ist eine gute Möglichkeit, hierher zu gelangen.",
+            "hu": "A szomszédos parkon keresztül kerékpározni remek módja az idejutásnak.",
+            "ro": "Mersul pe bicicletă prin parcul adiacent este o modalitate excelentă de a ajunge aici.",
+            "en": "Cycling through the adjacent park is a great way to get here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Fluss Opava",
+            "hu": "Ebéd az Opava folyó mellett",
+            "ro": "Prânz pe malul râului Opava",
+            "en": "Lunch by the Opava River"
+          },
+          "coords": [
+            17.8955,
+            49.9425
+          ],
+          "category": "gastro",
+          "arrive_at": "12:46",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Finden Sie ein Restaurant mit Terrasse für eine entspannte Mahlzeit.",
+            "hu": "Keressen egy teraszos éttermet egy pihentető étkezéshez.",
+            "ro": "Găsiți un restaurant cu terasă pentru o masă relaxantă.",
+            "en": "Find a restaurant with a terrace for a relaxed meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt durch den Stadtpark (Městské sady)",
+            "hu": "Kerékpártúra a Városi parkon (Městské sady) keresztül",
+            "ro": "Plimbare cu bicicleta prin Parcul Orașului (Městské sady)",
+            "en": "Ride through the City Park (Městské sady)"
+          },
+          "coords": [
+            17.889,
+            49.935
+          ],
+          "category": "park",
+          "arrive_at": "14:24",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Radwege und die grüne Landschaft dieses ausgedehnten Parks.",
+            "hu": "Élvezze a kerékpárutakat és a zöld tájat ebben a kiterjedt parkban.",
+            "ro": "Bucurați-vă de pistele de biciclete și de peisajul verde al acestui parc extins.",
+            "en": "Enjoy the bike paths and green scenery of this extensive park."
+          }
+        },
+        {
+          "name": {
+            "de": "Gemeindehaus (Obecní dům)",
+            "hu": "Közösségi Ház (Obecní dům)",
+            "ro": "Casa Municipală (Obecní dům)",
+            "en": "Municipal House (Obecní dům)"
+          },
+          "coords": [
+            17.9011,
+            49.9366
+          ],
+          "arrive_at": "15:54",
+          "category": "landmark",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein prächtiges Jugendstilgebäude, das das Ende Ihrer Radtour markiert.",
+            "hu": "Egy csodálatos szecessziós épület, amely a kerékpártúra végét jelzi.",
+            "ro": "O clădire magnifică în stil Art Nouveau care marchează sfârșitul turului cu bicicleta.",
+            "en": "A magnificent Art Nouveau building that marks the end of your bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Oberen Platz. Ihre erste Etappe führt Sie zur imposanten Konkathedrale. Weiter geht es zum Schlesischen Landesmuseum, dem ältesten Museum Tschechiens, umgeben von Parkanlagen. Gönnen Sie sich ein Mittagessen am Flussufer der Opava, bevor Sie eine entspannte Runde durch den weitläufigen Stadtpark drehen. Beenden Sie Ihre Tour mit der Bewunderung des Jugendstil-Gemeindehauses, einem architektonischen Juwel der Stadt.",
+        "hu": "Pattanjon kerékpárra, és induljon a Felső térről. Az első szakasz a lenyűgöző társszékesegyházhoz vezet. Tovább a Sziléziai Tartományi Múzeumhoz, Csehország legrégebbi múzeumához, amelyet parkok vesznek körül. Ebédeljen az Opava folyó partján, mielőtt egy pihentető kört tesz a tágas Városi parkban. Fejezze be a túrát a szecessziós Közösségi Ház megcsodálásával, a város építészeti gyöngyszemével.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața de Sus. Prima oprire vă duce la impunătoarea Co-catedrală. Continuați spre Muzeul Regional Silezian, cel mai vechi muzeu din Cehia, înconjurat de parcuri. Bucurați-vă de un prânz pe malul râului Opava înainte de a face o plimbare relaxantă prin vastul Parc al Orașului. Încheiați turul admirând Casa Municipală în stil Art Nouveau, o bijuterie arhitecturală a orașului.",
+        "en": "Get on your bike and start from the Upper Square. Your first leg takes you to the imposing Co-Cathedral. Continue to the Silesian Regional Museum, the oldest museum in the Czech Republic, surrounded by parks. Enjoy lunch on the banks of the Opava River before taking a relaxing ride through the expansive City Park. End your tour by admiring the Art Nouveau Municipal House, an architectural gem of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pivní bar U dvou ocásků",
+            "tip": "Große Auswahl an Craft-Bieren und kleinen Snacks."
+          },
+          {
+            "name": "Smažený sýr",
+            "tip": "Ein tschechischer Klassiker – panierter und gebratener Käse, perfekt für eine schnelle Mahlzeit."
+          },
+          {
+            "name": "Restaurace Nová Sladovna",
+            "tip": "Moderne Küche in einer alten Mälzerei, mit gutem Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pivní bar U dvou ocásků",
+            "tip": "Kézműves sörök és harapnivalók széles választéka."
+          },
+          {
+            "name": "Smažený sýr (rántott sajt)",
+            "tip": "Cseh klasszikus – rántott sajt, tökéletes egy gyors étkezéshez."
+          },
+          {
+            "name": "Nová Sladovna étterem",
+            "tip": "Modern konyha egy régi malátázóban, jó sörrel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pivní bar U dvou ocásků",
+            "tip": "Selecție largă de beri artizanale și gustări mici."
+          },
+          {
+            "name": "Smažený sýr (Cașcaval pane)",
+            "tip": "Un clasic ceh – cașcaval pane, perfect pentru o masă rapidă."
+          },
+          {
+            "name": "Restaurantul Nová Sladovna",
+            "tip": "Bucătărie modernă într-o veche malterie, cu bere bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pivní bar U dvou ocásků",
+            "tip": "Wide selection of craft beers and small snacks."
+          },
+          {
+            "name": "Smažený sýr (Fried cheese)",
+            "tip": "A Czech classic – breaded and fried cheese, perfect for a quick meal."
+          },
+          {
+            "name": "Nová Sladovna Restaurant",
+            "tip": "Modern cuisine in an old malt house, with good beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stříbrné jezero (Silbersee)",
+            "tip": "Ein beliebter Badesee am Stadtrand, perfekt für eine ruhige Pause.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Radweg entlang der Opava",
+            "tip": "Folgen Sie dem Fluss aus der Stadt heraus für eine ruhige Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Ein kleiner, friedlicher Garten zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stříbrné jezero (Ezüst-tó)",
+            "tip": "Népszerű fürdőtó a város szélén, tökéletes egy csendes szünethez."
+          },
+          {
+            "name": "Kerékpárút az Opava mentén",
+            "tip": "Kövesse a folyót kifelé a városból egy csendes tekerésért."
+          },
+          {
+            "name": "Botanikus kert",
+            "tip": "Kicsi, békés kert a pihenéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stříbrné jezero (Lacul de Argint)",
+            "tip": "Un lac popular pentru înot la marginea orașului, perfect pentru o pauză liniștită."
+          },
+          {
+            "name": "Pista de biciclete de-a lungul râului Opava",
+            "tip": "Urmați râul în afara orașului pentru o plimbare liniștită."
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "O grădină mică și pașnică pentru relaxare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stříbrné jezero (Silver Lake)",
+            "tip": "A popular swimming lake on the outskirts of the city, perfect for a quiet break.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bike path along the Opava River",
+            "tip": "Follow the river out of the city for a peaceful ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "A small, peaceful garden for relaxation.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt (Tržnice)",
+            "tip": "Finden Sie frische Produkte und lokale Spezialitäten."
+          },
+          {
+            "name": "Opavský páv",
+            "tip": "Ein Geschäft mit originellen Geschenken und Designs von lokalen Künstlern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac (Tržnice)",
+            "tip": "Találjon friss termékeket és helyi különlegességeket."
+          },
+          {
+            "name": "Opavský páv",
+            "tip": "Eredeti ajándékokat és helyi művészek terveit kínáló bolt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața agroalimentară (Tržnice)",
+            "tip": "Găsiți produse proaspete și specialități locale."
+          },
+          {
+            "name": "Opavský páv",
+            "tip": "Un magazin cu cadouri originale și design-uri de la artiști locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmer's Market (Tržnice)",
+            "tip": "Find fresh produce and local specialties."
+          },
+          {
+            "name": "Opavský páv",
+            "tip": "A shop with original gifts and designs from local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand der Radwege, besonders nach schlechtem Wetter.",
+          "Schließen Sie Ihr Fahrrad immer an festen Objekten ab.",
+          "Opava ist relativ flach, was das Radfahren angenehm macht.",
+          "Nutzen Sie die Radwege entlang des Flusses für eine landschaftlich reizvolle und verkehrsfreie Fahrt."
+        ],
+        "hu": [
+          "Ellenőrizze a kerékpárutak állapotát, különösen rossz időjárás után.",
+          "Mindig zárja le a kerékpárját szilárd tárgyakhoz.",
+          "Opava viszonylag sík, ami kellemessé teszi a kerékpározást.",
+          "Használja a folyó menti kerékpárutakat egy festői és forgalommentes úthoz."
+        ],
+        "ro": [
+          "Verificați starea pistelor de biciclete, mai ales după vreme rea.",
+          "Legați întotdeauna bicicleta de obiecte fixe.",
+          "Opava este relativ plată, ceea ce face ciclismul plăcut.",
+          "Folosiți pistele de biciclete de-a lungul râului pentru o plimbare pitorească și fără trafic."
+        ],
+        "en": [
+          "Check the condition of the bike paths, especially after bad weather.",
+          "Always lock your bike to fixed objects.",
+          "Opava is relatively flat, which makes cycling pleasant.",
+          "Use the bike paths along the river for a scenic and traffic-free ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Start am Schlesischen Landesmuseum",
+            "hu": "Parkolás és indulás a Sziléziai Tartományi Múzeumnál",
+            "ro": "Parcare și start la Muzeul Regional Silezian",
+            "en": "Park and Start at the Silesian Regional Museum"
+          },
+          "coords": [
+            17.8981,
+            49.9405
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie mit dem ältesten Museum Tschechiens.",
+            "hu": "Parkoljon itt, és kezdje Csehország legrégebbi múzeumával.",
+            "ro": "Parcați aici și începeți cu cel mai vechi muzeu din Cehia.",
+            "en": "Park here and start with the oldest museum in the Czech Republic."
+          }
+        },
+        {
+          "name": {
+            "de": "Konkathedrale Mariä Himmelfahrt",
+            "hu": "Mária Mennybemenetele társszékesegyház",
+            "ro": "Co-catedrala Adormirea Maicii Domnului",
+            "en": "Co-Cathedral of the Assumption of the Virgin Mary"
+          },
+          "coords": [
+            17.9044,
+            49.9392
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zu diesem gotischen Backsteinwunder.",
+            "hu": "Rövid séta a múzeumtól ehhez a gótikus tégla csodához.",
+            "ro": "O scurtă plimbare de la muzeu la această minune gotică din cărămidă.",
+            "en": "A short walk from the museum to this Gothic brick wonder."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberer Platz & Rathausturm",
+            "hu": "Felső tér és Városháza tornya",
+            "ro": "Piața de Sus și Turnul Primăriei",
+            "en": "Upper Square & Town Hall Tower"
+          },
+          "coords": [
+            17.9025,
+            49.9381
+          ],
+          "category": "square",
+          "arrive_at": "12:16",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre des Hauptplatzes und besteigen Sie den Turm für die Aussicht.",
+            "hu": "Élvezze a főtér hangulatát, és másszon fel a toronyba a kilátásért.",
+            "ro": "Bucurați-vă de atmosfera pieței principale și urcați în turn pentru priveliște.",
+            "en": "Enjoy the atmosphere of the main square and climb the tower for the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und zurück zum Auto",
+            "hu": "Ebéd és vissza az autóhoz",
+            "ro": "Prânz și înapoi la mașină",
+            "en": "Lunch and back to the car"
+          },
+          "coords": [
+            17.9001,
+            49.9399
+          ],
+          "category": "gastro",
+          "arrive_at": "13:14",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant auf dem Weg zurück zum Parkplatz am Museum.",
+            "hu": "Válasszon egy éttermet a múzeumi parkoló felé vezető úton.",
+            "ro": "Alegeți un restaurant în drum spre parcare de la muzeu.",
+            "en": "Choose a restaurant on your way back to the parking lot at the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Hradec nad Moravicí Schloss",
+            "hu": "Utazás a Hradec nad Moravicí kastélyhoz",
+            "ro": "Călătorie la Castelul Hradec nad Moravicí",
+            "en": "Drive to Hradec nad Moravicí Castle"
+          },
+          "coords": [
+            17.8736,
+            49.8652
+          ],
+          "category": "castles",
+          "arrive_at": "15:04",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.0,
+          "tip_5lang": {
+            "de": "Ein malerisches Schloss südlich von Opava, die kurze Fahrt absolut wert.",
+            "hu": "Egy festői kastély Opavától délre, abszolút megéri a rövid utat.",
+            "ro": "Un castel pitoresc la sud de Opava, merită din plin scurta călătorie.",
+            "en": "A picturesque castle south of Opava, absolutely worth the short drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Schlosspark",
+            "hu": "Séta a kastélyparkban",
+            "ro": "Plimbare în parcul castelului",
+            "en": "Walk in the Castle Park"
+          },
+          "coords": [
+            17.8751,
+            49.8645
+          ],
+          "category": "park",
+          "arrive_at": "16:25",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach der Schlossbesichtigung im weitläufigen englischen Garten.",
+            "hu": "Pihenjen a kastélylátogatás után a tágas angolkertben.",
+            "ro": "Relaxați-vă în grădina engleză extinsă după vizitarea castelului.",
+            "en": "Relax in the extensive English garden after visiting the castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto in der Nähe des Schlesischen Landesmuseums und beginnen Sie den Tag mit Kultur (Cluster 1). Schlendern Sie von dort zur Konkathedrale und zum belebten Oberen Platz, wo Sie den Rathausturm besteigen. Nach einem gemütlichen Mittagessen im Stadtzentrum kehren Sie zum Auto zurück. Am Nachmittag fahren Sie zum märchenhaften Schloss Hradec nad Moravicí (Cluster 2). Erkunden Sie die prunkvollen Innenräume und beenden Sie den Tag mit einem entspannten Spaziergang durch den weitläufigen Schlosspark.",
+        "hu": "Parkolja le autóját a Sziléziai Tartományi Múzeum közelében, és kezdje a napot kultúrával (1. csoport). Sétáljon onnan a társszékesegyházhoz és a nyüzsgő Felső térre, ahol megmászhatja a Városháza tornyát. Egy kellemes belvárosi ebéd után térjen vissza az autóhoz. Délután vezessen el a mesebeli Hradec nad Moravicí kastélyhoz (2. csoport). Fedezze fel a pazar belső tereket, és fejezze be a napot egy pihentető sétával a tágas kastélyparkban.",
+        "ro": "Parcați mașina lângă Muzeul Regional Silezian și începeți ziua cu cultură (Cluster 1). De acolo, plimbați-vă la Co-catedrală și la animata Piață de Sus, unde puteți urca în Turnul Primăriei. După un prânz relaxant în centrul orașului, reveniți la mașină. După-amiaza, conduceți la castelul de basm Hradec nad Moravicí (Cluster 2). Explorați interioarele somptuoase și încheiați ziua cu o plimbare relaxantă prin parcul extins al castelului.",
+        "en": "Park your car near the Silesian Regional Museum and start the day with culture (Cluster 1). From there, stroll to the Co-Cathedral and the bustling Upper Square, where you can climb the Town Hall Tower. After a leisurely lunch in the city center, return to your car. In the afternoon, drive to the fairytale-like Hradec nad Moravicí Castle (Cluster 2). Explore the opulent interiors and end the day with a relaxing walk through the extensive castle park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurace Zámecký mlýn (Hradec)",
+            "tip": "Speisen Sie in einer alten Mühle in der Nähe des Schlosses Hradec."
+          },
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Lendenbraten in Sahnesoße, ein Muss in der tschechischen Küche."
+          },
+          {
+            "name": "Kavárna Obecní dům",
+            "tip": "Genießen Sie Kaffee und Kuchen in einem eleganten Jugendstil-Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zámecký mlýn étterem (Hradec)",
+            "tip": "Étkezzen egy régi malomban a Hradec kastély közelében."
+          },
+          {
+            "name": "Svíčková na smetaně (vadas marha)",
+            "tip": "Tejszínes mártásban párolt marhaszelet, a cseh konyha kihagyhatatlan fogása."
+          },
+          {
+            "name": "Obecní dům kávézó",
+            "tip": "Élvezzen egy kávét és süteményt egy elegáns szecessziós kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Zámecký mlýn (Hradec)",
+            "tip": "Luați masa într-o moară veche de lângă Castelul Hradec."
+          },
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Friptură de vită în sos de smântână, un preparat obligatoriu în bucătăria cehă."
+          },
+          {
+            "name": "Cafeneaua Obecní dům",
+            "tip": "Savurați o cafea și o prăjitură într-o cafenea elegantă în stil Art Nouveau."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zámecký mlýn Restaurant (Hradec)",
+            "tip": "Dine in an old mill near Hradec Castle."
+          },
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Sirloin in cream sauce, a must-try in Czech cuisine."
+          },
+          {
+            "name": "Obecní dům Café",
+            "tip": "Enjoy coffee and cake in an elegant Art Nouveau café."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Weißer Turm (Hradec)",
+            "tip": "Genießen Sie die Aussicht vom Turm des Schlosses Hradec.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Flusstal der Moravice",
+            "tip": "Ein ruhiges Tal, ideal für Naturliebhaber und Wanderer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arboretum Nový Dvůr",
+            "tip": "Ein kurzer Abstecher mit dem Auto zu einem wunderschönen botanischen Garten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fehér-torony kilátó (Hradec)",
+            "tip": "Élvezze a kilátást a Hradec kastély tornyából."
+          },
+          {
+            "name": "Moravice folyó völgye",
+            "tip": "Csendes völgy, ideális a természetbarátoknak és túrázóknak."
+          },
+          {
+            "name": "Nový Dvůr Arborétum",
+            "tip": "Rövid autós kitérő egy gyönyörű botanikus kerthez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Turnul Alb (Hradec)",
+            "tip": "Bucurați-vă de priveliștea din turnul Castelului Hradec."
+          },
+          {
+            "name": "Valea râului Moravice",
+            "tip": "O vale liniștită, ideală pentru iubitorii de natură și drumeții."
+          },
+          {
+            "name": "Arboretul Nový Dvůr",
+            "tip": "O scurtă deviere cu mașina către o superbă grădină botanică."
+          }
+        ],
+        "en": [
+          {
+            "name": "White Tower Viewpoint (Hradec)",
+            "tip": "Enjoy the view from the tower of Hradec Castle.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Valley of the Moravice River",
+            "tip": "A quiet valley, ideal for nature lovers and hikers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arboretum Nový Dvůr",
+            "tip": "A short car detour to a beautiful botanical garden.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schloss-Souvenirladen (Hradec)",
+            "tip": "Kaufen Sie ein Andenken an Ihren Besuch im Schloss Hradec."
+          },
+          {
+            "name": "Regionale Produkte auf dem Weg",
+            "tip": "Halten Sie Ausschau nach Hofläden mit lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastély ajándékboltja (Hradec)",
+            "tip": "Vásároljon emléket a Hradec kastélyban tett látogatásáról."
+          },
+          {
+            "name": "Helyi termékek útközben",
+            "tip": "Keresse a helyi termékeket kínáló gazdaságok boltjait."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri al castelului (Hradec)",
+            "tip": "Cumpărați un suvenir al vizitei la Castelul Hradec."
+          },
+          {
+            "name": "Produse regionale pe drum",
+            "tip": "Fiți atenți la magazinele fermelor cu produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Souvenir Shop (Hradec)",
+            "tip": "Buy a memento of your visit to Hradec Castle."
+          },
+          {
+            "name": "Regional products on the way",
+            "tip": "Look out for farm shops with local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus, besonders im Stadtzentrum.",
+          "Die Straßen können eng sein, fahren Sie vorsichtig.",
+          "Ein GPS ist für die Fahrt zum Schloss Hradec nad Moravicí nützlich.",
+          "Planen Sie genügend Zeit für die Fahrt zwischen Opava und Hradec ein."
+        ],
+        "hu": [
+          "Ellenőrizze előre a parkolási lehetőségeket és díjakat, különösen a városközpontban.",
+          "Az utcák szűkek lehetnek, vezessen óvatosan.",
+          "GPS hasznos a Hradec nad Moravicí kastélyhoz vezető úton.",
+          "Tervezzen elegendő időt az Opava és Hradec közötti utazásra."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele în avans, în special în centrul orașului.",
+          "Străzile pot fi înguste, conduceți cu prudență.",
+          "Un GPS este util pentru drumul spre Castelul Hradec nad Moravicí.",
+          "Planificați suficient timp pentru călătoria între Opava și Hradec."
+        ],
+        "en": [
+          "Check parking options and fees in advance, especially in the city center.",
+          "The streets can be narrow, drive carefully.",
+          "A GPS is useful for the drive to Hradec nad Moravicí Castle.",
+          "Plan enough time for the drive between Opava and Hradec."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Ostbahnhof (Opava východ)",
+            "hu": "Érkezés a Keleti pályaudvarra (Opava východ)",
+            "ro": "Sosire la Gara de Est (Opava východ)",
+            "en": "Arrival at East Station (Opava východ)"
+          },
+          "coords": [
+            17.9155,
+            49.9351
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr für die beste Flexibilität.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez a legjobb rugalmasság érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public pentru cea mai bună flexibilitate.",
+            "en": "Buy a day pass for public transport for the best flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Stadtzentrum (Cluster 1)",
+            "hu": "Utazás a városközpontba (1. csoport)",
+            "ro": "Călătorie spre centrul orașului (Cluster 1)",
+            "en": "Ride to the City Center (Cluster 1)"
+          },
+          "coords": [
+            17.903,
+            49.9385
+          ],
+          "category": "square",
+          "arrive_at": "09:30",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Steigen Sie in der Nähe des Oberen Platzes aus, um Ihre Erkundung zu beginnen.",
+            "hu": "Szálljon le a Felső tér közelében, hogy megkezdje a felfedezést.",
+            "ro": "Coborâți lângă Piața de Sus pentru a începe explorarea.",
+            "en": "Get off near the Upper Square to start your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Konkathedrale und Rathausturm",
+            "hu": "Társszékesegyház és Városháza tornya",
+            "ro": "Co-catedrala și Turnul Primăriei",
+            "en": "Co-Cathedral and Town Hall Tower"
+          },
+          "coords": [
+            17.904,
+            49.939
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:01",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese beiden Hauptsehenswürdigkeiten liegen nur wenige Gehminuten voneinander entfernt.",
+            "hu": "Ez a két fő látnivaló csak néhány perc sétára van egymástól.",
+            "ro": "Aceste două atracții principale sunt la doar câteva minute de mers pe jos una de cealaltă.",
+            "en": "These two main sights are just a few minutes' walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Fahrt zum Museum (Cluster 2)",
+            "hu": "Ebéd és utazás a múzeumhoz (2. csoport)",
+            "ro": "Prânz și călătorie la muzeu (Cluster 2)",
+            "en": "Lunch and ride to the Museum (Cluster 2)"
+          },
+          "coords": [
+            17.9022,
+            49.9375
+          ],
+          "category": "gastro",
+          "arrive_at": "11:41",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit, bevor Sie den Bus zum Schlesischen Museum nehmen.",
+            "hu": "Fogyasszon el egy ebédet, mielőtt busszal menne a Sziléziai Múzeumhoz.",
+            "ro": "Savurați o masă înainte de a lua autobuzul spre Muzeul Silezian.",
+            "en": "Enjoy a meal before taking the bus to the Silesian Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesisches Landesmuseum",
+            "hu": "Sziléziai Tartományi Múzeum",
+            "ro": "Muzeul Regional Silezian",
+            "en": "Silesian Regional Museum"
+          },
+          "coords": [
+            17.8981,
+            49.9405
+          ],
+          "category": "museums",
+          "arrive_at": "13:11",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der Bus hält direkt vor dem Museum, was den Zugang sehr einfach macht.",
+            "hu": "A busz közvetlenül a múzeum előtt áll meg, így a megközelítés nagyon egyszerű.",
+            "ro": "Autobuzul oprește chiar în fața muzeului, făcând accesul foarte ușor.",
+            "en": "The bus stops right in front of the museum, making access very easy."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Schlesischen Theater",
+            "hu": "Séta a Sziléziai Színházhoz",
+            "ro": "Plimbare la Teatrul Silezian",
+            "en": "Walk to the Silesian Theatre"
+          },
+          "coords": [
+            17.9015,
+            49.9395
+          ],
+          "category": "landmark",
+          "arrive_at": "15:17",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zurück Richtung Zentrum führt Sie zu diesem architektonischen Highlight.",
+            "hu": "Egy rövid séta vissza a központ felé elvezeti ehhez az építészeti gyöngyszemhez.",
+            "ro": "O scurtă plimbare înapoi spre centru vă va duce la acest punct culminant arhitectural.",
+            "en": "A short walk back towards the center will take you to this architectural highlight."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Reise am Ostbahnhof. Nehmen Sie einen Bus ins Herz der Stadt (Cluster 1) zum Oberen Platz. Erkunden Sie zu Fuß die nahegelegene Konkathedrale und den Rathausturm. Nach dem Mittagessen bringt Sie ein kurzer Bus-Hop zum Schlesischen Landesmuseum (Cluster 2) für einen tiefen Einblick in die Geschichte. Schließen Sie Ihren Rundgang mit einem Spaziergang zum eleganten Schlesischen Theater ab, bevor Sie die öffentlichen Verkehrsmittel für Ihre Rückreise nutzen.",
+        "hu": "Kezdje az utazást a Keleti pályaudvaron. Vegyen egy buszt a város szívébe (1. csoport) a Felső térre. Fedezze fel gyalog a közeli társszékesegyházat és a Városháza tornyát. Ebéd után egy rövid buszozás elviszi a Sziléziai Tartományi Múzeumhoz (2. csoport), hogy mélyebben megismerje a történelmet. Zárja a körtúrát egy sétával az elegáns Sziléziai Színházhoz, mielőtt a tömegközlekedést használná a visszaúthoz.",
+        "ro": "Începeți călătoria de la Gara de Est. Luați un autobuz spre inima orașului (Cluster 1) la Piața de Sus. Explorați pe jos Co-catedrala din apropiere și Turnul Primăriei. După prânz, un scurt drum cu autobuzul vă va duce la Muzeul Regional Silezian (Cluster 2) pentru o incursiune profundă în istorie. Încheiați turul cu o plimbare la elegantul Teatru Silezian înainte de a folosi transportul public pentru călătoria de întoarcere.",
+        "en": "Start your journey at the East Station. Take a bus to the heart of the city (Cluster 1) at the Upper Square. Explore the nearby Co-Cathedral and Town Hall Tower on foot. After lunch, a short bus hop will take you to the Silesian Regional Museum (Cluster 2) for a deep dive into history. Conclude your tour with a walk to the elegant Silesian Theatre before using public transport for your return journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro u Odboráře",
+            "tip": "Schnelles und günstiges tschechisches Mittagessen, beliebt bei Einheimischen."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Ein süßes Gebäck, das oft an Ständen im Stadtzentrum verkauft wird."
+          },
+          {
+            "name": "Restaurace Středověká krčma",
+            "tip": "Erleben Sie ein mittelalterliches Ambiente mit deftiger Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "U Odboráře bisztró",
+            "tip": "Gyors és olcsó cseh ebéd, a helyiek körében népszerű."
+          },
+          {
+            "name": "Trdelník (kürtőskalács)",
+            "tip": "Édes sütemény, amelyet gyakran árulnak a belvárosi standoknál."
+          },
+          {
+            "name": "Středověká krčma étterem",
+            "tip": "Élvezze a középkori hangulatot kiadós ételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro u Odboráře",
+            "tip": "Un prânz ceh rapid și ieftin, popular printre localnici."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Un produs de patiserie dulce, adesea vândut la standurile din centrul orașului."
+          },
+          {
+            "name": "Restaurantul Středověká krčma",
+            "tip": "Experimentați o atmosferă medievală cu bucătărie consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro u Odboráře",
+            "tip": "Quick and cheap Czech lunch, popular with locals."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "A sweet pastry often sold at stalls in the city center."
+          },
+          {
+            "name": "Středověká krčma Restaurant",
+            "tip": "Experience a medieval atmosphere with hearty cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lesen im Stadtpark",
+            "tip": "Finden Sie eine ruhige Bank im Městské sady und genießen Sie ein Buch.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof an der Heilig-Geist-Kirche",
+            "tip": "Ein historischer und ruhiger Ort zum Nachdenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Oberdeck eines Trolleybusses",
+            "tip": "Beobachten Sie die Stadt aus einer ruhigen Perspektive.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasás a Városi parkban",
+            "tip": "Keressen egy csendes padot a Městské sady-ban, és élvezzen egy könyvet."
+          },
+          {
+            "name": "A Szentlélek-templom melletti temető",
+            "tip": "Történelmi és csendes hely az elmélkedésre."
+          },
+          {
+            "name": "Egy trolibusz felső szintje",
+            "tip": "Figyelje a várost egy csendes perspektívából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Citind în Parcul Orașului",
+            "tip": "Găsiți o bancă liniștită în Městské sady și bucurați-vă de o carte."
+          },
+          {
+            "name": "Cimitirul de lângă Biserica Sf. Duh",
+            "tip": "Un loc istoric și liniștit pentru reflecție."
+          },
+          {
+            "name": "Etajul superior al unui troleibuz",
+            "tip": "Observați orașul dintr-o perspectivă liniștită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading in the City Park",
+            "tip": "Find a quiet bench in Městské sady and enjoy a book.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery at the Church of the Holy Spirit",
+            "tip": "A historic and quiet place for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Upper deck of a trolleybus",
+            "tip": "Observe the city from a quiet perspective.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquariate",
+            "tip": "Opava hat mehrere Antiquariate, in denen Sie nach alten Büchern und Karten suchen können."
+          },
+          {
+            "name": "OC Breda & Weinstein",
+            "tip": "Leicht erreichbar mit dem Bus für eine umfassende Shopping-Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antikváriumok",
+            "tip": "Opavában több antikvárium is található, ahol régi könyveket és térképeket kereshet."
+          },
+          {
+            "name": "OC Breda & Weinstein",
+            "tip": "Könnyen megközelíthető busszal egy átfogó bevásárló körúthoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Anticariate",
+            "tip": "Opava are mai multe anticariate unde puteți căuta cărți vechi și hărți."
+          },
+          {
+            "name": "OC Breda & Weinstein",
+            "tip": "Ușor accesibil cu autobuzul pentru un tur complet de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antique Shops",
+            "tip": "Opava has several antique shops where you can search for old books and maps."
+          },
+          {
+            "name": "OC Breda & Weinstein",
+            "tip": "Easily accessible by bus for a comprehensive shopping tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die Fahrplan-App der lokalen Verkehrsbetriebe herunter.",
+          "Eine Tageskarte ist in der Regel günstiger als mehrere Einzelfahrscheine.",
+          "Achten Sie auf die Liniennummern und die Fahrtrichtung der Busse und Trolleybusse.",
+          "Validieren Sie Ihr Ticket sofort nach dem Einsteigen, um Bußgelder zu vermeiden."
+        ],
+        "hu": [
+          "Töltse le a helyi közlekedési vállalat menetrend-alkalmazását.",
+          "A napijegy általában olcsóbb, mint több vonaljegy.",
+          "Figyeljen a buszok és trolibuszok vonalszámaira és menetirányára.",
+          "Érvényesítse a jegyét azonnal felszállás után, hogy elkerülje a bírságokat."
+        ],
+        "ro": [
+          "Descărcați aplicația de orare a companiei locale de transport.",
+          "Un bilet de o zi este de obicei mai ieftin decât mai multe bilete individuale.",
+          "Fiți atenți la numerele de linie și la direcția de mers a autobuzelor și troleibuzelor.",
+          "Validați biletul imediat după urcare pentru a evita amenzile."
+        ],
+        "en": [
+          "Download the local transport company's timetable app.",
+          "A day ticket is usually cheaper than several single tickets.",
+          "Pay attention to the line numbers and direction of travel of buses and trolleybuses.",
+          "Validate your ticket immediately after boarding to avoid fines."
+        ]
+      }
+    }
+  }
+}

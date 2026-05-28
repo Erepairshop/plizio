@@ -1,0 +1,1098 @@
+{
+  "city_id": "denmark-herning-cities-v2",
+  "anchor": {
+    "name": "Herning",
+    "coords": [
+      56.137,
+      8.976
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Herning Kirche",
+            "hu": "Herningi templom",
+            "ro": "Biserica din Herning",
+            "en": "Herning Church"
+          },
+          "coords": [
+            8.978,
+            56.135
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die moderne Orgel und die klaren Linien der dänischen Kirchenarchitektur.",
+            "hu": "Figyeld meg a modern orgonát és a dán egyházi építészet letisztult vonalait.",
+            "ro": "Observați orga modernă și liniile curate ale arhitecturii bisericești daneze.",
+            "en": "Note the modern organ and the clean lines of Danish church architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Textilmuseum",
+            "hu": "Textilmúzeum",
+            "ro": "Muzeul Textilelor",
+            "en": "The Textile Museum"
+          },
+          "coords": [
+            8.973,
+            56.138
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie die alten Webstühle aus und erleben Sie Hernings industrielle Wurzeln.",
+            "hu": "Próbáld ki a régi szövőszékeket, és ismerd meg Herning ipari gyökereit.",
+            "ro": "Încercați războaiele de țesut vechi pentru a experimenta rădăcinile industriale ale Herningului.",
+            "en": "Try out the old looms and experience Herning's industrial roots firsthand."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebédszünet a központban",
+            "ro": "Pauză de prânz în centru",
+            "en": "Lunch break in the city center"
+          },
+          "coords": [
+            8.975,
+            56.136
+          ],
+          "category": "gastro",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie ein klassisches Smørrebrød in einem der Cafés am Platz.",
+            "hu": "Kóstolj meg egy klasszikus Smørrebrødot a tér egyik kávézójában.",
+            "ro": "Încercați un Smørrebrød clasic la una dintre cafenelele din piață.",
+            "en": "Try a classic Smørrebrød at one of the cafés in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "HEART - Museum für Zeitgenössische Kunst",
+            "hu": "HEART - Kortárs Művészeti Múzeum",
+            "ro": "HEART - Muzeul de Artă Contemporană",
+            "en": "HEART - Museum of Contemporary Art"
+          },
+          "coords": [
+            8.945,
+            56.13
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Das Gebäude selbst ist ein architektonisches Meisterwerk von Steven Holl.",
+            "hu": "Maga az épület Steven Holl építészeti mesterműve.",
+            "ro": "Clădirea în sine este o capodoperă arhitecturală de Steven Holl.",
+            "en": "The building itself is an architectural masterpiece by Steven Holl."
+          }
+        },
+        {
+          "name": {
+            "de": "Carl-Henning Pedersen & Else Alfelts Museum",
+            "hu": "Carl-Henning Pedersen & Else Alfelts Múzeum",
+            "ro": "Muzeul Carl-Henning Pedersen & Else Alfelts",
+            "en": "Carl-Henning Pedersen & Else Alfelts Museum"
+          },
+          "coords": [
+            8.943,
+            56.131
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die farbenfrohen Werke, die von der CoBrA-Bewegung inspiriert sind.",
+            "hu": "Koncentrálj a CoBrA mozgalom által ihletett színes művekre.",
+            "ro": "Concentrează-te pe lucrările colorate inspirate de mișcarea CoBrA.",
+            "en": "Focus on the colorful works inspired by the CoBrA movement."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Herning mit einem Besuch der schlichten Eleganz der Herning Kirke. Am Vormittag tauchen Sie im Textilmuseum in die industrielle Vergangenheit der Stadt ein. Nach einem stärkenden dänischen Mittagessen widmen Sie den Nachmittag der Kunst. Sie spazieren zum Museumsviertel, wo Sie zuerst die kühne zeitgenössische Kunst im HEART und anschließend die farbenfrohen Werke im Carl-Henning Pedersen & Else Alfelts Museum erkunden. Ein Tag voller Kultur und Geschichte zu Fuß.",
+        "hu": "A nap Herning szívében kezdődik a Herning Kirke letisztult eleganciájának felfedezésével. Délelőtt a Textilmúzeumban merül el a város ipari múltjában. Egy kiadós dán ebéd után a délutánt a művészetnek szenteli. Átsétál a múzeumi negyedbe, ahol először a HEART merész kortárs művészetét, majd a Carl-Henning Pedersen & Else Alfelts Múzeum színes alkotásait fedezi fel. Egy nap tele kultúrával és történelemmel, mindezt gyalogosan.",
+        "ro": "Ziua dvs. începe în inima orașului Herning cu o vizită la eleganța sobră a Bisericii Herning. Dimineața, vă veți scufunda în trecutul industrial al orașului la Muzeul Textilelor. După un prânz danez consistent, după-amiaza este dedicată artei. Vă veți plimba spre cartierul muzeelor pentru a explora mai întâi arta contemporană îndrăzneață de la HEART, urmată de lucrările colorate de la Muzeul Carl-Henning Pedersen & Else Alfelts. O zi plină de cultură și istorie, totul pe jos.",
+        "en": "Your day begins in the heart of Herning with a visit to the simple elegance of Herning Church. In the morning, you'll dive into the city's industrial past at The Textile Museum. After a hearty Danish lunch, the afternoon is dedicated to art. You'll stroll over to the museum district to first explore the bold contemporary art at HEART, followed by the colorful works at the Carl-Henning Pedersen & Else Alfelts Museum. A day filled with culture and history, all on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Ein offenes Sandwich, oft mit Hering, Roastbeef oder Garnelen belegt."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Dänische Fleischbällchen, normalerweise mit Kartoffelsalat serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Nyitott szendvics, gyakran heringgel, rostbéllyel vagy garnélával."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Dán fasírt, általában burgonyasalátával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Un sandviș deschis, adesea acoperit cu hering, roast beef sau creveți."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Chiftele daneze, de obicei servite cu salată de cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "An open-faced sandwich, often topped with herring, roast beef, or shrimp."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Danish meatballs, usually served with potato salad."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Løvbakke Dyrehave",
+            "tip": "Ein nahegelegener Tierpark, perfekt für einen ruhigen Spaziergang in der Natur.",
+            "emoji": "🦌"
+          },
+          {
+            "name": "Bänke am Gødstrup Sø",
+            "tip": "Finden Sie eine Bank am Seeufer für einen Moment der Kontemplation.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Løvbakke Dyrehave",
+            "tip": "Közeli vadaspark, tökéletes egy csendes erdei sétához."
+          },
+          {
+            "name": "Padok a Gødstrup Sø-nál",
+            "tip": "Keress egy padot a tó partján egy pillanatnyi elmélkedéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Løvbakke Dyrehave",
+            "tip": "Un parc de animale din apropiere, perfect pentru o plimbare liniștită în natură.",
+            "emoji": "🦌"
+          },
+          {
+            "name": "Bănci la Gødstrup Sø",
+            "tip": "Găsiți o bancă pe malul lacului pentru un moment de contemplare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Løvbakke Dyrehave",
+            "tip": "A nearby deer park, perfect for a quiet walk in nature.",
+            "emoji": "🦌"
+          },
+          {
+            "name": "Benches at Gødstrup Sø",
+            "tip": "Find a bench by the lakeside for a moment of contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Herning Gågade",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus dänischen Marken und lokalen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herning Gågade",
+            "tip": "A fő bevásárlóutca dán márkák és helyi üzletek keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Herning Gågade",
+            "tip": "Strada principală de cumpărături cu un amestec de mărci daneze și magazine locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herning Gågade",
+            "tip": "The main pedestrian shopping street with a mix of Danish brands and local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können.",
+          "Ein Regenschirm ist immer eine gute Idee in Dänemark, auch im Sommer."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, sokat fogsz gyalogolni.",
+          "Ellenőrizd előre a múzeumok nyitvatartását, mert változhat.",
+          "Egy esernyő mindig jó ötlet Dániában, még nyáron is."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Verificați în avans orele de deschidere ale muzeelor, deoarece acestea pot varia.",
+          "O umbrelă este întotdeauna o idee bună în Danemarca, chiar și vara."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Check museum opening hours in advance as they can vary.",
+          "An umbrella is always a good idea in Denmark, even in summer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Elia Skulptur",
+            "hu": "Elia szobor",
+            "ro": "Sculptura Elia",
+            "en": "Elia Sculpture"
+          },
+          "coords": [
+            9.001,
+            56.125
+          ],
+          "category": "monuments",
+          "arrive_at": "09:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie auf die Skulptur, um einen Panoramablick auf die Umgebung zu erhalten.",
+            "hu": "Mássz fel a szoborra, hogy panorámás kilátásban legyen részed a környékre.",
+            "ro": "Urcați pe sculptură pentru o vedere panoramică a zonei înconjurătoare.",
+            "en": "Climb the sculpture for a panoramic view of the surrounding area."
+          }
+        },
+        {
+          "name": {
+            "de": "HEART & Carl-Henning Pedersen Museum",
+            "hu": "HEART & Carl-Henning Pedersen Múzeum",
+            "ro": "HEART & Muzeul Carl-Henning Pedersen",
+            "en": "HEART & Carl-Henning Pedersen Museum"
+          },
+          "coords": [
+            8.945,
+            56.13
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Kaufen Sie ein Kombiticket, um beide Museen zu einem ermäßigten Preis zu sehen.",
+            "hu": "Vegyél kombinált jegyet, hogy mindkét múzeumot kedvezményesen lásd.",
+            "ro": "Cumpărați un bilet combinat pentru a vedea ambele muzee la un preț redus.",
+            "en": "Purchase a combination ticket to see both museums at a reduced price."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe der Museen",
+            "hu": "Ebéd a múzeumok közelében",
+            "ro": "Prânz lângă muzee",
+            "en": "Lunch near the museums"
+          },
+          "coords": [
+            8.947,
+            56.132
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das Museumscafé im HEART bietet eine stilvolle Kulisse für eine Mahlzeit.",
+            "hu": "A HEART múzeumi kávézója stílusos környezetet kínál az étkezéshez.",
+            "ro": "Cafeneaua muzeului de la HEART oferă un cadru elegant pentru o masă.",
+            "en": "The museum café at HEART offers a stylish setting for a meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Textilmuseum",
+            "hu": "Textilmúzeum",
+            "ro": "Muzeul Textilelor",
+            "en": "The Textile Museum"
+          },
+          "coords": [
+            8.973,
+            56.138
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Verbinden Sie den Besuch mit der Herning Kirke, die nur einen kurzen Radweg entfernt ist.",
+            "hu": "Kösd össze a látogatást a Herning Kirke megtekintésével, ami csak egy rövid bicikliútra van.",
+            "ro": "Combinați vizita cu Biserica Herning, aflată la o scurtă plimbare cu bicicleta.",
+            "en": "Combine the visit with Herning Church, just a short bike ride away."
+          }
+        },
+        {
+          "name": {
+            "de": "Herning Kirke",
+            "hu": "Herningi templom",
+            "ro": "Biserica din Herning",
+            "en": "Herning Church"
+          },
+          "coords": [
+            8.978,
+            56.135
+          ],
+          "category": "churches",
+          "arrive_at": "15:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe im Inneren als Kontrast zur Radtour.",
+            "hu": "Élvezd a belső csendet a biciklizés után.",
+            "ro": "Bucurați-vă de liniștea din interior ca un contrast cu plimbarea cu bicicleta.",
+            "en": "Enjoy the tranquility inside as a contrast to the bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Gødstrup Sø",
+            "hu": "Gødstrup-tó",
+            "ro": "Lacul Gødstrup",
+            "en": "Gødstrup Sø"
+          },
+          "coords": [
+            8.91,
+            56.16
+          ],
+          "category": "natural features",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um den Tag mit einer entspannten Radtour um den See ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap befejezéséhez egy pihentető tókerülő biciklitúrával.",
+            "ro": "Un loc perfect pentru a încheia ziua cu o plimbare relaxantă cu bicicleta în jurul lacului.",
+            "en": "A perfect spot to end the day with a relaxing bike ride around the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie den Tag mit einem Ausflug zur beeindruckenden Elia-Skulptur. Am Vormittag radeln Sie zum Kunstviertel, um die Sammlungen des HEART und des Carl-Henning Pedersen Museums zu erkunden. Nach dem Mittagessen führt Sie Ihre Tour ins Zentrum zum Textilmuseum und der Kirche. Der Nachmittag endet mit einer längeren, aber lohnenden Fahrt zum malerischen Gødstrup Sø, wo Sie die Natur genießen können, bevor Sie den Tag beenden. Eine aktive Entdeckungsreise durch Kunst, Geschichte und Natur.",
+        "hu": "Pattanj nyeregbe, és kezdd a napot egy kirándulással a lenyűgöző Elia-szoborhoz. Délelőtt tekerj el a művészeti negyedbe, hogy felfedezd a HEART és a Carl-Henning Pedersen Múzeum gyűjteményeit. Ebéd után a túra a központba vezet a Textilmúzeumhoz és a templomhoz. A délután egy hosszabb, de megérő úttal zárul a festői Gødstrup Sø-hoz, ahol élvezheted a természetet, mielőtt befejeznéd a napot. Aktív felfedezőút a művészet, a történelem és a természet világában.",
+        "ro": "Urcați-vă în șa și începeți ziua cu o excursie la impresionanta sculptură Elia. Dimineața, pedalați spre cartierul de artă pentru a explora colecțiile de la HEART și Muzeul Carl-Henning Pedersen. După prânz, turul vă duce în centru, la Muzeul Textilelor și la biserică. După-amiaza se încheie cu o plimbare mai lungă, dar plină de satisfacții, spre pitorescul lac Gødstrup Sø, unde vă puteți bucura de natură înainte de a încheia ziua. O călătorie activă de descoperire prin artă, istorie și natură.",
+        "en": "Get on your bike and start the day with a trip to the impressive Elia sculpture. In the morning, you'll cycle to the art district to explore the collections at HEART and the Carl-Henning Pedersen Museum. After lunch, your tour takes you downtown to The Textile Museum and the church. The afternoon concludes with a longer but rewarding ride to the picturesque Gødstrup Sø, where you can enjoy nature before ending the day. An active journey of discovery through art, history, and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kartoffelsalat",
+            "tip": "Eine häufige Beilage zu vielen dänischen Gerichten, besonders zu Frikadeller."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Dänisches Gebäck, perfekt für eine Kaffeepause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kartoffelsalat",
+            "tip": "Gyakori köret sok dán ételhez, különösen a Frikadellerhez."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Dán péksütemény, tökéletes egy kávészünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată de cartofi",
+            "tip": "O garnitură comună la multe feluri de mâncare daneze, în special Frikadeller."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Produse de patiserie daneze, perfecte pentru o pauză de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kartoffelsalat (Potato Salad)",
+            "tip": "A common side dish for many Danish meals, especially Frikadeller."
+          },
+          {
+            "name": "Wienerbrød (Danish pastry)",
+            "tip": "A must-try pastry, perfect for a coffee break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Skulpturparken",
+            "tip": "Der Park, der das HEART Museum umgibt, ist voller Skulpturen und ruhiger Ecken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Radweg um den Gødstrup Sø",
+            "tip": "Eine friedliche Route abseits des Stadtverkehrs.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Skulpturparken",
+            "tip": "A HEART múzeumot körülvevő park tele van szobrokkal és csendes zugokkal."
+          },
+          {
+            "name": "Kerékpárút a Gødstrup Sø körül",
+            "tip": "Békés útvonal a városi forgalomtól távol."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Skulpturparken",
+            "tip": "Parcul care înconjoară Muzeul HEART este plin de sculpturi și colțuri liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista de biciclete în jurul Gødstrup Sø",
+            "tip": "Un traseu pașnic, departe de traficul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Skulpturparken",
+            "tip": "The park surrounding the HEART museum is full of sculptures and quiet corners.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bike path around Gødstrup Sø",
+            "tip": "A peaceful route away from the city traffic.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Achten Sie auf Schilder für 'Gårdbutik' außerhalb der Stadt für frische Produkte und lokale Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi farmboltok",
+            "tip": "Keresd a 'Gårdbutik' táblákat a városon kívül, ahol friss termékeket és helyi kézműves termékeket találsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor locale",
+            "tip": "Fiți atenți la indicatoarele 'Gårdbutik' în afara orașului pentru produse proaspete și artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local farm shops",
+            "tip": "Look for 'Gårdbutik' signs outside the city for fresh produce and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Gängen, da es einige leichte Steigungen geben kann.",
+          "Verwenden Sie Fahrradwege, wo immer möglich; Dänemark ist sehr fahrradfreundlich.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch für kurze Stopps."
+        ],
+        "hu": [
+          "Bérelj váltós biciklit, mert lehetnek enyhe emelkedők.",
+          "Használd a bicikliutakat, ahol csak lehet; Dánia nagyon biciklibarát.",
+          "Mindig zárd le a biciklidet, még rövid megállókra is."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze, deoarece pot exista unele pante ușoare.",
+          "Folosiți pistele de biciclete ori de câte ori este posibil; Danemarca este foarte prietenoasă cu bicicletele.",
+          "Încuietoarea bicicletei este esențială, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Rent a bike with gears, as there can be some slight inclines.",
+          "Use bike paths wherever possible; Denmark is very bike-friendly.",
+          "Always lock your bike, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 34.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Baboon City",
+            "hu": "Baboon City",
+            "ro": "Baboon City",
+            "en": "Baboon City"
+          },
+          "coords": [
+            8.965,
+            56.105
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Perfekt für Familien. Planen Sie mindestens zwei Stunden für Dänemarks größten Indoor-Vergnügungspark ein.",
+            "hu": "Tökéletes családoknak. Szánj legalább két órát Dánia legnagyobb fedett vidámparkjára.",
+            "ro": "Perfect pentru familii. Planificați cel puțin două ore pentru cel mai mare parc de distracții interior din Danemarca.",
+            "en": "Perfect for families. Plan at least two hours for Denmark's largest indoor amusement park."
+          }
+        },
+        {
+          "name": {
+            "de": "MCH Messecenter Herning",
+            "hu": "MCH Messecenter Herning",
+            "ro": "MCH Messecenter Herning",
+            "en": "MCH Messecenter Herning"
+          },
+          "coords": [
+            8.96,
+            56.11
+          ],
+          "category": "theatres",
+          "arrive_at": "11:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schauen Sie sich das beeindruckende Gebäude an, auch wenn keine Veranstaltung stattfindet.",
+            "hu": "Nézd meg a lenyűgöző épületet, még ha nincs is rendezvény.",
+            "ro": "Aruncați o privire la clădirea impresionantă, chiar dacă nu are loc niciun eveniment.",
+            "en": "Check out the impressive building, even if there isn't an event on."
+          }
+        },
+        {
+          "name": {
+            "de": "Elia Skulptur",
+            "hu": "Elia szobor",
+            "ro": "Sculptura Elia",
+            "en": "Elia Sculpture"
+          },
+          "coords": [
+            9.001,
+            56.125
+          ],
+          "category": "monuments",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Picknick-Mittagessen mit Aussicht.",
+            "hu": "Nagyszerű hely egy piknikebédhez, kilátással.",
+            "ro": "Un loc minunat pentru un prânz la picnic cu vedere.",
+            "en": "A great spot for a picnic lunch with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "HEART Museum & Skulpturenpark",
+            "hu": "HEART Múzeum & Szoborpark",
+            "ro": "Muzeul HEART & Parcul de Sculpturi",
+            "en": "HEART Museum & Sculpture Park"
+          },
+          "coords": [
+            8.945,
+            56.13
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie sowohl das Museum als auch das benachbarte.",
+            "hu": "Parkolj itt, és fedezd fel mindkét múzeumot és a szomszédosat is.",
+            "ro": "Parcați aici și explorați atât muzeul, cât și cel vecin.",
+            "en": "Park here and explore both this museum and the one next door."
+          }
+        },
+        {
+          "name": {
+            "de": "Carl-Henning Pedersen & Else Alfelts Museum",
+            "hu": "Carl-Henning Pedersen & Else Alfelts Múzeum",
+            "ro": "Muzeul Carl-Henning Pedersen & Else Alfelts",
+            "en": "Carl-Henning Pedersen & Else Alfelts Museum"
+          },
+          "coords": [
+            8.943,
+            56.131
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die kreisförmige Architektur ist so faszinierend wie die Kunst im Inneren.",
+            "hu": "A kör alakú építészet ugyanolyan lenyűgöző, mint a benne lévő művészet.",
+            "ro": "Arhitectura circulară este la fel de fascinantă ca și arta din interior.",
+            "en": "The circular architecture is as fascinating as the art inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Gødstrup Sø",
+            "hu": "Gødstrup-tó",
+            "ro": "Lacul Gødstrup",
+            "en": "Gødstrup Sø"
+          },
+          "coords": [
+            8.91,
+            56.16
+          ],
+          "category": "natural features",
+          "arrive_at": "16:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang um einen Teil des Sees, um sich nach der Fahrt die Beine zu vertreten.",
+            "hu": "Sétálj egyet a tó egy része körül, hogy kinyújtóztasd a lábad a vezetés után.",
+            "ro": "Faceți o plimbare în jurul unei părți a lacului pentru a vă dezmorți picioarele după condus.",
+            "en": "Take a walk around part of the lake to stretch your legs after the drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Zentrum von Herning",
+            "hu": "Vacsora Herning központjában",
+            "ro": "Cină în centrul orașului Herning",
+            "en": "Dinner in Herning Centre"
+          },
+          "coords": [
+            8.975,
+            56.136
+          ],
+          "category": "gastro",
+          "arrive_at": "18:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und genießen Sie einen entspannten Abend in einem der vielen Restaurants.",
+            "hu": "Parkold le az autót, és élvezz egy pihentető estét a sok étterem egyikében.",
+            "ro": "Parcați mașina și bucurați-vă de o seară relaxantă la unul dintre numeroasele restaurante.",
+            "en": "Park your car and enjoy a relaxed evening at one of the many restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die weit verstreuten Attraktionen von Herning erkunden. Beginnen Sie im Süden mit Familienspaß im Baboon City, gefolgt von einem Blick auf das MCH Messecenter. Ein kurzer Sprung bringt Sie zur monumentalen Elia-Skulptur. Am Nachmittag fahren Sie zum Kunstcluster, parken und erkunden zu Fuß das HEART und das Carl-Henning Pedersen Museum. Ihre Reise endet mit einer Fahrt zum ruhigen Gødstrup Sø für einen Naturspaziergang, bevor Sie zum Abendessen ins Stadtzentrum zurückkehren.",
+        "hu": "Autóval felfedezheted Herning távolabbi látnivalóit is. Kezdj délen a Baboon City családi mókájával, majd vess egy pillantást az MCH Messecenterre. Egy rövid ugrás után a monumentális Elia-szobornál találod magad. Délután irány a művészeti klaszter: parkolj le, és sétálva fedezd fel a HEART és a Carl-Henning Pedersen Múzeumot. Az utazás egy nyugodt Gødstrup Sø-tóhoz tett kirándulással zárul, mielőtt visszatérnél vacsorázni a városközpontba.",
+        "ro": "Cu mașina, puteți explora atracțiile dispersate ale orașului Herning. Începeți în sud cu distracția în familie la Baboon City, urmată de o privire la MCH Messecenter. O scurtă deplasare vă aduce la sculptura monumentală Elia. După-amiaza, conduceți spre clusterul de artă, parcați și explorați pe jos muzeele HEART și Carl-Henning Pedersen. Călătoria se încheie cu o plimbare spre liniștitul lac Gødstrup Sø pentru o plimbare în natură, înainte de a vă întoarce în centru pentru cină.",
+        "en": "By car, you can explore Herning's spread-out attractions. Start in the south with family fun at Baboon City, followed by a look at the MCH Messecenter. A short hop brings you to the monumental Elia sculpture. In the afternoon, drive to the art cluster, park, and explore the HEART and Carl-Henning Pedersen museums on foot. Your journey concludes with a drive to the tranquil Gødstrup Sø for a nature walk before returning to the city center for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stegt flæsk",
+            "tip": "Dänemarks Nationalgericht: knuspriger Schweinebauch mit Petersiliensauce und Kartoffeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stegt flæsk",
+            "tip": "Dánia nemzeti étele: ropogós sertéshas petrezselymes szósszal és burgonyával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stegt flæsk",
+            "tip": "Mâncarea națională a Danemarcei: burtă de porc crocantă cu sos de pătrunjel și cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stegt flæsk",
+            "tip": "Denmark's national dish: crispy pork belly with parsley sauce and potatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Gärten um die Museen",
+            "tip": "Die Grünflächen zwischen den Kunstmuseen bieten ruhige Plätze zum Sitzen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A múzeumok körüli kertek",
+            "tip": "A művészeti múzeumok közötti zöld területek csendes ülőhelyeket kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile din jurul muzeelor",
+            "tip": "Spațiile verzi dintre muzeele de artă oferă locuri liniștite pentru a sta jos."
+          }
+        ],
+        "en": [
+          {
+            "name": "The gardens around the museums",
+            "tip": "The green spaces between the art museums offer quiet spots to sit.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "herningCentret",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand für einen umfassenden Einkaufsbummel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "herningCentret",
+            "tip": "Nagy bevásárlóközpont a város szélén egy átfogó vásárláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "herningCentret",
+            "tip": "Un centru comercial mare la marginea orașului pentru o sesiune completă de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "herningCentret",
+            "tip": "A large shopping mall on the outskirts of town for a comprehensive shopping trip."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Möglichkeiten, wenn Sie das Stadtzentrum besuchen.",
+          "Achten Sie auf die Parkgebühren; einige Bereiche erfordern eine Parkscheibe.",
+          "Planen Sie Ihre Route im Voraus, da einige Attraktionen weit auseinander liegen."
+        ],
+        "hu": [
+          "Használd a P+R parkolókat, ha a városközpontba látogatsz.",
+          "Figyelj a parkolási díjakra; egyes helyeken parkolótárcsa szükséges.",
+          "Tervezd meg előre az útvonalat, mivel néhány látnivaló messze van egymástól."
+        ],
+        "ro": [
+          "Utilizați facilitățile de tip park-and-ride atunci când vizitați centrul orașului.",
+          "Fiți atenți la taxele de parcare; unele zone necesită un disc de parcare.",
+          "Planificați-vă traseul în avans, deoarece unele atracții sunt îndepărtate."
+        ],
+        "en": [
+          "Use park-and-ride facilities when visiting the city center.",
+          "Be aware of parking fees; some areas require a parking disc.",
+          "Plan your route in advance, as some attractions are far apart."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 11.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Herning",
+            "hu": "Érkezés a herningi pályaudvarra",
+            "ro": "Sosire la Gara Herning",
+            "en": "Arrival at Herning Station"
+          },
+          "coords": [
+            8.979,
+            56.14
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten im Stadtgebiet.",
+            "hu": "Vegyél napijegyet a korlátlan utazáshoz a város területén.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate în zona orașului.",
+            "en": "Purchase a day ticket for unlimited travel within the city area."
+          }
+        },
+        {
+          "name": {
+            "de": "Herning Kirke & Textilmuseum",
+            "hu": "Herningi templom és Textilmúzeum",
+            "ro": "Biserica Herning & Muzeul Textilelor",
+            "en": "Herning Church & Textile Museum"
+          },
+          "coords": [
+            8.978,
+            56.135
+          ],
+          "category": "cluster",
+          "arrive_at": "09:15",
+          "stay_min": 140,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden zentralen Sehenswürdigkeiten lassen sich leicht zu Fuß erkunden.",
+            "hu": "Ez a két központi látnivaló könnyen felfedezhető gyalog.",
+            "ro": "Aceste două atracții centrale sunt ușor de explorat pe jos.",
+            "en": "These two central attractions are easily explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Kunstcluster",
+            "hu": "Busz a művészeti negyedbe",
+            "ro": "Autobuz spre clusterul de artă",
+            "en": "Bus to the Art Cluster"
+          },
+          "coords": [
+            8.97,
+            56.134
+          ],
+          "category": "transit",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Westen. Genießen Sie ein Mittagessen bei der Ankunft.",
+            "hu": "Menj egy nyugati irányú busszal. Érkezéskor ebédelj egy jót.",
+            "ro": "Luați un autobuz spre vest. Bucurați-vă de prânz la sosire.",
+            "en": "Take a westbound bus. Enjoy lunch upon arrival."
+          }
+        },
+        {
+          "name": {
+            "de": "HEART & Carl-Henning Pedersen Museum",
+            "hu": "HEART & Carl-Henning Pedersen Múzeum",
+            "ro": "HEART & Muzeul Carl-Henning Pedersen",
+            "en": "HEART & Carl-Henning Pedersen Museum"
+          },
+          "coords": [
+            8.945,
+            56.13
+          ],
+          "category": "cluster",
+          "arrive_at": "13:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie den ganzen Nachmittag damit, diese beiden erstklassigen Museen zu erkunden.",
+            "hu": "Töltsd az egész délutánt e két világszínvonalú múzeum felfedezésével.",
+            "ro": "Petreceți întreaga după-amiază explorând aceste două muzee de talie mondială.",
+            "en": "Spend the whole afternoon exploring these two world-class museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zurück zum Zentrum",
+            "hu": "Busz vissza a központba",
+            "ro": "Autobuz înapoi în centru",
+            "en": "Bus back to the Centre"
+          },
+          "coords": [
+            8.979,
+            56.14
+          ],
+          "category": "transit",
+          "arrive_at": "17:19",
+          "stay_min": 30,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Kaffee oder einem frühen Abendessen in der Nähe des Bahnhofs.",
+            "hu": "Zárd a napot egy kávéval vagy egy korai vacsorával a pályaudvar közelében.",
+            "ro": "Încheiați ziua cu o cafea sau o cină timpurie lângă gară.",
+            "en": "End the day with a coffee or an early dinner near the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Hernings effizientes Bussystem für einen stressfreien Tag. Vom Bahnhof aus spazieren Sie zu den zentralen Sehenswürdigkeiten, der Kirche und dem Textilmuseum. Am späten Vormittag bringt Sie ein Bus zum Kunstcluster im Westen. Nach dem Mittagessen tauchen Sie in die Welt der modernen und zeitgenössischen Kunst ein und erkunden die beiden benachbarten Museen zu Fuß. Am späten Nachmittag fahren Sie mit dem Bus zurück ins Zentrum und beenden Ihren Kulturtag.",
+        "hu": "Használd Herning hatékony buszrendszerét egy stresszmentes naphoz. A pályaudvarról sétálj el a központi látnivalókhoz, a templomhoz és a Textilmúzeumhoz. Késő délelőtt egy busz elvisz a nyugati művészeti negyedbe. Ebéd után merülj el a modern és kortárs művészet világában, és fedezd fel a két szomszédos múzeumot gyalog. Késő délután busszal térj vissza a központba, és zárd a kulturális napot.",
+        "ro": "Folosiți sistemul eficient de autobuze din Herning pentru o zi fără stres. De la gară, mergeți pe jos la atracțiile centrale, biserică și Muzeul Textilelor. Spre sfârșitul dimineții, un autobuz vă va duce la clusterul de artă din vest. După prânz, scufundați-vă în lumea artei moderne și contemporane, explorând pe jos cele două muzee adiacente. La sfârșitul după-amiezii, luați autobuzul înapoi în centru pentru a încheia ziua culturală.",
+        "en": "Use Herning's efficient bus system for a stress-free day. From the station, walk to the central attractions, the church, and The Textile Museum. In the late morning, a bus will take you to the art cluster in the west. After lunch, immerse yourself in the world of modern and contemporary art, exploring the two adjacent museums on foot. In the late afternoon, take the bus back to the center to conclude your cultural day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølser",
+            "tip": "Ein dänischer Hotdog von einem 'Pølsevogn' (Hotdog-Wagen) ist ein schneller und leckerer Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølser",
+            "tip": "Egy dán hot dog egy 'Pølsevogn'-ból (hot dogos kocsi) gyors és finom harapnivaló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølser",
+            "tip": "Un hotdog danez de la un 'Pølsevogn' (cărucior de hotdog) este o gustare rapidă și delicioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølser",
+            "tip": "A Danish hot dog from a 'Pølsevogn' (hot dog cart) is a quick and tasty snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Busfahrt",
+            "tip": "Nutzen Sie die Fahrt zwischen den Clustern, um die Landschaft außerhalb des Zentrums zu beobachten.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes buszút",
+            "tip": "Használd ki a klaszterek közötti utat, hogy megfigyeld a központon kívüli tájat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "O călătorie liniștită cu autobuzul",
+            "tip": "Folosiți călătoria între clustere pentru a observa peisajul din afara centrului.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet bus ride",
+            "tip": "Use the journey between clusters to watch the scenery outside the center.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte rund um den Bahnhof",
+            "tip": "Praktisch für Last-Minute-Souvenirs vor der Abreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a pályaudvar körül",
+            "tip": "Praktikus utolsó pillanatos ajándékok beszerzésére indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în jurul gării",
+            "tip": "Convenabil pentru suveniruri de ultim moment înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops around the station",
+            "tip": "Convenient for last-minute souvenirs before you depart."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die 'Rejseplanen'-App herunter, um Busfahrpläne in Echtzeit zu erhalten.",
+          "Winken Sie dem Busfahrer zu, damit er weiß, dass Sie einsteigen möchten.",
+          "Die meisten Busse sind bargeldlos, also halten Sie eine Kreditkarte oder eine Reisekarte bereit."
+        ],
+        "hu": [
+          "Töltsd le a 'Rejseplanen' alkalmazást a valós idejű buszmenetrendekért.",
+          "Ints a buszsofőrnek, hogy tudja, fel akarsz szállni.",
+          "A legtöbb busz készpénzmentes, ezért legyen nálad bankkártya vagy utazási kártya."
+        ],
+        "ro": [
+          "Descărcați aplicația 'Rejseplanen' pentru orarele autobuzelor în timp real.",
+          "Faceți semn șoferului de autobuz pentru a-i anunța că doriți să urcați.",
+          "Majoritatea autobuzelor sunt fără numerar, așa că aveți la îndemână un card de credit sau un card de călătorie."
+        ],
+        "en": [
+          "Download the 'Rejseplanen' app for real-time bus schedules.",
+          "Wave at the bus driver to let them know you want to board.",
+          "Most buses are cashless, so have a credit card or travel card ready."
+        ]
+      }
+    }
+  }
+}

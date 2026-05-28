@@ -1,0 +1,1215 @@
+{
+  "city_id": "greece-kalambaka-cities-v2",
+  "anchor": {
+    "name": "Kalambaka",
+    "coords": [
+      21.62,
+      39.7
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorf Kastraki",
+            "hu": "Kastraki falu",
+            "ro": "Satul Kastraki",
+            "en": "Kastraki Village"
+          },
+          "coords": [
+            21.623,
+            39.715
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Kaffee in einer lokalen Taverne, um die Atmosphäre aufzusaugen.",
+            "hu": "Indítson egy kávéval egy helyi tavernában, hogy magába szívja a hangulatot.",
+            "ro": "Începeți cu o cafea la o tavernă locală pentru a absorbi atmosfera.",
+            "en": "Start with a coffee at a local tavern to soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Rousanou",
+            "hu": "Rousanou-kolostor",
+            "ro": "Mănăstirea Rousanou",
+            "en": "Monastery of Rousanou"
+          },
+          "coords": [
+            21.629,
+            39.724
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die Nonnen sind sehr gastfreundlich. Kleiderordnung beachten!",
+            "hu": "Meredek a kaptató, de az apácák nagyon barátságosak. Tartsa be az öltözködési szabályokat!",
+            "ro": "Urcușul este abrupt, dar măicuțele sunt foarte primitoare. Respectați codul vestimentar!",
+            "en": "The climb is steep, but the nuns are very welcoming. Respect the dress code!"
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Varlaam",
+            "hu": "Varlaam-kolostor",
+            "ro": "Mănăstirea Varlaam",
+            "en": "Monastery of Varlaam"
+          },
+          "coords": [
+            21.631,
+            39.726
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die alte Seilwinde, mit der früher Mönche und Güter hochgezogen wurden.",
+            "hu": "Nézze meg a régi csörlőt, amellyel régen a szerzeteseket és az árukat húzták fel.",
+            "ro": "Vizitați vechiul scripete folosit pentru a ridica călugări și provizii.",
+            "en": "Visit the old winch that was used to lift monks and supplies."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Megalo Meteoro",
+            "hu": "Nagy Meteora kolostor",
+            "ro": "Mănăstirea Marele Meteor",
+            "en": "Monastery of Great Meteoron"
+          },
+          "coords": [
+            21.626,
+            39.726
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das größte Kloster mit einem faszinierenden Museum. Planen Sie hier mehr Zeit ein.",
+            "hu": "A legnagyobb kolostor lenyűgöző múzeummal. Tervezzen itt több időt.",
+            "ro": "Cea mai mare mănăstire, cu un muzeu fascinant. Planificați mai mult timp aici.",
+            "en": "The largest monastery with a fascinating museum. Plan more time here."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Psaropetra",
+            "hu": "Psaropetra kilátópont",
+            "ro": "Punct de belvedere Psaropetra",
+            "en": "Psaropetra Viewpoint"
+          },
+          "coords": [
+            21.633,
+            39.729
+          ],
+          "category": "natural features",
+          "arrive_at": "15:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Der beste Ort für Panoramafotos der gesamten Klosteranlage. Besonders magisch bei Sonnenuntergang.",
+            "hu": "A legjobb hely panorámaképekhez az egész kolostor-komplexumról. Naplementekor különösen varázslatos.",
+            "ro": "Cel mai bun loc pentru fotografii panoramice ale întregului complex monastic. Magic la apus.",
+            "en": "The best spot for panoramic photos of the entire monastery complex. Especially magical at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturkundemuseum Meteora",
+            "hu": "Meteorák Természettudományi Múzeuma",
+            "ro": "Muzeul de Istorie Naturală Meteora",
+            "en": "Natural History Museum of Meteora"
+          },
+          "coords": [
+            21.628,
+            39.705
+          ],
+          "category": "museums",
+          "arrive_at": "17:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Eine überraschend moderne Ausstellung über die Fauna und Flora der Region.",
+            "hu": "Meglepően modern kiállítás a régió állat- és növényvilágáról.",
+            "ro": "O expoziție surprinzător de modernă despre fauna și flora regiunii.",
+            "en": "A surprisingly modern exhibition about the region's fauna and flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Entschlafens-Kirche",
+            "hu": "Szűz Mária elszenderedése templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Dormition of the Virgin Mary"
+          },
+          "coords": [
+            21.626,
+            39.704
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "18:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine byzantinische Kirche aus dem 11. Jahrhundert im Herzen von Kalambaka, ein ruhiger Abschluss des Tages.",
+            "hu": "Egy 11. századi bizánci templom Kalambaka szívében, a nap csendes lezárása.",
+            "ro": "O biserică bizantină din secolul al XI-lea în inima Kalambakăi, un final liniștit al zilei.",
+            "en": "An 11th-century Byzantine church in the heart of Kalambaka, a peaceful end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Wandertag im charmanten Dorf Kastraki. Von dort aus führt Sie ein anspruchsvoller, aber lohnender Aufstieg zu den Klöstern Rousanou, Varlaam und dem majestätischen Megalo Meteoro. Jeder Schritt enthüllt neue, atemberaubende Perspektiven auf die Felslandschaft. Nach dem spirituellen Vormittag steigen Sie zum Psaropetra-Aussichtspunkt auf, um das perfekte Panoramafoto zu schießen. Der Nachmittag führt Sie zurück nach Kalambaka, wo Sie in die lokale Naturgeschichte im Museum eintauchen, bevor Sie den Tag in der historischen byzantinischen Kirche ausklingen lassen. Ein Tag voller Bewegung, Spiritualität und unvergesslicher Ausblicke.",
+        "hu": "Kezdje a túranapot a bájos Kastraki faluban. Innen egy kihívást jelentő, de annál nagyobb jutalommal kecsegtető emelkedő vezet a Rousanou, Varlaam és a fenséges Nagy Meteora kolostorokhoz. Minden lépés új, lélegzetelállító perspektívát nyit a sziklavilágra. A spirituális délelőtt után másszon fel a Psaropetra-kilátóhoz a tökéletes panorámaképért. A délután visszavezeti Önt Kalambakába, ahol elmerülhet a helyi természetrajzban a múzeumban, mielőtt a napot a történelmi bizánci templomban zárja. Egy mozgással, spiritualitással és felejthetetlen kilátásokkal teli nap.",
+        "ro": "Începeți ziua de drumeție în satul fermecător Kastraki. De acolo, o urcare solicitantă, dar plină de satisfacții, vă duce la mănăstirile Rousanou, Varlaam și la maiestuosul Mare Meteor. Fiecare pas dezvăluie noi perspective uluitoare asupra peisajului stâncos. După dimineața spirituală, urcați la punctul de belvedere Psaropetra pentru fotografia panoramică perfectă. După-amiaza vă readuce în Kalambaka, unde vă veți cufunda în istoria naturală locală la muzeu, înainte de a încheia ziua la biserica bizantină istorică. O zi plină de mișcare, spiritualitate și priveliști de neuitat.",
+        "en": "Start your hiking day in the charming village of Kastraki. From there, a challenging but rewarding climb takes you to the monasteries of Rousanou, Varlaam, and the majestic Great Meteoron. Every step reveals new, breathtaking perspectives of the rocky landscape. After the spiritual morning, ascend to the Psaropetra viewpoint for the perfect panoramic photo. The afternoon leads you back to Kalambaka, where you'll dive into local natural history at the museum before ending the day at the historic Byzantine church. A day full of exercise, spirituality, and unforgettable views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meteora Restaurant (in Kastraki)",
+            "tip": "Probieren Sie Lamm Kleftiko oder Moussaka. Authentische, hausgemachte griechische Küche."
+          },
+          {
+            "name": "Taverna Panellinion (in Kalambaka)",
+            "tip": "Bekannt für seine gegrillten Fleischgerichte und die lebhafte Atmosphäre am Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Meteora Étterem (Kastrakiban)",
+            "tip": "Kóstolja meg a bárány kleftikót vagy a muszakát. Autentikus, házias görög konyha."
+          },
+          {
+            "name": "Taverna Panellinion (Kalambakában)",
+            "tip": "Grillezett húsételeiről és a főtéri nyüzsgő hangulatáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Meteora (în Kastraki)",
+            "tip": "Încercați Kleftiko de miel sau Moussaka. Bucătărie grecească autentică, de casă."
+          },
+          {
+            "name": "Taverna Panellinion (în Kalambaka)",
+            "tip": "Renumită pentru preparatele din carne la grătar și atmosfera plină de viață din piața principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Meteora Restaurant (in Kastraki)",
+            "tip": "Try the Lamb Kleftiko or Moussaka. Authentic, home-style Greek cuisine."
+          },
+          {
+            "name": "Taverna Panellinion (in Kalambaka)",
+            "tip": "Known for its grilled meats and lively atmosphere on the main square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Pfade zwischen den Klöstern",
+            "tip": "Suchen Sie sich einen ruhigen Felsen abseits der Hauptwege, um die Stille und die Aussicht zu genießen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am Psaropetra",
+            "tip": "Ein magischer, ruhiger Moment, wenn die Felsen in goldenes Licht getaucht werden.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ösvények a kolostorok között",
+            "tip": "Keressen egy csendes sziklát a fő ösvényektől távol, és élvezze a csendet és a kilátást.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a Psaropetránál",
+            "tip": "Varázslatos, csendes pillanat, amikor a sziklák arany fényben fürdenek.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărările dintre mănăstiri",
+            "tip": "Găsiți o stâncă liniștită departe de cărările principale pentru a vă bucura de tăcere și de priveliște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare la Psaropetra",
+            "tip": "Un moment magic și liniștit când stâncile sunt scăldate în lumină aurie.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The paths between the monasteries",
+            "tip": "Find a quiet rock off the main paths to enjoy the silence and the view.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset at Psaropetra",
+            "tip": "A magical, quiet moment as the rocks are bathed in golden light.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Ikonen-Werkstätten",
+            "tip": "Handgemalte byzantinische Ikonen sind ein einzigartiges und authentisches Souvenir."
+          },
+          {
+            "name": "Süßigkeiten mit Löffel (Glyka tou koutaliou)",
+            "tip": "Suchen Sie nach hausgemachten Fruchtkonserven, eine lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi ikonfestő műhelyek",
+            "tip": "A kézzel festett bizánci ikonok egyedi és autentikus szuvenírek."
+          },
+          {
+            "name": "Kanálédesség (Glyka tou koutaliou)",
+            "tip": "Keressen házi készítésű gyümölcskonzerveket, egy helyi különlegességet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ateliere locale de icoane",
+            "tip": "Icoanele bizantine pictate manual sunt un suvenir unic și autentic."
+          },
+          {
+            "name": "Dulcețuri (Glyka tou koutaliou)",
+            "tip": "Căutați conserve de fructe de casă, o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Icon Workshops",
+            "tip": "Hand-painted Byzantine icons are a unique and authentic souvenir."
+          },
+          {
+            "name": "Spoon sweets (Glyka tou koutaliou)",
+            "tip": "Look for homemade fruit preserves, a local specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie festes und bequemes Schuhwerk. Die Wege sind steinig und oft steil.",
+          "Nehmen Sie ausreichend Wasser mit, besonders in den Sommermonaten. Es gibt nur wenige Quellen.",
+          "Beachten Sie die Kleiderordnung für die Klöster: Schultern und Knie müssen bedeckt sein. Röcke für Frauen und lange Hosen für Männer sind erforderlich.",
+          "Prüfen Sie die Öffnungszeiten der Klöster im Voraus, da jedes an einem anderen Tag geschlossen sein kann."
+        ],
+        "hu": [
+          "Viseljen erős, kényelmes cipőt. Az ösvények sziklásak és gyakran meredekek.",
+          "Vigyen magával elegendő vizet, különösen a nyári hónapokban. Kevés a forrás.",
+          "Tartsa be a kolostorok öltözködési szabályzatát: a vállaknak és a térdeknek fedve kell lenniük. A nőknek szoknya, a férfiaknak hosszú nadrág kötelező.",
+          "Előre ellenőrizze a kolostorok nyitvatartási idejét, mivel mindegyik más napon lehet zárva."
+        ],
+        "ro": [
+          "Purtați încălțăminte solidă și confortabilă. Cărările sunt stâncoase și adesea abrupte.",
+          "Luați suficientă apă, mai ales în lunile de vară. Există puține izvoare.",
+          "Respectați codul vestimentar pentru mănăstiri: umerii și genunchii trebuie să fie acoperiți. Fustele pentru femei și pantalonii lungi pentru bărbați sunt obligatorii.",
+          "Verificați în avans orele de deschidere ale mănăstirilor, deoarece fiecare poate fi închisă într-o zi diferită."
+        ],
+        "en": [
+          "Wear sturdy and comfortable footwear. The paths are rocky and often steep.",
+          "Bring plenty of water, especially during the summer months. There are few springs.",
+          "Respect the dress code for the monasteries: shoulders and knees must be covered. Skirts for women and long trousers for men are required.",
+          "Check the opening hours of the monasteries in advance, as each may be closed on a different day."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 25.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Naturkundemuseum Meteora",
+            "hu": "Meteorák Természettudományi Múzeuma",
+            "ro": "Muzeul de Istorie Naturală Meteora",
+            "en": "Natural History Museum of Meteora"
+          },
+          "coords": [
+            21.628,
+            39.705
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein sanfter Start in den Tag, bevor die großen Anstiege beginnen.",
+            "hu": "Egy szelíd kezdés a napnak, mielőtt a nagy emelkedők jönnek.",
+            "ro": "Un început blând de zi înainte de a începe urcușurile mari.",
+            "en": "A gentle start to the day before the big climbs begin."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorf Kastraki",
+            "hu": "Kastraki falu",
+            "ro": "Satul Kastraki",
+            "en": "Kastraki Village"
+          },
+          "coords": [
+            21.623,
+            39.715
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Füllen Sie hier Ihre Wasserflaschen auf und genießen Sie die Aussicht auf die Felsen.",
+            "hu": "Töltse fel itt a vizes palackokat, és élvezze a sziklákra nyíló kilátást.",
+            "ro": "Umpleți-vă sticlele de apă aici și bucurați-vă de priveliștea spre stânci.",
+            "en": "Refill your water bottles here and enjoy the view of the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Rousanou",
+            "hu": "Rousanou-kolostor",
+            "ro": "Mănăstirea Rousanou",
+            "en": "Monastery of Rousanou"
+          },
+          "coords": [
+            21.629,
+            39.724
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der erste große Anstieg des Tages. Die Aussicht von der Brücke ist die Mühe wert.",
+            "hu": "A nap első nagy emelkedője. A hídról nyíló kilátás megéri a fáradságot.",
+            "ro": "Primul urcuș major al zilei. Priveliștea de pe pod merită efortul.",
+            "en": "The first major climb of the day. The view from the bridge is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Psaropetra",
+            "hu": "Psaropetra kilátópont",
+            "ro": "Punct de belvedere Psaropetra",
+            "en": "Psaropetra Viewpoint"
+          },
+          "coords": [
+            21.633,
+            39.729
+          ],
+          "category": "natural features",
+          "arrive_at": "12:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für eine Pause und um die gesamte Landschaft zu überblicken.",
+            "hu": "Tökéletes hely egy szünetre és a teljes táj áttekintésére.",
+            "ro": "Locul perfect pentru o pauză și pentru a admira întregul peisaj.",
+            "en": "The perfect place for a break and to survey the entire landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Theopetra-Höhle",
+            "hu": "Theopetra-barlang",
+            "ro": "Peștera Theopetra",
+            "en": "Theopetra Cave"
+          },
+          "coords": [
+            21.571,
+            39.697
+          ],
+          "category": "natural features",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Eine lange, aber meist flache oder abfallende Fahrt. Ein faszinierender Einblick in die prähistorische Zeit.",
+            "hu": "Hosszú, de többnyire sík vagy lejtős út. Lenyűgöző bepillantás a történelem előtti időkbe.",
+            "ro": "O plimbare lungă, dar în mare parte plată sau în coborâre. O privire fascinantă în timpurile preistorice.",
+            "en": "A long but mostly flat or downhill ride. A fascinating glimpse into prehistoric times."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrum von Kalambaka",
+            "hu": "Kalambaka központja",
+            "ro": "Centrul Kalambaka",
+            "en": "Kalambaka Center"
+          },
+          "coords": [
+            21.625,
+            39.704
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie die Tour mit einem wohlverdienten späten Mittagessen in einer der vielen Tavernen.",
+            "hu": "Zárja a túrát egy jól megérdemelt késői ebéddel a sok taverna egyikében.",
+            "ro": "Încheiați turul cu un prânz târziu bine meritat la una dintre numeroasele taverne.",
+            "en": "End the tour with a well-deserved late lunch at one of the many taverns."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese anspruchsvolle Radtour ist für erfahrene Fahrer gedacht. Nach einem sanften Start im Museum in Kalambaka radeln Sie nach Kastraki. Von dort beginnt der intensive Aufstieg zum Kloster Rousanou. Die Belohnung ist eine atemberaubende Aussicht. Weiter geht es bergauf zum Psaropetra-Aussichtspunkt für eine wohlverdiente Pause. Der längste Abschnitt führt Sie dann in einer langen Abfahrt zur prähistorischen Theopetra-Höhle. Die Tour endet mit einer entspannten Fahrt zurück ins Zentrum von Kalambaka, wo eine herzhafte Mahlzeit auf Sie wartet.",
+        "hu": "Ez a kihívást jelentő kerékpártúra tapasztalt bringásoknak szól. A kalambakai múzeumban tett laza kezdés után Kastraki felé veszi az irányt. Onnan kezdődik az intenzív emelkedő a Rousanou-kolostorhoz. A jutalom lélegzetelállító kilátás. Tovább teker felfelé a Psaropetra-kilátóhoz egy jól megérdemelt pihenőért. A leghosszabb szakasz egy hosszú lejtőn vezet a történelem előtti Theopetra-barlanghoz. A túra egy pihentető tekeréssel ér véget Kalambaka központjában, ahol egy kiadós étel várja.",
+        "ro": "Acest tur de ciclism solicitant este pentru cicliștii experimentați. După un început blând la muzeul din Kalambaka, pedalați spre Kastraki. De acolo începe urcarea intensă spre Mănăstirea Rousanou. Recompensa este o priveliște uluitoare. Continuați în urcare până la punctul de belvedere Psaropetra pentru o pauză binemeritată. Cea mai lungă secțiune vă duce apoi într-o coborâre lungă la peștera preistorică Theopetra. Turul se încheie cu o plimbare relaxantă înapoi în centrul Kalambakăi, unde vă așteaptă o masă copioasă.",
+        "en": "This challenging bike tour is for experienced riders. After a gentle start at the museum in Kalambaka, you'll cycle towards Kastraki. From there, the intense climb to the Monastery of Rousanou begins. The reward is a breathtaking view. Continue uphill to the Psaropetra viewpoint for a well-deserved break. The longest section then takes you on a long descent to the prehistoric Theopetra Cave. The tour ends with a relaxing ride back to the center of Kalambaka, where a hearty meal awaits."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boufidis Greek Tavern",
+            "tip": "Ideal für ein stärkendes Mittagessen nach der Radtour. Probieren Sie die gegrillten Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boufidis görög taverna",
+            "tip": "Ideális egy feltöltő ebédhez a kerékpártúra után. Kóstolja meg a grillezett specialitásokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna Grecească Boufidis",
+            "tip": "Ideal pentru un prânz consistent după turul cu bicicleta. Încercați specialitățile la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boufidis Greek Tavern",
+            "tip": "Ideal for a fortifying lunch after the bike tour. Try the grilled specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Straße zwischen den Klöstern",
+            "tip": "Halten Sie an einem der vielen kleinen Parkplätze an, um die Stille zwischen den Touristenmassen zu finden.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az út a kolostorok között",
+            "tip": "Álljon meg az egyik kis parkolóban, hogy megtalálja a csendet a turistaáradatban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul dintre mănăstiri",
+            "tip": "Opriți-vă într-una dintre multele parcări mici pentru a găsi liniște printre mulțimile de turiști.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "The road between the monasteries",
+            "tip": "Stop at one of the many small parking spots to find silence amidst the tourist crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "In Kastraki gibt es kleine Läden, die handgemachte Keramik mit Motiven der Region verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Kastrakiban vannak kis boltok, amelyek kézzel készített kerámiát árulnak a régió motívumaival."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "În Kastraki există mici magazine care vând ceramică lucrată manual cu motive din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local pottery",
+            "tip": "In Kastraki, there are small shops selling handmade pottery with motifs of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike wird für diese Tour dringend empfohlen, es sei denn, Sie sind ein sehr trainierter Radfahrer.",
+          "Tragen Sie einen Helm und seien Sie auf den engen, kurvigen Straßen vorsichtig, die Sie mit Tourbussen teilen.",
+          "Nehmen Sie Werkzeug für eine Reifenpanne und eine zusätzliche Wasserflasche mit.",
+          "Die Abfahrt von den Klöstern kann schnell und gefährlich sein, kontrollieren Sie Ihre Geschwindigkeit."
+        ],
+        "hu": [
+          "Ehhez a túrához erősen ajánlott az e-bike, hacsak nem nagyon edzett kerékpáros.",
+          "Viseljen sisakot, és legyen óvatos a szűk, kanyargós utakon, amelyeken turistabuszokkal osztozik.",
+          "Vigyen magával defektjavító készletet és egy extra vizes palackot.",
+          "A kolostoroktól lefelé vezető út gyors és veszélyes lehet, ellenőrizze a sebességét."
+        ],
+        "ro": [
+          "O bicicletă electrică este puternic recomandată pentru acest tur, cu excepția cazului în care sunteți un ciclist foarte antrenat.",
+          "Purtați cască și fiți prudenți pe drumurile înguste și șerpuite pe care le împărțiți cu autobuzele turistice.",
+          "Luați un kit de pană și o sticlă de apă suplimentară.",
+          "Coborârea de la mănăstiri poate fi rapidă și periculoasă, controlați-vă viteza."
+        ],
+        "en": [
+          "An e-bike is strongly recommended for this tour unless you are a very trained cyclist.",
+          "Wear a helmet and be cautious on the narrow, winding roads you'll share with tour buses.",
+          "Bring a puncture repair kit and an extra water bottle.",
+          "The descent from the monasteries can be fast and dangerous, control your speed."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 28.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Theopetra-Höhle",
+            "hu": "Theopetra-barlang",
+            "ro": "Peștera Theopetra",
+            "en": "Theopetra Cave"
+          },
+          "coords": [
+            21.571,
+            39.697
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um den Menschenmassen am Morgen zu entgehen. Ein faszinierender Ort.",
+            "hu": "Kezdje itt, hogy elkerülje a reggeli tömeget. Lenyűgöző hely.",
+            "ro": "Începeți aici pentru a evita aglomerația de dimineață. Un loc fascinant.",
+            "en": "Start here to avoid the morning crowds. A fascinating place."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Megalo Meteoro",
+            "hu": "Nagy Meteora kolostor",
+            "ro": "Mănăstirea Marele Meteor",
+            "en": "Monastery of Great Meteoron"
+          },
+          "coords": [
+            21.626,
+            39.726
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 16.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier. Von hier aus können Sie das nächste Kloster zu Fuß erreichen.",
+            "hu": "Parkoljon itt. Innen gyalogosan is elérheti a következő kolostort.",
+            "ro": "Parcați aici. De aici puteți ajunge pe jos la următoarea mănăstire.",
+            "en": "Park here. From here you can walk to the next monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Varlaam",
+            "hu": "Varlaam-kolostor",
+            "ro": "Mănăstirea Varlaam",
+            "en": "Monastery of Varlaam"
+          },
+          "coords": [
+            21.631,
+            39.726
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Megalo Meteoro. Genießen Sie die unterschiedlichen Perspektiven.",
+            "hu": "Rövid séta a Nagy Meteorától. Élvezze a különböző perspektívákat.",
+            "ro": "O scurtă plimbare de la Marele Meteor. Bucurați-vă de perspectivele diferite.",
+            "en": "A short walk from the Great Meteoron. Enjoy the different perspectives."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Psaropetra",
+            "hu": "Psaropetra kilátópont",
+            "ro": "Punct de belvedere Psaropetra",
+            "en": "Psaropetra Viewpoint"
+          },
+          "coords": [
+            21.633,
+            39.729
+          ],
+          "category": "natural features",
+          "arrive_at": "13:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zurück zum Auto und fahren Sie nur ein kurzes Stück oder gehen Sie zu Fuß zu diesem Fotostopp.",
+            "hu": "Sétáljon vissza az autóhoz, és vezessen egy rövid távot, vagy sétáljon el ehhez a fotómegállóhoz.",
+            "ro": "Mergeți înapoi la mașină și conduceți o distanță scurtă sau mergeți pe jos până la acest popas foto.",
+            "en": "Walk back to the car and drive a short distance or walk to this photo stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Rousanou",
+            "hu": "Rousanou-kolostor",
+            "ro": "Mănăstirea Rousanou",
+            "en": "Monastery of Rousanou"
+          },
+          "coords": [
+            21.629,
+            39.724
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf dem kleinen Parkplatz unterhalb des Klosters.",
+            "hu": "Parkoljon a kolostor alatti kis parkolóban.",
+            "ro": "Parcați în parcarea mică de sub mănăstire.",
+            "en": "Park in the small parking lot below the monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorf Kastraki (fürs Mittagessen)",
+            "hu": "Kastraki falu (ebédre)",
+            "ro": "Satul Kastraki (pentru prânz)",
+            "en": "Kastraki Village (for lunch)"
+          },
+          "coords": [
+            21.623,
+            39.715
+          ],
+          "category": "gastro",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein spätes, aber ruhiges Mittagessen in einer traditionellen Taverne.",
+            "hu": "Késői, de csendes ebéd egy hagyományos tavernában.",
+            "ro": "Un prânz târziu, dar liniștit, la o tavernă tradițională.",
+            "en": "A late but quiet lunch in a traditional tavern."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturkundemuseum Meteora",
+            "hu": "Meteorák Természettudományi Múzeuma",
+            "ro": "Muzeul de Istorie Naturală Meteora",
+            "en": "Natural History Museum of Meteora"
+          },
+          "coords": [
+            21.628,
+            39.705
+          ],
+          "category": "museums",
+          "arrive_at": "17:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum von Kalambaka und erkunden Sie die letzten beiden Stationen zu Fuß.",
+            "hu": "Parkoljon Kalambaka központjában, és fedezze fel az utolsó két megállót gyalog.",
+            "ro": "Parcați în centrul Kalambakăi și explorați ultimele două opriri pe jos.",
+            "en": "Park in the center of Kalambaka and explore the last two stops on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Entschlafens-Kirche",
+            "hu": "Szűz Mária elszenderedése templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Dormition of the Virgin Mary"
+          },
+          "coords": [
+            21.626,
+            39.704
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "18:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum, um den Tag ausklingen zu lassen.",
+            "hu": "Rövid séta a múzeumtól a nap lezárásaként.",
+            "ro": "O scurtă plimbare de la muzeu pentru a încheia ziua.",
+            "en": "A short walk from the museum to round off the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Maximieren Sie Ihre Zeit mit dem Auto. Beginnen Sie früh bei der abgelegenen Theopetra-Höhle. Fahren Sie dann hoch in die Berge zum ersten Kloster-Cluster: Parken Sie am Megalo Meteoro und spazieren Sie zum benachbarten Varlaam und dem Psaropetra-Aussichtspunkt. Nach diesem spirituellen Vormittag fahren Sie zum beeindruckenden Kloster Rousanou. Gönnen Sie sich ein spätes Mittagessen im malerischen Dorf Kastraki. Den Abschluss bildet ein letzter Stopp in Kalambaka, wo Sie Ihr Auto parken, um das Naturkundemuseum und die historische byzantinische Kirche zu Fuß zu erkunden. Effizient und umfassend.",
+        "hu": "Maximalizálja az idejét autóval. Kezdjen korán a távoli Theopetra-barlangnál. Ezután hajtson fel a hegyekbe az első kolostorcsoporthoz: parkoljon a Nagy Meteora-nál, és sétáljon át a szomszédos Varlaamhoz és a Psaropetra-kilátóhoz. E spirituális délelőtt után vezessen el a lenyűgöző Rousanou-kolostorhoz. Kényeztesse magát egy késői ebéddel a festői Kastraki faluban. A napot egy utolsó megálló zárja Kalambakában, ahol leparkolhatja autóját, hogy gyalog fedezze fel a Természettudományi Múzeumot és a történelmi bizánci templomot. Hatékony és átfogó.",
+        "ro": "Maximizați-vă timpul cu mașina. Începeți devreme la peștera îndepărtată Theopetra. Apoi urcați în munți la primul grup de mănăstiri: parcați la Marele Meteor și mergeți pe jos la Varlaam, aflat în apropiere, și la punctul de belvedere Psaropetra. După această dimineață spirituală, conduceți la impresionanta Mănăstire Rousanou. Bucurați-vă de un prânz târziu în satul pitoresc Kastraki. Încheiați cu o ultimă oprire în Kalambaka, unde parcați mașina pentru a explora pe jos Muzeul de Istorie Naturală și biserica bizantină istorică. Eficient și cuprinzător.",
+        "en": "Maximize your time with a car. Start early at the remote Theopetra Cave. Then drive up into the mountains to the first monastery cluster: park at the Great Meteoron and walk to the neighboring Varlaam and the Psaropetra viewpoint. After this spiritual morning, drive to the impressive Monastery of Rousanou. Treat yourself to a late lunch in the picturesque village of Kastraki. Finish with a final stop in Kalambaka, parking your car to explore the Natural History Museum and the historic Byzantine church on foot. Efficient and comprehensive."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gardenia Restaurant (Kastraki)",
+            "tip": "Bietet einen wunderschönen Garten und traditionelle Gerichte. Perfekt für ein entspanntes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gardenia Étterem (Kastraki)",
+            "tip": "Gyönyörű kerttel és hagyományos ételekkel várja. Tökéletes egy pihentető ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Gardenia (Kastraki)",
+            "tip": "Oferă o grădină frumoasă și mâncăruri tradiționale. Perfect pentru un prânz relaxant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardenia Restaurant (Kastraki)",
+            "tip": "Offers a beautiful garden and traditional dishes. Perfect for a relaxing lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkte entlang der Straße",
+            "tip": "Es gibt viele kleine Haltebuchten mit fantastischer Aussicht und weniger Menschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Theopetra-Höhle am frühen Morgen",
+            "tip": "Bevor die Busse ankommen, ist der Ort magisch und still.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópontok az út mentén",
+            "tip": "Számos kis megállóhely található fantasztikus kilátással és kevesebb emberrel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Theopetra-barlang kora reggel",
+            "tip": "Mielőtt a buszok megérkeznek, a hely varázslatos és csendes.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puncte de belvedere de-a lungul drumului",
+            "tip": "Există multe locuri mici de oprire cu priveliști fantastice și mai puțini oameni.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Peștera Theopetra dimineața devreme",
+            "tip": "Înainte de sosirea autobuzelor, locul este magic și liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoints along the road",
+            "tip": "There are many small pull-offs with fantastic views and fewer people.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Theopetra Cave in the early morning",
+            "tip": "Before the buses arrive, the place is magical and quiet.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschnitzte Holzwaren",
+            "tip": "Halten Sie Ausschau nach kleinen Holzgegenständen, die von lokalen Handwerkern gefertigt wurden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Faragott fatárgyak",
+            "tip": "Keresse a helyi kézművesek által készített apró fatárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Obiecte din lemn sculptat",
+            "tip": "Căutați mici obiecte din lemn realizate de artizani locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carved wooden goods",
+            "tip": "Look for small wooden items made by local artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Ihr Klosterticket im Voraus online, wenn möglich, um Wartezeiten zu vermeiden.",
+          "Parkplätze an den Klöstern sind begrenzt und schnell voll. Seien Sie früh da.",
+          "Die Straße ist eng und kurvenreich. Fahren Sie vorsichtig und achten Sie auf Busse und Fußgänger.",
+          "Ein kleineres Auto ist wendiger und leichter zu parken."
+        ],
+        "hu": [
+          "Ha lehetséges, vegye meg online előre a kolostorjegyet, hogy elkerülje a sorban állást.",
+          "A kolostoroknál a parkolóhelyek korlátozottak és gyorsan megtelnek. Érkezzen korán.",
+          "Az út szűk és kanyargós. Vezessen óvatosan, és figyeljen a buszokra és a gyalogosokra.",
+          "Egy kisebb autó mozgékonyabb és könnyebb vele parkolni."
+        ],
+        "ro": [
+          "Cumpărați-vă biletul la mănăstire online în avans, dacă este posibil, pentru a evita cozile.",
+          "Parcările la mănăstiri sunt limitate și se umplu repede. Ajungeți devreme.",
+          "Drumul este îngust și șerpuit. Conduceți cu prudență și fiți atenți la autobuze și pietoni.",
+          "O mașină mai mică este mai manevrabilă și mai ușor de parcat."
+        ],
+        "en": [
+          "Buy your monastery ticket online in advance if possible to avoid queues.",
+          "Parking at the monasteries is limited and fills up quickly. Be there early.",
+          "The road is narrow and winding. Drive carefully and watch out for buses and pedestrians.",
+          "A smaller car is more agile and easier to park."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrum von Kalambaka (Busbahnhof)",
+            "hu": "Kalambaka központja (buszpályaudvar)",
+            "ro": "Centrul Kalambaka (Autogară)",
+            "en": "Kalambaka Center (Bus Station)"
+          },
+          "coords": [
+            21.625,
+            39.704
+          ],
+          "category": "transit",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den ersten Bus des Tages in Richtung der Klöster. Kaufen Sie ein Tagesticket.",
+            "hu": "Menjen az első reggeli busszal a kolostorok felé. Vegyen napijegyet.",
+            "ro": "Luați primul autobuz al zilei spre mănăstiri. Cumpărați un bilet de o zi.",
+            "en": "Take the first bus of the day towards the monasteries. Buy a day ticket."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Megalo Meteoro",
+            "hu": "Nagy Meteora kolostor",
+            "ro": "Mănăstirea Marele Meteor",
+            "en": "Monastery of Great Meteoron"
+          },
+          "coords": [
+            21.626,
+            39.726
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie an der Endstation aus und beginnen Sie mit dem größten Kloster.",
+            "hu": "Szálljon le a végállomáson, és kezdje a legnagyobb kolostorral.",
+            "ro": "Coborâți la capăt de linie și începeți cu cea mai mare mănăstire.",
+            "en": "Get off at the last stop and start with the largest monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Varlaam",
+            "hu": "Varlaam-kolostor",
+            "ro": "Mănăstirea Varlaam",
+            "en": "Monastery of Varlaam"
+          },
+          "coords": [
+            21.631,
+            39.726
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang vom Megalo Meteoro. Folgen Sie der Straße.",
+            "hu": "Könnyű séta a Nagy Meteorától. Kövesse az utat.",
+            "ro": "O plimbare ușoară de la Marele Meteor. Urmați drumul.",
+            "en": "An easy walk from the Great Meteoron. Follow the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Rousanou",
+            "hu": "Rousanou-kolostor",
+            "ro": "Mănăstirea Rousanou",
+            "en": "Monastery of Rousanou"
+          },
+          "coords": [
+            21.629,
+            39.724
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang bergab. Genießen Sie die Aussicht, bevor Sie den Bus zurück nehmen.",
+            "hu": "Egy szép séta lefelé. Élvezze a kilátást, mielőtt visszaszáll a buszra.",
+            "ro": "O plimbare frumoasă la vale. Bucurați-vă de priveliște înainte de a lua autobuzul înapoi.",
+            "en": "A beautiful walk downhill. Enjoy the view before taking the bus back."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorf Kastraki (fürs Mittagessen)",
+            "hu": "Kastraki falu (ebédre)",
+            "ro": "Satul Kastraki (pentru prânz)",
+            "en": "Kastraki Village (for lunch)"
+          },
+          "coords": [
+            21.623,
+            39.715
+          ],
+          "category": "gastro",
+          "arrive_at": "14:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie auf dem Rückweg in Kastraki aus für ein authentisches Mittagessen.",
+            "hu": "Szálljon ki Kastraki-ban a visszaúton egy autentikus ebédre.",
+            "ro": "Coborâți în Kastraki în drum spre întoarcere pentru un prânz autentic.",
+            "en": "Get off in Kastraki on the way back for an authentic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturkundemuseum Meteora",
+            "hu": "Meteorák Természettudományi Múzeuma",
+            "ro": "Muzeul de Istorie Naturală Meteora",
+            "en": "Natural History Museum of Meteora"
+          },
+          "coords": [
+            21.628,
+            39.705
+          ],
+          "category": "museums",
+          "arrive_at": "16:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von Kastraki aus können Sie gemütlich zurück nach Kalambaka spazieren und das Museum besuchen.",
+            "hu": "Kastrakiból kényelmesen visszasétálhat Kalambakába és meglátogathatja a múzeumot.",
+            "ro": "Din Kastraki puteți merge pe jos înapoi la Kalambaka și puteți vizita muzeul.",
+            "en": "From Kastraki, you can leisurely walk back to Kalambaka and visit the museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um die Höhen zu überwinden. Fahren Sie morgens direkt zum höchsten Punkt, dem Megalo Meteoro. Erkunden Sie von dort aus das erste Kloster-Cluster zu Fuß, indem Sie zum Varlaam und dann bergab zum Rousanou spazieren. Jeder Abschnitt bietet eine neue Perspektive. Nehmen Sie den Bus zurück und steigen Sie im Dorf Kastraki für ein wohlverdientes Mittagessen in einer Taverne aus. Der letzte Teil Ihrer Reise ist ein entspannter Spaziergang von Kastraki zurück ins Zentrum von Kalambaka, mit einem letzten kulturellen Halt im Naturkundemuseum.",
+        "hu": "Használja a helyi buszt a magasságok leküzdésére. Reggel menjen egyenesen a legmagasabb pontra, a Nagy Meteorához. Onnan gyalogosan fedezze fel az első kolostorcsoportot, átsétálva a Varlaamhoz, majd lefelé a Rousanou-hoz. Minden szakasz új perspektívát kínál. Vegye a buszt vissza, és szálljon ki Kastraki faluban egy jól megérdemelt ebédre egy tavernában. Az utazás utolsó része egy pihentető séta Kastraki-ból vissza Kalambaka központjába, egy utolsó kulturális megállóval a Természettudományi Múzeumban.",
+        "ro": "Folosiți autobuzul local pentru a cuceri înălțimile. Dimineața, mergeți direct la cel mai înalt punct, Marele Meteor. De acolo, explorați primul grup de mănăstiri pe jos, mergând la Varlaam și apoi coborând la Rousanou. Fiecare secțiune oferă o nouă perspectivă. Luați autobuzul înapoi și coborâți în satul Kastraki pentru un prânz binemeritat la o tavernă. Ultima parte a călătoriei este o plimbare relaxantă de la Kastraki înapoi în centrul Kalambakăi, cu o ultimă oprire culturală la Muzeul de Istorie Naturală.",
+        "en": "Use the local bus to conquer the heights. In the morning, go directly to the highest point, the Great Meteoron. From there, explore the first monastery cluster on foot, walking to Varlaam and then downhill to Rousanou. Each section offers a new perspective. Take the bus back and get off in the village of Kastraki for a well-deserved lunch at a tavern. The last part of your journey is a relaxing walk from Kastraki back to the center of Kalambaka, with a final cultural stop at the Natural History Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverna To Kastraki",
+            "tip": "Ein beliebter Ort bei Einheimischen und Touristen in Kastraki für traditionelle griechische Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taverna To Kastraki",
+            "tip": "Kastrakiban a helyiek és a turisták körében is népszerű hely a hagyományos görög ételekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna To Kastraki",
+            "tip": "Un loc popular atât printre localnici, cât și printre turiști în Kastraki pentru mâncăruri tradiționale grecești."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taverna To Kastraki",
+            "tip": "A popular spot with locals and tourists alike in Kastraki for traditional Greek dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Busfahrt selbst",
+            "tip": "Schauen Sie aus dem Fenster und genießen Sie die sich ständig ändernde Landschaft, während Sie die Serpentinen hinauffahren.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maga a buszút",
+            "tip": "Nézzen ki az ablakon, és élvezze a folyamatosan változó tájat, miközben felkanyarog a szerpentineken.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul în sine",
+            "tip": "Priviți pe geam și bucurați-vă de peisajul în continuă schimbare în timp ce urcați pe serpentine.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "The bus ride itself",
+            "tip": "Look out the window and enjoy the ever-changing landscape as you drive up the switchbacks.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden an den Klöstern",
+            "tip": "Hier finden Sie eine große Auswahl an religiösen Andenken und Büchern über Meteora."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírboltok a kolostoroknál",
+            "tip": "Itt vallási emléktárgyak és a Meteorákról szóló könyvek széles választékát találja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri la mănăstiri",
+            "tip": "Aici veți găsi o selecție largă de suveniruri religioase și cărți despre Meteora."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops at the monasteries",
+            "tip": "Here you will find a wide selection of religious souvenirs and books about Meteora."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan sorgfältig. Die Busse fahren nicht sehr häufig, besonders außerhalb der Saison.",
+          "Ein Tagesticket ist normalerweise günstiger als mehrere Einzelfahrten.",
+          "Behalten Sie die Zeit im Auge, um den letzten Bus zurück nach Kalambaka nicht zu verpassen.",
+          "Der Bus kann in der Hochsaison sehr voll werden. Seien Sie früh an der Haltestelle."
+        ],
+        "hu": [
+          "Gondosan ellenőrizze a buszmenetrendet. A buszok nem járnak túl gyakran, különösen szezonon kívül.",
+          "A napijegy általában olcsóbb, mint több egyedi jegy.",
+          "Tartsa szemmel az időt, hogy ne késsen le az utolsó buszról vissza Kalambakába.",
+          "A busz főszezonban nagyon zsúfolt lehet. Érkezzen korán a megállóba."
+        ],
+        "ro": [
+          "Verificați cu atenție orarul autobuzelor. Autobuzele nu circulă foarte frecvent, mai ales în afara sezonului.",
+          "Un bilet de o zi este de obicei mai ieftin decât mai multe călătorii individuale.",
+          "Fiți cu ochii pe ceas pentru a nu pierde ultimul autobuz înapoi spre Kalambaka.",
+          "Autobuzul poate fi foarte aglomerat în sezonul de vârf. Ajungeți devreme la stație."
+        ],
+        "en": [
+          "Check the bus schedule carefully. The buses do not run very frequently, especially out of season.",
+          "A day ticket is usually cheaper than several single trips.",
+          "Keep an eye on the time so you don't miss the last bus back to Kalambaka.",
+          "The bus can get very crowded during high season. Be at the stop early."
+        ]
+      }
+    }
+  }
+}

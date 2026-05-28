@@ -1,0 +1,1532 @@
+{
+  "city_id": "mezohegyes",
+  "anchor": {
+    "name": "Mezőhegyes",
+    "coords": [
+      20.8167,
+      46.3167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nonius-Statue",
+            "hu": "Nóniusz-szobor",
+            "ro": "Statuia Nonius",
+            "en": "Nonius Statue"
+          },
+          "coords": [
+            20.817,
+            46.3165
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ausgangspunkt, um die Bedeutung der Pferdezucht für die Stadt zu verstehen.",
+            "hu": "Tökéletes kiindulópont a város lótenyésztési jelentőségének megértéséhez.",
+            "ro": "Un punct de plecare perfect pentru a înțelege importanța creșterii cailor pentru oraș.",
+            "en": "A perfect starting point to understand the importance of horse breeding for the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatsgestüt Mezőhegyes",
+            "hu": "Mezőhegyesi Állami Ménesbirtok",
+            "ro": "Herghelia de Stat Mezőhegyes",
+            "en": "State Stud of Mezőhegyes"
+          },
+          "coords": [
+            20.8195,
+            46.318
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die historischen Stallungen und die berühmten Pferde zu sehen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megnézze a történelmi istállókat és a híres lovakat.",
+            "ro": "Participați la un tur ghidat pentru a vedea grajdurile istorice și caii faimoși.",
+            "en": "Join a guided tour to see the historic stables and the famous horses."
+          }
+        },
+        {
+          "name": {
+            "de": "Reithalle",
+            "hu": "Lovarda",
+            "ro": "Manejul",
+            "en": "Riding Hall"
+          },
+          "coords": [
+            20.8188,
+            46.3191
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob während Ihres Besuchs eine Reitvorführung stattfindet.",
+            "hu": "Nézze meg, hogy van-e lovasbemutató a látogatása során.",
+            "ro": "Verificați dacă are loc un spectacol ecvestru în timpul vizitei dumneavoastră.",
+            "en": "Check if there's a riding demonstration happening during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrales Magazin",
+            "hu": "Központi Magtár",
+            "ro": "Magazinul Central",
+            "en": "Central Granary"
+          },
+          "coords": [
+            20.8211,
+            46.3175
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die schiere Größe dieses beeindruckenden landwirtschaftlichen Gebäudes.",
+            "hu": "Csodálja meg ennek a lenyűgöző mezőgazdasági épületnek a puszta méretét.",
+            "ro": "Admirați dimensiunea impresionantă a acestei clădiri agricole.",
+            "en": "Admire the sheer scale of this impressive agricultural building."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Georg-Kirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "St. George's Church"
+          },
+          "coords": [
+            20.8145,
+            46.315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Moment der Ruhe in diesem eleganten klassizistischen Gebäude.",
+            "hu": "Egy pillanatnyi csend ebben az elegáns, klasszicista épületben.",
+            "ro": "Un moment de liniște în această clădire elegantă, neoclasică.",
+            "en": "A moment of quiet in this elegant neoclassical building."
+          }
+        },
+        {
+          "name": {
+            "de": "Elefantentor",
+            "hu": "Elefántos kapu",
+            "ro": "Poarta Elefantului",
+            "en": "Elephant Gate"
+          },
+          "coords": [
+            20.825,
+            46.312
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:05",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einzigartiges Fotomotiv, das den Eingang zu einem Teil des Gestüts markiert.",
+            "hu": "Egyedi fotótéma, amely a ménesbirtok egyik bejáratát jelzi.",
+            "ro": "Un subiect foto unic, marcând intrarea într-o parte a hergheliei.",
+            "en": "A unique photo opportunity, marking the entrance to a part of the stud farm."
+          }
+        },
+        {
+          "name": {
+            "de": "Fichtenwald (Fenyves)",
+            "hu": "Fenyves",
+            "ro": "Pădurea de pini (Fenyves)",
+            "en": "Pine Forest (Fenyves)"
+          },
+          "coords": [
+            20.815,
+            46.33
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang, um den Tag inmitten der Natur ausklingen zu lassen. Perfekt für ein Picknick.",
+            "hu": "Egy pihentető séta a nap lezárásaként a természetben. Piknikezésre tökéletes.",
+            "ro": "O plimbare relaxantă pentru a încheia ziua în mijlocul naturii. Perfect pentru un picnic.",
+            "en": "A relaxing walk to end the day surrounded by nature. Perfect for a picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Mezőhegyes beginnt im Herzen des landwirtschaftlichen Erbes der Stadt und ist eine Hommage an das berühmte Nonius-Pferd. Der Vormittag ist ganz dem Staatsgestüt gewidmet, wo Sie die majestätischen Gebäude und die eleganten Pferde, die diese Rasse definieren, aus nächster Nähe erleben. Es ist eine tiefgehende Erfahrung in der ungarischen Agrargeschichte.\n\nNach dem Mittagessen führt Sie ein gemütlicher Spaziergang zur klassizistischen St.-Georg-Kirche, die einen ruhigen Kontrapunkt zum geschäftigen Gestüt darstellt. Sie werden auch auf einzigartige Wahrzeichen wie das Elefantentor stoßen, die die Geschichte des Gestüts aus verschiedenen Blickwinkeln erzählen.\n\nDer Nachmittag ist für Entspannung im Fichtenwald reserviert. Der Duft der Kiefern und die ruhige Atmosphäre bieten den perfekten Rahmen, um die Eindrücke des Tages zu verarbeiten. Es ist ein idealer Ort für einen langen Spaziergang oder einfach nur, um die Natur zu genießen.\n\nWenn der Abend naht, kehren Sie ins Zentrum zurück, vielleicht für ein herzhaftes Abendessen in einem lokalen Restaurant. Die Erinnerungen an die stolzen Pferde und die weitläufigen Felder von Mezőhegyes werden Ihnen als Zeugnis des reichen landwirtschaftlichen Erbes der Großen Ungarischen Tiefebene erhalten bleiben.",
+        "hu": "A nap Mezőhegyesen a város mezőgazdasági örökségének szívében indul, tisztelegve a híres nóniusz ló előtt. A délelőttöt teljes egészében az Állami Ménesbirtoknak szenteljük, ahol testközelből ismerheti meg a fenséges épületeket és az elegáns lovakat, amelyek meghatározzák ezt a fajtát. Ez egy mélyreható élmény a magyar agrártörténelemben.\n\nEbéd után egy kellemes séta vezet a klasszicista Szent György-templomhoz, amely békés ellenpontot kínál a ménesbirtok nyüzsgésével szemben. Olyan egyedi nevezetességekkel is találkozni fog, mint az Elefántos kapu, amelyek a ménes történetét különböző szemszögekből mesélik el.\n\n A délután a Fenyvesben való pihenésé. A fenyőillat és a nyugodt légkör tökéletes keretet biztosít a nap benyomásainak feldolgozásához. Ideális hely egy hosszú sétához vagy egyszerűen csak a természet élvezetéhez.\n\nAz este közeledtével térjen vissza a központba, esetleg egy kiadós vacsorára egy helyi étteremben. A büszke lovak és a tágas mezőhegyesi földek emléke megmarad, mint a Magyar Alföld gazdag mezőgazdasági örökségének bizonyítéka.",
+        "ro": "Ziua dvs. în Mezőhegyes începe în inima moștenirii agricole a orașului, aducând un omagiu faimosului cal Nonius. Dimineața este dedicată în întregime Hergheliei de Stat, unde veți experimenta de aproape clădirile maiestuoase și caii eleganți care definesc această rasă. Este o experiență profundă în istoria agrară maghiară.\n\nDupă prânz, o plimbare agale vă duce la Biserica neoclasică Sfântul Gheorghe, oferind un contrapunct liniștit la agitația hergheliei. Veți întâlni, de asemenea, repere unice precum Poarta Elefantului, care povestesc istoria hergheliei din diferite unghiuri.\n\nDupă-amiaza este rezervată relaxării în Pădurea de Pini (Fenyves). Parfumul pinilor și atmosfera liniștită oferă cadrul perfect pentru a procesa impresiile zilei. Este un loc ideal pentru o plimbare lungă sau pur și simplu pentru a vă bucura de natură.\n\nPe măsură ce se apropie seara, vă întoarceți în centru, poate pentru o cină copioasă la un restaurant local. Amintirile cailor mândri și ale câmpurilor vaste din Mezőhegyes vor rămâne ca o mărturie a bogatei moșteniri agricole a Marii Câmpii Ungare.",
+        "en": "Your day in Mezőhegyes begins in the heart of the town's agricultural heritage, paying homage to the famous Nonius horse. The morning is entirely dedicated to the State Stud, where you'll get an up-close experience of the majestic buildings and the elegant horses that define this breed. It's a profound experience in Hungarian agrarian history.\n\nAfter lunch, a leisurely stroll takes you to the neoclassical St. George's Church, offering a peaceful counterpoint to the bustling stud farm. You'll also encounter unique landmarks like the Elephant Gate, which tell the stud's story from different angles.\n\nThe afternoon is reserved for relaxation in the Pine Forest (Fenyves). The scent of pine and the tranquil atmosphere provide the perfect setting to process the day's impressions. It's an ideal spot for a long walk or simply to enjoy nature.\n\nAs evening approaches, you'll return to the center, perhaps for a hearty dinner at a local restaurant. The memories of the proud horses and the vast fields of Mezőhegyes will remain as a testament to the rich agricultural heritage of the Great Hungarian Plain."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gulasch (Gulyás)",
+            "tip": "Ein herzhafter Klassiker der ungarischen Tiefebene."
+          },
+          {
+            "name": "Langos",
+            "tip": "Probieren Sie diesen beliebten ungarischen Straßensnack auf einem lokalen Markt."
+          },
+          {
+            "name": "Peregi Csárda",
+            "tip": "Ein traditionelles Restaurant, das für seine authentische ungarische Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gulyásleves",
+            "tip": "Az Alföld kiadós, klasszikus étele."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Kóstolja meg ezt a népszerű magyar street foodot egy helyi piacon."
+          },
+          {
+            "name": "Peregi Csárda",
+            "tip": "Hagyományos étterem, amely autentikus magyar konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș (Gulyás)",
+            "tip": "Un clasic consistent al Marii Câmpii Ungare."
+          },
+          {
+            "name": "Langos",
+            "tip": "Încercați această gustare stradală maghiară populară la o piață locală."
+          },
+          {
+            "name": "Peregi Csárda",
+            "tip": "Un restaurant tradițional cunoscut pentru bucătăria sa autentică maghiară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goulash (Gulyás)",
+            "tip": "A hearty classic of the Great Hungarian Plain."
+          },
+          {
+            "name": "Langos",
+            "tip": "Try this popular Hungarian street food snack at a local market."
+          },
+          {
+            "name": "Peregi Csárda",
+            "tip": "A traditional restaurant known for its authentic Hungarian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fichtenwald (Fenyves)",
+            "tip": "Der perfekte Ort für einen ruhigen Spaziergang und um die Stille zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer eines nahegelegenen Kanals",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser zum Nachdenken.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Kirchgarten",
+            "tip": "Ein friedlicher Ort neben der St.-Georg-Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fenyves",
+            "tip": "Tökéletes hely egy csendes sétára és a nyugalom élvezetére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Közeli csatorna partja",
+            "tip": "Keressen egy csendes helyet a víz mellett elmélkedésre.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "Békés hely a Szent György-templom mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de pini (Fenyves)",
+            "tip": "Locul perfect pentru o plimbare liniștită și pentru a vă bucura de tăcere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul unui canal din apropiere",
+            "tip": "Găsiți un loc liniștit lângă apă pentru reflecție.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Grădina bisericii",
+            "tip": "Un loc pașnic lângă Biserica Sfântul Gheorghe.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pine Forest (Fenyves)",
+            "tip": "The perfect place for a quiet walk and to enjoy the silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank of a nearby canal",
+            "tip": "Find a quiet spot by the water for reflection.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Church garden",
+            "tip": "A peaceful spot next to St. George's Church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Suchen Sie nach lokalen Produkten, Honig und handwerklichen Erzeugnissen."
+          },
+          {
+            "name": "Souvenirs zum Thema Pferd",
+            "tip": "Im Gestüt finden Sie wahrscheinlich Souvenirs, die mit der Nonius-Rasse in Verbindung stehen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Keressen helyi termékeket, mézet és kézműves árukat."
+          },
+          {
+            "name": "Lovas témájú ajándéktárgyak",
+            "tip": "A ménesbirtokon valószínűleg talál a nóniusz fajtához kapcsolódó ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală a fermierilor",
+            "tip": "Căutați produse locale, miere și produse artizanale."
+          },
+          {
+            "name": "Suveniruri cu tematică ecvestră",
+            "tip": "La herghelie veți găsi probabil suveniruri legate de rasa Nonius."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farmers' Market",
+            "tip": "Look for local produce, honey, and artisanal products."
+          },
+          {
+            "name": "Horse-themed souvenirs",
+            "tip": "At the stud farm, you'll likely find souvenirs related to the Nonius breed."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders an warmen Tagen.",
+          "Die Führungen im Gestüt sind sehr zu empfehlen.",
+          "Prüfen Sie die Öffnungszeiten der einzelnen Standorte im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Hozzon magával vizet, különösen meleg napokon.",
+          "A ménesbirtokon a vezetett túrák erősen ajánlottak.",
+          "Előre ellenőrizze az egyes helyszínek nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați apă cu dvs., mai ales în zilele călduroase.",
+          "Tururile ghidate la herghelie sunt foarte recomandate.",
+          "Verificați în avans orele de program ale fiecărei locații."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring water with you, especially on warm days.",
+          "The guided tours at the stud farm are highly recommended.",
+          "Check the opening hours of each location in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 8.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Wasserturm",
+            "hu": "Víztorony",
+            "ro": "Turnul de apă",
+            "en": "Water Tower"
+          },
+          "coords": [
+            20.8123,
+            46.3198
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein ikonisches Wahrzeichen der industriellen Vergangenheit der Stadt.",
+            "hu": "A város ipari múltjának ikonikus jelképe.",
+            "ro": "Un punct de reper iconic al trecutului industrial al orașului.",
+            "en": "An iconic landmark of the town's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatsgestüt Mezőhegyes",
+            "hu": "Mezőhegyesi Állami Ménesbirtok",
+            "ro": "Herghelia de Stat Mezőhegyes",
+            "en": "State Stud of Mezőhegyes"
+          },
+          "coords": [
+            20.8195,
+            46.318
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:31",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für eine umfassende Tour durch diesen riesigen Komplex ein.",
+            "hu": "Szánjon elegendő időt ennek a hatalmas komplexumnak az alapos bejárására.",
+            "ro": "Planificați suficient timp pentru un tur cuprinzător al acestui complex vast.",
+            "en": "Allow plenty of time for a comprehensive tour of this vast complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Nonius-Statue",
+            "hu": "Nóniusz-szobor",
+            "ro": "Statuia Nonius",
+            "en": "Nonius Statue"
+          },
+          "coords": [
+            20.817,
+            46.3165
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine Hommage an den Gründerhengst der berühmten Pferderasse.",
+            "hu": "Tisztelgés a híres lófajta alapító ménje előtt.",
+            "ro": "Un omagiu adus armăsarului fondator al faimoasei rase de cai.",
+            "en": "A tribute to the foundation stallion of the famous horse breed."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrales Magazin",
+            "hu": "Központi Magtár",
+            "ro": "Magazinul Central",
+            "en": "Central Granary"
+          },
+          "coords": [
+            20.8211,
+            46.3175
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie sich die landwirtschaftliche Aktivität vor, die einst dieses massive Gebäude umgab.",
+            "hu": "Képzelje el a mezőgazdasági tevékenységet, amely egykor ezt a hatalmas épületet övezte.",
+            "ro": "Imaginați-vă activitatea agricolă care înconjura odată această clădire masivă.",
+            "en": "Imagine the agricultural activity that once surrounded this massive building."
+          }
+        },
+        {
+          "name": {
+            "de": "Elefantentor",
+            "hu": "Elefántos kapu",
+            "ro": "Poarta Elefantului",
+            "en": "Elephant Gate"
+          },
+          "coords": [
+            20.825,
+            46.312
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:34",
+          "stay_min": 20,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein unerwartetes und charmantes architektonisches Detail.",
+            "hu": "Váratlan és bájos építészeti részlet.",
+            "ro": "Un detaliu arhitectural neașteptat și fermecător.",
+            "en": "An unexpected and charming architectural detail."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Georg-Kirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "St. George's Church"
+          },
+          "coords": [
+            20.8145,
+            46.315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die klaren Linien der klassizistischen Architektur.",
+            "hu": "Csodálja meg a klasszicista építészet letisztult vonalait.",
+            "ro": "Admirați liniile curate ale arhitecturii neoclasice.",
+            "en": "Admire the clean lines of the neoclassical architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Reithalle",
+            "hu": "Lovarda",
+            "ro": "Manejul",
+            "en": "Riding Hall"
+          },
+          "coords": [
+            20.8188,
+            46.3191
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Zentrum der Reitkultur in Mezőhegyes.",
+            "hu": "A mezőhegyesi lovaskultúra központja.",
+            "ro": "Centrul culturii ecvestre din Mezőhegyes.",
+            "en": "The hub of equestrian culture in Mezőhegyes."
+          }
+        },
+        {
+          "name": {
+            "de": "Fichtenwald (Fenyves)",
+            "hu": "Fenyves",
+            "ro": "Pădurea de pini (Fenyves)",
+            "en": "Pine Forest (Fenyves)"
+          },
+          "coords": [
+            20.815,
+            46.33
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:38",
+          "stay_min": 78,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Radtour mit einer erfrischenden Pause im Wald ab.",
+            "hu": "Zárja a kerékpártúrát egy frissítő erdei pihenővel.",
+            "ro": "Încheiați turul cu bicicleta cu o pauză revigorantă în pădure.",
+            "en": "Conclude your bike tour with a refreshing break in the forest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Mezőhegyes beginnt mit einem Blick auf die industriellen Wahrzeichen der Stadt und führt Sie schnell zum weitläufigen Gelände des Staatsgestüts. Der Vormittag ist eine Reise durch das Herz der Pferdezucht, bei der Sie die verschiedenen Gebäude und Denkmäler, die die Geschichte des Nonius-Pferdes erzählen, mit dem Fahrrad erkunden.\n\nNachdem Sie die Atmosphäre des Gestüts aufgesogen haben, führt Sie Ihre Route zu ruhigeren Orten. Sie radeln zur eleganten St.-Georg-Kirche und entdecken unterwegs das einzigartige Elefantentor. Die Flexibilität des Fahrrads ermöglicht es Ihnen, diese Orte in Ihrem eigenen Tempo zu erleben und die Mittagszeit für eine Pause und ein lokales Gericht zu nutzen.\n\nDer Nachmittag ist einer entspannten Fahrt zum Fichtenwald gewidmet. Dieser grüne Rückzugsort bietet einen willkommenen Kontrast zu den historischen Backsteingebäuden des Gestüts. Es ist der perfekte Ort, um sich zu entspannen, die frische Luft zu genießen und über die reiche Geschichte nachzudenken, die Sie entdeckt haben.\n\nZum Abschluss Ihrer Tour fahren Sie zurück ins Zentrum, während die Sonne untergeht. Der Tag auf zwei Rädern hat Ihnen einen umfassenden Überblick über das landwirtschaftliche und architektonische Erbe von Mezőhegyes gegeben und die intime Verbindung zwischen der Stadt, ihren Pferden und der umliegenden Landschaft aufgezeigt.",
+        "hu": "A mezőhegyesi kerékpártúra a város ipari jelképeinek megtekintésével kezdődik, majd gyorsan az Állami Ménesbirtok hatalmas területére vezet. A délelőtt egy utazás a lótenyésztés szívébe, ahol kerékpárral fedezheti fel a nóniusz ló történetét elmesélő különböző épületeket és emlékműveket.\n\nMiután magába szívta a ménesbirtok hangulatát, az útvonal csendesebb helyekre vezet. Elteker az elegáns Szent György-templomhoz, útközben felfedezve az egyedülálló Elefántos kaput. A kerékpár rugalmassága lehetővé teszi, hogy saját tempójában élvezze ezeket a helyeket, az ebédszünetet pedig egy helyi étel elfogyasztására használja.\n\n A délután a Fenyvesbe vezető, laza tekerésé. Ez a zöld menedék üdítő kontrasztot kínál a ménesbirtok történelmi téglaépületeivel szemben. Tökéletes hely a kikapcsolódásra, a friss levegő élvezetére és a felfedezett gazdag történelem átgondolására.\n\n A túra befejezéseként naplementekor visszateker a központba. A két keréken töltött nap átfogó képet adott Mezőhegyes mezőgazdasági és építészeti örökségéről, bemutatva a város, lovai és a környező táj közötti szoros kapcsolatot.",
+        "ro": "Turul dvs. cu bicicleta prin Mezőhegyes începe cu o privire asupra reperelor industriale ale orașului, ducându-vă rapid la terenurile întinse ale Hergheliei de Stat. Dimineața este o călătorie în inima creșterii cailor, explorând pe bicicletă diversele clădiri și monumente care spun povestea calului Nonius.\n\nDupă ce ați absorbit atmosfera hergheliei, traseul vă duce spre locuri mai liniștite. Pedalați spre eleganta Biserică Sfântul Gheorghe și descoperiți pe drum unica Poartă a Elefantului. Flexibilitatea bicicletei vă permite să experimentați aceste situri în propriul ritm, folosind pauza de prânz pentru a vă odihni și a gusta un fel de mâncare local.\n\nDupă-amiaza este dedicată unei plimbări relaxante cu bicicleta spre Pădurea de Pini. Acest refugiu verde oferă un contrast binevenit cu clădirile istorice din cărămidă ale hergheliei. Este locul perfect pentru a vă relaxa, a vă bucura de aerul curat și a reflecta asupra istoriei bogate pe care ați descoperit-o.\n\nPentru a încheia turul, pedalați înapoi spre centru în timp ce soarele apune. Ziua pe două roți v-a oferit o imagine de ansamblu cuprinzătoare a moștenirii agricole și arhitecturale din Mezőhegyes, evidențiind legătura intimă dintre oraș, caii săi și peisajul înconjurător.",
+        "en": "Your bike tour of Mezőhegyes starts with a glimpse of the town's industrial landmarks, quickly leading you to the sprawling grounds of the State Stud. The morning is a journey into the heart of horse breeding, exploring by bike the various buildings and monuments that tell the story of the Nonius horse.\n\nAfter soaking up the stud's atmosphere, your route takes you to quieter spots. You'll pedal to the elegant St. George's Church and discover the unique Elephant Gate along the way. The flexibility of the bicycle allows you to experience these sites at your own pace, using the midday break to rest and enjoy a local dish.\n\nThe afternoon is dedicated to a relaxed ride to the Pine Forest. This green retreat offers a welcome contrast to the historic brick buildings of the stud. It's the perfect place to unwind, enjoy the fresh air, and reflect on the rich history you've uncovered.\n\nTo conclude your tour, you'll cycle back to the center as the sun sets. The day on two wheels has given you a comprehensive overview of Mezőhegyes's agricultural and architectural heritage, showcasing the intimate connection between the town, its horses, and the surrounding landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gulasch (Gulyás)",
+            "tip": "Ein herzhafter Klassiker der ungarischen Tiefebene."
+          },
+          {
+            "name": "Langos",
+            "tip": "Probieren Sie diesen beliebten ungarischen Straßensnack auf einem lokalen Markt."
+          },
+          {
+            "name": "Peregi Csárda",
+            "tip": "Ein traditionelles Restaurant, das für seine authentische ungarische Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gulyásleves",
+            "tip": "Az Alföld kiadós, klasszikus étele."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Kóstolja meg ezt a népszerű magyar street foodot egy helyi piacon."
+          },
+          {
+            "name": "Peregi Csárda",
+            "tip": "Hagyományos étterem, amely autentikus magyar konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș (Gulyás)",
+            "tip": "Un clasic consistent al Marii Câmpii Ungare."
+          },
+          {
+            "name": "Langos",
+            "tip": "Încercați această gustare stradală maghiară populară la o piață locală."
+          },
+          {
+            "name": "Peregi Csárda",
+            "tip": "Un restaurant tradițional cunoscut pentru bucătăria sa autentică maghiară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goulash (Gulyás)",
+            "tip": "A hearty classic of the Great Hungarian Plain."
+          },
+          {
+            "name": "Langos",
+            "tip": "Try this popular Hungarian street food snack at a local market."
+          },
+          {
+            "name": "Peregi Csárda",
+            "tip": "A traditional restaurant known for its authentic Hungarian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fichtenwald (Fenyves)",
+            "tip": "Der perfekte Ort für einen ruhigen Spaziergang und um die Stille zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer eines nahegelegenen Kanals",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser zum Nachdenken.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Kirchgarten",
+            "tip": "Ein friedlicher Ort neben der St.-Georg-Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fenyves",
+            "tip": "Tökéletes hely egy csendes sétára és a nyugalom élvezetére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Közeli csatorna partja",
+            "tip": "Keressen egy csendes helyet a víz mellett elmélkedésre.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "Békés hely a Szent György-templom mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de pini (Fenyves)",
+            "tip": "Locul perfect pentru o plimbare liniștită și pentru a vă bucura de tăcere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul unui canal din apropiere",
+            "tip": "Găsiți un loc liniștit lângă apă pentru reflecție.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Grădina bisericii",
+            "tip": "Un loc pașnic lângă Biserica Sfântul Gheorghe.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pine Forest (Fenyves)",
+            "tip": "The perfect place for a quiet walk and to enjoy the silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank of a nearby canal",
+            "tip": "Find a quiet spot by the water for reflection.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Church garden",
+            "tip": "A peaceful spot next to St. George's Church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Suchen Sie nach lokalen Produkten, Honig und handwerklichen Erzeugnissen."
+          },
+          {
+            "name": "Souvenirs zum Thema Pferd",
+            "tip": "Im Gestüt finden Sie wahrscheinlich Souvenirs, die mit der Nonius-Rasse in Verbindung stehen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Keressen helyi termékeket, mézet és kézműves árukat."
+          },
+          {
+            "name": "Lovas témájú ajándéktárgyak",
+            "tip": "A ménesbirtokon valószínűleg talál a nóniusz fajtához kapcsolódó ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală a fermierilor",
+            "tip": "Căutați produse locale, miere și produse artizanale."
+          },
+          {
+            "name": "Suveniruri cu tematică ecvestră",
+            "tip": "La herghelie veți găsi probabil suveniruri legate de rasa Nonius."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farmers' Market",
+            "tip": "Look for local produce, honey, and artisanal products."
+          },
+          {
+            "name": "Horse-themed souvenirs",
+            "tip": "At the stud farm, you'll likely find souvenirs related to the Nonius breed."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Reifen und Bremsen.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Eine Karte der Stadt ist hilfreich, um die besten Radwege zu finden.",
+          "Viele der Straßen sind flach und fahrradfreundlich."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a gumikat és a fékeket.",
+          "Hozzon magával lakatot, hogy biztonságban lezárhassa a kerékpárt a megállóknál.",
+          "Egy várostérkép segít megtalálni a legjobb kerékpárutakat.",
+          "Az utak nagy része sík és kerékpárbarát."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special anvelopele și frânele.",
+          "Aduceți un lacăt pentru a vă asigura bicicleta la opriri.",
+          "O hartă a orașului este utilă pentru a găsi cele mai bune trasee de ciclism.",
+          "Multe dintre drumuri sunt plate și prietenoase cu bicicletele."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the tires and brakes.",
+          "Bring a lock to secure your bike at the stops.",
+          "A map of the town is helpful for finding the best cycling routes.",
+          "Many of the roads are flat and bike-friendly."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Staatsgestüt (Cluster A)",
+            "hu": "Parkoló a Ménesbirtoknál (A klaszter)",
+            "ro": "Parcare la Herghelie (Cluster A)",
+            "en": "Parking at the State Stud (Cluster A)"
+          },
+          "coords": [
+            20.819,
+            46.317
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier. Parken Sie Ihr Auto und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Itt kezdje a napot. Parkolja le az autót, és fedezze fel az első klasztert gyalog.",
+            "ro": "Începeți aici. Parcați mașina și explorați primul cluster pe jos.",
+            "en": "Start here. Park your car and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatsgestüt Mezőhegyes",
+            "hu": "Mezőhegyesi Állami Ménesbirtok",
+            "ro": "Herghelia de Stat Mezőhegyes",
+            "en": "State Stud of Mezőhegyes"
+          },
+          "coords": [
+            20.8195,
+            46.318
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:18",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hauptanziehungspunkt. Die geführte Tour ist ein Muss.",
+            "hu": "A fő attrakció. A vezetett túra kötelező.",
+            "ro": "Atracția principală. Turul ghidat este obligatoriu.",
+            "en": "The main attraction. The guided tour is a must-do."
+          }
+        },
+        {
+          "name": {
+            "de": "Reithalle",
+            "hu": "Lovarda",
+            "ro": "Manejul",
+            "en": "Riding Hall"
+          },
+          "coords": [
+            20.8188,
+            46.3191
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die Architektur des Gestüts.",
+            "hu": "Szép példája a ménesbirtok építészetének.",
+            "ro": "Un exemplu frumos de arhitectură a hergheliei.",
+            "en": "A beautiful example of the stud's architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Nonius-Statue",
+            "hu": "Nóniusz-szobor",
+            "ro": "Statuia Nonius",
+            "en": "Nonius Statue"
+          },
+          "coords": [
+            20.817,
+            46.3165
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:06",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptkomplex entfernt, um dem Gründerhengst Tribut zu zollen.",
+            "hu": "Rövid séta a fő komplexumtól, hogy tisztelegjen az alapító mén előtt.",
+            "ro": "O scurtă plimbare de la complexul principal pentru a aduce un omagiu armăsarului fondator.",
+            "en": "A short walk from the main complex to pay tribute to the foundation stallion."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Georg-Kirche (Cluster B)",
+            "hu": "Szent György-templom (B klaszter)",
+            "ro": "Biserica Sfântul Gheorghe (Cluster B)",
+            "en": "St. George's Church (Cluster B)"
+          },
+          "coords": [
+            20.8145,
+            46.315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Parken Sie in der Nähe der Kirche.",
+            "hu": "Vezessen át a második klaszterhez. Parkoljon a templom közelében.",
+            "ro": "Conduceți la al doilea cluster. Parcați lângă biserică.",
+            "en": "Drive to the second cluster. Park near the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm",
+            "hu": "Víztorony",
+            "ro": "Turnul de apă",
+            "en": "Water Tower"
+          },
+          "coords": [
+            20.8123,
+            46.3198
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:29",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche aus, um dieses industrielle Wahrzeichen zu sehen.",
+            "hu": "Rövid séta a templomtól, hogy megnézze ezt az ipari műemléket.",
+            "ro": "O scurtă plimbare de la biserică pentru a vedea acest reper industrial.",
+            "en": "A short walk from the church to see this industrial landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Fichtenwald (Fenyves)",
+            "hu": "Fenyves",
+            "ro": "Pădurea de pini (Fenyves)",
+            "en": "Pine Forest (Fenyves)"
+          },
+          "coords": [
+            20.815,
+            46.33
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:14",
+          "stay_min": 97,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Ausflug mit dem Auto zum Stadtrand für einen entspannenden Spaziergang im Wald.",
+            "hu": "Egy rövid autós kirándulás a város szélére egy pihentető erdei sétáért.",
+            "ro": "O scurtă călătorie cu mașina la marginea orașului pentru o plimbare relaxantă în pădure.",
+            "en": "A short drive to the outskirts of town for a relaxing walk in the forest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto in Mezőhegyes ist auf Effizienz und Komfort ausgelegt. Sie beginnen mit der Fahrt zum ersten Cluster, dem historischen Herzen des Staatsgestüts. Nachdem Sie geparkt haben, erkunden Sie den Vormittag zu Fuß und tauchen in die Welt der Nonius-Pferde ein, indem Sie die Stallungen, die Reithalle und die nahe gelegene Statue besuchen. Es ist ein konzentriertes Erlebnis des wichtigsten Erbes der Stadt.\n\nNach dem Mittagessen kehren Sie zu Ihrem Auto zurück und fahren eine kurze Strecke zum zweiten Cluster, der um die St.-Georg-Kirche zentriert ist. Hier genießen Sie die ruhige Atmosphäre der Kirche und machen einen kurzen Spaziergang zum Wasserturm. Diese Abwechslung ermöglicht es Ihnen, einen anderen Aspekt des Charakters von Mezőhegyes zu sehen, ohne sich um das Parken kümmern zu müssen.\n\nDer Höhepunkt des Nachmittags ist eine weitere kurze Fahrt zum Fichtenwald am Rande der Stadt. Dieser Ausflug bietet eine willkommene Dosis Natur und die Möglichkeit, sich nach den historischen Erkundungen die Beine zu vertreten. Es ist der perfekte Ort, um abzuschalten, bevor Sie in die Stadt zurückkehren.\n\nAm Ende des Tages haben Sie die Hauptattraktionen von Mezőhegyes bequem erkundet und dabei kurze Fahrten mit angenehmen Spaziergängen kombiniert. Die Cluster-Walking-Strategie stellt sicher, dass Sie mehr Zeit mit dem Genießen und weniger Zeit mit dem Fahren verbringen und bietet einen entspannten und dennoch umfassenden Überblick über die Stadt.",
+        "hu": "Az autós nap Mezőhegyesen a hatékonyságra és kényelemre van tervezve. Az első klaszterhez, az Állami Ménesbirtok történelmi szívéhez való autózással kezd. Miután leparkolt, délelőtt gyalogosan fedezi fel a környéket, elmerülve a nóniusz lovak világában, meglátogatva az istállókat, a lovardát és a közeli szobrot. Ez egy koncentrált élmény a város legfontosabb örökségéből.\n\nEbéd után visszatér az autójához egy rövid útra a második klaszterhez, amelynek központja a Szent György-templom. Itt élvezheti a templom csendes légkörét, és tehet egy rövid sétát a víztoronyhoz. Ez a váltás lehetővé teszi, hogy Mezőhegyes karakterének egy másik oldalát is megismerje anélkül, hogy a parkolás miatt kellene aggódnia.\n\n A délután fénypontja egy újabb rövid autóút a város szélén található Fenyvesbe. Ez a kirándulás egy kellemes adag természetet és lehetőséget kínál a lábak kinyújtóztatására a történelmi felfedezések után. Tökéletes hely a kikapcsolódásra, mielőtt visszatérne a városba.\n\n A nap végére kényelmesen felfedezte Mezőhegyes főbb látnivalóit, a rövid autóutakat kellemes sétákkal ötvözve. A klaszter-séta stratégia biztosítja, hogy több időt töltsön az élvezettel és kevesebbet a vezetéssel, nyugodt, mégis átfogó képet nyújtva a városról.",
+        "ro": "Ziua dvs. cu mașina în Mezőhegyes este concepută pentru eficiență și confort. Începeți prin a conduce la primul cluster, inima istorică a Hergheliei de Stat. După parcare, explorați zona pe jos dimineața, cufundându-vă în lumea cailor Nonius, vizitând grajdurile, manejul și statuia din apropiere. Este o experiență concentrată a celei mai importante moșteniri a orașului.\n\nDupă prânz, vă întoarceți la mașină pentru o scurtă călătorie spre al doilea cluster, centrat în jurul Bisericii Sfântul Gheorghe. Aici, vă bucurați de atmosfera liniștită a bisericii și faceți o scurtă plimbare până la Turnul de Apă. Această schimbare de peisaj vă permite să vedeți o altă fațetă a caracterului Mezőhegyes fără grija parcării.\n\n Punctul culminant al după-amiezii este o altă călătorie scurtă cu mașina spre Pădurea de Pini de la marginea orașului. Această excursie oferă o doză binevenită de natură și o șansă de a vă dezmorți picioarele după explorările istorice. Este locul perfect pentru a vă relaxa înainte de a vă întoarce în oraș.\n\nLa sfârșitul zilei, ați explorat confortabil principalele atracții din Mezőhegyes, combinând călătorii scurte cu plimbări plăcute. Strategia de plimbare în cluster vă asigură că petreceți mai mult timp bucurându-vă de locuri și mai puțin timp conducând, oferind o imagine de ansamblu relaxată, dar cuprinzătoare, a orașului.",
+        "en": "Your car-based day in Mezőhegyes is designed for efficiency and comfort. You'll start by driving to the first cluster, the historic heart of the State Stud. After parking, you'll explore on foot for the morning, immersing yourself in the world of Nonius horses, visiting the stables, the riding hall, and the nearby statue. It's a concentrated experience of the town's most important heritage.\n\nAfter lunch, you'll return to your car for a short drive to the second cluster, centered around St. George's Church. Here, you'll enjoy the church's quiet atmosphere and take a brief walk to the Water Tower. This change of scenery allows you to see a different facet of Mezőhegyes's character without the hassle of parking.\n\nThe afternoon's highlight is another short drive to the Pine Forest on the edge of town. This excursion provides a welcome dose of nature and a chance to stretch your legs after the historical explorations. It's the perfect spot to unwind before heading back into town.\n\nBy the end of the day, you'll have comfortably explored Mezőhegyes's main attractions by blending short drives with pleasant walks. The cluster-walking strategy ensures you spend more time enjoying the sites and less time driving, offering a relaxed yet comprehensive overview of the town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gulasch (Gulyás)",
+            "tip": "Ein herzhafter Klassiker der ungarischen Tiefebene."
+          },
+          {
+            "name": "Langos",
+            "tip": "Probieren Sie diesen beliebten ungarischen Straßensnack auf einem lokalen Markt."
+          },
+          {
+            "name": "Peregi Csárda",
+            "tip": "Ein traditionelles Restaurant, das für seine authentische ungarische Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gulyásleves",
+            "tip": "Az Alföld kiadós, klasszikus étele."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Kóstolja meg ezt a népszerű magyar street foodot egy helyi piacon."
+          },
+          {
+            "name": "Peregi Csárda",
+            "tip": "Hagyományos étterem, amely autentikus magyar konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș (Gulyás)",
+            "tip": "Un clasic consistent al Marii Câmpii Ungare."
+          },
+          {
+            "name": "Langos",
+            "tip": "Încercați această gustare stradală maghiară populară la o piață locală."
+          },
+          {
+            "name": "Peregi Csárda",
+            "tip": "Un restaurant tradițional cunoscut pentru bucătăria sa autentică maghiară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goulash (Gulyás)",
+            "tip": "A hearty classic of the Great Hungarian Plain."
+          },
+          {
+            "name": "Langos",
+            "tip": "Try this popular Hungarian street food snack at a local market."
+          },
+          {
+            "name": "Peregi Csárda",
+            "tip": "A traditional restaurant known for its authentic Hungarian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fichtenwald (Fenyves)",
+            "tip": "Der perfekte Ort für einen ruhigen Spaziergang und um die Stille zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer eines nahegelegenen Kanals",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser zum Nachdenken.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Kirchgarten",
+            "tip": "Ein friedlicher Ort neben der St.-Georg-Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fenyves",
+            "tip": "Tökéletes hely egy csendes sétára és a nyugalom élvezetére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Közeli csatorna partja",
+            "tip": "Keressen egy csendes helyet a víz mellett elmélkedésre.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "Békés hely a Szent György-templom mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de pini (Fenyves)",
+            "tip": "Locul perfect pentru o plimbare liniștită și pentru a vă bucura de tăcere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul unui canal din apropiere",
+            "tip": "Găsiți un loc liniștit lângă apă pentru reflecție.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Grădina bisericii",
+            "tip": "Un loc pașnic lângă Biserica Sfântul Gheorghe.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pine Forest (Fenyves)",
+            "tip": "The perfect place for a quiet walk and to enjoy the silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank of a nearby canal",
+            "tip": "Find a quiet spot by the water for reflection.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Church garden",
+            "tip": "A peaceful spot next to St. George's Church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Suchen Sie nach lokalen Produkten, Honig und handwerklichen Erzeugnissen."
+          },
+          {
+            "name": "Souvenirs zum Thema Pferd",
+            "tip": "Im Gestüt finden Sie wahrscheinlich Souvenirs, die mit der Nonius-Rasse in Verbindung stehen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Keressen helyi termékeket, mézet és kézműves árukat."
+          },
+          {
+            "name": "Lovas témájú ajándéktárgyak",
+            "tip": "A ménesbirtokon valószínűleg talál a nóniusz fajtához kapcsolódó ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală a fermierilor",
+            "tip": "Căutați produse locale, miere și produse artizanale."
+          },
+          {
+            "name": "Suveniruri cu tematică ecvestră",
+            "tip": "La herghelie veți găsi probabil suveniruri legate de rasa Nonius."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farmers' Market",
+            "tip": "Look for local produce, honey, and artisanal products."
+          },
+          {
+            "name": "Horse-themed souvenirs",
+            "tip": "At the stud farm, you'll likely find souvenirs related to the Nonius breed."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkplätze an den Clustern, um unnötiges Fahren in der Stadt zu vermeiden.",
+          "Planen Sie Ihre Route zwischen den Clustern im Voraus.",
+          "Das Mittagessen kann flexibel in einem der beiden Hauptcluster eingenommen werden.",
+          "Die Straßenverhältnisse sind im Allgemeinen gut."
+        ],
+        "hu": [
+          "Használja a klasztereknél lévő parkolókat, hogy elkerülje a felesleges városi autózást.",
+          "Tervezze meg előre az útvonalat a klaszterek között.",
+          "Az ebéd rugalmasan megoldható a két fő klaszter egyikében.",
+          "Az útviszonyok általában jók."
+        ],
+        "ro": [
+          "Folosiți parcările de la clustere pentru a evita condusul inutil în oraș.",
+          "Planificați-vă traseul între clustere în avans.",
+          "Prânzul poate fi luat flexibil în oricare dintre cele două clustere principale.",
+          "Condițiile drumurilor sunt în general bune."
+        ],
+        "en": [
+          "Use the parking lots at the clusters to avoid unnecessary driving within the town.",
+          "Plan your route between clusters in advance.",
+          "Lunch can be flexibly taken in either of the two main clusters.",
+          "Road conditions are generally good."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 4.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrum (Cluster A)",
+            "hu": "Központ (A klaszter)",
+            "ro": "Centru (Cluster A)",
+            "en": "Center (Cluster A)"
+          },
+          "coords": [
+            20.817,
+            46.3165
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Zentrum, das zu Fuß erreichbar ist.",
+            "hu": "Kezdje a napot a központban, amely gyalogosan bejárható.",
+            "ro": "Începeți ziua în centru, care este accesibil pe jos.",
+            "en": "Start your day in the center, which is walkable."
+          }
+        },
+        {
+          "name": {
+            "de": "Nonius-Statue",
+            "hu": "Nóniusz-szobor",
+            "ro": "Statuia Nonius",
+            "en": "Nonius Statue"
+          },
+          "coords": [
+            20.8172,
+            46.3164
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle im Zentrum.",
+            "hu": "Rövid séta a központi buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația de autobuz din centru.",
+            "en": "A short walk from the central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Georg-Kirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "St. George's Church"
+          },
+          "coords": [
+            20.8145,
+            46.315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Weiter zu Fuß durch das Stadtzentrum.",
+            "hu": "Sétáljon tovább a városközpontban.",
+            "ro": "Continuați plimbarea prin centrul orașului.",
+            "en": "Continue your walk through the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatsgestüt (Cluster B)",
+            "hu": "Állami Ménesbirtok (B klaszter)",
+            "ro": "Herghelia de Stat (Cluster B)",
+            "en": "State Stud (Cluster B)"
+          },
+          "coords": [
+            20.8195,
+            46.318
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:43",
+          "stay_min": 150,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Hauptkomplex des Gestüts.",
+            "hu": "Menjen helyi busszal a ménesbirtok fő komplexumához.",
+            "ro": "Luați un autobuz local până la complexul principal al hergheliei.",
+            "en": "Take a local bus to the main stud complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Reithalle",
+            "hu": "Lovarda",
+            "ro": "Manejul",
+            "en": "Riding Hall"
+          },
+          "coords": [
+            20.8188,
+            46.3191
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Innerhalb des Gestütskomplexes leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a ménesbirtok komplexumán belül.",
+            "ro": "Ușor accesibil pe jos în cadrul complexului hergheliei.",
+            "en": "Easily walkable within the stud complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Fichtenwald (Fenyves)",
+            "hu": "Fenyves",
+            "ro": "Pădurea de pini (Fenyves)",
+            "en": "Pine Forest (Fenyves)"
+          },
+          "coords": [
+            20.815,
+            46.33
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:28",
+          "stay_min": 73,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt bringt Sie zu diesem friedlichen Waldgebiet.",
+            "hu": "Egy újabb rövid buszút visz el ehhez a békés erdőhöz.",
+            "ro": "O altă călătorie scurtă cu autobuzul vă duce în această zonă liniștită de pădure.",
+            "en": "Another short bus ride takes you to this peaceful forest area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Erkundung von Mezőhegyes mit öffentlichen Verkehrsmitteln beginnt im fußgängerfreundlichen Zentrum. Der erste Cluster, einschließlich der Nonius-Statue und der St.-Georg-Kirche, ist leicht zu Fuß erreichbar und bietet Ihnen einen sanften Einstieg in die Atmosphäre der Stadt. Dies ist eine Gelegenheit, den zentralen Teil der Stadt in einem entspannten Tempo zu erleben.\n\nAm Vormittag nehmen Sie einen lokalen Bus zum zweiten Cluster: dem weitläufigen Staatsgestüt. Dies ist der Hauptteil Ihres Tages, an dem Sie mehrere Stunden damit verbringen, die Ställe, die Reithalle und die allgemeine Pracht des Ortes zu erkunden. Der Bus bringt Sie direkt zum Herzen des Geschehens und maximiert Ihre Zeit vor Ort.\n\nNachdem Sie vollständig in die Welt der Pferde eingetaucht sind, bringt Sie eine weitere Busfahrt am Nachmittag zum ruhigen Fichtenwald. Dieser Wechsel von der belebten historischen Stätte zur ruhigen Natur bietet eine ausgewogene Erfahrung. Es ist eine Chance, sich zu entspannen und die natürliche Schönheit am Rande von Mezőhegyes zu genießen.\n\nAm Ende des Tages haben Sie die wichtigsten Sehenswürdigkeiten der Stadt mit einer Kombination aus kurzen Spaziergängen und effizienten Busfahrten erlebt. Diese Methode ermöglicht es Ihnen, größere Entfernungen ohne eigenes Fahrzeug zu überbrücken und bietet eine stressfreie Möglichkeit, das reiche Erbe und die ruhigen Landschaften von Mezőhegyes zu genießen.",
+        "hu": "A tömegközlekedéssel történő mezőhegyesi felfedezés a gyalogosbarát központban kezdődik. Az első klaszter, beleértve a Nóniusz-szobrot és a Szent György-templomot, könnyen bejárható gyalog, így lazán belemerülhet a város hangulatába. Ez egy lehetőség arra, hogy a központi részt nyugodt tempóban élvezze.\n\nDélelőtt egy helyi busszal utazik a második klaszterhez: a hatalmas Állami Ménesbirtokhoz. Ez a nap fő része, ahol több órát tölt az istállók, a lovarda és a hely általános pompájának felfedezésével. A busz közvetlenül az események sűrűjébe viszi, maximalizálva a helyszínen töltött időt.\n\nMiután teljesen elmerült a lovak világában, délután egy újabb buszjárat viszi a csendes Fenyvesbe. Ez a váltás a nyüzsgő történelmi helyszínről a nyugodt természetbe kiegyensúlyozott élményt nyújt. Lehetőség a pihenésre és Mezőhegyes szélén található természeti szépség élvezetére.\n\n A nap végére a város legfontosabb látnivalóit rövid séták és hatékony buszutak kombinációjával tapasztalta meg. Ez a módszer lehetővé teszi, hogy nagyobb távolságokat tegyen meg saját jármű nélkül, stresszmentes módot kínálva Mezőhegyes gazdag örökségének és csendes tájainak élvezetére.",
+        "ro": "Explorarea dvs. cu transportul public în Mezőhegyes începe în centrul prietenos pentru pietoni. Primul cluster, incluzând Statuia Nonius și Biserica Sfântul Gheorghe, este ușor de parcurs pe jos, oferindu-vă o introducere blândă în atmosfera orașului. Aceasta este o oportunitate de a experimenta partea centrală a orașului într-un ritm relaxat.\n\nÎn timpul dimineții, luați un autobuz local către al doilea cluster: întinsa Herghelie de Stat. Aceasta este partea principală a zilei dvs., unde veți petrece câteva ore explorând grajdurile, manejul și măreția generală a locului. Autobuzul vă duce direct în inima acțiunii, maximizând timpul petrecut la fața locului.\n\nDupă o imersiune completă în lumea cailor, o altă călătorie cu autobuzul după-amiaza vă duce la liniștita Pădure de Pini. Această schimbare de la situl istoric aglomerat la natura senină oferă o experiență echilibrată. Este o șansă de a vă relaxa și de a vă bucura de frumusețea naturală de la marginea orașului Mezőhegyes.\n\nLa sfârșitul zilei, ați experimentat principalele situri ale orașului folosind o combinație de plimbări scurte și călătorii eficiente cu autobuzul. Această metodă vă permite să acoperiți distanțe mai mari fără un vehicul personal, oferind un mod fără stres de a vă bucura de bogata moștenire și peisajele liniștite din Mezőhegyes.",
+        "en": "Your public transit exploration of Mezőhegyes starts in the pedestrian-friendly center. The first cluster, including the Nonius Statue and St. George's Church, is easily walkable, giving you a gentle introduction to the town's atmosphere. This is a chance to experience the central part of town at a relaxed pace.\n\nDuring the morning, you'll take a local bus to the second cluster: the vast State Stud. This is the main part of your day, where you'll spend several hours exploring the stables, the riding hall, and the overall grandeur of the place. The bus takes you right to the heart of the action, maximizing your time on site.\n\nAfter a full immersion in the world of horses, another bus ride in the afternoon takes you to the tranquil Pine Forest. This shift from the bustling historic site to serene nature provides a balanced experience. It's a chance to relax and enjoy the natural beauty on the edge of Mezőhegyes.\n\nBy the end of the day, you'll have experienced the town's key sites using a combination of short walks and efficient bus journeys. This method allows you to cover greater distances without a personal vehicle, offering a stress-free way to enjoy the rich heritage and quiet landscapes of Mezőhegyes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gulasch (Gulyás)",
+            "tip": "Ein herzhafter Klassiker der ungarischen Tiefebene."
+          },
+          {
+            "name": "Langos",
+            "tip": "Probieren Sie diesen beliebten ungarischen Straßensnack auf einem lokalen Markt."
+          },
+          {
+            "name": "Peregi Csárda",
+            "tip": "Ein traditionelles Restaurant, das für seine authentische ungarische Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gulyásleves",
+            "tip": "Az Alföld kiadós, klasszikus étele."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Kóstolja meg ezt a népszerű magyar street foodot egy helyi piacon."
+          },
+          {
+            "name": "Peregi Csárda",
+            "tip": "Hagyományos étterem, amely autentikus magyar konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș (Gulyás)",
+            "tip": "Un clasic consistent al Marii Câmpii Ungare."
+          },
+          {
+            "name": "Langos",
+            "tip": "Încercați această gustare stradală maghiară populară la o piață locală."
+          },
+          {
+            "name": "Peregi Csárda",
+            "tip": "Un restaurant tradițional cunoscut pentru bucătăria sa autentică maghiară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goulash (Gulyás)",
+            "tip": "A hearty classic of the Great Hungarian Plain."
+          },
+          {
+            "name": "Langos",
+            "tip": "Try this popular Hungarian street food snack at a local market."
+          },
+          {
+            "name": "Peregi Csárda",
+            "tip": "A traditional restaurant known for its authentic Hungarian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fichtenwald (Fenyves)",
+            "tip": "Der perfekte Ort für einen ruhigen Spaziergang und um die Stille zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer eines nahegelegenen Kanals",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser zum Nachdenken.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Kirchgarten",
+            "tip": "Ein friedlicher Ort neben der St.-Georg-Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fenyves",
+            "tip": "Tökéletes hely egy csendes sétára és a nyugalom élvezetére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Közeli csatorna partja",
+            "tip": "Keressen egy csendes helyet a víz mellett elmélkedésre.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "Békés hely a Szent György-templom mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de pini (Fenyves)",
+            "tip": "Locul perfect pentru o plimbare liniștită și pentru a vă bucura de tăcere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul unui canal din apropiere",
+            "tip": "Găsiți un loc liniștit lângă apă pentru reflecție.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Grădina bisericii",
+            "tip": "Un loc pașnic lângă Biserica Sfântul Gheorghe.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pine Forest (Fenyves)",
+            "tip": "The perfect place for a quiet walk and to enjoy the silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank of a nearby canal",
+            "tip": "Find a quiet spot by the water for reflection.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Church garden",
+            "tip": "A peaceful spot next to St. George's Church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Suchen Sie nach lokalen Produkten, Honig und handwerklichen Erzeugnissen."
+          },
+          {
+            "name": "Souvenirs zum Thema Pferd",
+            "tip": "Im Gestüt finden Sie wahrscheinlich Souvenirs, die mit der Nonius-Rasse in Verbindung stehen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Keressen helyi termékeket, mézet és kézműves árukat."
+          },
+          {
+            "name": "Lovas témájú ajándéktárgyak",
+            "tip": "A ménesbirtokon valószínűleg talál a nóniusz fajtához kapcsolódó ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală a fermierilor",
+            "tip": "Căutați produse locale, miere și produse artizanale."
+          },
+          {
+            "name": "Suveniruri cu tematică ecvestră",
+            "tip": "La herghelie veți găsi probabil suveniruri legate de rasa Nonius."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farmers' Market",
+            "tip": "Look for local produce, honey, and artisanal products."
+          },
+          {
+            "name": "Horse-themed souvenirs",
+            "tip": "At the stud farm, you'll likely find souvenirs related to the Nonius breed."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die lokalen Busfahrpläne.",
+          "Kaufen Sie eine Tageskarte, wenn verfügbar, für kostengünstige Fahrten.",
+          "Seien Sie sich bewusst, dass die Busfrequenzen in einer kleineren Stadt geringer sein können.",
+          "Planen Sie zusätzliche Zeit für Wartezeiten an den Haltestellen ein."
+        ],
+        "hu": [
+          "Előre tájékozódjon a helyi buszmenetrendekről.",
+          "Ha van, vásároljon napijegyet a költséghatékony utazáshoz.",
+          "Vegye figyelembe, hogy egy kisebb városban ritkábban járhatnak a buszok.",
+          "Tervezzen plusz időt a megállókban való várakozásra."
+        ],
+        "ro": [
+          "Verificați în avans orarele autobuzelor locale.",
+          "Cumpărați un bilet de o zi, dacă este disponibil, pentru călătorii rentabile.",
+          "Fiți conștienți că frecvența autobuzelor poate fi mai mică într-un oraș mai mic.",
+          "Planificați timp suplimentar pentru așteptarea în stații."
+        ],
+        "en": [
+          "Check local bus schedules in advance.",
+          "Purchase a day pass if available for cost-effective travel.",
+          "Be aware that bus frequencies may be lower in a smaller town.",
+          "Plan for extra time for waiting at stops."
+        ]
+      }
+    }
+  }
+}

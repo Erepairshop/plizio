@@ -1,0 +1,1412 @@
+{
+  "city_id": "denmark-odder-cities-v2",
+  "anchor": {
+    "name": "Odder",
+    "coords": [
+      10.15,
+      55.97
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Centralhotellet & Stadtzentrum",
+            "hu": "Centralhotellet és a városközpont",
+            "ro": "Centralhotellet și centrul orașului",
+            "en": "Centralhotellet & Town Center"
+          },
+          "coords": [
+            10.1485,
+            55.9712
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee hier, um die lokale Atmosphäre aufzusaugen.",
+            "hu": "Kezdje a napot egy kávéval itt, hogy magába szívja a helyi hangulatot.",
+            "ro": "Începeți ziua cu o cafea aici pentru a absorbi atmosfera locală.",
+            "en": "Start your day with a coffee here to soak up the local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Odder Kirche",
+            "hu": "Odder-templom",
+            "ro": "Biserica din Odder",
+            "en": "Odder Church"
+          },
+          "coords": [
+            10.1495,
+            55.9731
+          ],
+          "category": "churches",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf das beeindruckende Votivschiff, das von der Decke hängt.",
+            "hu": "Figyelje meg a mennyezetről lógó, lenyűgöző fogadalmi hajót.",
+            "ro": "Observați impresionanta navă votivă suspendată de tavan.",
+            "en": "Look for the impressive votive ship hanging from the ceiling."
+          }
+        },
+        {
+          "name": {
+            "de": "Odder Museum",
+            "hu": "Odder Múzeum",
+            "ro": "Muzeul Odder",
+            "en": "Odder Museum"
+          },
+          "coords": [
+            10.1511,
+            55.9745
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich in einer alten Wassermühle. Verpassen Sie nicht die Ausstellung zur Lokalgeschichte.",
+            "hu": "A múzeum egy régi vízimalomban található. Ne hagyja ki a helytörténeti kiállítást.",
+            "ro": "Muzeul este găzduit într-o veche moară de apă. Nu ratați expoziția de istorie locală.",
+            "en": "The museum is housed in an old watermill. Don't miss the local history exhibit."
+          }
+        },
+        {
+          "name": {
+            "de": "Garten der Ökologie (Økologiens Have)",
+            "hu": "Az Ökológia Kertje (Økologiens Have)",
+            "ro": "Grădina Ecologică (Økologiens Have)",
+            "en": "The Garden of Ecology (Økologiens Have)"
+          },
+          "coords": [
+            10.165,
+            55.968
+          ],
+          "category": "parks",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Picknick. Es gibt auch einen Hofladen mit Bio-Produkten.",
+            "hu": "Tökéletes hely egy piknikhez. Van egy farmbolt is, ahol organikus termékeket árulnak.",
+            "ro": "Locul perfect pentru un picnic. Există și un magazin al fermei cu produse organice.",
+            "en": "A perfect spot for a picnic. There's also a farm shop with organic products."
+          }
+        },
+        {
+          "name": {
+            "de": "Fru Møllers Mølleri",
+            "hu": "Fru Møllers Mølleri (Molnárné Malma)",
+            "ro": "Fru Møllers Mølleri (Moara doamnei Møller)",
+            "en": "Fru Møllers Mølleri (Mrs. Møller's Mill)"
+          },
+          "coords": [
+            10.1989,
+            55.9863
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:31",
+          "stay_min": 104,
+          "hop_from_prev_min": 56,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie das frisch gebackene Brot und besuchen Sie das Eiscafé. Ein wahrer Genuss!",
+            "hu": "Kóstolja meg a frissen sült kenyeret, és látogasson el a fagyizóba. Igazi élvezet!",
+            "ro": "Încercați pâinea proaspăt coaptă și vizitați gelateria. Un adevărat deliciu!",
+            "en": "Try the freshly baked bread and visit the ice cream shop. A real treat!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang im Herzen von Odder am Centralhotellet. Nach einem Blick in die historische Odder Kirche und einem tiefen Einblick in die lokale Geschichte im Odder Museum, führt Sie ein Spaziergang zum üppigen Garten der Ökologie, ideal für eine Mittagspause im Grünen. Der Nachmittag ist einem längeren Spaziergang zur charmanten Fru Møllers Mølleri gewidmet, wo Sie lokale Köstlichkeiten entdecken und den Tag entspannt ausklingen lassen können.",
+        "hu": "Sétáját Odder szívében, a Centralhotelletnél kezdje. Miután bepillantott a történelmi Odder-templomba és elmélyedt a helytörténetben az Odder Múzeumban, egy séta elvezeti Önt a buja Ökológiai Kertbe, amely ideális egy zöldben eltöltött ebédszünethez. A délutánt egy hosszabb séta teszi ki a bájos Fru Møllers Møllerihez, ahol helyi finomságokat fedezhet fel, és pihentetően zárhatja a napot.",
+        "ro": "Începeți turul pietonal în inima orașului Odder, la Centralhotellet. După o vizită la Biserica istorică din Odder și o incursiune în istoria locală la Muzeul Odder, o plimbare vă va duce la luxurianta Grădină Ecologică, ideală pentru o pauză de prânz în natură. După-amiaza este dedicată unei plimbări mai lungi către fermecătoarea Fru Møllers Mølleri, unde puteți descoperi delicatese locale și încheia ziua într-un mod relaxant.",
+        "en": "Start your walking tour in the heart of Odder at the Centralhotellet. After a look at the historic Odder Church and a deep dive into local history at the Odder Museum, a walk will lead you to the lush Garden of Ecology, perfect for a midday break in nature. The afternoon is dedicated to a longer stroll to the charming Fru Møllers Mølleri, where you can discover local delicacies and end the day in a relaxed fashion."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Frisch gebackenes Roggenbrot und hausgemachtes Eis."
+          },
+          {
+            "name": "Centralhotellet",
+            "tip": "Klassische dänische Gerichte in historischem Ambiente."
+          },
+          {
+            "name": "Saksild Strandkro",
+            "tip": "Fischgerichte mit Blick auf das Meer (erfordert eine Fahrt)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Frissen sült rozskenyér és házi fagylalt."
+          },
+          {
+            "name": "Centralhotellet",
+            "tip": "Klasszikus dán ételek történelmi környezetben."
+          },
+          {
+            "name": "Saksild Strandkro",
+            "tip": "Halételek tengerre néző kilátással (autózást igényel)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Pâine de secară proaspăt coaptă și înghețată de casă."
+          },
+          {
+            "name": "Centralhotellet",
+            "tip": "Mâncăruri daneze clasice într-un cadru istoric."
+          },
+          {
+            "name": "Saksild Strandkro",
+            "tip": "Preparate din pește cu vedere la mare (necesită o mașină)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Freshly baked rye bread and homemade ice cream."
+          },
+          {
+            "name": "Centralhotellet",
+            "tip": "Classic Danish dishes in a historic setting."
+          },
+          {
+            "name": "Saksild Strandkro",
+            "tip": "Fish dishes with a view of the sea (requires a drive)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Økologiens Have",
+            "tip": "Finden Sie eine ruhige Bank bei den Teichen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rathlousdal Skov",
+            "tip": "Ein friedlicher Waldspaziergang, etwas außerhalb der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Odder Kirkegård",
+            "tip": "Der Friedhof um die Kirche ist ein Ort der Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Økologiens Have",
+            "tip": "Keressen egy csendes padot a tavaknál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rathlousdal Skov",
+            "tip": "Békés erdei séta, kissé a városon kívül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Odder Kirkegård",
+            "tip": "A templom körüli temető a csend helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Økologiens Have",
+            "tip": "Găsiți o bancă liniștită lângă iazuri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rathlousdal Skov",
+            "tip": "O plimbare pașnică prin pădure, puțin în afara orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Odder Kirkegård",
+            "tip": "Cimitirul din jurul bisericii este un loc de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Økologiens Have",
+            "tip": "Find a quiet bench by the ponds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rathlousdal Skov",
+            "tip": "A peaceful forest walk, just outside the town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Odder Kirkegård",
+            "tip": "The cemetery around the church is a place of silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Kaufen Sie lokale Mehle, Marmeladen und handwerkliche Produkte."
+          },
+          {
+            "name": "Kvickly Odder",
+            "tip": "Ein großer Supermarkt, aber mit einer guten Auswahl an lokalen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Vásároljon helyi liszteket, lekvárokat és kézműves termékeket."
+          },
+          {
+            "name": "Kvickly Odder",
+            "tip": "Nagy szupermarket, de jó választékkal helyi specialitásokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Cumpărați făinuri locale, gemuri și produse artizanale."
+          },
+          {
+            "name": "Kvickly Odder",
+            "tip": "Un supermarket mare, dar cu o selecție bună de specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Buy local flours, jams, and artisan products."
+          },
+          {
+            "name": "Kvickly Odder",
+            "tip": "A large supermarket but with a good selection of local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster im Zentrum uneben sein kann.",
+          "Prüfen Sie die Öffnungszeiten des Gartens der Ökologie, da diese saisonal variieren.",
+          "Die meisten Geschäfte schließen am frühen Abend, planen Sie Ihre Einkäufe entsprechend.",
+          "An Markttagen (normalerweise mittwochs und samstags) ist das Stadtzentrum besonders belebt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a központ macskakövei egyenetlenek lehetnek.",
+          "Ellenőrizze az Ökológiai Kert nyitvatartási idejét, mert az szezonálisan változik.",
+          "A legtöbb üzlet kora este bezár, tervezze meg a vásárlást ennek megfelelően.",
+          "Piacnapokon (általában szerdán és szombaton) a városközpont különösen nyüzsgő."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centru poate fi denivelat.",
+          "Verificați programul Grădinii Ecologice, deoarece acesta variază sezonier.",
+          "Majoritatea magazinelor se închid devreme seara, planificați-vă cumpărăturile în consecință.",
+          "În zilele de piață (de obicei miercuri și sâmbătă), centrul orașului este deosebit de animat."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the center can be uneven.",
+          "Check the opening hours for the Garden of Ecology as they vary seasonally.",
+          "Most shops close in the early evening, so plan your shopping accordingly.",
+          "On market days (usually Wednesday and Saturday), the town center is especially lively."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 28.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Odder Museum",
+            "hu": "Odder Múzeum",
+            "ro": "Muzeul Odder",
+            "en": "Odder Museum"
+          },
+          "coords": [
+            10.1511,
+            55.9745
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher und beginnen Sie hier mit der lokalen Geschichte.",
+            "hu": "Parkolja le biztonságosan a kerékpárját, és kezdje itt a helytörténet megismerését.",
+            "ro": "Parcați-vă bicicleta în siguranță și începeți aici cu istoria locală.",
+            "en": "Park your bike safely and start with local history here."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Rathlousdal",
+            "hu": "Rathlousdal kastély",
+            "ro": "Conacul Rathlousdal",
+            "en": "Rathlousdal Manor"
+          },
+          "coords": [
+            10.115,
+            55.982
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Anwesen ist privat, aber die umliegenden Wälder sind ideal für eine kurze Radtour.",
+            "hu": "A birtok magántulajdon, de a környező erdők ideálisak egy rövid kerékpártúrához.",
+            "ro": "Domeniul este privat, dar pădurile din jur sunt ideale pentru o scurtă plimbare cu bicicleta.",
+            "en": "The estate is private, but the surrounding forests are great for a short bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Bjørnkær",
+            "hu": "Bjørnkær várrom",
+            "ro": "Ruinele castelului Bjørnkær",
+            "en": "Bjørnkær Castle Ruin"
+          },
+          "coords": [
+            10.098,
+            55.955
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kleiner Abstecher, aber die mittelalterliche Atmosphäre ist die Fahrt wert.",
+            "hu": "Kis kitérő, de a középkori hangulat megéri az utat.",
+            "ro": "Un mic ocol, dar atmosfera medievală merită călătoria.",
+            "en": "A small detour, but the medieval atmosphere is worth the ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Fru Møllers Mølleri",
+            "hu": "Fru Møllers Mølleri",
+            "ro": "Fru Møllers Mølleri",
+            "en": "Fru Møllers Mølleri"
+          },
+          "coords": [
+            10.1989,
+            55.9863
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 56,
+          "hop_from_prev_km": 9.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein spätes Mittagessen mit vielen lokalen Produkten.",
+            "hu": "Remek hely egy késői ebédhez, sok helyi termékkel.",
+            "ro": "Un loc excelent pentru un prânz târziu cu multe produse locale.",
+            "en": "A great spot for a late lunch with plenty of local products."
+          }
+        },
+        {
+          "name": {
+            "de": "Saksild Strand",
+            "hu": "Saksild strand",
+            "ro": "Plaja Saksild",
+            "en": "Saksild Beach"
+          },
+          "coords": [
+            10.255,
+            55.949
+          ],
+          "category": "beaches",
+          "arrive_at": "15:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Einer der besten Strände Dänemarks. Perfekt für eine Erfrischung nach der Radtour.",
+            "hu": "Dánia egyik legjobb strandja. Tökéletes a kerékpártúra utáni felfrissüléshez.",
+            "ro": "Una dintre cele mai bune plaje din Danemarca. Perfectă pentru o pauză răcoritoare după turul cu bicicleta.",
+            "en": "One of Denmark's best beaches. Perfect for a refreshing break after the bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück ins Zentrum von Odder",
+            "hu": "Vissza Odder központjába",
+            "ro": "Înapoi în centrul orașului Odder",
+            "en": "Back to Odder Center"
+          },
+          "coords": [
+            10.15,
+            55.97
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:25",
+          "stay_min": 63,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 5.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag bei einem Abendessen in einem der Restaurants der Stadt.",
+            "hu": "Zárja a napot egy vacsorával a város egyik éttermében.",
+            "ro": "Încheiați ziua cu o cină la unul dintre restaurantele din oraș.",
+            "en": "End your day with dinner at one of the town's restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Odder Museum und radeln Sie dann westwärts zu den historischen Stätten von Rathlousdal und der Ruine Bjørnkær. Nach diesem Ausflug in die Vergangenheit führt die Route quer durch die Landschaft zur Fru Møllers Mølleri, einem idealen Ort für ein Mittagessen. Am Nachmittag erreichen Sie den berühmten Saksild Strand für eine wohlverdiente Pause am Meer, bevor Sie entspannt zurück ins Zentrum von Odder radeln und den Tag ausklingen lassen.",
+        "hu": "Kerékpártúráját az Odder Múzeumnál kezdje, majd tekerjen nyugat felé Rathlousdal és Bjørnkær romjainak történelmi helyszíneihez. A múltba tett kirándulás után az útvonal a tájon keresztül a Fru Møllers Møllerihez vezet, amely ideális hely egy ebédhez. Délután elérheti a híres Saksild strandot egy jól megérdemelt tengerparti pihenőre, mielőtt nyugodtan visszatekerne Odder központjába, hogy lezárja a napot.",
+        "ro": "Începeți turul cu bicicleta de la Muzeul Odder, apoi pedalați spre vest către siturile istorice Rathlousdal și ruinele Bjørnkær. După această incursiune în trecut, traseul vă duce prin peisajul rural la Fru Møllers Mølleri, un loc ideal pentru prânz. După-amiaza, ajungeți la faimoasa plajă Saksild pentru o pauză binemeritată la malul mării, înainte de a pedala înapoi în centrul orașului Odder pentru a încheia ziua.",
+        "en": "Start your bike tour at the Odder Museum, then cycle west to the historic sites of Rathlousdal and Bjørnkær ruin. After this trip into the past, the route takes you across the countryside to Fru Møllers Mølleri, an ideal spot for lunch. In the afternoon, you'll reach the famous Saksild Beach for a well-deserved break by the sea before cycling leisurely back to the center of Odder to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Skovbakken",
+            "tip": "Gehobene dänische Küche in der Nähe des Rathlousdal-Waldes."
+          },
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Probieren Sie die Fleischpasteten und das hausgemachte Eis."
+          },
+          {
+            "name": "Vaffelhuset Saksild",
+            "tip": "Berühmt für seine riesigen Eiswaffeln am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Skovbakken",
+            "tip": "Felsőkategóriás dán konyha a Rathlousdal-erdő közelében."
+          },
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Kóstolja meg a húspástétomokat és a házi fagylaltot."
+          },
+          {
+            "name": "Vaffelhuset Saksild",
+            "tip": "Híres a tengerparti óriási fagylalttölcséreiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Skovbakken",
+            "tip": "Bucătărie daneză rafinată lângă pădurea Rathlousdal."
+          },
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Încercați plăcintele cu carne și înghețata de casă."
+          },
+          {
+            "name": "Vaffelhuset Saksild",
+            "tip": "Renumit pentru cornetele gigantice de înghețată de pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Skovbakken",
+            "tip": "Fine Danish dining near the Rathlousdal forest."
+          },
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Try the meat pies and the homemade ice cream."
+          },
+          {
+            "name": "Vaffelhuset Saksild",
+            "tip": "Famous for its giant ice cream cones on the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Saksild Strand",
+            "tip": "Ein Spaziergang am Wasser bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rathlousdal Skov",
+            "tip": "Die Stille des Waldes ist perfekt, um dem Alltag zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt bei Bjørnkær",
+            "tip": "Genießen Sie den weiten Blick über die Landschaft.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saksild Strand",
+            "tip": "Séta a vízparton naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rathlousdal Skov",
+            "tip": "Az erdő csendje tökéletes a mindennapokból való kiszakadáshoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátó Bjørnkærnél",
+            "tip": "Élvezze a tájra nyíló széles kilátást.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Saksild",
+            "tip": "O plimbare pe malul apei la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pădurea Rathlousdal",
+            "tip": "Liniștea pădurii este perfectă pentru a evada din cotidian.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere lângă Bjørnkær",
+            "tip": "Bucurați-vă de priveliștea panoramică asupra peisajului rural.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saksild Beach",
+            "tip": "A walk by the water at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rathlousdal Forest",
+            "tip": "The silence of the forest is perfect for escaping daily life.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint near Bjørnkær",
+            "tip": "Enjoy the wide view over the countryside.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden rund um Odder",
+            "tip": "Halten Sie Ausschau nach Schildern für 'Gårdbutik', um frisches Obst und Gemüse zu finden."
+          },
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Ein Muss für Feinschmecker-Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmboltok Odder környékén",
+            "tip": "Keresse a 'Gårdbutik' táblákat, hogy friss gyümölcsöt és zöldséget találjon."
+          },
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Kötelező az ínyenc szuvenírekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor din jurul Odder",
+            "tip": "Căutați semnele pentru 'Gårdbutik' pentru a găsi fructe și legume proaspete."
+          },
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "O necesitate pentru suveniruri gourmet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops around Odder",
+            "tip": "Look for signs for 'Gårdbutik' to find fresh fruit and vegetables."
+          },
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "A must-visit for gourmet souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie viel Wasser mit, besonders für die längeren Strecken.",
+          "Einige Wege können unbefestigt sein, ein robustes Fahrrad ist von Vorteil.",
+          "Planen Sie einen Puffer für unvorhergesehene Stopps ein, die Landschaft ist voller Überraschungen.",
+          "Ein Helm wird dringend empfohlen, insbesondere auf Landstraßen."
+        ],
+        "hu": [
+          "Vigyen magával sok vizet, különösen a hosszabb szakaszokra.",
+          "Néhány út burkolatlan lehet, egy strapabíró kerékpár előnyös.",
+          "Tervezzen be puffert a váratlan megállókra, a táj tele van meglepetésekkel.",
+          "A sisak használata erősen ajánlott, különösen az országutakon."
+        ],
+        "ro": [
+          "Luați multă apă cu dumneavoastră, mai ales pentru secțiunile mai lungi.",
+          "Unele drumuri pot fi neasfaltate, o bicicletă robustă este un avantaj.",
+          "Planificați o rezervă de timp pentru opriri neprevăzute, peisajul este plin de surprize.",
+          "O cască este puternic recomandată, în special pe drumurile de țară."
+        ],
+        "en": [
+          "Bring plenty of water, especially for the longer stretches.",
+          "Some paths can be unpaved, a sturdy bike is an advantage.",
+          "Plan for a buffer for unexpected stops, the landscape is full of surprises.",
+          "A helmet is strongly recommended, especially on country roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 34.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Strand von Saksild",
+            "hu": "Parkoló a Saksild strandnál",
+            "ro": "Parcare la plaja Saksild",
+            "en": "Parking at Saksild Beach"
+          },
+          "coords": [
+            10.253,
+            55.948
+          ],
+          "category": "beaches",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit Meeresluft. Parken Sie hier für den ersten Cluster.",
+            "hu": "Kezdje a napot a tengeri levegővel. Parkoljon itt az első fürthöz.",
+            "ro": "Începeți ziua cu aer de mare. Parcați aici pentru primul grup de obiective.",
+            "en": "Start the day with sea air. Park here for the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Saksild Strand",
+            "hu": "Saksild strand",
+            "ro": "Plaja Saksild",
+            "en": "Saksild Beach"
+          },
+          "coords": [
+            10.255,
+            55.949
+          ],
+          "category": "beaches",
+          "arrive_at": "09:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen langen Spaziergang am kinderfreundlichen Strand.",
+            "hu": "Tegyen egy hosszú sétát a gyerekbarát strandon.",
+            "ro": "Bucurați-vă de o plimbare lungă pe plaja prietenoasă cu copiii.",
+            "en": "Enjoy a long walk on the child-friendly beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Fru Møllers Mølleri",
+            "hu": "Fru Møllers Mølleri",
+            "ro": "Fru Møllers Mølleri",
+            "en": "Fru Møllers Mølleri"
+          },
+          "coords": [
+            10.1989,
+            55.9863
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:09",
+          "stay_min": 90,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein ausgezeichneter Ort für Mittagessen und den Kauf lokaler Spezialitäten. Parken Sie für den zweiten Cluster hier.",
+            "hu": "Kiváló hely ebédre és helyi specialitások vásárlására. Parkoljon itt a második fürthöz.",
+            "ro": "Un loc excelent pentru prânz și pentru a cumpăra specialități locale. Parcați aici pentru al doilea grup.",
+            "en": "An excellent place for lunch and buying local specialties. Park here for the second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Rathlousdal",
+            "hu": "Rathlousdal kastély",
+            "ro": "Conacul Rathlousdal",
+            "en": "Rathlousdal Manor"
+          },
+          "coords": [
+            10.115,
+            55.982
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:57",
+          "stay_min": 50,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz des Anwesens für den dritten Besichtigungscluster.",
+            "hu": "Hajtson a birtok parkolójába a harmadik látnivaló-fürthöz.",
+            "ro": "Conduceți spre parcarea conacului pentru al treilea grup de vizitare.",
+            "en": "Drive to the manor's parking lot for the third sightseeing cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Bjørnkær",
+            "hu": "Bjørnkær várrom",
+            "ro": "Ruinele castelului Bjørnkær",
+            "en": "Bjørnkær Castle Ruin"
+          },
+          "coords": [
+            10.098,
+            55.955
+          ],
+          "category": "historical",
+          "arrive_at": "13:54",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathlousdal-Gebiet durch den Wald.",
+            "hu": "Rövid séta a Rathlousdal területről az erdőn keresztül.",
+            "ro": "O scurtă plimbare de la zona Rathlousdal prin pădure.",
+            "en": "A short walk from the Rathlousdal area through the woods."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Zentrum von Odder",
+            "hu": "Parkoló Odder központjában",
+            "ro": "Parcare în centrul orașului Odder",
+            "en": "Odder Town Center Parking"
+          },
+          "coords": [
+            10.148,
+            55.972
+          ],
+          "category": "historical",
+          "arrive_at": "15:08",
+          "stay_min": 10,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 14.9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den letzten Cluster und erkunden Sie die Innenstadt zu Fuß.",
+            "hu": "Parkoljon itt az utolsó fürthöz, és fedezze fel a belvárost gyalog.",
+            "ro": "Parcați aici pentru ultimul grup și explorați centrul orașului pe jos.",
+            "en": "Park here for the final cluster and explore the downtown on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Odder Kirche & Museum",
+            "hu": "Odder-templom és Múzeum",
+            "ro": "Biserica și Muzeul din Odder",
+            "en": "Odder Church & Museum"
+          },
+          "coords": [
+            10.15,
+            55.973
+          ],
+          "category": "churches",
+          "arrive_at": "15:20",
+          "stay_min": 132,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit Kultur. Beide liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Zárja a napot kultúrával. Mindkettő csak pár lépésre van egymástól.",
+            "ro": "Încheiați ziua cu cultură. Ambele sunt la doar câțiva pași distanță.",
+            "en": "End the day with culture. Both are just a few steps from each other."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt an der Küste am Saksild Strand für einen erfrischenden Morgen. Dann fahren Sie landeinwärts zur Fru Møllers Mølleri für ein ländliches Mittagessen. Am Nachmittag erkunden Sie das historische Herz der Region mit einem Besuch des Herrenhauses Rathlousdal und der nahegelegenen Burgruine Bjørnkær. Schließlich parken Sie im Zentrum von Odder, um den Tag mit einem Spaziergang zur Kirche und zum Museum abzuschließen.",
+        "hu": "Autós napja a tengerparton, a Saksild strandnál kezdődik egy frissítő reggelivel. Ezután a szárazföld belseje felé veszi az irányt a Fru Møllers Møllerihez egy vidéki ebédre. Délután a régió történelmi szívét fedezi fel a Rathlousdal kastély és a közeli Bjørnkær várrom meglátogatásával. Végül Odder központjában parkol le, hogy a napot egy sétával zárja a templomhoz és a múzeumhoz.",
+        "ro": "Ziua cu mașina începe pe coastă, la plaja Saksild, pentru o dimineață revigorantă. Apoi, vă îndreptați spre interior, la Fru Møllers Mølleri, pentru un prânz rustic. După-amiaza, explorați inima istorică a regiunii, vizitând conacul Rathlousdal și ruinele castelului Bjørnkær din apropiere. În cele din urmă, parcați în centrul orașului Odder pentru a încheia ziua cu o plimbare la biserică și muzeu.",
+        "en": "Your car day begins on the coast at Saksild Beach for a refreshing morning. Then, drive inland to Fru Møllers Mølleri for a rustic lunch. In the afternoon, explore the historic heart of the region with a visit to Rathlousdal Manor and the nearby Bjørnkær Castle Ruin. Finally, park in the center of Odder to conclude the day with a walk to the church and museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Montra Odder Parkhotel",
+            "tip": "Bietet ein gehobenes Restaurant-Erlebnis in der Stadt."
+          },
+          {
+            "name": "Saksild Strandkro",
+            "tip": "Ideale Wahl für frischen Fisch direkt am Strand."
+          },
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Ein Muss für ein zwangloses Mittagessen mit den frischesten Zutaten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Montra Odder Parkhotel",
+            "tip": "Felsőkategóriás éttermi élményt nyújt a városban."
+          },
+          {
+            "name": "Saksild Strandkro",
+            "tip": "Ideális választás friss halhoz közvetlenül a tengerparton."
+          },
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Kötelező egy laza ebédhez a legfrissebb alapanyagokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Montra Odder Parkhotel",
+            "tip": "Oferă o experiență de restaurant rafinată în oraș."
+          },
+          {
+            "name": "Saksild Strandkro",
+            "tip": "O alegere ideală pentru pește proaspăt chiar pe plajă."
+          },
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "O necesitate pentru un prânz casual cu cele mai proaspete ingrediente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Montra Odder Parkhotel",
+            "tip": "Offers an upscale dining experience in town."
+          },
+          {
+            "name": "Saksild Strandkro",
+            "tip": "An ideal choice for fresh fish right on the beach."
+          },
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "A must for a casual lunch with the freshest ingredients."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenaufgang am Saksild Strand",
+            "tip": "Wenn Sie früh starten, ist der Sonnenaufgang magisch.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wälder um Rathlousdal",
+            "tip": "Parken Sie das Auto und machen Sie einen kurzen Spaziergang in absoluter Stille.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Garten der Ökologie",
+            "tip": "Ein kurzer Abstecher mit dem Auto für eine friedliche Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Napfelkelte a Saksild strandon",
+            "tip": "Ha korán indul, a napfelkelte varázslatos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rathlousdal körüli erdők",
+            "tip": "Parkolja le az autót, és tegyen egy rövid sétát teljes csendben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ökológiai Kert",
+            "tip": "Rövid autós kitérő egy békés szünetért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Răsărit la Plaja Saksild",
+            "tip": "Dacă începeți devreme, răsăritul este magic.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pădurile din jurul Rathlousdal",
+            "tip": "Parcați mașina și faceți o scurtă plimbare în liniște absolută.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina Ecologică",
+            "tip": "Un scurt ocol cu mașina pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunrise at Saksild Beach",
+            "tip": "If you start early, the sunrise is magical.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Forests around Rathlousdal",
+            "tip": "Park the car and take a short walk in absolute silence.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Garden of Ecology",
+            "tip": "A short drive for a peaceful break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Decken Sie sich mit handwerklichen Lebensmitteln ein."
+          },
+          {
+            "name": "Die Fußgängerzone in Odder",
+            "tip": "Nachdem Sie geparkt haben, erkunden Sie die kleinen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Töltse fel készleteit kézműves élelmiszerekkel."
+          },
+          {
+            "name": "Odder sétálóutcája",
+            "tip": "Miután leparkolt, fedezze fel a kis butikokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Aprovizionați-vă cu alimente artizanale."
+          },
+          {
+            "name": "Zona pietonală din Odder",
+            "tip": "După ce parcați, explorați micile buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fru Møllers Mølleri",
+            "tip": "Stock up on artisan foods."
+          },
+          {
+            "name": "The pedestrian street in Odder",
+            "tip": "After parking, explore the small boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Parkmöglichkeiten im Voraus, besonders im Stadtzentrum.",
+          "Tanken Sie, bevor Sie die ländlichen Gebiete erkunden.",
+          "Achten Sie auf Radfahrer auf den Landstraßen.",
+          "Nutzen Sie eine GPS-App, da einige kleinere Straßen schlecht ausgeschildert sein können."
+        ],
+        "hu": [
+          "Tervezze meg előre a parkolást, különösen a városközpontban.",
+          "Tankoljon, mielőtt felfedezné a vidéki területeket.",
+          "Vigyázzon a kerékpárosokra az országutakon.",
+          "Használjon GPS-alkalmazást, mivel néhány kisebb út rosszul lehet kitáblázva."
+        ],
+        "ro": [
+          "Planificați-vă parcarea în avans, mai ales în centrul orașului.",
+          "Alimentați cu combustibil înainte de a explora zonele rurale.",
+          "Fiți atenți la bicicliști pe drumurile de țară.",
+          "Utilizați o aplicație GPS, deoarece unele drumuri mai mici pot fi slab semnalizate."
+        ],
+        "en": [
+          "Plan your parking in advance, especially in the town center.",
+          "Fuel up before exploring the rural areas.",
+          "Be mindful of cyclists on country roads.",
+          "Use a GPS app, as some smaller roads can be poorly marked."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 15.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Odder Bahnhof",
+            "hu": "Odder vasútállomás",
+            "ro": "Gara din Odder",
+            "en": "Odder Train Station"
+          },
+          "coords": [
+            10.146,
+            55.97
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier. Kaufen Sie eine Tageskarte für die Busse in der Region.",
+            "hu": "Itt kezdje. Vegyen egy napijegyet a regionális buszokra.",
+            "ro": "Începeți de aici. Cumpărați un bilet de o zi pentru autobuzele din regiune.",
+            "en": "Start here. Buy a day pass for the buses in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Odder Museum & Kirche",
+            "hu": "Odder Múzeum és templom",
+            "ro": "Muzeul și Biserica din Odder",
+            "en": "Odder Museum & Church"
+          },
+          "coords": [
+            10.15,
+            55.973
+          ],
+          "category": "museums",
+          "arrive_at": "09:28",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen Cluster zu Fuß, alles ist nahe beieinander.",
+            "hu": "Fedezze fel ezt a fürtöt gyalog, minden közel van egymáshoz.",
+            "ro": "Explorați acest grup pe jos, totul este aproape.",
+            "en": "Explore this cluster on foot, everything is close together."
+          }
+        },
+        {
+          "name": {
+            "de": "Garten der Ökologie (Økologiens Have)",
+            "hu": "Az Ökológia Kertje (Økologiens Have)",
+            "ro": "Grădina Ecologică (Økologiens Have)",
+            "en": "The Garden of Ecology (Økologiens Have)"
+          },
+          "coords": [
+            10.165,
+            55.968
+          ],
+          "category": "parks",
+          "arrive_at": "11:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus. Ein schöner Ort für eine Mittagspause.",
+            "hu": "Menjen helyi busszal. Szép hely egy ebédszünethez.",
+            "ro": "Luați un autobuz local. Un loc frumos pentru o pauză de prânz.",
+            "en": "Take a local bus. A lovely place for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Saksild Strand",
+            "hu": "Saksild strand",
+            "ro": "Plaja Saksild",
+            "en": "Saksild Beach"
+          },
+          "coords": [
+            10.255,
+            55.949
+          ],
+          "category": "beaches",
+          "arrive_at": "13:58",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 12.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bus zum Strand fährt regelmäßig, besonders im Sommer.",
+            "hu": "A busz a strandra rendszeresen jár, különösen nyáron.",
+            "ro": "Autobuzul spre plajă circulă regulat, mai ales vara.",
+            "en": "The bus to the beach runs regularly, especially in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Bahnhof Odder",
+            "hu": "Vissza az Odder vasútállomásra",
+            "ro": "Înapoi la Gara din Odder",
+            "en": "Return to Odder Station"
+          },
+          "coords": [
+            10.146,
+            55.97
+          ],
+          "category": "transport",
+          "arrive_at": "16:28",
+          "stay_min": 71,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück und genießen Sie einen letzten Kaffee, bevor Sie abreisen.",
+            "hu": "Menjen vissza busszal, és igyon meg egy utolsó kávét indulás előtt.",
+            "ro": "Luați autobuzul înapoi și savurați o ultimă cafea înainte de plecare.",
+            "en": "Take the bus back and enjoy a final coffee before you depart."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt am Bahnhof Odder. Nach einem kurzen Spaziergang zu den wichtigsten Sehenswürdigkeiten im Zentrum, der Kirche und dem Museum, nehmen Sie einen Bus zum Garten der Ökologie für eine ruhige Mittagspause. Am Nachmittag bringt Sie ein weiterer Bus zum wunderschönen Saksild Strand. Schließlich kehren Sie mit dem Bus zum Bahnhof zurück und haben Zeit für einen entspannten Abschluss Ihres Tages.",
+        "hu": "Tömegközlekedési napja az odderi vasútállomáson kezdődik. A központi fő látnivalókhoz, a templomhoz és a múzeumhoz tett rövid séta után busszal jut el az Ökológiai Kertbe egy csendes ebédszünetre. Délután egy másik busz viszi Önt a gyönyörű Saksild strandra. Végül busszal tér vissza az állomásra, ahol időt szakíthat a nap nyugodt lezárására.",
+        "ro": "Ziua dvs. cu transportul public începe la gara din Odder. După o scurtă plimbare până la principalele atracții din centru, biserică și muzeu, luați un autobuz spre Grădina Ecologică pentru o pauză de prânz liniștită. După-amiaza, un alt autobuz vă va duce la frumoasa plajă Saksild. În cele din urmă, vă întoarceți la gară cu autobuzul, având timp pentru o încheiere relaxantă a zilei.",
+        "en": "Your day on public transport begins at Odder station. After a short walk to the main central sights, the church and museum, you'll take a bus to the Garden of Ecology for a quiet lunch break. In the afternoon, another bus will take you to the beautiful Saksild Beach. Finally, you return to the station by bus, with time for a relaxed end to your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caféen på Kystvejen (Saksild)",
+            "tip": "Ein Café mit einfachem Mittagessen und Eis in Strandnähe."
+          },
+          {
+            "name": "Bistroen på Odder Parkhotel",
+            "tip": "Eine gute Option für ein schönes Abendessen in der Nähe des Bahnhofs."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Holen Sie sich ein Smørrebrød zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caféen på Kystvejen (Saksild)",
+            "tip": "Kávézó egyszerű ebéddel és fagylalttal a strand közelében."
+          },
+          {
+            "name": "Bistroen på Odder Parkhotel",
+            "tip": "Jó lehetőség egy kellemes vacsorára az állomás közelében."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vegyen egy elviteles Smørrebrødot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caféen på Kystvejen (Saksild)",
+            "tip": "O cafenea cu prânz simplu și înghețată lângă plajă."
+          },
+          {
+            "name": "Bistroen på Odder Parkhotel",
+            "tip": "O opțiune bună pentru o cină frumoasă lângă gară."
+          },
+          {
+            "name": "Brutăriile locale",
+            "tip": "Luați un Smørrebrød la pachet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caféen på Kystvejen (Saksild)",
+            "tip": "A café with simple lunch and ice cream near the beach."
+          },
+          {
+            "name": "Bistroen på Odder Parkhotel",
+            "tip": "A good option for a nice dinner near the station."
+          },
+          {
+            "name": "Local bakeries",
+            "tip": "Grab a Smørrebrød to go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Dünen von Saksild",
+            "tip": "Finden Sie einen ruhigen Platz in den Dünen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eine Bank im Garten der Ökologie",
+            "tip": "Lauschen Sie den Vögeln und dem Summen der Insekten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die ruhigen Seitenstraßen von Odder",
+            "tip": "Verlieren Sie sich in den Gassen abseits der Hauptstraße.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A saksildi dűnék",
+            "tip": "Keressen egy csendes helyet a dűnékben.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy pad az Ökológiai Kertben",
+            "tip": "Hallgassa a madarakat és a rovarok zümmögését.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Odder csendes mellékutcái",
+            "tip": "Vesszen el a főutcától távolabb eső sikátorokban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dunele din Saksild",
+            "tip": "Găsiți un loc liniștit în dune.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O bancă în Grădina Ecologică",
+            "tip": "Ascultați păsările și zumzetul insectelor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străzile laterale liniștite din Odder",
+            "tip": "Pierdeți-vă pe aleile departe de strada principală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "The dunes of Saksild",
+            "tip": "Find a quiet spot in the dunes.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A bench in the Garden of Ecology",
+            "tip": "Listen to the birds and the buzz of insects.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The quiet side streets of Odder",
+            "tip": "Get lost in the alleys away from the main street.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Butikker i Rosensgade",
+            "tip": "Die Hauptfußgängerzone mit einer Mischung aus Ketten und lokalen Geschäften."
+          },
+          {
+            "name": "Der Hofladen im Garten der Ökologie",
+            "tip": "Kaufen Sie Bio-Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Rosensgade-n",
+            "tip": "A fő sétálóutca láncüzletek és helyi boltok keverékével."
+          },
+          {
+            "name": "A farmbolt az Ökológiai Kertben",
+            "tip": "Vásároljon bio-szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe Rosensgade",
+            "tip": "Principala stradă pietonală cu un amestec de lanțuri de magazine și magazine locale."
+          },
+          {
+            "name": "Magazinul fermei din Grădina Ecologică",
+            "tip": "Cumpărați suveniruri organice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Rosensgade",
+            "tip": "The main pedestrian street with a mix of chains and local shops."
+          },
+          {
+            "name": "The farm shop at the Garden of Ecology",
+            "tip": "Buy organic souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt vom Strand.",
+          "Eine Powerbank für Ihr Telefon ist nützlich, um Fahrpläne und Karten zu überprüfen.",
+          "Die Busse akzeptieren in der Regel Karten, aber etwas Bargeld kann nicht schaden.",
+          "Fragen Sie die Einheimischen, sie sind oft sehr hilfsbereit bei Wegbeschreibungen."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, különösen az utolsó strandról visszainduló járatot.",
+          "Egy power bank a telefonjához hasznos lehet a menetrendek és térképek ellenőrzéséhez.",
+          "A buszok általában elfogadják a kártyát, de némi készpénz nem árthat.",
+          "Kérdezze a helyieket, gyakran nagyon segítőkészek az útbaigazításban."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, în special pentru ultima cursă de întoarcere de la plajă.",
+          "O baterie externă pentru telefon este utilă pentru a verifica orarele și hărțile.",
+          "Autobuzele acceptă de obicei carduri, dar niște numerar nu strică.",
+          "Întrebați localnicii, sunt adesea foarte amabili cu indicațiile."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially for the last return from the beach.",
+          "A power bank for your phone is useful for checking timetables and maps.",
+          "Buses usually accept cards, but having some cash doesn't hurt.",
+          "Ask the locals, they are often very helpful with directions."
+        ]
+      }
+    }
+  }
+}

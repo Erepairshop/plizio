@@ -1,0 +1,958 @@
+{
+  "city_id": "uk-lincoln-cities-v2",
+  "anchor": {
+    "name": "Lincoln",
+    "coords": [
+      -0.5402,
+      53.2307
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Brayford Pool",
+            "hu": "Brayford Pool",
+            "ro": "Brayford Pool",
+            "en": "Brayford Pool"
+          },
+          "coords": [
+            -0.548,
+            53.228
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem ruhigen Spaziergang am Wasser.",
+            "hu": "Kezdje a napot egy nyugodt sétával a vízparton.",
+            "ro": "Începeți ziua cu o plimbare liniștită pe malul apei.",
+            "en": "Start your day with a calm walk by the waterside."
+          }
+        },
+        {
+          "name": {
+            "de": "Steep Hill",
+            "hu": "Steep Hill (Meredek Domb)",
+            "ro": "Steep Hill (Dealul Abrupt)",
+            "en": "Steep Hill"
+          },
+          "coords": [
+            -0.539,
+            53.232
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Boutiquen. Es ist steiler als es aussieht!",
+            "hu": "Szánjon időt a butikokra. Meredekebb, mint amilyennek látszik!",
+            "ro": "Acordați-vă timp pentru a explora buticurile. Este mai abrupt decât pare!",
+            "en": "Take your time exploring the boutiques. It's steeper than it looks!"
+          }
+        },
+        {
+          "name": {
+            "de": "Lincoln Kathedrale",
+            "hu": "Lincolni székesegyház",
+            "ro": "Catedrala Lincoln",
+            "en": "Lincoln Cathedral"
+          },
+          "coords": [
+            -0.536,
+            53.234
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem Lincoln Imp, einer berühmten Steinschnitzerei.",
+            "hu": "Keresse meg a Lincoln Imp nevű híres kőfaragványt.",
+            "ro": "Căutați Lincoln Imp, o sculptură în piatră renumită.",
+            "en": "Look for the Lincoln Imp, a famous stone carving."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelalterlicher Bischofspalast",
+            "hu": "Középkori Püspöki Palota",
+            "ro": "Palatul Episcopal Medieval",
+            "en": "Medieval Bishop's Palace"
+          },
+          "coords": [
+            -0.535,
+            53.233
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:54",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf die Kathedrale aus den Ruinen.",
+            "hu": "Élvezze a katedrális látványát a romok közül.",
+            "ro": "Bucurați-vă de priveliștea catedralei din ruine.",
+            "en": "Enjoy the views of the cathedral from within the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Lincoln Castle",
+            "hu": "Lincolni vár",
+            "ro": "Castelul Lincoln",
+            "en": "Lincoln Castle"
+          },
+          "coords": [
+            -0.54,
+            53.234
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:52",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Mauerspaziergang bietet die beste Aussicht auf die Stadt.",
+            "hu": "A várfalon sétálva nyílik a legjobb kilátás a városra.",
+            "ro": "Plimbarea pe ziduri oferă cele mai bune priveliști ale orașului.",
+            "en": "The wall walk offers the best views of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Lebens in Lincolnshire",
+            "hu": "Lincolnshire-i Élet Múzeuma",
+            "ro": "Muzeul Vieții din Lincolnshire",
+            "en": "Museum of Lincolnshire Life"
+          },
+          "coords": [
+            -0.543,
+            53.238
+          ],
+          "category": "museums",
+          "arrive_at": "16:02",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Ausstellungen über die industrielle Vergangenheit der Grafschaft.",
+            "hu": "Ne hagyja ki a megye ipari múltjáról szóló kiállításokat.",
+            "ro": "Nu ratați expozițiile despre trecutul industrial al comitatului.",
+            "en": "Don't miss the exhibits on the county's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Usher Gallery",
+            "hu": "Usher Galéria",
+            "ro": "Galeria Usher",
+            "en": "Usher Gallery"
+          },
+          "coords": [
+            -0.543,
+            53.229
+          ],
+          "category": "museums",
+          "arrive_at": "17:53",
+          "stay_min": 0,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Beenden Sie die Tour in der Nähe Ihres Ausgangspunkts, vielleicht für einen letzten Blick auf die Kunst.",
+            "hu": "Fejezze be a túrát a kiindulópont közelében, esetleg egy utolsó pillantást vetve a művészetre.",
+            "ro": "Încheiați turul aproape de punctul de plecare, poate cu o ultimă privire la artă.",
+            "en": "End the tour near where you started, perhaps for a final glimpse of art."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am ruhigen Brayford Pool, bevor Sie sich der Herausforderung des Steep Hill stellen. Die Belohnung oben ist die prächtige Kathedrale und die Burg. Am Nachmittag tauchen Sie in die lokale Geschichte im Museum ein. Der Abstieg führt Sie durch grüne Gärten zurück ins Stadtzentrum und beendet einen Tag voller historischer Entdeckungen.",
+        "hu": "Kezdje a napot a békés Brayford Poolnál, mielőtt nekivág a Steep Hill kihívásának. A jutalom a csúcson a csodálatos katedrális és a vár. Délután merüljön el a helyi történelemben a múzeumban. A leereszkedés zöldellő kerteken keresztül vezet vissza a városközpontba, lezárva egy történelmi felfedezésekkel teli napot.",
+        "ro": "Începeți ziua la liniștitul Brayford Pool înainte de a aborda provocarea Steep Hill. Recompensa din vârf este magnifica catedrală și castelul. După-amiaza, pătrundeți în istoria locală la muzeu. Coborârea vă duce înapoi în centrul orașului prin grădini luxuriante, încheind o zi de descoperiri istorice.",
+        "en": "Start your day at the tranquil Brayford Pool before tackling the challenge of Steep Hill. The reward at the top is the magnificent cathedral and castle. In the afternoon, delve into local history at the museum. The descent takes you back to the city centre through lush gardens, ending a day of historical discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lincolnshire Sausage",
+            "tip": "Probieren Sie diese lokale Spezialität in einem der vielen Pubs."
+          },
+          {
+            "name": "Stokes High Bridge Cafe",
+            "tip": "Ein ikonisches Café auf einer Brücke für einen klassischen Nachmittagstee."
+          },
+          {
+            "name": "Browns Pie Restaurant",
+            "tip": "Herzhafte, traditionelle britische Pasteten in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lincolnshire-i kolbász",
+            "tip": "Kóstolja meg ezt a helyi különlegességet a számos pub egyikében."
+          },
+          {
+            "name": "Stokes High Bridge Cafe",
+            "tip": "Egy ikonikus kávézó egy hídon, egy klasszikus délutáni teához."
+          },
+          {
+            "name": "Browns Pie Restaurant",
+            "tip": "Kiadós, hagyományos brit piték hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnat Lincolnshire",
+            "tip": "Încercați această specialitate locală în oricare dintre numeroasele pub-uri."
+          },
+          {
+            "name": "Cafeneaua Stokes High Bridge",
+            "tip": "O cafenea emblematică pe un pod pentru un ceai clasic de după-amiază."
+          },
+          {
+            "name": "Restaurantul Browns Pie",
+            "tip": "Plăcinte britanice tradiționale și consistente într-un cadru confortabil."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lincolnshire Sausage",
+            "tip": "Try this local speciality in any of the many pubs."
+          },
+          {
+            "name": "Stokes High Bridge Cafe",
+            "tip": "An iconic cafe on a bridge for a classic afternoon tea."
+          },
+          {
+            "name": "Browns Pie Restaurant",
+            "tip": "Hearty, traditional British pies in a cosy setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bischofspalast-Gärten",
+            "tip": "Ein ruhiger Ort mit atemberaubender Aussicht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Brayford Pool Uferpromenade",
+            "tip": "Beobachten Sie die Schwäne und Boote in der Abenddämmerung.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Arboretum",
+            "tip": "Ein wunderschöner viktorianischer Park, nur einen kurzen Spaziergang vom Zentrum entfernt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Püspöki Palota kertjei",
+            "tip": "Csendes hely, lenyűgöző kilátással.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Brayford Pool vízpart",
+            "tip": "Nézze a hattyúkat és a csónakokat alkonyatkor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Arborétum",
+            "tip": "Gyönyörű viktoriánus park, rövid sétára a központtól.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Episcopal",
+            "tip": "Un loc liniștit cu vederi uimitoare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Promenada Brayford Pool",
+            "tip": "Urmăriți lebedele și bărcile la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Arboretum",
+            "tip": "Un parc victorian frumos la o scurtă plimbare de centru.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bishop's Palace Gardens",
+            "tip": "A quiet spot with stunning views.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Brayford Pool waterside",
+            "tip": "Watch the swans and boats at dusk.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Arboretum",
+            "tip": "A beautiful Victorian park a short walk from the centre.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Steep Hill",
+            "tip": "Unabhängige Boutiquen, Antiquitätenläden und Kunstgalerien."
+          },
+          {
+            "name": "Lincoln Weihnachtsmarkt",
+            "tip": "Falls Sie im Dezember zu Besuch sind, ist dies ein Muss für festliche Leckereien und Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Steep Hill-en",
+            "tip": "Független butikok, régiségboltok és művészeti galériák."
+          },
+          {
+            "name": "Lincolni karácsonyi vásár",
+            "tip": "Ha decemberben látogat ide, ez kötelező program az ünnepi finomságokért és ajándékokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe Steep Hill",
+            "tip": "Buticuri independente, magazine de antichități și galerii de artă."
+          },
+          {
+            "name": "Târgul de Crăciun din Lincoln",
+            "tip": "Dacă vizitați în decembrie, este o vizită obligatorie pentru bunătăți și cadouri festive."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Steep Hill",
+            "tip": "Independent boutiques, antique shops, and art galleries."
+          },
+          {
+            "name": "Lincoln Christmas Market",
+            "tip": "If visiting in December, it's a must for festive treats and gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie sehr bequeme Schuhe. Steep Hill ist kein Scherz!",
+          "Kaufen Sie Tickets für die Burg und die Kathedrale im Voraus online, um Warteschlangen zu vermeiden.",
+          "Prüfen Sie die Öffnungszeiten, da einige Orte früher schließen, besonders im Winter.",
+          "Nehmen Sie sich Zeit für die Seitenstraßen im Domviertel für unerwartete Entdeckungen."
+        ],
+        "hu": [
+          "Viseljen nagyon kényelmes cipőt. A Steep Hill nem tréfa!",
+          "Vásárolja meg a vár- és katedrálisjegyeket előre online, hogy elkerülje a sorban állást.",
+          "Ellenőrizze a nyitvatartási időket, mivel néhány hely korábban zár, különösen télen.",
+          "Szánjon időt a Katedrális negyed mellékutcáira a váratlan felfedezésekért."
+        ],
+        "ro": [
+          "Purtați încălțăminte foarte confortabilă. Steep Hill nu este o glumă!",
+          "Cumpărați biletele pentru castel și catedrală online în avans pentru a evita cozile.",
+          "Verificați orele de deschidere, deoarece unele locuri se închid mai devreme, mai ales iarna.",
+          "Alocați timp pentru străzile laterale din Cartierul Catedralei pentru descoperiri neașteptate."
+        ],
+        "en": [
+          "Wear very comfortable shoes. Steep Hill is not a joke!",
+          "Buy tickets for the castle and cathedral online in advance to avoid queues.",
+          "Check opening times as some places close earlier, especially in winter.",
+          "Allow time for the side streets in the Cathedral Quarter for unexpected discoveries."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Brayford Pool",
+            "hu": "Brayford Pool",
+            "ro": "Brayford Pool",
+            "en": "Brayford Pool"
+          },
+          "coords": [
+            -0.548,
+            53.228
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Eine flache, einfache Fahrt, um den Tag zu beginnen.",
+            "hu": "Sík, könnyű tekerés a nap kezdetén.",
+            "ro": "O plimbare plată și ușoară pentru a începe ziua.",
+            "en": "A flat, easy ride to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Lebens in Lincolnshire",
+            "hu": "Lincolnshire-i Élet Múzeuma",
+            "ro": "Muzeul Vieții din Lincolnshire",
+            "en": "Museum of Lincolnshire Life"
+          },
+          "coords": [
+            -0.543,
+            53.238
+          ],
+          "category": "museums",
+          "arrive_at": "09:52",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Sicherer Fahrradabstellplatz vorhanden. Erkunden Sie die reiche Geschichte.",
+            "hu": "Biztonságos kerékpártároló áll rendelkezésre. Fedezze fel a gazdag történelmet.",
+            "ro": "Parcare securizată pentru biciclete disponibilă. Explorați istoria bogată.",
+            "en": "Secure bike parking available. Explore the rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Newport Arch",
+            "hu": "Newport Arch",
+            "ro": "Arcul Newport",
+            "en": "Newport Arch"
+          },
+          "coords": [
+            -0.538,
+            53.237
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahren Sie durch ein Stück römischer Geschichte!",
+            "hu": "Tekerjen át egy darabka római történelmen!",
+            "ro": "Treceți cu bicicleta printr-o bucată de istorie romană!",
+            "en": "Ride through a piece of Roman history!"
+          }
+        },
+        {
+          "name": {
+            "de": "Lincoln Castle",
+            "hu": "Lincolni vár",
+            "ro": "Castelul Lincoln",
+            "en": "Lincoln Castle"
+          },
+          "coords": [
+            -0.54,
+            53.234
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:43",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad gut an und machen Sie sich bereit für einen langen Spaziergang auf den Mauern.",
+            "hu": "Zárja le jól a kerékpárját, és készüljön egy hosszú sétára a falakon.",
+            "ro": "Legați-vă bine bicicleta și pregătiți-vă pentru o plimbare lungă pe ziduri.",
+            "en": "Lock your bike securely and get ready for a long walk on the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Lincoln Kathedrale",
+            "hu": "Lincolni székesegyház",
+            "ro": "Catedrala Lincoln",
+            "en": "Lincoln Cathedral"
+          },
+          "coords": [
+            -0.536,
+            53.234
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer, einfacher Übergang von der Burg.",
+            "hu": "Rövid, könnyű átmenet a várból.",
+            "ro": "O trecere scurtă și ușoară de la castel.",
+            "en": "A short, easy hop from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Steep Hill (Abstieg)",
+            "hu": "Steep Hill (leereszkedés)",
+            "ro": "Steep Hill (coborâre)",
+            "en": "Steep Hill (Descent)"
+          },
+          "coords": [
+            -0.539,
+            53.232
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vorsicht beim Abstieg! Es macht mehr Spaß als der Aufstieg.",
+            "hu": "Óvatosan lefelé! Sokkal szórakoztatóbb, mint a felfelé út.",
+            "ro": "Atenție la coborâre! Este mult mai distractiv decât urcarea.",
+            "en": "Be careful on the descent! It's much more fun than the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Usher Gallery",
+            "hu": "Usher Galéria",
+            "ro": "Galeria Usher",
+            "en": "Usher Gallery"
+          },
+          "coords": [
+            -0.543,
+            53.229
+          ],
+          "category": "museums",
+          "arrive_at": "16:12",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit etwas Kultur, bevor Sie zum Pool zurückkehren.",
+            "hu": "Zárja a túrát egy kis kultúrával, mielőtt visszatérne a tóhoz.",
+            "ro": "Încheiați-vă turul cu puțină cultură înainte de a vă întoarce la piscină.",
+            "en": "End your tour with some culture before heading back to the pool."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer flachen Fahrt um den Brayford Pool. Fahren Sie dann nach Norden, um die römische und industrielle Vergangenheit der Stadt zu erkunden. Der Vormittag ist dem historischen Domviertel gewidmet, wo Sie die Burg und die Kathedrale erobern. Seien Sie auf den Anstieg vorbereitet! Der Nachmittag bietet eine aufregende Abfahrt den Steep Hill hinunter und eine kulturelle Abkühlung in der Usher Gallery, bevor Sie einen Tag auf zwei Rädern abschließen.",
+        "hu": "Kezdje egy sík tekeréssel a Brayford Pool körül. Ezután tekerjen északra, hogy felfedezze a város római és ipari múltját. A délelőtt a történelmi Katedrális negyedé, a vár és a katedrális meghódításával. Készüljön fel az emelkedőre! A délután egy izgalmas leereszkedést kínál a Steep Hill-en és kulturális levezetést az Usher Galériában, mielőtt lezárná a két keréken töltött napot.",
+        "ro": "Începeți cu o plimbare plată în jurul Brayford Pool. Apoi, pedalați spre nord pentru a explora trecutul roman și industrial al orașului. Dimineața este dedicată Cartierului istoric al Catedralei, cucerind castelul și catedrala. Fiți pregătiți pentru urcare! După-amiaza oferă o coborâre palpitantă pe Steep Hill și o pauză culturală la Galeria Usher înainte de a încheia o zi pe două roți.",
+        "en": "Start with a flat ride around Brayford Pool. Then, cycle north to explore the city's Roman and industrial past. The morning is dedicated to the historic Cathedral Quarter, conquering the castle and cathedral. Be prepared for the climb! The afternoon offers a thrilling descent down Steep Hill and a cultural cool-down at the Usher Gallery before concluding a day on two wheels."
+      },
+      "tips": {
+        "de": [
+          "Seien Sie auf einen sehr steilen Anstieg zum Domviertel vorbereitet. E-Bikes sind eine große Hilfe.",
+          "Schließen Sie Ihr Fahrrad immer an sicheren Orten ab, besonders in den belebten Touristengebieten.",
+          "Die Wasserwege bieten schöne, flache Radwege abseits des Verkehrs.",
+          "Viele der zentralen Straßen sind gepflastert, also ist ein Fahrrad mit guter Federung bequemer."
+        ],
+        "hu": [
+          "Készüljön fel egy nagyon meredek emelkedőre a Katedrális negyedig. Az e-kerékpárok nagy segítséget jelentenek.",
+          "Mindig zárja le a kerékpárját biztonságos helyeken, különösen a forgalmas turisztikai területeken.",
+          "A vízpartok kellemes, sík kerékpárutakat kínálnak a forgalomtól távol.",
+          "Sok központi utca macskaköves, ezért egy jó felfüggesztésű kerékpár kényelmesebb."
+        ],
+        "ro": [
+          "Fiți pregătiți pentru o urcare foarte abruptă spre Cartierul Catedralei. Bicicletele electrice sunt de mare ajutor.",
+          "Legați-vă întotdeauna bicicleta în locații sigure, în special în zonele turistice aglomerate.",
+          "Malurile apei oferă trasee de ciclism plăcute și plate, departe de trafic.",
+          "Multe dintre străzile centrale sunt pavate, așa că o bicicletă cu suspensie bună este mai confortabilă."
+        ],
+        "en": [
+          "Be prepared for a very steep climb up to the Cathedral Quarter. E-bikes are a great help.",
+          "Always lock your bike in secure locations, especially in the busy tourist areas.",
+          "The waterways offer nice flat cycle paths away from traffic.",
+          "Many of the central streets are cobbled, so a bike with good suspension will be more comfortable."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Domviertel",
+            "hu": "Parkolás a Katedrális Negyedben",
+            "ro": "Parcare în Cartierul Catedralei",
+            "en": "Cathedral Quarter Parking"
+          },
+          "coords": [
+            -0.538,
+            53.236
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Es ist der Hub für Ihre erste Erkundung zu Fuß.",
+            "hu": "Parkoljon itt a délelőttre. Ez az első gyalogos felfedezőút központja.",
+            "ro": "Parcați aici pentru dimineață. Este centrul pentru prima dvs. explorare pe jos.",
+            "en": "Park here for the morning. It's the hub for your first walking exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Lincoln Castle",
+            "hu": "Lincolni vár",
+            "ro": "Castelul Lincoln",
+            "en": "Lincoln Castle"
+          },
+          "coords": [
+            -0.54,
+            53.234
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:05",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit der größten Attraktion, um die Menschenmassen zu vermeiden.",
+            "hu": "Kezdje a legnagyobb attrakcióval, hogy elkerülje a tömeget.",
+            "ro": "Începeți cu atracția principală pentru a evita aglomerația.",
+            "en": "Start with the biggest attraction to beat the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Lincoln Kathedrale",
+            "hu": "Lincolni székesegyház",
+            "ro": "Catedrala Lincoln",
+            "en": "Lincoln Cathedral"
+          },
+          "coords": [
+            -0.536,
+            53.234
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:07",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang von der Burg entfernt, bewundern Sie die gotische Architektur.",
+            "hu": "Könnyű séta a vártól, csodálja meg a gótikus építészetet.",
+            "ro": "O plimbare ușoară de la castel, admirați arhitectura gotică.",
+            "en": "An easy walk from the castle, admire the Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Steep Hill (Erkundung)",
+            "hu": "Steep Hill (felfedezés)",
+            "ro": "Steep Hill (Explorare)",
+            "en": "Steep Hill (Exploration)"
+          },
+          "coords": [
+            -0.539,
+            53.232
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:26",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wandern Sie nach unten zu Mittag und dann wieder hoch. Betrachten Sie es als Verdauungsspaziergang!",
+            "hu": "Sétáljon le ebédelni, majd vissza. Tekintse emésztést segítő sétának!",
+            "ro": "Plimbați-vă în jos pentru prânz și apoi înapoi. Considerați-o o plimbare digestivă!",
+            "en": "Wander down for lunch and then back up. Consider it a digestive walk!"
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Brayford Waterfront",
+            "hu": "Parkolás a Brayford rakpartnál",
+            "ro": "Parcare la Brayford Waterfront",
+            "en": "Brayford Waterfront Parking"
+          },
+          "coords": [
+            -0.547,
+            53.229
+          ],
+          "category": "transport",
+          "arrive_at": "14:04",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Zeit, das Auto zu nehmen und den Cluster zu wechseln. Parken Sie hier für den Rest des Tages.",
+            "hu": "Ideje autóba ülni és klasztert váltani. Parkoljon itt a nap hátralévő részére.",
+            "ro": "Este timpul să luați mașina și să schimbați clusterul. Parcați aici pentru restul zilei.",
+            "en": "Time to take the car and change cluster. Park here for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Brayford Pool & Usher Gallery",
+            "hu": "Brayford Pool és Usher Galéria",
+            "ro": "Brayford Pool și Galeria Usher",
+            "en": "Brayford Pool & Usher Gallery"
+          },
+          "coords": [
+            -0.548,
+            53.228
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:09",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Nachmittag am Wasser und in der Kunstgalerie.",
+            "hu": "Élvezze a pihentető délutánt a vízparton és a művészeti galériában.",
+            "ro": "Bucurați-vă de o după-amiază relaxantă la malul apei și la galeria de artă.",
+            "en": "Enjoy a relaxing afternoon by the water and in the art gallery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Plan maximiert Ihre Zeit durch strategisches Parken. Am Morgen erobern Sie zu Fuß das historische Herz von Lincoln – die Burg, die Kathedrale und den Steep Hill. Nach dem Mittagessen fahren Sie zu Ihrem zweiten Cluster am Brayford Pool. Hier können Sie einen entspannten Nachmittag am Wasser verbringen, die Schwäne beobachten und Kunst in der Usher Gallery genießen, alles in Reichweite Ihres Parkplatzes.",
+        "hu": "Ez a terv stratégiai parkolással maximalizálja az idejét. Délelőtt gyalogosan hódítsa meg Lincoln történelmi szívét – a várat, a katedrálist és a Steep Hill-t. Ebéd után vezessen a második klaszterhez, a Brayford Pool-hoz. Itt egy pihentető délutánt tölthet a vízparton, hattyúkat nézhet és művészetet élvezhet az Usher Galériában, mindezt a parkolójától kényelmes távolságra.",
+        "ro": "Acest plan maximizează timpul dvs. prin parcare strategică. Dimineața, cuceriți pe jos inima istorică a Lincolnului – castelul, catedrala și Steep Hill. După prânz, conduceți la al doilea cluster la Brayford Pool. Aici, vă puteți bucura de o după-amiază relaxantă la malul apei, urmărind lebedele și bucurându-vă de artă la Galeria Usher, totul la o distanță mică de locul de parcare.",
+        "en": "This plan maximizes your time through strategic parking. In the morning, conquer Lincoln's historic heart on foot – the castle, cathedral, and Steep Hill. After lunch, you'll drive to your second cluster at Brayford Pool. Here, you can enjoy a relaxed afternoon by the waterside, watching the swans and enjoying art at the Usher Gallery, all within easy reach of your parking spot."
+      },
+      "tips": {
+        "de": [
+          "Langzeitparkplätze sind am Stadtrand günstiger, aber für diesen Plan ist ein zentraler Parkplatz besser.",
+          "Nutzen Sie eine Park-App, um Plätze zu finden und aus der Ferne zu bezahlen/aufzuladen.",
+          "Seien Sie sich der engen Straßen im historischen Zentrum bewusst, wenn Sie fahren.",
+          "Der Verkehr kann zu Stoßzeiten stark sein, also planen Sie Ihre Fahrten zwischen den Clustern entsprechend."
+        ],
+        "hu": [
+          "A hosszú távú parkolók olcsóbbak a város szélén, de ehhez a tervhez egy központi parkoló a jobb.",
+          "Használjon parkolási alkalmazást a helyek megkereséséhez és a távoli fizetéshez/feltöltéshez.",
+          "Vezetés közben ügyeljen a történelmi központ szűk utcáira.",
+          "A forgalom csúcsidőben sűrű lehet, ezért tervezze meg az utazásokat a klaszterek között."
+        ],
+        "ro": [
+          "Parcările pe termen lung sunt mai ieftine la periferie, dar o parcare centrală este mai bună pentru acest plan.",
+          "Folosiți o aplicație de parcare pentru a găsi locuri și a plăti/reîncărca de la distanță.",
+          "Fiți conștienți de străzile înguste din centrul istoric atunci când conduceți.",
+          "Traficul poate fi aglomerat la orele de vârf, așa că planificați-vă călătoriile între clustere în consecință."
+        ],
+        "en": [
+          "Long-stay car parks are cheaper on the outskirts, but a central one is better for this plan.",
+          "Use a parking app to find spaces and pay/top-up remotely.",
+          "Be aware of the narrow streets in the historic centre when driving.",
+          "Traffic can be heavy during peak times, so plan your drives between clusters accordingly."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bus nach Nettleham Road",
+            "hu": "Busz a Nettleham Road felé",
+            "ro": "Autobuz către Nettleham Road",
+            "en": "Bus towards Nettleham Road"
+          },
+          "coords": [
+            -0.543,
+            53.238
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Museum, um den Tag im Norden zu beginnen.",
+            "hu": "Kezdje a napot északon, egy buszúttal a múzeumhoz.",
+            "ro": "Luați un autobuz spre muzeu pentru a începe ziua în nord.",
+            "en": "Take a bus towards the museum to start your day in the north."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Lebens in Lincolnshire",
+            "hu": "Lincolnshire-i Élet Múzeuma",
+            "ro": "Muzeul Vieții din Lincolnshire",
+            "en": "Museum of Lincolnshire Life"
+          },
+          "coords": [
+            -0.543,
+            53.238
+          ],
+          "category": "museums",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um die lokale Kultur zu verstehen, bevor Sie die Sehenswürdigkeiten sehen.",
+            "hu": "Remek hely a helyi kultúra megértéséhez, mielőtt megnézné a nevezetességeket.",
+            "ro": "Un loc minunat pentru a înțelege cultura locală înainte de a vedea siturile.",
+            "en": "A great place to understand local culture before seeing the sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Lincoln Castle",
+            "hu": "Lincolni vár",
+            "ro": "Castelul Lincoln",
+            "en": "Lincoln Castle"
+          },
+          "coords": [
+            -0.54,
+            53.234
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:56",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Newport Arch, Ihrem Tor zum Domviertel.",
+            "hu": "Rövid séta a Newport Arch-tól, a Katedrális negyed kapujától.",
+            "ro": "O scurtă plimbare de la Arcul Newport, poarta dvs. de acces la Cartierul Catedralei.",
+            "en": "A short walk from Newport Arch, your gateway to the Cathedral Quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Lincoln Kathedrale",
+            "hu": "Lincolni székesegyház",
+            "ro": "Catedrala Lincoln",
+            "en": "Lincoln Cathedral"
+          },
+          "coords": [
+            -0.536,
+            53.234
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:58",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beiden Wahrzeichen von Lincoln nacheinander.",
+            "hu": "Csodálja meg Lincoln két nevezetességét egymás után.",
+            "ro": "Admirați cele două repere din Lincoln, unul după altul.",
+            "en": "Marvel at Lincoln's twin landmarks back-to-back."
+          }
+        },
+        {
+          "name": {
+            "de": "Steep Hill & Mittagessen",
+            "hu": "Steep Hill és ebéd",
+            "ro": "Steep Hill și prânz",
+            "en": "Steep Hill & Lunch"
+          },
+          "coords": [
+            -0.539,
+            53.232
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:17",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verdienen Sie sich Ihr Mittagessen, indem Sie auf dem Weg nach unten ein Café auswählen.",
+            "hu": "Érdemelje ki az ebédjét egy kávézó kiválasztásával lefelé menet.",
+            "ro": "Câștigați-vă prânzul alegând o cafenea în drum spre vale.",
+            "en": "Earn your lunch by picking a cafe on your way down."
+          }
+        },
+        {
+          "name": {
+            "de": "Brayford Pool",
+            "hu": "Brayford Pool",
+            "ro": "Brayford Pool",
+            "en": "Brayford Pool"
+          },
+          "coords": [
+            -0.548,
+            53.228
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:13",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein letzter Bus bringt Sie zum Wasser, um einen entspannten Tagesausklang zu erleben.",
+            "hu": "Egy utolsó buszút a vízparthoz egy pihentető befejezéshez.",
+            "ro": "O ultimă călătorie cu autobuzul până la malul apei pentru un final relaxant de zi.",
+            "en": "A final bus ride takes you to the waterside for a relaxing end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Lincolns Busnetz, um zwischen den wichtigsten Clustern zu springen. Beginnen Sie im Norden mit einem tiefen Einblick in die Geschichte des Landkreises. Ein kurzer Spaziergang führt Sie dann in das historische Herz der Stadt, wo Sie den größten Teil des Tages damit verbringen werden, die Burg, die Kathedrale und den Steep Hill zu erkunden. Ein letzter Bus bringt Sie hinunter zum Brayford Pool, ein perfekter Ort, um über die Abenteuer des Tages nachzudenken, während die Sonne untergeht.",
+        "hu": "Használja Lincoln buszhálózatát a főbb klaszterek közötti ugráláshoz. Kezdje északon a megye történelmének mélyebb megismerésével. Egy rövid séta elvezeti a város történelmi szívébe, ahol a nap nagy részét a vár, a katedrális és a Steep Hill felfedezésével tölti. Egy utolsó busz leviszi a Brayford Pool-hoz, amely tökéletes hely a napi kalandokról való elmélkedésre, miközben a nap lenyugszik.",
+        "ro": "Folosiți rețeaua de autobuze din Lincoln pentru a sări între clusterele cheie. Începeți în nord cu o incursiune profundă în istoria comitatului. O scurtă plimbare vă va duce apoi în inima istorică a orașului, unde veți petrece cea mai mare parte a zilei explorând castelul, catedrala și Steep Hill. O ultimă călătorie cu autobuzul vă duce la Brayford Pool, un loc perfect pentru a reflecta la aventurile zilei pe măsură ce soarele apune.",
+        "en": "Use Lincoln's bus network to hop between key clusters. Start in the north with a deep dive into county history. A short walk then brings you into the city's historic heart, where you'll spend most of the day exploring the castle, cathedral and Steep Hill. A final bus ride takes you down to Brayford Pool, a perfect spot to reflect on the day's adventures as the sun sets."
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehr als zwei Fahrten planen, es ist kostengünstiger.",
+          "Busse können an Markttagen oder bei Veranstaltungen überfüllt sein, also planen Sie zusätzliche Zeit ein.",
+          "Die meisten Busse sind barrierefrei, was für Kinderwagen oder Rollstühle hilfreich ist.",
+          "Laden Sie die App des lokalen Busunternehmens für Echtzeit-Fahrpläne herunter."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, ha több mint két utazást tervez, ez költséghatékonyabb.",
+          "A buszok zsúfoltak lehetnek piacnapokon vagy rendezvények idején, ezért tervezzen plusz idővel.",
+          "A legtöbb busz akadálymentesített, ami hasznos babakocsik vagy kerekesszékek számára.",
+          "Töltse le a helyi busztársaság alkalmazását a valós idejű menetrendekért."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi dacă intenționați să faceți mai mult de două călătorii; este mai eficient din punct de vedere al costurilor.",
+          "Autobuzele pot fi aglomerate în zilele de piață sau în timpul evenimentelor, așa că acordați timp suplimentar.",
+          "Majoritatea autobuzelor sunt accesibile, ceea ce este util pentru cărucioare sau scaune cu rotile.",
+          "Descărcați aplicația operatorului de autobuz local pentru orare în timp real."
+        ],
+        "en": [
+          "Buy a day rider ticket if you plan on more than two journeys; it's more cost-effective.",
+          "Buses can be crowded on market days or during events, so allow extra time.",
+          "Most buses are accessible, which is helpful for pushchairs or wheelchairs.",
+          "Download the local bus operator's app for real-time schedules."
+        ]
+      }
+    }
+  }
+}

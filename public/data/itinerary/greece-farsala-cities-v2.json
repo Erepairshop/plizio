@@ -1,0 +1,995 @@
+{
+  "city_id": "greece-farsala-cities-v2",
+  "anchor": {
+    "name": "Farsala",
+    "coords": [
+      22.3833,
+      39.2833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:55",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Traditionelles Stadtzentrum",
+          "coords": [
+            22.384,
+            39.284
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie hier einen traditionellen griechischen Kaffee.",
+            "hu": "Igyon meg egy hagyományos görög kávét a téren.",
+            "ro": "Savurați o cafea tradițională grecească aici.",
+            "en": "Enjoy a traditional Greek coffee in the square."
+          }
+        },
+        {
+          "name": "Statue des Achilles",
+          "coords": [
+            22.3835,
+            39.285
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der mythische Held soll hier in der Nähe geboren sein.",
+            "hu": "A mitikus hős állítólag itt a közelben született.",
+            "ro": "Eroul mitic se spune că s-a născut în apropiere.",
+            "en": "The mythical hero is said to have been born nearby."
+          }
+        },
+        {
+          "name": "Archäologische Sammlung",
+          "coords": [
+            22.382,
+            39.283
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lernen Sie alles über die berühmte Schlacht von Pharsalos.",
+            "hu": "Tudjon meg mindent a híres pharsalosi csatáról.",
+            "ro": "Aflați totul despre faimoasa bătălie de la Pharsalus.",
+            "en": "Learn everything about the famous Battle of Pharsalus."
+          }
+        },
+        {
+          "name": "Kirche Agios Antonios",
+          "coords": [
+            22.386,
+            39.2825
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die byzantinischen architektonischen Details.",
+            "hu": "Figyelje meg a bizánci építészeti részleteket.",
+            "ro": "Observați detaliile arhitecturale bizantine.",
+            "en": "Notice the Byzantine architectural details."
+          }
+        },
+        {
+          "name": "Enipeas-Quellen",
+          "coords": [
+            22.395,
+            39.278
+          ],
+          "category": "natural features",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kühler Rückzugsort an heißen Sommertagen.",
+            "hu": "Hűvös menedék a forró nyári napokon.",
+            "ro": "Un refugiu răcoros în zilele toride de vară.",
+            "en": "A cool retreat on hot summer days."
+          }
+        },
+        {
+          "name": "Akropolis des antiken Pharsalos",
+          "coords": [
+            22.378,
+            39.279
+          ],
+          "category": "landmark",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick.",
+            "hu": "A mászás megéri a lenyűgöző panorámáért.",
+            "ro": "Urcușul merită pentru vederea panoramică.",
+            "en": "The climb is worth it for the panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen den Tag im traditionellen Stadtzentrum, wo das Herz von Farsala schlägt. Ein kurzer Spaziergang führt zur Achilles-Statue, gefolgt von historischen Entdeckungen im Museum. Vor dem Mittagessen besuchen wir die ruhige Kirche Agios Antonios. Danach spazieren wir zu den kühlen Enipeas-Quellen am Stadtrand. Den krönenden Abschluss bildet der Aufstieg zur antiken Akropolis, wo uns ein weitreichender Ausblick über die thessalische Ebene erwartet.",
+        "hu": "A napot a hagyományos városközpontban kezdjük, ahol Farsala szíve dobog. Egy rövid séta elvezet az Akhilleusz-szoborhoz, majd történelmi felfedezések várnak a múzeumban. Ebéd előtt meglátogatjuk a csendes Agios Antonios templomot. Ezután a hűsítő Enipeas-forrásokhoz sétálunk a város szélén. A nap fénypontja az ókori Akropolisz megmászása, ahonnan csodálatos kilátás nyílik a thesszáliai síkságra.",
+        "ro": "Începem ziua în centrul tradițional al orașului, unde bate inima Farsalei. O scurtă plimbare duce la Statuia lui Ahile, urmată de descoperiri istorice la muzeu. Înainte de prânz, vizităm liniștita Biserică Agios Antonios. Apoi, ne plimbăm către izvoarele răcoroase Enipeas de la marginea orașului. Punctul culminant este urcarea la Acropola antică, de unde avem o priveliște panoramică asupra câmpiei tesaliene.",
+        "en": "We start the day in the traditional town center, where the heart of Farsala beats. A short walk leads to the Achilles Statue, followed by historical discoveries at the museum. Before lunch, we visit the quiet Agios Antonios Church. We then stroll to the refreshing Enipeas Springs on the outskirts. The highlight is the climb to the ancient Acropolis, rewarding us with sweeping views across the Thessalian plain."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halvas Farsalon",
+            "tip": "Das berühmte Gelee-Halva, ein Muss in der Stadt."
+          },
+          {
+            "name": "Lokale Tavernen",
+            "tip": "Probieren Sie gegrilltes Lamm in den traditionellen Ouzerien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halvas Farsalon",
+            "tip": "A híres zselés halva, amit kötelező megkóstolni."
+          },
+          {
+            "name": "Helyi Tavernákat",
+            "tip": "Próbálja ki a grillezett bárányt a hagyományos ouzerikben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halvas Farsalon",
+            "tip": "Faimoasa halva tip jeleu, obligatoriu de gustat."
+          },
+          {
+            "name": "Taverne Locale",
+            "tip": "Încercați miel la grătar în ouzeriile tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halvas Farsalon",
+            "tip": "The famous jelly-like halva, a must-try in town."
+          },
+          {
+            "name": "Local Tavernas",
+            "tip": "Try grilled lamb in the traditional ouzeries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Akropolis Hügel",
+            "tip": "Perfekt für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Enipeas-Quellen",
+            "tip": "Ruhiges Plätschern abseits des Trubels.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Akropolisz domb",
+            "tip": "Tökéletes a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Enipeas-források",
+            "tip": "Csendes csobogás távol a zajtól.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Acropolei",
+            "tip": "Perfect pentru apusul soarelui.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Izvoarele Enipeas",
+            "tip": "Susur liniștit departe de agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Acropolis Hill",
+            "tip": "Perfect for watching the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Enipeas Springs",
+            "tip": "Quiet bubbling water away from the noise.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Süßwarenläden",
+            "tip": "Kaufen Sie frischen Halvas als Souvenir direkt im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Édességboltok",
+            "tip": "Vásároljon friss halvát szuvenírként a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de dulciuri",
+            "tip": "Cumpărați halva proaspătă ca suvenir direct din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sweet Shops",
+            "tip": "Buy fresh halva as a souvenir directly in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Aufstieg zur Akropolis.",
+          "Im Sommer ist es am besten, die Ruinen frühmorgens zu besuchen.",
+          "Fragen Sie in Cafés nach der Geschichte von Achilles.",
+          "Die Einheimischen sind sehr stolz auf ihren Halvas – ein perfektes Geschenk."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az Akropolisz megmászásához.",
+          "Nyáron a legjobb kora reggel látogatni a romokat.",
+          "Kérdezze a kávézókban Akhilleusz történetét.",
+          "A helyiek nagyon büszkék a halvájukra – tökéletes ajándék."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru urcarea la Acropole.",
+          "Vara este mai bine să vizitați ruinele dis-de-dimineață.",
+          "Întrebați la cafenele despre povestea lui Ahile.",
+          "Localnicii sunt foarte mândri de halvaua lor – un cadou perfect."
+        ],
+        "en": [
+          "Wear comfortable shoes for the climb up to the Acropolis.",
+          "In summer, it is best to visit the ruins early in the morning.",
+          "Ask in cafes about the story of Achilles.",
+          "Locals are very proud of their halva – it makes a perfect gift."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "14:00",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Statue des Achilles",
+          "coords": [
+            22.3835,
+            39.285
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag beim berühmtesten Sohn der Stadt.",
+            "hu": "Kezdje a napot a város leghíresebb szülötténél.",
+            "ro": "Începeți ziua la cel mai faimos fiu al orașului.",
+            "en": "Start the day at the city's most famous son."
+          }
+        },
+        {
+          "name": "Traditionelles Stadtzentrum",
+          "coords": [
+            22.384,
+            39.284
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie das Rad kurz für einen Kaffee.",
+            "hu": "Tegye le a biciklit egy rövid kávéra.",
+            "ro": "Parcați bicicleta scurt pentru o cafea.",
+            "en": "Park the bike briefly for a coffee."
+          }
+        },
+        {
+          "name": "Kirche Agios Antonios",
+          "coords": [
+            22.386,
+            39.2825
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner Fotostopp auf dem Weg zu den Quellen.",
+            "hu": "Szép fotómegálló a források felé vezető úton.",
+            "ro": "O oprire frumoasă pentru fotografii în drum spre izvoare.",
+            "en": "A nice photo stop on the way to the springs."
+          }
+        },
+        {
+          "name": "Enipeas-Quellen",
+          "coords": [
+            22.395,
+            39.278
+          ],
+          "category": "natural features",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Füllen Sie hier Ihre Wasserflaschen auf.",
+            "hu": "Töltse meg itt a kulacsát.",
+            "ro": "Umpleți sticlele de apă aici.",
+            "en": "Refill your water bottles here."
+          }
+        },
+        {
+          "name": "Akropolis des antiken Pharsalos",
+          "coords": [
+            22.378,
+            39.279
+          ],
+          "category": "landmark",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg mit dem Rad erfordert etwas Ausdauer.",
+            "hu": "A kerékpáros emelkedő némi kitartást igényel.",
+            "ro": "Urcușul cu bicicleta necesită puțină rezistență.",
+            "en": "The climb by bike requires some stamina."
+          }
+        },
+        {
+          "name": "Denkmal der Schlacht von Farsala",
+          "coords": [
+            22.36,
+            39.3
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine gemütliche Fahrt aus der Stadt hinaus in die Ebenen.",
+            "hu": "Kellemes túra a városból kifelé a síkságra.",
+            "ro": "O plimbare plăcută în afara orașului, spre câmpii.",
+            "en": "A pleasant ride out of town onto the plains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour durch Farsala verbindet Stadtgeschichte mit ländlichen Ausflügen. Nach dem Besuch der Achilles-Statue und einem Kaffee im Zentrum radeln wir zur Kirche und den frischen Enipeas-Quellen. Danach folgt der anspruchsvollere Aufstieg zur Akropolis. Den Abschluss bildet eine entspannte Fahrt über Land zum Denkmal der historischen Schlacht zwischen Caesar und Pompeius.",
+        "hu": "A kerékpártúra Farsalában ötvözi a várostörténetet a vidéki kirándulással. Az Akhilleusz-szobor és egy központi kávé után eltekerünk a templomhoz és a friss Enipeas-forrásokhoz. Ezt követi a kihívást jelentő emelkedő az Akropoliszhoz. A napot egy nyugodt vidékies tekerés zárja a Caesar és Pompeius közötti történelmi csata emlékművéhez.",
+        "ro": "Turul cu bicicleta prin Farsala combină istoria orașului cu excursii rurale. După vizitarea statuii lui Ahile și o cafea în centru, pedalăm spre biserică și izvoarele proaspete Enipeas. Urmează urcușul provocator spre Acropole. Turul se încheie cu o plimbare relaxantă la țară către monumentul bătăliei istorice dintre Cezar și Pompei.",
+        "en": "The bike tour through Farsala combines city history with rural excursions. After visiting the Achilles Statue and having coffee in the center, we cycle to the church and the fresh Enipeas Springs. This is followed by the challenging climb to the Acropolis. We finish with a relaxing ride across the plains to the monument of the historic battle between Caesar and Pompey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckereien am Weg",
+            "tip": "Holen Sie sich Tiropita (Käsekuchen) für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Út menti pékségek",
+            "tip": "Vegyen egy Tiropitát (sajtos pite) az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării pe traseu",
+            "tip": "Cumpărați o Tiropita (plăcintă cu brânză) pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakeries along the way",
+            "tip": "Grab a Tiropita (cheese pie) for the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlachtfeld-Denkmal",
+            "tip": "Weite Ebenen und absolute Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csatatér emlékmű",
+            "tip": "Széles síkságok és abszolút nyugalom.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monumentul Bătăliei",
+            "tip": "Câmpii întinse și liniște absolută.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Battlefield Monument",
+            "tip": "Wide plains and absolute peace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Perfekter Snack für lange Radtouren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Tökéletes nasi hosszú kerékpártúrákhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Gustarea perfectă pentru plimbări lungi cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Perfect snack for long bike rides."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie im Sommer auf ausreichend Sonnenschutz auf dem Rad.",
+          "Die Straße zum Schlachtfeld hat wenig Schatten."
+        ],
+        "hu": [
+          "Nyáron figyeljen a megfelelő napvédelemre kerékpározás közben.",
+          "A csatatérre vezető úton kevés az árnyék."
+        ],
+        "ro": [
+          "Atenție la protecția solară adecvată pe bicicletă, vara.",
+          "Drumul spre câmpul de luptă are puțină umbră."
+        ],
+        "en": [
+          "Pay attention to adequate sun protection while cycling in summer.",
+          "The road to the battlefield has very little shade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Statue des Achilles",
+          "coords": [
+            22.3835,
+            39.285
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zentral für diesen Cluster.",
+            "hu": "Parkoljon központban ehhez a klaszterhez.",
+            "ro": "Parcați central pentru acest cluster.",
+            "en": "Park centrally for this cluster."
+          }
+        },
+        {
+          "name": "Traditionelles Stadtzentrum",
+          "coords": [
+            22.384,
+            39.284
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Statue entfernt.",
+            "hu": "Csak néhány lépésre a szobortól.",
+            "ro": "La doar câțiva pași de statuie.",
+            "en": "Just a few steps from the statue."
+          }
+        },
+        {
+          "name": "Archäologische Sammlung",
+          "coords": [
+            22.382,
+            39.283
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Faszinierende Einblicke in die regionale Geschichte.",
+            "hu": "Lenyűgöző bepillantás a regionális történelembe.",
+            "ro": "Perspective fascinante asupra istoriei regionale.",
+            "en": "Fascinating insights into regional history."
+          }
+        },
+        {
+          "name": "Enipeas-Quellen",
+          "coords": [
+            22.395,
+            39.278
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Natur-Cluster und parken Sie am Rand.",
+            "hu": "Vezessen a természet-klaszterhez, és parkoljon le.",
+            "ro": "Conduceți spre clusterul natural și parcați la margine.",
+            "en": "Drive to the nature cluster and park at the edge."
+          }
+        },
+        {
+          "name": "Höhle der Nymphen",
+          "coords": [
+            22.37,
+            39.275
+          ],
+          "category": "natural features",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kleiner Fußweg zu dieser mythologischen Höhle.",
+            "hu": "Egy kis séta ehhez a mitológiai barlanghoz.",
+            "ro": "O scurtă plimbare până la această peșteră mitologică.",
+            "en": "A short walk to this mythological cave."
+          }
+        },
+        {
+          "name": "Akropolis des antiken Pharsalos",
+          "coords": [
+            22.378,
+            39.279
+          ],
+          "category": "landmark",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Aufstieg im gleichen Wander-Cluster.",
+            "hu": "Mászás ugyanebben a séta-klaszterben.",
+            "ro": "Urcare în același cluster de drumeții.",
+            "en": "Climb within the same walking cluster."
+          }
+        },
+        {
+          "name": "Denkmal der Schlacht von Farsala",
+          "coords": [
+            22.36,
+            39.3
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der letzte Fahr-Hop aus der Stadt hinaus.",
+            "hu": "Az utolsó autós ugrás a városból kifelé.",
+            "ro": "Ultima călătorie cu mașina în afara orașului.",
+            "en": "The final car hop out of town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erschließen wir Farsala in Clustern. Zuerst parken wir im Zentrum, spazieren zur Achilles-Statue, durch die Altstadt und ins Museum. Danach fahren wir in Richtung der Enipeas-Quellen und lassen das Auto stehen, um die Höhle der Nymphen und die Akropolis zu erwandern. Den Abschluss bildet eine kurze Fahrt in die Ebenen zum Denkmal der großen Schlacht von Pharsalos.",
+        "hu": "Autóval klaszterekben fedezzük fel Farsalát. Először a központban parkolunk, elsétálunk az Akhilleusz-szoborhoz, az óvároson át a múzeumba. Ezután az Enipeas-források felé hajtunk, és hátrahagyjuk az autót, hogy gyalog fedezzük fel a Nimfák barlangját és az Akropoliszt. Végül egy rövid úttal a síkságra érünk, a nagy pharsalosi csata emlékművéhez.",
+        "ro": "Cu mașina explorăm Farsala în clustere. Mai întâi parcăm în centru, ne plimbăm la Statuia lui Ahile, prin orașul vechi și la muzeu. Apoi conducem spre izvoarele Enipeas și lăsăm mașina pentru a merge pe jos la Peștera Nimfelor și la Acropole. Încheiem cu o scurtă călătorie spre câmpii, la monumentul marii bătălii de la Pharsalus.",
+        "en": "By car, we explore Farsala in clusters. First, we park in the center, walking to the Achilles Statue, through the old town, and to the museum. We then drive towards the Enipeas Springs and leave the car to hike to the Cave of the Nymphs and the Acropolis. We conclude with a short drive into the plains to the monument of the great Battle of Pharsalus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavernen am Stadtrand",
+            "tip": "Perfekt für eine ausgiebige Mittagspause mit Parkplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Külvárosi tavernákat",
+            "tip": "Tökéletes egy bőséges ebédszünetre, saját parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverne la periferie",
+            "tip": "Perfecte pentru o pauză lungă de prânz, cu parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Outskirts Tavernas",
+            "tip": "Perfect for a hearty lunch break with parking available."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Höhle der Nymphen",
+            "tip": "Ein mystischer und stiller Ort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nimfák barlangja",
+            "tip": "Egy misztikus és csendes hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peștera Nimfelor",
+            "tip": "Un loc mistic și liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cave of the Nymphs",
+            "tip": "A mystical and silent place.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Halvas Boxen",
+            "tip": "Im Auto leicht zu transportieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halva dobozok",
+            "tip": "Autóval könnyen szállítható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cutii de Halva",
+            "tip": "Ușor de transportat în mașină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halva Boxes",
+            "tip": "Easy to transport in the car."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Fahren zwischen den verschiedenen Clustern spart viel Zeit.",
+          "Die Straßen zum Schlachtfeld-Denkmal sind gut ausgebaut."
+        ],
+        "hu": [
+          "A különböző klaszterek közötti vezetés sok időt takarít meg.",
+          "A csatatér emlékművéhez vezető utak jó minőségűek."
+        ],
+        "ro": [
+          "Conducerea între diferitele clustere economisește mult timp.",
+          "Drumurile spre monumentul bătăliei sunt bine întreținute."
+        ],
+        "en": [
+          "Driving between the different clusters saves a lot of time.",
+          "The roads to the battlefield monument are well maintained."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "14:50",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Traditionelles Stadtzentrum",
+          "coords": [
+            22.384,
+            39.284
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt mit dem Bus.",
+            "hu": "Központi érkezési pont busszal.",
+            "ro": "Punct central de sosire cu autobuzul.",
+            "en": "Central arrival point by bus."
+          }
+        },
+        {
+          "name": "Statue des Achilles",
+          "coords": [
+            22.3835,
+            39.285
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Fußweg vom Platz entfernt.",
+            "hu": "Csak egy rövid sétára a tértől.",
+            "ro": "La o scurtă plimbare de piață.",
+            "en": "Just a short walk from the square."
+          }
+        },
+        {
+          "name": "Kirche Agios Antonios",
+          "coords": [
+            22.386,
+            39.2825
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wir bleiben im Innenstadt-Cluster.",
+            "hu": "A belvárosi klaszterben maradunk.",
+            "ro": "Rămânem în clusterul din centrul orașului.",
+            "en": "We stay within the downtown cluster."
+          }
+        },
+        {
+          "name": "Archäologische Sammlung",
+          "coords": [
+            22.382,
+            39.283
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Bus zur Umgehung längerer Wege.",
+            "hu": "Használja a helyi buszt a hosszabb séták elkerülésére.",
+            "ro": "Folosiți autobuzul local pentru a evita plimbările lungi.",
+            "en": "Use the local bus to bypass longer walks."
+          }
+        },
+        {
+          "name": "Enipeas-Quellen",
+          "coords": [
+            22.395,
+            39.278
+          ],
+          "category": "natural features",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein weiterer kurzer Transit-Hop in Richtung Natur.",
+            "hu": "Egy újabb rövid buszos ugrás a természet felé.",
+            "ro": "Încă un scurt salt cu tranzitul spre natură.",
+            "en": "Another short transit hop towards nature."
+          }
+        },
+        {
+          "name": "Akropolis des antiken Pharsalos",
+          "coords": [
+            22.378,
+            39.279
+          ],
+          "category": "landmark",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Rest des Weges muss erwandert werden.",
+            "hu": "Az út hátralévő részét gyalog kell megtenni.",
+            "ro": "Restul drumului trebuie parcurs pe jos.",
+            "en": "The rest of the way must be hiked."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das lokale Verkehrsnetz ermöglicht ein zügiges Springen zwischen den Highlights. Nach Ankunft im Zentrum erkunden wir die Achilles-Statue und die Kirche zu Fuß. Ein Bus bringt uns entspannt zur archäologischen Sammlung. Im Anschluss fahren wir weiter in Richtung der Enipeas-Quellen am Stadtrand. Das große Finale ist der steile, aber lohnende Fußweg hinauf zur Akropolis.",
+        "hu": "A helyi közlekedési hálózat lehetővé teszi a gyors ugrálást a látnivalók között. A központba érkezés után gyalog fedezzük fel az Akhilleusz-szobrot és a templomot. Egy busz pihentetően elvisz minket a régészeti gyűjteményhez. Ezt követően tovább utazunk a város szélén található Enipeas-források felé. A nagy finálé a meredek, de hálás séta fel az Akropoliszhoz.",
+        "ro": "Rețeaua de transport local permite deplasarea rapidă între punctele de atracție. După sosirea în centru, explorăm pe jos Statuia lui Ahile și biserica. Un autobuz ne duce relaxați la colecția arheologică. Ulterior, continuăm spre izvoarele Enipeas de la marginea orașului. Marea finală este urcușul abrupt, dar satisfăcător pe jos până la Acropole.",
+        "en": "The local transit network allows for a quick hop between highlights. After arriving in the center, we explore the Achilles Statue and church on foot. A bus takes us relaxed to the archaeological collection. Afterwards, we continue towards the Enipeas Springs on the outskirts. The grand finale is the steep but rewarding walk up to the Acropolis."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cafés an Bushaltestellen",
+            "tip": "Holen Sie sich einen Freddo Espresso beim Warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézók a buszmegállóknál",
+            "tip": "Vegyen egy Freddo Espressót várakozás közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele la stațiile de autobuz",
+            "tip": "Luați un Freddo Espresso în timp ce așteptați."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus Stop Cafes",
+            "tip": "Grab a Freddo Espresso while waiting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchenvorplatz",
+            "tip": "Ruhe tanken zwischen den Transfers.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templomtér",
+            "tip": "Pihenjen az átszállások között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piațeta bisericii",
+            "tip": "Încărcați-vă cu liniște între transferuri.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Square",
+            "tip": "Recharge with quiet between transfers.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentrale Kioske",
+            "tip": "Günstige Souvenirs direkt an den Hauptverkehrsadern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi pavilonok",
+            "tip": "Olcsó szuvenírek közvetlenül a fő közlekedési útvonalakon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri centrale",
+            "tip": "Suveniruri ieftine chiar pe arterele principale de circulație."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Kiosks",
+            "tip": "Cheap souvenirs right on the main traffic arteries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lösen Sie Tageskarten für den Bus, falls verfügbar.",
+          "Die Akropolis ist nicht mit dem Bus erreichbar, rechnen Sie mit einem Fußweg."
+        ],
+        "hu": [
+          "Váltson napijegyet a buszra, ha lehetséges.",
+          "Az Akropolisz nem érhető el busszal, számoljon némi gyaloglással."
+        ],
+        "ro": [
+          "Cumpărați bilete de o zi pentru autobuz, dacă sunt disponibile.",
+          "Acropola nu este accesibilă cu autobuzul, așteptați-vă la o plimbare."
+        ],
+        "en": [
+          "Buy day tickets for the bus if available.",
+          "The Acropolis cannot be reached by bus, expect a walk."
+        ]
+      }
+    }
+  }
+}

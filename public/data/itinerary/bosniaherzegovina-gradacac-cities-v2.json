@@ -1,0 +1,1469 @@
+{
+  "city_id": "bosniaherzegovina-gradacac-cities-v2",
+  "anchor": {
+    "name": "Gradačac",
+    "coords": [
+      18.4286,
+      44.8775
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Festung von Gradačac",
+            "hu": "Gradačaci erőd",
+            "ro": "Fortăreața din Gradačac",
+            "en": "Fortress of Gradačac"
+          },
+          "coords": [
+            18.426,
+            44.879
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Mauern für einen Panoramablick über die Stadt und die umliegende Landschaft.",
+            "hu": "Másszon fel a falakra a városra és a környező vidékre nyíló panorámáért.",
+            "ro": "Urcați pe ziduri pentru o vedere panoramică asupra orașului și a peisajului înconjurător.",
+            "en": "Climb the walls for a panoramic view over the city and the surrounding countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Gradačac",
+            "hu": "Gradačaci óratorony",
+            "ro": "Turnul cu ceas din Gradačac",
+            "en": "Clock Tower of Gradačac"
+          },
+          "coords": [
+            18.4265,
+            44.8785
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Turm befindet sich innerhalb des Festungskomplexes, ein perfektes Fotomotiv.",
+            "hu": "A torony az erőd komplexumán belül található, tökéletes fotótéma.",
+            "ro": "Turnul este situat în complexul cetății, un subiect perfect pentru fotografii.",
+            "en": "The tower is located within the fortress complex, a perfect photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Huseinija-Moschee",
+            "hu": "Huseinija-mecset",
+            "ro": "Moscheea Huseinija",
+            "en": "Huseinija Mosque"
+          },
+          "coords": [
+            18.427,
+            44.878
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die Kleiderordnung, bevor Sie eintreten, und bewundern Sie die osmanische Architektur.",
+            "hu": "Belépés előtt vegye figyelembe az öltözködési szabályokat, és csodálja meg az oszmán építészetet.",
+            "ro": "Respectați codul vestimentar înainte de a intra și admirați arhitectura otomană.",
+            "en": "Observe the dress code before entering and admire the Ottoman architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Husein-kapetan-Haus",
+            "hu": "Husein-kapetan háza",
+            "ro": "Casa lui Husein-kapetan",
+            "en": "Husein-kapetan's House"
+          },
+          "coords": [
+            18.428,
+            44.8775
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für traditionelle bosnische Architektur, heute ein Museum.",
+            "hu": "A tradicionális bosnyák építészet szép példája, ma múzeumként működik.",
+            "ro": "Un exemplu frumos de arhitectură tradițională bosniacă, astăzi un muzeu.",
+            "en": "A beautiful example of traditional Bosnian architecture, now a museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Hazna-See",
+            "hu": "Hazna-tó",
+            "ro": "Lacul Hazna",
+            "en": "Hazna Lake"
+          },
+          "coords": [
+            18.435,
+            44.872
+          ],
+          "category": "lake",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für einen entspannten Nachmittag. Mieten Sie ein Tretboot oder genießen Sie einen Kaffee am Ufer.",
+            "hu": "Ideális hely egy pihentető délutánhoz. Béreljen vízibiciklit vagy igyon egy kávét a parton.",
+            "ro": "Un loc ideal pentru o după-amiază relaxantă. Închiriați o hidrobicicletă sau savurați o cafea pe mal.",
+            "en": "An ideal spot for a relaxing afternoon. Rent a paddleboat or enjoy a coffee by the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Gradačac",
+            "hu": "Gradačaci Kultúrközpont",
+            "ro": "Centrul Cultural Gradačac",
+            "en": "Gradačac Cultural Center"
+          },
+          "coords": [
+            18.429,
+            44.876
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über das Abendprogramm, vielleicht gibt es eine interessante Vorstellung.",
+            "hu": "Nézze meg az esti programot, hátha van egy érdekes előadás.",
+            "ro": "Verificați programul de seară, s-ar putea să găsiți un spectacol interesant.",
+            "en": "Check the evening schedule, you might catch an interesting performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Gradačac beginnt mit der Erkundung der dominanten Festung und ihrer historischen Gebäude, die atemberaubende Ausblicke bieten. Am Mittag tauchen Sie in die osmanische Geschichte ein, bevor Sie am Nachmittag am ruhigen Hazna-See entspannen. Der Abend klingt kulturell im Herzen der Stadt aus, wo Sie die lokale Kunstszene erleben können.",
+        "hu": "A nap Gradačacban az impozáns erőd és történelmi épületeinek felfedezésével kezdődik, ahonnan lélegzetelállító kilátás nyílik. Délben elmerülhet az oszmán történelemben, majd délután a csendes Hazna-tónál pihenhet. Az estét kulturális programmal zárja a város szívében, ahol megismerkedhet a helyi művészeti élettel.",
+        "ro": "Ziua dvs. în Gradačac începe cu explorarea fortăreței dominante și a clădirilor sale istorice, care oferă priveliști uimitoare. La prânz, vă scufundați în istoria otomană, înainte de a vă relaxa după-amiaza la liniștitul lac Hazna. Seara se încheie cultural în inima orașului, unde puteți experimenta scena artistică locală.",
+        "en": "Your day in Gradačac begins by exploring the dominant fortress and its historic buildings, offering breathtaking views. At midday, you'll delve into Ottoman history before relaxing by the tranquil Hazna Lake in the afternoon. The evening concludes culturally in the heart of the city, where you can experience the local arts scene."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bosanski Lonac",
+            "tip": "Ein herzhafter traditioneller Eintopf, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "Gegrillte Hackfleischröllchen, ein bosnisches Muss."
+          },
+          {
+            "name": "Tufahija",
+            "tip": "Ein mit Walnüssen gefüllter und gekochter Apfel zum Nachtisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bosanski Lonac",
+            "tip": "Egy kiadós, hagyományos egytálétel, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "Grillezett darált hús tekercsek, egy bosnyák kötelező."
+          },
+          {
+            "name": "Tufahija",
+            "tip": "Dióval töltött és főzött alma desszertként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bosanski Lonac",
+            "tip": "O tocană tradițională consistentă, perfectă după o plimbare lungă."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "Mici din carne tocată la grătar, un preparat bosniac de neratat."
+          },
+          {
+            "name": "Tufahija",
+            "tip": "Un măr umplut cu nuci și fiert, servit ca desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bosanski Lonac",
+            "tip": "A hearty traditional stew, perfect after a long walk."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "Grilled minced meat rolls, a Bosnian must-try."
+          },
+          {
+            "name": "Tufahija",
+            "tip": "A walnut-stuffed and boiled apple for dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Hazna-Sees",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Festungsmauern bei Sonnenuntergang",
+            "tip": "Ein magischer Ort, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kurort Ilidža Park",
+            "tip": "Spazieren Sie durch die gepflegten Gärten des nahegelegenen Kurortes.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Hazna-tó partja",
+            "tip": "Keressen egy csendes padot, és nézze a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az erőd falai naplementekor",
+            "tip": "Varázslatos hely a nap befejezéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ilidža gyógyfürdő parkja",
+            "tip": "Sétáljon a közeli gyógyfürdő ápolt kertjeiben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Hazna",
+            "tip": "Găsiți o bancă liniștită și priviți apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zidurile cetății la apus",
+            "tip": "Un loc magic pentru a încheia ziua.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul stațiunii balneare Ilidža",
+            "tip": "Plimbați-vă prin grădinile îngrijite ale stațiunii din apropiere.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Hazna Lake",
+            "tip": "Find a quiet bench and watch the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fortress walls at sunset",
+            "tip": "A magical place to end the day.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ilidža Spa Park",
+            "tip": "Stroll through the well-kept gardens of the nearby spa.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie handgemachte Souvenirs und traditionelle bosnische Produkte."
+          },
+          {
+            "name": "Altstadt-Geschäfte",
+            "tip": "Stöbern Sie nach Kupferwaren und anderen lokalen Handwerkskünsten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon kézzel készített ajándéktárgyakat és hagyományos bosnyák termékeket."
+          },
+          {
+            "name": "Óvárosi üzletek",
+            "tip": "Böngésszen rézáruk és egyéb helyi kézműves termékek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați suveniruri lucrate manual și produse tradiționale bosniace."
+          },
+          {
+            "name": "Magazinele din orașul vechi",
+            "tip": "Căutați articole din cupru și alte meșteșuguri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy handmade souvenirs and traditional Bosnian products."
+          },
+          {
+            "name": "Old Town Shops",
+            "tip": "Browse for copperware and other local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie ausreichend Wasser mit, besonders an warmen Tagen.",
+          "Respektieren Sie die lokalen Sitten, besonders beim Besuch religiöser Stätten.",
+          "Planen Sie Zeit für eine Kaffeepause ein, die bosnische Kaffeekultur ist ein Erlebnis."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Vigyen magával elegendő vizet, különösen meleg napokon.",
+          "Tartsa tiszteletben a helyi szokásokat, különösen a vallási helyszíneken.",
+          "Tervezzen időt egy kávészünetre, a bosnyák kávékultúra egy élmény."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Luați suficientă apă cu dvs., mai ales în zilele calde.",
+          "Respectați obiceiurile locale, în special atunci când vizitați lăcașuri de cult.",
+          "Planificați timp pentru o pauză de cafea, cultura cafelei bosniace este o experiență."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Bring enough water, especially on warm days.",
+          "Respect local customs, especially when visiting religious sites.",
+          "Plan time for a coffee break, Bosnian coffee culture is an experience."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Festung von Gradačac",
+            "hu": "Gradačaci erőd",
+            "ro": "Fortăreața din Gradačac",
+            "en": "Fortress of Gradačac"
+          },
+          "coords": [
+            18.426,
+            44.879
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang ab und erkunden Sie die Festung zu Fuß.",
+            "hu": "Zárja le a kerékpárját a bejáratnál, és fedezze fel gyalog az erődöt.",
+            "ro": "Legați-vă bicicleta la intrare și explorați cetatea pe jos.",
+            "en": "Lock your bike at the entrance and explore the fortress on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Huseinija-Moschee & Uhrturm",
+            "hu": "Huseinija-mecset és Óratorony",
+            "ro": "Moscheea Huseinija și Turnul cu Ceas",
+            "en": "Huseinija Mosque & Clock Tower"
+          },
+          "coords": [
+            18.427,
+            44.878
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen liegen nahe beieinander, ideal für einen kurzen Halt.",
+            "hu": "Ez a két nevezetesség közel van egymáshoz, ideális egy rövid megállóhoz.",
+            "ro": "Aceste două repere sunt apropiate, ideale pentru o oprire scurtă.",
+            "en": "These two landmarks are close together, ideal for a short stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Gradačac",
+            "hu": "Gradačaci Kultúrközpont",
+            "ro": "Centrul Cultural Gradačac",
+            "en": "Gradačac Cultural Center"
+          },
+          "coords": [
+            18.429,
+            44.876
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schneller Blick auf das moderne Zentrum der Stadt.",
+            "hu": "Egy gyors pillantás a város modern központjára.",
+            "ro": "O privire rapidă asupra centrului modern al orașului.",
+            "en": "A quick look at the modern center of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Hazna-See",
+            "hu": "Hazna-tó",
+            "ro": "Lacul Hazna",
+            "en": "Hazna Lake"
+          },
+          "coords": [
+            18.435,
+            44.872
+          ],
+          "category": "lake",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mittagspause in einem der Cafés am Seeufer.",
+            "hu": "Élvezze az ebédszünetet a tóparti kávézók egyikében.",
+            "ro": "Bucurați-vă de o pauză de prânz la una dintre cafenelele de pe malul lacului.",
+            "en": "Enjoy a lunch break at one of the lakeside cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Vidara-See",
+            "hu": "Vidara-tó",
+            "ro": "Lacul Vidara",
+            "en": "Vidara Lake"
+          },
+          "coords": [
+            18.45,
+            44.86
+          ],
+          "category": "lake",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Dieser See ist etwas weiter entfernt und ruhiger, ideal für eine Radtour.",
+            "hu": "Ez a tó kissé távolabb van és csendesebb, ideális egy kerékpártúrához.",
+            "ro": "Acest lac este puțin mai îndepărtat și mai liniștit, ideal pentru o plimbare cu bicicleta.",
+            "en": "This lake is a bit further out and quieter, ideal for a bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurort Ilidža",
+            "hu": "Ilidža gyógyfürdő",
+            "ro": "Stațiunea balneară Ilidža",
+            "en": "Ilidža Spa"
+          },
+          "coords": [
+            18.42,
+            44.885
+          ],
+          "category": "natural features",
+          "arrive_at": "15:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie Ihre Muskeln nach der Radtour im Thermalwasser.",
+            "hu": "Lazítsa el izmait a kerékpártúra után a termálvízben.",
+            "ro": "Relaxați-vă mușchii după turul cu bicicleta în apele termale.",
+            "en": "Relax your muscles after the bike tour in the thermal waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Husein-kapetan-Haus",
+            "hu": "Husein-kapetan háza",
+            "ro": "Casa lui Husein-kapetan",
+            "en": "Husein-kapetan's House"
+          },
+          "coords": [
+            18.428,
+            44.8775
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein letzter kultureller Stopp, bevor Sie den Tag beenden.",
+            "hu": "Egy utolsó kulturális megálló a nap befejezése előtt.",
+            "ro": "O ultimă oprire culturală înainte de a încheia ziua.",
+            "en": "A final cultural stop before you end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden Sie Gradačac, beginnend mit dem historischen Kern rund um die Festung. Die Tour führt Sie dann aus der Stadt heraus zu den malerischen Seen Hazna und Vidara, perfekt für eine erfrischende Pause. Am Nachmittag entspannen Sie im Kurort Ilidža, bevor Sie mit einer letzten kulturellen Note in der Altstadt den Tag abschließen.",
+        "hu": "Két keréken fedezi fel Gradačacot, kezdve az erőd körüli történelmi maggal. A túra ezután kivezet a városból a festői Hazna és Vidara tavakhoz, amelyek tökéletesek egy frissítő szünetre. Délután az Ilidža gyógyfürdőben pihenhet, mielőtt a napot egy utolsó kulturális megállóval zárja az óvárosban.",
+        "ro": "Pe două roți, explorați Gradačac, începând cu nucleul istoric din jurul cetății. Turul vă duce apoi în afara orașului, la pitoreștile lacuri Hazna și Vidara, perfecte pentru o pauză revigorantă. După-amiaza vă relaxați la stațiunea balneară Ilidža, înainte de a încheia ziua cu o ultimă notă culturală în orașul vechi.",
+        "en": "On two wheels, you'll explore Gradačac, starting with the historic core around the fortress. The tour then takes you out of the city to the picturesque Hazna and Vidara lakes, perfect for a refreshing break. In the afternoon, you'll relax at the Ilidža spa before finishing the day with a final cultural touch in the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pita Zeljanica",
+            "tip": "Eine mit Spinat gefüllte Pastete, leicht und nahrhaft."
+          },
+          {
+            "name": "Frische Limonade",
+            "tip": "Erfrischen Sie sich mit einem Glas hausgemachter Limonade an einem der Seen."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Eine cremige Hühnersuppe, die Energie für die Weiterfahrt gibt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pita Zeljanica",
+            "tip": "Spárgával töltött pite, könnyű és tápláló."
+          },
+          {
+            "name": "Friss limonádé",
+            "tip": "Frissítse fel magát egy pohár házi limonádéval az egyik tónál."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Krémes csirkeleves, amely energiát ad a további úthoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pita Zeljanica",
+            "tip": "O plăcintă umplută cu spanac, ușoară și hrănitoare."
+          },
+          {
+            "name": "Limonadă proaspătă",
+            "tip": "Răcoriți-vă cu un pahar de limonadă de casă la unul dintre lacuri."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "O supă cremă de pui, care vă dă energie pentru continuarea drumului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pita Zeljanica",
+            "tip": "A spinach-filled pastry, light and nutritious."
+          },
+          {
+            "name": "Fresh Lemonade",
+            "tip": "Refresh yourself with a glass of homemade lemonade at one of the lakes."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "A creamy chicken soup that provides energy for the ride ahead."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg am Vidara-See",
+            "tip": "Eine ruhige Radstrecke abseits des Trubels.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Kurorts Ilidža",
+            "tip": "Ein friedlicher Ort zum Entspannen und Erholen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Festung",
+            "tip": "Genießen Sie die Ruhe am frühen Morgen, bevor die meisten Touristen ankommen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Vidara-tó parti útja",
+            "tip": "Csendes kerékpárút a nyüzsgéstől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Ilidža gyógyfürdő kertjei",
+            "tip": "Békés hely a pihenésre és feltöltődésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás az erődből",
+            "tip": "Élvezze a kora reggeli csendet, mielőtt a legtöbb turista megérkezik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de pe malul lacului Vidara",
+            "tip": "O pistă de biciclete liniștită, departe de agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile stațiunii Ilidža",
+            "tip": "Un loc pașnic pentru relaxare și odihnă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la cetate",
+            "tip": "Bucurați-vă de liniștea dimineții devreme, înainte de sosirea majorității turiștilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vidara Lake shore path",
+            "tip": "A quiet cycling route away from the hustle and bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Ilidža Spa",
+            "tip": "A peaceful place to relax and unwind.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the fortress",
+            "tip": "Enjoy the quiet of the early morning before most tourists arrive.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Imkereien",
+            "tip": "Kaufen Sie Honig aus der Region, ein gesundes und leckeres Souvenir."
+          },
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Falls Sie Zubehör für Ihr Fahrrad benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méhészetek",
+            "tip": "Vásároljon helyi mézet, egy egészséges és finom ajándék."
+          },
+          {
+            "name": "Sportboltok",
+            "tip": "Ha kerékpár-kiegészítőre van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stupine locale",
+            "tip": "Cumpărați miere din regiune, un suvenir sănătos și delicios."
+          },
+          {
+            "name": "Magazine de sport",
+            "tip": "În caz că aveți nevoie de accesorii pentru bicicletă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Apiaries",
+            "tip": "Buy honey from the region, a healthy and delicious souvenir."
+          },
+          {
+            "name": "Sports Shops",
+            "tip": "In case you need any accessories for your bike."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Zustand Ihres Fahrrads vor der Abfahrt.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen.",
+          "Die Strecke zu den Seen kann einige Steigungen aufweisen, seien Sie vorbereitet.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát.",
+          "Vigyen magával lakatot a kerékpár biztonságos lezárásához.",
+          "A tavakhoz vezető út emelkedőket tartalmazhat, készüljön fel.",
+          "Sisak használata erősen ajánlott."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a pleca.",
+          "Luați cu dvs. un lacăt pentru a vă asigura bicicleta.",
+          "Traseul către lacuri poate avea câteva pante, fiți pregătit.",
+          "Se recomandă insistent purtarea căștii."
+        ],
+        "en": [
+          "Check the condition of your bike before setting off.",
+          "Bring a lock to secure your bike.",
+          "The route to the lakes can have some inclines, be prepared.",
+          "A helmet is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 17.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum (Parken)",
+            "hu": "1. klaszter: Történelmi központ (Parkolás)",
+            "ro": "Cluster 1: Centrul istoric (Parcare)",
+            "en": "Cluster 1: Historic Center (Parking)"
+          },
+          "coords": [
+            18.4255,
+            44.8795
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Festung und erkunden Sie das historische Zentrum zu Fuß.",
+            "hu": "Parkoljon az erőd közelében, és fedezze fel gyalog a történelmi központot.",
+            "ro": "Parcați lângă cetate și explorați centrul istoric pe jos.",
+            "en": "Park near the fortress and explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung von Gradačac",
+            "hu": "Gradačaci erőd",
+            "ro": "Fortăreața din Gradačac",
+            "en": "Fortress of Gradačac"
+          },
+          "coords": [
+            18.426,
+            44.879
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hauptanziehungspunkt der Stadt, nehmen Sie sich Zeit für die Erkundung.",
+            "hu": "A város fő vonzereje, szánjon időt a felfedezésére.",
+            "ro": "Principala atracție a orașului, acordați-vă timp pentru a o explora.",
+            "en": "The main attraction of the city, take your time to explore."
+          }
+        },
+        {
+          "name": {
+            "de": "Huseinija-Moschee & Uhrturm",
+            "hu": "Huseinija-mecset és Óratorony",
+            "ro": "Moscheea Huseinija și Turnul cu Ceas",
+            "en": "Huseinija Mosque & Clock Tower"
+          },
+          "coords": [
+            18.427,
+            44.878
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Festung entfernt.",
+            "hu": "Rövid séta az erődtől.",
+            "ro": "O scurtă plimbare de la cetate.",
+            "en": "A short walk from the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Husein-kapetan-Haus",
+            "hu": "Husein-kapetan háza",
+            "ro": "Casa lui Husein-kapetan",
+            "en": "Husein-kapetan's House"
+          },
+          "coords": [
+            18.428,
+            44.8775
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang durch das historische Zentrum hier.",
+            "hu": "Itt fejezze be a történelmi központban tett sétáját.",
+            "ro": "Încheiați-vă turul centrului istoric aici.",
+            "en": "Finish your tour of the historic center here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Seen und Natur (Fahrt)",
+            "hu": "2. klaszter: Tavak és természet (Autózás)",
+            "ro": "Cluster 2: Lacuri și natură (Mașină)",
+            "en": "Cluster 2: Lakes and Nature (Drive)"
+          },
+          "coords": [
+            18.435,
+            44.872
+          ],
+          "category": "transport",
+          "arrive_at": "13:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hazna-See für eine Mittagspause und einen Spaziergang.",
+            "hu": "Vezessen a Hazna-tóhoz egy ebédszünetre és egy sétára.",
+            "ro": "Conduceți spre Lacul Hazna pentru o pauză de prânz și o plimbare.",
+            "en": "Drive to Hazna Lake for a lunch break and a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Hazna-See",
+            "hu": "Hazna-tó",
+            "ro": "Lacul Hazna",
+            "en": "Hazna Lake"
+          },
+          "coords": [
+            18.4355,
+            44.8715
+          ],
+          "category": "lake",
+          "arrive_at": "13:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie Ihr Mittagessen in einem Restaurant am Seeufer.",
+            "hu": "Ebédeljen egy tóparti étteremben.",
+            "ro": "Luați prânzul la un restaurant de pe malul lacului.",
+            "en": "Enjoy your lunch at a lakeside restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Kurort Ilidža (Fahrt)",
+            "hu": "3. klaszter: Ilidža gyógyfürdő (Autózás)",
+            "ro": "Cluster 3: Stațiunea balneară Ilidža (Mașină)",
+            "en": "Cluster 3: Ilidža Spa (Drive)"
+          },
+          "coords": [
+            18.42,
+            44.885
+          ],
+          "category": "transport",
+          "arrive_at": "15:10",
+          "stay_min": 125,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zum Kurort, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Rövid autóút a gyógyfürdőbe, hogy pihentetően zárja a napot.",
+            "ro": "O scurtă călătorie cu mașina până la stațiune pentru a încheia ziua într-un mod relaxant.",
+            "en": "A short drive to the spa to end the day in a relaxing way."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Gradačac in Clustern. Der Vormittag gehört dem historischen Kern, den Sie zu Fuß erkunden, nachdem Sie geparkt haben. Am Nachmittag fahren Sie zum malerischen Hazna-See für eine ausgedehnte Mittagspause in der Natur. Der Tag endet mit einer kurzen Fahrt zum Kurort Ilidža, wo Sie in den Thermalquellen entspannen.",
+        "hu": "Autóval, klaszterekben fedezi fel Gradačacot. A délelőtt a történelmi központé, amelyet parkolás után gyalogosan jár be. Délután a festői Hazna-tóhoz hajt, ahol egy kiadós ebédszünetet tart a természetben. A nap egy rövid autózással zárul az Ilidža gyógyfürdőbe, ahol a termálforrásokban pihenhet.",
+        "ro": "Cu mașina, explorați Gradačac în clustere. Dimineața este dedicată nucleului istoric, pe care îl explorați pe jos după ce parcați. După-amiaza, conduceți la pitorescul lac Hazna pentru o pauză de prânz prelungită în natură. Ziua se încheie cu o scurtă călătorie cu mașina la stațiunea balneară Ilidža, unde vă puteți relaxa în izvoarele termale.",
+        "en": "By car, you'll explore Gradačac in clusters. The morning is dedicated to the historic core, which you explore on foot after parking. In the afternoon, you drive to the picturesque Hazna Lake for an extended lunch break in nature. The day ends with a short drive to the Ilidža spa, where you can relax in the thermal springs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Hazna-See",
+            "tip": "Probieren Sie frischen Fisch aus dem See."
+          },
+          {
+            "name": "Traditionelles Restaurant in der Altstadt",
+            "tip": "Perfekt für ein Abendessen nach der Rückkehr vom Kurort."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Ein traditionelles Café für einen bosnischen Kaffee zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Hazna-tónál",
+            "tip": "Kóstolja meg a tóból fogott friss halat."
+          },
+          {
+            "name": "Hagyományos étterem az óvárosban",
+            "tip": "Tökéletes vacsorához a gyógyfürdőből való visszatérés után."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Egy hagyományos kávézó egy bosnyák kávéra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe malul lacului Hazna",
+            "tip": "Încercați pește proaspăt din lac."
+          },
+          {
+            "name": "Restaurant tradițional în orașul vechi",
+            "tip": "Perfect pentru cină după întoarcerea de la stațiune."
+          },
+          {
+            "name": "Kafana",
+            "tip": "O cafenea tradițională pentru o cafea bosniacă între timp."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at Hazna Lake",
+            "tip": "Try fresh fish from the lake."
+          },
+          {
+            "name": "Traditional restaurant in the old town",
+            "tip": "Perfect for dinner after returning from the spa."
+          },
+          {
+            "name": "Kafana",
+            "tip": "A traditional cafe for a Bosnian coffee in between."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vidara-See",
+            "tip": "Eine kurze zusätzliche Fahrt wert für absolute Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park des Kurorts Ilidža",
+            "tip": "Schlendern Sie durch die ruhigen Gärten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Festung am Morgen",
+            "tip": "Erleben Sie die Stille, bevor die Menschenmassen eintreffen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidara-tó",
+            "tip": "Megér egy rövid plusz utat a teljes nyugalomért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Ilidža gyógyfürdő parkja",
+            "tip": "Sétáljon a csendes kertekben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az erőd reggel",
+            "tip": "Tapasztalja meg a csendet, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Vidara",
+            "tip": "Merită o scurtă călătorie suplimentară pentru liniște absolută.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul stațiunii Ilidža",
+            "tip": "Plimbați-vă prin grădinile liniștite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cetatea dimineața",
+            "tip": "Experimentați liniștea înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vidara Lake",
+            "tip": "Worth a short extra drive for absolute tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ilidža Spa Park",
+            "tip": "Stroll through the quiet gardens.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Fortress in the morning",
+            "tip": "Experience the silence before the crowds arrive.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden auf dem Land",
+            "tip": "Halten Sie Ausschau nach lokalen Produkten wie Käse, Honig oder Schnaps."
+          },
+          {
+            "name": "Souvenirladen an der Festung",
+            "tip": "Für die klassischen Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok vidéken",
+            "tip": "Keresse a helyi termékeket, mint a sajt, méz vagy pálinka."
+          },
+          {
+            "name": "Ajándékbolt az erődnél",
+            "tip": "A klasszikus szuvenírekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă la țară",
+            "tip": "Căutați produse locale precum brânză, miere sau rachiu."
+          },
+          {
+            "name": "Magazin de suveniruri la cetate",
+            "tip": "Pentru suvenirurile clasice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the countryside",
+            "tip": "Look for local products like cheese, honey, or brandy."
+          },
+          {
+            "name": "Souvenir shop at the fortress",
+            "tip": "For the classic souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein Navigationssystem ist hilfreich, um die Cluster zu finden.",
+          "Planen Sie genügend Zeit für die Fahrten zwischen den Clustern ein.",
+          "Achten Sie auf die Geschwindigkeitsbegrenzungen, besonders in ländlichen Gebieten."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "A navigációs rendszer segít megtalálni a klasztereket.",
+          "Tervezzen elegendő időt a klaszterek közötti utazásokra.",
+          "Vegye figyelembe a sebességkorlátozásokat, különösen a vidéki területeken."
+        ],
+        "ro": [
+          "Verificați dinainte opțiunile și taxele de parcare.",
+          "Un sistem de navigație este util pentru a găsi clusterele.",
+          "Planificați suficient timp pentru deplasările între clustere.",
+          "Fiți atenți la limitele de viteză, mai ales în zonele rurale."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A navigation system is helpful for finding the clusters.",
+          "Plan enough time for the drives between clusters.",
+          "Pay attention to speed limits, especially in rural areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum",
+            "hu": "1. klaszter: Történelmi központ",
+            "ro": "Cluster 1: Centrul Istoric",
+            "en": "Cluster 1: Historic Center"
+          },
+          "coords": [
+            18.4275,
+            44.8778
+          ],
+          "category": "transport",
+          "arrive_at": "09:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum und steigen Sie in der Nähe der Huseinija-Moschee aus.",
+            "hu": "Menjen busszal a központba, és szálljon le a Huseinija-mecset közelében.",
+            "ro": "Luați un autobuz spre centru și coborâți lângă Moscheea Huseinija.",
+            "en": "Take a bus to the center and get off near the Huseinija Mosque."
+          }
+        },
+        {
+          "name": {
+            "de": "Huseinija-Moschee & Husein-kapetan-Haus",
+            "hu": "Huseinija-mecset és Husein-kapetan ház",
+            "ro": "Moscheea Huseinija și Casa lui Husein-kapetan",
+            "en": "Huseinija Mosque & Husein-kapetan's House"
+          },
+          "coords": [
+            18.428,
+            44.8775
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung mit diesen beiden nahegelegenen Highlights.",
+            "hu": "Kezdje a felfedezést ezzel a két közeli látványossággal.",
+            "ro": "Începeți explorarea cu aceste două atracții apropiate.",
+            "en": "Start your exploration with these two nearby highlights."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung von Gradačac & Uhrturm",
+            "hu": "Gradačaci erőd és Óratorony",
+            "ro": "Fortăreața din Gradačac și Turnul cu Ceas",
+            "en": "Fortress of Gradačac & Clock Tower"
+          },
+          "coords": [
+            18.426,
+            44.879
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergauf zur beeindruckenden Festung.",
+            "hu": "Rövid séta felfelé a lenyűgöző erődhöz.",
+            "ro": "O scurtă plimbare la deal spre impresionanta cetate.",
+            "en": "A short walk uphill to the impressive fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Seen",
+            "hu": "2. klaszter: Tavak",
+            "ro": "Cluster 2: Lacuri",
+            "en": "Cluster 2: Lakes"
+          },
+          "coords": [
+            18.435,
+            44.872
+          ],
+          "category": "transport",
+          "arrive_at": "12:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung der Seen und genießen Sie die Natur.",
+            "hu": "Menjen busszal a tavak irányába és élvezze a természetet.",
+            "ro": "Luați un autobuz spre lacuri și bucurați-vă de natură.",
+            "en": "Take a bus towards the lakes and enjoy nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Hazna-See",
+            "hu": "Hazna-tó",
+            "ro": "Lacul Hazna",
+            "en": "Hazna Lake"
+          },
+          "coords": [
+            18.4355,
+            44.8715
+          ],
+          "category": "lake",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für die Mittagspause und einen Spaziergang am Wasser.",
+            "hu": "Ideális ebédszünetre és egy tóparti sétára.",
+            "ro": "Ideal pentru pauza de prânz și o plimbare pe malul apei.",
+            "en": "Ideal for a lunch break and a walk by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Înapoi în centru",
+            "en": "Back to the Center"
+          },
+          "coords": [
+            18.429,
+            44.876
+          ],
+          "category": "transport",
+          "arrive_at": "15:20",
+          "stay_min": 145,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum, um das Kulturzentrum zu besuchen oder einzukaufen.",
+            "hu": "Utazzon vissza a központba a Kultúrközpont meglátogatásához vagy vásárláshoz.",
+            "ro": "Întoarceți-vă în centru pentru a vizita Centrul Cultural sau pentru a face cumpărături.",
+            "en": "Travel back to the center to visit the Cultural Center or do some shopping."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln entdecken Sie Gradačac in zwei Hauptclustern. Der Morgen ist der Erkundung des historischen Zentrums gewidmet, das Sie zu Fuß durchqueren. Nach einer Busfahrt verbringen Sie den Nachmittag am entspannenden Hazna-See. Am späten Nachmittag kehren Sie mit dem Bus ins Stadtzentrum zurück, um den Tag kulturell oder mit einem Einkaufsbummel abzuschließen.",
+        "hu": "Tömegközlekedéssel két fő klaszterben fedezi fel Gradačacot. A délelőtt a történelmi központ gyalogos felfedezéséé. Egy buszozás után a délutánt a pihentető Hazna-tónál tölti. Késő délután busszal tér vissza a városközpontba, hogy a napot kulturális programmal vagy vásárlással zárja.",
+        "ro": "Cu transportul public, veți descoperi Gradačac în două clustere principale. Dimineața este dedicată explorării pe jos a centrului istoric. După o călătorie cu autobuzul, veți petrece după-amiaza la relaxantul lac Hazna. Spre seară, vă întoarceți cu autobuzul în centrul orașului pentru a încheia ziua cultural sau cu o sesiune de cumpărături.",
+        "en": "Using public transport, you'll discover Gradačac in two main clusters. The morning is dedicated to exploring the historic center on foot. After a bus ride, you'll spend the afternoon at the relaxing Hazna Lake. In the late afternoon, you'll return to the city center by bus to end the day culturally or with some shopping."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "Ein Blätterteiggebäck mit Fleisch-, Käse- oder Spinatfüllung von einer lokalen Bäckerei (Pekara)."
+          },
+          {
+            "name": "Krofne",
+            "tip": "Bosnische Donuts als süßer Snack für unterwegs."
+          },
+          {
+            "name": "Grill-Restaurant",
+            "tip": "Viele kleine Restaurants bieten ausgezeichnete Grillgerichte an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Húsos, sajtos vagy spenótos töltelékkel készült leveles tészta egy helyi pékségből (Pekara)."
+          },
+          {
+            "name": "Krofne",
+            "tip": "Bosnyák fánk, édes harapnivaló útközben."
+          },
+          {
+            "name": "Grillétterem",
+            "tip": "Sok kis étterem kínál kiváló grillételeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "O plăcintă din foietaj cu umplutură de carne, brânză sau spanac de la o brutărie locală (Pekara)."
+          },
+          {
+            "name": "Krofne",
+            "tip": "Gogoși bosniace ca gustare dulce pentru drum."
+          },
+          {
+            "name": "Restaurant cu grătar",
+            "tip": "Multe restaurante mici oferă preparate excelente la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "A flaky pastry with meat, cheese, or spinach filling from a local bakery (Pekara)."
+          },
+          {
+            "name": "Krofne",
+            "tip": "Bosnian donuts as a sweet snack on the go."
+          },
+          {
+            "name": "Grill Restaurant",
+            "tip": "Many small restaurants offer excellent grilled dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Park",
+            "tip": "Machen Sie eine Pause in einem der kleinen Parks der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang um den Hazna-See",
+            "tip": "Der Weg um den See ist perfekt, um dem Stadtlärm zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Abendstimmung an der Festung",
+            "tip": "Finden Sie einen ruhigen Platz und beobachten Sie den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad egy parkban",
+            "tip": "Tartson szünetet a város egyik kis parkjában.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Hazna-tó körül",
+            "tip": "A tó körüli út tökéletes a város zajától való elszakadáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Esti hangulat az erődnél",
+            "tip": "Keressen egy csendes helyet és nézze a naplementét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă într-un parc",
+            "tip": "Faceți o pauză într-unul dintre micile parcuri ale orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare în jurul lacului Hazna",
+            "tip": "Calea din jurul lacului este perfectă pentru a scăpa de zgomotul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Atmosferă de seară la cetate",
+            "tip": "Găsiți un loc liniștit și priviți apusul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in a park",
+            "tip": "Take a break in one of the city's small parks.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk around Hazna Lake",
+            "tip": "The path around the lake is perfect for escaping the city noise.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Evening atmosphere at the fortress",
+            "tip": "Find a quiet spot and watch the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentrale Einkaufsstraße",
+            "tip": "Hier finden Sie eine Mischung aus lokalen Geschäften und bekannten Marken."
+          },
+          {
+            "name": "Marktstände",
+            "tip": "Halten Sie Ausschau nach Ständen, die lokale Produkte und Handwerk verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi bevásárlóutca",
+            "tip": "Itt helyi üzletek és ismert márkák keverékét találja."
+          },
+          {
+            "name": "Piaci standok",
+            "tip": "Keresse a helyi termékeket és kézműves termékeket árusító standokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada comercială centrală",
+            "tip": "Aici veți găsi un amestec de magazine locale și mărci cunoscute."
+          },
+          {
+            "name": "Tarabe de piață",
+            "tip": "Căutați tarabe care vând produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central shopping street",
+            "tip": "Here you will find a mix of local shops and well-known brands."
+          },
+          {
+            "name": "Market stalls",
+            "tip": "Look for stalls selling local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar, um Geld zu sparen.",
+          "Informieren Sie sich über die Busfahrpläne, da die Frequenzen variieren können.",
+          "Haben Sie Kleingeld für die Tickets bereit.",
+          "Seien Sie bereit, kurze Strecken zwischen den Haltestellen und den Sehenswürdigkeiten zu Fuß zurückzulegen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha elérhető, hogy pénzt takarítson meg.",
+          "Tájékozódjon a buszmenetrendekről, mivel a járatok sűrűsége változhat.",
+          "Készítsen elő aprópénzt a jegyekhez.",
+          "Készüljön fel arra, hogy rövid távolságokat gyalogoljon a megállók és a látnivalók között."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil, pentru a economisi bani.",
+          "Informați-vă despre orarele autobuzelor, deoarece frecvențele pot varia.",
+          "Pregătiți mărunțiș pentru bilete.",
+          "Fiți pregătiți să mergeți pe jos pe distanțe scurte între stații și atracții."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available to save money.",
+          "Check the bus schedules as frequencies can vary.",
+          "Have small change ready for tickets.",
+          "Be prepared to walk short distances between stops and attractions."
+        ]
+      }
+    }
+  }
+}

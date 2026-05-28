@@ -1,0 +1,1468 @@
+{
+  "city_id": "moldova-cahul-cities-v2",
+  "anchor": {
+    "name": "Cahul",
+    "coords": [
+      28.1944,
+      45.9075
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Unabhängigkeitsplatz",
+            "hu": "Függetlenség tere",
+            "ro": "Piața Independenței",
+            "en": "Independence Square"
+          },
+          "coords": [
+            28.194,
+            45.907
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee und beobachten Sie das lokale Leben.",
+            "hu": "Indítsa a napot egy kávéval, és figyelje a helyi életet.",
+            "ro": "Începeți ziua aici cu o cafea, observând viața locală.",
+            "en": "Start your day here with a coffee, observing the local life."
+          }
+        },
+        {
+          "name": {
+            "de": "B.P. Hasdeu Theater",
+            "hu": "B.P. Hasdeu Színház",
+            "ro": "Teatrul B.P. Hasdeu",
+            "en": "B.P. Hasdeu Theatre"
+          },
+          "coords": [
+            28.1955,
+            45.9065
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:39",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine Abendvorstellung.",
+            "hu": "Nézze meg a műsort, hátha van esti előadás.",
+            "ro": "Verificați programul, poate prindeți un spectacol de seară.",
+            "en": "Check the schedule, you might catch an evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von St. Michael und Gabriel",
+            "hu": "Szent Mihály és Gábriel székesegyház",
+            "ro": "Catedrala Sf. Arhangheli Mihail și Gavriil",
+            "en": "St. Michael and Gabriel Cathedral"
+          },
+          "coords": [
+            28.193,
+            45.9085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ikonen und die friedliche Atmosphäre im Inneren.",
+            "hu": "Csodálja meg az ikonokat és a békés belső atmoszférát.",
+            "ro": "Admirați icoanele și atmosfera liniștită din interior.",
+            "en": "Admire the icons and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Geschichte und Ethnographie",
+            "hu": "Történeti és Néprajzi Múzeum",
+            "ro": "Muzeul de Istorie și Etnografie",
+            "en": "Museum of History and Ethnography"
+          },
+          "coords": [
+            28.19,
+            45.91
+          ],
+          "category": "museums",
+          "arrive_at": "11:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Exponate zur lokalen Folklore und Trachten.",
+            "hu": "Fókuszáljon a helyi folklórra és népviseletekre vonatkozó kiállítási tárgyakra.",
+            "ro": "Concentrează-te pe exponatele despre folclorul și costumele locale.",
+            "en": "Focus on the exhibits about local folklore and traditional costumes."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Opfer des Holocaust",
+            "hu": "Holokauszt Áldozatainak Emlékműve",
+            "ro": "Monumentul Victimelor Holocaustului",
+            "en": "Monument to the Victims of the Holocaust"
+          },
+          "coords": [
+            28.188,
+            45.909
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:03",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Ort des stillen Gedenkens an die Geschichte der Stadt.",
+            "hu": "A város történelmének csendes emlékezőhelye.",
+            "ro": "Un loc de comemorare tăcută a istoriei orașului.",
+            "en": "A place for quiet reflection on the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark von Cahul",
+            "hu": "Központi Park",
+            "ro": "Parcul Central din Cahul",
+            "en": "Central Park of Cahul"
+          },
+          "coords": [
+            28.196,
+            45.903
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause im Schatten der Bäume.",
+            "hu": "Ideális egy ebédszünetre a fák árnyékában.",
+            "ro": "Ideal pentru o pauză de prânz la umbra copacilor.",
+            "en": "Ideal for a lunch break in the shade of the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Prut-Uferpromenade",
+            "hu": "Prut-parti sétány",
+            "ro": "Promenada de pe malul Prutului",
+            "en": "Prut River Promenade"
+          },
+          "coords": [
+            28.185,
+            45.905
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:27",
+          "stay_min": 108,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Sonnenuntergang über dem Fluss zu beobachten.",
+            "hu": "Tökéletes hely a naplemente megtekintéséhez a folyó felett.",
+            "ro": "Locul perfect pentru a privi apusul peste râu.",
+            "en": "The perfect spot to watch the sunset over the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Cahul beginnt am lebhaften Unabhängigkeitsplatz, dem Herzen der Stadt. Von dort aus führt Sie ein kurzer Spaziergang zu den kulturellen Wahrzeichen wie dem Hasdeu-Theater und der orthodoxen Kathedrale. Am Mittag tauchen Sie im Geschichtsmuseum in die reiche Vergangenheit der Region ein und gedenken am Holocaust-Mahnmal. Der Nachmittag ist der Entspannung gewidmet. Sie schlendern durch den Zentralpark, ein grünes Refugium, bevor Sie den Tag an der ruhigen Prut-Promenade ausklingen lassen, wo der Fluss sanft vorbeifließt. Dieser Weg verbindet mühelos das städtische Leben mit der natürlichen Schönheit.",
+        "hu": "Cahuli sétája a város szívében, a nyüzsgő Függetlenség terén kezdődik. Innen rövid séta vezet a kulturális nevezetességekhez, mint a Hasdeu Színház és az ortodox katedrális. Délben a Történeti Múzeumban merül el a régió gazdag múltjában, és megemlékezik a Holokauszt Emlékműnél. A délután a pihenésé. A Központi Park zöld oázisában sétálgat, mielőtt a nyugodt Prut-parti sétányon fejezi be a napot, ahol a folyó szelíden csordogál. Ez az útvonal könnyedén ötvözi a városi életet a természeti szépséggel.",
+        "ro": "Plimbarea dvs. prin Cahul începe în vibranta Piață a Independenței, inima orașului. De acolo, o scurtă plimbare vă duce la repere culturale precum Teatrul Hasdeu și catedrala ortodoxă. La prânz, vă scufundați în trecutul bogat al regiunii la Muzeul de Istorie și aduceți un omagiu la Monumentul Holocaustului. După-amiaza este dedicată relaxării. Vă plimbați prin Parcul Central, un refugiu verde, înainte de a încheia ziua pe promenada liniștită a Prutului, unde râul curge lin. Acest traseu îmbină fără efort viața urbană cu frumusețea naturală.",
+        "en": "Your walk through Cahul begins in the vibrant Independence Square, the city's heart. From there, a short stroll takes you to cultural landmarks like the Hasdeu Theatre and the Orthodox cathedral. At midday, you'll delve into the region's rich past at the History Museum and pay respects at the Holocaust Monument. The afternoon is for relaxation. You'll wander through the Central Park, a green haven, before ending your day on the tranquil Prut Promenade, watching the river flow gently by. This path effortlessly blends urban life with natural beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mămăligă mit Brânză und Smântână",
+            "tip": "Ein traditionelles Gericht, das Sie in den meisten lokalen Restaurants finden."
+          },
+          {
+            "name": "Plăcinte",
+            "tip": "Probieren Sie diese herzhaften Gebäcke mit verschiedenen Füllungen wie Käse oder Kartoffeln."
+          },
+          {
+            "name": "Restaurant 'La Popas'",
+            "tip": "Bekannt für seine authentische moldauische Küche in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mămăligă túróval és tejföllel",
+            "tip": "Hagyományos étel, amelyet a legtöbb helyi étteremben megtalál."
+          },
+          {
+            "name": "Plăcinte",
+            "tip": "Kóstolja meg ezeket a sós süteményeket különféle töltelékekkel, például sajttal vagy burgonyával."
+          },
+          {
+            "name": "La Popas Étterem",
+            "tip": "Híres az autentikus moldáv konyhájáról és hangulatos légköréről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mămăligă cu brânză și smântână",
+            "tip": "Un fel de mâncare tradițional pe care îl veți găsi în majoritatea restaurantelor locale."
+          },
+          {
+            "name": "Plăcinte",
+            "tip": "Încercați aceste produse de patiserie sărate cu diverse umpluturi, cum ar fi brânza sau cartofii."
+          },
+          {
+            "name": "Restaurant 'La Popas'",
+            "tip": "Cunoscut pentru bucătăria sa moldovenească autentică într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mămăligă with Brânză and Smântână",
+            "tip": "A traditional dish that you will find in most local restaurants."
+          },
+          {
+            "name": "Plăcinte",
+            "tip": "Try these savory pastries with various fillings like cheese or potatoes."
+          },
+          {
+            "name": "Restaurant 'La Popas'",
+            "tip": "Known for its authentic Moldovan cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prut-Uferpromenade",
+            "tip": "Ein Spaziergang am Flussufer bei Sonnenuntergang ist sehr friedlich.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innenhof der Kathedrale",
+            "tip": "Ein ruhiger Ort, um der Hektik der Stadt zu entfliehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Zentralpark",
+            "tip": "Finden Sie eine Bank im Schatten und genießen Sie die Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prut-parti sétány",
+            "tip": "Egy séta a folyóparton naplementekor nagyon békés.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A székesegyház udvara",
+            "tip": "Csendes hely, ahol elmenekülhet a város nyüzsgése elől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Központi Park",
+            "tip": "Keressen egy padot az árnyékban, és élvezze a természetet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe malul Prutului",
+            "tip": "O plimbare de-a lungul malului râului la apus este foarte liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Catedralei",
+            "tip": "Un loc liniștit pentru a evada din agitația orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Central",
+            "tip": "Găsiți o bancă la umbră și bucurați-vă de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prut River Promenade",
+            "tip": "A walk along the riverbank at sunset is very peaceful.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cathedral Courtyard",
+            "tip": "A quiet spot to escape the hustle and bustle of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Central Park",
+            "tip": "Find a bench in the shade and enjoy nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und hausgemachte Waren von lokalen Verkäufern."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigten Souvenirs wie bestickten Textilien oder Töpferwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és házi készítésű árukat a helyi árusoktól."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített ajándéktárgyakat, például hímzett textíliákat vagy kerámiákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Locală",
+            "tip": "Cumpărați produse proaspete și bunuri de casă de la vânzătorii locali."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați suveniruri lucrate manual, cum ar fi textile brodate sau ceramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy fresh produce and homemade goods from local vendors."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for handmade souvenirs like embroidered textiles or pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie zusätzliche Zeit für unerwartete Entdeckungen in den Seitenstraßen ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog.",
+          "Tervezzen plusz időt a mellékutcákban tett váratlan felfedezésekre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați cu dvs. o sticlă de apă reutilizabilă.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Planificați timp suplimentar pentru descoperiri neașteptate pe străzile lăturalnice."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring a reusable water bottle with you.",
+          "Most sights in the city center are easily reachable on foot.",
+          "Allow for extra time for unexpected discoveries in the side streets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Unabhängigkeitsplatz",
+            "hu": "Függetlenség tere",
+            "ro": "Piața Independenței",
+            "en": "Independence Square"
+          },
+          "coords": [
+            28.194,
+            45.907
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ausgangspunkt, um die Stadt mit dem Fahrrad zu erkunden.",
+            "hu": "Nagyszerű kiindulópont a város kerékpáros felfedezéséhez.",
+            "ro": "Un punct de plecare excelent pentru a explora orașul cu bicicleta.",
+            "en": "A great starting point to explore the city by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "B.P. Hasdeu Theater",
+            "hu": "B.P. Hasdeu Színház",
+            "ro": "Teatrul B.P. Hasdeu",
+            "en": "B.P. Hasdeu Theatre"
+          },
+          "coords": [
+            28.1955,
+            45.9065
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:36",
+          "stay_min": 20,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und machen Sie ein Foto von der Fassade.",
+            "hu": "Zárja le a kerékpárt és készítsen egy fotót a homlokzatról.",
+            "ro": "Legați-vă bicicleta și faceți o fotografie a fațadei.",
+            "en": "Lock up your bike and take a photo of the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von St. Michael und Gabriel",
+            "hu": "Szent Mihály és Gábriel székesegyház",
+            "ro": "Catedrala Sf. Arhangheli Mihail și Gavriil",
+            "en": "St. Michael and Gabriel Cathedral"
+          },
+          "coords": [
+            28.193,
+            45.9085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Finden Sie einen Fahrradständer in der Nähe und nehmen Sie sich Zeit für einen Besuch.",
+            "hu": "Keressen egy közeli kerékpártárolót és szánjon időt a látogatásra.",
+            "ro": "Găsiți un suport pentru biciclete în apropiere și acordați-vă timp pentru o vizită.",
+            "en": "Find a bike rack nearby and take your time to visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Geschichte und Ethnographie",
+            "hu": "Történeti és Néprajzi Múzeum",
+            "ro": "Muzeul de Istorie și Etnografie",
+            "en": "Museum of History and Ethnography"
+          },
+          "coords": [
+            28.19,
+            45.91
+          ],
+          "category": "museums",
+          "arrive_at": "10:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Eine großartige Möglichkeit, ein paar Stunden im Inneren zu verbringen, besonders an einem heißen Tag.",
+            "hu": "Nagyszerű módja annak, hogy eltöltsön néhány órát bent, különösen egy forró napon.",
+            "ro": "O modalitate excelentă de a petrece câteva ore în interior, mai ales într-o zi călduroasă.",
+            "en": "A great way to spend a couple of hours indoors, especially on a hot day."
+          }
+        },
+        {
+          "name": {
+            "de": "Prut-Uferpromenade",
+            "hu": "Prut-parti sétány",
+            "ro": "Promenada de pe malul Prutului",
+            "en": "Prut River Promenade"
+          },
+          "coords": [
+            28.185,
+            45.905
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Fahren Sie am Fluss entlang und genießen Sie die frische Luft.",
+            "hu": "Kerékpározzon a folyó mentén és élvezze a friss levegőt.",
+            "ro": "Pedalați de-a lungul râului și bucurați-vă de aerul proaspăt.",
+            "en": "Cycle along the river and enjoy the fresh air."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark von Cahul",
+            "hu": "Központi Park",
+            "ro": "Parcul Central din Cahul",
+            "en": "Central Park of Cahul"
+          },
+          "coords": [
+            28.196,
+            45.903
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Ein guter Ort, um sich nach einer langen Radtour auszuruhen.",
+            "hu": "Jó hely a pihenésre egy hosszú kerékpártúra után.",
+            "ro": "Un loc bun pentru a vă odihni după o plimbare lungă cu bicicleta.",
+            "en": "A good place to rest after a long bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Sanatorium Nufărul Alb",
+            "hu": "Nufărul Alb Szanatórium",
+            "ro": "Sanatoriul Nufărul Alb",
+            "en": "Nufărul Alb Sanatorium"
+          },
+          "coords": [
+            28.205,
+            45.898
+          ],
+          "category": "natural features",
+          "arrive_at": "15:26",
+          "stay_min": 51,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufigen Anlagen und erfahren Sie mehr über die Heilbäder.",
+            "hu": "Fedezze fel a tágas területet és tudjon meg többet a gyógyfürdőkről.",
+            "ro": "Explorați terenurile întinse și aflați despre tratamentele balneare.",
+            "en": "Explore the spacious grounds and learn about the spa treatments."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Cahul auf dynamische Weise. Beginnen Sie am Unabhängigkeitsplatz und radeln Sie zu den nahegelegenen Kulturstätten. Die Flexibilität des Fahrrads ermöglicht es Ihnen, schnell zwischen dem Theater, der Kathedrale und dem Museum zu wechseln. Am Mittag führt Sie eine längere, erfrischende Fahrt zur Prut-Promenade, wo Sie die Brise am Fluss genießen können. Am Nachmittag durchqueren Sie den Zentralpark und beenden Ihre Tour am Sanatorium Nufărul Alb, das etwas außerhalb des Zentrums liegt. Diese Route kombiniert städtische Erkundung mit belebenden Fahrten durch die Natur.",
+        "hu": "A kerékpárral dinamikusan fedezheti fel Cahult. Induljon a Függetlenség térről, és tekerjen el a közeli kulturális helyszínekhez. A kerékpár rugalmassága lehetővé teszi, hogy gyorsan váltson a színház, a katedrális és a múzeum között. Délben egy hosszabb, frissítő út vezet a Prut-parti sétányhoz, ahol élvezheti a folyó menti szellőt. Délután áthalad a Központi Parkon, és a túrát a központtól kissé távolabb eső Nufărul Alb Szanatóriumnál fejezi be. Ez az útvonal ötvözi a városi felfedezést az élénkítő természeti utakkal.",
+        "ro": "Cu bicicleta, explorați Cahul într-un mod dinamic. Începeți din Piața Independenței și pedalați către siturile culturale din apropiere. Flexibilitatea bicicletei vă permite să vă deplasați rapid între teatru, catedrală și muzeu. La prânz, o plimbare mai lungă și revigorantă vă duce la promenada Prutului, unde vă puteți bucura de briza râului. După-amiaza, traversați Parcul Central și încheiați turul la Sanatoriul Nufărul Alb, situat puțin în afara centrului. Acest traseu combină explorarea urbană cu plimbări revigorante în natură.",
+        "en": "By bike, you'll explore Cahul in a dynamic way. Start at Independence Square and pedal to the nearby cultural sites. The bike's flexibility allows you to move quickly between the theatre, cathedral, and museum. At midday, a longer, refreshing ride takes you to the Prut Promenade to enjoy the riverside breeze. In the afternoon, you'll cross through the Central Park and finish your tour at the Nufărul Alb Sanatorium, located slightly outside the center. This route combines urban exploration with invigorating rides through nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zeamă",
+            "tip": "Eine leichte Hühnersuppe, perfekt für eine Stärkung nach dem Radfahren."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Moldawien ist für seinen Wein bekannt; probieren Sie eine lokale Sorte."
+          },
+          {
+            "name": "Café 'Aroma'",
+            "tip": "Ein guter Ort für einen schnellen Kaffee und einen Snack, um neue Energie zu tanken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zeamă",
+            "tip": "Könnyű csirkeleves, tökéletes feltöltődés a kerékpározás után."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Moldova híres a borairól; kóstoljon meg egy helyi fajtát."
+          },
+          {
+            "name": "Aroma Kávézó",
+            "tip": "Jó hely egy gyors kávéra és harapnivalóra az energia visszanyeréséhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zeamă",
+            "tip": "O supă ușoară de pui, perfectă pentru a vă revigora după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Moldova este renumită pentru vinul său; încercați un soi local."
+          },
+          {
+            "name": "Cafeneaua 'Aroma'",
+            "tip": "Un loc bun pentru o cafea rapidă și o gustare pentru a vă reîncărca bateriile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zeamă",
+            "tip": "A light chicken soup, perfect for refueling after cycling."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Moldova is famous for its wine; try a local variety."
+          },
+          {
+            "name": "Café 'Aroma'",
+            "tip": "A good spot for a quick coffee and snack to recharge."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prut-Uferpromenade",
+            "tip": "Machen Sie eine Pause auf einer Bank mit Blick auf den Fluss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Sanatoriums",
+            "tip": "Die ruhigen Gärten sind ideal für einen Moment der Kontemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Zentralpark am frühen Morgen",
+            "tip": "Genießen Sie die Ruhe, bevor die Stadt aufwacht.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prut-parti sétány",
+            "tip": "Tartson szünetet egy padon, kilátással a folyóra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A szanatórium kertjei",
+            "tip": "A csendes kertek ideálisak egy pillanatnyi elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Központi Park kora reggel",
+            "tip": "Élvezze a csendet, mielőtt a város felébred.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe malul Prutului",
+            "tip": "Luați o pauză pe o bancă cu vedere la râu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Sanatoriului",
+            "tip": "Grădinile liniștite sunt ideale pentru un moment de contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Central dimineața devreme",
+            "tip": "Bucurați-vă de liniște înainte ca orașul să se trezească.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prut River Promenade",
+            "tip": "Take a break on a bench overlooking the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sanatorium Gardens",
+            "tip": "The quiet gardens are ideal for a moment of contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Central Park in the early morning",
+            "tip": "Enjoy the tranquility before the city wakes up.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Füllen Sie Ihren Korb mit lokalen Snacks für Ihre Radtour."
+          },
+          {
+            "name": "Souvenirläden in der Nähe des Platzes",
+            "tip": "Kaufen Sie kleine Geschenke, die leicht in einen Rucksack passen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Töltse meg a kosarát helyi harapnivalókkal a kerékpártúrához."
+          },
+          {
+            "name": "Ajándékboltok a tér közelében",
+            "tip": "Vásároljon kis ajándékokat, amelyek könnyen elférnek egy hátizsákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Locală",
+            "tip": "Umpleți-vă coșul cu gustări locale pentru plimbarea cu bicicleta."
+          },
+          {
+            "name": "Magazine de suveniruri lângă piață",
+            "tip": "Cumpărați mici cadouri care încap ușor într-un rucsac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Fill your basket with local snacks for your bike ride."
+          },
+          {
+            "name": "Souvenir shops near the square",
+            "tip": "Buy small gifts that can easily fit in a backpack."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen.",
+          "Cahul ist relativ flach, aber seien Sie auf einige leichte Steigungen vorbereitet.",
+          "Nutzen Sie die Promenade für eine sichere und malerische Fahrt."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt.",
+          "Hozzon magával lakatot a kerékpár biztonságos lezárásához.",
+          "Cahul viszonylag sík, de készüljön fel néhány enyhe emelkedőre.",
+          "Használja a sétányt egy biztonságos és festői úthoz."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Luați un lacăt pentru a vă asigura bicicleta.",
+          "Cahul este relativ plat, dar fiți pregătiți pentru câteva pante ușoare.",
+          "Folosiți promenada pentru o plimbare sigură și pitorească."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Bring a lock to secure your bike.",
+          "Cahul is relatively flat, but be prepared for some gentle slopes.",
+          "Use the promenade for a safe and scenic ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum",
+            "hu": "Parkoló a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            28.1945,
+            45.908
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel az első látnivalócsoportot.",
+            "ro": "Parcați aici pentru a explora primul cluster pe jos.",
+            "en": "Park here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Unabhängigkeitsplatz",
+            "hu": "Függetlenség tere",
+            "ro": "Piața Independenței",
+            "en": "Independence Square"
+          },
+          "coords": [
+            28.194,
+            45.907
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herz von Cahul, ein kurzer Spaziergang vom Parkplatz entfernt.",
+            "hu": "Cahul szíve, rövid sétára a parkolótól.",
+            "ro": "Inima Cahulului, la o scurtă plimbare de parcare.",
+            "en": "The heart of Cahul, a short walk from the parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von St. Michael und Gabriel",
+            "hu": "Szent Mihály és Gábriel székesegyház",
+            "ro": "Catedrala Sf. Arhangheli Mihail și Gavriil",
+            "en": "St. Michael and Gabriel Cathedral"
+          },
+          "coords": [
+            28.193,
+            45.9085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Platz aus erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a térről.",
+            "ro": "Ușor de ajuns pe jos din piață.",
+            "en": "Easily reachable on foot from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Geschichte und Ethnographie",
+            "hu": "Történeti és Néprajzi Múzeum",
+            "ro": "Muzeul de Istorie și Etnografie",
+            "en": "Museum of History and Ethnography"
+          },
+          "coords": [
+            28.19,
+            45.91
+          ],
+          "category": "museums",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt in diesem zentralen Cluster, bevor Sie weiterfahren.",
+            "hu": "Az utolsó megálló ebben a központi csoportban, mielőtt továbbhajtana.",
+            "ro": "Ultima oprire în acest cluster central înainte de a merge mai departe.",
+            "en": "The last stop in this central cluster before you drive on."
+          }
+        },
+        {
+          "name": {
+            "de": "Sanatorium Nufărul Alb",
+            "hu": "Nufărul Alb Szanatórium",
+            "ro": "Sanatoriul Nufărul Alb",
+            "en": "Nufărul Alb Sanatorium"
+          },
+          "coords": [
+            28.205,
+            45.898
+          ],
+          "category": "natural features",
+          "arrive_at": "12:29",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem Gesundheitsresort und parken Sie, um die Anlagen zu erkunden.",
+            "hu": "Hajtson el ehhez az egészségügyi üdülőhelyhez, és parkoljon le, hogy felfedezze a területet.",
+            "ro": "Conduceți până la această stațiune balneară și parcați pentru a explora terenurile.",
+            "en": "Drive to this health resort and park to explore the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark von Cahul",
+            "hu": "Központi Park",
+            "ro": "Parcul Central din Cahul",
+            "en": "Central Park of Cahul"
+          },
+          "coords": [
+            28.196,
+            45.903
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:23",
+          "stay_min": 142,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück Richtung Zentrum und beenden Sie den Tag in diesem entspannenden Park.",
+            "hu": "Hajtson vissza a központ felé, és fejezze be a napot ebben a pihentető parkban.",
+            "ro": "Conduceți înapoi spre centru și încheiați ziua în acest parc relaxant.",
+            "en": "Drive back towards the center and end your day in this relaxing park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto genießen Sie die Flexibilität, das Zentrum von Cahul mit einem abgelegeneren Ort zu kombinieren. Sie beginnen damit, Ihr Auto im Stadtzentrum zu parken und den ersten Cluster zu Fuß zu erkunden: den Unabhängigkeitsplatz, die Kathedrale und das Museum. Diese Gegend ist kompakt und ideal für einen Morgenspaziergang. Am Mittag fahren Sie zum Sanatorium Nufărul Alb, um dessen ruhige Anlagen zu entdecken. Ihre Tour endet mit einer kurzen Fahrt zurück zum Zentralpark, wo Sie den Rest des Nachmittags entspannen können. Dieser Plan optimiert das Parken und minimiert den Fahrstress.",
+        "hu": "Az autóval élvezheti a rugalmasságot, hogy Cahul központját egy távolabbi helyszínnel kombinálja. Kezdje azzal, hogy leparkolja autóját a városközpontban, és gyalog fedezi fel az első látnivalócsoportot: a Függetlenség teret, a katedrálist és a múzeumot. Ez a terület kompakt és ideális egy reggeli sétához. Délben elhajt a Nufărul Alb Szanatóriumhoz, hogy felfedezze annak nyugodt területét. A túra egy rövid autóúttal ér véget a Központi Parknál, ahol a délután hátralévő részében pihenhet. Ez a terv optimalizálja a parkolást és minimalizálja a vezetéssel járó stresszt.",
+        "ro": "Cu mașina, vă bucurați de flexibilitatea de a combina centrul Cahulului cu o locație mai îndepărtată. Începeți prin a parca mașina în centrul orașului și a explora primul cluster pe jos: Piața Independenței, catedrala și muzeul. Această zonă este compactă și ideală pentru o plimbare de dimineață. La prânz, conduceți la Sanatoriul Nufărul Alb pentru a descoperi terenurile sale liniștite. Turul se încheie cu o scurtă călătorie cu mașina înapoi în Parcul Central, unde vă puteți relaxa pentru restul după-amiezii. Acest plan optimizează parcarea și minimizează stresul la volan.",
+        "en": "With a car, you enjoy the flexibility of combining Cahul's center with a more distant spot. You start by parking in the city center and exploring the first cluster on foot: Independence Square, the cathedral, and the museum. This area is compact and ideal for a morning walk. At midday, you'll drive to the Nufărul Alb Sanatorium to discover its tranquil grounds. Your tour concludes with a short drive back to the Central Park, where you can relax for the rest of the afternoon. This plan optimizes parking and minimizes driving stress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sarmale",
+            "tip": "Kohlrouladen, ein herzhaftes Gericht, das oft bei Feierlichkeiten serviert wird."
+          },
+          {
+            "name": "Ciorbă",
+            "tip": "Eine saure Suppe, die sehr erfrischend sein kann."
+          },
+          {
+            "name": "Restaurant mit Terrasse",
+            "tip": "Suchen Sie nach einem Ort mit Außenbereich, um das Wetter zu genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sarmale",
+            "tip": "Töltött káposzta, egy kiadós étel, amelyet gyakran szolgálnak fel ünnepekkor."
+          },
+          {
+            "name": "Csorba",
+            "tip": "Savanyú leves, amely nagyon frissítő lehet."
+          },
+          {
+            "name": "Teraszos étterem",
+            "tip": "Keressen egy helyet szabadtéri ülőhelyekkel, hogy élvezze az időjárást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sarmale",
+            "tip": "Un fel de mâncare consistent, adesea servit la celebrări."
+          },
+          {
+            "name": "Ciorbă",
+            "tip": "O supă acră care poate fi foarte răcoritoare."
+          },
+          {
+            "name": "Restaurant cu terasă",
+            "tip": "Căutați un loc cu scaune în aer liber pentru a vă bucura de vreme."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sarmale",
+            "tip": "Cabbage rolls, a hearty dish often served at celebrations."
+          },
+          {
+            "name": "Ciorbă",
+            "tip": "A sour soup that can be very refreshing."
+          },
+          {
+            "name": "Restaurant with a terrace",
+            "tip": "Look for a place with outdoor seating to enjoy the weather."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Sanatoriums",
+            "tip": "Die weitläufigen Anlagen sind perfekt für einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Prut-Ufer",
+            "tip": "Fahren Sie zum Flussufer für einen Moment der Ruhe abseits des Zentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine ruhige Ecke im Zentralpark",
+            "tip": "Abseits der Hauptwege finden Sie friedliche Plätze.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A szanatórium kertjei",
+            "tip": "A tágas területek tökéletesek egy csendes sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Prut-part",
+            "tip": "Hajtson le a folyóparthoz egy pillanatnyi nyugalomért a központtól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendes sarok a Központi Parkban",
+            "tip": "A fő utaktól távol békés helyeket talál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Sanatoriului",
+            "tip": "Terenurile întinse sunt perfecte pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul Prutului",
+            "tip": "Conduceți până la malul râului pentru un moment de liniște departe de centru.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Un colț liniștit în Parcul Central",
+            "tip": "Departe de aleile principale, veți găsi locuri pașnice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sanatorium Gardens",
+            "tip": "The spacious grounds are perfect for a quiet walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Prut Riverbank",
+            "tip": "Drive to the riverbank for a moment of peace away from the center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet corner in Central Park",
+            "tip": "Away from the main paths, you'll find peaceful spots.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Größere Supermärkte am Stadtrand",
+            "tip": "Nutzen Sie das Auto, um Vorräte für Ihre Reise aufzufüllen."
+          },
+          {
+            "name": "Weingüter in der Umgebung",
+            "tip": "Machen Sie einen kurzen Abstecher, um lokalen Wein direkt vom Erzeuger zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nagyobb szupermarketek a város szélén",
+            "tip": "Használja az autót az utazáshoz szükséges készletek feltöltésére."
+          },
+          {
+            "name": "Környékbeli borászatok",
+            "tip": "Tegyen egy rövid kitérőt, hogy helyi bort vásároljon közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketuri mai mari la periferie",
+            "tip": "Folosiți mașina pentru a vă aproviziona pentru călătorie."
+          },
+          {
+            "name": "Crame din apropiere",
+            "tip": "Faceți o scurtă deviere pentru a cumpăra vin local direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Larger supermarkets on the outskirts",
+            "tip": "Use the car to stock up on supplies for your trip."
+          },
+          {
+            "name": "Nearby wineries",
+            "tip": "Make a short detour to buy local wine directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein Auto ermöglicht es Ihnen, auch nahegelegene Dörfer oder Naturgebiete zu besuchen.",
+          "Der Verkehr in Cahul ist überschaubar, aber achten Sie auf lokale Fahrgewohnheiten.",
+          "Nutzen Sie die Cluster-Walking-Strategie, um Parkprobleme zu vermeiden."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "Az autó lehetővé teszi, hogy a közeli falvakat vagy természeti területeket is meglátogassa.",
+          "Cahul forgalma kezelhető, de figyeljen a helyi vezetési szokásokra.",
+          "Használja a látnivalócsoportos gyaloglás stratégiáját a parkolási problémák elkerülése érdekében."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele în avans.",
+          "O mașină vă permite să vizitați și satele sau zonele naturale din apropiere.",
+          "Traficul în Cahul este gestionabil, dar fiți atenți la obiceiurile locale de condus.",
+          "Folosiți strategia de plimbare în cluster pentru a evita problemele de parcare."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A car allows you to visit nearby villages or natural areas as well.",
+          "Traffic in Cahul is manageable, but be mindful of local driving habits.",
+          "Use the cluster-walking strategy to avoid parking hassles."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle am Unabhängigkeitsplatz",
+            "hu": "Buszmegálló a Függetlenség terén",
+            "ro": "Stația de autobuz Piața Independenței",
+            "en": "Independence Square Bus Stop"
+          },
+          "coords": [
+            28.1942,
+            45.9072
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihre Erkundung des Stadtzentrums.",
+            "hu": "Kezdje itt a belváros felfedezését.",
+            "ro": "Începeți explorarea centrului orașului de aici.",
+            "en": "Start your exploration of the city center from here."
+          }
+        },
+        {
+          "name": {
+            "de": "B.P. Hasdeu Theater",
+            "hu": "B.P. Hasdeu Színház",
+            "ro": "Teatrul B.P. Hasdeu",
+            "en": "B.P. Hasdeu Theatre"
+          },
+          "coords": [
+            28.1955,
+            45.9065
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:12",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Csak egy rövid séta a buszmegállótól.",
+            "ro": "La doar o scurtă plimbare de stația de autobuz.",
+            "en": "Just a short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von St. Michael und Gabriel",
+            "hu": "Szent Mihály és Gábriel székesegyház",
+            "ro": "Catedrala Sf. Arhangheli Mihail și Gavriil",
+            "en": "St. Michael and Gabriel Cathedral"
+          },
+          "coords": [
+            28.193,
+            45.9085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Straßen des Zentrums zu diesem wichtigen Wahrzeichen.",
+            "hu": "Sétáljon a központ utcáin ehhez a fontos nevezetességhez.",
+            "ro": "Plimbați-vă pe străzile centrului până la acest reper important.",
+            "en": "Stroll through the center's streets to this important landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Geschichte und Ethnographie",
+            "hu": "Történeti és Néprajzi Múzeum",
+            "ro": "Muzeul de Istorie și Etnografie",
+            "en": "Museum of History and Ethnography"
+          },
+          "coords": [
+            28.19,
+            45.91
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Letzter Halt im zentralen Cluster, bevor Sie den Bus nehmen.",
+            "hu": "Utolsó megálló a központi csoportban, mielőtt buszra szállna.",
+            "ro": "Ultima oprire în clusterul central înainte de a lua autobuzul.",
+            "en": "Last stop in the central cluster before taking the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark von Cahul",
+            "hu": "Központi Park",
+            "ro": "Parcul Central din Cahul",
+            "en": "Central Park of Cahul"
+          },
+          "coords": [
+            28.196,
+            45.903
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in den südlichen Teil der Stadt.",
+            "hu": "Szálljon buszra a város déli részébe.",
+            "ro": "Luați un autobuz spre partea de sud a orașului.",
+            "en": "Take a bus to the southern part of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Prut-Uferpromenade",
+            "hu": "Prut-parti sétány",
+            "ro": "Promenada de pe malul Prutului",
+            "en": "Prut River Promenade"
+          },
+          "coords": [
+            28.185,
+            45.905
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:21",
+          "stay_min": 134,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein weiterer Bus bringt Sie in die Nähe des Flusses für den letzten Teil Ihres Tages.",
+            "hu": "Egy másik busz elviszi a folyó közelébe a nap utolsó részére.",
+            "ro": "Un alt autobuz vă duce aproape de râu pentru ultima parte a zilei.",
+            "en": "Another bus takes you near the river for the final part of your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Nutzung öffentlicher Verkehrsmittel in Cahul ermöglicht eine entspannte Erkundung. Sie beginnen im Stadtzentrum und besuchen den ersten Cluster von Sehenswürdigkeiten – den Platz, das Theater, die Kathedrale und das Museum – alles bequem zu Fuß erreichbar. Nach dem Eintauchen in die Kultur und Geschichte nehmen Sie am Mittag einen Bus, der Sie in den südlichen Teil der Stadt zum Zentralpark bringt. Eine weitere kurze Busfahrt am Nachmittag führt Sie zur Prut-Promenade, wo Sie den Tag in ruhiger Umgebung ausklingen lassen. Dieser Plan unterteilt die Stadt in überschaubare Zonen.",
+        "hu": "A tömegközlekedés használata Cahulban lehetővé teszi a pihentető felfedezést. A városközpontban kezd, és meglátogatja az első látnivalócsoportot – a teret, a színházat, a katedrálist és a múzeumot –, mindent kényelmesen gyalogosan. Miután elmerült a kultúrában és a történelemben, délben buszra száll, amely a város déli részébe, a Központi Parkba viszi. Délután egy újabb rövid buszút vezet a Prut-parti sétányhoz, ahol nyugodt környezetben fejezheti be a napot. Ez a terv kezelhető zónákra osztja a várost.",
+        "ro": "Folosirea transportului public în Cahul permite o explorare relaxată. Începeți în centrul orașului, vizitând primul cluster de atracții – piața, teatrul, catedrala și muzeul – toate la distanță de mers pe jos. După imersiunea în cultură și istorie, la prânz luați un autobuz care vă duce în partea de sud a orașului, la Parcul Central. O altă scurtă călătorie cu autobuzul după-amiaza vă conduce la Promenada Prutului, unde vă puteți încheia ziua într-un cadru liniștit. Acest plan împarte orașul în zone gestionabile.",
+        "en": "Using public transport in Cahul allows for a relaxed exploration. You'll start in the city center, visiting the first cluster of sights—the square, theatre, cathedral, and museum—all within easy walking distance. After immersing yourself in culture and history, you'll take a bus at midday to the southern part of the city for the Central Park. Another short bus ride in the afternoon takes you to the Prut Promenade, where you can end your day in a tranquil setting. This plan divides the city into manageable zones."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen, ein beliebter Straßensnack."
+          },
+          {
+            "name": "Gogoși",
+            "tip": "Süße Krapfen, perfekt für eine süße Pause."
+          },
+          {
+            "name": "Restaurant 'Andalucia'",
+            "tip": "Bietet eine Mischung aus lokaler und europäischer Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mics",
+            "tip": "Grillezett darált hús tekercs, népszerű utcai étel."
+          },
+          {
+            "name": "Gogoși",
+            "tip": "Édes fánk, tökéletes egy édes szünethez."
+          },
+          {
+            "name": "Andalucia Étterem",
+            "tip": "Helyi és európai konyha keverékét kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar, o gustare populară de stradă."
+          },
+          {
+            "name": "Gogoși",
+            "tip": "Gogoși dulci, perfecte pentru o pauză dulce."
+          },
+          {
+            "name": "Restaurant 'Andalucia'",
+            "tip": "Oferă un amestec de bucătărie locală și europeană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici",
+            "tip": "Grilled minced meat rolls, a popular street food snack."
+          },
+          {
+            "name": "Gogoși",
+            "tip": "Sweet doughnuts, perfect for a sweet break."
+          },
+          {
+            "name": "Restaurant 'Andalucia'",
+            "tip": "Offers a mix of local and European cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prut-Uferpromenade",
+            "tip": "Ein idealer Ort, um dem Stadtlärm zu entkommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Friedhof neben der Kathedrale",
+            "tip": "Ein Ort der Stille und des Nachdenkens.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Weniger belebte Wege im Zentralpark",
+            "tip": "Entfliehen Sie den Menschenmassen und genießen Sie die Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prut-parti sétány",
+            "tip": "Ideális hely a város zajától való elmeneküléshez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Temető a katedrális mellett",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kevésbé forgalmas utak a Központi Parkban",
+            "tip": "Meneküljön el a tömeg elől és élvezze a természetet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe malul Prutului",
+            "tip": "Un loc ideal pentru a evada de zgomotul orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul de lângă catedrală",
+            "tip": "Un loc de liniște și reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cărări mai puțin aglomerate în Parcul Central",
+            "tip": "Evadați de mulțime și bucurați-vă de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prut River Promenade",
+            "tip": "An ideal place to escape the city noise.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cemetery near the cathedral",
+            "tip": "A place of silence and reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Less crowded paths in Central Park",
+            "tip": "Escape the crowds and enjoy nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske in der Nähe von Bushaltestellen",
+            "tip": "Kaufen Sie Getränke oder kleine Snacks für Ihre Fahrt."
+          },
+          {
+            "name": "Buchhandlungen im Zentrum",
+            "tip": "Suchen Sie nach Büchern über die lokale Geschichte oder von moldauischen Autoren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállók közelében",
+            "tip": "Vásároljon italokat vagy kis harapnivalókat az útra."
+          },
+          {
+            "name": "Könyvesboltok a központban",
+            "tip": "Keressen könyveket a helyi történelemről vagy moldáv szerzőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri lângă stațiile de autobuz",
+            "tip": "Cumpărați băuturi sau mici gustări pentru călătoria dvs."
+          },
+          {
+            "name": "Librării în centru",
+            "tip": "Căutați cărți despre istoria locală sau de autori moldoveni."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks near bus stops",
+            "tip": "Buy drinks or small snacks for your ride."
+          },
+          {
+            "name": "Bookshops in the center",
+            "tip": "Look for books on local history or by Moldovan authors."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, wenn verfügbar, um Geld zu sparen.",
+          "Informieren Sie sich über die Busfahrpläne, da die Frequenzen variieren können.",
+          "Behalten Sie Ihre Sachen in überfüllten Bussen im Auge.",
+          "Haben Sie Kleingeld für Tickets bereit, falls keine Kartenzahlung möglich ist."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, ha elérhető, hogy pénzt takarítson meg.",
+          "Tájékozódjon a buszmenetrendekről, mivel a járatok sűrűsége változhat.",
+          "Tartsa szemmel a holmiját a zsúfolt buszokon.",
+          "Legyen kéznél aprópénz a jegyekhez, ha a kártyás fizetés nem lehetséges."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi, dacă este disponibil, pentru a economisi bani.",
+          "Verificați orarele autobuzelor, deoarece frecvențele pot varia.",
+          "Fiți cu ochii pe bunurile dvs. în autobuzele aglomerate.",
+          "Aveți la îndemână mărunțiș pentru bilete în caz că plata cu cardul nu este posibilă."
+        ],
+        "en": [
+          "Buy a day pass if available to save money.",
+          "Check bus schedules, as frequencies can vary.",
+          "Keep an eye on your belongings on crowded buses.",
+          "Have small change ready for tickets in case card payment is not possible."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1285 @@
+{
+  "city_id": "denmark-soenderborg-cities-v2",
+  "anchor": {
+    "name": "Sønderborg",
+    "coords": [
+      54.91,
+      9.79
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafenpromenade Sønderborg",
+            "hu": "Sønderborgi kikötői sétány",
+            "ro": "Promenada portuară din Sønderborg",
+            "en": "Sønderborg Harbour Promenade"
+          },
+          "coords": [
+            9.7885,
+            54.9085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen Cafés am Wasser.",
+            "hu": "Kezdje a napot egy kávéval a vízparti kávézók egyikében.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele de pe malul apei.",
+            "en": "Start the day with a coffee at one of the many waterfront cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Marien-Kirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sfânta Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            9.7922,
+            54.9125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf das beeindruckende Votivschiff, das von der Decke hängt.",
+            "hu": "Figyelje meg a mennyezetről lógó, lenyűgöző fogadalmi hajót.",
+            "ro": "Observați impresionanta navă votivă care atârnă de tavan.",
+            "en": "Look for the impressive votive ship hanging from the ceiling."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sonderburg",
+            "hu": "Sønderborgi kastély",
+            "ro": "Castelul Sønderborg",
+            "en": "Sønderborg Castle"
+          },
+          "coords": [
+            9.785,
+            54.907
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Das Museum im Inneren bietet einen tiefen Einblick in die komplexe Geschichte der Region.",
+            "hu": "A bent található múzeum mély betekintést nyújt a régió összetett történelmébe.",
+            "ro": "Muzeul din interior oferă o perspectivă profundă asupra istoriei complexe a regiunii.",
+            "en": "The museum inside offers a deep dive into the region's complex history."
+          }
+        },
+        {
+          "name": {
+            "de": "König-Christian-X.-Brücke",
+            "hu": "X. Keresztély király híd",
+            "ro": "Podul Regele Christian al X-lea",
+            "en": "King Christian X's Bridge"
+          },
+          "coords": [
+            9.783,
+            54.911
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke für eine tolle Aussicht auf die Stadt und das Schloss.",
+            "hu": "Menjen át a hídon, ahonnan remek kilátás nyílik a városra és a kastélyra.",
+            "ro": "Traversați podul pentru o priveliște superbă asupra orașului și a castelului.",
+            "en": "Cross the bridge for a great view of the city and castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Historiecenter Dybbøl Banke",
+            "hu": "Dybbøl Banke Történeti Központ",
+            "ro": "Centrul de Istorie Dybbøl Banke",
+            "en": "History Centre Dybbøl Banke"
+          },
+          "coords": [
+            9.766,
+            54.906
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die Vorführungen mit historischen Kanonen ein.",
+            "hu": "Szánjon elég időt a korhű ágyúkkal tartott bemutatókra.",
+            "ro": "Planificați-vă suficient timp pentru demonstrațiile cu tunuri de epocă.",
+            "en": "Plan enough time for the demonstrations with period cannons."
+          }
+        },
+        {
+          "name": {
+            "de": "Düppeler Mühle",
+            "hu": "Dybbøli malom",
+            "ro": "Moara din Dybbøl",
+            "en": "Dybbøl Mill"
+          },
+          "coords": [
+            9.773,
+            54.908
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der Hügel bietet die beste Panoramaaussicht auf die Stadt und die Flensburger Förde.",
+            "hu": "A dombról nyílik a legjobb panoráma a városra és a Flensburgi-fjordra.",
+            "ro": "Dealul oferă cea mai bună panoramă a orașului și a fiordului Flensburg.",
+            "en": "The hill offers the best panoramic view of the city and the Flensburg Fjord."
+          }
+        },
+        {
+          "name": {
+            "de": "Alsion",
+            "hu": "Alsion",
+            "ro": "Alsion",
+            "en": "Alsion"
+          },
+          "coords": [
+            9.785,
+            54.914
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:17",
+          "stay_min": 30,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie um das moderne Gebäude herum und genießen Sie die Architektur am Wasser.",
+            "hu": "Sétáljon körbe a modern épület körül, és élvezze a vízparti építészetet.",
+            "ro": "Plimbați-vă în jurul clădirii moderne și bucurați-vă de arhitectura de pe malul apei.",
+            "en": "Stroll around the modern building and enjoy the waterfront architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Sønderborg beginnt mit der frischen Meeresbrise an der Hafenpromenade. Am Vormittag tauchen Sie in die Geschichte ein, erkunden die alte Sankt-Marien-Kirche und das imposante Schloss Sønderborg, das über dem Wasser thront. Der Mittag führt Sie über die König-Christian-X.-Brücke zu den historischen Schlachtfeldern von Dybbøl, wo das Geschichtszentrum und die berühmte Mühle auf Sie warten und tiefgreifende Einblicke in die dänische Identität bieten. Am späten Nachmittag kehren Sie in die Stadt zurück und beenden Ihre Tour mit einem Blick auf die moderne Architektur des Alsion-Kulturzentrums, das einen Kontrast zur reichen Geschichte der Stadt bildet.",
+        "hu": "Sønderborgi napja a kikötői sétány friss tengeri szellőjével kezdődik. A délelőtt a történelemé: felfedezi a régi Szent Mária-templomot és a víz fölé magasodó, impozáns sønderborgi kastélyt. Délben a X. Keresztély király hídon átkelve a dybbøli csatatérre érkezik, ahol a Történeti Központ és a híres malom várja, mély betekintést nyújtva a dán identitásba. Késő délután visszatér a városba, és a túrát az Alsion kulturális központ modern építészetének megtekintésével zárja, amely kontrasztot alkot a város gazdag történelmével.",
+        "ro": "Ziua dvs. în Sønderborg începe cu briza proaspătă a mării pe promenada portuară. Dimineața este dedicată istoriei, explorând vechea Biserică Sfânta Maria și impunătorul Castel Sønderborg, care domină apa. La prânz, traversați Podul Regele Christian al X-lea spre câmpurile de luptă istorice de la Dybbøl, unde vă așteaptă Centrul de Istorie și faimoasa moară, oferind o perspectivă profundă asupra identității daneze. Spre sfârșitul după-amiezii, vă întoarceți în oraș și încheiați turul admirând arhitectura modernă a centrului cultural Alsion, un contrast cu istoria bogată a orașului.",
+        "en": "Your day in Sønderborg begins with the fresh sea breeze at the harbor promenade. The morning is for immersing yourself in history, exploring the old St. Mary's Church and the imposing Sønderborg Castle that towers over the water. Midday takes you across King Christian X's Bridge to the historic battlegrounds of Dybbøl, where the History Centre and the famous mill await, offering profound insights into Danish identity. In the late afternoon, you return to the city, ending your tour by admiring the modern architecture of the Alsion cultural center, a contrast to the city's rich history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sønderjysk Kaffebord",
+            "tip": "Ein traditionelles Kuchenbuffet. Probieren Sie es im Restaurant Colosseum."
+          },
+          {
+            "name": "Räucheraal",
+            "tip": "Eine lokale Delikatesse, die oft in den Restaurants am Hafen serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sønderjysk Kaffebord",
+            "tip": "Hagyományos süteménybüfé. Próbálja ki a Colosseum étteremben."
+          },
+          {
+            "name": "Füstölt angolna",
+            "tip": "Helyi finomság, amelyet gyakran szolgálnak fel a kikötői éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sønderjysk Kaffebord",
+            "tip": "Un bufet tradițional de prăjituri. Încercați-l la Restaurant Colosseum."
+          },
+          {
+            "name": "Anghilă afumată",
+            "tip": "O delicatesă locală, servită adesea în restaurantele din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sønderjysk Kaffebord",
+            "tip": "A traditional cake buffet. Try it at Restaurant Colosseum."
+          },
+          {
+            "name": "Smoked eel",
+            "tip": "A local delicacy often served at the harbor restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gendarmstien",
+            "tip": "Ein Spaziergang auf einem Teilstück dieses Wanderwegs bietet Ruhe und tolle Ausblicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Die Gärten rund um das Schloss sind ein friedlicher Ort zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gendarmstien",
+            "tip": "Egy séta ezen a túraútvonalon nyugalmat és nagyszerű kilátást kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kastélypark",
+            "tip": "A kastély körüli kertek békés helyet biztosítanak a pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gendarmstien",
+            "tip": "O plimbare pe o porțiune a acestei poteci oferă liniște și priveliști minunate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul castelului",
+            "tip": "Grădinile din jurul castelului sunt un loc pașnic pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gendarmstien",
+            "tip": "A walk on a section of this hiking trail offers tranquility and great views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Park",
+            "tip": "The gardens around the castle are a peaceful place to relax.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Perlegade",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus dänischen Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Hafenmarkt",
+            "tip": "Suchen Sie nach lokalen Produkten und Kunsthandwerk auf den saisonalen Märkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perlegade",
+            "tip": "A fő bevásárlóutca dán márkák és helyi üzletek keverékével."
+          },
+          {
+            "name": "Kikötői piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat a szezonális piacokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Perlegade",
+            "tip": "Principala stradă comercială cu un amestec de mărci daneze și magazine locale."
+          },
+          {
+            "name": "Piața din port",
+            "tip": "Căutați produse locale și artizanat la piețele sezoniere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Perlegade",
+            "tip": "The main shopping street with a mix of Danish brands and local shops."
+          },
+          {
+            "name": "Harbour Market",
+            "tip": "Look for local produce and crafts at the seasonal markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Strecke zum Dybbøl Banke einen längeren Spaziergang erfordert.",
+          "Prüfen Sie die Öffnungszeiten der Brücke, wenn Sie eine Bootsfahrt planen.",
+          "Ein Fernglas ist auf dem Dybbøl-Hügel nützlich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a Dybbøl Banke-hoz vezető út hosszabb sétát igényel.",
+          "Ha hajókirándulást tervez, ellenőrizze a híd nyitvatartási idejét.",
+          "A Dybbøl-dombon jól jöhet egy távcső."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece traseul către Dybbøl Banke necesită o plimbare mai lungă.",
+          "Verificați programul podului dacă plănuiți o excursie cu barca.",
+          "Un binoclu este util pe dealul Dybbøl."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the route to Dybbøl Banke requires a longer walk.",
+          "Check the bridge opening times if you plan a boat trip.",
+          "Binoculars are useful on Dybbøl Hill."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafenpromenade & Fahrradverleih",
+            "hu": "Kikötői sétány és kerékpárkölcsönző",
+            "ro": "Promenada portuară și închiriere de biciclete",
+            "en": "Harbour Promenade & Bike Rental"
+          },
+          "coords": [
+            9.7885,
+            54.9085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe des Hafens, um den Tag flexibel zu gestalten.",
+            "hu": "Béreljen kerékpárt a kikötő közelében a rugalmas nap érdekében.",
+            "ro": "Închiriați o bicicletă lângă port pentru o zi flexibilă.",
+            "en": "Rent a bike near the harbor for a flexible day."
+          }
+        },
+        {
+          "name": {
+            "de": "Alsion",
+            "hu": "Alsion",
+            "ro": "Alsion",
+            "en": "Alsion"
+          },
+          "coords": [
+            9.785,
+            54.914
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Stopp, um die moderne Architektur am Wasser zu bewundern.",
+            "hu": "Álljon meg egy rövid időre, hogy megcsodálja a modern vízparti építészetet.",
+            "ro": "Faceți o scurtă oprire pentru a admira arhitectura modernă de pe malul apei.",
+            "en": "Make a quick stop to admire the modern waterfront architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Gendarmstien (Abschnitt)",
+            "hu": "Gendarmstien (szakasza)",
+            "ro": "Gendarmstien (secțiune)",
+            "en": "Gendarmstien (section)"
+          },
+          "coords": [
+            9.735,
+            54.902
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt entlang der Küste auf diesem berühmten Wander- und Radweg.",
+            "hu": "Élvezze a biciklizést a part mentén ezen a híres túra- és kerékpárúton.",
+            "ro": "Bucurați-vă de plimbarea de-a lungul coastei pe această faimoasă potecă de drumeții și ciclism.",
+            "en": "Enjoy the ride along the coast on this famous hiking and biking trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Düppeler Mühle",
+            "hu": "Dybbøli malom",
+            "ro": "Moara din Dybbøl",
+            "en": "Dybbøl Mill"
+          },
+          "coords": [
+            9.773,
+            54.908
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und steigen Sie auf den Hügel für die beste Aussicht.",
+            "hu": "Tegye le a kerékpárt, és másszon fel a dombra a legjobb kilátásért.",
+            "ro": "Lăsați bicicleta și urcați pe deal pentru cea mai bună priveliște.",
+            "en": "Park your bike and climb the hill for the best view."
+          }
+        },
+        {
+          "name": {
+            "de": "Historiecenter Dybbøl Banke",
+            "hu": "Dybbøl Banke Történeti Központ",
+            "ro": "Centrul de Istorie Dybbøl Banke",
+            "en": "History Centre Dybbøl Banke"
+          },
+          "coords": [
+            9.766,
+            54.906
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss, um die dänische Geschichte zu verstehen. Fahrradständer sind vorhanden.",
+            "hu": "A dán történelem megértéséhez kötelező. Kerékpártárolók rendelkezésre állnak.",
+            "ro": "O vizită obligatorie pentru a înțelege istoria daneză. Există suporturi pentru biciclete.",
+            "en": "A must-visit to understand Danish history. Bike racks are available."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sonderburg",
+            "hu": "Sønderborgi kastély",
+            "ro": "Castelul Sønderborg",
+            "en": "Sønderborg Castle"
+          },
+          "coords": [
+            9.785,
+            54.907
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour hier und erkunden Sie das Schloss und seine Umgebung.",
+            "hu": "Fejezze be itt a kerékpártúrát, és fedezze fel a kastélyt és környékét.",
+            "ro": "Încheiați turul cu bicicleta aici și explorați castelul și împrejurimile sale.",
+            "en": "End your bike tour here and explore the castle and its surroundings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in Sønderborg aufs Rad und starten Sie am lebhaften Hafen. Die Vormittagstour führt Sie entlang der Küste auf dem malerischen Gendarmstien, einem Weg voller Natur und Geschichte, bevor Sie den Anstieg zur Düppeler Mühle wagen, von wo aus Sie eine spektakuläre Aussicht genießen. Der Mittag ist dem tiefen Eintauchen in die Vergangenheit im Geschichtszentrum Dybbøl Banke gewidmet, einem zentralen Ort der dänischen Erinnerungskultur. Am Nachmittag radeln Sie zurück über die Brücke, um den Tag mit der Erkundung des majestätischen Schlosses Sønderborg und der charmanten Innenstadt abzuschließen, die voller Leben ist.",
+        "hu": "Pattanjon kerékpárra Sønderborgban, és induljon az élénk kikötőből. A délelőtti túra a festői Gendarmstien ösvényen vezet a tengerpart mentén, amely tele van természettel és történelemmel, mielőtt megmássza a Dybbøli malomhoz vezető emelkedőt, ahonnan lenyűgöző kilátás nyílik. A dél a múlt mélyebb megismeréséé a Dybbøl Banke Történeti Központban, a dán emlékezet kultúrájának központi helyszínén. Délután visszateker a hídon át, hogy a napot a fenséges Sønderborgi kastély és a bájos, élettel teli belváros felfedezésével zárja.",
+        "ro": "Urcați-vă pe bicicletă în Sønderborg și porniți din portul animat. Turul de dimineață vă poartă de-a lungul coastei pe pitoreasca potecă Gendarmstien, un traseu plin de natură și istorie, înainte de a urca la Moara Dybbøl pentru priveliști spectaculoase. Prânzul este dedicat unei scufundări profunde în trecut la Centrul de Istorie Dybbøl Banke, un loc esențial în memoria culturală daneză. După-amiaza, pedalați înapoi peste pod pentru a încheia ziua explorând maiestuosul Castel Sønderborg și centrul fermecător al orașului, plin de viață.",
+        "en": "Hop on a bike in Sønderborg and start from the lively harbor. The morning tour takes you along the coast on the scenic Gendarmstien trail, a path full of nature and history, before you tackle the climb to Dybbøl Mill for spectacular views. Midday is for a deep dive into the past at the Dybbøl Banke History Centre, a pivotal site in Danish cultural memory. In the afternoon, you'll cycle back across the bridge to end the day exploring the majestic Sønderborg Castle and the charming city center, bustling with life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Dänische Fischfrikadellen, perfekt für ein schnelles Mittagessen. Probieren Sie sie in einem der Imbisse am Hafen."
+          },
+          {
+            "name": "Smørrebrød",
+            "tip": "Ein klassisches dänisches Mittagessen. Das Bella Italia am Rathausplatz bietet gute Optionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Dán halfasírt, tökéletes egy gyors ebédhez. Kóstolja meg a kikötői büfék egyikében."
+          },
+          {
+            "name": "Smørrebrød",
+            "tip": "Klasszikus dán ebéd. A városháza téri Bella Italia jó lehetőségeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Chiftele daneze de pește, perfecte pentru un prânz rapid. Încercați-le la una dintre tarabele din port."
+          },
+          {
+            "name": "Smørrebrød",
+            "tip": "Un prânz danez clasic. Bella Italia din piața primăriei oferă opțiuni bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Danish fish cakes, perfect for a quick lunch. Try them at one of the harbor food stalls."
+          },
+          {
+            "name": "Smørrebrød",
+            "tip": "A classic Danish lunch. Bella Italia in the town hall square offers good options."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Vemmingbund",
+            "tip": "Eine kurze Radtour entfernt, ein schöner Ort für eine Pause am Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sønderskoven Wald",
+            "tip": "Radfahren Sie durch die ruhigen Waldwege südlich der Stadt.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vemmingbund strandja",
+            "tip": "Egy rövid kerékpárútra található, szép hely egy tengerparti szünethez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sønderskoven-erdő",
+            "tip": "Kerékpározzon át a várostól délre fekvő csendes erdei utakon.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Vemmingbund",
+            "tip": "La o scurtă plimbare cu bicicleta, un loc frumos pentru o pauză pe malul mării.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pădurea Sønderskoven",
+            "tip": "Pedalați pe potecile liniștite ale pădurii la sud de oraș.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vemmingbund Beach",
+            "tip": "A short bike ride away, a beautiful spot for a seaside break.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sønderskoven Forest",
+            "tip": "Cycle through the quiet forest paths south of the city.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Halten Sie außerhalb der Stadt Ausschau nach Hofläden, die frische Produkte verkaufen."
+          },
+          {
+            "name": "Borgen Shoppingcenter",
+            "tip": "Für eine größere Auswahl an Geschäften an einem Ort."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "A városon kívül keresse a friss termékeket árusító farmboltokat."
+          },
+          {
+            "name": "Borgen bevásárlóközpont",
+            "tip": "Ha egy helyen szeretne nagyobb üzletválasztékot találni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor locale",
+            "tip": "Fiți atenți la magazinele fermelor din afara orașului care vând produse proaspete."
+          },
+          {
+            "name": "Centrul comercial Borgen",
+            "tip": "Pentru o selecție mai mare de magazine într-un singur loc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local farm shops",
+            "tip": "Look for farm shops outside the city selling fresh produce."
+          },
+          {
+            "name": "Borgen Shopping Center",
+            "tip": "For a wider selection of shops in one place."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie Wasser und Snacks mit, besonders für die Fahrt auf dem Gendarmstien.",
+          "Achten Sie auf die Windverhältnisse, die an der Küste stark sein können.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Vigyen magával vizet és harapnivalót, különösen a Gendarmstien-útra.",
+          "Figyeljen a szélviszonyokra, amelyek erősek lehetnek a parton.",
+          "A sisak viselése erősen ajánlott."
+        ],
+        "ro": [
+          "Luați apă și gustări, în special pentru plimbarea pe Gendarmstien.",
+          "Fiți atenți la condițiile de vânt, care pot fi puternice pe coastă.",
+          "O cască este puternic recomandată."
+        ],
+        "en": [
+          "Bring water and snacks, especially for the ride on Gendarmstien.",
+          "Be aware of the wind conditions, which can be strong on the coast.",
+          "A helmet is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 19.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Historiecenter Dybbøl Banke",
+            "hu": "Parkoló a Dybbøl Banke Történeti Központnál",
+            "ro": "Parcare la Centrul de Istorie Dybbøl Banke",
+            "en": "Parking at History Centre Dybbøl Banke"
+          },
+          "coords": [
+            9.765,
+            54.905
+          ],
+          "category": "museums",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um den morgendlichen Andrang zu vermeiden. Es gibt reichlich Parkplätze.",
+            "hu": "Kezdje itt, hogy elkerülje a reggeli tömeget. Bőséges parkolóhely áll rendelkezésre.",
+            "ro": "Începeți aici pentru a evita aglomerația de dimineață. Există parcare amplă.",
+            "en": "Start here to avoid the morning crowds. There is ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Düppeler Mühle",
+            "hu": "Dybbøli malom",
+            "ro": "Moara din Dybbøl",
+            "en": "Dybbøl Mill"
+          },
+          "coords": [
+            9.773,
+            54.908
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Geschichtszentrum mit einer unschlagbaren Aussicht.",
+            "hu": "Rövid séta a Történeti Központtól, verhetetlen kilátással.",
+            "ro": "La o scurtă plimbare de la Centrul de Istorie, cu o priveliște de neegalat.",
+            "en": "A short walk from the History Centre with an unbeatable view."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Schloss Sonderburg",
+            "hu": "Parkoló a Sønderborgi kastélynál",
+            "ro": "Parcare la Castelul Sønderborg",
+            "en": "Parking at Sønderborg Castle"
+          },
+          "coords": [
+            9.784,
+            54.906
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den zweiten Teil des Tages. Von hier aus ist die Innenstadt zu Fuß erreichbar.",
+            "hu": "Parkoljon itt a nap második felére. A belváros innen gyalogosan is elérhető.",
+            "ro": "Parcați aici pentru a doua parte a zilei. Centrul orașului este la distanță de mers pe jos.",
+            "en": "Park here for the second cluster of the day. The city center is walkable from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafenpromenade Sønderborg",
+            "hu": "Sønderborgi kikötői sétány",
+            "ro": "Promenada portuară din Sønderborg",
+            "en": "Sønderborg Harbour Promenade"
+          },
+          "coords": [
+            9.7885,
+            54.9085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen oder einen entspannten Spaziergang nach dem Schlossbesuch.",
+            "hu": "Ideális egy ebédhez vagy egy pihentető sétához a kastélylátogatás után.",
+            "ro": "Ideal pentru prânz sau o plimbare relaxantă după vizitarea castelului.",
+            "en": "Perfect for lunch or a relaxing walk after the castle visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Marien-Kirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sfânta Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            9.7922,
+            54.9125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein friedlicher Abschluss des Rundgangs durch die Innenstadt.",
+            "hu": "A belvárosi séta békés lezárása.",
+            "ro": "O încheiere pașnică a turului pe jos prin centrul orașului.",
+            "en": "A peaceful end to the walking tour of the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt am Gendarmstien",
+            "hu": "Kilátópont a Gendarmstien ösvényen",
+            "ro": "Punct de belvedere pe Gendarmstien",
+            "en": "Viewpoint on Gendarmstien"
+          },
+          "coords": [
+            9.83,
+            54.89
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ein kurzes Stück aus der Stadt für einen letzten Panoramablick zum Sonnenuntergang.",
+            "hu": "Vezessen egy rövid szakaszt a városból kifelé egy utolsó, naplementés panorámáért.",
+            "ro": "Conduceți pe o distanță scurtă în afara orașului pentru o ultimă priveliște panoramică la apus.",
+            "en": "Drive a short distance out of town for a final panoramic view at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Sønderborg und Umgebung in Clustern. Sie beginnen den Tag auf den historischen Höhen von Dybbøl, wo die Mühle und das Geschichtszentrum auf Sie warten. Hier können Sie parken und die Gegend zu Fuß erkunden. Am Mittag fahren Sie ins Herz von Sønderborg. Parken Sie in der Nähe des Schlosses und entdecken Sie das majestätische Bauwerk, die lebhafte Hafenpromenade und die ruhige Sankt-Marien-Kirche zu Fuß. Zum Abschluss des Tages fahren Sie zu einem Aussichtspunkt am Gendarmstien, um die Abendsonne über der Förde zu genießen – ein perfekter Abschluss.",
+        "hu": "Autóval klaszterekben fedezheti fel Sønderborgot és környékét. A napot Dybbøl történelmi magaslatain kezdi, ahol a malom és a Történeti Központ várja. Itt leparkolhat, és gyalogosan fedezheti fel a területet. Délben Sønderborg szívébe hajt. Parkoljon a kastély közelében, és fedezze fel gyalog a fenséges épületet, az élénk kikötői sétányt és a csendes Szent Mária-templomot. A nap végén autózzon el a Gendarmstien egyik kilátópontjához, hogy élvezze a fjord feletti esti napsütést – tökéletes befejezés.",
+        "ro": "Cu mașina, explorați Sønderborg și împrejurimile sale în clustere. Începeți ziua pe înălțimile istorice de la Dybbøl, unde vă așteaptă moara și centrul de istorie. Puteți parca aici și explora zona pe jos. La prânz, conduceți spre inima orașului Sønderborg. Parcați lângă castel și descoperiți pe jos structura maiestuoasă, promenada animată a portului și liniștita Biserică Sf. Maria. Pentru a încheia ziua, conduceți spre un punct de belvedere pe Gendarmstien pentru a vă bucura de soarele de seară peste fiord - un final perfect.",
+        "en": "By car, you explore Sønderborg and its surroundings in clusters. You start the day on the historic heights of Dybbøl, where the mill and history center await. You can park here and explore the area on foot. At midday, drive into the heart of Sønderborg. Park near the castle and discover the majestic structure, the lively harbor promenade, and the quiet St. Mary's Church on foot. To end the day, drive to a viewpoint on the Gendarmstien to enjoy the evening sun over the fjord—a perfect conclusion."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Bind",
+            "tip": "Ein mit einem Michelin-Stern ausgezeichnetes Erlebnis etwas außerhalb der Stadt, ideal für ein besonderes Abendessen."
+          },
+          {
+            "name": "Gasthöfe entlang der Küste",
+            "tip": "Viele kleine Gasthöfe (Kro) bieten authentische dänische Küche an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Bind",
+            "tip": "Michelin-csillagos élmény a városon kívül, ideális egy különleges vacsorához."
+          },
+          {
+            "name": "Fogadók a part mentén",
+            "tip": "Sok kis fogadó (Kro) kínál autentikus dán konyhát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Bind",
+            "tip": "O experiență cu stele Michelin chiar în afara orașului, ideală pentru o cină specială."
+          },
+          {
+            "name": "Hanse pe coastă",
+            "tip": "Multe hanuri mici (Kro) oferă bucătărie daneză autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Bind",
+            "tip": "A Michelin-starred experience just outside of town, ideal for a special dinner."
+          },
+          {
+            "name": "Inns along the coast",
+            "tip": "Many small inns (Kro) offer authentic Danish cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Halbinsel Broager",
+            "tip": "Eine kurze Fahrt für ruhige Landschaften und kleine Dörfer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Augustenborg Schloss",
+            "tip": "Fahren Sie zum nahegelegenen Schloss Augustenborg und spazieren Sie durch den Skulpturenpark.",
+            "emoji": "🏛️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Broager-félsziget",
+            "tip": "Rövid autóút a csendes tájakért és kis falvakért."
+          },
+          {
+            "name": "Augustenborg kastély",
+            "tip": "Autózzon el a közeli Augustenborg kastélyhoz, és sétáljon a szoborparkban.",
+            "emoji": "🏛️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peninsula Broager",
+            "tip": "O scurtă călătorie cu mașina pentru peisaje liniștite și sate mici.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Palatul Augustenborg",
+            "tip": "Conduceți până la Palatul Augustenborg din apropiere și plimbați-vă prin parcul de sculpturi.",
+            "emoji": "🏛️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Broager Peninsula",
+            "tip": "A short drive for quiet landscapes and small villages.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Augustenborg Palace",
+            "tip": "Drive to the nearby Augustenborg Palace and stroll through its sculpture park.",
+            "emoji": "🏛️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gråsten Apfel",
+            "tip": "Kaufen Sie Produkte aus der berühmten lokalen Apfelsorte in Hofläden."
+          },
+          {
+            "name": "Keramikwerkstätten",
+            "tip": "In der Region gibt es mehrere Werkstätten, die handgefertigte Keramik verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gråsten alma",
+            "tip": "Vásároljon termékeket a híres helyi almafajtából a termelői boltokban."
+          },
+          {
+            "name": "Kerámia-műhelyek",
+            "tip": "A régióban több műhely is található, ahol kézzel készített kerámiát árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mărul Gråsten",
+            "tip": "Cumpărați produse din faimosul soi local de mere de la magazinele fermelor."
+          },
+          {
+            "name": "Ateliere de ceramică",
+            "tip": "Există mai multe ateliere în regiune care vând ceramică artizanală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gråsten apple",
+            "tip": "Buy products made from the famous local apple variety at farm shops."
+          },
+          {
+            "name": "Ceramics workshops",
+            "tip": "There are several workshops in the region selling handmade ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'Park & Walk'-Cluster, um Parkgebühren zu sparen und die Stadt besser zu erleben.",
+          "Ein Navigationsgerät ist hilfreich, um die ländlichen Straßen zu den Aussichtspunkten zu finden.",
+          "Beachten Sie die Parkzonen und -zeiten in der Innenstadt."
+        ],
+        "hu": [
+          "Használja a „Parkolj és Sétálj” klasztereket, hogy parkolási díjat takarítson meg, és jobban átélje a várost.",
+          "A navigációs eszköz hasznos a kilátópontokhoz vezető vidéki utak megtalálásához.",
+          "Vegye figyelembe a belvárosi parkolási zónákat és időket."
+        ],
+        "ro": [
+          "Folosiți clusterele 'Park & Walk' pentru a economisi la taxele de parcare și pentru a experimenta mai bine orașul.",
+          "Un sistem de navigație este util pentru a găsi drumurile rurale către punctele de belvedere.",
+          "Fiți atenți la zonele și orele de parcare din centrul orașului."
+        ],
+        "en": [
+          "Use the 'Park & Walk' clusters to save on parking fees and experience the city better.",
+          "A GPS is helpful for finding the rural roads to the viewpoints.",
+          "Be mindful of parking zones and times in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Sønderborg",
+            "hu": "Sønderborg buszpályaudvar",
+            "ro": "Autogara Sønderborg",
+            "en": "Sønderborg Bus Station"
+          },
+          "coords": [
+            9.79,
+            54.915
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten im Stadtgebiet.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz a város területén.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate în zona urbană.",
+            "en": "Buy a day ticket for unlimited travel within the city area."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Historiecenter Dybbøl Banke",
+            "hu": "Dybbøl Banke Történeti Központ megálló",
+            "ro": "Stația Centrul de Istorie Dybbøl Banke",
+            "en": "History Centre Dybbøl Banke Stop"
+          },
+          "coords": [
+            9.767,
+            54.904
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bus hält direkt vor dem Eingang. Sehr bequem.",
+            "hu": "A busz közvetlenül a bejárat előtt áll meg. Nagyon kényelmes.",
+            "ro": "Autobuzul oprește chiar în fața intrării. Foarte convenabil.",
+            "en": "The bus stops right in front of the entrance. Very convenient."
+          }
+        },
+        {
+          "name": {
+            "de": "Düppeler Mühle",
+            "hu": "Dybbøli malom",
+            "ro": "Moara din Dybbøl",
+            "en": "Dybbøl Mill"
+          },
+          "coords": [
+            9.773,
+            54.908
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, lohnender Spaziergang bergauf vom Geschichtszentrum.",
+            "hu": "Rövid, de megérő séta felfelé a Történeti Központtól.",
+            "ro": "O scurtă plimbare plină de satisfacții la deal de la Centrul de Istorie.",
+            "en": "A short, rewarding uphill walk from the History Centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Schloss Sonderburg",
+            "hu": "Sønderborgi kastély megálló",
+            "ro": "Stația Castelul Sønderborg",
+            "en": "Sønderborg Castle Stop"
+          },
+          "coords": [
+            9.784,
+            54.908
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus, um den zweiten Stadtteil zu erkunden.",
+            "hu": "Szálljon le itt a második városrész felfedezéséhez.",
+            "ro": "Coborâți aici pentru a explora al doilea cluster al orașului.",
+            "en": "Get off here to explore the second city cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafenpromenade Sønderborg",
+            "hu": "Sønderborgi kikötői sétány",
+            "ro": "Promenada portuară din Sønderborg",
+            "en": "Sønderborg Harbour Promenade"
+          },
+          "coords": [
+            9.7885,
+            54.9085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:36",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Schloss aus ist es nur ein kurzer Spaziergang zum Wasser.",
+            "hu": "A kastélytól csak egy rövid séta a vízpart.",
+            "ro": "De la castel este doar o scurtă plimbare până la malul apei.",
+            "en": "It's just a short walk from the castle to the waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Marien-Kirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sfânta Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            9.7922,
+            54.9125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt auf Ihrem Stadtrundgang, bevor Sie zum Busbahnhof zurückkehren.",
+            "hu": "Az utolsó megálló a városi sétán, mielőtt visszatérne a buszpályaudvarra.",
+            "ro": "Ultima oprire din turul dumneavoastră pietonal înainte de a vă întoarce la autogară.",
+            "en": "The last stop on your city walk before heading back to the bus station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erleben Sie Sønderborgs Highlights entspannt und effizient. Ihr Tag beginnt mit einer Busfahrt zu den historischen Stätten von Dybbøl, wo Sie in die Vergangenheit eintauchen. Nach einem kurzen Spaziergang zur berühmten Mühle fahren Sie zurück ins Zentrum. Dort erwartet Sie der zweite Teil Ihrer Erkundung: ein Spaziergang vom imposanten Schloss Sønderborg zur lebhaften Hafenpromenade, ideal für eine Mittagspause. Der Tag endet mit einem Besuch der ehrwürdigen Sankt-Marien-Kirche, bevor Sie bequem mit dem Bus zurückkehren.",
+        "hu": "A tömegközlekedéssel nyugodtan és hatékonyan fedezheti fel Sønderborg legfontosabb látnivalóit. A nap egy buszúttal kezdődik Dybbøl történelmi helyszíneire, ahol elmerülhet a múltban. Egy rövid séta után a híres malomhoz, visszautazik a központba. Itt várja a felfedezés második része: egy séta az impozáns Sønderborgi kastélytól az élénk kikötői sétányig, amely ideális egy ebédszünetre. A nap a tiszteletreméltó Szent Mária-templom meglátogatásával zárul, mielőtt kényelmesen visszatérne busszal.",
+        "ro": "Folosind transportul public, veți experimenta atracțiile din Sønderborg într-un mod relaxat și eficient. Ziua începe cu o călătorie cu autobuzul către siturile istorice de la Dybbøl, unde vă veți cufunda în trecut. După o scurtă plimbare până la faimoasa moară, vă întoarceți în centru. Acolo vă așteaptă a doua parte a explorării: o plimbare de la impunătorul Castel Sønderborg la promenada animată a portului, ideală pentru o pauză de prânz. Ziua se încheie cu o vizită la venerabila Biserică Sfânta Maria, înainte de a vă întoarce confortabil cu autobuzul.",
+        "en": "Using public transport, you'll experience Sønderborg's highlights in a relaxed and efficient way. Your day begins with a bus ride to the historic sites of Dybbøl, where you'll immerse yourself in the past. After a short walk to the famous mill, you'll travel back to the center. There, the second part of your exploration awaits: a walk from the imposing Sønderborg Castle to the lively harbor promenade, ideal for a lunch break. The day ends with a visit to the venerable St. Mary's Church before you comfortably return by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølsevogn",
+            "tip": "Probieren Sie einen klassischen dänischen Hotdog von einem der Wagen in der Stadt."
+          },
+          {
+            "name": "Bäckereien",
+            "tip": "Holen Sie sich ein Wienerbrød (dänisches Gebäck) zum Frühstück oder als Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølsevogn",
+            "tip": "Kóstoljon meg egy klasszikus dán hot dogot a város egyik standjánál."
+          },
+          {
+            "name": "Pékségek",
+            "tip": "Vegyen egy Wienerbrød-t (dán péksüteményt) reggelire vagy uzsonnára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølsevogn",
+            "tip": "Încercați un hotdog danez clasic de la una dintre tarabele din oraș."
+          },
+          {
+            "name": "Brutării",
+            "tip": "Luați un Wienerbrød (produs de patiserie danez) la micul dejun sau ca gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølsevogn",
+            "tip": "Try a classic Danish hot dog from one of the stands in the city."
+          },
+          {
+            "name": "Bakeries",
+            "tip": "Grab a Wienerbrød (Danish pastry) for breakfast or a snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bibliothek im Alsion",
+            "tip": "Ein moderner, ruhiger Ort mit Blick auf das Wasser.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kirchhof der Sankt-Marien-Kirche",
+            "tip": "Ein friedlicher Ort im Herzen der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könyvtár az Alsionban",
+            "tip": "Modern, csendes hely, kilátással a vízre."
+          },
+          {
+            "name": "A Szent Mária-templom temetője",
+            "tip": "Békés hely a város szívében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca din Alsion",
+            "tip": "Un loc modern și liniștit cu vedere la apă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cimitirul Bisericii Sfânta Maria",
+            "tip": "Un loc pașnic în inima orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Library in Alsion",
+            "tip": "A modern, quiet place with a view of the water.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "St. Mary's Churchyard",
+            "tip": "A peaceful spot in the heart of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Borgen Shoppingcenter",
+            "tip": "In der Nähe des Busbahnhofs gelegen, praktisch für einen schnellen Einkauf."
+          },
+          {
+            "name": "Museumsshop im Schloss",
+            "tip": "Finden Sie einzigartige Souvenirs mit Bezug zur Geschichte der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borgen bevásárlóközpont",
+            "tip": "A buszpályaudvar közelében található, praktikus egy gyors bevásárláshoz."
+          },
+          {
+            "name": "Múzeumbolt a kastélyban",
+            "tip": "Találjon egyedi, a régió történelméhez kapcsolódó ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Borgen",
+            "tip": "Situat lângă autogară, convenabil pentru cumpărături rapide."
+          },
+          {
+            "name": "Magazinul muzeului de la castel",
+            "tip": "Găsiți suveniruri unice legate de istoria regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Borgen Shopping Center",
+            "tip": "Located near the bus station, convenient for some quick shopping."
+          },
+          {
+            "name": "Museum shop at the castle",
+            "tip": "Find unique souvenirs related to the region's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die App des lokalen Verkehrsunternehmens herunter, um Fahrpläne und Tickets zu verwalten.",
+          "Beachten Sie, dass die Busse am Wochenende möglicherweise seltener fahren.",
+          "Einige Linien fahren direkt zu den wichtigsten Sehenswürdigkeiten, was die Planung erleichtert."
+        ],
+        "hu": [
+          "Töltse le a helyi közlekedési vállalat alkalmazását a menetrendek és jegyek kezeléséhez.",
+          "Vegye figyelembe, hogy a buszok hétvégén ritkábban közlekedhetnek.",
+          "Néhány járat közvetlenül a főbb látnivalókhoz visz, ami megkönnyíti a tervezést."
+        ],
+        "ro": [
+          "Descărcați aplicația companiei locale de transport pentru a gestiona orarele și biletele.",
+          "Rețineți că autobuzele pot circula mai rar în weekend.",
+          "Unele rute merg direct la principalele atracții, ceea ce facilitează planificarea."
+        ],
+        "en": [
+          "Download the local transport company's app to manage schedules and tickets.",
+          "Note that buses may run less frequently on weekends.",
+          "Some routes go directly to the main attractions, which makes planning easier."
+        ]
+      }
+    }
+  }
+}

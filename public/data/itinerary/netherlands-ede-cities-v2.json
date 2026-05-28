@@ -1,0 +1,1353 @@
+{
+  "city_id": "netherlands-ede-cities-v2",
+  "anchor": {
+    "name": "Ede",
+    "coords": [
+      5.6666,
+      52.0333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Ede-Wageningen",
+            "hu": "Ede-Wageningen vasútállomás",
+            "ro": "Gara Ede-Wageningen",
+            "en": "Ede-Wageningen Station"
+          },
+          "coords": [
+            5.6665,
+            52.0288
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die moderne niederländische Bahnhofsarchitektur.",
+            "hu": "Figyelje meg a modern holland állomásépítészetet.",
+            "ro": "Observați arhitectura modernă a gării olandeze.",
+            "en": "Observe the modern Dutch station architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Cultura Ede",
+            "hu": "Cultura Ede",
+            "ro": "Cultura Ede",
+            "en": "Cultura Ede"
+          },
+          "coords": [
+            5.6698,
+            52.0435
+          ],
+          "category": "cultural centres",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Veranstaltungskalender für eventuelle Tagesausstellungen.",
+            "hu": "Nézze meg az eseménynaptárat a napközbeni kiállításokért.",
+            "ro": "Verificați calendarul de evenimente pentru expoziții de zi.",
+            "en": "Check the event calendar for any daytime exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Oude Kerk",
+            "hu": "Oude Kerk (Régi templom)",
+            "ro": "Oude Kerk (Biserica Veche)",
+            "en": "Oude Kerk (Old Church)"
+          },
+          "coords": [
+            5.6671,
+            52.0452
+          ],
+          "category": "churches",
+          "arrive_at": "10:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Akustik und die gotische Architektur.",
+            "hu": "Csodálja meg a lenyűgöző akusztikát és a gótikus építészetet.",
+            "ro": "Admirați acustica impresionantă și arhitectura gotică.",
+            "en": "Admire the impressive acoustics and Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            5.6685,
+            52.0448
+          ],
+          "category": "gastro",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie ein 'Uitsmijter' für ein typisch niederländisches Mittagessen.",
+            "hu": "Kóstoljon meg egy „Uitsmijter”-t egy tipikus holland ebédhez.",
+            "ro": "Încercați un 'Uitsmijter' pentru un prânz tipic olandez.",
+            "en": "Try an 'Uitsmijter' for a typical Dutch lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Concordia Mühle",
+            "hu": "Concordia szélmalom",
+            "ro": "Moara Concordia",
+            "en": "Concordia Mill"
+          },
+          "coords": [
+            5.672,
+            52.048
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Fotopunkt, besonders am Nachmittag.",
+            "hu": "Nagyszerű fotóhelyszín, különösen délután.",
+            "ro": "Un loc excelent pentru fotografii, mai ales după-amiaza.",
+            "en": "A great photo spot, especially in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Doesburgermolen",
+            "hu": "Doesburgermolen szélmalom",
+            "ro": "Moara Doesburgermolen",
+            "en": "Doesburgermolen"
+          },
+          "coords": [
+            5.69,
+            52.0495
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Geschichte der Getreidemüllerei in der Region.",
+            "hu": "Ismerje meg a régió gabonamalom-történetét.",
+            "ro": "Aflați despre istoria morăritului de cereale din regiune.",
+            "en": "Learn about the history of grain milling in the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Bahnhof Ede-Wageningen und spazieren Sie ins Herz der Stadt. Der Morgen ist dem kulturellen Zentrum und der historischen Oude Kerk gewidmet. Nach einem gemütlichen niederländischen Mittagessen erkunden Sie das industrielle Erbe von Ede, indem Sie zu den Windmühlen Concordia und Doesburgermolen spazieren. Der Nachmittag bietet Einblicke in die traditionelle Handwerkskunst. Beenden Sie Ihren Tag mit einem entspannten Spaziergang zurück ins Zentrum, um lokale Geschäfte zu durchstöbern.",
+        "hu": "Kezdje a napot az Ede-Wageningen állomáson, és sétáljon be a város szívébe. A délelőtt a kulturális központnak és a történelmi Oude Kerknek van szentelve. Egy kellemes holland ebéd után fedezze fel Ede ipari örökségét a Concordia és Doesburgermolen szélmalmokhoz sétálva. A délután betekintést nyújt a hagyományos kézművességbe. Zárja a napot egy laza sétával vissza a központba, ahol helyi boltokat nézegethet.",
+        "ro": "Începeți ziua la gara Ede-Wageningen și plimbați-vă în inima orașului. Dimineața este dedicată centrului cultural și istoricei Oude Kerk. După un prânz olandez relaxat, explorați patrimoniul industrial din Ede, plimbându-vă la morile de vânt Concordia și Doesburgermolen. După-amiaza oferă perspective asupra meșteșugurilor tradiționale. Încheiați ziua cu o plimbare relaxată înapoi în centru pentru a răsfoi magazinele locale.",
+        "en": "Start your day at Ede-Wageningen station and stroll into the heart of the city. The morning is dedicated to the cultural hub and the historic Oude Kerk. After a leisurely Dutch lunch, explore Ede's industrial heritage by walking to the Concordia and Doesburgermolen windmills. The afternoon offers insights into traditional craftsmanship. End your day with a relaxed walk back to the center to browse local shops."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Frisch auf dem Markt zubereitet, ein Muss."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kleine, flauschige Pfannkuchen, oft mit Puderzucker serviert."
+          },
+          {
+            "name": "Gelderse Rookworst",
+            "tip": "Eine lokale geräucherte Wurst, herzhaft und schmackhaft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Frissen a piacon, kötelező megkóstolni."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kicsi, pelyhes palacsinták, gyakran porcukorral."
+          },
+          {
+            "name": "Gelderse Rookworst",
+            "tip": "Helyi füstölt kolbász, kiadós és ízletes."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Proaspăt făcute la piață, o delicatesă obligatorie."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Clătite mici și pufoase, adesea servite cu zahăr pudră."
+          },
+          {
+            "name": "Gelderse Rookworst",
+            "tip": "Un cârnat afumat local, consistent și gustos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Freshly made at the market, a must-try treat."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Small, fluffy pancakes, often served with powdered sugar."
+          },
+          {
+            "name": "Gelderse Rookworst",
+            "tip": "A local smoked sausage, hearty and flavorful."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkbank bei der Oude Kerk",
+            "tip": "Eine ruhige Ecke, um die Architektur zu bewundern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang des Mühlengrabens",
+            "tip": "Friedlicher Weg am Rande der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad az Oude Kerk közelében",
+            "tip": "Csendes sarok az építészet csodálatára.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a malomárok mentén",
+            "tip": "Békés ösvény a város szélén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă lângă Oude Kerk",
+            "tip": "Un colț liniștit pentru a admira arhitectura.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul canalului morii",
+            "tip": "O potecă pașnică la marginea orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bench near the Oude Kerk",
+            "tip": "A quiet corner to admire the architecture.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the mill ditch",
+            "tip": "Peaceful path on the edge of town.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Finden Sie lokale Produkte und Käse auf dem zentralen Platz."
+          },
+          {
+            "name": "Geschäfte in der Grotestraat",
+            "tip": "Eine Mischung aus lokalen Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Találjon helyi termékeket és sajtot a főtéren."
+          },
+          {
+            "name": "Boltok a Grotestraaton",
+            "tip": "Helyi butikok és ismert márkák keveréke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Găsiți produse locale și brânzeturi în piața centrală."
+          },
+          {
+            "name": "Magazine pe Grotestraat",
+            "tip": "Un amestec de buticuri locale și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Find local produce and cheese in the main square."
+          },
+          {
+            "name": "Shops on Grotestraat",
+            "tip": "A mix of local boutiques and familiar brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie mehrere Kilometer laufen werden.",
+          "Prüfen Sie die Öffnungszeiten der Mühlen, da diese variieren können.",
+          "Ein Regenschirm ist in den Niederlanden immer eine gute Idee."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel több kilométert fog gyalogolni.",
+          "Ellenőrizze a malmok nyitvatartási idejét, mert változhat.",
+          "Egy esernyő mindig jó ötlet Hollandiában."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge câțiva kilometri.",
+          "Verificați orele de funcționare ale morilor, deoarece acestea pot varia.",
+          "O umbrelă este întotdeauna o idee bună în Olanda."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking several kilometers.",
+          "Check the opening hours for the mills as they can be variable.",
+          "An umbrella is always a good idea in the Netherlands."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 25.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih im Zentrum von Ede",
+            "hu": "Kerékpárkölcsönző Ede központjában",
+            "ro": "Închiriere de biciclete în centrul Ede",
+            "en": "Bike Rental in Ede Center"
+          },
+          "coords": [
+            5.668,
+            52.044
+          ],
+          "category": "shopping",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wählen Sie ein robustes Stadtfahrrad oder ein E-Bike für mehr Komfort.",
+            "hu": "Válasszon egy erős városi kerékpárt vagy e-biciklit a nagyobb kényelemért.",
+            "ro": "Alegeți o bicicletă de oraș robustă sau o bicicletă electrică pentru mai mult confort.",
+            "en": "Choose a sturdy city bike or an e-bike for extra comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Oude Kerk",
+            "hu": "Oude Kerk (Régi templom)",
+            "ro": "Oude Kerk (Biserica Veche)",
+            "en": "Oude Kerk (Old Church)"
+          },
+          "coords": [
+            5.6671,
+            52.0452
+          ],
+          "category": "churches",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belépne a templomba.",
+            "ro": "Încuiați-vă bicicleta în siguranță înainte de a intra în biserică.",
+            "en": "Lock your bike securely before entering the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Ginkelse Heide",
+            "hu": "Ginkelse Heide (puszta)",
+            "ro": "Ginkelse Heide (câmpie)",
+            "en": "Ginkelse Heide (Heathland)"
+          },
+          "coords": [
+            5.728,
+            52.038
+          ],
+          "category": "monuments",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Halten Sie Ausschau nach der Schafherde und dem Airborne-Denkmal.",
+            "hu": "Keresse a juhnyájat és az Airborne emlékművet.",
+            "ro": "Căutați turma de oi și monumentul Airborne.",
+            "en": "Look out for the flock of sheep and the Airborne monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause in einem 'Pannekoekenhuis'",
+            "hu": "Ebédszünet egy 'Pannekoekenhuis'-ban",
+            "ro": "Pauză de prânz la un 'Pannekoekenhuis'",
+            "en": "Lunch Break at a 'Pannekoekenhuis'"
+          },
+          "coords": [
+            5.7305,
+            52.0395
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie einen herzhaften Pfannkuchen mit Speck und Apfel.",
+            "hu": "Kóstolja meg a sós palacsintát szalonnával és almával.",
+            "ro": "Încercați o clătită sărată cu șuncă și măr.",
+            "en": "Try a savory pancake with bacon and apple."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalpark Hoge Veluwe (Eingang Otterlo)",
+            "hu": "Hoge Veluwe Nemzeti Park (Otterlo bejárat)",
+            "ro": "Parcul Național Hoge Veluwe (Intrarea Otterlo)",
+            "en": "Hoge Veluwe National Park (Otterlo Entrance)"
+          },
+          "coords": [
+            5.82,
+            52.096
+          ],
+          "category": "parks",
+          "arrive_at": "14:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 18.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die kostenlosen weißen Fahrräder, um den Park zu erkunden.",
+            "hu": "Használja az ingyenes fehér kerékpárokat a park felfedezéséhez.",
+            "ro": "Folosiți bicicletele albe gratuite pentru a explora parcul.",
+            "en": "Use the free white bikes to explore inside the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag in Ede mit der Anmietung eines Fahrrads und einer kurzen Fahrt zur Oude Kerk. Von dort aus radeln Sie nach Osten zur weiten Ginkelse Heide, einem Ort von natürlicher Schönheit und historischer Bedeutung. Genießen Sie ein traditionelles Pfannkuchen-Mittagessen in der Nähe, bevor Sie die längere, aber lohnende Fahrt zum Nationalpark Hoge Veluwe unternehmen. Verbringen Sie den Rest des Nachmittags damit, die vielfältigen Landschaften des Parks zu erkunden. Radeln Sie am späten Nachmittag zurück nach Ede.",
+        "hu": "Kezdje a napot Ede-ben egy kerékpár bérlésével és egy rövid tekeréssel az Oude Kerkhez. Innen kelet felé vegye az irányt a hatalmas Ginkelse Heide felé, amely természeti szépségéről és történelmi jelentőségéről ismert. Ebédeljen egy hagyományos palacsintázóban, mielőtt nekivágna a hosszabb, de annál kifizetődőbb útnak a Hoge Veluwe Nemzeti Parkba. Töltse a délután hátralévő részét a park változatos tájainak felfedezésével. Késő délután tekerjen vissza Ede-be.",
+        "ro": "Începeți ziua în Ede închiriind o bicicletă și făcând o scurtă plimbare până la Oude Kerk. De acolo, mergeți spre est, spre întinsa Ginkelse Heide, un loc de o frumusețe naturală și o importanță istorică. Bucurați-vă de un prânz tradițional cu clătite în apropiere, înainte de a porni în călătoria mai lungă, dar plină de satisfacții, spre Parcul Național Hoge Veluwe. Petreceți restul după-amiezii explorând peisajele diverse ale parcului. Întoarceți-vă cu bicicleta în Ede după-amiaza târziu.",
+        "en": "Kick off your day in Ede by renting a bike and taking a short ride to the Oude Kerk. From there, pedal east to the vast Ginkelse Heide, a place of natural beauty and historical significance. Enjoy a traditional pancake lunch nearby before embarking on the longer but rewarding journey to the Hoge Veluwe National Park. Spend the rest of the afternoon exploring the park's diverse landscapes. Cycle back to Ede in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pannekoeken",
+            "tip": "Herzhaft oder süß, die perfekte Mahlzeit für Radfahrer."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Holländischer Apfelkuchen mit einem Kaffee zur Stärkung."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Fragen Sie nach einem Bier aus der Region Gelderland."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pannekoeken",
+            "tip": "Sós vagy édes, a tökéletes étel kerékpárosoknak."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Holland almatorta egy kávéval az energiáért."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kérjen egy Gelderland régióbeli sört."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pannekoeken",
+            "tip": "Sărate sau dulci, masa perfectă pentru cicliști."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Plăcintă de mere olandeză cu o cafea pentru un plus de energie."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Cereți o bere din regiunea Gelderland."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pannekoeken",
+            "tip": "Savory or sweet, the perfect cyclist's meal."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Dutch apple pie with a coffee for an energy boost."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Ask for a beer from the Gelderland region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mitten in der Ginkelse Heide",
+            "tip": "Hören Sie nur den Wind und die Vögel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Skulpturengarten des Kröller-Müller Museums",
+            "tip": "Kunst und Natur in perfekter Harmonie.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang über der Heide",
+            "tip": "Ein magischer Anblick am Ende des Tages.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Ginkelse Heide közepén",
+            "tip": "Csak a szél és a madarak hangját hallani.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Kröller-Müller Múzeum szoborparkja",
+            "tip": "Művészet és természet tökéletes harmóniában.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a puszta felett",
+            "tip": "Varázslatos látvány a nap végén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "În mijlocul Ginkelse Heide",
+            "tip": "Ascultați doar vântul și păsările.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina de sculpturi a Muzeului Kröller-Müller",
+            "tip": "Artă și natură în armonie perfectă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare peste câmpie",
+            "tip": "O priveliște magică la sfârșitul zilei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Middle of the Ginkelse Heide",
+            "tip": "Listen to nothing but the wind and birds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kröller-Müller Museum Sculpture Garden",
+            "tip": "Art and nature in perfect harmony.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset over the heath",
+            "tip": "A magical sight at the end of the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop Kröller-Müller",
+            "tip": "Hochwertige Kunstbücher und Designartikel."
+          },
+          {
+            "name": "Fahrradkarten",
+            "tip": "Kaufen Sie eine detaillierte Karte für zukünftige Touren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kröller-Müller Múzeumi Bolt",
+            "tip": "Magas minőségű művészeti könyvek és design termékek."
+          },
+          {
+            "name": "Kerékpáros térképek",
+            "tip": "Vásároljon egy részletes térképet a jövőbeli túrákhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului Kröller-Müller",
+            "tip": "Cărți de artă de înaltă calitate și articole de design."
+          },
+          {
+            "name": "Hărți pentru ciclism",
+            "tip": "Cumpărați o hartă detaliată pentru tururi viitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kröller-Müller Museum Shop",
+            "tip": "High-quality art books and design items."
+          },
+          {
+            "name": "Cycling Maps",
+            "tip": "Buy a detailed map for future tours."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Niederlande sind flach, aber der Wind kann ein Faktor sein.",
+          "Viele Wege im Nationalpark sind sandig, also seien Sie vorbereitet.",
+          "Nehmen Sie viel Wasser mit, besonders für die Fahrt zur Hoge Veluwe.",
+          "Respektieren Sie die Fahrradwege und signalisieren Sie Ihre Absichten."
+        ],
+        "hu": [
+          "Hollandia sík, de a szél tényező lehet.",
+          "A nemzeti parkban sok ösvény homokos, készüljön fel.",
+          "Vigyen magával sok vizet, különösen a Hoge Veluwe felé vezető útra.",
+          "Tartsa tiszteletben a kerékpárutakat és jelezze szándékait."
+        ],
+        "ro": [
+          "Olanda este plată, dar vântul poate fi un factor.",
+          "Multe poteci din parcul național sunt nisipoase, așa că fiți pregătiți.",
+          "Luați multă apă, mai ales pentru drumul spre Hoge Veluwe.",
+          "Respectați pistele de biciclete și semnalizați-vă intențiile."
+        ],
+        "en": [
+          "The Netherlands is flat, but the wind can be a factor.",
+          "Many paths in the national park are sandy, so be prepared.",
+          "Bring plenty of water, especially for the ride to Hoge Veluwe.",
+          "Respect the bike lanes and signal your intentions."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 42.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Nationalpark Hoge Veluwe",
+            "hu": "Parkoló a Hoge Veluwe Nemzeti Parknál",
+            "ro": "Parcare la Parcul Național Hoge Veluwe",
+            "en": "Parking at Hoge Veluwe National Park"
+          },
+          "coords": [
+            5.815,
+            52.095
+          ],
+          "category": "parks",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kommen Sie früh, um einen guten Parkplatz zu bekommen und den Tag zu beginnen.",
+            "hu": "Érkezzen korán, hogy jó parkolóhelyet találjon és elkezdhesse a napot.",
+            "ro": "Ajungeți devreme pentru a obține un loc bun de parcare și pentru a începe ziua.",
+            "en": "Arrive early to get a good parking spot and start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kröller-Müller Museum",
+            "hu": "Kröller-Müller Múzeum",
+            "ro": "Muzeul Kröller-Müller",
+            "en": "Kröller-Müller Museum"
+          },
+          "coords": [
+            5.8159,
+            52.0952
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 150,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den Skulpturengarten, er ist riesig und wunderschön.",
+            "hu": "Ne hagyja ki a szoborparkot, hatalmas és gyönyörű.",
+            "ro": "Nu ratați grădina de sculpturi, este vastă și frumoasă.",
+            "en": "Don't miss the sculpture garden; it's vast and beautiful."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Parkrestaurant",
+            "hu": "Ebéd a park éttermében",
+            "ro": "Prânz la restaurantul din parc",
+            "en": "Lunch at the Park Restaurant"
+          },
+          "coords": [
+            5.8165,
+            52.0945
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht, während Sie sich für die nächste Etappe stärken.",
+            "hu": "Élvezze a kilátást, miközben erőt gyűjt a következő szakaszhoz.",
+            "ro": "Bucurați-vă de priveliște în timp ce vă reîncărcați pentru următoarea etapă.",
+            "en": "Enjoy the views while you refuel for the next leg."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumpark Harskamp",
+            "hu": "Harskamp Múzeumpark",
+            "ro": "Parcul Muzeal Harskamp",
+            "en": "Museumpark Harskamp"
+          },
+          "coords": [
+            5.755,
+            52.125
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in die niederländische Militärgeschichte.",
+            "hu": "Lenyűgöző betekintés a holland hadtörténelembe.",
+            "ro": "O perspectivă fascinantă asupra istoriei militare olandeze.",
+            "en": "A fascinating look into Dutch military history."
+          }
+        },
+        {
+          "name": {
+            "de": "Ginkelse Heide Denkmal",
+            "hu": "Ginkelse Heide emlékmű",
+            "ro": "Monumentul Ginkelse Heide",
+            "en": "Ginkelse Heide Monument"
+          },
+          "coords": [
+            5.728,
+            52.038
+          ],
+          "category": "monuments",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein bewegender Ort, der an die Operation Market Garden erinnert.",
+            "hu": "Megindító hely, amely a Market Garden hadműveletre emlékeztet.",
+            "ro": "Un loc emoționant care comemorează Operațiunea Market Garden.",
+            "en": "A poignant spot commemorating Operation Market Garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Zentrum von Ede",
+            "hu": "Vacsora Ede központjában",
+            "ro": "Cină în centrul orașului Ede",
+            "en": "Dinner in Ede Center"
+          },
+          "coords": [
+            5.6685,
+            52.0448
+          ],
+          "category": "gastro",
+          "arrive_at": "17:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie am Stadtrand und spazieren Sie zum Restaurant Ihrer Wahl.",
+            "hu": "Parkoljon a város szélén, és sétáljon el a választott étteremhez.",
+            "ro": "Parcați la marginea orașului și mergeți pe jos până la restaurantul ales.",
+            "en": "Park on the outskirts and walk to your restaurant of choice."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Autotag maximiert Ihre Reichweite. Beginnen Sie mit der Fahrt zum Nationalpark Hoge Veluwe. Parken Sie Ihr Auto und verbringen Sie den Morgen damit, das weltberühmte Kröller-Müller Museum und seinen Skulpturengarten zu Fuß zu erkunden. Nach dem Mittagessen im Park fahren Sie zum Museumpark Harskamp für eine Dosis Militärgeschichte. Am späten Nachmittag fahren Sie zur Ginkelse Heide, um am Airborne-Denkmal innezuhalten. Schließlich parken Sie im Zentrum von Ede für einen entspannten Abend und ein wohlverdientes Abendessen.",
+        "hu": "Ez az autós nap maximalizálja a hatótávolságot. Kezdje az utat a Hoge Veluwe Nemzeti Parkba. Parkolja le az autót, és töltse a délelőttöt a világhírű Kröller-Müller Múzeum és szoborparkjának gyalogos felfedezésével. A parkban elfogyasztott ebéd után vezessen a Harskamp Múzeumparkba egy adag hadtörténelemért. Késő délután hajtson a Ginkelse Heide-hez, hogy tisztelegjen az Airborne emlékműnél. Végül parkoljon le Ede központjában egy pihentető estéért és egy megérdemelt vacsoráért.",
+        "ro": "Această zi cu mașina maximizează raza de acțiune. Începeți prin a conduce la Parcul Național Hoge Veluwe. Parcați mașina și petreceți dimineața explorând pe jos renumitul Muzeu Kröller-Müller și grădina sa de sculpturi. După prânzul în parc, conduceți la Museumpark Harskamp pentru o doză de istorie militară. Spre sfârșitul după-amiezii, mergeți la Ginkelse Heide pentru a reflecta la monumentul Airborne. În cele din urmă, parcați în centrul orașului Ede pentru o seară relaxantă și o cină binemeritată.",
+        "en": "This car-based day maximizes your range. Start by driving to the Hoge Veluwe National Park. Park your car and spend the morning exploring the world-renowned Kröller-Müller Museum and its sculpture garden on foot. After lunch within the park, drive to Museumpark Harskamp for a dose of military history. In the late afternoon, drive to the Ginkelse Heide to reflect at the Airborne monument. Finally, park in Ede's center for a relaxing evening and a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant in Hoge Veluwe",
+            "tip": "Bietet oft Gerichte mit Zutaten aus der Region an."
+          },
+          {
+            "name": "Stamppot",
+            "tip": "Ein traditionelles holländisches Gericht, perfekt nach einem langen Tag."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Gebratene Fischstücke, an vielen Imbissständen erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Hoge Veluwe-ben",
+            "tip": "Gyakran kínál helyi alapanyagokból készült ételeket."
+          },
+          {
+            "name": "Stamppot",
+            "tip": "Hagyományos holland étel, tökéletes egy hosszú nap után."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Sült haldarabok, sok büfében kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în Hoge Veluwe",
+            "tip": "Adesea oferă preparate cu ingrediente din surse locale."
+          },
+          {
+            "name": "Stamppot",
+            "tip": "Un fel de mâncare tradițional olandez, perfect după o zi lungă."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Bucăți de pește prăjit, disponibile la multe standuri de mâncare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hoge Veluwe Restaurant",
+            "tip": "Often features dishes with locally sourced ingredients."
+          },
+          {
+            "name": "Stamppot",
+            "tip": "A traditional Dutch mash pot, perfect after a long day."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Battered and fried fish chunks, available at many food stands."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jachthuis Sint Hubertus",
+            "tip": "Ein ruhiger Spaziergang um das von Berlage entworfene Jagdschloss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sandverwehungen in der Hoge Veluwe",
+            "tip": "Eine einzigartige, fast wüstenähnliche Landschaft.",
+            "emoji": "🏜️"
+          },
+          {
+            "name": "Gedenkbank in Ginkelse Heide",
+            "tip": "Ein Ort der stillen Reflexion.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jachthuis Sint Hubertus",
+            "tip": "Csendes séta a Berlage által tervezett vadászkastély körül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Homokdűnék a Hoge Veluwe-ben",
+            "tip": "Egyedi, szinte sivatagszerű táj.",
+            "emoji": "🏜️"
+          },
+          {
+            "name": "Emlékpad a Ginkelse Heide-n",
+            "tip": "A csendes elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jachthuis Sint Hubertus",
+            "tip": "O plimbare liniștită în jurul cabanei de vânătoare proiectate de Berlage.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dune de nisip în Hoge Veluwe",
+            "tip": "Un peisaj unic, aproape deșertic.",
+            "emoji": "🏜️"
+          },
+          {
+            "name": "Banca comemorativă din Ginkelse Heide",
+            "tip": "Un loc de reflecție tăcută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jachthuis Sint Hubertus",
+            "tip": "A quiet walk around the hunting lodge designed by Berlage.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sand drifts in the Hoge Veluwe",
+            "tip": "A unique, almost desert-like landscape.",
+            "emoji": "🏜️"
+          },
+          {
+            "name": "Memorial bench on Ginkelse Heide",
+            "tip": "A place for quiet reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Van Gogh Souvenirs",
+            "tip": "Im Kröller-Müller Museum, das die zweitgrößte Sammlung besitzt."
+          },
+          {
+            "name": "Heidehonig",
+            "tip": "Ein lokaler Honig, der von den Heidelandschaften stammt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Van Gogh ajándéktárgyak",
+            "tip": "A Kröller-Müller Múzeumban, amely a második legnagyobb gyűjteménnyel rendelkezik."
+          },
+          {
+            "name": "Heide méz",
+            "tip": "Helyi méz a pusztaságról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Van Gogh",
+            "tip": "La Muzeul Kröller-Müller, care are a doua cea mai mare colecție."
+          },
+          {
+            "name": "Miere de câmpie",
+            "tip": "O miere locală provenită din câmpii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Van Gogh Souvenirs",
+            "tip": "At the Kröller-Müller Museum, which has the second-largest collection."
+          },
+          {
+            "name": "Heath Honey",
+            "tip": "A local honey sourced from the heathlands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets für den Nationalpark und das Museum online im Voraus.",
+          "Achten Sie auf Parkgebühren, die separat anfallen können.",
+          "Planen Sie Ihre Fahrzeiten außerhalb der Hauptverkehrszeiten, wenn möglich.",
+          "Die Cluster-Walking-Philosophie bedeutet, dass Sie immer noch bequeme Schuhe brauchen."
+        ],
+        "hu": [
+          "Vásárolja meg a jegyeket a nemzeti parkba és a múzeumba előre online.",
+          "Figyeljen a parkolási díjakra, amelyek külön felszámíthatók.",
+          "Lehetőség szerint tervezze az utazási időt a csúcsforgalmon kívül.",
+          "A „cluster-walking” filozófia azt jelenti, hogy továbbra is kényelmes cipőre van szüksége."
+        ],
+        "ro": [
+          "Cumpărați biletele pentru parcul național și muzeu online în avans.",
+          "Fiți atenți la taxele de parcare, care pot fi separate.",
+          "Planificați-vă timpii de condus în afara orelor de vârf, dacă este posibil.",
+          "Filosofia 'mersului pe jos în cluster' înseamnă că tot veți avea nevoie de pantofi confortabili."
+        ],
+        "en": [
+          "Buy tickets for the national park and museum online in advance.",
+          "Be aware of parking fees, which can be separate.",
+          "Plan your driving times outside of peak rush hours if possible.",
+          "The cluster-walking philosophy means you still need comfortable shoes."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 34.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Ede-Wageningen",
+            "hu": "Ede-Wageningen vasútállomás",
+            "ro": "Gara Ede-Wageningen",
+            "en": "Ede-Wageningen Station"
+          },
+          "coords": [
+            5.6665,
+            52.0288
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den Bus für die beste Preis-Leistung.",
+            "hu": "Vásároljon busz napijegyet a legjobb ár-érték arányért.",
+            "ro": "Cumpărați un abonament de o zi pentru autobuz pentru cel mai bun raport calitate-preț.",
+            "en": "Purchase a day pass for the bus for the best value."
+          }
+        },
+        {
+          "name": {
+            "de": "Oude Kerk",
+            "hu": "Oude Kerk (Régi templom)",
+            "ro": "Oude Kerk (Biserica Veche)",
+            "en": "Oude Kerk (Old Church)"
+          },
+          "coords": [
+            5.6671,
+            52.0452
+          ],
+          "category": "churches",
+          "arrive_at": "09:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Bushaltestelle im Zentrum entfernt.",
+            "hu": "Csak egy rövid séta a központi buszmegállótól.",
+            "ro": "La doar o scurtă plimbare de la stația de autobuz din centru.",
+            "en": "Just a short walk from the central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Cultura Ede",
+            "hu": "Cultura Ede",
+            "ro": "Cultura Ede",
+            "en": "Cultura Ede"
+          },
+          "coords": [
+            5.6698,
+            52.0435
+          ],
+          "category": "cultural centres",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Halt in Ihrem Wander-Cluster im Stadtzentrum.",
+            "hu": "Az első megálló a városközponti séta-klaszterben.",
+            "ro": "Prima oprire în clusterul dvs. de mers pe jos din centrul orașului.",
+            "en": "The first stop in your city-center walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle zum Nationalpark Hoge Veluwe",
+            "hu": "Buszmegálló a Hoge Veluwe Nemzeti Park felé",
+            "ro": "Stația de autobuz spre Parcul Național Hoge Veluwe",
+            "en": "Bus Stop to Hoge Veluwe National Park"
+          },
+          "coords": [
+            5.671,
+            52.042
+          ],
+          "category": "transit",
+          "arrive_at": "11:25",
+          "stay_min": 0,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Busfahrplan. Bus 108 fährt normalerweise dorthin.",
+            "hu": "Ellenőrizze a buszmenetrendet. Általában a 108-as busz megy oda.",
+            "ro": "Verificați orarul autobuzului. Autobuzul 108 merge de obicei acolo.",
+            "en": "Check the bus schedule. Bus 108 typically goes there."
+          }
+        },
+        {
+          "name": {
+            "de": "Kröller-Müller Museum",
+            "hu": "Kröller-Müller Múzeum",
+            "ro": "Muzeul Kröller-Müller",
+            "en": "Kröller-Müller Museum"
+          },
+          "coords": [
+            5.8159,
+            52.0952
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 240,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 15.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für das Museum und ein Mittagessen ein.",
+            "hu": "Tervezzen elegendő időt a múzeumra és egy ebédre.",
+            "ro": "Alocați suficient timp pentru muzeu și prânz.",
+            "en": "Allocate plenty of time for the museum and lunch inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente niederländische Verkehrssystem. Beginnen Sie am Bahnhof Ede-Wageningen und nehmen Sie einen Bus ins Zentrum, um die Oude Kerk und das Kulturzentrum Cultura zu Fuß zu erkunden. Dies bildet Ihren ersten 'Walking Cluster'. Am späten Vormittag nehmen Sie einen weiteren Bus für die längere Fahrt zum Nationalpark Hoge Veluwe. Verbringen Sie den gesamten Nachmittag im Kröller-Müller Museum und im Park. Nehmen Sie am späten Nachmittag den Bus zurück nach Ede, um Ihre Reise abzuschließen.",
+        "hu": "Használja ki a hatékony holland közlekedési rendszert. Kezdje az Ede-Wageningen állomáson, és buszozzon be a központba, hogy gyalog felfedezze az Oude Kerk-et és a Cultura kulturális központot. Ez alkotja az első „séta-klasztert”. Késő délelőtt szálljon fel egy másik buszra a hosszabb útra a Hoge Veluwe Nemzeti Parkba. Töltse az egész délutánt a Kröller-Müller Múzeumban és a parkban. Késő délután busszal térjen vissza Ede-be, hogy befejezze utazását.",
+        "ro": "Folosiți sistemul eficient de transport public olandez. Începeți la gara Ede-Wageningen și luați un autobuz spre centru pentru a explora pe jos Oude Kerk și centrul cultural Cultura. Acesta formează primul dvs. 'cluster de mers pe jos'. Spre sfârșitul dimineții, luați un alt autobuz pentru călătoria mai lungă spre Parcul Național Hoge Veluwe. Petreceți întreaga după-amiază la Muzeul Kröller-Müller și în parc. Luați autobuzul înapoi spre Ede după-amiaza târziu pentru a încheia călătoria.",
+        "en": "Use the efficient Dutch public transit system. Start at Ede-Wageningen station and take a bus to the center to explore the Oude Kerk and Cultura cultural center on foot. This forms your first 'walking cluster'. In the late morning, catch another bus for the longer journey to Hoge Veluwe National Park. Spend the entire afternoon immersed in the Kröller-Müller Museum and the park. Take the bus back to Ede in the late afternoon to complete your journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "Ein warmes Brötchen mit einer Krokette, ein klassischer Snack."
+          },
+          {
+            "name": "Friet met",
+            "tip": "Pommes Frites mit Mayonnaise, der holländische Favorit."
+          },
+          {
+            "name": "Koffie Verkeerd",
+            "tip": "Ein niederländischer Latte, wörtlich 'falscher Kaffee'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "Meleg zsemle krokettel, klasszikus snack."
+          },
+          {
+            "name": "Friet met",
+            "tip": "Hasábburgonya majonézzel, a holland kedvenc."
+          },
+          {
+            "name": "Koffie Verkeerd",
+            "tip": "Holland tejeskávé, szó szerint 'rossz kávé'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "O chiflă caldă cu o crochetă, o gustare clasică."
+          },
+          {
+            "name": "Friet met",
+            "tip": "Cartofi prăjiți cu maioneză, favoritul olandezilor."
+          },
+          {
+            "name": "Koffie Verkeerd",
+            "tip": "Un latte olandez, literalmente 'cafea greșită'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "A warm roll with a croquette, a classic snack."
+          },
+          {
+            "name": "Friet met",
+            "tip": "Fries with mayonnaise, the Dutch favorite."
+          },
+          {
+            "name": "Koffie Verkeerd",
+            "tip": "A Dutch latte, literally 'wrong coffee'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leseecke in der Cultura-Bibliothek",
+            "tip": "Ein ruhiger Ort, um sich mit einem Buch zu entspannen.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Eine Bank im Skulpturengarten",
+            "tip": "Umgeben von Kunst und Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Beobachten Sie, wie die Landschaft von städtisch zu ländlich wechselt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasósarok a Cultura könyvtárában",
+            "tip": "Csendes hely egy könyvvel való kikapcsolódáshoz.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Pad a szoborparkban",
+            "tip": "Művészettel és csenddel körülvéve.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Figyelje, ahogy a táj városiból vidékivé válik.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colțul de lectură din biblioteca Cultura",
+            "tip": "Un loc liniștit pentru a vă relaxa cu o carte.",
+            "emoji": "📚"
+          },
+          {
+            "name": "O bancă în grădina de sculpturi",
+            "tip": "Înconjurat de artă și liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Priveliștea de la fereastra autobuzului",
+            "tip": "Urmăriți cum peisajul se schimbă de la urban la rural.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading corner in the Cultura library",
+            "tip": "A quiet spot to relax with a book.",
+            "emoji": "📚"
+          },
+          {
+            "name": "A bench in the sculpture garden",
+            "tip": "Surrounded by art and silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "Watch the landscape change from urban to rural.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Kaufen Sie frisches Brot oder Gebäck für Ihre Reise."
+          },
+          {
+            "name": "Buchhandlung im Zentrum",
+            "tip": "Finden Sie Bücher über die lokale Geschichte oder Kunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Vásároljon friss kenyeret vagy péksüteményt az útra."
+          },
+          {
+            "name": "Könyvesbolt a központban",
+            "tip": "Találjon könyveket a helyi történelemről vagy művészetről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Cumpărați pâine proaspătă sau produse de patiserie pentru călătoria dvs."
+          },
+          {
+            "name": "Librărie în centru",
+            "tip": "Găsiți cărți despre istoria sau arta locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Pick up some fresh bread or pastries for your journey."
+          },
+          {
+            "name": "Bookstore in the center",
+            "tip": "Find books about local history or art."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine niederländische ÖPNV-App herunter, um Fahrpläne in Echtzeit zu verfolgen.",
+          "Die Busse zum Nationalpark fahren möglicherweise nicht sehr häufig, planen Sie also entsprechend.",
+          "Halten Sie Kleingeld oder eine kontaktlose Karte für Bustickets bereit.",
+          "Validieren Sie Ihr Ticket beim Ein- und Aussteigen."
+        ],
+        "hu": [
+          "Töltsön le egy holland tömegközlekedési alkalmazást a valós idejű menetrendek követéséhez.",
+          "A nemzeti parkba tartó buszok nem biztos, hogy túl gyakran járnak, ezért tervezzen ennek megfelelően.",
+          "Készítsen elő aprópénzt vagy érintésmentes kártyát a buszjegyekhez.",
+          "Érvényesítse a jegyét felszálláskor és leszálláskor."
+        ],
+        "ro": [
+          "Descărcați o aplicație olandeză de transport public pentru a urmări orarele în timp real.",
+          "Autobuzele către parcul național s-ar putea să nu circule foarte des, așa că planificați-vă în consecință.",
+          "Aveți la îndemână mărunțiș sau un card contactless pentru biletele de autobuz.",
+          "Validați-vă biletul la urcare și la coborâre."
+        ],
+        "en": [
+          "Download a Dutch public transport app to track real-time schedules.",
+          "Buses to the national park may not be very frequent, so plan accordingly.",
+          "Have change or a contactless card ready for bus tickets.",
+          "Validate your ticket when boarding and exiting."
+        ]
+      }
+    }
+  }
+}

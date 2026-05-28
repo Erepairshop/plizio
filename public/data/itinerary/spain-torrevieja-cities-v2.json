@@ -1,0 +1,1458 @@
+{
+  "city_id": "spain-torrevieja-cities-v2",
+  "anchor": {
+    "name": "Torrevieja",
+    "coords": [
+      -0.6826,
+      37.978
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de la Constitución & Iglesia de la Inmaculada Concepción",
+            "hu": "Alkotmány tér és a Szeplőtlen Fogantatás temploma",
+            "ro": "Piața Constituției și Biserica Neprihănita Zămislire",
+            "en": "Constitution Square & Church of the Immaculate Conception"
+          },
+          "coords": [
+            -0.676,
+            37.9781
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee auf dem belebten Platz.",
+            "hu": "Kezdje a napot egy kávéval a nyüzsgő téren.",
+            "ro": "Începeți ziua cu o cafea în piața animată.",
+            "en": "Start your day with a coffee in the bustling square."
+          }
+        },
+        {
+          "name": {
+            "de": "Meeres- und Salzmuseum",
+            "hu": "Tenger- és Só Múzeum",
+            "ro": "Muzeul Mării și Sării",
+            "en": "Sea and Salt Museum"
+          },
+          "coords": [
+            -0.678,
+            37.975
+          ],
+          "category": "museum",
+          "arrive_at": "10:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Interaktive Ausstellungen zeigen die Geschichte der Salzgewinnung.",
+            "hu": "Interaktív kiállítások mutatják be a sóbányászat történetét.",
+            "ro": "Expozițiile interactive prezintă istoria fabricării sării.",
+            "en": "Interactive exhibits showcase the history of salt-making."
+          }
+        },
+        {
+          "name": {
+            "de": "U-Boot S-61 Delfín Museum",
+            "hu": "S-61 Delfin Tengeralattjáró Múzeum",
+            "ro": "Muzeul Submarinului S-61 Delfin",
+            "en": "S-61 Delfin Submarine Museum"
+          },
+          "coords": [
+            -0.6715,
+            37.973
+          ],
+          "category": "museum",
+          "arrive_at": "11:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein echtes U-Boot zum Erkunden! Einzigartig in Spanien.",
+            "hu": "Egy igazi tengeralattjáró, amit felfedezhetsz! Egyedülálló Spanyolországban.",
+            "ro": "Un submarin real de explorat! Unic în Spania.",
+            "en": "A real submarine to explore! Unique in Spain."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo Juan Aparicio & Mittagessen",
+            "hu": "Juan Aparicio sétány és ebéd",
+            "ro": "Promenada Juan Aparicio & Prânz",
+            "en": "Juan Aparicio Promenade & Lunch"
+          },
+          "coords": [
+            -0.668,
+            37.976
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Meerblick für frischen Fisch.",
+            "hu": "Válasszon egy tengerre néző éttermet friss halételekért.",
+            "ro": "Alegeți un restaurant cu vedere la mare pentru pește proaspăt.",
+            "en": "Choose a restaurant with a sea view for fresh fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Dique de Levante",
+            "hu": "Dique de Levante (Keleti móló)",
+            "ro": "Digul de Levante",
+            "en": "Dique de Levante (Eastern Pier)"
+          },
+          "coords": [
+            -0.66,
+            37.9735
+          ],
+          "category": "promenade",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein langer Spaziergang über dem Meer mit fantastischer Aussicht.",
+            "hu": "Hosszú séta a tenger felett, fantasztikus kilátással.",
+            "ro": "O plimbare lungă deasupra mării, cu vederi fantastice.",
+            "en": "A long walk over the sea with fantastic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de las Naciones",
+            "hu": "Nemzetek Parkja",
+            "ro": "Parcul Națiunilor",
+            "en": "Park of Nations"
+          },
+          "coords": [
+            -0.678,
+            37.971
+          ],
+          "category": "park",
+          "arrive_at": "15:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Suchen Sie nach der Nachbildung einer europäischen Landkarte im See.",
+            "hu": "Keresse meg a tóban lévő Európa-térkép másolatát.",
+            "ro": "Căutați replica hărții Europei din lac.",
+            "en": "Look for the replica map of Europe in the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Moro",
+            "hu": "Torre del Moro (Mór torony)",
+            "ro": "Torre del Moro",
+            "en": "Torre del Moro (Moorish Tower)"
+          },
+          "coords": [
+            -0.642,
+            37.989
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Der beste Ort in der Stadt, um den Sonnenuntergang zu beobachten.",
+            "hu": "A legjobb hely a városban a naplemente megtekintésére.",
+            "ro": "Cel mai bun loc din oraș pentru a privi apusul.",
+            "en": "The best spot in town to watch the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Torrevieja, an der Plaza de la Constitución, wo Sie die lokale Atmosphäre aufsaugen. Am Vormittag tauchen Sie im Meeres- und Salzmuseum und an Bord des U-Boots Delfín in die maritime Geschichte ein. Nach einem Mittagessen mit Meerblick am Paseo Juan Aparicio spazieren Sie am Nachmittag auf dem Dique de Levante und entspannen im grünen Parque de las Naciones. Der Tag endet mit einem spektakulären Sonnenuntergang vom historischen Torre del Moro aus.",
+        "hu": "A nap Torrevieja szívében, a Plaza de la Constitución téren indul, ahol magába szívhatja a helyi hangulatot. Délelőtt a Tenger- és Só Múzeumban és a Delfin tengeralattjáró fedélzetén merülhet el a tengerészeti történelemben. A Juan Aparicio sétányon elköltött tengerparti ebéd után délután a Dique de Levante mólón sétálhat, majd a zöld Parque de las Naciones parkban pihenhet. A napot a történelmi Torre del Moro toronyból nyíló látványos naplemente zárja.",
+        "ro": "Ziua începe în inima orașului Torrevieja, în Plaza de la Constitución, absorbind atmosfera locală. Dimineața vă scufundați în istoria maritimă la Muzeul Mării și Sării și la bordul submarinului Delfin. După un prânz cu vedere la mare pe Paseo Juan Aparicio, după-amiaza este pentru o plimbare pe Dique de Levante și relaxare în verdele Parque de las Naciones. Ziua se încheie cu un apus spectaculos de la istoricul Torre del Moro.",
+        "en": "Your day starts in the heart of Torrevieja at Plaza de la Constitución, soaking up the local vibe. The morning is for diving into maritime history at the Sea and Salt Museum and aboard the Delfin submarine. After a sea-view lunch on Paseo Juan Aparicio, the afternoon is for a walk on the Dique de Levante and relaxing in the green Parque de las Naciones. The day concludes with a spectacular sunset from the historic Torre del Moro."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz a banda",
+            "tip": "Ein lokales Reisgericht, das in Fischbrühe gekocht wird, oft mit Aioli serviert."
+          },
+          {
+            "name": "Caldero",
+            "tip": "Ein herzhafter Fischeintopf, der traditionell in einem gusseisernen Topf zubereitet wird."
+          },
+          {
+            "name": "Gegrillte Meeresfrüchte",
+            "tip": "Frisch vom Markt, einfach gegrillt mit Knoblauch und Petersilie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz a banda",
+            "tip": "Helyi rizsétel, halászlében főzve, gyakran aiolival tálalva."
+          },
+          {
+            "name": "Caldero",
+            "tip": "Kiadós halászlé, hagyományosan öntöttvas edényben készítve."
+          },
+          {
+            "name": "Grillezett tenger gyümölcsei",
+            "tip": "Frissen a piacról, egyszerűen grillezve fokhagymával és petrezselyemmel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz a banda",
+            "tip": "Un preparat local din orez gătit în supă de pește, adesea servit cu aioli."
+          },
+          {
+            "name": "Caldero",
+            "tip": "O tocană de pește consistentă, preparată tradițional într-un ceaun de fontă."
+          },
+          {
+            "name": "Fructe de mare la grătar",
+            "tip": "Proaspete din piață, gătite simplu la grătar cu usturoi și pătrunjel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz a banda",
+            "tip": "A local rice dish cooked in fish broth, often served with aioli."
+          },
+          {
+            "name": "Caldero",
+            "tip": "A hearty fish stew traditionally made in a cast-iron pot."
+          },
+          {
+            "name": "Grilled Seafood",
+            "tip": "Fresh from the market, simply grilled with garlic and parsley."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Torre del Moro",
+            "tip": "Bietet den besten Panoramablick auf die Küste.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Früher Morgenspaziergang am Dique de Levante",
+            "tip": "Genießen Sie die Ruhe, bevor die Menschenmassen kommen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque de las Naciones",
+            "tip": "Eine grüne Oase im Herzen der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Torre del Moro-nál",
+            "tip": "A legjobb panorámát nyújtja a partvidékre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kora reggeli séta a Dique de Levante-n",
+            "tip": "Élvezze a csendet, mielőtt megérkezik a tömeg.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque de las Naciones",
+            "tip": "Zöld oázis a város szívében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la Torre del Moro",
+            "tip": "Oferă cea mai bună vedere panoramică a coastei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare de dimineață pe Dique de Levante",
+            "tip": "Bucurați-vă de liniște înainte de aglomerație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Națiunilor",
+            "tip": "O oază de verdeață în inima orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Torre del Moro",
+            "tip": "Offers the best panoramic view of the coastline.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Early morning walk on Dique de Levante",
+            "tip": "Enjoy the peace before the crowds arrive.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park of Nations",
+            "tip": "A green oasis in the heart of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Freitags findet ein großer Straßenmarkt statt, auf dem Sie alles von lokalen Produkten bis hin zu Kleidung finden können."
+          },
+          {
+            "name": "Salzprodukte",
+            "tip": "Suchen Sie nach Gourmet-Salz aus den örtlichen Salinen, ein einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Péntekenként nagy utcai piacot tartanak, ahol a helyi termékektől a ruhákig mindent megtalál."
+          },
+          {
+            "name": "Sótermékek",
+            "tip": "Keressen ínyencsót a helyi sólepárlókból, egyedi szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Vinerea are loc o mare piață stradală unde puteți găsi de la produse locale la haine."
+          },
+          {
+            "name": "Produse din sare",
+            "tip": "Căutați sare gourmet de la salinele locale, un suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "A large street market is held on Fridays, where you can find everything from local produce to clothes."
+          },
+          {
+            "name": "Salt Products",
+            "tip": "Look for gourmet salt from the local salt flats, a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders in den Sommermonaten.",
+          "Sonnenschutz ist ein Muss – Hut, Sonnencreme und Sonnenbrille.",
+          "Die meisten Museen schließen für eine Siesta, also planen Sie Ihren Besuch entsprechend."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Hozzon magával vizet, különösen a nyári hónapokban.",
+          "A napvédelem elengedhetetlen – kalap, naptej és napszemüveg.",
+          "A legtöbb múzeum szieszta idejére bezár, ezért tervezze meg a látogatását."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "Luați apă cu dvs., mai ales în lunile de vară.",
+          "Protecția solară este obligatorie – pălărie, cremă de soare și ochelari de soare.",
+          "Majoritatea muzeelor se închid pentru siestă, așa că planificați-vă vizita în consecință."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring water, especially during the summer months.",
+          "Sun protection is a must – hat, sunscreen, and sunglasses.",
+          "Most museums close for a siesta, so plan your visit accordingly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Parque de las Naciones",
+            "hu": "Kerékpárkölcsönzés és a Nemzetek Parkja",
+            "ro": "Închiriere biciclete și Parcul Națiunilor",
+            "en": "Bike Rental & Park of Nations"
+          },
+          "coords": [
+            -0.679,
+            37.9715
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer entspannten Radtour durch diesen charmanten Park.",
+            "hu": "Kezdje a napot egy laza biciklizéssel ebben a bájos parkban.",
+            "ro": "Începeți ziua cu o plimbare relaxantă cu bicicleta prin acest parc fermecător.",
+            "en": "Start your day with a relaxed cycle through this charming park."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Küste zum Paseo Juan Aparicio",
+            "hu": "Tekerés a part mentén a Juan Aparicio sétányig",
+            "ro": "Plimbare pe coastă până la Paseo Juan Aparicio",
+            "en": "Ride along the coast to Paseo Juan Aparicio"
+          },
+          "coords": [
+            -0.668,
+            37.976
+          ],
+          "category": "promenade",
+          "arrive_at": "10:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresbrise, während Sie auf dem Radweg fahren.",
+            "hu": "Élvezze a tengeri szellőt a bicikliúton.",
+            "ro": "Bucurați-vă de briza mării în timp ce pedalați pe pista de biciclete.",
+            "en": "Enjoy the sea breeze as you pedal along the cycle path."
+          }
+        },
+        {
+          "name": {
+            "de": "Dique de Levante",
+            "hu": "Dique de Levante",
+            "ro": "Digul de Levante",
+            "en": "Dique de Levante"
+          },
+          "coords": [
+            -0.66,
+            37.9735
+          ],
+          "category": "promenade",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und spazieren Sie bis zum Ende des Piers, um eine großartige Aussicht zu genießen.",
+            "hu": "Parkolja le a biciklit, és sétáljon el a móló végéig a nagyszerű kilátásért.",
+            "ro": "Parcați bicicleta și mergeți până la capătul digului pentru o priveliște superbă.",
+            "en": "Park your bike and walk to the end of the pier for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Hafens",
+            "hu": "Ebéd a kikötő közelében",
+            "ro": "Prânz lângă port",
+            "en": "Lunch near the Marina"
+          },
+          "coords": [
+            -0.673,
+            37.974
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Viele Restaurants bieten 'Menu del Dia' (Tagesmenü) an.",
+            "hu": "Sok étterem kínál 'Menu del Dia'-t (napi menü).",
+            "ro": "Multe restaurante oferă 'Menu del Dia' (meniul zilei).",
+            "en": "Many restaurants offer a 'Menu del Dia' (menu of the day)."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Moro",
+            "hu": "Torre del Moro",
+            "ro": "Torre del Moro",
+            "en": "Torre del Moro"
+          },
+          "coords": [
+            -0.642,
+            37.989
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein kleiner Anstieg, aber die Aussicht ist es wert!",
+            "hu": "Kicsit meredek, de a kilátás megéri!",
+            "ro": "O mică urcare, dar priveliștea merită!",
+            "en": "A bit of a climb, but the view is worth it!"
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannen am Playa de la Mata",
+            "hu": "Pihenés a Playa de la Mata strandon",
+            "ro": "Relaxare la Playa de la Mata",
+            "en": "Relax at Playa de la Mata"
+          },
+          "coords": [
+            -0.638,
+            38.001
+          ],
+          "category": "beach",
+          "arrive_at": "15:15",
+          "stay_min": 140,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein langer Sandstrand, ideal für eine Pause nach dem Radfahren.",
+            "hu": "Hosszú homokos strand, ideális egy kis pihenésre a biciklizés után.",
+            "ro": "O plajă lungă cu nisip, perfectă pentru o pauză după pedalat.",
+            "en": "A long sandy beach, perfect for a break after cycling."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schnappen Sie sich ein Fahrrad und beginnen Sie den Tag im Parque de las Naciones. Radeln Sie entlang der Küste, genießen Sie die Meeresbrise auf dem Weg zum Paseo Juan Aparicio und dem Dique de Levante. Nach einem entspannten Mittagessen in der Nähe des Hafens wartet am Nachmittag die Herausforderung des Anstiegs zum Torre del Moro, belohnt durch eine atemberaubende Aussicht. Beenden Sie den Tag mit verdienter Entspannung am weitläufigen Sandstrand von Playa de la Mata.",
+        "hu": "Pattanjon biciklire, és kezdje a napot a Parque de las Naciones parkban. Tekerjen végig a tengerparton, élvezze a tengeri szellőt a Juan Aparicio sétány és a Dique de Levante felé vezető úton. A kikötő közelében elköltött laza ebéd után délután a Torre del Moro megmászásának kihívása várja, amit lenyűgöző kilátás jutalmaz. A napot a Playa de la Mata tágas homokos strandján való megérdemelt pihenéssel zárja.",
+        "ro": "Luați o bicicletă și începeți ziua în Parcul Națiunilor. Pedalați de-a lungul coastei, bucurându-vă de briza mării în drum spre Paseo Juan Aparicio și Dique de Levante. După un prânz relaxat lângă port, după-amiaza vă așteaptă provocarea urcării la Torre del Moro, recompensată cu o priveliște uluitoare. Încheiați ziua cu o relaxare meritată pe plaja lungă cu nisip de la Playa de la Mata.",
+        "en": "Grab a bike and start the day at the Park of Nations. Cycle along the coast, enjoying the sea breeze on your way to Paseo Juan Aparicio and the Dique de Levante. After a relaxed lunch near the marina, the afternoon challenge is the climb to Torre del Moro, rewarded with a stunning view. End the day with a well-deserved rest on the long, sandy beach of Playa de la Mata."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Ein klassisches Sandwich mit frittiertem Tintenfisch, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Horchata und Fartons",
+            "tip": "Ein erfrischendes Erdmandelmilchgetränk mit süßem Gebäck."
+          },
+          {
+            "name": "Chiringuito (Strandbar)",
+            "tip": "Genießen Sie einen Drink und Tapas mit den Füßen im Sand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Klasszikus szendvics sült tintahallal, tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Horchata és Fartons",
+            "tip": "Frissítő tigrismogyoró-ital édes süteménnyel."
+          },
+          {
+            "name": "Chiringuito (strandbár)",
+            "tip": "Élvezzen egy italt és tapast a homokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Un sandviș clasic cu calamar prăjit, perfect pentru un prânz rapid."
+          },
+          {
+            "name": "Horchata și Fartons",
+            "tip": "O băutură răcoritoare din lapte de alune de pământ cu produse de patiserie dulci."
+          },
+          {
+            "name": "Chiringuito (bar pe plajă)",
+            "tip": "Savurați o băutură și tapas cu picioarele în nisip."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "A classic sandwich with fried squid, perfect for a quick lunch."
+          },
+          {
+            "name": "Horchata and Fartons",
+            "tip": "A refreshing tiger nut milk drink with sweet pastries."
+          },
+          {
+            "name": "Chiringuito (Beach Bar)",
+            "tip": "Enjoy a drink and tapas with your feet in the sand."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Playa de la Mata",
+            "tip": "Ein riesiger Strand, an dem Sie immer ein ruhiges Plätzchen finden können.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Torre del Moro",
+            "tip": "Blickt sowohl auf das Meer als auch auf die Salinen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Radweg entlang der Küste",
+            "tip": "Der rhythmische Klang der Wellen ist sehr beruhigend.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Playa de la Mata",
+            "tip": "Hatalmas strand, ahol mindig talál egy csendes helyet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Torre del Moro-ból",
+            "tip": "Kilátás nyílik a tengerre és a sólepárlókra is.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Part menti kerékpárút",
+            "tip": "A hullámok ritmikus zaja nagyon megnyugtató.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Playa de la Mata",
+            "tip": "O plajă imensă unde poți găsi mereu un loc liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Torre del Moro",
+            "tip": "Privește atât spre mare, cât și spre saline.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pista de biciclete de coastă",
+            "tip": "Sunetul ritmic al valurilor este foarte liniștitor.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Playa de la Mata",
+            "tip": "A huge beach where you can always find a quiet spot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Torre del Moro",
+            "tip": "Overlooks both the sea and the salt flats.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Coastal cycle path",
+            "tip": "The rhythmic sound of the waves is very calming.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Meer",
+            "tip": "Verkaufen Strandbekleidung und Souvenirs mit nautischem Thema."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Suchen Sie in einem Bodega nach Weinen aus der nahegelegenen Region Alicante."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengerparti üzletek",
+            "tip": "Strandruhákat és tengerész témájú ajándéktárgyakat árulnak."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "Keressen borokat a közeli Alicante régióból egy bodegában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de pe faleză",
+            "tip": "Vând îmbrăcăminte de plajă și suveniruri cu tematică nautică."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Căutați vinuri din regiunea apropiată Alicante la o bodegă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafront shops",
+            "tip": "Selling beachwear and nautical-themed souvenirs."
+          },
+          {
+            "name": "Local Wines",
+            "tip": "Look for wines from the nearby Alicante region in a bodega."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Bremsen und Reifen, bevor Sie losfahren.",
+          "Tragen Sie einen Helm und verwenden Sie Fahrradlichter, wenn Sie spät unterwegs sind.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch bei kurzen Stopps.",
+          "Respektieren Sie die Fußgänger auf den gemeinsamen Wegen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a fékeket és a gumikat.",
+          "Viseljen sisakot, és használjon lámpát, ha későn teker.",
+          "Mindig zárja le a kerékpárt, még rövid megállások alkalmával is.",
+          "Tisztelje a gyalogosokat a közös utakon."
+        ],
+        "ro": [
+          "Verificați frânele și anvelopele înainte de a porni.",
+          "Purtați cască și folosiți lumini de bicicletă dacă mergeți târziu.",
+          "Încuiați întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "Respectați pietonii pe căile comune."
+        ],
+        "en": [
+          "Check your brakes and tires before setting off.",
+          "Wear a helmet and use bike lights if you're out late.",
+          "Always lock your bike, even for short stops.",
+          "Respect pedestrians on shared pathways."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 25.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Parken: Laguna Rosa (Besucherzentrum)",
+            "hu": "Érkezés és parkolás: Laguna Rosa (Látogatóközpont)",
+            "ro": "Sosire și Parcare: Laguna Rosa (Centrul de vizitatori)",
+            "en": "Arrival & Parking: Laguna Rosa (Visitor Center)"
+          },
+          "coords": [
+            -0.725,
+            38.008
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und machen Sie einen Spaziergang, um das einzigartige rosa Wasser zu bewundern.",
+            "hu": "Parkoljon itt, és tegyen egy sétát, hogy megcsodálja az egyedülálló rózsaszín vizet.",
+            "ro": "Parcați aici și faceți o plimbare pentru a admira apa roz unică.",
+            "en": "Park here and take a walk to admire the unique pink water."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt und Parken im Zentrum: Hafenbereich",
+            "hu": "Autózás és parkolás a központban: Kikötő területe",
+            "ro": "Condus și parcare în centru: Zona portuară",
+            "en": "Drive & Park in Center: Marina Area"
+          },
+          "coords": [
+            -0.675,
+            37.974
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz für den Tag. Von hier aus erkunden Sie zu Fuß.",
+            "hu": "Keressen egy parkolóhelyet a napra. Innen gyalogosan fedezze fel a környéket.",
+            "ro": "Găsiți un loc de parcare pentru o zi. De aici veți explora pe jos.",
+            "en": "Find a day parking spot. You'll explore on foot from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Meeres- und Salzmuseum",
+            "hu": "Tenger- és Só Múzeum",
+            "ro": "Muzeul Mării și Sării",
+            "en": "Sea and Salt Museum"
+          },
+          "coords": [
+            -0.678,
+            37.975
+          ],
+          "category": "museum",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz, um die lokale Geschichte zu entdecken.",
+            "hu": "Rövid séta a parkolótól a helyi történelem felfedezéséhez.",
+            "ro": "O scurtă plimbare de la parcare pentru a descoperi istoria locală.",
+            "en": "A short walk from the parking lot to discover the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de la Inmaculada Concepción",
+            "hu": "Szeplőtlen Fogantatás temploma",
+            "ro": "Biserica Neprihănita Zămislire",
+            "en": "Church of the Immaculate Conception"
+          },
+          "coords": [
+            -0.676,
+            37.9781
+          ],
+          "category": "religious",
+          "arrive_at": "12:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Herz der Altstadt, nur wenige Gehminuten vom Museum entfernt.",
+            "hu": "Az óváros szíve, pár perces sétára a múzeumtól.",
+            "ro": "Inima orașului vechi, la câteva minute de mers pe jos de muzeu.",
+            "en": "The heart of the old town, a few minutes' walk from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Paseo Juan Aparicio",
+            "hu": "Ebéd a Juan Aparicio sétányon",
+            "ro": "Prânz pe Paseo Juan Aparicio",
+            "en": "Lunch on Paseo Juan Aparicio"
+          },
+          "coords": [
+            -0.669,
+            37.9765
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Finden Sie ein Restaurant mit Terrasse, um die Sonne und die Meeresbrise zu genießen.",
+            "hu": "Keressen egy teraszos éttermet, hogy élvezze a napot és a tengeri szellőt.",
+            "ro": "Găsiți un restaurant cu terasă pentru a vă bucura de soare și de briza mării.",
+            "en": "Find a restaurant with a terrace to enjoy the sun and sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Torre del Moro",
+            "hu": "Autózás a Torre del Moro-hoz",
+            "ro": "Condus la Torre del Moro",
+            "en": "Drive to Torre del Moro"
+          },
+          "coords": [
+            -0.642,
+            37.989
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Holen Sie Ihr Auto und fahren Sie zu diesem historischen Wachturm.",
+            "hu": "Vegye fel az autót, és hajtson ehhez a történelmi őrtoronyhoz.",
+            "ro": "Luați mașina și conduceți la acest turn de veghe istoric.",
+            "en": "Get your car and drive to this historic watchtower."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannen am Playa de los Locos",
+            "hu": "Pihenés a Playa de los Locos strandon",
+            "ro": "Relaxare la Playa de los Locos",
+            "en": "Relax at Playa de los Locos"
+          },
+          "coords": [
+            -0.655,
+            37.984
+          ],
+          "category": "beach",
+          "arrive_at": "16:30",
+          "stay_min": 95,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Turm entfernt, um den Tag am Strand ausklingen zu lassen.",
+            "hu": "Egy rövid sétára a toronytól, hogy a strandon fejezze be a napot.",
+            "ro": "La o scurtă plimbare de turn pentru a încheia ziua pe plajă.",
+            "en": "A short walk down from the tower to end the day at the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto bei der surrealen Laguna Rosa. Nach diesem Naturwunder fahren Sie ins Stadtzentrum, parken in der Nähe des Hafens und erkunden den ersten Cluster zu Fuß: das Salzmuseum und die Hauptkirche. Nach einem gemütlichen Mittagessen am Meer am Paseo Juan Aparicio holen Sie Ihr Auto für eine kurze Fahrt zum zweiten Cluster. Erklimmen Sie den historischen Torre del Moro für eine weite Aussicht und beenden Sie den Tag entspannt am nahegelegenen Strand Playa de los Locos.",
+        "hu": "Kezdje a napot autóval a szürreális Laguna Rosánál. E természeti csoda után hajtson be a városközpontba, parkoljon a kikötő közelében, és fedezze fel gyalog az első látnivalócsoportot: a Sómúzeumot és a főtemplomot. A Juan Aparicio sétányon elköltött kellemes tengerparti ebéd után vegye fel az autóját egy rövid útra a második látnivalócsoporthoz. Másszon fel a történelmi Torre del Moro toronyba a pazar kilátásért, majd fejezze be a napot pihenéssel a közeli Playa de los Locos strandon.",
+        "ro": "Începeți ziua cu mașina la suprarealista Laguna Rosa. După această minune naturală, conduceți în centrul orașului, parcați lângă port și explorați primul grup de atracții pe jos: Muzeul Sării și biserica principală. După un prânz pe îndelete la malul mării, pe Paseo Juan Aparicio, luați mașina pentru o scurtă călătorie către al doilea grup. Urcați în istoricul Torre del Moro pentru priveliști ample și încheiați ziua relaxându-vă pe plaja din apropiere, Playa de los Locos.",
+        "en": "Start your day by car at the surreal Laguna Rosa. After this natural wonder, drive to the city center, park near the marina, and explore the first cluster on foot: the Salt Museum and the main church. After a leisurely seaside lunch on Paseo Juan Aparicio, get your car for a short drive to the second cluster. Climb the historic Torre del Moro for sweeping views and end the day relaxing on the nearby Playa de los Locos beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Paella",
+            "tip": "Viele Restaurants am Meer bieten Paella für zwei Personen an. Bestellen Sie im Voraus."
+          },
+          {
+            "name": "Salazones",
+            "tip": "Gepökelter und getrockneter Fisch, eine lokale Delikatesse. Probieren Sie Mojama (getrockneter Thunfisch)."
+          },
+          {
+            "name": "Eisdielen",
+            "tip": "Perfekt für eine Abkühlung an einem heißen Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paella",
+            "tip": "Sok tengerparti étterem kínál paellát két főre. Rendelje meg előre."
+          },
+          {
+            "name": "Salazones",
+            "tip": "Sóban pácolt, szárított hal, helyi finomság. Kóstolja meg a mojamát (szárított tonhal)."
+          },
+          {
+            "name": "Fagylaltozók",
+            "tip": "Tökéletes egy forró délutáni lehűléshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paella",
+            "tip": "Multe restaurante de la malul mării oferă paella pentru două persoane. Comandați în avans."
+          },
+          {
+            "name": "Salazones",
+            "tip": "Pește sărat și uscat, o delicatesă locală. Încercați mojama (ton uscat)."
+          },
+          {
+            "name": "Gelaterii",
+            "tip": "Perfecte pentru o răcorire într-o după-amiază fierbinte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paella",
+            "tip": "Many seaside restaurants offer paella for two people. Order in advance."
+          },
+          {
+            "name": "Salazones",
+            "tip": "Salt-cured and dried fish, a local delicacy. Try mojama (dried tuna)."
+          },
+          {
+            "name": "Ice Cream Parlors",
+            "tip": "Perfect for cooling down on a hot afternoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Laguna Rosa",
+            "tip": "Besonders am Morgen ist die Stille und die unwirkliche Farbe sehr friedlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Torre del Moro",
+            "tip": "Bietet einen 360-Grad-Blick über die Stadt und das Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang auf dem Dique de Levante",
+            "tip": "Spüren Sie die Meeresbrise weit weg vom Trubel der Stadt.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Laguna Rosa",
+            "tip": "A reggeli csend és a valószerűtlen szín különösen békés.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Torre del Moro-ból",
+            "tip": "360 fokos kilátást nyújt a városra és a tengerre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Dique de Levante mólón",
+            "tip": "Érezze a tengeri szellőt távol a város nyüzsgésétől.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Laguna Rosa",
+            "tip": "Liniștea și culoarea ireală sunt deosebit de pașnice dimineața.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Torre del Moro",
+            "tip": "Oferă o vedere de 360 de grade asupra orașului și a mării.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare pe Dique de Levante",
+            "tip": "Simțiți briza mării departe de agitația orașului.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Laguna Rosa",
+            "tip": "The silence and the surreal color are especially peaceful in the morning.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Torre del Moro",
+            "tip": "Offers a 360-degree view over the city and the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk on the Dique de Levante",
+            "tip": "Feel the sea breeze far from the hustle of the city.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Habaneras Einkaufszentrum",
+            "tip": "Ein Open-Air-Einkaufszentrum für Marken-Shopping."
+          },
+          {
+            "name": "Salz-Schokolade",
+            "tip": "Eine lokale Spezialität, die das Salzige und Süße kombiniert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Habaneras Bevásárlóközpont",
+            "tip": "Szabadtéri bevásárlóközpont márkás vásárláshoz."
+          },
+          {
+            "name": "Sós csokoládé",
+            "tip": "Helyi különlegesség, amely a sósat és az édeset ötvözi."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Habaneras",
+            "tip": "Un centru comercial în aer liber pentru cumpărături de marcă."
+          },
+          {
+            "name": "Ciocolată cu sare",
+            "tip": "O specialitate locală care combină săratul și dulcele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Habaneras Shopping Centre",
+            "tip": "An open-air mall for brand-name shopping."
+          },
+          {
+            "name": "Salt Chocolate",
+            "tip": "A local speciality combining the salty and the sweet."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann im Sommer schwierig sein. Seien Sie geduldig oder nutzen Sie kostenpflichtige Parkplätze.",
+          "Die Straßen in der Altstadt sind eng, fahren Sie vorsichtig.",
+          "Überprüfen Sie die Öffnungszeiten der Laguna Rosa, da der Zugang eingeschränkt sein kann.",
+          "Ein GPS ist hilfreich, um sich in der Umgebung zurechtzufinden."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nyáron nehézkes lehet. Legyen türelmes, vagy használjon fizetős parkolókat.",
+          "Az óváros utcái szűkek, vezessen óvatosan.",
+          "Ellenőrizze a Laguna Rosa nyitvatartási idejét, mivel a belépés korlátozott lehet.",
+          "A GPS hasznos a környéken való tájékozódáshoz."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă în timpul verii. Aveți răbdare sau folosiți parcări cu plată.",
+          "Străzile din centrul vechi sunt înguste, conduceți cu atenție.",
+          "Verificați orele de deschidere ale Lagunei Rosa, deoarece accesul poate fi restricționat.",
+          "Un GPS este util pentru a naviga în zonă."
+        ],
+        "en": [
+          "Parking in the city center can be difficult in summer. Be patient or use paid car parks.",
+          "The streets in the old town are narrow, drive carefully.",
+          "Check the opening hours for Laguna Rosa as access can be restricted.",
+          "A GPS is helpful for navigating the area."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Busbahnhof & Spaziergang zur Kirche",
+            "hu": "Érkezés a buszpályaudvarra és séta a templomhoz",
+            "ro": "Sosire la stația de autobuz și plimbare la biserică",
+            "en": "Arrive at Bus Station & Walk to Church"
+          },
+          "coords": [
+            -0.676,
+            37.9781
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Hauptbusbahnhof ist zentral gelegen und ein guter Ausgangspunkt.",
+            "hu": "A központi buszpályaudvar központi helyen van, jó kiindulópont.",
+            "ro": "Stația principală de autobuz este situată central, un bun punct de plecare.",
+            "en": "The main bus station is centrally located, a good starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Meeres- und Salzmuseum",
+            "hu": "Tenger- és Só Múzeum",
+            "ro": "Muzeul Mării și Sării",
+            "en": "Sea and Salt Museum"
+          },
+          "coords": [
+            -0.678,
+            37.975
+          ],
+          "category": "museum",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Innenstadt.",
+            "hu": "Rövid séta a belvároson keresztül.",
+            "ro": "O scurtă plimbare prin centrul orașului.",
+            "en": "A short walk through the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo Juan Aparicio & U-Boot Delfin",
+            "hu": "Paseo Juan Aparicio & Delfin tengeralattjáró",
+            "ro": "Paseo Juan Aparicio & Submarinul Delfin",
+            "en": "Paseo Juan Aparicio & Delfin Submarine"
+          },
+          "coords": [
+            -0.67,
+            37.975
+          ],
+          "category": "promenade",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie die Promenade entlang und besichtigen Sie das U-Boot.",
+            "hu": "Sétáljon végig a sétányon és nézze meg a tengeralattjárót.",
+            "ro": "Plimbați-vă de-a lungul promenadei și vizitați submarinul.",
+            "en": "Stroll along the promenade and visit the submarine."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Busfahrt zum Parque de las Naciones",
+            "hu": "Ebéd és buszozás a Parque de las Naciones-ba",
+            "ro": "Prânz și călătorie cu autobuzul la Parque de las Naciones",
+            "en": "Lunch & Bus to Parque de las Naciones"
+          },
+          "coords": [
+            -0.678,
+            37.971
+          ],
+          "category": "park",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus für eine kurze Fahrt in diese grüne Oase.",
+            "hu": "Menjen egy helyi busszal egy rövid útra ebbe a zöld oázisba.",
+            "ro": "Luați un autobuz local pentru o scurtă călătorie spre această oază verde.",
+            "en": "Take a local bus for a short ride to this green oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Torre del Moro",
+            "hu": "Buszozás a Torre del Moro-hoz",
+            "ro": "Călătorie cu autobuzul la Torre del Moro",
+            "en": "Bus to Torre del Moro"
+          },
+          "coords": [
+            -0.642,
+            37.989
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Die Buslinie 'A' bringt Sie in die Nähe des Turms.",
+            "hu": "Az 'A' jelzésű buszjárattal eljuthat a torony közelébe.",
+            "ro": "Linia de autobuz 'A' vă va duce aproape de turn.",
+            "en": "The 'A' bus line will get you close to the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Strand von La Mata",
+            "hu": "Naplemente a La Mata strandon",
+            "ro": "Apus de soare la Plaja La Mata",
+            "en": "Sunset at La Mata Beach"
+          },
+          "coords": [
+            -0.638,
+            38.001
+          ],
+          "category": "beach",
+          "arrive_at": "16:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Vom Turm aus ist es nur ein kurzer Spaziergang zu diesem riesigen Strand.",
+            "hu": "A toronytól csak egy rövid sétára van ez a hatalmas strand.",
+            "ro": "Este o scurtă plimbare de la turn până la această plajă imensă.",
+            "en": "It's a short walk from the tower to this huge beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am zentralen Busbahnhof und erkunden Sie den ersten Cluster – das historische Zentrum – zu Fuß. Besuchen Sie die Kirche und das Salzmuseum, bevor Sie am Hafen entlang spazieren. Nach dem Mittagessen bringt Sie ein kurzer Bus zu Ihrem zweiten Cluster, dem Parque de las Naciones. Ein weiterer Bus bringt Sie am Nachmittag zum dritten Cluster, dem Torre del Moro, für einen Panoramablick. Beenden Sie Ihren Tag mit einem kurzen Spaziergang zu einem Drink bei Sonnenuntergang am weitläufigen Strand von La Mata.",
+        "hu": "Kezdje a központi buszpályaudvaron, és fedezze fel gyalog az első látnivalócsoportot – a történelmi központot. Látogassa meg a templomot és a Sómúzeumot, mielőtt a kikötő mentén sétálna. Ebéd után egy rövid buszút viszi a második látnivalócsoporthoz, a Parque de las Naciones-hoz. Délután egy másik busz viszi a harmadik látnivalócsoporthoz, a Torre del Moro-hoz, ahonnan panorámás kilátás nyílik. Fejezze be a napot egy rövid sétával egy naplementés italra a tágas La Mata strandon.",
+        "ro": "Începeți de la stația centrală de autobuz și explorați primul grup de atracții – centrul istoric – pe jos. Vizitați biserica și muzeul sării înainte de a vă plimba de-a lungul portului. După prânz, un autobuz scurt vă va duce la al doilea grup, Parcul Națiunilor. Un alt autobuz vă va duce după-amiaza la al treilea grup, Torre del Moro, pentru priveliști panoramice. Încheiați ziua cu o scurtă plimbare pentru o băutură la apus pe plaja întinsă La Mata.",
+        "en": "Start at the central bus station and explore the first cluster – the historic center – on foot. Visit the church and salt museum before strolling along the marina. After lunch, a short bus will take you to your second cluster, the Parque de las Naciones. Another bus in the afternoon takes you to the third cluster, Torre del Moro, for panoramic views. End your day with a short walk for a sunset drink on the vast La Mata beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas-Bars",
+            "tip": "Probieren Sie verschiedene kleine Gerichte. Suchen Sie nach belebten Orten, an denen die Einheimischen essen."
+          },
+          {
+            "name": "Gegrillte Sardinen",
+            "tip": "Eine einfache, aber köstliche Küstenspezialität, oft an Strandbars (Chiringuitos) serviert."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Probieren Sie einen 'tinto de verano', eine erfrischende Mischung aus Rotwein und Limonade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas bárok",
+            "tip": "Kóstoljon meg különböző apró ételeket. Keressen forgalmas helyeket, ahol a helyiek esznek."
+          },
+          {
+            "name": "Grillezett szardínia",
+            "tip": "Egyszerű, de finom tengerparti specialitás, gyakran strandbárokban (chiringuitos) szolgálják fel."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kóstolja meg a 'tinto de verano'-t, a vörösbor és a limonádé frissítő keverékét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baruri de tapas",
+            "tip": "Încercați diverse feluri de mâncare mici. Căutați locuri aglomerate unde mănâncă localnicii."
+          },
+          {
+            "name": "Sardine la grătar",
+            "tip": "O specialitate de coastă simplă, dar delicioasă, adesea servită la barurile de pe plajă (chiringuitos)."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Încercați un 'tinto de verano', un amestec răcoritor de vin roșu și limonadă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas Bars",
+            "tip": "Sample various small dishes. Look for busy places where the locals eat."
+          },
+          {
+            "name": "Grilled Sardines",
+            "tip": "A simple but delicious coastal speciality, often served at beach bars (chiringuitos)."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Try a 'tinto de verano', a refreshing mix of red wine and lemonade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Strand von La Mata",
+            "tip": "Ein riesiger Strand bietet viel Platz für Ruhe und Frieden.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de las Naciones",
+            "tip": "Finden Sie eine schattige Bank und beobachten Sie die Welt an sich vorbeiziehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang auf dem Dique de Levante",
+            "tip": "Die Aussicht auf das offene Meer ist sehr beruhigend.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a La Mata strandon",
+            "tip": "A hatalmas strand rengeteg helyet kínál a békéhez és a csendhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de las Naciones",
+            "tip": "Keressen egy árnyékos padot, és nézze a világot.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Dique de Levante mólón",
+            "tip": "A nyílt tenger látványa nagyon megnyugtató.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la Plaja La Mata",
+            "tip": "O plajă imensă oferă mult spațiu pentru pace și liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Națiunilor",
+            "tip": "Găsiți o bancă umbrită și priviți lumea cum trece.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe Dique de Levante",
+            "tip": "Priveliștea mării deschise este foarte liniștitoare.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at La Mata Beach",
+            "tip": "A huge beach offers plenty of space for peace and quiet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park of Nations",
+            "tip": "Find a shady bench and watch the world go by.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk on the Dique de Levante",
+            "tip": "The view of the open sea is very calming.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fußgängerzonen",
+            "tip": "Rund um die Plaza de la Constitución gibt es viele kleine, unabhängige Geschäfte."
+          },
+          {
+            "name": "Lokale Keramik",
+            "tip": "Handbemalte Keramik ist ein schönes und traditionelles spanisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sétálóutcák",
+            "tip": "A Plaza de la Constitución környékén sok kis, független üzlet található."
+          },
+          {
+            "name": "Helyi kerámia",
+            "tip": "A kézzel festett kerámia gyönyörű és hagyományos spanyol ajándéktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Străzi pietonale",
+            "tip": "Există multe magazine mici, independente, în jurul Plaza de la Constitución."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Ceramica pictată manual este un suvenir spaniol frumos și tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pedestrian Streets",
+            "tip": "There are many small, independent shops around the Plaza de la Constitución."
+          },
+          {
+            "name": "Local Ceramics",
+            "tip": "Hand-painted pottery makes for a beautiful and traditional Spanish souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Bono Bus'-Karte für günstigere Tarife, wenn Sie mehrere Fahrten planen.",
+          "Die Busfahrpläne können variieren, überprüfen Sie die Zeiten an der Haltestelle.",
+          "Signal an den Fahrer, wenn Ihr Bus ankommt, sonst hält er möglicherweise nicht an.",
+          "Haben Sie Kleingeld für das Busticket bereit."
+        ],
+        "hu": [
+          "Vásároljon 'Bono Bus' kártyát a kedvezőbb árakért, ha több utazást tervez.",
+          "A buszmenetrendek változhatnak, ellenőrizze az időpontokat a megállóban.",
+          "Jelet adjon a sofőrnek, amikor megérkezik a busz, különben lehet, hogy nem áll meg.",
+          "Készítsen elő aprópénzt a buszjegyhez."
+        ],
+        "ro": [
+          "Cumpărați un card 'Bono Bus' pentru tarife mai ieftine dacă intenționați să faceți mai multe călătorii.",
+          "Programele autobuzelor pot varia, verificați orele la stație.",
+          "Semnalizați șoferului când ajunge autobuzul, altfel s-ar putea să nu oprească.",
+          "Pregătiți mărunțiș pentru biletul de autobuz."
+        ],
+        "en": [
+          "Buy a 'Bono Bus' card for cheaper fares if you plan on making multiple trips.",
+          "Bus schedules can vary, check the times at the stop.",
+          "Signal the driver when your bus is arriving, or it might not stop.",
+          "Have small change ready for the bus ticket."
+        ]
+      }
+    }
+  }
+}

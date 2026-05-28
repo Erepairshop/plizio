@@ -1,0 +1,1228 @@
+{
+  "city_id": "austria-ganserndorf-cities-v2",
+  "anchor": {
+    "name": "Gänserndorf",
+    "coords": [
+      16.7164,
+      48.3361
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Gänserndorf",
+            "hu": "Gänserndorfi Városháza",
+            "ro": "Primăria Gänserndorf",
+            "en": "Gänserndorf Town Hall"
+          },
+          "coords": [
+            16.716,
+            48.336
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade des zentralen Gebäudes der Stadt.",
+            "hu": "Csodálja meg a város központi épületének homlokzatát.",
+            "ro": "Admirați fațada clădirii centrale a orașului.",
+            "en": "Admire the facade of the city's central building."
+          }
+        },
+        {
+          "name": {
+            "de": "Pestsäule",
+            "hu": "Pestisoszlop",
+            "ro": "Coloana Ciumei",
+            "en": "Plague Column"
+          },
+          "coords": [
+            16.7155,
+            48.3358
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:29",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Denkmal, das an die schweren Zeiten der Stadt erinnert.",
+            "hu": "Egy emlékmű, amely a város nehéz időszakaira emlékeztet.",
+            "ro": "Un monument care comemorează vremurile grele ale orașului.",
+            "en": "A monument commemorating the city's difficult times."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche Gänserndorf",
+            "hu": "Gänserndorfi Plébániatemplom",
+            "ro": "Biserica Parohială Gänserndorf",
+            "en": "Gänserndorf Parish Church"
+          },
+          "coords": [
+            16.717,
+            48.3365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für die Ruhe in dieser schönen Kirche.",
+            "hu": "Szánjon egy percet a csendre ebben a gyönyörű templomban.",
+            "ro": "Luați-vă un moment de liniște în această biserică frumoasă.",
+            "en": "Take a moment for quiet contemplation in this beautiful church."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum",
+            "hu": "Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală",
+            "en": "Local History Museum"
+          },
+          "coords": [
+            16.715,
+            48.337
+          ],
+          "category": "museums",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Region Weinviertel.",
+            "hu": "Ismerje meg a Weinviertel régió gazdag történelmét.",
+            "ro": "Descoperiți istoria bogată a regiunii Weinviertel.",
+            "en": "Discover the rich history of the Weinviertel region."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            16.71,
+            48.335
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für ein Mittagspicknick oder einen entspannten Spaziergang.",
+            "hu": "Tökéletes hely egy ebédpiknikhez vagy egy pihentető sétához.",
+            "ro": "Locul perfect pentru un picnic la prânz sau o plimbare relaxantă.",
+            "en": "The perfect spot for a midday picnic or a relaxing stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Kellergasse",
+            "hu": "Pincesor",
+            "ro": "Aleea Pivnițelor",
+            "en": "Cellar Alley"
+          },
+          "coords": [
+            16.72,
+            48.338
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie den lokalen Grünen Veltliner in einem der Heurigen.",
+            "hu": "Kóstolja meg a helyi Zöldveltelinit az egyik Heurigerben.",
+            "ro": "Gustați vinul local Grüner Veltliner la una dintre tavernele Heuriger.",
+            "en": "Try the local Grüner Veltliner wine in one of the Heuriger taverns."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Gänserndorf am Rathaus. Ein kurzer Spaziergang führt Sie zur Pestsäule und zur ruhigen Stadtpfarrkirche. Am Nachmittag tauchen Sie im Heimatmuseum in die lokale Geschichte ein, bevor Sie im Stadtpark entspannen. Der Abend gehört der berühmten Kellergasse, wo Sie den Tag bei einem Glas Wein ausklingen lassen und die einzigartige Atmosphäre der Weinviertler Weinkeller erleben.",
+        "hu": "Kezdje a napot Gänserndorf szívében, a Városházánál. Egy rövid séta elvezeti a Pestisoszlophoz és a csendes Plébániatemplomhoz. Délután merüljön el a helytörténetben a Helytörténeti Múzeumban, mielőtt a Városi Parkban pihenne. Az este a híres Pincesorról szól, ahol egy pohár bor mellett zárhatja a napot, megtapasztalva a Weinviertel borospincéinek egyedi hangulatát.",
+        "ro": "Începeți ziua în inima orașului Gänserndorf, la Primărie. O scurtă plimbare vă va duce la Coloana Ciumei și la liniștita Biserică Parohială. După-amiaza, pătrundeți în istoria locală la Muzeul de Istorie, înainte de a vă relaxa în Parcul Orașului. Seara este dedicată faimoasei Alee a Pivnițelor, unde puteți încheia ziua cu un pahar de vin, experimentând atmosfera unică a pivnițelor din Weinviertel.",
+        "en": "Start your day in the heart of Gänserndorf at the Town Hall. A short walk takes you to the Plague Column and the tranquil Parish Church. In the afternoon, delve into local history at the museum before relaxing in the City Park. The evening belongs to the famous Cellar Alley, where you can end the day with a glass of wine, experiencing the unique atmosphere of the Weinviertel wine cellars."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heuriger",
+            "tip": "Probieren Sie eine Brettljause mit regionalem Wein."
+          },
+          {
+            "name": "Gasthaus zur alten Post",
+            "tip": "Traditionelle österreichische Küche in gemütlichem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heuriger (borozó)",
+            "tip": "Kóstoljon meg egy hidegtálat (Brettljause) helyi borral."
+          },
+          {
+            "name": "Gasthaus zur alten Post",
+            "tip": "Hagyományos osztrák konyha hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuriger (tavernă de vin)",
+            "tip": "Încercați un platou rece (Brettljause) cu vin regional."
+          },
+          {
+            "name": "Gasthaus zur alten Post",
+            "tip": "Bucătărie tradițională austriacă într-o ambianță primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heuriger (wine tavern)",
+            "tip": "Try a cold platter (Brettljause) with regional wine."
+          },
+          {
+            "name": "Gasthaus zur alten Post",
+            "tip": "Traditional Austrian cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Eine grüne Oase der Ruhe im Stadtzentrum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang der March",
+            "tip": "Etwas außerhalb, aber perfekt für eine ungestörte Zeit in der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Park",
+            "tip": "A nyugalom zöld oázisa a városközpontban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Morva folyó mentén",
+            "tip": "Kicsit kijjebb esik, de tökéletes a zavartalan természet közelségéhez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Orașului",
+            "tip": "O oază verde de liniște în centrul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Morava",
+            "tip": "Puțin în afara orașului, dar perfect pentru un moment de neuitat în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "A green oasis of peace in the city center.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the March river",
+            "tip": "A bit outside, but perfect for some undisturbed time in nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Kaufen Sie frische Produkte und lokale Spezialitäten direkt von den Erzeugern."
+          },
+          {
+            "name": "Lokale Weinbauern",
+            "tip": "Nehmen Sie eine Flasche Weinviertel DAC als Souvenir mit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Vásároljon friss termékeket és helyi specialitásokat közvetlenül a termelőktől."
+          },
+          {
+            "name": "Helyi borászok",
+            "tip": "Vigyen haza egy üveg Weinviertel DAC bort szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Cumpărați produse proaspete și specialități locale direct de la producători."
+          },
+          {
+            "name": "Producători de vin locali",
+            "tip": "Luați o sticlă de Weinviertel DAC ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Buy fresh produce and local specialties directly from the producers."
+          },
+          {
+            "name": "Local Wineries",
+            "tip": "Take home a bottle of Weinviertel DAC as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Prüfen Sie die Öffnungszeiten des Heimatmuseums im Voraus.",
+          "Viele Heurige haben nur saisonal geöffnet."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részét gyalog fogja tölteni.",
+          "Ellenőrizze előre a Helytörténeti Múzeum nyitvatartását.",
+          "Sok borozó csak szezonálisan tart nyitva."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Verificați în avans programul de funcționare al Muzeului de Istorie Locală.",
+          "Multe taverne sunt deschise doar în sezon."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking for most of the day.",
+          "Check the opening hours of the Local History Museum in advance.",
+          "Many wine taverns are only open seasonally."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus & Zentrum",
+            "hu": "Városháza és központ",
+            "ro": "Primăria și Centrul",
+            "en": "Town Hall & Center"
+          },
+          "coords": [
+            16.716,
+            48.336
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour im Zentrum und saugen Sie die Atmosphäre auf.",
+            "hu": "Kezdje a túrát a központban, és szívja magába a hangulatot.",
+            "ro": "Începeți turul în centru și absorbiți atmosfera.",
+            "en": "Start your tour in the center and soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            16.71,
+            48.335
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:36",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Radtour zum Park für eine morgendliche Brise.",
+            "hu": "Egy rövid biciklitúra a parkba egy reggeli szellőért.",
+            "ro": "O scurtă plimbare cu bicicleta în parc pentru o briză de dimineață.",
+            "en": "A short bike ride to the park for a morning breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum",
+            "hu": "Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală",
+            "en": "Local History Museum"
+          },
+          "coords": [
+            16.715,
+            48.337
+          ],
+          "category": "museums",
+          "arrive_at": "10:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und tauchen Sie in die Geschichte ein.",
+            "hu": "Zárja le a kerékpárját, és merüljön el a történelemben.",
+            "ro": "Încuiați-vă bicicleta și pătrundeți în istorie.",
+            "en": "Lock up your bike and dive into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kellergasse",
+            "hu": "Pincesor",
+            "ro": "Aleea Pivnițelor",
+            "en": "Cellar Alley"
+          },
+          "coords": [
+            16.72,
+            48.338
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:52",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Zeit für eine Mittagspause und vielleicht ein erstes Glas Wein.",
+            "hu": "Ideje egy ebédszünetnek és talán az első pohár bornak.",
+            "ro": "Timpul pentru o pauză de prânz și poate un prim pahar de vin.",
+            "en": "Time for a lunch break and maybe a first glass of wine."
+          }
+        },
+        {
+          "name": {
+            "de": "Erlebnispark Gänserndorf",
+            "hu": "Gänserndorfi Kalandpark",
+            "ro": "Parcul de Aventuri Gänserndorf",
+            "en": "Gänserndorf Adventure Park"
+          },
+          "coords": [
+            16.73,
+            48.34
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein lustiger Nachmittag für die ganze Familie.",
+            "hu": "Egy szórakoztató délután az egész családnak.",
+            "ro": "O după-amiază distractivă pentru întreaga familie.",
+            "en": "A fun afternoon for the whole family."
+          }
+        },
+        {
+          "name": {
+            "de": "Safaripark Areal (Aussicht)",
+            "hu": "Szafaripark Terület (Kilátás)",
+            "ro": "Zona Parcului Safari (Belvedere)",
+            "en": "Safari Park Area (Viewpoint)"
+          },
+          "coords": [
+            16.75,
+            48.35
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 55,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer weiten Aussicht über die Landschaft.",
+            "hu": "Fejezze be a kerékpártúrát a tájra nyíló széles kilátással.",
+            "ro": "Încheiați turul cu bicicleta cu o vedere panoramică asupra peisajului.",
+            "en": "End your bike tour with a wide view over the landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie im Stadtzentrum. Eine leichte Fahrt führt Sie zum Stadtpark und dann zum Heimatmuseum. Nach einem Einblick in die Geschichte ist es Zeit für die Kellergasse und eine wohlverdiente Mittagspause. Am Nachmittag wartet der Erlebnispark auf Sie, gefolgt von einer längeren, aber lohnenden Fahrt zum Safaripark-Areal, um den Tag mit einer beeindruckenden Aussicht zu beenden.",
+        "hu": "Pattanjon biciklire, és induljon a városközpontból. Egy könnyű tekerés elvezeti a Városi Parkhoz, majd a Helytörténeti Múzeumhoz. A történelembe való betekintés után jöhet a Pincesor és egy jól megérdemelt ebédszünet. Délután a Kalandpark várja, majd egy hosszabb, de megérő út a Szafaripark területére, hogy lenyűgöző kilátással zárja a napot.",
+        "ro": "Urcați-vă pe bicicletă și porniți din centrul orașului. O plimbare ușoară vă duce la Parcul Orașului și apoi la Muzeul de Istorie. După o incursiune în istorie, este timpul pentru Aleea Pivnițelor și o pauză de prânz binemeritată. După-amiaza, Parcul de Aventuri vă așteaptă, urmat de o plimbare mai lungă, dar plină de satisfacții, spre zona Parcului Safari pentru a încheia ziua cu o priveliște impresionantă.",
+        "en": "Get on your bike and start from the city center. An easy ride takes you to the City Park and then to the Local History Museum. After a glimpse into history, it's time for the Cellar Alley and a well-deserved lunch break. In the afternoon, the Adventure Park awaits, followed by a longer but rewarding ride to the Safari Park area to end the day with an impressive view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Weinviertler Heuriger",
+            "tip": "Stärken Sie sich mit lokalen Schmankerln und einem Glas Wein."
+          },
+          {
+            "name": "Bäckerei Geier",
+            "tip": "Holen Sie sich Proviant für Ihre Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Weinvierteli Heuriger",
+            "tip": "Erősítse meg magát helyi finomságokkal és egy pohár borral."
+          },
+          {
+            "name": "Geier Pékség",
+            "tip": "Szerezzen be elemózsiát a kerékpártúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavernă Weinviertel",
+            "tip": "Întăriți-vă cu delicatese locale și un pahar de vin."
+          },
+          {
+            "name": "Brutăria Geier",
+            "tip": "Luați-vă provizii pentru turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weinviertel Wine Tavern",
+            "tip": "Refuel with local delicacies and a glass of wine."
+          },
+          {
+            "name": "Geier Bakery",
+            "tip": "Grab some provisions for your bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Feldwege um Gänserndorf",
+            "tip": "Genießen Sie die Ruhe der weiten Landschaft des Weinviertels.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Ufer der March",
+            "tip": "Ein friedlicher Ort, um Vögel zu beobachten und zu entspannen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mezei utak Gänserndorf körül",
+            "tip": "Élvezze a Weinviertel tágas tájának csendjét.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "A Morva partja",
+            "tip": "Békés hely madármegfigyelésre és pihenésre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumuri de țară în jurul Gänserndorf",
+            "tip": "Bucurați-vă de liniștea peisajului vast din Weinviertel.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Malurile râului Morava",
+            "tip": "Un loc pașnic pentru a observa păsările și a vă relaxa.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Country roads around Gänserndorf",
+            "tip": "Enjoy the tranquility of the vast Weinviertel landscape.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Banks of the March River",
+            "tip": "A peaceful place for bird watching and relaxation.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ab-Hof-Verkauf",
+            "tip": "Kaufen Sie Wein und andere Produkte direkt vom Bauernhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői értékesítés",
+            "tip": "Vásároljon bort és egyéb termékeket közvetlenül a gazdaságból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare directă de la fermă",
+            "tip": "Cumpărați vin și alte produse direct de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm-gate sales",
+            "tip": "Buy wine and other products directly from the farm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ausreichend Wasser mit, besonders für die längere Fahrt am Nachmittag.",
+          "Ein Fahrradschloss ist unerlässlich, wenn Sie die Sehenswürdigkeiten besuchen.",
+          "Die Wege sind meist flach, aber eine Gangschaltung ist von Vorteil."
+        ],
+        "hu": [
+          "Vigyen magával elegendő vizet, különösen a délutáni hosszabb útra.",
+          "A kerékpárzár elengedhetetlen a látnivalók megtekintésekor.",
+          "Az utak többnyire síkak, de a sebességváltó előnyös."
+        ],
+        "ro": [
+          "Luați suficientă apă cu dumneavoastră, în special pentru călătoria mai lungă de după-amiază.",
+          "O încuietoare pentru bicicletă este esențială atunci când vizitați obiectivele turistice.",
+          "Traseele sunt în mare parte plate, dar o bicicletă cu viteze este avantajoasă."
+        ],
+        "en": [
+          "Bring enough water, especially for the longer ride in the afternoon.",
+          "A bike lock is essential when you visit the sights.",
+          "The paths are mostly flat, but having gears is an advantage."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 21.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Parken",
+            "hu": "Központ Klaszter: Parkolás",
+            "ro": "Cluster Centru: Parcare",
+            "en": "Center Cluster: Parking"
+          },
+          "coords": [
+            16.716,
+            48.336
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto im Zentrum, um den ersten Teil der Stadt zu Fuß zu erkunden.",
+            "hu": "Parkolja le az autóját a központban, hogy gyalog fedezze fel a város első részét.",
+            "ro": "Parcați mașina în centru pentru a explora prima parte a orașului pe jos.",
+            "en": "Park your car in the center to explore the first part of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Pestsäule",
+            "hu": "Városháza és Pestisoszlop",
+            "ro": "Primăria și Coloana Ciumei",
+            "en": "Town Hall & Plague Column"
+          },
+          "coords": [
+            16.7155,
+            48.3358
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:12",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die historischen Wahrzeichen liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "A történelmi nevezetességek csak néhány lépésre vannak egymástól.",
+            "ro": "Reperele istorice sunt la doar câțiva pași unul de celălalt.",
+            "en": "The historic landmarks are just a few steps apart."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche Gänserndorf",
+            "hu": "Gänserndorfi Plébániatemplom",
+            "ro": "Biserica Parohială Gänserndorf",
+            "en": "Gänserndorf Parish Church"
+          },
+          "coords": [
+            16.717,
+            48.3365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:47",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zur Hauptkirche der Stadt.",
+            "hu": "Egy rövid séta a város főtemplomához.",
+            "ro": "O scurtă plimbare până la biserica principală a orașului.",
+            "en": "A short walk to the city's main church."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum",
+            "hu": "Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală",
+            "en": "Local History Museum"
+          },
+          "coords": [
+            16.715,
+            48.337
+          ],
+          "category": "museums",
+          "arrive_at": "10:28",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt im Zentrum, bevor es weitergeht.",
+            "hu": "Az utolsó megálló a központban, mielőtt tovább indulnánk.",
+            "ro": "Ultima oprire în centru înainte de a merge mai departe.",
+            "en": "The last stop in the center before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Freizeit: Erlebnispark Gänserndorf",
+            "hu": "Szabadidő Klaszter: Gänserndorfi Kalandpark",
+            "ro": "Cluster Timp Liber: Parcul de Aventuri Gänserndorf",
+            "en": "Leisure Cluster: Gänserndorf Adventure Park"
+          },
+          "coords": [
+            16.73,
+            48.34
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:53",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park und genießen Sie ein paar Stunden Spaß.",
+            "hu": "Vezessen a parkba, és élvezze a néhány órás szórakozást.",
+            "ro": "Conduceți până la parc și bucurați-vă de câteva ore de distracție.",
+            "en": "Drive to the park and enjoy a few hours of fun."
+          }
+        },
+        {
+          "name": {
+            "de": "Kellergasse",
+            "hu": "Pincesor",
+            "ro": "Aleea Pivnițelor",
+            "en": "Cellar Alley"
+          },
+          "coords": [
+            16.72,
+            48.338
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zu den Weinkellern für eine Weinprobe.",
+            "hu": "Egy rövid séta a borospincékhez egy borkóstolóra.",
+            "ro": "O scurtă plimbare până la pivnițe pentru o degustare de vin.",
+            "en": "A short walk to the cellars for a wine tasting."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Natur: Safaripark Areal",
+            "hu": "Természet Klaszter: Szafaripark Terület",
+            "ro": "Cluster Natură: Zona Parcului Safari",
+            "en": "Nature Cluster: Safari Park Area"
+          },
+          "coords": [
+            16.75,
+            48.35
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:43",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 18.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine Fahrt in die Wildnis, um den Tag ausklingen zu lassen.",
+            "hu": "Egy utazás a vadonba, hogy lezárja a napot.",
+            "ro": "O excursie în sălbăticie pentru a încheia ziua.",
+            "en": "A drive into the wilderness to round off the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag, indem Sie Ihr Auto im Zentrum von Gänserndorf parken. Erkunden Sie zu Fuß das historische Herz mit Rathaus, Pestsäule und Kirche. Nach einem Museumsbesuch fahren Sie zum Erlebnispark für Spaß und Action. Ein kurzer Spaziergang führt Sie zur Kellergasse. Den Abschluss bildet eine Fahrt zum weitläufigen Safaripark-Areal, wo Sie die Natur des Weinviertels in vollen Zügen genießen können, bevor Sie die Heimreise antreten.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját Gänserndorf központjában. Fedezze fel gyalog a történelmi belvárost a Városházával, a Pestisoszloppal és a templommal. A múzeumlátogatás után vezessen a Kalandparkba egy kis szórakozásért és akcióért. Egy rövid séta elvezeti a Pincesorhoz. A napot a tágas Szafaripark területére tett kirándulás zárja, ahol a hazaút előtt teljes mértékben élvezheti a Weinviertel természetét.",
+        "ro": "Începeți ziua parcând mașina în centrul orașului Gänserndorf. Explorați pe jos inima istorică cu primăria, coloana ciumei și biserica. După o vizită la muzeu, conduceți la parcul de aventuri pentru distracție și acțiune. O scurtă plimbare vă duce la Aleea Pivnițelor. Ziua se încheie cu o excursie la vasta zonă a Parcului Safari, unde vă puteți bucura din plin de natura din Weinviertel înainte de a porni spre casă.",
+        "en": "Start your day by parking your car in the center of Gänserndorf. Explore the historic heart on foot with the town hall, plague column, and church. After a visit to the museum, drive to the adventure park for fun and action. A short walk takes you to the Cellar Alley. The day concludes with a drive to the expansive Safari Park area, where you can fully enjoy the nature of the Weinviertel before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Marchfelderhof",
+            "tip": "Ein extravagantes Restaurant-Erlebnis etwas außerhalb, aber die Fahrt wert."
+          },
+          {
+            "name": "Landgasthof 'Zum weissen Schwan'",
+            "tip": "Regionale Spezialitäten in einem traditionellen Landgasthof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marchfelderhof",
+            "tip": "Extravagáns éttermi élmény kicsit kijjebb, de megéri az utat."
+          },
+          {
+            "name": "'Zum weissen Schwan' Fogadó",
+            "tip": "Helyi specialitások egy hagyományos vidéki fogadóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marchfelderhof",
+            "tip": "O experiență culinară extravagantă puțin în afara orașului, dar care merită drumul."
+          },
+          {
+            "name": "Hanul 'Zum weissen Schwan'",
+            "tip": "Specialități regionale într-un han tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marchfelderhof",
+            "tip": "An extravagant restaurant experience a bit outside, but worth the drive."
+          },
+          {
+            "name": "'Zum weissen Schwan' Country Inn",
+            "tip": "Regional specialties in a traditional country inn."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Safaripark",
+            "tip": "Genießen Sie die weite Sicht und die Ruhe am Rande des Areals.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Seitengassen der Kellergasse",
+            "tip": "Entfliehen Sie dem Trubel und finden Sie ein ruhiges Plätzchen zwischen den Weinkellern.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Szafariparknál",
+            "tip": "Élvezze a tágas kilátást és a csendet a terület szélén.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Pincesor mellékutcái",
+            "tip": "Meneküljön el a nyüzsgéstől, és találjon egy csendes helyet a borospincék között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la Parcul Safari",
+            "tip": "Bucurați-vă de priveliștea largă și de liniștea de la marginea zonei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțele laterale ale Aleii Pivnițelor",
+            "tip": "Evadați din agitație și găsiți un loc liniștit printre pivnițe.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Safari Park Viewpoint",
+            "tip": "Enjoy the wide view and tranquility on the edge of the area.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Side alleys of the Kellergasse",
+            "tip": "Escape the hustle and find a quiet spot between the wine cellars.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Nutzen Sie das Auto, um bei verschiedenen Bauernhöfen Wein, Säfte und Marmeladen zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gazdaságok boltjai a környéken",
+            "tip": "Használja ki az autót, hogy különböző gazdaságokban vásároljon bort, gyümölcsleveket és lekvárokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor din zonă",
+            "tip": "Folosiți mașina pentru a cumpăra vin, sucuri și gemuri de la diverse ferme."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "Use the car to buy wine, juices, and jams from various farms."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Suchen Sie nach einem zentralen, ganztägigen Parkplatz.",
+          "Planen Sie genügend Zeit für die Fahrt zwischen den Clustern ein.",
+          "Das Safaripark-Areal ist groß, wählen Sie einen Bereich aus, den Sie erkunden möchten."
+        ],
+        "hu": [
+          "Keressen egy központi, egész napos parkolót.",
+          "Tervezzen elegendő időt a klaszterek közötti utazásra.",
+          "A Szafaripark területe nagy, válasszon ki egy részt, amelyet fel szeretne fedezni."
+        ],
+        "ro": [
+          "Căutați o parcare centrală, disponibilă pe tot parcursul zilei.",
+          "Planificați suficient timp pentru deplasarea între clustere.",
+          "Zona Parcului Safari este mare, alegeți o zonă pe care doriți să o explorați."
+        ],
+        "en": [
+          "Look for a central, all-day parking spot.",
+          "Allow enough time for the drive between clusters.",
+          "The Safari Park area is large, pick one section you want to explore."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Ankunft Bahnhof",
+            "hu": "Központ Klaszter: Érkezés a pályaudvarra",
+            "ro": "Cluster Centru: Sosire la gară",
+            "en": "Center Cluster: Arrival at Station"
+          },
+          "coords": [
+            16.712,
+            48.339
+          ],
+          "category": "transit-stop",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am Bahnhof Gänserndorf, dem Tor zur Stadt.",
+            "hu": "Kezdje a napot a gänserndorfi vasútállomáson, a város kapujában.",
+            "ro": "Începeți ziua la gara Gänserndorf, poarta de intrare în oraș.",
+            "en": "Start your day at Gänserndorf station, the gateway to the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Stadtzentrum",
+            "hu": "Városháza és városközpont",
+            "ro": "Primăria și Centrul Orașului",
+            "en": "Town Hall & City Center"
+          },
+          "coords": [
+            16.716,
+            48.336
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof ins Herz der Stadt.",
+            "hu": "Egy rövid séta a pályaudvartól a város szívébe.",
+            "ro": "O scurtă plimbare de la gară în inima orașului.",
+            "en": "A short walk from the station into the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & Heimatmuseum",
+            "hu": "Plébániatemplom és Helytörténeti Múzeum",
+            "ro": "Biserica Parohială și Muzeul Local",
+            "en": "Parish Church & Local Museum"
+          },
+          "coords": [
+            16.716,
+            48.337
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:22",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie Kultur und Geschichte, die nah beieinander liegen.",
+            "hu": "Kombinálja a kultúrát és a történelmet, melyek közel vannak egymáshoz.",
+            "ro": "Combinați cultura și istoria, care sunt situate aproape una de cealaltă.",
+            "en": "Combine culture and history, which are located close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Erholung: Stadtpark",
+            "hu": "Pihenés Klaszter: Városi Park",
+            "ro": "Cluster Relaxare: Parcul Orașului",
+            "en": "Recreation Cluster: City Park"
+          },
+          "coords": [
+            16.71,
+            48.335
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Park für eine entspannte Mittagspause.",
+            "hu": "Menjen helyi busszal a parkba egy pihentető ebédszünetre.",
+            "ro": "Luați un autobuz local până la parc pentru o pauză de prânz relaxantă.",
+            "en": "Take a local bus to the park for a relaxing lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kellergasse",
+            "hu": "Pincesor",
+            "ro": "Aleea Pivnițelor",
+            "en": "Cellar Alley"
+          },
+          "coords": [
+            16.72,
+            48.338
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch den Park führt Sie zu den Weinkellern.",
+            "hu": "Egy séta a parkon keresztül elvezeti a borospincékhez.",
+            "ro": "O plimbare prin parc vă va duce la pivnițe.",
+            "en": "A walk through the park will lead you to the wine cellars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise beginnt am Bahnhof Gänserndorf. Von dort spazieren Sie ins Zentrum, um Rathaus, Kirche und Museum zu erkunden. Ein lokaler Bus bringt Sie am Mittag bequem zum Stadtpark, wo Sie sich entspannen können. Den Nachmittag verbringen Sie in der berühmten Kellergasse, die nur einen Spaziergang entfernt ist, und genießen die Weinviertler Gastfreundschaft, bevor Sie mit dem Bus zurück zum Bahnhof fahren.",
+        "hu": "Az utazás a gänserndorfi vasútállomáson kezdődik. Innen sétáljon a központba, hogy felfedezze a Városházát, a templomot és a múzeumot. Délben egy helyi busz kényelmesen elviszi a Városi Parkba, ahol pihenhet. A délutánt a híres Pincesoron tölti, amely csak egy rövid séta, és élvezheti a Weinviertel vendégszeretetét, mielőtt busszal visszatérne a pályaudvarra.",
+        "ro": "Călătoria dumneavoastră începe la gara Gänserndorf. De acolo, vă plimbați în centru pentru a explora primăria, biserica și muzeul. La prânz, un autobuz local vă duce confortabil la Parcul Orașului, unde vă puteți relaxa. Petreceți după-amiaza pe faimoasa Alee a Pivnițelor, la doar o scurtă plimbare, bucurându-vă de ospitalitatea din Weinviertel înainte de a lua autobuzul înapoi la gară.",
+        "en": "Your journey begins at Gänserndorf train station. From there, you'll walk into the center to explore the town hall, church, and museum. At noon, a local bus will take you comfortably to the City Park where you can relax. You'll spend the afternoon in the famous Cellar Alley, just a short walk away, enjoying the Weinviertel hospitality before taking a bus back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café im Zentrum",
+            "tip": "Ein idealer Startpunkt mit Kaffee und Kuchen."
+          },
+          {
+            "name": "Würstelstand am Bahnhof",
+            "tip": "Für einen schnellen Imbiss vor der Abfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézó a központban",
+            "tip": "Ideális kiindulópont kávéval és süteménnyel."
+          },
+          {
+            "name": "Virslis a pályaudvarnál",
+            "tip": "Egy gyors harapnivalóhoz indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea în centru",
+            "tip": "Un punct de plecare ideal cu cafea și prăjituri."
+          },
+          {
+            "name": "Stand de cârnați la gară",
+            "tip": "Pentru o gustare rapidă înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café in the center",
+            "tip": "An ideal starting point with coffee and cake."
+          },
+          {
+            "name": "Sausage stand at the station",
+            "tip": "For a quick snack before departure."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bank im Stadtpark",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das Treiben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof",
+            "tip": "Ein Ort der Stille und Besinnung mitten in der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a Városi Parkban",
+            "tip": "Keressen egy csendes padot, és figyelje a nyüzsgést.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "A csend és az elmélkedés helye a város közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă în Parcul Orașului",
+            "tip": "Găsiți o bancă liniștită și priviți agitația.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii",
+            "tip": "Un loc de liniște și contemplare în mijlocul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bench in the City Park",
+            "tip": "Find a quiet bench and watch the hustle and bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Churchyard",
+            "tip": "A place of silence and contemplation in the middle of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Bahnstraße",
+            "tip": "Stöbern Sie in den kleinen Läden rund um die Hauptstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a Bahnstraße-n",
+            "tip": "Böngésszen a főutca körüli kis boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe Bahnstraße",
+            "tip": "Răsfoiți micile magazine din jurul străzii principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Bahnstraße",
+            "tip": "Browse the small shops around the main street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über den Fahrplan der lokalen Busse (Citybus).",
+          "Eine Tageskarte für den öffentlichen Verkehr könnte sich lohnen.",
+          "Der Bahnhof ist ein guter Ausgangs- und Endpunkt für Ihre Tour."
+        ],
+        "hu": [
+          "Tájékozódjon a helyi buszok (Citybus) menetrendjéről.",
+          "Érdemes lehet egy napijegyet venni a tömegközlekedésre.",
+          "A vasútállomás jó kiindulási és végpontja a túrának."
+        ],
+        "ro": [
+          "Informați-vă despre orarul autobuzelor locale (Citybus).",
+          "Un bilet de o zi pentru transportul public ar putea merita.",
+          "Gara este un bun punct de plecare și de sosire pentru turul dumneavoastră."
+        ],
+        "en": [
+          "Check the schedule of the local buses (Citybus).",
+          "A day ticket for public transport might be worthwhile.",
+          "The train station is a good starting and ending point for your tour."
+        ]
+      }
+    }
+  }
+}

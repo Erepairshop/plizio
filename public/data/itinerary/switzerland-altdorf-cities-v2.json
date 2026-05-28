@@ -1,0 +1,1454 @@
+{
+  "city_id": "switzerland-altdorf-cities-v2",
+  "anchor": {
+    "name": "Altdorf",
+    "coords": [
+      8.6443,
+      46.8828
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Lehnplatz & Telldenkmal",
+            "hu": "Lehnplatz és Tell-emlékmű",
+            "ro": "Piața Lehnplatz și Monumentul Tell",
+            "en": "Lehnplatz & Tell Monument"
+          },
+          "coords": [
+            8.6425,
+            46.8815
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Lesen Sie die Inschriften am Denkmal, sie erzählen die Gründungsgeschichte der Schweiz.",
+            "hu": "Olvassa el a feliratokat az emlékművön, Svájc alapítási történetét mesélik el.",
+            "ro": "Citiți inscripțiile de pe monument, acestea spun povestea fondării Elveției.",
+            "en": "Read the inscriptions on the monument; they tell the founding story of Switzerland."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Martin",
+            "hu": "Szent Márton plébániatemplom",
+            "ro": "Biserica parohială Sf. Martin",
+            "en": "Parish Church of St. Martin"
+          },
+          "coords": [
+            8.6448,
+            46.8829
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Deckenfresken und den barocken Hochaltar.",
+            "hu": "Figyelje meg a lenyűgöző mennyezeti freskókat és a barokk főoltárt.",
+            "ro": "Observați frescele impresionante de pe tavan și altarul baroc.",
+            "en": "Pay attention to the impressive ceiling frescoes and the baroque high altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Bürgli-Turm",
+            "hu": "Bürgli-torony",
+            "ro": "Turnul Bürgli",
+            "en": "Bürgli Tower"
+          },
+          "coords": [
+            8.641,
+            46.8805
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Von hier aus haben Sie den besten Panoramablick über die Dächer von Altdorf.",
+            "hu": "Innen nyílik a legjobb panoráma Altdorf háztetőire.",
+            "ro": "De aici aveți cea mai bună vedere panoramică peste acoperișurile din Altdorf.",
+            "en": "From here, you have the best panoramic view over the rooftops of Altdorf."
+          }
+        },
+        {
+          "name": {
+            "de": "Tellspielhaus",
+            "hu": "Tell Játékszín",
+            "ro": "Teatrul Tell",
+            "en": "Tell Theatre"
+          },
+          "coords": [
+            8.6401,
+            46.8812
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht können Sie eine Aufführung des berühmten Stücks erleben.",
+            "hu": "Ellenőrizze a műsort, talán elcsíphet egy előadást a híres darabból.",
+            "ro": "Verificați programul, poate prindeți o reprezentație a celebrei piese.",
+            "en": "Check the schedule; you might be able to catch a performance of the famous play."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Gasthof zum Löwen",
+            "hu": "Ebéd a Gasthof zum Löwenben",
+            "ro": "Prânz la Gasthof zum Löwen",
+            "en": "Lunch at Gasthof zum Löwen"
+          },
+          "coords": [
+            8.642,
+            46.882
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie die Urner Spezialität 'Älplermagronen' mit Apfelmus.",
+            "hu": "Kóstolja meg az urni specialitást, az 'Älplermagronen'-t almaszósszal.",
+            "ro": "Încercați specialitatea locală 'Älplermagronen' cu sos de mere.",
+            "en": "Try the local Urn specialty 'Älplermagronen' with apple sauce."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapuzinerkloster",
+            "hu": "Kapucinus kolostor",
+            "ro": "Mănăstirea Capucinilor",
+            "en": "Capuchin Monastery"
+          },
+          "coords": [
+            8.648,
+            46.885
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Klostergarten ist eine Oase der Ruhe, perfekt für eine kurze Pause.",
+            "hu": "A kolostorkert a béke oázisa, tökéletes egy rövid szünetre.",
+            "ro": "Grădina mănăstirii este o oază de liniște, perfectă pentru o scurtă pauză.",
+            "en": "The monastery garden is an oasis of tranquility, perfect for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Häuser (Jauch & Suworow)",
+            "hu": "Történelmi házak (Jauch és Szuvorov)",
+            "ro": "Case istorice (Jauch și Suvorov)",
+            "en": "Historic Houses (Jauch & Suvorov)"
+          },
+          "coords": [
+            8.6435,
+            46.8822
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:50",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Fassadenmalereien, die Geschichten aus der Region erzählen.",
+            "hu": "Figyelje meg a homlokzati festményeket, amelyek a régió történeteit mesélik el.",
+            "ro": "Observați picturile de pe fațadă care povestesc istorii din regiune.",
+            "en": "Look for the facade paintings that tell stories from the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Altdorf, dem Herzen der Urschweiz, beginnt am Lehnplatz, wo das Telldenkmal an den Nationalhelden erinnert. Nach dem Besuch der prächtigen St. Martin Kirche führt Sie ein kurzer Spaziergang zum Bürgli-Turm für eine atemberaubende Aussicht. Der Nachmittag ist der Kultur gewidmet, mit dem historischen Tellspielhaus und dem friedlichen Kapuzinerkloster. Der Abend klingt bei einem Spaziergang durch die Gassen aus, vorbei an den bemalten Fassaden alter Häuser, und lässt Sie die tiefe Geschichte dieses Ortes spüren.",
+        "hu": "Napja Altdorfban, Svájc szívében, a Lehnplatzon kezdődik, ahol a Tell-emlékmű a nemzeti hősre emlékeztet. A csodálatos Szent Márton-templom meglátogatása után egy rövid séta vezet a Bürgli-toronyhoz, ahonnan lélegzetelállító kilátás nyílik. A délután a kultúráé, a történelmi Tell Játékszínnel és a békés kapucinus kolostorral. Az estét a sikátorokban sétálva, a régi házak festett homlokzatai mellett elhaladva zárja, átérezve a hely mély történelmét.",
+        "ro": "Ziua dvs. în Altdorf, inima Elveției, începe în Lehnplatz, unde Monumentul Tell amintește de eroul național. După vizitarea magnificei biserici Sf. Martin, o scurtă plimbare vă duce la Turnul Bürgli pentru o priveliște uluitoare. După-amiaza este dedicată culturii, cu istoricul Teatru Tell și liniștita Mănăstire a Capucinilor. Seara se încheie cu o plimbare pe alei, pe lângă fațadele pictate ale caselor vechi, simțind istoria profundă a acestui loc.",
+        "en": "Your day in Altdorf, the heart of Switzerland, begins at Lehnplatz, where the Tell Monument commemorates the national hero. After visiting the magnificent St. Martin's Church, a short walk takes you to the Bürgli Tower for a breathtaking view. The afternoon is dedicated to culture, with the historic Tell Theatre and the peaceful Capuchin Monastery. The evening concludes with a stroll through the alleys, past the painted facades of old houses, feeling the deep history of this place."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Urner Chässuppä",
+            "tip": "Eine reichhaltige Käsesuppe, perfekt für kühle Tage."
+          },
+          {
+            "name": "Älplermagronen",
+            "tip": "Ein herzhaftes Gericht aus Makkaroni, Kartoffeln, Käse und Zwiebeln."
+          },
+          {
+            "name": "Zuger Kirschtorte",
+            "tip": "Obwohl aus Zug, eine beliebte Torte in der ganzen Zentralschweiz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Urni sajtleves",
+            "tip": "Gazdag sajtleves, tökéletes a hűvös napokra."
+          },
+          {
+            "name": "Älplermagronen",
+            "tip": "Kiadós étel makaróniból, krumpliból, sajtból és hagymából."
+          },
+          {
+            "name": "Zugi cseresznyetorta",
+            "tip": "Bár Zugból származik, egész Közép-Svájcban népszerű torta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de brânză Urner",
+            "tip": "O supă de brânză bogată, perfectă pentru zilele răcoroase."
+          },
+          {
+            "name": "Älplermagronen",
+            "tip": "Un fel de mâncare consistent din macaroane, cartofi, brânză și ceapă."
+          },
+          {
+            "name": "Tort de cireșe Zuger",
+            "tip": "Deși din Zug, este un tort popular în toată Elveția Centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Urner Cheese Soup",
+            "tip": "A rich cheese soup, perfect for cool days."
+          },
+          {
+            "name": "Älplermagronen",
+            "tip": "A hearty dish of macaroni, potatoes, cheese, and onions."
+          },
+          {
+            "name": "Zuger Kirschtorte",
+            "tip": "Although from Zug, it's a popular cake throughout Central Switzerland."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten des Kapuzinerklosters",
+            "tip": "Ein stiller Ort der Besinnung abseits des Trubels.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Uferweg an der Reuss",
+            "tip": "Ein Spaziergang entlang des Flusses, um die alpine Landschaft zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banc am Bürgli-Turm",
+            "tip": "Setzen Sie sich und schauen Sie über die Stadt, während die Sonne untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kapucinus kolostor kertje",
+            "tip": "A csendes elmélkedés helye a nyüzsgéstől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Reuss folyó partján",
+            "tip": "Sétáljon a folyó mentén, és élvezze az alpesi tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a Bürgli-toronynál",
+            "tip": "Üljön le és nézzen a város fölé, miközben a nap lemegy.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Mănăstirii Capucinilor",
+            "tip": "Un loc liniștit pentru reflecție, departe de agitație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Promenada de pe malul râului Reuss",
+            "tip": "O plimbare de-a lungul râului pentru a vă bucura de peisajul alpin.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banca de la Turnul Bürgli",
+            "tip": "Așezați-vă și priviți peste oraș în timp ce soarele apune.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Capuchin Monastery Garden",
+            "tip": "A quiet place for reflection away from the hustle and bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Path along the Reuss River",
+            "tip": "A walk along the river to enjoy the alpine scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bench at Bürgli Tower",
+            "tip": "Sit down and look out over the city as the sun sets.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Finden Sie lokalen Käse, Wurst und Handwerk (normalerweise am Samstag)."
+          },
+          {
+            "name": "Tell-Souvenirs",
+            "tip": "Armbrüste, Äpfel und andere Andenken an den Schweizer Nationalhelden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Keressen helyi sajtot, kolbászt és kézműves termékeket (általában szombaton)."
+          },
+          {
+            "name": "Tell-emléktárgyak",
+            "tip": "Számszeríjak, almák és egyéb emléktárgyak a svájci nemzeti hősről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Găsiți brânzeturi locale, cârnați și obiecte de artizanat (de obicei sâmbăta)."
+          },
+          {
+            "name": "Suveniruri Tell",
+            "tip": "Arbalete, mere și alte suveniruri ale eroului național elvețian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Find local cheese, sausages, and crafts (usually on Saturday)."
+          },
+          {
+            "name": "Tell Souvenirs",
+            "tip": "Crossbows, apples, and other mementos of the Swiss national hero."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das gesamte historische Zentrum auf Kopfsteinpflaster liegt.",
+          "Altdorf ist sehr kompakt, alles ist leicht zu Fuß erreichbar.",
+          "Nehmen Sie sich Zeit, die Details an den Fassaden der historischen Gebäude zu bewundern."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az egész történelmi központ macskaköves.",
+          "Altdorf nagyon kompakt, minden könnyen elérhető gyalog.",
+          "Szánjon időt a történelmi épületek homlokzatán lévő részletek megcsodálására."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece întregul centru istoric este pavat cu piatră cubică.",
+          "Altdorf este foarte compact, totul este ușor accesibil pe jos.",
+          "Luați-vă timp să admirați detaliile de pe fațadele clădirilor istorice."
+        ],
+        "en": [
+          "Wear comfortable shoes as the entire historic center is cobblestoned.",
+          "Altdorf is very compact, everything is easily accessible on foot.",
+          "Take your time to admire the details on the facades of the historic buildings."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 3.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Lehnplatz & Telldenkmal",
+            "hu": "Lehnplatz és Tell-emlékmű",
+            "ro": "Piața Lehnplatz și Monumentul Tell",
+            "en": "Lehnplatz & Tell Monument"
+          },
+          "coords": [
+            8.6425,
+            46.8815
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schliessen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
+            "en": "Lock your bike securely before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Martin",
+            "hu": "Szent Márton plébániatemplom",
+            "ro": "Biserica parohială Sf. Martin",
+            "en": "Parish Church of St. Martin"
+          },
+          "coords": [
+            8.6448,
+            46.8829
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der kurze Anstieg zur Kirche ist die Mühe wert.",
+            "hu": "Megéri a fáradságot a rövid emelkedő a templomhoz.",
+            "ro": "Urcarea scurtă până la biserică merită efortul.",
+            "en": "The short climb to the church is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Bürgli-Turm",
+            "hu": "Bürgli-torony",
+            "ro": "Turnul Bürgli",
+            "en": "Bürgli Tower"
+          },
+          "coords": [
+            8.641,
+            46.8805
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:43",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad unten ab und gehen Sie die letzten Meter zu Fuß.",
+            "hu": "Hagyja lent a kerékpárt, és tegye meg az utolsó métereket gyalog.",
+            "ro": "Lăsați bicicleta jos și parcurgeți ultimii metri pe jos.",
+            "en": "Leave your bike at the bottom and walk the last few meters."
+          }
+        },
+        {
+          "name": {
+            "de": "Tellspielhaus",
+            "hu": "Tell Játékszín",
+            "ro": "Teatrul Tell",
+            "en": "Tell Theatre"
+          },
+          "coords": [
+            8.6401,
+            46.8812
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kulturelles Muss, auch wenn man nur die Fassade bewundert.",
+            "hu": "Kulturális kötelezettség, még ha csak a homlokzatot csodálja is meg az ember.",
+            "ro": "O necesitate culturală, chiar dacă admirați doar fațada.",
+            "en": "A cultural must-see, even if you only admire the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            8.642,
+            46.882
+          ],
+          "category": "gastro",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Suchen Sie ein Restaurant mit Fahrradständern in der Nähe.",
+            "hu": "Keressen egy éttermet, amelynek közelében van kerékpártároló.",
+            "ro": "Căutați un restaurant cu suporturi pentru biciclete în apropiere.",
+            "en": "Look for a restaurant with bike racks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapuzinerkloster",
+            "hu": "Kapucinus kolostor",
+            "ro": "Mănăstirea Capucinilor",
+            "en": "Capuchin Monastery"
+          },
+          "coords": [
+            8.648,
+            46.885
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Die Radtour hierher führt durch ruhigere, malerische Gassen.",
+            "hu": "Az ide vezető kerékpárút csendesebb, festői sikátorokon keresztül vezet.",
+            "ro": "Plimbarea cu bicicleta până aici trece prin alei mai liniștite și pitorești.",
+            "en": "The bike ride here leads through quieter, picturesque alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Rundfahrt und Suworow-Haus",
+            "hu": "Körút és Szuvorov-ház",
+            "ro": "Tur circular și Casa Suvorov",
+            "en": "Circuit Ride and Suvorov House"
+          },
+          "coords": [
+            8.6435,
+            46.8822
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine kleine Runde durch die Altstadt, bevor Sie hier anhalten.",
+            "hu": "Tegyen egy kis kört az óvárosban, mielőtt itt megáll.",
+            "ro": "Faceți un mic tur prin centrul vechi înainte de a vă opri aici.",
+            "en": "Take a short loop through the old town before stopping here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern entdecken Sie Altdorf auf dynamische Weise. Vom Telldenkmal aus radeln Sie zur St. Martin Kirche und dann zum Aussichtspunkt am Bürgli-Turm. Nach einer kulturellen Pause am Tellspielhaus und einem stärkenden Mittagessen führt Sie die Route zum friedlichen Kapuzinerkloster. Der Tag endet mit einer entspannten Fahrt durch die Gassen, bei der Sie die historischen Fassaden bewundern, bevor Sie Altdorf mit neuen Eindrücken verlassen.",
+        "hu": "Két keréken dinamikusan fedezheti fel Altdorfot. A Tell-emlékműtől a Szent Márton-templomhoz, majd a Bürgli-torony kilátójához teker. A Tell Játékszínnél tartott kulturális szünet és egy kiadós ebéd után az útvonal a békés kapucinus kolostorhoz vezet. A nap egy laza tekeréssel zárul a sikátorokban, megcsodálva a történelmi homlokzatokat, mielőtt új benyomásokkal távozna Altdorfból.",
+        "ro": "Pe două roți, explorați Altdorf într-un mod dinamic. De la Monumentul Tell, pedalați spre Biserica Sf. Martin și apoi spre punctul de belvedere de la Turnul Bürgli. După o pauză culturală la Teatrul Tell și un prânz copios, traseul vă duce la liniștita Mănăstire a Capucinilor. Ziua se încheie cu o plimbare relaxată pe alei, admirând fațadele istorice, înainte de a părăsi Altdorf cu noi impresii.",
+        "en": "On two wheels, you'll discover Altdorf in a dynamic way. From the Tell Monument, you'll cycle to St. Martin's Church and then to the viewpoint at Bürgli Tower. After a cultural break at the Tell Theatre and a hearty lunch, the route takes you to the peaceful Capuchin Monastery. The day ends with a relaxed ride through the alleys, admiring the historic facades before leaving Altdorf with new impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Urner Chässuppä",
+            "tip": "Eine reichhaltige Käsesuppe, perfekt für kühle Tage."
+          },
+          {
+            "name": "Älplermagronen",
+            "tip": "Ein herzhaftes Gericht aus Makkaroni, Kartoffeln, Käse und Zwiebeln."
+          },
+          {
+            "name": "Zuger Kirschtorte",
+            "tip": "Obwohl aus Zug, eine beliebte Torte in der ganzen Zentralschweiz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Urni sajtleves",
+            "tip": "Gazdag sajtleves, tökéletes a hűvös napokra."
+          },
+          {
+            "name": "Älplermagronen",
+            "tip": "Kiadós étel makaróniból, krumpliból, sajtból és hagymából."
+          },
+          {
+            "name": "Zugi cseresznyetorta",
+            "tip": "Bár Zugból származik, egész Közép-Svájcban népszerű torta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de brânză Urner",
+            "tip": "O supă de brânză bogată, perfectă pentru zilele răcoroase."
+          },
+          {
+            "name": "Älplermagronen",
+            "tip": "Un fel de mâncare consistent din macaroane, cartofi, brânză și ceapă."
+          },
+          {
+            "name": "Tort de cireșe Zuger",
+            "tip": "Deși din Zug, este un tort popular în toată Elveția Centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Urner Cheese Soup",
+            "tip": "A rich cheese soup, perfect for cool days."
+          },
+          {
+            "name": "Älplermagronen",
+            "tip": "A hearty dish of macaroni, potatoes, cheese, and onions."
+          },
+          {
+            "name": "Zuger Kirschtorte",
+            "tip": "Although from Zug, it's a popular cake throughout Central Switzerland."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten des Kapuzinerklosters",
+            "tip": "Ein stiller Ort der Besinnung abseits des Trubels.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Uferweg an der Reuss",
+            "tip": "Ein Spaziergang entlang des Flusses, um die alpine Landschaft zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banc am Bürgli-Turm",
+            "tip": "Setzen Sie sich und schauen Sie über die Stadt, während die Sonne untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kapucinus kolostor kertje",
+            "tip": "A csendes elmélkedés helye a nyüzsgéstől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Reuss folyó partján",
+            "tip": "Sétáljon a folyó mentén, és élvezze az alpesi tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a Bürgli-toronynál",
+            "tip": "Üljön le és nézzen a város fölé, miközben a nap lemegy.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Mănăstirii Capucinilor",
+            "tip": "Un loc liniștit pentru reflecție, departe de agitație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Promenada de pe malul râului Reuss",
+            "tip": "O plimbare de-a lungul râului pentru a vă bucura de peisajul alpin.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banca de la Turnul Bürgli",
+            "tip": "Așezați-vă și priviți peste oraș în timp ce soarele apune.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Capuchin Monastery Garden",
+            "tip": "A quiet place for reflection away from the hustle and bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Path along the Reuss River",
+            "tip": "A walk along the river to enjoy the alpine scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bench at Bürgli Tower",
+            "tip": "Sit down and look out over the city as the sun sets.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Finden Sie lokalen Käse, Wurst und Handwerk (normalerweise am Samstag)."
+          },
+          {
+            "name": "Tell-Souvenirs",
+            "tip": "Armbrüste, Äpfel und andere Andenken an den Schweizer Nationalhelden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Keressen helyi sajtot, kolbászt és kézműves termékeket (általában szombaton)."
+          },
+          {
+            "name": "Tell-emléktárgyak",
+            "tip": "Számszeríjak, almák és egyéb emléktárgyak a svájci nemzeti hősről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Găsiți brânzeturi locale, cârnați și obiecte de artizanat (de obicei sâmbăta)."
+          },
+          {
+            "name": "Suveniruri Tell",
+            "tip": "Arbalete, mere și alte suveniruri ale eroului național elvețian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Find local cheese, sausages, and crafts (usually on Saturday)."
+          },
+          {
+            "name": "Tell Souvenirs",
+            "tip": "Crossbows, apples, and other mementos of the Swiss national hero."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Altdorf ist fahrradfreundlich, aber im Zentrum teilen Sie sich die Gassen mit Fußgängern.",
+          "Einige Anstiege sind kurz aber steil; eine gute Gangschaltung ist von Vorteil.",
+          "Nutzen Sie die Radwege entlang der Reuss für eine längere Tour, wenn Zeit bleibt."
+        ],
+        "hu": [
+          "Altdorf kerékpárbarát, de a központban osztozni kell a sikátorokon a gyalogosokkal.",
+          "Néhány emelkedő rövid, de meredek; egy jó váltó előnyös.",
+          "Használja a Reuss menti kerékpárutakat egy hosszabb túrához, ha marad ideje."
+        ],
+        "ro": [
+          "Altdorf este prietenos cu bicicletele, dar în centru veți împărți aleile cu pietonii.",
+          "Unele urcări sunt scurte, dar abrupte; o transmisie bună este avantajoasă.",
+          "Folosiți pistele de biciclete de-a lungul râului Reuss pentru un tur mai lung, dacă aveți timp."
+        ],
+        "en": [
+          "Altdorf is bike-friendly, but in the center, you share the alleys with pedestrians.",
+          "Some climbs are short but steep; a good gear system is advantageous.",
+          "Use the bike paths along the Reuss for a longer tour if time permits."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Altstadt-Cluster",
+            "hu": "Parkoló a központban és Óvárosi klaszter",
+            "ro": "Parcare centrală și clusterul Orașul Vechi",
+            "en": "Central Car Park & Old Town Cluster"
+          },
+          "coords": [
+            8.6415,
+            46.8825
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Tag. Das historische Zentrum ist klein und am besten zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt egész napra. A történelmi központ kicsi és a legjobban gyalog fedezhető fel.",
+            "ro": "Parcați aici pentru întreaga zi. Centrul istoric este mic și cel mai bine explorat pe jos.",
+            "en": "Park here for the day. The historic center is small and best explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Lehnplatz & Telldenkmal",
+            "hu": "Lehnplatz és Tell-emlékmű",
+            "ro": "Piața Lehnplatz și Monumentul Tell",
+            "en": "Lehnplatz & Tell Monument"
+          },
+          "coords": [
+            8.6425,
+            46.8815
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:23",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies ist der Ausgangspunkt Ihres Rundgangs.",
+            "hu": "Ez a séta kiindulópontja.",
+            "ro": "Acesta este punctul de plecare al turului dumneavoastră pietonal.",
+            "en": "This is the starting point of your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Martin & Bürgli-Turm",
+            "hu": "Szent Márton plébániatemplom és Bürgli-torony",
+            "ro": "Biserica Sf. Martin și Turnul Bürgli",
+            "en": "St. Martin's Church & Bürgli Tower"
+          },
+          "coords": [
+            8.6448,
+            46.8829
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie diese beiden nahegelegenen Sehenswürdigkeiten für einen tollen Vormittag.",
+            "hu": "Kombinálja ezt a két közeli látnivalót egy remek délelőttért.",
+            "ro": "Combinați aceste două atracții apropiate pentru o dimineață grozavă.",
+            "en": "Combine these two nearby sights for a great morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            8.642,
+            46.882
+          ],
+          "category": "gastro",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Blick auf die belebten Gassen.",
+            "hu": "Válasszon egy éttermet, ahonnan kilátás nyílik a forgalmas sikátorokra.",
+            "ro": "Alegeți un restaurant cu vedere la aleile aglomerate.",
+            "en": "Choose a restaurant with a view of the bustling alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Kultur-Cluster (Tellspielhaus & Suworow-Haus)",
+            "hu": "Kulturális klaszter (Tell Játékszín és Szuvorov-ház)",
+            "ro": "Cluster cultural (Teatrul Tell și Casa Suvorov)",
+            "en": "Culture Cluster (Tell Theatre & Suvorov House)"
+          },
+          "coords": [
+            8.6401,
+            46.8812
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte, die in diesen Gebäuden steckt.",
+            "hu": "Fedezze fel az épületekben rejlő gazdag történelmet.",
+            "ro": "Descoperiți istoria bogată conținută în aceste clădiri.",
+            "en": "Discover the rich history contained within these buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapuzinerkloster & Gärten",
+            "hu": "Kapucinus kolostor és kertek",
+            "ro": "Mănăstirea Capucinilor și Grădinile",
+            "en": "Capuchin Monastery & Gardens"
+          },
+          "coords": [
+            8.648,
+            46.885
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:35",
+          "stay_min": 115,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter, ruhiger Abschluss für Ihren Tag in Altdorf, bevor Sie zum Auto zurückkehren.",
+            "hu": "Tökéletes, csendes befejezése az altdorfi napnak, mielőtt visszatérne az autóhoz.",
+            "ro": "O încheiere perfectă și liniștită a zilei dvs. în Altdorf, înainte de a vă întoarce la mașină.",
+            "en": "A perfect, quiet end to your day in Altdorf before returning to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie Altdorf bequem. Parken Sie im Zentrum und tauchen Sie zu Fuß in die Geschichte ein. Der Vormittag gehört dem legendären Wilhelm Tell am Lehnplatz und der majestätischen St. Martin Kirche. Nach dem Mittagessen erkunden Sie das kulturelle Herz der Stadt rund um das Tellspielhaus. Den Abschluss bildet ein Besuch im ruhigen Kapuzinerkloster. Dieses Cluster-Walking-Konzept lässt Sie das Auto vergessen und Altdorf intensiv erleben.",
+        "hu": "Autóval kényelmesen elérheti Altdorfot. Parkoljon a központban, és merüljön el gyalog a történelemben. A délelőtt a legendás Tell Vilmosé a Lehnplatzon és a fenséges Szent Márton-templomé. Ebéd után fedezze fel a város kulturális szívét a Tell Játékszín környékén. A napot a csendes kapucinus kolostor meglátogatása zárja. Ez a klaszter-séta koncepció lehetővé teszi, hogy elfelejtse az autót, és intenzíven élje át Altdorfot.",
+        "ro": "Cu mașina, ajungeți confortabil la Altdorf. Parcați în centru și scufundați-vă în istorie pe jos. Dimineața este dedicată legendarului Wilhelm Tell în Lehnplatz și majestuoasei Biserici Sf. Martin. După prânz, explorați inima culturală a orașului în jurul Teatrului Tell. Ziua se încheie cu o vizită la liniștita Mănăstire a Capucinilor. Acest concept de plimbare pe clustere vă permite să uitați de mașină și să experimentați Altdorf intens.",
+        "en": "You can easily reach Altdorf by car. Park in the center and immerse yourself in history on foot. The morning belongs to the legendary William Tell at Lehnplatz and the majestic St. Martin's Church. After lunch, explore the cultural heart of the city around the Tell Theatre. The day concludes with a visit to the tranquil Capuchin Monastery. This cluster-walking concept lets you forget the car and experience Altdorf intensely."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Urner Chässuppä",
+            "tip": "Eine reichhaltige Käsesuppe, perfekt für kühle Tage."
+          },
+          {
+            "name": "Älplermagronen",
+            "tip": "Ein herzhaftes Gericht aus Makkaroni, Kartoffeln, Käse und Zwiebeln."
+          },
+          {
+            "name": "Zuger Kirschtorte",
+            "tip": "Obwohl aus Zug, eine beliebte Torte in der ganzen Zentralschweiz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Urni sajtleves",
+            "tip": "Gazdag sajtleves, tökéletes a hűvös napokra."
+          },
+          {
+            "name": "Älplermagronen",
+            "tip": "Kiadós étel makaróniból, krumpliból, sajtból és hagymából."
+          },
+          {
+            "name": "Zugi cseresznyetorta",
+            "tip": "Bár Zugból származik, egész Közép-Svájcban népszerű torta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de brânză Urner",
+            "tip": "O supă de brânză bogată, perfectă pentru zilele răcoroase."
+          },
+          {
+            "name": "Älplermagronen",
+            "tip": "Un fel de mâncare consistent din macaroane, cartofi, brânză și ceapă."
+          },
+          {
+            "name": "Tort de cireșe Zuger",
+            "tip": "Deși din Zug, este un tort popular în toată Elveția Centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Urner Cheese Soup",
+            "tip": "A rich cheese soup, perfect for cool days."
+          },
+          {
+            "name": "Älplermagronen",
+            "tip": "A hearty dish of macaroni, potatoes, cheese, and onions."
+          },
+          {
+            "name": "Zuger Kirschtorte",
+            "tip": "Although from Zug, it's a popular cake throughout Central Switzerland."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten des Kapuzinerklosters",
+            "tip": "Ein stiller Ort der Besinnung abseits des Trubels.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Uferweg an der Reuss",
+            "tip": "Ein Spaziergang entlang des Flusses, um die alpine Landschaft zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banc am Bürgli-Turm",
+            "tip": "Setzen Sie sich und schauen Sie über die Stadt, während die Sonne untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kapucinus kolostor kertje",
+            "tip": "A csendes elmélkedés helye a nyüzsgéstől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Reuss folyó partján",
+            "tip": "Sétáljon a folyó mentén, és élvezze az alpesi tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a Bürgli-toronynál",
+            "tip": "Üljön le és nézzen a város fölé, miközben a nap lemegy.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Mănăstirii Capucinilor",
+            "tip": "Un loc liniștit pentru reflecție, departe de agitație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Promenada de pe malul râului Reuss",
+            "tip": "O plimbare de-a lungul râului pentru a vă bucura de peisajul alpin.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banca de la Turnul Bürgli",
+            "tip": "Așezați-vă și priviți peste oraș în timp ce soarele apune.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Capuchin Monastery Garden",
+            "tip": "A quiet place for reflection away from the hustle and bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Path along the Reuss River",
+            "tip": "A walk along the river to enjoy the alpine scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bench at Bürgli Tower",
+            "tip": "Sit down and look out over the city as the sun sets.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Finden Sie lokalen Käse, Wurst und Handwerk (normalerweise am Samstag)."
+          },
+          {
+            "name": "Tell-Souvenirs",
+            "tip": "Armbrüste, Äpfel und andere Andenken an den Schweizer Nationalhelden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Keressen helyi sajtot, kolbászt és kézműves termékeket (általában szombaton)."
+          },
+          {
+            "name": "Tell-emléktárgyak",
+            "tip": "Számszeríjak, almák és egyéb emléktárgyak a svájci nemzeti hősről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Găsiți brânzeturi locale, cârnați și obiecte de artizanat (de obicei sâmbăta)."
+          },
+          {
+            "name": "Suveniruri Tell",
+            "tip": "Arbalete, mere și alte suveniruri ale eroului național elvețian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Find local cheese, sausages, and crafts (usually on Saturday)."
+          },
+          {
+            "name": "Tell Souvenirs",
+            "tip": "Crossbows, apples, and other mementos of the Swiss national hero."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Wählen Sie einen zentralen Parkplatz, da das Parken in den Gassen schwierig ist.",
+          "Die meisten Sehenswürdigkeiten sind so nah beieinander, dass Sie das Auto den ganzen Tag nicht brauchen werden.",
+          "Nutzen Sie das Auto am Ende des Tages für einen Ausflug zum nahegelegenen Vierwaldstättersee."
+        ],
+        "hu": [
+          "Válasszon egy központi parkolót, mivel a sikátorokban nehéz parkolni.",
+          "A legtöbb látnivaló annyira közel van egymáshoz, hogy egész nap nem lesz szüksége az autóra.",
+          "A nap végén használja az autót egy kiránduláshoz a közeli Vierwaldstätti-tóhoz."
+        ],
+        "ro": [
+          "Alegeți o parcare centrală, deoarece parcarea pe alei este dificilă.",
+          "Majoritatea atracțiilor sunt atât de apropiate încât nu veți avea nevoie de mașină toată ziua.",
+          "La sfârșitul zilei, folosiți mașina pentru o excursie la Lacul Lucerna din apropiere."
+        ],
+        "en": [
+          "Choose a central car park as parking in the alleys is difficult.",
+          "Most sights are so close together that you won't need the car all day.",
+          "At the end of the day, use the car for a trip to the nearby Lake Lucerne."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Bahnhof Altdorf",
+            "hu": "Érkezés az altdorfi vasútállomásra",
+            "ro": "Sosire la Gara Altdorf",
+            "en": "Arrival at Altdorf Train Station"
+          },
+          "coords": [
+            8.636,
+            46.884
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus ist das Zentrum ein kurzer und angenehmer Spaziergang.",
+            "hu": "Az állomástól a központ egy rövid és kellemes séta.",
+            "ro": "De la gară, centrul este la o plimbare scurtă și plăcută.",
+            "en": "From the train station, the center is a short and pleasant walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Lehnplatz & Telldenkmal",
+            "hu": "Lehnplatz és Tell-emlékmű",
+            "ro": "Piața Lehnplatz și Monumentul Tell",
+            "en": "Lehnplatz & Tell Monument"
+          },
+          "coords": [
+            8.6425,
+            46.8815
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihren Tag im Herzen der Legende.",
+            "hu": "Kezdje itt a napot a legenda szívében.",
+            "ro": "Începeți-vă ziua aici, în inima legendei.",
+            "en": "Start your day here in the heart of the legend."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Martin & Bürgli-Turm",
+            "hu": "Szent Márton plébániatemplom és Bürgli-torony",
+            "ro": "Biserica Sf. Martin și Turnul Bürgli",
+            "en": "St. Martin's Church & Bürgli Tower"
+          },
+          "coords": [
+            8.6448,
+            46.8829
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Orte bieten sowohl spirituelle als auch landschaftliche Höhepunkte.",
+            "hu": "Ez a két hely spirituális és tájképi csúcspontokat is kínál.",
+            "ro": "Aceste două locuri oferă atât puncte de atracție spirituale, cât și peisagistice.",
+            "en": "These two places offer both spiritual and scenic highlights."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            8.642,
+            46.882
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich mit lokalen Spezialitäten für den Nachmittag.",
+            "hu": "Erősítse meg magát helyi specialitásokkal a délutánra.",
+            "ro": "Întăriți-vă cu specialități locale pentru după-amiază.",
+            "en": "Fortify yourself with local specialties for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Kultur-Cluster (Tellspielhaus & Suworow-Haus)",
+            "hu": "Kulturális klaszter (Tell Játékszín és Szuvorov-ház)",
+            "ro": "Cluster cultural (Teatrul Tell și Casa Suvorov)",
+            "en": "Culture Cluster (Tell Theatre & Suvorov House)"
+          },
+          "coords": [
+            8.6401,
+            46.8812
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch die Kulturgeschichte Altdorfs.",
+            "hu": "Séta Altdorf kultúrtörténetén keresztül.",
+            "ro": "O plimbare prin istoria culturală a Altdorf.",
+            "en": "A walk through Altdorf's cultural history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapuzinerkloster & Gärten",
+            "hu": "Kapucinus kolostor és kertek",
+            "ro": "Mănăstirea Capucinilor și Grădinile",
+            "en": "Capuchin Monastery & Gardens"
+          },
+          "coords": [
+            8.648,
+            46.885
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in der Stille des Klosters ausklingen, bevor Sie zurück zum Bahnhof gehen.",
+            "hu": "Hagyja, hogy a nap a kolostor csendjében érjen véget, mielőtt visszamegy az állomásra.",
+            "ro": "Încheiați-vă ziua în liniștea mănăstirii înainte de a vă întoarce la gară.",
+            "en": "End your day in the tranquility of the monastery before heading back to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Reisen Sie entspannt mit dem Zug nach Altdorf. Vom Bahnhof aus ist es nur ein kurzer Spaziergang ins historische Zentrum. Ihr Tag folgt den Spuren von Wilhelm Tell, führt Sie zu heiligen Orten wie der St. Martin Kirche und bietet von der Höhe des Bürgli-Turms eine weite Sicht. Der Nachmittag steht im Zeichen von Kultur und stiller Einkehr im Kapuzinerkloster. Da alles zu Fuß erreichbar ist, erleben Sie Altdorf authentisch und ohne Verkehrsstress.",
+        "hu": "Utazzon nyugodtan vonattal Altdorfba. Az állomástól csak egy rövid séta a történelmi központ. Napja Tell Vilmos nyomdokain halad, elvezeti Önt olyan szent helyekre, mint a Szent Márton-templom, és a Bürgli-torony magasságából széles kilátást nyújt. A délután a kultúra és a csendes elmélyülés jegyében telik a kapucinus kolostorban. Mivel minden gyalog elérhető, Altdorfot hitelesen és közlekedési stressz nélkül élheti át.",
+        "ro": "Călătoriți relaxat cu trenul spre Altdorf. De la gară este doar o scurtă plimbare până în centrul istoric. Ziua dvs. urmărește pașii lui Wilhelm Tell, vă duce la locuri sfinte precum Biserica Sf. Martin și oferă o priveliște largă de la înălțimea Turnului Bürgli. După-amiaza este dedicată culturii și reflecției liniștite la Mănăstirea Capucinilor. Deoarece totul este accesibil pe jos, veți experimenta Altdorf în mod autentic și fără stresul traficului.",
+        "en": "Travel relaxed by train to Altdorf. From the station, it's just a short walk to the historic center. Your day follows in the footsteps of William Tell, takes you to sacred places like St. Martin's Church, and offers a wide view from the height of the Bürgli Tower. The afternoon is dedicated to culture and quiet contemplation at the Capuchin Monastery. Since everything is within walking distance, you'll experience Altdorf authentically and without traffic stress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Urner Chässuppä",
+            "tip": "Eine reichhaltige Käsesuppe, perfekt für kühle Tage."
+          },
+          {
+            "name": "Älplermagronen",
+            "tip": "Ein herzhaftes Gericht aus Makkaroni, Kartoffeln, Käse und Zwiebeln."
+          },
+          {
+            "name": "Zuger Kirschtorte",
+            "tip": "Obwohl aus Zug, eine beliebte Torte in der ganzen Zentralschweiz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Urni sajtleves",
+            "tip": "Gazdag sajtleves, tökéletes a hűvös napokra."
+          },
+          {
+            "name": "Älplermagronen",
+            "tip": "Kiadós étel makaróniból, krumpliból, sajtból és hagymából."
+          },
+          {
+            "name": "Zugi cseresznyetorta",
+            "tip": "Bár Zugból származik, egész Közép-Svájcban népszerű torta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de brânză Urner",
+            "tip": "O supă de brânză bogată, perfectă pentru zilele răcoroase."
+          },
+          {
+            "name": "Älplermagronen",
+            "tip": "Un fel de mâncare consistent din macaroane, cartofi, brânză și ceapă."
+          },
+          {
+            "name": "Tort de cireșe Zuger",
+            "tip": "Deși din Zug, este un tort popular în toată Elveția Centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Urner Cheese Soup",
+            "tip": "A rich cheese soup, perfect for cool days."
+          },
+          {
+            "name": "Älplermagronen",
+            "tip": "A hearty dish of macaroni, potatoes, cheese, and onions."
+          },
+          {
+            "name": "Zuger Kirschtorte",
+            "tip": "Although from Zug, it's a popular cake throughout Central Switzerland."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten des Kapuzinerklosters",
+            "tip": "Ein stiller Ort der Besinnung abseits des Trubels.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Uferweg an der Reuss",
+            "tip": "Ein Spaziergang entlang des Flusses, um die alpine Landschaft zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banc am Bürgli-Turm",
+            "tip": "Setzen Sie sich und schauen Sie über die Stadt, während die Sonne untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kapucinus kolostor kertje",
+            "tip": "A csendes elmélkedés helye a nyüzsgéstől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Reuss folyó partján",
+            "tip": "Sétáljon a folyó mentén, és élvezze az alpesi tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a Bürgli-toronynál",
+            "tip": "Üljön le és nézzen a város fölé, miközben a nap lemegy.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Mănăstirii Capucinilor",
+            "tip": "Un loc liniștit pentru reflecție, departe de agitație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Promenada de pe malul râului Reuss",
+            "tip": "O plimbare de-a lungul râului pentru a vă bucura de peisajul alpin.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banca de la Turnul Bürgli",
+            "tip": "Așezați-vă și priviți peste oraș în timp ce soarele apune.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Capuchin Monastery Garden",
+            "tip": "A quiet place for reflection away from the hustle and bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Path along the Reuss River",
+            "tip": "A walk along the river to enjoy the alpine scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bench at Bürgli Tower",
+            "tip": "Sit down and look out over the city as the sun sets.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Finden Sie lokalen Käse, Wurst und Handwerk (normalerweise am Samstag)."
+          },
+          {
+            "name": "Tell-Souvenirs",
+            "tip": "Armbrüste, Äpfel und andere Andenken an den Schweizer Nationalhelden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Keressen helyi sajtot, kolbászt és kézműves termékeket (általában szombaton)."
+          },
+          {
+            "name": "Tell-emléktárgyak",
+            "tip": "Számszeríjak, almák és egyéb emléktárgyak a svájci nemzeti hősről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Găsiți brânzeturi locale, cârnați și obiecte de artizanat (de obicei sâmbăta)."
+          },
+          {
+            "name": "Suveniruri Tell",
+            "tip": "Arbalete, mere și alte suveniruri ale eroului național elvețian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Find local cheese, sausages, and crafts (usually on Saturday)."
+          },
+          {
+            "name": "Tell Souvenirs",
+            "tip": "Crossbows, apples, and other mementos of the Swiss national hero."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Zugverbindungen im Voraus; die SBB-App ist sehr zuverlässig.",
+          "Ein Tell-Pass oder eine Tageskarte kann sich lohnen, wenn Sie auch andere Orte in der Region besuchen.",
+          "Vom Bahnhof zum Zentrum ist es nur ein kurzer Spaziergang, Taxis oder Busse sind nicht notwendig."
+        ],
+        "hu": [
+          "Ellenőrizze előre a vonatcsatlakozásokat; az SBB alkalmazás nagyon megbízható.",
+          "Egy Tell-Pass vagy napijegy megéri, ha a régió más helyeit is meglátogatja.",
+          "Az állomástól a központig csak egy rövid séta, taxikra vagy buszokra nincs szükség."
+        ],
+        "ro": [
+          "Verificați legăturile de tren în avans; aplicația SBB este foarte fiabilă.",
+          "Un Tell-Pass sau un bilet de o zi poate merita dacă vizitați și alte locuri din regiune.",
+          "De la gară la centru este doar o scurtă plimbare, nu sunt necesare taxiuri sau autobuze."
+        ],
+        "en": [
+          "Check train connections in advance; the SBB app is very reliable.",
+          "A Tell-Pass or a day ticket can be worthwhile if you also visit other places in the region.",
+          "It's just a short walk from the station to the center; taxis or buses are not necessary."
+        ]
+      }
+    }
+  }
+}

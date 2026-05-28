@@ -1,0 +1,1524 @@
+{
+  "city_id": "spain-caspe-cities-v2",
+  "anchor": {
+    "name": "Caspe",
+    "coords": [
+      -0.0333,
+      41.2333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -0.0399,
+            41.2336
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einer der Bars am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik bárjában!",
+            "ro": "Începeți ziua cu o cafea la unul dintre barurile din piață.",
+            "en": "Start your day with a coffee at one of the bars on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollegiatkirche Santa María la Mayor",
+            "hu": "Santa María la Mayor társkáptalani templom",
+            "ro": "Colegiata Santa María la Mayor",
+            "en": "Collegiate Church of St. Mary the Major"
+          },
+          "coords": [
+            -0.041,
+            41.2342
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die Mischung aus gotischen und barocken Elementen.",
+            "hu": "Figyelje meg a gótikus és barokk elemek keveredését!",
+            "ro": "Observați amestecul de elemente gotice și baroce.",
+            "en": "Note the mix of Gothic and Baroque elements."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg des Kompromisses",
+            "hu": "A megegyezés kastélya",
+            "ro": "Castelul Compromisului",
+            "en": "Castle of the Compromise"
+          },
+          "coords": [
+            -0.0422,
+            41.2348
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von den Mauern der Burg.",
+            "hu": "Élvezze a panorámás kilátást a vár falairól!",
+            "ro": "Bucurați-vă de vederea panoramică de pe zidurile castelului.",
+            "en": "Enjoy the panoramic views from the castle walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Salamanca-Turm",
+            "hu": "Salamanca-torony",
+            "ro": "Turnul Salamanca",
+            "en": "Salamanca Tower"
+          },
+          "coords": [
+            -0.038,
+            41.236
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:01",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein oft übersehenes Juwel mit einer interessanten Geschichte.",
+            "hu": "Egy gyakran figyelmen kívül hagyott gyöngyszem, érdekes történelemmel.",
+            "ro": "O bijuterie adesea trecută cu vederea, cu o istorie interesantă.",
+            "en": "An often overlooked gem with an interesting history."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Autonomie Aragóns",
+            "hu": "Aragónia Autonómia Múzeuma",
+            "ro": "Muzeul Autonomiei Aragonului",
+            "en": "Museum of Aragonese Autonomy"
+          },
+          "coords": [
+            -0.035,
+            41.231
+          ],
+          "category": "museums",
+          "arrive_at": "12:59",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Perfekt, um die regionale Geschichte und Identität zu verstehen.",
+            "hu": "Tökéletes hely a regionális történelem és identitás megértéséhez.",
+            "ro": "Perfect pentru a înțelege istoria și identitatea regională.",
+            "en": "Perfect for understanding the regional history and identity."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Santa María de Horta",
+            "hu": "Santa María de Horta remetelak",
+            "ro": "Schitul Santa María de Horta",
+            "en": "Hermitage of Santa María de Horta"
+          },
+          "coords": [
+            -0.02,
+            41.229
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:09",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort, etwas außerhalb des Stadtzentrums.",
+            "hu": "Békés hely, kissé a városközponton kívül.",
+            "ro": "Un loc pașnic, puțin în afara centrului orașului.",
+            "en": "A peaceful spot just outside the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleum von Miralpeix",
+            "hu": "Miralpeix-mauzóleum",
+            "ro": "Mausoleul din Miralpeix",
+            "en": "Mausoleum of Miralpeix"
+          },
+          "coords": [
+            -0.015,
+            41.235
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:11",
+          "stay_min": 34,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Dieses römische Mausoleum wurde Stein für Stein an seinen heutigen Standort versetzt.",
+            "hu": "Ezt a római mauzóleumot kőről kőre helyezték át a mai helyére.",
+            "ro": "Acest mausoleu roman a fost mutat piatră cu piatră la locația sa actuală.",
+            "en": "This Roman mausoleum was moved stone by stone to its current location."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag führt Sie durch das historische Herz von Caspe, von der belebten Plaza de España zur imposanten Kollegiatkirche und der geschichtsträchtigen Burg des Kompromisses. Jeder Schritt ist eine Reise in die Vergangenheit. Am Mittag tauchen Sie in die aragonesische Kultur im Autonomiemuseum ein, nach einem kurzen Halt am Salamanca-Turm. Nach dem Mittagessen weitet sich der Spaziergang aus und führt Sie zur ruhigen Ermita de Santa María de Horta. Der Nachmittag endet mit einem besinnlichen Moment am versetzten römischen Mausoleum von Miralpeix und bietet eine letzte historische Perspektive auf Ihren Tag. Am Abend können Sie in einem der lokalen Restaurants die Aromen Aragoniens genießen und den Tag ausklingen lassen.",
+        "hu": "A délelőtt Caspe történelmi szívébe vezet, a nyüzsgő Plaza de Españától a fenséges társkáptalani templomig és a történelmi jelentőségű Megegyezés Váráig. Minden lépés egy utazás a múltba. Délben a Salamanca-toronynál tett rövid megálló után elmerülhet az aragóniai kultúrában az Autonómia Múzeumában. Ebéd után a séta kitágul a békés Santa María de Horta remetelakig. A délután egy elgondolkodtató pillanattal zárul az áthelyezett Miralpeix római mauzóleumnál, amely egy utolsó történelmi perspektívát ad a naphoz. Este élvezze Aragónia ízeit egy helyi étteremben, hogy lezárja a napot.",
+        "ro": "Dimineața vă poartă prin inima istorică a orașului Caspe, de la animata Plaza de España la impunătoarea Colegiată și Castelul Compromisului, încărcat de istorie. Fiecare pas este o călătorie în trecut. La prânz, după o scurtă oprire la Turnul Salamanca, vă veți cufunda în cultura aragoneză la Muzeul Autonomiei. După prânz, plimbarea se extinde spre liniștitul Schit Santa María de Horta. După-amiaza se încheie cu un moment de reflecție la mausoleul roman mutat din Miralpeix, oferind o ultimă perspectivă istorică zilei dumneavoastră. Seara, bucurați-vă de aromele Aragonului la unul dintre restaurantele locale pentru a încheia ziua.",
+        "en": "The morning takes you through the historical heart of Caspe, from the bustling Plaza de España to the imposing Collegiate Church and the history-laden Castle of the Compromise. Every step is a journey into the past. At noon, after a brief stop at the Salamanca Tower, you'll delve into Aragonese culture at the Museum of Autonomy. After lunch, the walk expands to the peaceful Hermitage of Santa María de Horta. The afternoon concludes with a reflective moment at the relocated Roman Mausoleum of Miralpeix, providing a final historical perspective to your day. In the evening, savor the flavors of Aragon at a local restaurant to round off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Probieren Sie dieses berühmte Lammgericht, eine lokale Spezialität."
+          },
+          {
+            "name": "Olivenöl aus der Region",
+            "tip": "Fragen Sie nach Gerichten, die mit dem preisgekrönten lokalen Olivenöl zubereitet werden."
+          },
+          {
+            "name": "Restaurante Magallón",
+            "tip": "Bekannt für seine traditionelle aragonesische Küche in einem gemütlichen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Kóstolja meg ezt a híres bárányételt, amely helyi specialitás."
+          },
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Kérjen olyan ételeket, amelyeket a díjnyertes helyi olívaolajjal készítenek."
+          },
+          {
+            "name": "Restaurante Magallón",
+            "tip": "Hagyományos aragóniai konyhájáról és hangulatos légköréről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Încercați acest faimos fel de mâncare din miel, o specialitate locală."
+          },
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cereți preparate gătite cu uleiul de măsline local premiat."
+          },
+          {
+            "name": "Restaurante Magallón",
+            "tip": "Renumit pentru bucătăria sa tradițională aragoneză într-un cadru primitor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Try this famous lamb dish, a local specialty."
+          },
+          {
+            "name": "Local Olive Oil",
+            "tip": "Ask for dishes prepared with the award-winning local olive oil."
+          },
+          {
+            "name": "Restaurante Magallón",
+            "tip": "Known for its traditional Aragonese cuisine in a cozy setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Mar de Aragón",
+            "tip": "Finden Sie einen ruhigen Platz am Ufer des Stausees, um die Stille zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten bei der Ermita de Horta",
+            "tip": "Die Umgebung der Ermita ist perfekt für einen Moment der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang über dem Ebro",
+            "tip": "Suchen Sie sich einen Aussichtspunkt mit Blick auf den Fluss für einen spektakulären Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mar de Aragón partja",
+            "tip": "Keressen egy csendes helyet a víztározó partján, hogy élvezze a nyugalmat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kertek az Ermita de Horta mellett",
+            "tip": "A remetelak környéke tökéletes egy csendes pillanathoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente az Ebro felett",
+            "tip": "Keressen egy kilátópontot, ahonnan a folyóra nyílik kilátás egy látványos naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile Mar de Aragón",
+            "tip": "Găsiți un loc liniștit pe malul lacului de acumulare pentru a vă bucura de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile de lângă Ermita de Horta",
+            "tip": "Zona din jurul schitului este perfectă pentru un moment de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare peste Ebro",
+            "tip": "Căutați un punct de belvedere cu vedere la râu pentru un apus spectaculos.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Mar de Aragón",
+            "tip": "Find a quiet spot on the reservoir's shore to enjoy the silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens near Ermita de Horta",
+            "tip": "The area around the hermitage is perfect for a moment of peace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset over the Ebro",
+            "tip": "Find a viewpoint overlooking the river for a spectacular sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Kaufen Sie eine Flasche des berühmten Olivenöls aus Bajo Aragón."
+          },
+          {
+            "name": "Pfirsiche aus Calanda",
+            "tip": "Wenn Saison ist, sind diese Pfirsiche ein Muss."
+          },
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie nach Keramik und Textilien in kleinen Geschäften im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásároljon egy üveg híres Bajo Aragón-i olívaolajat."
+          },
+          {
+            "name": "Calandai őszibarack",
+            "tip": "Ha szezonja van, ezeket a barackokat kötelező megkóstolni."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kerámiákat és textíliákat a belváros kis üzleteiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați o sticlă din renumitul ulei de măsline din Bajo Aragón."
+          },
+          {
+            "name": "Piersici de Calanda",
+            "tip": "Dacă este sezon, aceste piersici sunt un must."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați ceramică și textile în micile magazine din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Buy a bottle of the famous olive oil from Bajo Aragón."
+          },
+          {
+            "name": "Peaches of Calanda",
+            "tip": "If in season, these peaches are a must-try."
+          },
+          {
+            "name": "Local Crafts",
+            "tip": "Look for ceramics and textiles in small shops in the town center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das historische Zentrum Kopfsteinpflaster hat.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Die Siesta-Zeit wird respektiert; viele Geschäfte können am frühen Nachmittag schließen.",
+          "Fragen Sie nach dem 'Menú del Día' in Restaurants für ein preiswertes Mittagessen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a történelmi központ macskaköves.",
+          "Hozzon magával sok vizet, különösen a nyári hónapokban.",
+          "A szieszta idejét tiszteletben tartják; sok üzlet bezárhat kora délután.",
+          "Kérje a 'Menú del Día'-t az éttermekben egy kedvező árú ebédért."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul istoric are pavaj.",
+          "Luați multă apă, mai ales în lunile de vară.",
+          "Programul de siestă este respectat; multe magazine pot fi închise la începutul după-amiezii.",
+          "Cereți 'Menú del Día' la restaurante pentru un prânz cu un bun raport calitate-preț."
+        ],
+        "en": [
+          "Wear comfortable shoes as the historic center has cobblestones.",
+          "Bring plenty of water, especially during the summer months.",
+          "Siesta time is respected; many shops may close in the early afternoon.",
+          "Ask for the 'Menú del Día' in restaurants for a great value lunch."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -0.0399,
+            41.2336
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre des Platzes.",
+            "hu": "Zárja le a kerékpárját, és élvezze a tér hangulatát.",
+            "ro": "Încuietoarea pentru bicicletă și bucurați-vă de atmosfera pieței.",
+            "en": "Lock up your bike and enjoy the atmosphere of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollegiatkirche Santa María la Mayor",
+            "hu": "Santa María la Mayor társkáptalani templom",
+            "ro": "Colegiata Santa María la Mayor",
+            "en": "Collegiate Church of St. Mary the Major"
+          },
+          "coords": [
+            -0.041,
+            41.2342
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad in der Nähe und nehmen Sie sich Zeit für das Innere.",
+            "hu": "Parkolja le a kerékpárt a közelben, és szánjon időt a belső térre.",
+            "ro": "Parcați bicicleta în apropiere și acordați-vă timp pentru interior.",
+            "en": "Park your bike nearby and take your time for the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg des Kompromisses und Salamanca-Turm",
+            "hu": "A megegyezés kastélya és a Salamanca-torony",
+            "ro": "Castelul Compromisului și Turnul Salamanca",
+            "en": "Castle of the Compromise & Salamanca Tower"
+          },
+          "coords": [
+            -0.0422,
+            41.2348
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Aufstieg zur Burg lohnt sich für die Aussicht. Ein Kombi-Besuch mit dem Turm ist ideal.",
+            "hu": "A várhoz való feljutás megéri a kilátásért. A toronnyal kombinált látogatás ideális.",
+            "ro": "Urcușul la castel merită pentru priveliște. O vizită combinată cu turnul este ideală.",
+            "en": "The climb to the castle is worth it for the view. A combined visit with the tower is ideal."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Santa María de Horta",
+            "hu": "Santa María de Horta remetelak",
+            "ro": "Schitul Santa María de Horta",
+            "en": "Hermitage of Santa María de Horta"
+          },
+          "coords": [
+            -0.02,
+            41.229
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour vom Stadtzentrum zu diesem friedlichen Ort.",
+            "hu": "Kellemes kerékpártúra a városközpontból erre a békés helyre.",
+            "ro": "O plimbare plăcută cu bicicleta din centrul orașului până la acest loc pașnic.",
+            "en": "A pleasant bike ride from the city center to this peaceful spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleum von Miralpeix",
+            "hu": "Miralpeix-mauzóleum",
+            "ro": "Mausoleul din Miralpeix",
+            "en": "Mausoleum of Miralpeix"
+          },
+          "coords": [
+            -0.015,
+            41.235
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:50",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher, um dieses beeindruckende römische Monument zu sehen.",
+            "hu": "Rövid kitérő, hogy megnézze ezt a lenyűgöző római emlékművet.",
+            "ro": "Un scurt ocol pentru a vedea acest impresionant monument roman.",
+            "en": "A quick detour to see this impressive Roman monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Mar de Aragón (Aussichtspunkt)",
+            "hu": "Mar de Aragón (kilátópont)",
+            "ro": "Mar de Aragón (punct de belvedere)",
+            "en": "Mar de Aragón (Viewpoint)"
+          },
+          "coords": [
+            -0.005,
+            41.245
+          ],
+          "category": "natural features",
+          "arrive_at": "13:19",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause mit Picknick und Blick auf den Stausee.",
+            "hu": "Tökéletes egy piknikes ebédszünethez, kilátással a víztározóra.",
+            "ro": "Perfect pentru o pauză de prânz cu un picnic și vedere la lacul de acumulare.",
+            "en": "Perfect for a picnic lunch break with a view of the reservoir."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum über den Ebro",
+            "hu": "Visszatérés a központba az Ebro mentén",
+            "ro": "Întoarcere în centru de-a lungul râului Ebro",
+            "en": "Return to center along the Ebro"
+          },
+          "coords": [
+            -0.0333,
+            41.2333
+          ],
+          "category": "neighborhood",
+          "arrive_at": "16:11",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 5.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Fahrt zurück in die Stadt entlang des Flusses.",
+            "hu": "Élvezze a pihentető utat vissza a városba a folyó mentén.",
+            "ro": "Bucurați-vă de plimbarea relaxantă înapoi în oraș de-a lungul râului.",
+            "en": "Enjoy the relaxing ride back to town along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag auf zwei Rädern beginnt im Herzen von Caspe, der Plaza de España, führt weiter zur majestätischen Kollegiatkirche und dem geschichtsträchtigen Schlosskomplex. Diese zentralen Sehenswürdigkeiten sind schnell erreicht und lassen Zeit für Erkundungen. Mittags radeln Sie aus der Stadt hinaus zur ruhigen Ermita de Horta und dem antiken Mausoleum von Miralpeix, wo Geschichte auf Natur trifft. Der Nachmittag ist dem beeindruckenden Mar de Aragón gewidmet. Eine längere Pause hier bietet die perfekte Gelegenheit für ein Picknick und um die Weite des Stausees zu bewundern, bevor die entspannte Rückfahrt entlang des Ebro zurück ins Zentrum beginnt. Der Abend lädt dazu ein, die Beine hochzulegen und die kulinarischen Schätze der Region zu entdecken.",
+        "hu": "A két keréken töltött délelőtt Caspe szívében, a Plaza de España-n kezdődik, majd a fenséges társkáptalani templomhoz és a történelmi várkomplexumhoz vezet. Ezek a központi látnivalók gyorsan elérhetők, így idő marad a felfedezésre. Délben kikerékpározik a városból a békés Horta remetelakhoz és az ősi Miralpeix mauzóleumhoz, ahol a történelem találkozik a természettel. A délután a lenyűgöző Mar de Aragóné. Egy hosszabb szünet itt tökéletes lehetőséget nyújt egy piknikre és a víztározó hatalmas kiterjedésének megcsodálására, mielőtt megkezdődne a pihentető visszaút az Ebro mentén a központba. Az este arra csábít, hogy feltegye a lábát, és felfedezze a régió kulináris kincseit.",
+        "ro": "Dimineața pe două roți începe în inima orașului Caspe, la Plaza de España, continuând spre majestuoasa Colegiată și complexul istoric al castelului. Aceste atracții centrale sunt ușor de atins, lăsând timp pentru explorare. La prânz, veți pedala în afara orașului spre liniștitul Schit Horta și mausoleul antic din Miralpeix, unde istoria întâlnește natura. După-amiaza este dedicată impresionantului Mar de Aragón. O pauză mai lungă aici oferă ocazia perfectă pentru un picnic și pentru a admira vastitatea lacului de acumulare, înainte de a începe călătoria relaxantă de întoarcere de-a lungul râului Ebro spre centru. Seara vă invită să vă relaxați și să descoperiți comorile culinare ale regiunii.",
+        "en": "The morning on two wheels starts in the heart of Caspe, at Plaza de España, continues to the majestic Collegiate Church and the historic castle complex. These central sights are quickly reached, leaving time for exploration. At noon, you'll cycle out of town to the peaceful Hermitage of Horta and the ancient Miralpeix Mausoleum, where history meets nature. The afternoon is dedicated to the impressive Mar de Aragón. A longer break here offers the perfect opportunity for a picnic and to admire the vastness of the reservoir before the relaxing ride back along the Ebro to the center begins. The evening invites you to put your feet up and discover the culinary treasures of the region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo für unterwegs",
+            "tip": "Kaufen Sie ein belegtes Brot in einer lokalen Bäckerei für Ihr Picknick am Stausee."
+          },
+          {
+            "name": "Frittierte Fische aus dem Ebro",
+            "tip": "Eine Spezialität, die in Restaurants nahe dem Fluss angeboten wird."
+          },
+          {
+            "name": "Bar-Restaurante El Chacon",
+            "tip": "Ein beliebter Ort bei Einheimischen für Tapas und herzhafte Gerichte nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szendvics útközben",
+            "tip": "Vásároljon egy szendvicset egy helyi pékségben a víztározónál tartott piknikhez."
+          },
+          {
+            "name": "Sült hal az Ebróból",
+            "tip": "A folyóhoz közeli éttermekben kínált specialitás."
+          },
+          {
+            "name": "Bar-Restaurante El Chacon",
+            "tip": "A helyiek kedvelt helye tapasokra és kiadós ételekre egy kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș la pachet",
+            "tip": "Cumpărați un sandviș de la o brutărie locală pentru picnicul de la lac."
+          },
+          {
+            "name": "Pește prăjit de pe Ebro",
+            "tip": "O specialitate oferită în restaurantele de lângă râu."
+          },
+          {
+            "name": "Bar-Restaurante El Chacon",
+            "tip": "Un loc popular printre localnici pentru tapas și mâncăruri consistente după o plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo to go",
+            "tip": "Grab a sandwich from a local bakery for your picnic at the reservoir."
+          },
+          {
+            "name": "Fried fish from the Ebro",
+            "tip": "A specialty offered in restaurants near the river."
+          },
+          {
+            "name": "Bar-Restaurante El Chacon",
+            "tip": "A popular spot with locals for tapas and hearty meals after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Ebro",
+            "tip": "Die ruhige Strecke entlang des Flusses ist ideal, um dem Trubel zu entkommen.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Versteckte Buchten am Mar de Aragón",
+            "tip": "Erkunden Sie die Uferlinie mit dem Fahrrad, um einen eigenen kleinen Strand zu finden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der Hügel der Ermita de Horta",
+            "tip": "Genießen Sie die Stille und die Aussicht, bevor Sie wieder in die Stadt fahren.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút az Ebro mentén",
+            "tip": "A folyó menti csendes szakasz ideális a nyüzsgés elől való menekülésre.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Rejtett öblök a Mar de Aragónnál",
+            "tip": "Fedezze fel a partvonalat kerékpárral, hogy megtalálja a saját kis strandját.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Ermita de Horta dombja",
+            "tip": "Élvezze a csendet és a kilátást, mielőtt visszateker a városba.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Ebro",
+            "tip": "Traseul liniștit de-a lungul râului este ideal pentru a scăpa de agitație.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Golfuri ascunse la Mar de Aragón",
+            "tip": "Explorați malul cu bicicleta pentru a găsi propria plajă mică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Schitului Horta",
+            "tip": "Bucurați-vă de liniște și de priveliște înainte de a vă întoarce în oraș.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Ebro",
+            "tip": "The quiet stretch along the river is ideal for escaping the hustle and bustle.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Hidden coves at Mar de Aragón",
+            "tip": "Explore the shoreline by bike to find your own little beach.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The hill of Ermita de Horta",
+            "tip": "Enjoy the silence and the view before heading back to town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Die Region ist bekannt für ihren aromatischen Honig."
+          },
+          {
+            "name": "Fahrradzubehör",
+            "tip": "In Caspe gibt es Geschäfte für eventuell benötigte Fahrradreparaturen oder -zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A régió híres aromás mézéről."
+          },
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "Caspéban vannak üzletek a szükséges kerékpárjavításokhoz vagy kiegészítőkhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Regiunea este renumită pentru mierea sa aromatică."
+          },
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "În Caspe există magazine pentru orice reparații sau accesorii de biciclete de care ați putea avea nevoie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "The region is known for its aromatic honey."
+          },
+          {
+            "name": "Bike accessories",
+            "tip": "In Caspe, there are shops for any bike repairs or accessories you might need."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Einige Wege außerhalb der Stadt können unbefestigt sein, fahren Sie vorsichtig.",
+          "Nehmen Sie ein Fahrradschloss für alle Stopps mit.",
+          "Die Steigungen zur Burg und zur Ermita erfordern etwas Anstrengung."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Néhány városon kívüli út burkolatlan lehet, vezessen óvatosan.",
+          "Minden megállóhoz vigyen magával egy kerékpárzárat.",
+          "A várhoz és a remetelakhoz vezető emelkedők némi erőfeszítést igényelnek."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Unele drumuri din afara orașului pot fi neasfaltate, conduceți cu prudență.",
+          "Luați o încuietoare pentru bicicletă pentru toate opririle.",
+          "Urcușurile spre castel și schit necesită un oarecare efort."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Some roads outside the city can be unpaved, ride carefully.",
+          "Bring a bike lock for all stops.",
+          "The climbs to the castle and the hermitage require some effort."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:01",
+      "total_km": 34.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Parken nahe Plaza de España",
+            "hu": "1. klaszter: Parkolás a Plaza de España közelében",
+            "ro": "Cluster 1: Parcare lângă Plaza de España",
+            "en": "Cluster 1: Parking near Plaza de España"
+          },
+          "coords": [
+            -0.041,
+            41.233
+          ],
+          "category": "parking",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Suchen Sie einen Parkplatz für den Vormittag, um das historische Zentrum zu Fuß zu erkunden.",
+            "hu": "Keressen egy parkolóhelyet délelőttre, hogy gyalog fedezze fel a történelmi központot.",
+            "ro": "Găsiți un loc de parcare pentru dimineață pentru a explora centrul istoric pe jos.",
+            "en": "Find a parking spot for the morning to explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollegiatkirche und Burg des Kompromisses",
+            "hu": "Társkáptalani templom és a megegyezés kastélya",
+            "ro": "Colegiata și Castelul Compromisului",
+            "en": "Collegiate Church and Castle of the Compromise"
+          },
+          "coords": [
+            -0.0418,
+            41.2345
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus. Planen Sie genug Zeit für beide Hauptattraktionen ein.",
+            "hu": "Rövid séta a parkolóból. Szánjon elég időt mindkét fő látnivalóra.",
+            "ro": "O scurtă plimbare de la parcare. Planificați suficient timp pentru ambele atracții principale.",
+            "en": "A short walk from the parking area. Plan enough time for both main attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Salamanca-Turm und Plaza de España",
+            "hu": "Salamanca-torony és Plaza de España",
+            "ro": "Turnul Salamanca și Plaza de España",
+            "en": "Salamanca Tower and Plaza de España"
+          },
+          "coords": [
+            -0.039,
+            41.234
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie zurück zum Hauptplatz und entdecken Sie den nahegelegenen Turm.",
+            "hu": "Sétáljon vissza a főtérre, és fedezze fel a közeli tornyot.",
+            "ro": "Mergeți înapoi în piața principală și descoperiți turnul din apropiere.",
+            "en": "Walk back towards the main square and discover the nearby tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Fahrt zum Mausoleum von Miralpeix",
+            "hu": "2. klaszter: Utazás a Miralpeix-mauzóleumhoz",
+            "ro": "Cluster 2: Călătorie la Mausoleul din Miralpeix",
+            "en": "Cluster 2: Drive to the Mausoleum of Miralpeix"
+          },
+          "coords": [
+            -0.015,
+            41.235
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:28",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Dieses römische Monument wurde hierher verlegt, um es vor den Fluten des Stausees zu retten.",
+            "hu": "Ezt a római emlékművet azért helyezték ide, hogy megmentsék a víztározó áradásától.",
+            "ro": "Acest monument roman a fost mutat aici pentru a fi salvat de apele lacului de acumulare.",
+            "en": "This Roman monument was moved here to save it from the reservoir's waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Fahrt zum Mar de Aragón",
+            "hu": "3. klaszter: Utazás a Mar de Aragónhoz",
+            "ro": "Cluster 3: Călătorie la Mar de Aragón",
+            "en": "Cluster 3: Drive to the Mar de Aragón"
+          },
+          "coords": [
+            0.05,
+            41.28
+          ],
+          "category": "natural features",
+          "arrive_at": "13:21",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Parken Sie und erkunden Sie die Ufer. Ideal für Mittagessen und Wassersport.",
+            "hu": "Parkoljon le, és fedezze fel a partot. Ideális ebédhez és vízi sportokhoz.",
+            "ro": "Parcați și explorați malurile. Ideal pentru prânz și sporturi nautice.",
+            "en": "Park and explore the shores. Ideal for lunch and water sports."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Stausee",
+            "hu": "Séta a víztározónál",
+            "ro": "Plimbare pe malul lacului de acumulare",
+            "en": "Walk along the reservoir"
+          },
+          "coords": [
+            0.055,
+            41.283
+          ],
+          "category": "natural features",
+          "arrive_at": "15:26",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein leichter Spaziergang, um die Größe des 'aragonischen Meeres' zu erfassen.",
+            "hu": "Könnyű séta, hogy felfogja az 'aragóniai tenger' méretét.",
+            "ro": "O plimbare ușoară pentru a aprecia dimensiunea 'Mării Aragonului'.",
+            "en": "An easy walk to appreciate the scale of the 'Aragonese Sea'."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 4: Fahrt zur Ermita de Santa María de Horta",
+            "hu": "4. klaszter: Utazás a Santa María de Horta remetelakhoz",
+            "ro": "Cluster 4: Călătorie la Schitul Santa María de Horta",
+            "en": "Cluster 4: Drive to the Hermitage of Santa María de Horta"
+          },
+          "coords": [
+            -0.02,
+            41.229
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:01",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 14.0,
+          "tip_5lang": {
+            "de": "Ein perfekter, ruhiger Abschluss des Tages mit Blick über die Landschaft.",
+            "hu": "Tökéletes, békés lezárása a napnak, kilátással a tájra.",
+            "ro": "O încheiere perfectă și liniștită a zilei, cu vedere la peisaj.",
+            "en": "A perfect, peaceful end to the day with views over the landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag gehört dem historischen Zentrum von Caspe. Nachdem Sie Ihr Auto geparkt haben, erkunden Sie zu Fuß den ersten Cluster: die majestätische Kollegiatkirche, die Burg und den Hauptplatz. Spüren Sie die Geschichte unter Ihren Füßen. Mittags fahren Sie zum zweiten Cluster, dem versetzten Mausoleum von Miralpeix, einem Zeugnis römischer Ingenieurskunst, bevor Sie zum Mittagessen und Entspannen am riesigen Mar de Aragón, dem dritten Cluster, weiterfahren. Nach einem Spaziergang am Ufer fahren Sie am späten Nachmittag zum vierten und letzten Cluster, der ruhigen Ermita de Horta. Dieser friedliche Ort bietet einen herrlichen Panoramablick und ist der perfekte Abschluss für einen erlebnisreichen Tag. Kehren Sie am Abend nach Caspe zurück, um ein wohlverdientes Abendessen zu genießen.",
+        "hu": "A délelőtt Caspe történelmi központjáé. Miután leparkolta autóját, gyalogosan fedezze fel az első klasztert: a fenséges társkáptalani templomot, a várat és a főteret. Érezze a történelmet a lába alatt. Délben autózzon el a második klaszterhez, az áthelyezett Miralpeix mauzóleumhoz, a római mérnöki tudás tanúságához, mielőtt ebédelni és pihenni indulna a hatalmas Mar de Aragónnál, a harmadik klaszternél. A parton tett séta után késő délután hajtson el a negyedik és egyben utolsó klaszterhez, a békés Horta remetelakhoz. Ez a békés hely csodálatos panorámát kínál, és tökéletes lezárása egy eseménydús napnak. Este térjen vissza Caspéba egy jól megérdemelt vacsorára.",
+        "ro": "Dimineața este dedicată centrului istoric al orașului Caspe. După ce parcați mașina, explorați pe jos primul cluster: Colegiata maiestuoasă, castelul și piața principală. Simțiți istoria sub picioarele dumneavoastră. La prânz, conduceți spre al doilea cluster, mausoleul mutat din Miralpeix, o mărturie a ingineriei romane, înainte de a continua spre imensul Mar de Aragón, al treilea cluster, pentru prânz și relaxare. După o plimbare pe mal, conduceți spre al patrulea și ultimul cluster, liniștitul Schit Horta, în după-amiaza târzie. Acest loc pașnic oferă o vedere panoramică magnifică și este încheierea perfectă pentru o zi plină de evenimente. Întoarceți-vă la Caspe seara pentru o cină binemeritată.",
+        "en": "The morning is for the historic center of Caspe. After parking your car, explore the first cluster on foot: the majestic Collegiate Church, the castle, and the main square. Feel the history beneath your feet. At noon, drive to the second cluster, the relocated Mausoleum of Miralpeix, a testament to Roman engineering, before continuing to the vast Mar de Aragón, the third cluster, for lunch and relaxation. After a walk along the shore, drive to the fourth and final cluster, the tranquil Hermitage of Horta, in the late afternoon. This peaceful place offers magnificent panoramic views and is the perfect end to an eventful day. Return to Caspe in the evening for a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Club Náutico Mar de Aragón",
+            "tip": "Genießen Sie frischen Fisch mit Blick auf den Stausee."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Ein traditionelles Gericht aus gefülltem Lamm-Magen, für die Abenteuerlustigen."
+          },
+          {
+            "name": "Wein aus der Region",
+            "tip": "Probieren Sie einen lokalen Wein aus der D.O. Terra Alta oder Bajo Aragón."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante Club Náutico Mar de Aragón",
+            "tip": "Élvezze a friss halat a víztározóra néző kilátással."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Hagyományos, töltött báránygyomorból készült étel, a kalandvágyóknak."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kóstoljon meg egy helyi bort a D.O. Terra Alta vagy Bajo Aragón borvidékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Club Náutico Mar de Aragón",
+            "tip": "Bucurați-vă de pește proaspăt cu vedere la lacul de acumulare."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Un fel de mâncare tradițional din stomac de miel umplut, pentru cei aventuroși."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Încercați un vin local din D.O. Terra Alta sau Bajo Aragón."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante Club Náutico Mar de Aragón",
+            "tip": "Enjoy fresh fish with a view of the reservoir."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "A traditional dish of stuffed lamb stomach, for the adventurous."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Try a local wine from the D.O. Terra Alta or Bajo Aragón."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von der Burg",
+            "tip": "Ein ruhiger Moment am Morgen mit Blick über die Dächer der Stadt.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Angelplatz am Mar de Aragón",
+            "tip": "Selbst ohne Angel ist die Ruhe am Wasser tiefenentspannend.",
+            "emoji": "🎣"
+          },
+          {
+            "name": "Sonnenuntergang bei der Ermita de Horta",
+            "tip": "Der perfekte Ort, um den Tag in Stille ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a várból",
+            "tip": "Csendes reggeli pillanat a város háztetőire néző kilátással.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Horgászhely a Mar de Aragónnál",
+            "tip": "Horgászbot nélkül is mélyen pihentető a vízparti csend.",
+            "emoji": "🎣"
+          },
+          {
+            "name": "Naplemente az Ermita de Hortánál",
+            "tip": "Tökéletes hely a nap csendes lezárásához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la castel",
+            "tip": "Un moment liniștit dimineața, cu vedere la acoperișurile orașului.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Loc de pescuit la Mar de Aragón",
+            "tip": "Chiar și fără undiță, liniștea de la malul apei este profund relaxantă.",
+            "emoji": "🎣"
+          },
+          {
+            "name": "Apus de soare la Schitul Horta",
+            "tip": "Locul perfect pentru a încheia ziua în liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Castle",
+            "tip": "A quiet morning moment overlooking the town's rooftops.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Fishing spot at Mar de Aragón",
+            "tip": "Even without a fishing rod, the peace and quiet by the water is deeply relaxing.",
+            "emoji": "🎣"
+          },
+          {
+            "name": "Sunset at Ermita de Horta",
+            "tip": "The perfect place to end the day in silence.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl-Kooperative",
+            "tip": "Besuchen Sie eine lokale Kooperative, um hochwertiges Olivenöl direkt vom Erzeuger zu kaufen."
+          },
+          {
+            "name": "Konserven vom Mar de Aragón",
+            "tip": "Suchen Sie nach eingelegtem Fisch oder anderen lokalen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj-szövetkezet",
+            "tip": "Látogasson el egy helyi szövetkezetbe, hogy kiváló minőségű olívaolajat vásároljon közvetlenül a termelőtől."
+          },
+          {
+            "name": "Konzervek a Mar de Aragónból",
+            "tip": "Keressen pácolt halat vagy más helyi specialitásokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cooperativă de ulei de măsline",
+            "tip": "Vizitați o cooperativă locală pentru a cumpăra ulei de măsline de înaltă calitate direct de la producător."
+          },
+          {
+            "name": "Conserve de la Mar de Aragón",
+            "tip": "Căutați pește marinat sau alte specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil Cooperative",
+            "tip": "Visit a local cooperative to buy high-quality olive oil directly from the producer."
+          },
+          {
+            "name": "Canned goods from Mar de Aragón",
+            "tip": "Look for pickled fish or other local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Die Straßen zum Mar de Aragón können kurvenreich sein, fahren Sie vorsichtig.",
+          "Ein GPS ist nützlich, um die verschiedenen, über die Landschaft verteilten Standorte zu finden.",
+          "Haben Sie immer etwas Bargeld für kleine Cafés oder Parkgebühren dabei."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "A Mar de Aragónhoz vezető utak kanyargósak lehetnek, vezessen óvatosan.",
+          "Hasznos egy GPS a tájon szétszórt különböző helyszínek megtalálásához.",
+          "Mindig legyen Önnél némi készpénz a kis kávézókhoz vagy parkolási díjakhoz."
+        ],
+        "ro": [
+          "Verificați din timp opțiunile și taxele de parcare.",
+          "Drumurile spre Mar de Aragón pot fi sinuoase, conduceți cu atenție.",
+          "Un GPS este util pentru a găsi diferitele locații dispersate în peisaj.",
+          "Aveți întotdeauna niște numerar la îndemână pentru cafenelele mici sau taxele de parcare."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "The roads to Mar de Aragón can be winding, drive carefully.",
+          "A GPS is useful for finding the various sites scattered across the landscape.",
+          "Always have some cash on hand for small cafes or parking fees."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 9.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Plaza de España",
+            "hu": "1. klaszter: Plaza de España",
+            "ro": "Cluster 1: Plaza de España",
+            "en": "Cluster 1: Plaza de España"
+          },
+          "coords": [
+            -0.0399,
+            41.2336
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Zentrum, nahe der Hauptbushaltestelle.",
+            "hu": "Kezdje a napot a központban, a fő buszmegálló közelében.",
+            "ro": "Începeți ziua în centru, lângă stația principală de autobuz.",
+            "en": "Start your day in the center, near the main bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollegiatkirche und Burg des Kompromisses",
+            "hu": "Társkáptalani templom és a megegyezés kastélya",
+            "ro": "Colegiata și Castelul Compromisului",
+            "en": "Collegiate Church and Castle of the Compromise"
+          },
+          "coords": [
+            -0.0418,
+            41.2345
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:35",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Diese beiden Hauptattraktionen liegen nur einen kurzen Spaziergang voneinander entfernt.",
+            "hu": "Ez a két fő látnivaló csak rövid sétára van egymástól.",
+            "ro": "Aceste două atracții principale se află la o scurtă plimbare una de cealaltă.",
+            "en": "These two main attractions are just a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Autonomie Aragóns",
+            "hu": "Aragónia Autonómia Múzeuma",
+            "ro": "Muzeul Autonomiei Aragonului",
+            "en": "Museum of Aragonese Autonomy"
+          },
+          "coords": [
+            -0.035,
+            41.231
+          ],
+          "category": "museums",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch die Gassen führt Sie zu diesem interessanten Museum.",
+            "hu": "A sikátorokon keresztül sétálva jut el ehhez az érdekes múzeumhoz.",
+            "ro": "O plimbare pe străduțe vă va duce la acest muzeu interesant.",
+            "en": "A walk through the alleys will lead you to this interesting museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Fahrt zum Mar de Aragón",
+            "hu": "2. klaszter: Utazás a Mar de Aragónhoz",
+            "ro": "Cluster 2: Călătorie la Mar de Aragón",
+            "en": "Cluster 2: Drive to the Mar de Aragón"
+          },
+          "coords": [
+            -0.01,
+            41.24
+          ],
+          "category": "natural features",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus, der in Richtung Stausee fährt. Planen Sie Zeit für die Fahrt ein.",
+            "hu": "Szálljon fel a víztározó felé tartó buszra. Szánjon időt az utazásra.",
+            "ro": "Luați autobuzul care merge spre lacul de acumulare. Planificați-vă timp pentru călătorie.",
+            "en": "Take the bus that goes towards the reservoir. Plan time for the journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang und Mittagessen am See",
+            "hu": "Séta és ebéd a tónál",
+            "ro": "Plimbare și prânz la lac",
+            "en": "Walk and lunch by the lake"
+          },
+          "coords": [
+            -0.008,
+            41.242
+          ],
+          "category": "natural features",
+          "arrive_at": "15:38",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie in der Nähe eines Restaurants oder eines Aussichtspunkts aus und genießen Sie die Umgebung.",
+            "hu": "Szálljon le egy étterem vagy egy kilátó közelében, és élvezze a környéket.",
+            "ro": "Coborâți lângă un restaurant sau un punct de belvedere și bucurați-vă de împrejurimi.",
+            "en": "Get off near a restaurant or viewpoint and enjoy the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Visszaút a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the center"
+          },
+          "coords": [
+            -0.0399,
+            41.2336
+          ],
+          "category": "neighborhood",
+          "arrive_at": "16:58",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Achten Sie auf den Fahrplan des letzten Busses zurück nach Caspe.",
+            "hu": "Figyeljen a Caspéba visszatérő utolsó busz menetrendjére.",
+            "ro": "Fiți atenți la programul ultimului autobuz înapoi spre Caspe.",
+            "en": "Pay attention to the schedule for the last bus back to Caspe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Zentrum von Caspe. Der erste Cluster konzentriert sich auf das historische Herz, das Sie bequem zu Fuß erkunden: die Plaza, die Kirche, die Burg und das Museum. Verbringen Sie den gesamten Vormittag damit, in die reiche Geschichte einzutauchen. Gegen Mittag nehmen Sie einen Bus zum zweiten Cluster, dem riesigen Mar de Aragón. Die Busfahrt selbst bietet einen Einblick in die umliegende Landschaft. Dort angekommen, haben Sie Zeit für ein entspanntes Mittagessen und einen Spaziergang am Ufer. Am späten Nachmittag bringt Sie der Bus zurück ins Zentrum von Caspe, rechtzeitig, um den Abend in einer der gemütlichen Tapas-Bars der Stadt ausklingen zu lassen.",
+        "hu": "A tömegközlekedéssel töltött nap Caspe központjában kezdődik. Az első klaszter a történelmi szívre összpontosít, amelyet kényelmesen felfedezhet gyalog: a tér, a templom, a vár és a múzeum. Töltse az egész délelőttöt a gazdag történelemben való elmerüléssel. Dél körül szálljon buszra a második klaszterhez, a hatalmas Mar de Aragónhoz. Maga a buszút bepillantást enged a környező tájba. Miután megérkezett, lesz ideje egy nyugodt ebédre és egy sétára a parton. Késő délután a busz visszaviszi Önt Caspe központjába, éppen időben, hogy a város egyik hangulatos tapas bárjában zárja az estét.",
+        "ro": "Ziua dumneavoastră cu transportul public începe în centrul orașului Caspe. Primul cluster se concentrează pe inima istorică, pe care o puteți explora confortabil pe jos: piața, biserica, castelul și muzeul. Petreceți întreaga dimineață cufundându-vă în istoria bogată. În jurul prânzului, luați un autobuz către al doilea cluster, imensul Mar de Aragón. Călătoria cu autobuzul în sine oferă o privire asupra peisajului înconjurător. Odată ajuns acolo, veți avea timp pentru un prânz relaxat și o plimbare pe mal. La sfârșitul după-amiezii, autobuzul vă va duce înapoi în centrul orașului Caspe, la timp pentru a încheia seara la unul dintre barurile de tapas primitoare ale orașului.",
+        "en": "Your day using public transport begins in the center of Caspe. The first cluster focuses on the historic heart, which you can comfortably explore on foot: the plaza, the church, the castle, and the museum. Spend the entire morning immersing yourself in the rich history. Around noon, you take a bus to the second cluster, the vast Mar de Aragón. The bus ride itself offers a glimpse of the surrounding landscape. Once there, you'll have time for a relaxed lunch and a walk along the shore. In the late afternoon, the bus will take you back to the center of Caspe, just in time to end the evening at one of the city's cozy tapas bars."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas in der Altstadt",
+            "tip": "Kehren Sie nach Ihrer Rückkehr in eine der vielen Bars ein und probieren Sie verschiedene kleine Gerichte."
+          },
+          {
+            "name": "Migas",
+            "tip": "Ein einfaches, aber herzhaftes Gericht aus Brotkrumen, oft mit Chorizo und Trauben serviert."
+          },
+          {
+            "name": "La Tasca de Tio Damián",
+            "tip": "Ein authentischer Ort, um die lokale Atmosphäre und traditionelle Tapas zu genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas az óvárosban",
+            "tip": "Visszaérkezés után térjen be az egyik bárba, és kóstoljon meg különböző kis ételeket."
+          },
+          {
+            "name": "Migas",
+            "tip": "Egyszerű, de kiadós étel kenyérmorzsából, gyakran chorizóval és szőlővel tálalva."
+          },
+          {
+            "name": "La Tasca de Tio Damián",
+            "tip": "Autentikus hely a helyi hangulat és a hagyományos tapasok élvezetéhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas în orașul vechi",
+            "tip": "La întoarcere, intrați într-unul dintre numeroasele baruri și încercați diverse feluri de mâncare mici."
+          },
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare simplu, dar consistent, din pesmet, adesea servit cu chorizo și struguri."
+          },
+          {
+            "name": "La Tasca de Tio Damián",
+            "tip": "Un loc autentic pentru a vă bucura de atmosfera locală și de tapas tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas in the old town",
+            "tip": "Upon your return, pop into one of the many bars and try various small dishes."
+          },
+          {
+            "name": "Migas",
+            "tip": "A simple but hearty dish made from breadcrumbs, often served with chorizo and grapes."
+          },
+          {
+            "name": "La Tasca de Tio Damián",
+            "tip": "An authentic place to enjoy the local atmosphere and traditional tapas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innenhof der Burg",
+            "tip": "Finden Sie einen ruhigen Winkel im Inneren der Burgmauern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bank am Ufer des Mar de Aragón",
+            "tip": "Setzen Sie sich und beobachten Sie die Fischer und Vögel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchplatz am späten Nachmittag",
+            "tip": "Wenn der Trubel nachlässt, ist dies ein friedlicher Ort.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A vár udvara",
+            "tip": "Keressen egy csendes sarkot a vár falain belül.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pad a Mar de Aragón partján",
+            "tip": "Üljön le, és figyelje a horgászokat és a madarakat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Templomtér késő délután",
+            "tip": "Amikor a nyüzsgés alábbhagy, ez egy békés hely.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea interioară a castelului",
+            "tip": "Găsiți un colț liniștit în interiorul zidurilor castelului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bancă pe malul Mar de Aragón",
+            "tip": "Așezați-vă și priviți pescarii și păsările.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piața bisericii după-amiaza târziu",
+            "tip": "Când agitația se potolește, acesta este un loc pașnic.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle courtyard",
+            "tip": "Find a quiet corner inside the castle walls.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bench on the shore of Mar de Aragón",
+            "tip": "Sit down and watch the fishermen and birds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Church square in the late afternoon",
+            "tip": "When the hustle and bustle subsides, this is a peaceful place.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Ihr Besuch auf einen Markttag fällt, suchen Sie nach lokalen Produkten und Käse."
+          },
+          {
+            "name": "Keramik",
+            "tip": "Aragonische Keramik ist bekannt für ihre Muster. Ein schönes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Ha látogatása piacnapra esik, keressen helyi termékeket és sajtokat."
+          },
+          {
+            "name": "Kerámia",
+            "tip": "Az aragóniai kerámia a mintáiról ismert. Szép szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă vizita dumneavoastră coincide cu o zi de piață, căutați produse locale și brânzeturi."
+          },
+          {
+            "name": "Ceramică",
+            "tip": "Ceramica aragoneză este cunoscută pentru modelele sale. Un suvenir frumos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly market",
+            "tip": "If your visit falls on a market day, look for local produce and cheeses."
+          },
+          {
+            "name": "Ceramics",
+            "tip": "Aragonese ceramics are known for their patterns. A beautiful souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne, da die Frequenz begrenzt sein kann.",
+          "Kaufen Sie ein Tagesticket, wenn verfügbar, um Kosten zu sparen.",
+          "Beachten Sie, dass Busse auf dem Land möglicherweise nicht immer pünktlich sind.",
+          "Fragen Sie den Busfahrer oder Einheimische, wenn Sie unsicher sind, wo Sie aussteigen müssen."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszmenetrendekről, mivel a járatok sűrűsége korlátozott lehet.",
+          "Ha elérhető, vásároljon napijegyet a költségek megtakarítása érdekében.",
+          "Vegye figyelembe, hogy a vidéki buszok nem mindig pontosak.",
+          "Kérdezze meg a buszsofőrt vagy a helyieket, ha nem biztos benne, hol kell leszállnia."
+        ],
+        "ro": [
+          "Informați-vă în avans despre orarele autobuzelor, deoarece frecvența poate fi limitată.",
+          "Cumpărați un bilet de o zi, dacă este disponibil, pentru a economisi costuri.",
+          "Rețineți că autobuzele din zonele rurale s-ar putea să nu fie întotdeauna punctuale.",
+          "Întrebați șoferul de autobuz sau localnicii dacă nu sunteți sigur unde să coborâți."
+        ],
+        "en": [
+          "Find out about bus schedules in advance, as frequency may be limited.",
+          "Buy a day ticket if available to save costs.",
+          "Be aware that rural buses may not always be on time.",
+          "Ask the bus driver or locals if you are unsure where to get off."
+        ]
+      }
+    }
+  }
+}

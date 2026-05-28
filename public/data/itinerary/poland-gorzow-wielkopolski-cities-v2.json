@@ -1,0 +1,1517 @@
+{
+  "city_id": "poland-gorzow-wielkopolski-cities-v2",
+  "anchor": {
+    "name": "Landsberg an der Warthe",
+    "coords": [
+      15.2369,
+      52.7325
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Alter Markt",
+            "hu": "Városháza és Régi Piactér",
+            "ro": "Primăria și Piața Veche",
+            "en": "Town Hall and Old Market Square"
+          },
+          "coords": [
+            15.238,
+            52.731
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mischung aus historischer und sozialistischer Architektur.",
+            "hu": "Figyelje meg a történelmi és a szocialista építészet keverékét.",
+            "ro": "Admirați amestecul de arhitectură istorică și socialistă.",
+            "en": "Admire the mix of historical and socialist architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Paucksch-Brunnen",
+            "hu": "Paucksch-kút",
+            "ro": "Fântâna Paucksch",
+            "en": "Paucksch Fountain"
+          },
+          "coords": [
+            15.2385,
+            52.7315
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein beliebter Fotopunkt und Treffpunkt für Einheimische.",
+            "hu": "Népszerű fotópont és a helyiek találkozóhelye.",
+            "ro": "Un loc popular pentru fotografii și un punct de întâlnire pentru localnici.",
+            "en": "A popular photo spot and meeting point for locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkathedrale",
+            "hu": "Szent Mária-székesegyház",
+            "ro": "Catedrala Sf. Maria",
+            "en": "St. Mary's Cathedral"
+          },
+          "coords": [
+            15.2401,
+            52.7308
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf den massiven, wehrhaften Turm, der einst zur Stadtverteidigung diente.",
+            "hu": "Keresse a masszív, védelemre is szolgáló tornyot, amely egykor a város védelmét szolgálta.",
+            "ro": "Observați turnul masiv, fortificat, care a servit cândva la apărarea orașului.",
+            "en": "Look for the massive, fortified tower that once served in the city's defense."
+          }
+        },
+        {
+          "name": {
+            "de": "Spichlerz (Speicher)",
+            "hu": "Spichlerz (Magtár)",
+            "ro": "Spichlerz (Hambarul)",
+            "en": "The Granary (Spichlerz)"
+          },
+          "coords": [
+            15.2345,
+            52.7322
+          ],
+          "category": "museums",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beherbergt heute eine Kunstausstellung, ursprünglich ein Getreidespeicher.",
+            "hu": "Ma művészeti kiállításnak ad otthont, eredetileg gabonaraktár volt.",
+            "ro": "Astăzi găzduiește o expoziție de artă, fiind inițial un depozit de cereale.",
+            "en": "Now houses an art exhibition, but was originally a grain storehouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Warthe-Boulevard",
+            "hu": "Warta-sétány",
+            "ro": "Bulevardul Warta",
+            "en": "Warta Boulevard"
+          },
+          "coords": [
+            15.235,
+            52.734
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause in einem der Cafés mit Blick auf den Fluss.",
+            "hu": "Ideális egy ebédszünetre a folyóra néző kávézók egyikében.",
+            "ro": "Ideal pentru o pauză de prânz la una dintre cafenelele cu vedere la râu.",
+            "en": "Ideal for a lunch break at one of the cafes overlooking the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Lebuser Landes",
+            "hu": "Lubusi Föld Múzeuma",
+            "ro": "Muzeul Ținutului Lubusz",
+            "en": "Museum of the Lubusz Land"
+          },
+          "coords": [
+            15.228,
+            52.73
+          ],
+          "category": "museums",
+          "arrive_at": "14:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die komplexe Geschichte der deutsch-polnischen Grenzregion.",
+            "hu": "Ismerje meg a német-lengyel határvidék összetett történelmét.",
+            "ro": "Explorați istoria complexă a regiunii de frontieră germano-poloneză.",
+            "en": "Explore the complex history of the German-Polish border region."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenbrücke und Park",
+            "hu": "Vasúti híd és park",
+            "ro": "Podul de Fier și Parcul",
+            "en": "Iron Bridge and Park"
+          },
+          "coords": [
+            15.225,
+            52.735
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:34",
+          "stay_min": 81,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang am späten Nachmittag über die Brücke und durch den angrenzenden Park.",
+            "hu": "Kellemes késő délutáni séta a hídon át és a szomszédos parkban.",
+            "ro": "O plimbare plăcută după-amiaza târziu peste pod și prin parcul adiacent.",
+            "en": "A lovely late afternoon walk across the bridge and through the adjacent park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am belebten Alten Markt, dem Herzen der Stadt. Am Vormittag erkunden Sie die gotische Marienkathedrale und das historische Spichlerz-Gebäude. Nach dem Mittagessen am malerischen Warthe-Boulevard tauchen Sie in die Regionalgeschichte im Museum des Lebuser Landes ein. Beenden Sie Ihren Tag mit einem entspannenden Spaziergang über die alte Eisenbrücke, während die Sonne langsam untergeht und ein warmes Licht auf den Fluss wirft.",
+        "hu": "Kezdje a napot a nyüzsgő Régi Piactéren, a város szívében. A délelőtt folyamán fedezze fel a gótikus Szent Mária-székesegyházat és a történelmi Spichlerz épületét. Ebéd után a festői Warta-sétányon merüljön el a Lubusi Föld Múzeumában a régió történelmében. A napot egy pihentető sétával zárja a régi Vasúti hídon, miközben a lemenő nap meleg fénnyel árasztja el a folyót.",
+        "ro": "Începeți ziua în Piața Veche plină de viață, inima orașului. Dimineața, explorați gotica Catedrală Sf. Maria și clădirea istorică Spichlerz. După prânzul pe pitorescul Bulevard Warta, scufundați-vă în istoria regională la Muzeul Ținutului Lubusz. Încheiați ziua cu o plimbare relaxantă peste vechiul Pod de Fier, în timp ce soarele apune și aruncă o lumină caldă peste râu.",
+        "en": "Start your day in the bustling Old Market Square, the heart of the city. In the morning, explore the Gothic St. Mary's Cathedral and the historic Spichlerz building. After lunch on the picturesque Warta Boulevard, delve into regional history at the Museum of the Lubusz Land. End your day with a relaxing walk across the old Iron Bridge as the sun sets, casting a warm glow over the river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi (Teigtaschen)",
+            "tip": "Probieren Sie die Variante mit Fleisch oder die süße mit Beeren."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine saure Roggenmehlsuppe, oft mit Wurst und Ei serviert."
+          },
+          {
+            "name": "Bar u Szneka",
+            "tip": "Bekannt für traditionelle polnische Hausmannskost zu fairen Preisen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi (lengyel derelye)",
+            "tip": "Kóstolja meg a húsos vagy az édes, bogyós gyümölcsös változatot."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Savanyú rozsleves, gyakran kolbásszal és tojással tálalva."
+          },
+          {
+            "name": "Bar u Szneka",
+            "tip": "Híres a hagyományos, házias lengyel ételeiről, méltányos áron."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi (colțunași polonezi)",
+            "tip": "Încercați varianta cu carne sau cea dulce cu fructe de pădure."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O ciorbă acră de secară, adesea servită cu cârnat și ou."
+          },
+          {
+            "name": "Bar u Szneka",
+            "tip": "Renumit pentru mâncarea tradițională poloneză la prețuri corecte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi (Polish dumplings)",
+            "tip": "Try the meat version or the sweet one with berries."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A sour rye soup, often served with sausage and egg."
+          },
+          {
+            "name": "Bar u Szneka",
+            "tip": "Known for traditional Polish home cooking at fair prices."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Warthe-Boulevard",
+            "tip": "Setzen Sie sich auf eine Bank und beobachten Sie die vorbeiziehenden Boote.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rosenpark",
+            "tip": "Ein ruhiger Ort, besonders außerhalb der Blütezeit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Flussufer",
+            "tip": "Abseits des Boulevards finden sich ruhige Pfade.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Warta-sétány",
+            "tip": "Üljön le egy padra és nézze a folyón úszó hajókat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rózsapark",
+            "tip": "Csendes hely, különösen a virágzási időszakon kívül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a folyóparton",
+            "tip": "A sétánytól távolabb csendes ösvényeket talál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulevardul Warta",
+            "tip": "Stați pe o bancă și priviți bărcile trecând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Trandafirilor",
+            "tip": "Un loc liniștit, mai ales în afara sezonului de înflorire.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "Departe de bulevard veți găsi cărări liniștite.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Warta Boulevard",
+            "tip": "Sit on a bench and watch the boats go by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rose Park",
+            "tip": "A quiet place, especially outside of the blooming season.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the riverbank",
+            "tip": "Away from the boulevard, you'll find quiet paths.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt am Rathaus",
+            "tip": "Frisches Obst, Gemüse und lokale Produkte."
+          },
+          {
+            "name": "Souvenirs an der Kathedrale",
+            "tip": "Kleine Stände mit Postkarten und Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac a Városházánál",
+            "tip": "Friss gyümölcs, zöldség és helyi termékek."
+          },
+          {
+            "name": "Ajándéktárgyak a székesegyháznál",
+            "tip": "Kisméretű standok képeslapokkal és emléktárgyakkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de lângă Primărie",
+            "tip": "Fructe proaspete, legume și produse locale."
+          },
+          {
+            "name": "Suveniruri la Catedrală",
+            "tip": "Mici standuri cu vederi și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market at the Town Hall",
+            "tip": "Fresh fruit, vegetables, and local products."
+          },
+          {
+            "name": "Souvenirs at the Cathedral",
+            "tip": "Small stalls with postcards and keepsakes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Viele Museen haben montags geschlossen.",
+          "Halten Sie Ausschau nach den kleinen Zwergenstatuen, die in der ganzen Stadt verteilt sind.",
+          "Probieren Sie unbedingt die lokale Biersorte."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakő egyenetlen lehet.",
+          "Sok múzeum zárva tart hétfőn.",
+          "Keresse a városban elszórtan található apró törpeszobrokat.",
+          "Feltétlenül kóstolja meg a helyi sört."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Multe muzee sunt închise lunea.",
+          "Fiți atenți la micile statui ale piticilor răspândite prin oraș.",
+          "Asigurați-vă că încercați berea locală."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the cobblestones in the old town can be uneven.",
+          "Many museums are closed on Mondays.",
+          "Look out for the small dwarf statues scattered around the city.",
+          "Be sure to try the local beer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rosenpark",
+            "hu": "Rózsapark",
+            "ro": "Parcul Trandafirilor",
+            "en": "Rose Park"
+          },
+          "coords": [
+            15.255,
+            52.739
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie hier Ihr Fahrrad und genießen Sie die Morgenruhe.",
+            "hu": "Béreljen itt kerékpárt, és élvezze a reggeli csendet.",
+            "ro": "Închiriați-vă bicicleta de aici și bucurați-vă de liniștea dimineții.",
+            "en": "Rent your bike here and enjoy the morning tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Warthe-Boulevard",
+            "hu": "Warta-sétány",
+            "ro": "Bulevardul Warta",
+            "en": "Warta Boulevard"
+          },
+          "coords": [
+            15.235,
+            52.734
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt entlang des Flusses in Richtung Stadtzentrum.",
+            "hu": "Kellemes út a folyó mentén a városközpont felé.",
+            "ro": "O plimbare plăcută pe malul râului spre centrul orașului.",
+            "en": "A pleasant ride along the river towards the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenbrücke",
+            "hu": "Vasúti híd",
+            "ro": "Podul de Fier",
+            "en": "Iron Bridge"
+          },
+          "coords": [
+            15.225,
+            52.735
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke für eine andere Perspektive auf die Stadt.",
+            "hu": "Menjen át a hídon, hogy más szemszögből is megnézze a várost.",
+            "ro": "Traversați podul pentru o perspectivă diferită asupra orașului.",
+            "en": "Cross the bridge for a different perspective of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Lebuser Landes",
+            "hu": "Lubusi Föld Múzeuma",
+            "ro": "Muzeul Ținutului Lubusz",
+            "en": "Museum of the Lubusz Land"
+          },
+          "coords": [
+            15.228,
+            52.73
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
+            "hu": "Biztonságosan zárja le a kerékpárját, mielőtt belép a múzeumba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în muzeu.",
+            "en": "Securely lock your bike before entering the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Spichlerz (Speicher)",
+            "hu": "Spichlerz (Magtár)",
+            "ro": "Spichlerz (Hambarul)",
+            "en": "The Granary (Spichlerz)"
+          },
+          "coords": [
+            15.2345,
+            52.7322
+          ],
+          "category": "museums",
+          "arrive_at": "13:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Museumsbesuch mit einer Kaffeepause in der Nähe.",
+            "hu": "Kösse össze a múzeumlátogatást egy közeli kávészünettel.",
+            "ro": "Combinați vizita la muzeu cu o pauză de cafea în apropiere.",
+            "en": "Combine the museum visit with a coffee break nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Gorzów",
+            "hu": "Gorzówi Városháza",
+            "ro": "Primăria Gorzów",
+            "en": "Gorzów Town Hall"
+          },
+          "coords": [
+            15.238,
+            52.731
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der zentrale Platz ist ideal, um das städtische Leben zu beobachten.",
+            "hu": "A központi tér ideális a városi élet megfigyelésére.",
+            "ro": "Piața centrală este ideală pentru a observa viața urbană.",
+            "en": "The central square is ideal for watching city life."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkathedrale",
+            "hu": "Szent Mária-székesegyház",
+            "ro": "Catedrala Sf. Maria",
+            "en": "St. Mary's Cathedral"
+          },
+          "coords": [
+            15.2401,
+            52.7308
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine beeindruckende gotische Backsteinkirche im Herzen der Stadt.",
+            "hu": "Lenyűgöző gótikus téglatemplom a város szívében.",
+            "ro": "O impresionantă biserică gotică din cărămidă în inima orașului.",
+            "en": "An impressive Gothic brick church in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Paucksch-Brunnen",
+            "hu": "Paucksch-kút",
+            "ro": "Fântâna Paucksch",
+            "en": "Paucksch Fountain"
+          },
+          "coords": [
+            15.2385,
+            52.7315
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:26",
+          "stay_min": 109,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem ikonischen Brunnen.",
+            "hu": "Fejezze be a kerékpártúrát ennél az ikonikus kútnál.",
+            "ro": "Încheiați-vă turul cu bicicleta la această fântână iconică.",
+            "en": "End your bike tour at this iconic fountain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im ruhigen Rosenpark und fahren Sie entlang des Flusses auf dem Warthe-Boulevard. Überqueren Sie die historische Eisenbrücke, um die Stadt aus einer anderen Perspektive zu sehen. Am Mittag besuchen Sie die Museen, um in die Kunst und Geschichte der Region einzutauchen. Der Nachmittag ist dem historischen Herzen gewidmet: dem Rathaus und der imposanten Marienkathedrale. Schließen Sie den Kreis Ihrer Tour am berühmten Paucksch-Brunnen ab.",
+        "hu": "Kezdje a kerékpártúrát a csendes Rózsaparkban, majd tekerjen a folyó mentén a Warta-sétányon. Keljen át a történelmi Vasúti hídon, hogy más szemszögből is lássa a várost. Délben látogasson el a múzeumokba, hogy elmerüljön a régió művészetében és történelmében. A délután a történelmi városrészé: a Városházáé és a lenyűgöző Szent Mária-székesegyházé. A túrát a híres Paucksch-kútnál zárja.",
+        "ro": "Începeți turul cu bicicleta în liniștitul Parc al Trandafirilor și pedalați de-a lungul râului pe Bulevardul Warta. Traversați istoricul Pod de Fier pentru a vedea orașul dintr-o altă perspectivă. La prânz, vizitați muzeele pentru a vă cufunda în arta și istoria regiunii. După-amiaza este dedicată inimii istorice: Primăria și impunătoarea Catedrală Sf. Maria. Încheiați turul la faimoasa Fântână Paucksch.",
+        "en": "Start your bike tour in the quiet Rose Park and ride along the river on the Warta Boulevard. Cross the historic Iron Bridge to see the city from a different perspective. At noon, visit the museums to immerse yourself in the region's art and history. The afternoon is dedicated to the historic heart: the Town Hall and the imposing St. Mary's Cathedral. Complete your tour at the famous Paucksch Fountain."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein überbackenes Baguette, perfekt als schneller Snack."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Kohlrouladen, ein herzhaftes Gericht für nach der Radtour."
+          },
+          {
+            "name": "Paddy's Irish Pub",
+            "tip": "Eine gute Auswahl an Bieren und herzhaftem Pub-Essen zur Stärkung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Sült bagett, tökéletes gyors harapnivaló."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Töltött káposzta, kiadós étel a kerékpározás után."
+          },
+          {
+            "name": "Paddy's Irish Pub",
+            "tip": "Jó sörválaszték és kiadós pub-ételek az energia pótlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "O baghetă gratinată, perfectă ca o gustare rapidă."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Sarmale, un fel de mâncare consistent pentru după turul cu bicicleta."
+          },
+          {
+            "name": "Paddy's Irish Pub",
+            "tip": "O selecție bună de beri și mâncare de pub consistentă pentru a vă reface energia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "A baked baguette, perfect as a quick snack."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Cabbage rolls, a hearty dish for after the bike ride."
+          },
+          {
+            "name": "Paddy's Irish Pub",
+            "tip": "A good selection of beers and hearty pub food to refuel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosenpark",
+            "tip": "Verbringen Sie etwas mehr Zeit in diesem wunderschönen Park, bevor Sie starten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Uferweg abseits des Boulevards",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kathedralen-Stille",
+            "tip": "Im Inneren der Kathedrale finden Sie einen Moment der Ruhe.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsapark",
+            "tip": "Töltsön el egy kis extra időt ebben a gyönyörű parkban indulás előtt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parti ösvény a sétánytól távolabb",
+            "tip": "Találjon egy csendes helyet a vízparton.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A székesegyház csendje",
+            "tip": "A székesegyház belsejében egy pillanatnyi csendet talál.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Trandafirilor",
+            "tip": "Petreceți puțin timp în plus în acest parc frumos înainte de a porni.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Potecă pe malul apei, departe de bulevard",
+            "tip": "Găsiți un loc liniștit lângă apă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Liniștea catedralei",
+            "tip": "În interiorul catedralei veți găsi un moment de liniște.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Park",
+            "tip": "Spend a little extra time in this beautiful park before you start.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waterside path away from the boulevard",
+            "tip": "Find a quiet spot by the water.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cathedral silence",
+            "tip": "Find a moment of peace inside the cathedral.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Kaufen Sie Snacks für Ihre Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Vásároljon harapnivalót a kerékpártúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Cumpărați gustări pentru turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "For accessories or quick repairs."
+          },
+          {
+            "name": "Local markets",
+            "tip": "Buy snacks for your bike tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Nutzen Sie die gut ausgebauten Radwege entlang der Warthe.",
+          "Achten Sie auf Fußgänger auf dem Boulevard.",
+          "Schließen Sie Ihr Fahrrad immer gut an."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Használja a jól kiépített kerékpárutakat a Warta mentén.",
+          "Vigyázzon a gyalogosokra a sétányon.",
+          "Mindig gondosan zárja le a kerékpárját."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Utilizați pistele de biciclete bine dezvoltate de-a lungul râului Warta.",
+          "Fiți atenți la pietonii de pe bulevard.",
+          "Legați-vă întotdeauna bine bicicleta."
+        ],
+        "en": [
+          "Check your tire pressure before you start.",
+          "Use the well-developed bike paths along the Warta river.",
+          "Be aware of pedestrians on the boulevard.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 9.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Rosenpark",
+            "hu": "Parkoló a Rózsaparknál",
+            "ro": "Parcare la Parcul Trandafirilor",
+            "en": "Parking at Rose Park"
+          },
+          "coords": [
+            15.255,
+            52.739
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Guter Ausgangspunkt, um das Auto für den Tag abzustellen und die östliche Seite zu erkunden.",
+            "hu": "Jó kiindulópont, ahol hagyhatja az autót, és felfedezheti a keleti oldalt.",
+            "ro": "Un bun punct de plecare pentru a lăsa mașina și a explora partea de est.",
+            "en": "Good starting point to leave the car and explore the eastern side."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosenpark",
+            "hu": "Rózsapark",
+            "ro": "Parcul Trandafirilor",
+            "en": "Rose Park"
+          },
+          "coords": [
+            15.2545,
+            52.7385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Morgenspaziergang durch die Rosengärten.",
+            "hu": "Élvezze a csendes reggeli sétát a rózsakertekben.",
+            "ro": "Bucurați-vă de o plimbare liniștită de dimineață prin grădinile de trandafiri.",
+            "en": "Enjoy a quiet morning walk through the rose gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Alten Markt",
+            "hu": "Parkoló a Régi Piactérnél",
+            "ro": "Parcare în Piața Veche",
+            "en": "Parking at the Old Market Square"
+          },
+          "coords": [
+            15.239,
+            52.732
+          ],
+          "category": "transport",
+          "arrive_at": "10:27",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das historische Zentrum zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a történelmi központot.",
+            "ro": "Parcați aici pentru a explora centrul istoric pe jos.",
+            "en": "Park here to explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Paucksch-Brunnen",
+            "hu": "Városháza és Paucksch-kút",
+            "ro": "Primăria și Fântâna Paucksch",
+            "en": "Town Hall and Paucksch Fountain"
+          },
+          "coords": [
+            15.238,
+            52.731
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um das Treiben der Stadt auf sich wirken zu lassen.",
+            "hu": "Tökéletes hely a városi nyüzsgés megfigyelésére.",
+            "ro": "Locul perfect pentru a absorbi agitația orașului.",
+            "en": "The perfect place to soak up the city's hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkathedrale",
+            "hu": "Szent Mária-székesegyház",
+            "ro": "Catedrala Sf. Maria",
+            "en": "St. Mary's Cathedral"
+          },
+          "coords": [
+            15.2401,
+            52.7308
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm, wenn möglich, für eine großartige Aussicht.",
+            "hu": "Ha lehetséges, másszon fel a toronyba a nagyszerű kilátásért.",
+            "ro": "Urcați în turn, dacă este posibil, pentru o priveliște minunată.",
+            "en": "Climb the tower, if possible, for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Flussufer",
+            "hu": "Parkoló a folyóparton",
+            "ro": "Parcare pe malul râului",
+            "en": "Parking at the Riverside"
+          },
+          "coords": [
+            15.233,
+            52.733
+          ],
+          "category": "transport",
+          "arrive_at": "12:50",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto hier für den Rest des Nachmittags stehen.",
+            "hu": "Hagyja itt az autót a délután hátralévő részére.",
+            "ro": "Lăsați mașina aici pentru restul după-amiezii.",
+            "en": "Leave the car here for the rest of the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Warthe-Boulevard und Spichlerz",
+            "hu": "Warta-sétány és Spichlerz",
+            "ro": "Bulevardul Warta și Spichlerz",
+            "en": "Warta Boulevard and The Granary"
+          },
+          "coords": [
+            15.2345,
+            52.7322
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:55",
+          "stay_min": 276,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein spätes Mittagessen und erkunden Sie dann das Museum im Spichlerz.",
+            "hu": "Élvezze a késői ebédet, majd fedezze fel a Spichlerzben található múzeumot.",
+            "ro": "Bucurați-vă de un prânz târziu și apoi explorați muzeul din Spichlerz.",
+            "en": "Enjoy a late lunch and then explore the museum in the Granary."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag entspannt im Rosenpark, nachdem Sie Ihr Auto in der Nähe geparkt haben. Fahren Sie dann ins Zentrum, parken Sie erneut und erkunden Sie den historischen Kern zu Fuß: das Rathaus, den Paucksch-Brunnen und die beeindruckende Marienkathedrale. Für den Nachmittag fahren Sie zum Flussufer. Parken Sie ein letztes Mal und verbringen Sie den Rest des Tages am Warthe-Boulevard, genießen Sie die Aussicht, essen Sie zu Mittag und besuchen Sie das Kunstmuseum im alten Speicher.",
+        "hu": "Kezdje a napot pihentetően a Rózsaparkban, miután leparkolt a közelben. Ezután hajtson a központba, parkoljon le újra, és fedezze fel gyalog a történelmi belvárost: a Városházát, a Paucksch-kutat és a lenyűgöző Szent Mária-székesegyházat. Délutánra hajtson a folyóparthoz. Parkoljon le utoljára, és töltse a nap hátralévő részét a Warta-sétányon, élvezve a kilátást, ebédelve és meglátogatva a régi magtárban található művészeti múzeumot.",
+        "ro": "Începeți ziua relaxat în Parcul Trandafirilor după ce ați parcat mașina în apropiere. Apoi, conduceți spre centru, parcați din nou și explorați nucleul istoric pe jos: Primăria, Fântâna Paucksch și impresionanta Catedrală Sf. Maria. Pentru după-amiază, mergeți pe malul râului. Parcați pentru ultima dată și petreceți restul zilei pe Bulevardul Warta, bucurându-vă de priveliște, luând prânzul și vizitând muzeul de artă din vechiul hambar.",
+        "en": "Start your day relaxing in the Rose Park after parking your car nearby. Then drive to the center, park again, and explore the historic core on foot: the Town Hall, the Paucksch Fountain, and the impressive St. Mary's Cathedral. For the afternoon, drive to the riverside. Park one last time and spend the rest of the day on the Warta Boulevard, enjoying the views, having lunch, and visiting the art museum in the old granary."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bigos",
+            "tip": "Ein deftiger Krauteintopf, perfekt für einen hungrigen Magen."
+          },
+          {
+            "name": "Kiełbasa",
+            "tip": "Probieren Sie gegrillte polnische Wurst von einem Straßenstand."
+          },
+          {
+            "name": "Restauracja Mamma Mia",
+            "tip": "Bietet eine Mischung aus italienischer und polnischer Küche in der Nähe des Zentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bigos",
+            "tip": "Kiadós káposztaegytálétel, tökéletes egy éhes gyomornak."
+          },
+          {
+            "name": "Kiełbasa",
+            "tip": "Kóstolja meg a grillezett lengyel kolbászt egy utcai árustól."
+          },
+          {
+            "name": "Restauracja Mamma Mia",
+            "tip": "Olasz és lengyel konyha keverékét kínálja a központ közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bigos",
+            "tip": "O tocană de varză consistentă, perfectă pentru un stomac flămând."
+          },
+          {
+            "name": "Kiełbasa",
+            "tip": "Încercați cârnați polonezi la grătar de la o tarabă stradală."
+          },
+          {
+            "name": "Restauracja Mamma Mia",
+            "tip": "Oferă un amestec de bucătărie italiană și poloneză lângă centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bigos",
+            "tip": "A hearty cabbage stew, perfect for a hungry stomach."
+          },
+          {
+            "name": "Kiełbasa",
+            "tip": "Try grilled Polish sausage from a street vendor."
+          },
+          {
+            "name": "Restauracja Mamma Mia",
+            "tip": "Offers a mix of Italian and Polish cuisine near the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosenpark",
+            "tip": "Ein idealer Ort für einen ruhigen Start in den Tag.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Nebenstraßen der Altstadt",
+            "tip": "Entfliehen Sie dem Trubel der Hauptplätze.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am Fluss",
+            "tip": "Finden Sie einen ruhigen Platz am Ufer, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsapark",
+            "tip": "Ideális hely a nap csendes kezdéséhez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az óváros mellékutcái",
+            "tip": "Meneküljön el a főterek nyüzsgésétől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a folyónál",
+            "tip": "Találjon egy csendes helyet a parton, hogy lezárja a napot.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Trandafirilor",
+            "tip": "Un loc ideal pentru un început liniștit de zi.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Străzile lăturalnice ale orașului vechi",
+            "tip": "Evadați din agitația piețelor principale.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare pe râu",
+            "tip": "Găsiți un loc liniștit pe mal pentru a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Park",
+            "tip": "An ideal place for a quiet start to the day.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Side streets of the Old Town",
+            "tip": "Escape the hustle and bustle of the main squares.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset on the river",
+            "tip": "Find a quiet spot on the bank to end the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Nova Park Shopping Centre",
+            "tip": "Wenn Sie größere Einkäufe erledigen müssen, finden Sie hier alles unter einem Dach."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Halten Sie Ausschau nach Geschäften, die baltischen Bernstein verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nova Park Bevásárlóközpont",
+            "tip": "Ha nagyobb bevásárlásra van szüksége, itt mindent megtalál egy helyen."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Keresse a balti borostyánt árusító üzleteket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Nova Park",
+            "tip": "Dacă trebuie să faceți cumpărături mai mari, veți găsi totul sub un singur acoperiș."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Căutați magazine care vând chihlimbar baltic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nova Park Shopping Centre",
+            "tip": "If you need to do some major shopping, you'll find everything under one roof here."
+          },
+          {
+            "name": "Amber jewelry",
+            "tip": "Look for shops selling Baltic amber."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Parkstopps im Voraus. Parkplätze im Zentrum können knapp sein.",
+          "Achten Sie auf die Parkzonen und bezahlen Sie die Gebühren, um Strafzettel zu vermeiden.",
+          "Nutzen Sie das Auto, um auch Ziele etwas außerhalb zu erreichen.",
+          "Der Verkehr kann zu Stoßzeiten zäh sein."
+        ],
+        "hu": [
+          "Tervezze meg előre a parkolási megállókat. A központi parkolóhelyek korlátozottak lehetnek.",
+          "Figyeljen a parkolási zónákra és fizesse be a díjakat a büntetések elkerülése érdekében.",
+          "Használja az autót a kissé távolabbi célpontok eléréséhez is.",
+          "A forgalom csúcsidőben sűrű lehet."
+        ],
+        "ro": [
+          "Planificați-vă din timp opririle de parcare. Locurile de parcare din centru pot fi limitate.",
+          "Fiți atenți la zonele de parcare și plătiți taxele pentru a evita amenzile.",
+          "Folosiți mașina pentru a ajunge și la destinații puțin mai îndepărtate.",
+          "Traficul poate fi aglomerat la orele de vârf."
+        ],
+        "en": [
+          "Plan your parking stops in advance. Parking in the center can be scarce.",
+          "Pay attention to the parking zones and pay the fees to avoid tickets.",
+          "Use the car to also reach destinations a little further out.",
+          "Traffic can be heavy during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Alten Markt (Haltestelle Kathedrale)",
+            "hu": "Érkezés a Régi Piactérre (Katedrális megálló)",
+            "ro": "Sosire în Piața Veche (stația Catedrala)",
+            "en": "Arrival at the Old Market Square (Cathedral stop)"
+          },
+          "coords": [
+            15.241,
+            52.731
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public.",
+            "en": "Buy a day pass for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkathedrale",
+            "hu": "Szent Mária-székesegyház",
+            "ro": "Catedrala Sf. Maria",
+            "en": "St. Mary's Cathedral"
+          },
+          "coords": [
+            15.2401,
+            52.7308
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt an der Haltestelle gelegen, ein perfekter erster Halt.",
+            "hu": "Közvetlenül a megállónál található, tökéletes első megálló.",
+            "ro": "Situată chiar lângă stație, o primă oprire perfectă.",
+            "en": "Located right next to the stop, a perfect first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Alter Markt",
+            "hu": "Városháza és Régi Piactér",
+            "ro": "Primăria și Piața Veche",
+            "en": "Town Hall and Old Market Square"
+          },
+          "coords": [
+            15.238,
+            52.731
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie über den Platz und genießen Sie einen Kaffee.",
+            "hu": "Sétáljon végig a téren és igyon meg egy kávét.",
+            "ro": "Plimbați-vă prin piață și savurați o cafea.",
+            "en": "Stroll across the square and enjoy a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Warthe-Boulevard (Haltestelle Spichlerz)",
+            "hu": "Warta-sétány (Spichlerz megálló)",
+            "ro": "Bulevardul Warta (stația Spichlerz)",
+            "en": "Warta Boulevard (Spichlerz stop)"
+          },
+          "coords": [
+            15.234,
+            52.733
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus für das Mittagessen und einen Spaziergang am Fluss.",
+            "hu": "Szálljon ki itt ebédelni és sétálni a folyóparton.",
+            "ro": "Coborâți aici pentru prânz și o plimbare pe râu.",
+            "en": "Get off here for lunch and a walk by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Spichlerz (Speicher)",
+            "hu": "Spichlerz (Magtár)",
+            "ro": "Spichlerz (Hambarul)",
+            "en": "The Granary (Spichlerz)"
+          },
+          "coords": [
+            15.2345,
+            52.7322
+          ],
+          "category": "museums",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Boulevard entfernt.",
+            "hu": "Csak egy rövid sétára a sétánytól.",
+            "ro": "La doar o scurtă plimbare de bulevard.",
+            "en": "Just a short walk from the boulevard."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Lebuser Landes",
+            "hu": "Lubusi Föld Múzeuma",
+            "ro": "Muzeul Ținutului Lubusz",
+            "en": "Museum of the Lubusz Land"
+          },
+          "coords": [
+            15.228,
+            52.73
+          ],
+          "category": "museums",
+          "arrive_at": "15:17",
+          "stay_min": 118,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der letzte große Programmpunkt des Tages, nehmen Sie sich Zeit dafür.",
+            "hu": "A nap utolsó nagy programpontja, szánjon rá időt.",
+            "ro": "Ultimul punct important al zilei, acordați-i timp.",
+            "en": "The last major point on the agenda for the day, take your time."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit einer Tageskarte beginnt Ihr Abenteuer an der Haltestelle bei der Kathedrale. Erkunden Sie das religiöse und zivile Zentrum der Stadt – die Kathedrale und den Alten Markt – zu Fuß. Eine kurze Busfahrt bringt Sie zum Mittagessen an den Warthe-Boulevard. Von dort aus ist es nur ein kurzer Spaziergang zum Spichlerz-Museum. Eine weitere Fahrt mit den öffentlichen Verkehrsmitteln führt Sie zu Ihrem letzten Ziel, dem Museum des Lebuser Landes, wo Sie tief in die Geschichte der Region eintauchen können.",
+        "hu": "Napijeggyel a kaland a székesegyház melletti megállónál kezdődik. Fedezze fel gyalog a város vallási és polgári központját – a székesegyházat és a Régi Piacteret. Egy rövid buszozás elviszi ebédelni a Warta-sétányra. Innen csak egy rövid séta a Spichlerz-múzeum. Egy újabb tömegközlekedési út vezet az utolsó célponthoz, a Lubusi Föld Múzeumához, ahol mélyen elmerülhet a régió történelmében.",
+        "ro": "Cu un bilet de o zi, aventura dvs. începe la stația de lângă catedrală. Explorați centrul religios și civic al orașului - catedrala și Piața Veche - pe jos. O scurtă călătorie cu autobuzul vă duce la prânz pe Bulevardul Warta. De acolo, este doar o scurtă plimbare până la Muzeul Spichlerz. O altă călătorie cu transportul public vă duce la destinația finală, Muzeul Ținutului Lubusz, unde puteți aprofunda istoria regiunii.",
+        "en": "With a day pass, your adventure begins at the stop by the cathedral. Explore the city's religious and civic center - the cathedral and the Old Market Square - on foot. A short bus ride takes you to the Warta Boulevard for lunch. From there, it's just a short walk to the Spichlerz Museum. Another transit ride takes you to your final destination, the Museum of the Lubusz Land, where you can delve deep into the region's history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Naleśniki",
+            "tip": "Dünne Pfannkuchen, süß oder herzhaft gefüllt."
+          },
+          {
+            "name": "Barszcz",
+            "tip": "Rote-Bete-Suppe, ein Klassiker der polnischen Küche."
+          },
+          {
+            "name": "Dom Pizzy",
+            "tip": "Eine schnelle und einfache Option in der Nähe vieler Haltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naleśniki",
+            "tip": "Vékony palacsinta, édesen vagy sósan töltve."
+          },
+          {
+            "name": "Barszcz",
+            "tip": "Céklaleves, a lengyel konyha klasszikusa."
+          },
+          {
+            "name": "Dom Pizzy",
+            "tip": "Gyors és egyszerű lehetőség sok megálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Naleśniki",
+            "tip": "Clătite subțiri, umplute dulce sau sărat."
+          },
+          {
+            "name": "Barszcz",
+            "tip": "Supă de sfeclă roșie, un clasic al bucătăriei poloneze."
+          },
+          {
+            "name": "Dom Pizzy",
+            "tip": "O opțiune rapidă și ușoară în apropierea multor stații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Naleśniki",
+            "tip": "Thin pancakes, filled sweet or savory."
+          },
+          {
+            "name": "Barszcz",
+            "tip": "Beetroot soup, a classic of Polish cuisine."
+          },
+          {
+            "name": "Dom Pizzy",
+            "tip": "A quick and easy option near many stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt mit dem Bus",
+            "tip": "Nutzen Sie die Fahrt zwischen den Clustern, um die Stadt aus dem Fenster zu beobachten.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank im Park",
+            "tip": "Auch wenn Sie nur kurz durchqueren, nehmen Sie sich einen Moment Zeit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Museums-Café",
+            "tip": "Nach dem Rundgang eine ruhige Tasse Kaffee genießen.",
+            "emoji": "☕"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás",
+            "tip": "Használja ki a klaszterek közötti utat, hogy az ablakból figyelje a várost.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a parkban",
+            "tip": "Még ha csak átsiet is rajta, szánjon rá egy pillanatot.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Múzeumi kávézó",
+            "tip": "A tárlatvezetés után élvezzen egy csésze kávét nyugalomban.",
+            "emoji": "☕"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul",
+            "tip": "Folosiți călătoria între grupuri pentru a privi orașul pe fereastră.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în parc",
+            "tip": "Chiar dacă doar treceți, luați-vă un moment.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cafeneaua muzeului",
+            "tip": "Bucurați-vă de o ceașcă de cafea liniștită după tur.",
+            "emoji": "☕"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride",
+            "tip": "Use the ride between clusters to watch the city from the window.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in the park",
+            "tip": "Even if you're just passing through, take a moment.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Museum café",
+            "tip": "Enjoy a quiet cup of coffee after the tour.",
+            "emoji": "☕"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Haltestellen",
+            "tip": "Für Getränke, Snacks und Fahrkarten."
+          },
+          {
+            "name": "Askana Gallery",
+            "tip": "Ein Einkaufszentrum, das gut mit öffentlichen Verkehrsmitteln erreichbar ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a megállókban",
+            "tip": "Italokért, rágcsálnivalókért és jegyekért."
+          },
+          {
+            "name": "Askana Galéria",
+            "tip": "Egy bevásárlóközpont, amely könnyen megközelíthető tömegközlekedéssel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri în stații",
+            "tip": "Pentru băuturi, gustări și bilete."
+          },
+          {
+            "name": "Galeria Askana",
+            "tip": "Un centru comercial ușor accesibil cu transportul public."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at stops",
+            "tip": "For drinks, snacks, and tickets."
+          },
+          {
+            "name": "Askana Gallery",
+            "tip": "A shopping center easily accessible by public transport."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Entwerten Sie Ihr Ticket beim Einsteigen.",
+          "Beachten Sie, dass nachts und am Wochenende weniger Busse fahren.",
+          "Geben Sie älteren Fahrgästen Ihren Sitzplatz."
+        ],
+        "hu": [
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "Érvényesítse a jegyét felszálláskor.",
+          "Vegye figyelembe, hogy éjszaka és hétvégén kevesebb busz közlekedik.",
+          "Adja át a helyét az idősebb utasoknak."
+        ],
+        "ro": [
+          "Descărcați aplicația locală de transport public pentru orare și rute în timp real.",
+          "Validați-vă biletul la urcare.",
+          "Rețineți că noaptea și în weekend circulă mai puține autobuze.",
+          "Cedați locul pasagerilor în vârstă."
+        ],
+        "en": [
+          "Download the local public transport app for real-time schedules and routes.",
+          "Validate your ticket upon boarding.",
+          "Note that fewer buses run at night and on weekends.",
+          "Give your seat to elderly passengers."
+        ]
+      }
+    }
+  }
+}

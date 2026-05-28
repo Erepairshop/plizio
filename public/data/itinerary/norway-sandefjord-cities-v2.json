@@ -1,0 +1,1532 @@
+{
+  "city_id": "norway-sandefjord-cities-v2",
+  "anchor": {
+    "name": "Sandefjord",
+    "coords": [
+      10.216,
+      59.133
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sandefjord Kirche",
+            "hu": "Sandefjordi templom",
+            "ro": "Biserica din Sandefjord",
+            "en": "Sandefjord Church"
+          },
+          "coords": [
+            10.221,
+            59.132
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die roten Backsteinmauern und das schlichte, aber elegante Innere.",
+            "hu": "Csodálja meg a vörös téglás falakat és az egyszerű, de elegáns belső teret.",
+            "ro": "Admirați zidurile de cărămidă roșie și interiorul simplu, dar elegant.",
+            "en": "Admire the red brick walls and the simple yet elegant interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Hjertnes Kulturzentrum",
+            "hu": "Hjertnes Kulturális Központ",
+            "ro": "Centrul Cultural Hjertnes",
+            "en": "Hjertnes Culture Center"
+          },
+          "coords": [
+            10.223,
+            59.129
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:58",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm auf lokale Veranstaltungen oder Ausstellungen.",
+            "hu": "Nézze meg a programot, hátha van valamilyen helyi esemény vagy kiállítás.",
+            "ro": "Verificați programul pentru evenimente sau expoziții locale.",
+            "en": "Check the schedule for any local events or exhibitions happening."
+          }
+        },
+        {
+          "name": {
+            "de": "Walfangmonument",
+            "hu": "Bálnavadász-emlékmű",
+            "ro": "Monumentul Vânătorii de Balene",
+            "en": "Whaling Monument"
+          },
+          "coords": [
+            10.225,
+            59.127
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:34",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ikonisches Fotomotiv, besonders am Abend. Es ist das Herz der Hafengegend.",
+            "hu": "Ikonikus fotótéma, különösen este. Ez a kikötő szívének számít.",
+            "ro": "Un loc iconic pentru fotografii, mai ales seara. Este inima zonei portuare.",
+            "en": "An iconic photo spot, especially in the evening. It's the heart of the harbor area."
+          }
+        },
+        {
+          "name": {
+            "de": "Walfangmuseum",
+            "hu": "Bálnavadászati Múzeum",
+            "ro": "Muzeul Vânătorii de Balene",
+            "en": "Whaling Museum"
+          },
+          "coords": [
+            10.228,
+            59.129
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das einzige Museum seiner Art in Europa. Verpassen Sie nicht das Blauwal-Modell in voller Größe.",
+            "hu": "Az egyetlen ilyen jellegű múzeum Európában. Ne hagyja ki a teljes méretű kékbálna-modellt.",
+            "ro": "Singurul muzeu de acest fel din Europa. Nu ratați modelul de balenă albastră în mărime naturală.",
+            "en": "The only museum of its kind in Europe. Don't miss the full-sized blue whale model."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch at the Harbor"
+          },
+          "coords": [
+            10.227,
+            59.126
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie frische Meeresfrüchte in einem der Restaurants entlang des Kais.",
+            "hu": "Élvezze a friss tenger gyümölcseit a rakpart menti éttermek egyikében.",
+            "ro": "Bucurați-vă de fructe de mare proaspete la unul dintre restaurantele de pe chei.",
+            "en": "Enjoy fresh seafood at one of the restaurants along the quay."
+          }
+        },
+        {
+          "name": {
+            "de": "Southern Actor",
+            "hu": "Southern Actor (bálnavadászhajó)",
+            "ro": "Nava Southern Actor",
+            "en": "Southern Actor"
+          },
+          "coords": [
+            10.226,
+            59.126
+          ],
+          "category": "museums",
+          "arrive_at": "14:12",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie an Bord des restaurierten Walfangschiffs, um ein Gefühl für das Leben auf See zu bekommen.",
+            "hu": "Szálljon fel a felújított bálnavadászhajóra, hogy bepillantást nyerjen a tengeri életbe.",
+            "ro": "Urcați la bordul navei de vânătoare de balene restaurate pentru a simți viața pe mare.",
+            "en": "Step aboard the restored whale catcher to get a feel for life at sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Badeparken",
+            "hu": "Badeparken (Fürdőpark)",
+            "ro": "Parcul Badeparken",
+            "en": "Badeparken"
+          },
+          "coords": [
+            10.23,
+            59.126
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort zum Entspannen. Im Sommer gibt es einen kleinen Strand und einen Spielplatz.",
+            "hu": "Tökéletes hely a pihenésre. Nyáron kis strand és játszótér is található itt.",
+            "ro": "Un loc perfect pentru relaxare. Există o mică plajă și un loc de joacă în timpul verii.",
+            "en": "A perfect spot to relax. There's a small beach and a playground during summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Sandefjord bei der markanten Kirche, bevor Sie zum Kulturzentrum schlendern. Der Vormittag steht ganz im Zeichen der Seefahrtsgeschichte der Stadt. Das berühmte Walfangmonument am Hafen führt Sie zum faszinierenden Walfangmuseum, wo Sie in die Vergangenheit der Stadt eintauchen. Nach einem Mittagessen mit frischen Meeresfrüchten erkunden Sie das historische Walfangschiff Southern Actor. Der Nachmittag endet entspannt im Badeparken, wo Sie die Meeresbrise genießen und die Eindrücke des Tages Revue passieren lassen können. Ein Spaziergang, der Ihnen die Seele Sandefjords offenbart.",
+        "hu": "Kezdje a napot Sandefjord szívében, a jellegzetes templomnál, majd sétáljon át a kulturális központhoz. A délelőtt a város tengerészeti történelmének jegyében telik. A kikötőben álló híres Bálnavadász-emlékmű elvezeti Önt a lenyűgöző Bálnavadászati Múzeumhoz, ahol elmerülhet a város múltjában. Egy friss tenger gyümölcseiből álló ebéd után fedezze fel a történelmi Southern Actor bálnavadászhajót. A délután pihenéssel zárul a Badeparkenben, ahol élvezheti a tengeri szellőt és feldolgozhatja a nap élményeit. Egy séta, amely felfedi Sandefjord lelkét.",
+        "ro": "Începeți ziua în inima orașului Sandefjord, la biserica sa distinctivă, înainte de a vă plimba spre centrul cultural. Dimineața este dedicată istoriei maritime a orașului. Faimosul Monument al Vânătorii de Balene din port vă va conduce la fascinantul Muzeu al Vânătorii de Balene, unde vă puteți cufunda în trecutul orașului. După un prânz cu fructe de mare proaspete, explorați nava istorică Southern Actor. După-amiaza se încheie relaxant în Parcul Badeparken, unde vă puteți bucura de briza mării și puteți reflecta la impresiile zilei. O plimbare care dezvăluie sufletul orașului Sandefjord.",
+        "en": "Start your day in the heart of Sandefjord at its distinctive church before strolling to the cultural center. The morning is dedicated to the city's maritime history. The famous Whaling Monument at the harbor leads you to the fascinating Whaling Museum, where you can delve into the city's past. After a fresh seafood lunch, explore the historic Southern Actor whale catcher. The afternoon concludes with relaxation in Badeparken, where you can enjoy the sea breeze and reflect on the day's experiences. A walk that reveals the soul of Sandefjord."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiskesuppe (Fischsuppe)",
+            "tip": "Eine cremige, herzhafte Suppe, oft mit Lachs, Kabeljau und Garnelen."
+          },
+          {
+            "name": "Frische Reker (Garnelen)",
+            "tip": "Im Sommer direkt vom Boot kaufen und am Kai mit Weißbrot und Mayonnaise genießen."
+          },
+          {
+            "name": "Brygga 11",
+            "tip": "Bekannt für seine exzellenten Meeresfrüchtegerichte mit Blick auf den Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiskesuppe (halászlé)",
+            "tip": "Krémes, kiadós leves, gyakran lazaccal, tőkehallal és garnélával."
+          },
+          {
+            "name": "Friss Reker (garnélarák)",
+            "tip": "Nyáron vegye meg közvetlenül a hajóról, és fogyassza a rakparton fehér kenyérrel és majonézzel."
+          },
+          {
+            "name": "Brygga 11",
+            "tip": "Kiváló tengeri ételeiről ismert, kilátással a kikötőre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiskesuppe (Supă de pește)",
+            "tip": "O supă cremoasă și consistentă, adesea cu somon, cod și creveți."
+          },
+          {
+            "name": "Reker proaspăt (Creveți)",
+            "tip": "Cumpărați-i direct de pe barcă vara și savurați-i pe chei cu pâine albă și maioneză."
+          },
+          {
+            "name": "Brygga 11",
+            "tip": "Renumit pentru preparatele excelente din fructe de mare, cu vedere la port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiskesuppe (Fish Soup)",
+            "tip": "A creamy, hearty soup often made with salmon, cod, and shrimp."
+          },
+          {
+            "name": "Fresh Reker (Shrimp)",
+            "tip": "In summer, buy them straight from the boat and enjoy them on the quay with white bread and mayonnaise."
+          },
+          {
+            "name": "Brygga 11",
+            "tip": "Known for its excellent seafood dishes with a view of the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Preståsen",
+            "tip": "Ein ruhiger Spaziergang durch den Wald zu einem schönen Aussichtspunkt über die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Badeparken",
+            "tip": "Finden Sie eine Bank am Wasser und beobachten Sie die Boote.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gokstadhaugen",
+            "tip": "Ein Ort von historischer Stille, besonders am frühen Morgen oder späten Nachmittag.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Preståsen",
+            "tip": "Egy csendes séta az erdőn keresztül egy gyönyörű kilátóponthoz a város felett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Badeparken",
+            "tip": "Keressen egy padot a vízparton, és nézze a hajókat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gokstadhaugen",
+            "tip": "A történelmi csend helye, különösen kora reggel vagy késő délután.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Preståsen",
+            "tip": "O plimbare liniștită prin pădure până la un punct de belvedere frumos asupra orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Badeparken",
+            "tip": "Găsiți o bancă lângă apă și priviți bărcile.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gokstadhaugen",
+            "tip": "Un loc de liniște istorică, mai ales dimineața devreme sau după-amiaza târziu.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Preståsen",
+            "tip": "A quiet walk through the woods to a beautiful viewpoint over the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Badeparken",
+            "tip": "Find a bench by the water and watch the boats.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gokstadhaugen",
+            "tip": "A place of historical silence, especially in the early morning or late afternoon.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Innenstadt Boutiquen",
+            "tip": "Erkunden Sie die kleinen Geschäfte in den Straßen rund um die Kirche für einzigartige Funde."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Der Shop des Walfangmuseums bietet Bücher und Souvenirs zum Thema Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi butikok",
+            "tip": "Fedezze fel a templom körüli utcák kis üzleteit egyedi leletekért."
+          },
+          {
+            "name": "Múzeumi bolt",
+            "tip": "A Bálnavadászati Múzeum boltja tengeri témájú könyveket és ajándéktárgyakat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buticuri din centrul orașului",
+            "tip": "Explorați micile magazine de pe străzile din jurul bisericii pentru descoperiri unice."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Magazinul Muzeului Vânătorii de Balene oferă cărți și suveniruri cu tematică marină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Downtown Boutiques",
+            "tip": "Explore the small shops on the streets around the church for unique finds."
+          },
+          {
+            "name": "Museum Shop",
+            "tip": "The Whaling Museum's shop offers sea-themed books and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages auf den Beinen sein werden.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese saisonal variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében talpon lesz.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mivel az szezonálisan változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi în picioare cea mai mare parte a zilei.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Luați cu dvs. o sticlă de apă reutilizabilă.",
+          "Verificați în avans orele de funcționare ale muzeelor, deoarece acestea pot varia în funcție de sezon."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet for most of the day.",
+          "Most central attractions are within easy walking distance of each other.",
+          "Bring a reusable water bottle.",
+          "Check museum opening hours in advance as they can vary seasonally."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Gokstadhaugen",
+            "hu": "Gokstad-halomsír",
+            "ro": "Movila Gokstad",
+            "en": "Gokstadhaugen"
+          },
+          "coords": [
+            10.205,
+            59.135
+          ],
+          "category": "historical",
+          "arrive_at": "09:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie sich vor, wie hier das berühmte Gokstad-Schiff ausgegraben wurde.",
+            "hu": "Képzelje el, ahogy itt ásták ki a híres Gokstad-hajót.",
+            "ro": "Imaginați-vă faimoasa navă Gokstad fiind excavată chiar aici.",
+            "en": "Imagine the famous Gokstad ship being excavated right here."
+          }
+        },
+        {
+          "name": {
+            "de": "Preståsen",
+            "hu": "Preståsen-hegy",
+            "ro": "Dealul Preståsen",
+            "en": "Preståsen"
+          },
+          "coords": [
+            10.22,
+            59.14
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad unten an und machen Sie einen kurzen Spaziergang zum Gipfel für eine tolle Aussicht.",
+            "hu": "Zárja le a biciklit lent, és tegyen egy rövid sétát a csúcsra a nagyszerű kilátásért.",
+            "ro": "Încuiați-vă bicicleta la bază și faceți o scurtă plimbare până în vârf pentru o priveliște minunată.",
+            "en": "Lock your bike at the bottom and take a short walk to the summit for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandefjord Kirche",
+            "hu": "Sandefjordi templom",
+            "ro": "Biserica din Sandefjord",
+            "en": "Sandefjord Church"
+          },
+          "coords": [
+            10.221,
+            59.132
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:16",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die Architektur zu bewundern, bevor es zum Hafen geht.",
+            "hu": "Rövid megálló, hogy megcsodálja az építészetet, mielőtt a kikötő felé veszi az irányt.",
+            "ro": "O scurtă oprire pentru a admira arhitectura înainte de a vă îndrepta spre port.",
+            "en": "A quick stop to admire the architecture before heading to the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Walfangmonument & Mittagessen",
+            "hu": "Bálnavadász-emlékmű és ebéd",
+            "ro": "Monumentul Vânătorii de Balene și Prânz",
+            "en": "Whaling Monument & Lunch"
+          },
+          "coords": [
+            10.225,
+            59.127
+          ],
+          "category": "gastro",
+          "arrive_at": "11:52",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein Restaurant mit Blick auf das Monument und den Fjord.",
+            "hu": "Keressen egy éttermet, ahonnan kilátás nyílik az emlékműre és a fjordra.",
+            "ro": "Găsiți un restaurant cu vedere la monument și la fiord.",
+            "en": "Find a restaurant with a view of the monument and the fjord."
+          }
+        },
+        {
+          "name": {
+            "de": "Walfangmuseum",
+            "hu": "Bálnavadászati Múzeum",
+            "ro": "Muzeul Vânătorii de Balene",
+            "en": "Whaling Museum"
+          },
+          "coords": [
+            10.228,
+            59.129
+          ],
+          "category": "museums",
+          "arrive_at": "13:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie in die Geschichte des Walfangs ein.",
+            "hu": "Parkolja le a kerékpárt, és merüljön el a bálnavadászat történetében.",
+            "ro": "Parcați-vă bicicleta și scufundați-vă în istoria vânătorii de balene.",
+            "en": "Park your bike and immerse yourself in the history of whaling."
+          }
+        },
+        {
+          "name": {
+            "de": "Badeparken",
+            "hu": "Badeparken (Fürdőpark)",
+            "ro": "Parcul Badeparken",
+            "en": "Badeparken"
+          },
+          "coords": [
+            10.23,
+            59.126
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Radfahren Sie am Wasser entlang und genießen Sie die entspannte Atmosphäre.",
+            "hu": "Kerékpározzon a vízparton, és élvezze a nyugodt légkört.",
+            "ro": "Plimbați-vă cu bicicleta pe malul apei și bucurați-vă de atmosfera relaxată.",
+            "en": "Cycle along the water's edge and enjoy the relaxed atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Midtåsen Skulpturenpark",
+            "hu": "Midtåsen Szoborpark",
+            "ro": "Parcul de Sculpturi Midtåsen",
+            "en": "Midtåsen Sculpture Park"
+          },
+          "coords": [
+            10.245,
+            59.138
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist die Mühe wert. Eine wunderschöne Kombination aus Kunst, Natur und Aussicht.",
+            "hu": "Megéri a fáradságot feltekerni. A művészet, a természet és a kilátás csodálatos kombinációja.",
+            "ro": "Urcușul merită efortul. O combinație frumoasă de artă, natură și priveliști.",
+            "en": "The climb is worth the effort. A beautiful combination of art, nature, and views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt mit einer Reise in die Wikingerzeit am Gokstadhaugen. Von dort radeln Sie zum Preståsen-Hügel für einen Panoramablick, bevor Sie in die Stadt hinunterfahren, um die Kirche zu besichtigen. Das Mittagessen genießen Sie am lebhaften Hafen neben dem Walfangmonument. Der Nachmittag ist der reichen Seefahrtsgeschichte im Walfangmuseum gewidmet. Entspannen Sie sich anschließend im Badeparken am Wasser, bevor Sie den letzten Anstieg zum herrlichen Midtåsen Skulpturenpark für einen unvergesslichen Abschluss des Tages in Angriff nehmen.",
+        "hu": "A kerékpáros kaland a viking korba tett utazással kezdődik a Gokstad-halomsírnál. Onnan tekerjen fel a Preståsen-hegyre a panorámás kilátásért, mielőtt leereszkedik a városba a templom megtekintéséhez. Az ebédet az élénk kikötőben, a Bálnavadász-emlékmű mellett fogyassza el. A délutánt a gazdag tengerészeti történelemnek szenteli a Bálnavadászati Múzeumban. Pihenjen a vízparti Badeparkenben, mielőtt nekivág az utolsó emelkedőnek a csodálatos Midtåsen Szoborparkhoz, a nap felejthetetlen lezárásaként.",
+        "ro": "Aventura pe bicicletă începe cu o călătorie înapoi în epoca vikingilor la Gokstadhaugen. De acolo, pedalați spre dealul Preståsen pentru o priveliște panoramică înainte de a coborî în oraș pentru a vizita biserica. Prânzul este savurat în portul plin de viață, lângă Monumentul Vânătorii de Balene. După-amiaza este dedicată istoriei maritime bogate la Muzeul Vânătorii de Balene. Relaxați-vă în Badeparken, pe malul apei, înainte de a aborda urcușul final spre magnificul Parc de Sculpturi Midtåsen pentru un final de zi de neuitat.",
+        "en": "Your bike adventure starts with a journey back to the Viking Age at Gokstadhaugen. From there, pedal to Preståsen hill for a panoramic view before rolling down into town to see the church. Lunch is enjoyed at the vibrant harbor next to the Whaling Monument. The afternoon is dedicated to the rich maritime history at the Whaling Museum. Relax in the waterside Badeparken before tackling the final climb to the magnificent Midtåsen Sculpture Park for an unforgettable end to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Waffeln mit Brunost",
+            "tip": "Ein klassischer norwegischer Snack. Perfekt für einen Energieschub am Nachmittag."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein Bier von einer der lokalen Brauereien, wie z.B. Fjordfolk Bryggeri."
+          },
+          {
+            "name": "Fiskekaker (Fischfrikadellen)",
+            "tip": "Ein schneller und leckerer Happen, den man an vielen Imbissständen am Hafen findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gofri barna sajttal (Brunost)",
+            "tip": "Klasszikus norvég harapnivaló. Tökéletes délutáni energialöket."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy sört a helyi sörfőzdék egyikéből, például a Fjordfolk Bryggeritől."
+          },
+          {
+            "name": "Fiskekaker (halpogácsa)",
+            "tip": "Gyors és ízletes falat, amelyet a kikötőben számos standnál megtalál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vafe cu Brunost (brânză maro)",
+            "tip": "O gustare norvegiană clasică. Perfectă pentru un plus de energie după-amiaza."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încercați o bere de la una dintre fabricile de bere locale, cum ar fi Fjordfolk Bryggeri."
+          },
+          {
+            "name": "Fiskekaker (chiftele de pește)",
+            "tip": "O gustare rapidă și gustoasă, găsită la multe tarabe din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Waffles with Brunost",
+            "tip": "A classic Norwegian snack. Perfect for an afternoon energy boost."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a beer from one of the local breweries, such as Fjordfolk Bryggeri."
+          },
+          {
+            "name": "Fiskekaker (Fish cakes)",
+            "tip": "A quick and tasty bite found at many stalls around the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gokstadhaugen",
+            "tip": "Ein ruhiger, historischer Ort zum Nachdenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang um den Midtåsen-Teich",
+            "tip": "Ein verstecktes Juwel für einen friedlichen Moment inmitten von Kunst.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Küste südlich von Badeparken",
+            "tip": "Radfahren Sie ein wenig weiter für einsame Felsen und den Blick auf den Fjord.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gokstadhaugen",
+            "tip": "Csendes, történelmi hely az elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Midtåsen-tó körül",
+            "tip": "Rejtett gyöngyszem egy békés pillanathoz a művészet közepette.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Badeparkentől délre eső partvidék",
+            "tip": "Tekerjen egy kicsit tovább a magányos sziklákért és a fjordra nyíló kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gokstadhaugen",
+            "tip": "Un loc liniștit, istoric, pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare în jurul iazului Midtåsen",
+            "tip": "O bijuterie ascunsă pentru un moment de pace în mijlocul artei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Coasta la sud de Badeparken",
+            "tip": "Pedalați puțin mai departe pentru stânci retrase și priveliști ale fiordului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gokstadhaugen",
+            "tip": "A quiet, historical place for contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk around the Midtåsen pond",
+            "tip": "A hidden gem for a peaceful moment surrounded by art.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The coastline south of Badeparken",
+            "tip": "Cycle a little further for secluded rocks and fjord views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Håndverkeren",
+            "tip": "Ein lokales Geschäft, das handgefertigte Waren von norwegischen Kunsthandwerkern verkauft."
+          },
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Sandefjord hat eine starke Outdoor-Kultur, perfekt um norwegische Sportbekleidung zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Håndverkeren",
+            "tip": "Helyi üzlet, amely norvég kézművesek által készített termékeket árul."
+          },
+          {
+            "name": "Sportboltok",
+            "tip": "Sandefjordban erős a szabadtéri kultúra, tökéletes hely norvég sportruházat beszerzésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Håndverkeren",
+            "tip": "Un magazin local care vinde produse realizate manual de artizani norvegieni."
+          },
+          {
+            "name": "Magazine de sport",
+            "tip": "Sandefjord are o cultură puternică a activităților în aer liber, perfectă pentru a găsi îmbrăcăminte sportivă norvegiană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Håndverkeren",
+            "tip": "A local shop selling handmade goods from Norwegian artisans."
+          },
+          {
+            "name": "Sports Shops",
+            "tip": "Sandefjord has a strong outdoor culture, perfect for finding Norwegian sportswear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Gängen, da es einige Hügel gibt.",
+          "Tragen Sie einen Helm und seien Sie auf den Straßen vorsichtig.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Die Radwege sind gut ausgebaut, aber einige Strecken verlaufen auf der Straße."
+        ],
+        "hu": [
+          "Béreljen váltós kerékpárt, mivel vannak emelkedők.",
+          "Viseljen sisakot, és legyen óvatos az utakon.",
+          "Hozzon magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a megállóknál.",
+          "A kerékpárutak jól kiépítettek, de egyes szakaszok az úton vezetnek."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze, deoarece există câteva dealuri.",
+          "Purtați cască și fiți prudenți pe drumuri.",
+          "Aduceți un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Pistele de biciclete sunt bine dezvoltate, dar unele porțiuni sunt pe șosea."
+        ],
+        "en": [
+          "Rent a bike with gears as there are some hills.",
+          "Wear a helmet and be cautious on the roads.",
+          "Bring a lock to secure your bike at stops.",
+          "The bike paths are well-developed, but some stretches are on the road."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Wikinger-Erbe - Gokstadhaugen",
+            "hu": "1. klaszter: Viking örökség - Gokstad-halomsír",
+            "ro": "Cluster 1: Moștenirea Vikingă - Gokstadhaugen",
+            "en": "Cluster 1: Viking Heritage - Gokstadhaugen"
+          },
+          "coords": [
+            10.205,
+            59.135
+          ],
+          "category": "historical",
+          "arrive_at": "09:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie direkt an der Stätte. Ein ruhiger Start in den Tag, um die Geschichte auf sich wirken zu lassen.",
+            "hu": "Parkoljon közvetlenül a helyszínen. Csendes kezdése a napnak, hogy magába szívja a történelmet.",
+            "ro": "Parcați chiar la sit. Un început liniștit de zi pentru a absorbi istoria.",
+            "en": "Park directly at the site. A quiet start to the day to absorb the history."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Maritimes Zentrum - Walfangmuseum",
+            "hu": "2. klaszter: Tengerészeti központ - Bálnavadászati Múzeum",
+            "ro": "Cluster 2: Centrul Maritim - Muzeul Vânătorii de Balene",
+            "en": "Cluster 2: Maritime Center - Whaling Museum"
+          },
+          "coords": [
+            10.228,
+            59.129
+          ],
+          "category": "museums",
+          "arrive_at": "10:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus in der Nähe des Hafens. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "Parkoljon a kikötő melletti parkolóházban. Innen minden gyalogosan elérhető.",
+            "ro": "Parcați în parcarea de lângă port. Totul este la distanță de mers pe jos de aici.",
+            "en": "Park in the parking garage near the harbor. Everything is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Walfangmonument",
+            "hu": "Séta a Bálnavadász-emlékműhöz",
+            "ro": "Plimbare la Monumentul Vânătorii de Balene",
+            "en": "Walk to Whaling Monument"
+          },
+          "coords": [
+            10.225,
+            59.127
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:28",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zum berühmtesten Wahrzeichen der Stadt.",
+            "hu": "Rövid séta a múzeumtól a város leghíresebb jelképéhez.",
+            "ro": "O scurtă plimbare de la muzeu la cel mai faimos reper al orașului.",
+            "en": "A short walk from the museum to the city's most famous landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Hafencluster",
+            "hu": "Ebéd a kikötői klaszterben",
+            "ro": "Prânz în clusterul portuar",
+            "en": "Lunch in the Harbor Cluster"
+          },
+          "coords": [
+            10.227,
+            59.126
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie eines der vielen Restaurants mit Blick auf das Wasser.",
+            "hu": "Válasszon a sok vízparti étterem közül.",
+            "ro": "Alegeți unul dintre numeroasele restaurante cu vedere la apă.",
+            "en": "Choose from one of the many restaurants overlooking the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Sandefjord Kirche",
+            "hu": "Séta a Sandefjordi templomhoz",
+            "ro": "Plimbare la Biserica Sandefjord",
+            "en": "Walk to Sandefjord Church"
+          },
+          "coords": [
+            10.221,
+            59.132
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang bergauf, um das Stadtzentrum zu sehen.",
+            "hu": "Kellemes séta felfelé a városközpont megtekintéséhez.",
+            "ro": "O plimbare plăcută în susul dealului pentru a vedea centrul orașului.",
+            "en": "A pleasant uphill walk to see the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Panoramablick - Midtåsen",
+            "hu": "3. klaszter: Panorámás kilátás - Midtåsen",
+            "ro": "Cluster 3: Vederi Panoramice - Midtåsen",
+            "en": "Cluster 3: Panoramic Views - Midtåsen"
+          },
+          "coords": [
+            10.245,
+            59.138
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum ehemaligen Wohnsitz von Anders Jahre. Genießen Sie die Kunst und die Aussicht.",
+            "hu": "Vezessen el Anders Jahre egykori rezidenciájához. Élvezze a művészetet és a kilátást.",
+            "ro": "Conduceți până la fosta reședință a lui Anders Jahre. Bucurați-vă de artă și de priveliști.",
+            "en": "Drive to the former residence of Anders Jahre. Enjoy the art and the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Thor Heyerdahl Denkmal",
+            "hu": "Séta a Thor Heyerdahl emlékműhöz",
+            "ro": "Plimbare la Monumentul Thor Heyerdahl",
+            "en": "Walk to Thor Heyerdahl Monument"
+          },
+          "coords": [
+            10.243,
+            59.137
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:39",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Innerhalb des Midtåsen-Geländes finden Sie das Denkmal für den berühmten Entdecker.",
+            "hu": "A Midtåsen területén belül találja a híres felfedező emlékművét.",
+            "ro": "În incinta Midtåsen veți găsi monumentul dedicat faimosului explorator.",
+            "en": "Within the Midtåsen grounds, find the monument to the famous explorer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einer Zeitreise zum Gokstadhaugen, dem Wikinger-Hügelgrab. Nach diesem historischen Eintauchen fahren Sie ins Herz der Stadt, parken und erkunden das maritime Zentrum zu Fuß. Der Vormittag gehört dem Walfangmuseum und dem ikonischen Walfangmonument. Nach einem köstlichen Mittagessen am Hafen spazieren Sie zur Kirche hinauf. Am Nachmittag fahren Sie wieder und erklimmen den Hügel nach Midtåsen. Dort erwartet Sie die ehemalige Residenz eines Reeders, umgeben von einem Skulpturenpark und einem Denkmal für Thor Heyerdahl, alles mit atemberaubender Aussicht als Belohnung.",
+        "hu": "Autós napja időutazással kezdődik a Gokstad-halomsírnál. A történelmi elmélyülés után hajtson a város szívébe, parkoljon le, és fedezze fel gyalog a tengerészeti központot. A délelőtt a Bálnavadászati Múzeumé és az ikonikus Bálnavadász-emlékműé. A kikötőben elköltött finom ebéd után sétáljon fel a templomhoz. Délután ismét autóba ül, és megmássza a Midtåsen-hegyet. Ott egy egykori hajótulajdonos rezidenciája várja, szoborparkkal és Thor Heyerdahl emlékművével körülvéve, jutalomként pedig lélegzetelállító kilátással.",
+        "ro": "Ziua cu mașina începe cu o călătorie în timp la Gokstadhaugen, movila funerară vikingă. După această imersiune istorică, conduceți în inima orașului, parcați și explorați centrul maritim pe jos. Dimineața este dedicată Muzeului Vânătorii de Balene și iconicului Monument al Vânătorii de Balene. După un prânz delicios în port, urcați pe jos până la biserică. După-amiaza vă întoarceți la mașină și urcați dealul spre Midtåsen. Acolo, fosta reședință a unui armator vă așteaptă, înconjurată de un parc de sculpturi și un monument dedicat lui Thor Heyerdahl, cu priveliști uluitoare ca recompensă.",
+        "en": "Your car day begins with a journey back in time at Gokstadhaugen, the Viking burial mound. After this historical immersion, drive to the heart of the city, park, and explore the maritime center on foot. The morning belongs to the Whaling Museum and the iconic Whaling Monument. After a delicious lunch at the harbor, you'll stroll up to the church. In the afternoon, you drive again, ascending the hill to Midtåsen. There, a former ship owner's residence awaits, surrounded by a sculpture park and a monument to Thor Heyerdahl, all with breathtaking views as your reward."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Klippfisk",
+            "tip": "Gesalzener und getrockneter Kabeljau, eine norwegische Delikatesse. Probieren Sie ihn in einem traditionellen Restaurant."
+          },
+          {
+            "name": "Skillingsboller",
+            "tip": "Norwegische Zimtschnecken, perfekt für eine Kaffeepause."
+          },
+          {
+            "name": "Huset",
+            "tip": "Ein beliebtes Restaurant in der Innenstadt, das für seine moderne nordische Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Klippfisk",
+            "tip": "Sóban szárított tőkehal, norvég specialitás. Kóstolja meg egy hagyományos étteremben."
+          },
+          {
+            "name": "Skillingsboller",
+            "tip": "Norvég fahéjas csiga, tökéletes egy kávészünethez."
+          },
+          {
+            "name": "Huset",
+            "tip": "Népszerű belvárosi étterem, amely a modern északi konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Klippfisk",
+            "tip": "Cod sărat și uscat, o delicatesă norvegiană. Încercați-l la un restaurant tradițional."
+          },
+          {
+            "name": "Skillingsboller",
+            "tip": "Rulouri norvegiene cu scorțișoară, perfecte pentru o pauză de cafea."
+          },
+          {
+            "name": "Huset",
+            "tip": "Un restaurant popular din centrul orașului, cunoscut pentru bucătăria sa nordică modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Klippfisk",
+            "tip": "Salted and dried cod, a Norwegian delicacy. Try it at a traditional restaurant."
+          },
+          {
+            "name": "Skillingsboller",
+            "tip": "Norwegian cinnamon buns, perfect for a coffee break."
+          },
+          {
+            "name": "Huset",
+            "tip": "A popular downtown restaurant known for its modern Nordic cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Midtåsen Gärten",
+            "tip": "Spazieren Sie durch die wunderschön angelegten Gärten für einen Moment der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von Gokstadhaugen",
+            "tip": "Genießen Sie die Stille dieses alten Ortes.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank in Badeparken",
+            "tip": "Auch wenn es nicht auf der Hauptroute liegt, ist es nur ein kurzer Spaziergang vom Hafenparkplatz entfernt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Midtåsen kertek",
+            "tip": "Sétáljon végig a gyönyörűen parkosított kerteken egy pillanatnyi békéért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Gokstadhaugenről",
+            "tip": "Élvezze ennek az ősi helynek a csendjét.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad a Badeparkenben",
+            "tip": "Bár nincs a fő útvonalon, csak egy rövid séta a kikötői parkolótól.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Midtåsen",
+            "tip": "Plimbați-vă prin grădinile frumos amenajate pentru un moment de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Gokstadhaugen",
+            "tip": "Bucurați-vă de liniștea acestui loc antic.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă în Badeparken",
+            "tip": "Chiar dacă nu se află pe traseul principal, este la o scurtă plimbare de parcarea din port.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Midtåsen Gardens",
+            "tip": "Stroll through the beautifully landscaped gardens for a moment of peace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Gokstadhaugen",
+            "tip": "Enjoy the silence of this ancient place.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench in Badeparken",
+            "tip": "Even if not on the main route, it's a short walk from the harbor parking.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Halten Sie außerhalb der Stadt Ausschau nach Schildern für „Gårdsutsalg“, um lokale Produkte zu kaufen."
+          },
+          {
+            "name": "Hvaltorvet Einkaufszentrum",
+            "tip": "Wenn Sie etwas Bestimmtes brauchen, finden Sie es in diesem zentralen Einkaufszentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "A városon kívül keresse a „Gårdsutsalg” táblákat, hogy helyi termékeket vásárolhasson."
+          },
+          {
+            "name": "Hvaltorvet bevásárlóközpont",
+            "tip": "Ha valami konkrétra van szüksége, ebben a központi bevásárlóközpontban megtalálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole locale",
+            "tip": "În afara orașului, căutați semne pentru „Gårdsutsalg” pentru a cumpăra produse locale."
+          },
+          {
+            "name": "Centrul Comercial Hvaltorvet",
+            "tip": "Dacă aveți nevoie de ceva anume, îl veți găsi în acest centru comercial central."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farm Shops",
+            "tip": "Outside the city, look for signs for 'Gårdsutsalg' to buy local produce."
+          },
+          {
+            "name": "Hvaltorvet Shopping Centre",
+            "tip": "If you need anything specific, you'll find it at this central shopping mall."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-Apps wie EasyPark, um das Parken zu bezahlen.",
+          "Die Parkgebühren im Stadtzentrum können hoch sein. Ein zentraler Parkplatz für den Tag ist oft günstiger.",
+          "Die Straßen können eng sein, fahren Sie also vorsichtig.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders im Sommer."
+        ],
+        "hu": [
+          "Használjon parkolási alkalmazásokat, mint például az EasyPark, a parkolás fizetéséhez.",
+          "A belvárosi parkolási díjak magasak lehetnek. Egy központi parkolóhely a napra gyakran olcsóbb.",
+          "Az utcák szűkek lehetnek, ezért vezessen óvatosan.",
+          "Tervezzen plusz időt a forgalomra, különösen nyáron."
+        ],
+        "ro": [
+          "Utilizați aplicații de parcare precum EasyPark pentru a plăti parcarea.",
+          "Taxele de parcare în centrul orașului pot fi ridicate. O parcare centrală pentru întreaga zi este adesea mai ieftină.",
+          "Străzile pot fi înguste, așa că conduceți cu atenție.",
+          "Planificați timp suplimentar pentru trafic, mai ales în timpul verii."
+        ],
+        "en": [
+          "Use parking apps like EasyPark to pay for parking.",
+          "City center parking fees can be high. A central parking spot for the day is often cheaper.",
+          "The roads can be narrow, so drive carefully.",
+          "Plan for extra time for traffic, especially in the summer."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 8.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum - Sandefjord Kirche",
+            "hu": "1. klaszter: Városközpont - Sandefjordi templom",
+            "ro": "Cluster 1: Centrul Orașului - Biserica Sandefjord",
+            "en": "Cluster 1: City Center - Sandefjord Church"
+          },
+          "coords": [
+            10.221,
+            59.132
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptbusbahnhof, der nur einen kurzen Spaziergang von der Kirche entfernt ist.",
+            "hu": "Kezdje a fő buszpályaudvaron, amely csak egy rövid sétára van a templomtól.",
+            "ro": "Începeți de la autogara principală, care se află la o scurtă plimbare de biserică.",
+            "en": "Start at the main bus terminal, which is a short walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Hafencluster: Walfangmonument",
+            "hu": "Séta a kikötői klaszterhez: Bálnavadász-emlékmű",
+            "ro": "Plimbare la Clusterul Portuar: Monumentul Vânătorii de Balene",
+            "en": "Walk to Harbor Cluster: Whaling Monument"
+          },
+          "coords": [
+            10.225,
+            59.127
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:58",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie den Schildern zum Hafen, Sie können es nicht verfehlen.",
+            "hu": "Kövesse a kikötő felé mutató táblákat, nem lehet eltéveszteni.",
+            "ro": "Urmați indicatoarele spre port, nu puteți să-l ratați.",
+            "en": "Follow the signs to the harbor, you can't miss it."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Walfangmuseum",
+            "hu": "Séta a Bálnavadászati Múzeumhoz",
+            "ro": "Plimbare la Muzeul Vânătorii de Balene",
+            "en": "Walk to Whaling Museum"
+          },
+          "coords": [
+            10.228,
+            59.129
+          ],
+          "category": "museums",
+          "arrive_at": "10:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss, um die lokale Geschichte zu verstehen. Planen Sie genügend Zeit ein.",
+            "hu": "Kötelező a helyi történelem megértéséhez. Tervezzen elegendő időt.",
+            "ro": "O necesitate pentru a înțelege istoria locală. Planificați suficient timp.",
+            "en": "A must-do to understand the local history. Plan for enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen & Entspannung in Badeparken",
+            "hu": "Ebéd és pihenés a Badeparkenben",
+            "ro": "Prânz și relaxare în Badeparken",
+            "en": "Lunch & Relaxation in Badeparken"
+          },
+          "coords": [
+            10.23,
+            59.126
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kaufen Sie ein Sandwich zum Mitnehmen und genießen Sie es im Park am Wasser.",
+            "hu": "Vegyél egy szendvicset elvitelre, és élvezd a parkban a vízparton.",
+            "ro": "Luați un sandviș la pachet și bucurați-vă de el în parc, lângă apă.",
+            "en": "Grab a sandwich to-go and enjoy it in the park by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Wikingerzeit - Gokstadhaugen",
+            "hu": "2. klaszter: Viking kor - Gokstad-halomsír",
+            "ro": "Cluster 2: Epoca Vikingilor - Gokstadhaugen",
+            "en": "Cluster 2: Viking Age - Gokstadhaugen"
+          },
+          "coords": [
+            10.205,
+            59.135
+          ],
+          "category": "historical",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum. Die Fahrt dauert etwa 15 Minuten.",
+            "hu": "Menjen busszal a városközpontból. Az út körülbelül 15 percig tart.",
+            "ro": "Luați un autobuz din centrul orașului. Călătoria durează aproximativ 15 minute.",
+            "en": "Take a bus from the city center. The ride is about 15 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Aussichtspunkt - Preståsen",
+            "hu": "3. klaszter: Kilátópont - Preståsen",
+            "ro": "Cluster 3: Punct de Belvedere - Preståsen",
+            "en": "Cluster 3: Viewpoint - Preståsen"
+          },
+          "coords": [
+            10.22,
+            59.14
+          ],
+          "category": "natural features",
+          "arrive_at": "15:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ins Zentrum und steigen Sie in einen Bus, der nach Norden fährt, oder machen Sie einen flotten Spaziergang.",
+            "hu": "Menjen vissza busszal a központba, és szálljon át egy észak felé tartó buszra, vagy tegyen egy gyors sétát.",
+            "ro": "Luați autobuzul înapoi în centru și schimbați cu un autobuz care merge spre nord sau faceți o plimbare vioaie.",
+            "en": "Take the bus back to the center and switch to a bus heading north, or take a brisk walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Innenstadt",
+            "hu": "Vacsora a belvárosban",
+            "ro": "Cină în centrul orașului",
+            "en": "Dinner in Downtown"
+          },
+          "coords": [
+            10.218,
+            59.133
+          ],
+          "category": "gastro",
+          "arrive_at": "16:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem gemütlichen Abendessen in einem Restaurant Ihrer Wahl.",
+            "hu": "Zárja a napot egy kellemes vacsorával egy tetszőleges étteremben.",
+            "ro": "Încheiați ziua cu o cină relaxantă la un restaurant la alegere.",
+            "en": "End the day with a relaxing dinner at a restaurant of your choice."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen von Sandefjord. Erkunden Sie den zentralen Cluster mit der Kirche, dem Hafen und dem Walfangmuseum zu Fuß. Genießen Sie ein Mittagessen im Freien im Badeparken. Am Nachmittag bringt Sie ein Bus zum historischen Gokstadhaugen, wo Sie in die Welt der Wikinger eintauchen. Anschließend fahren Sie mit dem Bus zu einem anderen Aussichtspunkt, dem Preståsen, der einen herrlichen Blick über die Stadt bietet, bevor Sie für ein wohlverdientes Abendessen ins Stadtzentrum zurückkehren. Ein Tag, der Stadtleben und Geschichte mühelos verbindet.",
+        "hu": "Tömegközlekedéssel töltött napja Sandefjord szívében kezdődik. Fedezze fel gyalog a központi klasztert a templommal, a kikötővel és a Bálnavadászati Múzeummal. Ebédeljen a szabadban a Badeparkenben. Délután egy busz elviszi a történelmi Gokstad-halomsírhoz, ahol elmerülhet a vikingek világában. Ezután busszal egy másik kilátóponthoz, a Preståsenhez utazik, ahonnan csodálatos kilátás nyílik a városra, mielőtt visszatérne a városközpontba egy jól megérdemelt vacsorára. Egy nap, amely könnyedén ötvözi a városi életet és a történelmet.",
+        "ro": "Ziua dvs. cu transportul public începe în inima orașului Sandefjord. Explorați pe jos clusterul central, inclusiv biserica, portul și Muzeul Vânătorii de Balene. Bucurați-vă de un prânz în aer liber în Badeparken. După-amiaza, un autobuz vă duce la istoricul Gokstadhaugen pentru o imersiune în lumea vikingilor. Apoi, călătoriți cu autobuzul către un alt punct de belvedere, Preståsen, pentru vederi magnifice asupra orașului, înainte de a vă întoarce în centru pentru o cină binemeritată. O zi care îmbină fără efort viața de oraș și istoria.",
+        "en": "Your day on public transport starts in the heart of Sandefjord. Explore the central cluster on foot, including the church, the harbor, and the Whaling Museum. Enjoy an outdoor lunch in Badeparken. In the afternoon, a bus takes you to the historic Gokstadhaugen for an immersion into the Viking world. You'll then travel by bus to another viewpoint, Preståsen, for magnificent views over the city before returning downtown for a well-deserved dinner. A day that effortlessly blends city life and history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Ein norwegischer Hotdog in einem weichen Fladenbrot, ein schneller und beliebter Snack."
+          },
+          {
+            "name": "Eis am Stiel von Hennig-Olsen",
+            "tip": "Eine berühmte norwegische Eismarke. Perfekt für einen sonnigen Tag."
+          },
+          {
+            "name": "Kokeriet Restaurant",
+            "tip": "Ein Restaurant in einem alten Kochhaus für Waltran, das Geschichte und gutes Essen verbindet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Norvég virsli puha lepénykenyérben, gyors és népszerű harapnivaló."
+          },
+          {
+            "name": "Hennig-Olsen jégkrém",
+            "tip": "Híres norvég jégkrémmárka. Tökéletes egy napsütéses napra."
+          },
+          {
+            "name": "Kokeriet étterem",
+            "tip": "Egy régi bálnazsírfőzőben található étterem, amely ötvözi a történelmet és a jó ételeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Un hotdog norvegian într-o lipie moale, o gustare rapidă și populară."
+          },
+          {
+            "name": "Înghețată Hennig-Olsen",
+            "tip": "O marcă faimoasă de înghețată norvegiană. Perfectă pentru o zi însorită."
+          },
+          {
+            "name": "Restaurantul Kokeriet",
+            "tip": "Un restaurant într-o veche casă de fierbere a grăsimii de balenă, care combină istoria cu mâncarea bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "A Norwegian hot dog in a soft flatbread, a quick and popular snack."
+          },
+          {
+            "name": "Hennig-Olsen ice cream",
+            "tip": "A famous Norwegian ice cream brand. Perfect for a sunny day."
+          },
+          {
+            "name": "Kokeriet Restaurant",
+            "tip": "A restaurant in an old whale blubber boiling house, combining history with good food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang des Sandefjord-Fjords",
+            "tip": "Vom Badeparken aus können Sie an der Küste entlang spazieren und die Ruhe genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bibliothek von Sandefjord",
+            "tip": "Ein warmer und ruhiger Ort, um eine Pause einzulegen, besonders an einem regnerischen Tag.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gokstadhaugen am späten Nachmittag",
+            "tip": "Nachdem die meisten Besucher gegangen sind, ist der Ort besonders friedlich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Sandefjord-fjord mentén",
+            "tip": "A Badeparkentől sétáljon végig a parton, és élvezze a nyugalmat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sandefjordi Könyvtár",
+            "tip": "Meleg és csendes hely a pihenésre, különösen egy esős napon.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gokstadhaugen késő délután",
+            "tip": "Miután a legtöbb látogató elment, a hely különösen békés.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul fiordului Sandefjord",
+            "tip": "Din Badeparken, puteți merge de-a lungul coastei pentru liniște și pace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biblioteca Sandefjord",
+            "tip": "Un loc cald și liniștit pentru a lua o pauză, mai ales într-o zi ploioasă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gokstadhaugen după-amiaza târziu",
+            "tip": "După ce majoritatea vizitatorilor au plecat, locul este deosebit de pașnic.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Sandefjord Fjord",
+            "tip": "From Badeparken, you can walk along the coast for peace and quiet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sandefjord Library",
+            "tip": "A warm and quiet place to take a break, especially on a rainy day.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gokstadhaugen in the late afternoon",
+            "tip": "After most visitors have left, the site is particularly peaceful.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Second-Hand-Läden",
+            "tip": "Norwegen hat eine großartige Second-Hand-Kultur ('Bruktbutikk'). Halten Sie Ausschau nach einzigartigen Schätzen."
+          },
+          {
+            "name": "Torget (Marktplatz)",
+            "tip": "An Markttagen finden Sie hier lokale Produkte und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Használtcikk-üzletek",
+            "tip": "Norvégiában nagyszerű a használtcikk-kultúra ('Bruktbutikk'). Keressen egyedi kincseket."
+          },
+          {
+            "name": "Torget (Piactér)",
+            "tip": "Piaci napokon helyi termékeket és kézműves árukat találhat itt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine second-hand",
+            "tip": "Norvegia are o cultură excelentă a second-hand-ului ('Bruktbutikk'). Căutați comori unice."
+          },
+          {
+            "name": "Torget (Piața)",
+            "tip": "În zilele de piață, puteți găsi produse locale și artizanat aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Second-hand shops",
+            "tip": "Norway has a great second-hand culture ('Bruktbutikk'). Look for unique treasures."
+          },
+          {
+            "name": "Torget (Market Square)",
+            "tip": "On market days, you can find local produce and crafts here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Verwenden Sie die 'Entur'-App, um Busfahrten in Echtzeit zu planen.",
+          "Die Busse sind pünktlich, seien Sie also rechtzeitig an der Haltestelle.",
+          "Einige Busse akzeptieren keine Barzahlung, stellen Sie also sicher, dass Sie eine Karte oder die App haben."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Használja az 'Entur' alkalmazást a buszutak valós idejű megtervezéséhez.",
+          "A buszok pontosak, ezért legyen időben a megállóban.",
+          "Egyes buszok nem fogadnak el készpénzt, ezért győződjön meg róla, hogy van kártyája vagy alkalmazása."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Utilizați aplicația 'Entur' pentru a planifica călătoriile cu autobuzul în timp real.",
+          "Autobuzele sunt punctuale, așa că fiți la stație la timp.",
+          "Unele autobuze nu acceptă numerar, așa că asigurați-vă că aveți un card sau aplicația."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Use the 'Entur' app to plan bus journeys in real-time.",
+          "Buses are punctual, so be at the stop on time.",
+          "Some buses don't accept cash, so make sure you have a card or the app."
+        ]
+      }
+    }
+  }
+}

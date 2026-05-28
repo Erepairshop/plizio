@@ -1,0 +1,1323 @@
+{
+  "city_id": "estonia-kunda-cities-v2",
+  "anchor": {
+    "name": "Kunda",
+    "coords": [
+      26.5275,
+      59.5019
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Herrenhaus Kunda",
+            "hu": "Kundai kastély",
+            "ro": "Conacul Kunda",
+            "en": "Kunda Manor"
+          },
+          "coords": [
+            26.5333,
+            59.4975
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Architektur und den umliegenden Park.",
+            "hu": "Csodálja meg a neoklasszicista építészetet és a környező parkot.",
+            "ro": "Admirați arhitectura neoclasică și parcul înconjurător.",
+            "en": "Admire the neoclassical architecture and the surrounding park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunda-Kirche",
+            "hu": "Kundai templom",
+            "ro": "Biserica Kunda",
+            "en": "Kunda Church"
+          },
+          "coords": [
+            26.529,
+            59.5005
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf den ungewöhnlichen achteckigen Grundriss dieser Kirche aus dem 20. Jahrhundert.",
+            "hu": "Figyelje meg ennek a 20. századi templomnak a szokatlan nyolcszögletű alaprajzát.",
+            "ro": "Observați planul octogonal neobișnuit al acestei biserici din secolul al XX-lea.",
+            "en": "Notice the unusual octagonal floor plan of this 20th-century church."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserkraftwerk Kunda",
+            "hu": "Kundai vízerőmű",
+            "ro": "Hidrocentrala Kunda",
+            "en": "Kunda Hydroelectric Power Plant"
+          },
+          "coords": [
+            26.532,
+            59.5088
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein faszinierendes Beispiel für frühe Industriearchitektur am Fluss.",
+            "hu": "A korai ipari építészet lenyűgöző példája a folyó mellett.",
+            "ro": "Un exemplu fascinant de arhitectură industrială timpurie pe râu.",
+            "en": "A fascinating example of early industrial architecture on the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Zementmuseum Kunda",
+            "hu": "Kundai Cementmúzeum",
+            "ro": "Muzeul Cimentului din Kunda",
+            "en": "Kunda Cement Museum"
+          },
+          "coords": [
+            26.539,
+            59.516
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Erfahren Sie, wie Zement die Stadt und die Nation geformt hat. Interaktive Ausstellungen.",
+            "hu": "Ismerje meg, hogyan formálta a cement a várost és a nemzetet. Interaktív kiállítások.",
+            "ro": "Aflați cum cimentul a modelat orașul și națiunea. Expoziții interactive.",
+            "en": "Learn how cement shaped the town and the nation. Interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Kunda",
+            "hu": "Kundai kikötő",
+            "ro": "Portul Kunda",
+            "en": "Port of Kunda"
+          },
+          "coords": [
+            26.541,
+            59.522
+          ],
+          "category": "port",
+          "arrive_at": "14:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spüren Sie die Meeresbrise und beobachten Sie die Handelsschiffe, die ein- und auslaufen.",
+            "hu": "Érezze a tengeri szellőt és figyelje a kereskedelmi hajók mozgását.",
+            "ro": "Simțiți briza mării și urmăriți navele comerciale intrând și ieșind.",
+            "en": "Feel the sea breeze and watch the commercial ships coming and going."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunda Lammasmägi",
+            "hu": "Kunda Lammasmägi",
+            "ro": "Kunda Lammasmägi",
+            "en": "Kunda Lammasmägi"
+          },
+          "coords": [
+            26.513,
+            59.489
+          ],
+          "category": "historical",
+          "arrive_at": "15:51",
+          "stay_min": 110,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Stellen Sie sich das Leben in der Steinzeit an dieser wichtigen archäologischen Stätte vor.",
+            "hu": "Képzelje el a kőkorszaki életet ezen a fontos régészeti lelőhelyen.",
+            "ro": "Imaginați-vă viața din Epoca de Piatră în acest important sit arheologic.",
+            "en": "Imagine life in the Stone Age at this important archaeological site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Kunda beginnt mit einem Spaziergang durch die Geschichte beim Herrenhaus und der Kirche. Am Mittag tauchen Sie in das industrielle Erbe der Stadt im Zementmuseum ein. Der Nachmittag ist der rauen Küste am Hafen und einem Ausflug in die prähistorische Zeit am Lammasmägi gewidmet. Der Abend klingt bei einem herzhaften estnischen Essen aus und lässt die vielfältigen Eindrücke des Tages Revue passieren.",
+        "hu": "A kundai nap a történelemben tett sétával kezdődik a kastélynál és a templomnál. Délben elmerülhet a város ipari örökségében a Cementmúzeumban. A délután a kikötő zord tengerpartjáról és egy őskori utazásról szól a Lammasmägi-hegyen. Az estét egy kiadós észt vacsorával zárja, felidézve a nap változatos benyomásait.",
+        "ro": "Ziua dvs. în Kunda începe cu o plimbare prin istorie la conac și biserică. La prânz, vă scufundați în moștenirea industrială a orașului la Muzeul Cimentului. După-amiaza este dedicată coastei accidentate la port și unei călătorii în preistorie la Lammasmägi. Seara se încheie cu o masă estoniană consistentă, reflectând asupra impresiilor diverse ale zilei.",
+        "en": "Your day in Kunda begins with a walk through history at the manor and church. At midday, you'll dive into the town's industrial heritage at the Cement Museum. The afternoon is dedicated to the rugged coast at the port and a trip to prehistoric times at Lammasmägi. The evening concludes with a hearty Estonian meal, reflecting on the day's diverse impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kiluvõileib",
+            "tip": "Ein traditionelles offenes Sandwich mit gewürzten Sprotten, ein Muss an der Küste."
+          },
+          {
+            "name": "Mulgipuder",
+            "tip": "Herzhafter Gersten-Kartoffel-Brei, oft mit Speck serviert."
+          },
+          {
+            "name": "Kohvik Viru Värav",
+            "tip": "Ein lokales Café für Kaffee und Gebäck, um sich nach dem Spaziergang aufzuwärmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kiluvõileib",
+            "tip": "Hagyományos nyitott szendvics fűszeres sprotnival, kötelező a tengerparton."
+          },
+          {
+            "name": "Mulgipuder",
+            "tip": "Kiadós árpa-burgonyakása, gyakran szalonnával tálalva."
+          },
+          {
+            "name": "Kohvik Viru Värav",
+            "tip": "Helyi kávézó kávéra és süteményre, hogy felmelegedjen a séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kiluvõileib",
+            "tip": "Un sandviș deschis tradițional cu șprot condimentat, un deliciu obligatoriu pe coastă."
+          },
+          {
+            "name": "Mulgipuder",
+            "tip": "O terci consistentă de orz și cartofi, adesea servită cu bacon."
+          },
+          {
+            "name": "Kohvik Viru Värav",
+            "tip": "O cafenea locală pentru cafea și produse de patiserie, pentru a vă încălzi după plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiluvõileib",
+            "tip": "A traditional open-faced sandwich with spiced sprat, a must-try on the coast."
+          },
+          {
+            "name": "Mulgipuder",
+            "tip": "Hearty barley and potato porridge, often served with bacon."
+          },
+          {
+            "name": "Kohvik Viru Värav",
+            "tip": "A local café for coffee and pastries to warm up after your walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kunda-Flusstal",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, um die lokale Flora und Fauna zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kronkskallas-Aussichtspunkt",
+            "tip": "Ein friedlicher Ort mit weitem Blick über die Bucht und die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park am Herrenhaus",
+            "tip": "Finden Sie eine ruhige Bank unter alten Bäumen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kunda-folyó völgye",
+            "tip": "Csendes séta a folyó mentén, élvezve a helyi flórát és faunát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kronkskallas kilátó",
+            "tip": "Békés hely, ahonnan széles kilátás nyílik az öbölre és a városra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kastélypark",
+            "tip": "Keressen egy csendes padot az öreg fák alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea râului Kunda",
+            "tip": "O plimbare liniștită de-a lungul râului pentru a vă bucura de flora și fauna locală.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punctul de belvedere Kronkskallas",
+            "tip": "Un loc pașnic cu vederi ample asupra golfului și orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Conacului",
+            "tip": "Găsiți o bancă liniștită sub copacii bătrâni.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kunda River Valley",
+            "tip": "A quiet walk along the river to enjoy the local flora and fauna.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kronkskallas Viewpoint",
+            "tip": "A peaceful spot with wide views over the bay and the town.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Manor Park",
+            "tip": "Find a quiet bench under old trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Handwerksprodukten wie Wollwaren oder Holzschnitzereien."
+          },
+          {
+            "name": "Geräucherter Fisch",
+            "tip": "Kaufen Sie frisch geräucherten Fisch direkt von lokalen Fischern in der Nähe des Hafens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi kézműves termékeket, például gyapjúárut vagy fafaragásokat."
+          },
+          {
+            "name": "Füstölt hal",
+            "tip": "Vásároljon frissen füstölt halat közvetlenül a helyi halászoktól a kikötő közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse artizanale locale, cum ar fi articole din lână sau sculpturi în lemn."
+          },
+          {
+            "name": "Pește afumat",
+            "tip": "Cumpărați pește proaspăt afumat direct de la pescarii locali, lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local handicrafts like woolen goods or wood carvings."
+          },
+          {
+            "name": "Smoked Fish",
+            "tip": "Buy freshly smoked fish directly from local fishermen near the port."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Prüfen Sie die Öffnungszeiten des Zementmuseums im Voraus.",
+          "Eine leichte Regenjacke ist immer eine gute Idee an der estnischen Küste."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Előre ellenőrizze a Cementmúzeum nyitvatartási idejét.",
+          "Egy könnyű esőkabát mindig jó ötlet az észt tengerparton."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați cu voi o sticlă de apă reutilizabilă.",
+          "Verificați în prealabil programul de funcționare al Muzeului Cimentului.",
+          "O geacă de ploaie ușoară este întotdeauna o idee bună pe coasta estonă."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring a reusable water bottle.",
+          "Check the opening hours for the Cement Museum in advance.",
+          "A light rain jacket is always a good idea on the Estonian coast."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kunda Lammasmägi",
+            "hu": "Kunda Lammasmägi",
+            "ro": "Kunda Lammasmägi",
+            "en": "Kunda Lammasmägi"
+          },
+          "coords": [
+            26.513,
+            59.489
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer Reise in die Steinzeit.",
+            "hu": "Kezdje a napot egy utazással a kőkorszakba.",
+            "ro": "Începeți ziua cu o călătorie înapoi în Epoca de Piatră.",
+            "en": "Start your day with a trip back to the Stone Age."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Kunda",
+            "hu": "Kundai kastély",
+            "ro": "Conacul Kunda",
+            "en": "Kunda Manor"
+          },
+          "coords": [
+            26.5333,
+            59.4975
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um nach der ersten Radtour eine Pause einzulegen.",
+            "hu": "Szép hely egy kis pihenőre az első kerékpártúra után.",
+            "ro": "Un loc frumos pentru a lua o pauză după prima parte a plimbării cu bicicleta.",
+            "en": "A lovely spot to take a break after the first bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunda-Kirche",
+            "hu": "Kundai templom",
+            "ro": "Biserica Kunda",
+            "en": "Kunda Church"
+          },
+          "coords": [
+            26.529,
+            59.5005
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und nehmen Sie sich einen Moment Zeit für die ruhige Atmosphäre im Inneren.",
+            "hu": "Zárja le a kerékpárt, és szánjon egy percet a benti csendes légkörre.",
+            "ro": "Legați-vă bicicleta și admirați atmosfera liniștită din interior.",
+            "en": "Lock up your bike and take a moment for the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunda-Flusstal",
+            "hu": "Kunda-folyó völgye",
+            "ro": "Valea râului Kunda",
+            "en": "Kunda River Valley"
+          },
+          "coords": [
+            26.535,
+            59.512
+          ],
+          "category": "natural features",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Genießen Sie ein Picknick am Flussufer.",
+            "hu": "Tökéletes egy ebédszünetre. Piknikezzen a folyóparton.",
+            "ro": "Perfect pentru o pauză de prânz. Bucurați-vă de un picnic pe malul râului.",
+            "en": "Perfect for a lunch break. Enjoy a picnic by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Zementmuseum Kunda",
+            "hu": "Kundai Cementmúzeum",
+            "ro": "Muzeul Cimentului din Kunda",
+            "en": "Kunda Cement Museum"
+          },
+          "coords": [
+            26.539,
+            59.516
+          ],
+          "category": "museums",
+          "arrive_at": "13:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und entdecken Sie das industrielle Herz von Kunda.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel Kunda ipari szívét.",
+            "ro": "Parcați-vă bicicleta și explorați inima industrială a orașului Kunda.",
+            "en": "Park your bike and explore the industrial heart of Kunda."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Kunda",
+            "hu": "Kundai kikötő",
+            "ro": "Portul Kunda",
+            "en": "Port of Kunda"
+          },
+          "coords": [
+            26.541,
+            59.522
+          ],
+          "category": "port",
+          "arrive_at": "15:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die Radtour entlang der Küste zum Hafen bietet eine erfrischende Brise.",
+            "hu": "A tengerparti kerékpárút a kikötőhöz frissítő szellőt kínál.",
+            "ro": "Plimbarea cu bicicleta de-a lungul coastei până la port oferă o briză răcoritoare.",
+            "en": "The bike ride along the coast to the port offers a refreshing breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Kronkskallas-Aussichtspunkt",
+            "hu": "Kronkskallas kilátó",
+            "ro": "Punctul de belvedere Kronkskallas",
+            "en": "Kronkskallas Viewpoint"
+          },
+          "coords": [
+            26.5,
+            59.525
+          ],
+          "category": "natural features",
+          "arrive_at": "16:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag mit einem Panoramablick auf den Sonnenuntergang ausklingen zu lassen.",
+            "hu": "A tökéletes hely a nap befejezéséhez egy panorámás naplementével.",
+            "ro": "Locul perfect pentru a încheia ziua cu o vedere panoramică la apus.",
+            "en": "The perfect spot to end your day with a panoramic sunset view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am prähistorischen Lammasmägi. Am Vormittag radeln Sie zum historischen Kern von Kunda, dem Herrenhaus und der Kirche. Zur Mittagszeit machen Sie eine Pause im grünen Flusstal. Der Nachmittag führt Sie durch das industrielle Erbe im Zementmuseum bis zur Küste am Hafen und endet mit einem atemberaubenden Blick vom Kronkskallas-Aussichtspunkt.",
+        "hu": "Pattanjon kerékpárra és induljon az őskori Lammasmägi-hegytől. Délelőtt tekerjen Kunda történelmi magjába, a kastélyhoz és a templomhoz. Ebédidőben tartson szünetet a zöldellő folyóvölgyben. A délután az ipari örökségen keresztül a Cementmúzeumtól a tengerparti kikötőig vezet, és a Kronkskallas kilátó lélegzetelállító látványával zárul.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la preistoricul Lammasmägi. Dimineața pedalați spre nucleul istoric al orașului Kunda, conacul și biserica. La prânz, faceți o pauză în valea verde a râului. După-amiaza vă poartă prin moștenirea industrială la Muzeul Cimentului până la coastă, la port, și se încheie cu o priveliște uluitoare de la punctul de belvedere Kronkskallas.",
+        "en": "Hop on your bike and start at the prehistoric Lammasmägi. In the morning, you'll cycle to Kunda's historic core, the manor and church. At lunchtime, take a break in the green river valley. The afternoon takes you through industrial heritage at the Cement Museum to the coast at the port, ending with a breathtaking view from Kronkskallas viewpoint."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Leib",
+            "tip": "Dunkles estnisches Roggenbrot. Perfekt für ein Picknick im Flusstal."
+          },
+          {
+            "name": "Kama",
+            "tip": "Ein traditionelles Dessert aus geröstetem Getreidemehl, gemischt mit Kefir. Erfrischend nach einer Radtour."
+          },
+          {
+            "name": "Hafenimbiss",
+            "tip": "Holen Sie sich einen schnellen Happen mit frischem Fisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leib",
+            "tip": "Sötét észt rozskenyér. Tökéletes egy piknikhez a folyóvölgyben."
+          },
+          {
+            "name": "Kama",
+            "tip": "Hagyományos desszert pörkölt gabonalisztből, kefirrel keverve. Frissítő egy kerékpártúra után."
+          },
+          {
+            "name": "Kikötői büfé",
+            "tip": "Kapjon be egy gyors falatot friss halból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Leib",
+            "tip": "Pâine neagră de secară estoniană. Perfectă pentru un picnic în valea râului."
+          },
+          {
+            "name": "Kama",
+            "tip": "Un desert tradițional din făină de cereale prăjită amestecată cu chefir. Răcoritor după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Gustare la port",
+            "tip": "Luați o gustare rapidă cu pește proaspăt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leib",
+            "tip": "Dark Estonian rye bread. Perfect for a picnic in the river valley."
+          },
+          {
+            "name": "Kama",
+            "tip": "A traditional dessert of roasted grain flour mixed with kefir. Refreshing after a bike ride."
+          },
+          {
+            "name": "Port Snack",
+            "tip": "Grab a quick bite of fresh fish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Am Ufer des Kunda-Flusses",
+            "tip": "Finden Sie einen ruhigen Platz, um die Stille und das fließende Wasser zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Kronkskallas",
+            "tip": "Der beste Ort in der Stadt, um den Tag in Ruhe ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Kunda-folyó partján",
+            "tip": "Keressen egy csendes helyet, ahol élvezheti a csendet és a folyó vizét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a Kronkskallasnál",
+            "tip": "A város legjobb helye a nap csendes lezárásához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pe malul râului Kunda",
+            "tip": "Găsiți un loc liniștit pentru a vă bucura de tăcere și de apa curgătoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus la Kronkskallas",
+            "tip": "Cel mai bun loc din oraș pentru a încheia ziua în liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "On the bank of the Kunda River",
+            "tip": "Find a quiet spot to enjoy the silence and the flowing water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at Kronkskallas",
+            "tip": "The best place in town to end the day in peace.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Halten Sie Ausschau nach kleinen Geschäften, die handgemachte estnische Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keresse a kis boltokat, amelyek kézzel készített észt termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați magazine mici care vând produse estoniene lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Look for small shops selling handmade Estonian products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und bringen Sie ein Fahrradschloss mit.",
+          "Einige Wege außerhalb der Stadt können unbefestigt sein, seien Sie vorbereitet.",
+          "Nehmen Sie Snacks und Wasser mit, besonders für die Fahrt zum Lammasmägi.",
+          "Überprüfen Sie den Wetterbericht, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Viseljen sisakot és hozzon magával kerékpárzárat.",
+          "Néhány út a városon kívül burkolatlan lehet, készüljön fel.",
+          "Vigyen magával harapnivalót és vizet, különösen a Lammasmägi-hegyre vezető útra.",
+          "Indulás előtt ellenőrizze az időjárás-előrejelzést."
+        ],
+        "ro": [
+          "Purtați cască și aduceți un lacăt pentru bicicletă.",
+          "Unele drumuri din afara orașului pot fi neasfaltate, fiți pregătiți.",
+          "Luați gustări și apă, mai ales pentru drumul spre Lammasmägi.",
+          "Verificați prognoza meteo înainte de a porni."
+        ],
+        "en": [
+          "Wear a helmet and bring a bike lock.",
+          "Some paths outside the town can be unpaved, be prepared.",
+          "Pack snacks and water, especially for the trip to Lammasmägi.",
+          "Check the weather forecast before you set off."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kunda Lammasmägi",
+            "hu": "Kunda Lammasmägi",
+            "ro": "Kunda Lammasmägi",
+            "en": "Kunda Lammasmägi"
+          },
+          "coords": [
+            26.513,
+            59.489
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und machen Sie einen kurzen Spaziergang zu diesem alten Ort.",
+            "hu": "Parkoljon a közelben, és tegyen egy rövid sétát ehhez az ősi helyhez.",
+            "ro": "Parcați în apropiere și faceți o scurtă plimbare până la acest sit antic.",
+            "en": "Park nearby and take a short walk to this ancient site."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Kunda",
+            "hu": "Kundai kastély",
+            "ro": "Conacul Kunda",
+            "en": "Kunda Manor"
+          },
+          "coords": [
+            26.5333,
+            59.4975
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginn des ersten Stadtrundgangs. Parken Sie hier für die nächsten paar Stopps.",
+            "hu": "Az első városi séta kezdete. Parkoljon itt a következő néhány megállóhoz.",
+            "ro": "Începutul primului cluster de mers pe jos. Parcați aici pentru următoarele opriri.",
+            "en": "Start of the first walking cluster. Park here for the next couple of stops."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunda-Kirche",
+            "hu": "Kundai templom",
+            "ro": "Biserica Kunda",
+            "en": "Kunda Church"
+          },
+          "coords": [
+            26.529,
+            59.5005
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Herrenhaus durch den Stadtkern.",
+            "hu": "Rövid séta a kastélytól a város központján keresztül.",
+            "ro": "O scurtă plimbare de la conac prin centrul orașului.",
+            "en": "A short walk from the manor through the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserkraftwerk Kunda",
+            "hu": "Kundai vízerőmű",
+            "ro": "Hidrocentrala Kunda",
+            "en": "Kunda Hydroelectric Power Plant"
+          },
+          "coords": [
+            26.532,
+            59.5088
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:31",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zurück zum Auto und genießen Sie auf dem Weg die Aussicht auf den Fluss.",
+            "hu": "Sétáljon vissza az autóhoz, útközben élvezze a folyóra nyíló kilátást.",
+            "ro": "Mergeți pe jos înapoi spre mașină, bucurându-vă de priveliștile râului pe drum.",
+            "en": "Walk back towards your car, enjoying the river views on the way."
+          }
+        },
+        {
+          "name": {
+            "de": "Zementmuseum Kunda",
+            "hu": "Kundai Cementmúzeum",
+            "ro": "Muzeul Cimentului din Kunda",
+            "en": "Kunda Cement Museum"
+          },
+          "coords": [
+            26.539,
+            59.516
+          ],
+          "category": "museums",
+          "arrive_at": "13:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Neuer Cluster. Parken Sie hier, um das Museum und den Hafen zu erkunden.",
+            "hu": "Új sétaútvonal. Parkoljon itt a múzeum és a kikötő felfedezéséhez.",
+            "ro": "Cluster nou. Parcați aici pentru a explora muzeul și portul.",
+            "en": "New cluster. Park here to explore the museum and the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Kunda",
+            "hu": "Kundai kikötő",
+            "ro": "Portul Kunda",
+            "en": "Port of Kunda"
+          },
+          "coords": [
+            26.541,
+            59.522
+          ],
+          "category": "port",
+          "arrive_at": "15:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, erfrischender Spaziergang vom Museum zur Küste.",
+            "hu": "Rövid, frissítő séta a múzeumtól a tengerpartig.",
+            "ro": "O scurtă plimbare revigorantă de la muzeu la coastă.",
+            "en": "A short, refreshing walk from the museum to the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Kronkskallas-Aussichtspunkt",
+            "hu": "Kronkskallas kilátó",
+            "ro": "Punctul de belvedere Kronkskallas",
+            "en": "Kronkskallas Viewpoint"
+          },
+          "coords": [
+            26.5,
+            59.525
+          ],
+          "category": "natural features",
+          "arrive_at": "16:11",
+          "stay_min": 90,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die letzte Fahrt des Tages für einen unvergesslichen Sonnenuntergang.",
+            "hu": "A nap utolsó autózása egy felejthetetlen naplementéért.",
+            "ro": "Ultima călătorie cu mașina a zilei pentru un apus de soare memorabil.",
+            "en": "The final drive of the day for a memorable sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einer Reise in die ferne Vergangenheit am Lammasmägi. Dann fahren Sie in die Stadt und parken für einen Spaziergang zum Herrenhaus und zur Kirche. Zur Mittagszeit steigen Sie wieder ins Auto und fahren zum Küstencluster, wo das Zementmuseum und der geschäftige Hafen auf Sie warten. Der Tag endet mit einer kurzen Fahrt zum Kronkskallas-Aussichtspunkt, von wo aus Sie einen spektakulären Blick auf die Bucht genießen.",
+        "hu": "Az autós nap a távoli múltba tett utazással kezdődik a Lammasmägi-hegyen. Ezután a városba hajt, és leparkol, hogy sétáljon egyet a kastélyhoz és a templomhoz. Ebédidőben visszaül az autóba a tengerparti zónához, ahol a Cementmúzeum és a nyüzsgő kikötő várja. A nap egy rövid autózással zárul a Kronkskallas kilátóhoz, ahonnan lenyűgöző kilátás nyílik az öbölre.",
+        "ro": "Ziua dvs. cu mașina începe cu o călătorie în trecutul îndepărtat la Lammasmägi. Apoi, conduceți în oraș și parcați pentru o plimbare la conac și biserică. La prânz, vă urcați din nou în mașină spre clusterul de coastă, unde vă așteaptă Muzeul Cimentului și portul aglomerat. Ziua se încheie cu o scurtă călătorie cu mașina până la punctul de belvedere Kronkskallas pentru vederi spectaculoase ale golfului.",
+        "en": "Your car day starts with a trip to the distant past at Lammasmägi. Then, drive into town and park for a walking cluster to the manor and church. At midday, get back in the car for the coastal cluster, where the Cement Museum and the bustling port await. The day concludes with a final short drive to Kronkskallas viewpoint for spectacular bay views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Verivorst",
+            "tip": "Estnische Blutwurst, oft mit Preiselbeermarmelade serviert. Ein herzhaftes Gericht."
+          },
+          {
+            "name": "Fischsuppentopf",
+            "tip": "Eine wärmende Suppe mit lokalem Fang, perfekt nach einem Spaziergang am Meer."
+          },
+          {
+            "name": "Toolse Puhkeküla",
+            "tip": "Ein Restaurant etwas außerhalb der Stadt, bekannt für traditionelle estnische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Verivorst",
+            "tip": "Észt véres hurka, gyakran áfonyalekvárral tálalva. Kiadós étel."
+          },
+          {
+            "name": "Halászlé",
+            "tip": "Melegítő leves helyi fogásból, tökéletes egy tengerparti séta után."
+          },
+          {
+            "name": "Toolse Puhkeküla",
+            "tip": "Egy étterem a városon kívül, amely a hagyományos észt konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Verivorst",
+            "tip": "Cârnați de sânge estonieni, adesea serviți cu gem de merișoare. O masă consistentă."
+          },
+          {
+            "name": "Ciorbă de pește",
+            "tip": "O supă încălzitoare făcută cu pește local, perfectă după o plimbare pe malul mării."
+          },
+          {
+            "name": "Toolse Puhkeküla",
+            "tip": "Un restaurant chiar în afara orașului, cunoscut pentru bucătăria tradițională estoniană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Verivorst",
+            "tip": "Estonian blood sausage, often served with lingonberry jam. A hearty meal."
+          },
+          {
+            "name": "Fish pot soup",
+            "tip": "A warming soup made with local catch, perfect after a seaside walk."
+          },
+          {
+            "name": "Toolse Puhkeküla",
+            "tip": "A restaurant just outside town known for traditional Estonian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kunda-Flusstal",
+            "tip": "Machen Sie eine kurze Fahrt dorthin für einen ruhigen Spaziergang abseits der Hauptattraktionen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strand von Kunda",
+            "tip": "Finden Sie einen ruhigen Abschnitt, um dem Rauschen der Wellen zu lauschen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kunda-folyó völgye",
+            "tip": "Tegyen egy rövid kitérőt egy csendes sétáért a fő látnivalóktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kunda strandja",
+            "tip": "Keressen egy csendes szakaszt, hogy hallgassa a hullámok zaját.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea râului Kunda",
+            "tip": "Faceți o scurtă plimbare cu mașina pentru o plimbare liniștită, departe de atracțiile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja Kunda",
+            "tip": "Găsiți o porțiune liniștită pentru a asculta sunetul valurilor.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kunda River Valley",
+            "tip": "Take a short drive there for a quiet walk away from the main attractions.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kunda Beach",
+            "tip": "Find a quiet stretch to listen to the sound of the waves.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf den Landstraßen rund um Kunda Ausschau nach Schildern für Hofläden, die lokale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmboltok",
+            "tip": "Keresse a farmboltok tábláit a Kunda körüli vidéki utakon, amelyek helyi termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Fiți atenți la indicatoarele magazinelor de fermă de pe drumurile rurale din jurul Kunda, care vând produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Look for farm shop signs on the country roads around Kunda selling local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken ist in den meisten Gegenden kostenlos, aber achten Sie auf eventuelle Beschilderungen.",
+          "Ein GPS ist nützlich, um die abgelegeneren Orte wie Lammasmägi zu finden.",
+          "Planen Sie Ihre Cluster-Spaziergänge, um unnötiges Hin- und Herfahren zu vermeiden.",
+          "Haben Sie Kleingeld für eventuelle Parkautomaten oder kleine Einkäufe dabei."
+        ],
+        "hu": [
+          "A parkolás a legtöbb területen ingyenes, de figyeljen a táblákra.",
+          "GPS hasznos lehet a távolabbi helyek, például a Lammasmägi megtalálásához.",
+          "Tervezze meg a sétákat, hogy elkerülje a felesleges autózást.",
+          "Legyen Önnél aprópénz az esetleges parkolóautomatákhoz vagy kisebb vásárlásokhoz."
+        ],
+        "ro": [
+          "Parcarea este gratuită în majoritatea zonelor, dar acordați atenție oricărei semnalizări.",
+          "Un GPS este util pentru a găsi locațiile mai îndepărtate, cum ar fi Lammasmägi.",
+          "Planificați-vă plimbările în cluster pentru a evita deplasările inutile.",
+          "Aveți la îndemână monede pentru orice parcometre sau achiziții mici."
+        ],
+        "en": [
+          "Parking is free in most areas, but pay attention to any signage.",
+          "A GPS is useful for finding the more remote locations like Lammasmägi.",
+          "Plan your walking clusters to avoid unnecessary driving back and forth.",
+          "Keep some change handy for any potential parking meters or small purchases."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Herrenhaus Kunda",
+            "hu": "Kundai kastély",
+            "ro": "Conacul Kunda",
+            "en": "Kunda Manor"
+          },
+          "coords": [
+            26.5333,
+            59.4975
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus ins Stadtzentrum. Dies ist der erste Halt Ihres Rundgangs.",
+            "hu": "Menjen busszal a városközpontba. Ez a sétálóútvonal első megállója.",
+            "ro": "Luați autobuzul spre centrul orașului. Aceasta este prima oprire a clusterului dvs. de mers pe jos.",
+            "en": "Take the bus to the town center. This is the first stop of your walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunda-Kirche",
+            "hu": "Kundai templom",
+            "ro": "Biserica Kunda",
+            "en": "Kunda Church"
+          },
+          "coords": [
+            26.529,
+            59.5005
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Herrenhaus aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a kastélytól.",
+            "ro": "O plimbare ușoară de la conac.",
+            "en": "An easy walk from the manor."
+          }
+        },
+        {
+          "name": {
+            "de": "Zementmuseum Kunda",
+            "hu": "Kundai Cementmúzeum",
+            "ro": "Muzeul Cimentului din Kunda",
+            "en": "Kunda Cement Museum"
+          },
+          "coords": [
+            26.539,
+            59.516
+          ],
+          "category": "museums",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Hafen. Das Museum ist der Beginn des zweiten Clusters.",
+            "hu": "Menjen busszal a kikötő felé. A múzeum a második sétaútvonal kezdete.",
+            "ro": "Luați un autobuz spre port. Muzeul este începutul celui de-al doilea cluster.",
+            "en": "Take a bus towards the port area. The museum is the start of the second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Kunda",
+            "hu": "Kundai kikötő",
+            "ro": "Portul Kunda",
+            "en": "Port of Kunda"
+          },
+          "coords": [
+            26.541,
+            59.522
+          ],
+          "category": "port",
+          "arrive_at": "13:36",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresluft bei einem kurzen Spaziergang vom Museum.",
+            "hu": "Élvezze a tengeri levegőt egy rövid sétával a múzeumtól.",
+            "ro": "Bucurați-vă de aerul mării cu o scurtă plimbare de la muzeu.",
+            "en": "Enjoy the sea air with a short walk from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunda-Flusstal",
+            "hu": "Kunda-folyó völgye",
+            "ro": "Valea râului Kunda",
+            "en": "Kunda River Valley"
+          },
+          "coords": [
+            26.535,
+            59.512
+          ],
+          "category": "natural features",
+          "arrive_at": "15:06",
+          "stay_min": 162,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Landesinnere für einen entspannten Nachmittagsspaziergang.",
+            "hu": "Menjen busszal vissza a szárazföldre egy pihentető délutáni sétára.",
+            "ro": "Luați un autobuz înapoi spre interior pentru o plimbare relaxantă de după-amiază.",
+            "en": "Take a bus back inland for a relaxing afternoon walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Busfahrt ins Zentrum von Kunda, wo Sie das Herrenhaus und die Kirche zu Fuß erkunden. Gegen Mittag bringt Sie ein weiterer Bus zum Küstencluster, um das industrielle Erbe im Zementmuseum und die Atmosphäre am Hafen zu erleben. Am späten Nachmittag fahren Sie mit dem Bus ins Landesinnere zum ruhigen Kunda-Flusstal, um den Tag in der Natur ausklingen zu lassen.",
+        "hu": "A nap egy buszúttal kezdődik Kunda központjába, ahol gyalog fedezi fel a kastélyt és a templomot. Dél körül egy másik busz viszi a tengerparti zónába, hogy megtapasztalja az ipari örökséget a Cementmúzeumban és a kikötői hangulatot. Késő délután busszal utazik a szárazföld belsejébe, a csendes Kunda-folyó völgyébe, hogy a természetben fejezze be a napot.",
+        "ro": "Ziua dvs. începe cu o călătorie cu autobuzul spre centrul orașului Kunda pentru a explora pe jos conacul și biserica. În jurul prânzului, un alt autobuz vă duce la clusterul de coastă pentru a experimenta moștenirea industrială la Muzeul Cimentului și atmosfera din port. După-amiaza târziu, luați un autobuz spre interior, spre liniștita Vale a râului Kunda, pentru a încheia ziua în natură.",
+        "en": "Your day starts with a bus ride to the center of Kunda to explore the manor and church on foot. Around noon, another bus takes you to the coastal cluster to experience the industrial heritage at the Cement Museum and the port atmosphere. In the late afternoon, you'll bus inland to the tranquil Kunda River Valley to end your day surrounded by nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seljanka",
+            "tip": "Eine dicke, säuerliche Suppe, die perfekt ist, um sich an einem windigen Tag aufzuwärmen."
+          },
+          {
+            "name": "Pirukad",
+            "tip": "Estnische Gebäcktaschen, gefüllt mit Fleisch, Kohl oder Karotten. Ein idealer Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szoljanka",
+            "tip": "Sűrű, savanykás leves, amely tökéletesen felmelegít egy szeles napon."
+          },
+          {
+            "name": "Pirukad",
+            "tip": "Észt péksütemények hússal, káposztával vagy sárgarépával töltve. Ideális úti snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Solyanka",
+            "tip": "O supă groasă și acră, perfectă pentru a vă încălzi într-o zi cu vânt."
+          },
+          {
+            "name": "Pirukad",
+            "tip": "Pateuri estoniene umplute cu carne, varză sau morcovi. O gustare ideală pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Solyanka",
+            "tip": "A thick, sour soup that is perfect for warming up on a windy day."
+          },
+          {
+            "name": "Pirukad",
+            "tip": "Estonian pasties filled with meat, cabbage, or carrots. An ideal on-the-go snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bank im Park am Herrenhaus",
+            "tip": "Ein leicht erreichbarer Ort, um eine Pause zwischen den Besichtigungen einzulegen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang des Flusses",
+            "tip": "Nach der letzten Busfahrt können Sie die Ruhe der Natur genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a kastélyparkban",
+            "tip": "Könnyen megközelíthető hely egy kis pihenőre a látnivalók között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a folyó mentén",
+            "tip": "Az utolsó buszút után élvezheti a természet csendjét.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă în parcul conacului",
+            "tip": "Un loc ușor accesibil pentru a lua o pauză între vizite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "După ultima călătorie cu autobuzul, bucurați-vă de liniștea naturii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bench in the Manor Park",
+            "tip": "An easily accessible spot to take a break between sightseeing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the river",
+            "tip": "After the last bus ride, you can enjoy the peace of nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs im Museumsshop",
+            "tip": "Der Shop im Zementmuseum bietet einzigartige Andenken mit Bezug zur lokalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak a múzeumi boltban",
+            "tip": "A Cementmúzeum boltja egyedi, helyi történelemmel kapcsolatos szuveníreket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la magazinul muzeului",
+            "tip": "Magazinul Muzeului Cimentului oferă suveniruri unice legate de istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at the Museum Shop",
+            "tip": "The Cement Museum's shop offers unique souvenirs related to local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse in Kleinstädten selten fahren können.",
+          "Beachten Sie die letzte Busverbindung zurück zu Ihrer Unterkunft.",
+          "Winken Sie dem Busfahrer, um sicherzustellen, dass er anhält."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha elérhető.",
+          "Előre ellenőrizze a buszmenetrendet, mivel a buszok ritkán közlekedhetnek a kisvárosokban.",
+          "Figyeljen az utolsó buszjáratra, amely visszavisz a szálláshelyére.",
+          "Intsen a buszsofőrnek, hogy biztosan megálljon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil.",
+          "Verificați programul autobuzelor în avans, deoarece autobuzele pot circula rar în orașele mici.",
+          "Fiți atenți la ultima legătură de autobuz înapoi la cazare.",
+          "Faceți semn șoferului de autobuz pentru a vă asigura că oprește."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available.",
+          "Check the bus schedule in advance, as services can be infrequent in small towns.",
+          "Be mindful of the last bus service back to your accommodation.",
+          "Wave to the bus driver to ensure they stop for you."
+        ]
+      }
+    }
+  }
+}

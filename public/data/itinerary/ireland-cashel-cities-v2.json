@@ -1,0 +1,1580 @@
+{
+  "city_id": "ireland-cashel-cities-v2",
+  "anchor": {
+    "name": "Cashel",
+    "coords": [
+      -7.892,
+      52.515
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 2.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rock of Cashel",
+            "hu": "Cashel sziklája",
+            "ro": "Stânca din Cashel",
+            "en": "Rock of Cashel"
+          },
+          "coords": [
+            -7.8907,
+            52.5165
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kaufen Sie Tickets online, um die Warteschlange zu umgehen, besonders in der Hochsaison.",
+            "hu": "Vedd meg a jegyed online, hogy elkerüld a sorban állást, különösen a főszezonban.",
+            "ro": "Cumpărați biletele online pentru a evita cozile, mai ales în sezonul de vârf.",
+            "en": "Buy tickets online to skip the queue, especially during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Hore Abbey",
+            "hu": "Hore-apátság",
+            "ro": "Abația Hore",
+            "en": "Hore Abbey"
+          },
+          "coords": [
+            -7.897,
+            52.512
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für stimmungsvolle Fotos vom Rock of Cashel, besonders am späten Nachmittag.",
+            "hu": "Tökéletes hely hangulatos fotók készítésére a Cashel sziklájáról, különösen késő délután.",
+            "ro": "Un loc perfect pentru fotografii atmosferice cu Stânca din Cashel, mai ales după-amiaza târziu.",
+            "en": "A perfect spot for atmospheric photos of the Rock of Cashel, especially in the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Brú Ború Kulturzentrum",
+            "hu": "Brú Ború Kulturális Központ",
+            "ro": "Centrul Cultural Brú Ború",
+            "en": "Brú Ború Cultural Centre"
+          },
+          "coords": [
+            -7.893,
+            52.514
+          ],
+          "category": "theatres",
+          "arrive_at": "12:13",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Abendspielplan für authentische irische Musik- und Tanzvorführungen.",
+            "hu": "Nézd meg az esti programot, ha autentikus ír zenei és táncelőadásokra vágysz.",
+            "ro": "Verificați programul de seară pentru spectacole autentice de muzică și dans irlandez.",
+            "en": "Check the evening schedule for authentic Irish music and dance performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Stadt",
+            "hu": "Ebéd a városban",
+            "ro": "Prânz în oraș",
+            "en": "Lunch in Town"
+          },
+          "coords": [
+            -7.8885,
+            52.5168
+          ],
+          "category": "gastro",
+          "arrive_at": "12:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein traditionelles Irish Stew in einem der örtlichen Pubs für ein authentisches Erlebnis.",
+            "hu": "Kóstolj meg egy hagyományos ír pörköltet az egyik helyi pubban az autentikus élményért.",
+            "ro": "Încercați o tocană irlandeză tradițională într-unul dintre pub-urile locale pentru o experiență autentică.",
+            "en": "Try a traditional Irish Stew in one of the local pubs for an authentic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Cashel Folk Village",
+            "hu": "Cashel skanzen",
+            "ro": "Satul Folcloric Cashel",
+            "en": "Cashel Folk Village"
+          },
+          "coords": [
+            -7.888,
+            52.516
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein charmantes Museum, das das Leben in Irland im 19. und 20. Jahrhundert darstellt. Ideal für Familien.",
+            "hu": "Bájos múzeum, amely bemutatja az életet Írországban a 19. és 20. században. Családoknak ideális.",
+            "ro": "Un muzeu fermecător care prezintă viața în Irlanda în secolele 19 și 20. Ideal pentru familii.",
+            "en": "A charming museum depicting life in Ireland in the 19th and 20th centuries. Great for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Johannes der Täufer",
+            "hu": "Keresztelő Szent János-katedrális",
+            "ro": "Catedrala Sf. Ioan Botezătorul",
+            "en": "St. John the Baptist Cathedral"
+          },
+          "coords": [
+            -7.889,
+            52.516
+          ],
+          "category": "churches",
+          "arrive_at": "15:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Buntglasfenster und die friedliche Atmosphäre im Inneren.",
+            "hu": "Figyeld meg a lenyűgöző ólomüveg ablakokat és a békés belső atmoszférát.",
+            "ro": "Observați vitraliile impresionante și atmosfera liniștită din interior.",
+            "en": "Look out for the impressive stained-glass windows and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Cashel Palace",
+            "hu": "Cashel-palota",
+            "ro": "Palatul Cashel",
+            "en": "Cashel Palace"
+          },
+          "coords": [
+            -7.89,
+            52.517
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:49",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Obwohl es sich um ein Hotel handelt, können Sie die Gärten bewundern oder einen Nachmittagstee für ein luxuriöses Erlebnis buchen.",
+            "hu": "Bár ez egy szálloda, megcsodálhatod a kertjeit, vagy foglalhatsz egy délutáni teára a luxus élményért.",
+            "ro": "Deși este un hotel, îi puteți admira grădinile sau puteți rezerva un ceai de după-amiază pentru o experiență de lux.",
+            "en": "Although it's a hotel, you can admire its gardens or book an afternoon tea for a luxurious experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern von Cashel",
+            "hu": "Cashel városfalai",
+            "ro": "Zidurile orașului Cashel",
+            "en": "City Walls of Cashel"
+          },
+          "coords": [
+            -7.889,
+            52.519
+          ],
+          "category": "fortresses",
+          "arrive_at": "16:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang entlang der erhaltenen Abschnitte der alten Stadtmauern bietet eine andere Perspektive auf die Stadt.",
+            "hu": "Egy rövid séta a régi városfal megmaradt szakaszai mentén más perspektívát nyújt a városra.",
+            "ro": "O scurtă plimbare de-a lungul secțiunilor conservate ale vechilor ziduri ale orașului oferă o perspectivă diferită asupra orașului.",
+            "en": "A short walk along the preserved sections of the old town walls offers a different perspective of the town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem majestätischen Rock of Cashel, der über der Stadt thront. Am Vormittag erkunden Sie die alten Ruinen der Hore Abbey und spüren die musikalische Seele Irlands im Brú Ború. Gönnen Sie sich mittags ein herzhaftes irisches Mahl in einem gemütlichen Pub im Stadtzentrum. Der Nachmittag ist der lokalen Kultur im Folk Village und der ruhigen Schönheit der Kathedrale gewidmet. Beenden Sie den Tag mit einem Spaziergang entlang der alten Stadtmauern, während die Sonne untergeht.",
+        "hu": "Kezdje a napot a város fölé magasodó fenséges Cashel sziklájával. Délelőtt fedezze fel a Hore-apátság ősi romjait, és érezze Írország zenei lelkét a Brú Borúban. Délben fogyasszon el egy kiadós ír ebédet egy hangulatos pubban a városközpontban. A délután a helyi kultúráról szól a skanzenben és a katedrális csendes szépségéről. Zárja a napot egy sétával a régi városfalak mentén, miközben a nap lenyugszik.",
+        "ro": "Începeți ziua cu maiestuoasa Stâncă din Cashel, care domină orașul. Dimineața, explorați ruinele antice ale Abației Hore și simțiți sufletul muzical al Irlandei la Brú Ború. La prânz, bucurați-vă de o masă irlandeză consistentă într-un pub primitor din centrul orașului. După-amiaza este dedicată culturii locale la Satul Folcloric și frumuseții liniștite a catedralei. Încheiați ziua cu o plimbare de-a lungul vechilor ziduri ale orașului la apus.",
+        "en": "Start your day with the majestic Rock of Cashel, towering over the town. In the morning, explore the ancient ruins of Hore Abbey and feel the musical soul of Ireland at Brú Ború. For lunch, treat yourself to a hearty Irish meal at a cozy pub in the town center. The afternoon is dedicated to local culture at the Folk Village and the serene beauty of the cathedral. End your day with a stroll along the old town walls as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Irish Stew",
+            "tip": "Ein Muss in einem traditionellen Pub. Langsam gekochtes Lammfleisch mit Wurzelgemüse."
+          },
+          {
+            "name": "Mikey Ryan's Bar & Kitchen",
+            "tip": "Ein gehobener Pub mit exzellentem Essen neben dem Cashel Palace."
+          },
+          {
+            "name": "Full Irish Breakfast",
+            "tip": "Beginnen Sie Ihren Tag wie ein Einheimischer mit diesem reichhaltigen Frühstück."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ír pörkölt (Irish Stew)",
+            "tip": "Kötelező egy hagyományos pubban. Lassan főtt bárányhús gyökérzöldségekkel."
+          },
+          {
+            "name": "Mikey Ryan's Bar & Kitchen",
+            "tip": "Egy elegánsabb pub kiváló ételekkel a Cashel-palota mellett."
+          },
+          {
+            "name": "Teljes ír reggeli",
+            "tip": "Kezdje a napot úgy, mint egy helyi ezzel a bőséges reggelivel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocană irlandeză",
+            "tip": "O necesitate într-un pub tradițional. Miel gătit lent cu rădăcinoase."
+          },
+          {
+            "name": "Mikey Ryan's Bar & Kitchen",
+            "tip": "Un pub de lux cu mâncare excelentă, lângă Palatul Cashel."
+          },
+          {
+            "name": "Micul dejun irlandez complet",
+            "tip": "Începeți ziua ca un localnic cu acest mic dejun consistent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Irish Stew",
+            "tip": "A must-try in a traditional pub. Slow-cooked lamb with root vegetables."
+          },
+          {
+            "name": "Mikey Ryan's Bar & Kitchen",
+            "tip": "An upscale pub with excellent food, located next to Cashel Palace."
+          },
+          {
+            "name": "Full Irish Breakfast",
+            "tip": "Start your day like a local with this hearty breakfast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ruinen der Hore Abbey",
+            "tip": "Finden Sie einen ruhigen Platz zwischen den gotischen Bögen und genießen Sie die Aussicht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Fluss Suir",
+            "tip": "Ein kurzer Spaziergang aus der Stadt führt Sie zu friedlichen Wegen am Flussufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang vom Rock",
+            "tip": "Die Aussicht vom Hügel bei Sonnenuntergang ist magisch und die Menschenmassen sind kleiner.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hore-apátság romjai",
+            "tip": "Találj egy csendes helyet a gótikus ívek között, és élvezd a kilátást.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Suir folyó mentén",
+            "tip": "Egy rövid séta a városból a folyó békés partjára vezet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a Szikláról",
+            "tip": "A kilátás a dombról naplementekor varázslatos, és a tömeg is kisebb.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele Abației Hore",
+            "tip": "Găsiți un loc liniștit printre arcadele gotice și bucurați-vă de priveliște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului Suir",
+            "tip": "O scurtă plimbare în afara orașului vă duce la poteci liniștite pe malul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare de pe Stâncă",
+            "tip": "Priveliștea de pe deal la apus este magică, iar mulțimile sunt mai mici.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hore Abbey Ruins",
+            "tip": "Find a quiet spot among the gothic arches and enjoy the view.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "River Suir Walk",
+            "tip": "A short walk out of town takes you to peaceful riverside paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset from the Rock",
+            "tip": "The view from the hill at sunset is magical, and the crowds are smaller.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cashel Woollen Mills",
+            "tip": "Finden Sie hochwertige irische Pullover, Schals und Decken."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach lokalen Handwerksläden für einzigartige Keramik und Schmuck."
+          },
+          {
+            "name": "The Bookworm",
+            "tip": "Ein charmanter Buchladen mit einer großen Auswahl an irischer Literatur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cashel Gyapjúmalom",
+            "tip": "Találj itt minőségi ír pulóvereket, sálakat és takarókat."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keress helyi kézműves boltokat egyedi kerámiákért és ékszerekért."
+          },
+          {
+            "name": "The Bookworm (A Könyvmoly)",
+            "tip": "Bájos könyvesbolt ír irodalom széles választékával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moara de lână Cashel",
+            "tip": "Găsiți pulovere, eșarfe și pături irlandeze de înaltă calitate."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați magazine de artizanat local pentru ceramică și bijuterii unice."
+          },
+          {
+            "name": "The Bookworm",
+            "tip": "O librărie fermecătoare cu o selecție excelentă de literatură irlandeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cashel Woollen Mills",
+            "tip": "Find high-quality Irish sweaters, scarves, and blankets."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Look for local craft shops for unique pottery and jewelry."
+          },
+          {
+            "name": "The Bookworm",
+            "tip": "A charming bookshop with a great selection of Irish literature."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Gelände uneben ist und der Aufstieg zum Rock steil sein kann.",
+          "Das Wetter in Irland ist unberechenbar; bringen Sie eine Regenjacke mit, auch an sonnigen Tagen.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander; ein Spaziergang ist der beste Weg, um Cashel zu erkunden."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel a terep egyenetlen, és a Sziklához vezető út meredek lehet.",
+          "Az írországi időjárás kiszámíthatatlan; hozz magaddal esőkabátot, még napsütéses napokon is.",
+          "A legtöbb látnivaló közel van egymáshoz; a gyaloglás a legjobb módja Cashel felfedezésének."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece terenul este denivelat, iar urcarea pe Stâncă poate fi abruptă.",
+          "Vremea în Irlanda este imprevizibilă; aduceți o geacă de ploaie, chiar și în zilele insorite.",
+          "Majoritatea atracțiilor sunt apropiate; mersul pe jos este cel mai bun mod de a explora Cashel."
+        ],
+        "en": [
+          "Wear comfortable shoes as the terrain is uneven and the climb to the Rock can be steep.",
+          "Irish weather is unpredictable; bring a rain jacket, even on sunny days.",
+          "Most attractions are close together; walking is the best way to explore Cashel."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 2.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rock of Cashel",
+            "hu": "Cashel sziklája",
+            "ro": "Stânca din Cashel",
+            "en": "Rock of Cashel"
+          },
+          "coords": [
+            -7.8907,
+            52.5165
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Fuße des Hügels gut ab; der Aufstieg erfolgt zu Fuß.",
+            "hu": "Zárd le a biciklidet a domb aljánál; a csúcsra gyalog kell felmenni.",
+            "ro": "Asigurați-vă bicicleta la baza dealului; urcarea se face pe jos.",
+            "en": "Lock your bike securely at the base of the hill; the final ascent is on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hore Abbey",
+            "hu": "Hore-apátság",
+            "ro": "Abația Hore",
+            "en": "Hore Abbey"
+          },
+          "coords": [
+            -7.897,
+            52.512
+          ],
+          "category": "historical",
+          "arrive_at": "11:13",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf dem schmalen Weg, der zur Abtei führt.",
+            "hu": "Óvatosan tekerj az apátsághoz vezető keskeny úton.",
+            "ro": "Mergeți cu prudență pe poteca îngustă care duce la abație.",
+            "en": "Cycle carefully on the narrow path leading to the abbey."
+          }
+        },
+        {
+          "name": {
+            "de": "Brú Ború Kulturzentrum",
+            "hu": "Brú Ború Kulturális Központ",
+            "ro": "Centrul Cultural Brú Ború",
+            "en": "Brú Ború Cultural Centre"
+          },
+          "coords": [
+            -7.893,
+            52.514
+          ],
+          "category": "theatres",
+          "arrive_at": "12:01",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Hier gibt es Fahrradständer in der Nähe des Eingangs.",
+            "hu": "A bejárat közelében vannak kerékpártárolók.",
+            "ro": "Există suporturi pentru biciclete disponibile lângă intrare.",
+            "en": "There are bike racks available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Stadt",
+            "hu": "Ebéd a városban",
+            "ro": "Prânz în oraș",
+            "en": "Lunch in Town"
+          },
+          "coords": [
+            -7.8885,
+            52.5168
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die meisten Pubs haben nichts dagegen, wenn Sie Ihr Fahrrad draußen abstellen, aber fragen Sie am besten nach.",
+            "hu": "A legtöbb pub nem bánja, ha kint hagyod a biciklidet, de a legjobb, ha megkérdezed.",
+            "ro": "Majoritatea pub-urilor nu se deranjează dacă vă lăsați bicicleta afară, dar este mai bine să întrebați.",
+            "en": "Most pubs don't mind if you leave your bike outside, but it's best to ask."
+          }
+        },
+        {
+          "name": {
+            "de": "Cashel Folk Village",
+            "hu": "Cashel skanzen",
+            "ro": "Satul Folcloric Cashel",
+            "en": "Cashel Folk Village"
+          },
+          "coords": [
+            -7.888,
+            52.516
+          ],
+          "category": "museums",
+          "arrive_at": "13:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kleiner, aber feiner Ort, der leicht mit dem Fahrrad zu erreichen ist.",
+            "hu": "Kicsi, de nagyszerű hely, könnyen megközelíthető biciklivel.",
+            "ro": "Un loc mic, dar minunat, ușor accesibil cu bicicleta.",
+            "en": "A small but delightful place, easily reachable by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Johannes der Täufer",
+            "hu": "Keresztelő Szent János-katedrális",
+            "ro": "Catedrala Sf. Ioan Botezătorul",
+            "en": "St. John the Baptist Cathedral"
+          },
+          "coords": [
+            -7.889,
+            52.516
+          ],
+          "category": "churches",
+          "arrive_at": "14:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Denken Sie daran, Ihr Fahrrad abzuschließen, während Sie die Kathedrale besichtigen.",
+            "hu": "Ne felejtsd el lezárni a kerékpárt, amíg a katedrálist nézed.",
+            "ro": "Nu uitați să vă încuiați bicicleta în timp ce vizitați catedrala.",
+            "en": "Remember to lock your bike while you visit the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Cashel Palace",
+            "hu": "Cashel-palota",
+            "ro": "Palatul Cashel",
+            "en": "Cashel Palace"
+          },
+          "coords": [
+            -7.89,
+            52.517
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine schnelle und einfache Fahrt vom Stadtzentrum aus.",
+            "hu": "Gyors és könnyű út a városközpontból.",
+            "ro": "O plimbare rapidă și ușoară din centrul orașului.",
+            "en": "A quick and easy ride from the town centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern von Cashel",
+            "hu": "Cashel városfalai",
+            "ro": "Zidurile orașului Cashel",
+            "en": "City Walls of Cashel"
+          },
+          "coords": [
+            -7.889,
+            52.519
+          ],
+          "category": "fortresses",
+          "arrive_at": "15:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Folgen Sie den Mauern mit dem Fahrrad für eine einzigartige Tour durch die Stadt.",
+            "hu": "Kövesd a falakat biciklivel egy egyedülálló városnézésért.",
+            "ro": "Urmați zidurile cu bicicleta pentru un tur unic al orașului.",
+            "en": "Follow the walls by bike for a unique tour of the town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihren Tag am Rock of Cashel. Nach dem Aufstieg fahren Sie zu den ruhigen Ruinen der Hore Abbey. Der Vormittag klingt mit einem Hauch von Kultur im Brú Ború aus. Zur Mittagszeit radeln Sie ins Zentrum für ein wohlverdientes irisches Mahl. Der Nachmittag führt Sie schnell zum Folk Village und zur Kathedrale. Beenden Sie Ihre Radtour mit einer Runde entlang der alten Stadtmauern und genießen Sie die Flexibilität, die Ihnen Ihr Fahrrad bietet.",
+        "hu": "Pattanj nyeregbe, és kezdd a napot a Cashel sziklájánál. A hegymászás után tekerj el a Hore-apátság csendes romjaihoz. A délelőtt a Brú Ború kulturális központjában ér véget. Ebédidőben irány a központ egy jól megérdemelt ír ebédért. Délután gyorsan eljutsz a skanzenbe és a katedrálishoz. Fejezd be a kerékpártúrát egy körrel a régi városfalak mentén, élvezve a bicikli adta szabadságot.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua la Stânca din Cashel. După urcare, pedalați spre ruinele liniștite ale Abației Hore. Dimineața se încheie cu o notă de cultură la Brú Ború. La prânz, mergeți în centru pentru o masă irlandeză binemeritată. După-amiaza vă duce rapid la Satul Folcloric și la catedrală. Încheiați turul cu bicicleta cu o plimbare de-a lungul vechilor ziduri ale orașului, bucurându-vă de flexibilitatea pe care o oferă bicicleta.",
+        "en": "Hop on your bike and start your day at the Rock of Cashel. After the climb, pedal to the serene ruins of Hore Abbey. The morning finishes with a touch of culture at Brú Ború. At lunchtime, cycle into the center for a well-deserved Irish meal. The afternoon takes you swiftly to the Folk Village and the cathedral. End your bike tour with a loop along the old town walls, enjoying the flexibility your bike provides."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Eine schnelle und leckere Mahlzeit, um wieder Energie zu tanken."
+          },
+          {
+            "name": "Café Hans",
+            "tip": "Ein beliebtes Café für einen leichten Lunch oder Kaffee und Kuchen."
+          },
+          {
+            "name": "Ein Pint Guinness",
+            "tip": "Belohnen Sie sich nach Ihrer Radtour mit einem cremigen Pint."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Gyors és finom étel az energia pótlására."
+          },
+          {
+            "name": "Café Hans",
+            "tip": "Népszerű kávézó egy könnyű ebédhez vagy kávéhoz és süteményhez."
+          },
+          {
+            "name": "Egy korsó Guinness",
+            "tip": "Jutalmazd meg magad egy krémes korsóval a biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "O masă rapidă și gustoasă pentru a vă reface energia."
+          },
+          {
+            "name": "Café Hans",
+            "tip": "O cafenea populară pentru un prânz ușor sau o cafea și o prăjitură."
+          },
+          {
+            "name": "O halbă de Guinness",
+            "tip": "Recompensați-vă cu o halbă cremoasă după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "A quick and delicious meal to refuel."
+          },
+          {
+            "name": "Café Hans",
+            "tip": "A popular café for a light lunch or coffee and cake."
+          },
+          {
+            "name": "A pint of Guinness",
+            "tip": "Reward yourself with a creamy pint after your cycle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hore Abbey Feld",
+            "tip": "Entspannen Sie sich auf dem Feld mit Blick auf die Abtei und den Felsen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bibliothek der Kathedrale",
+            "tip": "Ein verborgener, friedlicher Ort für einen Moment der Ruhe.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Radweg außerhalb der Stadt",
+            "tip": "Folgen Sie einer Landstraße für eine ruhige Fahrt durch die irische Landschaft.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hore-apátság melletti mező",
+            "tip": "Pihenj a mezőn, ahonnan az apátságra és a sziklára nyílik kilátás.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A katedrális könyvtára",
+            "tip": "Rejtett, békés hely egy csendes pillanathoz.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Városon kívüli kerékpárút",
+            "tip": "Kövess egy vidéki utat egy csendes tekerésért az ír tájon keresztül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Câmpul Abației Hore",
+            "tip": "Relaxați-vă pe câmp cu vedere la abație și la stâncă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biblioteca Catedralei",
+            "tip": "Un loc ascuns și pașnic pentru un moment de liniște.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Pistă de biciclete în afara orașului",
+            "tip": "Urmați un drum de țară pentru o plimbare liniștită prin peisajul irlandez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hore Abbey Field",
+            "tip": "Relax on the field with views of the abbey and the rock.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Library",
+            "tip": "A hidden, peaceful spot for a moment of quiet.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Bike Path Out of Town",
+            "tip": "Follow a country lane for a quiet ride through the Irish countryside.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cashel Farmer's Market",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie lokale Produkte und Kunsthandwerk."
+          },
+          {
+            "name": "Souvenirladen am Rock",
+            "tip": "Praktisch für Postkarten und kleine Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Casheli termelői piac",
+            "tip": "Ha piacnapon jársz itt, helyi termékeket és kézműves árukat találhatsz."
+          },
+          {
+            "name": "Ajándékbolt a Sziklánál",
+            "tip": "Képeslapokért és apró ajándéktárgyakért praktikus."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața fermierilor din Cashel",
+            "tip": "Dacă sunteți aici într-o zi de piață, veți găsi produse locale și artizanat."
+          },
+          {
+            "name": "Magazinul de suveniruri de la Stâncă",
+            "tip": "Convenabil pentru cărți poștale și mici suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cashel Farmer's Market",
+            "tip": "If you're here on a market day, find local produce and crafts."
+          },
+          {
+            "name": "Gift Shop at the Rock",
+            "tip": "Convenient for postcards and small mementos."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Obwohl Cashel klein ist, kann ein Fahrrad helfen, schnell von einem Ende zum anderen zu gelangen.",
+          "Seien Sie auf den Straßen vorsichtig, da diese eng sein können und von Touristenbussen befahren werden.",
+          "Bringen Sie ein gutes Schloss mit, um Ihr Fahrrad sicher abzustellen."
+        ],
+        "hu": [
+          "Bár Cashel kicsi, egy bicikli segíthet gyorsan eljutni az egyik végéből a másikba.",
+          "Legyél óvatos az utakon, mivel azok keskenyek lehetnek, és turistabuszok is közlekednek rajtuk.",
+          "Hozz magaddal egy jó lakatot, hogy biztonságban lezárd a kerékpárodat."
+        ],
+        "ro": [
+          "Deși Cashel este mic, o bicicletă vă poate ajuta să ajungeți rapid de la un capăt la altul.",
+          "Fiți atenți pe drumuri, deoarece pot fi înguste și frecventate de autobuze turistice.",
+          "Aduceți un lacăt bun pentru a vă asigura bicicleta."
+        ],
+        "en": [
+          "Although Cashel is small, a bike can help you get from one end to the other quickly.",
+          "Be cautious on the roads as they can be narrow and shared with tour buses.",
+          "Bring a good lock to secure your bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 7.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Rock of Cashel",
+            "hu": "Parkoló a Cashel sziklájánál",
+            "ro": "Parcare la Stânca din Cashel",
+            "en": "Rock of Cashel Car Park"
+          },
+          "coords": [
+            -7.892,
+            52.513
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kommen Sie früh an, um einen guten Parkplatz zu sichern. Von hier aus beginnt Ihr erster Wandercluster.",
+            "hu": "Érkezz korán, hogy jó parkolóhelyet találj. Innen indul az első gyalogos klaszter.",
+            "ro": "Ajungeți devreme pentru a vă asigura un loc bun de parcare. Primul grup de vizitare pe jos începe de aici.",
+            "en": "Arrive early to secure a good parking spot. Your first walking cluster starts from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Rock of Cashel",
+            "hu": "Cashel sziklája",
+            "ro": "Stânca din Cashel",
+            "en": "Rock of Cashel"
+          },
+          "coords": [
+            -7.8907,
+            52.5165
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, um die Cormac's Chapel zu erkunden, ein Juwel der romanischen Architektur.",
+            "hu": "Szánj időt a Cormac-kápolna felfedezésére, amely a román kori építészet gyöngyszeme.",
+            "ro": "Luați-vă timp pentru a explora Capela lui Cormac, o bijuterie a arhitecturii romanice.",
+            "en": "Take your time to explore Cormac's Chapel, a gem of Romanesque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Hore Abbey",
+            "hu": "Hore-apátság",
+            "ro": "Abația Hore",
+            "en": "Hore Abbey"
+          },
+          "coords": [
+            -7.897,
+            52.512
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang von der Felsenspitze aus ist kurz und bietet atemberaubende Ausblicke.",
+            "hu": "A séta a szikla tetejéről rövid, és lélegzetelállító kilátást nyújt.",
+            "ro": "Plimbarea de la vârful stâncii este scurtă și oferă priveliști uimitoare.",
+            "en": "The walk from the Rock is short and offers stunning views looking back."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum",
+            "hu": "Városközponti parkoló",
+            "ro": "Parcare în centrul orașului",
+            "en": "Town Centre Car Park"
+          },
+          "coords": [
+            -7.887,
+            52.517
+          ],
+          "category": "transport",
+          "arrive_at": "12:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den zweiten Cluster. Es ist ein gebührenpflichtiger Parkplatz, aber zentral gelegen.",
+            "hu": "Parkolj itt a második klaszterhez. Fizetős parkoló, de központi helyen van.",
+            "ro": "Parcați aici pentru al doilea grup de obiective. Este o parcare cu plată, dar situată central.",
+            "en": "Park here for the second cluster. It's a paid car park but centrally located."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Erkundung der Stadt",
+            "hu": "Ebéd és városfelfedezés",
+            "ro": "Prânz și explorare în oraș",
+            "en": "Lunch and Town Exploration"
+          },
+          "coords": [
+            -7.8885,
+            52.5168
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen schlendern Sie zum Folk Village und zur Kathedrale, die beide nur wenige Schritte entfernt sind.",
+            "hu": "Ebéd után sétálj el a skanzenbe és a katedrálishoz, mindkettő csak pár lépésre van.",
+            "ro": "După prânz, plimbați-vă până la Satul Folcloric și la catedrală, ambele la câțiva pași distanță.",
+            "en": "After lunch, wander to the Folk Village and the Cathedral, both a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Cashel Folk Village",
+            "hu": "Cashel skanzen",
+            "ro": "Satul Folcloric Cashel",
+            "en": "Cashel Folk Village"
+          },
+          "coords": [
+            -7.888,
+            52.516
+          ],
+          "category": "museums",
+          "arrive_at": "13:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Einblick in das vergangene irische Leben, direkt im Herzen der Stadt.",
+            "hu": "Betekintés a múlt ír életébe, közvetlenül a város szívében.",
+            "ro": "O privire în viața irlandeză de altădată, chiar în inima orașului.",
+            "en": "A glimpse into past Irish life, right in the heart of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt auf dem Land",
+            "hu": "Vidéki kilátópont",
+            "ro": "Punct de belvedere rural",
+            "en": "Countryside Viewpoint"
+          },
+          "coords": [
+            -7.925,
+            52.535
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt aus der Stadt heraus bietet eine weite Aussicht auf den Rock of Cashel und die Golden Vale.",
+            "hu": "Egy rövid autóút a városból széles kilátást nyújt a Cashel sziklájára és az Arany Völgyre.",
+            "ro": "O scurtă călătorie cu mașina în afara orașului oferă o priveliște panoramică asupra Stâncii din Cashel și a Văii de Aur.",
+            "en": "A short drive out of town offers a sweeping view of the Rock of Cashel and the Golden Vale."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum Parkplatz am Rock of Cashel. Erkunden Sie zu Fuß den Felsen und die Hore Abbey. Mittags fahren Sie ins Stadtzentrum, parken erneut und genießen ein Mittagessen, gefolgt von einem Spaziergang zum Folk Village und zur Kathedrale. Am Nachmittag bringt Sie eine kurze Fahrt zu einem malerischen Aussichtspunkt, der einen unvergesslichen Blick auf die Landschaft von Tipperary bietet. Diese Reiseroute kombiniert bequemes Parken mit intensiven Wandererlebnissen.",
+        "hu": "Reggel vezess a Cashel sziklájánál lévő parkolóba. Fedezd fel gyalog a sziklát és a Hore-apátságot. Délben autózz be a központba, parkolj le újra, és ebédelj, majd sétálj el a skanzenbe és a katedrálishoz. Délután egy rövid autóút egy festői kilátóponthoz visz, ahonnan felejthetetlen kilátás nyílik Tipperary tájára. Ez az útiterv a kényelmes parkolást ötvözi a magával ragadó gyalogos élményekkel.",
+        "ro": "Dimineața, conduceți la parcarea de la Stânca din Cashel. Explorați pe jos stânca și Abația Hore. La prânz, conduceți în centrul orașului, parcați din nou și bucurați-vă de prânz, urmat de o plimbare la Satul Folcloric și la catedrală. După-amiaza, o scurtă călătorie cu mașina vă duce la un punct de belvedere pitoresc pentru o priveliște memorabilă a peisajului din Tipperary. Acest itinerar combină parcarea convenabilă cu experiențe captivante de mers pe jos.",
+        "en": "In the morning, drive to the Rock of Cashel car park. Explore the Rock and Hore Abbey on foot. For midday, drive into the town centre, park again, and enjoy lunch, followed by a walk to the Folk Village and Cathedral. In the afternoon, a short drive takes you to a scenic viewpoint for a memorable look at the Tipperary landscape. This itinerary blends driving convenience with immersive walking clusters."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bacon and Cabbage",
+            "tip": "Ein klassisches irisches Gericht, das oft als Tagesgericht angeboten wird."
+          },
+          {
+            "name": "The Bishop's Buttery at Cashel Palace",
+            "tip": "Für ein feines kulinarisches Erlebnis in einem historischen Ambiente."
+          },
+          {
+            "name": "Handwerklich hergestelltes Bier",
+            "tip": "Fragen Sie in den Pubs nach lokalen Bieren aus Tipperary."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szalonna és káposzta",
+            "tip": "Klasszikus ír étel, gyakran a nap ajánlataként szerepel."
+          },
+          {
+            "name": "The Bishop's Buttery a Cashel-palotában",
+            "tip": "Egy fine dining élményért történelmi környezetben."
+          },
+          {
+            "name": "Kézműves sör",
+            "tip": "Kérj a pubokban helyi, Tipperary-i söröket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bacon și varză",
+            "tip": "Un fel de mâncare irlandez clasic, adesea servit ca specialitatea zilei."
+          },
+          {
+            "name": "The Bishop's Buttery la Palatul Cashel",
+            "tip": "Pentru o experiență culinară rafinată într-un cadru istoric."
+          },
+          {
+            "name": "Bere artizanală",
+            "tip": "Întrebați în pub-uri despre berile locale din Tipperary."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bacon and Cabbage",
+            "tip": "A classic Irish dish, often available as a daily special."
+          },
+          {
+            "name": "The Bishop's Buttery at Cashel Palace",
+            "tip": "For a fine dining experience in a historic setting."
+          },
+          {
+            "name": "Craft Beer",
+            "tip": "Ask in the pubs for local Tipperary brews."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Cashel Palace",
+            "tip": "Ein ruhiger Spaziergang durch die makellosen Gärten des Hotels.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Landstraßen rund um Cashel",
+            "tip": "Machen Sie eine langsame Fahrt durch die grünen Hügel der Golden Vale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Dominic's Abbey",
+            "tip": "Eine weniger besuchte, aber ebenso stimmungsvolle Ruine in der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Cashel-palota kertjei",
+            "tip": "Egy csendes séta a szálloda kifogástalan kertjeiben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vidéki utak Cashel körül",
+            "tip": "Tegyél egy lassú autókázást az Arany Völgy zöld dombjai között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Domonkos-apátság",
+            "tip": "Kevésbé látogatott, de ugyanolyan hangulatos rom a városban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Cashel",
+            "tip": "O plimbare liniștită prin grădinile impecabile ale hotelului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Drumuri de țară în jurul Cashel",
+            "tip": "Faceți o plimbare lentă cu mașina prin dealurile verzi ale Văii de Aur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Abația Sf. Dominic",
+            "tip": "O ruină mai puțin vizitată, dar la fel de atmosferică, în oraș.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cashel Palace Gardens",
+            "tip": "A quiet stroll through the hotel's immaculate gardens.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Country Roads around Cashel",
+            "tip": "Take a slow drive through the green hills of the Golden Vale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Dominic's Abbey",
+            "tip": "A lesser-visited but equally atmospheric ruin in town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boland's Shop",
+            "tip": "Ein traditionelles Geschäft für eine Vielzahl von Waren und lokalen Produkten."
+          },
+          {
+            "name": "Kunstgalerien",
+            "tip": "Entdecken Sie lokale Künstler, die von der Landschaft von Tipperary inspiriert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boland's Shop",
+            "tip": "Hagyományos bolt, ahol sokféle áru és helyi termék kapható."
+          },
+          {
+            "name": "Művészeti galériák",
+            "tip": "Fedezd fel a Tipperary táj által inspirált helyi művészeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Boland",
+            "tip": "Un magazin tradițional pentru o varietate de bunuri și produse locale."
+          },
+          {
+            "name": "Galerii de artă",
+            "tip": "Descoperiți artiști locali inspirați de peisajul din Tipperary."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boland's Shop",
+            "tip": "A traditional store for a variety of goods and local items."
+          },
+          {
+            "name": "Art Galleries",
+            "tip": "Discover local artists inspired by the Tipperary landscape."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Auto ist nützlich, um Cashel zu erreichen und vielleicht einen Aussichtspunkt in der Nähe zu besuchen, aber die Stadt selbst erkundet man am besten zu Fuß.",
+          "Parken kann im Stadtzentrum eine Herausforderung sein; nutzen Sie die ausgewiesenen Parkplätze.",
+          "Beachten Sie, dass einige Landstraßen sehr eng sein können."
+        ],
+        "hu": [
+          "Az autó hasznos Cashel eléréséhez és egy közeli kilátópont meglátogatásához, de magát a várost a legjobb gyalog felfedezni.",
+          "A parkolás kihívást jelenthet a városközpontban; használd a kijelölt parkolókat.",
+          "Vedd figyelembe, hogy néhány vidéki út nagyon keskeny lehet."
+        ],
+        "ro": [
+          "Mașina este utilă pentru a ajunge la Cashel și poate pentru a vizita un punct de belvedere din apropiere, dar orașul în sine este cel mai bine explorat pe jos.",
+          "Parcarea poate fi o provocare în centrul orașului; utilizați parcările desemnate.",
+          "Fiți conștienți de faptul că unele drumuri de țară pot fi foarte înguste."
+        ],
+        "en": [
+          "The car is useful for getting to Cashel and perhaps a nearby viewpoint, but the town itself is best explored on foot.",
+          "Parking can be a challenge in the town centre; use the designated car parks.",
+          "Be aware that some country roads can be very narrow."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft an der Bushaltestelle Cashel",
+            "hu": "Érkezés a casheli buszmegállóba",
+            "ro": "Sosire la stația de autobuz Cashel",
+            "en": "Arrival at Cashel Bus Stop"
+          },
+          "coords": [
+            -7.887,
+            52.518
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die meisten regionalen Busse halten hier. Von hier aus ist die ganze Stadt zu Fuß erreichbar.",
+            "hu": "A legtöbb regionális busz itt áll meg. Innen az egész város gyalogosan elérhető.",
+            "ro": "Majoritatea autobuzelor regionale opresc aici. Întregul oraș este accesibil pe jos de aici.",
+            "en": "Most regional buses stop here. The entire town is walkable from this point."
+          }
+        },
+        {
+          "name": {
+            "de": "Rock of Cashel",
+            "hu": "Cashel sziklája",
+            "ro": "Stânca din Cashel",
+            "en": "Rock of Cashel"
+          },
+          "coords": [
+            -7.8907,
+            52.5165
+          ],
+          "category": "historical",
+          "arrive_at": "09:28",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang von der Bushaltestelle ist ein guter Weg, um sich aufzuwärmen.",
+            "hu": "A séta a buszmegállótól jó bemelegítés.",
+            "ro": "Plimbarea de la stația de autobuz este o modalitate bună de a vă încălzi.",
+            "en": "The walk from the bus stop is a good way to warm up."
+          }
+        },
+        {
+          "name": {
+            "de": "Hore Abbey",
+            "hu": "Hore-apátság",
+            "ro": "Abația Hore",
+            "en": "Hore Abbey"
+          },
+          "coords": [
+            -7.897,
+            52.512
+          ],
+          "category": "historical",
+          "arrive_at": "11:38",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie den Schildern vom Rock of Cashel aus; es ist ein kurzer und angenehmer Spaziergang.",
+            "hu": "Kövesd a táblákat a Cashel sziklájától; rövid és kellemes séta.",
+            "ro": "Urmați indicatoarele de la Stânca din Cashel; este o plimbare scurtă și plăcută.",
+            "en": "Follow the signs from the Rock of Cashel; it's a short and pleasant walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Stadt",
+            "hu": "Ebéd a városban",
+            "ro": "Prânz în oraș",
+            "en": "Lunch in Town"
+          },
+          "coords": [
+            -7.8885,
+            52.5168
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie einen Pub in der Nähe der Kathedrale für den nächsten Teil Ihrer Tour.",
+            "hu": "Válassz egy pubot a katedrális közelében a túra következő részéhez.",
+            "ro": "Alegeți un pub aproape de catedrală pentru următoarea parte a turului dumneavoastră.",
+            "en": "Choose a pub near the Cathedral for the next part of your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Cashel Folk Village",
+            "hu": "Cashel skanzen",
+            "ro": "Satul Folcloric Cashel",
+            "en": "Cashel Folk Village"
+          },
+          "coords": [
+            -7.888,
+            52.516
+          ],
+          "category": "museums",
+          "arrive_at": "13:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt an der Hauptstraße, leicht zu finden.",
+            "hu": "Közvetlenül a főutcán, könnyű megtalálni.",
+            "ro": "Chiar pe strada principală, ușor de găsit.",
+            "en": "Right on the main street, easy to find."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Johannes der Täufer",
+            "hu": "Keresztelő Szent János-katedrális",
+            "ro": "Catedrala Sf. Ioan Botezătorul",
+            "en": "St. John the Baptist Cathedral"
+          },
+          "coords": [
+            -7.889,
+            52.516
+          ],
+          "category": "churches",
+          "arrive_at": "14:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur, bevor Sie langsam zur Bushaltestelle zurückschlendern.",
+            "hu": "Csodáld meg az építészetet, mielőtt lassan visszasétálsz a buszmegállóba.",
+            "ro": "Admirați arhitectura înainte de a vă plimba încet înapoi la stația de autobuz.",
+            "en": "Admire the architecture before strolling slowly back towards the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang durch die Stadt",
+            "hu": "Városi séta",
+            "ro": "Plimbare prin oraș",
+            "en": "Town Stroll"
+          },
+          "coords": [
+            -7.8875,
+            52.5175
+          ],
+          "category": "shopping",
+          "arrive_at": "15:44",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nutzen Sie die verbleibende Zeit für einen letzten Blick in die Geschäfte oder für ein Abschiedsfoto.",
+            "hu": "Használd ki a hátralévő időt egy utolsó pillantásra a boltokban vagy egy búcsúfotóra.",
+            "ro": "Folosiți timpul rămas pentru o ultimă privire în magazine sau o fotografie de rămas bun.",
+            "en": "Use the remaining time for a final look at the shops or a farewell photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach Ihrer Ankunft mit dem Bus in Cashel führt Sie ein Spaziergang bergauf zum Rock of Cashel, dem Höhepunkt des Vormittags. Von dort aus geht es weiter zur Hore Abbey. Mittags kehren Sie in die Stadt zurück, um in einem lokalen Pub zu Mittag zu essen. Der Nachmittag ist gefüllt mit Besuchen im Folk Village und in der Kathedrale. Da es in Cashel keinen Nahverkehr für Touristen gibt, ist dieser gesamte Plan ein Spaziergang, der die Unabhängigkeit und Einfachheit der Erkundung zu Fuß betont.",
+        "hu": "Miután busszal megérkeztél Cashelbe, egy séta vezet fel a Cashel sziklájához, a délelőtt fénypontjához. Onnan tovább a Hore-apátsághoz. Délben visszatérsz a városba ebédelni egy helyi pubban. A délután a skanzen és a katedrális meglátogatásával telik. Mivel Cashelben nincs helyi tömegközlekedés a turisták számára, ez az egész terv egy gyalogtúra, amely a gyalogos felfedezés függetlenségét és egyszerűségét hangsúlyozza.",
+        "ro": "După sosirea cu autobuzul în Cashel, o plimbare în urcare vă duce la Stânca din Cashel, punctul culminant al dimineții. De acolo, continuați spre Abația Hore. La prânz, reveniți în oraș pentru a mânca într-un pub local. După-amiaza este plină de vizite la Satul Folcloric și la catedrală. Deoarece nu există transport public turistic în Cashel, întregul plan este un tur pietonal, subliniind independența și simplitatea explorării pe jos.",
+        "en": "Upon arriving by bus in Cashel, a walk uphill takes you to the Rock of Cashel, the morning's highlight. From there, continue to Hore Abbey. At midday, return to the town for lunch at a local pub. The afternoon is filled with visits to the Folk Village and the Cathedral. As there is no tourist transit within Cashel, this entire plan is a walking tour, emphasizing the independence and simplicity of exploring on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boxty",
+            "tip": "Ein traditioneller irischer Kartoffelpfannkuchen, der auf verschiedene Weisen serviert wird."
+          },
+          {
+            "name": "Lokale Käsesorten",
+            "tip": "Probieren Sie den berühmten Cashel Blue Cheese, wenn Sie die Gelegenheit haben."
+          },
+          {
+            "name": "Tee und Scones",
+            "tip": "Eine klassische irische Pause in einem der gemütlichen Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boxty",
+            "tip": "Hagyományos ír burgonyalepény, amelyet különféle módokon szolgálnak fel."
+          },
+          {
+            "name": "Helyi sajtok",
+            "tip": "Kóstold meg a híres Cashel Blue sajtot, ha van rá lehetőséged."
+          },
+          {
+            "name": "Tea és scones",
+            "tip": "Klasszikus ír pihenő az egyik hangulatos kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boxty",
+            "tip": "O clătită tradițională irlandeză din cartofi, servită în diverse moduri."
+          },
+          {
+            "name": "Brânzeturi locale",
+            "tip": "Încercați faimoasa brânză Cashel Blue dacă aveți ocazia."
+          },
+          {
+            "name": "Ceai și scones",
+            "tip": "O pauză irlandeză clasică la una dintre cafenelele primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boxty",
+            "tip": "A traditional Irish potato pancake, served in various ways."
+          },
+          {
+            "name": "Local Cheeses",
+            "tip": "Try the famous Cashel Blue cheese if you get the chance."
+          },
+          {
+            "name": "Tea and Scones",
+            "tip": "A classic Irish break at one of the cozy cafés."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof am Rock",
+            "tip": "Ein überraschend ruhiger Ort mit alten keltischen Kreuzen.",
+            "emoji": "✝️"
+          },
+          {
+            "name": "Eine Bank auf dem Hauptplatz",
+            "tip": "Beobachten Sie das Kommen und Gehen des Stadtlebens.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang bei Dämmerung",
+            "tip": "Die Stadt ist nach dem Abzug der Tagesausflügler viel ruhiger.",
+            "emoji": "🌙"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető a Sziklánál",
+            "tip": "Meglepően csendes hely ősi kelta keresztekkel.",
+            "emoji": "✝️"
+          },
+          {
+            "name": "Egy pad a főtéren",
+            "tip": "Nézd a városi élet jövés-menését.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta szürkületkor",
+            "tip": "A város sokkal csendesebb, miután a napos kirándulók elmentek.",
+            "emoji": "🌙"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de la Stâncă",
+            "tip": "Un loc surprinzător de liniștit, cu cruci celtice vechi.",
+            "emoji": "✝️"
+          },
+          {
+            "name": "O bancă în piața principală",
+            "tip": "Urmăriți forfota vieții de oraș.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare la amurg",
+            "tip": "Orașul este mult mai liniștit după ce pleacă excursioniștii de o zi.",
+            "emoji": "🌙"
+          }
+        ],
+        "en": [
+          {
+            "name": "Graveyard at the Rock",
+            "tip": "A surprisingly peaceful spot with ancient Celtic crosses.",
+            "emoji": "✝️"
+          },
+          {
+            "name": "A bench in the main square",
+            "tip": "Watch the comings and goings of town life.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dusk walk",
+            "tip": "The town is much quieter after the day-trippers have left.",
+            "emoji": "🌙"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigter Schmuck",
+            "tip": "Suchen Sie nach von keltischen Designs inspirierten Stücken."
+          },
+          {
+            "name": "Musikläden",
+            "tip": "Vielleicht finden Sie eine CD mit traditioneller Musik aus dem Brú Ború."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített ékszerek",
+            "tip": "Keress kelta minták által inspirált darabokat."
+          },
+          {
+            "name": "Zeneboltok",
+            "tip": "Talán találsz egy CD-t hagyományos zenével a Brú Borúból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii artizanale",
+            "tip": "Căutați piese inspirate de modele celtice."
+          },
+          {
+            "name": "Magazine de muzică",
+            "tip": "S-ar putea să găsiți un CD cu muzică tradițională de la Brú Ború."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Jewelry",
+            "tip": "Look for pieces inspired by Celtic designs."
+          },
+          {
+            "name": "Music Shops",
+            "tip": "You might find a CD of traditional music from Brú Ború."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Dieser Modus geht davon aus, dass Sie mit einem regionalen Bus anreisen. Überprüfen Sie unbedingt die Busfahrpläne für Ihre Rückfahrt.",
+          "In Cashel selbst gibt es keine öffentlichen Verkehrsmittel für Touristen; alles ist zu Fuß erreichbar.",
+          "Planen Sie Ihre Zeit sorgfältig, um den letzten Bus nicht zu verpassen."
+        ],
+        "hu": [
+          "Ez a mód feltételezi, hogy regionális busszal érkezel. Mindenképpen ellenőrizd a buszmenetrendet a visszaúthoz.",
+          "Magában Cashelben nincs tömegközlekedés a turisták számára; minden gyalogosan elérhető.",
+          "Tervezd meg gondosan az idődet, hogy ne késs le az utolsó buszról."
+        ],
+        "ro": [
+          "Acest mod presupune că ajungeți cu un autobuz regional. Asigurați-vă că verificați orarele autobuzelor pentru călătoria de întoarcere.",
+          "Nu există transport public pentru turiști în Cashel; totul este la distanță de mers pe jos.",
+          "Planificați-vă timpul cu atenție pentru a nu pierde ultimul autobuz."
+        ],
+        "en": [
+          "This mode assumes you are arriving by regional bus. Be sure to check bus schedules for your return journey.",
+          "There is no public transit for tourists within Cashel itself; everything is walkable.",
+          "Plan your time carefully so you don't miss the last bus back."
+        ]
+      }
+    }
+  }
+}

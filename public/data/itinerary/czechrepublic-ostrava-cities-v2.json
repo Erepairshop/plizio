@@ -1,0 +1,1284 @@
+{
+  "city_id": "czechrepublic-ostrava-cities-v2",
+  "anchor": {
+    "name": "Ostrava",
+    "coords": [
+      18.282,
+      49.8349
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Masaryk-Platz",
+            "hu": "Masaryk tér",
+            "ro": "Piața Masaryk",
+            "en": "Masaryk Square"
+          },
+          "coords": [
+            18.293,
+            49.8357
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der örtlichen Cafés.",
+            "hu": "Indítsa a napot egy kávéval a helyi kávézók egyikében.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day with a coffee at one of the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Neues Rathaus",
+            "hu": "Új Városháza",
+            "ro": "Noua Primărie",
+            "en": "New City Hall"
+          },
+          "coords": [
+            18.291,
+            49.8415
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Paternosteraufzug und genießen Sie die Aussicht vom Turm.",
+            "hu": "Próbálja ki a páternosztert, és élvezze a kilátást a toronyból.",
+            "ro": "Urcați cu liftul paternoster și bucurați-vă de priveliștea din turn.",
+            "en": "Take the paternoster lift and enjoy the view from the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesisch-Ostrauer Burg",
+            "hu": "Sziléziai-ostravai vár",
+            "ro": "Castelul Silezia-Ostrava",
+            "en": "Silesian Ostrava Castle"
+          },
+          "coords": [
+            18.3005,
+            49.8375
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die Veranstaltungen, die oft auf dem Burggelände stattfinden.",
+            "hu": "Nézze meg, milyen események zajlanak gyakran a vár területén.",
+            "ro": "Verificați evenimentele care au loc adesea pe terenul castelului.",
+            "en": "Check for events that often take place on the castle grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolní Vítkovice & Bolt Tower",
+            "hu": "Dolní Vítkovice & Bolt Tower",
+            "ro": "Dolní Vítkovice & Bolt Tower",
+            "en": "Dolní Vítkovice & Bolt Tower"
+          },
+          "coords": [
+            18.277,
+            49.82
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die Geschichte dieses Industriedenkmals zu verstehen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megértse az ipari műemlék történetét.",
+            "ro": "Participați la un tur ghidat pentru a înțelege istoria acestui monument industrial.",
+            "en": "Join a guided tour to understand the history of this industrial monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergwerk Michal",
+            "hu": "Michal Bánya",
+            "ro": "Mina Michal",
+            "en": "Michal Mine"
+          },
+          "coords": [
+            18.337,
+            49.839
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erleben Sie den authentischen Weg der Bergleute zur Arbeit.",
+            "hu": "Tapasztalja meg a bányászok autentikus útját a munkába.",
+            "ro": "Experimentați traseul autentic al minerilor spre locul de muncă.",
+            "en": "Experience the authentic path of miners going to work."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Ostrava beginnt am lebhaften Masaryk-Platz. Nach einem Spaziergang durch das Herz der Stadt führt Ihr Weg zum Neuen Rathaus, von dessen Turm aus Sie einen Panoramablick genießen können. Über die Ostravice gelangen Sie zur Schlesisch-Ostrauer Burg, die einen Hauch von Mittelalter verströmt. Am Nachmittag tauchen Sie in die industrielle Vergangenheit ein, indem Sie das weitläufige Gelände von Dolní Vítkovice erkunden, das vom Bolt Tower gekrönt wird. Der Tag endet mit einem Einblick in das harte Leben der Bergleute im Bergwerk Michal, ein unvergessliches Erlebnis.",
+        "hu": "Az ostravai nap a nyüzsgő Masaryk téren kezdődik. Miután átsétált a város szívén, az út az Új Városházához vezet, amelynek tornyából panorámás kilátás nyílik. Az Ostravice folyón átkelve a középkori hangulatú Sziléziai-ostravai várhoz ér. Délután elmerülhet az ipari múltban a Bolt Tower által koronázott Dolní Vítkovice hatalmas területének felfedezésével. A nap a Michal Bányában a bányászok kemény életébe való bepillantással zárul, ami felejthetetlen élmény.",
+        "ro": "Ziua dvs. în Ostrava începe în vibranta Piață Masaryk. După o plimbare prin inima orașului, drumul vă duce la Noua Primărie, de unde puteți admira o vedere panoramică din turnul său. Traversând râul Ostravice, ajungeți la Castelul Silezia-Ostrava, cu o atmosferă medievală. După-amiaza, vă veți cufunda în trecutul industrial explorând vastul complex Dolní Vítkovice, încoronat de Turnul Bolt. Ziua se încheie cu o incursiune în viața grea a minerilor la Mina Michal, o experiență de neuitat.",
+        "en": "Your day in Ostrava begins at the lively Masaryk Square. After a walk through the heart of the city, your path leads to the New City Hall, where you can enjoy a panoramic view from its tower. Crossing the Ostravice River, you'll reach the Silesian Ostrava Castle for a touch of medieval atmosphere. In the afternoon, you'll dive into the industrial past by exploring the vast Dolní Vítkovice complex, crowned by the Bolt Tower. The day concludes with a glimpse into the hard life of miners at the Michal Mine, an unforgettable experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stramberger Ohren",
+            "tip": "Eine lokale Lebkuchen-Spezialität, die Sie auf den Märkten finden können."
+          },
+          {
+            "name": "Kofola vom Fass",
+            "tip": "Probieren Sie das tschechische Kräuter-Cola-Getränk, eine lokale Ikone."
+          },
+          {
+            "name": "U Skákavého Poníka",
+            "tip": "Ein beliebtes Restaurant mit traditioneller tschechischer Küche in der Nähe des Zentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stramberki fül",
+            "tip": "Helyi mézeskalács-különlegesség, amelyet a piacokon találhat meg."
+          },
+          {
+            "name": "Csapolt Kofola",
+            "tip": "Kóstolja meg a cseh gyógynövényes kólát, egy helyi ikont."
+          },
+          {
+            "name": "U Skákavého Poníka",
+            "tip": "Népszerű étterem hagyományos cseh konyhával a központ közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Urechile din Štramberk",
+            "tip": "O specialitate locală de turtă dulce pe care o puteți găsi în piețe."
+          },
+          {
+            "name": "Kofola la halbă",
+            "tip": "Încercați băutura cehă pe bază de plante, un simbol local."
+          },
+          {
+            "name": "U Skákavého Poníka",
+            "tip": "Un restaurant popular cu bucătărie tradițională cehă, aproape de centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Štramberk Ears",
+            "tip": "A local gingerbread specialty you can find at the markets."
+          },
+          {
+            "name": "Draft Kofola",
+            "tip": "Try the Czech herbal cola drink, a local icon."
+          },
+          {
+            "name": "U Skákavého Poníka",
+            "tip": "A popular restaurant with traditional Czech cuisine near the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Rathausturm",
+            "tip": "Genießen Sie die Ruhe und den weiten Blick über die Stadt und die Beskiden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang entlang der Ostravice",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer für eine kurze Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Városháza tornyából",
+            "tip": "Élvezze a csendet és a városra és a Beszkidekre nyíló széles kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta az Ostravice folyó mentén",
+            "tip": "Keressen egy csendes padot a folyóparton egy rövid szünetre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere din turnul primăriei",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică asupra orașului și a Munților Beskizi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Ostravice",
+            "tip": "Găsiți o bancă liniștită pe malul râului pentru o scurtă pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the City Hall Tower",
+            "tip": "Enjoy the peace and the wide view over the city and the Beskydy Mountains.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk along the Ostravice River",
+            "tip": "Find a quiet bench on the riverbank for a short break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Forum Nová Karolina",
+            "tip": "Ein modernes Einkaufszentrum in der Nähe von Vítkovice für alle Ihre Einkaufsbedürfnisse."
+          },
+          {
+            "name": "Masaryk-Platz",
+            "tip": "Entdecken Sie kleine Geschäfte und Boutiquen rund um den Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forum Nová Karolina",
+            "tip": "Modern bevásárlóközpont Vítkovice közelében minden vásárlási igény kielégítésére."
+          },
+          {
+            "name": "Masaryk tér",
+            "tip": "Fedezze fel a főtér körüli kis üzleteket és butikokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forum Nová Karolina",
+            "tip": "Un centru comercial modern lângă Vítkovice pentru toate nevoile dvs. de cumpărături."
+          },
+          {
+            "name": "Piața Masaryk",
+            "tip": "Descoperiți magazine mici și buticuri în jurul pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Forum Nová Karolina",
+            "tip": "A modern shopping mall near Vítkovice for all your shopping needs."
+          },
+          {
+            "name": "Masaryk Square",
+            "tip": "Discover small shops and boutiques around the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten der Minen und Museen im Voraus.",
+          "Eine Powerbank für Ihr Smartphone ist nützlich für Navigation und Fotos."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Előre ellenőrizze a bányák és múzeumok nyitvatartási idejét.",
+          "Egy powerbank a telefonjához hasznos lehet a navigációhoz és a fotózáshoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați în avans programul de funcționare al minelor și muzeelor.",
+          "O baterie externă pentru telefon vă va fi utilă pentru navigație și fotografii."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Check the opening hours of the mines and museums in advance.",
+          "A power bank for your smartphone will be useful for navigation and photos."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Masaryk-Platz",
+            "hu": "Masaryk tér",
+            "ro": "Piața Masaryk",
+            "en": "Masaryk Square"
+          },
+          "coords": [
+            18.293,
+            49.8357
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie den Platz erkunden.",
+            "hu": "Biztonságosan zárja le a kerékpárját, amíg felfedezi a teret.",
+            "ro": "Asigurați-vă bicicleta în mod corespunzător în timp ce explorați piața.",
+            "en": "Lock your bike securely while you explore the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Neues Rathaus",
+            "hu": "Új Városháza",
+            "ro": "Noua Primărie",
+            "en": "New City Hall"
+          },
+          "coords": [
+            18.291,
+            49.8415
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Radweg entlang des Flusses führt direkt am Rathaus vorbei.",
+            "hu": "A folyó menti kerékpárút közvetlenül a Városháza mellett vezet el.",
+            "ro": "Pista de biciclete de-a lungul râului trece chiar pe lângă primărie.",
+            "en": "The cycle path along the river passes right by the city hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Landek Park",
+            "hu": "Landek Park",
+            "ro": "Parcul Landek",
+            "en": "Landek Park"
+          },
+          "coords": [
+            18.267,
+            49.873
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nutzen Sie die Radwege, um zum Park zu gelangen, und erkunden Sie das Bergbaumuseum.",
+            "hu": "Használja a kerékpárutakat a park eléréséhez, és fedezze fel a bányászati múzeumot.",
+            "ro": "Folosiți pistele de biciclete pentru a ajunge la parc și explorați muzeul minier.",
+            "en": "Use the cycle paths to get to the park and explore the mining museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolní Vítkovice",
+            "hu": "Dolní Vítkovice",
+            "ro": "Dolní Vítkovice",
+            "en": "Dolní Vítkovice"
+          },
+          "coords": [
+            18.277,
+            49.82
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt genügend Platz, um Ihr Fahrrad sicher abzustellen. Planen Sie Zeit für das Mittagessen hier ein.",
+            "hu": "Van elég hely a kerékpár biztonságos leállításához. Tervezzen itt ebédszünetet.",
+            "ro": "Există suficient spațiu pentru a vă parca bicicleta în siguranță. Planificați prânzul aici.",
+            "en": "There's plenty of space to park your bike safely. Plan for lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Bolt Tower",
+            "hu": "Bolt Tower",
+            "ro": "Turnul Bolt",
+            "en": "Bolt Tower"
+          },
+          "coords": [
+            18.278,
+            49.821
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee mit Aussicht im Café auf der Spitze des Turms.",
+            "hu": "Élvezzen egy kávét a kilátással a torony tetején lévő kávézóban.",
+            "ro": "Savurați o cafea cu priveliște la cafeneaua din vârful turnului.",
+            "en": "Enjoy a coffee with a view at the café on top of the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesisch-Ostrauer Burg",
+            "hu": "Sziléziai-ostravai vár",
+            "ro": "Castelul Silezia-Ostrava",
+            "en": "Silesian Ostrava Castle"
+          },
+          "coords": [
+            18.3005,
+            49.8375
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss des Tages mit einem Blick auf die Burg bei Sonnenuntergang.",
+            "hu": "Szép lezárása a napnak a vár naplementében való megtekintésével.",
+            "ro": "O încheiere frumoasă a zilei cu o priveliște a castelului la apus.",
+            "en": "A beautiful end to the day with a view of the castle at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Ostrava auf dynamische Weise. Vom Masaryk-Platz geht es zum Neuen Rathaus. Anschließend führt Sie eine längere, aber angenehme Fahrt entlang der Radwege zum Landek Park, wo Sie in die Geschichte des Bergbaus eintauchen. Nach dem Mittagessen radeln Sie zum beeindruckenden Dolní Vítkovice-Komplex. Ein kurzer Spaziergang bringt Sie zum Bolt Tower für eine Kaffeepause mit Aussicht. Die Tour endet an der Schlesisch-Ostrauer Burg, wo Sie den Tag ausklingen lassen.",
+        "hu": "Kerékpárral dinamikusan fedezheti fel Ostravát. A Masaryk térről az Új Városházához teker. Ezután egy hosszabb, de kellemes út vezet a kerékpárutakon a Landek Parkba, ahol elmerülhet a bányászat történetében. Ebéd után az impozáns Dolní Vítkovice komplexumhoz kerékpározik. Egy rövid séta a Bolt Towerhez vezet egy kávészünetre, kilátással. A túra a Sziléziai-ostravai várnál ér véget, ahol lezárhatja a napot.",
+        "ro": "Explorați Ostrava într-un mod dinamic cu bicicleta. De la Piața Masaryk, mergeți la Noua Primărie. Apoi, o plimbare mai lungă, dar plăcută, de-a lungul pistelor de biciclete vă duce la Parcul Landek, unde vă puteți cufunda în istoria mineritului. După prânz, pedalați spre impresionantul complex Dolní Vítkovice. O scurtă plimbare vă duce la Turnul Bolt pentru o pauză de cafea cu priveliște. Turul se încheie la Castelul Silezia-Ostrava, unde puteți încheia ziua.",
+        "en": "Explore Ostrava dynamically by bike. From Masaryk Square, you'll cycle to the New City Hall. Then, a longer but pleasant ride along the cycle paths takes you to Landek Park to delve into mining history. After lunch, you'll pedal to the impressive Dolní Vítkovice complex. A short walk takes you to the Bolt Tower for a coffee break with a view. The tour concludes at the Silesian Ostrava Castle, where you can wind down your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pivní bar U Rady",
+            "tip": "Probieren Sie lokale Craft-Biere nach einem Tag auf dem Rad."
+          },
+          {
+            "name": "Bistro Boule za ušima",
+            "tip": "Ein trendiges Bistro für ein schnelles und leckeres Mittagessen."
+          },
+          {
+            "name": "HogoFogo Bistro",
+            "tip": "Moderne tschechische Küche in stilvollem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pivní bar U Rady",
+            "tip": "Kóstoljon helyi kézműves söröket egy kerékpáros nap után."
+          },
+          {
+            "name": "Bistro Boule za ušima",
+            "tip": "Divatos bisztró egy gyors és finom ebédhez."
+          },
+          {
+            "name": "HogoFogo Bistro",
+            "tip": "Modern cseh konyha stílusos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pivní bar U Rady",
+            "tip": "Încercați beri artizanale locale după o zi pe bicicletă."
+          },
+          {
+            "name": "Bistro Boule za ušima",
+            "tip": "Un bistro la modă pentru un prânz rapid și delicios."
+          },
+          {
+            "name": "HogoFogo Bistro",
+            "tip": "Bucătărie cehă modernă într-o atmosferă elegantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pivní bar U Rady",
+            "tip": "Try local craft beers after a day of cycling."
+          },
+          {
+            "name": "Bistro Boule za ušima",
+            "tip": "A trendy bistro for a quick and delicious lunch."
+          },
+          {
+            "name": "HogoFogo Bistro",
+            "tip": "Modern Czech cuisine in a stylish setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Landek Hügel",
+            "tip": "Genießen Sie die Natur und die Aussicht vom Gipfel des Hügels im Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Ostravice-Flusses",
+            "tip": "Perfekt für eine kurze Pause während Ihrer Radtour.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Landek-hegy",
+            "tip": "Élvezze a természetet és a kilátást a parkban lévő hegy csúcsáról.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ostravice folyó partja",
+            "tip": "Tökéletes egy rövid szünetre a kerékpártúra során.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Landek",
+            "tip": "Bucurați-vă de natură și de priveliștea din vârful dealului din parc.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Ostravice",
+            "tip": "Perfect pentru o scurtă pauză în timpul turului cu bicicleta.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Landek Hill",
+            "tip": "Enjoy nature and the view from the top of the hill in the park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Ostravice River",
+            "tip": "Perfect for a short break during your bike tour.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In der Stadt gibt es mehrere Geschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie Ausschau nach kleinen Märkten für lokale Produkte und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A városban több üzlet is található kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a kis piacokat helyi termékekért és szuvenírekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Există mai multe magazine în oraș pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețe mici pentru produse locale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "There are several shops in the city for accessories or quick repairs."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Look out for small markets for local produce and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Netz von Radwegen, besonders entlang der Flüsse.",
+          "Tragen Sie einen Helm und seien Sie im Stadtverkehr vorsichtig.",
+          "Ein Schloss ist unerlässlich, um Ihr Fahrrad an den Haltestellen zu sichern."
+        ],
+        "hu": [
+          "Használja a kerékpárút-hálózatot, különösen a folyók mentén.",
+          "Viseljen sisakot, és legyen óvatos a városi forgalomban.",
+          "A lakat elengedhetetlen a kerékpár rögzítéséhez a megállóknál."
+        ],
+        "ro": [
+          "Folosiți rețeaua de piste de biciclete, în special de-a lungul râurilor.",
+          "Purtați cască și fiți atenți în traficul urban.",
+          "Un lacăt este esențial pentru a vă asigura bicicleta la opriri."
+        ],
+        "en": [
+          "Use the network of cycle paths, especially along the rivers.",
+          "Wear a helmet and be cautious in city traffic.",
+          "A lock is essential to secure your bike at the stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 24.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zoo Ostrava",
+            "hu": "Ostravai Állatkert",
+            "ro": "Grădina Zoologică Ostrava",
+            "en": "Zoo Ostrava"
+          },
+          "coords": [
+            18.333,
+            49.849
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kommen Sie früh an, um die Menschenmassen zu vermeiden und die Tiere bei der Fütterung zu sehen.",
+            "hu": "Érkezzen korán, hogy elkerülje a tömeget, és láthassa az állatokat etetés közben.",
+            "ro": "Ajungeți devreme pentru a evita aglomerația și pentru a vedea animalele în timpul hrănirii.",
+            "en": "Arrive early to avoid the crowds and see the animals during feeding time."
+          }
+        },
+        {
+          "name": {
+            "de": "Landek Park",
+            "hu": "Landek Park",
+            "ro": "Parcul Landek",
+            "en": "Landek Park"
+          },
+          "coords": [
+            18.267,
+            49.873
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und erkunden Sie sowohl das Bergbaumuseum als auch die Wanderwege.",
+            "hu": "Parkolja le az autót, és fedezze fel a bányászati múzeumot és a túraútvonalakat is.",
+            "ro": "Parcați mașina și explorați atât muzeul minier, cât și traseele de drumeții.",
+            "en": "Park your car and explore both the mining museum and the hiking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolní Vítkovice",
+            "hu": "Dolní Vítkovice",
+            "ro": "Dolní Vítkovice",
+            "en": "Dolní Vítkovice"
+          },
+          "coords": [
+            18.277,
+            49.82
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Dies ist ein großer Komplex. Parken Sie zentral und planen Sie einen Spaziergang ein.",
+            "hu": "Ez egy nagy komplexum. Parkoljon központilag, és tervezzen egy sétát.",
+            "ro": "Acesta este un complex mare. Parcați central și planificați o plimbare.",
+            "en": "This is a large complex. Park centrally and plan for a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bolt Tower",
+            "hu": "Bolt Tower",
+            "ro": "Turnul Bolt",
+            "en": "Bolt Tower"
+          },
+          "coords": [
+            18.278,
+            49.821
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und gehen Sie zu Fuß zum Turm für eine tolle Aussicht.",
+            "hu": "Hagyja az autót, és sétáljon fel a toronyba a nagyszerű kilátásért.",
+            "ro": "Lăsați mașina și mergeți pe jos până la turn pentru o priveliște minunată.",
+            "en": "Leave the car and walk to the tower for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Masaryk-Platz",
+            "hu": "Masaryk tér",
+            "ro": "Piața Masaryk",
+            "en": "Masaryk Square"
+          },
+          "coords": [
+            18.293,
+            49.8357
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und spazieren Sie zum Hauptplatz, um die Atmosphäre aufzusaugen.",
+            "hu": "Parkoljon a közelben, és sétáljon el a főtérre, hogy magába szívja a hangulatot.",
+            "ro": "Parcați în apropiere și faceți o plimbare până în piața principală pentru a absorbi atmosfera.",
+            "en": "Park nearby and stroll to the main square to soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Neues Rathaus",
+            "hu": "Új Városháza",
+            "ro": "Noua Primărie",
+            "en": "New City Hall"
+          },
+          "coords": [
+            18.291,
+            49.8415
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz entfernt, um den Tag mit einer weiteren Aussicht zu beenden.",
+            "hu": "Egy rövid séta a tértől, hogy a napot egy újabb kilátással zárja.",
+            "ro": "O scurtă plimbare din piață pentru a încheia ziua cu o altă priveliște.",
+            "en": "A short walk from the square to end the day with another view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die weit verstreuten Highlights von Ostrava mühelos verbinden. Beginnen Sie den Tag im weitläufigen Zoo, bevor Sie zum Landek Park fahren, um in die Bergbaugeschichte einzutauchen. Hier parken Sie und erkunden zu Fuß. Der nächste Stopp ist das industrielle Herz der Stadt, Dolní Vítkovice. Parken Sie erneut und spazieren Sie durch das beeindruckende Gelände zum Bolt Tower. Der Tag endet im Stadtzentrum, wo Sie vom Masaryk-Platz zum Neuen Rathaus schlendern, um einen letzten Blick über Ostrava zu werfen.",
+        "hu": "Autóval könnyedén összekötheti Ostrava távol eső nevezetességeit. Kezdje a napot a tágas állatkertben, mielőtt a Landek Parkba hajt, hogy elmerüljön a bányászat történetében. Itt parkoljon le és fedezze fel gyalog a környéket. A következő megálló a város ipari szíve, Dolní Vítkovice. Parkoljon le újra, és sétáljon át az impozáns területen a Bolt Towerhez. A nap a belvárosban ér véget, ahol a Masaryk tértől az Új Városházáig sétálva vethet egy utolsó pillantást Ostravára.",
+        "ro": "Cu mașina, puteți conecta cu ușurință atracțiile dispersate ale Ostravei. Începeți ziua la grădina zoologică spațioasă înainte de a conduce la Parcul Landek pentru a vă cufunda în istoria mineritului. Parcați aici și explorați pe jos. Următoarea oprire este inima industrială a orașului, Dolní Vítkovice. Parcați din nou și plimbați-vă prin complexul impresionant până la Turnul Bolt. Ziua se încheie în centrul orașului, unde vă puteți plimba de la Piața Masaryk la Noua Primărie pentru o ultimă privire asupra Ostravei.",
+        "en": "By car, you can effortlessly connect Ostrava's scattered highlights. Start your day at the spacious Zoo before driving to Landek Park to delve into mining history. Park here and explore on foot. The next stop is the city's industrial heart, Dolní Vítkovice. Park again and walk through the impressive complex to the Bolt Tower. The day ends in the city center, where you can stroll from Masaryk Square to the New City Hall for a final view over Ostrava."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Harenda u Barborky",
+            "tip": "Traditionelle schlesische Küche in der Nähe des Landek Parks."
+          },
+          {
+            "name": "Restaurace a pivovar U Dvořáčků",
+            "tip": "Eine Brauereigaststätte, ideal für ein herzhaftes Mittagessen und ein lokales Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Harenda u Barborky",
+            "tip": "Hagyományos sziléziai konyha a Landek Park közelében."
+          },
+          {
+            "name": "Restaurace a pivovar U Dvořáčků",
+            "tip": "Sörfőzde-étterem, ideális egy kiadós ebédhez és egy helyi sörhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Harenda u Barborky",
+            "tip": "Bucătărie tradițională sileziană lângă Parcul Landek."
+          },
+          {
+            "name": "Restaurace a pivovar U Dvořáčků",
+            "tip": "Un restaurant-berărie, ideal pentru un prânz consistent și o bere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harenda u Barborky",
+            "tip": "Traditional Silesian cuisine near Landek Park."
+          },
+          {
+            "name": "Restaurace a pivovar U Dvořáčků",
+            "tip": "A brewery restaurant, ideal for a hearty lunch and a local beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten im Zoo",
+            "tip": "Ein ruhiger Bereich im Zoo, um der Hektik zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gipfel des Landek Hügels",
+            "tip": "Ein kurzer Aufstieg für eine friedliche Aussicht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert az állatkertben",
+            "tip": "Csendes terület az állatkertben, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Landek-hegy csúcsa",
+            "tip": "Rövid emelkedő egy békés kilátásért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică de la Zoo",
+            "tip": "O zonă liniștită în interiorul grădinii zoologice pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vârful Dealului Landek",
+            "tip": "O scurtă urcare pentru o priveliște pașnică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden at the Zoo",
+            "tip": "A quiet area within the zoo to escape the hustle and bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Top of Landek Hill",
+            "tip": "A short climb for a peaceful view.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avion Shopping Park",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand, leicht mit dem Auto erreichbar."
+          },
+          {
+            "name": "Souvenirläden bei den Hauptattraktionen",
+            "tip": "Kaufen Sie Andenken im Zoo oder in Vítkovice."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avion Shopping Park",
+            "tip": "Nagy bevásárlóközpont a város szélén, autóval könnyen megközelíthető."
+          },
+          {
+            "name": "Szuvenírboltok a főbb látnivalóknál",
+            "tip": "Vásároljon emléktárgyakat az állatkertben vagy Vítkovicében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avion Shopping Park",
+            "tip": "Un mare centru comercial la periferia orașului, ușor accesibil cu mașina."
+          },
+          {
+            "name": "Magazine de suveniruri la atracțiile principale",
+            "tip": "Cumpărați suveniruri de la grădina zoologică sau din Vítkovice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avion Shopping Park",
+            "tip": "A large shopping center on the outskirts of the city, easily accessible by car."
+          },
+          {
+            "name": "Souvenir shops at the main attractions",
+            "tip": "Buy souvenirs at the Zoo or in Vítkovice."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine GPS-App zur Navigation zwischen den weit entfernten Orten.",
+          "Achten Sie auf Parkgebühren, besonders im Stadtzentrum.",
+          "Planen Sie Ihre Route im Voraus, um Verkehr zu vermeiden."
+        ],
+        "hu": [
+          "Használjon GPS-alkalmazást a távoli helyek közötti navigációhoz.",
+          "Figyeljen a parkolási díjakra, különösen a belvárosban.",
+          "Tervezze meg előre az útvonalat a forgalom elkerülése érdekében."
+        ],
+        "ro": [
+          "Utilizați o aplicație GPS pentru a naviga între locațiile îndepărtate.",
+          "Fiți atenți la taxele de parcare, în special în centrul orașului.",
+          "Planificați-vă traseul în avans pentru a evita traficul."
+        ],
+        "en": [
+          "Use a GPS app for navigation between the distant locations.",
+          "Be aware of parking fees, especially in the city center.",
+          "Plan your route in advance to avoid traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 12.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Masaryk-Platz",
+            "hu": "Masaryk tér",
+            "ro": "Piața Masaryk",
+            "en": "Masaryk Square"
+          },
+          "coords": [
+            18.293,
+            49.8357
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie eine Straßenbahn zum zentralen Platz, um Ihren Tag zu beginnen.",
+            "hu": "Villamossal menjen a központi térre, hogy elkezdje a napot.",
+            "ro": "Luați un tramvai până în piața centrală pentru a vă începe ziua.",
+            "en": "Take a tram to the central square to start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Neues Rathaus",
+            "hu": "Új Városháza",
+            "ro": "Noua Primărie",
+            "en": "New City Hall"
+          },
+          "coords": [
+            18.291,
+            49.8415
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz führt Sie zum Rathaus.",
+            "hu": "Egy rövid séta a tértől elvezeti a Városházához.",
+            "ro": "O scurtă plimbare din piață vă duce la primărie.",
+            "en": "A short walk from the square takes you to the City Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolní Vítkovice",
+            "hu": "Dolní Vítkovice",
+            "ro": "Dolní Vítkovice",
+            "en": "Dolní Vítkovice"
+          },
+          "coords": [
+            18.277,
+            49.82
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahnlinie 1 oder 2, die direkt an diesem Wahrzeichen hält.",
+            "hu": "Menjen az 1-es vagy 2-es villamossal, amely közvetlenül ennél a nevezetességnél áll meg.",
+            "ro": "Luați tramvaiul 1 sau 2, care oprește chiar la acest punct de reper.",
+            "en": "Take tram line 1 or 2, which stops right at this landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Bolt Tower",
+            "hu": "Bolt Tower",
+            "ro": "Turnul Bolt",
+            "en": "Bolt Tower"
+          },
+          "coords": [
+            18.278,
+            49.821
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Erkunden des Geländes ist der Turm nur einen kurzen Spaziergang entfernt.",
+            "hu": "A terület felfedezése után a torony csak egy rövid sétára van.",
+            "ro": "După explorarea zonei, turnul este la o scurtă plimbare.",
+            "en": "After exploring the grounds, the tower is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergwerk Michal",
+            "hu": "Michal Bánya",
+            "ro": "Mina Michal",
+            "en": "Michal Mine"
+          },
+          "coords": [
+            18.337,
+            49.839
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus von Vítkovice; planen Sie die Umsteigezeit ein.",
+            "hu": "Menjen busszal Vítkovicéből; tervezze be az átszállási időt.",
+            "ro": "Luați un autobuz din Vítkovice; planificați timpul de transfer.",
+            "en": "Take a bus from Vítkovice; allow for transfer time."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesisch-Ostrauer Burg",
+            "hu": "Sziléziai-ostravai vár",
+            "ro": "Castelul Silezia-Ostrava",
+            "en": "Silesian Ostrava Castle"
+          },
+          "coords": [
+            18.3005,
+            49.8375
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein kurzer Bus- oder Straßenbahntrip bringt Sie zur Burg für den Tagesabschluss.",
+            "hu": "Egy rövid busz- vagy villamosút elviszi a várhoz a nap lezárásaként.",
+            "ro": "O scurtă călătorie cu autobuzul sau tramvaiul vă duce la castel pentru a încheia ziua.",
+            "en": "A short bus or tram ride takes you to the castle to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln entdecken Sie Ostrava wie ein Einheimischer. Starten Sie im Zentrum am Masaryk-Platz und spazieren Sie zum Neuen Rathaus. Eine Straßenbahnfahrt bringt Sie dann zum Industriedenkmal Dolní Vítkovice. Nach der Erkundung des Geländes und des Bolt Towers bringt Sie ein Bus zum Bergwerk Michal, einem weiteren Zeugnis der Bergbaugeschichte. Die letzte Fahrt des Tages führt Sie zur Schlesisch-Ostrauer Burg, wo Sie den Abend genießen können.",
+        "hu": "A tömegközlekedéssel úgy fedezheti fel Ostravát, mint egy helyi. Kezdjen a központban, a Masaryk téren, és sétáljon el az Új Városházához. Ezután egy villamosút elviszi az ipari műemlék Dolní Vítkovicébe. A terület és a Bolt Tower felfedezése után egy busz visz a Michal Bányához, a bányászati történelem újabb tanújához. A nap utolsó útja a Sziléziai-ostravai várhoz vezet, ahol élvezheti az estét.",
+        "ro": "Cu transportul public, veți descoperi Ostrava ca un localnic. Începeți din centru, în Piața Masaryk, și plimbați-vă până la Noua Primărie. O călătorie cu tramvaiul vă va duce apoi la monumentul industrial Dolní Vítkovice. După explorarea sitului și a Turnului Bolt, un autobuz vă va duce la Mina Michal, o altă mărturie a istoriei miniere. Ultima călătorie a zilei vă duce la Castelul Silezia-Ostrava, unde vă puteți bucura de seară.",
+        "en": "Using public transport, you'll discover Ostrava like a local. Start in the center at Masaryk Square and walk to the New City Hall. A tram ride will then take you to the industrial monument of Dolní Vítkovice. After exploring the site and the Bolt Tower, a bus will take you to Michal Mine, another testament to mining history. The day's final journey takes you to the Silesian Ostrava Castle, where you can enjoy the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Comedor Mexicano",
+            "tip": "Eine Abwechslung zur tschechischen Küche, gut erreichbar mit der Straßenbahn."
+          },
+          {
+            "name": "Stračena Pub",
+            "tip": "Beliebt bei Einheimischen für gutes Essen und Bier, in der Nähe vieler Verkehrsknotenpunkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Comedor Mexicano",
+            "tip": "Változatosság a cseh konyhához, villamossal könnyen megközelíthető."
+          },
+          {
+            "name": "Stračena Pub",
+            "tip": "A helyiek körében népszerű a jó ételekért és sörért, sok közlekedési csomópont közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Comedor Mexicano",
+            "tip": "O schimbare față de bucătăria cehă, ușor accesibil cu tramvaiul."
+          },
+          {
+            "name": "Stračena Pub",
+            "tip": "Popular printre localnici pentru mâncare și bere bună, aproape de multe noduri de transport."
+          }
+        ],
+        "en": [
+          {
+            "name": "Comedor Mexicano",
+            "tip": "A change from Czech cuisine, easily accessible by tram."
+          },
+          {
+            "name": "Stračena Pub",
+            "tip": "Popular with locals for good food and beer, near many transport hubs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Komenského sady",
+            "tip": "Ein großer Park in der Nähe des Rathauses, ideal für eine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick aus der Straßenbahn",
+            "tip": "Genießen Sie die wechselnde Stadtlandschaft während der Fahrt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Komenského sady",
+            "tip": "Nagy park a Városháza közelében, ideális egy szünetre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a villamosból",
+            "tip": "Élvezze a változó városképet utazás közben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Komenského sady",
+            "tip": "Un parc mare lângă primărie, ideal pentru o pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliște din tramvai",
+            "tip": "Bucurați-vă de peisajul urban în schimbare în timpul călătoriei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Komenského sady",
+            "tip": "A large park near the City Hall, ideal for a break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the tram",
+            "tip": "Enjoy the changing cityscapes during your ride.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hauptbahnhof Ostrava",
+            "tip": "Hier finden Sie kleine Geschäfte für das Nötigste oder ein schnelles Souvenir."
+          },
+          {
+            "name": "Geschäfte entlang der 28. října Straße",
+            "tip": "Eine der Haupteinkaufsstraßen, die zu Fuß vom Masaryk-Platz aus erreichbar ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ostrava főpályaudvar",
+            "tip": "Itt kis üzleteket talál a legszükségesebbekhez vagy egy gyors szuvenírhez."
+          },
+          {
+            "name": "Üzletek a 28. října utca mentén",
+            "tip": "Az egyik fő bevásárlóutca, gyalogosan elérhető a Masaryk térről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gara Principală Ostrava",
+            "tip": "Găsiți aici mici magazine pentru lucruri esențiale sau un suvenir rapid."
+          },
+          {
+            "name": "Magazine de-a lungul străzii 28. října",
+            "tip": "Una dintre principalele străzi comerciale, accesibilă pe jos din Piața Masaryk."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ostrava Main Station",
+            "tip": "Find small shops here for essentials or a quick souvenir."
+          },
+          {
+            "name": "Shops along 28. října street",
+            "tip": "One of the main shopping streets, accessible on foot from Masaryk Square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Verwenden Sie eine ÖPNV-App, um Routen und Fahrpläne in Echtzeit zu überprüfen.",
+          "Achten Sie auf die Ansagen der Haltestellen, da diese nicht immer deutlich angezeigt werden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Használjon tömegközlekedési alkalmazást az útvonalak és menetrendek valós idejű ellenőrzéséhez.",
+          "Figyeljen a megállóbejelentésekre, mivel azok nem mindig jelennek meg egyértelműen."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Utilizați o aplicație de transport public pentru a verifica rutele și orarele în timp real.",
+          "Fiți atenți la anunțurile stațiilor, deoarece acestea nu sunt întotdeauna afișate clar."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Use a public transport app to check routes and schedules in real time.",
+          "Pay attention to stop announcements, as they are not always clearly displayed."
+        ]
+      }
+    }
+  }
+}

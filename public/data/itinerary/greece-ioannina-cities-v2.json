@@ -1,0 +1,1460 @@
+{
+  "city_id": "greece-ioannina-cities-v2",
+  "anchor": {
+    "name": "Ioannina",
+    "coords": [
+      20.8537,
+      39.665
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum von Ioannina",
+            "hu": "Joáninai Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Ioannina",
+            "en": "Archaeological Museum of Ioannina"
+          },
+          "coords": [
+            20.8545,
+            39.6635
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Artefakte aus der antiken Orakelstätte Dodona.",
+            "hu": "Fókuszáljon az ókori dodonai jóshelyről származó leletekre.",
+            "ro": "Concentrați-vă pe artefactele de la oracolul antic din Dodona.",
+            "en": "Focus on the artifacts from the ancient oracle site of Dodona."
+          }
+        },
+        {
+          "name": {
+            "de": "Seeufer-Promenade (Molos)",
+            "hu": "Tóparti sétány (Molos)",
+            "ro": "Promenada de pe malul lacului (Molos)",
+            "en": "Lakeside Promenade (Molos)"
+          },
+          "coords": [
+            20.852,
+            39.666
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause in einem der Cafés mit Blick auf den Pamvotida-See.",
+            "hu": "Pihenjen meg az egyik kávézóban, ahonnan kilátás nyílik a Pamvotida-tóra.",
+            "ro": "Luați o pauză la una dintre cafenelele cu vedere la Lacul Pamvotida.",
+            "en": "Take a break at one of the cafes overlooking Lake Pamvotida."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung von Ioannina (Its Kale)",
+            "hu": "Joáninai erőd (Its Kale)",
+            "ro": "Cetatea Ioannina (Its Kale)",
+            "en": "Fortress of Ioannina (Its Kale)"
+          },
+          "coords": [
+            20.858,
+            39.669
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besteigen Sie die Mauern für einen Panoramablick über die Stadt und den See.",
+            "hu": "Másszon fel a falakra, ahonnan panorámás kilátás nyílik a városra és a tóra.",
+            "ro": "Urcați pe ziduri pentru o vedere panoramică asupra orașului și a lacului.",
+            "en": "Climb the walls for a panoramic view of the city and the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Aslan Pascha Moschee",
+            "hu": "Aslan Pasa Mecset",
+            "ro": "Moscheea Aslan Pașa",
+            "en": "Aslan Pasha Mosque"
+          },
+          "coords": [
+            20.8585,
+            39.671
+          ],
+          "category": "museums",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beherbergt heute das Städtische Völkerkundemuseum, das einen Besuch wert ist.",
+            "hu": "Ma a Városi Néprajzi Múzeumnak ad otthont, amelyet érdemes meglátogatni.",
+            "ro": "Astăzi găzduiește Muzeul Municipal de Etnografie, care merită vizitat.",
+            "en": "Now houses the Municipal Ethnographic Museum, which is well worth a visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Silberschmiede-Museum",
+            "hu": "Ezüstműves Múzeum",
+            "ro": "Muzeul de Argintărie",
+            "en": "Silversmithing Museum"
+          },
+          "coords": [
+            20.859,
+            39.67
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die komplizierten Techniken der lokalen Silberschmiedekunst.",
+            "hu": "Csodálja meg a helyi ezüstművesség bonyolult technikáit.",
+            "ro": "Admirați tehnicile complexe ale argintăriei locale.",
+            "en": "Admire the intricate techniques of local silversmithing."
+          }
+        },
+        {
+          "name": {
+            "de": "Traditionelles Abendessen in der Altstadt",
+            "hu": "Hagyományos vacsora az óvárosban",
+            "ro": "Cină tradițională în orașul vechi",
+            "en": "Traditional Dinner in the Old Town"
+          },
+          "coords": [
+            20.856,
+            39.667
+          ],
+          "category": "gastro",
+          "arrive_at": "16:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Spezialitäten wie Froschschenkel oder Aal aus dem See.",
+            "hu": "Kóstolja meg a helyi specialitásokat, mint a békacomb vagy a tavi angolna.",
+            "ro": "Încercați specialități locale, cum ar fi picioare de broască sau anghilă de lac.",
+            "en": "Try local specialties like frog legs or lake eel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung der reichen Geschichte von Epirus im Archäologischen Museum. Schlendern Sie mittags am ruhigen Pamvotida-See entlang, bevor Sie in die legendäre Festung von Ioannina eintauchen. Verbringen Sie den Nachmittag damit, die osmanischen Einflüsse in der Aslan-Pascha-Moschee und die exquisite Handwerkskunst im Silberschmiede-Museum zu entdecken. Schließen Sie Ihren Tag mit einem unvergesslichen Abendessen im Herzen der Altstadt ab und genießen Sie die authentischen Aromen der Region.",
+        "hu": "Kezdje a napot Epirusz gazdag történelmének felfedezésével a Régészeti Múzeumban. Délben sétáljon a nyugodt Pamvotida-tó partján, mielőtt elmerülne Joánina legendás erődjében. Töltse a délutánt az oszmán hatások felfedezésével az Aslan Pasa Mecsetben és a kiváló kézművességgel az Ezüstműves Múzeumban. Zárja a napot egy emlékezetes vacsorával az óváros szívében, megízlelve a régió autentikus ízeit.",
+        "ro": "Începeți-vă ziua explorând istoria bogată a Epirului la Muzeul Arheologic. La prânz, plimbați-vă de-a lungul liniștitului Lac Pamvotida înainte de a vă cufunda în legendara Cetate a Ioanninei. Petreceți după-amiaza descoperind influențele otomane la Moscheea Aslan Pașa și măiestria rafinată la Muzeul de Argintărie. Încheiați-vă ziua cu o cină memorabilă în inima orașului vechi, savurând aromele autentice ale regiunii.",
+        "en": "Start your day exploring the rich history of Epirus at the Archaeological Museum. At midday, stroll along the serene Lake Pamvotida before delving into the legendary Fortress of Ioannina. Spend the afternoon discovering the Ottoman influences at the Aslan Pasha Mosque and the exquisite craftsmanship at the Silversmithing Museum. Conclude your day with a memorable dinner in the heart of the Old Town, savoring the authentic flavors of the region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Froschschenkel",
+            "tip": "Eine berühmte lokale Delikatesse, oft gebraten serviert."
+          },
+          {
+            "name": "Metsovone-Käse",
+            "tip": "Ein geräucherter Käse aus der nahegelegenen Stadt Metsovo."
+          },
+          {
+            "name": "Lokale Kuchen (Pites)",
+            "tip": "Probieren Sie verschiedene herzhafte Kuchen mit Käse, Gemüse oder Fleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Békacomb",
+            "tip": "Híres helyi finomság, gyakran sütve tálalják."
+          },
+          {
+            "name": "Metsovone sajt",
+            "tip": "Füstölt sajt a közeli Metsovo városából."
+          },
+          {
+            "name": "Helyi piték (Pites)",
+            "tip": "Kóstoljon meg különféle sós pitéket sajttal, zöldségekkel vagy hússal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picioare de broască",
+            "tip": "O delicatesă locală renumită, adesea servită prăjită."
+          },
+          {
+            "name": "Brânză Metsovone",
+            "tip": "O brânză afumată din orașul apropiat Metsovo."
+          },
+          {
+            "name": "Plăcinte locale (Pites)",
+            "tip": "Încercați diverse plăcinte sărate cu brânză, legume sau carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frog legs",
+            "tip": "A famous local delicacy, often served fried."
+          },
+          {
+            "name": "Metsovone cheese",
+            "tip": "A smoked cheese from the nearby town of Metsovo."
+          },
+          {
+            "name": "Local pies (Pites)",
+            "tip": "Try various savory pies with cheese, greens, or meat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Seeufer-Promenade",
+            "tip": "Finden Sie eine Bank und beobachten Sie die Boote und die ruhige Wasseroberfläche.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gassen der Festung",
+            "tip": "Verlieren Sie sich in den ruhigen, engen Gassen innerhalb der Burgmauern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Litharitsia Park",
+            "tip": "Ein kleiner Park in der Nähe des Archäologischen Museums, ideal für eine kurze Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tóparti sétány",
+            "tip": "Keressen egy padot, és nézze a csónakokat és a nyugodt vízfelületet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az erőd sikátorai",
+            "tip": "Vesszen el a várfalakon belüli csendes, szűk sikátorokban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Litharitsia Park",
+            "tip": "Egy kis park a Régészeti Múzeum közelében, ideális egy rövid pihenőre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe malul lacului",
+            "tip": "Găsiți o bancă și priviți bărcile și suprafața calmă a apei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aleile cetății",
+            "tip": "Pierdeți-vă pe aleile liniștite și înguste din interiorul zidurilor castelului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Litharitsia",
+            "tip": "Un parc mic lângă Muzeul Arheologic, perfect pentru o pauză scurtă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside Promenade",
+            "tip": "Find a bench and watch the boats and the calm water surface.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alleys of the Fortress",
+            "tip": "Get lost in the quiet, narrow alleys inside the castle walls.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Litharitsia Park",
+            "tip": "A small park near the Archaeological Museum, perfect for a short break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Silberschmuck",
+            "tip": "Ioannina ist berühmt für seine Silberschmiedekunst; suchen Sie nach einzigartigen handgefertigten Stücken."
+          },
+          {
+            "name": "Lokale Produkte",
+            "tip": "Besuchen Sie die Geschäfte in der Averof-Straße für Käse, Kräuter und andere lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ezüst ékszerek",
+            "tip": "Joánina híres az ezüstművességéről; keressen egyedi, kézzel készített darabokat."
+          },
+          {
+            "name": "Helyi termékek",
+            "tip": "Látogasson el az Averof utcai üzletekbe sajtokért, fűszerekért és egyéb helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii din argint",
+            "tip": "Ioannina este renumită pentru argintăria sa; căutați piese unice, lucrate manual."
+          },
+          {
+            "name": "Produse locale",
+            "tip": "Vizitați magazinele de pe strada Averof pentru brânzeturi, ierburi și alte produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silver jewelry",
+            "tip": "Ioannina is famous for its silversmithing; look for unique handmade pieces."
+          },
+          {
+            "name": "Local products",
+            "tip": "Visit the shops on Averof Street for cheese, herbs, and other local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt und die Festung Kopfsteinpflaster haben.",
+          "Nehmen Sie Wasser mit, besonders in den Sommermonaten.",
+          "Die meisten Museen sind montags geschlossen, überprüfen Sie die Öffnungszeiten im Voraus.",
+          "Seien Sie respektvoll beim Betreten von religiösen Stätten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros és az erőd macskaköves.",
+          "Vigyen magával vizet, különösen a nyári hónapokban.",
+          "A legtöbb múzeum hétfőn zárva tart, ellenőrizze a nyitvatartási időt előre.",
+          "Legyen tisztelettudó a vallási helyszínekre való belépéskor."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece orașul vechi și cetatea au străzi pavate.",
+          "Luați apă cu dvs., mai ales în lunile de vară.",
+          "Majoritatea muzeelor sunt închise lunea, verificați programul în avans.",
+          "Fiți respectuos la intrarea în lăcașurile de cult."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town and fortress have cobblestone streets.",
+          "Bring water with you, especially during the summer months.",
+          "Most museums are closed on Mondays, check opening hours in advance.",
+          "Be respectful when entering religious sites."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Seeufer-Promenade",
+            "hu": "Tóparti sétány",
+            "ro": "Promenada de pe malul lacului",
+            "en": "Lakeside Promenade"
+          },
+          "coords": [
+            20.852,
+            39.666
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einer erfrischenden Radtour entlang des Sees.",
+            "hu": "Kezdje a napot egy frissítő kerékpártúrával a tó mentén.",
+            "ro": "Începeți ziua cu o plimbare revigorantă cu bicicleta de-a lungul lacului.",
+            "en": "Start the day with a refreshing bike ride along the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Ioannina",
+            "hu": "Joáninai Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Ioannina",
+            "en": "Archaeological Museum of Ioannina"
+          },
+          "coords": [
+            20.8545,
+            39.6635
+          ],
+          "category": "museums",
+          "arrive_at": "10:06",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und tauchen Sie in die Geschichte ein.",
+            "hu": "Zárja le a kerékpárját a közelben, és merüljön el a történelemben.",
+            "ro": "Legați-vă bicicleta în apropiere și scufundați-vă în istorie.",
+            "en": "Lock your bike nearby and dive into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung von Ioannina (Its Kale)",
+            "hu": "Joáninai erőd (Its Kale)",
+            "ro": "Cetatea Ioannina (Its Kale)",
+            "en": "Fortress of Ioannina (Its Kale)"
+          },
+          "coords": [
+            20.858,
+            39.669
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:42",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Eingang ab und erkunden Sie die riesige Festung zu Fuß.",
+            "hu": "Hagyja a kerékpárt a bejáratnál, és fedezze fel gyalog a hatalmas erődöt.",
+            "ro": "Lăsați bicicleta la intrare și explorați cetatea vastă pe jos.",
+            "en": "Park your bike at the entrance and explore the vast fortress on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Silberschmiede-Museum",
+            "hu": "Ezüstműves Múzeum",
+            "ro": "Muzeul de Argintărie",
+            "en": "Silversmithing Museum"
+          },
+          "coords": [
+            20.859,
+            39.67
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang innerhalb der Festungsmauern führt Sie zu diesem Juwel.",
+            "hu": "Egy rövid séta az erődfalakon belül elvezeti Önt ehhez a gyöngyszemhez.",
+            "ro": "O scurtă plimbare în interiorul zidurilor cetății vă va duce la această bijuterie.",
+            "en": "A short walk inside the fortress walls will take you to this gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Fähranleger zur Insel",
+            "hu": "Kompkikötő a szigetre",
+            "ro": "Debarcader pentru insulă",
+            "en": "Ferry Pier to the Island"
+          },
+          "coords": [
+            20.858,
+            39.674
+          ],
+          "category": "transport",
+          "arrive_at": "15:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie eine Bootsfahrt zur Insel für eine andere Perspektive. Die Fahrt selbst ist malerisch.",
+            "hu": "Tegyen egy hajókirándulást a szigetre egy másik perspektíváért. Maga az utazás is festői.",
+            "ro": "Faceți o excursie cu barca pe insulă pentru o perspectivă diferită. Călătoria în sine este pitorească.",
+            "en": "Take a boat trip to the island for a different perspective. The ride itself is scenic."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour um den See",
+            "hu": "Kerékpártúra a tó körül",
+            "ro": "Tur cu bicicleta în jurul lacului",
+            "en": "Bike ride around the lake"
+          },
+          "coords": [
+            20.84,
+            39.67
+          ],
+          "category": "activity",
+          "arrive_at": "16:54",
+          "stay_min": 10,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie den Tag mit einer längeren Fahrt auf dem Radweg ab, der den See umgibt.",
+            "hu": "Zárja a napot egy hosszabb tekeréssel a tavat körülvevő kerékpárúton.",
+            "ro": "Încheiați ziua cu o plimbare mai lungă pe pista de biciclete care înconjoară lacul.",
+            "en": "End the day with a longer ride on the cycle path that surrounds the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Radtour entlang des malerischen Pamvotida-Sees. Radeln Sie weiter zum Archäologischen Museum, um in die Vergangenheit einzutauchen, bevor Sie die beeindruckende Festung erklimmen. Innerhalb der Mauern entdecken Sie die Silberschmiedekunst. Am Nachmittag bringt Sie eine kurze Fahrt zum Fähranleger für einen Ausflug zur Insel Ioannina. Schließen Sie Ihr Abenteuer mit einer ausgedehnten Radtour um den See ab und genießen Sie die kühle Brise und die atemberaubende Landschaft.",
+        "hu": "Kezdje a napot egy kerékpártúrával a festői Pamvotida-tó mentén. Tekerjen tovább a Régészeti Múzeumhoz, hogy elmerüljön a múltban, mielőtt megmászná a lenyűgöző erődöt. A falakon belül fedezze fel az ezüstművességet. Délután egy rövid út vezet a kompkikötőhöz egy kirándulásra a Joánina-szigetre. Zárja kalandját egy hosszabb kerékpártúrával a tó körül, élvezve a hűs szellőt és a lélegzetelállító tájat.",
+        "ro": "Începeți ziua cu o plimbare cu bicicleta de-a lungul pitorescului lac Pamvotida. Continuați cu bicicleta la Muzeul Arheologic pentru o scufundare în trecut, înainte de a urca la impunătoarea cetate. În interiorul zidurilor, descoperiți măiestria argintăriei. După-amiaza, o scurtă plimbare vă duce la debarcader pentru o excursie pe insula Ioannina. Încheiați-vă aventura cu o plimbare extinsă cu bicicleta în jurul lacului, bucurându-vă de briza răcoroasă și de peisajul uimitor.",
+        "en": "Start your day cycling along the scenic Lake Pamvotida. Pedal on to the Archaeological Museum for a dive into the past before tackling the impressive fortress. Inside the walls, discover the art of silversmithing. In the afternoon, a short ride takes you to the ferry pier for a trip to Ioannina Island. Conclude your adventure with an extended bike ride around the lake, enjoying the cool breeze and stunning scenery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bougatsa",
+            "tip": "Ein süßes oder herzhaftes Gebäck, perfekt für ein schnelles Frühstück."
+          },
+          {
+            "name": "Gegrillter Aal",
+            "tip": "Eine Spezialität aus dem See, die man in den Tavernen am Ufer probieren kann."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "Ein lokaler Tresterbrand, der oft mit kleinen Gerichten (Mezedes) serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bougatsa",
+            "tip": "Édes vagy sós péksütemény, tökéletes egy gyors reggelihez."
+          },
+          {
+            "name": "Grillezett angolna",
+            "tip": "A tóból származó specialitás, amelyet a parti tavernákban kóstolhat meg."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "Helyi törkölypálinka, amelyet gyakran kis ételekkel (mezedes) szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bougatsa",
+            "tip": "Un produs de patiserie dulce sau sărat, perfect pentru un mic dejun rapid."
+          },
+          {
+            "name": "Anghilă la grătar",
+            "tip": "O specialitate de lac de încercat în tavernele de pe mal."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "O rachiu local din tescovină, adesea servit cu mici feluri de mâncare (mezedes)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bougatsa",
+            "tip": "A sweet or savory pastry, perfect for a quick breakfast."
+          },
+          {
+            "name": "Grilled eel",
+            "tip": "A lake specialty to try at the lakeside tavernas."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "A local pomace brandy, often served with small dishes (mezedes)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "See-Radweg",
+            "tip": "Die Abschnitte, die weiter von der Stadt entfernt sind, bieten Ruhe und Vogelbeobachtungsmöglichkeiten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kloster auf der Insel",
+            "tip": "Besuchen Sie die ruhigen Klöster auf der Insel Ioannina.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am See",
+            "tip": "Finden Sie einen Platz am westlichen Ufer, um den Sonnenuntergang zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavi kerékpárút",
+            "tip": "A várostól távolabbi szakaszok nyugalmat és madármegfigyelési lehetőségeket kínálnak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kolostor a szigeten",
+            "tip": "Látogassa meg a csendes kolostorokat a Joánina-szigeten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a tónál",
+            "tip": "Keressen egy helyet a nyugati parton a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete a lacului",
+            "tip": "Secțiunile mai îndepărtate de oraș oferă liniște și oportunități de observare a păsărilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mănăstiri pe insulă",
+            "tip": "Vizitați mănăstirile liniștite de pe insula Ioannina.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare pe lac",
+            "tip": "Găsiți un loc pe malul vestic pentru a privi apusul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake cycle path",
+            "tip": "The sections further from the city offer tranquility and birdwatching opportunities.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monasteries on the Island",
+            "tip": "Visit the quiet monasteries on Ioannina Island.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset by the lake",
+            "tip": "Find a spot on the western shore to watch the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih",
+            "tip": "Mehrere Geschäfte in der Nähe des Sees bieten Fahrräder für jeden Bedarf an."
+          },
+          {
+            "name": "Handgefertigter Schmuck",
+            "tip": "Kaufen Sie in den Werkstätten innerhalb der Festung einzigartige Stücke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönző",
+            "tip": "A tó közelében több üzlet is kínál kerékpárokat minden igényre."
+          },
+          {
+            "name": "Kézzel készített ékszerek",
+            "tip": "Vásároljon egyedi darabokat az erődön belüli műhelyekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închirieri de biciclete",
+            "tip": "Mai multe magazine lângă lac oferă biciclete pentru toate nevoile."
+          },
+          {
+            "name": "Bijuterii artizanale",
+            "tip": "Cumpărați piese unice de la atelierele din interiorul cetății."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike rentals",
+            "tip": "Several shops near the lake offer bikes for all needs."
+          },
+          {
+            "name": "Handmade jewelry",
+            "tip": "Shop for unique pieces from the workshops inside the fortress."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Zustand des Fahrrads, bevor Sie es mieten.",
+          "Der Radweg um den See ist größtenteils flach und für alle Fitnesslevel geeignet.",
+          "Nehmen Sie ein Schloss mit, um das Fahrrad sicher abzustellen, während Sie Sehenswürdigkeiten besichtigen.",
+          "Achten Sie auf Fußgänger auf der Promenade."
+        ],
+        "hu": [
+          "Ellenőrizze a kerékpár állapotát a bérlés előtt.",
+          "A tó körüli kerékpárút többnyire sík és minden edzettségi szintnek megfelel.",
+          "Vigyen magával lakatot, hogy biztonságosan lezárja a kerékpárt a látnivalók megtekintése közben.",
+          "Vigyázzon a gyalogosokra a sétányon."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a o închiria.",
+          "Pista de biciclete din jurul lacului este în mare parte plată și potrivită pentru toate nivelurile de fitness.",
+          "Luați un lacăt pentru a asigura bicicleta în timp ce vizitați obiectivele turistice.",
+          "Fiți atenți la pietonii de pe promenadă."
+        ],
+        "en": [
+          "Check the condition of the bike before renting.",
+          "The cycle path around the lake is mostly flat and suitable for all fitness levels.",
+          "Bring a lock to secure the bike while you are sightseeing.",
+          "Be mindful of pedestrians on the promenade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:28",
+      "total_km": 15.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Perama Höhle",
+            "hu": "Perama-barlang",
+            "ro": "Peștera Perama",
+            "en": "Perama Cave"
+          },
+          "coords": [
+            20.849,
+            39.694
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie früh, um den Menschenmassen in dieser beeindruckenden Höhle zu entgehen. Die Führung ist informativ.",
+            "hu": "Kezdje korán, hogy elkerülje a tömeget ebben a lenyűgöző barlangban. A vezetett túra informatív.",
+            "ro": "Începeți devreme pentru a evita aglomerația la această peșteră impresionantă. Turul ghidat este informativ.",
+            "en": "Start early to avoid the crowds at this impressive cave. The guided tour is informative."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken am Fähranleger",
+            "hu": "Parkolás a kompkikötőnél",
+            "ro": "Parcare la debarcader",
+            "en": "Parking at the Ferry Pier"
+          },
+          "coords": [
+            20.858,
+            39.674
+          ],
+          "category": "transport",
+          "arrive_at": "11:20",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto hier stehen und nehmen Sie die Fähre zur Insel.",
+            "hu": "Hagyja itt az autót, és menjen komppal a szigetre.",
+            "ro": "Lăsați mașina aici și luați feribotul spre insulă.",
+            "en": "Leave the car here and take the ferry to the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel von Ioannina",
+            "hu": "Joánina-sziget",
+            "ro": "Insula Ioannina",
+            "en": "Island of Ioannina"
+          },
+          "coords": [
+            20.855,
+            39.676
+          ],
+          "category": "island",
+          "arrive_at": "11:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das autofreie Dorf und genießen Sie die friedliche Atmosphäre.",
+            "hu": "Sétáljon végig az autómentes falun, és élvezze a békés hangulatot.",
+            "ro": "Plimbați-vă prin satul fără mașini și bucurați-vă de atmosfera liniștită.",
+            "en": "Stroll through the car-free village and enjoy the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Ali Pascha Museum",
+            "hu": "Ali Pasa Múzeum",
+            "ro": "Muzeul Ali Pașa",
+            "en": "Ali Pasha Museum"
+          },
+          "coords": [
+            20.856,
+            39.675
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die faszinierende und rücksichtslose Figur, die die Region beherrschte.",
+            "hu": "Tudjon meg többet a régiót uraló lenyűgöző és könyörtelen figuráról.",
+            "ro": "Aflați despre personajul fascinant și nemilos care a condus regiunea.",
+            "en": "Learn about the fascinating and ruthless figure who ruled the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen auf der Insel",
+            "hu": "Ebéd a szigeten",
+            "ro": "Prânz pe insulă",
+            "en": "Lunch on the Island"
+          },
+          "coords": [
+            20.8555,
+            39.677
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie frischen Fisch in einer der Tavernen am Wasser.",
+            "hu": "Élvezze a friss halat az egyik vízparti tavernban.",
+            "ro": "Bucurați-vă de pește proaspăt la una dintre tavernele de pe malul apei.",
+            "en": "Enjoy fresh fish at one of the waterside tavernas."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung von Ioannina (Its Kale)",
+            "hu": "Joáninai erőd (Its Kale)",
+            "ro": "Cetatea Ioannina (Its Kale)",
+            "en": "Fortress of Ioannina (Its Kale)"
+          },
+          "coords": [
+            20.858,
+            39.669
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:24",
+          "stay_min": 120,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie außerhalb der Mauern und erkunden Sie den Its-Kale-Abschnitt.",
+            "hu": "Parkoljon a falakon kívül, és fedezze fel az Its Kale részt.",
+            "ro": "Parcați în afara zidurilor și explorați secțiunea Its Kale.",
+            "en": "Park outside the walls and explore the Its Kale section."
+          }
+        },
+        {
+          "name": {
+            "de": "Silberschmiede-Museum",
+            "hu": "Ezüstműves Múzeum",
+            "ro": "Muzeul de Argintărie",
+            "en": "Silversmithing Museum"
+          },
+          "coords": [
+            20.859,
+            39.67
+          ],
+          "category": "museums",
+          "arrive_at": "17:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss, um die lokale Handwerkskunst zu verstehen. Es befindet sich innerhalb der Festung.",
+            "hu": "Kötelező látnivaló a helyi kézművesség megértéséhez. Az erődben található.",
+            "ro": "O vizită obligatorie pentru a înțelege meșteșugul local. Este situat în interiorul cetății.",
+            "en": "A must-see to understand the local craft. It's located inside the fortress."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Abenteuer mit einer Fahrt zur beeindruckenden Perama-Höhle. Mittags fahren Sie zum Seeufer, parken Ihr Auto und nehmen die Fähre zur ruhigen Insel Ioannina, wo Sie das Ali-Pascha-Museum besuchen und zu Mittag essen. Am Nachmittag kehren Sie zum Festland zurück und fahren zur historischen Festung von Ioannina. Verbringen Sie den Rest des Tages damit, die alten Mauern und das faszinierende Silberschmiede-Museum innerhalb des Its-Kale-Komplexes zu erkunden.",
+        "hu": "Kezdje a kalandot egy autózással a lenyűgöző Perama-barlanghoz. Délben hajtson a tóparthoz, parkolja le az autót, és komppal menjen át a nyugodt Joánina-szigetre, ahol meglátogatja az Ali Pasa Múzeumot és megebédel. Délután térjen vissza a szárazföldre, és vezessen a történelmi Joánina erődhöz. Töltse a nap hátralévő részét az ősi falak és a lenyűgöző Ezüstműves Múzeum felfedezésével az Its Kale komplexumon belül.",
+        "ro": "Începeți-vă aventura cu o călătorie cu mașina până la impresionanta Peșteră Perama. La prânz, conduceți până pe malul lacului, parcați mașina și luați feribotul spre liniștita Insulă Ioannina pentru a vizita Muzeul Ali Pașa și a lua prânzul. După-amiaza, reveniți pe continent și conduceți spre istorica Cetate a Ioanninei. Petreceți restul zilei explorând zidurile antice și fascinantul Muzeu de Argintărie din interiorul complexului Its Kale.",
+        "en": "Start your adventure with a drive to the impressive Perama Cave. At midday, drive to the lakeside, park your car, and take the ferry to the tranquil Ioannina Island to visit the Ali Pasha Museum and have lunch. In the afternoon, return to the mainland and drive to the historic Fortress of Ioannina. Spend the rest of your day exploring the ancient walls and the fascinating Silversmithing Museum within the Its Kale complex."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seefisch",
+            "tip": "Probieren Sie frischen Fisch oder Aal in den Tavernen auf der Insel."
+          },
+          {
+            "name": "Kadayif/Baklava",
+            "tip": "Süße Desserts, die in vielen Konditoreien in der Stadt erhältlich sind."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Die Region Epirus produziert einige ausgezeichnete Weine, insbesondere aus der Rebsorte Debina."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavi hal",
+            "tip": "Kóstoljon friss halat vagy angolnát a szigeti tavernákban."
+          },
+          {
+            "name": "Kadayif/Baklava",
+            "tip": "Édes desszertek, amelyek a város számos cukrászdájában kaphatók."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "Az Epirusz régió kiváló borokat termel, különösen a Debina szőlőfajtából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește de lac",
+            "tip": "Încercați pește proaspăt sau anghilă la tavernele de pe insulă."
+          },
+          {
+            "name": "Cataif/Baklava",
+            "tip": "Deserturi dulci disponibile la multe patiserii din oraș."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Regiunea Epirus produce vinuri excelente, în special din soiul de struguri Debina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake fish",
+            "tip": "Try fresh fish or eel at the tavernas on the island."
+          },
+          {
+            "name": "Kadayif/Baklava",
+            "tip": "Sweet desserts available at many pastry shops in town."
+          },
+          {
+            "name": "Local wines",
+            "tip": "The Epirus region produces some excellent wines, especially from the Debina grape."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dorf auf der Insel",
+            "tip": "Die autofreien Gassen bieten eine friedliche Flucht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Perama Höhle",
+            "tip": "Trotz der Führungen gibt es Momente der Stille in den tiefen Kammern.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von der Festung",
+            "tip": "Finden Sie einen ruhigen Platz auf den Mauern, um den Sonnenuntergang zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falu a szigeten",
+            "tip": "Az autómentes sikátorok békés menedéket nyújtanak.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Perama-barlang",
+            "tip": "A vezetett túrák ellenére vannak csendes pillanatok a mély kamrákban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az erődből",
+            "tip": "Keressen egy csendes helyet a falakon a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Satul de pe insulă",
+            "tip": "Aleile fără mașini oferă o evadare pașnică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Peștera Perama",
+            "tip": "În ciuda tururilor ghidate, există momente de liniște în camerele adânci.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la cetate",
+            "tip": "Găsiți un loc liniștit pe ziduri pentru a privi apusul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Village on the Island",
+            "tip": "The car-free alleys offer a peaceful escape.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Perama Cave",
+            "tip": "Despite the guided tours, there are moments of silence in the deep chambers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Fortress",
+            "tip": "Find a quiet spot on the walls to watch the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus der Höhle",
+            "tip": "Der Souvenirladen in der Perama-Höhle verkauft einzigartige Mineralien und Andenken."
+          },
+          {
+            "name": "Insel-Handwerk",
+            "tip": "Kleine Geschäfte auf der Insel verkaufen lokale Kunst und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barlangi szuvenírek",
+            "tip": "A Perama-barlang ajándékboltja egyedi ásványokat és emléktárgyakat árul."
+          },
+          {
+            "name": "Szigeti kézműves termékek",
+            "tip": "A sziget kis üzletei helyi művészeti és kézműves termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la peșteră",
+            "tip": "Magazinul de suveniruri de la Peștera Perama vinde minerale unice și amintiri."
+          },
+          {
+            "name": "Artizanat de pe insulă",
+            "tip": "Micile magazine de pe insulă vând artă și meșteșuguri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cave souvenirs",
+            "tip": "The gift shop at Perama Cave sells unique minerals and mementos."
+          },
+          {
+            "name": "Island crafts",
+            "tip": "Small shops on the island sell local art and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Fährzeiten zur Insel im Voraus.",
+          "In der Höhle kann es kühl sein, bringen Sie eine leichte Jacke mit.",
+          "Das Parken in der Nähe der Festung kann schwierig sein, seien Sie geduldig.",
+          "Kaufen Sie ein Kombiticket, wenn es für die Museen der Festung verfügbar ist."
+        ],
+        "hu": [
+          "Ellenőrizze előre a kompok menetrendjét a szigetre.",
+          "A barlangban hűvös lehet, vigyen magával egy könnyű dzsekit.",
+          "A parkolás az erőd közelében nehézkes lehet, legyen türelmes.",
+          "Vásároljon kombinált jegyet, ha elérhető az erőd múzeumaihoz."
+        ],
+        "ro": [
+          "Verificați din timp programul feribotului către insulă.",
+          "Poate fi răcoare în peșteră, aduceți o jachetă subțire.",
+          "Parcarea lângă cetate poate fi dificilă, aveți răbdare.",
+          "Cumpărați un bilet combinat dacă este disponibil pentru muzeele din cetate."
+        ],
+        "en": [
+          "Check the ferry schedule to the island in advance.",
+          "It can be cool inside the cave, bring a light jacket.",
+          "Parking near the fortress can be challenging, be patient.",
+          "Buy a combo ticket if available for the fortress museums."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum von Ioannina",
+            "hu": "Joáninai Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Ioannina",
+            "en": "Archaeological Museum of Ioannina"
+          },
+          "coords": [
+            20.8545,
+            39.6635
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zentralen Platz (Platia Pyrrou), das Museum ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "Menjen busszal a központi térre (Platia Pyrrou), a múzeum egy rövid sétára található.",
+            "ro": "Luați un autobuz până în piața centrală (Platia Pyrrou), muzeul este la o scurtă plimbare.",
+            "en": "Take a bus to the central square (Platia Pyrrou), the museum is a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung von Ioannina (Kastro)",
+            "hu": "Joáninai erőd (Kastro)",
+            "ro": "Cetatea Ioannina (Kastro)",
+            "en": "Fortress of Ioannina (Kastro)"
+          },
+          "coords": [
+            20.858,
+            39.669
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine Busfahrt bringt Sie näher an den Eingang der alten Festung.",
+            "hu": "Egy buszozás közelebb visz az ősi erőd bejáratához.",
+            "ro": "O călătorie cu autobuzul vă va aduce mai aproape de intrarea în vechea cetate.",
+            "en": "A bus ride will get you closer to the entrance of the old fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Aslan Pascha Moschee & Silberschmiede-Museum",
+            "hu": "Aslan Pasa Mecset és Ezüstműves Múzeum",
+            "ro": "Moscheea Aslan Pașa și Muzeul de Argintărie",
+            "en": "Aslan Pasha Mosque & Silversmithing Museum"
+          },
+          "coords": [
+            20.8585,
+            39.671
+          ],
+          "category": "museums",
+          "arrive_at": "11:54",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Museen liegen nahe beieinander im Its-Kale-Teil der Festung.",
+            "hu": "Ez a két múzeum közel van egymáshoz az erőd Its Kale részében.",
+            "ro": "Aceste două muzee sunt apropiate unul de celălalt în secțiunea Its Kale a cetății.",
+            "en": "These two museums are close together within the Its Kale section of the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Festung",
+            "hu": "Ebéd az erődben",
+            "ro": "Prânz în cetate",
+            "en": "Lunch inside the Fortress"
+          },
+          "coords": [
+            20.857,
+            39.67
+          ],
+          "category": "gastro",
+          "arrive_at": "13:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt einige charmante Tavernen in den Mauern, die traditionelle Gerichte servieren.",
+            "hu": "Van néhány bájos taverna a falakon belül, amelyek hagyományos ételeket szolgálnak fel.",
+            "ro": "Există câteva taverne fermecătoare în interiorul zidurilor care servesc mâncăruri tradiționale.",
+            "en": "There are a few charming tavernas within the walls serving traditional food."
+          }
+        },
+        {
+          "name": {
+            "de": "Fähranleger zur Insel",
+            "hu": "Kompkikötő a szigetre",
+            "ro": "Debarcader pentru insulă",
+            "en": "Ferry Pier to the Island"
+          },
+          "coords": [
+            20.858,
+            39.674
+          ],
+          "category": "transport",
+          "arrive_at": "15:21",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Fähranleger. Die Fahrt ist kurz.",
+            "hu": "Menjen busszal a kompkikötőhöz. Az út rövid.",
+            "ro": "Luați un autobuz până la debarcader. Călătoria este scurtă.",
+            "en": "Take a bus to the ferry pier. The ride is short."
+          }
+        },
+        {
+          "name": {
+            "de": "Ali Pascha Museum & Inselerkundung",
+            "hu": "Ali Pasa Múzeum és szigetfelfedezés",
+            "ro": "Muzeul Ali Pașa și explorarea insulei",
+            "en": "Ali Pasha Museum & Island Exploration"
+          },
+          "coords": [
+            20.856,
+            39.675
+          ],
+          "category": "activity",
+          "arrive_at": "16:08",
+          "stay_min": 87,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach der Fährfahrt erkunden Sie die Insel zu Fuß und besuchen das Museum.",
+            "hu": "A kompút után fedezze fel gyalog a szigetet, és látogassa meg a múzeumot.",
+            "ro": "După călătoria cu feribotul, explorați insula pe jos și vizitați muzeul.",
+            "en": "After the ferry ride, explore the island on foot and visit the museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel der Stadt für einen erlebnisreichen Tag. Beginnen Sie im Archäologischen Museum und nehmen Sie dann einen Bus zur historischen Festung von Ioannina. Erkunden Sie mittags die Museen und Gassen innerhalb der Mauern. Am Nachmittag bringt Sie ein weiterer Bus zum Fähranleger, von wo aus Sie auf die malerische Insel übersetzen. Verbringen Sie den Rest des Tages damit, das Ali-Pascha-Museum zu erkunden und die ruhige Atmosphäre der Insel zu genießen, bevor Sie mit der Fähre und dem Bus zurückkehren.",
+        "hu": "Használja a város tömegközlekedését egy eseménydús naphoz. Kezdje a Régészeti Múzeumban, majd szálljon buszra a történelmi Joánina erődhöz. Délben fedezze fel a falakon belüli múzeumokat és sikátorokat. Délután egy másik busz elviszi a kompkikötőhöz, ahonnan átkelhet a festői szigetre. Töltse a nap hátralévő részét az Ali Pasa Múzeum felfedezésével és a sziget nyugodt légkörének élvezetével, mielőtt visszatérne komppal és busszal.",
+        "ro": "Folosiți transportul public al orașului pentru o zi plină de evenimente. Începeți la Muzeul Arheologic, apoi luați un autobuz spre istorica Cetate a Ioanninei. La prânz, explorați muzeele și aleile din interiorul zidurilor. După-amiaza, un alt autobuz vă va duce la debarcader, de unde veți traversa spre pitoreasca insulă. Petreceți restul zilei explorând Muzeul Ali Pașa și bucurându-vă de atmosfera liniștită a insulei înainte de a vă întoarce cu feribotul și autobuzul.",
+        "en": "Utilize the city's public transport for an eventful day. Start at the Archaeological Museum, then take a bus to the historic Fortress of Ioannina. At midday, explore the museums and alleys within the walls. In the afternoon, another bus will take you to the ferry pier, from where you'll cross to the picturesque island. Spend the rest of your day exploring the Ali Pasha Museum and enjoying the island's tranquil atmosphere before returning by ferry and bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Koulouri",
+            "tip": "Ein Sesamkringel, den man von Straßenverkäufern für einen schnellen Snack kaufen kann."
+          },
+          {
+            "name": "Griechischer Kaffee",
+            "tip": "Genießen Sie einen langsam gebrühten Kaffee in einem traditionellen 'Kafeneio'."
+          },
+          {
+            "name": "Joghurt mit Honig",
+            "tip": "Ein einfacher, aber köstlicher Leckerbissen, der überall erhältlich ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Koulouri",
+            "tip": "Szezámmagos perec, amelyet utcai árusoktól vásárolhat egy gyors harapnivalóért."
+          },
+          {
+            "name": "Görög kávé",
+            "tip": "Élvezzen egy lassan főzött kávét egy hagyományos 'Kafeneio'-ban."
+          },
+          {
+            "name": "Joghurt mézzel",
+            "tip": "Egyszerű, de finom csemege, mindenhol kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Koulouri",
+            "tip": "Un covrig cu susan cumpărat de la vânzătorii ambulanți pentru o gustare rapidă."
+          },
+          {
+            "name": "Cafea grecească",
+            "tip": "Bucurați-vă de o cafea preparată lent la un 'kafeneio' tradițional."
+          },
+          {
+            "name": "Iaurt cu miere",
+            "tip": "Un deliciu simplu, dar delicios, disponibil peste tot."
+          }
+        ],
+        "en": [
+          {
+            "name": "Koulouri",
+            "tip": "A sesame bread ring bought from street vendors for a quick snack."
+          },
+          {
+            "name": "Greek Coffee",
+            "tip": "Enjoy a slowly brewed coffee at a traditional 'kafeneio'."
+          },
+          {
+            "name": "Yogurt with honey",
+            "tip": "A simple yet delicious treat available everywhere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fährfahrt",
+            "tip": "Die 10-minütige Fahrt über den See ist eine friedliche Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klostergärten auf der Insel",
+            "tip": "Finden Sie Ruhe in den Gärten der alten Klöster.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Obere Festungsmauern",
+            "tip": "Entfliehen Sie dem Trubel und genießen Sie die Aussicht von den oberen Ebenen der Festung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kompút",
+            "tip": "A 10 perces út a tavon át békés pihenést nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kolostorkertek a szigeten",
+            "tip": "Találjon nyugalmat az ősi kolostorok kertjeiben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Felső erődfalak",
+            "tip": "Meneküljön el a nyüzsgés elől, és élvezze a kilátást az erőd felső szintjeiről.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu feribotul",
+            "tip": "Călătoria de 10 minute peste lac este o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile mănăstirilor de pe insulă",
+            "tip": "Găsiți liniște în grădinile vechilor mănăstiri.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Zidurile superioare ale cetății",
+            "tip": "Evadați din agitație și bucurați-vă de priveliștea de la nivelurile superioare ale cetății.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ferry Ride",
+            "tip": "The 10-minute journey across the lake is a peaceful break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monastery gardens on the island",
+            "tip": "Find quiet in the gardens of the old monasteries.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Upper Fortress Walls",
+            "tip": "Escape the crowds and enjoy the views from the upper levels of the fortress.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentralmarkt (Laiki)",
+            "tip": "Wenn Sie an einem Markttag dort sind, können Sie lokale Produkte und Haushaltswaren durchstöbern."
+          },
+          {
+            "name": "Averof Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen und nationalen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac (Laiki)",
+            "tip": "Ha piacnapon van ott, böngészhet a helyi termékek és háztartási cikkek között."
+          },
+          {
+            "name": "Averof utca",
+            "tip": "A fő bevásárlóutca helyi és országos üzletek keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală (Laiki)",
+            "tip": "Dacă sunteți acolo într-o zi de piață, răsfoiți produsele locale și articolele de uz casnic."
+          },
+          {
+            "name": "Strada Averof",
+            "tip": "Principala stradă comercială cu un amestec de magazine locale și naționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market (Laiki)",
+            "tip": "If you're there on a market day, browse local produce and household goods."
+          },
+          {
+            "name": "Averof Street",
+            "tip": "The main shopping street with a mix of local and national stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets in Kiosken (Periptera), bevor Sie in den Bus einsteigen.",
+          "Validieren Sie Ihr Ticket, wenn Sie in den Bus einsteigen, um ein Bußgeld zu vermeiden.",
+          "Die Busfahrpläne können sich ändern, überprüfen Sie sie online oder an den Haltestellen.",
+          "Laden Sie eine Offline-Karte oder eine Nahverkehrs-App herunter, um sich zurechtzufinden."
+        ],
+        "hu": [
+          "Vásároljon buszjegyet kioszkokban (Periptera), mielőtt felszáll a buszra.",
+          "Érvényesítse a jegyét, amikor felszáll a buszra, hogy elkerülje a büntetést.",
+          "A buszmenetrendek változhatnak, ellenőrizze őket online vagy a megállókban.",
+          "Töltsön le egy offline térképet vagy egy tömegközlekedési alkalmazást a tájékozódáshoz."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz de la chioșcuri (Periptera) înainte de a urca în autobuz.",
+          "Validați biletul la urcarea în autobuz pentru a evita o amendă.",
+          "Orarele autobuzelor se pot schimba, verificați online или la stații.",
+          "Descărcați o hartă offline sau o aplicație de transport public pentru a vă orienta."
+        ],
+        "en": [
+          "Buy bus tickets from kiosks (periptera) before boarding.",
+          "Validate your ticket when you get on the bus to avoid a fine.",
+          "Bus schedules can change, check online or at the stops.",
+          "Download an offline map or a public transport app to help you navigate."
+        ]
+      }
+    }
+  }
+}

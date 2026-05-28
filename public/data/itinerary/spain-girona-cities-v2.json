@@ -1,0 +1,1515 @@
+{
+  "city_id": "spain-girona-cities-v2",
+  "anchor": {
+    "name": "Girona",
+    "coords": [
+      2.8214,
+      41.9794
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 4.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaça de la Independència",
+            "hu": "Függetlenség tere (Plaça de la Independència)",
+            "ro": "Plaça de la Independència",
+            "en": "Plaça de la Independència"
+          },
+          "coords": [
+            2.8214,
+            41.986
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Arkadencafés.",
+            "hu": "Kezdje a napot egy kávéval az árkádok alatti kávézók egyikében!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele de sub arcade.",
+            "en": "Start the day with a coffee at one of the cafés under the arcades."
+          }
+        },
+        {
+          "name": {
+            "de": "Eiffels-Brücke (Pont de Ferro)",
+            "hu": "Eiffel-híd (Pont de Ferro)",
+            "ro": "Podul Eiffel (Pont de Ferro)",
+            "en": "Eiffel Bridge (Pont de Ferro)"
+          },
+          "coords": [
+            2.8248,
+            41.9845
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die rote Eisenkonstruktion ist ein Werk von Gustave Eiffel, bevor er den Eiffelturm baute.",
+            "hu": "A vörös vasszerkezet Gustave Eiffel műve, még az Eiffel-torony előtt készült.",
+            "ro": "Structura roșie de fier este o lucrare a lui Gustave Eiffel, înainte de a construi Turnul Eiffel.",
+            "en": "The red iron structure was designed by Gustave Eiffel's company before the Eiffel Tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Häuser am Onyar",
+            "hu": "Házak az Onyar folyó partján",
+            "ro": "Casele de pe râul Onyar",
+            "en": "Houses on the Onyar River"
+          },
+          "coords": [
+            2.8255,
+            41.9838
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der beste Fotospot ist von der Pont de Pedra oder der Eiffels-Brücke selbst.",
+            "hu": "A legjobb fotókat a Pont de Pedra kőhídról vagy magáról az Eiffel-hídról készítheted.",
+            "ro": "Cel mai bun loc pentru fotografii este de pe Pont de Pedra sau de pe Podul Eiffel.",
+            "en": "The best photo spot is from the Pont de Pedra (Stone Bridge) or the Eiffel Bridge itself."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel (El Call)",
+            "hu": "Zsidónegyed (El Call)",
+            "ro": "Cartierul Evreiesc (El Call)",
+            "en": "Jewish Quarter (El Call)"
+          },
+          "coords": [
+            2.826,
+            41.9865
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen; hier gibt es viele kleine Kunsthandwerksläden.",
+            "hu": "Vesszen el a szűk sikátorok labirintusában, tele van apró kézműves boltokkal.",
+            "ro": "Rătăciți-vă pe aleile înguste; veți găsi multe magazine mici de artizanat.",
+            "en": "Get lost in the narrow alleyways; you'll find many small artisan shops here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Girona",
+            "hu": "Gironai katedrális",
+            "ro": "Catedrala din Girona",
+            "en": "Girona Cathedral"
+          },
+          "coords": [
+            2.827,
+            41.987
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie die 90 Stufen empor und bewundern Sie das breiteste gotische Kirchenschiff der Welt.",
+            "hu": "Mássza meg a 90 lépcsőfokot, és csodálja meg a világ legszélesebb gótikus hajóját.",
+            "ro": "Urcați cele 90 de trepte și admirați cel mai lat naos gotic din lume.",
+            "en": "Climb the 90 steps and admire the widest Gothic nave in the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Arabische Bäder",
+            "hu": "Arab fürdők",
+            "ro": "Băile Arabe",
+            "en": "Arab Baths"
+          },
+          "coords": [
+            2.8275,
+            41.9878
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kleines, aber faszinierendes romanisches Bauwerk, das arabische Bäder imitiert.",
+            "hu": "Egy kicsi, de lenyűgöző román stílusú épület, amely az arab fürdőket utánozza.",
+            "ro": "O structură romanică mică, dar fascinantă, care imită băile arabe.",
+            "en": "A small but fascinating Romanesque structure imitating Arab baths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Sant Pere de Galligants",
+            "hu": "Sant Pere de Galligants kolostor",
+            "ro": "Mănăstirea Sant Pere de Galligants",
+            "en": "Monastery of Sant Pere de Galligants"
+          },
+          "coords": [
+            2.828,
+            41.989
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beherbergt heute das Archäologische Museum von Katalonien.",
+            "hu": "Ma Katalónia Régészeti Múzeumának ad otthont.",
+            "ro": "Astăzi găzduiește Muzeul de Arheologie al Cataloniei.",
+            "en": "Today it houses the Archaeology Museum of Catalonia."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern (Passeig de la Muralla)",
+            "hu": "Városfal (Passeig de la Muralla)",
+            "ro": "Zidurile orașului (Passeig de la Muralla)",
+            "en": "City Walls (Passeig de la Muralla)"
+          },
+          "coords": [
+            2.8285,
+            41.987
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der beste Abschnitt für einen Spaziergang am späten Nachmittag mit Blick auf die Pyrenäen.",
+            "hu": "A legjobb szakasz egy késő délutáni sétához, kilátással a Pireneusokra.",
+            "ro": "Cea mai bună porțiune pentru o plimbare la apus, cu vedere la Pirinei.",
+            "en": "The best section for a late afternoon walk, with views towards the Pyrenees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Girona ist eine Reise durch die Zeit. Am Morgen erkunden Sie die lebhafte Plaça de la Independència und überqueren die berühmte Eiffels-Brücke, um die farbenfrohen Häuser am Onyar zu bewundern. Mittags tauchen Sie in das Labyrinth des jüdischen Viertels ein, bevor Sie die beeindruckende Kathedrale besteigen. Der Nachmittag ist der Geschichte gewidmet, mit einem Besuch der Arabischen Bäder und des alten Klosters Sant Pere. Den krönenden Abschluss bildet ein Spaziergang auf den mittelalterlichen Stadtmauern, während die Sonne untergeht und die Stadt in goldenes Licht taucht.",
+        "hu": "Egy séta Gironában időutazás. Reggel fedezze fel a nyüzsgő Függetlenség teret, keljen át a híres Eiffel-hídon, hogy megcsodálhassa az Onyar folyó színes házait. Délben merüljön el a zsidónegyed labirintusában, mielőtt megmászná a lenyűgöző katedrálist. A délután a történelemé, az Arab fürdő és a régi Sant Pere kolostor meglátogatásával. A napot egy séta koronázza meg a középkori városfalakon, ahogy a lemenő nap arany fénybe borítja a várost.",
+        "ro": "O plimbare prin Girona este o călătorie în timp. Dimineața, explorați vibranta Plaça de la Independència și traversați faimosul Pod Eiffel pentru a admira casele colorate de pe Onyar. La prânz, pătrundeți în labirintul Cartierului Evreiesc înainte de a urca la impresionanta Catedrală. După-amiaza este dedicată istoriei, cu o vizită la Băile Arabe și la vechea mănăstire Sant Pere. Ziua se încheie perfect cu o plimbare pe zidurile medievale ale orașului, în timp ce soarele apune, scăldând orașul într-o lumină aurie.",
+        "en": "A walk through Girona is a journey through time. In the morning, explore the vibrant Plaça de la Independència and cross the famous Eiffel Bridge to admire the colorful houses on the Onyar. At midday, delve into the labyrinth of the Jewish Quarter before ascending to the impressive Cathedral. The afternoon is dedicated to history, with a visit to the Arab Baths and the ancient Sant Pere monastery. The day culminates with a stroll along the medieval city walls as the sun sets, bathing the city in a golden light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Xuixo",
+            "tip": "Ein lokales, mit Pudding gefülltes und mit Zucker bestreutes Gebäck. Probieren Sie es in der Pastisseria Can Castelló."
+          },
+          {
+            "name": "Botifarra dolça",
+            "tip": "Eine süße Wurst, eine einzigartige lokale Spezialität."
+          },
+          {
+            "name": "Ratafia",
+            "tip": "Ein Kräuterlikör, der oft als Digestif getrunken wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Xuixo (süsü)",
+            "tip": "Helyi, krémmel töltött, cukorral megszórt sütemény. Kóstolja meg a Pastisseria Can Castelló-ban."
+          },
+          {
+            "name": "Botifarra dolça",
+            "tip": "Édes kolbász, egy egyedülálló helyi különlegesség."
+          },
+          {
+            "name": "Ratafia",
+            "tip": "Gyógynövénylikőr, amelyet gyakran emésztéssegítőként fogyasztanak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Xuixo",
+            "tip": "Un produs de patiserie local, umplut cu cremă și presărat cu zahăr. Încercați-l la Pastisseria Can Castelló."
+          },
+          {
+            "name": "Botifarra dolça",
+            "tip": "Un cârnat dulce, o specialitate locală unică."
+          },
+          {
+            "name": "Ratafia",
+            "tip": "Un lichior de ierburi, adesea băut ca digestiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Xuixo",
+            "tip": "A local pastry filled with custard and sprinkled with sugar. Try it at Pastisseria Can Castelló."
+          },
+          {
+            "name": "Botifarra dolça",
+            "tip": "A sweet sausage, a unique local specialty."
+          },
+          {
+            "name": "Ratafia",
+            "tip": "An herbal liqueur, often drunk as a digestive."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardins dels Alemanys",
+            "tip": "Ein ruhiger Garten hinter der Kathedrale, perfekt für eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Galligants",
+            "tip": "Ein friedlicher Spaziergang entlang des kleinen Flusses am Rande der Altstadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang von der Stadtmauer",
+            "tip": "Finden Sie einen ruhigen Turm auf der Mauer, um den Tag ausklingen zu sehen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardins dels Alemanys",
+            "tip": "Csendes kert a katedrális mögött, tökéletes egy kis pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Galligants-patak partja",
+            "tip": "Békés séta a kis folyó mentén az óváros szélén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a városfalról",
+            "tip": "Keressen egy csendes tornyot a falon, és nézze, ahogy véget ér a nap.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardins dels Alemanys",
+            "tip": "O grădină liniștită în spatele catedralei, perfectă pentru o pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul râului Galligants",
+            "tip": "O plimbare pașnică de-a lungul micului râu la marginea orașului vechi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de pe zidurile orașului",
+            "tip": "Găsiți un turn liniștit pe zid pentru a privi sfârșitul zilei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardins dels Alemanys",
+            "tip": "A quiet garden behind the cathedral, perfect for a break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Galligants river",
+            "tip": "A peaceful walk along the small river at the edge of the old town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset from the city wall",
+            "tip": "Find a quiet tower on the wall to watch the day end.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "El Call Handwerksläden",
+            "tip": "Finden Sie einzigartige Keramik und Schmuck in den kleinen Läden des jüdischen Viertels."
+          },
+          {
+            "name": "Mercat del Lleó",
+            "tip": "Ein authentischer Lebensmittelmarkt, etwas außerhalb der Altstadt, ideal für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Call kézműves boltjai",
+            "tip": "Találjon egyedi kerámiákat és ékszereket a zsidónegyed kis üzleteiben."
+          },
+          {
+            "name": "Mercat del Lleó",
+            "tip": "Autentikus élelmiszerpiac kicsit az óvároson kívül, ideális helyi termékek beszerzésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de artizanat El Call",
+            "tip": "Găsiți ceramică și bijuterii unice în micile magazine din cartierul evreiesc."
+          },
+          {
+            "name": "Mercat del Lleó",
+            "tip": "O piață alimentară autentică, chiar în afara orașului vechi, excelentă pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "El Call Artisan Shops",
+            "tip": "Find unique ceramics and jewelry in the small shops of the Jewish Quarter."
+          },
+          {
+            "name": "Mercat del Lleó",
+            "tip": "An authentic food market just outside the old town, great for local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie sehr bequeme Schuhe, da die Altstadt voller Kopfsteinpflaster und Treppen ist.",
+          "Nehmen Sie eine Wasserflasche mit, besonders im Sommer.",
+          "Viele Museen und Sehenswürdigkeiten sind montags geschlossen, überprüfen Sie die Öffnungszeiten.",
+          "Seien Sie darauf vorbereitet, dass die Mittagszeit (ca. 14-16 Uhr) eine Siesta-Zeit ist, in der einige Geschäfte schließen könnten."
+        ],
+        "hu": [
+          "Viseljen nagyon kényelmes cipőt, az óváros macskaköves és tele van lépcsőkkel.",
+          "Vigyen magával egy vizes palackot, különösen nyáron.",
+          "Sok múzeum és látnivaló zárva tart hétfőn, ellenőrizze a nyitvatartást.",
+          "Készüljön fel arra, hogy délben (kb. 14-16 óra között) szieszta van, amikor néhány üzlet bezárhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte foarte confortabilă; orașul vechi este plin de pietre cubice și scări.",
+          "Luați o sticlă de apă, mai ales în timpul verii.",
+          "Multe muzee și atracții sunt închise lunea; verificați programul.",
+          "Fiți pregătiți pentru siesta de la amiază (aproximativ 14:00-16:00), când unele magazine se pot închide."
+        ],
+        "en": [
+          "Wear very comfortable shoes; the old town is full of cobblestones and stairs.",
+          "Bring a water bottle, especially during summer.",
+          "Many museums and attractions are closed on Mondays; check their schedules.",
+          "Be prepared for midday (around 2-4 PM) to be siesta time, where some shops might close."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaça de la Independència",
+            "hu": "Függetlenség tere",
+            "ro": "Plaça de la Independència",
+            "en": "Plaça de la Independència"
+          },
+          "coords": [
+            2.8214,
+            41.986
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt. Schließen Sie Ihr Fahrrad an und genießen Sie einen Kaffee.",
+            "hu": "Ideális kiindulópont. Zárja le a biciklit, és igyon egy kávét.",
+            "ro": "Un punct de plecare ideal. Legați-vă bicicleta și savurați o cafea.",
+            "en": "An ideal starting point. Lock up your bike and enjoy a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Eiffels-Brücke (Pont de Ferro)",
+            "hu": "Eiffel-híd",
+            "ro": "Podul Eiffel",
+            "en": "Eiffel Bridge"
+          },
+          "coords": [
+            2.8248,
+            41.9845
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad über die Brücke, um die Aussicht auf die Onyar-Häuser zu genießen.",
+            "hu": "Tolja át a biciklit a hídon, hogy élvezze az Onyar-házakra nyíló kilátást.",
+            "ro": "Împingeți bicicleta peste pod pentru a admira vederea caselor de pe Onyar.",
+            "en": "Walk your bike across the bridge to enjoy the view of the Onyar houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Häuser am Onyar",
+            "hu": "Onyar-parti házak",
+            "ro": "Casele de pe Onyar",
+            "en": "Onyar Houses"
+          },
+          "coords": [
+            2.8255,
+            41.9838
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahren Sie am Flussufer entlang, aber seien Sie vorsichtig mit Fußgängern.",
+            "hu": "Bringázzon végig a folyóparton, de vigyázzon a gyalogosokra.",
+            "ro": "Pedalați pe malul râului, dar aveți grijă la pietoni.",
+            "en": "Cycle along the riverbank, but be careful with pedestrians."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel (El Call)",
+            "hu": "Zsidónegyed (El Call)",
+            "ro": "Cartierul Evreiesc (El Call)",
+            "en": "Jewish Quarter (El Call)"
+          },
+          "coords": [
+            2.826,
+            41.9865
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang des Viertels an. Die Gassen sind zu eng zum Radfahren.",
+            "hu": "Zárja le a biciklit a negyed bejáratánál. A sikátorok túl szűkek a kerékpározáshoz.",
+            "ro": "Legați-vă bicicleta la intrarea în cartier. Aleile sunt prea înguste pentru ciclism.",
+            "en": "Lock your bike at the entrance to the quarter. The alleys are too narrow for cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Girona",
+            "hu": "Gironai katedrális",
+            "ro": "Catedrala din Girona",
+            "en": "Girona Cathedral"
+          },
+          "coords": [
+            2.827,
+            41.987
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das ist ein steiler Anstieg. Vielleicht möchten Sie Ihr Fahrrad schieben.",
+            "hu": "Ez egy meredek emelkedő. Lehet, hogy tolnia kell a kerékpárt.",
+            "ro": "Aceasta este o urcare abruptă. S-ar putea să vreți să împingeți bicicleta.",
+            "en": "This is a steep climb. You might want to walk your bike up."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Sant Pere de Galligants",
+            "hu": "Sant Pere de Galligants kolostor",
+            "ro": "Mănăstirea Sant Pere de Galligants",
+            "en": "Monastery of Sant Pere de Galligants"
+          },
+          "coords": [
+            2.828,
+            41.989
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Von der Kathedrale aus eine leichte Abfahrt. Es gibt Fahrradständer in der Nähe.",
+            "hu": "A katedrálistól könnyű lejtő. A közelben vannak kerékpártárolók.",
+            "ro": "O coborâre ușoară de la catedrală. Există suporturi pentru biciclete în apropiere.",
+            "en": "An easy downhill ride from the cathedral. There are bike racks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Devesa",
+            "hu": "Devesa Park",
+            "ro": "Parcul Devesa",
+            "en": "Devesa Park"
+          },
+          "coords": [
+            2.816,
+            41.988
+          ],
+          "category": "park",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer entspannten Fahrt durch den größten Stadtpark Kataloniens.",
+            "hu": "Zárja a napot egy pihentető kerékpározással Katalónia legnagyobb városi parkjában.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă prin cel mai mare parc urban din Catalonia.",
+            "en": "End the day with a relaxing ride through the largest urban park in Catalonia."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Girona mit dem Fahrrad zu erkunden, bietet eine einzigartige Perspektive. Beginnen Sie am Morgen auf der Plaça de la Independència, radeln Sie über die Eiffels-Brücke und entlang des Onyar-Flusses. Zu Mittag stellen Sie Ihr Fahrrad ab, um die steilen, engen Gassen des jüdischen Viertels und die majestätische Kathedrale zu Fuß zu erkunden. Der Nachmittag führt Sie bergab zum historischen Kloster Sant Pere de Galligants. Beenden Sie Ihren Tag mit einer gemütlichen Fahrt durch die schattigen Alleen des weitläufigen Devesa-Parks, eine perfekte Abkühlung nach den Hügeln der Altstadt.",
+        "hu": "Girona felfedezése kerékpárral egyedi perspektívát kínál. Induljon reggel a Függetlenség térről, tekerjen át az Eiffel-hídon és az Onyar folyó mentén. Délben tegye le a biciklit, hogy gyalog fedezze fel a zsidónegyed meredek, szűk sikátorait és a fenséges katedrálist. A délután lefelé vezet a történelmi Sant Pere de Galligants kolostorhoz. Zárja a napot egy kellemes tekeréssel a hatalmas Devesa park árnyas útjain, ami tökéletes levezetés az óváros dombjai után.",
+        "ro": "Explorarea Gironei pe bicicletă oferă o perspectivă unică. Începeți dimineața în Plaça de la Independència, pedalați peste Podul Eiffel și de-a lungul râului Onyar. La prânz, lăsați bicicleta pentru a explora pe jos aleile abrupte și înguste din Cartierul Evreiesc și catedrala maiestuoasă. După-amiaza vă duce la vale spre mănăstirea istorică Sant Pere de Galligants. Încheiați ziua cu o plimbare relaxantă pe aleile umbrite din vastul Parc Devesa, o răcorire perfectă după dealurile orașului vechi.",
+        "en": "Exploring Girona by bike offers a unique perspective. Start in the morning at Plaça de la Independència, pedal across the Eiffel Bridge and along the Onyar River. At midday, ditch the bike to explore the steep, narrow alleys of the Jewish Quarter and the majestic Cathedral on foot. The afternoon takes you downhill to the historic Sant Pere de Galligants monastery. End your day with a leisurely ride through the shady avenues of the vast Devesa Park, a perfect cool-down after the old town's hills."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillos",
+            "tip": "Holen Sie sich ein schnelles Sandwich (bocadillo) mit lokaler Wurst oder Käse für ein Picknick im Park."
+          },
+          {
+            "name": "Clara",
+            "tip": "Ein erfrischendes Getränk aus Bier und Zitronenlimonade, perfekt nach einer Radtour."
+          },
+          {
+            "name": "Rocambolesc Gelateria",
+            "tip": "Weltberühmtes Eis von Jordi Roca. Die Warteschlange lohnt sich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo",
+            "tip": "Vegyen egy gyors szendvicset (bocadillo) helyi kolbásszal vagy sajttal egy parkbeli piknikhez."
+          },
+          {
+            "name": "Clara",
+            "tip": "Sör és citromos üdítő frissítő keveréke, tökéletes egy biciklitúra után."
+          },
+          {
+            "name": "Rocambolesc Fagyizó",
+            "tip": "Jordi Roca világhírű fagylaltja. Megéri kivárni a sort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillos",
+            "tip": "Luați un sandviș rapid (bocadillo) cu cârnați locali sau brânză pentru un picnic în parc."
+          },
+          {
+            "name": "Clara",
+            "tip": "O băutură răcoritoare din bere și limonadă, perfectă după o tură cu bicicleta."
+          },
+          {
+            "name": "Rocambolesc Gelateria",
+            "tip": "Înghețată de renume mondial de la Jordi Roca. Merită să stați la coadă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillos",
+            "tip": "Grab a quick sandwich (bocadillo) with local sausage or cheese for a picnic in the park."
+          },
+          {
+            "name": "Clara",
+            "tip": "A refreshing drink of beer and lemon soda, perfect after a bike ride."
+          },
+          {
+            "name": "Rocambolesc Gelateria",
+            "tip": "World-famous ice cream from Jordi Roca. It's worth the queue."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Ter",
+            "tip": "Folgen Sie dem Radweg entlang des größeren Flusses Ter für eine längere, ruhige Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten von John Lennon",
+            "tip": "Ein kleiner, oft übersehener Park in der Nähe des Parc de la Devesa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Brücke Sant Feliu",
+            "tip": "Halten Sie hier für einen Moment an, um die klassische Ansicht der Kathedrale und des Flusses zu genießen.",
+            "emoji": "🌉"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Ter folyó partja",
+            "tip": "Kövesse a bicikliutat a nagyobb Ter folyó mentén egy hosszabb, csendesebb túráért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "John Lennon kertek",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott park a Devesa park közelében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sant Feliu híd",
+            "tip": "Álljon meg itt egy pillanatra, hogy élvezze a katedrális és a folyó klasszikus látványát.",
+            "emoji": "🌉"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Ter",
+            "tip": "Urmați pista de biciclete de-a lungul râului mai mare Ter pentru o plimbare mai lungă și liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile John Lennon",
+            "tip": "Un parc mic, adesea trecut cu vederea, lângă Parcul Devesa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Podul Sant Feliu",
+            "tip": "Opriți-vă aici pentru un moment pentru a admira vederea clasică a catedralei și a râului.",
+            "emoji": "🌉"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the River Ter",
+            "tip": "Follow the bike path along the larger River Ter for a longer, quieter ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "John Lennon Gardens",
+            "tip": "A small, often overlooked park near the Parc de la Devesa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sant Feliu Bridge",
+            "tip": "Stop here for a moment to take in the classic view of the cathedral and the river.",
+            "emoji": "🌉"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Girona ist ein Radsport-Mekka. Besuchen Sie eines der vielen Profi-Radsportgeschäfte."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Dienstags und samstags findet im Parc de la Devesa ein großer Markt statt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Girona a kerékpározás mekkája. Látogasson el a sok profi kerékpárbolt egyikébe."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Kedden és szombaton nagy piac van a Devesa parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Girona este o mecca a ciclismului. Vizitați unul dintre numeroasele magazine de ciclism profesionist."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Marțea și sâmbăta are loc o piață mare în Parcul Devesa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Girona is a cycling mecca. Check out one of the many pro cycling shops."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "On Tuesdays and Saturdays, there is a large market in the Parc de la Devesa."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Stadtfahrrad oder ein E-Bike, um die Hügel leichter zu bewältigen.",
+          "Die Altstadt hat viel Kopfsteinpflaster, das holprig sein kann.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, auch wenn Sie es nur für ein paar Minuten abstellen.",
+          "Achten Sie auf Fußgänger, besonders in den belebten Bereichen."
+        ],
+        "hu": [
+          "Béreljen városi kerékpárt vagy e-biciklit, hogy könnyebben megbirkózzon a dombokkal.",
+          "Az óváros macskaköves, ami rázós lehet.",
+          "Mindig jól zárja le a kerékpárt, még akkor is, ha csak néhány percre hagyja ott.",
+          "Vigyázzon a gyalogosokra, különösen a forgalmas területeken."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de oraș sau o bicicletă electrică pentru a face față mai ușor dealurilor.",
+          "Orașul vechi are multe pietre cubice, care pot fi denivelate.",
+          "Legați-vă întotdeauna bine bicicleta, chiar dacă o lăsați doar pentru câteva minute.",
+          "Fiți atenți la pietoni, mai ales în zonele aglomerate."
+        ],
+        "en": [
+          "Rent a city bike or an e-bike to make the hills easier.",
+          "The old town has a lot of cobblestones, which can be bumpy.",
+          "Always lock your bike securely, even if leaving it for just a few minutes.",
+          "Be mindful of pedestrians, especially in the busy areas."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Berenguer Carnicer",
+            "hu": "Berenguer Carnicer parkoló",
+            "ro": "Parcarea Berenguer Carnicer",
+            "en": "Berenguer Carnicer Parking"
+          },
+          "coords": [
+            2.82,
+            41.9865
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Teil der Stadt zu erkunden.",
+            "hu": "Parkoljon le itt, hogy felfedezze a város első részét.",
+            "ro": "Parcați aici pentru a explora prima parte a orașului.",
+            "en": "Park here to explore the first cluster of sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaça de la Independència",
+            "hu": "Függetlenség tere",
+            "ro": "Plaça de la Independència",
+            "en": "Plaça de la Independència"
+          },
+          "coords": [
+            2.8214,
+            41.986
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus. Genießen Sie die neoklassizistische Architektur.",
+            "hu": "Rövid séta a parkolótól. Élvezze a neoklasszikus építészetet.",
+            "ro": "O scurtă plimbare de la parcare. Bucurați-vă de arhitectura neoclasică.",
+            "en": "A short walk from the parking lot. Enjoy the neoclassical architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Häuser am Onyar & Eiffels-Brücke",
+            "hu": "Onyar-parti házak és Eiffel-híd",
+            "ro": "Casele de pe Onyar și Podul Eiffel",
+            "en": "Onyar Houses & Eiffel Bridge"
+          },
+          "coords": [
+            2.8248,
+            41.9845
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie über die Brücken, um die besten Fotos zu machen.",
+            "hu": "Sétáljon át a hidakon a legjobb fotókért.",
+            "ro": "Plimbați-vă peste poduri pentru cele mai bune fotografii.",
+            "en": "Stroll across the bridges to get the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Kathedrale",
+            "hu": "Katedrális parkoló",
+            "ro": "Parcarea Catedralei",
+            "en": "Cathedral Area Parking"
+          },
+          "coords": [
+            2.828,
+            41.985
+          ],
+          "category": "transport",
+          "arrive_at": "11:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum oberen Teil der Altstadt. Das Parken ist hier schwierig, seien Sie geduldig.",
+            "hu": "Vezessen fel az óváros felső részébe. A parkolás itt nehézkes, legyen türelmes.",
+            "ro": "Conduceți spre partea superioară a orașului vechi. Parcarea este dificilă aici, aveți răbdare.",
+            "en": "Drive to the upper part of the old town. Parking is difficult here, be patient."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel & Kathedrale",
+            "hu": "Zsidónegyed és Katedrális",
+            "ro": "Cartierul Evreiesc și Catedrala",
+            "en": "Jewish Quarter & Cathedral"
+          },
+          "coords": [
+            2.8265,
+            41.9868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Labyrinth und steigen Sie dann zur Kathedrale hinauf. Planen Sie Zeit für ein Mittagessen hier ein.",
+            "hu": "Fedezze fel a labirintust, majd másszon fel a katedrálishoz. Tervezzen be itt egy ebédet.",
+            "ro": "Explorați labirintul și apoi urcați la catedrală. Planificați timp pentru prânz aici.",
+            "en": "Explore the labyrinth and then climb to the cathedral. Plan for lunch time around here."
+          }
+        },
+        {
+          "name": {
+            "de": "Arabische Bäder",
+            "hu": "Arab fürdők",
+            "ro": "Băile Arabe",
+            "en": "Arab Baths"
+          },
+          "coords": [
+            2.8275,
+            41.9878
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Kathedrale entfernt, ein kühler Ort an einem heißen Tag.",
+            "hu": "Csak egy rövid séta a katedrálistól, hűvös hely egy forró napon.",
+            "ro": "La o scurtă plimbare de catedrală, un loc răcoros într-o zi fierbinte.",
+            "en": "Just a short walk from the cathedral, a cool spot on a hot day."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern (Passeig de la Muralla)",
+            "hu": "Városfal",
+            "ro": "Zidurile orașului",
+            "en": "City Walls"
+          },
+          "coords": [
+            2.8285,
+            41.987
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu einem der Zugangspunkte der Mauer. Ein Spaziergang bei Sonnenuntergang ist unvergesslich.",
+            "hu": "Vezessen el a fal egyik belépési pontjához. Egy naplementés séta felejthetetlen.",
+            "ro": "Conduceți la unul dintre punctele de acces la zid. O plimbare la apus este de neuitat.",
+            "en": "Drive to one of the access points of the wall. A walk at sunset is unforgettable."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lässt sich Girona effizient erkunden, indem man zwischen Parkplätzen wechselt. Am Morgen parken Sie in der Nähe des Flusses, um die Plaça de la Independència und die berühmten Brücken und bunten Häuser zu Fuß zu erkunden. Mittags fahren Sie in die Nähe der Kathedrale, parken erneut und tauchen in die hochgelegene Altstadt ein, erkunden das jüdische Viertel und essen zu Mittag. Am Nachmittag fahren Sie zu einem Zugangspunkt der Stadtmauer. Von dort aus erleben Sie bei einem langen Spaziergang auf den Mauern, wie die Stadt unter Ihnen in der Abendsonne erstrahlt.",
+        "hu": "Autóval hatékonyan fedezheti fel Gironát a parkolók közötti váltással. Reggel parkoljon a folyó közelében, hogy gyalog fedezze fel a Függetlenség teret, a híres hidakat és a színes házakat. Délben vezessen fel a katedrális közelébe, parkoljon újra, és merüljön el a magasan fekvő óvárosban, fedezze fel a zsidónegyedet és ebédeljen. Délután vezessen a városfal egyik bejáratához. Onnan egy hosszú sétát tehet a falakon, és megnézheti, ahogy a város felragyog az esti napsütésben.",
+        "ro": "Cu mașina, puteți explora eficient Girona schimbând locurile de parcare. Dimineața, parcați lângă râu pentru a explora pe jos Plaça de la Independència, faimoasele poduri și casele colorate. La prânz, conduceți lângă catedrală, parcați din nou și pătrundeți în orașul vechi de sus, explorând cartierul evreiesc și luând prânzul. După-amiaza, conduceți la un punct de acces la zidurile orașului. De acolo, o plimbare lungă pe ziduri vă permite să vedeți orașul luminându-se în soarele de seară.",
+        "en": "With a car, you can explore Girona efficiently by switching between parking clusters. In the morning, park near the river to explore Plaça de la Independència and the famous bridges and colourful houses on foot. At midday, drive up near the cathedral, park again, and delve into the upper old town, exploring the Jewish quarter and having lunch. In the afternoon, drive to an access point for the city walls. From there, a long walk along the ramparts lets you see the city light up in the evening sun."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Menú del Día",
+            "tip": "Suchen Sie nach Restaurants außerhalb der Haupttouristenstraßen, die ein 3-Gänge-Mittagsmenü anbieten."
+          },
+          {
+            "name": "Can Roca",
+            "tip": "Wenn Sie nicht im El Celler de Can Roca (bester der Welt) essen können, probieren Sie das zwanglosere Can Roca der Eltern."
+          },
+          {
+            "name": "Wein aus Empordà",
+            "tip": "Probieren Sie einen lokalen Wein aus der nahe gelegenen Region Empordà."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menú del Día",
+            "tip": "Keressen a fő turistaútvonalakon kívül eső éttermeket, amelyek 3 fogásos ebédmenüt kínálnak."
+          },
+          {
+            "name": "Can Roca",
+            "tip": "Ha nem tud az El Celler de Can Roca-ban (a világ legjobbja) enni, próbálja ki a szülők lazább éttermét, a Can Roca-t."
+          },
+          {
+            "name": "Empordà bor",
+            "tip": "Kóstoljon meg egy helyi bort a közeli Empordà régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Menú del Día",
+            "tip": "Căutați restaurante în afara străzilor turistice principale care oferă un meniu de prânz cu 3 feluri."
+          },
+          {
+            "name": "Can Roca",
+            "tip": "Dacă nu puteți mânca la El Celler de Can Roca (cel mai bun din lume), încercați restaurantul mai informal al părinților, Can Roca."
+          },
+          {
+            "name": "Vin de Empordà",
+            "tip": "Încercați un vin local din regiunea apropiată Empordà."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menú del Día",
+            "tip": "Look for restaurants off the main tourist drags offering a 3-course set lunch menu."
+          },
+          {
+            "name": "Can Roca",
+            "tip": "If you can't eat at El Celler de Can Roca (world's best), try the parents' more casual restaurant, Can Roca."
+          },
+          {
+            "name": "Empordà Wine",
+            "tip": "Try a local wine from the nearby Empordà region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Sant Daniel",
+            "tip": "Eine kurze Fahrt vom Stadtzentrum entfernt für einen Panoramablick auf die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten der Franzosen",
+            "tip": "Ein versteckter und ruhiger Ort innerhalb der Stadtmauern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Fluss Galligants",
+            "tip": "Parken Sie in der Nähe des Klosters und machen Sie einen friedlichen Spaziergang.",
+            "emoji": "🚶‍♀️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sant Daniel kilátó",
+            "tip": "Rövid autóútra a városközponttól, panorámás kilátással a városra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Franciák kertjei",
+            "tip": "Rejtett és csendes hely a városfalakon belül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Galligants folyó mentén",
+            "tip": "Parkoljon a kolostor közelében, és tegyen egy békés sétát.",
+            "emoji": "🚶‍♀️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Sant Daniel",
+            "tip": "O scurtă călătorie cu mașina din centrul orașului pentru o vedere panoramică a orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Francezilor",
+            "tip": "Un loc ascuns și liniștit în interiorul zidurilor orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul râului Galligants",
+            "tip": "Parcați lângă mănăstire și faceți o plimbare liniștită.",
+            "emoji": "🚶‍♀️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sant Daniel Viewpoint",
+            "tip": "A short drive from the city center for a panoramic view of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of the French",
+            "tip": "A hidden and quiet spot within the city walls.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Galligants River Walk",
+            "tip": "Park near the monastery and take a peaceful stroll.",
+            "emoji": "🚶‍♀️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Rambla de la Llibertat",
+            "tip": "Hauptgeschäftsstraße mit bekannten Marken und lokalen Boutiquen."
+          },
+          {
+            "name": "Keramik aus La Bisbal",
+            "tip": "Halten Sie Ausschau nach der farbenfrohen Keramik aus der nahe gelegenen Stadt La Bisbal d'Empordà."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Rambla de la Llibertat",
+            "tip": "Fő bevásárlóutca ismert márkákkal és helyi butikokkal."
+          },
+          {
+            "name": "Kerámia La Bisbalból",
+            "tip": "Keresse a közeli La Bisbal d'Empordà városából származó színes kerámiákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Rambla de la Llibertat",
+            "tip": "Strada comercială principală cu mărci cunoscute și buticuri locale."
+          },
+          {
+            "name": "Ceramică din La Bisbal",
+            "tip": "Căutați ceramica colorată din orașul apropiat La Bisbal d'Empordà."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Rambla de la Llibertat",
+            "tip": "Main shopping street with familiar brands and local boutiques."
+          },
+          {
+            "name": "Pottery from La Bisbal",
+            "tip": "Look for the colourful ceramics from the nearby town of La Bisbal d'Empordà."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine Offline-Karte herunter, da das GPS in den engen Gassen unzuverlässig sein kann.",
+          "Parken in der Altstadt ist fast unmöglich. Nutzen Sie die ausgewiesenen Parkhäuser und seien Sie bereit zu zahlen.",
+          "Achten Sie auf Einbahnstraßen und Fußgängerzonen (ZTLs).",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "Töltsön le egy offline térképet, mert a GPS megbízhatatlan lehet a szűk sikátorokban.",
+          "Az óvárosban parkolni szinte lehetetlen. Használja a kijelölt parkolóházakat, és készüljön fel a fizetésre.",
+          "Figyeljen az egyirányú utcákra és a gyalogos zónákra (ZTL).",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Descărcați o hartă offline, deoarece GPS-ul poate fi nesigur pe aleile înguste.",
+          "Parcarea în orașul vechi este aproape imposibilă. Folosiți parcările desemnate și fiți pregătiți să plătiți.",
+          "Fiți atenți la străzile cu sens unic și la zonele cu trafic limitat (ZTL).",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Download an offline map, as GPS can be unreliable in the narrow streets.",
+          "Parking in the old town is nearly impossible. Use the designated parking garages and be prepared to pay.",
+          "Be aware of one-way streets and limited traffic zones (ZTLs).",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof/Bahnhof",
+            "hu": "Érkezés a busz-/vasútállomásra",
+            "ro": "Sosire la stația de autobuz/tren",
+            "en": "Arrival at Bus/Train Station"
+          },
+          "coords": [
+            2.817,
+            41.979
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie vom Hauptbahnhof einen Bus (z.B. L2, L5) zur Plaça de la Independència.",
+            "hu": "A főpályaudvarról menjen busszal (pl. L2, L5) a Plaça de la Independència-ra.",
+            "ro": "De la gară, luați un autobuz (de ex. L2, L5) spre Plaça de la Independència.",
+            "en": "From the main station, take a bus (e.g., L2, L5) to Plaça de la Independència."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaça de la Independència",
+            "hu": "Függetlenség tere",
+            "ro": "Plaça de la Independència",
+            "en": "Plaça de la Independència"
+          },
+          "coords": [
+            2.8214,
+            41.986
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Startpunkt Ihrer Wanderung. Genießen Sie die Atmosphäre.",
+            "hu": "A gyalogtúra kiindulópontja. Élvezze a hangulatot.",
+            "ro": "Punctul de plecare al turului dvs. pietonal. Bucurați-vă de atmosferă.",
+            "en": "The starting point of your walking tour. Enjoy the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Häuser am Onyar & Eiffels-Brücke",
+            "hu": "Onyar-parti házak és Eiffel-híd",
+            "ro": "Casele de pe Onyar și Podul Eiffel",
+            "en": "Onyar Houses & Eiffel Bridge"
+          },
+          "coords": [
+            2.8248,
+            41.9845
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus, um die ikonischsten Ansichten Gironas zu sehen.",
+            "hu": "Rövid séta a tértől Girona legikonikusabb látványaihoz.",
+            "ro": "O scurtă plimbare de la piață pentru a vedea cele mai iconice priveliști din Girona.",
+            "en": "A short walk from the square to see Girona's most iconic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel (El Call)",
+            "hu": "Zsidónegyed (El Call)",
+            "ro": "Cartierul Evreiesc (El Call)",
+            "en": "Jewish Quarter (El Call)"
+          },
+          "coords": [
+            2.826,
+            41.9865
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie von den Brücken aus bergauf in das Labyrinth der Geschichte.",
+            "hu": "A hidaktól induljon felfelé a történelem labirintusába.",
+            "ro": "De la poduri, urcați în labirintul istoriei.",
+            "en": "From the bridges, walk uphill into the labyrinth of history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale & Arabische Bäder",
+            "hu": "Katedrális és Arab fürdők",
+            "ro": "Catedrala și Băile Arabe",
+            "en": "Cathedral & Arab Baths"
+          },
+          "coords": [
+            2.827,
+            41.9875
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie diese beiden Hauptattraktionen. Planen Sie Zeit für ein Mittagessen in der Nähe ein.",
+            "hu": "Kombinálja ezt a két fő látnivalót. Tervezzen időt egy közeli ebédre.",
+            "ro": "Combinați aceste două atracții majore. Planificați timp pentru prânz în apropiere.",
+            "en": "Combine these two major attractions. Plan for lunchtime nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern (Passeig de la Muralla)",
+            "hu": "Városfal",
+            "ro": "Zidurile orașului",
+            "en": "City Walls"
+          },
+          "coords": [
+            2.8285,
+            41.987
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus (z.B. L7) zum Campus Montilivi und gehen Sie zum nächstgelegenen Zugang der Mauer.",
+            "hu": "Menjen busszal (pl. L7) a Campus Montilivi-re, majd sétáljon a fal legközelebbi bejáratához.",
+            "ro": "Luați autobuzul (de ex. L7) spre Campus Montilivi și mergeți pe jos până la cel mai apropiat acces la zid.",
+            "en": "Take the bus (e.g. L7) up towards Campus Montilivi and walk to the nearest wall access."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Nutzung öffentlicher Verkehrsmittel in Girona ist ideal, um die Hauptbereiche zu verbinden. Beginnen Sie mit einer Busfahrt vom Bahnhof zur Plaça de la Independència. Von dort aus erkunden Sie am Vormittag den gesamten unteren Teil der Altstadt zu Fuß. Mittags nehmen Sie einen weiteren Bus, um den steilen Anstieg zu den oberen Stadtteilen zu umgehen, wo Sie die Kathedrale und das jüdische Viertel erkunden. Am Nachmittag bringt Sie ein letzter Bus in die Nähe der Stadtmauern, wo Sie den Rest des Tages mit einem Spaziergang und einer atemberaubenden Aussicht verbringen, bevor Sie zu Fuß zum Bahnhof zurückkehren.",
+        "hu": "A tömegközlekedés használata Gironában ideális a fő területek összekötésére. Kezdje egy buszúttal az állomásról a Függetlenség térre. Onnan délelőtt gyalog fedezze fel az óváros alsó részét. Délben szálljon fel egy másik buszra, hogy elkerülje a meredek emelkedőt a felső városrészekbe, ahol a katedrálist és a zsidónegyedet fedezi fel. Délután egy utolsó busz viszi a városfalak közelébe, ahol a nap hátralévő részét sétával és a lélegzetelállító kilátás élvezetével tölti, mielőtt visszasétálna az állomásra.",
+        "ro": "Folosirea transportului public în Girona este ideală pentru a conecta zonele principale. Începeți cu o călătorie cu autobuzul de la gară la Plaça de la Independència. De acolo, explorați pe jos întreaga parte inferioară a orașului vechi în timpul dimineții. La prânz, luați un alt autobuz pentru a evita urcarea abruptă către cartierele superioare, unde explorați catedrala și cartierul evreiesc. După-amiaza, un ultim autobuz vă duce aproape de zidurile orașului, unde petreceți restul zilei plimbându-vă și admirând priveliștile uimitoare înainte de a vă întoarce pe jos la gară.",
+        "en": "Using public transit in Girona is ideal for linking the main areas. Start with a bus ride from the station to Plaça de la Independència. From there, explore the entire lower part of the old town on foot during the morning. At midday, take another bus to skip the steep climb to the upper districts, where you explore the cathedral and Jewish quarter. In the afternoon, a final bus takes you near the city walls, where you spend the rest of the day strolling and enjoying the stunning views before walking back down to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Plaça Independència Tapas",
+            "tip": "Viele Bars unter den Arkaden bieten tolle Tapas an. Perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Cremat",
+            "tip": "Ein traditionelles katalanisches Heißgetränk mit Rum, Kaffee, Zucker und Zitrone. Eher für den Abend."
+          },
+          {
+            "name": "Mercat del Lleó",
+            "tip": "Wenn Sie in der Nähe sind, holen Sie sich frisches Obst oder einen Snack vom Hauptmarkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas a Plaça Independència-n",
+            "tip": "Sok bár kínál remek tapasokat az árkádok alatt. Tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Cremat",
+            "tip": "Hagyományos katalán forró ital rummal, kávéval, cukorral és citrommal. Inkább estére való."
+          },
+          {
+            "name": "Mercat del Lleó",
+            "tip": "Ha a közelben van, vegyen friss gyümölcsöt vagy egy falatot a központi piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas în Plaça Independència",
+            "tip": "Multe baruri de sub arcade oferă tapas excelente. Perfect pentru un prânz rapid."
+          },
+          {
+            "name": "Cremat",
+            "tip": "O băutură caldă tradițională catalană cu rom, cafea, zahăr și lămâie. Mai mult pentru seară."
+          },
+          {
+            "name": "Mercat del Lleó",
+            "tip": "Dacă sunteți în apropiere, luați fructe proaspete sau o gustare de la piața principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plaça Independència Tapas",
+            "tip": "Many bars under the arches offer great tapas. Perfect for a quick lunch."
+          },
+          {
+            "name": "Cremat",
+            "tip": "A traditional Catalan hot drink with rum, coffee, sugar, and lemon. More for the evening."
+          },
+          {
+            "name": "Mercat del Lleó",
+            "tip": "If you're nearby, grab some fresh fruit or a snack from the main market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergärten",
+            "tip": "Der Kreuzgang des Klosters Sant Pere de Galligants ist ein Ort der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Versteckte Plätze",
+            "tip": "Suchen Sie nach kleinen Plätzen wie der Plaça de Sant Domènec für eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirche Sant Feliu",
+            "tip": "Oft weniger überlaufen als die Kathedrale, aber genauso beeindruckend.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkertek",
+            "tip": "A Sant Pere de Galligants kolostor kerengője a nyugalom szigete.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rejtett terek",
+            "tip": "Keressen apró tereket, mint a Plaça de Sant Domènec, egy kis pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sant Feliu-templom",
+            "tip": "Gyakran kevésbé zsúfolt, mint a katedrális, de ugyanolyan lenyűgöző.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile mănăstirii",
+            "tip": "Claustrul mănăstirii Sant Pere de Galligants este un loc de pace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Piețe ascunse",
+            "tip": "Căutați piețe mici precum Plaça de Sant Domènec pentru o pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Sant Feliu",
+            "tip": "Adesea mai puțin aglomerată decât catedrala, dar la fel de impresionantă.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Gardens",
+            "tip": "The cloister of the Sant Pere de Galligants monastery is a place of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hidden Squares",
+            "tip": "Look for small squares like Plaça de Sant Domènec for a break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sant Feliu Church",
+            "tip": "Often less crowded than the cathedral but just as impressive.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Carrer de la Força",
+            "tip": "Hauptstraße des jüdischen Viertels, voller kleiner, interessanter Geschäfte."
+          },
+          {
+            "name": "Museumsläden",
+            "tip": "Der Laden im Museum für jüdische Geschichte hat einzigartige Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carrer de la Força",
+            "tip": "A zsidónegyed főutcája, tele apró, érdekes boltokkal."
+          },
+          {
+            "name": "Múzeumi boltok",
+            "tip": "A Zsidó Történeti Múzeum boltjában egyedi ajándéktárgyak találhatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carrer de la Força",
+            "tip": "Strada principală a cartierului evreiesc, plină de magazine mici și interesante."
+          },
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Magazinul de la Muzeul de Istorie a Evreilor are suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carrer de la Força",
+            "tip": "The main street of the Jewish Quarter, full of small, interesting shops."
+          },
+          {
+            "name": "Museum Shops",
+            "tip": "The shop at the Museum of Jewish History has unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine T-10-Karte (10 Fahrten), die von mehreren Personen genutzt werden kann und günstiger ist als Einzeltickets.",
+          "Validieren Sie Ihr Ticket beim Einsteigen in den Bus.",
+          "Busse können im Sommer überfüllt sein. Seien Sie auf Wartezeiten vorbereitet.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind zu Fuß erreichbar, nutzen Sie den Bus für die längeren Strecken."
+        ],
+        "hu": [
+          "Vásároljon egy T-10-es kártyát (10 utazás), amelyet többen is használhatnak, és olcsóbb, mint az egyedi jegyek.",
+          "Érvényesítse a jegyét, amikor felszáll a buszra.",
+          "A buszok nyáron zsúfoltak lehetnek. Készüljön fel a várakozásra.",
+          "A központi látnivalók többsége gyalogosan elérhető, a buszt a hosszabb távolságokra használja."
+        ],
+        "ro": [
+          "Cumpărați un card T-10 (10 călătorii), care poate fi folosit de mai multe persoane și este mai ieftin decât biletele individuale.",
+          "Validați-vă biletul când urcați în autobuz.",
+          "Autobuzele pot fi aglomerate în timpul verii. Fiți pregătiți să așteptați.",
+          "Majoritatea atracțiilor centrale sunt accesibile pe jos, folosiți autobuzul pentru distanțe mai lungi."
+        ],
+        "en": [
+          "Buy a T-10 card (10 trips), which can be shared by multiple people and is cheaper than single tickets.",
+          "Validate your ticket when you board the bus.",
+          "Buses can be crowded in summer. Be prepared for some waiting.",
+          "Most central sights are walkable, use the bus to connect longer distances."
+        ]
+      }
+    }
+  }
+}

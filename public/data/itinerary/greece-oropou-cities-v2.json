@@ -1,0 +1,1484 @@
+{
+  "city_id": "greece-oropou-cities-v2",
+  "anchor": {
+    "name": "Skala Oropou",
+    "coords": [
+      23.7667,
+      38.3167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            23.767,
+            38.3165
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem griechischen Kaffee in einem der Cafés.",
+            "hu": "Kezdje a napot egy görög kávéval a tér egyik kávézójában.",
+            "ro": "Începeți ziua cu o cafea grecească la una dintre cafenelele din piață.",
+            "en": "Start your day with a Greek coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Gefallenen",
+            "hu": "Elesettek emlékműve",
+            "ro": "Monumentul Eroilor Căzuți",
+            "en": "Monument of the Fallen"
+          },
+          "coords": [
+            23.7675,
+            38.316
+          ],
+          "category": "monuments",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, besinnlicher Moment, um die lokale Geschichte zu würdigen.",
+            "hu": "Egy rövid, elmélkedő pillanat a helyi történelem tiszteletére.",
+            "ro": "Un scurt moment de reculegere pentru a onora istoria locală.",
+            "en": "A brief, contemplative moment to honor the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Skala Oropou",
+            "hu": "Skala Oropou kikötője",
+            "ro": "Portul din Skala Oropou",
+            "en": "Port of Skala Oropou"
+          },
+          "coords": [
+            23.768,
+            38.3175
+          ],
+          "category": "port",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote und die Fähren nach Eretria.",
+            "hu": "Figyelje a halászhajókat és az Eretriába tartó kompokat.",
+            "ro": "Priviți bărcile de pescuit și feriboturile care merg spre Eretria.",
+            "en": "Watch the fishing boats and the ferries heading to Eretria."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Andreas",
+            "hu": "Agios Andreas templom",
+            "ro": "Biserica Agios Andreas",
+            "en": "Agios Andreas Church"
+          },
+          "coords": [
+            23.7665,
+            38.3155
+          ],
+          "category": "churches",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die byzantinischen Ikonen im Inneren.",
+            "hu": "Figyelje meg a bizánci stílusú ikonokat a templom belsejében.",
+            "ro": "Observați icoanele bizantine din interiorul bisericii.",
+            "en": "Pay attention to the Byzantine-style icons inside the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandpromenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Promenada de pe plajă",
+            "en": "Beach Promenade"
+          },
+          "coords": [
+            23.769,
+            38.317
+          ],
+          "category": "parks",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für einen Mittagsspaziergang und eine leichte Mahlzeit am Meer.",
+            "hu": "Ideális egy ebéd utáni sétához és egy könnyű ebédhez a tengerparton.",
+            "ro": "Ideal pentru o plimbare de prânz și o masă ușoară lângă mare.",
+            "en": "Ideal for a midday stroll and a light meal by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Oropos",
+            "hu": "Oroposzi Kulturális Központ",
+            "ro": "Centrul Cultural Oropos",
+            "en": "Oropos Cultural Center"
+          },
+          "coords": [
+            23.765,
+            38.315
+          ],
+          "category": "theatres",
+          "arrive_at": "13:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob lokale Ausstellungen oder Veranstaltungen stattfinden.",
+            "hu": "Nézze meg, hogy vannak-e helyi kiállítások vagy események.",
+            "ro": "Verificați dacă au loc expoziții sau evenimente locale.",
+            "en": "Check if there are any local exhibitions or events taking place."
+          }
+        },
+        {
+          "name": {
+            "de": "Dilesi Strand",
+            "hu": "Dilesi strand",
+            "ro": "Plaja Dilesi",
+            "en": "Dilesi Beach"
+          },
+          "coords": [
+            23.8,
+            38.325
+          ],
+          "category": "parks",
+          "arrive_at": "15:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie am Nachmittag am Sandstrand und schwimmen Sie.",
+            "hu": "Pihenjen délután a homokos parton és ússzon egyet.",
+            "ro": "Relaxați-vă după-amiaza pe plaja cu nisip și faceți o baie.",
+            "en": "Relax in the afternoon on the sandy beach and go for a swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Skala Oropou auf dem Marktplatz, bevor Sie zum Hafen schlendern. Der Vormittag steht im Zeichen der lokalen Kultur mit Besuchen der Agios-Andreas-Kirche und des Kulturzentrums. Verbringen Sie einen entspannten Nachmittag an der belebten Strandpromenade und genießen Sie die Sonne am nahegelegenen Dilesi Strand. Beenden Sie den Tag in einer Taverne mit Blick auf das Meer.",
+        "hu": "Kezdje a napot Skala Oropou szívében, a Piactéren, majd sétáljon le a kikötőbe. A délelőtt a helyi kultúráról szól az Agios Andreas-templom és a Kulturális Központ meglátogatásával. Töltsön egy pihentető délutánt a nyüzsgő tengerparti sétányon, és napozzon a közeli Dilesi strandon. Zárja a napot egy tengerre néző tavernánál.",
+        "ro": "Începeți ziua în inima orașului Skala Oropou, în Piața Centrală, înainte de a vă plimba spre port. Dimineața este dedicată culturii locale, cu vizite la Biserica Agios Andreas și Centrul Cultural. Petreceți o după-amiază relaxantă pe promenada animată de pe plajă și bucurați-vă de soare pe plaja Dilesi din apropiere. Încheiați ziua la o tavernă cu vedere la mare.",
+        "en": "Start your day in the heart of Skala Oropou at the Market Square before strolling down to the port. The morning is dedicated to local culture with visits to the Agios Andreas Church and the Cultural Center. Spend a relaxing afternoon on the lively beach promenade and soak up the sun at the nearby Dilesi Beach. End your day at a taverna overlooking the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Probieren Sie ihn in einer der Tavernen am Hafen, frisch vom Grill."
+          },
+          {
+            "name": "Griechischer Salat (Horiatiki)",
+            "tip": "Ein Muss zu jeder Mahlzeit, mit lokalem Feta und Olivenöl."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Ein schneller und leckerer Snack von einem der Grillstände."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett polip",
+            "tip": "Kóstolja meg a kikötői tavernák egyikében, frissen grillezve."
+          },
+          {
+            "name": "Görög saláta (Horiatiki)",
+            "tip": "Minden étkezés kötelező kísérője, helyi fetával és olívaolajjal."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Gyors és ízletes harapnivaló az egyik grillbódéból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Încercați-o la una dintre tavernele din port, proaspăt scoasă de pe grătar."
+          },
+          {
+            "name": "Salată grecească (Horiatiki)",
+            "tip": "O necesitate la orice masă, cu brânză feta locală și ulei de măsline."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "O gustare rapidă și delicioasă de la una dintre grătarele stradale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Octopus",
+            "tip": "Try it at one of the portside tavernas, fresh off the grill."
+          },
+          {
+            "name": "Greek Salad (Horiatiki)",
+            "tip": "A must with any meal, with local feta and olive oil."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "A quick and delicious snack from one of the grill stands."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Dilesi Strand",
+            "tip": "Ein ruhiger Ort, um die Sonne über dem Euböischen Golf untergehen zu sehen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang am frühen Morgen am Hafen",
+            "tip": "Erleben Sie die Ruhe, bevor die Stadt erwacht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bänke an der Strandpromenade",
+            "tip": "Perfekt für eine Pause mit Blick auf das Meer.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Dilesi strandon",
+            "tip": "Csendes hely, ahol megnézheti, ahogy a nap lemegy az Euboeai-öböl felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kora reggeli séta a kikötőben",
+            "tip": "Tapasztalja meg a nyugalmat, mielőtt a város felébred.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Padok a tengerparti sétányon",
+            "tip": "Tökéletes egy kis pihenőre, kilátással a tengerre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la plaja Dilesi",
+            "tip": "Un loc liniștit pentru a privi soarele apunând peste Golful Evian.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare de dimineață devreme în port",
+            "tip": "Experimentați liniștea înainte ca orașul să se trezească.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bănci pe promenada de pe plajă",
+            "tip": "Perfecte pentru o pauză cu vedere la mare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Dilesi Beach",
+            "tip": "A quiet spot to watch the sun set over the Euboean Gulf.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Early morning walk at the port",
+            "tip": "Experience the tranquility before the town wakes up.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Benches on the beach promenade",
+            "tip": "Perfect for a break while looking out at the sea.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frisches Obst, Oliven und lokalen Honig."
+          },
+          {
+            "name": "Souvenirläden an der Promenade",
+            "tip": "Finden Sie handgemachte Keramik und Olivenholzprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss gyümölcsöt, olajbogyót és helyi mézet."
+          },
+          {
+            "name": "Ajándékboltok a sétányon",
+            "tip": "Találjon kézzel készített kerámiákat és olajfából készült termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați fructe proaspete, măsline și miere locală."
+          },
+          {
+            "name": "Magazine de suveniruri de pe promenadă",
+            "tip": "Găsiți ceramică artizanală și produse din lemn de măslin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh fruit, olives, and local honey."
+          },
+          {
+            "name": "Souvenir shops on the promenade",
+            "tip": "Find handmade ceramics and olive wood products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine Wasserflasche ist an warmen Tagen unerlässlich.",
+          "Die meisten Geschäfte und Cafés akzeptieren Karten, aber es ist gut, etwas Bargeld dabei zu haben.",
+          "Vergessen Sie nicht Sonnencreme und einen Hut."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Meleg napokon elengedhetetlen egy vizes palack.",
+          "A legtöbb üzlet és kávézó elfogad kártyát, de jó, ha van Önnél készpénz is.",
+          "Ne felejtse el a naptejet és a kalapot."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "O sticlă de apă este esențială în zilele călduroase.",
+          "Majoritatea magazinelor și cafenelelor acceptă carduri, dar este bine să aveți și niște numerar.",
+          "Nu uitați de crema de protecție solară și de o pălărie."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "A water bottle is essential on warm days.",
+          "Most shops and cafes accept cards, but it's good to have some cash on hand.",
+          "Don't forget sunscreen and a hat."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Strandpromenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Promenada de pe plajă",
+            "en": "Beach Promenade"
+          },
+          "coords": [
+            23.769,
+            38.317
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekter Ausgangspunkt für eine Radtour entlang der Küste.",
+            "hu": "Tökéletes kiindulópont egy parti kerékpártúrához.",
+            "ro": "Punct de plecare perfect pentru o plimbare cu bicicleta de-a lungul coastei.",
+            "en": "Perfect starting point for a bike ride along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Skala Oropou",
+            "hu": "Skala Oropou kikötője",
+            "ro": "Portul din Skala Oropou",
+            "en": "Port of Skala Oropou"
+          },
+          "coords": [
+            23.768,
+            38.3175
+          ],
+          "category": "port",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und beobachten Sie das geschäftige Treiben.",
+            "hu": "Tegye le a biciklit és nézze a nyüzsgést.",
+            "ro": "Parcați bicicleta și priviți agitația portului.",
+            "en": "Park your bike and watch the hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            23.767,
+            38.3165
+          ],
+          "category": "squares",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Kaffeepause, bevor Sie weiterfahren.",
+            "hu": "Nagyszerű hely egy kávészünetre, mielőtt tovább tekersz.",
+            "ro": "Un loc minunat pentru o pauză de cafea înainte de a continua drumul.",
+            "en": "A great spot for a coffee break before you continue your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Andreas",
+            "hu": "Agios Andreas templom",
+            "ro": "Biserica Agios Andreas",
+            "en": "Agios Andreas Church"
+          },
+          "coords": [
+            23.7665,
+            38.3155
+          ],
+          "category": "churches",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Finden Sie einen sicheren Platz, um Ihr Fahrrad abzuschließen, während Sie die Kirche besuchen.",
+            "hu": "Keressen egy biztonságos helyet a kerékpár lezárásához a templomlátogatás idejére.",
+            "ro": "Găsiți un loc sigur pentru a vă lega bicicleta în timp ce vizitați biserica.",
+            "en": "Find a safe spot to lock your bike while you visit the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Dilesi Strand",
+            "hu": "Dilesi strand",
+            "ro": "Plaja Dilesi",
+            "en": "Dilesi Beach"
+          },
+          "coords": [
+            23.8,
+            38.325
+          ],
+          "category": "parks",
+          "arrive_at": "12:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour lohnt sich für diesen schönen Strand. Zeit für ein Mittagessen und ein Bad.",
+            "hu": "Megéri a biciklizést ez a gyönyörű strand. Itt az idő egy ebédre és egy úszásra.",
+            "ro": "Plimbarea cu bicicleta merită pentru această plajă frumoasă. Timp pentru prânz și o baie.",
+            "en": "The bike ride is worth it for this beautiful beach. Time for lunch and a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphiaraion von Oropos",
+            "hu": "Oropói Amphiaraion",
+            "ro": "Amphiareion din Oropos",
+            "en": "Amphiaraion of Oropos"
+          },
+          "coords": [
+            23.695,
+            38.293
+          ],
+          "category": "historical",
+          "arrive_at": "16:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die anspruchsvolle Radtour zur antiken Stätte ist ein Höhepunkt für Geschichtsliebhaber.",
+            "hu": "A kihívást jelentő kerékpártúra az ókori helyszínre a történelem szerelmeseinek csúcspontja.",
+            "ro": "Plimbarea cu bicicleta, deși solicitantă, către situl antic este un punct culminant pentru pasionații de istorie.",
+            "en": "The challenging bike ride to the ancient site is a highlight for history buffs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour in Skala Oropou beginnt am besten an der Promenade. Radeln Sie entlang der Küste zum Hafen und ins Stadtzentrum. Am Vormittag erkunden Sie das Herz der Stadt, bevor Sie eine längere Tour zum wunderschönen Dilesi Strand für eine ausgiebige Mittagspause unternehmen. Der Nachmittag ist eine Herausforderung mit einer Fahrt zum antiken Amphiaraion. Schließen Sie den Tag mit der Rückfahrt in die Stadt und einem wohlverdienten Abendessen ab.",
+        "hu": "A Skala Oropou-i kerékpártúrát a legjobb a sétányon kezdeni. Tekerjen végig a part mentén a kikötőbe és a városközpontba. Délelőtt fedezze fel a város szívét, mielőtt egy hosszabb túrára indulna a gyönyörű Dilesi strandra egy kiadós ebédszünetre. A délután kihívást jelent az ókori Amphiaraionhoz vezető úttal. Zárja a napot a városba való visszatéréssel és egy jól megérdemelt vacsorával.",
+        "ro": "Un tur cu bicicleta în Skala Oropou începe cel mai bine de pe promenadă. Pedalați de-a lungul coastei spre port și centrul orașului. Dimineața explorați inima orașului înainte de a face un tur mai lung spre frumoasa plajă Dilesi pentru o pauză de prânz prelungită. După-amiaza este o provocare cu o plimbare până la vechiul Amphiareion. Încheiați ziua întorcându-vă în oraș pentru o cină binemeritată.",
+        "en": "A bike tour in Skala Oropou is best started on the promenade. Cycle along the coast to the port and into the town center. In the morning, explore the heart of the town before taking a longer tour to the beautiful Dilesi Beach for a long lunch break. The afternoon is a challenge with a ride to the ancient Amphiaraion. End the day by returning to town for a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meeresfrüchte-Pasta",
+            "tip": "Eine herzhafte Mahlzeit in einem Restaurant am Dilesi Strand."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Der perfekte Eiskaffee, um sich nach einer Radtour abzukühlen."
+          },
+          {
+            "name": "Frischer Fisch",
+            "tip": "Fragen Sie nach dem 'Fang des Tages' in den Tavernen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei tészta",
+            "tip": "Egy kiadós étel egy Dilesi-parti étteremben."
+          },
+          {
+            "name": "Frappé",
+            "tip": "A tökéletes jegeskávé, hogy lehűtse magát egy biciklitúra után."
+          },
+          {
+            "name": "Friss hal",
+            "tip": "Kérdezze a 'nap fogását' a tavernákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste cu fructe de mare",
+            "tip": "O masă copioasă la un restaurant de pe plaja Dilesi."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Cafeaua cu gheață perfectă pentru a vă răcori după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Pește proaspăt",
+            "tip": "Întrebați de 'captura zilei' la taverne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Pasta",
+            "tip": "A hearty meal at a restaurant on Dilesi Beach."
+          },
+          {
+            "name": "Frappé",
+            "tip": "The perfect iced coffee to cool down after a bike ride."
+          },
+          {
+            "name": "Fresh Fish",
+            "tip": "Ask for the 'catch of the day' at the tavernas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Amphiaraion von Oropos",
+            "tip": "Die antike Stätte strahlt eine unglaubliche Ruhe und Geschichte aus.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Küstenstraße nach Dilesi",
+            "tip": "Genießen Sie die Aussicht auf das Meer während der Radtour.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pausenplatz mit Aussicht",
+            "tip": "Halten Sie irgendwo entlang der Küste für einen Moment der Stille an.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oropói Amphiaraion",
+            "tip": "Az ókori helyszín hihetetlen nyugalmat és történelmet sugároz.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Parti út Dilesi felé",
+            "tip": "Élvezze a tengerre nyíló kilátást a kerékpártúra során.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pihenőhely kilátással",
+            "tip": "Álljon meg valahol a part mentén egy csendes pillanatra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Amphiareion din Oropos",
+            "tip": "Situl antic emană o liniște și o istorie incredibilă.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Drumul de coastă spre Dilesi",
+            "tip": "Bucurați-vă de priveliștea mării în timpul plimbării cu bicicleta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Loc de popas cu priveliște",
+            "tip": "Opriți-vă undeva de-a lungul coastei pentru un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Amphiaraion of Oropos",
+            "tip": "The ancient site exudes an incredible sense of peace and history.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Coastal road to Dilesi",
+            "tip": "Enjoy the sea views during the bike ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rest stop with a view",
+            "tip": "Stop anywhere along the coast for a moment of silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih",
+            "tip": "Mieten Sie ein gutes Fahrrad für den Tag, falls Sie keins haben."
+          },
+          {
+            "name": "Lokale Delikatessenläden",
+            "tip": "Kaufen Sie Olivenöl und Kräuter als Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönző",
+            "tip": "Béreljen egy jó kerékpárt a napra, ha nincs sajátja."
+          },
+          {
+            "name": "Helyi csemegeboltok",
+            "tip": "Vásároljon olívaolajat és fűszereket ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centru de închirieri biciclete",
+            "tip": "Închiriați o bicicletă bună pentru o zi, dacă nu aveți una."
+          },
+          {
+            "name": "Magazine de delicatese locale",
+            "tip": "Cumpărați ulei de măsline și ierburi aromatice ca suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike rental shop",
+            "tip": "Rent a good bike for the day if you don't have one."
+          },
+          {
+            "name": "Local delicatessen shops",
+            "tip": "Buy olive oil and herbs as souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Helm ist für Ihre Sicherheit unerlässlich.",
+          "Nehmen Sie ausreichend Wasser und einige Snacks für die längeren Strecken mit.",
+          "Überprüfen Sie die Öffnungszeiten des Amphiaraion im Voraus.",
+          "Ein kleines Fahrradschloss ist nützlich."
+        ],
+        "hu": [
+          "A sisak elengedhetetlen a biztonsága érdekében.",
+          "Vigyen magával elegendő vizet és harapnivalót a hosszabb szakaszokra.",
+          "Ellenőrizze előre az Amphiaraion nyitvatartási idejét.",
+          "Egy kis kerékpárzár hasznos lehet."
+        ],
+        "ro": [
+          "O cască este esențială pentru siguranța dumneavoastră.",
+          "Luați suficientă apă și câteva gustări pentru porțiunile mai lungi.",
+          "Verificați în avans programul de funcționare al Amphiareion-ului.",
+          "Un mic lacăt pentru bicicletă este util."
+        ],
+        "en": [
+          "A helmet is essential for your safety.",
+          "Bring enough water and some snacks for the longer stretches.",
+          "Check the opening hours of the Amphiaraion in advance.",
+          "A small bike lock is useful."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 24.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Amphiaraion von Oropos",
+            "hu": "Oropói Amphiaraion",
+            "ro": "Amphiareion din Oropos",
+            "en": "Amphiaraion of Oropos"
+          },
+          "coords": [
+            23.695,
+            38.293
+          ],
+          "category": "historical",
+          "arrive_at": "09:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie hier, um den Menschenmassen zu entgehen. Es gibt ausreichend Parkplätze.",
+            "hu": "Kezdje itt, hogy elkerülje a tömeget. Van elegendő parkolóhely.",
+            "ro": "Începeți de aici pentru a evita aglomerația. Există parcare suficientă.",
+            "en": "Start here to avoid the crowds. There is ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Dilesi Strand",
+            "hu": "Dilesi strand",
+            "ro": "Plaja Dilesi",
+            "en": "Dilesi Beach"
+          },
+          "coords": [
+            23.8,
+            38.325
+          ],
+          "category": "parks",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Parken Sie in der Nähe und genießen Sie den Strand und ein Mittagessen.",
+            "hu": "Tökéletes egy ebédszünetre. Parkoljon a közelben, és élvezze a strandot és az ebédet.",
+            "ro": "Perfect pentru o pauză de prânz. Parcați în apropiere și bucurați-vă de plajă și de un prânz.",
+            "en": "Perfect for a lunch break. Park nearby and enjoy the beach and a meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Skala Oropou",
+            "hu": "Skala Oropou kikötője",
+            "ro": "Portul din Skala Oropou",
+            "en": "Port of Skala Oropou"
+          },
+          "coords": [
+            23.768,
+            38.3175
+          ],
+          "category": "port",
+          "arrive_at": "14:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und beginnen Sie Ihren Rundgang durch das Stadtzentrum hier.",
+            "hu": "Parkolja le az autót, és innen induljon a városközponti sétára.",
+            "ro": "Parcați mașina și începeți turul pietonal al centrului orașului de aici.",
+            "en": "Park your car and start your walking tour of the town center here."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandpromenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Promenada de pe plajă",
+            "en": "Beach Promenade"
+          },
+          "coords": [
+            23.769,
+            38.317
+          ],
+          "category": "parks",
+          "arrive_at": "14:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hafen entfernt, ideal für einen Kaffee.",
+            "hu": "Egy rövid séta a kikötőtől, ideális egy kávéra.",
+            "ro": "La o scurtă plimbare de port, ideal pentru o cafea.",
+            "en": "A short walk from the port, ideal for a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            23.767,
+            38.3165
+          ],
+          "category": "squares",
+          "arrive_at": "15:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das belebte Zentrum der Stadt, nur wenige Schritte von der Promenade entfernt.",
+            "hu": "A város nyüzsgő központja, csak pár lépésre a sétánytól.",
+            "ro": "Centrul plin de viață al orașului, la doar câțiva pași de promenadă.",
+            "en": "The bustling center of the town, just a few steps from the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Andreas",
+            "hu": "Agios Andreas templom",
+            "ro": "Biserica Agios Andreas",
+            "en": "Agios Andreas Church"
+          },
+          "coords": [
+            23.7665,
+            38.3155
+          ],
+          "category": "churches",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhiger Abschluss des Spaziergangs durch die Stadt.",
+            "hu": "A városi séta békés lezárása.",
+            "ro": "O încheiere liniștită a plimbării prin oraș.",
+            "en": "A peaceful conclusion to the walking tour of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in einer Taverne",
+            "hu": "Vacsora egy tavernánál",
+            "ro": "Cină la o tavernă",
+            "en": "Dinner at a Taverna"
+          },
+          "coords": [
+            23.7685,
+            38.3172
+          ],
+          "category": "gastro",
+          "arrive_at": "17:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zurück zum Auto und fahren Sie zu einer Taverne Ihrer Wahl für das Abendessen.",
+            "hu": "Sétáljon vissza az autóhoz, majd vezessen egy tetszőleges tavernához vacsorázni.",
+            "ro": "Întoarceți-vă la mașină și conduceți la o tavernă la alegere pentru cină.",
+            "en": "Walk back to the car and drive to a taverna of your choice for dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um zuerst das etwas abgelegene Amphiaraion zu besuchen. Fahren Sie dann zur Küste für eine ausgiebige Mittagspause am Dilesi Strand. Am Nachmittag parken Sie im Zentrum von Skala Oropou und erkunden den Hafen, die Promenade, den Marktplatz und die Kirche zu Fuß. Beenden Sie Ihren Tag mit einer kurzen Fahrt zu einer der vielen ausgezeichneten Tavernen der Gegend.",
+        "hu": "Használja ki az autó rugalmasságát, és először látogasson el a kissé távolabb eső Amphiaraionhoz. Ezután hajtson a parthoz egy kiadós ebédszünetre a Dilesi strandon. Délután parkoljon le Skala Oropou központjában, és fedezze fel gyalog a kikötőt, a sétányt, a piacteret és a templomot. Zárja a napot egy rövid autózással a környék számos kiváló tavernájának egyikébe.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a vizita mai întâi Amphiareion-ul, care este puțin mai îndepărtat. Apoi, conduceți spre coastă pentru o pauză de prânz extinsă la plaja Dilesi. După-amiaza, parcați în centrul orașului Skala Oropou și explorați portul, promenada, piața și biserica pe jos. Încheiați ziua cu o scurtă călătorie cu mașina la una dintre multele taverne excelente din zonă.",
+        "en": "Use the flexibility of the car to first visit the slightly remote Amphiaraion. Then drive to the coast for an extended lunch break at Dilesi Beach. In the afternoon, park in the center of Skala Oropou and explore the port, promenade, market square, and church on foot. End your day with a short drive to one of the many excellent tavernas in the area."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lammkoteletts (Paidakia)",
+            "tip": "Eine Spezialität in vielen ländlichen Tavernen in der Umgebung des Amphiaraion."
+          },
+          {
+            "name": "Gefüllte Weinblätter (Dolmades)",
+            "tip": "Ein köstlicher vegetarischer Genuss."
+          },
+          {
+            "name": "Ouzo mit Meze",
+            "tip": "Genießen Sie den lokalen Anisschnaps mit einer Auswahl an kleinen Vorspeisen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bárányborda (Paidakia)",
+            "tip": "Specialitás sok vidéki tavernánál az Amphiaraion környékén."
+          },
+          {
+            "name": "Töltött szőlőlevél (Dolmades)",
+            "tip": "Ízletes vegetáriánus csemege."
+          },
+          {
+            "name": "Ouzo meze-vel",
+            "tip": "Élvezze a helyi ánizslikőrt különféle kis előételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cotlete de miel (Paidakia)",
+            "tip": "O specialitate în multe taverne rurale din jurul Amphiareion-ului."
+          },
+          {
+            "name": "Sarmale în foi de viță (Dolmades)",
+            "tip": "Un deliciu vegetarian gustos."
+          },
+          {
+            "name": "Ouzo cu Meze",
+            "tip": "Bucurați-vă de băutura locală cu anason, alături de o selecție de mici aperitive."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lamb Chops (Paidakia)",
+            "tip": "A specialty in many rural tavernas around the Amphiaraion area."
+          },
+          {
+            "name": "Stuffed Vine Leaves (Dolmades)",
+            "tip": "A delicious vegetarian treat."
+          },
+          {
+            "name": "Ouzo with Meze",
+            "tip": "Enjoy the local anise-flavored spirit with a selection of small appetizers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel um das Amphiaraion",
+            "tip": "Genießen Sie die Stille und die Aussicht auf die antike Stätte von oben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Später Nachmittag am Dilesi Strand",
+            "tip": "Wenn die meisten Tagesausflügler weg sind, wird es sehr friedlich.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Seitengassen von Skala Oropou",
+            "tip": "Entfliehen Sie dem Trubel und entdecken Sie das authentische Stadtleben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hegyek az Amphiaraion körül",
+            "tip": "Élvezze a csendet és a kilátást az ókori helyszínre fentről.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Késő délután a Dilesi strandon",
+            "tip": "Amikor a legtöbb napozó elment, nagyon békés lesz.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Skala Oropou mellékutcái",
+            "tip": "Meneküljön el a nyüzsgés elől, és fedezze fel az autentikus városi életet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealurile din jurul Amphiareion-ului",
+            "tip": "Bucurați-vă de liniște și de priveliștea sitului antic de sus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "După-amiază târzie la plaja Dilesi",
+            "tip": "Când majoritatea vizitatorilor de o zi au plecat, devine foarte pașnic.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțele lăturalnice din Skala Oropou",
+            "tip": "Evadați din agitație și descoperiți viața autentică a orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hills around Amphiaraion",
+            "tip": "Enjoy the silence and the view of the ancient site from above.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Late afternoon at Dilesi Beach",
+            "tip": "When most of the day-trippers have left, it becomes very peaceful.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Side streets of Skala Oropou",
+            "tip": "Escape the hustle and discover authentic town life.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden auf dem Land",
+            "tip": "Halten Sie Ausschau nach Schildern, die lokales Olivenöl und Wein verkaufen."
+          },
+          {
+            "name": "Keramikwerkstätten",
+            "tip": "In der Region gibt es möglicherweise kleine Werkstätten mit einzigartigen Stücken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Keresse a helyi olívaolajat és bort árusító táblákat."
+          },
+          {
+            "name": "Kerámia műhelyek",
+            "tip": "A régióban lehetnek kis műhelyek egyedi darabokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la ferme",
+            "tip": "Fiți atenți la indicatoarele care vând ulei de măsline și vin local."
+          },
+          {
+            "name": "Ateliere de ceramică",
+            "tip": "În regiune pot exista mici ateliere cu piese unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the countryside",
+            "tip": "Look for signs selling local olive oil and wine."
+          },
+          {
+            "name": "Pottery workshops",
+            "tip": "There might be small workshops in the region with unique pieces."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein GPS ist nützlich, um sich auf den Landstraßen zurechtzufinden.",
+          "Achten Sie auf Parkbeschränkungen im Stadtzentrum.",
+          "Tanken Sie, bevor Sie in abgelegenere Gebiete fahren.",
+          "Halten Sie Kleingeld für eventuelle Mautstraßen oder Parkgebühren bereit."
+        ],
+        "hu": [
+          "A GPS hasznos a vidéki utakon való tájékozódáshoz.",
+          "Ügyeljen a parkolási korlátozásokra a városközpontban.",
+          "Tankoljon, mielőtt elhagyatottabb területekre indulna.",
+          "Tartson magánál aprópénzt az esetleges útdíjakhoz vagy parkolási díjakhoz."
+        ],
+        "ro": [
+          "Un GPS este util pentru a naviga pe drumurile de țară.",
+          "Fiți atenți la restricțiile de parcare în centrul orașului.",
+          "Alimentați cu combustibil înainte de a pleca în zone mai îndepărtate.",
+          "Păstrați mărunțiș pentru eventualele taxe de drum sau de parcare."
+        ],
+        "en": [
+          "A GPS is useful for navigating the country roads.",
+          "Be aware of parking restrictions in the town center.",
+          "Fill up on gas before heading to more remote areas.",
+          "Keep small change ready for any potential tolls or parking fees."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 19.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Amphiaraion von Oropos",
+            "hu": "Oropói Amphiaraion",
+            "ro": "Amphiareion din Oropos",
+            "en": "Amphiaraion of Oropos"
+          },
+          "coords": [
+            23.695,
+            38.293
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen frühen Bus vom Busbahnhof Oropos, um den Tag hier zu beginnen.",
+            "hu": "Induljon korai busszal az oroposi buszpályaudvarról, hogy itt kezdje a napot.",
+            "ro": "Luați un autobuz devreme de la stația de autobuz Oropos pentru a începe ziua aici.",
+            "en": "Take an early bus from the Oropos bus station to start your day here."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            23.767,
+            38.3165
+          ],
+          "category": "squares",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zurück im Zentrum. Zeit für einen Mittagsimbiss in einer der Bäckereien.",
+            "hu": "Vissza a központba. Itt az idő egy ebédre az egyik pékségben.",
+            "ro": "Înapoi în centru. Timp pentru o gustare de prânz la una dintre brutării.",
+            "en": "Back in the center. Time for a midday snack at one of the bakeries."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Skala Oropou",
+            "hu": "Skala Oropou kikötője",
+            "ro": "Portul din Skala Oropou",
+            "en": "Port of Skala Oropou"
+          },
+          "coords": [
+            23.768,
+            38.3175
+          ],
+          "category": "port",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz, um die Meeresbrise zu genießen.",
+            "hu": "Egy rövid séta a tértől, hogy élvezze a tengeri szellőt.",
+            "ro": "La o scurtă plimbare de piață pentru a vă bucura de briza mării.",
+            "en": "A short walk from the square to enjoy the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandpromenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Promenada de pe plajă",
+            "en": "Beach Promenade"
+          },
+          "coords": [
+            23.769,
+            38.317
+          ],
+          "category": "parks",
+          "arrive_at": "14:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie die Promenade entlang und genießen Sie die Aussicht.",
+            "hu": "Sétáljon végig a sétányon és élvezze a kilátást.",
+            "ro": "Plimbați-vă de-a lungul promenadei și bucurați-vă de priveliște.",
+            "en": "Stroll along the promenade and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Andreas",
+            "hu": "Agios Andreas templom",
+            "ro": "Biserica Agios Andreas",
+            "en": "Agios Andreas Church"
+          },
+          "coords": [
+            23.7665,
+            38.3155
+          ],
+          "category": "churches",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe inmitten des städtischen Lebens.",
+            "hu": "A nyugalom szigete a városi élet közepén.",
+            "ro": "Un loc de liniște în mijlocul vieții urbane.",
+            "en": "A place of peace amidst the urban life."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen und Sonnenuntergang am Dilesi Strand",
+            "hu": "Vacsora és naplemente a Dilesi strandon",
+            "ro": "Cină și apus la Plaja Dilesi",
+            "en": "Dinner and Sunset at Dilesi Beach"
+          },
+          "coords": [
+            23.8,
+            38.325
+          ],
+          "category": "gastro",
+          "arrive_at": "16:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus nach Dilesi, um den Tag mit einem Abendessen am Strand ausklingen zu lassen.",
+            "hu": "Menjen busszal Dilesibe, hogy egy tengerparti vacsorával zárja a napot.",
+            "ro": "Luați un autobuz spre Dilesi pentru a încheia ziua cu o cină pe plajă.",
+            "en": "Take a bus to Dilesi to end the day with dinner on the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Busfahrt zum antiken Amphiaraion. Nach der Erkundung der historischen Stätte fahren Sie zurück ins Zentrum von Skala Oropou für ein Mittagessen. Der Nachmittag ist einem Spaziergang gewidmet, der Sie vom Marktplatz zum Hafen, entlang der Promenade und zur Agios-Andreas-Kirche führt. Zum Abschluss des Tages fahren Sie mit dem Bus zum Dilesi-Strand, um den Sonnenuntergang bei einem Abendessen zu genießen.",
+        "hu": "A nap egy buszúttal kezdődik az ókori Amphiaraionhoz. A történelmi helyszín felfedezése után térjen vissza Skala Oropou központjába ebédelni. A délután egy sétáé, amely a Piactérről a kikötőbe, a sétány mentén és az Agios Andreas-templomhoz vezet. A nap végén buszozzon el a Dilesi strandra, hogy vacsora közben élvezze a naplementét.",
+        "ro": "Ziua începe cu o călătorie cu autobuzul la vechiul Amphiareion. După explorarea sitului istoric, întoarceți-vă în centrul orașului Skala Oropou pentru prânz. După-amiaza este dedicată unei plimbări care vă va duce de la Piața Centrală la port, de-a lungul promenadei și la Biserica Agios Andreas. La sfârșitul zilei, luați un autobuz spre plaja Dilesi pentru a vă bucura de apus în timpul cinei.",
+        "en": "Your day begins with a bus ride to the ancient Amphiaraion. After exploring the historic site, return to the center of Skala Oropou for lunch. The afternoon is dedicated to a walking tour that takes you from the Market Square to the port, along the promenade, and to the Agios Andreas Church. To end the day, take a bus to Dilesi Beach to enjoy the sunset over dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tyropita (Käsepastete)",
+            "tip": "Ein perfekter schneller Imbiss von einer Bäckerei am Marktplatz."
+          },
+          {
+            "name": "Calamari",
+            "tip": "Genießen Sie frittierte Calamari in einer Taverne am Dilesi Strand."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Probieren Sie einen leichten Weißwein aus der Region Attika."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tyropita (sajtos pite)",
+            "tip": "Tökéletes gyors harapnivaló egy pékségből a Piactéren."
+          },
+          {
+            "name": "Calamari",
+            "tip": "Élvezze a sült calamarit egy tavernánál a Dilesi strandon."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kóstoljon meg egy könnyű fehérbort Attika régiójából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tyropita (plăcintă cu brânză)",
+            "tip": "O gustare rapidă perfectă de la o brutărie din Piața Centrală."
+          },
+          {
+            "name": "Calamari",
+            "tip": "Bucurați-vă de calamari prăjiți la o tavernă pe plaja Dilesi."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Încercați un vin alb ușor din regiunea Attica."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tyropita (cheese pie)",
+            "tip": "A perfect quick snack from a bakery in the Market Square."
+          },
+          {
+            "name": "Calamari",
+            "tip": "Enjoy fried calamari at a taverna on Dilesi Beach."
+          },
+          {
+            "name": "Local wine",
+            "tip": "Try a light white wine from the Attica region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Landschaft",
+            "tip": "Schauen Sie aus dem Fenster und genießen Sie die vorbeiziehende Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirche Agios Andreas",
+            "tip": "Ein Moment der Stille und Besinnung.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Sonnenuntergang am Meer",
+            "tip": "Das Geräusch der Wellen am Dilesi Strand ist sehr beruhigend.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszút a tájon keresztül",
+            "tip": "Nézzen ki az ablakon, és élvezze az elsuhanó tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agios Andreas templom",
+            "tip": "A csend és az elmélkedés pillanata.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Naplemente a tengernél",
+            "tip": "A hullámok zaja a Dilesi strandon nagyon megnyugtató.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin peisajul rural",
+            "tip": "Priviți pe fereastră și bucurați-vă de peisajul care trece.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Agios Andreas",
+            "tip": "Un moment de liniște și contemplare.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Apus de soare la mare",
+            "tip": "Sunetul valurilor pe plaja Dilesi este foarte liniștitor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the countryside",
+            "tip": "Look out the window and enjoy the passing scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agios Andreas Church",
+            "tip": "A moment of silence and contemplation.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Sunset by the sea",
+            "tip": "The sound of the waves at Dilesi Beach is very calming.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie Tickets, Wasser und einen schnellen Snack für die Fahrt."
+          },
+          {
+            "name": "Kleine Läden in der Nähe des Hafens",
+            "tip": "Stöbern Sie nach maritimen Souvenirs und Postkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon jegyet, vizet és egy gyors harapnivalót az útra."
+          },
+          {
+            "name": "Kis boltok a kikötő közelében",
+            "tip": "Böngésszen tengeri ajándéktárgyak és képeslapok között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la stația de autobuz",
+            "tip": "Cumpărați bilete, apă și o gustare rapidă pentru călătorie."
+          },
+          {
+            "name": "Magazine mici lângă port",
+            "tip": "Căutați suveniruri maritime și cărți poștale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy tickets, water, and a quick snack for the ride."
+          },
+          {
+            "name": "Small shops near the port",
+            "tip": "Browse for maritime souvenirs and postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne, insbesondere für die Fahrt zum Amphiaraion.",
+          "Kaufen Sie eine Tageskarte, wenn diese verfügbar und kostengünstiger ist.",
+          "Seien Sie pünktlich an der Haltestelle, da Busse auf dem Land manchmal unregelmäßig fahren.",
+          "Bestätigen Sie die letzte Busverbindung zurück in die Stadt, besonders abends."
+        ],
+        "hu": [
+          "Tájékozódjon előre a buszmenetrendekről, különösen az Amphiaraionhoz tartó járatokról.",
+          "Vásároljon napijegyet, ha elérhető és olcsóbb.",
+          "Legyen időben a megállóban, mivel a vidéki buszok néha rendszertelenül közlekednek.",
+          "Erősítse meg az utolsó buszjáratot vissza a városba, különösen este."
+        ],
+        "ro": [
+          "Verificați din timp orarele autobuzelor, în special pentru călătoria spre Amphiareion.",
+          "Cumpărați un bilet de o zi dacă este disponibil și mai rentabil.",
+          "Fiți la stație la timp, deoarece autobuzele din zonele rurale pot avea un program neregulat.",
+          "Confirmați ultimul autobuz înapoi în oraș, mai ales seara."
+        ],
+        "en": [
+          "Check the bus schedules in advance, especially for the trip to Amphiaraion.",
+          "Buy a day pass if it's available and more cost-effective.",
+          "Be at the bus stop on time, as rural buses can sometimes be irregular.",
+          "Confirm the last bus back to town, especially in the evening."
+        ]
+      }
+    }
+  }
+}

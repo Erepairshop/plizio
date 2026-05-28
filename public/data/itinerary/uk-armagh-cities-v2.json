@@ -1,0 +1,872 @@
+{
+  "city_id": "uk-armagh-cities-v2",
+  "anchor": {
+    "name": "Armagh",
+    "coords": [
+      -6.6546,
+      54.3499
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "The Mall",
+            "hu": "The Mall",
+            "ro": "The Mall",
+            "en": "The Mall"
+          },
+          "coords": [
+            -6.652,
+            54.346
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Spaziergang auf dieser eleganten georgianischen Promenade.",
+            "hu": "Kezdje a napot egy sétával ezen az elegáns György-korabeli sétányon.",
+            "ro": "Începeți ziua cu o plimbare pe această elegantă promenadă georgiană.",
+            "en": "Start your day with a stroll along this elegant Georgian promenade."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "St.-Patricks-Kathedrale (Church of Ireland)",
+            "hu": "Szent Patrik-katedrális (Ír Egyház)",
+            "ro": "Catedrala Sf. Patrick (Biserica Irlandei)",
+            "en": "St Patrick's Cathedral (COI)"
+          },
+          "coords": [
+            -6.654,
+            54.351
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Gräber von Brian Boru und die komplexe Architektur.",
+            "hu": "Keresse Brian Boru sírját, és figyelje meg a bonyolult építészeti megoldásokat.",
+            "ro": "Căutați mormântul lui Brian Boru și observați arhitectura complexă.",
+            "en": "Look for the grave of Brian Boru and note the intricate architecture."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Robinson Bibliothek",
+            "hu": "Robinson Könyvtár",
+            "ro": "Biblioteca Robinson",
+            "en": "Robinson Library"
+          },
+          "coords": [
+            -6.655,
+            54.3505
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Finden Sie die Erstausgabe von Gullivers Reisen, die mit Notizen von Swift versehen ist.",
+            "hu": "Keresse meg a Gulliver utazásai első kiadását, Swift jegyzeteivel.",
+            "ro": "Găsiți prima ediție a Călătoriilor lui Gulliver, adnotată de Swift.",
+            "en": "Find the first edition of Gulliver's Travels, annotated by Swift."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Armagh County Museum",
+            "hu": "Armagh Megyei Múzeum",
+            "ro": "Muzeul Comitatului Armagh",
+            "en": "Armagh County Museum"
+          },
+          "coords": [
+            -6.651,
+            54.345
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die militärische Sammlung bietet einen tiefen Einblick in die lokale Geschichte.",
+            "hu": "A katonai gyűjtemény mély betekintést nyújt a helyi történelembe.",
+            "ro": "Colecția militară oferă o perspectivă profundă asupra istoriei locale.",
+            "en": "The military collection provides a deep dive into local history."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "St.-Patricks-Kathedrale (römisch-katholisch)",
+            "hu": "Szent Patrik-katedrális (római katolikus)",
+            "ro": "Catedrala Sf. Patrick (Romano-Catolică)",
+            "en": "St Patrick's Cathedral (RC)"
+          },
+          "coords": [
+            -6.66,
+            54.353
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:55",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Hügel für eine atemberaubende Aussicht und beeindruckende Mosaike im Inneren.",
+            "hu": "Sétáljon fel a dombra a lélegzetelállító kilátásért és a lenyűgöző belső mozaikokért.",
+            "ro": "Urcați dealul pentru priveliști uimitoare și mozaicuri interioare impresionante.",
+            "en": "Climb the hill for stunning views and impressive mosaics inside."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Abendessen im Stadtzentrum",
+            "hu": "Vacsora a városközpontban",
+            "ro": "Cină în centrul orașului",
+            "en": "Dinner in City Centre"
+          },
+          "coords": [
+            -6.654,
+            54.348
+          ],
+          "category": "gastro",
+          "arrive_at": "17:40",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Restaurant für einen herzhaften Ulster Fry.",
+            "hu": "Kóstoljon meg egy kiadós Ulster Fry-t egy helyi étteremben.",
+            "ro": "Încercați un restaurant local pentru un Ulster Fry copios.",
+            "en": "Try a local restaurant for a hearty Ulster Fry."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihre Entdeckungsreise zu Fuß in Armagh mit einem Spaziergang durch den eleganten Mall, ein perfekter Auftakt für den Tag. Von dort aus führt ein kurzer Spaziergang zur historischen St. Patrick's Cathedral (COI), wo Sie in die jahrhundertealte Geschichte eintauchen können.\nMittag: Nach der Kathedrale besuchen Sie die nahegelegene Robinson Library, um ihre seltenen Bücher und Manuskripte zu bewundern. Für das Mittagessen finden Sie charmante Cafés rund um den Russell Street, die lokale Köstlichkeiten anbieten.\nNachmittag: Setzen Sie Ihre kulturelle Tour im Armagh County Museum fort, das sich ebenfalls in der Nähe des Malls befindet. Anschließend machen Sie einen belebenden Spaziergang bergauf zur imposanten römisch-katholischen St. Patrick's Cathedral, die einen Panoramablick über die Stadt bietet.\nAbend: Wenn der Abend naht, gehen Sie zurück ins Stadtzentrum. Die Gegend um die Market Street bietet eine Vielzahl von Restaurants für ein köstliches Abendessen, das einen Tag voller Erkundungen perfekt abrundet. Genießen Sie die gastfreundliche Atmosphäre der ältesten Stadt Irlands.",
+        "hu": "Reggel: Kezdje Armagh gyalogos felfedezését egy sétával az elegáns The Mall-on, amely tökéletes bevezető a naphoz. Innen egy rövid séta vezet a történelmi Szent Patrik-székesegyházhoz (Ír Egyház), ahol évszázados történelembe merülhet.\nDél: A székesegyház után látogasson el a közeli Robinson Könyvtárba, hogy megcsodálja ritka könyveit és kéziratait. Ebédre a Russell Street környékén bájos kávézókat talál, amelyek helyi finomságokat kínálnak.\nDélután: Folytassa kulturális túráját az Armagh Megyei Múzeumban, amely szintén a The Mall közelében található. Ezután tegyen egy élénkítő sétát felfelé a dombon az impozáns római katolikus Szent Patrik-székesegyházhoz, ahonnan panorámás kilátás nyílik a városra.\nEste: Az este közeledtével térjen vissza a városközpontba. A Market Street környéke számos éttermet kínál egy finom vacsorához, amely méltó befejezése a felfedezéssel töltött napnak. Élvezze Írország legrégebbi városának barátságos légkörét.",
+        "ro": "Dimineață: Începeți explorarea pe jos a orașului Armagh cu o plimbare prin elegantul The Mall, o introducere perfectă pentru zi. De acolo, o scurtă plimbare vă duce la istorica Catedrală Sf. Patrick (COI), unde puteți pătrunde în secole de istorie.\nPrânz: După catedrală, vizitați Biblioteca Robinson din apropiere pentru a admira cărțile și manuscrisele sale rare. Pentru prânz, veți găsi cafenele fermecătoare în jurul străzii Russell, care oferă delicatese locale.\nDupă-amiază: Continuați-vă turul cultural la Muzeul Comitatului Armagh, situat convenabil lângă The Mall. Apoi, faceți o plimbare revigorantă pe deal până la impunătoarea Catedrală Catolică Sf. Patrick, care oferă vederi panoramice ale orașului.\nSeară: Pe măsură ce se apropie seara, întoarceți-vă în centrul orașului. Zona din jurul Market Street oferă o varietate de restaurante pentru o cină delicioasă, încheind o zi de explorare. Bucurați-vă de atmosfera primitoare a celui mai vechi oraș din Irlanda.",
+        "en": "Morning: Begin your walking exploration of Armagh with a stroll through the elegant Mall, a perfect introduction to the day. From there, a short walk leads to the historic St. Patrick's Cathedral (COI), where you can delve into centuries of history.\nMidday: After the cathedral, visit the nearby Robinson Library to admire its rare books and manuscripts. For lunch, you'll find charming cafes around Russell Street offering local delicacies.\nAfternoon: Continue your cultural tour at the Armagh County Museum, also conveniently located near The Mall. Afterwards, take an invigorating walk uphill to the imposing St. Patrick's Roman Catholic Cathedral, which offers panoramic views of the city.\nEvening: As evening approaches, head back towards the city centre. The area around Market Street provides a variety of restaurants for a delicious dinner, perfectly capping off a day of exploration. Enjoy the welcoming atmosphere of Ireland's oldest city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Ein Muss zum Frühstück, ein herzhafter Teller, um den Tag zu beginnen."
+          },
+          {
+            "name": "Armagh Bramley Äpfel",
+            "tip": "Probieren Sie einen Crumble oder Pie mit diesen lokal angebauten, geschützten Äpfeln."
+          },
+          {
+            "name": "Lokale Craft-Cider",
+            "tip": "Als 'Orchard County' ist Armagh berühmt für seine Cider. Besuchen Sie ein lokales Pub, um sie zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Kötelező reggeli, egy kiadós tányér a nap indításához."
+          },
+          {
+            "name": "Armagh Bramley alma",
+            "tip": "Kóstoljon meg egy crumble-t vagy pitét, amely ezekből a helyben termesztett, oltalom alatt álló almákból készült."
+          },
+          {
+            "name": "Helyi kézműves almabor",
+            "tip": "A 'Gyümölcsös Megyeként' Armagh híres almaborairól. Látogasson el egy helyi kocsmába, és kóstolja meg."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulster Fry",
+            "tip": "O necesitate pentru micul dejun, o farfurie consistentă pentru a începe ziua."
+          },
+          {
+            "name": "Mere Armagh Bramley",
+            "tip": "Încercați un crumble sau o plăcintă făcută cu aceste mere locale protejate."
+          },
+          {
+            "name": "Cidru artizanal local",
+            "tip": "Fiind 'Comitatul Livezilor', Armagh este renumit pentru cidrurile sale. Vizitați un pub local pentru a le degusta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ulster Fry",
+            "tip": "A must-try for breakfast, a hearty plate to start the day."
+          },
+          {
+            "name": "Armagh Bramley Apples",
+            "tip": "Try a crumble or pie made with these locally grown, protected status apples."
+          },
+          {
+            "name": "Local Craft Cider",
+            "tip": "Being the 'Orchard County', Armagh is famous for its ciders. Visit a local pub to sample them."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palace Demesne",
+            "tip": "Ein ruhiger Park, etwas weiter vom Zentrum entfernt, ideal für einen friedlichen Spaziergang.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Der Mall am frühen Morgen",
+            "tip": "Erleben Sie die Promenade in ihrer ruhigsten Form, bevor die Stadt erwacht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten der Robinson Library",
+            "tip": "Eine kleine, abgeschiedene Oase der Ruhe im Herzen der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palace Demesne",
+            "tip": "Egy csendes park kissé távolabb a központtól, ideális egy békés sétához.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The Mall kora reggel",
+            "tip": "Tapasztalja meg a sétányt a legcsendesebb formájában, mielőtt a város felébred.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Robinson Könyvtár kertje",
+            "tip": "Egy kicsi, eldugott, békés menedék a város szívében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Palace Demesne",
+            "tip": "Un parc liniștit, puțin mai departe de centru, perfect pentru o plimbare pașnică.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The Mall dimineața devreme",
+            "tip": "Experimentați promenada în cea mai liniștită formă, înainte ca orașul să se trezească.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Bibliotecii Robinson",
+            "tip": "Un mic refugiu de pace, izolat în inima orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palace Demesne",
+            "tip": "A quiet park a little further from the centre, perfect for a peaceful walk.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The Mall in the early morning",
+            "tip": "Experience the promenade at its most tranquil before the city wakes up.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Robinson Library Gardens",
+            "tip": "A small, secluded pocket of peace in the heart of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Shambles Market",
+            "tip": "Überprüfen Sie die Termine für diesen lebhaften Markt, der lokale Produkte und Handwerk anbietet."
+          },
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Suchen Sie nach Geschäften in der Nähe des Zentrums, die handgefertigte irische Waren verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Shambles Market",
+            "tip": "Ellenőrizze a dátumokat, hogy elkapja-e ezt a nyüzsgő piacot, ahol helyi termékeket és kézműves árukat kínálnak."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen a központ közelében üzleteket, amelyek kézzel készített ír termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Shambles Market",
+            "tip": "Verificați datele pentru această piață plină de viață, cu produse locale și artizanat."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați magazine în apropierea centrului care vând produse artizanale irlandeze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shambles Market",
+            "tip": "Check dates for this vibrant market offering local produce and crafts."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for shops near the centre selling handmade Irish goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe; Armagh hat einige Hügel, besonders den Aufstieg zur katholischen Kathedrale.",
+          "Die meisten Hauptattraktionen liegen nahe beieinander, was das Gehen zur idealen Art der Erkundung macht.",
+          "Überprüfen Sie die Öffnungszeiten der Bibliotheken und Museen im Voraus, da diese variieren können.",
+          "Ein leichter Regenmantel ist immer eine gute Idee in Irland, egal wie der Tag beginnt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt; Armagh-ban vannak dombok, különösen a katolikus székesegyházhoz vezető emelkedő.",
+          "A legtöbb fő látnivaló közel van egymáshoz, így a gyaloglás ideális a felfedezéshez.",
+          "Előre ellenőrizze a könyvtárak és múzeumok nyitvatartási idejét, mivel az változhat.",
+          "Egy könnyű esőkabát mindig jó ötlet Írországban, függetlenül attól, hogyan indul a nap."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă; Armagh are câteva dealuri, în special urcarea la Catedrala Catolică.",
+          "Majoritatea atracțiilor principale sunt aproape una de alta, făcând mersul pe jos modul ideal de a explora.",
+          "Verificați în avans orele de deschidere ale bibliotecilor și muzeelor, deoarece acestea pot varia.",
+          "O haină de ploaie ușoară este întotdeauna o idee bună în Irlanda, indiferent de cum începe ziua."
+        ],
+        "en": [
+          "Wear comfortable shoes; Armagh has some hills, especially the climb to the Catholic Cathedral.",
+          "Most main attractions are close together, making walking the ideal way to explore.",
+          "Check opening times for the libraries and museums in advance as they can vary.",
+          "A light raincoat is always a good idea in Ireland, no matter how the day starts."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 10.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Start: The Mall",
+            "hu": "Indulás: The Mall",
+            "ro": "Start: The Mall",
+            "en": "Start: The Mall"
+          },
+          "coords": [
+            -6.652,
+            54.346
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie eine schnelle Runde um die Promenade, um sich aufzuwärmen.",
+            "hu": "Tegyen egy gyors kört a sétányon a bemelegítéshez.",
+            "ro": "Faceți o tură rapidă în jurul promenadei pentru a vă încălzi.",
+            "en": "Do a quick lap of the promenade to warm up."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Armagh Observatorium",
+            "hu": "Armagh Obszervatórium",
+            "ro": "Observatorul Armagh",
+            "en": "Armagh Observatory"
+          },
+          "coords": [
+            -6.65,
+            54.345
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Radfahren durch das Gelände ist herrlich. Schließen Sie Ihr Fahrrad an und erkunden Sie die Sonnenuhren.",
+            "hu": "Kerékpározni a területen csodálatos. Zárja le a biciklit és fedezze fel a napórákat.",
+            "ro": "Plimbarea cu bicicleta prin incintă este minunată. Asigurați-vă bicicleta și explorați cadranele solare.",
+            "en": "Cycling through the grounds is delightful. Lock up your bike and explore the sundials."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "St.-Patricks-Kathedrale (Church of Ireland)",
+            "hu": "Szent Patrik-katedrális (Ír Egyház)",
+            "ro": "Catedrala Sf. Patrick (Biserica Irlandei)",
+            "en": "St Patrick's Cathedral (COI)"
+          },
+          "coords": [
+            -6.654,
+            54.351
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad am Fuß des Hügels und machen Sie den kurzen Aufstieg.",
+            "hu": "Hagyja a kerékpárt a domb alján, és tegye meg a rövid sétát felfelé.",
+            "ro": "Lăsați bicicleta la baza dealului și faceți scurta urcare.",
+            "en": "Leave your bike at the bottom of the hill and make the short climb."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "St.-Patricks-Kathedrale (römisch-katholisch)",
+            "hu": "Szent Patrik-katedrális (római katolikus)",
+            "ro": "Catedrala Sf. Patrick (Romano-Catolică)",
+            "en": "St Patrick's Cathedral (RC)"
+          },
+          "coords": [
+            -6.66,
+            54.353
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:34",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Der Aufstieg mit dem Fahrrad ist eine Herausforderung, aber die Aussicht ist die Belohnung.",
+            "hu": "A kerékpáros emelkedő kihívást jelent, de a kilátás a jutalom.",
+            "ro": "Urcarea pe bicicletă este o provocare, dar priveliștea este recompensa.",
+            "en": "The cycle up is a challenge, but the views are the reward."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Navan Centre & Fort",
+            "hu": "Navan Központ és Erőd",
+            "ro": "Centrul și Fortul Navan",
+            "en": "Navan Centre & Fort"
+          },
+          "coords": [
+            -6.688,
+            54.349
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:14",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt von der Stadt zu diesem alten Monument. Es gibt Fahrradständer.",
+            "hu": "Kellemes út a városból ehhez az ősi emlékműhöz. Vannak kerékpártárolók.",
+            "ro": "O plimbare plăcută de la oraș la acest monument antic. Există suporturi pentru biciclete.",
+            "en": "A pleasant ride out from the city to this ancient monument. Bike racks are available."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Armagh Planetarium",
+            "hu": "Armagh Planetárium",
+            "ro": "Planetariul Armagh",
+            "en": "Armagh Planetarium"
+          },
+          "coords": [
+            -6.648,
+            54.346
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:06",
+          "stay_min": 55,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einer Reise zu den Sternen.",
+            "hu": "Zárja a túrát egy utazással a csillagokba.",
+            "ro": "Încheiați-vă turul cu o călătorie spre stele.",
+            "en": "End your tour with a journey to the stars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihre Radtour auf dem grünen Mall, bevor Sie zum Armagh Observatory radeln, wo Wissenschaft auf Geschichte trifft. Nach der Erkundung des Geländes fahren Sie zu den beiden berühmten Kathedralen der Stadt. Die kurze, aber steile Fahrt zu jeder Kathedrale lohnt sich für die spirituelle Atmosphäre und die Aussicht.\nMittag: Nach den Kathedralen machen Sie eine Pause zum Mittagessen im Stadtzentrum. Tanken Sie Energie für die Fahrt am Nachmittag. Viele Cafés bieten gesunde Optionen, die perfekt für Radfahrer sind.\nNachmittag: Am Nachmittag unternehmen Sie eine längere, aber lohnende Fahrt zum Navan Centre & Fort, dem alten Herzen von Ulster. Die Route führt Sie durch eine wunderschöne Landschaft. Genießen Sie die antike Stätte, bevor Sie zurück in die Stadt fahren.\nAbend: Beenden Sie Ihren Tag mit einem Besuch im Armagh Planetarium, das sich in der Nähe des Observatoriums befindet, das Sie am Morgen besucht haben. Es ist eine entspannende Möglichkeit, sich nach einem Tag im Sattel zu erholen. Anschließend finden Sie im Stadtzentrum zahlreiche Möglichkeiten für ein wohlverdientes Abendessen.",
+        "hu": "Reggel: Kezdje kerékpártúráját a zöldellő The Mall-on, mielőtt az Armagh Obszervatóriumhoz teker, ahol a tudomány találkozik a történelemmel. A terület felfedezése után irány a város két híres katedrálisa. A rövid, de meredek út mindkét katedrálishoz megéri a spirituális hangulatért és a kilátásért.\nDél: A katedrálisok után tartson ebédszünetet a városközpontban. Töltődjön fel a délutáni tekerésre. Számos kávézó kínál egészséges, kerékpárosbarát opciókat.\nDélután: Délután tegyen egy hosszabb, de annál hálásabb utat a Navan Központhoz és Erődhöz, Ulster ősi szívéhez. Az útvonal gyönyörű tájakon vezet keresztül. Élvezze az ősi helyszínt, mielőtt visszateker a városba.\nEste: Zárja a napot az Armagh Planetárium meglátogatásával, amely a reggel meglátogatott Obszervatórium közelében található. Ez egy pihentető módja a nap végének a nyeregben töltött nap után. Ezt követően a városközpontban számos lehetőség közül választhat egy jól megérdemelt vacsorához.",
+        "ro": "Dimineață: Începeți-vă turul pe bicicletă pe The Mall, înainte de a pedala spre Observatorul Armagh, unde știința întâlnește istoria. După ce explorați terenul, îndreptați-vă spre cele două catedrale emblematice ale orașului. Drumul scurt, dar abrupt, către fiecare dintre ele merită pentru atmosfera spirituală și priveliști.\nPrânz: După catedrale, luați o pauză de prânz în centrul orașului. Alimentați-vă pentru plimbarea de după-amiază. Multe cafenele oferă opțiuni sănătoase, perfecte pentru cicliști.\nDupă-amiază: După-amiaza, faceți o plimbare mai lungă, dar plină de satisfacții, până la Centrul și Fortul Navan, inima antică a Ulsterului. Traseul vă poartă prin peisaje rurale frumoase. Bucurați-vă de situl antic înainte de a vă întoarce în oraș.\nSeară: Încheiați-vă ziua cu o vizită la Planetariul Armagh, situat convenabil lângă Observatorul pe care l-ați vizitat dimineața. Este o modalitate relaxantă de a vă relaxa după o zi în șa. Ulterior, centrul orașului oferă numeroase opțiuni pentru o cină binemeritată.",
+        "en": "Morning: Start your cycling tour on the leafy Mall before heading to the Armagh Observatory, where science meets history. After exploring the grounds, head towards the city's two iconic cathedrals. The short but steep ride to each is worth it for the spiritual atmosphere and the views.\nMidday: After the cathedrals, take a break for lunch in the city centre. Fuel up for the afternoon's ride. Many cafes offer healthy options perfect for cyclists.\nAfternoon: In the afternoon, take a longer but rewarding ride out to the Navan Centre & Fort, the ancient heart of Ulster. The route takes you through some beautiful countryside. Enjoy the ancient site before cycling back towards the city.\nEvening: Finish your day with a visit to the Armagh Planetarium, conveniently located near the Observatory you visited in the morning. It's a relaxing way to wind down after a day in the saddle. Afterwards, the city centre offers plenty of options for a well-deserved dinner."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 9.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Parkplatz nahe dem Navan Centre",
+            "hu": "Parkolás a Navan Központ közelében",
+            "ro": "Parcare lângă Centrul Navan",
+            "en": "Parking near Navan Centre"
+          },
+          "coords": [
+            -6.689,
+            54.35
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem wichtigen antiken Ort. Es gibt ausreichend Parkplätze.",
+            "hu": "Kezdje a napot ennél a fontos ősi helyszínnél. Bőséges parkolási lehetőség.",
+            "ro": "Începeți ziua la acest important sit antic. Parcarea este amplă.",
+            "en": "Start your day at this key ancient site. Parking is ample."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Navan Centre & Fort",
+            "hu": "Navan Központ és Erőd",
+            "ro": "Centrul și Fortul Navan",
+            "en": "Navan Centre & Fort"
+          },
+          "coords": [
+            -6.688,
+            54.349
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:11",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Mythen und die Geschichte von Emain Macha.",
+            "hu": "Merüljön el Emain Macha mítoszaiban és történelmében.",
+            "ro": "Cufundați-vă în miturile și istoria Emain Macha.",
+            "en": "Immerse yourself in the myths and history of Emain Macha."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Parkplatz im Stadtzentrum (The Mall)",
+            "hu": "Parkolás a városközpontban (The Mall)",
+            "ro": "Parcare în centrul orașului (The Mall)",
+            "en": "Parking in City Centre (The Mall)"
+          },
+          "coords": [
+            -6.653,
+            54.347
+          ],
+          "category": "transport",
+          "arrive_at": "11:09",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages und erkunden Sie das kompakte Zentrum zu Fuß.",
+            "hu": "Parkoljon itt a nap hátralévő részére, és fedezze fel gyalog a kompakt központot.",
+            "ro": "Parcați aici pentru restul zilei și explorați centrul compact pe jos.",
+            "en": "Park here for the rest of the day and explore the compact centre on foot."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "St.-Patricks-Kathedrale (Church of Ireland)",
+            "hu": "Szent Patrik-katedrális (Ír Egyház)",
+            "ro": "Catedrala Sf. Patrick (Biserica Irlandei)",
+            "en": "St Patrick's Cathedral (COI)"
+          },
+          "coords": [
+            -6.654,
+            54.351
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz entfernt, um die Geschichte aufzusaugen.",
+            "hu": "Egy rövid séta a parkolótól, hogy magába szívja a történelmet.",
+            "ro": "O scurtă plimbare de la parcare pentru a absorbi istoria.",
+            "en": "A short walk from the car park to soak in the history."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "St.-Patricks-Kathedrale (römisch-katholisch)",
+            "hu": "Szent Patrik-katedrális (római katolikus)",
+            "ro": "Catedrala Sf. Patrick (Romano-Catolică)",
+            "en": "St Patrick's Cathedral (RC)"
+          },
+          "coords": [
+            -6.66,
+            54.353
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:42",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Stadt zu Fuß zur Zwillingskathedrale für einen atemberaubenden Blick.",
+            "hu": "Sétáljon át a városon az ikerkatedrálishoz a lenyűgöző kilátásért.",
+            "ro": "Traversați orașul pe jos până la catedrala geamănă pentru o priveliște uimitoare.",
+            "en": "Walk across town to the twin cathedral for stunning views."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Parkplatz am Observatorium",
+            "hu": "Parkolás az Obszervatóriumnál",
+            "ro": "Parcare la Observator",
+            "en": "Parking at Observatory"
+          },
+          "coords": [
+            -6.649,
+            54.3455
+          ],
+          "category": "transport",
+          "arrive_at": "14:27",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Der letzte Fahrtabschnitt des Tages führt Sie zum Wissenschaftszentrum von Armagh.",
+            "hu": "A nap utolsó autós szakasza Armagh tudományos központjába visz.",
+            "ro": "Ultima etapă cu mașina a zilei vă duce la centrul științific din Armagh.",
+            "en": "The final car leg of the day takes you to Armagh's science hub."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Armagh Observatorium & Planetarium",
+            "hu": "Armagh Obszervatórium és Planetárium",
+            "ro": "Observatorul și Planetariul Armagh",
+            "en": "Armagh Observatory & Planetarium"
+          },
+          "coords": [
+            -6.65,
+            54.345
+          ],
+          "category": "historical",
+          "arrive_at": "14:29",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie beide Orte, das historische Observatorium und die moderne Planetariumsshow.",
+            "hu": "Fedezze fel mindkét helyszínt, a történelmi Obszervatóriumot és a modern Planetárium előadását.",
+            "ro": "Explorați ambele locuri, observatorul istoric și spectacolul modern al planetariului.",
+            "en": "Explore both sites, the historic observatory and the modern planetarium show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihren Tag mit dem Auto am Navan Centre & Fort, dem mythischen Herzen Irlands. Erkunden Sie diesen weitläufigen Ort, bevor Sie ins Zentrum von Armagh fahren. Parken Sie Ihr Auto in der Nähe des Malls für den nächsten Erkundungscluster.\nMittag: Nach dem Parken machen Sie sich zu Fuß auf den Weg, um die beiden prächtigen Kathedralen von St. Patrick zu entdecken. Beginnen Sie mit der historischen Kathedrale der Church of Ireland und spazieren Sie dann durch die Stadt zur imposanten römisch-katholischen Kathedrale auf dem Hügel. Genießen Sie ein Mittagessen in einem der vielen Restaurants im Zentrum.\nNachmittag: Am Nachmittag kehren Sie zu Ihrem Auto zurück für eine kurze Fahrt zum letzten Cluster: dem Armagh Observatory und dem Planetarium. Parken Sie dort und verbringen Sie den Rest Ihres Nachmittags damit, den Kosmos und die wunderschöne Anlage des Observatoriums zu erkunden.\nAbend: Wenn Ihre wissenschaftliche Erkundung beendet ist, fahren Sie zurück ins Stadtzentrum oder wählen ein Restaurant in der Nähe Ihres Hotels für das Abendessen. Die Cluster-Strategie mit dem Auto ermöglicht es Ihnen, sowohl die antike Geschichte außerhalb der Stadt als auch den kompakten städtischen Kern effizient zu erleben.",
+        "hu": "Reggel: Kezdje autós napját a Navan Központnál és Erődnél, Írország mitikus szívénél. Fedezze fel ezt a tágas helyszínt, mielőtt beautózik Armagh központjába. Parkolja le autóját a The Mall közelében a következő felfedezőcsomópontra.\nDél: Miután leparkolt, induljon gyalog, hogy felfedezze a két csodálatos Szent Patrik-katedrálist. Kezdje a történelmi Ír Egyház katedrálisával, majd sétáljon át a városon a dombon álló impozáns római katolikus katedrálishoz. Ebédeljen meg a központ számos éttermének egyikében.\nDélután: Délután térjen vissza autójához egy rövid útra az utolsó csomóponthoz: az Armagh Obszervatóriumhoz és Planetáriumhoz. Parkoljon le, és töltse a délután hátralévő részét a kozmosz és az obszervatórium gyönyörű területének felfedezésével.\nEste: Miután a tudományos felfedezés véget ért, vezessen vissza a városközpontba, vagy válasszon egy éttermet a szállása közelében vacsorára. Az autós „cluster” stratégia lehetővé teszi, hogy hatékonyan megtapasztalja mind a városon kívüli ősi történelmet, mind a kompakt városi magot.",
+        "ro": "Dimineață: Începeți-vă ziua cu mașina la Centrul și Fortul Navan, inima mitică a Irlandei. Explorați acest sit întins înainte de a conduce în centrul orașului Armagh. Parcați mașina lângă The Mall pentru următorul grup de explorare.\nPrânz: Odată parcat, porniți pe jos pentru a descoperi cele două magnifice Catedrale Sf. Patrick. Începeți cu catedrala istorică a Bisericii Irlandei, apoi traversați orașul până la impunătoarea Catedrală Catolică de pe deal. Bucurați-vă de prânz la unul dintre numeroasele restaurante din centru.\nDupă-amiază: După-amiaza, reveniți la mașină pentru o scurtă călătorie către ultimul grup: Observatorul și Planetariul Armagh. Parcați acolo și petreceți restul după-amiezii explorând cosmosul și terenurile frumoase ale observatorului.\nSeară: Odată ce explorarea științifică s-a încheiat, conduceți înapoi în centrul orașului sau alegeți un restaurant aproape de cazare pentru cină. Strategia cu mașina pe clustere vă permite să experimentați eficient atât istoria antică din afara orașului, cât și nucleul urban compact.",
+        "en": "Morning: Start your day by car at the Navan Centre & Fort, the mythical heart of Ireland. Explore this expansive site before driving into the centre of Armagh. Park your car near The Mall for the next cluster of exploration.\nMidday: Once parked, set off on foot to discover the two magnificent St. Patrick's Cathedrals. Start with the historic Church of Ireland cathedral, then walk across town to the imposing Roman Catholic cathedral on the hill. Enjoy lunch at one of the many eateries in the centre.\nAfternoon: In the afternoon, return to your car for a short drive to the final cluster: the Armagh Observatory and Planetarium. Park there and spend the rest of your afternoon exploring the cosmos and the beautiful grounds of the observatory.\nEvening: Once your scientific exploration is complete, drive back to the city centre or choose a restaurant near your accommodation for dinner. The car cluster strategy allows you to efficiently experience both the ancient history outside the city and the compact urban core."
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Bushaltestelle The Mall",
+            "hu": "Buszmegálló: The Mall",
+            "ro": "Stația de autobuz The Mall",
+            "en": "Bus Stop at The Mall"
+          },
+          "coords": [
+            -6.652,
+            54.346
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Steigen Sie im Herzen von Armagh aus, um Ihre Erkundung zu beginnen.",
+            "hu": "Szálljon le Armagh szívében, hogy elkezdje a felfedezést.",
+            "ro": "Coborâți în inima orașului Armagh pentru a începe explorarea.",
+            "en": "Alight in the heart of Armagh to begin your exploration."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Armagh County Museum",
+            "hu": "Armagh Megyei Múzeum",
+            "ro": "Muzeul Comitatului Armagh",
+            "en": "Armagh County Museum"
+          },
+          "coords": [
+            -6.651,
+            54.345
+          ],
+          "category": "museums",
+          "arrive_at": "09:12",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Einblick in die reiche Geschichte des Landkreises.",
+            "hu": "Kezdje a napot a megye gazdag történelmének megismerésével.",
+            "ro": "Începeți ziua cu o incursiune în istoria bogată a comitatului.",
+            "en": "Start your day with a dive into the county's rich history."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Robinson Bibliothek",
+            "hu": "Robinson Könyvtár",
+            "ro": "Biblioteca Robinson",
+            "en": "Robinson Library"
+          },
+          "coords": [
+            -6.655,
+            54.3505
+          ],
+          "category": "museums",
+          "arrive_at": "11:07",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang führt Sie zu diesem Juwel, das alte Manuskripte beherbergt.",
+            "hu": "Egy rövid séta vezet ehhez a régi kéziratokat rejtő gyöngyszemhez.",
+            "ro": "O scurtă plimbare vă duce la această bijuterie care adăpostește manuscrise vechi.",
+            "en": "A short walk takes you to this gem housing ancient manuscripts."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Bushaltestelle am College Hill",
+            "hu": "Buszmegálló: College Hill",
+            "ro": "Stația de autobuz College Hill",
+            "en": "Bus Stop at College Hill"
+          },
+          "coords": [
+            -6.648,
+            54.345
+          ],
+          "category": "transport",
+          "arrive_at": "13:07",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum nächsten Cluster von Attraktionen.",
+            "hu": "Vegyen buszt a következő látnivalócsoporthoz.",
+            "ro": "Luați un autobuz către următorul grup de atracții.",
+            "en": "Take a bus to the next cluster of attractions."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Armagh Planetarium",
+            "hu": "Armagh Planetárium",
+            "ro": "Planetariul Armagh",
+            "en": "Armagh Planetarium"
+          },
+          "coords": [
+            -6.648,
+            54.346
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekt für einen Nachmittag, um die Wunder des Universums zu erkunden.",
+            "hu": "Tökéletes egy délutánra, hogy felfedezze az univerzum csodáit.",
+            "ro": "Perfect pentru o după-amiază de explorare a minunilor universului.",
+            "en": "Perfect for an afternoon exploring the wonders of the universe."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Armagh Observatorium",
+            "hu": "Armagh Obszervatórium",
+            "ro": "Observatorul Armagh",
+            "en": "Armagh Observatory"
+          },
+          "coords": [
+            -6.65,
+            54.345
+          ],
+          "category": "historical",
+          "arrive_at": "14:33",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie vom Planetarium zum historischen Observatorium nebenan.",
+            "hu": "Sétáljon át a Planetáriumból a szomszédos történelmi Obszervatóriumba.",
+            "ro": "Plimbați-vă de la planetariu la observatorul istoric de alături.",
+            "en": "Stroll from the planetarium to the historic observatory next door."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihre mit öffentlichen Verkehrsmitteln unterstützte Tour, indem Sie einen Bus zum Mall nehmen. Der erste Erkundungscluster konzentriert sich auf diesen zentralen Bereich. Spazieren Sie zum Armagh County Museum und zur nahegelegenen Robinson Library und genießen Sie einen Vormittag voller Geschichte und Kultur.\nMittag: Nach der Erkundung des ersten Clusters finden Sie zahlreiche Möglichkeiten für ein Mittagessen in der Nähe des Stadtzentrums. Genießen Sie eine Mahlzeit, bevor Sie einen Bus zum nächsten Ziel nehmen.\nNachmittag: Am Nachmittag nehmen Sie einen Bus in Richtung College Hill. Dieser kurze Transit bringt Sie zu Ihrem zweiten Cluster: dem Armagh Planetarium und dem Observatorium. Verbringen Sie den Nachmittag damit, den Himmel und die Sterne zu erkunden, nur einen kurzen Spaziergang voneinander entfernt.\nAbend: Wenn Ihre himmlische Tour beendet ist, nehmen Sie einen Bus zurück ins Stadtzentrum. Die Frequenz der Busse lässt gegen Abend nach, planen Sie also entsprechend. Genießen Sie ein abschließendes Abendessen im Herzen von Armagh, nachdem Sie die Stadt sowohl zu Fuß als auch mit dem Bus erkundet haben.",
+        "hu": "Reggel: Kezdje a tömegközlekedéssel támogatott túrát egy busszal a The Mall-hoz. Az első felfedezőcsoport erre a központi területre összpontosít. Sétáljon el az Armagh Megyei Múzeumba és a közeli Robinson Könyvtárba, és élvezze a történelemmel és kultúrával teli délelőttöt.\nDél: Az első csoport felfedezése után számos ebédlehetőséget talál a városközpont közelében. Élvezze az ételt, mielőtt buszra szállna a következő úti célhoz.\nDélután: Délután szálljon buszra a College Hill felé. Ez a rövid utazás elviszi a második csoporthoz: az Armagh Planetáriumhoz és Obszervatóriumhoz. Töltse a délutánt az égbolt és a csillagok felfedezésével, amelyek csak egy rövid sétára vannak egymástól.\nEste: Amikor a csillagászati túra véget ér, szálljon buszra vissza a városközpontba. A buszok gyakorisága estefelé csökken, ezért tervezzen ennek megfelelően. Élvezze a záróvacsorát Armagh szívében, miután felfedezte a várost gyalog és busszal is.",
+        "ro": "Dimineață: Începeți turul asistat de tranzit luând un autobuz spre The Mall. Primul grup de explorare se concentrează pe această zonă centrală. Plimbați-vă la Muzeul Comitatului Armagh și la Biblioteca Robinson din apropiere, bucurându-vă de o dimineață de istorie și cultură.\nPrânz: După ce explorați primul grup, veți găsi o mulțime de opțiuni de prânz în apropierea centrului orașului. Bucurați-vă de o masă înainte de a lua un autobuz către următoarea destinație.\nDupă-amiază: După-amiaza, luați un autobuz spre zona College Hill. Acest scurt tranzit vă va aduce la al doilea grup: Planetariul și Observatorul Armagh. Petreceți după-amiaza explorând cerul și stelele, la o scurtă plimbare una de cealaltă.\nSeară: Când turul ceresc se încheie, luați un autobuz înapoi spre centrul orașului. Frecvența autobuzelor tinde să scadă spre seară, așa că planificați-vă în consecință. Bucurați-vă de o cină finală în inima orașului Armagh, după ce ați explorat orașul atât pe jos, cât și cu autobuzul.",
+        "en": "Morning: Begin your transit-assisted tour by taking a bus to The Mall. The first cluster of exploration focuses on this central area. Walk to the Armagh County Museum and the nearby Robinson Library, enjoying a morning of history and culture.\nMidday: After exploring the first cluster, you'll find plenty of options for lunch near the city centre. Enjoy a meal before catching a bus to the next destination.\nAfternoon: In the afternoon, take a bus towards the College Hill area. This short transit will bring you to your second cluster: the Armagh Planetarium and Observatory. Spend the afternoon exploring the heavens and the stars, just a short walk from each other.\nEvening: When your celestial tour concludes, take a bus back towards the city centre. Bus frequency tends to decrease in the evening, so plan accordingly. Enjoy a final dinner in the heart of Armagh after exploring the city by both foot and bus."
+      }
+    }
+  }
+}

@@ -1,0 +1,1532 @@
+{
+  "city_id": "uk-st-albans-cities-v2",
+  "anchor": {
+    "name": "St Albans",
+    "coords": [
+      -0.3344,
+      51.7519
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Uhrturm von St Albans",
+            "hu": "St Albans óratorony",
+            "ro": "Turnul cu Ceas St Albans",
+            "en": "St Albans Clock Tower"
+          },
+          "coords": [
+            -0.3398,
+            51.7509
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie für eine großartige Aussicht auf den Marktplatz hinauf.",
+            "hu": "Mássz fel a tetejére a piactérre nyíló remek kilátásért.",
+            "ro": "Urcați pentru o priveliște minunată asupra pieței.",
+            "en": "Climb to the top for a great view of the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "St Albans Museum + Galerie",
+            "hu": "St Albans Múzeum + Galéria",
+            "ro": "Muzeul și Galeria St Albans",
+            "en": "St Albans Museum + Gallery"
+          },
+          "coords": [
+            -0.339,
+            51.7515
+          ],
+          "category": "museums",
+          "arrive_at": "09:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die römische Geschichte der Stadt, sie ist faszinierend.",
+            "hu": "Fókuszálj a város római kori történelmére, lenyűgöző.",
+            "ro": "Concentrați-vă pe istoria romană a orașului; este fascinantă.",
+            "en": "Focus on the town's Roman history; it's fascinating."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von St Albans",
+            "hu": "St Albans katedrális",
+            "ro": "Catedrala St Albans",
+            "en": "St Albans Cathedral"
+          },
+          "coords": [
+            -0.336,
+            51.7505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem Schrein von St. Alban und den mittelalterlichen Wandmalereien.",
+            "hu": "Keresd meg Szent Albanus szentélyét és a középkori falfestményeket.",
+            "ro": "Căutați altarul Sfântului Alban și picturile murale medievale.",
+            "en": "Look for the shrine of St Alban and the medieval wall paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Mauer von St Albans",
+            "hu": "St Albans római fala",
+            "ro": "Zidul Roman din St Albans",
+            "en": "Roman Wall of St Albans"
+          },
+          "coords": [
+            -0.344,
+            51.7482
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stellen Sie sich die Größe der antiken Stadt Verulamium vor.",
+            "hu": "Képzeld el az ősi Verulamium városának méretét.",
+            "ro": "Imaginați-vă amploarea orașului antic Verulamium.",
+            "en": "Imagine the scale of the ancient city of Verulamium."
+          }
+        },
+        {
+          "name": {
+            "de": "Verulamium-Museum",
+            "hu": "Verulamium Múzeum",
+            "ro": "Muzeul Verulamium",
+            "en": "Verulamium Museum"
+          },
+          "coords": [
+            -0.35,
+            51.7495
+          ],
+          "category": "museums",
+          "arrive_at": "13:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die exquisiten Mosaike und den Sandridge Hoard.",
+            "hu": "Ne hagyd ki a gyönyörű mozaikokat és a Sandridge-i kincset.",
+            "ro": "Nu ratați mozaicurile de excepție și Tezaurul de la Sandridge.",
+            "en": "Don't miss the exquisite mosaics and the Sandridge Hoard."
+          }
+        },
+        {
+          "name": {
+            "de": "Ye Olde Fighting Cocks",
+            "hu": "Ye Olde Fighting Cocks",
+            "ro": "Ye Olde Fighting Cocks",
+            "en": "Ye Olde Fighting Cocks"
+          },
+          "coords": [
+            -0.342,
+            51.7485
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gönnen Sie sich ein Pint in einem der ältesten Pubs Englands.",
+            "hu": "Igyál egy korsó sört Anglia egyik legrégebbi pubjában.",
+            "ro": "Savurați o halbă într-unul dintre cele mai vechi pub-uri din Anglia.",
+            "en": "Have a pint in what claims to be one of England's oldest pubs."
+          }
+        },
+        {
+          "name": {
+            "de": "Verulamium Park",
+            "hu": "Verulamium Park",
+            "ro": "Parcul Verulamium",
+            "en": "Verulamium Park"
+          },
+          "coords": [
+            -0.348,
+            51.747
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um am See zu entspannen und die Schwäne zu beobachten.",
+            "hu": "Tökéletes hely a pihenésre a tó mellett, figyelve a hattyúkat.",
+            "ro": "Un loc perfect pentru a vă relaxa lângă lac și a privi lebedele.",
+            "en": "A perfect spot to relax by the lake and watch the swans."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im mittelalterlichen Herzen von St Albans am Uhrturm. Tauchen Sie dann im preisgekrönten Museum in die lokale Geschichte ein. Am Nachmittag erkunden Sie die beeindruckende Kathedrale, das spirituelle Zentrum der Stadt. Später entdecken Sie das römische Erbe von Verulamium, von den Mauern bis zu den Mosaiken. Gegen Mittag besuchen Sie einen der ältesten Pubs Englands für ein traditionelles Mittagessen. Am späten Nachmittag entspannen Sie sich im weitläufigen Verulamium Park und genießen die Natur. Schließen Sie Ihren Tag mit einem Spaziergang entlang des Sees ab, während die Sonne untergeht.",
+        "hu": "Kezdje a napot St Albans középkori szívében, az Óratoronynál. Merüljön el a helytörténetben a díjnyertes múzeumban. Délután fedezze fel a lenyűgöző katedrálist, a város spirituális központját. Később fedezze fel Verulamium római örökségét, a falaktól a mozaikokig. Ebédidőben látogasson el Anglia egyik legrégebbi pubjába egy hagyományos ebédre. Késő délután pihenjen a hatalmas Verulamium Parkban, élvezve a természetet. Zárja a napot egy sétával a tó mentén, ahogy a nap lemegy.",
+        "ro": "Începeți ziua în inima medievală a St Albans, la Turnul cu Ceas. Apoi, scufundați-vă în istoria locală la muzeul premiat. După-amiaza, explorați impunătoarea catedrală, centrul spiritual al orașului. Mai târziu, descoperiți moștenirea romană din Verulamium, de la ziduri la mozaicuri. La prânz, vizitați unul dintre cele mai vechi pub-uri din Anglia pentru un prânz tradițional. Spre seară, relaxați-vă în vastul Parc Verulamium, bucurându-vă de natură. Încheiați ziua cu o plimbare pe malul lacului la apus.",
+        "en": "Start your day in the medieval heart of St Albans at the Clock Tower. Then, dive into local history at the award-winning museum. In the afternoon, explore the stunning Cathedral, the city's spiritual heart. Later, uncover the Roman heritage of Verulamium, from its walls to its mosaics. Around midday, pop into one of England's oldest pubs for a traditional lunch. In the late afternoon, relax in the vast Verulamium Park, enjoying the natural scenery. End your day with a stroll by the lake as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "St Albans Bun",
+            "tip": "Probieren Sie diese lokale Spezialität, ein süßes, würziges Brötchen, in einer der traditionellen Bäckereien der Stadt."
+          },
+          {
+            "name": "Fish and Chips im The Waffle House",
+            "tip": "Obwohl es für Waffeln bekannt ist, probieren Sie deren Interpretation eines britischen Klassikers."
+          },
+          {
+            "name": "Real Ale im Ye Olde Fighting Cocks",
+            "tip": "Genießen Sie ein lokal gebrautes Bier in einem Pub, der von Geschichte durchdrungen ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "St Albans Bun",
+            "tip": "Kóstold meg ezt a helyi specialitást, egy édes, fűszeres zsemlét a város egyik hagyományos pékségében."
+          },
+          {
+            "name": "Fish and Chips a The Waffle House-ban",
+            "tip": "Bár a gofriról híres, próbáld ki a brit klasszikus sajátos változatát."
+          },
+          {
+            "name": "Valódi ale a Ye Olde Fighting Cocks-ban",
+            "tip": "Élvezz egy helyben főzött sört egy történelemmel átitatott pubban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chifla St Albans",
+            "tip": "Încercați această specialitate locală, o chiflă dulce și condimentată, la una dintre brutăriile tradiționale din oraș."
+          },
+          {
+            "name": "Fish and Chips la The Waffle House",
+            "tip": "Deși renumit pentru vafe, încercați interpretarea lor a unui clasic britanic."
+          },
+          {
+            "name": "Real Ale la Ye Olde Fighting Cocks",
+            "tip": "Savurați o bere artizanală locală într-un pub încărcat de istorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "St Albans Bun",
+            "tip": "Try this local speciality, a sweet and spiced bun, from one of the city's traditional bakeries."
+          },
+          {
+            "name": "Fish and Chips at The Waffle House",
+            "tip": "Though known for waffles, try their take on a British classic."
+          },
+          {
+            "name": "Real Ale at Ye Olde Fighting Cocks",
+            "tip": "Enjoy a locally brewed ale in a pub steeped in history."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der See im Verulamium Park",
+            "tip": "Finden Sie eine Bank am Wasser und beobachten Sie die Vögel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kathedralengarten",
+            "tip": "Ein ruhiger, abgeschiedener Ort direkt neben dem Trubel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sopwell Nunnery",
+            "tip": "Meditieren Sie zwischen den ruhigen Ruinen dieses ehemaligen Nonnenklosters.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tó a Verulamium Parkban",
+            "tip": "Keress egy padot a vízparton, és nézd a madarakat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Katedrális kertje",
+            "tip": "Egy csendes, eldugott hely a nyüzsgés mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sopwell apácakolostor",
+            "tip": "Elmélkedj a csendes romok között ebben az egykori apácazárdában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul din Parcul Verulamium",
+            "tip": "Găsiți o bancă lângă apă și priviți păsările.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Catedralei",
+            "tip": "Un loc liniștit și retras, chiar lângă agitație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mănăstirea Sopwell",
+            "tip": "Meditați printre ruinele liniștite ale acestei foste mănăstiri.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The lake in Verulamium Park",
+            "tip": "Find a bench by the water and watch the birdlife.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cathedral Gardens",
+            "tip": "A quiet, secluded spot right next to the hustle and bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sopwell Nunnery",
+            "tip": "Contemplate among the quiet ruins of this former nunnery.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "St Albans Charter Market",
+            "tip": "Stöbern Sie an den Ständen nach lokalen Produkten, Street Food und einzigartigen Geschenken. Überprüfen Sie die Markttage."
+          },
+          {
+            "name": "Christopher Place",
+            "tip": "Eine charmante Gasse mit Boutiquen und unabhängigen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "St Albans Charter Market",
+            "tip": "Böngéssz a standok között helyi termékek, street food és egyedi ajándékok után. Ellenőrizd a piaci napokat."
+          },
+          {
+            "name": "Christopher Place",
+            "tip": "Bájos sikátor butikokkal és független üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața St Albans Charter",
+            "tip": "Răsfoiți tarabele pentru produse locale, mâncare stradală și cadouri unice. Verificați zilele de piață."
+          },
+          {
+            "name": "Christopher Place",
+            "tip": "O alee fermecătoare cu buticuri și magazine independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "St Albans Charter Market",
+            "tip": "Browse the stalls for local produce, street food, and unique gifts. Check for market days."
+          },
+          {
+            "name": "Christopher Place",
+            "tip": "A charming lane of boutique and independent shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum mit Kopfsteinpflaster gepflastert ist.",
+          "Die meisten Hauptattraktionen liegen nahe beieinander, was es ideal für einen Rundgang macht.",
+          "Buchen Sie Tickets für den Uhrturm im Voraus, da die Plätze begrenzt sind.",
+          "Nehmen Sie sich Zeit im Verulamium Park; er ist größer als er aussieht."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, a városközpont macskaköves.",
+          "A legtöbb fő látnivaló közel van egymáshoz, így ideális egy gyalogtúrához.",
+          "Foglalj jegyet előre az Óratoronyba, mert korlátozott a hely.",
+          "Szánj időt a Verulamium Parkra; nagyobb, mint amilyennek látszik."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este pavat cu piatră cubică.",
+          "Majoritatea atracțiilor principale sunt apropiate, făcându-l ideal pentru un tur pietonal.",
+          "Rezervați bilete pentru Turnul cu Ceas în avans, deoarece spațiile sunt limitate.",
+          "Luați-vă timp în Parcul Verulamium; este mai mare decât pare."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city centre has cobbled streets.",
+          "Most major attractions are close together, making it ideal for a walking tour.",
+          "Book tickets for the Clock Tower in advance as spaces are limited.",
+          "Allow plenty of time in Verulamium Park; it's bigger than it looks."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale von St Albans",
+            "hu": "St Albans katedrális",
+            "ro": "Catedrala St Albans",
+            "en": "St Albans Cathedral"
+          },
+          "coords": [
+            -0.336,
+            51.7505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und bewundern Sie die längste Schiffskirche Englands.",
+            "hu": "Zárd le biztonságosan a biciklidet, és csodáld meg Anglia leghosszabb hajóját.",
+            "ro": "Asigurați-vă bicicleta și admirați cea mai lungă navă din Anglia.",
+            "en": "Lock your bike securely and go admire the longest nave in England."
+          }
+        },
+        {
+          "name": {
+            "de": "Verulamium Park",
+            "hu": "Verulamium Park",
+            "ro": "Parcul Verulamium",
+            "en": "Verulamium Park"
+          },
+          "coords": [
+            -0.348,
+            51.747
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren ist im Park erlaubt, aber bleiben Sie auf den ausgewiesenen Wegen.",
+            "hu": "A parkban szabad biciklizni, de maradj a kijelölt utakon.",
+            "ro": "Ciclismul este permis în parc, dar rămâneți pe căile desemnate.",
+            "en": "Cycling is permitted in the park, but stick to the designated paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Verulamium-Museum",
+            "hu": "Verulamium Múzeum",
+            "ro": "Muzeul Verulamium",
+            "en": "Verulamium Museum"
+          },
+          "coords": [
+            -0.35,
+            51.7495
+          ],
+          "category": "museums",
+          "arrive_at": "11:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Hier gibt es Fahrradständer, um die römischen Schätze unbesorgt zu erkunden.",
+            "hu": "A közelben van kerékpártároló, így gondtalanul felfedezheted a római kincseket.",
+            "ro": "Există suporturi de biciclete în apropiere pentru a explora comorile romane fără griji.",
+            "en": "There are bike racks nearby to explore the Roman treasures worry-free."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorhambury House",
+            "hu": "Gorhambury-ház",
+            "ro": "Casa Gorhambury",
+            "en": "Gorhambury House"
+          },
+          "coords": [
+            -0.38,
+            51.758
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Öffnungszeiten, da der Zugang begrenzt ist. Die Fahrt dorthin ist landschaftlich reizvoll.",
+            "hu": "Ellenőrizd a nyitvatartást, mert korlátozott a belépés. Az odavezető út festői.",
+            "ro": "Verificați programul de deschidere, deoarece accesul este limitat. Plimbarea este pitorească.",
+            "en": "Check opening times as access is limited. The ride out is scenic."
+          }
+        },
+        {
+          "name": {
+            "de": "Ye Olde Fighting Cocks",
+            "hu": "Ye Olde Fighting Cocks",
+            "ro": "Ye Olde Fighting Cocks",
+            "en": "Ye Olde Fighting Cocks"
+          },
+          "coords": [
+            -0.342,
+            51.7485
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein wohlverdientes Mittagessen und ein Pint nach Ihrer Radtour.",
+            "hu": "Egy jól megérdemelt ebéd és egy korsó sör a biciklizés után.",
+            "ro": "Un prânz binemeritat și o halbă după plimbarea cu bicicleta.",
+            "en": "A well-deserved lunch and pint after your cycle."
+          }
+        },
+        {
+          "name": {
+            "de": "Sopwell Nunnery",
+            "hu": "Sopwell apácakolostor",
+            "ro": "Mănăstirea Sopwell",
+            "en": "Sopwell Nunnery"
+          },
+          "coords": [
+            -0.325,
+            51.739
+          ],
+          "category": "historical",
+          "arrive_at": "16:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine ruhige, nachdenkliche Radtour zu diesen atmosphärischen Ruinen.",
+            "hu": "Egy csendes, elmélkedő biciklizés ezekhez a hangulatos romokhoz.",
+            "ro": "O plimbare liniștită și contemplativă cu bicicleta la aceste ruine atmosferice.",
+            "en": "A quiet, contemplative cycle to these atmospheric ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von St Albans",
+            "hu": "St Albans óratorony",
+            "ro": "Turnul cu Ceas St Albans",
+            "en": "St Albans Clock Tower"
+          },
+          "coords": [
+            -0.3398,
+            51.7509
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour dort, wo sie begann, und genießen Sie die Abendstimmung.",
+            "hu": "Fejezd be a túrát ott, ahol elkezdődött, és élvezd az esti hangulatot.",
+            "ro": "Încheiați-vă turul unde a început și bucurați-vă de atmosfera de seară.",
+            "en": "End your tour back where you started, enjoying the evening atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag mit dem Fahrrad bei der herrlichen Kathedrale von St. Albans. Radeln Sie dann durch den weitläufigen Verulamium Park und machen Sie eine Pause, um das römische Museum zu besuchen. Am Nachmittag unternehmen Sie eine längere Radtour zur historischen Stätte des Gorhambury House. Zum Mittagessen kehren Sie in die Stadt zurück und genießen eine herzhafte Mahlzeit im Ye Olde Fighting Cocks. Am späten Nachmittag unternehmen Sie eine ruhige Fahrt zu den Ruinen der Sopwell Nunnery. Beenden Sie Ihren Tag mit einer letzten Runde durch das Stadtzentrum und kehren Sie zum ikonischen Uhrturm zurück.",
+        "hu": "Kezdje a kerékpáros napot a csodálatos St Albans Katedrálisnál. Tekerjen át a hatalmas Verulamium Parkon, megállva, hogy megnézze a római múzeumot. Délután tegyen egy hosszabb kerékpártúrát a történelmi Gorhambury House-hoz. Térjen vissza a városba ebédelni, és fogyasszon el egy kiadós ételt a Ye Olde Fighting Cocks-ban. Késő délután tegyen egy csendes utat a Sopwell apácakolostor romjaihoz. Zárja a napot egy utolsó körrel a városközpontban, visszatérve az ikonikus Óratoronyhoz.",
+        "ro": "Începeți-vă ziua pe două roți la magnifica Catedrală St Albans. Apoi, pedalați prin vastul Parc Verulamium, oprindu-vă pentru a vizita muzeul roman. După-amiaza, faceți o plimbare mai lungă cu bicicleta până la situl istoric Gorhambury House. Întoarceți-vă în oraș pentru prânz, savurând o masă consistentă la Ye Olde Fighting Cocks. Spre seară, faceți o plimbare liniștită până la ruinele Mănăstirii Sopwell. Încheiați ziua cu un ultim tur prin centrul orașului, revenind la emblematicul Turn cu Ceas.",
+        "en": "Kick off your day on two wheels at the magnificent St Albans Cathedral. Then, cycle through the vast Verulamium Park, stopping to visit the Roman museum. In the afternoon, take a longer cycle out to the historic site of Gorhambury House. Head back into town for lunch, enjoying a hearty meal at Ye Olde Fighting Cocks. In the late afternoon, take a quiet ride to the ruins of Sopwell Nunnery. End your day with a final loop of the city centre, returning to the iconic Clock Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Waffle House",
+            "tip": "Perfekt für eine süße oder herzhafte Stärkung in einem einzigartigen Gebäude."
+          },
+          {
+            "name": "Ploughman's Lunch",
+            "tip": "Ein klassisches Pub-Gericht, ideal für eine Mittagspause beim Radfahren."
+          },
+          {
+            "name": "Lokale Eiscreme",
+            "tip": "Belohnen Sie sich nach einer Radtour mit einer Kugel aus einer der örtlichen Eisdielen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Waffle House",
+            "tip": "Tökéletes egy édes vagy sós feltöltődéshez egy egyedi épületben."
+          },
+          {
+            "name": "Ploughman's Lunch",
+            "tip": "Klasszikus pub-étel, ideális egy ebédszünethez kerékpározás közben."
+          },
+          {
+            "name": "Helyi fagylalt",
+            "tip": "Jutalmazd meg magad egy gombóccal a helyi fagyizók egyikéből egy kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Waffle House",
+            "tip": "Perfect pentru o reîncărcare dulce sau sărată într-o clădire unică."
+          },
+          {
+            "name": "Prânzul plugarului",
+            "tip": "Un fel de mâncare clasic de pub, ideal pentru o pauză de prânz în timpul ciclismului."
+          },
+          {
+            "name": "Înghețată locală",
+            "tip": "Recompensați-vă cu o cupă de la una dintre gelateriile locale după o plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Waffle House",
+            "tip": "Perfect for a sweet or savoury refuel in a unique building."
+          },
+          {
+            "name": "Ploughman's Lunch",
+            "tip": "A classic pub meal, ideal for a cycling lunch break."
+          },
+          {
+            "name": "Local Ice Cream",
+            "tip": "Reward yourself with a scoop from a local parlour after a ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Heartwood Forest",
+            "tip": "Wenn Sie Zeit haben, ist dies eine längere, aber lohnende Radtour zu Englands größtem neuem einheimischen Wald. 🌅",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Die Wasserwiesen",
+            "tip": "Folgen Sie dem Fluss Ver für eine friedliche Fahrt abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gorhambury Drive",
+            "tip": "Der Weg zum Haus ist ein ruhiger, von Bäumen gesäumter Weg.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heartwood-erdő",
+            "tip": "Ha van időd, ez egy hosszabb, de megéri a fáradságot kerékpártúra Anglia legnagyobb új őshonos erdejébe. 🌅",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A vizes rétek",
+            "tip": "Kövesd a Ver folyót egy békés utazáshoz a tömegtől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gorhambury Drive",
+            "tip": "A házhoz vezető út egy csendes, fákkal szegélyezett út.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Heartwood",
+            "tip": "Dacă aveți timp, aceasta este o plimbare mai lungă, dar plină de satisfacții, cu bicicleta, către cea mai mare pădure nativă nouă din Anglia. 🌅",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Pajiștile de apă",
+            "tip": "Urmați râul Ver pentru o plimbare liniștită, departe de mulțime.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aleea Gorhambury",
+            "tip": "Aleea care duce la casă este o potecă liniștită, mărginită de copaci.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Heartwood Forest",
+            "tip": "If you have time, this is a longer but rewarding cycle to England's largest new native forest. 🌅",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The Water Meadows",
+            "tip": "Follow the River Ver for a peaceful ride away from the crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gorhambury Drive",
+            "tip": "The path leading up to the house is a quiet, tree-lined track.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In St Albans gibt es mehrere ausgezeichnete unabhängige Fahrradgeschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Lokale Produkte vom Markt",
+            "tip": "Füllen Sie Ihre Fahrradtaschen an Markttagen mit frischen Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "St Albansban több kiváló független kerékpárbolt is található kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Helyi termékek a piacról",
+            "tip": "Töltsd meg a kerékpártáskáidat friss harapnivalókkal a piaci napokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "St Albans are mai multe magazine independente excelente de biciclete pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Produse locale de la piață",
+            "tip": "Umpleți-vă coșurile de bicicletă cu gustări proaspete în zilele de piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "St Albans has several excellent independent bike shops for any accessories or quick fixes."
+          },
+          {
+            "name": "Local produce from the market",
+            "tip": "Fill your panniers with fresh snacks on market day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "St Albans ist hügelig, seien Sie also auf einige Anstiege vorbereitet.",
+          "Nutzen Sie die Radwege, wo sie verfügbar sind, insbesondere entlang der Hauptstraßen.",
+          "Ein gutes Schloss ist unerlässlich, wenn Sie Sehenswürdigkeiten besuchen.",
+          "Überprüfen Sie den Wetterbericht; ein leichter Regenmantel ist immer eine gute Idee in England."
+        ],
+        "hu": [
+          "St Albans dombos, tehát készülj fel néhány emelkedőre.",
+          "Használd a kerékpárutakat, ahol elérhetők, különösen a főutak mentén.",
+          "Egy jó lakat elengedhetetlen, ha látnivalókat nézel.",
+          "Ellenőrizd az időjárás-előrejelzést; egy könnyű esőkabát mindig jó ötlet Angliában."
+        ],
+        "ro": [
+          "St Albans este deluros, așa că fiți pregătiți pentru câteva urcări.",
+          "Utilizați pistele de biciclete acolo unde sunt disponibile, în special de-a lungul drumurilor principale.",
+          "O încuietoare bună este esențială atunci când vizitați atracțiile.",
+          "Verificați prognoza meteo; o pelerină de ploaie ușoară este întotdeauna o idee bună în Anglia."
+        ],
+        "en": [
+          "St Albans is hilly, so be prepared for some climbs.",
+          "Use the cycle paths where available, especially along main roads.",
+          "A good lock is essential for when you're visiting attractions.",
+          "Check the weather forecast; a light raincoat is always a good idea in England."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:21",
+      "total_km": 16.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Heartwood Forest",
+            "hu": "Heartwood-erdő",
+            "ro": "Pădurea Heartwood",
+            "en": "Heartwood Forest"
+          },
+          "coords": [
+            -0.34,
+            51.8
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem erfrischenden Spaziergang. Parken ist vorhanden.",
+            "hu": "Kezdje a napot egy frissítő sétával. Parkolási lehetőség biztosított.",
+            "ro": "Începeți ziua cu o plimbare revigorantă. Parcarea este disponibilă.",
+            "en": "Start the day with a refreshing walk. Parking is available."
+          }
+        },
+        {
+          "name": {
+            "de": "St Albans Museum + Galerie",
+            "hu": "St Albans Múzeum + Galéria",
+            "ro": "Muzeul și Galeria St Albans",
+            "en": "St Albans Museum + Gallery"
+          },
+          "coords": [
+            -0.339,
+            51.7515
+          ],
+          "category": "museums",
+          "arrive_at": "10:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf einem der Parkplätze im Stadtzentrum und beginnen Sie hier Ihre Erkundung zu Fuß.",
+            "hu": "Parkolj a belvárosi parkolók egyikében, és innen indulj gyalogos felfedezőútra.",
+            "ro": "Parcați într-una din parcările din centrul orașului și începeți explorarea pe jos de aici.",
+            "en": "Park in a city centre car park and start your walking exploration here."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von St Albans",
+            "hu": "St Albans óratorony",
+            "ro": "Turnul cu Ceas St Albans",
+            "en": "St Albans Clock Tower"
+          },
+          "coords": [
+            -0.3398,
+            51.7509
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum, um einen Eindruck von der mittelalterlichen Stadt zu bekommen.",
+            "hu": "Egy rövid séta a múzeumtól, hogy bepillantást nyerj a középkori városba.",
+            "ro": "O scurtă plimbare de la muzeu pentru a avea o perspectivă asupra orașului medieval.",
+            "en": "A short walk from the museum to get a feel for the medieval town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von St Albans",
+            "hu": "St Albans katedrális",
+            "ro": "Catedrala St Albans",
+            "en": "St Albans Cathedral"
+          },
+          "coords": [
+            -0.336,
+            51.7505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für dieses architektonische Wunderwerk, ein Highlight jedes Besuchs.",
+            "hu": "Szánj időt erre az építészeti csodára, minden látogatás fénypontja.",
+            "ro": "Acordați-vă timp pentru această minune arhitecturală, un punct culminant al oricărei vizite.",
+            "en": "Take your time in this architectural marvel, a highlight of any visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Verulamium-Museum",
+            "hu": "Verulamium Múzeum",
+            "ro": "Muzeul Verulamium",
+            "en": "Verulamium Museum"
+          },
+          "coords": [
+            -0.35,
+            51.7495
+          ],
+          "category": "museums",
+          "arrive_at": "14:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Verulamium-Parkplatz, um dieses römische Cluster zu beginnen.",
+            "hu": "Vezess a Verulamium parkolóhoz, hogy elkezdd ezt a római klasztert.",
+            "ro": "Conduceți la parcarea Verulamium pentru a începe acest cluster roman.",
+            "en": "Drive and park at the Verulamium car park to begin this Roman cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Mauer von St Albans",
+            "hu": "St Albans római fala",
+            "ro": "Zidul Roman din St Albans",
+            "en": "Roman Wall of St Albans"
+          },
+          "coords": [
+            -0.344,
+            51.7482
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum, um die Überreste der römischen Verteidigungsanlagen zu sehen.",
+            "hu": "Rövid séta a múzeumtól a római védelem maradványainak megtekintéséhez.",
+            "ro": "O scurtă plimbare de la muzeu pentru a vedea rămășițele apărării romane.",
+            "en": "A brief walk from the museum to see the remnants of Roman defences."
+          }
+        },
+        {
+          "name": {
+            "de": "Ye Olde Fighting Cocks",
+            "hu": "Ye Olde Fighting Cocks",
+            "ro": "Ye Olde Fighting Cocks",
+            "en": "Ye Olde Fighting Cocks"
+          },
+          "coords": [
+            -0.342,
+            51.7485
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein historischer Ort für eine späte Mittagspause oder ein frühes Abendessen.",
+            "hu": "Történelmi hely egy késői ebédhez vagy korai vacsorához.",
+            "ro": "Un loc istoric pentru un prânz târziu sau o cină timpurie.",
+            "en": "A historic spot for a late lunch or early dinner."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorhambury House",
+            "hu": "Gorhambury-ház",
+            "ro": "Casa Gorhambury",
+            "en": "Gorhambury House"
+          },
+          "coords": [
+            -0.38,
+            51.758
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:36",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Ausflug zu diesem elisabethanischen Anwesen (Öffnungszeiten prüfen).",
+            "hu": "Zárja a napot egy kirándulással ehhez az Erzsébet-kori birtokhoz (ellenőrizze a nyitvatartást).",
+            "ro": "Încheiați ziua cu o excursie la această proprietate elisabetană (verificați programul).",
+            "en": "End the day with a drive out to this Elizabethan estate (check opening times)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Grünen mit einem morgendlichen Spaziergang im Heartwood Forest. Fahren Sie dann ins Stadtzentrum, parken Sie Ihr Auto und erkunden Sie zu Fuß die reiche Geschichte im St. Albans Museum. Schlendern Sie zum Uhrturm und zur prächtigen Kathedrale. Am Nachmittag fahren Sie zum Verulamium Park, um ein zweites Cluster zu erkunden. Tauchen Sie im Verulamium Museum in die römische Vergangenheit ein und spazieren Sie dann zur römischen Mauer und dem historischen Pub Ye Olde Fighting Cocks. Beenden Sie Ihren Tag mit einer kurzen Fahrt zum eleganten Gorhambury House und genießen Sie die Abendsonne.",
+        "hu": "Kezdje a napot a zöldben egy reggeli sétával a Heartwood-erdőben. Ezután hajtson be a városközpontba, parkolja le autóját, és fedezze fel gyalog a gazdag történelmet a St. Albans Múzeumban. Sétáljon el az Óratoronyhoz és a csodálatos Katedrálishoz. Délután hajtson a Verulamium Parkba egy második felfedező körútra. Merüljön el a római múltban a Verulamium Múzeumban, majd sétáljon el a római falhoz és a történelmi Ye Olde Fighting Cocks pubhoz. Zárja a napot egy rövid autózással az elegáns Gorhambury House-hoz, élvezve az esti napsütést.",
+        "ro": "Începeți-vă ziua în verdeață cu o plimbare matinală în Pădurea Heartwood. Apoi, conduceți spre centrul orașului, parcați mașina și explorați pe jos istoria bogată de la Muzeul St Albans. Plimbați-vă până la Turnul cu Ceas și magnifica Catedrală. După-amiaza, conduceți spre Parcul Verulamium pentru un al doilea grup de explorare. Scufundați-vă în trecutul roman la Muzeul Verulamium, apoi plimbați-vă până la Zidul Roman și istoricul pub Ye Olde Fighting Cocks. Încheiați ziua cu o scurtă călătorie cu mașina spre eleganta Casă Gorhambury, bucurându-vă de soarele de seară.",
+        "en": "Start your day in the green with a morning walk in Heartwood Forest. Then, drive to the city centre, park up, and explore on foot the rich history at the St Albans Museum. Stroll over to the Clock Tower and the magnificent Cathedral. In the afternoon, drive to Verulamium Park for a second cluster of exploration. Delve into the Roman past at the Verulamium Museum, then walk to the Roman Wall and the historic Ye Olde Fighting Cocks pub. Finish your day with a short drive to the elegant Gorhambury House, catching the evening sun."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sonntagsbraten im Pub",
+            "tip": "Wenn Sie an einem Sonntag hier sind, ist ein traditioneller Braten in einem Landpub ein Muss."
+          },
+          {
+            "name": "Bauernladen-Köstlichkeiten",
+            "tip": "Besuchen Sie einen der nahegelegenen Bauernläden für lokale Käsesorten, Chutneys und Kuchen."
+          },
+          {
+            "name": "Cream Tea",
+            "tip": "Machen Sie eine Pause für Scones, Marmelade und Clotted Cream in einem der charmanten Teestuben der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasárnapi sült egy pubban",
+            "tip": "Ha vasárnap jársz itt, egy hagyományos sült egy vidéki pubban kötelező."
+          },
+          {
+            "name": "Farmbolti finomságok",
+            "tip": "Látogass el a közeli farmboltok egyikébe helyi sajtokért, chutney-kért és pitékért."
+          },
+          {
+            "name": "Tejszínes tea",
+            "tip": "Tarts szünetet egy scones, lekvár és clotted cream erejéig a város egyik bájos teázójában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friptură de duminică la pub",
+            "tip": "Dacă sunteți aici într-o duminică, o friptură tradițională la un pub de la țară este obligatorie."
+          },
+          {
+            "name": "Delicii de la magazinul fermei",
+            "tip": "Vizitați unul dintre magazinele fermelor din apropiere pentru brânzeturi locale, chutney-uri și plăcinte."
+          },
+          {
+            "name": "Ceai cu frișcă",
+            "tip": "Luați o pauză pentru scones, gem și frișcă bătută la una dintre ceainăriile fermecătoare ale orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunday Roast at a country pub",
+            "tip": "If you're here on a Sunday, a traditional roast at a country pub is a must."
+          },
+          {
+            "name": "Farm Shop goodies",
+            "tip": "Visit one of the nearby farm shops for local cheeses, chutneys, and pies."
+          },
+          {
+            "name": "Cream Tea",
+            "tip": "Take a break for scones, jam and clotted cream at one of the city's charming tea rooms."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick von den Toren des Gorhambury House",
+            "tip": "Genießen Sie die Aussicht auf die Landschaft von Hertfordshire.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang am Fluss Ver",
+            "tip": "Parken Sie und machen Sie einen kurzen Spaziergang entlang dieses Kreideflusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der Vintry Garden",
+            "tip": "Ein versteckter Garten hinter der Kathedrale, perfekt für einen ruhigen Moment.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Gorhambury-ház kapujából",
+            "tip": "Élvezze a Hertfordshire-i vidékre nyíló kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Ver folyó mentén",
+            "tip": "Parkolj le, és tegyél egy rövid sétát ezen a krétafolyón.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Vintry kert",
+            "tip": "Egy rejtett kert a katedrális mögött, tökéletes egy csendes pillanathoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la porțile Casei Gorhambury",
+            "tip": "Bucurați-vă de priveliștile peisajului rural din Hertfordshire.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare pe malul râului Ver",
+            "tip": "Parcați și faceți o scurtă plimbare de-a lungul acestui râu de cretă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Vintry",
+            "tip": "O grădină ascunsă în spatele catedralei, perfectă pentru un moment de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Gorhambury House gates",
+            "tip": "Enjoy the views across the Hertfordshire countryside.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "River Ver Walk",
+            "tip": "Park up and take a short walk along this chalk stream.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The Vintry Garden",
+            "tip": "A hidden garden behind the cathedral, perfect for a quiet moment.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Courtyard",
+            "tip": "Eine Sammlung von Kunsthandwerksläden und unabhängigen Einzelhändlern, die leicht mit dem Auto erreichbar sind."
+          },
+          {
+            "name": "Antiquitätenläden",
+            "tip": "St Albans hat mehrere Antiquitätenläden, die sich perfekt zum Stöbern nach einem einzigartigen Souvenir eignen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Courtyard",
+            "tip": "Kézműves üzletek és független kiskereskedők gyűjteménye, könnyen megközelíthető autóval."
+          },
+          {
+            "name": "Antikváriumok",
+            "tip": "St Albansban több antikvárium is található, amelyek tökéletesek egy egyedi szuvenír felkutatására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Courtyard",
+            "tip": "O colecție de ateliere artizanale și comercianți independenți, ușor accesibilă cu mașina."
+          },
+          {
+            "name": "Magazine de antichități",
+            "tip": "St Albans are mai multe magazine de antichități perfecte pentru a căuta un suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Courtyard",
+            "tip": "A collection of artisan workshops and independent retailers, easily accessible by car."
+          },
+          {
+            "name": "Antique Shops",
+            "tip": "St Albans has several antique shops perfect for browsing to find a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann teuer sein; erwägen Sie die Nutzung von Park-and-Ride-Einrichtungen.",
+          "Laden Sie eine Park-App herunter, um das Bezahlen zu erleichtern.",
+          "Achten Sie auf die engen, alten Straßen im Stadtzentrum.",
+          "Überprüfen Sie die Öffnungszeiten für ländliche Attraktionen wie Gorhambury House, da diese saisonal sein können."
+        ],
+        "hu": [
+          "A belvárosi parkolás drága lehet; fontolja meg a P+R lehetőségeket.",
+          "Tölts le egy parkolási alkalmazást a könnyebb fizetés érdekében.",
+          "Legyél óvatos a szűk, régi utcákon a belvárosban.",
+          "Ellenőrizd a vidéki látnivalók, mint például a Gorhambury House nyitvatartását, mivel szezonális lehet."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi scumpă; luați în considerare utilizarea facilităților de tip park-and-ride.",
+          "Descărcați o aplicație de parcare pentru a facilita plata.",
+          "Fiți atenți la străzile înguste și vechi din centrul orașului.",
+          "Verificați orele de deschidere pentru atracțiile rurale precum Casa Gorhambury, deoarece acestea pot fi sezoniere."
+        ],
+        "en": [
+          "City centre parking can be expensive; consider using park and ride facilities.",
+          "Download a parking app to make payment easier.",
+          "Be aware of the narrow, ancient streets in the city centre.",
+          "Check opening times for rural attractions like Gorhambury House as they can be seasonal."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St Albans Museum + Galerie",
+            "hu": "St Albans Múzeum + Galéria",
+            "ro": "Muzeul și Galeria St Albans",
+            "en": "St Albans Museum + Gallery"
+          },
+          "coords": [
+            -0.339,
+            51.7515
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur St Peter's Street, um Ihr Abenteuer im Stadtzentrum zu beginnen.",
+            "hu": "Szállj buszra a St Peter's Streetig, hogy elkezdhesd a belvárosi kalandot.",
+            "ro": "Luați un autobuz până la St Peter's Street pentru a vă începe aventura în centrul orașului.",
+            "en": "Take a bus to St Peter's Street to begin your city centre adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von St Albans",
+            "hu": "St Albans óratorony",
+            "ro": "Turnul cu Ceas St Albans",
+            "en": "St Albans Clock Tower"
+          },
+          "coords": [
+            -0.3398,
+            51.7509
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Museum aus sichtbar, ein einfacher Spaziergang.",
+            "hu": "A múzeumból látható, könnyű séta.",
+            "ro": "Vizibil de la muzeu, o plimbare ușoară.",
+            "en": "Visible from the museum, an easy stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von St Albans",
+            "hu": "St Albans katedrális",
+            "ro": "Catedrala St Albans",
+            "en": "St Albans Cathedral"
+          },
+          "coords": [
+            -0.336,
+            51.7505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie den Schildern durch die mittelalterlichen Gassen zum Dom.",
+            "hu": "Kövesd a táblákat a középkori sikátorokon keresztül a katedrálishoz.",
+            "ro": "Urmați indicatoarele prin aleile medievale până la Catedrală.",
+            "en": "Follow the signs through the medieval alleyways to the Cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Verulamium-Museum",
+            "hu": "Verulamium Múzeum",
+            "ro": "Muzeul Verulamium",
+            "en": "Verulamium Museum"
+          },
+          "coords": [
+            -0.35,
+            51.7495
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der in Richtung St Michael's Village fährt, um dorthin zu gelangen.",
+            "hu": "Szállj buszra St Michael's Village felé, hogy odaérj.",
+            "ro": "Luați un autobuz care merge spre St Michael's Village pentru a ajunge aici.",
+            "en": "Catch a bus heading towards St Michael's Village to get here."
+          }
+        },
+        {
+          "name": {
+            "de": "Ye Olde Fighting Cocks",
+            "hu": "Ye Olde Fighting Cocks",
+            "ro": "Ye Olde Fighting Cocks",
+            "en": "Ye Olde Fighting Cocks"
+          },
+          "coords": [
+            -0.342,
+            51.7485
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Museum ist es ein schöner Spaziergang zum Mittagessen.",
+            "hu": "A múzeum után kellemes séta ebédelni.",
+            "ro": "O plimbare plăcută pentru prânz după muzeu.",
+            "en": "A pleasant walk for lunch after the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Sopwell Nunnery",
+            "hu": "Sopwell apácakolostor",
+            "ro": "Mănăstirea Sopwell",
+            "en": "Sopwell Nunnery"
+          },
+          "coords": [
+            -0.325,
+            51.739
+          ],
+          "category": "historical",
+          "arrive_at": "15:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Cottonmill Lane Bereich, um diese ruhigen Ruinen zu finden.",
+            "hu": "Szállj buszra a Cottonmill Lane környékére, hogy megtaláld ezeket a csendes romokat.",
+            "ro": "Luați un autobuz spre zona Cottonmill Lane pentru a găsi aceste ruine liniștite.",
+            "en": "Catch a bus to the Cottonmill Lane area to find these quiet ruins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Busfahrt ins Herz von St Albans und tauchen Sie im Museum in die lokale Geschichte ein. Erkunden Sie das mittelalterliche Cluster zu Fuß, vom Uhrturm bis zur beeindruckenden Kathedrale. Am Nachmittag nehmen Sie einen weiteren Bus, um das römische Viertel zu entdecken. Beginnen Sie im Verulamium Museum und schlendern Sie dann zum Mittagessen in einen historischen Pub. Ihr letzter Bus bringt Sie zu den ruhigen Ruinen der Sopwell Nunnery für einen nachdenklichen Nachmittag. Von dort aus können Sie leicht einen Bus zurück ins Stadtzentrum oder zum Bahnhof nehmen.",
+        "hu": "Kezdje a napot egy buszúttal St Albans szívébe, és merüljön el a helytörténetben a múzeumban. Fedezze fel gyalog a középkori klasztert, az Óratoronytól a lenyűgöző Katedrálisig. Délután szálljon fel egy másik buszra, hogy felfedezze a római negyedet. Kezdje a Verulamium Múzeumban, majd sétáljon el egy történelmi pubba ebédelni. Az utolsó buszút a csendes Sopwell apácakolostor romjaihoz visz egy elmélkedő délutánra. Innen könnyen visszajuthat busszal a városközpontba vagy a vasútállomásra.",
+        "ro": "Începeți-vă ziua cu o călătorie cu autobuzul în inima orașului St Albans și scufundați-vă în istoria locală la muzeu. Explorați grupul medieval pe jos, de la Turnul cu Ceas la impunătoarea Catedrală. După-amiaza, luați un alt autobuz pentru a descoperi cartierul roman. Începeți la Muzeul Verulamium, apoi plimbați-vă la un pub istoric pentru prânz. Ultima călătorie cu autobuzul vă va duce la ruinele liniștite ale Mănăstirii Sopwell pentru o după-amiază contemplativă. De acolo, este ușor să luați un autobuz înapoi în centrul orașului sau la gară.",
+        "en": "Start your day with a bus ride into the heart of St Albans, diving into local history at the museum. Explore the medieval cluster on foot, from the Clock Tower to the stunning Cathedral. In the afternoon, hop on another bus to discover the Roman quarter. Begin at the Verulamium Museum, then wander over to a historic pub for lunch. Your final bus journey will take you to the tranquil ruins of Sopwell Nunnery for a contemplative afternoon. From there, it's easy to catch a bus back to the city centre or train station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Street Food vom Charter Market",
+            "tip": "An Markttagen gibt es eine große Auswahl an internationalen Gerichten."
+          },
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "In St Albans gibt es viele unabhängige Cafés, die sich perfekt für eine Pause eignen."
+          },
+          {
+            "name": "Abendessen im The Prae Wood Arms",
+            "tip": "Ein schöner Gastropub, der mit einer kurzen Bus- oder Taxifahrt erreichbar ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Street Food a Charter Marketről",
+            "tip": "A piaci napokon a nemzetközi ételek széles választéka várja."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "St Albansban rengeteg független kávézó található, amelyek tökéletesek egy pihenőre."
+          },
+          {
+            "name": "Vacsora a The Prae Wood Arms-ban",
+            "tip": "Egy gyönyörű gastropub, rövid busz- vagy taxiúttal elérhető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mâncare stradală de la Piața Charter",
+            "tip": "În zilele de piață, există o mare varietate de bucătării internaționale din care puteți alege."
+          },
+          {
+            "name": "Cafea și prăjitură",
+            "tip": "St Albans are o mulțime de cafenele independente perfecte pentru o pauză."
+          },
+          {
+            "name": "Cină la The Prae Wood Arms",
+            "tip": "Un gastropub frumos, accesibil cu o scurtă călătorie cu autobuzul sau taxiul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street food from the Charter Market",
+            "tip": "On market days, there's a huge variety of international cuisines to choose from."
+          },
+          {
+            "name": "Coffee and cake",
+            "tip": "St Albans has plenty of independent coffee shops perfect for taking a break."
+          },
+          {
+            "name": "Dinner at The Prae Wood Arms",
+            "tip": "A beautiful gastropub accessible via a short bus or taxi ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Clarence Park",
+            "tip": "Ein weiterer schöner Park, der mit dem Bus leicht erreichbar ist, in der Nähe des Bahnhofs.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Fluss Ver",
+            "tip": "Steigen Sie an einer Haltestelle in der Nähe des Flusses aus und genießen Sie einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St Michael's Church",
+            "tip": "Eine alte Kirche in der Nähe des Verulamium Museums, die oft übersehen wird und sehr friedlich ist.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Clarence Park",
+            "tip": "Egy másik gyönyörű park, könnyen megközelíthető busszal, a vasútállomás közelében.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a Ver folyó mentén",
+            "tip": "Szállj le egy, a folyóhoz közeli megállónál egy csendes sétáért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Mihály-templom",
+            "tip": "Egy ősi templom a Verulamium Múzeum közelében, amelyet gyakran figyelmen kívül hagynak, és nagyon békés.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Clarence",
+            "tip": "Un alt parc frumos, ușor accesibil cu autobuzul, lângă gară.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul râului Ver",
+            "tip": "Coborâți la o stație de autobuz aproape de râu pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Sf. Mihail",
+            "tip": "O biserică veche lângă Muzeul Verulamium, adesea trecută cu vederea și foarte pașnică.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Clarence Park",
+            "tip": "Another lovely park, easily accessible by bus, near the train station.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "River Ver Walk",
+            "tip": "Get off at a bus stop near the river for a quiet stroll.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St Michael's Church",
+            "tip": "An ancient church near the Verulamium Museum, often overlooked and very peaceful.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Maltings Shopping Centre",
+            "tip": "Ein Haupt-Einkaufszentrum, das leicht von den wichtigsten Buslinien aus erreichbar ist."
+          },
+          {
+            "name": "Charity Shops",
+            "tip": "St Albans hat ausgezeichnete Wohltätigkeitsläden, in denen Sie ein Schnäppchen oder einen einzigartigen Fund machen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Maltings bevásárlóközpont",
+            "tip": "Egy fő bevásárlóközpont, könnyen megközelíthető a főbb buszjáratokkal."
+          },
+          {
+            "name": "Jótékonysági üzletek",
+            "tip": "St Albansnak kiváló jótékonysági üzletei vannak, ahol jó üzletet vagy egyedi leletet találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Maltings",
+            "tip": "Un centru comercial principal, ușor accesibil de pe principalele rute de autobuz."
+          },
+          {
+            "name": "Magazine de caritate",
+            "tip": "St Albans are magazine de caritate excelente unde puteți găsi o afacere sau o descoperire unică."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Maltings Shopping Centre",
+            "tip": "A main shopping hub easily accessible from major bus routes."
+          },
+          {
+            "name": "Charity Shops",
+            "tip": "St Albans has excellent charity shops where you can find a bargain or a unique find."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für unbegrenzte Fahrten.",
+          "Laden Sie die App des örtlichen Busunternehmens für Echtzeit-Fahrpläne herunter.",
+          "Die Busse können im Berufsverkehr voll sein, planen Sie also entsprechend.",
+          "Kontaktloses Bezahlen wird in den meisten Bussen akzeptiert."
+        ],
+        "hu": [
+          "Vásárolj egy napijegyet a korlátlan utazáshoz.",
+          "Töltsd le a helyi busztársaság alkalmazását a valós idejű menetrendekért.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, ezért tervezz ennek megfelelően.",
+          "Az érintés nélküli fizetést a legtöbb buszon elfogadják."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația companiei locale de autobuze pentru orare în timp real.",
+          "Autobuzele pot fi aglomerate în orele de vârf, așa că planificați-vă în consecință.",
+          "Plata contactless este acceptată în majoritatea autobuzelor."
+        ],
+        "en": [
+          "Buy a day rider bus ticket for unlimited travel.",
+          "Download the local bus company's app for real-time schedules.",
+          "Buses can get busy during peak hours, so plan accordingly.",
+          "Contactless payment is accepted on most buses."
+        ]
+      }
+    }
+  }
+}

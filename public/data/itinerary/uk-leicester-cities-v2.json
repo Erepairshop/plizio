@@ -1,0 +1,1243 @@
+{
+  "city_id": "uk-leicester-cities-v2",
+  "anchor": {
+    "name": "Leicester",
+    "coords": [
+      -1.1398,
+      52.6369
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Leicester Market",
+          "coords": [
+            -1.137,
+            52.6338
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Frische lokale Produkte probieren.",
+            "hu": "Kóstolj meg friss helyi termékeket.",
+            "ro": "Degustă produse locale proaspete.",
+            "en": "Try some fresh local produce here."
+          }
+        },
+        {
+          "name": "Leicester Guildhall",
+          "coords": [
+            -1.1385,
+            52.6345
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achte auf die historischen Holzbalken.",
+            "hu": "Figyeld meg a történelmi fagerendákat.",
+            "ro": "Admiră grinzile istorice din lemn.",
+            "en": "Admire the historic timber frames."
+          }
+        },
+        {
+          "name": "Leicester Cathedral",
+          "coords": [
+            -1.1378,
+            52.6341
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hier befindet sich das Grab von Richard III.",
+            "hu": "Itt található III. Richárd sírja.",
+            "ro": "Aici se află mormântul lui Richard al III-lea.",
+            "en": "Here lies the tomb of King Richard III."
+          }
+        },
+        {
+          "name": "Richard III Visitor Centre",
+          "coords": [
+            -1.1382,
+            52.6346
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spannende Ausstellung zur Entdeckung des Königs.",
+            "hu": "Izgalmas kiállítás a király felfedezéséről.",
+            "ro": "O expoziție fascinantă despre descoperirea regelui.",
+            "en": "Fascinating exhibition on the king's discovery."
+          }
+        },
+        {
+          "name": "Jewry Wall",
+          "coords": [
+            -1.1415,
+            52.6338
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Reste antiker römischer Bäder.",
+            "hu": "Az ókori római fürdők maradványai.",
+            "ro": "Rămășițele băilor romane antice.",
+            "en": "Remains of ancient Roman baths."
+          }
+        },
+        {
+          "name": "New Walk Museum & Art Gallery",
+          "coords": [
+            -1.1276,
+            52.6288
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 130,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beeindruckende Dinosaurier-Skelette.",
+            "hu": "Lenyűgöző dinoszaurusz csontvázak.",
+            "ro": "Schelete impresionante de dinozauri.",
+            "en": "Impressive dinosaur skeletons on display."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf dem lebhaften Leicester Market, gefolgt von der historischen Guildhall. Mittags erkunden Sie die Kathedrale und das faszinierende Richard III Visitor Centre. Am Nachmittag werfen Sie einen Blick auf die römische Jewry Wall, bevor der Tag gemütlich im New Walk Museum mit Kunst und Dinosauriern ausklingt.",
+        "hu": "A reggel a nyüzsgő Leicester Marketen indul, majd a történelmi Guildhall következik. Kora délután a katedrálist és a lenyűgöző III. Richárd Látogatóközpontot fedezhetjük fel. Később a római Jewry Wall romjait nézzük meg, végül a New Walk Múzeum dinoszauruszai és művészeti kincsei zárják a napot.",
+        "ro": "Dimineața începe la vibrantul Leicester Market, urmată de istorica Guildhall. La prânz, explorăm Catedrala și fascinantul Centru de Vizitatori Richard al III-lea. După-amiaza, descoperim ruinele romane Jewry Wall, încheind ziua la Muzeul New Walk, printre artă și dinozauri.",
+        "en": "The morning kicks off at the bustling Leicester Market, followed by the historic Guildhall. Midday is dedicated to the Cathedral and the fascinating Richard III Visitor Centre. In the afternoon, take a quick look at the Roman Jewry Wall before unwinding at the New Walk Museum with its art and dinosaurs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Red Leicester Cheese",
+            "tip": "Probieren Sie den herzhaften lokalen Käse auf dem Markt."
+          },
+          {
+            "name": "Melton Mowbray Pork Pie",
+            "tip": "Ein klassischer britischer Snack, oft in Bäckereien zu finden."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "Leicester ist berühmt für authentische indische Küche entlang der Belgrave Road."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Red Leicester sajt",
+            "tip": "Kóstold meg a helyi, jellegzetes ízű sajtot a piacon."
+          },
+          {
+            "name": "Melton Mowbray sertéspite",
+            "tip": "Klasszikus brit sós sütemény, pékségekben kapható."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "A város híres az autentikus indiai éttermekről a Belgrave Roadon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânza Red Leicester",
+            "tip": "Încearcă brânza locală cu gust intens de la piață."
+          },
+          {
+            "name": "Plăcinta de porc Melton Mowbray",
+            "tip": "O gustare britanică clasică, de găsit în brutării."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "Orașul este renumit pentru bucătăria indiană autentică de pe Belgrave Road."
+          }
+        ],
+        "en": [
+          {
+            "name": "Red Leicester Cheese",
+            "tip": "Sample the rich, crumbly local cheese at the market."
+          },
+          {
+            "name": "Melton Mowbray Pork Pie",
+            "tip": "A classic savory British pastry available in most bakeries."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "Leicester is famous for its authentic Indian cuisine along Belgrave Road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Castle Gardens",
+            "tip": "Ein ruhiger Parkabschnitt am Flussufer nahe der Altstadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Gardens",
+            "tip": "Schöne Grünanlage direkt an der Kathedrale.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "New Walk",
+            "tip": "Eine historische, autofreie Promenade zum Flanieren.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Castle Gardens",
+            "tip": "Csendes park a folyóparton, közel az óvároshoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Gardens",
+            "tip": "Szép zöldterület közvetlenül a katedrális mellett.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "New Walk",
+            "tip": "Történelmi, autómentes sétány, tökéletes elvonuláshoz.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Castle Gardens",
+            "tip": "Un parc liniștit pe malul râului, aproape de centrul vechi.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Gardens",
+            "tip": "Un spațiu verde frumos chiar lângă catedrală.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "New Walk",
+            "tip": "O promenadă istorică, pietonală, ideală pentru relaxare.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Gardens",
+            "tip": "A peaceful riverside park close to the old town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Gardens",
+            "tip": "Lovely green space right beside the cathedral.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "New Walk",
+            "tip": "A historic, traffic-free promenade perfect for a stroll.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Leicester Market",
+            "tip": "Einer der größten überdachten Märkte Europas."
+          },
+          {
+            "name": "Highcross Leicester",
+            "tip": "Modernes Einkaufszentrum mit vielen bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leicester Market",
+            "tip": "Európa egyik legnagyobb fedett piaca."
+          },
+          {
+            "name": "Highcross Leicester",
+            "tip": "Modern bevásárlóközpont sok ismert márkával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Leicester Market",
+            "tip": "Una dintre cele mai mari piețe acoperite din Europa."
+          },
+          {
+            "name": "Highcross Leicester",
+            "tip": "Un centru comercial modern cu multe branduri cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leicester Market",
+            "tip": "One of the largest covered markets in Europe."
+          },
+          {
+            "name": "Highcross Leicester",
+            "tip": "Modern shopping centre featuring many high street brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist sehr kompakt und ideal zu Fuß erkundbar.",
+          "Die historische New Walk Promenade ist exklusiv für Fußgänger reserviert.",
+          "Achten Sie auf das Kopfsteinpflaster rund um die Guildhall, tragen Sie bequeme Schuhe."
+        ],
+        "hu": [
+          "A belváros nagyon kompakt, ideális gyalogos felfedezésre.",
+          "A történelmi New Walk sétány kizárólag a gyalogosoké.",
+          "A Guildhall körüli macskaköves utcákon kényelmes cipő ajánlott."
+        ],
+        "ro": [
+          "Centrul orașului este foarte compact și ideal pentru explorare pe jos.",
+          "Promenada istorică New Walk este rezervată exclusiv pietonilor.",
+          "Străzile din jurul Guildhall sunt pietruite, purtați încălțăminte comodă."
+        ],
+        "en": [
+          "The city centre is very compact and perfect for exploring on foot.",
+          "The historic New Walk promenade is strictly for pedestrians only.",
+          "Cobblestones surround the Guildhall area, so comfortable walking shoes are recommended."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Jewry Wall",
+          "coords": [
+            -1.1415,
+            52.6338
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Reste römischer Architektur bestaunen.",
+            "hu": "Csodáld meg a római építészet maradványait.",
+            "ro": "Admiră rămășițele arhitecturii romane.",
+            "en": "Marvel at the Roman architectural remains."
+          }
+        },
+        {
+          "name": "Richard III Visitor Centre",
+          "coords": [
+            -1.1382,
+            52.6346
+          ],
+          "category": "museums",
+          "arrive_at": "09:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrrad in der Nähe sicher anschließen.",
+            "hu": "Zárd le biztonságosan a bringát a közelben.",
+            "ro": "Asigurați-vă bicicleta în apropiere.",
+            "en": "Lock your bike safely nearby."
+          }
+        },
+        {
+          "name": "Leicester Cathedral",
+          "coords": [
+            -1.1378,
+            52.6341
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Besucherzentrum entfernt.",
+            "hu": "Rövid sétára a látogatóközponttól.",
+            "ro": "La o scurtă plimbare de centrul de vizitatori.",
+            "en": "A very short walk from the visitor centre."
+          }
+        },
+        {
+          "name": "Abbey Park",
+          "coords": [
+            -1.134,
+            52.646
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schöne Radwege entlang des Flusses Soar.",
+            "hu": "Kiváló kerékpárutak a Soar folyó mentén.",
+            "ro": "Piste excelente de biciclete de-a lungul râului Soar.",
+            "en": "Great cycling paths along the River Soar."
+          }
+        },
+        {
+          "name": "National Space Centre",
+          "coords": [
+            -1.1332,
+            52.6585
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bietet ausreichend Fahrradstellplätze.",
+            "hu": "Bőséges kerékpártároló áll rendelkezésre.",
+            "ro": "Oferă spațiu generos pentru parcarea bicicletelor.",
+            "en": "Provides plenty of secure cycle parking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad starten Sie an der antiken Jewry Wall, bevor Sie das Geheimnis von Richard III. im Besucherzentrum lüften. Nach einem Stopp an der nahegelegenen Kathedrale radeln Sie entspannt am Fluss Soar entlang zum grünen Abbey Park. Die Tour endet spektakulär im National Space Centre, etwas außerhalb des Zentrums.",
+        "hu": "A biciklitúrát az ókori Jewry Wallnál kezdjük, majd III. Richárd titkait kutatjuk a látogatóközpontban. A közeli katedrális megtekintése után kényelmesen tekerünk a Soar folyó mentén a zöldellő Abbey Parkba. A nap a lenyűgöző Nemzeti Űrközpontban ér véget, kicsit kijjebb a belvárosból.",
+        "ro": "Turul pe bicicletă începe la zidul antic Jewry Wall, continuând cu secretele lui Richard al III-lea la centrul dedicat. După o oprire la catedrala din apropiere, pedalăm relaxat de-a lungul râului Soar până în parcul verde Abbey Park. Ziua se încheie spectaculos la Centrul Spațial Național.",
+        "en": "Your cycling trip kicks off at the ancient Jewry Wall before uncovering the story of Richard III. After a stop at the nearby Cathedral, enjoy a relaxed ride along the River Soar to the lush Abbey Park. The journey concludes spectacularly at the National Space Centre, slightly north of the centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Red Leicester Cheese",
+            "tip": "Kompakter Snack für die Radpause."
+          },
+          {
+            "name": "Melton Mowbray Pork Pie",
+            "tip": "Perfektes Picknick-Essen für den Park."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "Abends gibt es hier die besten Currys der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Red Leicester sajt",
+            "tip": "Praktikus falat a bringás pihenőhöz."
+          },
+          {
+            "name": "Melton Mowbray sertéspite",
+            "tip": "Tökéletes piknik étel a parkban."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "Este itt találod a város legjobb curryjeit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânza Red Leicester",
+            "tip": "O gustare practică pentru pauza de ciclism."
+          },
+          {
+            "name": "Plăcinta de porc Melton Mowbray",
+            "tip": "Mâncare ideală pentru un picnic în parc."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "Seara, aici găsești cele mai bune curry-uri din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Red Leicester Cheese",
+            "tip": "A convenient snack for your cycling break."
+          },
+          {
+            "name": "Melton Mowbray Pork Pie",
+            "tip": "Perfect picnic food to enjoy in the park."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "Head here in the evening for the best curries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abbey Park Ruins",
+            "tip": "Malerische Klosterruinen mitten im Park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "River Soar Towpath",
+            "tip": "Ruhiger Uferweg abseits des Straßenverkehrs.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "Grüne Oase im historischen Zentrum.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Abbey Park romjai",
+            "tip": "Festői kolostorromok a park közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Soar folyó vontatóútja",
+            "tip": "Csendes parti sétány, távol a forgalomtól.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "Zöld oázis a történelmi központban.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele din Abbey Park",
+            "tip": "Ruine pitorești ale mănăstirii chiar în mijlocul parcului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cărarea de pe malul râului Soar",
+            "tip": "Un traseu liniștit, departe de traficul rutier.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "O oază verde în centrul istoric.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbey Park Ruins",
+            "tip": "Picturesque abbey ruins right in the middle of the park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "River Soar Towpath",
+            "tip": "A peaceful riverside path away from the traffic.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "A green oasis in the historic centre.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Leicester Market",
+            "tip": "Einer der größten überdachten Märkte Europas."
+          },
+          {
+            "name": "Highcross Leicester",
+            "tip": "Modernes Einkaufszentrum mit vielen bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leicester Market",
+            "tip": "Európa egyik legnagyobb fedett piaca."
+          },
+          {
+            "name": "Highcross Leicester",
+            "tip": "Modern bevásárlóközpont sok ismert márkával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Leicester Market",
+            "tip": "Una dintre cele mai mari piețe acoperite din Europa."
+          },
+          {
+            "name": "Highcross Leicester",
+            "tip": "Un centru comercial modern cu multe branduri cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leicester Market",
+            "tip": "One of the largest covered markets in Europe."
+          },
+          {
+            "name": "Highcross Leicester",
+            "tip": "Modern shopping centre featuring many high street brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Leicester verfügt über gute Radwege, besonders entlang des Flusses.",
+          "Die Fußgängerzonen in der Altstadt erfordern stellenweise das Schieben des Rades.",
+          "Nutzen Sie die Fahrradstellplätze an den großen Museen."
+        ],
+        "hu": [
+          "Leicester kiváló kerékpárutakkal rendelkezik, különösen a folyó mentén.",
+          "Az óváros sétálóutcáiban néhol tolni kell a kerékpárt.",
+          "Használd a nagy múzeumoknál lévő kerékpártárolókat."
+        ],
+        "ro": [
+          "Leicester are piste de biciclete bune, în special de-a lungul râului.",
+          "Zonele pietonale din centrul vechi pot necesita mersul pe lângă bicicletă.",
+          "Folosiți parcările pentru biciclete de la marile muzee."
+        ],
+        "en": [
+          "Leicester has great cycling routes, especially along the river corridors.",
+          "Pedestrian zones in the old town might require you to dismount your bike.",
+          "Make use of the ample cycle parking at the major museums."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Leicester Cathedral",
+          "coords": [
+            -1.1378,
+            52.6341
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Highcross Parkhaus für das Altstadt-Cluster.",
+            "hu": "Parkolj a Highcross parkolóházban az óvárosi klaszterhez.",
+            "ro": "Parcați în parcarea Highcross pentru clusterul din centrul vechi.",
+            "en": "Park at the Highcross car park for the old town cluster."
+          }
+        },
+        {
+          "name": "Richard III Visitor Centre",
+          "coords": [
+            -1.1382,
+            52.6346
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Kathedrale entfernt.",
+            "hu": "Csak néhány lépésre a katedrálistól.",
+            "ro": "La câțiva pași distanță de catedrală.",
+            "en": "Just a few steps away from the Cathedral."
+          }
+        },
+        {
+          "name": "Leicester Guildhall",
+          "coords": [
+            -1.1385,
+            52.6345
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Alte Fachwerkkunst direkt um die Ecke.",
+            "hu": "Régi favázas építészet közvetlenül a sarkon.",
+            "ro": "Arhitectură veche din lemn chiar la colț.",
+            "en": "Historic timber framing right around the corner."
+          }
+        },
+        {
+          "name": "Abbey Park",
+          "coords": [
+            -1.134,
+            52.646
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt zum nächsten Cluster. Eigene Parkplätze vorhanden.",
+            "hu": "Vezetés a következő klaszterhez. Saját parkoló elérhető.",
+            "ro": "Conduceți spre următorul cluster. Dispune de parcare proprie.",
+            "en": "Drive to the next cluster. On-site parking available."
+          }
+        },
+        {
+          "name": "National Space Centre",
+          "coords": [
+            -1.1332,
+            52.6585
+          ],
+          "category": "museums",
+          "arrive_at": "14:20",
+          "stay_min": 130,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang oder Fahrt, riesiger Parkplatz am Zentrum.",
+            "hu": "Rövid séta vagy vezetés, hatalmas parkoló a központnál.",
+            "ro": "O scurtă plimbare, parcare uriașă la centru.",
+            "en": "Short walk away, massive car park at the centre itself."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir nutzen das Auto für größere Sprünge: Das erste Cluster liegt in der Altstadt, wo wir Kathedrale, Richard III. und die Guildhall bequem zu Fuß erkunden. Am Mittag fahren wir entspannt zum Abbey Park, um frische Luft zu schnappen. Den Nachmittag verbringen wir nach einem kurzen Spaziergang fasziniert im hochmodernen National Space Centre.",
+        "hu": "Az autót csak a nagyobb távolságokra használjuk: elsőként az óvárosban parkolunk le, ahol a katedrálist, III. Richárd központját és a Guildhallt gyalog járjuk be. Délben az Abbey Parkhoz vezetünk egy kis zöld kikapcsolódásért. A délutánt egy rövid séta után a hipermodern Nemzeti Űrközpontban töltjük.",
+        "ro": "Folosim mașina doar pentru distanțe mai mari: parcăm întâi în centrul vechi, unde explorăm pe jos Catedrala, centrul Richard al III-lea și Guildhall. La prânz conducem către Abbey Park pentru o pauză în natură. După-amiaza, cu o scurtă plimbare, o petrecem la ultramodernul Centru Spațial Național.",
+        "en": "We use the car strictly for the longer hops: first parking in the old town cluster to explore the Cathedral, Richard III centre, and Guildhall on foot. Midday, we drive to Abbey Park for some fresh air and green space. The afternoon is spent marveling at the National Space Centre, just a short walk away."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Red Leicester Cheese",
+            "tip": "Perfektes Souvenir für zu Hause."
+          },
+          {
+            "name": "Melton Mowbray Pork Pie",
+            "tip": "Herzhafter Snack, der sich gut im Auto mitnehmen lässt."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "Parken Sie abends in der Nähe der Belgrave Road für ein Dinner."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Red Leicester sajt",
+            "tip": "Tökéletes szuvenír otthonra."
+          },
+          {
+            "name": "Melton Mowbray sertéspite",
+            "tip": "Laktató falat, amit könnyen magaddal vihetsz az autóban."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "Este parkolj a Belgrave Road környékén egy jó vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânza Red Leicester",
+            "tip": "Suvenirul perfect de luat acasă."
+          },
+          {
+            "name": "Plăcinta de porc Melton Mowbray",
+            "tip": "O gustare consistentă, ușor de luat în mașină."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "Parcați seara pe Belgrave Road pentru o cină indiană autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Red Leicester Cheese",
+            "tip": "A perfect culinary souvenir to take home."
+          },
+          {
+            "name": "Melton Mowbray Pork Pie",
+            "tip": "A hearty snack that travels well in the car."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "Park near Belgrave Road in the evening for a great dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abbey Park Ruins",
+            "tip": "Malerische Klosterruinen mitten im Park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "River Soar Towpath",
+            "tip": "Ruhiger Uferweg abseits des Straßenverkehrs.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "Grüne Oase im historischen Zentrum.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Abbey Park romjai",
+            "tip": "Festői kolostorromok a park közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Soar folyó vontatóútja",
+            "tip": "Csendes parti sétány, távol a forgalomtól.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "Zöld oázis a történelmi központban.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele din Abbey Park",
+            "tip": "Ruine pitorești ale mănăstirii chiar în mijlocul parcului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cărarea de pe malul râului Soar",
+            "tip": "Un traseu liniștit, departe de traficul rutier.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "O oază verde în centrul istoric.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbey Park Ruins",
+            "tip": "Picturesque abbey ruins right in the middle of the park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "River Soar Towpath",
+            "tip": "A peaceful riverside path away from the traffic.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "A green oasis in the historic centre.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Leicester Market",
+            "tip": "Einer der größten überdachten Märkte Europas."
+          },
+          {
+            "name": "Highcross Leicester",
+            "tip": "Modernes Einkaufszentrum, gutes Parkhaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leicester Market",
+            "tip": "Európa egyik legnagyobb fedett piaca."
+          },
+          {
+            "name": "Highcross Leicester",
+            "tip": "Modern bevásárlóközpont, jó parkolóházzal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Leicester Market",
+            "tip": "Una dintre cele mai mari piețe acoperite din Europa."
+          },
+          {
+            "name": "Highcross Leicester",
+            "tip": "Un centru comercial modern cu parcare generoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leicester Market",
+            "tip": "One of the largest covered markets in Europe."
+          },
+          {
+            "name": "Highcross Leicester",
+            "tip": "Modern shopping centre with a large multi-storey car park."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist teilweise verkehrsberuhigt, nutzen Sie große Parkhäuser wie Highcross.",
+          "Parken Sie für das Space Centre direkt auf dem dortigen Großparkplatz.",
+          "Vermeiden Sie die Rushhour im Stadtzentrum."
+        ],
+        "hu": [
+          "Az óváros egy része forgalomcsillapított, használd a nagy parkolóházakat (pl. Highcross).",
+          "Az Űrközponthoz parkolj közvetlenül az ottani hatalmas parkolóban.",
+          "Kerüld el a csúcsforgalmat a városközpontban."
+        ],
+        "ro": [
+          "Centrul vechi are restricții auto, folosiți parcările mari precum Highcross.",
+          "Pentru Centrul Spațial, parcați direct în parcarea masivă de acolo.",
+          "Evitați orele de vârf în centrul orașului."
+        ],
+        "en": [
+          "The old town has traffic restrictions; use large car parks like Highcross.",
+          "For the Space Centre, park directly in their massive dedicated car park.",
+          "Try to avoid driving through the city centre during rush hour."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Leicester Market",
+          "coords": [
+            -1.137,
+            52.6338
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Startpunkt, leicht mit dem Bus erreichbar.",
+            "hu": "Központi indulópont, könnyen elérhető busszal.",
+            "ro": "Punct central de pornire, ușor accesibil cu autobuzul.",
+            "en": "Central starting point, easily reached by bus."
+          }
+        },
+        {
+          "name": "Leicester Guildhall",
+          "coords": [
+            -1.1385,
+            52.6345
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Markt.",
+            "hu": "Rövid séta a piactól.",
+            "ro": "O scurtă plimbare de la piață.",
+            "en": "A brief walk from the market."
+          }
+        },
+        {
+          "name": "Leicester Cathedral",
+          "coords": [
+            -1.1378,
+            52.6341
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich nebenan, das Zentrum des historischen Viertels.",
+            "hu": "Közvetlenül mellette, a történelmi negyed központja.",
+            "ro": "Chiar alături, inima cartierului istoric.",
+            "en": "Right next door, the heart of the historic quarter."
+          }
+        },
+        {
+          "name": "Abbey Park",
+          "coords": [
+            -1.134,
+            52.646
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus Richtung Norden.",
+            "hu": "Szállj fel egy észak felé tartó buszra.",
+            "ro": "Luați un autobuz spre nord.",
+            "en": "Hop on a northbound bus to reach the park."
+          }
+        },
+        {
+          "name": "National Space Centre",
+          "coords": [
+            -1.1332,
+            52.6585
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 130,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Park aus weiter nach Norden.",
+            "hu": "Kellemes séta a parkból tovább északra.",
+            "ro": "O plimbare plăcută din parc mai departe spre nord.",
+            "en": "A nice stroll further north from the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der öffentliche Nahverkehr bringt uns zum ersten Cluster: Vom lebhaften Leicester Market spazieren wir gemütlich zur historischen Guildhall und der Kathedrale. Am Mittag steigen wir in den Bus, um das nördliche Cluster am Abbey Park zu erreichen. Nach einer erholsamen Auszeit im Grünen spazieren wir die letzte kurze Etappe zum National Space Centre.",
+        "hu": "A tömegközlekedés egyenesen az első klaszterbe repít: a nyüzsgő piactól indulva kényelmesen elsétálunk a történelmi Guildhallhoz és a katedrálishoz. Délben buszra pattanunk, hogy elérjük az északi Abbey Parkot. Egy kis zöldellő pihenő után már csak egy rövid séta vár ránk a lenyűgöző Nemzeti Űrközpontig.",
+        "ro": "Transportul public ne duce la primul cluster: de la piața vibrantă mergem pe jos la istorica Guildhall și Catedrală. La prânz luăm autobuzul pentru a ajunge la clusterul nordic, la Abbey Park. După o pauză de relaxare în natură, facem o scurtă plimbare până la impresionantul Centru Spațial Național.",
+        "en": "Public transit drops us at our first cluster: from the bustling Leicester Market, we easily walk to the historic Guildhall and Cathedral. Midday, we hop on a bus heading to the northern cluster at Abbey Park. After a relaxing break in the green, it's just a short stroll to the spectacular National Space Centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Red Leicester Cheese",
+            "tip": "Finden Sie an Ständen direkt am zentralen Markt."
+          },
+          {
+            "name": "Melton Mowbray Pork Pie",
+            "tip": "Ein klassischer britischer Snack, oft in Bäckereien zu finden."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "Nehmen Sie abends den Bus zur Belgrave Road."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Red Leicester sajt",
+            "tip": "Megtalálod a központi piac árusainál."
+          },
+          {
+            "name": "Melton Mowbray sertéspite",
+            "tip": "Klasszikus brit sós sütemény, pékségekben kapható."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "Este menj busszal a Belgrave Road felé egy curryre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânza Red Leicester",
+            "tip": "De găsit la tarabele din piața centrală."
+          },
+          {
+            "name": "Plăcinta de porc Melton Mowbray",
+            "tip": "O gustare britanică clasică, de găsit în brutării."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "Seara, luați un autobuz către Belgrave Road."
+          }
+        ],
+        "en": [
+          {
+            "name": "Red Leicester Cheese",
+            "tip": "Find it at stalls right in the central market."
+          },
+          {
+            "name": "Melton Mowbray Pork Pie",
+            "tip": "A classic savory British pastry available in most bakeries."
+          },
+          {
+            "name": "Curry Mile",
+            "tip": "Take a bus to Belgrave Road in the evening for fantastic curries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abbey Park Ruins",
+            "tip": "Malerische Klosterruinen mitten im Park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "River Soar Towpath",
+            "tip": "Ruhiger Uferweg abseits des Straßenverkehrs.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "Grüne Oase im historischen Zentrum.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Abbey Park romjai",
+            "tip": "Festői kolostorromok a park közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Soar folyó vontatóútja",
+            "tip": "Csendes parti sétány, távol a forgalomtól.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "Zöld oázis a történelmi központban.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele din Abbey Park",
+            "tip": "Ruine pitorești ale mănăstirii chiar în mijlocul parcului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cărarea de pe malul râului Soar",
+            "tip": "Un traseu liniștit, departe de traficul rutier.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "O oază verde în centrul istoric.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbey Park Ruins",
+            "tip": "Picturesque abbey ruins right in the middle of the park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "River Soar Towpath",
+            "tip": "A peaceful riverside path away from the traffic.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "A green oasis in the historic centre.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Leicester Market",
+            "tip": "Einer der größten überdachten Märkte Europas."
+          },
+          {
+            "name": "Highcross Leicester",
+            "tip": "Modernes Einkaufszentrum mit vielen bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leicester Market",
+            "tip": "Európa egyik legnagyobb fedett piaca."
+          },
+          {
+            "name": "Highcross Leicester",
+            "tip": "Modern bevásárlóközpont sok ismert márkával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Leicester Market",
+            "tip": "Una dintre cele mai mari piețe acoperite din Europa."
+          },
+          {
+            "name": "Highcross Leicester",
+            "tip": "Un centru comercial modern cu multe branduri cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leicester Market",
+            "tip": "One of the largest covered markets in Europe."
+          },
+          {
+            "name": "Highcross Leicester",
+            "tip": "Modern shopping centre featuring many high street brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Busnetz in Leicester ist zuverlässig, nutzen Sie Tageskarten.",
+          "Die Sehenswürdigkeiten der Altstadt liegen sehr dicht beieinander.",
+          "Der Hauptbusbahnhof Haymarket ist der perfekte Knotenpunkt für alle Richtungen."
+        ],
+        "hu": [
+          "A buszhálózat megbízható Leicesterben, érdemes napijegyet váltani.",
+          "Az óvárosi látnivalók nagyon közel vannak egymáshoz.",
+          "A Haymarket főbuszpályaudvar kiváló csomópont minden irányba."
+        ],
+        "ro": [
+          "Rețeaua de autobuze este de încredere, folosiți bilete de o zi.",
+          "Atracțiile din centrul vechi sunt foarte apropiate între ele.",
+          "Autogara principală Haymarket este nodul perfect pentru toate direcțiile."
+        ],
+        "en": [
+          "The bus network in Leicester is reliable; consider getting a day ticket.",
+          "The sights in the historic old town are very close together.",
+          "Haymarket bus station is the perfect hub for traveling in any direction."
+        ]
+      }
+    }
+  }
+}

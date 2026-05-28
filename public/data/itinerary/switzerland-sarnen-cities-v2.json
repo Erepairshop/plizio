@@ -1,0 +1,1468 @@
+{
+  "city_id": "switzerland-sarnen-cities-v2",
+  "anchor": {
+    "name": "Sarnen",
+    "coords": [
+      8.2435,
+      46.8942
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Landenberg und Altstadt",
+            "hu": "Landenberg és Óváros",
+            "ro": "Landenberg și Centrul Vechi",
+            "en": "Landenberg and Old Town"
+          },
+          "coords": [
+            8.2451,
+            46.8925
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee auf dem Dorfplatz, um die Atmosphäre aufzusaugen.",
+            "hu": "Kezdje a napot egy kávéval a főtéren, hogy magába szívja a hangulatot.",
+            "ro": "Începeți ziua cu o cafea în piața orașului pentru a absorbi atmosfera.",
+            "en": "Start your day with a coffee in the town square to soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Sarnen",
+            "hu": "Sarneni Városháza",
+            "ro": "Primăria Sarnen",
+            "en": "Sarnen Town Hall"
+          },
+          "coords": [
+            8.2448,
+            46.8931
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die kunstvollen Holzschnitzereien an der Fassade des Gebäudes.",
+            "hu": "Figyelje meg az épület homlokzatán található míves fafaragásokat.",
+            "ro": "Observați sculpturile elaborate în lemn de pe fațada clădirii.",
+            "en": "Look for the ornate wood carvings on the building's facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Hexenturm",
+            "hu": "Boszorkánytorony",
+            "ro": "Turnul Vrăjitoarelor",
+            "en": "Witch's Tower"
+          },
+          "coords": [
+            8.2465,
+            46.8948
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Überbleibsel der alten Stadtbefestigung mit einer dunklen Geschichte.",
+            "hu": "A régi városi erődítmény maradványa, sötét történelemmel.",
+            "ro": "O relicvă a vechilor fortificații ale orașului, cu o istorie întunecată.",
+            "en": "A remnant of the old town fortifications with a dark history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollegiumskirche St. Martin",
+            "hu": "Szent Márton kollégiumi templom",
+            "ro": "Biserica Colegială Sf. Martin",
+            "en": "Collegiate Church of St. Martin"
+          },
+          "coords": [
+            8.2422,
+            46.8928
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:29",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende barocke Architektur und die ruhige Atmosphäre im Inneren.",
+            "hu": "Csodálja meg a lenyűgöző barokk építészetet és a benti csendes légkört.",
+            "ro": "Admirați arhitectura barocă impresionantă și atmosfera liniștită din interior.",
+            "en": "Admire the impressive baroque architecture and the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            8.244,
+            46.8935
+          ],
+          "category": "gastro",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie in einem lokalen Restaurant 'Älplermagronen'.",
+            "hu": "Kóstolja meg az 'Älplermagronen'-t egy helyi étteremben.",
+            "ro": "Încercați 'Älplermagronen' la un restaurant local.",
+            "en": "Try 'Älplermagronen' at a local restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Obwalden",
+            "hu": "Obwalden Múzeum",
+            "ro": "Muzeul Obwalden",
+            "en": "Museum Obwalden"
+          },
+          "coords": [
+            8.243,
+            46.8955
+          ],
+          "category": "museums",
+          "arrive_at": "13:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Kulturgeschichte der Region Obwalden.",
+            "hu": "Ismerje meg Obwalden régió gazdag kultúrtörténetét.",
+            "ro": "Descoperiți istoria culturală bogată a regiunii Obwalden.",
+            "en": "Discover the rich cultural history of the Obwalden region."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Sarnersee",
+            "hu": "Séta a Sarnersee partján",
+            "ro": "Plimbare pe malul lacului Sarnersee",
+            "en": "Walk along Lake Sarnen"
+          },
+          "coords": [
+            8.2401,
+            46.8859
+          ],
+          "category": "natural features",
+          "arrive_at": "15:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um den Tag mit Blick auf die Berge ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap lezárására a hegyekre nyíló kilátással.",
+            "ro": "Un loc perfect pentru a încheia ziua cu o priveliște spre munți.",
+            "en": "A perfect spot to end the day with a view of the mountains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Sarnen beginnt im historischen Herzen, dem Landenberg, wo Sie die mittelalterliche Atmosphäre spüren. Am Vormittag erkunden Sie die Gassen, den Hexenturm und die prächtige St. Martin Kirche. Nach einem stärkenden Mittagessen mit lokalen Spezialitäten tauchen Sie am Nachmittag in die regionale Geschichte im Museum Obwalden ein. Der Tag klingt mit einem entspannten Spaziergang am Ufer des Sarnersees aus, wo die Alpengipfel im Abendlicht glühen.",
+        "hu": "A sarneni nap a történelmi szívben, Landenbergben kezdődik, ahol átérezheti a középkori hangulatot. Délelőtt felfedezi a sikátorokat, a Boszorkánytornyot és a pompás Szent Márton-templomot. Egy helyi specialitásokból álló, feltöltő ebéd után délután elmerül a régió történelmében az Obwalden Múzeumban. A nap egy pihentető sétával zárul a Sarnersee partján, ahol az Alpok csúcsai az esti fényben ragyognak.",
+        "ro": "Ziua dumneavoastră în Sarnen începe în inima sa istorică, Landenberg, unde veți simți atmosfera medievală. În cursul dimineții, explorați străduțele, Turnul Vrăjitoarelor și magnificul Biserica Sf. Martin. După un prânz revigorant cu specialități locale, după-amiaza vă veți cufunda în istoria regională la Muzeul Obwalden. Ziua se încheie cu o plimbare relaxantă pe malul lacului Sarnersee, unde vârfurile alpine strălucesc în lumina serii.",
+        "en": "Your day in Sarnen begins in its historic heart, Landenberg, where you'll feel the medieval atmosphere. In the morning, you'll explore the alleyways, the Witch's Tower, and the magnificent St. Martin's Church. After a hearty lunch with local specialties, you'll delve into regional history at the Museum Obwalden in the afternoon. The day concludes with a relaxing walk along the shore of Lake Sarnen, where the Alpine peaks glow in the evening light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Älplermagronen",
+            "tip": "Ein herzhaftes Gericht aus Makkaroni, Kartoffeln, Käse und Zwiebeln, oft mit Apfelmus serviert."
+          },
+          {
+            "name": "Obwaldner Käse",
+            "tip": "Probieren Sie den lokalen Alpkäse auf einem Markt oder in einer Käserei."
+          },
+          {
+            "name": "Zuger Kirschtorte",
+            "tip": "Obwohl aus Zug, ist diese Kirschwasser-Torte in der ganzen Zentralschweiz beliebt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Älplermagronen",
+            "tip": "Kiadós étel makaróniból, krumpliból, sajtból és hagymából, gyakran almaszósszal tálalva."
+          },
+          {
+            "name": "Obwaldeni sajt",
+            "tip": "Kóstolja meg a helyi alpesi sajtot egy piacon vagy sajtüzemben."
+          },
+          {
+            "name": "Zugi cseresznyetorta",
+            "tip": "Bár Zugból származik, ez a cseresznyepálinkás torta egész Közép-Svájcban népszerű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Älplermagronen",
+            "tip": "Un fel de mâncare consistent din macaroane, cartofi, brânză și ceapă, adesea servit cu sos de mere."
+          },
+          {
+            "name": "Brânză de Obwalden",
+            "tip": "Gustați brânza alpină locală la o piață sau la o fabrică de brânzeturi."
+          },
+          {
+            "name": "Tort de cireșe de Zug",
+            "tip": "Deși originar din Zug, acest tort cu rachiu de cireșe este popular în toată Elveția Centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Älplermagronen",
+            "tip": "A hearty dish of macaroni, potatoes, cheese, and onions, often served with applesauce."
+          },
+          {
+            "name": "Obwalden Cheese",
+            "tip": "Try the local alpine cheese at a market or fromagerie."
+          },
+          {
+            "name": "Zuger Kirschtorte",
+            "tip": "Although from Zug, this cherry brandy cake is popular throughout Central Switzerland."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg Sarnersee",
+            "tip": "Finden Sie eine Bank am Seeufer und genießen Sie die Stille und den Blick auf die Berge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kapuzinerkloster Garten",
+            "tip": "Ein stiller, abgeschiedener Ort für einen Moment der Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Wanderwege am Landenberg",
+            "tip": "Entfliehen Sie dem Trubel auf den Pfaden oberhalb der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sarnersee tóparti sétány",
+            "tip": "Keressen egy padot a tóparton, és élvezze a csendet és a hegyek látványát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kapucinus kolostor kertje",
+            "tip": "Csendes, eldugott hely egy pillanatnyi elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Túraösvények a Landenbergen",
+            "tip": "Meneküljön el a nyüzsgés elől a város feletti ösvényeken.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe malul lacului Sarnersee",
+            "tip": "Găsiți o bancă pe malul lacului și bucurați-vă de liniște și de vederea spre munți.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Mănăstirii Capucinilor",
+            "tip": "Un loc tăcut și izolat pentru un moment de reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Poteci pe Landenberg",
+            "tip": "Evadați din agitație pe cărările de deasupra orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Sarnen Shore Path",
+            "tip": "Find a bench by the lake shore and enjoy the silence and the mountain views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capuchin Monastery Garden",
+            "tip": "A quiet, secluded spot for a moment of reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hiking trails on Landenberg",
+            "tip": "Escape the bustle on the paths above the town.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Kaufen Sie samstags lokale Produkte wie Käse, Wurst und Brot auf dem Dorfplatz."
+          },
+          {
+            "name": "Heimatwerk",
+            "tip": "Finden Sie handgefertigte Souvenirs und traditionelles Schweizer Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Szombatonként vásároljon helyi termékeket, például sajtot, kolbászt és kenyeret a főtéren."
+          },
+          {
+            "name": "Helyi kézműves bolt",
+            "tip": "Találjon kézzel készített ajándéktárgyakat és hagyományos svájci kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Sâmbăta, cumpărați produse locale precum brânză, cârnați și pâine din piața orașului."
+          },
+          {
+            "name": "Magazin de artizanat local",
+            "tip": "Găsiți suveniruri lucrate manual și artizanat tradițional elvețian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "On Saturdays, buy local products like cheese, sausages, and bread in the town square."
+          },
+          {
+            "name": "Local Craft Shop",
+            "tip": "Find handmade souvenirs and traditional Swiss crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich; es gibt viele Brunnen mit Trinkwasser.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können.",
+          "Auch im Sommer kann es in den Bergen kühl werden, eine leichte Jacke ist ratsam."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "Egy újratölthető vizes palack hasznos; sok ivóvízzel ellátott kút található.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mert az változhat.",
+          "Nyáron is hűvös lehet a hegyekben, egy könnyű kabát ajánlott."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "O sticlă de apă reutilizabilă este utilă; există multe fântâni cu apă potabilă.",
+          "Verificați în avans orele de deschidere ale muzeelor, deoarece acestea pot varia.",
+          "Chiar și vara, în munți poate fi răcoare, o jachetă ușoară este recomandată."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "A reusable water bottle is useful; there are many fountains with drinking water.",
+          "Check museum opening times in advance as they can vary.",
+          "Even in summer, it can get cool in the mountains, so a light jacket is advisable."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Radtour am Sarnersee",
+            "hu": "Kerékpártúra a Sarnersee körül",
+            "ro": "Tur cu bicicleta pe malul lacului Sarnersee",
+            "en": "Bike ride along Lake Sarnen"
+          },
+          "coords": [
+            8.2401,
+            46.8859
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einer erfrischenden Runde am See, die Wege sind flach und gut ausgebaut.",
+            "hu": "Kezdje a napot egy frissítő körrel a tó körül; az utak síkak és jól kiépítettek.",
+            "ro": "Începeți cu o plimbare revigorantă pe lângă lac; cărările sunt plate și bine întreținute.",
+            "en": "Start with a refreshing loop by the lake; the paths are flat and well-maintained."
+          }
+        },
+        {
+          "name": {
+            "de": "Landenberg und Altstadt",
+            "hu": "Landenberg és Óváros",
+            "ro": "Landenberg și Centrul Vechi",
+            "en": "Landenberg and Old Town"
+          },
+          "coords": [
+            8.2451,
+            46.8925
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:33",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die historischen Gassen zu Fuss.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel gyalog a történelmi sikátorokat.",
+            "ro": "Parcați bicicleta și explorați străduțele istorice pe jos.",
+            "en": "Park your bike and explore the historic alleyways on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hexenturm",
+            "hu": "Boszorkánytorony",
+            "ro": "Turnul Vrăjitoarelor",
+            "en": "Witch's Tower"
+          },
+          "coords": [
+            8.2465,
+            46.8948
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:21",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher, um die mittelalterliche Vergangenheit der Stadt zu sehen.",
+            "hu": "Egy rövid kitérő, hogy megtekintse a város középkori múltját.",
+            "ro": "Un scurt ocol pentru a vedea trecutul medieval al orașului.",
+            "en": "A quick detour to see the town's medieval past."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollegiumskirche St. Martin",
+            "hu": "Szent Márton kollégiumi templom",
+            "ro": "Biserica Colegială Sf. Martin",
+            "en": "Collegiate Church of St. Martin"
+          },
+          "coords": [
+            8.2422,
+            46.8928
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das beeindruckendste religiöse Gebäude der Stadt, ein Muss für einen Besuch.",
+            "hu": "A város leglenyűgözőbb vallási épülete, kötelező látnivaló.",
+            "ro": "Cea mai impresionantă clădire religioasă din oraș, o vizită obligatorie.",
+            "en": "The most impressive religious building in town, a must-visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am See",
+            "hu": "Ebéd a tónál",
+            "ro": "Prânz la lac",
+            "en": "Lunch by the Lake"
+          },
+          "coords": [
+            8.238,
+            46.889
+          ],
+          "category": "gastro",
+          "arrive_at": "12:52",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Terrasse für einen herrlichen Blick während des Essens.",
+            "hu": "Válasszon egy teraszos éttermet, hogy evés közben gyönyörködhessen a kilátásban.",
+            "ro": "Alegeți un restaurant cu terasă pentru o priveliște magnifică în timpul mesei.",
+            "en": "Choose a restaurant with a terrace for a magnificent view while you eat."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Sarnen",
+            "hu": "Sarneni Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Sarnen",
+            "en": "Sarnen Local History Museum"
+          },
+          "coords": [
+            8.2478,
+            46.8911
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Konzentriert sich auf das Alltagsleben und die Traditionen der Region.",
+            "hu": "A régió mindennapi életére és hagyományaira összpontosít.",
+            "ro": "Se concentrează pe viața de zi cu zi și tradițiile din regiune.",
+            "en": "Focuses on the daily life and traditions of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapuzinerkloster Sarnen",
+            "hu": "Sarneni kapucinus kolostor",
+            "ro": "Mănăstirea Capucinilor Sarnen",
+            "en": "Capuchin Monastery Sarnen"
+          },
+          "coords": [
+            8.2495,
+            46.8965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein Ort der Stille und Einkehr am Rande der Stadt.",
+            "hu": "A csend és a béke helye a város szélén.",
+            "ro": "Un loc de liniște și reculegere la marginea orașului.",
+            "en": "A place of peace and contemplation on the edge of town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrradtour beginnt mit einer malerischen Fahrt entlang des Sarnersees. Gegen Vormittag erreichen Sie das historische Zentrum, wo Sie Ihr Rad abstellen, um den Landenberg und den Hexenturm zu Fuss zu erkunden. Nach der Besichtigung der prunkvollen Kirche St. Martin radeln Sie zurück zum See für ein Mittagessen mit Aussicht. Der Nachmittag ist der lokalen Kultur im Heimatmuseum und einem besinnlichen Besuch im Kapuzinerkloster gewidmet, bevor Sie den Tag ausklingen lassen.",
+        "hu": "A kerékpártúra a festői Sarnersee mentén tett utazással kezdődik. Délelőttre eléri a történelmi központot, ahol leparkolja a kerékpárt, hogy gyalog fedezze fel Landenberget és a Boszorkánytornyot. A pompás Szent Márton-templom megtekintése után visszateker a tóhoz egy kilátással egybekötött ebédre. A délutánt a helyi kultúrának szenteli a Helytörténeti Múzeumban és egy elmélkedő látogatásnak a kapucinus kolostorban, mielőtt lezárná a napot.",
+        "ro": "Turul cu bicicleta începe cu o plimbare pitorească de-a lungul lacului Sarnersee. Spre dimineață, ajungeți în centrul istoric, unde parcați bicicleta pentru a explora pe jos Landenberg și Turnul Vrăjitoarelor. După vizitarea magnificei biserici Sf. Martin, vă întoarceți cu bicicleta la lac pentru un prânz cu priveliște. După-amiaza este dedicată culturii locale la Muzeul de Istorie Locală și unei vizite contemplative la Mănăstirea Capucinilor, înainte de a încheia ziua.",
+        "en": "Your bike tour starts with a scenic ride along Lake Sarnen. By mid-morning, you'll reach the historic center, where you'll park your bike to explore Landenberg and the Witch's Tower on foot. After visiting the magnificent St. Martin's Church, you'll cycle back to the lake for lunch with a view. The afternoon is dedicated to local culture at the Local History Museum and a contemplative visit to the Capuchin Monastery before winding down your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisch aus dem Sarnersee",
+            "tip": "Probieren Sie frisch gefangenen Fisch wie Felchen oder Egli in einem Restaurant am See."
+          },
+          {
+            "name": "Birnenbrot",
+            "tip": "Eine süsse, dichte Brotspezialität mit getrockneten Birnen, perfekt für eine Pause."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Das Schweizer Nationalgetränk aus Milchserum, erfrischend nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hal a Sarnersee-ből",
+            "tip": "Kóstoljon meg frissen fogott halat, például marénát vagy sügért egy tóparti étteremben."
+          },
+          {
+            "name": "Körtekenyér",
+            "tip": "Édes, sűrű kenyérkülönlegesség aszalt körtével, tökéletes egy szünetre."
+          },
+          {
+            "name": "Rivella",
+            "tip": "A svájci nemzeti ital tejsavóból, frissítő egy kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește din lacul Sarnersee",
+            "tip": "Încercați pește proaspăt prins, cum ar fi coregonul sau bibanul, la un restaurant de pe malul lacului."
+          },
+          {
+            "name": "Pâine cu pere",
+            "tip": "O specialitate de pâine dulce și densă cu pere uscate, perfectă pentru o pauză."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Băutura națională elvețiană din zer de lapte, răcoritoare după o plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish from Lake Sarnen",
+            "tip": "Try freshly caught fish like whitefish (Felchen) or perch (Egli) at a lakeside restaurant."
+          },
+          {
+            "name": "Pear Bread (Birnenbrot)",
+            "tip": "A sweet, dense bread specialty with dried pears, perfect for a break."
+          },
+          {
+            "name": "Rivella",
+            "tip": "The Swiss national drink made from milk whey, refreshing after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Badeplatz am Sarnersee",
+            "tip": "Ein erfrischendes Bad im klaren Wasser des Sees.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt Ramersberg",
+            "tip": "Eine kurze, aber steile Radtour für einen atemberaubenden Blick über das Tal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Waldwege rund um Sarnen",
+            "tip": "Entdecken Sie die ruhigen Wälder abseits der Hauptstrassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fürdőhely a Sarnersee-nél",
+            "tip": "Egy frissítő úszás a tó tiszta vizében.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ramersberg kilátó",
+            "tip": "Egy rövid, de meredek kerékpártúra a völgyre nyíló lélegzetelállító kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Erdei utak Sarnen körül",
+            "tip": "Fedezze fel a csendes erdőket a főutaktól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc de scăldat la lacul Sarnersee",
+            "tip": "O baie revigorantă în apa limpede a lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere Ramersberg",
+            "tip": "Un tur scurt, dar abrupt cu bicicleta pentru o priveliște uluitoare asupra văii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Poteci forestiere în jurul Sarnen",
+            "tip": "Descoperiți pădurile liniștite departe de drumurile principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bathing spot at Lake Sarnen",
+            "tip": "A refreshing swim in the clear waters of the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ramersberg Viewpoint",
+            "tip": "A short but steep bike ride for a breathtaking view over the valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Forest trails around Sarnen",
+            "tip": "Discover the quiet forests away from the main roads.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für eventuelle Reparaturen oder um Zubehör für Ihre Tour zu kaufen."
+          },
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie Ausschau nach kleinen Bauernhofläden am Wegesrand für frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Esetleges javításokhoz vagy kiegészítők vásárlásához a túrához."
+          },
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Keresse az út menti kis tanyasi boltokat friss termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru eventuale reparații sau pentru a cumpăra accesorii pentru turul dumneavoastră."
+          },
+          {
+            "name": "Magazine la fermă",
+            "tip": "Fiți atenți la micile magazine de la ferme de pe marginea drumului pentru produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "For any necessary repairs or to buy accessories for your tour."
+          },
+          {
+            "name": "Farm Shops",
+            "tip": "Look out for small farm shops along the way for fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, um die Hügel leichter zu bewältigen.",
+          "Tragen Sie einen Helm und seien Sie auf den Strassen sichtbar.",
+          "Planen Sie Ihre Route im Voraus, aber seien Sie flexibel.",
+          "Nehmen Sie Snacks und Wasser mit, besonders für längere Strecken ausserhalb der Stadt."
+        ],
+        "hu": [
+          "Béreljen e-biciklit, hogy könnyebben megbirkózzon a dombokkal.",
+          "Viseljen sisakot és legyen látható az utakon.",
+          "Tervezze meg előre az útvonalat, de legyen rugalmas.",
+          "Vigyen magával harapnivalót és vizet, különösen a városon kívüli hosszabb szakaszokra."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru a face față mai ușor dealurilor.",
+          "Purtați cască și fiți vizibil pe drumuri.",
+          "Planificați-vă traseul în avans, dar fiți flexibil.",
+          "Luați gustări și apă cu dumneavoastră, mai ales pentru distanțe mai lungi în afara orașului."
+        ],
+        "en": [
+          "Rent an e-bike to tackle the hills more easily.",
+          "Wear a helmet and be visible on the roads.",
+          "Plan your route in advance, but be flexible.",
+          "Bring snacks and water, especially for longer stretches outside the town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 16.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Start: Parkhaus Sarnen Zentrum",
+            "hu": "Klaszter kezdete: Sarnen központi parkolóház",
+            "ro": "Începutul clusterului: Parcare Centrală Sarnen",
+            "en": "Cluster Start: Sarnen Center Car Park"
+          },
+          "coords": [
+            8.2438,
+            46.8945
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Von hier aus ist die gesamte Altstadt leicht zu Fuss erreichbar.",
+            "hu": "Parkoljon itt a délelőttre. Innen az egész óváros könnyen elérhető gyalog.",
+            "ro": "Parcați aici pentru dimineață. De aici, tot centrul vechi este ușor accesibil pe jos.",
+            "en": "Park here for the morning. The entire old town is easily accessible on foot from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Landenberg & Rathaus",
+            "hu": "Landenberg és Városháza",
+            "ro": "Landenberg și Primăria",
+            "en": "Landenberg & Town Hall"
+          },
+          "coords": [
+            8.2451,
+            46.8925
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Kern von Sarnen.",
+            "hu": "Fedezze fel Sarnen történelmi magját.",
+            "ro": "Explorați nucleul istoric al Sarnenului.",
+            "en": "Explore the historic core of Sarnen."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollegiumskirche St. Martin",
+            "hu": "Szent Márton kollégiumi templom",
+            "ro": "Biserica Colegială Sf. Martin",
+            "en": "Collegiate Church of St. Martin"
+          },
+          "coords": [
+            8.2422,
+            46.8928
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzes Stück zu Fuss von Landenberg entfernt.",
+            "hu": "Egy rövid séta Landenbergtől.",
+            "ro": "La o scurtă plimbare de Landenberg.",
+            "en": "A short walk from Landenberg."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Obwalden",
+            "hu": "Obwalden Múzeum",
+            "ro": "Muzeul Obwalden",
+            "en": "Museum Obwalden"
+          },
+          "coords": [
+            8.243,
+            46.8955
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zurück durch die Stadt zum Museum für einen Einblick in die lokale Kultur.",
+            "hu": "Vissza a városon keresztül a múzeumba, hogy bepillantást nyerjen a helyi kultúrába.",
+            "ro": "Înapoi prin oraș la muzeu pentru o incursiune în cultura locală.",
+            "en": "Back through town to the museum for a glimpse into local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster-Wechsel: Fahrt zum Sarnersee",
+            "hu": "Klaszterváltás: Utazás a Sarnersee-hez",
+            "ro": "Schimbare de cluster: Drum spre lacul Sarnersee",
+            "en": "Cluster Change: Drive to Lake Sarnen"
+          },
+          "coords": [
+            8.2401,
+            46.8859
+          ],
+          "category": "natural features",
+          "arrive_at": "12:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Seeufer für das Mittagessen und einen entspannten Nachmittag. Parkplätze sind vorhanden.",
+            "hu": "Hajtson a tóparthoz ebédelni és egy pihentető délutánra. Parkolási lehetőségek rendelkezésre állnak.",
+            "ro": "Conduceți spre malul lacului pentru prânz și o după-amiază relaxantă. Există locuri de parcare.",
+            "en": "Drive to the lake shore for lunch and a relaxing afternoon. Parking is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang und Café am See",
+            "hu": "Séta és kávézó a tónál",
+            "ro": "Plimbare și cafenea la lac",
+            "en": "Walk and Café at the Lake"
+          },
+          "coords": [
+            8.2388,
+            46.8877
+          ],
+          "category": "gastro",
+          "arrive_at": "14:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen, ein Spaziergang entlang der Promenade und ein Kaffee mit Aussicht.",
+            "hu": "Ebéd után séta a sétányon és egy kávé a kilátással.",
+            "ro": "După prânz, o plimbare de-a lungul promenadei și o cafea cu priveliște.",
+            "en": "After lunch, a walk along the promenade and a coffee with a view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Sarnen folgt dem Cluster-Prinzip. Sie parken im Zentrum und erkunden den gesamten historischen Kern zu Fuss: Landenberg, die Kirche und das Museum. Am Mittag holen Sie Ihr Auto und fahren die kurze Strecke zum Sarnersee. Dort verbringen Sie den Nachmittag mit einem Mittagessen am Wasser und einem gemütlichen Spaziergang entlang des Ufers, geniessen die Bergkulisse und die frische Luft, bevor Sie die Rückreise antreten.",
+        "hu": "Az autós nap Sarnenben a klaszter-elvet követi. A központban parkol, és gyalog fedezi fel az egész történelmi magot: Landenberget, a templomot és a múzeumot. Délben autóba ül, és a rövid távot megteszi a Sarnersee-hez. Ott tölti a délutánt egy vízparti ebéddel és egy kellemes sétával a part mentén, élvezve a hegyi panorámát és a friss levegőt, mielőtt hazaindulna.",
+        "ro": "Ziua dumneavoastră cu mașina în Sarnen urmează principiul clusterelor. Parcați în centru și explorați întregul nucleu istoric pe jos: Landenberg, biserica și muzeul. La prânz, luați mașina și conduceți pe distanța scurtă până la lacul Sarnersee. Acolo vă petreceți după-amiaza cu un prânz pe malul apei și o plimbare agale de-a lungul țărmului, bucurându-vă de peisajul montan și de aerul proaspăt înainte de a porni înapoi.",
+        "en": "Your car day in Sarnen follows the cluster principle. You park in the center and explore the entire historic core on foot: Landenberg, the church, and the museum. At noon, you take your car and drive the short distance to Lake Sarnen. There you'll spend the afternoon with lunch by the water and a leisurely stroll along the shore, enjoying the mountain scenery and fresh air before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am See",
+            "tip": "Geniessen Sie frischen Fisch mit Blick auf das Wasser."
+          },
+          {
+            "name": "Berggasthaus",
+            "tip": "Für eine längere Fahrt: Ein Gasthaus in den Hügeln bietet authentische Küche."
+          },
+          {
+            "name": "Bäckerei im Dorf",
+            "tip": "Holen Sie sich ein Sandwich oder Gebäck für ein Picknick am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a tónál",
+            "tip": "Élvezze a friss halat a vízre néző kilátással."
+          },
+          {
+            "name": "Hegyi vendéglő",
+            "tip": "Hosszabb útra: egy vendéglő a dombok között autentikus konyhát kínál."
+          },
+          {
+            "name": "Pékség a faluban",
+            "tip": "Vegyen egy szendvicset vagy süteményt egy tóparti piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la lac",
+            "tip": "Bucurați-vă de pește proaspăt cu vedere la apă."
+          },
+          {
+            "name": "Han montan",
+            "tip": "Pentru o călătorie mai lungă: un han în dealuri oferă bucătărie autentică."
+          },
+          {
+            "name": "Brutărie în sat",
+            "tip": "Luați un sandviș sau produse de patiserie pentru un picnic la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant by the lake",
+            "tip": "Enjoy fresh fish with a view of the water."
+          },
+          {
+            "name": "Mountain inn",
+            "tip": "For a longer drive: an inn in the hills offers authentic cuisine."
+          },
+          {
+            "name": "Bakery in the village",
+            "tip": "Grab a sandwich or pastry for a picnic by the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Halbinsel bei Sachseln",
+            "tip": "Eine kurze Autofahrt zu einem ruhigen Ort am anderen Ende des Sees.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Glaubenbergpass",
+            "tip": "Eine längere, landschaftlich reizvolle Fahrt für spektakuläre Ausblicke (nur im Sommer).",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wichelsee",
+            "tip": "Ein kleinerer See und Naturschutzgebiet in der Nähe, ideal zur Vogelbeobachtung.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sachselni-félsziget",
+            "tip": "Egy rövid autóút egy csendes helyre a tó másik végén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Glaubenberg-hágó",
+            "tip": "Hosszabb, festői út a látványos kilátásért (csak nyáron).",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wichelsee",
+            "tip": "Egy közeli kisebb tó és természetvédelmi terület, ideális madármegfigyeléshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peninsula de la Sachseln",
+            "tip": "O scurtă călătorie cu mașina către un loc liniștit la celălalt capăt al lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pasul Glaubenberg",
+            "tip": "O călătorie mai lungă și pitorească pentru priveliști spectaculoase (doar vara).",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lacul Wichelsee",
+            "tip": "Un lac mai mic și o rezervație naturală în apropiere, ideală pentru observarea păsărilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Peninsula at Sachseln",
+            "tip": "A short drive to a quiet spot at the other end of the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Glaubenberg Pass",
+            "tip": "A longer, scenic drive for spectacular views (summer only).",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lake Wichelsee",
+            "tip": "A smaller lake and nature reserve nearby, ideal for bird watching.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käserei in der Umgebung",
+            "tip": "Nutzen Sie das Auto, um eine lokale Käserei zu besuchen und direkt vom Hersteller zu kaufen."
+          },
+          {
+            "name": "Outlet-Center",
+            "tip": "In der Nähe von Luzern gibt es grössere Einkaufszentren, wenn Sie eine grössere Auswahl suchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajtüzem a környéken",
+            "tip": "Használja ki az autót, hogy meglátogasson egy helyi sajtüzemet és közvetlenül a termelőtől vásároljon."
+          },
+          {
+            "name": "Outlet központ",
+            "tip": "Luzern közelében nagyobb bevásárlóközpontok találhatók, ha nagyobb választékot keres."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabrică de brânzeturi din zonă",
+            "tip": "Folosiți mașina pentru a vizita o fabrică de brânzeturi locală și a cumpăra direct de la producător."
+          },
+          {
+            "name": "Centru outlet",
+            "tip": "Lângă Lucerna există centre comerciale mai mari dacă doriți o selecție mai largă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese dairy in the area",
+            "tip": "Use the car to visit a local cheese dairy and buy directly from the producer."
+          },
+          {
+            "name": "Outlet center",
+            "tip": "Near Lucerne, there are larger shopping centers if you are looking for a wider selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über Parkgebühren und -zonen im Zentrum.",
+          "Die Strassen in den Bergen können eng und kurvenreich sein; fahren Sie vorsichtig.",
+          "Ein Navigationsgerät ist hilfreich, besonders für Ausflüge in die Umgebung.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen, die in der Schweiz streng durchgesetzt werden."
+        ],
+        "hu": [
+          "Tájékozódjon a parkolási díjakról és zónákról a központban.",
+          "A hegyi utak szűkek és kanyargósak lehetnek; vezessen óvatosan.",
+          "A navigációs eszköz hasznos, különösen a környékbeli kirándulásokhoz.",
+          "Ügyeljen a sebességkorlátozásokra, amelyeket Svájcban szigorúan betartatnak."
+        ],
+        "ro": [
+          "Informați-vă despre taxele și zonele de parcare din centru.",
+          "Drumurile din munți pot fi înguste și sinuoase; conduceți cu prudență.",
+          "Un dispozitiv de navigație este util, în special pentru excursii în zonă.",
+          "Fiți atenți la limitele de viteză, care sunt strict aplicate în Elveția."
+        ],
+        "en": [
+          "Find out about parking fees and zones in the center.",
+          "Mountain roads can be narrow and winding; drive carefully.",
+          "A navigation device is helpful, especially for trips in the surrounding area.",
+          "Pay attention to speed limits, which are strictly enforced in Switzerland."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Bahnhof Sarnen, Start Cluster Bahnhof",
+            "hu": "Érkezés a sarneni pályaudvarra, Pályaudvar klaszter kezdete",
+            "ro": "Sosire la gara Sarnen, Început cluster gară",
+            "en": "Arrival at Sarnen Station, Start Station Cluster"
+          },
+          "coords": [
+            8.2499,
+            46.896
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag direkt vom Bahnhof aus.",
+            "hu": "Kezdje a napot közvetlenül a pályaudvarról.",
+            "ro": "Începeți ziua direct de la gară.",
+            "en": "Start your day right from the train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapuzinerkloster Sarnen",
+            "hu": "Sarneni kapucinus kolostor",
+            "ro": "Mănăstirea Capucinilor Sarnen",
+            "en": "Capuchin Monastery Sarnen"
+          },
+          "coords": [
+            8.2495,
+            46.8965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe, nur wenige Schritte vom Bahnhof entfernt.",
+            "hu": "A nyugalom szigete, csak pár lépésre a pályaudvartól.",
+            "ro": "Un loc de liniște, la doar câțiva pași de gară.",
+            "en": "A place of peace, just a few steps from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster-Wechsel: Bus zum Zentrum (Postplatz)",
+            "hu": "Klaszterváltás: Busszal a központba (Postplatz)",
+            "ro": "Schimbare de cluster: Autobuz spre centru (Postplatz)",
+            "en": "Cluster Change: Bus to the Center (Postplatz)"
+          },
+          "coords": [
+            8.2448,
+            46.8931
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum Postplatz und erkunden Sie das historische Zentrum.",
+            "hu": "Menjen busszal a Postplatzra, és fedezze fel a történelmi központot.",
+            "ro": "Luați autobuzul până la Postplatz și explorați centrul istoric.",
+            "en": "Take the bus to Postplatz and explore the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollegiumskirche & Hexenturm",
+            "hu": "Kollégiumi templom és Boszorkánytorony",
+            "ro": "Biserica Colegială și Turnul Vrăjitoarelor",
+            "en": "Collegiate Church & Witch's Tower"
+          },
+          "coords": [
+            8.2443,
+            46.8938
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beide Sehenswürdigkeiten liegen nahe beieinander im Herzen der Stadt.",
+            "hu": "Mindkét látnivaló közel van egymáshoz a város szívében.",
+            "ro": "Ambele atracții sunt situate aproape una de cealaltă în inima orașului.",
+            "en": "Both sights are located close to each other in the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster-Wechsel: Bus zum Sarnersee",
+            "hu": "Klaszterváltás: Busszal a Sarnersee-hez",
+            "ro": "Schimbare de cluster: Autobuz spre lacul Sarnersee",
+            "en": "Cluster Change: Bus to Lake Sarnen"
+          },
+          "coords": [
+            8.2401,
+            46.8859
+          ],
+          "category": "natural features",
+          "arrive_at": "13:08",
+          "stay_min": 180,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein Bus bringt Sie direkt zum Seeufer für Mittagessen und einen langen, entspannten Nachmittag.",
+            "hu": "Egy busz egyenesen a tóparthoz viszi ebédelni és egy hosszú, pihentető délutánra.",
+            "ro": "Un autobuz vă duce direct pe malul lacului pentru prânz și o după-amiază lungă și relaxantă.",
+            "en": "A bus takes you directly to the lake shore for lunch and a long, relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang und Entspannung am See",
+            "hu": "Séta és pihenés a tónál",
+            "ro": "Plimbare și relaxare la lac",
+            "en": "Walk and Relaxation at the Lake"
+          },
+          "coords": [
+            8.2388,
+            46.8877
+          ],
+          "category": "gastro",
+          "arrive_at": "16:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie ein schönes Plätzchen, um die Aussicht zu geniessen, bevor Sie den Bus zurück nehmen.",
+            "hu": "Keressen egy szép helyet, hogy élvezze a kilátást, mielőtt visszamenne a busszal.",
+            "ro": "Găsiți un loc frumos pentru a vă bucura de priveliște înainte de a lua autobuzul înapoi.",
+            "en": "Find a nice spot to enjoy the view before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise mit öffentlichen Verkehrsmitteln beginnt am Bahnhof Sarnen, wo Sie das nahe Kapuzinerkloster besuchen. Ein kurzer Bus-Hop bringt Sie ins Zentrum, wo Sie die historischen Highlights wie die Kirche und den Hexenturm zu Fuss erkunden. Nach dem Mittagessen bringt Sie ein weiterer Bus direkt zum Sarnersee. Hier verbringen Sie einen ausgedehnten Nachmittag mit Spaziergängen am Ufer und geniessen die alpine Landschaft, bevor Sie Ihre Rückreise antreten.",
+        "hu": "A tömegközlekedési utazás a sarneni pályaudvaron kezdődik, ahol meglátogatja a közeli kapucinus kolostort. Egy rövid buszút a központba viszi, ahol gyalogosan fedezi fel a történelmi nevezetességeket, mint a templomot és a Boszorkánytornyot. Ebéd után egy másik busz közvetlenül a Sarnersee-hez viszi. Itt egy hosszú délutánt tölt a parton sétálva, élvezve az alpesi tájat, mielőtt visszaindulna.",
+        "ro": "Călătoria dumneavoastră cu transportul public începe la gara din Sarnen, unde vizitați Mănăstirea Capucinilor din apropiere. O scurtă călătorie cu autobuzul vă duce în centru, unde explorați pe jos atracțiile istorice, cum ar fi biserica și Turnul Vrăjitoarelor. După prânz, un alt autobuz vă duce direct la lacul Sarnersee. Aici petreceți o după-amiază lungă plimbându-vă pe mal și bucurându-vă de peisajul alpin înainte de a vă întoarce.",
+        "en": "Your journey by public transport begins at Sarnen train station, where you visit the nearby Capuchin Monastery. A short bus hop takes you to the center, where you explore historic highlights like the church and the Witch's Tower on foot. After lunch, another bus takes you directly to Lake Sarnen. Here you'll spend a long afternoon strolling along the shore and enjoying the alpine scenery before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei-Café",
+            "tip": "Ideal für einen schnellen Kaffee und ein Gebäck in der Nähe einer Bushaltestelle."
+          },
+          {
+            "name": "Restaurant im Zentrum",
+            "tip": "Viele Optionen in Fussdistanz von der Postplatz-Haltestelle."
+          },
+          {
+            "name": "Picknick",
+            "tip": "Kaufen Sie im Dorf ein und geniessen Sie Ihr Essen am Seeufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség-kávézó",
+            "tip": "Ideális egy gyors kávéra és süteményre egy buszmegálló közelében."
+          },
+          {
+            "name": "Étterem a központban",
+            "tip": "Sok lehetőség sétatávolságra a Postplatz megállótól."
+          },
+          {
+            "name": "Piknik",
+            "tip": "Vásároljon be a faluban, és élvezze az ételt a tóparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea-patiserie",
+            "tip": "Ideal pentru o cafea rapidă și un produs de patiserie lângă o stație de autobuz."
+          },
+          {
+            "name": "Restaurant în centru",
+            "tip": "Multe opțiuni la distanță de mers pe jos de stația Postplatz."
+          },
+          {
+            "name": "Picnic",
+            "tip": "Cumpărați din sat și savurați masa pe malul lacului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery-Café",
+            "tip": "Ideal for a quick coffee and a pastry near a bus stop."
+          },
+          {
+            "name": "Restaurant in the center",
+            "tip": "Many options within walking distance of the Postplatz stop."
+          },
+          {
+            "name": "Picnic",
+            "tip": "Buy supplies in the village and enjoy your meal by the lake shore."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sitzbank am Sarnersee",
+            "tip": "Der einfachste Weg, um Ruhe zu finden. Steigen Sie aus dem Bus und suchen Sie sich einen Platz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof bei der Kirche St. Martin",
+            "tip": "Ein oft übersehener, aber sehr friedlicher Ort im Zentrum.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abendbus",
+            "tip": "Nehmen Sie einen späteren Bus zurück und beobachten Sie den Sonnenuntergang über dem See.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a Sarnersee-nél",
+            "tip": "A legegyszerűbb módja a béke megtalálásának. Szálljon le a buszról, és keressen egy helyet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Márton-templom melletti temető",
+            "tip": "Gyakran figyelmen kívül hagyott, de nagyon békés hely a központban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Esti busz",
+            "tip": "Menjen egy későbbi busszal vissza, és nézze a naplementét a tó felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă la lacul Sarnersee",
+            "tip": "Cel mai simplu mod de a găsi liniștea. Coborâți din autobuz și găsiți-vă un loc.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de lângă Biserica Sf. Martin",
+            "tip": "Un loc adesea trecut cu vederea, dar foarte pașnic în centru.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Autobuzul de seară",
+            "tip": "Luați un autobuz mai târziu înapoi și priviți apusul peste lac.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bench at Lake Sarnen",
+            "tip": "The easiest way to find peace. Get off the bus and find a spot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery at St. Martin's Church",
+            "tip": "An often overlooked but very peaceful place in the center.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Evening bus",
+            "tip": "Take a later bus back and watch the sunset over the lake.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte an der Bahnhofstrasse",
+            "tip": "In der Nähe des Bahnhofs finden Sie eine Reihe von Geschäften für den täglichen Bedarf."
+          },
+          {
+            "name": "Kiosk am See",
+            "tip": "Für ein schnelles Eis oder ein Getränk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a Bahnhofstrasse-n",
+            "tip": "A pályaudvar közelében számos üzlet található a mindennapi szükségletekhez."
+          },
+          {
+            "name": "Kioszk a tónál",
+            "tip": "Egy gyors fagyira vagy italra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe Bahnhofstrasse",
+            "tip": "Lângă gară veți găsi o serie de magazine pentru nevoile zilnice."
+          },
+          {
+            "name": "Chioșc la lac",
+            "tip": "Pentru o înghețată rapidă sau o băutură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Bahnhofstrasse",
+            "tip": "Near the station, you'll find a range of shops for daily needs."
+          },
+          {
+            "name": "Kiosk at the lake",
+            "tip": "For a quick ice cream or a drink."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Verkehr, um Geld zu sparen.",
+          "Prüfen Sie den Busfahrplan im Voraus, besonders für die letzte Rückfahrt vom See.",
+          "Die App der SBB ist sehr nützlich für die Planung von Zug- und Busverbindungen.",
+          "Halten Sie Kleingeld für Bustickets bereit, falls Sie nicht im Voraus kaufen können."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó visszautat a tótól.",
+          "Az SBB alkalmazás nagyon hasznos a vonat- és buszjáratok tervezéséhez.",
+          "Tartson aprópénzt a buszjegyekhez, ha nem tud előre vásárolni."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie de întoarcere de la lac.",
+          "Aplicația SBB este foarte utilă pentru planificarea legăturilor de tren și autobuz.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz, în cazul în care nu puteți cumpăra în avans."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Check the bus schedule in advance, especially for the last return trip from the lake.",
+          "The SBB app is very useful for planning train and bus connections.",
+          "Have small change ready for bus tickets if you can't buy in advance."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1448 @@
+{
+  "city_id": "belgium-ostend-cities-v2",
+  "anchor": {
+    "name": "Ostende",
+    "coords": [
+      2.927,
+      51.2154
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sankt-Petrus-und-Paulus-Kirche",
+            "hu": "Szent Péter és Pál templom",
+            "ro": "Biserica Sf. Petru și Pavel",
+            "en": "Saint Peter and Saint Paul Church"
+          },
+          "coords": [
+            2.9285,
+            51.2301
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur und die beeindruckenden Glasfenster.",
+            "hu": "Csodálja meg a neogótikus építészetet és a lenyűgöző ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura neogotică și vitraliile impresionante.",
+            "en": "Admire the neo-Gothic architecture and the impressive stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Segelschiff Mercator",
+            "hu": "Mercator vitorlás",
+            "ro": "Nava-muzeu Mercator",
+            "en": "Mercator Ship"
+          },
+          "coords": [
+            2.919,
+            51.228
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kabinen und erfahren Sie mehr über die Geschichte dieses Schulschiffes.",
+            "hu": "Fedezze fel a kabinokat, és ismerje meg ennek az iskolahajónak a történetét.",
+            "ro": "Explorați cabinele și aflați istoria acestei nave școală.",
+            "en": "Explore the cabins and learn about the history of this training ship."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandpromenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Promenada de pe plajă",
+            "en": "Beach Promenade"
+          },
+          "coords": [
+            2.915,
+            51.231
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ideal für einen langen Spaziergang und um die Meeresbrise zu genießen. Probieren Sie die lokalen Garnelenkroketten.",
+            "hu": "Ideális egy hosszú sétához és a tengeri szellő élvezetéhez. Kóstolja meg a helyi garnélarák-krokettet.",
+            "ro": "Perfect pentru o plimbare lungă și pentru a vă bucura de briza mării. Încercați crochetele locale de creveți.",
+            "en": "Perfect for a long walk and enjoying the sea breeze. Try the local shrimp croquettes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kursaal Oostende",
+            "hu": "Kursaal Oostende",
+            "ro": "Kursaal Oostende",
+            "en": "Kursaal Oostende"
+          },
+          "coords": [
+            2.911,
+            51.232
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan für eine Abendvorstellung oder bewundern Sie einfach die moderne Architektur.",
+            "hu": "Nézze meg az esti előadások műsorát, vagy egyszerűen csak csodálja meg a modern építészetet.",
+            "ro": "Verificați programul pentru un spectacol de seară sau admirați arhitectura modernă.",
+            "en": "Check the schedule for an evening show or simply admire the modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mu.ZEE",
+            "hu": "Mu.ZEE",
+            "ro": "Mu.ZEE",
+            "en": "Mu.ZEE"
+          },
+          "coords": [
+            2.918,
+            51.226
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein Muss für Liebhaber belgischer Kunst von 1830 bis heute, mit Werken von Ensor und Spilliaert.",
+            "hu": "A belga művészet kedvelőinek kötelező, 1830-tól napjainkig, Ensor és Spilliaert műveivel.",
+            "ro": "O necesitate pentru iubitorii de artă belgiană din 1830 până în prezent, cu lucrări de Ensor și Spilliaert.",
+            "en": "A must for lovers of Belgian art from 1830 to the present, with works by Ensor and Spilliaert."
+          }
+        },
+        {
+          "name": {
+            "de": "Wellington-Hippodrom",
+            "hu": "Wellington Lóversenypálya",
+            "ro": "Hipodromul Wellington",
+            "en": "Wellington Hippodrome"
+          },
+          "coords": [
+            2.894,
+            51.218
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:50",
+          "stay_min": 35,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang um die historische Rennbahn, auch wenn keine Rennen stattfinden.",
+            "hu": "Sétáljon egyet a történelmi versenypálya körül, még akkor is, ha nincsenek versenyek.",
+            "ro": "Faceți o plimbare în jurul hipodromului istoric, chiar și atunci când nu sunt curse.",
+            "en": "Take a walk around the historic racecourse, even when there are no races."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Ostende beginnt mit der spirituellen Ruhe der Sankt-Petrus-und-Paulus-Kirche. Mittags erkunden Sie das maritime Erbe auf dem Segelschiff Mercator und genießen die Meeresbrise an der Promenade. Der Nachmittag ist der Kunst gewidmet, mit einem Besuch im modernen Kursaal und den belgischen Meistern im Mu.ZEE. Beenden Sie Ihren Tag mit einem entspannten Spaziergang am historischen Wellington-Hippodrom, während die Sonne langsam untergeht.",
+        "hu": "Oostendei napja a Szent Péter és Pál templom spirituális nyugalmával kezdődik. Délben felfedezheti a tengerészeti örökséget a Mercator vitorláson, és élvezheti a tengeri szellőt a sétányon. A délután a művészeté, a modern Kursaal és a Mu.ZEE belga mestereinek megtekintésével. A napot egy pihentető sétával zárja a történelmi Wellington Lóversenypályánál, miközben a nap lassan lenyugszik.",
+        "ro": "Ziua dvs. în Ostend începe cu liniștea spirituală a Bisericii Sf. Petru și Pavel. La prânz, explorați moștenirea maritimă pe nava Mercator și bucurați-vă de briza mării pe promenadă. După-amiaza este dedicată artei, cu o vizită la modernul Kursaal și la maeștrii belgieni de la Mu.ZEE. Încheiați ziua cu o plimbare relaxantă la Hipodromul istoric Wellington, în timp ce soarele apune încet.",
+        "en": "Your day in Ostend begins with the spiritual tranquility of the Saint Peter and Saint Paul Church. At midday, you'll explore the maritime heritage on the Mercator ship and enjoy the sea breeze on the promenade. The afternoon is dedicated to art, with a visit to the modern Kursaal and the Belgian masters at Mu.ZEE. End your day with a relaxing walk at the historic Wellington Hippodrome as the sun slowly sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Garnalenkroketten",
+            "tip": "Probieren Sie diese cremigen Krabbenkroketten, eine lokale Spezialität."
+          },
+          {
+            "name": "Moules-frites",
+            "tip": "Ein belgischer Klassiker, perfekt mit einem lokalen Bier."
+          },
+          {
+            "name": "Kombucha Fish Bar",
+            "tip": "Moderne Interpretation von Fischgerichten in Hafennähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Garnélarák-krokett",
+            "tip": "Kóstolja meg ezt a krémes rák-krokettet, egy helyi különlegességet."
+          },
+          {
+            "name": "Moules-frites",
+            "tip": "Belga klasszikus, tökéletes egy helyi sörrel."
+          },
+          {
+            "name": "Kombucha Fish Bar",
+            "tip": "Modern halételek a kikötő közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crochete de creveți",
+            "tip": "Încercați aceste crochete cremoase de creveți, o specialitate locală."
+          },
+          {
+            "name": "Moules-frites",
+            "tip": "Un clasic belgian, perfect cu o bere locală."
+          },
+          {
+            "name": "Kombucha Fish Bar",
+            "tip": "Interpretare modernă a preparatelor din pește lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shrimp croquettes",
+            "tip": "Try these creamy shrimp croquettes, a local specialty."
+          },
+          {
+            "name": "Moules-frites",
+            "tip": "A Belgian classic, perfect with a local beer."
+          },
+          {
+            "name": "Kombucha Fish Bar",
+            "tip": "Modern take on fish dishes near the harbour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand bei Sonnenuntergang",
+            "tip": "Finden Sie einen ruhigen Platz am westlichen Ende der Promenade.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Leopoldpark",
+            "tip": "Ein friedlicher Park mit einem Teich, ideal für eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Maria Hendrikapark",
+            "tip": "Auch bekannt als 't Bosje, bietet es ruhige Spazierwege.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a tengerparton",
+            "tip": "Keressen egy csendes helyet a sétány nyugati végén.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Leopold Park",
+            "tip": "Egy békés park tóval, ideális egy kis pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Maria Hendrikapark",
+            "tip": "Más néven 't Bosje, csendes sétautakat kínál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja la apus",
+            "tip": "Găsiți un loc liniștit la capătul vestic al promenadei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Leopold",
+            "tip": "Un parc pașnic cu un iaz, perfect pentru o pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Maria Hendrika",
+            "tip": "Cunoscut și sub numele de 't Bosje, oferă poteci liniștite de plimbare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach at sunset",
+            "tip": "Find a quiet spot at the western end of the promenade.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Leopold Park",
+            "tip": "A peaceful park with a pond, perfect for a break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Maria Hendrikapark",
+            "tip": "Also known as 't Bosje, it offers quiet walking paths.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Adolf Buylstraat",
+            "tip": "Die Haupteinkaufsstraße mit bekannten Marken und Boutiquen."
+          },
+          {
+            "name": "Kapellestraat",
+            "tip": "Eine weitere beliebte Einkaufsstraße, die zum Wapenplein führt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Adolf Buylstraat",
+            "tip": "A fő bevásárlóutca ismert márkákkal és butikokkal."
+          },
+          {
+            "name": "Kapellestraat",
+            "tip": "Egy másik népszerű bevásárlóutca, amely a Wapenpleinre vezet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Adolf Buylstraat",
+            "tip": "Strada principală de cumpărături cu mărci cunoscute și buticuri."
+          },
+          {
+            "name": "Kapellestraat",
+            "tip": "O altă stradă populară de cumpărături care duce la Wapenplein."
+          }
+        ],
+        "en": [
+          {
+            "name": "Adolf Buylstraat",
+            "tip": "The main shopping street with well-known brands and boutiques."
+          },
+          {
+            "name": "Kapellestraat",
+            "tip": "Another popular shopping street leading to Wapenplein."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die Seeluft kann täuschen, Sonnenschutz ist auch an bewölkten Tagen wichtig.",
+          "Viele Museen sind montags geschlossen, überprüfen Sie die Öffnungszeiten.",
+          "Probieren Sie unbedingt die frischen Meeresfrüchte an den Ständen in der Nähe des Hafens."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "A tengeri levegő megtévesztő lehet, a napvédelem felhős napokon is fontos.",
+          "Sok múzeum zárva tart hétfőn, ellenőrizze a nyitvatartást.",
+          "Feltétlenül kóstolja meg a friss tenger gyümölcseit a kikötő közelében lévő standoknál."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Briza mării poate fi înșelătoare, protecția solară este importantă chiar și în zilele înnorate.",
+          "Multe muzee sunt închise lunea, verificați programul.",
+          "Asigurați-vă că încercați fructele de mare proaspete de la tarabele de lângă port."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "The sea air can be deceptive, sunscreen is important even on cloudy days.",
+          "Many museums are closed on Mondays, check the opening hours.",
+          "Be sure to try the fresh seafood from the stalls near the harbour."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fort Napoleon",
+            "hu": "Napóleon-erőd",
+            "ro": "Fortul Napoleon",
+            "en": "Fort Napoleon"
+          },
+          "coords": [
+            2.946,
+            51.242
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das fünfeckige Fort und genießen Sie die Aussicht auf den Hafen und die Dünen.",
+            "hu": "Fedezze fel az ötszögletű erődöt, és élvezze a kilátást a kikötőre és a dűnékre.",
+            "ro": "Explorați fortul pentagonal și bucurați-vă de vederea asupra portului și dunelor.",
+            "en": "Explore the pentagonal fort and enjoy the views of the port and dunes."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Petrus-und-Paulus-Kirche",
+            "hu": "Szent Péter és Pál templom",
+            "ro": "Biserica Sf. Petru și Pavel",
+            "en": "Saint Peter and Saint Paul Church"
+          },
+          "coords": [
+            2.9285,
+            51.2301
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die beeindruckende Fassade dieses neugotischen Meisterwerks zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja ennek a neogótikus remekműnek a lenyűgöző homlokzatát.",
+            "ro": "O scurtă oprire pentru a admira fațada impresionantă a acestei capodopere neogotice.",
+            "en": "A brief stop to admire the impressive facade of this neo-Gothic masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Segelschiff Mercator",
+            "hu": "Mercator vitorlás",
+            "ro": "Nava-muzeu Mercator",
+            "en": "Mercator Ship"
+          },
+          "coords": [
+            2.919,
+            51.228
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Steigen Sie an Bord dieses historischen Dreimasters, der zu einem Museumsschiff umfunktioniert wurde.",
+            "hu": "Szálljon fel erre a történelmi, háromárbocos hajóra, amelyet múzeumhajóvá alakítottak át.",
+            "ro": "Urcați-vă la bordul acestei nave istorice cu trei catarge, transformată în navă-muzeu.",
+            "en": "Climb aboard this historic three-masted ship, now a museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandpromenade & Mittagessen",
+            "hu": "Tengerparti sétány és ebéd",
+            "ro": "Promenada de pe plajă și prânz",
+            "en": "Beach Promenade & Lunch"
+          },
+          "coords": [
+            2.905,
+            51.228
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radfahren Sie entlang der Promenade und halten Sie für ein Mittagessen mit Meerblick.",
+            "hu": "Biciklizzen végig a sétányon, és álljon meg egy tengerre néző ebédre.",
+            "ro": "Mergeți cu bicicleta de-a lungul promenadei și opriți-vă pentru un prânz cu vedere la mare.",
+            "en": "Cycle along the promenade and stop for lunch with a sea view."
+          }
+        },
+        {
+          "name": {
+            "de": "Wellington-Hippodrom",
+            "hu": "Wellington Lóversenypálya",
+            "ro": "Hipodromul Wellington",
+            "en": "Wellington Hippodrome"
+          },
+          "coords": [
+            2.894,
+            51.218
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine schnelle Radtour zu dieser ikonischen Rennbahn, die eng mit der königlichen Familie verbunden ist.",
+            "hu": "Egy gyors biciklitúra ehhez az ikonikus versenypályához, amely szorosan kötődik a királyi családhoz.",
+            "ro": "O plimbare rapidă cu bicicleta la acest hipodrom iconic, strâns legat de familia regală.",
+            "en": "A quick cycle to this iconic racecourse, closely linked to the royal family."
+          }
+        },
+        {
+          "name": {
+            "de": "Mu.ZEE",
+            "hu": "Mu.ZEE",
+            "ro": "Mu.ZEE",
+            "en": "Mu.ZEE"
+          },
+          "coords": [
+            2.918,
+            51.226
+          ],
+          "category": "museums",
+          "arrive_at": "16:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit moderner belgischer Kunst. Das Museum ist geräumig und fahrradfreundlich.",
+            "hu": "Zárja a napot modern belga művészettel. A múzeum tágas és biciklibarát.",
+            "ro": "Încheiați ziua cu artă belgiană modernă. Muzeul este spațios și prietenos cu bicicliștii.",
+            "en": "End your day with modern Belgian art. The museum is spacious and bike-friendly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am beeindruckenden Fort Napoleon. Am Vormittag fahren Sie ins Stadtzentrum, um die Kirche und das berühmte Schiff Mercator zu besichtigen. Gönnen Sie sich eine lange Mittagspause an der Strandpromenade, wo Sie die Seeluft genießen können. Der Nachmittag führt Sie zum historischen Hippodrom und schließlich zum Mu.ZEE, um in die belgische Kunst einzutauchen, bevor Sie den Tag ausklingen lassen.",
+        "hu": "Kerékpártúráját a lenyűgöző Napóleon-erődnél kezdje. Délelőtt a városközpontba teker, hogy megnézze a templomot és a híres Mercator hajót. Tartson egy hosszú ebédszünetet a tengerparti sétányon, ahol élvezheti a tengeri levegőt. Délután a történelmi lóversenypályához, majd végül a Mu.ZEE-hez vezet az út, hogy elmerüljön a belga művészetben, mielőtt befejezné a napot.",
+        "ro": "Începeți turul cu bicicleta de la impresionantul Fort Napoleon. Dimineața, pedalați spre centrul orașului pentru a vedea biserica și faimoasa navă Mercator. Acordați-vă o pauză lungă de prânz pe promenada de pe plajă, unde vă puteți bucura de aerul mării. După-amiaza vă duce la hipodromul istoric și în final la Mu.ZEE, pentru o imersiune în arta belgiană înainte de a încheia ziua.",
+        "en": "Start your bike tour at the impressive Fort Napoleon. In the morning, you'll cycle to the city center to see the church and the famous Mercator ship. Treat yourself to a long lunch break on the beach promenade where you can enjoy the sea air. The afternoon takes you to the historic hippodrome and finally to Mu.ZEE for an immersion in Belgian art before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Garnalenkroketten",
+            "tip": "Der perfekte Snack nach einer Radtour entlang der Küste."
+          },
+          {
+            "name": "Fischsuppe",
+            "tip": "Wärmen Sie sich mit einer herzhaften Fischsuppe in einem der vielen Bistros auf."
+          },
+          {
+            "name": "Brasserie Albert",
+            "tip": "Klassische belgische Küche in elegantem Ambiente im Thermae Palace Hotel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Garnélarák-krokett",
+            "tip": "Tökéletes harapnivaló egy parti biciklitúra után."
+          },
+          {
+            "name": "Halászlé",
+            "tip": "Melegedjen fel egy kiadós halászlével a számos bisztró egyikében."
+          },
+          {
+            "name": "Brasserie Albert",
+            "tip": "Klasszikus belga konyha elegáns környezetben a Thermae Palace Hotelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crochete de creveți",
+            "tip": "Gustarea perfectă după o plimbare cu bicicleta de-a lungul coastei."
+          },
+          {
+            "name": "Supă de pește",
+            "tip": "Încălziți-vă cu o supă de pește consistentă la unul dintre numeroasele bistro-uri."
+          },
+          {
+            "name": "Brasserie Albert",
+            "tip": "Bucătărie belgiană clasică într-un cadru elegant la Hotelul Thermae Palace."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shrimp croquettes",
+            "tip": "The perfect snack after a bike ride along the coast."
+          },
+          {
+            "name": "Fish soup",
+            "tip": "Warm up with a hearty fish soup in one of the many bistros."
+          },
+          {
+            "name": "Brasserie Albert",
+            "tip": "Classic Belgian cuisine in an elegant setting at the Thermae Palace Hotel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dünen am Fort Napoleon",
+            "tip": "Ein ruhiger Ort, um die Natur zu genießen und den Schiffen zuzusehen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koninklijke Gaanderijen",
+            "tip": "Spazieren Sie durch diese eleganten Arkaden für einen Moment der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Japanse Tuin",
+            "tip": "Ein kleiner, friedlicher japanischer Garten im Koningspark.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dűnék a Napóleon-erődnél",
+            "tip": "Csendes hely a természet élvezetére és a hajók nézésére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koninklijke Gaanderijen",
+            "tip": "Sétáljon végig ezeken az elegáns árkádokon egy csendes pillanatért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Japánkert",
+            "tip": "Egy kicsi, békés japánkert a Koningsparkban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dunele de lângă Fortul Napoleon",
+            "tip": "Un loc liniștit pentru a vă bucura de natură și a privi navele.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koninklijke Gaanderijen",
+            "tip": "Plimbați-vă prin aceste arcade elegante pentru un moment de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina Japoneză",
+            "tip": "O mică și pașnică grădină japoneză în Parcul Koningspark.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dunes at Fort Napoleon",
+            "tip": "A quiet place to enjoy nature and watch the ships.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koninklijke Gaanderijen",
+            "tip": "Stroll through these elegant arcades for a moment of peace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Japanese Garden",
+            "tip": "A small, peaceful Japanese garden in Koningspark.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih",
+            "tip": "Zahlreiche Geschäfte bieten Fahrräder für jeden Bedarf an, von Stadt- bis zu E-Bikes."
+          },
+          {
+            "name": "Visserskaai",
+            "tip": "Kaufen Sie frischen Fisch oder geräucherten Aal direkt von den Fischern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönző",
+            "tip": "Számos üzlet kínál kerékpárokat minden igényre, a városi bicikliktől az e-bike-okig."
+          },
+          {
+            "name": "Visserskaai",
+            "tip": "Vásároljon friss halat vagy füstölt angolnát közvetlenül a halászoktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închiriere de biciclete",
+            "tip": "Numeroase magazine oferă biciclete pentru toate nevoile, de la biciclete de oraș la e-bike."
+          },
+          {
+            "name": "Visserskaai",
+            "tip": "Cumpărați pește proaspăt sau anghilă afumată direct de la pescari."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rental",
+            "tip": "Numerous shops offer bikes for all needs, from city bikes to e-bikes."
+          },
+          {
+            "name": "Visserskaai",
+            "tip": "Buy fresh fish or smoked eel directly from the fishermen."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Straßenbahnschienen, besonders bei Nässe.",
+          "Ein Helm wird empfohlen, ist aber nicht obligatorisch.",
+          "Nutzen Sie die gut ausgebauten Radwege entlang der Küste.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an belebten Orten."
+        ],
+        "hu": [
+          "Vigyázzon a villamossínekre, különösen nedves időben.",
+          "Sisak viselése ajánlott, de nem kötelező.",
+          "Használja ki a jól kiépített kerékpárutakat a part mentén.",
+          "Mindig zárja le jól a kerékpárját, különösen forgalmas helyeken."
+        ],
+        "ro": [
+          "Fiți atenți la șinele de tramvai, mai ales pe carosabil umed.",
+          "Se recomandă purtarea căștii, dar nu este obligatorie.",
+          "Folosiți pistele de biciclete bine dezvoltate de-a lungul coastei.",
+          "Încuiați-vă întotdeauna bine bicicleta, mai ales în locurile aglomerate."
+        ],
+        "en": [
+          "Watch out for the tram tracks, especially when wet.",
+          "A helmet is recommended but not mandatory.",
+          "Take advantage of the well-developed cycle paths along the coast.",
+          "Always lock your bike securely, especially in busy places."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 30.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Atlantikwall Raversyde",
+            "hu": "Atlantikwall Raversyde",
+            "ro": "Zidul Atlanticului Raversyde",
+            "en": "Atlantikwall Raversyde"
+          },
+          "coords": [
+            2.84,
+            51.205
+          ],
+          "category": "museums",
+          "arrive_at": "09:20",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8,
+          "tip_5lang": {
+            "de": "Ein riesiges Freilichtmuseum. Planen Sie genügend Zeit ein, um die Bunker und Gräben zu erkunden.",
+            "hu": "Hatalmas szabadtéri múzeum. Szánjon elég időt a bunkerek és lövészárkok felfedezésére.",
+            "ro": "Un muzeu imens în aer liber. Planificați suficient timp pentru a explora buncărele și tranșeele.",
+            "en": "A huge open-air museum. Plan enough time to explore the bunkers and trenches."
+          }
+        },
+        {
+          "name": {
+            "de": "Wellington-Hippodrom",
+            "hu": "Wellington Lóversenypálya",
+            "ro": "Hipodromul Wellington",
+            "en": "Wellington Hippodrome"
+          },
+          "coords": [
+            2.894,
+            51.218
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:05",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und machen Sie einen Spaziergang um dieses historische Wahrzeichen.",
+            "hu": "Parkoljon a közelben, és tegyen egy sétát e történelmi nevezetesség körül.",
+            "ro": "Parcați în apropiere și faceți o plimbare în jurul acestui punct de reper istoric.",
+            "en": "Park nearby and take a walk around this historic landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandpromenade & Mittagessen",
+            "hu": "Tengerparti sétány és ebéd",
+            "ro": "Promenada de pe plajă și prânz",
+            "en": "Beach Promenade & Lunch"
+          },
+          "coords": [
+            2.905,
+            51.228
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Hippodrom aus ist es nur ein kurzer Spaziergang zum Strand für ein Mittagessen.",
+            "hu": "A lóversenypályától csak egy rövid séta a tengerpart egy ebédhez.",
+            "ro": "De la hipodrom este doar o scurtă plimbare până la plajă pentru prânz.",
+            "en": "It's just a short walk from the hippodrome to the beach for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mu.ZEE",
+            "hu": "Mu.ZEE",
+            "ro": "Mu.ZEE",
+            "en": "Mu.ZEE"
+          },
+          "coords": [
+            2.918,
+            51.226
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Zentrum und parken Sie in einem Parkhaus in der Nähe des Museums.",
+            "hu": "Vezessen be a központba, és parkoljon egy parkolóházban a múzeum közelében.",
+            "ro": "Conduceți spre centru și parcați într-o parcare din apropierea muzeului.",
+            "en": "Drive to the center and park in a parking garage near the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Petrus-und-Paulus-Kirche",
+            "hu": "Szent Péter és Pál templom",
+            "ro": "Biserica Sf. Petru și Pavel",
+            "en": "Saint Peter and Saint Paul Church"
+          },
+          "coords": [
+            2.9285,
+            51.2301
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Mu.ZEE, um die beeindruckende Architektur zu bewundern.",
+            "hu": "Rövid séta a Mu.ZEE-től a lenyűgöző építészet megcsodálására.",
+            "ro": "O scurtă plimbare de la Mu.ZEE pentru a admira arhitectura impresionantă.",
+            "en": "A short walk from Mu.ZEE to admire the impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Segelschiff Mercator",
+            "hu": "Mercator vitorlás",
+            "ro": "Nava-muzeu Mercator",
+            "en": "Mercator Ship"
+          },
+          "coords": [
+            2.919,
+            51.228
+          ],
+          "category": "museums",
+          "arrive_at": "16:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang mit einem Besuch des Schiffes, bevor Sie zum Auto zurückkehren.",
+            "hu": "Fejezze be a sétát a hajó meglátogatásával, mielőtt visszatérne az autóhoz.",
+            "ro": "Încheiați turul pietonal cu o vizită la navă înainte de a vă întoarce la mașină.",
+            "en": "Finish your walking tour with a visit to the ship before returning to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Napoleon",
+            "hu": "Napóleon-erőd",
+            "ro": "Fortul Napoleon",
+            "en": "Fort Napoleon"
+          },
+          "coords": [
+            2.946,
+            51.242
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:40",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 14,
+          "tip_5lang": {
+            "de": "Fahren Sie über den Hafen zum Fort, um den Tag mit einem Panoramablick zu beenden.",
+            "hu": "Vezessen át a kikötőn az erődhöz, hogy panorámás kilátással zárja a napot.",
+            "ro": "Conduceți peste port până la fort pentru a încheia ziua cu o vedere panoramică.",
+            "en": "Drive across the harbor to the fort to end the day with a panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt zum Atlantikwall Raversyde, einem faszinierenden Freilichtmuseum. Am späten Vormittag fahren Sie zurück in Richtung Stadt und erkunden das Cluster um das Wellington-Hippodrom und die Strandpromenade zu Fuß. Nach dem Mittagessen fahren Sie ins Stadtzentrum, parken Ihr Auto und erkunden das zweite Cluster mit dem Mu.ZEE und der Kirche. Beenden Sie den Tag mit einer kurzen Fahrt zum Fort Napoleon für einen atemberaubenden Blick bei Sonnenuntergang.",
+        "hu": "Kezdje a napot egy utazással az Atlantikwall Raversyde-hoz, egy lenyűgöző szabadtéri múzeumhoz. Késő délelőtt vezessen vissza a város felé, és fedezze fel gyalog a Wellington Lóversenypálya és a tengerparti sétány körüli klasztert. Ebéd után vezessen be a városközpontba, parkolja le autóját, és fedezze fel a második klasztert a Mu.ZEE-vel és a templommal. A napot egy rövid autózással zárja a Napóleon-erődhöz egy lélegzetelállító naplementéért.",
+        "ro": "Începeți ziua cu o excursie la Zidul Atlanticului Raversyde, un muzeu fascinant în aer liber. Spre sfârșitul dimineții, conduceți înapoi spre oraș și explorați pe jos clusterul din jurul Hipodromului Wellington și al promenadei de pe plajă. După prânz, conduceți spre centrul orașului, parcați mașina și explorați al doilea cluster, care include Mu.ZEE și biserica. Încheiați ziua cu o scurtă călătorie cu mașina până la Fortul Napoleon pentru o priveliște uluitoare la apus.",
+        "en": "Start your day with a drive to the Atlantikwall Raversyde, a fascinating open-air museum. In the late morning, drive back towards the city and explore the cluster around the Wellington Hippodrome and the beach promenade on foot. After lunch, drive to the city center, park your car, and explore the second cluster featuring Mu.ZEE and the church. End the day with a short drive to Fort Napoleon for a breathtaking sunset view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sole meunière",
+            "tip": "Ein Klassiker der belgischen Küste: Seezunge in Butter gebraten."
+          },
+          {
+            "name": "Bistro Mathilda",
+            "tip": "Gehobene Bistroküche mit Fokus auf lokale Zutaten."
+          },
+          {
+            "name": "De Oesterput",
+            "tip": "Ein Paradies für Liebhaber von Austern und Meeresfrüchten, in der Nähe des Fort Napoleon."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sole meunière",
+            "tip": "A belga tengerpart klasszikusa: vajban sült nyelvhal."
+          },
+          {
+            "name": "Bistro Mathilda",
+            "tip": "Emelt szintű bisztrókonyha helyi alapanyagokra összpontosítva."
+          },
+          {
+            "name": "De Oesterput",
+            "tip": "Az osztriga és a tenger gyümölcsei szerelmeseinek paradicsoma, a Napóleon-erőd közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sole meunière",
+            "tip": "Un clasic al coastei belgiene: limbă de mare prăjită în unt."
+          },
+          {
+            "name": "Bistro Mathilda",
+            "tip": "Bucătărie de bistro rafinată, axată pe ingrediente locale."
+          },
+          {
+            "name": "De Oesterput",
+            "tip": "Un paradis pentru iubitorii de stridii și fructe de mare, lângă Fortul Napoleon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sole meunière",
+            "tip": "A classic of the Belgian coast: sole fried in butter."
+          },
+          {
+            "name": "Bistro Mathilda",
+            "tip": "Upscale bistro cuisine with a focus on local ingredients."
+          },
+          {
+            "name": "De Oesterput",
+            "tip": "A paradise for lovers of oysters and seafood, near Fort Napoleon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Atlantikwall Raversyde",
+            "tip": "Trotz seiner Kriegsgeschichte ein überraschend ruhiger und nachdenklicher Ort.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hafenmole (Ost)",
+            "tip": "Fahren Sie zum östlichen Hafendamm für einen weiten Blick auf das Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spuikom",
+            "tip": "Ein großer Salzwassersee, ideal zum Beobachten von Wassersport und Vögeln.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Atlantikwall Raversyde",
+            "tip": "Háborús múltja ellenére meglepően csendes és elgondolkodtató hely.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Keleti móló",
+            "tip": "Vezessen a keleti mólóhoz, ahonnan széles kilátás nyílik a tengerre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spuikom",
+            "tip": "Nagy sós vizű tó, ideális vízi sportok és madarak megfigyelésére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidul Atlanticului Raversyde",
+            "tip": "În ciuda istoriei sale de război, un loc surprinzător de liniștit și contemplativ.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Digul de Est",
+            "tip": "Conduceți spre digul de est pentru o priveliște largă asupra mării.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spuikom",
+            "tip": "Un lac mare cu apă sărată, ideal pentru a privi sporturile nautice și păsările.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Atlantikwall Raversyde",
+            "tip": "Despite its war history, a surprisingly quiet and contemplative place.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eastern Breakwater",
+            "tip": "Drive to the eastern pier for a wide view of the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spuikom",
+            "tip": "A large saltwater lake, ideal for watching water sports and birds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Kaufen Sie belgische Pralinen, Biere und Käse in den Fachgeschäften der Stadt."
+          },
+          {
+            "name": "Buchhandlung Corman",
+            "tip": "Eine der ältesten Buchhandlungen Belgiens, ein Paradies für Bücherwürmer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vásároljon belga csokoládét, sört és sajtot a város szaküzleteiben."
+          },
+          {
+            "name": "Corman könyvesbolt",
+            "tip": "Belgium egyik legrégebbi könyvesboltja, a könyvmolyok paradicsoma."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Delicatese locale",
+            "tip": "Cumpărați ciocolată belgiană, bere și brânzeturi de la magazinele de specialitate din oraș."
+          },
+          {
+            "name": "Librăria Corman",
+            "tip": "Una dintre cele mai vechi librării din Belgia, un paradis pentru iubitorii de cărți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Delicacies",
+            "tip": "Buy Belgian chocolates, beers, and cheeses from the specialty shops in town."
+          },
+          {
+            "name": "Corman Bookstore",
+            "tip": "One of the oldest bookstores in Belgium, a paradise for bookworms."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann teuer sein. Nutzen Sie Park-and-Ride-Möglichkeiten.",
+          "Planen Sie Ihre Route im Voraus, um den Verkehr in der Hochsaison zu meiden.",
+          "Eine 'Kusttram'-Tageskarte ist eine gute Alternative, wenn Sie das Auto stehen lassen möchten.",
+          "Achten Sie auf Umweltzonen (LEZ), die für bestimmte Fahrzeuge gelten könnten."
+        ],
+        "hu": [
+          "A parkolás a városközpontban drága lehet. Használja a P+R lehetőségeket.",
+          "Tervezze meg útvonalát előre, hogy elkerülje a főszezoni forgalmat.",
+          "A 'Kusttram' napijegy jó alternatíva, ha az autót inkább letenné.",
+          "Figyeljen az alacsony kibocsátású zónákra (LEZ), amelyek bizonyos járművekre vonatkozhatnak."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi scumpă. Utilizați facilitățile Park and Ride.",
+          "Planificați-vă traseul în avans pentru a evita traficul în sezonul de vârf.",
+          "Un bilet de o zi pentru 'Kusttram' este o alternativă bună dacă doriți să lăsați mașina.",
+          "Fiți atenți la zonele cu emisii scăzute (LEZ) care s-ar putea aplica anumitor vehicule."
+        ],
+        "en": [
+          "Parking in the city center can be expensive. Use Park and Ride facilities.",
+          "Plan your route in advance to avoid high-season traffic.",
+          "A 'Kusttram' day ticket is a good alternative if you want to leave the car.",
+          "Be aware of Low Emission Zones (LEZ) that might apply to certain vehicles."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 11,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Atlantikwall Raversyde",
+            "hu": "Atlantikwall Raversyde",
+            "ro": "Zidul Atlanticului Raversyde",
+            "en": "Atlantikwall Raversyde"
+          },
+          "coords": [
+            2.84,
+            51.205
+          ],
+          "category": "museums",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Kusttram bis zur Haltestelle 'Domein Raversijde'. Der Eingang ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "Menjen a Kusttram villamossal a 'Domein Raversijde' megállóig. A bejárat rövid sétára található.",
+            "ro": "Luați Kusttram până la stația 'Domein Raversijde'. Intrarea este la o scurtă plimbare.",
+            "en": "Take the Kusttram to the 'Domein Raversijde' stop. The entrance is a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Wellington-Hippodrom",
+            "hu": "Wellington Lóversenypálya",
+            "ro": "Hipodromul Wellington",
+            "en": "Wellington Hippodrome"
+          },
+          "coords": [
+            2.894,
+            51.218
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:50",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Ein paar Haltestellen mit der Kusttram zurück in Richtung Stadtzentrum.",
+            "hu": "Néhány megálló vissza a Kusttram villamossal a városközpont felé.",
+            "ro": "Câteva stații înapoi cu Kusttram spre centrul orașului.",
+            "en": "A few stops back on the Kusttram towards the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kursaal & Promenade",
+            "hu": "Kursaal és sétány",
+            "ro": "Kursaal și Promenada",
+            "en": "Kursaal & Promenade"
+          },
+          "coords": [
+            2.911,
+            51.232
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Hippodrom entlang der Promenade zum Kursaal. Hier finden Sie viele Mittagsoptionen.",
+            "hu": "Sétáljon a lóversenypályától a sétányon a Kursaalig. Itt számos ebédlehetőséget talál.",
+            "ro": "Plimbați-vă de la hipodrom de-a lungul promenadei până la Kursaal. Veți găsi multe opțiuni de prânz aici.",
+            "en": "Stroll from the hippodrome along the promenade to the Kursaal. You'll find many lunch options here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mu.ZEE",
+            "hu": "Mu.ZEE",
+            "ro": "Mu.ZEE",
+            "en": "Mu.ZEE"
+          },
+          "coords": [
+            2.918,
+            51.226
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Kursaal aus ist das Museum leicht zu Fuß erreichbar.",
+            "hu": "A Kursaaltól a múzeum könnyen megközelíthető gyalog.",
+            "ro": "Muzeul este la o distanță de mers pe jos de la Kursaal.",
+            "en": "The museum is within easy walking distance from the Kursaal."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Petrus-und-Paulus-Kirche",
+            "hu": "Szent Péter és Pál templom",
+            "ro": "Biserica Sf. Petru și Pavel",
+            "en": "Saint Peter and Saint Paul Church"
+          },
+          "coords": [
+            2.9285,
+            51.2301
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:55",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Stadtrundgang mit einem Besuch dieser monumentalen Kirche fort.",
+            "hu": "Folytassa városnéző sétáját ennek a monumentális templomnak a meglátogatásával.",
+            "ro": "Continuați turul pietonal al orașului cu o vizită la această biserică monumentală.",
+            "en": "Continue your city walk with a visit to this monumental church."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Napoleon",
+            "hu": "Napóleon-erőd",
+            "ro": "Fortul Napoleon",
+            "en": "Fort Napoleon"
+          },
+          "coords": [
+            2.946,
+            51.242
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:55",
+          "stay_min": 45,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Nehmen Sie die kostenlose Fähre vom Stadtzentrum über den Hafen zum Fort.",
+            "hu": "Menjen az ingyenes komppal a városközpontból a kikötőn át az erődhöz.",
+            "ro": "Luați feribotul gratuit din centrul orașului peste port până la fort.",
+            "en": "Take the free ferry from the city center across the harbor to the fort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Fahrt mit der Küstentram zum Atlantikwall Raversyde. Gegen Mittag fahren Sie zurück in die Stadt, um das erste fußläufige Cluster zu erkunden: das Hippodrom, den Kursaal und die Promenade, wo Sie zu Mittag essen. Am Nachmittag schlendern Sie durch das zweite Cluster, das das Mu.ZEE und die Hauptkirche umfasst. Eine kurze, malerische Fahrt mit der Fähre bringt Sie schließlich zum Fort Napoleon, um den Tag mit einer großartigen Aussicht zu beenden.",
+        "hu": "A nap a parti villamossal kezdődik az Atlantikwall Raversyde felé. Dél körül visszatér a városba, hogy felfedezze az első gyalogos klasztert: a lóversenypályát, a Kursaalt és a sétányt, ahol ebédelhet. Délután átsétál a második klaszteren, amely a Mu.ZEE-t és a főtemplomot foglalja magában. Végül egy rövid, festői kompút viszi a Napóleon-erődhöz, hogy egy nagyszerű kilátással zárja a napot.",
+        "ro": "Ziua începe cu o călătorie cu tramvaiul de coastă la Zidul Atlanticului Raversyde. În jurul prânzului, vă întoarceți în oraș pentru a explora primul cluster pietonal: hipodromul, Kursaal și promenada, unde luați prânzul. După-amiaza, vă plimbați prin al doilea cluster, care include Mu.ZEE și biserica principală. În cele din urmă, o scurtă și pitorească plimbare cu feribotul vă duce la Fortul Napoleon pentru a încheia ziua cu o priveliște minunată.",
+        "en": "Your day starts with a coastal tram ride to Atlantikwall Raversyde. Around noon, you head back to the city to explore the first pedestrian cluster: the hippodrome, the Kursaal, and the promenade, where you'll have lunch. In the afternoon, you'll stroll through the second cluster, which includes Mu.ZEE and the main church. Finally, a short, scenic ferry ride takes you to Fort Napoleon to end the day with a great view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tomaten-Garnelen",
+            "tip": "Eine erfrischende Vorspeise mit frischen Nordseegarnelen in einer ausgehöhlten Tomate."
+          },
+          {
+            "name": "Café Bottarga",
+            "tip": "Ein stilvolles Café in der Nähe des Mu.ZEE, ideal für Kaffee und Kuchen."
+          },
+          {
+            "name": "Fischmarkt (Vistrap)",
+            "tip": "Holen Sie sich einen Snack mit frittiertem Fisch direkt von den Ständen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paradicsomos garnélarák",
+            "tip": "Frissítő előétel friss északi-tengeri garnélával egy kivájt paradicsomban."
+          },
+          {
+            "name": "Café Bottarga",
+            "tip": "Stílusos kávézó a Mu.ZEE közelében, ideális kávéhoz és süteményhez."
+          },
+          {
+            "name": "Halpiac (Vistrap)",
+            "tip": "Egyen egy sült halas snacket közvetlenül a standoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Roșii cu creveți",
+            "tip": "Un aperitiv răcoritor cu creveți proaspeți de la Marea Nordului într-o roșie scobită."
+          },
+          {
+            "name": "Café Bottarga",
+            "tip": "O cafenea elegantă lângă Mu.ZEE, perfectă pentru cafea și prăjituri."
+          },
+          {
+            "name": "Piața de pește (Vistrap)",
+            "tip": "Luați o gustare de pește prăjit direct de la tarabe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tomato with shrimp",
+            "tip": "A refreshing starter with fresh North Sea shrimp in a hollowed-out tomato."
+          },
+          {
+            "name": "Café Bottarga",
+            "tip": "A stylish café near Mu.ZEE, perfect for coffee and cake."
+          },
+          {
+            "name": "Fish Market (Vistrap)",
+            "tip": "Grab a fried fish snack straight from the stalls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt mit der Fähre",
+            "tip": "Die kurze Überfahrt zum Fort Napoleon ist ein überraschend ruhiger Moment auf dem Wasser.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "St. Antoniusstraat",
+            "tip": "Eine ruhige Straße im alten Fischerviertel mit charmanter Atmosphäre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "West-Pier (Westerstaketsel)",
+            "tip": "Ein langer Pier, ideal um dem Trubel der Stadt zu entfliehen und die Wellen zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kompút",
+            "tip": "A rövid átkelés a Napóleon-erődhöz meglepően csendes pillanat a vízen.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "St. Antoniusstraat",
+            "tip": "Csendes utca a régi halásznegyedben, bájos hangulattal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Nyugati móló (Westerstaketsel)",
+            "tip": "Hosszú móló, ideális a város nyüzsgéséből való elmeneküléshez és a hullámok nézéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu feribotul",
+            "tip": "Scurta traversare către Fortul Napoleon este un moment surprinzător de liniștit pe apă.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "St. Antoniusstraat",
+            "tip": "O stradă liniștită în vechiul cartier al pescarilor, cu o atmosferă fermecătoare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Digul de Vest (Westerstaketsel)",
+            "tip": "Un dig lung, perfect pentru a scăpa de agitația orașului și a privi valurile.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ferry ride",
+            "tip": "The short crossing to Fort Napoleon is a surprisingly quiet moment on the water.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "St. Antoniusstraat",
+            "tip": "A quiet street in the old fishermen's quarter with a charming atmosphere.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "West Pier (Westerstaketsel)",
+            "tip": "A long pier, perfect for escaping the city bustle and watching the waves.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ensor-Souvenirs",
+            "tip": "Finden Sie Drucke, Postkarten und Bücher über den berühmtesten Künstler der Stadt."
+          },
+          {
+            "name": "De Drie Gapers",
+            "tip": "Ein Geschäft mit nautischen Dekorationen und Geschenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ensor ajándéktárgyak",
+            "tip": "Keressen nyomatokat, képeslapokat és könyveket a város leghíresebb művészéről."
+          },
+          {
+            "name": "De Drie Gapers",
+            "tip": "Hajózási dekorációkat és ajándékokat árusító üzlet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Ensor",
+            "tip": "Găsiți printuri, cărți poștale și cărți despre cel mai faimos artist al orașului."
+          },
+          {
+            "name": "De Drie Gapers",
+            "tip": "Un magazin cu decorațiuni și cadouri nautice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ensor Souvenirs",
+            "tip": "Find prints, postcards, and books about the city's most famous artist."
+          },
+          {
+            "name": "De Drie Gapers",
+            "tip": "A shop with nautical decorations and gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die Kusttram, sie ist an der gesamten Küste gültig.",
+          "Überprüfen Sie den Fahrplan der Fähre zum Fort Napoleon, da er saisonal variieren kann.",
+          "Die Kusttram kann im Sommer sehr voll werden, planen Sie zusätzliche Zeit ein.",
+          "Viele Haltestellen sind mit digitalen Anzeigen ausgestattet, die die nächsten Abfahrten anzeigen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a Kusttram villamosra, amely az egész tengerparton érvényes.",
+          "Ellenőrizze a Napóleon-erődhöz közlekedő komp menetrendjét, mivel az szezonálisan változhat.",
+          "A Kusttram nyáron nagyon zsúfolt lehet, tervezzen plusz idővel.",
+          "Sok megálló digitális kijelzővel van felszerelve, amely mutatja a következő indulásokat."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru Kusttram, este valabil pe toată coasta.",
+          "Verificați orarul feribotului către Fortul Napoleon, deoarece poate varia în funcție de sezon.",
+          "Kusttram poate fi foarte aglomerat vara, planificați timp suplimentar.",
+          "Multe stații sunt dotate cu afișaje digitale care arată următoarele plecări."
+        ],
+        "en": [
+          "Buy a day ticket for the Kusttram, it is valid along the entire coast.",
+          "Check the ferry schedule to Fort Napoleon, as it may vary seasonally.",
+          "The Kusttram can get very crowded in summer, allow extra time.",
+          "Many stops are equipped with digital displays showing the next departures."
+        ]
+      }
+    }
+  }
+}

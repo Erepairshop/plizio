@@ -1,0 +1,1596 @@
+{
+  "city_id": "greece-lefkada-cities-v2",
+  "anchor": {
+    "name": "Lefkada",
+    "coords": [
+      20.7,
+      38.8333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz (Agios Spyridon)",
+            "hu": "Központi tér (Agios Spyridon)",
+            "ro": "Piața Centrală (Agios Spyridon)",
+            "en": "Central Square (Agios Spyridon)"
+          },
+          "coords": [
+            20.706,
+            38.833
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem griechischen Kaffee in einem der vielen Cafés.",
+            "hu": "Kezdje a napot egy görög kávéval a számos kávézó egyikében.",
+            "ro": "Începeți ziua cu o cafea grecească la una dintre numeroasele cafenele.",
+            "en": "Start your day with a Greek coffee at one of the many cafés."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Spyridon",
+            "hu": "Agios Spyridon-templom",
+            "ro": "Biserica Agios Spyridon",
+            "en": "Church of Agios Spyridon"
+          },
+          "coords": [
+            20.7065,
+            38.8335
+          ],
+          "category": "churches",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckende Ikonostase und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a lenyűgöző ikonosztázt és a csendes légkört.",
+            "ro": "Observați iconostasul impresionant și atmosfera liniștită.",
+            "en": "Note the impressive iconostasis and the tranquil atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Lefkada",
+            "hu": "Lefkadai Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Lefkada",
+            "en": "Archaeological Museum of Lefkada"
+          },
+          "coords": [
+            20.708,
+            38.831
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Funde aus den Gräbern von Nydri.",
+            "hu": "Koncentráljon a nydri sírokból származó leletekre.",
+            "ro": "Concentrați-vă pe descoperirile din mormintele de la Nydri.",
+            "en": "Focus on the findings from the tombs of Nydri."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzbrücke der Liebenden",
+            "hu": "Szerelmesek hídja",
+            "ro": "Podul de lemn al îndrăgostiților",
+            "en": "Wooden Bridge of Lovers"
+          },
+          "coords": [
+            20.713,
+            38.84
+          ],
+          "category": "bridges",
+          "arrive_at": "12:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für Fotos, besonders bei Sonnenuntergang.",
+            "hu": "Tökéletes hely a fotózásra, különösen naplementekor.",
+            "ro": "Un loc perfect pentru fotografii, mai ales la apus.",
+            "en": "A perfect spot for photos, especially at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Santa Maura",
+            "hu": "Santa Maura erőd",
+            "ro": "Fortăreața Santa Maura",
+            "en": "Fortress of Santa Maura"
+          },
+          "coords": [
+            20.715,
+            38.842
+          ],
+          "category": "castles",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tragen Sie festes Schuhwerk, um das weitläufige Gelände zu erkunden.",
+            "hu": "Viseljen erős cipőt a hatalmas terület felfedezéséhez.",
+            "ro": "Purtați încălțăminte rezistentă pentru a explora terenul vast.",
+            "en": "Wear sturdy shoes to explore the extensive grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Taverne",
+            "hu": "Ebéd egy tavernában",
+            "ro": "Prânz la o tavernă",
+            "en": "Lunch at a Taverna"
+          },
+          "coords": [
+            20.71,
+            38.838
+          ],
+          "category": "gastro",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch oder Meeresfrüchte mit Blick auf die Lagune.",
+            "hu": "Kóstoljon friss halat vagy tenger gyümölcseit a lagúnára néző kilátással.",
+            "ro": "Încercați pește proaspăt sau fructe de mare cu vedere la lagună.",
+            "en": "Try fresh fish or seafood with a view of the lagoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang an der Gira Lagune",
+            "hu": "Séta a Gira-lagúnánál",
+            "ro": "Plimbare pe Laguna Gira",
+            "en": "Walk at Gira Lagoon"
+          },
+          "coords": [
+            20.69,
+            38.85
+          ],
+          "category": "natural features",
+          "arrive_at": "16:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Halten Sie Ausschau nach Flamingos und anderen Zugvögeln.",
+            "hu": "Figyelje a flamingókat és más vándormadarakat.",
+            "ro": "Fiți cu ochii pe flamingo și alte păsări migratoare.",
+            "en": "Look out for flamingos and other migratory birds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Lefkada-Stadt beginnt auf dem lebhaften Agios Spyridon Platz. Nach einem Besuch der namensgebenden Kirche tauchen Sie im Archäologischen Museum in die antike Geschichte ein. Am Mittag überqueren Sie die romantische Holzbrücke zur imposanten Santa Maura Festung, die über dem Meer thront. Nach einem herzhaften Mittagessen mit Blick aufs Wasser verbringen Sie den späten Nachmittag mit einem entspannten Spaziergang entlang der Gira-Lagune, wo Sie die reiche Vogelwelt und die untergehende Sonne genießen, ein perfekter Abschluss eines erfüllten Tages.",
+        "hu": "A lefkadai napja a nyüzsgő Agios Spyridon téren kezdődik. A névadó templom meglátogatása után a Régészeti Múzeumban merül el az ókori történelemben. Délben átsétál a romantikus fahídon a tenger fölé magasodó, impozáns Santa Maura erődhöz. Egy kiadós, vízparti ebéd után a késő délutánt a Gira-lagúna mentén tett pihentető sétával tölti, élvezve a gazdag madárvilágot és a lemenő napot, ami tökéletes lezárása egy tartalmas napnak.",
+        "ro": "Ziua dvs. în orașul Lefkada începe în vibranta Piață Agios Spyridon. După o vizită la biserica omonimă, vă cufundați în istoria antică la Muzeul Arheologic. La prânz, traversați romanticul pod de lemn către impunătoarea Fortăreață Santa Maura, ce tronează deasupra mării. După un prânz copios cu vedere la apă, petreceți după-amiaza târzie cu o plimbare relaxantă de-a lungul Lagunei Gira, bucurându-vă de bogata avifaună și de soarele la apus, o încheiere perfectă a unei zile pline.",
+        "en": "Your day in Lefkada Town begins at the lively Agios Spyridon Square. After visiting the church of the same name, you'll delve into ancient history at the Archaeological Museum. At noon, you'll cross the romantic wooden bridge to the imposing Santa Maura Fortress, which towers over the sea. After a hearty lunch with a view of the water, you'll spend the late afternoon on a relaxing walk along the Gira Lagoon, enjoying the rich birdlife and the setting sun, a perfect end to a fulfilling day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch",
+            "tip": "Bestellen Sie den Fang des Tages in einer Taverne am Hafen."
+          },
+          {
+            "name": "Savoro",
+            "tip": "Eine traditionelle Art, Fisch mit Rosmarin und Essig zu konservieren."
+          },
+          {
+            "name": "Vertzami Wein",
+            "tip": "Probieren Sie den kräftigen Rotwein der Insel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss hal",
+            "tip": "Rendelje meg a nap fogását egy kikötői tavernában."
+          },
+          {
+            "name": "Savoro",
+            "tip": "Hagyományos halétel rozmaringgal és ecettel tartósítva."
+          },
+          {
+            "name": "Vertzami bor",
+            "tip": "Kóstolja meg a sziget testes vörösborát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt",
+            "tip": "Comandați captura zilei la o tavernă din port."
+          },
+          {
+            "name": "Savoro",
+            "tip": "Un mod tradițional de a conserva peștele cu rozmarin și oțet."
+          },
+          {
+            "name": "Vin Vertzami",
+            "tip": "Încercați vinul roșu robust de pe insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Fish",
+            "tip": "Order the catch of the day at a harbor-side taverna."
+          },
+          {
+            "name": "Savoro",
+            "tip": "A traditional way of preserving fish with rosemary and vinegar."
+          },
+          {
+            "name": "Vertzami Wine",
+            "tip": "Try the island's robust red wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gira Lagune bei Sonnenuntergang",
+            "tip": "Die Farben des Himmels spiegeln sich im stillen Wasser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hinterhöfe der Altstadt",
+            "tip": "Entdecken Sie ruhige Ecken abseits der Hauptstraßen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kloster Faneromeni",
+            "tip": "Ein Ort der Ruhe mit herrlicher Aussicht (besser mit dem Fahrrad/Auto erreichbar).",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gira-lagúna naplementekor",
+            "tip": "Az ég színei visszatükröződnek a csendes vízen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az óváros hátsó udvarai",
+            "tip": "Fedezzen fel csendes zugokat a főutcáktól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Faneromeni kolostor",
+            "tip": "A béke helye, csodálatos kilátással (kerékpárral/autóval könnyebb megközelíteni).",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Laguna Gira la apus",
+            "tip": "Culorile cerului se reflectă în apa liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curțile din spatele orașului vechi",
+            "tip": "Descoperiți colțuri liniștite, departe de străzile principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mănăstirea Faneromeni",
+            "tip": "Un loc de pace cu vederi magnifice (mai bine accesibil cu bicicleta/mașina).",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gira Lagoon at sunset",
+            "tip": "The colors of the sky reflect in the still water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Backyards of the Old Town",
+            "tip": "Discover quiet corners away from the main streets.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Faneromeni Monastery",
+            "tip": "A place of peace with magnificent views (better reached by bike/car).",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lefkadische Linsen",
+            "tip": "Eine berühmte lokale Sorte, bekannt für ihren Geschmack."
+          },
+          {
+            "name": "Olivenöl und Honig",
+            "tip": "Kaufen Sie direkt bei lokalen Produzenten auf dem Markt."
+          },
+          {
+            "name": "Handgefertigte Sandalen",
+            "tip": "Finden Sie ein einzigartiges Paar in den Gassen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lefkadai lencse",
+            "tip": "Híres helyi fajta, amely ízéről ismert."
+          },
+          {
+            "name": "Olívaolaj és méz",
+            "tip": "Vásároljon közvetlenül a helyi termelőktől a piacon."
+          },
+          {
+            "name": "Kézzel készített szandálok",
+            "tip": "Találjon egyedi párat a város sikátoraiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Linte de Lefkada",
+            "tip": "Un soi local renumit, cunoscut pentru gustul său."
+          },
+          {
+            "name": "Ulei de măsline și miere",
+            "tip": "Cumpărați direct de la producătorii locali de la piață."
+          },
+          {
+            "name": "Sandale lucrate manual",
+            "tip": "Găsiți o pereche unică pe aleile orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lefkadian Lentils",
+            "tip": "A famous local variety known for its taste."
+          },
+          {
+            "name": "Olive Oil and Honey",
+            "tip": "Buy directly from local producers at the market."
+          },
+          {
+            "name": "Handmade Sandals",
+            "tip": "Find a unique pair in the town's alleyways."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Die Hauptfußgängerzone, Ioannou Mela, ist der beste Ort für Souvenirs und einen Abendspaziergang.",
+          "Verlieren Sie sich absichtlich in den engen Gassen westlich des Hauptplatzes.",
+          "Im Sommer kann es sehr voll werden; starten Sie früh, um die Menschenmassen zu vermeiden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek.",
+          "A fő sétálóutca, az Ioannou Mela, a legjobb hely ajándéktárgyak vásárlására és esti sétára.",
+          "Szándékosan tévedjen el a főtértől nyugatra eső szűk sikátorokban.",
+          "Nyáron nagyon zsúfolt lehet; induljon korán, hogy elkerülje a tömeget."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavelele pot fi denivelate.",
+          "Strada pietonală principală, Ioannou Mela, este cel mai bun loc pentru suveniruri și o plimbare de seară.",
+          "Rătăciți-vă intenționat pe aleile înguste la vest de piața principală.",
+          "Poate fi foarte aglomerat vara; începeți devreme pentru a evita mulțimile."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "The main pedestrian street, Ioannou Mela, is the best place for souvenirs and an evening stroll.",
+          "Get intentionally lost in the narrow alleys west of the main square.",
+          "It can get very crowded in summer; start early to avoid the masses."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Holzbrücke und Festung",
+            "hu": "Fahíd és erőd",
+            "ro": "Podul de lemn și Fortăreața",
+            "en": "Wooden Bridge and Fortress"
+          },
+          "coords": [
+            20.713,
+            38.84
+          ],
+          "category": "bridges",
+          "arrive_at": "09:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie beide Sehenswürdigkeiten zu Fuß.",
+            "hu": "Zárja le a kerékpárját, és fedezze fel mindkét látnivalót gyalog.",
+            "ro": "Încuiați-vă bicicleta și explorați ambele atracții pe jos.",
+            "en": "Lock up your bike and explore both sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour um die Gira Lagune",
+            "hu": "Kerékpártúra a Gira-lagúna körül",
+            "ro": "Tur cu bicicleta în jurul Lagunei Gira",
+            "en": "Bike ride around Gira Lagoon"
+          },
+          "coords": [
+            20.68,
+            38.855
+          ],
+          "category": "natural features",
+          "arrive_at": "10:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Runde ist flach und bietet tolle Ausblicke auf das Meer und die Stadt.",
+            "hu": "A körút sík, és nagyszerű kilátást nyújt a tengerre és a városra.",
+            "ro": "Circuitul este plat și oferă priveliști minunate spre mare și oraș.",
+            "en": "The loop is flat and offers great views of the sea and the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Faneromeni",
+            "hu": "Faneromeni kolostor",
+            "ro": "Mănăstirea Faneromeni",
+            "en": "Faneromeni Monastery"
+          },
+          "coords": [
+            20.67,
+            38.825
+          ],
+          "category": "churches",
+          "arrive_at": "12:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg ist anspruchsvoll, aber die Aussicht ist die Mühe wert.",
+            "hu": "Az emelkedő kihívást jelent, de a kilátás megéri a fáradozást.",
+            "ro": "Urcușul este solicitant, dar priveliștea merită efortul.",
+            "en": "The climb is challenging, but the view is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Frini",
+            "hu": "Ebéd Friniben",
+            "ro": "Prânz în Frini",
+            "en": "Lunch in Frini"
+          },
+          "coords": [
+            20.675,
+            38.826
+          ],
+          "category": "gastro",
+          "arrive_at": "13:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie authentische griechische Küche in dem Dorf nahe dem Kloster.",
+            "hu": "Élvezze az autentikus görög konyhát a kolostor melletti faluban.",
+            "ro": "Bucurați-vă de bucătăria grecească autentică în satul de lângă mănăstire.",
+            "en": "Enjoy authentic Greek cuisine in the village near the monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralplatz und Agios Spyridon",
+            "hu": "Központi tér és Agios Spyridon",
+            "ro": "Piața Centrală și Agios Spyridon",
+            "en": "Central Square and Agios Spyridon"
+          },
+          "coords": [
+            20.706,
+            38.833
+          ],
+          "category": "squares",
+          "arrive_at": "15:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die lebhafte Atmosphäre am Nachmittag.",
+            "hu": "Parkolja le a kerékpárját, és élvezze a délutáni nyüzsgést.",
+            "ro": "Parcați-vă bicicleta și bucurați-vă de atmosfera plină de viață a după-amiezii.",
+            "en": "Park your bike and enjoy the lively afternoon atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Phonographen-Museum",
+            "hu": "Fonográf Múzeum",
+            "ro": "Muzeul Fonografului",
+            "en": "Phonograph Museum"
+          },
+          "coords": [
+            20.704,
+            38.834
+          ],
+          "category": "museums",
+          "arrive_at": "16:16",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kleines, aber faszinierendes Museum, das der Geschichte des Klangs gewidmet ist.",
+            "hu": "Egy kicsi, de lenyűgöző múzeum a hang történetének szentelve.",
+            "ro": "Un muzeu mic, dar fascinant, dedicat istoriei sunetului.",
+            "en": "A small but fascinating museum dedicated to the history of sound."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung am Hafen",
+            "hu": "Pihenés a kikötőben",
+            "ro": "Relaxare în port",
+            "en": "Relaxing at the Harbor"
+          },
+          "coords": [
+            20.712,
+            38.835
+          ],
+          "category": "harbor",
+          "arrive_at": "17:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beobachten Sie die ein- und auslaufenden Boote bei einem kühlen Getränk.",
+            "hu": "Nézze a be- és kifutó hajókat egy hűsítő ital mellett.",
+            "ro": "Priviți bărcile care vin și pleacă în timp ce savurați o băutură rece.",
+            "en": "Watch the boats come and go while enjoying a cool drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet mit einem Paukenschlag an der historischen Holzbrücke und der Santa Maura Festung. Von dort aus umrunden Sie die Gira-Lagune, ein Paradies für Naturliebhaber. Der anspruchsvolle Anstieg zum Kloster Faneromeni belohnt Sie mit atemberaubenden Ausblicken und spiritueller Ruhe. Nach einem traditionellen Mittagessen in Frini rollen Sie zurück in die Stadt, um den lebhaften Hauptplatz und das einzigartige Phonographen-Museum zu erleben. Der Tag klingt entspannt am Hafen aus, wo Sie das maritime Flair genießen.",
+        "hu": "A kerékpártúrája a történelmi fahídnál és a Santa Maura erődnél kezdődik. Onnan megkerüli a Gira-lagúnát, a természetbarátok paradicsomát. A Faneromeni kolostorhoz vezető kihívást jelentő emelkedő lélegzetelállító kilátással és spirituális békével jutalmazza. Egy hagyományos frini ebéd után visszagurul a városba, hogy megtapasztalja a nyüzsgő főteret és az egyedülálló Fonográf Múzeumot. A nap a kikötőben ér véget, ahol élvezheti a tengeri hangulatot.",
+        "ro": "Turul dvs. cu bicicleta începe în forță la podul istoric de lemn și Fortăreața Santa Maura. De acolo, înconjurați Laguna Gira, un paradis pentru iubitorii de natură. Urcușul solicitant către Mănăstirea Faneromeni vă recompensează cu priveliști uluitoare și liniște spirituală. După un prânz tradițional în Frini, vă întoarceți în oraș pentru a experimenta piața principală plină de viață și unicul Muzeu al Fonografului. Ziua se încheie relaxat în port, bucurându-vă de atmosfera maritimă.",
+        "en": "Your bike tour starts with a bang at the historic wooden bridge and Santa Maura Fortress. From there, you'll circle the Gira Lagoon, a paradise for nature lovers. The challenging climb to Faneromeni Monastery rewards you with breathtaking views and spiritual tranquility. After a traditional lunch in Frini, you'll roll back into town to experience the lively main square and the unique Phonograph Museum. The day ends with relaxation at the harbor, soaking in the maritime atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Kuchen (Pies)",
+            "tip": "Suchen Sie nach Spanakopita (Spinattaschen) oder Tiropita (Käsetaschen) für einen schnellen Snack."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Der klassische griechische Eiskaffee für eine Erfrischungspause."
+          },
+          {
+            "name": "Taverne in Frini",
+            "tip": "Probieren Sie Lammkoteletts oder hausgemachte Moussaka."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piték",
+            "tip": "Keressen Spanakopitát (spenótos pite) vagy Tiropitát (sajtos pite) egy gyors harapnivalóért."
+          },
+          {
+            "name": "Frappé",
+            "tip": "A klasszikus görög jegeskávé egy frissítő szünethez."
+          },
+          {
+            "name": "Taverna Friniben",
+            "tip": "Kóstolja meg a bárányszeleteket vagy a házi készítésű muszakát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcinte locale",
+            "tip": "Căutați Spanakopita (plăcintă cu spanac) sau Tiropita (plăcintă cu brânză) pentru o gustare rapidă."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Clasica cafea cu gheață grecească pentru o pauză răcoritoare."
+          },
+          {
+            "name": "Tavernă în Frini",
+            "tip": "Încercați coaste de miel sau moussaka de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pies",
+            "tip": "Look for Spanakopita (spinach pie) or Tiropita (cheese pie) for a quick snack."
+          },
+          {
+            "name": "Frappé",
+            "tip": "The classic Greek iced coffee for a refreshing break."
+          },
+          {
+            "name": "Taverna in Frini",
+            "tip": "Try lamb chops or homemade moussaka."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster Faneromeni Garten",
+            "tip": "Ein ruhiger Ort mit einem kleinen Zoo und Panoramablick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strand von Agios Ioannis",
+            "tip": "Ein kurzer Abstecher von der Gira-Lagune, berühmt für seine Windmühlen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pausenplatz mit Aussicht",
+            "tip": "Halten Sie auf dem Weg zum Kloster an und genießen Sie die Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Faneromeni kolostor kertje",
+            "tip": "Csendes hely egy kis állatkerttel és panorámás kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agios Ioannis strand",
+            "tip": "Rövid kitérő a Gira-lagúnától, híres a szélmalmairól.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pihenőhely kilátással",
+            "tip": "Álljon meg úton a kolostor felé, és élvezze a csendet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Mănăstirii Faneromeni",
+            "tip": "Un loc liniștit cu o mică grădină zoologică și vederi panoramice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja Agios Ioannis",
+            "tip": "Un scurt ocol de la Laguna Gira, faimoasă pentru morile de vânt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Loc de odihnă cu priveliște",
+            "tip": "Opriți-vă pe drumul spre mănăstire și bucurați-vă de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Faneromeni Monastery Garden",
+            "tip": "A quiet place with a small zoo and panoramic views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agios Ioannis Beach",
+            "tip": "A short detour from the Gira lagoon, famous for its windmills.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rest stop with a view",
+            "tip": "Stop on the way up to the monastery and enjoy the silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Fahrradladen",
+            "tip": "Für eventuelle Reparaturen oder Zubehör."
+          },
+          {
+            "name": "Thymianhonig",
+            "tip": "Ein besonderes Produkt der ionischen Inseln."
+          },
+          {
+            "name": "Keramik",
+            "tip": "Handbemalte Keramik als schönes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárbolt",
+            "tip": "Esetleges javításokhoz vagy kiegészítőkhöz."
+          },
+          {
+            "name": "Kakukkfűméz",
+            "tip": "A Jón-szigetek különleges terméke."
+          },
+          {
+            "name": "Kerámia",
+            "tip": "Kézzel festett kerámia, mint szép ajándéktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin local de biciclete",
+            "tip": "Pentru eventuale reparații sau accesorii."
+          },
+          {
+            "name": "Miere de cimbru",
+            "tip": "Un produs special al insulelor ionice."
+          },
+          {
+            "name": "Ceramică",
+            "tip": "Ceramică pictată manual ca un suvenir frumos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bike shop",
+            "tip": "For any necessary repairs or accessories."
+          },
+          {
+            "name": "Thyme Honey",
+            "tip": "A special product of the Ionian islands."
+          },
+          {
+            "name": "Ceramics",
+            "tip": "Hand-painted pottery makes a beautiful souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen für die Abfahrt vom Kloster.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für den Anstieg.",
+          "Ein Helm wird dringend empfohlen.",
+          "Die Straßen können eng sein, fahren Sie vorausschauend."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket a kolostorból való leereszkedéshez.",
+          "Vigyen magával elegendő vizet, különösen az emelkedőhöz.",
+          "Sisak használata erősen ajánlott.",
+          "Az utak szűkek lehetnek, vezessen előrelátóan."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele pentru coborârea de la mănăstire.",
+          "Luați suficientă apă, mai ales pentru urcuș.",
+          "O cască este foarte recomandată.",
+          "Drumurile pot fi înguste, conduceți preventiv."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes for the descent from the monastery.",
+          "Bring plenty of water, especially for the climb.",
+          "A helmet is highly recommended.",
+          "The roads can be narrow, ride with foresight."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:56",
+      "total_km": 19.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster Faneromeni",
+            "hu": "Faneromeni kolostor",
+            "ro": "Mănăstirea Faneromeni",
+            "en": "Faneromeni Monastery"
+          },
+          "coords": [
+            20.67,
+            38.825
+          ],
+          "category": "churches",
+          "arrive_at": "09:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Genießen Sie die Morgenruhe und die herrliche Aussicht, bevor die Touristenbusse ankommen.",
+            "hu": "Élvezze a reggeli csendet és a csodálatos kilátást, mielőtt a turistabuszok megérkeznek.",
+            "ro": "Bucurați-vă de liniștea dimineții și de priveliștea magnifică înainte de sosirea autobuzelor turistice.",
+            "en": "Enjoy the morning tranquility and the magnificent view before the tourist buses arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Klostergarten",
+            "hu": "Séta a kolostorkertben",
+            "ro": "Plimbare în grădina mănăstirii",
+            "en": "Walk in the Monastery Garden"
+          },
+          "coords": [
+            20.671,
+            38.824
+          ],
+          "category": "garden",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schattiger und friedlicher Ort, ideal für eine kurze Pause.",
+            "hu": "Árnyékos és békés hely, ideális egy rövid szünetre.",
+            "ro": "Un loc umbros și pașnic, ideal pentru o scurtă pauză.",
+            "en": "A shady and peaceful place, ideal for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Santa Maura",
+            "hu": "Santa Maura erőd",
+            "ro": "Fortăreața Santa Maura",
+            "en": "Fortress of Santa Maura"
+          },
+          "coords": [
+            20.715,
+            38.842
+          ],
+          "category": "castles",
+          "arrive_at": "11:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie außerhalb des Eingangs und erkunden Sie die riesige Anlage.",
+            "hu": "Parkoljon a bejárat előtt, és fedezze fel a hatalmas komplexumot.",
+            "ro": "Parcați în afara intrării și explorați complexul uriaș.",
+            "en": "Park outside the entrance and explore the huge complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzbrücke und Lagune",
+            "hu": "Fahíd és lagúna",
+            "ro": "Pod de lemn și lagună",
+            "en": "Wooden Bridge and Lagoon"
+          },
+          "coords": [
+            20.713,
+            38.84
+          ],
+          "category": "bridges",
+          "arrive_at": "13:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Festung führt zu diesem fotogenen Ort.",
+            "hu": "Egy rövid séta az erődtől ehhez a fotogén helyhez vezet.",
+            "ro": "O scurtă plimbare de la fortăreață duce la acest loc fotogenic.",
+            "en": "A short walk from the fortress leads to this photogenic spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Lefkada-Stadt",
+            "hu": "Ebéd Lefkada városában",
+            "ro": "Prânz în orașul Lefkada",
+            "en": "Lunch in Lefkada Town"
+          },
+          "coords": [
+            20.706,
+            38.833
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Hafen und finden Sie eine Taverne in den Gassen der Altstadt.",
+            "hu": "Parkoljon a kikötőben, és keressen egy tavernát az óváros sikátoraiban.",
+            "ro": "Parcați în port și găsiți o tavernă pe aleile orașului vechi.",
+            "en": "Park at the harbor and find a taverna in the alleys of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches & Phonographen-Museum",
+            "hu": "Régészeti és Fonográf Múzeum",
+            "ro": "Muzeul Arheologic și Fonografic",
+            "en": "Archaeological & Phonograph Museum"
+          },
+          "coords": [
+            20.708,
+            38.831
+          ],
+          "category": "museums",
+          "arrive_at": "15:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden kleinen Museen liegen nahe beieinander und sind leicht zu Fuß erreichbar.",
+            "hu": "Ez a két kis múzeum közel van egymáshoz, és könnyen megközelíthető gyalog.",
+            "ro": "Aceste două muzee mici sunt apropiate și ușor de accesat pe jos.",
+            "en": "These two small museums are close to each other and easy to reach on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Gira Lagune für den Sonnenuntergang",
+            "hu": "Autózás a Gira-lagúnához naplementére",
+            "ro": "Călătorie cu mașina la Laguna Gira pentru apus",
+            "en": "Drive to Gira Lagoon for sunset"
+          },
+          "coords": [
+            20.67,
+            38.86
+          ],
+          "category": "natural features",
+          "arrive_at": "17:59",
+          "stay_min": 57,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum westlichen Teil der Lagune, um die beste Aussicht auf den Sonnenuntergang zu haben.",
+            "hu": "Hajtson a lagúna nyugati részére a legjobb naplemente-kilátásért.",
+            "ro": "Conduceți spre partea de vest a lagunei pentru cea mai bună priveliște a apusului.",
+            "en": "Drive to the western part of the lagoon for the best sunset view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einer Fahrt zum hochgelegenen Kloster Faneromeni, wo Sie die morgendliche Ruhe und die Aussicht genießen. Nach einem Spaziergang im Klostergarten fahren Sie zum nördlichsten Punkt, um die gewaltige Festung Santa Maura zu erkunden, gefolgt von einem kurzen Spaziergang zur berühmten Holzbrücke. Zum Mittagessen parken Sie in Lefkada-Stadt und entdecken die charmante Altstadt. Der Nachmittag ist der Kultur gewidmet, mit Besuchen im Archäologischen und Phonographen-Museum. Den krönenden Abschluss bildet eine Fahrt zur Gira-Lagune, um einen spektakulären Sonnenuntergang zu erleben.",
+        "hu": "Az autós napja a magasan fekvő Faneromeni kolostorhoz vezető úttal kezdődik, ahol élvezheti a reggeli nyugalmat és a kilátást. A kolostorkertben tett séta után az északi ponthoz hajt, hogy felfedezze a hatalmas Santa Maura erődöt, majd egy rövid sétát tesz a híres fahídhoz. Ebédre Lefkada városában parkol le, és felfedezi a bájos óvárost. A délután a kultúráé, a Régészeti és Fonográf Múzeum meglátogatásával. A napot a Gira-lagúnához való autózás koronázza meg, ahol egy látványos naplementében gyönyörködhet.",
+        "ro": "Ziua dvs. cu mașina începe cu o călătorie la Mănăstirea Faneromeni, situată la înălțime, unde vă bucurați de liniștea dimineții și de priveliște. După o plimbare în grădina mănăstirii, conduceți spre cel mai nordic punct pentru a explora imensa Fortăreață Santa Maura, urmată de o scurtă plimbare la faimosul pod de lemn. La prânz, parcați în orașul Lefkada și descoperiți fermecătorul oraș vechi. După-amiaza este dedicată culturii, cu vizite la Muzeul Arheologic și la cel Fonografic. Punctul culminant este o călătorie cu mașina la Laguna Gira pentru a admira un apus spectaculos.",
+        "en": "Your day by car begins with a drive to the high-altitude Faneromeni Monastery, where you enjoy the morning peace and views. After a walk in the monastery garden, you'll drive to the northernmost point to explore the massive Santa Maura Fortress, followed by a short walk to the famous wooden bridge. For lunch, you'll park in Lefkada Town and discover the charming old town. The afternoon is dedicated to culture, with visits to the Archaeological and Phonograph Museums. The day culminates with a drive to the Gira Lagoon to witness a spectacular sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mezedes",
+            "tip": "Bestellen Sie eine Auswahl kleiner Gerichte zum Teilen, wie Tzatziki, Oktopussalat und Saganaki."
+          },
+          {
+            "name": "Gyros Pita",
+            "tip": "Ein schneller, günstiger und köstlicher Klassiker."
+          },
+          {
+            "name": "Lokales Gebäck",
+            "tip": "Suchen Sie eine Bäckerei für Baklava oder Galaktoboureko."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mezedes",
+            "tip": "Rendeljen egy válogatást kis ételekből megosztásra, mint a tzatziki, polipsaláta és saganaki."
+          },
+          {
+            "name": "Gyros pita",
+            "tip": "Gyors, olcsó és finom klasszikus."
+          },
+          {
+            "name": "Helyi sütemények",
+            "tip": "Keressen egy pékséget baklaváért vagy galaktobourekóért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mezedes",
+            "tip": "Comandați o selecție de mici feluri de mâncare de împărțit, cum ar fi tzatziki, salată de caracatiță și saganaki."
+          },
+          {
+            "name": "Gyros Pita",
+            "tip": "Un clasic rapid, ieftin și delicios."
+          },
+          {
+            "name": "Produse de patiserie locale",
+            "tip": "Căutați o brutărie pentru baclava sau galaktoboureko."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mezedes",
+            "tip": "Order a selection of small dishes to share, like tzatziki, octopus salad, and saganaki."
+          },
+          {
+            "name": "Gyros Pita",
+            "tip": "A quick, cheap, and delicious classic."
+          },
+          {
+            "name": "Local Pastries",
+            "tip": "Find a bakery for baklava or galaktoboureko."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt nahe Faneromeni",
+            "tip": "Finden Sie einen ruhigen Platz abseits des Klosters für eine private Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Westseite der Gira Lagune",
+            "tip": "Weniger besucht als die Seite bei den Windmühlen, perfekt für ruhige Momente.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Früher Morgen an der Festung",
+            "tip": "Seien Sie der Erste dort und haben Sie die riesige Anlage fast für sich allein.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a Faneromeni közelében",
+            "tip": "Keressen egy csendes helyet a kolostortól távolabb egy privát kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Gira-lagúna nyugati oldala",
+            "tip": "Kevésbé látogatott, mint a szélmalmok oldala, tökéletes a csendes pillanatokra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kora reggel az erődnél",
+            "tip": "Legyen ott az első, és szinte egyedül birtokolhatja a hatalmas komplexumot.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere lângă Faneromeni",
+            "tip": "Găsiți un loc liniștit departe de mănăstire pentru o priveliște privată.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Partea de vest a Lagunei Gira",
+            "tip": "Mai puțin vizitată decât partea cu morile de vânt, perfectă pentru momente de liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dimineața devreme la fortăreață",
+            "tip": "Fiți primul acolo și veți avea complexul uriaș aproape numai pentru dvs.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint near Faneromeni",
+            "tip": "Find a quiet spot away from the monastery for a private view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "West side of Gira Lagoon",
+            "tip": "Less visited than the windmill side, perfect for quiet moments.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Early morning at the Fortress",
+            "tip": "Be the first one there and have the huge complex almost to yourself.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingut",
+            "tip": "Besuchen Sie ein Weingut im Inselinneren, um Vertzami-Wein zu kaufen."
+          },
+          {
+            "name": "Olivenpresse",
+            "tip": "Kaufen Sie extra natives Olivenöl direkt vom Erzeuger."
+          },
+          {
+            "name": "Bestickte Textilien",
+            "tip": "Ein traditionelles Handwerk aus dem Dorf Karia."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borászat",
+            "tip": "Látogasson el egy borászatba a sziget belsejében, hogy Vertzami bort vásároljon."
+          },
+          {
+            "name": "Olajütő",
+            "tip": "Vásároljon extra szűz olívaolajat közvetlenül a termelőtől."
+          },
+          {
+            "name": "Hímzett textíliák",
+            "tip": "Karia falujának hagyományos kézműves terméke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cramă",
+            "tip": "Vizitați o cramă din interiorul insulei pentru a cumpăra vin Vertzami."
+          },
+          {
+            "name": "Presă de ulei de măsline",
+            "tip": "Cumpărați ulei de măsline extravirgin direct de la producător."
+          },
+          {
+            "name": "Textile brodate",
+            "tip": "Un meșteșug tradițional din satul Karia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Winery",
+            "tip": "Visit a winery in the island's interior to buy Vertzami wine."
+          },
+          {
+            "name": "Olive Press",
+            "tip": "Buy extra virgin olive oil directly from the producer."
+          },
+          {
+            "name": "Embroidered textiles",
+            "tip": "A traditional craft from the village of Karia."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Sommer in Lefkada-Stadt eine Herausforderung sein. Nutzen Sie die großen Parkplätze am Hafen.",
+          "Achten Sie auf enge und kurvige Straßen, besonders auf dem Weg zum Kloster.",
+          "Ein kleines Auto ist für die Erkundung der Insel wendiger und praktischer.",
+          "Kombinieren Sie Ihren Besuch mit einem Abstecher zu einem der berühmten Westküstenstrände."
+        ],
+        "hu": [
+          "A parkolás nyáron kihívást jelenthet Lefkada városában. Használja a kikötő melletti nagy parkolókat.",
+          "Vigyázzon a szűk és kanyargós utakra, különösen a kolostorhoz vezető úton.",
+          "Egy kis autó mozgékonyabb és praktikusabb a sziget felfedezéséhez.",
+          "Kombinálja látogatását egy kitérővel a híres nyugati parti strandok egyikére."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în orașul Lefkada în timpul verii. Folosiți parcările mari de lângă port.",
+          "Fiți atenți la drumurile înguste și sinuoase, în special pe drumul spre mănăstire.",
+          "O mașină mică este mai agilă și mai practică pentru explorarea insulei.",
+          "Combinați vizita cu o excursie la una dintre faimoasele plaje de pe coasta de vest."
+        ],
+        "en": [
+          "Parking can be a challenge in Lefkada Town during the summer. Use the large parking lots by the harbor.",
+          "Be aware of narrow and winding roads, especially on the way to the monastery.",
+          "A small car is more agile and practical for exploring the island.",
+          "Combine your visit with a trip to one of the famous west coast beaches."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 10.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof & Zentralplatz",
+            "hu": "Érkezés a buszpályaudvarra és a főtér",
+            "ro": "Sosire la autogară și Piața Centrală",
+            "en": "Arrival at Bus Station & Central Square"
+          },
+          "coords": [
+            20.706,
+            38.833
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Busbahnhof liegt zentral. Der Hauptplatz ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "A buszpályaudvar központi helyen van. A főtér csak egy rövid sétára található.",
+            "ro": "Autogara este situată central. Piața principală este la doar o scurtă plimbare.",
+            "en": "The bus station is centrally located. The main square is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Spyridon & Museen",
+            "hu": "Agios Spyridon-templom és múzeumok",
+            "ro": "Biserica Agios Spyridon și Muzee",
+            "en": "Agios Spyridon Church & Museums"
+          },
+          "coords": [
+            20.707,
+            38.832
+          ],
+          "category": "churches",
+          "arrive_at": "09:44",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch der Kirche mit den nahegelegenen kleinen Museen.",
+            "hu": "Kombinálja a templom látogatását a közeli kis múzeumokkal.",
+            "ro": "Combinați vizita la biserică cu micile muzee din apropiere.",
+            "en": "Combine the visit to the church with the nearby small museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Kloster Faneromeni",
+            "hu": "Busszal a Faneromeni kolostorhoz",
+            "ro": "Autobuz spre Mănăstirea Faneromeni",
+            "en": "Bus to Faneromeni Monastery"
+          },
+          "coords": [
+            20.67,
+            38.825
+          ],
+          "category": "churches",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Busfahrplan im Voraus, da die Busse nicht sehr häufig fahren.",
+            "hu": "Előre ellenőrizze a buszmenetrendet, mivel a buszok nem járnak túl gyakran.",
+            "ro": "Verificați orarul autobuzelor în avans, deoarece nu circulă foarte des.",
+            "en": "Check the bus schedule in advance, as buses may not run very frequently."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Klosters",
+            "hu": "Ebéd a kolostor közelében",
+            "ro": "Prânz lângă mănăstire",
+            "en": "Lunch near the Monastery"
+          },
+          "coords": [
+            20.675,
+            38.826
+          ],
+          "category": "gastro",
+          "arrive_at": "13:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt einige Tavernen im Dorf Frini, die zu Fuß erreichbar sind.",
+            "hu": "Frini falujában van néhány taverna, amely gyalogosan elérhető.",
+            "ro": "Există câteva taverne în satul Frini, la distanță de mers pe jos.",
+            "en": "There are a few tavernas in the village of Frini within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zur Festung Santa Maura",
+            "hu": "Busszal a Santa Maura erődhez",
+            "ro": "Autobuz spre Fortăreața Santa Maura",
+            "en": "Bus to Santa Maura Fortress"
+          },
+          "coords": [
+            20.715,
+            38.842
+          ],
+          "category": "castles",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück in die Stadt und steigen Sie in der Nähe der Brücke aus.",
+            "hu": "Menjen busszal vissza a városba, és szálljon le a híd közelében.",
+            "ro": "Luați autobuzul înapoi în oraș și coborâți lângă pod.",
+            "en": "Take the bus back to town and get off near the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzbrücke der Liebenden",
+            "hu": "Szerelmesek hídja",
+            "ro": "Podul de lemn al îndrăgostiților",
+            "en": "Wooden Bridge of Lovers"
+          },
+          "coords": [
+            20.713,
+            38.84
+          ],
+          "category": "bridges",
+          "arrive_at": "16:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf die Lagune am späten Nachmittag.",
+            "hu": "Élvezze a lagúnára nyíló kilátást a késő délutáni órákban.",
+            "ro": "Bucurați-vă de priveliștea lagunei în amiaza târzie.",
+            "en": "Enjoy the view of the lagoon in the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Hafen",
+            "hu": "Vacsora a kikötőben",
+            "ro": "Cină în port",
+            "en": "Dinner at the Harbor"
+          },
+          "coords": [
+            20.71,
+            38.835
+          ],
+          "category": "gastro",
+          "arrive_at": "17:14",
+          "stay_min": 91,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in einer der vielen Tavernen ausklingen, bevor Sie zum Busbahnhof zurückkehren.",
+            "hu": "Zárja a napot az egyik tavernában, mielőtt visszatérne a buszpályaudvarra.",
+            "ro": "Încheiați ziua la una dintre numeroasele taverne înainte de a vă întoarce la autogară.",
+            "en": "End the day at one of the many tavernas before heading back to the bus station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen von Lefkada-Stadt, wo Sie den Hauptplatz und die nahegelegenen Museen zu Fuß erkunden. Anschließend bringt Sie ein lokaler Bus zum spirituellen Zentrum der Insel, dem Kloster Faneromeni. Nach dem Mittagessen in einem traditionellen Dorf fahren Sie mit dem Bus zurück zum Stadteingang, um die mächtige Festung Santa Maura und die malerische Holzbrücke zu besichtigen. Der Tag endet mit einem entspannten Abendessen am Hafen, von wo aus der Busbahnhof leicht zu erreichen ist.",
+        "hu": "A tömegközlekedéssel töltött napja Lefkada város szívében kezdődik, ahol gyalog fedezi fel a főteret és a közeli múzeumokat. Ezután egy helyi busz elviszi a sziget spirituális központjába, a Faneromeni kolostorba. Egy hagyományos faluban elköltött ebéd után busszal tér vissza a város bejáratához, hogy megnézze a hatalmas Santa Maura erődöt és a festői hidat. A nap egy kikötői vacsorával zárul, ahonnan a buszpályaudvar könnyen elérhető.",
+        "ro": "Ziua dvs. cu transportul public începe în inima orașului Lefkada, unde explorați pe jos piața principală și muzeele din apropiere. Apoi, un autobuz local vă duce la centrul spiritual al insulei, Mănăstirea Faneromeni. După prânzul într-un sat tradițional, luați autobuzul înapoi la intrarea în oraș pentru a vizita puternica Fortăreață Santa Maura și pitorescul pod de lemn. Ziua se încheie cu o cină relaxantă în port, de unde autogara este ușor accesibilă.",
+        "en": "Your day using public transport begins in the heart of Lefkada Town, where you'll explore the main square and nearby museums on foot. Then, a local bus takes you to the island's spiritual center, the Faneromeni Monastery. After lunch in a traditional village, you'll take the bus back to the town entrance to visit the mighty Santa Maura Fortress and the picturesque wooden bridge. The day concludes with a relaxing dinner at the harbor, from where the bus station is easily accessible."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souvlaki",
+            "tip": "Ein schnelles und leckeres Essen, das man unterwegs genießen kann."
+          },
+          {
+            "name": "Griechischer Salat (Horiatiki)",
+            "tip": "Frisch und perfekt für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "Machen Sie eine Pause in einem Café am Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvlaki",
+            "tip": "Gyors és finom étel, amelyet útközben is élvezhet."
+          },
+          {
+            "name": "Görög saláta (Horiatiki)",
+            "tip": "Friss és tökéletes egy könnyű ebédhez."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "Tartson egy szünetet egy kávézóban a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvlaki",
+            "tip": "O masă rapidă și delicioasă de savurat pe drum."
+          },
+          {
+            "name": "Salată grecească (Horiatiki)",
+            "tip": "Proaspătă și perfectă pentru un prânz ușor."
+          },
+          {
+            "name": "Cafea și prăjitură",
+            "tip": "Faceți o pauză la o cafenea din piața principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvlaki",
+            "tip": "A quick and delicious meal to enjoy on the go."
+          },
+          {
+            "name": "Greek Salad (Horiatiki)",
+            "tip": "Fresh and perfect for a light lunch."
+          },
+          {
+            "name": "Coffee and Cake",
+            "tip": "Take a break at a café on the main square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Kloster",
+            "tip": "Finden Sie eine Bank und genießen Sie den Panoramablick über die Stadt und das Meer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Am Ende der Holzbrücke",
+            "tip": "Gehen Sie bis zum Ende für eine ruhigere Perspektive.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Seitenstraßen der Altstadt",
+            "tip": "Entfliehen Sie dem Trubel der Hauptstraße.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a kolostorból",
+            "tip": "Keressen egy padot, és élvezze a panorámás kilátást a városra és a tengerre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A fahíd végén",
+            "tip": "Sétáljon el a végéig egy csendesebb perspektíváért.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az óváros mellékutcái",
+            "tip": "Meneküljön el a főutca nyüzsgésétől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliștea de la mănăstire",
+            "tip": "Găsiți o bancă și bucurați-vă de vederea panoramică asupra orașului și a mării.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "La capătul podului de lemn",
+            "tip": "Mergeți până la capăt pentru o perspectivă mai liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Străduțele laterale din orașul vechi",
+            "tip": "Evadați din agitația străzii principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Monastery",
+            "tip": "Find a bench and enjoy the panoramic view over the town and sea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The end of the wooden bridge",
+            "tip": "Walk to the very end for a quieter perspective.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Side streets of the Old Town",
+            "tip": "Escape the hustle and bustle of the main street.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs auf der Ioannou Mela Straße",
+            "tip": "Die Hauptfußgängerzone für Andenken."
+          },
+          {
+            "name": "Lokale Produkte vom Markt",
+            "tip": "Suchen Sie nach dem städtischen Markt für authentische Waren."
+          },
+          {
+            "name": "Postkarten",
+            "tip": "Senden Sie Grüße von dieser wunderschönen Insel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak az Ioannou Mela utcán",
+            "tip": "A fő sétálóutca az emléktárgyakért."
+          },
+          {
+            "name": "Helyi termékek a piacról",
+            "tip": "Keresse a városi piacot az autentikus árukért."
+          },
+          {
+            "name": "Képeslapok",
+            "tip": "Küldjön üdvözletet erről a gyönyörű szigetről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri pe strada Ioannou Mela",
+            "tip": "Principala stradă pietonală pentru suveniruri."
+          },
+          {
+            "name": "Produse locale de la piață",
+            "tip": "Căutați piața municipală pentru produse autentice."
+          },
+          {
+            "name": "Cărți poștale",
+            "tip": "Trimiteți salutări de pe această insulă frumoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs on Ioannou Mela street",
+            "tip": "The main pedestrian street for keepsakes."
+          },
+          {
+            "name": "Local products from the market",
+            "tip": "Look for the municipal market for authentic goods."
+          },
+          {
+            "name": "Postcards",
+            "tip": "Send greetings from this beautiful island."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets im Voraus am Kiosk am Busbahnhof.",
+          "Überprüfen Sie immer die Zeit für den letzten Bus zurück, besonders vom Kloster.",
+          "Die Busse sind möglicherweise nicht immer pünktlich, planen Sie also etwas Pufferzeit ein.",
+          "Fragen Sie Einheimische nach dem richtigen Bus; sie sind normalerweise sehr hilfsbereit."
+        ],
+        "hu": [
+          "Vásároljon buszjegyeket előre a buszpályaudvar kioszkjában.",
+          "Mindig ellenőrizze az utolsó busz visszaindulási idejét, különösen a kolostorból.",
+          "A buszok nem mindig pontosak, ezért tervezzen be némi pufferidőt.",
+          "Kérdezze meg a helyieket a megfelelő buszról; általában nagyon segítőkészek."
+        ],
+        "ro": [
+          "Cumpărați biletele de autobuz în avans de la chioșcul din autogară.",
+          "Verificați întotdeauna ora ultimului autobuz de întoarcere, în special de la mănăstire.",
+          "Autobuzele s-ar putea să nu fie întotdeauna la timp, așa că planificați-vă timp suplimentar.",
+          "Întrebați localnicii despre autobuzul corect; de obicei sunt foarte de ajutor."
+        ],
+        "en": [
+          "Buy bus tickets in advance from the kiosk at the bus station.",
+          "Always check the time for the last bus back, especially from the monastery.",
+          "Buses may not always be on time, so plan for some buffer time.",
+          "Ask locals for the right bus; they are usually very helpful."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1328 @@
+{
+  "city_id": "czechrepublic-trinec-cities-v2",
+  "anchor": {
+    "name": "Trzynietz",
+    "coords": [
+      18.6707,
+      49.6776
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Friedensplatz (náměstí Svobody)",
+            "hu": "Béke tér (náměstí Svobody)",
+            "ro": "Piața Păcii (náměstí Svobody)",
+            "en": "Peace Square (náměstí Svobody)"
+          },
+          "coords": [
+            18.671,
+            49.6778
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der perfekte Ausgangspunkt, um das Stadtzentrum zu erkunden.",
+            "hu": "Tökéletes kiindulópont a városközpont felfedezéséhez.",
+            "ro": "Punctul de plecare perfect pentru a simți pulsul orașului.",
+            "en": "The perfect starting point to feel the city's pulse."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Albrecht-Kirche",
+            "hu": "Szent Adalbert-templom",
+            "ro": "Biserica Sfântul Albert",
+            "en": "St. Albert's Church"
+          },
+          "coords": [
+            18.6745,
+            49.6785
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beachten Sie die neugotische Architektur und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a neogótikus építészetet és a csendes légkört.",
+            "ro": "Observați arhitectura neogotică și atmosfera liniștită din interior.",
+            "en": "Note the neo-Gothic architecture and the serene atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirche",
+            "hu": "Evangélikus templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Evangelical Church"
+          },
+          "coords": [
+            18.667,
+            49.6801
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein Beispiel funktionalistischer Architektur mit einer einzigartigen Turmkonstruktion.",
+            "hu": "A funkcionalista építészet példája, egyedi toronyszerkezettel.",
+            "ro": "Un exemplu de arhitectură funcționalistă, cu un turn distinctiv.",
+            "en": "An example of functionalist architecture with a unique tower design."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenwerk-Monument",
+            "hu": "Vasmű Emlékmű",
+            "ro": "Monumentul Oțelăriei",
+            "en": "Ironworks Monument"
+          },
+          "coords": [
+            18.68,
+            49.682
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:37",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Symbol für die industrielle Seele der Stadt. Ideal für ein schnelles Foto.",
+            "hu": "A város ipari lelkének szimbóluma. Ideális egy gyors fotóhoz.",
+            "ro": "Un simbol al sufletului industrial al orașului. Perfect pentru o fotografie.",
+            "en": "A symbol of the city's industrial soul. Great for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Eisenhütten",
+            "hu": "Vaskohászati Múzeum",
+            "ro": "Muzeul Siderurgiei",
+            "en": "Museum of Ironworks"
+          },
+          "coords": [
+            18.682,
+            49.6825
+          ],
+          "category": "museums",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die reiche Industriegeschichte von Trinec zu verstehen.",
+            "hu": "Szánjon elég időt Trinec gazdag ipari történelmének megismerésére.",
+            "ro": "Planificați suficient timp pentru a înțelege bogata istorie industrială a orașului.",
+            "en": "Plan enough time to truly understand Trinec's rich industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldpark",
+            "hu": "Erdei park",
+            "ro": "Parcul Pădure",
+            "en": "Forest Park"
+          },
+          "coords": [
+            18.665,
+            49.67
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:06",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für eine entspannte Pause nach dem Museumsbesuch.",
+            "hu": "Tökéletes hely egy pihentető szünetre a múzeumlátogatás után.",
+            "ro": "Locul perfect pentru o pauză relaxantă după vizita la muzeu.",
+            "en": "The perfect spot for a relaxing break after the museum visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem belebten Friedensplatz, dem Herzen von Trinec. Vormittags erkunden Sie das sakrale Erbe der Stadt mit Besuchen der beeindruckenden St.-Albrecht-Kirche und der modernen Evangelischen Kirche. Mittags tauchen Sie in die industrielle Identität von Trinec ein, indem Sie das Eisenwerk-Monument bewundern und tief in die Geschichte im Museum der Eisenhütten eintauchen. Am Nachmittag entspannen Sie im weitläufigen Waldpark, einem grünen Refugium, das einen friedlichen Kontrast zur industriellen Geschichte der Stadt bietet. Genießen Sie die Natur, bevor Sie den Tag ausklingen lassen.",
+        "hu": "Kezdje a napot a nyüzsgő Béke téren, Trinec szívében. A délelőttöt a város szakrális örökségének felfedezésével töltse, ellátogatva a lenyűgöző Szent Adalbert-templomhoz és a modern evangélikus templomhoz. Délben merüljön el Trinec ipari identitásában a Vasmű Emlékmű megtekintésével és a Vaskohászati Múzeum mélyreható kiállításaival. A délutánt a tágas Erdei parkban pihenéssel töltse, egy zöld menedékhelyen, amely békés kontrasztot kínál a város ipari múltjával. Élvezze a természetet, mielőtt lezárja a napot.",
+        "ro": "Începeți ziua în Piața Păcii, inima orașului Trinec. Dimineața explorați moștenirea sacră a orașului vizitând impunătoarea Biserică Sfântul Albert și moderna Biserică Evanghelică. La prânz, pătrundeți în identitatea industrială a orașului Trinec admirând Monumentul Oțelăriei și aprofundând istoria la Muzeul Siderurgiei. După-amiaza, relaxați-vă în vastul Parc Pădure, un refugiu verde ce oferă un contrast pașnic cu istoria industrială a orașului. Bucurați-vă de natură înainte de a încheia ziua.",
+        "en": "Start your day in the bustling Peace Square, the heart of Trinec. Spend the morning exploring the city's sacral heritage, visiting the impressive St. Albert's Church and the modern Evangelical Church. At noon, dive into Trinec's industrial identity by admiring the Ironworks Monument and delving deep into history at the Museum of Ironworks. Dedicate your afternoon to relaxation in the expansive Forest Park, a green haven that provides a peaceful contrast to the city's industrial history. Enjoy the nature before concluding your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kuba",
+            "tip": "Ein traditionelles Gericht aus Graupen und Pilzen, das oft zu Weihnachten gegessen wird."
+          },
+          {
+            "name": "Schlesischer Kartoffelkloß (Kluski śląskie)",
+            "tip": "Weiche Kartoffelklöße, oft mit Fleischsoße serviert."
+          },
+          {
+            "name": "Restaurace U Mánesa",
+            "tip": "Ein beliebter Ort für traditionelle tschechische und regionale schlesische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kuba",
+            "tip": "Hajdinakásából és gombából készült hagyományos étel, gyakran karácsonykor fogyasztják."
+          },
+          {
+            "name": "Sziléziai burgonyagombóc (Kluski śląskie)",
+            "tip": "Puha burgonyagombócok, gyakran húsos szósszal tálalva."
+          },
+          {
+            "name": "Restaurace U Mánesa",
+            "tip": "Népszerű hely a hagyományos cseh és a regionális sziléziai konyha kedvelőinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kuba",
+            "tip": "Un fel de mâncare tradițional din arpacaș și ciuperci, adesea consumat de Crăciun."
+          },
+          {
+            "name": "Găluște sileziene din cartofi (Kluski śląskie)",
+            "tip": "Găluște moi din cartofi, servite adesea cu sos de carne."
+          },
+          {
+            "name": "Restaurace U Mánesa",
+            "tip": "Un loc popular pentru bucătăria tradițională cehă și regională sileziană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kuba",
+            "tip": "A traditional dish made from pearl barley and mushrooms, often eaten at Christmas."
+          },
+          {
+            "name": "Silesian potato dumplings (Kluski śląskie)",
+            "tip": "Soft potato dumplings, often served with a meat sauce."
+          },
+          {
+            "name": "Restaurace U Mánesa",
+            "tip": "A popular spot for traditional Czech and regional Silesian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldpark",
+            "tip": "Spazieren Sie auf den ruhigen Wegen und genießen Sie die Stille.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Flusses Olsa",
+            "tip": "Ein friedlicher Ort für einen Spaziergang, abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Javorový vrch Ausblick",
+            "tip": "Obwohl eine Fahrt erforderlich ist, ist der Panoramablick die ultimative ruhige Belohnung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erdei park",
+            "tip": "Sétáljon a csendes ösvényeken, és élvezze a nyugalmat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Olza folyó partja",
+            "tip": "Békés hely egy sétához, távol a városközponttól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Javorový vrch kilátó",
+            "tip": "Bár utazást igényel, a panorámás kilátás a végső csendes jutalom.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Pădure",
+            "tip": "Plimbați-vă pe cărările liniștite și bucurați-vă de calm.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Olza",
+            "tip": "Un loc pașnic pentru o plimbare, departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de pe Javorový vrch",
+            "tip": "Deși necesită o deplasare, vederea panoramică este recompensa supremă de liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forest Park",
+            "tip": "Stroll along the quiet paths and enjoy the tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Olza River",
+            "tip": "A peaceful spot for a walk, away from the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Javorový vrch Viewpoint",
+            "tip": "Though it requires a drive, the panoramic view is the ultimate quiet reward.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt am Friedensplatz",
+            "tip": "Suchen Sie nach lokalen Produkten und handgefertigten Waren, wenn ein Markt stattfindet."
+          },
+          {
+            "name": "Trzynietzer Oblaten",
+            "tip": "Eine lokale Spezialität, perfekt als süßes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac a Béke téren",
+            "tip": "Keressen helyi termékeket és kézműves árukat, ha piac van."
+          },
+          {
+            "name": "Třineci ostya",
+            "tip": "Helyi specialitás, tökéletes édes szuvenírnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală din Piața Păcii",
+            "tip": "Căutați produse locale și articole de artizanat atunci când este zi de piață."
+          },
+          {
+            "name": "Napolitane din Trinec (oplatky)",
+            "tip": "O specialitate locală, perfectă ca suvenir dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market on Peace Square",
+            "tip": "Look for local produce and handmade goods when a market is on."
+          },
+          {
+            "name": "Trinec Wafers (oplatky)",
+            "tip": "A local specialty, perfect as a sweet souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Ellenőrizze előre a múzeum nyitvatartási idejét.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "A központi látnivalók többsége könnyen elérhető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați programul muzeului în avans.",
+          "Luați o sticlă de apă reutilizabilă pentru a vă menține hidratat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as this itinerary involves a lot of walking.",
+          "Check the museum's opening hours in advance.",
+          "Bring a reusable water bottle to stay hydrated.",
+          "Most central sights are within easy walking distance of each other."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Friedensplatz (náměstí Svobody)",
+            "hu": "Béke tér (náměstí Svobody)",
+            "ro": "Piața Păcii (náměstí Svobody)",
+            "en": "Peace Square (náměstí Svobody)"
+          },
+          "coords": [
+            18.671,
+            49.6778
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
+            "en": "Secure your bike before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenwerk-Monument",
+            "hu": "Vasmű Emlékmű",
+            "ro": "Monumentul Oțelăriei",
+            "en": "Ironworks Monument"
+          },
+          "coords": [
+            18.68,
+            49.682
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:36",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schneller Halt, um das industrielle Symbol der Stadt zu sehen.",
+            "hu": "Egy gyors megálló a város ipari szimbólumának megtekintésére.",
+            "ro": "O oprire rapidă pentru a vedea simbolul industrial al orașului.",
+            "en": "A quick stop to see the industrial symbol of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Eisenhütten",
+            "hu": "Vaskohászati Múzeum",
+            "ro": "Muzeul Siderurgiei",
+            "en": "Museum of Ironworks"
+          },
+          "coords": [
+            18.682,
+            49.6825
+          ],
+          "category": "museums",
+          "arrive_at": "09:52",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Eingangs.",
+            "hu": "A bejárat közelében vannak kerékpártárolók.",
+            "ro": "Există suporturi pentru biciclete lângă intrare.",
+            "en": "There are bike racks available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Trinec",
+            "hu": "Trineci Kultúrház",
+            "ro": "Casa de Cultură Trinec",
+            "en": "Kulturhaus Trinec"
+          },
+          "coords": [
+            18.675,
+            49.675
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:31",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob es tagsüber Ausstellungen oder Veranstaltungen gibt.",
+            "hu": "Nézze meg, vannak-e napközbeni kiállítások vagy események.",
+            "ro": "Verificați dacă există expoziții sau evenimente pe timp de zi.",
+            "en": "Check if there are any daytime exhibitions or events."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldpark",
+            "hu": "Erdei park",
+            "ro": "Parcul Pădure",
+            "en": "Forest Park"
+          },
+          "coords": [
+            18.665,
+            49.67
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:59",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause. Fahren Sie auf den ausgewiesenen Wegen.",
+            "hu": "Ideális egy ebédszünetre. A kijelölt utakon kerékpározzon.",
+            "ro": "Ideal pentru o pauză de prânz. Pedalați pe cărările desemnate.",
+            "en": "Ideal for a lunch break. Ride on the designated paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Radweg am Fluss Olsa",
+            "hu": "Kerékpárút az Olza folyó mentén",
+            "ro": "Pista de biciclete de pe malul râului Olza",
+            "en": "Olza River Bike Path"
+          },
+          "coords": [
+            18.65,
+            49.685
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:49",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine lange, flache Fahrt entlang des Flusses, perfekt für den Nachmittag.",
+            "hu": "Élvezze a hosszú, sík utat a folyó mentén, tökéletes délutáni program.",
+            "ro": "Bucurați-vă de o plimbare lungă și plată de-a lungul râului, perfectă pentru după-amiază.",
+            "en": "Enjoy a long, flat ride along the river, perfect for the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Friedensplatz, nachdem Sie Ihr Fahrrad gesichert haben. Am Vormittag radeln Sie durch das industrielle Herz der Stadt und machen Halt am Eisenwerk-Monument und dem aufschlussreichen Museum. Mittags besuchen Sie das Kulturhaus, bevor Sie im Waldpark eine Pause einlegen. Der Nachmittag ist einer malerischen Fahrt auf dem Radweg am Fluss Olsa gewidmet, wo Sie die Naturlandschaft um Trinec in einem gemütlichen Tempo genießen können. Es ist eine perfekte Mischung aus urbaner Erkundung und natürlicher Schönheit.",
+        "hu": "Kezdje a kerékpártúrát a Béke térről, miután lezárta a biciklit. Délelőtt tekerjen át a város ipari szívén, megállva a Vasmű Emlékműnél és a tanulságos múzeumnál. Délben látogasson el a Kultúrházhoz, mielőtt szünetet tartana az Erdei parkban. A délutánt az Olza folyó menti festői kerékpárúton töltse, ahol kényelmes tempóban élvezheti a Trinec körüli természeti tájat. Ez a városi felfedezés és a természeti szépség tökéletes keveréke.",
+        "ro": "Începeți turul pe bicicletă din Piața Păcii, după ce v-ați asigurat bicicleta. Dimineața pedalați prin inima industrială a orașului, cu opriri la Monumentul Oțelăriei și la muzeul relevant. La prânz, vizitați Casa de Cultură înainte de a lua o pauză în Parcul Pădure. După-amiaza este dedicată unei plimbări pitorești pe pista de biciclete de pe malul râului Olza, bucurându-vă de peisajul natural din jurul Trinec într-un ritm relaxat. Este un amestec perfect de explorare urbană și frumusețe naturală.",
+        "en": "Kick off your bike tour from Peace Square after securing your ride. In the morning, pedal through the industrial heart of the city with stops at the Ironworks Monument and the insightful museum. At midday, visit the Kulturhaus before taking a break in the Forest Park. The afternoon is dedicated to a scenic ride along the Olza River bike path, enjoying the natural scenery around Trinec at a leisurely pace. It's a perfect blend of urban exploration and natural beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Gebratener Käse, ein tschechischer Klassiker, der schnell Energie liefert."
+          },
+          {
+            "name": "Pivní zahrádka (Biergarten)",
+            "tip": "Suchen Sie nach einem lokalen Biergarten für eine erfrischende Pause."
+          },
+          {
+            "name": "Pizza Coloseum Trinec",
+            "tip": "Eine gute Option für eine schnelle und sättigende Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Rántott sajt, egy cseh klasszikus, amely gyors energiát ad."
+          },
+          {
+            "name": "Pivní zahrádka (Sörkert)",
+            "tip": "Keressen egy helyi sörkertet egy frissítő szünetre."
+          },
+          {
+            "name": "Pizza Coloseum Trinec",
+            "tip": "Jó választás egy gyors és laktató ételhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Cașcaval pane, un clasic ceh care oferă energie rapidă."
+          },
+          {
+            "name": "Pivní zahrádka (Grădină de bere)",
+            "tip": "Căutați o grădină de bere locală pentru o pauză răcoritoare."
+          },
+          {
+            "name": "Pizza Coloseum Trinec",
+            "tip": "O opțiune bună pentru o masă rapidă și consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Fried cheese, a Czech classic that's a quick energy booster."
+          },
+          {
+            "name": "Pivní zahrádka (Beer Garden)",
+            "tip": "Look for a local beer garden for a refreshing break."
+          },
+          {
+            "name": "Pizza Coloseum Trinec",
+            "tip": "A solid option for a quick and filling meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Fluss Olsa",
+            "tip": "Die ruhigen Abschnitte des Weges sind perfekt, um dem Stadtlärm zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waldpark",
+            "tip": "Finden Sie eine abgelegene Bank und genießen Sie die Geräusche der Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút az Olza folyó mentén",
+            "tip": "Az út csendes szakaszai tökéletesek a város zajától való elszakadáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erdei park",
+            "tip": "Keressen egy félreeső padot, és élvezze a természet hangjait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul râului Olza",
+            "tip": "Secțiunile liniștite ale pistei sunt perfecte pentru a evada din zgomotul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Pădure",
+            "tip": "Găsiți o bancă retrasă și bucurați-vă de sunetele naturii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Olza River Bike Path",
+            "tip": "The quiet sections of the path are perfect for escaping the city noise.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Forest Park",
+            "tip": "Find a secluded bench and enjoy the sounds of nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäft",
+            "tip": "Suchen Sie nach Fahrradzubehör oder lokaler Sportbekleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportbolt",
+            "tip": "Keressen kerékpáros kiegészítőket vagy helyi sportruházatot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de sport",
+            "tip": "Căutați accesorii pentru biciclete sau îmbrăcăminte sportivă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports Shop",
+            "tip": "Look for any cycling accessories or local sportswear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen zu sichern.",
+          "Der Flussradweg ist flach und für alle Fitnesslevel geeignet.",
+          "Seien Sie im Stadtzentrum vorsichtig im Verkehr."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Hozzon magával lakatot, hogy lezárhassa a kerékpárt a megállóknál.",
+          "A folyó menti kerékpárút sík és minden edzettségi szintnek megfelel.",
+          "Legyen óvatos a forgalomban a városközpontban."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a porni.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Pista de pe malul râului este plată și potrivită pentru toate nivelurile de fitness.",
+          "Fiți atenți la trafic în centrul orașului."
+        ],
+        "en": [
+          "Check your tire pressure before you start.",
+          "Bring a lock to secure your bike at stops.",
+          "The river bike path is flat and suitable for all fitness levels.",
+          "Be cautious of traffic in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 21.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Javorový vrch",
+            "hu": "Javorový hegycsúcs",
+            "ro": "Vârful Javorový",
+            "en": "Javorový peak"
+          },
+          "coords": [
+            18.618,
+            49.635
+          ],
+          "category": "natural features",
+          "arrive_at": "09:30",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz und genießen Sie die Aussicht oder eine kurze Wanderung.",
+            "hu": "Hajtson fel a parkolóig, és élvezze a kilátást vagy tegyen egy rövid túrát.",
+            "ro": "Conduceți până la parcare și bucurați-vă de priveliște sau de o scurtă drumeție.",
+            "en": "Drive up to the parking area and enjoy the views or a short hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedensplatz (náměstí Svobody)",
+            "hu": "Béke tér (náměstí Svobody)",
+            "ro": "Piața Păcii (náměstí Svobody)",
+            "en": "Peace Square (náměstí Svobody)"
+          },
+          "coords": [
+            18.671,
+            49.6778
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:23",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 11,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in einem nahegelegenen Parkhaus, um den Stadtkern zu erkunden.",
+            "hu": "Parkolja le az autót egy közeli parkolóházban a belváros felfedezéséhez.",
+            "ro": "Parcați mașina într-o parcare din apropiere pentru a explora centrul.",
+            "en": "Park your car in a nearby garage to explore the city core."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Albrecht-Kirche",
+            "hu": "Szent Adalbert-templom",
+            "ro": "Biserica Sfântul Albert",
+            "en": "St. Albert's Church"
+          },
+          "coords": [
+            18.6745,
+            49.6785
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Friedensplatz.",
+            "hu": "Rövid séta a Béke térről.",
+            "ro": "La o scurtă plimbare de Piața Păcii.",
+            "en": "A short walk from Peace Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Eisenhütten",
+            "hu": "Vaskohászati Múzeum",
+            "ro": "Muzeul Siderurgiei",
+            "en": "Museum of Ironworks"
+          },
+          "coords": [
+            18.682,
+            49.6825
+          ],
+          "category": "museums",
+          "arrive_at": "12:44",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Spaziergang zum Museum führt Sie durch einen interessanten Teil der Stadt.",
+            "hu": "A múzeumhoz vezető séta a város egy érdekes részén vezet keresztül.",
+            "ro": "Plimbarea până la muzeu vă poartă printr-o parte interesantă a orașului.",
+            "en": "The walk to the museum takes you through an interesting part of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenwerk-Monument",
+            "hu": "Vasmű Emlékmű",
+            "ro": "Monumentul Oțelăriei",
+            "en": "Ironworks Monument"
+          },
+          "coords": [
+            18.68,
+            49.682
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:26",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben dem Museum, ein Muss für das Verständnis der Stadt.",
+            "hu": "Közvetlenül a múzeum mellett, kötelező a város megértéséhez.",
+            "ro": "Chiar lângă muzeu, esențial pentru a înțelege orașul.",
+            "en": "Right next to the museum, essential for understanding the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldpark",
+            "hu": "Erdei park",
+            "ro": "Parcul Pădure",
+            "en": "Forest Park"
+          },
+          "coords": [
+            18.665,
+            49.67
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Kehren Sie zu Ihrem Auto zurück und fahren Sie zum Park für einen entspannten Nachmittag.",
+            "hu": "Térjen vissza az autójához, majd vezessen a parkhoz egy pihentető délutánért.",
+            "ro": "Întoarceți-vă la mașină și conduceți până la parc pentru o după-amiază relaxantă.",
+            "en": "Retrieve your car and drive to the park for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit einer Fahrt zum Javorový vrch, um die atemberaubende Aussicht auf die Beskiden zu genießen. Nach diesem Naturerlebnis fahren Sie ins Zentrum von Trinec. Parken Sie Ihr Auto und erkunden Sie den ersten Cluster zu Fuß: Beginnen Sie am Friedensplatz, besuchen Sie die St.-Albrecht-Kirche und tauchen Sie dann tief in das industrielle Erbe im Museum der Eisenhütten und am nahegelegenen Monument ein. Am Nachmittag holen Sie Ihr Auto und fahren zum zweiten Cluster, dem Waldpark, wo Sie einen ausgedehnten, erholsamen Spaziergang genießen können, der einen friedlichen Abschluss Ihres Erkundungstages bildet.",
+        "hu": "Kezdje a napot egy autózással a Javorový hegycsúcsra, hogy élvezze a Beszkidekre nyíló lélegzetelállító kilátást. E természeti élmény után irány Trinec központja. Parkolja le autóját, és fedezze fel gyalog az első látnivaló-csoportot: induljon a Béke térről, látogassa meg a Szent Adalbert-templomot, majd merüljön el mélyen az ipari örökségben a Vaskohászati Múzeumban és a közeli emlékműnél. Délután üljön vissza az autóba, és vezessen a második csoporthoz, az Erdei parkhoz, ahol egy hosszú, pihentető sétát tehet, békésen lezárva a felfedezéssel töltött napot.",
+        "ro": "Începeți ziua cu o excursie cu mașina la vârful Javorový pentru vederi panoramice uimitoare ale Munților Beskizi. După această incursiune în natură, mergeți în centrul orașului Trinec. Parcați mașina și explorați primul grup de atracții pe jos: începeți din Piața Păcii, vizitați Biserica Sf. Albert, apoi aprofundați moștenirea industrială la Muzeul Siderurgiei și la monumentul din apropiere. După-amiaza, recuperați mașina și conduceți spre al doilea grup, Parcul Pădure, pentru o plimbare lungă și relaxantă, încheind pașnic ziua de explorare.",
+        "en": "Start your day with a drive to Javorový peak for stunning panoramic views of the Beskydy Mountains. After this natural escape, head into the center of Trinec. Park your car and explore the first cluster on foot: start at Peace Square, visit St. Albert's Church, then delve deep into the industrial heritage at the Museum of Ironworks and the nearby monument. In the afternoon, retrieve your car and drive to the second cluster, the Forest Park, for a long, relaxing walk, providing a peaceful end to your day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gulasch mit Knödeln",
+            "tip": "Ein herzhaftes Gericht, perfekt nach einer morgendlichen Wanderung."
+          },
+          {
+            "name": "Restaurace Steelhouse",
+            "tip": "Bietet eine moderne Interpretation der lokalen Küche in einem stilvollen Ambiente."
+          },
+          {
+            "name": "Slezská krčma",
+            "tip": "Eine traditionelle schlesische Taverne für ein authentisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gulyás knédlivel",
+            "tip": "Kiadós étel, tökéletes egy reggeli túra után."
+          },
+          {
+            "name": "Restaurace Steelhouse",
+            "tip": "A helyi konyha modern értelmezését kínálja stílusos környezetben."
+          },
+          {
+            "name": "Slezská krčma",
+            "tip": "Hagyományos sziléziai kocsma egy autentikus élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș cu găluște (knedlíky)",
+            "tip": "O mâncare consistentă, perfectă după o drumeție de dimineață."
+          },
+          {
+            "name": "Restaurace Steelhouse",
+            "tip": "Oferă o interpretare modernă a bucătăriei locale într-un cadru elegant."
+          },
+          {
+            "name": "Slezská krčma",
+            "tip": "O tavernă tradițională sileziană pentru o experiență autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goulash with dumplings",
+            "tip": "A hearty meal, perfect after a morning hike."
+          },
+          {
+            "name": "Restaurace Steelhouse",
+            "tip": "Offers a modern take on local cuisine in a stylish setting."
+          },
+          {
+            "name": "Slezská krčma",
+            "tip": "A traditional Silesian tavern for an authentic experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Javorový vrch",
+            "tip": "Der Gipfel bietet die beste Aussicht und eine friedliche Atmosphäre am Morgen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Waldpark",
+            "tip": "Die abgelegenen Wege sind ideal, um den Menschenmassen zu entfliehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Javorový hegycsúcs",
+            "tip": "A csúcs kínálja a legjobb kilátást és a békés reggeli hangulatot.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Erdei park",
+            "tip": "A félreeső ösvények ideálisak a tömeg elkerülésére.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Javorový",
+            "tip": "Vârful oferă cele mai bune priveliști și o atmosferă pașnică dimineața.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Pădure",
+            "tip": "Căile retrase sunt ideale pentru a scăpa de aglomerație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Javorový peak",
+            "tip": "The summit offers the best views and a peaceful atmosphere in the morning.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Forest Park",
+            "tip": "The secluded paths are ideal for escaping the crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerk aus Stahl",
+            "tip": "Suchen Sie nach kleinen, von den Stahlwerken inspirierten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Acélból készült kézműves termékek",
+            "tip": "Keressen apró, a vasmű által ihletett szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat din oțel",
+            "tip": "Căutați mici suveniruri inspirate de oțelării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Steel handicrafts",
+            "tip": "Look for small souvenirs inspired by the ironworks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkmöglichkeiten und -gebühren im Stadtzentrum im Voraus.",
+          "Planen Sie zusätzliche Zeit für den Verkehr während der Stoßzeiten ein.",
+          "Ein GPS ist für die Navigation zum Javorový vrch unerlässlich.",
+          "Kombinieren Sie Ihren Besuch mit Zielen in der weiteren Beskiden-Region."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről és díjakról a városközpontban.",
+          "Tervezzen plusz időt a csúcsforgalomra.",
+          "GPS elengedhetetlen a Javorový hegycsúcshoz való navigáláshoz.",
+          "Kombinálja látogatását a tágabb Beszkidek-régió úti céljaival."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele din centrul orașului în avans.",
+          "Planificați timp suplimentar pentru trafic în orele de vârf.",
+          "Un GPS este esențial pentru a naviga spre vârful Javorový.",
+          "Combinați vizita cu destinații din regiunea mai largă a Beskizilor."
+        ],
+        "en": [
+          "Check parking options and fees in the city center beforehand.",
+          "Allow extra time for traffic during peak hours.",
+          "A GPS is essential for navigating to Javorový peak.",
+          "Combine your visit with destinations in the wider Beskydy region."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Friedensplatz (náměstí Svobody)",
+            "hu": "Béke tér (náměstí Svobody)",
+            "ro": "Piața Păcii (náměstí Svobody)",
+            "en": "Peace Square (náměstí Svobody)"
+          },
+          "coords": [
+            18.671,
+            49.6778
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der zentrale Busbahnhof ist in der Nähe und bietet einen einfachen Zugang zum Platz.",
+            "hu": "A központi buszpályaudvar a közelben van, könnyű hozzáférést biztosítva a térhez.",
+            "ro": "Autogara centrală este în apropiere, oferind acces ușor la piață.",
+            "en": "The main bus hub is nearby, providing easy access to the square."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Albrecht-Kirche",
+            "hu": "Szent Adalbert-templom",
+            "ro": "Biserica Sfântul Albert",
+            "en": "St. Albert's Church"
+          },
+          "coords": [
+            18.6745,
+            49.6785
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Friedensplatz entfernt.",
+            "hu": "Csak egy rövid séta a Béke térről.",
+            "ro": "La doar o scurtă plimbare de Piața Păcii.",
+            "en": "Just a short walk from Peace Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirche",
+            "hu": "Evangélikus templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Evangelical Church"
+          },
+          "coords": [
+            18.667,
+            49.6801
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:42",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihre Erkundung des Stadtzentrums zu Fuß fort.",
+            "hu": "Folytassa a városközpont felfedezését gyalog.",
+            "ro": "Continuați explorarea pe jos a centrului orașului.",
+            "en": "Continue your on-foot exploration of the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Eisenhütten",
+            "hu": "Vaskohászati Múzeum",
+            "ro": "Muzeul Siderurgiei",
+            "en": "Museum of Ironworks"
+          },
+          "coords": [
+            18.682,
+            49.6825
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus vom Stadtzentrum, um zum Museumsviertel zu gelangen.",
+            "hu": "Menjen helyi busszal a városközpontból a múzeumi negyedbe.",
+            "ro": "Luați un autobuz local din centrul orașului pentru a ajunge în zona muzeului.",
+            "en": "Take a local bus from the city center to get to the museum district."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenwerk-Monument",
+            "hu": "Vasmű Emlékmű",
+            "ro": "Monumentul Oțelăriei",
+            "en": "Ironworks Monument"
+          },
+          "coords": [
+            18.68,
+            49.682
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:32",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gleich um die Ecke vom Museum.",
+            "hu": "A múzeum sarkánál található.",
+            "ro": "Chiar după colț de la muzeu.",
+            "en": "Just around the corner from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldpark",
+            "hu": "Erdei park",
+            "ro": "Parcul Pădure",
+            "en": "Forest Park"
+          },
+          "coords": [
+            18.665,
+            49.67
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:28",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt bringt Sie zu diesem grünen Rückzugsort.",
+            "hu": "Egy újabb rövid buszút elviszi ehhez a zöld menedékhelyhez.",
+            "ro": "O altă călătorie scurtă cu autobuzul vă va duce la acest refugiu verde.",
+            "en": "Another short bus ride will take you to this green retreat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit der Ankunft am Friedensplatz, dem zentralen Verkehrsknotenpunkt. Der Vormittag ist einem Spaziergang gewidmet, bei dem Sie die Kirchen St. Albrecht und die Evangelische Kirche im Stadtzentrum erkunden. Mittags nehmen Sie einen Bus zum zweiten Cluster, um in das industrielle Erbe im Museum der Eisenhütten und am Eisenwerk-Monument einzutauchen. Für den Nachmittag bringt Sie eine weitere Busfahrt zum Waldpark, wo Sie sich entspannen und die Natur genießen können. Dieser Plan kombiniert effiziente Busfahrten zwischen den Clustern mit angenehmen Spaziergängen innerhalb der Viertel.",
+        "hu": "A nap a Béke téren, a központi közlekedési csomóponton kezdődik. A délelőttöt egy sétával tölti, felfedezve a Szent Adalbert és az Evangélikus templomot a városközpontban. Délben busszal utazik a második látnivaló-csoporthoz, hogy elmerüljön az ipari örökségben a Vaskohászati Múzeumban és az emlékműnél. Délután egy újabb buszjárat viszi az Erdei parkba, ahol pihenhet és élvezheti a természetet. Ez a terv hatékony buszutakat kombinál a klaszterek között kellemes sétákkal a negyedeken belül.",
+        "ro": "Ziua dvs. începe odată cu sosirea în Piața Păcii, nodul central de transport. Dimineața este dedicată unui tur pietonal, explorând bisericile Sf. Albert și Evanghelică din centrul orașului. La prânz, luați un autobuz către al doilea grup pentru a vă cufunda în moștenirea industrială la Muzeul Siderurgiei și Monumentul Oțelăriei. Pentru după-amiază, o altă călătorie cu autobuzul vă duce la Parcul Pădure pentru relaxare și natură. Acest plan îmbină călătoriile eficiente cu autobuzul între grupuri cu plimbări plăcute în interiorul cartierelor.",
+        "en": "Your day starts by arriving at the central transit hub of Peace Square. The morning is a walking cluster, exploring St. Albert's Church and the Evangelical Church in the city center. At midday, you'll take a bus to the second cluster to immerse yourself in industrial heritage at the Museum of Ironworks and the Ironworks Monument. For the afternoon, another transit hop takes you to the Forest Park for relaxation and nature. This plan mixes efficient bus travel between clusters with pleasant walks within the districts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Párek v rohlíku",
+            "tip": "Ein tschechischer Hotdog, ein schneller und einfacher Snack für unterwegs."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Kartoffelpuffer, perfekt für einen schnellen Imbiss von einem Straßenverkäufer."
+          },
+          {
+            "name": "Lokální Cukrárna (Konditorei)",
+            "tip": "Probieren Sie lokales Gebäck für einen Zuckerschub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Párek v rohlíku",
+            "tip": "Cseh hot dog, gyors és egyszerű harapnivaló útközben."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Tócsni, tökéletes egy gyors falathoz egy utcai árustól."
+          },
+          {
+            "name": "Helyi Cukrárna (Cukrászda)",
+            "tip": "Kóstoljon meg helyi süteményeket egy kis energiáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Párek v rohlíku",
+            "tip": "Un hotdog ceh, o gustare rapidă și ușoară din mers."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Clătite din cartofi, perfecte pentru o gustare rapidă de la un vânzător ambulant."
+          },
+          {
+            "name": "Cukrárna (Cofetărie) locală",
+            "tip": "Încercați produse de patiserie locale pentru un plus de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Párek v rohlíku",
+            "tip": "A Czech hot dog, a quick and easy snack on the go."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Potato pancakes, perfect for a quick bite from a street vendor."
+          },
+          {
+            "name": "Local Cukrárna (Pastry Shop)",
+            "tip": "Try some local pastries for a sugar rush."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Evangelische Kirche",
+            "tip": "Das moderne Innere ist oft sehr ruhig und friedlich.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Waldpark",
+            "tip": "Leicht mit dem Bus erreichbar, um eine Dosis Natur und Ruhe zu bekommen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Evangélikus templom",
+            "tip": "A modern belső tér gyakran nagyon csendes és békés.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Erdei park",
+            "tip": "Könnyen megközelíthető busszal egy adag természetért és nyugalomért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Evanghelică",
+            "tip": "Interiorul modern este adesea foarte tăcut și pașnic.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Pădure",
+            "tip": "Ușor accesibil cu autobuzul pentru o doză de natură și liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Evangelical Church",
+            "tip": "The modern interior is often very quiet and peaceful.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Forest Park",
+            "tip": "Easily reachable by bus for a dose of nature and quiet.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trafika (Kiosk)",
+            "tip": "Kaufen Sie hier Ihre Fahrkarten und vielleicht eine Postkarte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trafika (Újságos)",
+            "tip": "Itt veheti meg a jegyeket és talán egy képeslapot is."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trafika (Chioșc)",
+            "tip": "Cumpărați-vă biletele de aici și poate o carte poștală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trafika (Kiosk)",
+            "tip": "Buy your transit tickets here and maybe a postcard."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel für das beste Preis-Leistungs-Verhältnis.",
+          "Laden Sie die Fahrplan-App herunter, um Busse in Echtzeit zu verfolgen.",
+          "Beachten Sie, dass die Busfrequenzen abends und am Wochenende geringer sein können.",
+          "Validieren Sie Ihr Ticket beim Einsteigen in den Bus, um eine Strafe zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a legjobb ár-érték arány érdekében.",
+          "Töltse le a menetrendi alkalmazást a buszok valós idejű követéséhez.",
+          "Vegye figyelembe, hogy a buszok ritkábban járhatnak este és hétvégén.",
+          "Érvényesítse a jegyét felszálláskor, hogy elkerülje a büntetést."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru cel mai bun raport calitate-preț.",
+          "Descărcați aplicația de orare pentru a urmări autobuzele în timp real.",
+          "Rețineți că frecvența autobuzelor poate fi mai mică seara și în weekend.",
+          "Validați biletul la urcare pentru a evita o amendă."
+        ],
+        "en": [
+          "Purchase a day pass for public transport for the best value.",
+          "Download the local transit app for real-time bus tracking.",
+          "Be aware that bus frequencies may be lower in the evenings and on weekends.",
+          "Validate your ticket upon boarding the bus to avoid a fine."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1446 @@
+{
+  "city_id": "latvia-ludza-cities-v2",
+  "anchor": {
+    "name": "Ludza",
+    "coords": [
+      27.7247,
+      56.5475
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi park",
+            "ro": "Parcul orașului",
+            "en": "Town Park"
+          },
+          "coords": [
+            27.7225,
+            56.5472
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für einen Morgenkaffee auf einer der Bänke.",
+            "hu": "Ideális hely egy reggeli kávéhoz az egyik padon.",
+            "ro": "Un loc ideal pentru a savura o cafea de dimineață pe una dintre bănci.",
+            "en": "An ideal spot for a morning coffee on one of the benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Ludza",
+            "hu": "Ludza Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Ludza",
+            "en": "Ludza Local History Museum"
+          },
+          "coords": [
+            27.7238,
+            56.548
+          ],
+          "category": "museums",
+          "arrive_at": "09:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen zur latgalischen Kultur.",
+            "hu": "Koncentráljon a latgal kultúrát bemutató kiállításokra.",
+            "ro": "Concentrează-te pe exponatele dedicate culturii latgaliene.",
+            "en": "Focus on the exhibits dedicated to the Latgalian culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Synagoge",
+            "hu": "Nagy Zsinagóga",
+            "ro": "Marea Sinagogă",
+            "en": "Great Synagogue"
+          },
+          "coords": [
+            27.7255,
+            56.5465
+          ],
+          "category": "museums",
+          "arrive_at": "11:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine der ältesten Holzsynagogen in den baltischen Staaten. Achten Sie auf die Details.",
+            "hu": "Az egyik legrégebbi fa zsinagóga a balti államokban. Figyeljen a részletekre.",
+            "ro": "Una dintre cele mai vechi sinagogi de lemn din statele baltice. Fii atent la detalii.",
+            "en": "One of the oldest wooden synagogues in the Baltic States. Pay attention to the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Katholische Kirche Mariä Himmelfahrt",
+            "hu": "Mária Mennybemenetele katolikus templom",
+            "ro": "Biserica Catolică Adormirea Maicii Domnului",
+            "en": "Catholic Church of the Assumption"
+          },
+          "coords": [
+            27.7265,
+            56.5478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um der Mittagshitze zu entfliehen und die Ruhe zu genießen.",
+            "hu": "Szép hely a déli hőség elől való menekülésre és a csend élvezetére.",
+            "ro": "Un loc frumos pentru a scăpa de căldura amiezii și a te bucura de liniște.",
+            "en": "A beautiful place to escape the midday heat and enjoy the tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Ludza",
+            "hu": "Ludza Várromjai",
+            "ro": "Ruinele castelului Ludza",
+            "en": "Ludza Castle Ruins"
+          },
+          "coords": [
+            27.728,
+            56.549
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beste Zeit für Fotos ist am späten Nachmittag. Bringen Sie Wasser mit.",
+            "hu": "A legjobb idő a fotózásra a késő délután. Hozz vizet magaddal.",
+            "ro": "Cel mai bun moment pentru fotografii este după-amiaza târziu. Adu apă cu tine.",
+            "en": "Best time for photos is late afternoon. Bring water with you."
+          }
+        },
+        {
+          "name": {
+            "de": "Orthodoxe Kirche",
+            "hu": "Ortodox templom",
+            "ro": "Biserica Ortodoxă",
+            "en": "Orthodox Church"
+          },
+          "coords": [
+            27.7295,
+            56.548
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beachten Sie die deutlichen architektonischen Unterschiede zur katholischen Kirche.",
+            "hu": "Figyelje meg a katolikus templomtól való markáns építészeti különbségeket.",
+            "ro": "Observați diferențele arhitecturale distincte față de biserica catolică.",
+            "en": "Note the distinct architectural differences from the Catholic church."
+          }
+        },
+        {
+          "name": {
+            "de": "See-Promenade",
+            "hu": "Tóparti sétány",
+            "ro": "Promenada lacului",
+            "en": "Lake Promenade"
+          },
+          "coords": [
+            27.7285,
+            56.5455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang am Ende des Tages. Suchen Sie nach den Holzskulpturen.",
+            "hu": "Tökéletes egy pihentető sétához a nap végén. Keresse a faszobrokat.",
+            "ro": "Perfect pentru o plimbare relaxantă la sfârșitul zilei. Caută sculpturile din lemn.",
+            "en": "Perfect for a relaxing stroll at the end of the day. Look for the wooden sculptures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im ruhigen Stadtpark, bevor Sie in die reiche Geschichte Ludzas im Heimatmuseum eintauchen. Am Vormittag erkunden Sie das jüdische Erbe in der beeindruckenden Großen Synagoge und finden einen Moment der Besinnung in der katholischen Kirche. Der Nachmittag ist für die Erklimmung der alten Burgruinen reserviert, die einen Panoramablick bieten. Später bewundern Sie die Architektur der orthodoxen Kirche. Beenden Sie Ihren Tag mit einem friedlichen Spaziergang entlang der See-Promenade, während die Sonne untergeht und ein warmes Licht über die Landschaft wirft.",
+        "hu": "Kezdje a napot a csendes Városi parkban, mielőtt elmerülne Ludza gazdag történelmében a Helytörténeti Múzeumban. A délelőtt folyamán fedezze fel a zsidó örökséget a lenyűgöző Nagy Zsinagógában, és találjon egy pillanatnyi nyugalmat a katolikus templomban. A délután a régi várromok megmászására van fenntartva, ahonnan panorámás kilátás nyílik. Később csodálja meg az ortodox templom építészetét. Zárja a napot egy békés sétával a tóparti sétányon, miközben a lemenő nap meleg fénnyel árasztja el a tájat.",
+        "ro": "Începeți ziua în liniștitul Parc al Orașului înainte de a vă cufunda în istoria bogată a Ludzei la Muzeul de Istorie Locală. Dimineața, explorați moștenirea evreiască la impresionanta Mare Sinagogă și găsiți un moment de reflecție la biserica catolică. După-amiaza este rezervată pentru urcarea pe vechile ruine ale castelului, care oferă vederi panoramice. Mai târziu, admirați arhitectura bisericii ortodoxe. Încheiați-vă ziua cu o plimbare pașnică de-a lungul promenadei lacului, în timp ce soarele apune, aruncând o strălucire caldă peste peisaj.",
+        "en": "Start your day in the quiet Town Park before diving into Ludza's rich history at the Local History Museum. In the morning, explore the Jewish heritage at the impressive Great Synagogue and find a moment of reflection at the Catholic church. The afternoon is reserved for climbing the ancient castle ruins, which offer panoramic views. Later, admire the architecture of the Orthodox church. End your day with a peaceful stroll along the Lake Promenade as the sun sets, casting a warm glow over the landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Probieren Sie diesen einzigartigen lettischen Karotten- und Kartoffelkuchen. Suchen Sie nach lokalen Bäckereien."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Das dunkle Roggenbrot ist ein Grundnahrungsmittel. Köstlich mit lokalem Honig oder Käse."
+          },
+          {
+            "name": "Kvass",
+            "tip": "Ein traditionelles fermentiertes Getränk aus Roggenbrot, sehr erfrischend an einem warmen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Kóstolja meg ezt az egyedi lett répa- és burgonyatortát. Keresse a helyi pékségekben."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "A sötét rozskenyér alapvető élelmiszer. Finom helyi mézzel vagy sajttal."
+          },
+          {
+            "name": "Kvass",
+            "tip": "Hagyományos, rozskenyérből erjesztett ital, nagyon frissítő egy meleg napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Încearcă această tartă letonă unică cu morcovi și cartofi. Caută în brutăriile locale."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Pâinea neagră de secară este un aliment de bază. Delicioasă cu miere sau brânză locală."
+          },
+          {
+            "name": "Kvass",
+            "tip": "O băutură tradițională fermentată din pâine de secară, foarte răcoritoare într-o zi caldă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Try this unique Latvian carrot and potato tart. Look for it in local bakeries."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "The dark rye bread is a staple. Delicious with local honey or cheese."
+          },
+          {
+            "name": "Kvass",
+            "tip": "A traditional fermented beverage made from rye bread, very refreshing on a warm day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tālavija-Hügel",
+            "tip": "Ein kurzer Spaziergang für eine ruhige Aussicht über die Stadt und die Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Ludza-Sees",
+            "tip": "Finden Sie einen abgelegenen Platz am Großen Ludza-See für einen Moment der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innerhalb der Burgruine",
+            "tip": "Trotz seiner Popularität können Sie ruhige Ecken finden, um die alte Atmosphäre aufzusaugen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tālavija-hegy",
+            "tip": "Egy rövid séta a városra és a vidékre nyíló csendes kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ludza-tó partja",
+            "tip": "Keressen egy félreeső helyet a Nagy Ludza-tónál egy pillanatnyi békéért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A várromokon belül",
+            "tip": "Népszerűsége ellenére találhat csendes zugokat, ahol magába szívhatja az ősi hangulatot.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Tālavija",
+            "tip": "O scurtă plimbare pentru o priveliște liniștită asupra orașului și a peisajului rural.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul Lacului Ludza",
+            "tip": "Găsiți un loc retras lângă Lacul Mare Ludza pentru un moment de pace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "În interiorul ruinelor castelului",
+            "tip": "În ciuda popularității sale, puteți găsi colțuri liniștite pentru a absorbi atmosfera antică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tālavija Hill",
+            "tip": "A short walk for a quiet view over the town and countryside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Shores of Lake Ludza",
+            "tip": "Find a secluded spot by the Great Ludza Lake for a moment of peace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Inside the Castle Ruins",
+            "tip": "Despite its popularity, you can find quiet corners to soak up the ancient atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigten Leinenprodukten und Keramik, die typisch für die Region Latgale sind."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Der Shop im Heimatmuseum Ludza bietet oft einzigartige Souvenirs mit Bezug zur lokalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézzel készített lenvászon termékeket és kerámiákat, amelyek jellemzőek a Latgale régióra."
+          },
+          {
+            "name": "Múzeumi bolt",
+            "tip": "A Ludza Helytörténeti Múzeum boltja gyakran kínál egyedi, a helyi történelemhez kapcsolódó ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse artizanale din in și ceramică, tipice regiunii Latgale."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Magazinul de la Muzeul de Istorie Locală Ludza oferă adesea suveniruri unice legate de istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade linen products and ceramics, typical of the Latgale region."
+          },
+          {
+            "name": "Museum Shop",
+            "tip": "The shop at the Ludza Local History Museum often has unique souvenirs related to local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt ist und sich am besten zu Fuß erkunden lässt.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Nehmen Sie Bargeld mit, da kleinere Geschäfte oder Marktstände möglicherweise keine Karten akzeptieren.",
+          "Überprüfen Sie die Öffnungszeiten des Museums und der Synagoge im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont kompakt és a legjobb gyalog felfedezni.",
+          "A legtöbb látnivaló közel van egymáshoz.",
+          "Vigyen magával készpénzt, mert a kisebb boltok vagy piaci standok nem mindig fogadnak el kártyát.",
+          "Előre ellenőrizze a múzeum és a zsinagóga nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este compact și cel mai bine explorat pe jos.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă.",
+          "Luați numerar, deoarece magazinele mai mici sau tarabele din piață s-ar putea să nu accepte carduri.",
+          "Verificați în avans orele de deschidere ale muzeului și sinagogii."
+        ],
+        "en": [
+          "Wear comfortable shoes as the town center is compact and best explored on foot.",
+          "Most sights are located close to each other.",
+          "Bring some cash, as smaller shops or market stalls might not accept cards.",
+          "Check the opening hours for the museum and synagogue in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi park",
+            "ro": "Parcul orașului",
+            "en": "Town Park"
+          },
+          "coords": [
+            27.7225,
+            56.5472
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und machen Sie einen kurzen Spaziergang, bevor Sie Ihre Tour beginnen.",
+            "hu": "Zárja le a kerékpárt, és tegyen egy rövid sétát, mielőtt elkezdi a túrát.",
+            "ro": "Încuie-ți bicicleta și fă o scurtă plimbare înainte de a începe turul.",
+            "en": "Lock up your bike and take a short walk before starting your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Tālavija-Hügel",
+            "hu": "Tālavija-hegy",
+            "ro": "Dealul Tālavija",
+            "en": "Tālavija Hill"
+          },
+          "coords": [
+            27.735,
+            56.55
+          ],
+          "category": "natural features",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist die Aussicht wert. Ein großartiger Ort, um die Stadt von oben zu sehen.",
+            "hu": "A mászás megéri a kilátást. Remek hely a város felülről való megtekintésére.",
+            "ro": "Urcarea merită priveliștea. Un loc minunat pentru a vedea orașul de sus.",
+            "en": "The climb is worth the view. A great spot to see the town from above."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Ludza",
+            "hu": "Ludza Várromjai",
+            "ro": "Ruinele castelului Ludza",
+            "en": "Ludza Castle Ruins"
+          },
+          "coords": [
+            27.728,
+            56.549
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad am Fuße des Hügels und erkunden Sie die Ruinen zu Fuß.",
+            "hu": "Parkolja le a kerékpárt a hegy lábánál, és fedezze fel a romokat gyalog.",
+            "ro": "Parchează-ți bicicleta la poalele dealului și explorează ruinele pe jos.",
+            "en": "Park your bike at the base of the hill and explore the ruins on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Katholische und Orthodoxe Kirchen",
+            "hu": "Katolikus és Ortodox templomok",
+            "ro": "Bisericile Catolică și Ortodoxă",
+            "en": "Catholic and Orthodox Churches"
+          },
+          "coords": [
+            27.727,
+            56.5484
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die beiden Hauptkirchen liegen nahe beieinander, ideal für einen kurzen Halt.",
+            "hu": "A két fő templom közel van egymáshoz, ideális egy rövid megállóhoz.",
+            "ro": "Cele două biserici principale sunt apropiate, ideale pentru o oprire rapidă.",
+            "en": "The two main churches are close together, perfect for a quick stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Synagoge",
+            "hu": "Nagy Zsinagóga",
+            "ro": "Marea Sinagogă",
+            "en": "Great Synagogue"
+          },
+          "coords": [
+            27.7255,
+            56.5465
+          ],
+          "category": "museums",
+          "arrive_at": "12:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Muss, um die multikulturelle Geschichte der Stadt zu verstehen.",
+            "hu": "Kötelező látnivaló a város multikulturális történelmének megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege istoria multiculturală a orașului.",
+            "en": "A must-visit to understand the city's multicultural history."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Ludza",
+            "hu": "Ludza Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Ludza",
+            "en": "Ludza Local History Museum"
+          },
+          "coords": [
+            27.7238,
+            56.548
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Planen Sie nach dem Mittagessen genügend Zeit ein, um die Sammlung in Ruhe zu erkunden.",
+            "hu": "Ebéd után szánjon elegendő időt a gyűjtemény nyugodt felfedezésére.",
+            "ro": "Planifică-ți suficient timp după prânz pentru a explora colecția pe îndelete.",
+            "en": "Plan enough time after lunch to explore the collection at your leisure."
+          }
+        },
+        {
+          "name": {
+            "de": "See-Promenade",
+            "hu": "Tóparti sétány",
+            "ro": "Promenada lacului",
+            "en": "Lake Promenade"
+          },
+          "coords": [
+            27.7285,
+            56.5455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:02",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um Ihre Radtour mit einer entspannten Fahrt am Wasser ausklingen zu lassen.",
+            "hu": "Tökéletes hely a kerékpártúra befejezéséhez egy pihentető tekeréssel a vízparton.",
+            "ro": "Locul perfect pentru a încheia turul cu bicicleta cu o plimbare relaxantă pe malul apei.",
+            "en": "The perfect place to end your bike tour with a relaxing ride by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Stadtpark und fahren Sie dann zum Tālavija-Hügel für einen atemberaubenden Morgenblick. Rollen Sie hinunter zu den historischen Burgruinen und verbringen Sie Zeit damit, die alten Mauern zu erkunden. Am Mittag besuchen Sie die nahe gelegenen katholischen und orthodoxen Kirchen, bevor Sie das jüdische Viertel mit seiner beeindruckenden Synagoge entdecken. Am Nachmittag tauchen Sie im Heimatmuseum tief in die lokale Kultur ein. Beenden Sie den Tag mit einer gemütlichen Fahrt entlang der malerischen See-Promenade, während das Licht weicher wird.",
+        "hu": "Kezdje a kerékpártúrát a Városi parknál, majd tekerjen fel a Tālavija-hegyre a lélegzetelállító reggeli kilátásért. Guruljon le a történelmi várromokhoz, és töltsön időt a régi falak felfedezésével. Délben látogassa meg a közeli katolikus és ortodox templomokat, mielőtt felfedezné a zsidó negyedet a lenyűgöző zsinagógával. Délután merüljön el a helyi kultúrában a Helytörténeti Múzeumban. Zárja a napot egy kellemes tekeréssel a festői tóparti sétányon, ahogy a fények lágyulnak.",
+        "ro": "Începeți turul cu bicicleta din Parcul Orașului, apoi mergeți spre Dealul Tālavija pentru o priveliște matinală uluitoare. Coborâți spre ruinele istorice ale castelului și petreceți timp explorând zidurile vechi. La prânz, vizitați bisericile catolică și ortodoxă din apropiere înainte de a descoperi cartierul evreiesc cu sinagoga sa impresionantă. După-amiaza, pătrundeți adânc în cultura locală la Muzeul de Istorie Locală. Încheiați ziua cu o plimbare pe îndelete de-a lungul pitoreștii promenade a lacului, pe măsură ce lumina se stinge.",
+        "en": "Start your bike tour from the Town Park, then head to Tālavija Hill for a breathtaking morning view. Roll down to the historic castle ruins and spend time exploring the ancient walls. At midday, visit the nearby Catholic and Orthodox churches before discovering the Jewish quarter with its impressive synagogue. In the afternoon, delve deep into the local culture at the Local History Museum. End the day with a leisurely ride along the scenic Lake Promenade as the light softens."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Probieren Sie diesen einzigartigen lettischen Karotten- und Kartoffelkuchen. Suchen Sie nach lokalen Bäckereien."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Das dunkle Roggenbrot ist ein Grundnahrungsmittel. Köstlich mit lokalem Honig oder Käse."
+          },
+          {
+            "name": "Kvass",
+            "tip": "Ein traditionelles fermentiertes Getränk aus Roggenbrot, sehr erfrischend an einem warmen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Kóstolja meg ezt az egyedi lett répa- és burgonyatortát. Keresse a helyi pékségekben."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "A sötét rozskenyér alapvető élelmiszer. Finom helyi mézzel vagy sajttal."
+          },
+          {
+            "name": "Kvass",
+            "tip": "Hagyományos, rozskenyérből erjesztett ital, nagyon frissítő egy meleg napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Încearcă această tartă letonă unică cu morcovi și cartofi. Caută în brutăriile locale."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Pâinea neagră de secară este un aliment de bază. Delicioasă cu miere sau brânză locală."
+          },
+          {
+            "name": "Kvass",
+            "tip": "O băutură tradițională fermentată din pâine de secară, foarte răcoritoare într-o zi caldă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Try this unique Latvian carrot and potato tart. Look for it in local bakeries."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "The dark rye bread is a staple. Delicious with local honey or cheese."
+          },
+          {
+            "name": "Kvass",
+            "tip": "A traditional fermented beverage made from rye bread, very refreshing on a warm day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tālavija-Hügel",
+            "tip": "Ein kurzer Spaziergang für eine ruhige Aussicht über die Stadt und die Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Ludza-Sees",
+            "tip": "Finden Sie einen abgelegenen Platz am Großen Ludza-See für einen Moment der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innerhalb der Burgruine",
+            "tip": "Trotz seiner Popularität können Sie ruhige Ecken finden, um die alte Atmosphäre aufzusaugen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tālavija-hegy",
+            "tip": "Egy rövid séta a városra és a vidékre nyíló csendes kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ludza-tó partja",
+            "tip": "Keressen egy félreeső helyet a Nagy Ludza-tónál egy pillanatnyi békéért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A várromokon belül",
+            "tip": "Népszerűsége ellenére találhat csendes zugokat, ahol magába szívhatja az ősi hangulatot.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Tālavija",
+            "tip": "O scurtă plimbare pentru o priveliște liniștită asupra orașului și a peisajului rural.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul Lacului Ludza",
+            "tip": "Găsiți un loc retras lângă Lacul Mare Ludza pentru un moment de pace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "În interiorul ruinelor castelului",
+            "tip": "În ciuda popularității sale, puteți găsi colțuri liniștite pentru a absorbi atmosfera antică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tālavija Hill",
+            "tip": "A short walk for a quiet view over the town and countryside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Shores of Lake Ludza",
+            "tip": "Find a secluded spot by the Great Ludza Lake for a moment of peace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Inside the Castle Ruins",
+            "tip": "Despite its popularity, you can find quiet corners to soak up the ancient atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigten Leinenprodukten und Keramik, die typisch für die Region Latgale sind."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Der Shop im Heimatmuseum Ludza bietet oft einzigartige Souvenirs mit Bezug zur lokalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézzel készített lenvászon termékeket és kerámiákat, amelyek jellemzőek a Latgale régióra."
+          },
+          {
+            "name": "Múzeumi bolt",
+            "tip": "A Ludza Helytörténeti Múzeum boltja gyakran kínál egyedi, a helyi történelemhez kapcsolódó ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse artizanale din in și ceramică, tipice regiunii Latgale."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Magazinul de la Muzeul de Istorie Locală Ludza oferă adesea suveniruri unice legate de istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade linen products and ceramics, typical of the Latgale region."
+          },
+          {
+            "name": "Museum Shop",
+            "tip": "The shop at the Ludza Local History Museum often has unique souvenirs related to local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Die Straßen können uneben sein, seien Sie also vorsichtig."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Sisak használata erősen ajánlott.",
+          "Vigyen magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a megállóknál.",
+          "Az utak egyenetlenek lehetnek, ezért legyen óvatos."
+        ],
+        "ro": [
+          "Verifică-ți bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "O cască este foarte recomandată.",
+          "Aduceți un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Drumurile pot fi denivelate, așa că fiți precauți."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "A helmet is highly recommended.",
+          "Bring a lock to secure your bike at stops.",
+          "The roads can be uneven, so be cautious."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Tālavija-Hügel",
+            "hu": "Parkoló a Tālavija-hegynél",
+            "ro": "Parcare la Dealul Tālavija",
+            "en": "Parking at Tālavija Hill"
+          },
+          "coords": [
+            27.735,
+            56.55
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer Panoramaaussicht, bevor Sie ins Stadtzentrum fahren.",
+            "hu": "Kezdje a napot egy panorámás kilátással, mielőtt a városközpontba hajtana.",
+            "ro": "Începeți ziua cu o priveliște panoramică înainte de a conduce spre centrul orașului.",
+            "en": "Start your day with a panoramic view before driving to the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Zentrum & Spaziergang zur Burgruine",
+            "hu": "Parkolás a központban és séta a Várromokhoz",
+            "ro": "Parcare în centru și plimbare la Ruinele Castelului",
+            "en": "Central Parking & Walk to Castle Ruins"
+          },
+          "coords": [
+            27.728,
+            56.549
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Vormittags. Die Burg ist der erste Halt in Ihrem Rundgang.",
+            "hu": "Parkoljon itt a délelőtt hátralévő részére. A vár az első megálló a sétája során.",
+            "ro": "Parcați aici pentru restul dimineții. Castelul este prima oprire din turul dumneavoastră pietonal.",
+            "en": "Park here for the rest of the morning. The castle is the first stop on your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Katholische und Orthodoxe Kirchen",
+            "hu": "Katolikus és Ortodox templomok",
+            "ro": "Bisericile Catolică și Ortodoxă",
+            "en": "Catholic and Orthodox Churches"
+          },
+          "coords": [
+            27.727,
+            56.5484
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:12",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.25,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von den Ruinen. Bewundern Sie die beiden unterschiedlichen Stile.",
+            "hu": "Egy rövid séta a romoktól. Csodálja meg a két különböző stílust.",
+            "ro": "O scurtă plimbare de la ruine. Admirați cele două stiluri diferite.",
+            "en": "A short walk from the ruins. Admire the two different styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Synagoge & Heimatmuseum",
+            "hu": "Nagy Zsinagóga és Helytörténeti Múzeum",
+            "ro": "Marea Sinagogă și Muzeul de Istorie Locală",
+            "en": "Great Synagogue & Local History Museum"
+          },
+          "coords": [
+            27.7246,
+            56.5472
+          ],
+          "category": "museums",
+          "arrive_at": "12:12",
+          "stay_min": 140,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden wichtigen Kulturstätten liegen nahe beieinander.",
+            "hu": "Ez a két fontos kulturális helyszín közel van egymáshoz.",
+            "ro": "Aceste două situri culturale importante sunt situate aproape una de cealaltă.",
+            "en": "These two important cultural sites are located close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur See-Promenade",
+            "hu": "Autózás a Tóparti sétányhoz",
+            "ro": "Conducere la Promenada Lacului",
+            "en": "Drive to the Lake Promenade"
+          },
+          "coords": [
+            27.7285,
+            56.5455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nehmen Sie das Auto für einen kurzen Sprung zum See für einen entspannten Nachmittag.",
+            "hu": "Menjen autóval egy rövid útra a tóhoz egy pihentető délutánért.",
+            "ro": "Luați mașina pentru o scurtă plimbare până la lac pentru o după-amiază relaxantă.",
+            "en": "Take the car for a short hop to the lake for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Stadtpark",
+            "hu": "Séta a Városi parkban",
+            "ro": "Plimbare în Parcul Orașului",
+            "en": "Stroll in the Town Park"
+          },
+          "coords": [
+            27.7225,
+            56.5472
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:16",
+          "stay_min": 35,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag dort, wo viele ihn beginnen, mit einem letzten Spaziergang durch das Grün.",
+            "hu": "Fejezze be a napot ott, ahol sokan kezdik, egy utolsó sétával a zöldben.",
+            "ro": "Terminați ziua acolo unde mulți o încep, cu o ultimă plimbare prin verdeață.",
+            "en": "End the day where many begin it, with a final stroll through the greenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum Tālavija-Hügel, um einen Überblick über die Gegend zu bekommen. Parken Sie dann im Zentrum und beginnen Sie Ihren Rundgang bei den mächtigen Burgruinen. Nach dem Eintauchen in die Geschichte schlendern Sie zu den nahe gelegenen Kirchen. Am Mittag erkunden Sie zu Fuß das kulturelle Herz der Stadt mit Besuchen der Großen Synagoge und des Heimatmuseums. Am Nachmittag fahren Sie zur See-Promenade für eine entspannte Zeit am Wasser, bevor Sie den Tag mit einem ruhigen Spaziergang im Stadtpark ausklingen lassen.",
+        "hu": "Reggel vezessen fel a Tālavija-hegyre, hogy áttekintést kapjon a területről. Ezután parkoljon le a központban, és kezdje a sétát a hatalmas várromoknál. Miután elmerült a történelemben, sétáljon el a közeli templomokhoz. Délben gyalogosan fedezze fel a város kulturális szívét, látogassa meg a Nagy Zsinagógát és a Helytörténeti Múzeumot. Délután vezessen el a tóparti sétányhoz egy pihentető vízparti időtöltésért, mielőtt a napot egy csendes sétával zárná a Városi parkban.",
+        "ro": "Dimineața, conduceți până la Dealul Tālavija pentru o privire de ansamblu asupra zonei. Apoi parcați în centru și începeți turul pietonal la impunătoarele ruine ale castelului. După ce v-ați cufundat în istorie, plimbați-vă până la bisericile din apropiere. La prânz, explorați pe jos inima culturală a orașului, vizitând Marea Sinagogă și Muzeul de Istorie Locală. După-amiaza, conduceți la Promenada Lacului pentru un moment de relaxare pe malul apei, înainte de a încheia ziua cu o plimbare liniștită în Parcul Orașului.",
+        "en": "In the morning, drive up to Tālavija Hill for an overview of the area. Then, park in the center and begin your walking tour at the formidable castle ruins. After soaking in the history, stroll to the nearby churches. At midday, explore the cultural heart of the town on foot, visiting the Great Synagogue and the Local History Museum. In the afternoon, drive to the Lake Promenade for some relaxing time by the water, before ending your day with a quiet walk in the Town Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Probieren Sie diesen einzigartigen lettischen Karotten- und Kartoffelkuchen. Suchen Sie nach lokalen Bäckereien."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Das dunkle Roggenbrot ist ein Grundnahrungsmittel. Köstlich mit lokalem Honig oder Käse."
+          },
+          {
+            "name": "Kvass",
+            "tip": "Ein traditionelles fermentiertes Getränk aus Roggenbrot, sehr erfrischend an einem warmen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Kóstolja meg ezt az egyedi lett répa- és burgonyatortát. Keresse a helyi pékségekben."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "A sötét rozskenyér alapvető élelmiszer. Finom helyi mézzel vagy sajttal."
+          },
+          {
+            "name": "Kvass",
+            "tip": "Hagyományos, rozskenyérből erjesztett ital, nagyon frissítő egy meleg napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Încearcă această tartă letonă unică cu morcovi și cartofi. Caută în brutăriile locale."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Pâinea neagră de secară este un aliment de bază. Delicioasă cu miere sau brânză locală."
+          },
+          {
+            "name": "Kvass",
+            "tip": "O băutură tradițională fermentată din pâine de secară, foarte răcoritoare într-o zi caldă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Try this unique Latvian carrot and potato tart. Look for it in local bakeries."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "The dark rye bread is a staple. Delicious with local honey or cheese."
+          },
+          {
+            "name": "Kvass",
+            "tip": "A traditional fermented beverage made from rye bread, very refreshing on a warm day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tālavija-Hügel",
+            "tip": "Ein kurzer Spaziergang für eine ruhige Aussicht über die Stadt und die Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Ludza-Sees",
+            "tip": "Finden Sie einen abgelegenen Platz am Großen Ludza-See für einen Moment der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innerhalb der Burgruine",
+            "tip": "Trotz seiner Popularität können Sie ruhige Ecken finden, um die alte Atmosphäre aufzusaugen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tālavija-hegy",
+            "tip": "Egy rövid séta a városra és a vidékre nyíló csendes kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ludza-tó partja",
+            "tip": "Keressen egy félreeső helyet a Nagy Ludza-tónál egy pillanatnyi békéért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A várromokon belül",
+            "tip": "Népszerűsége ellenére találhat csendes zugokat, ahol magába szívhatja az ősi hangulatot.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Tālavija",
+            "tip": "O scurtă plimbare pentru o priveliște liniștită asupra orașului și a peisajului rural.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul Lacului Ludza",
+            "tip": "Găsiți un loc retras lângă Lacul Mare Ludza pentru un moment de pace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "În interiorul ruinelor castelului",
+            "tip": "În ciuda popularității sale, puteți găsi colțuri liniștite pentru a absorbi atmosfera antică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tālavija Hill",
+            "tip": "A short walk for a quiet view over the town and countryside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Shores of Lake Ludza",
+            "tip": "Find a secluded spot by the Great Ludza Lake for a moment of peace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Inside the Castle Ruins",
+            "tip": "Despite its popularity, you can find quiet corners to soak up the ancient atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigten Leinenprodukten und Keramik, die typisch für die Region Latgale sind."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Der Shop im Heimatmuseum Ludza bietet oft einzigartige Souvenirs mit Bezug zur lokalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézzel készített lenvászon termékeket és kerámiákat, amelyek jellemzőek a Latgale régióra."
+          },
+          {
+            "name": "Múzeumi bolt",
+            "tip": "A Ludza Helytörténeti Múzeum boltja gyakran kínál egyedi, a helyi történelemhez kapcsolódó ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse artizanale din in și ceramică, tipice regiunii Latgale."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Magazinul de la Muzeul de Istorie Locală Ludza oferă adesea suveniruri unice legate de istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade linen products and ceramics, typical of the Latgale region."
+          },
+          {
+            "name": "Museum Shop",
+            "tip": "The shop at the Ludza Local History Museum often has unique souvenirs related to local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum kann begrenzt sein, seien Sie also geduldig.",
+          "Planen Sie Ihre Route im Voraus.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen, insbesondere in Wohngebieten.",
+          "Ein GPS ist nützlich, um sich zwischen den weiter entfernten Orten zurechtzufinden."
+        ],
+        "hu": [
+          "A központi parkolás korlátozott lehet, ezért legyen türelmes.",
+          "Tervezze meg előre az útvonalat.",
+          "Vegye figyelembe a sebességkorlátozásokat, különösen a lakóövezetekben.",
+          "GPS hasznos a távolabbi helyek közötti navigáláshoz."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi limitată, așa că aveți răbdare.",
+          "Planificați-vă traseul în avans.",
+          "Fiți atenți la limitele de viteză, în special în zonele rezidențiale.",
+          "Un GPS este util pentru a naviga între locurile mai îndepărtate."
+        ],
+        "en": [
+          "Parking in the center can be limited, so be patient.",
+          "Plan your route in advance.",
+          "Be mindful of speed limits, especially in residential areas.",
+          "A GPS is useful for navigating between the more distant spots."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bus zum Zentrum & Spaziergang zur Burgruine",
+            "hu": "Busz a központba és séta a Várromokhoz",
+            "ro": "Autobuz spre centru și plimbare la Ruinele Castelului",
+            "en": "Bus to Center & Walk to Castle Ruins"
+          },
+          "coords": [
+            27.728,
+            56.549
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit der Hauptattraktion. Der Spaziergang vom Bus ist kurz.",
+            "hu": "Kezdje a napot a fő látnivalóval. A busztól rövid séta.",
+            "ro": "Începeți ziua cu atracția principală. Plimbarea de la autobuz este scurtă.",
+            "en": "Start your day with the main attraction. The walk from the bus is short."
+          }
+        },
+        {
+          "name": {
+            "de": "Katholische und Orthodoxe Kirchen",
+            "hu": "Katolikus és Ortodox templomok",
+            "ro": "Bisericile Catolică și Ortodoxă",
+            "en": "Catholic and Orthodox Churches"
+          },
+          "coords": [
+            27.727,
+            56.5484
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.25,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von den Ruinen. Diese bilden den Kern des historischen Zentrums.",
+            "hu": "Rövid séta a romoktól. Ezek alkotják a történelmi központ magját.",
+            "ro": "O scurtă plimbare de la ruine. Acestea formează nucleul centrului istoric.",
+            "en": "A short walk from the ruins. These form the core of the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Synagoge & Heimatmuseum",
+            "hu": "Nagy Zsinagóga és Helytörténeti Múzeum",
+            "ro": "Marea Sinagogă și Muzeul de Istorie Locală",
+            "en": "Great Synagogue & Local History Museum"
+          },
+          "coords": [
+            27.7246,
+            56.5472
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie hier eine längere Pause ein, einschließlich Mittagessen in der Nähe.",
+            "hu": "Tervezzen itt egy hosszabb szünetet, beleértve az ebédet a közelben.",
+            "ro": "Planificați o pauză mai lungă aici, inclusiv prânzul în apropiere.",
+            "en": "Plan for a longer break here, including lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zur See-Promenade",
+            "hu": "Busz a Tóparti sétányhoz",
+            "ro": "Autobuz spre Promenada Lacului",
+            "en": "Bus to the Lake Promenade"
+          },
+          "coords": [
+            27.7285,
+            56.5455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum See, um Ihre Beine nach dem Stadtrundgang auszuruhen.",
+            "hu": "Menjen busszal a tóhoz, hogy pihentesse a lábait a városi séta után.",
+            "ro": "Luați un autobuz până la lac pentru a vă odihni picioarele după plimbarea prin oraș.",
+            "en": "Take a bus to the lake to rest your legs after the town walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Stadtpark",
+            "hu": "Séta a Városi parkban",
+            "ro": "Plimbare în Parcul Orașului",
+            "en": "Stroll in the Town Park"
+          },
+          "coords": [
+            27.7225,
+            56.5472
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:44",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.05,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter Halt im Grünen, bevor Sie den Bus zurück nehmen.",
+            "hu": "Egy utolsó megálló a zöldben, mielőtt visszamenne a busszal.",
+            "ro": "O ultimă oprire în verdeață înainte de a lua autobuzul înapoi.",
+            "en": "A final stop in the greenery before you catch the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nehmen Sie am Morgen den Bus ins Herz von Ludza und beginnen Sie Ihre Erkundung bei den historischen Burgruinen. Nach einem Spaziergang bergab besuchen Sie die beiden Hauptkirchen der Stadt. Am Mittag widmen Sie sich dem reichen Erbe, das in der Großen Synagoge und dem Heimatmuseum bewahrt wird. Am Nachmittag bringt Sie ein weiterer Bus zur ruhigen See-Promenade für eine lange, entspannende Pause. Beenden Sie Ihren Tag mit einem kurzen Besuch im Stadtpark, einem grünen Juwel im Zentrum.",
+        "hu": "Reggel szálljon buszra Ludza szívébe, és kezdje a felfedezést a történelmi várromoknál. Egy lejtős séta után látogassa meg a város két fő templomát. Délben szentelje magát a Nagy Zsinagógában és a Helytörténeti Múzeumban őrzött gazdag örökségnek. Délután egy másik busz viszi el a csendes tóparti sétányhoz egy hosszú, pihentető szünetre. Zárja a napot egy rövid látogatással a Városi parkban, egy zöld ékkőben a központban.",
+        "ro": "Dimineața, luați autobuzul spre inima Ludzei și începeți explorarea la ruinele istorice ale castelului. După o plimbare la vale, vizitați cele două biserici principale ale orașului. La prânz, dedicați-vă moștenirii bogate păstrate la Marea Sinagogă și la Muzeul de Istorie Locală. După-amiaza, un alt autobuz vă va duce la liniștita Promenadă a Lacului pentru o pauză lungă și relaxantă. Încheiați-vă ziua cu o scurtă vizită la Parcul Orașului, o bijuterie verde în centru.",
+        "en": "In the morning, take the bus to the heart of Ludza and start your exploration at the historic castle ruins. After a walk downhill, visit the town's two main churches. At midday, dedicate your time to the rich heritage preserved at the Great Synagogue and the Local History Museum. In the afternoon, another bus will take you to the tranquil Lake Promenade for a long, relaxing break. End your day with a short visit to the Town Park, a green gem in the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Probieren Sie diesen einzigartigen lettischen Karotten- und Kartoffelkuchen. Suchen Sie nach lokalen Bäckereien."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Das dunkle Roggenbrot ist ein Grundnahrungsmittel. Köstlich mit lokalem Honig oder Käse."
+          },
+          {
+            "name": "Kvass",
+            "tip": "Ein traditionelles fermentiertes Getränk aus Roggenbrot, sehr erfrischend an einem warmen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Kóstolja meg ezt az egyedi lett répa- és burgonyatortát. Keresse a helyi pékségekben."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "A sötét rozskenyér alapvető élelmiszer. Finom helyi mézzel vagy sajttal."
+          },
+          {
+            "name": "Kvass",
+            "tip": "Hagyományos, rozskenyérből erjesztett ital, nagyon frissítő egy meleg napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Încearcă această tartă letonă unică cu morcovi și cartofi. Caută în brutăriile locale."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Pâinea neagră de secară este un aliment de bază. Delicioasă cu miere sau brânză locală."
+          },
+          {
+            "name": "Kvass",
+            "tip": "O băutură tradițională fermentată din pâine de secară, foarte răcoritoare într-o zi caldă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Try this unique Latvian carrot and potato tart. Look for it in local bakeries."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "The dark rye bread is a staple. Delicious with local honey or cheese."
+          },
+          {
+            "name": "Kvass",
+            "tip": "A traditional fermented beverage made from rye bread, very refreshing on a warm day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tālavija-Hügel",
+            "tip": "Ein kurzer Spaziergang für eine ruhige Aussicht über die Stadt und die Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Ludza-Sees",
+            "tip": "Finden Sie einen abgelegenen Platz am Großen Ludza-See für einen Moment der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innerhalb der Burgruine",
+            "tip": "Trotz seiner Popularität können Sie ruhige Ecken finden, um die alte Atmosphäre aufzusaugen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tālavija-hegy",
+            "tip": "Egy rövid séta a városra és a vidékre nyíló csendes kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ludza-tó partja",
+            "tip": "Keressen egy félreeső helyet a Nagy Ludza-tónál egy pillanatnyi békéért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A várromokon belül",
+            "tip": "Népszerűsége ellenére találhat csendes zugokat, ahol magába szívhatja az ősi hangulatot.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Tālavija",
+            "tip": "O scurtă plimbare pentru o priveliște liniștită asupra orașului și a peisajului rural.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul Lacului Ludza",
+            "tip": "Găsiți un loc retras lângă Lacul Mare Ludza pentru un moment de pace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "În interiorul ruinelor castelului",
+            "tip": "În ciuda popularității sale, puteți găsi colțuri liniștite pentru a absorbi atmosfera antică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tālavija Hill",
+            "tip": "A short walk for a quiet view over the town and countryside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Shores of Lake Ludza",
+            "tip": "Find a secluded spot by the Great Ludza Lake for a moment of peace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Inside the Castle Ruins",
+            "tip": "Despite its popularity, you can find quiet corners to soak up the ancient atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigten Leinenprodukten und Keramik, die typisch für die Region Latgale sind."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Der Shop im Heimatmuseum Ludza bietet oft einzigartige Souvenirs mit Bezug zur lokalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézzel készített lenvászon termékeket és kerámiákat, amelyek jellemzőek a Latgale régióra."
+          },
+          {
+            "name": "Múzeumi bolt",
+            "tip": "A Ludza Helytörténeti Múzeum boltja gyakran kínál egyedi, a helyi történelemhez kapcsolódó ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse artizanale din in și ceramică, tipice regiunii Latgale."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Magazinul de la Muzeul de Istorie Locală Ludza oferă adesea suveniruri unice legate de istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade linen products and ceramics, typical of the Latgale region."
+          },
+          {
+            "name": "Museum Shop",
+            "tip": "The shop at the Ludza Local History Museum often has unique souvenirs related to local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besorgen Sie sich einen Busfahrplan im Voraus oder verwenden Sie eine lokale Transport-App.",
+          "Haben Sie Kleingeld für Bustickets bereit.",
+          "Beachten Sie, dass Busse in einer Kleinstadt möglicherweise nicht sehr häufig fahren.",
+          "Eine Tageskarte könnte kostengünstiger sein, wenn Sie mehrere Fahrten planen."
+        ],
+        "hu": [
+          "Szerezzen be előre egy buszmenetrendet, vagy használjon helyi közlekedési alkalmazást.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "Ne feledje, hogy a buszok egy kisvárosban nem biztos, hogy nagyon gyakran közlekednek.",
+          "Egy napijegy költséghatékonyabb lehet, ha több utazást tervez."
+        ],
+        "ro": [
+          "Obțineți un orar al autobuzelor în avans sau utilizați o aplicație locală de transport.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz.",
+          "Rețineți că autobuzele s-ar putea să nu circule foarte frecvent într-un oraș mic.",
+          "Un abonament de o zi ar putea fi mai rentabil dacă intenționați să faceți mai multe călătorii."
+        ],
+        "en": [
+          "Get a bus schedule in advance or use a local transport app.",
+          "Have small change ready for bus tickets.",
+          "Be aware that buses may not run very frequently in a small town.",
+          "A day pass might be more cost-effective if you plan multiple trips."
+        ]
+      }
+    }
+  }
+}

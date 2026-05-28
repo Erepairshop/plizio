@@ -1,0 +1,1308 @@
+{
+  "city_id": "greece-kiato-cities-v2",
+  "anchor": {
+    "name": "Kiato",
+    "coords": [
+      22.75,
+      38.0167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 2.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Demokratie",
+            "hu": "Demokrácia tér",
+            "ro": "Piața Democrației",
+            "en": "Democracy Square"
+          },
+          "coords": [
+            22.75,
+            38.015
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Trinken Sie hier Ihren Morgenkaffee mit den Einheimischen.",
+            "hu": "Igyon meg itt egy reggeli kávét a helyiekkel.",
+            "ro": "Beti o cafea de dimineață aici împreună cu localnicii.",
+            "en": "Have your morning coffee here with the locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Kiato",
+            "hu": "Kiato Városháza",
+            "ro": "Primăria din Kiato",
+            "en": "Kiato City Hall"
+          },
+          "coords": [
+            22.748,
+            38.014
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Klassische Architektur im Zentrum der Stadt.",
+            "hu": "Klasszikus építészet a város központjában.",
+            "ro": "Arhitectură clasică în centrul orașului.",
+            "en": "Classic architecture in the center of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Verklärung",
+            "hu": "Színeváltozás templom",
+            "ro": "Biserica Schimbării la Față",
+            "en": "Church of the Transfiguration"
+          },
+          "coords": [
+            22.752,
+            38.016
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beachten Sie die wunderschönen Ikonen im Inneren.",
+            "hu": "Figyelje meg a gyönyörű ikonokat a belső térben.",
+            "ro": "Admirați icoanele frumoase din interior.",
+            "en": "Notice the beautiful icons inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum",
+            "hu": "Kulturális Központ",
+            "ro": "Centrul Cultural",
+            "en": "Cultural Center"
+          },
+          "coords": [
+            22.755,
+            38.018
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schauen Sie sich das lokale Veranstaltungsprogramm an.",
+            "hu": "Nézze meg a helyi eseménynaptárt az előtérben.",
+            "ro": "Verificați programul evenimentelor locale din hol.",
+            "en": "Check the local events schedule in the lobby."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Kiato",
+            "hu": "Kiato kikötője",
+            "ro": "Portul Kiato",
+            "en": "Port of Kiato"
+          },
+          "coords": [
+            22.758,
+            38.02
+          ],
+          "category": "port",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote, die ihren Fang einbringen.",
+            "hu": "Figyelje meg a zsákmánnyal visszatérő halászhajókat.",
+            "ro": "Priviți bărcile de pescari aducând captura zilei.",
+            "en": "Watch the fishing boats bringing in their catch."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Kiato",
+            "hu": "Kiato tengerpartja",
+            "ro": "Plaja Kiato",
+            "en": "Kiato Beach"
+          },
+          "coords": [
+            22.74,
+            38.025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen mit Meeresfrüchten.",
+            "hu": "Ideális hely egy friss tengeri ebédhez a strandolás mellett.",
+            "ro": "Locul ideal pentru un prânz cu fructe de mare pe plajă.",
+            "en": "Ideal spot for a seafood lunch next to the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie das Zentrum von Kiato bequem zu Fuß. Starten Sie am Platz der Demokratie und bewundern Sie das Rathaus sowie die Kirche der Verklärung. Das Kulturzentrum bietet Einblicke in das lokale Leben. Am Hafen spüren Sie die Meeresbrise, bevor Sie den Nachmittag entspannt am Strand verbringen.",
+        "hu": "Kiato központja könnyedén bejárható gyalogosan. Kezdje a Demokrácia téren, majd nézze meg a Városházát és a Színeváltozás templomát. A Kulturális Központ a helyi életbe nyújt bepillantást. A kikötőben már érezni a tengeri sós levegőt, a délutánt pedig a tengerparton töltheti.",
+        "ro": "Centrul orașului Kiato este perfect pentru o explorare la pas. Începeți în Piața Democrației, apoi vizitați Primăria și Biserica Schimbării la Față. Centrul Cultural oferă o privire în viața locală. Simțiți briza mării în port, înainte de a vă relaxa toată după-amiaza pe plajă.",
+        "en": "The center of Kiato is perfectly sized for a walking tour. Start at Democracy Square, see the City Hall, and visit the Church of the Transfiguration. The Cultural Center provides a glimpse into local life. Smell the sea breeze at the port before spending a relaxing afternoon at the beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Probieren Sie ihn in einer der Tavernen direkt am Wasser."
+          },
+          {
+            "name": "Agiorgitiko Wein",
+            "tip": "Hervorragender lokaler Rotwein aus der Region Korinth."
+          },
+          {
+            "name": "Souvlaki Pita",
+            "tip": "Der perfekte schnelle Snack auf dem Weg zum Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett polip",
+            "tip": "Kóstolja meg az egyik közvetlen vízparti tavernában."
+          },
+          {
+            "name": "Agiorgitiko bor",
+            "tip": "Kiváló helyi vörösbor a korinthoszi régióból."
+          },
+          {
+            "name": "Souvlaki Pita",
+            "tip": "A tökéletes gyors ebéd a part felé sétálva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Încercați-o la una dintre tavernele de pe malul mării."
+          },
+          {
+            "name": "Vin Agiorgitiko",
+            "tip": "Un vin roșu local excelent din regiunea Corint."
+          },
+          {
+            "name": "Souvlaki Pita",
+            "tip": "Gustarea rapidă perfectă în drum spre plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Octopus",
+            "tip": "Try it at one of the waterfront tavernas."
+          },
+          {
+            "name": "Agiorgitiko Wine",
+            "tip": "An excellent local red wine from the Corinth region."
+          },
+          {
+            "name": "Souvlaki Pita",
+            "tip": "The perfect quick snack on your way to the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bänke am Hafen",
+            "tip": "Ein ruhiger Ort, um den Booten zuzusehen.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Strand von Kiato (Westende)",
+            "tip": "Weniger besucht, ideal zum Entspannen am Nachmittag.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Padok a kikötőben",
+            "tip": "Csendes hely, ahonnan nézheti a hajókat.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Kiato tengerpart (nyugati vég)",
+            "tip": "Kevésbé forgalmas, ideális délutáni pihenéshez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băncile din port",
+            "tip": "Un loc liniștit pentru a privi bărcile.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Plaja Kiato (capătul vestic)",
+            "tip": "Mai puțin aglomerată, ideală pentru relaxare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Benches at the Port",
+            "tip": "A quiet place to watch the boats go by.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Kiato Beach (West End)",
+            "tip": "Less crowded, ideal for afternoon relaxation.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Korinth-Rosinen",
+            "tip": "Eine süße lokale Spezialität."
+          },
+          {
+            "name": "Olivenöl",
+            "tip": "Kaufen Sie direkt bei kleinen Läden im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Korinthoszi mazsola",
+            "tip": "Édes helyi különlegesség."
+          },
+          {
+            "name": "Olívaolaj",
+            "tip": "Vásároljon közvetlenül a központ kis boltjaiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stafide de Corint",
+            "tip": "O specialitate locală dulce."
+          },
+          {
+            "name": "Ulei de măsline",
+            "tip": "Cumpărați direct de la micile magazine din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corinthian Raisins",
+            "tip": "A sweet local specialty."
+          },
+          {
+            "name": "Olive Oil",
+            "tip": "Buy directly from small shops in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kiato ist sehr flach und leicht begehbar.",
+          "Die Sommer können heiß sein, packen Sie Sonnencreme ein.",
+          "Die Tavernen am Hafen öffnen oft erst am späten Vormittag.",
+          "Ein bequemes Paar Schuhe reicht für diese Route völlig aus."
+        ],
+        "hu": [
+          "Kiato teljesen sík és könnyen sétálható.",
+          "A nyarak melegek lehetnek, ne felejtsen el naptejet hozni.",
+          "A kikötői tavernák gyakran csak késő délelőtt nyitnak.",
+          "Egy kényelmes cipő tökéletesen elegendő ehhez az útvonalhoz."
+        ],
+        "ro": [
+          "Kiato este plat și ușor de parcurs pe jos.",
+          "Verile pot fi fierbinți, nu uitați crema de protecție solară.",
+          "Tavernele din port se deschid adesea abia spre prânz.",
+          "O pereche de pantofi confortabili este suficientă pentru acest traseu."
+        ],
+        "en": [
+          "Kiato is very flat and easy to walk around.",
+          "Summers can be hot, make sure to bring sunscreen.",
+          "The tavernas by the port often open late in the morning.",
+          "A comfortable pair of walking shoes is all you need for this route."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 8.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Demokratie",
+            "hu": "Demokrácia tér",
+            "ro": "Piața Democrației",
+            "en": "Democracy Square"
+          },
+          "coords": [
+            22.75,
+            38.015
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie hier mit einem frischen Saft.",
+            "hu": "Indítsa innen a napot egy friss gyümölcslével.",
+            "ro": "Începeți ziua aici cu un suc proaspăt.",
+            "en": "Start your day here with a fresh juice."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Kiato",
+            "hu": "Kiato kikötője",
+            "ro": "Portul Kiato",
+            "en": "Port of Kiato"
+          },
+          "coords": [
+            22.758,
+            38.02
+          ],
+          "category": "port",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um kurz vom Fahrrad abzusteigen.",
+            "hu": "Remek hely egy rövid megállóra a biciklivel.",
+            "ro": "Un loc grozav pentru o scurtă pauză de la pedalat.",
+            "en": "A great spot to briefly get off the bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Verklärung",
+            "hu": "Színeváltozás templom",
+            "ro": "Biserica Schimbării la Față",
+            "en": "Church of the Transfiguration"
+          },
+          "coords": [
+            22.752,
+            38.016
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:23",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad draußen und besichtigen Sie das Innere.",
+            "hu": "Parkolja le a biciklit kint, és nézze meg a belső teret.",
+            "ro": "Lăsați bicicleta afară și vizitați interiorul.",
+            "en": "Park your bike outside and view the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Kiato",
+            "hu": "Kiato tengerpartja",
+            "ro": "Plaja Kiato",
+            "en": "Kiato Beach"
+          },
+          "coords": [
+            22.74,
+            38.025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:13",
+          "stay_min": 180,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der Strandpromenade.",
+            "hu": "Tekerjen végig a tengerparti sétányon.",
+            "ro": "Plimbați-vă cu bicicleta de-a lungul promenadei de pe plajă.",
+            "en": "Ride along the beach promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Sikyon",
+            "hu": "Ókori Sziküón",
+            "ro": "Anticul Sicyon",
+            "en": "Ancient Sicyon"
+          },
+          "coords": [
+            22.723,
+            37.983
+          ],
+          "category": "landmark",
+          "arrive_at": "14:48",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Die Fahrt bergauf lohnt sich für die historischen Ruinen.",
+            "hu": "A felfelé vezető út megéri a történelmi romokért.",
+            "ro": "Urcușul merită efortul pentru ruinele istorice.",
+            "en": "The uphill ride is worth it for the historical ruins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erleben Sie den Kontrast der Region. Morgens erkunden Sie die Küste und das Zentrum von Kiato. Der Höhepunkt ist die Nachmittagsfahrt hinauf zum antiken Sikyon, wo Sie griechische Geschichte fernab der Massen erleben.",
+        "hu": "Biciklivel tökéletesen megtapasztalható a régió kettőssége. Délelőtt a partot és Kiato központját járja be, majd délután egy hosszabb tekeréssel feljut az ókori Sziküónba, ahol a görög történelem egy darabkája várja a tömegektől távol.",
+        "ro": "Cu bicicleta veți experimenta perfect contrastul regiunii. Dimineața explorați coasta și centrul orașului Kiato. Punctul culminant este plimbarea de după-amiază spre Anticul Sicyon, unde veți vedea istoria greacă departe de aglomerație.",
+        "en": "By bike, you can perfectly experience the region's contrast. In the morning, explore the coast and Kiato's center. The highlight is the afternoon ride up to Ancient Sicyon, where you can see Greek history away from the crowds."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meeresfrüchte Risotto",
+            "tip": "Perfekt nach einer langen Radtour am Strand."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Der griechische Eiskaffee gibt Energie für die Fahrt nach Sikyon."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "In den Tavernen der Umgebung zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei rizottó",
+            "tip": "Tökéletes egy hosszú tengerparti biciklizés után."
+          },
+          {
+            "name": "Frappé",
+            "tip": "A görög jegeskávé erőt ad a Sziküón felé vezető úton."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "A környékbeli vendéglőkben megkóstolható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Risotto cu fructe de mare",
+            "tip": "Perfect după o plimbare lungă pe plajă."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Cafeaua rece grecească vă dă energie pentru drumul spre Sicyon."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Se găsește în tavernele din împrejurimi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Risotto",
+            "tip": "Perfect after a long bike ride along the beach."
+          },
+          {
+            "name": "Frappé",
+            "tip": "The Greek iced coffee will give you energy for the ride to Sicyon."
+          },
+          {
+            "name": "Local Honey",
+            "tip": "Can be found in the surrounding tavernas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick von Sikyon",
+            "tip": "Genießen Sie die Stille bei den alten Ruinen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Morgendlicher Hafen",
+            "tip": "Sehr ruhig vor dem großen Trubel.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás Sziküónból",
+            "tip": "Élvezze a csendet az ősi romoknál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reggeli kikötő",
+            "tip": "Nagyon békés a nagy nyüzsgés előtt.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliștea din Sicyon",
+            "tip": "Bucurați-vă de liniște printre ruinele antice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Portul dimineața",
+            "tip": "Foarte liniștit înainte de agitația zilei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Sicyon",
+            "tip": "Enjoy the silence among the ancient ruins.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Morning Port",
+            "tip": "Very peaceful before the main hustle.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Getrocknete Feigen",
+            "tip": "Ein guter Snack für die Fahrradtour."
+          },
+          {
+            "name": "Keramik",
+            "tip": "Traditionelles Handwerk aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szárított füge",
+            "tip": "Remek rágcsálnivaló a biciklitúrához."
+          },
+          {
+            "name": "Kerámia",
+            "tip": "Hagyományos kézműves termék a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smochine uscate",
+            "tip": "O gustare excelentă pentru plimbarea cu bicicleta."
+          },
+          {
+            "name": "Ceramică",
+            "tip": "Obiecte de artizanat tradiționale din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dried Figs",
+            "tip": "A great snack for the bike ride."
+          },
+          {
+            "name": "Ceramics",
+            "tip": "Traditional crafts from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke nach Sikyon hat eine Steigung, gute Bremsen sind wichtig.",
+          "Starten Sie früh, um die Mittagshitze bei der Auffahrt zu vermeiden.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch wenn es sicher wirkt.",
+          "Nehmen Sie genug Wasser für den Weg nach Sikyon mit."
+        ],
+        "hu": [
+          "A Sziküón felé vezető út emelkedik, fontos a jó fék.",
+          "Induljon korán, hogy elkerülje a déli hőséget a hegyre menet.",
+          "Mindig zárja le a biciklijét, még ha biztonságosnak tűnik is a környék.",
+          "Vigyen magával elég vizet a Sziküónba tartó útra."
+        ],
+        "ro": [
+          "Drumul spre Sicyon urcă, este important să aveți frâne bune.",
+          "Porniți devreme pentru a evita căldura amiezii la urcare.",
+          "Încuiați-vă mereu bicicleta, chiar dacă zona pare sigură.",
+          "Luați suficientă apă pentru drumul spre Sicyon."
+        ],
+        "en": [
+          "The road to Sicyon is uphill, good brakes are important.",
+          "Start early to avoid the midday heat on the climb.",
+          "Always lock your bike, even if the area feels safe.",
+          "Bring enough water for the ride up to Sicyon."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 23.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Demokratie",
+            "hu": "Demokrácia tér",
+            "ro": "Piața Democrației",
+            "en": "Democracy Square"
+          },
+          "coords": [
+            22.75,
+            38.015
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier in der Nähe für den ersten Rundgang.",
+            "hu": "Parkoljon le a közelben az első sétához.",
+            "ro": "Parcați în apropiere pentru prima plimbare.",
+            "en": "Park nearby for your first cluster walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Verklärung",
+            "hu": "Színeváltozás templom",
+            "ro": "Biserica Schimbării la Față",
+            "en": "Church of the Transfiguration"
+          },
+          "coords": [
+            22.752,
+            38.016
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten vom Platz entfernt.",
+            "hu": "Csak pár perc sétára a tértől.",
+            "ro": "La doar câteva minute de mers pe jos de piață.",
+            "en": "Just a short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Sikyon",
+            "hu": "Ókori Sziküón",
+            "ro": "Anticul Sicyon",
+            "en": "Ancient Sicyon"
+          },
+          "coords": [
+            22.723,
+            37.983
+          ],
+          "category": "landmark",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie hinauf zu diesem beeindruckenden archäologischen Gelände.",
+            "hu": "Vezessen fel ehhez a lenyűgöző régészeti területhez.",
+            "ro": "Conduceți până la acest impresionant sit arheologic.",
+            "en": "Drive up to this impressive archaeological site."
+          }
+        },
+        {
+          "name": {
+            "de": "Pefkias-Kiefernwald",
+            "hu": "Pefkiász fenyőerdő",
+            "ro": "Pădurea de pini Pefkias",
+            "en": "Pefkias Pine Forest"
+          },
+          "coords": [
+            22.64,
+            38.06
+          ],
+          "category": "forest",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Waldrand für einen erholsamen Spaziergang.",
+            "hu": "Parkoljon az erdő szélén egy pihentető sétához.",
+            "ro": "Parcați la marginea pădurii pentru o plimbare relaxantă.",
+            "en": "Park at the forest edge for a relaxing stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Kiato",
+            "hu": "Kiato tengerpartja",
+            "ro": "Plaja Kiato",
+            "en": "Kiato Beach"
+          },
+          "coords": [
+            22.74,
+            38.025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 180,
+          "hop_mode": "car",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zurück in der Stadt für einen späten Mittagssnack am Meer.",
+            "hu": "Vissza a városba egy kései tengerparti ebédhez.",
+            "ro": "Înapoi în oraș pentru un prânz târziu la malul mării.",
+            "en": "Back in town for a late seaside lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Route nutzt das Auto ideal für größere Distanzen. Sie beginnen mit einem Spaziergang im Zentrum von Kiato. Danach fahren Sie zum antiken Sikyon, um das Theater aus dem 4. Jahrhundert v. Chr. zu bewundern. Am Nachmittag bietet der Pefkias-Kiefernwald kühlenden Schatten, bevor Sie am Strand von Kiato zu Abend essen.",
+        "hu": "Ez az útvonal ideálisan használja az autót a távolságok leküzdésére. A nap egy kiatói sétával indul, majd felvezet az ókori Sziküónba, ahol a Kr. e. 4. századi színház romjait láthatja. Délután a Pefkiász fenyőerdő ad hűsítő árnyékot, mielőtt a tengerparton megvacsorázna.",
+        "ro": "Acest traseu folosește mașina ideal pentru distanțele mai lungi. Începeți cu o plimbare în centrul orașului Kiato. Apoi conduceți spre Anticul Sicyon pentru a admira teatrul din secolul IV î.Hr. După-amiaza, pădurea de pini Pefkias vă oferă umbră răcoroasă, înainte de cina pe plaja din Kiato.",
+        "en": "This route uses the car perfectly for bridging distances. You start with a walk in the center of Kiato. Then, drive up to Ancient Sicyon to admire the 4th-century BC theater. In the afternoon, the Pefkias Pine Forest offers cooling shade before you enjoy dinner by the beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch",
+            "tip": "In den Tavernen direkt am Strand."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "Traditionell und sättigend."
+          },
+          {
+            "name": "Griechischer Salat",
+            "tip": "Perfekt leichtes Essen für die heißen Tage."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss hal",
+            "tip": "A közvetlenül a tengerparton lévő tavernákban."
+          },
+          {
+            "name": "Muszaka",
+            "tip": "Hagyományos és laktató görög étel."
+          },
+          {
+            "name": "Görög saláta",
+            "tip": "Tökéletes, könnyű étkezés a forró napokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt",
+            "tip": "La tavernele situate direct pe plajă."
+          },
+          {
+            "name": "Musaca",
+            "tip": "Tradițională și foarte sățioasă."
+          },
+          {
+            "name": "Salată grecească",
+            "tip": "O masă ușoară perfectă pentru zilele călduroase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Fish",
+            "tip": "At the tavernas located right on the beach."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "Traditional and very filling."
+          },
+          {
+            "name": "Greek Salad",
+            "tip": "A perfectly light meal for hot days."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schatten im Pefkias-Wald",
+            "tip": "Herrlich kühl und nach Kiefern duftend.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Theater von Sikyon",
+            "tip": "Ein unglaubliches Gefühl der Zeitlosigkeit.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Árnyék a Pefkiász-erdőben",
+            "tip": "Kellemesen hűvös és fenyőillatú.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sziküón színháza",
+            "tip": "Az időtlenség hihetetlen érzését sugározza.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Umbra din pădurea Pefkias",
+            "tip": "Plăcut de răcoros, cu un miros de pini.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Teatrul din Sicyon",
+            "tip": "Un sentiment incredibil de atemporalitate.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shade in Pefkias Forest",
+            "tip": "Wonderfully cool with a scent of pine.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Theater of Sicyon",
+            "tip": "Gives an incredible feeling of timelessness.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Kaufen Sie ein paar Flaschen in der Stadt vor der Rückfahrt."
+          },
+          {
+            "name": "Olivenölseife",
+            "tip": "Ein schönes, traditionelles Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Vásároljon néhány üveggel a városban indulás előtt."
+          },
+          {
+            "name": "Olívaolaj szappan",
+            "tip": "Egy szép, hagyományos szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați câteva sticle din oraș înainte de plecare."
+          },
+          {
+            "name": "Săpun din ulei de măsline",
+            "tip": "Un suvenir tradițional foarte drăguț."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "Buy a few bottles in town before driving back."
+          },
+          {
+            "name": "Olive Oil Soap",
+            "tip": "A beautiful, traditional souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplätze in Kiato können im Sommer knapp werden, kommen Sie früh.",
+          "Die Straße zum antiken Sikyon ist asphaltiert, aber kurvig.",
+          "Lassen Sie im Sommer keine Wertsachen sichtbar im Auto liegen.",
+          "Im Pefkias-Wald gibt es kostenlose Parkplätze in der Nähe des Eingangs."
+        ],
+        "hu": [
+          "Nyáron Kiato parkolói hamar megtelnek, érkezzen korán.",
+          "Az ókori Sziküónba vezető út aszfaltozott, de kanyargós.",
+          "Nyáron ne hagyjon értéktárgyakat látható helyen az autóban.",
+          "A Pefkiász-erdőnél ingyenes parkoló található a bejárat közelében."
+        ],
+        "ro": [
+          "Parcările din Kiato se pot aglomera vara, veniți devreme.",
+          "Drumul spre Anticul Sicyon este asfaltat, dar cu viraje.",
+          "Nu lăsați obiecte de valoare la vedere în mașină vara.",
+          "La pădurea Pefkias există o parcare gratuită lângă intrare."
+        ],
+        "en": [
+          "Parking in Kiato can be tight in summer, arrive early.",
+          "The road to Ancient Sicyon is paved but winding.",
+          "Do not leave valuables visible in your car during summer.",
+          "There is free parking near the entrance of the Pefkias Forest."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 19.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Demokratie",
+            "hu": "Demokrácia tér",
+            "ro": "Piața Democrației",
+            "en": "Democracy Square"
+          },
+          "coords": [
+            22.75,
+            38.015
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der zentrale Knotenpunkt, idealer Startpunkt.",
+            "hu": "A központi csomópont, ideális kiindulópont.",
+            "ro": "Nodul central, punctul ideal de plecare.",
+            "en": "The central hub, an ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Kiato",
+            "hu": "Kiato Városháza",
+            "ro": "Primăria din Kiato",
+            "en": "Kiato City Hall"
+          },
+          "coords": [
+            22.748,
+            38.014
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Platz der Demokratie erreichbar.",
+            "hu": "A Demokrácia térről könnyen besétálható.",
+            "ro": "Se poate ajunge pe jos de la Piața Democrației.",
+            "en": "Easily walkable from Democracy Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Kiato",
+            "hu": "Kiato kikötője",
+            "ro": "Portul Kiato",
+            "en": "Port of Kiato"
+          },
+          "coords": [
+            22.758,
+            38.02
+          ],
+          "category": "port",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein lokaler Bus bringt Sie zur Küste.",
+            "hu": "Egy helyi busz leviszi a partra.",
+            "ro": "Un autobuz local vă duce spre coastă.",
+            "en": "A local bus takes you to the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Verklärung",
+            "hu": "Színeváltozás templom",
+            "ro": "Biserica Schimbării la Față",
+            "en": "Church of the Transfiguration"
+          },
+          "coords": [
+            22.752,
+            38.016
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Hafen entfernt.",
+            "hu": "Csak egy rövid sétára a kikötőtől.",
+            "ro": "La doar o scurtă plimbare de port.",
+            "en": "Just a short walk from the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Sikyon",
+            "hu": "Ókori Sziküón",
+            "ro": "Anticul Sicyon",
+            "en": "Ancient Sicyon"
+          },
+          "coords": [
+            22.723,
+            37.983
+          ],
+          "category": "landmark",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Überlandbus (KTEL) zu den Ruinen.",
+            "hu": "Használja a helyközi (KTEL) buszt a romokhoz.",
+            "ro": "Folosiți autobuzul interurban (KTEL) spre ruine.",
+            "en": "Use the intercity bus (KTEL) to reach the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Kiato",
+            "hu": "Kiato tengerpartja",
+            "ro": "Plaja Kiato",
+            "en": "Kiato Beach"
+          },
+          "coords": [
+            22.74,
+            38.025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 180,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück an die Küste zum Entspannen.",
+            "hu": "Busszal utazzon vissza a tengerpartra egy kis pihenésre.",
+            "ro": "Luați autobuzul înapoi spre coastă pentru relaxare.",
+            "en": "Take the bus back to the coast for some relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Durch geschickte Nutzung der lokalen KTEL-Busse verbinden Sie die verschiedenen Zonen. Der Tag beginnt mit einem Spaziergang im Stadtkern um den Platz der Demokratie. Danach geht es per Bus zum Hafen und weiter hinauf zum antiken Sikyon. Den Nachmittag verbringen Sie nach einer Rückfahrt entspannt am Strand von Kiato.",
+        "hu": "A helyi KTEL buszok okos használatával könnyen összekötheti az egyes zónákat. A nap egy sétával indul a városközpontban a Demokrácia tér körül. Ezután busszal eljut a kikötőbe, majd fel az ókori Sziküónba. A délutánt, miután visszautazott, Kiato tengerpartján töltheti el.",
+        "ro": "Prin utilizarea inteligentă a autobuzelor locale KTEL veți conecta diferitele zone. Ziua începe cu o plimbare în centrul orașului în jurul Pieței Democrației. Apoi luați autobuzul spre port și mai departe spre Anticul Sicyon. După o călătorie de întoarcere, vă veți petrece după-amiaza relaxându-vă pe plaja din Kiato.",
+        "en": "By smartly using the local KTEL buses, you can easily connect the different zones. The day begins with a walk in the town center around Democracy Square. Then you take a bus to the port and further up to Ancient Sicyon. After heading back, spend a relaxing afternoon at Kiato Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei-Snacks",
+            "tip": "Holen Sie sich morgens Tiropita (Käsekuchen) auf die Hand."
+          },
+          {
+            "name": "Tzatziki mit Pita",
+            "tip": "Perfekte Beilage am Strand."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Etwas Süßes für den Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Péksütemények",
+            "tip": "Vegyen reggel egy Tiropitát (sajtos pitét) az útra."
+          },
+          {
+            "name": "Tzatziki pitával",
+            "tip": "Tökéletes kísérő a tengerparti étkezéshez."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Valami édes a délutánhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de patiserie",
+            "tip": "Luați de dimineață o Tiropita (plăcintă cu brânză) la pachet."
+          },
+          {
+            "name": "Tzatziki cu pita",
+            "tip": "Garnitura perfectă pe plajă."
+          },
+          {
+            "name": "Baclava",
+            "tip": "Ceva dulce pentru după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery Snacks",
+            "tip": "Grab a Tiropita (cheese pie) to go in the morning."
+          },
+          {
+            "name": "Tzatziki with Pita",
+            "tip": "The perfect side dish at the beach."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Something sweet for the afternoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Museumshof von Sikyon",
+            "tip": "Friedlich und abseits der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Abendspaziergang am Hafen",
+            "tip": "Schön, wenn die Sonne untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziküón múzeumudvara",
+            "tip": "Békés és távol esik a várostól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Esti séta a kikötőben",
+            "tip": "Gyönyörű naplemente idején.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea muzeului din Sicyon",
+            "tip": "Liniștită și departe de oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare de seară în port",
+            "tip": "Foarte frumos la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Courtyard of Sicyon",
+            "tip": "Peaceful and away from the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Evening Walk at the Port",
+            "tip": "Beautiful during sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Süßwaren",
+            "tip": "In den traditionellen Geschäften rund um den Platz."
+          },
+          {
+            "name": "Gewürze",
+            "tip": "Kaufen Sie griechischen Oregano auf dem Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi édességek",
+            "tip": "A tér körüli hagyományos boltokban."
+          },
+          {
+            "name": "Fűszerek",
+            "tip": "Vásároljon görög oregánót a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dulciuri locale",
+            "tip": "În magazinele tradiționale din jurul pieței."
+          },
+          {
+            "name": "Condimente",
+            "tip": "Cumpărați oregano grecesc de la piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Sweets",
+            "tip": "In the traditional shops around the square."
+          },
+          {
+            "name": "Spices",
+            "tip": "Buy Greek oregano at the market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die KTEL-Busfahrpläne im Voraus, da sie sonntags seltener fahren.",
+          "Kaufen Sie Bustickets vorab an Kiosken (Periptero).",
+          "Haben Sie immer etwas Kleingeld für die Busfahrten dabei.",
+          "Die Bushaltestellen im Zentrum sind gut markiert."
+        ],
+        "hu": [
+          "Előre ellenőrizze a KTEL buszok menetrendjét, vasárnap ritkábban járnak.",
+          "A buszjegyeket előre vegye meg az újságosoknál (Periptero).",
+          "Mindig legyen Önnél aprópénz a buszozáshoz.",
+          "A központi buszmegállók jól ki vannak táblázva."
+        ],
+        "ro": [
+          "Verificați din timp orarul autobuzelor KTEL, deoarece circulă mai rar duminica.",
+          "Cumpărați bilete de autobuz în avans de la chioșcuri (Periptero).",
+          "Aveți mereu mărunt la dumneavoastră pentru călătoriile cu autobuzul.",
+          "Stațiile de autobuz din centru sunt bine semnalizate."
+        ],
+        "en": [
+          "Check the KTEL bus schedules in advance, as they run less frequently on Sundays.",
+          "Buy bus tickets in advance at kiosks (Periptero).",
+          "Always have some small change with you for the bus rides.",
+          "The bus stops in the center are well marked."
+        ]
+      }
+    }
+  }
+}

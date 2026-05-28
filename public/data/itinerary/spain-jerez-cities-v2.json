@@ -1,0 +1,1619 @@
+{
+  "city_id": "spain-jerez-cities-v2",
+  "anchor": {
+    "name": "Jerez de la Frontera",
+    "coords": [
+      36.685,
+      -6.126
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:43",
+      "total_km": 1.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Plaza del Arenal",
+          "coords": [
+            36.6848,
+            -6.1372
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Morgens ideal für Kaffee und einen ruhigen Start.",
+            "hu": "Reggel a legjobb kávészünethez.",
+            "ro": "Dimineața e bună pentru cafea și un start calm.",
+            "en": "Best for a morning coffee and a calm start."
+          }
+        },
+        {
+          "name": "Alcázar von Jerez",
+          "coords": [
+            36.6852,
+            -6.1389
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.25,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Patio ist am schönsten vor dem Mittag.",
+            "hu": "A belső udvar délelőtt a legszebb.",
+            "ro": "Curtea e cea mai frumoasă înainte de prânz.",
+            "en": "The patio looks best before noon."
+          }
+        },
+        {
+          "name": "Kathedrale von Jerez",
+          "coords": [
+            36.6866,
+            -6.1397
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Am besten bei weichem Vormittagslicht.",
+            "hu": "A lágy délelőtti fény teszi a legszebbé.",
+            "ro": "Lumina blândă de dimineață e ideală.",
+            "en": "Soft morning light makes it shine."
+          }
+        },
+        {
+          "name": "San Miguel Kirche",
+          "coords": [
+            36.6875,
+            -6.1379
+          ],
+          "category": "religious",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Platz wirkt nachmittags besonders lebendig.",
+            "hu": "A tér délután él a legjobban.",
+            "ro": "Piațeta prinde viață după-amiaza.",
+            "en": "The square livens up in the afternoon."
+          }
+        },
+        {
+          "name": "Palacio del Tiempo",
+          "coords": [
+            36.6891,
+            -6.1361
+          ],
+          "category": "museum",
+          "arrive_at": "13:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Langsam schauen, nicht hetzen.",
+            "hu": "Itt érdemes lassítani.",
+            "ro": "Aici merită să încetinești.",
+            "en": "Slow down here and take your time."
+          }
+        },
+        {
+          "name": "Bodegas Tío Pepe",
+          "coords": [
+            36.6908,
+            -6.139
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Degustation vorher buchen, vor allem mittags.",
+            "hu": "A kóstolót foglald előre.",
+            "ro": "Rezervă degustarea din timp.",
+            "en": "Book the tasting ahead of time."
+          }
+        },
+        {
+          "name": "Real Escuela Andaluza",
+          "coords": [
+            36.6901,
+            -6.141
+          ],
+          "category": "cultural centre",
+          "arrive_at": "16:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wenn möglich, richte den Besuch auf die Vorführung aus.",
+            "hu": "Ha lehet, időzítsd bemutatóhoz.",
+            "ro": "Dacă poți, prinde demonstrația.",
+            "en": "If possible, time it for a show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens gehst du kompakt vom Arenal zum Alcázar, ohne große Wege.\nMittags bleiben Kathedrale, San Miguel und das Palacio del Tiempo schön nah beieinander.\nAm Nachmittag ist Tío Pepe der passende Stopp für eine Sherry-Pause.\nAbends reicht ein ruhiger Kaffee rund um die Real Escuela.",
+        "hu": "Reggel rövid sétával indulsz az Arenalról az Alcázár felé.\nDélben a katedrális, a San Miguel és a Palacio del Tiempo szépen egyben tartható.\nDélután Tío Pepe jó sherry-pihenő.\nEstére a Real Escuela környéke marad nyugodt lezárásnak.",
+        "ro": "Dimineața mergi compact din Arenal spre Alcázar, fără drumuri lungi.\nLa prânz, catedrala, San Miguel și Palacio del Tiempo rămân bine legate.\nDupă-amiaza, Tío Pepe e pauza potrivită de sherry.\nSeara merge un final liniștit la Real Escuela.",
+        "en": "Morning stays compact, from the Arenal to the Alcázar with no long walks.\nBy midday, the cathedral, San Miguel, and Palacio del Tiempo sit nicely together.\nIn the afternoon, Tío Pepe makes the right sherry pause.\nEvening can finish quietly around the Real Escuela."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tabanco El Pasaje",
+            "tip": "Fino und Tapas, abends am besten reservieren."
+          },
+          {
+            "name": "La Carboná",
+            "tip": "Rabo de toro mit Sherry passt hier perfekt."
+          },
+          {
+            "name": "Bodegas Tío Pepe",
+            "tip": "Leichte Mittagsbissen im Hof sind ideal."
+          },
+          {
+            "name": "Bar Juanito",
+            "tip": "Solide Klassiker und schnelle Tagesgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tabanco El Pasaje",
+            "tip": "Fino és tapas, estére foglalj."
+          },
+          {
+            "name": "La Carboná",
+            "tip": "A rabo de toro sherryvel nagyon jó páros."
+          },
+          {
+            "name": "Bodegas Tío Pepe",
+            "tip": "Könnyű ebéd a bodega udvarán."
+          },
+          {
+            "name": "Bar Juanito",
+            "tip": "Megbízható klasszikusok és gyors menük."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tabanco El Pasaje",
+            "tip": "Fino și tapas; seara merită rezervare."
+          },
+          {
+            "name": "La Carboná",
+            "tip": "Rabo de toro și sherry merg foarte bine aici."
+          },
+          {
+            "name": "Bodegas Tío Pepe",
+            "tip": "Pauză ușoară de prânz în curtea bodegii."
+          },
+          {
+            "name": "Bar Juanito",
+            "tip": "Clasice sigure și meniuri rapide."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tabanco El Pasaje",
+            "tip": "Fino and tapas, best with an evening reservation."
+          },
+          {
+            "name": "La Carboná",
+            "tip": "Rabo de toro and sherry pair beautifully here."
+          },
+          {
+            "name": "Bodegas Tío Pepe",
+            "tip": "Good for a light lunch in the bodega courtyard."
+          },
+          {
+            "name": "Bar Juanito",
+            "tip": "Reliable classics and quick daily plates."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Patio del Alcázar",
+            "tip": "Früh da, fast leer, beste Fotos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Claustro de la Cartuja",
+            "tip": "Kühl, still und entschleunigt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaza del Arenal nach Sonnenuntergang",
+            "tip": "Kurzer Kaffee auf der Bank.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Umfeld der Kathedrale",
+            "tip": "Goldenes Licht am späten Nachmittag.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Alcázár udvara",
+            "tip": "Korán szinte üres.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Cartuja kerengője",
+            "tip": "Hűvös és csendes.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arenal tér naplemente után",
+            "tip": "Rövid kávészünetre jó.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A katedrális környéke",
+            "tip": "Aranyóra a legszebb.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Alcázarului",
+            "tip": "Dimineața e aproape goală.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Claustrul Cartuja",
+            "tip": "Rece, tăcut și lent.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Piața Arenal după apus",
+            "tip": "Bună pentru o cafea scurtă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Zona catedralei",
+            "tip": "Lumina de aur e superbă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alcázar courtyard",
+            "tip": "Early is nearly empty.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cartuja cloister",
+            "tip": "Cool, quiet, and slow.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arenal Square after sunset",
+            "tip": "Great for a short coffee break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral surroundings",
+            "tip": "Golden light looks best late day.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Central de Abastos",
+            "tip": "Frische Sachen und kleine Snacks."
+          },
+          {
+            "name": "Tío Pepe Shop",
+            "tip": "Fino oder Oloroso als Geschenk."
+          },
+          {
+            "name": "Altstadt-Keramik",
+            "tip": "Pferde- und Flamenco-Motive sind Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Central de Abastos",
+            "tip": "Friss alapanyagok és kis falatok."
+          },
+          {
+            "name": "Tío Pepe bolt",
+            "tip": "Egy fino vagy oloroso jó ajándék."
+          },
+          {
+            "name": "Óvárosi kerámia",
+            "tip": "A lovas és flamencós minták klasszikusok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Central de Abastos",
+            "tip": "Produse proaspete și gustări mici."
+          },
+          {
+            "name": "Magazinul Tío Pepe",
+            "tip": "Un fino sau oloroso e cadoul sigur."
+          },
+          {
+            "name": "Ceramică din centru",
+            "tip": "Modelele cu cai și flamenco sunt clasice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Central de Abastos",
+            "tip": "Fresh produce and small bites."
+          },
+          {
+            "name": "Tío Pepe shop",
+            "tip": "A fino or oloroso makes a safe gift."
+          },
+          {
+            "name": "Old-town ceramics",
+            "tip": "Horse and flamenco motifs are classics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Starte früh, weil die Altstadt zu Fuß am angenehmsten ist.",
+          "Kathedrale und Alcázar lohnen sich vorm Mittag am meisten.",
+          "Für Bodega-Proben lieber vorher reservieren.",
+          "In der Mittagshitze helfen kurze Kaffeepausen und viel Wasser."
+        ],
+        "hu": [
+          "Indulj korán, mert az óváros gyalog a legjobb.",
+          "A katedrális és az Alcázár délelőtt a legszebb.",
+          "A bodega-kóstolóra érdemes előre foglalni.",
+          "Délben tarts rövid kávészünetet és igyál sok vizet."
+        ],
+        "ro": [
+          "Începe devreme, fiindcă centrul vechi se vede cel mai bine pe jos.",
+          "Catedrala și Alcázarul merită dimineața.",
+          "Pentru degustările de sherry, rezervă din timp.",
+          "La prânz, fă pauze scurte și bea apă."
+        ],
+        "en": [
+          "Start early, because the old town works best on foot.",
+          "The cathedral and Alcázar are strongest before lunch.",
+          "Book sherry tastings in advance.",
+          "In the midday heat, use short café breaks and keep water with you."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:26",
+      "total_km": 4.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Plaza del Arenal",
+          "coords": [
+            36.6848,
+            -6.1372
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Morgens ideal für Kaffee und einen ruhigen Start.",
+            "hu": "Reggel a legjobb kávészünethez.",
+            "ro": "Dimineața e bună pentru cafea și un start calm.",
+            "en": "Best for a morning coffee and a calm start."
+          }
+        },
+        {
+          "name": "Alcázar von Jerez",
+          "coords": [
+            36.6852,
+            -6.1389
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Patio ist am schönsten vor dem Mittag.",
+            "hu": "A belső udvar délelőtt a legszebb.",
+            "ro": "Curtea e cea mai frumoasă înainte de prânz.",
+            "en": "The patio looks best before noon."
+          }
+        },
+        {
+          "name": "Kathedrale von Jerez",
+          "coords": [
+            36.6866,
+            -6.1397
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Am besten bei weichem Vormittagslicht.",
+            "hu": "A lágy délelőtti fény teszi a legszebbé.",
+            "ro": "Lumina blândă de dimineață e ideală.",
+            "en": "Soft morning light makes it shine."
+          }
+        },
+        {
+          "name": "San Miguel Kirche",
+          "coords": [
+            36.6875,
+            -6.1379
+          ],
+          "category": "religious",
+          "arrive_at": "12:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Platz wirkt nachmittags besonders lebendig.",
+            "hu": "A tér délután él a legjobban.",
+            "ro": "Piațeta prinde viață după-amiaza.",
+            "en": "The square livens up in the afternoon."
+          }
+        },
+        {
+          "name": "Cartuja de Jerez",
+          "coords": [
+            36.7002,
+            -6.128
+          ],
+          "category": "religious",
+          "arrive_at": "13:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Kreuzgang ist die ruhigste Ecke des Tages.",
+            "hu": "A kerengő a nap legcsendesebb pontja.",
+            "ro": "Claustrul e cel mai liniștit loc.",
+            "en": "The cloister is the quietest spot."
+          }
+        },
+        {
+          "name": "Palacio del Tiempo",
+          "coords": [
+            36.6891,
+            -6.1361
+          ],
+          "category": "museum",
+          "arrive_at": "13:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Langsam schauen, nicht hetzen.",
+            "hu": "Itt érdemes lassítani.",
+            "ro": "Aici merită să încetinești.",
+            "en": "Slow down here and take your time."
+          }
+        },
+        {
+          "name": "Bodegas Tío Pepe",
+          "coords": [
+            36.6908,
+            -6.139
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Degustation vorher buchen, vor allem mittags.",
+            "hu": "A kóstolót foglald előre.",
+            "ro": "Rezervă degustarea din timp.",
+            "en": "Book the tasting ahead of time."
+          }
+        },
+        {
+          "name": "Real Escuela Andaluza",
+          "coords": [
+            36.6901,
+            -6.141
+          ],
+          "category": "cultural centre",
+          "arrive_at": "16:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Wenn möglich, richte den Besuch auf die Vorführung aus.",
+            "hu": "Ha lehet, időzítsd bemutatóhoz.",
+            "ro": "Dacă poți, prinde demonstrația.",
+            "en": "If possible, time it for a show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad kommst du locker durch die Altstadt und kannst auch die weitere Cartuja einbauen.\nPlane die längere Strecke am Vormittag oder nach der Siesta.\nZwischen den kurzen Innenstadtwegen bleibt Zeit für Fotos und einen schnellen Kaffee.\nAm Ende rollst du entspannt zur Real Escuela.",
+        "hu": "Kerékpárral kényelmesen bejárod az óvárost, a távolabbi Cartuját is beiktatva.\nA hosszabb szakaszt tedd délelőttre vagy szieszta utánra.\nA rövid belvárosi etapok között marad idő fotóra és kávéra.\nA végén gördülj be nyugodtan a Real Escuelához.",
+        "ro": "Cu bicicleta parcurgi ușor centrul vechi și poți include și Cartuja mai departe.\nPăstrează porțiunea lungă pentru dimineață sau după siestă.\nÎntre legăturile scurte din centru rămâne loc de poze și cafea.\nLa final ajungi relaxat la Real Escuela.",
+        "en": "By bike, the old town feels easy, and you can fit in the farther Cartuja too.\nSave the longer leg for the morning or after siesta.\nThe short city-center hops leave room for photos and coffee.\nYou finish with an easy roll to the Real Escuela."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tabanco El Pasaje",
+            "tip": "Fino und Tapas, abends am besten reservieren."
+          },
+          {
+            "name": "La Carboná",
+            "tip": "Rabo de toro mit Sherry passt hier perfekt."
+          },
+          {
+            "name": "Bodegas Tío Pepe",
+            "tip": "Leichte Mittagsbissen im Hof sind ideal."
+          },
+          {
+            "name": "Bar Juanito",
+            "tip": "Solide Klassiker und schnelle Tagesgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tabanco El Pasaje",
+            "tip": "Fino és tapas, estére foglalj."
+          },
+          {
+            "name": "La Carboná",
+            "tip": "A rabo de toro sherryvel nagyon jó páros."
+          },
+          {
+            "name": "Bodegas Tío Pepe",
+            "tip": "Könnyű ebéd a bodega udvarán."
+          },
+          {
+            "name": "Bar Juanito",
+            "tip": "Megbízható klasszikusok és gyors menük."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tabanco El Pasaje",
+            "tip": "Fino și tapas; seara merită rezervare."
+          },
+          {
+            "name": "La Carboná",
+            "tip": "Rabo de toro și sherry merg foarte bine aici."
+          },
+          {
+            "name": "Bodegas Tío Pepe",
+            "tip": "Pauză ușoară de prânz în curtea bodegii."
+          },
+          {
+            "name": "Bar Juanito",
+            "tip": "Clasice sigure și meniuri rapide."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tabanco El Pasaje",
+            "tip": "Fino and tapas, best with an evening reservation."
+          },
+          {
+            "name": "La Carboná",
+            "tip": "Rabo de toro and sherry pair beautifully here."
+          },
+          {
+            "name": "Bodegas Tío Pepe",
+            "tip": "Good for a light lunch in the bodega courtyard."
+          },
+          {
+            "name": "Bar Juanito",
+            "tip": "Reliable classics and quick daily plates."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Patio del Alcázar",
+            "tip": "Früh da, fast leer, beste Fotos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Claustro de la Cartuja",
+            "tip": "Kühl, still und entschleunigt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaza del Arenal nach Sonnenuntergang",
+            "tip": "Kurzer Kaffee auf der Bank.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Umfeld der Kathedrale",
+            "tip": "Goldenes Licht am späten Nachmittag.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Alcázár udvara",
+            "tip": "Korán szinte üres.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Cartuja kerengője",
+            "tip": "Hűvös és csendes.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arenal tér naplemente után",
+            "tip": "Rövid kávészünetre jó.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A katedrális környéke",
+            "tip": "Aranyóra a legszebb.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Alcázarului",
+            "tip": "Dimineața e aproape goală.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Claustrul Cartuja",
+            "tip": "Rece, tăcut și lent.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Piața Arenal după apus",
+            "tip": "Bună pentru o cafea scurtă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Zona catedralei",
+            "tip": "Lumina de aur e superbă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alcázar courtyard",
+            "tip": "Early is nearly empty.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cartuja cloister",
+            "tip": "Cool, quiet, and slow.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arenal Square after sunset",
+            "tip": "Great for a short coffee break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral surroundings",
+            "tip": "Golden light looks best late day.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Central de Abastos",
+            "tip": "Frische Sachen und kleine Snacks."
+          },
+          {
+            "name": "Tío Pepe Shop",
+            "tip": "Fino oder Oloroso als Geschenk."
+          },
+          {
+            "name": "Altstadt-Keramik",
+            "tip": "Pferde- und Flamenco-Motive sind Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Central de Abastos",
+            "tip": "Friss alapanyagok és kis falatok."
+          },
+          {
+            "name": "Tío Pepe bolt",
+            "tip": "Egy fino vagy oloroso jó ajándék."
+          },
+          {
+            "name": "Óvárosi kerámia",
+            "tip": "A lovas és flamencós minták klasszikusok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Central de Abastos",
+            "tip": "Produse proaspete și gustări mici."
+          },
+          {
+            "name": "Magazinul Tío Pepe",
+            "tip": "Un fino sau oloroso e cadoul sigur."
+          },
+          {
+            "name": "Ceramică din centru",
+            "tip": "Modelele cu cai și flamenco sunt clasice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Central de Abastos",
+            "tip": "Fresh produce and small bites."
+          },
+          {
+            "name": "Tío Pepe shop",
+            "tip": "A fino or oloroso makes a safe gift."
+          },
+          {
+            "name": "Old-town ceramics",
+            "tip": "Horse and flamenco motifs are classics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bleib auf den flachen Innenstadtschleifen, und nimm die längere Cartuja-Strecke am Vormittag.",
+          "Der Verkehr ist vor 11 Uhr und nach 17 Uhr angenehmer als in der Mittagsspitze.",
+          "Schließe das Rad bei Bodega-Stopps immer gut an.",
+          "Rechne an sonnigen Plätzen mit wenig Schatten und plane einen längeren Kaffeestopp ein."
+        ],
+        "hu": [
+          "Maradj a sík belvárosi köröknél, a hosszabb Cartuja-szakaszt tedd délelőttre.",
+          "A forgalom 11 előtt és 17 után kellemesebb, mint ebédidőben.",
+          "Bodega-látogatásnál mindig zárd le rendesen a biciklit.",
+          "A napos tereken kevés az árnyék, ezért tarts egy hosszabb kávészünetet."
+        ],
+        "ro": [
+          "Rămâi pe traseele plate din centru și pune segmentul mai lung spre Cartuja dimineața.",
+          "Traficul e mai plăcut înainte de 11 și după 17 decât la prânz.",
+          "La opririle din bodegă, încuie mereu bicicleta bine.",
+          "În piețele însorite e puțină umbră, așa că lasă loc pentru o pauză de cafea mai lungă."
+        ],
+        "en": [
+          "Stick to the flat city-center loops, and save the longer Cartuja leg for the morning.",
+          "Traffic is easier before 11 and after 17 than at lunchtime.",
+          "Always lock the bike properly at any bodega stop.",
+          "Sunny squares have little shade, so plan one longer coffee break."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 3.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Plaza del Arenal",
+          "coords": [
+            36.6848,
+            -6.1372
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Morgens ideal für Kaffee und einen ruhigen Start.",
+            "hu": "Reggel a legjobb kávészünethez.",
+            "ro": "Dimineața e bună pentru cafea și un start calm.",
+            "en": "Best for a morning coffee and a calm start."
+          }
+        },
+        {
+          "name": "Alcázar von Jerez",
+          "coords": [
+            36.6852,
+            -6.1389
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.25,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Patio ist am schönsten vor dem Mittag.",
+            "hu": "A belső udvar délelőtt a legszebb.",
+            "ro": "Curtea e cea mai frumoasă înainte de prânz.",
+            "en": "The patio looks best before noon."
+          }
+        },
+        {
+          "name": "Kathedrale von Jerez",
+          "coords": [
+            36.6866,
+            -6.1397
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Am besten bei weichem Vormittagslicht.",
+            "hu": "A lágy délelőtti fény teszi a legszebbé.",
+            "ro": "Lumina blândă de dimineață e ideală.",
+            "en": "Soft morning light makes it shine."
+          }
+        },
+        {
+          "name": "San Miguel Kirche",
+          "coords": [
+            36.6875,
+            -6.1379
+          ],
+          "category": "religious",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.22,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Platz wirkt nachmittags besonders lebendig.",
+            "hu": "A tér délután él a legjobban.",
+            "ro": "Piațeta prinde viață după-amiaza.",
+            "en": "The square livens up in the afternoon."
+          }
+        },
+        {
+          "name": "Palacio del Tiempo",
+          "coords": [
+            36.6891,
+            -6.1361
+          ],
+          "category": "museum",
+          "arrive_at": "13:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Langsam schauen, nicht hetzen.",
+            "hu": "Itt érdemes lassítani.",
+            "ro": "Aici merită să încetinești.",
+            "en": "Slow down here and take your time."
+          }
+        },
+        {
+          "name": "Bodegas Tío Pepe",
+          "coords": [
+            36.6908,
+            -6.139
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Degustation vorher buchen, vor allem mittags.",
+            "hu": "A kóstolót foglald előre.",
+            "ro": "Rezervă degustarea din timp.",
+            "en": "Book the tasting ahead of time."
+          }
+        },
+        {
+          "name": "Real Escuela Andaluza",
+          "coords": [
+            36.6901,
+            -6.141
+          ],
+          "category": "cultural centre",
+          "arrive_at": "16:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wenn möglich, richte den Besuch auf die Vorführung aus.",
+            "hu": "Ha lehet, időzítsd bemutatóhoz.",
+            "ro": "Dacă poți, prinde demonstrația.",
+            "en": "If possible, time it for a show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto parkst du am besten clusterweise und gehst die letzten Meter zu Fuß.\nSo bleiben Arenal, Kathedrale und Palacio del Tiempo entspannt in einem halben Tag.\nFür Bodega und Real Escuela lohnt ein zweiter, kurzer Stellplatz.\nDie Altstadt wirkt so deutlich ruhiger.",
+        "hu": "Autóval érdemes zónánként parkolni, és az utolsó métereket gyalog megtenni.\nÍgy az Arenal, a katedrális és a Palacio del Tiempo kényelmesen összejön egy napban.\nA bodegához és a Real Escuelához is jobb külön, rövid parkolót választani.\nAz óváros így sokkal nyugodtabb marad.",
+        "ro": "Cu mașina, parcarea pe clustere e cea mai bună, iar ultimii metri îi faci pe jos.\nAșa, Arenal, catedrala și Palacio del Tiempo încape lejer într-o zi.\nPentru bodegă și Real Escuela merită încă o oprire scurtă.\nCentrul vechi rămâne mult mai relaxat.",
+        "en": "By car, parking by cluster works best, with the last meters on foot.\nThat keeps Arenal, the cathedral, and Palacio del Tiempo easy in one day.\nUse one more short parking stop for the bodega and the Real Escuela.\nThe old town feels much calmer this way."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tabanco El Pasaje",
+            "tip": "Fino und Tapas, abends am besten reservieren."
+          },
+          {
+            "name": "La Carboná",
+            "tip": "Rabo de toro mit Sherry passt hier perfekt."
+          },
+          {
+            "name": "Bodegas Tío Pepe",
+            "tip": "Leichte Mittagsbissen im Hof sind ideal."
+          },
+          {
+            "name": "Bar Juanito",
+            "tip": "Solide Klassiker und schnelle Tagesgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tabanco El Pasaje",
+            "tip": "Fino és tapas, estére foglalj."
+          },
+          {
+            "name": "La Carboná",
+            "tip": "A rabo de toro sherryvel nagyon jó páros."
+          },
+          {
+            "name": "Bodegas Tío Pepe",
+            "tip": "Könnyű ebéd a bodega udvarán."
+          },
+          {
+            "name": "Bar Juanito",
+            "tip": "Megbízható klasszikusok és gyors menük."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tabanco El Pasaje",
+            "tip": "Fino și tapas; seara merită rezervare."
+          },
+          {
+            "name": "La Carboná",
+            "tip": "Rabo de toro și sherry merg foarte bine aici."
+          },
+          {
+            "name": "Bodegas Tío Pepe",
+            "tip": "Pauză ușoară de prânz în curtea bodegii."
+          },
+          {
+            "name": "Bar Juanito",
+            "tip": "Clasice sigure și meniuri rapide."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tabanco El Pasaje",
+            "tip": "Fino and tapas, best with an evening reservation."
+          },
+          {
+            "name": "La Carboná",
+            "tip": "Rabo de toro and sherry pair beautifully here."
+          },
+          {
+            "name": "Bodegas Tío Pepe",
+            "tip": "Good for a light lunch in the bodega courtyard."
+          },
+          {
+            "name": "Bar Juanito",
+            "tip": "Reliable classics and quick daily plates."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Patio del Alcázar",
+            "tip": "Früh da, fast leer, beste Fotos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Claustro de la Cartuja",
+            "tip": "Kühl, still und entschleunigt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaza del Arenal nach Sonnenuntergang",
+            "tip": "Kurzer Kaffee auf der Bank.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Umfeld der Kathedrale",
+            "tip": "Goldenes Licht am späten Nachmittag.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Alcázár udvara",
+            "tip": "Korán szinte üres.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Cartuja kerengője",
+            "tip": "Hűvös és csendes.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arenal tér naplemente után",
+            "tip": "Rövid kávészünetre jó.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A katedrális környéke",
+            "tip": "Aranyóra a legszebb.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Alcázarului",
+            "tip": "Dimineața e aproape goală.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Claustrul Cartuja",
+            "tip": "Rece, tăcut și lent.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Piața Arenal după apus",
+            "tip": "Bună pentru o cafea scurtă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Zona catedralei",
+            "tip": "Lumina de aur e superbă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alcázar courtyard",
+            "tip": "Early is nearly empty.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cartuja cloister",
+            "tip": "Cool, quiet, and slow.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arenal Square after sunset",
+            "tip": "Great for a short coffee break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral surroundings",
+            "tip": "Golden light looks best late day.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Central de Abastos",
+            "tip": "Frische Sachen und kleine Snacks."
+          },
+          {
+            "name": "Tío Pepe Shop",
+            "tip": "Fino oder Oloroso als Geschenk."
+          },
+          {
+            "name": "Altstadt-Keramik",
+            "tip": "Pferde- und Flamenco-Motive sind Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Central de Abastos",
+            "tip": "Friss alapanyagok és kis falatok."
+          },
+          {
+            "name": "Tío Pepe bolt",
+            "tip": "Egy fino vagy oloroso jó ajándék."
+          },
+          {
+            "name": "Óvárosi kerámia",
+            "tip": "A lovas és flamencós minták klasszikusok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Central de Abastos",
+            "tip": "Produse proaspete și gustări mici."
+          },
+          {
+            "name": "Magazinul Tío Pepe",
+            "tip": "Un fino sau oloroso e cadoul sigur."
+          },
+          {
+            "name": "Ceramică din centru",
+            "tip": "Modelele cu cai și flamenco sunt clasice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Central de Abastos",
+            "tip": "Fresh produce and small bites."
+          },
+          {
+            "name": "Tío Pepe shop",
+            "tip": "A fino or oloroso makes a safe gift."
+          },
+          {
+            "name": "Old-town ceramics",
+            "tip": "Horse and flamenco motifs are classics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parke in jeder Zone nur einmal und laufe die letzten Meter.",
+          "Die Altstadt ist zu Fuß angenehmer als im dichten Verkehr.",
+          "Für Bodega-Terminen lohnt eine feste Uhrzeit vor der Weiterfahrt.",
+          "Im Sommer sind kurze Fahrten am frühen Morgen deutlich entspannter."
+        ],
+        "hu": [
+          "Zónánként csak egyszer parkolj, és a végén sétálj.",
+          "Az óváros gyalog kellemesebb, mint sűrű forgalomban.",
+          "Bodega-időpontnál jól jön egy fix óra a továbbindulás előtt.",
+          "Nyáron a korai autós szakaszok sokkal kényelmesebbek."
+        ],
+        "ro": [
+          "Parchează o singură dată în fiecare zonă și mergi ultimii metri pe jos.",
+          "Centrul vechi e mai plăcut pe jos decât în trafic dens.",
+          "Pentru bodegă, merită o oră fixă înainte de a pleca mai departe.",
+          "Vara, legăturile scurte dimineața devreme sunt mult mai relaxate."
+        ],
+        "en": [
+          "Park once per zone and walk the last meters.",
+          "The old town is easier on foot than in dense traffic.",
+          "For bodega visits, a fixed time helps before moving on.",
+          "In summer, short drives are much easier early in the day."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:46",
+      "total_km": 3.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Plaza del Arenal",
+          "coords": [
+            36.6848,
+            -6.1372
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Morgens ideal für Kaffee und einen ruhigen Start.",
+            "hu": "Reggel a legjobb kávészünethez.",
+            "ro": "Dimineața e bună pentru cafea și un start calm.",
+            "en": "Best for a morning coffee and a calm start."
+          }
+        },
+        {
+          "name": "Alcázar von Jerez",
+          "coords": [
+            36.6852,
+            -6.1389
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.25,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Patio ist am schönsten vor dem Mittag.",
+            "hu": "A belső udvar délelőtt a legszebb.",
+            "ro": "Curtea e cea mai frumoasă înainte de prânz.",
+            "en": "The patio looks best before noon."
+          }
+        },
+        {
+          "name": "Kathedrale von Jerez",
+          "coords": [
+            36.6866,
+            -6.1397
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Am besten bei weichem Vormittagslicht.",
+            "hu": "A lágy délelőtti fény teszi a legszebbé.",
+            "ro": "Lumina blândă de dimineață e ideală.",
+            "en": "Soft morning light makes it shine."
+          }
+        },
+        {
+          "name": "San Miguel Kirche",
+          "coords": [
+            36.6875,
+            -6.1379
+          ],
+          "category": "religious",
+          "arrive_at": "12:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.22,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Platz wirkt nachmittags besonders lebendig.",
+            "hu": "A tér délután él a legjobban.",
+            "ro": "Piațeta prinde viață după-amiaza.",
+            "en": "The square livens up in the afternoon."
+          }
+        },
+        {
+          "name": "Palacio del Tiempo",
+          "coords": [
+            36.6891,
+            -6.1361
+          ],
+          "category": "museum",
+          "arrive_at": "13:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Langsam schauen, nicht hetzen.",
+            "hu": "Itt érdemes lassítani.",
+            "ro": "Aici merită să încetinești.",
+            "en": "Slow down here and take your time."
+          }
+        },
+        {
+          "name": "Bodegas Tío Pepe",
+          "coords": [
+            36.6908,
+            -6.139
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Degustation vorher buchen, vor allem mittags.",
+            "hu": "A kóstolót foglald előre.",
+            "ro": "Rezervă degustarea din timp.",
+            "en": "Book the tasting ahead of time."
+          }
+        },
+        {
+          "name": "Real Escuela Andaluza",
+          "coords": [
+            36.6901,
+            -6.141
+          ],
+          "category": "cultural centre",
+          "arrive_at": "16:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wenn möglich, richte den Besuch auf die Vorführung aus.",
+            "hu": "Ha lehet, időzítsd bemutatóhoz.",
+            "ro": "Dacă poți, prinde demonstrația.",
+            "en": "If possible, time it for a show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit Bus oder Stadtbahn funktioniert Jerez am besten in kleinen Viertel-Blöcken.\nEin Ticket reicht für den Kern rund um Arenal, Kathedrale und San Miguel.\nFür das Palacio del Tiempo und Tío Pepe nimmst du die nächste kurze Verbindung.\nSo bleibt der Tag flexibel und stressarm.",
+        "hu": "Busszal vagy helyi járattal Jerez legjobban kis városrészes blokkokban járható be.\nEgy jegy elég az Arenal, a katedrális és a San Miguel környékére.\nA Palacio del Tiempo és Tío Pepe felé a következő rövid kapcsolattal menj tovább.\nÍgy a nap rugalmas és stresszmentes marad.",
+        "ro": "Cu autobuzul, Jerez merge cel mai bine pe cartiere mici, în blocuri compacte.\nUn bilet ajunge pentru zona Arenal, catedrală și San Miguel.\nPentru Palacio del Tiempo și Tío Pepe, ia legătura scurtă următoare.\nAșa ziua rămâne flexibilă și fără stres.",
+        "en": "By bus, Jerez works best in small district blocks.\nOne ticket covers the Arenal, the cathedral, and San Miguel area.\nFor Palacio del Tiempo and Tío Pepe, take the next short link.\nThat keeps the day flexible and low-stress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tabanco El Pasaje",
+            "tip": "Fino und Tapas, abends am besten reservieren."
+          },
+          {
+            "name": "La Carboná",
+            "tip": "Rabo de toro mit Sherry passt hier perfekt."
+          },
+          {
+            "name": "Bodegas Tío Pepe",
+            "tip": "Leichte Mittagsbissen im Hof sind ideal."
+          },
+          {
+            "name": "Bar Juanito",
+            "tip": "Solide Klassiker und schnelle Tagesgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tabanco El Pasaje",
+            "tip": "Fino és tapas, estére foglalj."
+          },
+          {
+            "name": "La Carboná",
+            "tip": "A rabo de toro sherryvel nagyon jó páros."
+          },
+          {
+            "name": "Bodegas Tío Pepe",
+            "tip": "Könnyű ebéd a bodega udvarán."
+          },
+          {
+            "name": "Bar Juanito",
+            "tip": "Megbízható klasszikusok és gyors menük."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tabanco El Pasaje",
+            "tip": "Fino și tapas; seara merită rezervare."
+          },
+          {
+            "name": "La Carboná",
+            "tip": "Rabo de toro și sherry merg foarte bine aici."
+          },
+          {
+            "name": "Bodegas Tío Pepe",
+            "tip": "Pauză ușoară de prânz în curtea bodegii."
+          },
+          {
+            "name": "Bar Juanito",
+            "tip": "Clasice sigure și meniuri rapide."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tabanco El Pasaje",
+            "tip": "Fino and tapas, best with an evening reservation."
+          },
+          {
+            "name": "La Carboná",
+            "tip": "Rabo de toro and sherry pair beautifully here."
+          },
+          {
+            "name": "Bodegas Tío Pepe",
+            "tip": "Good for a light lunch in the bodega courtyard."
+          },
+          {
+            "name": "Bar Juanito",
+            "tip": "Reliable classics and quick daily plates."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Patio del Alcázar",
+            "tip": "Früh da, fast leer, beste Fotos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Claustro de la Cartuja",
+            "tip": "Kühl, still und entschleunigt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaza del Arenal nach Sonnenuntergang",
+            "tip": "Kurzer Kaffee auf der Bank.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Umfeld der Kathedrale",
+            "tip": "Goldenes Licht am späten Nachmittag.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Alcázár udvara",
+            "tip": "Korán szinte üres.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Cartuja kerengője",
+            "tip": "Hűvös és csendes.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arenal tér naplemente után",
+            "tip": "Rövid kávészünetre jó.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A katedrális környéke",
+            "tip": "Aranyóra a legszebb.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Alcázarului",
+            "tip": "Dimineața e aproape goală.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Claustrul Cartuja",
+            "tip": "Rece, tăcut și lent.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Piața Arenal după apus",
+            "tip": "Bună pentru o cafea scurtă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Zona catedralei",
+            "tip": "Lumina de aur e superbă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alcázar courtyard",
+            "tip": "Early is nearly empty.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cartuja cloister",
+            "tip": "Cool, quiet, and slow.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arenal Square after sunset",
+            "tip": "Great for a short coffee break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral surroundings",
+            "tip": "Golden light looks best late day.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Central de Abastos",
+            "tip": "Frische Sachen und kleine Snacks."
+          },
+          {
+            "name": "Tío Pepe Shop",
+            "tip": "Fino oder Oloroso als Geschenk."
+          },
+          {
+            "name": "Altstadt-Keramik",
+            "tip": "Pferde- und Flamenco-Motive sind Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Central de Abastos",
+            "tip": "Friss alapanyagok és kis falatok."
+          },
+          {
+            "name": "Tío Pepe bolt",
+            "tip": "Egy fino vagy oloroso jó ajándék."
+          },
+          {
+            "name": "Óvárosi kerámia",
+            "tip": "A lovas és flamencós minták klasszikusok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Central de Abastos",
+            "tip": "Produse proaspete și gustări mici."
+          },
+          {
+            "name": "Magazinul Tío Pepe",
+            "tip": "Un fino sau oloroso e cadoul sigur."
+          },
+          {
+            "name": "Ceramică din centru",
+            "tip": "Modelele cu cai și flamenco sunt clasice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Central de Abastos",
+            "tip": "Fresh produce and small bites."
+          },
+          {
+            "name": "Tío Pepe shop",
+            "tip": "A fino or oloroso makes a safe gift."
+          },
+          {
+            "name": "Old-town ceramics",
+            "tip": "Horse and flamenco motifs are classics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutze jede Linie als Viertel-Verbindung und laufe die letzten 100 bis 400 Meter.",
+          "Das Zentrum ist an Haltestellenwechseln einfacher als im Auto.",
+          "Plane für Bodega-Besuche eine feste Uhrzeit, damit die Rückfahrt passt.",
+          "Wenn du spät dran bist, streiche lieber einen Zwischenstopp als die Hauptcluster."
+        ],
+        "hu": [
+          "Minden vonalat városrészek közti kapcsolatra használd, és a végén sétálj 100-400 métert.",
+          "A központ tömegközlekedéssel egyszerűbb, mint autóval.",
+          "A bodega-látogatáshoz tarts fix időpontot, hogy a visszaút is beleférjen.",
+          "Ha csúszol, inkább egy köztes megállót hagyj ki, ne a fő csomópontokat."
+        ],
+        "ro": [
+          "Folosește fiecare linie ca legătură între cartiere și mergi ultimele 100-400 m pe jos.",
+          "Centrul e mai simplu cu transportul public decât cu mașina.",
+          "La bodegă, păstrează o oră fixă ca să-ți iasă și întoarcerea.",
+          "Dacă întârzii, mai bine sari o oprire intermediară decât un cluster principal."
+        ],
+        "en": [
+          "Use each line as a district link and walk the final 100 to 400 meters.",
+          "The center is easier by transit than by car.",
+          "Keep a fixed time for bodega visits so the return leg still works.",
+          "If you run late, drop an intermediate stop rather than a main cluster."
+        ]
+      }
+    }
+  }
+}

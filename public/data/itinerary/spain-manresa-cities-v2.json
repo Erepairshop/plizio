@@ -1,0 +1,1348 @@
+{
+  "city_id": "spain-manresa-cities-v2",
+  "anchor": {
+    "name": "Manresa",
+    "coords": [
+      1.8296,
+      41.7258
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 2.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Manresa",
+            "hu": "Manresai városháza",
+            "ro": "Primăria din Manresa",
+            "en": "Manresa Town Hall"
+          },
+          "coords": [
+            1.828,
+            41.7242
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Bewundern Sie die barocke Fassade und den belebten Platz davor.",
+            "hu": "Csodálja meg a barokk homlokzatot és az előtte elterülő nyüzsgő teret.",
+            "ro": "Admirați fațada barocă și piața plină de viață din față.",
+            "en": "Admire the baroque facade and the bustling square in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Carrer del Balç",
+            "hu": "Carrer del Balç",
+            "ro": "Carrer del Balç",
+            "en": "Carrer del Balç"
+          },
+          "coords": [
+            1.8275,
+            41.7245
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Erkunden Sie diese enge mittelalterliche Gasse und ihre einzigartigen Geschäfte.",
+            "hu": "Fedezze fel ezt a szűk középkori sikátort és egyedi üzleteit.",
+            "ro": "Explorați această alee medievală îngustă și magazinele sale unice.",
+            "en": "Explore this narrow medieval alley and its unique shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Santa Maria de la Seu",
+            "hu": "Santa Maria de la Seu bazilika",
+            "ro": "Bazilica Santa Maria de la Seu",
+            "en": "Basilica of Santa Maria de la Seu"
+          },
+          "coords": [
+            1.826,
+            41.723
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Steigen Sie auf den Glockenturm für eine atemberaubende Aussicht.",
+            "hu": "Menjen fel a harangtoronyba a lélegzetelállító kilátásért.",
+            "ro": "Urcați în clopotniță pentru o priveliște uluitoare.",
+            "en": "Climb the bell tower for a breathtaking view."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Vell (Alte Brücke)",
+            "hu": "Pont Vell (Öreg híd)",
+            "ro": "Pont Vell (Podul Vechi)",
+            "en": "Pont Vell (Old Bridge)"
+          },
+          "coords": [
+            1.8245,
+            41.7215
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Machen Sie ein Foto von der Brücke mit der Basilika im Hintergrund.",
+            "hu": "Készítsen egy képet a hídról a bazilikával a háttérben.",
+            "ro": "Faceți o fotografie a podului cu bazilica în fundal.",
+            "en": "Take a photo of the bridge with the basilica in the background."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionmuseum von Manresa",
+            "hu": "Manresai Regionális Múzeum",
+            "ro": "Muzeul Regional Manresa",
+            "en": "Manresa Regional Museum"
+          },
+          "coords": [
+            1.831,
+            41.725
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 90,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Entdecken Sie die lokale Geschichte von der Vorgeschichte bis zur Gegenwart.",
+            "hu": "Ismerje meg a helyi történelmet az őskortól napjainkig.",
+            "ro": "Descoperiți istoria locală din preistorie până în prezent.",
+            "en": "Discover local history from prehistory to the present day."
+          }
+        },
+        {
+          "name": {
+            "de": "Höhle des Heiligen Ignatius",
+            "hu": "Szent Ignác barlangja",
+            "ro": "Peștera Sfântului Ignațiu",
+            "en": "Cave of Saint Ignatius"
+          },
+          "coords": [
+            1.824,
+            41.721
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein Ort der Besinnung und spirituellen Bedeutung.",
+            "hu": "Az elmélkedés és a spirituális jelentőség helye.",
+            "ro": "Un loc de reflecție și semnificație spirituală.",
+            "en": "A place of reflection and spiritual significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino de Manresa",
+            "hu": "Manresai Kaszinó",
+            "ro": "Cazinoul din Manresa",
+            "en": "Casino of Manresa"
+          },
+          "coords": [
+            1.8295,
+            41.727
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Prüfen Sie das Programm für eventuelle kulturelle Veranstaltungen oder Ausstellungen.",
+            "hu": "Ellenőrizze a programot esetleges kulturális események vagy kiállítások miatt.",
+            "ro": "Verificați programul pentru evenimente culturale sau expoziții.",
+            "en": "Check the schedule for any cultural events or exhibitions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Manresas Altstadt und erkunden Sie die historischen Gassen. Nach dem Mittagessen tauchen Sie in die reiche Kunst und spirituelle Geschichte der Stadt ein. Schließen Sie Ihren Tag mit einem kulturellen Höhepunkt ab und genießen Sie die Atmosphäre der Stadt.",
+        "hu": "Kezdje a napot Manresa óvárosának szívében, a történelmi sikátorokat felfedezve. Ebéd után merüljön el a város gazdag művészeti és spirituális történelmében. Zárja a napot egy kulturális élménnyel, élvezve a város hangulatát.",
+        "ro": "Începeți ziua în inima orașului vechi Manresa, explorând aleile istorice. După prânz, scufundați-vă în bogata artă și istorie spirituală a orașului. Încheiați ziua cu un punct culminant cultural, bucurându-vă de atmosfera orașului.",
+        "en": "Start your day in the heart of Manresa's old town, exploring the historic alleys. After lunch, dive into the city's rich art and spiritual history. End your day with a cultural highlight, soaking up the city's atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bacallà a la manresana",
+            "tip": "Ein lokales Kabeljaugericht, das Sie probieren müssen."
+          },
+          {
+            "name": "Restaurant Vermell",
+            "tip": "Bekannt für seine traditionelle katalanische Küche mit modernem Touch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bacallà a la manresana",
+            "tip": "Helyi tőkehal étel, amit meg kell kóstolni."
+          },
+          {
+            "name": "Restaurant Vermell",
+            "tip": "Híres a hagyományos katalán konyhájáról, modern csavarral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bacallà a la manresana",
+            "tip": "Un fel de mâncare local din cod pe care trebuie să-l încerci."
+          },
+          {
+            "name": "Restaurant Vermell",
+            "tip": "Cunoscut pentru bucătăria sa tradițională catalană cu o notă modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bacallà a la manresana",
+            "tip": "A local cod dish that is a must-try."
+          },
+          {
+            "name": "Restaurant Vermell",
+            "tip": "Known for its traditional Catalan cuisine with a modern twist."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick von der Basilika",
+            "tip": "Finden Sie einen ruhigen Moment, um die Aussicht über die Stadt und die Landschaft zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Cardener",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses, weg vom Trubel der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a bazilikától",
+            "tip": "Találjon egy csendes pillanatot, hogy élvezze a városra és a vidékre nyíló kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cardener folyó partja",
+            "tip": "Egy békés séta a folyó mentén, távol a városi nyüzsgéstől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Bazilică",
+            "tip": "Găsiți un moment liniștit pentru a vă bucura de priveliștea asupra orașului și a peisajului rural.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile râului Cardener",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de agitația orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Basilica",
+            "tip": "Find a quiet moment to enjoy the view over the city and countryside.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Cardener River",
+            "tip": "A peaceful walk along the river, away from the city hustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie lokale Produkte und Käse auf dem Wochenmarkt."
+          },
+          {
+            "name": "Geschäfte in der Carrer del Balç",
+            "tip": "Finden Sie einzigartige Handwerkskunst und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi termékeket és sajtokat a hetipiacon."
+          },
+          {
+            "name": "Üzletek a Carrer del Balç-on",
+            "tip": "Találjon egyedi kézműves termékeket és ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse locale și brânzeturi de la piața săptămânală."
+          },
+          {
+            "name": "Magazine pe Carrer del Balç",
+            "tip": "Găsiți obiecte de artizanat unice și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for local produce and cheeses at the weekly market."
+          },
+          {
+            "name": "Shops on Carrer del Balç",
+            "tip": "Find unique crafts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Nehmen Sie eine Wasserflasche mit, besonders in den Sommermonaten.",
+          "Die meisten Geschäfte machen mittags eine Siesta, also planen Sie entsprechend."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog macskakövön sétálni.",
+          "Vigyen magával egy vizes palackot, különösen a nyári hónapokban.",
+          "A legtöbb üzlet délben sziesztát tart, tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe piatră cubică.",
+          "Luați o sticlă de apă, mai ales în lunile de vară.",
+          "Majoritatea magazinelor închid pentru siesta la prânz, așa că planificați-vă în consecință."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot on cobblestones.",
+          "Bring a water bottle, especially during the summer months.",
+          "Most shops close for a siesta at midday, so plan accordingly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Carrer del Balç",
+            "hu": "Carrer del Balç",
+            "ro": "Carrer del Balç",
+            "en": "Carrer del Balç"
+          },
+          "coords": [
+            1.8275,
+            41.7245
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie diese enge Gasse zu Fuß.",
+            "hu": "Zárja le a kerékpárját és fedezze fel gyalog ezt a szűk sikátort.",
+            "ro": "Încuiați-vă bicicleta și explorați această alee îngustă pe jos.",
+            "en": "Lock up your bike and explore this narrow alley on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Santa Maria de la Seu",
+            "hu": "Santa Maria de la Seu bazilika",
+            "ro": "Bazilica Santa Maria de la Seu",
+            "en": "Basilica of Santa Maria de la Seu"
+          },
+          "coords": [
+            1.826,
+            41.723
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Genießen Sie die Aussicht, bevor Sie Ihre Radtour fortsetzen.",
+            "hu": "Élvezze a kilátást, mielőtt folytatná a kerékpártúrát.",
+            "ro": "Bucurați-vă de priveliște înainte de a continua turul cu bicicleta.",
+            "en": "Enjoy the view before continuing your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Vell (Alte Brücke)",
+            "hu": "Pont Vell (Öreg híd)",
+            "ro": "Pont Vell (Podul Vechi)",
+            "en": "Pont Vell (Old Bridge)"
+          },
+          "coords": [
+            1.8245,
+            41.7215
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Eine malerische Fahrt über die historische Brücke.",
+            "hu": "Festői utazás a történelmi hídon át.",
+            "ro": "O plimbare pitorească peste podul istoric.",
+            "en": "A scenic ride across the historic bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Höhle des Heiligen Ignatius",
+            "hu": "Szent Ignác barlangja",
+            "ro": "Peștera Sfântului Ignațiu",
+            "en": "Cave of Saint Ignatius"
+          },
+          "coords": [
+            1.824,
+            41.721
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab, um diesen spirituellen Ort zu besuchen.",
+            "hu": "Parkolja le a kerékpárját a közelben, hogy meglátogassa ezt a spirituális helyet.",
+            "ro": "Parcați-vă bicicleta în apropiere pentru a vizita acest loc spiritual.",
+            "en": "Park your bike nearby to visit this spiritual site."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de l'Agulla",
+            "hu": "Parc de l'Agulla",
+            "ro": "Parcul Agulla",
+            "en": "Parc de l'Agulla"
+          },
+          "coords": [
+            1.805,
+            41.739
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 105,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Machen Sie eine Pause vom Radfahren in der Stadt und genießen Sie die Natur in diesem großen Park.",
+            "hu": "Tartson szünetet a városi biciklizésben, és élvezze a természetet ebben a nagy parkban.",
+            "ro": "Luați o pauză de la ciclismul urban și bucurați-vă de natură în acest parc mare.",
+            "en": "Take a break from city cycling and enjoy nature in this large park."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino de Manresa",
+            "hu": "Manresai Kaszinó",
+            "ro": "Cazinoul din Manresa",
+            "en": "Casino of Manresa"
+          },
+          "coords": [
+            1.8295,
+            41.727
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Fahren Sie zurück ins Zentrum, um das kulturelle Leben zu genießen.",
+            "hu": "Tekerjen vissza a központba egy kulturális élményért.",
+            "ro": "Pedalați înapoi în centru pentru o doză de cultură.",
+            "en": "Cycle back to the center for a dose of culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Manresa",
+            "hu": "Manresai városháza",
+            "ro": "Primăria din Manresa",
+            "en": "Manresa Town Hall"
+          },
+          "coords": [
+            1.828,
+            41.7242
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Beenden Sie Ihre Radtour dort, wo das bürgerliche Herz der Stadt schlägt.",
+            "hu": "Fejezze be a kerékpártúrát ott, ahol a város polgári szíve dobog.",
+            "ro": "Încheiați turul cu bicicleta acolo unde bate inima civică a orașului.",
+            "en": "End your bike tour where the city's civic heart beats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Manresa auf zwei Rädern, von den engen Gassen der Altstadt bis zu den offenen Flächen des Parc de l'Agulla. Die Radtour ermöglicht es Ihnen, sowohl die städtischen Highlights als auch die natürliche Schönheit rund um die Stadt zu erleben. Ein perfekter Mix aus Kultur und Aktivität.",
+        "hu": "Fedezze fel Manresát két keréken, az óváros szűk sikátoraitól a Parc de l'Agulla tágas területeiig. A kerékpártúra lehetővé teszi, hogy megtapasztalja a városi nevezetességeket és a várost körülvevő természeti szépséget is. A kultúra és az aktív pihenés tökéletes keveréke.",
+        "ro": "Explorați Manresa pe două roți, de la aleile înguste ale orașului vechi până la spațiile deschise din Parc de l'Agulla. Turul cu bicicleta vă permite să experimentați atât atracțiile urbane, cât și frumusețea naturală din jurul orașului. Un amestec perfect de cultură și activitate.",
+        "en": "Explore Manresa on two wheels, from the narrow alleys of the old town to the open spaces of Parc de l'Agulla. The bike tour allows you to experience both the urban highlights and the natural beauty surrounding the city. A perfect mix of culture and activity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bacallà a la manresana",
+            "tip": "Ein lokales Kabeljaugericht, das Sie probieren müssen."
+          },
+          {
+            "name": "Restaurant Vermell",
+            "tip": "Bekannt für seine traditionelle katalanische Küche mit modernem Touch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bacallà a la manresana",
+            "tip": "Helyi tőkehal étel, amit meg kell kóstolni."
+          },
+          {
+            "name": "Restaurant Vermell",
+            "tip": "Híres a hagyományos katalán konyhájáról, modern csavarral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bacallà a la manresana",
+            "tip": "Un fel de mâncare local din cod pe care trebuie să-l încerci."
+          },
+          {
+            "name": "Restaurant Vermell",
+            "tip": "Cunoscut pentru bucătăria sa tradițională catalană cu o notă modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bacallà a la manresana",
+            "tip": "A local cod dish that is a must-try."
+          },
+          {
+            "name": "Restaurant Vermell",
+            "tip": "Known for its traditional Catalan cuisine with a modern twist."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de l'Agulla",
+            "tip": "Entfliehen Sie der Stadt und genießen Sie die Ruhe am See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Cardener",
+            "tip": "Eine entspannte Radtour entlang des Flusses.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de l'Agulla",
+            "tip": "Meneküljön el a városból, és élvezze a tóparti nyugalmat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cardener folyó partja",
+            "tip": "Egy pihentető biciklizés a folyó mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Agulla",
+            "tip": "Evadați din oraș și bucurați-vă de liniștea de lângă lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Cardener",
+            "tip": "O plimbare relaxantă cu bicicleta de-a lungul râului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de l'Agulla",
+            "tip": "Escape the city and enjoy the tranquility by the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Cardener River",
+            "tip": "A relaxing bike ride along the river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie lokale Produkte und Käse auf dem Wochenmarkt."
+          },
+          {
+            "name": "Geschäfte in der Carrer del Balç",
+            "tip": "Finden Sie einzigartige Handwerkskunst und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi termékeket és sajtokat a hetipiacon."
+          },
+          {
+            "name": "Üzletek a Carrer del Balç-on",
+            "tip": "Találjon egyedi kézműves termékeket és ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse locale și brânzeturi de la piața săptămânală."
+          },
+          {
+            "name": "Magazine pe Carrer del Balç",
+            "tip": "Găsiți obiecte de artizanat unice și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for local produce and cheeses at the weekly market."
+          },
+          {
+            "name": "Shops on Carrer del Balç",
+            "tip": "Find unique crafts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in einem der örtlichen Geschäfte.",
+          "Überprüfen Sie die Bremsen und Reifen, bevor Sie losfahren.",
+          "Einige Straßen in der Altstadt sind möglicherweise zu eng zum Radfahren."
+        ],
+        "hu": [
+          "Béreljen kerékpárt valamelyik helyi üzletben.",
+          "Indulás előtt ellenőrizze a fékeket és a gumikat.",
+          "Az óváros néhány utcája túl szűk lehet a biciklizéshez."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la unul dintre magazinele locale.",
+          "Verificați frânele și anvelopele înainte de a porni.",
+          "Unele străzi din orașul vechi pot fi prea înguste pentru ciclism."
+        ],
+        "en": [
+          "Rent a bike from one of the local shops.",
+          "Check the brakes and tires before you set off.",
+          "Some streets in the old town may be too narrow for cycling."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken in der Altstadt",
+            "hu": "Parkolás az óvárosban",
+            "ro": "Parcare în orașul vechi",
+            "en": "Old Town Parking"
+          },
+          "coords": [
+            1.8285,
+            41.726
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Parken Sie Ihr Auto auf einem der ausgewiesenen Parkplätze und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkolja le autóját a kijelölt parkolók egyikében, és fedezze fel gyalog az első látnivalócsoportot.",
+            "ro": "Parcați-vă mașina într-una din parcările desemnate și explorați primul grup de atracții pe jos.",
+            "en": "Park your car in one of the designated car parks and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Carrer del Balç & Rathaus",
+            "hu": "Carrer del Balç és Városháza",
+            "ro": "Carrer del Balç și Primăria",
+            "en": "Carrer del Balç & Town Hall"
+          },
+          "coords": [
+            1.8275,
+            41.7245
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Schlendern Sie durch die mittelalterliche Straße zum Hauptplatz der Stadt.",
+            "hu": "Sétáljon végig a középkori utcán a város főterére.",
+            "ro": "Plimbați-vă pe strada medievală până în piața principală a orașului.",
+            "en": "Stroll down the medieval street to the city's main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Santa Maria de la Seu",
+            "hu": "Santa Maria de la Seu bazilika",
+            "ro": "Bazilica Santa Maria de la Seu",
+            "en": "Basilica of Santa Maria de la Seu"
+          },
+          "coords": [
+            1.826,
+            41.723
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang von der Gasse zu diesem beeindruckenden gotischen Meisterwerk.",
+            "hu": "Rövid séta a sikátortól ehhez a lenyűgöző gótikus mesterműhöz.",
+            "ro": "O scurtă plimbare de la alee la această capodoperă gotică impresionantă.",
+            "en": "A short walk from the alley to this impressive Gothic masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Vell (Alte Brücke)",
+            "hu": "Pont Vell (Öreg híd)",
+            "ro": "Pont Vell (Podul Vechi)",
+            "en": "Pont Vell (Old Bridge)"
+          },
+          "coords": [
+            1.8245,
+            41.7215
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Beenden Sie Ihren morgendlichen Spaziergang an dieser alten römischen Brücke.",
+            "hu": "Fejezze be a délelőtti sétát ennél az ősi római hídnál.",
+            "ro": "Încheiați plimbarea de dimineață la acest pod roman vechi.",
+            "en": "Finish your morning walk at this ancient Roman bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Höhle des Heiligen Ignatius",
+            "hu": "Szent Ignác barlangja",
+            "ro": "Peștera Sfântului Ignațiu",
+            "en": "Cave of Saint Ignatius"
+          },
+          "coords": [
+            1.824,
+            41.721
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Fahren Sie nach dem Mittagessen zu diesem wichtigen Wallfahrtsort.",
+            "hu": "Ebéd után vezessen el ehhez a fontos zarándokhelyhez.",
+            "ro": "Conduceți la acest important loc de pelerinaj după prânz.",
+            "en": "Drive to this important pilgrimage site after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionmuseum von Manresa",
+            "hu": "Manresai Regionális Múzeum",
+            "ro": "Muzeul Regional Manresa",
+            "en": "Manresa Regional Museum"
+          },
+          "coords": [
+            1.831,
+            41.725
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Vom Heiligtum aus ist das Museum leicht zu Fuß erreichbar.",
+            "hu": "A szentélytől a múzeum könnyen megközelíthető gyalog.",
+            "ro": "Muzeul se află la o distanță mică de mers pe jos de la sanctuar.",
+            "en": "The museum is an easy walk from the sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de l'Agulla",
+            "hu": "Parc de l'Agulla",
+            "ro": "Parcul Agulla",
+            "en": "Parc de l'Agulla"
+          },
+          "coords": [
+            1.805,
+            41.739
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 65,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.2,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Beenden Sie den Tag mit einer entspannenden Fahrt und einem Spaziergang in diesem wunderschönen Park.",
+            "hu": "Zárja a napot egy pihentető autózással és sétával ebben a gyönyörű parkban.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă și o promenadă în acest parc frumos.",
+            "en": "End the day with a relaxing drive and a walk in this beautiful park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um Manresa in Clustern zu erkunden. Parken Sie im Zentrum und entdecken Sie die mittelalterliche Altstadt zu Fuß. Am Nachmittag fahren Sie zu den spirituellen Stätten und beenden den Tag in der grünen Oase des Parc de l'Agulla. Dies kombiniert Sightseeing in der Stadt mit entspannenden Momenten in der Natur.",
+        "hu": "Használja ki az autó rugalmasságát, és fedezze fel Manresát látnivalócsoportokban. Parkoljon a központban, és fedezze fel gyalog a középkori óvárost. Délután vezessen el a spirituális helyszínekhez, és zárja a napot a Parc de l'Agulla zöld oázisában. Ez ötvözi a városnézést a természetben töltött pihentető pillanatokkal.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a explora Manresa în grupuri. Parcați în centru și descoperiți orașul vechi medieval pe jos. După-amiaza, conduceți la locurile spirituale și încheiați ziua în oaza verde a Parcului Agulla. Aceasta combină vizitarea obiectivelor turistice urbane cu momente de relaxare în natură.",
+        "en": "Use the flexibility of the car to explore Manresa in clusters. Park in the center and discover the medieval old town on foot. In the afternoon, drive to the spiritual sites and end the day in the green oasis of Parc de l'Agulla. This combines city sightseeing with relaxing moments in nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bacallà a la manresana",
+            "tip": "Ein lokales Kabeljaugericht, das Sie probieren müssen."
+          },
+          {
+            "name": "Restaurant Vermell",
+            "tip": "Bekannt für seine traditionelle katalanische Küche mit modernem Touch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bacallà a la manresana",
+            "tip": "Helyi tőkehal étel, amit meg kell kóstolni."
+          },
+          {
+            "name": "Restaurant Vermell",
+            "tip": "Híres a hagyományos katalán konyhájáról, modern csavarral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bacallà a la manresana",
+            "tip": "Un fel de mâncare local din cod pe care trebuie să-l încerci."
+          },
+          {
+            "name": "Restaurant Vermell",
+            "tip": "Cunoscut pentru bucătăria sa tradițională catalană cu o notă modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bacallà a la manresana",
+            "tip": "A local cod dish that is a must-try."
+          },
+          {
+            "name": "Restaurant Vermell",
+            "tip": "Known for its traditional Catalan cuisine with a modern twist."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de l'Agulla",
+            "tip": "Entfliehen Sie der Stadt und genießen Sie die Ruhe am See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Cardener",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses, weg vom Trubel der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de l'Agulla",
+            "tip": "Meneküljön el a városból, és élvezze a tóparti nyugalmat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cardener folyó partja",
+            "tip": "Egy békés séta a folyó mentén, távol a városi nyüzsgéstől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Agulla",
+            "tip": "Evadați din oraș și bucurați-vă de liniștea de lângă lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Cardener",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de agitația orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de l'Agulla",
+            "tip": "Escape the city and enjoy the tranquility by the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Cardener River",
+            "tip": "A peaceful walk along the river, away from the city hustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie lokale Produkte und Käse auf dem Wochenmarkt."
+          },
+          {
+            "name": "Geschäfte in der Carrer del Balç",
+            "tip": "Finden Sie einzigartige Handwerkskunst und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi termékeket és sajtokat a hetipiacon."
+          },
+          {
+            "name": "Üzletek a Carrer del Balç-on",
+            "tip": "Találjon egyedi kézműves termékeket és ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse locale și brânzeturi de la piața săptămânală."
+          },
+          {
+            "name": "Magazine pe Carrer del Balç",
+            "tip": "Găsiți obiecte de artizanat unice și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for local produce and cheeses at the weekly market."
+          },
+          {
+            "name": "Shops on Carrer del Balç",
+            "tip": "Find unique crafts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie öffentliche Parkplätze am Rande des Zentrums.",
+          "Planen Sie Zeit für den Verkehr ein, insbesondere zu Stoßzeiten.",
+          "Viele Straßen in der Altstadt sind für den Autoverkehr gesperrt."
+        ],
+        "hu": [
+          "Használja a központ szélén található nyilvános parkolókat.",
+          "Tervezzen időt a forgalomra, különösen csúcsidőben.",
+          "Az óváros számos utcája le van zárva az autóforgalom elől."
+        ],
+        "ro": [
+          "Folosiți parcările publice de la marginea centrului.",
+          "Planificați timp pentru trafic, în special la orele de vârf.",
+          "Multe străzi din orașul vechi sunt închise traficului auto."
+        ],
+        "en": [
+          "Use public car parks on the edge of the center.",
+          "Allow time for traffic, especially during peak hours.",
+          "Many streets in the old town are closed to car traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 7.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft im Stadtzentrum",
+            "hu": "Érkezés a városközpontba",
+            "ro": "Sosire în centrul orașului",
+            "en": "Arrival at City Center"
+          },
+          "coords": [
+            1.829,
+            41.7265
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihren Tag an einer zentralen Bushaltestelle und gehen Sie zum ersten Cluster.",
+            "hu": "Kezdje a napot egy központi buszmegállónál, és sétáljon el az első látnivalócsoporthoz.",
+            "ro": "Începeți ziua la o stație centrală de autobuz și mergeți pe jos până la primul grup de atracții.",
+            "en": "Start your day at a central bus stop and walk to the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Carrer del Balç",
+            "hu": "Városháza és Carrer del Balç",
+            "ro": "Primăria și Carrer del Balç",
+            "en": "Town Hall & Carrer del Balç"
+          },
+          "coords": [
+            1.828,
+            41.7242
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Erkunden Sie den historischen Kern der Stadt zu Fuß.",
+            "hu": "Fedezze fel gyalog a város történelmi magját.",
+            "ro": "Explorați pe jos centrul istoric al orașului.",
+            "en": "Explore the historic core of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Santa Maria de la Seu",
+            "hu": "Santa Maria de la Seu bazilika",
+            "ro": "Bazilica Santa Maria de la Seu",
+            "en": "Basilica of Santa Maria de la Seu"
+          },
+          "coords": [
+            1.826,
+            41.723
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Die prächtige Kirche ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "A csodálatos templom csak egy rövid séta.",
+            "ro": "Magnifica biserică se află la o scurtă plimbare.",
+            "en": "The magnificent church is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Höhle des Heiligen Ignatius",
+            "hu": "Szent Ignác barlangja",
+            "ro": "Peștera Sfântului Ignațiu",
+            "en": "Cave of Saint Ignatius"
+          },
+          "coords": [
+            1.824,
+            41.721
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 140,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nehmen Sie nach dem Mittagessen einen Bus über den Fluss zu diesem spirituellen Ort.",
+            "hu": "Ebéd után szálljon buszra a folyón át ehhez a spirituális helyhez.",
+            "ro": "După prânz, luați un autobuz peste râu spre acest loc spiritual.",
+            "en": "After lunch, take a bus across the river to this spiritual site."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino de Manresa",
+            "hu": "Manresai Kaszinó",
+            "ro": "Cazinoul din Manresa",
+            "en": "Casino of Manresa"
+          },
+          "coords": [
+            1.8295,
+            41.727
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein Spaziergang zurück in Richtung Zentrum führt Sie zu diesem Kulturzentrum.",
+            "hu": "Egy séta vissza a központ felé elvezeti Önt ehhez a kulturális központhoz.",
+            "ro": "O plimbare înapoi spre centru vă va duce la acest centru cultural.",
+            "en": "A walk back towards the center will take you to this cultural hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de l'Agulla",
+            "hu": "Parc de l'Agulla",
+            "ro": "Parcul Agulla",
+            "en": "Parc de l'Agulla"
+          },
+          "coords": [
+            1.805,
+            41.739
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 95,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nehmen Sie einen Bus zum Stadtrand, um den Tag im Park ausklingen zu lassen.",
+            "hu": "Szálljon buszra a város szélére, hogy a parkban fejezze be a napot.",
+            "ro": "Luați un autobuz spre periferia orașului pentru a încheia ziua în parc.",
+            "en": "Take a bus to the outskirts of the city to end the day in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln können Sie die verschiedenen Viertel von Manresa leicht erreichen. Beginnen Sie im historischen Zentrum, fahren Sie dann zu den spirituellen Stätten am Fluss und beenden Sie Ihren Ausflug mit einem entspannten Nachmittag im weitläufigen Parc de l'Agulla. Diese Route bietet eine umfassende Erfahrung der Stadt.",
+        "hu": "A tömegközlekedéssel könnyedén elérheti Manresa különböző negyedeit. Kezdje a történelmi központban, majd utazzon a folyóparti spirituális helyszínekhez, és fejezze be a kirándulást egy pihentető délutánnal a tágas Parc de l'Agulla parkban. Ez az útvonal átfogó élményt nyújt a városról.",
+        "ro": "Folosind transportul public, puteți ajunge cu ușurință în diferitele cartiere din Manresa. Începeți în centrul istoric, apoi călătoriți la locurile spirituale de pe malul râului și încheiați-vă excursia cu o după-amiază relaxantă în vastul Parc de l'Agulla. Acest traseu oferă o experiență cuprinzătoare a orașului.",
+        "en": "Using public transport, you can easily reach the different neighborhoods of Manresa. Start in the historic center, then travel to the spiritual sites by the river, and end your trip with a relaxing afternoon in the spacious Parc de l'Agulla. This route offers a comprehensive experience of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bacallà a la manresana",
+            "tip": "Ein lokales Kabeljaugericht, das Sie probieren müssen."
+          },
+          {
+            "name": "Restaurant Vermell",
+            "tip": "Bekannt für seine traditionelle katalanische Küche mit modernem Touch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bacallà a la manresana",
+            "tip": "Helyi tőkehal étel, amit meg kell kóstolni."
+          },
+          {
+            "name": "Restaurant Vermell",
+            "tip": "Híres a hagyományos katalán konyhájáról, modern csavarral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bacallà a la manresana",
+            "tip": "Un fel de mâncare local din cod pe care trebuie să-l încerci."
+          },
+          {
+            "name": "Restaurant Vermell",
+            "tip": "Cunoscut pentru bucătăria sa tradițională catalană cu o notă modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bacallà a la manresana",
+            "tip": "A local cod dish that is a must-try."
+          },
+          {
+            "name": "Restaurant Vermell",
+            "tip": "Known for its traditional Catalan cuisine with a modern twist."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de l'Agulla",
+            "tip": "Entfliehen Sie der Stadt und genießen Sie die Ruhe am See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Cardener",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses, weg vom Trubel der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de l'Agulla",
+            "tip": "Meneküljön el a városból, és élvezze a tóparti nyugalmat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cardener folyó partja",
+            "tip": "Egy békés séta a folyó mentén, távol a városi nyüzsgéstől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Agulla",
+            "tip": "Evadați din oraș și bucurați-vă de liniștea de lângă lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Cardener",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de agitația orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de l'Agulla",
+            "tip": "Escape the city and enjoy the tranquility by the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Cardener River",
+            "tip": "A peaceful walk along the river, away from the city hustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie lokale Produkte und Käse auf dem Wochenmarkt."
+          },
+          {
+            "name": "Geschäfte in der Carrer del Balç",
+            "tip": "Finden Sie einzigartige Handwerkskunst und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi termékeket és sajtokat a hetipiacon."
+          },
+          {
+            "name": "Üzletek a Carrer del Balç-on",
+            "tip": "Találjon egyedi kézműves termékeket és ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse locale și brânzeturi de la piața săptămânală."
+          },
+          {
+            "name": "Magazine pe Carrer del Balç",
+            "tip": "Găsiți obiecte de artizanat unice și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for local produce and cheeses at the weekly market."
+          },
+          {
+            "name": "Shops on Carrer del Balç",
+            "tip": "Find unique crafts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders am Wochenende.",
+          "Beachten Sie, dass die Busse abends möglicherweise seltener fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra a spórolás érdekében.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén.",
+          "Vegye figyelembe, hogy este ritkábban járhatnak a buszok."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, în special în weekend.",
+          "Rețineți că autobuzele pot circula mai rar seara."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "Be aware that buses may run less frequently in the evening."
+        ]
+      }
+    }
+  }
+}

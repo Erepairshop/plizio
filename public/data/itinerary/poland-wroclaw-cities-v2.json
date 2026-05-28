@@ -1,0 +1,1080 @@
+{
+  "city_id": "poland-wroclaw-cities-v2",
+  "anchor": {
+    "name": "Breslau",
+    "coords": [
+      17.0385,
+      51.1079
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 2.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Breslauer Zwerge (Krasnale)",
+          "coords": [
+            17.0315,
+            51.1105
+          ],
+          "category": "monument",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Über 400 kleine Bronzezwerge sind in der Stadt versteckt. Perfekt für ein morgendliches Suchspiel.",
+            "hu": "Több mint 400 apró bronztörpe bújik meg a városban. Kezdje a napot egy kis törpevadászattal!",
+            "ro": "Peste 400 de pitici de bronz sunt ascunși prin oraș. O vânătoare perfectă pentru dimineață.",
+            "en": "Over 400 tiny bronze dwarfs are scattered around town. Start your day with a fun dwarf hunt."
+          }
+        },
+        {
+          "name": "Marktplatz (Rynek)",
+          "coords": [
+            17.0325,
+            51.1095
+          ],
+          "category": "squares",
+          "arrive_at": "09:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einer der größten Marktplätze Europas. Bewundern Sie die bunten Giebelhäuser.",
+            "hu": "Európa egyik legnagyobb piactere, csodálatos színes homlokzatú polgárházakkal.",
+            "ro": "Una dintre cele mai mari piețe din Europa, înconjurată de case cu fațade colorate.",
+            "en": "One of Europe's largest market squares, lined with beautifully colored townhouses."
+          }
+        },
+        {
+          "name": "Altes Rathaus",
+          "coords": [
+            17.0326,
+            51.1093
+          ],
+          "category": "landmark",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gotisches Meisterwerk mit einer astronomischen Uhr. Im Keller befindet sich ein uraltes Restaurant.",
+            "hu": "Gótikus remekmű asztronómiai órával. A pincéjében Európa egyik legrégebbi étterme működik.",
+            "ro": "O capodoperă gotică cu un ceas astronomic. În pivniță veți găsi un restaurant istoric.",
+            "en": "A Gothic masterpiece featuring an astronomical clock and one of Europe's oldest restaurants below."
+          }
+        },
+        {
+          "name": "Universität Breslau",
+          "coords": [
+            17.0337,
+            51.114
+          ],
+          "category": "landmark",
+          "arrive_at": "11:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie die prächtige Aula Leopoldina, ein Paradebeispiel barocker Architektur.",
+            "hu": "Ne hagyja ki az Aula Leopoldina lenyűgöző barokk termét és a kilátótornyot!",
+            "ro": "Vizitați superba Aula Leopoldina, un exemplu impresionant de arhitectură barocă.",
+            "en": "Don't miss the stunning Aula Leopoldina, a breathtaking example of Baroque architecture."
+          }
+        },
+        {
+          "name": "Ostrów Tumski (Dominsel)",
+          "coords": [
+            17.0453,
+            51.1146
+          ],
+          "category": "old-town",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der älteste Teil der Stadt. Hier werden die Gaslaternen abends noch per Hand angezündet.",
+            "hu": "A város legősibb része, ahol a gázlámpákat a mai napig kézzel gyújtják meg esténként.",
+            "ro": "Cea mai veche parte a orașului. Aici, felinarele cu gaz sunt încă aprinse manual în fiecare seară.",
+            "en": "The oldest part of the city, where gas lamps are still lit by hand every evening."
+          }
+        },
+        {
+          "name": "Breslauer Dom",
+          "coords": [
+            17.0463,
+            51.1142
+          ],
+          "category": "churches",
+          "arrive_at": "14:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Aufzug auf den Turm für einen Panoramablick über die Dominsel.",
+            "hu": "Lifttel is felmehet a toronyba, ahonnan csodás panoráma nyílik a Dóm-szigetre és az Odera folyóra.",
+            "ro": "Luați liftul spre turn pentru a vă bucura de o panoramă superbă asupra insulei și râului.",
+            "en": "Take the elevator to the tower top for sweeping views across Cathedral Island and the Odra River."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer unterhaltsamen Zwergensuche in der Altstadt, gefolgt vom imposanten Marktplatz und dem gotischen Rathaus. Nachmittags spazieren wir zur Universität mit ihrer prunkvollen Aula. Der krönende Abschluss ist die romantische Dominsel (Ostrów Tumski) mit dem mächtigen Dom und ihren gasbeleuchteten Gassen entlang der Oder.",
+        "hu": "A nap egy vidám törpekereséssel indul a belvárosban, majd a hatalmas Piactér és a gótikus Városháza következik. Kora délután a barokk egyetemi épületeket csodáljuk meg, végül átsétálunk a romantikus Dóm-szigetre, ahol a hatalmas katedrális és a gázlámpás, macskaköves utcák páratlan hangulatot árasztanak.",
+        "ro": "Ziua începe cu o vânătoare amuzantă de pitici în centrul istoric, urmată de Piața Centrală uriașă și Primăria gotică. După-amiaza explorăm Universitatea cu sălile ei baroce, încheind traseul pe romantica Insulă a Catedralei (Ostrów Tumski), străbătând străduțele pietruite, iluminate cu gaz.",
+        "en": "The day starts with a playful bronze dwarf hunt around the Old Town, exploring the massive Market Square and Gothic Town Hall. After visiting the University's stunning Baroque halls, we cross over to the romantic Cathedral Island (Ostrów Tumski) to admire the massive cathedral and gas-lit cobblestone streets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi (Maultaschen)",
+            "tip": "Probieren Sie verschiedene Füllungen in einem der vielen Pierogarnias am Marktplatz."
+          },
+          {
+            "name": "Żurek (Säuerliche Mehlsuppe)",
+            "tip": "Traditionelle polnische Suppe, oft deftig im Brotlaib serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi (Töltött tészta)",
+            "tip": "Kóstolja meg a húsos, káposztás vagy túrós változatokat a Piactér környéki éttermekben."
+          },
+          {
+            "name": "Żurek (Kovászos rozsleves)",
+            "tip": "Klasszikus lengyel leves kolbásszal és tojással, gyakran cipóban tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi (Colțunași)",
+            "tip": "Încercați diverse umpluturi tradiționale în restaurantele de lângă piață."
+          },
+          {
+            "name": "Żurek (Supă acră)",
+            "tip": "Supă tradițională poloneză servită adesea într-un bol de pâine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi (Dumplings)",
+            "tip": "Sample traditional meat, cheese, or mushroom fillings in the Old Town's pierogarnias."
+          },
+          {
+            "name": "Żurek (Sour Rye Soup)",
+            "tip": "A hearty Polish staple featuring egg and sausage, often served inside a hollowed bread loaf."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oder-Promenade",
+            "tip": "Ruhiger Uferweg für einen entspannten Spaziergang am Wasser.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Eine grüne Oase der Ruhe direkt neben der Dominsel.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Odera-parti sétány",
+            "tip": "Csendes sétaút a folyó partján, távol a tömegtől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Nyugodt, zöld oázis közvetlenül a Dóm-sziget mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Odra",
+            "tip": "Un loc liniștit pentru o plimbare relaxantă pe malul râului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "O oază verde plină de liniște, situată chiar lângă Insula Catedralei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Odra River Promenade",
+            "tip": "A peaceful waterfront path perfect for a relaxing stroll.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "A quiet, green oasis located right next to Cathedral Island.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hala Targowa",
+            "tip": "Historische Markthalle mit frischen lokalen Produkten und Snacks."
+          },
+          {
+            "name": "Bolesławiec-Keramik",
+            "tip": "Handbemalte, traditionelle polnische Keramik als perfektes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hala Targowa",
+            "tip": "Hatalmas vásárcsarnok friss helyi termékekkel és finomságokkal."
+          },
+          {
+            "name": "Bolesławiec kerámia",
+            "tip": "Kézzel festett, kék-fehér mintás hagyományos lengyel kerámia."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala Targowa",
+            "tip": "Piață istorică acoperită, plină de produse locale proaspete."
+          },
+          {
+            "name": "Ceramică de Bolesławiec",
+            "tip": "Ceramică poloneză tradițională, pictată manual, suvenirul ideal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hala Targowa",
+            "tip": "Historic indoor market hall filled with fresh local produce and Polish snacks."
+          },
+          {
+            "name": "Bolesławiec Pottery",
+            "tip": "Hand-painted, traditional blue and white Polish ceramics making great souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine Zwergen-App herunter, um die Standorte der kleinen Statuen zu finden.",
+          "Die Dominsel ist abends besonders magisch, wenn der Laternenanzünder seine Runde dreht.",
+          "Die Altstadt ist sehr gut zu Fuß erkundbar, tragen Sie bequeme Schuhe für das Kopfsteinpflaster."
+        ],
+        "hu": [
+          "Töltsön le egy törpe-kereső appot, hogy minél többet megtaláljon a város apró szobraiból!",
+          "A Dóm-sziget sötétedéskor a leghangulatosabb, amikor a lámpagyújtogató megkezdi körútját.",
+          "A belváros könnyen bejárható gyalog, de a macskaköves utcákhoz elengedhetetlen a kényelmes cipő."
+        ],
+        "ro": [
+          "Descărcați o aplicație de căutare a piticilor pentru a descoperi aceste statuete ascunse.",
+          "Insula Catedralei este magică la apus, când lampagiul aprinde felinarele pe străzi.",
+          "Centrul vechi este ușor de parcurs pe jos, însă veți avea nevoie de încălțăminte confortabilă pentru pavaj."
+        ],
+        "en": [
+          "Download a dwarf-hunting app to easily locate the hundreds of small bronze statues.",
+          "Cathedral Island is most magical at dusk when the traditional lamplighter makes his rounds.",
+          "The old town is very compact, but comfortable walking shoes are a must for the cobblestone streets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Marktplatz (Rynek)",
+          "coords": [
+            17.0325,
+            51.1095
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Morgens ist der große Platz noch ruhig, ideal für Fotos der bunten Giebelhäuser.",
+            "hu": "Reggel a hatalmas tér még csendes, tökéletes a fotózáshoz a színes házak előtt.",
+            "ro": "Dimineața piața este liniștită, momentul perfect pentru a fotografia clădirile colorate.",
+            "en": "The huge square is wonderfully quiet in the morning, perfect for photographing the colorful facades."
+          }
+        },
+        {
+          "name": "Ostrów Tumski (Dominsel)",
+          "coords": [
+            17.0453,
+            51.1146
+          ],
+          "category": "old-town",
+          "arrive_at": "09:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radeln Sie über die Brücken zu Breslaus ältester Siedlung und dem mächtigen Dom.",
+            "hu": "Tekerjen át a hidakon a város legősibb részére, a lenyűgöző Dómhoz!",
+            "ro": "Pedalați peste poduri spre cea mai veche parte a orașului și catedrala sa impunătoare.",
+            "en": "Cycle over the river bridges to the city's oldest settlement and the massive Cathedral."
+          }
+        },
+        {
+          "name": "Grunwaldbrücke",
+          "coords": [
+            17.0525,
+            51.1094
+          ],
+          "category": "bridges",
+          "arrive_at": "11:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die markante Hängebrücke bietet ein tolles Fotomotiv über die Oder.",
+            "hu": "A jellegzetes függőhíd nagyszerű fotótéma és szép kilátást nyújt az Oderára.",
+            "ro": "Acest pod suspendat emblematic oferă vederi minunate și oportunități foto deasupra râului.",
+            "en": "This striking suspension bridge offers great photo opportunities across the Odra River."
+          }
+        },
+        {
+          "name": "Panorama von Racławice",
+          "coords": [
+            17.045,
+            51.11
+          ],
+          "category": "museums",
+          "arrive_at": "11:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein gewaltiges 360-Grad-Gemälde. Buchen Sie Tickets unbedingt im Voraus.",
+            "hu": "Hatalmas 360 fokos körkép. Érdemes előre jegyet foglalni, mert gyorsan betelik!",
+            "ro": "O pictură panoramică enormă, de 360 de grade. Rezervați-vă biletele în avans.",
+            "en": "A massive 360-degree monumental painting. Make sure to book your tickets in advance."
+          }
+        },
+        {
+          "name": "Jahrhunderthalle",
+          "coords": [
+            17.0772,
+            51.1068
+          ],
+          "category": "landmark",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein UNESCO-Weltkulturerbe. Schauen Sie sich auch die Multimediabrunnen-Show an.",
+            "hu": "Az UNESCO világörökség része. Ne hagyja ki a mellette lévő hatalmas multimédiás szökőkutat!",
+            "ro": "Site UNESCO de patrimoniu. Atrage atenția și fântâna multimedia din apropiere.",
+            "en": "A UNESCO World Heritage site. Be sure to catch the nearby multimedia fountain show."
+          }
+        },
+        {
+          "name": "Japanischer Garten",
+          "coords": [
+            17.0785,
+            51.109
+          ],
+          "category": "parks",
+          "arrive_at": "15:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad ab und genießen Sie die asiatische Gartenkunst.",
+            "hu": "Tegye le a bringát és tegyen egy pihentető sétát az ázsiai stílusú kertben.",
+            "ro": "Parcați bicicleta și bucurați-vă de peisajele și arta grădinilor asiatice.",
+            "en": "Park your bike and take a serene stroll through this beautiful slice of Asian garden art."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrradroute verbindet die charmante Altstadt mit den weitläufigen Grünanlagen im Osten. Nach dem Start am Marktplatz überqueren wir die Oder zur historischen Dominsel. Vorbei an der eindrucksvollen Grunwaldbrücke und dem berühmten Racławice-Panorama radeln wir schließlich durch grüne Alleen zur monumentalen Jahrhunderthalle und dem benachbarten Japanischen Garten.",
+        "hu": "Biciklivel gyorsan eljuthatunk a belvárosból a keleti kerületek zöld parkjaiba. A Piactér után a Dóm-szigetet fedezzük fel, majd a Grunwald hídon át elgurulunk a híres Racławice körképhez. A túra második fele a monumentális Centenáriumi Csarnokhoz (Jahrhunderthalle) és az egyedülálló Japánkerthez vezet, ami tökéletes lezárása a napnak.",
+        "ro": "Traseul cu bicicleta conectează centrul vechi de zonele verzi din est. După Piața Centrală, traversăm râul spre Insula Catedralei. Trecem de Podul Grunwald și de faimoasa panoramă Racławice, pentru ca după-amiaza să ne găsească la Sala Centenarului (UNESCO) și liniștitoarea Grădină Japoneză.",
+        "en": "The cycling route easily connects the compact Old Town with the spacious eastern parks. After exploring the Market Square and Cathedral Island, we ride past the Grunwald Bridge and the Racławice Panorama. A pleasant ride through tree-lined paths brings us to the monumental Centennial Hall and the incredibly peaceful Japanese Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Polnisches Streetfood: Überbackenes Baguette mit Pilzen und Käse."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Deftige polnische Krapfen, perfekt als süßer Snack für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Klasszikus lengyel street food: gombával és sajttal sütött félbevágott bagett."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Hagyományos lengyel fánk, lekváros vagy rózsavizes töltelékkel, kiváló energiaforrás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Street food polonez: baghetă gratinată cu ciuperci și brânză."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Gogoși poloneze delicioase, perfecte pentru o gustare dulce rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Iconic Polish street food: an open-faced baguette toasted with mushrooms and cheese."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Rich and hearty Polish donuts, a perfect sweet refuel during your bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Szczytnicki-Park",
+            "tip": "Riesiger Landschaftspark ideal für eine ruhige Fahrradpause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bulwar Xawerego Dunikowskiego",
+            "tip": "Eine malerische Flusspromenade mit tollem Blick auf die Dominsel.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szczytnicki Park",
+            "tip": "Hatalmas tájpark erdős ösvényekkel, ahol kipihenheti a város zaját.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dunikowski sétány",
+            "tip": "Hangulatos folyóparti szakasz csodás kilátással a Dóm-szigetre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Szczytnicki",
+            "tip": "Un parc vast, perfect pentru o pauză liniștită departe de trafic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bulevardul Dunikowski",
+            "tip": "Promenadă pitorească ce oferă priveliști excepționale la Insula Catedralei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Szczytnicki Park",
+            "tip": "A sprawling landscape park perfect for taking a quiet break from the pedals.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dunikowski Boulevard",
+            "tip": "A scenic riverside promenade offering fantastic views over Cathedral Island.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bernsteingeschäfte",
+            "tip": "Wunderschöner Bernsteinschmuck in den Straßen der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "A Balti-tenger kincse sok apró butikban megtalálható a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de chihlimbar",
+            "tip": "Bijuterii frumoase din chihlimbar de la Marea Baltică în centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Amber Shops",
+            "tip": "Find beautiful Baltic amber jewelry in the small boutiques of the Old Town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Breslau hat ein gut ausgebautes Fahrradnetz, besonders am Fluss entlang.",
+          "Achten Sie in der Altstadt auf die Straßenbahnschienen im Kopfsteinpflaster.",
+          "Nutzen Sie die Breslauer Stadtfahrräder (WRM), wenn Sie kein eigenes Rad haben."
+        ],
+        "hu": [
+          "A város kerékpárút-hálózata nagyon jó, különösen a folyóparton érdemes tekerni.",
+          "A macskaköves óvárosi utcákon vigyázzon a villamossínekkel!",
+          "Könnyedén bérelhet városi bringát (WRM), amivel kényelmesen közlekedhet."
+        ],
+        "ro": [
+          "Breslau are piste de biciclete excelente, mai ales de-a lungul râului.",
+          "Atenție la șinele de tramvai din centrul vechi pietruit.",
+          "Folosiți sistemul local de închiriere biciclete (WRM) dacă nu aveți una proprie."
+        ],
+        "en": [
+          "The city has excellent cycling infrastructure, especially along the Odra River.",
+          "Be mindful of the tram tracks embedded in the cobblestones of the Old Town.",
+          "Use the Wrocław City Bike (WRM) system if you didn't bring your own."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:59",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Marktplatz (Rynek)",
+          "coords": [
+            17.0325,
+            51.1095
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in einem der zentrumsnahen Parkhäuser, um diesen Bereich zu Fuß zu erkunden.",
+            "hu": "Parkoljon le a belvárosi mélygarázsok egyikében, és fedezze fel a teret gyalog.",
+            "ro": "Parcați într-o parcare subterană centrală și explorați piața pe jos.",
+            "en": "Park in one of the central parking garages to explore this magnificent square on foot."
+          }
+        },
+        {
+          "name": "Altes Rathaus",
+          "coords": [
+            17.0326,
+            51.1093
+          ],
+          "category": "landmark",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt am Platz gelegen, ein absolutes Muss für Architekturfans.",
+            "hu": "A tér közepén álló gótikus csoda, az építészet szerelmeseinek kötelező.",
+            "ro": "Situată direct în piață, o oprire obligatorie pentru fanii arhitecturii gotice.",
+            "en": "Located right on the square, an absolute must-see for architecture enthusiasts."
+          }
+        },
+        {
+          "name": "Panorama von Racławice",
+          "coords": [
+            17.045,
+            51.11
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Noch Teil unseres Altstadt-Spaziergangs. Ein eindrucksvolles 360-Grad-Erlebnis.",
+            "hu": "Egy kellemes séta a Főtértől. A 360 fokos festmény lenyűgöző élményt nyújt.",
+            "ro": "O scurtă plimbare din centru. Această pictură de 360 de grade este fascinantă.",
+            "en": "A short walk from the center, this 360-degree monumental painting is breathtaking."
+          }
+        },
+        {
+          "name": "Ostrów Tumski (Dominsel)",
+          "coords": [
+            17.0453,
+            51.1146
+          ],
+          "category": "old-town",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zweiter Cluster: Fahren Sie hierher und parken Sie nahe der Brücken. Erkunden Sie die Insel.",
+            "hu": "Második zóna: Gépkocsival menjen közelebb, parkoljon le, és járja be a szigetet.",
+            "ro": "Al doilea cluster: conduceți și parcați în apropiere pentru a explora insula pe jos.",
+            "en": "Second cluster: Drive over and park near the bridges to explore the island on foot."
+          }
+        },
+        {
+          "name": "Breslauer Dom",
+          "coords": [
+            17.0463,
+            51.1142
+          ],
+          "category": "churches",
+          "arrive_at": "14:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der gewaltige Dom mit seinen Zwillingstürmen ist das Herzstück der Insel.",
+            "hu": "A hatalmas, ikertornyos katedrális a Dóm-sziget spirituális központja.",
+            "ro": "Catedrala impunătoare, cu turnurile sale gemene, este inima insulei.",
+            "en": "The massive cathedral with its twin towers stands as the heart of Cathedral Island."
+          }
+        },
+        {
+          "name": "Jahrhunderthalle",
+          "coords": [
+            17.0772,
+            51.1068
+          ],
+          "category": "landmark",
+          "arrive_at": "15:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Dritter Cluster im Osten. Es gibt ausreichend Parkplätze direkt am Areal.",
+            "hu": "Harmadik zóna keleten. A csarnok mellett tágas fizetős parkoló található.",
+            "ro": "Al treilea cluster în est. Există parcare generoasă chiar lângă clădire.",
+            "en": "Third cluster located to the east. Ample parking is available directly at the complex."
+          }
+        },
+        {
+          "name": "Japanischer Garten",
+          "coords": [
+            17.0785,
+            51.109
+          ],
+          "category": "parks",
+          "arrive_at": "17:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten von der Halle entfernt, ein perfekter Abschluss in der Natur.",
+            "hu": "Csak pár perces séta a Csarnoktól, csodás természeti lezárása a napnak.",
+            "ro": "La doar câteva minute de mers pe jos de la hală, un final perfect în natură.",
+            "en": "Just a short stroll from the Hall, offering a perfectly peaceful end to your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag ist in drei Cluster aufgeteilt: Wir beginnen im Herzen Breslaus, wo das Auto parkt, während wir den Marktplatz, das Rathaus und das Panorama zu Fuß erkunden. Mittags fahren wir eine kurze Strecke zur Dominsel (Ostrów Tumski), um die Kathedrale und alten Gassen zu besichtigen. Den späten Nachmittag verbringen wir nach einer kurzen Fahrt im Osten bei der UNESCO-ausgezeichneten Jahrhunderthalle und dem Japanischen Garten.",
+        "hu": "A nap során három zónát járunk be: reggel a belvárosban parkolunk le, hogy gyalog fedezzük fel a Piacteret, a Városházát és a Racławice körképet. Kora délután átautózunk a Dóm-szigethez (Ostrów Tumski) a lenyűgöző katedrálisért. Végül kelet felé vesszük az irányt, ahol a Centenáriumi Csarnok (Jahrhunderthalle) és a pihentető Japánkert nyújt tökéletes záróakkordot.",
+        "ro": "Ziua este structurată în trei opriri principale: dimineața lăsăm mașina în centru pentru a explora la pas Piața, Primăria și Panorama Racławice. La prânz conducem spre Insula Catedralei (Ostrów Tumski) pentru o scurtă plimbare istorică, iar după-amiaza ne îndreptăm spre est, unde vizităm gigantica Sală a Centenarului și Grădina Japoneză.",
+        "en": "We've structured this day in three easy clusters. Start by parking in the center to explore the Market Square, Town Hall, and Panorama on foot. Midday, take a short drive to park near Cathedral Island (Ostrów Tumski) and admire the historic streets. Finally, drive east to the UNESCO-listed Centennial Hall, finishing with a peaceful walk in the Japanese Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi (Maultaschen)",
+            "tip": "Probieren Sie verschiedene Füllungen im Zentrum, bevor Sie weiterfahren."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Breslau hat eine tolle Craft-Bier-Szene (Bitte nur der Beifahrer!)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Ebédeljen a belvárosban, a túra első része után rengeteg remek opció van."
+          },
+          {
+            "name": "Kézműves sörök",
+            "tip": "A város híres a sörfőzdéiről (de csak ha nem ön vezet!)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi (Colțunași)",
+            "tip": "Luați prânzul în centrul istoric înainte de a pleca spre următoarea zonă."
+          },
+          {
+            "name": "Bere artizanală locală",
+            "tip": "Breslau este renumit pentru berea sa (însă șoferul trebuie să se abțină!)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi (Dumplings)",
+            "tip": "Grab a hearty lunch of traditional dumplings in the Old Town before driving on."
+          },
+          {
+            "name": "Local Craft Beer",
+            "tip": "Wrocław has a great brewing tradition (for the passengers only, of course!)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Szczytnicki-Park",
+            "tip": "Neben der Jahrhunderthalle, riesig und entspannend.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szczytnicki Park",
+            "tip": "A Centenáriumi csarnok melletti tágas park hatalmas sétálóutakkal.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Szczytnicki",
+            "tip": "Imens și foarte liniștit, chiar lângă Sala Centenarului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Szczytnicki Park",
+            "tip": "A massive, relaxing green space right next to Centennial Hall.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs im Zentrum",
+            "tip": "Die beste Auswahl gibt es in den Gassen rund um den Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi butikok",
+            "tip": "Szuveníreket a Piactér környékén a legegyszerűbb beszerezni a séta alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri în centru",
+            "tip": "Cea mai bună selecție de magazine se găsește în jurul Pieței Centrale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Souvenirs",
+            "tip": "Get your shopping done while parked in the first cluster around Market Square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist eine verkehrsberuhigte Zone, nutzen Sie die großen Parkhäuser am Rand.",
+          "Parkplätze an der Jahrhunderthalle sind gebührenpflichtig, aber meistens gut verfügbar.",
+          "In Breslau kann der Verkehr zur Rushhour zäh sein, die Cluster-Struktur vermeidet zu viele Fahrten."
+        ],
+        "hu": [
+          "A történelmi óváros nagy része sétálóutca, a peremén lévő mélygarázsokat használja.",
+          "A Centenáriumi Csarnoknál fizetős parkoló van, de általában könnyű helyet találni.",
+          "A csúcsidőben erős lehet a forgalom, a zónás lebontás segít minimalizálni az autóban töltött időt."
+        ],
+        "ro": [
+          "Centrul vechi este zonă pietonală, folosiți parcările mari de la marginea acestuia.",
+          "Parcarea de la Sala Centenarului se plătește, dar sunt destule locuri.",
+          "Traficul la orele de vârf poate fi lent, organizarea pe clustere vă salvează timp."
+        ],
+        "en": [
+          "The immediate Old Town is pedestrian-only; use the large peripheral parking garages.",
+          "Parking at Centennial Hall requires a fee but usually has plenty of capacity.",
+          "Traffic can be heavy during rush hour, so staying within walking clusters saves time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Universität Breslau",
+          "coords": [
+            17.0337,
+            51.114
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Sehr gut mit der Straßenbahn erreichbar. Die Aula ist ein barockes Meisterwerk.",
+            "hu": "Villamossal könnyen megközelíthető. Az Aula Leopoldina páratlan barokk alkotás.",
+            "ro": "Ușor accesibilă cu tramvaiul. Aula este o capodoperă a stilului baroc.",
+            "en": "Easily reached by tram. The Aula Leopoldina is a baroque masterpiece."
+          }
+        },
+        {
+          "name": "Marktplatz (Rynek)",
+          "coords": [
+            17.0325,
+            51.1095
+          ],
+          "category": "squares",
+          "arrive_at": "10:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang nach Süden in das schlagende Herz der Stadt.",
+            "hu": "Rövid délre tartó séta az egyetemtől a város lüktető szívébe.",
+            "ro": "O scurtă plimbare spre sud vă aduce în inima vibrantă a orașului.",
+            "en": "A short walk south takes you right into the beating heart of the city."
+          }
+        },
+        {
+          "name": "Breslauer Zwerge (Krasnale)",
+          "coords": [
+            17.0315,
+            51.1105
+          ],
+          "category": "monument",
+          "arrive_at": "11:13",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die kleinen Zwerge rund um den Platz und die Gassen.",
+            "hu": "A tér körüli utcákon rengeteg apró törpét fedezhet fel séta közben.",
+            "ro": "Fii cu ochii în patru pentru micii pitici ascunși pe străduțele din jur.",
+            "en": "Keep an eye out for the small bronze dwarfs scattered around the square's edges."
+          }
+        },
+        {
+          "name": "Ostrów Tumski (Dominsel)",
+          "coords": [
+            17.0453,
+            51.1146
+          ],
+          "category": "old-town",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Tram ab Galeria Dominikańska, um zur Dominsel überzusetzen.",
+            "hu": "Szálljon villamosra a Galeria Dominikańskánál a Dóm-sziget gyors eléréséhez.",
+            "ro": "Luați tramvaiul de la Galeria Dominikańska pentru a trece pe Insula Catedralei.",
+            "en": "Hop on a tram from Galeria Dominikańska to easily cross over to Cathedral Island."
+          }
+        },
+        {
+          "name": "Breslauer Dom",
+          "coords": [
+            17.0463,
+            51.1142
+          ],
+          "category": "churches",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wunderschöne Kathedrale, direkt im historischen Inselviertel gelegen.",
+            "hu": "Gyönyörű katedrális a történelmi szigetnegyed kellős közepén.",
+            "ro": "Catedrală superbă, situată direct în cartierul istoric al insulei.",
+            "en": "Beautiful cathedral located right in the middle of this historic island district."
+          }
+        },
+        {
+          "name": "Grunwaldbrücke",
+          "coords": [
+            17.0525,
+            51.1094
+          ],
+          "category": "bridges",
+          "arrive_at": "14:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die Tram fährt direkt über diese ikonische Brücke in den Ostteil.",
+            "hu": "A villamos egyenesen ezen az ikonikus hídon halad át a keleti városrészbe.",
+            "ro": "Tramvaiul trece direct peste acest pod iconic, ducându-vă în estul orașului.",
+            "en": "The tram runs straight across this iconic suspension bridge heading east."
+          }
+        },
+        {
+          "name": "Jahrhunderthalle",
+          "coords": [
+            17.0772,
+            51.1068
+          ],
+          "category": "landmark",
+          "arrive_at": "15:02",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Steigen Sie an der Haltestelle Hala Stulecia aus, das Gelände liegt direkt dort.",
+            "hu": "Szálljon le a Hala Stulecia megállónál, a monumentális épület rögtön ott van.",
+            "ro": "Coborâți la stația Hala Stulecia, uriașul complex fiind chiar lângă.",
+            "en": "Get off at the Hala Stulecia tram stop; the massive complex is right there."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Breslau hat ein hervorragendes Straßenbahnnetz. Wir starten am Universitätskomplex und spazieren durch die Altstadt mit dem Marktplatz und den Zwergen. Ein kurzer Tram-Hop bringt uns über die Oder zur Dominsel, wo wir die alte Kathedrale besichtigen. Am Nachmittag bringt uns eine weitere Tramfahrt über die malerische Grunwaldbrücke direkt zum UNESCO-Denkmal, der Jahrhunderthalle.",
+        "hu": "Breslau kiváló villamoshálózattal rendelkezik. A napot az egyetemi negyedben kezdjük, majd átsétálunk a Főtérre. Egy gyors villamosozással átszeljük a folyót a Dóm-szigetre, majd a Katedrális felfedezése után újra villamosra szállunk. Az ikonikus Grunwald hídon áthaladva egyenesen az UNESCO-listás Centenáriumi Csarnokhoz érkezünk.",
+        "ro": "Rețeaua de tramvaie este excelentă aici. Începem în zona Universității și ne plimbăm prin centrul istoric până la Piața Centrală. Un drum scurt cu tramvaiul ne duce peste râu, la Insula Catedralei. După-amiaza, o altă cursă cu tramvaiul peste faimosul Pod Grunwald ne lasă direct la spectaculoasa Sală a Centenarului.",
+        "en": "Wrocław has an excellent tram system perfect for clustered sightseeing. Start at the University, walk through the Market Square, and hunt for dwarfs. A quick tram ride takes you over the river to Cathedral Island's historic streets. In the afternoon, ride the tram across the iconic Grunwald Bridge straight to the spectacular Centennial Hall complex."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Żurek (Säuerliche Mehlsuppe)",
+            "tip": "Perfekt für eine Mittagspause im Altstadt-Cluster."
+          },
+          {
+            "name": "Obwarzanek",
+            "tip": "Ein geflochtener Brotring, ideal als Snack an den Straßenbahnhaltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Żurek (Kovászos rozsleves)",
+            "tip": "Tartalmas leves, ebédre tökéletes a belvárosi séta közben."
+          },
+          {
+            "name": "Obwarzanek",
+            "tip": "Szezámmagos lengyel perec, kiváló ropogtatnivaló a villamosra várva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Żurek (Supă acră)",
+            "tip": "O supă bogată, ideală pentru prânz în centrul istoric."
+          },
+          {
+            "name": "Obwarzanek",
+            "tip": "Un covrig împletit tradițional, gustarea perfectă în stațiile de tramvai."
+          }
+        ],
+        "en": [
+          {
+            "name": "Żurek (Sour Rye Soup)",
+            "tip": "A hearty soup that makes a perfect lunch during your Old Town exploration."
+          },
+          {
+            "name": "Obwarzanek",
+            "tip": "Traditional braided bread rings, a great quick snack while waiting for trams."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Direkt neben der Dominsel, ein perfekter Zwischenstopp.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus Kert",
+            "tip": "A Dóm-sziget mellett fekvő gyönyörű oázis.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "O oază de liniște chiar lângă Insula Catedralei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "A beautiful green oasis right next to Cathedral Island.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galeria Dominikańska",
+            "tip": "Großes Einkaufszentrum direkt am zentralen Tram-Knotenpunkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galeria Dominikańska",
+            "tip": "Nagy pláza a legfontosabb villamos-csomópontnál, ahol mindent megtalál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Dominikańska",
+            "tip": "Un mall mare situat chiar lângă un nod central de tramvai."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galeria Dominikańska",
+            "tip": "A large shopping mall conveniently located at the main tram hub."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie am besten ein Tagesticket (Bilet 24h) für die öffentlichen Verkehrsmittel.",
+          "In den Bussen und Bahnen können Sie Tickets oft bequem kontaktlos mit der Karte kaufen.",
+          "Die Straßenbahnen fahren sehr regelmäßig und sind das Rückgrat des Nahverkehrs in Breslau."
+        ],
+        "hu": [
+          "Érdemes 24 órás napijegyet venni, ami minden buszra és villamosra érvényes.",
+          "A legtöbb villamoson érintős bankkártyával is tud jegyet venni a fedélzeten.",
+          "A villamosok gyakran járnak és a leggyorsabb módját jelentik a közlekedésnek."
+        ],
+        "ro": [
+          "Este recomandat să cumpărați un abonament de 24 de ore pentru transportul public.",
+          "Biletele pot fi deseori cumpărate contactless, direct în tramvaie sau autobuze.",
+          "Tramvaiele circulă des și reprezintă cea mai eficientă metodă de deplasare."
+        ],
+        "en": [
+          "It is highly recommended to buy a 24-hour ticket for unlimited use of public transport.",
+          "You can conveniently buy tickets using contactless payment on most trams and buses.",
+          "Trams are frequent and generally the fastest way to get between city districts."
+        ]
+      }
+    }
+  }
+}

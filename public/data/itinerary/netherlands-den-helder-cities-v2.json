@@ -1,0 +1,1448 @@
+{
+  "city_id": "netherlands-den-helder-cities-v2",
+  "anchor": {
+    "name": "Den Helder",
+    "coords": [
+      4.76,
+      52.956
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Willemsoord",
+            "hu": "Willemsoord",
+            "ro": "Willemsoord",
+            "en": "Willemsoord"
+          },
+          "coords": [
+            4.7645,
+            52.9612
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Werkstätten und Schiffe im alten Marinehafen.",
+            "hu": "Fedezze fel a régi haditengerészeti kikötő történelmi műhelyeit és hajóit.",
+            "ro": "Explorați atelierele și navele istorice din vechiul port naval.",
+            "en": "Explore the historic workshops and ships in the old naval harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Marinemuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Marinei",
+            "en": "Marine Museum"
+          },
+          "coords": [
+            4.7671,
+            52.9635
+          ],
+          "category": "museums",
+          "arrive_at": "10:46",
+          "stay_min": 120,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Gehen Sie an Bord des U-Boots Tonijn für ein einzigartiges Erlebnis.",
+            "hu": "Másszon fel a Tonijn tengeralattjáró fedélzetére egy egyedülálló élményért.",
+            "ro": "Urcați la bordul submarinului Tonijn pentru o experiență unică.",
+            "en": "Get on board the submarine Tonijn for a unique experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationaal Reddingmuseum",
+            "hu": "Nemzeti Mentési Múzeum",
+            "ro": "Muzeul Național al Salvării",
+            "en": "National Lifeboat Museum"
+          },
+          "coords": [
+            4.7658,
+            52.962
+          ],
+          "category": "museums",
+          "arrive_at": "12:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Vorführung teil, um die Rettungsboote in Aktion zu sehen.",
+            "hu": "Vegyen részt egy bemutatón, hogy lássa a mentőcsónakokat akció közben.",
+            "ro": "Participați la o demonstrație pentru a vedea bărcile de salvare în acțiune.",
+            "en": "Join a demonstration to see the lifeboats in action."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch at the Harbor"
+          },
+          "coords": [
+            4.765,
+            52.9615
+          ],
+          "category": "gastro",
+          "arrive_at": "14:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Kibbeling in einem der Restaurants am Wasser.",
+            "hu": "Kóstolja meg a friss kibbelinget az egyik vízparti étteremben.",
+            "ro": "Încercați kibbeling proaspăt la unul dintre restaurantele de pe malul apei.",
+            "en": "Try some fresh kibbeling at one of the waterfront eateries."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Lange Jaap",
+            "hu": "Lange Jaap világítótorony",
+            "ro": "Farul Lange Jaap",
+            "en": "Lange Jaap Lighthouse"
+          },
+          "coords": [
+            4.7313,
+            52.9635
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für Fotos, besonders bei Sonnenuntergang.",
+            "hu": "Nagyszerű fotóhelyszín, különösen naplementekor.",
+            "ro": "Un loc excelent pentru fotografii, mai ales la apus.",
+            "en": "A great spot for photos, especially around sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Deichspaziergang bei Kap Holland",
+            "hu": "Séta a gáton Cape Hollandnál",
+            "ro": "Plimbare pe dig la Cape Holland",
+            "en": "Dike Walk at Cape Holland"
+          },
+          "coords": [
+            4.745,
+            52.965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:01",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf die Nordsee und die Insel Texel.",
+            "hu": "Élvezze az Északi-tengerre és Texel szigetére nyíló kilátást.",
+            "ro": "Bucurați-vă de vederea la Marea Nordului și la insula Texel.",
+            "en": "Enjoy the view of the North Sea and the island of Texel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im maritimen Herzen von Den Helder in Willemsoord, der ehemaligen Reichswerft. Nach dem Eintauchen in die Marinegeschichte im Marinemuseum und im Reddingmuseum ist es Zeit für ein Mittagessen mit frischem Fisch am Hafen. Am Nachmittag machen Sie einen flotten Spaziergang zum imposanten Leuchtturm Lange Jaap und beenden den Tag mit einer erfrischenden Brise und Blick auf Texel vom Deich aus. Ein Tag voller nautischer Entdeckungen und Küstencharme.",
+        "hu": "Kezdje a napot Den Helder tengerészeti szívében, a Willemsoordban, az egykori birodalmi hajógyárban. Miután elmerült a haditengerészet történelmében a Tengerészeti Múzeumban és a Mentési Múzeumban, ideje egy friss halas ebédnek a kikötőben. Délután tegyen egy lendületes sétát a lenyűgöző Lange Jaap világítótoronyhoz, és zárja a napot egy frissítő szellővel és a Texelre nyíló kilátással a gátról. Egy nap tele tengeri felfedezésekkel és tengerparti bájjal.",
+        "ro": "Începeți ziua în inima maritimă a orașului Den Helder, la Willemsoord, fostul șantier naval imperial. După ce v-ați cufundat în istoria navală la Muzeul Marinei și Muzeul Salvării, este timpul pentru un prânz cu pește proaspăt în port. După-amiaza, faceți o plimbare vioaie până la impunătorul far Lange Jaap și încheiați ziua cu o briză răcoritoare și o priveliște spre Texel de pe dig. O zi plină de descoperiri nautice și farmec de coastă.",
+        "en": "Start your day in the maritime heart of Den Helder at Willemsoord, the former imperial shipyard. After diving into naval history at the Marine Museum and the Lifeboat Museum, it's time for a fresh fish lunch at the harbour. In the afternoon, take a brisk walk to the imposing Lange Jaap lighthouse and end the day with a refreshing breeze and a view of Texel from the dike. A day full of nautical discoveries and coastal charm."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kibbeling",
+            "tip": "Frittierte Kabeljaustücke, ein klassischer niederländischer Snack. Am besten frisch vom Stand."
+          },
+          {
+            "name": "Visrestaurant 't Pakhuus",
+            "tip": "Ein gehobenes Restaurant in Willemsoord für ausgezeichnete Meeresfrüchte."
+          },
+          {
+            "name": "Hollandse Nieuwe",
+            "tip": "Wenn Saison ist (Mai-Juli), probieren Sie den rohen Hering auf traditionelle Weise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kibbeling",
+            "tip": "Sült tőkehal darabok, egy klasszikus holland snack. A legjobb frissen egy bódéból."
+          },
+          {
+            "name": "Visrestaurant 't Pakhuus",
+            "tip": "Egy elegáns étterem Willemsoordban a kiváló tenger gyümölcseiért."
+          },
+          {
+            "name": "Hollandse Nieuwe",
+            "tip": "Ha szezonja van (május-július), kóstolja meg a nyers heringet a hagyományos módon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kibbeling",
+            "tip": "Bucăți de cod prăjit, o gustare olandeză clasică. Cel mai bun proaspăt de la o tarabă."
+          },
+          {
+            "name": "Visrestaurant 't Pakhuus",
+            "tip": "Un restaurant rafinat în Willemsoord pentru fructe de mare excelente."
+          },
+          {
+            "name": "Hollandse Nieuwe",
+            "tip": "Dacă este sezon (mai-iulie), încercați heringul crud în stil tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kibbeling",
+            "tip": "Fried cod pieces, a classic Dutch snack. Best enjoyed fresh from a stall."
+          },
+          {
+            "name": "Visrestaurant 't Pakhuus",
+            "tip": "An upscale restaurant in Willemsoord for excellent seafood."
+          },
+          {
+            "name": "Hollandse Nieuwe",
+            "tip": "If in season (May-July), try the raw herring the traditional way."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Donkere Duinen",
+            "tip": "Ein ruhiger Spaziergang durch diesen Wald hinter den Dünen.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Strand bei Fort Kijkduin",
+            "tip": "Ein weiter Sandstrand, ideal, um dem Trubel zu entkommen.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Helderse Vallei",
+            "tip": "Ein Nachhaltigkeitszentrum am Rande der Dünen, perfekt für eine ruhige Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Donkere Duinen",
+            "tip": "Egy csendes séta ebben az erdőben a dűnék mögött.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Strand a Fort Kijkduin-nál",
+            "tip": "Széles homokos strand, ideális a tömeg elkerülésére.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Helderse Vallei",
+            "tip": "Egy fenntarthatósági központ a dűnék szélén, tökéletes egy csendes pihenőre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Donkere Duinen",
+            "tip": "O plimbare liniștită prin această pădure din spatele dunelor.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Plaja de la Fort Kijkduin",
+            "tip": "O plajă largă de nisip, ideală pentru a evada din aglomerație.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Helderse Vallei",
+            "tip": "Un centru de sustenabilitate la marginea dunelor, perfect pentru o pauză liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Donkere Duinen",
+            "tip": "A quiet walk through this forest behind the dunes.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Beach at Fort Kijkduin",
+            "tip": "A wide sandy beach, ideal for escaping the crowds.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Helderse Vallei",
+            "tip": "A sustainability centre on the edge of the dunes, perfect for a quiet break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie den Samstagsmarkt in der Innenstadt für lokalen Käse und Souvenirs."
+          },
+          {
+            "name": "Museumsläden",
+            "tip": "Die Geschäfte im Marine- und Reddingmuseum bieten einzigartige nautische Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el a szombati piacra a belvárosban helyi sajtokért és ajándéktárgyakért."
+          },
+          {
+            "name": "Múzeumi boltok",
+            "tip": "A Tengerészeti és Mentési Múzeum boltjai egyedi tengerészeti ajándékokat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați piața de sâmbătă din centrul orașului pentru brânzeturi locale și suveniruri."
+          },
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Magazinele de la Muzeul Marinei și Muzeul Salvării oferă cadouri nautice unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the Saturday market in the city centre for local cheese and souvenirs."
+          },
+          {
+            "name": "Museum Shops",
+            "tip": "The shops at the Marine and Lifeboat Museums offer unique nautical gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Der Wind kann stark sein, eine winddichte Jacke ist empfehlenswert.",
+          "Behalten Sie die Öffnungszeiten der Museen im Auge, besonders außerhalb der Saison.",
+          "Viele Wege führen am Wasser entlang, perfekt für Fotos."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "A szél erős lehet, egy szélálló dzseki ajánlott.",
+          "Tartsa szemmel a múzeumok nyitvatartási idejét, különösen szezonon kívül.",
+          "Sok út vezet a víz mentén, tökéletes fotózáshoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Vântul poate fi puternic, se recomandă o jachetă rezistentă la vânt.",
+          "Fiți atenți la orele de program ale muzeelor, mai ales în afara sezonului.",
+          "Multe cărări sunt de-a lungul apei, perfecte pentru fotografii."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "The wind can be strong, a windproof jacket is recommended.",
+          "Keep an eye on the opening hours of the museums, especially outside the main season.",
+          "Many paths are along the water, perfect for photos."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Willemsoord & Marinemuseum",
+            "hu": "Willemsoord és Tengerészeti Múzeum",
+            "ro": "Willemsoord & Muzeul Marinei",
+            "en": "Willemsoord & Marine Museum"
+          },
+          "coords": [
+            4.766,
+            52.962
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie die beiden Hauptattraktionen des Hafens.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel a kikötő két fő látványosságát.",
+            "ro": "Parcați bicicleta și explorați cele două atracții principale ale portului.",
+            "en": "Park your bike and explore the two main attractions of the harbor area."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Kijkduin",
+            "hu": "Fort Kijkduin erőd",
+            "ro": "Fortul Kijkduin",
+            "en": "Fort Kijkduin"
+          },
+          "coords": [
+            4.722,
+            52.943
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Die Radtour entlang der Küste zum Fort bietet fantastische Ausblicke.",
+            "hu": "A tengerparti kerékpárút az erődhöz fantasztikus kilátást nyújt.",
+            "ro": "Plimbarea cu bicicleta de-a lungul coastei până la fort oferă priveliști fantastice.",
+            "en": "The bike ride along the coast to the fort offers fantastic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Huisduinen",
+            "hu": "Ebéd Huisduinenben",
+            "ro": "Prânz în Huisduinen",
+            "en": "Lunch in Huisduinen"
+          },
+          "coords": [
+            4.724,
+            52.945
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit in einem der gemütlichen Restaurants in der Nähe des Forts.",
+            "hu": "Fogyasszon el egy ebédet az erőd közelében található hangulatos éttermek egyikében.",
+            "ro": "Bucurați-vă de o masă la unul dintre restaurantele primitoare de lângă fort.",
+            "en": "Enjoy a meal at one of the cozy restaurants near the fort."
+          }
+        },
+        {
+          "name": {
+            "de": "Donkere Duinen",
+            "hu": "Donkere Duinen",
+            "ro": "Donkere Duinen",
+            "en": "Donkere Duinen"
+          },
+          "coords": [
+            4.735,
+            52.925
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und machen Sie einen Spaziergang durch den Wald und die Dünen.",
+            "hu": "Tegye le a kerékpárt, és sétáljon egyet az erdőben és a dűnék között.",
+            "ro": "Lăsați bicicleta și faceți o plimbare prin pădure și dune.",
+            "en": "Park your bike and take a walk through the forest and dunes."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationaal Reddingmuseum",
+            "hu": "Nemzeti Mentési Múzeum",
+            "ro": "Muzeul Național al Salvării",
+            "en": "National Lifeboat Museum"
+          },
+          "coords": [
+            4.7658,
+            52.962
+          ],
+          "category": "museums",
+          "arrive_at": "16:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem letzten Einblick in die heldenhafte Seefahrtsgeschichte.",
+            "hu": "Zárja a túrát egy utolsó bepillantással a hősies tengerészeti történelembe.",
+            "ro": "Încheiați turul cu o ultimă privire asupra istoriei eroice a navigației.",
+            "en": "End your tour with a final look into heroic maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Blick auf den Hafen bei Sonnenuntergang",
+            "hu": "Naplemente a kikötőben",
+            "ro": "Apus de soare în port",
+            "en": "Sunset view at the harbor"
+          },
+          "coords": [
+            4.77,
+            52.964
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Finden Sie einen Platz entlang des Wassers, um die Schiffe vor der untergehenden Sonne zu beobachten.",
+            "hu": "Keressen egy helyet a vízparton, és nézze a hajókat a lemenő nap fényében.",
+            "ro": "Găsiți un loc pe malul apei pentru a privi navele pe fundalul soarelui care apune.",
+            "en": "Find a spot along the water to watch the ships against the setting sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour im geschäftigen Hafen bei Willemsoord und dem Marinemuseum. Folgen Sie der Küste nach Süden zu den napoleonischen Festungsanlagen von Fort Kijkduin, wo Geschichte und Meerblick aufeinandertreffen. Nach einem stärkenden Mittagessen führt Sie Ihre Route in die ruhigen Wälder der Donkere Duinen. Der Rückweg ins Stadtzentrum führt Sie am Reddingmuseum vorbei, bevor Sie den Tag mit einem malerischen Blick auf den Hafen ausklingen lassen.",
+        "hu": "Pattanjon nyeregbe, és kezdje a túrát a nyüzsgő kikötőben, a Willemsoordnál és a Tengerészeti Múzeumnál. Kövesse a partvonalat dél felé a napóleoni Fort Kijkduin erődítményeihez, ahol a történelem és a tengeri kilátás találkozik. Egy kiadós ebéd után az útvonal a Donkere Duinen csendes erdeibe vezet. Visszafelé a városközpontba a Mentési Múzeum mellett halad el, mielőtt a napot egy festői kikötői kilátással zárja.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul în portul aglomerat de la Willemsoord și Muzeul Marinei. Urmați coasta spre sud până la fortificațiile napoleoniene de la Fort Kijkduin, unde istoria se întâlnește cu priveliștile mării. După un prânz copios, traseul vă duce în pădurile liniștite din Donkere Duinen. Drumul de întoarcere spre centrul orașului vă va trece pe lângă Muzeul Salvării înainte de a încheia ziua cu o priveliște pitorească a portului.",
+        "en": "Hop on your bike and start your tour in the bustling harbor at Willemsoord and the Marine Museum. Follow the coast south to the Napoleonic fortifications of Fort Kijkduin, where history meets sea views. After a hearty lunch, your route takes you into the tranquil forests of the Donkere Duinen. The way back to the city center will take you past the Lifeboat Museum before you end the day with a scenic view of the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pfannkuchenhaus",
+            "tip": "In der Nähe der Dünen finden Sie oft ein Restaurant, das herzhafte und süße Pfannkuchen serviert."
+          },
+          {
+            "name": "Fischbrötchen",
+            "tip": "Ein schneller und leckerer Snack, den Sie an vielen Ständen am Hafen bekommen."
+          },
+          {
+            "name": "Nogal Wiedus",
+            "tip": "Ein Strandpavillon in der Nähe von Huisduinen, perfekt für ein Getränk mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palacsintázó",
+            "tip": "A dűnék közelében gyakran talál egy éttermet, ahol sós és édes palacsintákat szolgálnak fel."
+          },
+          {
+            "name": "Halas szendvics",
+            "tip": "Gyors és ízletes snack, amelyet a kikötőben számos bódéban kaphat."
+          },
+          {
+            "name": "Nogal Wiedus",
+            "tip": "Egy tengerparti pavilon Huisduinen közelében, tökéletes egy italhoz, kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casă de clătite",
+            "tip": "Lângă dune veți găsi adesea un restaurant care servește clătite sărate și dulci."
+          },
+          {
+            "name": "Sandviș cu pește",
+            "tip": "O gustare rapidă și gustoasă pe care o puteți obține de la multe tarabe din port."
+          },
+          {
+            "name": "Nogal Wiedus",
+            "tip": "Un pavilion pe plajă lângă Huisduinen, perfect pentru o băutură cu priveliște."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pancake House",
+            "tip": "Near the dunes, you'll often find a restaurant serving savory and sweet pancakes."
+          },
+          {
+            "name": "Fish sandwich (Broodje vis)",
+            "tip": "A quick and delicious snack you can get at many stalls in the harbor."
+          },
+          {
+            "name": "Nogal Wiedus",
+            "tip": "A beach pavilion near Huisduinen, perfect for a drink with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg auf dem Deich",
+            "tip": "Die Fahrt auf dem Deich mit Blick auf das Meer ist unglaublich friedlich.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Mariëndal",
+            "tip": "Ein Erholungsgebiet südlich der Donkere Duinen, ideal für eine ruhige Radtour.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt bei Fort Kijkduin",
+            "tip": "Genießen Sie die Stille und den weiten Blick über die Nordsee.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a gáton",
+            "tip": "A gáton való kerékpározás, kilátással a tengerre, hihetetlenül békés.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Mariëndal",
+            "tip": "Egy rekreációs terület a Donkere Duinen-től délre, ideális egy csendes kerékpártúrához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátó a Fort Kijkduin-nál",
+            "tip": "Élvezze a csendet és a széles kilátást az Északi-tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete pe dig",
+            "tip": "Plimbarea cu bicicleta pe dig cu vedere la mare este incredibil de pașnică.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Mariëndal",
+            "tip": "O zonă de agrement la sud de Donkere Duinen, ideală pentru o plimbare liniștită cu bicicleta.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere la Fort Kijkduin",
+            "tip": "Bucurați-vă de liniște și de priveliștea largă asupra Mării Nordului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path on the dike",
+            "tip": "Cycling on the dike with a view of the sea is incredibly peaceful.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Mariëndal",
+            "tip": "A recreational area south of the Donkere Duinen, great for a quiet bike ride.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint at Fort Kijkduin",
+            "tip": "Enjoy the silence and the wide view over the North Sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Finden Sie einzigartiges Fahrradzubehör in einem der örtlichen Geschäfte."
+          },
+          {
+            "name": "Hofläden",
+            "tip": "In der Umgebung von Den Helder gibt es Bauernhöfe, die frische Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Találjon egyedi kerékpár-kiegészítőket az egyik helyi boltban."
+          },
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Den Helder környékén vannak gazdaságok, amelyek friss termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Găsiți accesorii unice pentru biciclete într-unul dintre magazinele locale."
+          },
+          {
+            "name": "Magazine de fermă",
+            "tip": "În jurul Den Helder există ferme care vând produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Find unique cycling accessories in one of the local shops."
+          },
+          {
+            "name": "Farm Shops",
+            "tip": "Around Den Helder, there are farms that sell fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, wenn Sie sich Sorgen um den Wind machen.",
+          "Die Niederlande haben ausgezeichnete Radwege; nutzen Sie sie.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an Touristenattraktionen.",
+          "Eine wasserdichte Tasche ist nützlich für das unvorhersehbare Wetter."
+        ],
+        "hu": [
+          "Béreljen e-biciklit, ha aggódik a szél miatt.",
+          "Hollandiában kiváló kerékpárutak vannak; használja ki őket.",
+          "Mindig zárja le jól a kerékpárját, különösen a turisztikai látványosságoknál.",
+          "Egy vízálló táska hasznos a kiszámíthatatlan időjárás miatt."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică dacă vă faceți griji în legătură cu vântul.",
+          "Olanda are piste de biciclete excelente; folosiți-le.",
+          "Încuiați-vă întotdeauna bicicleta bine, mai ales la atracțiile turistice.",
+          "O geantă impermeabilă este utilă pentru vremea imprevizibilă."
+        ],
+        "en": [
+          "Rent an e-bike if you are concerned about the wind.",
+          "The Netherlands has excellent bike paths; make use of them.",
+          "Always lock your bike securely, especially at tourist attractions.",
+          "A waterproof bag is useful for the unpredictable weather."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 42.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Hafen: Willemsoord",
+            "hu": "Kikötő Klaszter: Willemsoord",
+            "ro": "Cluster Portuar: Willemsoord",
+            "en": "Harbor Cluster: Willemsoord"
+          },
+          "coords": [
+            4.7645,
+            52.9612
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Rundgang durch das historische Marineviertel.",
+            "hu": "Parkoljon itt, és kezdje meg a sétát a történelmi haditengerészeti negyedben.",
+            "ro": "Parcați aici și începeți turul pe jos al cartierului naval istoric.",
+            "en": "Park here and start your walking tour of the historic naval quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Hafen: Marinemuseum",
+            "hu": "Kikötő Klaszter: Tengerészeti Múzeum",
+            "ro": "Cluster Portuar: Muzeul Marinei",
+            "en": "Harbor Cluster: Marine Museum"
+          },
+          "coords": [
+            4.7671,
+            52.9635
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptparkplatz Willemsoord.",
+            "hu": "Rövid séta a Willemsoord fő parkolójától.",
+            "ro": "O scurtă plimbare de la parcarea principală din Willemsoord.",
+            "en": "A short walk from the main Willemsoord parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Hafen: Reddingmuseum & Mittagessen",
+            "hu": "Kikötő Klaszter: Mentési Múzeum és Ebéd",
+            "ro": "Cluster Portuar: Muzeul Salvării & Prânz",
+            "en": "Harbor Cluster: Lifeboat Museum & Lunch"
+          },
+          "coords": [
+            4.7658,
+            52.962
+          ],
+          "category": "museums",
+          "arrive_at": "12:12",
+          "stay_min": 140,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Museumsbesuch mit einem Mittagessen in einem der nahegelegenen Restaurants.",
+            "hu": "Kombinálja a múzeumlátogatást egy ebéddel a közeli éttermek egyikében.",
+            "ro": "Combinați vizita la muzeu cu un prânz la unul dintre restaurantele din apropiere.",
+            "en": "Combine the museum visit with lunch at one of the nearby restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Küste: Fort Kijkduin",
+            "hu": "Parti Klaszter: Fort Kijkduin",
+            "ro": "Cluster Coastă: Fortul Kijkduin",
+            "en": "Coast Cluster: Fort Kijkduin"
+          },
+          "coords": [
+            4.722,
+            52.943
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Fort und parken Sie dort. Erkunden Sie das Fort und den Strand.",
+            "hu": "Vezessen az erődhöz és parkoljon le. Fedezze fel az erődöt és a strandot.",
+            "ro": "Conduceți până la fort și parcați. Explorați fortul și plaja.",
+            "en": "Drive to the fort and park. Explore the fort and the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Küste: Strandspaziergang",
+            "hu": "Parti Klaszter: Séta a tengerparton",
+            "ro": "Cluster Coastă: Plimbare pe plajă",
+            "en": "Coast Cluster: Beach Walk"
+          },
+          "coords": [
+            4.72,
+            52.941
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Fort zum weiten Nordseestrand.",
+            "hu": "Rövid séta az erődtől a széles Északi-tengeri strandig.",
+            "ro": "O scurtă plimbare de la fort la plaja largă a Mării Nordului.",
+            "en": "A short walk from the fort to the wide North Sea beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausflug: Hortus Bulborum (saisonal)",
+            "hu": "Kirándulás: Hortus Bulborum (szezonális)",
+            "ro": "Excursie: Hortus Bulborum (sezonier)",
+            "en": "Excursion: Hortus Bulborum (seasonal)"
+          },
+          "coords": [
+            4.697,
+            52.664
+          ],
+          "category": "natural features",
+          "arrive_at": "17:21",
+          "stay_min": 70,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 36.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein Muss im Frühling! Überprüfen Sie die Öffnungszeiten, bevor Sie losfahren.",
+            "hu": "Tavasszal kötelező! Indulás előtt ellenőrizze a nyitvatartást.",
+            "ro": "O vizită obligatorie primăvara! Verificați programul înainte de a pleca.",
+            "en": "A must-visit in spring! Check opening times before you drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in Limmen",
+            "hu": "Vacsora Limmenben",
+            "ro": "Cină în Limmen",
+            "en": "Dinner in Limmen"
+          },
+          "coords": [
+            4.695,
+            52.662
+          ],
+          "category": "gastro",
+          "arrive_at": "18:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag in einem Landgasthof in der Nähe des Blumengartens.",
+            "hu": "Zárja a napot egy vidéki fogadóban a virágoskert közelében.",
+            "ro": "Încheiați ziua la un han de țară lângă grădina de flori.",
+            "en": "End the day at a country inn near the flower garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit dem Auto im Marineviertel, wo Sie parken und zu Fuß das Erbe von Willemsoord, dem Marinemuseum und dem Reddingmuseum erkunden. Nach dem Mittagessen fahren Sie entlang der Küste zum beeindruckenden Fort Kijkduin für eine Dosis napoleonischer Geschichte und einen Strandspaziergang. Der Höhepunkt des Nachmittags, falls es Frühling ist, ist eine Fahrt zum Hortus Bulborum, um die historischen Tulpen zu bewundern. Beenden Sie Ihren Tag mit einem Abendessen auf dem Land, umgeben von der Ruhe der Blumenzwiebelfelder.",
+        "hu": "A napja autóval kezdődik a tengerészeti negyedben, ahol leparkol, és gyalog fedezi fel a Willemsoord, a Tengerészeti Múzeum és a Mentési Múzeum örökségét. Ebéd után vezessen végig a parton a lenyűgöző Fort Kijkduin erődhöz egy adag napóleoni történelemért és egy tengerparti sétáért. A délután csúcspontja, ha tavasz van, egy utazás a Hortus Bulborumhoz, hogy megcsodálja a történelmi tulipánokat. Zárja a napot egy vidéki vacsorával, a virághagyma-földek nyugalmával körülvéve.",
+        "ro": "Ziua dvs. începe cu mașina în cartierul naval, unde parcați și explorați pe jos moștenirea Willemsoord, Muzeul Marinei și Muzeul Salvării. După prânz, conduceți de-a lungul coastei până la impresionantul Fort Kijkduin pentru o doză de istorie napoleoniană și o plimbare pe plajă. Punctul culminant al după-amiezii, dacă este primăvară, este o excursie la Hortus Bulborum pentru a admira lalelele istorice. Încheiați ziua cu o cină la țară, înconjurați de liniștea câmpurilor de bulbi de flori.",
+        "en": "Your day starts by car in the naval quarter, where you'll park and explore the heritage of Willemsoord, the Marine Museum, and the Lifeboat Museum on foot. After lunch, drive along the coast to the impressive Fort Kijkduin for a dose of Napoleonic history and a beach walk. The afternoon's highlight, if it's spring, is a drive to Hortus Bulborum to admire the historic tulips. End your day with a country dinner, surrounded by the tranquility of the bulb fields."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Stoom",
+            "tip": "Befindet sich in einem alten Pumpenhaus in Willemsoord, tolles Ambiente."
+          },
+          {
+            "name": "De Ruyter",
+            "tip": "Ein beliebtes Café und Restaurant im Herzen von Den Helder."
+          },
+          {
+            "name": "Landgoed Marquette",
+            "tip": "In der Nähe von Hortus Bulborum, für ein exklusives Abendessen in einem Schloss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Stoom",
+            "tip": "Egy régi szivattyúházban található Willemsoordban, nagyszerű hangulattal."
+          },
+          {
+            "name": "De Ruyter",
+            "tip": "Népszerű kávézó és étterem Den Helder szívében."
+          },
+          {
+            "name": "Landgoed Marquette",
+            "tip": "A Hortus Bulborum közelében, egy exkluzív vacsoráért egy kastélyban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Stoom",
+            "tip": "Situat într-o veche stație de pompare din Willemsoord, atmosferă excelentă."
+          },
+          {
+            "name": "De Ruyter",
+            "tip": "O cafenea și un restaurant popular în inima orașului Den Helder."
+          },
+          {
+            "name": "Landgoed Marquette",
+            "tip": "Aproape de Hortus Bulborum, pentru o cină exclusivistă într-un castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Stoom",
+            "tip": "Located in an old pumping station in Willemsoord, great atmosphere."
+          },
+          {
+            "name": "De Ruyter",
+            "tip": "A popular cafe and restaurant in the heart of Den Helder."
+          },
+          {
+            "name": "Landgoed Marquette",
+            "tip": "Near Hortus Bulborum, for an exclusive dinner in a castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "De Nollen",
+            "tip": "Ein Kunst- und Naturprojekt in den Dünen, sehr friedlich.",
+            "emoji": "🎨"
+          },
+          {
+            "name": "Balgzand",
+            "tip": "Ein Wattgebiet südöstlich von Den Helder, ideal zur Vogelbeobachtung.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Sonnenuntergang am Strand von Huisduinen",
+            "tip": "Parken Sie Ihr Auto und genießen Sie die Show der Natur.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Nollen",
+            "tip": "Művészeti és természeti projekt a dűnékben, nagyon békés.",
+            "emoji": "🎨"
+          },
+          {
+            "name": "Balgzand",
+            "tip": "Ár-apály terület Den Heldertől délkeletre, ideális madármegfigyeléshez.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Naplemente a huisduineni strandon",
+            "tip": "Parkolja le az autót és élvezze a természet előadását.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "De Nollen",
+            "tip": "Un proiect de artă și natură în dune, foarte pașnic.",
+            "emoji": "🎨"
+          },
+          {
+            "name": "Balgzand",
+            "tip": "O zonă de maree la sud-est de Den Helder, ideală pentru observarea păsărilor.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Apus de soare pe plaja Huisduinen",
+            "tip": "Parcați mașina și bucurați-vă de spectacolul naturii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "De Nollen",
+            "tip": "An art and nature project in the dunes, very peaceful.",
+            "emoji": "🎨"
+          },
+          {
+            "name": "Balgzand",
+            "tip": "A tidal flat area southeast of Den Helder, great for bird watching.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Sunset at Huisduinen beach",
+            "tip": "Park your car and enjoy nature's show.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Blumenzwiebeln vom Erzeuger",
+            "tip": "Im Frühling können Sie Zwiebeln direkt vom Hortus Bulborum oder nahegelegenen Bauernhöfen kaufen."
+          },
+          {
+            "name": "Marinemarkt",
+            "tip": "Gelegentlich finden in Willemsoord Märkte mit nautischen und lokalen Produkten statt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Virághagymák a termelőtől",
+            "tip": "Tavasszal vásárolhat hagymákat közvetlenül a Hortus Bulborumtól vagy a közeli gazdaságokból."
+          },
+          {
+            "name": "Tengerészeti piac",
+            "tip": "Willemsoordban időnként piacokat tartanak tengerészeti és helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulbi de flori de la producător",
+            "tip": "Primăvara puteți cumpăra bulbi direct de la Hortus Bulborum sau de la fermele din apropiere."
+          },
+          {
+            "name": "Piața maritimă",
+            "tip": "Ocazional, în Willemsoord se organizează piețe cu produse nautice și locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Flower bulbs from the source",
+            "tip": "In spring, you can buy bulbs directly from Hortus Bulborum or nearby farms."
+          },
+          {
+            "name": "Maritime Market",
+            "tip": "Occasionally, markets with nautical and local products are held in Willemsoord."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkgebühren in der Stadt; an einigen Orten gibt es kostenlose Parkplätze.",
+          "Planen Sie zusätzliche Fahrzeit ein, besonders an Wochenenden und in der Hochsaison.",
+          "Ein GPS ist unerlässlich, um sich in den ländlichen Gebieten zurechtzufinden.",
+          "Denken Sie daran, dass der Hortus Bulborum nur wenige Wochen im Jahr geöffnet ist."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat a városban; néhány helyen ingyenes a parkolás.",
+          "Tervezzen be extra utazási időt, különösen hétvégén és főszezonban.",
+          "A GPS elengedhetetlen a vidéki területeken való tájékozódáshoz.",
+          "Ne feledje, hogy a Hortus Bulborum csak néhány hétig tart nyitva az évben."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în oraș; unele locuri au parcare gratuită.",
+          "Planificați timp suplimentar de condus, mai ales în weekend și în sezonul de vârf.",
+          "Un GPS este esențial pentru a naviga în zonele rurale.",
+          "Rețineți că Hortus Bulborum este deschis doar câteva săptămâni pe an."
+        ],
+        "en": [
+          "Check parking fees in the city; some places have free parking.",
+          "Plan for extra driving time, especially on weekends and in high season.",
+          "A GPS is essential for navigating the rural areas.",
+          "Remember that Hortus Bulborum is only open for a few weeks a year."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Ankunft Bahnhof & Willemsoord",
+            "hu": "Központ Klaszter: Érkezés a pályaudvarra és Willemsoord",
+            "ro": "Cluster Centru: Sosire la gară & Willemsoord",
+            "en": "Center Cluster: Station Arrival & Willemsoord"
+          },
+          "coords": [
+            4.773,
+            52.956
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Bahnhof Den Helder ist es ein kurzer Spaziergang zum Eingang von Willemsoord.",
+            "hu": "A Den Helder-i vasútállomástól rövid séta a Willemsoord bejárata.",
+            "ro": "De la gara Den Helder este o scurtă plimbare până la intrarea în Willemsoord.",
+            "en": "From Den Helder station, it's a short walk to the entrance of Willemsoord."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Marinemuseum",
+            "hu": "Központ Klaszter: Tengerészeti Múzeum",
+            "ro": "Cluster Centru: Muzeul Marinei",
+            "en": "Center Cluster: Marine Museum"
+          },
+          "coords": [
+            4.767,
+            52.963
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das Hafengelände zum Museum.",
+            "hu": "Sétáljon át a kikötő területén a múzeumhoz.",
+            "ro": "Plimbați-vă prin zona portuară până la muzeu.",
+            "en": "Stroll through the harbor area to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Mittagessen & Reddingmuseum",
+            "hu": "Központ Klaszter: Ebéd és Mentési Múzeum",
+            "ro": "Cluster Centru: Prânz & Muzeul Salvării",
+            "en": "Center Cluster: Lunch & Lifeboat Museum"
+          },
+          "coords": [
+            4.765,
+            52.962
+          ],
+          "category": "museums",
+          "arrive_at": "12:32",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit, bevor Sie die Heldengeschichten der Seenotrettung entdecken.",
+            "hu": "Ebédeljen egyet, mielőtt felfedezné a tengeri mentés hősies történeteit.",
+            "ro": "Bucurați-vă de o masă înainte de a descoperi poveștile eroice ale salvării pe mare.",
+            "en": "Enjoy a meal before discovering the heroic tales of sea rescue."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Huisduinen: Fort Kijkduin",
+            "hu": "Huisduinen Klaszter: Fort Kijkduin",
+            "ro": "Cluster Huisduinen: Fortul Kijkduin",
+            "en": "Huisduinen Cluster: Fort Kijkduin"
+          },
+          "coords": [
+            4.722,
+            52.943
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus vom Stadtzentrum nach Huisduinen.",
+            "hu": "Menjen busszal a városközpontból Huisduinenbe.",
+            "ro": "Luați autobuzul din centrul orașului spre Huisduinen.",
+            "en": "Take the bus from the city center to Huisduinen."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Huisduinen: Strand und Leuchtturm",
+            "hu": "Huisduinen Klaszter: Strand és világítótorony",
+            "ro": "Cluster Huisduinen: Plajă și Far",
+            "en": "Huisduinen Cluster: Beach and Lighthouse"
+          },
+          "coords": [
+            4.724,
+            52.945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang am Strand mit Blick auf den Leuchtturm von Huisduinen.",
+            "hu": "Séta a strandon, kilátással a huisduineni világítótoronyra.",
+            "ro": "O plimbare pe plajă cu vedere la farul din Huisduinen.",
+            "en": "A walk on the beach with a view of the Huisduinen lighthouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to Center"
+          },
+          "coords": [
+            4.773,
+            52.956
+          ],
+          "category": "transit",
+          "arrive_at": "17:30",
+          "stay_min": 10,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück zum Bahnhof für Ihre Weiterreise.",
+            "hu": "Menjen busszal vissza a pályaudvarra a továbbutazáshoz.",
+            "ro": "Luați autobuzul înapoi la gară pentru călătoria dvs. ulterioară.",
+            "en": "Take the bus back to the station for your onward journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Bahnhof, von wo aus Sie bequem das maritime Herz der Stadt rund um Willemsoord und seine Museen zu Fuß erkunden. Nach einem Mittagessen am Hafen bringt Sie ein Bus in das historische Dorf Huisduinen. Dort erkunden Sie das mächtige Fort Kijkduin und genießen die frische Seeluft am Strand. Der Bus bringt Sie am späten Nachmittag bequem zurück ins Zentrum, rechtzeitig für Ihre Abreise.",
+        "hu": "A nap a vasútállomáson kezdődik, ahonnan kényelmesen felfedezheti a város tengerészeti szívét a Willemsoord és múzeumai körül. Egy kikötői ebéd után busz viszi Önt Huisduinen történelmi falujába. Ott felfedezheti a hatalmas Fort Kijkduin erődöt, és élvezheti a friss tengeri levegőt a strandon. A busz kora délután kényelmesen visszaviszi Önt a központba, időben az induláshoz.",
+        "ro": "Ziua dvs. începe la gară, de unde puteți explora cu ușurință pe jos inima maritimă a orașului în jurul Willemsoord și a muzeelor sale. După prânz în port, un autobuz vă va duce în satul istoric Huisduinen. Acolo veți explora puternicul Fort Kijkduin și vă veți bucura de aerul proaspăt al mării pe plajă. Autobuzul vă va aduce confortabil înapoi în centru la sfârșitul după-amiezii, la timp pentru plecarea dvs.",
+        "en": "Your day begins at the train station, from where you can easily explore the city's maritime heart around Willemsoord and its museums on foot. After lunch at the harbour, a bus will take you to the historic village of Huisduinen. There, you'll explore the mighty Fort Kijkduin and enjoy the fresh sea air on the beach. The bus will bring you comfortably back to the centre in the late afternoon, in time for your departure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bakkerij Dunselman",
+            "tip": "Probieren Sie ein lokales Gebäck in der Nähe des Bahnhofs für einen schnellen Happen."
+          },
+          {
+            "name": "Eetcafé De Sluys",
+            "tip": "Ein traditionelles 'braunes Café' für ein einfaches, aber gutes Essen."
+          },
+          {
+            "name": "Kade 60",
+            "tip": "Ein modernes Restaurant mit Blick auf den Hafen, ideal für ein schönes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bakkerij Dunselman",
+            "tip": "Kóstoljon meg egy helyi süteményt a pályaudvar közelében egy gyors harapnivalóért."
+          },
+          {
+            "name": "Eetcafé De Sluys",
+            "tip": "Egy hagyományos 'barna kávézó' egy egyszerű, de jó ételhez."
+          },
+          {
+            "name": "Kade 60",
+            "tip": "Modern étterem, kilátással a kikötőre, ideális egy kellemes ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bakkerij Dunselman",
+            "tip": "Încercați un produs de patiserie local lângă gară pentru o gustare rapidă."
+          },
+          {
+            "name": "Eetcafé De Sluys",
+            "tip": "O 'cafenea maro' tradițională pentru o masă simplă, dar bună."
+          },
+          {
+            "name": "Kade 60",
+            "tip": "Un restaurant modern cu vedere la port, ideal pentru un prânz plăcut."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakkerij Dunselman",
+            "tip": "Try a local pastry near the station for a quick bite."
+          },
+          {
+            "name": "Eetcafé De Sluys",
+            "tip": "A traditional 'brown cafe' for a simple but good meal."
+          },
+          {
+            "name": "Kade 60",
+            "tip": "A modern restaurant overlooking the harbour, great for a nice lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grafelijkheidsduinen",
+            "tip": "Ein ruhiges Dünengebiet hinter Fort Kijkduin.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Timorpark",
+            "tip": "Ein kleiner Stadtpark für eine kurze Pause vom Sightseeing.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Spaziergang entlang des Noordhollandsch Kanaal",
+            "tip": "Finden Sie eine Bank und beobachten Sie die Boote.",
+            "emoji": "🛶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grafelijkheidsduinen",
+            "tip": "Csendes dűnevidék a Fort Kijkduin mögött.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Timorpark",
+            "tip": "Kis városi park egy rövid szünetre a városnézés közben.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Séta a Noordhollandsch Kanaal mentén",
+            "tip": "Keressen egy padot és nézze a hajókat.",
+            "emoji": "🛶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grafelijkheidsduinen",
+            "tip": "O zonă liniștită de dune în spatele Fortului Kijkduin.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Timorpark",
+            "tip": "Un mic parc urban pentru o scurtă pauză de la vizitarea obiectivelor turistice.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Plimbare de-a lungul Canalului Noordhollandsch",
+            "tip": "Găsiți o bancă și priviți bărcile.",
+            "emoji": "🛶"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grafelijkheidsduinen",
+            "tip": "A quiet dune area behind Fort Kijkduin.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Timorpark",
+            "tip": "A small city park for a short break from sightseeing.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Walk along the Noordhollandsch Kanaal",
+            "tip": "Find a bench and watch the boats go by.",
+            "emoji": "🛶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Beatrixstraat",
+            "tip": "Die Haupteinkaufsstraße in Den Helder für Kleidung und mehr."
+          },
+          {
+            "name": "Souvenirs am Fährhafen",
+            "tip": "In der Nähe der Fähre nach Texel gibt es Geschäfte, die Souvenirs verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beatrixstraat",
+            "tip": "Den Helder fő bevásárlóutcája ruhákért és egyebekért."
+          },
+          {
+            "name": "Ajándéktárgyak a kompkikötőnél",
+            "tip": "A texeli komp közelében ajándékboltok találhatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Beatrixstraat",
+            "tip": "Principala stradă comercială din Den Helder pentru haine și multe altele."
+          },
+          {
+            "name": "Suveniruri la terminalul de feribot",
+            "tip": "Lângă feribotul spre Texel există magazine care vând suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beatrixstraat",
+            "tip": "The main shopping street in Den Helder for clothes and more."
+          },
+          {
+            "name": "Souvenirs at the ferry terminal",
+            "tip": "Near the ferry to Texel, there are shops selling souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse in ländlichen Gebieten seltener fahren.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Beachten Sie, dass der letzte Bus möglicherweise früher fährt, als Sie erwarten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Ellenőrizze előre a buszmenetrendet, mivel a buszok ritkábban közlekednek a vidéki területeken.",
+          "A legtöbb látnivaló a városközpontban könnyen elérhető gyalog.",
+          "Vegye figyelembe, hogy az utolsó busz korábban indulhat, mint amire számít."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, deoarece autobuzele circulă mai rar în zonele rurale.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Rețineți că ultimul autobuz poate pleca mai devreme decât vă așteptați."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan on making multiple trips.",
+          "Check the bus schedule in advance, as buses may run less frequently in rural areas.",
+          "Most attractions in the city center are easily within walking distance.",
+          "Be aware that the last bus may run earlier than you expect."
+        ]
+      }
+    }
+  }
+}

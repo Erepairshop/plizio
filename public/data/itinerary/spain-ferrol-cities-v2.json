@@ -1,0 +1,993 @@
+{
+  "city_id": "spain-ferrol-cities-v2",
+  "anchor": {
+    "name": "Barrio de la Magdalena",
+    "coords": [
+      -8.2359,
+      43.4921
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 1.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Barrio de la Magdalena",
+            "hu": "Barrio de la Magdalena (Magdaléna-negyed)",
+            "ro": "Barrio de la Magdalena",
+            "en": "Barrio de la Magdalena"
+          },
+          "coords": [
+            -8.235,
+            43.483
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee an der Plaza de Amboage, bevor Sie die schachbrettartigen Straßen erkunden.",
+            "hu": "Indítsa a napot egy kávéval a Plaza de Amboage téren, mielőtt felfedezné a sakktáblaszerű utcákat.",
+            "ro": "Începeți ziua cu o cafea în Plaza de Amboage înainte de a explora străzile în model de tablă de șah.",
+            "en": "Start your day with a coffee at Plaza de Amboage before exploring the grid-like streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Konkathedrale San Julián",
+            "hu": "Szent Julián társszékesegyház",
+            "ro": "Concatedrala San Julián",
+            "en": "Co-cathedral of San Julián"
+          },
+          "coords": [
+            -8.233,
+            43.483
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die neoklassizistische Fassade und das relativ schlichte, aber elegante Innere.",
+            "hu": "Figyelje meg a neoklasszicista homlokzatot és a viszonylag egyszerű, mégis elegáns belső teret.",
+            "ro": "Observați fațada neoclasică și interiorul relativ simplu, dar elegant.",
+            "en": "Note the neoclassical facade and the relatively simple yet elegant interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Jofre",
+            "hu": "Jofre Színház",
+            "ro": "Teatrul Jofre",
+            "en": "Jofre Theatre"
+          },
+          "coords": [
+            -8.237,
+            43.485
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Auch wenn Sie keine Vorstellung besuchen, ist die eklektische Architektur von außen einen Blick wert.",
+            "hu": "Még ha nem is megy előadásra, az eklektikus építészet kívülről is megér egy pillantást.",
+            "ro": "Chiar dacă nu participați la un spectacol, arhitectura eclectică merită admirată din exterior.",
+            "en": "Even if you don't attend a show, the eclectic architecture is worth admiring from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Cuartel de Dolores",
+            "hu": "Cuartel de Dolores",
+            "ro": "Cuartel de Dolores",
+            "en": "Cuartel de Dolores"
+          },
+          "coords": [
+            -8.241,
+            43.486
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:26",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Militärgebäude, das die lange Marinegeschichte der Stadt unterstreicht.",
+            "hu": "Impozáns katonai épület, amely a város hosszú haditengerészeti történelmét hangsúlyozza.",
+            "ro": "O clădire militară impresionantă care subliniază lunga istorie navală a orașului.",
+            "en": "An impressive military building that highlights the city's long naval history."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Naval",
+            "hu": "Haditengerészeti Múzeum",
+            "ro": "Muzeul Naval",
+            "en": "Naval Museum"
+          },
+          "coords": [
+            -8.231,
+            43.485
+          ],
+          "category": "museums",
+          "arrive_at": "11:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Fokus auf die reiche Geschichte des spanischen Schiffbaus und der Marineoperationen in Ferrol.",
+            "hu": "A múzeum a spanyol hajóépítés és a ferroli haditengerészeti műveletek gazdag történetére összpontosít.",
+            "ro": "Concentrați-vă pe istoria bogată a construcțiilor navale spaniole și a operațiunilor navale din Ferrol.",
+            "en": "Focus on the rich history of Spanish shipbuilding and naval operations in Ferrol."
+          }
+        },
+        {
+          "name": {
+            "de": "Exponav",
+            "hu": "Exponav",
+            "ro": "Exponav",
+            "en": "Exponav"
+          },
+          "coords": [
+            -8.228,
+            43.486
+          ],
+          "category": "museums",
+          "arrive_at": "13:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine großartige Ergänzung zum Marinemuseum, die sich auf den Schiffbau konzentriert.",
+            "hu": "Nagyszerű kiegészítője a Haditengerészeti Múzeumnak, a hajóépítésre összpontosítva.",
+            "ro": "O completare excelentă la Muzeul Naval, axată pe construcția de nave.",
+            "en": "A great complement to the Naval Museum, focusing on shipbuilding."
+          }
+        },
+        {
+          "name": {
+            "de": "Arsenal de Ferrol",
+            "hu": "Ferroli Arzenál",
+            "ro": "Arsenalul din Ferrol",
+            "en": "Arsenal of Ferrol"
+          },
+          "coords": [
+            -8.229,
+            43.487
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:07",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang entlang des Wassers, um die gewaltige Ausdehnung dieses historischen Arsenals zu sehen.",
+            "hu": "Sétáljon egyet a vízparton, hogy lássa ennek a történelmi arzenálnak a hatalmas kiterjedését.",
+            "ro": "Faceți o plimbare de-a lungul apei pentru a vedea amploarea acestui arsenal istoric.",
+            "en": "Take a walk along the water to see the vast scale of this historic arsenal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Ferrol beginnt im rationalistischen Herzen des Barrio de la Magdalena, einem perfekten Gitter aus dem 18. Jahrhundert. Der Morgen ist der Erkundung seiner eleganten modernistischen Gebäude gewidmet. Am Mittag führt Sie der Weg zum Hafen, wo die maritime Seele der Stadt in den Museen Exponav und Naval lebendig wird. Der Nachmittag ist eine Reflexion über die militärische Macht des Arsenals, ein Zeugnis von Jahrhunderten des Schiffbaus. Der Tag endet mit einem Spaziergang entlang der Uferpromenade, bei dem Sie die salzige Luft und den Blick auf die Ría genießen können.",
+        "hu": "A ferroli séta a Barrio de la Magdalena racionalista szívében, egy 18. századi, tökéletes rácsszerkezetben kezdődik. A délelőttöt az elegáns modernista épületek felfedezésének szenteljük. Délben az út a kikötő felé vezet, ahol a város tengeri lelke megelevenedik az Exponav és a Haditengerészeti Múzeumban. A délután az Arzenál katonai erejéről való elmélkedés, amely évszázados hajóépítésről tanúskodik. A napot egy vízparti sétával zárjuk, élvezve a sós levegőt és a Ría (tölcsértorkolat) látványát.",
+        "ro": "O plimbare prin Ferrol începe în inima raționalistă a Barrio de la Magdalena, o grilă perfectă din secolul al XVIII-lea. Dimineața este dedicată explorării clădirilor sale moderniste elegante. La prânz, drumul duce spre port, unde sufletul maritim al orașului prinde viață la muzeele Exponav și Naval. După-amiaza este o reflecție asupra puterii militare a Arsenalului, un testament al secolelor de construcții navale. Ziua se încheie cu o plimbare de-a lungul malului apei, bucurându-vă de aerul sărat și de priveliștea estuarului (Ría).",
+        "en": "A walk through Ferrol begins in the rationalist heart of Barrio de la Magdalena, a perfect 18th-century grid. The morning is for exploring its elegant modernist buildings. At midday, the path leads to the port, where the city's maritime soul comes alive at the Exponav and Naval museums. The afternoon is a reflection on the military might of the Arsenal, a testament to centuries of shipbuilding. The day concludes with a stroll along the waterfront, enjoying the salty air and the views of the estuary (Ría)."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pulpo a feira",
+            "tip": "Der galicische Oktopus-Klassiker, serviert mit Paprika und Kartoffeln. Suchen Sie nach einer 'Pulpería'."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Eine herzhafte Pastete, oft gefüllt mit Thunfisch, Kabeljau oder Fleisch. Perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Pimientos de Padrón",
+            "tip": "Kleine grüne Paprika, gebraten und mit grobem Salz bestreut. Die meisten sind mild, aber 'einige sind scharf'!"
+          },
+          {
+            "name": "Albariño Wein",
+            "tip": "Der typische Weißwein Galiciens, frisch und aromatisch, passt perfekt zu Meeresfrüchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pulpo a feira",
+            "tip": "A galíciai polip klasszikus, paprikával és burgonyával tálalva. Keressen egy 'Pulpería'-t."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Szívós pite, gyakran tonhallal, tőkehallal vagy hússal töltve. Tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Pimientos de Padrón",
+            "tip": "Kis zöldpaprika, sütve és durva sóval megszórva. A legtöbb enyhe, de 'van, amelyik csípős'!"
+          },
+          {
+            "name": "Albariño bor",
+            "tip": "Galícia jellegzetes fehérbora, friss és aromás, tökéletesen illik a tenger gyümölcseihez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pulpo a feira",
+            "tip": "Clasicul caracatiței galiciene, servit cu boia și cartofi. Căutați o 'Pulpería'."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "O plăcintă consistentă, adesea umplută cu ton, cod sau carne. Perfectă pentru un prânz rapid."
+          },
+          {
+            "name": "Pimientos de Padrón",
+            "tip": "Ardei verzi mici, prăjiți și presărați cu sare grunjoasă. Majoritatea sunt blânzi, dar 'unii sunt iuți'!"
+          },
+          {
+            "name": "Vin Albariño",
+            "tip": "Vinul alb emblematic al Galiciei, proaspăt și aromat, perfect cu fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pulpo a feira",
+            "tip": "The classic Galician octopus, served with paprika and potatoes. Look for a 'Pulpería'."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "A savory pie, often filled with tuna, cod, or meat. Perfect for a quick lunch."
+          },
+          {
+            "name": "Pimientos de Padrón",
+            "tip": "Small green peppers, fried and sprinkled with coarse salt. Most are mild, but 'some are hot'!"
+          },
+          {
+            "name": "Albariño Wine",
+            "tip": "Galicia's signature white wine, crisp and aromatic, perfect with seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Herrera",
+            "tip": "Eine kleine, ruhige Grünfläche in der Nähe des Hafens, ideal für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mirador de la Ría",
+            "tip": "Ein kurzer Spaziergang entlang der Küste bietet ruhige Ausblicke auf das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Arsenals",
+            "tip": "Abseits der Hauptmuseen kann man hier in Ruhe die Schiffe und das Wasser beobachten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herrera-kertek",
+            "tip": "Egy kis, csendes zöldterület a kikötő közelében, ideális egy rövid szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mirador de la Ría",
+            "tip": "Egy rövid séta a part mentén csendes kilátást nyújt a vízre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Arzenál partja",
+            "tip": "A fő múzeumoktól távolabb, itt békében nézheti a hajókat és a vizet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Herrera",
+            "tip": "Un spațiu verde mic și liniștit lângă port, perfect pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mirador de la Ría",
+            "tip": "O scurtă plimbare de-a lungul coastei oferă priveliști liniștite ale apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul Arsenalului",
+            "tip": "Departe de muzeele principale, aici puteți privi navele și apa în liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Herrera",
+            "tip": "A small, quiet green space near the port, perfect for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mirador de la Ría",
+            "tip": "A short walk up the coast offers serene views of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arsenal Waterfront",
+            "tip": "Away from the main museums, you can watch the ships and water in peace here.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de la Magdalena",
+            "tip": "Ein lokaler Markt, auf dem Sie frische Produkte und galicische Spezialitäten finden."
+          },
+          {
+            "name": "Calle Real",
+            "tip": "Die Haupteinkaufsstraße im Barrio de la Magdalena mit einer Mischung aus lokalen Geschäften und bekannten Marken."
+          },
+          {
+            "name": "Navale Souvenirs",
+            "tip": "In den Museumsshops finden Sie einzigartige Souvenirs, die mit der Seefahrtsgeschichte von Ferrol zu tun haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de la Magdalena",
+            "tip": "Helyi piac, ahol friss termékeket és galíciai specialitásokat talál."
+          },
+          {
+            "name": "Calle Real",
+            "tip": "A Barrio de la Magdalena fő bevásárlóutcája, helyi üzletek és ismert márkák keverékével."
+          },
+          {
+            "name": "Tengerészeti szuvenírek",
+            "tip": "A múzeumi boltokban egyedi, Ferrol tengeri történelmével kapcsolatos ajándéktárgyakat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Magdalena",
+            "tip": "O piață locală unde puteți găsi produse proaspete și specialități galiciene."
+          },
+          {
+            "name": "Calle Real",
+            "tip": "Principala stradă comercială din Barrio de la Magdalena, cu un amestec de magazine locale și mărci cunoscute."
+          },
+          {
+            "name": "Suveniruri Navale",
+            "tip": "Căutați în magazinele muzeelor suveniruri unice legate de istoria maritimă a Ferrolului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de la Magdalena",
+            "tip": "A local market where you can find fresh produce and Galician specialties."
+          },
+          {
+            "name": "Calle Real",
+            "tip": "The main shopping street in the Barrio de la Magdalena, with a mix of local shops and known brands."
+          },
+          {
+            "name": "Naval Souvenirs",
+            "tip": "Look for unique souvenirs related to Ferrol's maritime history in the museum shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Viele Geschäfte halten eine 'Siesta' am Nachmittag, planen Sie Ihre Einkäufe entsprechend.",
+          "Die Museen sind montags oft geschlossen.",
+          "Ein Spaziergang am Wasser ist bei Sonnenuntergang besonders schön."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Sok üzlet délután 'siestát' tart, tervezze meg a vásárlást ennek megfelelően.",
+          "A múzeumok hétfőn gyakran zárva tartanak.",
+          "A vízparti séta naplementekor különösen szép."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Multe magazine au 'siesta' după-amiaza, planificați-vă cumpărăturile în consecință.",
+          "Muzeele sunt adesea închise lunea.",
+          "O plimbare pe malul apei este deosebit de frumoasă la apus."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Many shops observe an afternoon 'siesta', so plan your shopping accordingly.",
+          "Museums are often closed on Mondays.",
+          "A walk by the water is especially beautiful at sunset."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Barrio de la Magdalena",
+            "hu": "Barrio de la Magdalena",
+            "ro": "Barrio de la Magdalena",
+            "en": "Barrio de la Magdalena"
+          },
+          "coords": [
+            -8.235,
+            43.483
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und schlendern Sie durch die Gitterstraßen.",
+            "hu": "Parkolja le a biciklit, és sétáljon végig a rácsos utcákon.",
+            "ro": "Parcați bicicleta și plimbați-vă pe străzile în grilă.",
+            "en": "Park your bike and stroll through the grid streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Arsenal de Ferrol",
+            "hu": "Ferroli Arzenál",
+            "ro": "Arsenalul din Ferrol",
+            "en": "Arsenal of Ferrol"
+          },
+          "coords": [
+            -8.229,
+            43.487
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang des massiven Komplexes, um seine Größe zu erfassen.",
+            "hu": "Tekerjen végig a hatalmas komplexum mentén, hogy felmérje a méretét.",
+            "ro": "Pedalați de-a lungul complexului masiv pentru a-i aprecia scara.",
+            "en": "Cycle alongside the massive complex to appreciate its scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Naval & Exponav",
+            "hu": "Haditengerészeti Múzeum és Exponav",
+            "ro": "Muzeul Naval & Exponav",
+            "en": "Naval Museum & Exponav"
+          },
+          "coords": [
+            -8.231,
+            43.485
+          ],
+          "category": "museums",
+          "arrive_at": "10:42",
+          "stay_min": 150,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kombinieren Sie beide Museen für ein umfassendes maritimes Erlebnis. Planen Sie genügend Zeit ein.",
+            "hu": "Kombinálja a két múzeumot egy átfogó tengerészeti élményért. Szánjon rá elég időt.",
+            "ro": "Combinați ambele muzee pentru o experiență maritimă completă. Alocați suficient timp.",
+            "en": "Combine both museums for a full maritime experience. Allow plenty of time."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Ferrol Vello",
+            "hu": "Ebéd Ferrol Vellóban",
+            "ro": "Prânz în Ferrol Vello",
+            "en": "Lunch in Ferrol Vello"
+          },
+          "coords": [
+            -8.23,
+            43.482
+          ],
+          "category": "gastro",
+          "arrive_at": "13:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie frische Meeresfrüchte in einer der traditionellen Tavernen des alten Fischerviertels.",
+            "hu": "Élvezze a friss tenger gyümölcseit a régi halásznegyed egyik hagyományos tavernájában.",
+            "ro": "Savurați fructe de mare proaspete într-una din tavernele tradiționale din vechiul cartier pescăresc.",
+            "en": "Enjoy fresh seafood in one of the traditional taverns of the old fishing quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de San Felipe",
+            "hu": "San Felipe kastély",
+            "ro": "Castelul San Felipe",
+            "en": "Castle of San Felipe"
+          },
+          "coords": [
+            -8.275,
+            43.475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 72,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Die Radtour entlang der Ría ist lang, aber die Aussicht von der Festung ist die Mühe wert.",
+            "hu": "A Ría menti kerékpártúra hosszú, de a várból nyíló kilátás megéri a fáradságot.",
+            "ro": "Plimbarea cu bicicleta de-a lungul estuarului este lungă, dar priveliștile de la fortăreață merită efortul.",
+            "en": "The cycle ride along the estuary is long but the views from the fortress are worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to Center"
+          },
+          "coords": [
+            -8.235,
+            43.483
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:34",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem wohlverdienten Getränk auf einem der Plätze der Magdalena.",
+            "hu": "Zárja a napot egy jól megérdemelt itallal a Magdalena negyed egyik terén.",
+            "ro": "Încheiați ziua cu o băutură binemeritată într-una din piețele din Magdalena.",
+            "en": "End the day with a well-deserved drink in one of Magdalena's squares."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrradtour beginnt mit einem gemütlichen Start im Zentrum, bevor sie zur beeindruckenden Wasserfront des Arsenals führt. Der Vormittag steht im Zeichen der Seefahrt, mit einem tiefen Einblick in die Museen. Nach einem authentischen Mittagessen im alten Fischerviertel steht die größte Herausforderung bevor: die lange, aber lohnende Fahrt zum Castillo de San Felipe, das die Mündung der Ría bewacht. Der Nachmittag bietet spektakuläre Ausblicke. Die Rückkehr ins Zentrum fühlt sich wie eine triumphale Heimkehr an, perfekt für einen entspannten Ausklang des Tages.",
+        "hu": "A kerékpártúra a központban kezdődik egy laza rajttal, mielőtt az Arzenál lenyűgöző vízpartjához vezetne. A délelőtt a tengerészet jegyében telik, mély betekintést nyújtva a múzeumokba. Egy autentikus ebéd után a régi halásznegyedben jön a legnagyobb kihívás: a hosszú, de hálás út a San Felipe kastélyhoz, amely a Ría torkolatát őrzi. A délután látványos kilátást kínál. A központba való visszatérés diadalmas hazatérésnek érződik, tökéletes a nap laza lezárásához.",
+        "ro": "Turul cu bicicleta începe lejer în centru, înainte de a se îndrepta spre impresionantul mal al Arsenalului. Dimineața este despre navigație, cu o incursiune profundă în muzee. După un prânz autentic în vechiul cartier pescăresc, urmează cea mai mare provocare: drumul lung, dar satisfăcător, către Castelul San Felipe, care păzește gura estuarului Ría. După-amiaza oferă priveliști spectaculoase. Întoarcerea în centru se simte ca o revenire triumfătoare, perfectă pentru o încheiere relaxată a zilei.",
+        "en": "The bike tour starts with a gentle roll through the center before heading to the impressive waterfront of the Arsenal. The morning is all about seafaring, with a deep dive into the museums. After an authentic lunch in the old fishing quarter, the biggest challenge awaits: the long but rewarding ride to the Castillo de San Felipe, guarding the mouth of the Ría. The afternoon offers spectacular views. The return to the center feels like a triumphant homecoming, perfect for a relaxed end to the day."
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist für die lange Fahrt zum Schloss.",
+          "Nehmen Sie Wasser und Snacks mit.",
+          "Ein Helm wird dringend empfohlen.",
+          "Prüfen Sie die Öffnungszeiten des Schlosses, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy a kerékpárja jó állapotban van a kastélyhoz vezető hosszú útra.",
+          "Vigyen magával vizet és harapnivalót.",
+          "A sisak használata erősen ajánlott.",
+          "Indulás előtt ellenőrizze a kastély nyitvatartási idejét."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este în stare bună pentru drumul lung până la castel.",
+          "Luați apă și gustări cu voi.",
+          "Casca este puternic recomandată.",
+          "Verificați programul de funcționare al castelului înainte de a porni."
+        ],
+        "en": [
+          "Ensure your bike is in good condition for the long ride to the castle.",
+          "Bring water and snacks.",
+          "A helmet is strongly recommended.",
+          "Check the castle's opening hours before you set off."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 16.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Barrio de la Magdalena",
+            "hu": "A Klaszter: Barrio de la Magdalena",
+            "ro": "Cluster A: Barrio de la Magdalena",
+            "en": "Cluster A: Barrio de la Magdalena"
+          },
+          "coords": [
+            -8.236,
+            43.484
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einer Tiefgarage im Zentrum, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon egy mélygarázsban a központban, hogy gyalog fedezze fel az első klasztert.",
+            "ro": "Parcați într-o parcare subterană din centru pentru a explora primul cluster pe jos.",
+            "en": "Park in a central underground car park to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Concatedral de San Julián",
+            "hu": "Szent Julián társszékesegyház",
+            "ro": "Concatedrala San Julián",
+            "en": "Co-cathedral of San Julián"
+          },
+          "coords": [
+            -8.233,
+            43.483
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von jedem zentralen Punkt im Magdalena-Viertel.",
+            "hu": "Rövid séta a Magdalena-negyed bármely központi pontjáról.",
+            "ro": "O scurtă plimbare de la orice punct central din cartierul Magdalena.",
+            "en": "A short walk from any central point in the Magdalena district."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Jofre",
+            "hu": "Jofre Színház",
+            "ro": "Teatrul Jofre",
+            "en": "Jofre Theatre"
+          },
+          "coords": [
+            -8.237,
+            43.485
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade auf Ihrem Rundgang durch das Viertel.",
+            "hu": "Csodálja meg a homlokzatot a negyedben tett sétája során.",
+            "ro": "Admirați fațada în timpul plimbării prin cartier.",
+            "en": "Admire the facade on your walking tour of the district."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Arsenal & Museen",
+            "hu": "B Klaszter: Arzenál és Múzeumok",
+            "ro": "Cluster B: Arsenal și Muzee",
+            "en": "Cluster B: Arsenal & Museums"
+          },
+          "coords": [
+            -8.23,
+            43.486
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hafen und suchen Sie einen Parkplatz in der Nähe der Museen.",
+            "hu": "Vezessen a kikötőbe, és keressen parkolóhelyet a múzeumok közelében.",
+            "ro": "Conduceți spre port și găsiți un loc de parcare lângă muzee.",
+            "en": "Drive to the port area and find parking near the museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Naval & Exponav",
+            "hu": "Haditengerészeti Múzeum és Exponav",
+            "ro": "Muzeul Naval & Exponav",
+            "en": "Naval Museum & Exponav"
+          },
+          "coords": [
+            -8.229,
+            43.485
+          ],
+          "category": "museums",
+          "arrive_at": "10:52",
+          "stay_min": 180,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Museen sind nur wenige Schritte voneinander entfernt.",
+            "hu": "Ez a két múzeum csak pár lépésre van egymástól.",
+            "ro": "Aceste două muzee sunt la doar câțiva pași unul de celălalt.",
+            "en": "These two museums are just steps from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Castillo de San Felipe",
+            "hu": "C Klaszter: San Felipe kastély",
+            "ro": "Cluster C: Castelul San Felipe",
+            "en": "Cluster C: Castle of San Felipe"
+          },
+          "coords": [
+            -8.275,
+            43.475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 13.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die Fahrt aus der Stadt bietet eine andere Perspektive auf die Ría.",
+            "hu": "A városból kivezető út más perspektívát nyújt a Ríára.",
+            "ro": "Drumul din afara orașului oferă o perspectivă diferită asupra estuarului.",
+            "en": "The drive out of the city offers a different perspective of the Ría."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Prioriño",
+            "hu": "Prioriño kilátó",
+            "ro": "Punct de vedere Prioriño",
+            "en": "Prioriño Viewpoint"
+          },
+          "coords": [
+            -8.325,
+            43.485
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie nach dem Schlossbesuch einen kurzen Spaziergang zu diesem nahegelegenen Aussichtspunkt für einen Blick auf den offenen Ozean.",
+            "hu": "A kastélylátogatás után tegyen egy rövid sétát ehhez a közeli kilátóponthoz, ahonnan a nyílt óceánra nyílik kilátás.",
+            "ro": "După vizitarea castelului, faceți o scurtă plimbare până la acest punct de belvedere din apropiere pentru o priveliște a oceanului deschis.",
+            "en": "After visiting the castle, take a short walk to this nearby viewpoint for a glimpse of the open ocean."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag mit dem Auto ist in drei Cluster aufgeteilt. Der Morgen beginnt zu Fuß im eleganten Raster des Magdalena-Viertels. Nach der Erkundung des Zentrums bringt Sie eine kurze Fahrt zum zweiten Cluster: dem maritimen Herzen von Ferrol am Hafen, wo Sie in die Marinegeschichte eintauchen. Der Nachmittag ist für den Hauptausflug reserviert: eine Fahrt zum imposanten Castillo de San Felipe, das die Mündung der Ría bewacht. Hier genießen Sie die frische Meeresluft und einen Panoramablick, der den Tag perfekt abrundet.",
+        "hu": "Az autós nap három klaszterre oszlik. A reggel gyalogosan kezdődik a Magdalena-negyed elegáns rácsszerkezetében. A központ felfedezése után egy rövid autóút visz a második klaszterhez: Ferrol tengeri szívébe a kikötőben, ahol elmerülhet a haditengerészet történetében. A délután a fő attrakcióé: egy utazás a Ría torkolatát őrző impozáns San Felipe kastélyhoz. Itt élvezheti a friss tengeri levegőt és a panorámás kilátást, amely tökéletesen lezárja a napot.",
+        "ro": "Ziua cu mașina este împărțită în trei clustere. Dimineața începe pe jos, în grila elegantă a cartierului Magdalena. După explorarea centrului, o scurtă călătorie cu mașina vă duce la al doilea cluster: inima maritimă a Ferrolului la port, unde vă scufundați în istoria navală. După-amiaza este rezervată excursiei principale: o călătorie la impunătorul Castel San Felipe, care păzește gura estuarului Ría. Aici vă bucurați de aerul proaspăt al mării și de vederi panoramice, încheind ziua perfect.",
+        "en": "The day by car is split into three clusters. The morning starts on foot in the elegant grid of the Magdalena district. After exploring the center, a short drive takes you to the second cluster: Ferrol's maritime heart at the port, for an immersion in naval history. The afternoon is reserved for the main excursion: a drive to the imposing Castillo de San Felipe, guarding the mouth of the Ría. Here, you enjoy the fresh sea air and panoramic views, concluding the day perfectly."
+      },
+      "tips": {
+        "de": [
+          "Parken in den Zentren der Cluster ist der Schlüssel. Nutzen Sie Tiefgaragen.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders wenn Sie die Stadt verlassen.",
+          "Die Straßen zum Castillo de San Felipe können eng sein. Fahren Sie vorsichtig.",
+          "Haben Sie immer etwas Bargeld für Parkautomaten dabei."
+        ],
+        "hu": [
+          "A klaszterek központjaiban való parkolás a kulcs. Használja a mélygarázsokat.",
+          "Tervezzen plusz időt a forgalomra, különösen a város elhagyásakor.",
+          "A Castillo de San Felipe felé vezető utak szűkek lehetnek. Vezessen óvatosan.",
+          "Mindig legyen Önnél némi készpénz a parkolóautomatákhoz."
+        ],
+        "ro": [
+          "Parcarea în centrele clusterelor este cheia. Folosiți parcările subterane.",
+          "Planificați timp suplimentar pentru trafic, mai ales la ieșirea din oraș.",
+          "Drumurile către Castelul San Felipe pot fi înguste. Conduceți cu prudență.",
+          "Aveți întotdeauna numerar la îndemână pentru automatele de parcare."
+        ],
+        "en": [
+          "Parking in the cluster centers is key. Use underground car parks.",
+          "Plan extra time for traffic, especially when leaving the city.",
+          "The roads to Castillo de San Felipe can be narrow. Drive carefully.",
+          "Always have some cash on hand for parking meters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Plaza de España & Magdalena",
+            "hu": "A Klaszter: Plaza de España és Magdalena",
+            "ro": "Cluster A: Plaza de España & Magdalena",
+            "en": "Cluster A: Plaza de España & Magdalena"
+          },
+          "coords": [
+            -8.238,
+            43.488
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die meisten Buslinien halten an der Plaza de España, ein idealer Ausgangspunkt.",
+            "hu": "A legtöbb buszjárat megáll a Plaza de España téren, ami ideális kiindulópont.",
+            "ro": "Majoritatea liniilor de autobuz opresc în Plaza de España, un punct de plecare ideal.",
+            "en": "Most bus lines stop at Plaza de España, an ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Barrio de la Magdalena",
+            "hu": "Barrio de la Magdalena",
+            "ro": "Barrio de la Magdalena",
+            "en": "Barrio de la Magdalena"
+          },
+          "coords": [
+            -8.235,
+            43.483
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von der Plaza de España ist es nur ein kurzer Spaziergang in das Herz des Viertels.",
+            "hu": "A Plaza de España térről csak egy rövid séta a negyed szívébe.",
+            "ro": "De la Plaza de España este doar o scurtă plimbare până în inima cartierului.",
+            "en": "It's a short walk from Plaza de España into the heart of the district."
+          }
+        },
+        {
+          "name": {
+            "de": "Concatedral de San Julián",
+            "hu": "Szent Julián társszékesegyház",
+            "ro": "Concatedrala San Julián",
+            "en": "Co-cathedral of San Julián"
+          },
+          "coords": [
+            -8.233,
+            43.483
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Im Zentrum des Magdalena-Viertels gelegen, leicht zu Fuß erreichbar.",
+            "hu": "A Magdalena-negyed központjában található, gyalogosan könnyen megközelíthető.",
+            "ro": "Situată în centrul cartierului Magdalena, ușor accesibilă pe jos.",
+            "en": "Located in the center of the Magdalena district, easy to reach on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Hafen & Museen",
+            "hu": "B Klaszter: Kikötő és Múzeumok",
+            "ro": "Cluster B: Port și Muzee",
+            "en": "Cluster B: Port & Museums"
+          },
+          "coords": [
+            -8.228,
+            43.487
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:28",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum zum Hafenviertel 'Ferrol Vello'.",
+            "hu": "Menjen busszal a központból a 'Ferrol Vello' kikötői negyedbe.",
+            "ro": "Luați un autobuz din centru spre cartierul portuar 'Ferrol Vello'.",
+            "en": "Take a bus from the center to the 'Ferrol Vello' port district."
+          }
+        },
+        {
+          "name": {
+            "de": "Exponav & Museo Naval",
+            "hu": "Exponav és Haditengerészeti Múzeum",
+            "ro": "Exponav & Muzeul Naval",
+            "en": "Exponav & Naval Museum"
+          },
+          "coords": [
+            -8.229,
+            43.486
+          ],
+          "category": "museums",
+          "arrive_at": "11:42",
+          "stay_min": 180,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den gesamten Museumskomplex, der nur wenige Gehminuten von der Bushaltestelle entfernt ist.",
+            "hu": "Fedezze fel az egész múzeumkomplexumot, amely sétatávolságra van a buszmegállótól.",
+            "ro": "Explorați întregul complex muzeal, la câțiva pași de stația de autobuz.",
+            "en": "Explore the entire museum complex, a short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Arsenal",
+            "hu": "Séta az Arzenálnál",
+            "ro": "Plimbare la Arsenal",
+            "en": "Stroll at the Arsenal"
+          },
+          "coords": [
+            -8.229,
+            43.488
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages mit Blick auf das Wasser, bevor Sie den Bus zurück nehmen.",
+            "hu": "A nap pihentető lezárása a vízparti kilátással, mielőtt visszamenne a busszal.",
+            "ro": "O încheiere relaxantă a zilei cu vedere la apă înainte de a lua autobuzul înapoi.",
+            "en": "A relaxing end to the day overlooking the water before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Ferrol in zwei Hauptclustern. Der Tag beginnt mit einer Busfahrt ins Zentrum, gefolgt von einem Spaziergang durch das historische Magdalena-Viertel. Am Vormittag erleben Sie die architektonische Eleganz der Stadt. Eine weitere Busfahrt bringt Sie zum Hafen, dem maritimen Herzen von Ferrol. Der Nachmittag ist dem Eintauchen in die reiche Marinegeschichte in den Museen gewidmet. Der Tag endet mit einem friedlichen Spaziergang entlang des Arsenals, der die industrielle und maritime Bedeutung der Stadt widerspiegelt.",
+        "hu": "Tömegközlekedéssel két fő klaszterben fedezheti fel Ferrolt. A nap egy buszúttal kezdődik a központba, majd egy séta következik a történelmi Magdalena negyedben. Délelőtt a város építészeti eleganciáját tapasztalhatja meg. Egy másik buszút a kikötőbe, Ferrol tengeri szívébe visz. A délutánt a gazdag tengerészeti történelembe való elmerülésnek szenteljük a múzeumokban. A nap egy békés sétával zárul az Arzenál mentén, amely a város ipari és tengeri jelentőségét tükrözi.",
+        "ro": "Folosind transportul public, explorați Ferrol în două clustere principale. Ziua începe cu o călătorie cu autobuzul spre centru, urmată de o plimbare prin cartierul istoric Magdalena. Dimineața veți experimenta eleganța arhitecturală a orașului. O altă călătorie cu autobuzul vă va duce la port, inima maritimă a Ferrolului. După-amiaza este dedicată scufundării în bogata istorie navală la muzee. Ziua se încheie cu o plimbare pașnică de-a lungul Arsenalului, reflectând importanța industrială și maritimă a orașului.",
+        "en": "Using public transport, you'll explore Ferrol in two main clusters. The day begins with a bus ride to the center, followed by a walking tour of the historic Magdalena district. The morning is for experiencing the city's architectural elegance. Another bus ride takes you to the port, Ferrol's maritime heart. The afternoon is dedicated to immersing yourself in the rich naval history at the museums. The day concludes with a peaceful stroll along the Arsenal, reflecting the city's industrial and maritime importance."
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für unbegrenzte Fahrten.",
+          "Laden Sie eine lokale ÖPNV-App herunter, um die Busfahrpläne zu verfolgen.",
+          "Validieren Sie Ihr Ticket bei jedem Einstieg.",
+          "Beachten Sie, dass die Busse abends seltener fahren könnten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltsön le egy helyi tömegközlekedési alkalmazást a buszmenetrendek követéséhez.",
+          "Minden felszálláskor érvényesítse a jegyét.",
+          "Vegye figyelembe, hogy este ritkábban járhatnak a buszok."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+          "Descărcați o aplicație locală de transport public pentru a urmări orarele autobuzelor.",
+          "Validați biletul la fiecare îmbarcare.",
+          "Rețineți că autobuzele pot circula mai rar seara."
+        ],
+        "en": [
+          "Buy a daily bus pass for unlimited travel.",
+          "Download a local public transport app to track bus schedules.",
+          "Validate your ticket each time you board.",
+          "Be aware that bus frequency may decrease in the evening."
+        ]
+      }
+    }
+  }
+}

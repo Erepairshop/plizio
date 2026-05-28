@@ -1,0 +1,1458 @@
+{
+  "city_id": "ireland-downpatrick-cities-v2",
+  "anchor": {
+    "name": "Downpatrick",
+    "coords": [
+      -5.715,
+      54.329
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: St. Patrick Centre",
+            "hu": "Indulás: Szent Patrik Központ",
+            "ro": "Start: Centrul Sf. Patrick",
+            "en": "Start: St. Patrick Centre"
+          },
+          "coords": [
+            -5.718,
+            54.328
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um die Geschichte von St. Patrick vollständig zu verstehen.",
+            "hu": "Kezdje itt a napot, hogy teljes képet kapjon Szent Patrik történetéről.",
+            "ro": "Începeți aici pentru a înțelege pe deplin povestea Sfântului Patrick.",
+            "en": "Start here to get the full context of St. Patrick's story."
+          }
+        },
+        {
+          "name": {
+            "de": "Down Kathedrale",
+            "hu": "Down-székesegyház",
+            "ro": "Catedrala din Down",
+            "en": "Down Cathedral"
+          },
+          "coords": [
+            -5.717,
+            54.327
+          ],
+          "category": "churches",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Suchen Sie das Grab von St. Patrick auf dem Friedhof.",
+            "hu": "Keresse meg Szent Patrik sírját a templomkertben.",
+            "ro": "Căutați mormântul Sfântului Patrick în cimitirul catedralei.",
+            "en": "Look for St. Patrick's grave in the cathedral's churchyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Down County Museum",
+            "hu": "Down Megyei Múzeum",
+            "ro": "Muzeul Comitatului Down",
+            "en": "Down County Museum"
+          },
+          "coords": [
+            -5.719,
+            54.325
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich in einem alten Gefängnis, was ihm eine einzigartige Atmosphäre verleiht.",
+            "hu": "A múzeum egy régi börtönben kapott helyet, ami egyedi hangulatot ad neki.",
+            "ro": "Muzeul este găzduit într-o veche închisoare, ceea ce îi conferă o atmosferă unică.",
+            "en": "The museum is housed in an old gaol, giving it a unique atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Saul Kirche",
+            "hu": "Saul-templom",
+            "ro": "Biserica Saul",
+            "en": "Saul Church"
+          },
+          "coords": [
+            -5.678,
+            54.341
+          ],
+          "category": "churches",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 65,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe und Besinnung, oft als der Ort von Irlands erster Kirche angesehen.",
+            "hu": "A béke és a elmélkedés helye, gyakran Írország első templomának helyszíneként tartják számon.",
+            "ro": "Un loc de pace și reflecție, considerat adesea locul primei biserici din Irlanda.",
+            "en": "A place of peace and reflection, often considered the site of Ireland's first church."
+          }
+        },
+        {
+          "name": {
+            "de": "Struell Wells",
+            "hu": "Struell-kutak",
+            "ro": "Fântânile Struell",
+            "en": "Struell Wells"
+          },
+          "coords": [
+            -5.694,
+            54.321
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tragen Sie festes Schuhwerk, da das Gelände uneben sein kann.",
+            "hu": "Viseljen erős cipőt, mert a terep egyenetlen lehet.",
+            "ro": "Purtați încălțăminte rezistentă, deoarece terenul poate fi denivelat.",
+            "en": "Wear sturdy shoes as the ground can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Quoile Landschaftszentrum",
+            "hu": "Quoile Vidéki Központ",
+            "ro": "Centrul Rural Quoile",
+            "en": "Quoile Countryside Centre"
+          },
+          "coords": [
+            -5.733,
+            54.345
+          ],
+          "category": "parks",
+          "arrive_at": "16:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang am Fluss, um den Tag ausklingen zu lassen. Halten Sie Ausschau nach Wildtieren.",
+            "hu": "Egy szép folyóparti séta a nap lezárásaként. Figyelje a vadon élő állatokat!",
+            "ro": "O plimbare plăcută pe malul râului pentru a încheia ziua. Fiți atenți la fauna sălbatică.",
+            "en": "A lovely riverside walk to end the day. Keep an eye out for wildlife."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Downpatrick, dem Herzen von St. Patricks Land, beginnt mit einer tiefen Einführung in die Geschichte im St. Patrick Centre. Nach diesem historischen Überblick spazieren Sie zur majestätischen Down Cathedral, dem traditionellen Begräbnisort des Schutzheiligen von Irland. Der Vormittag verbindet spirituelles Erbe mit greifbarer Geschichte. Am Mittag erkunden Sie das Down County Museum, das in einem ehemaligen Gefängnis untergebracht ist und die lokale Geschichte auf faszinierende Weise zum Leben erweckt. Es ist eine perfekte Zeit, um über die komplexen Schichten der Vergangenheit der Region nachzudenken. Der Nachmittag führt Sie auf einem längeren Spaziergang zur friedlichen Saul Church, die als erste christliche Kirche Irlands gilt, gefolgt von den mystischen Struell Wells. Diese alten heiligen Stätten bieten eine ruhige Flucht und einen Einblick in jahrhundertealte Pilgertraditionen. Der Tag endet mit einem entspannenden Spaziergang im Quoile Countryside Centre. Die ruhige Flusslandschaft bietet eine wunderbare Gelegenheit, die natürliche Schönheit der Gegend zu genießen und über die reiche Geschichte nachzudenken, die Sie erlebt haben.",
+        "hu": "Downpatricki napja, Szent Patrik földjének szívében, a Szent Patrik Központban kezdődik, ahol mélyrehatóan megismerkedhet a történelemmel. E történelmi áttekintés után átsétál a fenséges Down-székesegyházhoz, Írország védőszentjének tradicionális temetkezési helyéhez. A délelőtt a spirituális örökséget kézzelfogható történelemmel ötvözi. Délben felfedezi a Down Megyei Múzeumot, amely egy egykori börtönben kapott helyet, és lenyűgöző módon kelti életre a helyi történelmet. Ez a tökéletes időpont arra, hogy elgondolkodjon a régió múltjának összetett rétegein. A délután egy hosszabb sétára viszi a békés Saul-templomhoz, amelyet Írország első keresztény templomának tartanak, majd a misztikus Struell-kutakhoz. Ezek az ősi szent helyek csendes menedéket és bepillantást nyújtanak az évszázados zarándok hagyományokba. A nap a Quoile Vidéki Központban tett pihentető sétával zárul. A nyugodt folyóparti táj csodálatos lehetőséget kínál a környék természeti szépségének élvezetére és a megtapasztalt gazdag történelemről való elmélkedésre.",
+        "ro": "Ziua dvs. în Downpatrick, inima ținutului Sf. Patrick, începe cu o imersiune profundă în istorie la Centrul Sf. Patrick. După această prezentare istorică, vă plimbați până la majestuoasa Catedrală din Down, locul tradițional de înmormântare al sfântului patron al Irlandei. Dimineața îmbină moștenirea spirituală cu istoria palpabilă. La prânz, explorați Muzeul Comitatului Down, găzduit într-o fostă închisoare, care aduce la viață istoria locală într-un mod fascinant. Este un moment perfect pentru a reflecta asupra straturilor complexe ale trecutului regiunii. După-amiaza vă poartă într-o plimbare mai lungă către liniștita Biserică Saul, considerată prima biserică creștină din Irlanda, urmată de misticele Fântâni Struell. Aceste situri sacre antice oferă o evadare liniștită și o privire asupra tradițiilor de pelerinaj vechi de secole. Ziua se încheie cu o plimbare relaxantă la Centrul Rural Quoile. Peisajul liniștit de pe malul râului oferă o oportunitate minunată de a vă bucura de frumusețea naturală a zonei și de a reflecta asupra istoriei bogate pe care ați experimentat-o.",
+        "en": "Your day in Downpatrick, the heart of St. Patrick's country, begins with a deep dive into history at the St. Patrick Centre. After this historical overview, you'll stroll to the majestic Down Cathedral, the traditional burial place of Ireland's patron saint. The morning combines spiritual heritage with tangible history. At midday, you'll explore the Down County Museum, housed in a former gaol, which brings local history to life in a fascinating way. It's a perfect time to reflect on the complex layers of the region's past. The afternoon takes you on a longer walk to the peaceful Saul Church, considered Ireland's first Christian church, followed by the mystical Struell Wells. These ancient holy sites offer a quiet escape and a glimpse into centuries-old pilgrimage traditions. The day concludes with a relaxing walk at the Quoile Countryside Centre. The serene riverside landscape provides a wonderful opportunity to enjoy the area's natural beauty and reflect on the rich history you've experienced."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Ein herzhaftes Frühstück, um den Tag zu beginnen. Suchen Sie ein lokales Café, das es den ganzen Tag serviert."
+          },
+          {
+            "name": "Seafood Chowder",
+            "tip": "Eine cremige Suppe mit frischem Fisch aus den nahegelegenen Gewässern."
+          },
+          {
+            "name": "Dufferin Arms",
+            "tip": "Ein traditioneller Pub, der gutes Essen und eine freundliche Atmosphäre bietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Egy kiadós reggeli a nap indításához. Keressen egy helyi kávézót, ahol egész nap felszolgálják."
+          },
+          {
+            "name": "Tenger gyümölcsei Chowder",
+            "tip": "Krémes leves friss hallal a közeli vizekből."
+          },
+          {
+            "name": "Dufferin Arms",
+            "tip": "Hagyományos pub, amely jó ételeket és barátságos légkört kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Un mic dejun consistent pentru a începe ziua. Căutați o cafenea locală care îl servește pe tot parcursul zilei."
+          },
+          {
+            "name": "Ciorbă de fructe de mare",
+            "tip": "O supă cremoasă cu pește proaspăt din apele din apropiere."
+          },
+          {
+            "name": "Dufferin Arms",
+            "tip": "Un pub tradițional care oferă mâncare bună și o atmosferă prietenoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ulster Fry",
+            "tip": "A hearty breakfast to start the day. Look for a local cafe that serves it all day."
+          },
+          {
+            "name": "Seafood Chowder",
+            "tip": "A creamy soup with fresh fish from the nearby waters."
+          },
+          {
+            "name": "Dufferin Arms",
+            "tip": "A traditional pub offering good food and a friendly atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Quoile River",
+            "tip": "Finden Sie eine Bank entlang des Flusses für einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof der Down Cathedral",
+            "tip": "Ein überraschend friedlicher Ort mit einer tiefen historischen Atmosphäre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Saul Church Gelände",
+            "tip": "Ein Ort der spirituellen Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quoile folyó partja",
+            "tip": "Keressen egy padot a folyó mentén egy csendes pillanatra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Down-székesegyház temetője",
+            "tip": "Meglepően békés hely, mély történelmi hangulattal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Saul-templom kertje",
+            "tip": "A spirituális csend és elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Quoile",
+            "tip": "Găsiți o bancă de-a lungul râului pentru un moment de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Catedralei din Down",
+            "tip": "Un loc surprinzător de pașnic, cu o atmosferă istorică profundă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Terenul Bisericii Saul",
+            "tip": "Un loc de liniște spirituală și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Quoile River",
+            "tip": "Find a bench along the river for a moment of peace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Down Cathedral Graveyard",
+            "tip": "A surprisingly peaceful spot with a deep sense of history.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Saul Church Grounds",
+            "tip": "A place for spiritual quiet and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "St. Patrick Centre Gift Shop",
+            "tip": "Gute Auswahl an Büchern und keltischen Souvenirs."
+          },
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach kleinen Geschäften, die handgefertigte irische Waren verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Patrik Központ ajándékboltja",
+            "tip": "Jó választék könyvekből és kelta ajándéktárgyakból."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kis üzleteket, amelyek kézzel készített ír termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri al Centrului Sf. Patrick",
+            "tip": "O selecție bună de cărți și suveniruri celtice."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați magazine mici care vând produse artizanale irlandeze."
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Patrick Centre Gift Shop",
+            "tip": "Good selection of books and Celtic-themed souvenirs."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for small shops selling handmade Irish goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Das Wetter kann sich schnell ändern, nehmen Sie also eine wasserdichte Jacke mit.",
+          "Prüfen Sie die Öffnungszeiten der Sehenswürdigkeiten im Voraus, insbesondere außerhalb der Saison.",
+          "Nehmen Sie Wasser und Snacks mit, da die Einrichtungen zwischen den Standorten begrenzt sein können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Az időjárás gyorsan változhat, ezért vigyen magával vízálló dzsekit.",
+          "Előre ellenőrizze a látnivalók nyitvatartási idejét, különösen a főszezonon kívül.",
+          "Vigyen magával vizet és harapnivalót, mivel a létesítmények korlátozottak lehetnek a helyszínek között."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Vremea se poate schimba rapid, așa că luați o jachetă impermeabilă.",
+          "Verificați orele de deschidere ale atracțiilor în avans, mai ales în afara sezonului.",
+          "Luați apă și gustări, deoarece facilitățile pot fi limitate între situri."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "The weather can change quickly, so bring a waterproof jacket.",
+          "Check opening times for attractions in advance, especially out of season.",
+          "Bring water and snacks, as facilities can be limited between sites."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Down Kathedrale",
+            "hu": "Down-székesegyház",
+            "ro": "Catedrala din Down",
+            "en": "Down Cathedral"
+          },
+          "coords": [
+            -5.717,
+            54.327
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem ikonischen Ort.",
+            "hu": "Kezdje a napot ezen az ikonikus helyen.",
+            "ro": "Începeți-vă ziua în acest loc iconic.",
+            "en": "Start your day at this iconic location."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patrick Centre",
+            "hu": "Szent Patrik Központ",
+            "ro": "Centrul Sf. Patrick",
+            "en": "St. Patrick Centre"
+          },
+          "coords": [
+            -5.718,
+            54.328
+          ],
+          "category": "museums",
+          "arrive_at": "10:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie nach dem Besuch der Kathedrale tief in die Geschichte ein.",
+            "hu": "A székesegyház után merüljön el mélyen a történelemben.",
+            "ro": "Aprofundați istoria după vizitarea catedralei.",
+            "en": "Dive deep into the history after visiting the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Quoile Landschaftszentrum",
+            "hu": "Quoile Vidéki Központ",
+            "ro": "Centrul Rural Quoile",
+            "en": "Quoile Countryside Centre"
+          },
+          "coords": [
+            -5.733,
+            54.345
+          ],
+          "category": "parks",
+          "arrive_at": "11:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine landschaftlich reizvolle Fahrt entlang des Flusses.",
+            "hu": "Élvezze a festői kerékpárutat a folyó mentén.",
+            "ro": "Bucurați-vă de o plimbare pitorească pe bicicletă de-a lungul râului.",
+            "en": "Enjoy a scenic ride along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Inch Abbey",
+            "hu": "Inch apátság",
+            "ro": "Abația Inch",
+            "en": "Inch Abbey"
+          },
+          "coords": [
+            -5.737,
+            54.339
+          ],
+          "category": "historical",
+          "arrive_at": "13:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die Ruinen sind sehr fotogen, besonders bei gutem Licht.",
+            "hu": "A romok nagyon fotogének, különösen jó fényviszonyok mellett.",
+            "ro": "Ruinele sunt foarte fotogenice, mai ales într-o lumină bună.",
+            "en": "The ruins are very photogenic, especially in good light."
+          }
+        },
+        {
+          "name": {
+            "de": "Saul Kirche",
+            "hu": "Saul-templom",
+            "ro": "Biserica Saul",
+            "en": "Saul Church"
+          },
+          "coords": [
+            -5.678,
+            54.341
+          ],
+          "category": "churches",
+          "arrive_at": "14:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Die Fahrt hierher bietet wunderschöne Ausblicke auf die Landschaft.",
+            "hu": "Az ide vezető út gyönyörű kilátást nyújt a vidékre.",
+            "ro": "Drumul până aici oferă vederi frumoase ale peisajului rural.",
+            "en": "The ride out here offers beautiful countryside views."
+          }
+        },
+        {
+          "name": {
+            "de": "Ballynoe Stein Kreis",
+            "hu": "Ballynoe kőkör",
+            "ro": "Cercul de piatră Ballynoe",
+            "en": "Ballynoe Stone Circle"
+          },
+          "coords": [
+            -5.735,
+            54.298
+          ],
+          "category": "historical",
+          "arrive_at": "15:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Ein beeindruckender prähistorischer Ort, eine kurze Radtour südlich der Stadt.",
+            "hu": "Lenyűgöző őskori helyszín, egy rövid biciklizésre a várostól délre.",
+            "ro": "Un sit preistoric impresionant, la o scurtă plimbare cu bicicleta la sud de oraș.",
+            "en": "An impressive prehistoric site a short bike ride south of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Down County Museum",
+            "hu": "Down Megyei Múzeum",
+            "ro": "Muzeul Comitatului Down",
+            "en": "Down County Museum"
+          },
+          "coords": [
+            -5.719,
+            54.325
+          ],
+          "category": "museums",
+          "arrive_at": "16:32",
+          "stay_min": 38,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem letzten Einblick in die lokale Geschichte.",
+            "hu": "Fejezze be a túrát egy utolsó bepillantással a helyi történelembe.",
+            "ro": "Încheiați-vă turul cu o ultimă incursiune în istoria locală.",
+            "en": "Finish your tour with a final look at local history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Downpatrick beginnt an der historischen Down Cathedral. Von hier aus ist es nur eine kurze Fahrt zum St. Patrick Centre, wo Sie in die Legenden eintauchen können. Der Morgen ist eine Mischung aus spiritueller Reflexion und historischer Entdeckung, perfekt mit dem Fahrrad zu bewältigen. Anschließend fahren Sie zum Quoile Countryside Centre für eine malerische Pause am Fluss. Von dort aus ist es eine kurze Fahrt zu den beeindruckenden Ruinen der Inch Abbey, ein idealer Ort für Fotos und um die mittelalterliche Atmosphäre aufzusaugen. Am Nachmittag radeln Sie weiter zur abgeschiedenen Saul Church, dem Geburtsort des Christentums in Irland. Die Route führt Sie dann nach Süden zum alten Ballynoe Stone Circle, einem mystischen Ort, der Sie in die ferne Vergangenheit zurückversetzt. Sie kehren ins Stadtzentrum zurück und beenden Ihren Tag im Down County Museum. Dieser abwechslungsreiche Tag auf zwei Rädern verbindet mühelos antike Geschichte, religiöses Erbe und die ruhige Schönheit der Landschaft von County Down.",
+        "hu": "Downpatricki kerékpártúrája a történelmi Down-székesegyháznál kezdődik. Innen csak egy rövid tekerés a Szent Patrik Központ, ahol elmerülhet a legendákban. A délelőtt a spirituális elmélkedés és a történelmi felfedezés keveréke, amelyet kerékpárral tökéletesen be lehet járni. Ezután a Quoile Vidéki Központhoz teker, ahol festői pihenőt tarthat a folyóparton. Onnan egy rövid út vezet az Inch apátság lenyűgöző romjaihoz, amely ideális hely a fotózásra és a középkori hangulat magába szívására. Délután tovább biciklizik az eldugott Saul-templomhoz, az írországi kereszténység szülőhelyéhez. Az útvonal ezután délre vezet az ősi Ballynoe kőkörhöz, egy misztikus helyhez, amely visszarepíti a távoli múltba. Visszatér a városközpontba, és a napot a Down Megyei Múzeumban fejezi be. Ez a változatos, két keréken töltött nap könnyedén ötvözi az ókori történelmet, a vallási örökséget és a County Down vidékének csendes szépségét.",
+        "ro": "Turul dvs. cu bicicleta prin Downpatrick începe la istorica Catedrală din Down. De aici, este o scurtă plimbare până la Centrul Sf. Patrick pentru a vă cufunda în legende. Dimineața este un amestec de reflecție spirituală și descoperire istorică, perfect de parcurs cu bicicleta. Apoi, vă îndreptați spre Centrul Rural Quoile pentru o pauză pitorească lângă râu. De acolo, este o scurtă plimbare până la ruinele impresionante ale Abației Inch, un loc ideal pentru fotografii și pentru a absorbi atmosfera medievală. După-amiaza, continuați cu bicicleta spre izolata Biserică Saul, locul de naștere al creștinismului în Irlanda. Traseul vă duce apoi spre sud, la vechiul Cerc de Piatră Ballynoe, un sit mistic care vă transportă în trecutul îndepărtat. Vă întoarceți în centrul orașului pentru a încheia ziua la Muzeul Comitatului Down. Această zi variată pe două roți combină fără efort istoria antică, moștenirea religioasă și frumusețea liniștită a peisajului din County Down.",
+        "en": "Your cycling tour of Downpatrick starts at the historic Down Cathedral. From here, it's a short ride to the St. Patrick Centre to immerse yourself in the legends. The morning is a mix of spiritual reflection and historical discovery, perfectly navigated by bike. You'll then head to the Quoile Countryside Centre for a scenic riverside break. From there, it's a short ride to the impressive ruins of Inch Abbey, an ideal spot for photos and soaking in the medieval atmosphere. In the afternoon, you'll cycle onwards to the secluded Saul Church, the birthplace of Christianity in Ireland. The route then takes you south to the ancient Ballynoe Stone Circle, a mystical site that transports you to the distant past. You'll loop back into the town centre to finish your day at the Down County Museum. This varied day on two wheels effortlessly combines ancient history, religious heritage, and the quiet beauty of the County Down countryside."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Oakley Fayre",
+            "tip": "Ein großartiger Ort für ein leichtes Mittagessen, hausgemachte Kuchen und Kaffee."
+          },
+          {
+            "name": "The Cuan",
+            "tip": "Bekannt für seine Verbindung zu Game of Thrones, bietet aber auch ausgezeichnete lokale Gerichte."
+          },
+          {
+            "name": "Frischer Apfelsaft",
+            "tip": "Suchen Sie nach lokalem Apfelsaft, der oft auf Bauernmärkten verkauft wird und aus der 'Obstgarten-Grafschaft' Armagh stammt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oakley Fayre",
+            "tip": "Kiváló hely egy könnyű ebédhez, házi süteményekhez és kávéhoz."
+          },
+          {
+            "name": "The Cuan",
+            "tip": "A Trónok harcához fűződő kapcsolatairól ismert, de kiváló helyi ételeket is kínál."
+          },
+          {
+            "name": "Friss almalé",
+            "tip": "Keressen helyi almalevet, amelyet gyakran árulnak a termelői piacokon, Armagh, a 'gyümölcsös megye' terméséből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Oakley Fayre",
+            "tip": "Un loc minunat pentru un prânz ușor, prăjituri de casă și cafea."
+          },
+          {
+            "name": "The Cuan",
+            "tip": "Renumit pentru legătura sa cu Game of Thrones, dar servește și mâncăruri locale excelente."
+          },
+          {
+            "name": "Suc de mere proaspăt",
+            "tip": "Căutați suc de mere local, adesea vândut în piețele fermierilor, din 'Comitatul Livezilor', Armagh."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oakley Fayre",
+            "tip": "A great spot for a light lunch, homemade cakes and coffee."
+          },
+          {
+            "name": "The Cuan",
+            "tip": "Famous for its Game of Thrones connection, but also serves excellent local food."
+          },
+          {
+            "name": "Fresh Apple Juice",
+            "tip": "Look for local apple juice, often sold at farmer's markets, from the 'Orchard County' of Armagh."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ruinen der Inch Abbey",
+            "tip": "Finden Sie einen ruhigen Platz mit Blick auf den Fluss Quoile.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ballynoe Stein Kreis",
+            "tip": "Ein Ort tiefer Stille und alter Geschichte, besonders am frühen Morgen oder späten Nachmittag.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Wanderwege am Quoile River",
+            "tip": "Folgen Sie einem der weniger begangenen Pfade für etwas Einsamkeit.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Inch apátság romjai",
+            "tip": "Keressen egy csendes helyet, ahonnan kilátás nyílik a Quoile folyóra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ballynoe kőkör",
+            "tip": "A mély csend és az ősi történelem helye, különösen kora reggel vagy késő délután.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sétautak a Quoile folyónál",
+            "tip": "Kövesse az egyik kevésbé járt ösvényt egy kis magányért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele Abației Inch",
+            "tip": "Găsiți un loc liniștit cu vedere la râul Quoile.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cercul de piatră Ballynoe",
+            "tip": "Un loc de liniște profundă și istorie antică, mai ales dimineața devreme sau după-amiaza târziu.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Potecile de pe malul râului Quoile",
+            "tip": "Urmați una dintre potecile mai puțin circulate pentru puțină singurătate.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Inch Abbey Ruins",
+            "tip": "Find a quiet spot overlooking the River Quoile.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ballynoe Stone Circle",
+            "tip": "A place of deep quiet and ancient history, especially in the early morning or late afternoon.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quoile River Trails",
+            "tip": "Follow one of the less-trodden paths for some solitude.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Downpatrick Farmers Market",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie lokale Produkte und Handwerk."
+          },
+          {
+            "name": "The Meadow",
+            "tip": "Ein Geschäft, das eine Auswahl an irischem Design und Handwerk anbietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Downpatricki termelői piac",
+            "tip": "Ha piacnapon van itt, helyi termékeket és kézműves termékeket talál."
+          },
+          {
+            "name": "The Meadow",
+            "tip": "Egy üzlet, amely ír design és kézműves termékek választékát kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața fermierilor din Downpatrick",
+            "tip": "Dacă sunteți aici într-o zi de piață, căutați produse și meșteșuguri locale."
+          },
+          {
+            "name": "The Meadow",
+            "tip": "Un magazin care prezintă o selecție de design și artizanat irlandez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Downpatrick Farmers Market",
+            "tip": "If you're here on a market day, look for local produce and crafts."
+          },
+          {
+            "name": "The Meadow",
+            "tip": "A shop showcasing a selection of Irish design and craft."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie ein gutes Schloss für Ihr Fahrrad mit.",
+          "Einige Straßen außerhalb der Stadt können eng sein, fahren Sie also vorsichtig.",
+          "Planen Sie Ihre Route im Voraus, da die Handyabdeckung lückenhaft sein kann.",
+          "Tragen Sie einen Helm und gut sichtbare Kleidung."
+        ],
+        "hu": [
+          "Hozzon magával egy jó lakatot a kerékpárjához.",
+          "Néhány út a városon kívül szűk lehet, ezért óvatosan közlekedjen.",
+          "Tervezze meg előre az útvonalat, mert a mobil lefedettség foltos lehet.",
+          "Viseljen sisakot és jól látható ruházatot."
+        ],
+        "ro": [
+          "Aduceți un lacăt bun pentru bicicletă.",
+          "Unele drumuri din afara orașului pot fi înguste, așa că circulați cu prudență.",
+          "Planificați-vă traseul în avans, deoarece acoperirea rețelei de telefonie mobilă poate fi discontinuă.",
+          "Purtați cască și haine vizibile."
+        ],
+        "en": [
+          "Bring a good lock for your bike.",
+          "Some roads outside the town can be narrow, so cycle with care.",
+          "Plan your route in advance as phone signal can be patchy.",
+          "Wear a helmet and high-visibility clothing."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Inch Abbey",
+            "hu": "1. klaszter: Inch apátság",
+            "ro": "Cluster 1: Abația Inch",
+            "en": "Cluster 1: Inch Abbey"
+          },
+          "coords": [
+            -5.737,
+            54.339
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und genießen Sie die Morgenruhe an den Ruinen.",
+            "hu": "Parkoljon le itt, és élvezze a romok reggeli csendjét.",
+            "ro": "Parcați aici și bucurați-vă de liniștea de dimineață la ruine.",
+            "en": "Park here and enjoy the morning serenity at the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Quoile Landschaftszentrum",
+            "hu": "Quoile Vidéki Központ",
+            "ro": "Centrul Rural Quoile",
+            "en": "Quoile Countryside Centre"
+          },
+          "coords": [
+            -5.733,
+            54.345
+          ],
+          "category": "parks",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz der Abtei. Folgen Sie den Schildern.",
+            "hu": "Egy rövid séta az apátság parkolójától. Kövesse a táblákat!",
+            "ro": "O scurtă plimbare de la parcarea abației. Urmați indicatoarele.",
+            "en": "A short walk from the Abbey's car park. Follow the signs."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Spirituelles Herz",
+            "hu": "2. klaszter: Spirituális szív",
+            "ro": "Cluster 2: Inima spirituală",
+            "en": "Cluster 2: Spiritual Heart"
+          },
+          "coords": [
+            -5.678,
+            54.341
+          ],
+          "category": "churches",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zur Saul Church. Es gibt Parkplätze in der Nähe.",
+            "hu": "Vezessen a Saul-templomhoz. A közelben van parkoló.",
+            "ro": "Conduceți la Biserica Saul. Există parcare în apropiere.",
+            "en": "Drive to Saul Church. There is parking available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Struell Wells",
+            "hu": "Struell-kutak",
+            "ro": "Fântânile Struell",
+            "en": "Struell Wells"
+          },
+          "coords": [
+            -5.694,
+            54.321
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt von Saul. Die heiligen Brunnen sind einen Besuch wert.",
+            "hu": "Egy rövid autóútra Saultól. A szent kutakat érdemes meglátogatni.",
+            "ro": "La o scurtă distanță cu mașina de Saul. Fântânile sfinte merită vizitate.",
+            "en": "A short drive from Saul. The holy wells are well worth the visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Stadtzentrum von Downpatrick",
+            "hu": "3. klaszter: Downpatrick városközpontja",
+            "ro": "Cluster 3: Centrul orașului Downpatrick",
+            "en": "Cluster 3: Downpatrick Town Centre"
+          },
+          "coords": [
+            -5.719,
+            54.325
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und besuchen Sie zuerst das Down County Museum.",
+            "hu": "Parkoljon a központban, és először látogassa meg a Down Megyei Múzeumot.",
+            "ro": "Parcați în centru și vizitați mai întâi Muzeul Comitatului Down.",
+            "en": "Park in the centre and visit the Down County Museum first."
+          }
+        },
+        {
+          "name": {
+            "de": "Down Kathedrale",
+            "hu": "Down-székesegyház",
+            "ro": "Catedrala din Down",
+            "en": "Down Cathedral"
+          },
+          "coords": [
+            -5.717,
+            54.327
+          ],
+          "category": "churches",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang den Hügel hinauf vom Museum.",
+            "hu": "Egy rövid séta a hegyre a múzeumtól.",
+            "ro": "O scurtă plimbare pe deal de la muzeu.",
+            "en": "A short walk up the hill from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patrick Centre",
+            "hu": "Szent Patrik Központ",
+            "ro": "Centrul Sf. Patrick",
+            "en": "St. Patrick Centre"
+          },
+          "coords": [
+            -5.718,
+            54.328
+          ],
+          "category": "museums",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour dort, wo alles begann, mit einem letzten Einblick.",
+            "hu": "Fejezze be a túrát ott, ahol minden kezdődött, egy utolsó bepillantással.",
+            "ro": "Încheiați-vă turul acolo unde a început totul, cu o ultimă privire.",
+            "en": "End your tour where it all began with a final look."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autoreise beginnt im ersten Cluster bei der ruhigen Inch Abbey, wo Sie die Morgenstille genießen können. Ein kurzer Spaziergang führt Sie zum Quoile Countryside Centre, um die Natur zu genießen. Diese Kombination aus Geschichte und Landschaft ist ein perfekter Start in den Tag. Anschließend fahren Sie zum zweiten Cluster, dem spirituellen Herzen der Region. Sie besuchen die historische Saul Church und die nahegelegenen, mystischen Struell Wells. Diese kurze Fahrt führt Sie tief in die Anfänge des Christentums in Irland und bietet eine einzigartige spirituelle Erfahrung. Am Nachmittag fahren Sie ins Stadtzentrum von Downpatrick, dem dritten Cluster. Parken Sie Ihr Auto und erkunden Sie zu Fuß. Beginnen Sie mit dem Down County Museum, gehen Sie dann zur hoch aufragenden Down Cathedral und schließen Sie den Kreis im St. Patrick Centre. Dieser Tag nutzt das Auto, um verschiedene historische Cluster effizient zu verbinden, während Sie jeden Bereich zu Fuß erkunden und so das Beste aus beiden Welten erhalten.",
+        "hu": "Autós utazása az első klaszternél, a csendes Inch apátságnál kezdődik, ahol élvezheti a reggeli nyugalmat. Egy rövid séta elvezeti a Quoile Vidéki Központhoz, hogy élvezze a természetet. A történelem és a táj ezen kombinációja tökéletes kezdete a napnak. Ezután a második klaszterhez, a régió spirituális szívéhez vezet. Meglátogatja a történelmi Saul-templomot és a közeli, misztikus Struell-kutakat. Ez a rövid autóút mélyen bevezeti Önt az írországi kereszténység kezdeteibe, egyedülálló spirituális élményt nyújtva. Délután Downpatrick városközpontjába, a harmadik klaszterbe hajt. Parkolja le az autóját, és fedezze fel gyalogosan. Kezdje a Down Megyei Múzeummal, majd sétáljon fel a magasba törő Down-székesegyházhoz, és zárja a kört a Szent Patrik Központban. Ez a nap az autót arra használja, hogy hatékonyan összekösse a különböző történelmi klasztereket, miközben minden területet gyalogosan fedez fel, így mindkét világból a legjobbat kapja.",
+        "ro": "Călătoria dvs. cu mașina începe la primul cluster, la liniștita Abație Inch, unde vă puteți bucura de liniștea dimineții. O scurtă plimbare vă duce la Centrul Rural Quoile pentru a admira natura. Această combinație de istorie și peisaj este un început perfect de zi. Apoi, conduceți către al doilea cluster, inima spirituală a regiunii. Vizitați istorica Biserică Saul și Fântânile Struell, mistice și apropiate. Această scurtă călătorie vă duce adânc în zorii creștinismului în Irlanda, oferind o experiență spirituală unică. După-amiaza, vă îndreptați spre centrul orașului Downpatrick, al treilea cluster. Parcați mașina și explorați pe jos. Începeți cu Muzeul Comitatului Down, apoi urcați la impunătoarea Catedrală din Down și încheiați cercul la Centrul Sf. Patrick. Această zi folosește mașina pentru a conecta eficient diferite clustere istorice, permițându-vă în același timp să explorați fiecare zonă pe jos, obținând ce e mai bun din ambele lumi.",
+        "en": "Your car journey begins at the first cluster, the tranquil Inch Abbey, where you can enjoy the morning quiet. A short walk takes you to the Quoile Countryside Centre to embrace nature. This combination of history and landscape is a perfect start to the day. Next, you'll drive to the second cluster, the spiritual heartland of the area. You'll visit the historic Saul Church and the nearby, mystical Struell Wells. This short drive takes you deep into the dawn of Christianity in Ireland, offering a unique spiritual experience. For the afternoon, you head into Downpatrick's town centre, the third cluster. Park your car and explore on foot. Start with the Down County Museum, then walk up to the towering Down Cathedral, and complete the circle at the St. Patrick Centre. This day uses the car to efficiently link distinct historical clusters, while allowing you to explore each area on foot, getting the best of both worlds."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Downpatrick Cafe",
+            "tip": "Ein klassisches Café im Stadtzentrum, perfekt für ein schnelles Mittagessen zwischen den Besichtigungen."
+          },
+          {
+            "name": "Murphy's Bar",
+            "tip": "Erleben Sie einen traditionellen Pub für ein Pint und ein herzhaftes Abendessen."
+          },
+          {
+            "name": "Yellow Door Deli",
+            "tip": "Holen Sie sich Sandwiches für ein Picknick am Quoile River."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Downpatrick Cafe",
+            "tip": "Klasszikus kávézó a városközpontban, tökéletes egy gyors ebédhez a látnivalók között."
+          },
+          {
+            "name": "Murphy's Bar",
+            "tip": "Tapasztaljon meg egy hagyományos pubot egy korsó sör és egy kiadós vacsora mellett."
+          },
+          {
+            "name": "Yellow Door Deli",
+            "tip": "Vegyen szendvicseket egy piknikhez a Quoile folyónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafeneaua Downpatrick",
+            "tip": "O cafenea clasică în centrul orașului, perfectă pentru un prânz rapid între vizite."
+          },
+          {
+            "name": "Barul Murphy's",
+            "tip": "Experimentați un pub tradițional pentru o halbă de bere și o cină copioasă."
+          },
+          {
+            "name": "Yellow Door Deli",
+            "tip": "Luați sandvișuri pentru un picnic pe malul râului Quoile."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Downpatrick Cafe",
+            "tip": "A classic cafe in the town centre, perfect for a quick lunch between sites."
+          },
+          {
+            "name": "Murphy's Bar",
+            "tip": "Experience a traditional pub for a pint and a hearty dinner."
+          },
+          {
+            "name": "Yellow Door Deli",
+            "tip": "Grab sandwiches for a picnic by the Quoile River."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von der Saul Church",
+            "tip": "Genießen Sie den Panoramablick über die Landschaft von County Down.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Struell Wells",
+            "tip": "Ein abgeschiedener und historisch resonanter Ort für ruhige Kontemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang des Quoile",
+            "tip": "Der Flussweg bietet immer eine friedliche Flucht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Saul-templomtól",
+            "tip": "Élvezze a panorámás kilátást a County Down vidékére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Struell-kutak",
+            "tip": "Elzárt és történelmileg rezonáns hely a csendes elmélkedéshez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Quoile mentén",
+            "tip": "A folyóparti ösvény mindig békés menedéket nyújt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Biserica Saul",
+            "tip": "Bucurați-vă de vederea panoramică asupra peisajului rural din County Down.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fântânile Struell",
+            "tip": "Un loc izolat și rezonant istoric pentru contemplare liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Quoile",
+            "tip": "Potecă de pe malul râului oferă întotdeauna o evadare pașnică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Saul Church",
+            "tip": "Enjoy the panoramic views over the County Down countryside.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Struell Wells",
+            "tip": "A secluded and historically resonant spot for quiet contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the Quoile",
+            "tip": "The river path always offers a peaceful escape.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Market Street",
+            "tip": "Stöbern Sie in den unabhängigen Geschäften nach einzigartigen Funden."
+          },
+          {
+            "name": "Museumsläden",
+            "tip": "Sowohl das St. Patrick Centre als auch das Down County Museum haben ausgezeichnete Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a Market Streeten",
+            "tip": "Böngésszen a független üzletekben egyedi leletekért."
+          },
+          {
+            "name": "Múzeumi boltok",
+            "tip": "Mind a Szent Patrik Központnak, mind a Down Megyei Múzeumnak kiváló boltjai vannak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe Market Street",
+            "tip": "Răsfoiți magazinele independente pentru descoperiri unice."
+          },
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Atât Centrul Sf. Patrick, cât și Muzeul Comitatului Down au magazine excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Street Shops",
+            "tip": "Browse the independent shops for unique finds."
+          },
+          {
+            "name": "Museum Shops",
+            "tip": "Both the St. Patrick Centre and Down County Museum have excellent shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann kostenpflichtig sein, haben Sie also Münzen dabei.",
+          "Nutzen Sie eine Navigations-App, um zwischen den Clustern zu navigieren.",
+          "Einige ländliche Straßen sind eng, seien Sie also auf entgegenkommenden Verkehr vorbereitet.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+        ],
+        "hu": [
+          "A parkolás a városközpontban fizetős lehet, ezért legyen nálad aprópénz.",
+          "Használjon navigációs alkalmazást a klaszterek közötti navigáláshoz.",
+          "Néhány vidéki út szűk, ezért készüljön fel a szembejövő forgalomra.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi cu plată, așa că aveți la îndemână monede.",
+          "Utilizați o aplicație de navigație pentru a naviga între clustere.",
+          "Unele drumuri rurale sunt înguste, așa că fiți pregătiți pentru traficul din sens opus.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Parking in the town centre may require payment, so have coins ready.",
+          "Use a GPS app to navigate between the clusters.",
+          "Some rural roads are narrow, so be prepared for oncoming traffic.",
+          "Don't leave valuables visible in your car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum",
+            "hu": "1. klaszter: Városközpont",
+            "ro": "Cluster 1: Centrul orașului",
+            "en": "Cluster 1: Town Centre"
+          },
+          "coords": [
+            -5.717,
+            54.327
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie an der Down Cathedral, die vom Busbahnhof aus leicht zu Fuß erreichbar ist.",
+            "hu": "Kezdje a Down-székesegyháznál, amely könnyen megközelíthető a buszpályaudvartól.",
+            "ro": "Începeți la Catedrala din Down, la o scurtă plimbare de stația de autobuz.",
+            "en": "Start at Down Cathedral, an easy walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patrick Centre",
+            "hu": "Szent Patrik Központ",
+            "ro": "Centrul Sf. Patrick",
+            "en": "St. Patrick Centre"
+          },
+          "coords": [
+            -5.718,
+            54.328
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie bergab zum Museum und zur Hauptausstellung der Stadt.",
+            "hu": "Sétáljon le a hegyről a múzeumhoz és a város fő kiállításához.",
+            "ro": "Plimbați-vă la vale spre muzeu și expoziția principală a orașului.",
+            "en": "Stroll downhill to the museum and the town's main exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Down County Museum",
+            "hu": "Down Megyei Múzeum",
+            "ro": "Muzeul Comitatului Down",
+            "en": "Down County Museum"
+          },
+          "coords": [
+            -5.719,
+            54.325
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein weiterer kurzer Spaziergang, um dieses faszinierende Museum zu erreichen.",
+            "hu": "Egy újabb rövid séta, hogy elérje ezt a lenyűgöző múzeumot.",
+            "ro": "O altă scurtă plimbare pentru a ajunge la acest muzeu fascinant.",
+            "en": "Another short walk to reach this fascinating museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Heilige Stätten",
+            "hu": "2. klaszter: Szent helyek",
+            "ro": "Cluster 2: Situri sacre",
+            "en": "Cluster 2: Sacred Sites"
+          },
+          "coords": [
+            -5.678,
+            54.341
+          ],
+          "category": "churches",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus in Richtung Strangford und steigen Sie in der Nähe der Saul Church aus.",
+            "hu": "Szálljon fel egy helyi buszra Strangford felé, és szálljon le a Saul-templom közelében.",
+            "ro": "Luați un autobuz local spre Strangford și coborâți lângă Biserica Saul.",
+            "en": "Take a local bus towards Strangford and get off near Saul Church."
+          }
+        },
+        {
+          "name": {
+            "de": "Struell Wells",
+            "hu": "Struell-kutak",
+            "ro": "Fântânile Struell",
+            "en": "Struell Wells"
+          },
+          "coords": [
+            -5.694,
+            54.321
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang über Land von der Kirche zu den Brunnen.",
+            "hu": "Kellemes vidéki séta a templomtól a kutakig.",
+            "ro": "O plimbare plăcută prin peisajul rural de la biserică la fântâni.",
+            "en": "A pleasant countryside walk from the church to the wells."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Busbahnhof",
+            "hu": "Vissza a buszpályaudvarra",
+            "ro": "Înapoi la stația de autobuz",
+            "en": "Return to Bus Station"
+          },
+          "coords": [
+            -5.715,
+            54.326
+          ],
+          "category": "transit",
+          "arrive_at": "16:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Gehen Sie zurück zur Hauptstraße, um den Bus zurück nach Downpatrick zu nehmen.",
+            "hu": "Sétáljon vissza a főútra, hogy elkapja a buszt vissza Downpatrickbe.",
+            "ro": "Mergeți înapoi la drumul principal pentru a lua autobuzul înapoi spre Downpatrick.",
+            "en": "Walk back to the main road to catch the bus back to Downpatrick."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen von Downpatrick, einem leicht begehbaren Cluster. Sie erkunden die Down Cathedral, das St. Patrick Centre und das Down County Museum, die alle nahe beieinander liegen. Dieser Vormittag bietet eine konzentrierte Dosis Geschichte und Kultur, ohne dass ein Fahrzeug benötigt wird. Nach dem Mittagessen begeben Sie sich zum zweiten Cluster. Sie nehmen einen lokalen Bus zu den heiligen Stätten außerhalb der Stadt. Steigen Sie in der Nähe der Saul Church aus und genießen Sie die spirituelle Atmosphäre, bevor Sie einen malerischen Spaziergang zu den alten Struell Wells unternehmen. Dieser Teil des Tages zeigt, wie einfach es ist, von der städtischen Erkundung zur ländlichen Ruhe zu wechseln. Am späten Nachmittag nehmen Sie den Bus zurück ins Zentrum von Downpatrick. Dieser Plan zeigt die Effizienz der öffentlichen Verkehrsmittel, indem er die begehbaren Sehenswürdigkeiten im Stadtzentrum mit einer gezielten Busfahrt zu den wichtigen, aber weiter entfernten heiligen Stätten kombiniert und so ein umfassendes Erlebnis bietet.",
+        "hu": "Tömegközlekedéssel töltött napja Downpatrick szívében kezdődik, egy könnyen bejárható klaszterben. Felfedezi a Down-székesegyházat, a Szent Patrik Központot és a Down Megyei Múzeumot, amelyek mind sétatávolságra vannak egymástól. Ez a délelőtt koncentrált adag történelmet és kultúrát kínál jármű nélkül. Ebéd után a második klaszter felé veszi az irányt. Egy helyi busszal eljut a városon kívüli szent helyekre. Szálljon le a Saul-templom közelében, és élvezze a spirituális hangulatot, mielőtt festői sétát tenne az ősi Struell-kutakhoz. A nap ezen része megmutatja, milyen könnyű a városi felfedezésből a vidéki nyugalomba váltani. Késő délután busszal tér vissza Downpatrick központjába. Ez a terv a tömegközlekedés hatékonyságát mutatja be, ötvözve a belváros gyalogos látnivalóit egy célzott buszúttal a fontos, de távolabbi szent helyekhez, így átfogó élményt nyújtva.",
+        "ro": "Ziua dvs. cu transportul public începe în inima orașului Downpatrick, un cluster ușor de parcurs pe jos. Explorați Catedrala din Down, Centrul Sf. Patrick și Muzeul Comitatului Down, toate aflate la mică distanță unul de celălalt. Această dimineață oferă o doză concentrată de istorie și cultură fără a fi nevoie de un vehicul. După prânz, vă aventurați la al doilea cluster. Luați un autobuz local către siturile sacre din afara orașului. Coborâți lângă Biserica Saul și absorbiți atmosfera spirituală înainte de a face o plimbare pitorească spre vechile Fântâni Struell. Această parte a zilei demonstrează ușurința tranziției de la explorarea urbană la liniștea rurală. Spre sfârșitul după-amiezii, luați autobuzul înapoi în centrul orașului Downpatrick. Acest itinerar evidențiază eficiența transportului public, combinând atracțiile pietonale din centrul orașului cu o călătorie țintită cu autobuzul către siturile sacre importante, dar mai îndepărtate, oferind o experiență completă.",
+        "en": "Your day using public transport begins in the heart of Downpatrick, an easily walkable cluster. You'll explore Down Cathedral, the St. Patrick Centre, and the Down County Museum, all within a short distance of each other. This morning offers a concentrated dose of history and culture without needing a vehicle. After lunch, you'll venture to the second cluster. You'll catch a local bus to the sacred sites outside the town. Alight near Saul Church and soak in the spiritual atmosphere before taking a scenic walk to the ancient Struell Wells. This part of the day showcases the ease of transitioning from urban exploration to rural tranquility. In the late afternoon, you'll catch the bus back to the centre of Downpatrick. This itinerary highlights transit efficiency, blending the walkable town-centre sites with a targeted bus trip to the important but more distant holy sites, providing a comprehensive experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein klassisches irisches Gericht, das man sich zum Mitnehmen holt und in einem Park isst."
+          },
+          {
+            "name": "The Cathedral Cafe",
+            "tip": "Ein bequemer Ort für eine Tasse Tee und einen Scone nach dem Besuch der Kathedrale."
+          },
+          {
+            "name": "Lokales Ale",
+            "tip": "Probieren Sie ein Pint von einer lokalen Brauerei in einem der Pubs der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Klasszikus ír elviteles étel, amelyet egy parkban fogyaszthat el."
+          },
+          {
+            "name": "The Cathedral Cafe",
+            "tip": "Kényelmes hely egy csésze teára és egy pogácsára a székesegyház megtekintése után."
+          },
+          {
+            "name": "Helyi ale",
+            "tip": "Kóstoljon meg egy korsóval egy helyi sörfőzdéből a város egyik pubjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "O mâncare clasică irlandeză la pachet, de savurat într-un parc."
+          },
+          {
+            "name": "Cafeneaua Catedralei",
+            "tip": "Un loc convenabil pentru o ceașcă de ceai și o scones după vizitarea catedralei."
+          },
+          {
+            "name": "Bere Ale locală",
+            "tip": "Încercați o halbă de la o fabrică de bere locală într-unul dintre pub-urile din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "A classic Irish takeaway to be enjoyed in a park."
+          },
+          {
+            "name": "The Cathedral Cafe",
+            "tip": "A convenient spot for a cup of tea and a scone after visiting the cathedral."
+          },
+          {
+            "name": "Local Ale",
+            "tip": "Try a pint from a local brewery in one of the town's pubs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "The Mound of Down",
+            "tip": "Ein alter Erdwall in der Nähe der Kathedrale, der einen ruhigen Aussichtspunkt bietet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang von Saul nach Struell",
+            "tip": "Der Weg selbst ist eine friedliche Reise durch die Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Down County Museum",
+            "tip": "Ein verstecktes Juwel für einen Moment der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Mound of Down",
+            "tip": "Ősi földvár a székesegyház közelében, amely csendes kilátást nyújt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta Saultól Struellig",
+            "tip": "Maga az ösvény egy békés utazás a vidéken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Down Megyei Múzeum kertje",
+            "tip": "Rejtett gyöngyszem egy csendes pillanathoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Movila din Down",
+            "tip": "O lucrare de pământ veche, lângă catedrală, care oferă un punct de vedere liniștit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare de la Saul la Struell",
+            "tip": "Potecă în sine este o călătorie pașnică prin peisajul rural.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Muzeului Comitatului Down",
+            "tip": "O bijuterie ascunsă pentru un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Mound of Down",
+            "tip": "An ancient earthwork near the cathedral offering a quiet viewpoint.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Saul to Struell Walk",
+            "tip": "The path itself is a peaceful journey through the countryside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Down County Museum Gardens",
+            "tip": "A hidden gem for a moment of peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Charity Shops",
+            "tip": "Downpatrick hat mehrere Wohltätigkeitsläden, in denen Sie einzigartige Second-Hand-Schätze finden können."
+          },
+          {
+            "name": "Buchhandlung",
+            "tip": "Suchen Sie eine unabhängige Buchhandlung für Bücher über lokale Geschichte und irische Autoren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jótékonysági boltok",
+            "tip": "Downpatrickben több jótékonysági bolt is található, ahol egyedi, használt kincsekre bukkanhat."
+          },
+          {
+            "name": "Könyvesbolt",
+            "tip": "Keressen egy független könyvesboltot helytörténeti könyvekért és ír szerzőkért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de caritate",
+            "tip": "Downpatrick are mai multe magazine de caritate unde puteți găsi comori unice la mâna a doua."
+          },
+          {
+            "name": "Librărie",
+            "tip": "Căutați o librărie independentă pentru cărți despre istoria locală și autori irlandezi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Charity Shops",
+            "tip": "Downpatrick has several charity shops where you might find unique second-hand treasures."
+          },
+          {
+            "name": "Bookshop",
+            "tip": "Look for an independent bookshop for books on local history and Irish authors."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Verbindungen, insbesondere am Wochenende, begrenzt sein können.",
+          "Kaufen Sie eine Tageskarte, wenn diese verfügbar und kostengünstiger ist.",
+          "Geben Sie dem Fahrer ein Zeichen, damit der Bus anhält.",
+          "Haben Sie Bargeld für den Fahrpreis dabei, da nicht alle Busse Karten akzeptieren."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mivel a járatok korlátozottak lehetnek, különösen hétvégén.",
+          "Vásároljon napijegyet, ha elérhető és költséghatékonyabb.",
+          "Intsen a sofőrnek, hogy megálljon a busz.",
+          "Legyen nálad készpénz a viteldíjhoz, mivel nem minden busz fogad el kártyát."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece serviciile pot fi limitate, în special în weekend.",
+          "Cumpărați un bilet de o zi dacă este disponibil și mai rentabil.",
+          "Faceți semn șoferului pentru a opri autobuzul.",
+          "Aveți bani gheață pentru bilet, deoarece nu toate autobuzele acceptă carduri."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as services can be infrequent, especially on weekends.",
+          "Purchase a day-pass if it's available and more cost-effective.",
+          "Signal clearly for the bus to stop for you.",
+          "Have cash ready for the fare, as not all buses may accept cards."
+        ]
+      }
+    }
+  }
+}

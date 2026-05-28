@@ -1,0 +1,1268 @@
+{
+  "city_id": "greece-lefkimmi-cities-v2",
+  "anchor": {
+    "name": "Lefkimmi",
+    "coords": [
+      20.0667,
+      39.4333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Lefkimmi",
+            "hu": "Lefkimmi óvárosa",
+            "ro": "Orașul vechi Lefkimmi",
+            "en": "Lefkimmi Old Town"
+          },
+          "coords": [
+            20.0667,
+            39.4333
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen und entdecken Sie die traditionelle Architektur.",
+            "hu": "Tévedjen el a szűk sikátorokban, és fedezze fel a hagyományos építészetet.",
+            "ro": "Rătăciți-vă pe străduțele înguste și descoperiți arhitectura tradițională.",
+            "en": "Get lost in the narrow alleys and discover the traditional architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Lefkimmi Fluss",
+            "hu": "Lefkimmi-folyó",
+            "ro": "Râul Lefkimmi",
+            "en": "Lefkimmi River"
+          },
+          "coords": [
+            20.0701,
+            39.4345
+          ],
+          "category": "natural-features",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote, die am Ufer anlegen.",
+            "hu": "Figyelje meg a parton kikötő halászhajókat.",
+            "ro": "Urmăriți bărcile de pescuit acostând de-a lungul malului.",
+            "en": "Watch the fishing boats moored along the bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Arsenios",
+            "hu": "Szent Arsenios-templom",
+            "ro": "Biserica Agios Arsenios",
+            "en": "Agios Arsenios Church"
+          },
+          "coords": [
+            20.0685,
+            39.4311
+          ],
+          "category": "churches",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Fresken im Inneren dieser modernen Kirche.",
+            "hu": "Csodálja meg a lenyűgöző freskókat ebben a modern templomban.",
+            "ro": "Admirați frescele impresionante din interiorul acestei biserici moderne.",
+            "en": "Admire the impressive frescoes inside this modern church."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Melikia",
+            "hu": "Melikia kikötője",
+            "ro": "Portul Melikia",
+            "en": "Melikia Port"
+          },
+          "coords": [
+            20.0815,
+            39.4322
+          ],
+          "category": "port",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie frischen Fisch in einer der Tavernen am Hafen.",
+            "hu": "Élvezze a friss halat a kikötői tavernák egyikében.",
+            "ro": "Savurați pește proaspăt la una dintre tavernele din port.",
+            "en": "Enjoy some fresh fish at one of the portside tavernas."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzpfannen von Alykes",
+            "hu": "Alykes sólepárlók",
+            "ro": "Salinele Alykes",
+            "en": "Alykes Salt Pans"
+          },
+          "coords": [
+            20.0917,
+            39.4295
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für die Vogelbeobachtung, besonders im Frühling und Herbst.",
+            "hu": "Remek hely a madármegfigyelésre, különösen tavasszal és ősszel.",
+            "ro": "Un loc excelent pentru observarea păsărilor, mai ales primăvara și toamna.",
+            "en": "A great spot for bird watching, especially in spring and autumn."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agia Athanasia",
+            "hu": "Szent Athanasia-templom",
+            "ro": "Biserica Agia Athanasia",
+            "en": "Agia Athanasia Church"
+          },
+          "coords": [
+            20.0755,
+            39.4251
+          ],
+          "category": "churches",
+          "arrive_at": "15:41",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Eine kleine, malerische Kapelle, die einen Moment der Ruhe bietet.",
+            "hu": "Egy kicsi, festői kápolna, amely egy csendes pillanatot kínál.",
+            "ro": "O capelă mică și pitorească ce oferă un moment de liniște.",
+            "en": "A small, picturesque chapel offering a moment of tranquility."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Lefkimmi und schlendern Sie durch die traditionellen Gassen. Am Vormittag erkunden Sie den malerischen Fluss, der die Stadt teilt, und besuchen die imposante Agios-Arsenios-Kirche. Gönnen Sie sich ein langes Mittagessen mit frischem Fisch im Hafen von Melikia. Am Nachmittag entdecken Sie die faszinierende Geschichte der Salzgewinnung in den Alykes-Salzpfannen, bevor Sie den Tag mit einem ruhigen Moment in der Agia-Athanasia-Kapelle ausklingen lassen.",
+        "hu": "Kezdje a napot Lefkimmi szívében, a hagyományos sikátorokban sétálgatva. Délelőtt fedezze fel a várost kettészelő festői folyót és látogasson el a lenyűgöző Szent Arsenios-templomba. Engedjen meg magának egy hosszú ebédet friss halból a Melikia kikötőben. Délután fedezze fel a sólepárlás lenyűgöző történetét az Alykes sómezőkön, mielőtt egy csendes pillanattal zárja a napot az Agia Athanasia kápolnában.",
+        "ro": "Începeți ziua în inima orașului Lefkimmi, plimbându-vă pe aleile tradiționale. Dimineața, explorați râul pitoresc care împarte orașul și vizitați impunătoarea Biserică Agios Arsenios. Bucurați-vă de un prânz lung cu pește proaspăt în portul Melikia. După-amiaza, descoperiți istoria fascinantă a extracției de sare la salinele Alykes, înainte de a încheia ziua cu un moment de liniște la capela Agia Athanasia.",
+        "en": "Start your day in the heart of Lefkimmi, strolling through its traditional alleys. In the morning, explore the scenic river that divides the town and visit the imposing Agios Arsenios Church. Indulge in a long lunch with fresh fish at Melikia Port. In the afternoon, discover the fascinating history of salt harvesting at the Alykes Salt Pans before ending the day with a quiet moment at the Agia Athanasia chapel."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisch-Tavernen am Hafen",
+            "tip": "Probieren Sie 'Bianco', einen lokalen Fischeintopf, oder gegrillten Oktopus."
+          },
+          {
+            "name": "Sofrito",
+            "tip": "Ein traditionelles korfiotisches Kalbfleischgericht mit Knoblauch und Petersilie."
+          },
+          {
+            "name": "Kumquat-Likör",
+            "tip": "Ein süßer und aromatischer Likör, der typisch für Korfu ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haltavernák a kikötőben",
+            "tip": "Kóstolja meg a 'Bianco'-t, egy helyi halragut, vagy a grillezett polipot."
+          },
+          {
+            "name": "Sofrito",
+            "tip": "Hagyományos korfui borjúétel fokhagymával és petrezselyemmel."
+          },
+          {
+            "name": "Kumquat likőr",
+            "tip": "Édes és aromás likőr, amely Korfu jellegzetessége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverne de pește în port",
+            "tip": "Încercați 'Bianco', o tocană locală de pește, sau caracatiță la grătar."
+          },
+          {
+            "name": "Sofrito",
+            "tip": "Un fel de mâncare tradițional corfiot din vițel cu usturoi și pătrunjel."
+          },
+          {
+            "name": "Lichior de Kumquat",
+            "tip": "Un lichior dulce și aromat, specific insulei Corfu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Tavernas at the Port",
+            "tip": "Try 'Bianco', a local fish stew, or grilled octopus."
+          },
+          {
+            "name": "Sofrito",
+            "tip": "A traditional Corfiot veal dish with garlic and parsley."
+          },
+          {
+            "name": "Kumquat Liqueur",
+            "tip": "A sweet and aromatic liqueur, typical of Corfu."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Lefkimmi-Flusses",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das langsame Leben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Alykes-Salzpfannen",
+            "tip": "Die Weite und Stille der Salzfelder sind sehr beruhigend.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Lefkimmi-folyó partja",
+            "tip": "Keressen egy csendes padot, és figyelje a lassú életet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Alykes sólepárlók",
+            "tip": "A sómezők tágassága és csendje nagyon megnyugtató.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Lefkimmi",
+            "tip": "Găsiți o bancă liniștită și priviți viața lentă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Salinele Alykes",
+            "tip": "Întinderea și liniștea câmpurilor de sare sunt foarte calmante.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of Lefkimmi River",
+            "tip": "Find a quiet bench and watch the slow pace of life.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Alykes Salt Pans",
+            "tip": "The vastness and silence of the salt fields are very calming.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte",
+            "tip": "Suchen Sie in kleinen Geschäften nach lokalem Olivenöl, Honig und Wein."
+          },
+          {
+            "name": "Handgefertigte Keramik",
+            "tip": "Einige Geschäfte in der Altstadt verkaufen schöne, handgefertigte Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Keressen helyi olívaolajat, mézet és bort a kis boltokban."
+          },
+          {
+            "name": "Kézzel készített kerámiák",
+            "tip": "Néhány üzlet az óvárosban gyönyörű, kézzel készített kerámiákat árul."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale",
+            "tip": "Căutați ulei de măsline local, miere și vin în magazinele mici."
+          },
+          {
+            "name": "Ceramică artizanală",
+            "tip": "Unele magazine din orașul vechi vând ceramică frumoasă, lucrată manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Produce",
+            "tip": "Look for local olive oil, honey, and wine in the small shops."
+          },
+          {
+            "name": "Handmade Ceramics",
+            "tip": "Some shops in the old town sell beautiful, handmade pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen uneben sein können.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Die meisten Geschäfte machen während der heißesten Zeit des Tages eine Siesta.",
+          "Respektieren Sie die Ruhe in den Kirchen und kleiden Sie sich angemessen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az utcák egyenetlenek lehetnek.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban.",
+          "A legtöbb üzlet sziesztát tart a nap legforróbb szakaszában.",
+          "Tartsa tiszteletben a csendet a templomokban és öltözzön megfelelőképpen."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile pot fi denivelate.",
+          "Luați cu voi multă apă, mai ales în lunile de vară.",
+          "Majoritatea magazinelor își iau o siestă în timpul celei mai fierbinți părți a zilei.",
+          "Respectați liniștea în biserici și îmbrăcați-vă adecvat."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets can be uneven.",
+          "Bring plenty of water, especially during the summer months.",
+          "Most shops take a siesta during the hottest part of the day.",
+          "Be respectful of the quiet atmosphere in churches and dress appropriately."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Salzpfannen von Alykes",
+            "hu": "Alykes sólepárlók",
+            "ro": "Salinele Alykes",
+            "en": "Alykes Salt Pans"
+          },
+          "coords": [
+            20.0917,
+            39.4295
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "09:25",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie am frühen Morgen, um die beste Chance zu haben, Vögel zu sehen.",
+            "hu": "Menjen kora reggel, hogy a legjobb esélye legyen madarakat látni.",
+            "ro": "Mergeți dimineața devreme pentru cea mai bună șansă de a vedea păsări.",
+            "en": "Go in the early morning for the best chance to see birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Melikia",
+            "hu": "Melikia kikötője",
+            "ro": "Portul Melikia",
+            "en": "Melikia Port"
+          },
+          "coords": [
+            20.0815,
+            39.4322
+          ],
+          "category": "port",
+          "arrive_at": "10:21",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die Fischer bei der Arbeit zu beobachten.",
+            "hu": "Egy rövid megálló, hogy megnézze a halászokat munka közben.",
+            "ro": "O oprire scurtă pentru a privi pescarii la lucru.",
+            "en": "A quick stop to watch the fishermen at work."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Lefkimmi & Fluss",
+            "hu": "Lefkimmi óvárosa és folyó",
+            "ro": "Orașul vechi Lefkimmi și râu",
+            "en": "Lefkimmi Old Town & River"
+          },
+          "coords": [
+            20.0688,
+            39.4338
+          ],
+          "category": "squares",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie die Gassen zu Fuß, inklusive Mittagessen.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel a sikátorokat gyalog, ebéddel egybekötve.",
+            "ro": "Parcați bicicleta și explorați aleile pe jos, inclusiv prânzul.",
+            "en": "Park your bike and explore the alleys on foot, including lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Panagia Arkoudila",
+            "hu": "Panagia Arkoudila kolostor",
+            "ro": "Mănăstirea Panagia Arkoudila",
+            "en": "Panagia Arkoudila Monastery"
+          },
+          "coords": [
+            20.045,
+            39.4011
+          ],
+          "category": "churches",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist die Belohnung wert: eine unglaubliche Aussicht.",
+            "hu": "A mászás megéri a jutalmat: hihetetlen kilátás.",
+            "ro": "Urcușul merită recompensa: o priveliște incredibilă.",
+            "en": "The climb is worth the reward: an incredible view."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkoudila Strand",
+            "hu": "Arkoudila strand",
+            "ro": "Plaja Arkoudila",
+            "en": "Arkoudila Beach"
+          },
+          "coords": [
+            20.0398,
+            39.3985
+          ],
+          "category": "parks",
+          "arrive_at": "14:48",
+          "stay_min": 150,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein abgelegener Strand, perfekt für eine lange, entspannende Pause.",
+            "hu": "Egy félreeső strand, tökéletes egy hosszú, pihentető szünetre.",
+            "ro": "O plajă retrasă, perfectă pentru o pauză lungă și relaxantă.",
+            "en": "A secluded beach, perfect for a long, relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergangs-Café in der Stadt",
+            "hu": "Naplementés kávézó a városban",
+            "ro": "Cafenea la apus în oraș",
+            "en": "Sunset Cafe in Town"
+          },
+          "coords": [
+            20.067,
+            39.433
+          ],
+          "category": "gastro",
+          "arrive_at": "18:00",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem erfrischenden Getränk, während die Sonne untergeht.",
+            "hu": "Zárja a napot egy frissítő itallal, miközben a nap lemegy.",
+            "ro": "Încheiați ziua cu o băutură răcoritoare în timp ce soarele apune.",
+            "en": "End the day with a refreshing drink as the sun sets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour, die das ländliche Herz von Süd-Korfu enthüllt. Starten Sie mit der Vogelbeobachtung in den Alykes-Salzpfannen. Am Vormittag erleben Sie das geschäftige Treiben im Hafen von Melikia, bevor Sie in Lefkimmi für ein ausgiebiges Mittagessen und eine Erkundungstour anhalten. Der Nachmittag ist anspruchsvoll, mit einem Aufstieg zum Arkoudila-Kloster, gefolgt von einer wohlverdienten, langen Pause am abgelegenen Arkoudila-Strand. Kehren Sie bei Sonnenuntergang für einen Drink in die Stadt zurück.",
+        "hu": "Egy kerékpártúra, amely felfedi Dél-Korfu vidéki szívét. Kezdje madármegfigyeléssel az Alykes sólepárlóknál. Délelőtt tapasztalja meg a Melikia kikötő nyüzsgését, mielőtt Lefkimmiben megáll egy kiadós ebédre és felfedezőútra. A délután kihívást jelent az Arkoudila kolostorhoz való feljutással, amit egy megérdemelt, hosszú pihenő követ az eldugott Arkoudila strandon. Térjen vissza a városba naplementekor egy italra.",
+        "ro": "Un tur cu bicicleta care dezvăluie inima rurală a sudului Corfu. Începeți cu observarea păsărilor la Salinele Alykes. Dimineața, experimentați agitația din portul Melikia înainte de a opri în Lefkimmi pentru un prânz copios și explorare. După-amiaza este provocatoare, cu o urcare la Mănăstirea Arkoudila, urmată de o pauză lungă și binemeritată la plaja retrasă Arkoudila. Întoarceți-vă în oraș la apus pentru o băutură.",
+        "en": "A bike tour that reveals the rural heart of southern Corfu. Start with birdwatching at the Alykes Salt Pans. In the morning, experience the bustle of Melikia port before stopping in Lefkimmi for a hearty lunch and exploration. The afternoon is challenging, with a climb to Arkoudila Monastery, followed by a well-deserved long break at the secluded Arkoudila Beach. Return to town for a drink at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Tanken Sie Energie mit einem 'Spanakopita' (Spinat-Feta-Pastete)."
+          },
+          {
+            "name": "Pastitsada",
+            "tip": "Ein herzhaftes Nudelgericht mit Hahn oder Rind in einer würzigen Tomatensauce."
+          },
+          {
+            "name": "Griechischer Joghurt mit Honig",
+            "tip": "Ein perfekter, leichter Snack nach einer langen Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Töltődjön fel energiával egy 'Spanakopita'-val (spenótos-feta pite)."
+          },
+          {
+            "name": "Pastitsada",
+            "tip": "Kiadós tésztaétel kakassal vagy marhával, fűszeres paradicsomszószban."
+          },
+          {
+            "name": "Görög joghurt mézzel",
+            "tip": "Tökéletes, könnyű snack egy hosszú kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Alimentați-vă cu un 'Spanakopita' (plăcintă cu spanac și feta)."
+          },
+          {
+            "name": "Pastitsada",
+            "tip": "Un fel de mâncare consistent din paste cu cocoș sau vită într-un sos de roșii picant."
+          },
+          {
+            "name": "Iaurt grecesc cu miere",
+            "tip": "O gustare perfectă și ușoară după o plimbare lungă cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Fuel up with a 'Spanakopita' (spinach and feta pie)."
+          },
+          {
+            "name": "Pastitsada",
+            "tip": "A hearty pasta dish with rooster or beef in a spicy tomato sauce."
+          },
+          {
+            "name": "Greek Yogurt with Honey",
+            "tip": "A perfect, light snack after a long bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Arkoudila Kloster",
+            "tip": "Genießen Sie die Stille und die atemberaubende Aussicht, bevor Sie zum Strand hinabsteigen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arkoudila Strand",
+            "tip": "Oft menschenleer, ein idealer Ort, um dem Rauschen der Wellen zu lauschen.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Olivenhaine",
+            "tip": "Machen Sie eine Pause im Schatten eines alten Olivenbaums.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arkoudila kolostor",
+            "tip": "Élvezze a csendet és a lélegzetelállító kilátást, mielőtt leereszkedik a strandra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arkoudila strand",
+            "tip": "Gyakran elhagyatott, ideális hely a hullámok hallgatására.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Olajfaligetek",
+            "tip": "Tartson egy szünetet egy öreg olajfa árnyékában.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Arkoudila",
+            "tip": "Bucurați-vă de liniște și de priveliștea uluitoare înainte de a coborî la plajă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaja Arkoudila",
+            "tip": "Adesea pustie, un loc ideal pentru a asculta sunetul valurilor.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Livezi de măslini",
+            "tip": "Luați o pauză la umbra unui măslin bătrân.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Arkoudila Monastery",
+            "tip": "Enjoy the silence and the stunning views before descending to the beach.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arkoudila Beach",
+            "tip": "Often deserted, an ideal place to listen to the sound of the waves.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Olive Groves",
+            "tip": "Take a break in the shade of an ancient olive tree.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenholz-Produkte",
+            "tip": "Suchen Sie nach Schalen, Löffeln und Schneidebrettern aus lokalem Olivenholz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olajfa termékek",
+            "tip": "Keressen tálakat, kanalakat és vágódeszkákat helyi olajfából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse din lemn de măslin",
+            "tip": "Căutați boluri, linguri și tocătoare făcute din lemn de măslin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Wood Products",
+            "tip": "Look for bowls, spoons, and cutting boards made from local olive wood."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor dem steilen Abstieg zum Arkoudila-Strand.",
+          "Ein Mountainbike ist für die unbefestigten Wege besser geeignet als ein Rennrad.",
+          "Tragen Sie einen Helm und helle Kleidung, um gut sichtbar zu sein.",
+          "Es gibt nicht viele Geschäfte außerhalb der Stadt, also nehmen Sie genügend Snacks und Wasser mit."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket az Arkoudila strandra vezető meredek lejtő előtt.",
+          "A földutakra egy hegyikerékpár jobban megfelel, mint egy országúti kerékpár.",
+          "Viseljen sisakot és világos ruházatot, hogy jól látható legyen.",
+          "A városon kívül nincs sok bolt, ezért vigyen magával elegendő snacket és vizet."
+        ],
+        "ro": [
+          "Verificați-vă frânele înainte de coborârea abruptă spre plaja Arkoudila.",
+          "O bicicletă de munte este mai potrivită pentru drumurile neasfaltate decât una de șosea.",
+          "Purtați cască și haine de culori deschise pentru a fi vizibil.",
+          "Nu sunt multe magazine în afara orașului, așa că luați suficiente gustări și apă."
+        ],
+        "en": [
+          "Check your brakes before the steep descent to Arkoudila beach.",
+          "A mountain bike is more suitable for the dirt tracks than a road bike.",
+          "Wear a helmet and bright clothing to be visible.",
+          "There aren't many shops outside the town, so carry enough snacks and water."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 19.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster Panagia Arkoudila",
+            "hu": "Panagia Arkoudila kolostor",
+            "ro": "Mănăstirea Panagia Arkoudila",
+            "en": "Panagia Arkoudila Monastery"
+          },
+          "coords": [
+            20.045,
+            39.4011
+          ],
+          "category": "churches",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und genießen Sie die Aussicht, bevor Sie zum Strand hinuntergehen.",
+            "hu": "Parkoljon itt, és élvezze a kilátást, mielőtt lesétál a strandra.",
+            "ro": "Parcați aici și bucurați-vă de priveliște înainte de a coborî spre plajă.",
+            "en": "Park here and enjoy the view before walking down to the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkoudila Strand",
+            "hu": "Arkoudila strand",
+            "ro": "Plaja Arkoudila",
+            "en": "Arkoudila Beach"
+          },
+          "coords": [
+            20.0398,
+            39.3985
+          ],
+          "category": "parks",
+          "arrive_at": "10:40",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kloster zu diesem wilden und schönen Strand.",
+            "hu": "Egy rövid séta a kolostortól ehhez a vad és gyönyörű strandhoz.",
+            "ro": "O scurtă plimbare de la mănăstire la această plajă sălbatică și frumoasă.",
+            "en": "A short walk from the monastery to this wild and beautiful beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Lefkimmi",
+            "hu": "Lefkimmi óvárosa",
+            "ro": "Orașul vechi Lefkimmi",
+            "en": "Lefkimmi Old Town"
+          },
+          "coords": [
+            20.0667,
+            39.4333
+          ],
+          "category": "squares",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Stadtrand und finden Sie eine Taverne zum Mittagessen.",
+            "hu": "Parkoljon a város szélén, és keressen egy tavernát ebédre.",
+            "ro": "Parcați la marginea orașului și găsiți o tavernă pentru prânz.",
+            "en": "Park on the outskirts and find a taverna for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Lefkimmi Fluss",
+            "hu": "Lefkimmi-folyó",
+            "ro": "Râul Lefkimmi",
+            "en": "Lefkimmi River"
+          },
+          "coords": [
+            20.0701,
+            39.4345
+          ],
+          "category": "natural-features",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein verdauungsfördernder Spaziergang entlang des Flusses nach dem Mittagessen.",
+            "hu": "Egy emésztést segítő séta a folyó mentén ebéd után.",
+            "ro": "O plimbare digestivă de-a lungul râului după prânz.",
+            "en": "A digestive stroll along the river after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Arsenios",
+            "hu": "Szent Arsenios-templom",
+            "ro": "Biserica Agios Arsenios",
+            "en": "Agios Arsenios Church"
+          },
+          "coords": [
+            20.0685,
+            39.4311
+          ],
+          "category": "churches",
+          "arrive_at": "15:40",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die größte Kirche der Region, ein kurzer Spaziergang von der Altstadt entfernt.",
+            "hu": "A régió legnagyobb temploma, egy rövid sétára az óvárostól.",
+            "ro": "Cea mai mare biserică din zonă, la o scurtă plimbare de orașul vechi.",
+            "en": "The largest church in the area, a short walk from the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzpfannen von Alykes",
+            "hu": "Alykes sólepárlók",
+            "ro": "Salinele Alykes",
+            "en": "Alykes Salt Pans"
+          },
+          "coords": [
+            20.0917,
+            39.4295
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Ein letzter Halt, um die Landschaft im späten Nachmittagslicht zu bewundern.",
+            "hu": "Egy utolsó megálló, hogy megcsodálja a tájat a késő délutáni fényben.",
+            "ro": "O ultimă oprire pentru a admira peisajul în lumina târzie a după-amiezii.",
+            "en": "A final stop to admire the landscape in the late afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Autotag kombiniert Küstenschönheit mit städtischem Charme. Beginnen Sie Ihren Morgen mit der atemberaubenden Aussicht vom Kloster Arkoudila, gefolgt von einem entspannten Vormittag am abgelegenen Arkoudila-Strand. Fahren Sie zur Mittagszeit nach Lefkimmi, parken Sie Ihr Auto und erkunden Sie die Altstadt und den Fluss zu Fuß. Nach dem Besuch der beeindruckenden Agios-Arsenios-Kirche beenden Sie den Tag mit einem kurzen Ausflug zu den historischen Salzpfannen von Alykes.",
+        "hu": "Ez az autós nap a tengerparti szépséget a városi bájjal ötvözi. Kezdje a reggelt az Arkoudila kolostor lélegzetelállító kilátásával, majd pihenjen délelőtt az eldugott Arkoudila strandon. Ebédidőben vezessen Lefkimmibe, parkolja le az autót, és fedezze fel gyalog az óvárost és a folyót. A lenyűgöző Szent Arsenios-templom meglátogatása után fejezze be a napot egy rövid kirándulással az Alykes történelmi sólepárlóihoz.",
+        "ro": "Această zi cu mașina combină frumusețea de coastă cu farmecul urban. Începeți dimineața cu priveliștea uluitoare de la Mănăstirea Arkoudila, urmată de o dimineață relaxantă la plaja retrasă Arkoudila. La prânz, conduceți spre Lefkimmi, parcați mașina și explorați orașul vechi și râul pe jos. După vizitarea impunătoarei Biserici Agios Arsenios, încheiați ziua cu o scurtă excursie la salinele istorice Alykes.",
+        "en": "This car day trip combines coastal beauty with urban charm. Start your morning with the stunning views from Arkoudila Monastery, followed by a relaxing morning at the secluded Arkoudila Beach. Drive to Lefkimmi for lunchtime, park your car, and explore the old town and river on foot. After visiting the impressive Agios Arsenios Church, end your day with a short drive to the historic Alykes Salt Pans."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverne in einem Dorf im Landesinneren",
+            "tip": "Probieren Sie 'Giouvetsi' (ein langsam gegarter Rindfleischeintopf mit Orzo-Nudeln)."
+          },
+          {
+            "name": "Meeresfrüchte-Risotto",
+            "tip": "Eine köstliche Alternative in den Tavernen am Meer."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Fragen Sie nach dem Hauswein, der oft aus lokalen Trauben hergestellt wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taverna egy belső faluban",
+            "tip": "Kóstolja meg a 'Giouvetsi'-t (lassan főtt marharagu orzo tésztával)."
+          },
+          {
+            "name": "Tenger gyümölcsei rizottó",
+            "tip": "Ízletes alternatíva a tengerparti tavernákban."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kérje a ház borát, amely gyakran helyi szőlőből készül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavernă într-un sat din interior",
+            "tip": "Încercați 'Giouvetsi' (o tocană de vită gătită lent cu paste orzo)."
+          },
+          {
+            "name": "Risotto cu fructe de mare",
+            "tip": "O alternativă delicioasă la tavernele de pe malul mării."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Întrebați de vinul casei, adesea produs din struguri locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Inland village taverna",
+            "tip": "Try 'Giouvetsi' (a slow-cooked beef stew with orzo pasta)."
+          },
+          {
+            "name": "Seafood Risotto",
+            "tip": "A delicious alternative at the seaside tavernas."
+          },
+          {
+            "name": "Local wine",
+            "tip": "Ask for the house wine, often made from local grapes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Arkoudila-Wald",
+            "tip": "Der Weg zum Strand führt durch einen ruhigen Pinienwald.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Aussicht vom Kloster Arkoudila",
+            "tip": "Ein Panoramablick über die Ionische See.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arkoudila-erdő",
+            "tip": "A strandhoz vezető út egy csendes fenyőerdőn keresztül vezet.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kilátás az Arkoudila kolostorból",
+            "tip": "Panorámás kilátás a Jón-tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Arkoudila",
+            "tip": "Calea spre plajă trece printr-o pădure liniștită de pini.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Vedere de la Mănăstirea Arkoudila",
+            "tip": "O priveliște panoramică asupra Mării Ionice.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Arkoudila Forest",
+            "tip": "The path to the beach goes through a quiet pine forest.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "View from Arkoudila Monastery",
+            "tip": "A panoramic view over the Ionian Sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenstände",
+            "tip": "Halten Sie Ausschau nach Ständen, die Obst, Gemüse und Olivenöl am Straßenrand verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útszéli standok",
+            "tip": "Keresse azokat a standokat, amelyek gyümölcsöt, zöldséget és olívaolajat árulnak az út mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe la marginea drumului",
+            "tip": "Fiți atenți la tarabele care vând fructe, legume și ulei de măsline pe marginea drumului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside stalls",
+            "tip": "Look out for stalls selling fruit, vegetables, and olive oil by the side of the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein kleines Auto, da die Straßen in den Dörfern eng sein können.",
+          "Die Straße zum Arkoudila-Strand ist unbefestigt. Fahren Sie langsam und vorsichtig.",
+          "Das Parken kann im Stadtzentrum von Lefkimmi schwierig sein. Parken Sie lieber am Rand.",
+          "Google Maps ist zuverlässig, aber achten Sie auf Straßenschilder."
+        ],
+        "hu": [
+          "Béreljen kis autót, mivel a falvakban szűkek lehetnek az utcák.",
+          "Az Arkoudila strandra vezető út földút. Vezessen lassan és óvatosan.",
+          "A parkolás nehéz lehet Lefkimmi központjában. Inkább a szélén parkoljon.",
+          "A Google Maps megbízható, de figyeljen az útjelző táblákra."
+        ],
+        "ro": [
+          "Închiriați o mașină mică, deoarece drumurile din sate pot fi înguste.",
+          "Drumul spre plaja Arkoudila este neasfaltat. Conduceți încet și cu prudență.",
+          "Parcarea poate fi dificilă în centrul orașului Lefkimmi. Mai bine parcați la periferie.",
+          "Google Maps este de încredere, dar fiți atenți și la indicatoarele rutiere."
+        ],
+        "en": [
+          "Rent a small car as roads in the villages can be narrow.",
+          "The road to Arkoudila beach is unpaved. Drive slowly and carefully.",
+          "Parking can be difficult in Lefkimmi town center. It's better to park on the outskirts.",
+          "Google Maps is reliable, but also pay attention to road signs."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft in Lefkimmi Stadtzentrum",
+            "hu": "Érkezés Lefkimmi városközpontjába",
+            "ro": "Sosire în centrul orașului Lefkimmi",
+            "en": "Arrival at Lefkimmi Town Center"
+          },
+          "coords": [
+            20.068,
+            39.4325
+          ],
+          "category": "transit-stop",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus und beginnen Sie Ihre Erkundungstour.",
+            "hu": "Szálljon ki itt, és kezdje meg a felfedezést.",
+            "ro": "Coborâți aici și începeți explorarea.",
+            "en": "Get off here and start your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt & Fluss",
+            "hu": "Óváros és folyó",
+            "ro": "Orașul vechi & râu",
+            "en": "Old Town & River"
+          },
+          "coords": [
+            20.0672,
+            39.4335
+          ],
+          "category": "squares",
+          "arrive_at": "09:25",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch die Gassen und entlang des Flusses ist ein Muss.",
+            "hu": "A sikátorokban és a folyó mentén tett séta kötelező.",
+            "ro": "O plimbare pe alei și de-a lungul râului este obligatorie.",
+            "en": "A walk through the alleys and along the river is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Arsenios",
+            "hu": "Szent Arsenios-templom",
+            "ro": "Biserica Agios Arsenios",
+            "en": "Agios Arsenios Church"
+          },
+          "coords": [
+            20.0685,
+            39.4311
+          ],
+          "category": "churches",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Stadtzentrum aus zu erreichen.",
+            "hu": "Könnyen megközelíthető gyalog a városközpontból.",
+            "ro": "Ușor de ajuns pe jos din centrul orașului.",
+            "en": "Easily reachable on foot from the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Alykes/Melikia",
+            "hu": "Busz Alykes/Melikia felé",
+            "ro": "Autobuz către Alykes/Melikia",
+            "en": "Bus to Alykes/Melikia"
+          },
+          "coords": [
+            20.0815,
+            39.4322
+          ],
+          "category": "port",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Steigen Sie in der Nähe des Hafens von Melikia aus und essen Sie zu Mittag.",
+            "hu": "Szálljon le Melikia kikötőjének közelében, és ebédeljen.",
+            "ro": "Coborâți lângă portul Melikia pentru prânz.",
+            "en": "Get off near Melikia port for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzpfannen von Alykes",
+            "hu": "Alykes sólepárlók",
+            "ro": "Salinele Alykes",
+            "en": "Alykes Salt Pans"
+          },
+          "coords": [
+            20.0917,
+            39.4295
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "14:35",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein faszinierender Spaziergang, um die Geschichte der Region zu entdecken.",
+            "hu": "Lenyűgöző séta a régió történelmének felfedezésére.",
+            "ro": "O plimbare fascinantă pentru a descoperi istoria zonei.",
+            "en": "A fascinating walk to discover the area's history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um Lefkimmi und seine Umgebung zu erkunden. Beginnen Sie im Stadtzentrum und spazieren Sie durch die Altstadt und entlang des Flusses. Besuchen Sie die beeindruckende Agios-Arsenios-Kirche. Nehmen Sie dann einen Bus in Richtung Küste, um im Hafen von Melikia zu Mittag zu essen. Der Nachmittag ist einem Spaziergang zu den historischen Salzpfannen von Alykes gewidmet, bevor Sie den Bus zurück nehmen.",
+        "hu": "Használja a helyi buszt Lefkimmi és környéke felfedezéséhez. Kezdje a városközpontban, sétáljon az óvárosban és a folyó mentén. Látogasson el a lenyűgöző Szent Arsenios-templomba. Ezután szálljon buszra a part felé, hogy a Melikia kikötőben ebédeljen. A délutánt az Alykes történelmi sólepárlóihoz tett sétának szentelheti, mielőtt visszaszállna a buszra.",
+        "ro": "Folosiți autobuzul local pentru a explora Lefkimmi și împrejurimile sale. Începeți în centrul orașului, plimbându-vă prin orașul vechi și de-a lungul râului. Vizitați impunătoarea Biserică Agios Arsenios. Apoi, luați un autobuz spre coastă pentru prânz în portul Melikia. După-amiaza este dedicată unei plimbări la salinele istorice Alykes, înainte de a lua autobuzul înapoi.",
+        "en": "Use the local bus to explore Lefkimmi and its surroundings. Start in the town center, walking through the old town and along the river. Visit the impressive Agios Arsenios Church. Then, take a bus towards the coast for lunch at Melikia port. The afternoon is dedicated to a walk to the historic Alykes Salt Pans before catching the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyros Pita",
+            "tip": "Ein schneller, günstiger und köstlicher Snack für unterwegs."
+          },
+          {
+            "name": "Griechischer Salat",
+            "tip": "Immer frisch und eine perfekte Beilage zu jeder Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyros Pita",
+            "tip": "Gyors, olcsó és finom harapnivaló útközben."
+          },
+          {
+            "name": "Görög saláta",
+            "tip": "Mindig friss és tökéletes köret minden ételhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gyros Pita",
+            "tip": "O gustare rapidă, ieftină și delicioasă pentru drum."
+          },
+          {
+            "name": "Salată grecească",
+            "tip": "Întotdeauna proaspătă și o garnitură perfectă pentru orice masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyros Pita",
+            "tip": "A quick, cheap, and delicious snack for on the go."
+          },
+          {
+            "name": "Greek Salad",
+            "tip": "Always fresh and a perfect side to any meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Seitenstraße in der Altstadt",
+            "tip": "Finden Sie eine ruhige Ecke, um die Atmosphäre aufzusaugen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy mellékutca az óvárosban",
+            "tip": "Keressen egy csendes sarkot, hogy magába szívja a hangulatot.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O stradă laterală în orașul vechi",
+            "tip": "Găsiți un colț liniștit pentru a absorbi atmosfera.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A side street in the old town",
+            "tip": "Find a quiet corner to soak in the atmosphere.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Supermärkte",
+            "tip": "Kaufen Sie Snacks und Getränke für Ihre Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis szupermarketek",
+            "tip": "Vásároljon rágcsálnivalókat és italokat a buszútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketuri mici",
+            "tip": "Cumpărați gustări și băuturi pentru călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small Supermarkets",
+            "tip": "Buy snacks and drinks for your bus journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse möglicherweise nicht häufig fahren.",
+          "Kaufen Sie Ihr Ticket im Voraus oder haben Sie Kleingeld für den Fahrer dabei.",
+          "Die Bushaltestellen sind nicht immer gut ausgeschildert, fragen Sie im Zweifelsfall einen Einheimischen.",
+          "Die Busse können in der Hochsaison überfüllt sein."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, mivel a buszok ritkán közlekedhetnek.",
+          "Vásárolja meg a jegyét előre, vagy legyen aprópénze a sofőr számára.",
+          "A buszmegállók nem mindig jól vannak kitáblázva, kétség esetén kérdezzen meg egy helyit.",
+          "A buszok zsúfoltak lehetnek a főszezonban."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece s-ar putea să nu circule frecvent.",
+          "Cumpărați biletul în avans sau aveți bani mărunți pentru șofer.",
+          "Stațiile de autobuz nu sunt întotdeauna bine marcate; întrebați un localnic dacă aveți dubii.",
+          "Autobuzele pot fi aglomerate în timpul sezonului de vârf."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as buses may not be frequent.",
+          "Buy your ticket beforehand or have small change ready for the driver.",
+          "Bus stops are not always well-marked; ask a local if in doubt.",
+          "Buses can be crowded during high season."
+        ]
+      }
+    }
+  }
+}

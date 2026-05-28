@@ -1,0 +1,1164 @@
+{
+  "city_id": "bulgaria-petrich-cities-v2",
+  "anchor": {
+    "name": "Petritsch",
+    "coords": [
+      23.2167,
+      41.4
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Museum Petritsch",
+            "hu": "Petrics Történeti Múzeum",
+            "ro": "Muzeul de Istorie din Petrici",
+            "en": "Petrich Historical Museum"
+          },
+          "coords": [
+            23.2085,
+            41.3965
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um einen Überblick über die reiche Geschichte der Region zu bekommen.",
+            "hu": "Kezdje itt a napot, hogy átfogó képet kapjon a régió gazdag történelméről.",
+            "ro": "Începeți aici pentru a obține o imagine de ansamblu asupra istoriei bogate a regiunii.",
+            "en": "Start here to get an overview of the region's rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Uhrturm von Petritsch",
+            "hu": "A petricsi óratorony",
+            "ro": "Turnul cu Ceas din Petrici",
+            "en": "The Clock Tower of Petrich"
+          },
+          "coords": [
+            23.2095,
+            41.3972
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ikonisches Symbol der Stadt und ein großartiger Ort für Fotos im Stadtzentrum.",
+            "hu": "A város ikonikus szimbóluma, remek fotóhelyszín a központban.",
+            "ro": "Un simbol iconic al orașului și un loc excelent pentru fotografii în centrul orașului.",
+            "en": "An iconic symbol of the city and a great spot for photos in the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Church of Saint George"
+          },
+          "coords": [
+            23.2105,
+            41.398
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle orthodoxe Architektur und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a hagyományos ortodox építészetet és a békés légkört.",
+            "ro": "Admirați arhitectura tradițională ortodoxă și atmosfera liniștită.",
+            "en": "Admire the traditional Orthodox architecture and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für Anton Popow",
+            "hu": "Anton Popov emlékmű",
+            "ro": "Monumentul lui Anton Popov",
+            "en": "Monument to Anton Popov"
+          },
+          "coords": [
+            23.2115,
+            41.3975
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Moment des Innehaltens, um einer lokalen historischen Figur zu gedenken.",
+            "hu": "Egy pillanatnyi megállás, hogy megemlékezzen egy helyi történelmi személyiségről.",
+            "ro": "Un moment de reculegere pentru a comemora o figură istorică locală.",
+            "en": "A moment of reflection to commemorate a local historical figure."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus-Museum Baba Wanga",
+            "hu": "Baba Vanga Ház-múzeum",
+            "ro": "Casa-Muzeu Baba Vanga",
+            "en": "Baba Vanga House-Museum"
+          },
+          "coords": [
+            23.212,
+            41.392
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das Leben und die Prophezeiungen der berühmten Seherin.",
+            "hu": "Merüljön el a híres látnok életében és jövendöléseiben.",
+            "ro": "Cufundați-vă în viața și profețiile faimoasei clarvăzătoare.",
+            "en": "Immerse yourself in the life and prophecies of the famous seer."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Mlodost",
+            "hu": "Mladost városi park",
+            "ro": "Parcul Orășenesc Mladost",
+            "en": "Mladost City Park"
+          },
+          "coords": [
+            23.218,
+            41.401
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag mit einem entspannten Spaziergang ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap lezárására egy pihentető sétával.",
+            "ro": "Locul perfect pentru a încheia ziua cu o plimbare relaxantă.",
+            "en": "The perfect place to end the day with a relaxing stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Petritsch, wo Geschichte an jeder Ecke spürbar ist. Nach einem Vormittag voller Kultur und spiritueller Einblicke widmen Sie den Nachmittag dem mystischen Erbe von Baba Wanga. Schließen Sie den Tag mit einem entspannten Spaziergang im Stadtpark ab und genießen Sie die friedliche Atmosphäre der Stadt.",
+        "hu": "Kezdje a napot Petrics szívében, ahol a történelem minden sarkon érezhető. A kultúrával és spirituális betekintéssel teli délelőtt után szentelje a délutánt Baba Vanga misztikus örökségének. Zárja a napot egy pihentető sétával a városi parkban, élvezve a város békés hangulatát.",
+        "ro": "Începeți ziua în inima orașului Petrici, unde istoria se simte la fiecare colț. După o dimineață plină de cultură și perspective spirituale, dedicați după-amiaza moștenirii mistice a Babei Vanga. Încheiați ziua cu o plimbare relaxantă în parcul orașului, bucurându-vă de atmosfera pașnică a orașului.",
+        "en": "Start your day in the heart of Petrich, where history is palpable at every corner. After a morning of culture and spiritual insights, dedicate the afternoon to the mystical legacy of Baba Vanga. Conclude your day with a relaxing stroll in the city park, soaking in the town's peaceful atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Shopska-Salat",
+            "tip": "Ein Muss in Bulgarien, probieren Sie ihn in einem lokalen Restaurant wie dem 'Mehana Petrich'."
+          },
+          {
+            "name": "Gegrilltes Fleisch (Skara)",
+            "tip": "Perfekt für ein herzhaftes Mittagessen nach einem langen Spaziergang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sopszka saláta",
+            "tip": "Kötelező Bulgáriában, kóstolja meg egy helyi étteremben, mint a 'Mehana Petrich'."
+          },
+          {
+            "name": "Grillezett húsok (Skara)",
+            "tip": "Tökéletes egy kiadós ebédhez egy hosszú séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată Shopska",
+            "tip": "O necesitate în Bulgaria, încercați-o la un restaurant local precum 'Mehana Petrich'."
+          },
+          {
+            "name": "Carne la grătar (Skara)",
+            "tip": "Perfect pentru un prânz consistent după o plimbare lungă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopska Salad",
+            "tip": "A must-try in Bulgaria, sample it at a local restaurant like 'Mehana Petrich'."
+          },
+          {
+            "name": "Grilled Meat (Skara)",
+            "tip": "Perfect for a hearty lunch after a long walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark Mlodost",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Flusses Ludogorets",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt für einen friedlichen Moment.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mladost városi park",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ludogorets folyó partja",
+            "tip": "Egy rövid sétára a központtól egy békés pillanatért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Orășenesc Mladost",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul râului Ludogorets",
+            "tip": "La o scurtă plimbare de centru pentru un moment de pace.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mladost City Park",
+            "tip": "Find a quiet bench and enjoy nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Ludogorets River",
+            "tip": "A short walk from the center for a peaceful moment.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie lokalen Honig, Kräuter und handgemachte Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi mézet, gyógynövényeket és kézzel készített ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați miere locală, ierburi și suveniruri artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for local honey, herbs, and handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und sehr gut zu Fuß erreichbar ist.",
+          "Nehmen Sie sich Zeit, die kleinen Gassen und versteckten Innenhöfe zu erkunden.",
+          "Viele Cafés bieten erfrischende Getränke für eine Pause zwischendurch."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont kompakt és nagyon jól gyalogolható.",
+          "Szánjon időt a kis utcák és rejtett udvarok felfedezésére.",
+          "Sok kávézó kínál frissítő italokat egy közbenső szünetre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este compact și foarte accesibil pe jos.",
+          "Luați-vă timp să explorați străduțele mici și curțile ascunse.",
+          "Multe cafenele oferă băuturi răcoritoare pentru o pauză între vizite."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is compact and very walkable.",
+          "Take your time to explore the small streets and hidden courtyards.",
+          "Many cafes offer refreshing drinks for a break in between."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtpark Mlodost",
+            "hu": "Mladost városi park",
+            "ro": "Parcul Orășenesc Mladost",
+            "en": "Mladost City Park"
+          },
+          "coords": [
+            23.218,
+            41.401
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein sanfter Start in den Tag mit einer Runde durch den größten Park der Stadt.",
+            "hu": "Kezdje a napot egy kellemes tekeréssel a város legnagyobb parkjában.",
+            "ro": "Un început blând de zi cu o tură prin cel mai mare parc din oraș.",
+            "en": "A gentle start to the day with a ride through the city's largest park."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum & Uhrturm",
+            "hu": "Történeti Múzeum és Óratorony",
+            "ro": "Muzeul de Istorie și Turnul cu Ceas",
+            "en": "Historical Museum & Clock Tower"
+          },
+          "coords": [
+            23.209,
+            41.397
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie diese beiden nahe beieinander liegenden Sehenswürdigkeiten.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel ezt a két, egymáshoz közeli látnivalót.",
+            "ro": "Parcați bicicleta și explorați aceste două atracții apropiate.",
+            "en": "Park your bike and explore these two closely located attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus-Museum Baba Wanga",
+            "hu": "Baba Vanga Ház-múzeum",
+            "ro": "Casa-Muzeu Baba Vanga",
+            "en": "Baba Vanga House-Museum"
+          },
+          "coords": [
+            23.212,
+            41.392
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zu einem der faszinierendsten Orte der Stadt.",
+            "hu": "Egy rövid tekerés a város egyik leglenyűgözőbb helyére.",
+            "ro": "O scurtă plimbare cu bicicleta până la unul dintre cele mai fascinante locuri din oraș.",
+            "en": "A short ride to one of the most fascinating spots in town."
+          }
+        },
+        {
+          "name": {
+            "de": "Belasiza-Aussichtspunkt",
+            "hu": "Belasica-kilátó",
+            "ro": "Punct de belvedere Belasița",
+            "en": "Belasitsa Viewpoint"
+          },
+          "coords": [
+            23.18,
+            41.36
+          ],
+          "category": "natural features",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Steigung lohnt sich für den Panoramablick über das Tal.",
+            "hu": "Megéri feltekerni az emelkedőn a völgyre nyíló panorámáért.",
+            "ro": "Urcușul merită pentru vederea panoramică asupra văii.",
+            "en": "The climb is worth it for the panoramic view over the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Samuils Festung",
+            "hu": "Sámuel erődje",
+            "ro": "Fortăreața lui Samuil",
+            "en": "Samuel's Fortress"
+          },
+          "coords": [
+            23.1167,
+            41.39
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:45",
+          "stay_min": 95,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine längere Fahrt zu einem Ort von großer historischer Bedeutung. Ein krönender Abschluss.",
+            "hu": "Egy hosszabb tekerés egy nagy történelmi jelentőségű helyszínre. Méltó befejezés.",
+            "ro": "O plimbare mai lungă către un loc de mare importanță istorică. O încheiere grandioasă.",
+            "en": "A longer ride to a site of great historical importance. A crowning conclusion."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Petritsch und seine Umgebung auf zwei Rädern. Der Morgen ist dem grünen Herzen der Stadt und dem kulturellen Zentrum gewidmet. Am Nachmittag führt Sie die Tour aus der Stadt hinaus zu atemberaubenden Aussichtspunkten und tief in die bulgarische Geschichte bei der Festung von Samuil. Ein aktiver Tag, der Natur und Kultur perfekt verbindet.",
+        "hu": "Fedezze fel Petricset és környékét két keréken. A délelőtt a város zöld szívének és kulturális központjának van szentelve. Délután a túra kivezet a városból, lélegzetelállító kilátókhoz és mélyen a bolgár történelembe, Sámuel erődjéhez. Egy aktív nap, amely tökéletesen ötvözi a természetet és a kultúrát.",
+        "ro": "Explorați Petrici și împrejurimile sale pe două roți. Dimineața este dedicată inimii verzi a orașului și centrului cultural. După-amiaza, turul vă duce în afara orașului, la puncte de belvedere uluitoare și adânc în istoria bulgară, la fortăreața lui Samuil. O zi activă care combină perfect natura și cultura.",
+        "en": "Explore Petrich and its surroundings on two wheels. The morning is dedicated to the city's green heart and cultural center. In the afternoon, the tour takes you out of town to breathtaking viewpoints and deep into Bulgarian history at Samuel's Fortress. An active day that perfectly combines nature and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Banitsa",
+            "tip": "Ein herzhaftes Gebäck, perfekt als schneller Snack für Radfahrer."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Ein erfrischendes Joghurtgetränk, um nach einer langen Fahrt neue Energie zu tanken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Banica",
+            "tip": "Kiadós péksütemény, tökéletes gyors harapnivaló a kerékpárosoknak."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Frissítő joghurtital, hogy feltöltődjön energiával egy hosszú tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Banitsa",
+            "tip": "O patiserie sărată, perfectă ca o gustare rapidă pentru bicicliști."
+          },
+          {
+            "name": "Ayran",
+            "tip": "O băutură răcoritoare din iaurt pentru a vă reîncărca după o plimbare lungă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Banitsa",
+            "tip": "A savory pastry, perfect as a quick snack for cyclists."
+          },
+          {
+            "name": "Ayran",
+            "tip": "A refreshing yogurt drink to recharge after a long ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belasiza-Aussichtspunkt",
+            "tip": "Genießen Sie die Stille und den weiten Blick nach dem Aufstieg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Umgebung der Samuils Festung",
+            "tip": "Historische Stille abseits der Touristenpfade.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belasica-kilátó",
+            "tip": "Élvezze a csendet és a széles kilátást a mászás után.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sámuel erődjének környéke",
+            "tip": "Történelmi csend a turistaútvonalaktól távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Belasița",
+            "tip": "Bucurați-vă de liniște și de priveliștea largă după urcare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Împrejurimile Fortăreței lui Samuil",
+            "tip": "Liniște istorică departe de traseele turistice.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belasitsa Viewpoint",
+            "tip": "Enjoy the silence and the wide view after the climb.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The surroundings of Samuel's Fortress",
+            "tip": "Historical silence away from the tourist trails.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Falls Sie Zubehör für Ihr Fahrrad benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Ha kerékpár-kiegészítőre lenne szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "În cazul în care aveți nevoie de accesorii pentru bicicletă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports shops",
+            "tip": "In case you need any accessories for your bike."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads vor der Abfahrt, insbesondere vor der Fahrt zur Festung.",
+          "Nehmen Sie ausreichend Wasser mit, die Strecke zum Aussichtspunkt kann anstrengend sein.",
+          "Einige Straßen außerhalb der Stadt sind möglicherweise nicht asphaltiert."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát, különösen az erőd felé vezető út előtt.",
+          "Vigyen magával elegendő vizet, a kilátóhoz vezető út megerőltető lehet.",
+          "Néhány, a városon kívüli út esetleg nem aszfaltozott."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a pleca, mai ales înainte de drumul spre fortăreață.",
+          "Luați suficientă apă, traseul către punctul de belvedere poate fi obositor.",
+          "Unele drumuri din afara orașului s-ar putea să nu fie asfaltate."
+        ],
+        "en": [
+          "Check the condition of your bike before leaving, especially before the ride to the fortress.",
+          "Bring enough water, the route to the viewpoint can be strenuous.",
+          "Some roads outside the city may not be paved."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 28.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Samuils Festung",
+            "hu": "Sámuel erődje",
+            "ro": "Fortăreața lui Samuil",
+            "en": "Samuel's Fortress"
+          },
+          "coords": [
+            23.1167,
+            41.39
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer Fahrt in die Geschichte. Es gibt normalerweise genügend Parkplätze.",
+            "hu": "Kezdje a napot egy utazással a történelembe. Általában van elég parkolóhely.",
+            "ro": "Începeți ziua cu o călătorie în istorie. De obicei, există suficiente locuri de parcare.",
+            "en": "Start the day with a drive into history. There is usually enough parking space."
+          }
+        },
+        {
+          "name": {
+            "de": "Belasiza-Aussichtspunkt",
+            "hu": "Belasica-kilátó",
+            "ro": "Punct de belvedere Belasița",
+            "en": "Belasitsa Viewpoint"
+          },
+          "coords": [
+            23.18,
+            41.36
+          ],
+          "category": "natural features",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt für eine spektakuläre Aussicht. Der Parkplatz befindet sich in der Nähe des Aussichtspunktes.",
+            "hu": "Egy rövid autóút egy látványos kilátásért. A parkoló a kilátó közelében található.",
+            "ro": "O scurtă călătorie cu mașina pentru o priveliște spectaculoasă. Parcarea este aproape de punctul de belvedere.",
+            "en": "A short drive for a spectacular view. The parking lot is near the viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Stadtzentrum Petritsch (Parken)",
+            "hu": "Klaszter: Petrics városközpont (Parkolás)",
+            "ro": "Cluster: Centrul orașului Petrici (Parcare)",
+            "en": "Cluster: Petrich City Center (Parking)"
+          },
+          "coords": [
+            23.208,
+            41.396
+          ],
+          "category": "transport",
+          "arrive_at": "12:35",
+          "stay_min": 10,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Nachmittags und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon le itt a délután hátralévő részére, és fedezze fel a központot gyalog.",
+            "ro": "Parcați aici pentru restul după-amiezii și explorați centrul pe jos.",
+            "en": "Park here for the rest of the afternoon and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum & Uhrturm",
+            "hu": "Történeti Múzeum és Óratorony",
+            "ro": "Muzeul de Istorie și Turnul cu Ceas",
+            "en": "Historical Museum & Clock Tower"
+          },
+          "coords": [
+            23.209,
+            41.397
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang durch das Stadtzentrum mit einer Dosis lokaler Geschichte.",
+            "hu": "Kezdje a belvárosi sétát egy adag helytörténettel.",
+            "ro": "Începeți turul centrului orașului cu o doză de istorie locală.",
+            "en": "Start your tour of the city center with a dose of local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus-Museum Baba Wanga",
+            "hu": "Baba Vanga Ház-múzeum",
+            "ro": "Casa-Muzeu Baba Vanga",
+            "en": "Baba Vanga House-Museum"
+          },
+          "coords": [
+            23.212,
+            41.392
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zu diesem faszinierenden Ort.",
+            "hu": "Egy rövid séta a múzeumtól ehhez a lenyűgöző helyhez.",
+            "ro": "O scurtă plimbare de la muzeu la acest loc fascinant.",
+            "en": "A short walk from the museum to this fascinating place."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Mlodost",
+            "hu": "Mladost városi park",
+            "ro": "Parcul Orășenesc Mladost",
+            "en": "Mladost City Park"
+          },
+          "coords": [
+            23.218,
+            41.401
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 65,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang, bevor Sie zu Ihrem Auto zurückkehren.",
+            "hu": "Fejezze be a sétát, mielőtt visszatér az autójához.",
+            "ro": "Încheiați-vă plimbarea înainte de a vă întoarce la mașină.",
+            "en": "Finish your walk before returning to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um zuerst die weiter entfernten historischen Stätten zu besuchen. Der Vormittag ist der beeindruckenden Samuils Festung und der Panoramasicht vom Belasiza gewidmet. Am Nachmittag parken Sie im Zentrum von Petritsch und erkunden das Herz der Stadt, einschließlich des Baba-Wanga-Museums und des Stadtparks, bequem zu Fuß.",
+        "hu": "Használja ki az autó rugalmasságát, hogy először a távolabbi történelmi helyszíneket látogassa meg. A délelőtt a lenyűgöző Sámuel erődé és a Belasica panorámájáé. Délután parkoljon le Petrics központjában, és fedezze fel kényelmesen, gyalog a város szívét, beleértve a Baba Vanga múzeumot és a városi parkot.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a vizita mai întâi siturile istorice mai îndepărtate. Dimineața este dedicată impresionantei Fortărețe a lui Samuil și vederii panoramice de pe Belasița. După-amiaza, parcați în centrul orașului Petrici și explorați inima orașului, inclusiv muzeul Baba Vanga și parcul orașului, confortabil pe jos.",
+        "en": "Use the flexibility of the car to first visit the more distant historical sites. The morning is dedicated to the impressive Samuel's Fortress and the panoramic view from Belasitsa. In the afternoon, park in the center of Petrich and explore the heart of the city, including the Baba Vanga Museum and the city park, comfortably on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kavarma",
+            "tip": "Ein langsam gekochter Eintopf, perfekt für ein gemütliches Mittagessen im Stadtzentrum."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Die Region Melnik in der Nähe ist berühmt für ihren Wein. Probieren Sie eine lokale Sorte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kavarma",
+            "tip": "Lassan főzött egytálétel, tökéletes egy hangulatos ebédhez a belvárosban."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "A közeli Melnik régió híres a borairól. Kóstoljon meg egy helyi fajtát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kavarma",
+            "tip": "O tocană gătită lent, perfectă pentru un prânz relaxat în centrul orașului."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Regiunea Melnik din apropiere este renumită pentru vinul său. Încercați un soi local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kavarma",
+            "tip": "A slow-cooked stew, perfect for a cozy lunch in the city center."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "The nearby Melnik region is famous for its wine. Try a local variety."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Samuils Festung frühmorgens",
+            "tip": "Erleben Sie die Stille der Geschichte, bevor die meisten Besucher ankommen.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Die Hügel des Belasiza-Gebirges",
+            "tip": "Fahren Sie ein Stück weiter für absolute Ruhe und Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sámuel erődje kora reggel",
+            "tip": "Tapasztalja meg a történelem csendjét, mielőtt a legtöbb látogató megérkezik.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "A Belasica-hegység dombjai",
+            "tip": "Vezessen egy kicsit tovább az abszolút nyugalomért és a természetért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fortăreața lui Samuil dimineața devreme",
+            "tip": "Experimentați liniștea istoriei înainte de sosirea majorității vizitatorilor.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Dealurile Munților Belasița",
+            "tip": "Conduceți puțin mai departe pentru liniște absolută și natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Samuel's Fortress early in the morning",
+            "tip": "Experience the silence of history before most visitors arrive.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "The hills of the Belasitsa Mountains",
+            "tip": "Drive a little further for absolute tranquility and nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenverkäufer in der Nähe der Festung",
+            "tip": "Oft werden hier einzigartige, handgefertigte Souvenirs verkauft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai árusok az erőd közelében",
+            "tip": "Gyakran árulnak itt egyedi, kézzel készített ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători ambulanți lângă fortăreață",
+            "tip": "Adesea vând suveniruri unice, lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street vendors near the fortress",
+            "tip": "They often sell unique, handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten der Festung im Voraus.",
+          "Nutzen Sie eine Navigations-App, da einige Straßen schlecht ausgeschildert sein können.",
+          "In der Innenstadt kann es schwierig sein, Parkplätze zu finden, seien Sie geduldig."
+        ],
+        "hu": [
+          "Előre ellenőrizze az erőd nyitvatartási idejét.",
+          "Használjon navigációs alkalmazást, mivel néhány út rosszul lehet kitáblázva.",
+          "A belvárosban nehéz lehet parkolóhelyet találni, legyen türelmes."
+        ],
+        "ro": [
+          "Verificați în avans programul de funcționare al fortăreței.",
+          "Utilizați o aplicație de navigație, deoarece unele drumuri pot fi slab semnalizate.",
+          "Parcarea în centrul orașului poate fi dificilă, aveți răbdare."
+        ],
+        "en": [
+          "Check the opening hours of the fortress in advance.",
+          "Use a navigation app, as some roads may be poorly marked.",
+          "Parking in the city center can be difficult, be patient."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster: Historisches Zentrum",
+            "hu": "Klaszter: Történelmi központ",
+            "ro": "Cluster: Centrul istoric",
+            "en": "Cluster: Historical Center"
+          },
+          "coords": [
+            23.2085,
+            41.3965
+          ],
+          "category": "transport",
+          "arrive_at": "09:15",
+          "stay_min": 5,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie in der Nähe des Museums aus und beginnen Sie Ihren Rundgang.",
+            "hu": "Szálljon le a múzeum közelében, és kezdje meg a sétát.",
+            "ro": "Coborâți lângă muzeu și începeți turul pietonal.",
+            "en": "Get off near the museum and start your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum Petritsch",
+            "hu": "Petrics Történeti Múzeum",
+            "ro": "Muzeul de Istorie din Petrici",
+            "en": "Petrich Historical Museum"
+          },
+          "coords": [
+            23.2085,
+            41.3965
+          ],
+          "category": "museums",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Halt in Ihrem Fußgänger-Cluster im Stadtzentrum.",
+            "hu": "Az első megálló a belvárosi gyalogos klaszterben.",
+            "ro": "Prima oprire în clusterul pietonal din centrul orașului.",
+            "en": "The first stop in your downtown pedestrian cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Georg & Uhrturm",
+            "hu": "Szent György-templom és Óratorony",
+            "ro": "Biserica Sf. Gheorghe și Turnul cu Ceas",
+            "en": "St. George Church & Clock Tower"
+          },
+          "coords": [
+            23.21,
+            41.3976
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Ez a két nevezetesség csak pár lépésre van egymástól.",
+            "ro": "Aceste două repere sunt la doar câțiva pași distanță.",
+            "en": "These two landmarks are just a few steps apart."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Baba Wanga Viertel",
+            "hu": "Klaszter: Baba Vanga negyed",
+            "ro": "Cluster: Cartierul Baba Vanga",
+            "en": "Cluster: Baba Vanga Quarter"
+          },
+          "coords": [
+            23.212,
+            41.392
+          ],
+          "category": "transport",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Haus-Museum der berühmten Seherin.",
+            "hu": "Menjen helyi busszal a híres látnok ház-múzeumához.",
+            "ro": "Luați un autobuz local spre casa-muzeu a faimoasei clarvăzătoare.",
+            "en": "Take a local bus to the house-museum of the famous seer."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Mlodost",
+            "hu": "Mladost városi park",
+            "ro": "Parcul Orășenesc Mladost",
+            "en": "Mladost City Park"
+          },
+          "coords": [
+            23.218,
+            41.401
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 130,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer Busfahrt zum Park, um sich zu entspannen.",
+            "hu": "Zárja a napot egy buszozással a parkba, hogy pihenjen.",
+            "ro": "Încheiați ziua cu o călătorie cu autobuzul la parc pentru a vă relaxa.",
+            "en": "End the day with a bus ride to the park to relax."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Petritsch mit öffentlichen Verkehrsmitteln, eine umweltfreundliche und authentische Art zu reisen. Der Tag ist in Cluster unterteilt: Beginnen Sie im historischen Zentrum, fahren Sie dann weiter in das Viertel von Baba Wanga und beenden Sie Ihren Ausflug im entspannten Stadtpark. Ein perfekter Weg, um das lokale Leben und die wichtigsten Sehenswürdigkeiten der Stadt zu erleben.",
+        "hu": "Fedezze fel Petricset tömegközlekedéssel, egy környezetbarát és autentikus utazási móddal. A nap klaszterekre van osztva: kezdje a történelmi központban, majd utazzon tovább Baba Vanga negyedébe, és fejezze be a kirándulást a pihentető városi parkban. Tökéletes módja a helyi élet és a város legfontosabb látnivalóinak megtapasztalására.",
+        "ro": "Descoperiți Petrici cu transportul public, un mod ecologic și autentic de a călători. Ziua este împărțită în clustere: începeți în centrul istoric, apoi călătoriți în cartierul Baba Vanga și încheiați excursia în relaxantul parc al orașului. O modalitate perfectă de a experimenta viața locală și principalele atracții ale orașului.",
+        "en": "Discover Petrich by public transport, an eco-friendly and authentic way to travel. The day is divided into clusters: start in the historic center, then travel to the Baba Vanga district, and end your excursion in the relaxing city park. A perfect way to experience local life and the city's main attractions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich ein schnelles und leckeres Frühstück, bevor Sie in den ersten Bus steigen."
+          },
+          {
+            "name": "Tarator",
+            "tip": "Eine kalte Gurkensuppe, besonders erfrischend an einem warmen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Szerezzen be egy gyors és finom reggelit, mielőtt felszáll az első buszra."
+          },
+          {
+            "name": "Tarator",
+            "tip": "Hideg uborkaleves, különösen frissítő egy meleg napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați un mic dejun rapid și delicios înainte de a urca în primul autobuz."
+          },
+          {
+            "name": "Tarator",
+            "tip": "O supă rece de castraveți, deosebit de răcoritoare într-o zi caldă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakery",
+            "tip": "Get a quick and delicious breakfast before getting on the first bus."
+          },
+          {
+            "name": "Tarator",
+            "tip": "A cold cucumber soup, especially refreshing on a warm day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Fahrt am späten Nachmittag",
+            "tip": "Beobachten Sie die Stadt aus dem Busfenster, wenn der Verkehr nachlässt.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Versteckte Bänke im Stadtpark",
+            "tip": "Suchen Sie sich einen abgelegenen Platz, um dem Trubel zu entfliehen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Késő délutáni buszozás",
+            "tip": "Figyelje a várost a busz ablakából, amikor a forgalom csökken.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Rejtett padok a városi parkban",
+            "tip": "Keressen egy félreeső helyet, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O călătorie cu autobuzul după-amiaza târziu",
+            "tip": "Priviți orașul de la fereastra autobuzului când traficul se domolește.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bănci ascunse în parcul orașului",
+            "tip": "Căutați un loc retras pentru a scăpa de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A late afternoon bus ride",
+            "tip": "Watch the city from the bus window as the traffic subsides.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Hidden benches in the city park",
+            "tip": "Look for a secluded spot to escape the hustle and bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Hier finden Sie oft Zeitungen, Snacks und kleine Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Gyakran talál itt újságokat, rágcsálnivalókat és apró ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri din stațiile de autobuz",
+            "tip": "Adesea veți găsi ziare, gustări și mici suveniruri aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "You can often find newspapers, snacks, and small souvenirs here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, wenn verfügbar, um Geld zu sparen.",
+          "Fragen Sie die Einheimischen oder den Busfahrer nach der richtigen Linie, sie sind meist hilfsbereit.",
+          "Beachten Sie die Fahrpläne, insbesondere für den letzten Bus zurück."
+        ],
+        "hu": [
+          "Ha elérhető, vásároljon napijegyet a spórolás érdekében.",
+          "Kérdezze meg a helyieket vagy a buszsofőrt a megfelelő vonalról, általában segítőkészek.",
+          "Vegye figyelembe a menetrendet, különösen az utolsó visszainduló busz esetében."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi, dacă este disponibil, pentru a economisi bani.",
+          "Întrebați localnicii sau șoferul de autobuz despre linia corectă, de obicei sunt de ajutor.",
+          "Fiți atenți la orare, în special pentru ultimul autobuz de întoarcere."
+        ],
+        "en": [
+          "Buy a day ticket if available to save money.",
+          "Ask the locals or the bus driver for the right line, they are usually helpful.",
+          "Pay attention to the timetables, especially for the last bus back."
+        ]
+      }
+    }
+  }
+}

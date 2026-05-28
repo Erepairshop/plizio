@@ -1,0 +1,1400 @@
+{
+  "city_id": "greece-xanthi-cities-v2",
+  "anchor": {
+    "name": "Xanthi",
+    "coords": [
+      41.1349,
+      24.888
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plateia Dimokratias",
+            "hu": "Dimokratias tér",
+            "ro": "Piața Dimokratias",
+            "en": "Dimokratias Square"
+          },
+          "coords": [
+            24.8885,
+            41.1365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee und beobachten Sie das Treiben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua cu o cafea și priviți agitația orașului.",
+            "en": "Start your day with a coffee and watch the city come to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Xanthi",
+            "hu": "Xanthi óratornya",
+            "ro": "Turnul cu ceas din Xanthi",
+            "en": "Xanthi Clock Tower"
+          },
+          "coords": [
+            24.8892,
+            41.1378
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt ist ein großartiger Fotospot.",
+            "hu": "A város jelképe, remek fotóhelyszín.",
+            "ro": "Emblema orașului este un loc excelent pentru fotografii.",
+            "en": "The city's landmark is a great photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Xanthi",
+            "hu": "Xanthi óvárosa",
+            "ro": "Orașul vechi din Xanthi",
+            "en": "Old Town of Xanthi"
+          },
+          "coords": [
+            24.886,
+            41.141
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:16",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen mit osmanischer Architektur.",
+            "hu": "Vesszen el az oszmán építészetű szűk utcákban.",
+            "ro": "Pierdeți-vă pe străduțele înguste cu arhitectură otomană.",
+            "en": "Get lost in the narrow streets with Ottoman architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            24.8855,
+            41.1425
+          ],
+          "category": "museums",
+          "arrive_at": "11:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte und die Traditionen der Region.",
+            "hu": "Fedezze fel a régió gazdag történelmét és hagyományait.",
+            "ro": "Descoperiți istoria bogată și tradițiile regiunii.",
+            "en": "Discover the rich history and traditions of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Georgios",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Agios Georgios",
+            "en": "Agios Georgios Church"
+          },
+          "coords": [
+            24.8905,
+            41.1398
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um die orthodoxe Kunst zu bewundern.",
+            "hu": "Csendes hely az ortodox művészet csodálatára.",
+            "ro": "Un loc liniștit pentru a admira arta ortodoxă.",
+            "en": "A peaceful place to admire Orthodox art."
+          }
+        },
+        {
+          "name": {
+            "de": "Basar von Xanthi",
+            "hu": "Xanthi bazárja",
+            "ro": "Bazarul din Xanthi",
+            "en": "Xanthi Bazaar"
+          },
+          "coords": [
+            24.888,
+            41.135
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Produkte und genießen Sie die lebhafte Atmosphäre.",
+            "hu": "Kóstoljon helyi termékeket és élvezze az élénk hangulatot.",
+            "ro": "Gustați produse locale și bucurați-vă de atmosfera plină de viață.",
+            "en": "Try local products and enjoy the lively atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Tabakmuseum",
+            "hu": "Dohánymúzeum",
+            "ro": "Muzeul Tutunului",
+            "en": "Tobacco Museum"
+          },
+          "coords": [
+            24.894,
+            41.132
+          ],
+          "category": "museums",
+          "arrive_at": "16:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie, warum Xanthi als die Stadt des Tabaks bekannt war.",
+            "hu": "Tudja meg, miért volt Xanthi a dohány fellegvára.",
+            "ro": "Aflați de ce Xanthi a fost cunoscut drept orașul tutunului.",
+            "en": "Learn why Xanthi was known as the city of tobacco."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Xanthi beginnt auf der belebten Plateia Dimokratias. Von dort aus schlendern Sie durch die bezaubernde Altstadt, bewundern den historischen Uhrturm und tauchen in das Labyrinth aus Kopfsteinpflastergassen ein, das von osmanischen Villen gesäumt ist. Der Vormittag ist der Erkundung des reichen kulturellen Erbes gewidmet, einschließlich eines Besuchs im aufschlussreichen Volkskundemuseum.\nAm Mittag führt Sie Ihr Weg zur spirituellen Ruhe der Agios Georgios Kirche, bevor Sie sich ins Getümmel des lebhaften Samstagsbasars stürzen. Hier können Sie die authentischen Aromen und das geschäftige Treiben der Stadt erleben, während Sie nach lokalen Köstlichkeiten und einzigartigen Souvenirs suchen. Ein spätes Mittagessen in einer der traditionellen Tavernen der Altstadt ist ein Muss.\nDer Nachmittag ist der faszinierenden Industriegeschichte von Xanthi gewidmet, mit einem Besuch im einzigartigen Tabakmuseum. Entdecken Sie, wie der Tabakhandel die Stadt geformt hat, während Sie durch die Exponate wandern. Dies bietet einen faszinierenden Kontrast zu den antiken Stätten, die Sie zuvor gesehen haben.\nWenn der Abend naht, kehren Sie in die Altstadt zurück, um ein entspanntes Abendessen zu genießen. Die wunderschön beleuchteten Gebäude schaffen eine magische Atmosphäre. Beenden Sie Ihren Tag mit einem Getränk in einer der gemütlichen Bars und lassen Sie die vielfältigen Eindrücke von Xanthi, einer Stadt, in der Ost und West aufeinandertreffen, auf sich wirken.",
+        "hu": "Xanthi-i napja a nyüzsgő Plateia Dimokratias téren kezdődik. Innen sétáljon át a bájos óvároson, csodálja meg a történelmi óratornyot, és merüljön el a macskaköves sikátorok labirintusában, amelyet oszmán kúriák szegélyeznek. A délelőttöt a gazdag kulturális örökség felfedezésének szenteljük, beleértve a tanulságos Néprajzi Múzeum meglátogatását.\nDélben az útja az Agios Georgios templom spirituális nyugalmához vezet, mielőtt belevetné magát a nyüzsgő szombati bazár forgatagába. Itt megtapasztalhatja a város autentikus ízeit és nyüzsgését, miközben helyi finomságokat és egyedi szuveníreket keres. Egy késői ebéd az óváros egyik hagyományos tavernájában kötelező.\nA délutánt Xanthi lenyűgöző ipartörténetének szenteljük, egy látogatással az egyedülálló Dohánymúzeumban. Fedezze fel, hogyan formálta a dohánykereskedelem a várost a kiállítási tárgyak között bolyongva. Ez lenyűgöző kontrasztot kínál a korábban látott ókori helyszínekkel.\nAz este közeledtével térjen vissza az óvárosba egy kellemes vacsorára. A gyönyörűen megvilágított épületek varázslatos hangulatot teremtenek. Fejezze be a napot egy itallal az egyik hangulatos bárban, és szívja magába Xanthi, a Kelet és Nyugat találkozási pontjának sokszínű benyomásait.",
+        "ro": "Ziua dvs. în Xanthi începe în animata Piață Dimokratias. De acolo, plimbați-vă prin fermecătorul Oraș Vechi, admirând istoricul Turn cu Ceas și cufundându-vă în labirintul de alei pietruite, flancate de conace otomane. Dimineața este dedicată explorării bogatei moșteniri culturale, inclusiv o vizită la revelatorul Muzeu de Folclor.\nLa prânz, drumul vă duce spre liniștea spirituală a Bisericii Agios Georgios, înainte de a vă arunca în agitația vibrantului bazar de sâmbătă. Aici, puteți experimenta aromele autentice și forfota orașului în timp ce căutați delicatese locale și suveniruri unice. Un prânz târziu la una dintre tavernele tradiționale din Orașul Vechi este obligatoriu.\nDupă-amiaza este dedicată istoriei industriale fascinante a orașului Xanthi, cu o vizită la unicul Muzeu al Tutunului. Descoperiți cum comerțul cu tutun a modelat orașul în timp ce vă plimbați printre exponate. Acesta oferă un contrast fascinant cu siturile antice pe care le-ați văzut mai devreme.\nPe măsură ce se apropie seara, reveniți în Orașul Vechi pentru o cină relaxantă. Clădirile frumos iluminate creează o atmosferă magică. Încheiați-vă ziua cu o băutură la unul dintre barurile primitoare, absorbind impresiile diverse ale Xanthi-ului, un oraș unde Estul întâlnește Vestul.",
+        "en": "Your day in Xanthi begins in the bustling Dimokratias Square. From there, stroll through the charming Old Town, admiring the historic Clock Tower and delving into the labyrinth of cobbled alleys flanked by Ottoman mansions. The morning is dedicated to exploring the rich cultural heritage, including a visit to the insightful Folklore Museum.\nAt midday, your path leads you to the spiritual tranquility of Agios Georgios Church before you plunge into the bustle of the vibrant Saturday bazaar. Here, you can experience the authentic flavors and hustle of the city while searching for local delicacies and unique souvenirs. A late lunch at one of the Old Town's traditional tavernas is a must.\nThe afternoon is devoted to Xanthi's fascinating industrial history with a visit to the unique Tobacco Museum. Discover how the tobacco trade shaped the city as you wander through the exhibits. This provides a fascinating contrast to the ancient sites you saw earlier.\nAs evening approaches, return to the Old Town for a relaxed dinner. The beautifully lit buildings create a magical atmosphere. End your day with a drink at one of the cozy bars, soaking in the diverse impressions of Xanthi, a city where East meets West."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kariokes",
+            "tip": "Probieren Sie diesen berühmten lokalen Schokoladen-Nuss-Genuss."
+          },
+          {
+            "name": "Soutzouk Loukoum",
+            "tip": "Eine traditionelle Süßigkeit aus Melasse und Nüssen."
+          },
+          {
+            "name": "Taverna in der Altstadt",
+            "tip": "Genießen Sie authentische thrakische Gerichte in einer malerischen Umgebung."
+          },
+          {
+            "name": "Griechischer Kaffee",
+            "tip": "Langsam auf heißem Sand in einem 'Hovoli' gebrüht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kariokes",
+            "tip": "Kóstolja meg ezt a híres helyi csokoládés-diós finomságot."
+          },
+          {
+            "name": "Soutzouk Loukoum",
+            "tip": "Hagyományos édesség melaszból és dióból."
+          },
+          {
+            "name": "Taverna az Óvárosban",
+            "tip": "Élvezze az autentikus trák ételeket egy festői környezetben."
+          },
+          {
+            "name": "Görög kávé",
+            "tip": "Lassan, forró homokon főzve egy 'hovoli'-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kariokes",
+            "tip": "Încercați acest faimos deliciu local de ciocolată și nuci."
+          },
+          {
+            "name": "Soutzouk Loukoum",
+            "tip": "O dulceață tradițională făcută din melasă și nuci."
+          },
+          {
+            "name": "Tavernă în Orașul Vechi",
+            "tip": "Savurați mâncăruri tracice autentice într-un cadru pitoresc."
+          },
+          {
+            "name": "Cafea grecească",
+            "tip": "Preparată lent pe nisip fierbinte într-un 'hovoli'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kariokes",
+            "tip": "Try this famous local chocolate and nut treat."
+          },
+          {
+            "name": "Soutzouk Loukoum",
+            "tip": "A traditional sweet made from molasses and nuts."
+          },
+          {
+            "name": "Taverna in the Old Town",
+            "tip": "Enjoy authentic Thracian dishes in a picturesque setting."
+          },
+          {
+            "name": "Greek Coffee",
+            "tip": "Slowly brewed on hot sand in a 'hovoli'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gassen der Altstadt",
+            "tip": "Finden Sie frühmorgens eine ruhige Ecke, bevor die Menschenmassen eintreffen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirche Agios Georgios",
+            "tip": "Ein Moment der stillen Besinnung in diesem spirituellen Ort.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Flussufer des Kosynthos",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt für etwas Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Óváros sikátorai",
+            "tip": "Találjon egy csendes zugot kora reggel, mielőtt a tömeg megérkezik.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent György-templom",
+            "tip": "Egy csendes elmélkedés pillanata ezen a spirituális helyen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kosynthos folyó partja",
+            "tip": "Egy rövid séta a központtól egy kis természetért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aleile din Orașul Vechi",
+            "tip": "Găsiți un colț liniștit dimineața devreme, înainte de sosirea mulțimilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Agios Georgios",
+            "tip": "Un moment de reflecție tăcută în acest loc spiritual.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul râului Kosynthos",
+            "tip": "O scurtă plimbare de la centru pentru puțină natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alleys of the Old Town",
+            "tip": "Find a quiet corner early in the morning before the crowds arrive.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Agios Georgios Church",
+            "tip": "A moment of quiet contemplation in this spiritual place.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kosynthos Riverbank",
+            "tip": "A short walk from the center for a bit of nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Basar von Xanthi",
+            "tip": "Finden Sie alles von Gewürzen über Textilien bis hin zu lokalen Käsesorten."
+          },
+          {
+            "name": "Süßwarenläden",
+            "tip": "Kaufen Sie Kariokes und Soutzouk Loukoum als süßes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Xanthi bazárja",
+            "tip": "Találjon meg mindent a fűszerektől a textilekig és a helyi sajtokig."
+          },
+          {
+            "name": "Cukrászdák",
+            "tip": "Vásároljon Kariokes-t és Soutzouk Loukoum-ot édes emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul din Xanthi",
+            "tip": "Găsiți de toate, de la condimente la textile și brânzeturi locale."
+          },
+          {
+            "name": "Cofetării",
+            "tip": "Cumpărați Kariokes și Soutzouk Loukoum ca un suvenir dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Xanthi Bazaar",
+            "tip": "Find everything from spices to textiles and local cheeses."
+          },
+          {
+            "name": "Pastry Shops",
+            "tip": "Buy some Kariokes and Soutzouk Loukoum for a sweet souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt Kopfsteinpflaster hat.",
+          "Der Hauptbasar findet jeden Samstag statt und ist am lebhaftesten.",
+          "Die meisten Museen sind montags geschlossen, planen Sie entsprechend.",
+          "Halten Sie Bargeld für kleinere Einkäufe im Basar bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskaköves.",
+          "A fő bazár minden szombaton van, ekkor a legélénkebb.",
+          "A legtöbb múzeum hétfőn zárva tart, tervezzen ennek megfelelően.",
+          "Tartson magánál készpénzt a bazárban történő kisebb vásárlásokhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece Orașul Vechi are pavaj.",
+          "Bazarul principal are loc în fiecare sâmbătă și este cel mai animat.",
+          "Majoritatea muzeelor sunt închise lunea, planificați-vă în consecință.",
+          "Aveți numerar la îndemână pentru cumpărături mici în bazar."
+        ],
+        "en": [
+          "Wear comfortable shoes as the Old Town is cobbled.",
+          "The main bazaar happens every Saturday and is the most vibrant.",
+          "Most museums are closed on Mondays, so plan accordingly.",
+          "Keep cash on hand for small purchases at the bazaar."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plateia Dimokratias",
+            "hu": "Dimokratias tér",
+            "ro": "Piața Dimokratias",
+            "en": "Dimokratias Square"
+          },
+          "coords": [
+            24.8885,
+            41.1365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekter Ausgangspunkt, um das Fahrrad zu überprüfen, bevor es losgeht.",
+            "hu": "Tökéletes kiindulópont a kerékpár ellenőrzéséhez indulás előtt.",
+            "ro": "Punct de plecare perfect pentru a verifica bicicleta înainte de a porni.",
+            "en": "Perfect starting point to check your bike before setting off."
+          }
+        },
+        {
+          "name": {
+            "de": "Tabakmuseum",
+            "hu": "Dohánymúzeum",
+            "ro": "Muzeul Tutunului",
+            "en": "Tobacco Museum"
+          },
+          "coords": [
+            24.894,
+            41.132
+          ],
+          "category": "museums",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie die Geschichte des Tabaks erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárt, amíg felfedezi a dohány történetét.",
+            "ro": "Legați-vă bicicleta în siguranță în timp ce explorați istoria tutunului.",
+            "en": "Lock your bike securely while you explore the history of tobacco."
+          }
+        },
+        {
+          "name": {
+            "de": "Basar von Xanthi",
+            "hu": "Xanthi bazárja",
+            "ro": "Bazarul din Xanthi",
+            "en": "Xanthi Bazaar"
+          },
+          "coords": [
+            24.888,
+            41.135
+          ],
+          "category": "market",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad durch die belebten Gänge, um die Atmosphäre aufzusaugen.",
+            "hu": "Tolja a kerékpárt a nyüzsgő folyosókon, hogy magába szívja a hangulatot.",
+            "ro": "Împingeți bicicleta pe culoarele aglomerate pentru a absorbi atmosfera.",
+            "en": "Push your bike through the busy aisles to soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Xanthi",
+            "hu": "Xanthi óvárosa",
+            "ro": "Orașul vechi din Xanthi",
+            "en": "Old Town of Xanthi"
+          },
+          "coords": [
+            24.886,
+            41.141
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:06",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Radfahren ist hier eine Herausforderung. Besser absteigen und zu Fuß erkunden.",
+            "hu": "Itt a biciklizés kihívást jelent. Jobb leszállni és gyalog felfedezni.",
+            "ro": "Ciclismul este o provocare aici. Mai bine descălecați și explorați pe jos.",
+            "en": "Cycling is challenging here. Better to dismount and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            24.8855,
+            41.1425
+          ],
+          "category": "museums",
+          "arrive_at": "14:09",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Im Herzen der Altstadt, leicht zu Fuß vom Mittagessen zu erreichen.",
+            "hu": "Az Óváros szívében, ebéd után könnyen elérhető gyalog.",
+            "ro": "În inima Orașului Vechi, ușor de ajuns pe jos după prânz.",
+            "en": "In the heart of the Old Town, an easy walk after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt in Richtung Nestos-Schlucht",
+            "hu": "Kerékpárút a Nestos-szurdok felé",
+            "ro": "Plimbare spre Cheile Nestos",
+            "en": "Ride towards Nestos Gorge"
+          },
+          "coords": [
+            24.84,
+            41.11
+          ],
+          "category": "natural features",
+          "arrive_at": "16:14",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Landschaft auf dem Weg aus der Stadt.",
+            "hu": "Élvezze a tájat a városból kifelé vezető úton.",
+            "ro": "Bucurați-vă de peisaj la ieșirea din oraș.",
+            "en": "Enjoy the scenery on the way out of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Xanthi beginnt am zentralen Dimokratias-Platz. Von hier aus radeln Sie zum faszinierenden Tabakmuseum, um in die industrielle Vergangenheit der Stadt einzutauchen. Der Vormittag führt Sie weiter zum belebten Samstagsbasar. Stellen Sie Ihr Fahrrad ab und schlendern Sie durch die Stände, um die lokale Atmosphäre zu erleben.\nUm die Mittagszeit geht es in die Altstadt. Da die engen Gassen für Fahrräder ungeeignet sind, erkunden Sie diesen Bereich am besten zu Fuß. Genießen Sie ein Mittagessen in einer Taverne und besuchen Sie anschließend das Volkskundemuseum, das sich mitten in diesem historischen Viertel befindet. Dies bietet eine willkommene Pause und kulturelle Bereicherung.\nAm Nachmittag schwingen Sie sich wieder auf Ihr Fahrrad für eine längere Tour aus der Stadt heraus. Die Route führt Sie in Richtung der atemberaubenden Nestos-Schlucht. Obwohl Sie die Schlucht selbst nicht vollständig mit dem Fahrrad erkunden können, bietet die Fahrt dorthin herrliche Ausblicke auf die thrakische Landschaft und eine erfrischende Abwechslung zum städtischen Trubel.\nZum Abschluss des Tages radeln Sie zurück ins Stadtzentrum. Die untergehende Sonne taucht die Dächer von Xanthi in ein warmes Licht. Belohnen Sie sich mit einem herzhaften Abendessen und lassen Sie die Eindrücke des Tages, eine Mischung aus städtischer Kultur und natürlicher Schönheit, Revue passieren.",
+        "hu": "Xanthi kerékpártúrája a központi Dimokratias téren kezdődik. Innen tekerjen el a lenyűgöző Dohánymúzeumhoz, hogy elmerüljön a város ipari múltjában. A délelőtt a nyüzsgő szombati bazárhoz vezet. Parkolja le a kerékpárt, és sétáljon végig a standokon, hogy megtapasztalja a helyi hangulatot.\nDél körül irány az Óváros. Mivel a szűk utcák nem alkalmasak kerékpározásra, ezt a területet a legjobb gyalog felfedezni. Ebédeljen meg egy tavernában, majd látogasson el a Néprajzi Múzeumba, amely a történelmi negyed szívében található. Ez kellemes pihenést és kulturális feltöltődést kínál.\nDélután ismét kerékpárra pattan egy hosszabb, városból kivezető túrára. Az útvonal a lélegzetelállító Nestos-szurdok felé vezet. Bár magát a szurdokot nem tudja teljesen bejárni kerékpárral, az odavezető út csodálatos kilátást nyújt a trák tájra, és felüdítő változatosságot kínál a városi forgatag után.\nA nap végén tekerjen vissza a városközpontba. A lemenő nap meleg fénybe borítja Xanthi háztetőit. Jutalmazza meg magát egy kiadós vacsorával, és idézze fel a nap benyomásait, a városi kultúra és a természeti szépség keverékét.",
+        "ro": "Turul pe bicicletă al orașului Xanthi începe în Piața centrală Dimokratias. De aici, pedalați spre fascinantul Muzeu al Tutunului pentru a vă cufunda în trecutul industrial al orașului. Dimineața vă duce mai departe la vibrantul bazar de sâmbătă. Parcați-vă bicicleta și plimbați-vă printre tarabe pentru a experimenta atmosfera locală.\nÎn jurul prânzului, vă îndreptați spre Orașul Vechi. Deoarece străduțele înguste nu sunt potrivite pentru biciclete, cel mai bine este să explorați această zonă pe jos. Bucurați-vă de un prânz la o tavernă și apoi vizitați Muzeul de Folclor, situat chiar în inima acestui cartier istoric. Acest lucru oferă o pauză binevenită și o îmbogățire culturală.\nDupă-amiaza, urcați din nou pe bicicletă pentru un tur mai lung în afara orașului. Traseul vă duce spre uimitoarele Chei ale Nestosului. Deși nu puteți explora complet cheile cu bicicleta, drumul până acolo oferă priveliști magnifice asupra peisajului tracic și o schimbare revigorantă față de agitația urbană.\nLa finalul zilei, pedalați înapoi spre centrul orașului. Soarele la apus scaldă acoperișurile din Xanthi într-o lumină caldă. Răsplătiți-vă cu o cină consistentă și rememorați impresiile zilei, un amestec de cultură urbană și frumusețe naturală.",
+        "en": "Your cycling tour of Xanthi begins at the central Dimokratias Square. From here, pedal to the fascinating Tobacco Museum to immerse yourself in the city's industrial past. The morning takes you further to the vibrant Saturday bazaar. Park your bike and stroll through the stalls to experience the local atmosphere.\nAround noon, head to the Old Town. As the narrow streets are unsuitable for bicycles, it is best to explore this area on foot. Enjoy lunch at a taverna and then visit the Folklore Museum, located in the heart of this historic district. This provides a welcome break and cultural enrichment.\nIn the afternoon, get back on your bike for a longer tour out of the city. The route takes you towards the breathtaking Nestos Gorge. Although you cannot fully explore the gorge itself by bike, the ride there offers magnificent views of the Thracian landscape and a refreshing change from the urban hustle.\nAt the end of the day, pedal back to the city center. The setting sun bathes the roofs of Xanthi in a warm light. Reward yourself with a hearty dinner and reflect on the day's impressions, a mixture of urban culture and natural beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Tanken Sie Energie mit einem herzhaften Käsekuchen (Tiropita)."
+          },
+          {
+            "name": "Frappé an einem Kafenio",
+            "tip": "Der klassische griechische Eiskaffee für eine Nachmittagspause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Töltődjön fel energiával egy kiadós sajtos pitével (Tiropita)."
+          },
+          {
+            "name": "Frappé egy Kafenio-ban",
+            "tip": "A klasszikus görög jegeskávé egy délutáni szünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Realimentați-vă cu o plăcintă cu brânză consistentă (Tiropita)."
+          },
+          {
+            "name": "Frappé la o kafenio",
+            "tip": "Clasica cafea cu gheață grecească pentru o pauză de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Fuel up with a hearty cheese pie (Tiropita)."
+          },
+          {
+            "name": "Frappé at a Kafenio",
+            "tip": "The classic Greek iced coffee for an afternoon break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Am Ufer des Nestos",
+            "tip": "Ein ruhiger Moment, um dem Wasser zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Innenhöfe der Altstadt",
+            "tip": "Entdecken Sie kleine, friedliche Oasen abseits der Hauptwege.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Nestos partján",
+            "tip": "Egy csendes pillanat a víz csobogását hallgatva.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Óváros rejtett udvarai",
+            "tip": "Fedezzen fel kis, békés oázisokat a fő utaktól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pe malul râului Nestos",
+            "tip": "Un moment de liniște ascultând susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curți ascunse în Orașul Vechi",
+            "tip": "Descoperiți mici oaze de pace departe de cărările principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Nestos River",
+            "tip": "A quiet moment listening to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden courtyards of the Old Town",
+            "tip": "Discover small, peaceful oases away from the main paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Fahrradladen",
+            "tip": "Falls Sie Ersatzteile oder Zubehör benötigen."
+          },
+          {
+            "name": "Marktstände am Basar",
+            "tip": "Kaufen Sie Honig oder Kräuter aus der Region, die leicht im Rucksack zu transportieren sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárbolt",
+            "tip": "Ha pótalkatrészekre vagy kiegészítőkre van szüksége."
+          },
+          {
+            "name": "Piaci standok a bazárban",
+            "tip": "Vásároljon helyi mézet vagy fűszernövényeket, amelyek könnyen szállíthatók a hátizsákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin local de biciclete",
+            "tip": "În caz că aveți nevoie de piese de schimb sau accesorii."
+          },
+          {
+            "name": "Tarabe la bazar",
+            "tip": "Cumpărați miere sau ierburi locale, ușor de transportat în rucsac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bike shop",
+            "tip": "In case you need any spare parts or accessories."
+          },
+          {
+            "name": "Market stalls at the bazaar",
+            "tip": "Buy some local honey or herbs that are easy to carry in a backpack."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Fahrt.",
+          "Die Straßen in der Innenstadt können belebt sein, fahren Sie vorsichtig.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Fahrt aus der Stadt."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "A belvárosi utcák forgalmasak lehetnek, vezessen óvatosan.",
+          "A sisak viselése erősen ajánlott.",
+          "Vigyen magával elegendő vizet, különösen a városból kivezető útra."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Străzile din centrul orașului pot fi aglomerate, conduceți cu prudență.",
+          "Purtarea căștii este puternic recomandată.",
+          "Luați suficientă apă, mai ales pentru drumul în afara orașului."
+        ],
+        "en": [
+          "Check your tire pressure before you ride.",
+          "Downtown streets can be busy, ride with caution.",
+          "A helmet is strongly recommended.",
+          "Bring plenty of water, especially for the ride out of town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 31.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nestos-Schlucht (Parkplatz)",
+            "hu": "Nestos-szurdok (parkoló)",
+            "ro": "Cheile Nestos (Parcare)",
+            "en": "Nestos Gorge (Parking Area)"
+          },
+          "coords": [
+            24.715,
+            41.09
+          ],
+          "category": "natural features",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 20.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einer Wanderung. Festes Schuhwerk ist ein Muss!",
+            "hu": "Kezdje a napot egy túrával. A strapabíró cipő elengedhetetlen!",
+            "ro": "Începeți ziua cu o drumeție. Încălțămintea rezistentă este obligatorie!",
+            "en": "Start the day with a hike. Sturdy footwear is a must!"
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Nestos",
+            "hu": "Nestos-kilátó",
+            "ro": "Punct de belvedere Nestos",
+            "en": "Nestos Viewpoint"
+          },
+          "coords": [
+            24.718,
+            41.092
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz für eine atemberaubende Aussicht.",
+            "hu": "Rövid séta a parkolótól a lélegzetelállító kilátásért.",
+            "ro": "O scurtă plimbare de la parcare pentru o priveliște uluitoare.",
+            "en": "A short walk from the parking lot for a breathtaking view."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken in der Nähe der Altstadt",
+            "hu": "Parkolás az Óváros közelében",
+            "ro": "Parcare lângă Orașul Vechi",
+            "en": "Parking near the Old Town"
+          },
+          "coords": [
+            24.883,
+            41.145
+          ],
+          "category": "transport",
+          "arrive_at": "12:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 11.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto hier stehen, um das historische Zentrum zu Fuß zu erkunden.",
+            "hu": "Hagyja itt az autót, és fedezze fel a történelmi központot gyalog.",
+            "ro": "Lăsați mașina aici pentru a explora centrul istoric pe jos.",
+            "en": "Leave the car here to explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Xanthi & Mittagessen",
+            "hu": "Xanthi óvárosa és ebéd",
+            "ro": "Orașul vechi din Xanthi și prânz",
+            "en": "Old Town of Xanthi & Lunch"
+          },
+          "coords": [
+            24.886,
+            41.141
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen in einer Taverne, bevor Sie die Gassen erkunden.",
+            "hu": "Ebédeljen egy tavernában, mielőtt felfedezné a sikátorokat.",
+            "ro": "Bucurați-vă de prânz la o tavernă înainte de a explora aleile.",
+            "en": "Enjoy lunch at a taverna before exploring the alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            24.8855,
+            41.1425
+          ],
+          "category": "museums",
+          "arrive_at": "14:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt in der Altstadt, perfekt für nach dem Mittagessen.",
+            "hu": "Közvetlenül az Óvárosban, tökéletes ebéd utáni program.",
+            "ro": "Chiar în Orașul Vechi, perfect pentru după prânz.",
+            "en": "Right in the Old Town, perfect for after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm & Plateia Dimokratias",
+            "hu": "Óratorony és Dimokratias tér",
+            "ro": "Turnul cu Ceas și Piața Dimokratias",
+            "en": "Clock Tower & Dimokratias Square"
+          },
+          "coords": [
+            24.8885,
+            41.1365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:02",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie ins moderne Zentrum zurück, um den Kontrast zu erleben.",
+            "hu": "Térjen vissza a modern központba, hogy megtapasztalja a kontrasztot.",
+            "ro": "Întoarceți-vă în centrul modern pentru a experimenta contrastul.",
+            "en": "Return to the modern center to experience the contrast."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Nähe des Basars",
+            "hu": "Vacsora a bazár közelében",
+            "ro": "Cină lângă Bazar",
+            "en": "Dinner near the Bazaar"
+          },
+          "coords": [
+            24.888,
+            41.135
+          ],
+          "category": "gastro",
+          "arrive_at": "16:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Festmahl in der Nähe des geschäftigen Herzens der Stadt.",
+            "hu": "Zárja a napot egy lakomával a város nyüzsgő szívének közelében.",
+            "ro": "Încheiați ziua cu un festin lângă inima plină de viață a orașului.",
+            "en": "End the day with a feast near the city's bustling heart."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Fahrt aus der Stadt zur beeindruckenden Nestos-Schlucht. Nach dem Parken widmen Sie den Vormittag einer Wanderung entlang der Pfade und genießen die spektakuläre Aussicht. Dies ist der perfekte Start, um in die Naturwunder der Region einzutauchen.\nNach dem Naturerlebnis fahren Sie zurück nach Xanthi und parken in der Nähe der Altstadt. Der Rest des Tages ist eine fußläufige Erkundung. Gönnen Sie sich ein Mittagessen in einer traditionellen Taverne und tauchen Sie dann in die osmanische Atmosphäre der Gassen ein. Anschließend besuchen Sie das Volkskundemuseum, um mehr über die lokale Kultur zu erfahren.\nAm späten Nachmittag schlendern Sie vom historischen Kern zum modernen Zentrum und besuchen den Uhrturm und die Plateia Dimokratias. Dieser Spaziergang zeigt den faszinierenden Kontrast zwischen dem alten und dem neuen Xanthi. Es ist eine gute Gelegenheit, das städtische Leben zu beobachten.\nDer Tag endet mit einem gemütlichen Spaziergang zu einem Restaurant in der Nähe des Basarviertels. Nachdem Sie zu Ihrem Auto zurückgekehrt sind, haben Sie einen Tag voller Kontraste erlebt: von der wilden Schönheit der Nestos-Schlucht bis zum reichen kulturellen Gefüge von Xanthi.",
+        "hu": "A nap egy autóúttal kezdődik a városból a lenyűgöző Nestos-szurdokhoz. A parkolás után a délelőttöt túrázással tölti az ösvényeken, és élvezi a látványos kilátást. Ez a tökéletes kezdet a régió természeti csodáinak felfedezéséhez.\nA természeti élmény után visszautazik Xanthiba, és leparkol az Óváros közelében. A nap hátralévő része gyalogos felfedezés. Ebédeljen meg egy hagyományos tavernában, majd merüljön el a sikátorok oszmán hangulatában. Ezután látogasson el a Néprajzi Múzeumba, hogy többet tudjon meg a helyi kultúráról.\nKéső délután sétáljon át a történelmi magból a modern központba, meglátogatva az Óratornyot és a Plateia Dimokratias teret. Ez a séta bemutatja az ősi és az új Xanthi közötti lenyűgöző kontrasztot. Jó alkalom a városi élet megfigyelésére.\nA nap egy kellemes sétával zárul egy, a bazár negyedéhez közeli étteremig. Miután visszatért az autójához, egy kontrasztokkal teli napot élt át: a Nestos-szurdok vad szépségétől Xanthi gazdag kulturális szövetéig.",
+        "ro": "Ziua dvs. începe cu o călătorie cu mașina în afara orașului, spre impresionantele Chei ale Nestosului. După parcare, dedicați dimineața unei drumeții pe poteci, bucurându-vă de priveliștile spectaculoase. Acesta este începutul perfect pentru a vă cufunda în minunile naturale ale regiunii.\nDupă experiența în natură, vă întoarceți cu mașina în Xanthi și parcați lângă Orașul Vechi. Restul zilei este o explorare pe jos. Bucurați-vă de un prânz la o tavernă tradițională, apoi cufundați-vă în atmosfera otomană a aleilor. Apoi, vizitați Muzeul de Folclor pentru a afla mai multe despre cultura locală.\nSpre sfârșitul după-amiezii, plimbați-vă de la nucleul istoric la centrul modern, vizitând Turnul cu Ceas și Piața Dimokratias. Această plimbare arată contrastul fascinant dintre vechiul și noul Xanthi. Este o ocazie bună de a observa viața urbană.\nZiua se încheie cu o plimbare relaxată la un restaurant de lângă zona bazarului. După ce vă întoarceți la mașină, veți fi experimentat o zi plină de contraste: de la frumusețea sălbatică a Cheilor Nestosului la bogata țesătură culturală a orașului Xanthi.",
+        "en": "Your day begins with a drive out of the city to the stunning Nestos Gorge. After parking, you'll dedicate the morning to hiking along the trails, enjoying the spectacular views. This is the perfect start to immerse yourself in the region's natural wonders.\nAfter the nature experience, you drive back to Xanthi and park near the Old Town. The rest of the day is a walking exploration. Enjoy lunch at a traditional taverna, then immerse yourself in the Ottoman atmosphere of the alleys. Afterwards, visit the Folklore Museum to learn more about the local culture.\nIn the late afternoon, stroll from the historic core to the modern center, visiting the Clock Tower and Dimokratias Square. This walk showcases the fascinating contrast between ancient and new Xanthi. It's a good opportunity to observe urban life.\nThe day concludes with a leisurely walk to a restaurant near the bazaar district. After returning to your car, you'll have experienced a day full of contrasts: from the wild beauty of the Nestos Gorge to the rich cultural fabric of Xanthi."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverne in der Altstadt",
+            "tip": "Probieren Sie gegrilltes Fleisch und lokale Salate."
+          },
+          {
+            "name": "Picknick an der Nestos-Schlucht",
+            "tip": "Packen Sie ein Mittagessen ein, um es in der Natur zu genießen."
+          },
+          {
+            "name": "Kariokes zum Mitnehmen",
+            "tip": "Das perfekte süße Souvenir von Ihrem Tagesausflug."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taverna az Óvárosban",
+            "tip": "Kóstoljon grillezett húsokat és helyi salátákat."
+          },
+          {
+            "name": "Piknik a Nestos-szurdoknál",
+            "tip": "Csomagoljon ebédet, amit a természetben fogyaszthat el."
+          },
+          {
+            "name": "Elvihető Kariokes",
+            "tip": "A tökéletes édes ajándék a napos kirándulásról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavernă în Orașul Vechi",
+            "tip": "Încercați carne la grătar și salate locale."
+          },
+          {
+            "name": "Picnic la Cheile Nestos",
+            "tip": "Împachetați un prânz pentru a-l savura în natură."
+          },
+          {
+            "name": "Kariokes la pachet",
+            "tip": "Suvenirul dulce perfect de la excursia de o zi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taverna in the Old Town",
+            "tip": "Try grilled meats and local salads."
+          },
+          {
+            "name": "Picnic at Nestos Gorge",
+            "tip": "Pack a lunch to enjoy surrounded by nature."
+          },
+          {
+            "name": "Kariokes to go",
+            "tip": "The perfect sweet souvenir from your day trip."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wanderwege der Nestos-Schlucht",
+            "tip": "Finden Sie absolute Stille abseits der Hauptaussichtspunkte.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine ruhige Gasse in der Altstadt",
+            "tip": "Entfliehen Sie dem Trubel in einem der weniger besuchten Bereiche.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Nestos-szurdok túraútvonalai",
+            "tip": "Találjon abszolút csendet a fő kilátópontoktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendes sikátor az Óvárosban",
+            "tip": "Meneküljön el a nyüzsgés elől az egyik kevésbé látogatott területen.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecile de drumeție din Cheile Nestos",
+            "tip": "Găsiți liniște absolută departe de principalele puncte de belvedere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O alee liniștită în Orașul Vechi",
+            "tip": "Evadați din agitație într-una dintre zonele mai puțin vizitate.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hiking trails of Nestos Gorge",
+            "tip": "Find absolute tranquility away from the main viewpoints.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet alley in the Old Town",
+            "tip": "Escape the hustle and bustle in one of the less-visited areas.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Altstadt",
+            "tip": "Finden Sie handgefertigten Schmuck und Keramik."
+          },
+          {
+            "name": "Lokale Produkte im Basar",
+            "tip": "Kaufen Sie Olivenöl und Kräuter direkt von den Erzeugern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok az Óvárosban",
+            "tip": "Találjon kézzel készített ékszereket és kerámiákat."
+          },
+          {
+            "name": "Helyi termékek a bazárban",
+            "tip": "Vásároljon olívaolajat és fűszernövényeket közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Orașul Vechi",
+            "tip": "Găsiți bijuterii și ceramică artizanală."
+          },
+          {
+            "name": "Produse locale în bazar",
+            "tip": "Cumpărați ulei de măsline și ierburi direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops in the Old Town",
+            "tip": "Find handmade jewelry and ceramics."
+          },
+          {
+            "name": "Local produce at the bazaar",
+            "tip": "Buy olive oil and herbs directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten für die Nestos-Schlucht-Wege.",
+          "Parken in der Innenstadt kann schwierig sein; nutzen Sie ausgewiesene Parkplätze.",
+          "Kombinieren Sie Ihren Besuch mit einem nahegelegenen Weingut, wenn die Zeit es erlaubt.",
+          "Die Straßen in die Berge können eng und kurvig sein."
+        ],
+        "hu": [
+          "Ellenőrizze a Nestos-szurdok ösvényeinek nyitvatartási idejét.",
+          "A belvárosi parkolás nehézkes lehet; használja a kijelölt parkolókat.",
+          "Ha ideje engedi, kombinálja a látogatást egy közeli borászattal.",
+          "A hegyekbe vezető utak szűkek és kanyargósak lehetnek."
+        ],
+        "ro": [
+          "Verificați programul de funcționare pentru potecile din Cheile Nestos.",
+          "Parcarea în centrul orașului poate fi dificilă; folosiți parcările desemnate.",
+          "Combinați vizita cu o cramă din apropiere, dacă timpul vă permite.",
+          "Drumurile spre munți pot fi înguste și sinuoase."
+        ],
+        "en": [
+          "Check opening hours for the Nestos Gorge trails.",
+          "Parking downtown can be difficult; use designated parking areas.",
+          "Combine your visit with a nearby winery if time permits.",
+          "Roads into the mountains can be narrow and winding."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszpályaudvar",
+            "ro": "Autogara Centrală",
+            "en": "Central Bus Station"
+          },
+          "coords": [
+            24.896,
+            41.131
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zur Haltestelle 'Dimokratias'.",
+            "hu": "Szálljon fel a 'Dimokratias' megállóig tartó buszra.",
+            "ro": "Luați autobuzul până la stația 'Dimokratias'.",
+            "en": "Take the bus to the 'Dimokratias' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Plateia Dimokratias",
+            "hu": "Dimokratias tér",
+            "ro": "Piața Dimokratias",
+            "en": "Dimokratias Square"
+          },
+          "coords": [
+            24.8885,
+            41.1365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der erste Cluster beginnt hier. Erkunden Sie die Umgebung zu Fuß.",
+            "hu": "Az első klaszter itt kezdődik. Fedezze fel a környéket gyalog.",
+            "ro": "Primul cluster începe aici. Explorați zona pe jos.",
+            "en": "The first cluster starts here. Explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Basar von Xanthi",
+            "hu": "Xanthi bazárja",
+            "ro": "Bazarul din Xanthi",
+            "en": "Xanthi Bazaar"
+          },
+          "coords": [
+            24.888,
+            41.135
+          ],
+          "category": "market",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz. Tauchen Sie ein in die Klänge und Gerüche.",
+            "hu": "Rövid séta a tértől. Merüljön el a hangokban és illatokban.",
+            "ro": "O scurtă plimbare din piață. Cufundați-vă în sunete și mirosuri.",
+            "en": "A short walk from the square. Immerse yourself in the sounds and smells."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zur Altstadt",
+            "hu": "Busz az Óvárosba",
+            "ro": "Autobuz spre Orașul Vechi",
+            "en": "Bus to the Old Town"
+          },
+          "coords": [
+            24.887,
+            41.138
+          ],
+          "category": "transport",
+          "arrive_at": "11:35",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der Sie näher an den oberen Teil der Altstadt bringt.",
+            "hu": "Szálljon fel egy buszra, amely közelebb visz az Óváros felső részéhez.",
+            "ro": "Luați un autobuz care vă duce mai aproape de partea superioară a Orașului Vechi.",
+            "en": "Take a bus to get closer to the upper part of the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt & Volkskundemuseum",
+            "hu": "Óváros és Néprajzi Múzeum",
+            "ro": "Orașul Vechi și Muzeul de Folclor",
+            "en": "Old Town & Folklore Museum"
+          },
+          "coords": [
+            24.8855,
+            41.1425
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen Cluster zu Fuß, einschließlich Mittagessen und Museumsbesuch.",
+            "hu": "Fedezze fel ezt a klasztert gyalog, beleértve az ebédet és a múzeumlátogatást.",
+            "ro": "Explorați acest cluster pe jos, inclusiv prânzul și vizita la muzeu.",
+            "en": "Explore this cluster on foot, including lunch and the museum visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Xanthi",
+            "hu": "Xanthi óratornya",
+            "ro": "Turnul cu ceas din Xanthi",
+            "en": "Xanthi Clock Tower"
+          },
+          "coords": [
+            24.8892,
+            41.1378
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auf dem Weg zurück zur Bushaltestelle, ein kurzer Halt bei diesem Wahrzeichen.",
+            "hu": "Visszafelé a buszmegállóhoz, egy rövid megálló ennél a jelképnél.",
+            "ro": "În drum spre stația de autobuz, o scurtă oprire la acest punct de reper.",
+            "en": "On your way back to the bus stop, a quick stop at this landmark."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am zentralen Busbahnhof, von wo aus Sie einen Bus zum Dimokratias-Platz nehmen. Dies ist Ihr erster Cluster. Am Vormittag erkunden Sie das geschäftige Zentrum rund um den Platz und den lebhaften Samstagsbasar zu Fuß. Hier können Sie das lokale Leben aufsaugen und vielleicht ein paar Souvenirs finden.\nUm die Mittagszeit nehmen Sie einen weiteren Bus, der Sie zum oberen Teil der Altstadt bringt, Ihrem zweiten Cluster. Die engen Gassen und die historische Architektur erkunden Sie am besten zu Fuß. Suchen Sie sich eine gemütliche Taverne zum Mittagessen und besuchen Sie anschließend das Volkskundemuseum, das sich in einem wunderschönen Herrenhaus befindet.\nAm Nachmittag schlendern Sie durch die restlichen Gassen der Altstadt und machen sich langsam auf den Rückweg. Unterwegs legen Sie einen Halt am berühmten Uhrturm ein, einem Symbol der Stadt. Der Spaziergang bergab zurück in Richtung des moderneren Stadtteils bietet neue Perspektiven.\nDer Tag endet mit der Rückfahrt mit dem Bus vom Stadtzentrum zum Ausgangspunkt. Diese Tour kombiniert die Effizienz des öffentlichen Nahverkehrs mit der Freude am Entdecken zu Fuß und ermöglicht es Ihnen, zwei unterschiedliche, aber gleichermaßen faszinierende Viertel von Xanthi an einem Tag zu erleben.",
+        "hu": "A nap a központi buszpályaudvaron kezdődik, ahonnan busszal jut el a Dimokratias térre. Ez az első klaszter. Délelőtt gyalog fedezi fel a tér körüli nyüzsgő központot és az élénk szombati bazárt. Itt magába szívhatja a helyi életet, és talán talál néhány ajándéktárgyat.\nDél körül egy másik buszra száll, amely az Óváros felső részébe viszi, a második klaszterbe. A szűk utcákat és a történelmi építészetet a legjobb gyalog felfedezni. Keressen egy hangulatos tavernát ebédre, majd látogasson el a Néprajzi Múzeumba, amely egy gyönyörű kúriában található.\nDélután sétáljon végig az Óváros többi sikátorán, és lassan induljon vissza. Útközben álljon meg a híres Óratoronynál, a város jelképénél. A lejtőn lefelé vezető séta a modernebb városrész felé új perspektívákat kínál.\nA nap a városközpontból a kiindulási pontra való buszozással zárul. Ez a túra ötvözi a tömegközlekedés hatékonyságát a gyalogos felfedezés örömével, lehetővé téve, hogy egy nap alatt két különböző, de egyformán lenyűgöző negyedét ismerje meg Xanthinak.",
+        "ro": "Ziua dvs. începe la autogara centrală, de unde luați un autobuz spre Piața Dimokratias. Acesta este primul dvs. cluster. Dimineața, explorați pe jos centrul plin de viață din jurul pieței și vibrantul bazar de sâmbătă. Aici puteți absorbi viața locală și poate găsi câteva suveniruri.\nÎn jurul prânzului, luați un alt autobuz care vă duce în partea superioară a Orașului Vechi, al doilea dvs. cluster. Cel mai bun mod de a explora străduțele înguste și arhitectura istorică este pe jos. Găsiți o tavernă primitoare pentru prânz și apoi vizitați Muzeul de Folclor, găzduit într-un conac frumos.\nDupă-amiaza, plimbați-vă prin restul aleilor din Orașul Vechi, pornind încet înapoi. Pe drum, faceți o oprire la faimosul Turn cu Ceas, un simbol al orașului. Plimbarea la vale, înapoi spre cartierul mai modern, oferă noi perspective.\nZiua se încheie cu călătoria cu autobuzul din centrul orașului înapoi la punctul de plecare. Acest tur combină eficiența transportului public cu bucuria de a explora pe jos, permițându-vă să experimentați două cartiere distincte, dar la fel de fascinante, ale orașului Xanthi într-o singură zi.",
+        "en": "Your day starts at the central bus station, where you take a bus to Dimokratias Square. This is your first cluster. In the morning, you explore the bustling center around the square and the vibrant Saturday bazaar on foot. Here you can soak up the local life and perhaps find some souvenirs.\nAround noon, you take another bus that takes you to the upper part of the Old Town, your second cluster. The narrow streets and historic architecture are best explored on foot. Find a cozy taverna for lunch and then visit the Folklore Museum, housed in a beautiful mansion.\nIn the afternoon, wander through the remaining alleys of the Old Town, slowly making your way back. On the way, you stop at the famous Clock Tower, a symbol of the city. The walk downhill back towards the more modern district offers new perspectives.\nThe day ends with the bus ride from the city center back to your starting point. This tour combines the efficiency of public transport with the joy of exploring on foot, allowing you to experience two distinct but equally fascinating neighborhoods of Xanthi in one day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bougatsa-Laden",
+            "tip": "Ein perfektes Frühstück oder ein Snack für unterwegs."
+          },
+          {
+            "name": "Taverne in der Altstadt",
+            "tip": "Genießen Sie ein authentisches Mittagessen abseits der Touristenpfade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bougatsa bolt",
+            "tip": "Tökéletes reggeli vagy útközbeni harapnivaló."
+          },
+          {
+            "name": "Taverna az Óvárosban",
+            "tip": "Élvezze az autentikus ebédet a turistaútvonalaktól távol."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de Bougatsa",
+            "tip": "Un mic dejun perfect sau o gustare la pachet."
+          },
+          {
+            "name": "Tavernă în Orașul Vechi",
+            "tip": "Bucurați-vă de un prânz autentic departe de cărările bătătorite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bougatsa shop",
+            "tip": "A perfect breakfast or snack on the go."
+          },
+          {
+            "name": "Taverna in the Old Town",
+            "tip": "Enjoy an authentic lunch away from the tourist track."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Altstadt",
+            "tip": "Die Gassen sind ruhiger als im unteren Teil."
+          },
+          {
+            "name": "Kirche Agios Georgios",
+            "tip": "Finden Sie einen Moment der Ruhe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Felső Óváros",
+            "tip": "A sikátorok csendesebbek, mint az alsó részen."
+          },
+          {
+            "name": "Szent György-templom",
+            "tip": "Találjon egy pillanatnyi nyugalmat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Orașul Vechi de Sus",
+            "tip": "Aleile sunt mai liniștite decât în partea de jos."
+          },
+          {
+            "name": "Biserica Agios Georgios",
+            "tip": "Găsiți un moment de liniște."
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper Old Town",
+            "tip": "The alleys are quieter than in the lower part."
+          },
+          {
+            "name": "Agios Georgios Church",
+            "tip": "Find a moment of peace."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Basar",
+            "tip": "Kaufen Sie lokale Gewürze und Oliven."
+          },
+          {
+            "name": "Kleine Läden in der Altstadt",
+            "tip": "Stöbern Sie nach einzigartigen handgefertigten Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bazár",
+            "tip": "Vásároljon helyi fűszereket és olajbogyót."
+          },
+          {
+            "name": "Kis boltok az Óvárosban",
+            "tip": "Böngésszen egyedi kézműves termékek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazar",
+            "tip": "Cumpărați condimente locale și măsline."
+          },
+          {
+            "name": "Mici magazine în Orașul Vechi",
+            "tip": "Căutați produse artizanale unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bazaar",
+            "tip": "Buy local spices and olives."
+          },
+          {
+            "name": "Small shops in the Old Town",
+            "tip": "Browse for unique handmade goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders am Wochenende.",
+          "Beachten Sie, dass Busse möglicherweise nicht immer pünktlich sind.",
+          "Haben Sie das Ziel für den Busfahrer klar, falls Sie unsicher sind."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén.",
+          "Vegye figyelembe, hogy a buszok nem mindig pontosak.",
+          "Ha bizonytalan, mondja meg egyértelműen a célállomást a buszsofőrnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Rețineți că autobuzele s-ar putea să nu fie întotdeauna la timp.",
+          "Spuneți clar destinația șoferului de autobuz dacă sunteți nesigur."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "Be aware that buses may not always be on time.",
+          "Have your destination clear for the bus driver if you are unsure."
+        ]
+      }
+    }
+  }
+}

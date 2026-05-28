@@ -1,0 +1,1463 @@
+{
+  "city_id": "sweden-karlskrona-cities-v2",
+  "anchor": {
+    "name": "Karlskrona",
+    "coords": [
+      15.5869,
+      56.1612
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fredrikskirche",
+            "hu": "Fredrik-templom",
+            "ro": "Biserica Fredrik",
+            "en": "Fredrik's Church"
+          },
+          "coords": [
+            15.587,
+            56.1615
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Pracht und die beeindruckenden Orgelpfeifen.",
+            "hu": "Csodálja meg a barokk pompát és a lenyűgöző orgonasípokat.",
+            "ro": "Admirați splendoarea barocă și tuburile impresionante ale orgii.",
+            "en": "Admire the Baroque splendor and the impressive organ pipes."
+          }
+        },
+        {
+          "name": {
+            "de": "Admiralitätskirche (Ulrica Pia)",
+            "hu": "Admiralitás-templom (Ulrica Pia)",
+            "ro": "Biserica Amiralității (Ulrica Pia)",
+            "en": "Admiralty Church (Ulrica Pia)"
+          },
+          "coords": [
+            15.595,
+            56.16
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Achten Sie auf die berühmte Holzfigur von Rosenbom vor der Kirche.",
+            "hu": "Keresse meg a híres Rosenbom fafigurát a templom előtt.",
+            "ro": "Căutați faimoasa figurină de lemn a lui Rosenbom în fața bisericii.",
+            "en": "Look for the famous wooden figure of Rosenbom outside the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Stumholmen & Marinemuseum",
+            "hu": "Stumholmen & Tengerészeti Múzeum",
+            "ro": "Stumholmen & Muzeul Marinei",
+            "en": "Stumholmen & Naval Museum"
+          },
+          "coords": [
+            15.596,
+            56.163
+          ],
+          "category": "museums",
+          "arrive_at": "11:29",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die U-Boot-Halle und die Wasa zu besichtigen.",
+            "hu": "Szánjon elég időt a tengeralattjáró-csarnok és a Wasa kiállítás megtekintésére.",
+            "ro": "Planificați suficient timp pentru a vizita sala submarinelor și expoziția Wasa.",
+            "en": "Plan enough time to visit the submarine hall and the Wasa exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen auf Stumholmen",
+            "hu": "Ebéd Stumholmenen",
+            "ro": "Prânz pe Stumholmen",
+            "en": "Lunch on Stumholmen"
+          },
+          "coords": [
+            15.597,
+            56.162
+          ],
+          "category": "gastro",
+          "arrive_at": "13:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie frischen Fisch mit Blick auf das Wasser in einem der Inselrestaurants.",
+            "hu": "Élvezze a friss halat a vízparti kilátással az egyik szigeti étteremben.",
+            "ro": "Savurați pește proaspăt cu vedere la apă la unul dintre restaurantele de pe insulă.",
+            "en": "Enjoy fresh fish with a view of the water at one of the island's restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Brändaholm",
+            "hu": "Brändaholm",
+            "ro": "Brändaholm",
+            "en": "Brändaholm"
+          },
+          "coords": [
+            15.575,
+            56.17
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für postkartenreife Fotos der roten schwedischen Hütten.",
+            "hu": "Tökéletes hely a képeslapra illő fotókhoz a piros svéd házikókról.",
+            "ro": "Locul perfect pentru fotografii de carte poștală cu căsuțele roșii suedeze.",
+            "en": "The perfect spot for postcard-perfect photos of the red Swedish cottages."
+          }
+        },
+        {
+          "name": {
+            "de": "Kungsbron",
+            "hu": "Kungsbron híd",
+            "ro": "Podul Kungsbron",
+            "en": "Kungsbron Bridge"
+          },
+          "coords": [
+            15.592,
+            56.161
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:47",
+          "stay_min": 18,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang mit Blick auf die Hafeneinfahrt.",
+            "hu": "Élvezze a naplementét a kikötő bejáratára nyíló kilátással.",
+            "ro": "Bucurați-vă de apusul soarelui cu vedere la intrarea în port.",
+            "en": "Enjoy the sunset with a view of the harbour entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in der Marinestadt Karlskrona beginnt im Herzen der Stadt, auf der Insel Trossö. Am Morgen erkunden Sie das monumentale Zentrum mit der barocken Fredrikskirche und spazieren dann über die Brücke zur Insel Stumholmen. Hier tauchen Sie in die maritime Geschichte Schwedens ein.\nDer Mittag steht ganz im Zeichen der Seefahrt. Nach einem ausgiebigen Besuch im Marinemuseum, wo Sie von historischen Segelschiffen bis zu modernen U-Booten alles entdecken, genießen Sie ein Mittagessen mit frischem Fisch direkt am Wasser. Die frische Meeresbrise und die Aussicht auf die Schären schaffen eine einzigartige Atmosphäre.\nAm Nachmittag verlassen Sie das geschäftige Zentrum und machen einen malerischen Spaziergang zur Kolonie Brändaholm. Die ikonischen kleinen roten Holzhäuser, umgeben von gepflegten Gärten, fühlen sich an wie eine Reise in eine andere Zeit und bieten die perfekte Fotokulisse.\nZum Abschluss des Tages kehren Sie langsam ins Zentrum zurück. Sie überqueren die Kungsbron-Brücke bei Sonnenuntergang und werfen einen letzten Blick auf die glitzernde Ostsee. Ein Kaffee in einem der Cafés am Hauptplatz rundet diesen erlebnisreichen Tag ab.",
+        "hu": "Tengerészeti témájú napja Karlskronában a város szívében, a Trossö-szigeten kezdődik. Reggel fedezze fel a monumentális központot a barokk Fredrik-templommal, majd sétáljon át a hídon a Stumholmen-szigetre. Itt elmerülhet Svédország tengeri történelmében.\nA délelőtt a tengerészet jegyében telik. A Tengerészeti Múzeum alapos meglátogatása után, ahol a történelmi vitorlásoktól a modern tengeralattjárókig mindent megtalál, ebédeljen egy jót friss halból közvetlenül a vízparton. A friss tengeri szellő és a szigetvilágra nyíló kilátás egyedülálló hangulatot teremt.\nDélután elhagyja a nyüzsgő központot, és egy festői sétát tesz a Brändaholm kunyhóihoz. Az ikonikus kis vörös faházak, amelyeket ápolt kertek vesznek körül, olyan érzést keltenek, mintha egy másik korba csöppent volna, és tökéletes fotóhátteret biztosítanak.\nA nap végén lassan visszatér a központba. Naplementekor átkel a Kungsbron hídon, és vet egy utolsó pillantást a csillogó Balti-tengerre. Egy kávé a főtér egyik kávézójában teszi teljessé ezt az eseménydús napot.",
+        "ro": "Ziua dumneavoastră în orașul naval Karlskrona începe în inima orașului, pe insula Trossö. Dimineața explorați centrul monumental cu biserica barocă Fredrik, apoi traversați podul spre insula Stumholmen. Aici vă veți scufunda în istoria maritimă a Suediei.\nMiezul zilei este dedicat în întregime navigației. După o vizită extinsă la Muzeul Marinei, unde descoperiți totul, de la corăbii istorice la submarine moderne, savurați un prânz cu pește proaspăt chiar lângă apă. Briza proaspătă a mării și vederea arhipelagului creează o atmosferă unică.\nDupă-amiaza, părăsiți centrul aglomerat pentru o plimbare pitorească spre colonia Brändaholm. Căsuțele roșii iconice, înconjurate de grădini îngrijite, vă vor face să vă simțiți ca și cum ați călătorit înapoi în timp și oferă fundalul perfect pentru fotografii.\nLa finalul zilei, vă întoarceți încet spre centru. Traversați podul Kungsbron la apus și aruncați o ultimă privire spre Marea Baltică sclipitoare. O cafea la una dintre cafenelele din piața principală încheie această zi plină de evenimente.",
+        "en": "Your day in the naval city of Karlskrona begins in the heart of the city, on the island of Trossö. In the morning, you'll explore the monumental center with the Baroque Fredrik's Church, then walk across the bridge to the island of Stumholmen. Here, you'll dive into Sweden's maritime history.\nMidday is all about seafaring. After an extensive visit to the Naval Museum, where you'll discover everything from historic sailing ships to modern submarines, enjoy a lunch of fresh fish right by the water. The fresh sea breeze and the view of the archipelago create a unique atmosphere.\nIn the afternoon, you leave the bustling center for a picturesque walk to the Brändaholm colony. The iconic little red wooden houses, surrounded by well-kept gardens, feel like a journey to another time and provide the perfect photo backdrop.\nAs the day concludes, you slowly return to the center. Cross the Kungsbron bridge at sunset and take one last look at the glittering Baltic Sea. A coffee in one of the cafés on the main square perfectly rounds off this eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kroppkakor",
+            "tip": "Kartoffelklöße gefüllt mit Schweinefleisch und Zwiebeln, oft mit Preiselbeeren serviert."
+          },
+          {
+            "name": "Inlagd sill",
+            "tip": "Eingelegter Hering, ein schwedischer Klassiker, serviert mit Kartoffeln, Sauerrahm und Schnittlauch."
+          },
+          {
+            "name": "Restaurant Utkiken",
+            "tip": "Genießen Sie gehobene Küche mit Panoramablick über die Stadt vom Bryggareberget."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kroppkakor",
+            "tip": "Sertéshússal és hagymával töltött burgonyagombóc, gyakran vörösáfonyával tálalva."
+          },
+          {
+            "name": "Inlagd sill",
+            "tip": "Pácolt hering, egy svéd klasszikus, burgonyával, tejföllel és metélőhagymával tálalva."
+          },
+          {
+            "name": "Restaurant Utkiken",
+            "tip": "Élvezze a fine dining fogásokat a városra nyíló panorámás kilátással a Bryggarebergetről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kroppkakor",
+            "tip": "Găluște de cartofi umplute cu carne de porc și ceapă, adesea servite cu merișoare."
+          },
+          {
+            "name": "Inlagd sill",
+            "tip": "Hering marinat, un clasic suedez, servit cu cartofi, smântână și arpagic."
+          },
+          {
+            "name": "Restaurant Utkiken",
+            "tip": "Bucurați-vă de o masă rafinată cu vedere panoramică asupra orașului de la Bryggareberget."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kroppkakor",
+            "tip": "Potato dumplings filled with pork and onions, often served with lingonberries."
+          },
+          {
+            "name": "Inlagd sill",
+            "tip": "Pickled herring, a Swedish classic, served with potatoes, sour cream, and chives."
+          },
+          {
+            "name": "Restaurant Utkiken",
+            "tip": "Enjoy fine dining with a panoramic view of the city from Bryggareberget."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brändaholm",
+            "tip": "Ein ruhiger Spaziergang durch die idyllische Gartenkolonie am Wasser.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Kungsbron",
+            "tip": "Beobachten Sie, wie die Sonne hinter den Schäreninseln versinkt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hoglands Park",
+            "tip": "Eine grüne Oase im Stadtzentrum, ideal für eine kurze Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brändaholm",
+            "tip": "Egy csendes séta az idilli, vízparti kertek között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Kungsbronnál",
+            "tip": "Nézze, ahogy a nap lebukik a szigetvilág mögött.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hoglands Park",
+            "tip": "Zöld oázis a városközpontban, ideális egy rövid pihenőre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brändaholm",
+            "tip": "O plimbare liniștită prin colonia idilică de grădini de pe malul apei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare la Kungsbron",
+            "tip": "Priviți cum soarele apune în spatele insulelor din arhipelag.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Hoglands",
+            "tip": "O oază de verdeață în centrul orașului, ideală pentru o scurtă pauză.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Brändaholm",
+            "tip": "A quiet walk through the idyllic allotment gardens by the water.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at Kungsbron",
+            "tip": "Watch the sun sink behind the archipelago islands.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hoglands Park",
+            "tip": "A green oasis in the city center, ideal for a short break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fisktorget",
+            "tip": "Der Fischmarkt am Morgen ist ein Erlebnis, auch wenn man nichts kauft."
+          },
+          {
+            "name": "Borgmästaregatan",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus schwedischen Ketten und lokalen Boutiquen."
+          },
+          {
+            "name": "Blekinge Museum Shop",
+            "tip": "Hier finden Sie lokales Handwerk und Bücher über die Geschichte der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fisktorget",
+            "tip": "A reggeli halpiac akkor is élmény, ha nem vásárol semmit."
+          },
+          {
+            "name": "Borgmästaregatan",
+            "tip": "A fő bevásárlóutca, svéd láncokkal és helyi butikokkal vegyesen."
+          },
+          {
+            "name": "Blekinge Múzeum boltja",
+            "tip": "Helyi kézműves termékeket és könyveket talál a régió történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fisktorget",
+            "tip": "Piața de pește de dimineață este o experiență, chiar dacă nu cumpărați nimic."
+          },
+          {
+            "name": "Borgmästaregatan",
+            "tip": "Principala stradă comercială cu un amestec de lanțuri suedeze și buticuri locale."
+          },
+          {
+            "name": "Magazinul Muzeului Blekinge",
+            "tip": "Găsiți obiecte de artizanat locale și cărți despre istoria regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fisktorget",
+            "tip": "The morning fish market is an experience, even if you don't buy anything."
+          },
+          {
+            "name": "Borgmästaregatan",
+            "tip": "The main shopping street with a mix of Swedish chains and local boutiques."
+          },
+          {
+            "name": "Blekinge Museum Shop",
+            "tip": "Find local handicrafts and books about the region's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Karlskrona eine Stadt ist, die man am besten zu Fuß erkundet.",
+          "Die Stadt liegt auf 33 Inseln, also ist Wasser immer in der Nähe. Eine leichte Jacke ist auch im Sommer ratsam.",
+          "Viele Museen und Sehenswürdigkeiten sind montags geschlossen, prüfen Sie die Öffnungszeiten im Voraus.",
+          "Das 'Allemansrätten' (Jedermannsrecht) erlaubt Ihnen, fast überall in der Natur zu wandern, solange Sie die Umwelt respektieren."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel Karlskronát gyalog a legjobb felfedezni.",
+          "A város 33 szigeten fekszik, így a víz mindig a közelben van. Nyáron is tanácsos egy könnyű dzsekit magával vinni.",
+          "Sok múzeum és látnivaló zárva tart hétfőnként, ezért előre ellenőrizze a nyitvatartási időket.",
+          "Az 'Allemansrätten' (mindenki joga) lehetővé teszi, hogy szinte bárhol túrázzon a természetben, amíg tiszteletben tartja a környezetet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece Karlskrona este un oraș care se explorează cel mai bine pe jos.",
+          "Orașul este situat pe 33 de insule, așa că apa este mereu aproape. O jachetă ușoară este recomandată chiar și vara.",
+          "Multe muzee și atracții sunt închise lunea, verificați programul de funcționare în avans.",
+          "'Allemansrätten' (Dreptul Public de Acces) vă permite să vă plimbați aproape oriunde în natură, atâta timp cât respectați mediul."
+        ],
+        "en": [
+          "Wear comfortable shoes, as Karlskrona is a city best explored on foot.",
+          "The city is spread across 33 islands, so water is always nearby. A light jacket is advisable even in summer.",
+          "Many museums and attractions are closed on Mondays, so check opening hours in advance.",
+          "The 'Allemansrätten' (Right of Public Access) allows you to roam almost anywhere in nature as long as you respect the environment."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stortorget & Fredrikskirche",
+            "hu": "Stortorget & Fredrik-templom",
+            "ro": "Stortorget & Biserica Fredrik",
+            "en": "Stortorget & Fredrik's Church"
+          },
+          "coords": [
+            15.587,
+            56.1615
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag auf einem der größten Plätze Schwedens.",
+            "hu": "Kezdje a napot Svédország egyik legnagyobb terén.",
+            "ro": "Începeți ziua într-una dintre cele mai mari piețe din Suedia.",
+            "en": "Start your day in one of Sweden's largest squares."
+          }
+        },
+        {
+          "name": {
+            "de": "Admiralitätskirche & Rosenbom",
+            "hu": "Admiralitás-templom & Rosenbom",
+            "ro": "Biserica Amiralității & Rosenbom",
+            "en": "Admiralty Church & Rosenbom"
+          },
+          "coords": [
+            15.595,
+            56.16
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine kurze Radtour bringt Sie zu Schwedens größter Holzkirche.",
+            "hu": "Egy rövid biciklitúra Svédország legnagyobb fatemplomához.",
+            "ro": "O scurtă plimbare cu bicicleta până la cea mai mare biserică de lemn din Suedia.",
+            "en": "A short bike ride to Sweden's largest wooden church."
+          }
+        },
+        {
+          "name": {
+            "de": "Marinemuseum auf Stumholmen",
+            "hu": "Tengerészeti Múzeum Stumholmenen",
+            "ro": "Muzeul Marinei din Stumholmen",
+            "en": "Naval Museum on Stumholmen"
+          },
+          "coords": [
+            15.596,
+            56.163
+          ],
+          "category": "museums",
+          "arrive_at": "10:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die faszinierende maritime Welt.",
+            "hu": "Tegye le a biciklit, és fedezze fel a lenyűgöző tengeri világot.",
+            "ro": "Parcați bicicleta și explorați fascinanta lume maritimă.",
+            "en": "Park your bike and explore the fascinating maritime world."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Stadt",
+            "hu": "Ebéd a városban",
+            "ro": "Prânz în oraș",
+            "en": "Lunch in the city"
+          },
+          "coords": [
+            15.585,
+            56.162
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum für eine größere Auswahl an Restaurants.",
+            "hu": "Tekerjen vissza a központba a szélesebb éttermi választékért.",
+            "ro": "Întoarceți-vă cu bicicleta în centru pentru o selecție mai largă de restaurante.",
+            "en": "Cycle back to the center for a wider selection of restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Brändaholm",
+            "hu": "Brändaholm",
+            "ro": "Brändaholm",
+            "en": "Brändaholm"
+          },
+          "coords": [
+            15.575,
+            56.17
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour führt Sie zu dieser malerischen Schrebergartensiedlung.",
+            "hu": "Egy kellemes biciklitúra vezet ehhez a festői kiskertekkel teli településhez.",
+            "ro": "O plimbare plăcută cu bicicleta vă duce la această așezare pitorească de grădini.",
+            "en": "A pleasant bike ride takes you to this picturesque allotment settlement."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Küste",
+            "hu": "Tekerés a part mentén",
+            "ro": "Plimbare cu bicicleta de-a lungul coastei",
+            "en": "Ride along the coast"
+          },
+          "coords": [
+            15.56,
+            56.165
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Küstenradweg für atemberaubende Ausblicke auf die Ostsee.",
+            "hu": "Kövesse a parti kerékpárutat a Balti-tengerre nyíló lélegzetelállító kilátásért.",
+            "ro": "Urmați pista de biciclete de coastă pentru vederi uimitoare ale Mării Baltice.",
+            "en": "Follow the coastal cycle path for stunning views of the Baltic Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaffeepause (Fika)",
+            "hu": "Kávészünet (Fika)",
+            "ro": "Pauză de cafea (Fika)",
+            "en": "Coffee Break (Fika)"
+          },
+          "coords": [
+            15.586,
+            56.163
+          ],
+          "category": "gastro",
+          "arrive_at": "16:41",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer traditionellen schwedischen Fika.",
+            "hu": "Zárja a biciklitúrát egy hagyományos svéd fikával.",
+            "ro": "Încheiați turul cu bicicleta cu o Fika tradițională suedeză.",
+            "en": "End your bike tour with a traditional Swedish fika."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel für eine Erkundungstour durch Karlskrona. Der Morgen beginnt auf dem großzügigen Stortorget, bevor Sie zu den historischen Kirchen der Stadt radeln. Ein kurzer Abstecher führt Sie über die Brücke zur Museumsinsel Stumholmen, dem maritimen Herzen der Stadt.\nNachdem Sie im Marinemuseum in die Geschichte eingetaucht sind, ist es Zeit für das Mittagessen. Sie radeln zurück ins Zentrum, wo eine Vielzahl von Cafés und Restaurants auf Sie wartet. Gestärkt machen Sie sich auf den Weg zu einem der fotogensten Orte Schwedens.\nDer Nachmittag gehört den malerischen Ausblicken. Eine entspannte Radtour führt Sie zur idyllischen Holzhhaussiedlung Brändaholm. Danach folgen Sie dem Küstenpfad und lassen sich die frische Meeresluft um die Nase wehen, während Sie die Weite der Ostsee bewundern.\nIhre Tour endet, wie es sich in Schweden gehört, mit einer Fika. Sie kehren ins Zentrum zurück und genießen eine wohlverdiente Pause mit Kaffee und Gebäck, während Sie die Erlebnisse des Tages Revue passieren lassen.",
+        "hu": "Pattanjon nyeregbe, és fedezze fel Karlskronát! A reggel a tágas Stortorgeten kezdődik, mielőtt a város történelmi templomaihoz tekerne. Egy rövid kitérővel átjut a hídon a múzeumszigetre, Stumholmenre, a város tengerészeti szívébe.\nMiután elmerült a történelemben a Tengerészeti Múzeumban, ideje ebédelni. Visszateker a központba, ahol kávézók és éttermek széles választéka várja. Feltöltődve indul Svédország egyik legfotogénebb helyére.\nA délután a festői kilátásoké. Egy laza kerékpártúra elvezeti az idilli faházas településre, Brändaholmba. Ezután kövesse a tengerparti ösvényt, és hagyja, hogy a friss tengeri levegő átjárja, miközben a Balti-tenger végtelenségében gyönyörködik.\nA túra, ahogy Svédországban illik, egy fikával zárul. Visszatér a központba, és egy jól megérdemelt kávé- és süteményszünetet tart, miközben felidézi a nap élményeit.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur de explorare a Karlskronei. Dimineața începe în spațiosul Stortorget înainte de a pedala spre bisericile istorice ale orașului. O scurtă deviere vă duce peste pod spre insula muzeelor, Stumholmen, inima maritimă a orașului.\nDupă ce v-ați cufundat în istorie la Muzeul Marinei, este timpul pentru prânz. Pedalați înapoi în centru, unde vă așteaptă o varietate de cafenele și restaurante. Revigorat, porniți spre unul dintre cele mai fotogenice locuri din Suedia.\nDupă-amiaza este dedicată priveliștilor pitorești. O plimbare relaxantă cu bicicleta vă duce la așezarea idilică de case din lemn, Brändaholm. Apoi, urmați poteca de coastă și lăsați aerul proaspăt al mării să vă mângâie fața în timp ce admirați întinderea Mării Baltice.\nTurul se încheie, așa cum se cuvine în Suedia, cu o Fika. Vă întoarceți în centru și vă bucurați de o pauză binemeritată cu cafea și produse de patiserie, rememorând experiențele zilei.",
+        "en": "Hop on your bike for an exploratory tour of Karlskrona. The morning begins in the spacious Stortorget before you cycle to the city's historic churches. A short detour takes you across the bridge to the museum island of Stumholmen, the maritime heart of the city.\nAfter immersing yourself in history at the Naval Museum, it's time for lunch. Cycle back to the center, where a variety of cafes and restaurants await. Re-energized, you'll head to one of Sweden's most photogenic spots.\nThe afternoon is for picturesque views. A relaxed bike ride takes you to the idyllic wooden house settlement of Brändaholm. Afterwards, follow the coastal path and let the fresh sea air blow through your hair as you admire the vastness of the Baltic Sea.\nYour tour ends, as is proper in Sweden, with a Fika. Return to the center and enjoy a well-deserved break with coffee and pastries while reflecting on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Räkmacka",
+            "tip": "Ein offenes Sandwich mit einem Berg von Garnelen, oft mit Ei und Mayonnaise."
+          },
+          {
+            "name": "Kanelbulle",
+            "tip": "Die berühmte schwedische Zimtschnecke, perfekt für die Fika-Pause."
+          },
+          {
+            "name": "Nivå",
+            "tip": "Ein beliebtes Lokal im Zentrum mit einer modernen Speisekarte und einer tollen Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Räkmacka",
+            "tip": "Nyitott szendvics egy halom garnélával, gyakran tojással és majonézzel."
+          },
+          {
+            "name": "Kanelbulle",
+            "tip": "A híres svéd fahéjas csiga, tökéletes a fika szünethez."
+          },
+          {
+            "name": "Nivå",
+            "tip": "Népszerű hely a központban, modern étlappal és remek hangulattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Räkmacka",
+            "tip": "Un sandviș deschis cu o grămadă de creveți, adesea cu ou și maioneză."
+          },
+          {
+            "name": "Kanelbulle",
+            "tip": "Faimoasa ruladă cu scorțișoară suedeză, perfectă pentru o pauză Fika."
+          },
+          {
+            "name": "Nivå",
+            "tip": "Un loc popular în centru, cu un meniu modern și o atmosferă grozavă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Räkmacka",
+            "tip": "An open-faced sandwich with a mountain of shrimp, often with egg and mayonnaise."
+          },
+          {
+            "name": "Kanelbulle",
+            "tip": "The famous Swedish cinnamon bun, perfect for a Fika break."
+          },
+          {
+            "name": "Nivå",
+            "tip": "A popular spot in the center with a modern menu and a great atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg nach Långö",
+            "tip": "Eine friedliche Route, die Sie zu einem schönen Badeplatz und ruhigen Wegen führt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Amiralitetsparken",
+            "tip": "Ein ruhiger Park neben der Admiralitätskirche, perfekt für eine kurze Rast.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick von Bryggareberget",
+            "tip": "Radle den Hügel hinauf für die beste Aussicht auf die Stadt und das Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút Långö felé",
+            "tip": "Békés útvonal egy szép fürdőhelyhez és csendes ösvényekhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Amiralitetsparken",
+            "tip": "Csendes park az Admiralitás-templom mellett, tökéletes egy rövid pihenőre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Bryggarebergetről",
+            "tip": "Tekerj fel a dombra a legjobb kilátásért a városra és a tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete spre Långö",
+            "tip": "Un traseu liniștit care duce la o zonă de scăldat frumoasă și poteci tăcute.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Amiralității",
+            "tip": "Un parc liniștit lângă Biserica Amiralității, perfect pentru o scurtă odihnă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de pe Bryggareberget",
+            "tip": "Pedalați în sus pe deal pentru cea mai bună priveliște asupra orașului și a mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle path to Långö",
+            "tip": "A peaceful route leading to a nice bathing spot and quiet paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Amiralitetsparken",
+            "tip": "A quiet park next to the Admiralty Church, perfect for a short rest.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from Bryggareberget",
+            "tip": "Cycle up the hill for the best view of the city and the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradgeschäfte",
+            "tip": "Fragen Sie nach Karten und Tipps für die besten lokalen Routen."
+          },
+          {
+            "name": "Hantverksbyn",
+            "tip": "Ein kleines Dorf mit Kunsthandwerkern, ideal für einzigartige Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Kérjen térképeket és tippeket a legjobb helyi útvonalakhoz."
+          },
+          {
+            "name": "Hantverksbyn",
+            "tip": "Kis kézműves falu, ideális egyedi szuvenírekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Cereți hărți și sfaturi pentru cele mai bune rute locale."
+          },
+          {
+            "name": "Hantverksbyn",
+            "tip": "Un mic sat de artizani, ideal pentru suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bike shops",
+            "tip": "Ask for maps and tips on the best local routes."
+          },
+          {
+            "name": "Hantverksbyn",
+            "tip": "A small artisan village, great for unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Karlskrona ist relativ flach, was das Radfahren angenehm macht, aber einige Brücken haben leichte Steigungen.",
+          "Fahrradverleihe finden Sie in der Nähe des Hauptbahnhofs und an mehreren Orten in der Stadt.",
+          "Achten Sie auf die speziellen Fahrradwege (cykelbana) und die Verkehrsregeln.",
+          "Ein Helm wird empfohlen, ist aber für Erwachsene nicht gesetzlich vorgeschrieben."
+        ],
+        "hu": [
+          "Karlskrona viszonylag sík, ami kellemessé teszi a kerékpározást, de néhány hídnak enyhe emelkedője van.",
+          "Kerékpárkölcsönzőket a főpályaudvar közelében és a város több pontján is találhat.",
+          "Ügyeljen a speciális kerékpárutakra (cykelbana) és a közlekedési szabályokra.",
+          "Sisak viselése ajánlott, de felnőttek számára nem kötelező."
+        ],
+        "ro": [
+          "Karlskrona este relativ plată, ceea ce face ciclismul plăcut, dar unele poduri au pante ușoare.",
+          "Închirieri de biciclete pot fi găsite lângă gara principală și în mai multe locații din oraș.",
+          "Fiți atenți la pistele speciale pentru biciclete (cykelbana) și la regulile de circulație.",
+          "O cască este recomandată, dar nu este obligatorie prin lege pentru adulți."
+        ],
+        "en": [
+          "Karlskrona is relatively flat, which makes for pleasant cycling, but some bridges have slight inclines.",
+          "Bike rentals can be found near the main train station and at several locations in the city.",
+          "Pay attention to the dedicated cycle paths (cykelbana) and traffic rules.",
+          "A helmet is recommended but not legally required for adults."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 24.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft und Parken auf Trossö",
+            "hu": "Érkezés és parkolás Trossö szigetén",
+            "ro": "Sosire și parcare pe Trossö",
+            "en": "Arrival and Parking on Trossö"
+          },
+          "coords": [
+            15.588,
+            56.16
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in einem der zentralen Parkhäuser, z.B. am Stortorget.",
+            "hu": "Parkolja le autóját az egyik központi parkolóházban, pl. a Stortorgetnél.",
+            "ro": "Parcați mașina într-una dintre parcările centrale, de ex. la Stortorget.",
+            "en": "Park your car in one of the central parking garages, e.g., at Stortorget."
+          }
+        },
+        {
+          "name": {
+            "de": "Fredrikskirche und Stortorget",
+            "hu": "Fredrik-templom és Stortorget",
+            "ro": "Biserica Fredrik și Stortorget",
+            "en": "Fredrik's Church and Stortorget"
+          },
+          "coords": [
+            15.587,
+            56.1615
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie die Erkundung des UNESCO-Weltkulturerbes zu Fuß.",
+            "hu": "Kezdje az UNESCO Világörökség gyalogos felfedezését.",
+            "ro": "Începeți explorarea pe jos a sitului din Patrimoniul Mondial UNESCO.",
+            "en": "Begin your exploration of the UNESCO World Heritage site on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt und Erkundung von Stumholmen",
+            "hu": "Autózás és Stumholmen felfedezése",
+            "ro": "Condus și explorare Stumholmen",
+            "en": "Drive and Exploration of Stumholmen"
+          },
+          "coords": [
+            15.596,
+            56.163
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 150,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zur Museumsinsel, parken Sie und besuchen Sie das Marinemuseum und die Admiralitätskirche.",
+            "hu": "Vezessen át a múzeumszigetre, parkoljon le, és látogassa meg a Tengerészeti Múzeumot és az Admiralitás-templomot.",
+            "ro": "Conduceți spre insula muzeelor, parcați și vizitați Muzeul Marinei și Biserica Amiralității.",
+            "en": "Drive to the museum island, park, and visit the Naval Museum and Admiralty Church."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Aussicht",
+            "hu": "Ebéd kilátással",
+            "ro": "Prânz cu vedere",
+            "en": "Lunch with a View"
+          },
+          "coords": [
+            15.597,
+            56.162
+          ],
+          "category": "gastro",
+          "arrive_at": "13:07",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bleiben Sie auf Stumholmen für ein Mittagessen in einem der Restaurants am Wasser.",
+            "hu": "Maradjon Stumholmenen ebédelni az egyik vízparti étteremben.",
+            "ro": "Rămâneți pe Stumholmen pentru prânz la unul dintre restaurantele de pe malul apei.",
+            "en": "Stay on Stumholmen for lunch at one of the waterfront restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausflug zur Festung Kungsholm",
+            "hu": "Kirándulás a Kungsholm erődhöz",
+            "ro": "Excursie la Fortăreața Kungsholm",
+            "en": "Trip to Kungsholm Fortress"
+          },
+          "coords": [
+            15.565,
+            56.145
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 22.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Fähranleger und nehmen Sie das Boot zur Festungsinsel.",
+            "hu": "Vezessen a kompkikötőhöz, és szálljon hajóra az erőd-szigetre.",
+            "ro": "Conduceți la terminalul de feribot și luați barca spre insula fortăreței.",
+            "en": "Drive to the ferry terminal and take the boat to the fortress island."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang in Brändaholm",
+            "hu": "Séta Brändaholmban",
+            "ro": "Plimbare în Brändaholm",
+            "en": "Walk in Brändaholm"
+          },
+          "coords": [
+            15.575,
+            56.17
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem kurzen Spaziergang durch die malerische Gartensiedlung.",
+            "hu": "Zárja a napot egy rövid sétával a festői kertvárosban.",
+            "ro": "Încheiați ziua cu o scurtă plimbare prin așezarea pitorească de grădini.",
+            "en": "End the day with a short walk through the picturesque garden settlement."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Flexibilität, die weitläufige Marinestadt Karlskrona und ihre Umgebung zu entdecken. Am Morgen parken Sie im Zentrum und erkunden den historischen Kern auf Trossö zu Fuß. Dies ist der erste Cluster Ihres Tages: der große Platz und die prachtvolle Kirche.\nFür den zweiten Cluster fahren Sie zur Insel Stumholmen. Hier parken Sie erneut und tauchen zu Fuß in die Welt der schwedischen Marine ein. Das Marinemuseum und die historische Admiralitätskirche liegen nur einen kurzen Spaziergang voneinander entfernt. Ein Mittagessen am Kai rundet den Besuch ab.\nDer Nachmittag ist für einen Ausflug zu einer der vorgelagerten Festungen reserviert. Sie fahren zum Fähranleger und setzen mit einem Boot zur imposanten Festung Kungsholm über. Diese historische Anlage bietet faszinierende Einblicke und spektakuläre Ausblicke auf die Ostsee.\nAuf dem Rückweg zum Festland halten Sie für einen letzten Fotostopp bei der malerischen Siedlung Brändaholm. Der Kontrast zwischen der mächtigen Festung und den winzigen roten Holzhäusern fasst die Vielfalt von Karlskronas maritimer Landschaft perfekt zusammen.",
+        "hu": "Autóval rugalmasan fedezheti fel a kiterjedt Karlskrona tengerészeti várost és környékét. Reggel a központban parkol, és gyalogosan fedezi fel Trossö történelmi magját. Ez a nap első klasztere: a nagy tér és a csodálatos templom.\nA második klaszterhez vezessen át a Stumholmen-szigetre. Itt ismét leparkol, és gyalogosan merül el a svéd haditengerészet világában. A Tengerészeti Múzeum és a történelmi Admiralitás-templom csak egy rövid sétára van egymástól. Egy ebéd a rakparton teszi teljessé a látogatást.\nA délután egy kirándulásé az egyik külső erődhöz. Elvezet a kompkikötőhöz, és hajóval átkel az impozáns Kungsholm erődhöz. Ez a történelmi létesítmény lenyűgöző betekintést és látványos kilátást nyújt a Balti-tengerre.\nVisszafelé a szárazföldre megáll egy utolsó fotómegállóra a festői Brändaholm településnél. A hatalmas erőd és az apró vörös faházak közötti kontraszt tökéletesen összefoglalja Karlskrona tengeri tájának sokszínűségét.",
+        "ro": "Cu mașina, aveți flexibilitatea de a explora orașul naval extins Karlskrona și împrejurimile sale. Dimineața parcați în centru și explorați nucleul istoric de pe Trossö pe jos. Acesta este primul cluster al zilei dumneavoastră: piața mare și biserica magnifică.\nPentru al doilea cluster, conduceți spre insula Stumholmen. Aici parcați din nou și vă cufundați pe jos în lumea marinei suedeze. Muzeul Marinei și istorica Biserică a Amiralității sunt la o scurtă plimbare una de cealaltă. Un prânz pe chei completează vizita.\nDupă-amiaza este rezervată unei excursii la una dintre fortărețele din larg. Conduceți la terminalul de feribot și luați o barcă spre impunătoarea Fortăreață Kungsholm. Acest complex istoric oferă perspective fascinante și vederi spectaculoase ale Mării Baltice.\nPe drumul de întoarcere spre continent, opriți pentru o ultimă fotografie la așezarea pitorească Brändaholm. Contrastul dintre fortăreața masivă și micuțele case roșii din lemn surprinde perfect diversitatea peisajului maritim al Karlskronei.",
+        "en": "By car, you have the flexibility to discover the sprawling naval city of Karlskrona and its surroundings. In the morning, you'll park in the center and explore the historic core on Trossö on foot. This is your first cluster of the day: the grand square and the magnificent church.\nFor the second cluster, you drive to the island of Stumholmen. Here you park again and immerse yourself in the world of the Swedish Navy on foot. The Naval Museum and the historic Admiralty Church are just a short walk from each other. Lunch on the quay completes the visit.\nThe afternoon is reserved for a trip to one of the outlying fortresses. You drive to the ferry terminal and take a boat to the imposing Kungsholm Fortress. This historic complex offers fascinating insights and spectacular views of the Baltic Sea.\nOn the way back to the mainland, you stop for a final photo op at the picturesque settlement of Brändaholm. The contrast between the mighty fortress and the tiny red wooden houses perfectly encapsulates the diversity of Karlskrona's maritime landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smörgåstårta",
+            "tip": "Ein herzhafter 'Kuchen' aus Brotschichten mit cremigen Füllungen wie Lachs, Garnelen und Eiern."
+          },
+          {
+            "name": "Fischsuppen",
+            "tip": "Probieren Sie eine reichhaltige und cremige Fischsuppe, eine Spezialität der Küstenregion."
+          },
+          {
+            "name": "Sjörök",
+            "tip": "Ein bekanntes Restaurant, das für seine geräucherten Meeresfrüchte und seinen schönen Standort bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smörgåstårta",
+            "tip": "Sós 'torta' kenyérrétegekből, krémes töltelékekkel, mint lazac, garnéla és tojás."
+          },
+          {
+            "name": "Hallevesek",
+            "tip": "Kóstoljon meg egy gazdag és krémes hallevest, a tengerparti régió specialitását."
+          },
+          {
+            "name": "Sjörök",
+            "tip": "Híres étterem, amely füstölt tengeri herkentyűiről és gyönyörű elhelyezkedéséről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smörgåstårta",
+            "tip": "Un 'tort' savuros făcut din straturi de pâine cu umpluturi cremoase precum somon, creveți și ouă."
+          },
+          {
+            "name": "Supe de pește",
+            "tip": "Încercați o supă de pește bogată și cremoasă, o specialitate a regiunii de coastă."
+          },
+          {
+            "name": "Sjörök",
+            "tip": "Un restaurant renumit pentru fructele de mare afumate și locația sa frumoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smörgåstårta",
+            "tip": "A savory 'cake' made of layers of bread with creamy fillings like salmon, shrimp, and eggs."
+          },
+          {
+            "name": "Fish soups",
+            "tip": "Try a rich and creamy fish soup, a specialty of the coastal region."
+          },
+          {
+            "name": "Sjörök",
+            "tip": "A well-known restaurant famous for its smoked seafood and beautiful location."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wämöparken",
+            "tip": "Ein Freilichtmuseum und Park etwas außerhalb des Zentrums, ideal für einen ruhigen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fährfahrt nach Aspö",
+            "tip": "Nehmen Sie die kostenlose Autofähre für eine entspannte Fahrt durch den Schärengarten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick von der Festung Kungsholm",
+            "tip": "Genießen Sie die Stille und den weiten Blick über das Meer von den alten Festungsmauern.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wämöparken",
+            "tip": "Szabadtéri múzeum és park a központtól kicsit távolabb, ideális egy csendes sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kompút Aspöbe",
+            "tip": "Menjen el az ingyenes autókomppal egy pihentető utazásra a szigetvilágon keresztül.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Kungsholm erődből",
+            "tip": "Élvezze a csendet és a tengerre nyíló széles kilátást a régi erődfalakról.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Wämö",
+            "tip": "Un muzeu în aer liber și un parc chiar în afara centrului, ideal pentru o plimbare liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Călătorie cu feribotul spre Aspö",
+            "tip": "Luați feribotul gratuit pentru mașini pentru o călătorie relaxantă prin arhipelag.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de la Fortăreața Kungsholm",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică asupra mării de pe vechile ziduri ale fortăreței.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wämöparken",
+            "tip": "An open-air museum and park just outside the center, ideal for a quiet walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ferry trip to Aspö",
+            "tip": "Take the free car ferry for a relaxing journey through the archipelago.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from Kungsholm Fortress",
+            "tip": "Enjoy the silence and the wide view over the sea from the old fortress walls.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fabriksboden",
+            "tip": "Ein Geschäft, das Glaswaren und Porzellan aus der Region verkauft."
+          },
+          {
+            "name": "Karlskrona Porslin",
+            "tip": "Kaufen Sie direkt bei der traditionsreichen Porzellanmanufaktur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fabriksboden",
+            "tip": "Egy bolt, amely a régióból származó üvegárut és porcelánt árul."
+          },
+          {
+            "name": "Karlskrona Porslin",
+            "tip": "Vásároljon közvetlenül a nagy múltú porcelángyárból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabriksboden",
+            "tip": "Un magazin care vinde sticlărie și porțelan din regiune."
+          },
+          {
+            "name": "Karlskrona Porslin",
+            "tip": "Cumpărați direct de la fabrica de porțelan bogată în tradiții."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fabriksboden",
+            "tip": "A shop selling glassware and porcelain from the region."
+          },
+          {
+            "name": "Karlskrona Porslin",
+            "tip": "Buy directly from the traditional porcelain factory."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Fährzeiten zur Festung Kungsholm im Voraus, da diese saisonal variieren können.",
+          "Parken im Zentrum von Karlskrona ist gebührenpflichtig. Halten Sie Münzen oder eine Kreditkarte bereit.",
+          "Ein Auto ermöglicht es Ihnen, auch weiter entfernte Sehenswürdigkeiten wie den Ronneby Brunnspark zu besuchen.",
+          "Die Straßen auf den Inseln können eng sein, fahren Sie also vorsichtig."
+        ],
+        "hu": [
+          "Előre ellenőrizze a Kungsholm erődbe közlekedő komp menetrendjét, mivel az szezonálisan változhat.",
+          "A parkolás Karlskrona központjában fizetős. Tartson magánál érméket vagy hitelkártyát.",
+          "Az autó lehetővé teszi, hogy távolabbi látnivalókat is meglátogasson, mint például a Ronneby Brunnspark.",
+          "A szigeteken az utak szűkek lehetnek, ezért vezessen óvatosan."
+        ],
+        "ro": [
+          "Verificați din timp programul feribotului către Fortăreața Kungsholm, deoarece acesta poate varia în funcție de sezon.",
+          "Parcarea în centrul orașului Karlskrona este cu plată. Pregătiți monede sau un card de credit.",
+          "O mașină vă permite să vizitați și atracții mai îndepărtate, cum ar fi Parcul Ronneby Brunnspark.",
+          "Drumurile de pe insule pot fi înguste, așa că șofați cu prudență."
+        ],
+        "en": [
+          "Check the ferry times to Kungsholm Fortress in advance, as they can vary seasonally.",
+          "Parking in the center of Karlskrona is paid. Have coins or a credit card ready.",
+          "A car allows you to also visit more distant attractions like Ronneby Brunnspark.",
+          "The roads on the islands can be narrow, so drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Stortorget",
+            "hu": "Érkezés a Stortorgetre",
+            "ro": "Sosire la Stortorget",
+            "en": "Arrival at Stortorget"
+          },
+          "coords": [
+            15.587,
+            56.1615
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zu einer Haltestelle in der Nähe des Hauptplatzes, um Ihre Tour zu beginnen.",
+            "hu": "Menjen busszal a főtér közelében lévő megállóig a túra megkezdéséhez.",
+            "ro": "Luați un autobuz până la o stație din apropierea pieței principale pentru a începe turul.",
+            "en": "Take a bus to a stop near the main square to start your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Fredrikskirche",
+            "hu": "Fredrik-templom",
+            "ro": "Biserica Fredrik",
+            "en": "Fredrik's Church"
+          },
+          "coords": [
+            15.5875,
+            56.1618
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herzstück des barocken Karlskrona, ein Muss für jeden Besucher.",
+            "hu": "A barokk Karlskrona szíve, minden látogató számára kötelező.",
+            "ro": "Inima barocă a Karlskronei, o necesitate pentru fiecare vizitator.",
+            "en": "The heart of Baroque Karlskrona, a must-see for every visitor."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang nach Stumholmen",
+            "hu": "Séta Stumholmenbe",
+            "ro": "Plimbare spre Stumholmen",
+            "en": "Walk to Stumholmen"
+          },
+          "coords": [
+            15.592,
+            56.161
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:29",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, schöner Spaziergang über die Kungsbron-Brücke bringt Sie zur nächsten Insel.",
+            "hu": "Egy rövid, szép séta a Kungsbron hídon át a következő szigetre visz.",
+            "ro": "O plimbare scurtă și frumoasă peste podul Kungsbron vă duce pe următoarea insulă.",
+            "en": "A short, beautiful walk across the Kungsbron bridge takes you to the next island."
+          }
+        },
+        {
+          "name": {
+            "de": "Marinemuseum & Admiralitätskirche",
+            "hu": "Tengerészeti Múzeum & Admiralitás-templom",
+            "ro": "Muzeul Marinei & Biserica Amiralității",
+            "en": "Naval Museum & Admiralty Church"
+          },
+          "coords": [
+            15.596,
+            56.163
+          ],
+          "category": "museums",
+          "arrive_at": "10:52",
+          "stay_min": 150,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Cluster zu Fuß. Beides liegt nah beieinander.",
+            "hu": "Fedezze fel ezt a klasztert gyalog. Mindkettő közel van egymáshoz.",
+            "ro": "Explorați acest cluster pe jos. Ambele sunt aproape una de cealaltă.",
+            "en": "Explore this cluster on foot. Both are close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Fährfahrt und Festung Kungsholm",
+            "hu": "Kompút és a Kungsholm erőd",
+            "ro": "Călătorie cu feribotul și Fortăreața Kungsholm",
+            "en": "Ferry Trip and Kungsholm Fortress"
+          },
+          "coords": [
+            15.565,
+            56.145
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:12",
+          "stay_min": 150,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Schärenfähre vom Fisktorget zur Festungsinsel.",
+            "hu": "Menjen a szigetvilági komppal a Fisktorgetről az erőd-szigetre.",
+            "ro": "Luați feribotul arhipelagului de la Fisktorget spre insula fortăreței.",
+            "en": "Take the archipelago ferry from Fisktorget to the fortress island."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Zentrum",
+            "hu": "Vacsora a központban",
+            "ro": "Cină în centru",
+            "en": "Dinner in the City Center"
+          },
+          "coords": [
+            15.586,
+            56.163
+          ],
+          "category": "gastro",
+          "arrive_at": "17:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie nach der Fährfahrt für ein Abendessen ins Zentrum zurück.",
+            "hu": "Térjen vissza a kompozás után a központba vacsorázni.",
+            "ro": "Întoarceți-vă în centru pentru cină după călătoria cu feribotul.",
+            "en": "Return to the city center for dinner after the ferry trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln lässt sich Karlskrona wunderbar stressfrei erkunden. Starten Sie mit dem Bus ins Zentrum und beginnen Sie Ihren Rundgang am Stortorget. Der erste Cluster, das historische Herz der Stadt, liegt Ihnen zu Füßen und ist leicht zu Fuß zu erkunden.\nEin kurzer Spaziergang über die Brücke bringt Sie zum zweiten Cluster: der Museumsinsel Stumholmen. Hier können Sie Stunden im Marinemuseum verbringen und die maritime Atmosphäre auf sich wirken lassen. Alles ist kompakt und ohne weitere Verkehrsmittel erreichbar.\nAm Nachmittag erwartet Sie ein kleines Abenteuer. Vom Fisktorget aus nehmen Sie die Schärenfähre, die als öffentliches Verkehrsmittel gilt. Diese Transit-Etappe bringt Sie zur beeindruckenden Festung Kungsholm, einem Highlight in der einzigartigen Insellandschaft.\nNachdem die Fähre Sie zurück zum Festland gebracht hat, schlendern Sie gemütlich zu einem Restaurant Ihrer Wahl im Stadtzentrum. Dieser Tag beweist, dass man auch ohne Auto die wichtigsten Sehenswürdigkeiten Karlskronas, einschließlich der abgelegenen Inseln, bequem erreichen kann.",
+        "hu": "Tömegközlekedéssel Karlskrona csodálatosan stresszmentesen fedezhető fel. Induljon busszal a központba, és kezdje a sétát a Stortorgeten. Az első klaszter, a város történelmi szíve, a lábai előtt hever, és könnyen bejárható gyalog.\nEgy rövid séta a hídon át a második klaszterhez vezet: a Stumholmen múzeumszigetre. Itt órákat tölthet a Tengerészeti Múzeumban, és magába szívhatja a tengeri hangulatot. Minden kompakt és további közlekedési eszközök nélkül elérhető.\nDélután egy kis kaland várja. A Fisktorgetről indul a szigetvilági komp, amely tömegközlekedési eszköznek számít. Ez a tranzit szakasz elviszi a lenyűgöző Kungsholm erődhöz, amely egyedülálló a szigetvilágban.\nMiután a komp visszavitte a szárazföldre, kényelmesen elsétálhat egy tetszőleges étterembe a városközpontban. Ez a nap bizonyítja, hogy autó nélkül is kényelmesen elérhetők Karlskrona legfontosabb látnivalói, beleértve a távoli szigeteket is.",
+        "ro": "Cu transportul public, Karlskrona poate fi explorată minunat și fără stres. Începeți cu autobuzul spre centru și porniți turul de la Stortorget. Primul cluster, inima istorică a orașului, se află la picioarele dumneavoastră și este ușor de explorat pe jos.\nO scurtă plimbare peste pod vă duce la al doilea cluster: insula muzeelor Stumholmen. Aici puteți petrece ore în șir la Muzeul Marinei și puteți absorbi atmosfera maritimă. Totul este compact și accesibil fără alte mijloace de transport.\nDupă-amiaza vă așteaptă o mică aventură. De la Fisktorget, luați feribotul arhipelagului, care este considerat transport public. Această etapă de tranzit vă duce la impresionanta Fortăreață Kungsholm, un punct culminant în peisajul insular unic.\nDupă ce feribotul vă aduce înapoi pe continent, plimbați-vă agale spre un restaurant la alegere în centrul orașului. Această zi demonstrează că se poate ajunge confortabil la cele mai importante atracții din Karlskrona, inclusiv la insulele îndepărtate, chiar și fără mașină.",
+        "en": "Karlskrona can be explored wonderfully stress-free using public transport. Start with a bus to the city center and begin your tour at Stortorget. The first cluster, the historic heart of the city, is at your feet and easily explored on foot.\nA short walk across the bridge takes you to the second cluster: the museum island of Stumholmen. Here you can spend hours in the Naval Museum and soak up the maritime atmosphere. Everything is compact and accessible without further transport.\nA little adventure awaits you in the afternoon. From Fisktorget, you take the archipelago ferry, which is considered public transport. This transit leg takes you to the impressive Kungsholm Fortress, a highlight in the unique island landscape.\nAfter the ferry brings you back to the mainland, stroll leisurely to a restaurant of your choice in the city center. This day proves that you can comfortably reach Karlskrona's most important sights, including the remote islands, even without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fika",
+            "tip": "Nutzen Sie die Wartezeit auf die Fähre für eine traditionelle schwedische Kaffeepause."
+          },
+          {
+            "name": "Gatukök (Imbissbude)",
+            "tip": "Probieren Sie einen schnellen und leckeren 'Tunnbrödsrulle' – ein Flatbread-Wrap mit Wurst und Kartoffelpüree."
+          },
+          {
+            "name": "Biobaren",
+            "tip": "Ein gemütliches Restaurant und eine Bar in einem alten Kino, beliebt bei Einheimischen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fika",
+            "tip": "Használja ki a kompra való várakozási időt egy hagyományos svéd kávészünetre."
+          },
+          {
+            "name": "Gatukök (büfé)",
+            "tip": "Kóstoljon meg egy gyors és finom 'Tunnbrödsrulle'-t – laposkenyér tekercs virslivel és krumplipürével."
+          },
+          {
+            "name": "Biobaren",
+            "tip": "Hangulatos étterem és bár egy régi moziban, a helyiek körében népszerű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fika",
+            "tip": "Folosiți timpul de așteptare pentru feribot pentru o pauză tradițională suedeză de cafea."
+          },
+          {
+            "name": "Gatukök (chioșc de mâncare)",
+            "tip": "Încercați un 'Tunnbrödsrulle' rapid și delicios - o lipie cu cârnat și piure de cartofi."
+          },
+          {
+            "name": "Biobaren",
+            "tip": "Un restaurant și bar confortabil într-un cinematograf vechi, popular printre localnici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fika",
+            "tip": "Use the waiting time for the ferry for a traditional Swedish coffee break."
+          },
+          {
+            "name": "Gatukök (food kiosk)",
+            "tip": "Try a quick and tasty 'Tunnbrödsrulle' - a flatbread wrap with sausage and mashed potatoes."
+          },
+          {
+            "name": "Biobaren",
+            "tip": "A cozy restaurant and bar in an old cinema, popular with locals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fährterminal Fisktorget",
+            "tip": "Beobachten Sie das Kommen und Gehen der Boote, während Sie auf Ihre Fähre warten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Auf der Schärenfähre",
+            "tip": "Genießen Sie die Ruhe auf dem Wasser und die Aussicht auf die kleinen Inseln.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obere Mauern der Festung Kungsholm",
+            "tip": "Finden Sie einen ruhigen Platz mit Blick auf das offene Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fisktorget kompkikötő",
+            "tip": "Nézze a hajók jövés-menését, miközben a kompra vár.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A szigetvilági kompon",
+            "tip": "Élvezze a csendet a vízen és a kis szigetek látványát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Kungsholm erőd felső falai",
+            "tip": "Találjon egy csendes helyet, ahonnan a nyílt tengerre nyílik kilátás.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terminalul de feribot Fisktorget",
+            "tip": "Priviți agitația bărcilor în timp ce așteptați feribotul.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pe feribotul arhipelagului",
+            "tip": "Bucurați-vă de liniștea de pe apă și de priveliștea micilor insule.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zidurile superioare ale Fortăreței Kungsholm",
+            "tip": "Găsiți un loc liniștit cu vedere la marea deschisă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fisktorget ferry terminal",
+            "tip": "Watch the comings and goings of the boats while waiting for your ferry.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "On the archipelago ferry",
+            "tip": "Enjoy the tranquility on the water and the view of the small islands.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Upper walls of Kungsholm Fortress",
+            "tip": "Find a quiet spot with a view of the open sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pressbyrån",
+            "tip": "Kaufen Sie hier Ihre Bustickets und vielleicht eine schwedische Zeitschrift."
+          },
+          {
+            "name": "Souvenirshop im Marinemuseum",
+            "tip": "Finden Sie maritime Geschenke und Modelle historischer Schiffe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pressbyrån",
+            "tip": "Vásárolja meg itt a buszjegyét, és esetleg egy svéd magazint."
+          },
+          {
+            "name": "Szuvenírbolt a Tengerészeti Múzeumban",
+            "tip": "Találjon tengerészeti ajándékokat és történelmi hajómodelleket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pressbyrån",
+            "tip": "Cumpărați biletele de autobuz de aici și poate o revistă suedeză."
+          },
+          {
+            "name": "Magazinul de suveniruri de la Muzeul Marinei",
+            "tip": "Găsiți cadouri maritime și modele de nave istorice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pressbyrån",
+            "tip": "Buy your bus tickets here and maybe a Swedish magazine."
+          },
+          {
+            "name": "Souvenir shop at the Naval Museum",
+            "tip": "Find maritime gifts and models of historic ships."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tages- oder 24-Stunden-Karte für die öffentlichen Verkehrsmittel (Busse und Fähren) von Blekingetrafiken.",
+          "Die App von Blekingetrafiken ist der einfachste Weg, um Tickets zu kaufen und Routen zu planen.",
+          "Die Schärenfähren sind eine fantastische Möglichkeit, die Landschaft zu erleben und gelten als Teil des öffentlichen Nahverkehrs.",
+          "Achten Sie auf die Fahrpläne, insbesondere am Abend und an Wochenenden, da die Frequenzen geringer sein können."
+        ],
+        "hu": [
+          "Vásároljon napi- vagy 24 órás jegyet a Blekingetrafiken tömegközlekedési eszközeire (buszok és kompok).",
+          "A Blekingetrafiken alkalmazás a legegyszerűbb módja a jegyvásárlásnak és az útvonaltervezésnek.",
+          "A szigetvilági kompok fantasztikus lehetőséget nyújtanak a táj megismerésére, és a helyi tömegközlekedés részét képezik.",
+          "Figyeljen a menetrendekre, különösen este és hétvégén, mivel a járatok ritkábban közlekedhetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi sau de 24 de ore pentru transportul public (autobuze și feriboturi) de la Blekingetrafiken.",
+          "Aplicația Blekingetrafiken este cea mai simplă modalitate de a cumpăra bilete și de a planifica rute.",
+          "Feriboturile din arhipelag sunt o modalitate fantastică de a experimenta peisajul și sunt considerate parte a transportului public local.",
+          "Fiți atenți la orare, mai ales seara și în weekend, deoarece frecvențele pot fi mai mici."
+        ],
+        "en": [
+          "Buy a one-day or 24-hour ticket for public transport (buses and ferries) from Blekingetrafiken.",
+          "The Blekingetrafiken app is the easiest way to buy tickets and plan routes.",
+          "The archipelago ferries are a fantastic way to experience the scenery and are considered part of the local public transport.",
+          "Pay attention to the timetables, especially in the evening and on weekends, as frequencies may be lower."
+        ]
+      }
+    }
+  }
+}

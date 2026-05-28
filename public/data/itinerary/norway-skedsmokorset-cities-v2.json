@@ -1,0 +1,1448 @@
+{
+  "city_id": "norway-skedsmokorset-cities-v2",
+  "anchor": {
+    "name": "Skedsmokorset",
+    "coords": [
+      11.04,
+      60.01
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Skedsmosenteret",
+            "hu": "Skedsmosenteret (Városközpont)",
+            "ro": "Skedsmosenteret (Centrul orașului)",
+            "en": "Skedsmosenteret (Town Center)"
+          },
+          "coords": [
+            11.038,
+            60.011
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Holen Sie sich einen Kaffee und Gebäck in einer der örtlichen Bäckereien, um den Tag zu beginnen.",
+            "hu": "Kezdje a napot egy kávéval és egy süteménnyel a helyi pékségek egyikében.",
+            "ro": "Începeți ziua cu o cafea și un produs de patiserie de la una dintre brutăriile locale.",
+            "en": "Grab a coffee and a pastry from one of the local bakeries to start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Skedsmo Kirche",
+            "hu": "Skedsmo templom",
+            "ro": "Biserica Skedsmo",
+            "en": "Skedsmo Church"
+          },
+          "coords": [
+            11.045,
+            60.015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beachten Sie die mittelalterliche Architektur und den friedlichen Friedhof.",
+            "hu": "Figyelje meg a középkori építészetet és a békés temetőkertet.",
+            "ro": "Observați arhitectura medievală și cimitirul liniștit.",
+            "en": "Note the medieval architecture and the peaceful graveyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Huseby Gård",
+            "hu": "Huseby farm",
+            "ro": "Ferma Huseby",
+            "en": "Huseby Farm"
+          },
+          "coords": [
+            11.055,
+            60.02
+          ],
+          "category": "historical",
+          "arrive_at": "10:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein historischer Hof, der einen Einblick in die ländliche Geschichte Norwegens bietet.",
+            "hu": "Egy történelmi farm, amely bepillantást enged Norvégia vidéki történelmébe.",
+            "ro": "O fermă istorică ce oferă o perspectivă asupra istoriei rurale a Norvegiei.",
+            "en": "A historic farm offering a glimpse into Norway's rural history."
+          }
+        },
+        {
+          "name": {
+            "de": "Olavsgaard Hotel (Mittagessen)",
+            "hu": "Olavsgaard Hotel (Ebéd)",
+            "ro": "Hotel Olavsgaard (Prânz)",
+            "en": "Olavsgaard Hotel (Lunch)"
+          },
+          "coords": [
+            11.06,
+            60.01
+          ],
+          "category": "gastro",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Probieren Sie traditionelle norwegische Gerichte im Hotelrestaurant.",
+            "hu": "Kóstolja meg a hagyományos norvég ételeket a szálloda éttermében.",
+            "ro": "Încercați preparate tradiționale norvegiene la restaurantul hotelului.",
+            "en": "Try some traditional Norwegian dishes at the hotel's restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Leira Flusslandschaft",
+            "hu": "Leira folyóparti táj",
+            "ro": "Peisajul râului Leira",
+            "en": "Leira River Landscape"
+          },
+          "coords": [
+            11.049,
+            60.005
+          ],
+          "category": "natural features",
+          "arrive_at": "14:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang am Nachmittag.",
+            "hu": "Tökéletes hely egy pihentető délutáni sétához.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă de după-amiază.",
+            "en": "A perfect spot for a relaxing afternoon walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Skedsmosenteret",
+            "hu": "Vissza a Skedsmosenteret-be",
+            "ro": "Înapoi la Skedsmosenteret",
+            "en": "Return to Skedsmosenteret"
+          },
+          "coords": [
+            11.038,
+            60.011
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit Souvenir-Shopping oder einem letzten Drink.",
+            "hu": "Zárja a napot ajándékvásárlással vagy egy utolsó itallal.",
+            "ro": "Încheiați ziua cumpărând suveniruri sau savurând o ultimă băutură.",
+            "en": "End your day with some souvenir shopping or a final drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Skedsmokorset, dem Skedsmosenteret, und spüren Sie die lokale Atmosphäre. Der Vormittag führt Sie durch die Geschichte, von der mittelalterlichen Skedsmo Kirche bis zum historischen Huseby Gård. Nach einem stärkenden norwegischen Mittagessen im Olavsgaard Hotel verbringen Sie den Nachmittag mit einem Spaziergang durch die ruhige Leira Flusslandschaft. Der Abend dämmert, während Sie zum Zentrum zurückkehren und die Eindrücke eines erfüllten Tages voller Kultur und Natur genießen.",
+        "hu": "Kezdje a napot Skedsmokorset szívében, a Skedsmosenteretben, és érezze át a helyi hangulatot. A délelőtt a történelem jegyében telik, a középkori Skedsmo templomtól a történelmi Huseby farmig. Egy kiadós norvég ebéd után az Olavsgaard Hotelben a délutánt egy sétával töltse a békés Leira folyóparti tájon. Az este közeledtével térjen vissza a központba, és élvezze a kultúrával és természettel teli nap élményeit.",
+        "ro": "Începeți ziua în inima orașului Skedsmokorset, la Skedsmosenteret, pentru a simți atmosfera locală. Dimineața vă poartă prin istorie, de la biserica medievală Skedsmo la ferma istorică Huseby Gård. După un prânz norvegian consistent la Hotelul Olavsgaard, petreceți după-amiaza plimbându-vă prin peisajul liniștit al râului Leira. Seara se apropie în timp ce vă întoarceți în centru, savurând amintirile unei zile pline de cultură și natură.",
+        "en": "Start your day in the heart of Skedsmokorset at the Skedsmosenteret, feeling the local vibe. The morning takes you through history, from the medieval Skedsmo Church to the historic Huseby Gård. After a hearty Norwegian lunch at Olavsgaard Hotel, spend the afternoon strolling through the tranquil Leira River Landscape. Evening descends as you return to the center, soaking in the memories of a fulfilling day of culture and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fårikål",
+            "tip": "Ein herzhafter Lammeintopf, perfekt für kühlere Tage."
+          },
+          {
+            "name": "Kjøttkaker",
+            "tip": "Norwegische Fleischklöße, serviert mit Soße und Kartoffeln."
+          },
+          {
+            "name": "Rømmegrøt",
+            "tip": "Ein traditioneller Sauerrahmbrei, oft zu besonderen Anlässen gegessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fårikål",
+            "tip": "Kiadós báránypörkölt, tökéletes a hűvösebb napokra."
+          },
+          {
+            "name": "Kjøttkaker",
+            "tip": "Norvég húsgombócok mártással és burgonyával tálalva."
+          },
+          {
+            "name": "Rømmegrøt",
+            "tip": "Hagyományos tejfölös kása, gyakran különleges alkalmakkor fogyasztják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fårikål",
+            "tip": "O tocană consistentă de miel, perfectă pentru zilele mai răcoroase."
+          },
+          {
+            "name": "Kjøttkaker",
+            "tip": "Chiftele norvegiene servite cu sos și cartofi."
+          },
+          {
+            "name": "Rømmegrøt",
+            "tip": "Un terci tradițional din smântână, adesea consumat la ocazii speciale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fårikål",
+            "tip": "A hearty lamb stew, perfect for cooler days."
+          },
+          {
+            "name": "Kjøttkaker",
+            "tip": "Norwegian meatballs served with gravy and potatoes."
+          },
+          {
+            "name": "Rømmegrøt",
+            "tip": "A traditional sour cream porridge, often eaten on special occasions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leira Flusslandschaft",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer und lauschen Sie dem Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tæruddalen",
+            "tip": "Ein ausgedehntes Waldgebiet für einen friedlichen Rückzug in die Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedhof der Skedsmo Kirche",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leira folyóparti táj",
+            "tip": "Keressen egy csendes padot a folyóparton, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tæruddalen",
+            "tip": "Egy kiterjedt erdős terület a békés természeti elvonuláshoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Skedsmo templom temetője",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peisajul râului Leira",
+            "tip": "Găsiți o bancă liniștită pe malul râului și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tæruddalen",
+            "tip": "O zonă forestieră extinsă pentru o retragere pașnică în natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul Bisericii Skedsmo",
+            "tip": "Un loc de liniște și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Leira River Landscape",
+            "tip": "Find a quiet bench by the riverbank and listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tæruddalen",
+            "tip": "A vast forest area for a peaceful nature retreat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Skedsmo Church graveyard",
+            "tip": "A place of silence and contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Skedsmosenteret",
+            "tip": "Finden Sie lokale Handwerkskunst und norwegische Souvenirs."
+          },
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Halten Sie Ausschau nach Schildern für frische Produkte direkt vom Bauernhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Skedsmosenteret",
+            "tip": "Találjon helyi kézműves termékeket és norvég ajándéktárgyakat."
+          },
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "Keresse a friss, közvetlenül a gazdaságból származó termékeket hirdető táblákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Skedsmosenteret",
+            "tip": "Găsiți artizanat local și suveniruri norvegiene."
+          },
+          {
+            "name": "Magazinele fermelor locale",
+            "tip": "Căutați indicatoare pentru produse proaspete direct de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Skedsmosenteret",
+            "tip": "Find local crafts and Norwegian souvenirs."
+          },
+          {
+            "name": "Local farm shops",
+            "tip": "Look out for signs for fresh produce straight from the farm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe, da Sie viel zu Fuß unterwegs sein werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Prüfen Sie die Wettervorhersage und kleiden Sie sich in Schichten.",
+          "Ein kleiner Rucksack für Snacks und Wasser ist eine gute Idee."
+        ],
+        "hu": [
+          "Viseljen kényelmes sétacipőt, mivel sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Ellenőrizze az időjárás-előrejelzést, és öltözzön rétegesen.",
+          "Egy kis hátizsák snackeknek és víznek jó ötlet."
+        ],
+        "ro": [
+          "Purtați pantofi de mers confortabili, deoarece veți merge mult pe jos.",
+          "Luați cu voi o sticlă de apă reutilizabilă.",
+          "Verificați prognoza meteo și îmbrăcați-vă în straturi.",
+          "Un rucsac mic pentru gustări și apă este o idee bună."
+        ],
+        "en": [
+          "Wear comfortable walking shoes as you will be on your feet a lot.",
+          "Bring a reusable water bottle.",
+          "Check the weather forecast and dress in layers.",
+          "A small backpack for snacks and water is a good idea."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Skedsmosenteret",
+            "hu": "Skedsmosenteret (Városközpont)",
+            "ro": "Skedsmosenteret (Centrul orașului)",
+            "en": "Skedsmosenteret (Town Center)"
+          },
+          "coords": [
+            11.038,
+            60.011
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, während Sie das Zentrum erkunden.",
+            "hu": "Biztonságosan zárja le a kerékpárját, amíg felfedezi a központot.",
+            "ro": "Asigurați-vă bicicleta într-un loc sigur în timp ce explorați centrul.",
+            "en": "Lock your bike securely while you explore the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Sagelva Kulturerbe",
+            "hu": "Sagelva kulturális örökség",
+            "ro": "Patrimoniul cultural Sagelva",
+            "en": "Sagelva Cultural Heritage"
+          },
+          "coords": [
+            11.0,
+            60.025
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die industrielle Vergangenheit der Region entlang des Flusses.",
+            "hu": "Fedezze fel a régió ipari múltját a folyó mentén.",
+            "ro": "Descoperiți trecutul industrial al regiunii de-a lungul râului.",
+            "en": "Discover the region's industrial past along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Huseby Gård",
+            "hu": "Huseby farm",
+            "ro": "Ferma Huseby",
+            "en": "Huseby Farm"
+          },
+          "coords": [
+            11.055,
+            60.02
+          ],
+          "category": "historical",
+          "arrive_at": "11:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour vom Industrieerbe zum ländlichen Erbe.",
+            "hu": "Kellemes kerékpártúra az ipari örökségtől a vidéki örökségig.",
+            "ro": "O plimbare plăcută cu bicicleta de la patrimoniul industrial la cel rural.",
+            "en": "A pleasant bike ride from industrial heritage to rural heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Olavsgaard Hotel (Mittagessen)",
+            "hu": "Olavsgaard Hotel (Ebéd)",
+            "ro": "Hotel Olavsgaard (Prânz)",
+            "en": "Olavsgaard Hotel (Lunch)"
+          },
+          "coords": [
+            11.06,
+            60.01
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein guter Ort, um sich nach der morgendlichen Radtour zu stärken.",
+            "hu": "Jó hely a feltöltődésre a délelőtti kerékpártúra után.",
+            "ro": "Un loc bun pentru a vă reîncărca bateriile după turul de dimineață cu bicicleta.",
+            "en": "A good place to refuel after the morning's bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Brånåsen",
+            "hu": "Brånåsen",
+            "ro": "Brånåsen",
+            "en": "Brånåsen"
+          },
+          "coords": [
+            11.09,
+            60.03
+          ],
+          "category": "natural features",
+          "arrive_at": "14:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich für die fantastische Aussicht über die Landschaft.",
+            "hu": "Megéri a fáradságot feltekerni a tájra nyíló fantasztikus kilátásért.",
+            "ro": "Urcarea merită efortul pentru priveliștea fantastică asupra peisajului.",
+            "en": "The climb is worth it for the fantastic views over the landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Tæruddalen",
+            "hu": "Tæruddalen",
+            "ro": "Tæruddalen",
+            "en": "Tæruddalen"
+          },
+          "coords": [
+            11.07,
+            59.99
+          ],
+          "category": "natural features",
+          "arrive_at": "16:17",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannten Fahrt durch dieses wunderschöne Tal.",
+            "hu": "Zárja a kerékpártúrát egy pihentető tekeréssel ezen a gyönyörű völgyön keresztül.",
+            "ro": "Încheiați turul cu bicicleta cu o plimbare relaxantă prin această vale frumoasă.",
+            "en": "End your bike tour with a relaxing ride through this beautiful valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und starten Sie im Skedsmosenteret. Der Morgen ist eine Reise durch die Zeit, vom industriellen Erbe des Sagelva bis zum ländlichen Charme des Huseby Gård. Nach dem Mittagessen im Olavsgaard erklimmen Sie Brånåsen für atemberaubende Ausblicke. Der Nachmittag klingt mit einer friedlichen Fahrt durch das Tæruddalen-Tal aus, ein perfekter Abschluss für einen aktiven Tag, der die vielfältige Landschaft und Geschichte von Skedsmokorset erkundet.",
+        "hu": "Pattanjon kerékpárra, és induljon a Skedsmosenteretből. A délelőtt egy időutazás, a Sagelva ipari örökségétől a Huseby farm vidéki bájáig. Az Olavsgaardban elköltött ebéd után mássza meg a Brånåsent a lélegzetelállító kilátásért. A délután egy békés tekeréssel zárul a Tæruddalen-völgyön keresztül, tökéletes befejezése egy aktív napnak, amely Skedsmokorset változatos táját és történelmét fedezi fel.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la Skedsmosenteret. Dimineața este o călătorie în timp, de la patrimoniul industrial Sagelva la farmecul rural al fermei Huseby. După prânz la Olavsgaard, urcați pe Brånåsen pentru priveliști uluitoare. După-amiaza se încheie cu o plimbare liniștită prin valea Tæruddalen, un final perfect pentru o zi activă de explorare a peisajului și istoriei diverse din Skedsmokorset.",
+        "en": "Hop on your bike and start from Skedsmosenteret. The morning is a journey through time, from the industrial heritage of Sagelva to the rural charm of Huseby Gård. After lunch at Olavsgaard, you'll climb Brånåsen for breathtaking views. The afternoon concludes with a peaceful ride through the Tæruddalen valley, a perfect end to an active day exploring Skedsmokorset's diverse landscape and history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lapskaus",
+            "tip": "Ein dicker norwegischer Eintopf, der Energie für die Weiterfahrt gibt."
+          },
+          {
+            "name": "Smørbrød",
+            "tip": "Offene Sandwiches mit verschiedenen Belägen, ideal für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Vafler",
+            "tip": "Norwegische Waffeln mit saurer Sahne und Marmelade als Belohnung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lapskaus",
+            "tip": "Sűrű norvég egytálétel, amely energiát ad a további tekeréshez."
+          },
+          {
+            "name": "Smørbrød",
+            "tip": "Nyitott szendvicsek különböző feltétekkel, ideális egy gyors ebédhez."
+          },
+          {
+            "name": "Vafler",
+            "tip": "Norvég gofri tejföllel és lekvárral jutalomként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lapskaus",
+            "tip": "O tocană norvegiană consistentă care vă va da energie pentru restul drumului."
+          },
+          {
+            "name": "Smørbrød",
+            "tip": "Sandvișuri deschise cu diverse toppinguri, ideale pentru un prânz rapid."
+          },
+          {
+            "name": "Vafler",
+            "tip": "Gofre norvegiene cu smântână și gem ca recompensă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lapskaus",
+            "tip": "A thick Norwegian stew that will give you energy for the ride ahead."
+          },
+          {
+            "name": "Smørbrød",
+            "tip": "Open-faced sandwiches with various toppings, ideal for a quick lunch."
+          },
+          {
+            "name": "Vafler",
+            "tip": "Norwegian waffles with sour cream and jam as a reward."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brånåsen Gipfel",
+            "tip": "Genießen Sie die Stille und die weite Aussicht, nachdem Sie den Aufstieg gemeistert haben.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tæruddalen",
+            "tip": "Ein ruhiger Radweg abseits des Verkehrs.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Entlang des Sagelva",
+            "tip": "Lauschen Sie dem Plätschern des Wassers auf dem Weg.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brånåsen csúcsa",
+            "tip": "Élvezze a csendet és a széles panorámát, miután felért a csúcsra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tæruddalen",
+            "tip": "Csendes kerékpárút a forgalomtól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Sagelva mentén",
+            "tip": "Hallgassa a víz csobogását útközben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Brånåsen",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică după ce ați ajuns în vârf.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tæruddalen",
+            "tip": "O pistă de biciclete liniștită, departe de trafic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "De-a lungul râului Sagelva",
+            "tip": "Ascultați susurul apei pe drum.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Brånåsen Summit",
+            "tip": "Enjoy the silence and the expansive view after conquering the climb.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tæruddalen",
+            "tip": "A quiet bike path away from the traffic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Along the Sagelva River",
+            "tip": "Listen to the sound of the water as you ride.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Vielleicht finden Sie nützliche Fahrradaccessoires oder norwegische Outdoor-Ausrüstung."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Kaufen Sie lokale Snacks für Ihre Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Talán talál hasznos kerékpáros kiegészítőket vagy norvég outdoor felszerelést."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Vásároljon helyi harapnivalókat a kerékpártúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "Poate găsiți accesorii utile pentru bicicletă sau echipament norvegian pentru activități în aer liber."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Cumpărați gustări locale pentru turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports shops",
+            "tip": "You might find useful bike accessories or Norwegian outdoor gear."
+          },
+          {
+            "name": "Local markets",
+            "tip": "Buy some local snacks for your bike tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist.",
+          "Norwegen hat strenge Verkehrsregeln für Radfahrer, informieren Sie sich darüber.",
+          "Nehmen Sie ein Fahrradschloss mit.",
+          "Die Hügel können anspruchsvoll sein, seien Sie also auf Anstiege vorbereitet."
+        ],
+        "hu": [
+          "Viseljen sisakot, és győződjön meg róla, hogy a kerékpárja jó állapotban van.",
+          "Norvégiában szigorú közlekedési szabályok vonatkoznak a kerékpárosokra, tájékozódjon róluk.",
+          "Hozzon magával kerékpárzárat.",
+          "A dombok kihívást jelenthetnek, ezért készüljön fel az emelkedőkre."
+        ],
+        "ro": [
+          "Purtați cască și asigurați-vă că bicicleta este în stare bună.",
+          "Norvegia are reguli stricte de circulație pentru bicicliști, informați-vă despre ele.",
+          "Luați cu voi un lacăt pentru bicicletă.",
+          "Dealurile pot fi dificile, așa că fiți pregătiți pentru urcări."
+        ],
+        "en": [
+          "Wear a helmet and make sure your bike is in good condition.",
+          "Norway has strict traffic rules for cyclists, be aware of them.",
+          "Bring a bike lock.",
+          "The hills can be challenging, so be prepared for some climbs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 18.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Skedsmosenteret",
+            "hu": "A klaszter: Skedsmosenteret",
+            "ro": "Cluster A: Skedsmosenteret",
+            "en": "Cluster A: Skedsmosenteret"
+          },
+          "coords": [
+            11.038,
+            60.011
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel az első klasztert gyalog.",
+            "ro": "Parcați aici și explorați primul cluster pe jos.",
+            "en": "Park here and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Skedsmo Kirche",
+            "hu": "Skedsmo templom",
+            "ro": "Biserica Skedsmo",
+            "en": "Skedsmo Church"
+          },
+          "coords": [
+            11.045,
+            60.015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz des Zentrums aus.",
+            "hu": "Rövid séta a központi parkolótól.",
+            "ro": "O scurtă plimbare de la parcarea din centru.",
+            "en": "A short walk from the center's parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Huseby Gård",
+            "hu": "B klaszter: Huseby farm",
+            "ro": "Cluster B: Ferma Huseby",
+            "en": "Cluster B: Huseby Farm"
+          },
+          "coords": [
+            11.055,
+            60.02
+          ],
+          "category": "historical",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster und parken Sie in der Nähe des Hofes.",
+            "hu": "Vezessen a következő klaszterhez, és parkoljon a farm közelében.",
+            "ro": "Conduceți la următorul cluster și parcați lângă fermă.",
+            "en": "Drive to the next cluster and park near the farm."
+          }
+        },
+        {
+          "name": {
+            "de": "Olavsgaard Hotel (Mittagessen)",
+            "hu": "Olavsgaard Hotel (Ebéd)",
+            "ro": "Hotel Olavsgaard (Prânz)",
+            "en": "Olavsgaard Hotel (Lunch)"
+          },
+          "coords": [
+            11.06,
+            60.01
+          ],
+          "category": "gastro",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Hof zum Mittagessen.",
+            "hu": "Kellemes séta a farmtól az ebédig.",
+            "ro": "O plimbare plăcută de la fermă la prânz.",
+            "en": "A nice walk from the farm to have lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Sagelva Kulturerbe",
+            "hu": "C klaszter: Sagelva kulturális örökség",
+            "ro": "Cluster C: Patrimoniul cultural Sagelva",
+            "en": "Cluster C: Sagelva Cultural Heritage"
+          },
+          "coords": [
+            11.0,
+            60.025
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 37,
+          "hop_from_prev_km": 8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zeit, zum Industrieerbe zu fahren. Suchen Sie nach Parkmöglichkeiten am Anfang des Wanderwegs.",
+            "hu": "Ideje az ipari örökséghez hajtani. Keressen parkolót a turistaút elején.",
+            "ro": "Este timpul să conduceți la patrimoniul industrial. Căutați parcare la începutul traseului.",
+            "en": "Time to drive to the industrial heritage. Look for parking at the start of the trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Tæruddalen",
+            "hu": "Tæruddalen",
+            "ro": "Tæruddalen",
+            "en": "Tæruddalen"
+          },
+          "coords": [
+            11.01,
+            60.02
+          ],
+          "category": "natural features",
+          "arrive_at": "15:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang verbindet diese beiden Natur- und Kulturerbestätten.",
+            "hu": "Egy rövid séta köti össze ezt a két természeti és kulturális örökségi helyszínt.",
+            "ro": "O scurtă plimbare leagă aceste două situri de patrimoniu natural și cultural.",
+            "en": "A short walk connects these two natural and cultural heritage sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Brånåsen",
+            "hu": "Brånåsen kilátó",
+            "ro": "Punct de vedere Brånåsen",
+            "en": "Brånåsen Viewpoint"
+          },
+          "coords": [
+            11.09,
+            60.03
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, eine kurze Fahrt für eine weite Aussicht.",
+            "hu": "A nap utolsó állomása, egy rövid autóút a pazar kilátásért.",
+            "ro": "Ultima oprire a zilei, o scurtă călătorie cu mașina pentru o priveliște panoramică.",
+            "en": "The final stop of the day, a short drive for a wide view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Skedsmokorset basiert auf dem 'Cluster-Walking'-Prinzip. Sie parken im Zentrum, um die Skedsmo Kirche zu Fuß zu erkunden. Dann fahren Sie zu Ihrem nächsten Cluster, Huseby Gård, von wo aus Sie zum Mittagessen im Olavsgaard spazieren. Der Nachmittag bringt Sie per Auto zum Sagelva-Kulturerbe, gefolgt von einem Spaziergang ins Tæruddalen. Die Tour endet mit einer kurzen Fahrt zum Brånåsen, wo Sie den Tag mit einer herrlichen Aussicht ausklingen lassen. Diese Methode kombiniert den Komfort des Autos mit immersiven Spaziergängen.",
+        "hu": "Az autós napja Skedsmokorsetben a „klaszteres séta” elvén alapul. A központban parkol, hogy gyalog fedezze fel a Skedsmo templomot. Ezután a következő klaszterhez, a Huseby farmhoz hajt, ahonnan elsétál ebédelni az Olavsgaardba. A délután autóval viszi Önt a Sagelva kulturális örökséghez, majd egy séta következik a Tæruddalenbe. A túra egy rövid autóúttal ér véget a Brånåsenre, ahol a napot egy csodálatos kilátással zárja. Ez a módszer ötvözi az autó kényelmét a magával ragadó sétákkal.",
+        "ro": "Ziua dvs. cu mașina în Skedsmokorset se bazează pe principiul „cluster-walking”. Parcați în centru pentru a explora pe jos Biserica Skedsmo. Apoi, conduceți la următorul cluster, ferma Huseby, de unde vă plimbați la prânz la Olavsgaard. După-amiaza vă duce cu mașina la patrimoniul cultural Sagelva, urmată de o plimbare în Tæruddalen. Turul se încheie cu o scurtă călătorie cu mașina spre Brånåsen, unde încheiați ziua cu o priveliște magnifică. Această metodă combină confortul mașinii cu plimbări captivante.",
+        "en": "Your car day in Skedsmokorset uses the 'cluster-walking' philosophy. You'll park in the center to explore Skedsmo Church on foot. Then, you'll drive to your next cluster, Huseby Gård, from where you'll walk to lunch at Olavsgaard. The afternoon takes you by car to the Sagelva Cultural Heritage, followed by a walk into Tæruddalen. The tour culminates with a final short drive to Brånåsen, ending the day with a magnificent view. This method mixes the convenience of a car with immersive walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Elch-Burger",
+            "tip": "Eine lokale Delikatesse, die Sie in einigen Restaurants finden können."
+          },
+          {
+            "name": "Fischsuppe (Fiskesuppe)",
+            "tip": "Eine cremige und köstliche Suppe, typisch für die norwegische Küste, aber auch im Landesinneren beliebt."
+          },
+          {
+            "name": "Cloudberries (Molte)",
+            "tip": "Wenn Saison ist, probieren Sie diese arktische Beere als Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jávorszarvas burger",
+            "tip": "Helyi finomság, amelyet néhány étteremben megtalálhat."
+          },
+          {
+            "name": "Halászlé (Fiskesuppe)",
+            "tip": "Krémes és ízletes leves, amely a norvég tengerpartra jellemző, de a szárazföldön is népszerű."
+          },
+          {
+            "name": "Törpemálna (Molte)",
+            "tip": "Ha szezonja van, kóstolja meg ezt az sarkvidéki bogyót desszertként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burger de elan",
+            "tip": "O delicatesă locală pe care o puteți găsi în unele restaurante."
+          },
+          {
+            "name": "Supă de pește (Fiskesuppe)",
+            "tip": "O supă cremoasă și delicioasă, tipică pentru coasta norvegiană, dar populară și în interiorul țării."
+          },
+          {
+            "name": "Mure pitice (Molte)",
+            "tip": "Dacă este sezon, încercați acest fruct de pădure arctic ca desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moose Burger",
+            "tip": "A local delicacy you might find in some restaurants."
+          },
+          {
+            "name": "Fish Soup (Fiskesuppe)",
+            "tip": "A creamy and delicious soup, typical of the Norwegian coast but also popular inland."
+          },
+          {
+            "name": "Cloudberries (Molte)",
+            "tip": "If in season, try this arctic berry for dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Brånåsen",
+            "tip": "Ein perfekter Ort, um den Sonnenuntergang oder einfach nur die Stille zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang in Tæruddalen",
+            "tip": "Verlieren Sie sich auf den Waldwegen und genießen Sie die Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Leira",
+            "tip": "Finden Sie einen abgelegenen Platz am Fluss, der nur mit dem Auto erreichbar ist.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brånåsen kilátó",
+            "tip": "Tökéletes hely a naplemente vagy csak a csend élvezetére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta Tæruddalenben",
+            "tip": "Vesszen el az erdei ösvényeken és élvezze a nyugalmat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Leira folyó partja",
+            "tip": "Keressen egy eldugott helyet a folyóparton, amely csak autóval érhető el.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de vedere Brånåsen",
+            "tip": "Un loc perfect pentru a vă bucura de apus sau doar de liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare în Tæruddalen",
+            "tip": "Pierdeți-vă pe potecile pădurii și bucurați-vă de pace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul râului Leira",
+            "tip": "Găsiți un loc retras lângă râu, accesibil doar cu mașina.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Brånåsen Viewpoint",
+            "tip": "A perfect spot to enjoy the sunset or just the silence.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk in Tæruddalen",
+            "tip": "Get lost on the forest paths and enjoy the peace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Leira River",
+            "tip": "Find a secluded spot by the river, accessible by car.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden auf dem Land",
+            "tip": "Nutzen Sie das Auto, um Hofläden außerhalb des Zentrums zu besuchen."
+          },
+          {
+            "name": "Skedsmosenteret",
+            "tip": "Größere Einkäufe können Sie bequem im Auto verstauen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok vidéken",
+            "tip": "Használja ki az autót, hogy meglátogassa a központon kívüli termelői boltokat."
+          },
+          {
+            "name": "Skedsmosenteret",
+            "tip": "A nagyobb vásárlásokat kényelmesen tárolhatja az autóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la ferme la țară",
+            "tip": "Folosiți mașina pentru a vizita magazinele de la ferme din afara centrului."
+          },
+          {
+            "name": "Skedsmosenteret",
+            "tip": "Puteți depozita convenabil cumpărăturile mai mari în mașină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the countryside",
+            "tip": "Use the car to visit farm shops outside the center."
+          },
+          {
+            "name": "Skedsmosenteret",
+            "tip": "You can conveniently store larger purchases in the car."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Norwegen gibt es Mautstraßen, stellen Sie sicher, dass Ihr Auto registriert ist (AutoPASS).",
+          "Parkplätze können begrenzt und kostenpflichtig sein.",
+          "Die Geschwindigkeitsbegrenzungen sind streng und die Bußgelder hoch.",
+          "Haben Sie eine gute Navigations-App oder ein GPS."
+        ],
+        "hu": [
+          "Norvégiában fizetős utak vannak, győződjön meg róla, hogy az autója regisztrálva van (AutoPASS).",
+          "A parkolóhelyek korlátozottak és fizetősek lehetnek.",
+          "A sebességkorlátozások szigorúak, a bírságok pedig magasak.",
+          "Legyen egy jó navigációs alkalmazása vagy GPS-e."
+        ],
+        "ro": [
+          "Există drumuri cu taxă în Norvegia, asigurați-vă că mașina dvs. este înregistrată (AutoPASS).",
+          "Locurile de parcare pot fi limitate și cu plată.",
+          "Limitele de viteză sunt stricte, iar amenzile sunt mari.",
+          "Asigurați-vă că aveți o aplicație bună de navigație sau un GPS."
+        ],
+        "en": [
+          "There are toll roads in Norway, make sure your car is registered (AutoPASS).",
+          "Parking can be limited and paid.",
+          "Speed limits are strict and fines are high.",
+          "Have a good navigation app or GPS."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 13.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Skedsmosenteret",
+            "hu": "A klaszter: Skedsmosenteret",
+            "ro": "Cluster A: Skedsmosenteret",
+            "en": "Cluster A: Skedsmosenteret"
+          },
+          "coords": [
+            11.038,
+            60.011
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ihr Ausgangspunkt, leicht mit dem Bus zu erreichen.",
+            "hu": "A kiindulópont, könnyen megközelíthető busszal.",
+            "ro": "Punctul dvs. de plecare, ușor accesibil cu autobuzul.",
+            "en": "Your starting point, easily accessible by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Skedsmo Kirche",
+            "hu": "Skedsmo templom",
+            "ro": "Biserica Skedsmo",
+            "en": "Skedsmo Church"
+          },
+          "coords": [
+            11.045,
+            60.015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle im Zentrum.",
+            "hu": "Rövid séta a központi buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația de autobuz din centru.",
+            "en": "A short walk from the central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Huseby Gård",
+            "hu": "B klaszter: Huseby farm",
+            "ro": "Cluster B: Ferma Huseby",
+            "en": "Cluster B: Huseby Farm"
+          },
+          "coords": [
+            11.055,
+            60.02
+          ],
+          "category": "historical",
+          "arrive_at": "10:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum nächsten Cluster. Überprüfen Sie die Fahrpläne im Voraus.",
+            "hu": "Menjen busszal a következő klaszterhez. Ellenőrizze előre a menetrendet.",
+            "ro": "Luați un autobuz către următorul cluster. Verificați orarele în avans.",
+            "en": "Take a bus to the next cluster. Check schedules in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Leira Flusslandschaft",
+            "hu": "Leira folyóparti táj",
+            "ro": "Peisajul râului Leira",
+            "en": "Leira River Landscape"
+          },
+          "coords": [
+            11.049,
+            60.005
+          ],
+          "category": "natural features",
+          "arrive_at": "12:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang innerhalb des zweiten Clusters.",
+            "hu": "Pihentető séta a második klaszteren belül.",
+            "ro": "O plimbare relaxantă în cadrul celui de-al doilea cluster.",
+            "en": "A relaxing walk within the second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Olavsgaard (Mittagessen)",
+            "hu": "C klaszter: Olavsgaard (Ebéd)",
+            "ro": "Cluster C: Olavsgaard (Prânz)",
+            "en": "Cluster C: Olavsgaard (Lunch)"
+          },
+          "coords": [
+            11.06,
+            60.01
+          ],
+          "category": "gastro",
+          "arrive_at": "14:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zum Mittagessen. Das Hotel ist auch ein kultureller Treffpunkt.",
+            "hu": "Menjen busszal ebédelni. A szálloda egyben kulturális központ is.",
+            "ro": "Luați autobuzul la prânz. Hotelul este, de asemenea, un centru cultural.",
+            "en": "Take a bus to lunch. The hotel is also a cultural hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Sagelva Kulturerbe",
+            "hu": "Sagelva kulturális örökség",
+            "ro": "Patrimoniul cultural Sagelva",
+            "en": "Sagelva Cultural Heritage"
+          },
+          "coords": [
+            11.0,
+            60.025
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die letzte Busfahrt des Tages führt Sie zur industriellen Geschichte von Skedsmo.",
+            "hu": "A nap utolsó buszútja Skedsmo ipari történelméhez vezet.",
+            "ro": "Ultima călătorie cu autobuzul a zilei vă duce la istoria industrială a Skedsmo.",
+            "en": "The last bus ride of the day takes you to Skedsmo's industrial history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Skedsmokorset in Clustern. Beginnen Sie im Zentrum und spazieren Sie zur Kirche. Nehmen Sie dann einen Bus zum Huseby Gård und spazieren Sie von dort zur Leira-Flusslandschaft. Eine weitere Busfahrt bringt Sie zum Mittagessen ins Olavsgaard. Den Abschluss bildet eine Fahrt zum Sagelva-Kulturerbe. Dieser Plan optimiert die Nutzung von Bussen und minimiert Wartezeiten, während er Ihnen erlaubt, jeden Bereich intensiv zu Fuß zu erkunden.",
+        "hu": "Tömegközlekedéssel klaszterekben fedezheti fel Skedsmokorsetet. Kezdje a központban, és sétáljon el a templomhoz. Ezután buszozzon el a Huseby farmhoz, ahonnan a Leira folyóparti tájhoz sétálhat. Egy másik buszút viszi ebédelni az Olavsgaardba. A napot a Sagelva kulturális örökséghez tett utazás zárja. Ez a terv optimalizálja a buszhasználatot és minimalizálja a várakozási időt, miközben lehetővé teszi az egyes területek alapos gyalogos felfedezését.",
+        "ro": "Folosind transportul public, explorați Skedsmokorset în clustere. Începeți din centru și mergeți pe jos până la biserică. Apoi, luați un autobuz până la ferma Huseby și plimbați-vă până la peisajul râului Leira. O altă călătorie cu autobuzul vă va duce la prânz la Olavsgaard. Ziua se încheie cu o călătorie la patrimoniul cultural Sagelva. Acest plan optimizează utilizarea autobuzelor și minimizează timpii de așteptare, permițându-vă în același timp să explorați în profunzime fiecare zonă pe jos.",
+        "en": "Using public transit, you'll explore Skedsmokorset in clusters. Start in the center and walk to the church. Then, take a bus to Huseby Gård and stroll to the Leira River landscape. Another bus ride will take you to lunch at Olavsgaard. The day concludes with a trip to the Sagelva Cultural Heritage. This plan optimizes bus usage and minimizes waiting, while allowing you to deeply explore each area on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Ein schneller und klassischer norwegischer Snack: eine Wurst in einem Kartoffelfladen."
+          },
+          {
+            "name": "Brunost",
+            "tip": "Probieren Sie diesen süßen, karamellartigen braunen Käse, eine norwegische Spezialität."
+          },
+          {
+            "name": "Solo",
+            "tip": "Ein erfrischendes norwegisches Orangen-Soda."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Gyors és klasszikus norvég snack: virsli burgonyás lepényben."
+          },
+          {
+            "name": "Brunost",
+            "tip": "Kóstolja meg ezt az édes, karamellszerű barna sajtot, egy norvég különlegességet."
+          },
+          {
+            "name": "Solo",
+            "tip": "Frissítő norvég narancsos üdítő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "O gustare norvegiană rapidă și clasică: un cârnat într-o lipie de cartofi."
+          },
+          {
+            "name": "Brunost",
+            "tip": "Încercați această brânză maro dulce, asemănătoare caramelului, o specialitate norvegiană."
+          },
+          {
+            "name": "Solo",
+            "tip": "O băutură răcoritoare norvegiană cu portocale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "A quick and classic Norwegian snack: a hot dog in a potato flatbread."
+          },
+          {
+            "name": "Brunost",
+            "tip": "Try this sweet, caramel-like brown cheese, a Norwegian specialty."
+          },
+          {
+            "name": "Solo",
+            "tip": "A refreshing Norwegian orange soda."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Auf der Busfahrt",
+            "tip": "Schauen Sie aus dem Fenster und beobachten Sie die vorbeiziehende Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Warten auf den Bus",
+            "tip": "Nutzen Sie die kurzen Pausen, um die Umgebung zu beobachten und durchzuatmen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein ruhiger Pfad in Tæruddalen",
+            "tip": "Auch mit öffentlichen Verkehrsmitteln erreichen Sie Oasen der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A buszozás alatt",
+            "tip": "Nézzen ki az ablakon, és figyelje az elhaladó tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Buszra várva",
+            "tip": "Használja ki a rövid szüneteket a környezet megfigyelésére és egy mély lélegzetvételre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy csendes ösvény Tæruddalenben",
+            "tip": "Tömegközlekedéssel is elérheti a nyugalom oázisait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "În timpul călătoriei cu autobuzul",
+            "tip": "Priviți pe geam și observați peisajul care trece.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Așteptând autobuzul",
+            "tip": "Folosiți pauzele scurte pentru a observa împrejurimile și a respira adânc.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O potecă liniștită în Tæruddalen",
+            "tip": "Chiar și cu transportul public, puteți ajunge la oaze de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "On the bus ride",
+            "tip": "Look out the window and watch the scenery go by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waiting for the bus",
+            "tip": "Use the short breaks to observe your surroundings and take a breath.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A quiet path in Tæruddalen",
+            "tip": "Even with public transit, you can reach oases of calm.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Kaufen Sie eine Zeitung oder ein Magazin für die Fahrt."
+          },
+          {
+            "name": "Skedsmosenteret",
+            "tip": "Kaufen Sie Souvenirs, bevor Sie den Bus nach Hause nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Vásároljon újságot vagy magazint az útra."
+          },
+          {
+            "name": "Skedsmosenteret",
+            "tip": "Vásároljon ajándéktárgyakat, mielőtt hazamegy a busszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri din stațiile de autobuz",
+            "tip": "Cumpărați un ziar sau o revistă pentru călătorie."
+          },
+          {
+            "name": "Skedsmosenteret",
+            "tip": "Cumpărați suveniruri înainte de a lua autobuzul spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "Buy a newspaper or magazine for the ride."
+          },
+          {
+            "name": "Skedsmosenteret",
+            "tip": "Buy souvenirs before you take the bus home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr (Ruter App).",
+          "Planen Sie Ihre Route im Voraus und prüfen Sie die Busfahrpläne.",
+          "Seien Sie pünktlich an der Bushaltestelle, besonders in ländlichen Gebieten.",
+          "Geben Sie dem Fahrer ein Handzeichen, damit der Bus anhält."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez (Ruter alkalmazás).",
+          "Tervezze meg előre az útvonalat, és ellenőrizze a buszmenetrendeket.",
+          "Legyen időben a buszmegállóban, különösen a vidéki területeken.",
+          "Intsen a sofőrnek, hogy a busz megálljon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public (aplicația Ruter).",
+          "Planificați-vă ruta în avans și verificați orarele autobuzelor.",
+          "Fiți la stația de autobuz la timp, în special în zonele rurale.",
+          "Faceți semn șoferului pentru ca autobuzul să oprească."
+        ],
+        "en": [
+          "Buy a day pass for public transport (Ruter app).",
+          "Plan your route in advance and check the bus schedules.",
+          "Be at the bus stop on time, especially in rural areas.",
+          "Signal the driver for the bus to stop."
+        ]
+      }
+    }
+  }
+}

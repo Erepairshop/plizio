@@ -1,0 +1,1388 @@
+{
+  "city_id": "atalanti",
+  "anchor": {
+    "name": "Atalanti",
+    "coords": [
+      38.65,
+      22.9833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            38.651,
+            22.983
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der lokalen Kafenions.",
+            "hu": "Kezdje a napot egy kávéval a helyi kafenionok egyikében.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day with a coffee at one of the local kafenions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agii Theodori",
+            "hu": "Agii Theodori templom",
+            "ro": "Biserica Agii Theodori",
+            "en": "Church of Agii Theodori"
+          },
+          "coords": [
+            38.6525,
+            22.9845
+          ],
+          "category": "churches",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Fresken im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző belső freskókat.",
+            "ro": "Fiți atenți la frescele impresionante din interior.",
+            "en": "Pay attention to the impressive frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Opus",
+            "hu": "Ókori Opus",
+            "ro": "Opusul Antic",
+            "en": "Ancient Opus"
+          },
+          "coords": [
+            38.6495,
+            22.986
+          ],
+          "category": "historical",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tragen Sie bequeme Schuhe, um das Gelände zu erkunden.",
+            "hu": "Viseljen kényelmes cipőt a terület felfedezéséhez.",
+            "ro": "Purtați pantofi confortabili pentru a explora situl.",
+            "en": "Wear comfortable shoes to explore the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Atalanti",
+            "hu": "Atalanti Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Atalanti",
+            "en": "Archaeological Museum of Atalanti"
+          },
+          "coords": [
+            38.6515,
+            22.981
+          ],
+          "category": "museums",
+          "arrive_at": "12:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das Museum beherbergt Funde aus dem antiken Opus.",
+            "hu": "A múzeum az ókori Opusból származó leleteket őriz.",
+            "ro": "Muzeul găzduiește artefacte din Opusul antic.",
+            "en": "The museum houses finds from ancient Opus."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Taverne",
+            "hu": "Ebéd egy tavernában",
+            "ro": "Prânz la o tavernă",
+            "en": "Lunch at a Taverna"
+          },
+          "coords": [
+            38.65,
+            22.982
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie die lokalen Souvlaki und einen griechischen Salat.",
+            "hu": "Kóstolja meg a helyi souvlakit és egy görög salátát.",
+            "ro": "Încercați souvlaki local și o salată grecească.",
+            "en": "Try the local souvlaki and a Greek salad."
+          }
+        },
+        {
+          "name": {
+            "de": "Folklore-Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            38.652,
+            22.98
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Einblick in das lokale Leben der vergangenen Jahrhunderte.",
+            "hu": "Betekintés az elmúlt évszázadok helyi életébe.",
+            "ro": "O privire asupra vieții locale din secolele trecute.",
+            "en": "An insight into the local life of past centuries."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Atalanti beginnt am zentralen Rathausplatz, dem Herzen der Stadt. Nach einem Besuch der historischen Agii Theodori Kirche tauchen Sie in die antike Geschichte bei den Ruinen von Opus ein. Am Nachmittag erkunden Sie die reichen Sammlungen des Archäologischen und des Folklore-Museums, die Ihnen ein tiefes Verständnis für die Region vermitteln. Ein gemütliches Mittagessen in einer traditionellen Taverne rundet das Erlebnis ab. Am Abend können Sie die entspannte Atmosphäre der Stadt genießen.",
+        "hu": "Az atalanti nap a központi Városháza téren, a város szívében kezdődik. Az Agii Theodori templom meglátogatása után merüljön el az ókori Opus romjainál a történelemben. Délután fedezze fel a Régészeti és a Néprajzi Múzeum gazdag gyűjteményeit, amelyek mély betekintést nyújtanak a régióba. Egy kellemes ebéd egy hagyományos tavernában teszi teljessé az élményt. Este élvezze a város nyugodt hangulatát.",
+        "ro": "Ziua ta în Atalanti începe în Piața Primăriei, inima orașului. După o vizită la istorica biserică Agii Theodori, te cufunzi în istoria antică la ruinele din Opus. După-amiaza, explorezi colecțiile bogate ale Muzeului de Arheologie și ale Muzeului de Folclor, care îți oferă o înțelegere profundă a regiunii. Un prânz plăcut la o tavernă tradițională completează experiența. Seara, te poți bucura de atmosfera relaxată a orașului.",
+        "en": "Your day in Atalanti begins at the central Town Hall Square, the heart of the city. After visiting the historic Church of Agii Theodori, you'll delve into ancient history at the ruins of Opus. In the afternoon, explore the rich collections of the Archaeological and Folklore Museums, giving you a deep understanding of the region. A pleasant lunch at a traditional taverna completes the experience. In the evening, you can enjoy the relaxed atmosphere of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souvlaki",
+            "tip": "Gegrillte Fleischspieße, oft mit Pita und Tzatziki serviert."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "Ein herzhafter Auflauf aus Auberginen, Hackfleisch und Béchamelsauce."
+          },
+          {
+            "name": "Taverna 'O Stelios'",
+            "tip": "Bekannt für seine authentische griechische Küche und freundliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvlaki",
+            "tip": "Grillezett húsnyársak, gyakran pitával és tzatzikivel tálalva."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "Kiadós rakott étel padlizsánból, darált húsból és besamelmártásból."
+          },
+          {
+            "name": "Taverna 'O Stelios'",
+            "tip": "Híres az autentikus görög konyhájáról és barátságos légköréről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvlaki",
+            "tip": "Frigărui de carne la grătar, adesea servite cu pită și tzatziki."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "O caserolă consistentă din vinete, carne tocată și sos béchamel."
+          },
+          {
+            "name": "Taverna 'O Stelios'",
+            "tip": "Cunoscută pentru bucătăria sa grecească autentică și atmosfera prietenoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvlaki",
+            "tip": "Grilled meat skewers, often served with pita and tzatziki."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "A hearty casserole of eggplant, minced meat, and béchamel sauce."
+          },
+          {
+            "name": "Taverna 'O Stelios'",
+            "tip": "Known for its authentic Greek cuisine and friendly atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hof der Agii Theodori Kirche",
+            "tip": "Ein ruhiger Ort zum Nachdenken nach der Erkundung des geschäftigen Platzes.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olivenhain am Rande der Stadt",
+            "tip": "Ein Spaziergang durch die alten Bäume bietet Frieden und Schatten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Agii Theodori templom udvara",
+            "tip": "Egy csendes hely az elmélkedésre a nyüzsgő tér felfedezése után.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olajfaliget a város szélén",
+            "tip": "Séta az öreg fák között, békét és árnyékot nyújt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Bisericii Agii Theodori",
+            "tip": "Un loc liniștit pentru reflecție după explorarea pieței aglomerate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Livada de măslini de la marginea orașului",
+            "tip": "O plimbare printre copacii bătrâni oferă pace și umbră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyard of Agii Theodori Church",
+            "tip": "A quiet spot for reflection after exploring the busy square.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olive grove on the edge of town",
+            "tip": "A walk among the old trees offers peace and shade.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie lokale Produkte wie Olivenöl, Honig und Kräuter."
+          },
+          {
+            "name": "Keramikladen",
+            "tip": "Finden Sie handgefertigte Keramik als einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi termékeket, mint olívaolaj, méz és fűszerek."
+          },
+          {
+            "name": "Kerámia bolt",
+            "tip": "Találjon kézzel készített kerámiákat egyedi szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse locale precum ulei de măsline, miere și ierburi."
+          },
+          {
+            "name": "Magazin de ceramică",
+            "tip": "Găsiți ceramică lucrată manual ca un suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for local products like olive oil, honey, and herbs."
+          },
+          {
+            "name": "Ceramics Shop",
+            "tip": "Find handmade pottery for a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine Wasserflasche mit, besonders in den Sommermonaten.",
+          "Die meisten Geschäfte und Museen haben möglicherweise während der Mittagszeit geschlossen.",
+          "Respektieren Sie die heiligen Stätten und kleiden Sie sich angemessen, wenn Sie Kirchen besuchen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Vigyen magával egy vizes palackot, különösen a nyári hónapokban.",
+          "A legtöbb üzlet és múzeum délben bezárhat.",
+          "Tartsa tiszteletben a szent helyeket, és öltözködjön megfelelően a templomok látogatásakor."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați o sticlă de apă, mai ales în lunile de vară.",
+          "Majoritatea magazinelor și muzeelor pot fi închise în timpul prânzului.",
+          "Respectați locurile sfinte și îmbrăcați-vă adecvat atunci când vizitați bisericile."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring a water bottle, especially during the summer months.",
+          "Most shops and museums may be closed during midday siesta hours.",
+          "Be respectful of holy sites and dress appropriately when visiting churches."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            38.651,
+            22.983
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Fahrrad und bereiten Sie sich auf die Fahrt zur Küste vor.",
+            "hu": "Vegye fel a kerékpárját, és készüljön fel a tengerparti útra.",
+            "ro": "Luați-vă bicicleta și pregătiți-vă pentru o plimbare spre coastă.",
+            "en": "Grab your bike and get ready for the ride to the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Skala",
+            "hu": "Skala kikötője",
+            "ro": "Portul Skala",
+            "en": "Port of Skala"
+          },
+          "coords": [
+            38.672,
+            23.058
+          ],
+          "category": "port",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote und genießen Sie die Meeresbrise.",
+            "hu": "Nézze a halászhajókat, és élvezze a tengeri szellőt.",
+            "ro": "Urmăriți bărcile de pescuit și bucurați-vă de briza mării.",
+            "en": "Watch the fishing boats and enjoy the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Skala Atalantis Beach",
+            "hu": "Skala Atalantis strand",
+            "ro": "Plaja Skala Atalantis",
+            "en": "Skala Atalantis Beach"
+          },
+          "coords": [
+            38.675,
+            23.062
+          ],
+          "category": "beach",
+          "arrive_at": "10:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zeit für ein Bad im Meer oder einfach nur zum Entspannen am Strand.",
+            "hu": "Ideje úszni egyet a tengerben, vagy csak pihenni a parton.",
+            "ro": "Timpul pentru o baie în mare sau pur și simplu pentru a vă relaxa pe plajă.",
+            "en": "Time for a swim in the sea or just relaxing on the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Fisch-Taverne",
+            "hu": "Ebéd egy halászcsárdában",
+            "ro": "Prânz la o tavernă pescărească",
+            "en": "Lunch at a Fish Taverna"
+          },
+          "coords": [
+            38.6735,
+            23.06
+          ],
+          "category": "gastro",
+          "arrive_at": "13:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie frischen Fisch direkt vom Grill.",
+            "hu": "Élvezze a frissen grillezett halat.",
+            "ro": "Savurați pește proaspăt direct de pe grătar.",
+            "en": "Enjoy fresh fish straight from the grill."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Agii Anargyri",
+            "hu": "Agii Anargyri kolostor",
+            "ro": "Mănăstirea Agii Anargyri",
+            "en": "Monastery of Agii Anargyri"
+          },
+          "coords": [
+            38.66,
+            23.015
+          ],
+          "category": "churches",
+          "arrive_at": "15:27",
+          "stay_min": 45,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort mit einer reichen Geschichte.",
+            "hu": "Békés hely, gazdag történelemmel.",
+            "ro": "Un loc pașnic cu o istorie bogată.",
+            "en": "A peaceful place with a rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Rathausplatz",
+            "hu": "Visszatérés a Városháza térre",
+            "ro": "Întoarcere la Piața Primăriei",
+            "en": "Return to Town Hall Square"
+          },
+          "coords": [
+            38.651,
+            22.983
+          ],
+          "category": "squares",
+          "arrive_at": "16:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem erfrischenden Getränk.",
+            "hu": "Zárja a napot egy frissítő itallal.",
+            "ro": "Încheiați ziua cu o băutură răcoritoare.",
+            "en": "End your day with a refreshing drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet im Herzen von Atalanti und führt Sie direkt zur Küste. Morgens erkunden Sie den malerischen Hafen von Skala, bevor Sie sich am langen Sandstrand entspannen. Ein Mittagessen mit frischem Fisch stärkt Sie für den Nachmittag. Auf dem Rückweg machen Sie Halt am ruhigen Kloster Agii Anargyri, einem Ort der Stille und Besinnung. Die Tour endet wieder im Zentrum, wo Sie die Erlebnisse des Tages Revue passieren lassen können.",
+        "hu": "Kerékpártúrája Atalanti szívéből indul és egyenesen a tengerpartra vezet. Délelőtt felfedezi Skala festői kikötőjét, mielőtt a hosszú homokos tengerparton pihenne. Egy friss halból készült ebéd erőt ad a délutánhoz. Visszafelé megáll a csendes Agii Anargyri kolostornál, a béke és elmélkedés helyén. A túra ismét a központban ér véget, ahol felidézheti a nap élményeit.",
+        "ro": "Turul tău cu bicicleta pornește din inima Atalanti și te duce direct la coastă. Dimineața explorezi portul pitoresc din Skala înainte de a te relaxa pe plaja lungă de nisip. Un prânz cu pește proaspăt te va întări pentru după-amiază. Pe drumul de întoarcere, faci o oprire la liniștita mănăstire Agii Anargyri, un loc de pace și reflecție. Turul se încheie din nou în centru, unde poți rememora experiențele zilei.",
+        "en": "Your bike tour starts in the heart of Atalanti and takes you straight to the coast. In the morning, you'll explore the picturesque port of Skala before relaxing on the long sandy beach. A lunch of fresh fish will strengthen you for the afternoon. On the way back, you'll stop at the tranquil Monastery of Agii Anargyri, a place of peace and reflection. The tour ends back in the center, where you can reflect on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Ein Muss in jeder Fischtaverne am Meer."
+          },
+          {
+            "name": "Kalamari",
+            "tip": "Frittierte Tintenfischringe, perfekt mit Zitrone."
+          },
+          {
+            "name": "Taverna 'To Limani'",
+            "tip": "Direkt am Hafen von Skala gelegen, bekannt für seine frischen Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett polip",
+            "tip": "Minden tengerparti halászcsárdában kötelező."
+          },
+          {
+            "name": "Kalamári",
+            "tip": "Sült tintahalkarikák, citrommal tökéletes."
+          },
+          {
+            "name": "Taverna 'To Limani'",
+            "tip": "Közvetlenül Skala kikötőjében található, híres a friss tengeri ételeiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "O necesitate în orice tavernă pescărească de la malul mării."
+          },
+          {
+            "name": "Calamari",
+            "tip": "Inele de calmar prăjite, perfecte cu lămâie."
+          },
+          {
+            "name": "Taverna 'To Limani'",
+            "tip": "Situată chiar în portul Skala, renumită pentru fructele de mare proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Octopus",
+            "tip": "A must-try at any seaside fish taverna."
+          },
+          {
+            "name": "Calamari",
+            "tip": "Fried squid rings, perfect with a squeeze of lemon."
+          },
+          {
+            "name": "Taverna 'To Limani'",
+            "tip": "Located right at the port of Skala, known for its fresh seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Skala Strand",
+            "tip": "Beobachten Sie, wie die Sonne über dem Meer untergeht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kloster Agii Anargyri",
+            "tip": "Der Innenhof des Klosters ist eine Oase der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Skala strandon",
+            "tip": "Nézze, ahogy a nap a tenger fölött lenyugszik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Agii Anargyri kolostor",
+            "tip": "A kolostor udvara a nyugalom oázisa.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare pe plaja Skala",
+            "tip": "Priviți cum soarele apune peste mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mănăstirea Agii Anargyri",
+            "tip": "Curtea mănăstirii este o oază de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Skala Beach",
+            "tip": "Watch the sun dip below the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Monastery of Agii Anargyri",
+            "tip": "The monastery's courtyard is an oasis of tranquility.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen in Skala",
+            "tip": "Finden Sie Muscheln, lokale Handwerkskunst und Postkarten."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "Kaufen Sie Honig von lokalen Imkern im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírbolt Skalában",
+            "tip": "Találjon kagylókat, helyi kézműves termékeket és képeslapokat."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "Vásároljon mézet a helyi méhészektől a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri în Skala",
+            "tip": "Găsiți scoici, artizanat local și cărți poștale."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Cumpărați miere de la apicultorii locali din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop in Skala",
+            "tip": "Find seashells, local crafts, and postcards."
+          },
+          {
+            "name": "Local Honey",
+            "tip": "Buy honey from local beekeepers in the town center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Tragen Sie einen Helm und verwenden Sie Sonnencreme.",
+          "Die Straße zur Küste hat einige Hügel, seien Sie also vorbereitet.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es unbeaufsichtigt lassen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "Viseljen sisakot és használjon naptejet.",
+          "A tengerpartra vezető út néhány dombot tartalmaz, ezért készüljön fel.",
+          "Mindig zárja le a kerékpárját, ha felügyelet nélkül hagyja."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Purtați cască și folosiți cremă de protecție solară.",
+          "Drumul spre coastă are câteva dealuri, așa că fiți pregătiți.",
+          "Încuiati-vă întotdeauna bicicleta atunci când o lăsați nesupravegheată."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Wear a helmet and use sunscreen.",
+          "The road to the coast has some hills, so be prepared.",
+          "Always lock your bike when leaving it unattended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 21.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Rathausplatz (Parken)",
+            "hu": "1. klaszter: Városháza tér (Parkolás)",
+            "ro": "Cluster 1: Piața Primăriei (Parcare)",
+            "en": "Cluster 1: Town Hall Square (Parking)"
+          },
+          "coords": [
+            38.651,
+            22.983
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie das Stadtzentrum zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel gyalog a városközpontot.",
+            "ro": "Parcați aici și explorați centrul orașului pe jos.",
+            "en": "Park here and explore the town center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Opus",
+            "hu": "Ókori Opus",
+            "ro": "Opusul Antic",
+            "en": "Ancient Opus"
+          },
+          "coords": [
+            38.6495,
+            22.986
+          ],
+          "category": "historical",
+          "arrive_at": "09:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Akropolis bietet einen großartigen Blick über die Stadt.",
+            "hu": "Az akropoliszról nagyszerű kilátás nyílik a városra.",
+            "ro": "Acropola oferă o priveliște minunată asupra orașului.",
+            "en": "The acropolis offers a great view over the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Atalanti",
+            "hu": "Atalanti Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Atalanti",
+            "en": "Archaeological Museum of Atalanti"
+          },
+          "coords": [
+            38.6515,
+            22.981
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbinden Sie die Ruinen mit den hier ausgestellten Funden.",
+            "hu": "Kapcsolja össze a romokat az itt kiállított leletekkel.",
+            "ro": "Conectați ruinele cu artefactele expuse aici.",
+            "en": "Connect the ruins with the finds displayed here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Fahrt zum Hafen von Skala",
+            "hu": "2. klaszter: Utazás Skala kikötőjébe",
+            "ro": "Cluster 2: Călătorie spre Portul Skala",
+            "en": "Cluster 2: Drive to Port of Skala"
+          },
+          "coords": [
+            38.672,
+            23.058
+          ],
+          "category": "port",
+          "arrive_at": "12:04",
+          "stay_min": 20,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein völlig anderes Ambiente, nur eine kurze Autofahrt entfernt.",
+            "hu": "Teljesen más hangulat, csak egy rövid autóútra.",
+            "ro": "O atmosferă complet diferită la doar o scurtă călătorie cu mașina.",
+            "en": "A completely different vibe just a short drive away."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Fisch-Taverne",
+            "hu": "Ebéd egy halászcsárdában",
+            "ro": "Prânz la o tavernă pescărească",
+            "en": "Lunch at a Fish Taverna"
+          },
+          "coords": [
+            38.6735,
+            23.06
+          ],
+          "category": "gastro",
+          "arrive_at": "12:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Frischer geht es nicht! Genießen Sie den Fang des Tages.",
+            "hu": "Ennél frissebb már nem is lehetne! Élvezze a nap fogását.",
+            "ro": "Nu se poate mai proaspăt! Savurați captura zilei.",
+            "en": "It doesn't get any fresher! Enjoy the catch of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Skala Atalantis Beach",
+            "hu": "Skala Atalantis strand",
+            "ro": "Plaja Skala Atalantis",
+            "en": "Skala Atalantis Beach"
+          },
+          "coords": [
+            38.675,
+            23.062
+          ],
+          "category": "beach",
+          "arrive_at": "14:04",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie nach dem Mittagessen am Meer.",
+            "hu": "Pihenjen ebéd után a tengerparton.",
+            "ro": "Relaxați-vă la malul mării după prânz.",
+            "en": "Relax by the sea after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Fahrt zum Kloster Agii Anargyri",
+            "hu": "3. klaszter: Utazás az Agii Anargyri kolostorhoz",
+            "ro": "Cluster 3: Călătorie la Mănăstirea Agii Anargyri",
+            "en": "Cluster 3: Drive to Monastery of Agii Anargyri"
+          },
+          "coords": [
+            38.66,
+            23.015
+          ],
+          "category": "churches",
+          "arrive_at": "16:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 7.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein spiritueller Abschluss des Tages an einem ruhigen Ort.",
+            "hu": "A nap spirituális lezárása egy csendes helyen.",
+            "ro": "O încheiere spirituală a zilei într-un loc liniștit.",
+            "en": "A spiritual end to the day in a quiet place."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto ermöglicht es Ihnen, das Beste von Atalanti und seiner Umgebung zu erleben. Beginnen Sie im historischen Zentrum, wo Sie von einem zentralen Parkplatz aus die antiken Stätten und Museen zu Fuß erkunden. Am Mittag fahren Sie zur Küste nach Skala. Dort erwartet Sie ein köstliches Mittagessen mit Meeresfrüchten und ein entspannter Nachmittag am Strand. Zum Abschluss besuchen Sie das abgeschiedene Kloster Agii Anargyri, ein Ort der Ruhe, bevor Sie den Tag beenden.",
+        "hu": "Autós napja lehetővé teszi, hogy Atalanti és környéke legjavát élvezze. Kezdje a történelmi központban, ahol egy központi parkolóból gyalog fedezheti fel az ókori helyszíneket és múzeumokat. Délben induljon a tengerpartra, Skalába. Ott egy finom tengeri ebéd és egy pihentető délután várja a tengerparton. Végül látogasson el az eldugott Agii Anargyri kolostorba, a béke szigetére, mielőtt lezárná a napot.",
+        "ro": "Ziua ta cu mașina îți permite să experimentezi ce e mai bun din Atalanti și împrejurimile sale. Începe în centrul istoric, unde poți explora pe jos siturile antice și muzeele de la o parcare centrală. La prânz, conduci spre coastă, la Skala. Acolo te așteaptă un prânz delicios cu fructe de mare și o după-amiază relaxantă pe plajă. În încheiere, vizitezi mănăstirea izolată Agii Anargyri, un loc de liniște, înainte de a încheia ziua.",
+        "en": "Your day by car allows you to experience the best of Atalanti and its surroundings. Start in the historic center, where you can explore the ancient sites and museums on foot from a central parking spot. At noon, you'll drive to the coast at Skala. A delicious seafood lunch and a relaxing afternoon on the beach await you there. To finish, you'll visit the secluded Monastery of Agii Anargyri, a place of peace, before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch in Skala",
+            "tip": "Die Tavernen in Skala servieren den Fang des Tages."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Fragen Sie nach dem Hauswein, oft aus lokalen Trauben hergestellt."
+          },
+          {
+            "name": "Ouzeri 'I Gonia'",
+            "tip": "Perfekt für einen Ouzo und Meze (kleine Vorspeisen) am späten Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss hal Skalában",
+            "tip": "A skalai tavernák a nap fogását szolgálják fel."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "Kérdezze a ház borát, amely gyakran helyi szőlőből készül."
+          },
+          {
+            "name": "Ouzeri 'I Gonia'",
+            "tip": "Tökéletes egy ouzóhoz és meze-hez (kis előételek) a késő délutáni órákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt în Skala",
+            "tip": "Tavernele din Skala servesc captura zilei."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Întrebați de vinul casei, adesea produs din struguri locali."
+          },
+          {
+            "name": "Ouzeri 'I Gonia'",
+            "tip": "Perfect pentru un ouzo și meze (mici aperitive) la sfârșitul după-amiezii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh fish in Skala",
+            "tip": "The tavernas in Skala serve the catch of the day."
+          },
+          {
+            "name": "Local wines",
+            "tip": "Ask for the house wine, often made from local grapes."
+          },
+          {
+            "name": "Ouzeri 'I Gonia'",
+            "tip": "Perfect for an ouzo and meze (small appetizers) in the late afternoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick vom antiken Opus",
+            "tip": "Ein Panoramablick, der zum Verweilen einlädt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kloster Agii Anargyri",
+            "tip": "Absolute Stille, nur vom Zirpen der Zikaden unterbrochen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein ruhiger Abschnitt am Skala Strand",
+            "tip": "Gehen Sie ein wenig weiter, um den Menschenmassen zu entkommen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás az ókori Opusból",
+            "tip": "Egy panorámás kilátás, amely maradásra csábít.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agii Anargyri kolostor",
+            "tip": "Abszolút csend, amelyet csak a kabócák ciripelése tör meg.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy csendes szakasz a Skala strandon",
+            "tip": "Menjen egy kicsit távolabb, hogy elkerülje a tömeget.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere din Opusul antic",
+            "tip": "O priveliște panoramică care te invită să zăbovești.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mănăstirea Agii Anargyri",
+            "tip": "Liniște absolută, întreruptă doar de cântecul greierilor.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O porțiune liniștită pe plaja Skala",
+            "tip": "Mergeți puțin mai departe pentru a scăpa de mulțime.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Ancient Opus",
+            "tip": "A panoramic view that invites you to linger.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monastery of Agii Anargyri",
+            "tip": "Absolute silence, broken only by the chirping of cicadas.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A quiet stretch of Skala Beach",
+            "tip": "Walk a little further to escape the crowds.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl-Kooperative",
+            "tip": "Kaufen Sie hochwertiges, lokales Olivenöl direkt vom Erzeuger."
+          },
+          {
+            "name": "Straßenstände in Skala",
+            "tip": "Bieten im Sommer oft lokale Früchte und handgemachten Schmuck an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj-szövetkezet",
+            "tip": "Vásároljon kiváló minőségű, helyi olívaolajat közvetlenül a termelőtől."
+          },
+          {
+            "name": "Utcai árusok Skalában",
+            "tip": "Nyáron gyakran kínálnak helyi gyümölcsöket és kézzel készített ékszereket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cooperativa de ulei de măsline",
+            "tip": "Cumpărați ulei de măsline local de înaltă calitate direct de la producător."
+          },
+          {
+            "name": "Tarabe stradale în Skala",
+            "tip": "Vând adesea fructe locale și bijuterii lucrate manual în timpul verii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil Cooperative",
+            "tip": "Buy high-quality, local olive oil directly from the source."
+          },
+          {
+            "name": "Street stalls in Skala",
+            "tip": "Often sell local fruits and handmade jewelry during the summer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann im Sommer schwierig sein.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen auf den Landstraßen.",
+          "Nehmen Sie Bargeld für kleine Einkäufe und Parkgebühren mit.",
+          "Ein GPS oder eine Karten-App ist für die Navigation zwischen den Clustern nützlich."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nyáron nehéz lehet.",
+          "Tartsa be a sebességkorlátozásokat a vidéki utakon.",
+          "Vigyen magával készpénzt a kisebb vásárlásokhoz és parkolási díjakhoz.",
+          "GPS vagy térképalkalmazás hasznos a klaszterek közötti navigációhoz."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă în timpul verii.",
+          "Respectați limitele de viteză pe drumurile rurale.",
+          "Luați bani cash pentru cumpărături mici și taxe de parcare.",
+          "Un GPS sau o aplicație de hărți este utilă pentru navigarea între clustere."
+        ],
+        "en": [
+          "Parking in the town center can be challenging in the summer.",
+          "Be aware of speed limits on the country roads.",
+          "Carry some cash for small purchases and parking fees.",
+          "A GPS or map app is useful for navigating between the clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 14.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft am Rathausplatz",
+            "hu": "1. klaszter: Érkezés a Városháza térre",
+            "ro": "Cluster 1: Sosire în Piața Primăriei",
+            "en": "Cluster 1: Arrival at Town Hall Square"
+          },
+          "coords": [
+            38.651,
+            22.983
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Orientieren Sie sich und genießen Sie die Atmosphäre.",
+            "hu": "Tájékozódjon és élvezze a hangulatot.",
+            "ro": "Orientați-vă și bucurați-vă de atmosferă.",
+            "en": "Get your bearings and enjoy the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agii Theodori",
+            "hu": "Agii Theodori templom",
+            "ro": "Biserica Agii Theodori",
+            "en": "Church of Agii Theodori"
+          },
+          "coords": [
+            38.6525,
+            22.9845
+          ],
+          "category": "churches",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz.",
+            "hu": "Rövid séta a főtérről.",
+            "ro": "O scurtă plimbare de la piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Atalanti",
+            "hu": "Atalanti Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Atalanti",
+            "en": "Archaeological Museum of Atalanti"
+          },
+          "coords": [
+            38.6515,
+            22.981
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte.",
+            "hu": "A történelem iránt érdeklődőknek kötelező.",
+            "ro": "O necesitate pentru pasionații de istorie.",
+            "en": "A must-see for history enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Busfahrt zum Hafen von Skala",
+            "hu": "2. klaszter: Buszozás Skala kikötőjébe",
+            "ro": "Cluster 2: Călătorie cu autobuzul spre Portul Skala",
+            "en": "Cluster 2: Bus ride to Port of Skala"
+          },
+          "coords": [
+            38.672,
+            23.058
+          ],
+          "category": "port",
+          "arrive_at": "12:16",
+          "stay_min": 20,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bus bringt Sie direkt ans Meer.",
+            "hu": "A busz egyenesen a tengerhez visz.",
+            "ro": "Autobuzul vă duce direct la mare.",
+            "en": "The bus takes you straight to the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Skala Atalantis Beach & Mittagessen",
+            "hu": "Skala Atalantis strand és ebéd",
+            "ro": "Plaja Skala Atalantis și prânz",
+            "en": "Skala Atalantis Beach & Lunch"
+          },
+          "coords": [
+            38.675,
+            23.062
+          ],
+          "category": "beach",
+          "arrive_at": "12:44",
+          "stay_min": 240,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Nachmittag mit Schwimmen, Sonnenbaden und einem langen Mittagessen.",
+            "hu": "Töltse a délutánt úszással, napozással és egy hosszú ebéddel.",
+            "ro": "Petreceți după-amiaza înotând, făcând plajă și luând un prânz lung.",
+            "en": "Spend the afternoon swimming, sunbathing, and having a long lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Visszaút a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return trip to the center"
+          },
+          "coords": [
+            38.651,
+            22.983
+          ],
+          "category": "squares",
+          "arrive_at": "17:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Genießen Sie einen letzten griechischen Kaffee, bevor Sie abreisen.",
+            "hu": "Élvezzen egy utolsó görög kávét indulás előtt.",
+            "ro": "Savurați o ultimă cafea grecească înainte de plecare.",
+            "en": "Enjoy one last Greek coffee before you depart."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Atalanti in zwei Teilen. Der Vormittag gehört dem historischen Zentrum mit seinen Kirchen und Museen, alles bequem zu Fuß erreichbar. Ein lokaler Bus bringt Sie dann für den Nachmittag an die Küste. In Skala genießen Sie das Strandleben, schwimmen im Meer und essen in einer der gemütlichen Tavernen zu Mittag. Am späten Nachmittag bringt Sie der Bus zurück ins Zentrum, gerade rechtzeitig für einen Abschiedskaffee.",
+        "hu": "Tömegközlekedéssel két részletben fedezi fel Atalantit. A délelőtt a történelmi központé, a templomokkal és múzeumokkal, mindez kényelmesen gyalogosan elérhető. Egy helyi busz viszi Önt délután a tengerpartra. Skalában élvezheti a strandéletet, úszhat a tengerben, és ebédelhet az egyik hangulatos tavernában. Késő délután a busz visszaviszi Önt a központba, éppen időben egy búcsúkávéra.",
+        "ro": "Cu transportul public, explorezi Atalanti în două părți. Dimineața este dedicată centrului istoric, cu bisericile și muzeele sale, toate accesibile confortabil pe jos. Un autobuz local te va duce apoi la coastă pentru după-amiază. La Skala, te bucuri de viața de plajă, înoți în mare și iei prânzul la una dintre tavernele primitoare. La sfârșitul după-amiezii, autobuzul te aduce înapoi în centru, exact la timp pentru o cafea de rămas bun.",
+        "en": "Using public transport, you'll explore Atalanti in two parts. The morning belongs to the historic center with its churches and museums, all easily accessible on foot. A local bus then takes you to the coast for the afternoon. In Skala, you'll enjoy the beach life, swim in the sea, and have lunch at one of the cozy tavernas. In the late afternoon, the bus brings you back to the center, just in time for a farewell coffee."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyros Pita",
+            "tip": "Ein schneller, günstiger und köstlicher Snack für unterwegs."
+          },
+          {
+            "name": "Griechischer Joghurt mit Honig",
+            "tip": "Ein erfrischendes Dessert oder eine Zwischenmahlzeit."
+          },
+          {
+            "name": "Bäckerei 'Fournos'",
+            "tip": "Ideal für ein süßes Frühstücksgebäck oder herzhafte Pasteten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyros pita",
+            "tip": "Gyors, olcsó és finom snack útközben."
+          },
+          {
+            "name": "Görög joghurt mézzel",
+            "tip": "Frissítő desszert vagy uzsonna."
+          },
+          {
+            "name": "Pékség 'Fournos'",
+            "tip": "Ideális egy édes reggeli péksüteményhez vagy sós pitékhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gyros Pita",
+            "tip": "O gustare rapidă, ieftină și delicioasă pentru drum."
+          },
+          {
+            "name": "Iaurt grecesc cu miere",
+            "tip": "Un desert răcoritor sau o gustare."
+          },
+          {
+            "name": "Brutăria 'Fournos'",
+            "tip": "Ideală pentru un produs de patiserie dulce la micul dejun sau plăcinte sărate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyros Pita",
+            "tip": "A quick, cheap, and delicious snack on the go."
+          },
+          {
+            "name": "Greek yogurt with honey",
+            "tip": "A refreshing dessert or snack."
+          },
+          {
+            "name": "'Fournos' Bakery",
+            "tip": "Ideal for a sweet breakfast pastry or savory pies."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein Platz auf der Kirchenmauer",
+            "tip": "Finden Sie einen ruhigen Platz, um das Treiben auf dem Platz zu beobachten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Das Ende des Piers in Skala",
+            "tip": "Blicken Sie auf das offene Meer und hören Sie den Wellen zu.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy hely a templom falán",
+            "tip": "Keressen egy csendes helyet, hogy figyelje a tér nyüzsgését.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A móló vége Skalában",
+            "tip": "Nézzen a nyílt tengerre, és hallgassa a hullámokat.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un loc pe zidul bisericii",
+            "tip": "Găsiți un loc liniștit pentru a privi agitația din piață.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Capătul digului din Skala",
+            "tip": "Priviți spre largul mării și ascultați valurile.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "A spot on the church wall",
+            "tip": "Find a quiet spot to watch the hustle and bustle of the square.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The end of the pier in Skala",
+            "tip": "Look out at the open sea and listen to the waves.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk (Periptero)",
+            "tip": "Kaufen Sie kalte Getränke, Snacks und Bustickets."
+          },
+          {
+            "name": "Lokale Handwerksprodukte",
+            "tip": "Suchen Sie nach kleinen Geschäften, die handgefertigte Waren verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk (Periptero)",
+            "tip": "Vásároljon hideg italokat, rágcsálnivalókat és buszjegyeket."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kis boltokat, amelyek kézzel készített árukat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc (Periptero)",
+            "tip": "Cumpărați băuturi reci, gustări și bilete de autobuz."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați mici magazine care vând produse lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk (Periptero)",
+            "tip": "Buy cold drinks, snacks, and bus tickets."
+          },
+          {
+            "name": "Local Crafts",
+            "tip": "Look for small shops selling handmade goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über den Busfahrplan, da die Busse möglicherweise nicht häufig fahren.",
+          "Kaufen Sie Ihr Busticket am Kiosk (Periptero), bevor Sie in den Bus einsteigen.",
+          "Haben Sie Kleingeld für das Ticket bereit.",
+          "Die Busse können im Sommer voll sein, seien Sie also auf Stehplätze vorbereitet."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszmenetrendről, mivel a buszok nem biztos, hogy sűrűn járnak.",
+          "Vásárolja meg a buszjegyet a kioszkban (Periptero), mielőtt felszáll a buszra.",
+          "Készítsen elő aprópénzt a jegyhez.",
+          "A buszok nyáron zsúfoltak lehetnek, ezért készüljön fel az állóhelyekre."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece s-ar putea să nu circule frecvent.",
+          "Cumpărați biletul de autobuz de la chioșc (periptero) înainte de a urca în autobuz.",
+          "Pregătiți bani mărunți pentru bilet.",
+          "Autobuzele pot fi aglomerate vara, așa că fiți pregătiți să stați în picioare."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as they may not run frequently.",
+          "Buy your bus ticket at the kiosk (periptero) before boarding.",
+          "Have small change ready for the ticket.",
+          "Buses can be crowded in the summer, so be prepared to stand."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1180 @@
+{
+  "city_id": "switzerland-gossau-cities-v2",
+  "anchor": {
+    "name": "Gossau",
+    "coords": [
+      9.249,
+      47.416
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche St. Andreas",
+            "hu": "Szent András-templom",
+            "ro": "Biserica Sfântul Andrei",
+            "en": "St. Andrew's Church"
+          },
+          "coords": [
+            9.2495,
+            47.4162
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die modernen Glasfenster, die einen Kontrast zur alten Architektur bilden.",
+            "hu": "Figyelje meg a modern ólomüveg ablakokat, melyek kontrasztot alkotnak a régi építészettel.",
+            "ro": "Observați vitraliile moderne care contrastează cu arhitectura veche.",
+            "en": "Notice the modern stained-glass windows, which contrast with the old architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Gossau",
+            "hu": "Gossaui Múzeum",
+            "ro": "Muzeul Gossau",
+            "en": "Gossau Museum"
+          },
+          "coords": [
+            9.2488,
+            47.4158
+          ],
+          "category": "museums",
+          "arrive_at": "09:56",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich in einem historischen Gebäude. Fragen Sie nach der Geschichte des Hauses.",
+            "hu": "A múzeum egy történelmi épületben található. Kérdezzen a ház történetéről.",
+            "ro": "Muzeul este găzduit într-o clădire istorică. Întrebați despre istoria casei.",
+            "en": "The museum is housed in a historic building. Ask about the history of the house itself."
+          }
+        },
+        {
+          "name": {
+            "de": "Fürstenlandsaal",
+            "hu": "Fürstenlandsaal",
+            "ro": "Sala Fürstenlandsaal",
+            "en": "Fürstenlandsaal Hall"
+          },
+          "coords": [
+            9.251,
+            47.417
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den lokalen Veranstaltungskalender; hier finden oft Konzerte oder Theateraufführungen statt.",
+            "hu": "Nézze meg a helyi eseménynaptárt; itt gyakran tartanak koncerteket vagy színházi előadásokat.",
+            "ro": "Verificați calendarul local de evenimente; aici au loc adesea concerte sau piese de teatru.",
+            "en": "Check the local event calendar; concerts or plays are often held here."
+          }
+        },
+        {
+          "name": {
+            "de": "Freibad Gossau",
+            "hu": "Gossaui Strandfürdő",
+            "ro": "Ștrandul în aer liber Gossau",
+            "en": "Gossau Outdoor Pool"
+          },
+          "coords": [
+            9.258,
+            47.414
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 85,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auch wenn Sie nicht schwimmen, ist der Parkbereich ideal für eine entspannte Pause.",
+            "hu": "Még ha nem is úszik, a park területe ideális egy pihentető szünetre.",
+            "ro": "Chiar dacă nu înotați, zona parcului este ideală pentru o pauză relaxantă.",
+            "en": "Even if you don't swim, the park area is ideal for a relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Werk 2",
+            "hu": "Werk 2 Kulturális Központ",
+            "ro": "Centrul Cultural Werk 2",
+            "en": "Werk 2 Cultural Centre"
+          },
+          "coords": [
+            9.245,
+            47.419
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Zentrum für alternative Kultur. Halten Sie Ausschau nach Kunstinstallationen im Aussenbereich.",
+            "hu": "Az alternatív kultúra központja. Keresse a kültéri művészeti installációkat.",
+            "ro": "Un centru pentru cultura alternativă. Fiți atenți la instalațiile de artă din exterior.",
+            "en": "A center for alternative culture. Look out for art installations in the outdoor area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Gossau bei der Kirche St. Andreas. Nach einem Einblick in die lokale Geschichte im Museum Gossau, gönnen Sie sich ein Mittagessen. Am Nachmittag spazieren Sie zum Freibad für eine erfrischende Pause, bevor Sie den Tag mit einem Hauch von moderner Kultur im Werk 2 ausklingen lassen. Der Abend gehört der Erkundung der lokalen Gastronomie.",
+        "hu": "Kezdje a napot Gossau szívében, a Szent András-templomnál. Miután bepillantást nyert a helyi történelembe a Gossaui Múzeumban, ebédeljen egy jót. Délután sétáljon el a strandfürdőhöz egy frissítő szünetre, mielőtt a napot a Werk 2 modern kultúrájával zárja. Az este a helyi gasztronómia felfedezéséé.",
+        "ro": "Începeți ziua în inima orașului Gossau, la Biserica Sf. Andrei. După o incursiune în istoria locală la Muzeul Gossau, bucurați-vă de prânz. După-amiaza, plimbați-vă la ștrandul în aer liber pentru o pauză revigorantă, înainte de a încheia ziua cu o notă de cultură modernă la Werk 2. Seara este dedicată explorării gastronomiei locale.",
+        "en": "Start your day in the heart of Gossau at St. Andrew's Church. After a glimpse into local history at the Gossau Museum, treat yourself to lunch. In the afternoon, stroll to the outdoor pool for a refreshing break before ending the day with a touch of modern culture at Werk 2. The evening is for exploring local gastronomy."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "St. Galler Bratwurst (OLMA-Bratwurst)",
+            "tip": "Probieren Sie sie ohne Senf, wie es die Einheimischen tun, am besten von einem lokalen Metzger."
+          },
+          {
+            "name": "Restaurant Freihof",
+            "tip": "Ein bekanntes Restaurant für gutbürgerliche Schweizer Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sankt Galleni sült kolbász (OLMA-Bratwurst)",
+            "tip": "Kóstolja meg mustár nélkül, ahogy a helyiek eszik, lehetőleg egy helyi hentestől."
+          },
+          {
+            "name": "Restaurant Freihof",
+            "tip": "Ismert étterem a hagyományos svájci konyháért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnat prăjit St. Gallen (OLMA-Bratwurst)",
+            "tip": "Încercați-l fără muștar, așa cum fac localnicii, de preferință de la o măcelărie locală."
+          },
+          {
+            "name": "Restaurant Freihof",
+            "tip": "Un restaurant renumit pentru bucătăria elvețiană tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Gallen Bratwurst (OLMA sausage)",
+            "tip": "Try it without mustard, as the locals do, preferably from a local butcher."
+          },
+          {
+            "name": "Restaurant Freihof",
+            "tip": "A well-known restaurant for traditional Swiss cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang Richtung Espel",
+            "tip": "Ein ruhiger Weg am Rande der Stadt, ideal für eine kurze Auszeit im Grünen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bänke im Park des Freibads",
+            "tip": "Finden Sie eine ruhige Bank und geniessen Sie die entspannte Atmosphäre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta az Espel felé",
+            "tip": "Csendes út a város szélén, ideális egy rövid zöld szünethez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Padok a strandfürdő parkjában",
+            "tip": "Keressen egy csendes padot, és élvezze a nyugodt légkört.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare spre Espel",
+            "tip": "O potecă liniștită la marginea orașului, ideală pentru o scurtă pauză în natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Băncile din parcul ștrandului",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de atmosfera relaxantă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk towards Espel",
+            "tip": "A quiet path on the edge of town, ideal for a short break in the green.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Benches in the pool's park",
+            "tip": "Find a quiet bench and enjoy the relaxed atmosphere.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Falls Ihr Besuch auf einen Markttag fällt, finden Sie hier lokale Produkte und Käsespezialitäten."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Probieren Sie 'Biberli', ein lokales Lebkuchengebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Ha a látogatása piacnapra esik, helyi termékeket és sajtkülönlegességeket talál."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Kóstolja meg a 'Biberli'-t, egy helyi mézeskalács-süteményt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă vizita dvs. coincide cu o zi de piață, veți găsi produse locale și specialități de brânză."
+          },
+          {
+            "name": "Brutăriile locale",
+            "tip": "Încercați 'Biberli', o prăjitură locală de turtă dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "If your visit falls on a market day, you'll find local products and cheese specialties here."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Try 'Biberli', a local gingerbread pastry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag unterwegs sein werden.",
+          "Gossau ist kompakt, fast alles im Zentrum ist leicht zu Fuss erreichbar.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt mehrere öffentliche Brunnen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Gossau kompakt, a központban szinte minden könnyen elérhető gyalog.",
+          "Vigyen magával újratölthető vizes palackot; több nyilvános kút is található."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi pe drumuri toată ziua.",
+          "Gossau este compact, aproape totul în centru este ușor accesibil pe jos.",
+          "Luați o sticlă de apă reutilizabilă; există mai multe fântâni publice."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "Gossau is compact, almost everything in the center is easily accessible on foot.",
+          "Bring a reusable water bottle; there are several public fountains."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche St. Andreas",
+            "hu": "Szent András-templom",
+            "ro": "Biserica Sfântul Andrei",
+            "en": "St. Andrew's Church"
+          },
+          "coords": [
+            9.2495,
+            47.4162
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der perfekte Startpunkt, um sich im Stadtzentrum zu orientieren.",
+            "hu": "Tökéletes kiindulópont a városközpontban való tájékozódáshoz.",
+            "ro": "Punctul de plecare perfect pentru a vă orienta în centrul orașului.",
+            "en": "The perfect starting point to orient yourself in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Oberberg",
+            "hu": "Oberberg vára",
+            "ro": "Castelul Oberberg",
+            "en": "Oberberg Castle"
+          },
+          "coords": [
+            9.24,
+            47.408
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist die Aussicht wert. Es gibt einen schönen Innenhof zum Ausruhen.",
+            "hu": "A kaptató megéri a kilátásért. Van egy szép belső udvar a pihenéshez.",
+            "ro": "Urcușul merită priveliștea. Există o curte interioară frumoasă pentru odihnă.",
+            "en": "The climb is worth the view. There is a beautiful courtyard to rest in."
+          }
+        },
+        {
+          "name": {
+            "de": "Walter Zoo",
+            "hu": "Walter Állatkert",
+            "ro": "Grădina Zoologică Walter",
+            "en": "Walter Zoo"
+          },
+          "coords": [
+            9.275,
+            47.405
+          ],
+          "category": "natural features",
+          "arrive_at": "12:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, besonders für das Tropenhaus. Hier können Sie auch zu Mittag essen.",
+            "hu": "Tervezzen elegendő időt, különösen a trópusi házra. Itt ebédelni is lehet.",
+            "ro": "Planificați suficient timp, în special pentru sera tropicală. Puteți lua și prânzul aici.",
+            "en": "Plan enough time, especially for the tropical house. You can also have lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Espel",
+            "hu": "Espel",
+            "ro": "Zona Espel",
+            "en": "Espel area"
+          },
+          "coords": [
+            9.265,
+            47.42
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schönes Naherholungsgebiet. Folgen Sie den Wegen für eine entspannte Fahrt.",
+            "hu": "Szép rekreációs terület. Kövesse az ösvényeket egy nyugodt biciklizéshez.",
+            "ro": "O zonă de agrement frumoasă. Urmați potecile pentru o plimbare relaxantă.",
+            "en": "A beautiful recreational area. Follow the paths for a relaxed ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Freibad Gossau",
+            "hu": "Gossaui Strandfürdő",
+            "ro": "Ștrandul în aer liber Gossau",
+            "en": "Gossau Outdoor Pool"
+          },
+          "coords": [
+            9.258,
+            47.414
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:18",
+          "stay_min": 42,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um sich nach einem langen Radtag abzukühlen oder einfach die Füsse hochzulegen.",
+            "hu": "Tökéletes hely a lehűlésre egy hosszú biciklis nap után, vagy csak a lábak pihentetésére.",
+            "ro": "Locul perfect pentru a vă răcori după o zi lungă de ciclism sau pur și simplu pentru a vă relaxa.",
+            "en": "The perfect place to cool off after a long day of cycling or just to put your feet up."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie im Zentrum bei der Andreaskirche. Die erste Etappe führt Sie hinauf zum Schloss Oberberg mit seiner grossartigen Aussicht. Nach dem Mittagessen im Walter Zoo, wo Sie exotische Tiere bestaunen, radeln Sie durch das grüne Espel-Gebiet. Der Tag endet mit einer wohlverdienten Erfrischung im Freibad Gossau.",
+        "hu": "Pattanjon biciklire és induljon a központból, az András-templomtól. Az első szakasz az Oberberg várához vezet, ahonnan nagyszerű a kilátás. Ebéd után a Walter Állatkertben egzotikus állatokat csodálhat meg, majd tekerjen át a zöld Espel területen. A napot egy jól megérdemelt frissítővel zárja a gossaui strandfürdőben.",
+        "ro": "Urcați-vă pe bicicletă și porniți din centru de la Biserica Sf. Andrei. Prima etapă vă duce la Castelul Oberberg cu priveliștea sa magnifică. După prânz la Grădina Zoologică Walter, unde puteți admira animale exotice, pedalați prin zona verde Espel. Ziua se încheie cu o binemeritată răcorire la ștrandul în aer liber Gossau.",
+        "en": "Hop on your bike and start in the center at St. Andrew's Church. The first stage takes you up to Oberberg Castle with its great view. After lunch at Walter Zoo, where you can marvel at exotic animals, cycle through the green Espel area. The day ends with a well-deserved refreshment at the Gossau outdoor pool."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Walter Zoo",
+            "tip": "Eine praktische Option für ein Mittagessen zwischen den Tierbeobachtungen."
+          },
+          {
+            "name": "Käse aus der Region",
+            "tip": "Kaufen Sie Appenzeller oder einen anderen lokalen Käse für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Walter Állatkertben",
+            "tip": "Praktikus ebédlehetőség az állatok megfigyelése között."
+          },
+          {
+            "name": "Helyi sajt",
+            "tip": "Vásároljon Appenzeller vagy más helyi sajtot egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la Walter Zoo",
+            "tip": "O opțiune practică pentru prânz între observarea animalelor."
+          },
+          {
+            "name": "Brânză din regiune",
+            "tip": "Cumpărați Appenzeller sau altă brânză locală pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at Walter Zoo",
+            "tip": "A convenient option for lunch between animal watching."
+          },
+          {
+            "name": "Regional Cheese",
+            "tip": "Buy Appenzeller or another local cheese for a picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt bei Schloss Oberberg",
+            "tip": "Geniessen Sie die Ruhe und den Panoramablick über das Fürstenland.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wanderwege im Espel",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Plätze in der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont az Oberberg váránál",
+            "tip": "Élvezze a csendet és a panorámás kilátást a Fürstenlandra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Túraútvonalak az Espelben",
+            "tip": "A fő utaktól távolabb csendes helyeket talál a természetben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la Castelul Oberberg",
+            "tip": "Bucurați-vă de liniște și de vederea panoramică asupra regiunii Fürstenland.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Poteci de drumeție în Espel",
+            "tip": "Departe de cărările principale, veți găsi locuri liniștite în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at Oberberg Castle",
+            "tip": "Enjoy the peace and the panoramic view over the Fürstenland region.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hiking trails in Espel",
+            "tip": "Away from the main paths, you will find quiet places in nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Auf dem Land rund um Gossau finden Sie Hofläden mit frischen, saisonalen Produkten."
+          },
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für den Fall, dass Sie Ersatzteile oder Zubehör benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Gossau körüli vidéken tanyasi boltokat talál friss, szezonális termékekkel."
+          },
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha pótalkatrészre vagy kiegészítőre lenne szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor din zonă",
+            "tip": "În zona rurală din jurul Gossau veți găsi magazine ale fermelor cu produse proaspete, de sezon."
+          },
+          {
+            "name": "Magazin de biciclete",
+            "tip": "În cazul în care aveți nevoie de piese de schimb sau accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "In the countryside around Gossau you will find farm shops with fresh, seasonal products."
+          },
+          {
+            "name": "Bike shop",
+            "tip": "In case you need spare parts or accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck und die Bremsen, bevor Sie losfahren.",
+          "Einige Anstiege, wie der zum Schloss Oberberg, können anspruchsvoll sein.",
+          "Schliessen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "Néhány emelkedő, mint például az Oberberg várhoz vezető, megterhelő lehet.",
+          "Mindig zárja le jól a kerékpárját, amikor leparkolja."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor și frânele înainte de a porni.",
+          "Unele urcări, cum ar fi cea spre Castelul Oberberg, pot fi solicitante.",
+          "Încuiati-vă întotdeauna bine bicicleta când o parcați."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before you set off.",
+          "Some climbs, like the one to Oberberg Castle, can be challenging.",
+          "Always lock your bike securely when you park it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 7.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche St. Andreas (Cluster A)",
+            "hu": "Szent András-templom (A klaszter)",
+            "ro": "Biserica Sf. Andrei (Cluster A)",
+            "en": "St. Andrew's Church (Cluster A)"
+          },
+          "coords": [
+            9.2495,
+            47.4162
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem der zentralen Parkhäuser und erkunden Sie den ersten Cluster zu Fuss.",
+            "hu": "Parkoljon egy központi parkolóházban, és fedezze fel az első klasztert gyalog.",
+            "ro": "Parcați într-una dintre parcările centrale și explorați primul cluster pe jos.",
+            "en": "Park in one of the central parking garages and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Gossau (Cluster A)",
+            "hu": "Gossaui Múzeum (A klaszter)",
+            "ro": "Muzeul Gossau (Cluster A)",
+            "en": "Gossau Museum (Cluster A)"
+          },
+          "coords": [
+            9.2488,
+            47.4158
+          ],
+          "category": "museums",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche. Hier können Sie in die lokale Geschichte eintauchen.",
+            "hu": "Rövid séta a templomtól. Itt elmerülhet a helyi történelemben.",
+            "ro": "O scurtă plimbare de la biserică. Aici vă puteți cufunda în istoria locală.",
+            "en": "A short walk from the church. Here you can immerse yourself in local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Oberberg (Cluster B)",
+            "hu": "Oberberg vára (B klaszter)",
+            "ro": "Castelul Oberberg (Cluster B)",
+            "en": "Oberberg Castle (Cluster B)"
+          },
+          "coords": [
+            9.24,
+            47.408
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 94,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Schloss und parken Sie dort. Geniessen Sie die Aussicht und einen Spaziergang um die Burg.",
+            "hu": "Vezessen a várhoz és parkoljon le ott. Élvezze a kilátást és sétáljon egyet a vár körül.",
+            "ro": "Conduceți la castel și parcați acolo. Bucurați-vă de priveliște și de o plimbare în jurul castelului.",
+            "en": "Drive to the castle and park there. Enjoy the view and a walk around the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Walter Zoo (Cluster C)",
+            "hu": "Walter Állatkert (C klaszter)",
+            "ro": "Grădina Zoologică Walter (Cluster C)",
+            "en": "Walter Zoo (Cluster C)"
+          },
+          "coords": [
+            9.275,
+            47.405
+          ],
+          "category": "natural features",
+          "arrive_at": "13:55",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der Zoo hat einen grossen Parkplatz. Planen Sie hier den Rest des Nachmittags ein.",
+            "hu": "Az állatkertnek nagy parkolója van. Tervezze itt a délután hátralévő részét.",
+            "ro": "Grădina zoologică are o parcare mare. Planificați-vă restul după-amiezii aici.",
+            "en": "The zoo has a large parking lot. Plan to spend the rest of the afternoon here."
+          }
+        },
+        {
+          "name": {
+            "de": "Espel (Cluster D)",
+            "hu": "Espel (D klaszter)",
+            "ro": "Zona Espel (Cluster D)",
+            "en": "Espel area (Cluster D)"
+          },
+          "coords": [
+            9.265,
+            47.42
+          ],
+          "category": "natural features",
+          "arrive_at": "17:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein letzter Halt im Grünen, um den Tag ausklingen zu lassen, bevor Sie zum Abendessen fahren.",
+            "hu": "Egy utolsó megálló a zöldben, hogy lezárja a napot, mielőtt vacsorázni indul.",
+            "ro": "O ultimă oprire în natură pentru a încheia ziua înainte de a merge la cină.",
+            "en": "A final stop in the green to round off the day before heading to dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um Gossau und Umgebung zu erkunden. Parken Sie im Zentrum und entdecken Sie die Altstadt zu Fuss (Cluster A). Fahren Sie dann zum historischen Schloss Oberberg (Cluster B) für eine fantastische Aussicht. Der Nachmittag gehört dem beeindruckenden Walter Zoo (Cluster C), einem Highlight für die ganze Familie. Ein kurzer Abstecher ins Espel-Gebiet (Cluster D) rundet Ihren erlebnisreichen Tag ab.",
+        "hu": "Használja ki az autó rugalmasságát Gossau és környéke felfedezéséhez. Parkoljon a központban, és fedezze fel az óvárost gyalog (A klaszter). Ezután vezessen el a történelmi Oberberg várához (B klaszter) a fantasztikus kilátásért. A délután a lenyűgöző Walter Állatkerté (C klaszter), amely az egész család számára fénypont. Egy rövid kitérő az Espel területére (D klaszter) teszi teljessé az eseménydús napot.",
+        "ro": "Profitați de flexibilitatea mașinii pentru a explora Gossau și împrejurimile sale. Parcați în centru și descoperiți orașul vechi pe jos (Cluster A). Apoi, conduceți la istoricul Castel Oberberg (Cluster B) pentru o priveliște fantastică. După-amiaza este dedicată impresionantei Grădini Zoologice Walter (Cluster C), un punct culminant pentru întreaga familie. O scurtă abatere în zona Espel (Cluster D) completează ziua plină de evenimente.",
+        "en": "Take advantage of the car's flexibility to explore Gossau and its surroundings. Park in the center and discover the old town on foot (Cluster A). Then drive to the historic Oberberg Castle (Cluster B) for a fantastic view. The afternoon belongs to the impressive Walter Zoo (Cluster C), a highlight for the whole family. A short detour to the Espel area (Cluster D) rounds off your eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Landgasthof Säntisblick",
+            "tip": "Etwas ausserhalb gelegen, aber mit dem Auto gut erreichbar. Bietet tolle Aussicht und regionale Küche."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Ein Schweizer Klassiker, den Sie in vielen lokalen Restaurants in verschiedenen Variationen finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Landgasthof Säntisblick",
+            "tip": "Kicsit kiesik a központból, de autóval jól megközelíthető. Nagyszerű kilátást és regionális konyhát kínál."
+          },
+          {
+            "name": "Röszti",
+            "tip": "Svájci klasszikus, amelyet számos helyi étteremben megtalálhat különböző változatokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Landgasthof Säntisblick",
+            "tip": "Situat puțin în afara orașului, dar ușor accesibil cu mașina. Oferă priveliști minunate și bucătărie regională."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Un clasic elvețian pe care îl veți găsi în multe restaurante locale în diverse variante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Landgasthof Säntisblick",
+            "tip": "Located a bit outside, but easily accessible by car. Offers great views and regional cuisine."
+          },
+          {
+            "name": "Rösti",
+            "tip": "A Swiss classic that you will find in many local restaurants in different variations."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel um Schloss Oberberg",
+            "tip": "Finden Sie einen ruhigen Ort abseits des Schlosses und blicken Sie über die Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Am Ufer des Espel-Teichs",
+            "tip": "Ein friedlicher Ort für eine kurze Rast.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dombság az Oberberg vára körül",
+            "tip": "Keressen egy csendes helyet a vártól távol, és nézzen szét a tájon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Espel-tó partján",
+            "tip": "Békés hely egy rövid pihenőre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealurile din jurul Castelului Oberberg",
+            "tip": "Găsiți un loc liniștit departe de castel și priviți peisajul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pe malul iazului Espel",
+            "tip": "Un loc pașnic pentru o scurtă odihnă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hills around Oberberg Castle",
+            "tip": "Find a quiet spot away from the castle and look out over the landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "On the shore of the Espel pond",
+            "tip": "A peaceful place for a short rest.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fabrikladen von Schokoladenherstellern",
+            "tip": "In der Ostschweiz gibt es mehrere bekannte Schokoladenhersteller; suchen Sie nach Fabrikläden in der Region."
+          },
+          {
+            "name": "Appenzeller Käse",
+            "tip": "Ein Muss. Kaufen Sie ihn in einem lokalen Geschäft oder direkt in einer Käserei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csokoládégyárak bolti lerakatai",
+            "tip": "Kelet-Svájcban több ismert csokoládégyártó is található; keressen gyári boltokat a régióban."
+          },
+          {
+            "name": "Appenzeller sajt",
+            "tip": "Kötelező. Vásárolja meg egy helyi boltban vagy közvetlenül egy sajtüzemben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fabricilor de ciocolată",
+            "tip": "În Elveția de Est există mai mulți producători de ciocolată renumiți; căutați magazinele fabricilor din regiune."
+          },
+          {
+            "name": "Brânză Appenzeller",
+            "tip": "O necesitate. Cumpărați-o de la un magazin local sau direct de la o fabrică de brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Factory outlets of chocolate manufacturers",
+            "tip": "There are several well-known chocolate manufacturers in Eastern Switzerland; look for factory outlets in the region."
+          },
+          {
+            "name": "Appenzeller cheese",
+            "tip": "A must-buy. Get it in a local shop or directly from a cheese dairy."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkraumbewirtschaftung im Stadtzentrum (blaue Zonen).",
+          "Planen Sie Ihre Route im Voraus, um Staus zu vermeiden.",
+          "Die Strassen auf dem Land können eng sein, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Ügyeljen a parkolási szabályokra a városközpontban (kék zónák).",
+          "Tervezze meg előre az útvonalat a dugók elkerülése érdekében.",
+          "A vidéki utak szűkek lehetnek, vezessen óvatosan."
+        ],
+        "ro": [
+          "Fiți atenți la gestionarea parcării în centrul orașului (zone albastre).",
+          "Planificați-vă ruta în avans pentru a evita ambuteiajele.",
+          "Drumurile rurale pot fi înguste, conduceți cu prudență."
+        ],
+        "en": [
+          "Pay attention to the parking management in the city center (blue zones).",
+          "Plan your route in advance to avoid traffic jams.",
+          "The roads in the countryside can be narrow, drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gossau Bahnhof (Start)",
+            "hu": "Gossau vasútállomás (Indulás)",
+            "ro": "Gara Gossau (Start)",
+            "en": "Gossau Train Station (Start)"
+          },
+          "coords": [
+            9.253,
+            47.413
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für die lokalen Busse, um flexibel zu bleiben.",
+            "hu": "Vásároljon napijegyet a helyi buszokra, hogy rugalmas maradjon.",
+            "ro": "Cumpărați un abonament de o zi pentru autobuzele locale pentru a rămâne flexibil.",
+            "en": "Buy a day pass for the local buses to stay flexible."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Andreas (Cluster A)",
+            "hu": "Szent András-templom (A klaszter)",
+            "ro": "Biserica Sf. Andrei (Cluster A)",
+            "en": "St. Andrew's Church (Cluster A)"
+          },
+          "coords": [
+            9.2495,
+            47.4162
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus nur eine kurze Busfahrt oder ein kurzer Spaziergang.",
+            "hu": "A vasútállomástól csak egy rövid buszút vagy séta.",
+            "ro": "La doar o scurtă călătorie cu autobuzul sau o plimbare de la gară.",
+            "en": "Just a short bus ride or walk from the train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Gossau (Cluster A)",
+            "hu": "Gossaui Múzeum (A klaszter)",
+            "ro": "Muzeul Gossau (Cluster A)",
+            "en": "Gossau Museum (Cluster A)"
+          },
+          "coords": [
+            9.2488,
+            47.4158
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie von der Kirche aus zu Fuss. Alles in diesem Cluster ist nah beieinander.",
+            "hu": "Sétáljon a templomtól. Ebben a klaszterben minden közel van egymáshoz.",
+            "ro": "Mergeți pe jos de la biserică. Totul în acest cluster este aproape.",
+            "en": "Walk from the church. Everything in this cluster is close together."
+          }
+        },
+        {
+          "name": {
+            "de": "Walter Zoo (Cluster B)",
+            "hu": "Walter Állatkert (B klaszter)",
+            "ro": "Grădina Zoologică Walter (Cluster B)",
+            "en": "Walter Zoo (Cluster B)"
+          },
+          "coords": [
+            9.275,
+            47.405
+          ],
+          "category": "natural features",
+          "arrive_at": "12:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 110,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus Richtung Arnegg. Prüfen Sie den Fahrplan für die Rückfahrt im Voraus.",
+            "hu": "Menjen busszal Arnegg irányába. Előre ellenőrizze a visszautazás menetrendjét.",
+            "ro": "Luați un autobuz spre Arnegg. Verificați în avans orarul pentru întoarcere.",
+            "en": "Take a bus towards Arnegg. Check the schedule for the return trip in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Freibad Gossau (Cluster C)",
+            "hu": "Gossaui Strandfürdő (C klaszter)",
+            "ro": "Ștrandul în aer liber Gossau (C klaszter)",
+            "en": "Gossau Outdoor Pool (Cluster C)"
+          },
+          "coords": [
+            9.258,
+            47.414
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 85,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein letzter Halt zur Entspannung. Viele Buslinien halten in der Nähe.",
+            "hu": "Egy utolsó megálló a pihenésre. Sok buszjárat megáll a közelben.",
+            "ro": "O ultimă oprire pentru relaxare. Multe linii de autobuz opresc în apropiere.",
+            "en": "A final stop for relaxation. Many bus lines stop nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Gossau bequem mit den öffentlichen Verkehrsmitteln. Starten Sie am Bahnhof und erkunden Sie den historischen Kern (Cluster A). Eine Busfahrt bringt Sie am Nachmittag zum beeindruckenden Walter Zoo (Cluster B). Zum Abschluss des Tages können Sie im Freibad (Cluster C) entspannen, bevor Sie mit dem Bus zurück ins Zentrum oder zum Bahnhof fahren.",
+        "hu": "Fedezze fel Gossaut kényelmesen a tömegközlekedéssel. Induljon a vasútállomásról, és fedezze fel a történelmi központot (A klaszter). Egy buszút elviszi délután a lenyűgöző Walter Állatkertbe (B klaszter). A nap végén pihenhet a strandfürdőben (C klaszter), mielőtt busszal visszatérne a központba vagy a vasútállomásra.",
+        "ro": "Descoperiți Gossau confortabil cu transportul public. Porniți de la gară și explorați centrul istoric (Cluster A). O călătorie cu autobuzul vă va duce după-amiaza la impresionanta Grădină Zoologică Walter (Cluster B). La sfârșitul zilei, vă puteți relaxa la ștrandul în aer liber (Cluster C) înainte de a lua autobuzul înapoi în centru sau la gară.",
+        "en": "Discover Gossau comfortably by public transport. Start at the train station and explore the historic core (Cluster A). A bus ride will take you to the impressive Walter Zoo in the afternoon (Cluster B). At the end of the day, you can relax at the outdoor pool (Cluster C) before taking the bus back to the center or the train station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei-Café",
+            "tip": "Ideal für ein schnelles Frühstück oder einen Kaffee in der Nähe des Bahnhofs."
+          },
+          {
+            "name": "Take-Away am Bahnhof",
+            "tip": "Für ein schnelles Mittagessen, bevor Sie den Bus zum nächsten Ziel nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség-kávézó",
+            "tip": "Ideális egy gyors reggelire vagy kávéra a vasútállomás közelében."
+          },
+          {
+            "name": "Elviteles étel a vasútállomáson",
+            "tip": "Egy gyors ebédhez, mielőtt buszra szállna a következő célponthoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie-Cafenea",
+            "tip": "Ideal pentru un mic dejun rapid sau o cafea lângă gară."
+          },
+          {
+            "name": "Take-Away la gară",
+            "tip": "Pentru un prânz rapid înainte de a lua autobuzul spre următoarea destinație."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery-Café",
+            "tip": "Ideal for a quick breakfast or a coffee near the train station."
+          },
+          {
+            "name": "Take-away at the station",
+            "tip": "For a quick lunch before you take the bus to the next destination."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Ecke im Walter Zoo",
+            "tip": "Suchen Sie sich einen Platz abseits der Hauptattraktionen, z.B. bei den weniger besuchten Gehegen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang vom Bahnhof ins Zentrum",
+            "tip": "Anstatt den Bus zu nehmen, gehen Sie zu Fuss und entdecken Sie ruhige Seitenstrassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes sarok a Walter Állatkertben",
+            "tip": "Keressen egy helyet a fő attrakcióktól távol, pl. a kevésbé látogatott kifutóknál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a vasútállomástól a központba",
+            "tip": "Buszozás helyett sétáljon, és fedezzen fel csendes mellékutcákat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un colț liniștit la Grădina Zoologică Walter",
+            "tip": "Căutați un loc departe de atracțiile principale, de ex. lângă incintele mai puțin vizitate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de la gară spre centru",
+            "tip": "În loc să luați autobuzul, mergeți pe jos și descoperiți străzi laterale liniștite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet corner in Walter Zoo",
+            "tip": "Find a spot away from the main attractions, e.g., near the less visited enclosures.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk from the station to the center",
+            "tip": "Instead of taking the bus, walk and discover quiet side streets.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Bahnhofstrasse",
+            "tip": "Die Hauptgeschäftsstrasse bietet eine Mischung aus lokalen und nationalen Marken."
+          },
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Für Souvenirs oder eine Flasche Wasser für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Bahnhofstrasse-n",
+            "tip": "A fő bevásárlóutca helyi és nemzeti márkák keverékét kínálja."
+          },
+          {
+            "name": "Kioszk a vasútállomáson",
+            "tip": "Szuvenírekért vagy egy üveg vízért az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe Bahnhofstrasse",
+            "tip": "Strada comercială principală oferă un amestec de mărci locale și naționale."
+          },
+          {
+            "name": "Chioșc la gară",
+            "tip": "Pentru suveniruri sau o sticlă de apă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Bahnhofstrasse",
+            "tip": "The main shopping street offers a mix of local and national brands."
+          },
+          {
+            "name": "Kiosk at the train station",
+            "tip": "For souvenirs or a bottle of water for the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die Fahrplan-App der SBB herunter, um Verbindungen in Echtzeit zu prüfen.",
+          "Achten Sie auf die letzte Busverbindung zurück, besonders wenn Sie am Stadtrand sind.",
+          "Eine Tageskarte ist oft günstiger als mehrere Einzelfahrscheine."
+        ],
+        "hu": [
+          "Töltse le az SBB menetrend-alkalmazását a valós idejű járatinformációkért.",
+          "Ügyeljen az utolsó buszjáratra visszafelé, különösen, ha a város szélén tartózkodik.",
+          "A napijegy gyakran olcsóbb, mint több vonaljegy."
+        ],
+        "ro": [
+          "Descărcați aplicația de orare SBB pentru a verifica conexiunile în timp real.",
+          "Fiți atenți la ultima legătură de autobuz înapoi, mai ales dacă vă aflați la periferia orașului.",
+          "Un abonament de o zi este adesea mai ieftin decât mai multe bilete simple."
+        ],
+        "en": [
+          "Download the SBB timetable app to check connections in real time.",
+          "Pay attention to the last bus connection back, especially if you are on the outskirts of town.",
+          "A day pass is often cheaper than several single tickets."
+        ]
+      }
+    }
+  }
+}

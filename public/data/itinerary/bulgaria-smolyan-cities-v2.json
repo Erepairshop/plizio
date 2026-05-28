@@ -1,0 +1,1420 @@
+{
+  "city_id": "bulgaria-smolyan-cities-v2",
+  "anchor": {
+    "name": "Smolyan",
+    "coords": [
+      41.5833,
+      24.7
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Start am Alten Zypressenbaum",
+            "hu": "Indulás az Öreg Ciprustól",
+            "ro": "Început la Chiparosul Vechi",
+            "en": "Start at the Old Cypress Tree"
+          },
+          "coords": [
+            41.5755,
+            24.7041
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein großartiger, zentraler Treffpunkt, um den Tag zu beginnen.",
+            "hu": "Nagyszerű, központi találkozóhely a nap indításához.",
+            "ro": "Un punct de întâlnire central excelent pentru a începe ziua.",
+            "en": "A great, central meeting point to start the day."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Historisches Museum Stoyu Shishkov",
+            "hu": "Sztoju Siskov Történeti Múzeum",
+            "ro": "Muzeul de Istorie Stoyu Shishkov",
+            "en": "Stoyu Shishkov Historical Museum"
+          },
+          "coords": [
+            41.5763,
+            24.7025
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die archäologischen und ethnografischen Ausstellungen.",
+            "hu": "Koncentrálj a régészeti és néprajzi kiállításokra.",
+            "ro": "Concentrează-te pe expozițiile arheologice și etnografice.",
+            "en": "Focus on the archaeological and ethnographic exhibitions."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kathedrale des Heiligen Vissarion von Smolyan",
+            "hu": "Szent Visszarion Katedrális",
+            "ro": "Catedrala Sfântul Visarion din Smolyan",
+            "en": "Cathedral of Saint Vissarion of Smolyan"
+          },
+          "coords": [
+            41.5788,
+            24.6999
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:51",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden modernen Ikonen und die Holzschnitzereien.",
+            "hu": "Csodáld meg a lenyűgöző modern ikonokat és a fafaragásokat.",
+            "ro": "Admiră icoanele moderne impresionante și sculpturile în lemn.",
+            "en": "Admire the impressive modern icons and the woodcarvings."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kunstgalerie Smoljan",
+            "hu": "Szmoljani Művészeti Galéria",
+            "ro": "Galeria de Artă din Smolyan",
+            "en": "Smolyan Art Gallery"
+          },
+          "coords": [
+            41.5795,
+            24.698
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Hier sind Werke der besten bulgarischen Künstler ausgestellt. Nehmen Sie sich Zeit.",
+            "hu": "A legjobb bolgár művészek munkáit állítják ki itt. Szánj rá időt.",
+            "ro": "Găzduiește lucrări ale celor mai buni artiști bulgari. Nu te grăbi.",
+            "en": "It hosts works by the best Bulgarian artists. Take your time."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Planetarium Smoljan",
+            "hu": "Szmoljani Planetárium",
+            "ro": "Planetariul din Smolyan",
+            "en": "Planetarium Smolyan"
+          },
+          "coords": [
+            41.5861,
+            24.685
+          ],
+          "category": "museums",
+          "arrive_at": "15:26",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 46,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Prüfen Sie die Vorführungszeiten im Voraus; die Sternenshow ist ein Muss.",
+            "hu": "Előre ellenőrizd az előadások időpontját; a csillagászati show kihagyhatatlan.",
+            "ro": "Verifică orele spectacolelor în avans; show-ul stelar este de neratat.",
+            "en": "Check the show times in advance; the star show is a must-see."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Abendessen in einer traditionellen Mehana",
+            "hu": "Vacsora egy hagyományos Mehanában",
+            "ro": "Cină la o Mehana tradițională",
+            "en": "Dinner at a traditional Mehana"
+          },
+          "coords": [
+            41.576,
+            24.703
+          ],
+          "category": "gastro",
+          "arrive_at": "17:15",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie den Patatnik, eine lokale Kartoffelspezialität.",
+            "hu": "Kóstold meg a patatnikot, a helyi burgonyás különlegességet.",
+            "ro": "Încearcă Patatnik, o specialitate locală din cartofi.",
+            "en": "Try the Patatnik, a local potato specialty."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Smoljan und tauchen Sie in die reiche Geschichte der Rhodopen im Historischen Museum ein. Nach dem Mittagessen bewundern Sie die moderne Pracht der St.-Vissarion-Kathedrale und lassen sich von der bulgarischen Kunst in der örtlichen Galerie inspirieren. Ein Spaziergang zum Planetarium am Nachmittag bietet einen Blick in die Sterne. Schließen Sie den Tag mit einem herzhaften Abendessen in einer gemütlichen Mehana ab und genießen Sie die authentische lokale Küche.",
+        "hu": "Kezdje a napot Szmoljan szívében, és merüljön el a Rodope-hegység gazdag történelmében a Történeti Múzeumban. Ebéd után csodálja meg a Szent Visszarion-katedrális modern pompáját, majd merítsen ihletet a bolgár művészetből a helyi galériában. A délutáni séta a Planetáriumhoz bepillantást enged a csillagok világába. Zárja a napot egy kiadós vacsorával egy hangulatos mehanában, élvezve az autentikus helyi konyhát.",
+        "ro": "Începeți ziua în inima orașului Smolyan, cufundându-vă în istoria bogată a Munților Rodopi la Muzeul de Istorie. După prânz, admirați splendoarea modernă a Catedralei Sf. Vissarion și lăsați-vă inspirat de arta bulgară la galeria locală. O plimbare după-amiaza la Planetariu oferă o privire spre stele. Încheiați ziua cu o cină consistentă la o mehana primitoare, savurând bucătăria locală autentică.",
+        "en": "Start your day in the heart of Smolyan, diving into the rich history of the Rhodope Mountains at the Historical Museum. After lunch, admire the modern splendor of the St. Vissarion Cathedral and get inspired by Bulgarian art at the local gallery. An afternoon walk to the Planetarium offers a glimpse into the stars. Conclude the day with a hearty dinner at a cozy mehana, enjoying authentic local cuisine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Patatnik",
+            "tip": "Herzhafter Kartoffelauflauf mit Sirene-Käse, eine Spezialität der Rhodopen."
+          },
+          {
+            "name": "Smilyanski Fasul",
+            "tip": "Berühmte lokale Bohnensuppe, oft in einem Tontopf serviert."
+          },
+          {
+            "name": "Klin",
+            "tip": "Gefülltes Gebäck, ähnlich wie Banitsa, oft mit Reis und Gemüse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Patatnik",
+            "tip": "Kiadós burgonyafelfújt sirene sajttal, a Rodope-hegység specialitása."
+          },
+          {
+            "name": "Szmiljanszki faszul",
+            "tip": "Híres helyi bableves, gyakran agyagedényben tálalva."
+          },
+          {
+            "name": "Klin",
+            "tip": "Töltött péksütemény, hasonló a banicához, gyakran rizzsel és zöldségekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Patatnik",
+            "tip": "Sufleu consistent de cartofi cu brânză sirene, o specialitate din Rodopi."
+          },
+          {
+            "name": "Smilyanski Fasul",
+            "tip": "Ciorbă faimoasă de fasole locală, adesea servită într-o oală de lut."
+          },
+          {
+            "name": "Klin",
+            "tip": "Plăcintă umplută, asemănătoare cu banitsa, adesea cu orez și legume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Patatnik",
+            "tip": "Hearty potato casserole with sirene cheese, a Rhodope specialty."
+          },
+          {
+            "name": "Smilyanski Fasul",
+            "tip": "Famous local bean soup, often served in a clay pot."
+          },
+          {
+            "name": "Klin",
+            "tip": "A filled pastry, similar to banitsa, often with rice and vegetables."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang des Flusses Cherna",
+            "tip": "Ein friedlicher Weg, um dem Stadtzentrum zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank in der Nähe der Kathedrale",
+            "tip": "Setzen Sie sich und genießen Sie die ruhige Atmosphäre.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Cserna folyó mentén",
+            "tip": "Békés útvonal a városközpontból való kiszakadáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a katedrális közelében",
+            "tip": "Ülj le és élvezd a csendes légkört.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Cherna",
+            "tip": "O cale pașnică de a evada din centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă lângă catedrală",
+            "tip": "Stai jos și bucură-te de atmosfera liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Cherna River",
+            "tip": "A peaceful way to escape the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench near the Cathedral",
+            "tip": "Sit and enjoy the quiet atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig und Kräuter",
+            "tip": "Die Rhodopen sind berühmt für ihre reinen Naturprodukte."
+          },
+          {
+            "name": "Handgemachte Holzschnitzereien",
+            "tip": "Suchen Sie nach kleinen Souvenirs, die von lokalen Handwerkern gefertigt wurden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz és gyógynövények",
+            "tip": "A Rodope-hegység híres tiszta természetes termékeiről."
+          },
+          {
+            "name": "Kézzel készített fafaragások",
+            "tip": "Keress helyi kézművesek által készített kis szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere și ierburi locale",
+            "tip": "Munții Rodopi sunt renumiți pentru produsele lor naturale pure."
+          },
+          {
+            "name": "Sculpturi în lemn lucrate manual",
+            "tip": "Caută mici suveniruri realizate de artizani locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey and herbs",
+            "tip": "The Rhodope mountains are famous for their pure natural products."
+          },
+          {
+            "name": "Handmade woodcarvings",
+            "tip": "Look for small souvenirs made by local craftsmen."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie sehr bequeme Schuhe, da das Stadtzentrum hügelig ist.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, es gibt mehrere Brunnen in der Stadt.",
+          "Die meisten Museen sind montags geschlossen, planen Sie entsprechend.",
+          "Halten Sie immer etwas Bargeld für kleine Einkäufe oder Trinkgelder bereit."
+        ],
+        "hu": [
+          "Viselj nagyon kényelmes cipőt, mivel a városközpont dombos.",
+          "Vigyél magaddal újratölthető vizes palackot, a városban több kút is található.",
+          "A legtöbb múzeum hétfőn zárva tart, tervezz accordingly.",
+          "Mindig legyen nálad készpénz kisebb vásárlásokhoz vagy borravalóhoz."
+        ],
+        "ro": [
+          "Poartă încălțăminte foarte confortabilă, deoarece centrul orașului este deluros.",
+          "Ia cu tine o sticlă de apă reutilizabilă, există mai multe fântâni în oraș.",
+          "Majoritatea muzeelor sunt închise lunea, planifică în consecință.",
+          "Păstrează mereu niște numerar la tine pentru cumpărături mici sau bacșișuri."
+        ],
+        "en": [
+          "Wear very comfortable shoes as the city center is hilly.",
+          "Bring a reusable water bottle; there are several fountains around the city.",
+          "Most museums are closed on Mondays, so plan accordingly.",
+          "Always keep some cash on you for small purchases or tips."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Start am Historischen Museum",
+            "hu": "Indulás a Történeti Múzeumtól",
+            "ro": "Start de la Muzeul de Istorie",
+            "en": "Start at the Historical Museum"
+          },
+          "coords": [
+            41.5763,
+            24.7025
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer Dosis Geschichte, bevor Sie in die Pedale treten.",
+            "hu": "Kezdd egy adag történelemmel, mielőtt nyeregbe pattansz.",
+            "ro": "Începe cu o doză de istorie înainte de a pedala.",
+            "en": "Start with a dose of history before you start pedaling."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Planetarium Smoljan",
+            "hu": "Szmoljani Planetárium",
+            "ro": "Planetariul din Smolyan",
+            "en": "Planetarium Smolyan"
+          },
+          "coords": [
+            41.5861,
+            24.685
+          ],
+          "category": "museums",
+          "arrive_at": "10:42",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine einfache Radtour vom Zentrum entfernt. Sichern Sie Ihr Fahrrad gut ab.",
+            "hu": "Könnyű biciklizés a központból. Zárd le jól a biciklidet.",
+            "ro": "O plimbare ușoară cu bicicleta din centru. Asigură-ți bine bicicleta.",
+            "en": "An easy bike ride from the center. Secure your bike well."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Smoljan-Seen (Der klare See)",
+            "hu": "Szmoljani-tavak (Tiszta-tó)",
+            "ro": "Lacurile Smolyan (Lacul Limpede)",
+            "en": "Smolyan Lakes (The Clear Lake)"
+          },
+          "coords": [
+            41.601,
+            24.675
+          ],
+          "category": "natural features",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Bringen Sie ein Picknick mit!",
+            "hu": "Tökéletes egy ebédszünethez. Hozz magaddal pikniket!",
+            "ro": "Perfect pentru o pauză de prânz. Adu un picnic!",
+            "en": "Perfect for a lunch break. Bring a picnic!"
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Nevyastata Ökopfad (Anfang)",
+            "hu": "Nevjasztata Öko-ösvény (Kezdete)",
+            "ro": "Ecopoteca Nevyastata (Început)",
+            "en": "Nevyastata Ecotrail (Start)"
+          },
+          "coords": [
+            41.6085,
+            24.71
+          ],
+          "category": "natural features",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.6,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und machen Sie eine kurze Wanderung für eine atemberaubende Aussicht.",
+            "hu": "Zárd le a biciklidet, és tegyél egy rövid túrát a lélegzetelállító kilátásért.",
+            "ro": "Leagă-ți bicicleta și fă o scurtă drumeție pentru vederi uimitoare.",
+            "en": "Lock your bike and take a short hike for amazing views."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kathedrale des Heiligen Vissarion",
+            "hu": "Szent Visszarion Katedrális",
+            "ro": "Catedrala Sfântul Visarion",
+            "en": "Saint Vissarion Cathedral"
+          },
+          "coords": [
+            41.5788,
+            24.6999
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:08",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Ein Moment der Ruhe nach einem aktiven Tag.",
+            "hu": "Egy pillanatnyi nyugalom egy aktív nap után.",
+            "ro": "Un moment de liniște după o zi activă.",
+            "en": "A moment of peace after an active day."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Ausklang in einem Café im Zentrum",
+            "hu": "Pihenés egy belvárosi kávézóban",
+            "ro": "Relaxare la o cafenea din centru",
+            "en": "Wind-down at a central café"
+          },
+          "coords": [
+            41.577,
+            24.7015
+          ],
+          "category": "gastro",
+          "arrive_at": "17:54",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Genießen Sie einen wohlverdienten Kaffee und Kuchen.",
+            "hu": "Élvezz egy jól megérdemelt kávét és süteményt.",
+            "ro": "Bucură-te de o cafea și o prăjitură binemeritată.",
+            "en": "Enjoy a well-deserved coffee and cake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag mit Kultur im Historischen Museum. Radeln Sie dann zum Planetarium für eine kosmische Reise. Weiter geht es zu den ruhigen Smoljan-Seen, ideal für eine Mittagspause in der Natur. Am Nachmittag fordert Sie der Anstieg zum Nevyastata-Ökopfad heraus, belohnt aber mit tollen Ausblicken. Auf dem Rückweg ins Zentrum können Sie in der St.-Vissarion-Kathedrale innehalten, bevor Sie den Tag in einem Café ausklingen lassen.",
+        "hu": "Kezdje a kerékpáros napot kultúrával a Történeti Múzeumban. Ezután tekerjen a Planetáriumhoz egy kozmikus utazásra. Folytassa útját a csendes Szmoljani-tavakhoz, ami ideális egy természetközeli ebédszünetre. Délután a Nevjasztata-ösvényhez vezető emelkedő kihívást jelent, de a kilátás kárpótol. Visszafelé a központba tartva megpihenhet a Szent Visszarion-katedrálisnál, mielőtt egy kávézóban zárja a napot.",
+        "ro": "Începeți ziua pe bicicletă cu o vizită culturală la Muzeul de Istorie. Apoi pedalați spre Planetariu pentru o călătorie cosmică. Continuați spre liniștitele Lacuri Smolyan, ideale pentru o pauză de prânz în natură. După-amiaza, urcarea spre Ecopoteca Nevyastata vă va provoca, dar priveliștile merită efortul. Pe drumul de întoarcere spre centru, opriți-vă pentru un moment de reculegere la Catedrala Sf. Vissarion înainte de a încheia ziua la o cafenea.",
+        "en": "Start your cycling day with culture at the Historical Museum. Then pedal to the Planetarium for a cosmic journey. Continue to the tranquil Smolyan Lakes, ideal for a lunch break in nature. In the afternoon, the climb to the Nevyastata Ecotrail will challenge you but reward you with great views. On your way back to the center, pause at the St. Vissarion Cathedral before ending the day at a café."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pita Bread with Ljutenitsa",
+            "tip": "Ein schneller, leckerer Snack, perfekt für Radfahrer."
+          },
+          {
+            "name": "Rodopski Kolatsi",
+            "tip": "Süße oder herzhafte Pfannkuchen, die viel Energie geben."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Ein erfrischendes Joghurtgetränk, um hydriert zu bleiben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pita ljutenicával",
+            "tip": "Gyors, ízletes harapnivaló, tökéletes a kerékpárosoknak."
+          },
+          {
+            "name": "Rodopei kolaci",
+            "tip": "Édes vagy sós palacsinták, amelyek sok energiát adnak."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Frissítő joghurtital a hidratáltság megőrzéséhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pită cu Ljutenitsa",
+            "tip": "O gustare rapidă și delicioasă, perfectă pentru bicicliști."
+          },
+          {
+            "name": "Rodopski Kolatsi",
+            "tip": "Clătite dulci sau sărate care oferă multă energie."
+          },
+          {
+            "name": "Ayran",
+            "tip": "O băutură răcoritoare de iaurt pentru a rămâne hidratat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pita bread with Ljutenitsa",
+            "tip": "A quick, tasty snack perfect for cyclists."
+          },
+          {
+            "name": "Rodopski Kolatsi",
+            "tip": "Sweet or savory pancakes that provide a lot of energy."
+          },
+          {
+            "name": "Ayran",
+            "tip": "A refreshing yogurt drink to stay hydrated."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Smoljan-Seen",
+            "tip": "Finden Sie einen abgelegenen Platz am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nevyastata-Felsen",
+            "tip": "Der Panoramablick ist die Wanderung wert.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Flusses Cherna",
+            "tip": "Eine sanfte Radtour abseits der Hauptstraßen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szmoljani-tavak",
+            "tip": "Találj egy eldugott helyet a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nevjasztata-szikla",
+            "tip": "A panorámás kilátás megéri a túrát.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cserna folyó partja",
+            "tip": "Egy kellemes biciklitúra a főutaktól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacurile Smolyan",
+            "tip": "Găsește un loc retras lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stânca Nevyastata",
+            "tip": "Priveliștea panoramică merită drumeția.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile râului Cherna",
+            "tip": "O plimbare ușoară cu bicicleta departe de drumurile principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Smolyan Lakes",
+            "tip": "Find a secluded spot by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nevyastata Rock",
+            "tip": "The panoramic view is worth the hike.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of Cherna River",
+            "tip": "A gentle cycle away from the main roads.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft für Zubehör",
+            "tip": "Falls Sie etwas für Ihre Fahrt benötigen."
+          },
+          {
+            "name": "Lokale Märkte für Snacks",
+            "tip": "Kaufen Sie frisches Obst oder Nüsse für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt kiegészítőkért",
+            "tip": "Ha szükséged lenne valamire az úthoz."
+          },
+          {
+            "name": "Helyi piacok harapnivalókért",
+            "tip": "Vásárolj friss gyümölcsöt vagy dióféléket az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete pentru accesorii",
+            "tip": "În caz că ai nevoie de ceva pentru plimbare."
+          },
+          {
+            "name": "Piețe locale pentru gustări",
+            "tip": "Cumpără fructe proaspete sau nuci pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop for accessories",
+            "tip": "In case you need anything for your ride."
+          },
+          {
+            "name": "Local markets for snacks",
+            "tip": "Buy some fresh fruit or nuts for the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen.",
+          "Smoljan ist hügelig, seien Sie auf einige Anstiege vorbereitet.",
+          "Tragen Sie einen Helm und helle Kleidung.",
+          "Nehmen Sie ein kleines Schloss mit, um Ihr Fahrrad bei den Sehenswürdigkeiten zu sichern."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a biciklidet, különösen a fékeket.",
+          "Szmoljan dombos, készülj fel néhány emelkedőre.",
+          "Viselj sisakot és élénk színű ruhát.",
+          "Vigyél magaddal egy kis lakatot, hogy lezárd a biciklidet a látnivalóknál."
+        ],
+        "ro": [
+          "Verifică-ți bicicleta înainte de a pleca, în special frânele.",
+          "Smolyan este deluros, fii pregătit pentru câteva urcări.",
+          "Poartă cască și haine de culori deschise.",
+          "Ia cu tine un lacăt mic pentru a-ți asigura bicicleta la obiective."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes.",
+          "Smolyan is hilly, be prepared for some climbs.",
+          "Wear a helmet and bright clothing.",
+          "Bring a small lock to secure your bike at the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 64.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Cluster A: Parken im Stadtzentrum",
+            "hu": "A klaszter: Parkolás a városközpontban",
+            "ro": "Cluster A: Parcare în centrul orașului",
+            "en": "Cluster A: Park in the City Center"
+          },
+          "coords": [
+            41.576,
+            24.704
+          ],
+          "category": "parking",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz für den Morgen. Von hier aus erkunden Sie zu Fuß.",
+            "hu": "Keress egy parkolót a délelőttre. Innen gyalog fedezd fel a környéket.",
+            "ro": "Găsește un loc de parcare pentru dimineață. De aici vei explora pe jos.",
+            "en": "Find a parking spot for the morning. You'll explore on foot from here."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Historisches Museum Stoyu Shishkov",
+            "hu": "Sztoju Siskov Történeti Múzeum",
+            "ro": "Muzeul de Istorie Stoyu Shishkov",
+            "en": "Stoyu Shishkov Historical Museum"
+          },
+          "coords": [
+            41.5763,
+            24.7025
+          ],
+          "category": "museums",
+          "arrive_at": "09:17",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum kulturellen Herz der Stadt.",
+            "hu": "Rövid séta a parkolótól a város kulturális szívéig.",
+            "ro": "O scurtă plimbare de la parcare la inima culturală a orașului.",
+            "en": "A short walk from the parking spot to the city's cultural heart."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kathedrale des Heiligen Vissarion",
+            "hu": "Szent Visszarion Katedrális",
+            "ro": "Catedrala Sfântul Visarion",
+            "en": "Saint Vissarion Cathedral"
+          },
+          "coords": [
+            41.5788,
+            24.6999
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:53",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Spaziergang durch den neuen Stadtkern zur Kathedrale.",
+            "hu": "Élvezd a sétát az új városközponton keresztül a katedrálisig.",
+            "ro": "Bucură-te de plimbarea prin noul centru al orașului până la catedrală.",
+            "en": "Enjoy the stroll through the new city center to the cathedral."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Cluster B: Uhlowiza-Höhle",
+            "hu": "B klaszter: Uhlovica-barlang",
+            "ro": "Cluster B: Peștera Uhlovița",
+            "en": "Cluster B: Uhlovitsa Cave"
+          },
+          "coords": [
+            41.5167,
+            24.6
+          ],
+          "category": "natural features",
+          "arrive_at": "12:43",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 28.0,
+          "tip_5lang": {
+            "de": "Die Fahrt ist malerisch. Tragen Sie feste Schuhe für die steilen Stufen in der Höhle.",
+            "hu": "Az út festői. Viselj erős cipőt a barlang meredek lépcsőihez.",
+            "ro": "Drumul este pitoresc. Poartă încălțăminte rezistentă pentru treptele abrupte din peșteră.",
+            "en": "The drive is scenic. Wear sturdy shoes for the steep steps inside the cave."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Mittagessen in einem Restaurant in der Nähe",
+            "hu": "Ebéd egy közeli étteremben",
+            "ro": "Prânz la un restaurant din apropiere",
+            "en": "Lunch at a nearby restaurant"
+          },
+          "coords": [
+            41.518,
+            24.602
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Viele Restaurants in der Gegend servieren frische Forellen.",
+            "hu": "A környéken sok étterem kínál friss pisztrángot.",
+            "ro": "Multe restaurante din zonă servesc păstrăv proaspăt.",
+            "en": "Many restaurants in the area serve fresh trout."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Cluster C: Smoljan-Wasserfall & Nevyastata-Felsen",
+            "hu": "C klaszter: Szmoljani-vízesés és Nevjasztata-szikla",
+            "ro": "Cluster C: Cascada Smolyan & Stânca Nevyastata",
+            "en": "Cluster C: Smolyan Waterfall & Nevyastata Rock"
+          },
+          "coords": [
+            41.605,
+            24.712
+          ],
+          "category": "natural features",
+          "arrive_at": "17:09",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 64,
+          "hop_from_prev_km": 35.4,
+          "tip_5lang": {
+            "de": "Ein letzter Halt, um die Kraft der Natur vor Sonnenuntergang zu erleben.",
+            "hu": "Egy utolsó megálló, hogy naplemente előtt megtapasztald a természet erejét.",
+            "ro": "O ultimă oprire pentru a experimenta puterea naturii înainte de apus.",
+            "en": "A final stop to witness the power of nature before sunset."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Rückkehr ins Hotel/Zentrum",
+            "hu": "Visszatérés a szállodába/központba",
+            "ro": "Întoarcere la hotel/centru",
+            "en": "Return to hotel/center"
+          },
+          "coords": [
+            41.576,
+            24.704
+          ],
+          "category": "travel",
+          "arrive_at": "18:24",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zeit, sich nach einem langen Tag voller Entdeckungen auszuruhen.",
+            "hu": "Ideje pihenni egy hosszú, felfedezéssel teli nap után.",
+            "ro": "Timpul să te odihnești după o zi lungă de explorare.",
+            "en": "Time to rest after a long day of exploration."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip im Zentrum von Smoljan, wo Sie das Historische Museum und die Kathedrale zu Fuß erkunden. Am Vormittag fahren Sie zur beeindruckenden Uhlowiza-Höhle für ein unterirdisches Abenteuer, gefolgt von einem Mittagessen in der Nähe. Am Nachmittag fahren Sie durch die malerische Landschaft zum Smoljan-Wasserfall und dem Nevyastata-Felsen, um die natürliche Schönheit der Rhodopen zu bewundern. Der Tag endet mit der Rückfahrt in die Stadt, voller unvergesslicher Eindrücke.",
+        "hu": "Kezdje az autós túrát Szmoljan központjában, ahol gyalogosan fedezi fel a Történeti Múzeumot és a katedrálist. Délelőtt vezessen el a lenyűgöző Uhlovica-barlanghoz egy földalatti kalandra, majd ebédeljen a közelben. Délután a festői tájon keresztül autózzon a Szmoljani-vízeséshez és a Nevjasztata-sziklához, hogy megcsodálja a Rodope-hegység természeti szépségét. A nap a városba való visszatéréssel zárul, tele felejthetetlen élményekkel.",
+        "ro": "Începeți excursia cu mașina în centrul orașului Smolyan, explorând pe jos Muzeul de Istorie și Catedrala. Dimineața, conduceți spre impresionanta Peșteră Uhlovița pentru o aventură subterană, urmată de prânz în apropiere. După-amiaza, traversați peisajul pitoresc spre Cascada Smolyan și Stânca Nevyastata pentru a admira frumusețea naturală a Munților Rodopi. Ziua se încheie cu întoarcerea în oraș, plină de impresii memorabile.",
+        "en": "Start your road trip in the center of Smolyan, exploring the Historical Museum and Cathedral on foot. In the morning, drive to the impressive Uhlovitsa Cave for an underground adventure, followed by lunch nearby. In the afternoon, drive through the scenic landscape to Smolyan Waterfall and Nevyastata Rock to admire the natural beauty of the Rhodopes. The day concludes with the drive back to the city, full of unforgettable impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillte Forelle",
+            "tip": "Viele Restaurants in der Nähe von Höhlen und Wasserfällen servieren sie frisch aus der Region."
+          },
+          {
+            "name": "Shopska-Salat",
+            "tip": "Ein erfrischender Start für jede Mahlzeit."
+          },
+          {
+            "name": "Hausgemachter Joghurt mit Honig und Walnüssen",
+            "tip": "Ein klassisches bulgarisches Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett pisztráng",
+            "tip": "Sok barlang és vízesés melletti étterem frissen, helyben fogottat szolgál fel."
+          },
+          {
+            "name": "Sopszka saláta",
+            "tip": "Frissítő kezdet minden étkezéshez."
+          },
+          {
+            "name": "Házi joghurt mézzel és dióval",
+            "tip": "Klasszikus bolgár desszert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Păstrăv la grătar",
+            "tip": "Multe restaurante de lângă peșteri și cascade îl servesc proaspăt, din surse locale."
+          },
+          {
+            "name": "Salată Shopska",
+            "tip": "Un început răcoritor pentru orice masă."
+          },
+          {
+            "name": "Iaurt de casă cu miere și nuci",
+            "tip": "Un desert bulgăresc clasic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Trout",
+            "tip": "Many restaurants near caves and waterfalls serve it fresh and local."
+          },
+          {
+            "name": "Shopska Salad",
+            "tip": "A refreshing start to any meal."
+          },
+          {
+            "name": "Homemade yogurt with honey and walnuts",
+            "tip": "A classic Bulgarian dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uhlowiza-Höhle",
+            "tip": "Die Stille in der Höhle ist tief und friedlich.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Smoljan-Wasserfall",
+            "tip": "Das Geräusch des Wassers ist sehr beruhigend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Panorama von Nevyastata",
+            "tip": "Ein atemberaubender und ruhiger Ort, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Uhlovica-barlang",
+            "tip": "A barlang csendje mély és békés.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Szmoljani-vízesés",
+            "tip": "A víz hangja nagyon megnyugtató.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Panoráma a Nevjasztatáról",
+            "tip": "Lélegzetelállító és csendes hely, különösen naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peștera Uhlovița",
+            "tip": "Liniștea din interiorul peșterii este profundă și pașnică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cascada Smolyan",
+            "tip": "Sunetul apei este foarte liniștitor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Panorama de la Nevyastata",
+            "tip": "Un loc uluitor și liniștit, mai ales la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Uhlovitsa Cave",
+            "tip": "The silence inside the cave is deep and peaceful.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Smolyan Waterfall",
+            "tip": "The sound of the water is very calming.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Panorama from Nevyastata",
+            "tip": "A stunning and quiet spot, especially at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik aus der Region",
+            "tip": "Suchen Sie nach handbemalter Keramik in den Dörfern."
+          },
+          {
+            "name": "Mursalski-Tee",
+            "tip": "Ein berühmter Kräutertee aus den Rhodopen, der für seine gesundheitlichen Vorteile bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keress kézzel festett kerámiákat a falvakban."
+          },
+          {
+            "name": "Murszalai tea",
+            "tip": "Híres gyógynövénytea a Rodope-hegységből, amely egészségügyi előnyeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Caută ceramică pictată manual în sate."
+          },
+          {
+            "name": "Ceai Mursalski",
+            "tip": "Un ceai de plante faimos din Rodopi, cunoscut pentru beneficiile sale pentru sănătate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local pottery",
+            "tip": "Look for hand-painted ceramics in the villages."
+          },
+          {
+            "name": "Mursalski Tea",
+            "tip": "A famous herbal tea from the Rhodopes, known for its health benefits."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tanken Sie Ihr Auto voll, bevor Sie in die Berge fahren.",
+          "Laden Sie Offline-Karten herunter, da die Mobilfunkabdeckung lückenhaft sein kann.",
+          "Seien Sie auf engen und kurvigen Straßen vorsichtig.",
+          "Halten Sie an malerischen Aussichtspunkten für Fotos an."
+        ],
+        "hu": [
+          "Tankolj tele, mielőtt a hegyekbe indulsz.",
+          "Tölts le offline térképeket, mivel a mobil lefedettség foltos lehet.",
+          "Légy óvatos a szűk és kanyargós utakon.",
+          "Állj meg a festői kilátópontoknál fotózni."
+        ],
+        "ro": [
+          "Fă plinul mașinii înainte de a pleca la munte.",
+          "Descarcă hărți offline, deoarece acoperirea mobilă poate fi slabă.",
+          "Fii atent pe drumurile înguste și șerpuite.",
+          "Oprește-te la punctele de belvedere pitorești pentru fotografii."
+        ],
+        "en": [
+          "Fill up your car's tank before heading into the mountains.",
+          "Download offline maps, as cell coverage can be patchy.",
+          "Be careful on narrow and winding roads.",
+          "Stop at scenic viewpoints for photos."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Cluster A: Ankunft im Zentrum",
+            "hu": "A klaszter: Érkezés a központba",
+            "ro": "Cluster A: Sosire în centru",
+            "en": "Cluster A: Arrive in the Center"
+          },
+          "coords": [
+            41.5768,
+            24.7035
+          ],
+          "category": "travel",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie an der zentralen Bushaltestelle aus und beginnen Sie Ihre Erkundung.",
+            "hu": "Szállj le a központi buszmegállóban, és kezdd a felfedezést.",
+            "ro": "Coboară la stația centrală de autobuz și începe explorarea.",
+            "en": "Get off at the central bus stop and start your exploration."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            41.5763,
+            24.7025
+          ],
+          "category": "museums",
+          "arrive_at": "09:19",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss, um die lokale Kultur und Geschichte zu verstehen.",
+            "hu": "Kötelező a helyi kultúra és történelem megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege cultura și istoria locală.",
+            "en": "A must-visit to understand the local culture and history."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kathedrale des Heiligen Vissarion",
+            "hu": "Szent Visszarion Katedrális",
+            "ro": "Catedrala Sfântul Visarion",
+            "en": "Saint Vissarion Cathedral"
+          },
+          "coords": [
+            41.5788,
+            24.6999
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Wahrzeichen, das man vom Museum aus leicht zu Fuß erreichen kann.",
+            "hu": "Lenyűgöző látványosság, könnyen megközelíthető gyalog a múzeumtól.",
+            "ro": "Un punct de reper impresionant, ușor accesibil pe jos de la muzeu.",
+            "en": "An impressive landmark, easily walkable from the museum."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Cluster B: Fahrt zum Planetarium",
+            "hu": "B klaszter: Utazás a Planetáriumhoz",
+            "ro": "Cluster B: Călătorie spre Planetariu",
+            "en": "Cluster B: Ride to the Planetarium"
+          },
+          "coords": [
+            41.5861,
+            24.685
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus. Überprüfen Sie den Fahrplan im Voraus.",
+            "hu": "Vegyél egy helyi buszt. Előre ellenőrizd a menetrendet.",
+            "ro": "Ia un autobuz local. Verifică orarul în avans.",
+            "en": "Take a local bus. Check the schedule in advance."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Cluster C: Smoljan-Seen",
+            "hu": "C klaszter: Szmoljani-tavak",
+            "ro": "Cluster C: Lacurile Smolyan",
+            "en": "Cluster C: Smolyan Lakes"
+          },
+          "coords": [
+            41.601,
+            24.675
+          ],
+          "category": "natural features",
+          "arrive_at": "15:10",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Einige Buslinien fahren in die Nähe der Seen. Ein Spaziergang ist trotzdem erforderlich.",
+            "hu": "Néhány buszjárat a tavak közelébe visz. Séta így is szükséges lesz.",
+            "ro": "Unele rute de autobuz ajung aproape de lacuri. O plimbare pe jos va fi totuși necesară.",
+            "en": "Some bus routes go near the lakes. A walk will still be required."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Rückkehr ins Zentrum für das Abendessen",
+            "hu": "Visszatérés a központba vacsorázni",
+            "ro": "Întoarcere în centru pentru cină",
+            "en": "Return to the center for dinner"
+          },
+          "coords": [
+            41.577,
+            24.7015
+          ],
+          "category": "gastro",
+          "arrive_at": "17:48",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 68,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück und suchen Sie sich eine Mehana.",
+            "hu": "Vegyél buszt vissza és keress egy mehanát.",
+            "ro": "Ia autobuzul înapoi și găsește o mehana.",
+            "en": "Take the bus back and find a mehana."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Zentrum von Smoljan, wo Sie das Museum und die Kathedrale zu Fuß erreichen. Anschließend nehmen Sie einen Bus zum Planetarium, um in die Sterne zu blicken. Am Nachmittag bringt Sie ein weiterer Bus in die Nähe der malerischen Smoljan-Seen, perfekt für einen entspannten Spaziergang. Der Tag endet mit einer Busfahrt zurück ins Zentrum, wo ein köstliches Abendessen in einer traditionellen Mehana auf Sie wartet.",
+        "hu": "A tömegközlekedéssel töltött nap Szmoljan központjában kezdődik, ahol gyalogosan elérhető a múzeum és a katedrális. Ezután busszal utazik a Planetáriumhoz, hogy a csillagokba nézzen. Délután egy másik busz elviszi a festői Szmoljani-tavak közelébe, amely tökéletes egy pihentető sétához. A nap a központba való visszautazással zárul, ahol egy finom vacsora vár egy hagyományos mehanában.",
+        "ro": "Ziua ta cu transportul public începe în centrul orașului Smolyan, cu Muzeul și Catedrala la distanță de mers pe jos. Apoi, iei un autobuz spre Planetariu pentru a privi stelele. După-amiaza, un alt autobuz te duce aproape de pitoreștile Lacuri Smolyan, perfecte pentru o plimbare relaxantă. Ziua se încheie cu o călătorie cu autobuzul înapoi în centru pentru o cină delicioasă la o mehana tradițională.",
+        "en": "Your day on public transport starts in the center of Smolyan, with the Museum and Cathedral within walking distance. Then, take a bus to the Planetarium to gaze at the stars. In the afternoon, another bus takes you near the scenic Smolyan Lakes, perfect for a relaxing walk. The day concludes with a bus ride back to the center for a delicious dinner at a traditional mehana."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Banitsa",
+            "tip": "Ein perfekter, schneller Bissen, den man in Bäckereien in der Nähe von Bushaltestellen findet."
+          },
+          {
+            "name": "Kebapche",
+            "tip": "Gegrillte Hackfleischröllchen, ein sättigendes und erschwingliches Essen."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie eine lokale Brauerei, um sich nach einem Tag voller Erkundungen zu erfrischen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Banica",
+            "tip": "Tökéletes, gyors falat, amit a buszmegállók közelében lévő pékségekben találsz."
+          },
+          {
+            "name": "Kebapcse",
+            "tip": "Grillezett darált hús tekercsek, laktató és megfizethető étel."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Próbálj ki egy helyi főzdét, hogy felfrissülj egy felfedezéssel teli nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Banitsa",
+            "tip": "O gustare perfectă și rapidă găsită la patiseriile de lângă stațiile de autobuz."
+          },
+          {
+            "name": "Kebapche",
+            "tip": "Rulouri de carne tocată la grătar, o masă consistentă și accesibilă."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încearcă o bere locală pentru a te răcori după o zi de explorare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Banitsa",
+            "tip": "A perfect quick bite found at bakeries near bus stops."
+          },
+          {
+            "name": "Kebapche",
+            "tip": "Grilled minced meat rolls, a filling and affordable meal."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a local brew to refresh after a day of exploring."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Smoljan-Seen",
+            "tip": "Eine ruhige Flucht aus der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kunstgalerie",
+            "tip": "Oft eine ruhige und besinnliche Umgebung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Szmoljani-tavak",
+            "tip": "Csendes menekülés a városból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Művészeti Galéria",
+            "tip": "Gyakran csendes és elmélkedő környezet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacurile Smolyan",
+            "tip": "O evadare liniștită din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Galeria de Artă",
+            "tip": "Adesea un mediu liniștit și contemplativ.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Smolyan Lakes",
+            "tip": "A quiet escape from the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Art Gallery",
+            "tip": "Often a quiet and contemplative environment.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske in der Nähe von Bushaltestellen",
+            "tip": "Für Souvenirs oder Postkarten."
+          },
+          {
+            "name": "Zentraler Markt",
+            "tip": "Finden Sie lokale Produkte und handgefertigte Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállók közelében",
+            "tip": "Szuvenírekért vagy képeslapokért."
+          },
+          {
+            "name": "Központi piac",
+            "tip": "Találj helyi termékeket és kézműves árukat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri lângă stațiile de autobuz",
+            "tip": "Pentru suveniruri sau vederi."
+          },
+          {
+            "name": "Piața centrală",
+            "tip": "Găsește produse locale și articole de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks near bus stops",
+            "tip": "For souvenirs or postcards."
+          },
+          {
+            "name": "Central market",
+            "tip": "Find local produce and handcrafted goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar.",
+          "Haben Sie den Busfahrplan zur Hand oder verwenden Sie eine App.",
+          "Seien Sie an den Bushaltestellen pünktlich.",
+          "Fragen Sie Einheimische nach der richtigen Buslinie, wenn Sie unsicher sind; sie sind normalerweise hilfsbereit."
+        ],
+        "hu": [
+          "Vásárolj napijegyet a buszra, ha elérhető.",
+          "Legyen kéznél a buszmenetrend, vagy használj egy alkalmazást.",
+          "Légy pontos a buszmegállókban.",
+          "Kérdezd meg a helyieket a megfelelő buszjáratról, ha bizonytalan vagy; általában segítőkészek."
+        ],
+        "ro": [
+          "Cumpără un bilet de o zi pentru autobuz, dacă este disponibil.",
+          "Ai la îndemână orarul autobuzelor sau folosește o aplicație.",
+          "Fii punctual la stațiile de autobuz.",
+          "Întreabă localnicii despre linia corectă de autobuz dacă ești nesigur; de obicei sunt de ajutor."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available.",
+          "Have the bus schedule handy or use an app.",
+          "Be on time at the bus stops.",
+          "Ask locals for the right bus line if you're unsure; they are usually helpful."
+        ]
+      }
+    }
+  }
+}

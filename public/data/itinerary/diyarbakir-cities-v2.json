@@ -1,0 +1,1471 @@
+{
+  "city_id": "diyarbakir-cities-v2",
+  "anchor": {
+    "name": "Diyarbakır",
+    "coords": [
+      40.2306,
+      37.9144
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hasan-Pascha-Han",
+            "hu": "Hasan Paşa Han",
+            "ro": "Hasan Pașa Han",
+            "en": "Hasan Pasha Han"
+          },
+          "coords": [
+            40.2388,
+            37.9145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem traditionellen türkischen Frühstück.",
+            "hu": "Kezdje a napot egy hagyományos török reggelivel itt.",
+            "ro": "Începeți ziua aici cu un mic dejun tradițional turcesc.",
+            "en": "Start your day here with a traditional Turkish breakfast."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee (Ulu Cami)",
+            "hu": "Nagy Mecset (Ulu Cami)",
+            "ro": "Marea Moschee (Ulu Cami)",
+            "en": "Great Mosque (Ulu Cami)"
+          },
+          "coords": [
+            40.2381,
+            37.9133
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die wiederverwendeten römischen Säulen und die kunstvollen Schnitzereien.",
+            "hu": "Figyelje meg az újrahasznosított római oszlopokat és a díszes faragásokat.",
+            "ro": "Observați coloanele romane refolosite și sculpturile complexe.",
+            "en": "Look for the repurposed Roman columns and intricate carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Cahit Sıtkı Tarancı Museum",
+            "hu": "Cahit Sıtkı Tarancı Múzeum",
+            "ro": "Muzeul Cahit Sıtkı Tarancı",
+            "en": "Cahit Sıtkı Tarancı Museum"
+          },
+          "coords": [
+            40.2375,
+            37.9128
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Einblick in das Leben eines der berühmtesten Dichter der Türkei.",
+            "hu": "Betekintés Törökország egyik leghíresebb költőjének életébe.",
+            "ro": "O privire în viața unuia dintre cei mai faimoși poeți ai Turciei.",
+            "en": "An insight into the life of one of Turkey's most famous poets."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern von Diyarbakır",
+            "hu": "Diyarbakıri városfalak",
+            "ro": "Zidurile orașului Diyarbakır",
+            "en": "City Walls of Diyarbakır"
+          },
+          "coords": [
+            40.2351,
+            37.9095
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Gehen Sie auf den Mauern für eine atemberaubende Aussicht und tolle Fotos.",
+            "hu": "Sétáljon a falakon a lélegzetelállító kilátásért és remek fotókért.",
+            "ro": "Plimbați-vă pe ziduri pentru priveliști uimitoare și fotografii grozave.",
+            "en": "Walk on top of the walls for stunning views and great photos."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Georgskirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "St. George Church"
+          },
+          "coords": [
+            40.2333,
+            37.9111
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Heute ein Kunstzentrum, eine friedliche Oase im Herzen der Stadt.",
+            "hu": "Ma művészeti központ, egy békés oázis a város szívében.",
+            "ro": "Acum un centru de artă, este o oază de pace în inima orașului.",
+            "en": "Now an art center, it's a peaceful oasis in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Assyrische Marienkirche",
+            "hu": "Asszír Szűz Mária-templom",
+            "ro": "Biserica Asiriană Sfânta Maria",
+            "en": "Assyrian Church of Virgin Mary"
+          },
+          "coords": [
+            40.2365,
+            37.9171
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine der ältesten Kirchen der Region, die noch in Gebrauch ist.",
+            "hu": "A régió egyik legrégebbi, még mindig használatban lévő temploma.",
+            "ro": "Una dintre cele mai vechi biserici din regiune, încă în uz.",
+            "en": "One of the oldest churches in the region, still in use today."
+          }
+        },
+        {
+          "name": {
+            "de": "Dicle-Brücke (Zehn-Bogen-Brücke)",
+            "hu": "Tigris híd (Tízlyukú híd)",
+            "ro": "Podul Dicle (Podul cu Zece Arcuri)",
+            "en": "Dicle Bridge (Ten-Eyed Bridge)"
+          },
+          "coords": [
+            40.2215,
+            37.9175
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Sonnenuntergang über dem Tigris zu beobachten.",
+            "hu": "Tökéletes hely a naplemente megtekintésére a Tigris folyó felett.",
+            "ro": "Locul perfect pentru a privi apusul peste râul Tigru.",
+            "en": "The perfect spot to watch the sunset over the Tigris River."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im belebten Hasan-Pascha-Han, bevor Sie die spirituelle Ruhe der Großen Moschee erleben. Erkunden Sie das historische Herz der Stadt im Cahit-Sıtkı-Tarancı-Museum und entlang der beeindruckenden Stadtmauern. Am Nachmittag entdecken Sie die verborgenen Juwelen der St.-Georgs- und der Marienkirche. Schließen Sie Ihren Tag mit einem malerischen Spaziergang zur Dicle-Brücke ab, um den Sonnenuntergang über dem Tigris zu genießen.",
+        "hu": "Kezdje a napot a nyüzsgő Hasan Paşa Hanban, mielőtt megtapasztalná a Nagy Mecset spirituális nyugalmát. Fedezze fel a város történelmi szívét a Cahit Sıtkı Tarancı Múzeumban és a lenyűgöző városfalak mentén. Délután fedezze fel a Szent György- és a Szűz Mária-templom rejtett gyöngyszemeit. Zárja a napot egy festői sétával a Tigris hídhoz, hogy élvezze a naplementét a folyó felett.",
+        "ro": "Începeți ziua în animatul Hasan Pașa Han înainte de a experimenta liniștea spirituală a Marii Moschei. Explorați inima istorică a orașului la Muzeul Cahit Sıtkı Tarancı și de-a lungul impresionantelor ziduri ale orașului. După-amiaza, descoperiți bijuteriile ascunse ale Bisericii Sfântul Gheorghe și Bisericii Sfânta Maria. Încheiați ziua cu o plimbare pitorească până la Podul Dicle pentru a vă bucura de apusul peste râul Tigru.",
+        "en": "Start your day in the bustling Hasan Pasha Han before experiencing the spiritual calm of the Great Mosque. Explore the city's historic heart at the Cahit Sıtkı Tarancı Museum and along the formidable city walls. In the afternoon, discover the hidden gems of St. George Church and the Church of the Virgin Mary. Conclude your day with a scenic walk to the Dicle Bridge to enjoy the sunset over the Tigris River."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciğer (Leberkebab)",
+            "tip": "Ein Muss in Diyarbakır, am besten in einem der vielen 'Ocakbaşı'-Restaurants."
+          },
+          {
+            "name": "Kaburga Dolması (Gefüllte Lammrippen)",
+            "tip": "Ein Festmahl, das langsam gekocht und voller Geschmack ist."
+          },
+          {
+            "name": "Burma Kadayıf",
+            "tip": "Ein süßes, sirupartiges Dessert, perfekt mit einer Tasse türkischem Tee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ciğer (máj-kebab)",
+            "tip": "Diyarbakırban kötelező, a legjobb az 'ocakbaşı' éttermek egyikében."
+          },
+          {
+            "name": "Kaburga Dolması (töltött bárányborda)",
+            "tip": "Egy lakoma, lassan főzve és ízekkel tele."
+          },
+          {
+            "name": "Burma Kadayıf",
+            "tip": "Édes, szirupos desszert, tökéletes egy csésze török teával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciğer (kebab de ficat)",
+            "tip": "O necesitate în Diyarbakır, cel mai bun la unul dintre multele restaurante 'ocakbaşı'."
+          },
+          {
+            "name": "Kaburga Dolması (coaste de miel umplute)",
+            "tip": "Un festin gătit lent și plin de aromă."
+          },
+          {
+            "name": "Burma Kadayıf",
+            "tip": "Un desert dulce, siropos, perfect cu o ceașcă de ceai turcesc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciğer (Liver Kebab)",
+            "tip": "A must-try in Diyarbakır, best enjoyed at one of the many 'ocakbaşı' restaurants."
+          },
+          {
+            "name": "Kaburga Dolması (Stuffed Lamb Ribs)",
+            "tip": "A feast that's slow-cooked and full of flavor."
+          },
+          {
+            "name": "Burma Kadayıf",
+            "tip": "A sweet, syrupy dessert, perfect with a cup of Turkish tea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hevsel-Gärten",
+            "tip": "Blick von den Stadtmauern auf diese UNESCO-Stätte.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Tigris",
+            "tip": "Finden Sie einen ruhigen Platz in der Nähe der Dicle-Brücke.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innenhof der St. Georgskirche",
+            "tip": "Eine unerwartete Oase der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hevsel-kertek",
+            "tip": "Nézzen le a városfalakról erre az UNESCO helyszínre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tigris folyó partja",
+            "tip": "Találjon egy csendes helyet a Tigris híd közelében.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szent György-templom udvara",
+            "tip": "A nyugalom váratlan oázisa.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Hevsel",
+            "tip": "Priviți de pe zidurile orașului spre acest sit UNESCO.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Tigru",
+            "tip": "Găsiți un loc liniștit lângă Podul Dicle.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Bisericii Sf. Gheorghe",
+            "tip": "O oază neașteptată de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hevsel Gardens",
+            "tip": "Look down from the city walls onto this UNESCO site.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Tigris River",
+            "tip": "Find a quiet spot near the Dicle Bridge.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of St. George Church",
+            "tip": "An unexpected oasis of calm.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sipahi Çarşısı",
+            "tip": "Ein historischer Basar, ideal für Gewürze, lokales Handwerk und Textilien."
+          },
+          {
+            "name": "Kuyumcular Çarşısı (Goldschmiedebasar)",
+            "tip": "Bewundern oder kaufen Sie kunstvollen traditionellen Schmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sipahi Çarşısı",
+            "tip": "Történelmi bazár, ideális fűszerek, helyi kézműves termékek és textíliák vásárlására."
+          },
+          {
+            "name": "Kuyumcular Çarşısı (Ötvösbazár)",
+            "tip": "Csodálja meg vagy vásároljon díszes hagyományos ékszereket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sipahi Çarșısı",
+            "tip": "Un bazar istoric, ideal pentru condimente, meșteșuguri locale și textile."
+          },
+          {
+            "name": "Kuyumcular Çarșısı (Bazarul Aurarilor)",
+            "tip": "Admirați sau cumpărați bijuterii tradiționale complexe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sipahi Çarşısı",
+            "tip": "A historic bazaar, great for spices, local crafts, and textiles."
+          },
+          {
+            "name": "Kuyumcular Çarşısı (Goldsmiths' Bazaar)",
+            "tip": "Admire or purchase intricate traditional jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf unebenem Kopfsteinpflaster laufen werden.",
+          "Halten Sie immer etwas Bargeld für kleine Einkäufe und Teestuben bereit.",
+          "Respektieren Sie die örtlichen Bräuche, besonders beim Besuch von Moscheen; Frauen sollten ihre Haare bedecken.",
+          "Verhandeln ist auf den Basaren üblich, aber tun Sie es mit einem Lächeln."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog sétálni egyenetlen macskaköveken.",
+          "Mindig tartson magánál készpénzt a kisebb vásárlásokhoz és a teázókhoz.",
+          "Tartsa tiszteletben a helyi szokásokat, különösen a mecsetek látogatásakor; a nőknek el kell takarniuk a hajukat.",
+          "A bazárokban alkudni szokás, de tegye mosolyogva."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe pavaj denivelat.",
+          "Aveți întotdeauna niște bani lichizi la îndemână pentru cumpărături mici și ceainării.",
+          "Respectați obiceiurile locale, în special când vizitați moschei; femeile ar trebui să-și acopere părul.",
+          "Negocierea este obișnuită în bazaruri, dar faceți-o cu zâmbetul pe buze."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking a lot on uneven cobblestones.",
+          "Always keep some cash on hand for small purchases and tea houses.",
+          "Respect local customs, especially when visiting mosques; women should cover their hair.",
+          "Bargaining is common in the bazaars, but do it with a smile."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dicle-Brücke (Zehn-Bogen-Brücke)",
+            "hu": "Tigris híd (Tízlyukú híd)",
+            "ro": "Podul Dicle (Podul cu Zece Arcuri)",
+            "en": "Dicle Bridge (Ten-Eyed Bridge)"
+          },
+          "coords": [
+            40.2215,
+            37.9175
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein idealer Startpunkt für den Morgen, mit Blick auf den Fluss.",
+            "hu": "Ideális kiindulópont a reggelhez, kilátással a folyóra.",
+            "ro": "Un punct de plecare ideal dimineața, cu vedere la râu.",
+            "en": "An ideal morning starting point, overlooking the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Hevsel-Gärten",
+            "hu": "Hevsel-kertek",
+            "ro": "Grădinile Hevsel",
+            "en": "Hevsel Gardens"
+          },
+          "coords": [
+            40.225,
+            37.925
+          ],
+          "category": "natural features",
+          "arrive_at": "09:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Radeln Sie am Rande der Gärten entlang und genießen Sie die grüne Landschaft.",
+            "hu": "Kerékpározzon a kertek szélén, és élvezze a zöld tájat.",
+            "ro": "Pedalați pe marginea grădinilor și bucurați-vă de peisajul verde.",
+            "en": "Cycle along the edge of the gardens and enjoy the green scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern von Diyarbakır (Mardin-Tor)",
+            "hu": "Diyarbakıri városfalak (Mardini kapu)",
+            "ro": "Zidurile orașului Diyarbakır (Poarta Mardin)",
+            "en": "City Walls of Diyarbakır (Mardin Gate)"
+          },
+          "coords": [
+            40.2319,
+            37.915
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erklimmen Sie die Mauern für eine epische Aussicht.",
+            "hu": "Zárja le a biciklit, és másszon fel a falakra az epikus kilátásért.",
+            "ro": "Legați-vă bicicleta și urcați pe ziduri pentru o priveliște epică.",
+            "en": "Lock up your bike and climb the walls for an epic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Hasan-Pascha-Han",
+            "hu": "Hasan Paşa Han",
+            "ro": "Hasan Pașa Han",
+            "en": "Hasan Pasha Han"
+          },
+          "coords": [
+            40.2388,
+            37.9145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Mittagspause und um die Atmosphäre aufzusaugen.",
+            "hu": "Nagyszerű hely egy ebédszünetre és a hangulat magába szívására.",
+            "ro": "Un loc minunat pentru o pauză de prânz și pentru a absorbi atmosfera.",
+            "en": "A great spot for a lunch break and to soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee (Ulu Cami)",
+            "hu": "Nagy Mecset (Ulu Cami)",
+            "ro": "Marea Moschee (Ulu Cami)",
+            "en": "Great Mosque (Ulu Cami)"
+          },
+          "coords": [
+            40.2381,
+            37.9133
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:11",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad draußen und genießen Sie die Ruhe dieses antiken Ortes.",
+            "hu": "Parkolja le a kerékpárt kint, és élvezze ennek az ősi helynek a nyugalmát.",
+            "ro": "Parcați bicicleta afară și bucurați-vă de liniștea acestui loc antic.",
+            "en": "Park your bike outside and enjoy the tranquility of this ancient site."
+          }
+        },
+        {
+          "name": {
+            "de": "Cahit Sıtkı Tarancı Museum",
+            "hu": "Cahit Sıtkı Tarancı Múzeum",
+            "ro": "Muzeul Cahit Sıtkı Tarancı",
+            "en": "Cahit Sıtkı Tarancı Museum"
+          },
+          "coords": [
+            40.2375,
+            37.9128
+          ],
+          "category": "museums",
+          "arrive_at": "15:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein schöner, kühler Ort, um mehr über die lokale Kultur zu erfahren.",
+            "hu": "Egy szép, hűvös hely, ahol többet megtudhat a helyi kultúráról.",
+            "ro": "Un loc frumos și răcoros pentru a afla mai multe despre cultura locală.",
+            "en": "A nice, cool place to learn more about the local culture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der historischen Dicle-Brücke und fahren Sie zu den üppigen Hevsel-Gärten. Stellen Sie sich der Herausforderung, zu den Stadtmauern hinaufzufahren, wo Sie eine spektakuläre Aussicht erwartet. Fahren Sie hinunter ins Herz der Altstadt für eine wohlverdiente Mittagspause im Hasan-Pascha-Han. Der Nachmittag ist der Erkundung der architektonischen Wunder der Großen Moschee und der poetischen Welt im Cahit-Sıtkı-Tarancı-Museum gewidmet.",
+        "hu": "Kezdje a kerékpártúrát a történelmi Tigris hídnál, majd tekerjen a buja Hevsel-kertekhez. Vállalja a kihívást, hogy felteker a városfalakhoz a látványos panorámáért. Ereszkedjen le az óváros szívébe egy jól megérdemelt ebédszünetre a Hasan Paşa Hanban. A délután a Nagy Mecset építészeti csodáinak és a Cahit Sıtkı Tarancı Múzeum költői világának felfedezésével telik.",
+        "ro": "Începeți turul cu bicicleta de la istoricul Pod Dicle, îndreptându-vă spre luxuriantele Grădini Hevsel. Acceptați provocarea de a urca la Zidurile Orașului pentru o panoramă spectaculoasă. Coborâți în inima Orașului Vechi pentru o pauză de prânz binemeritată la Hasan Pașa Han. După-amiaza este dedicată explorării minunilor arhitecturale ale Marii Moschei și a lumii poetice de la Muzeul Cahit Sıtkı Tarancı.",
+        "en": "Start your bike tour at the historic Dicle Bridge, heading towards the lush Hevsel Gardens. Take on the challenge of cycling up to the City Walls for a spectacular panorama. Descend into the heart of the Old City for a well-deserved lunch break at Hasan Pasha Han. The afternoon is dedicated to exploring the architectural wonders of the Great Mosque and the poetic world at the Cahit Sıtkı Tarancı Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meftune",
+            "tip": "Ein säuerlicher Lammeintopf mit Sumach und Gemüse, sehr erfrischend."
+          },
+          {
+            "name": "Diyarbakır-Wassermelone",
+            "tip": "Wenn Saison ist, probieren Sie die berühmte, riesige Wassermelone der Region."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Das perfekte Joghurtgetränk, um sich nach dem Radfahren abzukühlen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Meftune",
+            "tip": "Savanykás bárányragu szumákkal és zöldségekkel, nagyon frissítő."
+          },
+          {
+            "name": "Diyarbakıri görögdinnye",
+            "tip": "Ha szezonja van, kóstolja meg a régió híres, óriási görögdinnyéjét."
+          },
+          {
+            "name": "Ayran",
+            "tip": "A tökéletes joghurtital a kerékpározás utáni hűsöléshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Meftune",
+            "tip": "O tocană acrișoară de miel cu sumac și legume, foarte răcoritoare."
+          },
+          {
+            "name": "Pepenele de Diyarbakır",
+            "tip": "Dacă este sezon, încercați faimosul pepene uriaș al regiunii."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Băutura perfectă din iaurt pentru a vă răcori după o plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Meftune",
+            "tip": "A sour lamb stew with sumac and vegetables, very refreshing."
+          },
+          {
+            "name": "Diyarbakır Watermelon",
+            "tip": "If in season, try the region's famously huge watermelon."
+          },
+          {
+            "name": "Ayran",
+            "tip": "The perfect yogurt drink to cool down after cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hevsel-Gärten",
+            "tip": "Finden Sie einen ruhigen Weg, um die Natur zu genießen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkte auf den Stadtmauern",
+            "tip": "Abseits der Haupttore finden Sie ruhigere Abschnitte.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Teegärten am Tigris",
+            "tip": "Entspannen Sie sich bei einem Tee mit Blick auf den Fluss.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hevsel-kertek",
+            "tip": "Találjon egy csendes ösvényt, hogy élvezze a természetet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátópontok a városfalakon",
+            "tip": "A fő kapuktól távolabb csendesebb szakaszokat talál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Teakertek a Tigris partján",
+            "tip": "Pihenjen egy tea mellett a folyóra néző kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Hevsel",
+            "tip": "Găsiți o potecă liniștită pentru a vă bucura de natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Puncte de belvedere pe Zidurile Orașului",
+            "tip": "Departe de porțile principale, veți găsi secțiuni mai liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădini de ceai pe malul Tigrului",
+            "tip": "Relaxați-vă cu un ceai cu vedere la râu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hevsel Gardens",
+            "tip": "Find a quiet path to enjoy nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoints on the City Walls",
+            "tip": "Away from the main gates, you'll find quieter sections.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tea gardens by the Tigris",
+            "tip": "Relax with a tea overlooking the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradgeschäfte",
+            "tip": "Fragen Sie nach handgefertigtem Zubehör oder lokalen Karten."
+          },
+          {
+            "name": "Gewürzmarkt",
+            "tip": "Kaufen Sie Sumach oder andere lokale Gewürze, um sie mit nach Hause zu nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Érdeklődjön kézzel készített kiegészítőkről vagy helyi térképekről."
+          },
+          {
+            "name": "Fűszerpiac",
+            "tip": "Vásároljon szumákot vagy más helyi fűszereket hazavitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Întrebați despre accesorii artizanale sau hărți locale."
+          },
+          {
+            "name": "Piața de condimente",
+            "tip": "Cumpărați sumac sau alte condimente locale pentru a le lua acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bike Shops",
+            "tip": "Ask for handmade accessories or local maps."
+          },
+          {
+            "name": "Spice Market",
+            "tip": "Buy some sumac or other local spices to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen und Reifen.",
+          "Die Altstadt hat enge Gassen, seien Sie vorsichtig mit Fußgängern.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Ein Schloss ist unerlässlich, wenn Sie Ihr Fahrrad abstellen, um Sehenswürdigkeiten zu besichtigen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Az óvárosban szűk utcák vannak, legyen óvatos a gyalogosokkal.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban.",
+          "A lakat elengedhetetlen, ha lezárja a kerékpárt a látnivalók megtekintéséhez."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Orașul Vechi are străzi înguste, fiți atenți la pietoni.",
+          "Luați multă apă, mai ales în lunile de vară.",
+          "Un lacăt este esențial pentru a vă securiza bicicleta atunci când o lăsați pentru a vizita obiectivele turistice."
+        ],
+        "en": [
+          "Check your bike before you start, especially the brakes and tires.",
+          "The Old City has narrow streets, be careful with pedestrians.",
+          "Bring plenty of water, especially during the summer months.",
+          "A lock is essential for securing your bike when you leave it to sightsee."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 10.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dicle-Brücke & Hevsel-Gärten (Cluster 1)",
+            "hu": "Tigris híd és Hevsel-kertek (1. csoport)",
+            "ro": "Podul Dicle și Grădinile Hevsel (Cluster 1)",
+            "en": "Dicle Bridge & Hevsel Gardens (Cluster 1)"
+          },
+          "coords": [
+            40.2215,
+            37.9175
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und genießen Sie die Morgenbrise am Fluss.",
+            "hu": "Parkoljon le itt, és élvezze a reggeli szellőt a folyónál.",
+            "ro": "Parcați aici și bucurați-vă de briza de dimineață de lângă râu.",
+            "en": "Park here and enjoy the morning breeze by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Hevsel-Gärten",
+            "hu": "Hevsel-kertek kilátópont",
+            "ro": "Punct de belvedere Grădinile Hevsel",
+            "en": "Hevsel Gardens Viewpoint"
+          },
+          "coords": [
+            40.2245,
+            37.924
+          ],
+          "category": "natural features",
+          "arrive_at": "09:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz der Brücke für einen tollen Blick.",
+            "hu": "Rövid séta a híd parkolójából a nagyszerű kilátásért.",
+            "ro": "O scurtă plimbare de la parcarea podului pentru o priveliște minunată.",
+            "en": "A short walk from the bridge's parking area for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern von Diyarbakır (Cluster 2 - Dağ Kapı)",
+            "hu": "Diyarbakıri városfalak (2. csoport - Dağ Kapı)",
+            "ro": "Zidurile orașului Diyarbakır (Cluster 2 - Dağ Kapı)",
+            "en": "City Walls of Diyarbakır (Cluster 2 - Dağ Kapı)"
+          },
+          "coords": [
+            40.2411,
+            37.91
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Dağ-Tors und beginnen Sie Ihre Erkundung der Mauern.",
+            "hu": "Parkoljon a Dağ kapu közelében, és kezdje meg a falak felfedezését.",
+            "ro": "Parcați lângă Poarta Dağ și începeți explorarea zidurilor.",
+            "en": "Park near the Dağ Gate and begin your exploration of the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Georgskirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "St. George Church"
+          },
+          "coords": [
+            40.2333,
+            37.9111
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang innerhalb der Mauern zu dieser friedlichen Kunstgalerie.",
+            "hu": "Rövid séta a falakon belül ehhez a békés művészeti galériához.",
+            "ro": "O scurtă plimbare în interiorul zidurilor până la această galerie de artă pașnică.",
+            "en": "A short walk inside the walls to this peaceful art gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Hasan-Pascha-Han (Cluster 3)",
+            "hu": "Hasan Paşa Han (3. csoport)",
+            "ro": "Hasan Pașa Han (Cluster 3)",
+            "en": "Hasan Pasha Han (Cluster 3)"
+          },
+          "coords": [
+            40.2388,
+            37.9145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem zentralen Punkt und finden Sie einen Parkplatz. Zeit fürs Mittagessen!",
+            "hu": "Vezessen ehhez a központi ponthoz, és keressen parkolóhelyet. Ebédidő!",
+            "ro": "Conduceți până la acest punct central și găsiți un loc de parcare. Timpul pentru prânz!",
+            "en": "Drive to this central point and find parking. It's time for lunch!"
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee (Ulu Cami)",
+            "hu": "Nagy Mecset (Ulu Cami)",
+            "ro": "Marea Moschee (Ulu Cami)",
+            "en": "Great Mosque (Ulu Cami)"
+          },
+          "coords": [
+            40.2381,
+            37.9133
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf vom Han entfernt, ein Muss für jeden Besucher.",
+            "hu": "Csak egy kőhajításnyira a Hantól, minden látogatónak kötelező.",
+            "ro": "La o aruncătură de băț de Han, o vizită obligatorie.",
+            "en": "Just a stone's throw from the Han, a must-see for any visitor."
+          }
+        },
+        {
+          "name": {
+            "de": "Cahit Sıtkı Tarancı Museum",
+            "hu": "Cahit Sıtkı Tarancı Múzeum",
+            "ro": "Muzeul Cahit Sıtkı Tarancı",
+            "en": "Cahit Sıtkı Tarancı Museum"
+          },
+          "coords": [
+            40.2375,
+            37.9128
+          ],
+          "category": "museums",
+          "arrive_at": "15:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit Poesie und einem Einblick in ein traditionelles Diyarbakır-Haus.",
+            "hu": "Zárja a napot költészettel és betekintéssel egy hagyományos diyarbakıri házba.",
+            "ro": "Încheiați ziua cu poezie și o privire într-o casă tradițională din Diyarbakır.",
+            "en": "End your day with poetry and a glimpse into a traditional Diyarbakır house."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag am Tigris, indem Sie zur Dicle-Brücke und den Hevsel-Gärten fahren. Fahren Sie dann zum Dağ-Tor, um den ersten großen Komplex der Stadtmauern zu erkunden. Gehen Sie zur St. Georgskirche, bevor Sie für das Mittagessen zum Hasan-Pascha-Han fahren. Den Nachmittag verbringen Sie zu Fuß im Herzen der Altstadt und besuchen die Große Moschee und das nahegelegene Cahit-Sıtkı-Tarancı-Museum, alles in einem einzigen, leicht begehbaren Cluster.",
+        "hu": "Kezdje a napot a Tigris folyónál, a Tigris hídhoz és a Hevsel-kertekhez autózva. Ezután hajtson a Dağ kapuhoz, hogy felfedezze a városfalak első nagy klaszterét. Sétáljon el a Szent György-templomhoz, mielőtt ebédelni indulna a Hasan Paşa Hanba. A délutánt az óváros szívében tölti gyalogosan, meglátogatva a Nagy Mecsetet és a közeli Cahit Sıtkı Tarancı Múzeumot, mindezt egyetlen, könnyen bejárható klaszterben.",
+        "ro": "Începeți ziua la râul Tigru, conducând spre Podul Dicle și Grădinile Hevsel. Apoi, conduceți la Poarta Dağ pentru a explora primul mare cluster al zidurilor orașului. Plimbați-vă până la Biserica Sf. Gheorghe înainte de a conduce la Hasan Pașa Han pentru prânz. După-amiaza este petrecută pe jos în inima Orașului Vechi, vizitând Marea Moschee și Muzeul Cahit Sıtkı Tarancı din apropiere, toate într-un singur cluster ușor de parcurs pe jos.",
+        "en": "Start the day at the Tigris River, driving to the Dicle Bridge and Hevsel Gardens cluster. Then, drive to the Dağ Gate to explore the first major cluster of the city walls. Walk to St. George Church before driving to Hasan Pasha Han for lunch. The afternoon is spent on foot in the heart of the Old City, visiting the Great Mosque and the nearby Cahit Sıtkı Tarancı Museum, all within a single, easily walkable cluster."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciğer (Leberkebab)",
+            "tip": "Suchen Sie nach einem 'Ocakbaşı'-Restaurant mit Parkplatz in der Nähe."
+          },
+          {
+            "name": "Frühstück im Hasan-Pascha-Han",
+            "tip": "Einige Restaurants bieten Parkservice an."
+          },
+          {
+            "name": "Gefüllte Trockengemüse (Dolma)",
+            "tip": "Ein leichtes, aber schmackhaftes Gericht für einen Fahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ciğer (máj-kebab)",
+            "tip": "Keressen egy 'ocakbaşı' éttermet a közelben lévő parkolóval."
+          },
+          {
+            "name": "Reggeli a Hasan Paşa Hanban",
+            "tip": "Néhány étterem parkolószolgálatot kínál."
+          },
+          {
+            "name": "Töltött szárított zöldségek (Dolma)",
+            "tip": "Könnyű, de ízletes étel egy sofőr számára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciğer (kebab de ficat)",
+            "tip": "Căutați un restaurant 'ocakbaşı' cu parcare în apropiere."
+          },
+          {
+            "name": "Mic dejun la Hasan Pașa Han",
+            "tip": "Unele restaurante oferă servicii de valet parking."
+          },
+          {
+            "name": "Legume uscate umplute (Dolma)",
+            "tip": "Un fel de mâncare ușor, dar gustos pentru un șofer."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciğer (Liver Kebab)",
+            "tip": "Look for an 'ocakbaşı' restaurant with parking nearby."
+          },
+          {
+            "name": "Breakfast at Hasan Pasha Han",
+            "tip": "Some of the restaurants offer valet parking."
+          },
+          {
+            "name": "Stuffed Dried Vegetables (Dolma)",
+            "tip": "A light but flavorful dish for a driver."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkte entlang der Straße zu den Mauern",
+            "tip": "Halten Sie an sicheren Stellen für einen Panoramablick an.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gazi Köşkü",
+            "tip": "Ein historisches Herrenhaus etwas außerhalb des Zentrums, mit einem ruhigen Garten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang von den Mauern",
+            "tip": "Fahren Sie am späten Nachmittag für das goldene Licht dorthin.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópontok a falakhoz vezető út mentén",
+            "tip": "Álljon meg biztonságos helyeken a panorámás kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gazi Köşkü",
+            "tip": "Történelmi kúria kissé a központon kívül, csendes kerttel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a falakról",
+            "tip": "Késő délután vezessen oda az aranyló fényekért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puncte de belvedere de-a lungul drumului spre ziduri",
+            "tip": "Opriți în locuri sigure pentru o vedere panoramică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gazi Köșkü",
+            "tip": "Un conac istoric chiar în afara centrului, cu o grădină liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare de pe ziduri",
+            "tip": "Conduceți acolo după-amiaza târziu pentru lumina aurie.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoints along the road to the walls",
+            "tip": "Pull over at safe spots for a panoramic view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gazi Köşkü",
+            "tip": "A historic mansion slightly out of the center, with a quiet garden.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset from the walls",
+            "tip": "Drive there in the late afternoon for the golden light.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenhändler in der Nähe der Mauern",
+            "tip": "Ideal für handgefertigte Souvenirs."
+          },
+          {
+            "name": "Läden in der Nähe von Hasan-Pascha-Han",
+            "tip": "Parken Sie und stöbern Sie nach lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai árusok a falak közelében",
+            "tip": "Ideális kézzel készített ajándéktárgyakhoz."
+          },
+          {
+            "name": "Üzletek a Hasan Paşa Han közelében",
+            "tip": "Parkoljon le, és böngésszen a helyi termékek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători ambulanți lângă ziduri",
+            "tip": "Excelent pentru suveniruri artizanale."
+          },
+          {
+            "name": "Magazine lângă Hasan Pașa Han",
+            "tip": "Parcați și răsfoiți produsele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street vendors near the walls",
+            "tip": "Great for handmade souvenirs."
+          },
+          {
+            "name": "Shops near Hasan Pasha Han",
+            "tip": "Park the car and browse for local goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in der Altstadt kann schwierig sein; suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Der Verkehr kann chaotisch sein, fahren Sie defensiv.",
+          "Ein GPS ist sehr zu empfehlen.",
+          "Beachten Sie die Einbahnstraßen rund um das historische Zentrum."
+        ],
+        "hu": [
+          "A parkolás az óvárosban nehézkes lehet; keressen kijelölt parkolókat.",
+          "A forgalom kaotikus lehet, vezessen védekezően.",
+          "A GPS használata erősen ajánlott.",
+          "Vegye figyelembe az egyirányú utcákat a történelmi központ körül."
+        ],
+        "ro": [
+          "Parcarea în Orașul Vechi poate fi dificilă; căutați parcări desemnate.",
+          "Traficul poate fi haotic, conduceți defensiv.",
+          "Un GPS este foarte recomandat.",
+          "Fiți atenți la străzile cu sens unic din jurul centrului istoric."
+        ],
+        "en": [
+          "Parking in the Old City can be challenging; look for designated car parks.",
+          "Traffic can be chaotic, drive defensively.",
+          "A GPS is highly recommended.",
+          "Be aware of the one-way street systems around the historic center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtmauern (Cluster 1 - Dağ Kapı)",
+            "hu": "Városfalak (1. csoport - Dağ Kapı)",
+            "ro": "Zidurile Orașului (Cluster 1 - Dağ Kapı)",
+            "en": "City Walls (Cluster 1 - Dağ Kapı)"
+          },
+          "coords": [
+            40.2411,
+            37.91
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Dolmuş oder Bus zum Dağ Kapı Platz, einem wichtigen Verkehrsknotenpunkt.",
+            "hu": "Menjen dolmuş-szal vagy busszal a Dağ Kapı térre, egy fő közlekedési csomópontra.",
+            "ro": "Luați un dolmuș sau autobuz spre Piața Dağ Kapı, un nod de transport important.",
+            "en": "Take a dolmuş or bus to Dağ Kapı square, a main transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Cahit Sıtkı Tarancı Museum",
+            "hu": "Cahit Sıtkı Tarancı Múzeum",
+            "ro": "Muzeul Cahit Sıtkı Tarancı",
+            "en": "Cahit Sıtkı Tarancı Museum"
+          },
+          "coords": [
+            40.2375,
+            37.9128
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang von den Mauern aus, folgen Sie einfach der Hauptstraße.",
+            "hu": "Könnyű séta a falaktól, csak kövesse a főutcát.",
+            "ro": "O plimbare ușoară de la ziduri, urmați pur și simplu drumul principal.",
+            "en": "An easy walk down from the walls, just follow the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee & Hasan-Pascha-Han",
+            "hu": "Nagy Mecset és Hasan Paşa Han",
+            "ro": "Marea Moschee și Hasan Pașa Han",
+            "en": "Great Mosque & Hasan Pasha Han"
+          },
+          "coords": [
+            40.2381,
+            37.9133
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie diese beiden Wahrzeichen zusammen. Nehmen Sie sich Zeit für das Mittagessen im Han.",
+            "hu": "Látogassa meg ezt a két nevezetességet együtt. Szánjon időt az ebédre a Hanban.",
+            "ro": "Vizitați aceste două repere împreună. Luați-vă timp pentru prânz la Han.",
+            "en": "Visit these two landmarks together. Take your time for lunch at the Han."
+          }
+        },
+        {
+          "name": {
+            "de": "Assyrische Marienkirche",
+            "hu": "Asszír Szűz Mária-templom",
+            "ro": "Biserica Asiriană Sfânta Maria",
+            "en": "Assyrian Church of Virgin Mary"
+          },
+          "coords": [
+            40.2365,
+            37.9171
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den Gassen, um diese versteckte, aktive Kirche zu finden.",
+            "hu": "Tévedjen el a sikátorokban, hogy megtalálja ezt a rejtett, működő templomot.",
+            "ro": "Rătăciți-vă pe alei pentru a găsi această biserică ascunsă și activă.",
+            "en": "Get lost in the alleyways to find this hidden, active church."
+          }
+        },
+        {
+          "name": {
+            "de": "Dicle-Brücke (Cluster 2)",
+            "hu": "Tigris híd (2. csoport)",
+            "ro": "Podul Dicle (Cluster 2)",
+            "en": "Dicle Bridge (Cluster 2)"
+          },
+          "coords": [
+            40.2215,
+            37.9175
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum, der entlang der Flussstraße fährt.",
+            "hu": "Menjen busszal a városközpontból a folyó menti úton.",
+            "ro": "Luați un autobuz din centrul orașului care merge pe drumul de pe malul râului.",
+            "en": "Take a bus from the city center that goes along the river road."
+          }
+        },
+        {
+          "name": {
+            "de": "Teegärten am Flussufer",
+            "hu": "Folyóparti teakertek",
+            "ro": "Grădini de ceai pe malul râului",
+            "en": "Riverside Tea Gardens"
+          },
+          "coords": [
+            40.2205,
+            37.9165
+          ],
+          "category": "gastro",
+          "arrive_at": "16:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach Ihrem Tag mit einem Tee und beobachten Sie den Sonnenuntergang.",
+            "hu": "Pihenjen a nap végén egy tea mellett, és nézze a naplementét.",
+            "ro": "Relaxați-vă după o zi întreagă cu un ceai și priviți apusul.",
+            "en": "Relax after your day with a tea and watch the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel zum Dağ Kapı, um den Tag auf den mächtigen Stadtmauern zu beginnen. Spazieren Sie bergab, um das Cahit-Sıtkı-Tarancı-Museum und den zentralen Bereich der Großen Moschee zu erkunden, wo Sie zu Mittag essen. Verirren Sie sich in den Gassen, um die assyrische Kirche zu finden, bevor Sie einen Bus zum zweiten Cluster des Tages nehmen: der malerischen Dicle-Brücke. Beenden Sie Ihren Tag entspannt in einem der Teegärten am Flussufer und genießen Sie die Aussicht.",
+        "hu": "Használja a tömegközlekedést a Dağ Kapıhoz, hogy a hatalmas városfalakon kezdje a napot. Sétáljon lefelé a Cahit Sıtkı Tarancı Múzeumhoz és a Nagy Mecset központi területéhez, ahol megebédelhet. Tévedjen el a sikátorokban, hogy megtalálja az asszír templomot, mielőtt buszra szállna a nap második klaszteréhez: a festői Tigris hídhoz. Zárja a napot pihenéssel a folyóparti teakertek egyikében, élvezve a kilátást.",
+        "ro": "Folosiți transportul public până la Dağ Kapı pentru a începe ziua pe formidabilele ziduri ale orașului. Plimbați-vă la vale pentru a explora Muzeul Cahit Sıtkı Tarancı și zona centrală a Marii Moschei, unde veți lua prânzul. Rătăciți-vă pe alei pentru a găsi biserica asiriană înainte de a lua un autobuz spre al doilea cluster al zilei: pitorescul Pod Dicle. Încheiați ziua relaxându-vă într-una dintre grădinile de ceai de pe malul râului, bucurându-vă de priveliște.",
+        "en": "Use public transit to Dağ Kapı to start the day atop the formidable city walls. Walk downhill to explore the Cahit Sıtkı Tarancı Museum and the central area of the Great Mosque, where you'll have lunch. Get lost in the alleyways to find the Assyrian church before catching a bus to the day's second cluster: the scenic Dicle Bridge. End your day relaxing at one of the riverside tea gardens, enjoying the view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Simit",
+            "tip": "Ein schneller und einfacher Snack von einem Straßenverkäufer, während Sie auf den Bus warten."
+          },
+          {
+            "name": "Gözleme",
+            "tip": "Ein herzhaftes Fladenbrot, perfekt für ein schnelles Mittagessen in der Nähe einer Bushaltestelle."
+          },
+          {
+            "name": "Tee in einem Çay Bahçesi (Teegarten)",
+            "tip": "Ein wesentlicher Bestandteil der lokalen Kultur, besonders am Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Simit",
+            "tip": "Gyors és egyszerű harapnivaló egy utcai árustól, amíg a buszra vár."
+          },
+          {
+            "name": "Gözleme",
+            "tip": "Sós lepénykenyér, tökéletes egy gyors ebédhez egy buszmegálló közelében."
+          },
+          {
+            "name": "Tea egy Çay Bahçesi-ben (teakert)",
+            "tip": "A helyi kultúra elengedhetetlen része, különösen a folyó mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Simit",
+            "tip": "O gustare rapidă și ușoară de la un vânzător ambulant în timp ce așteptați autobuzul."
+          },
+          {
+            "name": "Gözleme",
+            "tip": "O pâine plată savuroasă, perfectă pentru un prânz rapid lângă o stație de autobuz."
+          },
+          {
+            "name": "Ceai la un Çay Bahçesi (grădină de ceai)",
+            "tip": "O parte esențială a culturii locale, mai ales lângă râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Simit",
+            "tip": "A quick and easy snack from a street vendor while waiting for the bus."
+          },
+          {
+            "name": "Gözleme",
+            "tip": "A savory flatbread perfect for a quick lunch near a bus stop."
+          },
+          {
+            "name": "Tea at a Çay Bahçesi (Tea Garden)",
+            "tip": "An essential part of the local culture, especially by the river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innenhof der Großen Moschee",
+            "tip": "Ein ruhiger Ort, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Obere Abschnitte der Stadtmauern",
+            "tip": "Weniger überlaufen als die Haupttore.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein Platz am Tigris",
+            "tip": "Finden Sie eine Bank und beobachten Sie, wie die Welt vorbeizieht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Nagy Mecset udvara",
+            "tip": "Csendes hely a város nyüzsgésétől való elvonulásra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A városfalak felső szakaszai",
+            "tip": "Kevésbé zsúfolt, mint a fő kapuk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy hely a Tigris partján",
+            "tip": "Találjon egy padot, és nézze a világot.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Marii Moschei",
+            "tip": "Un loc liniștit pentru a scăpa de agitația orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Secțiunile superioare ale Zidurilor Orașului",
+            "tip": "Mai puțin aglomerate decât porțile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Un loc pe malul Tigrului",
+            "tip": "Găsiți o bancă și priviți lumea cum trece.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyard of the Great Mosque",
+            "tip": "A serene place to escape the city's hustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Upper sections of the City Walls",
+            "tip": "Less crowded than the main gates.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A spot by the Tigris River",
+            "tip": "Find a bench and watch the world go by.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Yanık Çarşı (Verbrannter Basar)",
+            "tip": "Ein einzigartiges Einkaufserlebnis in der Nähe der Großen Moschee."
+          },
+          {
+            "name": "Dengbêj Evi (Haus der Barden)",
+            "tip": "Kaufen Sie lokale Musik und erfahren Sie mehr über die kurdische Gesangstradition."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Yanık Çarşı (Égett Bazár)",
+            "tip": "Egyedülálló vásárlási élmény a Nagy Mecset közelében."
+          },
+          {
+            "name": "Dengbêj Evi (Bárdok Háza)",
+            "tip": "Vásároljon helyi zenét és tudjon meg többet a kurd énekes hagyományról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Yanık Çarșı (Bazarul Ars)",
+            "tip": "O experiență unică de cumpărături lângă Marea Moschee."
+          },
+          {
+            "name": "Dengbêj Evi (Casa Barzilor)",
+            "tip": "Cumpărați muzică locală și învățați despre tradiția cântatului kurd."
+          }
+        ],
+        "en": [
+          {
+            "name": "Yanık Çarşı (Burnt Bazaar)",
+            "tip": "A unique shopping experience near the Great Mosque."
+          },
+          {
+            "name": "Dengbêj Evi (House of Bards)",
+            "tip": "Buy local music and learn about the Kurdish singing tradition."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Diyarkart für eine einfachere Nutzung der öffentlichen Verkehrsmittel.",
+          "Dolmuş (Sammeltaxis) fahren feste Routen, haben aber keine festen Haltestellen; winken Sie einfach.",
+          "Fragen Sie die Einheimischen, sie helfen Ihnen gerne bei der richtigen Buslinie.",
+          "Die Busse können zu Stoßzeiten überfüllt sein, passen Sie auf Ihre Sachen auf."
+        ],
+        "hu": [
+          "Vásároljon egy Diyarkartot a könnyebb tömegközlekedéshez.",
+          "A dolmuşok (iránytaxik) rögzített útvonalon közlekednek, de nincsenek fix megállóik; csak intsen.",
+          "Kérdezze a helyieket, szívesen segítenek a megfelelő buszjárat megtalálásában.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, vigyázzon az értékeire."
+        ],
+        "ro": [
+          "Cumpărați un Diyarkart pentru o utilizare mai ușoară a transportului public.",
+          "Dolmușurile (taxiurile partajate) au rute fixe, dar nu și stații fixe; doar faceți cu mâna.",
+          "Întrebați localnicii, sunt bucuroși să vă ajute cu linia de autobuz corectă.",
+          "Autobuzele pot fi aglomerate la orele de vârf, aveți grijă de bunurile dumneavoastră."
+        ],
+        "en": [
+          "Purchase a Diyarkart for easier use of public transport.",
+          "Dolmuş (shared taxis) run fixed routes but don't have fixed stops; just wave them down.",
+          "Ask locals for help, they are happy to guide you to the correct bus line.",
+          "Buses can be crowded during peak hours, watch your belongings."
+        ]
+      }
+    }
+  }
+}

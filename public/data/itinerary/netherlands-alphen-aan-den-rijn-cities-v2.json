@@ -1,0 +1,1373 @@
+{
+  "city_id": "netherlands-alphen-aan-den-rijn-cities-v2",
+  "anchor": {
+    "name": "Alphen aan den Rijn",
+    "coords": [
+      4.655,
+      52.129
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Beginnen Sie am Rathaus Alphen",
+            "hu": "Kezdés az alpheni városházánál",
+            "ro": "Începeți de la Primăria Alphen",
+            "en": "Start at Alphen City Hall"
+          },
+          "coords": [
+            4.656,
+            52.1295
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur, bevor Sie ins Zentrum gehen.",
+            "hu": "Csodálja meg a modern építészetet, mielőtt a központba indul.",
+            "ro": "Admirați arhitectura modernă înainte de a vă îndrepta spre centru.",
+            "en": "Admire the modern architecture before heading into the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Oudshoornse Kerk",
+            "hu": "Oudshoornse Kerk (Régi templom)",
+            "ro": "Biserica Oudshoornse",
+            "en": "Oudshoornse Church"
+          },
+          "coords": [
+            4.658,
+            52.128
+          ],
+          "category": "churches",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf das kunstvolle Grabmal im Inneren der Kirche.",
+            "hu": "Keresse meg a díszes síremléket a templom belsejében.",
+            "ro": "Căutați mormântul ornamentat din interiorul bisericii.",
+            "en": "Look for the ornate tomb inside the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Castellum Theater",
+            "hu": "Castellum Színház",
+            "ro": "Teatrul Castellum",
+            "en": "Castellum Theatre"
+          },
+          "coords": [
+            4.653,
+            52.131
+          ],
+          "category": "theatres",
+          "arrive_at": "10:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm, vielleicht gibt es eine interessante Vorstellung.",
+            "hu": "Nézze meg a műsort, hátha van egy érdekes előadás.",
+            "ro": "Verificați programul, poate prindeți un spectacol interesant.",
+            "en": "Check the schedule, you might catch an interesting performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bonifaciuskerk",
+            "hu": "Szent Bonifác-templom",
+            "ro": "Biserica Sfântul Bonifaciu",
+            "en": "Saint Bonifacius Church"
+          },
+          "coords": [
+            4.659,
+            52.132
+          ],
+          "category": "churches",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Diese neugotische Kirche ist ein beeindruckender Anblick. Der hohe Turm ist weithin sichtbar.",
+            "hu": "Ez a neogótikus templom lenyűgöző látványt nyújt. Magas tornya messziről látszik.",
+            "ro": "Această biserică neogotică este o priveliște impresionantă. Turnul său înalt este vizibil de departe.",
+            "en": "This neo-Gothic church is an impressive sight. Its tall tower is visible from afar."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühle De Eendracht",
+            "hu": "De Eendracht szélmalom",
+            "ro": "Moara de vânt De Eendracht",
+            "en": "De Eendracht Windmill"
+          },
+          "coords": [
+            4.665,
+            52.135
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Samstags ist die Mühle oft in Betrieb und kann besichtigt werden.",
+            "hu": "Szombatonként a malom gyakran működésben van és látogatható.",
+            "ro": "Sâmbăta, moara este adesea în funcțiune și poate fi vizitată.",
+            "en": "On Saturdays, the mill is often operational and open for visits."
+          }
+        },
+        {
+          "name": {
+            "de": "Zegerplas See",
+            "hu": "Zegerplas-tó",
+            "ro": "Lacul Zegerplas",
+            "en": "Zegerplas Lake"
+          },
+          "coords": [
+            4.685,
+            52.138
+          ],
+          "category": "lake",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause oder einen entspannten Spaziergang. Suchen Sie nach dem Strand.",
+            "hu": "Tökéletes egy ebédszünetre vagy egy pihentető sétára. Keresse meg a strandot.",
+            "ro": "Perfect pentru o pauză de prânz sau o plimbare relaxantă. Căutați plaja.",
+            "en": "Perfect for a lunch break or a relaxing walk. Look for the beach area."
+          }
+        },
+        {
+          "name": {
+            "de": "Wet 'n Wild Strand",
+            "hu": "Wet 'n Wild strand",
+            "ro": "Plaja Wet 'n Wild",
+            "en": "Wet 'n Wild Beach"
+          },
+          "coords": [
+            4.688,
+            52.139
+          ],
+          "category": "beaches",
+          "arrive_at": "15:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein beliebter Ort zum Entspannen. Im Sommer können Sie hier schwimmen.",
+            "hu": "Népszerű hely a pihenésre. Nyáron úszhat is egyet.",
+            "ro": "Un loc popular pentru relaxare. Puteți înota aici în timpul verii.",
+            "en": "A popular spot for relaxing. You can swim here during the summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Alphen beginnt im Herzen der Stadt, wo Sie die moderne und historische Architektur erkunden. Am Vormittag entdecken Sie die wichtigsten Kirchen und das kulturelle Zentrum. Nach dem Mittagessen, das Sie in der Nähe der alten Mühle einnehmen, führt Sie Ihr Weg zum Zegerplas. Den Nachmittag verbringen Sie am See und am Strand, genießen die Natur und entspannen sich. Am Abend kehren Sie ins Zentrum zurück, um in einem der gemütlichen Restaurants zu speisen.",
+        "hu": "Az alpheni nap a város szívében kezdődik, ahol a modern és történelmi építészetet fedezi fel. A délelőtt folyamán a fő templomokat és a kulturális központot ismeri meg. Ebéd után, amit a régi malom közelében fogyaszthat el, az útja a Zegerplas felé vezet. A délutánt a tónál és a strandon tölti, élvezve a természetet és a pihenést. Este visszatér a központba, hogy egy hangulatos étteremben vacsorázzon.",
+        "ro": "Ziua dvs. în Alphen începe în inima orașului, explorând arhitectura modernă și istorică. Dimineața, descoperiți bisericile principale și centrul cultural. După prânzul servit lângă vechea moară, drumul vă duce la Zegerplas. Vă petreceți după-amiaza la lac și pe plajă, bucurându-vă de natură și relaxare. Seara, vă întoarceți în centru pentru a cina la unul dintre restaurantele primitoare.",
+        "en": "Your day in Alphen starts in the heart of the city, exploring its modern and historic architecture. In the morning, you'll discover the main churches and the cultural hub. After lunch near the old mill, your path leads to Zegerplas. You spend the afternoon at the lake and beach, enjoying nature and relaxation. In the evening, you return to the center to dine at one of the cozy restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Probieren Sie die frischen Sirupwaffeln auf einem lokalen Markt."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kleine, flauschige Pfannkuchen, oft mit Puderzucker serviert."
+          },
+          {
+            "name": "Haring",
+            "tip": "Ein roher Hering, eine holländische Delikatesse, oft mit Zwiebeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stroopwafel",
+            "tip": "Kóstolja meg a friss szirupos ostyát egy helyi piacon."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kicsi, pufi palacsinták, gyakran porcukorral tálalva."
+          },
+          {
+            "name": "Hering",
+            "tip": "Nyers hering, holland finomság, gyakran hagymával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Încercați vafa proaspătă cu sirop de la o piață locală."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Clătite mici și pufoase, adesea servite cu zahăr pudră."
+          },
+          {
+            "name": "Hering",
+            "tip": "Hering crud, o delicatesă olandeză, adesea cu ceapă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Try the fresh syrup waffles from a local market."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Small, fluffy pancakes, often served with powdered sugar."
+          },
+          {
+            "name": "Haring",
+            "tip": "Raw herring, a Dutch delicacy, often with onions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Zegerplas",
+            "tip": "Finden Sie eine ruhige Bank am Seeufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Oude Rijn",
+            "tip": "Ein Spaziergang entlang des Flusses ist sehr friedlich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zegerplas partja",
+            "tip": "Keressen egy csendes padot a tó partján.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta az Oude Rijn mentén",
+            "tip": "Egy séta a folyó mentén nagyon békés.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Zegerplas",
+            "tip": "Găsiți o bancă liniștită pe malul lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe Oude Rijn",
+            "tip": "O plimbare de-a lungul râului este foarte pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Zegerplas",
+            "tip": "Find a quiet bench by the lakeside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk along the Oude Rijn",
+            "tip": "A stroll along the river is very peaceful.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Innenstadt",
+            "tip": "Die Hauptstraßen bieten eine Mischung aus bekannten Marken und lokalen Boutiquen."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie den Markt am Samstag für lokale Produkte und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belváros",
+            "tip": "A fő utcák ismert márkák és helyi butikok keverékét kínálják."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el a szombati piacra helyi termékekért és ajándéktárgyakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul orașului",
+            "tip": "Străzile principale oferă un amestec de mărci cunoscute și buticuri locale."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați piața de sâmbătă pentru produse locale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Center",
+            "tip": "The main streets offer a mix of known brands and local boutiques."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the Saturday market for local produce and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten der Kirchen, da diese variieren können.",
+          "Eine Wasserflasche ist an warmen Tagen unerlässlich.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Ellenőrizze a templomok nyitvatartási idejét, mert az változhat.",
+          "Meleg napokon elengedhetetlen egy vizes palack.",
+          "A központi látnivalók többsége könnyen elérhető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Verificați orele de deschidere ale bisericilor, deoarece acestea pot varia.",
+          "O sticlă de apă este esențială în zilele călduroase.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Check the opening hours of the churches as they can vary.",
+          "A water bottle is essential on warm days.",
+          "Most central sights are easily reachable on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 18.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Castellum Theater",
+            "hu": "Indulás a Castellum Színháztól",
+            "ro": "Pornire de la Teatrul Castellum",
+            "en": "Start at Castellum Theatre"
+          },
+          "coords": [
+            4.653,
+            52.131
+          ],
+          "category": "theatres",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Oudshoornse Kerk",
+            "hu": "Oudshoornse Kerk",
+            "ro": "Biserica Oudshoornse",
+            "en": "Oudshoornse Church"
+          },
+          "coords": [
+            4.658,
+            52.128
+          ],
+          "category": "churches",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name": {
+            "de": "Steekterlucht",
+            "hu": "Steekterlucht",
+            "ro": "Steekterlucht",
+            "en": "Steekterlucht"
+          },
+          "coords": [
+            4.68,
+            52.113
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:31",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5
+        },
+        {
+          "name": {
+            "de": "Avifauna Vogelpark",
+            "hu": "Avifauna Madárpark",
+            "ro": "Parcul de păsări Avifauna",
+            "en": "Avifauna Bird Park"
+          },
+          "coords": [
+            4.672,
+            52.123
+          ],
+          "category": "parks",
+          "arrive_at": "11:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0
+        },
+        {
+          "name": {
+            "de": "Zegerplas See",
+            "hu": "Zegerplas-tó",
+            "ro": "Lacul Zegerplas",
+            "en": "Zegerplas Lake"
+          },
+          "coords": [
+            4.685,
+            52.138
+          ],
+          "category": "lake",
+          "arrive_at": "13:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0
+        },
+        {
+          "name": {
+            "de": "Mühle De Eendracht",
+            "hu": "De Eendracht szélmalom",
+            "ro": "Moara de vânt De Eendracht",
+            "en": "De Eendracht Windmill"
+          },
+          "coords": [
+            4.665,
+            52.135
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:19",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0
+        },
+        {
+          "name": {
+            "de": "Archeon",
+            "hu": "Archeon",
+            "ro": "Archeon",
+            "en": "Archeon"
+          },
+          "coords": [
+            4.665,
+            52.105
+          ],
+          "category": "museums",
+          "arrive_at": "16:24",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the Center"
+          },
+          "coords": [
+            4.655,
+            52.129
+          ],
+          "category": "city",
+          "arrive_at": "18:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour durch Alphen führt Sie zu den Highlights in und um die Stadt. Sie starten im Zentrum, bevor Sie nach Süden zum Vogelpark Avifauna fahren, einem Höhepunkt des Vormittags. Nach dem Mittagessen umrunden Sie den Zegerplas und besuchen die historische Mühle. Der Nachmittag ist für einen tiefen Einblick in die Geschichte im Freilichtmuseum Archeon reserviert. Die Tour endet mit einer entspannten Rückfahrt ins Stadtzentrum, um den Tag ausklingen zu lassen.",
+        "hu": "Egy alpheni kerékpártúra elviszi Önt a város és környékének legszebb helyeire. A központból indul, majd dél felé veszi az irányt az Avifauna madárparkba, ami a délelőtt fénypontja. Ebéd után megkerüli a Zegerplas tavat és meglátogatja a történelmi malmot. A délután a történelem mélyebb megismeréséé az Archeon szabadtéri múzeumban. A túra egy kellemes visszaúttal zárul a városközpontba.",
+        "ro": "Un tur cu bicicleta prin Alphen vă duce la atracțiile principale din oraș și din împrejurimi. Porniți din centru, înainte de a vă îndrepta spre sud, la parcul de păsări Avifauna, un punct culminant al dimineții. După prânz, înconjurați lacul Zegerplas și vizitați moara istorică. După-amiaza este rezervată unei incursiuni profunde în istorie la muzeul în aer liber Archeon. Turul se încheie cu o plimbare relaxantă înapoi în centrul orașului.",
+        "en": "A bike tour through Alphen takes you to the highlights in and around the city. You start in the center before heading south to Avifauna bird park, a morning highlight. After lunch, you'll circle the Zegerplas lake and visit the historic mill. The afternoon is reserved for a deep dive into history at the Archeon open-air museum. The tour concludes with a relaxed ride back to the city center to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pannenkoeken",
+            "tip": "Holländische Pfannkuchen, herzhaft oder süß, sind perfekt für Radfahrer."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Frittierte Fischstücke, ein schneller und leckerer Snack."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein Bier von einer lokalen Brauerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pannenkoeken",
+            "tip": "A holland palacsinta, sós vagy édes, tökéletes a bicikliseknek."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Sült haldarabkák, gyors és finom harapnivaló."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy sört egy helyi sörfőzdéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pannenkoeken",
+            "tip": "Clătitele olandeze, sărate sau dulci, sunt perfecte pentru bicicliști."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Bucăți de pește prăjit, o gustare rapidă și delicioasă."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încercați o bere de la o fabrică de bere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pannenkoeken",
+            "tip": "Dutch pancakes, savory or sweet, are perfect for cyclists."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Fried fish pieces, a quick and tasty snack."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a beer from a local brewery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Wege um den Zegerplas",
+            "tip": "Ruhige Radwege mit schöner Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Landschaft südlich von Alphen",
+            "tip": "Grüne Polder und ruhige Kanäle.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Zegerplas körüli utak",
+            "tip": "Csendes kerékpárutak gyönyörű kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alphen-től délre eső táj",
+            "tip": "Zöld polderek és csendes csatornák.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Traseele din jurul Zegerplas",
+            "tip": "Piste de biciclete liniștite cu priveliști frumoase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Peisajul la sud de Alphen",
+            "tip": "Poldere verzi și canale liniștite.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "The paths around Zegerplas",
+            "tip": "Quiet cycle paths with beautiful views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The countryside south of Alphen",
+            "tip": "Green polders and quiet canals.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Alphen hat ausgezeichnete Geschäfte für Fahrradzubehör."
+          },
+          {
+            "name": "Käseladen",
+            "tip": "Kaufen Sie authentischen holländischen Käse für zu Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Alphen kiváló üzletekkel rendelkezik kerékpár-kiegészítőkhöz."
+          },
+          {
+            "name": "Sajtbolt",
+            "tip": "Vásároljon eredeti holland sajtot hazavitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Alphen are magazine excelente pentru accesorii de biciclete."
+          },
+          {
+            "name": "Magazin de brânzeturi",
+            "tip": "Cumpărați brânză olandeză autentică pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Alphen has excellent shops for cycling accessories."
+          },
+          {
+            "name": "Cheese Shop",
+            "tip": "Buy some authentic Dutch cheese to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad im Voraus, besonders am Wochenende.",
+          "Die Niederlande sind flach, aber der Wind kann eine Herausforderung sein.",
+          "Folgen Sie den roten Radwegen (fietspaden).",
+          "Schließen Sie Ihr Fahrrad immer gut ab."
+        ],
+        "hu": [
+          "Béreljen kerékpárt előre, különösen hétvégén.",
+          "Hollandia sík, de a szél kihívást jelenthet.",
+          "Kövesse a piros kerékpárutakat (fietspaden).",
+          "Mindig zárja le jól a kerékpárját."
+        ],
+        "ro": [
+          "Închiriați o bicicletă în avans, mai ales în weekend.",
+          "Olanda este plată, dar vântul poate fi o provocare.",
+          "Urmați pistele de biciclete roșii (fietspaden).",
+          "Încuiati întotdeauna bicicleta bine."
+        ],
+        "en": [
+          "Rent a bike in advance, especially on weekends.",
+          "The Netherlands is flat, but the wind can be a challenge.",
+          "Follow the red cycle paths (fietspaden).",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 21.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Archeon Museum",
+            "hu": "1. klaszter: Archeon Múzeum",
+            "ro": "Cluster 1: Muzeul Archeon",
+            "en": "Cluster 1: Archeon Museum"
+          },
+          "coords": [
+            4.665,
+            52.105
+          ],
+          "category": "museums",
+          "arrive_at": "09:20",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und bereiten Sie sich auf eine Zeitreise vor.",
+            "hu": "Parkoljon le itt, és készüljön egy időutazásra.",
+            "ro": "Parcați aici și pregătiți-vă pentru o călătorie în timp.",
+            "en": "Park here and prepare for a journey back in time."
+          }
+        },
+        {
+          "name": {
+            "de": "Avifauna Vogelpark",
+            "hu": "Avifauna Madárpark",
+            "ro": "Parcul de păsări Avifauna",
+            "en": "Avifauna Bird Park"
+          },
+          "coords": [
+            4.672,
+            52.123
+          ],
+          "category": "parks",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Autoweg vom Archeon. Es gibt einen großen Parkplatz.",
+            "hu": "Rövid autóút az Archeontól. Nagy parkoló áll rendelkezésre.",
+            "ro": "La o scurtă distanță cu mașina de Archeon. Există o parcare mare.",
+            "en": "A short drive from Archeon. There is a large parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Zentrum & Mittagessen",
+            "hu": "2. klaszter: Központ és ebéd",
+            "ro": "Cluster 2: Centru și prânz",
+            "en": "Cluster 2: Center & Lunch"
+          },
+          "coords": [
+            4.656,
+            52.129
+          ],
+          "category": "city",
+          "arrive_at": "14:25",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum (z.B. Parkhaus Castellum) für den Rest des Nachmittags.",
+            "hu": "Parkoljon a központban (pl. Castellum parkolóház) a délután hátralévő részére.",
+            "ro": "Parcați în centru (de ex. parcarea Castellum) pentru restul după-amiezii.",
+            "en": "Park in the center (e.g., Castellum parking) for the rest of the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Oudshoornse Kerk",
+            "hu": "Oudshoornse Kerk",
+            "ro": "Biserica Oudshoornse",
+            "en": "Oudshoornse Church"
+          },
+          "coords": [
+            4.658,
+            52.128
+          ],
+          "category": "churches",
+          "arrive_at": "14:50",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum historischen Herz der Stadt.",
+            "hu": "Rövid séta a parkolótól a város történelmi szívébe.",
+            "ro": "O scurtă plimbare de la parcare la inima istorică a orașului.",
+            "en": "A short walk from the parking lot to the historic heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühle De Eendracht",
+            "hu": "De Eendracht szélmalom",
+            "ro": "Moara de vânt De Eendracht",
+            "en": "De Eendracht Windmill"
+          },
+          "coords": [
+            4.665,
+            52.135
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang entlang des Wassers führt Sie zur Mühle.",
+            "hu": "Egy szép séta a víz mentén elvezeti a malomhoz.",
+            "ro": "O plimbare frumoasă de-a lungul apei vă duce la moară.",
+            "en": "A pleasant walk along the water leads you to the mill."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Zegerplas Entspannung",
+            "hu": "3. klaszter: Zegerplas pihenés",
+            "ro": "Cluster 3: Relaxare la Zegerplas",
+            "en": "Cluster 3: Zegerplas Relaxation"
+          },
+          "coords": [
+            4.685,
+            52.138
+          ],
+          "category": "lake",
+          "arrive_at": "16:45",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum See für einen entspannten Tagesausklang.",
+            "hu": "Autózzon el a tóhoz egy pihentető napzárásért.",
+            "ro": "Conduceți până la lac pentru un sfârșit de zi relaxant.",
+            "en": "Drive to the lake for a relaxing end to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Wet 'n Wild Strand",
+            "hu": "Wet 'n Wild strand",
+            "ro": "Plaja Wet 'n Wild",
+            "en": "Wet 'n Wild Beach"
+          },
+          "coords": [
+            4.688,
+            52.139
+          ],
+          "category": "beaches",
+          "arrive_at": "18:20",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gehen Sie vom Parkplatz zum Strandclub und genießen Sie die Abendsonne.",
+            "hu": "Sétáljon a parkolóból a strandklubhoz, és élvezze az esti napot.",
+            "ro": "Mergeți de la parcare la clubul de pe plajă și bucurați-vă de soarele de seară.",
+            "en": "Walk from the parking lot to the beach club and enjoy the evening sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Alphen und seine Umgebung in Clustern. Der Vormittag gehört den großen Attraktionen im Süden: dem Geschichtspark Archeon und dem Vogelpark Avifauna. Nach einer kurzen Fahrt parken Sie für den Mittag und Nachmittag im Zentrum, um die historischen Kirchen und Mühlen zu Fuß zu entdecken. Der Tag endet mit einer weiteren kurzen Fahrt zum Zegerplas, wo Sie am Strand entspannen und den Tag ausklingen lassen.",
+        "hu": "Autóval klaszterekben fedezi fel Alphent és környékét. A délelőtt a déli nagy látványosságoké: az Archeon történelmi parké és az Avifauna madárparké. Egy rövid autóút után délre és délutánra a központban parkol, hogy gyalog fedezze fel a történelmi templomokat és malmokat. A nap egy újabb rövid autóúttal zárul a Zegerplas-tóhoz, ahol a strandon pihenhet.",
+        "ro": "Cu mașina, explorați Alphen și împrejurimile sale în clustere. Dimineața este dedicată atracțiilor majore din sud: parcul istoric Archeon și parcul de păsări Avifauna. După o scurtă călătorie cu mașina, parcați în centru pentru prânz și după-amiază pentru a descoperi bisericile și morile istorice pe jos. Ziua se încheie cu o altă scurtă călătorie cu mașina la Zegerplas, unde vă puteți relaxa pe plajă.",
+        "en": "By car, you'll explore Alphen and its surroundings in clusters. The morning is for the major southern attractions: Archeon history park and Avifauna bird park. After a short drive, you'll park in the center for the afternoon to discover the historic churches and mills on foot. The day ends with another short drive to Zegerplas, where you can relax on the beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am See",
+            "tip": "Genießen Sie ein Abendessen mit Blick auf den Zegerplas."
+          },
+          {
+            "name": "Pfannkuchenhaus (Pannenkoekenhuis)",
+            "tip": "Ein klassisches holländisches Erlebnis, oft etwas außerhalb gelegen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a tónál",
+            "tip": "Élvezze a vacsorát a Zegerplas-tóra néző kilátással."
+          },
+          {
+            "name": "Palacsintaház (Pannenkoekenhuis)",
+            "tip": "Klasszikus holland élmény, gyakran kissé kieső helyen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe lac",
+            "tip": "Bucurați-vă de o cină cu vedere la Zegerplas."
+          },
+          {
+            "name": "Casă de clătite (Pannenkoekenhuis)",
+            "tip": "O experiență olandeză clasică, adesea situată puțin în afara orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside Restaurant",
+            "tip": "Enjoy dinner with a view over Zegerplas."
+          },
+          {
+            "name": "Pancake House (Pannenkoekenhuis)",
+            "tip": "A classic Dutch experience, often located slightly out of town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Archeon am späten Nachmittag",
+            "tip": "Wenn die Menschenmassen nachlassen, wird es ruhiger.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Sonnenuntergang am Zegerplas",
+            "tip": "Ein wunderschöner, friedlicher Anblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Archeon késő délután",
+            "tip": "Amikor a tömeg oszlani kezd, csendesebbé válik.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Naplemente a Zegerplas-tónál",
+            "tip": "Gyönyörű, békés látvány.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Archeon după-amiaza târziu",
+            "tip": "Devine mai liniștit pe măsură ce mulțimile se răresc.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Apus de soare la Zegerplas",
+            "tip": "O priveliște frumoasă și pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Archeon in the late afternoon",
+            "tip": "It gets quieter as the crowds thin out.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Sunset at Zegerplas",
+            "tip": "A beautiful, peaceful sight.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Suchen Sie auf dem Land nach Bauernhöfen, die Käse und andere lokale Produkte verkaufen."
+          },
+          {
+            "name": "Museumsshops",
+            "tip": "Die Shops in Archeon und Avifauna bieten einzigartige Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Keressen a vidéken olyan gazdaságokat, amelyek sajtot és más helyi termékeket árulnak."
+          },
+          {
+            "name": "Múzeumi boltok",
+            "tip": "Az Archeon és az Avifauna boltjai egyedi ajándéktárgyakat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de la ferme",
+            "tip": "Căutați ferme în mediul rural care vând brânză și alte produse locale."
+          },
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Magazinele de la Archeon și Avifauna oferă suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Look for farms in the countryside selling cheese and other local products."
+          },
+          {
+            "name": "Museum Shops",
+            "tip": "The shops at Archeon and Avifauna offer unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Möglichkeiten, wenn verfügbar.",
+          "Planen Sie Ihre Route im Voraus, um Verkehr zu vermeiden.",
+          "Achten Sie auf die vielen Radfahrer, besonders in der Stadt.",
+          "Bezahlte Parkplätze sind im Zentrum die Norm."
+        ],
+        "hu": [
+          "Használja a P+R lehetőségeket, ha rendelkezésre állnak.",
+          "Tervezze meg előre az útvonalat a forgalom elkerülése érdekében.",
+          "Vigyázzon a sok kerékpárosra, különösen a városban.",
+          "A központban a fizetős parkolás a norma."
+        ],
+        "ro": [
+          "Utilizați opțiunile Park and Ride, dacă sunt disponibile.",
+          "Planificați-vă traseul în avans pentru a evita traficul.",
+          "Fiți atenți la numeroșii bicicliști, în special în oraș.",
+          "Parcarea cu plată este norma în centru."
+        ],
+        "en": [
+          "Use Park and Ride options if available.",
+          "Plan your route in advance to avoid traffic.",
+          "Be mindful of the many cyclists, especially in the city.",
+          "Paid parking is the norm in the center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Avifauna & Archeon",
+            "hu": "1. klaszter: Avifauna és Archeon",
+            "ro": "Cluster 1: Avifauna și Archeon",
+            "en": "Cluster 1: Avifauna & Archeon"
+          },
+          "coords": [
+            4.672,
+            52.123
+          ],
+          "category": "parks",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Bahnhof Alphen in Richtung Vogelpark.",
+            "hu": "Menjen busszal az alpheni állomásról a madárpark felé.",
+            "ro": "Luați un autobuz de la gara Alphen spre parcul de păsări.",
+            "en": "Take a bus from Alphen station towards the bird park."
+          }
+        },
+        {
+          "name": {
+            "de": "Archeon",
+            "hu": "Archeon",
+            "ro": "Archeon",
+            "en": "Archeon"
+          },
+          "coords": [
+            4.665,
+            52.105
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Oft verbindet ein Bus Avifauna mit Archeon, prüfen Sie den Fahrplan.",
+            "hu": "Gyakran közlekedik busz az Avifauna és az Archeon között, ellenőrizze a menetrendet.",
+            "ro": "Adesea, un autobuz leagă Avifauna de Archeon, verificați orarul.",
+            "en": "Often a bus connects Avifauna to Archeon, check the schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Stadtzentrum",
+            "hu": "2. klaszter: Városközpont",
+            "ro": "Cluster 2: Centrul orașului",
+            "en": "Cluster 2: City Center"
+          },
+          "coords": [
+            4.656,
+            52.129
+          ],
+          "category": "city",
+          "arrive_at": "14:50",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ins Zentrum und steigen Sie in der Nähe des Rathauses aus.",
+            "hu": "Menjen busszal vissza a központba, és szálljon le a városháza közelében.",
+            "ro": "Luați autobuzul înapoi în centru și coborâți lângă primărie.",
+            "en": "Take the bus back to the center and get off near the City Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Oudshoornse Kerk",
+            "hu": "Oudshoornse Kerk",
+            "ro": "Biserica Oudshoornse",
+            "en": "Oudshoornse Church"
+          },
+          "coords": [
+            4.658,
+            52.128
+          ],
+          "category": "churches",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația de autobuz.",
+            "en": "A short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bonifaciuskerk",
+            "hu": "Szent Bonifác-templom",
+            "ro": "Biserica Sfântul Bonifaciu",
+            "en": "Saint Bonifacius Church"
+          },
+          "coords": [
+            4.659,
+            52.132
+          ],
+          "category": "churches",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die neugotische Kirche ist vom Zentrum aus leicht zu Fuß erreichbar.",
+            "hu": "A neogótikus templom könnyen megközelíthető gyalog a központból.",
+            "ro": "Biserica neogotică este ușor accesibilă pe jos din centru.",
+            "en": "The neo-Gothic church is an easy walk from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Zegerplas am Abend",
+            "hu": "3. klaszter: Zegerplas este",
+            "ro": "Cluster 3: Zegerplas seara",
+            "en": "Cluster 3: Zegerplas in the Evening"
+          },
+          "coords": [
+            4.685,
+            52.138
+          ],
+          "category": "lake",
+          "arrive_at": "17:15",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein letzter Bus bringt Sie zum See, um den Sonnenuntergang zu genießen.",
+            "hu": "Egy utolsó busz elviszi a tóhoz, hogy élvezze a naplementét.",
+            "ro": "Un ultim autobuz vă duce la lac pentru a vă bucura de apus.",
+            "en": "A final bus ride takes you to the lake to enjoy the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln entdecken Sie Alphen in drei Etappen. Sie beginnen mit einer Busfahrt zu den südlich gelegenen Parks, Avifauna und Archeon, wo Sie den größten Teil des Tages verbringen. Am Nachmittag kehren Sie mit dem Bus ins Stadtzentrum zurück, um die historischen Kirchen zu Fuß zu erkunden. Ein letzter Bus bringt Sie zum Zegerplas, um den Tag in einer ruhigen Umgebung ausklingen zu lassen.",
+        "hu": "Tömegközlekedéssel három szakaszban fedezi fel Alphent. Egy buszúttal kezdi a déli parkokba, az Avifaunába és az Archeonba, ahol a nap nagy részét tölti. Délután busszal tér vissza a városközpontba, hogy gyalog fedezze fel a történelmi templomokat. Egy utolsó busz elviszi a Zegerplas-tóhoz, hogy egy csendes környezetben zárja a napot.",
+        "ro": "Folosind transportul public, descoperiți Alphen în trei etape. Începeți cu o călătorie cu autobuzul către parcurile din sud, Avifauna și Archeon, unde petreceți cea mai mare parte a zilei. După-amiaza, vă întoarceți în centrul orașului cu autobuzul pentru a explora bisericile istorice pe jos. O ultimă călătorie cu autobuzul vă duce la Zegerplas pentru a încheia ziua într-un cadru liniștit.",
+        "en": "Using public transport, you'll discover Alphen in three stages. You start with a bus ride to the southern parks, Avifauna and Archeon, where you'll spend most of the day. In the afternoon, you return to the city center by bus to explore the historic churches on foot. A final bus ride takes you to Zegerplas to end the day in a peaceful setting."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Broodje",
+            "tip": "Ein belegtes Brötchen von einer Bäckerei ist ein perfektes Mittagessen für unterwegs."
+          },
+          {
+            "name": "Friet met",
+            "tip": "Pommes Frites mit Mayonnaise, ein holländischer Klassiker."
+          },
+          {
+            "name": "Koffie Verkeerd",
+            "tip": "Ein Milchkaffee, um sich aufzuwärmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Broodje",
+            "tip": "Egy szendvics egy pékségből tökéletes ebéd útközben."
+          },
+          {
+            "name": "Friet met",
+            "tip": "Sült krumpli majonézzel, egy holland klasszikus."
+          },
+          {
+            "name": "Koffie Verkeerd",
+            "tip": "Tejeskávé, hogy felmelegedjen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Broodje",
+            "tip": "Un sandviș de la o brutărie este un prânz perfect pentru drum."
+          },
+          {
+            "name": "Friet met",
+            "tip": "Cartofi prăjiți cu maioneză, un clasic olandez."
+          },
+          {
+            "name": "Koffie Verkeerd",
+            "tip": "O cafea cu lapte pentru a vă încălzi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Broodje",
+            "tip": "A sandwich from a bakery is a perfect lunch on the go."
+          },
+          {
+            "name": "Friet met",
+            "tip": "Fries with mayonnaise, a Dutch classic."
+          },
+          {
+            "name": "Koffie Verkeerd",
+            "tip": "A milky coffee to warm up."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Polder",
+            "tip": "Schauen Sie aus dem Fenster und genießen Sie die flache Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank in der Nähe der Bonifaciuskerk",
+            "tip": "Ein ruhiger Ort, um das Treiben zu beobachten.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a poldereken keresztül",
+            "tip": "Nézzen ki az ablakon, és élvezze a sík tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a Bonifaciuskerk közelében",
+            "tip": "Csendes hely a nyüzsgés megfigyelésére.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin poldere",
+            "tip": "Priviți pe fereastră și bucurați-vă de peisajul plat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă lângă Biserica Sf. Bonifaciu",
+            "tip": "Un loc liniștit pentru a privi agitația.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the polders",
+            "tip": "Look out the window and enjoy the flat landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench near Bonifaciuskerk",
+            "tip": "A quiet spot to watch the world go by.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofskiosk",
+            "tip": "Kaufen Sie Zeitschriften oder Snacks für die Busfahrt."
+          },
+          {
+            "name": "Markt im Zentrum",
+            "tip": "Wenn Sie an einem Markttag dort sind, schauen Sie sich die lokalen Stände an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvari kioszk",
+            "tip": "Vásároljon magazinokat vagy rágcsálnivalókat a buszútra."
+          },
+          {
+            "name": "Piac a központban",
+            "tip": "Ha piacnapon van ott, nézze meg a helyi standokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul din gară",
+            "tip": "Cumpărați reviste sau gustări pentru călătoria cu autobuzul."
+          },
+          {
+            "name": "Piața din centru",
+            "tip": "Dacă sunteți acolo într-o zi de piață, aruncați o privire la tarabele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Kiosk",
+            "tip": "Buy magazines or snacks for the bus ride."
+          },
+          {
+            "name": "Market in the Center",
+            "tip": "If you're there on a market day, check out the local stalls."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte (dagkaart) für unbegrenzte Fahrten.",
+          "Laden Sie eine öV-App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Busse halten nicht immer automatisch, geben Sie dem Fahrer ein Zeichen.",
+          "Planen Sie Pufferzeiten für Wartezeiten ein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet (dagkaart) a korlátlan utazáshoz.",
+          "Töltsön le egy tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "A buszok nem mindig állnak meg automatikusan, jelezzen a sofőrnek.",
+          "Tervezzen pufferidőt a várakozásra."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi (dagkaart) pentru călătorii nelimitate.",
+          "Descărcați o aplicație de transport public pentru orare în timp real.",
+          "Autobuzele nu opresc întotdeauna automat, faceți semn șoferului.",
+          "Planificați timp tampon pentru așteptare."
+        ],
+        "en": [
+          "Buy a day ticket (dagkaart) for unlimited travel.",
+          "Download a public transport app for real-time schedules.",
+          "Buses don't always stop automatically, signal the driver.",
+          "Plan for buffer time for waiting."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1580 @@
+{
+  "city_id": "switzerland-vevey-cities-v2",
+  "anchor": {
+    "name": "Vevey",
+    "coords": [
+      6.8499,
+      46.4621
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Grande Place / Marktplatz",
+            "hu": "Grande Place / Piac tér",
+            "ro": "Grande Place / Piața Mare",
+            "en": "Grande Place / Market Square"
+          },
+          "coords": [
+            6.849,
+            46.461
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie am Dienstag- oder Samstagmorgen den berühmten Markt.",
+            "hu": "Kedd vagy szombat délelőtt látogass el a híres helyi piacra.",
+            "ro": "Vizitați celebra piață locală marți sau sâmbătă dimineața.",
+            "en": "Visit on a Tuesday or Saturday morning for the famous local market."
+          }
+        },
+        {
+          "name": {
+            "de": "Schweizer Kameramuseum",
+            "hu": "Svájci Fényképezőgép Múzeum",
+            "ro": "Muzeul Elvețian de Fotografie",
+            "en": "Swiss Camera Museum"
+          },
+          "coords": [
+            6.8495,
+            46.4615
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die interaktiven Ausstellungen im Keller.",
+            "hu": "Ne hagyd ki az interaktív kiállításokat az alagsorban.",
+            "ro": "Nu ratați exponatele interactive de la subsol.",
+            "en": "Don't miss the interactive exhibits in the basement."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            6.851,
+            46.464
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick auf den See und die Alpen.",
+            "hu": "A panorámás kilátásért a tóra és az Alpokra megéri megmászni az emelkedőt.",
+            "ro": "Urcarea merită pentru vederea panoramică asupra lacului și a Alpilor.",
+            "en": "The climb is worth it for the panoramic view of the lake and the Alps."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Orașul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            6.85,
+            46.462
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie die lokalen Felchenfilets in einem Restaurant am See.",
+            "hu": "Kóstold meg a helyi sügérfilét egy tóparti étteremben.",
+            "ro": "Încercați fileurile de pește local (féra) la un restaurant de pe malul lacului.",
+            "en": "Try the local perch fillets in a restaurant by the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Charlie Chaplin",
+            "hu": "Charlie Chaplin szobra",
+            "ro": "Statuia lui Charlie Chaplin",
+            "en": "Charlie Chaplin Statue"
+          },
+          "coords": [
+            6.847,
+            46.46
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ikonischer Fotospot. Chaplin verbrachte hier seine letzten 25 Jahre.",
+            "hu": "Ikonikus fotóhelyszín. Chaplin itt töltötte utolsó 25 évét.",
+            "ro": "Un loc iconic pentru fotografii. Chaplin și-a petrecut ultimii 25 de ani aici.",
+            "en": "An iconic photo spot. Chaplin spent his last 25 years here."
+          }
+        },
+        {
+          "name": {
+            "de": "Alimentarium",
+            "hu": "Alimentarium",
+            "ro": "Alimentarium",
+            "en": "Alimentarium"
+          },
+          "coords": [
+            6.848,
+            46.459
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Gabel im See ist ein Muss für ein Foto!",
+            "hu": "A Villa a tóban kötelező fotótéma!",
+            "ro": "Furculița din lac este un 'must-have' pentru o fotografie!",
+            "en": "The Fork in the Lake is a must-have photo!"
+          }
+        },
+        {
+          "name": {
+            "de": "Quai Perdonnet",
+            "hu": "Perdonnet rakpart",
+            "ro": "Cheiul Perdonnet",
+            "en": "Perdonnet Quay"
+          },
+          "coords": [
+            6.852,
+            46.46
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang am Ende des Tages mit Blick auf die Berge.",
+            "hu": "Egy pihentető séta a nap végén, kilátással a hegyekre.",
+            "ro": "O plimbare relaxantă la sfârșitul zilei, cu vedere la munți.",
+            "en": "A relaxing walk at the end of the day with a view of the mountains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der lebhaften Grande Place, dem Herzen von Vevey. Nach einem Ausflug in die Welt der Fotografie im Kameramuseum führt Sie ein kurzer Spaziergang bergauf zur Kirche Saint-Martin, wo Sie eine atemberaubende Aussicht erwartet. Am Nachmittag entdecken Sie die Geheimnisse der Ernährung im Alimentarium, direkt an der Seepromenade. Beenden Sie den Tag mit einem gemütlichen Spaziergang entlang des Quai Perdonnet und genießen Sie die friedliche Atmosphäre des Genfersees, während die Sonne hinter den Bergen untergeht.",
+        "hu": "Kezdje a napot Vevey szívében, a nyüzsgő Grande Place-on. A fotográfia világában tett látogatás után a Kameramúzeumban egy rövid, felfelé vezető séta elvisz a Saint-Martin templomhoz, ahonnan lélegzetelállító kilátás nyílik. Délután fedezze fel a táplálkozás titkait az Alimentariumban, közvetlenül a tóparti sétányon. Zárja a napot egy kellemes sétával a Quai Perdonnet mentén, élvezve a Genfi-tó békés hangulatát, miközben a nap a hegyek mögött nyugszik.",
+        "ro": "Începeți ziua în inima orașului Vevey, în vibranta Grande Place. După o incursiune în lumea fotografiei la Muzeul Camerei, o scurtă plimbare la deal vă duce la Biserica Saint-Martin pentru priveliști uimitoare. După-amiaza, descoperiți secretele nutriției la Alimentarium, chiar pe promenada lacului. Încheiați ziua cu o plimbare agale de-a lungul Quai Perdonnet, bucurându-vă de atmosfera liniștită a Lacului Geneva în timp ce soarele apune după munți.",
+        "en": "Start your day in the heart of Vevey at the vibrant Grande Place. After a trip into the world of photography at the Camera Museum, a short uphill walk takes you to St. Martin's Church for stunning views. In the afternoon, discover the secrets of nutrition at the Alimentarium, right on the lake promenade. End your day with a leisurely stroll along the Quai Perdonnet, soaking in the peaceful atmosphere of Lake Geneva as the sun sets behind the mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Filets de perche",
+            "tip": "Ein lokaler Klassiker, serviert in den meisten Restaurants am See."
+          },
+          {
+            "name": "Käsefondue",
+            "tip": "Ein Muss in der Schweiz, perfekt für einen kühleren Abend."
+          },
+          {
+            "name": "Schokolade von Läderach",
+            "tip": "Probieren Sie die FrischSchoggi für ein authentisches Schweizer Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sügérfilé (Filets de perche)",
+            "tip": "Helyi klasszikus, a legtöbb tóparti étteremben kapható."
+          },
+          {
+            "name": "Sajtfondü",
+            "tip": "Kötelező svájci fogás, tökéletes egy hűvösebb estére."
+          },
+          {
+            "name": "Läderach csokoládé",
+            "tip": "Kóstold meg a FrischSchoggi-t egy igazi svájci élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fileuri de biban (Filets de perche)",
+            "tip": "Un clasic local, servit în majoritatea restaurantelor de pe malul lacului."
+          },
+          {
+            "name": "Fondue de brânză",
+            "tip": "O specialitate elvețiană de neratat, perfectă pentru o seară mai răcoroasă."
+          },
+          {
+            "name": "Ciocolată Läderach",
+            "tip": "Încercați FrischSchoggi pentru o experiență elvețiană autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Perch fillets (Filets de perche)",
+            "tip": "A local classic, served in most lakeside restaurants."
+          },
+          {
+            "name": "Cheese Fondue",
+            "tip": "A must-try in Switzerland, perfect for a cooler evening."
+          },
+          {
+            "name": "Läderach Chocolate",
+            "tip": "Try the FrischSchoggi (fresh chocolate) for an authentic Swiss treat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin du Rivage",
+            "tip": "Ein ruhiger Park am See, ideal für eine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt bei der Kirche St-Martin",
+            "tip": "Genießen Sie die Ruhe und den weiten Blick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang in Richtung Corseaux",
+            "tip": "Entfliehen Sie den Menschenmassen entlang des Seeufers.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin du Rivage",
+            "tip": "Csendes park a tónál, ideális egy kis pihenésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátópont a St-Martin templomnál",
+            "tip": "Élvezd a csendet és a pazar kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta Corseaux irányába",
+            "tip": "Kerüld el a tömeget a tóparton sétálva.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin du Rivage",
+            "tip": "Un parc liniștit lângă lac, ideal pentru o pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere la Biserica St-Martin",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare spre Corseaux",
+            "tip": "Evitați aglomerația plimbându-vă de-a lungul malului lacului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin du Rivage",
+            "tip": "A quiet park by the lake, ideal for a break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint at St-Martin's Church",
+            "tip": "Enjoy the tranquility and the sweeping view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk towards Corseaux",
+            "tip": "Escape the crowds by walking along the lake shore.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt auf der Grande Place",
+            "tip": "Finden Sie lokale Produkte, Käse und Kunsthandwerk."
+          },
+          {
+            "name": "Rue du Lac",
+            "tip": "Eine charmante Straße mit Boutiquen und Schokoladengeschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac a Grande Place-on",
+            "tip": "Keress helyi termékeket, sajtokat és kézműves tárgyakat."
+          },
+          {
+            "name": "Rue du Lac",
+            "tip": "Bájos utca butikokkal és csokoládéboltokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Grande Place",
+            "tip": "Găsiți produse locale, brânzeturi și artizanat."
+          },
+          {
+            "name": "Rue du Lac",
+            "tip": "O stradă fermecătoare cu buticuri și magazine de ciocolată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market on Grande Place",
+            "tip": "Find local produce, cheese, and crafts."
+          },
+          {
+            "name": "Rue du Lac",
+            "tip": "A charming street with boutiques and chocolate shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt viele öffentliche Brunnen.",
+          "Die meisten Museen sind montags geschlossen, planen Sie entsprechend.",
+          "Ein Spaziergang entlang des Sees bei Sonnenuntergang ist ein unvergessliches Erlebnis."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, az óvárosi macskakövek egyenetlenek lehetnek.",
+          "Hozz magaddal újratölthető vizes palackot, sok nyilvános ivókút van.",
+          "A legtöbb múzeum hétfőn zárva tart, tervezz ennek megfelelően.",
+          "Egy naplementés séta a tóparton felejthetetlen élmény."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavelele din orașul vechi pot fi denivelate.",
+          "Luați o sticlă de apă reutilizabilă; există multe fântâni publice.",
+          "Majoritatea muzeelor sunt închise lunea, planificați-vă vizita în consecință.",
+          "O plimbare pe malul lacului la apus este o experiență de neuitat."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Bring a reusable water bottle; there are many public fountains.",
+          "Most museums are closed on Mondays, so plan accordingly.",
+          "A walk along the lake at sunset is an unforgettable experience."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 9.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Grande Place",
+            "hu": "Grande Place",
+            "ro": "Grande Place",
+            "en": "Grande Place"
+          },
+          "coords": [
+            6.849,
+            46.461
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die Gassen zu Fuß.",
+            "hu": "Zárd le a biciklidet és fedezd fel gyalog a szűk utcákat.",
+            "ro": "Încuiați-vă bicicleta și explorați aleile pe jos.",
+            "en": "Lock up your bike and explore the alleyways on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            6.851,
+            46.464
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg ist kurz, aber steil. Schalten Sie in einen niedrigen Gang!",
+            "hu": "Az emelkedő rövid, de meredek. Válts alacsony sebességfokozatba!",
+            "ro": "Urcușul este scurt, dar abrupt. Treceți într-o viteză inferioară!",
+            "en": "The climb is short but steep. Switch to a low gear!"
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Jenisch",
+            "hu": "Jenisch Múzeum",
+            "ro": "Muzeul Jenisch",
+            "en": "Jenisch Museum"
+          },
+          "coords": [
+            6.853,
+            46.463
+          ],
+          "category": "museums",
+          "arrive_at": "10:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrradständer befinden sich in der Nähe des Eingangs.",
+            "hu": "A bejárat közelében kerékpártárolók találhatók.",
+            "ro": "Rastele pentru biciclete sunt disponibile lângă intrare.",
+            "en": "Bike racks are available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am See",
+            "hu": "Ebéd a tónál",
+            "ro": "Prânz pe malul lacului",
+            "en": "Lunch by the Lake"
+          },
+          "coords": [
+            6.85,
+            46.46
+          ],
+          "category": "gastro",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Viele Restaurants bieten Terrassen mit Seeblick.",
+            "hu": "Sok étterem kínál teraszt tóra néző kilátással.",
+            "ro": "Multe restaurante au terase cu vedere la lac.",
+            "en": "Many restaurants offer terraces with a lake view."
+          }
+        },
+        {
+          "name": {
+            "de": "Quai Perdonnet & Chaplin-Statue",
+            "hu": "Quai Perdonnet & Chaplin-szobor",
+            "ro": "Cheiul Perdonnet & Statuia lui Chaplin",
+            "en": "Perdonnet Quay & Chaplin Statue"
+          },
+          "coords": [
+            6.847,
+            46.46
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:41",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine flache, malerische Fahrt entlang des Sees.",
+            "hu": "Tökéletes egy sík, festői útra a tó mentén.",
+            "ro": "Perfect pentru o plimbare plată și pitorească de-a lungul lacului.",
+            "en": "Perfect for a flat, scenic ride along the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Alimentarium",
+            "hu": "Alimentarium",
+            "ro": "Alimentarium",
+            "en": "Alimentarium"
+          },
+          "coords": [
+            6.848,
+            46.459
+          ],
+          "category": "museums",
+          "arrive_at": "13:29",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie direkt bis zur Gabel im See!",
+            "hu": "Tekerj egészen a tóban álló villáig!",
+            "ro": "Pedalați chiar până la furculița din lac!",
+            "en": "Bike right up to the Fork in the Lake!"
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Le Lac - Le Corbusier",
+            "hu": "Villa Le Lac - Le Corbusier",
+            "ro": "Villa Le Lac - Le Corbusier",
+            "en": "Villa Le Lac - Le Corbusier"
+          },
+          "coords": [
+            6.865,
+            46.455
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt entlang des Sees zu diesem Juwel der modernen Architektur.",
+            "hu": "Kellemes tekerés a tó mentén ehhez a modern építészeti gyöngyszemhez.",
+            "ro": "O plimbare plăcută pe malul lacului până la această bijuterie a arhitecturii moderne.",
+            "en": "A pleasant ride along the lake to this gem of modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannen am Seeufer",
+            "hu": "Pihenés a tóparton",
+            "ro": "Relaxare pe malul lacului",
+            "en": "Relax by the lakeshore"
+          },
+          "coords": [
+            6.855,
+            46.458
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 65,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Finden Sie eine Bank und genießen Sie die Aussicht, bevor Sie den Tag beenden.",
+            "hu": "Keress egy padot és élvezd a kilátást, mielőtt befejeznéd a napot.",
+            "ro": "Găsiți o bancă și bucurați-vă de priveliște înainte de a încheia ziua.",
+            "en": "Find a bench and enjoy the view before finishing your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und beginnen Sie den Tag auf der Grande Place. Ein kurzer, aber steiler Anstieg bringt Sie zur Kirche Saint-Martin für eine fantastische Aussicht, bevor Sie zum Musée Jenisch hinunterrollen. Am Nachmittag radeln Sie gemütlich am Seeufer entlang, vorbei an Chaplins Statue und dem Alimentarium. Die Tour führt Sie weiter zur Villa Le Lac, einem Meisterwerk von Le Corbusier. Beenden Sie den Tag entspannt am Ufer und lassen Sie die Eindrücke der Riviera auf sich wirken.",
+        "hu": "Pattanj biciklire, és kezdd a napot a Grande Place-on. Egy rövid, de meredek emelkedő elvisz a Saint-Martin templomhoz a fantasztikus kilátásért, mielőtt legurulsz a Jenisch Múzeumhoz. Délután kényelmesen tekerj a tóparton Chaplin szobra és az Alimentarium mellett. A túra tovább vezet a Villa Le Lac-hoz, Le Corbusier mesterművéhez. A napot a parton pihenve fejezd be, magadba szívva a Riviéra hangulatát.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua în Grande Place. O urcare scurtă, dar abruptă, vă duce la Biserica Saint-Martin pentru o priveliște fantastică, înainte de a coborî la Muzeul Jenisch. După-amiaza, pedalați pe îndelete de-a lungul malului lacului, trecând pe lângă statuia lui Chaplin și Alimentarium. Turul continuă spre Villa Le Lac, o capodoperă a lui Le Corbusier. Încheiați ziua relaxându-vă pe mal, absorbind atmosfera Rivierei.",
+        "en": "Hop on your bike and start the day at Grande Place. A short but steep climb takes you to St. Martin's Church for a fantastic view before rolling down to the Musée Jenisch. In the afternoon, leisurely cycle along the lakefront, passing Chaplin's statue and the Alimentarium. The tour continues to Villa Le Lac, a masterpiece by Le Corbusier. Finish the day relaxing on the shore, soaking in the atmosphere of the Riviera."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandwich von einem lokalen Bäcker",
+            "tip": "Perfekt für ein schnelles Mittagessen unterwegs."
+          },
+          {
+            "name": "Eis von einem Gelato-Stand",
+            "tip": "Eine erfrischende Belohnung nach einer Radtour."
+          },
+          {
+            "name": "Lokaler Weißwein (Chasselas)",
+            "tip": "Genießen Sie ein Glas mit Blick auf die Weinberge von Lavaux."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szendvics egy helyi pékségből",
+            "tip": "Tökéletes egy gyors ebédhez útközben."
+          },
+          {
+            "name": "Fagylalt egy fagyizóból",
+            "tip": "Frissítő jutalom egy biciklitúra után."
+          },
+          {
+            "name": "Helyi fehérbor (Chasselas)",
+            "tip": "Élvezz egy pohárral a Lavaux-i szőlőültetvényekre nézve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș de la o brutărie locală",
+            "tip": "Perfect pentru un prânz rapid pe drum."
+          },
+          {
+            "name": "Înghețată de la o gelaterie",
+            "tip": "O recompensă răcoritoare după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Vin alb local (Chasselas)",
+            "tip": "Savurați un pahar cu vedere la podgoriile din Lavaux."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandwich from a local bakery",
+            "tip": "Perfect for a quick lunch on the go."
+          },
+          {
+            "name": "Ice cream from a gelato stand",
+            "tip": "A refreshing reward after a bike ride."
+          },
+          {
+            "name": "Local white wine (Chasselas)",
+            "tip": "Enjoy a glass overlooking the Lavaux vineyards."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg Richtung Montreux",
+            "tip": "Eine flache, ruhige Strecke mit herrlicher Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer bei La Tour-de-Peilz",
+            "tip": "Weniger überlaufen als das Zentrum von Vevey.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Gärten der Altstadt",
+            "tip": "Entdecken Sie kleine, ruhige Oasen abseits der Hauptstraßen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bicikliút Montreux irányába",
+            "tip": "Sík, csendes szakasz csodás kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Part La Tour-de-Peilz-nél",
+            "tip": "Kevésbé zsúfolt, mint Vevey központja.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az óváros rejtett kertjei",
+            "tip": "Fedezz fel kicsi, csendes oázisokat a főutcáktól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete spre Montreux",
+            "tip": "Un traseu plat și liniștit cu priveliști superbe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul lacului la La Tour-de-Peilz",
+            "tip": "Mai puțin aglomerat decât centrul orașului Vevey.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile ascunse din orașul vechi",
+            "tip": "Descoperiți mici oaze de liniște departe de străzile principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path towards Montreux",
+            "tip": "A flat, quiet stretch with beautiful views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lakeshore at La Tour-de-Peilz",
+            "tip": "Less crowded than central Vevey.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden gardens in the Old Town",
+            "tip": "Discover small, quiet oases off the main streets.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft für Zubehör",
+            "tip": "Falls Sie etwas für Ihre Tour benötigen."
+          },
+          {
+            "name": "Lokale Weinkellerei",
+            "tip": "Kaufen Sie eine Flasche Chasselas als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt kiegészítőkért",
+            "tip": "Ha szükséged lenne valamire a túrához."
+          },
+          {
+            "name": "Helyi borászat",
+            "tip": "Vásárolj egy üveg Chasselas-t szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete pentru accesorii",
+            "tip": "În caz că aveți nevoie de ceva pentru turul dumneavoastră."
+          },
+          {
+            "name": "Cramă locală",
+            "tip": "Cumpărați o sticlă de Chasselas ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop for accessories",
+            "tip": "In case you need anything for your tour."
+          },
+          {
+            "name": "Local winery",
+            "tip": "Buy a bottle of Chasselas as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Bremsen vor dem steilen Abstieg von der Kirche St-Martin.",
+          "Achten Sie auf Fußgänger auf der Seepromenade.",
+          "Ein Fahrradschloss ist unerlässlich, wenn Sie Museen oder Restaurants besuchen.",
+          "Die Schweiz hat ausgezeichnete Radwege; folgen Sie den roten Schildern."
+        ],
+        "hu": [
+          "Ellenőrizd a fékeket a St-Martin templomtól levezető meredek úton.",
+          "Vigyázz a gyalogosokra a tóparti sétányon.",
+          "A kerékpárzár elengedhetetlen, ha múzeumokba vagy éttermekbe mész.",
+          "Svájcban kiváló kerékpárutak vannak; kövesd a piros táblákat."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârea abruptă de la Biserica St-Martin.",
+          "Fiți atenți la pietoni pe promenada de pe malul lacului.",
+          "O încuietoare pentru bicicletă este esențială atunci când vizitați muzee sau restaurante.",
+          "Elveția are piste de biciclete excelente; urmați semnele roșii."
+        ],
+        "en": [
+          "Check your brakes before the steep descent from St. Martin's Church.",
+          "Be mindful of pedestrians on the lake promenade.",
+          "A bike lock is essential when visiting museums or restaurants.",
+          "Switzerland has excellent cycling paths; follow the red signs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 17.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Grande Place",
+            "hu": "Grande Place Parkolóház",
+            "ro": "Parcare Grande Place",
+            "en": "Grande Place Car Park"
+          },
+          "coords": [
+            6.848,
+            46.462
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkolj le itt, és fedezd fel gyalog az első látnivaló-csoportot.",
+            "ro": "Parcați aici și explorați primul grup de atracții pe jos.",
+            "en": "Park here and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Place & Kameramuseum",
+            "hu": "Grande Place & Kameramúzeum",
+            "ro": "Grande Place & Muzeul Camerei",
+            "en": "Grande Place & Camera Museum"
+          },
+          "coords": [
+            6.8495,
+            46.4615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie im Herzen der Stadt und tauchen Sie in die Geschichte der Fotografie ein.",
+            "hu": "Kezdd a város szívében, és merülj el a fotózás történetében.",
+            "ro": "Începeți în inima orașului și scufundați-vă în istoria fotografiei.",
+            "en": "Start in the heart of the city and dive into the history of photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            6.851,
+            46.464
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Spaziergang bergauf für die Aussicht.",
+            "hu": "Rövid, de megérő séta felfelé a kilátásért.",
+            "ro": "O plimbare scurtă, dar plină de satisfacții, la deal pentru priveliște.",
+            "en": "A short but rewarding walk uphill for the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen & Seepromenade",
+            "hu": "Ebéd & Tóparti sétány",
+            "ro": "Prânz & Promenada lacului",
+            "en": "Lunch & Lake Promenade"
+          },
+          "coords": [
+            6.847,
+            46.46
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit und machen Sie dann Fotos mit der Chaplin-Statue.",
+            "hu": "Ebédelj, majd fotózkodj Chaplin szobrával.",
+            "ro": "Bucurați-vă de o masă, apoi faceți fotografii cu statuia lui Chaplin.",
+            "en": "Enjoy a meal, then take photos with the Chaplin statue."
+          }
+        },
+        {
+          "name": {
+            "de": "Alimentarium",
+            "hu": "Alimentarium",
+            "ro": "Alimentarium",
+            "en": "Alimentarium"
+          },
+          "coords": [
+            6.848,
+            46.459
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein interaktives Museum für die ganze Familie.",
+            "hu": "Interaktív múzeum az egész családnak.",
+            "ro": "Un muzeu interactiv pentru întreaga familie.",
+            "en": "An interactive museum for the whole family."
+          }
+        },
+        {
+          "name": {
+            "de": "Chaplin's World",
+            "hu": "Chaplin Világa",
+            "ro": "Lumea lui Chaplin",
+            "en": "Chaplin's World"
+          },
+          "coords": [
+            6.82,
+            46.475
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zu Chaplins ehemaligem Wohnsitz. Ein absolutes Muss!",
+            "hu": "Rövid autóút Chaplin egykori rezidenciájához. Ezt nem lehet kihagyni!",
+            "ro": "O scurtă călătorie cu mașina până la fosta reședință a lui Chaplin. O vizită obligatorie!",
+            "en": "A short drive to Chaplin's former estate. An absolute must-visit!"
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Park des Manoir de Ban",
+            "hu": "Séta a Manoir de Ban parkjában",
+            "ro": "Plimbare în parcul Manoir de Ban",
+            "en": "Walk in the Manoir de Ban Park"
+          },
+          "coords": [
+            6.821,
+            46.474
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "18:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe des Anwesens, bevor Sie zurückfahren.",
+            "hu": "Élvezze a birtok nyugalmát, mielőtt visszaindul.",
+            "ro": "Bucurați-vă de liniștea proprietății înainte de a vă întoarce.",
+            "en": "Enjoy the tranquility of the estate before you head back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie den ersten Cluster von Vevey zu Fuß: von der Grande Place über das Kameramuseum bis zur Kirche Saint-Martin. Nach einem Mittagessen am See und einem Besuch im Alimentarium kehren Sie zum Auto zurück. Der Nachmittag ist einem Highlight gewidmet: eine kurze Fahrt zu 'Chaplin's World' in Corsier-sur-Vevey. Tauchen Sie ein in das Leben des legendären Künstlers und genießen Sie den Park seines ehemaligen Anwesens, bevor Sie den Tag beenden.",
+        "hu": "Parkold le az autódat a központban, és fedezd fel gyalog Vevey első látnivaló-csoportját: a Grande Place-tól a Kameramúzeumon át a Saint-Martin templomig. Egy tóparti ebéd és az Alimentarium meglátogatása után térj vissza az autóhoz. A délutánt egy fénypontnak szenteljük: egy rövid autóútnak a Corsier-sur-Vevey-ben található 'Chaplin Világába'. Merülj el a legendás művész életében, és élvezd egykori birtokának parkját, mielőtt befejeznéd a napot.",
+        "ro": "Parcați mașina în centru și explorați pe jos primul grup de atracții din Vevey: de la Grande Place, la Muzeul Camerei și Biserica Saint-Martin. După prânz pe malul lacului și o vizită la Alimentarium, întoarceți-vă la mașină. După-amiaza este dedicată unui punct culminant: o scurtă călătorie cu mașina la 'Lumea lui Chaplin' din Corsier-sur-Vevey. Pătrundeți în viața legendarului artist și bucurați-vă de parcul fostei sale proprietăți înainte de a încheia ziua.",
+        "en": "Park your car in the center and explore Vevey's first cluster on foot: from Grande Place and the Camera Museum to St. Martin's Church. After lunch by the lake and a visit to the Alimentarium, return to your car. The afternoon is dedicated to a highlight: a short drive to 'Chaplin's World' in Corsier-sur-Vevey. Immerse yourself in the life of the legendary artist and enjoy the park of his former estate before ending the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Tramp Restaurant",
+            "tip": "Im Chaplin's World, für eine thematische Mahlzeit."
+          },
+          {
+            "name": "Auberge de l'Onde",
+            "tip": "Ein historisches Restaurant in St-Saphorin, eine kurze Autofahrt entfernt."
+          },
+          {
+            "name": "Picknick am See",
+            "tip": "Kaufen Sie lokale Produkte auf dem Markt und genießen Sie sie am Ufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Tramp Étterem",
+            "tip": "A Chaplin's World-ben, egy tematikus étkezéshez."
+          },
+          {
+            "name": "Auberge de l'Onde",
+            "tip": "Történelmi étterem St-Saphorinban, egy rövid autóútra."
+          },
+          {
+            "name": "Piknik a tónál",
+            "tip": "Vásárolj helyi termékeket a piacon, és fogyaszd el a parton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul The Tramp",
+            "tip": "La Chaplin's World, pentru o masă tematică."
+          },
+          {
+            "name": "Auberge de l'Onde",
+            "tip": "Un restaurant istoric în St-Saphorin, la o scurtă distanță cu mașina."
+          },
+          {
+            "name": "Picnic pe malul lacului",
+            "tip": "Cumpărați produse locale de la piață și savurați-le pe mal."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Tramp Restaurant",
+            "tip": "At Chaplin's World, for a themed meal."
+          },
+          {
+            "name": "Auberge de l'Onde",
+            "tip": "A historic restaurant in St-Saphorin, a short drive away."
+          },
+          {
+            "name": "Picnic by the lake",
+            "tip": "Buy local products from the market and enjoy them on the shore."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberge von Lavaux (UNESCO)",
+            "tip": "Eine kurze Autofahrt für atemberaubende Ausblicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park des Manoir de Ban",
+            "tip": "Große, ruhige Gärten rund um Chaplins Haus.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mont-Pèlerin",
+            "tip": "Fahren Sie für eine Vogelperspektive auf die Region.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lavaux szőlőültetvényei (UNESCO)",
+            "tip": "Rövid autóút a lélegzetelállító kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Manoir de Ban parkja",
+            "tip": "Nagy, csendes kertek Chaplin háza körül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mont-Pèlerin",
+            "tip": "Vezess fel a régió madártávlati képéért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podgoriile Lavaux (UNESCO)",
+            "tip": "O scurtă călătorie cu mașina pentru priveliști uluitoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Manoir de Ban",
+            "tip": "Grădini mari și liniștite în jurul casei lui Chaplin.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mont-Pèlerin",
+            "tip": "Conduceți pentru o vedere de ansamblu asupra regiunii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavaux Vineyard Terraces (UNESCO)",
+            "tip": "A short drive for breathtaking views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Manoir de Ban Park",
+            "tip": "Large, peaceful gardens surrounding Chaplin's home.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mont-Pèlerin",
+            "tip": "Drive up for a bird's-eye view of the region.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Chaplin's World Gift Shop",
+            "tip": "Einzigartige Souvenirs rund um den Tramp."
+          },
+          {
+            "name": "Weingüter in Lavaux",
+            "tip": "Kaufen Sie Wein direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chaplin's World ajándékbolt",
+            "tip": "Egyedi ajándéktárgyak a Csavargóval kapcsolatban."
+          },
+          {
+            "name": "Borászatok Lavaux-ban",
+            "tip": "Vásárolj bort közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri Chaplin's World",
+            "tip": "Suveniruri unice legate de Vagabond."
+          },
+          {
+            "name": "Crame din Lavaux",
+            "tip": "Cumpărați vin direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chaplin's World Gift Shop",
+            "tip": "Unique souvenirs related to the Tramp."
+          },
+          {
+            "name": "Wineries in Lavaux",
+            "tip": "Buy wine directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets für Chaplin's World online, um Warteschlangen zu vermeiden.",
+          "Parken in Vevey kann teuer sein; nutzen Sie die Park-and-Ride-Optionen, wenn möglich.",
+          "Die Straßen in Lavaux sind eng und kurvenreich; fahren Sie vorsichtig.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen, die in der Schweiz streng durchgesetzt werden."
+        ],
+        "hu": [
+          "Vásárolj jegyet a Chaplin's World-be online, hogy elkerüld a sorban állást.",
+          "A parkolás Vevey-ben drága lehet; ha lehet, használd a P+R lehetőségeket.",
+          "Az utak Lavaux-ban szűkek és kanyargósak; vezess óvatosan.",
+          "Tartsd be a sebességkorlátozásokat, amelyeket Svájcban szigorúan betartatnak."
+        ],
+        "ro": [
+          "Cumpărați bilete online pentru Chaplin's World pentru a evita cozile.",
+          "Parcarea în Vevey poate fi scumpă; utilizați opțiunile de park-and-ride dacă este posibil.",
+          "Drumurile din Lavaux sunt înguste și sinuoase; conduceți cu prudență.",
+          "Respectați limitele de viteză, care sunt aplicate cu strictețe în Elveția."
+        ],
+        "en": [
+          "Buy tickets for Chaplin's World online to avoid queues.",
+          "Parking in Vevey can be expensive; use park-and-ride options if available.",
+          "The roads in Lavaux are narrow and winding; drive carefully.",
+          "Pay attention to speed limits, which are strictly enforced in Switzerland."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 5.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Vevey",
+            "hu": "Érkezés a vevey-i vasútállomásra",
+            "ro": "Sosire la gara din Vevey",
+            "en": "Arrival at Vevey Train Station"
+          },
+          "coords": [
+            6.844,
+            46.463
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für die Mobilis-Zone für unbegrenzte Fahrten.",
+            "hu": "Vegyél napijegyet a Mobilis zónára a korlátlan utazáshoz.",
+            "ro": "Cumpărați un abonament de o zi pentru zona Mobilis pentru călătorii nelimitate.",
+            "en": "Buy a day pass for the Mobilis zone for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            6.851,
+            46.464
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit dem höchsten Punkt, um den Rest des Tages bergab zu gehen.",
+            "hu": "Kezdd a legmagasabb ponton, hogy a nap hátralévő részében lefelé sétálj.",
+            "ro": "Începeți cu cel mai înalt punct pentru a merge la vale restul zilei.",
+            "en": "Start with the highest point to walk downhill for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Jenisch",
+            "hu": "Jenisch Múzeum",
+            "ro": "Muzeul Jenisch",
+            "en": "Jenisch Museum"
+          },
+          "coords": [
+            6.853,
+            46.463
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine beeindruckende Sammlung von Drucken und Zeichnungen.",
+            "hu": "Lenyűgöző nyomat- és rajzgyűjtemény.",
+            "ro": "O colecție impresionantă de stampe și desene.",
+            "en": "An impressive collection of prints and drawings."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Place & Kameramuseum",
+            "hu": "Grande Place & Kameramúzeum",
+            "ro": "Grande Place & Muzeul Camerei",
+            "en": "Grande Place & Camera Museum"
+          },
+          "coords": [
+            6.8495,
+            46.4615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Marktplatz, bevor Sie das Museum besuchen.",
+            "hu": "Fedezd fel a piacteret, mielőtt meglátogatnád a múzeumot.",
+            "ro": "Explorați piața înainte de a vizita muzeul.",
+            "en": "Explore the market square before visiting the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            6.85,
+            46.462
+          ],
+          "category": "gastro",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zahlreiche Optionen rund um die Grande Place.",
+            "hu": "Számos lehetőség a Grande Place környékén.",
+            "ro": "Numeroase opțiuni în jurul Grande Place.",
+            "en": "Numerous options around the Grande Place."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Alimentarium",
+            "hu": "Buszozás az Alimentariumhoz",
+            "ro": "Călătorie cu autobuzul la Alimentarium",
+            "en": "Bus ride to Alimentarium"
+          },
+          "coords": [
+            6.848,
+            46.459
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus der Linie 201, um zum zweiten Cluster am See zu gelangen.",
+            "hu": "A 201-es busszal juss el a második, tóparti látnivaló-csoporthoz.",
+            "ro": "Luați un autobuz din linia 201 pentru a ajunge la al doilea grup de atracții de lângă lac.",
+            "en": "Take a line 201 bus to get to the second cluster by the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Charlie Chaplin",
+            "hu": "Charlie Chaplin szobra",
+            "ro": "Statuia lui Charlie Chaplin",
+            "en": "Charlie Chaplin Statue"
+          },
+          "coords": [
+            6.847,
+            46.46
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Alimentarium entfernt.",
+            "hu": "Csak egy rövid séta az Alimentariumtól.",
+            "ro": "La doar o scurtă plimbare de Alimentarium.",
+            "en": "Just a short walk from the Alimentarium."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Quai Perdonnet",
+            "hu": "Séta a Quai Perdonnet-n",
+            "ro": "Plimbare pe Cheiul Perdonnet",
+            "en": "Stroll on Quai Perdonnet"
+          },
+          "coords": [
+            6.852,
+            46.46
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:30",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang, bevor Sie einen Bus zurück zum Bahnhof nehmen.",
+            "hu": "Élvezd a naplementét, mielőtt visszabuszoznál az állomásra.",
+            "ro": "Bucurați-vă de apus înainte de a lua un autobuz înapoi la gară.",
+            "en": "Enjoy the sunset before taking a bus back to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach Ihrer Ankunft am Bahnhof Vevey erklimmen Sie zu Fuß den Hügel zur Kirche Saint-Martin. Von dort aus führt Sie Ihr Weg bergab durch die kulturellen Schätze der Altstadt, einschließlich des Musée Jenisch und des Kameramuseums. Nach dem Mittagessen nehmen Sie einen Bus zum zweiten Cluster am Seeufer. Entdecken Sie das Alimentarium und grüßen Sie Charlie Chaplin, bevor Sie den Tag mit einem entspannten Spaziergang entlang des Quai Perdonnet ausklingen lassen.",
+        "hu": "Miután megérkeztél a vevey-i vasútállomásra, sétálj fel a hegyre a Saint-Martin templomhoz. Onnan utad lefelé vezet az óváros kulturális kincsei között, beleértve a Jenisch Múzeumot és a Kameramúzeumot. Ebéd után busszal utazz a második, tóparti látnivaló-csoporthoz. Fedezd fel az Alimentariumot, és üdvözöld Charlie Chaplint, mielőtt a napot egy pihentető sétával zárod a Quai Perdonnet mentén.",
+        "ro": "După sosirea la gara din Vevey, urcați pe jos dealul până la Biserica Saint-Martin. De acolo, drumul vă duce la vale printre comorile culturale ale orașului vechi, inclusiv Muzeul Jenisch și Muzeul Camerei. După prânz, luați un autobuz către al doilea grup de atracții de pe malul lacului. Descoperiți Alimentarium și salutați-l pe Charlie Chaplin înainte de a încheia ziua cu o plimbare relaxantă de-a lungul Cheiului Perdonnet.",
+        "en": "After arriving at Vevey train station, walk up the hill to St. Martin's Church. From there, your path leads downhill through the cultural treasures of the old town, including the Musée Jenisch and the Camera Museum. After lunch, take a bus to the second cluster on the lakefront. Discover the Alimentarium and greet Charlie Chaplin before ending the day with a relaxing stroll along the Quai Perdonnet."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei in der Nähe des Bahnhofs",
+            "tip": "Holen Sie sich einen Kaffee und ein Gebäck für den Start in den Tag."
+          },
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "Ein klassischer Ort für ein Mittagessen, bevor Sie den Bus nehmen."
+          },
+          {
+            "name": "Terrasse am See",
+            "tip": "Genießen Sie einen Apéro, während Sie auf den Bus zurück warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség az állomás közelében",
+            "tip": "Kezdd a napot egy kávéval és egy péksüteménnyel."
+          },
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "Klasszikus hely egy ebédre, mielőtt buszra szállnál."
+          },
+          {
+            "name": "Terasz a tónál",
+            "tip": "Igyál meg egy aperitifet, miközben a visszaútra tartó buszra vársz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie lângă gară",
+            "tip": "Luați o cafea și un produs de patiserie pentru a începe ziua."
+          },
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "Un loc clasic pentru prânz înainte de a lua autobuzul."
+          },
+          {
+            "name": "Terasă pe malul lacului",
+            "tip": "Savurați un aperitiv în timp ce așteptați autobuzul de întoarcere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery near the station",
+            "tip": "Grab a coffee and a pastry to start your day."
+          },
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "A classic spot for lunch before you take the bus."
+          },
+          {
+            "name": "Lakeside terrace",
+            "tip": "Enjoy an apéro while waiting for the bus back."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof von Saint-Martin",
+            "tip": "Ein überraschend friedlicher Ort mit historischer Atmosphäre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Busfahrt entlang des Sees",
+            "tip": "Setzen Sie sich ans Fenster und genießen Sie die vorbeiziehende Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Uferbänke in Richtung Clarens",
+            "tip": "Ein kurzer Spaziergang für einen ruhigen Moment am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint-Martin temetője",
+            "tip": "Meglepően békés hely történelmi hangulattal.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Buszozás a tó mentén",
+            "tip": "Ülj az ablakhoz, és élvezd az elsuhanó tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parti padok Clarens irányában",
+            "tip": "Rövid séta egy csendes pillanatért a vízparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Saint-Martin",
+            "tip": "Un loc surprinzător de liniștit, cu o atmosferă istorică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Călătoria cu autobuzul pe malul lacului",
+            "tip": "Așezați-vă la geam și bucurați-vă de peisajul care trece.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci pe mal în direcția Clarens",
+            "tip": "O scurtă plimbare pentru un moment de liniște la malul apei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Martin Cemetery",
+            "tip": "A surprisingly peaceful place with a historic atmosphere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bus ride along the lake",
+            "tip": "Sit by the window and enjoy the passing scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches towards Clarens",
+            "tip": "A short walk for a quiet moment by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Altstadt",
+            "tip": "Bummeln Sie durch die Boutiquen, bevor Sie den Bus nehmen."
+          },
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Für Last-Minute-Souvenirs oder einen Snack für die Heimfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok az óvárosban",
+            "tip": "Nézelődj a butikokban, mielőtt buszra szállnál."
+          },
+          {
+            "name": "Kioszk az állomáson",
+            "tip": "Utolsó pillanatos ajándékokért vagy egy harapnivalóért a hazaútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în orașul vechi",
+            "tip": "Plimbați-vă prin buticuri înainte de a lua autobuzul."
+          },
+          {
+            "name": "Chioșc la gară",
+            "tip": "Pentru suveniruri de ultim moment sau o gustare pentru drumul spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops in the Old Town",
+            "tip": "Browse the boutiques before you take the bus."
+          },
+          {
+            "name": "Kiosk at the station",
+            "tip": "For last-minute souvenirs or a snack for the ride home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die SBB-App herunter, um Busfahrpläne in Echtzeit zu sehen.",
+          "Eine Tageskarte ist oft günstiger als mehrere Einzelfahrscheine.",
+          "Die Busse können zur Stoßzeit voll sein, planen Sie etwas Pufferzeit ein.",
+          "Behalten Sie Ihre Haltestelle im Auge; nicht alle werden automatisch angesagt."
+        ],
+        "hu": [
+          "Töltsd le az SBB alkalmazást a valós idejű buszmenetrendekért.",
+          "A napijegy gyakran olcsóbb, mint több egyedi jegy.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, tervezz némi pufferidővel.",
+          "Figyeld a megállódat; nem mindegyiket mondják be automatikusan."
+        ],
+        "ro": [
+          "Descărcați aplicația SBB pentru a vedea orarele autobuzelor în timp real.",
+          "Un abonament de o zi este adesea mai ieftin decât mai multe bilete individuale.",
+          "Autobuzele pot fi aglomerate la orele de vârf, așa că lăsați-vă timp suplimentar.",
+          "Fiți atenți la stația dvs.; nu toate sunt anunțate automat."
+        ],
+        "en": [
+          "Download the SBB app to see real-time bus schedules.",
+          "A day pass is often cheaper than multiple single tickets.",
+          "Buses can be crowded during peak hours, so allow for some buffer time.",
+          "Keep an eye on your stop; not all are announced automatically."
+        ]
+      }
+    }
+  }
+}

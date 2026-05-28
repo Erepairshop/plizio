@@ -1,0 +1,1335 @@
+{
+  "city_id": "denmark-slagelse-cities-v2",
+  "anchor": {
+    "name": "Slagelse",
+    "coords": [
+      11.355,
+      55.402
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schweizerpladsen",
+            "hu": "Schweizerpladsen",
+            "ro": "Schweizerpladsen",
+            "en": "Schweizerpladsen"
+          },
+          "coords": [
+            11.356,
+            55.4025
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Treiben der Stadt.",
+            "hu": "Indítsa a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, privind forfota orașului.",
+            "en": "Start your day here with a coffee, watching the city's hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Mikkels Kirke",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sfântul Mihail",
+            "en": "St. Michael's Church"
+          },
+          "coords": [
+            11.3575,
+            55.4035
+          ],
+          "category": "churches",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden gotischen Details und die ruhige Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző gótikus részleteket és a templom nyugodt légkörét.",
+            "ro": "Observați detaliile gotice impresionante și atmosfera liniștită din interior.",
+            "en": "Look for the impressive Gothic details and the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Slagelse Museum",
+            "hu": "Slagelse Múzeum",
+            "ro": "Muzeul Slagelse",
+            "en": "Slagelse Museum"
+          },
+          "coords": [
+            11.359,
+            55.404
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen über das mittelalterliche Handwerk der Stadt.",
+            "hu": "Koncentráljon a város középkori kézművességét bemutató kiállításokra.",
+            "ro": "Concentrați-vă pe expozițiile despre meșteșugurile medievale ale orașului.",
+            "en": "Focus on the exhibitions about the city's medieval trade and crafts."
+          }
+        },
+        {
+          "name": {
+            "de": "Antvorskov Klosterruin",
+            "hu": "Antvorskov kolostorrom",
+            "ro": "Ruinele Mănăstirii Antvorskov",
+            "en": "Antvorskov Monastery Ruin"
+          },
+          "coords": [
+            11.378,
+            55.391
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stellen Sie sich vor, wie das Leben der Johanniter an diesem historischen Ort war.",
+            "hu": "Képzelje el, milyen lehetett a johannita lovagok élete ezen a történelmi helyen.",
+            "ro": "Imaginați-vă cum era viața cavalerilor ioaniți în acest loc istoric.",
+            "en": "Imagine what life was like for the Knights of St. John at this historic site."
+          }
+        },
+        {
+          "name": {
+            "de": "Panums Park",
+            "hu": "Panums Park",
+            "ro": "Parcul Panums",
+            "en": "Panums Park"
+          },
+          "coords": [
+            11.375,
+            55.401
+          ],
+          "category": "parks",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Pause am Nachmittag. Bringen Sie ein Buch oder genießen Sie einfach die Natur.",
+            "hu": "Tökéletes hely egy délutáni szünetre. Hozzon egy könyvet, vagy csak élvezze a természetet.",
+            "ro": "Un loc perfect pentru o pauză de după-amiază. Aduceți o carte sau pur și simplu bucurați-vă de natură.",
+            "en": "A perfect spot for an afternoon break. Bring a book or just enjoy the nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Zentrum",
+            "hu": "Vacsora a központban",
+            "ro": "Cină în centru",
+            "en": "Dinner in the Center"
+          },
+          "coords": [
+            11.3565,
+            55.4028
+          ],
+          "category": "gastro",
+          "arrive_at": "16:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant in der Nähe des Platzes, um den Tag ausklingen zu lassen.",
+            "hu": "Válasszon egy éttermet a tér közelében, hogy lezárja a napot.",
+            "ro": "Alegeți un restaurant lângă piață pentru a încheia ziua.",
+            "en": "Choose a restaurant near the square to wind down your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am belebten Schweizerpladsen, dem Herzen von Slagelse. Nach einem Besuch der gotischen Sankt Mikkels Kirke tauchen Sie im Slagelse Museum in die lokale Geschichte ein. Am Nachmittag führt Sie ein Spaziergang zur stillen Antvorskov Klosterruin, gefolgt von einer entspannenden Pause im grünen Panums Park. Der Abend klingt mit einem gemütlichen Abendessen im Stadtzentrum aus und rundet einen Tag voller Entdeckungen ab.",
+        "hu": "A nap a nyüzsgő Schweizerpladsenen, Slagelse szívében kezdődik. A gótikus Szent Mihály-templom megtekintése után a Slagelse Múzeumban merül el a helyi történelemben. Délután egy séta vezet a csendes Antvorskov kolostorromhoz, majd egy pihentető szünet következik a zöld Panums Parkban. Az este egy kellemes vacsorával zárul a városközpontban, befejezve a felfedezésekkel teli napot.",
+        "ro": "Ziua dvs. începe în animata Schweizerpladsen, inima orașului Slagelse. După o vizită la gotica Biserică Sfântul Mihail, vă veți cufunda în istoria locală la Muzeul Slagelse. După-amiaza, o plimbare vă duce la liniștitele ruine ale Mănăstirii Antvorskov, urmată de o pauză relaxantă în verdele Parc Panums. Seara se încheie cu o cină plăcută în centrul orașului, completând o zi plină de descoperiri.",
+        "en": "Your day begins in the bustling Schweizerpladsen, the heart of Slagelse. After visiting the Gothic St. Michael's Church, you'll delve into local history at the Slagelse Museum. In the afternoon, a walk takes you to the serene Antvorskov Monastery Ruin, followed by a relaxing break in the green Panums Park. The evening concludes with a pleasant dinner in the city center, rounding off a day of discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Probieren Sie das klassische dänische offene Sandwich in einem der Cafés im Zentrum."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Genießen Sie diese traditionellen dänischen Fleischbällchen mit Kartoffelsalat."
+          },
+          {
+            "name": "Restaurant Smedegaarden",
+            "tip": "Ein bekanntes Restaurant, das für seine dänische Küche in gemütlicher Atmosphäre bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Kóstolja meg a klasszikus dán szendvicset az egyik belvárosi kávézóban."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Élvezze ezeket a hagyományos dán húsgombócokat burgonyasalátával."
+          },
+          {
+            "name": "Restaurant Smedegaarden",
+            "tip": "Egy jól ismert étterem, amely a dán konyhájáról és hangulatos légköréről híres."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Încercați sandvișul deschis danez clasic la una dintre cafenelele din centru."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Savurați aceste chiftele tradiționale daneze cu salată de cartofi."
+          },
+          {
+            "name": "Restaurant Smedegaarden",
+            "tip": "Un restaurant renumit pentru bucătăria sa daneză într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Try the classic Danish open-faced sandwich at one of the central cafes."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Enjoy these traditional Danish meatballs, often served with potato salad."
+          },
+          {
+            "name": "Restaurant Smedegaarden",
+            "tip": "A well-regarded restaurant known for its Danish cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panums Park",
+            "tip": "Finden Sie eine ruhige Bank und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Antvorskov Klosterruin",
+            "tip": "Ein Ort der Stille und Reflexion, besonders am späten Nachmittag.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Slagelse Lystskov",
+            "tip": "Ein Waldgebiet etwas außerhalb, ideal für einen längeren, ruhigen Spaziergang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panums Park",
+            "tip": "Keressen egy csendes padot, és hallgassa a természet hangjait.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Antvorskov kolostorrom",
+            "tip": "A csend és az elmélyülés helye, különösen késő délután.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Slagelse Lystskov-nál",
+            "tip": "Egy erdős terület a városon kívül, ideális egy hosszabb, csendes sétához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Panums",
+            "tip": "Găsiți o bancă liniștită și ascultați sunetele naturii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ruinele Mănăstirii Antvorskov",
+            "tip": "Un loc de liniște și reflecție, mai ales după-amiaza târziu.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare la Slagelse Lystskov",
+            "tip": "O zonă împădurită chiar în afara orașului, ideală pentru o plimbare mai lungă și liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Panums Park",
+            "tip": "Find a quiet bench and listen to the sounds of nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Antvorskov Monastery Ruin",
+            "tip": "A place for quiet contemplation, especially in the late afternoon.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk at Slagelse Lystskov",
+            "tip": "A forested area just outside the town, perfect for a longer, peaceful walk.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "VestsjællandsCentret",
+            "tip": "Ein Einkaufszentrum mit einer Vielzahl von dänischen und internationalen Marken."
+          },
+          {
+            "name": "Lokale Kunsthandwerker",
+            "tip": "Halten Sie Ausschau nach kleinen Galerien, die Keramik und Kunst von lokalen Künstlern verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "VestsjællandsCentret",
+            "tip": "Bevásárlóközpont dán és nemzetközi márkák széles választékával."
+          },
+          {
+            "name": "Helyi kézművesek",
+            "tip": "Keresse a kis galériákat, amelyek helyi művészek kerámiáit és műalkotásait árulják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "VestsjællandsCentret",
+            "tip": "Un centru comercial cu o varietate de mărci daneze și internaționale."
+          },
+          {
+            "name": "Artizani locali",
+            "tip": "Căutați mici galerii care vând ceramică și artă de la artiști locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "VestsjællandsCentret",
+            "tip": "A shopping center with a variety of Danish and international brands."
+          },
+          {
+            "name": "Local artisan shops",
+            "tip": "Look for small galleries selling ceramics and art from local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Einige Kirchen sind möglicherweise mittags für Besucher geschlossen.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "Néhány templom délben zárva lehet a látogatók előtt.",
+          "Hozzon magával újratölthető vizes palackot."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi în picioare toată ziua.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "Unele biserici pot fi închise pentru vizitatori la prânz.",
+          "Luați cu dvs. o sticlă de apă reutilizabilă pentru a vă hidrata."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "Check the museum's opening hours in advance.",
+          "Some churches may be closed to visitors during lunchtime.",
+          "Bring a reusable water bottle to stay hydrated."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Schweizerpladsen",
+            "hu": "Kerékpárkölcsönző & Schweizerpladsen",
+            "ro": "Închiriere biciclete & Schweizerpladsen",
+            "en": "Bike Rental & Schweizerpladsen"
+          },
+          "coords": [
+            11.356,
+            55.4025
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad für den Tag und genießen Sie einen Kaffee, bevor Sie starten.",
+            "hu": "Béreljen kerékpárt a napra, és igyon egy kávét indulás előtt.",
+            "ro": "Închiriați bicicleta pentru o zi și savurați o cafea înainte de a porni.",
+            "en": "Rent your bike for the day and enjoy a coffee before you start."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Mikkels Kirke",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sfântul Mihail",
+            "en": "St. Michael's Church"
+          },
+          "coords": [
+            11.3575,
+            55.4035
+          ],
+          "category": "churches",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die beeindruckende Kirche betreten.",
+            "hu": "Biztonságosan zárja le a kerékpárt, mielőtt belép a lenyűgöző templomba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în biserica impresionantă.",
+            "en": "Lock your bike securely before entering the impressive church."
+          }
+        },
+        {
+          "name": {
+            "de": "Gerlev Legepark",
+            "hu": "Gerlev Játszópark",
+            "ro": "Parcul de joacă Gerlev",
+            "en": "Gerlev Legepark"
+          },
+          "coords": [
+            11.27,
+            55.39
+          ],
+          "category": "parks",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um alte Spiele auszuprobieren. Spaß für alle Altersgruppen!",
+            "hu": "Nagyszerű hely a régi játékok kipróbálására. Szórakozás minden korosztálynak!",
+            "ro": "Un loc minunat pentru a încerca jocuri vechi. Distracție pentru toate vârstele!",
+            "en": "A great place to try out old-fashioned games. Fun for all ages!"
+          }
+        },
+        {
+          "name": {
+            "de": "Antvorskov Klosterruin",
+            "hu": "Antvorskov kolostorrom",
+            "ro": "Ruinele Mănăstirii Antvorskov",
+            "en": "Antvorskov Monastery Ruin"
+          },
+          "coords": [
+            11.378,
+            55.391
+          ],
+          "category": "historical",
+          "arrive_at": "12:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Radtour zu diesen historischen Ruinen.",
+            "hu": "Élvezze a békés kerékpártúrát ezekhez a történelmi romokhoz.",
+            "ro": "Bucurați-vă de plimbarea liniștită cu bicicleta până la aceste ruine istorice.",
+            "en": "Enjoy the peaceful bike ride out to these historic ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Slagelse Museum",
+            "hu": "Slagelse Múzeum",
+            "ro": "Muzeul Slagelse",
+            "en": "Slagelse Museum"
+          },
+          "coords": [
+            11.359,
+            55.404
+          ],
+          "category": "museums",
+          "arrive_at": "14:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Eingang ab und tauchen Sie in die Geschichte ein.",
+            "hu": "Parkolja le a kerékpárt a bejáratnál, és merüljön el a történelemben.",
+            "ro": "Parcați bicicleta la intrare și cufundați-vă în istorie.",
+            "en": "Park your bike at the entrance and dive into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen",
+            "hu": "Vacsora",
+            "ro": "Cină",
+            "en": "Dinner"
+          },
+          "coords": [
+            11.357,
+            55.403
+          ],
+          "category": "gastro",
+          "arrive_at": "16:11",
+          "stay_min": 84,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Belohnen Sie sich nach einem aktiven Tag mit einem herzhaften dänischen Essen.",
+            "hu": "Jutalmazza meg magát egy kiadós dán vacsorával egy aktív nap után.",
+            "ro": "Recompensați-vă cu o masă daneză copioasă după o zi activă.",
+            "en": "Reward yourself with a hearty Danish meal after an active day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt am Schweizerpladsen. Nach einem kurzen Halt bei der Sankt Mikkels Kirke radeln Sie zum verspielten Gerlev Legepark. Am Nachmittag führt Sie eine längere Tour zur historischen Antvorskov Klosterruin. Zurück in der Stadt erkunden Sie das Slagelse Museum, bevor Sie den Tag mit einem wohlverdienten Abendessen ausklingen lassen.",
+        "hu": "A kerékpáros nap a Schweizerpladsennél kezdődik. A Szent Mihály-templomnál tett rövid megálló után a játékos Gerlev Legeparkba teker. Délután egy hosszabb túra vezet a történelmi Antvorskov kolostorromhoz. Visszatérve a városba, felfedezi a Slagelse Múzeumot, mielőtt egy jól megérdemelt vacsorával zárja a napot.",
+        "ro": "Ziua pe bicicletă începe la Schweizerpladsen. După o scurtă oprire la Biserica Sf. Mihail, pedalați spre parcul jucăuș Gerlev Legepark. După-amiaza, un tur mai lung vă duce la ruinele istorice ale Mănăstirii Antvorskov. Înapoi în oraș, explorați Muzeul Slagelse înainte de a încheia ziua cu o cină binemeritată.",
+        "en": "Your cycling day starts at Schweizerpladsen. After a quick stop at St. Michael's Church, you'll pedal to the playful Gerlev Legepark. In the afternoon, a longer ride takes you to the historic Antvorskov Monastery Ruin. Back in town, you'll explore the Slagelse Museum before ending the day with a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Ein leichtes und nahrhaftes Mittagessen für einen Radfahrer."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Gönnen Sie sich ein dänisches Gebäck als Energielieferant am Nachmittag."
+          },
+          {
+            "name": "Ferdinands",
+            "tip": "Bietet eine moderne Speisekarte, perfekt zur Stärkung nach einem Tag im Sattel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Könnyű és tápláló ebéd egy kerékpáros számára."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Kényeztesse magát egy dán péksüteménnyel délutáni energiafeltöltésként."
+          },
+          {
+            "name": "Ferdinands",
+            "tip": "Modern étlapot kínál, tökéletes feltöltődés egy nyeregben töltött nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Un prânz ușor și hrănitor pentru un ciclist."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Răsfățați-vă cu un produs de patiserie danez pentru un plus de energie după-amiaza."
+          },
+          {
+            "name": "Ferdinands",
+            "tip": "Oferă un meniu modern, perfect pentru a vă reface forțele după o zi în șa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "A light and nutritious lunch for a cyclist."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Treat yourself to a Danish pastry for an afternoon energy boost."
+          },
+          {
+            "name": "Ferdinands",
+            "tip": "Offers a modern menu, perfect for refueling after a day in the saddle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Wege um Antvorskov",
+            "tip": "Die Landschaft auf dem Weg zur Ruine ist sehr friedlich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Slagelse Lystskov",
+            "tip": "Machen Sie einen kleinen Umweg für eine ruhige Fahrt durch den Wald.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Antvorskov körüli utak",
+            "tip": "A romokhoz vezető út környéke nagyon békés."
+          },
+          {
+            "name": "Slagelse Lystskov",
+            "tip": "Tegyen egy kis kitérőt egy csendes erdei tekerésért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Traseele din jurul Antvorskov",
+            "tip": "Peisajul în drum spre ruine este foarte pașnic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Slagelse Lystskov",
+            "tip": "Faceți un mic ocol pentru o plimbare liniștită prin pădure.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "The paths around Antvorskov",
+            "tip": "The scenery on the way to the ruin is very peaceful.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Slagelse Lystskov",
+            "tip": "Take a short detour for a quiet ride through the forest.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Lokale Geschäfte könnten einzigartige dänische Fahrradaccessoires haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A helyi boltokban egyedi dán kerékpár-kiegészítőket találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Magazinele locale ar putea avea accesorii unice pentru biciclete daneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Local shops might have unique Danish cycling accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck und die Bremsen, bevor Sie losfahren.",
+          "Dänemark ist fahrradfreundlich, aber achten Sie immer auf den Verkehr.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen zu sichern.",
+          "Planen Sie Ihre Route im Voraus, aber seien Sie offen für spontane Umwege."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "Dánia kerékpárbarát, de mindig figyeljen a forgalomra.",
+          "Hozzon magával lakatot a kerékpár lezárásához a megállóknál.",
+          "Tervezze meg előre az útvonalat, de legyen nyitott a spontán kitérőkre."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope și frânele înainte de a porni.",
+          "Danemarca este prietenoasă cu bicicletele, dar fiți mereu atenți la trafic.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Planificați-vă ruta în avans, dar fiți deschis la ocoluri spontane."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before setting off.",
+          "Denmark is bike-friendly, but always be aware of traffic.",
+          "Bring a lock to secure your bike at stops.",
+          "Plan your route in advance, but be open to spontaneous detours."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 39.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Trelleborg",
+            "hu": "Trelleborg",
+            "ro": "Trelleborg",
+            "en": "Trelleborg"
+          },
+          "coords": [
+            11.263,
+            55.39
+          ],
+          "category": "historical",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die Wikingergeschichte lebendig werden zu lassen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy életre keltse a viking történelmet.",
+            "ro": "Participați la un tur ghidat pentru a da viață istoriei vikingilor.",
+            "en": "Join a guided tour to bring the Viking history to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Borreby Slot",
+            "hu": "Borreby kastély",
+            "ro": "Castelul Borreby",
+            "en": "Borreby Castle"
+          },
+          "coords": [
+            11.16,
+            55.253
+          ],
+          "category": "castles",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 18,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob Führungen durch das Innere des Renaissanceschlosses angeboten werden.",
+            "hu": "Ellenőrizze, hogy kínálnak-e vezetett túrákat a reneszánsz kastély belsejében.",
+            "ro": "Verificați dacă sunt disponibile tururi ale interiorului acestui castel renascentist.",
+            "en": "Check if tours of the interior of the Renaissance castle are available."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Skælskør",
+            "hu": "Ebéd Skælskørben",
+            "ro": "Prânz în Skælskør",
+            "en": "Lunch in Skælskør"
+          },
+          "coords": [
+            11.29,
+            55.25
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie ein gemütliches Restaurant in der Nähe des Hafens für eine Mahlzeit mit Aussicht.",
+            "hu": "Keressen egy hangulatos éttermet a kikötő közelében egy kilátással egybekötött étkezéshez.",
+            "ro": "Găsiți un restaurant primitor lângă port pentru o masă cu priveliște.",
+            "en": "Find a cozy restaurant near the harbor for a meal with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken im Zentrum von Slagelse",
+            "hu": "Parkolás Slagelse központjában",
+            "ro": "Parcare în centrul orașului Slagelse",
+            "en": "Park in Slagelse Center"
+          },
+          "coords": [
+            11.354,
+            55.401
+          ],
+          "category": "transport",
+          "arrive_at": "15:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie sich einen Langzeitparkplatz, um den Rest des Nachmittags zu Fuß zu erkunden.",
+            "hu": "Keressen egy hosszú távú parkolót, hogy a délután hátralévő részét gyalog fedezze fel.",
+            "ro": "Găsiți o parcare pe termen lung pentru a explora pe jos restul după-amiezii.",
+            "en": "Find a long-term parking spot to explore the rest of the afternoon on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schweizerpladsen",
+            "hu": "Schweizerpladsen",
+            "ro": "Schweizerpladsen",
+            "en": "Schweizerpladsen"
+          },
+          "coords": [
+            11.356,
+            55.4025
+          ],
+          "category": "squares",
+          "arrive_at": "15:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen Nachmittagskaffee nach der Fahrt.",
+            "hu": "Tökéletes hely egy délutáni kávéra a vezetés után.",
+            "ro": "Locul perfect pentru o cafea de după-amiază după condus.",
+            "en": "The perfect spot for an afternoon coffee after your drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Mikkels Kirke",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sfântul Mihail",
+            "en": "St. Michael's Church"
+          },
+          "coords": [
+            11.3575,
+            55.4035
+          ],
+          "category": "churches",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz führt Sie zu diesem gotischen Juwel.",
+            "hu": "Egy rövid séta a térről elvezeti ehhez a gótikus gyöngyszemhez.",
+            "ro": "O scurtă plimbare din piață vă duce la această bijuterie gotică.",
+            "en": "A short walk from the square takes you to this Gothic gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Slagelse Museum",
+            "hu": "Slagelse Múzeum",
+            "ro": "Muzeul Slagelse",
+            "en": "Slagelse Museum"
+          },
+          "coords": [
+            11.359,
+            55.404
+          ],
+          "category": "museums",
+          "arrive_at": "16:30",
+          "stay_min": 85,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Erkundungstour mit einem tiefen Einblick in die lokale Geschichte.",
+            "hu": "Zárja a felfedezést a helyi történelem mélyebb megismerésével.",
+            "ro": "Încheiați explorarea cu o incursiune profundă în istoria locală.",
+            "en": "End your exploration with a deep dive into local history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einer Reise in die Wikingerzeit bei Trelleborg. Danach fahren Sie zum prächtigen Renaissanceschloss Borreby Slot. Nach einem Mittagessen im nahegelegenen Skælskør kehren Sie nach Slagelse zurück. Parken Sie Ihr Auto und erkunden Sie das Stadtzentrum zu Fuß: den Schweizerpladsen, die Sankt Mikkels Kirke und das Slagelse Museum, was einen perfekten Ausklang für einen historisch reichen Tag darstellt.",
+        "hu": "Az autós nap a viking korba tett utazással kezdődik Trelleborgban. Ezután a csodálatos reneszánsz Borreby kastélyhoz hajt. A közeli Skælskørben elfogyasztott ebéd után visszatér Slagelse-be. Parkolja le az autót, és fedezze fel gyalog a városközpontot: a Schweizerpladsent, a Szent Mihály-templomot és a Slagelse Múzeumot, ami tökéletes lezárása egy történelmileg gazdag napnak.",
+        "ro": "Ziua cu mașina începe cu o călătorie înapoi în epoca vikingilor la Trelleborg. Apoi, conduceți spre magnificul castel renascentist Borreby. După prânz în apropiatul Skælskør, vă întoarceți în Slagelse. Parcați mașina și explorați centrul orașului pe jos: Schweizerpladsen, Biserica Sf. Mihail și Muzeul Slagelse, încheind perfect o zi bogată în istorie.",
+        "en": "Your car trip starts with a journey to the Viking age at Trelleborg. Next, you drive to the magnificent Renaissance Borreby Castle. After lunch in nearby Skælskør, you return to Slagelse. Park your car and explore the city center on foot: Schweizerpladsen, St. Michael's Church, and the Slagelse Museum, providing a perfect end to a historically rich day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Skipperkroen (Skælskør)",
+            "tip": "Ein Restaurant am Hafen, das für seinen frischen Fisch bekannt ist."
+          },
+          {
+            "name": "Dänisches Gebäck",
+            "tip": "Halten Sie in einer Bäckerei für einen schnellen Snack zwischen den Fahrten an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Skipperkroen (Skælskør)",
+            "tip": "Kikötői étterem, amely a friss halairól ismert."
+          },
+          {
+            "name": "Dán péksütemény",
+            "tip": "Álljon meg egy pékségben egy gyors harapnivalóra a vezetések között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Skipperkroen (Skælskør)",
+            "tip": "Un restaurant portuar renumit pentru peștele proaspăt."
+          },
+          {
+            "name": "Patiserie daneză",
+            "tip": "Opriți-vă la o patiserie pentru o gustare rapidă între drumuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Skipperkroen (Skælskør)",
+            "tip": "A harbor-side restaurant known for its fresh fish."
+          },
+          {
+            "name": "Danish Pastry",
+            "tip": "Stop at a bakery for a quick snack between drives."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Umgebung von Borreby Slot",
+            "tip": "Machen Sie einen Spaziergang durch die Gärten und die ruhige Landschaft rund um das Schloss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Küste bei Skælskør",
+            "tip": "Genießen Sie die ruhige Aussicht auf das Wasser nach dem Mittagessen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Borreby kastély környéke",
+            "tip": "Sétáljon egyet a kertekben és a kastély körüli csendes tájon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A tengerpart Skælskørnél",
+            "tip": "Élvezze a csendes vízparti kilátást ebéd után.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Împrejurimile Castelului Borreby",
+            "tip": "Faceți o plimbare prin grădini și peisajul liniștit din jurul castelului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Coasta de lângă Skælskør",
+            "tip": "Bucurați-vă de priveliștea liniștită a apei după prânz.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The grounds of Borreby Castle",
+            "tip": "Take a walk through the gardens and quiet countryside surrounding the castle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The coast near Skælskør",
+            "tip": "Enjoy the quiet view of the water after lunch.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf dem Land Ausschau nach Hofläden, die lokale Produkte verkaufen."
+          },
+          {
+            "name": "Museumsshop Trelleborg",
+            "tip": "Finden Sie einzigartige Souvenirs zum Thema Wikinger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Vidéken keresse a helyi termékeket árusító tanyasi boltokat."
+          },
+          {
+            "name": "Trelleborg Múzeumbolt",
+            "tip": "Találjon egyedi, viking témájú ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Fiți atenți la magazinele de la ferme care vând produse locale în mediul rural."
+          },
+          {
+            "name": "Magazinul muzeului Trelleborg",
+            "tip": "Găsiți suveniruri unice cu tematică vikingă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Look for farm shops selling local produce in the countryside."
+          },
+          {
+            "name": "Trelleborg Museum Shop",
+            "tip": "Find unique Viking-themed souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten von Trelleborg und Borreby Slot, da diese variieren können.",
+          "Planen Sie genügend Zeit für die Fahrt zwischen den Standorten ein.",
+          "Parkgebühren können in der Innenstadt anfallen.",
+          "Ein GPS oder eine Karten-App ist für die Navigation auf dem Land unerlässlich."
+        ],
+        "hu": [
+          "Ellenőrizze Trelleborg és a Borreby kastély nyitvatartási idejét, mert változhat.",
+          "Tervezzen elegendő időt a helyszínek közötti utazásra.",
+          "A belvárosban parkolási díjak merülhetnek fel.",
+          "GPS vagy térképalkalmazás elengedhetetlen a vidéki navigációhoz."
+        ],
+        "ro": [
+          "Verificați orele de deschidere pentru Trelleborg și Castelul Borreby, deoarece acestea pot varia.",
+          "Alocați suficient timp pentru deplasarea între locații.",
+          "Se pot aplica taxe de parcare în centrul orașului.",
+          "Un GPS sau o aplicație de hărți este esențială pentru navigarea în mediul rural."
+        ],
+        "en": [
+          "Check opening hours for Trelleborg and Borreby Castle as they can vary.",
+          "Allow plenty of time for driving between locations.",
+          "Parking fees may apply in the city center.",
+          "A GPS or map app is essential for navigating the countryside."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Slagelse",
+            "hu": "Érkezés a Slagelse állomásra",
+            "ro": "Sosire la Gara Slagelse",
+            "en": "Arrival at Slagelse Station"
+          },
+          "coords": [
+            11.365,
+            55.405
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten mit den lokalen Bussen.",
+            "hu": "Vásároljon napijegyet a helyi buszokon való korlátlan utazáshoz.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzele locale.",
+            "en": "Purchase a day pass for unlimited travel on local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Antvorskov Klosterruin",
+            "hu": "Antvorskov kolostorrom",
+            "ro": "Ruinele Mănăstirii Antvorskov",
+            "en": "Antvorskov Monastery Ruin"
+          },
+          "coords": [
+            11.378,
+            55.391
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Bushaltestelle ist nur einen kurzen Spaziergang von den Ruinen entfernt.",
+            "hu": "A buszmegálló csak egy rövid sétára van a romoktól.",
+            "ro": "Stația de autobuz este la o scurtă plimbare de ruine.",
+            "en": "The bus stop is just a short walk from the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Panums Park",
+            "hu": "Panums Park",
+            "ro": "Parcul Panums",
+            "en": "Panums Park"
+          },
+          "coords": [
+            11.375,
+            55.401
+          ],
+          "category": "parks",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang von der Ruine zum Park.",
+            "hu": "Pihentető séta a romoktól a parkig.",
+            "ro": "O plimbare relaxantă de la ruine la parc.",
+            "en": "A relaxing walk from the ruin to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Stadtzentrum",
+            "hu": "Belvárosi klaszter",
+            "ro": "Cluster Centrul Orașului",
+            "en": "City Center Cluster"
+          },
+          "coords": [
+            11.356,
+            55.4025
+          ],
+          "category": "squares",
+          "arrive_at": "12:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum und beginnen Sie Ihre Erkundung am Schweizerpladsen.",
+            "hu": "Menjen vissza busszal a központba, és kezdje a felfedezést a Schweizerpladsennél.",
+            "ro": "Luați autobuzul înapoi în centru și începeți explorarea la Schweizerpladsen.",
+            "en": "Take the bus back to the center and start your exploration at Schweizerpladsen."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Mikkels Kirke",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sfântul Mihail",
+            "en": "St. Michael's Church"
+          },
+          "coords": [
+            11.3575,
+            55.4035
+          ],
+          "category": "churches",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Kirche ist nur einen Steinwurf vom Hauptplatz entfernt.",
+            "hu": "A templom csak egy kőhajításnyira van a főtértől.",
+            "ro": "Biserica este la o aruncătură de băț de piața principală.",
+            "en": "The church is just a stone's throw from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Slagelse Museum & Mittagessen",
+            "hu": "Slagelse Múzeum & Ebéd",
+            "ro": "Muzeul Slagelse & Prânz",
+            "en": "Slagelse Museum & Lunch"
+          },
+          "coords": [
+            11.359,
+            55.404
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Nachmittag im Museum und essen Sie in einem nahegelegenen Café zu Mittag.",
+            "hu": "Töltse a délutánt a múzeumban, és ebédeljen egy közeli kávézóban.",
+            "ro": "Petreceți după-amiaza la muzeu și luați prânzul la o cafenea din apropiere.",
+            "en": "Spend the afternoon at the museum and have lunch at a nearby café."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt mit einer Busfahrt zur historischen Antvorskov Klosterruin. Nach einem Spaziergang zum Panums Park fahren Sie zurück ins Stadtzentrum. Hier erkunden Sie zu Fuß den Hauptplatz Schweizerpladsen und die beeindruckende Sankt Mikkels Kirke. Den Rest des Nachmittags verbringen Sie damit, im Slagelse Museum in die Geschichte einzutauchen und ein gemütliches Mittagessen zu genießen.",
+        "hu": "A tömegközlekedéssel töltött nap egy buszúttal kezdődik a történelmi Antvorskov kolostorromhoz. A Panums Parkban tett séta után visszautazik a városközpontba. Itt gyalogosan fedezi fel a Schweizerpladsen főteret és a lenyűgöző Szent Mihály-templomot. A délután hátralévő részét a Slagelse Múzeumban való elmélyüléssel és egy kellemes ebéddel tölti.",
+        "ro": "Ziua dvs. cu transportul public începe cu o călătorie cu autobuzul la ruinele istorice ale Mănăstirii Antvorskov. După o plimbare până la Parcul Panums, vă întoarceți în centrul orașului. Aici, explorați pe jos piața principală Schweizerpladsen și impresionanta Biserică Sf. Mihail. Petreceți restul după-amiezii cufundându-vă în istorie la Muzeul Slagelse și savurând un prânz pe îndelete.",
+        "en": "Your day on public transport begins with a bus ride to the historic Antvorskov Monastery Ruin. After a walk to Panums Park, you'll travel back to the city center. Here, you'll explore the main square, Schweizerpladsen, and the impressive St. Michael's Church on foot. The rest of the afternoon is spent diving into history at the Slagelse Museum and enjoying a leisurely lunch."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café im Museumsviertel",
+            "tip": "Perfekt für ein Mittagessen oder einen Kaffee nach dem Museumsbesuch."
+          },
+          {
+            "name": "Pølser",
+            "tip": "Probieren Sie einen klassischen dänischen Hotdog von einem Straßenverkäufer als schnellen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézó a múzeumi negyedben",
+            "tip": "Tökéletes egy ebédre vagy kávéra a múzeumlátogatás után."
+          },
+          {
+            "name": "Pølser",
+            "tip": "Kóstoljon meg egy klasszikus dán hot dogot egy utcai árustól gyors harapnivalóként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea în cartierul muzeelor",
+            "tip": "Perfect pentru prânz sau o cafea după vizita la muzeu."
+          },
+          {
+            "name": "Pølser",
+            "tip": "Încercați un hotdog danez clasic de la un vânzător ambulant pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café in the museum quarter",
+            "tip": "Perfect for lunch or a coffee after visiting the museum."
+          },
+          {
+            "name": "Pølser",
+            "tip": "Try a classic Danish hot dog from a street vendor for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Ecke im Panums Park",
+            "tip": "Entfliehen Sie dem Trubel der Stadt und genießen Sie die Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "In der Sankt Mikkels Kirke",
+            "tip": "Finden Sie einen Moment der Stille in der historischen Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes sarok a Panums Parkban",
+            "tip": "Meneküljön el a város nyüzsgésétől és élvezze a csendet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Szent Mihály-templomban",
+            "tip": "Találjon egy csendes pillanatot a történelmi templomban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un colț liniștit în Parcul Panums",
+            "tip": "Evadați din agitația orașului și bucurați-vă de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "În interiorul Bisericii Sf. Mihail",
+            "tip": "Găsiți un moment de liniște în interiorul bisericii istorice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet corner in Panums Park",
+            "tip": "Escape the bustle of the city and enjoy the peace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inside St. Michael's Church",
+            "tip": "Find a moment of quiet inside the historic church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte rund um den Schweizerpladsen",
+            "tip": "Stöbern Sie in den Boutiquen und Geschäften im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Schweizerpladsen körül",
+            "tip": "Böngésszen a butikok és üzletek között a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în jurul Schweizerpladsen",
+            "tip": "Răsfoiți buticurile și magazinele din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops around Schweizerpladsen",
+            "tip": "Browse the boutiques and stores in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die lokale Busfahrplan-App herunter.",
+          "Die Busse sind in der Regel pünktlich, planen Sie Ihre Verbindungen also entsprechend.",
+          "Eine Tageskarte ist oft günstiger als Einzelfahrscheine.",
+          "Fragen Sie den Busfahrer, wenn Sie sich bei einer Haltestelle unsicher sind."
+        ],
+        "hu": [
+          "Töltse le a helyi buszmenetrend alkalmazást.",
+          "A buszok általában pontosak, ezért tervezze meg az átszállásokat.",
+          "A napijegy gyakran olcsóbb, mint a vonaljegyek.",
+          "Kérdezze meg a buszsofőrt, ha bizonytalan egy megállóval kapcsolatban."
+        ],
+        "ro": [
+          "Descărcați aplicația locală cu orarul autobuzelor.",
+          "Autobuzele sunt de obicei punctuale, așa că planificați-vă conexiunile în consecință.",
+          "Un bilet de o zi este adesea mai ieftin decât biletele individuale.",
+          "Întrebați șoferul de autobuz dacă nu sunteți sigur de o stație."
+        ],
+        "en": [
+          "Download the local bus schedule app.",
+          "Buses are generally on time, so plan your connections accordingly.",
+          "A day pass is often cheaper than buying single tickets.",
+          "Ask the bus driver if you are unsure about a stop."
+        ]
+      }
+    }
+  }
+}

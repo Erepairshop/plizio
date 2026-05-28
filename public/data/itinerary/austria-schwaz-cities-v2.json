@@ -1,0 +1,1436 @@
+{
+  "city_id": "austria-schwaz-cities-v2",
+  "anchor": {
+    "name": "Schwaz",
+    "coords": [
+      11.7089,
+      47.3486
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Orglerhaus & Stadtplatz",
+            "hu": "Orgler-ház és Főtér",
+            "ro": "Casa Orgler & Piața Centrală",
+            "en": "Orgler House & Town Square"
+          },
+          "coords": [
+            11.7085,
+            47.3478
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, um die Atmosphäre der Altstadt aufzusaugen.",
+            "hu": "Kezdje a napot itt, hogy magába szívja az óváros hangulatát.",
+            "ro": "Începeți ziua aici pentru a absorbi atmosfera orașului vechi.",
+            "en": "Start your day here to soak in the old town atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche Maria Himmelfahrt",
+            "hu": "Mária Mennybemenetele plébániatemplom",
+            "ro": "Biserica parohială Adormirea Maicii Domnului",
+            "en": "Parish Church of Our Lady of the Assumption"
+          },
+          "coords": [
+            11.7095,
+            47.3482
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf das riesige Kupferdach und die beeindruckende gotische Architektur.",
+            "hu": "Figyelje meg a hatalmas réztetőt és a lenyűgöző gótikus építészetet.",
+            "ro": "Observați acoperișul masiv de cupru și arhitectura gotică impresionantă.",
+            "en": "Note the huge copper roof and the impressive Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuggerhaus",
+            "hu": "Fugger-ház",
+            "ro": "Casa Fugger",
+            "en": "Fugger House"
+          },
+          "coords": [
+            11.7102,
+            47.3475
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die Handelsgeschichte der Stadt, heute eine Bildungseinrichtung.",
+            "hu": "A város kereskedelmi történelmének szép példája, ma oktatási intézmény.",
+            "ro": "Un exemplu frumos al istoriei comerciale a orașului, astăzi o instituție de învățământ.",
+            "en": "A fine example of the town's trading history, now an educational institution."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster Schwaz",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană Schwaz",
+            "en": "Franciscan Monastery Schwaz"
+          },
+          "coords": [
+            11.7125,
+            47.3471
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie einen Moment der Ruhe im Kreuzgang aus dem 16. Jahrhundert.",
+            "hu": "Találjon egy pillanatnyi nyugalmat a 16. századi kerengőben.",
+            "ro": "Găsiți un moment de liniște în claustrul din secolul al XVI-lea.",
+            "en": "Find a moment of peace in the 16th-century cloister."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Völker",
+            "hu": "Népek Múzeuma",
+            "ro": "Muzeul Popoarelor",
+            "en": "Museum of Peoples"
+          },
+          "coords": [
+            11.7128,
+            47.3479
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine überraschende Sammlung von Weltkulturen in einer kleinen Tiroler Stadt.",
+            "hu": "A világ kultúráinak meglepő gyűjteménye egy kis tiroli városban.",
+            "ro": "O colecție surprinzătoare de culturi mondiale într-un mic oraș tirolez.",
+            "en": "A surprising collection of world cultures in a small Tyrolean town."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Freundsberg",
+            "hu": "Freundsberg vára",
+            "ro": "Castelul Freundsberg",
+            "en": "Freundsberg Castle"
+          },
+          "coords": [
+            11.7155,
+            47.3445
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die Aussicht und das Museum im Inneren.",
+            "hu": "Megéri a kaptatót a kilátásért és a bent található múzeumért.",
+            "ro": "Urcușul merită pentru priveliște și pentru muzeul din interior.",
+            "en": "The climb is worth it for the views and the museum inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Silberbergwerk Schwaz",
+            "hu": "Schwazi ezüstbánya",
+            "ro": "Mina de Argint Schwaz",
+            "en": "Schwaz Silver Mine"
+          },
+          "coords": [
+            11.6969,
+            47.3561
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ziehen Sie sich warm an, es ist kühl unter Tage. Ein Muss in Schwaz!",
+            "hu": "Öltözzön melegen, a föld alatt hűvös van. Kötelező program Schwazban!",
+            "ro": "Îmbrăcați-vă gros, este răcoare în subteran. O vizită obligatorie în Schwaz!",
+            "en": "Dress warmly, it's cool underground. A must-do in Schwaz!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Schwaz beginnt im historischen Herzen, wo Sie gotische Kirchen und alte Handelshäuser erkunden. Spüren Sie die Geschichte der Stadt bei jedem Schritt durch die engen Gassen. Am Nachmittag steigen Sie zur Burg Freundsberg auf, um einen Panoramablick zu genießen, bevor Sie tief in die Erde hinabsteigen. Der Tag endet mit dem beeindruckenden Erlebnis des Silberbergwerks, der Quelle des einstigen Reichtums der Stadt. Es ist ein Tag voller Kontraste, von himmelhohen Türmen bis zu tiefen Stollen.",
+        "hu": "A schwazi nap az óváros szívében kezdődik, ahol gótikus templomokat és régi kereskedőházakat fedezhet fel. Érezze a város történelmét minden lépésnél a szűk utcákon. Délután másszon fel a Freundsberg várhoz a panorámáért, mielőtt mélyen a föld alá ereszkedne. A napot az ezüstbánya lenyűgöző élménye zárja, a város egykori gazdagságának forrása. Ez a kontrasztok napja, az égbe törő tornyoktól a mély tárnákig.",
+        "ro": "Ziua dvs. în Schwaz începe în inima istorică, explorând biserici gotice și vechi case comerciale. Simțiți istoria orașului la fiecare pas pe străduțele înguste. După-amiaza, urcați la Castelul Freundsberg pentru vederi panoramice, înainte de a coborî adânc în pământ. Ziua se încheie cu experiența impresionantă a minei de argint, sursa bogăției de odinioară a orașului. Este o zi a contrastelor, de la turnuri înalte la galerii adânci.",
+        "en": "Your day in Schwaz begins in the historic heart, exploring Gothic churches and old merchant houses. Feel the town's history with every step through the narrow streets. In the afternoon, ascend to Freundsberg Castle for panoramic views before descending deep into the earth. The day concludes with the impressive experience of the silver mine, the source of the town's former wealth. It's a day of contrasts, from sky-high towers to deep tunnels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "Ein herzhaftes Pfannengericht aus Kartoffeln, Fleisch und Spiegelei. Perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "In Brühe oder mit Salat servierte Käseknödel. Ein Muss für Käseliebhaber."
+          },
+          {
+            "name": "Restaurant zur alten Schmiede",
+            "tip": "Traditionelle Tiroler Küche in einem gemütlichen, rustikalen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tiroli Gröstl",
+            "tip": "Kiadós serpenyős étel burgonyából, húsból és tükörtojásból. Tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Sajtgombóc levesben vagy salátával tálalva. A sajtok szerelmeseinek kötelező."
+          },
+          {
+            "name": "Restaurant zur alten Schmiede",
+            "tip": "Hagyományos tiroli konyha egy hangulatos, rusztikus környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "O tigaie copioasă cu cartofi, carne și un ou ochi. Perfectă după o plimbare lungă."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Găluște de brânză servite în supă sau cu salată. O necesitate pentru iubitorii de brânză."
+          },
+          {
+            "name": "Restaurant zur alten Schmiede",
+            "tip": "Bucătărie tradițională tiroleză într-un cadru confortabil și rustic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "A hearty pan-fried dish of potatoes, meat, and a fried egg. Perfect after a long walk."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Cheese dumplings served in broth or with a salad. A must-try for cheese lovers."
+          },
+          {
+            "name": "Restaurant zur alten Schmiede",
+            "tip": "Traditional Tyrolean cuisine in a cozy, rustic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kreuzgang des Franziskanerklosters",
+            "tip": "Ein friedlicher Ort, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Inn",
+            "tip": "Ein ruhiger Weg entlang des Flusses, ideal für eine entspannte Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von Burg Freundsberg",
+            "tip": "Genießen Sie die Stille und die weite Aussicht über das Inntal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A ferences kolostor kerengője",
+            "tip": "Békés hely, ahol elmenekülhet a város nyüzsgésétől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta az Inn partján",
+            "tip": "Csendes ösvény a folyó mentén, ideális egy pihentető szünethez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Freundsberg várból",
+            "tip": "Élvezze a csendet és az Inn-völgyre nyíló széles kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul Mănăstirii Franciscane",
+            "tip": "Un loc pașnic pentru a evada din agitația orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul Innului",
+            "tip": "O potecă liniștită de-a lungul râului, ideală pentru o pauză relaxantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Castelul Freundsberg",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică asupra Văii Inn.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cloister of the Franciscan Monastery",
+            "tip": "A peaceful spot to escape the hustle and bustle of the town.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the Inn River",
+            "tip": "A quiet path along the river, perfect for a relaxing break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Freundsberg Castle",
+            "tip": "Enjoy the silence and the sweeping views over the Inn Valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Kaufen Sie lokale Produkte wie Käse, Speck und Schnaps direkt von den Erzeugern."
+          },
+          {
+            "name": "Schwazer Silberschmuck",
+            "tip": "Ein einzigartiges Souvenir, das an die Bergbaugeschichte der Stadt erinnert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Vásároljon helyi termékeket, például sajtot, szalonnát és pálinkát közvetlenül a termelőktől."
+          },
+          {
+            "name": "Schwazi ezüst ékszerek",
+            "tip": "Egyedi szuvenír, amely a város bányásztörténetére emlékeztet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața fermierilor",
+            "tip": "Cumpărați produse locale precum brânză, slănină și schnapps direct de la producători."
+          },
+          {
+            "name": "Bijuterii de argint din Schwaz",
+            "tip": "Un suvenir unic care amintește de istoria minieră a orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmer's Market",
+            "tip": "Buy local products like cheese, bacon, and schnapps directly from the producers."
+          },
+          {
+            "name": "Schwaz Silver Jewelry",
+            "tip": "A unique souvenir reminiscent of the town's mining history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Der Aufstieg zur Burg Freundsberg ist steil, aber kurz.",
+          "Planen Sie genügend Zeit für das Silberbergwerk ein; die Führungen dauern etwa 90 Minuten.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő egyenetlen lehet.",
+          "A Freundsberg várhoz vezető út meredek, de rövid.",
+          "Szánjon elegendő időt az ezüstbányára; a túrák körülbelül 90 percig tartanak.",
+          "A városközpont legtöbb látnivalója könnyen megközelíthető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat.",
+          "Urcușul către Castelul Freundsberg este abrupt, dar scurt.",
+          "Planificați suficient timp pentru mina de argint; tururile durează aproximativ 90 de minute.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "The climb to Freundsberg Castle is steep but short.",
+          "Allow plenty of time for the silver mine; the tours last about 90 minutes.",
+          "Most sights in the town center are within easy walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Radverleih am Bahnhof",
+            "hu": "Indulás: Kerékpárkölcsönző az állomáson",
+            "ro": "Start: Închiriere de biciclete la gară",
+            "en": "Start: Bike Rental at the Station"
+          },
+          "coords": [
+            11.706,
+            47.351
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Citybike für eine bequeme Tour durch die Stadt und entlang des Inns.",
+            "hu": "Béreljen városi kerékpárt egy kényelmes túrához a városban és az Inn mentén.",
+            "ro": "Închiriați o bicicletă de oraș pentru un tur confortabil prin oraș și de-a lungul Innului.",
+            "en": "Rent a city bike for a comfortable tour through the town and along the Inn."
+          }
+        },
+        {
+          "name": {
+            "de": "Silberbergwerk Schwaz",
+            "hu": "Schwazi ezüstbánya",
+            "ro": "Mina de Argint Schwaz",
+            "en": "Schwaz Silver Mine"
+          },
+          "coords": [
+            11.6969,
+            47.3561
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine faszinierende Reise in die Vergangenheit. Die Radtour hierher ist eine gute Aufwärmung.",
+            "hu": "Lenyűgöző utazás a múltba. A biciklitúra ide jó bemelegítés.",
+            "ro": "O călătorie fascinantă în trecut. Plimbarea cu bicicleta până aici este o bună încălzire.",
+            "en": "A fascinating journey into the past. The bike ride here is a good warm-up."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt & Stadtpfarrkirche",
+            "hu": "Óváros és Plébániatemplom",
+            "ro": "Orașul Vechi & Biserica Parohială",
+            "en": "Old Town & Parish Church"
+          },
+          "coords": [
+            11.7095,
+            47.3482
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad ab und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Tegye le a biciklit és fedezze fel a központot gyalog.",
+            "ro": "Parcați bicicleta și explorați centrul pe jos.",
+            "en": "Park your bike and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Völker",
+            "hu": "Népek Múzeuma",
+            "ro": "Muzeul Popoarelor",
+            "en": "Museum of Peoples"
+          },
+          "coords": [
+            11.7128,
+            47.3479
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie ein in Kulturen aus aller Welt.",
+            "hu": "Parkolja le a kerékpárt, és merüljön el a világ kultúráiban.",
+            "ro": "Parcați bicicleta și cufundați-vă în culturi din întreaga lume.",
+            "en": "Park your bike and immerse yourself in cultures from around the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Freundsberg",
+            "hu": "Freundsberg vára",
+            "ro": "Castelul Freundsberg",
+            "en": "Freundsberg Castle"
+          },
+          "coords": [
+            11.7155,
+            47.3445
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg ist anspruchsvoll, aber die Aussicht ist die Belohnung. E-Bike empfohlen!",
+            "hu": "A kaptató kihívást jelent, de a kilátás a jutalom. E-bike ajánlott!",
+            "ro": "Urcușul este solicitant, dar priveliștea este recompensa. Se recomandă o bicicletă electrică!",
+            "en": "The climb is challenging, but the view is the reward. E-bike recommended!"
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Inn",
+            "hu": "Kerékpártúra az Inn mentén",
+            "ro": "Plimbare de-a lungul râului Inn",
+            "en": "Ride along the Inn River"
+          },
+          "coords": [
+            11.725,
+            47.355
+          ],
+          "category": "nature",
+          "arrive_at": "16:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer entspannten Fahrt auf dem Inntalradweg.",
+            "hu": "Zárja a napot egy pihentető tekeréssel az Inn-völgyi kerékpárúton.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă pe pista de biciclete a Văii Inn.",
+            "en": "End the day with a relaxing ride on the Inn Valley Cycle Path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und entdecken Sie Schwaz auf zwei Rädern. Die Tour führt Sie zuerst zum berühmten Silberbergwerk. Nach dieser unterirdischen Erfahrung radeln Sie ins historische Zentrum für eine Mittagspause. Am Nachmittag erklimmen Sie die Burg Freundsberg – eine Herausforderung mit lohnender Aussicht. Der Tag klingt mit einer gemütlichen Fahrt entlang des malerischen Inns aus, bei der Sie die alpine Landschaft in vollen Zügen genießen können.",
+        "hu": "Pattanjon biciklire, és fedezze fel Schwazt két keréken. A túra először a híres ezüstbányához vezet. A földalatti élmény után tekerjen be a történelmi központba egy ebédszünetre. Délután mássza meg a Freundsberg várat – kihívás, de megéri a kilátás. A nap egy kényelmes tekeréssel zárul a festői Inn folyó mentén, ahol teljes mértékben élvezheti az alpesi tájat.",
+        "ro": "Urcați-vă pe bicicletă și descoperiți Schwaz pe două roți. Turul vă duce mai întâi la faimoasa mină de argint. După această experiență subterană, pedalați spre centrul istoric pentru o pauză de prânz. După-amiaza, urcați la Castelul Freundsberg - o provocare cu o priveliște plină de satisfacții. Ziua se încheie cu o plimbare relaxantă de-a lungul pitorescului râu Inn, unde vă puteți bucura din plin de peisajul alpin.",
+        "en": "Hop on your bike and discover Schwaz on two wheels. The tour first takes you to the famous silver mine. After this underground experience, you'll cycle to the historic center for a lunch break. In the afternoon, conquer Freundsberg Castle – a challenge with a rewarding view. The day ends with a leisurely ride along the picturesque Inn River, where you can fully enjoy the alpine scenery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein klassischer österreichischer Genuss, ideal für eine Kaffeepause."
+          },
+          {
+            "name": "Zillertaler Krapfen",
+            "tip": "Eine lokale Spezialität, frittierte Teigtaschen mit verschiedenen Füllungen."
+          },
+          {
+            "name": "Gasthof Einhorn Schaller",
+            "tip": "Genießen Sie authentische Gerichte in einem der ältesten Gasthöfe der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Almásrétes",
+            "tip": "Klasszikus osztrák finomság, ideális egy kávészünethez."
+          },
+          {
+            "name": "Zillertali fánk (Krapfen)",
+            "tip": "Helyi specialitás, sült tésztatáskák különböző töltelékekkel."
+          },
+          {
+            "name": "Gasthof Einhorn Schaller",
+            "tip": "Élvezze az autentikus ételeket a régió egyik legrégebbi fogadójában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apfelstrudel (Ștrudel cu mere)",
+            "tip": "Un deliciu clasic austriac, ideal pentru o pauză de cafea."
+          },
+          {
+            "name": "Zillertaler Krapfen",
+            "tip": "O specialitate locală, gogoși prăjite cu diverse umpluturi."
+          },
+          {
+            "name": "Gasthof Einhorn Schaller",
+            "tip": "Savurați mâncăruri autentice la unul dintre cele mai vechi hanuri din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Apfelstrudel (Apple Strudel)",
+            "tip": "A classic Austrian treat, ideal for a coffee break."
+          },
+          {
+            "name": "Zillertaler Krapfen",
+            "tip": "A local specialty, fried doughnuts with various fillings."
+          },
+          {
+            "name": "Gasthof Einhorn Schaller",
+            "tip": "Enjoy authentic dishes in one of the region's oldest inns."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Inntalradweg",
+            "tip": "Fernab vom Verkehr können Sie hier die Ruhe der Natur genießen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lahnbach-Promenade",
+            "tip": "Ein schattiger Weg entlang des Baches, der durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof bei der Pfarrkirche",
+            "tip": "Ein Ort der Stille mit historischer Atmosphäre.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Inn-völgyi kerékpárút",
+            "tip": "A forgalomtól távol élvezheti a természet csendjét.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lahnbach-sétány",
+            "tip": "Árnyas ösvény a városon átfolyó patak mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Temető a plébániatemplomnál",
+            "tip": "A csend helye, történelmi hangulattal.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete a Văii Inn",
+            "tip": "Departe de trafic, aici vă puteți bucura de liniștea naturii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Promenada Lahnbach",
+            "tip": "O potecă umbroasă de-a lungul pârâului care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de lângă biserica parohială",
+            "tip": "Un loc de liniște cu o atmosferă istorică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Inn Valley Cycle Path",
+            "tip": "Away from the traffic, you can enjoy the peace of nature here.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lahnbach Promenade",
+            "tip": "A shady path along the stream that flows through the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery at the Parish Church",
+            "tip": "A place of silence with a historical atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Perfekt, um Ausrüstung für Ihr nächstes Alpenabenteuer zu finden."
+          },
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie nach Holzschnitzereien oder handgemachter Keramik als Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Tökéletes hely a következő alpesi kalandhoz szükséges felszerelés beszerzésére."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen fafaragásokat vagy kézzel készített kerámiákat emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "Perfect pentru a găsi echipament pentru următoarea aventură alpină."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați sculpturi în lemn sau ceramică lucrată manual ca suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports Shops",
+            "tip": "Perfect for finding gear for your next Alpine adventure."
+          },
+          {
+            "name": "Local Crafts",
+            "tip": "Look for wood carvings or handmade pottery as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Bremsen vor der Abfahrt von der Burg Freundsberg.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie eine Wasserflasche mit, besonders für den Anstieg zur Burg.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket, mielőtt leereszkedik a Freundsberg várból.",
+          "Sisak viselése erősen ajánlott.",
+          "Vigyen magával egy vizes palackot, különösen a várhoz való emelkedőhöz.",
+          "Mindig zárja le jól a kerékpárját, amikor leparkolja."
+        ],
+        "ro": [
+          "Verificați frânele înainte de a coborî de la Castelul Freundsberg.",
+          "Se recomandă insistent purtarea unei căști.",
+          "Luați o sticlă de apă, mai ales pentru urcușul la castel.",
+          "Încuietăți întotdeauna bicicleta bine când o parcați."
+        ],
+        "en": [
+          "Check your brakes before descending from Freundsberg Castle.",
+          "A helmet is strongly recommended.",
+          "Bring a water bottle, especially for the climb to the castle.",
+          "Always lock your bike securely when you park it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Stadtgalerien & Altstadt-Cluster",
+            "hu": "Stadtgalerien parkolóház és Óvárosi-klaszter",
+            "ro": "Parcarea Stadtgalerien & Clusterul Orașul Vechi",
+            "en": "Stadtgalerien Car Park & Old Town Cluster"
+          },
+          "coords": [
+            11.7075,
+            47.3495
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier zentral, um den ersten Teil der Stadt zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt központilag, hogy gyalog fedezze fel a város első részét.",
+            "ro": "Parcați aici central pentru a explora prima parte a orașului pe jos.",
+            "en": "Park here centrally to explore the first part of the town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & Fuggerhaus",
+            "hu": "Plébániatemplom és Fugger-ház",
+            "ro": "Biserica Parohială & Casa Fugger",
+            "en": "Parish Church & Fugger House"
+          },
+          "coords": [
+            11.7098,
+            47.3478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang verbindet diese beiden historischen Wahrzeichen.",
+            "hu": "Egy rövid séta köti össze ezt a két történelmi nevezetességet.",
+            "ro": "O scurtă plimbare leagă aceste două repere istorice.",
+            "en": "A short walk connects these two historic landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster & Museum der Völker",
+            "hu": "Ferences kolostor és Népek Múzeuma",
+            "ro": "Mănăstirea Franciscană & Muzeul Popoarelor",
+            "en": "Franciscan Monastery & Museum of Peoples"
+          },
+          "coords": [
+            11.7126,
+            47.3475
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruhe des Klosters, bevor Sie in die Weltkulturen eintauchen.",
+            "hu": "Fedezze fel a kolostor nyugalmát, mielőtt elmerülne a világ kultúráiban.",
+            "ro": "Descoperiți liniștea mănăstirii înainte de a vă cufunda în culturile lumii.",
+            "en": "Discover the tranquility of the monastery before diving into world cultures."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt & Parken an der Burg Freundsberg",
+            "hu": "Autózás és parkolás a Freundsberg várnál",
+            "ro": "Condus & Parcare la Castelul Freundsberg",
+            "en": "Drive & Park at Freundsberg Castle"
+          },
+          "coords": [
+            11.715,
+            47.344
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Schloss hinauf, um den steilen Aufstieg zu vermeiden. Begrenzte Parkmöglichkeiten.",
+            "hu": "Hajtson fel a várhoz, hogy elkerülje a meredek emelkedőt. Korlátozott parkolási lehetőség.",
+            "ro": "Conduceți până la castel pentru a evita urcușul abrupt. Parcare limitată.",
+            "en": "Drive up to the castle to avoid the steep climb. Limited parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Aussicht",
+            "hu": "Ebéd kilátással",
+            "ro": "Prânz cu priveliște",
+            "en": "Lunch with a View"
+          },
+          "coords": [
+            11.7155,
+            47.3445
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit im Burgrestaurant mit Blick über das Tal.",
+            "hu": "Fogyasszon el egy ebédet a váréteremben, kilátással a völgyre.",
+            "ro": "Savurați o masă la restaurantul castelului cu vedere la vale.",
+            "en": "Enjoy a meal at the castle restaurant overlooking the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Silberbergwerk Schwaz",
+            "hu": "Utazás a Schwazi ezüstbányához",
+            "ro": "Călătorie la Mina de Argint Schwaz",
+            "en": "Drive to Schwaz Silver Mine"
+          },
+          "coords": [
+            11.6969,
+            47.3561
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der letzte Höhepunkt des Tages. Es gibt einen großen Parkplatz vor Ort.",
+            "hu": "A nap utolsó fénypontja. A helyszínen nagy parkoló található.",
+            "ro": "Ultimul punct culminant al zilei. Există o parcare mare la fața locului.",
+            "en": "The final highlight of the day. There is a large car park on site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Schwaz flexibel in Clustern. Sie parken im Zentrum und entdecken die Altstadt zu Fuß. Nach Kirchen, Klöstern und Museen fahren Sie zur hochgelegenen Burg Freundsberg. Dort genießen Sie nicht nur die Geschichte, sondern auch ein Mittagessen mit grandioser Aussicht. Der Nachmittag gehört ganz dem industriellen Erbe: Eine kurze Fahrt bringt Sie zum berühmten Silberbergwerk für ein unvergessliches unterirdisches Abenteuer.",
+        "hu": "Autóval rugalmasan, klaszterekben fedezheti fel Schwazt. Parkoljon a központban, és sétálva ismerje meg az óvárost. Templomok, kolostorok és múzeumok után hajtson fel a magasan fekvő Freundsberg várhoz. Itt nemcsak a történelmet, hanem egy nagyszerű kilátással párosuló ebédet is élvezhet. A délután az ipari örökségé: egy rövid autóút a híres ezüstbányához visz egy felejthetetlen földalatti kalandra.",
+        "ro": "Cu mașina, explorați Schwaz în mod flexibil, în clustere. Parcați în centru și descoperiți orașul vechi pe jos. După biserici, mănăstiri și muzee, conduceți la castelul Freundsberg, situat la înălțime. Acolo, vă bucurați nu numai de istorie, ci și de un prânz cu o priveliște magnifică. După-amiaza este dedicată patrimoniului industrial: o scurtă călătorie cu mașina vă duce la faimoasa mină de argint pentru o aventură subterană de neuitat.",
+        "en": "With a car, you can explore Schwaz flexibly in clusters. Park in the center and discover the old town on foot. After churches, monasteries, and museums, drive up to the high-perched Freundsberg Castle. There, you'll not only enjoy the history but also lunch with a magnificent view. The afternoon is dedicated to industrial heritage: a short drive takes you to the famous silver mine for an unforgettable underground adventure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burgrestaurant Freundsberg",
+            "tip": "Kombinieren Sie Kultur mit Kulinarik und einer fantastischen Aussicht."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Ein süßer, zerrissener Pfannkuchen, serviert mit Fruchtkompott. Ein perfekter Abschluss."
+          },
+          {
+            "name": "Knappenkuchl am Silberbergwerk",
+            "tip": "Stärken Sie sich nach der Grubenfahrt mit einer deftigen Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burgrestaurant Freundsberg",
+            "tip": "Kombinálja a kultúrát a kulináris élvezetekkel és a fantasztikus kilátással."
+          },
+          {
+            "name": "Császármorzsa (Kaiserschmarrn)",
+            "tip": "Édes, tépett palacsinta, gyümölcskompóttal tálalva. Tökéletes befejezés."
+          },
+          {
+            "name": "Knappenkuchl az Ezüstbányánál",
+            "tip": "Erősítse meg magát a bányalátogatás után egy kiadós étellel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Castelului Freundsberg",
+            "tip": "Combinați cultura cu deliciile culinare și o priveliște fantastică."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "O clătită dulce, sfâșiată, servită cu compot de fructe. Un final perfect."
+          },
+          {
+            "name": "Knappenkuchl la Mina de Argint",
+            "tip": "Întăriți-vă cu o masă copioasă după turul minei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Freundsberg Castle Restaurant",
+            "tip": "Combine culture with cuisine and a fantastic view."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "A sweet, shredded pancake served with fruit compote. A perfect finish."
+          },
+          {
+            "name": "Knappenkuchl at the Silver Mine",
+            "tip": "Refuel with a hearty meal after the mine tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palais Enzenberg Park",
+            "tip": "Ein kleiner, oft übersehener Park, perfekt für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Fahrt durch die Tiroler Landschaft",
+            "tip": "Die kurzen Fahrten zwischen den Zielen bieten schöne Ausblicke auf die Berge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick aus dem Auto",
+            "tip": "Halten Sie an einem sicheren Ort an und genießen Sie einfach die alpine Umgebung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palais Enzenberg park",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott park, tökéletes egy rövid szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Autózás a tiroli tájon",
+            "tip": "A célpontok közötti rövid utak gyönyörű kilátást nyújtanak a hegyekre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az autóból",
+            "tip": "Álljon meg egy biztonságos helyen, és egyszerűen élvezze az alpesi környezetet.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Palais Enzenberg",
+            "tip": "Un parc mic, adesea trecut cu vederea, perfect pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare prin peisajul tirolez",
+            "tip": "Scurtele călătorii între destinații oferă priveliști frumoase ale munților.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere din mașină",
+            "tip": "Opriți într-un loc sigur și pur și simplu bucurați-vă de peisajul alpin.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palais Enzenberg Park",
+            "tip": "A small, often overlooked park, perfect for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Drive through the Tyrolean landscape",
+            "tip": "The short drives between destinations offer beautiful mountain views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the car",
+            "tip": "Pull over in a safe spot and simply enjoy the alpine surroundings.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Shop im Silberbergwerk",
+            "tip": "Finden Sie einzigartigen Silberschmuck und Mineralien."
+          },
+          {
+            "name": "Stadtgalerien Schwaz",
+            "tip": "Ein modernes Einkaufszentrum für alles, was Sie vielleicht vergessen haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bolt az Ezüstbányában",
+            "tip": "Találjon egyedi ezüst ékszereket és ásványokat."
+          },
+          {
+            "name": "Stadtgalerien Schwaz",
+            "tip": "Modern bevásárlóközpont mindenre, amit esetleg elfelejtett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Minei de Argint",
+            "tip": "Găsiți bijuterii unice de argint și minerale."
+          },
+          {
+            "name": "Stadtgalerien Schwaz",
+            "tip": "Un centru comercial modern pentru orice ați fi putut uita."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silver Mine Shop",
+            "tip": "Find unique silver jewelry and minerals."
+          },
+          {
+            "name": "Stadtgalerien Schwaz",
+            "tip": "A modern shopping center for anything you might have forgotten."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren und -zeiten, um Strafzettel zu vermeiden.",
+          "Ein Navigationssystem ist hilfreich, um die Parkplätze und Sehenswürdigkeiten zu finden.",
+          "Die Straßen in der Altstadt sind eng; fahren Sie vorsichtig.",
+          "Beachten Sie, dass die Parkplätze an der Burg Freundsberg begrenzt sind."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat és időket a bírságok elkerülése érdekében.",
+          "Navigációs rendszer segít a parkolók és látnivalók megtalálásában.",
+          "Az óváros utcái szűkek; vezessen óvatosan.",
+          "Vegye figyelembe, hogy a Freundsberg várnál korlátozott a parkolóhelyek száma."
+        ],
+        "ro": [
+          "Verificați taxele și orele de parcare pentru a evita amenzile.",
+          "Un sistem de navigație este util pentru a găsi parcările și atracțiile turistice.",
+          "Străzile din orașul vechi sunt înguste; conduceți cu prudență.",
+          "Rețineți că locurile de parcare de la Castelul Freundsberg sunt limitate."
+        ],
+        "en": [
+          "Check parking fees and times to avoid fines.",
+          "A navigation system is helpful for finding the car parks and sights.",
+          "The streets in the old town are narrow; drive carefully.",
+          "Note that parking at Freundsberg Castle is limited."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof & Bus ins Zentrum",
+            "hu": "Érkezés a pályaudvarra és busz a központba",
+            "ro": "Sosire la gară & Autobuz spre centru",
+            "en": "Arrival at Station & Bus to the Center"
+          },
+          "coords": [
+            11.7065,
+            47.3499
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für das lokale Bussystem für maximale Flexibilität.",
+            "hu": "Vásároljon napijegyet a helyi buszrendszerre a maximális rugalmasság érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru sistemul local de autobuze pentru flexibilitate maximă.",
+            "en": "Buy a day pass for the local bus system for maximum flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt-Cluster zu Fuß: Pfarrkirche & Fuggerhaus",
+            "hu": "Óvárosi klaszter gyalog: Plébániatemplom és Fugger-ház",
+            "ro": "Clusterul Orașul Vechi pe jos: Biserica Parohială & Casa Fugger",
+            "en": "Old Town Cluster on foot: Parish Church & Fugger House"
+          },
+          "coords": [
+            11.7098,
+            47.3478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom zentralen Bus-Stopp aus ist das Herz von Schwaz nur wenige Schritte entfernt.",
+            "hu": "A központi buszmegállótól Schwaz szíve csak néhány lépésre van.",
+            "ro": "De la stația centrală de autobuz, inima orașului Schwaz este la doar câțiva pași.",
+            "en": "From the central bus stop, the heart of Schwaz is just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Völker & Franziskanerkloster",
+            "hu": "Népek Múzeuma és Ferences kolostor",
+            "ro": "Muzeul Popoarelor & Mănăstirea Franciscană",
+            "en": "Museum of Peoples & Franciscan Monastery"
+          },
+          "coords": [
+            11.7126,
+            47.3475
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie von der Weltkunst zur lokalen Spiritualität.",
+            "hu": "Egy rövid séta elvezeti a világművészettől a helyi spiritualitáshoz.",
+            "ro": "O scurtă plimbare vă duce de la arta mondială la spiritualitatea locală.",
+            "en": "A short walk takes you from world art to local spirituality."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zur Burg Freundsberg",
+            "hu": "Busz a Freundsberg várhoz",
+            "ro": "Autobuz spre Castelul Freundsberg",
+            "en": "Bus to Freundsberg Castle"
+          },
+          "coords": [
+            11.7155,
+            47.3445
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein Bus erspart Ihnen den steilen Aufstieg und lässt mehr Energie für die Erkundung der Burg.",
+            "hu": "A busz megkíméli a meredek emelkedőtől, és több energiát hagy a vár felfedezésére.",
+            "ro": "Un autobuz vă scutește de urcușul abrupt și vă lasă mai multă energie pentru a explora castelul.",
+            "en": "A bus saves you the steep climb and leaves more energy for exploring the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Silberbergwerk",
+            "hu": "Busz az Ezüstbányához",
+            "ro": "Autobuz spre Mina de Argint",
+            "en": "Bus to the Silver Mine"
+          },
+          "coords": [
+            11.6969,
+            47.3561
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der letzte Bus des Tages bringt Sie zum krönenden Abschluss Ihrer Schwaz-Tour.",
+            "hu": "A nap utolsó busza elviszi Önt a schwazi túra fénypontjához.",
+            "ro": "Ultimul autobuz al zilei vă duce la punctul culminant al turului dvs. în Schwaz.",
+            "en": "The last bus of the day takes you to the grand finale of your Schwaz tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Schwaz bequem mit den öffentlichen Verkehrsmitteln. Nach der Ankunft am Bahnhof bringt Sie ein Bus direkt ins Zentrum. Hier entdecken Sie den ersten Cluster aus Kirchen und Museen zu Fuß. Am Nachmittag nehmen Sie den Bus, um mühelos die Burg Freundsberg zu erreichen und die Aussicht zu genießen. Ein weiterer Bus bringt Sie schließlich zum berühmten Silberbergwerk, dem Highlight, das die Geschichte von Schwaz geprägt hat.",
+        "hu": "Fedezze fel Schwazt kényelmesen a tömegközlekedéssel. A pályaudvarra érkezés után egy busz egyenesen a központba visz. Itt gyalogosan fedezheti fel az első, templomokból és múzeumokból álló klasztert. Délután busszal könnyedén elérheti a Freundsberg várat, hogy élvezze a kilátást. Végül egy másik busz elviszi a híres ezüstbányához, a fénypontra, amely Schwaz történelmét formálta.",
+        "ro": "Explorați Schwaz confortabil cu transportul public. După sosirea la gară, un autobuz vă duce direct în centru. Aici descoperiți primul cluster de biserici și muzee pe jos. După-amiaza, luați autobuzul pentru a ajunge fără efort la Castelul Freundsberg și a vă bucura de priveliște. Un alt autobuz vă duce în cele din urmă la faimoasa mină de argint, punctul culminant care a modelat istoria orașului Schwaz.",
+        "en": "Explore Schwaz comfortably using public transport. After arriving at the station, a bus takes you directly to the center. Here you'll discover the first cluster of churches and museums on foot. In the afternoon, you take the bus to effortlessly reach Freundsberg Castle and enjoy the view. Another bus finally takes you to the famous silver mine, the highlight that shaped Schwaz's history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei im Zentrum",
+            "tip": "Holen Sie sich ein schnelles, leckeres Gebäck für unterwegs."
+          },
+          {
+            "name": "Tiroler Marend",
+            "tip": "Eine Brotzeit mit Speck, Käse und Wurst – perfekt für ein Picknick."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Ein klassisches Kaffeehaus, um sich aufzuwärmen und den nächsten Bus abzuwarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a központban",
+            "tip": "Vegyen egy gyors, finom péksüteményt útközben."
+          },
+          {
+            "name": "Tiroli uzsonna (Marend)",
+            "tip": "Hidegtál szalonnával, sajttal és kolbásszal – tökéletes egy piknikhez."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Klasszikus kávéház, ahol felmelegedhet és megvárhatja a következő buszt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie în centru",
+            "tip": "Luați un produs de patiserie rapid și delicios pentru drum."
+          },
+          {
+            "name": "Tiroler Marend",
+            "tip": "O gustare cu slănină, brânză și cârnați - perfectă pentru un picnic."
+          },
+          {
+            "name": "Café Central",
+            "tip": "O cafenea clasică pentru a vă încălzi și a aștepta următorul autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in the center",
+            "tip": "Grab a quick, delicious pastry for the road."
+          },
+          {
+            "name": "Tyrolean Marend",
+            "tip": "A snack platter with bacon, cheese, and sausage - perfect for a picnic."
+          },
+          {
+            "name": "Café Central",
+            "tip": "A classic coffee house to warm up and wait for the next bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Während der Busfahrt",
+            "tip": "Schauen Sie aus dem Fenster und genießen Sie die vorbeiziehende Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof",
+            "tip": "Die Friedhöfe um die Kirchen sind oft Oasen der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bank am Innufer",
+            "tip": "Finden Sie eine Bank, während Sie auf den Bus warten, und beobachten Sie das Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás közben",
+            "tip": "Nézzen ki az ablakon, és élvezze az elhaladó tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "A templomok körüli temetők gyakran a béke oázisai.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pad az Inn partján",
+            "tip": "Keressen egy padot, amíg a buszra vár, és nézze a vizet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "În timpul călătoriei cu autobuzul",
+            "tip": "Priviți pe geam și bucurați-vă de peisajul care trece.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea bisericii",
+            "tip": "Cimitirele din jurul bisericilor sunt adesea oaze de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bancă pe malul Innului",
+            "tip": "Găsiți o bancă în timp ce așteptați autobuzul și priviți apa.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "During the bus ride",
+            "tip": "Look out the window and enjoy the passing scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Churchyard",
+            "tip": "The cemeteries around the churches are often oases of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bench on the Inn riverbank",
+            "tip": "Find a bench while waiting for the bus and watch the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Für Last-Minute-Souvenirs oder eine Zeitung für die Rückfahrt."
+          },
+          {
+            "name": "Regionale Produkte",
+            "tip": "Halten Sie Ausschau nach kleinen Geschäften, die Zillertaler Bier oder Tiroler Honig verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a pályaudvaron",
+            "tip": "Last-minute szuvenírekért vagy egy újságért a visszaútra."
+          },
+          {
+            "name": "Regionális termékek",
+            "tip": "Keressen kis boltokat, amelyek Zillertali sört vagy tiroli mézet árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Pentru suveniruri de ultim moment sau un ziar pentru călătoria de întoarcere."
+          },
+          {
+            "name": "Produse regionale",
+            "tip": "Căutați magazine mici care vând bere Zillertal sau miere tiroleză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the station",
+            "tip": "For last-minute souvenirs or a newspaper for the return journey."
+          },
+          {
+            "name": "Regional Products",
+            "tip": "Look for small shops selling Zillertal beer or Tyrolean honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich vorab über den Busfahrplan, um Wartezeiten zu minimieren.",
+          "Eine Tageskarte ist oft günstiger als mehrere Einzelfahrscheine.",
+          "Beachten Sie, dass die Busse am Abend und am Wochenende seltener fahren könnten.",
+          "Winken Sie dem Busfahrer, um sicherzustellen, dass er an Ihrer Haltestelle anhält."
+        ],
+        "hu": [
+          "Előzetesen tájékozódjon a buszmenetrendről a várakozási idők minimalizálása érdekében.",
+          "A napijegy gyakran olcsóbb, mint több vonaljegy.",
+          "Vegye figyelembe, hogy a buszok este és hétvégén ritkábban közlekedhetnek.",
+          "Intsen a buszsofőrnek, hogy biztosan megálljon a megállójában."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans pentru a minimiza timpii de așteptare.",
+          "Un bilet de o zi este adesea mai ieftin decât mai multe bilete individuale.",
+          "Rețineți că autobuzele pot circula mai rar seara și în weekend.",
+          "Faceți semn șoferului de autobuz pentru a vă asigura că oprește la stația dvs."
+        ],
+        "en": [
+          "Check the bus schedule in advance to minimize waiting times.",
+          "A day pass is often cheaper than multiple single tickets.",
+          "Be aware that buses may run less frequently in the evening and on weekends.",
+          "Wave to the bus driver to ensure they stop at your stop."
+        ]
+      }
+    }
+  }
+}

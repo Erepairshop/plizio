@@ -1,0 +1,1172 @@
+{
+  "city_id": "latvia-talsi-cities-v2",
+  "anchor": {
+    "name": "Talsi",
+    "coords": [
+      22.5925,
+      57.2458
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Altes Stadtzentrum",
+          "coords": [
+            22.5925,
+            57.2458
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für einen Morgenkaffee in den kopfsteingepflasterten Gassen.",
+            "hu": "Tökéletes egy reggeli kávéhoz a macskaköves utcákon.",
+            "ro": "Perfect pentru o cafea de dimineață pe străzile pietruite.",
+            "en": "Perfect for a morning coffee in the cobblestone streets."
+          }
+        },
+        {
+          "name": "Lutherische Kirche Talsi",
+          "coords": [
+            22.593,
+            57.2465
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Turm bietet einen tollen Blick über die Stadt.",
+            "hu": "A toronyból remek kilátás nyílik a városra.",
+            "ro": "Turnul oferă o priveliște minunată asupra orașului.",
+            "en": "The tower offers a great view over the city."
+          }
+        },
+        {
+          "name": "Burgberg von Talsi",
+          "coords": [
+            22.594,
+            57.247
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Geschichtsträchtiger Ort der alten Kuren.",
+            "hu": "Történelmi jelentőségű helyszín, a kurok ősi vára.",
+            "ro": "Loc plin de istorie al vechilor curonieni.",
+            "en": "Historic site of the ancient Curonians."
+          }
+        },
+        {
+          "name": "Regionalmuseum Talsi",
+          "coords": [
+            22.589,
+            57.248
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Interessante Einblicke in die regionale Kultur.",
+            "hu": "Érdekes betekintés a regionális kultúrába és történelembe.",
+            "ro": "Informații interesante despre cultura regională.",
+            "en": "Interesting insights into regional culture and history."
+          }
+        },
+        {
+          "name": "Haus der Töpfer",
+          "coords": [
+            22.59,
+            57.247
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lokale Handwerkskunst direkt zum Mitnehmen.",
+            "hu": "Helyi kézműves termékek, amelyeket meg is vásárolhatsz.",
+            "ro": "Artizanat local direct pentru a lua cu tine.",
+            "en": "Local crafts available for purchase."
+          }
+        },
+        {
+          "name": "Talsi-See",
+          "coords": [
+            22.591,
+            57.244
+          ],
+          "category": "lake",
+          "arrive_at": "15:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein gemütlicher Spaziergang entlang der Uferpromenade schließt den Tag ab.",
+            "hu": "Egy kellemes séta a tóparti sétányon zárja a napot.",
+            "ro": "O plimbare plăcută de-a lungul promenadei încheie ziua.",
+            "en": "A leisurely stroll along the promenade ends the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Talsi, wo Sie die charmante Altstadt erkunden und die historische Kirche sowie den Burgberg besuchen. Zur Mittagszeit tauchen Sie im Regionalmuseum tief in die Kultur der Stadt ein. Am Nachmittag entdecken Sie traditionelle Keramikkunst im Haus der Töpfer. Der Tag klingt mit einem entspannten Spaziergang am malerischen Talsi-See aus.",
+        "hu": "A reggel Talsi szívében indul, ahol felfedezheti a bájos óvárost, valamint a történelmi templomot és a várhegyet. Ebédidőben a helyi múzeumban merülhet el a régió kultúrájában. Délután a hagyományos fazekasmesterséggel ismerkedhet meg a kézműves házban. A nap a festői Talsi-tó partján tett pihentető sétával zárul.",
+        "ro": "Dimineața începe în inima orașului Talsi, unde veți explora centrul vechi fermecător, alături de biserica istorică și dealul cetății. La prânz, veți aprofunda cultura locală la muzeul regional. După-amiaza veți descoperi ceramica tradițională la casa olarilor. Ziua se încheie cu o plimbare relaxantă pe malul lacului pitoresc Talsi.",
+        "en": "The morning begins in the heart of Talsi, exploring the charming old town, the historic church, and the castle hill. At lunchtime, delve into regional culture at the local museum. In the afternoon, discover traditional pottery at the craftsman's house. The day concludes with a relaxing stroll along the picturesque Lake Talsi."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kurische Küche",
+            "tip": "Probieren Sie regionale Fischgerichte in der Altstadt."
+          },
+          {
+            "name": "Bäckereien am See",
+            "tip": "Frische lettische Backwaren mit Seeblick genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kur konyha",
+            "tip": "Kóstolja meg a regionális halételeket az óvárosban."
+          },
+          {
+            "name": "Tóparti pékségek",
+            "tip": "Élvezze a friss lett pékárukat tóra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bucătăria curoniană",
+            "tip": "Încercați preparatele regionale din pește în orașul vechi."
+          },
+          {
+            "name": "Brutării lângă lac",
+            "tip": "Bucurați-vă de produse de patiserie proaspete letone cu vedere la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Curonian Cuisine",
+            "tip": "Try regional fish dishes in the old town."
+          },
+          {
+            "name": "Lakefront Bakeries",
+            "tip": "Enjoy fresh Latvian pastries with a lake view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Talsi-See Ufer",
+            "tip": "Ruhiger Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Burgberg",
+            "tip": "Panoramablick über die neun Hügel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Talsi-tó partja",
+            "tip": "Csendes hely a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Várhegy",
+            "tip": "Panorámakilátás a város kilenc dombjára.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Talsi",
+            "tip": "Loc liniștit pentru apusul soarelui.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dealul Cetății",
+            "tip": "Vedere panoramică asupra celor nouă dealuri.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Talsi Shore",
+            "tip": "Quiet spot for sunset watching.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Castle Hill",
+            "tip": "Panoramic view over the nine hills.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Haus der Töpfer",
+            "tip": "Traditionelle lettische Keramik als Souvenir."
+          },
+          {
+            "name": "Marktplatz",
+            "tip": "Lokale Produkte und Handwerksarbeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fazekasház",
+            "tip": "Hagyományos lett kerámiák ajándéknak."
+          },
+          {
+            "name": "Piactér",
+            "tip": "Helyi termékek és kézműves alkotások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casa Olarilor",
+            "tip": "Ceramică letonă tradițională ca suvenir."
+          },
+          {
+            "name": "Piața",
+            "tip": "Produse locale și obiecte de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "House of Potters",
+            "tip": "Traditional Latvian ceramics as souvenirs."
+          },
+          {
+            "name": "Market Square",
+            "tip": "Local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Talsi ist auf neun Hügeln erbaut, gutes Schuhwerk ist wichtig.",
+          "Die Altstadt lässt sich am besten zu Fuß erkunden.",
+          "Am See finden im Sommer oft kleine Konzerte statt.",
+          "Planen Sie etwas Zeit für einen Besuch in einem der Cafés ein."
+        ],
+        "hu": [
+          "Talsi kilenc dombra épült, így kényelmes cipő javasolt.",
+          "Az óvárost a legjobb gyalogosan bejárni.",
+          "Nyáron gyakran tartanak kis koncerteket a tóparton.",
+          "Szánjon időt egy helyi kávézó felkeresésére is."
+        ],
+        "ro": [
+          "Talsi este construit pe nouă dealuri, deci încălțămintea confortabilă este esențială.",
+          "Centrul vechi este cel mai bine de explorat pe jos.",
+          "Vara au loc adesea mici concerte lângă lac.",
+          "Planificați timp pentru a vizita o cafenea locală."
+        ],
+        "en": [
+          "Talsi is built on nine hills, so comfortable walking shoes are essential.",
+          "The old town is best explored on foot.",
+          "Small concerts are often held by the lake in summer.",
+          "Plan some time to visit a local cafe."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Altes Stadtzentrum",
+          "coords": [
+            22.5925,
+            57.2458
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Vorsicht auf dem Kopfsteinpflaster mit dem Fahrrad.",
+            "hu": "Óvatosan biciklizzen a macskaköves részeken.",
+            "ro": "Aveți grijă pe străzile pietruite cu bicicleta.",
+            "en": "Be careful on the cobblestones with your bike."
+          }
+        },
+        {
+          "name": "Talsi-See",
+          "coords": [
+            22.591,
+            57.244
+          ],
+          "category": "lake",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schöne Radwege entlang des Ufers.",
+            "hu": "Kellemes kerékpárutak a tó partján.",
+            "ro": "Piste frumoase de biciclete de-a lungul malului.",
+            "en": "Nice bike paths along the shore."
+          }
+        },
+        {
+          "name": "Burgberg von Talsi",
+          "coords": [
+            22.594,
+            57.247
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kurzer, aber knackiger Anstieg zum Hügel.",
+            "hu": "Rövid, de meredek emelkedő a dombra.",
+            "ro": "Urcare scurtă, dar abruptă pe deal.",
+            "en": "Short but steep climb to the hill."
+          }
+        },
+        {
+          "name": "Regionalmuseum Talsi",
+          "coords": [
+            22.589,
+            57.248
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Gute Abstellmöglichkeiten für Fahrräder vor dem Museum.",
+            "hu": "Jó kerékpártárolási lehetőségek a múzeum előtt.",
+            "ro": "Opțiuni bune de parcare pentru biciclete în fața muzeului.",
+            "en": "Good bicycle parking available in front of the museum."
+          }
+        },
+        {
+          "name": "Dendrologischer Kreis",
+          "coords": [
+            22.585,
+            57.25
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine Pause im Grünen.",
+            "hu": "Tökéletes helyszín egy zöldövezeti pihenőhöz.",
+            "ro": "Locul perfect pentru o pauză în natură.",
+            "en": "Perfect place for a break in the green."
+          }
+        },
+        {
+          "name": "Tiguli-Hügel",
+          "coords": [
+            22.588,
+            57.251
+          ],
+          "category": "natural features",
+          "arrive_at": "16:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein letzter malerischer Ausblick über die Umgebung.",
+            "hu": "Egy utolsó festői kilátás a környékre.",
+            "ro": "O ultimă priveliște pitorească asupra împrejurimilor.",
+            "en": "A final picturesque view over the surroundings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour in der charmanten Altstadt von Talsi und fahren Sie entspannt entlang des Talsi-Sees. Danach erklimmen Sie den Burgberg für einen historischen Überblick. Am Mittag besuchen Sie das Regionalmuseum und fahren am Nachmittag weiter in die grüne Oase des Dendrologischen Kreises. Zum Abschluss genießen Sie den weiten Blick vom Tiguli-Hügel.",
+        "hu": "Kezdje a kerékpártúrát Talsi bájos óvárosában, majd tekerjen nyugodtan a Talsi-tó mentén. Ezt követően mássza meg a várhegyet egy történelmi áttekintésért. Délben látogasson el a regionális múzeumba, majd délután folytassa útját a Dendrológiai Park zöld oázisába. Végül élvezze a tágas kilátást a Tiguli-dombról.",
+        "ro": "Începeți turul cu bicicleta în fermecătorul oraș vechi Talsi și mergeți relaxat de-a lungul lacului. Apoi, urcați pe dealul cetății pentru o privire istorică. La prânz vizitați muzeul regional, iar după-amiaza mergeți mai departe spre oaza verde a Parcului Dendrologic. În încheiere, bucurați-vă de vederea largă de pe dealul Tiguli.",
+        "en": "Start your bike tour in the charming old town of Talsi and ride relaxedly along Lake Talsi. Then climb the castle hill for a historic overview. At noon, visit the regional museum and continue in the afternoon to the green oasis of the Dendrological Park. Finally, enjoy the sweeping view from Tiguli Hill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick im Park",
+            "tip": "Nehmen Sie Snacks mit zum Dendrologischen Kreis."
+          },
+          {
+            "name": "Lokale Cafés",
+            "tip": "Genießen Sie lettische Spezialitäten nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a parkban",
+            "tip": "Vigyen magával nasit a Dendrológiai Parkba."
+          },
+          {
+            "name": "Helyi kávézók",
+            "tip": "Élvezze a lett specialitásokat a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic în parc",
+            "tip": "Luați gustări cu voi la Parcul Dendrologic."
+          },
+          {
+            "name": "Cafenele locale",
+            "tip": "Bucurați-vă de specialitățile letone după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic in the park",
+            "tip": "Bring snacks to the Dendrological Park."
+          },
+          {
+            "name": "Local cafes",
+            "tip": "Enjoy Latvian specialties after your bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dendrologischer Kreis",
+            "tip": "Ruhiger Park abseits des Stadttrubels.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tiguli-Hügel",
+            "tip": "Friedlicher Aussichtspunkt in der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dendrológiai Park",
+            "tip": "Csendes park távol a város zajától.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tiguli-domb",
+            "tip": "Békés kilátópont a természetben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Dendrologic",
+            "tip": "Parc liniștit departe de agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dealul Tiguli",
+            "tip": "Punct de belvedere pașnic în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dendrological Park",
+            "tip": "Quiet park away from the city hustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tiguli Hill",
+            "tip": "Peaceful viewpoint in nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionaler Markt",
+            "tip": "Frisches Obst für die Radtour."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Lokale Souvenirs in der Nähe des Museums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss gyümölcsök a kerékpártúrához."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Helyi ajándéktárgyak a múzeum közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața regională",
+            "tip": "Fructe proaspete pentru turul cu bicicleta."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Suveniruri locale lângă muzeu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional Market",
+            "tip": "Fresh fruit for the bike ride."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Local souvenirs near the museum."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die hügelige Landschaft erfordert etwas Kondition.",
+          "Nutzen Sie die Nebenstraßen für mehr Sicherheit.",
+          "Ein Fahrradschloss ist bei Museumsbesuchen empfehlenswert.",
+          "Packen Sie ausreichend Wasser ein."
+        ],
+        "hu": [
+          "A dombos vidék megkövetel némi állóképességet.",
+          "Használja a mellékutcákat a nagyobb biztonság érdekében.",
+          "Múzeumi látogatáskor kerékpárzár használata ajánlott.",
+          "Csomagoljon elegendő ivóvizet."
+        ],
+        "ro": [
+          "Peisajul deluros necesită puțină rezistență fizică.",
+          "Folosiți drumurile lăturalnice pentru mai multă siguranță.",
+          "Un lacăt pentru bicicletă este recomandat la vizitarea muzeelor.",
+          "Împachetați suficientă apă."
+        ],
+        "en": [
+          "The hilly landscape requires some stamina.",
+          "Use side streets for more safety.",
+          "A bike lock is recommended when visiting museums.",
+          "Pack plenty of water."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Altes Stadtzentrum",
+          "coords": [
+            22.5925,
+            57.2458
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zentral am Markt, um das Zentrum zu Fuß zu erkunden.",
+            "hu": "Parkoljon központilag a piacon, hogy gyalogosan fedezze fel a belvárost.",
+            "ro": "Parcați central la piață pentru a explora centrul pe jos.",
+            "en": "Park centrally at the market to explore the center on foot."
+          }
+        },
+        {
+          "name": "Lutherische Kirche Talsi",
+          "coords": [
+            22.593,
+            57.2465
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Kirche liegt direkt neben der Altstadt, lassen Sie das Auto stehen.",
+            "hu": "A templom közvetlenül az óváros mellett található, hagyja a kocsit parkolva.",
+            "ro": "Biserica este chiar lângă centrul vechi, lăsați mașina parcata.",
+            "en": "The church is right next to the old town, leave the car parked."
+          }
+        },
+        {
+          "name": "Burgberg von Talsi",
+          "coords": [
+            22.594,
+            57.247
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Zentrum bringt Sie hinauf zum Burgberg.",
+            "hu": "Egy rövid séta a központból felvisz a várhegyre.",
+            "ro": "O scurtă plimbare din centru vă duce sus pe dealul cetății.",
+            "en": "A short walk from the center takes you up to the castle hill."
+          }
+        },
+        {
+          "name": "Regionalmuseum Talsi",
+          "coords": [
+            22.589,
+            57.248
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ein kurzes Stück zum Museum und nutzen Sie den dortigen Parkplatz.",
+            "hu": "Vezessen egy rövidet a múzeumhoz, és használja az ottani parkolót.",
+            "ro": "Conduceți puțin până la muzeu și folosiți parcarea de acolo.",
+            "en": "Drive a short distance to the museum and use the parking there."
+          }
+        },
+        {
+          "name": "Dendrologischer Kreis",
+          "coords": [
+            22.585,
+            57.25
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Museum aus leicht zu Fuß erreichbar, genießen Sie die Natur.",
+            "hu": "A múzeumtól könnyen megközelíthető gyalog, élvezze a természetet.",
+            "ro": "Ușor accesibil pe jos de la muzeu, bucurați-vă de natură.",
+            "en": "Easily accessible on foot from the museum, enjoy nature."
+          }
+        },
+        {
+          "name": "Tiguli-Hügel",
+          "coords": [
+            22.588,
+            57.251
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 12.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie für den weiten Panoramablick zum letzten Highlight des Tages.",
+            "hu": "Vezessen a tágas panorámáért a nap utolsó látványosságához.",
+            "ro": "Conduceți pentru vederea panoramică către ultimul punct de atracție al zilei.",
+            "en": "Drive for the panoramic view to the final highlight of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Ausflug beginnt im Herzen von Talsi. Parken Sie Ihr Auto zentral und erkunden Sie die Altstadt, die Lutherische Kirche und den Burgberg bequem zu Fuß. Gegen Mittag fahren Sie kurz zum Regionalmuseum, um sich kulturell inspirieren zu lassen. Anschließend spazieren Sie entspannt durch den Dendrologischen Kreis. Am späten Nachmittag fahren Sie zum Tiguli-Hügel und genießen dort einen herrlichen Panoramablick.",
+        "hu": "A kirándulás Talsi szívében kezdődik. Parkoljon le a központban, és fedezze fel az óvárost, az evangélikus templomot és a várhegyet kényelmesen, gyalogosan. Ebédidőben vezessen át a regionális múzeumhoz egy kulturális látogatásra. Ezután sétáljon egyet a Dendrológiai Park zöldjében. Késő délután kocsikázzon el a Tiguli-dombhoz, ahonnan csodálatos panoráma tárul a szeme elé.",
+        "ro": "Excursia dumneavoastră începe în inima orașului Talsi. Parcați mașina central și explorați centrul vechi, Biserica Luterană și Dealul Cetății confortabil pe jos. Spre prânz conduceți scurt până la muzeul regional pentru o doză de cultură. Apoi plimbați-vă relaxat prin Parcul Dendrologic. După-amiaza târziu conduceți spre Dealul Tiguli pentru a admira o panoramă superbă.",
+        "en": "Your trip begins in the heart of Talsi. Park your car centrally and explore the old town, the Lutheran Church, and the castle hill comfortably on foot. Around noon, drive a short distance to the regional museum for some cultural inspiration. Afterwards, take a relaxing walk through the Dendrological Park. In the late afternoon, drive to Tiguli Hill to enjoy a magnificent panoramic view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zentrum Cafés",
+            "tip": "Ideal für eine Mittagspause im ersten Fußgänger-Cluster."
+          },
+          {
+            "name": "Museums-Bistro",
+            "tip": "Kleinere Snacks nach dem kulturellen Besuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi kávézók",
+            "tip": "Ideális egy ebédszünethez az első sétafürtben."
+          },
+          {
+            "name": "Múzeumi bisztró",
+            "tip": "Kisebb falatok a kulturális látogatás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele centrale",
+            "tip": "Ideal pentru pauza de prânz în primul grup de atracții explorat pe jos."
+          },
+          {
+            "name": "Bistroul muzeului",
+            "tip": "Gustări mici după vizita culturală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Center Cafes",
+            "tip": "Ideal for a lunch break in the first pedestrian cluster."
+          },
+          {
+            "name": "Museum Bistro",
+            "tip": "Small snacks after the cultural visit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dendrologischer Kreis",
+            "tip": "Ein grüner Rückzugsort vor der Weiterfahrt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tiguli-Hügel",
+            "tip": "Ruhiger Blick über die Landschaft am Abend.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dendrológiai Park",
+            "tip": "Zöldellő menedék a továbbjutás előtt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tiguli-domb",
+            "tip": "Nyugodt kilátás a tájra az esti órákban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Dendrologic",
+            "tip": "Un refugiu verde înainte de a conduce mai departe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dealul Tiguli",
+            "tip": "Vedere liniștită asupra peisajului seara.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dendrological Park",
+            "tip": "A green retreat before driving further.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tiguli Hill",
+            "tip": "Quiet view over the landscape in the evening.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden am Markt",
+            "tip": "Praktisch direkt neben dem ersten Parkplatz."
+          },
+          {
+            "name": "Haus der Töpfer",
+            "tip": "Auf dem Weg mit dem Auto gut erreichbar für lokale Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírboltok a piacon",
+            "tip": "Praktikusan az első parkoló mellett találhatók."
+          },
+          {
+            "name": "Fazekasház",
+            "tip": "Autóval könnyen elérhető útba eső megálló a helyi kerámiákért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri la piață",
+            "tip": "Practic chiar lângă prima parcare."
+          },
+          {
+            "name": "Casa Olarilor",
+            "tip": "Ușor accesibil cu mașina pentru ceramica locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops at the market",
+            "tip": "Practically right next to the first parking lot."
+          },
+          {
+            "name": "House of Potters",
+            "tip": "Easily accessible by car for local ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fassen Sie nahegelegene Ziele zusammen und lassen Sie das Auto stehen.",
+          "Achten Sie auf die Parkregeln in der Altstadt.",
+          "Die Straßen um die Hügel können im Winter rutschig sein.",
+          "Nutzen Sie die Fahrtzeiten, um die Landschaft zu bewundern."
+        ],
+        "hu": [
+          "Csoportosítsa a közeli célpontokat, és egy parkolásból járja be őket.",
+          "Ügyeljen a parkolási szabályokra az óvárosban.",
+          "A dombok körüli utak télen csúszósak lehetnek.",
+          "Használja ki az autózás idejét a táj csodálatára."
+        ],
+        "ro": [
+          "Grupați obiectivele apropiate și lăsați mașina parcată.",
+          "Atenție la regulile de parcare în centrul vechi.",
+          "Drumurile din jurul dealurilor pot fi alunecoase iarna.",
+          "Folosiți timpul de condus pentru a admira peisajul."
+        ],
+        "en": [
+          "Group nearby destinations together and leave the car parked.",
+          "Pay attention to the parking rules in the old town.",
+          "The roads around the hills can be slippery in winter.",
+          "Use the driving times to admire the scenery."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Altes Stadtzentrum",
+          "coords": [
+            22.5925,
+            57.2458
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt, ideal als Startpunkt.",
+            "hu": "Központi buszcsomópont, ideális kiindulópont.",
+            "ro": "Nod central de autobuz, ideal ca punct de plecare.",
+            "en": "Central bus hub, ideal starting point."
+          }
+        },
+        {
+          "name": "Lutherische Kirche Talsi",
+          "coords": [
+            22.593,
+            57.2465
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bequem zu Fuß vom Zentrum aus zu erreichen.",
+            "hu": "A központból kényelmesen megközelíthető gyalog.",
+            "ro": "Ușor accesibil pe jos din centru.",
+            "en": "Easily accessible on foot from the center."
+          }
+        },
+        {
+          "name": "Talsi-See",
+          "coords": [
+            22.591,
+            57.244
+          ],
+          "category": "lake",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein erholsamer Spaziergang nach dem Kirchenbesuch.",
+            "hu": "Egy pihentető séta a templomlátogatás után.",
+            "ro": "O plimbare relaxantă după vizitarea bisericii.",
+            "en": "A relaxing walk after visiting the church."
+          }
+        },
+        {
+          "name": "Regionalmuseum Talsi",
+          "coords": [
+            22.589,
+            57.248
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Bus, um in den Nordteil zu gelangen.",
+            "hu": "Használja a helyi buszt, hogy eljusson az északi részre.",
+            "ro": "Folosiți autobuzul local pentru a ajunge în partea de nord.",
+            "en": "Use the local bus to reach the northern part."
+          }
+        },
+        {
+          "name": "Haus der Töpfer",
+          "coords": [
+            22.59,
+            57.247
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt um die Ecke vom Museum.",
+            "hu": "Közvetlenül a múzeum szomszédságában.",
+            "ro": "Chiar după colț de muzeu.",
+            "en": "Right around the corner from the museum."
+          }
+        },
+        {
+          "name": "Dendrologischer Kreis",
+          "coords": [
+            22.585,
+            57.25
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt bringt Sie ins Grüne.",
+            "hu": "Egy rövid buszút kiviszi a zöldbe.",
+            "ro": "O scurtă călătorie cu autobuzul vă aduce în natură.",
+            "en": "A short bus ride takes you to the greenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag zentral in der Altstadt, die Sie wunderbar zu Fuß erkunden können, inklusive der historischen Kirche. Nach einem entspannten Spaziergang am Talsi-See steigen Sie in den Bus, um das Regionalmuseum zu besuchen. Im gleichen Viertel entdecken Sie auch das Haus der Töpfer. Den Tag runden Sie mit einer kurzen Fahrt zum Dendrologischen Kreis ab, wo Sie die Natur genießen.",
+        "hu": "Indítsa a napot az óváros központjában, amelyet remekül bejárhat gyalog, beleértve a történelmi templomot is. Egy pihentető séta után a Talsi-tó partján szálljon buszra, hogy meglátogassa a regionális múzeumot. Ugyanebben a negyedben fedezheti fel a fazekasházat is. A napot egy rövid utazással zárja a Dendrológiai Parkba, ahol a természet lágy ölén pihenhet.",
+        "ro": "Începeți ziua central în orașul vechi, pe care îl puteți explora de minune pe jos, inclusiv biserica istorică. După o plimbare relaxantă lângă lacul Talsi luați autobuzul pentru a vizita muzeul regional. În același cartier descoperiți și casa olarilor. Ziua se încheie cu o scurtă călătorie către Parcul Dendrologic, unde vă puteți bucura de natură.",
+        "en": "Start your day centrally in the old town, which is wonderful to explore on foot, including the historic church. After a relaxing stroll by Lake Talsi, take the bus to visit the regional museum. In the same neighborhood, you'll also discover the house of potters. Round off the day with a short ride to the Dendrological Park, where you can enjoy nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei im Zentrum",
+            "tip": "Perfekt für einen Snack vor der ersten Busfahrt."
+          },
+          {
+            "name": "Museumscafé",
+            "tip": "Ideal für eine Stärkung nach der Kultureinrichtung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi pékség",
+            "tip": "Tökéletes egy harapnivalóhoz az első buszút előtt."
+          },
+          {
+            "name": "Múzeumi kávézó",
+            "tip": "Ideális felfrissülés a kulturális intézmény látogatása után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie în centru",
+            "tip": "Perfect pentru o gustare înainte de prima cursă cu autobuzul."
+          },
+          {
+            "name": "Cafeneaua muzeului",
+            "tip": "Ideală pentru revigorare după vizita culturală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in the center",
+            "tip": "Perfect for a snack before the first bus ride."
+          },
+          {
+            "name": "Museum cafe",
+            "tip": "Ideal for a refreshment after the cultural institution."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Talsi-See Promenade",
+            "tip": "Ruhige Momente am Wasser.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Dendrologischer Kreis",
+            "tip": "Entspannung umgeben von Bäumen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Talsi-tó sétánya",
+            "tip": "Csendes pillanatok a vízparton.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Dendrológiai Park",
+            "tip": "Pihenés a fák ölelésében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Lacului Talsi",
+            "tip": "Momente liniștite lângă apă.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Parcul Dendrologic",
+            "tip": "Relaxare înconjurat de copaci.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Talsi Promenade",
+            "tip": "Quiet moments by the water.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Dendrological Park",
+            "tip": "Relaxation surrounded by trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz",
+            "tip": "Lokale Produkte nahe der Bushaltestelle."
+          },
+          {
+            "name": "Haus der Töpfer",
+            "tip": "Einzigartiges lokales Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piactér",
+            "tip": "Helyi termékek a buszmegálló közelében."
+          },
+          {
+            "name": "Fazekasház",
+            "tip": "Egyedi helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața",
+            "tip": "Produse locale lângă stația de autobuz."
+          },
+          {
+            "name": "Casa Olarilor",
+            "tip": "Artizanat local unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square",
+            "tip": "Local produce near the bus stop."
+          },
+          {
+            "name": "House of Potters",
+            "tip": "Unique local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Busfahrpläne vorab, da die Taktung geringer sein kann.",
+          "Ein Tagesticket lohnt sich für die Fahrten zwischen den Vierteln.",
+          "Das Zentrum lässt sich am besten als fußgängerfreundliches Cluster erleben.",
+          "Haben Sie immer etwas Kleingeld für die Busse parat."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendeket, mivel ritkábban járhatnak.",
+          "Egy napijegy megéri a negyedek közötti utazásokhoz.",
+          "A központot egy összefüggő sétaövezetként érdemes bejárni.",
+          "Mindig tartson magánál némi aprópénzt a buszokra."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor în avans, deoarece frecvența poate fi redusă.",
+          "Un abonament de o zi merită pentru călătoriile între cartiere.",
+          "Centrul este cel mai bine de experimentat ca o zonă pietonală unificată.",
+          "Aveți întotdeauna ceva mărunt la dumneavoastră pentru autobuze."
+        ],
+        "en": [
+          "Check bus schedules in advance, as the frequency may be lower.",
+          "A day ticket is worth it for journeys between districts.",
+          "The center is best experienced as a pedestrian-friendly cluster.",
+          "Always have some small change ready for the buses."
+        ]
+      }
+    }
+  }
+}

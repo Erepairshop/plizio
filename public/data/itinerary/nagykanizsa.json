@@ -1,0 +1,1324 @@
+{
+  "city_id": "nagykanizsa",
+  "anchor": {
+    "name": "Erzsébet tér",
+    "coords": [
+      16.9911,
+      46.45
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 2.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Elisabethplatz",
+            "hu": "Erzsébet tér",
+            "ro": "Piața Elisabeta",
+            "en": "Elizabeth Square"
+          },
+          "coords": [
+            16.9911,
+            46.45
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Indítsd a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Weltkriegsdenkmal",
+            "hu": "Világháborús emlékmű",
+            "ro": "Memorialul Primului Război Mondial",
+            "en": "World War I Memorial"
+          },
+          "coords": [
+            16.9921,
+            46.451
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:39",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Moment des Innehaltens, um der Geschichte der Stadt zu gedenken.",
+            "hu": "Egy csendes pillanat a város történelmére emlékezve.",
+            "ro": "Un moment de reculegere pentru a comemora istoria orașului.",
+            "en": "A moment of reflection to commemorate the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge",
+            "hu": "Zsinagóga",
+            "ro": "Sinagoga",
+            "en": "Synagogue"
+          },
+          "coords": [
+            16.9938,
+            46.4532
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und die restaurierte Fassade des Gebäudes.",
+            "hu": "Csodáld meg az épület építészetét és felújított homlokzatát!",
+            "ro": "Admirați arhitectura și fațada restaurată a clădirii.",
+            "en": "Admire the building's architecture and its restored facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenmann-Haus",
+            "hu": "Eisenmann-ház",
+            "ro": "Casa Eisenmann",
+            "en": "Eisenmann House"
+          },
+          "coords": [
+            16.9905,
+            46.4525
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die bürgerliche Architektur der Stadt.",
+            "hu": "A városi polgári építészet szép példája.",
+            "ro": "Un exemplu frumos de arhitectură burgheză a orașului.",
+            "en": "A fine example of the city's bourgeois architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Thúry-György-Museum",
+            "hu": "Thúry György Múzeum",
+            "ro": "Muzeul Thúry György",
+            "en": "Thúry György Museum"
+          },
+          "coords": [
+            16.9932,
+            46.4555
+          ],
+          "category": "museums",
+          "arrive_at": "11:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die reiche Geschichte der Region zu entdecken.",
+            "hu": "Szánj elég időt a régió gazdag történelmének felfedezésére!",
+            "ro": "Planificați suficient timp pentru a descoperi istoria bogată a regiunii.",
+            "en": "Plan enough time to discover the rich history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Unterstadt-Kirche",
+            "hu": "Alsóvárosi templom",
+            "ro": "Biserica din Orașul de Jos",
+            "en": "Lower Town Church"
+          },
+          "coords": [
+            16.985,
+            46.458
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, der sich für die ruhige Atmosphäre lohnt.",
+            "hu": "Megéri a rövid sétát a békés hangulatért.",
+            "ro": "O scurtă plimbare care merită pentru atmosfera sa liniștită.",
+            "en": "A short walk that is well worth it for the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Sándor Hevesi",
+            "hu": "Hevesi Sándor Művelődési Központ",
+            "ro": "Centrul Cultural Sándor Hevesi",
+            "en": "Sándor Hevesi Cultural Centre"
+          },
+          "coords": [
+            16.9895,
+            46.4542
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:18",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Abendprogramm, vielleicht gibt es eine interessante Vorstellung.",
+            "hu": "Nézd meg az esti programot, hátha van egy érdekes előadás!",
+            "ro": "Verificați programul de seară, s-ar putea să fie un spectacol interesant.",
+            "en": "Check the evening's schedule, there might be an interesting performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am lebhaften Erzsébet-Platz, dem Herzen von Nagykanizsa. Von dort aus erkunden Sie die nahegelegenen historischen Denkmäler und die beeindruckende Synagoge, die von der reichen Vergangenheit der Stadt zeugen. Am Mittag tauchen Sie im Thúry-György-Museum tief in die lokale Geschichte ein. Die umfangreiche Sammlung bietet faszinierende Einblicke. Nach dem Museumsbesuch führt Sie ein Spaziergang zur ruhigen Unterstadt-Kirche, einem Ort der Stille. Beenden Sie Ihren Tag am Kulturzentrum Sándor Hevesi und genießen Sie das kulturelle Flair der Stadt, bevor Sie sich ein wohlverdientes Abendessen gönnen.",
+        "hu": "Sétádat Nagykanizsa szívében, a nyüzsgő Erzsébet téren kezdd. Innen fedezd fel a közeli történelmi emlékműveket és a lenyűgöző Zsinagógát, melyek a város gazdag múltjáról tanúskodnak. Délben merülj el a helyi történelemben a Thúry György Múzeumban. A kiterjedt gyűjtemény lenyűgöző betekintést nyújt. A múzeumlátogatás után egy séta vezet a békés Alsóvárosi templomhoz, a csendesség szigetéhez. Zárd a napot a Hevesi Sándor Művelődési Központnál, élvezve a város kulturális hangulatát, mielőtt elfogyasztanál egy jól megérdemelt vacsorát.",
+        "ro": "Începeți plimbarea în vibranta Piață Elisabeta, inima orașului Nagykanizsa. De acolo, explorați monumentele istorice din apropiere și impresionanta Sinagogă, mărturii ale trecutului bogat al orașului. La amiază, aprofundați istoria locală la Muzeul Thúry György. Colecția sa vastă oferă perspective fascinante. După vizita la muzeu, o plimbare vă duce la liniștita Biserică din Orașul de Jos, un loc de reculegere. Încheiați ziua la Centrul Cultural Sándor Hevesi, bucurându-vă de atmosfera culturală a orașului înainte de o cină binemeritată.",
+        "en": "Start your walk in the vibrant Elizabeth Square, the heart of Nagykanizsa. From there, explore the nearby historical monuments and the impressive Synagogue, which testify to the city's rich past. At midday, delve deep into local history at the Thúry György Museum. Its extensive collection offers fascinating insights. After the museum visit, a walk takes you to the peaceful Lower Town Church, a place of tranquility. End your day at the Sándor Hevesi Cultural Centre, enjoying the city's cultural flair before a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dödölle (Kartoffelsterz)",
+            "tip": "Ein Muss in der Region Zala, probieren Sie es im 'Kanizsa Csárda'."
+          },
+          {
+            "name": "Hirschgulasch",
+            "tip": "Die umliegenden Wälder liefern hervorragendes Wild, perfekt für ein herzhaftes Gulasch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dödölle",
+            "tip": "Zala megyei specialitás, amit a 'Kanizsa Csárdában' érdemes megkóstolni."
+          },
+          {
+            "name": "Szarvaspörkölt",
+            "tip": "A környező erdők kiváló vadhúst adnak, tökéletes egy kiadós pörkölthöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dödölle (găluște de cartofi)",
+            "tip": "O specialitate din regiunea Zala, încercați-o la 'Kanizsa Csárda'."
+          },
+          {
+            "name": "Tocăniță de cerb",
+            "tip": "Pădurile din jur oferă un vânat excelent, perfect pentru o tocăniță consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dödölle (potato dumplings)",
+            "tip": "A must-try specialty of Zala county, sample it at 'Kanizsa Csárda'."
+          },
+          {
+            "name": "Deer Stew",
+            "tip": "The surrounding forests provide excellent game meat, perfect for a hearty stew."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Bootsteichs",
+            "tip": "Ein wenig außerhalb des Zentrums, aber perfekt für eine ruhige Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten der Unterstadt-Kirche",
+            "tip": "Ein kleiner, friedlicher Ort, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csónakázó-tó partja",
+            "tip": "Kicsit kiesik a központból, de tökéletes egy csendes pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Alsóvárosi templom kertje",
+            "tip": "Egy kis, békés hely a város zajától távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Lacului de agrement",
+            "tip": "Puțin în afara centrului, dar perfect pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Bisericii din Orașul de Jos",
+            "tip": "Un loc mic și pașnic pentru a scăpa de agitația orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of the Boating Lake",
+            "tip": "A little outside the center, but perfect for a quiet break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of the Lower Town Church",
+            "tip": "A small, peaceful spot to escape the city bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgemachten Produkten und lokalen Köstlichkeiten auf dem Stadtmarkt."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Im Thúry-György-Museum finden Sie Bücher und Souvenirs zur Stadtgeschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keress kézműves termékeket és helyi finomságokat a városi piacon!"
+          },
+          {
+            "name": "Múzeumbolt",
+            "tip": "A Thúry György Múzeumban könyveket és a város történetéhez kapcsolódó ajándéktárgyakat találhatsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse artizanale și delicatese locale în piața orașului."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "La Muzeul Thúry György veți găsi cărți și suveniruri legate de istoria orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade products and local delicacies at the city market."
+          },
+          {
+            "name": "Museum Shop",
+            "tip": "At the Thúry György Museum, you can find books and souvenirs related to the city's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie eine Wasserflasche mit, besonders an wärmeren Tagen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel a nap nagy részét gyaloglással töltöd.",
+          "A belvárosi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Vigyél magaddal egy üveg vizet, különösen melegebb napokon!"
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Luați cu voi o sticlă de apă, mai ales în zilele mai calde."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking for most of the day.",
+          "Most of the city center attractions are easily reachable on foot.",
+          "Bring a water bottle, especially on warmer days."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 6.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Elisabethplatz",
+            "hu": "Erzsébet tér",
+            "ro": "Piața Elisabeta",
+            "en": "Elizabeth Square"
+          },
+          "coords": [
+            16.9911,
+            46.45
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie den Platz erkunden.",
+            "hu": "Zárd le biztonságosan a kerékpárodat, amíg felfedezed a teret!",
+            "ro": "Asigurați-vă bicicleta în timp ce explorați piața.",
+            "en": "Lock your bike securely while exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge",
+            "hu": "Zsinagóga",
+            "ro": "Sinagoga",
+            "en": "Synagogue"
+          },
+          "coords": [
+            16.9938,
+            46.4532
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Gebäude ist ein beeindruckendes Fotomotiv.",
+            "hu": "Az épület lenyűgöző fotótéma.",
+            "ro": "Clădirea este un subiect fotografic impresionant.",
+            "en": "The building makes for an impressive photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Thúry-György-Museum",
+            "hu": "Thúry György Múzeum",
+            "ro": "Muzeul Thúry György",
+            "en": "Thúry György Museum"
+          },
+          "coords": [
+            16.9932,
+            46.4555
+          ],
+          "category": "museums",
+          "arrive_at": "10:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein idealer Ort, um mehr über den Namensgeber der Burgkapitän zu erfahren.",
+            "hu": "Ideális hely, hogy többet megtudj a névadó várkapitányról.",
+            "ro": "Un loc ideal pentru a afla mai multe despre căpitanul de cetate care îi poartă numele.",
+            "en": "An ideal place to learn more about the castle captain who gave it its name."
+          }
+        },
+        {
+          "name": {
+            "de": "Unterstadt-Kirche",
+            "hu": "Alsóvárosi templom",
+            "ro": "Biserica din Orașul de Jos",
+            "en": "Lower Town Church"
+          },
+          "coords": [
+            16.985,
+            46.458
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Radweg führt Sie fast direkt zur Kirche.",
+            "hu": "A kerékpárút szinte közvetlenül a templomhoz vezet.",
+            "ro": "Pista de biciclete vă duce aproape direct la biserică.",
+            "en": "The bike path leads you almost directly to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Sándor Hevesi",
+            "hu": "Hevesi Sándor Művelődési Központ",
+            "ro": "Centrul Cultural Sándor Hevesi",
+            "en": "Sándor Hevesi Cultural Centre"
+          },
+          "coords": [
+            16.9895,
+            46.4542
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:54",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause und genießen Sie die Atmosphäre.",
+            "hu": "Tarts egy rövid szünetet és élvezd a hangulatot!",
+            "ro": "Faceți o scurtă pauză și bucurați-vă de atmosferă.",
+            "en": "Take a short break and enjoy the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Bootsteich",
+            "hu": "Csónakázó-tó",
+            "ro": "Lacul de agrement",
+            "en": "Boating Lake"
+          },
+          "coords": [
+            17.005,
+            46.46
+          ],
+          "category": "natural features",
+          "arrive_at": "13:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag entspannt ausklingen zu lassen. Mieten Sie ein Tretboot!",
+            "hu": "Tökéletes hely a nap lezárására. Bérelj vízibiciklit!",
+            "ro": "Locul perfect pentru a încheia ziua într-un mod relaxant. Închiriați o hidrobicicletă!",
+            "en": "The perfect place to end the day in a relaxed way. Rent a paddle boat!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und starten Sie am Elisabethplatz. Radeln Sie durch die Straßen, um die Synagoge und das Thúry-György-Museum zu erreichen, wo Sie in die Kultur eintauchen. Gegen Mittag führt Sie Ihre Route zur historischen Unterstadt-Kirche und dem Kulturzentrum, die das künstlerische Herz der Stadt zeigen. Am Nachmittag erwartet Sie eine längere, aber lohnende Fahrt zum Bootsteich. Dort können Sie sich entspannen, die Natur genießen und den Tag in Ruhe ausklingen lassen.",
+        "hu": "Pattanj biciklire, és indulj az Erzsébet térről. Tekerj végig az utcákon, hogy elérd a Zsinagógát és a Thúry György Múzeumot, ahol elmerülhetsz a kultúrában. Dél körül az útvonalad az Alsóvárosi templomhoz és a Művelődési Központhoz vezet, melyek a város művészeti szívét mutatják be. Délután egy hosszabb, de megérő út vár a Csónakázó-tóhoz. Ott pihenhetsz, élvezheted a természetet és békében zárhatod a napot.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Elisabeta. Pedalați pe străzi pentru a ajunge la Sinagogă și la Muzeul Thúry György, unde vă veți cufunda în cultură. În jurul prânzului, traseul vă duce la istorica Biserică din Orașul de Jos și la Centrul Cultural, care arată inima artistică a orașului. După-amiaza vă așteaptă o plimbare mai lungă, dar plină de satisfacții, spre Lacul de agrement. Acolo vă puteți relaxa, bucura de natură și încheia ziua în liniște.",
+        "en": "Hop on your bike and start from Elizabeth Square. Cycle through the streets to reach the Synagogue and the Thúry György Museum, where you'll immerse yourself in culture. Around noon, your route takes you to the historic Lower Town Church and the Cultural Centre, showcasing the city's artistic heart. In the afternoon, a longer but rewarding ride awaits you to the Boating Lake. There you can relax, enjoy nature, and peacefully end your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Langos",
+            "tip": "Ein perfekter Snack nach einer Radtour. Suchen Sie nach Ständen in der Nähe des Sees."
+          },
+          {
+            "name": "Restaurant 'Olimpia'",
+            "tip": "Bietet traditionelle ungarische Gerichte zur Stärkung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lángos",
+            "tip": "Tökéletes harapnivaló egy biciklitúra után. Keress bódékat a tó környékén!"
+          },
+          {
+            "name": "'Olimpia' Étterem",
+            "tip": "Hagyományos magyar ételeket kínál az energiapótláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Langos",
+            "tip": "O gustare perfectă după o tură cu bicicleta. Căutați standuri lângă lac."
+          },
+          {
+            "name": "Restaurant 'Olimpia'",
+            "tip": "Oferă mâncăruri tradiționale maghiare pentru a vă reface energia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Langos",
+            "tip": "A perfect snack after a bike ride. Look for stalls near the lake."
+          },
+          {
+            "name": "Restaurant 'Olimpia'",
+            "tip": "Offers traditional Hungarian dishes to refuel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Csónakázó-tó",
+            "tip": "Der See ist eine Oase der Ruhe, ideal zum Radfahren und Entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park am Kulturzentrum",
+            "tip": "Ein kleiner Park, um kurz durchzuatmen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csónakázó-tó",
+            "tip": "A tó a nyugalom oázisa, ideális biciklizéshez és pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park a Művelődési Központnál",
+            "tip": "Egy kis park, ahol megpihenhetsz egy percre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul de agrement",
+            "tip": "Lacul este o oază de liniște, ideală pentru ciclism și relaxare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de la Centrul Cultural",
+            "tip": "Un mic parc pentru a lua o gură de aer proaspăt.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Boating Lake",
+            "tip": "The lake is an oasis of calm, ideal for cycling and relaxing.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park at the Cultural Centre",
+            "tip": "A small park to take a short breather.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Lokale Geschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Honig vom Markt",
+            "tip": "Die Region Zala ist bekannt für ihren Akazienhonig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Helyi boltok kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Piaci méz",
+            "tip": "Zala híres az akácmézéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Magazine locale pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Miere de la piață",
+            "tip": "Regiunea Zala este renumită pentru mierea de salcâm."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Local shops for accessories or quick repairs."
+          },
+          {
+            "name": "Honey from the market",
+            "tip": "The Zala region is famous for its acacia honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Bringen Sie ein gutes Fahrradschloss mit.",
+          "Einige Straßen im Zentrum können Kopfsteinpflaster haben."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a keréknyomást.",
+          "Hozz magaddal egy jó kerékpárzárat.",
+          "Néhány belvárosi utca macskaköves lehet."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Aduceți un antifurt bun pentru bicicletă.",
+          "Unele străzi din centru pot fi pavate cu piatră cubică."
+        ],
+        "en": [
+          "Check your tire pressure before you leave.",
+          "Bring a good bike lock.",
+          "Some streets in the center may have cobblestones."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 5.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum",
+            "hu": "Belvárosi Parkoló",
+            "ro": "Parcare în centrul orașului",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            16.99,
+            46.45
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkolj le itt, és fedezd fel az első látnivaló-csoportot gyalog!",
+            "ro": "Parcați aici și explorați primul grup de atracții pe jos.",
+            "en": "Park here and explore the first cluster of sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Elisabethplatz",
+            "hu": "Erzsébet tér",
+            "ro": "Piața Elisabeta",
+            "en": "Elizabeth Square"
+          },
+          "coords": [
+            16.9911,
+            46.45
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Ausgangspunkt für Ihren Stadtrundgang.",
+            "hu": "A városnéző sétád kiindulópontja.",
+            "ro": "Punctul de plecare pentru turul dumneavoastră pietonal al orașului.",
+            "en": "The starting point for your city walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge",
+            "hu": "Zsinagóga",
+            "ro": "Sinagoga",
+            "en": "Synagogue"
+          },
+          "coords": [
+            16.9938,
+            46.4532
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid séta a főtértől.",
+            "ro": "La doar o scurtă plimbare de piața principală.",
+            "en": "Just a short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Thúry-György-Museum",
+            "hu": "Thúry György Múzeum",
+            "ro": "Muzeul Thúry György",
+            "en": "Thúry György Museum"
+          },
+          "coords": [
+            16.9932,
+            46.4555
+          ],
+          "category": "museums",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Highlight des ersten Clusters, nehmen Sie sich Zeit.",
+            "hu": "Az első látnivaló-csoport fénypontja, szánj rá időt!",
+            "ro": "Punctul culminant al primului grup, nu vă grăbiți.",
+            "en": "The highlight of the first cluster, take your time."
+          }
+        },
+        {
+          "name": {
+            "de": "Unterstadt-Kirche",
+            "hu": "Alsóvárosi templom",
+            "ro": "Biserica din Orașul de Jos",
+            "en": "Lower Town Church"
+          },
+          "coords": [
+            16.985,
+            46.458
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster und parken Sie in der Nähe.",
+            "hu": "Vezess át a következő látnivaló-csoporthoz, és parkolj a közelben!",
+            "ro": "Conduceți spre următorul grup de atracții și parcați în apropiere.",
+            "en": "Drive to the next cluster and park nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Bootsteich",
+            "hu": "Csónakázó-tó",
+            "ro": "Lacul de agrement",
+            "en": "Boating Lake"
+          },
+          "coords": [
+            17.005,
+            46.46
+          ],
+          "category": "natural features",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages. Ideal für einen Spaziergang nach dem Mittagessen.",
+            "hu": "A nap pihentető lezárása. Ideális egy ebéd utáni sétához.",
+            "ro": "Un final relaxant al zilei. Ideal pentru o plimbare după prânz.",
+            "en": "A relaxing end to the day. Ideal for a post-lunch walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt am See",
+            "hu": "Kilátópont a tónál",
+            "ro": "Punct de belvedere la lac",
+            "en": "Viewpoint at the Lake"
+          },
+          "coords": [
+            17.007,
+            46.461
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:43",
+          "stay_min": 68,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht und die frische Luft.",
+            "hu": "Élvezd a kilátást és a friss levegőt!",
+            "ro": "Bucurați-vă de priveliște și de aerul curat.",
+            "en": "Enjoy the view and the fresh air."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Nagykanizsa flexibel in Clustern. Parken Sie im Zentrum und entdecken Sie zu Fuß den Elisabethplatz, die Synagoge und das Thúry-György-Museum. Diese Gegend ist das historische Herz der Stadt. Nach dem Eintauchen in die Geschichte fahren Sie zur Unterstadt-Kirche, einem ruhigeren Teil der Stadt. Hier können Sie die friedliche Atmosphäre genießen. Zum Abschluss des Tages fahren Sie zum Bootsteich. Der See bietet eine willkommene Abwechslung und die Möglichkeit, bei einem Spaziergang zu entspannen, bevor Sie die Rückfahrt antreten.",
+        "hu": "Autóval rugalmasan, látnivaló-csoportokban fedezheted fel Nagykanizsát. Parkolj le a központban, és sétálva járd be az Erzsébet teret, a Zsinagógát és a Thúry György Múzeumot. Ez a környék a város történelmi szíve. Miután elmerültél a történelemben, vezess át az Alsóvárosi templomhoz, a város egy csendesebb részébe. Itt élvezheted a békés hangulatot. A nap végén irány a Csónakázó-tó! A tó kellemes kikapcsolódást és lehetőséget nyújt egy pihentető sétára, mielőtt hazaindulnál.",
+        "ro": "Cu mașina, explorați Nagykanizsa în mod flexibil, pe grupuri de atracții. Parcați în centru și descoperiți pe jos Piața Elisabeta, Sinagoga și Muzeul Thúry György. Această zonă este inima istorică a orașului. După ce v-ați cufundat în istorie, conduceți spre Biserica din Orașul de Jos, o parte mai liniștită a orașului. Aici vă puteți bucura de atmosfera pașnică. La sfârșitul zilei, mergeți la Lacul de agrement. Lacul oferă o pauză binevenită și oportunitatea de a vă relaxa cu o plimbare înainte de a pleca.",
+        "en": "With a car, you can flexibly explore Nagykanizsa in clusters. Park in the center and discover Elizabeth Square, the Synagogue, and the Thúry György Museum on foot. This area is the historical heart of the city. After immersing yourself in history, drive to the Lower Town Church, a quieter part of the city. Here you can enjoy the peaceful atmosphere. To end the day, head to the Boating Lake. The lake offers a welcome break and the opportunity to relax with a walk before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant 'Vadászkürt'",
+            "tip": "Bekannt für seine Wildgerichte, eine kurze Autofahrt vom Zentrum entfernt."
+          },
+          {
+            "name": "Café Frei",
+            "tip": "Für eine Kaffeepause mit internationaler Auswahl im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'Vadászkürt' Étterem",
+            "tip": "Vadas ételeiről ismert, rövid autóútra a központtól."
+          },
+          {
+            "name": "Café Frei",
+            "tip": "Egy nemzetközi kávészünetért a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant 'Vadászkürt'",
+            "tip": "Renumit pentru preparatele sale din vânat, la o scurtă călătorie cu mașina de centru."
+          },
+          {
+            "name": "Café Frei",
+            "tip": "Pentru o pauză de cafea cu o selecție internațională în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant 'Vadászkürt'",
+            "tip": "Known for its game dishes, a short drive from the center."
+          },
+          {
+            "name": "Café Frei",
+            "tip": "For a coffee break with an international selection in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg am Bootsteich",
+            "tip": "Ein Spaziergang hier ist der perfekte Weg, um abzuschalten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang über dem See",
+            "tip": "Finden Sie einen guten Platz und genießen Sie die Show.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sétány a Csónakázó-tó partján",
+            "tip": "Egy séta itt tökéletes módja a kikapcsolódásnak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a tó felett",
+            "tip": "Keress egy jó helyet, és élvezd a látványt!",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aleea de pe malul lacului",
+            "tip": "O plimbare aici este modalitatea perfectă de a te relaxa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare peste lac",
+            "tip": "Găsiți un loc bun și bucurați-vă de spectacol.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Path along the Boating Lake",
+            "tip": "A walk here is the perfect way to unwind.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset over the lake",
+            "tip": "Find a good spot and enjoy the show.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Mit dem Auto erreichen Sie leicht Bauernhöfe, die lokale Produkte verkaufen."
+          },
+          {
+            "name": "Wein aus der Region Zala",
+            "tip": "Halten Sie Ausschau nach lokalen Weinen in Fachgeschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok a környéken",
+            "tip": "Autóval könnyen elérhetsz gazdaságokat, ahol helyi termékeket árulnak."
+          },
+          {
+            "name": "Zalai borok",
+            "tip": "Keress helyi borokat a szaküzletekben!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole din zonă",
+            "tip": "Cu mașina, puteți ajunge cu ușurință la ferme care vând produse locale."
+          },
+          {
+            "name": "Vinuri din regiunea Zala",
+            "tip": "Căutați vinuri locale în magazinele specializate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "By car, you can easily reach farms selling local products."
+          },
+          {
+            "name": "Wines from the Zala region",
+            "tip": "Look for local wines in specialty shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkzonen und -gebühren im Stadtzentrum.",
+          "Ein Auto gibt Ihnen die Freiheit, auch nahegelegene Naturgebiete zu erkunden.",
+          "Planen Sie Ihre Route zwischen den Clustern, um Zeit zu sparen."
+        ],
+        "hu": [
+          "Figyelj a parkolási zónákra és díjakra a belvárosban.",
+          "Az autó szabadságot ad, hogy a közeli természeti területeket is felfedezd.",
+          "Tervezd meg az útvonalat a látnivaló-csoportok között, hogy időt takaríts meg!"
+        ],
+        "ro": [
+          "Fiți atenți la zonele de parcare și la taxele din centrul orașului.",
+          "O mașină vă oferă libertatea de a explora și zonele naturale din apropiere.",
+          "Planificați-vă traseul între grupurile de atracții pentru a economisi timp."
+        ],
+        "en": [
+          "Pay attention to parking zones and fees in the city center.",
+          "A car gives you the freedom to also explore nearby natural areas.",
+          "Plan your route between clusters to save time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:48",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Elisabethplatz",
+            "hu": "Erzsébet tér",
+            "ro": "Piața Elisabeta",
+            "en": "Elizabeth Square"
+          },
+          "coords": [
+            16.9911,
+            46.45
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die meisten Buslinien halten in der Nähe des Platzes.",
+            "hu": "A legtöbb buszjárat megáll a tér közelében.",
+            "ro": "Majoritatea liniilor de autobuz opresc în apropierea pieței.",
+            "en": "Most bus lines stop near the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Thúry-György-Museum",
+            "hu": "Thúry György Múzeum",
+            "ro": "Muzeul Thúry György",
+            "en": "Thúry György Museum"
+          },
+          "coords": [
+            16.9932,
+            46.4555
+          ],
+          "category": "museums",
+          "arrive_at": "09:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Hauptplatz aus leicht zu Fuß erreichbar.",
+            "hu": "A főtérről könnyen megközelíthető gyalog.",
+            "ro": "Ușor accesibil pe jos din piața principală.",
+            "en": "Easily accessible on foot from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenmann-Haus",
+            "hu": "Eisenmann-ház",
+            "ro": "Casa Eisenmann",
+            "en": "Eisenmann House"
+          },
+          "coords": [
+            16.9905,
+            46.4525
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch die Innenstadt.",
+            "hu": "Egy kellemes séta a belvároson keresztül.",
+            "ro": "O plimbare plăcută prin centrul orașului.",
+            "en": "A pleasant walk through the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Unterstadt-Kirche",
+            "hu": "Alsóvárosi templom",
+            "ro": "Biserica din Orașul de Jos",
+            "en": "Lower Town Church"
+          },
+          "coords": [
+            16.985,
+            46.458
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus für diesen kurzen Sprung.",
+            "hu": "Vegyél egy helyi buszt erre a rövid útra!",
+            "ro": "Luați un autobuz local pentru acest scurt drum.",
+            "en": "Take a local bus for this short hop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bootsteich",
+            "hu": "Csónakázó-tó",
+            "ro": "Lacul de agrement",
+            "en": "Boating Lake"
+          },
+          "coords": [
+            17.005,
+            46.46
+          ],
+          "category": "natural features",
+          "arrive_at": "13:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Busse fahren regelmäßig von der Innenstadt zum See.",
+            "hu": "A belvárosból rendszeresen indulnak buszok a tóhoz.",
+            "ro": "Autobuzele circulă regulat din centrul orașului spre lac.",
+            "en": "Buses run regularly from the city center to the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Sándor Hevesi",
+            "hu": "Hevesi Sándor Művelődési Központ",
+            "ro": "Centrul Cultural Sándor Hevesi",
+            "en": "Sándor Hevesi Cultural Centre"
+          },
+          "coords": [
+            16.9895,
+            46.4542
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:16",
+          "stay_min": 32,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie vom Seeufer zurück in Richtung Zentrum.",
+            "hu": "Sétálj vissza a tópartról a központ felé!",
+            "ro": "Întoarceți-vă pe jos de pe malul lacului spre centru.",
+            "en": "Walk back from the lake shore towards the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Nagykanizsa wie ein Einheimischer. Starten Sie am zentralen Elisabethplatz und erkunden Sie die Highlights des Stadtzentrums zu Fuß. Das Thúry-György-Museum ist nur einen kurzen Spaziergang entfernt. Nehmen Sie dann einen Bus zur ruhigen Unterstadt-Kirche, um einen anderen Teil der Stadt kennenzulernen. Am Nachmittag bringt Sie ein weiterer Bus zum Bootsteich, einer grünen Oase der Entspannung. Genießen Sie die Natur, bevor Sie mit dem Bus ins Zentrum zurückkehren.",
+        "hu": "A tömegközlekedéssel úgy fedezheted fel Nagykanizsát, mint egy helyi. Kezdj a központi Erzsébet téren, és járd be gyalog a belváros nevezetességeit. A Thúry György Múzeum csak egy rövid sétára van. Ezután szállj buszra a csendes Alsóvárosi templomhoz, hogy megismerd a város egy másik részét. Délután egy másik busz visz ki a Csónakázó-tóhoz, a pihenés zöld oázisába. Élvezd a természetet, mielőtt busszal visszatérnél a központba.",
+        "ro": "Cu transportul public, explorați Nagykanizsa ca un localnic. Începeți din Piața centrală Elisabeta și explorați atracțiile din centrul orașului pe jos. Muzeul Thúry György este la o scurtă plimbare. Apoi, luați un autobuz spre liniștita Biserică din Orașul de Jos pentru a cunoaște o altă parte a orașului. După-amiaza, un alt autobuz vă va duce la Lacul de agrement, o oază verde de relaxare. Bucurați-vă de natură înainte de a vă întoarce în centru cu autobuzul.",
+        "en": "Using public transport, you can explore Nagykanizsa like a local. Start at the central Elizabeth Square and explore the city center highlights on foot. The Thúry György Museum is just a short walk away. Then, take a bus to the quiet Lower Town Church to get to know another part of the city. In the afternoon, another bus will take you to the Boating Lake, a green oasis of relaxation. Enjoy nature before returning to the center by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Imbiss am Busbahnhof",
+            "tip": "Für einen schnellen und authentischen Snack zwischen den Fahrten."
+          },
+          {
+            "name": "Restaurant 'Central'",
+            "tip": "Leicht mit dem Bus zu erreichen und bietet eine große Auswahl an Gerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfé a buszpályaudvaron",
+            "tip": "Egy gyors, autentikus harapnivalóért két út között."
+          },
+          {
+            "name": "'Central' Étterem",
+            "tip": "Könnyen megközelíthető busszal, és széles ételválasztékot kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustare la autogară",
+            "tip": "Pentru o gustare rapidă și autentică între călătorii."
+          },
+          {
+            "name": "Restaurant 'Central'",
+            "tip": "Ușor accesibil cu autobuzul și oferă o gamă largă de preparate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snack at the bus station",
+            "tip": "For a quick and authentic snack between trips."
+          },
+          {
+            "name": "Restaurant 'Central'",
+            "tip": "Easily accessible by bus and offers a wide range of dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Ecke im Bus",
+            "tip": "Nutzen Sie die Fahrtzeit, um die Landschaft zu beobachten.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bank am Bootsteich",
+            "tip": "Warten Sie auf Ihren Bus zurück in die Stadt, während Sie die Enten beobachten.",
+            "emoji": "🦆"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes sarok a buszon",
+            "tip": "Használd ki az utazási időt a táj nézésére!",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Pad a Csónakázó-tónál",
+            "tip": "Várd a buszt vissza a városba, miközben a kacsákat nézed.",
+            "emoji": "🦆"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un colț liniștit în autobuz",
+            "tip": "Folosiți timpul de călătorie pentru a privi peisajul.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bancă la Lacul de agrement",
+            "tip": "Așteptați autobuzul înapoi în oraș în timp ce priviți rațele.",
+            "emoji": "🦆"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet corner on the bus",
+            "tip": "Use the travel time to watch the scenery.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bench at the Boating Lake",
+            "tip": "Wait for your bus back to the city while watching the ducks.",
+            "emoji": "🦆"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Für Zeitungen, Getränke und kleine Souvenirs."
+          },
+          {
+            "name": "Markt in der Nähe des Zentrums",
+            "tip": "Fragen Sie nach dem Weg zum nächsten lokalen Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Újságokért, italokért és apró ajándéktárgyakért."
+          },
+          {
+            "name": "Piac a központ közelében",
+            "tip": "Kérdezd meg, merre van a legközelebbi helyi piac!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Pentru ziare, băuturi și mici suveniruri."
+          },
+          {
+            "name": "Piața de lângă centru",
+            "tip": "Întrebați cum să ajungeți la cea mai apropiată piață locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "For newspapers, drinks, and small souvenirs."
+          },
+          {
+            "name": "Market near the center",
+            "tip": "Ask for directions to the nearest local market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, um unbegrenzt fahren zu können.",
+          "Informieren Sie sich vorab über die Busfahrpläne.",
+          "Haben Sie etwas Kleingeld für Tickets im Bus dabei."
+        ],
+        "hu": [
+          "Vegyél napijegyet a korlátlan utazáshoz.",
+          "Tájékozódj előre a buszmenetrendről!",
+          "Legyen nálad aprópénz a buszon váltott jegyekhez!"
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați în prealabil orarele autobuzelor.",
+          "Aveți la îndemână mărunțiș pentru biletele cumpărate din autobuz."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Check the bus schedules in advance.",
+          "Have some change ready for tickets on the bus."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1470 @@
+{
+  "city_id": "spain-tarazona-cities-v2",
+  "anchor": {
+    "name": "Tarazona",
+    "coords": [
+      -1.7289,
+      41.9019
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de Toros Vieja",
+            "hu": "Régi bikaviadal-aréna",
+            "ro": "Piața veche de tauri",
+            "en": "Old Bullring Square"
+          },
+          "coords": [
+            -1.7275,
+            41.9025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achte auf die achteckige Form und die als Wohnungen genutzten Balkone.",
+            "hu": "Figyeld meg a nyolcszögletű formát és a lakásként használt erkélyeket.",
+            "ro": "Observați forma sa octogonală și balcoanele folosite ca locuințe.",
+            "en": "Notice its octagonal shape and the balconies that are used as homes."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel (Judería)",
+            "hu": "Zsidónegyed (Judería)",
+            "ro": "Cartierul Evreiesc (Judería)",
+            "en": "Jewish Quarter (Judería)"
+          },
+          "coords": [
+            -1.7295,
+            41.9031
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Verliere dich in den engen Gassen und entdecke die hängenden Häuser.",
+            "hu": "Vessz el a szűk sikátorokban, és fedezd fel a függő házakat.",
+            "ro": "Pierdeți-vă pe aleile înguste și descoperiți casele suspendate.",
+            "en": "Get lost in the narrow alleys and discover the hanging houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Tarazona",
+            "hu": "Tarazonai Városháza",
+            "ro": "Primăria din Tarazona",
+            "en": "Tarazona Town Hall"
+          },
+          "coords": [
+            -1.7268,
+            41.9045
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Fassade erzählt Geschichten von Herkules bis zu lokalen Königen.",
+            "hu": "A homlokzat Herkulesről és a helyi királyokról mesél.",
+            "ro": "Fațada sa spune povești de la Hercule la regii locali.",
+            "en": "Its facade tells stories from Hercules to local kings."
+          }
+        },
+        {
+          "name": {
+            "de": "Bischofspalast",
+            "hu": "Püspöki Palota",
+            "ro": "Palatul Episcopal",
+            "en": "Episcopal Palace"
+          },
+          "coords": [
+            -1.7301,
+            41.9052
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuche den Innenhof und die Galerie mit Porträts der Bischöfe.",
+            "hu": "Látogass el a belső udvarra és a püspökök portréit bemutató galériába.",
+            "ro": "Vizitați curtea interioară și galeria cu portretele episcopilor.",
+            "en": "Visit the inner courtyard and the gallery with portraits of the bishops."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Nuestra Señora de la Huerta",
+            "hu": "Nuestra Señora de la Huerta katedrális",
+            "ro": "Catedrala Nuestra Señora de la Huerta",
+            "en": "Cathedral of Nuestra Señora de la Huerta"
+          },
+          "coords": [
+            -1.7255,
+            41.9063
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einzigartige Mischung aus Gotik und Mudéjar-Stil, besonders der Kreuzgang.",
+            "hu": "A gótika és a mudéjar stílus egyedülálló keveréke, különösen a kerengő.",
+            "ro": "Un amestec unic de stil gotic și Mudéjar, în special claustrul.",
+            "en": "A unique mix of Gothic and Mudéjar style, especially the cloister."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa María Magdalena",
+            "hu": "Szent Mária Magdolna-templom",
+            "ro": "Biserica Santa María Magdalena",
+            "en": "Church of Santa María Magdalena"
+          },
+          "coords": [
+            -1.731,
+            41.9048
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ihr Turm ist das älteste Mudéjar-Bauwerk in Tarazona.",
+            "hu": "Tornya Tarazona legrégebbi mudéjar építménye.",
+            "ro": "Turnul său este cea mai veche structură Mudéjar din Tarazona.",
+            "en": "Its tower is the oldest Mudéjar structure in Tarazona."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Bellas Artes",
+            "hu": "Bellas Artes Színház",
+            "ro": "Teatrul Bellas Artes",
+            "en": "Bellas Artes Theatre"
+          },
+          "coords": [
+            -1.728,
+            41.9055
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Prüfe das Programm, vielleicht läuft eine interessante Vorstellung.",
+            "hu": "Ellenőrizd a műsort, talán van egy érdekes előadás.",
+            "ro": "Verificați programul, s-ar putea să prindeți un spectacol interesant.",
+            "en": "Check the schedule, you might catch an interesting performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginne den Tag auf der achteckigen Plaza de Toros Vieja und schlendere durch die engen Gassen des jüdischen Viertels. Am Mittag bewunderst du die kunstvolle Fassade des Rathauses und den Bischofspalast, bevor du die prächtige Kathedrale erkundest. Der Nachmittag ist der ältesten Mudéjar-Kirche der Stadt und einem Blick in das Kulturleben im Teatro Bellas Artes gewidmet. Schließe den Tag mit einem Spaziergang entlang des Flusses Queiles ab.",
+        "hu": "Kezdje a napot a nyolcszögletű Plaza de Toros Vieján, majd sétáljon végig a zsidónegyed szűk utcáin. Délben csodálja meg a Városháza díszes homlokzatát és a Püspöki Palotát, mielőtt felfedezné a pompás Katedrálist. A délután a város legrégebbi mudéjar templomának és a Teatro Bellas Artes kulturális életébe való betekintésnek szentelt. Zárja a napot egy sétával a Queiles folyó mentén.",
+        "ro": "Începeți ziua în Piața octogonală de Tauri și plimbați-vă pe străduțele înguste ale cartierului evreiesc. La prânz, admirați fațada artistică a Primăriei și Palatul Episcopal înainte de a explora magnifica Catedrală. După-amiaza este dedicată celei mai vechi biserici în stil Mudéjar din oraș și unei incursiuni în viața culturală la Teatrul Bellas Artes. Încheiați ziua cu o plimbare de-a lungul râului Queiles.",
+        "en": "Start your day in the octagonal Plaza de Toros Vieja and stroll through the narrow streets of the Jewish quarter. At noon, admire the artistic facade of the Town Hall and the Episcopal Palace before exploring the magnificent Cathedral. The afternoon is dedicated to the city's oldest Mudéjar church and a glimpse into cultural life at the Teatro Bellas Artes. End the day with a walk along the Queiles river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chilindrón",
+            "tip": "Ein herzhafter Eintopf mit Paprika und Lamm oder Huhn, perfekt für ein Mittagessen."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Zartes Lammbraten, eine Spezialität der Region."
+          },
+          {
+            "name": "Migas",
+            "tip": "Ein traditionelles Gericht aus Brotkrumen, oft mit Chorizo und Trauben serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chilindrón",
+            "tip": "Egy kiadós pörkölt paprikával és bárány- vagy csirkehússal, tökéletes ebédre."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Omlós sült bárány, a régió specialitása."
+          },
+          {
+            "name": "Migas",
+            "tip": "Hagyományos étel kenyérmorzsából, gyakran chorizóval és szőlővel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chilindrón",
+            "tip": "O tocană consistentă cu ardei și miel sau pui, perfectă pentru prânz."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Miel fraged la cuptor, o specialitate a regiunii."
+          },
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare tradițional din pesmet, adesea servit cu chorizo și struguri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chilindrón",
+            "tip": "A hearty stew with peppers and lamb or chicken, perfect for lunch."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Tender roasted lamb, a specialty of the region."
+          },
+          {
+            "name": "Migas",
+            "tip": "A traditional dish made from breadcrumbs, often served with chorizo and grapes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Queiles",
+            "tip": "Ein ruhiger Spaziergang am Flussufer, abseits des Trubels.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kreuzgang der Kathedrale",
+            "tip": "Ein Ort der Stille und beeindruckenden Architektur.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein stiller Platz in der Judería",
+            "tip": "Finde eine abgelegene Ecke und lausche der Stille der Geschichte.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Queiles folyó partja",
+            "tip": "Egy csendes séta a folyóparton, távol a nyüzsgéstől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A katedrális kerengője",
+            "tip": "A csend és a lenyűgöző építészet helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy csendes zug a zsidónegyedben",
+            "tip": "Találj egy eldugott sarkot, és hallgasd a történelem csendjét.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Queiles",
+            "tip": "O plimbare liniștită pe malul râului, departe de agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Claustrul Catedralei",
+            "tip": "Un loc de liniște și arhitectură impresionantă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Un colț liniștit în Judería",
+            "tip": "Găsiți un colț retras și ascultați tăcerea istoriei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Queiles River",
+            "tip": "A quiet walk along the riverbank, away from the hustle and bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cathedral Cloister",
+            "tip": "A place of silence and impressive architecture.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A quiet spot in the Judería",
+            "tip": "Find a secluded corner and listen to the silence of history.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Handgefertigte Töpferwaren im Mudéjar-Stil."
+          },
+          {
+            "name": "Weine aus der Region",
+            "tip": "Suche nach Weinen aus der nahen Campo de Borja DO."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Kézzel készített kerámiatárgyak mudéjar stílusban."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "Keress borokat a közeli Campo de Borja borvidékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Articole de olărit realizate manual în stil Mudéjar."
+          },
+          {
+            "name": "Vinuri din regiune",
+            "tip": "Căutați vinuri din apropiata DO Campo de Borja."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Ceramics",
+            "tip": "Handmade pottery with Mudéjar-style designs."
+          },
+          {
+            "name": "Regional Wines",
+            "tip": "Look for wines from the nearby Campo de Borja DO."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Trage bequeme Schuhe, da die Straßen oft steil und gepflastert sind.",
+          "Nimm eine Wasserflasche mit, besonders in den Sommermonaten.",
+          "Einige Sehenswürdigkeiten könnten über Mittag schließen, plane dies ein.",
+          "Die beste Fotozeit in der Judería ist am späten Nachmittag, wenn das Licht weich ist."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, az utcák gyakran meredekek és macskakövesek.",
+          "Vigyél magaddal vizet, különösen a nyári hónapokban.",
+          "Néhány látnivaló délben bezárhat, tervezz ezzel.",
+          "A zsidónegyedben a legjobb fotókat késő délután lehet készíteni, amikor a fény lágy."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile sunt adesea abrupte și pavate.",
+          "Luați cu voi o sticlă de apă, mai ales în lunile de vară.",
+          "Unele atracții s-ar putea închide la prânz, planificați în consecință.",
+          "Cel mai bun moment pentru fotografii în Judería este după-amiaza târziu, când lumina este blândă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets are often steep and cobbled.",
+          "Bring a water bottle, especially during the summer months.",
+          "Some sights may close for lunch, so plan accordingly.",
+          "The best time for photos in the Judería is late afternoon when the light is soft."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de Toros Vieja",
+            "hu": "Régi bikaviadal-aréna",
+            "ro": "Piața veche de tauri",
+            "en": "Old Bullring Square"
+          },
+          "coords": [
+            -1.7275,
+            41.9025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein perfekter Treffpunkt, bevor du in die Pedale trittst.",
+            "hu": "Tökéletes találkozóhely, mielőtt nyeregbe szállnál.",
+            "ro": "Un punct de întâlnire perfect înainte de a începe să pedalați.",
+            "en": "A perfect meeting point before you start pedaling."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Tarazona",
+            "hu": "Tarazonai Városháza",
+            "ro": "Primăria din Tarazona",
+            "en": "Tarazona Town Hall"
+          },
+          "coords": [
+            -1.7268,
+            41.9045
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stelle dein Rad ab und bewundere die Renaissanc-Fassade.",
+            "hu": "Tedd le a biciklit, és csodáld meg a reneszánsz homlokzatot.",
+            "ro": "Parcați bicicleta și admirați fațada renascentistă.",
+            "en": "Park your bike and admire the Renaissance facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Nuestra Señora de la Huerta",
+            "hu": "Nuestra Señora de la Huerta katedrális",
+            "ro": "Catedrala Nuestra Señora de la Huerta",
+            "en": "Cathedral of Nuestra Señora de la Huerta"
+          },
+          "coords": [
+            -1.7255,
+            41.9063
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die Radtour lohnt sich schon allein für den Anblick dieses Bauwerks.",
+            "hu": "Már ezért a látványért is megéri a biciklitúra.",
+            "ro": "Turul cu bicicleta merită doar pentru a vedea această clădire.",
+            "en": "The bike tour is worth it just for the sight of this structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa María Magdalena",
+            "hu": "Szent Mária Magdolna-templom",
+            "ro": "Biserica Santa María Magdalena",
+            "en": "Church of Santa María Magdalena"
+          },
+          "coords": [
+            -1.731,
+            41.9048
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg zum oberen Teil der Stadt wird mit diesem Anblick belohnt.",
+            "hu": "A város felső részére való feljutást ez a látvány jutalmazza.",
+            "ro": "Urcarea spre partea superioară a orașului este răsplătită cu această priveliște.",
+            "en": "The climb to the upper part of the city is rewarded with this sight."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel (Judería)",
+            "hu": "Zsidónegyed (Judería)",
+            "ro": "Cartierul Evreiesc (Judería)",
+            "en": "Jewish Quarter (Judería)"
+          },
+          "coords": [
+            -1.7295,
+            41.9031
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:23",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schiebe dein Rad hier besser, um die Atmosphäre aufzusaugen.",
+            "hu": "Itt inkább told a biciklit, hogy magadba szívd a hangulatot.",
+            "ro": "Mai bine împingeți bicicleta aici pentru a absorbi atmosfera.",
+            "en": "It's better to push your bike here to soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mezquita de Tórtoles",
+            "hu": "Tórtoles-i mecset",
+            "ro": "Moscheea din Tórtoles",
+            "en": "Mosque of Tórtoles"
+          },
+          "coords": [
+            -1.7,
+            41.88
+          ],
+          "category": "museums",
+          "arrive_at": "13:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die kleine Radtour aus der Stadt hinaus lohnt sich für dieses versteckte Juwel.",
+            "hu": "Megéri a rövid biciklitúra a városon kívülre ezért a rejtett gyöngyszemért.",
+            "ro": "Mica plimbare cu bicicleta în afara orașului merită pentru această bijuterie ascunsă.",
+            "en": "The short bike ride out of town is worth it for this hidden gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Bellas Artes",
+            "hu": "Bellas Artes Színház",
+            "ro": "Teatrul Bellas Artes",
+            "en": "Bellas Artes Theatre"
+          },
+          "coords": [
+            -1.728,
+            41.9055
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:01",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss der Tour, bevor es zurück zum Ausgangspunkt geht.",
+            "hu": "Szép lezárása a túrának, mielőtt visszatérnél a kiindulópontra.",
+            "ro": "Un final frumos al turului înainte de a vă întoarce la punctul de plecare.",
+            "en": "A nice end to the tour before heading back to the starting point."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwing dich am Morgen auf den Sattel und starte bei der Plaza de Toros. Radle zum Rathaus und zur Kathedrale. Am Mittag erklimmst du die Anhöhe zur Kirche Santa María Magdalena, bevor du durch die Judería rollst. Der Nachmittag führt dich auf einer kurzen Tour zur verborgenen Mezquita de Tórtoles, ein echtes Highlight. Beende deine Radtour mit einem kulturellen Stopp am Teatro Bellas Artes.",
+        "hu": "Reggel szállj nyeregbe, és indulj a Plaza de Toros-tól. Tekerj el a Városházához és a Katedrálishoz. Délben mássz fel a Santa María Magdalena-templomhoz, mielőtt áthaladnál a zsidónegyeden. Délután egy rövid túra vezet a rejtett Mezquita de Tórtoles-hez, ami egy igazi fénypont. Fejezd be a biciklitúrát egy kulturális megállóval a Teatro Bellas Artes-nél.",
+        "ro": "Urcați-vă pe bicicletă dimineața și porniți de la Plaza de Toros. Pedalați spre Primărie și Catedrală. La prânz, urcați dealul spre Biserica Santa María Magdalena înainte de a vă plimba prin Judería. După-amiaza vă duce într-un tur scurt la ascunsa Mezquita de Tórtoles, un adevărat punct de atracție. Încheiați turul cu bicicleta cu o oprire culturală la Teatrul Bellas Artes.",
+        "en": "Get on your bike in the morning and start from the Plaza de Toros. Cycle to the Town Hall and the Cathedral. At noon, climb the hill to the Church of Santa María Magdalena before rolling through the Judería. The afternoon takes you on a short tour to the hidden Mosque of Tórtoles, a real highlight. End your bike tour with a cultural stop at the Teatro Bellas Artes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo",
+            "tip": "Ein belegtes Baguette ist der perfekte schnelle Energielieferant für Radfahrer."
+          },
+          {
+            "name": "Lokaler Käse und Wurst",
+            "tip": "Stelle dir dein eigenes Picknick für eine Pause am Fluss zusammen."
+          },
+          {
+            "name": "Garnacha Wein",
+            "tip": "Belohne dich nach der Tour mit einem Glas des lokalen Rotweins."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo",
+            "tip": "Egy szendvics a tökéletes gyors energiaforrás a kerékpárosoknak."
+          },
+          {
+            "name": "Helyi sajt és kolbász",
+            "tip": "Állíts össze saját pikniket egy folyóparti pihenőhöz."
+          },
+          {
+            "name": "Garnacha bor",
+            "tip": "Jutalmazd meg magad a túra után egy pohár helyi vörösborral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo",
+            "tip": "O baghetă umplută este sursa perfectă de energie rapidă pentru bicicliști."
+          },
+          {
+            "name": "Brânzeturi și mezeluri locale",
+            "tip": "Creați-vă propriul picnic pentru o pauză pe malul râului."
+          },
+          {
+            "name": "Vin Garnacha",
+            "tip": "Recompensați-vă cu un pahar de vin roșu local după tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo",
+            "tip": "A filled baguette is the perfect quick energy source for cyclists."
+          },
+          {
+            "name": "Local cheese and sausage",
+            "tip": "Create your own picnic for a break by the river."
+          },
+          {
+            "name": "Garnacha wine",
+            "tip": "Reward yourself with a glass of local red wine after the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang des Queiles",
+            "tip": "Eine entspannte Radtour entlang des Flusses bietet Ruhe.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Blick von der Kirche Magdalena",
+            "tip": "Genieße die Aussicht über die Dächer der Stadt nach dem Aufstieg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten des Bischofspalastes",
+            "tip": "Ein verborgener, ruhiger Ort zum Durchatmen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tekerés a Queiles mentén",
+            "tip": "Egy pihentető biciklitúra a folyó mentén nyugalmat kínál.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Kilátás a Magdolna-templomtól",
+            "tip": "Élvezd a kilátást a város háztetőire a mászás után.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Püspöki Palota kertjei",
+            "tip": "Egy rejtett, csendes hely a pihenésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe lângă Queiles",
+            "tip": "O plimbare relaxantă cu bicicleta de-a lungul râului oferă liniște.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Vedere de la Biserica Magdalena",
+            "tip": "Bucurați-vă de priveliștea deasupra acoperișurilor orașului după urcare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Palatului Episcopal",
+            "tip": "Un loc ascuns și liniștit pentru a respira.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ride along the Queiles",
+            "tip": "A relaxing bike ride along the river offers tranquility.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "View from the Magdalena Church",
+            "tip": "Enjoy the view over the city's rooftops after the climb.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of the Episcopal Palace",
+            "tip": "A hidden, quiet place to take a breath.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrrad-Zubehör",
+            "tip": "In lokalen Geschäften findest du vielleicht ein nützliches Souvenir für dein Rad."
+          },
+          {
+            "name": "Regionale Süßigkeiten",
+            "tip": "Kaufe energiereiche Leckereien für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A helyi boltokban talán találsz egy hasznos emléket a biciklidhez."
+          },
+          {
+            "name": "Helyi édességek",
+            "tip": "Vásárolj energiadús finomságokat az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "În magazinele locale s-ar putea să găsiți un suvenir util pentru bicicleta dvs."
+          },
+          {
+            "name": "Dulciuri regionale",
+            "tip": "Cumpărați bunătăți bogate în energie pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessories",
+            "tip": "You might find a useful souvenir for your bike in local shops."
+          },
+          {
+            "name": "Regional sweets",
+            "tip": "Buy energy-rich treats for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfe den Reifendruck und die Bremsen vor der Abfahrt.",
+          "Ein Helm wird dringend empfohlen, besonders auf den Abfahrten.",
+          "Die Gassen der Judería sind sehr eng, hier musst du eventuell absteigen.",
+          "Plane eine längere Mittagspause ein, um dich zu stärken."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a guminyomást és a fékeket.",
+          "Sisak használata erősen ajánlott, különösen a lejtőkön.",
+          "A zsidónegyed utcái nagyon szűkek, itt lehet, hogy le kell szállnod.",
+          "Tervezz egy hosszabb ebédszünetet az energia pótlására."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope și frânele înainte de a pleca.",
+          "O cască este foarte recomandată, în special la coborâri.",
+          "Aleile din Judería sunt foarte înguste, s-ar putea să trebuiască să descălecați aici.",
+          "Planificați o pauză de prânz mai lungă pentru a vă reface puterile."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before setting off.",
+          "A helmet is highly recommended, especially on the descents.",
+          "The alleys of the Judería are very narrow, you may have to dismount here.",
+          "Plan a longer lunch break to refuel."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Rande der Altstadt",
+            "hu": "Parkoló az óváros szélén",
+            "ro": "Parcare la marginea orașului vechi",
+            "en": "Parking at the edge of the old town"
+          },
+          "coords": [
+            -1.725,
+            41.902
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parke hier, um das erste Cluster zu Fuß zu erkunden.",
+            "hu": "Parkolj le itt, hogy gyalog fedezd fel az első látnivaló-csoportot.",
+            "ro": "Parcați aici pentru a explora primul grup de atracții pe jos.",
+            "en": "Park here to explore the first cluster of sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de Toros Vieja & Rathaus",
+            "hu": "Régi bikaviadal-aréna és Városháza",
+            "ro": "Piața veche de tauri & Primăria",
+            "en": "Old Bullring Square & Town Hall"
+          },
+          "coords": [
+            -1.7272,
+            41.9035
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang verbindet diese beiden einzigartigen Plätze.",
+            "hu": "Egy séta köti össze ezt a két egyedülálló helyet.",
+            "ro": "O plimbare leagă aceste două locuri unice.",
+            "en": "A short walk connects these two unique places."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel (Judería)",
+            "hu": "Zsidónegyed (Judería)",
+            "ro": "Cartierul Evreiesc (Judería)",
+            "en": "Jewish Quarter (Judería)"
+          },
+          "coords": [
+            -1.7295,
+            41.9031
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um sich zu verlieren, bevor man zur Kathedrale weitergeht.",
+            "hu": "Tökéletes hely, hogy elvessz, mielőtt továbbmész a katedrálishoz.",
+            "ro": "Locul perfect pentru a vă pierde înainte de a continua spre catedrală.",
+            "en": "The perfect place to get lost before continuing to the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale und Bischofspalast",
+            "hu": "Katedrális és Püspöki Palota",
+            "ro": "Catedrala și Palatul Episcopal",
+            "en": "Cathedral and Episcopal Palace"
+          },
+          "coords": [
+            -1.7278,
+            41.9058
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nimm dir Zeit für beide Monumente, sie liegen direkt nebeneinander.",
+            "hu": "Szánj időt mindkét műemlékre, közvetlenül egymás mellett fekszenek.",
+            "ro": "Acordați-vă timp pentru ambele monumente, sunt chiar unul lângă altul.",
+            "en": "Take your time for both monuments, they are right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Mezquita de Tórtoles",
+            "hu": "Tórtoles-i mecset",
+            "ro": "Moscheea din Tórtoles",
+            "en": "Mosque of Tórtoles"
+          },
+          "coords": [
+            -1.7,
+            41.88
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zu einem friedlichen Ort außerhalb des Zentrums.",
+            "hu": "Egy rövid autóút egy békés helyre a központon kívül.",
+            "ro": "O scurtă călătorie cu mașina spre un loc liniștit în afara centrului.",
+            "en": "A short drive to a peaceful place outside the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa María Magdalena & Aussicht",
+            "hu": "Szt. Mária Magdolna templom és kilátás",
+            "ro": "Biserica Santa María Magdalena & Punct de belvedere",
+            "en": "Church of Santa María Magdalena & Viewpoint"
+          },
+          "coords": [
+            -1.731,
+            41.9048
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahre hoch zum ältesten Teil der Stadt und genieße die Aussicht.",
+            "hu": "Vezess fel a város legrégebbi részébe, és élvezd a kilátást.",
+            "ro": "Conduceți până în cea mai veche parte a orașului și bucurați-vă de priveliște.",
+            "en": "Drive up to the oldest part of the city and enjoy the view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parke dein Auto am Morgen und erkunde das historische Herz von Tarazona zu Fuß, von der Plaza de Toros bis zur Kathedrale. Am Mittag holst du das Auto für einen Ausflug zur abgelegenen Mezquita de Tórtoles. Der Nachmittag bringt dich in den oberen Teil der Stadt zur Kirche Santa María Magdalena, wo du eine fantastische Aussicht als Belohnung für den Tag erhältst. Ein perfekter Mix aus Fahren und Entdecken.",
+        "hu": "Reggel parkolj le, és fedezd fel gyalog Tarazona történelmi szívét, a Plaza de Torostól a Katedrálisig. Délben vedd elő az autót egy kiránduláshoz a távoli Mezquita de Tórtoles-hez. A délután a város felső részébe visz a Santa María Magdalena-templomhoz, ahol fantasztikus kilátás a jutalom a napért. A vezetés és a felfedezés tökéletes keveréke.",
+        "ro": "Parcați mașina dimineața și explorați pe jos inima istorică a Tarazonei, de la Plaza de Toros la Catedrală. La prânz, luați mașina pentru o excursie la îndepărtata Mezquita de Tórtoles. După-amiaza vă duce în partea superioară a orașului, la Biserica Santa María Magdalena, unde veți avea parte de o priveliște fantastică ca recompensă pentru această zi. Un amestec perfect de condus și explorare.",
+        "en": "Park your car in the morning and explore the historic heart of Tarazona on foot, from the Plaza de Toros to the Cathedral. At noon, pick up the car for a trip to the remote Mosque of Tórtoles. The afternoon takes you to the upper part of the city to the Church of Santa María Magdalena, where you get a fantastic view as a reward for the day. A perfect mix of driving and discovering."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Saboya",
+            "tip": "Bekannt für seine traditionelle aragonesische Küche und Ternasco."
+          },
+          {
+            "name": "El Galeón",
+            "tip": "Gute Tapas und eine lebhafte Atmosphäre, ideal für eine Mittagspause."
+          },
+          {
+            "name": "Cardo con almendras",
+            "tip": "Distelgemüse mit Mandelsauce, ein lokales Wintergericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saboya Étterem",
+            "tip": "Hagyományos aragóniai konyhájáról és a Ternascóról ismert."
+          },
+          {
+            "name": "El Galeón",
+            "tip": "Jó tapasok és élénk hangulat, ideális egy ebédszünethez."
+          },
+          {
+            "name": "Cardo con almendras",
+            "tip": "Kardongemüse mandulaszósszal, egy helyi téli étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Saboya",
+            "tip": "Cunoscut pentru bucătăria sa tradițională aragoneză și Ternasco."
+          },
+          {
+            "name": "El Galeón",
+            "tip": "Tapas bune și o atmosferă plină de viață, ideal pentru o pauză de prânz."
+          },
+          {
+            "name": "Cardo con almendras",
+            "tip": "Cardon cu sos de migdale, un fel de mâncare local de iarnă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante Saboya",
+            "tip": "Known for its traditional Aragonese cuisine and Ternasco."
+          },
+          {
+            "name": "El Galeón",
+            "tip": "Good tapas and a lively atmosphere, ideal for a lunch break."
+          },
+          {
+            "name": "Cardo con almendras",
+            "tip": "Cardoon with almond sauce, a local winter dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt bei der Kirche Magdalena",
+            "tip": "Der Panoramablick über die Stadt und das Moncayo-Massiv ist atemberaubend.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mezquita de Tórtoles",
+            "tip": "Die Abgeschiedenheit dieses Ortes sorgt für eine meditative Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Fluss Queiles",
+            "tip": "Finde einen ruhigen Parkplatz und genieße die Natur am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Magdolna-templomnál",
+            "tip": "A panorámás kilátás a városra és a Moncayo-hegységre lélegzetelállító.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tórtoles-i mecset",
+            "tip": "A hely elzártsága meditatív csendet biztosít.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Queiles folyó mentén",
+            "tip": "Keress egy csendes parkolóhelyet, és élvezd a természetet a vízparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la Biserica Magdalena",
+            "tip": "Priveliștea panoramică asupra orașului și a masivului Moncayo este uluitoare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Moscheea din Tórtoles",
+            "tip": "Izolarea acestui loc asigură o liniște meditativă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului Queiles",
+            "tip": "Găsiți o parcare liniștită și bucurați-vă de natură lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at the Magdalena Church",
+            "tip": "The panoramic view over the city and the Moncayo massif is breathtaking.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mosque of Tórtoles",
+            "tip": "The seclusion of this place ensures a meditative silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the Queiles River",
+            "tip": "Find a quiet parking spot and enjoy nature by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl aus Aragón",
+            "tip": "Ein praktisches und leckeres Souvenir."
+          },
+          {
+            "name": "Lederwaren",
+            "tip": "In der Region gibt es eine lange Tradition der Lederverarbeitung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aragóniai olívaolaj",
+            "tip": "Praktikus és ízletes emléktárgy."
+          },
+          {
+            "name": "Bőráruk",
+            "tip": "A régiónak nagy hagyománya van a bőrmegmunkálásban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline din Aragón",
+            "tip": "Un suvenir practic și delicios."
+          },
+          {
+            "name": "Articole din piele",
+            "tip": "Regiunea are o lungă tradiție în prelucrarea pielii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive oil from Aragón",
+            "tip": "A practical and delicious souvenir."
+          },
+          {
+            "name": "Leather goods",
+            "tip": "The region has a long tradition of leather craftsmanship."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achte auf Parkverbotszonen in der Altstadt.",
+          "Ein kleines Auto ist in den engen Straßen von Vorteil.",
+          "Nutze das Auto, um auch das nahegelegene Moncayo-Naturreservat zu besuchen.",
+          "Lade eine Offline-Karte herunter, da der Handyempfang in ländlichen Gebieten schlecht sein kann."
+        ],
+        "hu": [
+          "Figyelj a parkolási tilalmakra az óvárosban.",
+          "Egy kis autó előnyös a szűk utcákban.",
+          "Használd az autót a közeli Moncayo Természetvédelmi Terület meglátogatásához is.",
+          "Tölts le egy offline térképet, mert a mobilhálózat lefedettsége vidéken gyenge lehet."
+        ],
+        "ro": [
+          "Fiți atenți la zonele de parcare interzisă din orașul vechi.",
+          "O mașină mică este un avantaj pe străzile înguste.",
+          "Folosiți mașina pentru a vizita și rezervația naturală Moncayo din apropiere.",
+          "Descărcați o hartă offline, deoarece acoperirea rețelei mobile poate fi slabă în zonele rurale."
+        ],
+        "en": [
+          "Be aware of no-parking zones in the old town.",
+          "A small car is an advantage in the narrow streets.",
+          "Use the car to also visit the nearby Moncayo Nature Reserve.",
+          "Download an offline map, as mobile reception can be poor in rural areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof (Plaza San Francisco)",
+            "hu": "Központi buszmegálló (Plaza San Francisco)",
+            "ro": "Stație centrală de autobuz (Plaza San Francisco)",
+            "en": "Central Bus Stop (Plaza San Francisco)"
+          },
+          "coords": [
+            -1.726,
+            41.904
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginne hier deine Erkundung des ersten Clusters.",
+            "hu": "Kezdd itt az első látnivaló-csoport felfedezését.",
+            "ro": "Începeți explorarea primului grup de atracții de aici.",
+            "en": "Start your exploration of the first cluster here."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Bischofspalast",
+            "hu": "Városháza és Püspöki Palota",
+            "ro": "Primăria & Palatul Episcopal",
+            "en": "Town Hall & Episcopal Palace"
+          },
+          "coords": [
+            -1.7285,
+            41.9049
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beide sind nur einen Steinwurf von der Bushaltestelle entfernt.",
+            "hu": "Mindkettő csak egy kőhajításnyira van a buszmegállótól.",
+            "ro": "Ambele sunt la o aruncătură de băț de stația de autobuz.",
+            "en": "Both are just a stone's throw from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Nuestra Señora de la Huerta",
+            "hu": "Nuestra Señora de la Huerta katedrális",
+            "ro": "Catedrala Nuestra Señora de la Huerta",
+            "en": "Cathedral of Nuestra Señora de la Huerta"
+          },
+          "coords": [
+            -1.7255,
+            41.9063
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang von der Plaza zur Kathedrale ist kurz und angenehm.",
+            "hu": "A séta a térről a katedrálishoz rövid és kellemes.",
+            "ro": "Plimbarea de la piață la catedrală este scurtă și plăcută.",
+            "en": "The walk from the plaza to the cathedral is short and pleasant."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de Toros Vieja",
+            "hu": "Régi bikaviadal-aréna",
+            "ro": "Piața veche de tauri",
+            "en": "Old Bullring Square"
+          },
+          "coords": [
+            -1.7275,
+            41.9025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss, bevor du den Bus zum nächsten Viertel nimmst.",
+            "hu": "Kötelező látnivaló, mielőtt buszra szállnál a következő negyedbe.",
+            "ro": "O vizită obligatorie înainte de a lua autobuzul spre următorul cartier.",
+            "en": "A must-see before you take the bus to the next district."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle 'Magdalena'",
+            "hu": "'Magdalena' buszmegálló",
+            "ro": "Stația 'Magdalena'",
+            "en": "Bus Stop 'Magdalena'"
+          },
+          "coords": [
+            -1.7305,
+            41.9045
+          ],
+          "category": "transport",
+          "arrive_at": "13:30",
+          "stay_min": 0,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Von hier aus erkundest du den oberen Teil der Stadt.",
+            "hu": "Innen fedezed fel a város felső részét.",
+            "ro": "De aici explorați partea superioară a orașului.",
+            "en": "From here you explore the upper part of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa María Magdalena & Judería",
+            "hu": "Szt. Mária Magdolna templom és Zsidónegyed",
+            "ro": "Biserica Santa María Magdalena & Judería",
+            "en": "Church of Santa María Magdalena & Judería"
+          },
+          "coords": [
+            -1.7302,
+            41.9039
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunde die Kirche und schlendere dann bergab durch die Gassen der Judería.",
+            "hu": "Fedezd fel a templomot, majd sétálj lefelé a Zsidónegyed sikátorain.",
+            "ro": "Explorați biserica și apoi plimbați-vă la vale pe aleile din Judería.",
+            "en": "Explore the church and then stroll downhill through the alleys of the Judería."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutze am Morgen den lokalen Bus, um ins Zentrum zu gelangen. Erkunde das Cluster um das Rathaus und die Kathedrale zu Fuß. Nach dem Mittagessen nimmst du den Bus in den oberen Stadtteil. Dort besuchst du die Kirche Santa María Magdalena und lässt dich anschließend durch die engen Gassen des Jüdischen Viertels zurück ins Zentrum treiben. So erlebst du die verschiedenen Höhenlagen der Stadt ganz entspannt.",
+        "hu": "Reggel a helyi busszal juss be a központba. Fedezd fel gyalog a Városháza és a Katedrális körüli látnivalókat. Ebéd után menj busszal a felső városrészbe. Ott látogass el a Santa María Magdalena-templomhoz, majd hagyd magad sodródni a Zsidónegyed szűk utcáin vissza a központba. Így pihentetően tapasztalhatod meg a város különböző szintjeit.",
+        "ro": "Folosiți autobuzul local dimineața pentru a ajunge în centru. Explorați pe jos grupul de atracții din jurul Primăriei și Catedralei. După prânz, luați autobuzul spre partea superioară a orașului. Acolo, vizitați Biserica Santa María Magdalena și apoi lăsați-vă purtați pe străduțele înguste ale Cartierului Evreiesc înapoi spre centru. Astfel, veți experimenta diferitele niveluri ale orașului într-un mod relaxat.",
+        "en": "Use the local bus in the morning to get to the center. Explore the cluster around the Town Hall and the Cathedral on foot. After lunch, take the bus to the upper part of the city. There, visit the Church of Santa María Magdalena and then let yourself drift through the narrow streets of the Jewish Quarter back to the center. This way, you can experience the different levels of the city in a relaxed manner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Menú del Día",
+            "tip": "Viele Restaurants bieten ein günstiges Mittagsmenü an, ideal für eine Pause zwischen den Busfahrten."
+          },
+          {
+            "name": "Fardelejos",
+            "tip": "Ein süßes Blätterteiggebäck mit Mandelfüllung, perfekt für unterwegs."
+          },
+          {
+            "name": "Bodega local",
+            "tip": "Besuche eine kleine Weinstube für ein Glas Wein und eine Tapa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menú del Día",
+            "tip": "Sok étterem kínál kedvező árú ebédmenüt, ideális egy buszozás közötti szünetre."
+          },
+          {
+            "name": "Fardelejos",
+            "tip": "Édes leveles tészta mandulatöltelékkel, tökéletes útközbenre."
+          },
+          {
+            "name": "Helyi Bodega",
+            "tip": "Látogass el egy kis borozóba egy pohár borra és egy tapára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Menú del Día",
+            "tip": "Multe restaurante oferă un meniu de prânz ieftin, ideal pentru o pauză între călătoriile cu autobuzul."
+          },
+          {
+            "name": "Fardelejos",
+            "tip": "Un produs de patiserie dulce din foietaj cu umplutură de migdale, perfect pentru drum."
+          },
+          {
+            "name": "Bodega locală",
+            "tip": "Vizitați o mică tavernă pentru un pahar de vin și o tapa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menú del Día",
+            "tip": "Many restaurants offer an inexpensive lunch menu, ideal for a break between bus rides."
+          },
+          {
+            "name": "Fardelejos",
+            "tip": "A sweet puff pastry with an almond filling, perfect for on the go."
+          },
+          {
+            "name": "Local Bodega",
+            "tip": "Visit a small wine bar for a glass of wine and a tapa."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Die Fahrt zwischen den Vierteln bietet unerwartete Perspektiven.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank auf der Plaza de Toros",
+            "tip": "Setz dich hin und beobachte das Leben auf diesem einzigartigen Platz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Die Stille in der Kathedrale",
+            "tip": "Ein kühler, ruhiger Rückzugsort an einem heißen Tag.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "A negyedek közötti utazás váratlan perspektívákat kínál.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a Plaza de Toros-on",
+            "tip": "Ülj le, és figyeld az életet ezen az egyedülálló téren.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Csend a katedrálisban",
+            "tip": "Hűvös, csendes menedék egy forró napon.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Privind pe geamul autobuzului",
+            "tip": "Călătoria între cartiere oferă perspective neașteptate.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în Plaza de Toros",
+            "tip": "Așezați-vă și priviți viața în această piață unică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Liniștea din catedrală",
+            "tip": "Un refugiu răcoros și liniștit într-o zi fierbinte.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the bus window",
+            "tip": "The ride between districts offers unexpected perspectives.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in the Plaza de Toros",
+            "tip": "Sit down and watch life go by in this unique square.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The silence in the cathedral",
+            "tip": "A cool, quiet retreat on a hot day.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Die Flora um den Moncayo sorgt für einen besonderen Geschmack."
+          },
+          {
+            "name": "Postkarten",
+            "tip": "Sende Grüße von den malerischen Plätzen Tarazonas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A Moncayo körüli növényvilág különleges ízt ad neki."
+          },
+          {
+            "name": "Képeslapok",
+            "tip": "Küldj üdvözletet Tarazona festői tereiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Flora din jurul Moncayo îi conferă o aromă specială."
+          },
+          {
+            "name": "Vederi",
+            "tip": "Trimiteți salutări din piețele pitorești ale Tarazonei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey",
+            "tip": "The flora around the Moncayo gives it a special flavor."
+          },
+          {
+            "name": "Postcards",
+            "tip": "Send greetings from the picturesque squares of Tarazona."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufe ein Tagesticket, wenn es verfügbar ist, um Geld zu sparen.",
+          "Habe den Fahrplan zur Hand oder nutze eine App, um Wartezeiten zu minimieren.",
+          "Sei bereit, einige Strecken zu Fuß zu gehen, da die Busse nicht überall hinkommen.",
+          "Gib dem Fahrer ein Zeichen, wenn du an einer Haltestelle aussteigen möchtest."
+        ],
+        "hu": [
+          "Vásárolj napijegyet, ha van, hogy pénzt takaríts meg.",
+          "Legyen kéznél a menetrend, vagy használj egy alkalmazást a várakozási idő minimalizálására.",
+          "Készülj fel arra, hogy néhány szakaszt gyalog kell megtenned, mivel a buszok nem jutnak el mindenhová.",
+          "Jelezz a sofőrnek, ha le akarsz szállni egy megállóban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi, dacă este disponibil, pentru a economisi bani.",
+          "Aveți la îndemână orarul sau folosiți o aplicație pentru a minimiza timpul de așteptare.",
+          "Fiți pregătiți să mergeți pe jos pe unele porțiuni, deoarece autobuzele nu ajung peste tot.",
+          "Semnalizați șoferului când doriți să coborâți la o stație."
+        ],
+        "en": [
+          "Buy a day ticket if available to save money.",
+          "Have the schedule handy or use an app to minimize waiting times.",
+          "Be prepared to walk some sections, as buses don't go everywhere.",
+          "Signal the driver when you want to get off at a stop."
+        ]
+      }
+    }
+  }
+}

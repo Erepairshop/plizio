@@ -1,0 +1,1556 @@
+{
+  "city_id": "city-korce",
+  "anchor": {
+    "name": "Korçë",
+    "coords": [
+      20.7778,
+      40.6141
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Alter Basar von Korça",
+            "hu": "Korçai Régi Bazár",
+            "ro": "Bazarul Vechi din Korçë",
+            "en": "Old Bazaar of Korçë"
+          },
+          "coords": [
+            20.7801,
+            40.6155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kosten Sie den lokalen Kaffee in einem der vielen traditionellen Cafés.",
+            "hu": "Kóstolja meg a helyi kávét a számos hagyományos kávézó egyikében.",
+            "ro": "Gustați cafeaua locală la una dintre numeroasele cafenele tradiționale.",
+            "en": "Taste the local coffee at one of the many traditional cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirahori-Moschee",
+            "hu": "Mirahori Mecset",
+            "ro": "Moscheea Mirahori",
+            "en": "Mirahori Mosque"
+          },
+          "coords": [
+            20.7785,
+            40.6142
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die elegante osmanische Architektur aus dem 15. Jahrhundert.",
+            "hu": "Figyelje meg az elegáns 15. századi oszmán építészetet.",
+            "ro": "Observați arhitectura otomană elegantă din secolul al XV-lea.",
+            "en": "Note the elegant 15th-century Ottoman architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Themistokli Gërmenji",
+            "hu": "Themistokli Gërmenji szobra",
+            "ro": "Statuia lui Themistokli Gërmenji",
+            "en": "Themistokli Gërmenji Statue"
+          },
+          "coords": [
+            20.7795,
+            40.616
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:50",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein wichtiger Ort, um mehr über die albanische Nationalbewegung zu erfahren.",
+            "hu": "Fontos hely az albán nemzeti mozgalom megismeréséhez.",
+            "ro": "Un loc important pentru a afla despre mișcarea națională albaneză.",
+            "en": "An important spot to learn about the Albanian national movement."
+          }
+        },
+        {
+          "name": {
+            "de": "Auferstehungskathedrale",
+            "hu": "Feltámadás Katedrális",
+            "ro": "Catedrala Învierii",
+            "en": "Resurrection Cathedral"
+          },
+          "coords": [
+            20.776,
+            40.6175
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine der größten orthodoxen Kathedralen auf dem Balkan; besuchen Sie sie für ihre beeindruckenden Fresken.",
+            "hu": "A Balkán egyik legnagyobb ortodox katedrálisa; látogassa meg lenyűgöző freskóiért.",
+            "ro": "Una dintre cele mai mari catedrale ortodoxe din Balcani; vizitați-o pentru frescele sale impresionante.",
+            "en": "One of the largest Orthodox cathedrals in the Balkans; visit for its impressive frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum für mittelalterliche Kunst",
+            "hu": "Nemzeti Középkori Művészeti Múzeum",
+            "ro": "Muzeul Național de Artă Medievală",
+            "en": "National Museum of Medieval Art"
+          },
+          "coords": [
+            20.7745,
+            40.618
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ikonensammlung, sie ist von Weltrang.",
+            "hu": "Koncentráljon az ikongyűjteményre, világszínvonalú.",
+            "ro": "Concentrează-te pe colecția de icoane, este de clasă mondială.",
+            "en": "Focus on the icon collection; it's world-class."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Bildung",
+            "hu": "Oktatási Múzeum",
+            "ro": "Muzeul Educației",
+            "en": "Museum of Education"
+          },
+          "coords": [
+            20.773,
+            40.619
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Befindet sich im Gebäude der ersten albanischen Schule, ein Muss für Geschichtsinteressierte.",
+            "hu": "Az első albán iskola épületében található, kötelező a történelem iránt érdeklődőknek.",
+            "ro": "Situat în clădirea primei școli albaneze, obligatoriu pentru pasionații de istorie.",
+            "en": "Located in the building of the first Albanian school, a must-see for history buffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Rinia Park",
+            "hu": "Rinia Park",
+            "ro": "Parcul Rinia",
+            "en": "Rinia Park"
+          },
+          "coords": [
+            20.77,
+            40.62
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 85,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Brunnen und beobachten Sie das lokale Leben am späten Nachmittag.",
+            "hu": "Pihenjen a szökőkútnál, és figyelje a helyi életet a késő délután folyamán.",
+            "ro": "Relaxați-vă lângă fântână și priviți viața locală la sfârșitul după-amiezii.",
+            "en": "Relax by the fountain and watch the local life in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im pulsierenden Herzen von Korçë, dem Alten Basar, wo Geschichte auf modernes Caféleben trifft. Erkunden Sie die Kopfsteinpflasterstraßen und genießen Sie die Atmosphäre. Am Mittag tauchen Sie in die reiche religiöse und künstlerische Vergangenheit der Stadt ein, indem Sie die große Kathedrale und das Museum für mittelalterliche Kunst besuchen. Der Nachmittag ist der Bildung und Geschichte gewidmet, mit einem Besuch der ersten albanischen Schule, die jetzt ein Museum ist. Beenden Sie Ihren Tag mit einem entspannten Spaziergang im Rinia Park und lassen Sie die ruhige Atmosphäre auf sich wirken, während die Sonne untergeht.",
+        "hu": "Kezdje a napot Korçë lüktető szívében, a Régi Bazárban, ahol a történelem találkozik a modern kávéházi élettel. Fedezze fel a macskaköves utcákat és szívja magába a hangulatot. Délben merüljön el a város gazdag vallási és művészeti múltjában a hatalmas katedrális és a Középkori Művészeti Múzeum meglátogatásával. A délután az oktatásnak és a történelemnek van szentelve, látogatással az első albán iskolában, amely ma múzeum. Zárja a napot egy pihentető sétával a Rinia Parkban, élvezve a nyugodt légkört naplementekor.",
+        "ro": "Începeți ziua în inima vibrantă a orașului Korçë, Bazarul Vechi, unde istoria se întâlnește cu viața modernă a cafenelelor. Explorați străzile pietruite și absorbiți atmosfera. La prânz, scufundați-vă în bogatul trecut religios și artistic al orașului, vizitând măreața catedrală și Muzeul de Artă Medievală. După-amiaza este dedicată educației și istoriei, cu o vizită la prima școală albaneză, acum muzeu. Încheiați ziua cu o plimbare relaxantă în Parcul Rinia, bucurându-vă de atmosfera liniștită la apus.",
+        "en": "Start your day in the vibrant heart of Korçë, the Old Bazaar, where history meets modern café life. Explore the cobblestone streets and soak in the atmosphere. By midday, delve into the city's rich religious and artistic past by visiting the grand cathedral and the Museum of Medieval Art. The afternoon is dedicated to education and history with a visit to the first Albanian school, now a museum. End your day with a relaxing stroll in Rinia Park, enjoying the tranquil atmosphere as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lakror",
+            "tip": "Ein traditioneller albanischer Kuchen, oft mit Gemüse oder Fleisch gefüllt. Probieren Sie ihn bei 'Vila Cofiel'."
+          },
+          {
+            "name": "Kërnacka",
+            "tip": "Lokale Fleischbällchen, eine Spezialität von Korçë. Perfekt für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Raki",
+            "tip": "Probieren Sie den hausgemachten Schnaps, aber seien Sie vorsichtig – er ist stark!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lakror",
+            "tip": "Hagyományos albán pite, gyakran zöldséggel vagy hússal töltve. Kóstolja meg a 'Vila Cofiel'-ben."
+          },
+          {
+            "name": "Kërnacka",
+            "tip": "Helyi fasírt, Korçë specialitása. Tökéletes egy kiadós ebédhez."
+          },
+          {
+            "name": "Raki",
+            "tip": "Kóstolja meg a házi pálinkát, de óvatosan – erős!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lakror",
+            "tip": "O plăcintă tradițională albaneză, adesea umplută cu legume sau carne. Încercați-o la 'Vila Cofiel'."
+          },
+          {
+            "name": "Kërnacka",
+            "tip": "Chiftele locale, o specialitate din Korçë. Perfecte pentru un prânz consistent."
+          },
+          {
+            "name": "Rachiu",
+            "tip": "Gustați rachiul de casă, dar fiți precaut – este tare!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakror",
+            "tip": "A traditional Albanian pie, often filled with vegetables or meat. Try it at 'Vila Cofiel'."
+          },
+          {
+            "name": "Kërnacka",
+            "tip": "Local meatballs, a specialty of Korçë. Perfect for a hearty lunch."
+          },
+          {
+            "name": "Raki",
+            "tip": "Sample the homemade spirit, but be cautious – it's strong!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof der Helden",
+            "tip": "Ein ruhiger, nachdenklicher Ort mit Panoramablick über die Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Fluss",
+            "tip": "Ein ruhiger Spaziergang entlang des kleinen Flusses am Rande der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gassen des Basars am frühen Morgen",
+            "tip": "Erleben Sie den Basar, bevor die Menschenmassen ankommen, für eine magische, ruhige Atmosphäre.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hősök temetője",
+            "tip": "Csendes, elgondolkodtató hely, panorámás kilátással a városra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a folyóparton",
+            "tip": "Békés séta a város szélén lévő kis folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bazár kora reggeli sikátorai",
+            "tip": "Tapasztalja meg a bazárt a tömeg érkezése előtt a varázslatos, csendes hangulatért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Eroilor",
+            "tip": "Un loc liniștit, reflexiv, cu vederi panoramice asupra orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "O plimbare liniștită de-a lungul micului râu de la marginea orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aleile bazarului dimineața devreme",
+            "tip": "Experimentați bazarul înainte de sosirea mulțimilor pentru o atmosferă magică și liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Martyrs' Cemetery",
+            "tip": "A quiet, reflective spot with panoramic views over the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "River walk",
+            "tip": "A peaceful stroll along the small river on the edge of town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning Bazaar alleys",
+            "tip": "Experience the bazaar before the crowds arrive for a magical, quiet atmosphere.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Alter Basar",
+            "tip": "Der beste Ort für handgefertigte Souvenirs, lokale Produkte und Silberschmuck."
+          },
+          {
+            "name": "Fußgängerzone 'Republika'",
+            "tip": "Hier finden Sie modernere Geschäfte, Boutiquen und Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi Bazár",
+            "tip": "A legjobb hely kézműves ajándéktárgyak, helyi termékek és ezüst ékszerek vásárlására."
+          },
+          {
+            "name": "'Republika' sétálóutca",
+            "tip": "Itt modernebb üzleteket, butikokat és kávézókat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul Vechi",
+            "tip": "Cel mai bun loc pentru suveniruri artizanale, produse locale și bijuterii din argint."
+          },
+          {
+            "name": "Bulevardul pietonal 'Republika'",
+            "tip": "Aici veți găsi magazine mai moderne, buticuri și cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Bazaar",
+            "tip": "The best place for handmade souvenirs, local produce, and silver jewelry."
+          },
+          {
+            "name": "'Republika' Pedestrian Street",
+            "tip": "Here you will find more modern shops, boutiques, and cafes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Kopfsteinpflasterstraßen uneben sein können.",
+          "Beginnen Sie früh, um die Vormittagshitze zu vermeiden, besonders im Sommer.",
+          "Halten Sie immer etwas Bargeld für kleine Einkäufe oder Trinkgelder bereit.",
+          "Die Einheimischen sind freundlich; ein einfaches 'Përshëndetje' (Hallo) wird sehr geschätzt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskaköves utcák egyenetlenek lehetnek.",
+          "Kezdje korán, hogy elkerülje a délelőtti hőséget, különösen nyáron.",
+          "Mindig tartson magánál készpénzt kisebb vásárlásokhoz vagy borravalóhoz.",
+          "A helyiek barátságosak; egy egyszerű 'Përshëndetje' (Szia) nagyra értékelik."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile pietruite pot fi denivelate.",
+          "Începeți devreme pentru a evita căldura de dimineață, mai ales vara.",
+          "Aveți întotdeauna la îndemână niște bani lichizi pentru cumpărături mici sau bacșișuri.",
+          "Localnicii sunt prietenoși; un simplu 'Përshëndetje' (Salut) este foarte apreciat."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestone streets can be uneven.",
+          "Start early to avoid the mid-morning heat, especially in summer.",
+          "Always carry some cash for small purchases or tips.",
+          "Locals are friendly; a simple 'Përshëndetje' (Hello) is much appreciated."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Alter Basar von Korça",
+            "hu": "Korçai Régi Bazár",
+            "ro": "Bazarul Vechi din Korçë",
+            "en": "Old Bazaar of Korçë"
+          },
+          "coords": [
+            20.7801,
+            40.6155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und schlendern Sie durch die Gassen.",
+            "hu": "Parkolja le a biciklit és sétáljon a sikátorokban.",
+            "ro": "Parcați bicicleta și plimbați-vă pe alei.",
+            "en": "Park your bike and wander through the alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Korça",
+            "hu": "Korçai Óratorony",
+            "ro": "Turnul cu Ceas din Korçë",
+            "en": "Clock Tower of Korça"
+          },
+          "coords": [
+            20.781,
+            40.616
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:53",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bietet einen großartigen Blick auf den Basar und die umliegenden Dächer.",
+            "hu": "Nagyszerű kilátást nyújt a bazárra és a környező háztetőkre.",
+            "ro": "Oferă o priveliște minunată asupra bazarului și acoperișurilor din jur.",
+            "en": "Offers a great view of the bazaar and surrounding rooftops."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirahori-Moschee",
+            "hu": "Mirahori Mecset",
+            "ro": "Moscheea Mirahori",
+            "en": "Mirahori Mosque"
+          },
+          "coords": [
+            20.7785,
+            40.6142
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:24",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eines der ältesten Gebäude der Stadt, ein schönes Beispiel osmanischer Architektur.",
+            "hu": "A város egyik legrégebbi épülete, az oszmán építészet gyönyörű példája.",
+            "ro": "Una dintre cele mai vechi clădiri din oraș, un exemplu frumos de arhitectură otomană.",
+            "en": "One of the oldest buildings in the city, a beautiful example of Ottoman architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Auferstehungskathedrale",
+            "hu": "Feltámadás Katedrális",
+            "ro": "Catedrala Învierii",
+            "en": "Resurrection Cathedral"
+          },
+          "coords": [
+            20.776,
+            40.6175
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die moderne Architektur steht in interessantem Kontrast zu den älteren Gebäuden der Stadt.",
+            "hu": "A modern építészet érdekes kontrasztot alkot a város régebbi épületeivel.",
+            "ro": "Arhitectura modernă contrastează interesant cu clădirile mai vechi ale orașului.",
+            "en": "The modern architecture provides an interesting contrast to the city's older buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum für mittelalterliche Kunst",
+            "hu": "Nemzeti Középkori Művészeti Múzeum",
+            "ro": "Muzeul Național de Artă Medievală",
+            "en": "National Museum of Medieval Art"
+          },
+          "coords": [
+            20.7745,
+            40.618
+          ],
+          "category": "museums",
+          "arrive_at": "12:13",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein; die Ikonensammlung ist riesig und faszinierend.",
+            "hu": "Szánjon rá elegendő időt; az ikongyűjtemény hatalmas és lenyűgöző.",
+            "ro": "Planificați-vă suficient timp; colecția de icoane este vastă și fascinantă.",
+            "en": "Allocate enough time; the icon collection is vast and fascinating."
+          }
+        },
+        {
+          "name": {
+            "de": "Bratko-Museum für orientalische Kunst",
+            "hu": "Bratko Keleti Művészeti Múzeum",
+            "ro": "Muzeul de Artă Orientală Bratko",
+            "en": "Bratko Museum of Oriental Art"
+          },
+          "coords": [
+            20.7735,
+            40.621
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine einzigartige Sammlung, die eine andere Perspektive auf die albanische Kulturgeschichte bietet.",
+            "hu": "Egyedülálló gyűjtemény, amely más perspektívát nyújt az albán kultúrtörténetre.",
+            "ro": "O colecție unică ce oferă o perspectivă diferită asupra istoriei culturale albaneze.",
+            "en": "A unique collection that offers a different perspective on Albanian cultural history."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Bildung",
+            "hu": "Oktatási Múzeum",
+            "ro": "Muzeul Educației",
+            "en": "Museum of Education"
+          },
+          "coords": [
+            20.773,
+            40.619
+          ],
+          "category": "museums",
+          "arrive_at": "15:08",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Bedeutung von Korçë als Wiege der albanischen Schriftkultur.",
+            "hu": "Ismerje meg Korçë jelentőségét az albán írásbeliség bölcsőjeként.",
+            "ro": "Aflați despre importanța orașului Korçë ca leagăn al culturii scrise albaneze.",
+            "en": "Learn about the importance of Korçë as the cradle of Albanian written culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Rinia Park",
+            "hu": "Rinia Park",
+            "ro": "Parcul Rinia",
+            "en": "Rinia Park"
+          },
+          "coords": [
+            20.77,
+            40.62
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:16",
+          "stay_min": 92,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag ausklingen zu lassen, vielleicht mit einem Eis von einem lokalen Verkäufer.",
+            "hu": "Tökéletes hely a nap lezárására, esetleg egy fagyival egy helyi árustól.",
+            "ro": "Locul perfect pentru a încheia ziua, poate cu o înghețată de la un vânzător local.",
+            "en": "The perfect place to end the day, perhaps with an ice cream from a local vendor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im Alten Basar und genießen Sie die morgendliche Ruhe. Fahren Sie zum Uhrturm für einen schnellen Panoramablick, bevor Sie zu den historischen religiösen Stätten der Stadt weiterradeln. Am Mittag erwartet Sie das weltberühmte Museum für mittelalterliche Kunst, ein Höhepunkt jeder Reise. Nach dem Mittagessen erkunden Sie weitere einzigartige Sammlungen in den anderen Museen der Stadt. Beenden Sie Ihre Tour mit einer gemütlichen Fahrt zum Rinia Park, wo Sie sich nach einem Tag voller Entdeckungen entspannen können.",
+        "hu": "Kezdje a biciklitúrát a Régi Bazárban, élvezve a reggeli csendet. Tekerjen az Óratoronyhoz egy gyors panorámáért, mielőtt továbbhalad a város történelmi vallási helyszínei felé. Délben a világhírű Középkori Művészeti Múzeum várja, minden utazás fénypontja. Ebéd után fedezze fel a város többi múzeumának egyedi gyűjteményeit. Zárja a túrát egy kellemes tekeréssel a Rinia Parkba, ahol pihenhet egy felfedezéssel teli nap után.",
+        "ro": "Începeți turul cu bicicleta din Bazarul Vechi, bucurându-vă de liniștea dimineții. Pedalați spre Turnul cu Ceas pentru o panoramă rapidă înainte de a continua spre siturile religioase istorice ale orașului. La prânz, vă așteaptă renumitul Muzeu de Artă Medievală, un punct culminant al oricărei călătorii. După prânz, explorați alte colecții unice în celelalte muzee ale orașului. Încheiați turul cu o plimbare relaxată spre Parcul Rinia, unde vă puteți relaxa după o zi de explorare.",
+        "en": "Start your bike tour from the Old Bazaar, enjoying the morning tranquility. Cycle to the Clock Tower for a quick panoramic view before continuing to the city's historic religious sites. By midday, the world-renowned Museum of Medieval Art awaits, a highlight of any trip. After lunch, explore more unique collections at the city's other museums. Finish your tour with a leisurely ride to Rinia Park, where you can unwind after a day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavë Korçe",
+            "tip": "Ein lokaler Eintopf aus Fleisch und Gemüse, langsam im Tontopf gegart. Finden Sie ihn im 'FindFour'."
+          },
+          {
+            "name": "Petulla",
+            "tip": "Gebratener Teig, ähnlich wie Krapfen, serviert mit Käse oder Honig. Ein toller Snack."
+          },
+          {
+            "name": "Korça Bier",
+            "tip": "Probieren Sie das berühmteste Bier Albaniens, direkt aus seiner Heimatstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavë Korçe",
+            "tip": "Helyi húsos-zöldséges egytálétel, lassan agyagedényben főzve. Keresse a 'FindFour'-ban."
+          },
+          {
+            "name": "Petulla",
+            "tip": "Sült tészta, fánkhoz hasonló, sajttal vagy mézzel tálalva. Nagyszerű snack."
+          },
+          {
+            "name": "Korça sör",
+            "tip": "Kóstolja meg Albánia leghíresebb sörét, egyenesen a szülővárosából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavë Korçe",
+            "tip": "O tocană locală de carne și legume, gătită lent în vas de lut. Găsiți-o la 'FindFour'."
+          },
+          {
+            "name": "Petulla",
+            "tip": "Aluat prăjit, similar cu gogoșile, servit cu brânză sau miere. O gustare excelentă."
+          },
+          {
+            "name": "Berea Korça",
+            "tip": "Încercați cea mai faimoasă bere din Albania, direct din orașul său natal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavë Korçe",
+            "tip": "A local meat and vegetable stew, slow-cooked in a clay pot. Find it at 'FindFour'."
+          },
+          {
+            "name": "Petulla",
+            "tip": "Fried dough, similar to doughnuts, served with cheese or honey. A great snack."
+          },
+          {
+            "name": "Korça Beer",
+            "tip": "Try Albania's most famous beer, straight from its hometown."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Morava-Berg",
+            "tip": "Für eine längere Fahrt bietet die Straße den Berg hinauf atemberaubende Ausblicke und ruhige Plätze.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gassen hinter der Kathedrale",
+            "tip": "Entdecken Sie die ruhigen Wohnstraßen für einen Einblick in das lokale Leben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Früher Morgen am Rinia Park",
+            "tip": "Genießen Sie die Ruhe des Parks, bevor die Stadt erwacht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Morava-hegy",
+            "tip": "Egy hosszabb úthoz a hegyre vezető út lélegzetelállító kilátást és csendes helyeket kínál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sikátorok a katedrális mögött",
+            "tip": "Fedezze fel a csendes lakóutcákat, hogy bepillantást nyerjen a helyi életbe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggel a Rinia Parkban",
+            "tip": "Élvezze a park csendjét, mielőtt a város felébred.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muntele Morava",
+            "tip": "Pentru o plimbare mai lungă, drumul care urcă pe munte oferă priveliști uimitoare și locuri liniștite.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aleile din spatele catedralei",
+            "tip": "Explorați străzile rezidențiale liniștite pentru o privire asupra vieții locale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dimineața devreme în Parcul Rinia",
+            "tip": "Bucurați-vă de liniștea parcului înainte ca orașul să se trezească.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Morava Mountain",
+            "tip": "For a longer ride, the road up the mountain offers breathtaking views and quiet spots.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alleys behind the cathedral",
+            "tip": "Explore the quiet residential streets for a glimpse of local life.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Early morning at Rinia Park",
+            "tip": "Enjoy the park's tranquility before the city wakes up.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Alter Basar",
+            "tip": "Ideal für traditionelle Teppiche, Holzarbeiten und lokale Köstlichkeiten."
+          },
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Finden Sie frische Produkte, Käse und Honig, perfekt für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi Bazár",
+            "tip": "Ideális hagyományos szőnyegek, fafaragások és helyi finomságok vásárlásához."
+          },
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Találjon friss termékeket, sajtot és mézet, tökéletes egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul Vechi",
+            "tip": "Ideal pentru covoare tradiționale, sculpturi în lemn și delicatese locale."
+          },
+          {
+            "name": "Piața agricolă locală",
+            "tip": "Găsiți produse proaspete, brânză și miere, perfecte pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Bazaar",
+            "tip": "Ideal for traditional carpets, woodwork, and local delicacies."
+          },
+          {
+            "name": "Local Farmer's Market",
+            "tip": "Find fresh produce, cheese, and honey, perfect for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad von einem der örtlichen Geschäfte in der Nähe des Stadtzentrums.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es unbeaufsichtigt lassen.",
+          "Einige Straßen können verkehrsreich sein, seien Sie also vorsichtig.",
+          "Eine Flasche Wasser ist unerlässlich, besonders an warmen Tagen."
+        ],
+        "hu": [
+          "Béreljen biciklit a városközpont közelében található helyi üzletek egyikéből.",
+          "Mindig zárja le a biciklit, ha felügyelet nélkül hagyja.",
+          "Néhány utca forgalmas lehet, ezért legyen óvatos.",
+          "Egy üveg víz elengedhetetlen, különösen meleg napokon."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la unul dintre magazinele locale din apropierea centrului orașului.",
+          "Încuietăți întotdeauna bicicleta când o lăsați nesupravegheată.",
+          "Unele străzi pot fi aglomerate, așa că fiți atenți.",
+          "O sticlă de apă este esențială, mai ales în zilele călduroase."
+        ],
+        "en": [
+          "Rent a bike from one of the local shops near the city center.",
+          "Always lock your bike when leaving it unattended.",
+          "Some streets can be busy with traffic, so be cautious.",
+          "A bottle of water is essential, especially on warm days."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 28.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Parken am Alten Basar",
+            "hu": "A Klaszter: Parkolás a Régi Bazárnál",
+            "ro": "Cluster A: Parcare la Bazarul Vechi",
+            "en": "Cluster A: Park at the Old Bazaar"
+          },
+          "coords": [
+            20.7805,
+            40.615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz und erkunden Sie den ersten Cluster zu Fuß. Genießen Sie einen Kaffee.",
+            "hu": "Keressen egy parkolóhelyet, és fedezze fel az első klasztert gyalog. Igyon egy kávét.",
+            "ro": "Găsiți un loc de parcare și explorați primul cluster pe jos. Savurați o cafea.",
+            "en": "Find a parking spot and explore the first cluster on foot. Enjoy a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Auferstehungskathedrale",
+            "hu": "Feltámadás Katedrális",
+            "ro": "Catedrala Învierii",
+            "en": "Resurrection Cathedral"
+          },
+          "coords": [
+            20.776,
+            40.6175
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Basar. Bewundern Sie die moderne Architektur und die Fresken im Inneren.",
+            "hu": "Rövid séta a bazártól. Csodálja meg a modern építészetet és a belső freskókat.",
+            "ro": "O scurtă plimbare de la bazar. Admirați arhitectura modernă și frescele din interior.",
+            "en": "A short walk from the bazaar. Admire the modern architecture and interior frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum für mittelalterliche Kunst",
+            "hu": "Nemzeti Középkori Művészeti Múzeum",
+            "ro": "Muzeul Național de Artă Medievală",
+            "en": "National Museum of Medieval Art"
+          },
+          "coords": [
+            20.7745,
+            40.618
+          ],
+          "category": "museums",
+          "arrive_at": "11:17",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben der Kathedrale gelegen, ist dies der kulturelle Höhepunkt des Tages.",
+            "hu": "Közvetlenül a katedrális mellett található, ez a nap kulturális fénypontja.",
+            "ro": "Situat chiar lângă catedrală, acesta este punctul culminant cultural al zilei.",
+            "en": "Located right next to the cathedral, this is the cultural highlight of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Fahrt zum Morava-Berg",
+            "hu": "B Klaszter: Utazás a Morava-hegyre",
+            "ro": "Cluster B: Drumul spre Muntele Morava",
+            "en": "Cluster B: Drive to Morava Mountain"
+          },
+          "coords": [
+            20.84,
+            40.59
+          ],
+          "category": "natural",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 15,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Aussichtspunkt für eine spektakuläre Aussicht. Ideal für ein Picknick-Mittagessen.",
+            "hu": "Hajtson fel a kilátóponthoz a látványos kilátásért. Ideális egy piknikebédhez.",
+            "ro": "Conduceți până la punctul de belvedere pentru o priveliște spectaculoasă. Ideal pentru un prânz la picnic.",
+            "en": "Drive up to the viewpoint for a spectacular view. Ideal for a picnic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem Bergrestaurant",
+            "hu": "Ebéd egy hegyi étteremben",
+            "ro": "Prânz la un restaurant montan",
+            "en": "Lunch at a Mountain Restaurant"
+          },
+          "coords": [
+            20.835,
+            40.595
+          ],
+          "category": "gastro",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Küche mit Panoramablick, bevor Sie in die Stadt zurückkehren.",
+            "hu": "Élvezze a helyi konyhát panorámás kilátással, mielőtt visszatérne a városba.",
+            "ro": "Bucurați-vă de bucătăria locală cu o priveliște panoramică înainte de a vă întoarce în oraș.",
+            "en": "Enjoy local cuisine with a panoramic view before heading back to the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Parken am Rinia Park",
+            "hu": "C Klaszter: Parkolás a Rinia Parknál",
+            "ro": "Cluster C: Parcare la Parcul Rinia",
+            "en": "Cluster C: Park at Rinia Park"
+          },
+          "coords": [
+            20.77,
+            40.62
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto für den letzten Teil des Tages. Der Park ist ein großartiger Ort zum Entspannen.",
+            "hu": "Parkolja le az autót a nap utolsó részére. A park remek hely a pihenésre.",
+            "ro": "Parcați mașina pentru ultima parte a zilei. Parcul este un loc minunat pentru relaxare.",
+            "en": "Park your car for the final leg of the day. The park is a great place to unwind."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Bildung",
+            "hu": "Oktatási Múzeum",
+            "ro": "Muzeul Educației",
+            "en": "Museum of Education"
+          },
+          "coords": [
+            20.773,
+            40.619
+          ],
+          "category": "museums",
+          "arrive_at": "17:35",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park entfernt, beenden Sie Ihre Tour mit einer Dosis albanischer Geschichte.",
+            "hu": "Rövid sétára a parktól, fejezze be a túrát egy adag albán történelemmel.",
+            "ro": "La o scurtă plimbare de parc, încheiați-vă turul cu o doză de istorie albaneză.",
+            "en": "A short walk from the park, finish your tour with a dose of Albanian history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie im Zentrum von Korçë parken und den historischen Kern zu Fuß erkunden. Der Alte Basar, die Kathedrale und das Kunstmuseum bilden einen perfekten Vormittagscluster. Am Mittag entfliehen Sie der Stadt und fahren zum Morava-Berg für atemberaubende Ausblicke und ein Mittagessen in der Höhe. Am Nachmittag kehren Sie in die Stadt zurück zu einem anderen Cluster. Parken Sie in der Nähe des Rinia Parks und genießen Sie die grüne Oase, bevor Sie Ihre kulturelle Reise im Bildungsmuseum abschließen.",
+        "hu": "Kezdje a napot Korçë központjában parkolva, és fedezze fel gyalog a történelmi magot. A Régi Bazár, a katedrális és a művészeti múzeum tökéletes délelőtti klasztert alkotnak. Délben meneküljön el a városból, és hajtson fel a Morava-hegyre a lélegzetelállító kilátásért és egy magaslati ebédért. Délután térjen vissza a városba egy másik klaszterhez. Parkoljon a Rinia Park közelében, és élvezze a zöld oázist, mielőtt kulturális utazását az Oktatási Múzeumban fejezi be.",
+        "ro": "Începeți ziua parcând în centrul orașului Korçë și explorând nucleul istoric pe jos. Bazarul Vechi, catedrala și muzeul de artă formează un cluster perfect pentru dimineață. La prânz, evadați din oraș și conduceți spre Muntele Morava pentru priveliști uluitoare și un prânz la altitudine. După-amiaza, întoarceți-vă în oraș la un alt cluster. Parcați lângă Parcul Rinia și bucurați-vă de oaza de verdeață înainte de a vă încheia călătoria culturală la Muzeul Educației.",
+        "en": "Start your day by parking in the center of Korçë and exploring the historic core on foot. The Old Bazaar, cathedral, and art museum form a perfect morning cluster. For midday, escape the city with a drive up Morava Mountain for breathtaking views and a high-altitude lunch. In the afternoon, return to the city to a different cluster. Park near Rinia Park and enjoy the green oasis before concluding your cultural journey at the Museum of Education."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Flija",
+            "tip": "Ein geschichtetes, pfannkuchenartiges Gericht, das oft auf dem Berg zubereitet wird. Suchen Sie nach Restaurants, die es anbieten."
+          },
+          {
+            "name": "Lokaler Käse und Oliven",
+            "tip": "Kaufen Sie sie auf dem Markt für Ihr Picknick auf dem Morava-Berg."
+          },
+          {
+            "name": "Gegrilltes Lamm",
+            "tip": "Eine Spezialität in den Bergrestaurants. Fragen Sie nach dem 'mish qengji në hell'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Flija",
+            "tip": "Réteges, palacsintaszerű étel, amelyet gyakran a hegyen készítenek. Keressen olyan éttermeket, amelyek kínálják."
+          },
+          {
+            "name": "Helyi sajt és olajbogyó",
+            "tip": "Vásárolja meg a piacon a piknikhez a Morava-hegyen."
+          },
+          {
+            "name": "Grillezett bárány",
+            "tip": "Specialitás a hegyi éttermekben. Kérje a 'mish qengji në hell'-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Flija",
+            "tip": "Un fel de mâncare stratificat, asemănător clătitelor, adesea preparat la munte. Căutați restaurante care îl servesc."
+          },
+          {
+            "name": "Brânză și măsline locale",
+            "tip": "Cumpărați-le de la piață pentru picnicul de pe Muntele Morava."
+          },
+          {
+            "name": "Miel la grătar",
+            "tip": "O specialitate la restaurantele montane. Cereți 'mish qengji në hell'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Flija",
+            "tip": "A layered pancake-like dish often prepared on the mountain. Look for restaurants serving it."
+          },
+          {
+            "name": "Local cheese and olives",
+            "tip": "Buy them from the market for your picnic on Morava Mountain."
+          },
+          {
+            "name": "Grilled Lamb",
+            "tip": "A specialty in the mountain restaurants. Ask for 'mish qengji në hell'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Morava-Berg Gipfel",
+            "tip": "Finden Sie einen ruhigen Platz abseits des Hauptaussichtspunkts, um die Stille zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dorf Drenovë",
+            "tip": "Ein kleines Dorf in der Nähe des Berges, perfekt für einen ruhigen Spaziergang und um das ländliche Leben zu sehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke im Rinia Park",
+            "tip": "Setzen Sie sich unter einen Baum und lesen Sie ein Buch oder schauen Sie einfach den Leuten zu.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Morava-hegy csúcsa",
+            "tip": "Keressen egy csendes helyet a fő kilátóponttól távol, hogy élvezze a csendet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Drenovë falu",
+            "tip": "Egy kis falu a hegy közelében, tökéletes egy csendes sétához és a vidéki élet megtekintéséhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Rinia Parkban",
+            "tip": "Üljön le egy fa alá, és olvasson egy könyvet, vagy csak nézze az embereket.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Muntelui Morava",
+            "tip": "Găsiți un loc liniștit departe de punctul principal de belvedere pentru a vă bucura de tăcere.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Satul Drenovë",
+            "tip": "Un mic sat lângă munte, perfect pentru o plimbare liniștită și pentru a vedea viața rurală.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Băncile din Parcul Rinia",
+            "tip": "Stați sub un copac și citiți o carte sau pur și simplu priviți oamenii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Morava Mountain Peak",
+            "tip": "Find a quiet spot away from the main viewpoint to enjoy the silence.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Drenovë village",
+            "tip": "A small village near the mountain, perfect for a quiet walk and seeing rural life.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches in Rinia Park",
+            "tip": "Sit under a tree and read a book or just people-watch.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenverkäufer am Morava-Berg",
+            "tip": "Verkaufen oft lokalen Honig, Kräuter und handgefertigte Waren."
+          },
+          {
+            "name": "Alter Basar",
+            "tip": "Kaufen Sie Ihre Souvenirs, bevor Sie die Stadt verlassen. Teppiche sind eine lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai árusok a Morava-hegyen",
+            "tip": "Gyakran árulnak helyi mézet, gyógynövényeket és kézműves termékeket."
+          },
+          {
+            "name": "Régi Bazár",
+            "tip": "Vásárolja meg az ajándéktárgyakat, mielőtt elhagyja a várost. A szőnyegek helyi specialitásnak számítanak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzătorii ambulanți de pe Muntele Morava",
+            "tip": "Adesea vând miere locală, ierburi și produse artizanale."
+          },
+          {
+            "name": "Bazarul Vechi",
+            "tip": "Cumpărați-vă suvenirurile înainte de a părăsi orașul. Covoarele sunt o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside vendors on Morava Mountain",
+            "tip": "Often sell local honey, herbs, and handmade goods."
+          },
+          {
+            "name": "Old Bazaar",
+            "tip": "Buy your souvenirs before leaving the city. Carpets are a local specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Wetterbedingungen, bevor Sie auf den Morava-Berg fahren.",
+          "Das Parken im Stadtzentrum kann schwierig sein; seien Sie geduldig oder nutzen Sie kostenpflichtige Parkplätze.",
+          "Die Straßen in der Stadt sind eng. Fahren Sie vorsichtig.",
+          "Halten Sie Ihr GPS bereit, besonders für die Fahrt aus der Stadt heraus."
+        ],
+        "hu": [
+          "Ellenőrizze az időjárási viszonyokat, mielőtt felhajt a Morava-hegyre.",
+          "A parkolás a városközpontban nehézkes lehet; legyen türelmes, vagy használjon fizetős parkolókat.",
+          "A város utcái szűkek. Vezessen óvatosan.",
+          "Tartsa készenlétben a GPS-t, különösen a városból kifelé vezető úton."
+        ],
+        "ro": [
+          "Verificați condițiile meteo înainte de a urca pe Muntele Morava.",
+          "Parcarea în centrul orașului poate fi dificilă; aveți răbdare sau folosiți parcări cu plată.",
+          "Străzile din oraș sunt înguste. Conduceți cu prudență.",
+          "Aveți GPS-ul pregătit, mai ales pentru a ieși din oraș."
+        ],
+        "en": [
+          "Check the weather conditions before heading up to Morava Mountain.",
+          "Parking in the city center can be challenging; be patient or use paid lots.",
+          "The roads in the city are narrow. Drive carefully.",
+          "Keep your GPS ready, especially for the drive out of the city."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Ankunft am Alten Basar",
+            "hu": "A Klaszter: Érkezés a Régi Bazárhoz",
+            "ro": "Cluster A: Sosire la Bazarul Vechi",
+            "en": "Cluster A: Arrive at the Old Bazaar"
+          },
+          "coords": [
+            20.7801,
+            40.6155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur zentralen Haltestelle und beginnen Sie Ihren Tag hier.",
+            "hu": "Menjen busszal a központi megállóig, és kezdje itt a napot.",
+            "ro": "Luați un autobuz până la stația centrală și începeți ziua de aici.",
+            "en": "Take a bus to the central stop and start your day here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirahori-Moschee",
+            "hu": "Mirahori Mecset",
+            "ro": "Moscheea Mirahori",
+            "en": "Mirahori Mosque"
+          },
+          "coords": [
+            20.7785,
+            40.6142
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Herzen des Basars.",
+            "hu": "Rövid séta a bazár szívétől.",
+            "ro": "O scurtă plimbare din inima bazarului.",
+            "en": "A brief walk from the heart of the bazaar."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Korça",
+            "hu": "Korçai Óratorony",
+            "ro": "Turnul cu Ceas din Korçë",
+            "en": "Clock Tower of Korça"
+          },
+          "coords": [
+            20.781,
+            40.616
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:46",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehen Sie zurück durch den Basar, um den Turm zu erreichen.",
+            "hu": "Menjen vissza a bazáron keresztül, hogy elérje a tornyot.",
+            "ro": "Întoarceți-vă prin bazar pentru a ajunge la turn.",
+            "en": "Walk back through the bazaar to reach the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Fahrt zur Kathedrale",
+            "hu": "B Klaszter: Utazás a katedrálishoz",
+            "ro": "Cluster B: Călătorie spre Catedrală",
+            "en": "Cluster B: Transit to the Cathedral"
+          },
+          "coords": [
+            20.776,
+            40.6175
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:31",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen kurzen Bus, um zum nächsten Stadtteil zu gelangen.",
+            "hu": "Menjen egy rövid buszúttal a következő negyedbe.",
+            "ro": "Luați un autobuz scurt pentru a ajunge în următorul cartier.",
+            "en": "Take a short bus ride to get to the next district."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum für mittelalterliche Kunst",
+            "hu": "Nemzeti Középkori Művészeti Múzeum",
+            "ro": "Muzeul Național de Artă Medievală",
+            "en": "National Museum of Medieval Art"
+          },
+          "coords": [
+            20.7745,
+            40.618
+          ],
+          "category": "museums",
+          "arrive_at": "12:48",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich in unmittelbarer Nähe der Kathedrale.",
+            "hu": "A múzeum a katedrális közvetlen közelében található.",
+            "ro": "Muzeul este situat foarte aproape de catedrală.",
+            "en": "The museum is located very close to the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Fahrt zum Rinia Park",
+            "hu": "C Klaszter: Utazás a Rinia Parkhoz",
+            "ro": "Cluster C: Călătorie spre Parcul Rinia",
+            "en": "Cluster C: Transit to Rinia Park"
+          },
+          "coords": [
+            20.77,
+            40.62
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:03",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen weiteren Bus, um den Park für einen entspannten Nachmittag zu erreichen.",
+            "hu": "Menjen egy másik busszal a parkba egy pihentető délutánért.",
+            "ro": "Luați un alt autobuz pentru a ajunge la parc pentru o după-amiază relaxantă.",
+            "en": "Take another bus to reach the park for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Bratko-Museum für orientalische Kunst",
+            "hu": "Bratko Keleti Művészeti Múzeum",
+            "ro": "Muzeul de Artă Orientală Bratko",
+            "en": "Bratko Museum of Oriental Art"
+          },
+          "coords": [
+            20.7735,
+            40.621
+          ],
+          "category": "museums",
+          "arrive_at": "16:38",
+          "stay_min": 94,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ihr letzter Halt ist ein kurzer Spaziergang vom Park entfernt, eine einzigartige kulturelle Erfahrung.",
+            "hu": "Az utolsó megálló egy rövid sétára van a parktól, egyedülálló kulturális élmény.",
+            "ro": "Ultima oprire este la o scurtă plimbare de parc, o experiență culturală unică.",
+            "en": "Your final stop is a short walk from the park, a unique cultural experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das lokale Bussystem, um sich zwischen den Stadtteilen von Korçë zu bewegen. Beginnen Sie im historischen Basar-Cluster, wo Moscheen und Türme zu Fuß erreichbar sind. Nehmen Sie am späten Vormittag einen Bus zum Kathedralen-Cluster, der Heimat der beeindruckendsten religiösen und künstlerischen Schätze der Stadt. Nach dem Mittagessen bringt Sie ein weiterer Bus zum Rinia Park-Cluster, wo Sie einen entspannten Nachmittag in der Natur verbringen können, gefolgt von einem letzten Museumsbesuch, bevor Sie nach Hause fahren.",
+        "hu": "Használja a helyi buszrendszert Korçë negyedei közötti közlekedéshez. Kezdje a történelmi Bazár-klaszterben, ahol a mecsetek és tornyok gyalogosan is elérhetők. Késő délelőtt menjen busszal a Katedrális-klaszterhez, ahol a város leglenyűgözőbb vallási és művészeti kincsei találhatók. Ebéd után egy másik busz viszi a Rinia Park-klaszterhez, ahol egy pihentető délutánt tölthet a természetben, amit egy utolsó múzeumlátogatás követ, mielőtt hazaindulna.",
+        "ro": "Folosiți sistemul local de autobuze pentru a vă deplasa între cartierele din Korçë. Începeți în clusterul istoric al Bazarului, unde moscheile și turnurile sunt la distanță de mers pe jos. Spre sfârșitul dimineții, luați un autobuz către clusterul Catedralei, care găzduiește cele mai impresionante comori religioase și artistice ale orașului. După prânz, un alt autobuz vă va duce la clusterul Parcului Rinia pentru o după-amiază relaxantă în natură, urmată de o ultimă vizită la muzeu înainte de a vă întoarce acasă.",
+        "en": "Use the local bus system to hop between Korçë's districts. Start in the historic Bazaar cluster, where mosques and towers are within easy walking distance. In the late morning, take a bus to the Cathedral cluster, home to the city's most impressive religious and artistic treasures. After lunch, another bus will take you to the Rinia Park cluster for a relaxing afternoon in nature, followed by one last museum visit before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Byrek",
+            "tip": "Ein flockiges Gebäck, das mit Käse, Spinat oder Fleisch gefüllt ist. Ein perfekter schneller Imbiss von einer lokalen Bäckerei."
+          },
+          {
+            "name": "Qofte Korçe",
+            "tip": "Probieren Sie die berühmten Fleischbällchen der Stadt in einem Restaurant in der Nähe des Basars."
+          },
+          {
+            "name": "Boza",
+            "tip": "Ein traditionelles fermentiertes Getränk aus Mais und Weizen. Einzigartig und erfrischend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Byrek",
+            "tip": "Leveles tészta sajttal, spenóttal vagy hússal töltve. Tökéletes gyors harapnivaló egy helyi pékségből."
+          },
+          {
+            "name": "Qofte Korçe",
+            "tip": "Kóstolja meg a város híres fasírtját egy étteremben a bazár közelében."
+          },
+          {
+            "name": "Boza",
+            "tip": "Hagyományos erjesztett ital kukoricából és búzából. Egyedi és frissítő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Byrek",
+            "tip": "O patiserie foietaj umplută cu brânză, spanac sau carne. O gustare rapidă perfectă de la o brutărie locală."
+          },
+          {
+            "name": "Qofte Korçe",
+            "tip": "Încercați faimoasele chiftele ale orașului la un restaurant de lângă bazar."
+          },
+          {
+            "name": "Boza",
+            "tip": "O băutură tradițională fermentată din porumb și grâu. Unică și răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Byrek",
+            "tip": "A flaky pastry filled with cheese, spinach, or meat. A perfect quick snack from a local bakery."
+          },
+          {
+            "name": "Qofte Korçe",
+            "tip": "Try the city's famous meatballs at a restaurant near the bazaar."
+          },
+          {
+            "name": "Boza",
+            "tip": "A traditional fermented drink made from maize and wheat. Unique and refreshing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alter orthodoxer Friedhof",
+            "tip": "Ein historischer und ruhiger Ort für einen nachdenklichen Spaziergang.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Seitenstraßen in der Nähe des Bildungsmuseums",
+            "tip": "Wandern Sie durch die ruhigen Wohnviertel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ein Café mit Blick auf den Rinia Park",
+            "tip": "Genießen Sie ein Getränk, während Sie das Geschehen im Park beobachten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi ortodox temető",
+            "tip": "Történelmi és békés hely egy elgondolkodtató sétához.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mellékutcák az Oktatási Múzeum közelében",
+            "tip": "Sétáljon a csendes lakónegyedekben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy kávézó, kilátással a Rinia Parkra",
+            "tip": "Élvezzen egy italt, miközben figyeli a park életét.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Ortodox Vechi",
+            "tip": "Un loc istoric și pașnic pentru o plimbare reflexivă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Străzile lăturalnice de lângă Muzeul Educației",
+            "tip": "Plimbați-vă prin cartierele rezidențiale liniștite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O cafenea cu vedere la Parcul Rinia",
+            "tip": "Bucurați-vă de o băutură în timp ce priviți activitatea din parc.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Orthodox Cemetery",
+            "tip": "A historic and peaceful place for a reflective walk.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Side streets near the Museum of Education",
+            "tip": "Wander through the quiet residential neighborhoods.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A cafe overlooking Rinia Park",
+            "tip": "Enjoy a drink while watching the park's activity.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gjikondi Haus",
+            "tip": "Ein traditionelles Haus, das in ein Geschäft umgewandelt wurde und lokale Handwerkskunst verkauft."
+          },
+          {
+            "name": "Alter Basar",
+            "tip": "Der Hauptort für Souvenirs, von kleinen Schmuckstücken bis hin zu großen Teppichen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gjikondi Ház",
+            "tip": "Hagyományos ház, amelyet üzletté alakítottak, és helyi kézműves termékeket árulnak."
+          },
+          {
+            "name": "Régi Bazár",
+            "tip": "A fő hely az ajándéktárgyak beszerzésére, a kis csecsebecséktől a nagy szőnyegekig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casa Gjikondi",
+            "tip": "O casă tradițională transformată în magazin, care vinde produse artizanale locale."
+          },
+          {
+            "name": "Bazarul Vechi",
+            "tip": "Principalul loc pentru suveniruri, de la mici nimicuri la covoare mari."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gjikondi House",
+            "tip": "A traditional house converted into a shop, selling local handicrafts."
+          },
+          {
+            "name": "Old Bazaar",
+            "tip": "The main spot for souvenirs, from small trinkets to large carpets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar, um Geld zu sparen.",
+          "Fragen Sie Einheimische oder Ihren Hotelier nach den Buslinien; Online-Informationen können begrenzt sein.",
+          "Halten Sie Kleingeld für die Bustickets bereit.",
+          "Die Busse können voll sein, seien Sie also auf Stehen vorbereitet."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha elérhető, hogy pénzt takarítson meg.",
+          "Kérdezze meg a helyieket vagy a szállodatulajdonost a buszjáratokról; az online információk korlátozottak lehetnek.",
+          "Tartson aprópénzt a buszjegyekhez.",
+          "A buszok zsúfoltak lehetnek, ezért készüljön fel az állásra."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil, pentru a economisi bani.",
+          "Întrebați localnicii sau gazda hotelului despre rutele de autobuz; informațiile online pot fi limitate.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz.",
+          "Autobuzele pot fi aglomerate, așa că fiți pregătiți să stați în picioare."
+        ],
+        "en": [
+          "Buy a daily bus pass if available to save money.",
+          "Ask locals or your hotel host about bus routes; online information might be limited.",
+          "Keep small change ready for bus tickets.",
+          "Buses can be crowded, so be prepared to stand."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1424 @@
+{
+  "city_id": "poland-katowice-cities-v2",
+  "anchor": {
+    "name": "Kattowitz",
+    "coords": [
+      19.0238,
+      50.2649
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mariacka-Straße",
+            "hu": "Mariacka utca",
+            "ro": "Strada Mariacka",
+            "en": "Mariacka Street"
+          },
+          "coords": [
+            19.0261,
+            50.2592
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen charmanten Cafés.",
+            "hu": "Kezdje a napot egy kávéval az utca egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele fermecătoare.",
+            "en": "Start your day with a coffee at one of the many charming cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Christkönig",
+            "hu": "Krisztus Király-székesegyház",
+            "ro": "Catedrala Hristos Rege",
+            "en": "Cathedral of Christ the King"
+          },
+          "coords": [
+            19.0188,
+            50.2545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Kuppel, eine der größten in Polen.",
+            "hu": "Figyelje meg a lenyűgöző kupolát, amely az egyik legnagyobb Lengyelországban.",
+            "ro": "Fiți atenți la cupola impresionantă, una dintre cele mai mari din Polonia.",
+            "en": "Pay attention to the impressive dome, one of the largest in Poland."
+          }
+        },
+        {
+          "name": {
+            "de": "Goldstein-Palast",
+            "hu": "Goldstein-palota",
+            "ro": "Palatul Goldstein",
+            "en": "Goldstein Palace"
+          },
+          "coords": [
+            19.0155,
+            50.2601
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Obwohl nicht öffentlich zugänglich, ist die neorenaissance Fassade ein Foto wert.",
+            "hu": "Bár belülről nem látogatható, a neoreneszánsz homlokzat megér egy fotót.",
+            "ro": "Deși nu este deschis publicului, fațada neo-renascentistă merită o fotografie.",
+            "en": "Although not open to the public, the Neo-Renaissance facade is worth a photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Schlesischen Aufständischen",
+            "hu": "Sziléziai Felkelők Emlékműve",
+            "ro": "Monumentul Insurgenților Silezieni",
+            "en": "Monument to the Silesian Insurgents"
+          },
+          "coords": [
+            19.0285,
+            50.2662
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die drei Flügel symbolisieren die drei schlesischen Aufstände.",
+            "hu": "A három szárny a három sziléziai felkelést szimbolizálja.",
+            "ro": "Cele trei aripi simbolizează cele trei insurecții sileziene.",
+            "en": "The three wings symbolize the three Silesian Uprisings."
+          }
+        },
+        {
+          "name": {
+            "de": "Spodek",
+            "hu": "Spodek",
+            "ro": "Spodek",
+            "en": "Spodek"
+          },
+          "coords": [
+            19.029,
+            50.2681
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Veranstaltungskalender; vielleicht findet ein Konzert statt.",
+            "hu": "Ellenőrizze az eseménynaptárt, hátha éppen van egy koncert.",
+            "ro": "Verificați calendarul de evenimente; s-ar putea să aibă loc un concert.",
+            "en": "Check the event schedule; you might catch a concert."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesisches Museum",
+            "hu": "Sziléziai Múzeum",
+            "ro": "Muzeul Silezian",
+            "en": "Silesian Museum"
+          },
+          "coords": [
+            19.0335,
+            50.2655
+          ],
+          "category": "museums",
+          "arrive_at": "14:03",
+          "stay_min": 180,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Großteil des Museums befindet sich unter der Erde auf dem Gelände eines ehemaligen Bergwerks.",
+            "hu": "A múzeum nagy része a föld alatt, egykori szénbánya területén található.",
+            "ro": "O mare parte a muzeului este subterană, pe situl unei foste mine.",
+            "en": "Much of the museum is located underground on the site of a former coal mine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt auf der belebten Mariacka-Straße, dem Herzen des gesellschaftlichen Lebens von Kattowitz. Am Vormittag erkunden Sie die monumentale Christkönig-Kathedrale und bewundern die Architektur des Goldstein-Palastes. Der frühe Nachmittag führt Sie in die Kulturzone, wo das Denkmal der Schlesischen Aufständischen an die turbulente Geschichte der Region erinnert. Zum Abschluss tauchen Sie im unterirdischen Schlesischen Museum tief in die industrielle Vergangenheit und Kunst Schlesiens ein, direkt neben dem futuristischen Spodek.",
+        "hu": "Sétája a nyüzsgő Mariacka utcán, Katowice társadalmi életének központjában kezdődik. A délelőtt folyamán felfedezi a monumentális Krisztus Király-székesegyházat és megcsodálja a Goldstein-palota építészetét. A kora délután a Kultúra Zónájába vezet, ahol a Sziléziai Felkelők Emlékműve a régió viharos történelmére emlékeztet. Végül a futurisztikus Spodek mellett, a földalatti Sziléziai Múzeumban mélyen elmerül Szilézia ipari múltjában és művészetében.",
+        "ro": "Turul dumneavoastră pietonal începe pe vibranta stradă Mariacka, inima vieții sociale din Katowice. Dimineața explorați monumentala Catedrală Hristos Rege și admirați arhitectura Palatului Goldstein. După-amiaza devreme vă duce în Zona Culturală, unde Monumentul Insurgenților Silezieni comemorează istoria turbulentă a regiunii. Încheiați prin a vă cufunda în trecutul industrial și arta Sileziei la Muzeul Silezian subteran, chiar lângă futuristul Spodek.",
+        "en": "Your walking tour begins on the vibrant Mariacka Street, the heart of Katowice's social life. In the morning, you'll explore the monumental Cathedral of Christ the King and admire the architecture of the Goldstein Palace. The early afternoon takes you to the Culture Zone, where the Monument to the Silesian Insurgents commemorates the region's turbulent history. You'll finish by delving deep into Silesia's industrial past and art at the underground Silesian Museum, right next to the futuristic Spodek."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Żurek śląski",
+            "tip": "Eine saure Roggenmehlsuppe, oft mit Wurst und Ei serviert. Probieren Sie es im 'Żurownia'."
+          },
+          {
+            "name": "Rolada śląska",
+            "tip": "Eine Rinderroulade, gefüllt mit Speck, Gurken und Zwiebeln, typischerweise mit Klößen und Rotkohl serviert. Ein Klassiker im 'Śląska Prohibicja'."
+          },
+          {
+            "name": "Kluski śląskie",
+            "tip": "Kartoffelklöße mit einem charakteristischen Grübchen in der Mitte, perfekt für Soße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai żurek",
+            "tip": "Savanyú rozsleves, gyakran kolbásszal és tojással tálalva. Kóstolja meg a 'Żurownia'-ban."
+          },
+          {
+            "name": "Sziléziai rolada",
+            "tip": "Marhahústekercs szalonnával, uborkával és hagymával töltve, általában gombóccal és vörös káposztával. Klasszikus a 'Śląska Prohibicja'-ban."
+          },
+          {
+            "name": "Sziléziai gombóc (Kluski)",
+            "tip": "Burgonyagombóc jellegzetes mélyedéssel a közepén, tökéletes a szószokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Żurek silezian",
+            "tip": "O supă acră de secară, adesea servită cu cârnați și ou. Încercați-o la 'Żurownia'."
+          },
+          {
+            "name": "Roladă sileziană",
+            "tip": "O ruladă de vită umplută cu slănină, castraveți și ceapă, servită de obicei cu găluște și varză roșie. Un clasic la 'Śląska Prohibicja'."
+          },
+          {
+            "name": "Kluski śląskie",
+            "tip": "Găluște de cartofi cu o adâncitură caracteristică în mijloc, perfecte pentru sos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian Żurek",
+            "tip": "A sour rye soup, often served with sausage and egg. Try it at 'Żurownia'."
+          },
+          {
+            "name": "Silesian Rolada",
+            "tip": "A beef roulade filled with bacon, pickles, and onions, typically served with dumplings and red cabbage. A classic at 'Śląska Prohibicja'."
+          },
+          {
+            "name": "Kluski śląskie (Silesian Dumplings)",
+            "tip": "Potato dumplings with a characteristic dimple in the middle, perfect for holding gravy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kościuszko-Park",
+            "tip": "Ein großer, ruhiger Park südlich des Zentrums, ideal für eine Pause vom städtischen Trubel.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Dolina Trzech Stawów",
+            "tip": "Das 'Tal der drei Teiche' bietet Spazierwege und eine friedliche Atmosphäre am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtsplattform des Schlesischen Museums",
+            "tip": "Fahren Sie mit dem Aufzug auf den ehemaligen Förderturm und genießen Sie den Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kościuszko Park",
+            "tip": "Nagy, csendes park a központtól délre, ideális a városi nyüzsgésből való kiszakadáshoz.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Három Tó Völgye (Dolina Trzech Stawów)",
+            "tip": "A 'Három Tó Völgye' sétautakat és békés vízparti hangulatot kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sziléziai Múzeum kilátótornya",
+            "tip": "Menjen fel lifttel az egykori bányatoronyba, és élvezze a panorámát.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kościuszko",
+            "tip": "Un parc mare și liniștit la sud de centru, ideal pentru o pauză de agitația orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Valea Celor Trei Iazuri (Dolina Trzech Stawów)",
+            "tip": "Oferă poteci de plimbare și o atmosferă pașnică pe malul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Platforma de observare a Muzeului Silezian",
+            "tip": "Luați liftul pe fostul turn minier pentru a vă bucura de o vedere panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kościuszko Park",
+            "tip": "A large, quiet park south of the center, ideal for a break from the urban bustle.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Valley of Three Ponds (Dolina Trzech Stawów)",
+            "tip": "Offers walking paths and a peaceful waterside atmosphere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Silesian Museum Observation Tower",
+            "tip": "Take the lift up the former mining tower to enjoy a panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Silesia City Center",
+            "tip": "Ein riesiges Einkaufszentrum auf dem Gelände eines ehemaligen Bergwerks, das moderne Geschäfte mit industrieller Architektur verbindet."
+          },
+          {
+            "name": "Gryfne Karlusy",
+            "tip": "Ein Souvenirladen mit modernen, stilvollen Artikeln, die von der schlesischen Kultur und dem Dialekt inspiriert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Silesia City Center",
+            "tip": "Hatalmas bevásárlóközpont egykori bánya területén, ötvözi a modern üzleteket az ipari építészettel."
+          },
+          {
+            "name": "Gryfne Karlusy",
+            "tip": "Sziléziai kultúra és dialektus által ihletett modern, stílusos ajándéktárgyakat kínáló bolt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Silesia City Center",
+            "tip": "Un centru comercial uriaș pe situl unei foste mine, combinând magazine moderne cu arhitectura industrială."
+          },
+          {
+            "name": "Gryfne Karlusy",
+            "tip": "Un magazin de suveniruri cu articole moderne și stilate, inspirate de cultura și dialectul silezian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesia City Center",
+            "tip": "A huge shopping mall on the site of a former coal mine, blending modern shops with industrial architecture."
+          },
+          {
+            "name": "Gryfne Karlusy",
+            "tip": "A souvenir shop with modern, stylish items inspired by Silesian culture and dialect."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum und die Kulturzone am besten zu Fuß erkundet werden.",
+          "Die meisten Museen sind montags geschlossen, planen Sie entsprechend.",
+          "Halten Sie nach den 'Murals' Ausschau, großflächigen Wandgemälden, die die Stadt schmücken.",
+          "Das öffentliche Verkehrsnetz ist effizient, falls Ihre Füße müde werden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpontot és a kultúrazónát a legjobb gyalog felfedezni.",
+          "A legtöbb múzeum hétfőn zárva tart, tervezzen ennek megfelelően.",
+          "Keresse a 'muralokat', a várost díszítő nagyméretű falfestményeket.",
+          "A tömegközlekedési hálózat hatékony, ha elfáradna a lába."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului și zona culturală sunt cel mai bine explorate pe jos.",
+          "Majoritatea muzeelor sunt închise lunea, planificați-vă vizita în consecință.",
+          "Căutați 'muralele', picturile murale de mari dimensiuni care decorează orașul.",
+          "Rețeaua de transport public este eficientă în cazul în care picioarele vă obosesc."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center and culture zone are best explored on foot.",
+          "Most museums are closed on Mondays, so plan accordingly.",
+          "Look out for the 'murals', large-scale wall paintings that decorate the city.",
+          "The public transport network is efficient in case your feet get tired."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 14.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nikiszowiec",
+            "hu": "Nikiszowiec",
+            "ro": "Nikiszowiec",
+            "en": "Nikiszowiec"
+          },
+          "coords": [
+            19.0701,
+            50.2452
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die einzigartige Backsteinarchitektur dieses historischen Arbeiterviertels.",
+            "hu": "Fedezze fel ennek a történelmi munkásnegyednek az egyedülálló téglanegyed-építészetét.",
+            "ro": "Explorați arhitectura unică din cărămidă a acestui cartier muncitoresc istoric.",
+            "en": "Explore the unique brick architecture of this historic workers' district."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesisches Museum",
+            "hu": "Sziléziai Múzeum",
+            "ro": "Muzeul Silezian",
+            "en": "Silesian Museum"
+          },
+          "coords": [
+            19.0335,
+            50.2655
+          ],
+          "category": "museums",
+          "arrive_at": "11:24",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die unterirdischen Ausstellungen ein.",
+            "hu": "Szánjon elegendő időt a föld alatti kiállításokra.",
+            "ro": "Planificați suficient timp pentru expozițiile subterane.",
+            "en": "Plan enough time for the underground exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Spodek",
+            "hu": "Spodek",
+            "ro": "Spodek",
+            "en": "Spodek"
+          },
+          "coords": [
+            19.029,
+            50.2681
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:28",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von dieser ikonischen 'fliegenden Untertasse'.",
+            "hu": "Készítsen egy fotót erről az ikonikus 'repülő csészealjról'.",
+            "ro": "Faceți o fotografie cu această 'farfurie zburătoare' emblematică.",
+            "en": "Take a photo of this iconic 'flying saucer'."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariacka-Straße",
+            "hu": "Mariacka utca",
+            "ro": "Strada Mariacka",
+            "en": "Mariacka Street"
+          },
+          "coords": [
+            19.0261,
+            50.2592
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:54",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine Mittagspause in einem der vielen Restaurants.",
+            "hu": "Tökéletes hely egy ebédszünetre az egyik étteremben.",
+            "ro": "Locul perfect pentru o pauză de prânz la unul dintre numeroasele restaurante.",
+            "en": "The perfect spot for a lunch break at one of the many restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Christkönig",
+            "hu": "Krisztus Király-székesegyház",
+            "ro": "Catedrala Hristos Rege",
+            "en": "Cathedral of Christ the King"
+          },
+          "coords": [
+            19.0188,
+            50.2545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Buntglasfenster und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg az ólomüveg ablakokat és a békés hangulatot.",
+            "ro": "Admirați vitraliile și atmosfera liniștită.",
+            "en": "Admire the stained glass windows and the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Fallschirmturm",
+            "hu": "Ejtőernyős torony",
+            "ro": "Turnul de parașutism",
+            "en": "Parachute Tower"
+          },
+          "coords": [
+            19.015,
+            50.242
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:48",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Eine Rekonstruktion eines historischen Turms, der an die Verteidigung von Kattowitz im Jahr 1939 erinnert.",
+            "hu": "Egy történelmi torony rekonstrukciója, amely Katowice 1939-es védelmére emlékeztet.",
+            "ro": "O reconstrucție a unui turn istoric care comemorează apărarea orașului Katowice în 1939.",
+            "en": "A reconstruction of a historic tower, commemorating the defense of Katowice in 1939."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit einer Fahrt zum einzigartigen Arbeiterviertel Nikiszowiec. Nach der Erkundung der Backsteingebäude radeln Sie zurück ins Zentrum zur Kulturzone, um das Schlesische Museum und den Spodek zu besichtigen. Der Nachmittag ist für das pulsierende Herz der Stadt reserviert: die Mariacka-Straße für eine wohlverdiente Mittagspause und die beeindruckende Christkönig-Kathedrale. Die Tour endet am historischen Fallschirmturm im Kościuszko-Park, einem Ort der Besinnung.",
+        "hu": "Kerékpártúrája az egyedülálló Nikiszowiec munkásnegyedbe vezet. A téglaházak felfedezése után visszateker a központba, a Kultúra Zónájába, hogy megnézze a Sziléziai Múzeumot és a Spodeket. A délután a város lüktető szívének van szentelve: a Mariacka utcának egy jól megérdemelt ebédszünetre és a lenyűgöző Krisztus Király-székesegyháznak. A túra a történelmi Ejtőernyős toronynál, az elmélkedés helyszínén, a Kościuszko Parkban ér véget.",
+        "ro": "Turul cu bicicleta începe cu o plimbare către cartierul muncitoresc unic Nikiszowiec. După ce explorați clădirile din cărămidă, pedalați înapoi în centru, în Zona Culturală, pentru a vizita Muzeul Silezian și Spodek. După-amiaza este rezervată inimii vibrante a orașului: strada Mariacka pentru o pauză de prânz binemeritată și impresionanta Catedrală Hristos Rege. Turul se încheie la istoricul Turn de parașutism din Parcul Kościuszko, un loc de reflecție.",
+        "en": "Your bike tour starts with a ride to the unique workers' district of Nikiszowiec. After exploring the brick buildings, you'll cycle back to the center to the Culture Zone to visit the Silesian Museum and Spodek. The afternoon is reserved for the vibrant heart of the city: Mariacka Street for a well-deserved lunch break and the impressive Cathedral of Christ the King. The tour concludes at the historic Parachute Tower in Kościuszko Park, a place for reflection."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Żurek śląski",
+            "tip": "Eine saure Roggenmehlsuppe, oft mit Wurst und Ei serviert. Probieren Sie es im 'Żurownia'."
+          },
+          {
+            "name": "Rolada śląska",
+            "tip": "Eine Rinderroulade, gefüllt mit Speck, Gurken und Zwiebeln, typischerweise mit Klößen und Rotkohl serviert. Ein Klassiker im 'Śląska Prohibicja'."
+          },
+          {
+            "name": "Kluski śląskie",
+            "tip": "Kartoffelklöße mit einem charakteristischen Grübchen in der Mitte, perfekt für Soße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai żurek",
+            "tip": "Savanyú rozsleves, gyakran kolbásszal és tojással tálalva. Kóstolja meg a 'Żurownia'-ban."
+          },
+          {
+            "name": "Sziléziai rolada",
+            "tip": "Marhahústekercs szalonnával, uborkával és hagymával töltve, általában gombóccal és vörös káposztával. Klasszikus a 'Śląska Prohibicja'-ban."
+          },
+          {
+            "name": "Sziléziai gombóc (Kluski)",
+            "tip": "Burgonyagombóc jellegzetes mélyedéssel a közepén, tökéletes a szószokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Żurek silezian",
+            "tip": "O supă acră de secară, adesea servită cu cârnați și ou. Încercați-o la 'Żurownia'."
+          },
+          {
+            "name": "Roladă sileziană",
+            "tip": "O ruladă de vită umplută cu slănină, castraveți și ceapă, servită de obicei cu găluște și varză roșie. Un clasic la 'Śląska Prohibicja'."
+          },
+          {
+            "name": "Kluski śląskie",
+            "tip": "Găluște de cartofi cu o adâncitură caracteristică în mijloc, perfecte pentru sos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian Żurek",
+            "tip": "A sour rye soup, often served with sausage and egg. Try it at 'Żurownia'."
+          },
+          {
+            "name": "Silesian Rolada",
+            "tip": "A beef roulade filled with bacon, pickles, and onions, typically served with dumplings and red cabbage. A classic at 'Śląska Prohibicja'."
+          },
+          {
+            "name": "Kluski śląskie (Silesian Dumplings)",
+            "tip": "Potato dumplings with a characteristic dimple in the middle, perfect for holding gravy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kościuszko-Park",
+            "tip": "Ein großer, ruhiger Park südlich des Zentrums, ideal für eine Pause vom städtischen Trubel.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Dolina Trzech Stawów",
+            "tip": "Das 'Tal der drei Teiche' bietet Spazierwege und eine friedliche Atmosphäre am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtsplattform des Schlesischen Museums",
+            "tip": "Fahren Sie mit dem Aufzug auf den ehemaligen Förderturm und genießen Sie den Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kościuszko Park",
+            "tip": "Nagy, csendes park a központtól délre, ideális a városi nyüzsgésből való kiszakadáshoz.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Három Tó Völgye (Dolina Trzech Stawów)",
+            "tip": "A 'Három Tó Völgye' sétautakat és békés vízparti hangulatot kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sziléziai Múzeum kilátótornya",
+            "tip": "Menjen fel lifttel az egykori bányatoronyba, és élvezze a panorámát.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kościuszko",
+            "tip": "Un parc mare și liniștit la sud de centru, ideal pentru o pauză de agitația orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Valea Celor Trei Iazuri (Dolina Trzech Stawów)",
+            "tip": "Oferă poteci de plimbare și o atmosferă pașnică pe malul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Platforma de observare a Muzeului Silezian",
+            "tip": "Luați liftul pe fostul turn minier pentru a vă bucura de o vedere panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kościuszko Park",
+            "tip": "A large, quiet park south of the center, ideal for a break from the urban bustle.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Valley of Three Ponds (Dolina Trzech Stawów)",
+            "tip": "Offers walking paths and a peaceful waterside atmosphere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Silesian Museum Observation Tower",
+            "tip": "Take the lift up the former mining tower to enjoy a panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Silesia City Center",
+            "tip": "Ein riesiges Einkaufszentrum auf dem Gelände eines ehemaligen Bergwerks, das moderne Geschäfte mit industrieller Architektur verbindet."
+          },
+          {
+            "name": "Gryfne Karlusy",
+            "tip": "Ein Souvenirladen mit modernen, stilvollen Artikeln, die von der schlesischen Kultur und dem Dialekt inspiriert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Silesia City Center",
+            "tip": "Hatalmas bevásárlóközpont egykori bánya területén, ötvözi a modern üzleteket az ipari építészettel."
+          },
+          {
+            "name": "Gryfne Karlusy",
+            "tip": "Sziléziai kultúra és dialektus által ihletett modern, stílusos ajándéktárgyakat kínáló bolt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Silesia City Center",
+            "tip": "Un centru comercial uriaș pe situl unei foste mine, combinând magazine moderne cu arhitectura industrială."
+          },
+          {
+            "name": "Gryfne Karlusy",
+            "tip": "Un magazin de suveniruri cu articole moderne și stilate, inspirate de cultura și dialectul silezian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesia City Center",
+            "tip": "A huge shopping mall on the site of a former coal mine, blending modern shops with industrial architecture."
+          },
+          {
+            "name": "Gryfne Karlusy",
+            "tip": "A souvenir shop with modern, stylish items inspired by Silesian culture and dialect."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das städtische Fahrradverleihsystem 'City by bike'.",
+          "Einige Radwege verlaufen entlang alter Eisenbahnstrecken und bieten eine einzigartige Perspektive.",
+          "Seien Sie im Stadtzentrum vorsichtig, da Sie sich die Straße oft mit Straßenbahnen teilen.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders in der Nähe von Touristenattraktionen."
+        ],
+        "hu": [
+          "Használja a 'City by bike' városi kerékpárkölcsönző rendszert.",
+          "Néhány kerékpárút régi vasútvonalak mentén halad, egyedi perspektívát kínálva.",
+          "Legyen óvatos a városközpontban, mivel gyakran osztoznia kell az úton a villamosokkal.",
+          "Mindig zárja le jól a kerékpárját, különösen a turisztikai látványosságok közelében."
+        ],
+        "ro": [
+          "Utilizați sistemul municipal de închiriere de biciclete 'City by bike'.",
+          "Unele piste de biciclete urmează trasee vechi de cale ferată, oferind o perspectivă unică.",
+          "Fiți prudenți în centrul orașului, deoarece adesea împărțiți drumul cu tramvaiele.",
+          "Încuiati-vă întotdeauna bicicleta în siguranță, în special în apropierea atracțiilor turistice."
+        ],
+        "en": [
+          "Use the 'City by bike' municipal bike rental system.",
+          "Some cycle paths follow old railway lines, offering a unique perspective.",
+          "Be cautious in the city center as you often share the road with trams.",
+          "Always lock your bike securely, especially near tourist attractions."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 10.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nikiszowiec",
+            "hu": "Nikiszowiec",
+            "ro": "Nikiszowiec",
+            "en": "Nikiszowiec"
+          },
+          "coords": [
+            19.0701,
+            50.2452
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und erkunden Sie diesen faszinierenden Backsteinbezirk zu Fuß.",
+            "hu": "Parkolja le az autót, és fedezze fel gyalog ezt a lenyűgöző téglanegyedet.",
+            "ro": "Parcați mașina și explorați pe jos acest cartier fascinant din cărămidă.",
+            "en": "Park your car and explore this fascinating brick district on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesisches Museum",
+            "hu": "Sziléziai Múzeum",
+            "ro": "Muzeul Silezian",
+            "en": "Silesian Museum"
+          },
+          "coords": [
+            19.0335,
+            50.2655
+          ],
+          "category": "museums",
+          "arrive_at": "11:03",
+          "stay_min": 120,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nutzen Sie die Tiefgarage des Museums. Von hier aus ist die Kulturzone leicht zu Fuß erreichbar.",
+            "hu": "Használja a múzeum mélygarázsát. Innen a Kultúra Zóna gyalogosan könnyen elérhető.",
+            "ro": "Folosiți parcarea subterană a muzeului. De aici, Zona Culturală este ușor accesibilă pe jos.",
+            "en": "Use the museum's underground parking. The Culture Zone is easily accessible on foot from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spodek",
+            "hu": "Spodek",
+            "ro": "Spodek",
+            "en": "Spodek"
+          },
+          "coords": [
+            19.029,
+            50.2681
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:08",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum entfernt, bewundern Sie die ikonische Architektur.",
+            "hu": "Egy rövid séta a múzeumtól, csodálja meg az ikonikus építészetet.",
+            "ro": "La o scurtă plimbare de muzeu, admirați arhitectura emblematică.",
+            "en": "A short walk from the museum, admire the iconic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Schlesischen Aufständischen",
+            "hu": "Sziléziai Felkelők Emlékműve",
+            "ro": "Monumentul Insurgenților Silezieni",
+            "en": "Monument to the Silesian Insurgents"
+          },
+          "coords": [
+            19.0285,
+            50.2662
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieses mächtige Denkmal befindet sich direkt neben dem Spodek.",
+            "hu": "Ez a hatalmas emlékmű közvetlenül a Spodek mellett található.",
+            "ro": "Acest monument impunător se află chiar lângă Spodek.",
+            "en": "This powerful monument is located right next to Spodek."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariacka-Straße",
+            "hu": "Mariacka utca",
+            "ro": "Strada Mariacka",
+            "en": "Mariacka Street"
+          },
+          "coords": [
+            19.0261,
+            50.2592
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:14",
+          "stay_min": 90,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem der nahegelegenen Parkhäuser und genießen Sie die Fußgängerzone.",
+            "hu": "Parkoljon egy közeli parkolóházban, és élvezze a sétálóutcát.",
+            "ro": "Parcați într-una dintre parcările din apropiere și bucurați-vă de zona pietonală.",
+            "en": "Park in one of the nearby parking garages and enjoy the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Christkönig",
+            "hu": "Krisztus Király-székesegyház",
+            "ro": "Catedrala Hristos Rege",
+            "en": "Cathedral of Christ the King"
+          },
+          "coords": [
+            19.0188,
+            50.2545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:54",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Mariacka-Straße, der sich für die Pracht des Innenraums lohnt.",
+            "hu": "Egy rövid séta a Mariacka utcától, ami megéri a belső tér pompájáért.",
+            "ro": "O scurtă plimbare de la strada Mariacka, care merită pentru splendoarea interiorului.",
+            "en": "A short walk from Mariacka Street, well worth it for the splendor of the interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Fahrt in den historischen Stadtteil Nikiszowiec. Nachdem Sie das Auto geparkt haben, erkunden Sie diesen einzigartigen Ort zu Fuß. Am späten Vormittag fahren Sie zur Kulturzone, parken am Schlesischen Museum und entdecken das Museum, den Spodek und das Aufständendenkmal als einen fußläufigen Cluster. Am Nachmittag fahren Sie ins Herz der Stadt, parken erneut und genießen die Atmosphäre der Mariacka-Straße und die Ruhe der nahegelegenen Christkönig-Kathedrale.",
+        "hu": "A nap egy utazással kezdődik a történelmi Nikiszowiec negyedbe. Miután leparkolta az autót, gyalogosan fedezi fel ezt az egyedülálló helyet. A késő délelőtt folyamán a Kultúra Zónájába hajt, leparkol a Sziléziai Múzeumnál, és egy gyalogos klaszterként fedezi fel a múzeumot, a Spodeket és a Felkelők Emlékművét. Délután a város szívébe utazik, újra leparkol, és élvezi a Mariacka utca hangulatát és a közeli Krisztus Király-székesegyház csendjét.",
+        "ro": "Ziua începe cu o călătorie cu mașina spre cartierul istoric Nikiszowiec. După ce parcați, explorați acest loc unic pe jos. Spre sfârșitul dimineții, conduceți spre Zona Culturală, parcați la Muzeul Silezian și explorați muzeul, Spodek și Monumentul Insurgenților ca un cluster pietonal. După-amiaza, vă deplasați în inima orașului, parcați din nou și vă bucurați de atmosfera străzii Mariacka și de liniștea Catedralei Hristos Rege din apropiere.",
+        "en": "Your day begins with a drive to the historic district of Nikiszowiec. After parking, you'll explore this unique place on foot. In the late morning, you drive to the Culture Zone, park at the Silesian Museum, and discover the museum, Spodek, and the Insurgents' Monument as a walking cluster. In the afternoon, you'll drive into the heart of the city, park again, and enjoy the atmosphere of Mariacka Street and the tranquility of the nearby Cathedral of Christ the King."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Żurek śląski",
+            "tip": "Eine saure Roggenmehlsuppe, oft mit Wurst und Ei serviert. Probieren Sie es im 'Żurownia'."
+          },
+          {
+            "name": "Rolada śląska",
+            "tip": "Eine Rinderroulade, gefüllt mit Speck, Gurken und Zwiebeln, typischerweise mit Klößen und Rotkohl serviert. Ein Klassiker im 'Śląska Prohibicja'."
+          },
+          {
+            "name": "Kluski śląskie",
+            "tip": "Kartoffelklöße mit einem charakteristischen Grübchen in der Mitte, perfekt für Soße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai żurek",
+            "tip": "Savanyú rozsleves, gyakran kolbásszal és tojással tálalva. Kóstolja meg a 'Żurownia'-ban."
+          },
+          {
+            "name": "Sziléziai rolada",
+            "tip": "Marhahústekercs szalonnával, uborkával és hagymával töltve, általában gombóccal és vörös káposztával. Klasszikus a 'Śląska Prohibicja'-ban."
+          },
+          {
+            "name": "Sziléziai gombóc (Kluski)",
+            "tip": "Burgonyagombóc jellegzetes mélyedéssel a közepén, tökéletes a szószokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Żurek silezian",
+            "tip": "O supă acră de secară, adesea servită cu cârnați și ou. Încercați-o la 'Żurownia'."
+          },
+          {
+            "name": "Roladă sileziană",
+            "tip": "O ruladă de vită umplută cu slănină, castraveți și ceapă, servită de obicei cu găluște și varză roșie. Un clasic la 'Śląska Prohibicja'."
+          },
+          {
+            "name": "Kluski śląskie",
+            "tip": "Găluște de cartofi cu o adâncitură caracteristică în mijloc, perfecte pentru sos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian Żurek",
+            "tip": "A sour rye soup, often served with sausage and egg. Try it at 'Żurownia'."
+          },
+          {
+            "name": "Silesian Rolada",
+            "tip": "A beef roulade filled with bacon, pickles, and onions, typically served with dumplings and red cabbage. A classic at 'Śląska Prohibicja'."
+          },
+          {
+            "name": "Kluski śląskie (Silesian Dumplings)",
+            "tip": "Potato dumplings with a characteristic dimple in the middle, perfect for holding gravy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kościuszko-Park",
+            "tip": "Ein großer, ruhiger Park südlich des Zentrums, ideal für eine Pause vom städtischen Trubel.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Dolina Trzech Stawów",
+            "tip": "Das 'Tal der drei Teiche' bietet Spazierwege und eine friedliche Atmosphäre am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtsplattform des Schlesischen Museums",
+            "tip": "Fahren Sie mit dem Aufzug auf den ehemaligen Förderturm und genießen Sie den Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kościuszko Park",
+            "tip": "Nagy, csendes park a központtól délre, ideális a városi nyüzsgésből való kiszakadáshoz.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Három Tó Völgye (Dolina Trzech Stawów)",
+            "tip": "A 'Három Tó Völgye' sétautakat és békés vízparti hangulatot kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sziléziai Múzeum kilátótornya",
+            "tip": "Menjen fel lifttel az egykori bányatoronyba, és élvezze a panorámát.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kościuszko",
+            "tip": "Un parc mare și liniștit la sud de centru, ideal pentru o pauză de agitația orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Valea Celor Trei Iazuri (Dolina Trzech Stawów)",
+            "tip": "Oferă poteci de plimbare și o atmosferă pașnică pe malul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Platforma de observare a Muzeului Silezian",
+            "tip": "Luați liftul pe fostul turn minier pentru a vă bucura de o vedere panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kościuszko Park",
+            "tip": "A large, quiet park south of the center, ideal for a break from the urban bustle.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Valley of Three Ponds (Dolina Trzech Stawów)",
+            "tip": "Offers walking paths and a peaceful waterside atmosphere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Silesian Museum Observation Tower",
+            "tip": "Take the lift up the former mining tower to enjoy a panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Silesia City Center",
+            "tip": "Ein riesiges Einkaufszentrum auf dem Gelände eines ehemaligen Bergwerks, das moderne Geschäfte mit industrieller Architektur verbindet."
+          },
+          {
+            "name": "Gryfne Karlusy",
+            "tip": "Ein Souvenirladen mit modernen, stilvollen Artikeln, die von der schlesischen Kultur und dem Dialekt inspiriert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Silesia City Center",
+            "tip": "Hatalmas bevásárlóközpont egykori bánya területén, ötvözi a modern üzleteket az ipari építészettel."
+          },
+          {
+            "name": "Gryfne Karlusy",
+            "tip": "Sziléziai kultúra és dialektus által ihletett modern, stílusos ajándéktárgyakat kínáló bolt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Silesia City Center",
+            "tip": "Un centru comercial uriaș pe situl unei foste mine, combinând magazine moderne cu arhitectura industrială."
+          },
+          {
+            "name": "Gryfne Karlusy",
+            "tip": "Un magazin de suveniruri cu articole moderne și stilate, inspirate de cultura și dialectul silezian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesia City Center",
+            "tip": "A huge shopping mall on the site of a former coal mine, blending modern shops with industrial architecture."
+          },
+          {
+            "name": "Gryfne Karlusy",
+            "tip": "A souvenir shop with modern, stylish items inspired by Silesian culture and dialect."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist im Stadtzentrum oft kostenpflichtig und begrenzt. Nutzen Sie Parkhäuser.",
+          "Planen Sie Ihre Route, um den Berufsverkehr am Morgen und Abend zu meiden.",
+          "Beachten Sie die 'Strefa ruchu' (Verkehrsberuhigter Bereich), in denen Fußgänger Vorrang haben.",
+          "Ein GPS ist unerlässlich, da einige Straßenführungen komplex sein können."
+        ],
+        "hu": [
+          "A parkolás a városközpontban gyakran fizetős és korlátozott. Használjon parkolóházakat.",
+          "Tervezze meg az útvonalat, hogy elkerülje a reggeli és esti csúcsforgalmat.",
+          "Vegye figyelembe a 'Strefa ruchu' (csillapított forgalmú övezet) zónákat, ahol a gyalogosoknak elsőbbségük van.",
+          "A GPS elengedhetetlen, mivel néhány út vonalvezetése bonyolult lehet."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este adesea cu plată și limitată. Folosiți parcările supraetajate.",
+          "Planificați-vă traseul pentru a evita orele de vârf de dimineață și de seară.",
+          "Fiți atenți la zonele 'Strefa ruchu' (zonă cu trafic redus), unde pietonii au prioritate.",
+          "Un GPS este esențial, deoarece unele trasee pot fi complexe."
+        ],
+        "en": [
+          "Parking in the city center is often paid and limited. Use multi-story car parks.",
+          "Plan your route to avoid morning and evening rush hour traffic.",
+          "Be aware of 'Strefa ruchu' (low traffic zones), where pedestrians have priority.",
+          "A GPS is essential as some road layouts can be complex."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 10.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nikiszowiec",
+            "hu": "Nikiszowiec",
+            "ro": "Nikiszowiec",
+            "en": "Nikiszowiec"
+          },
+          "coords": [
+            19.0701,
+            50.2452
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum; die Fahrt selbst ist schon ein kleines Erlebnis.",
+            "hu": "Menjen busszal a városközpontból; már maga az utazás is egy kis élmény.",
+            "ro": "Luați un autobuz din centrul orașului; călătoria în sine este o mică experiență.",
+            "en": "Take a bus from the city center; the ride itself is a small experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariacka-Straße",
+            "hu": "Mariacka utca",
+            "ro": "Strada Mariacka",
+            "en": "Mariacka Street"
+          },
+          "coords": [
+            19.0261,
+            50.2592
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie in der Nähe des Hauptbahnhofs aus und gehen Sie ein paar Minuten zu Fuß.",
+            "hu": "Szálljon le a főpályaudvar közelében, és sétáljon néhány percet.",
+            "ro": "Coborâți lângă gara principală și mergeți câteva minute pe jos.",
+            "en": "Get off near the main train station and walk for a few minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Christkönig",
+            "hu": "Krisztus Király-székesegyház",
+            "ro": "Catedrala Hristos Rege",
+            "en": "Cathedral of Christ the King"
+          },
+          "coords": [
+            19.0188,
+            50.2545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, angenehmer Spaziergang vom Trubel der Mariacka-Straße.",
+            "hu": "Egy rövid, kellemes séta a Mariacka utca nyüzsgésétől.",
+            "ro": "O scurtă plimbare plăcută de la agitația străzii Mariacka.",
+            "en": "A short, pleasant walk from the hustle and bustle of Mariacka Street."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesisches Museum",
+            "hu": "Sziléziai Múzeum",
+            "ro": "Muzeul Silezian",
+            "en": "Silesian Museum"
+          },
+          "coords": [
+            19.0335,
+            50.2655
+          ],
+          "category": "museums",
+          "arrive_at": "14:24",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie eine Straßenbahn zur Haltestelle 'Katowice Rondo' und gehen Sie zum Museum.",
+            "hu": "Menjen villamossal a 'Katowice Rondo' megállóig, és sétáljon el a múzeumig.",
+            "ro": "Luați un tramvai până la stația 'Katowice Rondo' și mergeți pe jos până la muzeu.",
+            "en": "Take a tram to the 'Katowice Rondo' stop and walk to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Spodek",
+            "hu": "Spodek",
+            "ro": "Spodek",
+            "en": "Spodek"
+          },
+          "coords": [
+            19.029,
+            50.2681
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:58",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auf dem Weg zurück zur Straßenbahnhaltestelle kommen Sie direkt am Spodek vorbei.",
+            "hu": "A villamosmegálló felé vezető úton közvetlenül a Spodek mellett halad el.",
+            "ro": "În drum spre stația de tramvai, veți trece chiar pe lângă Spodek.",
+            "en": "On your way back to the tram stop, you'll pass right by Spodek."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Schlesischen Aufständischen",
+            "hu": "Sziléziai Felkelők Emlékműve",
+            "ro": "Monumentul Insurgenților Silezieni",
+            "en": "Monument to the Silesian Insurgents"
+          },
+          "coords": [
+            19.0285,
+            50.2662
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Denkmal befindet sich im selben Komplex wie Spodek und das Museum.",
+            "hu": "Az emlékmű ugyanabban a komplexumban található, mint a Spodek és a múzeum.",
+            "ro": "Monumentul este situat în același complex cu Spodek și muzeul.",
+            "en": "The monument is located in the same complex as Spodek and the museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour beginnt mit einer Busfahrt in das historische Viertel Nikiszowiec. Nach der Erkundung kehren Sie mit dem Bus ins Stadtzentrum zurück, um die Mariacka-Straße und die nahe gelegene Kathedrale zu Fuß zu erkunden. Am Nachmittag bringt Sie eine Straßenbahn zur Kulturzone. Hier besichtigen Sie das Schlesische Museum, den Spodek und das Denkmal der Schlesischen Aufständischen, die alle in einem fußläufigen Bereich liegen, bevor Sie Ihre Rückreise antreten.",
+        "hu": "Túrája egy buszúttal kezdődik a történelmi Nikiszowiec negyedbe. A felfedezés után busszal tér vissza a városközpontba, hogy gyalogosan fedezze fel a Mariacka utcát és a közeli székesegyházat. Délután villamossal jut el a Kultúra Zónájába. Itt megtekintheti a Sziléziai Múzeumot, a Spodeket és a Sziléziai Felkelők Emlékművét, melyek mind gyalogosan elérhetők, mielőtt visszaindulna.",
+        "ro": "Turul începe cu o călătorie cu autobuzul spre cartierul istoric Nikiszowiec. După explorare, vă întoarceți cu autobuzul în centrul orașului pentru a explora pe jos strada Mariacka și catedrala din apropiere. După-amiaza, un tramvai vă duce în Zona Culturală. Aici vizitați Muzeul Silezian, Spodek și Monumentul Insurgenților Silezieni, toate situate într-o zonă pietonală, înainte de a vă întoarce.",
+        "en": "Your tour starts with a bus ride to the historic Nikiszowiec district. After exploring, you'll return by bus to the city center to explore Mariacka Street and the nearby cathedral on foot. In the afternoon, a tram takes you to the Culture Zone. Here you'll visit the Silesian Museum, Spodek, and the Monument to the Silesian Insurgents, all within a walkable area, before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Żurek śląski",
+            "tip": "Eine saure Roggenmehlsuppe, oft mit Wurst und Ei serviert. Probieren Sie es im 'Żurownia'."
+          },
+          {
+            "name": "Rolada śląska",
+            "tip": "Eine Rinderroulade, gefüllt mit Speck, Gurken und Zwiebeln, typischerweise mit Klößen und Rotkohl serviert. Ein Klassiker im 'Śląska Prohibicja'."
+          },
+          {
+            "name": "Kluski śląskie",
+            "tip": "Kartoffelklöße mit einem charakteristischen Grübchen in der Mitte, perfekt für Soße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai żurek",
+            "tip": "Savanyú rozsleves, gyakran kolbásszal és tojással tálalva. Kóstolja meg a 'Żurownia'-ban."
+          },
+          {
+            "name": "Sziléziai rolada",
+            "tip": "Marhahústekercs szalonnával, uborkával és hagymával töltve, általában gombóccal és vörös káposztával. Klasszikus a 'Śląska Prohibicja'-ban."
+          },
+          {
+            "name": "Sziléziai gombóc (Kluski)",
+            "tip": "Burgonyagombóc jellegzetes mélyedéssel a közepén, tökéletes a szószokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Żurek silezian",
+            "tip": "O supă acră de secară, adesea servită cu cârnați și ou. Încercați-o la 'Żurownia'."
+          },
+          {
+            "name": "Roladă sileziană",
+            "tip": "O ruladă de vită umplută cu slănină, castraveți și ceapă, servită de obicei cu găluște și varză roșie. Un clasic la 'Śląska Prohibicja'."
+          },
+          {
+            "name": "Kluski śląskie",
+            "tip": "Găluște de cartofi cu o adâncitură caracteristică în mijloc, perfecte pentru sos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian Żurek",
+            "tip": "A sour rye soup, often served with sausage and egg. Try it at 'Żurownia'."
+          },
+          {
+            "name": "Silesian Rolada",
+            "tip": "A beef roulade filled with bacon, pickles, and onions, typically served with dumplings and red cabbage. A classic at 'Śląska Prohibicja'."
+          },
+          {
+            "name": "Kluski śląskie (Silesian Dumplings)",
+            "tip": "Potato dumplings with a characteristic dimple in the middle, perfect for holding gravy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kościuszko-Park",
+            "tip": "Ein großer, ruhiger Park südlich des Zentrums, ideal für eine Pause vom städtischen Trubel.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Dolina Trzech Stawów",
+            "tip": "Das 'Tal der drei Teiche' bietet Spazierwege und eine friedliche Atmosphäre am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtsplattform des Schlesischen Museums",
+            "tip": "Fahren Sie mit dem Aufzug auf den ehemaligen Förderturm und genießen Sie den Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kościuszko Park",
+            "tip": "Nagy, csendes park a központtól délre, ideális a városi nyüzsgésből való kiszakadáshoz.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Három Tó Völgye (Dolina Trzech Stawów)",
+            "tip": "A 'Három Tó Völgye' sétautakat és békés vízparti hangulatot kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sziléziai Múzeum kilátótornya",
+            "tip": "Menjen fel lifttel az egykori bányatoronyba, és élvezze a panorámát.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kościuszko",
+            "tip": "Un parc mare și liniștit la sud de centru, ideal pentru o pauză de agitația orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Valea Celor Trei Iazuri (Dolina Trzech Stawów)",
+            "tip": "Oferă poteci de plimbare și o atmosferă pașnică pe malul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Platforma de observare a Muzeului Silezian",
+            "tip": "Luați liftul pe fostul turn minier pentru a vă bucura de o vedere panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kościuszko Park",
+            "tip": "A large, quiet park south of the center, ideal for a break from the urban bustle.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Valley of Three Ponds (Dolina Trzech Stawów)",
+            "tip": "Offers walking paths and a peaceful waterside atmosphere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Silesian Museum Observation Tower",
+            "tip": "Take the lift up the former mining tower to enjoy a panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Silesia City Center",
+            "tip": "Ein riesiges Einkaufszentrum auf dem Gelände eines ehemaligen Bergwerks, das moderne Geschäfte mit industrieller Architektur verbindet."
+          },
+          {
+            "name": "Gryfne Karlusy",
+            "tip": "Ein Souvenirladen mit modernen, stilvollen Artikeln, die von der schlesischen Kultur und dem Dialekt inspiriert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Silesia City Center",
+            "tip": "Hatalmas bevásárlóközpont egykori bánya területén, ötvözi a modern üzleteket az ipari építészettel."
+          },
+          {
+            "name": "Gryfne Karlusy",
+            "tip": "Sziléziai kultúra és dialektus által ihletett modern, stílusos ajándéktárgyakat kínáló bolt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Silesia City Center",
+            "tip": "Un centru comercial uriaș pe situl unei foste mine, combinând magazine moderne cu arhitectura industrială."
+          },
+          {
+            "name": "Gryfne Karlusy",
+            "tip": "Un magazin de suveniruri cu articole moderne și stilate, inspirate de cultura și dialectul silezian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesia City Center",
+            "tip": "A huge shopping mall on the site of a former coal mine, blending modern shops with industrial architecture."
+          },
+          {
+            "name": "Gryfne Karlusy",
+            "tip": "A souvenir shop with modern, stylish items inspired by Silesian culture and dialect."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr (ZTM), um Geld zu sparen.",
+          "Nutzen Sie Apps wie Jakdojade, um Ihre Route in Echtzeit zu planen.",
+          "Straßenbahnen sind oft schneller als Busse, da sie eigene Fahrspuren haben.",
+          "Validieren Sie Ihr Ticket sofort nach dem Einsteigen, um eine Strafe zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez (ZTM), hogy pénzt takarítson meg.",
+          "Használjon olyan alkalmazásokat, mint a Jakdojade, hogy valós időben tervezze meg az útvonalát.",
+          "A villamosok gyakran gyorsabbak, mint a buszok, mivel saját sávjuk van.",
+          "Érvényesítse a jegyét azonnal felszállás után, hogy elkerülje a büntetést."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public (ZTM) pentru a economisi bani.",
+          "Utilizați aplicații precum Jakdojade pentru a vă planifica traseul în timp real.",
+          "Tramvaiele sunt adesea mai rapide decât autobuzele, deoarece au benzi proprii.",
+          "Validați biletul imediat după urcare pentru a evita o amendă."
+        ],
+        "en": [
+          "Buy a day ticket for public transport (ZTM) to save money.",
+          "Use apps like Jakdojade to plan your route in real-time.",
+          "Trams are often faster than buses as they have their own lanes.",
+          "Validate your ticket immediately upon boarding to avoid a fine."
+        ]
+      }
+    }
+  }
+}

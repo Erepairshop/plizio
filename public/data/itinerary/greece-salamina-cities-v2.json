@@ -1,0 +1,1513 @@
+{
+  "city_id": "greece-salamina-cities-v2",
+  "anchor": {
+    "name": "Salamina",
+    "coords": [
+      23.5,
+      37.96
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Agios Dimitrios",
+            "hu": "Agios Dimitrios templom",
+            "ro": "Biserica Agios Dimitrios",
+            "en": "Church of Agios Dimitrios"
+          },
+          "coords": [
+            23.4946,
+            37.9631
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier den Tag, um die morgendliche Ruhe und die schönen Ikonen zu genießen.",
+            "hu": "Kezdje itt a napot, hogy élvezze a reggeli csendet és a gyönyörű ikonokat.",
+            "ro": "Începeți ziua aici pentru a vă bucura de liniștea de dimineață și de icoanele frumoase.",
+            "en": "Start your day here to enjoy the morning tranquility and the beautiful icons."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Volkskunst",
+            "hu": "Népművészeti Múzeum",
+            "ro": "Muzeul de Artă Populară",
+            "en": "Museum of Folk Art"
+          },
+          "coords": [
+            23.4925,
+            37.9642
+          ],
+          "category": "museums",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die traditionellen Trachten und landwirtschaftlichen Werkzeuge.",
+            "hu": "Fókuszáljon a hagyományos viseletekre és a mezőgazdasági eszközökre.",
+            "ro": "Concentrați-vă pe costumele tradiționale și uneltele agricole expuse.",
+            "en": "Focus on the traditional costumes and the agricultural tools on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Salamina",
+            "hu": "Szalaminai Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Salamina",
+            "en": "Archaeological Museum of Salamina"
+          },
+          "coords": [
+            23.4899,
+            37.9655
+          ],
+          "category": "museums",
+          "arrive_at": "11:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Funde aus der berühmten Schlacht von Salamis.",
+            "hu": "Ne hagyja ki a híres szalamiszi csatából származó leleteket.",
+            "ro": "Nu ratați artefactele din celebra bătălie de la Salamina.",
+            "en": "Don't miss the artifacts related to the famous Battle of Salamis."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Meer",
+            "hu": "Ebéd a tengernél",
+            "ro": "Prânz la malul mării",
+            "en": "Lunch by the Sea"
+          },
+          "coords": [
+            23.4851,
+            37.9681
+          ],
+          "category": "gastro",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie frische Meeresfrüchte in einer der Tavernen am Hafen.",
+            "hu": "Kóstoljon friss tengeri herkentyűket a kikötői tavernák egyikében.",
+            "ro": "Încercați fructe de mare proaspete la una dintre tavernele de lângă port.",
+            "en": "Try some fresh seafood at one of the tavernas near the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Euripides-Theater",
+            "hu": "Euripidész Színház",
+            "ro": "Teatrul Euripide",
+            "en": "Euripides Theatre"
+          },
+          "coords": [
+            23.4988,
+            37.9589
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Akustik und den Blick auf die Stadt von den oberen Rängen.",
+            "hu": "Élvezze az akusztikát és a városra nyíló kilátást a felső sorokból.",
+            "ro": "Bucurați-vă de acustică și de vederea asupra orașului de pe rândurile superioare.",
+            "en": "Enjoy the acoustics and the view of the town from the upper tiers."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühlen von Salamina",
+            "hu": "Szalaminai szélmalmok",
+            "ro": "Morile de vânt din Salamina",
+            "en": "Windmills of Salamina"
+          },
+          "coords": [
+            23.5151,
+            37.9575
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Fotos im späten Nachmittagslicht.",
+            "hu": "Tökéletes helyszín a késő délutáni fényekben való fotózáshoz.",
+            "ro": "Un loc perfect pentru fotografii în lumina de după-amiază târzie.",
+            "en": "A perfect spot for photos in the late afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Grab der Salamis-Kämpfer",
+            "hu": "A szalamiszi harcosok sírja",
+            "ro": "Mormântul luptătorilor de la Salamina",
+            "en": "Tomb of the Salamis Warriors"
+          },
+          "coords": [
+            23.535,
+            37.955
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:26",
+          "stay_min": 49,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein Moment des Nachdenkens an diesem historisch bedeutsamen Ort.",
+            "hu": "Egy pillanatnyi elgondolkodás ezen a történelmileg jelentős helyen.",
+            "ro": "Un moment de reflecție la acest sit istoric semnificativ.",
+            "en": "A moment of reflection at this historically significant site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang im Herzen von Salamina bei der Kirche Agios Dimitrios. Am Vormittag erkunden Sie das kulturelle Erbe im Volkskunst- und Archäologischen Museum. Nach einem tiefen Einblick in die Geschichte genießen Sie ein Mittagessen mit frischen Meeresfrüchten direkt am Hafen. Der Nachmittag ist der antiken Welt gewidmet: Besuchen Sie das Euripides-Theater und spüren Sie die historische Atmosphäre. Beenden Sie den Tag bei den alten Windmühlen und dem Grab der Salamis-Kämpfer, während die Sonne untergeht.",
+        "hu": "Sétáját Szalamina szívében, az Agios Dimitrios templomnál kezdje. A délelőtt folyamán fedezze fel a kulturális örökséget a Népművészeti és a Régészeti Múzeumban. A történelembe való mély betekintés után fogyasszon el egy friss tengeri herkentyűkből álló ebédet a kikötőben. A délután az ókori világé: látogasson el az Euripidész Színházba, és érezze át a történelmi hangulatot. A napot a régi szélmalmoknál és a szalamiszi harcosok sírjánál fejezze be, miközben a nap lenyugszik.",
+        "ro": "Începeți turul pietonal în inima Salaminei, la Biserica Agios Dimitrios. În timpul dimineții, explorați moștenirea culturală la Muzeul de Artă Populară și la Muzeul de Arheologie. După o incursiune în istorie, savurați un prânz cu fructe de mare proaspete în port. După-amiaza este dedicată lumii antice: vizitați Teatrul Euripide și simțiți atmosfera istorică. Încheiați ziua la vechile mori de vânt și la Mormântul luptătorilor de la Salamina, în timp ce soarele apune.",
+        "en": "Start your walking tour in the heart of Salamina at the Church of Agios Dimitrios. In the morning, explore the cultural heritage at the Folk Art and Archaeological Museums. After a deep dive into history, enjoy a fresh seafood lunch right at the port. The afternoon is dedicated to the ancient world: visit the Euripides Theatre and feel the historical atmosphere. End your day at the old windmills and the Tomb of the Salamis Warriors as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Oktopus",
+            "tip": "Gegrillt mit Olivenöl und Zitrone, eine lokale Delikatesse."
+          },
+          {
+            "name": "Griechischer Salat",
+            "tip": "Mit lokalem Feta-Käse und sonnengereiften Tomaten."
+          },
+          {
+            "name": "Kalamarakia Tiganita",
+            "tip": "Frittierte Tintenfischringe, perfekt als Vorspeise oder Hauptgericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss polip",
+            "tip": "Grillezve, olívaolajjal és citrommal, helyi különlegesség."
+          },
+          {
+            "name": "Görög saláta",
+            "tip": "Helyi feta sajttal és napérlelte paradicsommal."
+          },
+          {
+            "name": "Kalamarakia Tiganita",
+            "tip": "Rántott tintahalkarikák, tökéletes előételnek vagy főételnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caracatiță proaspătă",
+            "tip": "La grătar cu ulei de măsline și lămâie, o delicatesă locală."
+          },
+          {
+            "name": "Salată grecească",
+            "tip": "Cu brânză feta locală și roșii coapte la soare."
+          },
+          {
+            "name": "Kalamarakia Tiganita",
+            "tip": "Inele de calamar prăjite, perfecte ca aperitiv sau fel principal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Octopus",
+            "tip": "Grilled with olive oil and lemon, a local delicacy."
+          },
+          {
+            "name": "Greek Salad",
+            "tip": "Made with local feta cheese and sun-ripened tomatoes."
+          },
+          {
+            "name": "Kalamarakia Tiganita",
+            "tip": "Fried calamari rings, perfect as an appetizer or main course."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Psili Ammos",
+            "tip": "Ein ruhiger Spaziergang am Ufer, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Garten des Klosters Faneromeni",
+            "tip": "Finden Sie Frieden in den gepflegten Gärten des Klosters.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt bei den Windmühlen",
+            "tip": "Ein ruhiger Ort, um den Sonnenuntergang über dem Saronischen Golf zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Psili Ammos strand",
+            "tip": "Egy csendes séta a parton, távol a város zajától.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "A Faneromeni kolostor kertje",
+            "tip": "Találjon békét a kolostor gondozott kertjeiben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátó a szélmalmoknál",
+            "tip": "Csendes hely a naplemente megtekintéséhez a Szaróni-öböl felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Psili Ammos",
+            "tip": "O plimbare liniștită pe malul mării pentru a scăpa de agitația orașului.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Grădina Mănăstirii Faneromeni",
+            "tip": "Găsiți pacea în grădinile bine întreținute ale mănăstirii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere la morile de vânt",
+            "tip": "Un loc liniștit pentru a privi apusul peste Golful Saronic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Psili Ammos Beach",
+            "tip": "A quiet stroll along the shore to escape the city bustle.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Faneromeni Monastery Garden",
+            "tip": "Find peace within the monastery's well-kept gardens.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint near the Windmills",
+            "tip": "A quiet spot to watch the sunset over the Saronic Gulf.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wochenmarkt",
+            "tip": "Kaufen Sie Olivenöl, Honig und handgefertigte Keramik."
+          },
+          {
+            "name": "Souvenirläden am Hafen",
+            "tip": "Finden Sie maritime Souvenirs und handgemachten Schmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Vásároljon olívaolajat, mézet és kézzel készített kerámiákat."
+          },
+          {
+            "name": "Ajándékboltok a kikötőben",
+            "tip": "Találjon tengeri témájú ajándéktárgyakat és kézzel készített ékszereket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală locală",
+            "tip": "Cumpărați ulei de măsline, miere și ceramică artizanală."
+          },
+          {
+            "name": "Magazine de suveniruri din port",
+            "tip": "Găsiți suveniruri cu tematică marină și bijuterii handmade."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Weekly Market",
+            "tip": "Shop for olive oil, honey, and handmade ceramics."
+          },
+          {
+            "name": "Portside Souvenir Shops",
+            "tip": "Find nautical-themed souvenirs and handmade jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Gelände hügelig sein kann.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Eine Kopfbedeckung und Sonnencreme sind unerlässlich.",
+          "Planen Sie zusätzliche Zeit ein, um sich in einem Café zu entspannen und die Atmosphäre zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a terep dombos lehet.",
+          "Hozzon magával sok vizet, különösen a nyári hónapokban.",
+          "A fejfedő és a naptej elengedhetetlen.",
+          "Tervezzen be extra időt egy kávézóban való pihenésre és a hangulat élvezetére."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece terenul poate fi deluros.",
+          "Luați multă apă, mai ales în lunile de vară.",
+          "O pălărie și cremă de soare sunt esențiale.",
+          "Planificați timp suplimentar pentru a vă relaxa la o cafenea și a vă bucura de atmosferă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the terrain can be hilly.",
+          "Bring plenty of water, especially during the summer months.",
+          "A hat and sunscreen are essential.",
+          "Plan for extra time to relax at a café and soak in the atmosphere."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 19.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster Faneromeni",
+            "hu": "Faneromeni kolostor",
+            "ro": "Mănăstirea Faneromeni",
+            "en": "Faneromeni Monastery"
+          },
+          "coords": [
+            23.4475,
+            37.9892
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer längeren Fahrt, solange es noch kühl ist. Genießen Sie die Ruhe.",
+            "hu": "Kezdje egy hosszabb tekeréssel, amíg még hűvös van. Élvezze a csendet.",
+            "ro": "Începeți cu o plimbare mai lungă cât încă este răcoare. Bucurați-vă de liniște.",
+            "en": "Start with a longer ride while it's still cool. Enjoy the tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Grab der Salamis-Kämpfer",
+            "hu": "A szalamiszi harcosok sírja",
+            "ro": "Mormântul luptătorilor de la Salamina",
+            "en": "Tomb of the Salamis Warriors"
+          },
+          "coords": [
+            23.535,
+            37.955
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Eine beeindruckende Küstenfahrt führt Sie zu diesem historischen Denkmal.",
+            "hu": "Lenyűgöző tengerparti út vezet ehhez a történelmi emlékműhöz.",
+            "ro": "O plimbare impresionantă pe coastă vă va duce la acest monument istoric.",
+            "en": "An impressive coastal ride will lead you to this historic monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühlen von Salamina",
+            "hu": "Szalaminai szélmalmok",
+            "ro": "Morile de vânt din Salamina",
+            "en": "Windmills of Salamina"
+          },
+          "coords": [
+            23.5151,
+            37.9575
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber steiler Anstieg, der mit einer großartigen Aussicht belohnt wird.",
+            "hu": "Rövid, de meredek emelkedő, melyet nagyszerű kilátás jutalmaz.",
+            "ro": "O urcare scurtă, dar abruptă, recompensată cu o priveliște magnifică.",
+            "en": "A short but steep climb, rewarded with a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause in einem Fischerdorf",
+            "hu": "Ebédszünet egy halászfaluban",
+            "ro": "Pauză de prânz într-un sat pescăresc",
+            "en": "Lunch break in a fishing village"
+          },
+          "coords": [
+            23.4851,
+            37.9681
+          ],
+          "category": "gastro",
+          "arrive_at": "12:43",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Tanken Sie Energie mit fangfrischem Fisch in einer authentischen Umgebung.",
+            "hu": "Töltődjön fel frissen fogott hallal egy autentikus környezetben.",
+            "ro": "Realimentați-vă cu pește proaspăt prins într-un cadru autentic.",
+            "en": "Refuel with freshly caught fish in an authentic setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Salamina",
+            "hu": "Szalaminai Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Salamina",
+            "en": "Archaeological Museum of Salamina"
+          },
+          "coords": [
+            23.4899,
+            37.9655
+          ],
+          "category": "museums",
+          "arrive_at": "14:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher und tauchen Sie in die antike Geschichte ein.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el az ókori történelemben.",
+            "ro": "Parcați bicicleta în siguranță și scufundați-vă în istoria antică.",
+            "en": "Park your bike safely and dive into ancient history."
+          }
+        },
+        {
+          "name": {
+            "de": "Höhle des Euripides",
+            "hu": "Euripidész-barlang",
+            "ro": "Peștera lui Euripide",
+            "en": "Cave of Euripides"
+          },
+          "coords": [
+            23.4295,
+            37.9351
+          ],
+          "category": "natural features",
+          "arrive_at": "16:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Die Fahrt zur Höhle ist anspruchsvoll, aber die mystische Atmosphäre ist es wert.",
+            "hu": "A barlanghoz vezető út kihívást jelent, de a misztikus hangulat megéri.",
+            "ro": "Drumul spre peșteră este provocator, dar atmosfera mistică merită efortul.",
+            "en": "The ride to the cave is challenging, but the mystical atmosphere is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Strand",
+            "hu": "Naplemente a tengerparton",
+            "ro": "Apus de soare pe plajă",
+            "en": "Sunset at the beach"
+          },
+          "coords": [
+            23.425,
+            37.94
+          ],
+          "category": "sunset",
+          "arrive_at": "17:19",
+          "stay_min": 46,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem atemberaubenden Blick auf den Sonnenuntergang.",
+            "hu": "Zárja a kerékpártúrát a naplemente lélegzetelállító látványával.",
+            "ro": "Încheiați turul cu bicicleta cu o priveliște uluitoare a apusului.",
+            "en": "End your bike tour with a breathtaking view of the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit einer erfrischenden Fahrt zum ruhigen Kloster Faneromeni. Von dort aus folgen Sie der Küste zum historischen Grab der Salamis-Kämpfer und den Windmühlen. Zur Mittagszeit stärken Sie sich in einem charmanten Fischerdorf, bevor Sie das Archäologische Museum erkunden. Am Nachmittag wartet eine anspruchsvolle, aber lohnende Fahrt zur mystischen Höhle des Euripides. Der Tag klingt perfekt aus, wenn Sie den Sonnenuntergang an einem nahegelegenen Strand beobachten.",
+        "hu": "A kerékpártúra egy frissítő tekeréssel kezdődik a csendes Faneromeni kolostorhoz. Innen a part mentén halad a történelmi szalamiszi harcosok sírjához és a szélmalmokhoz. Ebédidőben egy bájos halászfaluban erősíthet, mielőtt felfedezné a Régészeti Múzeumot. Délután egy kihívásokkal teli, de hálás út várja az Euripidész misztikus barlangjához. A nap tökéletesen zárul, miközben a naplementét egy közeli tengerparton nézi.",
+        "ro": "Turul pe bicicletă începe cu o plimbare revigorantă către liniștita Mănăstire Faneromeni. De acolo, urmați coasta până la istoricul Mormânt al luptătorilor de la Salamina și morile de vânt. La prânz, vă reîncărcați forțele într-un sat pescăresc fermecător înainte de a explora Muzeul de Arheologie. După-amiaza vă așteaptă un drum provocator, dar plin de satisfacții, către mistica Peșteră a lui Euripide. Ziua se încheie perfect urmărind apusul de pe o plajă din apropiere.",
+        "en": "Your bike tour starts with a refreshing ride to the tranquil Faneromeni Monastery. From there, follow the coast to the historic Tomb of the Salamis Warriors and the windmills. At lunchtime, refuel in a charming fishing village before exploring the Archaeological Museum. The afternoon holds a challenging but rewarding ride to the mystical Cave of Euripides. The day concludes perfectly as you watch the sunset from a nearby beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Direkt vom Fischerboot auf den Grill, frischer geht es nicht."
+          },
+          {
+            "name": "Meeresfrüchte-Pasta",
+            "tip": "Eine herzhafte Mahlzeit, um die Energiereserven aufzufüllen."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Fragen Sie nach einem Glas des lokalen Weißweins, um Ihr Essen zu begleiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett hal",
+            "tip": "Közvetlenül a halászhajóról a grillre, ennél frissebb nem is lehetne."
+          },
+          {
+            "name": "Tenger gyümölcsei tészta",
+            "tip": "Kiadós étel az energiatartalékok feltöltéséhez."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kérjen egy pohár helyi fehérbort az ételhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește la grătar",
+            "tip": "Direct de pe barca de pescuit pe grătar, nu se poate mai proaspăt."
+          },
+          {
+            "name": "Paste cu fructe de mare",
+            "tip": "O masă consistentă pentru a reface rezervele de energie."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Cereți un pahar de vin alb local pentru a acompania masa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Fish",
+            "tip": "Straight from the fishing boat to the grill, it doesn't get fresher."
+          },
+          {
+            "name": "Seafood Pasta",
+            "tip": "A hearty meal to replenish your energy reserves."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Ask for a glass of the local white wine to accompany your meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kiefernwald von Faneromeni",
+            "tip": "Eine schattige und ruhige Fahrt durch den Wald nahe dem Kloster.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Versteckte Buchten",
+            "tip": "Halten Sie Ausschau nach kleinen, abgelegenen Buchten für eine kurze Badepause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel von Agios Georgios",
+            "tip": "Ein Panoramablick über die Insel, der die Anstrengung des Aufstiegs wert ist.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Faneromeni fenyőerdő",
+            "tip": "Árnyas és csendes tekerés az erdőn keresztül a kolostor közelében.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Rejtett öblök",
+            "tip": "Keressen kis, eldugott öblöket egy gyors úszáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agios Georgios-hegy",
+            "tip": "Panorámás kilátás a szigetre, ami megéri a fáradságot.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de pini Faneromeni",
+            "tip": "O plimbare umbrită și liniștită prin pădurea de lângă mănăstire.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Golfuri ascunse",
+            "tip": "Căutați golfuri mici și izolate pentru o scurtă pauză de înot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Agios Georgios",
+            "tip": "O vedere panoramică asupra insulei care merită efortul urcării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Faneromeni Pine Forest",
+            "tip": "A shady and quiet ride through the forest near the monastery.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Hidden Coves",
+            "tip": "Look for small, secluded coves for a quick swimming break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hill of Agios Georgios",
+            "tip": "A panoramic view over the island that's worth the climb.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für eventuell benötigte Ersatzteile oder Zubehör."
+          },
+          {
+            "name": "Kleine Läden in den Dörfern",
+            "tip": "Finden Sie einzigartige, handgemachte Souvenirs abseits der Touristenpfade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Szükséges alkatrészekhez vagy kiegészítőkhöz."
+          },
+          {
+            "name": "Kis boltok a falvakban",
+            "tip": "Találjon egyedi, kézzel készített ajándéktárgyakat a turistaösvényeken kívül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru orice piese de schimb sau accesorii de care ați putea avea nevoie."
+          },
+          {
+            "name": "Mici magazine în sate",
+            "tip": "Găsiți suveniruri unice, lucrate manual, departe de cărările bătute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "For any spare parts or accessories you might need."
+          },
+          {
+            "name": "Small village shops",
+            "tip": "Find unique, handmade souvenirs off the beaten path."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Einige Strecken können anspruchsvoll sein; schätzen Sie Ihre Fitness realistisch ein.",
+          "Ein Helm ist dringend zu empfehlen.",
+          "Nehmen Sie ein Reparaturset für kleinere Pannen mit."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "Néhány szakasz kihívást jelenthet; mérje fel reálisan az edzettségi szintjét.",
+          "Sisak viselése erősen ajánlott.",
+          "Vigyen magával javítókészletet kisebb defektek esetére."
+        ],
+        "ro": [
+          "Verificați bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Unele trasee pot fi dificile; evaluați-vă realist condiția fizică.",
+          "Casca este foarte recomandată.",
+          "Luați un kit de reparații pentru pene minore."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Some routes can be challenging; assess your fitness level realistically.",
+          "A helmet is highly recommended.",
+          "Carry a repair kit for minor punctures."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 29.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster Faneromeni",
+            "hu": "Faneromeni kolostor",
+            "ro": "Mănăstirea Faneromeni",
+            "en": "Faneromeni Monastery"
+          },
+          "coords": [
+            23.4475,
+            37.9892
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Kloster und beginnen Sie den Tag in dieser Oase der Ruhe.",
+            "hu": "Parkoljon a kolostornál, és kezdje a napot a nyugalom ezen oázisában.",
+            "ro": "Parcați la mănăstire și începeți ziua în această oază de liniște.",
+            "en": "Park at the monastery and start your day in this oasis of tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Grab der Salamis-Kämpfer",
+            "hu": "A szalamiszi harcosok sírja",
+            "ro": "Mormântul luptătorilor de la Salamina",
+            "en": "Tomb of the Salamis Warriors"
+          },
+          "coords": [
+            23.535,
+            37.955
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt an diesem bedeutenden historischen Ort ist ein Muss.",
+            "hu": "Egy rövid megálló ezen a fontos történelmi helyen kötelező.",
+            "ro": "O scurtă oprire la acest important sit istoric este obligatorie.",
+            "en": "A short stop at this important historical site is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Höhle des Euripides",
+            "hu": "Euripidész-barlang",
+            "ro": "Peștera lui Euripide",
+            "en": "Cave of Euripides"
+          },
+          "coords": [
+            23.4295,
+            37.9351
+          ],
+          "category": "natural features",
+          "arrive_at": "11:54",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 14.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und machen Sie einen kurzen Spaziergang zur Höhle.",
+            "hu": "Parkoljon a közelben, és tegyen egy rövid sétát a barlanghoz.",
+            "ro": "Parcați în apropiere și faceți o scurtă plimbare până la peșteră.",
+            "en": "Park nearby and take a short walk to the cave."
+          }
+        },
+        {
+          "name": {
+            "de": "Euripides-Theater",
+            "hu": "Euripidész Színház",
+            "ro": "Teatrul Euripide",
+            "en": "Euripides Theatre"
+          },
+          "coords": [
+            23.4988,
+            37.9589
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:07",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß von der Höhle aus erreichbar, eine großartige Kombination.",
+            "hu": "Gyalogosan elérhető a barlangtól, nagyszerű kombináció.",
+            "ro": "Accesibil pe jos de la peșteră, o combinație excelentă.",
+            "en": "Within walking distance from the cave, a great combination."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            23.492,
+            37.964
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und wählen Sie eine Taverne für ein spätes Mittagessen.",
+            "hu": "Parkoljon a központban, és válasszon egy tavernát egy késői ebédhez.",
+            "ro": "Parcați în centru și alegeți o tavernă pentru un prânz târziu.",
+            "en": "Park in the center and choose a taverna for a late lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Salamina",
+            "hu": "Szalaminai Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Salamina",
+            "en": "Archaeological Museum of Salamina"
+          },
+          "coords": [
+            23.4899,
+            37.9655
+          ],
+          "category": "museums",
+          "arrive_at": "15:32",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Museum liegt nur einen kurzen Spaziergang von den meisten Restaurants entfernt.",
+            "hu": "A múzeum csak egy rövid sétára van a legtöbb étteremtől.",
+            "ro": "Muzeul se află la o scurtă plimbare de majoritatea restaurantelor.",
+            "en": "The museum is just a short walk from most restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Volkskunst",
+            "hu": "Népművészeti Múzeum",
+            "ro": "Muzeul de Artă Populară",
+            "en": "Museum of Folk Art"
+          },
+          "coords": [
+            23.4925,
+            37.9642
+          ],
+          "category": "museums",
+          "arrive_at": "17:04",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokalen Traditionen, bevor Sie den Tag ausklingen lassen.",
+            "hu": "Fedezze fel a helyi hagyományokat, mielőtt lezárja a napot.",
+            "ro": "Descoperiți tradițiile locale înainte de a încheia ziua.",
+            "en": "Discover local traditions before you wrap up the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Dimitrios",
+            "hu": "Agios Dimitrios templom",
+            "ro": "Biserica Agios Dimitrios",
+            "en": "Church of Agios Dimitrios"
+          },
+          "coords": [
+            23.4946,
+            37.9631
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:58",
+          "stay_min": 37,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein letzter ruhiger Moment, bevor Sie zurück zum Auto gehen.",
+            "hu": "Egy utolsó csendes pillanat, mielőtt visszamegy az autóhoz.",
+            "ro": "Un ultim moment de liniște înainte de a vă întoarce la mașină.",
+            "en": "One last quiet moment before heading back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die ganze Insel. Beginnen Sie im ruhigen Norden beim Kloster Faneromeni. Fahren Sie dann zur Ostküste, um das Grab der Salamis-Kämpfer zu ehren. Der Vormittag gipfelt in einem Besuch der geheimnisvollen Höhle und des Theaters von Euripides im Süden. Zum Mittagessen fahren Sie ins Zentrum von Salamina, wo Sie parken und den Rest des Nachmittags zu Fuß verbringen: Sie erkunden die Museen und Kirchen des Stadtkerns und genießen die lokale Atmosphäre.",
+        "hu": "Autóval az egész szigetet felfedezheti. Kezdjen az északi csendes Faneromeni kolostornál. Ezután hajtson a keleti partra, hogy tisztelegjen a szalamiszi harcosok sírjánál. A délelőtt csúcspontja Euripidész titokzatos barlangjának és színházának meglátogatása délen. Ebédre hajtson Szalamina központjába, ahol leparkolhat, és a délután hátralévő részét gyalog töltheti: felfedezheti a városközpont múzeumait és templomait, élvezve a helyi hangulatot.",
+        "ro": "Cu mașina, explorați întreaga insulă. Începeți în nordul liniștit la Mănăstirea Faneromeni. Apoi, conduceți spre coasta de est pentru a onora Mormântul luptătorilor de la Salamina. Dimineața culminează cu o vizită la misterioasa Peșteră și Teatru al lui Euripide în sud. Pentru prânz, conduceți în centrul Salaminei, unde parcați și petreceți restul după-amiezii pe jos: explorând muzeele și bisericile din centrul orașului, bucurându-vă de atmosfera locală.",
+        "en": "With a car, you can explore the entire island. Start in the tranquil north at Faneromeni Monastery. Then, drive to the east coast to honor the Tomb of the Salamis Warriors. The morning culminates with a visit to the mysterious Cave and Theatre of Euripides in the south. For lunch, drive to the center of Salamina, where you'll park and spend the rest of the afternoon on foot: exploring the museums and churches of the city core, soaking in the local atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lammkoteletts (Paidakia)",
+            "tip": "Eine Spezialität im Landesinneren, perfekt nach einer langen Fahrt."
+          },
+          {
+            "name": "Käsepasteten (Tiropita)",
+            "tip": "Ein schneller und leckerer Snack für zwischendurch."
+          },
+          {
+            "name": "Gefüllte Weinblätter (Dolmades)",
+            "tip": "Probieren Sie die hausgemachte Version in einer traditionellen Taverne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bárányborda (Paidakia)",
+            "tip": "A sziget belsejének specialitása, tökéletes egy hosszú út után."
+          },
+          {
+            "name": "Sajtos pite (Tiropita)",
+            "tip": "Gyors és finom harapnivaló útközben."
+          },
+          {
+            "name": "Töltött szőlőlevél (Dolmades)",
+            "tip": "Kóstolja meg a házi készítésű változatot egy hagyományos tavernában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cotlete de miel (Paidakia)",
+            "tip": "O specialitate din interiorul insulei, perfectă după un drum lung."
+          },
+          {
+            "name": "Plăcinte cu brânză (Tiropita)",
+            "tip": "O gustare rapidă și delicioasă pentru drum."
+          },
+          {
+            "name": "Sarmale în foi de viță (Dolmades)",
+            "tip": "Încercați versiunea de casă la o tavernă tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lamb Chops (Paidakia)",
+            "tip": "A specialty of the island's interior, perfect after a long drive."
+          },
+          {
+            "name": "Cheese Pies (Tiropita)",
+            "tip": "A quick and delicious snack for the road."
+          },
+          {
+            "name": "Stuffed Vine Leaves (Dolmades)",
+            "tip": "Try the homemade version in a traditional taverna."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Kanakia",
+            "tip": "Ein abgelegener Strand im Süden, ideal für eine ruhige Pause.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Aussicht von der Straße zum Kloster",
+            "tip": "Halten Sie an den Aussichtspunkten für atemberaubende Blicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang an der Westküste",
+            "tip": "Fahren Sie zu einem beliebigen Punkt an der Westküste, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kanakia strand",
+            "tip": "Egy eldugott strand délen, ideális egy csendes pihenőre.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Kilátás a kolostorhoz vezető útról",
+            "tip": "Álljon meg a kilátópontoknál a lélegzetelállító látványért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a nyugati parton",
+            "tip": "Hajtson a nyugati part bármely pontjára, hogy lezárja a napot.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Kanakia",
+            "tip": "O plajă retrasă în sud, ideală pentru o pauză liniștită.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Priveliște de pe drumul spre mănăstire",
+            "tip": "Opriți la punctele de belvedere pentru vederi uluitoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare pe coasta de vest",
+            "tip": "Conduceți spre orice punct de pe coasta de vest pentru a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kanakia Beach",
+            "tip": "A secluded beach in the south, ideal for a quiet break.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "View from the Monastery Road",
+            "tip": "Stop at the viewpoints for breathtaking views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset on the West Coast",
+            "tip": "Drive to any point on the west coast to end the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramikwerkstätten",
+            "tip": "Entlang der Landstraßen finden Sie Werkstätten, die einzigartige Stücke verkaufen."
+          },
+          {
+            "name": "Hofläden",
+            "tip": "Kaufen Sie frisches Obst, Gemüse und Olivenöl direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia műhelyek",
+            "tip": "Az országutak mentén egyedi darabokat árusító műhelyeket talál."
+          },
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Vásároljon friss gyümölcsöt, zöldséget és olívaolajat közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ateliere de ceramică",
+            "tip": "De-a lungul drumurilor rurale veți găsi ateliere care vând piese unice."
+          },
+          {
+            "name": "Magazine la fermă",
+            "tip": "Cumpărați fructe proaspete, legume și ulei de măsline direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pottery Workshops",
+            "tip": "Along the country roads, you'll find workshops selling unique pieces."
+          },
+          {
+            "name": "Farm Stands",
+            "tip": "Buy fresh fruit, vegetables, and olive oil directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen können eng und kurvig sein; fahren Sie vorsichtig.",
+          "Achten Sie auf Ziegen auf der Straße, besonders in ländlichen Gebieten.",
+          "Das Parken im Stadtzentrum kann schwierig sein; seien Sie geduldig.",
+          "Ein GPS ist sehr hilfreich, um sich auf der Insel zurechtzufinden."
+        ],
+        "hu": [
+          "Az utak szűkek és kanyargósak lehetnek; vezessen óvatosan.",
+          "Vigyázzon a kecskékre az úton, különösen a vidéki területeken.",
+          "A parkolás a városközpontban nehézkes lehet; legyen türelmes.",
+          "A GPS nagyon hasznos a szigeten való tájékozódáshoz."
+        ],
+        "ro": [
+          "Drumurile pot fi înguste și sinuoase; conduceți cu prudență.",
+          "Atenție la caprele de pe drum, mai ales în zonele rurale.",
+          "Parcarea în centrul orașului poate fi dificilă; aveți răbdare.",
+          "Un GPS este foarte util pentru a naviga pe insulă."
+        ],
+        "en": [
+          "The roads can be narrow and winding; drive carefully.",
+          "Watch out for goats on the road, especially in rural areas.",
+          "Parking in the city center can be difficult; be patient.",
+          "A GPS is very helpful for navigating the island."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Hauptbushaltestelle Salamina",
+            "hu": "Indulás: Szalamina fő buszmegálló",
+            "ro": "Start: Stația principală de autobuz Salamina",
+            "en": "Start: Salamina Main Bus Station"
+          },
+          "coords": [
+            23.4912,
+            37.965
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+            "en": "Buy a day pass for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Faneromeni",
+            "hu": "Faneromeni kolostor",
+            "ro": "Mănăstirea Faneromeni",
+            "en": "Faneromeni Monastery"
+          },
+          "coords": [
+            23.4475,
+            37.9892
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus Richtung Faneromeni. Genießen Sie die Aussicht während der Fahrt.",
+            "hu": "Vegye a Faneromeni felé tartó buszt. Élvezze a kilátást az utazás során.",
+            "ro": "Luați autobuzul spre Faneromeni. Bucurați-vă de priveliște în timpul călătoriei.",
+            "en": "Take the bus towards Faneromeni. Enjoy the views during the ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Hafens",
+            "hu": "Ebéd a kikötő közelében",
+            "ro": "Prânz lângă port",
+            "en": "Lunch near the port"
+          },
+          "coords": [
+            23.488,
+            37.9675
+          ],
+          "category": "gastro",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum und finden Sie eine Taverne für ein gemütliches Mittagessen.",
+            "hu": "Menjen vissza a központba, és keressen egy tavernát egy kellemes ebédhez.",
+            "ro": "Întoarceți-vă în centru și găsiți o tavernă pentru un prânz relaxant.",
+            "en": "Head back to the center and find a taverna for a leisurely lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Salamina",
+            "hu": "Szalaminai Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Salamina",
+            "en": "Archaeological Museum of Salamina"
+          },
+          "coords": [
+            23.4899,
+            37.9655
+          ],
+          "category": "museums",
+          "arrive_at": "13:22",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das erste Ziel Ihres Spaziergangs durch das Stadtzentrum.",
+            "hu": "A városközponti séta első állomása.",
+            "ro": "Prima destinație a plimbării prin centrul orașului.",
+            "en": "The first destination on your walking tour of the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Volkskunst",
+            "hu": "Népművészeti Múzeum",
+            "ro": "Muzeul de Artă Populară",
+            "en": "Museum of Folk Art"
+          },
+          "coords": [
+            23.4925,
+            37.9642
+          ],
+          "category": "museums",
+          "arrive_at": "15:04",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf entfernt, bietet dieses Museum einen anderen Blick auf die lokale Kultur.",
+            "hu": "Csak egy kőhajításnyira, ez a múzeum más szemszögből mutatja be a helyi kultúrát.",
+            "ro": "La o aruncătură de băț, acest muzeu oferă o perspectivă diferită asupra culturii locale.",
+            "en": "Just a stone's throw away, this museum offers a different look at local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Dimitrios",
+            "hu": "Agios Dimitrios templom",
+            "ro": "Biserica Agios Dimitrios",
+            "en": "Church of Agios Dimitrios"
+          },
+          "coords": [
+            23.4946,
+            37.9631
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:08",
+          "stay_min": 87,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang mit einem Besuch der Hauptkirche der Stadt.",
+            "hu": "Fejezze be a sétát a város főtemplomának meglátogatásával.",
+            "ro": "Încheiați plimbarea cu o vizită la biserica principală a orașului.",
+            "en": "End your walking tour with a visit to the town's main church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Busnetz von Salamina erreichen Sie die wichtigsten Sehenswürdigkeiten. Beginnen Sie mit einer Fahrt zum abgelegenen Kloster Faneromeni für einen ruhigen Vormittag. Fahren Sie zurück ins Zentrum für ein köstliches Mittagessen am Meer. Den Nachmittag verbringen Sie damit, den historischen Kern der Stadt zu Fuß zu erkunden, von den Museen, die von antiken Schlachten erzählen, bis zu den stillen Gängen der Kirche Agios Dimitrios, alles leicht erreichbar von Ihrer Mittagspause aus.",
+        "hu": "Szalamina buszhálózatával a legfontosabb látnivalókat érheti el. Kezdjen egy utazással a távoli Faneromeni kolostorhoz egy csendes délelőttért. Térjen vissza a központba egy finom tengerparti ebédre. A délutánt a város történelmi magjának gyalogos felfedezésével tölti, az ókori csatákról mesélő múzeumoktól az Agios Dimitrios templom csendes folyosóiig, mindez könnyen elérhető az ebéd helyszínétől.",
+        "ro": "Cu rețeaua de autobuze din Salamina, puteți ajunge la principalele atracții. Începeți cu o călătorie la îndepărtata Mănăstire Faneromeni pentru o dimineață liniștită. Întoarceți-vă în centru pentru un prânz delicios pe malul mării. Petreceți după-amiaza explorând pe jos nucleul istoric al orașului, de la muzeele care povestesc despre bătălii antice până la culoarele tăcute ale Bisericii Agios Dimitrios, totul fiind ușor accesibil de la locul de prânz.",
+        "en": "Using Salamina's bus network, you can reach the key sights. Start with a ride to the remote Faneromeni Monastery for a tranquil morning. Head back to the center for a delicious seaside lunch. The afternoon is spent exploring the city's historic core on foot, from museums telling tales of ancient battles to the quiet aisles of the Church of Agios Dimitrios, all within a compact walking cluster from your lunch spot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souvlaki-Pita",
+            "tip": "Ein schnelles, günstiges und authentisches griechisches Mittagessen."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "Suchen Sie nach einer Taverne, die eine traditionelle, im Ofen gebackene Version anbietet."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Der perfekte Eiskaffee für eine Pause am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvlaki pitában",
+            "tip": "Gyors, olcsó és autentikus görög ebéd."
+          },
+          {
+            "name": "Muszaka",
+            "tip": "Keressen egy tavernát, amely hagyományos, kemencében sült változatot kínál."
+          },
+          {
+            "name": "Frappé",
+            "tip": "A tökéletes jegeskávé egy délutáni szünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvlaki în pită",
+            "tip": "Un prânz grecesc rapid, ieftin și autentic."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "Căutați o tavernă care servește o versiune tradițională, coaptă în cuptor."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Cafeaua cu gheață perfectă pentru o pauză de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvlaki in pita",
+            "tip": "A quick, cheap, and authentic Greek lunch."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "Look for a taverna that serves a traditional, oven-baked version."
+          },
+          {
+            "name": "Frappé",
+            "tip": "The perfect iced coffee for an afternoon break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark von Salamina",
+            "tip": "Ein grüner Fleck im Zentrum, um sich auf einer Bank auszuruhen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Friedhof neben der Kirche",
+            "tip": "Ein Ort der Stille und des Nachdenkens.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Genießen Sie die vorbeiziehende Landschaft auf dem Weg zu Ihrem nächsten Ziel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szalamina városi park",
+            "tip": "Egy zöld terület a központban, ahol megpihenhet egy padon."
+          },
+          {
+            "name": "Temető a templom mellett",
+            "tip": "A csend és az elmélkedés helye."
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Élvezze az elsuhanó tájat úton a következő célállomás felé.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului Salamina",
+            "tip": "Un loc verde în centru pentru a vă odihni pe o bancă."
+          },
+          {
+            "name": "Cimitirul de lângă biserică",
+            "tip": "Un loc de liniște și reflecție."
+          },
+          {
+            "name": "Priveliștea de pe geamul autobuzului",
+            "tip": "Bucurați-vă de peisajul care trece în drum spre următoarea destinație.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Salamina Municipal Park",
+            "tip": "A green spot in the center to rest on a bench.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cemetery next to the church",
+            "tip": "A place of silence and reflection."
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "Enjoy the passing scenery on your way to the next destination.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske (Periptero)",
+            "tip": "Hier finden Sie Bustickets, Snacks und Getränke."
+          },
+          {
+            "name": "Geschäfte in der Hauptstraße",
+            "tip": "Stöbern Sie nach Kleidung, Geschenken und lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok (Periptero)",
+            "tip": "Itt buszjegyeket, rágcsálnivalókat és italokat talál."
+          },
+          {
+            "name": "Boltok a főutcán",
+            "tip": "Böngésszen ruhák, ajándékok és helyi termékek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri (Periptero)",
+            "tip": "Aici veți găsi bilete de autobuz, gustări și băuturi."
+          },
+          {
+            "name": "Magazine pe strada principală",
+            "tip": "Răsfoiți printre haine, cadouri și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks (Periptero)",
+            "tip": "You'll find bus tickets, snacks, and drinks here."
+          },
+          {
+            "name": "Main Street Shops",
+            "tip": "Browse for clothes, gifts, and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Frequenzen variieren können.",
+          "Haben Sie Kleingeld für die Tickets bereit.",
+          "Die Busse können voll sein, besonders in der Hochsaison.",
+          "Fragen Sie die Einheimischen, wenn Sie unsicher sind, welchen Bus Sie nehmen sollen; sie sind normalerweise hilfsbereit."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mivel a járatok sűrűsége változhat.",
+          "Készítsen elő aprópénzt a jegyekhez.",
+          "A buszok zsúfoltak lehetnek, különösen a főszezonban.",
+          "Kérdezze meg a helyieket, ha bizonytalan, melyik buszra szálljon; általában segítőkészek."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, deoarece frecvențele pot varia.",
+          "Aveți pregătiți bani mărunți pentru bilete.",
+          "Autobuzele pot fi aglomerate, mai ales în sezonul de vârf.",
+          "Întrebați localnicii dacă nu sunteți sigur ce autobuz să luați; de obicei sunt de ajutor."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as frequencies can vary.",
+          "Have small change ready for tickets.",
+          "Buses can be crowded, especially during peak season.",
+          "Ask locals if you're unsure which bus to take; they are usually helpful."
+        ]
+      }
+    }
+  }
+}

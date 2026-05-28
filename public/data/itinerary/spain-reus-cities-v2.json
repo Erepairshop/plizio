@@ -1,0 +1,1364 @@
+{
+  "city_id": "spain-reus-cities-v2",
+  "anchor": {
+    "name": "Reus",
+    "coords": [
+      1.1069,
+      41.1561
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza del Mercadal",
+            "hu": "Mercadal tér",
+            "ro": "Piața Mercadal",
+            "en": "Plaza del Mercadal"
+          },
+          "coords": [
+            1.1075,
+            41.1558
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag mit einem Kaffee zu beginnen und das Treiben zu beobachten.",
+            "hu": "Tökéletes hely a napkezdéshez egy kávéval, miközben a helyi életet figyeled.",
+            "ro": "Locul perfect pentru a începe ziua cu o cafea, observând agitația pieței.",
+            "en": "The perfect spot to start your day with a coffee and watch the world go by."
+          }
+        },
+        {
+          "name": {
+            "de": "Gaudí Centre Reus",
+            "hu": "Gaudí Központ Reus",
+            "ro": "Centrul Gaudí Reus",
+            "en": "Gaudí Centre Reus"
+          },
+          "coords": [
+            1.1078,
+            41.1561
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nutzen Sie die interaktiven Displays, um Gaudís Genie wirklich zu verstehen.",
+            "hu": "Használd az interaktív kijelzőket, hogy igazán megértsd Gaudí zsenialitását.",
+            "ro": "Folosiți exponatele interactive pentru a înțelege cu adevărat geniul lui Gaudí.",
+            "en": "Use the interactive displays to truly understand Gaudí's genius."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Navàs",
+            "hu": "Casa Navàs",
+            "ro": "Casa Navàs",
+            "en": "Casa Navàs"
+          },
+          "coords": [
+            1.1072,
+            41.1556
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:17",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Buchen Sie die Führung im Voraus, das exquisite Interieur ist ein Muss.",
+            "hu": "Foglalj előre vezetett túrát, a gyönyörű belső tér kihagyhatatlan.",
+            "ro": "Rezervați turul ghidat în avans; interiorul rafinat este o vizită obligatorie.",
+            "en": "Book the guided tour in advance; the exquisite interior is a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Prioratskirche Sant Pere",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica Priorală Sant Pere",
+            "en": "Prioral Church of Sant Pere"
+          },
+          "coords": [
+            1.107,
+            41.1565
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Glockenturm für eine fantastische Aussicht über die Stadt.",
+            "hu": "Mássz fel a harangtoronyba a fantasztikus városi panorámáért.",
+            "ro": "Urcați în clopotniță pentru o priveliște fantastică asupra orașului.",
+            "en": "Climb the bell tower for a fantastic view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Prim",
+            "hu": "Prim tér",
+            "ro": "Piața Prim",
+            "en": "Plaza Prim"
+          },
+          "coords": [
+            1.1055,
+            41.1554
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:07",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für das Mittagessen. Viele Restaurants rund um den Platz.",
+            "hu": "Nagyszerű helyszín egy ebédhez. Számos étterem található a tér körül.",
+            "ro": "Un loc excelent pentru prânz. Multe restaurante în jurul pieței.",
+            "en": "A great spot for lunch. Many restaurants surround the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Wermut-Museum",
+            "hu": "Vermut Múzeum",
+            "ro": "Muzeul Vermutului",
+            "en": "Vermut-Museum"
+          },
+          "coords": [
+            1.1112,
+            41.1553
+          ],
+          "category": "museums",
+          "arrive_at": "15:07",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Besuch mit einer Verkostung – der Vermut de Reus ist berühmt.",
+            "hu": "Zárd a látogatást egy kóstolóval – a reusi vermut híres.",
+            "ro": "Încheiați vizita cu o degustare – Vermut de Reus este renumit.",
+            "en": "Finish your visit with a tasting session – the Vermut de Reus is famous."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Reus auf der Plaza del Mercadal, dem Geburtsort von Gaudí. Tauchen Sie im Gaudí Centre in die Welt des Modernisme ein, bevor Sie die exquisite Casa Navàs bewundern. Erklimmen Sie am Mittag den Glockenturm der Kirche Sant Pere für einen Panoramablick. Der Nachmittag ist der lebhaften Plaza Prim und einem tiefen Einblick in die lokale Tradition im Wermut-Museum gewidmet. Schließen Sie den Tag mit einem Glas des berühmten lokalen Wermuts ab und lassen Sie die katalanische Atmosphäre auf sich wirken.",
+        "hu": "Kezdje a napot Reus szívében, a Plaza del Mercadalon, Gaudí szülővárosának központjában. Merüljön el a modernizmus világában a Gaudí Központban, mielőtt megcsodálná a gyönyörű Casa Navàst. Délben másszon fel a Sant Pere templom harangtornyába a panorámáért. A délután a nyüzsgő Plaza Primé és a helyi hagyományok felfedezéséé a Vermut Múzeumban. Zárja a napot egy pohár híres helyi vermuttal, és szívja magába a katalán hangulatot.",
+        "ro": "Începeți ziua în inima orașului Reus, în Plaza del Mercadal, locul de naștere al lui Gaudí. Scufundați-vă în lumea Modernismului la Centrul Gaudí înainte de a admira exquisita Casă Navàs. La prânz, urcați în clopotnița bisericii Sant Pere pentru o vedere panoramică. După-amiaza este dedicată vibrantei Piețe Prim și unei incursiuni adânci în tradiția locală la Muzeul Vermutului. Încheiați ziua cu un pahar din faimosul vermut local, absorbind atmosfera catalană.",
+        "en": "Start your day in the heart of Reus at Plaza del Mercadal, Gaudí's birthplace. Dive into the world of Modernisme at the Gaudí Centre before admiring the exquisite Casa Navàs. At midday, climb the bell tower of Sant Pere church for a panoramic view. The afternoon is dedicated to the vibrant Plaza Prim and a deep dive into local tradition at the Vermut-Museum. End the day with a glass of the famous local vermouth, soaking in the Catalan atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vermut de Reus",
+            "tip": "Ein Muss. Probieren Sie ihn in einer der vielen Bodegas."
+          },
+          {
+            "name": "Menjar Blanc",
+            "tip": "Ein traditionelles Mandel-Dessert, cremig und süß."
+          },
+          {
+            "name": "Avellana de Reus",
+            "tip": "Die lokale Haselnuss, oft in Gebäck oder einfach geröstet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reusi vermut",
+            "tip": "Kötelező. Kóstold meg a számos borozó egyikében."
+          },
+          {
+            "name": "Menjar Blanc",
+            "tip": "Hagyományos mandulás desszert, krémes és édes."
+          },
+          {
+            "name": "Reusi mogyoró",
+            "tip": "Helyi mogyoró, gyakran süteményekben vagy csak pirítva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vermut de Reus",
+            "tip": "O necesitate. Încercați-l într-una dintre multele bodegi."
+          },
+          {
+            "name": "Menjar Blanc",
+            "tip": "Un desert tradițional din migdale, cremos și dulce."
+          },
+          {
+            "name": "Alune de Reus",
+            "tip": "Aluna locală, adesea în produse de patiserie sau pur și simplu prăjită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vermut de Reus",
+            "tip": "A must-try. Sample it in one of the many bodegas."
+          },
+          {
+            "name": "Menjar Blanc",
+            "tip": "A traditional almond-based dessert, creamy and sweet."
+          },
+          {
+            "name": "Avellana de Reus",
+            "tip": "The local hazelnut, often found in pastries or simply roasted."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Glockenturm von Sant Pere",
+            "tip": "Abgesehen vom Glockengeläut ein ruhiger Ort, um die Stadt von oben zu betrachten.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Ein Spaziergang abseits der Hauptplätze",
+            "tip": "Entdecken Sie die ruhigeren Seitenstraßen mit versteckten architektonischen Juwelen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Sant Pere harangtornya",
+            "tip": "A harangzúgástól eltekintve csendes hely a város szemlélésére.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Séta a főterektől távolabb",
+            "tip": "Fedezd fel a csendesebb mellékutcákat rejtett építészeti kincsekkel.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Clopotnița Sant Pere",
+            "tip": "În afară de clopote, este un loc liniștit pentru a privi orașul de sus.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "O plimbare departe de piețele principale",
+            "tip": "Descoperiți străzile laterale mai liniștite, cu bijuterii arhitecturale ascunse.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sant Pere Bell Tower",
+            "tip": "Aside from the bell chimes, it's a quiet spot to gaze over the city.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "A walk off the main squares",
+            "tip": "Explore the quieter side streets with hidden architectural gems.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Wermutgeschäfte",
+            "tip": "Kaufen Sie eine Flasche des berühmten 'Vermut de Reus' als Souvenir."
+          },
+          {
+            "name": "Mercat Central",
+            "tip": "Ein belebter Markt für frische Produkte und lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi vermut boltok",
+            "tip": "Vásárolj egy üveg híres 'Vermut de Reus'-t szuvenírként."
+          },
+          {
+            "name": "Mercat Central",
+            "tip": "Nyüzsgő piac friss termékekkel és helyi különlegességekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de vermut",
+            "tip": "Cumpărați o sticlă din faimosul 'Vermut de Reus' ca suvenir."
+          },
+          {
+            "name": "Mercat Central",
+            "tip": "O piață plină de viață pentru produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Vermouth Shops",
+            "tip": "Buy a bottle of the famous 'Vermut de Reus' as a souvenir."
+          },
+          {
+            "name": "Mercat Central",
+            "tip": "A bustling market for fresh produce and local specialities."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Zentrum am besten zu Fuß erkundet wird.",
+          "Viele Geschäfte halten eine 'Siesta' am Nachmittag, planen Sie entsprechend.",
+          "Halten Sie Ausschau nach den Drachen- und Rosensymbolen, die im Modernisme üblich sind."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, a központot gyalog a legjobb felfedezni.",
+          "Sok üzlet délután 'siestát' tart, tervezz ezzel.",
+          "Keresd a sárkány és rózsa szimbólumokat, melyek gyakoriak a modernista építészetben."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, centrul este cel mai bine explorat pe jos.",
+          "Multe magazine țin o 'siesta' după-amiaza, planificați-vă în consecință.",
+          "Căutați simbolurile dragonului și trandafirului, comune în arhitectura Modernistă."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the center is best explored on foot.",
+          "Many shops observe an afternoon 'siesta', so plan accordingly.",
+          "Look out for the dragon and rose symbols common in Modernisme architecture."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Prim",
+            "hu": "Prim tér",
+            "ro": "Piața Prim",
+            "en": "Plaza Prim"
+          },
+          "coords": [
+            1.1055,
+            41.1554
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt mit vielen Fahrradverleihen in der Nähe.",
+            "hu": "Ideális kiindulópont, a közelben számos kerékpárkölcsönző található.",
+            "ro": "Un punct de plecare ideal, cu multe centre de închiriere de biciclete în apropiere.",
+            "en": "An ideal starting point with many bike rental shops nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatre Fortuny",
+            "hu": "Fortuny Színház",
+            "ro": "Teatrul Fortuny",
+            "en": "Teatre Fortuny"
+          },
+          "coords": [
+            1.105,
+            41.155
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:28",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Fassade, auch wenn Sie keine Vorstellung besuchen.",
+            "hu": "Csodáld meg a neoklasszikus homlokzatot, még ha nem is mész előadásra.",
+            "ro": "Admirați fațada neoclasică, chiar dacă nu participați la un spectacol.",
+            "en": "Admire the neoclassical facade even if you're not catching a show."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza del Mercadal & Casa Navàs",
+            "hu": "Mercadal tér & Casa Navàs",
+            "ro": "Piața Mercadal & Casa Navàs",
+            "en": "Plaza del Mercadal & Casa Navàs"
+          },
+          "coords": [
+            1.1075,
+            41.1558
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:49",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie den Platz und seine architektonischen Wunder.",
+            "hu": "Zárd le a biciklidet, és fedezd fel a teret és építészeti csodáit.",
+            "ro": "Legați-vă bicicleta și explorați piața și minunile sale arhitecturale.",
+            "en": "Lock up your bike and explore the square and its architectural wonders."
+          }
+        },
+        {
+          "name": {
+            "de": "Gaudí Centre Reus",
+            "hu": "Gaudí Központ Reus",
+            "ro": "Centrul Gaudí Reus",
+            "en": "Gaudí Centre Reus"
+          },
+          "coords": [
+            1.1078,
+            41.1561
+          ],
+          "category": "museums",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher, um dieses interaktive Museum in vollen Zügen zu genießen.",
+            "hu": "Parkold le biztonságosan a biciklidet, hogy teljes mértékben élvezhesd ezt az interaktív múzeumot.",
+            "ro": "Parcați-vă bicicleta în siguranță pentru a vă bucura pe deplin de acest muzeu interactiv.",
+            "en": "Park your bike securely to enjoy this interactive museum to the fullest."
+          }
+        },
+        {
+          "name": {
+            "de": "Prioratskirche Sant Pere",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica Priorală Sant Pere",
+            "en": "Prioral Church of Sant Pere"
+          },
+          "coords": [
+            1.107,
+            41.1565
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:13",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für das gotische Interieur, nachdem Sie die Aussicht vom Turm genossen haben.",
+            "hu": "Miután gyönyörködtél a toronyból nyíló kilátásban, szánj időt a gótikus belső térre is.",
+            "ro": "Luați-vă timp pentru interiorul gotic după ce v-ați bucurat de priveliștea din turn.",
+            "en": "Take your time with the Gothic interior after enjoying the view from the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Wermut-Museum",
+            "hu": "Vermut Múzeum",
+            "ro": "Muzeul Vermutului",
+            "en": "Vermut-Museum"
+          },
+          "coords": [
+            1.1112,
+            41.1553
+          ],
+          "category": "museums",
+          "arrive_at": "13:34",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für das Mittagessen und eine Verkostung. Das Restaurant ist ausgezeichnet.",
+            "hu": "Nagyszerű hely ebédre és kóstolásra. Az étterem kiváló.",
+            "ro": "Un loc minunat pentru prânz și o degustare. Restaurantul este excelent.",
+            "en": "A great spot for lunch plus a tasting. The restaurant is excellent."
+          }
+        },
+        {
+          "name": {
+            "de": "Institut Pere Mata",
+            "hu": "Pere Mata Intézet",
+            "ro": "Institutul Pere Mata",
+            "en": "Institut Pere Mata"
+          },
+          "coords": [
+            1.088,
+            41.162
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Die Radtour hierher lohnt sich, um dieses Juwel des Modernisme zu sehen.",
+            "hu": "Megéri ide tekerni, hogy megnézd ezt a modernista gyöngyszemet.",
+            "ro": "Merită să pedalați până aici pentru a vedea această bijuterie a Modernismului.",
+            "en": "The bike ride out here is worth it to see this Modernisme gem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie an der Plaza Prim, dem eleganten Zentrum von Reus. Fahren Sie zum Teatre Fortuny und weiter zur lebhaften Plaza del Mercadal, wo das Erbe Gaudís im Gaudí Centre auf Sie wartet. Nach der Erkundung der Kirche Sant Pere ist es Zeit für das Mittagessen und eine Wermut-Verkostung im Wermut-Museum. Am Nachmittag führt Sie eine lohnende Radtour zum Institut Pere Mata, einem atemberaubenden Beispiel für die frühe modernistische Architektur, das die Stadt überblickt.",
+        "hu": "Pattanj biciklire, és indulj a Plaza Primről, Reus elegáns központjából. Tekerj el a Fortuny Színházhoz, majd tovább a nyüzsgő Plaza del Mercadalra, ahol Gaudí öröksége vár a Gaudí Központban. A Sant Pere templom felfedezése után ebéd és vermutkóstoló ideje a Vermut Múzeumban. Délután egy kellemes biciklitúra vezet az Institut Pere Matához, a korai modernista építészet lenyűgöző, városra néző példájához.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Prim, centrul elegant al orașului Reus. Pedalați spre Teatrul Fortuny și apoi spre vibranta Piață Mercadal, unde moștenirea lui Gaudí vă așteaptă la Centrul Gaudí. După ce explorați biserica Sant Pere, este timpul pentru prânz și o degustare de vermut la Muzeul Vermutului. După-amiaza, o plimbare plină de satisfacții cu bicicleta vă duce la Institutul Pere Mata, un exemplu uimitor de arhitectură modernistă timpurie, cu vedere la oraș.",
+        "en": "Hop on your bike and start from Plaza Prim, Reus's elegant hub. Cycle to Teatre Fortuny and on to the vibrant Plaza del Mercadal, where Gaudí's heritage awaits at the Gaudí Centre. After exploring Sant Pere church, it's time for lunch and a vermouth tasting at the Vermut-Museum. In the afternoon, a rewarding bike ride takes you to the Institut Pere Mata, a stunning example of early Modernist architecture overlooking the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Calçots mit Romesco-Sauce",
+            "tip": "Wenn Saison ist (Winter/Frühling), ein absolutes Muss in der Region."
+          },
+          {
+            "name": "Coca de Recapte",
+            "tip": "Ein herzhafter katalanischer Kuchen mit geröstetem Gemüse."
+          },
+          {
+            "name": "Restaurant des Wermut-Museums",
+            "tip": "Kombinieren Sie Ihren Museumsbesuch mit einem köstlichen lokalen Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calçots romesco szósszal",
+            "tip": "Ha szezonja van (tél/tavasz), kihagyhatatlan a régióban."
+          },
+          {
+            "name": "Coca de Recapte",
+            "tip": "Sós katalán pite sült zöldségekkel."
+          },
+          {
+            "name": "A Vermut Múzeum étterme",
+            "tip": "Kösd össze a múzeumi látogatást egy finom helyi ebéddel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calçots cu sos Romesco",
+            "tip": "Dacă este în sezon (iarnă/primăvară), o necesitate absolută în regiune."
+          },
+          {
+            "name": "Coca de Recapte",
+            "tip": "O plăcintă sărată catalană cu legume prăjite."
+          },
+          {
+            "name": "Restaurantul Muzeului Vermutului",
+            "tip": "Combinați vizita la muzeu cu un prânz local delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calçots with Romesco sauce",
+            "tip": "If in season (winter/spring), an absolute must-try in the region."
+          },
+          {
+            "name": "Coca de Recapte",
+            "tip": "A savory Catalan flatbread with roasted vegetables."
+          },
+          {
+            "name": "Vermut-Museum Restaurant",
+            "tip": "Combine your museum visit with a delicious local lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Institut Pere Mata Gelände",
+            "tip": "Das Gelände ist friedlich und bietet eine schöne Abwechslung vom Stadtzentrum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen auf der Plaza del Mercadal",
+            "tip": "Erleben Sie den Platz, bevor die Menschenmassen eintreffen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Institut Pere Mata területe",
+            "tip": "A terület békés és kellemes kikapcsolódást nyújt a városközpont után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a Plaza del Mercadalon",
+            "tip": "Tapasztald meg a teret, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Institutului Pere Mata",
+            "tip": "Terenurile sunt pașnice și oferă o schimbare plăcută de ritm față de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza del Mercadal dimineața devreme",
+            "tip": "Experimentați piața înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Institut Pere Mata Grounds",
+            "tip": "The grounds are peaceful and offer a nice change of pace from the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning at Plaza del Mercadal",
+            "tip": "Experience the square before the crowds arrive.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Colmado Baró",
+            "tip": "Ein historisches Lebensmittelgeschäft, ideal um lokale Köstlichkeiten wie Olivenöl und Haselnüsse zu kaufen."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Holen Sie sich Zubehör oder ein Reus-Radtrikot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Colmado Baró",
+            "tip": "Történelmi élelmiszerbolt, ideális helyi finomságok, például olívaolaj és mogyoró vásárlásához."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Szerezz be kiegészítőket vagy egy Reus-os biciklis mezt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colmado Baró",
+            "tip": "O băcănie istorică, perfectă pentru a cumpăra delicatese locale precum ulei de măsline și alune."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Luați câteva accesorii sau un tricou de ciclism Reus."
+          }
+        ],
+        "en": [
+          {
+            "name": "Colmado Baró",
+            "tip": "A historic grocery store, great for buying local delicacies like olive oil and hazelnuts."
+          },
+          {
+            "name": "Bike Shops",
+            "tip": "Pick up some gear or a Reus cycling jersey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Nutzen Sie Fahrradwege, wo immer möglich.",
+          "Schließen Sie Ihr Fahrrad immer an, auch wenn Sie es nur für ein paar Minuten abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a kerékpárodat, különösen a fékeket és a gumikat.",
+          "Ahol csak lehet, használd a kerékpárutakat.",
+          "Mindig zárd le a kerékpárodat, még akkor is, ha csak pár percre hagyod ott."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Folosiți pistele de biciclete ori de câte ori este posibil.",
+          "Legați-vă întotdeauna bicicleta, chiar dacă o lăsați doar pentru câteva minute."
+        ],
+        "en": [
+          "Check your bike before you set off, especially brakes and tires.",
+          "Use bike lanes wherever available.",
+          "Always lock your bike, even if you're leaving it for just a few minutes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken im Zentrum & Plaza Prim",
+            "hu": "Parkolás a központban & Prim tér",
+            "ro": "Parcare în centru & Piața Prim",
+            "en": "Central Parking & Plaza Prim"
+          },
+          "coords": [
+            1.104,
+            41.1545
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in einer der Tiefgaragen (z.B. 'La Llibertat') für den Tag.",
+            "hu": "Parkolj le a mélygarázsok egyikében (pl. 'La Llibertat') egész napra.",
+            "ro": "Parcați într-una dintre parcările subterane (de ex. 'La Llibertat') pentru întreaga zi.",
+            "en": "Park in one of the underground car parks (e.g., 'La Llibertat') for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza del Mercadal & Casa Navàs",
+            "hu": "Mercadal tér & Casa Navàs",
+            "ro": "Piața Mercadal & Casa Navàs",
+            "en": "Plaza del Mercadal & Casa Navàs"
+          },
+          "coords": [
+            1.1075,
+            41.1558
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:33",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Plaza Prim. Die Architektur ist atemberaubend.",
+            "hu": "Rövid séta a Plaza Primről. Az építészet lélegzetelállító.",
+            "ro": "O scurtă plimbare de la Piața Prim. Arhitectura este uluitoare.",
+            "en": "A short walk from Plaza Prim. The architecture is stunning."
+          }
+        },
+        {
+          "name": {
+            "de": "Gaudí Centre Reus",
+            "hu": "Gaudí Központ Reus",
+            "ro": "Centrul Gaudí Reus",
+            "en": "Gaudí Centre Reus"
+          },
+          "coords": [
+            1.1078,
+            41.1561
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Auf dem gleichen Platz wie Casa Navàs gelegen, ein Muss für jeden Besucher.",
+            "hu": "A Casa Navàs-szal azonos téren található, minden látogatónak kötelező.",
+            "ro": "Situat în aceeași piață cu Casa Navàs, o vizită obligatorie pentru orice vizitator.",
+            "en": "Located in the same square as Casa Navàs, a must for any visitor."
+          }
+        },
+        {
+          "name": {
+            "de": "Prioratskirche Sant Pere",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica Priorală Sant Pere",
+            "en": "Prioral Church of Sant Pere"
+          },
+          "coords": [
+            1.107,
+            41.1565
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:17",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, um nach dem Aufstieg auf den Turm zur Ruhe zu kommen.",
+            "hu": "A toronymászás után szánj időt a megnyugvásra.",
+            "ro": "Luați-vă timp să vă reculegeți după urcarea în turn.",
+            "en": "Take some time to reflect after climbing the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            1.106,
+            41.155
+          ],
+          "category": "gastro",
+          "arrive_at": "13:32",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Gehen Sie zurück zu Ihrem Auto und lassen Sie Ihre Einkäufe dort, bevor Sie zu Mittag essen.",
+            "hu": "Menj vissza az autódhoz, tedd le a vásárolt dolgokat, mielőtt ebédelsz.",
+            "ro": "Întoarceți-vă la mașină pentru a lăsa cumpărăturile înainte de a lua prânzul.",
+            "en": "Walk back towards your car, dropping off any shopping before having lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Institut Pere Mata",
+            "hu": "Pere Mata Intézet",
+            "ro": "Institutul Pere Mata",
+            "en": "Institut Pere Mata"
+          },
+          "coords": [
+            1.088,
+            41.162
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Die kurze Fahrt lohnt sich. Parkplätze sind normalerweise vor Ort verfügbar.",
+            "hu": "Megéri a rövid autóutat. A parkolás általában a helyszínen megoldható.",
+            "ro": "Merită scurta călătorie cu mașina. Parcarea este de obicei disponibilă la fața locului.",
+            "en": "The short drive is well worth it. Parking is usually available on site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto im Zentrum und beginnen Sie Ihren Tag auf der Plaza Prim. Ein Spaziergang führt Sie zum Mercadal-Platz, dem pulsierenden Herzen der Stadt, wo Sie das Gaudí Centre und die Casa Navàs erkunden. Nach dem Aufstieg auf den Glockenturm von Sant Pere für eine spektakuläre Aussicht genießen Sie ein gemütliches Mittagessen. Am Nachmittag fahren Sie zum Institut Pere Mata, einem Meisterwerk des Modernisme etwas außerhalb des Zentrums, um dessen beeindruckende Architektur und ruhige Gärten zu entdecken.",
+        "hu": "Parkold le az autót a központban, és kezdd a napot a Plaza Primen. Sétálj át a Mercadal térre, a város lüktető szívébe, ahol felfedezheted a Gaudí Központot és a Casa Navàst. Miután felmásztál a Sant Pere harangtornyába a látványért, élvezz egy kellemes ebédet. Délután autózz el az Institut Pere Matához, a modernizmus városközponton kívüli remekművéhez, hogy felfedezd lenyűgöző építészetét és csendes kertjeit.",
+        "ro": "Parcați mașina în centru și începeți ziua în Piața Prim. O plimbare vă va duce în Piața Mercadal, inima vibrantă a orașului, pentru a explora Centrul Gaudí și Casa Navàs. După ce ați urcat în clopotnița Sant Pere pentru o priveliște spectaculoasă, bucurați-vă de un prânz pe îndelete. După-amiaza, conduceți spre Institutul Pere Mata, o capodoperă a Modernismului aflată chiar în afara centrului, pentru a-i descoperi arhitectura impresionantă și grădinile liniștite.",
+        "en": "Park your car centrally and start your day at Plaza Prim. A walking cluster takes you through Plaza del Mercadal, the city's vibrant heart, to explore the Gaudí Centre and Casa Navàs. After climbing the Sant Pere bell tower for a spectacular view, enjoy a leisurely lunch. In the afternoon, a short drive takes you to the Institut Pere Mata, a masterpiece of Modernisme just outside the center, to discover its impressive architecture and tranquil grounds."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Xató",
+            "tip": "Ein lokaler Salat mit einer reichhaltigen Sauce aus Mandeln, Nüssen, Brot, Essig, Knoblauch und Olivenöl."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Ähnlich wie Paella, aber mit Nudeln anstelle von Reis, oft mit Meeresfrüchten."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Der berühmte katalanische Cousin der Crème brûlée."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Xató",
+            "tip": "Helyi saláta gazdag szósszal mandulából, diófélékből, kenyérből, ecetből, fokhagymából és olívaolajból."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Hasonló a paellához, de rizs helyett tésztával, gyakran tenger gyümölcseivel."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "A crème brûlée híres katalán unokatestvére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Xató",
+            "tip": "O salată locală cu un sos bogat din migdale, nuci, pâine, oțet, usturoi și ulei de măsline."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Similar cu paella, dar făcut cu tăiței în loc de orez, adesea cu fructe de mare."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Verișoara faimoasă catalană a crème brûlée."
+          }
+        ],
+        "en": [
+          {
+            "name": "Xató",
+            "tip": "A local salad with a rich sauce made from almonds, nuts, bread, vinegar, garlic, and olive oil."
+          },
+          {
+            "name": "Fideuà",
+            "tip": "Similar to paella but made with noodles instead of rice, often with seafood."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "The famous Catalan cousin of crème brûlée."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Institut Pere Mata",
+            "tip": "Ein ruhiger Ort, um nach der Erkundung des Gebäudes spazieren zu gehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Seitenkapelle in Sant Pere",
+            "tip": "Finden Sie einen Moment der Stille in der großen Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Institut Pere Mata kertjei",
+            "tip": "Békés hely egy sétára az épület felfedezése után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy mellékkápolna a Sant Pere-ben",
+            "tip": "Találj egy csendes pillanatot a nagy templomban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Institutului Pere Mata",
+            "tip": "Un loc liniștit pentru o plimbare după explorarea clădirii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O capelă laterală în Sant Pere",
+            "tip": "Găsiți un moment de liniște în interiorul bisericii grandioase.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of the Institut Pere Mata",
+            "tip": "A peaceful place to stroll after exploring the building.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A side chapel in Sant Pere",
+            "tip": "Find a moment of quiet inside the grand church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "El Pallol Einkaufszentrum",
+            "tip": "Ein modernes Einkaufszentrum im Freien, das in die Altstadt integriert ist."
+          },
+          {
+            "name": "Geschäfte entlang der Carrer de Monterols",
+            "tip": "Die Haupteinkaufsstraße von Reus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Pallol bevásárlóközpont",
+            "tip": "Modern, szabadtéri bevásárlóközpont az óvárosba integrálva."
+          },
+          {
+            "name": "Boltok a Carrer de Monterols mentén",
+            "tip": "Reus fő bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial El Pallol",
+            "tip": "Un centru comercial modern, în aer liber, integrat în orașul vechi."
+          },
+          {
+            "name": "Magazinele de pe Carrer de Monterols",
+            "tip": "Strada principală de cumpărături din Reus."
+          }
+        ],
+        "en": [
+          {
+            "name": "El Pallol Shopping Centre",
+            "tip": "A modern, open-air shopping center integrated into the old town."
+          },
+          {
+            "name": "Shops along Carrer de Monterols",
+            "tip": "The main shopping street in Reus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren können teuer sein, aber es ist die bequemste Option.",
+          "Beachten Sie die Einbahnstraßen im Stadtzentrum.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "A parkolási díjak drágák lehetnek, de ez a legkényelmesebb megoldás.",
+          "Figyelj az egyirányú utcákra a városközpontban.",
+          "Ne hagyj értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Taxele de parcare pot fi scumpe, dar este cea mai convenabilă opțiune.",
+          "Fiți atenți la străzile cu sens unic din centrul orașului.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Parking fees can be expensive, but it's the most convenient option.",
+          "Be aware of the one-way street system in the city center.",
+          "Do not leave valuables visible in your car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof & Spaziergang zur Plaza Prim",
+            "hu": "Érkezés a pályaudvarra & séta a Prim térre",
+            "ro": "Sosire la gară și plimbare până la Piața Prim",
+            "en": "Arrival at Train Station & Walk to Plaza Prim"
+          },
+          "coords": [
+            1.1022,
+            41.1525
+          ],
+          "category": "transit",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Bahnhof Reus zur Haltestelle 'Estació d'Autobusos' in der Nähe der Plaza Prim.",
+            "hu": "A Reus vasútállomásról busszal menj az 'Estació d'Autobusos' megállóig, a Plaza Prim közelében.",
+            "ro": "Luați un autobuz de la gara Reus până la stația 'Estació d'Autobusos' lângă Piața Prim.",
+            "en": "Take a bus from Reus train station to the 'Estació d'Autobusos' stop near Plaza Prim."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza del Mercadal & Casa Navàs",
+            "hu": "Mercadal tér & Casa Navàs",
+            "ro": "Piața Mercadal & Casa Navàs",
+            "en": "Plaza del Mercadal & Casa Navàs"
+          },
+          "coords": [
+            1.1075,
+            41.1558
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:33",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt, ein einfacher Spaziergang von der Bushaltestelle aus.",
+            "hu": "A város szíve, könnyű séta a buszmegállótól.",
+            "ro": "Inima orașului, o plimbare ușoară de la stația de autobuz.",
+            "en": "The heart of the city, an easy walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Gaudí Centre Reus",
+            "hu": "Gaudí Központ Reus",
+            "ro": "Centrul Gaudí Reus",
+            "en": "Gaudí Centre Reus"
+          },
+          "coords": [
+            1.1078,
+            41.1561
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Interaktive Exponate machen dies zu einem unterhaltsamen Besuch für alle Altersgruppen.",
+            "hu": "Az interaktív kiállítások minden korosztály számára élvezetessé teszik a látogatást.",
+            "ro": "Exponatele interactive fac din aceasta o vizită distractivă pentru toate vârstele.",
+            "en": "Interactive exhibits make this a fun visit for all ages."
+          }
+        },
+        {
+          "name": {
+            "de": "Prioratskirche Sant Pere",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica Priorală Sant Pere",
+            "en": "Prioral Church of Sant Pere"
+          },
+          "coords": [
+            1.107,
+            41.1565
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:02",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht und ein schnelles Mittagessen in der Nähe, bevor Sie weiterziehen.",
+            "hu": "Élvezd a kilátást és egy gyors ebédet a közelben, mielőtt továbbmész.",
+            "ro": "Bucurați-vă de priveliște și de un prânz rapid în apropiere înainte de a merge mai departe.",
+            "en": "Enjoy the view and a quick lunch nearby before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Wermut-Museum",
+            "hu": "Vermut Múzeum",
+            "ro": "Muzeul Vermutului",
+            "en": "Vermut-Museum"
+          },
+          "coords": [
+            1.1112,
+            41.1553
+          ],
+          "category": "museums",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch die Einkaufsstraßen, um hierher zu gelangen.",
+            "hu": "Kellemes séta a bevásárlóutcákon keresztül ide.",
+            "ro": "O plimbare plăcută pe străzile comerciale pentru a ajunge aici.",
+            "en": "A pleasant walk through the shopping streets to get here."
+          }
+        },
+        {
+          "name": {
+            "de": "Institut Pere Mata",
+            "hu": "Pere Mata Intézet",
+            "ro": "Institutul Pere Mata",
+            "en": "Institut Pere Mata"
+          },
+          "coords": [
+            1.088,
+            41.162
+          ],
+          "category": "historical",
+          "arrive_at": "15:23",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus L50 von der Haltestelle 'Passeig de Mata' hierher.",
+            "hu": "A 'Passeig de Mata' megállóból az L50-es busszal juss el ide.",
+            "ro": "Luați autobuzul L50 de la stația 'Passeig de Mata' pentru a ajunge aici.",
+            "en": "Take the L50 bus from the 'Passeig de Mata' stop to get here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel von Reus, um Ihren Tag zu beginnen. Vom zentralen Busbahnhof aus ist der historische Kern der Stadt leicht zu Fuß erreichbar. Erkunden Sie die Plätze Prim und Mercadal, das Gaudí Centre und die Kirche Sant Pere. Nach dem Mittagessen führt ein Spaziergang zum Wermut-Museum. Am Nachmittag bringt Sie ein Bus zum prächtigen Institut Pere Mata, wo Sie in die Welt des Modernisme eintauchen können, bevor Sie ins Zentrum zurückkehren.",
+        "hu": "Használd Reus tömegközlekedését a napod elkezdéséhez. A központi buszpályaudvarról a város történelmi magja könnyen megközelíthető gyalog. Fedezd fel a Prim és Mercadal tereket, a Gaudí Központot és a Sant Pere templomot. Ebéd után sétálj el a Vermut Múzeumba. Délután egy busz elvisz a csodálatos Institut Pere Matához, ahol elmerülhetsz a modernizmus világában, mielőtt visszatérnél a központba.",
+        "ro": "Folosiți transportul public din Reus pentru a vă începe ziua. De la autogara centrală, nucleul istoric al orașului este o plimbare ușoară. Explorați piețele Prim și Mercadal, Centrul Gaudí și biserica Sant Pere. După prânz, o plimbare vă duce la Muzeul Vermutului. După-amiaza, un autobuz vă va transporta la magnificul Institut Pere Mata pentru o imersiune modernistă înainte de a vă întoarce în centru.",
+        "en": "Use Reus's public transport to start your day. From the central bus station, the city's historic core is an easy walking cluster. Explore Plazas Prim and Mercadal, the Gaudí Centre, and Sant Pere church. After lunch, a walk takes you to the Vermut-Museum. In the afternoon, a bus will whisk you away to the magnificent Institut Pere Mata for a Modernist immersion before heading back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Llonganissa",
+            "tip": "Ein herzhaftes Sandwich mit lokaler Wurst."
+          },
+          {
+            "name": "Panellets",
+            "tip": "Kleine Süßigkeiten aus Marzipan, besonders beliebt um Allerheiligen."
+          },
+          {
+            "name": "Ein Glas Wein aus der Region Priorat",
+            "tip": "Eine weltberühmte Weinregion liegt gleich um die Ecke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Llonganissa",
+            "tip": "Kiadós szendvics helyi kolbásszal."
+          },
+          {
+            "name": "Panellets",
+            "tip": "Apró marcipános édességek, különösen Mindenszentek környékén népszerűek."
+          },
+          {
+            "name": "Egy pohár bor a Priorat borvidékről",
+            "tip": "Egy világhírű borvidék van a szomszédban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Llonganissa",
+            "tip": "Un sandviș consistent cu cârnat local."
+          },
+          {
+            "name": "Panellets",
+            "tip": "Mici dulciuri făcute din marțipan, deosebit de populare în preajma Zilei Tuturor Sfinților."
+          },
+          {
+            "name": "Un pahar de vin din regiunea Priorat",
+            "tip": "O regiune viticolă de renume mondial se află chiar după colț."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Llonganissa",
+            "tip": "A hearty sandwich with local sausage."
+          },
+          {
+            "name": "Panellets",
+            "tip": "Small sweets made of marzipan, especially popular around All Saints' Day."
+          },
+          {
+            "name": "A glass of wine from the Priorat region",
+            "tip": "A world-famous wine region is just around the corner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Les Olles del Baix Camp",
+            "tip": "Wenn Sie Zeit haben, nehmen Sie einen Bus zu diesem nahegelegenen Naturgebiet für eine ruhige Wanderung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein Café in einer Gasse",
+            "tip": "Entfliehen Sie dem Trubel der Hauptplätze für einen ruhigen Kaffee.",
+            "emoji": "☕"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Olles del Baix Camp",
+            "tip": "Ha van időd, buszozz el ehhez a közeli természeti területhez egy csendes túrára.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy kávézó egy mellékutcában",
+            "tip": "Menekülj el a főterek nyüzsgésétől egy csendes kávéra.",
+            "emoji": "☕"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Olles del Baix Camp",
+            "tip": "Dacă aveți timp, luați un autobuz spre această zonă naturală din apropiere pentru o drumeție liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O cafenea pe o alee",
+            "tip": "Evadați din agitația piețelor principale pentru o cafea liniștită.",
+            "emoji": "☕"
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Olles del Baix Camp",
+            "tip": "If you have time, take a bus to this nearby nature area for a quiet hike.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A cafe on a side street",
+            "tip": "Escape the bustle of the main squares for a quiet coffee.",
+            "emoji": "☕"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Halten Sie Ausschau nach handgefertigter Keramik, einem schönen und nützlichen Souvenir."
+          },
+          {
+            "name": "Gaudí-inspirierte Souvenirs",
+            "tip": "Im Gaudí Centre finden Sie geschmackvolle Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keress kézzel készített kerámiákat, egy szép és hasznos szuvenírt."
+          },
+          {
+            "name": "Gaudí ihlette szuvenírek",
+            "tip": "A Gaudí Központban ízléses emléktárgyakat találhatsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică lucrată manual, un suvenir frumos și util."
+          },
+          {
+            "name": "Suveniruri inspirate de Gaudí",
+            "tip": "Găsiți amintiri de bun gust la Centrul Gaudí."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local pottery",
+            "tip": "Look for hand-crafted ceramics, a beautiful and useful souvenir."
+          },
+          {
+            "name": "Gaudí-inspired souvenirs",
+            "tip": "You can find tasteful mementos at the Gaudí Centre."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine T-10-Karte für mehrere Fahrten zu einem ermäßigten Preis.",
+          "Die Busfahrpläne finden Sie an den Haltestellen und online.",
+          "Bestätigen Sie Ihre Fahrkarte bei jedem Einsteigen."
+        ],
+        "hu": [
+          "Vásárolj egy T-10-es bérletet több utazáshoz kedvezményes áron.",
+          "A buszmenetrendeket a megállókban és online is megtalálod.",
+          "Minden felszálláskor érvényesítsd a jegyedet."
+        ],
+        "ro": [
+          "Cumpărați un card T-10 pentru mai multe călătorii la un preț redus.",
+          "Orarele autobuzelor pot fi găsite la stații și online.",
+          "Validați-vă biletul de fiecare dată când vă urcați."
+        ],
+        "en": [
+          "Buy a T-10 card for multiple journeys at a discounted rate.",
+          "Bus schedules can be found at the stops and online.",
+          "Validate your ticket each time you board."
+        ]
+      }
+    }
+  }
+}

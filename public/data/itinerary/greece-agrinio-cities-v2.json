@@ -1,0 +1,1228 @@
+{
+  "city_id": "greece-agrinio-cities-v2",
+  "anchor": {
+    "name": "Agrinio",
+    "coords": [
+      21.4087,
+      38.6251
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dimokratias Platz",
+            "hu": "Demokrácia tér",
+            "ro": "Piața Democrației",
+            "en": "Democracy Square"
+          },
+          "coords": [
+            21.4085,
+            38.625
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
+            "en": "Start your day with a coffee at one of the many cafés lining the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Christoforos",
+            "hu": "Szent Kristóf-templom",
+            "ro": "Biserica Sfântul Cristofor",
+            "en": "Church of Saint Christopher"
+          },
+          "coords": [
+            21.407,
+            38.6265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Ikonen und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a lenyűgöző ikonokat és élvezze a békés légkört.",
+            "ro": "Admirați icoanele impresionante și atmosfera liniștită.",
+            "en": "Admire the impressive icons and the serene atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Tabakspeicher",
+            "hu": "Dohányraktárak",
+            "ro": "Depozitele de tutun",
+            "en": "Tobacco Warehouses"
+          },
+          "coords": [
+            21.405,
+            38.623
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:44",
+          "stay_min": 45,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Einblick in die industrielle Vergangenheit der Stadt.",
+            "hu": "Tekintsen be a város ipari múltjába.",
+            "ro": "O privire asupra trecutului industrial al orașului.",
+            "en": "A glimpse into the city's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Papastrateio Archäologisches Museum",
+            "hu": "Papasztrareio Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Papastrateio",
+            "en": "Papastrateio Archaeological Museum"
+          },
+          "coords": [
+            21.4095,
+            38.628
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause, um der Hitze zu entkommen.",
+            "hu": "Ideális egy ebédszünetre, hogy elmeneküljön a hőség elől.",
+            "ro": "Perfect pentru o pauză de prânz pentru a scăpa de căldură.",
+            "en": "Perfect for a midday break to escape the heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Christos Kapralos Galerie",
+            "hu": "Chrisztosz Kapralosz Galéria",
+            "ro": "Galeria Christos Kapralos",
+            "en": "Christos Kapralos Gallery"
+          },
+          "coords": [
+            21.411,
+            38.624
+          ],
+          "category": "museums",
+          "arrive_at": "14:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Werke eines bedeutenden griechischen Bildhauers.",
+            "hu": "Fedezze fel egy jelentős görög szobrász munkáit.",
+            "ro": "Descoperiți lucrările unui important sculptor grec.",
+            "en": "Discover the works of a significant Greek sculptor."
+          }
+        },
+        {
+          "name": {
+            "de": "Papastratos Park",
+            "hu": "Papasztratosz Park",
+            "ro": "Parcul Papastratos",
+            "en": "Papastratos Park"
+          },
+          "coords": [
+            21.413,
+            38.629
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:41",
+          "stay_min": 94,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap pihentető befejezéséhez.",
+            "ro": "Locul perfect pentru a încheia ziua într-un mod relaxant.",
+            "en": "The perfect spot to wind down and end your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Agrinio beginnt am lebhaften Dimokratias Platz. Von dort aus erkunden Sie das historische und industrielle Erbe der Stadt, wie die alten Tabakspeicher. Am Nachmittag tauchen Sie in die lokale Kunst im Papastrateio Museum und der Christos Kapralos Galerie ein. Der Tag endet mit einem entspannten Spaziergang im grünen Papastratos Park, einer Oase der Ruhe im Stadtzentrum.",
+        "hu": "Agriniói napja a nyüzsgő Demokrácia téren kezdődik. Innen felfedezheti a város történelmi és ipari örökségét, például a régi dohányraktárakat. Délután elmerülhet a helyi művészetben a Papasztrateio Múzeumban és a Chrisztosz Kapralosz Galériában. A napot egy pihentető sétával zárja a zöld Papasztratosz Parkban, a nyugalom oázisában a városközpontban.",
+        "ro": "Ziua dvs. în Agrinio începe în vibranta Piața Democrației. De acolo, explorați moștenirea istorică și industrială a orașului, cum ar fi vechile depozite de tutun. După-amiaza, vă cufundați în arta locală la Muzeul Papastrateio și Galeria Christos Kapralos. Ziua se încheie cu o plimbare relaxantă în Parcul Papastratos, o oază de liniște în centrul orașului.",
+        "en": "Your day in Agrinio starts at the vibrant Democracy Square. From there, you'll explore the city's historical and industrial heritage, like the old tobacco warehouses. In the afternoon, immerse yourself in local art at the Papastrateio Museum and the Christos Kapralos Gallery. The day concludes with a relaxing stroll in the green Papastratos Park, an oasis of calm in the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souvlaki",
+            "tip": "Probieren Sie das klassische griechische Straßengericht in einer der vielen Grillstuben."
+          },
+          {
+            "name": "Kreatopita",
+            "tip": "Eine herzhafte Fleischpastete, die typisch für die Region ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvlaki",
+            "tip": "Kóstolja meg a klasszikus görög utcai ételt az egyik grillbárban."
+          },
+          {
+            "name": "Kreatopita",
+            "tip": "Egy kiadós, a régióra jellemző húsos pite."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvlaki",
+            "tip": "Încercați mâncarea stradală grecească clasică la una dintre numeroasele grătare."
+          },
+          {
+            "name": "Kreatopita",
+            "tip": "O plăcintă cu carne consistentă, tipică regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvlaki",
+            "tip": "Try the classic Greek street food at one of the many grill houses."
+          },
+          {
+            "name": "Kreatopita",
+            "tip": "A hearty meat pie, typical of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Papastratos Park",
+            "tip": "Finden Sie eine ruhige Bank unter den Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirche Agios Christoforos",
+            "tip": "Ein Moment der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Papasztratosz Park",
+            "tip": "Keressen egy csendes padot a fák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Kristóf-templom",
+            "tip": "A csend és az elmélkedés pillanata.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Papastratos",
+            "tip": "Găsiți o bancă liniștită sub copaci.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Sfântul Cristofor",
+            "tip": "Un moment de liniște și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Papastratos Park",
+            "tip": "Find a quiet bench under the trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church of St. Christopher",
+            "tip": "A moment of quiet and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Kaufen Sie frisches Obst, Olivenöl und Honig aus der Region."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Finden Sie einzigartige handgefertigte Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Vásároljon friss gyümölcsöt, olívaolajat és helyi mézet."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Találjon egyedi, kézzel készített ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Cumpărați fructe proaspete, ulei de măsline și miere din regiune."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Găsiți suveniruri unice, lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Shop for fresh fruit, olive oil, and local honey."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Find unique handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Planen Sie eine längere Mittagspause ein, um die lokale Küche zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Tervezzen egy hosszabb ebédszünetet, hogy élvezhesse a helyi konyhát."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Luați cu dvs. o sticlă de apă reutilizabilă.",
+          "Planificați o pauză de prânz mai lungă pentru a vă bucura de bucătăria locală."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring a reusable water bottle.",
+          "Plan for a longer lunch break to enjoy the local cuisine."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dimokratias Platz",
+            "hu": "Demokrácia tér",
+            "ro": "Piața Democrației",
+            "en": "Democracy Square"
+          },
+          "coords": [
+            21.4085,
+            38.625
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt, um die Stadt mit dem Fahrrad zu erkunden.",
+            "hu": "Ideális kiindulópont a város kerékpáros felfedezéséhez.",
+            "ro": "Un punct de plecare ideal pentru a explora orașul cu bicicleta.",
+            "en": "An ideal starting point to explore the city by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Papastratos Park",
+            "hu": "Papasztratosz Park",
+            "ro": "Parcul Papastratos",
+            "en": "Papastratos Park"
+          },
+          "coords": [
+            21.413,
+            38.629
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Radtour durch die grünen Wege des Parks.",
+            "hu": "Tegyen egy rövid kerékpártúrát a park zöld ösvényein.",
+            "ro": "Faceți o scurtă plimbare cu bicicleta pe aleile verzi ale parcului.",
+            "en": "Take a short ride through the park's green pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Christos Kapralos Galerie",
+            "hu": "Chrisztosz Kapralosz Galéria",
+            "ro": "Galeria Christos Kapralos",
+            "en": "Christos Kapralos Gallery"
+          },
+          "coords": [
+            21.411,
+            38.624
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie ein in die Welt der Kunst.",
+            "hu": "Parkolja le a kerékpárját, és merüljön el a művészet világában.",
+            "ro": "Parcați bicicleta și scufundați-vă în lumea artei.",
+            "en": "Park your bike and immerse yourself in the world of art."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Christoforos",
+            "hu": "Szent Kristóf-templom",
+            "ro": "Biserica Sfântul Cristofor",
+            "en": "Church of Saint Christopher"
+          },
+          "coords": [
+            21.407,
+            38.6265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Museum entfernt, perfekt für eine Pause.",
+            "hu": "Egy rövid út a múzeumtól, tökéletes egy kis pihenőre.",
+            "ro": "La o scurtă distanță de muzeu, perfect pentru o pauză.",
+            "en": "A short ride from the museum, perfect for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Tabakspeicher",
+            "hu": "Dohányraktárak",
+            "ro": "Depozitele de tutun",
+            "en": "Tobacco Warehouses"
+          },
+          "coords": [
+            21.405,
+            38.623
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie durch das Viertel, um die Architektur zu sehen.",
+            "hu": "Kerékpározzon végig a negyeden, hogy megnézze az építészetet.",
+            "ro": "Plimbați-vă cu bicicleta prin cartier pentru a vedea arhitectura.",
+            "en": "Cycle through the district to see the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Papastrateio Archäologisches Museum",
+            "hu": "Papasztrareio Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Papastrateio",
+            "en": "Papastrateio Archaeological Museum"
+          },
+          "coords": [
+            21.4095,
+            38.628
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, um in die tiefere Geschichte einzutauchen.",
+            "hu": "A nap utolsó állomása, hogy elmerüljön a mélyebb történelemben.",
+            "ro": "Ultima oprire a zilei pentru a aprofunda istoria.",
+            "en": "The last stop of the day to delve into deeper history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Agrinio auf flexible Weise. Nach einem Start am Dimokratias Platz führt Sie Ihre Route in den Papastratos Park. Der Nachmittag ist der Kunst und Geschichte gewidmet, mit Besuchen in der Christos Kapralos Galerie und dem archäologischen Museum. Dazwischen entdecken Sie die einzigartige Architektur der Tabakspeicher und die spirituelle Ruhe der Agios Christoforos Kirche.",
+        "hu": "Kerékpárral rugalmasan fedezheti fel Agriniót. A Demokrácia térről indulva az útvonal a Papasztratosz Parkba vezet. A délután a művészeté és a történelemé, a Chrisztosz Kapralosz Galéria és a régészeti múzeum meglátogatásával. Közben felfedezheti a dohányraktárak egyedi építészetét és az Agiosz Krisztoforosz templom spirituális nyugalmát.",
+        "ro": "Cu bicicleta, explorați Agrinio într-un mod flexibil. După un start în Piața Democrației, traseul vă duce în Parcul Papastratos. După-amiaza este dedicată artei și istoriei, cu vizite la Galeria Christos Kapralos și muzeul arheologic. Între timp, descoperiți arhitectura unică a depozitelor de tutun și liniștea spirituală a Bisericii Sfântul Cristofor.",
+        "en": "By bike, you'll explore Agrinio in a flexible way. After a start at Democracy Square, your route takes you to Papastratos Park. The afternoon is dedicated to art and history, with visits to the Christos Kapralos Gallery and the archaeological museum. In between, you'll discover the unique architecture of the tobacco warehouses and the spiritual tranquility of the Church of Saint Christopher."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Taverne",
+            "tip": "Genießen Sie ein traditionelles griechisches Mittagessen."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Der perfekte Eiskaffee für eine Pause am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi taverna",
+            "tip": "Élvezzen egy hagyományos görög ebédet."
+          },
+          {
+            "name": "Frappé",
+            "tip": "A tökéletes jegeskávé egy délutáni szünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavernă locală",
+            "tip": "Bucurați-vă de un prânz tradițional grecesc."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Cafeaua cu gheață perfectă pentru o pauză de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Taverna",
+            "tip": "Enjoy a traditional Greek lunch."
+          },
+          {
+            "name": "Frappé",
+            "tip": "The perfect iced coffee for an afternoon break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Papastratos Park",
+            "tip": "Eine grüne Lunge, ideal für eine Pause vom Radfahren.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Trichonida-Sees (mit dem Fahrrad erreichbar)",
+            "tip": "Eine längere Fahrt für atemberaubende Ausblicke.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Papasztratosz Park",
+            "tip": "Zöld oázis, ideális a kerékpározás közbeni pihenéshez.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Trichonida-tó partja (kerékpárral elérhető)",
+            "tip": "Hosszabb túra a lélegzetelállító kilátásért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Papastratos",
+            "tip": "Un plămân verde, ideal pentru o pauză de la ciclism.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul lacului Trichonida (accesibil cu bicicleta)",
+            "tip": "O plimbare mai lungă pentru priveliști uimitoare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Papastratos Park",
+            "tip": "A green lung, ideal for a break from cycling.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Shore of Lake Trichonida (reachable by bike)",
+            "tip": "A longer ride for breathtaking views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha kiegészítőkre vagy gyors javításra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau o reparație rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "In case you need any accessories or a quick fix."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Tragen Sie einen Helm.",
+          "Nutzen Sie Fahrradwege, wo immer möglich."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Viseljen sisakot.",
+          "Használja a kerékpárutakat, ahol csak lehetséges."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Purtați cască.",
+          "Folosiți pistele de biciclete ori de câte ori este posibil."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Wear a helmet.",
+          "Use bike lanes wherever possible."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 38.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Antikes Stratos",
+            "hu": "Ókori Sztratosz",
+            "ro": "Stratosul Antic",
+            "en": "Ancient Stratos"
+          },
+          "coords": [
+            21.33,
+            38.66
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie früh los, um die Morgenkühle bei der Erkundung der Ruinen zu nutzen.",
+            "hu": "Induljon korán, hogy kihasználja a reggeli hűvösséget a romok felfedezése közben.",
+            "ro": "Plecați devreme pentru a profita de răcoarea dimineții în timp ce explorați ruinele.",
+            "en": "Leave early to take advantage of the morning cool while exploring the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Dimokratias Platz (Cluster Agrinio Zentrum)",
+            "hu": "Demokrácia tér (Agrinio Központ Klaszter)",
+            "ro": "Piața Democrației (Cluster Centrul Agrinio)",
+            "en": "Democracy Square (Agrinio Center Cluster)"
+          },
+          "coords": [
+            21.4085,
+            38.625
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 10.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier Ihr Auto für den Rest des Vormittags und erkunden Sie die Gegend zu Fuß.",
+            "hu": "Parkolja le itt az autóját a délelőtt hátralévő részére, és fedezze fel a környéket gyalog.",
+            "ro": "Parcați mașina aici pentru restul dimineții și explorați zona pe jos.",
+            "en": "Park your car here for the rest of the morning and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Papastrateio Archäologisches Museum",
+            "hu": "Papasztrareio Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Papastrateio",
+            "en": "Papastrateio Archaeological Museum"
+          },
+          "coords": [
+            21.4095,
+            38.628
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz entfernt, perfekt für die Mittagszeit.",
+            "hu": "Rövid sétára a tértől, tökéletes ebédidőre.",
+            "ro": "La o scurtă plimbare de piață, perfect pentru ora prânzului.",
+            "en": "A short walk from the square, perfect for midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Taverne",
+            "hu": "Ebéd egy tavernában",
+            "ro": "Prânz la o tavernă",
+            "en": "Lunch at a Taverna"
+          },
+          "coords": [
+            21.4075,
+            38.626
+          ],
+          "category": "gastro",
+          "arrive_at": "13:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die lokale Küche, bevor Sie zum Auto zurückkehren.",
+            "hu": "Élvezze a helyi konyhát, mielőtt visszatérne az autóhoz.",
+            "ro": "Bucurați-vă de bucătăria locală înainte de a vă întoarce la mașină.",
+            "en": "Enjoy the local cuisine before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Trichonida-See (Cluster Seeufer)",
+            "hu": "Trichonida-tó (Tóparti Klaszter)",
+            "ro": "Lacul Trichonida (Cluster Malul Lacului)",
+            "en": "Lake Trichonida (Lakeshore Cluster)"
+          },
+          "coords": [
+            21.52,
+            38.57
+          ],
+          "category": "natural features",
+          "arrive_at": "15:44",
+          "stay_min": 90,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum See für einen völlig anderen Landschaftseindruck.",
+            "hu": "Autózzon el a tóhoz egy teljesen más tájélményért.",
+            "ro": "Conduceți până la lac pentru o impresie peisagistică complet diferită.",
+            "en": "Drive to the lake for a complete change of scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Ufer",
+            "hu": "Séta a parton",
+            "ro": "Plimbare pe mal",
+            "en": "Walk along the shore"
+          },
+          "coords": [
+            21.522,
+            38.571
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:16",
+          "stay_min": 49,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang am größten natürlichen See Griechenlands.",
+            "hu": "Egy pihentető séta Görögország legnagyobb természetes tavánál.",
+            "ro": "O plimbare relaxantă de-a lungul celui mai mare lac natural din Grecia.",
+            "en": "A relaxing walk along Greece's largest natural lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die vielfältige Umgebung von Agrinio erkunden. Der Morgen beginnt mit einer Reise in die Vergangenheit im antiken Stratos. Zurück in der Stadt, parken Sie und erkunden das Zentrum zu Fuß, einschließlich des archäologischen Museums. Der Nachmittag bietet einen Kontrast mit einer Fahrt zum malerischen Trichonida-See, wo Sie die Natur und die Ruhe genießen können, weit weg vom städtischen Trubel.",
+        "hu": "Autóval felfedezheti Agrinio változatos környékét. A reggel egy utazással kezdődik a múltba az ókori Sztratoszban. Visszatérve a városba, parkoljon le, és fedezze fel gyalog a központot, beleértve a régészeti múzeumot is. A délután kontrasztot kínál egy kirándulással a festői Trichonida-tóhoz, ahol élvezheti a természetet és a nyugalmat, távol a városi nyüzsgéstől.",
+        "ro": "Cu mașina, puteți explora împrejurimile diverse ale Agrinio. Dimineața începe cu o călătorie în trecut la Stratosul Antic. Înapoi în oraș, parcați și explorați centrul pe jos, inclusiv muzeul arheologic. După-amiaza oferă un contrast cu o excursie la pitorescul Lac Trichonida, unde vă puteți bucura de natură și liniște, departe de agitația urbană.",
+        "en": "By car, you can explore the diverse surroundings of Agrinio. The morning begins with a journey into the past at Ancient Stratos. Back in the city, park your car and explore the center on foot, including the archaeological museum. The afternoon offers a contrast with a drive to the scenic Lake Trichonida, where you can enjoy nature and tranquility, far from the urban hustle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverne am See",
+            "tip": "Probieren Sie frischen Fisch aus dem Trichonida-See."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Die Region ist bekannt für ihre Weinproduktion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taverna a tónál",
+            "tip": "Kóstoljon friss halat a Trichonida-tóból."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "A régió híres a bortermeléséről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna de pe lac",
+            "tip": "Încercați pește proaspăt din Lacul Trichonida."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Regiunea este cunoscută pentru producția sa de vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside Taverna",
+            "tip": "Try fresh fish from Lake Trichonida."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "The region is known for its wine production."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Trichonida-Sees",
+            "tip": "Finden Sie einen abgelegenen Platz und genießen Sie die Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruinen von Stratos",
+            "tip": "Frühmorgens ist es hier besonders friedlich.",
+            "emoji": "🏛️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trichonida-tó partja",
+            "tip": "Keressen egy félreeső helyet, és élvezze a kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sztratosz romjai",
+            "tip": "Kora reggel különösen békés itt.",
+            "emoji": "🏛️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Trichonida",
+            "tip": "Găsiți un loc retras și bucurați-vă de priveliște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruinele din Stratos",
+            "tip": "Dimineața devreme este deosebit de pașnic aici.",
+            "emoji": "🏛️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Lake Trichonida",
+            "tip": "Find a secluded spot and enjoy the view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruins of Stratos",
+            "tip": "It's especially peaceful here early in the morning.",
+            "emoji": "🏛️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Auf dem Weg zum See finden Sie Stände mit lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "A tó felé vezető úton helyi termékeket árusító standokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole",
+            "tip": "Pe drumul spre lac veți găsi tarabe cu produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Stands",
+            "tip": "On the way to the lake, you'll find stands selling local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten der archäologischen Stätten.",
+          "Nehmen Sie Bargeld für kleine Einkäufe auf dem Land mit.",
+          "Achten Sie auf die Parkmöglichkeiten in der Stadt."
+        ],
+        "hu": [
+          "Ellenőrizze a régészeti lelőhelyek nyitvatartási idejét.",
+          "Vigyen magával készpénzt a vidéki kis vásárlásokhoz.",
+          "Figyeljen a parkolási lehetőségekre a városban."
+        ],
+        "ro": [
+          "Verificați orele de deschidere ale siturilor arheologice.",
+          "Luați numerar pentru cumpărături mici la țară.",
+          "Fiți atenți la opțiunile de parcare din oraș."
+        ],
+        "en": [
+          "Check the opening hours of the archaeological sites.",
+          "Bring cash for small purchases in the countryside.",
+          "Be mindful of parking in the city."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dimokratias Platz (Cluster Zentrum)",
+            "hu": "Demokrácia tér (Központ Klaszter)",
+            "ro": "Piața Democrației (Cluster Centru)",
+            "en": "Democracy Square (Center Cluster)"
+          },
+          "coords": [
+            21.4085,
+            38.625
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus ins Zentrum, um Ihren Tag zu beginnen.",
+            "hu": "A nap indításához szálljon buszra a központ felé.",
+            "ro": "Luați autobuzul spre centru pentru a vă începe ziua.",
+            "en": "Take a bus to the center to start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Christoforos",
+            "hu": "Szent Kristóf-templom",
+            "ro": "Biserica Sfântul Cristofor",
+            "en": "Church of Saint Christopher"
+          },
+          "coords": [
+            21.407,
+            38.6265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Platz aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a térről.",
+            "ro": "Ușor de ajuns pe jos din piață.",
+            "en": "Easily walkable from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Tabakspeicher",
+            "hu": "Dohányraktárak",
+            "ro": "Depozitele de tutun",
+            "en": "Tobacco Warehouses"
+          },
+          "coords": [
+            21.405,
+            38.623
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:42",
+          "stay_min": 50,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Straßen, um dieses einzigartige Erbe zu sehen.",
+            "hu": "Sétáljon végig az utcákon, hogy megnézze ezt az egyedülálló örökséget.",
+            "ro": "Plimbați-vă pe străzi pentru a vedea această moștenire unică.",
+            "en": "Stroll through the streets to see this unique heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Papastrateio Archäologisches Museum (Cluster Museum)",
+            "hu": "Papasztrareio Régészeti Múzeum (Múzeum Klaszter)",
+            "ro": "Muzeul Arheologic Papastrateio (Cluster Muzeu)",
+            "en": "Papastrateio Archaeological Museum (Museum Cluster)"
+          },
+          "coords": [
+            21.4095,
+            38.628
+          ],
+          "category": "museums",
+          "arrive_at": "12:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum nächsten Cluster von Sehenswürdigkeiten.",
+            "hu": "Szálljon buszra a következő látnivalócsoporthoz.",
+            "ro": "Luați un autobuz către următorul cluster de atracții.",
+            "en": "Take a bus to the next cluster of attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Christos Kapralos Galerie",
+            "hu": "Chrisztosz Kapralosz Galéria",
+            "ro": "Galeria Christos Kapralos",
+            "en": "Christos Kapralos Gallery"
+          },
+          "coords": [
+            21.411,
+            38.624
+          ],
+          "category": "museums",
+          "arrive_at": "13:58",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein weiterer Kunstort, nur einen kurzen Spaziergang entfernt.",
+            "hu": "Egy másik művészeti helyszín, csak egy rövid sétára.",
+            "ro": "Un alt loc de artă, la doar o scurtă plimbare.",
+            "en": "Another art spot just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Papastratos Park",
+            "hu": "Papasztratosz Park",
+            "ro": "Parcul Papastratos",
+            "en": "Papastratos Park"
+          },
+          "coords": [
+            21.413,
+            38.629
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:37",
+          "stay_min": 68,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Park, bevor Sie den Bus nach Hause nehmen.",
+            "hu": "Pihenjen a parkban, mielőtt hazabuszozna.",
+            "ro": "Relaxați-vă în parc înainte de a lua autobuzul spre casă.",
+            "en": "Relax in the park before taking the bus home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln können Sie Agrinio effizient erleben. Der Tag beginnt im Herzen der Stadt, am Dimokratias Platz. Ein kurzer Spaziergang führt Sie zur Agios Christoforos Kirche. Nach der Erkundung des Zentrums bringt Sie ein Bus zum Museumsviertel, wo Sie Kunst und Archäologie entdecken. Der Tag endet im entspannten Papastratos Park, von wo aus Sie bequem Ihre Rückreise antreten können.",
+        "hu": "A tömegközlekedéssel hatékonyan fedezheti fel Agriniót. A nap a város szívében, a Demokrácia téren kezdődik. Egy rövid séta elvezeti az Agiosz Krisztoforosz templomhoz. A központ felfedezése után egy busz elviszi a múzeumi negyedbe, ahol művészetet és régészetet fedezhet fel. A nap a pihentető Papasztratosz Parkban ér véget, ahonnan kényelmesen megkezdheti a hazautat.",
+        "ro": "Cu transportul public, puteți experimenta Agrinio eficient. Ziua începe în inima orașului, în Piața Democrației. O scurtă plimbare vă duce la Biserica Sfântul Cristofor. După explorarea centrului, un autobuz vă duce în cartierul muzeelor, unde veți descoperi artă și arheologie. Ziua se încheie în relaxantul Parc Papastratos, de unde puteți începe călătoria de întoarcere.",
+        "en": "Using public transport, you can experience Agrinio efficiently. The day starts in the heart of the city, at Democracy Square. A short walk takes you to the Church of Saint Christopher. After exploring the center, a bus takes you to the museum district to discover art and archaeology. The day ends in the relaxing Papastratos Park, from where you can conveniently start your journey back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei",
+            "tip": "Probieren Sie eine 'Tiropita' (Käsepastete) für einen schnellen Snack."
+          },
+          {
+            "name": "Grillstube",
+            "tip": "Ein schnelles und leckeres Souvlaki zum Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség",
+            "tip": "Kóstoljon meg egy 'Tiropitát' (sajtos pitét) egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Grillbár",
+            "tip": "Egy gyors és finom szuvlaki ebédre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie",
+            "tip": "Încercați o 'Tiropita' (plăcintă cu brânză) pentru o gustare rapidă."
+          },
+          {
+            "name": "Grătar",
+            "tip": "Un souvlaki rapid și delicios pentru prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery",
+            "tip": "Try a 'Tiropita' (cheese pie) for a quick snack."
+          },
+          {
+            "name": "Grill House",
+            "tip": "A quick and delicious souvlaki for lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Inneres einer Kirche",
+            "tip": "Finden Sie einen Moment der Ruhe abseits der belebten Straßen.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Eine ruhige Ecke im Park",
+            "tip": "Lesen Sie ein Buch oder beobachten Sie die Leute.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy templom belseje",
+            "tip": "Találjon egy pillanatnyi csendet a forgalmas utcáktól távol.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Egy csendes sarok a parkban",
+            "tip": "Olvasson egy könyvet vagy nézze az embereket.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Interiorul unei biserici",
+            "tip": "Găsiți un moment de liniște departe de străzile aglomerate.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Un colț liniștit în parc",
+            "tip": "Citiți o carte sau priviți oamenii.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Inside a church",
+            "tip": "Find a moment of peace away from the busy streets.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "A quiet corner in the park",
+            "tip": "Read a book or people-watch.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske (Periptero)",
+            "tip": "Kaufen Sie Bustickets, Snacks und Getränke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok (Periptero)",
+            "tip": "Vásároljon buszjegyeket, rágcsálnivalókat és italokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri (Periptero)",
+            "tip": "Cumpărați bilete de autobuz, gustări și băuturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks (Periptero)",
+            "tip": "Buy bus tickets, snacks, and drinks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Haben Sie den Busfahrplan zur Hand.",
+          "Validieren Sie Ihr Ticket bei jeder Fahrt."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Legyen kéznél a buszmenetrend.",
+          "Érvényesítse a jegyét minden utazáskor."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz pentru a economisi bani.",
+          "Aveți la îndemână orarul autobuzelor.",
+          "Validați biletul la fiecare călătorie."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Have the bus schedule handy.",
+          "Validate your ticket on every ride."
+        ]
+      }
+    }
+  }
+}

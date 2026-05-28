@@ -1,0 +1,1532 @@
+{
+  "city_id": "spain-alcala-cities-v2",
+  "anchor": {
+    "name": "Alcalá de Henares",
+    "coords": [
+      -3.3596,
+      40.482
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de Cervantes",
+            "hu": "Cervantes tér",
+            "ro": "Piața Cervantes",
+            "en": "Cervantes Square"
+          },
+          "coords": [
+            -3.3644,
+            40.4817
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Corral de Comedias",
+            "hu": "Corral de Comedias színház",
+            "ro": "Corral de Comedias",
+            "en": "Corral de Comedias"
+          },
+          "coords": [
+            -3.3649,
+            40.4812
+          ],
+          "category": "theatres/cultural-centres",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob eine Führung verfügbar ist, um die einzigartige Geschichte zu erfahren.",
+            "hu": "Nézze meg, van-e vezetett túra, hogy megismerje az egyedülálló történetét.",
+            "ro": "Verificați dacă este disponibil un tur ghidat pentru a afla istoria sa unică.",
+            "en": "Check if a guided tour is available to learn its unique history."
+          }
+        },
+        {
+          "name": {
+            "de": "Calle Mayor",
+            "hu": "Calle Mayor",
+            "ro": "Calle Mayor",
+            "en": "Calle Mayor"
+          },
+          "coords": [
+            -3.3675,
+            40.4815
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dies ist eine der längsten Arkadenstraßen Spaniens, ideal für einen Spaziergang.",
+            "hu": "Ez Spanyolország egyik leghosszabb árkádos utcája, tökéletes egy sétára.",
+            "ro": "Aceasta este una dintre cele mai lungi străzi cu arcade din Spania, ideală pentru o plimbare.",
+            "en": "This is one of the longest arcaded streets in Spain, perfect for a stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Cervantes Geburtshaus",
+            "hu": "Cervantes szülőháza",
+            "ro": "Casa Natală a lui Cervantes",
+            "en": "Cervantes Birthplace Museum"
+          },
+          "coords": [
+            -3.3688,
+            40.4816
+          ],
+          "category": "museums",
+          "arrive_at": "11:08",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Eintritt ist frei. Entdecken Sie das Leben im 16. Jahrhundert.",
+            "hu": "A belépés ingyenes. Fedezze fel a 16. századi életet!",
+            "ro": "Intrarea este gratuită. Descoperiți viața din secolul al XVI-lea.",
+            "en": "Admission is free. Discover what life was like in the 16th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionales Archäologie-Museum",
+            "hu": "Regionális Régészeti Múzeum",
+            "ro": "Muzeul Regional de Arheologie",
+            "en": "Regional Archaeological Museum"
+          },
+          "coords": [
+            -3.3705,
+            40.4808
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die römischen Mosaike, die in der Gegend gefunden wurden.",
+            "hu": "Ne hagyja ki a környéken talált római mozaikokat!",
+            "ro": "Nu ratați mozaicurile romane găsite în zonă.",
+            "en": "Don't miss the Roman mosaics found in the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Magistralkathedrale",
+            "hu": "Magisztrális székesegyház",
+            "ro": "Catedrala Magistrală",
+            "en": "Magistral Cathedral"
+          },
+          "coords": [
+            -3.3695,
+            40.4795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:23",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm für eine großartige Aussicht auf die Stadt.",
+            "hu": "Másszon fel a toronyba a városra nyíló nagyszerű kilátásért!",
+            "ro": "Urcați în turn pentru o priveliște minunată asupra orașului.",
+            "en": "Climb the tower for a great view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Universität von Alcalá",
+            "hu": "Alcalái Egyetem",
+            "ro": "Universitatea din Alcalá",
+            "en": "University of Alcalá"
+          },
+          "coords": [
+            -3.363,
+            40.4835
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:43",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die beeindruckende Paraninfo-Halle zu sehen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megnézze a lenyűgöző Paraninfo termet!",
+            "ro": "Participați la un tur ghidat pentru a vedea impresionanta sală Paraninfo.",
+            "en": "Take a guided tour to see the impressive Paraninfo hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio Laredo",
+            "hu": "Laredo-palota",
+            "ro": "Palatul Laredo",
+            "en": "Laredo Palace"
+          },
+          "coords": [
+            -3.3556,
+            40.4852
+          ],
+          "category": "famous-residences",
+          "arrive_at": "17:11",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Neo-Mudéjar-Architektur und die einzigartigen Räume im Inneren.",
+            "hu": "Csodálja meg a neo-mudéjar építészetet és az egyedi belső termeket!",
+            "ro": "Admirați arhitectura neo-mudéjară și camerele unice din interior.",
+            "en": "Admire the Neo-Mudéjar architecture and the unique rooms inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Alcalá beginnt auf der belebten Plaza de Cervantes. Vormittags erkunden Sie das historische Herz der Stadt, einschließlich des alten Theaters und der langen Arkaden der Calle Mayor, die Sie zum Geburtsort von Cervantes führt. Nach einem Mittagessen voller lokaler Aromen tauchen Sie im Archäologischen Museum in die römische Vergangenheit ein. Der Nachmittag ist der prächtigen Kathedrale und dem prestigeträchtigen Universitätsgelände gewidmet, beides UNESCO-Welterbestätten. Beenden Sie Ihren Tag mit einem Besuch des fantasievollen Palacio Laredo.",
+        "hu": "Az alcalái nap a nyüzsgő Cervantes téren kezdődik. A délelőttöt a történelmi városközpont felfedezésével tölti, beleértve a régi színházat és a Calle Mayor hosszú árkádjait, amelyek elvezetik Cervantes szülőházához. Egy helyi ízekkel teli ebéd után a Régészeti Múzeumban elmerülhet a római múltban. A délután a csodálatos székesegyházé és a tekintélyes egyetemi kampuszé, mindkettő UNESCO világörökségi helyszín. A napot a fantáziadús Laredo-palota meglátogatásával zárja.",
+        "ro": "Ziua dumneavoastră în Alcalá începe în animata Piață Cervantes. Dimineața explorați inima istorică, inclusiv vechiul teatru și lungile arcade de pe Calle Mayor, care vă duc la casa natală a lui Cervantes. După un prânz plin de arome locale, pătrundeți în trecutul roman la Muzeul Arheologic. După-amiaza este dedicată magnificei catedrale și prestigiosului campus universitar, ambele situri ale Patrimoniului Mondial UNESCO. Încheiați ziua cu o vizită la imaginativul Palat Laredo.",
+        "en": "Your day in Alcalá begins in the bustling Plaza de Cervantes. The morning is spent exploring the historic heart, including the old theatre and the long arcades of Calle Mayor, leading you to Cervantes' birthplace. After a lunch full of local flavours, delve into the Roman past at the Archaeological Museum. The afternoon is dedicated to the magnificent cathedral and the prestigious university campus, both UNESCO World Heritage sites. End your day with a visit to the imaginative Laredo Palace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Costrada de Alcalá",
+            "tip": "Ein Blätterteiggebäck mit Pudding und Baiser. Probieren Sie es bei Salinas."
+          },
+          {
+            "name": "Tapas",
+            "tip": "Bestellen Sie ein Getränk und erhalten Sie eine großzügige Tapa gratis. El Índalo ist berühmt dafür."
+          },
+          {
+            "name": "Migas",
+            "tip": "Ein traditionelles Gericht aus Semmelbröseln, oft mit Chorizo serviert. In vielen traditionellen Restaurants erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Costrada de Alcalá",
+            "tip": "Leveles tészta pudinggal és habcsókkal. Kóstolja meg a Salinas cukrászdában!"
+          },
+          {
+            "name": "Tapas",
+            "tip": "Rendeljen egy italt, és kap egy bőséges tapast ingyen. Az El Índalo híres erről."
+          },
+          {
+            "name": "Migas",
+            "tip": "Hagyományos étel zsemlemorzsából, gyakran chorizóval tálalva. Sok hagyományos étteremben kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Costrada de Alcalá",
+            "tip": "Un foietaj cu cremă de vanilie și bezea. Încercați-l la Salinas."
+          },
+          {
+            "name": "Tapas",
+            "tip": "Comandați o băutură și primiți gratuit un tapas generos. El Índalo este faimos pentru asta."
+          },
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare tradițional din pesmet, adesea servit cu chorizo. Disponibil în multe restaurante tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Costrada de Alcalá",
+            "tip": "A puff pastry cake with custard and meringue. Try it at Salinas."
+          },
+          {
+            "name": "Tapas",
+            "tip": "Order a drink and get a generous tapa for free. El Índalo is famous for it."
+          },
+          {
+            "name": "Migas",
+            "tip": "A traditional dish made from breadcrumbs, often served with chorizo. Available in many traditional restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque O'Donnell",
+            "tip": "Ein ruhiger Park, um sich im Schatten zu entspannen und dem Trubel der Stadt zu entkommen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Henares-Flusses",
+            "tip": "Machen Sie einen friedlichen Spaziergang entlang des Flusses, etwas abseits des Zentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhöfe der Universität",
+            "tip": "Finden Sie einen ruhigen Innenhof, um die Renaissance-Architektur in Ruhe zu bewundern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "O'Donnell Park",
+            "tip": "Egy csendes park, ahol megpihenhet az árnyékban és elmenekülhet a város nyüzsgésétől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Henares folyó partja",
+            "tip": "Tegyen egy békés sétát a folyó mentén, kicsit távolabb a központtól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az egyetem udvarai",
+            "tip": "Keressen egy csendes udvart, hogy békében csodálhassa a reneszánsz építészetet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul O'Donnell",
+            "tip": "Un parc liniștit pentru a vă relaxa la umbră și a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Henares",
+            "tip": "Faceți o plimbare liniștită de-a lungul râului, puțin departe de centru.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curțile interioare ale Universității",
+            "tip": "Găsiți o curte liniștită pentru a admira în pace arhitectura renascentistă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "O'Donnell Park",
+            "tip": "A quiet park to relax in the shade and escape the city buzz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Henares River",
+            "tip": "Take a peaceful walk along the river, slightly away from the center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "University Courtyards",
+            "tip": "Find a quiet courtyard to admire the Renaissance architecture in peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mandel-Süßigkeiten",
+            "tip": "Kaufen Sie 'almendras garrapiñadas' (karamellisierte Mandeln) von den Nonnen im Convento de las Clarisas de San Diego."
+          },
+          {
+            "name": "Don Quijote Souvenirs",
+            "tip": "Rund um die Calle Mayor finden Sie viele Geschäfte, die Keramik und Figuren verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mandulás édességek",
+            "tip": "Vásároljon 'almendras garrapiñadas'-t (karamellizált mandula) a Convento de las Clarisas de San Diego apácáitól."
+          },
+          {
+            "name": "Don Quijote szuvenírek",
+            "tip": "A Calle Mayor környékén számos üzletet talál, ahol kerámiákat és figurákat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dulciuri cu migdale",
+            "tip": "Cumpărați 'almendras garrapiñadas' (migdale caramelizate) de la călugărițele de la Mănăstirea Clarisas de San Diego."
+          },
+          {
+            "name": "Suveniruri Don Quijote",
+            "tip": "În jurul Calle Mayor veți găsi multe magazine care vând ceramică și figurine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Almond sweets",
+            "tip": "Buy 'almendras garrapiñadas' (caramelized almonds) from the nuns at the Convento de las Clarisas de San Diego."
+          },
+          {
+            "name": "Don Quixote Souvenirs",
+            "tip": "Around Calle Mayor, you will find many shops selling ceramics and figures."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das gesamte historische Zentrum aus Kopfsteinpflaster besteht.",
+          "Die meisten Museen sind montags geschlossen, planen Sie entsprechend.",
+          "Der Eintritt zur Universität ist kostenpflichtig, aber die Führung ist es wert.",
+          "Alcalá ist berühmt für seine Störche; schauen Sie auf die Dächer, um ihre Nester zu sehen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az egész történelmi központ macskaköves.",
+          "A legtöbb múzeum hétfőn zárva van, tervezzen ennek megfelelően.",
+          "Az egyetemi belépő fizetős, de a vezetett túra megéri az árát.",
+          "Alcalá híres a gólyáiról; nézzen fel a háztetőkre, hogy lássa a fészkeiket."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece întregul centru istoric este pavat cu piatră cubică.",
+          "Majoritatea muzeelor sunt închise lunea, planificați-vă vizita în consecință.",
+          "Intrarea la universitate se plătește, dar turul ghidat merită.",
+          "Alcalá este renumită pentru berzele sale; priviți pe acoperișuri pentru a le vedea cuiburile."
+        ],
+        "en": [
+          "Wear comfortable shoes as the entire historic center is cobblestoned.",
+          "Most museums are closed on Mondays, so plan accordingly.",
+          "The university entrance has a fee, but the guided tour is worth it.",
+          "Alcalá is famous for its storks; look up at the rooftops to see their nests."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de Cervantes",
+            "hu": "Cervantes tér",
+            "ro": "Piața Cervantes",
+            "en": "Cervantes Square"
+          },
+          "coords": [
+            -3.3644,
+            40.4817
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre, bevor die Menschenmassen kommen.",
+            "hu": "Zárja le a biciklit és élvezze a hangulatot, mielőtt megérkezik a tömeg.",
+            "ro": "Legați-vă bicicleta și bucurați-vă de atmosferă înainte de a se aglomera.",
+            "en": "Lock up your bike and enjoy the atmosphere before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Universität von Alcalá",
+            "hu": "Alcalái Egyetem",
+            "ro": "Universitatea din Alcalá",
+            "en": "University of Alcalá"
+          },
+          "coords": [
+            -3.363,
+            40.4835
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:36",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die Fassade ist atemberaubend. Nehmen Sie sich Zeit, die Details zu bewundern.",
+            "hu": "A homlokzat lenyűgöző. Szánjon időt a részletek megcsodálására.",
+            "ro": "Fațada este uimitoare. Acordați-vă timp pentru a admira detaliile.",
+            "en": "The facade is stunning. Take your time to admire the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio Laredo",
+            "hu": "Laredo-palota",
+            "ro": "Palatul Laredo",
+            "en": "Laredo Palace"
+          },
+          "coords": [
+            -3.3556,
+            40.4852
+          ],
+          "category": "famous-residences",
+          "arrive_at": "10:55",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein etwas weiterer Weg, aber die einzigartige Architektur ist die Radtour wert.",
+            "hu": "Kicsit távolabb van, de az egyedi építészet megéri a biciklizést.",
+            "ro": "Este puțin mai departe, dar arhitectura unică merită plimbarea cu bicicleta.",
+            "en": "A bit of a longer ride, but the unique architecture is worth the cycle."
+          }
+        },
+        {
+          "name": {
+            "de": "Cervantes Geburtshaus",
+            "hu": "Cervantes szülőháza",
+            "ro": "Casa Natală a lui Cervantes",
+            "en": "Cervantes Birthplace Museum"
+          },
+          "coords": [
+            -3.3688,
+            40.4816
+          ],
+          "category": "museums",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und treten Sie ein in die Welt von Don Quijote.",
+            "hu": "Parkolja le a biciklit a közelben, és lépjen be Don Quijote világába.",
+            "ro": "Parcați bicicleta în apropiere și pășiți în lumea lui Don Quijote.",
+            "en": "Park your bike nearby and step into the world of Don Quixote."
+          }
+        },
+        {
+          "name": {
+            "de": "Calle Mayor & Mittagessen",
+            "hu": "Calle Mayor és ebéd",
+            "ro": "Calle Mayor și prânz",
+            "en": "Calle Mayor & Lunch"
+          },
+          "coords": [
+            -3.3675,
+            40.4815
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad durch diese belebte Straße und suchen Sie sich einen Tapas-Platz zum Mittagessen.",
+            "hu": "Tolja a biciklit ezen a forgalmas utcán, és keressen egy tapas bárt ebédre.",
+            "ro": "Împingeți bicicleta pe această stradă aglomerată și alegeți un loc de tapas pentru prânz.",
+            "en": "Walk your bike down this busy street and pick a tapas spot for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Magistralkathedrale",
+            "hu": "Magisztrális székesegyház",
+            "ro": "Catedrala Magistrală",
+            "en": "Magistral Cathedral"
+          },
+          "coords": [
+            -3.3695,
+            40.4795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:34",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um nach dem Mittagessen nachzudenken.",
+            "hu": "Egy csendes hely az elmélkedésre ebéd után.",
+            "ro": "Un loc liniștit pentru reflecție după prânz.",
+            "en": "A quiet place for reflection after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionales Archäologie-Museum",
+            "hu": "Regionális Régészeti Múzeum",
+            "ro": "Muzeul Regional de Arheologie",
+            "en": "Regional Archaeological Museum"
+          },
+          "coords": [
+            -3.3705,
+            40.4808
+          ],
+          "category": "museums",
+          "arrive_at": "15:39",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einer tiefen Reise in die römische Geschichte der Region.",
+            "hu": "Zárja a napot egy mély merüléssel a régió római történelmében.",
+            "ro": "Încheiați-vă ziua cu o incursiune profundă în istoria romană a regiunii.",
+            "en": "End your day with a deep dive into the region's Roman history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag im Herzen von Alcalá, der Plaza de Cervantes. Eine kurze Fahrt bringt Sie zur prächtigen Universität. Weiter geht es zum etwas abgelegenen, aber faszinierenden Palacio Laredo, bevor Sie ins Zentrum zurückkehren. Der Vormittag gipfelt im Museumshaus von Cervantes. Nach einem gemütlichen Mittagessen an der Calle Mayor besuchen Sie die beeindruckende Kathedrale. Der Tag endet mit einem Besuch des Archäologischen Museums, das die lange Geschichte der Stadt zeigt.",
+        "hu": "Kezdje a biciklis napot Alcalá szívében, a Cervantes téren. Egy rövid tekerés elviszi a csodálatos egyetemhez. Továbbhaladva a kissé távolabbi, de lenyűgöző Laredo-palotához, mielőtt visszatérne a központba. A délelőtt Cervantes múzeumházában csúcsosodik ki. Egy kellemes ebéd után a Calle Mayoron, látogasson el a lenyűgöző székesegyházhoz. A nap a Régészeti Múzeumban ér véget, amely bemutatja a város hosszú történelmét.",
+        "ro": "Începeți-vă ziua pe bicicletă în inima orașului Alcalá, Piața Cervantes. O scurtă plimbare vă duce la magnifica Universitate. Continuați spre Palatul Laredo, puțin mai îndepărtat, dar fascinant, înainte de a vă întoarce în centru. Dimineața culminează la casa muzeu a lui Cervantes. După un prânz relaxat pe Calle Mayor, vizitați impresionanta Catedrală. Ziua se încheie cu o vizită la Muzeul Arheologic, care prezintă istoria îndelungată a orașului.",
+        "en": "Start your cycling day in the heart of Alcalá, Plaza de Cervantes. A short ride takes you to the magnificent University. Continue to the slightly more distant but fascinating Laredo Palace before heading back to the center. The morning culminates at Cervantes' museum house. After a leisurely lunch on Calle Mayor, visit the impressive Cathedral. The day ends with a visit to the Archaeological Museum, showcasing the city's long history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillos",
+            "tip": "Holen Sie sich ein herzhaftes Sandwich zum Mitnehmen, perfekt für eine Pause im Park."
+          },
+          {
+            "name": "Tapas-Hopping",
+            "tip": "Fahren Sie von Bar zu Bar in den Straßen um die Calle Mayor, wie der Calle San Felipe Neri."
+          },
+          {
+            "name": "Costrada de Alcalá",
+            "tip": "Belohnen Sie sich nach Ihrer Radtour mit diesem berühmten lokalen Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillók",
+            "tip": "Vegyen egy kiadós szendvicset elvitelre, tökéletes egy parkban tartott szünethez."
+          },
+          {
+            "name": "Tapas-túra",
+            "tip": "Tekerjen bárról bárra a Calle Mayor körüli utcákban, mint például a Calle San Felipe Neri."
+          },
+          {
+            "name": "Costrada de Alcalá",
+            "tip": "Jutalmazza meg magát a biciklizés után ezzel a híres helyi süteménnyel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillos",
+            "tip": "Luați un sandviș consistent la pachet, perfect pentru o pauză în parc."
+          },
+          {
+            "name": "Turas de tapas",
+            "tip": "Mergeți cu bicicleta de la un bar la altul pe străzile din jurul Calle Mayor, cum ar fi Calle San Felipe Neri."
+          },
+          {
+            "name": "Costrada de Alcalá",
+            "tip": "Recompensați-vă cu această prăjitură locală renumită după plimbarea cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillos",
+            "tip": "Grab a hearty sandwich to go, perfect for a break in a park."
+          },
+          {
+            "name": "Tapas hopping",
+            "tip": "Cycle from bar to bar in the streets around Calle Mayor, like Calle San Felipe Neri."
+          },
+          {
+            "name": "Costrada de Alcalá",
+            "tip": "Reward yourself with this famous local cake after your bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque O'Donnell",
+            "tip": "Ein großartiger Ort für eine Pause, um Wasser zu trinken und die Beine auszuruhen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ruta de los Parques",
+            "tip": "Folgen Sie dem Radweg, der mehrere Parks in der Stadt verbindet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Palacio Laredo",
+            "tip": "Genießen Sie die Ruhe in den Gärten rund um den Palast.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "O'Donnell Park",
+            "tip": "Nagyszerű hely egy szünetre, hogy vizet igyon és megpihentesse a lábait.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Parkok Útvonala",
+            "tip": "Kövesse a kerékpárutat, amely több parkot is összeköt a városban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Laredo-palota kertjei",
+            "tip": "Élvezze a csendet a palota körüli kertekben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul O'Donnell",
+            "tip": "Un loc minunat pentru o pauză pentru a bea apă și a vă odihni picioarele.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ruta Parcurilor",
+            "tip": "Urmați pista de biciclete care leagă mai multe parcuri din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Palatului Laredo",
+            "tip": "Bucurați-vă de liniște în grădinile din jurul palatului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "O'Donnell Park",
+            "tip": "A great spot for a break to drink some water and rest your legs.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Route of the Parks",
+            "tip": "Follow the cycle path that connects several parks in the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Laredo Palace",
+            "tip": "Enjoy the tranquility in the gardens surrounding the palace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Besuchen Sie den Mercado Municipal für frische Produkte und lokale Spezialitäten."
+          },
+          {
+            "name": "Buchhandlungen",
+            "tip": "Als Geburtsort von Cervantes gibt es in Alcalá viele charmante Buchhandlungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Látogasson el a Mercado Municipal-ba friss termékekért és helyi különlegességekért."
+          },
+          {
+            "name": "Könyvesboltok",
+            "tip": "Cervantes szülővárosaként Alcalában számos hangulatos könyvesbolt található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Locală",
+            "tip": "Vizitați Mercado Municipal pentru produse proaspete și delicatese locale."
+          },
+          {
+            "name": "Librării",
+            "tip": "Fiind locul de naștere al lui Cervantes, Alcalá are multe librării fermecătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Check out the Mercado Municipal for fresh produce and local delicacies."
+          },
+          {
+            "name": "Bookshops",
+            "tip": "As Cervantes' birthplace, Alcalá has many charming bookshops to explore."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Die Altstadt ist größtenteils flach, aber seien Sie auf Kopfsteinpflaster vorbereitet.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, wenn Sie vorhaben, bis in den Abend zu fahren.",
+          "Nehmen Sie ein gutes Schloss mit, da Sie es an mehreren Haltestellen abstellen werden."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Az óváros többnyire sík, de készüljön fel a macskakövekre.",
+          "Viseljen sisakot, és használjon lámpákat, ha estig tervez biciklizni.",
+          "Hozzon magával egy jó lakatot, mivel több megállónál is le kell majd zárnia."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Centrul vechi este în mare parte plat, dar fiți pregătit pentru piatră cubică.",
+          "Purtați cască și folosiți lumini dacă intenționați să mergeți cu bicicleta până seara.",
+          "Aduceți un lacăt bun, deoarece o veți lăsa la mai multe opriri."
+        ],
+        "en": [
+          "Check your bike before you set off, especially the brakes and tires.",
+          "The old town is mostly flat, but be prepared for cobblestones.",
+          "Wear a helmet and use lights if you plan to cycle into the evening.",
+          "Bring a good lock, as you'll be leaving it at several stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:04",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken & Plaza de Cervantes",
+            "hu": "Parkolás és Cervantes tér",
+            "ro": "Parcare și Piața Cervantes",
+            "en": "Parking & Cervantes Square"
+          },
+          "coords": [
+            -3.362,
+            40.48
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem Parkplatz 'El Mercado' und gehen Sie zum Platz.",
+            "hu": "Parkoljon az 'El Mercado' parkolóházban, és sétáljon a térre.",
+            "ro": "Parcați în parcarea 'El Mercado' și mergeți pe jos până în piață.",
+            "en": "Park in the 'El Mercado' car park and walk to the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Calle Mayor",
+            "hu": "Calle Mayor",
+            "ro": "Calle Mayor",
+            "en": "Calle Mayor"
+          },
+          "coords": [
+            -3.3675,
+            40.4815
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schöner Morgenspaziergang unter den Arkaden.",
+            "hu": "Kellemes reggeli séta az árkádok alatt.",
+            "ro": "O plimbare plăcută de dimineață sub arcade.",
+            "en": "A lovely morning walk under the arcades."
+          }
+        },
+        {
+          "name": {
+            "de": "Cervantes Geburtshaus",
+            "hu": "Cervantes szülőháza",
+            "ro": "Casa Natală a lui Cervantes",
+            "en": "Cervantes Birthplace Museum"
+          },
+          "coords": [
+            -3.3688,
+            40.4816
+          ],
+          "category": "museums",
+          "arrive_at": "10:02",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das Leben des berühmtesten Sohnes der Stadt.",
+            "hu": "Merüljön el a város leghíresebb fiának életében.",
+            "ro": "Cufundați-vă în viața celui mai faimos fiu al orașului.",
+            "en": "Immerse yourself in the life of the city's most famous son."
+          }
+        },
+        {
+          "name": {
+            "de": "Magistralkathedrale",
+            "hu": "Magisztrális székesegyház",
+            "ro": "Catedrala Magistrală",
+            "en": "Magistral Cathedral"
+          },
+          "coords": [
+            -3.3695,
+            40.4795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:22",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der Gotik und ein wichtiger historischer Ort.",
+            "hu": "A gótika mesterműve és fontos történelmi helyszín.",
+            "ro": "O capodoperă a goticului și un sit istoric important.",
+            "en": "A masterpiece of Gothic style and an important historical site."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Universitätsviertel",
+            "hu": "Autózás az egyetemi negyedbe",
+            "ro": "Cu mașina spre cartierul universitar",
+            "en": "Drive to University District"
+          },
+          "coords": [
+            -3.363,
+            40.4835
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:52",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren und parken Sie in der Nähe der Universität. Nehmen Sie an einer Führung teil und essen Sie in der Gegend zu Mittag.",
+            "hu": "Vezessen és parkoljon az egyetem közelében. Vegyen részt egy vezetett túrán, és ebédeljen a környéken.",
+            "ro": "Conduceți și parcați lângă Universitate. Faceți un tur ghidat și luați prânzul în zonă.",
+            "en": "Drive and park near the University. Take a guided tour and have lunch in the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio Laredo",
+            "hu": "Laredo-palota",
+            "ro": "Palatul Laredo",
+            "en": "Laredo Palace"
+          },
+          "coords": [
+            -3.3556,
+            40.4852
+          ],
+          "category": "famous-residences",
+          "arrive_at": "14:47",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Universitätsgelände zu diesem architektonischen Juwel.",
+            "hu": "Rövid séta az egyetemi kampusztól ehhez az építészeti gyöngyszemhez.",
+            "ro": "O scurtă plimbare de la campusul universitar la această bijuterie arhitecturală.",
+            "en": "A short walk from the university campus to this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Forum & Archäologie-Museum",
+            "hu": "Római Fórum és Régészeti Múzeum",
+            "ro": "Forumul Roman și Muzeul de Arheologie",
+            "en": "Roman Forum & Archaeology Museum"
+          },
+          "coords": [
+            -3.3705,
+            40.4808
+          ],
+          "category": "museums",
+          "arrive_at": "16:05",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum, um die römischen Überreste zu erkunden. Der Komplex ist weitläufig.",
+            "hu": "Vezessen vissza a központba, hogy felfedezze a római kori maradványokat. A komplexum kiterjedt.",
+            "ro": "Conduceți înapoi în centru pentru a explora vestigiile romane. Complexul este extins.",
+            "en": "Drive back towards the center to explore the Roman remains. The complex is extensive."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie im Zentrum von Alcalá parken und den historischen Kern zu Fuß erkunden. Der Vormittag ist Cervantes gewidmet, von seinem Geburtsort bis zu den Straßen, die er ging. Sie spazieren durch die Calle Mayor und besuchen die beeindruckende Kathedrale. Mittags fahren Sie zum Universitätsviertel, einem UNESCO-Juwel, wo Sie zu Mittag essen und den fantasievollen Palacio Laredo entdecken können. Der Nachmittag endet mit einer weiteren kurzen Fahrt, die Sie tief in die römische Vergangenheit der Stadt im Archäologischen Museum und den Ruinen des Forums führt.",
+        "hu": "Kezdje a napot Alcalá központjában parkolva, és fedezze fel gyalog a történelmi magot. A délelőtt Cervantesé, a szülőházától az általa járt utcákig. Végigsétál a Calle Mayoron, és meglátogatja a lenyűgöző székesegyházat. Délben átautózik az egyetemi negyedbe, egy UNESCO gyöngyszembe, ahol megebédelhet és felfedezheti a fantáziadús Laredo-palotát. A délután egy újabb rövid autóúttal zárul, amely mélyen elvezeti a város római múltjába a Régészeti Múzeumban és a fórum romjainál.",
+        "ro": "Începeți ziua parcând în centrul orașului Alcalá și explorând nucleul istoric pe jos. Dimineața este dedicată lui Cervantes, de la casa sa natală la străzile pe care a umblat. Vă plimbați pe Calle Mayor și vizitați impunătoarea Catedrală. La prânz, conduceți spre cartierul universitar, o bijuterie UNESCO, unde puteți lua prânzul și descoperi imaginativul Palat Laredo. După-amiaza se încheie cu o altă scurtă călătorie cu mașina, care vă duce adânc în trecutul roman al orașului la Muzeul Arheologic și ruinele Forumului.",
+        "en": "Start your day by parking in the center of Alcalá and exploring the historic core on foot. The morning is dedicated to Cervantes, from his birthplace to the streets he walked. You'll stroll down Calle Mayor and visit the impressive Cathedral. At midday, drive to the university district, a UNESCO gem, where you can have lunch and discover the imaginative Laredo Palace. The afternoon concludes with another short drive, taking you deep into the city's Roman past at the Archaeological Museum and the Forum ruins."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante El Portón",
+            "tip": "Traditionelle kastilische Küche in der Nähe der Kathedrale."
+          },
+          {
+            "name": "Parador de Alcalá de Henares",
+            "tip": "Ein gehobenes Erlebnis, das moderne Küche in einem historischen Gebäude bietet."
+          },
+          {
+            "name": "Tapas auf der Plaza de Cervantes",
+            "tip": "Parken Sie das Auto und genießen Sie eine Vielzahl von Tapas-Bars direkt am Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante El Portón",
+            "tip": "Hagyományos kasztíliai konyha a székesegyház közelében."
+          },
+          {
+            "name": "Parador de Alcalá de Henares",
+            "tip": "Egy elegáns élmény, modern konyhával egy történelmi épületben."
+          },
+          {
+            "name": "Tapas a Cervantes téren",
+            "tip": "Parkolja le az autót, és élvezze a főtéren található tapas bárok sokaságát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante El Portón",
+            "tip": "Bucătărie tradițională castiliană lângă catedrală."
+          },
+          {
+            "name": "Parador de Alcalá de Henares",
+            "tip": "O experiență de lux care oferă bucătărie modernă într-o clădire istorică."
+          },
+          {
+            "name": "Tapas în Piața Cervantes",
+            "tip": "Parcați mașina și bucurați-vă de o varietate de baruri de tapas chiar în piața principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante El Portón",
+            "tip": "Traditional Castilian cuisine near the Cathedral."
+          },
+          {
+            "name": "Parador de Alcalá de Henares",
+            "tip": "An upscale experience offering modern cuisine in a historic building."
+          },
+          {
+            "name": "Tapas in Plaza de Cervantes",
+            "tip": "Park the car and enjoy a variety of tapas bars right on the main square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cerro del Ecce Homo",
+            "tip": "Fahren Sie für einen Panoramablick auf die Stadt bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de los Cerros",
+            "tip": "Ein großer Naturpark außerhalb der Stadt, ideal für einen kurzen Spaziergang in der Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bischofspalast Gärten",
+            "tip": "Finden Sie einen Moment der Ruhe in diesen historischen Gärten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cerro del Ecce Homo",
+            "tip": "Vezessen fel a panorámás kilátásért a városra naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de los Cerros",
+            "tip": "Egy nagy természeti park a városon kívül, ideális egy rövid természetjáráshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Püspöki Palota kertjei",
+            "tip": "Találjon egy csendes pillanatot ezekben a történelmi kertekben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cerro del Ecce Homo",
+            "tip": "Conduceți până sus pentru o vedere panoramică a orașului la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de los Cerros",
+            "tip": "Un parc natural mare în afara orașului, perfect pentru o scurtă plimbare în natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Palatului Arhiepiscopal",
+            "tip": "Găsiți un moment de liniște în aceste grădini istorice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cerro del Ecce Homo",
+            "tip": "Drive up for a panoramic view of the city at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de los Cerros",
+            "tip": "A large natural park outside the city, perfect for a short nature walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Archbishop's Palace Gardens",
+            "tip": "Find a moment of peace in these historic gardens.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Mandrágora",
+            "tip": "Ein Geschäft, das sich auf lokale Handwerksprodukte und einzigartige Souvenirs spezialisiert hat."
+          },
+          {
+            "name": "Costrada-Kuchen",
+            "tip": "Nehmen Sie einen ganzen Costrada-Kuchen von einer lokalen Bäckerei mit nach Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Mandrágora",
+            "tip": "Helyi kézműves termékekre és egyedi szuvenírekre szakosodott üzlet."
+          },
+          {
+            "name": "Costrada torta",
+            "tip": "Vigyen haza egy egész Costrada tortát egy helyi pékségből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Mandrágora",
+            "tip": "Un magazin specializat în produse artizanale locale și suveniruri unice."
+          },
+          {
+            "name": "Prăjitura Costrada",
+            "tip": "Luați acasă o prăjitură Costrada întreagă de la o brutărie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Mandrágora",
+            "tip": "A shop specializing in local artisan products and unique souvenirs."
+          },
+          {
+            "name": "Costrada Cake",
+            "tip": "Take home a whole Costrada cake from a local pastry shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Suchen Sie nach öffentlichen Parkplätzen (gekennzeichnet mit einem blauen 'P'), da das Parken auf der Straße schwierig sein kann.",
+          "Die Altstadt ist eine verkehrsberuhigte Zone; seien Sie vorsichtig, wohin Sie fahren.",
+          "Ein Auto ermöglicht es Ihnen, auch die römischen Ruinen von Complutum etwas außerhalb des Zentrums zu besuchen.",
+          "Planen Sie Ihre Fahrten zwischen den Zonen außerhalb der Hauptverkehrszeiten, um Staus zu vermeiden."
+        ],
+        "hu": [
+          "Keressen nyilvános parkolókat (kék 'P' jellel jelölve), mivel az utcai parkolás nehézkes lehet.",
+          "Az óváros alacsony forgalmú zóna; figyeljen, hova hajt be.",
+          "Az autó lehetővé teszi, hogy meglátogassa a Complutum római romjait is, amelyek kissé a központon kívül esnek.",
+          "Tervezze az utazásokat a zónák között a csúcsidőn kívülre, hogy elkerülje a forgalmi dugókat."
+        ],
+        "ro": [
+          "Căutați parcări publice (marcate cu un 'P' albastru), deoarece parcarea pe stradă poate fi dificilă.",
+          "Centrul vechi este o zonă cu emisii reduse; fiți atenți pe unde conduceți.",
+          "Mașina vă permite să vizitați și ruinele romane Complutum, situate puțin în afara centrului.",
+          "Planificați-vă deplasările între zone în afara orelor de vârf pentru a evita blocajele."
+        ],
+        "en": [
+          "Look for public car parks (marked with a blue 'P') as on-street parking can be difficult.",
+          "The old town is a low-emission zone; be careful where you drive.",
+          "Having a car allows you to also visit the Roman ruins of Complutum, slightly outside the center.",
+          "Plan your drives between zones outside of peak hours to avoid traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de Cervantes & Kaffee",
+            "hu": "Cervantes tér és kávé",
+            "ro": "Piața Cervantes și cafea",
+            "en": "Cervantes Square & Coffee"
+          },
+          "coords": [
+            -3.3644,
+            40.4817
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus bis zur 'Vía Complutense' und gehen Sie zum Hauptplatz.",
+            "hu": "Buszozzon el a 'Vía Complutense' megállóig, és sétáljon a főtérre.",
+            "ro": "Luați un autobuz până la 'Vía Complutense' și mergeți pe jos până în piața principală.",
+            "en": "Take a bus to 'Vía Complutense' and walk to the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Corral de Comedias & Calle Mayor",
+            "hu": "Corral de Comedias és Calle Mayor",
+            "ro": "Corral de Comedias și Calle Mayor",
+            "en": "Corral de Comedias & Calle Mayor"
+          },
+          "coords": [
+            -3.3675,
+            40.4815
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese beiden historischen Orte liegen direkt nebeneinander.",
+            "hu": "Ez a két történelmi helyszín közvetlenül egymás mellett található.",
+            "ro": "Aceste două situri istorice sunt chiar unul lângă celălalt.",
+            "en": "These two historic sites are right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Cervantes Geburtshaus",
+            "hu": "Cervantes szülőháza",
+            "ro": "Casa Natală a lui Cervantes",
+            "en": "Cervantes Birthplace Museum"
+          },
+          "coords": [
+            -3.3688,
+            40.4816
+          ],
+          "category": "museums",
+          "arrive_at": "10:47",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang entlang der Calle Mayor führt Sie hierher.",
+            "hu": "Egy rövid séta a Calle Mayor mentén ide vezet.",
+            "ro": "O scurtă plimbare de-a lungul Calle Mayor vă va duce aici.",
+            "en": "A short stroll down Calle Mayor will lead you here."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Universitätsviertel & Mittagessen",
+            "hu": "Busz az egyetemi negyedbe és ebéd",
+            "ro": "Autobuz spre cartierul universitar și prânz",
+            "en": "Bus to University District & Lunch"
+          },
+          "coords": [
+            -3.363,
+            40.4835
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:27",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Universitätsgelände. Erkunden Sie die Fassade und finden Sie einen Ort zum Mittagessen.",
+            "hu": "Vegyen egy helyi buszt az egyetemi kampuszhoz. Fedezze fel a homlokzatot és keressen egy ebédlőhelyet.",
+            "ro": "Luați un autobuz local spre campusul universitar. Explorați fațada și găsiți un loc pentru prânz.",
+            "en": "Take a local bus to the university campus. Explore the facade and find a place for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Magistralkathedrale",
+            "hu": "Magisztrális székesegyház",
+            "ro": "Catedrala Magistrală",
+            "en": "Magistral Cathedral"
+          },
+          "coords": [
+            -3.3695,
+            40.4795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:52",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum, um diese beeindruckende Kirche zu besuchen.",
+            "hu": "Buszozzon vissza a központba, hogy meglátogassa ezt a lenyűgöző templomot.",
+            "ro": "Luați autobuzul înapoi în centru pentru a vizita această biserică impresionantă.",
+            "en": "Take the bus back towards the center to visit this impressive church."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionales Archäologie-Museum",
+            "hu": "Regionális Régészeti Múzeum",
+            "ro": "Muzeul Regional de Arheologie",
+            "en": "Regional Archaeological Museum"
+          },
+          "coords": [
+            -3.3705,
+            40.4808
+          ],
+          "category": "museums",
+          "arrive_at": "15:57",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages ist nur einen kurzen Spaziergang von der Kathedrale entfernt.",
+            "hu": "A nap utolsó állomása csak egy rövid sétára van a székesegyháztól.",
+            "ro": "Ultima oprire a zilei este la o scurtă plimbare de catedrală.",
+            "en": "The last stop of the day is a short walk from the cathedral."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Busfahrt ins Herz von Alcalá, zur Plaza de Cervantes. Erkunden Sie am Vormittag den historischen Kern zu Fuß: das alte Theater, die Calle Mayor und das Geburtshaus von Cervantes. Nach diesem Spaziergang durch die Literaturgeschichte nehmen Sie einen Bus zum weitläufigen Universitätsgelände, wo Sie die prächtige Architektur bewundern und zu Mittag essen. Am Nachmittag bringt Sie ein weiterer Bus zurück ins Zentrum, um die Magistralkathedrale zu besuchen, bevor Sie den Tag im nahegelegenen Archäologischen Museum ausklingen lassen.",
+        "hu": "A nap egy buszúttal kezdődik Alcalá szívébe, a Cervantes térre. Délelőtt fedezze fel gyalog a történelmi központot: a régi színházat, a Calle Mayort és Cervantes szülőházát. E irodalmi séta után szálljon buszra a tágas egyetemi kampuszhoz, ahol megcsodálhatja a csodálatos építészetet és megebédelhet. Délután egy másik busz visszaviszi a központba, hogy meglátogassa a Magisztrális székesegyházat, mielőtt a napot a közeli Régészeti Múzeumban zárná.",
+        "ro": "Ziua dumneavoastră începe cu o călătorie cu autobuzul în inima orașului Alcalá, Piața Cervantes. Explorați nucleul istoric pe jos în timpul dimineții: vechiul teatru, Calle Mayor și casa natală a lui Cervantes. După această plimbare prin istoria literară, luați un autobuz spre campusul universitar întins, unde puteți admira arhitectura magnifică și puteți lua prânzul. După-amiaza, un alt autobuz vă duce înapoi în centru pentru a vizita Catedrala Magistrală, înainte de a încheia ziua la Muzeul Arheologic din apropiere.",
+        "en": "Your day begins with a bus ride into the heart of Alcalá, Plaza de Cervantes. Explore the historic core on foot during the morning: the old theatre, Calle Mayor, and Cervantes' birthplace. After this walk through literary history, take a bus to the expansive university campus, where you can admire the magnificent architecture and have lunch. In the afternoon, another bus takes you back to the center to visit the Magistral Cathedral, before ending the day at the nearby Archaeological Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Menú del Día",
+            "tip": "Suchen Sie in der Nähe der Universität nach Restaurants, die ein preiswertes Mittagsmenü anbieten."
+          },
+          {
+            "name": "La Rollerie",
+            "tip": "Ein beliebter Ort für Brunch oder Kaffee in der Nähe des Zentrums."
+          },
+          {
+            "name": "Indalo Tapas",
+            "tip": "Berühmt für seine großen, kostenlosen Tapas zu jedem Getränk, leicht mit dem Bus erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menú del Día",
+            "tip": "Keressen éttermeket az egyetem közelében, amelyek kedvező árú ebédmenüt kínálnak."
+          },
+          {
+            "name": "La Rollerie",
+            "tip": "Népszerű hely brunchra vagy kávéra a központ közelében."
+          },
+          {
+            "name": "Indalo Tapas",
+            "tip": "Híres a nagy, ingyenes tapasairól minden ital mellé, busszal könnyen megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Menú del Día",
+            "tip": "Căutați restaurante lângă universitate care oferă un meniu de prânz la prețuri accesibile."
+          },
+          {
+            "name": "La Rollerie",
+            "tip": "Un loc popular pentru brunch sau cafea lângă centru."
+          },
+          {
+            "name": "Indalo Tapas",
+            "tip": "Renumit pentru tapasurile sale mari și gratuite la fiecare băutură, ușor accesibil cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menú del Día",
+            "tip": "Look for restaurants near the university offering a great-value set lunch menu."
+          },
+          {
+            "name": "La Rollerie",
+            "tip": "A popular spot for brunch or coffee near the center."
+          },
+          {
+            "name": "Indalo Tapas",
+            "tip": "Famous for its large, free tapas with any drink, easily reachable by bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Bischofspalastes",
+            "tip": "Ein verstecktes Juwel für einen ruhigen Moment, in der Nähe des Archäologischen Museums.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque O'Donnell",
+            "tip": "Nehmen Sie einen Bus zu diesem Park für eine Pause vom Sightseeing.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Henares",
+            "tip": "Mehrere Buslinien fahren in die Nähe des Flusses für einen friedlichen Spaziergang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Püspöki Palota kertjei",
+            "tip": "Egy rejtett gyöngyszem egy csendes pillanatra, a Régészeti Múzeum közelében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O'Donnell Park",
+            "tip": "Buszozzon el ebbe a parkba egy szünetre a városnézésből.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Henares partja",
+            "tip": "Több buszjárat is közlekedik a folyó közelébe egy békés sétáért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Arhiepiscopal",
+            "tip": "O bijuterie ascunsă pentru un moment de liniște, aproape de Muzeul Arheologic.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul O'Donnell",
+            "tip": "Luați un autobuz până la acest parc pentru o pauză de la vizitarea obiectivelor turistice.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malurile râului Henares",
+            "tip": "Mai multe linii de autobuz merg aproape de râu pentru o plimbare liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Archbishop's Palace Gardens",
+            "tip": "A hidden gem for a quiet moment, close to the Archaeological Museum.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O'Donnell Park",
+            "tip": "Take a bus to this park for a break from sightseeing.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of the Henares",
+            "tip": "Several bus lines go near the river for a peaceful walk.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Mayor",
+            "tip": "Die Hauptgeschäftsstraße ist leicht zu Fuß von den Bushaltestellen im Zentrum aus zu erreichen."
+          },
+          {
+            "name": "Universitätsladen",
+            "tip": "Kaufen Sie offizielle Artikel der Universität als einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Mayor",
+            "tip": "A fő bevásárlóutca könnyen megközelíthető gyalog a központi buszmegállóktól."
+          },
+          {
+            "name": "Egyetemi bolt",
+            "tip": "Vásároljon hivatalos egyetemi termékeket egyedi szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Mayor",
+            "tip": "Strada comercială principală este ușor accesibilă pe jos de la stațiile de autobuz din centru."
+          },
+          {
+            "name": "Magazinul Universității",
+            "tip": "Cumpărați produse oficiale ale universității ca un suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Mayor",
+            "tip": "The main shopping street is an easy walk from the central bus stops."
+          },
+          {
+            "name": "University Shop",
+            "tip": "Buy official university merchandise as a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Tarjeta Multi', eine wiederaufladbare Karte für günstigere Fahrten.",
+          "Die meisten Busse im Zentrum fahren entlang der 'Vía Complutense', einem wichtigen Verkehrsknotenpunkt.",
+          "Validieren Sie Ihr Ticket jedes Mal, wenn Sie in einen Bus einsteigen.",
+          "Verwenden Sie eine Transport-App wie Google Maps, um Buslinien und -zeiten in Echtzeit zu überprüfen."
+        ],
+        "hu": [
+          "Vásároljon 'Tarjeta Multi'-t, egy újratölthető kártyát az olcsóbb utazásokhoz.",
+          "A legtöbb busz a központban a 'Vía Complutense' mentén közlekedik, amely egy fő közlekedési csomópont.",
+          "Érvényesítse a jegyét minden alkalommal, amikor felszáll a buszra.",
+          "Használjon egy közlekedési alkalmazást, például a Google Maps-et a buszjáratok és menetrendek valós idejű ellenőrzéséhez."
+        ],
+        "ro": [
+          "Cumpărați un 'Tarjeta Multi', un card reîncărcabil pentru călătorii mai ieftine.",
+          "Majoritatea autobuzelor din centru circulă de-a lungul 'Vía Complutense', un nod important de transport.",
+          "Validați-vă biletul de fiecare dată când urcați într-un autobuz.",
+          "Utilizați o aplicație de transport precum Google Maps pentru a verifica rutele și orarele autobuzelor în timp real."
+        ],
+        "en": [
+          "Buy a 'Tarjeta Multi', a rechargeable card for cheaper fares.",
+          "Most central buses run along 'Vía Complutense', a main transport artery.",
+          "Validate your ticket every time you board a bus.",
+          "Use a transport app like Google Maps to check bus routes and times in real-time."
+        ]
+      }
+    }
+  }
+}

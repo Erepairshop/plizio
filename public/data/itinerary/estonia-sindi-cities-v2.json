@@ -1,0 +1,1469 @@
+{
+  "city_id": "estonia-sindi-cities-v2",
+  "anchor": {
+    "name": "Sindi",
+    "coords": [
+      24.6467,
+      58.4069
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Sindi",
+            "hu": "Sindi Városháza",
+            "ro": "Primăria Sindi",
+            "en": "Sindi Town Hall"
+          },
+          "coords": [
+            24.647,
+            58.407
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die funktionale Architektur des Gebäudes aus der Sowjetzeit.",
+            "hu": "Csodálja meg a szovjet korabeli épület funkcionális építészetét.",
+            "ro": "Admirați arhitectura funcționalistă a clădirii din epoca sovietică.",
+            "en": "Admire the functionalist architecture of the Soviet-era building."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Sindi",
+            "hu": "Sindi Múzeum",
+            "ro": "Muzeul Sindi",
+            "en": "Sindi Museum"
+          },
+          "coords": [
+            24.645,
+            58.4065
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Geschichte der Wollfabrik, die die Stadt geprägt hat.",
+            "hu": "Ismerje meg a várost formáló gyapjúgyár történetét.",
+            "ro": "Aflați despre istoria fabricii de lână care a modelat orașul.",
+            "en": "Learn about the history of the wool factory that shaped the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Wohnsiedlung der Fabrik",
+            "hu": "A gyár lakótelepe",
+            "ro": "Ansamblul rezidențial al fabricii",
+            "en": "Factory's Residential Settlement"
+          },
+          "coords": [
+            24.65,
+            58.405
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang, um die einzigartige geplante Gemeinschaft für die Arbeiter zu sehen.",
+            "hu": "Sétáljon egyet, hogy megnézze a munkások számára tervezett egyedi lakótelepet.",
+            "ro": "Faceți o plimbare pentru a vedea comunitatea unică planificată pentru muncitori.",
+            "en": "Take a walk to see the unique planned community for the workers."
+          }
+        },
+        {
+          "name": {
+            "de": "Sindi Wollfabrik",
+            "hu": "Sindi Gyapjúgyár",
+            "ro": "Fabrica de lână Sindi",
+            "en": "Sindi Wool Factory"
+          },
+          "coords": [
+            24.66,
+            58.403
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Auch wenn sie nicht in Betrieb ist, vermittelt die schiere Größe einen Eindruck von ihrer historischen Bedeutung.",
+            "hu": "Bár már nem működik, mérete érzékelteti történelmi jelentőségét.",
+            "ro": "Chiar dacă nu este operațională, amploarea sa dă o idee despre importanța sa istorică.",
+            "en": "Even if not operational, its sheer scale gives a sense of its historic importance."
+          }
+        },
+        {
+          "name": {
+            "de": "Pärnu-Flussufer",
+            "hu": "Pärnu-folyó partja",
+            "ro": "Malul râului Pärnu",
+            "en": "Pärnu Riverbank"
+          },
+          "coords": [
+            24.665,
+            58.401
+          ],
+          "category": "natural features",
+          "arrive_at": "14:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Mittagspause und um die ruhige Landschaft zu genießen.",
+            "hu": "Tökéletes hely egy ebédszünetre és a csendes táj élvezetére.",
+            "ro": "Un loc perfect pentru o pauză de prânz și pentru a vă bucura de peisajul liniștit.",
+            "en": "A perfect spot for a lunch break and to enjoy the tranquil scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Sindi Arboretum",
+            "hu": "Sindi Arborétum",
+            "ro": "Arboretul Sindi",
+            "en": "Sindi Arboretum"
+          },
+          "coords": [
+            24.662,
+            58.408
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die vielfältige Baum- und Pflanzenwelt in diesem friedlichen Park.",
+            "hu": "Fedezze fel a fák és növények sokféleségét ebben a békés parkban.",
+            "ro": "Descoperiți diversitatea de copaci și plante din acest parc pașnic.",
+            "en": "Discover the diverse collection of trees and plants in this peaceful park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Sindi, wo das Rathaus und das Museum einen Einblick in das Erbe der Stadt geben. Ein Spaziergang durch die historische Arbeitersiedlung führt Sie zur imposanten Wollfabrik. Am Nachmittag entspannen Sie am Ufer des Pärnu-Flusses. Der Tag endet mit einem friedlichen Spaziergang durch das üppige Grün des Sindi Arboretums und bietet einen ruhigen Abschluss Ihrer Erkundung.",
+        "hu": "Kezdje a napot Sindi szívében, ahol a városháza és a múzeum betekintést nyújt a város örökségébe. Egy séta a történelmi munkásnegyeden keresztül elvezeti a lenyűgöző gyapjúgyárhoz. Délután pihenjen a Pärnu folyó partján. A napot egy békés séta zárja a Sindi Arborétum buja zöldjében, amely nyugodt lezárása a felfedezésnek.",
+        "ro": "Începeți ziua în inima orașului Sindi, unde primăria și muzeul oferă o perspectivă asupra moștenirii orașului. O plimbare prin așezarea istorică a muncitorilor vă duce la impunătoarea fabrică de lână. După-amiaza, relaxați-vă pe malul râului Pärnu. Ziua se încheie cu o plimbare liniștită prin verdeața luxuriantă a Arboretului Sindi, oferind o concluzie senină explorării dumneavoastră.",
+        "en": "Start your day in the heart of Sindi, where the town hall and museum offer a glimpse into the town's heritage. A walk through the historic workers' settlement leads you to the imposing wool factory. In the afternoon, relax by the banks of the Pärnu River. The day concludes with a peaceful stroll through the lush greenery of the Sindi Arboretum, providing a serene end to your exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Leib",
+            "tip": "Probieren Sie traditionelles estnisches Schwarzbrot in einem örtlichen Café."
+          },
+          {
+            "name": "Sprotte",
+            "tip": "Geräucherte Sprotte auf Butterbrot ist ein klassischer Snack."
+          },
+          {
+            "name": "Kohvik Sõprus",
+            "tip": "Ein lokales Café, das für seine herzhaften Mittagessen und sein Gebäck bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leib",
+            "tip": "Kóstolja meg a hagyományos észt fekete kenyeret egy helyi kávézóban."
+          },
+          {
+            "name": "Sprotni",
+            "tip": "A füstölt sprotni vajas kenyéren klasszikus harapnivaló."
+          },
+          {
+            "name": "Kohvik Sõprus",
+            "tip": "Helyi kávézó, amely kiadós ebédjeiről és süteményeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Leib",
+            "tip": "Încercați pâinea neagră tradițională estoniană la o cafenea locală."
+          },
+          {
+            "name": "Șprot",
+            "tip": "Șprotul afumat pe pâine cu unt este o gustare clasică."
+          },
+          {
+            "name": "Kohvik Sõprus",
+            "tip": "O cafenea locală cunoscută pentru prânzurile copioase și produsele de patiserie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leib",
+            "tip": "Try traditional Estonian black bread at a local cafe."
+          },
+          {
+            "name": "Sprat",
+            "tip": "Smoked sprat on buttered bread is a classic snack."
+          },
+          {
+            "name": "Kohvik Sõprus",
+            "tip": "A local cafe known for its hearty lunches and pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pärnu-Flussufer",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie, wie das Wasser vorbeifließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sindi Arboretum",
+            "tip": "Ein abgeschiedener Ort, umgeben von Natur, ideal zum Nachdenken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Früher Morgen am Damm",
+            "tip": "Erleben Sie die Ruhe des Morgens am Sindi-Damm.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pärnu-folyó partja",
+            "tip": "Keressen egy csendes padot, és nézze a víz folyását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sindi Arborétum",
+            "tip": "Félreeső hely a természet ölelésében, ideális elmélkedésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggel a gátnál",
+            "tip": "Tapasztalja meg a reggeli nyugalmat a Sindi gátnál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Pärnu",
+            "tip": "Găsiți o bancă liniștită și priviți apa curgând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arboretul Sindi",
+            "tip": "Un loc retras înconjurat de natură, ideal pentru reflecție.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dimineața devreme la baraj",
+            "tip": "Experimentați liniștea dimineții la barajul Sindi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pärnu Riverbank",
+            "tip": "Find a quiet bench and watch the water flow by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sindi Arboretum",
+            "tip": "A secluded spot surrounded by nature, perfect for reflection.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Early morning at the dam",
+            "tip": "Experience the morning tranquility at the Sindi dam.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und handgefertigten Waren, falls ein Markt stattfindet."
+          },
+          {
+            "name": "Wollprodukte",
+            "tip": "In Anlehnung an die Geschichte der Stadt könnten Wollprodukte ein passendes Souvenir sein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat, ha van piac."
+          },
+          {
+            "name": "Gyapjútermékek",
+            "tip": "A város történelmére utalva a gyapjútermékek megfelelő emléktárgyak lehetnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și articole de artizanat dacă se organizează o piață."
+          },
+          {
+            "name": "Produse din lână",
+            "tip": "Ca un omagiu adus istoriei orașului, produsele din lână ar putea fi un suvenir potrivit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and handcrafted goods if a market is on."
+          },
+          {
+            "name": "Wool products",
+            "tip": "As a nod to the town's history, wool products could be a fitting souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für die Zeit am Flussufer.",
+          "Überprüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Eine Kamera ist ein Muss, um die industrielle und natürliche Schönheit festzuhalten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Vigyen magával vizet és rágcsálnivalót, különösen a folyóparti időtöltéshez.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "Fényképezőgépet kötelező vinni az ipari és természeti szépségek megörökítéséhez."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Luați apă și gustări, mai ales pentru timpul petrecut pe malul râului.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "Un aparat de fotografiat este esențial pentru a surprinde frumusețea industrială și naturală."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring water and snacks, especially for your time by the riverbank.",
+          "Check the museum's opening hours in advance.",
+          "A camera is a must to capture the industrial and natural beauty."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Sindi",
+            "hu": "Sindi Pályaudvar",
+            "ro": "Gara Sindi",
+            "en": "Sindi Train Station"
+          },
+          "coords": [
+            24.64,
+            58.409
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie sich die geschäftige Vergangenheit dieses alten Verkehrsknotenpunkts vor.",
+            "hu": "Képzelje el ennek a régi közlekedési csomópontnak a nyüzsgő múltját.",
+            "ro": "Imaginați-vă trecutul plin de viață al acestui vechi nod de transport.",
+            "en": "Imagine the bustling past of this old transportation hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Sindi-Damm",
+            "hu": "Sindi-gát",
+            "ro": "Barajul Sindi",
+            "en": "Sindi Dam"
+          },
+          "coords": [
+            24.675,
+            58.402
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Stück Ingenieurskunst mit einer tollen Aussicht auf den Fluss.",
+            "hu": "Lenyűgöző mérnöki alkotás, nagyszerű kilátással a folyóra.",
+            "ro": "O piesă de inginerie impresionantă, cu o priveliște minunată asupra râului.",
+            "en": "An impressive piece of engineering with a great view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Sindi Wollfabrik",
+            "hu": "Sindi Gyapjúgyár",
+            "ro": "Fabrica de lână Sindi",
+            "en": "Sindi Wool Factory"
+          },
+          "coords": [
+            24.66,
+            58.403
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Umgebung dieses riesigen Industriekomplexes.",
+            "hu": "Fedezze fel ennek a hatalmas ipari komplexumnak a környékét.",
+            "ro": "Explorați împrejurimile acestui vast complex industrial.",
+            "en": "Explore the surroundings of this vast industrial complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Sindi",
+            "hu": "Sindi Múzeum",
+            "ro": "Muzeul Sindi",
+            "en": "Sindi Museum"
+          },
+          "coords": [
+            24.645,
+            58.4065
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine perfekte Pause nach dem Radfahren, um tief in die lokale Geschichte einzutauchen.",
+            "hu": "Tökéletes pihenő a kerékpározás után, hogy elmélyedjen a helyi történelemben.",
+            "ro": "O pauză perfectă după ciclism pentru a aprofunda istoria locală.",
+            "en": "A perfect break from cycling to dive deep into local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Sindi",
+            "hu": "Sindi Városháza",
+            "ro": "Primăria Sindi",
+            "en": "Sindi Town Hall"
+          },
+          "coords": [
+            24.647,
+            58.407
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das administrative Zentrum der Stadt, ein gutes Fotomotiv.",
+            "hu": "A város közigazgatási központja, jó fotótéma.",
+            "ro": "Centrul administrativ al orașului, un bun subiect pentru fotografii.",
+            "en": "The town's administrative center, a good photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Sindi Arboretum",
+            "hu": "Sindi Arborétum",
+            "ro": "Arboretul Sindi",
+            "en": "Sindi Arboretum"
+          },
+          "coords": [
+            24.662,
+            58.408
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um das Fahrrad abzustellen und durch die Natur zu schlendern.",
+            "hu": "Szép hely, ahol leteheti a kerékpárt és sétálhat a természetben.",
+            "ro": "Un loc frumos pentru a parca bicicleta și a vă plimba prin natură.",
+            "en": "A lovely place to park your bike and wander through nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Pärnu-Flussufer",
+            "hu": "Pärnu-folyó partja",
+            "ro": "Malul râului Pärnu",
+            "en": "Pärnu Riverbank"
+          },
+          "coords": [
+            24.67,
+            58.401
+          ],
+          "category": "natural features",
+          "arrive_at": "16:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem entspannenden Moment am Wasser.",
+            "hu": "Zárja a kerékpártúrát egy pihentető pillanattal a vízparton.",
+            "ro": "Încheiați turul cu bicicleta cu un moment de relaxare lângă apă.",
+            "en": "End your bike tour with a relaxing moment by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am historischen Bahnhof und führt Sie entlang des Flusses zum beeindruckenden Sindi-Damm. Von dort aus radeln Sie zum industriellen Herzen der Stadt, der Wollfabrik. Nach einer informativen Pause im Museum erkunden Sie das Stadtzentrum rund um das Rathaus. Am Nachmittag können Sie im Arboretum entspannen, bevor Sie Ihre Tour am malerischen Ufer des Pärnu-Flusses ausklingen lassen.",
+        "hu": "Kerékpártúrája a történelmi pályaudvarnál kezdődik, és a folyó mentén a lenyűgöző Sindi-gáthoz vezet. Onnan a város ipari szívébe, a gyapjúgyárhoz teker. A múzeumban tartott informatív szünet után felfedezi a városháza körüli központot. Délután pihenhet az arborétumban, mielőtt a festői Pärnu folyó partján fejezi be a túrát.",
+        "ro": "Turul cu bicicleta începe de la gara istorică, ducându-vă de-a lungul râului până la impresionantul baraj Sindi. De acolo, pedalați spre inima industrială a orașului, fabrica de lână. După o pauză informativă la muzeu, explorați centrul orașului în jurul primăriei. După-amiaza, relaxați-vă la arboret înainte de a încheia turul pe malul pitoresc al râului Pärnu.",
+        "en": "Your bike tour starts at the historic train station, taking you along the river to the impressive Sindi Dam. From there, you'll cycle to the industrial heart of the town, the wool factory. After an informative break at the museum, you'll explore the town center around the town hall. The afternoon is for relaxing at the arboretum before ending your tour on the scenic banks of the Pärnu River."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kringel",
+            "tip": "Ein süßes, geflochtenes Gebäck, perfekt für einen Energieschub."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein lokales estnisches Craft-Bier nach Ihrer Radtour."
+          },
+          {
+            "name": "Grill-Restaurant",
+            "tip": "Suchen Sie nach einem Ort mit Außenterrasse, um ein herzhaftes Essen zu genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kringel",
+            "tip": "Édes, fonott péksütemény, tökéletes energiafröccs."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy helyi észt kézműves sört a kerékpártúra után."
+          },
+          {
+            "name": "Grill étterem",
+            "tip": "Keressen egy helyet kültéri terasszal egy kiadós étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kringel",
+            "tip": "Un produs de patiserie dulce, împletit, perfect pentru un plus de energie."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încercați o bere artizanală locală estoniană după turul cu bicicleta."
+          },
+          {
+            "name": "Restaurant cu grătar",
+            "tip": "Căutați un loc cu o terasă în aer liber pentru a savura o masă copioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kringel",
+            "tip": "A sweet, braided pastry, perfect for an energy boost."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a local Estonian craft beer after your bike ride."
+          },
+          {
+            "name": "Grill Restaurant",
+            "tip": "Look for a place with an outdoor terrace to enjoy a hearty meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pärnu-Flussufer",
+            "tip": "Ein friedlicher Ort, um die Aussicht zu genießen und sich nach dem Radfahren auszuruhen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sindi Arboretum",
+            "tip": "Machen Sie eine Pause vom Radfahren und spazieren Sie zwischen den Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Damm",
+            "tip": "Die Spitze des Dammes bietet eine weite und ruhige Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pärnu-folyó partja",
+            "tip": "Békés hely a kilátás élvezetére és a pihenésre a kerékpározás után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sindi Arborétum",
+            "tip": "Tartson szünetet a kerékpározásban, és sétáljon a fák között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a gátról",
+            "tip": "A gát teteje tágas és nyugodt kilátást kínál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Pärnu",
+            "tip": "Un loc pașnic pentru a admira priveliștea și a vă odihni după plimbarea cu bicicleta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arboretul Sindi",
+            "tip": "Luați o pauză de la ciclism și plimbați-vă printre copaci.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe baraj",
+            "tip": "Vârful barajului oferă o priveliște expansivă și liniștită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pärnu Riverbank",
+            "tip": "A peaceful spot to enjoy the view and rest after cycling.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sindi Arboretum",
+            "tip": "Take a break from the bike and walk among the trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the dam",
+            "tip": "The top of the dam offers an expansive and quiet view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "Vielleicht finden Sie ein kleines lokales Geschäft für Fahrradreparaturen oder -zubehör."
+          },
+          {
+            "name": "Handwerkliche Snacks",
+            "tip": "Suchen Sie nach lokalen Imbissen, die Sie für Ihre Reise einpacken können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "Talán talál egy kis helyi boltot kerékpárjavításhoz vagy kiegészítőkhöz."
+          },
+          {
+            "name": "Kézműves rágcsálnivalók",
+            "tip": "Keressen helyi harapnivalókat, amelyeket becsomagolhat az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "S-ar putea să găsiți un mic magazin local pentru reparații de biciclete sau accesorii."
+          },
+          {
+            "name": "Gustări artizanale",
+            "tip": "Căutați gustări locale pe care să le împachetați pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessories",
+            "tip": "You might find a small local shop for bike repairs or accessories."
+          },
+          {
+            "name": "Artisanal snacks",
+            "tip": "Look for local snacks to pack for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist, bevor Sie losfahren.",
+          "Tragen Sie einen Helm und befolgen Sie die örtlichen Verkehrsregeln.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad während der Museumsbesuche zu sichern.",
+          "Planen Sie Ihre Route im Voraus, aber seien Sie flexibel."
+        ],
+        "hu": [
+          "Indulás előtt győződjön meg róla, hogy a kerékpárja jó állapotban van.",
+          "Viseljen sisakot és tartsa be a helyi közlekedési szabályokat.",
+          "Vigyen magával lakatot, hogy lezárja a kerékpárt a múzeumlátogatások alatt.",
+          "Tervezze meg előre az útvonalat, de legyen rugalmas."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este în stare bună înainte de a porni.",
+          "Purtați cască și respectați regulile de circulație locale.",
+          "Aduceți un lacăt pentru a vă asigura bicicleta în timpul vizitelor la muzeu.",
+          "Planificați-vă traseul în avans, dar fiți flexibil."
+        ],
+        "en": [
+          "Ensure your bike is in good condition before you start.",
+          "Wear a helmet and follow local traffic laws.",
+          "Bring a lock to secure your bike during museum visits.",
+          "Plan your route in advance, but be flexible."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Stadtzentrum",
+            "hu": "Parkolás a központban",
+            "ro": "Parcare în centrul orașului",
+            "en": "Parking at the Town Center"
+          },
+          "coords": [
+            24.6475,
+            58.4075
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz in der Nähe des Rathauses, um den ersten Cluster zu erkunden.",
+            "hu": "Keressen parkolóhelyet a Városháza közelében az első klaszter felfedezéséhez.",
+            "ro": "Găsiți un loc de parcare lângă primărie pentru a explora primul cluster.",
+            "en": "Find a parking spot near the Town Hall to explore the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Sindi",
+            "hu": "Sindi Városháza",
+            "ro": "Primăria Sindi",
+            "en": "Sindi Town Hall"
+          },
+          "coords": [
+            24.647,
+            58.407
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang am Verwaltungszentrum von Sindi.",
+            "hu": "Kezdje a gyalogtúrát Sindi közigazgatási központjánál.",
+            "ro": "Începeți turul pietonal la centrul administrativ al orașului Sindi.",
+            "en": "Start your walking tour at Sindi's administrative center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Sindi",
+            "hu": "Sindi Múzeum",
+            "ro": "Muzeul Sindi",
+            "en": "Sindi Museum"
+          },
+          "coords": [
+            24.645,
+            58.4065
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus entfernt, tauchen Sie ein in die lokale Geschichte.",
+            "hu": "Csak egy rövid séta a Városházától, merüljön el a helyi történelemben.",
+            "ro": "La o scurtă plimbare de primărie, scufundați-vă în istoria locală.",
+            "en": "Just a short walk from the town hall, immerse yourself in local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Wohnsiedlung der Fabrik",
+            "hu": "A gyár lakótelepe",
+            "ro": "Ansamblul rezidențial al fabricii",
+            "en": "Factory's Residential Settlement"
+          },
+          "coords": [
+            24.65,
+            58.405
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese historische Siedlung, bevor Sie zum Auto zurückkehren.",
+            "hu": "Sétáljon át ezen a történelmi lakótelepen, mielőtt visszatérne az autóhoz.",
+            "ro": "Plimbați-vă prin această așezare istorică înainte de a vă întoarce la mașină.",
+            "en": "Stroll through this historic settlement before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Sindi Wollfabrik",
+            "hu": "Sindi Gyapjúgyár",
+            "ro": "Fabrica de lână Sindi",
+            "en": "Sindi Wool Factory"
+          },
+          "coords": [
+            24.66,
+            58.403
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster und parken Sie, um das Industrieerbe zu erkunden.",
+            "hu": "Vezessen a második klaszterhez, és parkoljon le az ipari örökség felfedezéséhez.",
+            "ro": "Conduceți la al doilea cluster și parcați pentru a explora patrimoniul industrial.",
+            "en": "Drive to the second cluster and park to explore the industrial heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Sindi-Damm",
+            "hu": "Sindi-gát",
+            "ro": "Barajul Sindi",
+            "en": "Sindi Dam"
+          },
+          "coords": [
+            24.675,
+            58.402
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang von der Fabrik zum Damm mit Blick auf den Fluss.",
+            "hu": "Kellemes séta a gyárból a gáthoz, kilátással a folyóra.",
+            "ro": "O plimbare plăcută de la fabrică la baraj, cu vedere la râu.",
+            "en": "A pleasant walk from the factory to the dam, overlooking the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Sindi Arboretum & Flussufer",
+            "hu": "Sindi Arborétum és folyópart",
+            "ro": "Arboretul și malul râului Sindi",
+            "en": "Sindi Arboretum & Riverbank"
+          },
+          "coords": [
+            24.665,
+            58.405
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 115,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum letzten Halt des Tages, um im Park und am Wasser zu entspannen.",
+            "hu": "Vezessen a nap utolsó állomásához, hogy pihenjen a parkban és a vízparton.",
+            "ro": "Conduceți la ultima oprire a zilei pentru a vă relaxa în parc și lângă apă.",
+            "en": "Drive to the final stop of the day to relax in the park and by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Zentrum von Sindi, wo Sie Ihr Auto abstellen und zu Fuß das Rathaus, das Museum und die historische Arbeitersiedlung erkunden. Am Mittag fahren Sie zum zweiten Cluster, dem Industriegebiet. Dort besichtigen Sie die Überreste der Wollfabrik und spazieren zum beeindruckenden Damm. Der Tag endet mit einer kurzen Fahrt zum Sindi Arboretum, wo Sie am Flussufer entspannen und die Natur genießen können.",
+        "hu": "A nap Sindi központjában kezdődik, ahol leparkolja az autót, és gyalog fedezi fel a városházát, a múzeumot és a történelmi munkásnegyedet. Délben áthajt a második klaszterbe, az ipari negyedbe. Ott megtekinti a gyapjúgyár maradványait, és elsétál a lenyűgöző gáthoz. A nap egy rövid autóúttal ér véget a Sindi Arborétumba, ahol pihenhet a folyóparton és élvezheti a természetet.",
+        "ro": "Ziua începe în centrul orașului Sindi, unde parcați mașina și explorați pe jos primăria, muzeul și așezarea istorică a muncitorilor. La prânz, conduceți către al doilea cluster, zona industrială. Acolo, vizitați rămășițele fabricii de lână și vă plimbați până la barajul impresionant. Ziua se încheie cu o scurtă călătorie cu mașina până la Arboretul Sindi, unde vă puteți relaxa pe malul râului și vă puteți bucura de natură.",
+        "en": "Your day starts in the center of Sindi, where you park the car and explore the town hall, museum, and historic workers' settlement on foot. At midday, you drive to the second cluster, the industrial area. There, you visit the remains of the wool factory and stroll to the impressive dam. The day concludes with a short drive to the Sindi Arboretum, where you can relax by the riverbank and enjoy nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seljanka",
+            "tip": "Eine herzhafte, würzige Suppe, perfekt für ein Mittagessen."
+          },
+          {
+            "name": "Kama",
+            "tip": "Ein traditionelles estnisches Dessert aus geröstetem Getreide."
+          },
+          {
+            "name": "Gasthaus am Straßenrand",
+            "tip": "Halten Sie Ausschau nach einem \"kõrts\" (Gasthaus) für authentische estnische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szoljanka",
+            "tip": "Kiadós, fűszeres leves, tökéletes ebédre."
+          },
+          {
+            "name": "Kama",
+            "tip": "Hagyományos észt desszert pörkölt gabonából."
+          },
+          {
+            "name": "Útszéli fogadó",
+            "tip": "Keressen egy \"kõrts\"-t (fogadót) az autentikus észt konyháért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Solyanka",
+            "tip": "O supă consistentă și condimentată, perfectă pentru prânz."
+          },
+          {
+            "name": "Kama",
+            "tip": "Un desert tradițional estonian făcut din cereale prăjite."
+          },
+          {
+            "name": "Han la drum",
+            "tip": "Căutați un \"kõrts\" (han) pentru bucătărie estoniană autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Solyanka",
+            "tip": "A hearty, spicy soup, perfect for lunch."
+          },
+          {
+            "name": "Kama",
+            "tip": "A traditional Estonian dessert made from roasted grains."
+          },
+          {
+            "name": "Roadside Inn",
+            "tip": "Look for a \"kõrts\" (inn) for authentic Estonian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sindi Arboretum",
+            "tip": "Der Park bietet viele ruhige Ecken, um dem Trubel zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Pärnu",
+            "tip": "Ein friedlicher Ort, um die Landschaft zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alter Bahnhof",
+            "tip": "Stellen Sie sich vor, wie hier vor langer Zeit Züge vorbeifuhren.",
+            "emoji": "🚂"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sindi Arborétum",
+            "tip": "A park számos csendes zugot kínál a nyüzsgés elől való elmeneküléshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pärnu folyó partja",
+            "tip": "Békés hely a táj élvezetére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Régi pályaudvar",
+            "tip": "Képzelje el, ahogy régen itt haladtak el a vonatok.",
+            "emoji": "🚂"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arboretul Sindi",
+            "tip": "Parcul oferă multe colțuri liniștite pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul râului Pärnu",
+            "tip": "Un loc pașnic pentru a vă bucura de peisaj.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gara veche",
+            "tip": "Imaginați-vă trenurile trecând pe aici cu mult timp în urmă.",
+            "emoji": "🚂"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sindi Arboretum",
+            "tip": "The park offers many quiet corners to escape the hustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Pärnu",
+            "tip": "A peaceful spot to enjoy the scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Old Train Station",
+            "tip": "Imagine the trains passing by here long ago.",
+            "emoji": "🚂"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Bernstein von der Ostseeküste ist ein klassisches Souvenir."
+          },
+          {
+            "name": "Leinenprodukte",
+            "tip": "Estland ist bekannt für seine hochwertigen Leinenwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "A Balti-tenger partjáról származó borostyán klasszikus emléktárgy."
+          },
+          {
+            "name": "Len termékek",
+            "tip": "Észtország híres a kiváló minőségű lenvászon termékeiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Chihlimbarul de pe coasta Baltică este un suvenir clasic."
+          },
+          {
+            "name": "Produse din in",
+            "tip": "Estonia este cunoscută pentru articolele sale de in de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Amber Jewelry",
+            "tip": "Amber from the Baltic coast is a classic souvenir."
+          },
+          {
+            "name": "Linen Products",
+            "tip": "Estonia is known for its high-quality linen goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkgebühren im Stadtzentrum.",
+          "Die Straßen können eng sein, fahren Sie also vorsichtig.",
+          "Lassen Sie keine Wertsachen im Auto zurück.",
+          "Ein GPS ist hilfreich, um zwischen den Clustern zu navigieren."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra a városközpontban.",
+          "Az utcák szűkek lehetnek, vezessen óvatosan.",
+          "Ne hagyjon értéktárgyakat az autóban.",
+          "GPS hasznos lehet a klaszterek közötti navigációhoz."
+        ],
+        "ro": [
+          "Fiți atenți la taxele de parcare din centrul orașului.",
+          "Străzile pot fi înguste, așa că conduceți cu atenție.",
+          "Nu lăsați obiecte de valoare în mașină.",
+          "Un GPS este util pentru a naviga între clustere."
+        ],
+        "en": [
+          "Be aware of parking fees in the town center.",
+          "The roads can be narrow, so drive carefully.",
+          "Do not leave valuables in the car.",
+          "A GPS is helpful for navigating between the clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft im Zentrum von Sindi",
+            "hu": "Érkezés Sindi központjába",
+            "ro": "Sosire în centrul orașului Sindi",
+            "en": "Arrival in Sindi Center"
+          },
+          "coords": [
+            24.647,
+            58.407
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Hauptplatz, um Ihren Tag zu beginnen.",
+            "hu": "Menjen busszal a főtérre a nap kezdéséhez.",
+            "ro": "Luați un autobuz spre piața principală pentru a vă începe ziua.",
+            "en": "Take a bus to the main square to start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Sindi",
+            "hu": "Sindi Városháza",
+            "ro": "Primăria Sindi",
+            "en": "Sindi Town Hall"
+          },
+          "coords": [
+            24.647,
+            58.407
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihre erste Erkundung zu Fuß nach der Ankunft.",
+            "hu": "Az első gyalogos felfedezés az érkezés után.",
+            "ro": "Prima dvs. explorare pe jos după sosire.",
+            "en": "Your first on-foot exploration after arriving."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Sindi",
+            "hu": "Sindi Múzeum",
+            "ro": "Muzeul Sindi",
+            "en": "Sindi Museum"
+          },
+          "coords": [
+            24.645,
+            58.4065
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum ist nur einen kurzen Spaziergang vom Rathaus entfernt.",
+            "hu": "A múzeum csak egy rövid sétára van a városházától.",
+            "ro": "Muzeul este la o scurtă plimbare de primărie.",
+            "en": "The museum is just a short walk from the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Sindi Wollfabrik",
+            "hu": "Sindi Gyapjúgyár",
+            "ro": "Fabrica de lână Sindi",
+            "en": "Sindi Wool Factory"
+          },
+          "coords": [
+            24.66,
+            58.403
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zweiten Cluster, der Industriegeschichte von Sindi.",
+            "hu": "Menjen busszal a második klaszterhez, Sindi ipari történelméhez.",
+            "ro": "Luați un autobuz către al doilea cluster, istoria industrială a orașului Sindi.",
+            "en": "Take a bus to the second cluster, Sindi's industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Sindi-Damm",
+            "hu": "Sindi-gát",
+            "ro": "Barajul Sindi",
+            "en": "Sindi Dam"
+          },
+          "coords": [
+            24.675,
+            58.402
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie von der Fabrik zum Damm und genießen Sie die Aussicht.",
+            "hu": "Sétáljon el a gyárból a gáthoz, és élvezze a kilátást.",
+            "ro": "Plimbați-vă de la fabrică la baraj și bucurați-vă de priveliște.",
+            "en": "Walk from the factory to the dam and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Pärnu-Flussufer",
+            "hu": "Pärnu-folyó partja",
+            "ro": "Malul râului Pärnu",
+            "en": "Pärnu Riverbank"
+          },
+          "coords": [
+            24.665,
+            58.401
+          ],
+          "category": "natural features",
+          "arrive_at": "14:50",
+          "stay_min": 125,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Flussufer für einen entspannten Nachmittag.",
+            "hu": "Menjen busszal a folyópartra egy pihentető délutánért.",
+            "ro": "Luați un autobuz până la malul râului pentru o după-amiază relaxantă.",
+            "en": "Take a bus to the riverbank for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Sindi beginnt mit einer Busfahrt ins Zentrum, wo Sie das Rathaus und das Museum zu Fuß erkunden. Eine weitere Busfahrt bringt Sie zum industriellen Herzen der Stadt, der Wollfabrik, von wo aus Sie zum beeindruckenden Sindi-Damm spazieren. Der Nachmittag ist der Entspannung gewidmet. Nehmen Sie einen Bus zum Ufer des Pärnu-Flusses, wo Sie die Ruhe und die Natur genießen können, bevor Sie Ihre Heimreise antreten.",
+        "hu": "A sindi-i napja egy buszúttal kezdődik a központba, ahol gyalogosan fedezi fel a városházát és a múzeumot. Egy másik buszút elviszi a város ipari szívébe, a gyapjúgyárhoz, ahonnan a lenyűgöző Sindi-gáthoz sétálhat. A délután a pihenésé. Menjen busszal a Pärnu folyó partjára, ahol élvezheti a csendet és a természetet, mielőtt hazaindulna.",
+        "ro": "Ziua dvs. în Sindi începe cu o călătorie cu autobuzul spre centru, unde explorați pe jos primăria și muzeul. O altă călătorie cu autobuzul vă duce la inima industrială a orașului, fabrica de lână, de unde vă puteți plimba până la impresionantul baraj Sindi. După-amiaza este dedicată relaxării. Luați un autobuz până la malul râului Pärnu, unde vă puteți bucura de liniște și natură înainte de a vă întoarce acasă.",
+        "en": "Your day in Sindi begins with a bus ride to the center, where you explore the town hall and museum on foot. Another bus ride takes you to the industrial heart of the town, the wool factory, from where you can walk to the impressive Sindi Dam. The afternoon is dedicated to relaxation. Take a bus to the banks of the Pärnu River, where you can enjoy the peace and nature before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pirukas",
+            "tip": "Ein herzhaftes Gebäck, gefüllt mit Fleisch, Kohl oder Karotten, ideal für unterwegs."
+          },
+          {
+            "name": "Kali",
+            "tip": "Ein traditionelles fermentiertes Getränk, ähnlich wie Kwas."
+          },
+          {
+            "name": "Café in der Nähe der Bushaltestelle",
+            "tip": "Schnappen Sie sich einen Kaffee und einen Snack, während Sie auf Ihren Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pirukas",
+            "tip": "Hússal, káposztával vagy sárgarépával töltött sós péksütemény, ideális útközben."
+          },
+          {
+            "name": "Kali",
+            "tip": "Hagyományos erjesztett ital, hasonló a kvaszhoz."
+          },
+          {
+            "name": "Kávézó a buszmegálló közelében",
+            "tip": "Kapjon be egy kávét és egy harapnivalót, amíg a buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pirukas",
+            "tip": "Un produs de patiserie sărat umplut cu carne, varză sau morcovi, ideal pentru drum."
+          },
+          {
+            "name": "Kali",
+            "tip": "O băutură tradițională fermentată, asemănătoare cu cvasul."
+          },
+          {
+            "name": "Cafenea lângă stația de autobuz",
+            "tip": "Luați o cafea și o gustare în timp ce așteptați autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pirukas",
+            "tip": "A savory pastry filled with meat, cabbage, or carrots, great for on-the-go."
+          },
+          {
+            "name": "Kali",
+            "tip": "A traditional fermented beverage, similar to kvass."
+          },
+          {
+            "name": "Cafe near the bus stop",
+            "tip": "Grab a coffee and a snack while waiting for your bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Beobachten Sie das tägliche Leben, während Sie zwischen den Stopps fahren.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Spaziergang am Fluss",
+            "tip": "Das Flussufer ist ein großartiger Ort, um dem Stadtlärm zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Historische Fabriksiedlung",
+            "tip": "Spazieren Sie durch die ruhigen Straßen und stellen Sie sich die Vergangenheit vor.",
+            "emoji": "🏘️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Figyelje a mindennapi életet, miközben a megállók között utazik.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Séta a folyóparton",
+            "tip": "A folyópart nagyszerű hely a város zajától való elmenekülésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Történelmi gyártelep",
+            "tip": "Sétáljon végig a csendes utcákon, és képzelje el a múltat.",
+            "emoji": "🏘️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la fereastra autobuzului",
+            "tip": "Urmăriți viața de zi cu zi în timp ce călătoriți între opriri.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "Malul râului este un loc minunat pentru a scăpa de zgomotul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Așezarea istorică a fabricii",
+            "tip": "Plimbați-vă pe străzile liniștite și imaginați-vă trecutul.",
+            "emoji": "🏘️"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the bus window",
+            "tip": "Observe daily life as you travel between stops.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "River walk",
+            "tip": "The riverbank is a great place to escape the town's noise.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Historic factory settlement",
+            "tip": "Walk the quiet streets and imagine the past.",
+            "emoji": "🏘️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Lebensmittel",
+            "tip": "Kaufen Sie in einem kleinen Laden lokale estnische Snacks."
+          },
+          {
+            "name": "Postkarten",
+            "tip": "Senden Sie eine Postkarte mit einem Bild des industriellen Erbes von Sindi."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi élelmiszerek",
+            "tip": "Vásároljon helyi észt rágcsálnivalókat egy kis boltban."
+          },
+          {
+            "name": "Képeslapok",
+            "tip": "Küldjön egy képeslapot Sindi ipari örökségének képével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse alimentare locale",
+            "tip": "Cumpărați gustări locale estoniene de la un magazin mic."
+          },
+          {
+            "name": "Cărți poștale",
+            "tip": "Trimiteți o carte poștală cu o imagine a patrimoniului industrial al orașului Sindi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local groceries",
+            "tip": "Buy some local Estonian snacks from a small shop."
+          },
+          {
+            "name": "Postcards",
+            "tip": "Send a postcard with an image of Sindi's industrial heritage."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besorgen Sie sich einen Busfahrplan oder nutzen Sie eine ÖPNV-App.",
+          "Eine Tageskarte könnte günstiger sein als Einzelfahrscheine.",
+          "Achten Sie auf die Abfahrtszeiten des letzten Busses, um nicht stecken zu bleiben.",
+          "Seien Sie bereit, zwischen den Bushaltestellen und den Sehenswürdigkeiten zu laufen."
+        ],
+        "hu": [
+          "Szerezzen be egy buszmenetrendet, vagy használjon egy tömegközlekedési alkalmazást.",
+          "Egy napijegy olcsóbb lehet, mint az egyszeri jegyek.",
+          "Figyeljen az utolsó busz indulási idejére, nehogy ott ragadjon.",
+          "Készüljön fel a buszmegállók és a látnivalók közötti sétára."
+        ],
+        "ro": [
+          "Obțineți un orar al autobuzelor sau utilizați o aplicație de transport public.",
+          "Un bilet de o zi ar putea fi mai ieftin decât biletele individuale.",
+          "Fiți atenți la ora de plecare a ultimului autobuz pentru a nu rămâne blocat.",
+          "Fiți pregătiți să mergeți pe jos între stațiile de autobuz și atracții."
+        ],
+        "en": [
+          "Get a bus schedule or use a public transport app.",
+          "A day pass might be cheaper than single tickets.",
+          "Be mindful of the last bus departure time to avoid getting stranded.",
+          "Be prepared to walk between bus stops and the sights."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1196 @@
+{
+  "city_id": "portugal-vilar-formoso-cities-v2",
+  "anchor": {
+    "name": "Vilar Formoso",
+    "coords": [
+      -6.8333,
+      40.5833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Largo da Estação",
+            "hu": "Largo da Estação (Állomás tér)",
+            "ro": "Largo da Estação (Piața Gării)",
+            "en": "Largo da Estação (Station Square)"
+          },
+          "coords": [
+            -6.8305,
+            40.584
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Kommen und Gehen.",
+            "hu": "Indítsa a napot egy kávéval, és figyelje a tér nyüzsgését.",
+            "ro": "Începeți ziua aici cu o cafea, observând forfota locală.",
+            "en": "Start your day here with a coffee, watching the local comings and goings."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Vilar Formoso",
+            "hu": "Vilar Formoso vasútállomás",
+            "ro": "Gara Feroviară Vilar Formoso",
+            "en": "Vilar Formoso Railway Station"
+          },
+          "coords": [
+            -6.8299,
+            40.5845
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die historischen Azulejos, die die Geschichte der Region darstellen.",
+            "hu": "Keresse a történelmi azulejo csempéket, amelyek a régió történetét mesélik el.",
+            "ro": "Căutați azulejos-urile istorice care înfățișează istoria regiunii.",
+            "en": "Look for the historic azulejo tiles depicting the region's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Kämpfer",
+            "hu": "Harcosok emlékműve",
+            "ro": "Monumentul Combatanților",
+            "en": "Monument to the Combatants"
+          },
+          "coords": [
+            -6.8321,
+            40.5838
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:19",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung über die lokale Geschichte und die Opfer.",
+            "hu": "Egy pillanatnyi elgondolkodás a helyi történelemről és áldozatokról.",
+            "ro": "Un moment de reflecție asupra istoriei și sacrificiilor locale.",
+            "en": "A moment of reflection on local history and sacrifices."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Vilar Formoso",
+            "hu": "Vilar Formoso főtemploma",
+            "ro": "Biserica Matriz din Vilar Formoso",
+            "en": "Main Church of Vilar Formoso"
+          },
+          "coords": [
+            -6.8345,
+            40.5831
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie den einfachen, aber eleganten Baustil dieser wichtigen lokalen Kirche.",
+            "hu": "Csodálja meg ennek a fontos helyi templomnak az egyszerű, de elegáns építészeti stílusát.",
+            "ro": "Admirați stilul arhitectural simplu, dar elegant al acestei biserici locale importante.",
+            "en": "Admire the simple yet elegant architectural style of this important local church."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Vilar Formoso Grenze des Friedens",
+            "hu": "Vilar Formoso, a Béke Határa Múzeum",
+            "ro": "Muzeul Vilar Formoso Frontiera Păcii",
+            "en": "Vilar Formoso Frontier of Peace Museum"
+          },
+          "coords": [
+            -6.8258,
+            40.6133
+          ],
+          "category": "museums",
+          "arrive_at": "11:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein bewegendes Museum, das den Flüchtlingen des Zweiten Weltkriegs gewidmet ist. Planen Sie ausreichend Zeit ein.",
+            "hu": "Egy megindító múzeum, amelyet a második világháborús menekülteknek szenteltek. Szánjon rá elég időt.",
+            "ro": "Un muzeu emoționant dedicat refugiaților din al Doilea Război Mondial. Planificați suficient timp.",
+            "en": "A moving museum dedicated to WWII refugees. Plan for enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Portugiesisch-Spanische Grenze",
+            "hu": "Portugál-Spanyol Határ",
+            "ro": "Frontiera Luso-Spaniolă",
+            "en": "Portuguese-Spanish Border"
+          },
+          "coords": [
+            -6.8233,
+            40.615
+          ],
+          "category": "historical",
+          "arrive_at": "13:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto mit einem Fuß in Portugal und dem anderen in Spanien.",
+            "hu": "Készítsen egy fotót úgy, hogy egyik lába Portugáliában, a másik Spanyolországban van.",
+            "ro": "Faceți o fotografie cu un picior în Portugalia și celălalt în Spania.",
+            "en": "Take a photo with one foot in Portugal and the other in Spain."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Unserer Lieben Frau des Friedens",
+            "hu": "Béke Miasszonyunk kápolnája",
+            "ro": "Capela Doamnei Noastre a Păcii",
+            "en": "Chapel of Our Lady of Peace"
+          },
+          "coords": [
+            -6.836,
+            40.582
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:24",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, perfekt für einen Moment der stillen Besinnung am Ende des Tages.",
+            "hu": "Egy békés hely, tökéletes a nap végi csendes elmélkedéshez.",
+            "ro": "Un loc liniștit, perfect pentru un moment de contemplare la finalul zilei.",
+            "en": "A peaceful spot, perfect for a moment of quiet contemplation at the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am belebten Bahnhofsplatz. Am Vormittag erkunden Sie das Eisenbahnerbe der Stadt und die historischen Denkmäler. Nach dem Mittagessen führt Sie ein längerer Spaziergang zum ergreifenden Museum 'Grenze des Friedens' und zur eigentlichen spanischen Grenze. Schließen Sie den Tag mit einem Besuch der ruhigen Friedenskapelle ab und genießen Sie die Atmosphäre dieser einzigartigen Grenzstadt.",
+        "hu": "Kezdje a sétát a nyüzsgő állomás téren. Délelőtt fedezze fel a város vasúti örökségét és történelmi emlékműveit. Ebéd után egy hosszabb séta vezet az érzelmes 'Béke Határa' múzeumhoz és magához a spanyol határhoz. A napot a csendes Béke-kápolna meglátogatásával zárja, élvezve ennek az egyedülálló határvárosnak a hangulatát.",
+        "ro": "Începeți turul pietonal în vibranta piață a gării. Dimineața, explorați patrimoniul feroviar al orașului și monumentele istorice. După prânz, o plimbare mai lungă vă va duce la emoționantul muzeu 'Frontiera Păcii' și la granița spaniolă. Încheiați ziua cu o vizită la liniștita Capelă a Păcii, absorbind atmosfera acestui oraș de frontieră unic.",
+        "en": "Start your walking tour at the bustling station square. In the morning, explore the town's railway heritage and historical monuments. After lunch, a longer walk takes you to the poignant 'Frontier of Peace' museum and the actual Spanish border. End your day with a visit to the quiet Chapel of Peace, soaking in the atmosphere of this unique border town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chanfana",
+            "tip": "Ein herzhafter Lammeintopf, langsam in Rotwein gekocht. Suchen Sie nach Restaurants, die 'comida caseira' (hausgemachte Speisen) anbieten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chanfana",
+            "tip": "Kiadós báránypörkölt, lassan főzve vörösborban. Keressen olyan éttermeket, amelyek 'comida caseira' (házias ételek) kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chanfana",
+            "tip": "O tocană consistentă de miel, gătită lent în vin roșu. Căutați restaurante care servesc 'comida caseira' (mâncare de casă)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chanfana",
+            "tip": "A hearty lamb stew, slow-cooked in red wine. Look for restaurants serving 'comida caseira' (homemade food)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Côa",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt finden Sie Ruhe am Flussufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela de Nossa Senhora da Paz",
+            "tip": "Die Friedenskapelle bietet eine Oase der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Côa folyó partja",
+            "tip": "Egy rövid sétára a központtól békét talál a folyóparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela de Nossa Senhora da Paz",
+            "tip": "A Béke-kápolna a nyugalom szigetét kínálja.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Côa",
+            "tip": "La o scurtă plimbare de centru, găsiți liniște pe malul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela de Nossa Senhora da Paz",
+            "tip": "Capela Păcii oferă o oază de calm.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Côa River",
+            "tip": "A short walk from the center, find peace along the riverbank.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela de Nossa Senhora da Paz",
+            "tip": "The Chapel of Peace offers an oasis of calm.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie Ausschau nach lokalen Produkten wie Käse aus der Serra da Estrela und regionalen Wurstwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a helyi termékeket, például a Serra da Estrela sajtot és a regionális kolbászokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați produse locale, cum ar fi brânza Serra da Estrela și mezeluri regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for local products like Serra da Estrela cheese and regional sausages."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Tag viel Laufen beinhaltet.",
+          "Nehmen Sie Wasser mit, besonders für den längeren Spaziergang zur Grenze.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap sok gyaloglással jár.",
+          "Vigyen magával vizet, különösen a határhoz vezető hosszabb sétára.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece ziua implică mult mers pe jos.",
+          "Luați apă cu dvs., mai ales pentru plimbarea mai lungă până la graniță.",
+          "Verificați programul de funcționare al muzeului în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes as the day involves a lot of walking.",
+          "Bring water, especially for the longer walk to the border.",
+          "Check the museum's opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 3.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Largo da Estação",
+            "hu": "Largo da Estação (Állomás tér)",
+            "ro": "Largo da Estação (Piața Gării)",
+            "en": "Largo da Estação (Station Square)"
+          },
+          "coords": [
+            -6.8305,
+            40.584
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt, um die Stadt mit dem Fahrrad zu erkunden.",
+            "hu": "Ideális kiindulópont a város biciklis felfedezéséhez.",
+            "ro": "Un punct de plecare ideal pentru a explora orașul pe bicicletă.",
+            "en": "An ideal starting point to get your bearings before exploring by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Vilar Formoso",
+            "hu": "Vilar Formoso vasútállomás",
+            "ro": "Gara Feroviară Vilar Formoso",
+            "en": "Vilar Formoso Railway Station"
+          },
+          "coords": [
+            -6.8299,
+            40.5845
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:21",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie die beeindruckende Architektur des Bahnhofs.",
+            "hu": "Zárja le a biciklit, és csodálja meg az állomás lenyűgöző építészetét.",
+            "ro": "Parcați bicicleta și admirați arhitectura impresionantă a gării.",
+            "en": "Park your bike and admire the station's impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Vilar Formoso",
+            "hu": "Vilar Formoso főtemploma",
+            "ro": "Biserica Matriz din Vilar Formoso",
+            "en": "Main Church of Vilar Formoso"
+          },
+          "coords": [
+            -6.8345,
+            40.5831
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:54",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Radtour vom Bahnhof entfernt, ist dies ein friedlicher Ort.",
+            "hu": "Csak egy rövid biciklizésre az állomástól, ez egy békés hely.",
+            "ro": "La o scurtă plimbare cu bicicleta de gară, acesta este un loc pașnic.",
+            "en": "A short bike ride from the station, this is a peaceful stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Vilar Formoso Grenze des Friedens",
+            "hu": "Vilar Formoso, a Béke Határa Múzeum",
+            "ro": "Muzeul Vilar Formoso Frontiera Păcii",
+            "en": "Vilar Formoso Frontier of Peace Museum"
+          },
+          "coords": [
+            -6.8258,
+            40.6133
+          ],
+          "category": "museums",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour hierher führt Sie aus dem Stadtzentrum heraus und bietet eine andere Perspektive.",
+            "hu": "Az ide vezető bicikliút kivisz a városközpontból, és más perspektívát nyújt.",
+            "ro": "Plimbarea cu bicicleta până aici vă scoate din centrul orașului pentru o perspectivă diferită.",
+            "en": "The bike ride here takes you out of the town center for a different perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Portugiesisch-Spanische Grenze",
+            "hu": "Portugál-Spanyol Határ",
+            "ro": "Frontiera Luso-Spaniolă",
+            "en": "Portuguese-Spanish Border"
+          },
+          "coords": [
+            -6.8233,
+            40.615
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie über die Linie und erleben Sie den Nervenkitzel, in zwei Ländern gleichzeitig zu sein.",
+            "hu": "Tekerjen át a vonalon, és élje át az izgalmat, hogy egyszerre két országban lehet.",
+            "ro": "Pedalați peste linie și simțiți fiorul de a fi în două țări deodată.",
+            "en": "Cycle across the line and feel the thrill of being in two countries at once."
+          }
+        },
+        {
+          "name": {
+            "de": "Fonte da Vila",
+            "hu": "Fonte da Vila (Falu szökőkútja)",
+            "ro": "Fonte da Vila (Fântâna Satului)",
+            "en": "Fonte da Vila (Village Fountain)"
+          },
+          "coords": [
+            -6.8355,
+            40.5825
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein charmanter kleiner Halt auf dem Rückweg ins Zentrum.",
+            "hu": "Egy bájos kis megálló a központ felé vezető úton.",
+            "ro": "O oprire mică și fermecătoare în drum spre centru.",
+            "en": "A charming little stop on your way back towards the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Unserer Lieben Frau des Friedens",
+            "hu": "Béke Miasszonyunk kápolnája",
+            "ro": "Capela Doamnei Noastre a Păcii",
+            "en": "Chapel of Our Lady of Peace"
+          },
+          "coords": [
+            -6.836,
+            40.582
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein perfekter letzter Halt, um die Ruhe nach einer aktiven Radtour zu genießen.",
+            "hu": "Tökéletes utolsó megálló, hogy egy aktív biciklizés után élvezze a csendet.",
+            "ro": "O ultimă oprire perfectă pentru a vă bucura de liniște după un tur activ cu bicicleta.",
+            "en": "A perfect final stop to enjoy the tranquility after an active bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am Bahnhofsplatz und führt Sie schnell zum historischen Bahnhof. Am Vormittag radeln Sie zum bewegenden Museum 'Grenze des Friedens' und überqueren dann die spanische Grenze. Nach dem Mittagessen kehren Sie in einem gemütlicheren Tempo ins Stadtzentrum zurück, halten an charmanten kleinen Sehenswürdigkeiten und beenden Ihre Tour an der ruhigen Friedenskapelle. Es ist eine großartige Möglichkeit, die Stadt und ihre Umgebung zu erleben.",
+        "hu": "A kerékpártúra az állomás térről indul, ahonnan gyorsan eljut a történelmi vasútállomáshoz. Délelőtt tekerjen el a megható 'Béke Határa' múzeumhoz, majd lépje át a spanyol határt. Ebéd után kényelmesebb tempóban térjen vissza a városközpontba, megállva bájos kis látnivalóknál, és a túrát a csendes Béke-kápolnánál fejezze be. Ez egy nagyszerű módja a város és környékének felfedezésének.",
+        "ro": "Turul cu bicicleta începe din piața gării, ducându-vă rapid la gara istorică. Dimineața, pedalați spre emoționantul muzeu 'Frontiera Păcii', apoi traversați granița cu Spania. După prânz, reveniți în centrul orașului într-un ritm mai lejer, oprindu-vă la obiective mici și fermecătoare și încheind turul la liniștita Capelă a Păcii. Este o modalitate excelentă de a experimenta orașul și împrejurimile sale.",
+        "en": "Your bike tour starts at the station square, quickly taking you to the historic railway station. In the morning, you'll cycle to the moving 'Frontier of Peace' museum, then cross the Spanish border. After lunch, return to the town center at a more leisurely pace, stopping at charming small sights and ending your tour at the quiet Chapel of Peace. It's a great way to experience the town and its surroundings."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Ein klassisches portugiesisches Gericht mit gesalzenem Kabeljau, Zwiebeln, Kartoffeln und Eiern. Perfekt für eine sättigende Mahlzeit nach dem Radfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Klasszikus portugál étel sózott tőkehallal, hagymával, burgonyával és tojással. Tökéletes egy laktató étkezéshez biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Un preparat portughez clasic cu cod sărat, ceapă, cartofi și ouă. Perfect pentru o masă sățioasă după ciclism."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "A classic Portuguese dish with salt cod, onions, potatoes, and eggs. Perfect for a filling meal after cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Landschaft um Vilar Formoso",
+            "tip": "Genießen Sie die Ruhe der Landschaft auf den Wegen außerhalb der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Igreja Matriz",
+            "tip": "Die Hauptkirche ist tagsüber oft ein stiller Ort.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vilar Formoso környéki táj",
+            "tip": "Élvezze a vidék csendjét a városon kívüli utakon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Igreja Matriz",
+            "tip": "A Főtemplom napközben gyakran csendes hely.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peisajul din jurul Vilar Formoso",
+            "tip": "Bucurați-vă de liniștea peisajului rural pe potecile din afara orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Igreja Matriz",
+            "tip": "Biserica principală este adesea un loc tăcut în timpul zilei.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Countryside around Vilar Formoso",
+            "tip": "Enjoy the peace of the countryside on the tracks outside of town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Igreja Matriz",
+            "tip": "The main church is often a quiet place during the day.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie nach handgefertigter Keramik und Textilien in kleinen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített kerámiákat és textileket a kis boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați ceramică și textile lucrate manual în magazinele mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local handicrafts",
+            "tip": "Look for handmade pottery and textiles in small local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad bei den Haltestellen sicher abzustellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt.",
+          "Sisak viselése erősen ajánlott.",
+          "Vigyen magával lakatot, hogy biztonságban lezárhassa a biciklit a megállóknál."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Casca este foarte recomandată.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "A helmet is strongly recommended.",
+          "Bring a lock to secure your bike at stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Largo da Estação",
+            "hu": "Parkolás a Largo da Estação-nál",
+            "ro": "Parcare la Largo da Estação",
+            "en": "Parking at Largo da Estação"
+          },
+          "coords": [
+            -6.8305,
+            40.584
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier Ihr Auto für den ersten Teil Ihres Besuchs. Es ist ein zentraler Ausgangspunkt.",
+            "hu": "Parkolja le itt az autóját a látogatás első részére. Ez egy központi kiindulópont.",
+            "ro": "Parcați mașina aici pentru prima parte a vizitei. Este un punct de plecare central.",
+            "en": "Park your car here for the first part of your visit. It's a central starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Vilar Formoso",
+            "hu": "Vilar Formoso vasútállomás",
+            "ro": "Gara Feroviară Vilar Formoso",
+            "en": "Vilar Formoso Railway Station"
+          },
+          "coords": [
+            -6.8299,
+            40.5845
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von Ihrem Parkplatz entfernt, tauchen Sie ein in die Eisenbahngeschichte.",
+            "hu": "Csak egy rövid séta a parkolótól, merüljön el a vasúttörténetben.",
+            "ro": "La o scurtă plimbare de parcare, pătrundeți în istoria feroviară.",
+            "en": "A short walk from where you parked, immerse yourself in the railway history."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Vilar Formoso",
+            "hu": "Vilar Formoso főtemploma",
+            "ro": "Biserica Matriz din Vilar Formoso",
+            "en": "Main Church of Vilar Formoso"
+          },
+          "coords": [
+            -6.8345,
+            40.5831
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:56",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang durch die Stadt zu diesem wichtigen religiösen Ort fort.",
+            "hu": "Folytassa a sétát a városon keresztül ehhez a fontos vallási helyszínhez.",
+            "ro": "Continuați plimbarea prin oraș până la acest important sit religios.",
+            "en": "Continue your walk through the town to this important religious site."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Museum 'Grenze des Friedens'",
+            "hu": "Autózás a 'Béke Határa' Múzeumhoz",
+            "ro": "Condus la Muzeul 'Frontiera Păcii'",
+            "en": "Drive to 'Frontier of Peace' Museum"
+          },
+          "coords": [
+            -6.8258,
+            40.6133
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nehmen Sie das Auto für diesen nächsten Abschnitt. Parkplätze sind am Museum vorhanden.",
+            "hu": "A következő szakaszhoz használja az autót. A múzeumnál van parkoló.",
+            "ro": "Luați mașina pentru această următoare secțiune. Există parcare la muzeu.",
+            "en": "Take the car for this next leg. Parking is available at the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Portugiesisch-Spanische Grenze",
+            "hu": "Portugál-Spanyol Határ",
+            "ro": "Frontiera Luso-Spaniolă",
+            "en": "Portuguese-Spanish Border"
+          },
+          "coords": [
+            -6.8233,
+            40.615
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Museum aus ist es ein kurzer Spaziergang zur Grenze. Lassen Sie das Auto am Museum stehen.",
+            "hu": "A múzeumtól rövid séta a határ. Hagyja az autót a múzeumnál.",
+            "ro": "De la muzeu este o scurtă plimbare până la graniță. Lăsați mașina la muzeu.",
+            "en": "It's a short walk from the museum to the border. Leave the car at the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Unserer Lieben Frau des Friedens",
+            "hu": "Béke Miasszonyunk kápolnája",
+            "ro": "Capela Doamnei Noastre a Păcii",
+            "en": "Chapel of Our Lady of Peace"
+          },
+          "coords": [
+            -6.836,
+            40.582
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum für Ihren letzten Halt, einen Moment der Ruhe.",
+            "hu": "Vezessen vissza a központba az utolsó megállóhoz, egy pillanatnyi békéért.",
+            "ro": "Conduceți înapoi în centru pentru ultima oprire, un moment de liniște.",
+            "en": "Drive back towards the center for your final stop, a moment of peace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie im Zentrum und erkunden Sie den historischen Bahnhof und die Hauptkirche zu Fuß. Am Vormittag fahren Sie zum bewegenden Museum 'Grenze des Friedens', wo Sie parken und zur spanischen Grenze spazieren. Diese Kombination aus Fahren und Gehen ermöglicht es Ihnen, sowohl das kompakte Stadtzentrum als auch die weiter entfernten, aber bedeutenden Grenzstandorte zu erleben. Beenden Sie Ihren Tag mit einer kurzen Fahrt zur ruhigen Friedenskapelle.",
+        "hu": "Parkoljon a központban, és fedezze fel gyalog a történelmi állomást és a főtemplomot. Délelőtt vezessen el a megindító 'Béke Határa' múzeumhoz, parkoljon le, és sétáljon át a spanyol határhoz. A vezetés és a gyaloglás ezen kombinációja lehetővé teszi, hogy megtapasztalja a kompakt városközpontot és a távolabbi, de jelentős határ menti helyszíneket is. A napot egy rövid autózással zárja a csendes Béke-kápolnához.",
+        "ro": "Parcați în centru și explorați pe jos gara istorică și biserica principală. Dimineața, conduceți la emoționantul muzeu 'Frontiera Păcii', parcați și mergeți pe jos până la granița cu Spania. Această combinație de condus și mers pe jos vă permite să experimentați atât centrul compact al orașului, cât și siturile de frontieră mai îndepărtate, dar semnificative. Încheiați ziua cu o scurtă călătorie cu mașina la liniștita Capelă a Păcii.",
+        "en": "Park in the center and explore the historic station and main church on foot. In the morning, drive to the moving 'Frontier of Peace' museum, park, and walk to the Spanish border. This combination of driving and walking allows you to experience both the compact town center and the more distant but significant border sites. End your day with a short drive to the peaceful Chapel of Peace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Migas",
+            "tip": "Ein traditionelles Gericht aus Brot, Knoblauch und oft mit Schweinefleisch serviert. Ein rustikales und schmackhaftes Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Migas",
+            "tip": "Hagyományos étel kenyérből, fokhagymából, gyakran sertéshússal tálalva. Rusztikus és ízletes élmény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare tradițional făcut din pâine, usturoi și adesea servit cu carne de porc. O experiență rustică și gustoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Migas",
+            "tip": "A traditional dish made from bread, garlic, and often served with pork. A rustic and flavorful experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt an der Grenze",
+            "tip": "Finden Sie einen Punkt mit Blick auf die Weite Spaniens für einen Moment der Kontemplation.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Inneres der Igreja Matriz",
+            "tip": "Im Inneren der Kirche ist es oft kühl und still.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a határnál",
+            "tip": "Keressen egy pontot, ahonnan a spanyol tájra nyílik kilátás egy pillanatnyi elmélkedésre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az Igreja Matriz belseje",
+            "tip": "A templom belseje gyakran hűvös és csendes.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la graniță",
+            "tip": "Găsiți un loc cu vedere la întinderea Spaniei pentru un moment de contemplare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Interiorul Bisericii Matriz",
+            "tip": "În interiorul bisericii este adesea răcoare și liniște.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at the border",
+            "tip": "Find a spot overlooking the expanse of Spain for a moment of contemplation.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Inside Igreja Matriz",
+            "tip": "It's often cool and silent inside the church.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Spanische Produkte",
+            "tip": "Nutzen Sie die Grenznähe, um spanische Delikatessen in den Geschäften auf der anderen Seite zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spanyol termékek",
+            "tip": "Használja ki a határ közelségét, és vásároljon spanyol finomságokat a túloldali boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse spaniole",
+            "tip": "Profitați de apropierea de graniță pentru a cumpăra delicatese spaniole din magazinele de peste hotare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spanish Products",
+            "tip": "Take advantage of the border to buy Spanish delicacies from shops on the other side."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkbeschilderung im Stadtzentrum.",
+          "Das Fahren in der Stadt ist einfach, aber die Straßen können eng sein.",
+          "Haben Sie Ihren Ausweis für den Grenzübertritt bereit, auch wenn die Kontrollen selten sind."
+        ],
+        "hu": [
+          "Figyeljen a parkolási táblákra a városközpontban.",
+          "A városban vezetni könnyű, de az utcák szűkek lehetnek.",
+          "Legyen kéznél a személyi igazolványa a határátlépéshez, még ha ritka is az ellenőrzés."
+        ],
+        "ro": [
+          "Fiți atenți la semnele de parcare din centrul orașului.",
+          "Conducerea în oraș este ușoară, dar străzile pot fi înguste.",
+          "Aveți actul de identitate la îndemână pentru trecerea frontierei, chiar dacă verificările sunt rare."
+        ],
+        "en": [
+          "Pay attention to parking signs in the town center.",
+          "Driving in town is easy, but streets can be narrow.",
+          "Have your ID ready for crossing the border, even if checks are rare."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Vilar Formoso",
+            "hu": "Érkezés a Vilar Formoso vasútállomásra",
+            "ro": "Sosire la Gara Vilar Formoso",
+            "en": "Arrival at Vilar Formoso Station"
+          },
+          "coords": [
+            -6.8299,
+            40.5845
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour direkt am Ankunftsort, dem historischen Bahnhof.",
+            "hu": "Kezdje a túrát közvetlenül az érkezési helyszínen, a történelmi vasútállomáson.",
+            "ro": "Începeți turul chiar de la punctul de sosire, gara istorică.",
+            "en": "Start your tour right where you arrive, the historic train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Largo da Estação",
+            "hu": "Largo da Estação (Állomás tér)",
+            "ro": "Largo da Estação (Piața Gării)",
+            "en": "Largo da Estação (Station Square)"
+          },
+          "coords": [
+            -6.8305,
+            40.584
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:32",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Platz liegt direkt vor dem Bahnhof und ist Ihr erster Spaziergang des Tages.",
+            "hu": "A tér közvetlenül az állomás előtt található, ez a nap első sétája.",
+            "ro": "Piața este chiar în fața gării, fiind prima plimbare a zilei.",
+            "en": "The square is just in front of the station, your first walk of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Vilar Formoso",
+            "hu": "Vilar Formoso főtemploma",
+            "ro": "Biserica Matriz din Vilar Formoso",
+            "en": "Main Church of Vilar Formoso"
+          },
+          "coords": [
+            -6.8345,
+            40.5831
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:56",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch das Zentrum führt Sie zu diesem wichtigen Ort.",
+            "hu": "Egy rövid séta a központon keresztül elvezeti ehhez a fontos helyhez.",
+            "ro": "O scurtă plimbare prin centru vă duce la acest loc important.",
+            "en": "A short walk through the center brings you to this important site."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Vilar Formoso Grenze des Friedens",
+            "hu": "Vilar Formoso, a Béke Határa Múzeum",
+            "ro": "Muzeul Vilar Formoso Frontiera Păcii",
+            "en": "Vilar Formoso Frontier of Peace Museum"
+          },
+          "coords": [
+            -6.8258,
+            40.6133
+          ],
+          "category": "museums",
+          "arrive_at": "10:51",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus oder ein Taxi, um diesen etwas weiter entfernten, aber wichtigen Ort zu erreichen.",
+            "hu": "Vegyen igénybe egy helyi buszt vagy taxit, hogy elérje ezt a kissé távolabbi, de fontos helyet.",
+            "ro": "Luați un autobuz local sau un taxi pentru a ajunge la acest loc puțin mai îndepărtat, dar esențial.",
+            "en": "Take a local bus or taxi to reach this slightly more distant but essential site."
+          }
+        },
+        {
+          "name": {
+            "de": "Portugiesisch-Spanische Grenze",
+            "hu": "Portugál-Spanyol Határ",
+            "ro": "Frontiera Luso-Spaniolă",
+            "en": "Portuguese-Spanish Border"
+          },
+          "coords": [
+            -6.8233,
+            40.615
+          ],
+          "category": "historical",
+          "arrive_at": "12:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Museum aus ist es ein einfacher Spaziergang, um die Grenze zu überqueren.",
+            "hu": "A múzeumtól könnyű séta a határátkelés.",
+            "ro": "De la muzeu este o plimbare ușoară pentru a trece granița.",
+            "en": "From the museum, it's an easy walk to cross the border line."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Kämpfer",
+            "hu": "Harcosok emlékműve",
+            "ro": "Monumentul Combatanților",
+            "en": "Monument to the Combatants"
+          },
+          "coords": [
+            -6.8321,
+            40.5838
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:41",
+          "stay_min": 30,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum, um diesen Ort der Besinnung zu besuchen.",
+            "hu": "Menjen vissza busszal a központba, hogy meglátogassa ezt az elmélkedésre szolgáló helyet.",
+            "ro": "Luați un autobuz înapoi în centru pentru a vizita acest loc de reflecție.",
+            "en": "Take a bus back to the center to visit this place of reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise beginnt am Bahnhof Vilar Formoso. Erkunden Sie die unmittelbare Umgebung zu Fuß, bevor Sie einen Bus zum Museum 'Grenze des Friedens' und zur spanischen Grenze nehmen. Am Nachmittag kehren Sie mit dem Bus ins Zentrum zurück, um die restlichen Sehenswürdigkeiten zu besichtigen. Diese Route kombiniert bequeme Spaziergänge mit der Effizienz des öffentlichen Nahverkehrs, um die wichtigsten Orte der Stadt abzudecken.",
+        "hu": "Az utazás a Vilar Formoso vasútállomáson kezdődik. Fedezze fel gyalog a közvetlen környéket, mielőtt busszal menne a 'Béke Határa' múzeumhoz és a spanyol határhoz. Délután busszal térjen vissza a központba, hogy megnézze a többi látnivalót. Ez az útvonal a kényelmes sétákat a tömegközlekedés hatékonyságával ötvözi, hogy lefedje a város legfontosabb helyszíneit.",
+        "ro": "Călătoria dvs. începe la gara Vilar Formoso. Explorați zona imediată pe jos înainte de a lua un autobuz spre Muzeul 'Frontiera Păcii' și granița cu Spania. După-amiaza, reveniți cu autobuzul în centru pentru a vizita obiectivele rămase. Acest traseu combină plimbările confortabile cu eficiența transportului public pentru a acoperi siturile cheie ale orașului.",
+        "en": "Your journey begins at Vilar Formoso station. Explore the immediate area on foot before taking a bus to the 'Frontier of Peace' Museum and the Spanish border. In the afternoon, return to the center by bus to visit the remaining sights. This route blends comfortable walks with the efficiency of public transit to cover the town's key sites."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Feijoada à Transmontana",
+            "tip": "Ein reichhaltiger Bohneneintopf mit verschiedenen Fleischsorten. Ein Muss in dieser Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Feijoada à Transmontana",
+            "tip": "Gazdag bableves különféle húsokkal. Kötelező ebben a régióban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Feijoada à Transmontana",
+            "tip": "O tocană bogată de fasole cu diverse tipuri de carne. O necesitate în această regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Feijoada à Transmontana",
+            "tip": "A rich bean stew with various meats. A must-try in this region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein Café am Largo da Estação",
+            "tip": "Beobachten Sie das Leben bei einer Tasse Kaffee.",
+            "emoji": "☕"
+          },
+          {
+            "name": "Die Gärten um die Kirche",
+            "tip": "Ein ruhiger Ort für eine kurze Pause.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy kávézó a Largo da Estação-n",
+            "tip": "Figyelje az életet egy csésze kávé mellett.",
+            "emoji": "☕"
+          },
+          {
+            "name": "A templom körüli kertek",
+            "tip": "Csendes hely egy rövid szünetre.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O cafenea în Largo da Estação",
+            "tip": "Priviți viața trecând cu o ceașcă de cafea.",
+            "emoji": "☕"
+          },
+          {
+            "name": "Grădinile din jurul bisericii",
+            "tip": "Un loc liniștit pentru o scurtă pauză.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "A café in Largo da Estação",
+            "tip": "Watch life go by with a cup of coffee.",
+            "emoji": "☕"
+          },
+          {
+            "name": "The gardens around the church",
+            "tip": "A quiet spot for a short break.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Weine",
+            "tip": "Suchen Sie nach Weinen aus der Region Beira Interior in den örtlichen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Regionális borok",
+            "tip": "Keresse a Beira Interior régió borait a helyi boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri regionale",
+            "tip": "Căutați vinuri din regiunea Beira Interior în magazinele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional Wines",
+            "tip": "Look for wines from the Beira Interior region in local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Fahrpläne der lokalen Busse.",
+          "Haben Sie etwas Kleingeld für Bustickets dabei.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß zu erreichen."
+        ],
+        "hu": [
+          "Előre tájékozódjon a helyi buszok menetrendjéről.",
+          "Legyen Önnél aprópénz a buszjegyekhez.",
+          "A központ legtöbb látnivalója könnyen elérhető gyalog."
+        ],
+        "ro": [
+          "Verificați în avans orarele autobuzelor locale.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Check local bus schedules in advance.",
+          "Have some small change ready for bus tickets.",
+          "Most central sights are easily walkable from each other."
+        ]
+      }
+    }
+  }
+}

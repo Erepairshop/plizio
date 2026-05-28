@@ -1,0 +1,1197 @@
+{
+  "city_id": "martonvasar",
+  "anchor": {
+    "name": "Martonvásár",
+    "coords": [
+      18.7833,
+      47.3167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Schlosspark",
+            "hu": "Érkezés a Kastélyparkba",
+            "ro": "Sosire la Parcul Castelului",
+            "en": "Arrival at the Castle Park"
+          },
+          "coords": [
+            18.7838,
+            47.3175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Spaziergang, um die Atmosphäre aufzusaugen.",
+            "hu": "Kezdje a napot egy sétával, hogy ráhangolódjon a hely szellemére.",
+            "ro": "Începeți ziua cu o plimbare pentru a absorbi atmosfera locului.",
+            "en": "Start your day with a stroll to soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Beethoven-Statue",
+            "hu": "Beethoven-szobor",
+            "ro": "Statuia lui Beethoven",
+            "en": "Beethoven Statue"
+          },
+          "coords": [
+            18.783,
+            47.317
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:33",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Foto und um des Besuchs des Komponisten zu gedenken.",
+            "hu": "Tökéletes hely egy fotóhoz és a zeneszerző látogatásának felidézéséhez.",
+            "ro": "Un loc perfect pentru o fotografie și pentru a comemora vizita compozitorului.",
+            "en": "A perfect spot for a photo and to commemorate the composer's visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Brunszvik",
+            "hu": "Brunszvik-kastély",
+            "ro": "Castelul Brunszvik",
+            "en": "Brunszvik Castle"
+          },
+          "coords": [
+            18.7833,
+            47.3167
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die Beethoven-Verbindung zu verstehen.",
+            "hu": "Vegyen részt egy tárlatvezetésen, hogy megértse a Beethoven-kötődést.",
+            "ro": "Participați la un tur ghidat pentru a înțelege legătura cu Beethoven.",
+            "en": "Join a guided tour to understand the Beethoven connection."
+          }
+        },
+        {
+          "name": {
+            "de": "Beethoven-Gedenkmuseum",
+            "hu": "Beethoven Emlékmúzeum",
+            "ro": "Muzeul Memorial Beethoven",
+            "en": "Beethoven Memorial Museum"
+          },
+          "coords": [
+            18.7835,
+            47.3165
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Innerhalb des Schlosses gelegen, ist es ein Muss für Musikliebhaber.",
+            "hu": "A kastélyon belül található, zenerajongóknak kötelező.",
+            "ro": "Situat în interiorul castelului, este o vizită obligatorie pentru iubitorii de muzică.",
+            "en": "Located inside the castle, it's a must-see for music lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Kindergartenmuseum",
+            "hu": "Óvodamúzeum",
+            "ro": "Muzeul Grădiniței",
+            "en": "Kindergarten Museum"
+          },
+          "coords": [
+            18.784,
+            47.3169
+          ],
+          "category": "museums",
+          "arrive_at": "12:26",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte des ersten Kindergartens in Ungarn.",
+            "hu": "Ismerje meg Magyarország első óvodájának történetét.",
+            "ro": "Descoperiți istoria primei grădinițe din Ungaria.",
+            "en": "Discover the history of the first kindergarten in Hungary."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Anna-Kirche",
+            "hu": "Szent Anna-templom",
+            "ro": "Biserica Sfânta Ana",
+            "en": "St. Anne's Church"
+          },
+          "coords": [
+            18.7855,
+            47.3172
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:28",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein Moment der Ruhe in dieser charmanten neugotischen Kirche.",
+            "hu": "Egy csendes pillanat ebben a bájos neogótikus templomban.",
+            "ro": "Un moment de liniște în această fermecătoare biserică neogotică.",
+            "en": "A moment of peace inside this charming neo-Gothic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Schlosssee",
+            "hu": "Séta a Kastély-tó partján",
+            "ro": "Plimbare pe malul lacului",
+            "en": "Walk by the Castle Lake"
+          },
+          "coords": [
+            18.781,
+            47.315
+          ],
+          "category": "natural features",
+          "arrive_at": "14:26",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss des Tages mit einem entspannten Spaziergang.",
+            "hu": "Tökéletes lezárása a napnak egy pihentető sétával.",
+            "ro": "Încheierea perfectă a zilei cu o plimbare relaxantă.",
+            "en": "The perfect end to the day with a relaxing walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Martonvásár beginnt im bezaubernden englischen Garten des Schlosses Brunszvik. Am Vormittag tauchen Sie in die Geschichte ein, erkunden das Schloss und die Museen, die Beethoven und der Bildung gewidmet sind. Der Nachmittag steht im Zeichen der Ruhe: Nach dem Besuch der St.-Anna-Kirche entspannen Sie bei einem langen Spaziergang am malerischen Schlosssee. Am Abend genießen Sie die ruhige Atmosphäre dieses historischen Ortes.",
+        "hu": "Martonvásári napja a Brunszvik-kastély varázslatos angolkertjében kezdődik. A délelőtt a történelemé: felfedezi a kastélyt és a Beethoven, valamint az oktatás-történet előtt tisztelgő múzeumokat. A délután a nyugalomé: a Szent Anna-templom megtekintése után egy hosszú sétával pihenhet a festői Kastély-tó partján. Este élvezze ennek a történelmi helynek a csendes hangulatát.",
+        "ro": "Ziua dvs. la Martonvásár începe în fermecătoarea grădină englezească a Castelului Brunszvik. Dimineața este dedicată istoriei, explorând castelul și muzeele dedicate lui Beethoven și educației. După-amiaza este pentru liniște: după vizitarea Bisericii Sf. Ana, vă relaxați cu o plimbare lungă pe malul pitorescului lac al castelului. Seara, vă bucurați de atmosfera liniștită a acestui loc istoric.",
+        "en": "Your day in Martonvásár begins in the enchanting English garden of the Brunszvik Castle. The morning is for history, exploring the castle and the museums dedicated to Beethoven and education. The afternoon is for tranquility: after visiting St. Anne's Church, you relax with a long walk by the scenic Castle Lake. In the evening, enjoy the quiet atmosphere of this historic place."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Postakocsi Étterem",
+            "tip": "Probieren Sie das Rindergulasch nach einem langen Spaziergang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Postakocsi Étterem",
+            "tip": "Egy kiadós marhapörköltet kóstoljon meg a hosszú séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Postakocsi",
+            "tip": "Încercați un gulaș de vită consistent după o plimbare lungă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postakocsi Restaurant",
+            "tip": "Try a hearty beef goulash after a long walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Insel im Schlosssee",
+            "tip": "Ein ruhiger Ort, um die Enten zu beobachten und nachzudenken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alter Baum im Schlosspark",
+            "tip": "Setzen Sie sich unter einen der jahrhundertealten Bäume und lesen Sie ein Buch.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Kastély-tó szigete",
+            "tip": "Csendes hely a kacsák figyelésére és elmélkedésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Öreg fa a Kastélyparkban",
+            "tip": "Üljön le egy évszázados fa alá és olvasson egy könyvet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula de pe lacul castelului",
+            "tip": "Un loc liniștit pentru a privi rațele și a reflecta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Copac bătrân în parcul castelului",
+            "tip": "Stați sub unul dintre copacii seculari și citiți o carte.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Island on the Castle Lake",
+            "tip": "A quiet spot to watch the ducks and reflect.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Old tree in the Castle Park",
+            "tip": "Sit under one of the centuries-old trees and read a book.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop",
+            "tip": "Kaufen Sie ein Souvenir mit Beethoven-Thema oder ein Buch über die Geschichte des Kindergartens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Vásároljon egy Beethoven-témájú emléktárgyat vagy egy könyvet az óvoda történetéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Cumpărați un suvenir cu tematică Beethoven sau o carte despre istoria grădiniței."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Shop",
+            "tip": "Buy a Beethoven-themed souvenir or a book about the history of the kindergarten."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da sie saisonal variieren können.",
+          "Bringen Sie ein Picknick mit, um es im wunderschönen Park zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az egész napot talpon tölti.",
+          "Ellenőrizze előre a múzeumok nyitvatartását, mert szezonálisan változhat.",
+          "Hozzon magával piknikkosarat, és ebédeljen a gyönyörű parkban."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți sta în picioare toată ziua.",
+          "Verificați în avans orele de deschidere ale muzeelor, deoarece acestea pot varia sezonier.",
+          "Aduceți un picnic pentru a vă bucura de el în parcul frumos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet all day.",
+          "Check the museums' opening hours in advance as they can vary seasonally.",
+          "Bring a picnic to enjoy in the beautiful park."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start am Schlosspark",
+            "hu": "Kerékpárbérlés és indulás a Kastélyparknál",
+            "ro": "Închiriere biciclete și start la Parcul Castelului",
+            "en": "Bike Rental & Start at the Castle Park"
+          },
+          "coords": [
+            18.7838,
+            47.3175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Eine gemütliche Radtour ist der beste Weg, um die Gegend zu erkunden.",
+            "hu": "Egy kényelmes biciklitúra a legjobb módja a környék felfedezésének.",
+            "ro": "O plimbare relaxată cu bicicleta este cea mai bună modalitate de a explora zona.",
+            "en": "A leisurely bike ride is the best way to explore the area."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Anna-Kirche",
+            "hu": "Szent Anna-templom",
+            "ro": "Biserica Sfânta Ana",
+            "en": "St. Anne's Church"
+          },
+          "coords": [
+            18.7855,
+            47.3172
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:26",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad draußen und genießen Sie die neugotische Architektur.",
+            "hu": "Parkolja le a kerékpárt kint, és csodálja meg a neogótikus építészetet.",
+            "ro": "Parcați bicicleta afară și admirați arhitectura neogotică.",
+            "en": "Park your bike outside and admire the neo-Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Brunszvik",
+            "hu": "Brunszvik-kastély",
+            "ro": "Castelul Brunszvik",
+            "en": "Brunszvik Castle"
+          },
+          "coords": [
+            18.7833,
+            47.3167
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang ab und tauchen Sie ein in die Geschichte.",
+            "hu": "Zárja le a kerékpárt a bejáratnál, és merüljön el a történelemben.",
+            "ro": "Legați-vă bicicleta la intrare și scufundați-vă în istorie.",
+            "en": "Lock your bike at the entrance and immerse yourself in history."
+          }
+        },
+        {
+          "name": {
+            "de": "Beethoven-Gedenkmuseum",
+            "hu": "Beethoven Emlékmúzeum",
+            "ro": "Muzeul Memorial Beethoven",
+            "en": "Beethoven Memorial Museum"
+          },
+          "coords": [
+            18.7835,
+            47.3165
+          ],
+          "category": "museums",
+          "arrive_at": "11:24",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Befindet sich im Schloss, lassen Sie Ihr Fahrrad einfach draußen.",
+            "hu": "A kastélyban található, a kerékpárt hagyja kint.",
+            "ro": "Situat în castel, lăsați bicicleta afară.",
+            "en": "Located inside the castle, just leave your bike outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kindergartenmuseum",
+            "hu": "Óvodamúzeum",
+            "ro": "Muzeul Grădiniței",
+            "en": "Kindergarten Museum"
+          },
+          "coords": [
+            18.784,
+            47.3169
+          ],
+          "category": "museums",
+          "arrive_at": "12:26",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptschloss entfernt.",
+            "hu": "Rövid séta a fő kastélyépülettől.",
+            "ro": "O scurtă plimbare de la castelul principal.",
+            "en": "A short walk from the main castle building."
+          }
+        },
+        {
+          "name": {
+            "de": "Agroszász (Agrarforschung)",
+            "hu": "Agroverzum (Agrártudományi Kutatóközpont)",
+            "ro": "Agroverzum (Centrul de Cercetare Agricolă)",
+            "en": "Agroverzum (Agricultural Research Centre)"
+          },
+          "coords": [
+            18.789,
+            47.312
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:34",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine interessante Radtour zu diesem Zentrum für Agrarwissenschaft.",
+            "hu": "Érdekes kitérő az agrártudományi központhoz.",
+            "ro": "O plimbare interesantă cu bicicleta la acest centru de științe agricole.",
+            "en": "An interesting bike ride detour to this center of agricultural science."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung am Schlosssee",
+            "hu": "Pihenés a Kastély-tónál",
+            "ro": "Relaxare la lacul castelului",
+            "en": "Relaxing by the Castle Lake"
+          },
+          "coords": [
+            18.781,
+            47.315
+          ],
+          "category": "natural features",
+          "arrive_at": "14:50",
+          "stay_min": 95,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nach der Radtour können Sie sich am See entspannen und die Natur genießen.",
+            "hu": "A biciklizés után pihenjen a tó partján és élvezze a természetet.",
+            "ro": "După plimbarea cu bicicleta, relaxați-vă lângă lac și bucurați-vă de natură.",
+            "en": "After the bike ride, relax by the lake and enjoy nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf ein Fahrrad für eine aktive Erkundung von Martonvásár. Der Vormittag führt Sie durch das historische Herz der Stadt, vom Schloss und seinen Museen zur St.-Anna-Kirche. Am Nachmittag machen Sie einen Abstecher zum Agrarforschungszentrum, bevor Sie zum Schlosssee zurückkehren, um einen wohlverdienten, entspannten Ausklang des Tages zu genießen. Der Fahrtwind und die Flexibilität machen es zu einem unvergesslichen Erlebnis.",
+        "hu": "Pattanjon kerékpárra Martonvásár aktív felfedezéséhez. A délelőtt a város történelmi szívén vezet keresztül, a kastélytól és múzeumaitól a Szent Anna-templomig. Délután tegyen egy kitérőt az Agrártudományi Kutatóközponthoz, mielőtt visszatér a Kastély-tóhoz egy jól megérdemelt, pihentető napzárásra. A menetszél és a rugalmasság felejthetetlen élménnyé teszi a napot.",
+        "ro": "Urcați-vă pe bicicletă pentru o explorare activă a orașului Martonvásár. Dimineața vă poartă prin inima istorică a orașului, de la castel și muzeele sale la Biserica Sf. Ana. După-amiaza, faceți un ocol la centrul de cercetare agricolă înainte de a vă întoarce la lacul castelului pentru o relaxare binemeritată la sfârșitul zilei. Vântul și flexibilitatea vor face din aceasta o experiență de neuitat.",
+        "en": "Hop on a bike for an active exploration of Martonvásár. The morning takes you through the historical heart of the town, from the castle and its museums to St. Anne's Church. In the afternoon, you'll detour to the agricultural research center before returning to the Castle Lake for a well-deserved, relaxing end to the day. The breeze and flexibility make it an unforgettable experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Konditorei",
+            "tip": "Probieren Sie eine 'krémes' oder 'Dobos torta' für einen Energieschub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi cukrászda",
+            "tip": "Kóstoljon meg egy krémest vagy Dobos-tortát egy kis energiáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cofetărie locală",
+            "tip": "Încercați o 'krémes' sau 'prăjitură Doboș' pentru un plus de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Patisserie",
+            "tip": "Try a 'krémes' or 'Dobos torte' for an energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Feldwege um Martonvásár",
+            "tip": "Fahren Sie auf den ruhigen Wegen außerhalb der Stadt.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Bank am Schlosssee",
+            "tip": "Der beste Ort, um nach der Radtour zu verschnaufen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Földutak Martonvásár körül",
+            "tip": "Tekerjen egyet a város körüli csendes dűlőutakon.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Pad a Kastély-tónál",
+            "tip": "A legjobb hely a biciklizés utáni szusszanásra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumuri de țară în jurul Martonvásár",
+            "tip": "Faceți o plimbare pe drumurile liniștite din afara orașului.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Bancă lângă lacul castelului",
+            "tip": "Cel mai bun loc pentru a vă trage sufletul după plimbarea cu bicicleta.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Country roads around Martonvásár",
+            "tip": "Go for a ride on the quiet paths outside the town.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Bench by the Castle Lake",
+            "tip": "The best spot to catch your breath after the ride.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frisches Obst oder Honig aus der Region als gesunden Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss gyümölcsöt vagy helyi mézet egészséges uzsonnának."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați fructe proaspete sau miere locală pentru o gustare sănătoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local market",
+            "tip": "Buy some fresh fruit or local honey for a healthy snack."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie viel Wasser mit, besonders an warmen Tagen.",
+          "Ein Fahrradschloss ist unerlässlich, wenn Sie die Museen besuchen.",
+          "Die Wege im Park sind gut gepflegt und ideal zum Radfahren."
+        ],
+        "hu": [
+          "Hozzon magával sok vizet, különösen meleg napokon.",
+          "A kerékpárzár elengedhetetlen a múzeumi látogatások idejére.",
+          "A park útjai jól karbantartottak, ideálisak a kerékpározáshoz."
+        ],
+        "ro": [
+          "Luați multă apă, mai ales în zilele calde.",
+          "O încuietoare pentru bicicletă este esențială atunci când vizitați muzeele.",
+          "Aleile din parc sunt bine întreținute și ideale pentru ciclism."
+        ],
+        "en": [
+          "Bring plenty of water, especially on warm days.",
+          "A bike lock is essential for when you visit the museums.",
+          "The paths in the park are well-maintained and great for cycling."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 1.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Schlosspark",
+            "hu": "Parkolás a Kastélyparknál",
+            "ro": "Parcare la Parcul Castelului",
+            "en": "Parking at the Castle Park"
+          },
+          "coords": [
+            18.7845,
+            47.318
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier Ihr Auto für den Tag und erkunden Sie alles zu Fuß.",
+            "hu": "Hagyja itt az autót egész napra, és fedezzen fel mindent gyalog.",
+            "ro": "Parcați mașina aici pentru întreaga zi și explorați totul pe jos.",
+            "en": "Park your car here for the day and explore everything on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Brunszvik & Beethoven Museum",
+            "hu": "Brunszvik-kastély és Beethoven Múzeum",
+            "ro": "Castelul Brunszvik și Muzeul Beethoven",
+            "en": "Brunszvik Castle & Beethoven Museum"
+          },
+          "coords": [
+            18.7833,
+            47.3167
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 140,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch des Schlosses mit dem Museum, um Zeit zu sparen.",
+            "hu": "Kombinálja a kastély- és a múzeumlátogatást, hogy időt takarítson meg.",
+            "ro": "Combinați vizita la castel și muzeu pentru a economisi timp.",
+            "en": "Combine the castle and museum visit to save time."
+          }
+        },
+        {
+          "name": {
+            "de": "Kindergartenmuseum",
+            "hu": "Óvodamúzeum",
+            "ro": "Muzeul Grădiniței",
+            "en": "Kindergarten Museum"
+          },
+          "coords": [
+            18.784,
+            47.3169
+          ],
+          "category": "museums",
+          "arrive_at": "11:43",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss, ein einzigartiges Stück ungarischer Geschichte.",
+            "hu": "Rövid séta a kastélytól, egy egyedülálló darabja a magyar történelemnek.",
+            "ro": "O scurtă plimbare de la castel, o bucată unică din istoria maghiară.",
+            "en": "A short walk from the castle, a unique piece of Hungarian history."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Anna-Kirche",
+            "hu": "Szent Anna-templom",
+            "ro": "Biserica Sfânta Ana",
+            "en": "St. Anne's Church"
+          },
+          "coords": [
+            18.7855,
+            47.3172
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:38",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur, bevor Sie zu Mittag essen.",
+            "hu": "Csodálja meg az építészetet ebéd előtt.",
+            "ro": "Admirați arhitectura înainte de a lua prânzul.",
+            "en": "Admire the architecture before heading for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Postakocsi Étterem",
+            "hu": "Ebéd a Postakocsi Étteremben",
+            "ro": "Prânz la Restaurantul Postakocsi",
+            "en": "Lunch at Postakocsi Restaurant"
+          },
+          "coords": [
+            18.786,
+            47.3175
+          ],
+          "category": "gastro",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die traditionelle ungarische Küche.",
+            "hu": "Élvezze a tradicionális magyar konyhát.",
+            "ro": "Bucurați-vă de bucătăria tradițională maghiară.",
+            "en": "Enjoy traditional Hungarian cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Erkundung des Schlossparks und des Sees",
+            "hu": "A Kastélypark és a tó felfedezése",
+            "ro": "Explorarea parcului și a lacului castelului",
+            "en": "Exploring the Castle Park and Lake"
+          },
+          "coords": [
+            18.781,
+            47.315
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 130,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verbringen Sie den Rest des Nachmittags mit einem Spaziergang und Entspannen.",
+            "hu": "Töltse a délután hátralévő részét sétával és pihenéssel.",
+            "ro": "Petreceți restul după-amiezii plimbându-vă și relaxându-vă.",
+            "en": "Spend the rest of the afternoon walking and relaxing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto nach Martonvásár zu kommen, bietet Komfort. Parken Sie Ihr Auto und beginnen Sie Ihre Erkundung zu Fuß. Der Vormittag ist der Kultur gewidmet, mit Besuchen im prächtigen Schloss Brunszvik und den dazugehörigen Museen. Nach einem traditionellen ungarischen Mittagessen verbringen Sie einen entspannten Nachmittag damit, durch den riesigen Schlosspark zu schlendern und die Ruhe des Sees zu genießen. Alles ist zu Fuß erreichbar, was es zu einem stressfreien Tagesausflug macht.",
+        "hu": "Az autóval érkezés kényelmet biztosít Martonvásáron. Parkolja le autóját, és kezdje meg gyalogos felfedezőútját. A délelőtt a kultúráé, a csodálatos Brunszvik-kastély és a hozzá tartozó múzeumok meglátogatásával. Egy hagyományos magyar ebéd után egy pihentető délutánt tölthet a hatalmas kastélyparkban sétálva és a tó nyugalmát élvezve. Minden sétatávolságra van, ami stresszmentes napot garantál.",
+        "ro": "Venirea cu mașina la Martonvásár oferă confort. Parcați mașina și începeți explorarea pe jos. Dimineața este dedicată culturii, cu vizite la magnificul Castel Brunszvik și muzeele sale. După un prânz tradițional maghiar, petreceți o după-amiază relaxantă plimbându-vă prin vastul parc al castelului și bucurându-vă de liniștea lacului. Totul este la distanță de mers pe jos, ceea ce face din aceasta o excursie de o zi fără stres.",
+        "en": "Arriving by car offers convenience in Martonvásár. Park your car and begin your exploration on foot. The morning is dedicated to culture, with visits to the magnificent Brunszvik Castle and its museums. After a traditional Hungarian lunch, spend a relaxing afternoon strolling through the vast castle park and enjoying the tranquility of the lake. Everything is within walking distance, making for a stress-free day trip."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Postakocsi Étterem",
+            "tip": "Bekannt für seine authentische, herzhafte Küche. Reservieren Sie am Wochenende."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Postakocsi Étterem",
+            "tip": "Híres az autentikus, házias konyhájáról. Hétvégén foglaljon asztalt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Postakocsi",
+            "tip": "Renumit pentru bucătăria sa autentică și consistentă. Rezervați în weekend."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postakocsi Restaurant",
+            "tip": "Known for its authentic, hearty cuisine. Make reservations on weekends."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die hinteren Wege des Parks",
+            "tip": "Entfliehen Sie den Menschenmassen auf den weniger begangenen Wegen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Früher Morgen am See",
+            "tip": "Kommen Sie früh an, um den Nebel über dem Wasser zu sehen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A park hátsó ösvényei",
+            "tip": "Kerülje el a tömeget a kevésbé járt utakon.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kora reggel a tónál",
+            "tip": "Érkezzen korán, hogy lássa a víz felett lebegő párát.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărările din spatele parcului",
+            "tip": "Evitați mulțimea pe cărările mai puțin circulate.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Dimineața devreme la lac",
+            "tip": "Ajungeți devreme pentru a vedea ceața de deasupra apei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The back paths of the park",
+            "tip": "Escape the crowds on the less-traveled paths.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Early morning at the lake",
+            "tip": "Arrive early to see the mist over the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Läden im Dorf",
+            "tip": "Suchen Sie nach handgefertigten Waren und lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis boltok a faluban",
+            "tip": "Keressen kézműves termékeket és helyi árukat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici magazine în sat",
+            "tip": "Căutați produse artizanale și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small shops in the village",
+            "tip": "Look for handcrafted goods and local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt genügend kostenlose Parkplätze in der Nähe des Schlosseingangs.",
+          "Das Auto ermöglicht es Ihnen, leicht einen größeren Picknickkorb mitzubringen.",
+          "Kombinieren Sie den Besuch mit anderen Sehenswürdigkeiten in der Region Fejér, wie dem Velencer See."
+        ],
+        "hu": [
+          "A kastély bejáratához közel bőséges ingyenes parkoló áll rendelkezésre.",
+          "Az autó lehetővé teszi, hogy könnyedén hozzon egy nagyobb piknikkosarat.",
+          "Kombinálja a látogatást más Fejér megyei látnivalókkal, például a Velencei-tóval."
+        ],
+        "ro": [
+          "Există o parcare gratuită amplă lângă intrarea în castel.",
+          "Mașina vă permite să aduceți cu ușurință un coș de picnic mai mare.",
+          "Combinați vizita cu alte atracții din regiunea Fejér, cum ar fi Lacul Velence."
+        ],
+        "en": [
+          "There is ample free parking near the castle entrance.",
+          "The car allows you to easily bring a larger picnic basket.",
+          "Combine the visit with other sights in the Fejér region, like Lake Velence."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Martonvásár",
+            "hu": "Érkezés a martonvásári vasútállomásra",
+            "ro": "Sosire la gara Martonvásár",
+            "en": "Arrival at Martonvásár Train Station"
+          },
+          "coords": [
+            18.7778,
+            47.3233
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof ist es ein angenehmer Spaziergang zum Schloss.",
+            "hu": "Az állomástól kellemes séta vezet a kastélyhoz.",
+            "ro": "De la gară este o plimbare plăcută până la castel.",
+            "en": "It's a pleasant walk from the station to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang durch den Schlosspark",
+            "hu": "Séta a Kastélyparkon át",
+            "ro": "Plimbare prin Parcul Castelului",
+            "en": "Walk through the Castle Park"
+          },
+          "coords": [
+            18.7838,
+            47.3175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:30",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie auf dem Weg zum Schloss die wunderschöne Landschaftsgestaltung.",
+            "hu": "Élvezze a gyönyörű tájépítészetet a kastély felé vezető úton.",
+            "ro": "Bucurați-vă de peisajul frumos în drum spre castel.",
+            "en": "Enjoy the beautiful landscaping on your way to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Brunszvik & Beethoven Museum",
+            "hu": "Brunszvik-kastély és Beethoven Múzeum",
+            "ro": "Castelul Brunszvik și Muzeul Beethoven",
+            "en": "Brunszvik Castle & Beethoven Museum"
+          },
+          "coords": [
+            18.7833,
+            47.3167
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:06",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für beides ein, es ist der Höhepunkt des Tages.",
+            "hu": "Tervezzen elég időt mindkettőre, ez a nap fénypontja.",
+            "ro": "Alocați suficient timp pentru ambele, este punctul culminant al zilei.",
+            "en": "Allocate plenty of time for both, it's the highlight of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kindergartenmuseum & St.-Anna-Kirche",
+            "hu": "Óvodamúzeum és Szent Anna-templom",
+            "ro": "Muzeul Grădiniței și Biserica Sfânta Ana",
+            "en": "Kindergarten Museum & St. Anne's Church"
+          },
+          "coords": [
+            18.7848,
+            47.317
+          ],
+          "category": "museums",
+          "arrive_at": "12:44",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese beiden nahe gelegenen Sehenswürdigkeiten zusammen.",
+            "hu": "Nézze meg ezt a két közeli látnivalót együtt.",
+            "ro": "Vizitați împreună aceste două atracții din apropiere.",
+            "en": "Visit these two nearby attractions together."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang und Entspannung am Schlosssee",
+            "hu": "Séta és pihenés a Kastély-tónál",
+            "ro": "Plimbare și relaxare la lacul castelului",
+            "en": "Walk and relax at the Castle Lake"
+          },
+          "coords": [
+            18.781,
+            47.315
+          ],
+          "category": "natural features",
+          "arrive_at": "14:12",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Finden Sie eine Bank und genießen Sie die friedliche Atmosphäre.",
+            "hu": "Keressen egy padot és élvezze a békés hangulatot.",
+            "ro": "Găsiți o bancă și bucurați-vă de atmosfera pașnică.",
+            "en": "Find a bench and enjoy the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückweg zum Bahnhof",
+            "hu": "Visszaséta a vasútállomásra",
+            "ro": "Plimbare înapoi la gară",
+            "en": "Walk back to the train station"
+          },
+          "coords": [
+            18.7778,
+            47.3233
+          ],
+          "category": "transport",
+          "arrive_at": "16:02",
+          "stay_min": 53,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für den Rückweg ein, um Ihren Zug nicht zu verpassen.",
+            "hu": "Tervezzen elég időt a visszaútra, hogy ne késse le a vonatot.",
+            "ro": "Asigurați-vă timp suficient pentru plimbarea înapoi pentru a nu pierde trenul.",
+            "en": "Allow plenty of time for the walk back to not miss your train."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Tagesausflug mit dem Zug von Budapest nach Martonvásár ist eine reizvolle Erfahrung. Nach Ihrer Ankunft führt Sie ein kurzer Spaziergang zum Herzen der Stadt: dem Schlosskomplex. Der ganze Tag ist eine einzige Wanderung, die Sie von den historischen Museen zur Kirche und schließlich zum ruhigen See führt. Am späten Nachmittag schlendern Sie gemütlich zurück zum Bahnhof, erfüllt von einem Tag voller Musikgeschichte und Naturschönheit.",
+        "hu": "Egy napos kirándulás vonattal Budapestről Martonvásárra elragadó élmény. Érkezés után egy rövid séta vezet a város szívébe: a kastélykomplexumhoz. Az egész nap egyetlen nagy séta, amely a történelmi múzeumoktól a templomig, végül pedig a csendes tóig vezet. Késő délután kényelmesen visszasétál az állomásra, feltöltődve a zenetörténelemmel és természeti szépséggel teli nappal.",
+        "ro": "O excursie de o zi cu trenul de la Budapesta la Martonvásár este o experiență încântătoare. La sosire, o scurtă plimbare vă duce în inima orașului: complexul castelului. Întreaga zi este o singură plimbare, de la muzeele istorice la biserică și, în final, la lacul liniștit. La sfârșitul după-amiezii, vă plimbați agale înapoi la gară, plini de o zi de istorie muzicală și frumusețe naturală.",
+        "en": "A day trip by train from Budapest to Martonvásár is a delightful experience. Upon arrival, a short walk takes you to the heart of the town: the castle complex. The entire day is a single walking tour, leading you from the historical museums to the church, and finally to the tranquil lake. In the late afternoon, you'll stroll leisurely back to the station, filled with a day of musical history and natural beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Snacks aus einem lokalen Geschäft",
+            "tip": "Kaufen Sie 'pogácsa' oder Sandwiches für ein schnelles Mittagessen im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falatozás egy helyi boltból",
+            "tip": "Vásároljon pogácsát vagy szendvicset egy gyors ebédhez a parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustări de la un magazin local",
+            "tip": "Cumpărați 'pogácsa' sau sandvișuri pentru un prânz rapid în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snacks from a local shop",
+            "tip": "Buy 'pogácsa' or sandwiches for a quick lunch in the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine stille Bank im englischen Garten",
+            "tip": "Lesen Sie über Beethoven, während Sie von der Inspiration umgeben sind.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Beobachten der Vögel am See",
+            "tip": "Ein friedlicher Zeitvertreib am Nachmittag.",
+            "emoji": "🐦"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes pad az angolkertben",
+            "tip": "Olvasson Beethovenről, miközben az inspiráció veszi körül.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Madárles a tónál",
+            "tip": "Békés délutáni időtöltés.",
+            "emoji": "🐦"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă liniștită în grădina engleză",
+            "tip": "Citiți despre Beethoven înconjurat de inspirație.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Observarea păsărilor la lac",
+            "tip": "O distracție pașnică de după-amiază.",
+            "emoji": "🐦"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet bench in the English garden",
+            "tip": "Read about Beethoven while surrounded by his inspiration.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Birdwatching by the lake",
+            "tip": "A peaceful afternoon pastime.",
+            "emoji": "🐦"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten am Bahnhofskiosk",
+            "tip": "Senden Sie eine Postkarte, bevor Sie nach Hause fahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok a vasúti kioszkban",
+            "tip": "Trimiteți o carte poștală înainte de a pleca acasă.",
+            "ro": "Cărți poștale la chioșcul din gară"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărți poștale la chioșcul din gară",
+            "tip": "Trimiteți o carte poștală înainte de a pleca acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards at the station kiosk",
+            "tip": "Send a postcard before you head home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zugfahrplan im Voraus und kaufen Sie ein Rückfahrticket, um Geld zu sparen.",
+          "Der Zug von Budapest (Déli pályaudvar) dauert etwa 30 Minuten.",
+          "Die meisten Attraktionen sind montags geschlossen, planen Sie entsprechend."
+        ],
+        "hu": [
+          "Ellenőrizze előre a vonatmenetrendet, és vegyen retúrjegyet a spórolás érdekében.",
+          "A vonat Budapestről (Déli pályaudvar) körülbelül 30 perc alatt ér ki.",
+          "A legtöbb látnivaló hétfőn zárva van, tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Verificați din timp orarul trenurilor și cumpărați un bilet dus-întors pentru a economisi bani.",
+          "Trenul din Budapesta (gara Déli) durează aproximativ 30 de minute.",
+          "Majoritatea atracțiilor sunt închise lunea, planificați-vă în consecință."
+        ],
+        "en": [
+          "Check the train schedule in advance and buy a return ticket to save money.",
+          "The train from Budapest (Déli railway station) takes about 30 minutes.",
+          "Most attractions are closed on Mondays, plan accordingly."
+        ]
+      }
+    }
+  }
+}

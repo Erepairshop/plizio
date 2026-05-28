@@ -1,0 +1,1492 @@
+{
+  "city_id": "northmacedonia-kriva-palanka-cities-v2",
+  "anchor": {
+    "name": "Kriwa Palanka",
+    "coords": [
+      22.265,
+      42.2033
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 1.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal der gefallenen Soldaten",
+            "hu": "Elesett Katonák Emlékműve",
+            "ro": "Monumentul soldaților căzuți",
+            "en": "Monument to the Fallen Soldiers"
+          },
+          "coords": [
+            22.265,
+            42.202
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, aber ergreifender Halt, um die lokale Geschichte zu ehren.",
+            "hu": "Egy rövid, de megindító megálló a helyi történelem tiszteletére.",
+            "ro": "O oprire scurtă, dar emoționantă pentru a onora istoria locală.",
+            "en": "A brief but poignant stop to honor the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Demetrius-Kirche",
+            "hu": "Szent Demeter-templom",
+            "ro": "Biserica Sfântul Dimitrie",
+            "en": "St. Demetrius Church"
+          },
+          "coords": [
+            22.266,
+            42.203
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Ikonostase und die Holzschnitzereien im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző ikonosztázt és a belső fafaragásokat.",
+            "ro": "Observați iconostasul impresionant și sculpturile în lemn din interior.",
+            "en": "Look for the impressive iconostasis and the wood carvings inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Kriva Palanka",
+            "hu": "Kriva Palanka Múzeuma",
+            "ro": "Muzeul din Kriva Palanka",
+            "en": "Museum of Kriva Palanka"
+          },
+          "coords": [
+            22.263,
+            42.204
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum gibt einen guten Einblick in die Ethnologie der Region Osogovo.",
+            "hu": "A múzeum jó betekintést nyújt az Osogovo régió etnológiájába.",
+            "ro": "Muzeul oferă o perspectivă bună asupra etnologiei regiunii Osogovo.",
+            "en": "The museum provides good insight into the ethnology of the Osogovo region."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Kriva Palanka",
+            "hu": "Kriva Palanka Kulturális Központ",
+            "ro": "Centrul Cultural Kriva Palanka",
+            "en": "Kriva Palanka Cultural Center"
+          },
+          "coords": [
+            22.264,
+            42.205
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob während Ihres Besuchs eine lokale Ausstellung oder Veranstaltung stattfindet.",
+            "hu": "Nézze meg, hogy van-e helyi kiállítás vagy esemény a látogatása során.",
+            "ro": "Verificați dacă există o expoziție sau un eveniment local în timpul vizitei dvs.",
+            "en": "Check if there's a local exhibition or event happening during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            22.267,
+            42.2035
+          ],
+          "category": "gastro",
+          "arrive_at": "12:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie Tavče Gravče in einem der lokalen Restaurants für ein authentisches Erlebnis.",
+            "hu": "Kóstolja meg a Tavče Gravče-t egy helyi étteremben az autentikus élményért.",
+            "ro": "Încercați Tavče Gravče la unul dintre restaurantele locale pentru o experiență autentică.",
+            "en": "Try Tavče Gravče at one of the local restaurants for an authentic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            22.268,
+            42.204
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um sich nach dem Mittagessen zu entspannen und die Einheimischen zu beobachten.",
+            "hu": "Egy szép hely a pihenésre ebéd után és a helyiek megfigyelésére.",
+            "ro": "Un loc frumos pentru a vă relaxa după prânz și a privi localnicii.",
+            "en": "A lovely spot to relax after lunch and watch the locals go by."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriva-Reka-Ufer",
+            "hu": "Kriva Reka folyópart",
+            "ro": "Malul râului Kriva Reka",
+            "en": "Kriva Reka Riverbank"
+          },
+          "coords": [
+            22.265,
+            42.201
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen ruhigen Spaziergang am späten Nachmittag.",
+            "hu": "Tökéletes hely egy csendes késő délutáni sétához.",
+            "ro": "Locul perfect pentru o plimbare liniștită la sfârșitul după-amiezii.",
+            "en": "The perfect place for a quiet late afternoon walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Kriva Palanka, wo Geschichte in der Luft liegt. Am Vormittag erkunden Sie die religiösen und kulturellen Wahrzeichen, die nur wenige Schritte voneinander entfernt sind und einen Einblick in die Seele der Stadt geben. Nach einem authentischen mazedonischen Mittagessen können Sie am Nachmittag im Stadtpark entspannen und den Tag mit einem friedlichen Spaziergang am Ufer des Flusses Kriva Reka ausklingen lassen. Dieser kompakte Rundgang zeigt das Beste des städtischen Charmes von Kriva Palanka.",
+        "hu": "Kezdje a napot Kriva Palanka szívében, ahol a történelem áthatja a levegőt. A délelőttöt a vallási és kulturális nevezetességek felfedezésével tölti, melyek mind sétatávolságra vannak, bepillantást nyújtva a város lelkébe. Egy autentikus macedón ebéd után a délután a városi parkban való pihenésről szól, a napot pedig egy békés sétával zárja a Kriva Reka folyó partján. Ez a kompakt séta Kriva Palanka városi bájának legjavát mutatja be.",
+        "ro": "Începeți ziua în inima orașului Kriva Palanka, unde istoria plutește în aer. Dimineața este dedicată explorării reperelor religioase și culturale, toate la câțiva pași distanță, oferind o privire în sufletul orașului. După un prânz macedonean autentic, după-amiaza este pentru relaxare în Parcul Orașului, încheind ziua cu o plimbare liniștită de-a lungul malului râului Kriva Reka. Acest tur pietonal compact prezintă tot ce este mai bun din farmecul urban al orașului Kriva Palanka.",
+        "en": "Start your day in the heart of Kriva Palanka, where history is in the air. The morning is for exploring the religious and cultural landmarks, all a short walk from each other, offering a glimpse into the city's soul. After an authentic Macedonian lunch, the afternoon is for relaxing in the City Park, ending your day with a peaceful stroll along the Kriva Reka riverbank. This compact walking tour showcases the best of Kriva Palanka's urban charm."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavče Gravče",
+            "tip": "Ein traditionelles Gericht aus im Ofen gebackenen Bohnen, ein Muss in Mazedonien."
+          },
+          {
+            "name": "Ajvar",
+            "tip": "Ein schmackhafter Aufstrich aus gerösteten roten Paprika, perfekt als Vorspeise."
+          },
+          {
+            "name": "Lokaler Käse",
+            "tip": "Probieren Sie den weißen Salzlakenkäse (Sirene), der oft in Salaten verwendet wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavče Gravče",
+            "tip": "Hagyományos sült babétel, amit Macedóniában kötelező megkóstolni."
+          },
+          {
+            "name": "Ajvár",
+            "tip": "Ízletes sült pirospaprika-krém, tökéletes előételként."
+          },
+          {
+            "name": "Helyi sajt",
+            "tip": "Kóstolja meg a fehér sós sajtot (sirene), amelyet gyakran használnak salátákhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavče Gravče",
+            "tip": "Un fel de mâncare tradițional cu fasole la cuptor, obligatoriu de încercat în Macedonia."
+          },
+          {
+            "name": "Ajvar",
+            "tip": "O pastă gustoasă din ardei roșii copți, perfectă ca aperitiv."
+          },
+          {
+            "name": "Brânză locală",
+            "tip": "Încercați brânza albă în saramură (sirene), adesea folosită în salate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavče Gravče",
+            "tip": "A traditional baked beans dish, a must-try when in Macedonia."
+          },
+          {
+            "name": "Ajvar",
+            "tip": "A flavorful roasted red pepper spread, perfect as an appetizer."
+          },
+          {
+            "name": "Local Cheese",
+            "tip": "Try the white brine cheese (sirene), often used in salads."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kriva-Reka-Ufer",
+            "tip": "Finden Sie eine ruhige Bank am Fluss und lauschen Sie dem Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark am späten Nachmittag",
+            "tip": "Wenn die Menschenmassen nach Hause gehen, wird der Park zu einem Ort der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innenhof der St.-Demetrius-Kirche",
+            "tip": "Ein friedlicher Ort für einen Moment der Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kriva Reka folyópart",
+            "tip": "Keressen egy csendes padot a folyó mellett, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városi Park késő délután",
+            "tip": "Amikor a tömeg hazamegy, a park a nyugalom helyévé válik.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Demeter-templom udvara",
+            "tip": "Békés hely egy pillanatnyi elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Kriva Reka",
+            "tip": "Găsiți o bancă liniștită lângă râu și ascultați sunetul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Orașului după-amiaza târziu",
+            "tip": "Pe măsură ce mulțimea pleacă, parcul devine un loc de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Bisericii Sf. Dimitrie",
+            "tip": "Un loc pașnic pentru un moment de reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kriva Reka Riverbank",
+            "tip": "Find a quiet bench by the river and listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "City Park in the late afternoon",
+            "tip": "As the crowds head home, the park becomes a place of tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of St. Demetrius Church",
+            "tip": "A peaceful spot for a moment of reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokalen Käse, wenn der Markttag ist."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach kleinen Geschäften, die handgefertigte Waren und Souvenirs verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi sajtot, ha piacnap van."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kis boltokat, amelyek kézzel készített árukat és ajándéktárgyakat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și brânză locală dacă este zi de piață."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați mici magazine care vând produse artizanale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and local cheese if it's market day."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for small shops selling handcrafted goods and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf Kopfsteinpflaster laufen werden.",
+          "Halten Sie eine Wasserflasche bereit, besonders in den wärmeren Monaten.",
+          "Die meisten Sehenswürdigkeiten sind nah beieinander, sodass Sie sich keine Sorgen machen müssen, sich zu verirren."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap macskaköves utakon fog sétálni.",
+          "Tartson magánál egy vizes palackot, különösen a melegebb hónapokban.",
+          "A legtöbb látnivaló közel van egymáshoz, így nem kell attól tartania, hogy eltéved."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe pavaj toată ziua.",
+          "Păstrați o sticlă de apă la îndemână, mai ales în lunile mai calde.",
+          "Majoritatea atracțiilor sunt apropiate, deci nu trebuie să vă faceți griji că vă rătăciți."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking on cobblestones for most of the day.",
+          "Keep a water bottle handy, especially during the warmer months.",
+          "Most sights are close together, so you don't have to worry about getting lost."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St.-Demetrius-Kirche",
+            "hu": "Szent Demeter-templom",
+            "ro": "Biserica Sfântul Dimitrie",
+            "en": "St. Demetrius Church"
+          },
+          "coords": [
+            22.266,
+            42.203
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, bevor die Menschenmassen ankommen.",
+            "hu": "Kezdje itt a napot, mielőtt a tömeg megérkezik.",
+            "ro": "Începeți-vă ziua aici înainte de a sosi mulțimile.",
+            "en": "Start your day here before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriva-Reka-Ufer",
+            "hu": "Kriva Reka folyópart",
+            "ro": "Malul râului Kriva Reka",
+            "en": "Kriva Reka Riverbank"
+          },
+          "coords": [
+            22.265,
+            42.201
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:53",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie eine kurze Radtour entlang des Flusses, um sich aufzuwärmen.",
+            "hu": "Élvezzen egy rövid biciklitúrát a folyó mentén bemelegítésként.",
+            "ro": "Bucurați-vă de o scurtă plimbare cu bicicleta de-a lungul râului pentru a vă încălzi.",
+            "en": "Enjoy a short ride along the river to warm up."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Osogovo",
+            "hu": "Osogovo kolostor",
+            "ro": "Mănăstirea Osogovo",
+            "en": "Osogovo Monastery"
+          },
+          "coords": [
+            22.31,
+            42.2
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour zum Kloster ist anspruchsvoll, aber die Aussicht und die Ruhe sind es wert.",
+            "hu": "A kolostorhoz vezető kerékpárút kihívást jelent, de a kilátás és a nyugalom megéri.",
+            "ro": "Plimbarea cu bicicleta până la mănăstire este provocatoare, dar priveliștile și liniștea merită.",
+            "en": "The ride to the monastery is challenging but the views and serenity are worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Klosters",
+            "hu": "Ebéd a kolostor közelében",
+            "ro": "Prânz lângă mănăstire",
+            "en": "Lunch near the Monastery"
+          },
+          "coords": [
+            22.308,
+            42.201
+          ],
+          "category": "gastro",
+          "arrive_at": "12:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt ein Restaurant im Klosterkomplex, das traditionelle Gerichte serviert.",
+            "hu": "A kolostorkomplexumban van egy étterem, amely hagyományos ételeket szolgál fel.",
+            "ro": "Există un restaurant în complexul mănăstirii care servește mâncăruri tradiționale.",
+            "en": "There is a restaurant within the monastery complex serving traditional food."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Kriva Palanka",
+            "hu": "Kriva Palanka Múzeuma",
+            "ro": "Muzeul din Kriva Palanka",
+            "en": "Museum of Kriva Palanka"
+          },
+          "coords": [
+            22.263,
+            42.204
+          ],
+          "category": "museums",
+          "arrive_at": "14:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und tauchen Sie in die lokale Kultur ein.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a helyi kultúrában.",
+            "ro": "Asigurați-vă bicicleta și scufundați-vă în cultura locală.",
+            "en": "Lock your bike securely and dive into the local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            22.268,
+            42.204
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entspannen Sie Ihre Muskeln nach der Radtour im grünen Herzen der Stadt.",
+            "hu": "Lazítsa el izmait a biciklizés után a város zöld szívében.",
+            "ro": "Relaxați-vă mușchii după plimbarea cu bicicleta în inima verde a orașului.",
+            "en": "Relax your muscles after the ride in the green heart of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt im Zentrum, bevor Sie sich auf den Weg zum spirituellen Höhepunkt der Region machen, dem Kloster Osogovo. Die Fahrt ist ein wesentlicher Teil des Erlebnisses und bietet malerische Ausblicke. Nach der Erkundung des Klosters und einem wohlverdienten Mittagessen kehren Sie in die Stadt zurück, um in die lokale Kultur einzutauchen und den Tag im entspannenden Stadtpark ausklingen zu lassen. Diese Tour verbindet körperliche Aktivität mit tiefgreifenden kulturellen und spirituellen Entdeckungen.",
+        "hu": "Kerékpáros kalandja a központban kezdődik, mielőtt elindulna a régió spirituális csúcspontja, az Osogovo kolostor felé. Az út az élmény szerves része, festői kilátást nyújtva. A kolostor felfedezése és egy jól megérdemelt ebéd után térjen vissza a városba, hogy elmerüljön a helyi kultúrában, és a napot a pihentető városi parkban zárja. Ez a túra ötvözi a fizikai aktivitást a mély kulturális és spirituális felfedezésekkel.",
+        "ro": "Aventura pe bicicletă începe în centru înainte de a vă îndrepta spre punctul culminant spiritual al regiunii, Mănăstirea Osogovo. Plimbarea este o parte esențială a experienței, oferind priveliști pitorești. După explorarea mănăstirii și un prânz binemeritat, vă întoarceți în oraș pentru a vă cufunda în cultura locală, încheind ziua în relaxantul Parc al Orașului. Acest tur combină activitatea fizică cu descoperirea culturală și spirituală profundă.",
+        "en": "Your cycling adventure starts in the center before heading out to the region's spiritual highlight, the Osogovo Monastery. The ride is an essential part of the experience, offering scenic views. After exploring the monastery and a well-deserved lunch, you'll return to town to immerse yourself in local culture, ending the day in the relaxing City Park. This tour combines physical activity with deep cultural and spiritual discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mazedonischer Grill (Skara)",
+            "tip": "Probieren Sie Ćevapi oder Pljeskavica für eine herzhafte, fleischige Mahlzeit."
+          },
+          {
+            "name": "Shopska-Salat",
+            "tip": "Ein erfrischender Salat mit Tomaten, Gurken und geriebenem Sirene-Käse."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Genießen Sie ein kaltes Skopsko nach Ihrer langen Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Macedón grill (Skara)",
+            "tip": "Kóstolja meg a Ćevapit vagy a Pljeskavicát egy kiadós, húsos ételhez."
+          },
+          {
+            "name": "Sopszka saláta",
+            "tip": "Frissítő saláta paradicsommal, uborkával és reszelt sirene sajttal."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Élvezzen egy hideg Skopsko-t a hosszú kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grătar macedonean (Skara)",
+            "tip": "Încercați Ćevapi sau Pljeskavica pentru o masă consistentă și plină de carne."
+          },
+          {
+            "name": "Salată Shopska",
+            "tip": "O salată răcoritoare cu roșii, castraveți și brânză sirene rasă."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Bucurați-vă de o bere rece Skopsko după lunga plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Macedonian Grill (Skara)",
+            "tip": "Try Ćevapi or Pljeskavica for a hearty, meaty meal."
+          },
+          {
+            "name": "Shopska Salad",
+            "tip": "A refreshing salad with tomatoes, cucumbers, and grated sirene cheese."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Enjoy a cold Skopsko after your long bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster Osogovo",
+            "tip": "Finden Sie einen ruhigen Ort im Klosterkomplex zum Meditieren.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Die Straße nach Kalin Kamen",
+            "tip": "Auch wenn Sie nicht bis ganz nach oben fahren, bietet die Straße eine friedliche Flucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen am Kriva-Reka-Ufer",
+            "tip": "Erleben Sie die Stadt, bevor sie erwacht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Osogovo kolostor",
+            "tip": "Keressen egy csendes helyet a kolostorkomplexumban meditációra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az út Kalin Kamen felé",
+            "tip": "Még ha nem is megy fel teljesen, az út békés menedéket nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a Kriva Reka folyóparton",
+            "tip": "Tapasztalja meg a várost, mielőtt felébred.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Osogovo",
+            "tip": "Găsiți un loc liniștit în complexul mănăstirii pentru a medita.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Drumul spre Kalin Kamen",
+            "tip": "Chiar dacă nu mergeți până sus, drumul oferă o evadare pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme pe malul râului Kriva Reka",
+            "tip": "Experimentați orașul înainte ca acesta să se trezească.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Osogovo Monastery",
+            "tip": "Find a quiet spot within the monastery complex to meditate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The road to Kalin Kamen",
+            "tip": "Even if you don't go all the way, the road offers a peaceful escape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning at Kriva Reka Riverbank",
+            "tip": "Experience the town before it wakes up.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kloster-Souvenirladen",
+            "tip": "Kaufen Sie Ikonen, Weihrauch und andere religiöse Gegenstände."
+          },
+          {
+            "name": "Lokale Imkereiprodukte",
+            "tip": "Suchen Sie nach lokalem Honig, einem Markenzeichen der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostori ajándékbolt",
+            "tip": "Vásároljon ikonokat, tömjént és más vallási tárgyakat."
+          },
+          {
+            "name": "Helyi méhészeti termékek",
+            "tip": "Keressen helyi mézet, a régió egyik védjegyét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri al mănăstirii",
+            "tip": "Cumpărați icoane, tămâie și alte obiecte religioase."
+          },
+          {
+            "name": "Produse apicole locale",
+            "tip": "Căutați miere locală, o marcă a regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Gift Shop",
+            "tip": "Purchase icons, incense, and other religious items."
+          },
+          {
+            "name": "Local Apiary Products",
+            "tip": "Look for local honey, a trademark of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad für Hügel geeignet ist; die Straße zum Kloster hat einige Steigungen.",
+          "Nehmen Sie ein Reparaturset und eine Pumpe mit, da die Dienstleistungen außerhalb der Stadt begrenzt sind.",
+          "Tragen Sie einen Helm und helle Kleidung, um für den Verkehr sichtbar zu sein."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy a kerékpárja alkalmas a dombokra; a kolostorhoz vezető úton vannak emelkedők.",
+          "Vigyen magával javítókészletet és pumpát, mivel a szolgáltatások a városon kívül korlátozottak.",
+          "Viseljen sisakot és élénk színű ruhát, hogy látható legyen a forgalomban."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta dvs. este potrivită pentru dealuri; drumul spre mănăstire are câteva pante.",
+          "Luați un kit de reparații și o pompă, deoarece serviciile sunt limitate în afara orașului.",
+          "Purtați cască și haine de culori deschise pentru a fi vizibil în trafic."
+        ],
+        "en": [
+          "Ensure your bike is suitable for hills; the road to the monastery has some inclines.",
+          "Carry a repair kit and a pump, as services are limited outside the town.",
+          "Wear a helmet and bright clothing to be visible to traffic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 34.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St.-Demetrius-Kirche",
+            "hu": "Szent Demeter-templom",
+            "ro": "Biserica Sfântul Dimitrie",
+            "en": "St. Demetrius Church"
+          },
+          "coords": [
+            22.266,
+            42.203
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und beginnen Sie hier Ihre Erkundung zu Fuß.",
+            "hu": "Parkoljon a központban, és innen kezdje a gyalogos felfedezést.",
+            "ro": "Parcați în centru și începeți explorarea pe jos de aici.",
+            "en": "Park in the center and begin your walking exploration here."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Kriva Palanka",
+            "hu": "Kriva Palanka Múzeuma",
+            "ro": "Muzeul din Kriva Palanka",
+            "en": "Museum of Kriva Palanka"
+          },
+          "coords": [
+            22.263,
+            42.204
+          ],
+          "category": "museums",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche entfernt, lassen Sie das Auto geparkt.",
+            "hu": "Rövid séta a templomtól, hagyja az autót leparkolva.",
+            "ro": "La o scurtă plimbare de biserică, lăsați mașina parcată.",
+            "en": "A short walk from the church, leave the car parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der gefallenen Soldaten",
+            "hu": "Elesett Katonák Emlékműve",
+            "ro": "Monumentul soldaților căzuți",
+            "en": "Monument to the Fallen Soldiers"
+          },
+          "coords": [
+            22.265,
+            42.202
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Erkundung des Stadtzentrums an diesem symbolträchtigen Ort.",
+            "hu": "Fejezze be a városközpont felfedezését ennél a szimbolikus emlékműnél.",
+            "ro": "Încheiați-vă explorarea centrului orașului la acest loc simbolic.",
+            "en": "Conclude your town center exploration at this symbolic spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Osogovo",
+            "hu": "Osogovo kolostor",
+            "ro": "Mănăstirea Osogovo",
+            "en": "Osogovo Monastery"
+          },
+          "coords": [
+            22.31,
+            42.2
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die kurze Fahrt ist malerisch. Es gibt genügend Parkplätze am Kloster.",
+            "hu": "A rövid út festői. A kolostornál bőséges parkolóhely áll rendelkezésre.",
+            "ro": "Drumul scurt este pitoresc. Există o parcare amplă la mănăstire.",
+            "en": "The short drive is scenic. There is ample parking at the monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            22.27,
+            42.205
+          ],
+          "category": "gastro",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie für eine größere Auswahl an Restaurants zurück ins Stadtzentrum.",
+            "hu": "Vezessen vissza a városközpontba a szélesebb étteremválasztékért.",
+            "ro": "Conduceți înapoi în centrul orașului pentru o selecție mai largă de restaurante.",
+            "en": "Drive back to the town center for a wider selection of restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalin Kamen",
+            "hu": "Kalin Kamen",
+            "ro": "Kalin Kamen",
+            "en": "Kalin Kamen"
+          },
+          "coords": [
+            22.35,
+            42.18
+          ],
+          "category": "natural features",
+          "arrive_at": "14:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 12,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die Straße kann eng sein, fahren Sie vorsichtig. Die Aussicht ist die Mühe wert.",
+            "hu": "Az út szűk lehet, vezessen óvatosan. A kilátás megéri a fáradozást.",
+            "ro": "Drumul poate fi îngust, conduceți cu atenție. Priveliștea merită efortul.",
+            "en": "The road can be narrow, drive carefully. The view is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            22.268,
+            42.204
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 12,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Spaziergang, bevor Sie nach Hause fahren.",
+            "hu": "Zárja a napot egy pihentető sétával, mielőtt hazaindul.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă înainte de a vă întoarce acasă.",
+            "en": "End your day with a relaxing stroll before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die Highlights von Kriva Palanka und seiner malerischen Umgebung entdecken. Der Vormittag ist dem begehbaren Stadtzentrum gewidmet, gefolgt von einer kurzen Fahrt zum spirituellen Zentrum, dem Kloster Osogovo. Nach dem Mittagessen führt Sie eine landschaftlich reizvolle Fahrt zu den natürlichen Schönheiten von Kalin Kamen, das atemberaubende Ausblicke bietet. Der Tag endet mit Entspannung im Stadtpark, einer perfekten Mischung aus Kultur, Spiritualität und Natur.",
+        "hu": "Az autó lehetővé teszi, hogy felfedezze Kriva Palanka és festői környékének legjavát. A délelőtt a gyalogosan bejárható városközponté, amelyet egy rövid autóút követ a spirituális központhoz, az Osogovo kolostorhoz. Ebéd után egy festői út vezet Kalin Kamen természeti szépségeihez, ahonnan lélegzetelállító kilátás nyílik. A nap a városi parkban való pihenéssel zárul, amely a kultúra, a spiritualitás és a természet tökéletes keveréke.",
+        "ro": "Mașina vă permite să descoperiți punctele de atracție din Kriva Palanka și împrejurimile sale pitorești. Dimineața este dedicată centrului pietonal al orașului, urmată de o scurtă călătorie cu mașina până la centrul spiritual, Mănăstirea Osogovo. După prânz, un drum pitoresc vă duce la frumusețea naturală a Kalin Kamen pentru priveliști uimitoare. Ziua se încheie cu relaxare în Parcul Orașului, un amestec perfect de cultură, spiritualitate și natură.",
+        "en": "The car allows you to discover the highlights of Kriva Palanka and its scenic surroundings. The morning is dedicated to the walkable town center, followed by a short drive to the spiritual hub, Osogovo Monastery. After lunch, a scenic drive takes you to the natural beauty of Kalin Kamen for stunning views. The day concludes with relaxation in the City Park, a perfect blend of culture, spirituality, and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Etno Selo",
+            "tip": "Ein Restaurant mit traditionellem Ambiente und einer großen Auswahl an lokalen Gerichten."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "Ein herzhafter Kuchen aus Filoteig, gefüllt mit Käse und Eiern."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Probieren Sie den lokalen Obstbrand, aber seien Sie vorsichtig, er ist stark!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Etno Selo étterem",
+            "tip": "Hagyományos hangulatú étterem, széles helyi ételválasztékkal."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "Sós pite filotésztából, sajttal és tojással töltve."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Kóstolja meg a helyi gyümölcspálinkát, de óvatosan, erős!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Etno Selo",
+            "tip": "Un restaurant cu o ambianță tradițională și o gamă largă de mâncăruri locale."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "O plăcintă sărată făcută cu foi de plăcintă, umplută cu brânză și ouă."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Încercați rachiul local de fructe, dar aveți grijă, este puternic!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Etno Selo",
+            "tip": "A restaurant with a traditional ambiance and a wide range of local dishes."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "A savory pie made with filo pastry, filled with cheese and eggs."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Try the local fruit brandy, but be careful, it's strong!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kalin Kamen",
+            "tip": "Die Höhe und die Natur bieten einen perfekten Ort für Ruhe und Frieden.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kloster Osogovo",
+            "tip": "Abseits der Hauptkirche ist der Komplex sehr friedlich.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Die Fahrt zurück von Kalin Kamen",
+            "tip": "Halten Sie an einem sicheren Ort an, um die Aussicht in Stille zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kalin Kamen",
+            "tip": "A magasság és a természet tökéletes helyet biztosít a csendhez és a békéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Osogovo kolostor",
+            "tip": "A főtemplomtól távolabb a komplexum nagyon békés.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az út vissza Kalin Kamenből",
+            "tip": "Álljon meg egy biztonságos helyen, hogy csendben élvezze a kilátást.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kalin Kamen",
+            "tip": "Altitudinea și natura oferă un loc perfect pentru liniște și pace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mănăstirea Osogovo",
+            "tip": "Departe de biserica principală, complexul este foarte pașnic.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Drumul de întoarcere de la Kalin Kamen",
+            "tip": "Opriți-vă într-un loc sigur pentru a vă bucura de priveliște în tăcere.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kalin Kamen",
+            "tip": "The altitude and nature provide a perfect spot for peace and quiet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Osogovo Monastery",
+            "tip": "Away from the main church, the complex is very peaceful.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The drive back from Kalin Kamen",
+            "tip": "Pull over at a safe spot to enjoy the view in silence.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenstände",
+            "tip": "Suchen Sie nach Ständen, die lokale Produkte wie Honig, Ajvar und handgefertigte Waren verkaufen."
+          },
+          {
+            "name": "Kloster-Geschenkeladen",
+            "tip": "Der beste Ort für religiöse Souvenirs und lokal hergestellte Gegenstände."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útszéli árusok",
+            "tip": "Keressen árusokat, akik helyi termékeket, például mézet, ajvárt és kézműves termékeket árulnak."
+          },
+          {
+            "name": "Kolostori ajándékbolt",
+            "tip": "A legjobb hely vallási ajándéktárgyak és helyben készült tárgyak vásárlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe de pe marginea drumului",
+            "tip": "Căutați tarabe care vând produse locale precum miere, ajvar și produse artizanale."
+          },
+          {
+            "name": "Magazinul de cadouri al mănăstirii",
+            "tip": "Cel mai bun loc pentru suveniruri religioase și articole produse local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside stalls",
+            "tip": "Look for stalls selling local produce like honey, ajvar, and handcrafted goods."
+          },
+          {
+            "name": "Monastery Gift Shop",
+            "tip": "The best place for religious souvenirs and locally made items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Zustand der Straßen, bevor Sie nach Kalin Kamen fahren, besonders außerhalb der Saison.",
+          "Parken ist im Stadtzentrum möglicherweise begrenzt, seien Sie also geduldig.",
+          "Halten Sie etwas Bargeld für kleine Einkäufe und Parkgebühren bereit."
+        ],
+        "hu": [
+          "Ellenőrizze az utak állapotát, mielőtt Kalin Kamenbe indul, különösen szezonon kívül.",
+          "A parkolás a városközpontban korlátozott lehet, ezért legyen türelmes.",
+          "Tartson magánál némi készpénzt a kisebb vásárlásokhoz és parkolási díjakhoz."
+        ],
+        "ro": [
+          "Verificați starea drumurilor înainte de a vă îndrepta spre Kalin Kamen, mai ales în afara sezonului.",
+          "Parcarea poate fi limitată în centrul orașului, așa că aveți răbdare.",
+          "Păstrați niște numerar la îndemână pentru achiziții mici și taxe de parcare."
+        ],
+        "en": [
+          "Check road conditions before heading to Kalin Kamen, especially outside of peak season.",
+          "Parking might be limited in the town center, so be patient.",
+          "Keep some cash handy for small purchases and parking fees."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 10.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturzentrum Kriva Palanka",
+            "hu": "Kriva Palanka Kulturális Központ",
+            "ro": "Centrul Cultural Kriva Palanka",
+            "en": "Kriva Palanka Cultural Center"
+          },
+          "coords": [
+            22.264,
+            42.205
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um ein Gefühl für das zeitgenössische Leben in der Stadt zu bekommen.",
+            "hu": "Kezdje itt, hogy megismerje a város kortárs életét.",
+            "ro": "Începeți aici pentru a vă face o idee despre viața contemporană a orașului.",
+            "en": "Start here to get a feel for the contemporary life of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Kriva Palanka",
+            "hu": "Kriva Palanka Múzeuma",
+            "ro": "Muzeul din Kriva Palanka",
+            "en": "Museum of Kriva Palanka"
+          },
+          "coords": [
+            22.263,
+            42.204
+          ],
+          "category": "museums",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie von der Kultur zum Erbe, nur einen kurzen Spaziergang entfernt.",
+            "hu": "Sétáljon a kultúrától az örökségig, csak egy rövid séta.",
+            "ro": "Treceți de la cultură la patrimoniu, la doar o scurtă plimbare distanță.",
+            "en": "Move from culture to heritage, just a short stroll away."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Demetrius-Kirche",
+            "hu": "Szent Demeter-templom",
+            "ro": "Biserica Sfântul Dimitrie",
+            "en": "St. Demetrius Church"
+          },
+          "coords": [
+            22.266,
+            42.203
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang durch die Innenstadt ist angenehm.",
+            "hu": "A séta a városközponton keresztül kellemes.",
+            "ro": "Plimbarea prin centrul orașului este plăcută.",
+            "en": "The walk through the town center is pleasant."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Osogovo",
+            "hu": "Osogovo kolostor",
+            "ro": "Mănăstirea Osogovo",
+            "en": "Osogovo Monastery"
+          },
+          "coords": [
+            22.31,
+            42.2
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus oder ein Taxi. Erkundigen Sie sich im Voraus nach den Fahrplänen.",
+            "hu": "Vegyen igénybe helyi buszt vagy taxit. Érdeklődjön előre a menetrendről.",
+            "ro": "Luați un autobuz local sau un taxi. Verificați orarele în avans.",
+            "en": "Take a local bus or a taxi. Check for schedules in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            22.27,
+            42.205
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kehren Sie für ein spätes Mittagessen in die Stadt zurück.",
+            "hu": "Térjen vissza a városba egy késői ebédre.",
+            "ro": "Întoarceți-vă în oraș pentru un prânz târziu.",
+            "en": "Return to the town for a late lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            22.268,
+            42.204
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um nach einem langen Tag zu entspannen.",
+            "hu": "Tökéletes hely a pihenésre egy hosszú nap után.",
+            "ro": "Locul perfect pentru a vă relaxa după o zi lungă.",
+            "en": "The perfect place to unwind after a long day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriva-Reka-Ufer",
+            "hu": "Kriva Reka folyópart",
+            "ro": "Malul râului Kriva Reka",
+            "en": "Kriva Reka Riverbank"
+          },
+          "coords": [
+            22.265,
+            42.201
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren Tag mit einem Blick auf den Fluss ab.",
+            "hu": "Zárja a napot a folyóra néző kilátással.",
+            "ro": "Încheiați-vă ziua cu o priveliște a râului.",
+            "en": "End your day with a view of the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln können Sie in den Rhythmus von Kriva Palanka eintauchen. Beginnen Sie mit der Erkundung des fußgängerfreundlichen Zentrums zu Fuß und bilden Sie einen Cluster aus Kultur und Geschichte. Am Mittag bringt Sie ein lokaler Bus zum ruhigen Kloster Osogovo, einem spirituellen Rückzugsort. Nach Ihrer Rückkehr und einem späten Mittagessen verbringen Sie den Rest des Nachmittags mit einem Spaziergang durch die grünen Oasen der Stadt. Diese Reiseroute ist ideal für diejenigen, die die Stadt wie ein Einheimischer erleben möchten.",
+        "hu": "A tömegközlekedés segítségével belemerülhet Kriva Palanka ritmusába. Kezdje a gyalogosbarát központ gyalogos felfedezésével, egy kulturális és történelmi klasztert alkotva. Délben egy helyi busz viszi el a nyugodt Osogovo kolostorhoz, egy spirituális menedékhelyre. Miután visszatért és megebédelt, a délután hátralévő részét a város zöld oázisaiban sétálva tölti. Ez az útiterv ideális azok számára, akik úgy szeretnék megtapasztalni a várost, mint egy helyi.",
+        "ro": "Folosind transportul public, vă puteți cufunda în ritmul orașului Kriva Palanka. Începeți prin a explora centrul pietonal pe jos, formând un grup de cultură și istorie. La amiază, un autobuz local vă duce la senina Mănăstire Osogovo pentru o retragere spirituală. După întoarcere și un prânz târziu, restul după-amiezii este petrecut plimbându-vă prin oazele verzi ale orașului. Acest itinerar este ideal pentru cei care doresc să experimenteze orașul ca un localnic.",
+        "en": "Using public transit allows you to immerse yourself in the rhythm of Kriva Palanka. Start by exploring the pedestrian-friendly center on foot, forming a cluster of culture and history. At midday, a local bus takes you to the serene Osogovo Monastery for a spiritual retreat. After returning for a late lunch, the rest of the afternoon is spent strolling through the town's green oases. This itinerary is ideal for those who want to experience the city like a local."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "Ein beliebtes Gebäck, gefüllt mit Käse, Fleisch oder Spinat, perfekt für einen schnellen Happen."
+          },
+          {
+            "name": "Mazedonischer Kaffee",
+            "tip": "Stark und aromatisch, ähnlich wie türkischer Kaffee, in einem Café genossen."
+          },
+          {
+            "name": "Pastrmajlija",
+            "tip": "Eine Art mazedonische Pizza, ein ovales Fladenbrot mit Fleischstücken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Népszerű pékáru, sajttal, hússal vagy spenóttal töltve, tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Macedón kávé",
+            "tip": "Erős és aromás, hasonló a török kávéhoz, egy kávézóban fogyasztva."
+          },
+          {
+            "name": "Pastrmajlija",
+            "tip": "Egyfajta macedón pizza, ovális laposkenyér húsdarabokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "O patiserie populară umplută cu brânză, carne sau spanac, perfectă pentru o gustare rapidă."
+          },
+          {
+            "name": "Cafea macedoneană",
+            "tip": "Tare și aromată, asemănătoare cu cafeaua turcească, savurată la o cafenea."
+          },
+          {
+            "name": "Pastrmajlija",
+            "tip": "Un fel de pizza macedoneană, o pâine plată ovală acoperită cu bucăți de carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "A popular pastry filled with cheese, meat, or spinach, perfect for a quick bite."
+          },
+          {
+            "name": "Macedonian Coffee",
+            "tip": "Strong and aromatic, similar to Turkish coffee, enjoyed at a café."
+          },
+          {
+            "name": "Pastrmajlija",
+            "tip": "A type of Macedonian pizza, an oval-shaped flatbread topped with chunks of meat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Stadtpark",
+            "tip": "Beobachten Sie das Leben an sich vorbeiziehen in dieser zentralen grünen Oase.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kloster Osogovo",
+            "tip": "Die Atmosphäre ist von Natur aus friedlich und kontemplativ.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Flussufer",
+            "tip": "Das Geräusch des fließenden Wassers ist beruhigend.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a városi parkban",
+            "tip": "Nézze az életet ebben a központi zöld oázisban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Osogovo kolostor",
+            "tip": "A légkör természetesen békés és elmélkedő.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a folyóparton",
+            "tip": "A folyó vízének hangja megnyugtató.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Orașului",
+            "tip": "Priviți viața cum trece în această oază verde centrală.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mănăstirea Osogovo",
+            "tip": "Atmosfera este inerent pașnică și contemplativă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "Sunetul apei curgătoare este calmant.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in the City Park",
+            "tip": "Watch life go by in this central green oasis.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Osogovo Monastery",
+            "tip": "The atmosphere is inherently peaceful and contemplative.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Riverbank walk",
+            "tip": "The sound of the flowing water is calming.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Wenn Sie an einem Markttag dort sind, ist dies der beste Ort für lokale Aromen und Handwerk."
+          },
+          {
+            "name": "Kloster-Souvenirladen",
+            "tip": "Kaufen Sie authentische religiöse Kunst und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Ha piacnapon van ott, ez a legjobb hely a helyi ízek és kézműves termékek beszerzésére."
+          },
+          {
+            "name": "Kolostori ajándékbolt",
+            "tip": "Vásároljon autentikus vallási művészeti alkotásokat és ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Dacă sunteți acolo într-o zi de piață, este cel mai bun loc pentru arome și meșteșuguri locale."
+          },
+          {
+            "name": "Magazinul de suveniruri al mănăstirii",
+            "tip": "Cumpărați artă religioasă autentică și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "If you are there on a market day, it's the best place for local flavors and crafts."
+          },
+          {
+            "name": "Monastery Gift Shop",
+            "tip": "Purchase authentic religious art and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fragen Sie nach den Busfahrplänen zum Kloster Osogovo, sobald Sie ankommen.",
+          "Haben Sie Kleingeld für Bustickets bereit.",
+          "Taxis sind eine relativ günstige Alternative, wenn Sie einen Bus verpassen."
+        ],
+        "hu": [
+          "Érdeklődjön az Osogovo kolostorhoz közlekedő buszok menetrendjéről, amint megérkezik.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "A taxik viszonylag olcsó alternatívát jelentenek, ha lekési a buszt."
+        ],
+        "ro": [
+          "Întrebați despre orarele autobuzelor către Mănăstirea Osogovo de îndată ce ajungeți.",
+          "Aveți pregătiți bani mărunți pentru biletele de autobuz.",
+          "Taxiurile sunt o alternativă relativ ieftină dacă pierdeți un autobuz."
+        ],
+        "en": [
+          "Ask about the bus schedules to Osogovo Monastery as soon as you arrive.",
+          "Have small change ready for bus tickets.",
+          "Taxis are a relatively inexpensive alternative if you miss a bus."
+        ]
+      }
+    }
+  }
+}

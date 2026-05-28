@@ -1,0 +1,1484 @@
+{
+  "city_id": "portugal-torres-vedras-cities-v2",
+  "anchor": {
+    "name": "Torres Vedras",
+    "coords": [
+      -9.2612,
+      39.0912
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Chafariz dos Canos",
+            "hu": "Kezdés: Chafariz dos Canos szökőkút",
+            "ro": "Start: Fântâna Chafariz dos Canos",
+            "en": "Start: Chafariz dos Canos Fountain"
+          },
+          "coords": [
+            -9.2615,
+            39.0895
+          ],
+          "category": "monument",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein großartiger Treffpunkt und ein Wahrzeichen der Stadt aus dem 16. Jahrhundert.",
+            "hu": "Nagyszerű találkozási pont és a város egyik 16. századi jelképe.",
+            "ro": "Un punct de întâlnire excelent și un simbol al orașului din secolul al XVI-lea.",
+            "en": "A great meeting point and a 16th-century landmark of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Santa Maria do Castelo",
+            "hu": "Santa Maria do Castelo templom",
+            "ro": "Biserica Santa Maria do Castelo",
+            "en": "Church of Santa Maria do Castelo"
+          },
+          "coords": [
+            -9.2599,
+            39.0918
+          ],
+          "category": "church",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem manuelinischen Portal, einem Meisterwerk der portugiesischen Gotik.",
+            "hu": "Keresse a mánueli stílusú portált, a portugál gótika mesterművét.",
+            "ro": "Căutați portalul manuelin, o capodoperă a goticului portughez.",
+            "en": "Look for the Manueline portal, a masterpiece of Portuguese Gothic style."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Torres Vedras",
+            "hu": "Torres Vedras vára",
+            "ro": "Castelul din Torres Vedras",
+            "en": "Torres Vedras Castle"
+          },
+          "coords": [
+            -9.2595,
+            39.0925
+          ],
+          "category": "castle",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die Stadt und die Landschaft. Der Aufstieg lohnt sich!",
+            "hu": "Élvezze a panorámás kilátást a városra és a vidékre. Megéri a mászást!",
+            "ro": "Bucurați-vă de vederea panoramică asupra orașului și a peisajului rural. Urcarea merită!",
+            "en": "Enjoy the panoramic views over the city and countryside. It's worth the climb!"
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal Leonel Trindade",
+            "hu": "Leonel Trindade Városi Múzeum",
+            "ro": "Muzeul Municipal Leonel Trindade",
+            "en": "Leonel Trindade Municipal Museum"
+          },
+          "coords": [
+            -9.2608,
+            39.0905
+          ],
+          "category": "museum",
+          "arrive_at": "11:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Archäologie-Abteilung, um die antike Geschichte der Region zu verstehen.",
+            "hu": "Koncentráljon a régészeti részlegre, hogy megértse a régió ókori történelmét.",
+            "ro": "Concentrați-vă pe secțiunea de arheologie pentru a înțelege istoria antică a regiunii.",
+            "en": "Focus on the archaeology section to understand the ancient history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            -9.262,
+            39.091
+          ],
+          "category": "gastro",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie das lokale Gebäck 'Pastel de Feijão' als Dessert.",
+            "hu": "Desszertként kóstolja meg a helyi 'Pastel de Feijão' süteményt.",
+            "ro": "Încercați prăjitura locală 'Pastel de Feijão' la desert.",
+            "en": "Try the local pastry 'Pastel de Feijão' for dessert."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqueduto da Fonte dos Canos",
+            "hu": "Fonte dos Canos vízvezeték",
+            "ro": "Apeductul Fonte dos Canos",
+            "en": "Aqueduct of Fonte dos Canos"
+          },
+          "coords": [
+            -9.2699,
+            39.0935
+          ],
+          "category": "landmark",
+          "arrive_at": "15:02",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie dem Verlauf des Aquädukts für einen schönen Spaziergang.",
+            "hu": "Kövesse a vízvezeték nyomvonalát egy kellemes sétáért.",
+            "ro": "Urmați traseul apeductului pentru o plimbare plăcută.",
+            "en": "Follow the path of the aqueduct for a pleasant walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermida de Nossa Senhora do Ameal",
+            "hu": "Nossa Senhora do Ameal kápolna",
+            "ro": "Schitul Nossa Senhora do Ameal",
+            "en": "Hermitage of Nossa Senhora do Ameal"
+          },
+          "coords": [
+            -9.2785,
+            39.0911
+          ],
+          "category": "church",
+          "arrive_at": "16:06",
+          "stay_min": 39,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort, um den Tag ausklingen zu lassen, etwas außerhalb des Zentrums.",
+            "hu": "Békés hely a nap lezárására, kissé a központon kívül.",
+            "ro": "Un loc pașnic pentru a încheia ziua, puțin în afara centrului.",
+            "en": "A peaceful spot to end the day, slightly outside the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Torres Vedras beginnt am historischen Chafariz dos Canos. Von dort aus führt ein kurzer Spaziergang bergauf zur Igreja de Santa Maria und zur mächtigen Burg, die einen atemberaubenden Blick bietet. Nach dem Eintauchen in die Geschichte im Stadtmuseum genießen Sie ein gemütliches Mittagessen mit lokalen Spezialitäten. Am Nachmittag entdecken Sie die beeindruckende Ingenieurskunst des alten Aquädukts bei einem entspannten Spaziergang. Der Tag endet in der ruhigen Atmosphäre der Ermida do Ameal, einem Ort der Besinnung.",
+        "hu": "A Torres Vedras-i nap a történelmi Chafariz dos Canos-nál kezdődik. Innen egy rövid, emelkedő séta vezet a Santa Maria templomhoz és a hatalmas várhoz, ahonnan lélegzetelállító a kilátás. Miután elmerült a városi múzeum történelmében, egy kényelmes ebédet fogyaszthat helyi specialitásokkal. Délután egy kellemes séta során felfedezheti a régi vízvezeték lenyűgöző mérnöki munkáját. A nap az Ermida do Ameal csendes légkörében, egy elmélyülést kínáló helyen ér véget.",
+        "ro": "Ziua dvs. în Torres Vedras începe la istoricul Chafariz dos Canos. De acolo, o scurtă plimbare la deal vă duce la Biserica Santa Maria și la castelul impunător, care oferă priveliști uluitoare. După ce v-ați cufundat în istorie la muzeul municipal, bucurați-vă de un prânz relaxat cu specialități locale. După-amiaza, descoperiți ingineria impresionantă a vechiului apeduct într-o plimbare relaxantă. Ziua se încheie în atmosfera liniștită a Schitului do Ameal, un loc de contemplație.",
+        "en": "Your day in Torres Vedras begins at the historic Chafariz dos Canos. From there, a short uphill walk takes you to the Igreja de Santa Maria and the mighty castle, offering breathtaking views. After immersing yourself in history at the municipal museum, enjoy a leisurely lunch with local specialties. In the afternoon, discover the impressive engineering of the old aqueduct on a relaxing walk. The day concludes in the quiet atmosphere of the Ermida do Ameal, a place for contemplation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastel de Feijão de Torres Vedras",
+            "tip": "Ein Muss! Dieses einzigartige Bohnengebäck ist das Markenzeichen der Stadt."
+          },
+          {
+            "name": "Meeresfrüchte-Eintopf (Caldeirada)",
+            "tip": "Obwohl es im Landesinneren liegt, sorgt die Nähe zur Küste für ausgezeichnete Fischgerichte."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Die Region ist ein bedeutendes Weinanbaugebiet, probieren Sie einen Rot- oder Weißwein aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastel de Feijão de Torres Vedras",
+            "tip": "Ezt muszáj megkóstolni! Ez az egyedi babos sütemény a város védjegye."
+          },
+          {
+            "name": "Tenger gyümölcsei egytálétel (Caldeirada)",
+            "tip": "Bár a szárazföldön van, a part közelsége kiváló halételeket garantál."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "A régió fontos borvidék, kóstoljon meg egy helyi vörös- vagy fehérbort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastel de Feijão de Torres Vedras",
+            "tip": "O necesitate! Această prăjitură unică cu fasole este emblema orașului."
+          },
+          {
+            "name": "TOCANĂ de fructe de mare (Caldeirada)",
+            "tip": "Deși este în interior, apropierea de coastă asigură mâncăruri excelente din pește."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Regiunea este o zonă viticolă importantă, încercați un vin roșu sau alb local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastel de Feijão de Torres Vedras",
+            "tip": "A must-try! This unique bean pastry is the city's hallmark."
+          },
+          {
+            "name": "Seafood Stew (Caldeirada)",
+            "tip": "Although inland, the proximity to the coast ensures excellent fish dishes."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "The region is a major wine-producing area, sample a local red or white."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Castelo",
+            "tip": "Finden Sie eine ruhige Ecke auf dem Burggelände, um die Aussicht zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Aquädukt",
+            "tip": "Der Weg entlang des Aquädukts ist oft ruhig und besinnlich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ermida do Ameal",
+            "tip": "Der perfekte Ort für Stille und Nachdenken am Ende des Tages.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A vár kertjei",
+            "tip": "Keressen egy csendes zugot a vár területén, és élvezze a kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a vízvezetéknél",
+            "tip": "A vízvezeték menti út gyakran csendes és elmélkedésre késztet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ermida do Ameal",
+            "tip": "Tökéletes hely a csendre és a gondolkodásra a nap végén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castelului",
+            "tip": "Găsiți un colț liniștit pe terenul castelului pentru a vă bucura de priveliște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare la apeduct",
+            "tip": "Calea de-a lungul apeductului este adesea liniștită și contemplativă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Schitul do Ameal",
+            "tip": "Locul perfect pentru liniște și reflecție la sfârșitul zilei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Gardens",
+            "tip": "Find a quiet corner within the castle grounds to enjoy the view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aqueduct Walk",
+            "tip": "The path along the aqueduct is often quiet and contemplative.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ermida do Ameal",
+            "tip": "The perfect place for silence and reflection at the end of the day.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Erleben Sie das lokale Leben und kaufen Sie frische Produkte und regionale Spezialitäten."
+          },
+          {
+            "name": "Lokale Bäckereien (Pastelarias)",
+            "tip": "Kaufen Sie eine Schachtel Pastéis de Feijão als köstliches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Piac (Mercado Municipal)",
+            "tip": "Tapasztalja meg a helyi életet, és vásároljon friss termékeket és regionális különlegességeket."
+          },
+          {
+            "name": "Helyi pékségek (Pastelarias)",
+            "tip": "Vásároljon egy doboz Pastéis de Feijão-t finom szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Municipală",
+            "tip": "Experimentați viața locală și cumpărați produse proaspete și specialități regionale."
+          },
+          {
+            "name": "Patiserii locale (Pastelarias)",
+            "tip": "Cumpărați o cutie de Pastéis de Feijão ca un suvenir delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Market (Mercado Municipal)",
+            "tip": "Experience local life and buy fresh produce and regional specialties."
+          },
+          {
+            "name": "Local Bakeries (Pastelarias)",
+            "tip": "Buy a box of Pastéis de Feijão as a delicious souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Zentrum Kopfsteinpflaster hat und es zum Schloss hinaufgeht.",
+          "Planen Sie für das Mittagessen genügend Zeit ein, da der Service in Portugal entspannt sein kann.",
+          "Nehmen Sie eine Wasserflasche mit, besonders für den Spaziergang zum Aquädukt und zur Eremitage.",
+          "Überprüfen Sie die Öffnungszeiten des Museums und der Kirchen, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a központ macskaköves, és a várhoz vezető út emelkedik.",
+          "Szánjon elegendő időt az ebédre, mivel a kiszolgálás Portugáliában laza lehet.",
+          "Vigyen magával egy üveg vizet, különösen a vízvezetékhez és a kápolnához vezető sétához.",
+          "Ellenőrizze a múzeum és a templomok nyitvatartási idejét, mivel azok változhatnak."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul este pavat cu piatră cubică și urcă spre castel.",
+          "Planificați suficient timp pentru prânz, deoarece serviciul în Portugalia poate fi relaxat.",
+          "Luați o sticlă de apă, mai ales pentru plimbarea la apeduct și schit.",
+          "Verificați orele de deschidere ale muzeului și bisericilor, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as the center is cobblestoned and involves uphill walking to the castle.",
+          "Allow ample time for lunch, as service in Portugal can be relaxed.",
+          "Bring a water bottle, especially for the walk to the aqueduct and hermitage.",
+          "Check the opening hours for the museum and churches, as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Castelo de Torres Vedras",
+            "hu": "Kezdés: Torres Vedras vára",
+            "ro": "Start: Castelul din Torres Vedras",
+            "en": "Start: Torres Vedras Castle"
+          },
+          "coords": [
+            -9.2595,
+            39.0925
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer tollen Aussicht, bevor es losgeht.",
+            "hu": "Kezdje a napot egy remek kilátással, mielőtt útnak indul.",
+            "ro": "Începeți-vă ziua cu o priveliște minunată înainte de a porni la drum.",
+            "en": "Start your day with a great view before hitting the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal Leonel Trindade",
+            "hu": "Leonel Trindade Városi Múzeum",
+            "ro": "Muzeul Municipal Leonel Trindade",
+            "en": "Leonel Trindade Municipal Museum"
+          },
+          "coords": [
+            -9.2608,
+            39.0905
+          ],
+          "category": "museum",
+          "arrive_at": "10:16",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein sicherer Ort, um Ihr Fahrrad abzustellen, befindet sich normalerweise in der Nähe des Eingangs.",
+            "hu": "A bejárat közelében általában talál biztonságos helyet a kerékpár lezárásához.",
+            "ro": "De obicei, există un loc sigur pentru a vă parca bicicleta lângă intrare.",
+            "en": "There's usually a safe place to lock your bike near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Chafariz dos Canos",
+            "hu": "Chafariz dos Canos szökőkút",
+            "ro": "Fântâna Chafariz dos Canos",
+            "en": "Chafariz dos Canos Fountain"
+          },
+          "coords": [
+            -9.2615,
+            39.0895
+          ],
+          "category": "monument",
+          "arrive_at": "11:49",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie ein schnelles Foto, bevor Sie zum Mittagessen weiterfahren.",
+            "hu": "Készítsen egy gyors fotót, mielőtt továbbteker ebédelni.",
+            "ro": "Faceți o fotografie rapidă înainte de a merge mai departe pentru prânz.",
+            "en": "Take a quick photo before cycling on to lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Flusses",
+            "hu": "Ebéd a folyó közelében",
+            "ro": "Prânz lângă râu",
+            "en": "Lunch near the river"
+          },
+          "coords": [
+            -9.2655,
+            39.088
+          ],
+          "category": "gastro",
+          "arrive_at": "12:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein Restaurant mit Sitzgelegenheiten im Freien, um Ihr Fahrrad im Auge zu behalten.",
+            "hu": "Keressen egy szabadtéri ülőhelyes éttermet, hogy szemmel tarthassa a kerékpárját.",
+            "ro": "Căutați un restaurant cu terasă pentru a vă putea supraveghea bicicleta.",
+            "en": "Find a restaurant with outdoor seating to keep an eye on your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqueduto da Fonte dos Canos",
+            "hu": "Fonte dos Canos vízvezeték",
+            "ro": "Apeductul Fonte dos Canos",
+            "en": "Aqueduct of Fonte dos Canos"
+          },
+          "coords": [
+            -9.2699,
+            39.0935
+          ],
+          "category": "landmark",
+          "arrive_at": "13:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren entlang des Aquädukts ist eine wunderbare Erfahrung.",
+            "hu": "A vízvezeték mentén kerékpározni csodálatos élmény.",
+            "ro": "Mersul pe bicicletă de-a lungul apeductului este o experiență minunată.",
+            "en": "Cycling alongside the aqueduct is a wonderful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento do Varatojo",
+            "hu": "Varatojo kolostor",
+            "ro": "Mănăstirea Varatojo",
+            "en": "Convent of Varatojo"
+          },
+          "coords": [
+            -9.228,
+            39.083
+          ],
+          "category": "church",
+          "arrive_at": "15:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 43,
+          "hop_from_prev_km": 7.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Fahrt aus der Stadt heraus ist die friedliche Atmosphäre dieses Klosters wert.",
+            "hu": "Megéri a városból kivezető utat a kolostor békés hangulatáért.",
+            "ro": "Drumul în afara orașului merită pentru atmosfera pașnică a acestei mănăstiri.",
+            "en": "The ride out of town is worth the peaceful atmosphere of this convent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit dem besten Ausblick vom Castelo de Torres Vedras. Rollen Sie hinunter ins Zentrum, um das Stadtmuseum zu besuchen und einen kurzen Stopp am Chafariz dos Canos einzulegen. Nach einem stärkenden Mittagessen führt Sie Ihre Route aus der Stadt heraus, entlang des historischen Aquädukts. Das Highlight des Nachmittags ist die ruhige Fahrt zum abgeschiedenen Convento do Varatojo, einem Ort der Stille und Geschichte, der die Anstrengung der Fahrt belohnt und einen perfekten Abschluss für Ihren aktiven Tag darstellt.",
+        "hu": "Kezdje a kerékpártúrát a legjobb kilátással a Torres Vedras-i várból. Guruljon le a központba, látogasson el a városi múzeumba, és álljon meg röviden a Chafariz dos Canos-nál. Egy frissítő ebéd után az útvonal kivezeti a városból a történelmi vízvezeték mentén. A délután fénypontja a csendes tekerés az eldugott Varatojo kolostorhoz, a csend és a történelem helyszínére, amely megéri a fáradságot, és tökéletes lezárása az aktív napnak.",
+        "ro": "Începeți turul pe bicicletă cu cea mai bună priveliște de la Castelul din Torres Vedras. Coborâți în centru pentru a vizita muzeul municipal și pentru a face o scurtă oprire la Chafariz dos Canos. După un prânz revigorant, traseul vă duce în afara orașului, de-a lungul apeductului istoric. Punctul culminant al după-amiezii este plimbarea liniștită până la Mănăstirea izolată Varatojo, un loc de liniște și istorie care răsplătește efortul călătoriei și oferă un final perfect pentru ziua dvs. activă.",
+        "en": "Start your bike tour with the best view from Castelo de Torres Vedras. Roll downhill into the center to visit the municipal museum and make a quick stop at Chafariz dos Canos. After a refreshing lunch, your route takes you out of the city, along the historic aqueduct. The highlight of the afternoon is the quiet ride to the secluded Convento do Varatojo, a place of peace and history that rewards the effort of the ride and provides a perfect end to your active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastel de Feijão",
+            "tip": "Der perfekte Energielieferant für eine Radtour."
+          },
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Suchen Sie nach einem Restaurant, das auf frischen Fisch von der nahen Küste spezialisiert ist."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Ein leichter, spritziger Wein, der perfekt zu einem aktiven Tag passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastel de Feijão",
+            "tip": "Tökéletes energiaforrás egy kerékpártúrához."
+          },
+          {
+            "name": "Grillezett hal",
+            "tip": "Keressen egy éttermet, amely a közeli partról származó friss halakra specializálódott."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Könnyű, pezsgő bor, amely tökéletesen illik egy aktív naphoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastel de Feijão",
+            "tip": "Stimulentul energetic perfect pentru un tur cu bicicleta."
+          },
+          {
+            "name": "Pește la grătar",
+            "tip": "Căutați un restaurant specializat în pește proaspăt de pe coasta din apropiere."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Un vin ușor, spumant, care se potrivește perfect cu o zi activă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastel de Feijão",
+            "tip": "The perfect energy booster for a bike tour."
+          },
+          {
+            "name": "Grilled Fish",
+            "tip": "Look for a restaurant specializing in fresh fish from the nearby coast."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "A light, crisp wine that's perfect for an active day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Convento do Varatojo",
+            "tip": "Die Abgeschiedenheit des Klosters bietet ultimative Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Landschaft um Torres Vedras",
+            "tip": "Genießen Sie die Stille der Weinberge und Hügel auf Ihrer Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang vom Schloss",
+            "tip": "Wenn Sie am Ende des Tages zurückkehren, ist dies der beste Ort, um die Sonne untergehen zu sehen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Varatojo kolostor",
+            "tip": "A kolostor elszigeteltsége tökéletes nyugalmat kínál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Torres Vedras környéki táj",
+            "tip": "Élvezze a szőlőültetvények és dombok csendjét tekerés közben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a várból",
+            "tip": "Ha a nap végén visszatér, ez a legjobb hely a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Varatojo",
+            "tip": "Izolarea mănăstirii oferă o liniște supremă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Peisajul rural din jurul Torres Vedras",
+            "tip": "Bucurați-vă de liniștea podgoriilor și a dealurilor în timpul plimbării.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare de la castel",
+            "tip": "Dacă vă întoarceți la sfârșitul zilei, este cel mai bun loc pentru a privi soarele apunând.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Convent of Varatojo",
+            "tip": "The seclusion of the convent offers ultimate tranquility.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Countryside around Torres Vedras",
+            "tip": "Enjoy the silence of the vineyards and hills on your ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset from the Castle",
+            "tip": "If you return at the end of the day, it's the best spot to watch the sun go down.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingüter",
+            "tip": "Viele Weingüter in der Umgebung bieten Direktverkäufe an. Ein ausgezeichnetes Souvenir."
+          },
+          {
+            "name": "Keramikgeschäfte",
+            "tip": "Halten Sie Ausschau nach handgefertigter Keramik, einer portugiesischen Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borászatok",
+            "tip": "A környéken számos pincészet kínál közvetlen értékesítést. Kitűnő szuvenír."
+          },
+          {
+            "name": "Kerámiaüzletek",
+            "tip": "Keresse a kézzel készített kerámiákat, egy portugál különlegességet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame",
+            "tip": "Multe crame din zonă oferă vânzări directe. Un suvenir excelent."
+          },
+          {
+            "name": "Magazine de ceramică",
+            "tip": "Căutați ceramică artizanală, o specialitate portugheză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wineries",
+            "tip": "Many wineries in the area offer direct sales. An excellent souvenir."
+          },
+          {
+            "name": "Ceramics Shops",
+            "tip": "Look out for handmade pottery, a Portuguese specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen für die Abfahrten.",
+          "Ein Helm wird dringend empfohlen.",
+          "Die Straßen außerhalb der Stadt können eng sein, fahren Sie vorsichtig.",
+          "Nehmen Sie ausreichend Wasser und ein paar Snacks für die längere Fahrt zum Kloster mit."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket a lejtőkön.",
+          "Sisak használata erősen ajánlott.",
+          "A városon kívüli utak szűkek lehetnek, vezessen óvatosan.",
+          "Vigyen magával elegendő vizet és némi harapnivalót a hosszabb, kolostorhoz vezető útra."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele pentru coborâri.",
+          "O cască este foarte recomandată.",
+          "Drumurile din afara orașului pot fi înguste, conduceți cu prudență.",
+          "Luați suficientă apă și câteva gustări pentru călătoria mai lungă la mănăstire."
+        ],
+        "en": [
+          "Check your bike before you set off, especially the brakes for the downhills.",
+          "A helmet is strongly recommended.",
+          "Roads outside the city can be narrow, ride with caution.",
+          "Take plenty of water and some snacks for the longer ride to the convent."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 24.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Parken in der Innenstadt & Castelo",
+            "hu": "A Klaszter: Parkolás a belvárosban és a Vár",
+            "ro": "Cluster A: Parcare în centru și Castel",
+            "en": "Cluster A: Park Downtown & Castle"
+          },
+          "coords": [
+            -9.26,
+            39.092
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in einem der zentralen Parkhäuser für den ganzen Vormittag.",
+            "hu": "Parkolja le az autót egy központi parkolóházban egész délelőttre.",
+            "ro": "Parcați mașina într-una dintre parcările centrale pentru întreaga dimineață.",
+            "en": "Park your car in a central parking garage for the whole morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Santa Maria do Castelo",
+            "hu": "Santa Maria do Castelo templom",
+            "ro": "Biserica Santa Maria do Castelo",
+            "en": "Church of Santa Maria do Castelo"
+          },
+          "coords": [
+            -9.2599,
+            39.0918
+          ],
+          "category": "church",
+          "arrive_at": "10:12",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Schloss entfernt, erkunden Sie die Gassen.",
+            "hu": "Csak egy rövid sétára a vártól, fedezze fel a sikátorokat.",
+            "ro": "La doar o scurtă plimbare de castel, explorați străduțele.",
+            "en": "Just a short walk from the castle, explore the alleyways."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal Leonel Trindade",
+            "hu": "Leonel Trindade Városi Múzeum",
+            "ro": "Muzeul Municipal Leonel Trindade",
+            "en": "Leonel Trindade Municipal Museum"
+          },
+          "coords": [
+            -9.2608,
+            39.0905
+          ],
+          "category": "museum",
+          "arrive_at": "10:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Auto geparkt und gehen Sie zum Museum.",
+            "hu": "Hagyja leparkolva az autót, és sétáljon el a múzeumig.",
+            "ro": "Lăsați mașina parcată și mergeți pe jos până la muzeu.",
+            "en": "Leave the car parked and walk down to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            -9.262,
+            39.091
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine ausgiebige Mahlzeit, bevor Sie zum nächsten Cluster fahren.",
+            "hu": "Élvezzen egy kiadós étkezést, mielőtt a következő klaszterhez hajtana.",
+            "ro": "Bucurați-vă de o masă copioasă înainte de a conduce la următorul cluster.",
+            "en": "Enjoy a full meal before you drive to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Forte de São Vicente",
+            "hu": "B Klaszter: Forte de São Vicente",
+            "ro": "Cluster B: Fortul São Vicente",
+            "en": "Cluster B: Fort of São Vicente"
+          },
+          "coords": [
+            -9.26,
+            39.108
+          ],
+          "category": "castle",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem Fort, das Teil der Linien von Torres Vedras ist. Gute Parkmöglichkeiten.",
+            "hu": "Hajtson el ehhez az erődhöz, amely a Torres Vedras-i vonalak része. Jó parkolási lehetőség.",
+            "ro": "Conduceți la acest fort, parte a Liniilor lui Torres Vedras. Parcare bună disponibilă.",
+            "en": "Drive to this fort, part of the Lines of Torres Vedras. Good parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Convento do Varatojo",
+            "hu": "C Klaszter: Varatojo kolostor",
+            "ro": "Cluster C: Mănăstirea Varatojo",
+            "en": "Cluster C: Convent of Varatojo"
+          },
+          "coords": [
+            -9.228,
+            39.083
+          ],
+          "category": "church",
+          "arrive_at": "15:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 18.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine längere Fahrt, aber die Ruhe und spirituelle Atmosphäre sind die Reise wert.",
+            "hu": "Hosszabb út, de a csend és a spirituális légkör megéri az utazást.",
+            "ro": "O călătorie mai lungă, dar liniștea și atmosfera spirituală merită drumul.",
+            "en": "A longer drive, but the tranquility and spiritual atmosphere are worth the journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt bei Varatojo",
+            "hu": "Kilátópont Varatojo közelében",
+            "ro": "Punct de belvedere lângă Varatojo",
+            "en": "Viewpoint near Varatojo"
+          },
+          "coords": [
+            -9.227,
+            39.0825
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:11",
+          "stay_min": 54,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Spaziergang vom Kloster zu einem nahegelegenen Hügel für eine letzte Aussicht.",
+            "hu": "Tegyen egy rövid sétát a kolostortól egy közeli dombra az utolsó kilátásért.",
+            "ro": "Faceți o scurtă plimbare de la mănăstire la un deal din apropiere pentru o ultimă priveliște.",
+            "en": "Take a short walk from the convent to a nearby hill for one last view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Zentrum von Torres Vedras parken und den historischen Kern zu Fuß erkunden. Der Vormittag ist dem Schloss, der Kirche und dem Museum gewidmet. Nach dem Mittagessen fahren Sie nach Norden zum Forte de São Vicente, einem wichtigen Teil der napoleonischen Verteidigungslinien. Ihr letztes Ziel ist eine längere Fahrt zum abgeschiedenen Convento do Varatojo, wo Sie den Tag mit einem Spaziergang zu einem nahegelegenen Aussichtspunkt in ruhiger, ländlicher Umgebung ausklingen lassen.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját Torres Vedras központjában, és gyalog fedezi fel a történelmi központot. A délelőtt a váré, a templomé és a múzeumé. Ebéd után észak felé veszi az irányt a Forte de São Vicente-hez, a napóleoni védelmi vonalak fontos részéhez. Az utolsó úti cél egy hosszabb autóút az eldugott Convento do Varatojo-hoz, ahol a napot egy közeli kilátóhoz tett sétával zárja, csendes, vidéki környezetben.",
+        "ro": "Începeți ziua parcând mașina în centrul orașului Torres Vedras și explorând nucleul istoric pe jos. Dimineața este dedicată castelului, bisericii și muzeului. După prânz, conduceți spre nord la Fortul São Vicente, o parte importantă a liniilor de apărare napoleoniene. Destinația finală este o călătorie mai lungă cu mașina până la Mănăstirea izolată Varatojo, unde încheiați ziua cu o plimbare la un punct de belvedere din apropiere, într-un cadru rural liniștit.",
+        "en": "Start your day by parking your car in the center of Torres Vedras and exploring the historic core on foot. The morning is dedicated to the castle, church, and museum. After lunch, you'll drive north to the Forte de São Vicente, an important part of the Napoleonic defense lines. Your final destination is a longer drive to the secluded Convento do Varatojo, where you'll end the day with a walk to a nearby viewpoint in a quiet, rural setting."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Pátio da Mariquinhas",
+            "tip": "Bekannt für traditionelle portugiesische Küche und eine gemütliche Atmosphäre."
+          },
+          {
+            "name": "Pastel de Feijão",
+            "tip": "Nehmen Sie eine Schachtel für die Heimfahrt mit."
+          },
+          {
+            "name": "Lokaler Käse und Wurstwaren",
+            "tip": "Perfekt für ein Picknick an einem der Aussichtspunkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pátio da Mariquinhas étterem",
+            "tip": "Hagyományos portugál konyhájáról és hangulatos légköréről ismert."
+          },
+          {
+            "name": "Pastel de Feijão",
+            "tip": "Vigyen magával egy dobozzal a hazaútra."
+          },
+          {
+            "name": "Helyi sajt és felvágottak",
+            "tip": "Tökéletes egy piknikhez az egyik kilátópontnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Pátio da Mariquinhas",
+            "tip": "Cunoscut pentru bucătăria tradițională portugheză și o atmosferă primitoare."
+          },
+          {
+            "name": "Pastel de Feijão",
+            "tip": "Luați o cutie pentru drumul spre casă."
+          },
+          {
+            "name": "Brânzeturi și mezeluri locale",
+            "tip": "Perfect pentru un picnic la unul dintre punctele de belvedere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pátio da Mariquinhas Restaurant",
+            "tip": "Known for traditional Portuguese cuisine and a cozy atmosphere."
+          },
+          {
+            "name": "Pastel de Feijão",
+            "tip": "Grab a box to take home for the road."
+          },
+          {
+            "name": "Local cheese and cured meats",
+            "tip": "Perfect for a picnic at one of the viewpoints."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Convento do Varatojo",
+            "tip": "Finden Sie absolute Stille in den Klostermauern und Gärten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussicht vom Forte de São Vicente",
+            "tip": "Ein weitreichender, oft windiger und ruhiger Blick über die Region.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Fahrt zwischen den Zielen",
+            "tip": "Genießen Sie die Fahrt durch die portugiesische Landschaft.",
+            "emoji": "🚗"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Varatojo kolostor",
+            "tip": "Találjon teljes csendet a kolostor falai és kertjei között.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Forte de São Vicente-ből",
+            "tip": "Messze nyúló, gyakran szeles és csendes kilátás a régióra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az út a célpontok között",
+            "tip": "Élvezze az utazást a portugál tájon keresztül.",
+            "emoji": "🚗"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Varatojo",
+            "tip": "Găsiți liniște absolută între zidurile și grădinile mănăstirii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de la Fortul São Vicente",
+            "tip": "O priveliște vastă, adesea bătută de vânt și liniștită asupra regiunii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Drumul între destinații",
+            "tip": "Bucurați-vă de călătoria prin peisajul rural portughez.",
+            "emoji": "🚗"
+          }
+        ],
+        "en": [
+          {
+            "name": "Convent of Varatojo",
+            "tip": "Find absolute silence within the convent's walls and gardens.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from Forte de São Vicente",
+            "tip": "A sweeping, often windy and quiet view over the region.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The drive between destinations",
+            "tip": "Enjoy the journey through the Portuguese countryside.",
+            "emoji": "🚗"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingüter an der 'Rota dos Vinhos do Oeste'",
+            "tip": "Planen Sie einen Abstecher zu einem Weingut für eine Verkostung und zum Kauf."
+          },
+          {
+            "name": "Souvenirladen im Museum",
+            "tip": "Bietet oft einzigartige, lokal inspirierte Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pincészetek a 'Rota dos Vinhos do Oeste' mentén",
+            "tip": "Tervezzen egy kitérőt egy pincészethez kóstolóra és vásárlásra."
+          },
+          {
+            "name": "Ajándékbolt a múzeumban",
+            "tip": "Gyakran kínál egyedi, helyi ihletésű ajándékokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame pe 'Rota dos Vinhos do Oeste'",
+            "tip": "Planificați un ocol la o cramă pentru o degustare și cumpărături."
+          },
+          {
+            "name": "Magazin de suveniruri la muzeu",
+            "tip": "Adesea oferă cadouri unice, de inspirație locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wineries on the 'Rota dos Vinhos do Oeste'",
+            "tip": "Plan a detour to a winery for a tasting and to buy."
+          },
+          {
+            "name": "Museum Gift Shop",
+            "tip": "Often offers unique, locally inspired gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Benzinanzeige, bevor Sie die Stadt verlassen.",
+          "Ein GPS ist für die Navigation zwischen den Clustern unerlässlich.",
+          "Parken im Zentrum kann schwierig sein, nutzen Sie kostenpflichtige Parkplätze für mehr Sicherheit.",
+          "Nehmen Sie sowohl bequeme Wanderschuhe als auch gute Fahrschuhe mit."
+        ],
+        "hu": [
+          "Ellenőrizze az üzemanyagszintet, mielőtt elhagyja a várost.",
+          "GPS elengedhetetlen a klaszterek közötti navigációhoz.",
+          "A központban a parkolás nehézkes lehet, a nagyobb biztonság érdekében használjon fizetős parkolókat.",
+          "Vigyen magával kényelmes túracipőt és jó vezetőcipőt is."
+        ],
+        "ro": [
+          "Verificați indicatorul de combustibil înainte de a părăsi orașul.",
+          "Un GPS este esențial pentru navigarea între clustere.",
+          "Parcarea în centru poate fi dificilă, folosiți parcările cu plată pentru mai multă siguranță.",
+          "Luați atât pantofi de mers confortabili, cât și pantofi buni pentru condus."
+        ],
+        "en": [
+          "Check your fuel gauge before leaving the city.",
+          "A GPS is essential for navigating between the clusters.",
+          "Parking in the center can be tricky; use paid parking for peace of mind.",
+          "Bring both comfortable walking shoes and good driving shoes."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Ankunft im Zentrum & Castelo",
+            "hu": "A Klaszter: Érkezés a központba és a Vár",
+            "ro": "Cluster A: Sosire în centru și Castel",
+            "en": "Cluster A: Arrive in Center & Castle"
+          },
+          "coords": [
+            -9.26,
+            39.092
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Hauptterminal und gehen Sie zum Schloss.",
+            "hu": "Menjen busszal a főpályaudvarra, majd sétáljon fel a várhoz.",
+            "ro": "Luați un autobuz până la terminalul principal și mergeți pe jos la castel.",
+            "en": "Take a bus to the main terminal and walk up to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Santa Maria do Castelo",
+            "hu": "Santa Maria do Castelo templom",
+            "ro": "Biserica Santa Maria do Castelo",
+            "en": "Church of Santa Maria do Castelo"
+          },
+          "coords": [
+            -9.2599,
+            39.0918
+          ],
+          "category": "church",
+          "arrive_at": "10:17",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss, leicht zu finden.",
+            "hu": "Rövid séta a vártól, könnyen megtalálható.",
+            "ro": "O scurtă plimbare de la castel, ușor de găsit.",
+            "en": "A short stroll from the castle, easy to find."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal Leonel Trindade",
+            "hu": "Leonel Trindade Városi Múzeum",
+            "ro": "Muzeul Municipal Leonel Trindade",
+            "en": "Leonel Trindade Municipal Museum"
+          },
+          "coords": [
+            -9.2608,
+            39.0905
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt in diesem Wandercluster, bevor es zum Mittagessen geht.",
+            "hu": "Az utolsó megálló ebben a gyalogos klaszterben ebéd előtt.",
+            "ro": "Ultima oprire din acest cluster de mers pe jos înainte de prânz.",
+            "en": "The last stop in this walking cluster before lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            -9.262,
+            39.091
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie ein Restaurant in der Nähe der Bushaltestelle für den nächsten Teil der Reise.",
+            "hu": "Keressen egy éttermet a buszmegálló közelében az utazás következő szakaszához.",
+            "ro": "Găsiți un restaurant lângă stația de autobuz pentru următoarea parte a călătoriei.",
+            "en": "Find a restaurant near the bus stop for the next leg of the journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Aqueduto da Fonte dos Canos",
+            "hu": "B Klaszter: Fonte dos Canos vízvezeték",
+            "ro": "Cluster B: Apeductul Fonte dos Canos",
+            "en": "Cluster B: Aqueduct of Fonte dos Canos"
+          },
+          "coords": [
+            -9.2699,
+            39.0935
+          ],
+          "category": "landmark",
+          "arrive_at": "14:23",
+          "stay_min": 45,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, der Sie in die Nähe des Aquädukts bringt. Ein kurzer Spaziergang ist erforderlich.",
+            "hu": "Menjen egy helyi busszal, amely a vízvezeték közelébe visz. Rövid séta szükséges.",
+            "ro": "Luați un autobuz local care vă duce aproape de apeduct. Este necesară o scurtă plimbare.",
+            "en": "Take a local bus that gets you close to the aqueduct. A short walk will be needed."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermida de Nossa Senhora do Ameal",
+            "hu": "Nossa Senhora do Ameal kápolna",
+            "ro": "Schitul Nossa Senhora do Ameal",
+            "en": "Hermitage of Nossa Senhora do Ameal"
+          },
+          "coords": [
+            -9.2785,
+            39.0911
+          ],
+          "category": "church",
+          "arrive_at": "15:54",
+          "stay_min": 41,
+          "hop_from_prev_min": 46,
+          "hop_from_prev_km": 4.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Möglicherweise müssen Sie umsteigen, aber die Ruhe dieses Ortes ist es wert.",
+            "hu": "Lehet, hogy át kell szállnia, de a hely nyugalma megéri.",
+            "ro": "S-ar putea să trebuiască să schimbați autobuzul, dar liniștea acestui loc merită.",
+            "en": "You may need to change buses, but the tranquility of this spot is worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Busfahrt ins Herz von Torres Vedras. Der Vormittag ist ein Rundgang durch das historische Zentrum, vom Schloss über die Kirche bis zum Museum. Nach dem Mittagessen nutzen Sie das lokale Busnetz, um zum ersten abgelegenen Ziel, dem Aquädukt, zu gelangen. Eine weitere Busfahrt bringt Sie zur friedlichen Ermida do Ameal, einem perfekten Ort, um den Tag in Ruhe ausklingen zu lassen, bevor Sie mit dem Bus ins Zentrum zurückkehren.",
+        "hu": "A nap egy buszúttal kezdődik Torres Vedras szívébe. A délelőtt egy gyalogtúra a történelmi központban, a vártól a templomon át a múzeumig. Ebéd után a helyi buszhálózattal jut el az első távolabbi célponthoz, a vízvezetékhez. Egy újabb buszozás elviszi a békés Ermida do Ameal-hoz, amely tökéletes hely a nap csendes lezárásához, mielőtt busszal visszatérne a központba.",
+        "ro": "Ziua dvs. începe cu o călătorie cu autobuzul în inima orașului Torres Vedras. Dimineața este un tur pe jos al centrului istoric, de la castel la biserică și muzeu. După prânz, folosiți rețeaua locală de autobuze pentru a ajunge la prima destinație îndepărtată, apeductul. O altă călătorie cu autobuzul vă duce la liniștitul Schit do Ameal, un loc perfect pentru a încheia ziua în pace înainte de a vă întoarce în centru cu autobuzul.",
+        "en": "Your day starts with a bus ride into the heart of Torres Vedras. The morning is a walking tour of the historic center, from the castle to the church and museum. After lunch, you'll use the local bus network to get to the first outlying destination, the aqueduct. Another bus ride takes you to the peaceful Ermida do Ameal, a perfect spot to end the day quietly before returning to the center by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana",
+            "tip": "Ein schnelles und leckeres Schweinefleisch-Sandwich, perfekt für einen Tag mit öffentlichen Verkehrsmitteln."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Auch wenn es nicht von hier stammt, ist es immer ein Genuss."
+          },
+          {
+            "name": "Lokale Cafés",
+            "tip": "Ideal für eine Pause zwischen den Busfahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana",
+            "tip": "Gyors és ízletes sertéshúsos szendvics, tökéletes egy tömegközlekedéssel töltött napra."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Bár nem innen származik, mindig élvezet."
+          },
+          {
+            "name": "Helyi kávézók",
+            "tip": "Ideális egy pihenőre a buszutak között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș rapid și delicios cu carne de porc, perfect pentru o zi cu transportul public."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Chiar dacă nu este originar de aici, este întotdeauna un deliciu."
+          },
+          {
+            "name": "Cafenele locale",
+            "tip": "Ideal pentru o pauză între călătoriile cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana",
+            "tip": "A quick and delicious pork sandwich, perfect for a day on public transport."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Even if not native to here, it's always a treat."
+          },
+          {
+            "name": "Local Cafes",
+            "tip": "Ideal for a break between bus rides."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ermida do Ameal",
+            "tip": "Ein Ort der Ruhe, der die Reise mit öffentlichen Verkehrsmitteln wert ist.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Beobachten Sie das Alltagsleben, während Sie durch die Stadt fahren.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Friedhof neben dem Schloss",
+            "tip": "Ein unerwartet ruhiger und historischer Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ermida do Ameal",
+            "tip": "A nyugalom helye, amely megéri a tömegközlekedéssel való utazást.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Figyelje a mindennapi életet, miközben a városon keresztül utazik.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Temető a vár mellett",
+            "tip": "Váratlanul csendes és történelmi hely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schitul do Ameal",
+            "tip": "Un loc de liniște care merită călătoria cu transportul public.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Privind pe fereastra autobuzului",
+            "tip": "Observați viața de zi cu zi în timp ce călătoriți prin oraș.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Cimitirul de lângă castel",
+            "tip": "Un loc neașteptat de liniștit și istoric.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ermida do Ameal",
+            "tip": "A place of tranquility that's worth the public transport journey.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "Observe daily life as you travel through the city.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Cemetery next to the castle",
+            "tip": "An unexpectedly quiet and historic place.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe des Busterminals",
+            "tip": "Praktisch für Last-Minute-Souvenirs vor der Abreise."
+          },
+          {
+            "name": "Lokaler Supermarkt",
+            "tip": "Kaufen Sie authentische portugiesische Produkte wie Olivenöl oder Konserven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a buszpályaudvar közelében",
+            "tip": "Praktikus az utolsó pillanatban beszerzett ajándéktárgyakhoz indulás előtt."
+          },
+          {
+            "name": "Helyi szupermarket",
+            "tip": "Vásároljon autentikus portugál termékeket, például olívaolajat vagy konzerveket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă terminalul de autobuz",
+            "tip": "Convenabil pentru suveniruri de ultim moment înainte de plecare."
+          },
+          {
+            "name": "Supermarket local",
+            "tip": "Cumpărați produse portugheze autentice, cum ar fi ulei de măsline sau conserve."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near the bus terminal",
+            "tip": "Convenient for last-minute souvenirs before you leave."
+          },
+          {
+            "name": "Local Supermarket",
+            "tip": "Buy authentic Portuguese products like olive oil or canned goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar, um Geld zu sparen.",
+          "Laden Sie die lokale ÖPNV-App herunter oder haben Sie den Fahrplan zur Hand.",
+          "Planen Sie zusätzliche Zeit für mögliche Busverspätungen ein.",
+          "Beachten Sie, dass die Busfrequenzen abends und am Wochenende reduziert sein können."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha elérhető, hogy pénzt takarítson meg.",
+          "Töltse le a helyi tömegközlekedési alkalmazást, vagy legyen kéznél a menetrend.",
+          "Számoljon extra idővel az esetleges buszkésések miatt.",
+          "Vegye figyelembe, hogy a buszjáratok sűrűsége este és hétvégén csökkenhet."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz, dacă este disponibil, pentru a economisi bani.",
+          "Descărcați aplicația locală de transport public sau aveți la îndemână orarul.",
+          "Planificați timp suplimentar pentru posibilele întârzieri ale autobuzelor.",
+          "Rețineți că frecvența autobuzelor poate fi redusă seara și în weekend."
+        ],
+        "en": [
+          "Buy a daily bus pass if available to save money.",
+          "Download the local transit app or have the schedule handy.",
+          "Allow for extra time for potential bus delays.",
+          "Be aware that bus frequency may be reduced in the evenings and on weekends."
+        ]
+      }
+    }
+  }
+}

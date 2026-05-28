@@ -1,0 +1,1460 @@
+{
+  "city_id": "netherlands-zoetermeer-cities-v2",
+  "anchor": {
+    "name": "Zoetermeer",
+    "coords": [
+      4.4931,
+      52.0607
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadshart",
+            "hu": "Stadshart (Városközpont)",
+            "ro": "Stadshart (Inima Orașului)",
+            "en": "Stadshart (City Heart)"
+          },
+          "coords": [
+            4.4925,
+            52.0603
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Kaffee in einem der vielen Cafés am Platz.",
+            "hu": "Indítsa a napot egy kávéval a tér egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre multele cafenele din piață.",
+            "en": "Start your day with a coffee at one of the many cafes on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Oude Kerk",
+            "hu": "Oude Kerk (Öregtemplom)",
+            "ro": "Oude Kerk (Biserica Veche)",
+            "en": "Oude Kerk (Old Church)"
+          },
+          "coords": [
+            4.4988,
+            52.0631
+          ],
+          "category": "churches",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Achten Sie auf die charakteristische Zwiebelkuppel, ein Wahrzeichen der Stadt.",
+            "hu": "Figyelje meg a jellegzetes hagymakupolát, a város egyik szimbólumát.",
+            "ro": "Observați turla sa distinctivă în formă de ceapă, un reper al orașului.",
+            "en": "Look for its distinctive onion-shaped spire, a landmark of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsmuseum Zoetermeer",
+            "hu": "Stadsmuseum Zoetermeer (Városi Múzeum)",
+            "ro": "Stadsmuseum Zoetermeer (Muzeul Orașului)",
+            "en": "Stadsmuseum Zoetermeer (City Museum)"
+          },
+          "coords": [
+            4.4975,
+            52.0625
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Entwicklung von Zoetermeer von einem Dorf zu einer modernen Stadt.",
+            "hu": "Ismerje meg Zoetermeer fejlődését egy kis faluból modern várossá.",
+            "ro": "Aflați despre transformarea Zoetermeer dintr-un sat într-un oraș modern.",
+            "en": "Learn about Zoetermeer's transformation from a village to a modern city."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicolaaskerk",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            4.4999,
+            52.064
+          ],
+          "category": "churches",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur und die ruhige Atmosphäre im Inneren.",
+            "hu": "Csodálja meg a neogótikus építészetet és a belső tér békés hangulatát.",
+            "ro": "Admirați arhitectura neogotică și atmosfera liniștită din interior.",
+            "en": "Admire the neo-Gothic architecture and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Wilhelminapark",
+            "hu": "Vilma Királynő Park",
+            "ro": "Parcul Wilhelmina",
+            "en": "Wilhelmina Park"
+          },
+          "coords": [
+            4.512,
+            52.0665
+          ],
+          "category": "parks",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Perfekt für ein Mittagspicknick oder einen entspannten Spaziergang am Wasser.",
+            "hu": "Tökéletes egy ebédpiknikhez vagy egy pihentető sétához a vízparton.",
+            "ro": "Perfect pentru un picnic la prânz sau o plimbare relaxantă pe malul apei.",
+            "en": "Perfect for a lunch picnic or a relaxing stroll by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Woonhart",
+            "hu": "Woonhart (Lakónegyed központja)",
+            "ro": "Woonhart (Centrul rezidențial)",
+            "en": "Woonhart (Residential Heart)"
+          },
+          "coords": [
+            4.4881,
+            52.0589
+          ],
+          "category": "squares",
+          "arrive_at": "15:20",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Einrichtungsgeschäfte und genießen Sie die moderne Atmosphäre.",
+            "hu": "Fedezze fel a lakberendezési üzleteket és élvezze a modern hangulatot.",
+            "ro": "Explorați magazinele de design interior și bucurați-vă de atmosfera modernă.",
+            "en": "Explore the home furnishing stores and enjoy the modern atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Zoetermeer beginnt im belebten Stadshart. Am Vormittag erkunden Sie das historische Herz der Stadt mit der Oude Kerk und dem Stadsmuseum, das die faszinierende Stadtentwicklung zeigt. Der Mittag führt Sie zur neugotischen Nicolaaskerk, bevor Sie im ruhigen Wilhelminapark eine Pause einlegen. Am Nachmittag schlendern Sie durch das moderne Woonhart, ein Zentrum für Design, das einen Kontrast zur Altstadt bildet und den Tag perfekt abrundet.",
+        "hu": "Sétája Zoetermeerben a nyüzsgő Stadshartban kezdődik. Délelőtt felfedezi a város történelmi szívét az Oude Kerk templommal és a Városi Múzeummal, amely bemutatja a város lenyűgöző fejlődését. Délben a neogótikus Nicolaaskerk felé veszi az irányt, majd a csendes Wilhelminaparkban tart egy kis szünetet. Délután a modern Woonhart negyedben sétál, amely a dizájn központja, kontrasztot alkotva az óvárossal, és tökéletesen lezárva a napot.",
+        "ro": "Plimbarea dvs. prin Zoetermeer începe în animatul Stadshart. Dimineața explorați inima istorică a orașului cu Oude Kerk și Muzeul Orașului, care prezintă dezvoltarea fascinantă a orașului. La prânz vă îndreptați spre neogotica Nicolaaskerk înainte de a lua o pauză în liniștitul Parc Wilhelmina. După-amiaza vă plimbați prin modernul Woonhart, un centru de design care contrastează cu orașul vechi, încheind ziua perfect.",
+        "en": "Your walk through Zoetermeer begins in the bustling Stadshart. In the morning, you'll explore the historic heart of the city with the Oude Kerk and the City Museum, showcasing its fascinating development. Midday takes you to the neo-Gothic Nicolaaskerk before you take a break in the peaceful Wilhelmina Park. In the afternoon, stroll through the modern Woonhart, a center for design, contrasting with the old town and perfectly rounding off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Poffertjes",
+            "tip": "Probieren Sie diese kleinen Pfannkuchen in einem der Stände im Stadshart."
+          },
+          {
+            "name": "Haring",
+            "tip": "Ein traditioneller holländischer Snack, den man bei einem Fischhändler bekommt."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Kaufen Sie eine frisch gemachte Sirupwaffel auf dem Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poffertjes",
+            "tip": "Kóstolja meg ezeket a mini palacsintákat a Stadshart egyik bódéjában."
+          },
+          {
+            "name": "Haring",
+            "tip": "Hagyományos holland csemege, amelyet egy halárusnál szerezhet be."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Vásároljon egy frissen készült szirupos gofrit a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poffertjes",
+            "tip": "Încercați aceste mini-clătite la una dintre tarabele din Stadshart."
+          },
+          {
+            "name": "Haring",
+            "tip": "O gustare tradițională olandeză, disponibilă la vânzătorii de pește."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Cumpărați o vafă cu sirop proaspăt făcută de la piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Poffertjes",
+            "tip": "Try these mini pancakes at one of the stalls in Stadshart."
+          },
+          {
+            "name": "Haring",
+            "tip": "A traditional Dutch snack, get one from a fishmonger."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Buy a freshly made syrup waffle from the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wilhelminapark",
+            "tip": "Finden Sie eine ruhige Bank am See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Noord AA",
+            "tip": "Ein ruhiger Spaziergang entlang des Sees, auch wenn es weiter entfernt ist.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hofjes bei der Oude Kerk",
+            "tip": "Entdecken Sie die kleinen, ruhigen Innenhöfe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wilhelminapark",
+            "tip": "Keressen egy csendes padot a tó partján.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Noord AA partja",
+            "tip": "Egy békés séta a tó mentén, habár távolabb esik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az Oude Kerk melletti udvarok",
+            "tip": "Fedezze fel a kicsi, csendes belső udvarokat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Wilhelmina",
+            "tip": "Găsiți o bancă liniștită lângă lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul lacului Noord AA",
+            "tip": "O plimbare pașnică de-a lungul lacului, chiar dacă este mai departe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curțile interioare de lângă Oude Kerk",
+            "tip": "Descoperiți curțile mici și liniștite.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wilhelmina Park",
+            "tip": "Find a quiet bench by the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Shores of Noord AA",
+            "tip": "A peaceful walk along the lake, even if it's further away.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyards near Oude Kerk",
+            "tip": "Discover the small, quiet courtyards.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stadshart",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus bekannten Marken und Boutiquen."
+          },
+          {
+            "name": "Markt am Oude Kerk",
+            "tip": "Am Markttag finden Sie hier lokale Produkte und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadshart",
+            "tip": "A fő bevásárlóutca ismert márkák és butikok keverékével."
+          },
+          {
+            "name": "Piac az Oude Kerk mellett",
+            "tip": "Piacnapon helyi termékeket és sajtokat találhat itt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadshart",
+            "tip": "Principala stradă comercială cu un amestec de mărci cunoscute și buticuri."
+          },
+          {
+            "name": "Piața de lângă Oude Kerk",
+            "tip": "În ziua de piață, veți găsi aici produse locale și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadshart",
+            "tip": "The main shopping street with a mix of well-known brands and boutiques."
+          },
+          {
+            "name": "Market by the Oude Kerk",
+            "tip": "On market day, you can find local produce and cheese here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie einige Kilometer zurücklegen werden.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten des Stadsmuseums im Voraus.",
+          "Einige Cafés im Stadshart bieten kostenloses WLAN."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel több kilométert fog gyalogolni.",
+          "A központi látnivalók többsége könnyen elérhető gyalog.",
+          "Ellenőrizze előre a Városi Múzeum nyitvatartási idejét.",
+          "Néhány kávézó a Stadshartban ingyenes Wi-Fi-t kínál."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți parcurge câțiva kilometri.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Verificați în avans programul de funcționare al Muzeului Orașului.",
+          "Unele cafenele din Stadshart oferă Wi-Fi gratuit."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be covering a few kilometers.",
+          "Most central sights are easily reachable on foot.",
+          "Check the opening hours for the Stadsmuseum in advance.",
+          "Some cafes in Stadshart offer free Wi-Fi."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadshart",
+            "hu": "Stadshart (Városközpont)",
+            "ro": "Stadshart (Inima Orașului)",
+            "en": "Stadshart (City Heart)"
+          },
+          "coords": [
+            4.4925,
+            52.0603
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad in der Nähe und beginnen Sie Ihre Tour hier.",
+            "hu": "Béreljen kerékpárt a közelben, és kezdje itt a túrát.",
+            "ro": "Închiriați bicicleta din apropiere și începeți turul de aici.",
+            "en": "Rent your bike nearby and start your tour here."
+          }
+        },
+        {
+          "name": {
+            "de": "Oude Kerk & Stadsmuseum",
+            "hu": "Oude Kerk és Városi Múzeum",
+            "ro": "Oude Kerk și Muzeul Orașului",
+            "en": "Oude Kerk & City Museum"
+          },
+          "coords": [
+            4.4988,
+            52.0631
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie beide Sehenswürdigkeiten zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel mindkét látnivalót gyalog.",
+            "ro": "Parcați bicicleta și explorați ambele atracții pe jos.",
+            "en": "Park your bike and explore both sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Waterturm Zoetermeer",
+            "hu": "Zoetermeeri víztorony",
+            "ro": "Turnul de apă din Zoetermeer",
+            "en": "Zoetermeer Water Tower"
+          },
+          "coords": [
+            4.4842,
+            52.0688
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:30",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Fotostopp an diesem industriellen Denkmal der Stadt.",
+            "hu": "Egy gyors fotómegálló a város ipari műemlékénél.",
+            "ro": "O scurtă oprire pentru fotografii la acest monument industrial al orașului.",
+            "en": "A quick photo stop at this industrial monument of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Buytenpark",
+            "hu": "Buytenpark",
+            "ro": "Parcul Buyten",
+            "en": "Buytenpark"
+          },
+          "coords": [
+            4.4599,
+            52.0633
+          ],
+          "category": "parks",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen im Parkcafé und beobachten Sie die Outdoor-Sportler.",
+            "hu": "Ebédeljen a park kávézójában, és figyelje a szabadtéri sportolókat.",
+            "ro": "Luați prânzul la cafeneaua din parc și urmăriți sportivii în aer liber.",
+            "en": "Have lunch at the park cafe and watch the outdoor sports enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Noord AA",
+            "hu": "Noord AA tó",
+            "ro": "Lacul Noord AA",
+            "en": "Noord AA Lake"
+          },
+          "coords": [
+            4.5155,
+            52.0833
+          ],
+          "category": "beaches",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Sandstrand oder wagen Sie ein Bad im See.",
+            "hu": "Pihenjen a homokos parton, vagy merészkedjen be a tóba fürdeni.",
+            "ro": "Relaxați-vă pe plaja de nisip sau îndrăzniți să faceți o baie în lac.",
+            "en": "Relax on the sandy beach or dare to take a swim in the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Wilhelminapark",
+            "hu": "Vilma Királynő Park",
+            "ro": "Parcul Wilhelmina",
+            "en": "Wilhelmina Park"
+          },
+          "coords": [
+            4.512,
+            52.0665
+          ],
+          "category": "parks",
+          "arrive_at": "16:45",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer ruhigen Runde durch diesen wunderschönen Park.",
+            "hu": "Fejezze be a kerékpártúrát egy csendes körrel ebben a gyönyörű parkban.",
+            "ro": "Încheiați turul cu bicicleta cu o plimbare liniștită prin acest parc frumos.",
+            "en": "End your bike tour with a quiet loop through this beautiful park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Zoetermeer beginnt im modernen Stadshart. Am Vormittag radeln Sie zum historischen Kern, um die Oude Kerk und das Museum zu besichtigen, gefolgt von einem Blick auf den Waterturm. Der Mittag führt Sie in den weitläufigen Buytenpark, ideal für eine ausgedehnte Pause. Am Nachmittag erleben Sie das Strandgefühl am Noord AA See, bevor Sie den Tag mit einer entspannten Fahrt durch den eleganten Wilhelminapark ausklingen lassen.",
+        "hu": "Kerékpártúrája a modern Stadshartból indul. Délelőtt a történelmi központba teker, hogy megnézze az Oude Kerket és a múzeumot, majd vet egy pillantást a víztoronyra. Délben a tágas Buytenparkba érkezik, amely ideális egy hosszabb pihenőre. Délután átéli a strandélményt a Noord AA tónál, mielőtt egy pihentető körrel zárja a napot az elegáns Wilhelminaparkban.",
+        "ro": "Turul cu bicicleta prin Zoetermeer începe în modernul Stadshart. Dimineața pedalați spre centrul istoric pentru a vizita Oude Kerk și muzeul, urmat de o privire la Turnul de Apă. La prânz ajungeți în vastul Buytenpark, ideal pentru o pauză prelungită. După-amiaza, experimentați atmosfera de plajă la lacul Noord AA, înainte de a încheia ziua cu o plimbare relaxantă prin elegantul Parc Wilhelmina.",
+        "en": "Your bike tour through Zoetermeer starts in the modern Stadshart. In the morning, you'll cycle to the historic core to visit the Oude Kerk and museum, followed by a look at the Water Tower. Midday brings you to the expansive Buytenpark, ideal for an extended break. In the afternoon, experience the beach feel at Noord AA lake before ending the day with a relaxing ride through the elegant Wilhelmina Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pfannkuchenhaus am See",
+            "tip": "Genießen Sie herzhafte oder süße Pfannkuchen mit Blick auf den Noord AA See."
+          },
+          {
+            "name": "Lokale Brauerei",
+            "tip": "Probieren Sie ein lokal gebrautes Bier nach Ihrer Radtour."
+          },
+          {
+            "name": "Snackbar",
+            "tip": "Ein schneller Stopp für Frikandel oder Pommes im Buytenpark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palacsintázó a tónál",
+            "tip": "Élvezze a sós vagy édes palacsintákat a Noord AA tóra néző kilátással."
+          },
+          {
+            "name": "Helyi sörfőzde",
+            "tip": "Kóstoljon meg egy helyben főzött sört a kerékpártúra után."
+          },
+          {
+            "name": "Büfé",
+            "tip": "Egy gyors megálló egy frikandelre vagy sült krumplira a Buytenparkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casa de clătite de pe lac",
+            "tip": "Savurați clătite sărate sau dulci cu vedere la lacul Noord AA."
+          },
+          {
+            "name": "Berărie locală",
+            "tip": "Încercați o bere produsă local după turul cu bicicleta."
+          },
+          {
+            "name": "Snack bar",
+            "tip": "O oprire rapidă pentru un frikandel sau cartofi prăjiți în Buytenpark."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pancake House by the Lake",
+            "tip": "Enjoy savory or sweet pancakes with a view of Noord AA lake."
+          },
+          {
+            "name": "Local Brewery",
+            "tip": "Try a locally brewed beer after your bike tour."
+          },
+          {
+            "name": "Snack bar",
+            "tip": "A quick stop for a frikandel or fries in Buytenpark."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Noord AA Strand",
+            "tip": "Finden Sie einen ruhigen Platz am Sandstrand.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Buytenpark",
+            "tip": "Radfahren Sie auf den ruhigeren Wegen abseits der Hauptrouten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wilhelminapark",
+            "tip": "Eine Oase der Ruhe, um den Tag ausklingen zu lassen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Noord AA strand",
+            "tip": "Keressen egy csendes helyet a homokos parton.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Buytenpark",
+            "tip": "Kerékpározzon a csendesebb ösvényeken, távol a fő útvonalaktól.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wilhelminapark",
+            "tip": "A nyugalom oázisa a nap lezárásához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Noord AA",
+            "tip": "Găsiți un loc liniștit pe plaja de nisip.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Buyten",
+            "tip": "Pedalați pe potecile mai liniștite, departe de rutele principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Wilhelmina",
+            "tip": "O oază de liniște pentru a încheia ziua.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Noord AA Beach",
+            "tip": "Find a quiet spot on the sandy beach.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Buytenpark",
+            "tip": "Cycle on the quieter paths away from the main routes.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wilhelmina Park",
+            "tip": "An oasis of calm to end the day.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Kaufen Sie lokales Fahrradzubehör als Souvenir."
+          },
+          {
+            "name": "Dorpsstraat",
+            "tip": "Entdecken Sie die charmanten kleinen Geschäfte in der alten Dorfstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Vásároljon helyi kerékpáros kiegészítőket szuvenírként."
+          },
+          {
+            "name": "Dorpsstraat",
+            "tip": "Fedezze fel a bájos kis üzleteket a régi falu utcájában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Cumpărați accesorii locale pentru biciclete ca suvenir."
+          },
+          {
+            "name": "Dorpsstraat",
+            "tip": "Descoperiți micile magazine fermecătoare de pe vechea stradă a satului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Buy some local cycling accessories as a souvenir."
+          },
+          {
+            "name": "Dorpsstraat",
+            "tip": "Explore the charming little shops in the old village street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Zoetermeer hat ausgezeichnete Radwege, nutzen Sie sie.",
+          "Schließen Sie Ihr Fahrrad immer gut ab.",
+          "Nehmen Sie eine Wasserflasche mit, besonders für die längeren Strecken."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Zoetermeer kiváló kerékpárutakkal rendelkezik, használja ki őket.",
+          "Mindig zárja le gondosan a kerékpárját.",
+          "Vigyen magával egy vizes palackot, különösen a hosszabb szakaszokra."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Zoetermeer are piste de biciclete excelente, profitați de ele.",
+          "Încuiati întotdeauna bicicleta corespunzător.",
+          "Luați o sticlă de apă, mai ales pentru traseele mai lungi."
+        ],
+        "en": [
+          "Check your tire pressure before you start.",
+          "Zoetermeer has excellent cycle paths, make use of them.",
+          "Always lock your bike securely.",
+          "Bring a water bottle, especially for the longer stretches."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centru",
+            "en": "Parking City Center"
+          },
+          "coords": [
+            4.4935,
+            52.0615
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto für den Vormittag hier im Cluster 'Zentrum'.",
+            "hu": "Parkolja le az autót délelőttre itt, a 'Központ' klaszterben.",
+            "ro": "Parcați mașina pentru dimineață aici, în clusterul 'Centru'.",
+            "en": "Park your car for the morning here in the 'Center' cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadshart",
+            "hu": "Stadshart (Városközpont)",
+            "ro": "Stadshart (Inima Orașului)",
+            "en": "Stadshart (City Heart)"
+          },
+          "coords": [
+            4.4925,
+            52.0603
+          ],
+          "category": "squares",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Ausgangspunkt für Ihren Spaziergang durch das Stadtzentrum.",
+            "hu": "A városközponti séta kiindulópontja.",
+            "ro": "Punctul de plecare pentru plimbarea prin centrul orașului.",
+            "en": "The starting point for your walk through the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Oude Kerk & Stadsmuseum",
+            "hu": "Oude Kerk és Városi Múzeum",
+            "ro": "Oude Kerk și Muzeul Orașului",
+            "en": "Oude Kerk & City Museum"
+          },
+          "coords": [
+            4.4988,
+            52.0631
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Geschichte und Kultur der Stadt.",
+            "hu": "Szánjon időt a város történelmére és kultúrájára.",
+            "ro": "Acordați-vă timp pentru istoria și cultura orașului.",
+            "en": "Take your time for the city's history and culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz SnowWorld",
+            "hu": "SnowWorld parkoló",
+            "ro": "Parcare SnowWorld",
+            "en": "SnowWorld Parking"
+          },
+          "coords": [
+            4.455,
+            52.055
+          ],
+          "category": "transport",
+          "arrive_at": "12:20",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Neuer Cluster 'Freizeit'. Parken Sie hier für die nächsten beiden Stopps.",
+            "hu": "Új klaszter: 'Szabadidő'. Parkoljon itt a következő két megállóhoz.",
+            "ro": "Cluster nou 'Timp Liber'. Parcați aici pentru următoarele două opriri.",
+            "en": "New cluster 'Leisure'. Park here for the next two stops."
+          }
+        },
+        {
+          "name": {
+            "de": "SnowWorld Zoetermeer",
+            "hu": "SnowWorld Zoetermeer",
+            "ro": "SnowWorld Zoetermeer",
+            "en": "SnowWorld Zoetermeer"
+          },
+          "coords": [
+            4.4561,
+            52.0545
+          ],
+          "category": "cultural centres",
+          "arrive_at": "12:25",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie Schnee mitten in den Niederlanden! Auch nur Zuschauen macht Spaß.",
+            "hu": "Éljen át egy havas élményt Hollandia közepén! Még nézni is szórakoztató.",
+            "ro": "Experimentați zăpada în mijlocul Olandei! Chiar și doar privitul este distractiv.",
+            "en": "Experience snow in the middle of the Netherlands! Even just watching is fun."
+          }
+        },
+        {
+          "name": {
+            "de": "Buytenpark",
+            "hu": "Buytenpark",
+            "ro": "Parcul Buyten",
+            "en": "Buytenpark"
+          },
+          "coords": [
+            4.4599,
+            52.0633
+          ],
+          "category": "parks",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schnee in die grüne Natur des Parks.",
+            "hu": "Egy rövid séta a hóból a park zöld természetébe.",
+            "ro": "O scurtă plimbare de la zăpadă la natura verde a parcului.",
+            "en": "A short walk from the snow into the green nature of the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Noord AA",
+            "hu": "Noord AA tó",
+            "ro": "Lacul Noord AA",
+            "en": "Noord AA Lake"
+          },
+          "coords": [
+            4.5155,
+            52.0833
+          ],
+          "category": "beaches",
+          "arrive_at": "16:40",
+          "stay_min": 95,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag am Wasser. Perfekt für einen Sonnenuntergangsspaziergang.",
+            "hu": "Zárja a napot a vízparton. Tökéletes egy naplementés sétához.",
+            "ro": "Încheiați ziua pe malul apei. Perfect pentru o plimbare la apus.",
+            "en": "End the day by the water. Perfect for a sunset walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto, indem Sie im Zentrum von Zoetermeer parken. Der Vormittag ist einem Spaziergang durch den historischen Kern gewidmet, vom Stadshart zur Oude Kerk und dem Museum. Zur Mittagszeit fahren Sie zum Freizeitcluster, wo Sie im SnowWorld alpines Flair erleben und anschließend im Buytenpark spazieren. Der Nachmittag führt Sie zu Ihrem letzten Ziel, dem Noord AA See, wo Sie nach einer kurzen Fahrt den Tag entspannt am Wasser ausklingen lassen.",
+        "hu": "Kezdje a napot autóval, parkoljon Zoetermeer központjában. A délelőtt a történelmi központ gyalogos felfedezéséről szól, a Stadsharttól az Oude Kerkig és a múzeumig. Délben átautózik a szabadidős klaszterbe, ahol a SnowWorldben alpesi hangulatot élvezhet, majd a Buytenparkban sétálhat. A délután utolsó állomásához, a Noord AA tóhoz vezet, ahol egy rövid autóút után pihentetően zárhatja a napot a vízparton.",
+        "ro": "Începeți ziua cu mașina, parcând în centrul orașului Zoetermeer. Dimineața este dedicată unei plimbări prin centrul istoric, de la Stadshart la Oude Kerk și muzeu. La prânz, conduceți spre clusterul de agrement, unde experimentați o atmosferă alpină la SnowWorld și apoi vă plimbați în Buytenpark. După-amiaza vă duce la ultima destinație, lacul Noord AA, unde, după o scurtă călătorie cu mașina, puteți încheia ziua relaxându-vă pe malul apei.",
+        "en": "Start your day by car, parking in the center of Zoetermeer. The morning is dedicated to a walk through the historic core, from Stadshart to the Oude Kerk and museum. At midday, you'll drive to the leisure cluster to experience an alpine atmosphere at SnowWorld, followed by a walk in Buytenpark. The afternoon takes you to your final destination, Noord AA lake, where after a short drive you can end the day relaxing by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im SnowWorld",
+            "tip": "Genießen Sie ein Fondue oder einen Apfelstrudel mit Blick auf die Piste."
+          },
+          {
+            "name": "Pfannkuchenfarm",
+            "tip": "Suchen Sie eine 'Pannenkoekenboerderij' in der Nähe des Buytenparks."
+          },
+          {
+            "name": "Strandpavillon am Noord AA",
+            "tip": "Ein Getränk und ein Snack mit Seeblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a SnowWorldben",
+            "tip": "Élvezzen egy fondüt vagy almás rétest a pályára néző kilátással."
+          },
+          {
+            "name": "Palacsintafarm",
+            "tip": "Keressen egy 'Pannenkoekenboerderij'-t a Buytenpark közelében."
+          },
+          {
+            "name": "Parti pavilon a Noord AA-nál",
+            "tip": "Egy ital és egy harapnivaló tóra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la SnowWorld",
+            "tip": "Savurați un fondue sau un ștrudel cu mere cu vedere la pârtie."
+          },
+          {
+            "name": "Fermă de clătite",
+            "tip": "Căutați o 'Pannenkoekenboerderij' lângă Buytenpark."
+          },
+          {
+            "name": "Pavilion pe plajă la Noord AA",
+            "tip": "O băutură și o gustare cu vedere la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at SnowWorld",
+            "tip": "Enjoy a fondue or apple strudel with a view of the slopes."
+          },
+          {
+            "name": "Pancake Farm",
+            "tip": "Look for a 'Pannenkoekenboerderij' near Buytenpark."
+          },
+          {
+            "name": "Beach Pavilion at Noord AA",
+            "tip": "A drink and a snack with a lake view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Noord AA bei Sonnenuntergang",
+            "tip": "Der beste Ort, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wanderwege im Buytenpark",
+            "tip": "Entfliehen Sie dem Trubel auf den weniger begangenen Pfaden.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Stille Ecke im Wilhelminapark",
+            "tip": "Auch wenn nicht auf der Route, ein kurzer Abstecher lohnt sich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Noord AA naplementekor",
+            "tip": "A legjobb hely a nap befejezéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Túraútvonalak a Buytenparkban",
+            "tip": "Meneküljön el a nyüzsgés elől a kevésbé járt ösvényeken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Csendes sarok a Wilhelminaparkban",
+            "tip": "Bár nincs az útvonalon, egy rövid kitérő megéri.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Noord AA la apus",
+            "tip": "Cel mai bun loc pentru a încheia ziua.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Trasee de drumeții în Buytenpark",
+            "tip": "Evadați din agitație pe cărările mai puțin circulate.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Colț liniștit în Parcul Wilhelmina",
+            "tip": "Chiar dacă nu este pe traseu, o mică deviere merită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Noord AA at sunset",
+            "tip": "The best place to end the day.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hiking trails in Buytenpark",
+            "tip": "Escape the hustle and bustle on the less-traveled paths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Quiet corner in Wilhelmina Park",
+            "tip": "Even if not on the route, a short detour is worth it.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Woonhart",
+            "tip": "Ein Paradies für Liebhaber von Inneneinrichtung, leicht mit dem Auto zu erreichen."
+          },
+          {
+            "name": "Bauernläden",
+            "tip": "Halten Sie auf dem Land Ausschau nach Hofläden mit frischen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Woonhart",
+            "tip": "A belsőépítészet szerelmeseinek paradicsoma, könnyen megközelíthető autóval."
+          },
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Vidéken keresse a friss termékeket kínáló tanyasi boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Woonhart",
+            "tip": "Un paradis pentru iubitorii de design interior, ușor accesibil cu mașina."
+          },
+          {
+            "name": "Magazine de la fermă",
+            "tip": "În mediul rural, căutați magazinele de la fermă cu produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Woonhart",
+            "tip": "A paradise for interior design lovers, easily accessible by car."
+          },
+          {
+            "name": "Farm Shops",
+            "tip": "In the countryside, look out for farm shops with fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Möglichkeiten, falls verfügbar.",
+          "Achten Sie auf die Parkgebühren im Stadtzentrum.",
+          "Planen Sie Ihre Route im Voraus, um Verkehr zu vermeiden.",
+          "Das Auto gibt Ihnen die Flexibilität, auch weiter entfernte Ziele wie SnowWorld zu erreichen."
+        ],
+        "hu": [
+          "Használja a P+R lehetőségeket, ha rendelkezésre állnak.",
+          "Ügyeljen a parkolási díjakra a városközpontban.",
+          "Tervezze meg előre az útvonalat a forgalom elkerülése érdekében.",
+          "Az autó rugalmasságot biztosít a távolabbi célok, például a SnowWorld eléréséhez is."
+        ],
+        "ro": [
+          "Utilizați opțiunile Park-and-Ride, dacă sunt disponibile.",
+          "Fiți atenți la taxele de parcare din centrul orașului.",
+          "Planificați-vă traseul în avans pentru a evita traficul.",
+          "Mașina vă oferă flexibilitatea de a ajunge la destinații mai îndepărtate, cum ar fi SnowWorld."
+        ],
+        "en": [
+          "Use Park-and-Ride options if available.",
+          "Be mindful of parking fees in the city center.",
+          "Plan your route in advance to avoid traffic.",
+          "The car gives you the flexibility to reach more distant destinations like SnowWorld."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 9.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Haltestelle Stadshart",
+            "hu": "Stadshart megálló",
+            "ro": "Stația Stadshart",
+            "en": "Stadshart Stop"
+          },
+          "coords": [
+            4.493,
+            52.06
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, im Herzen des öffentlichen Verkehrsnetzes.",
+            "hu": "Kezdje a napot itt, a tömegközlekedési hálózat szívében.",
+            "ro": "Începeți ziua aici, în inima rețelei de transport public.",
+            "en": "Start your day here, in the heart of the public transport network."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadshart & Woonhart",
+            "hu": "Stadshart és Woonhart",
+            "ro": "Stadshart și Woonhart",
+            "en": "Stadshart & Woonhart"
+          },
+          "coords": [
+            4.49,
+            52.0595
+          ],
+          "category": "squares",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beiden zentralen Plätze, die nur einen kurzen Spaziergang voneinander entfernt sind.",
+            "hu": "Fedezze fel a két központi teret, amelyek csak egy rövid sétára vannak egymástól.",
+            "ro": "Explorați cele două piețe centrale, la o scurtă plimbare una de cealaltă.",
+            "en": "Explore the two central squares, just a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Oude Kerk & Stadsmuseum",
+            "hu": "Oude Kerk és Városi Múzeum",
+            "ro": "Oude Kerk și Muzeul Orașului",
+            "en": "Oude Kerk & City Museum"
+          },
+          "coords": [
+            4.4988,
+            52.0631
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte, bevor Sie den Bus zum nächsten Cluster nehmen.",
+            "hu": "Merüljön el a történelemben, mielőtt buszra szállna a következő klaszterhez.",
+            "ro": "Scufundați-vă în istorie înainte de a lua autobuzul spre următorul cluster.",
+            "en": "Immerse yourself in history before taking the bus to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Buytenpark",
+            "hu": "Buytenpark megálló",
+            "ro": "Stația Buytenpark",
+            "en": "Buytenpark Stop"
+          },
+          "coords": [
+            4.465,
+            52.064
+          ],
+          "category": "transport",
+          "arrive_at": "12:50",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Von hier aus erkunden Sie den Park zu Fuß.",
+            "hu": "Innen fedezze fel a parkot gyalog.",
+            "ro": "De aici explorați parcul pe jos.",
+            "en": "From here, you'll explore the park on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Buytenpark",
+            "hu": "Buytenpark",
+            "ro": "Parcul Buyten",
+            "en": "Buytenpark"
+          },
+          "coords": [
+            4.4599,
+            52.0633
+          ],
+          "category": "parks",
+          "arrive_at": "12:55",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein riesiges Erholungsgebiet, perfekt für die Mittagspause.",
+            "hu": "Hatalmas rekreációs terület, tökéletes az ebédszünethez.",
+            "ro": "O zonă de recreere uriașă, perfectă pentru pauza de prânz.",
+            "en": "A huge recreational area, perfect for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Noord AA",
+            "hu": "Noord AA megálló",
+            "ro": "Stația Noord AA",
+            "en": "Noord AA Stop"
+          },
+          "coords": [
+            4.5125,
+            52.0803
+          ],
+          "category": "transport",
+          "arrive_at": "15:05",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Der letzte Cluster des Tages. Genießen Sie die Zeit am See, bevor Sie zurückfahren.",
+            "hu": "A nap utolsó klasztere. Élvezze a tónál töltött időt, mielőtt visszaindul.",
+            "ro": "Ultimul cluster al zilei. Bucurați-vă de timpul petrecut la lac înainte de a vă întoarce.",
+            "en": "The last cluster of the day. Enjoy the time at the lake before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln startet an der zentralen Haltestelle Stadshart. Am Vormittag erkunden Sie den Stadtkern zu Fuß, von den Einkaufsstraßen bis zur historischen Oude Kerk und dem Museum. Zur Mittagszeit nehmen Sie einen Bus zum weitläufigen Buytenpark für eine grüne Pause. Am Nachmittag bringt Sie eine weitere Busfahrt zum Noord AA See, wo Sie das Strandleben genießen können, bevor Sie am Abend die Rückfahrt antreten.",
+        "hu": "Tömegközlekedési túrája a központi Stadshart megállóból indul. Délelőtt gyalog fedezi fel a városközpontot, a bevásárlóutcáktól a történelmi Oude Kerkig és a múzeumig. Délben busszal utazik a tágas Buytenparkba egy zöld szünetre. Délután egy másik buszjárat viszi a Noord AA tóhoz, ahol élvezheti a strandéletet, mielőtt este visszaindulna.",
+        "ro": "Turul dvs. cu transportul public începe la stația centrală Stadshart. Dimineața explorați centrul orașului pe jos, de la străzile comerciale la istorica Oude Kerk și muzeu. La prânz, luați un autobuz spre vastul Buytenpark pentru o pauză verde. După-amiaza, o altă călătorie cu autobuzul vă duce la lacul Noord AA, unde vă puteți bucura de viața de pe plajă înainte de a vă întoarce seara.",
+        "en": "Your public transport tour starts at the central Stadshart stop. In the morning, you'll explore the city center on foot, from the shopping streets to the historic Oude Kerk and museum. At midday, you'll take a bus to the expansive Buytenpark for a green break. In the afternoon, another bus ride takes you to Noord AA lake, where you can enjoy the beach life before heading back in the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Ein schneller Kaffee und ein Gebäck für den Start."
+          },
+          {
+            "name": "Imbiss im Buytenpark",
+            "tip": "Holen Sie sich eine Portion Pommes frites nach Ihrem Spaziergang."
+          },
+          {
+            "name": "Café am Noord AA",
+            "tip": "Belohnen Sie sich mit einem Eis am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Egy gyors kávé és egy péksütemény az induláshoz."
+          },
+          {
+            "name": "Büfé a Buytenparkban",
+            "tip": "Vegyen egy adag sült krumplit a séta után."
+          },
+          {
+            "name": "Kávézó a Noord AA-nál",
+            "tip": "Jutalmazza meg magát egy fagyival a tónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "O cafea rapidă și un produs de patiserie pentru început."
+          },
+          {
+            "name": "Snack bar în Buytenpark",
+            "tip": "Luați o porție de cartofi prăjiți după plimbare."
+          },
+          {
+            "name": "Cafenea la Noord AA",
+            "tip": "Recompensați-vă cu o înghețată la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "A quick coffee and a pastry to start."
+          },
+          {
+            "name": "Snack bar in Buytenpark",
+            "tip": "Get a portion of fries after your walk."
+          },
+          {
+            "name": "Cafe at Noord AA",
+            "tip": "Reward yourself with an ice cream by the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Buytenpark",
+            "tip": "Finden Sie einen ruhigen Ort abseits der Hauptwege.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Noord AA",
+            "tip": "Der Weg entlang des Wassers ist sehr entspannend.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Leseecke im Stadsmuseum",
+            "tip": "Eine unerwartete Oase der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Buytenparkban",
+            "tip": "Keressen egy csendes helyet a fő ösvényektől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a Noord AA-nál",
+            "tip": "A vízparti út nagyon pihentető.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Olvasósarok a Városi Múzeumban",
+            "tip": "A nyugalom váratlan oázisa.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Buytenpark",
+            "tip": "Găsiți un loc liniștit departe de cărările principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare la Noord AA",
+            "tip": "Calea de-a lungul apei este foarte relaxantă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Colț de lectură în Muzeul Orașului",
+            "tip": "O oază neașteptată de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Buytenpark",
+            "tip": "Find a quiet spot away from the main paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk at Noord AA",
+            "tip": "The path along the water is very relaxing.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Reading corner in the City Museum",
+            "tip": "An unexpected oasis of calm.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte im Stadshart",
+            "tip": "Alles, was Sie brauchen, bevor Sie in den Bus steigen."
+          },
+          {
+            "name": "Souvenirs im Stadsmuseum",
+            "tip": "Kleine Andenken an Ihren Besuch in Zoetermeer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a Stadshartban",
+            "tip": "Minden, amire szüksége lehet, mielőtt buszra száll."
+          },
+          {
+            "name": "Szuvenírek a Városi Múzeumban",
+            "tip": "Kis emléktárgyak a zoetermeeri látogatásáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Stadshart",
+            "tip": "Tot ce aveți nevoie înainte de a urca în autobuz."
+          },
+          {
+            "name": "Suveniruri la Muzeul Orașului",
+            "tip": "Mici amintiri ale vizitei dvs. în Zoetermeer."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops in Stadshart",
+            "tip": "Everything you need before you get on the bus."
+          },
+          {
+            "name": "Souvenirs at the City Museum",
+            "tip": "Small mementos of your visit to Zoetermeer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
+          "Laden Sie die Fahrplan-App herunter, um die Buszeiten im Auge zu behalten.",
+          "Beachten Sie, dass die Busse zu Stoßzeiten voll sein können.",
+          "Einige Linien fahren am Wochenende möglicherweise seltener."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez.",
+          "Töltse le a menetrend-alkalmazást, hogy szemmel tartsa a buszok indulását.",
+          "Vegye figyelembe, hogy a buszok csúcsidőben zsúfoltak lehetnek.",
+          "Néhány járat hétvégén ritkábban közlekedhet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public.",
+          "Descărcați aplicația de orare pentru a urmări orele de autobuz.",
+          "Rețineți că autobuzele pot fi aglomerate la orele de vârf.",
+          "Unele rute pot avea o frecvență redusă în weekend."
+        ],
+        "en": [
+          "Buy a day pass for public transport.",
+          "Download the timetable app to keep track of bus times.",
+          "Be aware that buses can be crowded during peak hours.",
+          "Some routes may run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

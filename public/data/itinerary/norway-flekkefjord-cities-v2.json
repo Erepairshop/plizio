@@ -1,0 +1,1148 @@
+{
+  "city_id": "norway-flekkefjord-cities-v2",
+  "anchor": {
+    "name": "Flekkefjord",
+    "coords": [
+      6.66,
+      58.29
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hollenderbyen (die Holländerstadt)",
+            "hu": "Hollenderbyen (a holland negyed)",
+            "ro": "Hollenderbyen (Orașul Olandez)",
+            "en": "Hollenderbyen (the Dutch Town)"
+          },
+          "coords": [
+            6.658,
+            58.292
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen mit den weißen Holzhäusern.",
+            "hu": "Tévedjen el a fehér faházak közötti szűk sikátorokban.",
+            "ro": "Pierdeți-vă pe aleile înguste cu case albe din lemn.",
+            "en": "Get lost in the narrow alleys with the white wooden houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Flekkefjord Kirche",
+            "hu": "Flekkefjordi templom",
+            "ro": "Biserica Flekkefjord",
+            "en": "Flekkefjord Church"
+          },
+          "coords": [
+            6.661,
+            58.294
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beachten Sie die achteckige Form, die für norwegische Kirchen untypisch ist.",
+            "hu": "Figyelje meg a nyolcszögletű formát, ami atipikus a norvég templomoknál.",
+            "ro": "Observați forma sa octogonală, atipică pentru bisericile norvegiene.",
+            "en": "Note the octagonal shape, which is atypical for Norwegian churches."
+          }
+        },
+        {
+          "name": {
+            "de": "Flekkefjord Museum",
+            "hu": "Flekkefjord Múzeum",
+            "ro": "Muzeul Flekkefjord",
+            "en": "Flekkefjord Museum"
+          },
+          "coords": [
+            6.659,
+            58.291
+          ],
+          "category": "museums",
+          "arrive_at": "11:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Museum gibt einen Einblick in die Seefahrts- und Fischereigeschichte.",
+            "hu": "A múzeum bepillantást enged a város tengerészeti és halászati múltjába.",
+            "ro": "Muzeul oferă o perspectivă asupra istoriei maritime și pescărești a orașului.",
+            "en": "The museum offers insight into the town's maritime and fishing history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            6.6595,
+            58.2925
+          ],
+          "category": "gastro",
+          "arrive_at": "12:24",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch in einem der Restaurants am Kai.",
+            "hu": "Kóstoljon friss halat a rakparti éttermek egyikében.",
+            "ro": "Încercați pește proaspăt la unul dintre restaurantele de pe chei.",
+            "en": "Try some fresh fish at one of the restaurants on the quay."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang entlang der Flekkefjordbanen",
+            "hu": "Séta a Flekkefjordbanen mentén",
+            "ro": "Plimbare de-a lungul Flekkefjordbanen",
+            "en": "Walk along the Flekkefjordbanen"
+          },
+          "coords": [
+            6.665,
+            58.3
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die alte Eisenbahnstrecke ist heute ein beliebter Rad- und Wanderweg.",
+            "hu": "A régi vasútvonal ma népszerű kerékpáros és gyalogos útvonal.",
+            "ro": "Vechea linie de cale ferată este acum o potecă populară pentru ciclism și drumeții.",
+            "en": "The old railway line is now a popular cycling and walking path."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung am Grønnes Strand",
+            "hu": "Pihenés a Grønnes strandon",
+            "ro": "Relaxare la plaja Grønnes",
+            "en": "Relaxing at Grønnes Beach"
+          },
+          "coords": [
+            6.67,
+            58.285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um den Tag mit Blick auf den Fjord ausklingen zu lassen.",
+            "hu": "Szép hely a nap lezárására, kilátással a fjordra.",
+            "ro": "Un loc frumos pentru a încheia ziua cu o priveliște asupra fiordului.",
+            "en": "A beautiful spot to end the day with a view of the fjord."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Hollenderbyen, dem Herzen von Flekkefjord. Nach dem Besuch der einzigartigen achteckigen Kirche und des Seefahrtsmuseums, genießen Sie ein Mittagessen am Hafen. Am Nachmittag spazieren Sie auf der alten Eisenbahnstrecke Flekkefjordbanen, bevor Sie am Grønnes Strand entspannen. Der Abend gehört der lokalen Gastronomie mit frischen Meeresfrüchten.",
+        "hu": "Kezdje a napot a történelmi Hollenderbyenben, Flekkefjord szívében. Az egyedi nyolcszögletű templom és a tengerészeti múzeum meglátogatása után ebédeljen a kikötőben. Délután sétáljon a régi Flekkefjordbanen vasútvonalon, majd pihenjen a Grønnes strandon. Az este a helyi gasztronómiáé, friss tengeri herkentyűkkel.",
+        "ro": "Începeți ziua în istoricul Hollenderbyen, inima orașului Flekkefjord. După vizitarea bisericii octogonale unice și a muzeului maritim, savurați prânzul în port. După-amiaza, plimbați-vă pe vechea linie de cale ferată Flekkefjordbanen înainte de a vă relaxa pe plaja Grønnes. Seara este dedicată gastronomiei locale cu fructe de mare proaspete.",
+        "en": "Start your day in the historic Hollenderbyen, the heart of Flekkefjord. After visiting the unique octagonal church and the maritime museum, enjoy lunch by the harbour. In the afternoon, stroll along the old Flekkefjordbanen railway line before relaxing at Grønnes Beach. The evening is for local gastronomy with fresh seafood."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiskesuppe (Fischsuppe)",
+            "tip": "Eine cremige Suppe mit dem Fang des Tages, oft in den Restaurants am Wasser serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiskesuppe (halászlé)",
+            "tip": "Krémes leves a napi fogásból, gyakran a vízparti éttermekben szolgálják fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiskesuppe (supă de pește)",
+            "tip": "O supă cremoasă cu captura zilei, adesea servită la restaurantele de pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiskesuppe (Fish Soup)",
+            "tip": "A creamy soup with the catch of the day, often served at the waterfront restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grønnes Leuchtturm",
+            "tip": "Ein ruhiger Spaziergang zum Leuchtturm bietet eine tolle Aussicht und eine friedliche Atmosphäre.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grønnes világítótorony",
+            "tip": "Egy csendes séta a világítótoronyhoz nagyszerű kilátást és békés hangulatot kínál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Farul Grønnes",
+            "tip": "O plimbare liniștită până la far oferă priveliști minunate și o atmosferă pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grønnes Lighthouse",
+            "tip": "A quiet walk out to the lighthouse offers great views and a peaceful atmosphere.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "In Hollenderbyen finden Sie kleine Läden mit norwegischem Strick und lokalem Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Hollenderbyenben kis boltokat talál norvég kötöttáruval és helyi kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "În Hollenderbyen veți găsi mici magazine care vând tricotaje norvegiene și artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "In Hollenderbyen, you'll find small shops selling Norwegian knitwear and local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Gassen von Hollenderbyen Kopfsteinpflaster haben.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Ein Fernglas ist nützlich für die Vogelbeobachtung am Grønnes Strand."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel Hollenderbyen utcái macskakövesek.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "Távcső hasznos lehet a madármegfigyeléshez a Grønnes strandon."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece aleile din Hollenderbyen sunt pavate cu piatră cubică.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "Un binoclu este util pentru observarea păsărilor pe plaja Grønnes."
+        ],
+        "en": [
+          "Wear comfortable shoes as the alleys in Hollenderbyen are cobblestoned.",
+          "Check the museum's opening hours in advance.",
+          "Binoculars are useful for bird watching at Grønnes Beach."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hollenderbyen",
+            "hu": "Hollenderbyen",
+            "ro": "Hollenderbyen",
+            "en": "Hollenderbyen"
+          },
+          "coords": [
+            6.658,
+            58.292
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die engen Gassen zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel gyalog a szűk sikátorokat.",
+            "ro": "Parcați bicicleta și explorați aleile înguste pe jos.",
+            "en": "Park your bike and explore the narrow alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Flekkefjord Museum",
+            "hu": "Flekkefjord Múzeum",
+            "ro": "Muzeul Flekkefjord",
+            "en": "Flekkefjord Museum"
+          },
+          "coords": [
+            6.659,
+            58.291
+          ],
+          "category": "museums",
+          "arrive_at": "09:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die reiche Geschichte der Stadt.",
+            "hu": "Tudjon meg többet a város gazdag történelméről.",
+            "ro": "Aflați mai multe despre istoria bogată a orașului.",
+            "en": "Learn about the town's rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Flekkefjord Kirche",
+            "hu": "Flekkefjordi templom",
+            "ro": "Biserica Flekkefjord",
+            "en": "Flekkefjord Church"
+          },
+          "coords": [
+            6.661,
+            58.294
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:16",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die ungewöhnliche Architektur zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálhassa a szokatlan építészetet.",
+            "ro": "O oprire scurtă pentru a admira arhitectura neobișnuită.",
+            "en": "A quick stop to admire the unusual architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Radweg Flekkefjordbanen",
+            "hu": "Flekkefjordbanen kerékpárút",
+            "ro": "Pista de biciclete Flekkefjordbanen",
+            "en": "Flekkefjordbanen Cycle Path"
+          },
+          "coords": [
+            6.67,
+            58.305
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:58",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine landschaftlich reizvolle Fahrt mit Tunneln und Brücken. Perfekt für ein Picknick.",
+            "hu": "Élvezze a festői utat alagutakkal és hidakkal. Tökéletes egy piknikhez.",
+            "ro": "Bucurați-vă de o plimbare pitorească cu tuneluri și poduri. Perfect pentru un picnic.",
+            "en": "Enjoy a scenic ride with tunnels and bridges. Perfect for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Grønnes Park und Strand",
+            "hu": "Grønnes park és strand",
+            "ro": "Parcul și plaja Grønnes",
+            "en": "Grønnes Park and Beach"
+          },
+          "coords": [
+            6.67,
+            58.285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:03",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nach der Radtour ist dies der ideale Ort zum Entspannen und vielleicht für ein Bad im Fjord.",
+            "hu": "A kerékpártúra után ez az ideális hely a pihenésre és talán egy fürdőzésre a fjordban.",
+            "ro": "După turul cu bicicleta, acesta este locul ideal pentru a vă relaxa și poate a face o baie în fiord.",
+            "en": "After the bike ride, this is the ideal place to relax and maybe take a swim in the fjord."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Spira",
+            "hu": "Spira Kultúrház",
+            "ro": "Casa de Cultură Spira",
+            "en": "Spira Culture House"
+          },
+          "coords": [
+            6.663,
+            58.292
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf das Programm, vielleicht gibt es eine interessante Abendveranstaltung.",
+            "hu": "Vessen egy pillantást a programra, talán van egy érdekes esti esemény.",
+            "ro": "Aruncați o privire la program, poate există un eveniment de seară interesant.",
+            "en": "Check the schedule, maybe there's an interesting evening event."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Flekkefjord auf zwei Rädern. Beginnen Sie in Hollenderbyen, radeln Sie dann zu den wichtigsten Sehenswürdigkeiten im Zentrum. Die Hauptattraktion des Tages ist die landschaftlich reizvolle Fahrt auf dem Flekkefjordbanen-Weg. Am Nachmittag entspannen Sie am Grønnes Strand, bevor Sie zurück ins Zentrum radeln und einen Blick auf das Kulturprogramm im Spira werfen.",
+        "hu": "Fedezze fel Flekkefjordot két keréken. Kezdjen Hollenderbyenben, majd tekerjen a központ fő látnivalóihoz. A nap fő attrakciója a festői Flekkefjordbanen útvonalon való kerékpározás. Délután pihenjen a Grønnes strandon, mielőtt visszateker a központba, és megnézi a Spira kulturális programját.",
+        "ro": "Explorați Flekkefjord pe două roți. Începeți în Hollenderbyen, apoi pedalați spre principalele atracții din centru. Atracția principală a zilei este plimbarea pitorească pe traseul Flekkefjordbanen. După-amiaza, relaxați-vă pe plaja Grønnes înainte de a pedala înapoi în centru pentru a arunca o privire la programul cultural de la Spira.",
+        "en": "Explore Flekkefjord on two wheels. Start in Hollenderbyen, then cycle to the main sights in the center. The day's main attraction is the scenic ride on the Flekkefjordbanen path. In the afternoon, relax at Grønnes Beach before cycling back to the center to check out the cultural program at Spira."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Reker (Garnelen)",
+            "tip": "Kaufen Sie frische Garnelen direkt vom Kutter und genießen Sie sie auf einer Parkbank."
+          },
+          {
+            "name": "Svele",
+            "tip": "Ein dicker, pfannkuchenartiger Snack, perfekt für eine Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reker (garnélarák)",
+            "tip": "Vásároljon friss garnélát közvetlenül a halászhajóról, és egye meg egy padon."
+          },
+          {
+            "name": "Svele",
+            "tip": "Vastag, palacsintaszerű snack, tökéletes egy kerékpártúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Reker (creveți)",
+            "tip": "Cumpărați creveți proaspeți direct de la barcă și savurați-i pe o bancă în parc."
+          },
+          {
+            "name": "Svele",
+            "tip": "O gustare groasă, asemănătoare clătitei, perfectă pentru un tur cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Reker (Shrimp)",
+            "tip": "Buy fresh shrimp directly from the cutter and enjoy them on a park bench."
+          },
+          {
+            "name": "Svele",
+            "tip": "A thick, pancake-like snack, perfect for a bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank am Fjord",
+            "tip": "Entlang des Radwegs gibt es viele ruhige Plätze, um die Aussicht zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a fjord mellett",
+            "tip": "A kerékpárút mentén sok csendes hely van, ahol élvezheti a kilátást.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă lângă fiord",
+            "tip": "De-a lungul pistei de biciclete există multe locuri liniștite pentru a vă bucura de priveliște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench by the fjord",
+            "tip": "Along the cycle path, there are many quiet spots to enjoy the view.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Falls Sie Ausrüstung für Ihre Rad- oder Wandertouren benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Ha felszerelésre van szüksége a kerékpár- vagy túraútvonalakhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "În caz că aveți nevoie de echipament pentru tururile cu bicicleta sau drumeții."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports Shops",
+            "tip": "In case you need any gear for your cycling or hiking tours."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad im Stadtzentrum, wenn Sie keins haben.",
+          "Nehmen Sie Wasser und Snacks für die Fahrt auf dem Flekkefjordbanen mit.",
+          "Die Tunnel auf dem Weg können dunkel sein, Licht ist empfehlenswert."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a városközpontban, ha nincs sajátja.",
+          "Vigyen vizet és rágcsálnivalót a Flekkefjordbanen útra.",
+          "Az alagutak sötétek lehetnek az úton, lámpa ajánlott."
+        ],
+        "ro": [
+          "Închiriați o bicicletă din centrul orașului dacă nu aveți una.",
+          "Luați apă și gustări pentru plimbarea pe Flekkefjordbanen.",
+          "Tunelurile de pe traseu pot fi întunecate, se recomandă o lanternă."
+        ],
+        "en": [
+          "Rent a bike in the city center if you don't have one.",
+          "Take water and snacks for the ride on the Flekkefjordbanen.",
+          "The tunnels on the path can be dark, a light is recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 45.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Erkundung von Hollenderbyen",
+            "hu": "Parkolás és Hollenderbyen felfedezése",
+            "ro": "Parcare și explorarea Hollenderbyen",
+            "en": "Park and explore Hollenderbyen"
+          },
+          "coords": [
+            6.658,
+            58.292
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen zentralen Parkplatz, um das erste Cluster zu Fuß zu erkunden.",
+            "hu": "Keressen egy központi parkolót, hogy gyalog fedezze fel az első látnivalócsoportot.",
+            "ro": "Găsiți o parcare centrală pentru a explora primul grup de atracții pe jos.",
+            "en": "Find a central parking spot to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Flekkefjord Kirche",
+            "hu": "Flekkefjordi templom",
+            "ro": "Biserica Flekkefjord",
+            "en": "Flekkefjord Church"
+          },
+          "coords": [
+            6.661,
+            58.294
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Rövid séta a főtérről.",
+            "ro": "O scurtă plimbare de la piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Flekkefjord Museum",
+            "hu": "Flekkefjord Múzeum",
+            "ro": "Muzeul Flekkefjord",
+            "en": "Flekkefjord Museum"
+          },
+          "coords": [
+            6.659,
+            58.291
+          ],
+          "category": "museums",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie zum Auto zurück, nachdem Sie die maritime Geschichte erkundet haben.",
+            "hu": "A tengerészeti történelem felfedezése után térjen vissza az autóhoz.",
+            "ro": "Întoarceți-vă la mașină după ce ați explorat istoria maritimă.",
+            "en": "Return to the car after exploring the maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zu den Brufjellhålene (Grotten)",
+            "hu": "Utazás a Brufjellhålene barlangokhoz",
+            "ro": "Excursie la peșterile Brufjellhålene",
+            "en": "Drive to Brufjellhålene (Potholes)"
+          },
+          "coords": [
+            6.59,
+            58.21
+          ],
+          "category": "natural features",
+          "arrive_at": "12:12",
+          "stay_min": 150,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 20.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die Wanderung ist anspruchsvoll, aber die Aussicht und die Grotten sind es wert. Gutes Schuhwerk ist ein Muss!",
+            "hu": "A túra kihívást jelent, de a kilátás és a barlangok megérik. Jó cipő elengedhetetlen!",
+            "ro": "Drumeția este solicitantă, dar priveliștea și grotele merită. Încălțămintea adecvată este obligatorie!",
+            "en": "The hike is challenging but the views and the potholes are worth it. Good footwear is a must!"
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen mit Aussicht",
+            "hu": "Késői ebéd kilátással",
+            "ro": "Prânz târziu cu priveliște",
+            "en": "Late lunch with a view"
+          },
+          "coords": [
+            6.595,
+            58.215
+          ],
+          "category": "gastro",
+          "arrive_at": "14:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein Café auf dem Rückweg von der Wanderung.",
+            "hu": "Keressen egy kávézót a túráról visszafelé.",
+            "ro": "Găsiți o cafenea pe drumul de întoarcere de la drumeție.",
+            "en": "Find a cafe on the way back from the hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Insel Hidra (Fährhafen)",
+            "hu": "Utazás Hidra szigetére (kompkikötő)",
+            "ro": "Călătorie spre Insula Hidra (portul de feribot)",
+            "en": "Drive to Hidra Island (Ferry Port)"
+          },
+          "coords": [
+            6.56,
+            58.23
+          ],
+          "category": "port",
+          "arrive_at": "16:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Fähre und genießen Sie die ruhige Atmosphäre der Insel. Erkunden Sie die kleinen Dörfer.",
+            "hu": "Szálljon kompra, és élvezze a sziget csendes hangulatát. Fedezze fel a kis falvakat.",
+            "ro": "Luați feribotul și bucurați-vă de atmosfera liniștită a insulei. Explorați micile sate.",
+            "en": "Take the ferry and enjoy the island's tranquil atmosphere. Explore the small villages."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Flekkefjord",
+            "hu": "Visszaút Flekkefjordba",
+            "ro": "Întoarcere la Flekkefjord",
+            "en": "Return drive to Flekkefjord"
+          },
+          "coords": [
+            6.66,
+            58.29
+          ],
+          "category": "transport",
+          "arrive_at": "18:22",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Planen Sie Zeit für die Rückfahrt und ein abschließendes Abendessen ein.",
+            "hu": "Tervezzen időt a visszaútra és egy záró vacsorára.",
+            "ro": "Planificați timp pentru călătoria de întoarcere și o cină finală.",
+            "en": "Plan time for the return journey and a final dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Tag voller Kontraste. Am Morgen erkunden Sie das charmante Zentrum von Flekkefjord zu Fuß. Danach fahren Sie zu den spektakulären Brufjellhålene für eine anspruchsvolle Wanderung mit unglaublicher Aussicht. Der Nachmittag steht im Zeichen der Inselruhe auf Hidra. Dieser Plan kombiniert städtischen Charme mit rauer norwegischer Natur und erfordert eine gute körperliche Verfassung.",
+        "hu": "Kontrasztokkal teli nap. Délelőtt gyalog fedezze fel Flekkefjord bájos központját. Ezután autózzon el a látványos Brufjellhålene-hez egy kihívást jelentő túrára, hihetetlen kilátással. A délután Hidra szigetének nyugalmáról szól. Ez a program ötvözi a városi bájt a zord norvég természettel, és jó fizikai állapotot igényel.",
+        "ro": "O zi plină de contraste. Dimineața explorați pe jos centrul fermecător al orașului Flekkefjord. Apoi, conduceți la spectaculoasele Brufjellhålene pentru o drumeție solicitantă cu priveliști incredibile. După-amiaza este dedicată liniștii insulei Hidra. Acest plan combină farmecul urban cu natura aspră norvegiană și necesită o bună condiție fizică.",
+        "en": "A day of contrasts. In the morning, explore the charming center of Flekkefjord on foot. Then, drive to the spectacular Brufjellhålene for a challenging hike with incredible views. The afternoon is all about island tranquility on Hidra. This plan combines urban charm with a rugged Norwegian nature and requires good physical condition."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich Proviant für die Wanderung, z.B. ein 'Skolebrød'."
+          },
+          {
+            "name": "Frischer Lachs",
+            "tip": "Ein Muss in einem der Restaurants auf der Insel Hidra."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Szerezzen be elemózsiát a túrára, pl. egy 'Skolebrød'-öt."
+          },
+          {
+            "name": "Friss lazac",
+            "tip": "Kötelező az egyik étteremben Hidra szigetén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați provizii pentru drumeție, cum ar fi un 'Skolebrød'."
+          },
+          {
+            "name": "Somon proaspăt",
+            "tip": "O necesitate la unul dintre restaurantele de pe insula Hidra."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Get provisions for the hike, such as a 'Skolebrød'."
+          },
+          {
+            "name": "Fresh Salmon",
+            "tip": "A must-try at one of the restaurants on Hidra island."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirkehamn auf Hidra",
+            "tip": "Ein malerisches und ruhiges Fischerdorf, perfekt zum Abschalten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussichtspunkt bei Brufjell",
+            "tip": "Noch vor den Grotten bietet die Klippe eine atemberaubende, stille Weite.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kirkehamn Hidrán",
+            "tip": "Festői és csendes halászfalu, tökéletes a kikapcsolódásra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátópont Brufjellnél",
+            "tip": "Már a barlangok előtt is lélegzetelállító, csendes távlatot kínál a szikla.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kirkehamn pe Hidra",
+            "tip": "Un sat pescăresc pitoresc și liniștit, perfect pentru relaxare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punct de belvedere la Brufjell",
+            "tip": "Chiar înainte de grote, stânca oferă o întindere tăcută, uluitoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kirkehamn on Hidra",
+            "tip": "A picturesque and quiet fishing village, perfect for unwinding.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Viewpoint at Brufjell",
+            "tip": "Even before the potholes, the clifftop offers a breathtaking, silent expanse.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden auf Hidra",
+            "tip": "Suchen Sie nach lokalen Produkten wie Marmelade oder Wolle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok Hidrán",
+            "tip": "Keressen helyi termékeket, mint lekvárt vagy gyapjút."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole pe Hidra",
+            "tip": "Căutați produse locale, cum ar fi gem sau lână."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops on Hidra",
+            "tip": "Look for local products like jam or wool."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Fährplan für Hidra im Voraus.",
+          "Die Wanderung zu den Brufjellhålene ist bei Nässe sehr rutschig und sollte vermieden werden.",
+          "Tanken Sie Ihr Auto voll, bevor Sie die Stadt verlassen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a Hidra komp menetrendjét.",
+          "A Brufjellhålene-túra nedves időben nagyon csúszós, és kerülendő.",
+          "Tankolja tele az autót, mielőtt elhagyja a várost."
+        ],
+        "ro": [
+          "Verificați în avans programul feribotului spre Hidra.",
+          "Drumeția la Brufjellhålene este foarte alunecoasă pe vreme umedă și ar trebui evitată.",
+          "Faceți plinul mașinii înainte de a părăsi orașul."
+        ],
+        "en": [
+          "Check the ferry schedule for Hidra in advance.",
+          "The hike to Brufjellhålene is very slippery when wet and should be avoided.",
+          "Fill up your car's fuel tank before leaving the town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft im Zentrum & Hollenderbyen",
+            "hu": "Érkezés a központba & Hollenderbyen",
+            "ro": "Sosire în centru & Hollenderbyen",
+            "en": "Arrival in the center & Hollenderbyen"
+          },
+          "coords": [
+            6.658,
+            58.292
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie an einer zentralen Haltestelle aus und beginnen Sie Ihren Spaziergang.",
+            "hu": "Szálljon le egy központi megállónál, és kezdje a sétát.",
+            "ro": "Coborâți la o stație centrală și începeți plimbarea.",
+            "en": "Get off at a central stop and start your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Flekkefjord Kirche",
+            "hu": "Flekkefjordi templom",
+            "ro": "Biserica Flekkefjord",
+            "en": "Flekkefjord Church"
+          },
+          "coords": [
+            6.661,
+            58.294
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:16",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Altstadt.",
+            "hu": "Rövid séta az óvárosban.",
+            "ro": "O scurtă plimbare prin orașul vechi.",
+            "en": "A short walk through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Flekkefjord Museum",
+            "hu": "Flekkefjord Múzeum",
+            "ro": "Muzeul Flekkefjord",
+            "en": "Flekkefjord Museum"
+          },
+          "coords": [
+            6.659,
+            58.291
+          ],
+          "category": "museums",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Alles im Zentrum ist bequem zu Fuß erreichbar.",
+            "hu": "A központban minden kényelmesen elérhető gyalog.",
+            "ro": "Totul în centru este ușor accesibil pe jos.",
+            "en": "Everything in the center is within easy walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Grønnes Park",
+            "hu": "Buszozás a Grønnes parkba",
+            "ro": "Călătorie cu autobuzul la Parcul Grønnes",
+            "en": "Bus ride to Grønnes Park"
+          },
+          "coords": [
+            6.67,
+            58.285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Bus für einen Szenenwechsel. Genießen Sie hier ein Picknick.",
+            "hu": "Szálljon helyi buszra a tájváltásért. Élvezzen itt egy pikniket.",
+            "ro": "Luați autobuzul local pentru o schimbare de peisaj. Bucurați-vă de un picnic aici.",
+            "en": "Take the local bus for a change of scenery. Enjoy a picnic lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Flekkefjordbanen-Pfad",
+            "hu": "Buszozás a Flekkefjordbanen ösvényhez",
+            "ro": "Călătorie cu autobuzul la poteca Flekkefjordbanen",
+            "en": "Bus ride to Flekkefjordbanen path"
+          },
+          "coords": [
+            6.665,
+            58.3
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bus bringt Sie in die Nähe des Startpunkts des Wanderwegs.",
+            "hu": "A busz elviszi a túraútvonal kiindulópontjának közelébe.",
+            "ro": "Autobuzul vă va duce aproape de punctul de plecare al traseului.",
+            "en": "The bus will get you close to the starting point of the trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zurück ins Zentrum",
+            "hu": "Séta vissza a központba",
+            "ro": "Plimbare înapoi în centru",
+            "en": "Walk back to the center"
+          },
+          "coords": [
+            6.66,
+            58.29
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Kaffee, bevor Sie den Bus nach Hause nehmen.",
+            "hu": "Zárja a napot egy kávéval, mielőtt hazabuszozna.",
+            "ro": "Încheiați ziua cu o cafea înainte de a lua autobuzul spre casă.",
+            "en": "End the day with a coffee before taking the bus home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Flekkefjord mit öffentlichen Verkehrsmitteln. Das historische Zentrum mit Hollenderbyen und dem Museum ist Ihr morgendliches Ziel, alles zu Fuß erreichbar. Am Mittag bringt Sie ein Bus zum Grønnes Park für eine entspannte Pause am Fjord. Ein weiterer Bus bringt Sie am Nachmittag zum Flekkefjordbanen-Pfad für einen Spaziergang auf der historischen Eisenbahnstrecke, bevor Sie ins Zentrum zurückkehren.",
+        "hu": "Fedezze fel Flekkefjordot tömegközlekedéssel. A történelmi központ Hollenderbyennel és a múzeummal a délelőtti célpont, minden gyalogosan elérhető. Délben egy busz elviszi a Grønnes parkba egy pihentető szünetre a fjord mellett. Délután egy másik busz visz a Flekkefjordbanen ösvényhez egy sétára a történelmi vasútvonalon, mielőtt visszatér a központba.",
+        "ro": "Descoperiți Flekkefjord folosind transportul public. Centrul istoric cu Hollenderbyen și muzeul este destinația dvs. de dimineață, totul accesibil pe jos. La prânz, un autobuz vă duce la Parcul Grønnes pentru o pauză relaxantă lângă fiord. Un alt autobuz vă duce după-amiaza la poteca Flekkefjordbanen pentru o plimbare pe linia de cale ferată istorică înainte de a vă întoarce în centru.",
+        "en": "Discover Flekkefjord using public transport. The historic center with Hollenderbyen and the museum is your morning destination, all within walking distance. At midday, a bus takes you to Grønnes Park for a relaxing break by the fjord. Another bus takes you to the Flekkefjordbanen path in the afternoon for a walk on the historic railway line before returning to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Ein klassischer norwegischer Hotdog, schnell und einfach von einem Kiosk."
+          },
+          {
+            "name": "Waffeln mit Brunost",
+            "tip": "Süße Waffeln mit dem typischen braunen Käse, erhältlich in vielen Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Klasszikus norvég hot dog, gyorsan és egyszerűen egy kioszkból."
+          },
+          {
+            "name": "Gofri brunosttal",
+            "tip": "Édes gofri a jellegzetes barna sajttal, sok kávézóban kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Un hotdog norvegian clasic, rapid și ușor de la un chioșc."
+          },
+          {
+            "name": "Vafe cu Brunost",
+            "tip": "Vafe dulci cu brânză maro tipică, disponibile în multe cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "A classic Norwegian hot dog, quick and easy from a kiosk."
+          },
+          {
+            "name": "Waffles with Brunost",
+            "tip": "Sweet waffles with the typical brown cheese, available in many cafes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Grønnes Park",
+            "tip": "Finden Sie einen ruhigen Platz mit Blick auf das Wasser und beobachten Sie die Boote.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Grønnes parkban",
+            "tip": "Keressen egy csendes helyet, kilátással a vízre, és nézze a hajókat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Grønnes",
+            "tip": "Găsiți un loc liniștit cu vedere la apă și priviți bărcile.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Grønnes Park",
+            "tip": "Find a quiet spot overlooking the water and watch the boats.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt",
+            "tip": "Kaufen Sie norwegische Schokolade und Snacks für die Heimreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarket",
+            "tip": "Vásároljon norvég csokoládét és rágcsálnivalókat a hazaútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket",
+            "tip": "Cumpărați ciocolată norvegiană și gustări pentru călătoria spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarket",
+            "tip": "Buy some Norwegian chocolate and snacks for the trip home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar.",
+          "Überprüfen Sie den Busfahrplan online, da die Frequenzen variieren können.",
+          "Haben Sie Kleingeld oder eine Zahlungs-App für die Bustickets bereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha elérhető.",
+          "Ellenőrizze online a buszmenetrendet, mivel a járatok sűrűsége változhat.",
+          "Készítsen elő aprópénzt vagy fizetési alkalmazást a buszjegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil.",
+          "Verificați orarul autobuzelor online, deoarece frecvențele pot varia.",
+          "Aveți pregătiți bani mărunți sau o aplicație de plată pentru biletele de autobuz."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available.",
+          "Check the bus schedule online, as frequencies can vary.",
+          "Have small change or a payment app ready for bus tickets."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1353 @@
+{
+  "city_id": "sweden-trollhattan-cities-v2",
+  "anchor": {
+    "name": "Trollhättan",
+    "coords": [
+      12.2858,
+      58.2835
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schleusengebiet",
+            "hu": "A zsilipterület",
+            "ro": "Zona Ecluzelor",
+            "en": "The Locks Area"
+          },
+          "coords": [
+            12.2785,
+            58.2755
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie die Schiffe die beeindruckenden Höhenunterschiede überwinden.",
+            "hu": "Nézze meg, ahogy a hajók leküzdik a lenyűgöző szintkülönbségeket.",
+            "ro": "Urmăriți cum navele depășesc diferențele impresionante de nivel.",
+            "en": "Watch the ships navigate the impressive differences in water level."
+          }
+        },
+        {
+          "name": {
+            "de": "Kungsgrottan",
+            "hu": "Király-barlang",
+            "ro": "Peștera Regelui",
+            "en": "The King's Cave"
+          },
+          "coords": [
+            12.2799,
+            58.278
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den eingravierten Namen schwedischer Könige.",
+            "hu": "Keresse meg a sziklába vésett svéd királyok neveit.",
+            "ro": "Căutați numele regilor suedezi gravate în stâncă.",
+            "en": "Look for the names of Swedish kings engraved in the rock."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Wasserfälle",
+            "hu": "A vízesések",
+            "ro": "Cascadele",
+            "en": "The Waterfalls"
+          },
+          "coords": [
+            12.281,
+            58.28
+          ],
+          "category": "natural features",
+          "arrive_at": "11:13",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über die genauen Zeiten, zu denen das Wasser freigesetzt wird – ein Spektakel!",
+            "hu": "Ellenőrizze a pontos időpontokat, amikor a vizet leengedik - igazi látványosság!",
+            "ro": "Verificați orele exacte când apa este eliberată – este un spectacol!",
+            "en": "Check the specific times when the water is released – it's a spectacle!"
+          }
+        },
+        {
+          "name": {
+            "de": "Olidan Kraftstation",
+            "hu": "Olidan erőmű",
+            "ro": "Centrala Electrică Olidan",
+            "en": "Olidan Power Station"
+          },
+          "coords": [
+            12.2845,
+            58.2815
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein Muss für Technikbegeisterte, um die Kraft des Wassers zu verstehen.",
+            "hu": "A technika szerelmeseinek kötelező, hogy megértsék a víz erejét.",
+            "ro": "O vizită obligatorie pentru pasionații de tehnologie pentru a înțelege puterea apei.",
+            "en": "A must-see for technology enthusiasts to understand the power of water."
+          }
+        },
+        {
+          "name": {
+            "de": "Innovatum Science Center",
+            "hu": "Innovatum Tudományos Központ",
+            "ro": "Centrul Științific Innovatum",
+            "en": "Innovatum Science Center"
+          },
+          "coords": [
+            12.2925,
+            58.2865
+          ],
+          "category": "cultural centres",
+          "arrive_at": "13:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal für Familien, mit vielen interaktiven Ausstellungen.",
+            "hu": "Ideális családok számára, rengeteg interaktív kiállítással.",
+            "ro": "Ideal pentru familii, cu multe expoziții interactive.",
+            "en": "Ideal for families, with lots of interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Saab Car Museum",
+            "hu": "Saab Autómúzeum",
+            "ro": "Muzeul Auto Saab",
+            "en": "Saab Car Museum"
+          },
+          "coords": [
+            12.2935,
+            58.287
+          ],
+          "category": "museums",
+          "arrive_at": "15:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie das erste Saab-Modell, den Ursaab 92001.",
+            "hu": "Csodálja meg az első Saab modellt, az Ursaab 92001-et.",
+            "ro": "Admirați primul model Saab, Ursaab 92001.",
+            "en": "Admire the very first Saab model, the Ursaab 92001."
+          }
+        },
+        {
+          "name": {
+            "de": "Spikön",
+            "hu": "Spikön-sziget",
+            "ro": "Insula Spikön",
+            "en": "Spikön Island"
+          },
+          "coords": [
+            12.288,
+            58.284
+          ],
+          "category": "parks",
+          "arrive_at": "17:31",
+          "stay_min": 45,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages mit schönem Spielplatz für Kinder.",
+            "hu": "A nap pihentető befejezése egy szép játszótérrel a gyerekeknek.",
+            "ro": "O încheiere relaxantă a zilei, cu un loc de joacă frumos pentru copii.",
+            "en": "A relaxing end to the day with a nice playground for children."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Trollhättan beginnt am beeindruckenden Schleusengebiet, wo Ingenieurskunst auf die Kraft des Wassers trifft. Ein kurzer Spaziergang führt Sie zur Kungsgrottan und den tosenden Wasserfällen, dem Herz der Stadt. Der Morgen ist der Erkundung dieser einzigartigen Industrielandschaft gewidmet.\nAm Mittag tauchen Sie in die Geschichte der Wasserkraft in der Olidan Kraftstation ein, bevor Sie eine längere Pause im Innovatum Science Center einlegen. Hier können Sie und Ihre Familie spielerisch lernen und entdecken. Das nahegelegene Saab Car Museum ist der perfekte Ort, um in die schwedische Automobilgeschichte einzutauchen.\nDer Nachmittag steht ganz im Zeichen der Fahrzeuglegenden bei Saab. Nehmen Sie sich Zeit, die ikonischen Designs und technischen Innovationen zu bewundern. Es ist eine Reise durch die Zeit, von den Anfängen bis zu den letzten Modellen der Kultmarke.\nZum Ausklang des Tages spazieren Sie zur grünen Insel Spikön. Genießen Sie die Ruhe am Wasser, lassen Sie die Eindrücke des Tages Revue passieren und atmen Sie die frische schwedische Luft, bevor Sie sich von Trollhättan verabschieden.",
+        "hu": "Trollhättan-i napja a lenyűgöző zsilipterületnél kezdődik, ahol a mérnöki tudás találkozik a víz erejével. Egy rövid séta elvezeti a Király-barlanghoz és a dübörgő vízesésekhez, a város szívéhez. A délelőttöt ennek az egyedülálló ipari tájnak a felfedezésére szánjuk.\nDélben elmerülhet a vízenergia történetében az Olidan erőműben, mielőtt egy hosszabb szünetet tartana az Innovatum Tudományos Központban. Itt Ön és családja játékosan tanulhat és fedezhet fel. A közeli Saab Autómúzeum tökéletes hely a svéd autógyártás történetének megismerésére.\nA délután a Saab legendás járműveiről szól. Szánjon időt az ikonikus formatervezés és a műszaki újítások megcsodálására. Ez egy időutazás a kezdetektől a kultikus márka utolsó modelljeiig.\nA nap végén sétáljon el a zöld Spikön-szigetre. Élvezze a vízparti csendet, idézze fel a nap élményeit, és szívja be a friss svéd levegőt, mielőtt elbúcsúzik Trollhättantól.",
+        "ro": "Ziua dumneavoastră în Trollhättan începe în impresionanta zonă a ecluzelor, unde ingineria se întâlnește cu puterea apei. O scurtă plimbare vă duce la Peștera Regelui și la cascadele zgomotoase, inima orașului. Dimineața este dedicată explorării acestui peisaj industrial unic.\nLa prânz, vă veți cufunda în istoria hidroenergiei la Centrala Electrică Olidan, înainte de a lua o pauză mai lungă la Centrul Științific Innovatum. Aici, dumneavoastră și familia puteți învăța și descoperi prin joc. Muzeul Auto Saab din apropiere este locul perfect pentru a vă scufunda în istoria automobilistică suedeză.\nDupă-amiaza este dedicată legendelor auto de la Saab. Acordați-vă timp pentru a admira designurile iconice și inovațiile tehnice. Este o călătorie în timp, de la începuturi până la ultimele modele ale mărcii de cult.\nPentru a încheia ziua, plimbați-vă pe insula verde Spikön. Bucurați-vă de liniștea de pe malul apei, rememorați impresiile zilei și respirați aerul proaspăt suedez înainte de a vă lua rămas bun de la Trollhättan.",
+        "en": "Your day in Trollhättan begins at the impressive locks area, where engineering meets the power of water. A short walk takes you to the King's Cave and the roaring waterfalls, the heart of the city. The morning is dedicated to exploring this unique industrial landscape.\nAt midday, you'll delve into the history of hydropower at the Olidan Power Station before taking a longer break at the Innovatum Science Center. Here, you and your family can learn and discover through play. The nearby Saab Car Museum is the perfect place to immerse yourself in Swedish automotive history.\nThe afternoon is all about the legendary vehicles at Saab. Take your time to admire the iconic designs and technical innovations. It's a journey through time, from the beginnings to the last models of the cult brand.\nTo round off the day, stroll over to the green island of Spikön. Enjoy the tranquility by the water, reflect on the day's impressions, and breathe in the fresh Swedish air before you say goodbye to Trollhättan."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Köttbullar med gräddsås",
+            "tip": "Probieren Sie die klassischen schwedischen Fleischbällchen im 'Restaurang Koppargrillen'."
+          },
+          {
+            "name": "Fika",
+            "tip": "Gönnen Sie sich eine Kaffeepause mit Zimtschnecke (Kanelbulle) im 'Strandgatan'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Köttbullar tejszínes mártással",
+            "tip": "Kóstolja meg a klasszikus svéd húsgolyókat a 'Restaurang Koppargrillen'-ben."
+          },
+          {
+            "name": "Fika",
+            "tip": "Tartson egy kávészünetet egy fahéjas csigával (Kanelbulle) a 'Strandgatan'-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiftele suedeze cu sos de smântână",
+            "tip": "Încercați chiftelele suedeze clasice la 'Restaurang Koppargrillen'."
+          },
+          {
+            "name": "Fika",
+            "tip": "Acordați-vă o pauză de cafea cu un rulou cu scorțișoară (Kanelbulle) la 'Strandgatan'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Meatballs with cream sauce",
+            "tip": "Try the classic Swedish meatballs at 'Restaurang Koppargrillen'."
+          },
+          {
+            "name": "Fika",
+            "tip": "Treat yourself to a coffee break with a cinnamon bun (Kanelbulle) at 'Strandgatan'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spikön",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gamle Dal'n",
+            "tip": "Entdecken Sie die alten Schleusenpfade abseits der Hauptwege.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spikön",
+            "tip": "Egy csendes séta a folyó mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gamle Dal'n",
+            "tip": "Fedezze fel a régi zsilipösvényeket a fő utaktól távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spikön",
+            "tip": "O plimbare liniștită de-a lungul râului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gamle Dal'n",
+            "tip": "Descoperiți vechile cărări ale ecluzelor, departe de potecile principale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spikön",
+            "tip": "A quiet walk along the river.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gamle Dal'n",
+            "tip": "Explore the old lock paths away from the main trails.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trollhättans Hemslöjd",
+            "tip": "Handgefertigte Souvenirs und lokales Kunsthandwerk."
+          },
+          {
+            "name": "Odenhuset",
+            "tip": "Ein kleines Einkaufszentrum im Stadtzentrum für allgemeine Bedürfnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trollhättans Hemslöjd",
+            "tip": "Kézzel készített ajándéktárgyak és helyi kézműves termékek."
+          },
+          {
+            "name": "Odenhuset",
+            "tip": "Egy kis bevásárlóközpont a városközpontban az általános szükségletekre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trollhättans Hemslöjd",
+            "tip": "Suveniruri realizate manual și artizanat local."
+          },
+          {
+            "name": "Odenhuset",
+            "tip": "Un mic centru comercial în centrul orașului pentru nevoi generale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trollhättans Hemslöjd",
+            "tip": "Handmade souvenirs and local crafts."
+          },
+          {
+            "name": "Odenhuset",
+            "tip": "A small shopping center in the city center for general needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie sehr bequeme Schuhe, da Sie viel auf unebenem Gelände rund um die Schleusen und Wasserfälle laufen werden.",
+          "Prüfen Sie den Zeitplan für das Öffnen der Brücken, um Wartezeiten zu vermeiden.",
+          "Ein Fernglas ist nützlich, um die Details der Schleusen und die Natur zu beobachten."
+        ],
+        "hu": [
+          "Viseljen nagyon kényelmes cipőt, mert sokat fog sétálni egyenetlen terepen a zsilipek és vízesések körül.",
+          "Ellenőrizze a hidak nyitvatartási rendjét a várakozási idő elkerülése érdekében.",
+          "Egy távcső hasznos lehet a zsilipek részleteinek és a természet megfigyeléséhez."
+        ],
+        "ro": [
+          "Purtați încălțăminte foarte confortabilă, deoarece veți merge mult pe teren denivelat în jurul ecluzelor și cascadelor.",
+          "Verificați programul de deschidere a podurilor pentru a evita timpii de așteptare.",
+          "Un binoclu este util pentru a observa detaliile ecluzelor și ale naturii."
+        ],
+        "en": [
+          "Wear very comfortable shoes, as you'll be walking a lot on uneven terrain around the locks and waterfalls.",
+          "Check the schedule for bridge openings to avoid waiting times.",
+          "Binoculars are useful for observing the details of the locks and the surrounding nature."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 14.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Saab Car Museum",
+            "hu": "Saab Autómúzeum",
+            "ro": "Muzeul Auto Saab",
+            "en": "Saab Car Museum"
+          },
+          "coords": [
+            12.2935,
+            58.287
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit schwedischer Ingenieurskunst.",
+            "hu": "Kezdje a napot a svéd mérnöki tudás megismerésével.",
+            "ro": "Începeți ziua cu ingineria suedeză.",
+            "en": "Start the day with Swedish engineering excellence."
+          }
+        },
+        {
+          "name": {
+            "de": "Innovatum Science Center",
+            "hu": "Innovatum Tudományos Központ",
+            "ro": "Centrul Științific Innovatum",
+            "en": "Innovatum Science Center"
+          },
+          "coords": [
+            12.2925,
+            58.2865
+          ],
+          "category": "cultural centres",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Stopp für interaktive Exponate.",
+            "hu": "Egy rövid, de megérő megálló az interaktív kiállításokért.",
+            "ro": "O oprire scurtă, dar meritată pentru exponatele interactive.",
+            "en": "A short but worthwhile stop for interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Gropbron",
+            "hu": "Gropbron híd",
+            "ro": "Podul Gropbron",
+            "en": "Gropbron Bridge"
+          },
+          "coords": [
+            12.285,
+            58.282
+          ],
+          "category": "bridges",
+          "arrive_at": "12:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht über den Fluss Göta älv.",
+            "hu": "Élvezze a kilátást a Göta älv folyóra.",
+            "ro": "Bucurați-vă de priveliștea peste râul Göta älv.",
+            "en": "Enjoy the view over the Göta älv river."
+          }
+        },
+        {
+          "name": {
+            "de": "Schleusengebiet",
+            "hu": "A zsilipterület",
+            "ro": "Zona Ecluzelor",
+            "en": "The Locks Area"
+          },
+          "coords": [
+            12.2785,
+            58.2755
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für ein Mittagessen in einem der Cafés hier.",
+            "hu": "Szánjon időt egy ebédre az itteni kávézók egyikében.",
+            "ro": "Luați-vă timp pentru prânz la una dintre cafenelele de aici.",
+            "en": "Take time for lunch at one of the cafés here."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Wasserfälle",
+            "hu": "A vízesések",
+            "ro": "Cascadele",
+            "en": "The Waterfalls"
+          },
+          "coords": [
+            12.281,
+            58.28
+          ],
+          "category": "natural features",
+          "arrive_at": "14:04",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die Kraft des Wassers ist am besten vom Oscar-Steg aus zu spüren.",
+            "hu": "A víz erejét leginkább az Oscar-hídról lehet érezni.",
+            "ro": "Puterea apei se simte cel mai bine de pe podul Oscar.",
+            "en": "The power of the water is best felt from the Oscar bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Kopparklinten",
+            "hu": "Kopparklinten kilátó",
+            "ro": "Punctul de belvedere Kopparklinten",
+            "en": "Kopparklinten Viewpoint"
+          },
+          "coords": [
+            12.308,
+            58.285
+          ],
+          "category": "natural features",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Die Radtour hierher ist anstrengend, aber die Aussicht belohnt alles.",
+            "hu": "A biciklizés ide fárasztó, de a kilátás mindenért kárpótol.",
+            "ro": "Plimbarea cu bicicleta până aici este obositoare, dar priveliștea merită totul.",
+            "en": "The bike ride up here is strenuous, but the view is worth it all."
+          }
+        },
+        {
+          "name": {
+            "de": "Skogshöjd Aussichtsturm",
+            "hu": "Skogshöjd kilátótorony",
+            "ro": "Turnul de observație Skogshöjd",
+            "en": "Skogshöjd Lookout Tower"
+          },
+          "coords": [
+            12.321,
+            58.3
+          ],
+          "category": "natural features",
+          "arrive_at": "16:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein weiterer fantastischer Panoramablick über die Region.",
+            "hu": "Egy másik fantasztikus panoráma a régióra.",
+            "ro": "O altă priveliște panoramică fantastică a regiunii.",
+            "en": "Another fantastic panoramic view over the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Spikön",
+            "hu": "Spikön-sziget",
+            "ro": "Insula Spikön",
+            "en": "Spikön Island"
+          },
+          "coords": [
+            12.288,
+            58.284
+          ],
+          "category": "parks",
+          "arrive_at": "17:04",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Rollen Sie entspannt aus und genießen Sie die Abendsonne.",
+            "hu": "Guruljon le lazán, és élvezze az esti napsütést.",
+            "ro": "Relaxați-vă și bucurați-vă de soarele de seară.",
+            "en": "Roll out relaxed and enjoy the evening sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit einem Paukenschlag im Saab Car Museum, gefolgt vom interaktiven Innovatum. Am Vormittag erleben Sie die technologische Seite Trollhättans. Eine kurze Fahrt über die Gropbron-Brücke bietet erste malerische Ausblicke auf den Fluss.\nZu Mittag erreichen Sie das Herz der Stadt: das Schleusengebiet. Nach einer Stärkung erleben Sie die Kraft der Wasserfälle. Diese Gegend ist perfekt, um vom Rad abzusteigen und die Atmosphäre zu Fuß zu genießen. Es ist eine Mischung aus Naturwunder und menschlicher Schöpfungskraft.\nDer Nachmittag wird sportlich. Sie radeln bergauf zum Kopparklinten und weiter zum Skogshöjd Aussichtsturm. Die Anstrengung wird mit atemberaubenden Panoramablicken über die Stadt und die umliegende Landschaft belohnt. Diese Perspektive zeigt die wahre Schönheit der Region.\nLassen Sie den Tag entspannt auf der Insel Spikön ausklingen. Eine sanfte Fahrt dorthin, gefolgt von einer Pause im Grünen, ist der perfekte Abschluss für einen ereignisreichen Tag auf zwei Rädern. Genießen Sie die Ruhe, bevor Sie sich auf den Heimweg machen.",
+        "hu": "Kerékpártúrája a Saab Autómúzeumban kezdődik, majd az interaktív Innovatum következik. Délelőtt Trollhättan technológiai oldalát ismeri meg. Egy rövid út a Gropbron hídon át festői kilátást nyújt a folyóra.\nDélben eléri a város szívét: a zsilipterületet. Egy kis harapnivaló után megtapasztalhatja a vízesések erejét. Ez a terület tökéletes arra, hogy leszálljon a kerékpárról, és gyalog élvezze a hangulatot. Ez a természeti csoda és az emberi alkotóerő keveréke.\nA délután sportos lesz. Felteker a Kopparklintenre, majd tovább a Skogshöjd kilátótoronyhoz. A fáradozást a városra és a környező tájra nyíló lélegzetelállító panoráma jutalmazza. Ez a perspektíva megmutatja a régió igazi szépségét.\nZárja a napot pihenéssel a Spikön-szigeten. Egy kellemes tekerés oda, majd egy szünet a zöldben tökéletes befejezése egy eseménydús napnak két keréken. Élvezze a csendet, mielőtt hazaindul.",
+        "ro": "Turul cu bicicleta începe în forță la Muzeul Auto Saab, urmat de interactivul Innovatum. Dimineața veți experimenta latura tehnologică a Trollhättan-ului. O scurtă plimbare peste podul Gropbron oferă primele priveliști pitorești ale râului.\nLa prânz, ajungeți în inima orașului: zona ecluzelor. După o gustare, veți experimenta puterea cascadelor. Această zonă este perfectă pentru a coborî de pe bicicletă și a vă bucura de atmosferă pe jos. Este un amestec de minune naturală și creativitate umană.\nDupă-amiaza devine sportivă. Pedalați în sus spre Kopparklinten și mai departe spre Turnul de observație Skogshöjd. Efortul este răsplătit cu priveliști panoramice uluitoare asupra orașului și peisajului înconjurător. Această perspectivă dezvăluie adevărata frumusețe a regiunii.\nÎncheiați ziua relaxându-vă pe insula Spikön. O plimbare blândă până acolo, urmată de o pauză în verdeață, este finalul perfect pentru o zi plină de evenimente pe două roți. Bucurați-vă de liniște înainte de a porni spre casă.",
+        "en": "Your bike tour starts with a bang at the Saab Car Museum, followed by the interactive Innovatum. In the morning, you'll experience the technological side of Trollhättan. A short ride over the Gropbron bridge offers the first picturesque views of the river.\nAt lunchtime, you'll reach the heart of the city: the locks area. After a snack, you'll experience the power of the waterfalls. This area is perfect for getting off your bike and enjoying the atmosphere on foot. It's a mix of natural wonder and human creativity.\nThe afternoon gets sporty. You'll cycle uphill to Kopparklinten and on to the Skogshöjd Lookout Tower. The effort is rewarded with breathtaking panoramic views over the city and the surrounding landscape. This perspective reveals the true beauty of the region.\nEnd the day relaxing on Spikön island. A gentle ride there, followed by a break in the green, is the perfect end to an eventful day on two wheels. Enjoy the peace and quiet before you head home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Räksmörgås",
+            "tip": "Ein offenes Sandwich mit Garnelen, ein schwedischer Klassiker. Perfekt für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Ärtsoppa och Pannkakor",
+            "tip": "Traditionell am Donnerstag gegessen, aber in vielen Restaurants immer verfügbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Räksmörgås",
+            "tip": "Egy nyitott szendvics garnélával, egy svéd klasszikus. Tökéletes egy könnyű ebédhez."
+          },
+          {
+            "name": "Ärtsoppa och Pannkakor",
+            "tip": "Hagyományosan csütörtökön eszik, de sok étteremben mindig kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Räksmörgås",
+            "tip": "Un sandviș deschis cu creveți, un clasic suedez. Perfect pentru un prânz ușor."
+          },
+          {
+            "name": "Ärtsoppa och Pannkakor",
+            "tip": "Mâncată în mod tradițional joia, dar disponibilă oricând în multe restaurante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Räksmörgås",
+            "tip": "An open-faced shrimp sandwich, a Swedish classic. Perfect for a light lunch."
+          },
+          {
+            "name": "Ärtsoppa och Pannkakor",
+            "tip": "Traditionally eaten on Thursdays, but always available in many restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kopparklinten",
+            "tip": "Genießen Sie die Stille nach dem Aufstieg und den weiten Blick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Flusspfade",
+            "tip": "Folgen Sie den weniger befahrenen Wegen entlang des Göta älv.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kopparklinten",
+            "tip": "Élvezze a csendet a mászás után és a széles kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Folyóparti ösvények",
+            "tip": "Kövesse a kevésbé forgalmas utakat a Göta älv mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kopparklinten",
+            "tip": "Bucurați-vă de liniște după urcare și de priveliștea vastă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cărări de râu",
+            "tip": "Urmați potecile mai puțin circulate de-a lungul râului Göta älv.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kopparklinten",
+            "tip": "Enjoy the silence after the climb and the wide view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "River paths",
+            "tip": "Follow the less-traveled paths along the Göta älv.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Halten Sie Ausschau nach saisonalen Märkten für lokale Produkte."
+          },
+          {
+            "name": "Flickorna Kanold",
+            "tip": "Eine lokale Chocolaterie für süße Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keresse a szezonális piacokat a helyi termékekért."
+          },
+          {
+            "name": "Flickorna Kanold",
+            "tip": "Egy helyi csokoládébolt édes ajándékokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele sezoniere pentru produse locale."
+          },
+          {
+            "name": "Flickorna Kanold",
+            "tip": "O ciocolaterie locală pentru suveniruri dulci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look out for seasonal markets for local produce."
+          },
+          {
+            "name": "Flickorna Kanold",
+            "tip": "A local chocolaterie for sweet souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Strecken haben steile Anstiege, stellen Sie sicher, dass Ihr Fahrrad Gänge hat.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Fahrt zu den Aussichtspunkten.",
+          "Ein Fahrradschloss ist unerlässlich, wenn Sie die Sehenswürdigkeiten zu Fuß erkunden."
+        ],
+        "hu": [
+          "Néhány szakaszon meredek emelkedők vannak, győződjön meg róla, hogy a kerékpárja rendelkezik sebességváltóval.",
+          "Vigyen magával elegendő vizet, különösen a kilátópontokhoz vezető útra.",
+          "A kerékpárzár elengedhetetlen, ha gyalogosan fedezi fel a látnivalókat."
+        ],
+        "ro": [
+          "Unele trasee au urcări abrupte, asigurați-vă că bicicleta are viteze.",
+          "Luați suficientă apă, mai ales pentru drumul spre punctele de belvedere.",
+          "O încuietoare pentru bicicletă este esențială atunci când explorați atracțiile pe jos."
+        ],
+        "en": [
+          "Some routes have steep climbs, make sure your bike has gears.",
+          "Bring plenty of water, especially for the ride to the viewpoints.",
+          "A bike lock is essential when you explore the sights on foot."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 15.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kopparklinten",
+            "hu": "Kopparklinten kilátó",
+            "ro": "Punctul de belvedere Kopparklinten",
+            "en": "Kopparklinten Viewpoint"
+          },
+          "coords": [
+            12.308,
+            58.285
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer spektakulären Aussicht. Es gibt einen Parkplatz in der Nähe.",
+            "hu": "Kezdje a napot egy látványos kilátással. A közelben parkoló található.",
+            "ro": "Începeți ziua cu o priveliște spectaculoasă. Există o parcare în apropiere.",
+            "en": "Start the day with a spectacular view. There's a parking lot nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Skogshöjd Aussichtsturm",
+            "hu": "Skogshöjd kilátótorony",
+            "ro": "Turnul de observație Skogshöjd",
+            "en": "Skogshöjd Lookout Tower"
+          },
+          "coords": [
+            12.321,
+            58.3
+          ],
+          "category": "natural features",
+          "arrive_at": "09:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Panoramapunkt für eine andere Perspektive.",
+            "hu": "Hajtson a következő panorámaponthoz egy másik perspektíváért.",
+            "ro": "Conduceți la următorul punct panoramic pentru o altă perspectivă.",
+            "en": "Drive to the next panoramic point for a different perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Saab Car Museum",
+            "hu": "Saab Autómúzeum",
+            "ro": "Muzeul Auto Saab",
+            "en": "Saab Car Museum"
+          },
+          "coords": [
+            12.2935,
+            58.287
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und bereiten Sie sich auf einen Spaziergang zum nächsten Ziel vor.",
+            "hu": "Parkoljon itt, és készüljön fel a következő célponthoz való sétára.",
+            "ro": "Parcați aici și pregătiți-vă pentru o plimbare până la următoarea destinație.",
+            "en": "Park here and prepare for a walk to the next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Innovatum Science Center",
+            "hu": "Innovatum Tudományos Központ",
+            "ro": "Centrul Științific Innovatum",
+            "en": "Innovatum Science Center"
+          },
+          "coords": [
+            12.2925,
+            58.2865
+          ],
+          "category": "cultural centres",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Saab Museum, ideal für die Mittagszeit.",
+            "hu": "Egy rövid séta a Saab Múzeumtól, ideális ebédidőben.",
+            "ro": "O scurtă plimbare de la Muzeul Saab, ideală pentru prânz.",
+            "en": "A short walk from the Saab Museum, ideal for lunchtime."
+          }
+        },
+        {
+          "name": {
+            "de": "Schleusengebiet",
+            "hu": "A zsilipterület",
+            "ro": "Zona Ecluzelor",
+            "en": "The Locks Area"
+          },
+          "coords": [
+            12.2785,
+            58.2755
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie einen Parkplatz für den Rest des Nachmittags.",
+            "hu": "Keressen parkolóhelyet a délután hátralévő részére.",
+            "ro": "Găsiți un loc de parcare pentru restul după-amiezii.",
+            "en": "Find a parking spot for the rest of the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Wasserfälle",
+            "hu": "A vízesések",
+            "ro": "Cascadele",
+            "en": "The Waterfalls"
+          },
+          "coords": [
+            12.281,
+            58.28
+          ],
+          "category": "natural features",
+          "arrive_at": "15:34",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang vom Schleusengebiet aus.",
+            "hu": "Egy könnyű séta a zsilipterületről.",
+            "ro": "O plimbare ușoară din zona ecluzelor.",
+            "en": "An easy walk from the locks area."
+          }
+        },
+        {
+          "name": {
+            "de": "Olidan Kraftstation",
+            "hu": "Olidan erőmű",
+            "ro": "Centrala Electrică Olidan",
+            "en": "Olidan Power Station"
+          },
+          "coords": [
+            12.2845,
+            58.2815
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Einblick in die industrielle Geschichte der Stadt.",
+            "hu": "Zárja a napot a város ipari történelmébe való betekintéssel.",
+            "ro": "Încheiați ziua cu o privire asupra istoriei industriale a orașului.",
+            "en": "End the day with a glimpse into the city's industrial history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto beginnt hoch oben mit Panoramablicken vom Kopparklinten und dem Skogshöjd Turm. Diese morgendliche Fahrt gibt Ihnen einen perfekten Überblick über die Region, die Sie erkunden werden. Danach fahren Sie zum ersten Cluster, dem Innovationsviertel.\nAm späten Vormittag parken Sie Ihr Auto und tauchen in die Welt von Saab und Wissenschaft ein. Das Saab Car Museum und das Innovatum Science Center liegen nur einen kurzen Spaziergang voneinander entfernt. Dies ist der perfekte Ort für ein Mittagessen und um die schwedische Innovationskraft zu erleben.\nNach dem Mittagessen fahren Sie zum zweiten großen Cluster des Tages: dem historischen Wasser- und Schleusengebiet. Parken Sie das Auto erneut und erkunden Sie zu Fuß die beeindruckenden Schleusen, die tosenden Wasserfälle und die historische Olidan Kraftstation. Spüren Sie die Geschichte und die Kraft, die diese Stadt geformt hat.\nDer späte Nachmittag ist eine entspannte Wanderung durch dieses faszinierende Gebiet. Jeder Schritt enthüllt ein neues Detail der Ingenieurskunst und der Natur. Es ist der perfekte, ruhige Ausklang für einen Tag voller Entdeckungen, bevor Sie wieder ins Auto steigen.",
+        "hu": "Autós napja magasan kezdődik, panorámás kilátással a Kopparklintenről és a Skogshöjd-toronyból. Ez a reggeli autózás tökéletes áttekintést nyújt a felfedezésre váró régióról. Ezután az első központhoz, az innovációs negyedhez hajt.\nA késő délelőtt folyamán leparkolja autóját, és elmerül a Saab és a tudomány világában. A Saab Autómúzeum és az Innovatum Tudományos Központ csak egy rövid sétára található egymástól. Ez a tökéletes hely egy ebédhez és a svéd innovációs erő megtapasztalásához.\nEbéd után a nap második nagy központjához hajt: a történelmi víz- és zsilipterülethez. Parkolja le újra az autót, és fedezze fel gyalog a lenyűgöző zsilipeket, a dübörgő vízeséseket és a történelmi Olidan erőművet. Érezze a történelmet és az erőt, amely ezt a várost formálta.\nA késő délután egy pihentető séta ezen a lenyűgöző területen. Minden lépés egy újabb részletet tár fel a mérnöki tudásról és a természetről. Ez a tökéletes, csendes befejezése egy felfedezésekkel teli napnak, mielőtt újra autóba ülne.",
+        "ro": "Ziua dumneavoastră cu mașina începe la înălțime, cu vederi panoramice de la Kopparklinten și Turnul Skogshöjd. Această plimbare matinală vă oferă o imagine de ansamblu perfectă a regiunii pe care o veți explora. Apoi, conduceți spre primul cluster, cartierul inovației.\nLa sfârșitul dimineții, parcați mașina și cufundați-vă în lumea Saab și a științei. Muzeul Auto Saab și Centrul Științific Innovatum se află la o scurtă plimbare unul de celălalt. Acesta este locul perfect pentru prânz și pentru a experimenta puterea inovatoare suedeză.\nDupă prânz, conduceți spre al doilea mare cluster al zilei: zona istorică a apei și a ecluzelor. Parcați din nou mașina și explorați pe jos ecluzele impresionante, cascadele zgomotoase și istorica Centrală Electrică Olidan. Simțiți istoria și puterea care au modelat acest oraș.\nSfârșitul după-amiezii este o plimbare relaxantă prin această zonă fascinantă. Fiecare pas dezvăluie un nou detaliu de inginerie și natură. Este încheierea perfectă și liniștită a unei zile pline de descoperiri, înainte de a vă urca din nou în mașină.",
+        "en": "Your day by car starts high up with panoramic views from Kopparklinten and the Skogshöjd Tower. This morning drive gives you a perfect overview of the region you'll be exploring. You then drive to the first cluster, the innovation district.\nIn the late morning, you park your car and immerse yourself in the world of Saab and science. The Saab Car Museum and Innovatum Science Center are just a short walk from each other. This is the perfect place for lunch and to experience Swedish innovative power.\nAfter lunch, you drive to the second major cluster of the day: the historic water and locks area. Park the car again and explore on foot the impressive locks, the roaring waterfalls, and the historic Olidan Power Station. Feel the history and power that shaped this city.\nThe late afternoon is a relaxing walk through this fascinating area. Every step reveals a new detail of engineering and nature. It's the perfect, quiet end to a day full of discoveries before you get back in the car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Våfflor med sylt och grädde",
+            "tip": "Genießen Sie frische Waffeln in einem Café am Schleusengebiet, z.B. im 'Slusscaféet'."
+          },
+          {
+            "name": "Dagens Rätt",
+            "tip": "Suchen Sie nach dem 'Gericht des Tages' für ein preiswertes und authentisches Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Våfflor lekvárral és tejszínhabbal",
+            "tip": "Élvezze a friss gofrit egy kávézóban a zsilipterületen, pl. a 'Slusscaféet'-ben."
+          },
+          {
+            "name": "Dagens Rätt",
+            "tip": "Keresse a 'Nap ételét' egy olcsó és autentikus ebédért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Våfflor cu gem și frișcă",
+            "tip": "Bucurați-vă de vafe proaspete la o cafenea din zona ecluzelor, de ex. la 'Slusscaféet'."
+          },
+          {
+            "name": "Dagens Rätt",
+            "tip": "Căutați 'Mâncarea zilei' pentru un prânz ieftin și autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Waffles with jam and cream",
+            "tip": "Enjoy fresh waffles at a café in the locks area, e.g., at 'Slusscaféet'."
+          },
+          {
+            "name": "Dagens Rätt",
+            "tip": "Look for the 'Dish of the Day' for an affordable and authentic lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gamle Dal'n",
+            "tip": "Ein Spaziergang entlang der alten, stillgelegten Schleusen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Utsiktsplats Forngården",
+            "tip": "Ein weniger bekannter Aussichtspunkt für einen ruhigen Moment.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gamle Dal'n",
+            "tip": "Séta a régi, használaton kívüli zsilipek mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Utsiktsplats Forngården",
+            "tip": "Egy kevésbé ismert kilátópont egy csendes pillanatért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gamle Dal'n",
+            "tip": "O plimbare de-a lungul vechilor ecluze dezafectate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Utsiktsplats Forngården",
+            "tip": "Un punct de belvedere mai puțin cunoscut pentru un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gamle Dal'n",
+            "tip": "A walk along the old, disused locks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Utsiktsplats Forngården",
+            "tip": "A lesser-known viewpoint for a quiet moment.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gårdsbutik",
+            "tip": "Halten Sie auf dem Land Ausschau nach Hofläden mit lokalen Produkten."
+          },
+          {
+            "name": "Etage",
+            "tip": "Größeres Einkaufszentrum am Stadtrand für eine breitere Auswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Etage",
+            "tip": "Nagyobb bevásárlóközpont a város szélén a szélesebb választékért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gårdsbutik",
+            "tip": "Căutați magazinele de la fermă din mediul rural pentru produse locale."
+          },
+          {
+            "name": "Etage",
+            "tip": "Centru comercial mai mare la marginea orașului pentru o selecție mai largă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gårdsbutik",
+            "tip": "Look for farm shops in the countryside for local produce."
+          },
+          {
+            "name": "Etage",
+            "tip": "Larger shopping center on the outskirts for a wider selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren können anfallen, halten Sie Münzen oder eine Parking-App bereit.",
+          "Die Cluster-Strategie spart Zeit und Parkplatzsuche. Planen Sie Ihre Stopps entsprechend.",
+          "Achten Sie auf die Beschilderung zu den Sehenswürdigkeiten, sie ist in der Regel gut."
+        ],
+        "hu": [
+          "Parkolási díjak merülhetnek fel, tartson készenlétben érméket vagy egy parkolóalkalmazást.",
+          "A klaszter-stratégia időt és parkolóhely-keresést takarít meg. Tervezze meg megállóit ennek megfelelően.",
+          "Figyeljen a látnivalókhoz vezető táblákra, általában jók."
+        ],
+        "ro": [
+          "Se pot aplica taxe de parcare, pregătiți monede sau o aplicație de parcare.",
+          "Strategia cluster economisește timp și căutarea locurilor de parcare. Planificați-vă opririle în consecință.",
+          "Fiți atenți la indicatoarele către atracții, de obicei sunt bune."
+        ],
+        "en": [
+          "Parking fees may apply, have coins or a parking app ready.",
+          "The cluster strategy saves time and parking searches. Plan your stops accordingly.",
+          "Pay attention to the signs for the sights, they are usually good."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Trollhättan Resecentrum",
+            "hu": "Trollhättan Utazási Központ",
+            "ro": "Centrul de Călătorii Trollhättan",
+            "en": "Trollhättan Travel Center"
+          },
+          "coords": [
+            12.2899,
+            58.2815
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den Bus für maximale Flexibilität.",
+            "hu": "Vásároljon napijegyet a buszra a maximális rugalmasság érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru autobuz pentru flexibilitate maximă.",
+            "en": "Buy a day ticket for the bus for maximum flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Saab Car Museum",
+            "hu": "Saab Autómúzeum",
+            "ro": "Muzeul Auto Saab",
+            "en": "Saab Car Museum"
+          },
+          "coords": [
+            12.2935,
+            58.287
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der erste Cluster: Nehmen Sie einen Bus zum Innovationsviertel.",
+            "hu": "Az első klaszter: Menjen busszal az innovációs negyedbe.",
+            "ro": "Primul cluster: Luați un autobuz spre cartierul inovației.",
+            "en": "The first cluster: take a bus to the innovation district."
+          }
+        },
+        {
+          "name": {
+            "de": "Innovatum Science Center",
+            "hu": "Innovatum Tudományos Központ",
+            "ro": "Centrul Științific Innovatum",
+            "en": "Innovatum Science Center"
+          },
+          "coords": [
+            12.2925,
+            58.2865
+          ],
+          "category": "cultural centres",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Saab-Museum, um den Vormittag abzurunden.",
+            "hu": "Egy rövid séta a Saab Múzeumtól a délelőtt lezárásaként.",
+            "ro": "O scurtă plimbare de la Muzeul Saab pentru a încheia dimineața.",
+            "en": "A short walk from the Saab museum to round off the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Schleusengebiet",
+            "hu": "A zsilipterület",
+            "ro": "Zona Ecluzelor",
+            "en": "The Locks Area"
+          },
+          "coords": [
+            12.2785,
+            58.2755
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nächster Bus, nächster Cluster. Zeit für das Herzstück von Trollhättan.",
+            "hu": "Következő busz, következő klaszter. Itt az idő Trollhättan szívéhez.",
+            "ro": "Următorul autobuz, următorul cluster. E timpul pentru inima Trollhättan-ului.",
+            "en": "Next bus, next cluster. Time for the heart of Trollhättan."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Wasserfälle",
+            "hu": "A vízesések",
+            "ro": "Cascadele",
+            "en": "The Waterfalls"
+          },
+          "coords": [
+            12.281,
+            58.28
+          ],
+          "category": "natural features",
+          "arrive_at": "14:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des Wassers und spüren Sie die Gischt.",
+            "hu": "Sétáljon a víz mentén, és érezze a permetet.",
+            "ro": "Plimbați-vă de-a lungul apei și simțiți stropii.",
+            "en": "Stroll along the water and feel the spray."
+          }
+        },
+        {
+          "name": {
+            "de": "Spikön",
+            "hu": "Spikön-sziget",
+            "ro": "Insula Spikön",
+            "en": "Spikön Island"
+          },
+          "coords": [
+            12.288,
+            58.284
+          ],
+          "category": "parks",
+          "arrive_at": "16:13",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang zurück Richtung Zentrum zum Abschluss.",
+            "hu": "Egy pihentető séta vissza a központ felé befejezésül.",
+            "ro": "O plimbare relaxantă înapoi spre centru pentru a încheia.",
+            "en": "A relaxing walk back towards the center to finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt am Resecentrum, dem Verkehrsknotenpunkt der Stadt. Von hier aus bringt Sie ein Bus direkt zum ersten Themencluster: dem Innovationsviertel. Der Vormittag ist gefüllt mit den Wundern der Technik im Saab Museum und im Innovatum Science Center, die beide bequem zu Fuß erreichbar sind.\nZur Mittagszeit nehmen Sie den nächsten Bus, der Sie in das historische Herz von Trollhättan bringt. Steigen Sie am Schleusengebiet aus, einem Ort, an dem Sie die nächsten Stunden verbringen werden. Hier können Sie in einem Café zu Mittag essen, bevor Sie sich auf den Weg machen, um die Gegend zu erkunden.\nDer Nachmittag ist ein Spaziergang durch eine Landschaft aus Wasser und Stein. Vom Schleusengebiet aus wandern Sie zu den tosenden Wasserfällen. Erleben Sie die schiere Kraft der Natur und der menschlichen Ingenieurskunst, die sie zähmt. Es ist ein unvergessliches Erlebnis.\nZum Abschluss des Tages schlendern Sie gemütlich zur Insel Spikön. Es ist der perfekte Ort, um sich zu entspannen und die Eindrücke zu verarbeiten. Von hier aus ist es nur ein kurzer Spaziergang oder eine kurze Busfahrt zurück zum Resecentrum, womit sich Ihr Kreis schließt.",
+        "hu": "Tömegközlekedési túrája a Resecentrumban, a város közlekedési csomópontjában kezdődik. Innen egy busz egyenesen az első tematikus központhoz, az innovációs negyedhez viszi. A délelőtt a technika csodáival telik a Saab Múzeumban és az Innovatum Tudományos Központban, mindkettő kényelmesen elérhető gyalog.\nEbédidőben a következő buszra száll, amely Trollhättan történelmi szívébe viszi. Szálljon le a zsilipterületnél, ahol a következő órákat tölti. Itt ebédelhet egy kávézóban, mielőtt elindulna a környék felfedezésére.\nA délután egy séta a víz és a kő táján. A zsilipterületről a dübörgő vízesésekhez túrázik. Tapasztalja meg a természet és az azt megszelídítő emberi mérnöki tudás puszta erejét. Ez egy felejthetetlen élmény.\nA nap végén sétáljon el kényelmesen a Spikön-szigetre. Ez a tökéletes hely a pihenésre és az élmények feldolgozására. Innen csak egy rövid séta vagy buszozás vissza a Resecentrumba, amivel a kör bezárul.",
+        "ro": "Turul dumneavoastră cu transportul public începe la Resecentrum, nodul de transport al orașului. De aici, un autobuz vă duce direct la primul cluster tematic: cartierul inovației. Dimineața este plină de minunile tehnologiei la Muzeul Saab și Centrul Științific Innovatum, ambele ușor accesibile pe jos.\nLa prânz, luați următorul autobuz care vă duce în inima istorică a Trollhättan-ului. Coborâți la zona ecluzelor, un loc unde veți petrece următoarele ore. Aici puteți lua prânzul la o cafenea înainte de a porni să explorați zona.\nDupă-amiaza este o plimbare printr-un peisaj de apă și piatră. Din zona ecluzelor, mergeți spre cascadele zgomotoase. Experimentați puterea pură a naturii și a ingineriei umane care o îmblânzește. Este o experiență de neuitat.\nLa sfârșitul zilei, plimbați-vă agale pe insula Spikön. Este locul perfect pentru a vă relaxa și a procesa impresiile. De aici, este doar o scurtă plimbare pe jos sau cu autobuzul înapoi la Resecentrum, încheind astfel circuitul.",
+        "en": "Your tour by public transport begins at Resecentrum, the city's transport hub. From here, a bus takes you directly to the first themed cluster: the innovation district. The morning is filled with the wonders of technology at the Saab Museum and the Innovatum Science Center, both easily accessible on foot.\nAt lunchtime, you take the next bus to the historic heart of Trollhättan. Get off at the locks area, a place where you will spend the next few hours. Here you can have lunch in a café before setting off to explore the area.\nThe afternoon is a walk through a landscape of water and stone. From the locks area, you hike to the roaring waterfalls. Experience the sheer power of nature and the human engineering that tames it. It's an unforgettable experience.\nAt the end of the day, take a leisurely stroll to Spikön island. It's the perfect place to relax and process your impressions. From here, it's just a short walk or bus ride back to Resecentrum, bringing your journey full circle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Korv med mos",
+            "tip": "Ein schneller und beliebter schwedischer Imbiss, perfekt für unterwegs."
+          },
+          {
+            "name": "Smörgåstårta-Stück",
+            "tip": "Probieren Sie ein Stück des herzhaften 'Sandwich-Kuchens' in einer Konditorei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Korv med mos",
+            "tip": "Egy gyors és népszerű svéd harapnivaló, tökéletes útközben."
+          },
+          {
+            "name": "Smörgåstårta szelet",
+            "tip": "Kóstoljon meg egy szeletet a sós 'szendvicstortából' egy cukrászdában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Korv med mos",
+            "tip": "O gustare suedeză rapidă și populară, perfectă pentru drum."
+          },
+          {
+            "name": "Felie de Smörgåstårta",
+            "tip": "Încercați o felie din 'tortul sandviș' sărat la o cofetărie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Korv med mos",
+            "tip": "A quick and popular Swedish snack, perfect for on the go."
+          },
+          {
+            "name": "Slice of Smörgåstårta",
+            "tip": "Try a slice of the savory 'sandwich cake' at a pastry shop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hjortmosseparken",
+            "tip": "Ein ruhiger Park, oft auf dem Weg der Buslinien.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Göta älv",
+            "tip": "Finden Sie eine Bank entlang des Flusses zwischen den Haltestellen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hjortmosseparken",
+            "tip": "Egy csendes park, gyakran a buszjáratok útvonalán.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Göta älv partja",
+            "tip": "Keressen egy padot a folyó mentén a megállók között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Hjortmosseparken",
+            "tip": "Un parc liniștit, adesea pe traseul liniilor de autobuz.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul râului Göta älv",
+            "tip": "Găsiți o bancă de-a lungul râului între stații.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hjortmosseparken Park",
+            "tip": "A quiet park, often on the bus routes.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of the Göta älv",
+            "tip": "Find a bench along the river between stops.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Storgatan",
+            "tip": "Die Haupteinkaufsstraße im Zentrum, leicht vom Resecentrum aus zu erreichen."
+          },
+          {
+            "name": "Second-Hand-Läden",
+            "tip": "Schweden liebt 'Loppis'. Halten Sie die Augen offen nach Schnäppchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Storgatan",
+            "tip": "A központ fő bevásárlóutcája, könnyen elérhető a Resecentrumból."
+          },
+          {
+            "name": "Second-hand boltok",
+            "tip": "Svédország imádja a 'Loppis'-t. Tartsa nyitva a szemét az akciókért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Storgatan",
+            "tip": "Strada principală de cumpărături din centru, ușor accesibilă de la Resecentrum."
+          },
+          {
+            "name": "Magazine second-hand",
+            "tip": "Suedia iubește 'Loppis'. Fiți cu ochii în patru pentru chilipiruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Storgatan",
+            "tip": "The main shopping street in the center, easily accessible from Resecentrum."
+          },
+          {
+            "name": "Second-hand shops",
+            "tip": "Sweden loves 'Loppis'. Keep an eye out for bargains."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die Västtrafik-App herunter, um Fahrpläne und Tickets zu verwalten.",
+          "Planen Sie Pufferzeiten für Wartezeiten an den Bushaltestellen ein.",
+          "Achten Sie auf die letzte Busverbindung zurück, besonders wenn Sie am Stadtrand unterwegs sind."
+        ],
+        "hu": [
+          "Töltse le a Västtrafik alkalmazást a menetrendek és jegyek kezeléséhez.",
+          "Tervezzen be puffertartalékot a buszmegállókban való várakozásra.",
+          "Figyeljen az utolsó buszjáratra visszafelé, különösen, ha a város szélén tartózkodik."
+        ],
+        "ro": [
+          "Descărcați aplicația Västtrafik pentru a gestiona orarele și biletele.",
+          "Planificați timpi de rezervă pentru așteptarea în stațiile de autobuz.",
+          "Fiți atenți la ultimul autobuz de întoarcere, mai ales dacă vă aflați la periferia orașului."
+        ],
+        "en": [
+          "Download the Västtrafik app to manage schedules and tickets.",
+          "Plan for buffer times for waiting at bus stops.",
+          "Pay attention to the last bus connection back, especially if you are on the outskirts of the city."
+        ]
+      }
+    }
+  }
+}

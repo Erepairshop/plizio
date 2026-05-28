@@ -1,0 +1,1106 @@
+{
+  "city_id": "denmark-herlufmagle-cities-v2",
+  "anchor": {
+    "name": "Herlufmagle",
+    "coords": [
+      11.72,
+      55.28
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:05",
+      "total_km": 5.4,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Herlufmagle Kirke",
+            "hu": "Herlufmagle-templom",
+            "ro": "Biserica Herlufmagle",
+            "en": "Herlufmagle Church"
+          },
+          "coords": [
+            11.7215,
+            55.281
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beachten Sie die mittelalterlichen Fresken im Inneren.",
+            "hu": "Figyelje meg a középkori freskókat a templom belsejében.",
+            "ro": "Observați frescele medievale din interior.",
+            "en": "Note the medieval frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang entlang der Susåen",
+            "hu": "Séta a Susåen folyó mentén",
+            "ro": "Plimbare de-a lungul râului Susåen",
+            "en": "Walk along the Susåen River"
+          },
+          "coords": [
+            11.73,
+            55.29
+          ],
+          "category": "natural features",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein ruhiges Picknick.",
+            "hu": "Ideális hely egy csendes piknikhez.",
+            "ro": "Un loc ideal pentru un picnic liniștit.",
+            "en": "An ideal spot for a quiet picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Tybjerg Kirke",
+            "hu": "Tybjerg-templom",
+            "ro": "Biserica Tybjerg",
+            "en": "Tybjerg Church"
+          },
+          "coords": [
+            11.765,
+            55.265
+          ],
+          "category": "churches",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 85,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem markanten Stufengiebel.",
+            "hu": "Keresse a jellegzetes lépcsős oromzatot.",
+            "ro": "Căutați frontonul în trepte distinctiv.",
+            "en": "Look for the distinctive stepped gable."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokales Café",
+            "hu": "Helyi kávézó",
+            "ro": "Cafenea locală",
+            "en": "Local Café"
+          },
+          "coords": [
+            11.722,
+            55.28
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 65,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie ein klassisches dänisches Smørrebrød.",
+            "hu": "Kóstoljon meg egy klasszikus dán smørrebrødet.",
+            "ro": "Încercați un smørrebrød danez clasic.",
+            "en": "Try a classic Danish smørrebrød."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Besuch der historischen Herlufmagle Kirke, um die Ruhe und die alten Fresken auf sich wirken zu lassen. Ein anschließender Spaziergang entlang des Flusses Susåen bietet eine erfrischende Pause in der Natur und die Möglichkeit, die lokale Landschaft zu genießen. Der Nachmittag führt Sie zur charmanten Tybjerg Kirke, einem weiteren Juwel ländlicher dänischer Architektur. Schließen Sie Ihren entspannten Rundgang mit einem Kaffee und einem Stück Kuchen in einem gemütlichen örtlichen Café ab, um die Eindrücke des Tages Revue passieren zu lassen.",
+        "hu": "Kezdje a napot a történelmi Herlufmagle-templom meglátogatásával, hogy magába szívja a nyugalmat és megcsodálja a régi freskókat. Egy ezt követő séta a Susåen folyó mentén frissítő kikapcsolódást nyújt a természetben, és lehetőséget ad a helyi táj élvezetére. A délután a bájos Tybjerg-templomhoz vezet, a dán vidéki építészet egy másik gyöngyszeméhez. Zárja a pihentető sétát egy kávéval és süteménnyel egy hangulatos helyi kávézóban, felidézve a nap élményeit.",
+        "ro": "Începeți ziua cu o vizită la istorica Biserică Herlufmagle pentru a absorbi liniștea și a admira frescele vechi. O plimbare ulterioară de-a lungul râului Susåen oferă o pauză revigorantă în natură și șansa de a vă bucura de peisajul local. După-amiaza vă duce la fermecătoarea Biserică Tybjerg, o altă bijuterie a arhitecturii rurale daneze. Încheiați turul relaxat cu o cafea și o prăjitură la o cafenea locală confortabilă pentru a reflecta asupra impresiilor zilei.",
+        "en": "Start your day with a visit to the historic Herlufmagle Church to soak in the tranquility and admire the ancient frescoes. A subsequent walk along the Susåen River offers a refreshing break in nature and a chance to enjoy the local scenery. The afternoon takes you to the charming Tybjerg Church, another gem of rural Danish architecture. Conclude your relaxed walking tour with a coffee and cake at a cozy local café to reflect on the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Ein klassisches offenes Sandwich, perfekt für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Dänische Fleischbällchen, oft mit Kartoffelsalat serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Klasszikus nyitott szendvics, tökéletes egy könnyű ebédhez."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Dán húsgombócok, gyakran burgonyasalátával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Un sandviș deschis clasic, perfect pentru un prânz ușor."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Chiftele daneze, adesea servite cu salată de cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "A classic open-faced sandwich, perfect for a light lunch."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Danish meatballs, often served with potato salad."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Susåen",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof der Tybjerg Kirke",
+            "tip": "Ein friedlicher Ort mit altertümlicher Atmosphäre.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Susåen folyó partja",
+            "tip": "Keressen egy csendes padot a folyóparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tybjerg-templom temetője",
+            "tip": "Békés hely, ősi hangulattal.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Susåen",
+            "tip": "Găsiți o bancă liniștită pe malul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Bisericii Tybjerg",
+            "tip": "Un loc pașnic cu o atmosferă veche.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Susåen",
+            "tip": "Find a quiet bench by the riverside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tybjerg Church Graveyard",
+            "tip": "A peaceful spot with an ancient atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": [],
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Wege uneben sein können.",
+          "Nehmen Sie Wasser und Snacks mit, da es nur wenige Geschäfte gibt.",
+          "Prüfen Sie die Öffnungszeiten der Kirchen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az utak egyenetlenek lehetnek.",
+          "Vigyen magával vizet és rágcsálnivalót, mivel kevés üzlet van.",
+          "Előre ellenőrizze a templomok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece potecile pot fi denivelate.",
+          "Luați apă și gustări, deoarece există puține magazine.",
+          "Verificați în avans orele de deschidere ale bisericilor."
+        ],
+        "en": [
+          "Wear comfortable shoes as paths can be uneven.",
+          "Bring water and snacks as there are few shops.",
+          "Check the opening hours of the churches in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 28.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Herlufmagle Kirke",
+            "hu": "Herlufmagle-templom",
+            "ro": "Biserica Herlufmagle",
+            "en": "Herlufmagle Church"
+          },
+          "coords": [
+            11.7215,
+            55.281
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit Parkmöglichkeiten für Fahrräder.",
+            "hu": "Jó kiindulópont kerékpárparkolóval.",
+            "ro": "Un bun punct de plecare cu parcare pentru biciclete.",
+            "en": "A good starting point with bicycle parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Holmegaard Værk",
+            "hu": "Holmegaard Værk",
+            "ro": "Holmegaard Værk",
+            "en": "Holmegaard Værk"
+          },
+          "coords": [
+            11.77,
+            55.23
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die Glasbläservorführungen ein.",
+            "hu": "Szánjon elég időt az üvegfúvó bemutatókra.",
+            "ro": "Planificați suficient timp pentru demonstrațiile de suflare a sticlei.",
+            "en": "Plan enough time for the glass-blowing demonstrations."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe von Holmegaard",
+            "hu": "Ebéd Holmegaard közelében",
+            "ro": "Prânz lângă Holmegaard",
+            "en": "Lunch near Holmegaard"
+          },
+          "coords": [
+            11.772,
+            55.231
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Das Museumscafé bietet ausgezeichnete lokale Gerichte.",
+            "hu": "A múzeumi kávézó kiváló helyi ételeket kínál.",
+            "ro": "Cafeneaua muzeului oferă preparate locale excelente.",
+            "en": "The museum café offers excellent local dishes."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Susåen",
+            "hu": "Biciklizés a Susåen mentén",
+            "ro": "Plimbare cu bicicleta de-a lungul râului Susåen",
+            "en": "Ride along the Susåen River"
+          },
+          "coords": [
+            11.83,
+            55.26
+          ],
+          "category": "natural features",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 9,
+          "tip_5lang": {
+            "de": "Halten Sie Ausschau nach Vögeln und der ruhigen Flusslandschaft.",
+            "hu": "Figyelje a madarakat és a csendes folyóparti tájat.",
+            "ro": "Fiți atenți la păsări și la peisajul liniștit al râului.",
+            "en": "Look out for birdlife and the serene river scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Herlufsholm Skole",
+            "hu": "Herlufsholm Iskola",
+            "ro": "Școala Herlufsholm",
+            "en": "Herlufsholm School"
+          },
+          "coords": [
+            11.71,
+            55.22
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 12.5,
+          "tip_5lang": {
+            "de": "Respektieren Sie die Privatsphäre, da es eine aktive Schule ist. Die Außenanlagen sind oft zugänglich.",
+            "hu": "Tartsa tiszteletben a magánéletet, mivel ez egy működő iskola. A külső területek gyakran látogathatók.",
+            "ro": "Respectați confidențialitatea, deoarece este o școală activă. Terenurile exterioare sunt adesea accesibile.",
+            "en": "Respect the privacy as it's an active school. The grounds are often accessible."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad für eine Tour durch die dänische Landschaft. Nach dem Start an der Herlufmagle Kirke radeln Sie zum Holmegaard Værk, einem Zentrum für Glaskunst, wo Sie faszinierende Handwerkskunst erleben. Nach einem Mittagessen in der Nähe geht es weiter entlang des malerischen Flusses Susåen, der perfekte Ort für eine entspannte Fahrt. Den Abschluss bildet ein Besuch der historischen Herlufsholm Skole, eines der ältesten Internate Dänemarks, dessen beeindruckende Architektur und Anlagen Sie vom Fahrrad aus bewundern können.",
+        "hu": "Pattanjon kerékpárra egy dán vidéki túrához. A Herlufmagle-templomtól indulva tekerjen el a Holmegaard Værk üvegművészeti központba, ahol lenyűgöző kézműves munkákat láthat. Egy közeli ebéd után folytassa útját a festői Susåen folyó mentén, amely tökéletes hely egy pihentető kerékpározáshoz. A napot a történelmi Herlufsholm Iskola meglátogatásával zárja, amely Dánia egyik legrégebbi bentlakásos iskolája, és amelynek lenyűgöző építészetét és területét a kerékpárról is megcsodálhatja.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur al peisajului rural danez. După ce porniți de la Biserica Herlufmagle, pedalați spre Holmegaard Værk, un centru de artă a sticlei unde veți experimenta meșteșuguri fascinante. După prânz în apropiere, continuați de-a lungul pitorescului râu Susåen, locul perfect pentru o plimbare relaxantă. Turul se încheie cu o vizită la istorica Școală Herlufsholm, unul dintre cele mai vechi internate din Danemarca, a cărei arhitectură și terenuri impresionante le puteți admira de pe bicicletă.",
+        "en": "Hop on your bike for a tour of the Danish countryside. After starting at Herlufmagle Church, you'll cycle to Holmegaard Værk, a center for glass art where you'll experience fascinating craftsmanship. After lunch nearby, continue along the picturesque Susåen River, the perfect spot for a relaxing ride. The day concludes with a visit to the historic Herlufsholm School, one of Denmark's oldest boarding schools, whose impressive architecture and grounds you can admire from your bike."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café bei Holmegaard Værk",
+            "tip": "Bietet saisonale Gerichte mit Zutaten aus der Region."
+          },
+          {
+            "name": "Rugbrød",
+            "tip": "Dänisches Roggenbrot, eine nahrhafte Grundlage für Ihre Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézó a Holmegaard Værknél",
+            "tip": "Szezonális ételeket kínál helyi alapanyagokból."
+          },
+          {
+            "name": "Rugbrød",
+            "tip": "Dán rozskenyér, tápláló alap a kerékpártúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafeneaua de la Holmegaard Værk",
+            "tip": "Oferă mâncăruri de sezon cu ingrediente locale."
+          },
+          {
+            "name": "Rugbrød",
+            "tip": "Pâine de secară daneză, o bază hrănitoare pentru turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café at Holmegaard Værk",
+            "tip": "Offers seasonal dishes with locally sourced ingredients."
+          },
+          {
+            "name": "Rugbrød",
+            "tip": "Danish rye bread, a nutritious base for your bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg an der Susåen",
+            "tip": "Genießen Sie die Stille, nur unterbrochen vom Plätschern des Wassers.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park von Herlufsholm",
+            "tip": "Ein ruhiger Ort, um die historische Atmosphäre auf sich wirken zu lassen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Susåen mentén",
+            "tip": "Élvezze a csendet, amelyet csak a víz csobogása tör meg.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Herlufsholm parkja",
+            "tip": "Csendes hely, ahol átadhatja magát a történelmi hangulatnak.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Susåen",
+            "tip": "Bucurați-vă de liniște, întreruptă doar de sunetul apei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Herlufsholm",
+            "tip": "Un loc liniștit pentru a absorbi atmosfera istorică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Susåen",
+            "tip": "Enjoy the silence, broken only by the lapping water.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Herlufsholm Park",
+            "tip": "A quiet place to soak in the historical atmosphere.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": [
+        {
+          "de": [
+            {
+              "name": "Holmegaard Værk Shop",
+              "tip": "Kaufen Sie einzigartige Glaswaren direkt vom Hersteller."
+            }
+          ],
+          "hu": [
+            {
+              "name": "Holmegaard Værk üzlet",
+              "tip": "Vásároljon egyedi üvegárut közvetlenül a gyártótól."
+            }
+          ],
+          "ro": [
+            {
+              "name": "Magazinul Holmegaard Værk",
+              "tip": "Cumpărați articole unice din sticlă direct de la producător."
+            }
+          ],
+          "en": [
+            {
+              "name": "Holmegaard Værk Shop",
+              "tip": "Buy unique glassware directly from the source."
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und seien Sie auf Landstraßen vorbereitet.",
+          "Ein Fahrradschloss ist für die längeren Stopps unerlässlich.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Prüfen Sie das Wetter und kleiden Sie sich in Schichten."
+        ],
+        "hu": [
+          "Viseljen sisakot, és készüljön fel a vidéki utakra.",
+          "A hosszabb megállókhoz elengedhetetlen a kerékpárzár.",
+          "Vigyen magával újratölthető vizes palackot.",
+          "Ellenőrizze az időjárást, és öltözzön rétegesen."
+        ],
+        "ro": [
+          "Purtați cască și fiți pregătiți pentru drumurile de țară.",
+          "O încuietoare pentru bicicletă este esențială pentru opririle mai lungi.",
+          "Luați o sticlă de apă reutilizabilă.",
+          "Verificați vremea și îmbrăcați-vă în straturi."
+        ],
+        "en": [
+          "Wear a helmet and be prepared for country roads.",
+          "A bike lock is essential for the longer stops.",
+          "Bring a reusable water bottle.",
+          "Check the weather and dress in layers."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 35,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 54.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Gavnø Slot",
+            "hu": "Gavnø kastély",
+            "ro": "Castelul Gavnø",
+            "en": "Gavnø Castle"
+          },
+          "coords": [
+            11.719,
+            55.185
+          ],
+          "category": "castles",
+          "arrive_at": "09:25",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12,
+          "tip_5lang": {
+            "de": "Der Schlosspark ist berühmt für seine riesige Tulpenausstellung im Frühling.",
+            "hu": "A kastélypark tavasszal a hatalmas tulipánkiállításáról híres.",
+            "ro": "Parcul castelului este renumit pentru expoziția sa uriașă de lalele primăvara.",
+            "en": "The castle park is famous for its huge tulip exhibition in spring."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Schlosspark",
+            "hu": "Séta a kastélyparkban",
+            "ro": "Plimbare în parcul castelului",
+            "en": "Walk in the Castle Park"
+          },
+          "coords": [
+            11.721,
+            55.186
+          ],
+          "category": "garden",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Baumhaus und den Abenteuerspielplatz.",
+            "hu": "Fedezze fel a lombházat és a kalandjátszóteret.",
+            "ro": "Descoperiți casa din copac și locul de joacă de aventură.",
+            "en": "Discover the treehouse and the adventure playground."
+          }
+        },
+        {
+          "name": {
+            "de": "Holmegaard Værk",
+            "hu": "Holmegaard Værk",
+            "ro": "Holmegaard Værk",
+            "en": "Holmegaard Værk"
+          },
+          "coords": [
+            11.77,
+            55.23
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9,
+          "tip_5lang": {
+            "de": "Buchen Sie einen Glasbläser-Workshop für ein interaktives Erlebnis.",
+            "hu": "Foglaljon üvegfúvó workshopot egy interaktív élményért.",
+            "ro": "Rezervați un atelier de suflare a sticlei pentru o experiență interactivă.",
+            "en": "Book a glass-blowing workshop for an interactive experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Museumscafé",
+            "hu": "Ebéd a Múzeumi Kávézóban",
+            "ro": "Prânz la Cafeneaua Muzeului",
+            "en": "Lunch at the Museum Café"
+          },
+          "coords": [
+            11.771,
+            55.231
+          ],
+          "category": "gastro",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Moderne nordische Küche in kreativem Ambiente.",
+            "hu": "Modern északi konyha kreatív környezetben.",
+            "ro": "Bucătărie nordică modernă într-un cadru creativ.",
+            "en": "Modern Nordic cuisine in a creative setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Gisselfeld Kloster",
+            "hu": "Gisselfeld kolostor",
+            "ro": "Mănăstirea Gisselfeld",
+            "en": "Gisselfeld Abbey"
+          },
+          "coords": [
+            11.97,
+            55.26
+          ],
+          "category": "castles",
+          "arrive_at": "16:15",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 18,
+          "tip_5lang": {
+            "de": "Der Park ist ein Paradebeispiel englischer Landschaftsgärtnerei.",
+            "hu": "A park az angol tájépítészet mintapéldája.",
+            "ro": "Parcul este un exemplu excelent de grădinărit peisagistic englezesc.",
+            "en": "The park is a prime example of English landscape gardening."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussicht vom Paradehuset",
+            "hu": "Kilátás a Paradehusetből",
+            "ro": "Vedere de la Paradehuset",
+            "en": "View from the Paradehuset"
+          },
+          "coords": [
+            11.972,
+            55.261
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:35",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein wunderschöner Ort, um das Licht des späten Nachmittags einzufangen.",
+            "hu": "Csodálatos hely a késő délutáni fények megörökítésére.",
+            "ro": "Un loc frumos pentru a surprinde lumina de după-amiază târzie.",
+            "en": "A beautiful spot to catch the late afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Galina",
+            "hu": "Villa Galina",
+            "ro": "Villa Galina",
+            "en": "Villa Galina"
+          },
+          "coords": [
+            11.96,
+            55.24
+          ],
+          "category": "famous residences",
+          "arrive_at": "18:20",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 15,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee mit Blick über den Wald.",
+            "hu": "Igyon egy kávét az erdőre néző kilátással.",
+            "ro": "Savurați o cafea cu vedere la pădure.",
+            "en": "Enjoy a coffee with a view over the forest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt am prächtigen Gavnø Slot, wo Sie den Vormittag damit verbringen, das Schloss und seine berühmten Gärten zu erkunden. Nach einem kurzen Spaziergang im Park fahren Sie weiter zum Holmegaard Værk. Dort tauchen Sie in die Welt der Glaskunst ein und genießen ein Mittagessen im Museumscafé. Am Nachmittag bringt Sie eine malerische Fahrt zum Gisselfeld Kloster, einem Anwesen mit einem atemberaubenden Landschaftspark. Ein kurzer Spaziergang zum Paradehuset bietet eine schöne Aussicht, bevor Sie den Tag in der Villa Galina bei einem Kaffee ausklingen lassen.",
+        "hu": "Autós túrája a csodálatos Gavnø kastélynál kezdődik, ahol a délelőttöt a kastély és híres kertjeinek felfedezésével tölti. Egy rövid séta után a parkban továbbutazik a Holmegaard Værk-be. Ott elmerülhet az üvegművészet világában, és ebédelhet a múzeumi kávézóban. Délután egy festői út vezet a Gisselfeld kolostorhoz, egy lenyűgöző tájképi parkkal rendelkező birtokhoz. Egy rövid séta a Paradehuset-hez gyönyörű kilátást nyújt, mielőtt a napot a Villa Galinában egy kávéval zárja.",
+        "ro": "Turul cu mașina începe la magnificul Castel Gavnø, unde veți petrece dimineața explorând castelul și faimoasele sale grădini. După o scurtă plimbare în parc, continuați spre Holmegaard Værk. Acolo, vă veți cufunda în lumea artei sticlei și veți savura prânzul la cafeneaua muzeului. După-amiaza, o plimbare pitorească cu mașina vă duce la Mănăstirea Gisselfeld, o proprietate cu un parc peisagistic uluitor. O scurtă plimbare până la Paradehuset oferă priveliști frumoase înainte de a încheia ziua cu o cafea la Villa Galina.",
+        "en": "Your car tour begins at the magnificent Gavnø Castle, where you'll spend the morning exploring the castle and its famous gardens. After a short walk in the park, you'll continue to Holmegaard Værk. There, you will immerse yourself in the world of glass art and enjoy lunch at the museum café. In the afternoon, a scenic drive takes you to Gisselfeld Abbey, an estate with a stunning landscape park. A short walk to the Paradehuset offers beautiful views before you end the day with a coffee at Villa Galina."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Gavnø Slot",
+            "tip": "Königliches Ambiente für ein besonderes Mittagessen."
+          },
+          {
+            "name": "Villa Galina",
+            "tip": "Bekannt für seine köstlichen Kuchen und die tolle Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Gavnø kastélyban",
+            "tip": "Királyi hangulat egy különleges ebédhez."
+          },
+          {
+            "name": "Villa Galina",
+            "tip": "Híres a finom süteményeiről és a nagyszerű kilátásról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la Castelul Gavnø",
+            "tip": "Ambianță regală pentru un prânz special."
+          },
+          {
+            "name": "Villa Galina",
+            "tip": "Renumită pentru prăjiturile delicioase și priveliștea minunată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at Gavnø Castle",
+            "tip": "Royal ambiance for a special lunch."
+          },
+          {
+            "name": "Villa Galina",
+            "tip": "Known for its delicious cakes and great views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gisselfeld Klosterpark",
+            "tip": "Verlieren Sie sich in der Weite des englischen Landschaftsgartens.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Die Seen im Schlosspark Gavnø",
+            "tip": "Ein friedlicher Ort, um Enten zu beobachten und die Seele baumeln zu lassen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gisselfeld kolostorpark",
+            "tip": "Vesszen el az angol tájkert tágasságában.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A tavak a Gavnø kastélyparkban",
+            "tip": "Békés hely a kacsák megfigyelésére és a kikapcsolódásra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Mănăstirii Gisselfeld",
+            "tip": "Pierdeți-vă în vastitatea grădinii peisagistice englezești.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Lacurile din Parcul Castelului Gavnø",
+            "tip": "Un loc pașnic pentru a privi rațele și a vă relaxa.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gisselfeld Abbey Park",
+            "tip": "Get lost in the vastness of the English landscape garden.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The lakes in Gavnø Castle Park",
+            "tip": "A peaceful place to watch ducks and unwind.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": [
+        {
+          "de": [
+            {
+              "name": "Gavnø Slot Souvenirladen",
+              "tip": "Bietet eine Auswahl an königlichen Andenken und Gartenartikeln."
+            },
+            {
+              "name": "Gisselfeld Klosterladen",
+              "tip": "Finden Sie lokale Delikatessen und handgefertigte Produkte."
+            }
+          ],
+          "hu": [
+            {
+              "name": "Gavnø kastély ajándékbolt",
+              "tip": "Válogatás királyi ajándéktárgyakból és kerti cikkekből."
+            },
+            {
+              "name": "Gisselfeld kolostorbolt",
+              "tip": "Találjon helyi finomságokat és kézzel készített termékeket."
+            }
+          ],
+          "ro": [
+            {
+              "name": "Magazinul de suveniruri al Castelului Gavnø",
+              "tip": "Oferă o selecție de suveniruri regale și articole de grădinărit."
+            },
+            {
+              "name": "Magazinul Mănăstirii Gisselfeld",
+              "tip": "Găsiți delicatese locale și produse artizanale."
+            }
+          ],
+          "en": [
+            {
+              "name": "Gavnø Castle Gift Shop",
+              "tip": "Offers a selection of royal souvenirs and garden items."
+            },
+            {
+              "name": "Gisselfeld Abbey Shop",
+              "tip": "Find local delicacies and handmade products."
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten und Ticketpreise für die Schlösser online.",
+          "Parkgebühren können anfallen.",
+          "Planen Sie zusätzliche Zeit für den Verkehr auf Landstraßen ein.",
+          "Das Auto gibt Ihnen die Flexibilität, auch kleinere, abgelegene Orte zu entdecken."
+        ],
+        "hu": [
+          "Ellenőrizze online a kastélyok nyitvatartási idejét és jegyárait.",
+          "Parkolási díjak merülhetnek fel.",
+          "Számítson plusz időt a vidéki utakon a forgalom miatt.",
+          "Az autó rugalmasságot ad, hogy felfedezzen kisebb, távoli helyeket is."
+        ],
+        "ro": [
+          "Verificați online orele de deschidere și prețurile biletelor pentru castele.",
+          "Se pot aplica taxe de parcare.",
+          "Planificați timp suplimentar pentru traficul de pe drumurile de țară.",
+          "Mașina vă oferă flexibilitatea de a explora și locuri mai mici, îndepărtate."
+        ],
+        "en": [
+          "Check opening hours and ticket prices for the castles online.",
+          "Parking fees may apply.",
+          "Plan for extra time for traffic on country roads.",
+          "The car gives you the flexibility to also discover smaller, remote places."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 25.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Herlufmagle Kirke",
+            "hu": "Herlufmagle-templom",
+            "ro": "Biserica Herlufmagle",
+            "en": "Herlufmagle Church"
+          },
+          "coords": [
+            11.7215,
+            55.281
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, in der Nähe der zentralen Bushaltestelle.",
+            "hu": "Kezdje itt, a központi buszmegálló közelében.",
+            "ro": "Începeți de aici, aproape de stația centrală de autobuz.",
+            "en": "Start here, near the central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Holmegaard Værk",
+            "hu": "Holmegaard Værk",
+            "ro": "Holmegaard Værk",
+            "en": "Holmegaard Værk"
+          },
+          "coords": [
+            11.77,
+            55.23
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle befindet sich direkt vor dem Eingang.",
+            "hu": "A buszmegálló közvetlenül a bejárat előtt található.",
+            "ro": "Stația de autobuz este chiar în fața intrării.",
+            "en": "The bus stop is right outside the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe",
+            "hu": "Ebéd a közelben",
+            "ro": "Prânz în apropiere",
+            "en": "Lunch nearby"
+          },
+          "coords": [
+            11.771,
+            55.231
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen, bevor Sie den nächsten Bus nehmen.",
+            "hu": "Ebédeljen egyet, mielőtt felszáll a következő buszra.",
+            "ro": "Luați prânzul înainte de a lua următorul autobuz.",
+            "en": "Have lunch before catching the next bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Herlufsholm Skole",
+            "hu": "Herlufsholm Iskola",
+            "ro": "Școala Herlufsholm",
+            "en": "Herlufsholm School"
+          },
+          "coords": [
+            11.71,
+            55.22
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 8.8,
+          "tip_5lang": {
+            "de": "Von der Haltestelle ist es ein kurzer Spaziergang durch eine Allee.",
+            "hu": "A megállótól egy rövid séta vezet egy fasoron keresztül.",
+            "ro": "De la stație este o scurtă plimbare printr-o alee cu copaci.",
+            "en": "It's a short walk from the bus stop through an avenue of trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Susåen in Næstved",
+            "hu": "Séta a Susåen mentén Næstvedben",
+            "ro": "Plimbare de-a lungul Susåen în Næstved",
+            "en": "Walk along Susåen in Næstved"
+          },
+          "coords": [
+            11.75,
+            55.225
+          ],
+          "category": "natural features",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10,
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages am Wasser.",
+            "hu": "Pihentető befejezése a napnak a vízparton.",
+            "ro": "O încheiere relaxantă a zilei pe malul apei.",
+            "en": "A relaxing end to the day by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Busse, um die Region zu erkunden. Nach dem Start an der Kirche in Herlufmagle bringt Sie ein Bus direkt zum Holmegaard Værk. Verbringen Sie den Vormittag mit der Erkundung des Glasmuseums und genießen Sie ein Mittagessen, bevor Sie weiterfahren. Die nächste Fahrt führt Sie zur prestigeträchtigen Herlufsholm Skole. Ein kurzer Spaziergang führt Sie über das Gelände. Schließlich bringt Sie ein Bus in die Nähe des Flusses Susåen in der größeren Stadt Næstved, wo Sie den Tag mit einem friedlichen Spaziergang am Wasser ausklingen lassen können.",
+        "hu": "Használja a helyi buszokat a régió felfedezéséhez. A herlufmagle-i templomtól indulva egy busz közvetlenül a Holmegaard Værk-hez visz. Töltse a délelőttöt az üvegmúzeum felfedezésével és ebédeljen, mielőtt továbbindul. A következő út a tekintélyes Herlufsholm Iskolához vezet. Egy rövid séta vezet a területen keresztül. Végül egy busz a Susåen folyó közelébe visz Næstved nagyobb városában, ahol a napot egy békés vízparti sétával zárhatja.",
+        "ro": "Folosiți autobuzele locale pentru a explora regiunea. După ce porniți de la biserica din Herlufmagle, un autobuz vă duce direct la Holmegaard Værk. Petreceți dimineața explorând muzeul sticlei și savurați prânzul înainte de a merge mai departe. Următoarea călătorie vă duce la prestigioasa Școală Herlufsholm. O scurtă plimbare vă va purta prin incintă. În cele din urmă, un autobuz vă va duce în apropierea râului Susåen în orașul mai mare Næstved, unde puteți încheia ziua cu o plimbare liniștită pe malul apei.",
+        "en": "Use the local buses to explore the region. After starting at the church in Herlufmagle, a bus will take you directly to Holmegaard Værk. Spend the morning exploring the glass museum and enjoy lunch before moving on. The next ride takes you to the prestigious Herlufsholm School. A short walk will take you across the grounds. Finally, a bus will take you near the Susåen river in the larger town of Næstved, where you can end the day with a peaceful walk by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei in Herlufmagle",
+            "tip": "Holen Sie sich ein dänisches Gebäck (wienerbrød) für die Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség Herlufmagle-ban",
+            "tip": "Vegyen egy dán péksüteményt (wienerbrød) a buszútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie în Herlufmagle",
+            "tip": "Luați un produs de patiserie danez (wienerbrød) pentru călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in Herlufmagle",
+            "tip": "Grab a Danish pastry (wienerbrød) for the bus ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Herlufsholm Park",
+            "tip": "Finden Sie eine ruhige Ecke, um die historische Architektur zu bewundern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Flussuferweg in Næstved",
+            "tip": "Ein friedlicher Ort, um dem Trubel zu entfliehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herlufsholm park",
+            "tip": "Keressen egy csendes sarkot a történelmi építészet megcsodálásához.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Folyóparti sétány Næstvedben",
+            "tip": "Békés hely a nyüzsgés elől való meneküléshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Herlufsholm",
+            "tip": "Găsiți un colț liniștit pentru a admira arhitectura istorică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aleea de pe malul râului în Næstved",
+            "tip": "Un loc pașnic pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Herlufsholm Park",
+            "tip": "Find a quiet corner to admire the historic architecture.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Riverbank path in Næstved",
+            "tip": "A peaceful place to escape the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": [],
+      "tips": {
+        "de": [
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne und Tickets zu erhalten.",
+          "Planen Sie Wartezeiten zwischen den Bussen ein, besonders am Wochenende.",
+          "Eine Tageskarte ist oft günstiger als Einzeltickets.",
+          "Achten Sie auf die letzte Busverbindung zurück nach Herlufmagle."
+        ],
+        "hu": [
+          "Töltse le a helyi tömegközlekedési alkalmazást a menetrendekért és jegyekért.",
+          "Számoljon a várakozási időkkel a buszok között, különösen hétvégén.",
+          "A napijegy gyakran olcsóbb, mint az egyedi jegyek.",
+          "Figyeljen az utolsó buszjáratra vissza Herlufmagle-ba."
+        ],
+        "ro": [
+          "Descărcați aplicația locală de transport public pentru orare și bilete.",
+          "Planificați timpii de așteptare între autobuze, mai ales în weekend.",
+          "Un bilet de o zi este adesea mai ieftin decât biletele individuale.",
+          "Fiți atenți la ultima legătură de autobuz înapoi spre Herlufmagle."
+        ],
+        "en": [
+          "Download the local public transport app for schedules and tickets.",
+          "Plan for waiting times between buses, especially on weekends.",
+          "A day pass is often cheaper than single tickets.",
+          "Be mindful of the last bus connection back to Herlufmagle."
+        ]
+      }
+    }
+  }
+}

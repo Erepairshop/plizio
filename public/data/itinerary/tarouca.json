@@ -1,0 +1,1412 @@
+{
+  "city_id": "tarouca",
+  "anchor": {
+    "name": "Tarouca",
+    "coords": [
+      -7.7833,
+      41.0333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 2.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche von Tarouca",
+            "hu": "Tarouca főtemploma",
+            "ro": "Biserica Parohială din Tarouca",
+            "en": "Mother Church of Tarouca"
+          },
+          "coords": [
+            -7.7831,
+            41.0335
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die romanischen Elemente an der Fassade.",
+            "hu": "Figyelje meg a román stílusjegyeket a homlokzaton.",
+            "ro": "Observați elementele romanice de pe fațadă.",
+            "en": "Notice the Romanesque elements on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle des Heiligen Petrus von Tarouca",
+            "hu": "Taroucai Szent Péter-kápolna",
+            "ro": "Capela Sfântul Petru din Tarouca",
+            "en": "Chapel of Saint Peter of Tarouca"
+          },
+          "coords": [
+            -7.7825,
+            41.0351
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:59",
+          "stay_min": 30,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für eine kurze Pause.",
+            "hu": "Csendes hely egy rövid pihenőre.",
+            "ro": "Un loc liniștit pentru o scurtă pauză.",
+            "en": "A quiet place for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer von Tarouca",
+            "hu": "Tarouca városfala",
+            "ro": "Zidurile din Tarouca",
+            "en": "Wall of Tarouca"
+          },
+          "coords": [
+            -7.785,
+            41.032
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach den am besten erhaltenen Abschnitten der alten Mauer.",
+            "hu": "Keresse meg a régi fal legjobb állapotban megmaradt szakaszait.",
+            "ro": "Căutați cele mai bine conservate secțiuni ale vechiului zid.",
+            "en": "Look for the best-preserved sections of the ancient wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster des Heiligen Johannes von Tarouca",
+            "hu": "Taroucai Szent János-kolostor",
+            "ro": "Mănăstirea Sfântul Ioan din Tarouca",
+            "en": "Monastery of Saint John of Tarouca"
+          },
+          "coords": [
+            -7.7845,
+            41.0315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eines der ersten Zisterzienserklöster in Portugal.",
+            "hu": "Portugália egyik első ciszterci kolostora.",
+            "ro": "Una dintre primele mănăstiri cisterciene din Portugalia.",
+            "en": "One of the first Cistercian monasteries in Portugal."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Santa Helena",
+            "hu": "Santa Helena kilátó",
+            "ro": "Punct de vedere Santa Helena",
+            "en": "Santa Helena Viewpoint"
+          },
+          "coords": [
+            -7.79,
+            41.04
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bester Panoramablick über das Tal. Perfekt für Fotos.",
+            "hu": "A legjobb panoráma a völgyre. Tökéletes fotózáshoz.",
+            "ro": "Cea mai bună vedere panoramică asupra văii. Perfect pentru fotografii.",
+            "en": "Best panoramic view over the valley. Perfect for photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Tarouca und erkunden Sie die historischen Kirchen zu Fuß. Am Vormittag entdecken Sie die Überreste der alten Stadtmauern und das bedeutende Kloster São João. Nach einem gemütlichen Mittagessen mit lokalen Spezialitäten führt Sie ein kurzer Spaziergang zum Aussichtspunkt Santa Helena. Von dort genießen Sie eine atemberaubende Aussicht, bevor Sie den Abend in einem der charmanten Cafés ausklingen lassen.",
+        "hu": "Kezdje a napot Tarouca szívében, a történelmi templomok gyalogos felfedezésével. Délelőtt fedezze fel a régi városfal maradványait és a fontos São João kolostort. Egy helyi specialitásokból álló, kényelmes ebéd után egy rövid séta vezet a Santa Helena kilátóhoz. Élvezze a lélegzetelállító kilátást, mielőtt az estét egy hangulatos kávézóban zárná.",
+        "ro": "Începeți ziua în inima orașului Tarouca, explorând bisericile istorice la pas. Dimineața, descoperiți rămășițele vechilor ziduri ale orașului și importanta Mănăstire São João. După un prânz relaxant cu specialități locale, o scurtă plimbare vă va duce la punctul de vedere Santa Helena. Bucurați-vă de priveliștea uluitoare înainte de a încheia seara într-una dintre cafenelele fermecătoare.",
+        "en": "Start your day in the heart of Tarouca, exploring the historic churches on foot. In the morning, discover the remains of the old city walls and the important São João Monastery. After a leisurely lunch with local specialties, a short walk will take you to the Santa Helena viewpoint. Enjoy the breathtaking view before ending the evening in one of the charming cafes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bôla de Lamego",
+            "tip": "Ein herzhaftes Brot, gefüllt mit geräuchertem Fleisch, ein Muss in der Region."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Probieren Sie den lokalen leichten und spritzigen Weißwein."
+          },
+          {
+            "name": "Pastel de Toucinho",
+            "tip": "Ein süßes Gebäck, das traditionell in den Klöstern hergestellt wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bôla de Lamego",
+            "tip": "Sós sütemény füstölt hússal töltve, a régió kötelező étele."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Kóstolja meg a helyi könnyű és frissítő fehérbort."
+          },
+          {
+            "name": "Pastel de Toucinho",
+            "tip": "Édes sütemény, amelyet hagyományosan a kolostorokban készítenek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bôla de Lamego",
+            "tip": "O pâine savuroasă umplută cu carne afumată, o specialitate a regiunii."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Încercați vinul alb local, ușor și proaspăt."
+          },
+          {
+            "name": "Pastel de Toucinho",
+            "tip": "O prăjitură dulce preparată tradițional în mănăstiri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bôla de Lamego",
+            "tip": "A savory bread filled with smoked meats, a must-try in the region."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Taste the local light and crisp white wine."
+          },
+          {
+            "name": "Pastel de Toucinho",
+            "tip": "A sweet pastry traditionally made in the convents."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergärten von São João",
+            "tip": "Ein friedlicher Ort zum Nachdenken inmitten alter Steinmauern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt Santa Helena",
+            "tip": "Perfekt, um den Sonnenuntergang über dem Tal zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Varosa-Flusses",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "São João kolostorkertjei",
+            "tip": "Békés hely az elmélkedésre az ősi kőfalak között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Santa Helena kilátó",
+            "tip": "Tökéletes hely a naplemente megtekintéséhez a völgy felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Varosa folyó partja",
+            "tip": "Csendes séta a folyó mentén, távol a tömegtől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Mănăstirii São João",
+            "tip": "Un loc pașnic pentru reflecție printre ziduri vechi de piatră.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de vedere Santa Helena",
+            "tip": "Perfect pentru a privi apusul peste vale.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile râului Varosa",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de mulțime.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of São João Monastery",
+            "tip": "A peaceful spot for reflection amidst ancient stone walls.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Santa Helena Viewpoint",
+            "tip": "Perfect for watching the sunset over the valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Varosa River",
+            "tip": "A quiet walk along the river, away from the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, Käse und traditionelles Brot."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Finden Sie handgemachte Keramik und Textilien aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, sajtot és hagyományos kenyeret."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Találjon kézzel készített kerámiákat és textíliákat a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, brânzeturi și pâine tradițională."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Găsiți ceramică și textile lucrate manual din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce, cheese, and traditional bread."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Find handmade ceramics and textiles from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen Kopfsteinpflaster haben.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben.",
+          "Die meisten Sehenswürdigkeiten befinden sich in unmittelbarer Nähe zueinander.",
+          "Planen Sie am Nachmittag eine Pause in einem Café ein, um die lokale Atmosphäre zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az utcák macskakövesek.",
+          "Hozzon magával újratölthető vizes palackot, hogy hidratált maradjon.",
+          "A legtöbb látnivaló sétatávolságra van egymástól.",
+          "Délután tervezzen be egy szünetet egy kávézóban, hogy élvezze a helyi hangulatot."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile sunt pietruite.",
+          "Luați o sticlă de apă reutilizabilă pentru a vă menține hidratat.",
+          "Majoritatea atracțiilor sunt la mică distanță de mers pe jos una de cealaltă.",
+          "Planificați o pauză la o cafenea după-amiaza pentru a vă bucura de atmosfera locală."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets are cobblestoned.",
+          "Bring a reusable water bottle to stay hydrated.",
+          "Most sights are within easy walking distance of each other.",
+          "Plan for a cafe break in the afternoon to soak in the local atmosphere."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster des Heiligen Johannes von Tarouca",
+            "hu": "Taroucai Szent János-kolostor",
+            "ro": "Mănăstirea Sfântul Ioan din Tarouca",
+            "en": "Monastery of Saint John of Tarouca"
+          },
+          "coords": [
+            -7.7845,
+            41.0315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das weitläufige Gelände erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a tágas területet.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora terenul vast.",
+            "en": "Lock your bike securely before exploring the vast grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Tarouca",
+            "hu": "Tarouca főtemploma",
+            "ro": "Biserica Parohială din Tarouca",
+            "en": "Mother Church of Tarouca"
+          },
+          "coords": [
+            -7.7831,
+            41.0335
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die Architektur im Stadtzentrum zu bewundern.",
+            "hu": "Egy gyors megálló, hogy megcsodálja az építészetet a városközpontban.",
+            "ro": "O oprire scurtă pentru a admira arhitectura din centrul orașului.",
+            "en": "A quick stop to admire the architecture in the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Santa Helena",
+            "hu": "Santa Helena kilátó",
+            "ro": "Punct de vedere Santa Helena",
+            "en": "Santa Helena Viewpoint"
+          },
+          "coords": [
+            -7.79,
+            41.04
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die Aussicht. Bereiten Sie sich auf einen Hügel vor.",
+            "hu": "A kilátás megéri a mászást. Készüljön fel egy emelkedőre.",
+            "ro": "Urcușul merită pentru priveliște. Pregătiți-vă pentru un deal.",
+            "en": "The climb is worth it for the view. Be prepared for a hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke von Ucanha",
+            "hu": "Ucanhai híd",
+            "ro": "Podul din Ucanha",
+            "en": "Ucanha Bridge"
+          },
+          "coords": [
+            -7.75,
+            40.995
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine malerische Fahrt zum mittelalterlichen Dorf Ucanha.",
+            "hu": "Festői út Ucanha középkori falujába.",
+            "ro": "O plimbare pitorească spre satul medieval Ucanha.",
+            "en": "A scenic ride to the medieval village of Ucanha."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm von Ucanha",
+            "hu": "Ucanha-torony",
+            "ro": "Turnul din Ucanha",
+            "en": "Tower of Ucanha"
+          },
+          "coords": [
+            -7.7495,
+            40.9955
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm für eine andere Perspektive auf die Brücke.",
+            "hu": "Másszon fel a toronyba, hogy más szögből is lássa a hidat.",
+            "ro": "Urcați în turn pentru o perspectivă diferită asupra podului.",
+            "en": "Climb the tower for a different perspective of the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster von Salzedas",
+            "hu": "Salzedasi kolostor",
+            "ro": "Mănăstirea din Salzedas",
+            "en": "Convent of Salzedas"
+          },
+          "coords": [
+            -7.715,
+            41.07
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 5.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein weiteres beeindruckendes Zisterzienserkloster in der Nähe.",
+            "hu": "Egy másik lenyűgöző ciszterci kolostor a közelben.",
+            "ro": "O altă mănăstire cisterciană impresionantă în apropiere.",
+            "en": "Another impressive Cistercian monastery nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad für einen Tag voller Entdeckungen. Beginnen Sie mit dem historischen Kloster São João, bevor Sie ins Zentrum von Tarouca radeln. Am Vormittag erwartet Sie eine Herausforderung mit dem Anstieg zum Aussichtspunkt Santa Helena, die mit einer fantastischen Aussicht belohnt wird. Nach dem Mittagessen führt Sie eine landschaftlich reizvolle Strecke zu den mittelalterlichen Schätzen von Ucanha und dem beeindruckenden Kloster von Salzedas, wo Sie in die Geschichte der Region eintauchen.",
+        "hu": "Pattanjon kerékpárra egy felfedezéssel teli naphoz. Kezdje a történelmi São João kolostorral, mielőtt Tarouca központjába tekerne. Délelőtt kihívás várja a Santa Helena kilátóhoz vezető emelkedőn, amelyet fantasztikus kilátás jutalmaz. Ebéd után egy festői útvonal vezet Ucanha középkori kincseihez és a lenyűgöző Salzedas kolostorhoz, ahol elmerülhet a régió történelmében.",
+        "ro": "Urcați-vă pe bicicletă pentru o zi plină de explorări. Începeți cu istorica Mănăstire São João înainte de a pedala spre centrul orașului Tarouca. Dimineața, vă așteaptă o provocare cu urcarea la punctul de vedere Santa Helena, recompensată cu o priveliște fantastică. După prânz, un traseu pitoresc vă va duce la comorile medievale din Ucanha și la impresionanta Mănăstire din Salzedas, unde vă veți cufunda în istoria regiunii.",
+        "en": "Hop on your bike for a day of discovery. Start with the historic São João Monastery before cycling to the center of Tarouca. In the morning, a challenge awaits with the climb to the Santa Helena viewpoint, which is rewarded with a fantastic view. After lunch, a scenic route will take you to the medieval treasures of Ucanha and the impressive Convent of Salzedas, where you can immerse yourself in the region's history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bôla de Lamego",
+            "tip": "Der perfekte, energiereiche Snack für eine lange Radtour."
+          },
+          {
+            "name": "Lokaler Käse und Brot",
+            "tip": "Ideal für ein Picknick an einem der malerischen Orte."
+          },
+          {
+            "name": "Frisches Obst",
+            "tip": "Kaufen Sie saisonales Obst auf einem lokalen Markt als Erfrischung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bôla de Lamego",
+            "tip": "Tökéletes, energiadús snack egy hosszú kerékpártúrához."
+          },
+          {
+            "name": "Helyi sajt és kenyér",
+            "tip": "Ideális egy piknikhez az egyik festői helyen."
+          },
+          {
+            "name": "Friss gyümölcs",
+            "tip": "Vásároljon szezonális gyümölcsöt a helyi piacon frissítőként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bôla de Lamego",
+            "tip": "Gustarea perfectă, plină de energie, pentru o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Brânză și pâine locală",
+            "tip": "Ideal pentru un picnic într-unul dintre locurile pitorești."
+          },
+          {
+            "name": "Fructe proaspete",
+            "tip": "Cumpărați fructe de sezon de la o piață locală pentru a vă reîmprospăta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bôla de Lamego",
+            "tip": "The perfect high-energy snack for a long bike ride."
+          },
+          {
+            "name": "Local cheese and bread",
+            "tip": "Ideal for a picnic at one of the scenic spots."
+          },
+          {
+            "name": "Fresh fruit",
+            "tip": "Buy seasonal fruit from a local market for refreshment."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang des Varosa",
+            "tip": "Folgen Sie dem Fluss für eine ruhige und flache Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Klosters Salzedas",
+            "tip": "Ein Moment der Stille in einer grandiosen Umgebung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hügel um Tarouca",
+            "tip": "Halten Sie an und genießen Sie die Stille und die Aussicht auf die Weinberge.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Varosa mentén",
+            "tip": "Kövesse a folyót egy csendes és sík útvonalon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Salzedasi kolostor kertjei",
+            "tip": "A csend pillanata egy grandiózus környezetben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tarouca körüli dombok",
+            "tip": "Álljon meg és élvezze a csendet és a szőlőültetvények látványát.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Varosa",
+            "tip": "Urmați râul pentru o plimbare liniștită și plată.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Mănăstirii Salzedas",
+            "tip": "Un moment de liniște într-un cadru grandios.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dealurile din jurul Tarouca",
+            "tip": "Opriți-vă și bucurați-vă de liniște și de priveliștea viilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Varosa River",
+            "tip": "Follow the river for a quiet and flat ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Salzedas Convent",
+            "tip": "A moment of silence in a grandiose setting.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hills around Tarouca",
+            "tip": "Stop to enjoy the silence and the view of the vineyards.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingüter",
+            "tip": "Kaufen Sie eine Flasche des berühmten Weins der Region direkt vom Erzeuger."
+          },
+          {
+            "name": "Klosterläden",
+            "tip": "Einige Klöster verkaufen hausgemachte Marmeladen, Liköre und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borászatok",
+            "tip": "Vásároljon egy üveg híres bort a régióból közvetlenül a termelőtől."
+          },
+          {
+            "name": "Kolostorboltok",
+            "tip": "Néhány kolostor házi lekvárokat, likőröket és kézműves termékeket árul."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame",
+            "tip": "Cumpărați o sticlă de vin renumit din regiune direct de la producător."
+          },
+          {
+            "name": "Magazinele mănăstirilor",
+            "tip": "Unele mănăstiri vând gemuri de casă, lichioruri și obiecte de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wineries",
+            "tip": "Buy a bottle of the region's famous wine directly from the producer."
+          },
+          {
+            "name": "Monastery Shops",
+            "tip": "Some monasteries sell homemade jams, liqueurs, and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Die Region ist hügelig; seien Sie auf einige Anstiege vorbereitet.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie ein kleines Reparaturset für den Fall einer Reifenpanne mit."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "A régió dombos; készüljön fel néhány emelkedőre.",
+          "Sisak használata erősen ajánlott.",
+          "Vigyen magával egy kis javítókészletet defekt esetére."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Regiunea este deluroasă; fiți pregătit pentru câteva urcări.",
+          "Se recomandă insistent purtarea căștii.",
+          "Luați un mic kit de reparații în caz de pană."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "The region is hilly; be prepared for some climbs.",
+          "A helmet is strongly recommended.",
+          "Carry a small repair kit in case of a flat tire."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 20.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster von Salzedas",
+            "hu": "Salzedasi kolostor",
+            "ro": "Mănăstirea din Salzedas",
+            "en": "Convent of Salzedas"
+          },
+          "coords": [
+            -7.715,
+            41.07
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie am entferntesten Punkt. Es gibt normalerweise gute Parkmöglichkeiten am Morgen.",
+            "hu": "Kezdje a legtávolabbi ponton. Reggel általában jó parkolási lehetőségek vannak.",
+            "ro": "Începeți cu cel mai îndepărtat punct. De obicei, există parcare bună dimineața.",
+            "en": "Start at the furthest point. There's usually good parking in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Santa Helena",
+            "hu": "Santa Helena kilátó",
+            "ro": "Punct de vedere Santa Helena",
+            "en": "Santa Helena Viewpoint"
+          },
+          "coords": [
+            -7.79,
+            41.04
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "10:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt für einen atemberaubenden Blick über das Tal von Tarouca.",
+            "hu": "Rövid autóút a Tarouca-völgyre nyíló lélegzetelállító kilátásért.",
+            "ro": "O scurtă călătorie cu mașina pentru o priveliște uluitoare asupra văii Tarouca.",
+            "en": "A short drive for a stunning view over the Tarouca valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke von Ucanha",
+            "hu": "Ucanhai híd",
+            "ro": "Podul din Ucanha",
+            "en": "Ucanha Bridge"
+          },
+          "coords": [
+            -7.75,
+            40.995
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und gehen Sie zu Fuß über die historische Brücke. Dies ist Ihr erster Stopp in diesem Cluster.",
+            "hu": "Parkoljon a közelben, és sétáljon át a történelmi hídon. Ez az első megálló ebben a klaszterben.",
+            "ro": "Parcați în apropiere și traversați pe jos podul istoric. Aceasta este prima oprire din acest grup.",
+            "en": "Park nearby and walk across the historic bridge. This is your first stop in this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm von Ucanha",
+            "hu": "Ucanha-torony",
+            "ro": "Turnul din Ucanha",
+            "en": "Tower of Ucanha"
+          },
+          "coords": [
+            -7.7495,
+            40.9955
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Brücke. Erkunden Sie den Turm und die Umgebung zu Fuß.",
+            "hu": "Rövid séta a hídtól. Fedezze fel a tornyot és környékét gyalog.",
+            "ro": "La o scurtă plimbare de pod. Explorați turnul și zona înconjurătoare pe jos.",
+            "en": "A short walk from the bridge. Explore the tower and the surrounding area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster des Heiligen Johannes von Tarouca",
+            "hu": "Taroucai Szent János-kolostor",
+            "ro": "Mănăstirea Sfântul Ioan din Tarouca",
+            "en": "Monastery of Saint John of Tarouca"
+          },
+          "coords": [
+            -7.7845,
+            41.0315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zurück nach Tarouca. Parken Sie hier für den Rest des Tages.",
+            "hu": "Vissza Taroucába. Parkoljon itt a nap hátralévő részére.",
+            "ro": "Înapoi în Tarouca. Parcați aici pentru restul zilei.",
+            "en": "Back to Tarouca. Park here for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Mauer von Tarouca",
+            "hu": "Tarouca fala",
+            "ro": "Zidul din Tarouca",
+            "en": "Wall of Tarouca"
+          },
+          "coords": [
+            -7.785,
+            41.032
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Kloster zu den Überresten der alten Befestigungsanlagen.",
+            "hu": "Sétáljon a kolostortól a régi erődítmények maradványaihoz.",
+            "ro": "Plimbați-vă de la mănăstire la rămășițele vechilor fortificații.",
+            "en": "Stroll from the monastery to the remains of the old fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Tarouca",
+            "hu": "Tarouca főtemploma",
+            "ro": "Biserica Parohială din Tarouca",
+            "en": "Mother Church of Tarouca"
+          },
+          "coords": [
+            -7.7831,
+            41.0335
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt auf Ihrem Stadtrundgang, bevor Sie zum Auto zurückkehren.",
+            "hu": "Az utolsó megálló a városnéző sétán, mielőtt visszatérne az autóhoz.",
+            "ro": "Ultima oprire din turul dumneavoastră pietonal înainte de a vă întoarce la mașină.",
+            "en": "The final stop on your walking tour before heading back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um die Juwelen der Region zu entdecken. Beginnen Sie Ihren Tag mit dem majestätischen Kloster von Salzedas. Fahren Sie dann zum Aussichtspunkt Santa Helena für eine Panoramaaussicht. Am späten Vormittag erkunden Sie das mittelalterliche Cluster von Ucanha, wo Sie zwischen der Brücke und dem Turm spazieren. Nach dem Mittagessen parken Sie in Tarouca und entdecken das historische Zentrum zu Fuß, einschließlich des Klosters São João und der alten Stadtmauern, um den Tag entspannt ausklingen zu lassen.",
+        "hu": "Használja ki az autó rugalmasságát, hogy felfedezze a régió gyöngyszemeit. Kezdje a napot a fenséges Salzedas kolostorral. Ezután hajtson a Santa Helena kilátóhoz a panorámáért. Késő délelőtt fedezze fel Ucanha középkori klaszterét, ahol sétáljon a híd és a torony között. Ebéd után parkoljon le Taroucában, és fedezze fel a történelmi központot gyalog, beleértve a São João kolostort és a régi városfalakat, hogy lazán zárja a napot.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a descoperi bijuteriile regiunii. Începeți ziua cu majestuoasa Mănăstire din Salzedas. Apoi, conduceți la punctul de vedere Santa Helena pentru o priveliște panoramică. Spre sfârșitul dimineții, explorați grupul medieval din Ucanha, plimbându-vă între pod și turn. După prânz, parcați în Tarouca și explorați centrul istoric pe jos, inclusiv Mănăstirea São João și vechile ziduri, pentru a încheia ziua într-un mod relaxat.",
+        "en": "Use the flexibility of the car to discover the region's gems. Start your day with the majestic Convent of Salzedas. Then drive to the Santa Helena viewpoint for a panoramic view. In the late morning, explore the medieval cluster of Ucanha, walking between the bridge and the tower. After lunch, park in Tarouca and discover the historic center on foot, including the São João Monastery and the old walls, to end the day in a relaxed way."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant in Ucanha",
+            "tip": "Genießen Sie ein Mittagessen mit Blick auf die mittelalterliche Brücke."
+          },
+          {
+            "name": "Cabrito Assado",
+            "tip": "Gebratenes Zicklein, eine lokale Spezialität, die oft in ländlichen Restaurants angeboten wird."
+          },
+          {
+            "name": "Doces Conventuais",
+            "tip": "Süßigkeiten, die nach alten Klosterrezepten hergestellt werden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem Ucanhában",
+            "tip": "Ebédeljen a középkori hídra néző kilátással."
+          },
+          {
+            "name": "Cabrito Assado",
+            "tip": "Sült kecskegida, egy helyi specialitás, amelyet gyakran kínálnak a vidéki éttermekben."
+          },
+          {
+            "name": "Doces Conventuais",
+            "tip": "Régi kolostori receptek alapján készült édességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în Ucanha",
+            "tip": "Bucurați-vă de un prânz cu vedere la podul medieval."
+          },
+          {
+            "name": "Cabrito Assado",
+            "tip": "Ied la cuptor, o specialitate locală adesea servită în restaurantele rurale."
+          },
+          {
+            "name": "Doces Conventuais",
+            "tip": "Dulciuri făcute după rețete vechi de mănăstire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant in Ucanha",
+            "tip": "Enjoy lunch with a view of the medieval bridge."
+          },
+          {
+            "name": "Cabrito Assado",
+            "tip": "Roasted kid goat, a local specialty often found in rural restaurants."
+          },
+          {
+            "name": "Doces Conventuais",
+            "tip": "Sweets made from ancient monastic recipes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Landschaftsfahrt",
+            "tip": "Die Fahrt zwischen den Dörfern führt durch wunderschöne Weinberge und Täler.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Klosterinnenhof Salzedas",
+            "tip": "Ein riesiger, oft leerer Raum, der zum Innehalten einlädt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Picknick am Fluss",
+            "tip": "Halten Sie an einem der Flüsse für eine ruhige Pause in der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Festői autózás",
+            "tip": "Az út a falvak között gyönyörű szőlőültetvényeken és völgyeken vezet keresztül.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Salzedas kolostor udvara",
+            "tip": "Hatalmas, gyakran üres tér, amely megállásra hív.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Piknik a folyónál",
+            "tip": "Álljon meg az egyik folyónál egy csendes szünetre a természetben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drum pitoresc",
+            "tip": "Drumul între sate trece prin podgorii și văi frumoase.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Curtea Mănăstirii Salzedas",
+            "tip": "Un spațiu vast, adesea gol, care invită la contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Picnic pe malul râului",
+            "tip": "Opriți-vă la unul dintre râuri pentru o pauză liniștită în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Scenic Drive",
+            "tip": "The drive between villages passes through beautiful vineyards and valleys.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Salzedas Convent Courtyard",
+            "tip": "A vast, often empty space that invites a pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "River-side picnic",
+            "tip": "Stop by one of the rivers for a quiet break in nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenstände",
+            "tip": "Achten Sie auf Stände, die lokale Produkte wie Kirschen, Äpfel oder Honig verkaufen."
+          },
+          {
+            "name": "Kooperativen",
+            "tip": "Besuchen Sie eine lokale Kooperative, um Wein und Olivenöl zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útszéli standok",
+            "tip": "Figyeljen a helyi termékeket, például cseresznyét, almát vagy mézet árusító standokra."
+          },
+          {
+            "name": "Szövetkezetek",
+            "tip": "Látogasson el egy helyi szövetkezetbe bor és olívaolaj vásárlásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe de pe marginea drumului",
+            "tip": "Fiți atenți la tarabele care vând produse locale, cum ar fi cireșe, mere sau miere."
+          },
+          {
+            "name": "Cooperative",
+            "tip": "Vizitați o cooperativă locală pentru a cumpăra vin și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside stands",
+            "tip": "Look out for stands selling local produce like cherries, apples, or honey."
+          },
+          {
+            "name": "Cooperatives",
+            "tip": "Visit a local cooperative to buy wine and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie Offline-Karten herunter, da der Handyempfang lückenhaft sein kann.",
+          "Parken Sie am Rande der historischen Zentren und erkunden Sie sie zu Fuß.",
+          "Halten Sie Bargeld für kleine Einkäufe und Parkgebühren bereit.",
+          "Die Straßen können eng und kurvig sein, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Töltsön le offline térképeket, mivel a mobil lefedettség foltos lehet.",
+          "Parkoljon a történelmi központok szélén, és fedezze fel őket gyalog.",
+          "Tartson magánál készpénzt a kis vásárlásokhoz és parkolási díjakhoz.",
+          "Az utak szűkek és kanyargósak lehetnek, vezessen óvatosan."
+        ],
+        "ro": [
+          "Descărcați hărți offline, deoarece semnalul mobil poate fi instabil.",
+          "Parcați la marginea centrelor istorice și explorați-le pe jos.",
+          "Aveți numerar la îndemână pentru cumpărături mici și taxe de parcare.",
+          "Drumurile pot fi înguste și sinuoase, conduceți cu prudență."
+        ],
+        "en": [
+          "Download offline maps, as cell service can be spotty.",
+          "Park on the outskirts of historic centers and explore on foot.",
+          "Keep cash on hand for small purchases and parking fees.",
+          "Roads can be narrow and winding, drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster des Heiligen Johannes von Tarouca",
+            "hu": "Taroucai Szent János-kolostor",
+            "ro": "Mănăstirea Sfântul Ioan din Tarouca",
+            "en": "Monastery of Saint John of Tarouca"
+          },
+          "coords": [
+            -7.7845,
+            41.0315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, da es wahrscheinlich eine Bushaltestelle in der Nähe gibt.",
+            "hu": "Kezdje itt, mivel valószínűleg van a közelben buszmegálló.",
+            "ro": "Începeți de aici, deoarece probabil există o stație de autobuz în apropiere.",
+            "en": "Start here as there is likely a bus stop nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Tarouca",
+            "hu": "Tarouca főtemploma",
+            "ro": "Biserica Parohială din Tarouca",
+            "en": "Mother Church of Tarouca"
+          },
+          "coords": [
+            -7.7831,
+            41.0335
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kloster zum Stadtzentrum.",
+            "hu": "Rövid séta a kolostortól a városközpontig.",
+            "ro": "O scurtă plimbare de la mănăstire până în centrul orașului.",
+            "en": "A short walk from the monastery to the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke von Ucanha",
+            "hu": "Ucanhai híd",
+            "ro": "Podul din Ucanha",
+            "en": "Ucanha Bridge"
+          },
+          "coords": [
+            -7.75,
+            40.995
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus nach Ucanha. Planen Sie Zeit für eventuelle Wartezeiten ein.",
+            "hu": "Menjen busszal Ucanhába. Tervezzen időt az esetleges várakozásra.",
+            "ro": "Luați autobuzul spre Ucanha. Planificați timp pentru posibile așteptări.",
+            "en": "Take the bus to Ucanha. Allow for potential waiting time."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm von Ucanha",
+            "hu": "Ucanha-torony",
+            "ro": "Turnul din Ucanha",
+            "en": "Tower of Ucanha"
+          },
+          "coords": [
+            -7.7495,
+            40.9955
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:49",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich neben der Brücke, leicht zu Fuß erreichbar.",
+            "hu": "Közvetlenül a híd mellett, könnyen megközelíthető gyalog.",
+            "ro": "Chiar lângă pod, ușor accesibil pe jos.",
+            "en": "Right next to the bridge, an easy walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster von Salzedas",
+            "hu": "Salzedasi kolostor",
+            "ro": "Mănăstirea din Salzedas",
+            "en": "Convent of Salzedas"
+          },
+          "coords": [
+            -7.715,
+            41.07
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 86,
+          "hop_from_prev_km": 5.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die letzte Etappe mit dem Bus. Überprüfen Sie unbedingt den Fahrplan für die Rückfahrt.",
+            "hu": "Az utolsó szakasz busszal. Feltétlenül ellenőrizze a visszautazás menetrendjét.",
+            "ro": "Ultima etapă cu autobuzul. Asigurați-vă că verificați programul pentru călătoria de întoarcere.",
+            "en": "The final leg by bus. Make sure to check the return schedule."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die Region mit öffentlichen Verkehrsmitteln, eine großartige Möglichkeit, die Landschaft zu genießen. Beginnen Sie in Tarouca mit einem Spaziergang zwischen dem Kloster und dem Stadtzentrum. Nehmen Sie dann den Bus in das charmante Dorf Ucanha, um die mittelalterliche Brücke und den Turm zu erkunden. Nach dem Mittagessen bringt Sie eine weitere Busfahrt zum beeindruckenden Kloster von Salzedas. Planen Sie Ihren Tag sorgfältig um die Busfahrpläne herum, um ein entspanntes Erlebnis zu gewährleisten.",
+        "hu": "Fedezze fel a régiót tömegközlekedéssel, ami remek módja a táj élvezetének. Kezdjen Taroucában egy sétával a kolostor és a városközpont között. Ezután szálljon buszra a bájos Ucanha faluba, hogy felfedezze a középkori hidat és tornyot. Ebéd után egy másik buszút visz a lenyűgöző Salzedas kolostorhoz. Tervezze meg gondosan a napját a buszmenetrendek köré a zökkenőmentes élmény érdekében.",
+        "ro": "Descoperiți regiunea cu transportul public, o modalitate excelentă de a vă bucura de peisaj. Începeți în Tarouca cu o plimbare între mănăstire și centrul orașului. Apoi, luați autobuzul către fermecătorul sat Ucanha pentru a explora podul și turnul medieval. După prânz, o altă călătorie cu autobuzul vă va duce la impresionanta Mănăstire din Salzedas. Planificați-vă ziua cu atenție în jurul orarelor de autobuz pentru o experiență relaxantă.",
+        "en": "Discover the region by public transport, a great way to enjoy the scenery. Start in Tarouca with a walk between the monastery and the town center. Then take the bus to the charming village of Ucanha to explore the medieval bridge and tower. After lunch, another bus ride will take you to the impressive Convent of Salzedas. Plan your day carefully around the bus schedules to ensure a relaxed experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandes (Sandwich)",
+            "tip": "Ein einfaches, aber leckeres Mittagessen, das man leicht unterwegs essen kann."
+          },
+          {
+            "name": "Lokales Gebäck",
+            "tip": "Kaufen Sie süße Leckereien in einer Bäckerei für einen Energieschub."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "Eine traditionelle portugiesische Suppe, perfekt für ein herzhaftes Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sandes (szendvics)",
+            "tip": "Egyszerű, de finom ebéd, amelyet könnyű útközben megenni."
+          },
+          {
+            "name": "Helyi sütemények",
+            "tip": "Vásároljon édes finomságokat egy pékségben energiapótláshoz."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "Hagyományos portugál leves, tökéletes egy kiadós vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandes (Sandviș)",
+            "tip": "Un prânz simplu, dar delicios, ușor de mâncat pe drum."
+          },
+          {
+            "name": "Produse de patiserie locale",
+            "tip": "Cumpărați dulciuri de la o brutărie pentru un plus de energie."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "O supă tradițională portugheză, perfectă pentru o cină consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandes (Sandwich)",
+            "tip": "A simple but delicious lunch that's easy to eat on the go."
+          },
+          {
+            "name": "Local pastries",
+            "tip": "Buy some sweet treats from a bakery for an energy boost."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "A traditional Portuguese soup, perfect for a hearty dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Landschaft",
+            "tip": "Schauen Sie aus dem Fenster und genießen Sie die vorbeiziehende Landschaft.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Warten an der Haltestelle",
+            "tip": "Nutzen Sie die Wartezeit, um die Umgebung zu beobachten und durchzuatmen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kirchplatz am späten Nachmittag",
+            "tip": "Finden Sie eine Bank und beobachten Sie das ruhige Dorfleben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a vidéken",
+            "tip": "Nézzen ki az ablakon, és élvezze az elhaladó tájat.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Várakozás a megállóban",
+            "tip": "Használja ki a várakozási időt a környezet megfigyelésére és egy mély lélegzetvételre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Templomtér késő délután",
+            "tip": "Keressen egy padot, és figyelje a csendes falusi életet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin peisajul rural",
+            "tip": "Priviți pe fereastră și bucurați-vă de peisajul care trece.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Așteptând în stație",
+            "tip": "Folosiți timpul de așteptare pentru a observa împrejurimile și a respira.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Piața bisericii după-amiaza târziu",
+            "tip": "Găsiți o bancă și priviți viața liniștită a satului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the countryside",
+            "tip": "Look out the window and enjoy the passing scenery.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Waiting at the bus stop",
+            "tip": "Use the waiting time to observe your surroundings and take a breath.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Church square in the late afternoon",
+            "tip": "Find a bench and watch the quiet village life.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Wenn Ihr Besuch auf einen Markttag fällt, ist das eine gute Gelegenheit für Souvenirs."
+          },
+          {
+            "name": "Postkarten",
+            "tip": "Ein klassisches, leichtes Souvenir von Ihren Reisen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Ha a látogatása piacnapra esik, ez jó alkalom az ajándéktárgyak beszerzésére."
+          },
+          {
+            "name": "Képeslapok",
+            "tip": "Klasszikus, könnyű szuvenír az utazásairól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Dacă vizita dumneavoastră coincide cu o zi de piață, este o ocazie bună pentru suveniruri."
+          },
+          {
+            "name": "Cărți poștale",
+            "tip": "Un suvenir clasic, ușor, din călătoriile dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local markets",
+            "tip": "If your visit coincides with a market day, it's a good opportunity for souvenirs."
+          },
+          {
+            "name": "Postcards",
+            "tip": "A classic, lightweight souvenir from your travels."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Busfahrpläne im Voraus online oder in einem Tourismusbüro.",
+          "Kaufen Sie Tickets nach Möglichkeit im Voraus oder haben Sie passendes Bargeld dabei.",
+          "Seien Sie flexibel; Busse in ländlichen Gebieten können Verspätung haben.",
+          "Planen Sie zusätzliche Zeit für Verbindungen und Wartezeiten ein."
+        ],
+        "hu": [
+          "Ellenőrizze a buszmenetrendeket előre online vagy egy turisztikai irodában.",
+          "Vásároljon jegyeket előre, ha lehetséges, vagy legyen Önnél pontos készpénz.",
+          "Legyen rugalmas; a vidéki területeken a buszok késhetnek.",
+          "Tervezzen plusz időt a csatlakozásokra és a várakozási időkre."
+        ],
+        "ro": [
+          "Verificați în avans orarele autobuzelor online sau la un birou de turism.",
+          "Cumpărați bilete în avans dacă este posibil sau aveți la dumneavoastră suma exactă în numerar.",
+          "Fiți flexibil; autobuzele din zonele rurale pot avea întârzieri.",
+          "Planificați timp suplimentar pentru conexiuni și așteptare."
+        ],
+        "en": [
+          "Check bus schedules in advance online or at a tourist office.",
+          "Buy tickets beforehand if possible, or have exact cash ready.",
+          "Be flexible; buses in rural areas can be delayed.",
+          "Plan for extra time for connections and waiting."
+        ]
+      }
+    }
+  }
+}

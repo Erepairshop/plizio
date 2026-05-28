@@ -1,0 +1,1145 @@
+{
+  "city_id": "bulgaria-silistra-cities-v2",
+  "anchor": {
+    "name": "Silistra",
+    "coords": [
+      27.2667,
+      44.1167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Donaupark",
+            "hu": "Dunai Park",
+            "ro": "Parcul Dunării",
+            "en": "Danube Park"
+          },
+          "coords": [
+            27.2613,
+            44.1215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Spaziergang entlang der Donau.",
+            "hu": "Kezdje a napot egy kellemes sétával a Duna partján.",
+            "ro": "Începeți ziua cu o plimbare relaxantă pe malul Dunării.",
+            "en": "Start your day with a refreshing stroll along the Danube."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            27.2658,
+            44.1182
+          ],
+          "category": "museums",
+          "arrive_at": "10:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die römischen und osmanischen Artefakte.",
+            "hu": "Fókuszáljon a római és oszmán kori leletekre.",
+            "ro": "Concentrați-vă pe artefactele romane și otomane.",
+            "en": "Focus on the Roman and Ottoman artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Grab",
+            "hu": "Római sírkamra",
+            "ro": "Mormântul Roman",
+            "en": "Roman Tomb"
+          },
+          "coords": [
+            27.2681,
+            44.1169
+          ],
+          "category": "museums",
+          "arrive_at": "12:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gut erhaltenen Fresken aus dem 4. Jahrhundert.",
+            "hu": "Csodálja meg a 4. századi, jól megőrzött freskókat.",
+            "ro": "Admirați frescele bine conservate din secolul al IV-lea.",
+            "en": "Admire the well-preserved 4th-century frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Peter und Paul",
+            "hu": "Szent Péter és Pál templom",
+            "ro": "Biserica Sf. Petru și Pavel",
+            "en": "St. Peter and Paul Church"
+          },
+          "coords": [
+            27.2665,
+            44.1145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe im Herzen der Stadt.",
+            "hu": "A nyugalom szigete a város szívében.",
+            "ro": "Un loc de liniște în inima orașului.",
+            "en": "A place of tranquility in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstgalerie Silistra",
+            "hu": "Szilisztrai Művészeti Galéria",
+            "ro": "Galeria de Artă Silistra",
+            "en": "Art Gallery Silistra"
+          },
+          "coords": [
+            27.2642,
+            44.1158
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie Werke bulgarischer Künstler aus der Region Dobrudscha.",
+            "hu": "Fedezze fel a dobrudzsai régió bolgár művészeinek alkotásait.",
+            "ro": "Descoperiți lucrări ale artiștilor bulgari din regiunea Dobrogea.",
+            "en": "Discover works by Bulgarian artists from the Dobrudja region."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Medschidi Tabia",
+            "hu": "Medzsidi Tabia erőd",
+            "ro": "Fortăreața Medjidi Tabia",
+            "en": "Medschidi Tabia Fortress"
+          },
+          "coords": [
+            27.251,
+            44.1052
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die Stadt und die Donau.",
+            "hu": "Élvezze a panorámás kilátást a városra és a Dunára.",
+            "ro": "Bucurați-vă de vederea panoramică asupra orașului și a Dunării.",
+            "en": "Enjoy the panoramic view over the city and the Danube."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Silistra beginnt entspannt im Donaupark, gefolgt von einer tiefen Erkundung der reichen römischen und bulgarischen Geschichte im Historischen Museum und am römischen Grab. Am Nachmittag tauchen Sie in die lokale Kultur in der Kunstgalerie ein und besuchen die ruhige St.-Peter-und-Paul-Kirche. Der Tag gipfelt in der osmanischen Festung Medschidi Tabia, die einen atemberaubenden Blick auf den Sonnenuntergang über der Donau bietet.",
+        "hu": "Szilisztrai napja a Dunai Parkban kezdődik, majd a Történeti Múzeumban és a római sírkamránál elmélyülhet a gazdag római és bolgár történelemben. Délután a Művészeti Galériában megismeri a helyi kultúrát, és ellátogat a csendes Szent Péter és Pál-templomba. A nap csúcspontja a Medzsidi Tabia oszmán erőd, ahonnan lenyűgöző a naplemente a Duna felett.",
+        "ro": "Ziua dvs. în Silistra începe relaxat în Parcul Dunării, urmată de o explorare profundă a istoriei romane și bulgare la Muzeul de Istorie și Mormântul Roman. După-amiaza, vă veți cufunda în cultura locală la Galeria de Artă și veți vizita liniștita Biserică Sf. Petru și Pavel. Ziua culminează la cetatea otomană Medjidi Tabia, care oferă o priveliște uluitoare la apus peste Dunăre.",
+        "en": "Your day in Silistra begins relaxing in the Danube Park, followed by a deep exploration of rich Roman and Bulgarian history at the Historical Museum and the Roman Tomb. In the afternoon, you'll dive into local culture at the Art Gallery and visit the quiet St. Peter and Paul Church. The day culminates at the Ottoman fortress Medschidi Tabia, offering a breathtaking sunset view over the Danube."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Donaufisch",
+            "tip": "Probieren Sie in einem Restaurant am Flussufer frisch gefangenen Fisch."
+          },
+          {
+            "name": "Shopska-Salat",
+            "tip": "Ein erfrischender Salat mit Tomaten, Gurken und Sirene-Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dunai hal",
+            "tip": "Kóstoljon frissen fogott halat egy folyóparti étteremben."
+          },
+          {
+            "name": "Sopszka saláta",
+            "tip": "Frissítő saláta paradicsommal, uborkával és szirén sajttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește de Dunăre",
+            "tip": "Încercați pește proaspăt prins la un restaurant de pe malul fluviului."
+          },
+          {
+            "name": "Salată Shopska",
+            "tip": "O salată răcoritoare cu roșii, castraveți și brânză Sirene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Danube Fish",
+            "tip": "Try freshly caught fish at a riverside restaurant."
+          },
+          {
+            "name": "Shopska Salad",
+            "tip": "A refreshing salad with tomatoes, cucumbers, and Sirene cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Donaupark am Morgen",
+            "tip": "Genießen Sie die Stille des Parks, bevor die Stadt erwacht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer der Donau",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie die vorbeiziehenden Schiffe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dunai Park reggel",
+            "tip": "Élvezze a park csendjét, mielőtt a város felébred.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Duna-part",
+            "tip": "Keressen egy csendes padot, és nézze az elhaladó hajókat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Dunării dimineața",
+            "tip": "Bucurați-vă de liniștea parcului înainte ca orașul să se trezească.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul Dunării",
+            "tip": "Găsiți o bancă liniștită și priviți navele care trec.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Danube Park in the morning",
+            "tip": "Enjoy the quiet of the park before the city wakes up.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bank of the Danube",
+            "tip": "Find a quiet bench and watch the ships go by.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Töpferwaren",
+            "tip": "Suchen Sie nach handgefertigter Keramik, die die Traditionen der Region widerspiegelt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámiák",
+            "tip": "Keressen kézzel készített kerámiákat, amelyek a régió hagyományait tükrözik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică lucrată manual care reflectă tradițiile regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pottery",
+            "tip": "Look for handmade ceramics that reflect the traditions of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders an warmen Tagen.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Vigyen magával vizet, különösen meleg napokon.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați apă cu dvs., mai ales în zilele calde.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring water with you, especially on warm days.",
+          "Most central sights are easily within walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Donaupark",
+            "hu": "Dunai Park",
+            "ro": "Parcul Dunării",
+            "en": "Danube Park"
+          },
+          "coords": [
+            27.2613,
+            44.1215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ideal für eine morgendliche Radtour am Flussufer.",
+            "hu": "Ideális egy reggeli biciklitúrához a folyóparton.",
+            "ro": "Ideal pentru o tură de dimineață cu bicicleta pe malul fluviului.",
+            "en": "Ideal for a morning bike ride along the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            27.2658,
+            44.1182
+          ],
+          "category": "museums",
+          "arrive_at": "10:16",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
+            "hu": "Biztonságosan zárja le a kerékpárját, mielőtt belép a múzeumba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în muzeu.",
+            "en": "Lock your bike securely before entering the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Grab",
+            "hu": "Római sírkamra",
+            "ro": "Mormântul Roman",
+            "en": "Roman Tomb"
+          },
+          "coords": [
+            27.2681,
+            44.1169
+          ],
+          "category": "museums",
+          "arrive_at": "11:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Abstecher zu diesem historischen Juwel.",
+            "hu": "Rövid, de megéri a kitérőt ezért a történelmi gyöngyszemért.",
+            "ro": "Un ocol scurt, dar care merită, la această bijuterie istorică.",
+            "en": "A short but worthwhile detour to this historical gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm Silistra",
+            "hu": "Szilisztrai óratorony",
+            "ro": "Turnul cu Ceas din Silistra",
+            "en": "Silistra Clock Tower"
+          },
+          "coords": [
+            27.2625,
+            44.1148
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schönes Fotomotiv im osmanischen Stil.",
+            "hu": "Szép fotótéma, oszmán stílusban épült.",
+            "ro": "Un subiect frumos pentru fotografii în stil otoman.",
+            "en": "A beautiful photo opportunity in the Ottoman style."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Medschidi Tabia",
+            "hu": "Medzsidi Tabia erőd",
+            "ro": "Fortăreața Medjidi Tabia",
+            "en": "Medschidi Tabia Fortress"
+          },
+          "coords": [
+            27.251,
+            44.1052
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der Anstieg ist die Aussicht wert. Nehmen Sie sich Zeit.",
+            "hu": "A kaptató megéri a kilátásért. Szánjon rá időt.",
+            "ro": "Urcușul merită priveliștea. Nu vă grăbiți.",
+            "en": "The climb is worth the view. Take your time."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturreservat Srebarna",
+            "hu": "Szrebarna természetvédelmi terület",
+            "ro": "Rezervația Naturală Srebărna",
+            "en": "Srebarna Nature Reserve"
+          },
+          "coords": [
+            27.075,
+            44.1167
+          ],
+          "category": "natural features",
+          "arrive_at": "15:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 58,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Ein UNESCO-Weltkulturerbe, Paradies für Vogelbeobachter.",
+            "hu": "UNESCO Világörökségi helyszín, a madármegfigyelők paradicsoma.",
+            "ro": "Un sit al Patrimoniului Mondial UNESCO, un paradis pentru observatorii de păsări.",
+            "en": "A UNESCO World Heritage site, paradise for bird watchers."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Donaupark",
+            "hu": "Vissza a Dunai Parkba",
+            "ro": "Înapoi la Parcul Dunării",
+            "en": "Back to Danube Park"
+          },
+          "coords": [
+            27.2613,
+            44.1215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 54,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour dort, wo sie begonnen hat.",
+            "hu": "Fejezze be a kerékpártúrát ott, ahol elkezdte.",
+            "ro": "Încheiați turul cu bicicleta acolo unde a început.",
+            "en": "End your bike tour where it began."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour durch Silistra und Umgebung. Starten Sie im Donaupark und radeln Sie zu den historischen Stätten der Stadt. Am Nachmittag führt Sie die Tour zur beeindruckenden Festung Medschidi Tabia und schließlich zum UNESCO-geschützten Srebarna-Naturreservat, einem Höhepunkt für Naturliebhaber. Die Rückfahrt entlang der Donau rundet den Tag ab.",
+        "hu": "Kerékpártúra Szilisztrán és környékén. Induljon a Dunai Parkból, és tekerjen el a város történelmi helyszíneihez. Délután az út a lenyűgöző Medzsidi Tabia erődhöz, majd végül az UNESCO által védett Szrebarna természetvédelmi területhez vezet, amely a természetbarátok fénypontja. A Duna menti visszaút teszi teljessé a napot.",
+        "ro": "Un tur cu bicicleta prin Silistra și împrejurimi. Porniți din Parcul Dunării și pedalați spre siturile istorice ale orașului. După-amiaza, turul vă duce la impresionanta cetate Medjidi Tabia și, în final, la Rezervația Naturală Srebărna, protejată de UNESCO, un punct culminant pentru iubitorii de natură. Drumul de întoarcere de-a lungul Dunării completează ziua.",
+        "en": "A bike tour through Silistra and its surroundings. Start in the Danube Park and cycle to the city's historical sites. In the afternoon, the tour takes you to the impressive Medschidi Tabia fortress and finally to the UNESCO-protected Srebarna Nature Reserve, a highlight for nature lovers. The return journey along the Danube completes the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Banitsa",
+            "tip": "Ein herzhaftes Gebäck mit Käse, perfekt für eine schnelle Stärkung."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Ein erfrischendes Joghurtgetränk, ideal nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Banica",
+            "tip": "Sós, sajtos péksütemény, tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Ajrán",
+            "tip": "Frissítő joghurtital, ideális egy kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Banitsa",
+            "tip": "O plăcintă sărată cu brânză, perfectă pentru o gustare rapidă."
+          },
+          {
+            "name": "Ayran",
+            "tip": "O băutură răcoritoare din iaurt, ideală după o plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Banitsa",
+            "tip": "A savory pastry with cheese, perfect for a quick snack."
+          },
+          {
+            "name": "Ayran",
+            "tip": "A refreshing yogurt drink, ideal after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Naturreservat Srebarna",
+            "tip": "Die Stille und die Geräusche der Natur sind hier allgegenwärtig.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht von der Festung",
+            "tip": "Ein ruhiger Moment, um die Weite der Landschaft zu überblicken.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szrebarna természetvédelmi terület",
+            "tip": "A csend és a természet hangjai itt mindenütt jelen vannak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás az erődből",
+            "tip": "Egy csendes pillanat, hogy áttekintse a táj tágasságát.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Naturală Srebărna",
+            "tip": "Liniștea și sunetele naturii sunt omniprezente aici.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la cetate",
+            "tip": "Un moment de liniște pentru a admira vastitatea peisajului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Srebarna Nature Reserve",
+            "tip": "The silence and sounds of nature are omnipresent here.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the fortress",
+            "tip": "A quiet moment to survey the vastness of the landscape.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig aus der Dobrudscha",
+            "tip": "Die Region ist bekannt für ihren hochwertigen Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dobrudzsai méz",
+            "tip": "A régió híres a kiváló minőségű mézéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere din Dobrogea",
+            "tip": "Regiunea este renumită pentru mierea sa de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Honey from Dobrudja",
+            "tip": "The region is known for its high-quality honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren.",
+          "Ein Helm wird empfohlen.",
+          "Die Strecke zum Srebarna-Reservat verläuft teilweise auf Landstraßen, seien Sie vorsichtig."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Sisak viselése ajánlott.",
+          "A Szrebarna rezervátumhoz vezető út részben országutakon halad, legyen óvatos."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Se recomandă purtarea căștii.",
+          "Traseul către Rezervația Srebărna este parțial pe drumuri naționale, fiți precauți."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "A helmet is recommended.",
+          "The route to the Srebarna Reserve is partly on country roads, be careful."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:04",
+      "total_km": 37.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Naturreservat Srebarna",
+            "hu": "Szrebarna természetvédelmi terület",
+            "ro": "Rezervația Naturală Srebărna",
+            "en": "Srebarna Nature Reserve"
+          },
+          "coords": [
+            27.075,
+            44.1167
+          ],
+          "category": "natural features",
+          "arrive_at": "09:48",
+          "stay_min": 120,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die Vogelbeobachtung ein. Ein Fernglas ist nützlich.",
+            "hu": "Szánjon elég időt a madármegfigyelésre. Egy távcső hasznos lehet.",
+            "ro": "Planificați suficient timp pentru observarea păsărilor. Un binoclu este util.",
+            "en": "Plan enough time for bird watching. Binoculars are useful."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Medschidi Tabia",
+            "hu": "Medzsidi Tabia erőd",
+            "ro": "Fortăreața Medjidi Tabia",
+            "en": "Medschidi Tabia Fortress"
+          },
+          "coords": [
+            27.251,
+            44.1052
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 37,
+          "hop_from_prev_km": 17.0,
+          "tip_5lang": {
+            "de": "Parken Sie unterhalb der Festung und gehen Sie das letzte Stück zu Fuß.",
+            "hu": "Parkoljon az erőd alatt, és tegye meg az utolsó szakaszt gyalog.",
+            "ro": "Parcați sub cetate și mergeți pe jos ultima bucată de drum.",
+            "en": "Park below the fortress and walk the last stretch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe der Festung",
+            "hu": "Ebéd az erőd közelében",
+            "ro": "Prânz lângă cetate",
+            "en": "Lunch near the fortress"
+          },
+          "coords": [
+            27.253,
+            44.107
+          ],
+          "category": "gastro",
+          "arrive_at": "13:51",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie traditionelle bulgarische Küche mit Aussicht.",
+            "hu": "Élvezze a hagyományos bolgár konyhát a kilátással.",
+            "ro": "Bucurați-vă de bucătăria tradițională bulgară cu priveliște.",
+            "en": "Enjoy traditional Bulgarian cuisine with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken im Stadtzentrum",
+            "hu": "Parkolás a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "Parking in the city center"
+          },
+          "coords": [
+            27.267,
+            44.1175
+          ],
+          "category": "transport",
+          "arrive_at": "15:16",
+          "stay_min": 10,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Suchen Sie einen zentralen Parkplatz, um den Rest zu Fuß zu erkunden.",
+            "hu": "Keressen egy központi parkolót, a többit fedezze fel gyalog.",
+            "ro": "Găsiți o parcare centrală pentru a explora restul pe jos.",
+            "en": "Find a central parking spot to explore the rest on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Grab",
+            "hu": "Római sírkamra",
+            "ro": "Mormântul Roman",
+            "en": "Roman Tomb"
+          },
+          "coords": [
+            27.2681,
+            44.1169
+          ],
+          "category": "museums",
+          "arrive_at": "15:30",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte, nur wenige Schritte vom Parkplatz entfernt.",
+            "hu": "Történelemkedvelőknek kötelező, csak pár lépésre a parkolótól.",
+            "ro": "O vizită obligatorie pentru pasionații de istorie, la câțiva pași de parcare.",
+            "en": "A must-see for history buffs, just a short walk from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Donaupark",
+            "hu": "Séta a Dunai Parkban",
+            "ro": "Plimbare în Parcul Dunării",
+            "en": "Stroll in the Danube Park"
+          },
+          "coords": [
+            27.2613,
+            44.1215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:14",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag am Ufer der Donau ausklingen.",
+            "hu": "Zárja a napot a Duna partján.",
+            "ro": "Încheiați ziua pe malul Dunării.",
+            "en": "End your day on the banks of the Danube."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die Highlights von Silistra und Umgebung. Der Tag beginnt im Naturreservat Srebarna, einem Paradies für Vogelbeobachter. Danach fahren Sie zur Festung Medschidi Tabia, wo Sie nach der Besichtigung zu Mittag essen. Am Nachmittag parken Sie im Zentrum und erkunden zu Fuß das berühmte römische Grab und beenden den Tag mit einem entspannenden Spaziergang im Donaupark.",
+        "hu": "Autóval felfedezheti Szilisztra és környéke legjavát. A nap a Szrebarna természetvédelmi területen kezdődik, a madármegfigyelők paradicsomában. Ezután a Medzsidi Tabia erődhöz hajt, ahol ebédel. Délután a központban parkol, és gyalog fedezi fel a híres római sírkamrát, majd a napot egy pihentető sétával zárja a Dunai Parkban.",
+        "ro": "Cu mașina, explorați cele mai importante atracții din Silistra și împrejurimi. Ziua începe la Rezervația Naturală Srebărna, un paradis pentru observatorii de păsări. Apoi, conduceți la cetatea Medjidi Tabia, unde luați prânzul după vizită. După-amiaza, parcați în centru și explorați pe jos faimosul Mormânt Roman, încheind ziua cu o plimbare relaxantă în Parcul Dunării.",
+        "en": "By car, you explore the highlights of Silistra and its surroundings. The day begins at the Srebarna Nature Reserve, a birdwatcher's paradise. Afterwards, you drive to the Medschidi Tabia fortress, where you have lunch after the visit. In the afternoon, you park in the center and explore the famous Roman Tomb on foot, ending the day with a relaxing stroll in the Danube Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kavarma",
+            "tip": "Ein langsam gegarter Eintopf mit Schweine- oder Hühnerfleisch und Gemüse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kavarma",
+            "tip": "Lassan főtt pörkölt sertés- vagy csirkehúsból és zöldségekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kavarma",
+            "tip": "O tocană gătită lent, cu carne de porc sau pui și legume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kavarma",
+            "tip": "A slow-cooked stew with pork or chicken and vegetables."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Naturreservat Srebarna",
+            "tip": "Der perfekte Ort, um dem städtischen Trubel zu entfliehen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szrebarna természetvédelmi terület",
+            "tip": "Tökéletes hely a városi nyüzsgés elől való menekülésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Naturală Srebărna",
+            "tip": "Locul perfect pentru a evada din agitația orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Srebarna Nature Reserve",
+            "tip": "The perfect place to escape the hustle and bustle of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bulgarischer Wein",
+            "tip": "Kaufen Sie eine Flasche lokalen Wein aus der Donauebene."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bolgár bor",
+            "tip": "Vásároljon egy üveg helyi bort a Duna-síkságról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin bulgăresc",
+            "tip": "Cumpărați o sticlă de vin local din Câmpia Dunării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulgarian Wine",
+            "tip": "Buy a bottle of local wine from the Danube Plain."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten des Srebarna-Reservats im Voraus.",
+          "Parkmöglichkeiten sind in der Regel außerhalb des Zentrums leichter zu finden.",
+          "Ein GPS oder eine Navigations-App ist für die Fahrt zu den äußeren Sehenswürdigkeiten hilfreich."
+        ],
+        "hu": [
+          "Előre ellenőrizze a Szrebarna rezervátum nyitvatartási idejét.",
+          "Parkolóhelyet általában könnyebb találni a központon kívül.",
+          "GPS vagy navigációs alkalmazás hasznos a külső látnivalókhoz való eljutáshoz."
+        ],
+        "ro": [
+          "Verificați în avans programul de funcționare al Rezervației Srebărna.",
+          "Locurile de parcare sunt de obicei mai ușor de găsit în afara centrului.",
+          "Un GPS sau o aplicație de navigație este utilă pentru a ajunge la atracțiile din exterior."
+        ],
+        "en": [
+          "Check the opening hours of the Srebarna Reserve in advance.",
+          "Parking is usually easier to find outside the center.",
+          "A GPS or navigation app is helpful for driving to the outer sights."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Zentraler Busbahnhof",
+            "hu": "Indulás: Központi buszpályaudvar",
+            "ro": "Start: Autogara Centrală",
+            "en": "Start: Central Bus Station"
+          },
+          "coords": [
+            27.269,
+            44.112
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
+            "hu": "Vásároljon napijegyet a helyi tömegközlekedéshez.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public.",
+            "en": "Buy a day pass for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Medschidi Tabia",
+            "hu": "Medzsidi Tabia erőd",
+            "ro": "Fortăreața Medjidi Tabia",
+            "en": "Medschidi Tabia Fortress"
+          },
+          "coords": [
+            27.251,
+            44.1052
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:43",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Süden; fragen Sie den Fahrer nach der besten Haltestelle.",
+            "hu": "Menjen egy déli irányú busszal; kérdezze meg a sofőrt a legjobb megállóról.",
+            "ro": "Luați un autobuz spre sud; întrebați șoferul care este cea mai bună stație.",
+            "en": "Take a bus heading south; ask the driver for the best stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm Silistra",
+            "hu": "Szilisztrai óratorony",
+            "ro": "Turnul cu Ceas din Silistra",
+            "en": "Silistra Clock Tower"
+          },
+          "coords": [
+            27.2625,
+            44.1148
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:19",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Festung aus.",
+            "hu": "Rövid séta az erődtől.",
+            "ro": "O scurtă plimbare de la cetate.",
+            "en": "A short walk from the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt ins Stadtzentrum",
+            "hu": "Utazás a városközpontba",
+            "ro": "Călătorie spre centrul orașului",
+            "en": "Trip to the city center"
+          },
+          "coords": [
+            27.266,
+            44.118
+          ],
+          "category": "transport",
+          "arrive_at": "11:54",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Herz der Stadt.",
+            "hu": "Menjen busszal vissza a város szívébe.",
+            "ro": "Luați un autobuz înapoi în inima orașului.",
+            "en": "Take a bus back to the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            27.2658,
+            44.1182
+          ],
+          "category": "museums",
+          "arrive_at": "12:08",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt an der Bushaltestelle gelegen.",
+            "hu": "Közvetlenül a buszmegállónál található.",
+            "ro": "Situat chiar lângă stația de autobuz.",
+            "en": "Located right next to the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Donaupark",
+            "hu": "Dunai Park",
+            "ro": "Parcul Dunării",
+            "en": "Danube Park"
+          },
+          "coords": [
+            27.2613,
+            44.1215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:28",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Verbringen Sie den Rest des Nachmittags entspannt am Fluss.",
+            "hu": "Töltse a délután hátralévő részét a folyóparton pihenve.",
+            "ro": "Petreceți restul după-amiezii relaxându-vă pe malul fluviului.",
+            "en": "Spend the rest of the afternoon relaxing by the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Silistra mit öffentlichen Verkehrsmitteln. Beginnen Sie mit einer Busfahrt zur Festung Medschidi Tabia, dem südlichsten Punkt Ihrer Tour. Von dort aus gehen Sie zu Fuß zu nahegelegenen Sehenswürdigkeiten, bevor Sie mit dem Bus zurück ins Zentrum fahren, um das Historische Museum zu besuchen. Der Tag endet mit einem ausgedehnten, entspannten Aufenthalt im weitläufigen Donaupark.",
+        "hu": "Fedezze fel Szilisztrát tömegközlekedéssel. Kezdje egy buszúttal a Medzsidi Tabia erődhöz, a túra legdélibb pontjához. Innen sétáljon el a közeli látnivalókhoz, mielőtt busszal visszatérne a központba a Történeti Múzeum megtekintésére. A napot a tágas Dunai Parkban való hosszas, pihentető tartózkodással zárja.",
+        "ro": "Explorați Silistra cu transportul public. Începeți cu o călătorie cu autobuzul la cetatea Medjidi Tabia, cel mai sudic punct al turului dumneavoastră. De acolo, mergeți pe jos la atracțiile din apropiere înainte de a lua autobuzul înapoi în centru pentru a vizita Muzeul de Istorie. Ziua se încheie cu o ședere lungă și relaxantă în vastul Parc al Dunării.",
+        "en": "Explore Silistra using public transport. Start with a bus ride to the Medschidi Tabia fortress, the southernmost point of your tour. From there, walk to nearby sights before taking a bus back to the center to visit the Historical Museum. The day ends with a long, relaxing stay in the spacious Danube Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyuveche",
+            "tip": "Ein traditionelles Gericht, das in einem Tontopf gebacken wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gjuvecs",
+            "tip": "Hagyományos, agyagedényben sütött étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ghiveci",
+            "tip": "Un fel de mâncare tradițional copt într-un vas de lut."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyuveche",
+            "tip": "A traditional dish baked in a clay pot."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche St. Peter und Paul",
+            "tip": "Ein Moment der Stille in diesem orthodoxen Gotteshaus.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Péter és Pál templom",
+            "tip": "Egy csendes pillanat ebben az ortodox templomban.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sf. Petru și Pavel",
+            "tip": "Un moment de liniște în acest lăcaș de cult ortodox.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Peter and Paul Church",
+            "tip": "A moment of silence in this Orthodox house of worship.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt im Stadtzentrum",
+            "tip": "Kaufen Sie frisches Obst und Gemüse der Saison."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városközponti piac",
+            "tip": "Vásároljon friss, szezonális gyümölcsöt és zöldséget."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din centrul orașului",
+            "tip": "Cumpărați fructe și legume proaspete de sezon."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Center Market",
+            "tip": "Buy fresh seasonal fruits and vegetables."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über die Busfahrpläne.",
+          "Haben Sie Kleingeld für Bustickets dabei.",
+          "Die meisten Busse fahren vom zentralen Bereich in der Nähe des Bahnhofs ab."
+        ],
+        "hu": [
+          "Tájékozódjon a buszmenetrendekről.",
+          "Legyen Önnél aprópénz a buszjegyekhez.",
+          "A legtöbb busz a pályaudvar közelében lévő központi területről indul."
+        ],
+        "ro": [
+          "Informați-vă despre orarele autobuzelor.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz.",
+          "Majoritatea autobuzelor pleacă din zona centrală de lângă gară."
+        ],
+        "en": [
+          "Find out about the bus schedules.",
+          "Have small change ready for bus tickets.",
+          "Most buses depart from the central area near the train station."
+        ]
+      }
+    }
+  }
+}

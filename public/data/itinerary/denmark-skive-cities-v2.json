@@ -1,0 +1,1236 @@
+{
+  "city_id": "denmark-skive-cities-v2",
+  "anchor": {
+    "name": "Skive",
+    "coords": [
+      56.56,
+      9.03
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vor Frue Kirke",
+            "hu": "Miasszonyunk-templom",
+            "ro": "Biserica Vor Frue",
+            "en": "Vor Frue Church"
+          },
+          "coords": [
+            9.028,
+            56.567
+          ],
+          "category": "churches",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Fresken aus dem frühen 16. Jahrhundert.",
+            "hu": "Figyelje meg a 16. század elejéről származó lenyűgöző freskókat.",
+            "ro": "Observați frescele impresionante de la începutul secolului al XVI-lea.",
+            "en": "Look for the impressive frescoes dating back to the early 1500s."
+          }
+        },
+        {
+          "name": {
+            "de": "Skive Museum",
+            "hu": "Skive Múzeum",
+            "ro": "Muzeul Skive",
+            "en": "Skive Museum"
+          },
+          "coords": [
+            9.031,
+            56.569
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Expressionisten-Sammlung ist ein Highlight. Planen Sie dafür extra Zeit ein.",
+            "hu": "Az expresszionista gyűjtemény a fénypont. Tervezzen rá extra időt.",
+            "ro": "Colecția expresionistă este un punct de atracție. Planificați timp suplimentar pentru ea.",
+            "en": "The expressionist collection is a highlight. Plan extra time for it."
+          }
+        },
+        {
+          "name": {
+            "de": "Skive Theater",
+            "hu": "Skive Színház",
+            "ro": "Teatrul Skive",
+            "en": "Skive Theatre"
+          },
+          "coords": [
+            9.026,
+            56.566
+          ],
+          "category": "theatres",
+          "arrive_at": "12:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur. Prüfen Sie, ob eine Backstage-Führung möglich ist.",
+            "hu": "Csodálja meg az építészetet. Érdeklődjön, van-e kulisszák mögötti túra.",
+            "ro": "Admirați arhitectura. Verificați dacă este disponibil un tur în culise.",
+            "en": "Admire the architecture. Check if a backstage tour is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch at the Harbor"
+          },
+          "coords": [
+            9.035,
+            56.572
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch in einem der Restaurants mit Blick auf den Limfjord.",
+            "hu": "Kóstoljon friss halat az egyik Limfjordra néző étteremben.",
+            "ro": "Încercați pește proaspăt la unul dintre restaurantele cu vedere la Limfjord.",
+            "en": "Try some fresh fish at one of the restaurants overlooking the Limfjord."
+          }
+        },
+        {
+          "name": {
+            "de": "Krabbesholm Skov",
+            "hu": "Krabbesholm erdő",
+            "ro": "Pădurea Krabbesholm",
+            "en": "Krabbesholm Forest"
+          },
+          "coords": [
+            9.05,
+            56.565
+          ],
+          "category": "forest",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang, der Kunst, Natur und die Nähe zum Fjord verbindet.",
+            "hu": "Egy gyönyörű séta, amely ötvözi a művészetet, a természetet és a fjord közelségét.",
+            "ro": "O plimbare frumoasă care combină arta, natura și proximitatea fiordului.",
+            "en": "A beautiful walk combining art, nature, and the proximity to the fjord."
+          }
+        },
+        {
+          "name": {
+            "de": "Skive Havn - Sonnenuntergang",
+            "hu": "Skive kikötő - Naplemente",
+            "ro": "Portul Skive - Apus de soare",
+            "en": "Skive Harbor - Sunset"
+          },
+          "coords": [
+            9.036,
+            56.573
+          ],
+          "category": "port",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie eine Bank und genießen Sie die Ruhe, wenn die Sonne über dem Fjord untergeht.",
+            "hu": "Keressen egy padot, és élvezze a csendet, ahogy a nap lemegy a fjord felett.",
+            "ro": "Găsiți o bancă și bucurați-vă de liniște în timp ce soarele apune peste fiord.",
+            "en": "Find a bench and enjoy the tranquility as the sun sets over the fjord."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Skive bei der historischen Vor Frue Kirke. Nach einer Dosis Kultur im Skive Museum und einem Blick auf das Theater, führt Sie ein Spaziergang zum Hafen für ein Mittagessen mit Fjordblick. Am Nachmittag erkunden Sie die künstlerische Natur im Krabbesholm Skov, bevor Sie zum Hafen zurückkehren, um den Sonnenuntergang über dem Limfjord zu bewundern. Ein Tag voller dänischer Gelassenheit.",
+        "hu": "Kezdje a napot Skive szívében, a történelmi Vor Frue Kirke-nél. A Skive Múzeum kulturális adagja és a színház megtekintése után egy séta a kikötőbe vezet ebédelni, fjordra néző kilátással. Délután fedezze fel a művészi természetet a Krabbesholm Skov-ban, mielőtt visszatér a kikötőbe, hogy megcsodálja a naplementét a Limfjord felett. Egy nap tele dán nyugalommal.",
+        "ro": "Începeți ziua în inima orașului Skive, la istorica Biserică Vor Frue. După o doză de cultură la Muzeul Skive și o privire la teatru, o plimbare vă duce în port pentru un prânz cu vedere la fiord. După-amiaza, explorați natura artistică din Pădurea Krabbesholm înainte de a vă întoarce în port pentru a admira apusul peste Limfjord. O zi plină de seninătate daneză.",
+        "en": "Start your day in the heart of Skive at the historic Vor Frue Church. After a dose of culture at Skive Museum and a look at the theatre, a stroll takes you to the harbour for lunch with a fjord view. In the afternoon, explore the artistic nature in Krabbesholm Forest before returning to the harbour to admire the sunset over the Limfjord. A day filled with Danish serenity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stegt flæsk med persillesovs",
+            "tip": "Dänemarks Nationalgericht, knuspriger Schweinebauch mit Petersiliensoße und Kartoffeln. Suchen Sie nach einem 'kro' (traditionelles Gasthaus)."
+          },
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Dänische Fischfrikadellen, oft mit Remoulade und Roggenbrot serviert. Perfekt für ein leichtes Mittagessen am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stegt flæsk med persillesovs",
+            "tip": "Dánia nemzeti étele, ropogós sertéshas petrezselyemmártással és burgonyával. Keressen egy 'kro'-t (hagyományos fogadót)."
+          },
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Dán halfasírt, gyakran remuláddal és rozskenyérrel tálalva. Tökéletes egy könnyű ebédhez a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stegt flæsk med persillesovs",
+            "tip": "Mâncarea națională a Danemarcei, burtă de porc crocantă cu sos de pătrunjel și cartofi. Căutați un 'kro' (han tradițional)."
+          },
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Chiftele de pește daneze, adesea servite cu remoulade și pâine de secară. Perfecte pentru un prânz ușor în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stegt flæsk med persillesovs",
+            "tip": "Denmark's national dish, crispy pork belly with parsley sauce and potatoes. Look for a 'kro' (traditional inn)."
+          },
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Danish fish cakes, often served with remoulade and rye bread. Perfect for a light lunch at the harbour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Krabbesholm Skov",
+            "tip": "Die Wege abseits der Kunstinstallationen bieten ruhige Momente im Wald.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Bucht von Skive",
+            "tip": "Ein Spaziergang entlang der Wasserlinie bei Ebbe bietet endlose Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Resen Kirke Friedhof",
+            "tip": "Ein friedlicher Ort mit einer alten, ruhigen Atmosphäre.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krabbesholm Skov",
+            "tip": "A művészeti installációktól távolabbi ösvények csendes pillanatokat kínálnak az erdőben.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Skive-öböl",
+            "tip": "Séta a vízparton apály idején végtelen nyugalmat kínál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Resen Kirke temető",
+            "tip": "Békés hely, régi, csendes légkörrel.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Krabbesholm",
+            "tip": "Căile de lângă instalațiile de artă oferă momente de liniște în pădure.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Golful Skive",
+            "tip": "O plimbare de-a lungul malului apei la reflux oferă o liniște nesfârșită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul Resen Kirke",
+            "tip": "Un loc pașnic cu o atmosferă veche și liniștită.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Krabbesholm Forest",
+            "tip": "The paths away from the art installations offer quiet moments in the woods.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Skive Bay",
+            "tip": "A walk along the waterline at low tide offers endless peace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Resen Kirke Churchyard",
+            "tip": "A peaceful spot with an old, quiet atmosphere.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Halten Sie in den kleinen Galerien Ausschau nach handgefertigter Keramik, die von der Fjordlandschaft inspiriert ist."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Die Küste Jütlands ist bekannt für Bernstein. Ein schönes und authentisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keresse a kézzel készített kerámiákat a kis galériákban, amelyeket a fjordvidék ihletett."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Jylland partvidéke ismert a borostyánról. Szép és autentikus szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați în micile galerii ceramică lucrată manual, inspirată de peisajul fiordului."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Coasta Iutlandei este cunoscută pentru chihlimbar. Un suvenir frumos și autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Ceramics",
+            "tip": "Look for handmade ceramics inspired by the fjord landscape in the small galleries."
+          },
+          {
+            "name": "Amber Jewelry",
+            "tip": "The coast of Jutland is known for amber. A beautiful and authentic souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann. Der Wind vom Fjord kann kühl sein, auch im Sommer, also ist eine leichte Jacke ratsam. Viele Geschäfte schließen früh, besonders am Samstag."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek. A fjord felől fújó szél hűvös lehet, még nyáron is, ezért egy könnyű dzseki ajánlott. Sok üzlet korán bezár, különösen szombaton."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele din orașul vechi pot fi denivelate. Vântul din fiord poate fi rece, chiar și vara, deci este recomandată o jachetă ușoară. Multe magazine închid devreme, mai ales sâmbăta."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the cobblestones in the old town can be uneven. The wind from the fjord can be cool, even in summer, so a light jacket is advisable. Many shops close early, especially on Saturdays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Fahrradverleih am Hafen",
+            "hu": "Indulás: Kerékpárkölcsönző a kikötőben",
+            "ro": "Start: Închiriere biciclete în port",
+            "en": "Start: Bike Rental at the Harbor"
+          },
+          "coords": [
+            9.035,
+            56.572
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Prüfen Sie die Reifen und Bremsen, bevor Sie losfahren.",
+            "hu": "Indulás előtt ellenőrizze a gumikat és a fékeket.",
+            "ro": "Verificați anvelopele și frânele înainte de a pleca.",
+            "en": "Check your tires and brakes before you set off."
+          }
+        },
+        {
+          "name": {
+            "de": "Vor Frue Kirke",
+            "hu": "Miasszonyunk-templom",
+            "ro": "Biserica Vor Frue",
+            "en": "Vor Frue Church"
+          },
+          "coords": [
+            9.028,
+            56.567
+          ],
+          "category": "churches",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad gut ab. Der Platz vor der Kirche ist ideal.",
+            "hu": "Zárja le jól a kerékpárját. A templom előtti tér ideális.",
+            "ro": "Legați-vă bine bicicleta. Piața din fața bisericii este ideală.",
+            "en": "Lock your bike securely. The square in front of the church is ideal."
+          }
+        },
+        {
+          "name": {
+            "de": "Resen Kirke",
+            "hu": "Resen-templom",
+            "ro": "Biserica Resen",
+            "en": "Resen Church"
+          },
+          "coords": [
+            9.001,
+            56.582
+          ],
+          "category": "churches",
+          "arrive_at": "10:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Fahrt durch die Vororte und die Aussicht vom Kirchhügel.",
+            "hu": "Élvezze a csendes utat a külvároson keresztül és a kilátást a templomdombról.",
+            "ro": "Bucurați-vă de plimbarea liniștită prin suburbii și de vederea de pe dealul bisericii.",
+            "en": "Enjoy the quiet ride through the suburbs and the view from the church hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Jenle - Das Aakjær Museum",
+            "hu": "Jenle - Az Aakjær Múzeum",
+            "ro": "Jenle - Muzeul Aakjær",
+            "en": "Jenle - The Aakjær Museum"
+          },
+          "coords": [
+            9.15,
+            56.61
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die längere Radtour lohnt sich für das authentische Zuhause des Dichters Jeppe Aakjær.",
+            "hu": "A hosszabb kerékpártúra megéri Jeppe Aakjær költő autentikus otthonáért.",
+            "ro": "Merită turul mai lung cu bicicleta pentru casa autentică a poetului Jeppe Aakjær.",
+            "en": "The longer bike ride is worth it for the authentic home of the poet Jeppe Aakjær."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause in Jenle",
+            "hu": "Ebédszünet Jenle-ben",
+            "ro": "Pauză de prânz la Jenle",
+            "en": "Lunch Break at Jenle"
+          },
+          "coords": [
+            9.151,
+            56.61
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museumscafé serviert oft traditionelle dänische Kuchen.",
+            "hu": "A múzeumi kávézó gyakran kínál hagyományos dán süteményeket.",
+            "ro": "Cafeneaua muzeului servește adesea prăjituri tradiționale daneze.",
+            "en": "The museum café often serves traditional Danish cakes."
+          }
+        },
+        {
+          "name": {
+            "de": "Krabbesholm Skov",
+            "hu": "Krabbesholm erdő",
+            "ro": "Pădurea Krabbesholm",
+            "en": "Krabbesholm Forest"
+          },
+          "coords": [
+            9.05,
+            56.565
+          ],
+          "category": "forest",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die Kunstpfade zu Fuß.",
+            "hu": "Tegye le a kerékpárt és fedezze fel a művészeti ösvényeket gyalog.",
+            "ro": "Parcați bicicleta și explorați potecile de artă pe jos.",
+            "en": "Park your bike and explore the art trails on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrradrückgabe am Hafen",
+            "hu": "Kerékpár leadása a kikötőben",
+            "ro": "Returnarea bicicletei în port",
+            "en": "Bike Return at the Harbor"
+          },
+          "coords": [
+            9.035,
+            56.572
+          ],
+          "category": "port",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem Eis, während Sie auf den Fjord blicken.",
+            "hu": "Jutalmazza meg magát egy fagyival, miközben a fjordra néz.",
+            "ro": "Recompensați-vă cu o înghețată în timp ce priviți fiordul.",
+            "en": "Reward yourself with an ice cream while looking out over the fjord."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich am Hafen auf den Sattel und radeln Sie ins historische Zentrum. Nach einem Besuch der alten Kirche von Resen führt Sie eine längere Tour durch die Landschaft nach Jenle, dem Zuhause des Dichters Jeppe Aakjær. Nach einer Mittagspause dort geht es zurück in Richtung Stadt zum künstlerischen Krabbesholm Skov. Der Tag endet entspannt am Hafen, wo Sie Ihr Fahrrad zurückgeben und die Eindrücke des Tages genießen.",
+        "hu": "Pattanjon nyeregbe a kikötőben, és tekerjen be a történelmi központba. A régi Resen-templom meglátogatása után egy hosszabb túra vezet a tájon keresztül Jenle-be, Jeppe Aakjær költő otthonába. Az ottani ebédszünet után irány vissza a város felé a művészi Krabbesholm Skov-ba. A nap a kikötőben ér véget, ahol leadja a kerékpárt és élvezi a nap benyomásait.",
+        "ro": "Urcați-vă pe bicicletă în port și pedalați spre centrul istoric. După o vizită la vechea biserică Resen, un tur mai lung vă duce prin peisaj la Jenle, casa poetului Jeppe Aakjær. După o pauză de prânz acolo, vă întoarceți spre oraș, la artistica Pădure Krabbesholm. Ziua se încheie relaxat în port, unde returnați bicicleta și vă bucurați de impresiile zilei.",
+        "en": "Hop on your bike at the harbour and cycle to the historic centre. After a visit to the old Resen Church, a longer tour takes you through the countryside to Jenle, the home of poet Jeppe Aakjær. After a lunch break there, it's back towards the city to the artistic Krabbesholm Forest. The day ends relaxed at the harbour, where you return your bike and enjoy the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Reich belegte Roggenbrote. Kaufen Sie einige für ein Picknick in Jenle oder Krabbesholm."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Der berühmte dänische Plunder. Perfekt für einen Energieschub am Nachmittag mit einer Tasse Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Gazdagon megrakott rozskenyerek. Vegyen néhányat egy piknikhez Jenle-ben vagy Krabbesholm-ban."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "A híres dán péksütemény. Tökéletes egy délutáni energiafröccshöz egy csésze kávéval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Sandvișuri deschise, bogat acoperite, pe pâine de secară. Cumpărați câteva pentru un picnic la Jenle sau Krabbesholm."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "Celebrul produs de patiserie danez. Perfect pentru un impuls de energie după-amiaza cu o ceașcă de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Richly topped open-faced rye bread sandwiches. Buy some for a picnic at Jenle or Krabbesholm."
+          },
+          {
+            "name": "Wienerbrød",
+            "tip": "The famous Danish pastry. Perfect for an afternoon energy boost with a cup of coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Felder um Jenle",
+            "tip": "Die weite, offene Landschaft Jütlands ist hier spürbar. Halten Sie an und lauschen Sie dem Wind.",
+            "emoji": "🌾"
+          },
+          {
+            "name": "Uferweg am Limfjord",
+            "tip": "Suchen Sie sich einen ruhigen Abschnitt abseits des Hafens für eine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten des Skive Museums",
+            "tip": "Nach dem Museumsbesuch ein ruhiger Ort zum Verweilen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Jenle körüli mezők",
+            "tip": "Itt érezhető Jylland tágas, nyílt tája. Álljon meg és hallgassa a szelet.",
+            "emoji": "🌾"
+          },
+          {
+            "name": "Parti út a Limfjord mentén",
+            "tip": "Keressen egy csendes szakaszt a kikötőtől távol egy pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Skive Múzeum kertje",
+            "tip": "A múzeumlátogatás után egy csendes hely a pihenésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Câmpiile din jurul Jenle",
+            "tip": "Peisajul vast și deschis al Iutlandei este tangibil aici. Opriți-vă și ascultați vântul.",
+            "emoji": "🌾"
+          },
+          {
+            "name": "Potecă pe malul Limfjord",
+            "tip": "Găsiți o secțiune liniștită departe de port pentru o pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Muzeului Skive",
+            "tip": "După vizita la muzeu, un loc liniștit pentru a zăbovi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The fields around Jenle",
+            "tip": "The vast, open landscape of Jutland is tangible here. Stop and listen to the wind.",
+            "emoji": "🌾"
+          },
+          {
+            "name": "Shore path along the Limfjord",
+            "tip": "Find a quiet section away from the harbour for a break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skive Museum Garden",
+            "tip": "After the museum visit, a quiet place to linger.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Auf dem Land rund um Skive finden Sie oft kleine Hofläden ('gårdbutik') mit lokalen Produkten wie Honig, Marmelade oder Obst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Skive környékén a vidéken gyakran találhatók kis tanyasi boltok ('gårdbutik'), ahol helyi termékeket, például mézet, lekvárt vagy gyümölcsöt árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă",
+            "tip": "În zona rurală din jurul Skive, veți găsi adesea mici magazine de la fermă ('gårdbutik') cu produse locale precum miere, gem sau fructe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "In the countryside around Skive, you will often find small farm shops ('gårdbutik') with local products such as honey, jam or fruit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Dänemark ist sehr fahrradfreundlich, aber tragen Sie zur Sicherheit einen Helm. Der Wind kann eine Herausforderung sein, planen Sie Ihre Route entsprechend. Nehmen Sie Wasser und Snacks mit, besonders für die Tour nach Jenle."
+        ],
+        "hu": [
+          "Dánia nagyon kerékpárbarát, de a biztonság kedvéért viseljen sisakot. A szél kihívást jelenthet, tervezze meg az útvonalat ennek megfelelően. Vigyen magával vizet és harapnivalót, különösen a Jenle-be vezető útra."
+        ],
+        "ro": [
+          "Danemarca este foarte prietenoasă cu bicicletele, dar purtați o cască pentru siguranță. Vântul poate fi o provocare, planificați-vă traseul în consecință. Luați apă și gustări, mai ales pentru turul la Jenle."
+        ],
+        "en": [
+          "Denmark is very bike-friendly, but wear a helmet for safety. The wind can be a challenge, so plan your route accordingly. Bring water and snacks, especially for the tour to Jenle."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 42.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spøttrup Borg",
+            "hu": "Spøttrup vár",
+            "ro": "Castelul Spøttrup",
+            "en": "Spøttrup Castle"
+          },
+          "coords": [
+            8.78,
+            56.63
+          ],
+          "category": "castles",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die geheimen Gänge der besterhaltenen mittelalterlichen Burg Dänemarks zu entdecken.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy felfedezze Dánia legjobb állapotban fennmaradt középkori várának titkos járatait.",
+            "ro": "Participați la un tur ghidat pentru a descoperi pasajele secrete ale celui mai bine conservat castel medieval din Danemarca.",
+            "en": "Take a guided tour to discover the secret passages of Denmark's best-preserved medieval castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Spøttrup See",
+            "hu": "Séta a Spøttrup-tónál",
+            "ro": "Plimbare pe malul lacului Spøttrup",
+            "en": "Walk at Spøttrup Lake"
+          },
+          "coords": [
+            8.785,
+            56.632
+          ],
+          "category": "lake",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Verdauungsspaziergang nach dem mittelalterlichen Erlebnis. Sehr fotogen.",
+            "hu": "Egy rövid emésztő séta a középkori élmény után. Nagyon fotogén.",
+            "ro": "O scurtă plimbare digestivă după experiența medievală. Foarte fotogenic.",
+            "en": "A short digestive walk after the medieval experience. Very photogenic."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken in Skive & Mittagessen",
+            "hu": "Parkolás Skive-ban és ebéd",
+            "ro": "Parcare în Skive și prânz",
+            "en": "Park in Skive & Lunch"
+          },
+          "coords": [
+            9.027,
+            56.568
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 21.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie einen zentralen Parkplatz, um das Stadtzentrum zu Fuß zu erkunden.",
+            "hu": "Keressen egy központi parkolót, hogy gyalogosan fedezhesse fel a városközpontot.",
+            "ro": "Căutați o parcare centrală pentru a explora centrul orașului pe jos.",
+            "en": "Find a central parking spot to explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Vor Frue Kirke",
+            "hu": "Miasszonyunk-templom",
+            "ro": "Biserica Vor Frue",
+            "en": "Vor Frue Church"
+          },
+          "coords": [
+            9.028,
+            56.567
+          ],
+          "category": "churches",
+          "arrive_at": "13:58",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid sétára a főtértől.",
+            "ro": "La doar o scurtă plimbare de piața principală.",
+            "en": "Just a short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Skive Museum",
+            "hu": "Skive Múzeum",
+            "ro": "Muzeul Skive",
+            "en": "Skive Museum"
+          },
+          "coords": [
+            9.031,
+            56.569
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Liebhaber des dänischen Expressionismus.",
+            "hu": "A dán expresszionizmus kedvelőinek kötelező.",
+            "ro": "O necesitate pentru iubitorii de expresionism danez.",
+            "en": "A must-see for lovers of Danish Expressionism."
+          }
+        },
+        {
+          "name": {
+            "de": "Jenle - Das Aakjær Museum",
+            "hu": "Jenle - Az Aakjær Múzeum",
+            "ro": "Jenle - Muzeul Aakjær",
+            "en": "Jenle - The Aakjær Museum"
+          },
+          "coords": [
+            9.15,
+            56.61
+          ],
+          "category": "museums",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 20.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein perfekter, ruhiger Abschluss des Tages im Zuhause eines der größten Dichter Dänemarks.",
+            "hu": "Tökéletes, csendes befejezése a napnak Dánia egyik legnagyobb költőjének otthonában.",
+            "ro": "O încheiere perfectă și liniștită a zilei la casa unuia dintre cei mai mari poeți ai Danemarcei.",
+            "en": "A perfect, quiet end to the day at the home of one of Denmark's greatest poets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Zeitreise zur imposanten Spøttrup Borg, gefolgt von einem Spaziergang am nahen See. Danach fahren Sie nach Skive, parken zentral und genießen ein Mittagessen. Der Nachmittag ist einem Spaziergang durch das Herz der Stadt gewidmet, mit Besuchen der Kirche und des renommierten Kunstmuseums. Zum Abschluss fahren Sie nach Jenle, um in die Welt des Dichters Jeppe Aakjær einzutauchen.",
+        "hu": "A nap egy időutazással kezdődik a lenyűgöző Spøttrup várához, amit egy séta követ a közeli tónál. Ezután Skive-ba hajt, központilag parkol és elfogyaszt egy ebédet. A délután a város szívében tett sétáról szól, meglátogatva a templomot és a neves művészeti múzeumot. Befejezésül Jenle-be utazik, hogy elmerüljön Jeppe Aakjær költő világában.",
+        "ro": "Ziua începe cu o călătorie în timp la impunătorul Castel Spøttrup, urmată de o plimbare pe malul lacului din apropiere. Apoi conduceți spre Skive, parcați central și savurați prânzul. După-amiaza este dedicată unei plimbări prin inima orașului, cu vizite la biserică și la renumitul muzeu de artă. Pentru a încheia, mergeți la Jenle pentru a vă cufunda în lumea poetului Jeppe Aakjær.",
+        "en": "Your day begins with a journey back in time to the imposing Spøttrup Castle, followed by a walk at the nearby lake. You then drive to Skive, park centrally and enjoy lunch. The afternoon is dedicated to a walk through the heart of the city, with visits to the church and the renowned art museum. To finish, you'll drive to Jenle to immerse yourself in the world of the poet Jeppe Aakjær."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Æbleflæsk",
+            "tip": "Gebratener Speck mit Äpfeln, ein herzhaftes, klassisches Gericht, das man oft in Landgasthöfen findet."
+          },
+          {
+            "name": "Kro-platte",
+            "tip": "Eine Platte mit verschiedenen lokalen Spezialitäten, ideal zum Teilen und Probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Æbleflæsk",
+            "tip": "Sült szalonna almával, egy kiadós, klasszikus étel, amelyet gyakran találni vidéki fogadókban."
+          },
+          {
+            "name": "Kro-platte",
+            "tip": "Egy tál különböző helyi specialitásokkal, ideális megosztásra és kóstolásra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Æbleflæsk",
+            "tip": "Bacon prăjit cu mere, un fel de mâncare consistent, clasic, adesea găsit la hanurile de la țară."
+          },
+          {
+            "name": "Kro-platte",
+            "tip": "Un platou cu diverse specialități locale, ideal pentru a fi împărțit și degustat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Æbleflæsk",
+            "tip": "Fried bacon with apples, a hearty, classic dish often found in country inns."
+          },
+          {
+            "name": "Kro-platte",
+            "tip": "A platter of various local specialties, ideal for sharing and tasting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spøttrup Borg Wallanlagen",
+            "tip": "Gehen Sie auf den alten Wällen spazieren und genießen Sie die Aussicht über die Landschaft.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Die Landschaft von Salling",
+            "tip": "Die Fahrt zwischen den Zielen ist an sich schon ein Erlebnis. Halten Sie an einem Aussichtspunkt an.",
+            "emoji": "🚗"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spøttrup vár sáncai",
+            "tip": "Sétáljon a régi sáncokon és élvezze a kilátást a tájra.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Salling tájai",
+            "tip": "Az utazás a célpontok között önmagában is élmény. Álljon meg egy kilátópontnál.",
+            "emoji": "🚗"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valurile Castelului Spøttrup",
+            "tip": "Plimbați-vă pe vechile valuri și bucurați-vă de vederea asupra peisajului.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Peisajul din Salling",
+            "tip": "Călătoria între destinații este o experiență în sine. Opriți-vă la un punct de belvedere.",
+            "emoji": "🚗"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spøttrup Castle Ramparts",
+            "tip": "Walk on the old ramparts and enjoy the view over the landscape.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "The Salling Landscape",
+            "tip": "The drive between destinations is an experience in itself. Stop at a viewpoint.",
+            "emoji": "🚗"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Burg-Souvenirs",
+            "tip": "Der Shop in Spøttrup Borg bietet oft Repliken und Bücher zur mittelalterlichen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vár-szuvenírek",
+            "tip": "A Spøttrup várában lévő bolt gyakran kínál másolatokat és könyveket a középkori történelemről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la castel",
+            "tip": "Magazinul de la Castelul Spøttrup oferă adesea replici și cărți despre istoria medievală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Souvenirs",
+            "tip": "The shop at Spøttrup Castle often offers replicas and books on medieval history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren können in Dänemark anfallen, halten Sie Münzen oder eine Park-App bereit. Die Landstraßen sind gut ausgebaut, aber achten Sie auf landwirtschaftliche Fahrzeuge. Planen Sie Pufferzeiten für den Verkehr ein, besonders am Freitagnachmittag."
+        ],
+        "hu": [
+          "Dániában parkolási díjak merülhetnek fel, tartson készenlétben érméket vagy egy parkolóalkalmazást. Az országutak jól kiépítettek, de figyeljen a mezőgazdasági járművekre. Tervezzen be pufferidőt a forgalomra, különösen péntek délután."
+        ],
+        "ro": [
+          "Taxele de parcare se pot aplica în Danemarca, aveți la îndemână monede sau o aplicație de parcare. Drumurile de țară sunt bine întreținute, dar fiți atenți la vehiculele agricole. Planificați timp suplimentar pentru trafic, mai ales vineri după-amiaza."
+        ],
+        "en": [
+          "Parking fees may apply in Denmark, have coins or a parking app ready. The country roads are well-maintained, but watch out for agricultural vehicles. Plan buffer time for traffic, especially on Friday afternoons."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 8.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Busbahnhof & Spaziergang zur Kirche",
+            "hu": "Érkezés a buszpályaudvarra és séta a templomhoz",
+            "ro": "Sosire la autogară și plimbare la biserică",
+            "en": "Arrival at Bus Station & Walk to Church"
+          },
+          "coords": [
+            9.025,
+            56.565
+          ],
+          "category": "transit",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für Flexibilität.",
+            "hu": "Vásároljon napijegyet a rugalmasság érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru flexibilitate.",
+            "en": "Buy a day ticket for flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Vor Frue Kirke",
+            "hu": "Miasszonyunk-templom",
+            "ro": "Biserica Vor Frue",
+            "en": "Vor Frue Church"
+          },
+          "coords": [
+            9.028,
+            56.567
+          ],
+          "category": "churches",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt, um die Stadt zu verstehen.",
+            "hu": "Jó kiindulópont a város megértéséhez.",
+            "ro": "Un bun punct de plecare pentru a înțelege orașul.",
+            "en": "A good starting point to understand the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Skive Museum",
+            "hu": "Skive Múzeum",
+            "ro": "Muzeul Skive",
+            "en": "Skive Museum"
+          },
+          "coords": [
+            9.031,
+            56.569
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in der Kunst, aber behalten Sie die Busfahrpläne im Auge.",
+            "hu": "Merüljön el a művészetben, de tartsa szemmel a buszmenetrendet.",
+            "ro": "Pierdeți-vă în artă, dar fiți cu ochii pe orarul autobuzelor.",
+            "en": "Get lost in the art, but keep an eye on the bus schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Krabbesholm & Spaziergang",
+            "hu": "Busz Krabbesholmba és séta",
+            "ro": "Autobuz spre Krabbesholm și plimbare",
+            "en": "Bus to Krabbesholm & Walk"
+          },
+          "coords": [
+            9.05,
+            56.565
+          ],
+          "category": "forest",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt und den Kontrast zwischen Stadt und Natur. Nehmen Sie ein Picknick mit.",
+            "hu": "Élvezze az utazást és a város és a természet közötti kontrasztot. Vigyen magával pikniket.",
+            "ro": "Bucurați-vă de călătorie și de contrastul dintre oraș și natură. Luați un picnic.",
+            "en": "Enjoy the ride and the contrast between city and nature. Take a picnic with you."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Hafen & Ausklang",
+            "hu": "Busz a kikötőbe és levezetés",
+            "ro": "Autobuz spre port și relaxare",
+            "en": "Bus to Harbor & Wind Down"
+          },
+          "coords": [
+            9.035,
+            56.572
+          ],
+          "category": "port",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um den Tag bei einem Kaffee oder Eis ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap befejezéséhez egy kávé vagy fagylalt mellett.",
+            "ro": "Un loc perfect pentru a încheia ziua cu o cafea sau o înghețată.",
+            "en": "A perfect place to end the day with a coffee or an ice cream."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Zentrum von Skive, das Sie bequem zu Fuß erkunden, einschließlich der Kirche und des Museums. Am Mittag nehmen Sie den Bus, um in die grüne Oase des Krabbesholm Skov einzutauchen und dort ein Picknick zu genießen. Am Nachmittag bringt Sie ein weiterer Bus zum lebhaften Hafen, wo Sie die maritime Atmosphäre auf sich wirken lassen und den Tag entspannt ausklingen lassen können. Eine clevere Mischung aus Stadtkultur und Naturerlebnis.",
+        "hu": "A nap Skive központjában kezdődik, amelyet kényelmesen, gyalogosan fedezhet fel, beleértve a templomot és a múzeumot. Délben buszra száll, hogy elmerüljön a Krabbesholm Skov zöld oázisában és ott piknikezzen. Délután egy másik busz viszi a nyüzsgő kikötőbe, ahol magába szívhatja a tengeri hangulatot és lazán zárhatja a napot. A városi kultúra és a természeti élmény okos keveréke.",
+        "ro": "Ziua începe în centrul orașului Skive, pe care îl explorați confortabil pe jos, inclusiv biserica și muzeul. La prânz, luați autobuzul pentru a vă cufunda în oaza verde a Pădurii Krabbesholm și a vă bucura de un picnic acolo. După-amiaza, un alt autobuz vă duce în portul plin de viață, unde puteți absorbi atmosfera maritimă și încheia ziua relaxat. Un amestec inteligent de cultură urbană și experiență în natură.",
+        "en": "Your day begins in the centre of Skive, which you can comfortably explore on foot, including the church and the museum. At noon, you take the bus to immerse yourself in the green oasis of Krabbesholm Forest and enjoy a picnic there. In the afternoon, another bus takes you to the lively harbour, where you can soak up the maritime atmosphere and end the day in a relaxed way. A clever mix of urban culture and nature experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølser",
+            "tip": "Ein klassischer dänischer Hotdog von einem 'Pølsevogn' (Hotdog-Wagen) ist ein Muss."
+          },
+          {
+            "name": "Fiskefilet med pommes frites",
+            "tip": "Ein einfaches, aber leckeres Gericht, das man oft in den Imbissen am Hafen findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølser",
+            "tip": "Egy klasszikus dán hot dog egy 'Pølsevogn'-tól (hot dog kocsi) kötelező."
+          },
+          {
+            "name": "Fiskefilet med pommes frites",
+            "tip": "Egyszerű, de finom étel, amelyet gyakran találni a kikötői büfékben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølser",
+            "tip": "Un hotdog danez clasic de la un 'Pølsevogn' (cărucior de hotdog) este o necesitate."
+          },
+          {
+            "name": "Fiskefilet med pommes frites",
+            "tip": "Un fel de mâncare simplu, dar delicios, adesea găsit la snack-barurile din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølser",
+            "tip": "A classic Danish hot dog from a 'Pølsevogn' (hot dog cart) is a must."
+          },
+          {
+            "name": "Fiskefilet med pommes frites",
+            "tip": "A simple but delicious dish often found at the snack bars in the harbour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage des Busses",
+            "tip": "Genießen Sie die Aussicht und die ruhige Fahrt aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank in Krabbesholm Skov",
+            "tip": "Finden Sie eine abgelegene Bank und lauschen Sie den Geräuschen des Waldes.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A busz emelete",
+            "tip": "Élvezze a kilátást és a csendes utazást egy másik perspektívából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a Krabbesholm Skov-ban",
+            "tip": "Keressen egy félreeső padot és hallgassa az erdő hangjait.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al autobuzului",
+            "tip": "Bucurați-vă de priveliște și de călătoria liniștită dintr-o altă perspectivă.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în Pădurea Krabbesholm",
+            "tip": "Găsiți o bancă retrasă și ascultați sunetele pădurii.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "The upper deck of the bus",
+            "tip": "Enjoy the view and the quiet ride from a different perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in Krabbesholm Forest",
+            "tip": "Find a secluded bench and listen to the sounds of the forest.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt-Spezialitäten",
+            "tip": "Besuchen Sie einen lokalen Supermarkt wie 'Føtex' oder 'Netto' und entdecken Sie dänische Süßigkeiten und Lakritz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarket specialitások",
+            "tip": "Látogasson el egy helyi szupermarketbe, mint a 'Føtex' vagy a 'Netto', és fedezze fel a dán édességeket és medvecukrot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specialități de supermarket",
+            "tip": "Vizitați un supermarket local precum 'Føtex' sau 'Netto' și descoperiți dulciurile și lemnul dulce daneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarket Specialties",
+            "tip": "Visit a local supermarket like 'Føtex' or 'Netto' and discover Danish sweets and licorice."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die 'Rejseplanen'-App herunter, um Buszeiten in Echtzeit zu verfolgen. Winken Sie dem Busfahrer zu, damit er anhält. Denken Sie daran, dass die Busse am Wochenende seltener fahren."
+        ],
+        "hu": [
+          "Töltse le a 'Rejseplanen' alkalmazást a valós idejű buszmenetrendek követéséhez. Intsen a buszsofőrnek, hogy megálljon. Ne feledje, hogy a buszok hétvégén ritkábban közlekednek."
+        ],
+        "ro": [
+          "Descărcați aplicația 'Rejseplanen' pentru a urmări orarele autobuzelor în timp real. Faceți semn șoferului de autobuz pentru a opri. Rețineți că autobuzele circulă mai rar în weekend."
+        ],
+        "en": [
+          "Download the 'Rejseplanen' app to track bus times in real time. Wave at the bus driver to make sure they stop. Remember that buses may run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1308 @@
+{
+  "city_id": "finland-jarvenpaa-cities-v2",
+  "anchor": {
+    "name": "Järvenpää",
+    "coords": [
+      60.4767,
+      25.0917
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche von Järvenpää",
+            "hu": "Järvenpää-i templom",
+            "ro": "Biserica din Järvenpää",
+            "en": "Järvenpää Church"
+          },
+          "coords": [
+            60.475,
+            25.09
+          ],
+          "category": "churches",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur und die einzigartigen Betonstrukturen.",
+            "hu": "Csodálja meg a modern építészetet és az egyedi betonszerkezeteket.",
+            "ro": "Admirați arhitectura modernă și structurile unice din beton.",
+            "en": "Admire the modern architecture and unique concrete structures."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum Järvenpää",
+            "hu": "Järvenpää Művészeti Múzeum",
+            "ro": "Muzeul de Artă Järvenpää",
+            "en": "Järvenpää Art Museum"
+          },
+          "coords": [
+            60.4715,
+            25.088
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Werke von Venny Soldan-Brofeldt und Eero Järnefelt.",
+            "hu": "Fókuszáljon Venny Soldan-Brofeldt és Eero Järnefelt munkáira.",
+            "ro": "Concentrează-te pe lucrările lui Venny Soldan-Brofeldt și Eero Järnefelt.",
+            "en": "Focus on the works of Venny Soldan-Brofeldt and Eero Järnefelt."
+          }
+        },
+        {
+          "name": {
+            "de": "Rantapuisto",
+            "hu": "Rantapuisto (Parti park)",
+            "ro": "Rantapuisto (Parcul de pe mal)",
+            "en": "Rantapuisto (Shore Park)"
+          },
+          "coords": [
+            60.47,
+            25.095
+          ],
+          "category": "parks",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick am Ufer des Tuusula-Sees.",
+            "hu": "Ideális hely egy piknikhez a Tuusula-tó partján.",
+            "ro": "Un loc ideal pentru un picnic pe malul lacului Tuusula.",
+            "en": "An ideal spot for a picnic on the shore of Lake Tuusula."
+          }
+        },
+        {
+          "name": {
+            "de": "Ahola",
+            "hu": "Ahola",
+            "ro": "Ahola",
+            "en": "Ahola"
+          },
+          "coords": [
+            60.456,
+            25.086
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das Leben des Schriftstellers Juhani Aho und seiner Frau Venny Soldan-Brofeldt.",
+            "hu": "Ismerje meg Juhani Aho író és felesége, Venny Soldan-Brofeldt életét.",
+            "ro": "Aflați despre viața scriitorului Juhani Aho și a soției sale, Venny Soldan-Brofeldt.",
+            "en": "Learn about the life of writer Juhani Aho and his wife Venny Soldan-Brofeldt."
+          }
+        },
+        {
+          "name": {
+            "de": "Ainola",
+            "hu": "Ainola",
+            "ro": "Ainola",
+            "en": "Ainola"
+          },
+          "coords": [
+            60.4536,
+            25.0853
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das ehemalige Wohnhaus von Jean Sibelius. Die Stille im Garten ist inspirierend.",
+            "hu": "Jean Sibelius egykori otthona. A kert csendje inspiráló.",
+            "ro": "Fosta casă a lui Jean Sibelius. Liniștea din grădină este inspiratoare.",
+            "en": "The former home of Jean Sibelius. The silence in the garden is inspiring."
+          }
+        },
+        {
+          "name": {
+            "de": "Halosenniemi",
+            "hu": "Halosenniemi",
+            "ro": "Halosenniemi",
+            "en": "Halosenniemi"
+          },
+          "coords": [
+            60.4497,
+            25.0355
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 2.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Blockhaus-Atelier des Malers Pekka Halonen bietet eine fantastische Aussicht auf den See.",
+            "hu": "Pekka Halonen festő rönkház-műterméből fantasztikus kilátás nyílik a tóra.",
+            "ro": "Atelierul din bușteni al pictorului Pekka Halonen oferă o priveliște fantastică asupra lacului.",
+            "en": "The log studio of painter Pekka Halonen offers a fantastic view of the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der modernen Kirche von Järvenpää, einem Meisterwerk der Architektur des 20. Jahrhunderts. Schlendern Sie mittags zum Kunstmuseum und dann zum Rantapuisto am Seeufer für eine erfrischende Pause. Der Nachmittag ist der berühmten Künstlergemeinschaft am Tuusula-See gewidmet, mit Besuchen in Ahola und Ainola, den Häusern von Schriftstellern und Komponisten. Beenden Sie Ihren Spaziergang am malerischen Halosenniemi, wo Kunst und Natur verschmelzen.",
+        "hu": "Kezdje a napot Järvenpää modern templománál, a 20. századi építészet egyik remekénél. Délben sétáljon el a művészeti múzeumhoz, majd a tóparti Rantapuistóhoz egy frissítő szünetre. A délután a Tuusula-tó híres művészközösségének van szentelve, látogatással Ahola és Ainola otthonokba, ahol írók és zeneszerzők éltek. A sétát a festői Halosenniemiben fejezze be, ahol a művészet és a természet összeolvad.",
+        "ro": "Începeți ziua la biserica modernă din Järvenpää, o capodoperă a arhitecturii secolului XX. La prânz, plimbați-vă la Muzeul de Artă și apoi la parcul de pe mal, Rantapuisto, pentru o pauză revigorantă. După-amiaza este dedicată faimoasei comunități de artiști de pe malul lacului Tuusula, cu vizite la Ahola și Ainola, casele scriitorilor și compozitorilor. Încheiați plimbarea la pitorescul Halosenniemi, unde arta și natura se contopesc.",
+        "en": "Start your day at the modern Järvenpää Church, a masterpiece of 20th-century architecture. At midday, stroll to the Art Museum and then to the lakeside Rantapuisto for a refreshing break. The afternoon is dedicated to the famous artists' community on the shore of Lake Tuusula, with visits to Ahola and Ainola, the homes of writers and composers. End your walk at the picturesque Halosenniemi, where art and nature merge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karjalanpiirakka",
+            "tip": "Probieren Sie diese traditionellen karelischen Piroggen in einem lokalen Café."
+          },
+          {
+            "name": "Grillimakkara",
+            "tip": "Eine gegrillte Wurst, perfekt für einen schnellen Imbiss im Rantapuisto."
+          },
+          {
+            "name": "Korvapuusti",
+            "tip": "Genießen Sie eine finnische Zimtschnecke zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karjalanpiirakka",
+            "tip": "Kóstolja meg ezeket a tradicionális karéliai pirogokat egy helyi kávézóban."
+          },
+          {
+            "name": "Grillimakkara",
+            "tip": "Grillezett kolbász, tökéletes egy gyors harapnivalóhoz a Rantapuistóban."
+          },
+          {
+            "name": "Korvapuusti",
+            "tip": "Élvezzen egy finn fahéjas csigát a kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karjalanpiirakka",
+            "tip": "Încercați aceste plăcinte tradiționale careliene la o cafenea locală."
+          },
+          {
+            "name": "Grillimakkara",
+            "tip": "Un cârnat la grătar, perfect pentru o gustare rapidă în Rantapuisto."
+          },
+          {
+            "name": "Korvapuusti",
+            "tip": "Savurați un rulou finlandez cu scorțișoară cu cafeaua."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karjalanpiirakka",
+            "tip": "Try these traditional Karelian pasties at a local café."
+          },
+          {
+            "name": "Grillimakkara",
+            "tip": "A grilled sausage, perfect for a quick snack in Rantapuisto."
+          },
+          {
+            "name": "Korvapuusti",
+            "tip": "Enjoy a Finnish cinnamon roll with your coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ainolas Garten",
+            "tip": "Finden Sie eine ruhige Bank und lauschen Sie den Geräuschen der Natur, die Sibelius inspirierten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Tuusula-Sees",
+            "tip": "Ein Spaziergang am frühen Abend entlang des Sees bietet eine friedliche Atmosphäre.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ainola kertje",
+            "tip": "Keressen egy csendes padot, és hallgassa a természet hangjait, amelyek Sibeliust inspirálták.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tuusula-tó partja",
+            "tip": "Egy kora esti séta a tó mentén békés hangulatot kínál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Ainola",
+            "tip": "Găsiți o bancă liniștită și ascultați sunetele naturii care l-au inspirat pe Sibelius.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul lacului Tuusula",
+            "tip": "O plimbare de seară devreme de-a lungul lacului oferă o atmosferă pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ainola's Garden",
+            "tip": "Find a quiet bench and listen to the sounds of nature that inspired Sibelius.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Shore of Lake Tuusula",
+            "tip": "An early evening walk along the lake provides a peaceful atmosphere.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsläden",
+            "tip": "Die Läden in Ainola und Halosenniemi bieten einzigartige Souvenirs mit Bezug zu den Künstlern."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Handwerksprodukten und Lebensmitteln im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi boltok",
+            "tip": "Az Ainola és a Halosenniemi boltjai egyedi, a művészekhez kapcsolódó ajándéktárgyakat kínálnak."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi kézműves termékeket és élelmiszereket a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Magazinele de la Ainola și Halosenniemi oferă suveniruri unice legate de artiști."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse artizanale locale și alimente în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Shops",
+            "tip": "The shops at Ainola and Halosenniemi offer unique souvenirs related to the artists."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for local handicrafts and food products in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe, da Sie eine beträchtliche Strecke zurücklegen werden.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese saisonal variieren können.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Ein Insektenschutzmittel kann im Sommer in der Nähe des Sees nützlich sein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel jelentős távolságot fog megtenni.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mivel az szezonálisan változhat.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Nyáron a tó közelében hasznos lehet a rovarriasztó."
+        ],
+        "ro": [
+          "Purtați pantofi de mers confortabili, deoarece veți parcurge o distanță considerabilă.",
+          "Verificați în avans orele de deschidere ale muzeelor, deoarece acestea pot varia sezonier.",
+          "Luați cu dvs. o sticlă de apă reutilizabilă.",
+          "Repelentul pentru insecte poate fi util lângă lac în timpul verii."
+        ],
+        "en": [
+          "Wear comfortable walking shoes as you'll be covering a considerable distance.",
+          "Check the opening hours of the museums in advance, as they can vary seasonally.",
+          "Bring a reusable water bottle.",
+          "Insect repellent can be useful near the lake during the summer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 18.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kunstmuseum Järvenpää",
+            "hu": "Järvenpää Művészeti Múzeum",
+            "ro": "Muzeul de Artă Järvenpää",
+            "en": "Järvenpää Art Museum"
+          },
+          "coords": [
+            60.4715,
+            25.088
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um sich auf die Künstlergemeinschaft am See einzustimmen.",
+            "hu": "Kezdje itt, hogy ráhangolódjon a tavi művészközösségre.",
+            "ro": "Începeți de aici pentru a intra în atmosfera comunității de artiști de pe malul lacului.",
+            "en": "Start here to get in the mood for the artists' community by the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Ahola",
+            "hu": "Ahola",
+            "ro": "Ahola",
+            "en": "Ahola"
+          },
+          "coords": [
+            60.456,
+            25.086
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze und angenehme Radtour vom Stadtzentrum entfernt.",
+            "hu": "Rövid és kellemes bicikliút a városközpontból.",
+            "ro": "O plimbare scurtă și plăcută cu bicicleta din centrul orașului.",
+            "en": "A short and pleasant bike ride from the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Ainola",
+            "hu": "Ainola",
+            "ro": "Ainola",
+            "en": "Ainola"
+          },
+          "coords": [
+            60.4536,
+            25.0853
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie einen Spaziergang durch Sibelius' Garten.",
+            "hu": "Parkolja le a kerékpárt, és sétáljon egyet Sibelius kertjében.",
+            "ro": "Parcați bicicleta și bucurați-vă de o plimbare prin grădina lui Sibelius.",
+            "en": "Park your bike and enjoy a walk through Sibelius's garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Kokkonen",
+            "hu": "Villa Kokkonen",
+            "ro": "Villa Kokkonen",
+            "en": "Villa Kokkonen"
+          },
+          "coords": [
+            60.453,
+            25.078
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein von Alvar Aalto entworfenes architektonisches Juwel, das einen Besuch wert ist.",
+            "hu": "Alvar Aalto által tervezett építészeti gyöngyszem, érdemes meglátogatni.",
+            "ro": "O bijuterie arhitecturală proiectată de Alvar Aalto, care merită vizitată.",
+            "en": "An architectural gem designed by Alvar Aalto, well worth the visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Halosenniemi",
+            "hu": "Halosenniemi",
+            "ro": "Halosenniemi",
+            "en": "Halosenniemi"
+          },
+          "coords": [
+            60.4497,
+            25.0355
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour um die Bucht zu diesem Ort ist besonders malerisch.",
+            "hu": "A kerékpárút az öböl körül ide különösen festői.",
+            "ro": "Plimbarea cu bicicleta în jurul golfului până la această locație este deosebit de pitorească.",
+            "en": "The bike ride around the bay to this location is especially scenic."
+          }
+        },
+        {
+          "name": {
+            "de": "Kallio-Kuninkala",
+            "hu": "Kallio-Kuninkala",
+            "ro": "Kallio-Kuninkala",
+            "en": "Kallio-Kuninkala"
+          },
+          "coords": [
+            60.455,
+            25.038
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:52",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Besuchen Sie das Café auf dem Gelände für eine wohlverdiente Pause.",
+            "hu": "Látogasson el a helyszínen található kávézóba egy jól megérdemelt szünetért.",
+            "ro": "Vizitați cafeneaua de pe proprietate pentru o pauză binemeritată.",
+            "en": "Visit the café on the grounds for a well-deserved break."
+          }
+        },
+        {
+          "name": {
+            "de": "Rantapuisto",
+            "hu": "Rantapuisto (Parti park)",
+            "ro": "Rantapuisto (Parcul de pe mal)",
+            "en": "Rantapuisto (Shore Park)"
+          },
+          "coords": [
+            60.47,
+            25.095
+          ],
+          "category": "parks",
+          "arrive_at": "17:14",
+          "stay_min": 64,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 5.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannten Zeit in diesem Park am See.",
+            "hu": "Fejezze be a kerékpártúrát egy pihentető időtöltéssel ebben a tóparti parkban.",
+            "ro": "Încheiați turul cu bicicleta cu un moment de relaxare în acest parc de pe malul lacului.",
+            "en": "End your bike tour with some relaxing time in this lakeside park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour um den Tuusula-See ist der beste Weg, die Künstlerkolonie zu erleben. Beginnen Sie beim Kunstmuseum, radeln Sie dann nach Süden zu den historischen Häusern Ahola, Ainola und Villa Kokkonen. Jedes bietet einen einzigartigen Einblick in das finnische Kulturleben. Überqueren Sie den See für die atemberaubende Landschaft von Halosenniemi und Kallio-Kuninkala. Schließen Sie den Kreis zurück zum Rantapuisto, um sich nach einem Tag voller Kunst und Natur zu entspannen.",
+        "hu": "A Tuusula-tó körüli kerékpártúra a legjobb módja a művésztelep felfedezésének. Kezdje a Művészeti Múzeumnál, majd tekerjen délre a történelmi Ahola, Ainola és Villa Kokkonen házakhoz. Mindegyik egyedi bepillantást nyújt a finn kulturális életbe. Keljen át a tavon a lélegzetelállító Halosenniemi és Kallio-Kuninkala tájaiért. A kört a Rantapuistóban zárja, ahol pihenhet egy művészettel és természettel teli nap után.",
+        "ro": "Un tur cu bicicleta în jurul lacului Tuusula este cel mai bun mod de a experimenta colonia artiștilor. Începeți de la Muzeul de Artă, apoi pedalați spre sud către casele istorice Ahola, Ainola și Villa Kokkonen. Fiecare oferă o perspectivă unică asupra vieții culturale finlandeze. Traversați lacul pentru peisajul uluitor de la Halosenniemi și Kallio-Kuninkala. Încheiați circuitul înapoi la Rantapuisto pentru a vă relaxa după o zi plină de artă și natură.",
+        "en": "A bike tour around Lake Tuusula is the best way to experience the artists' colony. Start at the Art Museum, then cycle south to the historic homes of Ahola, Ainola, and Villa Kokkonen. Each offers a unique glimpse into Finnish cultural life. Cross the lake for the stunning scenery of Halosenniemi and Kallio-Kuninkala. Complete the loop back at Rantapuisto to unwind after a day of art and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lohikeitto",
+            "tip": "Eine cremige Lachssuppe, die nach einer langen Radtour perfekt ist."
+          },
+          {
+            "name": "Mustikkapiirakka",
+            "tip": "Finnischer Heidelbeerkuchen, oft in den Cafés der Museen erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lohikeitto",
+            "tip": "Krémes lazacleves, tökéletes egy hosszú biciklizés után."
+          },
+          {
+            "name": "Mustikkapiirakka",
+            "tip": "Finn áfonyás pite, gyakran kapható a múzeumok kávézóiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lohikeitto",
+            "tip": "O supă cremă de somon, perfectă după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Mustikkapiirakka",
+            "tip": "Tartă finlandeză cu afine, adesea disponibilă la cafenelele muzeelor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lohikeitto",
+            "tip": "A creamy salmon soup, perfect after a long bike ride."
+          },
+          {
+            "name": "Mustikkapiirakka",
+            "tip": "Finnish blueberry pie, often available at the museum cafés."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am See",
+            "tip": "Es gibt viele ruhige Abschnitte entlang des Weges, um anzuhalten und die Aussicht zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Halosenniemi",
+            "tip": "Die Lage auf der Halbinsel ist ideal, um den Sonnenuntergang über dem See zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tóparti kerékpárút",
+            "tip": "Az út mentén sok csendes szakasz található, ahol megállhat és élvezheti a kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente Halosennieminél",
+            "tip": "A félsziget elhelyezkedése ideális a naplemente megcsodálására a tó felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul lacului",
+            "tip": "Există multe secțiuni liniștite de-a lungul traseului pentru a opri și a admira priveliștea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare la Halosenniemi",
+            "tip": "Locația peninsulei este ideală pentru a privi apusul peste lac.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside bike path",
+            "tip": "There are many quiet sections along the path to stop and enjoy the view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at Halosenniemi",
+            "tip": "The peninsula location is ideal for watching the sunset over the lake.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih",
+            "tip": "Mieten Sie ein Fahrrad im Stadtzentrum oder in der Nähe des Bahnhofs für den Tag."
+          },
+          {
+            "name": "Atelierläden",
+            "tip": "Viele Künstlerhäuser haben kleine Läden mit einzigartigen Drucken und Handarbeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönző",
+            "tip": "Béreljen kerékpárt a városközpontban vagy a vasútállomás közelében egy napra."
+          },
+          {
+            "name": "Műterem boltok",
+            "tip": "Sok művészháznak van kis boltja, ahol egyedi nyomatokat és kézműves termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închiriere de biciclete",
+            "tip": "Închiriați o bicicletă din centrul orașului sau de lângă gară pentru o zi."
+          },
+          {
+            "name": "Magazine de atelier",
+            "tip": "Multe dintre casele artiștilor au mici magazine care vând printuri și obiecte de artizanat unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rentals",
+            "tip": "Rent a bike from the city center or near the train station for the day."
+          },
+          {
+            "name": "Studio Shops",
+            "tip": "Many of the artists' homes have small shops selling unique prints and handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie einen Helm und ein Fahrradschloss mit.",
+          "Der Radweg um den See ist etwa 25 km lang, planen Sie also entsprechend.",
+          "Das Gelände ist größtenteils flach und für die meisten Fitnesslevel geeignet.",
+          "Einige Abschnitte des Weges können unbefestigt sein."
+        ],
+        "hu": [
+          "Hozzon sisakot és kerékpárzárat.",
+          "A tó körüli kerékpárút körülbelül 25 km hosszú, tervezzen ennek megfelelően.",
+          "A terep többnyire sík, a legtöbb edzettségi szintnek megfelelő.",
+          "Az út egyes szakaszai lehetnek burkolatlanok."
+        ],
+        "ro": [
+          "Aduceți o cască și un lacăt pentru bicicletă.",
+          "Pista de biciclete în jurul lacului are o lungime de aproximativ 25 km, așa că planificați-vă în consecință.",
+          "Terenul este în mare parte plat, potrivit pentru majoritatea nivelurilor de fitness.",
+          "Unele secțiuni ale traseului pot fi neasfaltate."
+        ],
+        "en": [
+          "Bring a helmet and a bike lock.",
+          "The bike path around the lake is about 25km, so plan accordingly.",
+          "The terrain is mostly flat, suitable for most fitness levels.",
+          "Some sections of the path may be unpaved."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Halosenniemi",
+            "hu": "Halosenniemi",
+            "ro": "Halosenniemi",
+            "en": "Halosenniemi"
+          },
+          "coords": [
+            60.4497,
+            25.0355
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier für die beste Morgenlicht-Aussicht. Parken Sie und erkunden Sie die Umgebung.",
+            "hu": "Kezdje itt a legjobb reggeli fényekért. Parkoljon le, és fedezze fel a környéket.",
+            "ro": "Începeți de aici pentru cea mai bună priveliște în lumina dimineții. Parcați și explorați zona.",
+            "en": "Start here for the best morning light views. Park and explore the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kallio-Kuninkala",
+            "hu": "Kallio-Kuninkala",
+            "ro": "Kallio-Kuninkala",
+            "en": "Kallio-Kuninkala"
+          },
+          "coords": [
+            60.455,
+            25.038
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von Halosenniemi durch den Wald.",
+            "hu": "Rövid séta Halosenniemiből az erdőn keresztül.",
+            "ro": "O plimbare scurtă prin pădure de la Halosenniemi.",
+            "en": "A short walk from Halosenniemi through the woods."
+          }
+        },
+        {
+          "name": {
+            "de": "Ainola",
+            "hu": "Ainola",
+            "ro": "Ainola",
+            "en": "Ainola"
+          },
+          "coords": [
+            60.4536,
+            25.0853
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Künstlerheim-Cluster. Es gibt einen eigenen Parkplatz.",
+            "hu": "Vezessen a következő művészotthon-csoporthoz. Saját parkolója van.",
+            "ro": "Conduceți la următorul grup de case ale artiștilor. Există o parcare dedicată.",
+            "en": "Drive to the next cluster of artists' homes. There is a dedicated parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ahola",
+            "hu": "Ahola",
+            "ro": "Ahola",
+            "en": "Ahola"
+          },
+          "coords": [
+            60.456,
+            25.086
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Leicht zu Fuß von Ainola aus zu erreichen.",
+            "hu": "Könnyen megközelíthető gyalog Ainolából.",
+            "ro": "Ușor de ajuns pe jos de la Ainola.",
+            "en": "Easily walkable from Ainola."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum Järvenpää",
+            "hu": "Järvenpää Művészeti Múzeum",
+            "ro": "Muzeul de Artă Järvenpää",
+            "en": "Järvenpää Art Museum"
+          },
+          "coords": [
+            60.4715,
+            25.088
+          ],
+          "category": "museums",
+          "arrive_at": "14:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Stadtzentrum und parken Sie. Das Museum ist Teil des letzten Clusters.",
+            "hu": "Vezessen a városközpontba és parkoljon le. A múzeum az utolsó csoport része.",
+            "ro": "Conduceți în centrul orașului și parcați. Muzeul face parte din ultimul grup.",
+            "en": "Drive into the city center and park. The museum is part of the final cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Järvenpää",
+            "hu": "Järvenpää-i templom",
+            "ro": "Biserica din Järvenpää",
+            "en": "Järvenpää Church"
+          },
+          "coords": [
+            60.475,
+            25.09
+          ],
+          "category": "churches",
+          "arrive_at": "16:20",
+          "stay_min": 87,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum, um den Tag mit architektonischer Betrachtung abzuschließen.",
+            "hu": "Rövid séta a múzeumtól, hogy a napot építészeti szemlélődéssel zárja.",
+            "ro": "O scurtă plimbare de la muzeu pentru a încheia ziua cu o contemplare arhitecturală.",
+            "en": "A short walk from the museum to end the day with architectural contemplation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um zwischen Clustern von Sehenswürdigkeiten zu wechseln. Beginnen Sie auf der Halbinsel Halosenniemi, wo Sie parken und zu Fuß zum nahegelegenen Kallio-Kuninkala gehen. Fahren Sie dann zur Südseite des Sees für das Ainola-Ahola-Cluster. Nach dem Mittagessen fahren Sie ins Zentrum von Järvenpää, parken dort und erkunden den letzten Cluster zu Fuß, der das Kunstmuseum und die moderne Kirche umfasst. Dieser Ansatz maximiert Ihre Zeit an jedem Ort und minimiert den Parkstress.",
+        "hu": "Használja az autóját a látnivalók csoportjai közötti váltáshoz. Kezdje a Halosenniemi-félszigeten, ahol leparkolhat és átsétálhat a közeli Kallio-Kuninkala-hoz. Ezután vezessen a tó déli oldalához az Ainola-Ahola csoporthoz. Ebéd után irány Järvenpää központja, parkoljon le, és fedezze fel gyalog az utolsó csoportot, amely a Művészeti Múzeumot és a modern templomot foglalja magában. Ez a megközelítés maximalizálja az egyes helyszíneken töltött időt és minimalizálja a parkolási stresszt.",
+        "ro": "Folosiți mașina pentru a vă deplasa între grupurile de atracții. Începeți la peninsula Halosenniemi, unde puteți parca și merge pe jos până la apropiatul Kallio-Kuninkala. Apoi, conduceți spre partea de sud a lacului pentru grupul Ainola-Ahola. După prânz, mergeți în centrul orașului Järvenpää, parcați și explorați pe jos ultimul grup, care include Muzeul de Artă și biserica modernă. Această abordare maximizează timpul petrecut la fiecare locație și minimizează stresul parcării.",
+        "en": "Use your car to hop between clusters of sights. Start at the Halosenniemi peninsula, where you can park and walk to the nearby Kallio-Kuninkala. Then, drive to the south side of the lake for the Ainola-Ahola cluster. After lunch, head into Järvenpää center, park, and explore the final cluster on foot, which includes the Art Museum and the modern church. This approach maximizes your time at each location and minimizes parking stress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Krapihovi",
+            "tip": "Ein Restaurant in der Nähe der Künstlerhäuser, das finnische Küche anbietet."
+          },
+          {
+            "name": "Huvila",
+            "tip": "Ein stilvolles Restaurant im Stadtzentrum von Järvenpää für das Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Krapihovi",
+            "tip": "A művészotthonok közelében található étterem, amely finn konyhát kínál."
+          },
+          {
+            "name": "Huvila",
+            "tip": "Stílusos étterem Järvenpää városközpontjában vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Krapihovi",
+            "tip": "Un restaurant lângă casele artiștilor care servește bucătărie finlandeză."
+          },
+          {
+            "name": "Huvila",
+            "tip": "Un restaurant elegant în centrul orașului Järvenpää pentru cină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Krapihovi",
+            "tip": "A restaurant near the artists' homes serving Finnish cuisine."
+          },
+          {
+            "name": "Huvila",
+            "tip": "A stylish restaurant in Järvenpää city center for dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkte entlang der Straße",
+            "tip": "Halten Sie an den ausgewiesenen Plätzen an, um die Aussicht auf den See zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ainolas Wald",
+            "tip": "Machen Sie einen kurzen Spaziergang auf den Wegen hinter dem Haus.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópontok az út mentén",
+            "tip": "Álljon meg a kijelölt helyeken, hogy élvezze a tóra nyíló kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ainola erdeje",
+            "tip": "Tegyen egy rövid sétát a ház mögötti ösvényeken.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puncte de belvedere de-a lungul drumului",
+            "tip": "Opriți în locurile desemnate pentru a admira priveliștea lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurea Ainola",
+            "tip": "Faceți o scurtă plimbare pe potecile din spatele casei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoints along the road",
+            "tip": "Pull over at designated spots to enjoy the view of the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ainola's forest",
+            "tip": "Take a short walk on the trails behind the house.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käsityöläisten Paja",
+            "tip": "Ein Handwerkerladen mit lokalen Produkten, oft in der Nähe der Touristenzentren."
+          },
+          {
+            "name": "Einkaufszentrum Sello",
+            "tip": "Wenn Sie mehr Einkaufsmöglichkeiten benötigen, ist dies eine kurze Autofahrt entfernt in Espoo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Käsityöläisten Paja",
+            "tip": "Kézműves bolt helyi termékekkel, gyakran a turisztikai központok közelében."
+          },
+          {
+            "name": "Sello bevásárlóközpont",
+            "tip": "Ha több vásárlási lehetőségre van szüksége, ez egy rövid autóútra található Espoo-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Käsityöläisten Paja",
+            "tip": "Un magazin de artizanat cu produse locale, adesea găsit în apropierea centrelor turistice."
+          },
+          {
+            "name": "Centrul comercial Sello",
+            "tip": "Dacă aveți nevoie de mai multe opțiuni de cumpărături, acesta se află la o scurtă călătorie cu mașina în Espoo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Käsityöläisten Paja",
+            "tip": "A craftsman shop with local products, often found near the tourist centers."
+          },
+          {
+            "name": "Sello Shopping Centre",
+            "tip": "If you need more shopping options, this is a short drive away in Espoo."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "An den meisten Sehenswürdigkeiten gibt es ausgewiesene Parkplätze, aber an Wochenenden kann es voll werden.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen, insbesondere in Wohngebieten.",
+          "Ein GPS ist unerlässlich, um zwischen den Standorten zu navigieren.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, insbesondere während der Hauptverkehrszeiten."
+        ],
+        "hu": [
+          "A legtöbb látnivalónál van kijelölt parkoló, de hétvégén zsúfolt lehet.",
+          "Vegye figyelembe a sebességkorlátozásokat, különösen a lakóövezetekben.",
+          "GPS elengedhetetlen a helyszínek közötti navigáláshoz.",
+          "Tervezzen plusz időt a forgalomra, különösen csúcsidőben."
+        ],
+        "ro": [
+          "Există parcare desemnată la majoritatea atracțiilor, dar poate fi aglomerată în weekend.",
+          "Fiți atenți la limitele de viteză, în special în zonele rezidențiale.",
+          "Un GPS este esențial pentru a naviga între locații.",
+          "Planificați timp suplimentar pentru trafic, în special în timpul orelor de vârf."
+        ],
+        "en": [
+          "There is designated parking at most sights, but it can get busy on weekends.",
+          "Be mindful of speed limits, especially in residential areas.",
+          "A GPS is essential for navigating between locations.",
+          "Plan for extra time for traffic, especially during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 11.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche von Järvenpää",
+            "hu": "Järvenpää-i templom",
+            "ro": "Biserica din Järvenpää",
+            "en": "Järvenpää Church"
+          },
+          "coords": [
+            60.475,
+            25.09
+          ],
+          "category": "churches",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag in der Nähe des Bahnhofs für einen einfachen Zugang.",
+            "hu": "Kezdje a napot a vasútállomás közelében a könnyű megközelíthetőség érdekében.",
+            "ro": "Începeți ziua lângă gară pentru acces facil.",
+            "en": "Start your day near the train station for easy access."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum Järvenpää",
+            "hu": "Järvenpää Művészeti Múzeum",
+            "ro": "Muzeul de Artă Järvenpää",
+            "en": "Järvenpää Art Museum"
+          },
+          "coords": [
+            60.4715,
+            25.088
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche aus, Teil des ersten Wanderclusters.",
+            "hu": "Rövid séta a templomtól, az első gyalogos csoport része.",
+            "ro": "O scurtă plimbare de la biserică, parte a primului grup de mers pe jos.",
+            "en": "A short walk from the church, part of the first walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Ainola",
+            "hu": "Ainola",
+            "ro": "Ainola",
+            "en": "Ainola"
+          },
+          "coords": [
+            60.4536,
+            25.0853
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus vom Stadtzentrum. Die Fahrt dauert etwa 15-20 Minuten.",
+            "hu": "Menjen helyi busszal a városközpontból. Az út körülbelül 15-20 percig tart.",
+            "ro": "Luați un autobuz local din centrul orașului. Călătoria durează aproximativ 15-20 de minute.",
+            "en": "Take a local bus from the city center. The journey takes about 15-20 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Ahola",
+            "hu": "Ahola",
+            "ro": "Ahola",
+            "en": "Ahola"
+          },
+          "coords": [
+            60.456,
+            25.086
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein sehr kurzer Spaziergang von der Bushaltestelle Ainola.",
+            "hu": "Nagyon rövid séta az Ainola buszmegállótól.",
+            "ro": "O plimbare foarte scurtă de la stația de autobuz Ainola.",
+            "en": "A very short walk from the Ainola bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Halosenniemi",
+            "hu": "Halosenniemi",
+            "ro": "Halosenniemi",
+            "en": "Halosenniemi"
+          },
+          "coords": [
+            60.4497,
+            25.0355
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:46",
+          "stay_min": 145,
+          "hop_from_prev_min": 61,
+          "hop_from_prev_km": 7.1,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum und einen anderen Bus in Richtung Tuusula.",
+            "hu": "Menjen busszal vissza a központba, majd egy másik busszal Tuusula irányába.",
+            "ro": "Luați un autobuz înapoi în centru și altul spre Tuusula.",
+            "en": "Take a bus back to the center and another bus towards Tuusula."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Järvenpää mit öffentlichen Verkehrsmitteln. Beginnen Sie im Zentrum mit einem Spaziergang zwischen der Kirche und dem Kunstmuseum. Nehmen Sie dann einen Bus nach Süden, um das Cluster Ainola und Ahola zu erkunden. Am Nachmittag bringt Sie eine weitere Busfahrt zur malerischen Halbinsel Halosenniemi. Dieser Plan ermöglicht es Ihnen, die wichtigsten Sehenswürdigkeiten ohne Auto zu sehen und dabei die lokalen Busse für die längeren Strecken zu nutzen.",
+        "hu": "Fedezze fel Järvenpäät tömegközlekedéssel. Kezdje a központban egy sétával a templom és a Művészeti Múzeum között. Ezután menjen busszal délre, hogy felfedezze az Ainola és Ahola csoportot. Délután egy másik buszjárattal juthat el a festői Halosenniemi-félszigetre. Ez a terv lehetővé teszi, hogy autó nélkül is megnézze a főbb látnivalókat, a hosszabb távolságokra a helyi buszokat használva.",
+        "ro": "Explorați Järvenpää folosind transportul public. Începeți în centru cu o plimbare între biserică și Muzeul de Artă. Apoi, luați un autobuz spre sud pentru a explora grupul Ainola și Ahola. După-amiaza, o altă călătorie cu autobuzul vă va duce la pitoreasca peninsulă Halosenniemi. Acest plan vă permite să vedeți principalele atracții fără mașină, folosind autobuzele locale pentru distanțe mai lungi.",
+        "en": "Explore Järvenpää using public transport. Start in the center with a walk between the church and the Art Museum. Then, take a bus south to explore the Ainola and Ahola cluster. In the afternoon, another bus ride will take you to the scenic Halosenniemi peninsula. This plan allows you to see the main sights without a car, using local buses for the longer stretches."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Cafés",
+            "tip": "Entlang der Buslinien gibt es mehrere Cafés für eine schnelle Pause."
+          },
+          {
+            "name": "Supermarkt-Snacks",
+            "tip": "Kaufen Sie Snacks in einem Supermarkt im Stadtzentrum für Ihr Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kávézók",
+            "tip": "A buszvonalak mentén több kávézó is található egy gyors szünetre."
+          },
+          {
+            "name": "Szupermarket harapnivalók",
+            "tip": "Vásároljon harapnivalókat a piknikhez egy szupermarketben a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele locale",
+            "tip": "Există mai multe cafenele de-a lungul rutelor de autobuz pentru o pauză rapidă."
+          },
+          {
+            "name": "Gustări de la supermarket",
+            "tip": "Cumpărați gustări pentru picnic de la un supermarket din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cafés",
+            "tip": "There are several cafés along the bus routes for a quick break."
+          },
+          {
+            "name": "Supermarket snacks",
+            "tip": "Buy snacks for your picnic from a supermarket in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt-Aussichten",
+            "tip": "Genießen Sie die wechselnden Landschaften aus dem Busfenster.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang zur Bushaltestelle",
+            "tip": "Die kurzen Spaziergänge von den Haltestellen zu den Museen sind oft ruhig und angenehm.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a buszról",
+            "tip": "Élvezze a változó tájakat a busz ablakából.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a buszmegállóhoz",
+            "tip": "A megállóktól a múzeumokig tartó rövid séták gyakran csendesek és kellemesek.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliști din autobuz",
+            "tip": "Bucurați-vă de peisajele schimbătoare de la fereastra autobuzului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare până la stația de autobuz",
+            "tip": "Plimbările scurte de la stații la muzee sunt adesea liniștite și plăcute.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride views",
+            "tip": "Enjoy the changing scenery from the bus window.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk to the bus stop",
+            "tip": "The short walks from the stops to the museums are often quiet and pleasant.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofskiosk",
+            "tip": "Kaufen Sie Fahrkarten und kleine Snacks am Kiosk in der Nähe des Bahnhofs."
+          },
+          {
+            "name": "Järvenpään Kukkatalo",
+            "tip": "Ein berühmtes Gartencenter und Geschäft, erreichbar mit dem Bus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasútállomási kioszk",
+            "tip": "Vásároljon jegyeket és apró harapnivalókat az állomás közelében lévő kioszkban."
+          },
+          {
+            "name": "Järvenpään Kukkatalo",
+            "tip": "Híres kertészeti központ és üzlet, busszal elérhető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul de la gară",
+            "tip": "Cumpărați bilete și gustări mici de la chioșcul de lângă gară."
+          },
+          {
+            "name": "Järvenpään Kukkatalo",
+            "tip": "Un centru de grădinărit și magazin renumit, accesibil cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Train station kiosk",
+            "tip": "Buy tickets and small snacks from the kiosk near the station."
+          },
+          {
+            "name": "Järvenpään Kukkatalo",
+            "tip": "A famous garden center and shop, reachable by bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die HSL-App herunter, um Routen und Fahrpläne in Echtzeit zu sehen.",
+          "Beachten Sie, dass Busse auf dem Land seltener fahren, insbesondere an Wochenenden.",
+          "Winken Sie dem Busfahrer, damit er an Ihrer Haltestelle anhält."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a HSL alkalmazást az útvonalak és a valós idejű menetrendek megtekintéséhez.",
+          "Vegye figyelembe, hogy a vidéki buszok ritkábban közlekednek, különösen hétvégén.",
+          "Intsen a buszsofőrnek, hogy megálljon a megállójában."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația HSL pentru a vedea rutele și orarele în timp real.",
+          "Rețineți că autobuzele din zonele rurale pot circula mai rar, în special în weekend.",
+          "Faceți semn șoferului de autobuz pentru a opri la stația dvs."
+        ],
+        "en": [
+          "Buy a day ticket for unlimited travel.",
+          "Download the HSL app for real-time routes and schedules.",
+          "Be aware that rural buses may run less frequently, especially on weekends.",
+          "Wave for the bus to stop at your stop."
+        ]
+      }
+    }
+  }
+}

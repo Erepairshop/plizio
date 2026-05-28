@@ -1,0 +1,1484 @@
+{
+  "city_id": "luxembourg-dudelange-cities-v2",
+  "anchor": {
+    "name": "Düdelingen",
+    "coords": [
+      6.0833,
+      49.48
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            6.0835,
+            49.4802
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Stadtleben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, privind viața orașului.",
+            "en": "Start your day here with a coffee and watch the town life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin-Kirche",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Saint Martin's Church"
+          },
+          "coords": [
+            6.0852,
+            49.4795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Glasfenster, die einen Kontrast zur neugotischen Architektur bilden.",
+            "hu": "Csodálja meg a modern ólomüveg ablakokat, melyek kontrasztot alkotnak a neogótikus építészettel.",
+            "ro": "Admirați vitraliile moderne care contrastează cu arhitectura neogotică.",
+            "en": "Admire the modern stained-glass windows that contrast with the neo-Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm-Galerie",
+            "hu": "Víztorony Galéria",
+            "ro": "Galeria Turnului de Apă",
+            "en": "Water Tower Gallery"
+          },
+          "coords": [
+            6.082,
+            49.4775
+          ],
+          "category": "museums",
+          "arrive_at": "10:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einzigartiger Ausstellungsort. Prüfen Sie das aktuelle Programm.",
+            "hu": "Egyedi kiállítótér. Ellenőrizze az aktuális programot.",
+            "ro": "Un spațiu expozițional unic. Verificați programul actual.",
+            "en": "A unique exhibition space. Check the current schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "CDMH Migrationsmuseum",
+            "hu": "CDMH Migrációs Múzeum",
+            "ro": "Muzeul Migrației CDMH",
+            "en": "CDMH Migration Museum"
+          },
+          "coords": [
+            6.0815,
+            49.477
+          ],
+          "category": "museums",
+          "arrive_at": "11:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Geschichte der Einwanderung in der Region, die Düdelingen geprägt hat.",
+            "hu": "Ismerje meg a bevándorlás történetét, amely formálta Düdelingen városát.",
+            "ro": "Aflați despre istoria imigrației care a modelat orașul Dudelange.",
+            "en": "Learn about the history of immigration that shaped the Dudelange region."
+          }
+        },
+        {
+          "name": {
+            "de": "CNA Audiovisuelles Zentrum",
+            "hu": "CNA Audiovizuális Központ",
+            "ro": "Centrul Național al Audiovizualului (CNA)",
+            "en": "CNA National Audiovisual Centre"
+          },
+          "coords": [
+            6.0818,
+            49.4765
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause mit Film oder Fotografie.",
+            "hu": "Tökéletes egy ebédszünetre filmmel vagy fotókiállítással.",
+            "ro": "Perfect pentru o pauză de prânz cu film sau fotografie.",
+            "en": "Perfect for a lunch break involving film or photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Mont St. Jean",
+            "hu": "Mont St. Jean várrom",
+            "ro": "Ruinele Castelului Mont St. Jean",
+            "en": "Mont St. Jean Castle Ruins"
+          },
+          "coords": [
+            6.075,
+            49.475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tragen Sie festes Schuhwerk für den Aufstieg. Die Aussicht ist die Belohnung.",
+            "hu": "Viseljen erős cipőt a mászáshoz. A kilátás a jutalom.",
+            "ro": "Purtați încălțăminte solidă pentru urcare. Priveliștea este recompensa.",
+            "en": "Wear sturdy shoes for the climb. The view is your reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Le'h",
+            "hu": "Le'h Park",
+            "ro": "Parcul Le'h",
+            "en": "Parc Le'h"
+          },
+          "coords": [
+            6.088,
+            49.483
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages inmitten der Natur.",
+            "hu": "Egy pihentető befejezése a napnak a természet közepén.",
+            "ro": "O încheiere relaxantă a zilei în mijlocul naturii.",
+            "en": "A relaxing end to the day surrounded by nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Düdelingen beginnt am lebhaften Rathausplatz. Nach einem Besuch der beeindruckenden Saint-Martin-Kirche tauchen Sie in die Kultur ein. Die Wasserturm-Galerie und das Migrationsmuseum enthüllen die vielschichtige Geschichte und Kunst der Stadt.\nAm Mittag vertiefen Sie sich im CNA in die Welt des Audiovisuellen, eine perfekte Mischung aus Bildung und Unterhaltung. Nach dieser modernen Erfahrung machen Sie einen historischen Spaziergang zu den alten Ruinen der Burg Mont St. Jean, die über der Stadt thront.\nDer Nachmittag ist für die Erkundung der Burgruine reserviert, wo Sie die Vergangenheit spüren und die Aussicht genießen können. Der Kontrast zwischen den alten Steinen und der modernen Stadt unten ist faszinierend.\nZum Abschluss Ihres Tages spazieren Sie zum Parc Le'h. Es ist der ideale Ort, um sich zu entspannen, die Eindrücke des Tages zu verarbeiten und die friedliche Atmosphäre zu genießen, bevor Sie den Abend beginnen.",
+        "hu": "A nap Düdelingenben a nyüzsgő Városháza téren kezdődik. A lenyűgöző Szent Márton-templom meglátogatása után elmerülhet a kultúrában. A Víztorony Galéria és a Migrációs Múzeum feltárja a város sokrétű történelmét és művészetét.\nDélben a CNA-ban elmélyülhet az audiovizuális világban, amely a tanulás és a szórakozás tökéletes keveréke. E modern élmény után tegyen egy történelmi sétát a város fölé magasodó Mont St. Jean várromjához.\nA délután a várrom felfedezésére van fenntartva, ahol átérezheti a múltat és élvezheti a kilátást. Az ősi kövek és az alatta elterülő modern város közötti kontraszt lenyűgöző.\nA nap lezárásaként sétáljon el a Le'h parkba. Ez az ideális hely a pihenésre, a napi benyomások feldolgozására és a békés hangulat élvezetére, mielőtt belevágna az estébe.",
+        "ro": "Ziua dumneavoastră în Dudelange începe în vibranta Piață a Primăriei. După o vizită la impresionanta Biserică Sfântul Martin, vă scufundați în cultură. Galeria Turnului de Apă și Muzeul Migrației dezvăluie istoria și arta complexă a orașului.\nLa prânz, vă adânciți în lumea audiovizualului la CNA, un amestec perfect de educație și divertisment. După această experiență modernă, faceți o plimbare istorică spre ruinele vechi ale Castelului Mont St. Jean, care veghează asupra orașului.\nDupă-amiaza este rezervată explorării ruinelor castelului, unde puteți simți trecutul și vă puteți bucura de priveliște. Contrastul dintre pietrele vechi și orașul modern de dedesubt este fascinant.\nPentru a încheia ziua, faceți o plimbare până în Parcul Le'h. Este locul ideal pentru a vă relaxa, a procesa impresiile zilei și a vă bucura de atmosfera pașnică înainte de a începe seara.",
+        "en": "Your day in Dudelange starts at the vibrant Town Hall Square. After a visit to the impressive Saint Martin's Church, you'll dive into the culture. The Water Tower Gallery and the Migration Museum reveal the city's complex history and art.\nAt midday, you'll delve into the world of audiovisuals at the CNA, a perfect mix of education and entertainment. After this modern experience, take a historic walk to the ancient ruins of Mont St. Jean Castle, which overlooks the city.\nThe afternoon is reserved for exploring the castle ruins, where you can feel the past and enjoy the view. The contrast between the old stones and the modern city below is fascinating.\nTo end your day, take a stroll to Parc Le'h. It's the ideal place to relax, process the day's impressions, and enjoy the peaceful atmosphere before starting your evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bouneschlupp",
+            "tip": "Eine traditionelle luxemburgische grüne Bohnensuppe, oft mit Kartoffeln und Speck."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "Ein gekochter Käse, der normalerweise auf Brot mit Senf serviert wird."
+          },
+          {
+            "name": "Restaurant Cottage",
+            "tip": "Bekannt für seine europäische Küche und gemütliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bouneschlupp",
+            "tip": "Hagyományos luxemburgi zöldbableves, gyakran burgonyával és szalonnával."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "Főtt sajt, amelyet általában kenyéren mustárral tálalnak."
+          },
+          {
+            "name": "Restaurant Cottage",
+            "tip": "Európai konyhájáról és hangulatos légköréről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bouneschlupp",
+            "tip": "O supă tradițională luxemburgheză de fasole verde, adesea cu cartofi și slănină."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "O brânză gătită, servită de obicei pe pâine cu muștar."
+          },
+          {
+            "name": "Restaurant Cottage",
+            "tip": "Cunoscut pentru bucătăria sa europeană și atmosfera sa primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bouneschlupp",
+            "tip": "A traditional Luxembourgish green bean soup, often with potatoes and bacon."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "A cooked cheese, usually served on bread with mustard."
+          },
+          {
+            "name": "Restaurant Cottage",
+            "tip": "Known for its European cuisine and cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Le'h",
+            "tip": "Ein ruhiger Ort zum Entspannen und Spazierengehen am Ende des Tages.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Haard-Naturschutzgebiet",
+            "tip": "Für längere, meditative Spaziergänge in der Natur, etwas außerhalb des Zentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke bei der Burgruine",
+            "tip": "Finden Sie eine ruhige Bank mit Blick über die Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le'h Park",
+            "tip": "Csendes hely a pihenésre és sétára a nap végén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Haard Természetvédelmi Terület",
+            "tip": "Hosszabb, meditatív sétákhoz a természetben, kissé a központon kívül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a várromnál",
+            "tip": "Keressen egy csendes padot, ahonnan kilátás nyílik a városra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Le'h",
+            "tip": "Un loc liniștit pentru relaxare și plimbare la sfârșitul zilei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rezervația Naturală Haard",
+            "tip": "Pentru plimbări mai lungi, meditative în natură, puțin în afara centrului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci lângă ruinele castelului",
+            "tip": "Găsiți o bancă liniștită cu vedere la oraș.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Le'h",
+            "tip": "A quiet spot for relaxing and walking at the end of the day.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Haard Nature Reserve",
+            "tip": "For longer, meditative walks in nature, slightly outside the center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches near the Castle Ruins",
+            "tip": "Find a quiet bench with a view over the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Prüfen Sie die Markttage für lokale Produkte und Spezialitäten."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie luxemburgisches Gebäck wie 'Bamkuch'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Ellenőrizze a piaci napokat a helyi termékekért és különlegességekért."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon luxemburgi süteményeket, mint például a 'Bamkuch'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Verificați zilele de piață pentru produse și specialități locale."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați produse de patiserie luxemburgheze precum 'Bamkuch'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Check for market days for local products and specialties."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Buy Luxembourgish pastries like 'Bamkuch'."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Düdelingen ist sehr gut zu Fuß erreichbar, die meisten zentralen Sehenswürdigkeiten liegen nahe beieinander.",
+          "Tragen Sie bequeme Schuhe, da der Weg zur Burgruine ansteigend ist.",
+          "Planen Sie genügend Zeit für die Museen ein, sie bieten tiefe Einblicke in die lokale Kultur.",
+          "Genießen Sie die vielen Grünflächen der Stadt für eine Pause."
+        ],
+        "hu": [
+          "Düdelingen gyalogosan könnyen bejárható, a legtöbb központi látnivaló közel van egymáshoz.",
+          "Viseljen kényelmes cipőt, mivel a várromhoz vezető út emelkedik.",
+          "Szánjon elegendő időt a múzeumokra, mély betekintést nyújtanak a helyi kultúrába.",
+          "Élvezze a város számos zöldterületét egy kis pihenésre."
+        ],
+        "ro": [
+          "Dudelange este foarte accesibil pe jos, majoritatea atracțiilor centrale fiind apropiate.",
+          "Purtați încălțăminte confortabilă, deoarece drumul spre ruinele castelului este în pantă.",
+          "Planificați suficient timp pentru muzee, acestea oferă o perspectivă profundă asupra culturii locale.",
+          "Bucurați-vă de numeroasele spații verzi ale orașului pentru o pauză."
+        ],
+        "en": [
+          "Dudelange is very walkable, with most central attractions close to each other.",
+          "Wear comfortable shoes as the path to the castle ruins is uphill.",
+          "Plan enough time for the museums; they offer deep insights into the local culture.",
+          "Enjoy the city's many green spaces for a break."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            6.0835,
+            49.4802
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der perfekte Ausgangspunkt, um Ihr Fahrrad zu überprüfen und die Route zu planen.",
+            "hu": "Tökéletes kiindulópont a kerékpár ellenőrzéséhez és az útvonal megtervezéséhez.",
+            "ro": "Punctul de plecare perfect pentru a vă verifica bicicleta și a planifica traseul.",
+            "en": "The perfect starting point to check your bike and plan the route."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin-Kirche",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Saint Martin's Church"
+          },
+          "coords": [
+            6.0852,
+            49.4795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und nehmen Sie sich einen Moment Zeit für die ruhige Atmosphäre im Inneren.",
+            "hu": "Zárja le a kerékpárt, és szánjon egy percet a benti csendes légkörre.",
+            "ro": "Încuietoarea bicicletei și luați un moment pentru atmosfera liniștită din interior.",
+            "en": "Lock up your bike and take a moment for the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Mont St. Jean",
+            "hu": "Mont St. Jean várrom",
+            "ro": "Ruinele Castelului Mont St. Jean",
+            "en": "Mont St. Jean Castle Ruins"
+          },
+          "coords": [
+            6.075,
+            49.475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour hierher ist eine kleine Herausforderung, aber die Aussicht ist es wert.",
+            "hu": "A kerékpárút ide egy kis kihívás, de a kilátás megéri.",
+            "ro": "Plimbarea cu bicicleta până aici este o mică provocare, dar priveliștea merită.",
+            "en": "The bike ride here is a bit of a challenge, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum & Museen (CDMH, CNA)",
+            "hu": "Kulturális központ és múzeumok (CDMH, CNA)",
+            "ro": "Centrul Cultural și Muzeele (CDMH, CNA)",
+            "en": "Cultural Centre & Museums (CDMH, CNA)"
+          },
+          "coords": [
+            6.0818,
+            49.477
+          ],
+          "category": "museums",
+          "arrive_at": "11:28",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie mehrere kulturelle Highlights an einem Ort.",
+            "hu": "Parkolja le a kerékpárt, és fedezzen fel több kulturális látnivalót egy helyen.",
+            "ro": "Parcați bicicleta și explorați mai multe atracții culturale într-un singur loc.",
+            "en": "Park your bike and explore several cultural highlights in one spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Le'h",
+            "hu": "Le'h Park",
+            "ro": "Parcul Le'h",
+            "en": "Parc Le'h"
+          },
+          "coords": [
+            6.088,
+            49.483
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Picknick-Mittagessen und eine Pause vom Radfahren.",
+            "hu": "Nagyszerű hely egy piknik ebédhez és egy kis pihenéshez a kerékpározás után.",
+            "ro": "Un loc minunat pentru un prânz la picnic și o pauză de la ciclism.",
+            "en": "A great spot for a picnic lunch and a break from cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Haard-Naturschutzgebiet",
+            "hu": "Haard Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Haard",
+            "en": "Haard Nature Reserve"
+          },
+          "coords": [
+            6.1,
+            49.49
+          ],
+          "category": "natural features",
+          "arrive_at": "15:21",
+          "stay_min": 120,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die längere Fahrt führt Sie in eine wunderschöne Naturlandschaft. Ideal für Naturliebhaber.",
+            "hu": "A hosszabb út egy gyönyörű természeti tájra vezet. Ideális a természet szerelmeseinek.",
+            "ro": "Călătoria mai lungă vă duce într-un peisaj natural frumos. Ideal pentru iubitorii de natură.",
+            "en": "The longer ride takes you to a beautiful natural landscape. Ideal for nature lovers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie am Rathausplatz in ein aktives Abenteuer. Eine kurze Fahrt bringt Sie zur stillen Saint-Martin-Kirche, bevor Sie den Hügel zur historischen Burgruine Mont St. Jean erklimmen, wo atemberaubende Ausblicke auf Sie warten.\nAm Vormittag rollen Sie zurück ins Zentrum, um in die reiche Kultur Düdelingens einzutauchen. Das Cluster aus CDMH- und CNA-Museen bietet eine faszinierende mehrstündige Erkundung der lokalen und audiovisuellen Geschichte, eine willkommene Pause vom Sattel.\nNach dem Kulturprogramm ist es Zeit für eine Mittagspause im Grünen. Radeln Sie zum Parc Le'h, dem perfekten Ort für ein Picknick und zum Entspannen der Beine. Die ruhige Atmosphäre des Parks lädt zum Verweilen ein.\nFrisch gestärkt begeben Sie sich auf die längste Etappe des Tages zum weitläufigen Haard-Naturschutzgebiet. Verbringen Sie den Rest des Nachmittags damit, die Pfade zu erkunden und die unberührte Natur zu genießen, ein perfekter Abschluss für einen Tag voller Entdeckungen.",
+        "hu": "Pattanjon kerékpárra, és induljon egy aktív kalandra a Városháza térről. Egy rövid tekerés elvisz a csendes Szent Márton-templomhoz, mielőtt megmászná a dombot a történelmi Mont St. Jean várromhoz, ahol lélegzetelállító kilátás várja.\nDélelőtt guruljon vissza a központba, hogy elmerüljön Düdelingen gazdag kultúrájában. A CDMH és CNA múzeumok együttese lenyűgöző, több órás felfedezést kínál a helyi és audiovizuális történelemben, ami egy kellemes pihenő a nyeregből.\nA kulturális program után itt az ideje egy ebédszünetnek a zöldben. Tekerjen el a Le'h parkba, amely tökéletes hely egy piknikre és a lábak pihentetésére. A park csendes hangulata marasztaló.\nFelfrissülve vágjon neki a nap leghosszabb szakaszának a kiterjedt Haard Természetvédelmi Terület felé. Töltse a délután hátralévő részét az ösvények felfedezésével és az érintetlen természet élvezetével, amely tökéletes befejezése egy felfedezésekkel teli napnak.",
+        "ro": "Urcați-vă pe bicicletă și porniți într-o aventură activă din Piața Primăriei. O scurtă plimbare vă duce la liniștita Biserică Sfântul Martin, înainte de a urca dealul spre ruinele istorice ale Castelului Mont St. Jean, unde vă așteaptă priveliști uluitoare.\nDimineața, pedalați înapoi în centru pentru a vă cufunda în cultura bogată a orașului Dudelange. Clusterul de muzee CDMH și CNA oferă o explorare fascinantă de câteva ore a istoriei locale și audiovizuale, o pauză binevenită de la șa.\nDupă programul cultural, este timpul pentru o pauză de prânz în natură. Pedalați spre Parcul Le'h, locul perfect pentru un picnic și pentru a vă întinde picioarele. Atmosfera liniștită a parcului vă invită să zăboviți.\nProaspăt revigorat, porniți pe cea mai lungă etapă a zilei spre vasta Rezervație Naturală Haard. Petreceți restul după-amiezii explorând potecile și bucurându-vă de natura neatinsă, o încheiere perfectă pentru o zi plină de descoperiri.",
+        "en": "Hop on your bike and start an active adventure from the Town Hall Square. A short ride takes you to the quiet Saint Martin's Church before you climb the hill to the historic Mont St. Jean Castle Ruins, where breathtaking views await.\nIn the morning, you'll roll back to the center to immerse yourself in Dudelange's rich culture. The cluster of CDMH and CNA museums offers a fascinating multi-hour exploration of local and audiovisual history, a welcome break from the saddle.\nAfter the cultural program, it's time for a lunch break in the green. Cycle to Parc Le'h, the perfect spot for a picnic and to rest your legs. The park's quiet atmosphere invites you to linger.\nRefreshed, you'll embark on the longest leg of the day to the expansive Haard Nature Reserve. Spend the rest of the afternoon exploring the trails and enjoying the pristine nature, a perfect end to a day full of discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gromperekichelcher",
+            "tip": "Luxemburgische Kartoffelpuffer, ein perfekter Snack für unterwegs."
+          },
+          {
+            "name": "Quetschentaart",
+            "tip": "Ein saisonaler Pflaumenkuchen, köstlich nach einer langen Fahrt."
+          },
+          {
+            "name": "Brasserie-Restaurant 'Beim Stiewen'",
+            "tip": "Ein beliebter Ort für herzhafte luxemburgische Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gromperekichelcher",
+            "tip": "Luxemburgi burgonya-lepény, tökéletes útközbeni harapnivaló."
+          },
+          {
+            "name": "Quetschentaart",
+            "tip": "Szezonális szilvás pite, finom egy hosszú tekerés után."
+          },
+          {
+            "name": "Brasserie-Restaurant 'Beim Stiewen'",
+            "tip": "Népszerű hely a kiadós luxemburgi ételekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gromperekichelcher",
+            "tip": "Clătite luxemburgheze de cartofi, o gustare perfectă pentru drum."
+          },
+          {
+            "name": "Quetschentaart",
+            "tip": "O tartă sezonieră cu prune, delicioasă după o plimbare lungă."
+          },
+          {
+            "name": "Brasserie-Restaurant 'Beim Stiewen'",
+            "tip": "Un loc popular pentru mâncăruri luxemburgheze consistente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gromperekichelcher",
+            "tip": "Luxembourgish potato pancakes, a perfect on-the-go snack."
+          },
+          {
+            "name": "Quetschentaart",
+            "tip": "A seasonal plum tart, delicious after a long ride."
+          },
+          {
+            "name": "Brasserie-Restaurant 'Beim Stiewen'",
+            "tip": "A popular spot for hearty Luxembourgish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Haard-Naturschutzgebiet",
+            "tip": "Weitläufige Wege, auf denen Sie leicht einen ruhigen Moment für sich finden können.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc Le'h",
+            "tip": "Finden Sie eine Bank im Schatten und genießen Sie die Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Uferweg entlang des Baches",
+            "tip": "Falls vorhanden, bieten Radwege entlang von Wasserläufen eine beruhigende Kulisse.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haard Természetvédelmi Terület",
+            "tip": "Kiterjedt ösvények, ahol könnyen találhat egy csendes pillanatot magának.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Le'h Park",
+            "tip": "Keressen egy padot az árnyékban, és élvezze a csendet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Patakparti kerékpárút",
+            "tip": "Ha van, a vízparti kerékpárutak nyugtató hátteret biztosítanak.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Naturală Haard",
+            "tip": "Poteci extinse unde puteți găsi cu ușurință un moment de liniște pentru dumneavoastră.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Le'h",
+            "tip": "Găsiți o bancă la umbră și bucurați-vă de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pista de biciclete de-a lungul pârâului",
+            "tip": "Dacă există, pistele de biciclete de-a lungul cursurilor de apă oferă un fundal calmant.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Haard Nature Reserve",
+            "tip": "Expansive trails where you can easily find a quiet moment for yourself.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc Le'h",
+            "tip": "Find a bench in the shade and enjoy the peace and quiet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Stream-side bike path",
+            "tip": "If available, bike paths along watercourses provide a soothing backdrop.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen",
+            "tip": "Für alle Last-Minute-Bedürfnisse oder ein lokales Radsport-Souvenir."
+          },
+          {
+            "name": "Lokale Metzgerei",
+            "tip": "Kaufen Sie 'Mettwurst' für ein authentisches Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Bármilyen utolsó pillanatban felmerülő igényre vagy egy helyi kerékpáros szuvenírre."
+          },
+          {
+            "name": "Helyi hentes",
+            "tip": "Vásároljon 'Mettwurst'-ot egy autentikus piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru orice nevoie de ultim moment sau un suvenir local legat de ciclism."
+          },
+          {
+            "name": "Măcelărie locală",
+            "tip": "Cumpărați 'Mettwurst' pentru un picnic autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "For any last-minute needs or a local cycling souvenir."
+          },
+          {
+            "name": "Local Butcher Shop",
+            "tip": "Pick up some 'Mettwurst' for an authentic picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads, bevor Sie losfahren.",
+          "Einige Wege, besonders zur Burg, können steil sein. Seien Sie auf eine anspruchsvolle Fahrt vorbereitet.",
+          "Nehmen Sie viel Wasser und Snacks mit, besonders für die Fahrt ins Naturschutzgebiet.",
+          "Achten Sie auf die örtlichen Verkehrsregeln für Radfahrer."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát.",
+          "Néhány út, különösen a várhoz, meredek lehet. Készüljön fel egy kihívást jelentő tekerésre.",
+          "Vigyen magával sok vizet és harapnivalót, különösen a természetvédelmi területre vezető útra.",
+          "Tartsa be a helyi kerékpáros közlekedési szabályokat."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni.",
+          "Unele trasee, în special spre castel, pot fi abrupte. Fiți pregătit pentru o plimbare provocatoare.",
+          "Luați multă apă și gustări, mai ales pentru plimbarea spre rezervația naturală.",
+          "Respectați regulile locale de circulație pentru bicicliști."
+        ],
+        "en": [
+          "Check the condition of your bike before you start.",
+          "Some paths, especially to the castle, can be steep. Be prepared for a challenging ride.",
+          "Bring plenty of water and snacks, especially for the ride to the nature reserve.",
+          "Be aware of local traffic rules for cyclists."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 19.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum (Parken)",
+            "hu": "1. klaszter: Történelmi központ (parkolás)",
+            "ro": "Cluster 1: Centru Istoric (Parcare)",
+            "en": "Cluster 1: Historic Centre (Parking)"
+          },
+          "coords": [
+            6.083,
+            49.4805
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zentral. Von hier aus erkunden Sie die Innenstadt zu Fuß.",
+            "hu": "Parkoljon központi helyen. Innen gyalogosan fedezheti fel a belvárost.",
+            "ro": "Parcați central. De aici veți explora centrul orașului pe jos.",
+            "en": "Park centrally. From here, you'll explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            6.0835,
+            49.4802
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:22",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Halt Ihres Spaziergangs durch das Zentrum.",
+            "hu": "A belvárosi séta első állomása.",
+            "ro": "Prima oprire a plimbării dumneavoastră prin centru.",
+            "en": "The first stop on your walking tour of the centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin-Kirche",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Saint Martin's Church"
+          },
+          "coords": [
+            6.0852,
+            49.4795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Platz entfernt.",
+            "hu": "Csak egy rövid séta a tértől.",
+            "ro": "La doar o scurtă plimbare de piață.",
+            "en": "Just a short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm & Kulturmeile (CNA, CDMH)",
+            "hu": "Víztorony és kulturális negyed (CNA, CDMH)",
+            "ro": "Turnul de Apă și Axa Culturală (CNA, CDMH)",
+            "en": "Water Tower & Cultural Mile (CNA, CDMH)"
+          },
+          "coords": [
+            6.082,
+            49.4775
+          ],
+          "category": "museums",
+          "arrive_at": "10:26",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieses Cluster von Museen lässt sich leicht zu Fuß erkunden.",
+            "hu": "Ez a múzeumi negyed könnyen bejárható gyalog.",
+            "ro": "Acest cluster de muzee este ușor de explorat pe jos.",
+            "en": "This cluster of museums is easily explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Burg & Aussicht (Parken)",
+            "hu": "2. klaszter: Vár és kilátás (parkolás)",
+            "ro": "Cluster 2: Castel și Panoramă (Parcare)",
+            "en": "Cluster 2: Castle & View (Parking)"
+          },
+          "coords": [
+            6.0745,
+            49.4755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz nahe der Burgruine und genießen Sie den Panoramablick.",
+            "hu": "Vezessen a várrom melletti parkolóhoz, és élvezze a panorámás kilátást.",
+            "ro": "Conduceți până la parcarea de lângă ruinele castelului și bucurați-vă de priveliștea panoramică.",
+            "en": "Drive to the car park near the castle ruins and enjoy the panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Naturerlebnis Haard (Parken)",
+            "hu": "3. klaszter: Haard Természeti Élmény (parkolás)",
+            "ro": "Cluster 3: Experiența Naturii Haard (Parcare)",
+            "en": "Cluster 3: Haard Nature Experience (Parking)"
+          },
+          "coords": [
+            6.098,
+            49.491
+          ],
+          "category": "natural features",
+          "arrive_at": "14:41",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine längere Fahrt, die Sie tief in die Natur führt. Parken Sie und machen Sie einen Spaziergang.",
+            "hu": "Egy hosszabb út, amely mélyen a természetbe vezet. Parkoljon le, és tegyen egy sétát.",
+            "ro": "O călătorie mai lungă care vă duce în adâncul naturii. Parcați și faceți o plimbare.",
+            "en": "A longer drive that takes you deep into nature. Park and take a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Le'h (Rückweg)",
+            "hu": "Le'h Park (visszaút)",
+            "ro": "Parcul Le'h (pe drumul de întoarcere)",
+            "en": "Parc Le'h (on the way back)"
+          },
+          "coords": [
+            6.088,
+            49.483
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Haard-Parkplatz, um den Tag ausklingen zu lassen.",
+            "hu": "Egy rövid séta a Haard parkolójából a nap lezárásaként.",
+            "ro": "O scurtă plimbare de la parcarea Haard pentru a încheia ziua.",
+            "en": "A short walk from the Haard parking area to wind down the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Düdelingen beginnt mit cleverem Parken im Zentrum. Von dort aus erkunden Sie den ersten Cluster zu Fuß: den Rathausplatz, die Saint-Martin-Kirche und die reiche Kulturmeile mit dem Wasserturm und den Museen CNA und CDMH.\nNachdem Sie die Kultur des Stadtzentrums aufgesogen haben, fahren Sie zum zweiten Cluster. Das Auto bringt Sie mühelos hinauf zur Burgruine Mont St. Jean, wo Sie eine Mittagspause mit Panoramablick über die Region genießen können.\nDer Nachmittag gehört einem Ausflug in die Natur. Eine längere Autofahrt führt Sie zum dritten Cluster, dem weitläufigen Haard-Naturschutzgebiet. Hier können Sie das Auto stehen lassen und auf den Pfaden wandern, die frische Luft und die Ruhe der Natur genießen.\nAuf dem Rückweg ins Zentrum legen Sie noch einen letzten Halt ein. Ein kurzer Spaziergang vom Haard-Parkplatz führt Sie in den Parc Le'h, ein idealer Ort, um die Erlebnisse des Tages Revue passieren zu lassen und einen entspannten Abend einzuläuten.",
+        "hu": "Az autós nap Düdelingenben okos parkolással kezdődik a központban. Innen gyalogosan fedezi fel az első klasztert: a Városháza teret, a Szent Márton-templomot és a gazdag kulturális negyedet a Víztoronnyal és a CNA, CDMH múzeumokkal.\nMiután magába szívta a belváros kultúráját, autózzon a második klaszterhez. Az autó könnyedén felviszi a Mont St. Jean várromhoz, ahol egy panorámás ebédszünetet tarthat a régióra néző kilátással.\nA délután a természeté. Egy hosszabb autóút elvezeti a harmadik klaszterhez, a kiterjedt Haard Természetvédelmi Területhez. Itt leteheti az autót, és túrázhat az ösvényeken, élvezve a friss levegőt és a természet csendjét.\nVisszafelé a központba tegyen még egy utolsó megállót. Egy rövid séta a Haard parkolójából elvezeti a Le'h parkba, amely ideális hely a nap élményeinek felidézésére és egy pihentető este megkezdésére.",
+        "ro": "Ziua dumneavoastră cu mașina în Dudelange începe cu o parcare inteligentă în centru. De acolo, explorați primul cluster pe jos: Piața Primăriei, Biserica Sfântul Martin și bogata axă culturală cu Turnul de Apă și muzeele CNA și CDMH.\nDupă ce ați absorbit cultura din centrul orașului, conduceți spre al doilea cluster. Mașina vă duce fără efort până la ruinele Castelului Mont St. Jean, unde puteți lua o pauză de prânz cu vederi panoramice asupra regiunii.\nDupă-amiaza este dedicată unei excursii în natură. O călătorie mai lungă cu mașina vă duce la al treilea cluster, vasta Rezervație Naturală Haard. Aici puteți lăsa mașina și puteți face drumeții pe poteci, bucurându-vă de aerul curat și de liniștea naturii.\nPe drumul de întoarcere spre centru, mai faceți o ultimă oprire. O scurtă plimbare de la parcarea Haard vă duce în Parcul Le'h, un loc ideal pentru a rememora experiențele zilei și pentru a începe o seară relaxantă.",
+        "en": "Your car-day in Dudelange starts with smart parking in the center. From there, you explore the first cluster on foot: the Town Hall Square, Saint Martin's Church, and the rich cultural mile with the Water Tower and the CNA and CDMH museums.\nAfter soaking up the culture of the city center, you drive to the second cluster. The car takes you effortlessly up to the Mont St. Jean Castle Ruins, where you can enjoy a lunch break with panoramic views of the region.\nThe afternoon is for a trip into nature. A longer drive takes you to the third cluster, the expansive Haard Nature Reserve. Here you can leave the car and hike the trails, enjoying the fresh air and the tranquility of nature.\nOn the way back to the center, you make one last stop. A short walk from the Haard parking area takes you to Parc Le'h, an ideal place to reflect on the day's experiences and usher in a relaxing evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Geräucherter Schweinehals mit Saubohnen, ein Nationalgericht."
+          },
+          {
+            "name": "F'rell am Rèisleck",
+            "tip": "Forelle in Rieslingsoße, eine Delikatesse der Region."
+          },
+          {
+            "name": "Restaurant-Pizzeria 'Da Leoni'",
+            "tip": "Eine gute Option für ein schnelles, aber leckeres Essen zwischen den Fahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Füstölt sertésnyak lóbabbal, egy nemzeti étel."
+          },
+          {
+            "name": "F'rell am Rèisleck",
+            "tip": "Pisztráng rizling szószban, a régió egyik finomsága."
+          },
+          {
+            "name": "Restaurant-Pizzeria 'Da Leoni'",
+            "tip": "Jó választás egy gyors, de finom étkezéshez a vezetések között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Ceafă de porc afumată cu fasole fava, un fel de mâncare național."
+          },
+          {
+            "name": "F'rell am Rèisleck",
+            "tip": "Păstrăv în sos Riesling, o delicatesă a regiunii."
+          },
+          {
+            "name": "Restaurant-Pizzeria 'Da Leoni'",
+            "tip": "O opțiune bună pentru o masă rapidă, dar gustoasă, între drumuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Smoked pork collar with broad beans, a national dish."
+          },
+          {
+            "name": "F'rell am Rèisleck",
+            "tip": "Trout in Riesling sauce, a delicacy of the region."
+          },
+          {
+            "name": "Restaurant-Pizzeria 'Da Leoni'",
+            "tip": "A good option for a quick but tasty meal between drives."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wanderweg im Haard-Naturschutzgebiet",
+            "tip": "Die Stille des Waldes ist nur eine kurze Autofahrt entfernt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt bei der Burgruine",
+            "tip": "Ein Panoramablick, der zum Innehalten einlädt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eine stille Ecke im Parc Le'h",
+            "tip": "Auch stadtnah findet sich ein ruhiges Plätzchen im Grünen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Túraösvény a Haard Természetvédelmi Területen",
+            "tip": "Az erdő csendje csak egy rövid autóútra van.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátópont a várromnál",
+            "tip": "Egy panorámás kilátás, amely elgondolkodtat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy csendes sarok a Le'h parkban",
+            "tip": "A városhoz közel is található egy csendes hely a zöldben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă de drumeție în Rezervația Naturală Haard",
+            "tip": "Liniștea pădurii este la doar o scurtă călătorie cu mașina.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere la ruinele castelului",
+            "tip": "O vedere panoramică care invită la contemplare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Un colț liniștit în Parcul Le'h",
+            "tip": "Chiar și aproape de oraș, puteți găsi un loc liniștit în verdeață.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hiking trail in Haard Nature Reserve",
+            "tip": "The silence of the forest is just a short drive away.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint at the castle ruins",
+            "tip": "A panoramic view that invites contemplation.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A quiet corner in Parc Le'h",
+            "tip": "Even close to the city, you can find a quiet spot in the green.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tankstellenshop",
+            "tip": "Für Last-Minute-Getränke oder einen luxemburgischen Snack für die Straße."
+          },
+          {
+            "name": "Souvenirs im Museumsshop",
+            "tip": "Kaufen Sie ein Andenken, das mit der Geschichte der Stadt verbunden ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Benzinkút bolt",
+            "tip": "Utolsó pillanatban vásárolt italokhoz vagy egy luxemburgi úti snackhez."
+          },
+          {
+            "name": "Szuvenírek a múzeumi boltban",
+            "tip": "Vásároljon egy emléket, amely a város történelméhez kapcsolódik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul benzinăriei",
+            "tip": "Pentru băuturi de ultim moment sau o gustare luxemburgheză pentru drum."
+          },
+          {
+            "name": "Suveniruri la magazinul muzeului",
+            "tip": "Cumpărați o amintire legată de istoria orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gas station shop",
+            "tip": "For last-minute drinks or a Luxembourgish snack for the road."
+          },
+          {
+            "name": "Souvenirs at the museum shop",
+            "tip": "Buy a memento connected to the city's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Flexibilität des Autos, um auch weiter entfernte Ziele wie das Naturschutzgebiet zu erreichen.",
+          "Informieren Sie sich vorab über Parkmöglichkeiten und -gebühren im Stadtzentrum.",
+          "Die Cluster-Walking-Methode spart Zeit und Parkplatzsuche.",
+          "Halten Sie eine Navigations-App bereit, um zwischen den Clustern zu navigieren."
+        ],
+        "hu": [
+          "Használja ki az autó rugalmasságát, hogy elérje a távolabbi célpontokat, mint például a természetvédelmi területet.",
+          "Tájékozódjon előre a parkolási lehetőségekről és díjakról a városközpontban.",
+          "A klaszteres-sétálós módszer időt és parkolóhely-keresést takarít meg.",
+          "Tartson készenlétben egy navigációs alkalmazást a klaszterek közötti navigáláshoz."
+        ],
+        "ro": [
+          "Folosiți flexibilitatea mașinii pentru a ajunge la destinații mai îndepărtate, cum ar fi rezervația naturală.",
+          "Informați-vă în avans despre opțiunile de parcare și taxele din centrul orașului.",
+          "Metoda de plimbare în cluster economisește timp și căutarea unui loc de parcare.",
+          "Aveți la îndemână o aplicație de navigație pentru a naviga între clustere."
+        ],
+        "en": [
+          "Use the flexibility of the car to reach more distant destinations like the nature reserve.",
+          "Find out in advance about parking options and fees in the city center.",
+          "The cluster-walking method saves time and the hassle of finding parking.",
+          "Keep a navigation app ready to navigate between clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 8.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft am Rathausplatz",
+            "hu": "1. klaszter: Érkezés a Városháza térre",
+            "ro": "Cluster 1: Sosire în Piața Primăriei",
+            "en": "Cluster 1: Arrival at Town Hall Square"
+          },
+          "coords": [
+            6.0835,
+            49.4802
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum. Dies ist Ihr Ausgangspunkt für die Erkundung zu Fuß.",
+            "hu": "Menjen busszal a központba. Ez a kiindulópontja a gyalogos felfedezésnek.",
+            "ro": "Luați un autobuz spre centru. Acesta este punctul de plecare pentru explorarea pe jos.",
+            "en": "Take a bus to the center. This is your starting point for exploring on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin-Kirche",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Saint Martin's Church"
+          },
+          "coords": [
+            6.0852,
+            49.4795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:36",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle am Rathausplatz.",
+            "hu": "Rövid séta a Városháza téri buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația de autobuz din Piața Primăriei.",
+            "en": "A short walk from the bus stop at the Town Hall Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturmeile (CNA, CDMH, Wasserturm)",
+            "hu": "Kulturális negyed (CNA, CDMH, Víztorony)",
+            "ro": "Axa Culturală (CNA, CDMH, Turnul de Apă)",
+            "en": "Cultural Mile (CNA, CDMH, Water Tower)"
+          },
+          "coords": [
+            6.082,
+            49.4775
+          ],
+          "category": "museums",
+          "arrive_at": "10:14",
+          "stay_min": 150,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Alle diese Attraktionen sind Teil des ersten Fußgänger-Clusters.",
+            "hu": "Mindezek a látnivalók az első gyalogos klaszter részét képezik.",
+            "ro": "Toate aceste atracții fac parte din primul cluster pietonal.",
+            "en": "All these attractions are part of the first pedestrian cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Burgruine Mont St. Jean",
+            "hu": "2. klaszter: Mont St. Jean várrom",
+            "ro": "Cluster 2: Ruinele Castelului Mont St. Jean",
+            "en": "Cluster 2: Mont St. Jean Castle Ruins"
+          },
+          "coords": [
+            6.075,
+            49.475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung der Burg. Ein kurzer Fußweg von der Haltestelle ist erforderlich.",
+            "hu": "Menjen busszal a vár irányába. A megállótól rövid séta szükséges.",
+            "ro": "Luați un autobuz spre castel. Este necesară o scurtă plimbare de la stație.",
+            "en": "Take a bus towards the castle. A short walk from the stop is required."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Parc Le'h & Haard",
+            "hu": "3. klaszter: Le'h Park és Haard",
+            "ro": "Cluster 3: Parcul Le'h și Haard",
+            "en": "Cluster 3: Parc Le'h & Haard"
+          },
+          "coords": [
+            6.088,
+            49.483
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:54",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein weiterer Bus bringt Sie in die Nähe des Parks und des Naturschutzgebiets.",
+            "hu": "Egy másik busz elviszi a park és a természetvédelmi terület közelébe.",
+            "ro": "Un alt autobuz vă duce în apropierea parcului și a rezervației naturale.",
+            "en": "Another bus will take you close to the park and nature reserve area."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Haard-Naturschutzgebiet",
+            "hu": "Séta a Haard Természetvédelmi Területen",
+            "ro": "Plimbare în Rezervația Naturală Haard",
+            "en": "Walk in Haard Nature Reserve"
+          },
+          "coords": [
+            6.095,
+            49.488
+          ],
+          "category": "natural features",
+          "arrive_at": "16:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Naturpfade, die vom Park aus zugänglich sind.",
+            "hu": "Fedezze fel a parkból elérhető tanösvényeket.",
+            "ro": "Explorați potecile naturale accesibile din parc.",
+            "en": "Explore the nature trails accessible from the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer entspannten Busfahrt ins Herz von Düdelingen, zum Rathausplatz. Von hier aus erkunden Sie den ersten Stadtcluster zu Fuß, besuchen die Saint-Martin-Kirche und tauchen dann tief in die Kulturmeile mit ihren Museen und Galerien ein.\nNach einem Vormittag voller Kunst und Geschichte bringt Sie ein weiterer Bus zum zweiten Cluster. Sie fahren in Richtung der Burgruine Mont St. Jean, wo Sie nach einem kurzen Spaziergang mit einer fantastischen Aussicht und einer wohlverdienten Mittagspause belohnt werden.\nAm Nachmittag bringt Sie das öffentliche Verkehrsnetz zum dritten Cluster, einem grünen Paradies. Eine Busfahrt führt Sie in die Nähe des Parc Le'h und des angrenzenden Haard-Naturschutzgebiets, wo Sie zwischen urbaner Natur und wildem Wald wählen können.\nDen Abschluss des Tages bildet ein ausgedehnter Spaziergang durch die Natur. Erkunden Sie die Wege des Haard-Gebiets, genießen Sie die Stille und lassen Sie den Tag ausklingen, bevor Sie den Bus zurück zu Ihrem Ausgangspunkt nehmen.",
+        "hu": "A nap egy pihentető buszozással kezdődik Düdelingen szívébe, a Városháza térre. Innen gyalogosan fedezi fel az első városi klasztert, meglátogatja a Szent Márton-templomot, majd mélyen elmerül a kulturális negyedben a múzeumokkal és galériákkal.\nEgy művészettel és történelemmel teli délelőtt után egy másik busz elviszi a második klaszterhez. A Mont St. Jean várrom irányába utazik, ahol egy rövid séta után fantasztikus kilátás és egy jól megérdemelt ebédszünet várja.\nDélután a tömegközlekedés a harmadik klaszterhez, egy zöld paradicsomhoz viszi. Egy buszút elvezeti a Le'h park és a szomszédos Haard Természetvédelmi Terület közelébe, ahol választhat a városi természet és a vad erdő között.\nA napot egy kiterjedt séta zárja a természetben. Fedezze fel a Haard terület ösvényeit, élvezze a csendet, és hagyja, hogy a nap véget érjen, mielőtt visszaindulna busszal a kiindulópontra.",
+        "ro": "Ziua dumneavoastră începe cu o călătorie relaxantă cu autobuzul în inima orașului Dudelange, la Piața Primăriei. De aici, explorați primul cluster urban pe jos, vizitând Biserica Sfântul Martin și apoi adâncindu-vă în axa culturală cu muzeele și galeriile sale.\nDupă o dimineață plină de artă și istorie, un alt autobuz vă duce la al doilea cluster. Călătoriți spre ruinele Castelului Mont St. Jean, unde, după o scurtă plimbare, sunteți răsplătit cu o priveliște fantastică și o pauză de prânz binemeritată.\nDupă-amiaza, rețeaua de transport public vă duce la al treilea cluster, un paradis verde. O călătorie cu autobuzul vă aduce aproape de Parcul Le'h și de adiacenta Rezervație Naturală Haard, unde puteți alege între natura urbană și pădurea sălbatică.\nÎncheierea zilei este marcată de o plimbare extinsă prin natură. Explorați potecile din zona Haard, bucurați-vă de liniște și lăsați ziua să se încheie înainte de a lua autobuzul înapoi la punctul de plecare.",
+        "en": "Your day begins with a relaxing bus ride into the heart of Dudelange, to the Town Hall Square. From here, you explore the first urban cluster on foot, visiting Saint Martin's Church and then diving deep into the cultural mile with its museums and galleries.\nAfter a morning full of art and history, another bus takes you to the second cluster. You travel towards the Mont St. Jean Castle Ruins, where after a short walk, you are rewarded with a fantastic view and a well-deserved lunch break.\nIn the afternoon, the public transport network takes you to the third cluster, a green paradise. A bus ride brings you close to Parc Le'h and the adjacent Haard Nature Reserve, where you can choose between urban nature and wild forest.\nThe day concludes with an extensive walk in nature. Explore the paths of the Haard area, enjoy the silence, and let the day wind down before taking the bus back to your starting point."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandwich aus einer Bäckerei",
+            "tip": "Perfekt für ein schnelles Mittagessen zwischen den Busfahrten."
+          },
+          {
+            "name": "Rieslingspaschtéit",
+            "tip": "Eine Fleischpastete in Weingelee, als Snack oder leichtes Essen."
+          },
+          {
+            "name": "Lokales Café am Rathausplatz",
+            "tip": "Stärken Sie sich vor Beginn Ihrer Tour oder machen Sie am Ende eine Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szendvics egy pékségből",
+            "tip": "Tökéletes egy gyors ebédhez a buszozások között."
+          },
+          {
+            "name": "Rieslingspaschtéit",
+            "tip": "Húspástétom borzselében, snacknek vagy könnyű ételnek."
+          },
+          {
+            "name": "Helyi kávézó a Városháza téren",
+            "tip": "Erősítse meg magát a túra előtt, vagy tartson szünetet a végén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș de la o brutărie",
+            "tip": "Perfect pentru un prânz rapid între călătoriile cu autobuzul."
+          },
+          {
+            "name": "Rieslingspaschtéit",
+            "tip": "O pateu de carne în aspic de vin, ca gustare sau masă ușoară."
+          },
+          {
+            "name": "Cafenea locală în Piața Primăriei",
+            "tip": "Luați putere înainte de a începe turul sau faceți o pauză la final."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandwich from a bakery",
+            "tip": "Perfect for a quick lunch between bus rides."
+          },
+          {
+            "name": "Rieslingspaschtéit",
+            "tip": "A meat pie in wine jelly, as a snack or light meal."
+          },
+          {
+            "name": "Local café at the Town Hall Square",
+            "tip": "Fortify yourself before starting your tour or take a break at the end."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Beobachten Sie die Stadt in Ruhe von oben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank im Haard-Naturschutzgebiet",
+            "tip": "Abseits der Hauptwege finden Sie absolute Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Später Nachmittag in der Saint-Martin-Kirche",
+            "tip": "Oft ist die Kirche am späten Nachmittag sehr ruhig.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Figyelje a várost békében fentről.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad a Haard Természetvédelmi Területen",
+            "tip": "A fő ösvényektől távol abszolút csendet talál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Késő délután a Szent Márton-templomban",
+            "tip": "Gyakran a templom késő délután nagyon csendes.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Priviți orașul în liniște de sus.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă în Rezervația Naturală Haard",
+            "tip": "Departe de potecile principale, veți găsi liniște absolută.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "După-amiaza târziu la Biserica Sfântul Martin",
+            "tip": "Adesea biserica este foarte liniștită după-amiaza târziu.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of a double-decker bus",
+            "tip": "Watch the city in peace from above.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench in the Haard Nature Reserve",
+            "tip": "Away from the main paths, you will find absolute silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Late afternoon in Saint Martin's Church",
+            "tip": "Often the church is very quiet in the late afternoon.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie eine Zeitung oder ein Magazin für die Fahrt."
+          },
+          {
+            "name": "Produkte vom Bauernmarkt",
+            "tip": "Wenn Sie an einem Markttag dort sind, nehmen Sie lokale Produkte mit nach Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon újságot vagy magazint az útra."
+          },
+          {
+            "name": "Termékek a termelői piacról",
+            "tip": "Ha piaci napon van ott, vigyen haza helyi termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați un ziar sau o revistă pentru călătorie."
+          },
+          {
+            "name": "Produse de la piața fermierilor",
+            "tip": "Dacă sunteți acolo într-o zi de piață, luați acasă produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy a newspaper or magazine for the ride."
+          },
+          {
+            "name": "Produce from the farmers' market",
+            "tip": "If you're there on a market day, take home some local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Laden Sie die App des lokalen Verkehrsunternehmens herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Planen Sie Pufferzeiten zwischen den Busfahrten ein, da es zu Verspätungen kommen kann.",
+          "Achten Sie auf die letzte Busverbindung zurück, besonders wenn Sie im Naturschutzgebiet unterwegs sind."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Töltse le a helyi közlekedési vállalat alkalmazását a valós idejű menetrendekért.",
+          "Tervezzen pufferidőt a buszozások közé, mivel előfordulhatnak késések.",
+          "Figyeljen az utolsó buszjáratra visszafelé, különösen, ha a természetvédelmi területen tartózkodik."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați aplicația companiei locale de transport pentru a vedea orarele în timp real.",
+          "Planificați timp tampon între călătoriile cu autobuzul, deoarece pot apărea întârzieri.",
+          "Fiți atenți la ultima legătură de autobuz înapoi, mai ales dacă sunteți în rezervația naturală."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Download the local transport company's app to see real-time schedules.",
+          "Plan for buffer time between bus rides, as delays can occur.",
+          "Pay attention to the last bus connection back, especially if you are in the nature reserve."
+        ]
+      }
+    }
+  }
+}

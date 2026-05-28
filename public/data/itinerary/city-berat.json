@@ -1,0 +1,1581 @@
+{
+  "city_id": "city-berat",
+  "anchor": {
+    "name": "Berat",
+    "coords": [
+      19.9497,
+      40.7049
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Mangalem-Viertel",
+            "hu": "Mangalem negyed",
+            "ro": "Cartierul Mangalem",
+            "en": "Mangalem Quarter"
+          },
+          "coords": [
+            19.952,
+            40.7045
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen und bewundern Sie die osmanische Architektur.",
+            "hu": "Tévedjen el a szűk sikátorokban, és csodálja meg az oszmán építészetet.",
+            "ro": "Pierdeți-vă pe aleile înguste și admirați arhitectura otomană.",
+            "en": "Get lost in the narrow alleys and admire the unique Ottoman architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Junggesellenmoschee",
+            "hu": "Agglegények mecsetje",
+            "ro": "Moscheea Gecarilor",
+            "en": "Bachelors' Mosque"
+          },
+          "coords": [
+            19.9528,
+            40.704
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:18",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die feinen Malereien an der Außenfassade.",
+            "hu": "Figyelje meg a külső homlokzat finom festményeit.",
+            "ro": "Observați picturile delicate de pe fațada exterioară.",
+            "en": "Pay attention to the delicate paintings on the exterior facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Național Etnografic",
+            "en": "National Ethnographic Museum"
+          },
+          "coords": [
+            19.9535,
+            40.7048
+          ],
+          "category": "museums",
+          "arrive_at": "10:49",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gibt einen faszinierenden Einblick in das Leben einer wohlhabenden Familie des 19. Jahrhunderts.",
+            "hu": "Lenyűgöző betekintést nyújt egy 19. századi tehetős család életébe.",
+            "ro": "Oferă o perspectivă fascinantă asupra vieții unei familii înstărite din secolul al XIX-lea.",
+            "en": "Offers a fascinating insight into the life of a wealthy 19th-century family."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorica-Brücke",
+            "hu": "Gorica híd",
+            "ro": "Podul Gorica",
+            "en": "Gorica Bridge"
+          },
+          "coords": [
+            19.949,
+            40.703
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:09",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für ein Foto, das beide Stadtteile, Mangalem und Gorica, einfängt.",
+            "hu": "Tökéletes hely egy fotóhoz, amely mindkét városrészt, Mangalemet és Goricát is megörökíti.",
+            "ro": "Locul perfect pentru o fotografie care surprinde ambele cartiere, Mangalem și Gorica.",
+            "en": "The perfect spot for a photo that captures both quarters, Mangalem and Gorica."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorica-Viertel",
+            "hu": "Gorica negyed",
+            "ro": "Cartierul Gorica",
+            "en": "Gorica Quarter"
+          },
+          "coords": [
+            19.948,
+            40.7025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:35",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhigere Atmosphäre im Vergleich zu Mangalem.",
+            "hu": "Élvezze a Mangalemnél csendesebb légkört.",
+            "ro": "Bucurați-vă de atmosfera mai liniștită în comparație cu Mangalem.",
+            "en": "Enjoy the quieter atmosphere compared to Mangalem."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Berat",
+            "hu": "Berati vár",
+            "ro": "Cetatea Berat",
+            "en": "Berat Castle"
+          },
+          "coords": [
+            19.945,
+            40.708
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:50",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die Aussicht und die historischen Stätten sind es wert.",
+            "hu": "Meredek a kaptató, de a kilátás és a történelmi helyszínek megérik.",
+            "ro": "Urcușul este abrupt, dar priveliștea și siturile istorice merită efortul.",
+            "en": "The climb is steep, but the views and the historic sites within are worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Onufri-Ikonenmuseum",
+            "hu": "Onufri Nemzeti Ikonmúzeum",
+            "ro": "Muzeul Național de Icoane Onufri",
+            "en": "Onufri National Iconographic Museum"
+          },
+          "coords": [
+            19.9445,
+            40.7075
+          ],
+          "category": "museums",
+          "arrive_at": "15:26",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die leuchtenden Farben der Ikonen von Onufri, einem Meister des 16. Jahrhunderts.",
+            "hu": "Csodálja meg Onufri, a 16. századi mester ikonjainak élénk színeit.",
+            "ro": "Admirați culorile vibrante ale icoanelor lui Onufri, un maestru al secolului al XVI-lea.",
+            "en": "Admire the vibrant colors of the icons by Onufri, a 16th-century master."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitskirche",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Holy Trinity Church"
+          },
+          "coords": [
+            19.943,
+            40.7065
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:34",
+          "stay_min": 51,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein byzantinisches Juwel mit einer atemberaubenden Position am Hang des Burghügels.",
+            "hu": "Egy bizánci ékszer, amely lélegzetelállító helyen, a várhegy oldalában található.",
+            "ro": "O bijuterie bizantină cu o poziție uluitoare pe versantul dealului cetății.",
+            "en": "A Byzantine jewel with a stunning position on the slope of the castle hill."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Berat beginnt im Mangalem-Viertel, der 'Stadt der tausend Fenster'. Schlendern Sie durch die Gassen zur Junggesellenmoschee und zum Ethnographischen Museum, um in die osmanische Geschichte einzutauchen. Mittags überqueren Sie die Gorica-Brücke und genießen ein traditionelles Mittagessen im ruhigeren Gorica-Viertel. Der Nachmittag ist dem steilen Aufstieg zur Burg gewidmet. Innerhalb der Mauern erwartet Sie eine andere Welt mit byzantinischen Kirchen wie der Dreifaltigkeitskirche und dem berühmten Onufri-Museum. Beenden Sie den Tag mit dem Panoramablick von den Burgmauern, während die Sonne über dem Osum-Tal untergeht und die Steinhäuser in ein warmes Licht taucht.",
+        "hu": "A berati nap a Mangalem negyedben, az „ezer ablak városában” kezdődik. Sétáljon végig a sikátorokon az Agglegények mecsetjéhez és a Néprajzi Múzeumhoz, hogy elmerüljön az oszmán történelemben. Délben keljen át a Gorica hídon, és fogyasszon el egy hagyományos ebédet a csendesebb Gorica negyedben. A délutánt a várhoz való meredek feljutásnak szenteljük. A falakon belül egy másik világ vár bizánci templomokkal, mint a Szentháromság-templom és a híres Onufri Múzeum. Zárja a napot a várfalakról nyíló panorámával, miközben a nap lenyugszik az Osum-völgy felett, meleg fénybe vonva a kőházakat.",
+        "ro": "Ziua dvs. în Berat începe în cartierul Mangalem, 'Orașul celor o mie de ferestre'. Plimbați-vă pe alei până la Moscheea Gecarilor și Muzeul Etnografic pentru o imersiune în istoria otomană. La prânz, traversați Podul Gorica pentru un prânz tradițional în cartierul mai liniștit Gorica. După-amiaza este dedicată urcușului abrupt spre castel. În interiorul zidurilor, o altă lume vă așteaptă, cu biserici bizantine precum Biserica Sfânta Treime și faimosul Muzeu Onufri. Încheiați ziua cu priveliștea panoramică de pe zidurile castelului, în timp ce soarele apune peste valea Osum, scăldând casele de piatră într-o lumină caldă.",
+        "en": "Your day in Berat begins in the Mangalem Quarter, the 'City of a Thousand Windows'. Stroll the alleys to the Bachelors' Mosque and the Ethnographic Museum for an immersion into Ottoman history. At noon, cross the Gorica Bridge for a traditional lunch in the quieter Gorica quarter. The afternoon is dedicated to the steep climb to the castle. Inside the walls, another world awaits, with Byzantine churches like the Holy Trinity Church and the famed Onufri Museum. End your day with the panoramic view from the castle walls as the sun sets over the Osum valley, casting a warm glow on the stone houses."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Ein gebackenes Lamm- und Joghurtgericht, ein albanischer Klassiker. Probieren Sie es bei 'Homemade Food Lili'."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "Ein reichhaltiger Eintopf aus Paprika, Tomaten und Hüttenkäse. Perfekt mit frischem Brot."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Ein schichtweises Gebäck, gefüllt mit Käse, Spinat oder Fleisch, ideal für einen schnellen Imbiss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Sütőben sült bárányhús joghurttal, egy albán klasszikus. Kóstolja meg a 'Homemade Food Lili'-ben."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "Gazdag egytálétel paprikából, paradicsomból és túróból. Tökéletes friss kenyérrel."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Réteges tészta sajttal, spenóttal vagy hússal töltve, ideális egy gyors harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Un preparat cu miel și iaurt, copt la cuptor, un clasic albanez. Încercați-l la 'Homemade Food Lili'."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "O tocană bogată din ardei, roșii și brânză de vaci. Perfectă cu pâine proaspătă."
+          },
+          {
+            "name": "Byrek",
+            "tip": "O plăcintă din foi subțiri, umplută cu brânză, spanac sau carne, ideală pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "A baked lamb and yogurt dish, an Albanian classic. Try it at 'Homemade Food Lili'."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "A rich stew of peppers, tomatoes, and cottage cheese. Perfect with fresh bread."
+          },
+          {
+            "name": "Byrek",
+            "tip": "A layered pastry filled with cheese, spinach, or meat, great for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Osum",
+            "tip": "Ein Spaziergang entlang des Flusses am späten Nachmittag bietet eine friedliche Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hinterhöfe der Burg",
+            "tip": "Entdecken Sie die ruhigen Ecken und Gärten, in denen die Einheimischen noch leben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang von der Burg",
+            "tip": "Der ultimative ruhige Moment, wenn die Lichter der Stadt zu funkeln beginnen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Osum folyó partja",
+            "tip": "Egy késő délutáni séta a folyó mentén békés kikapcsolódást nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A vár hátsó udvarai",
+            "tip": "Fedezze fel a csendes zugokat és kerteket, ahol még mindig helyiek élnek.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a várból",
+            "tip": "A végső csendes pillanat, amikor a város fényei elkezdenek csillogni.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Osum",
+            "tip": "O plimbare de-a lungul râului după-amiaza târziu oferă o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curțile din spatele castelului",
+            "tip": "Explorați colțurile liniștite și grădinile unde localnicii încă locuiesc.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare de la castel",
+            "tip": "Momentul suprem de liniște, când luminile orașului încep să sclipească.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Osum River",
+            "tip": "A late afternoon stroll along the river offers a peaceful break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle's backyards",
+            "tip": "Explore the quiet corners and gardens where locals still live.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset from the Castle",
+            "tip": "The ultimate quiet moment as the city lights begin to twinkle.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie in den Geschäften der Altstadt nach handgefertigten Teppichen und Holzschnitzereien."
+          },
+          {
+            "name": "Raki",
+            "tip": "Kaufen Sie eine Flasche des lokalen Traubenbrandys als authentisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített szőnyegeket és fafaragásokat az óvárosi üzletekben."
+          },
+          {
+            "name": "Raki",
+            "tip": "Vásároljon egy üveg helyi szőlőpálinkát autentikus szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați covoare lucrate manual și sculpturi în lemn în magazinele din orașul vechi."
+          },
+          {
+            "name": "Rachiu",
+            "tip": "Cumpărați o sticlă de rachiu local din struguri ca suvenir autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for handmade rugs and wood carvings in the shops of the old town."
+          },
+          {
+            "name": "Raki",
+            "tip": "Buy a bottle of the local grape brandy as an authentic souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie sehr bequeme Schuhe, da die Straßen aus Kopfsteinpflaster bestehen und der Aufstieg zur Burg steil ist.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Respektieren Sie die Privatsphäre der Einheimischen, die noch in der Burg leben.",
+          "Fragen Sie immer um Erlaubnis, bevor Sie Fotos von Personen machen."
+        ],
+        "hu": [
+          "Viseljen nagyon kényelmes cipőt, mivel az utcák macskakövesek, és a várhoz vezető út meredek.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban.",
+          "Tartsa tiszteletben a várban még mindig élő helyiek magánéletét.",
+          "Mindig kérjen engedélyt, mielőtt embereket fotóz.",
+          "Az ebédidő csúcsidő lehet, érdemes korábban vagy később menni."
+        ],
+        "ro": [
+          "Purtați încălțăminte foarte confortabilă, deoarece străzile sunt pavate și urcușul spre castel este abrupt.",
+          "Luați multă apă cu dumneavoastră, mai ales în lunile de vară.",
+          "Respectați intimitatea localnicilor care încă locuiesc în interiorul castelului.",
+          "Cereți întotdeauna permisiunea înainte de a fotografia oamenii."
+        ],
+        "en": [
+          "Wear very comfortable shoes as the streets are cobblestoned and the climb to the castle is steep.",
+          "Bring plenty of water, especially during the summer months.",
+          "Respect the privacy of the locals who still live inside the castle.",
+          "Always ask for permission before taking pictures of people."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bleimoschee von Berat",
+            "hu": "Ólom mecset",
+            "ro": "Moscheea de Plumb",
+            "en": "Lead Mosque"
+          },
+          "coords": [
+            19.955,
+            40.702
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein historisches Zentrum des Islam in Berat, bewundern Sie seine markante Kuppel.",
+            "hu": "Berat iszlám központja, csodálja meg jellegzetes kupoláját.",
+            "ro": "Un centru istoric al islamului în Berat, admirați cupola sa distinctivă.",
+            "en": "A historic center of Islam in Berat, admire its distinctive dome."
+          }
+        },
+        {
+          "name": {
+            "de": "Mangalem-Viertel",
+            "hu": "Mangalem negyed",
+            "ro": "Cartierul Mangalem",
+            "en": "Mangalem Quarter"
+          },
+          "coords": [
+            19.952,
+            40.7045
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:41",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad durch die engsten Gassen, um die Atmosphäre wirklich zu spüren.",
+            "hu": "Tolja a biciklit a legszűkebb sikátorokon, hogy igazán átérezze a hangulatot.",
+            "ro": "Împingeți bicicleta pe cele mai înguste alei pentru a simți cu adevărat atmosfera.",
+            "en": "Push your bike through the narrowest alleys to truly feel the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorica-Brücke",
+            "hu": "Gorica híd",
+            "ro": "Podul Gorica",
+            "en": "Gorica Bridge"
+          },
+          "coords": [
+            19.949,
+            40.703
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:37",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Halten Sie in der Mitte an, um den Blick auf den Fluss Osum zu genießen.",
+            "hu": "Álljon meg középen, hogy élvezze az Osum folyóra nyíló kilátást.",
+            "ro": "Opriți-vă la mijloc pentru a vă bucura de priveliștea asupra râului Osum.",
+            "en": "Stop in the middle to enjoy the view over the Osum river."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorica-Viertel",
+            "hu": "Gorica negyed",
+            "ro": "Cartierul Gorica",
+            "en": "Gorica Quarter"
+          },
+          "coords": [
+            19.948,
+            40.7025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Kaffeepause in einem der traditionellen Häuser.",
+            "hu": "Nagyszerű hely egy kávészünetre az egyik hagyományos házban.",
+            "ro": "Un loc minunat pentru o pauză de cafea într-una dintre casele tradiționale.",
+            "en": "A great spot for a coffee break in one of the traditional houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Entlang des Osum-Flusses",
+            "hu": "Az Osum folyó mentén",
+            "ro": "De-a lungul râului Osum",
+            "en": "Ride along the Osum River"
+          },
+          "coords": [
+            19.94,
+            40.701
+          ],
+          "category": "river",
+          "arrive_at": "12:33",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Genießen Sie eine flache und malerische Fahrt abseits des Trubels der Stadt.",
+            "hu": "Élvezze a sík és festői utat távol a város nyüzsgésétől.",
+            "ro": "Bucurați-vă de o plimbare plată și pitorească, departe de agitația orașului.",
+            "en": "Enjoy a flat and scenic ride away from the hustle of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Berat (unterer Eingang)",
+            "hu": "Berati vár (alsó bejárat)",
+            "ro": "Cetatea Berat (intrare inferioară)",
+            "en": "Berat Castle (lower entrance)"
+          },
+          "coords": [
+            19.946,
+            40.706
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad hier an und machen Sie den Rest des Weges zu Fuß.",
+            "hu": "Zárja le itt a kerékpárját, és tegye meg az út hátralévő részét gyalog.",
+            "ro": "Legați-vă bicicleta aici și faceți restul drumului pe jos.",
+            "en": "Lock your bike here and make the rest of the journey on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Onufri-Ikonenmuseum",
+            "hu": "Onufri Nemzeti Ikonmúzeum",
+            "ro": "Muzeul Național de Icoane Onufri",
+            "en": "Onufri National Iconographic Museum"
+          },
+          "coords": [
+            19.9445,
+            40.7075
+          ],
+          "category": "museums",
+          "arrive_at": "16:00",
+          "stay_min": 71,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Dieser Besuch ist in Ihrem Burgaufenthalt inbegriffen. Verpassen Sie es nicht!",
+            "hu": "Ez a látogatás benne van a várban töltött időben. Ne hagyja ki!",
+            "ro": "Această vizită este inclusă în șederea dumneavoastră la castel. Nu o ratați!",
+            "en": "This visit is included in your castle stay. Don't miss it!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag an der Bleimoschee und fahren Sie dann ins Herz von Mangalem. Stellen Sie Ihr Fahrrad für eine Weile ab, um die osmanische Architektur zu bewundern. Überqueren Sie die Gorica-Brücke für eine entspannte Kaffeepause im Gorica-Viertel. Am Mittag genießen Sie eine malerische Fahrt entlang des Osum-Flusses, weg von den Menschenmassen. Der Nachmittag ist die größte Herausforderung: der Aufstieg zum Burgberg. Schließen Sie Ihr Fahrrad am unteren Eingang ab und erkunden Sie die riesige Festung zu Fuß, einschließlich des beeindruckenden Onufri-Museums. Belohnen Sie sich mit der spektakulären Aussicht von oben.",
+        "hu": "Kezdje a biciklis napot az Ólom mecsetnél, majd tekerjen Mangalem szívébe. Tegye le egy időre a kerékpárt, hogy megcsodálhassa az oszmán építészetet. Keljen át a Gorica hídon egy pihentető kávészünetre a Gorica negyedben. Délben élvezze a festői utat az Osum folyó mentén, távol a tömegtől. A délután a legnagyobb kihívás: a hegymászás a várhegyre. Zárja le a kerékpárt az alsó bejáratnál, és fedezze fel gyalog a hatalmas erődöt, beleértve a lenyűgöző Onufri Múzeumot. Jutalmazza meg magát a fentről nyíló látványos kilátással.",
+        "ro": "Începeți-vă ziua pe bicicletă la Moscheea de Plumb, apoi pedalați în inima cartierului Mangalem. Lăsați bicicleta deoparte pentru o vreme pentru a admira arhitectura otomană. Traversați Podul Gorica pentru o pauză de cafea relaxantă în cartierul Gorica. La prânz, bucurați-vă de o plimbare pitorească de-a lungul râului Osum, departe de mulțime. După-amiaza aduce cea mai mare provocare: urcarea dealului castelului. Legați-vă bicicleta la intrarea inferioară și explorați cetatea vastă pe jos, inclusiv impresionantul Muzeu Onufri. Răsplătiți-vă cu priveliștea spectaculoasă de sus.",
+        "en": "Start your cycling day at the Lead Mosque, then ride into the heart of Mangalem. Park your bike for a while to admire the Ottoman architecture. Cross the Gorica Bridge for a relaxing coffee break in the Gorica quarter. At midday, enjoy a scenic ride along the Osum River, away from the crowds. The afternoon presents the biggest challenge: the ascent to the castle hill. Lock your bike at the lower entrance and explore the vast fortress on foot, including the impressive Onufri Museum. Reward yourself with the spectacular view from the top."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Ein gebackenes Lamm- und Joghurtgericht, ein albanischer Klassiker. Probieren Sie es bei 'Homemade Food Lili'."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "Ein reichhaltiger Eintopf aus Paprika, Tomaten und Hüttenkäse. Perfekt mit frischem Brot."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Ein schichtweises Gebäck, gefüllt mit Käse, Spinat oder Fleisch, ideal für einen schnellen Imbiss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Sütőben sült bárányhús joghurttal, egy albán klasszikus. Kóstolja meg a 'Homemade Food Lili'-ben."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "Gazdag egytálétel paprikából, paradicsomból és túróból. Tökéletes friss kenyérrel."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Réteges tészta sajttal, spenóttal vagy hússal töltve, ideális egy gyors harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Un preparat cu miel și iaurt, copt la cuptor, un clasic albanez. Încercați-l la 'Homemade Food Lili'."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "O tocană bogată din ardei, roșii și brânză de vaci. Perfectă cu pâine proaspătă."
+          },
+          {
+            "name": "Byrek",
+            "tip": "O plăcintă din foi subțiri, umplută cu brânză, spanac sau carne, ideală pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "A baked lamb and yogurt dish, an Albanian classic. Try it at 'Homemade Food Lili'."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "A rich stew of peppers, tomatoes, and cottage cheese. Perfect with fresh bread."
+          },
+          {
+            "name": "Byrek",
+            "tip": "A layered pastry filled with cheese, spinach, or meat, great for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Osum",
+            "tip": "Ein Spaziergang entlang des Flusses am späten Nachmittag bietet eine friedliche Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hinterhöfe der Burg",
+            "tip": "Entdecken Sie die ruhigen Ecken und Gärten, in denen die Einheimischen noch leben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang von der Burg",
+            "tip": "Der ultimative ruhige Moment, wenn die Lichter der Stadt zu funkeln beginnen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Osum folyó partja",
+            "tip": "Egy késő délutáni séta a folyó mentén békés kikapcsolódást nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A vár hátsó udvarai",
+            "tip": "Fedezze fel a csendes zugokat és kerteket, ahol még mindig helyiek élnek.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a várból",
+            "tip": "A végső csendes pillanat, amikor a város fényei elkezdenek csillogni.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Osum",
+            "tip": "O plimbare de-a lungul râului după-amiaza târziu oferă o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curțile din spatele castelului",
+            "tip": "Explorați colțurile liniștite și grădinile unde localnicii încă locuiesc.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare de la castel",
+            "tip": "Momentul suprem de liniște, când luminile orașului încep să sclipească.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Osum River",
+            "tip": "A late afternoon stroll along the river offers a peaceful break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle's backyards",
+            "tip": "Explore the quiet corners and gardens where locals still live.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset from the Castle",
+            "tip": "The ultimate quiet moment as the city lights begin to twinkle.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie in den Geschäften der Altstadt nach handgefertigten Teppichen und Holzschnitzereien."
+          },
+          {
+            "name": "Raki",
+            "tip": "Kaufen Sie eine Flasche des lokalen Traubenbrandys als authentisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített szőnyegeket és fafaragásokat az óvárosi üzletekben."
+          },
+          {
+            "name": "Raki",
+            "tip": "Vásároljon egy üveg helyi szőlőpálinkát autentikus szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați covoare lucrate manual și sculpturi în lemn în magazinele din orașul vechi."
+          },
+          {
+            "name": "Rachiu",
+            "tip": "Cumpărați o sticlă de rachiu local din struguri ca suvenir autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for handmade rugs and wood carvings in the shops of the old town."
+          },
+          {
+            "name": "Raki",
+            "tip": "Buy a bottle of the local grape brandy as an authentic souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Seien Sie auf den steilen Anstieg zur Burg vorbereitet; er ist eine Herausforderung, aber machbar.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, besonders in belebten Gegenden.",
+          "Viele der alten Straßen sind aus Kopfsteinpflaster, fahren Sie also vorsichtig.",
+          "Fragen Sie in Ihrem Hotel nach Fahrradverleihen, falls Sie keins haben."
+        ],
+        "hu": [
+          "Készüljön fel a várhoz vezető meredek emelkedőre; kihívást jelent, de teljesíthető.",
+          "Mindig biztonságosan zárja le a kerékpárját, különösen a forgalmas területeken.",
+          "Sok régi utca macskaköves, ezért óvatosan közlekedjen.",
+          "Érdeklődjön a szállodában a kerékpárkölcsönzési lehetőségekről, ha nincs sajátja."
+        ],
+        "ro": [
+          "Fiți pregătit pentru urcușul abrupt spre castel; este o provocare, dar realizabil.",
+          "Legați-vă întotdeauna bicicleta în siguranță, mai ales în zonele aglomerate.",
+          "Multe dintre străzile vechi sunt pavate, așa că mergeți cu grijă.",
+          "Întrebați la hotel despre închirierea de biciclete dacă nu aveți una."
+        ],
+        "en": [
+          "Be prepared for the steep climb to the castle; it's challenging but manageable.",
+          "Always lock your bike securely, especially in busy areas.",
+          "Many of the old streets are cobblestone, so ride with care.",
+          "Ask your hotel about bike rentals if you don't have one."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Mangalem",
+            "hu": "Parkoló Mangalem",
+            "ro": "Parcare Mangalem",
+            "en": "Mangalem Parking"
+          },
+          "coords": [
+            19.9545,
+            40.703
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die gesamte Unterstadt zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel gyalog az egész alsóvárost.",
+            "ro": "Parcați aici și explorați tot orașul de jos pe jos.",
+            "en": "Park here and explore the entire lower town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mangalem-Viertel",
+            "hu": "Mangalem negyed",
+            "ro": "Cartierul Mangalem",
+            "en": "Mangalem Quarter"
+          },
+          "coords": [
+            19.952,
+            40.7045
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der erste Halt Ihres Spaziergangs durch die Unterstadt.",
+            "hu": "Az alsóvárosi séta első megállója.",
+            "ro": "Prima oprire a plimbării dumneavoastră prin orașul de jos.",
+            "en": "The first stop on your walking tour of the lower town."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Național Etnografic",
+            "en": "National Ethnographic Museum"
+          },
+          "coords": [
+            19.9535,
+            40.7048
+          ],
+          "category": "museums",
+          "arrive_at": "10:06",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz Mangalems entfernt.",
+            "hu": "Rövid séta Mangalem főterétől.",
+            "ro": "La o scurtă plimbare de piața principală din Mangalem.",
+            "en": "A short walk from the main Mangalem square."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorica-Viertel (über die Brücke)",
+            "hu": "Gorica negyed (a hídon át)",
+            "ro": "Cartierul Gorica (peste pod)",
+            "en": "Gorica Quarter (across the bridge)"
+          },
+          "coords": [
+            19.948,
+            40.7025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:32",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie über die berühmte Brücke, um die andere Seite von Berat zu sehen.",
+            "hu": "Sétáljon át a híres hídon, hogy megnézze Berat másik oldalát.",
+            "ro": "Traversați faimosul pod pentru a vedea cealaltă parte a Beratului.",
+            "en": "Stroll across the famous bridge to see the other side of Berat."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Berat (Parkplatz)",
+            "hu": "Berati vár (parkoló)",
+            "ro": "Cetatea Berat (parcare)",
+            "en": "Berat Castle (Parking)"
+          },
+          "coords": [
+            19.944,
+            40.7085
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:43",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie nach oben und parken Sie. Der Rest des Nachmittags findet hier statt.",
+            "hu": "Hajtson fel és parkoljon le. A délután hátralévő része itt zajlik.",
+            "ro": "Conduceți până sus și parcați. Restul după-amiezii se petrece aici.",
+            "en": "Drive up and park. The rest of the afternoon is spent here."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Onufri-Ikonenmuseum",
+            "hu": "Onufri Nemzeti Ikonmúzeum",
+            "ro": "Muzeul Național de Icoane Onufri",
+            "en": "Onufri National Iconographic Museum"
+          },
+          "coords": [
+            19.9445,
+            40.7075
+          ],
+          "category": "museums",
+          "arrive_at": "14:07",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich in der Kathedrale auf dem Burggelände.",
+            "hu": "A múzeum a vár területén található székesegyházban kapott helyet.",
+            "ro": "Muzeul este situat în interiorul catedralei din incinta castelului.",
+            "en": "The museum is located inside the cathedral on the castle grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Maria-von-Blachernae-Kirche",
+            "hu": "Szent Mária Blachernae-templom",
+            "ro": "Biserica Sf. Maria Blachernae",
+            "en": "St. Mary of Blachernae Church"
+          },
+          "coords": [
+            19.9465,
+            40.7088
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:13",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine der ältesten Kirchen in der Burg, berühmt für ihre Fresken aus dem 16. Jahrhundert.",
+            "hu": "A vár egyik legrégebbi temploma, amely 16. századi freskóiról híres.",
+            "ro": "Una dintre cele mai vechi biserici din castel, renumită pentru frescele sale din secolul al XVI-lea.",
+            "en": "One of the oldest churches in the castle, famous for its 16th-century frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitskirche",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Holy Trinity Church"
+          },
+          "coords": [
+            19.943,
+            40.7065
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:03",
+          "stay_min": 72,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag mit Blick auf die Stadt zu beenden.",
+            "hu": "Tökéletes hely a nap befejezéséhez, kilátással a városra.",
+            "ro": "Locul perfect pentru a încheia ziua, cu vedere la oraș.",
+            "en": "The perfect spot to end the day overlooking the town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Stadtteil Mangalem parken. Dieser erste 'Cluster' ist komplett zu Fuß erreichbar: Erkunden Sie die osmanischen Häuser, besuchen Sie das Ethnographische Museum und überqueren Sie die historische Gorica-Brücke für einen Kaffee. Mittags kehren Sie zu Ihrem Auto zurück und fahren die kurze, aber steile Strecke hinauf zum zweiten Cluster: der Burg von Berat. Parken Sie erneut und verbringen Sie den gesamten Nachmittag damit, diese riesige Stätte zu erkunden. Schlendern Sie durch die alten Mauern, entdecken Sie die St.-Maria-von-Blachernae-Kirche, bewundern Sie die Ikonen im Onufri-Museum und beenden Sie den Tag an der fotogenen Dreifaltigkeitskirche, während die Sonne untergeht.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját a Mangalem negyedben. Ez az első „klaszter” teljes egészében gyalogosan bejárható: fedezze fel az oszmán házakat, látogasson el a Néprajzi Múzeumba, és keljen át a történelmi Gorica hídon egy kávéra. Délben térjen vissza autójához, és tegye meg a rövid, de meredek utat a második klaszterhez: a berati várhoz. Parkoljon le ismét, és töltse az egész délutánt a hatalmas helyszín felfedezésével. Sétáljon végig az ősi falakon, fedezze fel a Szent Mária Blachernae-templomot, csodálja meg az Onufri Múzeum ikonjait, és fejezze be a napot a fotogén Szentháromság-templomnál, miközben a nap lenyugszik.",
+        "ro": "Începeți-vă ziua parcând mașina în cartierul Mangalem. Acest prim 'cluster' este complet pietonal: explorați casele otomane, vizitați Muzeul Etnografic și traversați podul istoric Gorica pentru o cafea. La prânz, întoarceți-vă la mașină și faceți drumul scurt, dar abrupt, până la al doilea cluster: Cetatea Berat. Parcați din nou și petreceți întreaga după-amiază explorând acest sit vast. Plimbați-vă printre zidurile antice, descoperiți Biserica Sf. Maria Blachernae, admirați icoanele din Muzeul Onufri și încheiați ziua la fotogenica Biserică a Sfintei Treimi, în timp ce soarele apune.",
+        "en": "Start your day by parking your car in the Mangalem district. This first 'cluster' is entirely walkable: explore the Ottoman houses, visit the Ethnographic Museum, and cross the historic Gorica Bridge for a coffee. At midday, return to your car and make the short but steep drive up to the second cluster: Berat Castle. Park again and spend the entire afternoon exploring this vast site. Wander the ancient walls, discover St. Mary of Blachernae Church, admire the icons in the Onufri Museum, and end your day at the photogenic Holy Trinity Church as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Ein gebackenes Lamm- und Joghurtgericht, ein albanischer Klassiker. Probieren Sie es bei 'Homemade Food Lili'."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "Ein reichhaltiger Eintopf aus Paprika, Tomaten und Hüttenkäse. Perfekt mit frischem Brot."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Ein schichtweises Gebäck, gefüllt mit Käse, Spinat oder Fleisch, ideal für einen schnellen Imbiss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Sütőben sült bárányhús joghurttal, egy albán klasszikus. Kóstolja meg a 'Homemade Food Lili'-ben."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "Gazdag egytálétel paprikából, paradicsomból és túróból. Tökéletes friss kenyérrel."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Réteges tészta sajttal, spenóttal vagy hússal töltve, ideális egy gyors harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Un preparat cu miel și iaurt, copt la cuptor, un clasic albanez. Încercați-l la 'Homemade Food Lili'."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "O tocană bogată din ardei, roșii și brânză de vaci. Perfectă cu pâine proaspătă."
+          },
+          {
+            "name": "Byrek",
+            "tip": "O plăcintă din foi subțiri, umplută cu brânză, spanac sau carne, ideală pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "A baked lamb and yogurt dish, an Albanian classic. Try it at 'Homemade Food Lili'."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "A rich stew of peppers, tomatoes, and cottage cheese. Perfect with fresh bread."
+          },
+          {
+            "name": "Byrek",
+            "tip": "A layered pastry filled with cheese, spinach, or meat, great for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Osum",
+            "tip": "Ein Spaziergang entlang des Flusses am späten Nachmittag bietet eine friedliche Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hinterhöfe der Burg",
+            "tip": "Entdecken Sie die ruhigen Ecken und Gärten, in denen die Einheimischen noch leben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang von der Burg",
+            "tip": "Der ultimative ruhige Moment, wenn die Lichter der Stadt zu funkeln beginnen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Osum folyó partja",
+            "tip": "Egy késő délutáni séta a folyó mentén békés kikapcsolódást nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A vár hátsó udvarai",
+            "tip": "Fedezze fel a csendes zugokat és kerteket, ahol még mindig helyiek élnek.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a várból",
+            "tip": "A végső csendes pillanat, amikor a város fényei elkezdenek csillogni.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Osum",
+            "tip": "O plimbare de-a lungul râului după-amiaza târziu oferă o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curțile din spatele castelului",
+            "tip": "Explorați colțurile liniștite și grădinile unde localnicii încă locuiesc.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare de la castel",
+            "tip": "Momentul suprem de liniște, când luminile orașului încep să sclipească.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Osum River",
+            "tip": "A late afternoon stroll along the river offers a peaceful break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle's backyards",
+            "tip": "Explore the quiet corners and gardens where locals still live.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset from the Castle",
+            "tip": "The ultimate quiet moment as the city lights begin to twinkle.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie in den Geschäften der Altstadt nach handgefertigten Teppichen und Holzschnitzereien."
+          },
+          {
+            "name": "Raki",
+            "tip": "Kaufen Sie eine Flasche des lokalen Traubenbrandys als authentisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített szőnyegeket és fafaragásokat az óvárosi üzletekben."
+          },
+          {
+            "name": "Raki",
+            "tip": "Vásároljon egy üveg helyi szőlőpálinkát autentikus szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați covoare lucrate manual și sculpturi în lemn în magazinele din orașul vechi."
+          },
+          {
+            "name": "Rachiu",
+            "tip": "Cumpărați o sticlă de rachiu local din struguri ca suvenir autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for handmade rugs and wood carvings in the shops of the old town."
+          },
+          {
+            "name": "Raki",
+            "tip": "Buy a bottle of the local grape brandy as an authentic souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann in der Hochsaison schwierig sein. Kommen Sie früh, um einen guten Platz zu finden.",
+          "Die Straße zur Burg ist eng und steil, fahren Sie vorsichtig.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen.",
+          "Die Cluster-Walking-Methode ist ideal für Berat, da die beiden Hauptbereiche getrennt sind."
+        ],
+        "hu": [
+          "A parkolás főszezonban nehézkes lehet. Érkezzen korán, hogy jó helyet találjon.",
+          "A várhoz vezető út keskeny és meredek, vezessen óvatosan.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "A klaszteres séta módszer ideális Beratban, mivel a két fő terület elkülönül."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în sezonul de vârf. Ajungeți devreme pentru a găsi un loc bun.",
+          "Drumul spre castel este îngust și abrupt, conduceți cu atenție.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Metoda de plimbare în clustere este ideală pentru Berat, deoarece cele două zone principale sunt distincte."
+        ],
+        "en": [
+          "Parking can be challenging during peak season. Arrive early to find a good spot.",
+          "The road to the castle is narrow and steep, drive with care.",
+          "Do not leave valuables visible in the car.",
+          "The cluster-walking method is ideal for Berat as the two main areas are distinct."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mangalem-Viertel",
+            "hu": "Mangalem negyed",
+            "ro": "Cartierul Mangalem",
+            "en": "Mangalem Quarter"
+          },
+          "coords": [
+            19.952,
+            40.7045
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Berat.",
+            "hu": "Kezdje a napot Berat szívében.",
+            "ro": "Începeți-vă ziua în inima Beratului.",
+            "en": "Start your day in the heart of Berat."
+          }
+        },
+        {
+          "name": {
+            "de": "Junggesellenmoschee",
+            "hu": "Agglegények mecsetje",
+            "ro": "Moscheea Gecarilor",
+            "en": "Bachelors' Mosque"
+          },
+          "coords": [
+            19.9528,
+            40.704
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:18",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Rövid séta a főtértől.",
+            "ro": "La o scurtă plimbare de piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorica-Viertel",
+            "hu": "Gorica negyed",
+            "ro": "Cartierul Gorica",
+            "en": "Gorica Quarter"
+          },
+          "coords": [
+            19.948,
+            40.7025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:06",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Überqueren Sie den Fluss für eine andere Perspektive und ein entspanntes Mittagessen.",
+            "hu": "Keljen át a folyón egy másik perspektíváért és egy pihentető ebédért.",
+            "ro": "Traversați râul pentru o altă perspectivă și un prânz relaxant.",
+            "en": "Cross the river for a different perspective and a relaxing lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle zur Burg",
+            "hu": "Buszmegálló a várhoz",
+            "ro": "Stație de autobuz spre castel",
+            "en": "Bus Stop to Castle"
+          },
+          "coords": [
+            19.9515,
+            40.702
+          ],
+          "category": "transport",
+          "arrive_at": "12:21",
+          "stay_min": 5,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Von hier aus nehmen Sie den Bus, um den steilen Aufstieg zu vermeiden.",
+            "hu": "Innen busszal kerülheti el a meredek emelkedőt.",
+            "ro": "De aici, luați autobuzul pentru a evita urcușul abrupt.",
+            "en": "From here, take the bus to avoid the steep climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Berat",
+            "hu": "Berati vár",
+            "ro": "Cetatea Berat",
+            "en": "Berat Castle"
+          },
+          "coords": [
+            19.945,
+            40.708
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:38",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Steigen Sie aus und beginnen Sie Ihre Erkundung des zweiten Clusters des Tages.",
+            "hu": "Szálljon ki, és kezdje meg a nap második klaszterének felfedezését.",
+            "ro": "Coborâți și începeți explorarea celui de-al doilea cluster al zilei.",
+            "en": "Get off and begin your exploration of the day's second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Onufri-Ikonenmuseum",
+            "hu": "Onufri Nemzeti Ikonmúzeum",
+            "ro": "Muzeul Național de Icoane Onufri",
+            "en": "Onufri National Iconographic Museum"
+          },
+          "coords": [
+            19.9445,
+            40.7075
+          ],
+          "category": "museums",
+          "arrive_at": "14:12",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss in der Burg, um die berühmten Ikonen zu sehen.",
+            "hu": "A várban kötelező látnivaló a híres ikonok megtekintése.",
+            "ro": "O vizită obligatorie în interiorul castelului pentru a vedea faimoasele icoane.",
+            "en": "A must-see inside the castle to witness the famous icons."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitskirche",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Holy Trinity Church"
+          },
+          "coords": [
+            19.943,
+            40.7065
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:30",
+          "stay_min": 118,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Finden Sie diese Kirche für die beste Aussicht auf den Sonnenuntergang über Mangalem.",
+            "hu": "Keresse meg ezt a templomot a legjobb naplementés kilátásért Mangalem felett.",
+            "ro": "Găsiți această biserică pentru cea mai bună priveliște a apusului peste Mangalem.",
+            "en": "Find this church for the best sunset views over Mangalem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einem Spaziergang durch den Mangalem-Cluster, bei dem Sie die Junggesellenmoschee besuchen und dann über die Gorica-Brücke zum Mittagessen schlendern. Nachdem Sie die Unterstadt erkundet haben, gehen Sie zur nahegelegenen Bushaltestelle. Eine kurze Busfahrt bringt Sie den steilen Hügel hinauf zum zweiten Cluster: der Burg von Berat. Verbringen Sie den Rest des Nachmittags damit, das riesige Gelände zu erkunden, vom Onufri-Museum bis zur malerischen Dreifaltigkeitskirche. Nehmen Sie den Bus zurück ins Stadtzentrum, wenn die Sonne untergeht und die Lichter der Stadt angehen.",
+        "hu": "A nap a Mangalem-klaszterben tett sétával kezdődik, meglátogatja az Agglegények mecsetjét, majd átsétál a Gorica hídon ebédelni. Miután felfedezte az alsóvárost, sétáljon el a közeli buszmegállóba. Egy rövid buszozás felviszi a meredek dombra a második klaszterhez: a berati várhoz. Töltse a délután hátralévő részét a hatalmas terület felfedezésével, az Onufri Múzeumtól a festői Szentháromság-templomig. A naplementekor, amikor a város fényei kigyúlnak, busszal térjen vissza a városközpontba.",
+        "ro": "Ziua începe cu o plimbare prin clusterul Mangalem, vizitând Moscheea Gecarilor, apoi traversând Podul Gorica pentru prânz. După explorarea orașului de jos, mergeți la stația de autobuz din apropiere. O scurtă călătorie cu autobuzul vă va duce pe dealul abrupt până la al doilea cluster: Cetatea Berat. Petreceți restul după-amiezii explorând situl vast, de la Muzeul Onufri la pitoreasca Biserică a Sfintei Treimi. Luați autobuzul înapoi în centrul orașului pe măsură ce soarele apune și luminile orașului se aprind.",
+        "en": "Your day begins with a walk through the Mangalem cluster, visiting the Bachelors' Mosque, then strolling across Gorica Bridge for lunch. After exploring the lower town, walk to the nearby bus stop. A short bus ride will take you up the steep hill to the second cluster: Berat Castle. Spend the rest of the afternoon exploring the vast grounds, from the Onufri Museum to the picturesque Holy Trinity Church. Take the bus back down to the town center as the sun sets and the city lights turn on."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Ein gebackenes Lamm- und Joghurtgericht, ein albanischer Klassiker. Probieren Sie es bei 'Homemade Food Lili'."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "Ein reichhaltiger Eintopf aus Paprika, Tomaten und Hüttenkäse. Perfekt mit frischem Brot."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Ein schichtweises Gebäck, gefüllt mit Käse, Spinat oder Fleisch, ideal für einen schnellen Imbiss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Sütőben sült bárányhús joghurttal, egy albán klasszikus. Kóstolja meg a 'Homemade Food Lili'-ben."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "Gazdag egytálétel paprikából, paradicsomból és túróból. Tökéletes friss kenyérrel."
+          },
+          {
+            "name": "Byrek",
+            "tip": "Réteges tészta sajttal, spenóttal vagy hússal töltve, ideális egy gyors harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Un preparat cu miel și iaurt, copt la cuptor, un clasic albanez. Încercați-l la 'Homemade Food Lili'."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "O tocană bogată din ardei, roșii și brânză de vaci. Perfectă cu pâine proaspătă."
+          },
+          {
+            "name": "Byrek",
+            "tip": "O plăcintă din foi subțiri, umplută cu brânză, spanac sau carne, ideală pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "A baked lamb and yogurt dish, an Albanian classic. Try it at 'Homemade Food Lili'."
+          },
+          {
+            "name": "Fërgesë",
+            "tip": "A rich stew of peppers, tomatoes, and cottage cheese. Perfect with fresh bread."
+          },
+          {
+            "name": "Byrek",
+            "tip": "A layered pastry filled with cheese, spinach, or meat, great for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Osum",
+            "tip": "Ein Spaziergang entlang des Flusses am späten Nachmittag bietet eine friedliche Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hinterhöfe der Burg",
+            "tip": "Entdecken Sie die ruhigen Ecken und Gärten, in denen die Einheimischen noch leben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang von der Burg",
+            "tip": "Der ultimative ruhige Moment, wenn die Lichter der Stadt zu funkeln beginnen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Osum folyó partja",
+            "tip": "Egy késő délutáni séta a folyó mentén békés kikapcsolódást nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A vár hátsó udvarai",
+            "tip": "Fedezze fel a csendes zugokat és kerteket, ahol még mindig helyiek élnek.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a várból",
+            "tip": "A végső csendes pillanat, amikor a város fényei elkezdenek csillogni.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Osum",
+            "tip": "O plimbare de-a lungul râului după-amiaza târziu oferă o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curțile din spatele castelului",
+            "tip": "Explorați colțurile liniștite și grădinile unde localnicii încă locuiesc.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare de la castel",
+            "tip": "Momentul suprem de liniște, când luminile orașului încep să sclipească.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Osum River",
+            "tip": "A late afternoon stroll along the river offers a peaceful break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle's backyards",
+            "tip": "Explore the quiet corners and gardens where locals still live.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset from the Castle",
+            "tip": "The ultimate quiet moment as the city lights begin to twinkle.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie in den Geschäften der Altstadt nach handgefertigten Teppichen und Holzschnitzereien."
+          },
+          {
+            "name": "Raki",
+            "tip": "Kaufen Sie eine Flasche des lokalen Traubenbrandys als authentisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített szőnyegeket és fafaragásokat az óvárosi üzletekben."
+          },
+          {
+            "name": "Raki",
+            "tip": "Vásároljon egy üveg helyi szőlőpálinkát autentikus szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați covoare lucrate manual și sculpturi în lemn în magazinele din orașul vechi."
+          },
+          {
+            "name": "Rachiu",
+            "tip": "Cumpărați o sticlă de rachiu local din struguri ca suvenir autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for handmade rugs and wood carvings in the shops of the old town."
+          },
+          {
+            "name": "Raki",
+            "tip": "Buy a bottle of the local grape brandy as an authentic souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da er unregelmäßig sein kann.",
+          "Halten Sie Kleingeld für das Busticket bereit.",
+          "Der öffentliche Nahverkehr in Berat ist begrenzt, seien Sie also auf Spaziergänge vorbereitet.",
+          "Der Bus zur Burg ist eine große Erleichterung für müde Beine."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mivel rendszertelen lehet.",
+          "Készítsen aprópénzt a buszjegyhez.",
+          "A tömegközlekedés Beratban korlátozott, ezért készüljön fel a sétákra.",
+          "A várhoz közlekedő busz nagy könnyebbséget jelent a fáradt lábaknak."
+        ],
+        "ro": [
+          "Verificați programul autobuzului în avans, deoarece poate fi neregulat.",
+          "Pregătiți monede pentru biletul de autobuz.",
+          "Transportul public în Berat este limitat, așa că fiți pregătit pentru plimbări.",
+          "Autobuzul spre castel este o mare ușurare pentru picioarele obosite."
+        ],
+        "en": [
+          "Check the bus schedule in advance as it can be infrequent.",
+          "Have small change ready for the bus ticket.",
+          "Public transport in Berat is limited, so be prepared for some walking.",
+          "The bus to the castle is a great relief for tired legs."
+        ]
+      }
+    }
+  }
+}

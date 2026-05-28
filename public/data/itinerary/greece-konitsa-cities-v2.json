@@ -1,0 +1,1217 @@
+{
+  "city_id": "greece-konitsa-cities-v2",
+  "anchor": {
+    "name": "Konitsa",
+    "coords": [
+      20.75,
+      40.0667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Steinbrücke von Konitsa",
+            "hu": "Konicai kőhíd",
+            "ro": "Podul de Piatră din Konitsa",
+            "en": "Stone Bridge of Konitsa"
+          },
+          "coords": [
+            20.7445,
+            40.0392
+          ],
+          "category": "bridges",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Gehen Sie unter den Bogen, um die riesige Glocke zu sehen, die bei starkem Wind läutete.",
+            "hu": "Sétálj át a híd alá, hogy lásd a hatalmas harangot, ami szélben megszólalt.",
+            "ro": "Mergeți sub arcadă pentru a vedea clopotul uriaș care suna când vântul era puternic.",
+            "en": "Walk beneath the arch to see the huge bell that used to ring in high winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Aoos-Schlucht",
+            "hu": "Aóosz-szurdok",
+            "ro": "Cheile râului Aoos",
+            "en": "Aoos Gorge"
+          },
+          "coords": [
+            20.7488,
+            40.0395
+          ],
+          "category": "natural features",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Weg beginnt direkt hinter der Brücke. Tragen Sie festes Schuhwerk.",
+            "hu": "Az ösvény rögtön a híd után kezdődik. Viselj strapabíró cipőt!",
+            "ro": "Cărarea începe imediat după pod. Purtați încălțăminte rezistentă.",
+            "en": "The trail begins just past the bridge. Wear sturdy footwear."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus von Hussein Sisko",
+            "hu": "Husszein Sisko udvarháza",
+            "ro": "Conacul lui Hussein Sisko",
+            "en": "Mansion of Hussein Sisko"
+          },
+          "coords": [
+            20.7511,
+            40.0435
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Dies ist ein großartiger Ort für das Mittagessen, um die lokale Atmosphäre aufzusaugen.",
+            "hu": "Remek hely egy ebédhez, hogy magadba szívd a helyi atmoszférát.",
+            "ro": "Acesta este un loc minunat pentru prânz pentru a absorbi atmosfera locală.",
+            "en": "This is a great area for lunch to soak up the local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus des Heiligen Paisios",
+            "hu": "Szent Paisziosz szülőháza",
+            "ro": "Casa Sfântului Paisie",
+            "en": "House of Saint Paisios"
+          },
+          "coords": [
+            20.7525,
+            40.0442
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein bescheidener, aber zutiefst spiritueller Ort für Pilger und Interessierte.",
+            "hu": "Szerény, de mélyen spirituális hely a zarándokok és az érdeklődők számára.",
+            "ro": "Un loc modest, dar profund spiritual pentru pelerini și cei interesați.",
+            "en": "A humble but deeply spiritual place for pilgrims and interested visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Nikolaos",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Church of Agios Nikolaos"
+          },
+          "coords": [
+            20.7518,
+            40.0451
+          ],
+          "category": "churches",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den beeindruckenden Ikonen und der handgeschnitzten Ikonostase.",
+            "hu": "Keresd a lenyűgöző ikonokat és a kézzel faragott ikonosztázt.",
+            "ro": "Căutați icoanele impresionante și iconostasul sculptat manual.",
+            "en": "Look for the impressive icons and the hand-carved iconostasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Umweltzentrum Konitsa",
+            "hu": "Konicai Környezetvédelmi Központ",
+            "ro": "Centrul de Mediu Konitsa",
+            "en": "Environmental Center of Konitsa"
+          },
+          "coords": [
+            20.7533,
+            40.0489
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 65,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ideal, um mehr über die einzigartige Flora und Fauna des Aoos-Tals zu erfahren.",
+            "hu": "Ideális hely, hogy többet tudj meg az Aóosz-völgy egyedi növény- és állatvilágáról.",
+            "ro": "Ideal pentru a învăța despre flora și fauna unică din valea Aoos.",
+            "en": "Ideal for learning about the unique flora and fauna of the Aoos valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt an der legendären Steinbrücke, bevor Sie einen belebenden Spaziergang in die Aoos-Schlucht unternehmen. Am Mittag erkunden Sie das historische Herz von Konitsa, einschließlich des Herrenhauses von Hussein Sisko und des Geburtshauses des Heiligen Paisios. Der Nachmittag ist der Kultur gewidmet, mit einem Besuch der Agios-Nikolaos-Kirche und des Umweltzentrums, wo Sie Einblicke in die Natur der Region erhalten. Beenden Sie den Tag in einer lokalen Taverne und genießen Sie die Aromen von Epirus.",
+        "hu": "A napod a legendás kőhídnál kezdődik, mielőtt egy frissítő sétát tennél az Aóosz-szurdokban. Délben felfedezed Konica történelmi szívét, beleértve Husszein Sisko udvarházát és Szent Paisziosz szülőházát. A délután a kultúráé, meglátogatod az Agios Nikolaos templomot és a Környezetvédelmi Központot, ahol betekintést nyerhetsz a régió természetébe. A napot egy helyi tavernában zárd, élvezve Epirusz ízeit.",
+        "ro": "Ziua dvs. începe la legendarul pod de piatră înainte de o plimbare revigorantă în Cheile Aoos. La prânz, explorați inima istorică a Koniței, inclusiv conacul lui Hussein Sisko și casa natală a Sfântului Paisie. După-amiaza este dedicată culturii, cu o vizită la Biserica Agios Nikolaos și Centrul de Mediu pentru a înțelege natura regiunii. Încheiați ziua la o tavernă locală, savurând aromele din Epir.",
+        "en": "Your day starts at the legendary stone bridge before an invigorating walk into the Aoos Gorge. By midday, you'll explore the historical heart of Konitsa, including Hussein Sisko's mansion and the birthplace of Saint Paisios. The afternoon is for culture, with a visit to Agios Nikolaos Church and the Environmental Center for insights into the region's nature. End your day at a local taverna, enjoying the flavors of Epirus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pites (Pasteten)",
+            "tip": "Probieren Sie die lokalen herzhaften Pasteten, gefüllt mit Käse, Gemüse oder Fleisch."
+          },
+          {
+            "name": "Gegrilltes Fleisch",
+            "tip": "Die Tavernen sind berühmt für ihre perfekt gegrillten Lammkoteletts und Souvlaki."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piték",
+            "tip": "Kóstold meg a helyi sós pitéket, sajttal, zöldségekkel vagy hússal töltve."
+          },
+          {
+            "name": "Grillezett húsok",
+            "tip": "A tavernák híresek a tökéletesen grillezett báránybordájukról és souvlakijukról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pites (Plăcinte)",
+            "tip": "Încercați plăcintele locale sărate, umplute cu brânză, verdețuri sau carne."
+          },
+          {
+            "name": "Carne la grătar",
+            "tip": "Tavernele sunt renumite pentru cotletele de miel și souvlaki perfect gătite la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pites (Pies)",
+            "tip": "Try the local savory pies, filled with cheese, greens, or meat."
+          },
+          {
+            "name": "Grilled Meats",
+            "tip": "The tavernas are famous for their perfectly grilled lamb chops and souvlaki."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aoos-Flussufer",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer in der Nähe der Brücke, um dem Wasser zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof von Agios Nikolaos",
+            "tip": "Der Hof bietet einen friedlichen Rückzugsort mit Blick über die Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aóosz folyópart",
+            "tip": "Keress egy csendes helyet a folyóparton a híd közelében, és hallgasd a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agios Nikolaos templomkert",
+            "tip": "Az udvar békés menedéket nyújt, kilátással a városra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Aoos",
+            "tip": "Găsiți un loc liniștit pe malul râului, lângă pod, pentru a asculta apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Bisericii Agios Nikolaos",
+            "tip": "Curtea oferă un refugiu pașnic cu vederi asupra orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aoos Riverbank",
+            "tip": "Find a quiet spot by the riverbank near the bridge to listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agios Nikolaos Churchyard",
+            "tip": "The courtyard offers a peaceful retreat with views over the town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kräuter und Honig",
+            "tip": "Suchen Sie nach Oregano, Bergtee und lokalem Tannen- oder Blumenhonig."
+          },
+          {
+            "name": "Handgefertigter Schmuck",
+            "tip": "Lokale Kunsthandwerker stellen einzigartige Stücke her, die von der Natur inspiriert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi fűszernövények és méz",
+            "tip": "Keress oregánót, hegyi teát és helyi fenyő- vagy virágmézet."
+          },
+          {
+            "name": "Kézzel készített ékszerek",
+            "tip": "A helyi kézművesek egyedi, természet ihlette darabokat készítenek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ierburi locale și miere",
+            "tip": "Căutați oregano, ceai de munte și miere locală de brad sau de flori."
+          },
+          {
+            "name": "Bijuterii artizanale",
+            "tip": "Artizanii locali creează piese unice inspirate de natură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Herbs and Honey",
+            "tip": "Look for oregano, mountain tea, and local fir or flower honey."
+          },
+          {
+            "name": "Handmade Jewelry",
+            "tip": "Local artisans create unique pieces inspired by nature."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe, da die Straßen der Stadt steil sein können.",
+          "Eine wiederverwendbare Wasserflasche ist unerlässlich, besonders in den wärmeren Monaten.",
+          "Planen Sie genügend Zeit für die Aoos-Schlucht ein; die Aussicht ist es wert."
+        ],
+        "hu": [
+          "Viselj kényelmes túracipőt, a város utcái meredekek lehetnek.",
+          "Az újratölthető vizes palack elengedhetetlen, különösen a melegebb hónapokban.",
+          "Szánj elég időt az Aóosz-szurdokra; a kilátás megéri."
+        ],
+        "ro": [
+          "Purtați pantofi de mers confortabili, deoarece străzile orașului pot fi abrupte.",
+          "O sticlă de apă reutilizabilă este esențială, mai ales în lunile mai calde.",
+          "Alocați suficient timp pentru Cheile Aoos; priveliștile merită."
+        ],
+        "en": [
+          "Wear comfortable walking shoes as the town's streets can be steep.",
+          "A reusable water bottle is essential, especially in the warmer months.",
+          "Allow plenty of time for the Aoos Gorge; the views are worth it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtzentrum",
+            "hu": "Városközpont",
+            "ro": "Centrul Orașului",
+            "en": "Town Center"
+          },
+          "coords": [
+            20.753,
+            40.045
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einem Kaffee in einem der zentralen Cafés, um Energie zu tanken.",
+            "hu": "Kezdd egy kávéval az egyik központi kávézóban, hogy feltöltődj energiával.",
+            "ro": "Începeți cu o cafea la una dintre cafenelele centrale pentru a vă energiza.",
+            "en": "Start with a coffee at one of the central cafes to fuel up."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinbrücke von Konitsa",
+            "hu": "Konicai kőhíd",
+            "ro": "Podul de Piatră din Konitsa",
+            "en": "Stone Bridge of Konitsa"
+          },
+          "coords": [
+            20.7445,
+            40.0392
+          ],
+          "category": "bridges",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und gehen Sie über die Brücke, um die Aussicht auf die Schlucht zu genießen.",
+            "hu": "Zárd le a biciklidet, és sétálj át a hídon, hogy élvezd a szurdokra nyíló kilátást.",
+            "ro": "Încuiați-vă bicicleta și traversați podul pentru a admira priveliștea cheilor.",
+            "en": "Lock up your bike and walk across the bridge to admire the gorge views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Molivdoskepasti",
+            "hu": "Molivdoskepasti kolostor",
+            "ro": "Mănăstirea Molivdoskepasti",
+            "en": "Monastery of Molivdoskepasti"
+          },
+          "coords": [
+            20.665,
+            40.021
+          ],
+          "category": "churches",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Die Fahrt ist anspruchsvoll, aber das historische Kloster und die Aussicht sind die Mühe wert.",
+            "hu": "Az út kihívást jelent, de a történelmi kolostor és a kilátás megéri a fáradságot.",
+            "ro": "Plimbarea este provocatoare, dar mănăstirea istorică și priveliștea merită efortul.",
+            "en": "The ride is challenging, but the historic monastery and the views are worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Taverne am Fluss",
+            "hu": "Ebéd egy folyóparti tavernában",
+            "ro": "Prânz la o tavernă pe râu",
+            "en": "Lunch at a Riverside Taverna"
+          },
+          "coords": [
+            20.743,
+            40.038
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in Richtung Brücke und finden Sie eine Taverne für eine wohlverdiente Pause.",
+            "hu": "Tekerj vissza a híd felé, és keress egy tavernát egy jól megérdemelt pihenőre.",
+            "ro": "Întoarceți-vă cu bicicleta spre pod și găsiți o tavernă pentru o pauză binemeritată.",
+            "en": "Cycle back towards the bridge and find a taverna for a well-deserved break."
+          }
+        },
+        {
+          "name": {
+            "de": "Umweltzentrum Konitsa",
+            "hu": "Konicai Környezetvédelmi Központ",
+            "ro": "Centrul de Mediu Konitsa",
+            "en": "Environmental Center of Konitsa"
+          },
+          "coords": [
+            20.7533,
+            40.0489
+          ],
+          "category": "museums",
+          "arrive_at": "15:05",
+          "stay_min": 65,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem lehrreichen Besuch, um die Ökologie der Region zu verstehen.",
+            "hu": "Zárd a túrát egy tanulságos látogatással, hogy megértsd a régió ökológiáját.",
+            "ro": "Încheiați-vă turul cu o vizită educativă pentru a înțelege ecologia regiunii.",
+            "en": "End your tour with an educational visit to understand the region's ecology."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im Herzen von Konitsa und führt Sie bergab zur berühmten Steinbrücke. Von dort aus unternehmen Sie eine anspruchsvolle, aber lohnende Fahrt zum historischen Kloster Molivdoskepasti. Nach der Rückkehr genießen Sie ein entspanntes Mittagessen in einer Taverne am Fluss Aoos. Der Tag endet mit einem Besuch des Umweltzentrums, wo Sie mehr über die reiche Artenvielfalt der Region erfahren.",
+        "hu": "A kerékpártúrád Konica szívéből indul, és levezet a híres kőhídhoz. Onnan egy kihívásokkal teli, de annál hálásabb úton eljutsz a történelmi Molivdoskepasti kolostorhoz. Visszatérve egy pihentető ebédet fogyaszthatsz el az Aóosz folyó partján egy tavernában. A nap a Környezetvédelmi Központban tett látogatással zárul, ahol többet tudhatsz meg a régió gazdag biodiverzitásáról.",
+        "ro": "Turul dvs. cu bicicleta începe în inima Koniței, coborând spre faimosul pod de piatră. De acolo, veți face o plimbare provocatoare, dar plină de satisfacții, la istorica Mănăstire Molivdoskepasti. La întoarcere, bucurați-vă de un prânz relaxant la o tavernă de pe malul râului Aoos. Ziua se încheie cu o vizită la Centrul de Mediu pentru a afla despre biodiversitatea bogată a regiunii.",
+        "en": "Your bike tour starts in the heart of Konitsa, heading downhill to the famous stone bridge. From there, you'll take on a challenging but rewarding ride to the historic Monastery of Molivdoskepasti. Upon your return, enjoy a relaxing lunch at a taverna by the Aoos river. The day concludes with a visit to the Environmental Center to learn about the region's rich biodiversity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pites (Pasteten)",
+            "tip": "Probieren Sie die lokalen herzhaften Pasteten, gefüllt mit Käse, Gemüse oder Fleisch."
+          },
+          {
+            "name": "Gegrilltes Fleisch",
+            "tip": "Die Tavernen sind berühmt für ihre perfekt gegrillten Lammkoteletts und Souvlaki."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piték",
+            "tip": "Kóstold meg a helyi sós pitéket, sajttal, zöldségekkel vagy hússal töltve."
+          },
+          {
+            "name": "Grillezett húsok",
+            "tip": "A tavernák híresek a tökéletesen grillezett báránybordájukról és souvlakijukról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pites (Plăcinte)",
+            "tip": "Încercați plăcintele locale sărate, umplute cu brânză, verdețuri sau carne."
+          },
+          {
+            "name": "Carne la grătar",
+            "tip": "Tavernele sunt renumite pentru cotletele de miel și souvlaki perfect gătite la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pites (Pies)",
+            "tip": "Try the local savory pies, filled with cheese, greens, or meat."
+          },
+          {
+            "name": "Grilled Meats",
+            "tip": "The tavernas are famous for their perfectly grilled lamb chops and souvlaki."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick vom Kloster Molivdoskepasti",
+            "tip": "Der Klosterhof bietet eine unglaubliche, friedliche Aussicht auf das Tal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aoos-Flussufer",
+            "tip": "Nach dem Mittagessen ist ein ruhiger Moment am Flussufer perfekt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Molivdoskepasti kolostorból",
+            "tip": "A kolostor udvara hihetetlen, békés kilátást nyújt a völgyre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aóosz folyópart",
+            "tip": "Ebéd után tökéletes egy csendes pillanat a folyóparton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Mănăstirea Molivdoskepasti",
+            "tip": "Curtea mănăstirii oferă priveliști incredibile și pașnice asupra văii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Aoos",
+            "tip": "După prânz, un moment de liniște pe malul râului este perfect.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Molivdoskepasti Monastery",
+            "tip": "The monastery courtyard offers incredible, peaceful views of the valley.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aoos Riverbank",
+            "tip": "After lunch, a quiet moment by the riverbank is perfect.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Tsipouro",
+            "tip": "Ein starkes lokales Getränk, das ein tolles Souvenir für Mutige ist."
+          },
+          {
+            "name": "Wollwaren",
+            "tip": "In der Region gibt es eine lange Tradition der Weberei, halten Sie Ausschau nach Decken oder Teppichen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi Tsipouro",
+            "tip": "Erős helyi ital, ami remek szuvenír a bátraknak."
+          },
+          {
+            "name": "Gyapjútermékek",
+            "tip": "A régiónak nagy hagyománya van a szövésben, keress takarókat vagy szőnyegeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tsipouro local",
+            "tip": "O băutură locală puternică, ce reprezintă un suvenir excelent pentru cei curajoși."
+          },
+          {
+            "name": "Articole din lână",
+            "tip": "Regiunea are o lungă tradiție în țesut, căutați pături sau covoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Tsipouro",
+            "tip": "A strong local spirit that makes a great souvenir for the brave."
+          },
+          {
+            "name": "Woolen Goods",
+            "tip": "The region has a long tradition of weaving, look for blankets or rugs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zum Kloster ist steil; E-Bikes werden für eine gemütlichere Fahrt empfohlen.",
+          "Nehmen Sie viel Wasser und einige Snacks für die Fahrt mit.",
+          "Überprüfen Sie die Öffnungszeiten des Klosters im Voraus."
+        ],
+        "hu": [
+          "A kolostorhoz vezető út meredek; e-bike ajánlott a kényelmesebb utazáshoz.",
+          "Vigyél magaddal sok vizet és némi harapnivalót az útra.",
+          "Előre ellenőrizd a kolostor nyitvatartási idejét."
+        ],
+        "ro": [
+          "Drumul spre mănăstire este abrupt; bicicletele electrice sunt recomandate pentru o plimbare mai lejeră.",
+          "Luați multă apă și câteva gustări pentru drum.",
+          "Verificați dinainte orele de vizitare ale mănăstirii."
+        ],
+        "en": [
+          "The road to the monastery is steep; e-bikes are recommended for a more comfortable ride.",
+          "Take plenty of water and some snacks for the ride.",
+          "Check the monastery's visiting hours in advance."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 36.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster Molivdoskepasti",
+            "hu": "Molivdoskepasti kolostor",
+            "ro": "Mănăstirea Molivdoskepasti",
+            "en": "Monastery of Molivdoskepasti"
+          },
+          "coords": [
+            20.665,
+            40.021
+          ],
+          "category": "churches",
+          "arrive_at": "09:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer Fahrt zu diesem ruhigen, historischen Ort.",
+            "hu": "Kezdd a napot egy autózással ehhez a békés, történelmi helyszínhez.",
+            "ro": "Începeți ziua cu o călătorie cu mașina spre acest loc liniștit și istoric.",
+            "en": "Start your day with a drive to this serene, historic location."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinbrücke von Konitsa",
+            "hu": "Konicai kőhíd",
+            "ro": "Podul de Piatră din Konitsa",
+            "en": "Stone Bridge of Konitsa"
+          },
+          "coords": [
+            20.7445,
+            40.0392
+          ],
+          "category": "bridges",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und gehen Sie zu Fuß, um dieses Meisterwerk der Technik zu bewundern.",
+            "hu": "Parkolj a közelben, és sétálj, hogy megcsodáld ezt a mérnöki remekművet.",
+            "ro": "Parcați în apropiere și plimbați-vă pentru a admira această capodoperă inginerească.",
+            "en": "Park nearby and take a walk to admire this masterpiece of engineering."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang in der Aoos-Schlucht",
+            "hu": "Séta az Aóosz-szurdokban",
+            "ro": "Plimbare în Cheile Aoos",
+            "en": "Aoos Gorge Walk"
+          },
+          "coords": [
+            20.7488,
+            40.0395
+          ],
+          "category": "natural features",
+          "arrive_at": "11:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Brückenparkplatz aus ist es ein kurzer Spaziergang zum Eingang des Wanderwegs.",
+            "hu": "A híd parkolójától rövid séta vezet a túraútvonal bejáratához.",
+            "ro": "De la parcarea podului, este o scurtă plimbare până la intrarea pe traseu.",
+            "en": "From the bridge parking area, it's a short walk to the trail entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Konitsa",
+            "hu": "Ebéd Konicában",
+            "ro": "Prânz în Konitsa",
+            "en": "Lunch in Konitsa"
+          },
+          "coords": [
+            20.7511,
+            40.0435
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Stadtzentrum und parken Sie, um eine Auswahl an Tavernen zu finden.",
+            "hu": "Vezess be a városközpontba, és parkolj le, hogy válogathass a tavernák közül.",
+            "ro": "Conduceți în centrul orașului și parcați pentru a găsi o varietate de taverne.",
+            "en": "Drive into the town center and park to find a choice of tavernas."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus von Hussein Sisko",
+            "hu": "Husszein Sisko udvarháza",
+            "ro": "Conacul lui Hussein Sisko",
+            "en": "Mansion of Hussein Sisko"
+          },
+          "coords": [
+            20.7511,
+            40.0435
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen ein kurzer Spaziergang, um die lokale osmanische Architektur zu sehen.",
+            "hu": "Ebéd után egy rövid séta, hogy megnézd a helyi oszmán építészetet.",
+            "ro": "O scurtă plimbare după prânz pentru a vedea arhitectura otomană locală.",
+            "en": "A short walk after lunch to see the local Ottoman architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus des Heiligen Paisios",
+            "hu": "Szent Paisziosz szülőháza",
+            "ro": "Casa Sfântului Paisie",
+            "en": "House of Saint Paisios"
+          },
+          "coords": [
+            20.7525,
+            40.0442
+          ],
+          "category": "historical",
+          "arrive_at": "15:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang entfernt, ein wichtiger Ort für orthodoxe Besucher.",
+            "hu": "Csak egy rövid sétára, fontos hely az ortodox látogatók számára.",
+            "ro": "La o scurtă plimbare, un loc important pentru vizitatorii ortodocși.",
+            "en": "Just a short walk away, an important site for Orthodox visitors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag maximiert die Reichweite und beginnt mit einer ruhigen Fahrt zum Kloster Molivdoskepasti. Anschließend fahren Sie zum berühmten Cluster aus Steinbrücke und Aoos-Schlucht, wo Sie parken und zu Fuß die natürliche Schönheit erkunden. Am Nachmittag fahren Sie ins Herz von Konitsa, um zu Mittag zu essen und dann zu Fuß die historischen Herrenhäuser zu entdecken. Dieser Plan kombiniert Fahren zwischen Clustern mit entspannten Spaziergängen innerhalb dieser, um das Beste aus beiden Welten zu erleben.",
+        "hu": "Az autós napod maximalizálja a hatótávolságot, egy békés utazással kezdődik a Molivdoskepasti kolostorhoz. Ezután a híres kőhíd és az Aóosz-szurdok párosához hajtasz, ahol leparkolsz, és gyalog fedezed fel a természeti szépségeket. Délután Konica szívébe mész ebédelni, majd gyalogosan fedezed fel a történelmi udvarházakat. Ez a terv kombinálja a klaszterek közötti vezetést a pihentető sétákkal, hogy mindkét világból a legjobbat hozza ki.",
+        "ro": "Ziua dvs. cu mașina maximizează acoperirea, începând cu o călătorie senină la Mănăstirea Molivdoskepasti. Apoi, veți conduce la faimosul grup format din Podul de Piatră și Cheile Aoos, parcând pentru a explora frumusețea naturală pe jos. După-amiaza vă duce în inima Koniței pentru prânz, urmată de o plimbare pentru a descoperi conacele istorice. Acest plan combină condusul între grupuri cu plimbări relaxante în interiorul acestora pentru a beneficia de tot ce este mai bun.",
+        "en": "Your car day maximizes range, starting with a serene drive to the Monastery of Molivdoskepasti. You'll then head to the famous Stone Bridge and Aoos Gorge cluster, parking to explore the natural beauty on foot. The afternoon takes you into the heart of Konitsa for lunch, followed by a walk to discover the historic mansions. This plan mixes driving between clusters with relaxed walks within them for the best of both worlds."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pites (Pasteten)",
+            "tip": "Probieren Sie die lokalen herzhaften Pasteten, gefüllt mit Käse, Gemüse oder Fleisch."
+          },
+          {
+            "name": "Gegrilltes Fleisch",
+            "tip": "Die Tavernen sind berühmt für ihre perfekt gegrillten Lammkoteletts und Souvlaki."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piték",
+            "tip": "Kóstold meg a helyi sós pitéket, sajttal, zöldségekkel vagy hússal töltve."
+          },
+          {
+            "name": "Grillezett húsok",
+            "tip": "A tavernák híresek a tökéletesen grillezett báránybordájukról és souvlakijukról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pites (Plăcinte)",
+            "tip": "Încercați plăcintele locale sărate, umplute cu brânză, verdețuri sau carne."
+          },
+          {
+            "name": "Carne la grătar",
+            "tip": "Tavernele sunt renumite pentru cotletele de miel și souvlaki perfect gătite la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pites (Pies)",
+            "tip": "Try the local savory pies, filled with cheese, greens, or meat."
+          },
+          {
+            "name": "Grilled Meats",
+            "tip": "The tavernas are famous for their perfectly grilled lamb chops and souvlaki."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Drachensee von Smolikas",
+            "tip": "Wenn Sie einen ganzen Tag Zeit haben, ist die Wanderung zu diesem Alpensee eine unvergessliche, ruhige Reise.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kloster Molivdoskepasti",
+            "tip": "Die Stille an diesem alten Ort ist tiefgreifend.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szmolikasz Sárkány-tó",
+            "tip": "Ha van egy egész napod, a túra ehhez az alpesi tóhoz egy felejthetetlen, békés utazás.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Molivdoskepasti kolostor",
+            "tip": "A csend ezen az ősi helyen mélységes.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Dragonului din Smolikas",
+            "tip": "Dacă aveți o zi întreagă, drumeția la acest lac alpin este o călătorie de neuitat și liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mănăstirea Molivdoskepasti",
+            "tip": "Liniștea de la acest sit vechi este profundă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dragon Lake of Smolikas",
+            "tip": "If you have a full day, the hike to this alpine lake is an unforgettable, quiet journey.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monastery of Molivdoskepasti",
+            "tip": "The silence at this ancient site is profound.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Tsipouro",
+            "tip": "Ein starkes lokales Getränk, das ein tolles Souvenir für Mutige ist."
+          },
+          {
+            "name": "Wollwaren",
+            "tip": "In der Region gibt es eine lange Tradition der Weberei, halten Sie Ausschau nach Decken oder Teppichen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi Tsipouro",
+            "tip": "Erős helyi ital, ami remek szuvenír a bátraknak."
+          },
+          {
+            "name": "Gyapjútermékek",
+            "tip": "A régiónak nagy hagyománya van a szövésben, keress takarókat vagy szőnyegeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tsipouro local",
+            "tip": "O băutură locală puternică, ce reprezintă un suvenir excelent pentru cei curajoși."
+          },
+          {
+            "name": "Articole din lână",
+            "tip": "Regiunea are o lungă tradiție în țesut, căutați pături sau covoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Tsipouro",
+            "tip": "A strong local spirit that makes a great souvenir for the brave."
+          },
+          {
+            "name": "Woolen Goods",
+            "tip": "The region has a long tradition of weaving, look for blankets or rugs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen in der Region sind eng und kurvenreich; fahren Sie vorsichtig.",
+          "Parkmöglichkeiten können im Stadtzentrum begrenzt sein, seien Sie also geduldig.",
+          "Ein GPS ist für die Navigation zu entlegeneren Orten wie dem Kloster unerlässlich."
+        ],
+        "hu": [
+          "A régió útjai keskenyek és kanyargósak; vezess óvatosan.",
+          "A parkolás korlátozott lehet a városközpontban, légy türelmes.",
+          "A GPS elengedhetetlen a távolabbi helyekre, mint például a kolostor, történő navigáláshoz."
+        ],
+        "ro": [
+          "Drumurile din regiune sunt înguste și sinuoase; conduceți cu prudență.",
+          "Parcarea poate fi limitată în centrul orașului, așa că aveți răbdare.",
+          "Un GPS este esențial pentru a naviga spre locații mai îndepărtate, cum ar fi mănăstirea."
+        ],
+        "en": [
+          "Roads in the region are narrow and winding; drive carefully.",
+          "Parking can be limited in the town center, so be patient.",
+          "A GPS is essential for navigating to more remote spots like the monastery."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Busfahrt zum Brückenbereich",
+            "hu": "Buszozás a híd környékére",
+            "ro": "Călătorie cu autobuzul spre zona podului",
+            "en": "Bus to the Bridge Area"
+          },
+          "coords": [
+            20.7448,
+            40.0398
+          ],
+          "category": "transit",
+          "arrive_at": "09:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen KTEL-Bus vom Stadtzentrum zur Haltestelle in der Nähe der Steinbrücke.",
+            "hu": "Menj a helyi KTEL busszal a városközpontból a kőhíd melletti megállóig.",
+            "ro": "Luați un autobuz local KTEL din centrul orașului până la stația de lângă Podul de Piatră.",
+            "en": "Take a local KTEL bus from the town center to the stop near the stone bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinbrücke & Aoos-Schlucht",
+            "hu": "Kőhíd és Aóosz-szurdok",
+            "ro": "Podul de Piatră și Cheile Aoos",
+            "en": "Stone Bridge & Aoos Gorge"
+          },
+          "coords": [
+            20.7445,
+            40.0392
+          ],
+          "category": "landmark",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Brücke und gehen Sie ein Stück in die Schlucht hinein, um die Landschaft zu genießen.",
+            "hu": "Fedezd fel a hidat, és sétálj be egy kicsit a szurdokba, hogy élvezd a tájat.",
+            "ro": "Explorați podul și faceți o scurtă plimbare în chei pentru a admira peisajul.",
+            "en": "Explore the bridge and walk a short way into the gorge to take in the scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Stadtzentrum",
+            "hu": "Visszatérés a városközpontba",
+            "ro": "Întoarcere în centrul orașului",
+            "en": "Return to Town Center"
+          },
+          "coords": [
+            20.7511,
+            40.0435
+          ],
+          "category": "transit",
+          "arrive_at": "12:05",
+          "stay_min": 0,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum, um dort zu Mittag zu essen und am Nachmittag zu erkunden.",
+            "hu": "Menj vissza busszal a központba ebédelni és délutáni felfedezőútra.",
+            "ro": "Luați autobuzul înapoi în centru pentru prânz și explorare de după-amiază.",
+            "en": "Take the bus back to the center for lunch and afternoon exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Erkundung der Altstadt",
+            "hu": "Ebéd és az óváros felfedezése",
+            "ro": "Prânz și explorarea orașului vechi",
+            "en": "Lunch and Old Town Exploration"
+          },
+          "coords": [
+            20.7515,
+            40.044
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen und schlendern Sie dann zum Herrenhaus Hussein Sisko und zur Agios-Nikolaos-Kirche.",
+            "hu": "Ebédelj, majd sétálj el a Husszein Sisko udvarházhoz és az Agios Nikolaos templomhoz.",
+            "ro": "Bucurați-vă de prânz, apoi plimbați-vă la Conacul Hussein Sisko și Biserica Agios Nikolaos.",
+            "en": "Enjoy lunch and then stroll to Hussein Sisko's Mansion and Agios Nikolaos Church."
+          }
+        },
+        {
+          "name": {
+            "de": "Umweltzentrum Konitsa",
+            "hu": "Konicai Környezetvédelmi Központ",
+            "ro": "Centrul de Mediu Konitsa",
+            "en": "Environmental Center of Konitsa"
+          },
+          "coords": [
+            20.7533,
+            40.0489
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein etwas längerer Spaziergang den Hügel hinauf, um Ihren Tag mit lehrreichen Einblicken zu beenden.",
+            "hu": "Egy kicsit hosszabb séta fel a hegyre, hogy a napot tanulságos ismeretekkel zárd.",
+            "ro": "O plimbare puțin mai lungă pe deal pentru a încheia ziua cu informații educative.",
+            "en": "A slightly longer walk up the hill to end your day with educational insights."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer lokalen Busfahrt von Konitsas Zentrum hinunter zur berühmten Steinbrücke, dem Tor zur Aoos-Schlucht. Nach der Erkundung des Brücken-Clusters zu Fuß nehmen Sie den Bus zurück bergauf. Den Nachmittag verbringen Sie damit, das Herz der Stadt zu Fuß zu erkunden, von den Tavernen über die historischen Herrenhäuser bis hin zum Umweltzentrum, alles in Laufnähe von der zentralen Bushaltestelle aus.",
+        "hu": "A napod egy helyi buszjárattal kezdődik Konica központjából a híres kőhídhoz, az Aóosz-szurdok kapujához. Miután gyalog felfedezted a híd környékét, busszal visszamész a hegyre. A délutánt a város szívének gyalogos felfedezésével töltöd, a tavernáktól a történelmi udvarházakon át a Környezetvédelmi Központig, mind sétatávolságra a központi buszmegállótól.",
+        "ro": "Ziua dvs. începe cu o călătorie cu autobuzul local din centrul Koniței până la faimosul pod de piatră, poarta de acces către Cheile Aoos. După explorarea pe jos a zonei podului, luați autobuzul înapoi pe deal. După-amiaza este petrecută explorând inima orașului pe jos, de la taverne la conace istorice și Centrul de Mediu, toate la distanță de mers pe jos de stația centrală de autobuz.",
+        "en": "Your day begins with a local bus ride from Konitsa's center down to the famous stone bridge, the gateway to the Aoos Gorge. After exploring the bridge cluster on foot, you'll take the bus back uphill. The afternoon is spent exploring the heart of the town on foot, from its tavernas to historic mansions and the Environmental Center, all within walking distance from the central bus stop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pites (Pasteten)",
+            "tip": "Probieren Sie die lokalen herzhaften Pasteten, gefüllt mit Käse, Gemüse oder Fleisch."
+          },
+          {
+            "name": "Gegrilltes Fleisch",
+            "tip": "Die Tavernen sind berühmt für ihre perfekt gegrillten Lammkoteletts und Souvlaki."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piték",
+            "tip": "Kóstold meg a helyi sós pitéket, sajttal, zöldségekkel vagy hússal töltve."
+          },
+          {
+            "name": "Grillezett húsok",
+            "tip": "A tavernák híresek a tökéletesen grillezett báránybordájukról és souvlakijukról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pites (Plăcinte)",
+            "tip": "Încercați plăcintele locale sărate, umplute cu brânză, verdețuri sau carne."
+          },
+          {
+            "name": "Carne la grătar",
+            "tip": "Tavernele sunt renumite pentru cotletele de miel și souvlaki perfect gătite la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pites (Pies)",
+            "tip": "Try the local savory pies, filled with cheese, greens, or meat."
+          },
+          {
+            "name": "Grilled Meats",
+            "tip": "The tavernas are famous for their perfectly grilled lamb chops and souvlaki."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aoos-Flussufer",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer in der Nähe der Brücke, um dem Wasser zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof von Agios Nikolaos",
+            "tip": "Der Hof bietet einen friedlichen Rückzugsort mit Blick über die Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aóosz folyópart",
+            "tip": "Keress egy csendes helyet a folyóparton a híd közelében, és hallgasd a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agios Nikolaos templomkert",
+            "tip": "Az udvar békés menedéket nyújt, kilátással a városra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Aoos",
+            "tip": "Găsiți un loc liniștit pe malul râului, lângă pod, pentru a asculta apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Bisericii Agios Nikolaos",
+            "tip": "Curtea oferă un refugiu pașnic cu vederi asupra orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aoos Riverbank",
+            "tip": "Find a quiet spot by the riverbank near the bridge to listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agios Nikolaos Churchyard",
+            "tip": "The courtyard offers a peaceful retreat with views over the town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kräuter und Honig",
+            "tip": "Suchen Sie nach Oregano, Bergtee und lokalem Tannen- oder Blumenhonig."
+          },
+          {
+            "name": "Handgefertigter Schmuck",
+            "tip": "Lokale Kunsthandwerker stellen einzigartige Stücke her, die von der Natur inspiriert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi fűszernövények és méz",
+            "tip": "Keress oregánót, hegyi teát és helyi fenyő- vagy virágmézet."
+          },
+          {
+            "name": "Kézzel készített ékszerek",
+            "tip": "A helyi kézművesek egyedi, természet ihlette darabokat készítenek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ierburi locale și miere",
+            "tip": "Căutați oregano, ceai de munte și miere locală de brad sau de flori."
+          },
+          {
+            "name": "Bijuterii artizanale",
+            "tip": "Artizanii locali creează piese unice inspirate de natură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Herbs and Honey",
+            "tip": "Look for oregano, mountain tea, and local fir or flower honey."
+          },
+          {
+            "name": "Handmade Jewelry",
+            "tip": "Local artisans create unique pieces inspired by nature."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den lokalen KTEL-Busfahrplan im Voraus, da die Verbindungen möglicherweise nicht häufig sind.",
+          "Haben Sie Kleingeld für Bustickets dabei.",
+          "Planen Sie Ihre Zeit an der Brücke entsprechend dem Busfahrplan für die Rückfahrt."
+        ],
+        "hu": [
+          "Előre ellenőrizd a helyi KTEL buszmenetrendet, a járatok ritkák lehetnek.",
+          "Legyen nálad aprópénz a buszjegyekhez.",
+          "A hídnál töltött időt a visszainduló busz menetrendjéhez igazítsd."
+        ],
+        "ro": [
+          "Verificați în avans programul autobuzelor locale KTEL, deoarece serviciile pot fi rare.",
+          "Aveți la îndemână bani mărunți pentru biletele de autobuz.",
+          "Planificați-vă timpul la pod în funcție de programul autobuzului de întoarcere."
+        ],
+        "en": [
+          "Check the local KTEL bus schedule in advance, as services may be infrequent.",
+          "Have small change ready for bus tickets.",
+          "Plan your time at the bridge according to the return bus schedule."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1236 @@
+{
+  "city_id": "spain-jaca-cities-v2",
+  "anchor": {
+    "name": "Jaca",
+    "coords": [
+      -0.5489,
+      42.5714
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 2.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Paseo de la Constitución",
+          "coords": [
+            -0.549,
+            42.573
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Trinken Sie hier einen Kaffee im Schatten der Platanen.",
+            "hu": "Igyon egy kávét a platánfák árnyékában a séta előtt.",
+            "ro": "Beți o cafea la umbra platanilor înainte de plimbare.",
+            "en": "Grab a coffee under the plane trees before your walk."
+          }
+        },
+        {
+          "name": "Zitadelle von Jaca",
+          "coords": [
+            -0.552,
+            42.573
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie die Hirsche im Burggraben der Festung.",
+            "hu": "Figyelje meg az erőd árkában élő szarvasokat.",
+            "ro": "Observați cerbii care trăiesc în șanțul cetății.",
+            "en": "Spot the deer living in the dry moat of the fortress."
+          }
+        },
+        {
+          "name": "Uhrenturm (Torre del Reloj)",
+          "coords": [
+            -0.5495,
+            42.5715
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erbaut 1445, diente er auch als königliches Gefängnis.",
+            "hu": "Az 1445-ben épült torony egykor börtönként is szolgált.",
+            "ro": "Construit în 1445, a servit și ca închisoare regală.",
+            "en": "Built in 1445, this tower also served as a royal prison."
+          }
+        },
+        {
+          "name": "Kathedrale San Pedro",
+          "coords": [
+            -0.548,
+            42.571
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf das typische Schachbrettmuster am Portal.",
+            "hu": "Figyelje meg a jellegzetes sakktábla-mintát a portálon.",
+            "ro": "Observați modelul tipic de tablă de șah de pe portal.",
+            "en": "Notice the typical checkerboard pattern on the main portal."
+          }
+        },
+        {
+          "name": "Diözesanmuseum von Jaca",
+          "coords": [
+            -0.548,
+            42.571
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beherbergt wertvolle romanische Fresken aus den Pyrenäen.",
+            "hu": "Értékes román kori freskókat őriz a Pireneusokból.",
+            "ro": "Adăpostește fresce romanice valoroase din Pirinei.",
+            "en": "Houses valuable Romanesque frescoes from the Pyrenees."
+          }
+        },
+        {
+          "name": "Benediktinerinnen-Kloster",
+          "coords": [
+            -0.547,
+            42.57
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Krypta enthält den Sarkophag von Sancha d'Aragón.",
+            "hu": "A kriptában található Sancha d'Aragón szarkofágja.",
+            "ro": "Cripta conține sarcofagul Sanchei de Aragon.",
+            "en": "The crypt contains the sarcophagus of Sancha d'Aragón."
+          }
+        },
+        {
+          "name": "Brücke San Miguel",
+          "coords": [
+            -0.558,
+            42.576
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine mittelalterliche Steinbrücke am Jakobsweg.",
+            "hu": "Egy középkori kőhíd, amely a Szent Jakab-úton fekszik.",
+            "ro": "Un pod medieval de piatră aflat pe Drumul Sfântului Iacob.",
+            "en": "A medieval stone bridge situated on the Camino de Santiago."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Paseo de la Constitución, bevor Sie die fünfeckige Zitadelle aus dem Jahr 1592 erkunden. Mittags führt der Weg zur romanischen Kathedrale und dem Uhrenturm. Nachmittags beeindruckt das Diözesanmuseum mit seinen Wandmalereien. Der Tag endet mit einem Spaziergang zur Brücke San Miguel.",
+        "hu": "Kezdje a napot a Paseo de la Constitución platánjai alatt, majd fedezze fel az 1592-ben épült ötszögletű fellegvárat. Délben a román stílusú katedrális és az óratorony következik. Délután az egyházmegyei múzeum freskói várják. A napot a San Miguel hídnál zárjuk.",
+        "ro": "Începeți pe Paseo de la Constitución, apoi explorați cetatea pentagonală construită în 1592. La prânz, vizitați catedrala romanică și turnul cu ceas. După-amiaza este dedicată frescelor din muzeul eparhial. Ziua se încheie cu o plimbare până la podul San Miguel.",
+        "en": "Start at the Paseo de la Constitución before exploring the pentagonal citadel built in 1592. At noon, head to the Romanesque cathedral and the clock tower. Spend the afternoon viewing frescoes at the Diocesan Museum. Conclude with a walk to the San Miguel bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Migas aragonesas",
+            "tip": "Geröstete Brotkrumen mit Knoblauch und Chorizo, probieren in La Cadiera."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Gebratenes Lammfleisch aus Aragonien, serviert mit Kartoffeln."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Eine lokale Spezialität aus gefülltem Lamm-Magen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Migas aragonesas",
+            "tip": "Pirított kenyérmorzsa fokhagymával és chorizóval, kóstolja meg a La Cadiera étteremben."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Hagyományos aragóniai sült bárányhús burgonyával."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Helyi különlegesség: rizzsel és hússal töltött báránybendő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migas aragonesas",
+            "tip": "Firimituri de pâine prăjite cu usturoi și chorizo, de încercat la La Cadiera."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Miel prăjit tradițional din Aragon, servit cu cartofi."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "O specialitate locală din stomac de miel umplut."
+          }
+        ],
+        "en": [
+          {
+            "name": "Migas aragonesas",
+            "tip": "Toasted breadcrumbs with garlic and chorizo, try it at La Cadiera."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Traditional roasted Aragonese lamb served with potatoes."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "A local specialty made of stuffed lamb tripe."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo de la Constitución",
+            "tip": "Ruhiger Park mit vielen Bänken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Brücke San Miguel",
+            "tip": "Lauschen Sie dem Wasser des Aragon-Flusses.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo de la Constitución",
+            "tip": "Csendes park padokkal és öreg fákkal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "San Miguel híd",
+            "tip": "Hallgassa az Aragón folyó zúgását.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo de la Constitución",
+            "tip": "Un parc liniștit cu multe bănci.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Podul San Miguel",
+            "tip": "Ascultați apa râului Aragon.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo de la Constitución",
+            "tip": "A quiet park with plenty of benches.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "San Miguel Bridge",
+            "tip": "Listen to the flowing water of the Aragon river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lazos de Jaca",
+            "tip": "Ein blätterteigähnliches Gebäck aus der Pastelería La Suiza."
+          },
+          {
+            "name": "Freitagsmarkt",
+            "tip": "Lokale Käse- und Wurstwaren aus den Pyrenäen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lazos de Jaca",
+            "tip": "Helyi leveles tészta alapú édesség a Pastelería La Suiza cukrászdából."
+          },
+          {
+            "name": "Pénteki piac",
+            "tip": "Helyi sajtok és felvágottak a Pireneusokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lazos de Jaca",
+            "tip": "Un produs de patiserie specific de la Pastelería La Suiza."
+          },
+          {
+            "name": "Piața de vineri",
+            "tip": "Brânzeturi locale și mezeluri din Pirinei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lazos de Jaca",
+            "tip": "A local puff pastry sweet from Pastelería La Suiza."
+          },
+          {
+            "name": "Friday Market",
+            "tip": "Local cheeses and cured meats from the Pyrenees."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das historische Zentrum von Jaca lässt sich am besten zu Fuß erkunden.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster rund um die Kathedrale.",
+          "Die Siesta-Zeiten werden in den kleinen Geschäften streng eingehalten.",
+          "Buchen Sie das Diözesanmuseum im Sommer besser vorab."
+        ],
+        "hu": [
+          "Jaca történelmi központja gyalogosan járható be a legkönnyebben.",
+          "Viseljen kényelmes cipőt a katedrális körüli macskaköves utcákon.",
+          "A kisboltok szigorúan betartják a szieszta időszakát.",
+          "Nyáron érdemes előre jegyet venni az egyházmegyei múzeumba."
+        ],
+        "ro": [
+          "Centrul istoric din Jaca se explorează cel mai bine pe jos.",
+          "Purtați încălțăminte confortabilă pentru străzile pietruite din jurul catedralei.",
+          "Orele de siestă sunt respectate cu strictețe în magazinele mici.",
+          "Vara, este recomandat să rezervați bilete în avans pentru muzeul eparhial."
+        ],
+        "en": [
+          "Jaca's historic center is best explored entirely on foot.",
+          "Wear comfortable shoes for the cobblestones around the cathedral.",
+          "Siesta times are strictly followed in the smaller local shops.",
+          "In summer, it is best to book the Diocesan Museum tickets in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Paseo de la Constitución",
+          "coords": [
+            -0.549,
+            42.573
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie gemütlich im Park.",
+            "hu": "Kezdje a napot kényelmesen a parkban.",
+            "ro": "Începeți ziua relaxat în parc.",
+            "en": "Start comfortably in the park."
+          }
+        },
+        {
+          "name": "Kathedrale San Pedro",
+          "coords": [
+            -0.548,
+            42.571
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad am nahen Plaza de San Pedro ab.",
+            "hu": "Zárja le kerékpárját a közeli Plaza de San Pedro téren.",
+            "ro": "Legați bicicleta în apropiata Plaza de San Pedro.",
+            "en": "Lock your bike at the nearby Plaza de San Pedro."
+          }
+        },
+        {
+          "name": "Uhrenturm (Torre del Reloj)",
+          "coords": [
+            -0.5495,
+            42.5715
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Von hier sind es nur wenige Meter zur Zitadelle.",
+            "hu": "Innen csak pár méter a Citadella.",
+            "ro": "De aici sunt doar câțiva metri până la cetate.",
+            "en": "From here it is only a few meters to the Citadel."
+          }
+        },
+        {
+          "name": "Zitadelle von Jaca",
+          "coords": [
+            -0.552,
+            42.573
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Man kann wunderbar um den fünfeckigen Festungsgraben radeln.",
+            "hu": "Kiválóan körbekerékpározható az ötszögletű erődárok.",
+            "ro": "Se poate pedala excelent în jurul șanțului pentagonal.",
+            "en": "You can easily cycle around the pentagonal fortress moat."
+          }
+        },
+        {
+          "name": "Brücke San Miguel",
+          "coords": [
+            -0.558,
+            42.576
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine schöne kurze Abfahrt in Richtung Fluss.",
+            "hu": "Kellemes, rövid lejtmenet a folyó irányába.",
+            "ro": "O coborâre scurtă și plăcută spre râu.",
+            "en": "A pleasant short downhill ride towards the river."
+          }
+        },
+        {
+          "name": "Festung Rapitán",
+          "coords": [
+            -0.54,
+            42.585
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein steiler Anstieg. Mit dem E-Bike deutlich einfacher.",
+            "hu": "Meredek emelkedő. E-bike-kal jóval könnyebb.",
+            "ro": "O urcare abruptă. Cu un e-bike este mult mai ușor.",
+            "en": "A steep climb. Considerably easier with an e-bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrradtour beginnt entspannt im Park, bevor Sie das historische Zentrum mit Kathedrale und Uhrenturm abfahren. Umrunden Sie die mächtige Zitadelle auf zwei Rädern. Nach einem Stopp an der mittelalterlichen Brücke erwartet Sie ein sportlicher Anstieg zur Festung Rapitán.",
+        "hu": "A kerékpártúra a parkban indul, majd a történelmi központban folytatódik a katedrálissal és az óratoronnyal. Kerülje meg két keréken a hatalmas Citadellát. A középkori híd megtekintése után sportos emelkedő vár a Rapitán erődig.",
+        "ro": "Turul cu bicicleta începe relaxat în parc, continuând în centrul istoric la catedrală și turnul cu ceas. Înconjurați cetatea masivă pe două roți. După un popas la podul medieval, urmează o urcare sportivă până la Fortăreața Rapitán.",
+        "en": "The bike tour starts comfortably in the park before heading to the historic center's cathedral and clock tower. Cycle around the massive citadel. After stopping at the medieval bridge, a challenging climb to Rapitán Fortress awaits."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillos bei La Tasca",
+            "tip": "Perfekter schneller Snack für Radfahrer."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "Süße Teigtasche, ideal für die Lenkertasche."
+          },
+          {
+            "name": "Café con Leche",
+            "tip": "Stärken Sie sich am Plaza Mayor."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo a La Tasca-ban",
+            "tip": "Tökéletes gyors ebéd kerékpárosoknak."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "Édes tészta, ideális útravaló."
+          },
+          {
+            "name": "Café con Leche",
+            "tip": "Kávézzon a Plaza Mayoron indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo la La Tasca",
+            "tip": "Prânz rapid perfect pentru bicicliști."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "Plăcintă dulce, ideală pentru pachet."
+          },
+          {
+            "name": "Café con Leche",
+            "tip": "Beti o cafea în Plaza Mayor înainte de a pleca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillos at La Tasca",
+            "tip": "A perfect quick snack for cyclists."
+          },
+          {
+            "name": "Empanadico",
+            "tip": "A sweet pastry, great for a saddlebag snack."
+          },
+          {
+            "name": "Café con Leche",
+            "tip": "Fuel up at Plaza Mayor before starting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brücke San Miguel",
+            "tip": "Pause am Flussufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt Rapitán",
+            "tip": "Blick über das weite Tal nach dem Aufstieg.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Miguel híd",
+            "tip": "Pihenő a folyóparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rapitán kilátó",
+            "tip": "A völgy panorámája a mászás után.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podul San Miguel",
+            "tip": "Pauză pe malul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere Rapitán",
+            "tip": "Panoramă asupra văii după urcare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Miguel Bridge",
+            "tip": "Rest along the river banks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rapitán Viewpoint",
+            "tip": "Valley panorama after the climb.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Outdoor-Ausrüstung",
+            "tip": "Jaca hat viele exzellente Geschäfte für Alpinsport."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "Gesundes Souvenir aus den Pyrenäen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Outdoor felszerelés",
+            "tip": "Jaca számos kiváló alpinista bolttal rendelkezik."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "Egészséges szuvenír a Pireneusokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Echipament outdoor",
+            "tip": "Jaca are multe magazine excelente pentru alpinism."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Un suvenir sănătos din Pirinei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Outdoor gear",
+            "tip": "Jaca has many excellent shops for alpine sports."
+          },
+          {
+            "name": "Local honey",
+            "tip": "A healthy souvenir from the Pyrenees."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Fußgängerzone müssen Sie das Fahrrad oft schieben.",
+          "Die Auffahrt nach Rapitán erfordert gute Kondition.",
+          "Außerhalb der Stadt gibt es schöne Mountainbike-Trails.",
+          "Nehmen Sie genug Wasser für die Anstiege mit."
+        ],
+        "hu": [
+          "A sétálóutcákban gyakran tolni kell a kerékpárt.",
+          "A Rapitánhoz vezető emelkedő jó állóképességet igényel.",
+          "A városon kívül kiváló mountain bike ösvények futnak.",
+          "Vigyen elegendő vizet az emelkedőkhöz."
+        ],
+        "ro": [
+          "În zonele pietonale va trebui adesea să împingeți bicicleta.",
+          "Urcarea spre Rapitán necesită o condiție fizică bună.",
+          "În afara orașului există trasee frumoase de mountain bike.",
+          "Luați suficientă apă pentru urcări."
+        ],
+        "en": [
+          "You will often have to push your bike in pedestrian zones.",
+          "The climb to Rapitán requires good physical fitness.",
+          "There are excellent mountain bike trails just outside the city.",
+          "Bring enough water for the climbs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 6.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Kathedrale San Pedro",
+          "coords": [
+            -0.548,
+            42.571
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nutzen Sie die Parkplätze in Zentrumsnähe (Cluster 1).",
+            "hu": "Használja a központhoz közeli parkolókat (1. állomás).",
+            "ro": "Folosiți parcările din apropierea centrului (Cluster 1).",
+            "en": "Use the parking lots near the center (Cluster 1)."
+          }
+        },
+        {
+          "name": "Diözesanmuseum von Jaca",
+          "coords": [
+            -0.548,
+            42.571
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben der Kathedrale gelegen, kein Umsetzen nötig.",
+            "hu": "Közvetlenül a katedrális mellett található, nem kell mozdítani az autót.",
+            "ro": "Situat chiar lângă catedrală, nu trebuie mutată mașina.",
+            "en": "Located right next to the cathedral, no need to move the car."
+          }
+        },
+        {
+          "name": "Uhrenturm (Torre del Reloj)",
+          "coords": [
+            -0.5495,
+            42.5715
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg innerhalb der Altstadt.",
+            "hu": "Rövid séta az óvároson belül.",
+            "ro": "O scurtă plimbare prin orașul vechi.",
+            "en": "A short walk within the old town."
+          }
+        },
+        {
+          "name": "Zitadelle von Jaca",
+          "coords": [
+            -0.552,
+            42.573
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz nahe der Festung (Cluster 2).",
+            "hu": "Hajtson az erőd melletti parkolóba (2. állomás).",
+            "ro": "Conduceți spre parcarea de lângă cetate (Cluster 2).",
+            "en": "Drive to the parking lot near the fortress (Cluster 2)."
+          }
+        },
+        {
+          "name": "Festung Rapitán",
+          "coords": [
+            -0.54,
+            42.585
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:35",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt auf den Hügel (Cluster 3) mit weitem Panoramablick.",
+            "hu": "Autózás a hegyre (3. állomás), lenyűgöző kilátással.",
+            "ro": "Conduceți pe deal (Cluster 3) pentru o vedere panoramică.",
+            "en": "Drive up the hill (Cluster 3) for sweeping panoramic views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie morgens im Zentrum für die Kathedrale und das Diözesanmuseum. Nach einem Abstecher zum Uhrenturm fahren Sie zur imposanten Zitadelle. Am späten Nachmittag nehmen Sie das Auto hinauf zum Fuerte Rapitán für einen weiten Blick über das Aragon-Tal.",
+        "hu": "Reggel parkoljon le a központban a katedrális és a múzeum felfedezéséhez. Az óratorony megtekintése után vezessen az impozáns Citadellához. Késő délután autózzon fel a Rapitán erődbe, ahonnan páratlan kilátás nyílik az Aragón-völgyre.",
+        "ro": "Parcați dimineața în centru pentru a vedea catedrala și muzeul eparhial. După turnul cu ceas, conduceți la cetatea impunătoare. După-amiaza târziu, urcați cu mașina la Fortăreața Rapitán pentru a admira valea Aragonului.",
+        "en": "Park in the center this morning to explore the cathedral and museum. After the clock tower, drive to the imposing Citadel. In the late afternoon, drive up to the Rapitán Fortress for sweeping views over the Aragon valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Migas aragonesas",
+            "tip": "Geröstete Brotkrumen mit Knoblauch, probieren in La Cadiera."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Gebratenes Lammfleisch aus Aragonien."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Gefüllter Lamm-Magen, eine regionale Delikatesse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Migas aragonesas",
+            "tip": "Pirított kenyérmorzsa fokhagymával, kóstolja meg a La Cadiera étteremben."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Hagyományos aragóniai sült bárányhús."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Töltött báránybendő, igazi régiós ínyencség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migas aragonesas",
+            "tip": "Firimituri de pâine prăjite cu usturoi, de încercat la La Cadiera."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Miel prăjit tradițional din Aragon."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Stomac de miel umplut, o delicatesă regională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Migas aragonesas",
+            "tip": "Toasted breadcrumbs with garlic, try it at La Cadiera."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Traditional roasted Aragonese lamb."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Stuffed lamb tripe, a regional delicacy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festung Rapitán",
+            "tip": "Genießen Sie den Sonnenuntergang über den Bergen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de la Constitución",
+            "tip": "Ein grüner Park am Rande des Zentrums.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rapitán erőd",
+            "tip": "Élvezze a naplementét a hegyek felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de la Constitución",
+            "tip": "Egy zöld park a központ szélén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fortăreața Rapitán",
+            "tip": "Bucurați-vă de apusul de soare peste munți.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de la Constitución",
+            "tip": "Un parc verde la marginea centrului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rapitán Fortress",
+            "tip": "Enjoy the sunset over the mountains.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de la Constitución",
+            "tip": "A green park at the edge of the center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lazos de Jaca",
+            "tip": "Beliebtes Gebäck aus der Pastelería La Suiza."
+          },
+          {
+            "name": "Pyrenäen-Käse",
+            "tip": "Perfekt für den Kofferraum und die Heimreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lazos de Jaca",
+            "tip": "Népszerű sütemény a Pastelería La Suiza cukrászdából."
+          },
+          {
+            "name": "Pireneusi sajt",
+            "tip": "Kiválóan bírja az utazást a csomagtartóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lazos de Jaca",
+            "tip": "Patiserie populară de la Pastelería La Suiza."
+          },
+          {
+            "name": "Brânză de Pirinei",
+            "tip": "Perfectă pentru portbagaj și drumul spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lazos de Jaca",
+            "tip": "Popular pastry from Pastelería La Suiza."
+          },
+          {
+            "name": "Pyrenees Cheese",
+            "tip": "Perfect to bring home in the trunk."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in der direkten Altstadt ist restriktiv, nutzen Sie die Randparkplätze.",
+          "Die Straße hinauf zur Festung Rapitán ist kurvig, fahren Sie vorsichtig.",
+          "Parkplätze nahe der Zitadelle sind meist ausreichend vorhanden.",
+          "Planen Sie etwas Zeit für die Parkplatzsuche in der Hochsaison ein."
+        ],
+        "hu": [
+          "Az óvárosban a parkolás korlátozott, használja a peremparkolókat.",
+          "A Rapitán erődbe vezető út kanyargós, vezessen óvatosan.",
+          "A Citadella környékén általában könnyű parkolóhelyet találni.",
+          "Főszezonban számoljon extra idővel a parkolókeresésre."
+        ],
+        "ro": [
+          "Parcarea în centrul vechi este restrictivă, folosiți parcările marginale.",
+          "Drumul până la Fortăreața Rapitán este sinuos, conduceți cu prudență.",
+          "De obicei, locurile de parcare lângă cetate sunt suficiente.",
+          "În sezonul de vârf, alocați timp pentru găsirea unui loc de parcare."
+        ],
+        "en": [
+          "Parking right in the old town is restricted; use peripheral parking lots.",
+          "The road up to Rapitán Fortress is winding, drive carefully.",
+          "Parking spots near the Citadel are usually easy to find.",
+          "Allow some extra time to find parking during the peak season."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Zitadelle von Jaca",
+          "coords": [
+            -0.552,
+            42.573
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie bis zur Haltestelle nahe der Festung.",
+            "hu": "Utazzon az erődhöz legközelebbi megállóig.",
+            "ro": "Călătoriți până la stația din apropierea cetății.",
+            "en": "Take the bus to the stop near the fortress."
+          }
+        },
+        {
+          "name": "Paseo de la Constitución",
+          "coords": [
+            -0.549,
+            42.573
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Festungseingang.",
+            "hu": "Rövid séta az erőd bejáratától.",
+            "ro": "O scurtă plimbare de la intrarea cetății.",
+            "en": "A short walk from the fortress entrance."
+          }
+        },
+        {
+          "name": "Uhrenturm (Torre del Reloj)",
+          "coords": [
+            -0.5495,
+            42.5715
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus Richtung Altstadtzentrum.",
+            "hu": "Szálljon fel az óváros központja felé tartó buszra.",
+            "ro": "Luați autobuzul spre centrul orașului vechi.",
+            "en": "Take the local bus towards the old town center."
+          }
+        },
+        {
+          "name": "Kathedrale San Pedro",
+          "coords": [
+            -0.548,
+            42.571
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Schritte vom Uhrenturm entfernt.",
+            "hu": "Csak pár lépésre az óratoronytól.",
+            "ro": "La doar câțiva pași de turnul cu ceas.",
+            "en": "Just a few steps away from the clock tower."
+          }
+        },
+        {
+          "name": "Diözesanmuseum von Jaca",
+          "coords": [
+            -0.548,
+            42.571
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt bei der Kathedrale angebaut.",
+            "hu": "Közvetlenül a katedrális épületében.",
+            "ro": "Alăturat direct catedralei.",
+            "en": "Attached right to the cathedral."
+          }
+        },
+        {
+          "name": "Brücke San Miguel",
+          "coords": [
+            -0.558,
+            42.576
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bus in Richtung westlicher Stadtrand.",
+            "hu": "Busz a város nyugati pereme felé.",
+            "ro": "Autobuz spre marginea de vest a orașului.",
+            "en": "Bus towards the western edge of town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie im Norden an der beeindruckenden Zitadelle. Nach einer Pause im angrenzenden Park fahren Sie mit dem lokalen Bus in den historischen Kern, um den Uhrenturm, die Kathedrale und das Museum zu besichtigen. Den Abschluss bildet ein Ausflug zur Brücke San Miguel.",
+        "hu": "Induljon északról, a lenyűgöző Citadellától. A parkban tett pihenő után utazzon a helyi busszal a történelmi magba: nézze meg az óratornyot, a katedrálist és a múzeumot. Zárásként látogasson el a San Miguel hídhoz.",
+        "ro": "Începeți în nord, la cetatea impresionantă. După o pauză în parcul adiacent, luați autobuzul local spre nucleul istoric pentru a vizita turnul cu ceas, catedrala și muzeul. Ziua se încheie cu o excursie la podul San Miguel.",
+        "en": "Start in the north at the impressive Citadel. After a break in the nearby park, take the local bus to the historic core to visit the clock tower, cathedral, and museum. Finish with a trip out to the San Miguel bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Migas aragonesas",
+            "tip": "Geröstete Brotkrumen mit Knoblauch."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Gebratenes Lammfleisch, in den Restaurants am Plaza."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Gefüllter Lamm-Magen, traditionell zubereitet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Migas aragonesas",
+            "tip": "Pirított kenyérmorzsa fokhagymával."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Sült bárány, keresse a főtéri éttermekben."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Hagyományosan készített báránybendő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migas aragonesas",
+            "tip": "Firimituri de pâine prăjite cu usturoi."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Miel prăjit, servit în restaurantele din piață."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Stomac de miel umplut, preparat tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Migas aragonesas",
+            "tip": "Toasted breadcrumbs with garlic."
+          },
+          {
+            "name": "Ternasco asado",
+            "tip": "Roasted lamb, look for it in the plaza restaurants."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Traditionally prepared stuffed lamb tripe."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo de la Constitución",
+            "tip": "Ruhige Bänke abseits des Trubels.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Brücke San Miguel",
+            "tip": "Ein ruhiger Ort am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo de la Constitución",
+            "tip": "Csendes padok a nyüzsgéstől távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "San Miguel híd",
+            "tip": "Békés hely a vízparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo de la Constitución",
+            "tip": "Bănci liniștite departe de agitație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Podul San Miguel",
+            "tip": "Un loc liniștit lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo de la Constitución",
+            "tip": "Quiet benches away from the bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "San Miguel Bridge",
+            "tip": "A peaceful spot by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pastelería La Suiza",
+            "tip": "Kaufen Sie Lazos de Jaca in der Nähe der Bushaltestelle."
+          },
+          {
+            "name": "Kunsthandwerk",
+            "tip": "Kleine Boutiquen rund um die Kathedrale."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastelería La Suiza",
+            "tip": "Vegyen Lazos de Jaca-t a buszmegálló közelében."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Apró butikok a katedrális környékén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastelería La Suiza",
+            "tip": "Cumpărați Lazos de Jaca lângă stația de autobuz."
+          },
+          {
+            "name": "Artizanat",
+            "tip": "Mici buticuri în jurul catedralei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastelería La Suiza",
+            "tip": "Buy Lazos de Jaca near the bus stop."
+          },
+          {
+            "name": "Handicrafts",
+            "tip": "Small boutiques around the cathedral."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Busnetz in Jaca ist klein, prüfen Sie die Fahrpläne vorab.",
+          "Die historischen Straßen der Altstadt sind komplett autofrei.",
+          "Kaufen Sie Tickets idealerweise passend beim Fahrer.",
+          "Oftmals ist Gehen im Zentrum sogar schneller als Warten auf den Bus."
+        ],
+        "hu": [
+          "Jaca buszhálózata kicsi, előre ellenőrizze a menetrendet.",
+          "Az óváros történelmi utcái teljesen autómentesek.",
+          "A jegyeket érdemes kiszámolt aprópénzzel venni a sofőrnél.",
+          "Gyakran a séta a központban gyorsabb, mint a buszra várni."
+        ],
+        "ro": [
+          "Rețeaua de autobuze din Jaca este mică, verificați orarele în avans.",
+          "Străzile istorice din centrul vechi sunt complet fără mașini.",
+          "Cumpărați bilete ideal cu bani potriviți la șofer.",
+          "Adesea, mersul pe jos în centru este chiar mai rapid decât așteptatul autobuzului."
+        ],
+        "en": [
+          "Jaca's bus network is small; check schedules in advance.",
+          "The historic streets of the old town are completely pedestrianized.",
+          "Ideally, buy tickets with exact change from the driver.",
+          "Walking within the center is often faster than waiting for a bus."
+        ]
+      }
+    }
+  }
+}

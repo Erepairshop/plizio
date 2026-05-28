@@ -1,0 +1,1436 @@
+{
+  "city_id": "portugal-penafiel-cities-v2",
+  "anchor": {
+    "name": "Penafiel",
+    "coords": [
+      41.2,
+      -8.2833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtmuseum von Penafiel",
+            "hu": "Penafiel Városi Múzeum",
+            "ro": "Muzeul Municipal din Penafiel",
+            "en": "Municipal Museum of Penafiel"
+          },
+          "coords": [
+            41.2015,
+            -8.2865
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die archäologischen Funde aus Castro de Monte Mozinho.",
+            "hu": "Fókuszálj a Castro de Monte Mozinho régészeti leleteire.",
+            "ro": "Concentrează-te pe artefactele arheologice de la Castro de Monte Mozinho.",
+            "en": "Focus on the archaeological finds from Castro de Monte Mozinho."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Barmherzigkeit",
+            "hu": "Irgalmasság temploma",
+            "ro": "Biserica Misericórdia",
+            "en": "Church of Misericórdia"
+          },
+          "coords": [
+            41.2025,
+            -8.2855
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die wunderschönen Azulejo-Fliesen im Inneren.",
+            "hu": "Figyeld meg a gyönyörű azulejo csempéket a belső térben.",
+            "ro": "Observă frumoasele plăci de azulejo din interior.",
+            "en": "Notice the beautiful azulejo tile work inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Penafiel",
+            "hu": "Penafiel Főtemploma",
+            "ro": "Biserica Matriz din Penafiel",
+            "en": "Main Church of Penafiel"
+          },
+          "coords": [
+            41.2035,
+            -8.2845
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem manuelinischen Portal, einem nationalen Denkmal.",
+            "hu": "Keresd meg a mánueli stílusú kapuzatot, amely nemzeti műemlék.",
+            "ro": "Caută portalul manuelin, un monument național.",
+            "en": "Look for the Manueline portal, a national monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            41.204,
+            -8.285
+          ],
+          "category": "gastro",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie „Arroz de Sarrabulho“, eine lokale Spezialität.",
+            "hu": "Kóstold meg az „Arroz de Sarrabulho”-t, egy helyi specialitást.",
+            "ro": "Încearcă „Arroz de Sarrabulho”, o specialitate locală.",
+            "en": "Try 'Arroz de Sarrabulho', a local specialty."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg-Garten",
+            "hu": "Calvário Kert",
+            "ro": "Grădina Calvário",
+            "en": "Calvary Garden"
+          },
+          "coords": [
+            41.1995,
+            -8.2833
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Pause im Schatten der Bäume.",
+            "hu": "Tökéletes hely egy kis pihenésre a fák árnyékában.",
+            "ro": "Un loc perfect pentru o pauză la umbra copacilor.",
+            "en": "A perfect spot for a break in the shade of the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Sameiro-Heiligtum",
+            "hu": "Sameiro szentély",
+            "ro": "Sanctuarul Sameiro",
+            "en": "Sameiro Sanctuary"
+          },
+          "coords": [
+            41.215,
+            -8.28
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 2.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Panoramaaussicht auf die Stadt vom Heiligtum aus.",
+            "hu": "Élvezd a városra nyíló panorámát a szentélytől.",
+            "ro": "Bucură-te de vederea panoramică a orașului de la sanctuar.",
+            "en": "Enjoy the panoramic view of the city from the sanctuary."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Penafiel mit einem Besuch des Stadtmuseums, um in die lokale Geschichte einzutauchen. Schlendern Sie am Vormittag durch die historischen Kirchen im Stadtzentrum. Genießen Sie nach einem traditionellen Mittagessen einen entspannten Nachmittag im ruhigen Kalvarienberg-Garten. Beenden Sie Ihren Tag mit einem Spaziergang zum Sameiro-Heiligtum, um einen atemberaubenden Blick auf den Sonnenuntergang über der Stadt zu genießen.",
+        "hu": "Kezdje a napot Penafiel szívében a Városi Múzeum meglátogatásával, hogy elmerüljön a helyi történelemben. Délelőtt sétáljon végig a belváros történelmi templomain. Egy hagyományos ebéd után élvezze a pihentető délutánt a békés Calvário Kertben. A napot zárja egy sétával a Sameiro szentélyhez, ahonnan lenyűgöző naplementét nézhet a város felett.",
+        "ro": "Începeți ziua în inima orașului Penafiel cu o vizită la Muzeul Municipal pentru a vă cufunda în istoria locală. Plimbați-vă prin bisericile istorice din centrul orașului în timpul dimineții. După un prânz tradițional, bucurați-vă de o după-amiază relaxantă în liniștita Grădină Calvário. Încheiați ziua cu o plimbare până la Sanctuarul Sameiro pentru o priveliște uimitoare la apus asupra orașului.",
+        "en": "Start your day in the heart of Penafiel with a visit to the Municipal Museum to dive into local history. Stroll through the historic churches in the city center during the morning. After a traditional lunch, enjoy a relaxing afternoon in the peaceful Calvary Garden. End your day with a walk up to the Sameiro Sanctuary for a stunning sunset view over the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz de Sarrabulho",
+            "tip": "Ein herzhafter Reiseintopf mit Fleisch, eine lokale Delikatesse."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Probieren Sie den jungen, spritzigen Wein, der in dieser Region heimisch ist."
+          },
+          {
+            "name": "Restaurante O Miradouro",
+            "tip": "Bietet traditionelle portugiesische Küche mit schöner Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz de Sarrabulho",
+            "tip": "Egy kiadós, húsos rizses egytálétel, helyi finomság."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Kóstold meg a régióra jellemző fiatal, friss bort."
+          },
+          {
+            "name": "Restaurante O Miradouro",
+            "tip": "Hagyományos portugál ételeket kínál, gyönyörű kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz de Sarrabulho",
+            "tip": "O tocană consistentă de orez cu carne, o delicatesă locală."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Gustați vinul tânăr și proaspăt, specific acestei regiuni."
+          },
+          {
+            "name": "Restaurante O Miradouro",
+            "tip": "Oferă bucătărie tradițională portugheză cu o priveliște frumoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz de Sarrabulho",
+            "tip": "A hearty rice stew with meat, a local delicacy."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Taste the young, crisp wine native to this region."
+          },
+          {
+            "name": "Restaurante O Miradouro",
+            "tip": "Offers traditional Portuguese cuisine with a nice view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardim do Calvário",
+            "tip": "Finden Sie eine ruhige Bank unter den Bäumen, um sich zu entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Flusses Sousa",
+            "tip": "Ein friedlicher Spaziergang abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt am Sameiro-Heiligtum",
+            "tip": "Perfekt, um den Sonnenuntergang in Ruhe zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardim do Calvário",
+            "tip": "Keress egy csendes padot a fák alatt a pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sousa folyó partja",
+            "tip": "Egy békés séta távol a városközponttól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátó a Sameiro szentélynél",
+            "tip": "Tökéletes hely a naplemente csendes megfigyeléséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardim do Calvário",
+            "tip": "Găsește o bancă liniștită sub copaci pentru a te relaxa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Sousa",
+            "tip": "O plimbare liniștită departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere la Sanctuarul Sameiro",
+            "tip": "Perfect pentru a privi apusul în liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardim do Calvário",
+            "tip": "Find a quiet bench under the trees to relax.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Sousa River",
+            "tip": "A peaceful walk away from the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint at Sameiro Sanctuary",
+            "tip": "Perfect for watching the sunset in peace.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach frischen Produkten und regionalem Käse."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Kaufen Sie handgefertigte Keramik und Korkprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keress friss termékeket és regionális sajtokat."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Vásárolj kézzel készített kerámiákat és parafa termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Locală",
+            "tip": "Căutați produse proaspete și brânzeturi regionale."
+          },
+          {
+            "name": "Magazine de Artizanat",
+            "tip": "Cumpărați ceramică lucrată manual și produse din plută."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for fresh produce and regional cheeses."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Shop for handmade ceramics and cork products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum Kopfsteinpflasterstraßen hat.",
+          "Nehmen Sie viel Wasser mit, besonders im Sommer.",
+          "Die meisten Geschäfte und Museen können zur Mittagszeit schließen, planen Sie also entsprechend.",
+          "Die Einheimischen sind freundlich, aber es ist immer höflich, ein paar grundlegende portugiesische Sätze zu lernen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel a belváros macskaköves utakkal rendelkezik.",
+          "Vigyél magaddal sok vizet, különösen nyáron.",
+          "A legtöbb üzlet és múzeum bezárhat ebédidőben, ezért tervezz ennek megfelelően.",
+          "A helyiek barátságosak, de mindig udvarias dolog megtanulni néhány alapvető portugál kifejezést."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece centrul orașului are străzi pietruite.",
+          "Luați multă apă, mai ales în timpul verii.",
+          "Majoritatea magazinelor și muzeelor se pot închide la prânz, așa că planificați-vă în consecință.",
+          "Localnicii sunt prietenoși, dar este întotdeauna politicos să învățați câteva fraze de bază în portugheză."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center has cobblestone streets.",
+          "Bring plenty of water, especially during the summer.",
+          "Most shops and museums may close for lunch, so plan accordingly.",
+          "Locals are friendly, but learning a few basic Portuguese phrases is always polite."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 21.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Quinta da Aveleda",
+            "hu": "Quinta da Aveleda",
+            "ro": "Quinta da Aveleda",
+            "en": "Quinta da Aveleda"
+          },
+          "coords": [
+            41.1944,
+            -8.3167
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:28",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um mehr über die Weinherstellung und die Gärten zu erfahren.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megismerje a borkészítést és a kerteket.",
+            "ro": "Participați la un tur ghidat pentru a învăța despre producția de vin și grădini.",
+            "en": "Take a guided tour to learn about the wine production and gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum von Penafiel",
+            "hu": "Penafiel Városi Múzeum",
+            "ro": "Muzeul Municipal din Penafiel",
+            "en": "Municipal Museum of Penafiel"
+          },
+          "coords": [
+            41.2015,
+            -8.2865
+          ],
+          "category": "museums",
+          "arrive_at": "11:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Verbinden Sie die Geschichte der Quinta mit den lokalen Funden hier.",
+            "hu": "Kösd össze a Quinta történelmét az itt található helyi leletekkel.",
+            "ro": "Conectați istoria de la Quinta cu artefactele locale de aici.",
+            "en": "Connect the history from the Quinta with the local finds here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            41.202,
+            -8.286
+          ],
+          "category": "gastro",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Laden Sie Ihre Batterien mit einem leichten Mittagessen und einem Glas Vinho Verde auf.",
+            "hu": "Töltődj fel egy könnyű ebéddel és egy pohár Vinho Verdével.",
+            "ro": "Reîncărcați-vă bateriile cu un prânz ușor și un pahar de Vinho Verde.",
+            "en": "Recharge with a light lunch and a glass of Vinho Verde."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg-Garten",
+            "hu": "Calvário Kert",
+            "ro": "Grădina Calvário",
+            "en": "Calvary Garden"
+          },
+          "coords": [
+            41.1995,
+            -8.2833
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:42",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause, bevor Sie zum anspruchsvollsten Teil der Fahrt aufbrechen.",
+            "hu": "Tarts egy rövid szünetet a túra legnehezebb szakasza előtt.",
+            "ro": "Faceți o scurtă pauză înainte de a porni pe cea mai dificilă parte a traseului.",
+            "en": "Take a short break before heading to the most challenging part of the ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Monte Mozinho",
+            "hu": "Castro de Monte Mozinho",
+            "ro": "Castro de Monte Mozinho",
+            "en": "Castro de Monte Mozinho"
+          },
+          "coords": [
+            41.1667,
+            -8.2667
+          ],
+          "category": "historical",
+          "arrive_at": "16:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist es wert. Erkunden Sie die alten römischen und vorrömischen Ruinen.",
+            "hu": "Megéri a kaptatót. Fedezd fel az ókori római és prerómai romokat.",
+            "ro": "Urcușul merită. Explorați ruinele antice romane și pre-romane.",
+            "en": "The climb is worth it. Explore the ancient Roman and pre-Roman ruins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit einer Fahrt zur berühmten Quinta da Aveleda für eine Weinprobe. Fahren Sie zurück ins Stadtzentrum, um das Museum zu erkunden und ein wohlverdientes Mittagessen einzunehmen. Nach einer kurzen Pause im Calvary Garden stellen Sie sich der Herausforderung und radeln zum historischen Castro de Monte Mozinho. Der Tag endet mit einer lohnenden Abfahrt zurück in die Stadt, voller Geschichte und schöner Landschaften.",
+        "hu": "Kezdje a kerékpáros napot egy túrával a híres Quinta da Aveledába egy borkóstolóra. Tekerjen vissza a városközpontba, hogy felfedezze a múzeumot és elfogyasszon egy jól megérdemelt ebédet. A Calvário Kertben tartott rövid pihenő után vállalja a kihívást, és kerékpározzon el a történelmi Castro de Monte Mozinhohoz. A nap egy jutalmazó ereszkedéssel zárul vissza a városba, tele történelemmel és gyönyörű tájakkal.",
+        "ro": "Începeți ziua pe bicicletă cu o plimbare la faimoasa Quinta da Aveleda pentru o degustare de vinuri. Pedalați înapoi în centrul orașului pentru a explora muzeul și a lua un prânz binemeritat. După o scurtă pauză în Grădina Calvário, acceptați provocarea și pedalați până la istoricul Castro de Monte Mozinho. Ziua se încheie cu o coborâre plină de satisfacții înapoi în oraș, plină de istorie și peisaje frumoase.",
+        "en": "Start your cycling day with a ride to the famous Quinta da Aveleda for a wine tasting experience. Pedal back to the city center to explore the museum and have a well-deserved lunch. After a short break in the Calvary Garden, take on the challenge and cycle to the historic Castro de Monte Mozinho. The day ends with a rewarding descent back into town, filled with history and beautiful landscapes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Ein klassisches portugiesisches Gericht mit Kabeljau, perfekt zur Stärkung."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich ein Pão de Ló für einen Energieschub."
+          },
+          {
+            "name": "Café do Coreto",
+            "tip": "Ein schöner Ort für einen Kaffee und um Leute zu beobachten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Klasszikus portugál tőkehalétel, tökéletes feltöltődéshez."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Szerezz be egy Pão de Ló-t egy kis energiáért."
+          },
+          {
+            "name": "Café do Coreto",
+            "tip": "Szép hely egy kávéra és emberek nézegetésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Un preparat clasic portughez cu cod, perfect pentru a vă reface energia."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați un Pão de Ló pentru un plus de energie."
+          },
+          {
+            "name": "Café do Coreto",
+            "tip": "Un loc drăguț pentru o cafea și pentru a privi oamenii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "A classic Portuguese cod dish, perfect for refueling."
+          },
+          {
+            "name": "Local Bakery",
+            "tip": "Grab a Pão de Ló for an energy boost."
+          },
+          {
+            "name": "Café do Coreto",
+            "tip": "A nice spot for a coffee and people-watching."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten der Quinta da Aveleda",
+            "tip": "Verlieren Sie sich in der Schönheit der botanischen Gärten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spitze des Monte Mozinho",
+            "tip": "Genießen Sie die Ruhe und die weite Aussicht nach dem Aufstieg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Am Flussufer entlang radeln",
+            "tip": "Finden Sie einen ruhigen Weg entlang des Flusses Sousa für eine entspannte Fahrt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quinta da Aveleda kertjei",
+            "tip": "Vessz el a botanikus kertek szépségében.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monte Mozinho csúcsa",
+            "tip": "Élvezd a csendet és a panorámát a mászás után.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kerékpározás a folyóparton",
+            "tip": "Keress egy csendes ösvényt a Sousa folyó mentén egy pihentető tekeréshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Quinta da Aveleda",
+            "tip": "Pierdeți-vă în frumusețea grădinilor botanice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vârful Monte Mozinho",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică după urcare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pedalând pe malul râului",
+            "tip": "Găsiți o potecă liniștită de-a lungul râului Sousa pentru o plimbare relaxantă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Quinta da Aveleda",
+            "tip": "Get lost in the beauty of the botanical gardens.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Top of Monte Mozinho",
+            "tip": "Enjoy the silence and the vast views after the climb.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cycling by the riverside",
+            "tip": "Find a quiet path along the Sousa river for a relaxed ride.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinladen der Quinta da Aveleda",
+            "tip": "Kaufen Sie eine Flasche Vinho Verde als Souvenir."
+          },
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quinta da Aveleda borboltja",
+            "tip": "Vásárolj egy üveg Vinho Verdét szuvenírként."
+          },
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha kiegészítőre vagy gyors javításra van szükséged."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de vinuri Quinta da Aveleda",
+            "tip": "Cumpărați o sticlă de Vinho Verde ca suvenir."
+          },
+          {
+            "name": "Magazin de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Quinta da Aveleda Wine Shop",
+            "tip": "Buy a bottle of Vinho Verde as a souvenir."
+          },
+          {
+            "name": "Bike Shop",
+            "tip": "In case you need any accessories or a quick fix."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad für Hügel geeignet ist, da die Fahrt nach Monte Mozinho steil ist.",
+          "Ein Helm wird dringend empfohlen.",
+          "Schließen Sie Ihr Fahrrad immer an, wenn Sie es unbeaufsichtigt lassen.",
+          "Prüfen Sie die Öffnungszeiten der Quinta da Aveleda und buchen Sie Touren im Voraus."
+        ],
+        "hu": [
+          "Győződj meg róla, hogy a kerékpárod alkalmas a dombokra, mivel a Monte Mozinho-hoz vezető út meredek.",
+          "A sisak viselése erősen ajánlott.",
+          "Mindig zárd le a kerékpárodat, ha felügyelet nélkül hagyod.",
+          "Ellenőrizd a Quinta da Aveleda nyitvatartási idejét, és foglalj túrát előre."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este potrivită pentru dealuri, deoarece urcarea spre Monte Mozinho este abruptă.",
+          "Casca este foarte recomandată.",
+          "Încuietăți întotdeauna bicicleta când o lăsați nesupravegheată.",
+          "Verificați orele de deschidere ale Quinta da Aveleda și rezervați tururile în avans."
+        ],
+        "en": [
+          "Ensure your bike is suitable for hills, as the ride to Monte Mozinho is steep.",
+          "A helmet is highly recommended.",
+          "Always lock your bike when leaving it unattended.",
+          "Check the opening hours for Quinta da Aveleda and book tours in advance."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 35.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castro de Monte Mozinho",
+            "hu": "Castro de Monte Mozinho",
+            "ro": "Castro de Monte Mozinho",
+            "en": "Castro de Monte Mozinho"
+          },
+          "coords": [
+            41.1667,
+            -8.2667
+          ],
+          "category": "historical",
+          "arrive_at": "09:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kommen Sie früh an, um die Menschenmassen zu vermeiden und das beste Licht zum Fotografieren zu haben.",
+            "hu": "Érkezz korán, hogy elkerüld a tömeget és a legjobb fényviszonyok legyenek a fotózáshoz.",
+            "ro": "Ajungeți devreme pentru a evita mulțimea și pentru a avea cea mai bună lumină pentru fotografii.",
+            "en": "Arrive early to avoid the crowds and have the best light for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinta da Aveleda",
+            "hu": "Quinta da Aveleda",
+            "ro": "Quinta da Aveleda",
+            "en": "Quinta da Aveleda"
+          },
+          "coords": [
+            41.1944,
+            -8.3167
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Buchen Sie im Voraus eine Weinprobe – ein Muss!",
+            "hu": "Foglalj előre borkóstolót – ez kihagyhatatlan!",
+            "ro": "Rezervați în avans o degustare de vinuri - este o necesitate!",
+            "en": "Book a wine tasting tour in advance – it's a must-do!"
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe von Aveleda",
+            "hu": "Ebéd Aveleda közelében",
+            "ro": "Prânz lângă Aveleda",
+            "en": "Lunch near Aveleda"
+          },
+          "coords": [
+            41.195,
+            -8.315
+          ],
+          "category": "gastro",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt mehrere Restaurants, die köstliche regionale Gerichte servieren.",
+            "hu": "Több étterem is finom regionális ételeket szolgál fel.",
+            "ro": "Există mai multe restaurante în apropiere care servesc mâncăruri regionale delicioase.",
+            "en": "There are several nearby restaurants serving delicious regional food."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken im Stadtzentrum",
+            "hu": "Parkolás a belvárosban",
+            "ro": "Parcare în centrul orașului",
+            "en": "Park in City Center"
+          },
+          "coords": [
+            41.2,
+            -8.287
+          ],
+          "category": "transport",
+          "arrive_at": "15:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen zentralen Parkplatz, um den Rest zu Fuß zu erkunden.",
+            "hu": "Keress egy központi parkolót, és fedezd fel a többit gyalog.",
+            "ro": "Găsiți o parcare centrală pentru a explora restul pe jos.",
+            "en": "Find a central parking spot to explore the rest on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum von Penafiel",
+            "hu": "Penafiel Városi Múzeum",
+            "ro": "Muzeul Municipal din Penafiel",
+            "en": "Municipal Museum of Penafiel"
+          },
+          "coords": [
+            41.2015,
+            -8.2865
+          ],
+          "category": "museums",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schneller Besuch, um die Artefakte von dem Ort zu sehen, an dem Sie den Tag begonnen haben.",
+            "hu": "Egy gyors látogatás, hogy megnézd a leleteket onnan, ahol a napot kezdted.",
+            "ro": "O vizită rapidă pentru a vedea artefactele de la locul unde ați început ziua.",
+            "en": "A quick visit to see the artifacts from where you started the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardim do Calvário",
+            "hu": "Calvário Kert",
+            "ro": "Grădina Calvário",
+            "en": "Calvary Garden"
+          },
+          "coords": [
+            41.1995,
+            -8.2833
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach einem langen Tag voller Erkundungen.",
+            "hu": "Pihenj egy hosszú, felfedezéssel teli nap után.",
+            "ro": "Relaxați-vă după o zi lungă de explorare.",
+            "en": "Relax and unwind after a long day of exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Magikland",
+            "hu": "Magikland",
+            "ro": "Magikland",
+            "en": "Magikland"
+          },
+          "coords": [
+            41.2083,
+            -8.2917
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "17:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 11.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Wenn Sie mit Kindern reisen, ist dies ein lustiger Abschluss des Tages.",
+            "hu": "Ha gyerekekkel utazol, ez egy szórakoztató befejezése a napnak.",
+            "ro": "Dacă călătoriți cu copii, acesta este un mod distractiv de a încheia ziua.",
+            "en": "If you're traveling with kids, this is a fun way to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Auto-Abenteuer am historischen Castro de Monte Mozinho. Fahren Sie dann zur Quinta da Aveleda für ein exquisites Wein- und Gartenerlebnis, gefolgt von einem Mittagessen. Am Nachmittag parken Sie im Zentrum von Penafiel und erkunden zu Fuß das Museum und den Calvary Garden. Optional können Sie den Tag im Magikland ausklingen lassen, besonders wenn Sie mit der Familie unterwegs sind.",
+        "hu": "Kezdje az autós kalandot a történelmi Castro de Monte Mozinhónál. Ezután vezessen a Quinta da Aveledába egy kiváló bor- és kertélményért, majd ebédeljen. Délután parkoljon le Penafiel központjában, és fedezze fel gyalog a múzeumot és a Calvário Kertet. Opcionálisan a napot a Magiklandben zárhatja, különösen, ha családdal utazik.",
+        "ro": "Începeți aventura cu mașina la istoricul Castro de Monte Mozinho. Apoi, conduceți la Quinta da Aveleda pentru o experiență rafinată de vin și grădină, urmată de prânz. După-amiaza, parcați în centrul orașului Penafiel și explorați pe jos muzeul și Grădina Calvário. Opțional, încheiați ziua la Magikland, mai ales dacă sunteți cu familia.",
+        "en": "Start your car adventure at the historic Castro de Monte Mozinho. Then, drive to Quinta da Aveleda for an exquisite wine and garden experience, followed by lunch. In the afternoon, park in the center of Penafiel and explore the museum and Calvary Garden on foot. Optionally, end the day at Magikland, especially if you're with family."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Solar do Souto",
+            "tip": "Bekannt für seine traditionelle portugiesische Küche."
+          },
+          {
+            "name": "Cabrito assado",
+            "tip": "Gebratenes Zicklein, eine Spezialität der Region."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Obwohl es aus Lissabon stammt, ist es überall ein Genuss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante Solar do Souto",
+            "tip": "Hagyományos portugál konyhájáról ismert."
+          },
+          {
+            "name": "Cabrito assado",
+            "tip": "Sült kecskegida, a régió specialitása."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Bár Lisszabonból származik, mindenhol élvezet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Solar do Souto",
+            "tip": "Renumit pentru bucătăria sa tradițională portugheză."
+          },
+          {
+            "name": "Cabrito assado",
+            "tip": "Ied la cuptor, o specialitate a regiunii."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Deși este din Lisabona, este o delicatesă peste tot."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante Solar do Souto",
+            "tip": "Known for its traditional Portuguese cuisine."
+          },
+          {
+            "name": "Cabrito assado",
+            "tip": "Roasted baby goat, a specialty of the region."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Although from Lisbon, it's a delight anywhere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von Monte Mozinho",
+            "tip": "Genießen Sie die ruhige, weite Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Ecken in den Aveleda-Gärten",
+            "tip": "Finden Sie einen abgelegenen Ort zum Nachdenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fahrt durch die Landschaft",
+            "tip": "Die Fahrt zwischen den Orten selbst kann sehr friedlich sein.",
+            "emoji": "🚗"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Monte Mozinhóról",
+            "tip": "Élvezd a csendes, tágas tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rejtett zugok az Aveleda kertekben",
+            "tip": "Keress egy eldugott helyet az elmélkedéshez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Autózás a vidéken",
+            "tip": "Maga az utazás a helyszínek között is nagyon békés lehet.",
+            "emoji": "🚗"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliștea de la Monte Mozinho",
+            "tip": "Bucurați-vă de peisajul vast și liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colțuri ascunse în Grădinile Aveleda",
+            "tip": "Găsiți un loc retras pentru contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Condus prin peisajul rural",
+            "tip": "Călătoria între locații poate fi foarte liniștită.",
+            "emoji": "🚗"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Monte Mozinho",
+            "tip": "Enjoy the quiet, vast landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden corners in Aveleda Gardens",
+            "tip": "Find a secluded spot for contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Driving through the countryside",
+            "tip": "The drive between locations itself can be very peaceful.",
+            "emoji": "🚗"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinkeller",
+            "tip": "Kaufen Sie Vinho Verde direkt von den Produzenten."
+          },
+          {
+            "name": "Geschenkeladen des Museums",
+            "tip": "Finden Sie einzigartige Souvenirs im Zusammenhang mit der lokalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pincészetek",
+            "tip": "Vásárolj Vinho Verdét közvetlenül a termelőktől."
+          },
+          {
+            "name": "Múzeumi ajándékbolt",
+            "tip": "Találj egyedi, a helyi történelemhez kapcsolódó szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame",
+            "tip": "Cumpărați Vinho Verde direct de la producători."
+          },
+          {
+            "name": "Magazinul de suveniruri al muzeului",
+            "tip": "Găsiți suveniruri unice legate de istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wineries",
+            "tip": "Buy Vinho Verde directly from the producers."
+          },
+          {
+            "name": "Museum Gift Shop",
+            "tip": "Find unique souvenirs related to local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Verwenden Sie eine GPS-App, um zwischen den weiter entfernten Standorten zu navigieren.",
+          "Parken kann im Stadtzentrum eine Herausforderung sein, seien Sie also geduldig.",
+          "Der Fahrer sollte bei den Weinproben vorsichtig sein. Portugal hat strenge Gesetze zum Fahren unter Alkoholeinfluss.",
+          "Überprüfen Sie die Benzinpreise, da diese variieren können."
+        ],
+        "hu": [
+          "Használj GPS-alkalmazást a távolabbi helyszínek közötti navigáláshoz.",
+          "A parkolás kihívást jelenthet a városközpontban, légy türelmes.",
+          "A sofőr legyen óvatos a borkóstolókon. Portugáliában szigorúak az ittas vezetésre vonatkozó törvények.",
+          "Ellenőrizd az üzemanyagárakat, mert változhatnak."
+        ],
+        "ro": [
+          "Folosiți o aplicație GPS pentru a naviga între locațiile mai îndepărtate.",
+          "Parcarea poate fi o provocare în centrul orașului, așa că aveți răbdare.",
+          "Șoferul ar trebui să fie precaut la degustările de vin. Portugalia are legi stricte privind condusul sub influența alcoolului.",
+          "Verificați prețurile la carburant, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Use a GPS app to navigate between the more distant locations.",
+          "Parking can be challenging in the city center, so be patient.",
+          "The driver should be cautious with wine tastings. Portugal has strict drink-driving laws.",
+          "Check fuel prices as they can vary."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof Penafiel",
+            "hu": "Penafiel központi buszpályaudvar",
+            "ro": "Autogara Centrală Penafiel",
+            "en": "Penafiel Central Bus Station"
+          },
+          "coords": [
+            41.205,
+            -8.288
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Holen Sie sich einen Tagespass für eine kostengünstige Reise.",
+            "hu": "Vegyél napijegyet a költséghatékony utazáshoz.",
+            "ro": "Obțineți un abonament de o zi pentru o călătorie eficientă din punct de vedere al costurilor.",
+            "en": "Get a day pass for cost-effective travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum & Kirchen",
+            "hu": "Városi Múzeum és templomok",
+            "ro": "Muzeul Municipal și Bisericile",
+            "en": "Municipal Museum & Churches"
+          },
+          "coords": [
+            41.2015,
+            -8.2865
+          ],
+          "category": "cluster",
+          "arrive_at": "09:15",
+          "stay_min": 140,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Museum und die nahe gelegenen Kirchen der Barmherzigkeit und Matriz zu Fuß.",
+            "hu": "Fedezd fel gyalog a múzeumot és a közeli Irgalmasság és Főtemplomot.",
+            "ro": "Explorați pe jos muzeul și bisericile din apropiere, Misericórdia și Matriz.",
+            "en": "Explore the museum and the nearby Misericórdia and Matriz churches on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            41.202,
+            -8.286
+          ],
+          "category": "gastro",
+          "arrive_at": "11:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit, bevor Sie den Bus zum nächsten Ziel nehmen.",
+            "hu": "Fogyassz el egy ebédet, mielőtt felszállsz a buszra a következő úti cél felé.",
+            "ro": "Bucurați-vă de o masă înainte de a lua autobuzul spre următoarea destinație.",
+            "en": "Enjoy a meal before catching the bus to the next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Magikland Bushaltestelle",
+            "hu": "Magikland buszmegálló",
+            "ro": "Stația de autobuz Magikland",
+            "en": "Magikland Bus Stop"
+          },
+          "coords": [
+            41.208,
+            -8.292
+          ],
+          "category": "transport",
+          "arrive_at": "13:23",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bus bringt Sie direkt zum Eingang des Vergnügungsparks.",
+            "hu": "A busz közvetlenül a vidámpark bejáratához visz.",
+            "ro": "Autobuzul vă va lăsa chiar la intrarea în parcul de distracții.",
+            "en": "The bus will drop you right at the amusement park's entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Magikland",
+            "hu": "Magikland",
+            "ro": "Magikland",
+            "en": "Magikland"
+          },
+          "coords": [
+            41.2083,
+            -8.2917
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "13:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein lustiger Nachmittag für die ganze Familie mit Fahrgeschäften und Shows.",
+            "hu": "Szórakoztató délután az egész családnak, játékokkal és előadásokkal.",
+            "ro": "O după-amiază distractivă pentru întreaga familie, cu atracții și spectacole.",
+            "en": "A fun afternoon for the whole family with rides and shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Sameiro-Heiligtum",
+            "hu": "Sameiro szentély",
+            "ro": "Sanctuarul Sameiro",
+            "en": "Sameiro Sanctuary"
+          },
+          "coords": [
+            41.215,
+            -8.28
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:27",
+          "stay_min": 50,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer ruhigen Besinnung und einer großartigen Aussicht.",
+            "hu": "Zárja a napot csendes elmélkedéssel és nagyszerű kilátással.",
+            "ro": "Încheiați ziua cu o reflecție liniștită și o priveliște minunată.",
+            "en": "End the day with some quiet reflection and a great view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das öffentliche Verkehrsnetz von Penafiel, um den Tag zu verbringen. Beginnen Sie mit der Erkundung des historischen Zentrums zu Fuß. Nach dem Mittagessen nehmen Sie einen Bus zum Magikland für einen Nachmittag voller Spaß. Schließen Sie Ihren Tag mit einer weiteren Busfahrt zum Sameiro-Heiligtum ab, um die ruhige Atmosphäre und die Panoramablicke zu genießen, bevor Sie ins Zentrum zurückkehren.",
+        "hu": "Használja ki Penafiel tömegközlekedési hálózatát a nap eltöltéséhez. Kezdje a történelmi központ gyalogos felfedezésével. Ebéd után szálljon buszra a Magiklandbe egy szórakoztató délutánért. A napot egy újabb buszozással zárja a Sameiro szentélyhez, hogy élvezze a békés hangulatot és a panorámát, mielőtt visszatérne a központba.",
+        "ro": "Folosiți rețeaua de transport public din Penafiel pentru a vă petrece ziua. Începeți explorând centrul istoric pe jos. După prânz, luați un autobuz spre Magikland pentru o după-amiază plină de distracție. Încheiați ziua cu o altă călătorie cu autobuzul la Sanctuarul Sameiro pentru a vă bucura de atmosfera liniștită și de priveliștile panoramice înainte de a vă întoarce în centru.",
+        "en": "Utilize Penafiel's public transit network to navigate your day. Start by exploring the historic center on foot. After lunch, hop on a bus to Magikland for an afternoon of fun. Conclude your day with another bus ride to the Sameiro Sanctuary to enjoy the peaceful atmosphere and panoramic views before heading back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana",
+            "tip": "Ein klassisches portugiesisches Schweinefleischsandwich, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Lokales Café",
+            "tip": "Probieren Sie einen portugiesischen Kaffee (bica) mit einem lokalen Gebäck."
+          },
+          {
+            "name": "Supermarkt",
+            "tip": "Kaufen Sie Snacks und Getränke für die Busfahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana",
+            "tip": "Klasszikus portugál sertéshúsos szendvics, tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Helyi kávézó",
+            "tip": "Kóstolj meg egy portugál kávét (bica) egy helyi süteménnyel."
+          },
+          {
+            "name": "Szupermarket",
+            "tip": "Vásárolj rágcsálnivalókat és italokat a buszutakra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș clasic portughez cu carne de porc, perfect pentru un prânz rapid."
+          },
+          {
+            "name": "Cafenea locală",
+            "tip": "Încercați o cafea portugheză (bica) cu o prăjitură locală."
+          },
+          {
+            "name": "Supermarket",
+            "tip": "Cumpărați gustări și băuturi pentru călătoriile cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana",
+            "tip": "A classic Portuguese pork sandwich, perfect for a quick lunch."
+          },
+          {
+            "name": "Local Café",
+            "tip": "Try a Portuguese coffee (bica) with a local pastry."
+          },
+          {
+            "name": "Supermarket",
+            "tip": "Grab some snacks and drinks for the bus rides."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt",
+            "tip": "Schauen Sie aus dem Fenster und beobachten Sie, wie die Landschaft vorbeizieht.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Jardim do Calvário",
+            "tip": "Ein friedlicher Ort im Stadtzentrum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abend am Sameiro-Heiligtum",
+            "tip": "Eine ruhige Art, den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszút",
+            "tip": "Nézz ki az ablakon, és figyeld a tájat.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Jardim do Calvário",
+            "tip": "Békés hely a városközpontban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Este a Sameiro szentélynél",
+            "tip": "Csendes módja a nap befejezésének.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul",
+            "tip": "Privește pe fereastră și urmărește peisajul.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Jardim do Calvário",
+            "tip": "Un loc liniștit în centrul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Seara la Sanctuarul Sameiro",
+            "tip": "Un mod calm de a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The bus ride",
+            "tip": "Look out the window and watch the scenery go by.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Jardim do Calvário",
+            "tip": "A peaceful spot in the city center.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evening at Sameiro Sanctuary",
+            "tip": "A calm way to end the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe des Busbahnhofs",
+            "tip": "Kaufen Sie Last-Minute-Souvenirs."
+          },
+          {
+            "name": "Magikland-Geschenkeladen",
+            "tip": "Einzigartige Spielzeuge und Erinnerungsstücke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a buszpályaudvar közelében",
+            "tip": "Vásárolj utolsó pillanatos szuveníreket."
+          },
+          {
+            "name": "Magikland ajándékbolt",
+            "tip": "Egyedi játékok és emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă autogară",
+            "tip": "Cumpărați suveniruri de ultim moment."
+          },
+          {
+            "name": "Magazinul de cadouri Magikland",
+            "tip": "Jucării și suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near the bus station",
+            "tip": "Pick up some last-minute souvenirs."
+          },
+          {
+            "name": "Magikland Gift Shop",
+            "tip": "Unique toys and memorabilia."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Busfahrpläne im Voraus, da diese sich ändern können.",
+          "Halten Sie Kleingeld für Tickets bereit, obwohl viele Busse auch Karten akzeptieren.",
+          "Achten Sie auf Ihre Haltestellen; Ansagen sind möglicherweise nicht immer klar.",
+          "Ein Tagespass ist oft günstiger als der Kauf einzelner Tickets."
+        ],
+        "hu": [
+          "Ellenőrizd előre a buszmenetrendet, mivel változhat.",
+          "Legyen nálad aprópénz a jegyekhez, bár sok busz elfogad kártyát is.",
+          "Figyelj a megállókra; a bemondások nem mindig egyértelműek.",
+          "A napijegy gyakran olcsóbb, mint az egyes jegyek megvásárlása."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor în avans, deoarece acestea se pot schimba.",
+          "Aveți la îndemână monede pentru bilete, deși multe autobuze acceptă și carduri.",
+          "Fiți atenți la stațiile voastre; anunțurile s-ar putea să nu fie întotdeauna clare.",
+          "Un abonament de o zi este adesea mai ieftin decât cumpărarea de bilete individuale."
+        ],
+        "en": [
+          "Check bus schedules in advance, as they can be subject to change.",
+          "Have some small change ready for tickets, although many buses accept cards.",
+          "Be aware of your stops; announcements may not always be clear.",
+          "A day pass is often cheaper than buying individual tickets."
+        ]
+      }
+    }
+  }
+}

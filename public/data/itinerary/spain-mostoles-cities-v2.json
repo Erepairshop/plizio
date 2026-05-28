@@ -1,0 +1,1460 @@
+{
+  "city_id": "spain-mostoles-cities-v2",
+  "anchor": {
+    "name": "Móstoles",
+    "coords": [
+      -3.8676,
+      40.3235
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza del Pradillo",
+            "hu": "Plaza del Pradillo",
+            "ro": "Plaza del Pradillo",
+            "en": "Plaza del Pradillo"
+          },
+          "coords": [
+            -3.863,
+            40.325
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag hier mit einem Kaffee und beobachten Sie das lokale Leben.",
+            "hu": "Indítsa a napot egy kávéval, és figyelje a helyi életet.",
+            "ro": "Începeți ziua aici cu o cafea, observând viața locală.",
+            "en": "Start your day here with a coffee, watching the local life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Andrés Torrejón Denkmal",
+            "hu": "Andrés Torrejón emlékmű",
+            "ro": "Monumentul Andrés Torrejón",
+            "en": "Andrés Torrejón Monument"
+          },
+          "coords": [
+            -3.8635,
+            40.3255
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein wichtiges Denkmal, das an den Aufstand von 1808 erinnert.",
+            "hu": "Fontos emlékmű, amely az 1808-as felkelésnek állít emléket.",
+            "ro": "Un monument important care comemorează revolta din 1808.",
+            "en": "An important monument commemorating the 1808 uprising."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Ciudad",
+            "hu": "Városi Múzeum",
+            "ro": "Muzeul Orașului",
+            "en": "City Museum"
+          },
+          "coords": [
+            -3.864,
+            40.326
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte von Móstoles von der Vorgeschichte bis heute.",
+            "hu": "Ismerje meg Móstoles gazdag történelmét az őskortól napjainkig.",
+            "ro": "Descoperiți istoria bogată a orașului Móstoles, din preistorie până în prezent.",
+            "en": "Discover the rich history of Móstoles from prehistory to the present day."
+          }
+        },
+        {
+          "name": {
+            "de": "Asunción Kirche",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            -3.865,
+            40.3265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Mudéjar-Stil dieser historischen Kirche.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a mudéjar stílusát.",
+            "ro": "Admirați stilul Mudéjar al acestei biserici istorice.",
+            "en": "Admire the Mudéjar style of this historic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Finca Liana",
+            "hu": "Finca Liana Park",
+            "ro": "Parcul Finca Liana",
+            "en": "Finca Liana Park"
+          },
+          "coords": [
+            -3.875,
+            40.32
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Mittagessen im Freien und eine entspannte Pause.",
+            "hu": "Ideális hely egy szabadtéri ebédhez és egy pihentető szünethez.",
+            "ro": "Un loc ideal pentru un prânz în aer liber și o pauză relaxantă.",
+            "en": "An ideal spot for an outdoor lunch and a relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de los Santos",
+            "hu": "Szentek Kápolnája",
+            "ro": "Schitul Sfinților",
+            "en": "Hermitage of the Saints"
+          },
+          "coords": [
+            -3.86,
+            40.318
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 65,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um den Tag mit einem spirituellen Moment ausklingen zu lassen.",
+            "hu": "Békés hely a nap spirituális lezárásához.",
+            "ro": "Un loc liniștit pentru a încheia ziua cu un moment spiritual.",
+            "en": "A peaceful place to end the day with a spiritual moment."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr morgendlicher Spaziergang beginnt auf der lebhaften Plaza del Pradillo und führt Sie durch die Geschichte von Móstoles, vom Denkmal des Aufstands bis zum Stadtmuseum. Sie tauchen in die lokale Vergangenheit ein, bevor Sie die architektonische Schönheit der Asunción-Kirche bewundern.\nAm Mittag erreichen Sie den Parque Finca Liana, eine grüne Oase, perfekt für ein Picknick und eine Siesta im Schatten. Die Ruhe des Parks bietet eine willkommene Abwechslung zum städtischen Trubel und lädt zum Entspannen ein.\nDer Nachmittag führt Sie auf einem längeren Spaziergang zur Ermita de los Santos. Dieser Weg gibt Ihnen die Möglichkeit, weitere Teile der Stadt zu sehen und die lokale Atmosphäre aufzusaugen.\nAm Abend kehren Sie ins Zentrum zurück. Die letzten 30 Minuten Puffer ermöglichen es Ihnen, den Tag in einer der Tapas-Bars in der Nähe der Plaza ausklingen zu lassen und die Eindrücke Revue passieren zu lassen.",
+        "hu": "Reggeli sétája a nyüzsgő Plaza del Pradillóról indul, és végigvezeti Móstoles történelmén, a felkelés emlékművétől a Városi Múzeumig. Mielőtt megcsodálná az Asunción-templom építészeti szépségét, elmerül a helyi múltban.\nDélben megérkezik a Finca Liana Parkba, egy zöld oázisba, amely tökéletes egy piknikhez és egy árnyékos sziesztához. A park nyugalma üdítő kontrasztot kínál a városi nyüzsgéssel szemben, és pihenésre csábít.\nA délután egy hosszabb sétára viszi a Szentek Kápolnájához. Ez az út lehetőséget ad arra, hogy a város további részeit is megnézze, és magába szívja a helyi hangulatot.\nEste visszatér a központba. Az utolsó 30 perces pufferidő lehetővé teszi, hogy a napot a tér közelében lévő tapas bárok egyikében zárja, áttekintve az élményeket.",
+        "ro": "Plimbarea de dimineață începe în vibranta Plaza del Pradillo și vă poartă prin istoria orașului Móstoles, de la monumentul revoltei la Muzeul Orașului. Vă veți cufunda în trecutul local înainte de a admira frumusețea arhitecturală a Bisericii Asunción.\nLa amiază, ajungeți în Parcul Finca Liana, o oază de verdeață perfectă pentru un picnic și o siestă la umbră. Liniștea parcului oferă un contrast binevenit cu agitația urbană și vă invită la relaxare.\nDupă-amiaza vă conduce într-o plimbare mai lungă spre Schitul Sfinților. Acest traseu vă oferă ocazia de a vedea mai multe părți ale orașului și de a absorbi atmosfera locală.\nSeara, vă întoarceți în centru. Tamponul de 30 de minute de la final vă permite să încheiați ziua la unul dintre barurile de tapas de lângă piață, reflectând asupra experiențelor.",
+        "en": "Your morning walk begins in the vibrant Plaza del Pradillo and takes you through the history of Móstoles, from the uprising monument to the City Museum. You'll immerse yourself in the local past before admiring the architectural beauty of the Church of the Assumption.\nAt noon, you'll reach Finca Liana Park, a green oasis perfect for a picnic and a siesta in the shade. The park's tranquility offers a welcome contrast to the urban bustle and invites you to relax.\nThe afternoon takes you on a longer walk to the Hermitage of the Saints. This route gives you the opportunity to see more of the city and soak up the local atmosphere.\nIn the evening, you return to the center. The final 30-minute buffer allows you to end the day at one of the tapas bars near the plaza, reflecting on your experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "Ein herzhafter Eintopf, perfekt für ein sättigendes Mittagessen."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Ein klassisches Madrider Sandwich, das man in vielen Bars findet."
+          },
+          {
+            "name": "Tapas-Hopping",
+            "tip": "Erkunden Sie die Bars rund um die Plaza del Pradillo für eine Vielzahl kleiner Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "Kiadós egytálétel, tökéletes egy laktató ebédhez."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Klasszikus madridi szendvics, amelyet számos bárban megtalál."
+          },
+          {
+            "name": "Tapas-túra",
+            "tip": "Fedezze fel a Plaza del Pradillo körüli bárokat a legkülönfélébb falatokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "O tocană consistentă, perfectă pentru un prânz sățios."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Un sandviș clasic din Madrid, găsit în multe baruri."
+          },
+          {
+            "name": "Turas de Tapas",
+            "tip": "Explorați barurile din jurul Plaza del Pradillo pentru o varietate de gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "A hearty stew, perfect for a filling lunch."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "A classic Madrid sandwich, found in many bars."
+          },
+          {
+            "name": "Tapas Hopping",
+            "tip": "Explore the bars around Plaza del Pradillo for a variety of small dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Finca Liana",
+            "tip": "Finden Sie eine ruhige Ecke am See, um zu lesen oder zu entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten der Ermita de los Santos",
+            "tip": "Ein friedlicher Ort für Kontemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Früher Morgen auf der Plaza",
+            "tip": "Erleben Sie die Plaza, bevor die Menschenmassen eintreffen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Finca Liana Park",
+            "tip": "Keressen egy csendes zugot a tó mellett olvasni vagy pihenni.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Szentek Kápolnájának kertjei",
+            "tip": "Békés hely az elmélyülésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kora reggel a téren",
+            "tip": "Tapasztalja meg a teret, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Finca Liana",
+            "tip": "Găsiți un colț liniștit lângă lac pentru a citi sau a vă relaxa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Schitului Sfinților",
+            "tip": "Un loc pașnic pentru contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dimineața devreme în Piață",
+            "tip": "Experimentați piața înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Finca Liana Park",
+            "tip": "Find a quiet corner by the lake to read or relax.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of the Hermitage",
+            "tip": "A peaceful spot for contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Early morning at the Plaza",
+            "tip": "Experience the plaza before the crowds arrive.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokale Spezialitäten."
+          },
+          {
+            "name": "Kunsthandwerk",
+            "tip": "Halten Sie Ausschau nach kleinen Läden mit handgefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi különlegességeket."
+          },
+          {
+            "name": "Kézműves termékek",
+            "tip": "Keresse a kézzel készített szuveníreket árusító kis boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și specialități locale."
+          },
+          {
+            "name": "Artizanat",
+            "tip": "Căutați magazine mici cu suveniruri lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and local delicacies."
+          },
+          {
+            "name": "Handicrafts",
+            "tip": "Look for small shops selling handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Planen Sie ein Picknick im Parque Finca Liana, um Geld zu sparen.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Tervezzen pikniket a Finca Liana Parkban, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați cu voi o sticlă de apă reutilizabilă.",
+          "Planificați un picnic în Parcul Finca Liana pentru a economisi bani.",
+          "Verificați în avans orele de deschidere ale muzeelor."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring a reusable water bottle.",
+          "Plan for a picnic in Finca Liana Park to save money.",
+          "Check museum opening times in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza del Pradillo",
+            "hu": "Plaza del Pradillo",
+            "ro": "Plaza del Pradillo",
+            "en": "Plaza del Pradillo"
+          },
+          "coords": [
+            -3.863,
+            40.325
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Ausgangspunkt, um sich mit dem Rad vertraut zu machen.",
+            "hu": "Tökéletes kiindulópont a kerékpárral való ismerkedéshez.",
+            "ro": "Punct de plecare perfect pentru a vă familiariza cu bicicleta.",
+            "en": "Perfect starting point to get familiar with your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Ciudad",
+            "hu": "Városi Múzeum",
+            "ro": "Muzeul Orașului",
+            "en": "City Museum"
+          },
+          "coords": [
+            -3.864,
+            40.326
+          ],
+          "category": "museums",
+          "arrive_at": "09:36",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad sicher ab, bevor Sie in die Geschichte eintauchen.",
+            "hu": "Biztonságosan zárja le a kerékpárt, mielőtt elmerülne a történelemben.",
+            "ro": "Parcați-vă bicicleta în siguranță înainte de a vă cufunda în istorie.",
+            "en": "Park your bike securely before diving into history."
+          }
+        },
+        {
+          "name": {
+            "de": "CA2M Centro de Arte Dos de Mayo",
+            "hu": "CA2M Dos de Mayo Művészeti Központ",
+            "ro": "Centrul de Artă CA2M Dos de Mayo",
+            "en": "CA2M Dos de Mayo Art Center"
+          },
+          "coords": [
+            -3.859,
+            40.323
+          ],
+          "category": "museums",
+          "arrive_at": "11:03",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Liebhaber zeitgenössischer Kunst.",
+            "hu": "A kortárs művészet kedvelőinek kötelező.",
+            "ro": "O necesitate pentru iubitorii de artă contemporană.",
+            "en": "A must-visit for contemporary art lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Finca Liana",
+            "hu": "Finca Liana Park",
+            "ro": "Parcul Finca Liana",
+            "en": "Finca Liana Park"
+          },
+          "coords": [
+            -3.875,
+            40.32
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:58",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Mittagspause und genießen Sie eine Fahrt um den See.",
+            "hu": "Tartson ebédszünetet, és tegyen egy kört a tó körül.",
+            "ro": "Luați o pauză de prânz și bucurați-vă de o plimbare în jurul lacului.",
+            "en": "Take a lunch break and enjoy a ride around the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque El Soto",
+            "hu": "El Soto Park",
+            "ro": "Parcul El Soto",
+            "en": "El Soto Park"
+          },
+          "coords": [
+            -3.9,
+            40.328
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:58",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein größerer Park mit vielen Wegen, ideal für eine ausgedehnte Radtour.",
+            "hu": "Nagyobb park, számos útvonallal, ideális egy hosszabb kerékpártúrához.",
+            "ro": "Un parc mai mare, cu multe poteci, ideal pentru o plimbare lungă cu bicicleta.",
+            "en": "A larger park with many paths, ideal for an extended bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Asunción Kirche",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            -3.865,
+            40.3265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:25",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Besuch dieser schönen Kirche im Herzen der Stadt.",
+            "hu": "Zárja a túrát ennek a gyönyörű templomnak a meglátogatásával a város szívében.",
+            "ro": "Încheiați turul cu o vizită la această biserică frumoasă din inima orașului.",
+            "en": "End your tour with a visit to this beautiful church in the heart of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag startet auf der Plaza del Pradillo und führt Sie schnell zum Museo de la Ciudad. Nachdem Sie die Geschichte aufgesogen haben, radeln Sie weiter zum CA2M, dem Zentrum für zeitgenössische Kunst, und erleben die moderne Seite von Móstoles.\nZu Mittag erreichen Sie den Parque Finca Liana. Hier können Sie Ihr mitgebrachtes Mittagessen genießen oder in einem der nahegelegenen Cafés einkehren. Eine Runde mit dem Rad um den kleinen See lockert die Beine für die nächste Etappe.\nAm Nachmittag steht die längste Etappe an: eine ausgedehnte Fahrt zum weitläufigen Parque El Soto. Die gut ausgebauten Wege laden zu einer Erkundungstour ein und bieten eine willkommene Abwechslung zum Stadtzentrum.\nIhre Tour endet wieder im historischen Herzen der Stadt mit einem Besuch der Asunción-Kirche. Der Puffer am Ende gibt Ihnen Zeit, das Fahrrad abzugeben und den Abend in einer lokalen Bar zu genießen.",
+        "hu": "Kerékpáros napja a Plaza del Pradillóról indul, és gyorsan eljut a Városi Múzeumhoz. A történelem megismerése után továbbteker a CA2M, a kortárs művészeti központ felé, hogy megtapasztalja Móstoles modern oldalát.\nDélben megérkezik a Finca Liana Parkba. Itt elfogyaszthatja a csomagolt ebédjét, vagy betérhet a közeli kávézók egyikébe. Egy kör a kis tó körül a kerékpárral felkészíti a lábakat a következő szakaszra.\nDélután a leghosszabb szakasz következik: egy kiterjedt túra a tágas El Soto Parkba. A jól kiépített utak felfedezőútra csábítanak, és kellemes változatosságot kínálnak a városközponthoz képest.\nTúrája ismét a város történelmi szívében ér véget, az Asunción-templom meglátogatásával. A végén lévő pufferidő elegendő ahhoz, hogy leadja a kerékpárt, és egy helyi bárban élvezze az estét.",
+        "ro": "Ziua pe bicicletă începe în Plaza del Pradillo și vă duce rapid la Muzeul Orașului. După ce absorbiți istoria, pedalați mai departe spre CA2M, centrul de artă contemporană, pentru a experimenta latura modernă a Móstoles.\nLa prânz, ajungeți în Parcul Finca Liana. Aici vă puteți bucura de prânzul la pachet sau puteți merge la una dintre cafenelele din apropiere. O tură cu bicicleta în jurul lacului mic vă va pregăti picioarele pentru următoarea etapă.\nDupă-amiaza, urmează cea mai lungă etapă: o plimbare extinsă până la vastul Parc El Soto. Căile bine întreținute vă invită să explorați și oferă o schimbare binevenită față de centrul orașului.\nTurul se încheie din nou în inima istorică a orașului, cu o vizită la Biserica Asunción. Timpul tampon de la final vă oferă timp să predați bicicleta și să vă bucurați de seară într-un bar local.",
+        "en": "Your cycling day starts in Plaza del Pradillo and quickly takes you to the City Museum. After soaking up the history, you'll pedal on to CA2M, the contemporary art center, to experience the modern side of Móstoles.\nAt lunchtime, you'll reach Finca Liana Park. Here you can enjoy your packed lunch or visit one of the nearby cafes. A bike ride around the small lake will prepare your legs for the next stage.\nIn the afternoon, the longest stage awaits: an extensive ride to the spacious El Soto Park. The well-maintained paths invite you to explore and offer a welcome change from the city center.\nYour tour ends back in the historic heart of the city with a visit to the Church of the Assumption. The buffer time at the end gives you time to drop off your bike and enjoy the evening in a local bar."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Menú del Día",
+            "tip": "Viele Restaurants bieten mittags günstige 3-Gänge-Menüs an."
+          },
+          {
+            "name": "Horchata",
+            "tip": "Ein erfrischendes Getränk aus Erdmandeln, ideal nach einer Radtour."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Ein süßer Snack, um die Energiereserven aufzufüllen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menú del Día",
+            "tip": "Számos étterem kínál kedvező árú, 3 fogásos ebédmenüt."
+          },
+          {
+            "name": "Horchata",
+            "tip": "Földimandulából készült frissítő ital, ideális egy kerékpártúra után."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Édes harapnivaló az energiatartalékok feltöltéséhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Menú del Día",
+            "tip": "Multe restaurante oferă la prânz meniuri ieftine cu 3 feluri de mâncare."
+          },
+          {
+            "name": "Horchata",
+            "tip": "O băutură răcoritoare din migdale de pământ, ideală după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "O gustare dulce pentru a reface rezervele de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menú del Día",
+            "tip": "Many restaurants offer affordable 3-course lunch menus."
+          },
+          {
+            "name": "Horchata",
+            "tip": "A refreshing drink made from tiger nuts, ideal after a bike ride."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "A sweet snack to replenish your energy reserves."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque El Soto",
+            "tip": "Finden Sie einen abgelegenen Weg und genießen Sie die Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Sees im Parque Finca Liana",
+            "tip": "Ein friedlicher Ort, um die Enten zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seitenaltar in der Asunción Kirche",
+            "tip": "Ein Moment der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Soto Park",
+            "tip": "Keressen egy félreeső ösvényt, és élvezze a természetet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Finca Liana Park tavának partja",
+            "tip": "Békés hely a kacsák megfigyelésére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mellékoltár az Asunción-templomban",
+            "tip": "A csend és az elmélkedés pillanata.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul El Soto",
+            "tip": "Găsiți o potecă retrasă și bucurați-vă de natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul lacului din Parcul Finca Liana",
+            "tip": "Un loc pașnic pentru a privi rațele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Altarul lateral din Biserica Asunción",
+            "tip": "Un moment de liniște și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "El Soto Park",
+            "tip": "Find a secluded path and enjoy nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Shore of the lake in Finca Liana Park",
+            "tip": "A peaceful place to watch the ducks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Side altar in the Church of the Assumption",
+            "tip": "A moment of silence and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Kaufen Sie lokales Zubehör oder ein Souvenir für Ihr Fahrrad."
+          },
+          {
+            "name": "Markt in der Nähe der Plaza",
+            "tip": "Perfekt, um Proviant für Ihre Radtour zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Vásároljon helyi kiegészítőket vagy szuvenírt a kerékpárjához."
+          },
+          {
+            "name": "Piac a tér közelében",
+            "tip": "Tökéletes hely az útravaló beszerzéséhez a kerékpártúrára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Cumpărați accesorii locale sau un suvenir pentru bicicleta dvs."
+          },
+          {
+            "name": "Piața de lângă Plaza",
+            "tip": "Perfect pentru a cumpăra provizii pentru turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Buy local accessories or a souvenir for your bike."
+          },
+          {
+            "name": "Market near the Plaza",
+            "tip": "Perfect for buying provisions for your bike tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit gutem Schloss.",
+          "Nutzen Sie die Radwege, wo immer möglich.",
+          "Tragen Sie einen Helm für Ihre Sicherheit.",
+          "Nehmen Sie viel Wasser mit, besonders im Sommer."
+        ],
+        "hu": [
+          "Béreljen jó lakattal ellátott kerékpárt.",
+          "Ahol csak lehetséges, használja a kerékpárutakat.",
+          "Viseljen sisakot a biztonsága érdekében.",
+          "Vigyen magával sok vizet, különösen nyáron."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu un lacăt bun.",
+          "Folosiți pistele de biciclete ori de câte ori este posibil.",
+          "Purtați o cască pentru siguranța dumneavoastră.",
+          "Luați multă apă, mai ales vara."
+        ],
+        "en": [
+          "Rent a bike with a good lock.",
+          "Use bike lanes wherever possible.",
+          "Wear a helmet for your safety.",
+          "Bring plenty of water, especially in summer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 11.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken nahe Plaza del Pradillo",
+            "hu": "Parkolás a Plaza del Pradillo közelében",
+            "ro": "Parcare lângă Plaza del Pradillo",
+            "en": "Parking near Plaza del Pradillo"
+          },
+          "coords": [
+            -3.862,
+            40.324
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Suchen Sie einen Parkplatz für den Vormittag.",
+            "hu": "Keressen egy parkolóhelyet a délelőttre.",
+            "ro": "Găsiți un loc de parcare pentru dimineață.",
+            "en": "Find a parking spot for the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza del Pradillo & Denkmal",
+            "hu": "Plaza del Pradillo & Emlékmű",
+            "ro": "Plaza del Pradillo & Monument",
+            "en": "Plaza del Pradillo & Monument"
+          },
+          "coords": [
+            -3.863,
+            40.325
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang hier.",
+            "hu": "Itt kezdje a sétát.",
+            "ro": "Începeți turul pietonal de aici.",
+            "en": "Start your walking tour here."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Ciudad",
+            "hu": "Városi Múzeum",
+            "ro": "Muzeul Orașului",
+            "en": "City Museum"
+          },
+          "coords": [
+            -3.864,
+            40.326
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz zum Museum.",
+            "hu": "Rövid séta a tértől a múzeumig.",
+            "ro": "O scurtă plimbare de la piață la muzeu.",
+            "en": "A short walk from the plaza to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Asunción Kirche",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            -3.865,
+            40.3265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die letzte Station des ersten Clusters.",
+            "hu": "Az első klaszter utolsó állomása.",
+            "ro": "Ultima oprire din primul cluster.",
+            "en": "The last stop of the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "CA2M & Parque Finca Liana",
+            "hu": "CA2M & Finca Liana Park",
+            "ro": "CA2M & Parcul Finca Liana",
+            "en": "CA2M & Finca Liana Park"
+          },
+          "coords": [
+            -3.875,
+            40.32
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Parken Sie und erkunden Sie das Museum und den Park zu Fuß.",
+            "hu": "Vezessen a második klaszterhez. Parkoljon le, és fedezze fel a múzeumot és a parkot gyalog.",
+            "ro": "Conduceți la al doilea cluster. Parcați și explorați muzeul și parcul pe jos.",
+            "en": "Drive to the second cluster. Park and explore the museum and park on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque El Soto",
+            "hu": "El Soto Park",
+            "ro": "Parcul El Soto",
+            "en": "El Soto Park"
+          },
+          "coords": [
+            -3.9,
+            40.328
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zu diesem großen Park für einen entspannten Nachmittagsspaziergang.",
+            "hu": "Rövid autóút ehhez a nagy parkhoz egy pihentető délutáni sétáért.",
+            "ro": "O scurtă călătorie cu mașina până la acest parc mare pentru o plimbare relaxantă de după-amiază.",
+            "en": "A short drive to this large park for a relaxing afternoon walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de los Santos",
+            "hu": "Szentek Kápolnája",
+            "ro": "Schitul Sfinților",
+            "en": "Hermitage of the Saints"
+          },
+          "coords": [
+            -3.86,
+            40.318
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:00",
+          "stay_min": 85,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, um die Ruhe zu genießen.",
+            "hu": "A nap utolsó állomása, hogy élvezze a nyugalmat.",
+            "ro": "Ultima oprire a zilei pentru a vă bucura de liniște.",
+            "en": "The last stop of the day to enjoy the tranquility."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit der Parkplatzsuche im Zentrum. Das erste Cluster erkunden Sie zu Fuß: die Plaza, das Denkmal, das Stadtmuseum und die Asunción-Kirche. Ein kompakter Spaziergang durch die Geschichte von Móstoles.\nAm Mittag fahren Sie zum zweiten Cluster. Sie parken in der Nähe des CA2M und haben Zeit, sowohl die moderne Kunst als auch den angrenzenden Parque Finca Liana zu genießen. Hier können Sie zu Mittag essen und sich entspannen.\nDer Nachmittag beginnt mit einer Fahrt zum weitläufigen Parque El Soto. Dieser Park ist ideal für einen längeren Spaziergang, um die Natur zu genießen und dem städtischen Trubel zu entfliehen.\nZum Abschluss des Tages fahren Sie zur Ermita de los Santos. Der großzügige Zeitpuffer am Ende ermöglicht es Ihnen, den spirituellen Ort in Ruhe auf sich wirken zu lassen, bevor Sie den Rückweg antreten.",
+        "hu": "A nap a központi parkolóhely keresésével kezdődik. Az első klasztert gyalog fedezi fel: a tér, az emlékmű, a városi múzeum és az Asunción-templom. Egy kompakt séta Móstoles történelmén keresztül.\nDélben a második klaszterhez hajt. A CA2M közelében parkol, és van ideje élvezni a modern művészetet és a szomszédos Finca Liana Parkot is. Itt ebédelhet és pihenhet.\nA délután az El Soto tágas parkjába való autózással kezdődik. Ez a park ideális egy hosszabb sétára, hogy élvezze a természetet és elmeneküljön a városi nyüzsgés elől.\nA nap végén a Szentek Kápolnájához hajt. A végén lévő bőséges időkeret lehetővé teszi, hogy békében élvezze a spirituális helyet, mielőtt elindulna haza.",
+        "ro": "Ziua începe cu găsirea unui loc de parcare în centru. Explorați primul cluster pe jos: piața, monumentul, muzeul orașului și Biserica Asunción. O plimbare compactă prin istoria orașului Móstoles.\nLa prânz, conduceți la al doilea cluster. Parcați lângă CA2M și aveți timp să vă bucurați atât de arta modernă, cât și de Parcul Finca Liana adiacent. Aici puteți lua prânzul și vă puteți relaxa.\nDupă-amiaza începe cu o plimbare cu mașina până la vastul Parc El Soto. Acest parc este ideal pentru o plimbare mai lungă pentru a vă bucura de natură și a scăpa de agitația urbană.\nLa sfârșitul zilei, conduceți la Schitul Sfinților. Tamponul generos de timp de la final vă permite să vă bucurați de locul spiritual în pace înainte de a vă întoarce.",
+        "en": "Your day begins with finding a parking spot in the center. You'll explore the first cluster on foot: the plaza, the monument, the city museum, and the Church of the Assumption. A compact walk through the history of Móstoles.\nAt noon, you'll drive to the second cluster. You park near the CA2M and have time to enjoy both the modern art and the adjacent Finca Liana Park. Here you can have lunch and relax.\nThe afternoon begins with a drive to the spacious El Soto Park. This park is ideal for a longer walk to enjoy nature and escape the urban hustle and bustle.\nAt the end of the day, you drive to the Hermitage of the Saints. The generous time buffer at the end allows you to enjoy the spiritual place in peace before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante con aparcamiento",
+            "tip": "Suchen Sie ein Restaurant in der Nähe des Parque Finca Liana mit Parkmöglichkeiten."
+          },
+          {
+            "name": "Gallinejas y entresijos",
+            "tip": "Eine traditionelle Madrider Spezialität für abenteuerlustige Esser."
+          },
+          {
+            "name": "Mesón",
+            "tip": "Besuchen Sie ein traditionelles Gasthaus für authentische spanische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem parkolóval",
+            "tip": "Keressen egy éttermet a Finca Liana Park közelében, ahol parkolási lehetőség is van."
+          },
+          {
+            "name": "Gallinejas y entresijos",
+            "tip": "Hagyományos madridi specialitás a kalandvágyóknak."
+          },
+          {
+            "name": "Mesón",
+            "tip": "Látogasson el egy hagyományos fogadóba az autentikus spanyol konyháért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant cu parcare",
+            "tip": "Căutați un restaurant lângă Parcul Finca Liana cu parcare."
+          },
+          {
+            "name": "Gallinejas y entresijos",
+            "tip": "O specialitate tradițională din Madrid pentru mâncătorii aventuroși."
+          },
+          {
+            "name": "Mesón",
+            "tip": "Vizitați un han tradițional pentru bucătărie spaniolă autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant with parking",
+            "tip": "Look for a restaurant near Finca Liana Park with parking facilities."
+          },
+          {
+            "name": "Gallinejas y entresijos",
+            "tip": "A traditional Madrid specialty for adventurous eaters."
+          },
+          {
+            "name": "Mesón",
+            "tip": "Visit a traditional inn for authentic Spanish cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque El Soto",
+            "tip": "Der größte Park bietet viele ruhige Ecken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ermita de los Santos",
+            "tip": "Ein Ort der Stille und Einkehr am Ende des Tages.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am See",
+            "tip": "Eine ruhige Runde im Parque Finca Liana.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Soto Park",
+            "tip": "A legnagyobb park számos csendes zugot kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szentek Kápolnája",
+            "tip": "A csend és az elmélyülés helye a nap végén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tóparti séta",
+            "tip": "Egy csendes kör a Finca Liana Parkban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul El Soto",
+            "tip": "Cel mai mare parc oferă multe colțuri liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schitul Sfinților",
+            "tip": "Un loc de liniște și reculegere la sfârșitul zilei.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul lacului",
+            "tip": "O plimbare liniștită în Parcul Finca Liana.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "El Soto Park",
+            "tip": "The largest park offers many quiet corners.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hermitage of the Saints",
+            "tip": "A place of silence and contemplation at the end of the day.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk by the lake",
+            "tip": "A quiet lap in Finca Liana Park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum",
+            "tip": "Mit dem Auto erreichen Sie leicht eines der größeren Einkaufszentren am Stadtrand."
+          },
+          {
+            "name": "Lokale Produkte",
+            "tip": "Kaufen Sie Käse oder Wurstwaren in einem Delikatessengeschäft im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bevásárlóközpont",
+            "tip": "Autóval könnyen elérheti a város szélén található nagyobb bevásárlóközpontok egyikét."
+          },
+          {
+            "name": "Helyi termékek",
+            "tip": "Vásároljon sajtot vagy felvágottat egy csemegeüzletben a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centru comercial",
+            "tip": "Cu mașina puteți ajunge cu ușurință la unul dintre centrele comerciale mai mari de la periferia orașului."
+          },
+          {
+            "name": "Produse locale",
+            "tip": "Cumpărați brânză sau mezeluri de la o delicatesă din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopping Center",
+            "tip": "By car, you can easily reach one of the larger shopping centers on the outskirts."
+          },
+          {
+            "name": "Local Products",
+            "tip": "Buy cheese or cured meats from a delicatessen in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um Parkplätze zu finden.",
+          "Beachten Sie die Parkraumbewirtschaftung im Zentrum.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a parkolóhelyek megtalálásához.",
+          "Vegye figyelembe a központi parkolási díjakat.",
+          "Tervezzen plusz időt a forgalom miatt.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație pentru a găsi locuri de parcare.",
+          "Fiți atenți la taxele de parcare din centru.",
+          "Planificați timp suplimentar pentru trafic.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Use a navigation app to find parking.",
+          "Be aware of parking regulations in the city center.",
+          "Plan for extra time due to traffic.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza del Pradillo",
+            "hu": "Plaza del Pradillo",
+            "ro": "Plaza del Pradillo",
+            "en": "Plaza del Pradillo"
+          },
+          "coords": [
+            -3.863,
+            40.325
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ankunft mit der Metro oder dem Bus. Der zentrale Knotenpunkt Ihres Tages.",
+            "hu": "Érkezés metróval vagy busszal. A nap központi csomópontja.",
+            "ro": "Sosire cu metroul sau autobuzul. Nodul central al zilei dumneavoastră.",
+            "en": "Arrival by metro or bus. The central hub of your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Ciudad & Kirche",
+            "hu": "Városi Múzeum & Templom",
+            "ro": "Muzeul Orașului & Biserica",
+            "en": "City Museum & Church"
+          },
+          "coords": [
+            -3.8645,
+            40.3263
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Museum und die nahegelegene Asunción-Kirche zu Fuß.",
+            "hu": "Fedezze fel gyalog a múzeumot és a közeli Asunción-templomot.",
+            "ro": "Explorați muzeul și Biserica Asunción din apropiere pe jos.",
+            "en": "Explore the museum and the nearby Church of the Assumption on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "CA2M Centro de Arte",
+            "hu": "CA2M Művészeti Központ",
+            "ro": "Centrul de Artă CA2M",
+            "en": "CA2M Art Center"
+          },
+          "coords": [
+            -3.859,
+            40.323
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, um zu diesem Zentrum für zeitgenössische Kunst zu gelangen.",
+            "hu": "Menjen busszal ehhez a kortárs művészeti központhoz.",
+            "ro": "Luați un autobuz pentru a ajunge la acest centru de artă contemporană.",
+            "en": "Take a bus to get to this contemporary art center."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Finca Liana",
+            "hu": "Finca Liana Park",
+            "ro": "Parcul Finca Liana",
+            "en": "Finca Liana Park"
+          },
+          "coords": [
+            -3.875,
+            40.32
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie in diesen schönen Park für die Mittagspause.",
+            "hu": "Egy újabb buszozás elviszi ebbe a szép parkba az ebédszünetre.",
+            "ro": "O altă călătorie cu autobuzul vă duce în acest parc frumos pentru pauza de prânz.",
+            "en": "Another bus ride takes you to this beautiful park for your lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque El Soto",
+            "hu": "El Soto Park",
+            "ro": "Parcul El Soto",
+            "en": "El Soto Park"
+          },
+          "coords": [
+            -3.9,
+            40.328
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Transitnetz, um diesen weiter entfernten Park zu erreichen.",
+            "hu": "Használja a tömegközlekedési hálózatot ennek a távolabbi parknak az eléréséhez.",
+            "ro": "Folosiți rețeaua de transport public pentru a ajunge la acest parc mai îndepărtat.",
+            "en": "Use the transit network to reach this more distant park."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrum für Tapas",
+            "hu": "Tapas központ",
+            "ro": "Centru de Tapas",
+            "en": "Tapas Center"
+          },
+          "coords": [
+            -3.863,
+            40.325
+          ],
+          "category": "gastro",
+          "arrive_at": "17:30",
+          "stay_min": 55,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kehren Sie ins Zentrum zurück und lassen Sie den Tag ausklingen.",
+            "hu": "Térjen vissza a központba, és zárja a napot.",
+            "ro": "Întoarceți-vă în centru și încheiați ziua.",
+            "en": "Return to the center to wind down your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt an der zentralen Haltestelle Plaza del Pradillo. Von hier aus erkunden Sie das erste Cluster zu Fuß, bestehend aus dem Stadtmuseum und der Asunción-Kirche. Sie erleben die Geschichte hautnah.\nAm späten Vormittag bringt Sie ein Bus zum CA2M, wo Sie in die Welt der modernen Kunst eintauchen. Dies ist Ihr zweites Cluster des Tages. Sie haben genügend Zeit, die Ausstellungen zu genießen.\nZur Mittagszeit fahren Sie mit dem Bus weiter zum Parque Finca Liana. Dieser Park ist der perfekte Ort, um sich mit einem Snack zu stärken und die grüne Lunge der Stadt zu genießen, bevor Sie Ihre Erkundung fortsetzen.\nDer Nachmittag ist für den weitläufigen Parque El Soto reserviert, den Sie ebenfalls bequem mit dem Bus erreichen. Zum Abschluss kehren Sie ins Zentrum zurück, wo Sie den Tag in einer Tapas-Bar gemütlich ausklingen lassen können.",
+        "hu": "Tömegközlekedéssel töltött napja a Plaza del Pradillo központi megállójánál kezdődik. Innen gyalogosan fedezi fel az első klasztert, amely a Városi Múzeumból és az Asunción-templomból áll. Testközelből tapasztalhatja meg a történelmet.\nA késő délelőtt folyamán egy busz viszi el a CA2M-be, ahol elmerülhet a modern művészet világában. Ez a nap második klasztere. Bőven van ideje élvezni a kiállításokat.\nEbédidőben busszal utazik tovább a Finca Liana Parkba. Ez a park tökéletes hely arra, hogy egy harapnivalóval feltöltődjön, és élvezze a város zöld tüdejét, mielőtt folytatná a felfedezést.\nA délután az El Soto tágas parkjának van fenntartva, amelyet szintén kényelmesen elérhet busszal. A nap végén visszatér a központba, ahol egy tapas bárban kényelmesen lezárhatja a napot.",
+        "ro": "Ziua dumneavoastră cu transportul public începe la stația centrală Plaza del Pradillo. De aici, explorați primul cluster pe jos, format din Muzeul Orașului și Biserica Asunción. Veți experimenta istoria de aproape.\nLa sfârșitul dimineții, un autobuz vă va duce la CA2M, unde vă veți cufunda în lumea artei moderne. Acesta este al doilea cluster al zilei. Aveți suficient timp pentru a vă bucura de expoziții.\nLa prânz, continuați cu autobuzul spre Parcul Finca Liana. Acest parc este locul perfect pentru a vă reîncărca cu o gustare și a vă bucura de plămânul verde al orașului înainte de a continua explorarea.\nDupă-amiaza este rezervată pentru vastul Parc El Soto, la care puteți ajunge, de asemenea, confortabil cu autobuzul. La final, vă întoarceți în centru, unde puteți încheia ziua relaxându-vă într-un bar de tapas.",
+        "en": "Your day on public transport begins at the central Plaza del Pradillo stop. From here, you'll explore the first cluster on foot, consisting of the City Museum and the Church of the Assumption. You'll experience history up close.\nIn the late morning, a bus will take you to CA2M, where you'll immerse yourself in the world of modern art. This is your second cluster of the day. You have plenty of time to enjoy the exhibitions.\nAt lunchtime, you'll continue by bus to Finca Liana Park. This park is the perfect place to recharge with a snack and enjoy the city's green lung before continuing your exploration.\nThe afternoon is reserved for the spacious El Soto Park, which you can also reach comfortably by bus. At the end, you'll return to the center, where you can end the day relaxing in a tapas bar."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei",
+            "tip": "Holen Sie sich unterwegs ein Gebäck für ein schnelles Frühstück."
+          },
+          {
+            "name": "Tapas-Bar im Zentrum",
+            "tip": "Nach Ihrer Rückkehr ins Zentrum können Sie aus vielen Optionen wählen."
+          },
+          {
+            "name": "Mercado",
+            "tip": "Kaufen Sie auf einem lokalen Markt Proviant für den Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség",
+            "tip": "Vegyen egy péksüteményt útközben egy gyors reggelihez."
+          },
+          {
+            "name": "Tapas bár a központban",
+            "tip": "Miután visszatért a központba, számos lehetőség közül választhat."
+          },
+          {
+            "name": "Piac",
+            "tip": "Vásároljon elemózsiát a napra egy helyi piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie",
+            "tip": "Luați un produs de patiserie pe drum pentru un mic dejun rapid."
+          },
+          {
+            "name": "Bar de tapas în centru",
+            "tip": "După ce vă întoarceți în centru, puteți alege dintre multe opțiuni."
+          },
+          {
+            "name": "Piață",
+            "tip": "Cumpărați provizii pentru o zi de la o piață locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery",
+            "tip": "Grab a pastry on the go for a quick breakfast."
+          },
+          {
+            "name": "Tapas bar in the center",
+            "tip": "After returning to the center, you can choose from many options."
+          },
+          {
+            "name": "Market",
+            "tip": "Buy provisions for the day at a local market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Parque El Soto",
+            "tip": "Finden Sie einen ruhigen Platz, um die Weite des Parks zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Leseecke im CA2M",
+            "tip": "Viele Museen haben ruhige Bereiche zum Verweilen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Morgenstimmung",
+            "tip": "Genießen Sie die Ruhe an Ihrer ersten Haltestelle, bevor die Stadt erwacht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad az El Soto Parkban",
+            "tip": "Keressen egy csendes helyet, hogy élvezze a park tágasságát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Olvasósarok a CA2M-ben",
+            "tip": "Sok múzeumban vannak csendes részek a pihenésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Reggeli hangulat",
+            "tip": "Élvezze a csendet az első megállónál, mielőtt a város felébred.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul El Soto",
+            "tip": "Găsiți un loc liniștit pentru a vă bucura de vastitatea parcului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colț de lectură la CA2M",
+            "tip": "Multe muzee au zone liniștite pentru relaxare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Atmosfera de dimineață",
+            "tip": "Bucurați-vă de liniște la prima oprire înainte ca orașul să se trezească.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in El Soto Park",
+            "tip": "Find a quiet spot to enjoy the vastness of the park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reading corner at CA2M",
+            "tip": "Many museums have quiet areas to relax.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Morning atmosphere",
+            "tip": "Enjoy the quiet at your first stop before the city wakes up.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop",
+            "tip": "Der CA2M-Shop bietet einzigartige Geschenke und Bücher."
+          },
+          {
+            "name": "Kleine Läden",
+            "tip": "Entdecken Sie die kleinen Geschäfte in den Seitenstraßen des Zentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt",
+            "tip": "A CA2M boltja egyedi ajándékokat és könyveket kínál."
+          },
+          {
+            "name": "Kis üzletek",
+            "tip": "Fedezze fel a központ mellékutcáinak kis üzleteit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Magazinul CA2M oferă cadouri și cărți unice."
+          },
+          {
+            "name": "Magazine mici",
+            "tip": "Descoperiți micile magazine de pe străzile laterale ale centrului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum shop",
+            "tip": "The CA2M shop offers unique gifts and books."
+          },
+          {
+            "name": "Small shops",
+            "tip": "Discover the small shops on the side streets of the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Planen Sie Wartezeiten an den Haltestellen ein.",
+          "Achten Sie auf Ihre Sachen in vollen Bussen oder Bahnen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Tervezzen be várakozási időt a megállókban.",
+          "Vigyázzon a holmijára a zsúfolt buszokon vagy vonatokon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public.",
+          "Descărcați aplicația locală de transport public pentru a vedea orarele în timp real.",
+          "Planificați timpii de așteptare în stații.",
+          "Aveți grijă de bunurile dumneavoastră în autobuzele sau trenurile aglomerate."
+        ],
+        "en": [
+          "Buy a day pass for public transport.",
+          "Download the local public transport app to see real-time schedules.",
+          "Plan for waiting times at stops.",
+          "Be mindful of your belongings on crowded buses or trains."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1380 @@
+{
+  "city_id": "spain-alcorcon-cities-v2",
+  "anchor": {
+    "name": "Alcorcón",
+    "coords": [
+      -3.8248,
+      40.3458
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:50",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de los Reyes de España",
+            "hu": "Plaza de los Reyes de España",
+            "ro": "Plaza de los Reyes de España",
+            "en": "Plaza de los Reyes de España"
+          },
+          "coords": [
+            -3.8285,
+            40.3482
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das historische Herz der Stadt, umgeben von Cafés.",
+            "hu": "A város történelmi szíve, kávézókkal körülvéve.",
+            "ro": "Inima istorică a orașului, înconjurată de cafenele.",
+            "en": "The historic heart of the city, surrounded by cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa María la Blanca",
+            "hu": "Santa María la Blanca templom",
+            "ro": "Biserica Santa María la Blanca",
+            "en": "Santa María la Blanca Church"
+          },
+          "coords": [
+            -3.829,
+            40.349
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die Apsis aus dem 16. Jahrhundert.",
+            "hu": "Figyelje meg a 16. századi apszist.",
+            "ro": "Observați absida din secolul al XVI-lea.",
+            "en": "Pay attention to the 16th-century apse."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei Los Remedios",
+            "hu": "Los Remedios remetelak",
+            "ro": "Schitul Los Remedios",
+            "en": "Hermitage of Los Remedios"
+          },
+          "coords": [
+            -3.8335,
+            40.3495
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine ruhige Kapelle mit einer schönen Grünanlage.",
+            "hu": "Csendes kápolna szép zöldövezettel.",
+            "ro": "O capelă liniștită, cu un spațiu verde frumos.",
+            "en": "A quiet chapel with a beautiful green area."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Buero Vallejo",
+            "hu": "Buero Vallejo Színház",
+            "ro": "Teatrul Buero Vallejo",
+            "en": "Buero Vallejo Theatre"
+          },
+          "coords": [
+            -3.83,
+            40.3505
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Modernes Kulturzentrum, benannt nach dem berühmten Dramatiker.",
+            "hu": "Modern kulturális központ, a híres drámaíróról elnevezve.",
+            "ro": "Centru cultural modern numit după celebrul dramaturg.",
+            "en": "Modern cultural center named after the famous playwright."
+          }
+        },
+        {
+          "name": {
+            "de": "Park de la Paz",
+            "hu": "La Paz park",
+            "ro": "Parcul La Paz",
+            "en": "La Paz Park"
+          },
+          "coords": [
+            -3.822,
+            40.346
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für eine kurze Pause im Schatten der Bäume.",
+            "hu": "Ideális egy rövid pihenőre a fák árnyékában.",
+            "ro": "Ideal pentru o scurtă pauză la umbra copacilor.",
+            "en": "Ideal for a short break in the shade of the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlösser von San José de Valderas",
+            "hu": "San José de Valderas kastélyok",
+            "ro": "Castelele San José de Valderas",
+            "en": "San José de Valderas Castles"
+          },
+          "coords": [
+            -3.816,
+            40.353
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erbaut 1917, beherbergt heute kulturelle Einrichtungen.",
+            "hu": "1917-ben épült, ma kulturális intézményeknek ad otthont.",
+            "ro": "Construit în 1917, astăzi găzduiește instituții culturale.",
+            "en": "Built in 1917, today it houses cultural institutions."
+          }
+        },
+        {
+          "name": {
+            "de": "Glaskunstmuseum (MAVA)",
+            "hu": "Üvegművészeti Múzeum (MAVA)",
+            "ro": "Muzeul de Artă a Sticlei (MAVA)",
+            "en": "Museum of Glass Art (MAVA)"
+          },
+          "coords": [
+            -3.8155,
+            40.3535
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beeindruckende Sammlung zeitgenössischer Glaskunst.",
+            "hu": "Kortárs üvegművészeti alkotások lenyűgöző gyűjteménye.",
+            "ro": "O colecție impresionantă de artă contemporană a sticlei.",
+            "en": "Impressive collection of contemporary glass art."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Alcorcón verbindet das alte historische Zentrum mit modernen Parks. Der Vormittag steht im Zeichen von Plätzen und alten Kirchen. Gegen Mittag erreichen wir grüne Oasen. Am Nachmittag tauchen wir in die Geschichte der Schlösser von Valderas ein. Den Abschluss bildet das faszinierende Glaskunstmuseum.",
+        "hu": "Az alcorcóni séta ötvözi a régi történelmi központot a modern parkokkal. A délelőtt a terek és régi templomok jegyében telik. Dél körül zöld oázisokat érintünk. Délután elmerülünk a Valderas kastélyok történelmében. A napot a lenyűgöző üvegművészeti múzeum zárja.",
+        "ro": "O plimbare prin Alcorcón combină vechiul centru istoric cu parcurile moderne. Dimineața este dedicată piețelor și bisericilor vechi. Pe la prânz ajungem în oaze verzi. După-amiaza ne cufundăm în istoria castelelor Valderas. Ziua se încheie cu fascinantul muzeu al sticlei.",
+        "en": "A walk through Alcorcón combines the old historic center with modern parks. The morning is dedicated to squares and old churches. Around noon, we reach green oases. In the afternoon, we dive into the history of the Valderas castles. The day ends with the fascinating glass art museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cocido madrileño",
+            "tip": "Traditioneller Kichererbseneintopf, perfekt für kühlere Tage."
+          },
+          {
+            "name": "Churros con chocolate",
+            "tip": "Der klassische süße Snack in den Cafés nahe der Plaza."
+          },
+          {
+            "name": "Tapas-Bars",
+            "tip": "Probieren Sie Patatas Bravas und lokalen Käse in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cocido madrileño",
+            "tip": "Hagyományos csicseriborsó pörkölt, tökéletes hűvösebb napokon."
+          },
+          {
+            "name": "Churros con chocolate",
+            "tip": "A klasszikus édes falat a főtér közeli kávézókban."
+          },
+          {
+            "name": "Tapas bárok",
+            "tip": "Kóstolja meg a Patatas Bravas-t és a helyi sajtokat az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cocido madrileño",
+            "tip": "O tocană tradițională de năut, perfectă pentru zilele mai răcoroase."
+          },
+          {
+            "name": "Churros cu ciocolată",
+            "tip": "Gustarea dulce clasică în cafenelele din apropierea pieței."
+          },
+          {
+            "name": "Baruri de tapas",
+            "tip": "Încercați Patatas Bravas și brânza locală în orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cocido madrileño",
+            "tip": "Traditional chickpea stew, perfect for cooler days."
+          },
+          {
+            "name": "Churros con chocolate",
+            "tip": "The classic sweet snack in the cafes near the plaza."
+          },
+          {
+            "name": "Tapas bars",
+            "tip": "Try Patatas Bravas and local cheese in the old town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park de la Paz",
+            "tip": "Schattige Bänke abseits des Trubels.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Los Remedios Gärten",
+            "tip": "Stiller Ort zum Nachdenken neben der Einsiedelei.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Paz park",
+            "tip": "Árnyékos padok távol a nyüzsgéstől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Los Remedios kertek",
+            "tip": "Csendes hely az elmélkedésre a remetelak mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul La Paz",
+            "tip": "Bănci umbrite departe de agitație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile Los Remedios",
+            "tip": "Un loc liniștit pentru reflecție lângă schit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "La Paz Park",
+            "tip": "Shady benches away from the hustle and bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Los Remedios Gardens",
+            "tip": "Quiet spot for reflection next to the hermitage.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Mayor",
+            "tip": "Die Haupteinkaufsstraße mit Boutiquen und lokalen Läden."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "Täglich frische Produkte und regionale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Mayor",
+            "tip": "A fő bevásárlóutca butikokkal és helyi boltokkal."
+          },
+          {
+            "name": "Városi Piac",
+            "tip": "Napi friss termékek és regionális specialitások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Mayor",
+            "tip": "Strada principală de cumpărături cu buticuri și magazine locale."
+          },
+          {
+            "name": "Piața Municipală",
+            "tip": "Produse proaspete zilnice și specialități regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Mayor",
+            "tip": "The main shopping street with boutiques and local stores."
+          },
+          {
+            "name": "Municipal Market",
+            "tip": "Daily fresh products and regional specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, das Zentrum ist sehr fußgängerfreundlich.",
+          "Die Distanzen zwischen den Sehenswürdigkeiten sind kurz, ideal für einen entspannten Spaziergang.",
+          "Achten Sie auf die Siesta-Zeiten, viele kleine Läden schließen am frühen Nachmittag.",
+          "Das Glaskunstmuseum bietet freien Eintritt an bestimmten Tagen, prüfen Sie dies vorab."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a központ nagyon gyalogosbarát.",
+          "A látnivalók közötti távolságok rövidek, ideálisak egy pihentető sétához.",
+          "Ügyeljen a szieszta idejére, sok kis bolt kora délután bezár.",
+          "Az üvegművészeti múzeum bizonyos napokon ingyenes, érdemes előre tájékozódni."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, centrul este foarte prietenos cu pietonii.",
+          "Distanțele dintre atracții sunt scurte, ideale pentru o plimbare relaxantă.",
+          "Atenție la orele de siesta, multe magazine mici se închid după-amiaza devreme.",
+          "Muzeul sticlei oferă intrare gratuită în anumite zile, verificați în prealabil."
+        ],
+        "en": [
+          "Wear comfortable shoes, the center is very pedestrian-friendly.",
+          "The distances between the sights are short, ideal for a relaxing walk.",
+          "Pay attention to siesta times, many small shops close in the early afternoon.",
+          "The glass art museum offers free entry on certain days, check this in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "14:44",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de los Reyes de España",
+            "hu": "Plaza de los Reyes de España",
+            "ro": "Plaza de los Reyes de España",
+            "en": "Plaza de los Reyes de España"
+          },
+          "coords": [
+            -3.8285,
+            40.3482
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Guter Treffpunkt, um die Radtour zu starten.",
+            "hu": "Jó találkozási pont a kerékpártúra megkezdéséhez.",
+            "ro": "Un loc bun de întâlnire pentru a începe turul cu bicicleta.",
+            "en": "Good meeting point to start the bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa María la Blanca",
+            "hu": "Santa María la Blanca templom",
+            "ro": "Biserica Santa María la Blanca",
+            "en": "Santa María la Blanca Church"
+          },
+          "coords": [
+            -3.829,
+            40.349
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrradständer befinden sich in der Nähe des Eingangs.",
+            "hu": "Kerékpártárolók a bejárat közelében találhatók.",
+            "ro": "Suporturile pentru biciclete sunt situate lângă intrare.",
+            "en": "Bike racks are located near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Park de la Paz",
+            "hu": "La Paz park",
+            "ro": "Parcul La Paz",
+            "en": "La Paz Park"
+          },
+          "coords": [
+            -3.822,
+            40.346
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nutzen Sie die breiten Wege für eine entspannte Fahrt.",
+            "hu": "Használja a széles utakat egy pihentető utazáshoz.",
+            "ro": "Folosiți cărările late pentru o plimbare relaxantă.",
+            "en": "Use the wide paths for a relaxing ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlösser von San José de Valderas",
+            "hu": "San José de Valderas kastélyok",
+            "ro": "Castelele San José de Valderas",
+            "en": "San José de Valderas Castles"
+          },
+          "coords": [
+            -3.816,
+            40.353
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Gelände bietet wunderschöne Fotomotive.",
+            "hu": "A terület gyönyörű fotótémákat kínál.",
+            "ro": "Zona oferă motive foto frumoase.",
+            "en": "The area offers beautiful photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Glaskunstmuseum (MAVA)",
+            "hu": "Üvegművészeti Múzeum (MAVA)",
+            "ro": "Muzeul de Artă a Sticlei (MAVA)",
+            "en": "Museum of Glass Art (MAVA)"
+          },
+          "coords": [
+            -3.8155,
+            40.3535
+          ],
+          "category": "museums",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt bei den Schlössern, lassen Sie das Rad stehen.",
+            "hu": "Közvetlenül a kastélyoknál, hagyja itt a kerékpárt.",
+            "ro": "Chiar la castele, lăsați bicicleta aici.",
+            "en": "Right by the castles, leave your bike here."
+          }
+        },
+        {
+          "name": {
+            "de": "Park de las Presillas",
+            "hu": "Las Presillas park",
+            "ro": "Parcul Las Presillas",
+            "en": "Las Presillas Park"
+          },
+          "coords": [
+            -3.805,
+            40.36
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Großflächiges Gelände, perfekt für längere Radrunden.",
+            "hu": "Nagy kiterjedésű terület, tökéletes hosszabb kerékpárutakhoz.",
+            "ro": "Teren întins, perfect pentru plimbări lungi cu bicicleta.",
+            "en": "Extensive grounds, perfect for longer bike rides."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erleben Sie Alcorcón von seiner dynamischen Seite. Nach einem kulturellen Start in der Altstadt fahren Sie über grüne Korridore zu den Schlössern von Valderas. Das absolute Highlight für Radfahrer ist der weitläufige Park de las Presillas am Nachmittag.",
+        "hu": "Kerékpárral Alcorcón dinamikus oldalát ismerheti meg. Az óvárosi kulturális kezdés után zöld folyosókon keresztül teker a Valderas kastélyokhoz. A kerékpárosok számára az abszolút fénypont a kiterjedt Las Presillas park délután.",
+        "ro": "Cu bicicleta veți experimenta latura dinamică a Alcorcón. După un început cultural în orașul vechi, veți pedala prin coridoare verzi către castelele Valderas. Punctul culminant absolut pentru bicicliști este parcul extins Las Presillas după-amiaza.",
+        "en": "By bike, you experience the dynamic side of Alcorcón. After a cultural start in the old town, you cycle through green corridors to the Valderas castles. The absolute highlight for cyclists is the expansive Las Presillas park in the afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Schneller und herzhafter Snack für Radfahrer."
+          },
+          {
+            "name": "Lokale Tapas",
+            "tip": "Stärken Sie sich am Rand der Altstadt."
+          },
+          {
+            "name": "Kühles Cerveza",
+            "tip": "Erfrischung nach der Tour im Park de las Presillas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Gyors és kiadós snack kerékpárosoknak."
+          },
+          {
+            "name": "Helyi Tapas",
+            "tip": "Erősödjön meg az óváros szélén."
+          },
+          {
+            "name": "Hideg Cerveza",
+            "tip": "Felfrissülés a Las Presillas parki túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Gustare rapidă și sățioasă pentru bicicliști."
+          },
+          {
+            "name": "Tapas locale",
+            "tip": "Întăriți-vă la marginea orașului vechi."
+          },
+          {
+            "name": "Cerveza rece",
+            "tip": "Răcorire după turul în parcul Las Presillas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Fast and hearty snack for cyclists."
+          },
+          {
+            "name": "Local Tapas",
+            "tip": "Strengthen yourself on the edge of the old town."
+          },
+          {
+            "name": "Cold Cerveza",
+            "tip": "Refreshment after the tour in Las Presillas Park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Presillas Pinienwald",
+            "tip": "Schattenplatz unter den Kiefern.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Valderas Schlossgarten",
+            "tip": "Ein stiller Ort abseits der Radwege.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Presillas fenyőerdő",
+            "tip": "Árnyékos hely a fenyők alatt.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Valderas kastélykert",
+            "tip": "Csendes hely távol a kerékpárutaktól.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de pini Presillas",
+            "tip": "Loc umbrit sub pini.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Grădina Castelului Valderas",
+            "tip": "Un loc liniștit departe de pistele de biciclete.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Presillas Pine Forest",
+            "tip": "Shady spot under the pines.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Valderas Castle Garden",
+            "tip": "A quiet place away from the bike paths.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Entlang der großen Avenidas finden Sie Radzubehör."
+          },
+          {
+            "name": "Bäckereien",
+            "tip": "Kaufen Sie frisches Brot für ein Picknick im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "A nagy sugárutak mentén talál kerékpáros kiegészítőket."
+          },
+          {
+            "name": "Pékségek",
+            "tip": "Vásároljon friss kenyeret egy piknikhez a parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "De-a lungul marilor bulevarde veți găsi accesorii pentru biciclete."
+          },
+          {
+            "name": "Brutării",
+            "tip": "Cumpărați pâine proaspătă pentru un picnic în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports shops",
+            "tip": "Along the large avenues you will find bike accessories."
+          },
+          {
+            "name": "Bakeries",
+            "tip": "Buy fresh bread for a picnic in the park."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege, die die nördlichen Parks mit dem Zentrum verbinden.",
+          "Nehmen Sie ausreichend Wasser mit, besonders im Sommer.",
+          "Vorsicht an den Kreuzungen im historischen Zentrum, hier gibt es viel Fußgängerverkehr.",
+          "Schließen Sie Ihr Fahrrad an den Sehenswürdigkeiten immer gut ab."
+        ],
+        "hu": [
+          "Használja a kerékpárutakat, amelyek az északi parkokat a központtal kötik össze.",
+          "Vigyen magával elegendő vizet, különösen nyáron.",
+          "Vigyázzon a történelmi központ kereszteződéseiben, itt nagy a gyalogosforgalom.",
+          "Mindig jól zárja le kerékpárját a látnivalóknál."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete care leagă parcurile din nord de centru.",
+          "Luați multă apă cu voi, mai ales vara.",
+          "Atenție la intersecțiile din centrul istoric, există mult trafic pietonal.",
+          "Încuiați-vă întotdeauna bine bicicleta la atracții."
+        ],
+        "en": [
+          "Use the bike paths that connect the northern parks with the center.",
+          "Take plenty of water with you, especially in summer.",
+          "Be careful at the intersections in the historic center, there is a lot of pedestrian traffic.",
+          "Always lock your bike securely at the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:41",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de los Reyes de España",
+            "hu": "Plaza de los Reyes de España",
+            "ro": "Plaza de los Reyes de España",
+            "en": "Plaza de los Reyes de España"
+          },
+          "coords": [
+            -3.8285,
+            40.3482
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Rand des Zentrums (Cluster 1).",
+            "hu": "Parkoljon a központ szélén (1. klaszter).",
+            "ro": "Parcați la marginea centrului (Cluster 1).",
+            "en": "Park on the edge of the center (Cluster 1)."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa María la Blanca",
+            "hu": "Santa María la Blanca templom",
+            "ro": "Biserica Santa María la Blanca",
+            "en": "Santa María la Blanca Church"
+          },
+          "coords": [
+            -3.829,
+            40.349
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Plaza.",
+            "hu": "Egy rövid sétára a tértől.",
+            "ro": "O scurtă plimbare de la Plaza.",
+            "en": "A short walk from the Plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei Los Remedios",
+            "hu": "Los Remedios remetelak",
+            "ro": "Schitul Los Remedios",
+            "en": "Hermitage of Los Remedios"
+          },
+          "coords": [
+            -3.8335,
+            40.3495
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Letzter Halt im ersten Cluster, bevor es weitergeht.",
+            "hu": "Utolsó megálló az első klaszterben a továbbindulás előtt.",
+            "ro": "Ultima oprire în primul cluster înainte de a merge mai departe.",
+            "en": "Last stop in the first cluster before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlösser von San José de Valderas",
+            "hu": "San José de Valderas kastélyok",
+            "ro": "Castelele San José de Valderas",
+            "en": "San José de Valderas Castles"
+          },
+          "coords": [
+            -3.816,
+            40.353
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt zu Cluster 2. Hier gibt es gute Parkmöglichkeiten.",
+            "hu": "Utazás a 2. klaszterhez. Itt jó parkolási lehetőségek vannak.",
+            "ro": "Conduceți spre Clusterul 2. Opțiuni bune de parcare aici.",
+            "en": "Drive to Cluster 2. Good parking options here."
+          }
+        },
+        {
+          "name": {
+            "de": "Glaskunstmuseum (MAVA)",
+            "hu": "Üvegművészeti Múzeum (MAVA)",
+            "ro": "Muzeul de Artă a Sticlei (MAVA)",
+            "en": "Museum of Glass Art (MAVA)"
+          },
+          "coords": [
+            -3.8155,
+            40.3535
+          ],
+          "category": "museums",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von den Schlössern entfernt.",
+            "hu": "Csak néhány lépésre a kastélyoktól.",
+            "ro": "La doar câțiva pași de castele.",
+            "en": "Just a few steps from the castles."
+          }
+        },
+        {
+          "name": {
+            "de": "Park de las Presillas",
+            "hu": "Las Presillas park",
+            "ro": "Parcul Las Presillas",
+            "en": "Las Presillas Park"
+          },
+          "coords": [
+            -3.805,
+            40.36
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt zu Cluster 3, perfekt für einen entspannten Abschluss.",
+            "hu": "Utazás a 3. klaszterhez, tökéletes egy pihentető lezáráshoz.",
+            "ro": "Conduceți spre Cluster 3, perfect pentru o încheiere relaxantă.",
+            "en": "Drive to Cluster 3, perfect for a relaxing finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir nutzen das Auto strategisch, um zwischen den Hauptzonen von Alcorcón zu wechseln. Der Morgen beginnt mit einem Spaziergang im alten Zentrum. Danach fahren wir zum Valderas-Komplex für Kultur und Geschichte. Der Nachmittag bietet Natur pur im Park de las Presillas.",
+        "hu": "Az autót stratégiailag használjuk, hogy Alcorcón fő zónái között mozogjunk. A reggel egy sétával indul a régi központban. Ezután a Valderas komplexumhoz hajtunk kultúráért és történelemért. A délután tiszta természetet kínál a Las Presillas parkban.",
+        "ro": "Folosim mașina strategic pentru a ne deplasa între zonele principale din Alcorcón. Dimineața începe cu o plimbare în vechiul centru. Apoi conducem la complexul Valderas pentru cultură și istorie. După-amiaza oferă natură pură în parcul Las Presillas.",
+        "en": "We use the car strategically to move between the main zones of Alcorcón. The morning begins with a walk in the old center. Then we drive to the Valderas complex for culture and history. The afternoon offers pure nature in the Las Presillas park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Huevos Rotos",
+            "tip": "Herzhaftes Gericht, leicht in den Restaurants nahe Valderas zu finden."
+          },
+          {
+            "name": "Cocido madrileño",
+            "tip": "Mittagessen im historischen Zentrum."
+          },
+          {
+            "name": "Churrería",
+            "tip": "Kurzer Stopp am Vormittag für Süßes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Huevos Rotos",
+            "tip": "Kiadós étel, könnyen megtalálható a Valderas közeli éttermekben."
+          },
+          {
+            "name": "Cocido madrileño",
+            "tip": "Ebéd a történelmi központban."
+          },
+          {
+            "name": "Churrería",
+            "tip": "Rövid megálló délelőtt valami édesért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Huevos Rotos",
+            "tip": "Mâncare sățioasă, ușor de găsit în restaurantele de lângă Valderas."
+          },
+          {
+            "name": "Cocido madrileño",
+            "tip": "Prânz în centrul istoric."
+          },
+          {
+            "name": "Churrería",
+            "tip": "Scurtă oprire dimineața pentru ceva dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Huevos Rotos",
+            "tip": "Hearty dish, easy to find in the restaurants near Valderas."
+          },
+          {
+            "name": "Cocido madrileño",
+            "tip": "Lunch in the historic center."
+          },
+          {
+            "name": "Churrería",
+            "tip": "Short stop in the morning for something sweet."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Presillas Wiesen",
+            "tip": "Ausgedehnte Liegeflächen nach der Autofahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Valderas Schlossgarten",
+            "tip": "Ruhige Bänke nahe dem Museum.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Presillas rétek",
+            "tip": "Kiterjedt napozóterületek az autóút után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Valderas kastélykert",
+            "tip": "Csendes padok a múzeum közelében.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pajiștile Presillas",
+            "tip": "Zone extinse de stat la soare după drumul cu mașina.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Castelului Valderas",
+            "tip": "Bănci liniștite lângă muzeu.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Presillas Meadows",
+            "tip": "Extensive sunbathing areas after the drive.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Valderas Castle Garden",
+            "tip": "Quiet benches near the museum.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum TresAguas",
+            "tip": "Großes Mall mit vielen Parkplätzen nahe der Route."
+          },
+          {
+            "name": "Lokale Feinkost",
+            "tip": "Nehmen Sie Olivenöl oder regionalen Wein mit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "TresAguas Bevásárlóközpont",
+            "tip": "Nagy pláza sok parkolóval az útvonal közelében."
+          },
+          {
+            "name": "Helyi csemege",
+            "tip": "Vigyen magával olívaolajat vagy regionális bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial TresAguas",
+            "tip": "Mall mare cu multe locuri de parcare aproape de rută."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Luați ulei de măsline sau vin regional."
+          }
+        ],
+        "en": [
+          {
+            "name": "TresAguas Shopping Center",
+            "tip": "Large mall with plenty of parking near the route."
+          },
+          {
+            "name": "Local Delicatessen",
+            "tip": "Take home some olive oil or regional wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie im alten Zentrum am Rand und gehen Sie zu Fuß; die engen Gassen sind oft unübersichtlich.",
+          "Die Parkplätze bei den Schlössern von Valderas sind geräumig und meist kostenlos.",
+          "Nutzen Sie die App der Stadt für aktuelle Informationen zu Parkzonen.",
+          "Vermeiden Sie die Rushhour am späten Nachmittag, wenn Sie zurück nach Madrid fahren."
+        ],
+        "hu": [
+          "Parkoljon a régi központ szélén és sétáljon; a szűk utcák gyakran zavarosak.",
+          "A Valderas kastélyok melletti parkolók tágasak és többnyire ingyenesek.",
+          "Használja a városi alkalmazást a parkolási zónákkal kapcsolatos aktuális információkért.",
+          "Kerülje a késő délutáni csúcsforgalmat, ha visszautazik Madridba."
+        ],
+        "ro": [
+          "Parcați la marginea centrului vechi și mergeți pe jos; străzile înguste sunt adesea confuze.",
+          "Parcările de la castelele Valderas sunt spațioase și în mare parte gratuite.",
+          "Folosiți aplicația orașului pentru informații actualizate despre zonele de parcare.",
+          "Evitați orele de vârf de după-amiază târziu dacă vă întoarceți la Madrid."
+        ],
+        "en": [
+          "Park on the edge of the old center and walk; the narrow streets are often confusing.",
+          "The parking lots at the Valderas castles are spacious and mostly free.",
+          "Use the city app for up-to-date information on parking zones.",
+          "Avoid the late afternoon rush hour if driving back to Madrid."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "14:10",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de los Reyes de España",
+            "hu": "Plaza de los Reyes de España",
+            "ro": "Plaza de los Reyes de España",
+            "en": "Plaza de los Reyes de España"
+          },
+          "coords": [
+            -3.8285,
+            40.3482
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Startpunkt im District A (Altstadt).",
+            "hu": "Kiindulópont az A körzetben (Óváros).",
+            "ro": "Punct de plecare în Districtul A (Orașul vechi).",
+            "en": "Starting point in District A (Old Town)."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa María la Blanca",
+            "hu": "Santa María la Blanca templom",
+            "ro": "Biserica Santa María la Blanca",
+            "en": "Santa María la Blanca Church"
+          },
+          "coords": [
+            -3.829,
+            40.349
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Plaza zur historischen Kirche.",
+            "hu": "Rövid séta a tértől a történelmi templomig.",
+            "ro": "Scurtă plimbare de la Plaza la biserica istorică.",
+            "en": "Short walk from the Plaza to the historic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Buero Vallejo",
+            "hu": "Buero Vallejo Színház",
+            "ro": "Teatrul Buero Vallejo",
+            "en": "Buero Vallejo Theatre"
+          },
+          "coords": [
+            -3.83,
+            40.3505
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:18",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Architektonischer Blickfang in der Altstadt.",
+            "hu": "Építészeti látványosság az óvárosban.",
+            "ro": "Atracție arhitecturală în orașul vechi.",
+            "en": "Architectural eye-catcher in the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Park de la Paz",
+            "hu": "La Paz park",
+            "ro": "Parcul La Paz",
+            "en": "La Paz Park"
+          },
+          "coords": [
+            -3.822,
+            40.346
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:53",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bus- oder Metrobahnfahrt zum District B für Entspannung.",
+            "hu": "Busz- vagy metróút a B körzetbe kikapcsolódásra.",
+            "ro": "Călătorie cu autobuzul sau metroul în Districtul B pentru relaxare.",
+            "en": "Bus or metro ride to District B for relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlösser von San José de Valderas",
+            "hu": "San José de Valderas kastélyok",
+            "ro": "Castelele San José de Valderas",
+            "en": "San José de Valderas Castles"
+          },
+          "coords": [
+            -3.816,
+            40.353
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spaziergang durch den Parkkomplex zu den Schlössern.",
+            "hu": "Séta a parkkomplexumon keresztül a kastélyokhoz.",
+            "ro": "Plimbare prin complexul parcului până la castele.",
+            "en": "Walk through the park complex to the castles."
+          }
+        },
+        {
+          "name": {
+            "de": "Glaskunstmuseum (MAVA)",
+            "hu": "Üvegművészeti Múzeum (MAVA)",
+            "ro": "Muzeul de Artă a Sticlei (MAVA)",
+            "en": "Museum of Glass Art (MAVA)"
+          },
+          "coords": [
+            -3.8155,
+            40.3535
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich nebenan, das Highlight des Valderas-Areals.",
+            "hu": "Közvetlenül a szomszédban, a Valderas negyed fénypontja.",
+            "ro": "Chiar alături, punctul culminant al zonei Valderas.",
+            "en": "Right next door, the highlight of the Valderas area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das öffentliche Netz von Alcorcón verbindet die Distrikte perfekt. Wir beginnen im Zentrum mit den historischen Schätzen und spazieren zwischen den Plätzen. Dann nehmen wir die Metro oder den Bus in Richtung Valderas, um grüne Parks und die beeindruckenden Schlösser zu erkunden.",
+        "hu": "Alcorcón közösségi hálózata tökéletesen összeköti a kerületeket. A központban kezdünk a történelmi kincsekkel, és a terek között sétálunk. Ezután metróval vagy busszal indulunk Valderas felé, hogy felfedezzük a zöld parkokat és a lenyűgöző kastélyokat.",
+        "ro": "Rețeaua publică din Alcorcón conectează perfect districtele. Începem în centru cu comorile istorice și ne plimbăm prin piețe. Apoi luăm metroul sau autobuzul spre Valderas pentru a explora parcuri verzi și castelele impresionante.",
+        "en": "Alcorcón's public network connects the districts perfectly. We begin in the center with the historical treasures and walk between the squares. Then we take the metro or bus towards Valderas to explore green parks and the impressive castles."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocata de Calamares",
+            "tip": "Schneller Snack an den Metrostationen."
+          },
+          {
+            "name": "Tortilla Española",
+            "tip": "In den traditionellen Cafés am Theater."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Ein Glas nach dem Museumsbesuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocata de Calamares",
+            "tip": "Gyors snack a metróállomásokon."
+          },
+          {
+            "name": "Tortilla Española",
+            "tip": "A színház melletti hagyományos kávézókban."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Egy pohár a múzeumlátogatás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocata de Calamares",
+            "tip": "Gustare rapidă la stațiile de metrou."
+          },
+          {
+            "name": "Tortilla Española",
+            "tip": "În cafenelele tradiționale de la teatru."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Un pahar după vizitarea muzeului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocata de Calamares",
+            "tip": "Quick snack at the metro stations."
+          },
+          {
+            "name": "Tortilla Española",
+            "tip": "In the traditional cafes by the theater."
+          },
+          {
+            "name": "Local wine",
+            "tip": "A glass after visiting the museum."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park de la Paz",
+            "tip": "Ein schattiges Plätzchen zur Mittagszeit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ruhiger Museumshof",
+            "tip": "Stiller Ort innerhalb des Valderas-Komplexes.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Paz park",
+            "tip": "Árnyékos hely délidőben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Csendes múzeumudvar",
+            "tip": "Csendes hely a Valderas komplexumon belül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul La Paz",
+            "tip": "Un loc umbrit la prânz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea muzeului",
+            "tip": "Un loc liniștit în complexul Valderas.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "La Paz Park",
+            "tip": "A shady spot at lunchtime.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Quiet museum courtyard",
+            "tip": "Quiet place within the Valderas complex.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markthalle am Zentrum",
+            "tip": "Perfekt vor dem Wechsel in den District B."
+          },
+          {
+            "name": "Keramik-Souvenirs",
+            "tip": "In den kleinen Geschäften rund um die Plaza."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vásárcsarnok a központban",
+            "tip": "Tökéletes a B körzetbe való átlépés előtt."
+          },
+          {
+            "name": "Kerámia ajándéktárgyak",
+            "tip": "A tér körüli kis boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala pieței din centru",
+            "tip": "Perfect înainte de a trece în Districtul B."
+          },
+          {
+            "name": "Suveniruri din ceramică",
+            "tip": "În micile magazine din jurul Pieței."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market hall in the center",
+            "tip": "Perfect before moving to District B."
+          },
+          {
+            "name": "Ceramic souvenirs",
+            "tip": "In the small shops around the Plaza."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die MetroSur (Linie 12) ist die beste Verbindung durch den Süden Madrids.",
+          "Kaufen Sie ein Tages-Ticket, wenn Sie mehr als drei Fahrten planen.",
+          "Die Busse verkehren sehr regelmäßig zwischen dem Zentrum und den Parks.",
+          "Prüfen Sie vorab die Öffnungszeiten des Theaters und Museums."
+        ],
+        "hu": [
+          "A MetroSur (12-es vonal) a legjobb összeköttetés Madrid déli részén.",
+          "Vásároljon napijegyet, ha több mint három utazást tervez.",
+          "A buszok nagyon rendszeresen közlekednek a központ és a parkok között.",
+          "Előre ellenőrizze a színház és a múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "MetroSur (Linia 12) este cea mai bună conexiune prin sudul Madridului.",
+          "Cumpărați un bilet de o zi dacă plănuiți mai mult de trei călătorii.",
+          "Autobuzele circulă foarte regulat între centru și parcuri.",
+          "Verificați în prealabil orele de deschidere ale teatrului și muzeului."
+        ],
+        "en": [
+          "The MetroSur (Line 12) is the best connection through the south of Madrid.",
+          "Buy a day ticket if you plan more than three trips.",
+          "The buses run very regularly between the center and the parks.",
+          "Check the opening times of the theater and museum in advance."
+        ]
+      }
+    }
+  }
+}

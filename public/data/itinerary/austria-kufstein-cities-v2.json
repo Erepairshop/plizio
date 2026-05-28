@@ -1,0 +1,1445 @@
+{
+  "city_id": "austria-kufstein-cities-v2",
+  "anchor": {
+    "name": "Kufstein",
+    "coords": [
+      12.1667,
+      47.5833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Römerhofgasse",
+            "hu": "Römerhofgasse",
+            "ro": "Aleea Römerhofgasse",
+            "en": "Römerhofgasse"
+          },
+          "coords": [
+            12.168,
+            47.583
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die aufwändigen Fassadenmalereien.",
+            "hu": "Figyelje meg a házak homlokzatán lévő részletes festményeket!",
+            "ro": "Fiți atenți la picturile elaborate de pe fațade.",
+            "en": "Look for the intricate paintings on the building facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienbrunnen",
+            "hu": "Mária-kút",
+            "ro": "Fântâna Sf. Maria",
+            "en": "St. Mary's Fountain"
+          },
+          "coords": [
+            12.1692,
+            47.5836
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:43",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein beliebter Fotopunkt mit der Festung im Hintergrund.",
+            "hu": "Népszerű fotóhely, a háttérben a várral.",
+            "ro": "Un loc popular pentru fotografii, cu fortăreața în fundal.",
+            "en": "A popular photo spot with the fortress in the background."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Vitus",
+            "hu": "Szent Vitus plébániatemplom",
+            "ro": "Biserica parohială Sf. Vitus",
+            "en": "Parish Church of St. Vitus"
+          },
+          "coords": [
+            12.1688,
+            47.5833
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beachten Sie den achteckigen Turm, ein Wahrzeichen der Stadt.",
+            "hu": "Nézze meg a nyolcszögletű tornyot, a város egyik jelképét.",
+            "ro": "Observați turnul octogonal, un simbol al orașului.",
+            "en": "Note the octagonal tower, a landmark of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Kufstein",
+            "hu": "Kufsteini erőd",
+            "ro": "Fortăreața Kufstein",
+            "en": "Kufstein Fortress"
+          },
+          "coords": [
+            12.1695,
+            47.5845
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Panoramalift für eine beeindruckende Aussicht.",
+            "hu": "Használja a panorámaliftet a lenyűgöző kilátásért.",
+            "ro": "Luați liftul panoramic pentru o priveliște impresionantă.",
+            "en": "Take the panoramic lift for an impressive view."
+          }
+        },
+        {
+          "name": {
+            "de": "Auracher Löchl",
+            "hu": "Auracher Löchl",
+            "ro": "Auracher Löchl",
+            "en": "Auracher Löchl"
+          },
+          "coords": [
+            12.1665,
+            47.584
+          ],
+          "category": "gastro",
+          "arrive_at": "12:58",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Reservieren Sie für das Abendessen, besonders für einen Tisch im Stollen.",
+            "hu": "Foglaljon asztalt vacsorára, különösen, ha a barlangrészben szeretne ülni.",
+            "ro": "Rezervați pentru cină, mai ales pentru o masă în grotă.",
+            "en": "Make a reservation for dinner, especially for a table in the tunnel."
+          }
+        },
+        {
+          "name": {
+            "de": "Inn-Promenade",
+            "hu": "Inn-sétány",
+            "ro": "Promenada Inn",
+            "en": "Inn Promenade"
+          },
+          "coords": [
+            12.164,
+            47.5835
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang am Nachmittag.",
+            "hu": "Tökéletes egy pihentető délutáni sétához.",
+            "ro": "Perfect pentru o plimbare relaxantă de după-amiază.",
+            "en": "Perfect for a relaxing afternoon stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Riedel Glas Manufaktur",
+            "hu": "Riedel üveggyár",
+            "ro": "Fabrica de sticlă Riedel",
+            "en": "Riedel Glass Manufactory"
+          },
+          "coords": [
+            12.17,
+            47.579
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:15",
+          "stay_min": 55,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Shop für einzigartige Souvenirs.",
+            "hu": "Nézzen be a boltba egyedi ajándéktárgyakért.",
+            "ro": "Vizitați magazinul pentru suveniruri unice.",
+            "en": "Visit the shop for unique souvenirs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt in der malerischen Römerhofgasse, gefolgt von der Erkundung der historischen Kirchen und Brunnen im Stadtzentrum. Am Mittag erklimmen Sie die imposante Festung Kufstein, die hoch über der Stadt thront und einen weiten Blick über das Inntal bietet. Der Nachmittag ist für einen entspannten Spaziergang entlang der Inn-Promenade reserviert, bevor Sie die weltberühmte Riedel Glasmanufaktur besuchen und die Kunst der Glasbläserei erleben. Am Abend genießen Sie Tiroler Spezialitäten in einem der traditionellen Gasthäuser der Altstadt.",
+        "hu": "A nap a festői Römerhofgasse-ban kezdődik, majd a belváros történelmi templomainak és kútjainak felfedezésével folytatódik. Délben megmássza a város fölé magasodó, impozáns Kufsteini erődöt, ahonnan pazar kilátás nyílik az Inn völgyére. A délután az Inn-sétányon tett pihentető sétáé, mielőtt ellátogatna a világhírű Riedel üveggyárba, hogy megismerje az üvegfúvás művészetét. Este tiroli specialitásokat kóstolhat az óváros egyik hagyományos vendéglőjében.",
+        "ro": "Ziua începe pe pitoreasca alee Römerhofgasse, urmată de explorarea bisericilor și fântânilor istorice din centrul orașului. La prânz, urcați la impunătoarea Fortăreață Kufstein, care domină orașul și oferă o priveliște vastă asupra văii Inn. După-amiaza este rezervată pentru o plimbare relaxantă de-a lungul promenadei Inn, înainte de a vizita faimoasa fabrică de sticlă Riedel pentru a experimenta arta suflării sticlei. Seara, savurați specialități tiroleze la unul dintre hanurile tradiționale din orașul vechi.",
+        "en": "Your day begins in the picturesque Römerhofgasse, followed by exploring the historic churches and fountains in the city center. At midday, you'll ascend the imposing Kufstein Fortress, perched high above the city, offering expansive views of the Inn Valley. The afternoon is reserved for a relaxing stroll along the Inn Promenade before you visit the world-famous Riedel Glass Manufactory to witness the art of glassblowing. In the evening, enjoy Tyrolean specialties in one of the old town's traditional inns."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "Herzhaftes Pfannengericht, oft im Auracher Löchl serviert."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Süßer, zerrissener Pfannkuchen, ein Klassiker."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "In Brühe oder mit Salat servierte Käseknödel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tiroli gröstl",
+            "tip": "Kiadós serpenyős étel, gyakran az Auracher Löchl-ben."
+          },
+          {
+            "name": "Császármorzsa",
+            "tip": "Édes, tépett palacsinta, egy klasszikus."
+          },
+          {
+            "name": "Sajtgombóc (Kaspressknödel)",
+            "tip": "Sajtos gombóc levesben vagy salátával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "Mâncare consistentă la tigaie, adesea servită la Auracher Löchl."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Clătită dulce, fărâmițată, un desert clasic."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Găluște cu brânză servite în supă sau cu salată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tyrolean Gröstl",
+            "tip": "Hearty pan-fried dish, often found at Auracher Löchl."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Sweet, shredded pancake, a classic dessert."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Cheese dumplings served in broth or with a salad."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Eine grüne Oase der Ruhe nahe dem Zentrum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Inns",
+            "tip": "Setzen Sie sich auf eine Bank und beobachten Sie den Fluss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Festungsberg am Abend",
+            "tip": "Nach Schließung der Festung ein ruhiger Ort mit Blick auf die Lichter der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park",
+            "tip": "A nyugalom zöld oázisa a központ közelében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inn folyó partja",
+            "tip": "Üljön le egy padra, és nézze a folyót.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Várhegy este",
+            "tip": "A vár bezárása után csendes hely, kilátással a város fényeire.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului",
+            "tip": "O oază de liniște verde, aproape de centru.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul râului Inn",
+            "tip": "Stați pe o bancă și priviți râul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul fortăreței seara",
+            "tip": "După închiderea fortăreței, este un loc liniștit cu vedere la luminile orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "A green oasis of calm near the center.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Inn River",
+            "tip": "Sit on a bench and watch the river flow.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fortress Hill in the evening",
+            "tip": "After the fortress closes, a quiet spot overlooking the city lights.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Riedel Glas Shop",
+            "tip": "Weltberühmte Weingläser und Dekanter."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Lokale Produkte und Spezialitäten am Unteren Stadtplatz (freitags)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Riedel üvegbolt",
+            "tip": "Világhírű borospoharak és dekanterek."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Helyi termékek és specialitások az Alsó Városi téren (péntekenként)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Riedel Glas",
+            "tip": "Pahare de vin și decantoare de renume mondial."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse locale și specialități la Unterer Stadtplatz (vinerea)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Riedel Glass Shop",
+            "tip": "World-famous wine glasses and decanters."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Local products and specialties at Unterer Stadtplatz (on Fridays)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Der Aufstieg zur Festung ist steil; der Panoramalift ist eine gute Alternative.",
+          "Prüfen Sie die Öffnungszeiten der Riedel Manufaktur, besonders für Vorführungen.",
+          "Viele Geschäfte schließen am frühen Samstagnachmittag und sind sonntags geschlossen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "Az erődhöz vezető út meredek; a panorámalift jó alternatíva.",
+          "Ellenőrizze a Riedel gyár nyitvatartási idejét, különösen a bemutatók miatt.",
+          "Sok üzlet bezár kora szombat délután és vasárnap zárva tart."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Urcușul spre fortăreață este abrupt; liftul panoramic este o alternativă bună.",
+          "Verificați programul de funcționare al fabricii Riedel, în special pentru demonstrații.",
+          "Multe magazine se închid sâmbăta după-amiaza devreme și sunt închise duminica."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "The climb to the fortress is steep; the panoramic lift is a good alternative.",
+          "Check the opening hours for the Riedel Manufactory, especially for demonstrations.",
+          "Many shops close early on Saturday afternoon and are closed on Sundays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Inn-Promenade",
+            "hu": "Inn-sétány",
+            "ro": "Promenada Inn",
+            "en": "Inn Promenade"
+          },
+          "coords": [
+            12.164,
+            47.5835
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einer erfrischenden Fahrt entlang des Flusses.",
+            "hu": "Kezdje a napot egy frissítő tekeréssel a folyó mentén!",
+            "ro": "Începeți ziua cu o plimbare revigorantă de-a lungul râului.",
+            "en": "Start your day with a refreshing ride along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Römerhofgasse & Altstadt",
+            "hu": "Römerhofgasse és Óváros",
+            "ro": "Römerhofgasse & Centrul Vechi",
+            "en": "Römerhofgasse & Old Town"
+          },
+          "coords": [
+            12.168,
+            47.583
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die Gassen zu Fuß.",
+            "hu": "Zárja le a biciklit és fedezze fel a sikátorokat gyalog.",
+            "ro": "Încuiați bicicleta și explorați aleile pe jos.",
+            "en": "Lock up your bike and explore the alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Kufstein",
+            "hu": "Kufsteini erőd",
+            "ro": "Fortăreața Kufstein",
+            "en": "Kufstein Fortress"
+          },
+          "coords": [
+            12.1695,
+            47.5845
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:06",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Radweg führt nicht bis ganz nach oben, stellen Sie sich auf einen kurzen Spaziergang ein.",
+            "hu": "A kerékpárút nem visz fel teljesen, készüljön egy rövid sétára.",
+            "ro": "Pista de biciclete nu urcă până sus; fiți pregătit pentru o scurtă plimbare.",
+            "en": "The bike path doesn't go all the way up; be prepared for a short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în Centrul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            12.1675,
+            47.5838
+          ],
+          "category": "gastro",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Viele Restaurants bieten Mittagsmenüs an.",
+            "hu": "Sok étterem kínál ebédmenüt.",
+            "ro": "Multe restaurante oferă meniuri de prânz.",
+            "en": "Many restaurants offer lunch menus."
+          }
+        },
+        {
+          "name": {
+            "de": "Riedel Glas Manufaktur",
+            "hu": "Riedel üveggyár",
+            "ro": "Fabrica de sticlă Riedel",
+            "en": "Riedel Glass Manufactory"
+          },
+          "coords": [
+            12.17,
+            47.579
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Planen Sie Zeit für den Einkauf im Outlet-Shop ein.",
+            "hu": "Tervezzen időt a vásárlásra az outlet boltban.",
+            "ro": "Planificați timp pentru cumpărături la magazinul outlet.",
+            "en": "Plan some time for shopping at the outlet store."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Kufstein",
+            "hu": "Kufsteini városi park",
+            "ro": "Parcul orașului Kufstein",
+            "en": "Kufstein City Park"
+          },
+          "coords": [
+            12.1725,
+            47.5815
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:07",
+          "stay_min": 38,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss des Tages im Grünen.",
+            "hu": "Egy pihentető befejezés a napnak a zöldben.",
+            "ro": "O încheiere relaxantă a zilei în parc.",
+            "en": "A relaxing end to the day in the green."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich am Morgen auf den Sattel für eine Fahrt entlang der Inn-Promenade. Danach stellen Sie Ihr Fahrrad ab, um die engen Gassen der Altstadt zu Fuß zu erkunden. Zu Mittag erwartet Sie die majestätische Festung Kufstein. Nach dem Mittagessen führt Sie eine angenehme Radtour zur weltberühmten Riedel Glasmanufaktur. Der Tag klingt mit einer entspannten Pause im Stadtpark aus, wo Sie die gesammelten Eindrücke Revue passieren lassen können.",
+        "hu": "Reggel pattanjon nyeregbe egy tekeréshez az Inn-sétányon. Utána tegye le a biciklit, hogy gyalog fedezze fel az óváros szűk sikátorait. Délben a fenséges Kufsteini erőd várja. Ebéd után egy kellemes kerékpártúra vezet a világhírű Riedel üveggyárhoz. A nap a városi parkban tett pihentető szünettel zárul, ahol felidézheti a gyűjtött élményeket.",
+        "ro": "Dimineața, urcați-vă pe bicicletă pentru o plimbare de-a lungul promenadei Inn. Apoi, lăsați bicicleta pentru a explora pe jos străduțele înguste ale orașului vechi. La prânz, vă așteaptă majestuoasa Fortăreață Kufstein. După masă, o plimbare plăcută cu bicicleta vă duce la renumita fabrică de sticlă Riedel. Ziua se încheie cu o pauză relaxantă în parcul orașului, unde puteți rememora impresiile adunate.",
+        "en": "In the morning, hop on your bike for a ride along the Inn Promenade. Afterwards, park your bike to explore the narrow alleys of the old town on foot. At noon, the majestic Kufstein Fortress awaits. After lunch, a pleasant bike ride takes you to the world-famous Riedel Glass Manufactory. The day concludes with a relaxing break in the city park, where you can reflect on your experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Purlepaus",
+            "tip": "Modernes Café mit gutem Kaffee und Snacks."
+          },
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "Ein Muss nach einer Radtour, um die Energiereserven aufzufüllen."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Klassischer österreichischer Genuss in einem der Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Purlepaus",
+            "tip": "Modern kávézó jó kávéval és harapnivalókkal."
+          },
+          {
+            "name": "Tiroli gröstl",
+            "tip": "Kötelező egy biciklitúra után az energiaraktárak feltöltéséhez."
+          },
+          {
+            "name": "Almásrétes",
+            "tip": "Klasszikus osztrák finomság az egyik kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Purlepaus",
+            "tip": "Cafenea modernă cu cafea bună și gustări."
+          },
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "O necesitate după un tur cu bicicleta pentru a reface rezervele de energie."
+          },
+          {
+            "name": "Ștrudel cu mere",
+            "tip": "O delicatesă austriacă clasică la una dintre cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Purlepaus",
+            "tip": "Modern café with good coffee and snacks."
+          },
+          {
+            "name": "Tyrolean Gröstl",
+            "tip": "A must-have after a bike tour to replenish energy."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "Classic Austrian treat at one of the cafés."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kneipp-Anlage im Stadtpark",
+            "tip": "Erfrischen Sie Ihre Füße im kalten Wasser.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Blick von der Festungsmauer",
+            "tip": "Finden Sie eine ruhige Ecke und genießen Sie die Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Radweg am Grünen Inn",
+            "tip": "Etwas außerhalb der Stadt finden Sie ruhige Abschnitte.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kneipp-létesítmény a városi parkban",
+            "tip": "Frissítse fel a lábát a hideg vízben.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Kilátás a várfalról",
+            "tip": "Keressen egy csendes sarkot, és élvezze a kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kerékpárút a zöld Inn mentén",
+            "tip": "Kicsit a városon kívül csendes szakaszokat talál.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Instalația Kneipp din parcul orașului",
+            "tip": "Răcoriți-vă picioarele în apa rece.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Vedere de pe zidurile fortăreței",
+            "tip": "Găsiți un colț liniștit și bucurați-vă de priveliște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista de biciclete de-a lungul râului Inn",
+            "tip": "Puțin în afara orașului veți găsi secțiuni liniștite.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kneipp facility in the city park",
+            "tip": "Refresh your feet in the cold water.",
+            "emoji": "💧"
+          },
+          {
+            "name": "View from the fortress wall",
+            "tip": "Find a quiet corner and enjoy the view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bike path along the green Inn river",
+            "tip": "Just outside the city you'll find quiet sections.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Radgeschäfte",
+            "tip": "Für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Intersport Kufstein",
+            "tip": "Große Auswahl an Sportbekleidung und Ausrüstung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Intersport Kufstein",
+            "tip": "Sportruházat és felszerelések nagy választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Intersport Kufstein",
+            "tip": "Selecție largă de îmbrăcăminte și echipamente sportive."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bike shops",
+            "tip": "For accessories or quick repairs."
+          },
+          {
+            "name": "Intersport Kufstein",
+            "tip": "Large selection of sportswear and equipment."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Inn-Radweg ist gut ausgebaut und flach.",
+          "Achten Sie in der Altstadt auf Fußgänger.",
+          "Ein Fahrradschloss ist unerlässlich.",
+          "Nehmen Sie ausreichend Wasser mit, besonders an warmen Tagen."
+        ],
+        "hu": [
+          "Az Inn menti kerékpárút jól kiépített és sík.",
+          "Az óvárosban figyeljen a gyalogosokra.",
+          "A kerékpárzár elengedhetetlen.",
+          "Vigyen magával elegendő vizet, különösen meleg napokon."
+        ],
+        "ro": [
+          "Pista de biciclete de-a lungul Inn-ului este bine dezvoltată și plată.",
+          "Fiți atenți la pietoni în centrul vechi.",
+          "Un antifurt pentru bicicletă este esențial.",
+          "Luați suficientă apă, mai ales în zilele călduroase."
+        ],
+        "en": [
+          "The Inn Cycle Path is well-maintained and flat.",
+          "Be mindful of pedestrians in the old town.",
+          "A bike lock is essential.",
+          "Bring enough water, especially on warm days."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare centrală",
+            "en": "Central Car Park"
+          },
+          "coords": [
+            12.1705,
+            47.5825
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel az első látnivalócsoportot gyalog.",
+            "ro": "Parcați aici și explorați primul grup de atracții pe jos.",
+            "en": "Park here and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Römerhofgasse & St. Vitus",
+            "hu": "Römerhofgasse és Szent Vitus",
+            "ro": "Römerhofgasse și Sf. Vitus",
+            "en": "Römerhofgasse & St. Vitus"
+          },
+          "coords": [
+            12.1684,
+            47.5831
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Gassen und besuchen Sie die Kirche.",
+            "hu": "Sétáljon végig az utcákon és látogassa meg a templomot.",
+            "ro": "Plimbați-vă pe alei și vizitați biserica.",
+            "en": "Stroll through the alleys and visit the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Kufstein",
+            "hu": "Kufsteini erőd",
+            "ro": "Fortăreața Kufstein",
+            "en": "Kufstein Fortress"
+          },
+          "coords": [
+            12.1695,
+            47.5845
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für das Museum und die Aussicht ein.",
+            "hu": "Tervezzen elég időt a múzeumra és a kilátásra.",
+            "ro": "Planificați suficient timp pentru muzeu și priveliște.",
+            "en": "Plan enough time for the museum and the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Auracher Löchl",
+            "hu": "Ebéd az Auracher Löchl-ben",
+            "ro": "Prânz la Auracher Löchl",
+            "en": "Lunch at Auracher Löchl"
+          },
+          "coords": [
+            12.1665,
+            47.584
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Traditionelle Küche in historischem Ambiente.",
+            "hu": "Hagyományos konyha történelmi környezetben.",
+            "ro": "Bucătărie tradițională într-un cadru istoric.",
+            "en": "Traditional cuisine in a historic setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Riedel Glas Manufaktur",
+            "hu": "Riedel üveggyár",
+            "ro": "Fabrica de sticlă Riedel",
+            "en": "Riedel Glass Manufactory"
+          },
+          "coords": [
+            12.17,
+            47.579
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Parkplätze sind vorhanden.",
+            "hu": "Vezessen a második látnivalócsoporthoz. Parkolóhelyek rendelkezésre állnak.",
+            "ro": "Conduceți la al doilea grup de atracții. Există locuri de parcare.",
+            "en": "Drive to the second cluster. Parking is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Inn",
+            "hu": "Séta az Inn partján",
+            "ro": "Plimbare pe malul Inn-ului",
+            "en": "Stroll along the Inn"
+          },
+          "coords": [
+            12.164,
+            47.5835
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss, bevor Sie die Stadt verlassen.",
+            "hu": "Egy pihentető befejezés, mielőtt elhagyja a várost.",
+            "ro": "O încheiere relaxantă înainte de a părăsi orașul.",
+            "en": "A relaxing end before you leave the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Zentrum parken und den ersten Cluster – die historische Altstadt mit der Römerhofgasse und der St. Vitus Kirche – zu Fuß erkunden. Anschließend führt ein kurzer Spaziergang zur majestätischen Festung. Nach einem ausgiebigen Mittagessen in einem traditionellen Gasthaus holen Sie Ihr Auto und fahren zum zweiten Cluster, der weltberühmten Riedel Glasmanufaktur. Der Tag endet mit einer kurzen Fahrt zur Inn-Promenade für einen letzten Blick auf den Fluss, bevor Sie Ihre Heimreise antreten.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját a központban, és gyalog fedezi fel az első látnivalócsoportot – a történelmi óvárost a Römerhofgasse-val és a Szent Vitus-templommal. Ezután egy rövid séta vezet a fenséges erődhöz. Egy kiadós ebéd után egy hagyományos vendéglőben autóba ül, és a második látnivalócsoporthoz, a világhírű Riedel üveggyárhoz hajt. A nap egy rövid autózással zárul az Inn-sétányhoz, hogy egy utolsó pillantást vessen a folyóra, mielőtt hazaindul.",
+        "ro": "Începeți ziua parcând mașina în centru și explorând pe jos primul grup de atracții – orașul vechi istoric cu Römerhofgasse și Biserica Sf. Vitus. Apoi, o scurtă plimbare vă duce la fortăreața maiestuoasă. După un prânz copios la un han tradițional, luați mașina și conduceți la al doilea grup, faimoasa fabrică de sticlă Riedel. Ziua se încheie cu o scurtă călătorie cu mașina până la promenada Inn pentru o ultimă privire asupra râului înainte de a pleca.",
+        "en": "Start your day by parking your car in the center and exploring the first cluster on foot – the historic old town with Römerhofgasse and St. Vitus Church. Afterwards, a short walk leads you to the majestic fortress. After a hearty lunch at a traditional inn, you get your car and drive to the second cluster, the world-famous Riedel Glass Manufactory. The day ends with a short drive to the Inn Promenade for a final look at the river before you head home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof Goldener Löwe",
+            "tip": "Traditionelles Restaurant mit einem schönen Gastgarten."
+          },
+          {
+            "name": "Auracher Löchl",
+            "tip": "Berühmt für Steaks und die kleinste Brücke der Welt."
+          },
+          {
+            "name": "Konditorei Thaler",
+            "tip": "Für Kaffee und Kuchen am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof Goldener Löwe",
+            "tip": "Hagyományos étterem szép kerthelyiséggel."
+          },
+          {
+            "name": "Auracher Löchl",
+            "tip": "Híres a steakjeiről és a világ legkisebb hídjáról."
+          },
+          {
+            "name": "Konditorei Thaler",
+            "tip": "Délutáni kávéhoz és süteményhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthof Goldener Löwe",
+            "tip": "Restaurant tradițional cu o grădină de vară frumoasă."
+          },
+          {
+            "name": "Auracher Löchl",
+            "tip": "Faimos pentru fripturile sale și cel mai mic pod din lume."
+          },
+          {
+            "name": "Cofetăria Thaler",
+            "tip": "Pentru cafea și prăjituri după-amiaza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof Goldener Löwe",
+            "tip": "Traditional restaurant with a beautiful garden."
+          },
+          {
+            "name": "Auracher Löchl",
+            "tip": "Famous for its steaks and the world's smallest bridge."
+          },
+          {
+            "name": "Konditorei Thaler",
+            "tip": "For coffee and cake in the afternoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Thierberg mit Kapelle",
+            "tip": "Kurze Fahrt zu einem Hügel mit toller Aussicht und Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hechtsee",
+            "tip": "Ein nahegelegener Badesee, ideal für eine längere Pause.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang am Weißachendamm",
+            "tip": "Ruhiger als die Inn-Promenade.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Thierberg a kápolnával",
+            "tip": "Rövid autóút egy dombhoz, nagyszerű kilátással és csenddel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hechtsee",
+            "tip": "Közeli tó, ideális egy hosszabb szünetre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Weißachendamm-on",
+            "tip": "Csendesebb, mint az Inn-sétány.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Thierberg cu capelă",
+            "tip": "O scurtă călătorie cu mașina până la un deal cu o priveliște superbă și liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lacul Hechtsee",
+            "tip": "Un lac din apropiere, ideal pentru o pauză mai lungă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare pe digul Weißachendamm",
+            "tip": "Mai liniștit decât promenada Inn.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Thierberg with its chapel",
+            "tip": "A short drive to a hill with a great view and tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lake Hechtsee",
+            "tip": "A nearby swimming lake, ideal for a longer break.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk on the Weißachendamm",
+            "tip": "Quieter than the Inn Promenade.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum Inntalcenter",
+            "tip": "Am Stadtrand für eine größere Auswahl an Geschäften."
+          },
+          {
+            "name": "Speck-Stube",
+            "tip": "Kaufen Sie authentischen Tiroler Speck als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Inntalcenter bevásárlóközpont",
+            "tip": "A város szélén, üzletek szélesebb választékáért."
+          },
+          {
+            "name": "Speck-Stube",
+            "tip": "Vásároljon autentikus tiroli szalonnát ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Inntalcenter",
+            "tip": "La marginea orașului pentru o selecție mai largă de magazine."
+          },
+          {
+            "name": "Speck-Stube",
+            "tip": "Cumpărați șuncă tiroleză autentică ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Inntalcenter Shopping Mall",
+            "tip": "On the outskirts of town for a wider selection of shops."
+          },
+          {
+            "name": "Speck-Stube (Bacon Shop)",
+            "tip": "Buy authentic Tyrolean bacon as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren; einige Parkhäuser bieten Tagestarife an.",
+          "Die Straßen in der Altstadt sind sehr eng und meist Fußgängerzonen.",
+          "Planen Sie etwas Pufferzeit für den Verkehr ein, besonders in der Hochsaison.",
+          "Außerhalb des Zentrums ist das Parken oft einfacher und günstiger."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat; néhány parkolóház napijegyet is kínál.",
+          "Az óváros utcái nagyon szűkek és többnyire sétálóutcák.",
+          "Tervezzen némi pufferidőt a forgalom miatt, különösen főszezonban.",
+          "A központon kívül a parkolás gyakran egyszerűbb és olcsóbb."
+        ],
+        "ro": [
+          "Verificați taxele de parcare; unele parcări oferă tarife zilnice.",
+          "Străzile din centrul vechi sunt foarte înguste și majoritatea sunt zone pietonale.",
+          "Planificați timp suplimentar pentru trafic, în special în sezonul de vârf.",
+          "Parcarea este adesea mai ușoară și mai ieftină în afara centrului."
+        ],
+        "en": [
+          "Check parking fees; some parking garages offer daily rates.",
+          "The streets in the old town are very narrow and mostly pedestrian zones.",
+          "Allow some buffer time for traffic, especially during high season.",
+          "Parking is often easier and cheaper outside the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Kufstein",
+            "hu": "Érkezés a kufsteini pályaudvarra",
+            "ro": "Sosire la gara Kufstein",
+            "en": "Arrival at Kufstein Station"
+          },
+          "coords": [
+            12.1622,
+            47.5833
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus der Linie 1 oder 3 ins Zentrum (Haltestelle Postamt).",
+            "hu": "Menjen az 1-es vagy 3-as busszal a központba (Postamt megálló).",
+            "ro": "Luați autobuzul linia 1 sau 3 spre centru (stația Postamt).",
+            "en": "Take bus line 1 or 3 to the city center (Postamt stop)."
+          }
+        },
+        {
+          "name": {
+            "de": "Römerhofgasse",
+            "hu": "Römerhofgasse",
+            "ro": "Aleea Römerhofgasse",
+            "en": "Römerhofgasse"
+          },
+          "coords": [
+            12.168,
+            47.583
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Startpunkt Ihres Rundgangs durch den ersten Cluster.",
+            "hu": "Az első látnivalócsoport bejárásának kiindulópontja.",
+            "ro": "Punctul de plecare al turului dumneavoastră prin primul grup de atracții.",
+            "en": "The starting point of your tour through the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Vitus",
+            "hu": "Szent Vitus plébániatemplom",
+            "ro": "Biserica parohială Sf. Vitus",
+            "en": "Parish Church of St. Vitus"
+          },
+          "coords": [
+            12.1688,
+            47.5833
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Römerhofgasse.",
+            "hu": "Rövid séta a Römerhofgasse-tól.",
+            "ro": "O scurtă plimbare de la Römerhofgasse.",
+            "en": "A short walk from Römerhofgasse."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Kufstein",
+            "hu": "Kufsteini erőd",
+            "ro": "Fortăreața Kufstein",
+            "en": "Kufstein Fortress"
+          },
+          "coords": [
+            12.1695,
+            47.5845
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Fußweg führt steil bergauf; alternativ den Lift nehmen.",
+            "hu": "A gyalogút meredeken vezet felfelé; alternatívaként használja a liftet.",
+            "ro": "Calea pietonală este abruptă; alternativ, luați liftul.",
+            "en": "The footpath is steep uphill; alternatively, take the lift."
+          }
+        },
+        {
+          "name": {
+            "de": "Riedel Glas Manufaktur",
+            "hu": "Riedel üveggyár",
+            "ro": "Fabrica de sticlă Riedel",
+            "en": "Riedel Glass Manufactory"
+          },
+          "coords": [
+            12.17,
+            47.579
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus vom Zentrum (Postamt) Richtung Süden.",
+            "hu": "Menjen busszal a központból (Postamt) dél felé.",
+            "ro": "Luați autobuzul din centru (Postamt) spre sud.",
+            "en": "Take the bus from the center (Postamt) heading south."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausklang im Stadtpark",
+            "hu": "Levezetés a városi parkban",
+            "ro": "Relaxare în parcul orașului",
+            "en": "Winding down in the City Park"
+          },
+          "coords": [
+            12.1725,
+            47.5815
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Glasmanufaktur.",
+            "hu": "Rövid séta az üveggyártól.",
+            "ro": "O scurtă plimbare de la fabrica de sticlă.",
+            "en": "A short walk from the glass manufactory."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach Ihrer Ankunft am Bahnhof bringt Sie ein kurzer Bus-Trip ins Herz der Altstadt, dem ersten Cluster. Erkunden Sie die Römerhofgasse und die St. Vitus Kirche zu Fuß, bevor Sie zur Festung aufsteigen. Am Mittag bringt Sie ein weiterer Bus zum südlich gelegenen zweiten Cluster, der Riedel Glasmanufaktur. Nach der Besichtigung können Sie im nahegelegenen Stadtpark entspannen, bevor Sie mit dem Bus zurück zum Bahnhof fahren. Dieses Layout minimiert die Laufwege und maximiert das Erlebnis.",
+        "hu": "A pályaudvarra érkezés után egy rövid buszút viszi az óváros szívébe, az első látnivalócsoporthoz. Fedezze fel gyalog a Römerhofgasse-t és a Szent Vitus-templomot, mielőtt felmenne az erődbe. Délben egy másik busz viszi a délebbre fekvő második látnivalócsoporthoz, a Riedel üveggyárhoz. A látogatás után a közeli városi parkban pihenhet, mielőtt busszal visszamenne a pályaudvarra. Ez az elrendezés minimalizálja a gyaloglást és maximalizálja az élményt.",
+        "ro": "După sosirea la gară, o scurtă călătorie cu autobuzul vă duce în inima orașului vechi, primul grup de atracții. Explorați pe jos Römerhofgasse și Biserica Sf. Vitus înainte de a urca la fortăreață. La prânz, un alt autobuz vă duce la al doilea grup, situat mai la sud, la fabrica de sticlă Riedel. După vizită, vă puteți relaxa în parcul orașului din apropiere înainte de a lua autobuzul înapoi la gară. Acest aranjament minimizează mersul pe jos și maximizează experiența.",
+        "en": "After arriving at the station, a short bus trip takes you to the heart of the old town, the first cluster. Explore Römerhofgasse and St. Vitus Church on foot before ascending to the fortress. At midday, another bus takes you to the southern second cluster, the Riedel Glass Manufactory. After the visit, you can relax in the nearby city park before taking the bus back to the station. This layout minimizes walking distances and maximizes the experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Backstage",
+            "tip": "Beliebt bei Einheimischen, in der Nähe des Bahnhofs."
+          },
+          {
+            "name": "Vitus & Urban",
+            "tip": "Modernes Lokal im Zentrum für Mittagessen."
+          },
+          {
+            "name": "Eine Leberkässemmel",
+            "tip": "Schneller und günstiger Snack von einer Metzgerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Backstage",
+            "tip": "Népszerű a helyiek körében, a pályaudvar közelében."
+          },
+          {
+            "name": "Vitus & Urban",
+            "tip": "Modern hely a központban ebédre."
+          },
+          {
+            "name": "Leberkässemmel",
+            "tip": "Gyors és olcsó harapnivaló egy hentestől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Backstage",
+            "tip": "Popular printre localnici, aproape de gară."
+          },
+          {
+            "name": "Vitus & Urban",
+            "tip": "Local modern în centru pentru prânz."
+          },
+          {
+            "name": "Un Leberkässemmel",
+            "tip": "O gustare rapidă și ieftină de la o măcelărie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Backstage",
+            "tip": "Popular with locals, near the train station."
+          },
+          {
+            "name": "Vitus & Urban",
+            "tip": "Modern place in the center for lunch."
+          },
+          {
+            "name": "A Leberkässemmel",
+            "tip": "A quick and cheap snack from a butcher shop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof hinter der St. Vitus Kirche",
+            "tip": "Ein überraschend ruhiger und historischer Ort.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Leseecke in der Stadtbibliothek",
+            "tip": "Für eine Pause vom Sightseeing.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Die obersten Terrassen der Festung",
+            "tip": "Weniger überlaufen als die Hauptaussichtspunkte.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető a Szent Vitus-templom mögött",
+            "tip": "Meglepően csendes és történelmi hely.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Olvasósarok a városi könyvtárban",
+            "tip": "Egy kis szünet a városnézésben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az erőd legfelső teraszai",
+            "tip": "Kevésbé zsúfolt, mint a fő kilátópontok.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul din spatele Bisericii Sf. Vitus",
+            "tip": "Un loc surprinzător de liniștit și istoric.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Colțul de lectură din biblioteca orașului",
+            "tip": "Pentru o pauză de la vizitarea obiectivelor turistice.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Terasele superioare ale fortăreței",
+            "tip": "Mai puțin aglomerate decât principalele puncte de belvedere.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery behind St. Vitus Church",
+            "tip": "A surprisingly quiet and historic place.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Reading corner in the city library",
+            "tip": "For a break from sightseeing.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The uppermost terraces of the fortress",
+            "tip": "Less crowded than the main viewpoints.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kufstein Galerien",
+            "tip": "Einkaufszentrum direkt im Zentrum."
+          },
+          {
+            "name": "Souvenirshops rund um die Festung",
+            "tip": "Für klassische Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kufstein Galerien",
+            "tip": "Bevásárlóközpont közvetlenül a központban."
+          },
+          {
+            "name": "Ajándékboltok az erőd körül",
+            "tip": "Klasszikus emléktárgyakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kufstein Galerien",
+            "tip": "Centru comercial chiar în centru."
+          },
+          {
+            "name": "Magazine de suveniruri în jurul fortăreței",
+            "tip": "Pentru suveniruri clasice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kufstein Galerien",
+            "tip": "Shopping mall right in the center."
+          },
+          {
+            "name": "Souvenir shops around the fortress",
+            "tip": "For classic mementos."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eine Tageskarte für den Bus ist oft günstiger als Einzelfahrscheine.",
+          "Die Busfahrpläne sind am Wochenende und abends ausgedünnt.",
+          "Fahrkarten können direkt beim Busfahrer oder über eine App gekauft werden.",
+          "Merken Sie sich die Nummer der letzten Buslinie zurück zum Bahnhof."
+        ],
+        "hu": [
+          "A buszra szóló napijegy gyakran olcsóbb, mint a vonaljegyek.",
+          "A buszmenetrend hétvégén és este ritkább.",
+          "Jegyeket közvetlenül a buszsofőrnél vagy egy alkalmazáson keresztül lehet vásárolni.",
+          "Jegyezze meg a pályaudvarra visszavezető utolsó buszjárat számát."
+        ],
+        "ro": [
+          "Un bilet de o zi pentru autobuz este adesea mai ieftin decât biletele individuale.",
+          "Programul autobuzelor este mai redus în weekend și seara.",
+          "Biletele pot fi cumpărate direct de la șoferul autobuzului sau printr-o aplicație.",
+          "Rețineți numărul ultimei linii de autobuz înapoi la gară."
+        ],
+        "en": [
+          "A day ticket for the bus is often cheaper than single tickets.",
+          "Bus schedules are less frequent on weekends and in the evenings.",
+          "Tickets can be purchased directly from the bus driver or via an app.",
+          "Remember the number of the last bus line back to the station."
+        ]
+      }
+    }
+  }
+}

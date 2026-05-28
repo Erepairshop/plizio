@@ -1,0 +1,1432 @@
+{
+  "city_id": "finland-seinajoki-cities-v2",
+  "anchor": {
+    "name": "Seinäjoki",
+    "coords": [
+      62.7875,
+      22.8403
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aalto-Zentrum",
+            "hu": "Aalto Központ",
+            "ro": "Centrul Aalto",
+            "en": "Aalto Centre"
+          },
+          "coords": [
+            22.8403,
+            62.7875
+          ],
+          "category": "cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das Herz von Seinäjoki. Nehmen Sie sich Zeit, die einzigartige Architektur von Alvar Aalto zu bewundern.",
+            "hu": "Seinäjoki szíve. Szánjon időt Alvar Aalto egyedi építészetének megcsodálására.",
+            "ro": "Inima orașului Seinäjoki. Acordați-vă timp pentru a admira arhitectura unică a lui Alvar Aalto.",
+            "en": "The heart of Seinäjoki. Take your time to admire the unique architecture by Alvar Aalto."
+          }
+        },
+        {
+          "name": {
+            "de": "Lakeuden Risti Kirche",
+            "hu": "Lakeuden Risti templom",
+            "ro": "Biserica Lakeuden Risti",
+            "en": "Lakeuden Risti Church"
+          },
+          "coords": [
+            22.841,
+            62.7865
+          ],
+          "category": "churches",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm für eine fantastische Aussicht über die flache Landschaft von Ostbottnien.",
+            "hu": "Menjen fel a toronyba a fantasztikus kilátásért a lapos Ostrobothniai tájra.",
+            "ro": "Urcați în turn pentru o priveliște fantastică asupra peisajului plat din Ostrobothnia.",
+            "en": "Climb the tower for a fantastic view over the flat Ostrobothnian landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater Seinäjoki",
+            "hu": "Seinäjoki Városi Színház",
+            "ro": "Teatrul Municipal Seinäjoki",
+            "en": "Seinäjoki City Theatre"
+          },
+          "coords": [
+            22.8395,
+            62.7885
+          ],
+          "category": "theatres",
+          "arrive_at": "11:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Auch wenn Sie keine Vorstellung besuchen, ist das Gebäude selbst ein Meisterwerk Aaltos.",
+            "hu": "Még ha nem is néz meg egy előadást, maga az épület Aalto mesterműve.",
+            "ro": "Chiar dacă nu participați la un spectacol, clădirea în sine este o capodoperă a lui Aalto.",
+            "en": "Even if you don't catch a show, the building itself is a masterpiece by Aalto."
+          }
+        },
+        {
+          "name": {
+            "de": "Suojeluskunta- ja lottamuseo",
+            "hu": "Civil Gárda és Lotta Svärd Múzeum",
+            "ro": "Muzeul Gărzii Civile și Lotta Svärd",
+            "en": "Civil Guard and Lotta Svärd Museum"
+          },
+          "coords": [
+            22.845,
+            62.79
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein tiefer Einblick in die lokale Geschichte und die Rolle der Bürgerorganisationen in Finnland.",
+            "hu": "Mély betekintés a helyi történelembe és a polgári szervezetek szerepébe Finnországban.",
+            "ro": "O incursiune profundă în istoria locală și rolul organizațiilor civile în Finlanda.",
+            "en": "A deep dive into local history and the role of civic organizations in Finland."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            22.842,
+            62.788
+          ],
+          "category": "gastro",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Restaurant für ein authentisches finnisches Mittagessen.",
+            "hu": "Próbáljon ki egy helyi éttermet egy autentikus finn ebédhez.",
+            "ro": "Încercați un restaurant local pentru un prânz finlandez autentic.",
+            "en": "Try a local restaurant for an authentic Finnish lunch experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Mallaskosken Brauerei",
+            "hu": "Mallaskoski Sörfőzde",
+            "ro": "Berăria Mallaskoski",
+            "en": "Mallaskoski Brewery"
+          },
+          "coords": [
+            22.83,
+            62.789
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss des Tages. Genießen Sie ein Craft-Bier am Flussufer.",
+            "hu": "A nap tökéletes befejezése. Élvezzen egy kézműves sört a folyóparton.",
+            "ro": "Finalul perfect al zilei. Savurați o bere artizanală pe malul râului.",
+            "en": "The perfect end to the day. Enjoy a craft beer by the riverside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der finnischen Moderne, dem Aalto-Zentrum, wo Architektur und Kultur verschmelzen. Der Morgen ist dem Genie von Alvar Aalto gewidmet, mit einem Besuch der ikonischen Lakeuden Risti Kirche. Mittags tauchen Sie in die finnische Geschichte im Suojeluskunta- ja lottamuseo ein, nach einem kurzen Halt am Stadttheater. Am Nachmittag spazieren Sie zum Flussufer, um die entspannte Atmosphäre und ein lokal gebrautes Bier in der Mallaskosken Brauerei zu genießen. Der Abend klingt bei einem gemütlichen Spaziergang entlang des Flusses aus, der die architektonischen Eindrücke des Tages widerspiegelt.",
+        "hu": "Kezdje a napot a finn modernizmus szívében, az Aalto Központban, ahol az építészet és a kultúra találkozik. A délelőttöt Alvar Aalto zsenijének szenteljük, meglátogatva az ikonikus Lakeuden Risti templomot. Délben merüljön el a finn történelemben a Suojeluskunta- ja lottamuseo-ban, egy rövid megálló után a városi színháznál. Délután sétáljon le a folyóparthoz, hogy élvezze a laza hangulatot és egy helyi sört a Mallaskoski Sörfőzdében. Az estét egy kellemes folyóparti sétával zárjuk, amely visszatükrözi a nap építészeti benyomásait.",
+        "ro": "Începeți ziua în inima modernismului finlandez, Centrul Aalto, unde arhitectura și cultura se contopesc. Dimineața este dedicată geniului lui Alvar Aalto, cu o vizită la iconica Biserică Lakeuden Risti. La prânz, pătrundeți în istoria finlandeză la Muzeul Gărzii Civile și Lotta Svärd, după o scurtă oprire la Teatrul Municipal. După-amiaza, plimbați-vă pe malul râului pentru a vă bucura de atmosfera relaxată și de o bere locală la Berăria Mallaskoski. Seara se încheie cu o plimbare plăcută de-a lungul râului, reflectând impresiile arhitecturale ale zilei.",
+        "en": "Start your day in the heart of Finnish modernism, the Aalto Centre, where architecture and culture merge. The morning is dedicated to the genius of Alvar Aalto, with a visit to the iconic Lakeuden Risti Church. At noon, delve into Finnish history at the Civil Guard and Lotta Svärd Museum, after a brief stop at the City Theatre. In the afternoon, stroll down to the riverbank to enjoy the relaxed atmosphere and a locally brewed beer at Mallaskoski Brewery. The evening concludes with a pleasant walk along the river, reflecting on the day's architectural impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mallaskosken Panimoravintola",
+            "tip": "Probieren Sie das 'Black IPA'. Dazu passt hervorragend der hauseigene Burger."
+          },
+          {
+            "name": "Ravintola Uppala",
+            "tip": "Ein gehobenes Restaurant in einem alten Herrenhaus, perfekt für ein besonderes Abendessen."
+          },
+          {
+            "name": "Pizzeria Piikki",
+            "tip": "Bekannt für seine köstlichen Pizzen mit lokalen Zutaten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mallaskosken Panimoravintola",
+            "tip": "Kóstolja meg a 'Black IPA'-t. A ház burgerével kiváló."
+          },
+          {
+            "name": "Ravintola Uppala",
+            "tip": "Elegáns étterem egy régi udvarházban, tökéletes egy különleges vacsorához."
+          },
+          {
+            "name": "Pizzeria Piikki",
+            "tip": "Híres a helyi alapanyagokból készült ízletes pizzáiról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mallaskosken Panimoravintola",
+            "tip": "Încercați 'Black IPA'. Se potrivește excelent cu burgerul casei."
+          },
+          {
+            "name": "Ravintola Uppala",
+            "tip": "Un restaurant elegant într-un conac vechi, perfect pentru o cină specială."
+          },
+          {
+            "name": "Pizzeria Piikki",
+            "tip": "Renumită pentru pizzele delicioase cu ingrediente locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mallaskosken Panimoravintola",
+            "tip": "Try the 'Black IPA'. It pairs excellently with the house burger."
+          },
+          {
+            "name": "Ravintola Uppala",
+            "tip": "An upscale restaurant in an old manor house, perfect for a special dinner."
+          },
+          {
+            "name": "Pizzeria Piikki",
+            "tip": "Known for its delicious pizzas with local ingredients."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Törnävä Park",
+            "tip": "Ein ruhiger Spaziergang durch diesen historischen Park ist sehr entspannend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Flussufer des Seinäjoki",
+            "tip": "Finden Sie eine Bank und beobachten Sie das ruhige Wasser.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aalto Bibliothek (Lesesaal)",
+            "tip": "Erleben Sie die Stille in einem architektonischen Meisterwerk.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Törnävä Park",
+            "tip": "Egy csendes séta ebben a történelmi parkban nagyon pihentető.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seinäjoki folyó partja",
+            "tip": "Keressen egy padot, és nézze a csendes vizet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aalto Könyvtár (olvasóterem)",
+            "tip": "Tapasztalja meg a csendet egy építészeti remekműben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Törnävä",
+            "tip": "O plimbare liniștită prin acest parc istoric este foarte relaxantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Seinäjoki",
+            "tip": "Găsiți o bancă și priviți apa liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Biblioteca Aalto (sala de lectură)",
+            "tip": "Experimentați liniștea într-o capodoperă arhitecturală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Törnävä Park",
+            "tip": "A quiet walk through this historic park is very relaxing.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seinäjoki riverside",
+            "tip": "Find a bench and watch the calm water.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aalto Library (reading hall)",
+            "tip": "Experience the silence within an architectural masterpiece.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Taito Shop Seinäjoki",
+            "tip": "Finden Sie authentisches finnisches Handwerk und Design."
+          },
+          {
+            "name": "Lokale Geschäfte in der Kalevankatu",
+            "tip": "Stöbern Sie in den kleinen Boutiquen und Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taito Shop Seinäjoki",
+            "tip": "Találjon autentikus finn kézműves termékeket és dizájnt."
+          },
+          {
+            "name": "Helyi üzletek a Kalevankatu-n",
+            "tip": "Böngésszen a kis butikokban és üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taito Shop Seinäjoki",
+            "tip": "Găsiți artizanat și design finlandez autentic."
+          },
+          {
+            "name": "Magazine locale pe Kalevankatu",
+            "tip": "Răsfoiți micile buticuri și magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taito Shop Seinäjoki",
+            "tip": "Find authentic Finnish handicrafts and design."
+          },
+          {
+            "name": "Local shops on Kalevankatu",
+            "tip": "Browse the small boutiques and shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Alle Hauptsehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Tragen Sie bequeme Schuhe, da Sie viel auf den Beinen sein werden.",
+          "Das Aalto-Zentrum ist ein Komplex aus mehreren Gebäuden – planen Sie genug Zeit ein, um alles zu sehen."
+        ],
+        "hu": [
+          "A központ összes fő látnivalója könnyen elérhető gyalog.",
+          "Viseljen kényelmes cipőt, mert sokat fog talpon lenni.",
+          "Az Aalto Központ több épületből álló komplexum – tervezzen elegendő időt, hogy mindent megnézhessen."
+        ],
+        "ro": [
+          "Toate atracțiile principale din centru sunt ușor accesibile pe jos.",
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Centrul Aalto este un complex de mai multe clădiri - planificați-vă suficient timp pentru a le vedea pe toate."
+        ],
+        "en": [
+          "All the main sights in the center are easily within walking distance.",
+          "Wear comfortable shoes as you'll be on your feet a lot.",
+          "The Aalto Centre is a complex of several buildings – plan enough time to see them all."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aalto-Zentrum",
+            "hu": "Aalto Központ",
+            "ro": "Centrul Aalto",
+            "en": "Aalto Centre"
+          },
+          "coords": [
+            22.8403,
+            62.7875
+          ],
+          "category": "cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour mit einem architektonischen Highlight.",
+            "hu": "Kezdje a kerékpártúrát egy építészeti fényponttal.",
+            "ro": "Începeți turul cu bicicleta cu un punct de atracție arhitectural.",
+            "en": "Start your bike tour with an architectural highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Lakeuden Risti Kirche",
+            "hu": "Lakeuden Risti templom",
+            "ro": "Biserica Lakeuden Risti",
+            "en": "Lakeuden Risti Church"
+          },
+          "coords": [
+            22.841,
+            62.7865
+          ],
+          "category": "churches",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und genießen Sie die Aussicht vom Turm.",
+            "hu": "Zárja le a biciklit, és élvezze a kilátást a toronyból.",
+            "ro": "Legați-vă bicicleta și bucurați-vă de priveliștea din turn.",
+            "en": "Lock up your bike and enjoy the view from the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Törnävän kartano",
+            "hu": "Törnävä udvarház",
+            "ro": "Conacul Törnävä",
+            "en": "Törnävä Manor"
+          },
+          "coords": [
+            22.835,
+            62.765
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour führt Sie zu diesem historischen Herrenhaus und dem umliegenden Park.",
+            "hu": "Egy kellemes kerékpártúra vezet ehhez a történelmi udvarházhoz és a környező parkhoz.",
+            "ro": "O plimbare plăcută cu bicicleta vă duce la acest conac istoric și la parcul înconjurător.",
+            "en": "A pleasant bike ride takes you to this historic manor and its surrounding park."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum Süd-Ostbottnien",
+            "hu": "Dél-Ostrobothniai Regionális Múzeum",
+            "ro": "Muzeul Regional Ostrobothnia de Sud",
+            "en": "South Ostrobothnia Regional Museum"
+          },
+          "coords": [
+            22.8345,
+            62.7655
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Museum liegt direkt neben dem Herrenhaus, also lassen Sie Ihr Fahrrad einfach stehen.",
+            "hu": "A múzeum közvetlenül az udvarház mellett található, így csak hagyja ott a kerékpárját.",
+            "ro": "Muzeul este chiar lângă conac, așa că lăsați-vă bicicleta acolo.",
+            "en": "The museum is right next to the manor, so just leave your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Törnävä",
+            "hu": "Ebéd Törnävä-ban",
+            "ro": "Prânz în Törnävä",
+            "en": "Lunch in Törnävä"
+          },
+          "coords": [
+            22.836,
+            62.766
+          ],
+          "category": "gastro",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit im Restaurant des Herrenhauses für eine historische Atmosphäre.",
+            "hu": "Fogyasszon el egy ebédet az udvarház éttermében a történelmi hangulatért.",
+            "ro": "Bucurați-vă de o masă la restaurantul conacului pentru o atmosferă istorică.",
+            "en": "Enjoy a meal at the manor's restaurant for a historic atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mallaskosken Brauerei",
+            "hu": "Mallaskoski Sörfőzde",
+            "ro": "Berăria Mallaskoski",
+            "en": "Mallaskoski Brewery"
+          },
+          "coords": [
+            22.83,
+            62.789
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Radeln Sie am Fluss entlang zurück ins Zentrum und belohnen Sie sich mit einem kalten Bier.",
+            "hu": "Tekerjen vissza a folyó mentén a központba, és jutalmazza meg magát egy hideg sörrel.",
+            "ro": "Pedalați înapoi spre centru de-a lungul râului și recompensați-vă cu o bere rece.",
+            "en": "Cycle back to the center along the river and reward yourself with a cold beer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine Tour, die Architektur und Natur verbindet. Der Morgen beginnt im Aalto-Zentrum, bevor eine malerische Fahrt Sie zum historischen Törnävä-Anwesen führt. Verbringen Sie den Mittag damit, das Herrenhaus und das benachbarte Freilichtmuseum zu erkunden. Radeln Sie am Nachmittag entlang des Flusses zurück in die Stadt und machen Sie Halt bei der Mallaskosken Brauerei für eine wohlverdiente Erfrischung. Der Tag endet mit einer entspannten Radtour durch das abendliche Seinäjoki.",
+        "hu": "Pattanjon kerékpárra egy olyan túrához, amely ötvözi az építészetet és a természetet. A reggel az Aalto Központban kezdődik, mielőtt egy festői út elvezetné a történelmi Törnävä birtokra. Töltse a délt az udvarház és a szomszédos skanzen felfedezésével. Délután tekerjen vissza a városba a folyó mentén, és álljon meg a Mallaskoski Sörfőzdénél egy jól megérdemelt frissítőre. A nap egy laza esti kerékpártúrával zárul Seinäjokiban.",
+        "ro": "Urcați pe bicicletă pentru un tur care combină arhitectura și natura. Dimineața începe la Centrul Aalto, înainte ca o plimbare pitorească să vă ducă la domeniul istoric Törnävä. Petreceți prânzul explorând conacul și muzeul în aer liber adiacent. După-amiaza, pedalați înapoi în oraș de-a lungul râului, oprindu-vă la Berăria Mallaskoski pentru o răcorire binemeritată. Ziua se încheie cu o plimbare relaxantă cu bicicleta prin Seinäjoki seara.",
+        "en": "Get on your bike for a tour that combines architecture and nature. The morning starts at the Aalto Centre before a scenic ride takes you to the historic Törnävä estate. Spend midday exploring the manor and the adjacent open-air museum. In the afternoon, cycle back into town along the river, stopping at Mallaskoski Brewery for a well-deserved refreshment. The day concludes with a relaxed evening bike ride through Seinäjoki."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Törnävän Kartano",
+            "tip": "Essen Sie in historischem Ambiente direkt im Herrenhaus."
+          },
+          {
+            "name": "Äärellä Kuppi + Kattila",
+            "tip": "Ein beliebtes Café und Bistro am Flussufer, ideal für einen Zwischenstopp."
+          },
+          {
+            "name": "Valkoinen Puu",
+            "tip": "Ein charmantes Café, bekannt für seine Kuchen und sein gemütliches Interieur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Törnävän Kartano",
+            "tip": "Étkezzen történelmi környezetben, közvetlenül az udvarházban."
+          },
+          {
+            "name": "Äärellä Kuppi + Kattila",
+            "tip": "Népszerű kávézó és bisztró a folyóparton, ideális egy megállóhoz."
+          },
+          {
+            "name": "Valkoinen Puu",
+            "tip": "Bájos kávézó, amely süteményeiről és hangulatos belső teréről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Törnävän Kartano",
+            "tip": "Luați masa într-un cadru istoric chiar la conac."
+          },
+          {
+            "name": "Äärellä Kuppi + Kattila",
+            "tip": "O cafenea și un bistro popular pe malul râului, ideal pentru o oprire."
+          },
+          {
+            "name": "Valkoinen Puu",
+            "tip": "O cafenea fermecătoare, cunoscută pentru prăjiturile și interiorul său primitor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Törnävän Kartano",
+            "tip": "Dine in a historic setting right at the manor."
+          },
+          {
+            "name": "Äärellä Kuppi + Kattila",
+            "tip": "A popular cafe and bistro on the riverfront, great for a stopover."
+          },
+          {
+            "name": "Valkoinen Puu",
+            "tip": "A charming cafe known for its cakes and cozy interior."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kyrkösjärvi See",
+            "tip": "Eine längere Radtour führt Sie zu diesem See mit schönen Wegen und Vogelbeobachtungstürmen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Uferweg des Seinäjoki",
+            "tip": "Der Radweg entlang des Flusses ist perfekt für eine ruhige Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Paukanevan Pitkospuut",
+            "tip": "Ein nahegelegenes Moorgebiet mit Holzstegen, ideal für eine Rad- und Wandertour.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kyrkösjärvi-tó",
+            "tip": "Egy hosszabb kerékpártúra elvisz ehhez a tóhoz, ahol szép ösvények és madármegfigyelő tornyok vannak.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Seinäjoki folyóparti ösvény",
+            "tip": "A folyó menti kerékpárút tökéletes egy csendes tekeréshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Paukanevan Pitkospuut",
+            "tip": "Közeli lápvidék fapallókkal, ideális egy kerékpár- és gyalogtúrához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Kyrkösjärvi",
+            "tip": "O plimbare mai lungă cu bicicleta vă duce la acest lac cu poteci frumoase și turnuri de observare a păsărilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Potecă de pe malul râului Seinäjoki",
+            "tip": "Pista de biciclete de-a lungul râului este perfectă pentru o plimbare liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Paukanevan Pitkospuut",
+            "tip": "O zonă de mlaștină din apropiere cu podețe din lemn, ideală pentru o excursie cu bicicleta și drumeții.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Kyrkösjärvi",
+            "tip": "A longer bike ride takes you to this lake with nice trails and birdwatching towers.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Seinäjoki Riverbank Path",
+            "tip": "The cycle path along the river is perfect for a quiet ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Paukanevan Pitkospuut",
+            "tip": "A nearby bog area with duckboards, great for a bike and hike trip.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop im Regionalmuseum",
+            "tip": "Finden Sie einzigartige Souvenirs und Bücher über die lokale Geschichte."
+          },
+          {
+            "name": "Marktplatz (Kauppatori)",
+            "tip": "Kaufen Sie frische Produkte und lokale Spezialitäten, besonders im Sommer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumbolt a Regionális Múzeumban",
+            "tip": "Találjon egyedi ajándéktárgyakat és könyveket a helyi történelemről."
+          },
+          {
+            "name": "Piactér (Kauppatori)",
+            "tip": "Vásároljon friss termékeket és helyi specialitásokat, különösen nyáron."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului la Muzeul Regional",
+            "tip": "Găsiți suveniruri unice și cărți despre istoria locală."
+          },
+          {
+            "name": "Piața Centrală (Kauppatori)",
+            "tip": "Cumpărați produse proaspete și specialități locale, mai ales vara."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum shop at the Regional Museum",
+            "tip": "Find unique souvenirs and books about local history."
+          },
+          {
+            "name": "Market Square (Kauppatori)",
+            "tip": "Buy fresh produce and local specialities, especially in summer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Seinäjoki ist sehr flach und daher ideal zum Radfahren.",
+          "Es gibt viele Radwege, die das Zentrum mit den Außenbezirken verbinden.",
+          "Denken Sie daran, Ihr Fahrrad abzuschließen, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Seinäjoki nagyon sík, ezért ideális kerékpározáshoz.",
+          "Számos kerékpárút köti össze a központot a külvárosokkal.",
+          "Ne felejtse el lezárni a kerékpárját, amikor leteszi."
+        ],
+        "ro": [
+          "Seinäjoki este foarte plat, ceea ce îl face ideal pentru ciclism.",
+          "Există multe piste de biciclete care leagă centrul de periferie.",
+          "Nu uitați să vă legați bicicleta atunci când o lăsați."
+        ],
+        "en": [
+          "Seinäjoki is very flat, making it ideal for cycling.",
+          "There are many bike paths connecting the center to the outskirts.",
+          "Remember to lock your bike when you leave it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 21.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Aalto-Zentrum",
+            "hu": "A Klaszter: Aalto Központ",
+            "ro": "Cluster A: Centrul Aalto",
+            "en": "Cluster A: Aalto Centre"
+          },
+          "coords": [
+            22.8403,
+            62.7875
+          ],
+          "category": "cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier. Das gesamte Zentrum ist ein Fußgängercluster.",
+            "hu": "Parkoljon itt. Az egész központ egy gyalogos klaszter.",
+            "ro": "Parcați aici. Întregul centru este un cluster pietonal.",
+            "en": "Park your car here. The entire centre is a walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Lakeuden Risti Kirche",
+            "hu": "Lakeuden Risti templom",
+            "ro": "Biserica Lakeuden Risti",
+            "en": "Lakeuden Risti Church"
+          },
+          "coords": [
+            22.841,
+            62.7865
+          ],
+          "category": "churches",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptgebäude des Aalto-Zentrums.",
+            "hu": "Rövid séta az Aalto Központ főépületétől.",
+            "ro": "O scurtă plimbare de la clădirea principală a Centrului Aalto.",
+            "en": "A short walk from the main Aalto Centre building."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater Seinäjoki",
+            "hu": "Seinäjoki Városi Színház",
+            "ro": "Teatrul Municipal Seinäjoki",
+            "en": "Seinäjoki City Theatre"
+          },
+          "coords": [
+            22.8395,
+            62.7885
+          ],
+          "category": "theatres",
+          "arrive_at": "11:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auf der anderen Seite des Platzes gelegen, leicht zu Fuß erreichbar.",
+            "hu": "A tér másik oldalán található, könnyen megközelíthető gyalog.",
+            "ro": "Situat de cealaltă parte a pieței, ușor accesibil pe jos.",
+            "en": "Located on the other side of the square, an easy walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Törnävän kartano",
+            "hu": "B Klaszter: Törnävä udvarház",
+            "ro": "Cluster B: Conacul Törnävä",
+            "en": "Cluster B: Törnävä Manor"
+          },
+          "coords": [
+            22.835,
+            62.765
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Törnävä-Gebiet und parken Sie. Dieser Bereich ist der zweite Wandercluster.",
+            "hu": "Vezessen a Törnävä területre és parkoljon. Ez a terület a második gyalogos klaszter.",
+            "ro": "Conduceți spre zona Törnävä și parcați. Această zonă este al doilea cluster de mers pe jos.",
+            "en": "Drive to the Törnävä area and park. This area is the second walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum Süd-Ostbottnien",
+            "hu": "Dél-Ostrobothniai Regionális Múzeum",
+            "ro": "Muzeul Regional Ostrobothnia de Sud",
+            "en": "South Ostrobothnia Regional Museum"
+          },
+          "coords": [
+            22.8345,
+            62.7655
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Geschichte der Region, nur wenige Schritte vom Herrenhaus entfernt.",
+            "hu": "Fedezze fel a régió történelmét, csak néhány lépésre az udvarháztól.",
+            "ro": "Explorați istoria regiunii, la doar câțiva pași de conac.",
+            "en": "Explore the region's history, just a few steps from the manor."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Ideapark Seinäjoki",
+            "hu": "C Klaszter: Ideapark Seinäjoki",
+            "ro": "Cluster C: Ideapark Seinäjoki",
+            "en": "Cluster C: Ideapark Seinäjoki"
+          },
+          "coords": [
+            22.79,
+            62.81
+          ],
+          "category": "landmark",
+          "arrive_at": "15:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zu diesem großen Einkaufszentrum für etwas Shopping am Nachmittag.",
+            "hu": "Rövid autóút ehhez a nagy bevásárlóközponthoz egy délutáni vásárláshoz.",
+            "ro": "O scurtă călătorie cu mașina până la acest mare centru comercial pentru cumpărături de după-amiază.",
+            "en": "A short drive to this large shopping center for some afternoon shopping."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Mallaskosken Brauerei",
+            "hu": "Vacsora a Mallaskoski Sörfőzdében",
+            "ro": "Cină la Berăria Mallaskoski",
+            "en": "Dinner at Mallaskoski Brewery"
+          },
+          "coords": [
+            22.83,
+            62.789
+          ],
+          "category": "gastro",
+          "arrive_at": "17:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum und beenden Sie den Tag mit einem herzhaften Essen und Craft-Bier.",
+            "hu": "Vezessen vissza a központba, és fejezze be a napot egy kiadós étellel és kézműves sörrel.",
+            "ro": "Conduceți înapoi în centru și încheiați ziua cu o masă copioasă și o bere artizanală.",
+            "en": "Drive back towards the center and end the day with a hearty meal and craft beer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um Seinäjoki in Clustern zu erkunden. Der Morgen ist dem architektonischen Herzen der Stadt gewidmet: Parken Sie und erkunden Sie das Aalto-Zentrum zu Fuß. Nach dem Eintauchen in die Moderne fahren Sie zum Törnävä-Anwesen, Ihrem zweiten Cluster. Verbringen Sie den Mittag damit, das Herrenhaus und das Museum zu erkunden. Am Nachmittag fahren Sie zum Ideapark für eine Einkaufstherapie, bevor Sie den Tag in der Mallaskosken Brauerei mit einem leckeren Abendessen ausklingen lassen.",
+        "hu": "Használja autóját Seinäjoki klaszterekben való felfedezéséhez. A délelőtt a város építészeti szívének van szentelve: parkoljon le, és fedezze fel gyalog az Aalto Központot. A modernizmusba való belemerülés után vezessen a Törnävä birtokra, a második klaszterhez. Töltse a délt az udvarház és a múzeum felfedezésével. Délután irány az Ideapark egy kis vásárlási terápiáért, mielőtt a napot a Mallaskoski Sörfőzdében egy finom vacsorával zárná.",
+        "ro": "Folosiți mașina pentru a explora Seinäjoki în clustere. Dimineața este dedicată inimii arhitecturale a orașului: parcați și explorați Centrul Aalto pe jos. După imersiunea în modernism, conduceți spre domeniul Törnävä, al doilea cluster. Petreceți prânzul explorând conacul și muzeul. După-amiaza, mergeți la Ideapark pentru terapie prin cumpărături, înainte de a încheia ziua cu o cină delicioasă la Berăria Mallaskoski.",
+        "en": "Use your car to explore Seinäjoki in clusters. The morning is dedicated to the architectural heart of the city: park and explore the Aalto Centre on foot. After immersing in modernism, drive to the Törnävä estate, your second cluster. Spend midday exploring the manor and museum. In the afternoon, head to Ideapark for some retail therapy before concluding the day with a delicious dinner at Mallaskoski Brewery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mallaskosken Panimoravintola",
+            "tip": "Probieren Sie die Rippchen oder den Lachs. Die Portionen sind großzügig."
+          },
+          {
+            "name": "Holy Smoke",
+            "tip": "Wenn Sie Lust auf BBQ haben, ist dies der richtige Ort in Seinäjoki."
+          },
+          {
+            "name": "Juurella",
+            "tip": "Ein Restaurant, das sich auf lokale, saisonale Zutaten aus Süd-Ostbottnien konzentriert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mallaskosken Panimoravintola",
+            "tip": "Kóstolja meg a bordát vagy a lazacot. Az adagok bőségesek."
+          },
+          {
+            "name": "Holy Smoke",
+            "tip": "Ha BBQ-ra vágyik, ez a hely Seinäjokiban."
+          },
+          {
+            "name": "Juurella",
+            "tip": "Egy étterem, amely a helyi, szezonális dél-ostrobothniai alapanyagokra specializálódott."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mallaskosken Panimoravintola",
+            "tip": "Încercați coastele sau somonul. Porțiile sunt generoase."
+          },
+          {
+            "name": "Holy Smoke",
+            "tip": "Dacă aveți poftă de grătar, acesta este locul potrivit în Seinäjoki."
+          },
+          {
+            "name": "Juurella",
+            "tip": "Un restaurant axat pe ingrediente locale, de sezon, din Ostrobothnia de Sud."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mallaskosken Panimoravintola",
+            "tip": "Try the ribs or the salmon. The portions are generous."
+          },
+          {
+            "name": "Holy Smoke",
+            "tip": "If you're in the mood for BBQ, this is the place to go in Seinäjoki."
+          },
+          {
+            "name": "Juurella",
+            "tip": "A restaurant focusing on local, seasonal ingredients from South Ostrobothnia."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jouppilanvuori",
+            "tip": "Fahren Sie auf diesen kleinen Hügel für einen schönen Blick auf die Stadt und Wanderwege.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Paukanevan Pitkospuut",
+            "tip": "Ein kurzer Fahrtweg bringt Sie zu diesem ruhigen Moorgebiet, ideal für einen Spaziergang in der Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Kyrkösjärvi-Sees",
+            "tip": "Parken Sie und genießen Sie die Stille am größten See der Gegend.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jouppilanvuori",
+            "tip": "Vezessen fel erre a kis dombra, ahonnan szép kilátás nyílik a városra és túraútvonalak is vannak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Paukanevan Pitkospuut",
+            "tip": "Rövid autóúttal elérhető ez a csendes lápvidék, ideális egy természetjáró sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kyrkösjärvi-tó partja",
+            "tip": "Parkoljon le, és élvezze a csendet a környék legnagyobb tavánál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jouppilanvuori",
+            "tip": "Conduceți până la acest mic deal pentru o priveliște frumoasă asupra orașului și pentru trasee de drumeții.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Paukanevan Pitkospuut",
+            "tip": "O scurtă călătorie cu mașina vă duce la această zonă liniștită de mlaștină, ideală pentru o plimbare în natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul lacului Kyrkösjärvi",
+            "tip": "Parcați și bucurați-vă de liniște la cel mai mare lac din zonă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jouppilanvuori",
+            "tip": "Drive up this small hill for a nice view of the city and hiking trails.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Paukanevan Pitkospuut",
+            "tip": "A short drive takes you to this quiet bog area, ideal for a nature walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Shore of Lake Kyrkösjärvi",
+            "tip": "Park your car and enjoy the silence by the area's largest lake.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ideapark Seinäjoki",
+            "tip": "Ein riesiges Einkaufszentrum mit allem, von Mode bis Elektronik."
+          },
+          {
+            "name": "Kauppakeskus Epstori",
+            "tip": "Ein weiteres Einkaufszentrum direkt im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ideapark Seinäjoki",
+            "tip": "Hatalmas bevásárlóközpont, ahol mindent megtalál a divattól az elektronikáig."
+          },
+          {
+            "name": "Kauppakeskus Epstori",
+            "tip": "Egy másik bevásárlóközpont közvetlenül a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ideapark Seinäjoki",
+            "tip": "Un centru comercial uriaș cu de toate, de la modă la electronice."
+          },
+          {
+            "name": "Kauppakeskus Epstori",
+            "tip": "Un alt centru comercial chiar în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ideapark Seinäjoki",
+            "tip": "A huge shopping mall with everything from fashion to electronics."
+          },
+          {
+            "name": "Kauppakeskus Epstori",
+            "tip": "Another shopping center right in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann gebührenpflichtig sein, aber außerhalb ist es oft kostenlos.",
+          "Die Cluster-Walking-Methode spart Zeit bei der Parkplatzsuche und lässt Sie mehr entdecken.",
+          "Überprüfen Sie die Öffnungszeiten, insbesondere für das Regionalmuseum, das saisonale Öffnungszeiten haben kann."
+        ],
+        "hu": [
+          "A parkolás a városközpontban díjköteles lehet, de a központon kívül gyakran ingyenes.",
+          "A klaszter-séta módszer időt takarít meg a parkolóhely-keresésnél, és többet fedezhet fel.",
+          "Ellenőrizze a nyitvatartási időket, különösen a Regionális Múzeum esetében, amelynek szezonális nyitvatartása lehet."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi contra cost, dar în afara acestuia este adesea gratuită.",
+          "Metoda de mers pe jos în clustere economisește timp la căutarea unui loc de parcare și vă permite să explorați mai mult.",
+          "Verificați orele de deschidere, în special pentru Muzeul Regional, care poate avea program sezonier."
+        ],
+        "en": [
+          "Parking in the city center may have a fee, but it's often free outside the immediate center.",
+          "The cluster-walking method saves time on parking and lets you explore more.",
+          "Check the opening hours, especially for the Regional Museum, which may have seasonal hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Aalto-Zentrum",
+            "hu": "A Klaszter: Aalto Központ",
+            "ro": "Cluster A: Centrul Aalto",
+            "en": "Cluster A: Aalto Centre"
+          },
+          "coords": [
+            22.8403,
+            62.7875
+          ],
+          "category": "cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Das Zentrum ist der Hauptknotenpunkt für Busse. Beginnen Sie Ihren Tag hier.",
+            "hu": "A központ a buszok fő csomópontja. Kezdje itt a napot.",
+            "ro": "Centrul este nodul principal pentru autobuze. Începeți ziua aici.",
+            "en": "The centre is the main hub for buses. Start your day here."
+          }
+        },
+        {
+          "name": {
+            "de": "Lakeuden Risti Kirche",
+            "hu": "Lakeuden Risti templom",
+            "ro": "Biserica Lakeuden Risti",
+            "en": "Lakeuden Risti Church"
+          },
+          "coords": [
+            22.841,
+            62.7865
+          ],
+          "category": "churches",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang durch den Aalto Park.",
+            "hu": "Könnyű séta az Aalto parkon keresztül.",
+            "ro": "O plimbare ușoară prin Parcul Aalto.",
+            "en": "An easy walk across the Aalto park."
+          }
+        },
+        {
+          "name": {
+            "de": "Suojeluskunta- ja lottamuseo",
+            "hu": "Civil Gárda és Lotta Svärd Múzeum",
+            "ro": "Muzeul Gărzii Civile și Lotta Svärd",
+            "en": "Civil Guard and Lotta Svärd Museum"
+          },
+          "coords": [
+            22.845,
+            62.79
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Am Rande des zentralen Clusters gelegen, immer noch bequem zu Fuß erreichbar.",
+            "hu": "A központi klaszter szélén található, még mindig kényelmesen megközelíthető gyalog.",
+            "ro": "Situat la marginea clusterului central, încă ușor accesibil pe jos.",
+            "en": "Located on the edge of the central cluster, still an easy walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Törnävän kartano & Museum",
+            "hu": "B Klaszter: Törnävä udvarház és múzeum",
+            "ro": "Cluster B: Conacul și Muzeul Törnävä",
+            "en": "Cluster B: Törnävä Manor & Museum"
+          },
+          "coords": [
+            22.835,
+            62.765
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus vom Zentrum nach Törnävä. Die Fahrt dauert etwa 15 Minuten.",
+            "hu": "Menjen helyi busszal a központból Törnävä-ba. Az út kb. 15 percig tart.",
+            "ro": "Luați un autobuz local din centru spre Törnävä. Călătoria durează aproximativ 15 minute.",
+            "en": "Take a local bus from the center to Törnävä. The ride takes about 15 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen in Törnävä",
+            "hu": "Késői ebéd Törnävä-ban",
+            "ro": "Prânz târziu în Törnävä",
+            "en": "Late Lunch in Törnävä"
+          },
+          "coords": [
+            22.836,
+            62.766
+          ],
+          "category": "gastro",
+          "arrive_at": "15:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich nach der Museumsbesichtigung in einem der nahegelegenen Cafés.",
+            "hu": "Erősítse meg magát a múzeumlátogatás után a közeli kávézók egyikében.",
+            "ro": "Revigorați-vă după vizita la muzeu la una dintre cafenelele din apropiere.",
+            "en": "Refuel after the museum visit at one of the nearby cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mallaskosken Brauerei",
+            "hu": "Mallaskoski Sörfőzde",
+            "ro": "Berăria Mallaskoski",
+            "en": "Mallaskoski Brewery"
+          },
+          "coords": [
+            22.83,
+            62.789
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:10",
+          "stay_min": 65,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum und gehen Sie das kurze Stück zum Fluss.",
+            "hu": "Menjen busszal vissza a központba, és sétáljon egy rövid szakaszt a folyóig.",
+            "ro": "Luați autobuzul înapoi în centru și mergeți pe jos distanța scurtă până la râu.",
+            "en": "Take the bus back to the center and walk the short distance to the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Seinäjoki mit den öffentlichen Verkehrsmitteln, die Sie mühelos zwischen den Kulturclustern transportieren. Beginnen Sie im zentralen Aalto-Zentrum, das zu Fuß erkundet wird. Ein kurzer Spaziergang führt Sie durch die architektonischen Wunder und in die lokale Geschichte. Mittags bringt Sie ein Bus zum historischen Törnävä-Gebiet. Verbringen Sie den Nachmittag damit, das Freilichtmuseum und das Herrenhaus zu erkunden. Am späten Nachmittag fahren Sie mit dem Bus zurück, um den Tag mit einem erfrischenden Bier am Flussufer in der Mallaskosken Brauerei abzuschließen.",
+        "hu": "Fedezze fel Seinäjokit a tömegközlekedéssel, amely könnyedén szállítja a kulturális klaszterek között. Kezdje a központi Aalto Központban, amelyet gyalog fedezhet fel. Egy rövid séta elvezeti az építészeti csodákhoz és a helyi történelembe. Délben egy busz elviszi a történelmi Törnävä területére. Töltse a délutánt a skanzen és az udvarház felfedezésével. Késő délután busszal térjen vissza, hogy a napot egy frissítő sörrel zárja a folyóparton a Mallaskoski Sörfőzdében.",
+        "ro": "Descoperiți Seinäjoki cu transportul public, care vă transportă fără efort între clusterele culturale. Începeți în Centrul Aalto central, explorat pe jos. O scurtă plimbare vă duce prin minunile arhitecturale și în istoria locală. La prânz, un autobuz vă duce în zona istorică Törnävä. Petreceți după-amiaza explorând muzeul în aer liber și conacul. Spre seară, luați autobuzul înapoi pentru a încheia ziua cu o bere răcoritoare pe malul râului la Berăria Mallaskoski.",
+        "en": "Discover Seinäjoki using public transport, which effortlessly moves you between cultural clusters. Start at the central Aalto Centre, explored on foot. A short walk takes you through architectural wonders and into local history. At noon, a bus takes you to the historic Törnävä area. Spend the afternoon exploring the open-air museum and manor. In the late afternoon, bus back to conclude the day with a refreshing riverside beer at Mallaskoski Brewery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ravintola Törnävän Piha",
+            "tip": "Traditionelles finnisches Buffet in historischer Umgebung."
+          },
+          {
+            "name": "Bar & Restaurant Amarillo",
+            "tip": "Eine lebhafte Option im Zentrum für Tex-Mex und Drinks."
+          },
+          {
+            "name": "Hesburger",
+            "tip": "Für einen schnellen und unkomplizierten finnischen Burger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ravintola Törnävän Piha",
+            "tip": "Hagyományos finn büfé történelmi környezetben."
+          },
+          {
+            "name": "Bar & Restaurant Amarillo",
+            "tip": "Élénk opció a központban Tex-Mex ételekhez és italokhoz."
+          },
+          {
+            "name": "Hesburger",
+            "tip": "Egy gyors és egyszerű finn burgerért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ravintola Törnävän Piha",
+            "tip": "Bufet tradițional finlandez într-un cadru istoric."
+          },
+          {
+            "name": "Bar & Restaurant Amarillo",
+            "tip": "O opțiune plină de viață în centru pentru Tex-Mex și băuturi."
+          },
+          {
+            "name": "Hesburger",
+            "tip": "Pentru un burger finlandez rapid și simplu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ravintola Törnävän Piha",
+            "tip": "Traditional Finnish buffet in a historic setting."
+          },
+          {
+            "name": "Bar & Restaurant Amarillo",
+            "tip": "A lively option in the center for Tex-Mex and drinks."
+          },
+          {
+            "name": "Hesburger",
+            "tip": "For a quick and straightforward Finnish burger."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aalto Bibliothek",
+            "tip": "Ein ruhiger Ort, um der Hektik zu entfliehen und die Architektur zu genießen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Törnävä Friedhof",
+            "tip": "Ein friedlicher und historischer Ort für einen stillen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park am Stadttheater",
+            "tip": "Eine kleine grüne Oase im Herzen des Aalto-Zentrums.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aalto Könyvtár",
+            "tip": "Csendes hely a nyüzsgés elől való menekülésre és az építészet élvezetére.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Törnävä temető",
+            "tip": "Békés és történelmi hely egy csendes sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park a Városi Színháznál",
+            "tip": "Kis zöld oázis az Aalto Központ szívében.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca Aalto",
+            "tip": "Un loc liniștit pentru a evada din agitație și a vă bucura de arhitectură.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cimitirul Törnävä",
+            "tip": "Un loc pașnic și istoric pentru o plimbare tăcută.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul de lângă Teatrul Municipal",
+            "tip": "O mică oază de verdeață în inima Centrului Aalto.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aalto Library",
+            "tip": "A quiet place to escape the hustle and enjoy the architecture.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Törnävä Cemetery",
+            "tip": "A peaceful and historic spot for a quiet walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park by the City Theatre",
+            "tip": "A small green oasis in the heart of the Aalto Centre.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Buchhandlung im Aalto-Zentrum",
+            "tip": "Kaufen Sie Bücher über Alvar Aalto und finnisches Design."
+          },
+          {
+            "name": "Lokale Supermärkte (z.B. K-Market)",
+            "tip": "Probieren Sie finnische Snacks wie Salmiakki oder Schokolade von Fazer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könyvesbolt az Aalto Központban",
+            "tip": "Vásároljon könyveket Alvar Aaltóról és a finn dizájnról."
+          },
+          {
+            "name": "Helyi szupermarketek (pl. K-Market)",
+            "tip": "Kóstolja meg a finn rágcsálnivalókat, mint a Salmiakki vagy a Fazer csokoládé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librăria din Centrul Aalto",
+            "tip": "Cumpărați cărți despre Alvar Aalto și designul finlandez."
+          },
+          {
+            "name": "Supermarketuri locale (de ex. K-Market)",
+            "tip": "Încercați gustări finlandeze precum Salmiakki sau ciocolata Fazer."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bookstore in the Aalto Centre",
+            "tip": "Buy books on Alvar Aalto and Finnish design."
+          },
+          {
+            "name": "Local supermarkets (e.g. K-Market)",
+            "tip": "Try Finnish snacks like Salmiakki or Fazer chocolate."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Die Busfahrpläne sind an den Haltestellen und online verfügbar.",
+          "Die meisten Busse sind modern und barrierefrei."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "A buszmenetrendek elérhetők a megállókban és online.",
+          "A legtöbb busz modern és akadálymentesített."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Orarele autobuzelor sunt disponibile la stații și online.",
+          "Majoritatea autobuzelor sunt moderne și accesibile."
+        ],
+        "en": [
+          "Buy a day ticket for the bus to save money.",
+          "Bus schedules are available at the stops and online.",
+          "Most buses are modern and accessible."
+        ]
+      }
+    }
+  }
+}

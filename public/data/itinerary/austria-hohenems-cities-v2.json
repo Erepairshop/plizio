@@ -1,0 +1,1064 @@
+{
+  "city_id": "austria-hohenems-cities-v2",
+  "anchor": {
+    "name": "Hohenems",
+    "coords": [
+      47.3619,
+      9.6881
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Jüdisches Viertel",
+            "hu": "Zsidó negyed",
+            "ro": "Cartierul Evreiesc",
+            "en": "Jewish Quarter"
+          },
+          "coords": [
+            9.6875,
+            47.3625
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Stolpersteine, die an die Opfer des Holocaust erinnern.",
+            "hu": "Figyelje a botlatóköveket, amelyek a holokauszt áldozataira emlékeztetnek.",
+            "ro": "Fiți atenți la pietrele de poticnire (Stolpersteine) care comemorează victimele Holocaustului.",
+            "en": "Look out for the 'Stolpersteine' (stumbling stones) that commemorate victims of the Holocaust."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Museum Hohenems",
+            "hu": "Hohenemsi Zsidó Múzeum",
+            "ro": "Muzeul Evreiesc Hohenems",
+            "en": "Jewish Museum Hohenems"
+          },
+          "coords": [
+            9.6878,
+            47.3622
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um tiefere Einblicke in die jüdische Geschichte der Region zu erhalten.",
+            "hu": "Vegyen részt egy tárlatvezetésen, hogy mélyebb betekintést nyerjen a régió zsidó történelmébe.",
+            "ro": "Participați la un tur ghidat pentru a obține o perspectivă mai profundă asupra istoriei evreiești a regiunii.",
+            "en": "Join a guided tour to get deeper insights into the Jewish history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Salomon-Sulzer-Saal",
+            "hu": "Salomon Sulzer Terem",
+            "ro": "Sala Salomon Sulzer",
+            "en": "Salomon Sulzer Hall"
+          },
+          "coords": [
+            9.687,
+            47.3628
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan für klassische Konzerte in diesem akustisch hervorragenden Saal.",
+            "hu": "Nézze meg a műsort, hátha elcsíp egy klasszikus koncertet ebben a kiváló akusztikájú teremben.",
+            "ro": "Verificați programul pentru concerte de muzică clasică în această sală cu o acustică remarcabilă.",
+            "en": "Check the schedule for classical concerts in this acoustically outstanding hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast Hohenems",
+            "hu": "Hohenems-palota",
+            "ro": "Palatul Hohenems",
+            "en": "Hohenems Palace"
+          },
+          "coords": [
+            9.6865,
+            47.3615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Renaissance-Palast ist in Privatbesitz, aber sein Innenhof ist oft zugänglich.",
+            "hu": "A reneszánsz palota magántulajdonban van, de udvara gyakran látogatható.",
+            "ro": "Palatul renascentist este proprietate privată, dar curtea sa interioară este adesea accesibilă.",
+            "en": "The Renaissance palace is privately owned, but its inner courtyard is often accessible."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Karl Borromäus",
+            "hu": "Borromei Szent Károly plébániatemplom",
+            "ro": "Biserica parohială Sf. Carol Borromeu",
+            "en": "Parish Church of St. Charles Borromeo"
+          },
+          "coords": [
+            9.6858,
+            47.363
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Deckenfresken und den barocken Hochaltar.",
+            "hu": "Csodálja meg a lenyűgöző mennyezeti freskókat és a barokk főoltárt.",
+            "ro": "Admirați frescele impresionante de pe tavan și altarul baroc.",
+            "en": "Admire the impressive ceiling frescoes and the Baroque high altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Stoffels Säge-Mühle",
+            "hu": "Stoffel Fűrész- és Malommúzeuma",
+            "ro": "Moara-fierăstrău Stoffel",
+            "en": "Stoffel's Saw-Mill"
+          },
+          "coords": [
+            9.692,
+            47.359
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 85,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein faszinierendes technisches Denkmal. Überprüfen Sie die Öffnungszeiten, da sie begrenzt sein können.",
+            "hu": "Lenyűgöző ipari műemlék. Ellenőrizze a nyitvatartást, mert korlátozott lehet.",
+            "ro": "Un monument tehnic fascinant. Verificați programul de funcționare, deoarece ar putea fi limitat.",
+            "en": "A fascinating technical monument. Check the opening hours as they can be limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Hohenems beginnt im historischen Jüdischen Viertel, wo Sie das preisgekrönte Jüdische Museum besuchen. Am Mittag erkunden Sie den prächtigen Palast Hohenems, das Herz der Stadt. Der Nachmittag führt Sie zur barocken Pfarrkirche St. Karl Borromäus und schliesslich zur historischen Stoffels Säge-Mühle. Ein Spaziergang durch Hohenems ist eine Reise durch Jahrhunderte reicher Geschichte auf kleinem Raum.",
+        "hu": "A nap Hohenemsben a történelmi zsidó negyedben kezdődik, ahol meglátogatja a díjnyertes Zsidó Múzeumot. Délben felfedezi a csodálatos Hohenems-palotát, a város szívét. A délután a barokk Szent Károly plébániatemplomhoz, végül pedig a történelmi Stoffel fűrész- és malommúzeumhoz vezet. Egy séta Hohenemsben egy utazás az évszázadok gazdag történelmén, kis területen.",
+        "ro": "Ziua dumneavoastră în Hohenems începe în cartierul evreiesc istoric, unde veți vizita premiatul Muzeu Evreiesc. La prânz, explorați magnificul Palat Hohenems, inima orașului. După-amiaza vă duce la biserica parohială barocă Sf. Carol Borromeu și, în final, la istorica Moară-fierăstrău Stoffel. O plimbare prin Hohenems este o călătorie prin secole de istorie bogată într-un spațiu mic.",
+        "en": "Your day in Hohenems begins in the historic Jewish Quarter, where you'll visit the award-winning Jewish Museum. At noon, you explore the magnificent Hohenems Palace, the heart of the city. The afternoon takes you to the Baroque parish church of St. Charles Borromeo and finally to the historic Stoffel's Saw-Mill. A walk through Hohenems is a journey through centuries of rich history in a small space."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Käsknöpfle",
+            "tip": "Ein Muss in Vorarlberg, serviert in traditionellen Gasthäusern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Käsknöpfle",
+            "tip": "Vorarlberg kötelező étele, hagyományos vendéglőkben szolgálják fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Käsknöpfle",
+            "tip": "O specialitate obligatorie în Vorarlberg, servită în hanuri tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Käsknöpfle",
+            "tip": "A must-try dish in Vorarlberg, served in traditional inns."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossplatz",
+            "tip": "Setzen Sie sich auf eine Bank und genießen Sie die Ruhe vor dem Palast.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schlossplatz",
+            "tip": "Üljön le egy padra, és élvezze a csendet a palota előtt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schlossplatz",
+            "tip": "Așezați-vă pe o bancă și bucurați-vă de liniștea din fața palatului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Schlossplatz",
+            "tip": "Sit on a bench and enjoy the tranquility in front of the palace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Donnerstagvormittag gibt es lokale Produkte und Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hetipiac",
+            "tip": "Minden csütörtök délelőtt helyi termékeket és különlegességeket kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare joi dimineață pentru produse și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Thursday morning for local produce and specialities."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und ideal zu Fuss ist.",
+          "Viele Museen haben montags geschlossen, planen Sie entsprechend."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont kompakt és ideális gyalogláshoz.",
+          "Sok múzeum zárva tart hétfőn, tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este compact și ideal pentru mers pe jos.",
+          "Multe muzee sunt închise lunea, planificați-vă vizita în consecință."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is compact and ideal for walking.",
+          "Many museums are closed on Mondays, so plan accordingly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palast Hohenems",
+            "hu": "Hohenems-palota",
+            "ro": "Palatul Hohenems",
+            "en": "Hohenems Palace"
+          },
+          "coords": [
+            9.6865,
+            47.3615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag am zentralen Punkt der Stadt, bevor die Menschenmassen eintreffen.",
+            "hu": "Kezdje a napot a város központi pontján, mielőtt a tömeg megérkezik.",
+            "ro": "Începeți ziua în punctul central al orașului înainte de sosirea mulțimilor.",
+            "en": "Start your day at the city's central point before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel & Museum",
+            "hu": "Zsidó negyed és Múzeum",
+            "ro": "Cartierul și Muzeul Evreiesc",
+            "en": "Jewish Quarter & Museum"
+          },
+          "coords": [
+            9.6878,
+            47.3622
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch des Museums mit einem Spaziergang durch das historische Viertel.",
+            "hu": "Kombinálja a múzeumlátogatást egy sétával a történelmi negyedben.",
+            "ro": "Combinați vizita la muzeu cu o plimbare prin cartierul istoric.",
+            "en": "Combine the museum visit with a stroll through the historic quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Karl Borromäus",
+            "hu": "Borromei Szent Károly plébániatemplom",
+            "ro": "Biserica parohială Sf. Carol Borromeu",
+            "en": "Parish Church of St. Charles Borromeo"
+          },
+          "coords": [
+            9.6858,
+            47.363
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die beeindruckende barocke Architektur zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja a lenyűgöző barokk építészetet.",
+            "ro": "O scurtă oprire pentru a admira arhitectura barocă impresionantă.",
+            "en": "A short stop to admire the impressive baroque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Stoffels Säge-Mühle",
+            "hu": "Stoffel Fűrész- és Malommúzeuma",
+            "ro": "Moara-fierăstrău Stoffel",
+            "en": "Stoffel's Saw-Mill"
+          },
+          "coords": [
+            9.692,
+            47.359
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour entlang des Emsbachs führt Sie zu diesem technischen Juwel.",
+            "hu": "Egy kellemes kerékpártúra az Emsbach mentén vezet ehhez az ipari gyöngyszemhez.",
+            "ro": "O plimbare plăcută cu bicicleta de-a lungul pârâului Emsbach vă duce la această bijuterie tehnică.",
+            "en": "A pleasant bike ride along the Emsbach stream leads you to this technical gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Glopper",
+            "hu": "Glopper kastély",
+            "ro": "Castelul Glopper",
+            "en": "Glopper Castle"
+          },
+          "coords": [
+            9.678,
+            47.355
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Der kurze, aber steile Anstieg wird mit einer tollen Aussicht belohnt. Nur von aussen zu besichtigen.",
+            "hu": "A rövid, de meredek emelkedőt remek kilátás jutalmazza. Csak kívülről látogatható.",
+            "ro": "Urcușul scurt, dar abrupt, este răsplătit cu o priveliște minunată. Poate fi vizitat doar din exterior.",
+            "en": "The short but steep climb is rewarded with a great view. Can only be viewed from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Rheinufer",
+            "hu": "Rajna-part",
+            "ro": "Malul Rinului",
+            "en": "Rhine Riverbank"
+          },
+          "coords": [
+            9.65,
+            47.37
+          ],
+          "category": "river",
+          "arrive_at": "16:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Ende des Tages am Alten Rhein, der Grenze zur Schweiz.",
+            "hu": "Pihenjen a nap végén az Öreg-Rajna partján, a svájci határnál.",
+            "ro": "Relaxați-vă la sfârșitul zilei pe malul Rinului Vechi, la granița cu Elveția.",
+            "en": "Relax at the end of the day on the banks of the Old Rhine, the border with Switzerland."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Hohenems und seine Umgebung. Der Vormittag ist dem historischen Zentrum mit dem Palast und dem Jüdischen Viertel gewidmet. Nach dem Mittagessen radeln Sie zur faszinierenden Stoffels Säge-Mühle. Am Nachmittag erklimmen Sie den Hügel zum Schloss Glopper für eine herrliche Aussicht, bevor Sie den Tag entspannt am Rheinufer ausklingen lassen. Eine perfekte Mischung aus Kultur und Natur.",
+        "hu": "Kerékpárral felfedezheti Hohenemset és környékét. A délelőtt a történelmi központé, a palotával és a zsidó negyeddel. Ebéd után a lenyűgöző Stoffel fűrészmalomhoz teker. Délután megmássza a Glopper kastélyhoz vezető dombot a csodálatos kilátásért, mielőtt a napot a Rajna partján pihenve zárná. A kultúra és a természet tökéletes keveréke.",
+        "ro": "Explorați Hohenems și împrejurimile sale cu bicicleta. Dimineața este dedicată centrului istoric, cu palatul și cartierul evreiesc. După prânz, pedalați spre fascinanta Moară-fierăstrău Stoffel. După-amiaza, urcați dealul spre Castelul Glopper pentru o priveliște magnifică, înainte de a încheia ziua relaxându-vă pe malul Rinului. Un amestec perfect de cultură și natură.",
+        "en": "Explore Hohenems and its surroundings by bike. The morning is dedicated to the historic center with the palace and the Jewish quarter. After lunch, you cycle to the fascinating Stoffel's Saw-Mill. In the afternoon, you climb the hill to Glopper Castle for a magnificent view, before ending the day relaxing on the banks of the Rhine. A perfect mix of culture and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Riebel",
+            "tip": "Ein traditionelles Maisgericht, perfekt für eine Stärkung nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Riebel",
+            "tip": "Hagyományos kukoricaétel, tökéletes feltöltődés a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Riebel",
+            "tip": "Un fel de mâncare tradițional din porumb, perfect pentru a vă reface puterile după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Riebel",
+            "tip": "A traditional corn dish, perfect for refueling after a bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Am Alten Rhein",
+            "tip": "Finden Sie ein ruhiges Plätzchen am Wasser und beobachten Sie die Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Öreg-Rajnánál",
+            "tip": "Keressen egy csendes helyet a vízparton, és figyelje a természetet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pe Rinul Vechi",
+            "tip": "Găsiți un loc liniștit lângă apă și observați natura.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "On the Old Rhine",
+            "tip": "Find a quiet spot by the water and watch nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Entlang der Radwege finden Sie oft kleine Hofläden mit regionalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "A kerékpárutak mentén gyakran talál kis tanyasi boltokat regionális termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă",
+            "tip": "De-a lungul pistelor de biciclete veți găsi adesea mici magazine de la fermă cu produse regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Along the bike paths you will often find small farm shops with regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das gut ausgebaute Radwegnetz im Rheintal.",
+          "Ein Fahrradschloss ist unerlässlich, um die Sehenswürdigkeiten unbesorgt zu besichtigen."
+        ],
+        "hu": [
+          "Használja ki a Rajna-völgy jól kiépített kerékpárút-hálózatát.",
+          "A kerékpárzár elengedhetetlen a látnivalók gondtalan megtekintéséhez."
+        ],
+        "ro": [
+          "Profitați de rețeaua bine dezvoltată de piste de biciclete din Valea Rinului.",
+          "O încuietoare pentru bicicletă este esențială pentru a vizita atracțiile fără griji."
+        ],
+        "en": [
+          "Take advantage of the well-developed cycle path network in the Rhine Valley.",
+          "A bicycle lock is essential for visiting the sights without worry."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Burgruine Alt-Ems",
+            "hu": "Alt-Ems várrom",
+            "ro": "Ruinele cetății Alt-Ems",
+            "en": "Alt-Ems Castle Ruins"
+          },
+          "coords": [
+            9.701,
+            47.358
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie unterhalb der Ruine und geniessen Sie den kurzen Aufstieg und die Panoramasicht.",
+            "hu": "Parkoljon a romok alatt, és élvezze a rövid sétát és a panorámát.",
+            "ro": "Parcați sub ruine și bucurați-vă de scurta urcare și de vederea panoramică.",
+            "en": "Park below the ruins and enjoy the short climb and panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Glopper",
+            "hu": "Glopper kastély",
+            "ro": "Castelul Glopper",
+            "en": "Glopper Castle"
+          },
+          "coords": [
+            9.678,
+            47.355
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Fotostopp bei diesem markanten Wahrzeichen. Es ist in Privatbesitz.",
+            "hu": "Egy rövid fotómegálló ennél a jellegzetes épületnél. Magántulajdonban van.",
+            "ro": "O scurtă oprire pentru fotografii la acest punct de reper distinctiv. Este proprietate privată.",
+            "en": "A quick photo stop at this distinctive landmark. It is privately owned."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centru",
+            "en": "Parking Downtown"
+          },
+          "coords": [
+            9.6885,
+            47.361
+          ],
+          "category": "transport",
+          "arrive_at": "11:55",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Stellen Sie hier Ihr Auto für den Rest des Nachmittags ab und erkunden Sie das Zentrum zu Fuss.",
+            "hu": "Hagyja itt az autóját a délután hátralévő részére, és fedezze fel a központot gyalog.",
+            "ro": "Lăsați-vă mașina aici pentru restul după-amiezii și explorați centrul pe jos.",
+            "en": "Park your car here for the rest of the afternoon and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast Hohenems",
+            "hu": "Hohenems-palota",
+            "ro": "Palatul Hohenems",
+            "en": "Hohenems Palace"
+          },
+          "coords": [
+            9.6865,
+            47.3615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Fassade, bevor Sie in einem nahen Gasthaus zu Mittag essen.",
+            "hu": "Csodálja meg a reneszánsz homlokzatot, mielőtt megebédel egy közeli fogadóban.",
+            "ro": "Admirați fațada renascentistă înainte de a lua prânzul la un han din apropiere.",
+            "en": "Admire the Renaissance facade before having lunch at a nearby inn."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel",
+            "hu": "Zsidó negyed",
+            "ro": "Cartierul Evreiesc",
+            "en": "Jewish Quarter"
+          },
+          "coords": [
+            9.6875,
+            47.3625
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie nach dem Mittagessen durch die Gassen dieses historischen Viertels.",
+            "hu": "Ebéd után sétáljon végig a történelmi negyed sikátorain.",
+            "ro": "După prânz, plimbați-vă pe aleile acestui cartier istoric.",
+            "en": "After lunch, take a stroll through the alleys of this historic quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Museum Hohenems",
+            "hu": "Hohenemsi Zsidó Múzeum",
+            "ro": "Muzeul Evreiesc Hohenems",
+            "en": "Jewish Museum Hohenems"
+          },
+          "coords": [
+            9.6878,
+            47.3622
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für dieses tiefgründige und bewegende Museum ein.",
+            "hu": "Szánjon elegendő időt erre a mély és megindító múzeumra.",
+            "ro": "Alocați suficient timp pentru acest muzeu profund și emoționant.",
+            "en": "Allow plenty of time for this profound and moving museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Karl Borromäus",
+            "hu": "Borromei Szent Károly plébániatemplom",
+            "ro": "Biserica parohială Sf. Carol Borromeu",
+            "en": "Parish Church of St. Charles Borromeo"
+          },
+          "coords": [
+            9.6858,
+            47.363
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren Rundgang mit einem Besuch dieser prächtigen Barockkirche ab.",
+            "hu": "Zárja a városnézést ennek a pompás barokk templomnak a meglátogatásával.",
+            "ro": "Încheiați turul cu o vizită la această magnifică biserică barocă.",
+            "en": "Conclude your walking tour with a visit to this magnificent baroque church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie mühelos die Höhepunkte rund um Hohenems. Beginnen Sie den Tag mit einem Panoramablick von der Burgruine Alt-Ems. Anschliessend fahren Sie zum Schloss Glopper, bevor Sie Ihr Auto im Zentrum parken. Den Nachmittag verbringen Sie zu Fuss, erkunden den Palast, das Jüdische Viertel und Museum und die Pfarrkirche. Diese Tour kombiniert landschaftliche Fahrten mit einem intensiven kulturellen Spaziergang.",
+        "hu": "Autóval könnyedén elérheti Hohenems környékének legszebb helyeit. Kezdje a napot az Alt-Ems várrom panorámájával. Ezután vezessen a Glopper kastélyhoz, mielőtt leparkol a központban. A délutánt gyalog tölti, felfedezve a palotát, a zsidó negyedet és múzeumot, valamint a plébániatemplomot. Ez a túra a festői autózást egy intenzív kulturális sétával ötvözi.",
+        "ro": "Cu mașina puteți ajunge cu ușurință la punctele de atracție din jurul Hohenems. Începeți ziua cu o vedere panoramică de la ruinele castelului Alt-Ems. Apoi conduceți la Castelul Glopper înainte de a vă parca mașina în centru. Petreceți după-amiaza pe jos, explorând palatul, cartierul și muzeul evreiesc și biserica parohială. Acest tur combină drumurile pitorești cu o plimbare culturală intensă.",
+        "en": "By car, you can easily reach the highlights around Hohenems. Start the day with a panoramic view from the Alt-Ems castle ruins. Then drive to Glopper Castle before parking your car in the center. Spend the afternoon on foot, exploring the palace, the Jewish quarter and museum, and the parish church. This tour combines scenic drives with an intense cultural walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof Hirschen",
+            "tip": "Ein traditionsreiches Haus im Zentrum, bekannt für seine regionale Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof Hirschen",
+            "tip": "Hagyományos fogadó a központban, amely regionális konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthof Hirschen",
+            "tip": "Un han tradițional în centru, renumit pentru bucătăria sa regională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof Hirschen",
+            "tip": "A traditional inn in the center, known for its regional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt bei Alt-Ems",
+            "tip": "Der beste Ort für einen weiten Blick über das Rheintal bis zum Bodensee.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont Alt-Emsnél",
+            "tip": "A legjobb hely, ahonnan messzire ellátni a Rajna-völgy felett egészen a Boden-tóig.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la Alt-Ems",
+            "tip": "Cel mai bun loc pentru o vedere panoramică asupra Văii Rinului până la Lacul Constanța.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at Alt-Ems",
+            "tip": "The best place for a wide view over the Rhine Valley to Lake Constance.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lustenauer Strasse",
+            "tip": "Hier finden sich verschiedene kleine Geschäfte und Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lustenauer Strasse",
+            "tip": "Különféle kis üzletek és butikok találhatók itt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lustenauer Strasse",
+            "tip": "Aici veți găsi diverse magazine mici și buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lustenauer Strasse",
+            "tip": "Various small shops and boutiques can be found here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten im Voraus. Im Zentrum gibt es gebührenpflichtige Kurzparkzonen.",
+          "Kombinieren Sie den Ausflug mit einem Besuch in Dornbirn oder Feldkirch."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről. A központban fizetős, rövid idejű parkolási zónák vannak.",
+          "Kombinálja a kirándulást egy dornbirni vagy feldkirchi látogatással."
+        ],
+        "ro": [
+          "Verificați din timp opțiunile de parcare. În centru există zone de parcare pe termen scurt cu plată.",
+          "Combinați excursia cu o vizită la Dornbirn sau Feldkirch."
+        ],
+        "en": [
+          "Check parking options in advance. There are paid short-term parking zones in the center.",
+          "Combine the trip with a visit to Dornbirn or Feldkirch."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Hohenems",
+            "hu": "Hohenems vasútállomás",
+            "ro": "Gara Hohenems",
+            "en": "Hohenems Train Station"
+          },
+          "coords": [
+            9.68,
+            47.368
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier und nehmen Sie einen Bus ins Zentrum.",
+            "hu": "Kezdje a napot itt, és busszal menjen a központba.",
+            "ro": "Începeți ziua aici și luați un autobuz spre centru.",
+            "en": "Start your day here and take a bus to the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel",
+            "hu": "Zsidó negyed",
+            "ro": "Cartierul Evreiesc",
+            "en": "Jewish Quarter"
+          },
+          "coords": [
+            9.6875,
+            47.3625
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie an der Haltestelle 'Zentrum' aus und tauchen Sie in die Geschichte ein.",
+            "hu": "Szálljon le a 'Zentrum' megállónál, és merüljön el a történelemben.",
+            "ro": "Coborâți la stația 'Zentrum' și scufundați-vă în istorie.",
+            "en": "Get off at the 'Zentrum' stop and immerse yourself in history."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Museum Hohenems",
+            "hu": "Hohenemsi Zsidó Múzeum",
+            "ro": "Muzeul Evreiesc Hohenems",
+            "en": "Jewish Museum Hohenems"
+          },
+          "coords": [
+            9.6878,
+            47.3622
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im Herzen des Viertels, nur wenige Schritte entfernt.",
+            "hu": "A múzeum a negyed szívében található, csak néhány lépésre.",
+            "ro": "Muzeul este situat în inima cartierului, la doar câțiva pași distanță.",
+            "en": "The museum is located in the heart of the quarter, just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast Hohenems & Pfarrkirche",
+            "hu": "Hohenems-palota és Plébániatemplom",
+            "ro": "Palatul Hohenems și Biserica Parohială",
+            "en": "Hohenems Palace & Parish Church"
+          },
+          "coords": [
+            9.6865,
+            47.3615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden beeindruckenden Gebäude liegen nahe beieinander.",
+            "hu": "Ez a két lenyűgöző épület közel van egymáshoz.",
+            "ro": "Aceste două clădiri impresionante sunt situate aproape una de cealaltă.",
+            "en": "These two impressive buildings are located close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Stoffels Säge-Mühle",
+            "hu": "Stoffel Fűrész- és Malommúzeuma",
+            "ro": "Moara-fierăstrău Stoffel",
+            "en": "Stoffel's Saw-Mill"
+          },
+          "coords": [
+            9.692,
+            47.359
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung 'Sägerstraße', um dieses technische Denkmal zu erreichen.",
+            "hu": "Menjen busszal a 'Sägerstraße' irányába, hogy elérje ezt az ipari műemléket.",
+            "ro": "Luați un autobuz spre 'Sägerstraße' pentru a ajunge la acest monument tehnic.",
+            "en": "Take a bus towards 'Sägerstraße' to reach this technical monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Alt-Ems (Aussicht)",
+            "hu": "Alt-Ems várrom (kilátás)",
+            "ro": "Ruinele cetății Alt-Ems (vedere)",
+            "en": "Alt-Ems Castle Ruins (View)"
+          },
+          "coords": [
+            9.701,
+            47.358
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Einige Buslinien bringen Sie in die Nähe des Wanderwegs, der zur Ruine führt. Gutes Schuhwerk erforderlich!",
+            "hu": "Néhány buszjárat elviszi a romokhoz vezető túraútvonal közelébe. Jó cipő szükséges!",
+            "ro": "Unele linii de autobuz vă duc în apropierea traseului de drumeție care duce la ruine. Este necesară încălțăminte bună!",
+            "en": "Some bus lines take you near the hiking trail that leads to the ruins. Good footwear required!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Hohenems bequem mit öffentlichen Verkehrsmitteln. Vom Bahnhof aus bringt Sie ein Bus ins Zentrum, wo Sie das Jüdische Viertel und den Palast zu Fuss erkunden. Am Nachmittag bringt Sie ein Bus zur historischen Sägemühle und in die Nähe der Burgruine Alt-Ems, wo Sie eine herrliche Aussicht geniessen können. So erleben Sie die Stadt und ihre Umgebung stressfrei und nachhaltig.",
+        "hu": "Fedezze fel Hohenemset kényelmesen tömegközlekedéssel. A vasútállomásról busz visz a központba, ahol gyalogosan fedezheti fel a zsidó negyedet és a palotát. Délután busszal juthat el a történelmi fűrészmalomhoz és az Alt-Ems várrom közelébe, ahonnan csodálatos kilátás nyílik. Így stresszmentesen és fenntarthatóan élheti át a várost és környékét.",
+        "ro": "Descoperiți Hohenems confortabil cu transportul public. De la gară, un autobuz vă duce în centru, unde puteți explora pe jos cartierul evreiesc și palatul. După-amiaza, un autobuz vă duce la moara istorică și în apropierea ruinelor castelului Alt-Ems, de unde vă puteți bucura de o priveliște magnifică. Astfel, puteți experimenta orașul și împrejurimile sale fără stres și în mod sustenabil.",
+        "en": "Discover Hohenems comfortably by public transport. From the train station, a bus takes you to the center, where you can explore the Jewish quarter and the palace on foot. In the afternoon, a bus takes you to the historic sawmill and near the Alt-Ems castle ruins, where you can enjoy a magnificent view. This way you can experience the city and its surroundings stress-free and sustainably."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Imbiss am Bahnhof",
+            "tip": "Für eine schnelle und günstige Stärkung vor oder nach der Zugfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfé a pályaudvaron",
+            "tip": "Gyors és olcsó harapnivaló a vonatút előtt vagy után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustare la gară",
+            "tip": "Pentru o masă rapidă și ieftină înainte sau după călătoria cu trenul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snack bar at the station",
+            "tip": "For a quick and cheap snack before or after the train journey."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof am Berg",
+            "tip": "Der Jüdische Friedhof am Berghang ist ein Ort der Stille und des Gedenkens.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hegyi temető",
+            "tip": "A hegyoldalban található zsidó temető a csend és az emlékezés helye.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de pe munte",
+            "tip": "Cimitirul evreiesc de pe versantul muntelui este un loc de liniște și comemorare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery on the mountain",
+            "tip": "The Jewish cemetery on the mountainside is a place of silence and remembrance.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Buchhandlung im Zentrum",
+            "tip": "Stöbern Sie nach Büchern über die lokale Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könyvesbolt a központban",
+            "tip": "Böngésszen a helyi történelemmel foglalkozó könyvek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librărie în centru",
+            "tip": "Răsfoiți cărți despre istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bookshop in the center",
+            "tip": "Browse for books on local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für das Vorarlberger Verkehrsverbund-Netz (VVV).",
+          "Informieren Sie sich vorab über die Busfahrpläne, besonders am Wochenende."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a Vorarlbergi Közlekedési Szövetség (VVV) hálózatára.",
+          "Előzetesen tájékozódjon a buszmenetrendekről, különösen hétvégén."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru rețeaua de transport public din Vorarlberg (VVV).",
+          "Verificați din timp orarele autobuzelor, mai ales în weekend."
+        ],
+        "en": [
+          "Buy a day ticket for the Vorarlberg public transport network (VVV).",
+          "Check the bus timetables in advance, especially on weekends."
+        ]
+      }
+    }
+  }
+}

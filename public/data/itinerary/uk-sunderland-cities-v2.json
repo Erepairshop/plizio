@@ -1,0 +1,1448 @@
+{
+  "city_id": "uk-sunderland-cities-v2",
+  "anchor": {
+    "name": "Sunderland",
+    "coords": [
+      54.9069,
+      -1.3838
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mowbray Park",
+            "hu": "Mowbray Park",
+            "ro": "Parcul Mowbray",
+            "en": "Mowbray Park"
+          },
+          "coords": [
+            -1.3845,
+            54.9031
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein viktorianischer Park, perfekt für einen Morgen-Spaziergang.",
+            "hu": "Viktoriánus park, tökéletes egy reggeli sétához.",
+            "ro": "Un parc victorian, perfect pentru o plimbare de dimineață.",
+            "en": "A Victorian park, perfect for a morning stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunderland Museum & Winter Gardens",
+            "hu": "Sunderland Múzeum és Téli Kert",
+            "ro": "Muzeul și Grădinile de Iarnă din Sunderland",
+            "en": "Sunderland Museum & Winter Gardens"
+          },
+          "coords": [
+            -1.3858,
+            54.9045
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Geschichte und die tropische Oase der Winter Gardens.",
+            "hu": "Fedezze fel a helyi történelmet és a Téli Kert trópusi oázisát.",
+            "ro": "Descoperiți istoria locală și oaza tropicală a Grădinilor de Iarnă.",
+            "en": "Discover local history and the tropical oasis of the Winter Gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunderland Empire Theatre",
+            "hu": "Sunderland Empire Színház",
+            "ro": "Teatrul Empire din Sunderland",
+            "en": "Sunderland Empire Theatre"
+          },
+          "coords": [
+            -1.389,
+            54.906
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die edwardianische Architektur; eine Tour ist oft möglich.",
+            "hu": "Csodálja meg az edwardiánus építészetet; gyakran lehet túrára menni.",
+            "ro": "Admirați arhitectura edwardiană; un tur este adesea posibil.",
+            "en": "Admire the Edwardian architecture; a backstage tour is often possible."
+          }
+        },
+        {
+          "name": {
+            "de": "St Peter's Church",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "St Peter's Church"
+          },
+          "coords": [
+            -1.3655,
+            54.9125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine der ältesten Kirchen in Großbritannien, mit frühem Buntglas.",
+            "hu": "Az Egyesült Királyság egyik legrégebbi temploma, korai ólomüveg ablakokkal.",
+            "ro": "Una dintre cele mai vechi biserici din Marea Britanie, cu vitralii timpurii.",
+            "en": "One of the oldest churches in the UK, with early stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "National Glass Centre",
+            "hu": "Nemzeti Üvegközpont",
+            "ro": "Centrul Național al Sticlei",
+            "en": "National Glass Centre"
+          },
+          "coords": [
+            -1.3638,
+            54.9133
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Glasbläserei-Demonstrationen.",
+            "hu": "Ne hagyja ki az üvegfúvó bemutatókat.",
+            "ro": "Nu ratați demonstrațiile de suflare a sticlei.",
+            "en": "Don't miss the glass-blowing demonstrations."
+          }
+        },
+        {
+          "name": {
+            "de": "Roker und Seaburn Strände",
+            "hu": "Roker és Seaburn strandok",
+            "ro": "Plajele Roker și Seaburn",
+            "en": "Roker and Seaburn Beaches"
+          },
+          "coords": [
+            -1.3601,
+            54.9205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Ideal für einen langen Spaziergang am Nachmittag, beenden Sie mit Fish and Chips.",
+            "hu": "Ideális egy hosszú délutáni sétához, zárja fish and chips-szel.",
+            "ro": "Ideal pentru o plimbare lungă de după-amiază, încheiați cu fish and chips.",
+            "en": "Ideal for a long afternoon walk, finish with some fish and chips."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem ruhigen Spaziergang durch den viktorianischen Mowbray Park, bevor Sie in die lokale Geschichte im Sunderland Museum eintauchen. Die Nähe zum Wintergarten bietet einen Hauch von tropischer Flucht. Ein kurzer Spaziergang führt Sie zum architektonischen Glanz des Sunderland Empire Theatre. Am Mittag unternehmen Sie einen längeren Spaziergang zum Fluss Wear, wo Sie die alte St. Peter's Church und die moderne Kunst des National Glass Centre erkunden können. Diese beiden Orte bieten einen faszinierenden Kontrast zwischen dem alten und dem neuen Erbe von Sunderland. Der Nachmittag ist für die Küste reserviert. Ein belebender Spaziergang entlang der Promenade verbindet das Glass Centre mit den weiten Sandstränden von Roker und Seaburn. Es ist der perfekte Ort, um die Meeresbrise zu genießen. Schließen Sie den Tag ab, indem Sie den Sonnenuntergang über der Nordsee beobachten, vielleicht bei einem lokalen Eis oder einem herzhaften Abendessen am Meer, um das Beste aus der Küstenatmosphäre der Stadt zu machen.",
+        "hu": "Kezdje a napot egy békés sétával a viktoriánus Mowbray Parkban, mielőtt elmerülne a helyi történelemben a Sunderland Múzeumban. A szomszédos Téli Kert egy csipetnyi trópusi menedéket kínál. Egy rövid séta elvezeti a Sunderland Empire Színház építészeti pompájához. Délben tegyen egy hosszabb sétát a Wear folyóhoz, ahol felfedezheti az ősi Szent Péter-templomot és a Nemzeti Üvegközpont modern művészetét. Ez a két hely lenyűgöző kontrasztot kínál Sunderland régi és új öröksége között. A délutánt a tengerpartra szánjuk. Egy élénkítő séta a promenádon köti össze az Üvegközpontot a Roker és Seaburn tágas homokos strandjaival. Tökéletes hely a tengeri szellő élvezetére. Zárja a napot az Északi-tenger feletti naplemente megtekintésével, esetleg egy helyi fagylalttal vagy egy kiadós tengerparti vacsorával, hogy a legtöbbet hozza ki a város tengerparti hangulatából.",
+        "ro": "Începeți ziua cu o plimbare liniștită prin Parcul Mowbray, de epocă victoriană, înainte de a vă cufunda în istoria locală la Muzeul Sunderland. Grădinile de Iarnă adiacente oferă o evadare tropicală. O scurtă plimbare vă duce la splendoarea arhitecturală a Teatrului Empire din Sunderland. La prânz, faceți o plimbare mai lungă spre râul Wear pentru a explora vechea Biserică Sf. Petru și arta modernă de la Centrul Național al Sticlei. Aceste două situri oferă un contrast fascinant între patrimoniul vechi și cel nou al orașului Sunderland. După-amiaza este rezervată pentru coastă. O plimbare revigorantă de-a lungul promenadei leagă Centrul Sticlei de plajele largi de nisip din Roker și Seaburn. Este locul perfect pentru a vă bucura de briza mării. Încheiați ziua urmărind apusul peste Marea Nordului, poate cu o înghețată locală sau o cină consistentă pe malul mării pentru a profita la maximum de atmosfera de coastă a orașului.",
+        "en": "Start your day with a peaceful stroll through the Victorian Mowbray Park before delving into local history at Sunderland Museum. The adjacent Winter Gardens offer a touch of tropical escape. A short walk takes you to the architectural splendour of the Sunderland Empire Theatre. At midday, take a longer walk towards the River Wear to explore the ancient St Peter's Church and the modern artistry of the National Glass Centre. These two sites provide a fascinating contrast between Sunderland's old and new heritage. The afternoon is reserved for the coast. An invigorating walk along the promenade connects the Glass Centre to the wide, sandy beaches of Roker and Seaburn. It's the perfect place to enjoy the sea breeze. End the day watching the sunset over the North Sea, perhaps with a local ice cream or a hearty seaside dinner to make the most of the city's coastal atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Poetic License Bar",
+            "tip": "Probieren Sie die lokal destillierten Gins in einer stilvollen Umgebung in der Nähe des Strandes."
+          },
+          {
+            "name": "The Salt House Kitchen",
+            "tip": "Bekannt für sein ausgezeichnetes Brunch-Menü und den guten Kaffee."
+          },
+          {
+            "name": "D'Acqua",
+            "tip": "Gehobene italienische Küche in einem einzigartigen Kellergewölbe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poetic License Bar",
+            "tip": "Kóstolja meg a helyben lepárolt gineket egy stílusos, tengerpart közeli helyen."
+          },
+          {
+            "name": "The Salt House Kitchen",
+            "tip": "Kiváló brunch menüjéről és remek kávéjáról ismert."
+          },
+          {
+            "name": "D'Acqua",
+            "tip": "Finom olasz ételek egy egyedi, boltíves pincében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poetic License Bar",
+            "tip": "Încercați ginurile distilate local într-un cadru elegant, aproape de plajă."
+          },
+          {
+            "name": "The Salt House Kitchen",
+            "tip": "Renumit pentru meniul excelent de brunch și cafeaua de calitate."
+          },
+          {
+            "name": "D'Acqua",
+            "tip": "Mâncare italiană rafinată într-o pivniță boltită unică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Poetic License Bar",
+            "tip": "Try the locally distilled gins in a stylish setting near the beach."
+          },
+          {
+            "name": "The Salt House Kitchen",
+            "tip": "Known for its excellent brunch menu and great coffee."
+          },
+          {
+            "name": "D'Acqua",
+            "tip": "Fine dining Italian food in a unique vaulted basement setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Roker Pier",
+            "tip": "Ein Spaziergang zum Leuchtturm bietet Ruhe und eine tolle Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Winter Gardens",
+            "tip": "Eine ruhige, tropische Oase im Herzen der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hylton Dene",
+            "tip": "Ein friedlicher Spaziergang durch das Waldgebiet rund um Hylton Castle.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Roker móló",
+            "tip": "Egy séta a világítótoronyhoz nyugalmat és remek kilátást nyújt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Téli Kert",
+            "tip": "Csendes, trópusi oázis a város szívében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hylton Dene",
+            "tip": "Békés séta a Hylton kastély körüli erdős területen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Debarcaderul Roker",
+            "tip": "O plimbare până la far oferă liniște și priveliști minunate.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile de Iarnă",
+            "tip": "O oază tropicală liniștită în inima orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hylton Dene",
+            "tip": "O plimbare liniștită prin zona împădurită din jurul Castelului Hylton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Roker Pier",
+            "tip": "A walk down to the lighthouse offers tranquility and great views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Winter Gardens",
+            "tip": "A quiet, tropical oasis right in the city's heart.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hylton Dene",
+            "tip": "A peaceful walk through the woodland surrounding Hylton Castle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Jacky Whites Market",
+            "tip": "Ein traditioneller Innenmarkt mit einer Vielzahl von Ständen."
+          },
+          {
+            "name": "The Bridges Shopping Centre",
+            "tip": "Die wichtigste Einkaufsdestination der Stadt mit allen bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jacky Whites piac",
+            "tip": "Hagyományos fedett piac, sokféle standdal."
+          },
+          {
+            "name": "The Bridges bevásárlóközpont",
+            "tip": "A város fő bevásárlóhelye, ahol minden nagy márka megtalálható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Jacky Whites",
+            "tip": "O piață interioară tradițională cu o varietate de tarabe."
+          },
+          {
+            "name": "Centrul Comercial The Bridges",
+            "tip": "Principala destinație de cumpărături a orașului, cu toate mărcile importante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jacky Whites Market",
+            "tip": "A traditional indoor market with a variety of stalls."
+          },
+          {
+            "name": "The Bridges Shopping Centre",
+            "tip": "The city's main shopping destination with all the high-street brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da dieser Plan viel Laufen beinhaltet.",
+          "Prüfen Sie die Gezeiten, bevor Sie zum Strand gehen.",
+          "Viele Museen haben an bestimmten Tagen freien Eintritt.",
+          "Das Wetter kann sich schnell ändern, packen Sie also einen Regenmantel ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel ez a terv sok gyaloglást tartalmaz.",
+          "Ellenőrizze az árapályt, mielőtt a tengerpartra indul.",
+          "Sok múzeum ingyenes bizonyos napokon.",
+          "Az időjárás gyorsan változhat, ezért csomagoljon esőkabátot."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece acest itinerar implică mult mers pe jos.",
+          "Verificați orele mareelor înainte de a merge la plajă.",
+          "Multe muzee au intrare liberă în anumite zile.",
+          "Vremea se poate schimba rapid, așa că luați o pelerină de ploaie."
+        ],
+        "en": [
+          "Wear comfortable shoes as this itinerary involves a lot of walking.",
+          "Check the tide times before heading to the beach.",
+          "Many museums have free entry on certain days.",
+          "The weather can change quickly, so pack a raincoat."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mowbray Park",
+            "hu": "Mowbray Park",
+            "ro": "Parcul Mowbray",
+            "en": "Mowbray Park"
+          },
+          "coords": [
+            -1.3845,
+            54.9031
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einer schnellen Runde durch diesen zentralen Park.",
+            "hu": "Kezdje a napot egy gyors körrel ebben a központi parkban.",
+            "ro": "Începeți ziua cu o tură rapidă prin acest parc central.",
+            "en": "Start the day with a quick cycle around this central park."
+          }
+        },
+        {
+          "name": {
+            "de": "Hylton Castle",
+            "hu": "Hylton-kastély",
+            "ro": "Castelul Hylton",
+            "en": "Hylton Castle"
+          },
+          "coords": [
+            -1.435,
+            54.923
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie das historische Torhaus.",
+            "hu": "Zárja le a kerékpárját, és fedezze fel a történelmi kaputornyot.",
+            "ro": "Legați-vă bicicleta și explorați poarta istorică.",
+            "en": "Lock up your bike and explore the historic gatehouse."
+          }
+        },
+        {
+          "name": {
+            "de": "St Peter's Church",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "St Peter's Church"
+          },
+          "coords": [
+            -1.3655,
+            54.9125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Die Radtour entlang des Flusses Wear ist malerisch.",
+            "hu": "A Wear folyó menti kerékpárút festői.",
+            "ro": "Traseul de bicicletă de-a lungul râului Wear este pitoresc.",
+            "en": "The cycle path along the River Wear to get here is scenic."
+          }
+        },
+        {
+          "name": {
+            "de": "National Glass Centre",
+            "hu": "Nemzeti Üvegközpont",
+            "ro": "Centrul Național al Sticlei",
+            "en": "National Glass Centre"
+          },
+          "coords": [
+            -1.3638,
+            54.9133
+          ],
+          "category": "museums",
+          "arrive_at": "12:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein guter Ort für eine Mittagspause mit Blick auf den Fluss.",
+            "hu": "Jó hely egy ebédre a folyóra néző kilátással.",
+            "ro": "Un loc bun pentru o pauză de prânz cu vedere la râu.",
+            "en": "A good place for a lunch break with views over the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Roker und Seaburn Strände",
+            "hu": "Roker és Seaburn strandok",
+            "ro": "Plajele Roker și Seaburn",
+            "en": "Roker and Seaburn Beaches"
+          },
+          "coords": [
+            -1.3601,
+            54.9205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:14",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die Promenade ist ideal zum Radfahren und Leute beobachten.",
+            "hu": "A sétány ideális kerékpározásra és nézelődésre.",
+            "ro": "Promenada este perfectă pentru ciclism și privit oamenii.",
+            "en": "The promenade is perfect for cycling and people-watching."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunderland Museum & Winter Gardens",
+            "hu": "Sunderland Múzeum és Téli Kert",
+            "ro": "Muzeul și Grădinile de Iarnă din Sunderland",
+            "en": "Sunderland Museum & Winter Gardens"
+          },
+          "coords": [
+            -1.3858,
+            54.9045
+          ],
+          "category": "museums",
+          "arrive_at": "16:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem schnellen Besuch der Kunstgalerie.",
+            "hu": "Zárja a túrát egy gyors látogatással a művészeti galériában.",
+            "ro": "Încheiați turul cu o vizită rapidă la galeria de artă.",
+            "en": "End your tour with a quick visit to the art gallery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag im Mowbray Park und machen Sie sich dann auf den Weg nach Westen zum historischen Hylton Castle. Diese längere Fahrt gibt Ihnen einen Einblick in die Umgebung der Stadt, bevor Sie zum Kern des historischen Sunderland zurückkehren. Von Hylton aus fahren Sie zurück zum Fluss Wear und folgen dem Weg nach Osten zur St. Peter's Church. Die Route am Flussufer ist eine der besten Radstrecken der Stadt. Sie werden die alte Kirche und dann das benachbarte National Glass Centre für eine längere Mittagspause besuchen. Am Nachmittag fahren Sie die kurze Strecke nach Norden zu den Stränden Roker und Seaburn. Die Promenade ist perfekt für eine gemütliche Radtour, bei der Sie die Meeresbrise genießen. Beenden Sie den Tag mit einer entspannten Fahrt zurück ins Stadtzentrum. Fahren Sie vom Strand landeinwärts und beenden Sie Ihren Tag mit einem kurzen Besuch des Sunderland Museums, um Ihre Erkundungstour abzurunden, bevor Sie Ihr Fahrrad zurückgeben.",
+        "hu": "Kezdje a kerékpáros napot a Mowbray Parkban, majd tekerjen nyugat felé a történelmi Hylton-kastélyhoz. Ez a hosszabb út bepillantást enged a város környékébe, mielőtt visszatérne Sunderland történelmi magjába. Hyltonból tekerjen vissza a Wear folyóhoz, és kövesse az ösvényt kelet felé a Szent Péter-templomig. A folyóparti útvonal a város egyik legjobb kerékpáros szakasza. Megnézi az ősi templomot, majd a szomszédos Nemzeti Üvegközpontot egy hosszabb ebédszünetre. Délután tekerjen észak felé a Roker és Seaburn strandokhoz. A sétány tökéletes egy kellemes biciklizéshez, élvezve a tengeri szellőt. Zárja a napot egy laza tekeréssel vissza a városközpontba. A partról induljon befelé, és fejezze be a napot egy rövid látogatással a Sunderland Múzeumban, hogy teljes legyen a felfedezőútja, mielőtt leadná a kerékpárt.",
+        "ro": "Începeți-vă ziua pe bicicletă în Parcul Mowbray, apoi îndreptați-vă spre vest spre istoricul Castel Hylton. Această plimbare mai lungă vă oferă o perspectivă asupra împrejurimilor orașului înainte de a vă întoarce la nucleul istoric al Sunderlandului. De la Hylton, pedalați înapoi spre râul Wear și urmați poteca spre est până la Biserica Sf. Petru. Traseul de pe malul râului este una dintre cele mai bune plimbări cu bicicleta din oraș. Veți vizita biserica veche și apoi Centrul Național al Sticlei, aflat în apropiere, pentru o pauză de prânz mai lungă. După-amiaza, faceți o scurtă plimbare spre nord, spre plajele Roker și Seaburn. Promenada este perfectă pentru o plimbare relaxantă cu bicicleta, bucurându-vă de briza mării. Încheiați ziua cu o plimbare relaxată înapoi în centrul orașului. De la plajă, îndreptați-vă spre interior și încheiați ziua cu o vizită rapidă la Muzeul Sunderland pentru a completa explorarea înainte de a preda bicicleta.",
+        "en": "Start your cycling day at Mowbray Park, then head west to the historic Hylton Castle. This longer ride gives you a glimpse of the city's surroundings before looping back to Sunderland's historic core. From Hylton, cycle back towards the River Wear and follow the path east to St Peter's Church. The riverside route is one of the city's best cycling stretches. You'll visit the ancient church and then the neighbouring National Glass Centre for a longer lunch stop. In the afternoon, take the short ride north to Roker and Seaburn beaches. The promenade is perfect for a leisurely cycle, enjoying the sea breeze. Finish the day with a relaxed ride back to the city centre. Head inland from the beach and end your day with a quick visit to Sunderland Museum to round off your exploration before returning your bike."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fausto Coffee",
+            "tip": "Ein bei Radfahrern beliebter Ort in Roker für Kaffee und Kuchen."
+          },
+          {
+            "name": "Grannie Annie's",
+            "tip": "Traditionelles Pub-Essen in einer gemütlichen Atmosphäre."
+          },
+          {
+            "name": "Minchella's",
+            "tip": "Ein Muss für Eiscreme an der Seaburn-Küste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fausto Coffee",
+            "tip": "Kerékpárosok körében népszerű hely Rokerben kávéra és süteményre."
+          },
+          {
+            "name": "Grannie Annie's",
+            "tip": "Hagyományos pub-ételek egy hangulatos környezetben."
+          },
+          {
+            "name": "Minchella's",
+            "tip": "Kötelező fagylaltozó a Seaburn tengerparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fausto Coffee",
+            "tip": "Un loc popular printre cicliști în Roker pentru cafea și prăjituri."
+          },
+          {
+            "name": "Grannie Annie's",
+            "tip": "Mâncare tradițională de pub într-o atmosferă primitoare."
+          },
+          {
+            "name": "Minchella's",
+            "tip": "O oprire obligatorie pentru înghețată pe faleza din Seaburn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fausto Coffee",
+            "tip": "A popular spot with cyclists in Roker for coffee and cake."
+          },
+          {
+            "name": "Grannie Annie's",
+            "tip": "Traditional pub food in a cosy atmosphere."
+          },
+          {
+            "name": "Minchella's",
+            "tip": "A must-try for ice cream on the Seaburn seafront."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Penshaw Monument",
+            "tip": "Wenn Sie Zeit haben, ist die Aussicht von hier aus an einem klaren Tag unschlagbar.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fulwell Lime Kilns",
+            "tip": "Ein ruhiger Ort, um ein einzigartiges Stück Industriegeschichte zu sehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Uferweg des Flusses Wear",
+            "tip": "Der Weg bietet viele ruhige Abschnitte abseits der Hauptstraßen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Penshaw-emlékmű",
+            "tip": "Ha van ideje, a kilátás innen tiszta napon verhetetlen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fulwell mészégető kemencék",
+            "tip": "Csendes hely egy egyedülálló ipari emlék megtekintéséhez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wear folyóparti ösvény",
+            "tip": "Az ösvény sok csendes szakaszt kínál a főutaktól távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monumentul Penshaw",
+            "tip": "Dacă aveți timp, priveliștea de aici într-o zi senină este imbatabilă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cuptoarele de var de la Fulwell",
+            "tip": "Un loc liniștit pentru a vedea o bucată unică de istorie industrială.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Calea de pe malul râului Wear",
+            "tip": "Calea oferă multe porțiuni liniștite, departe de drumurile principale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Penshaw Monument",
+            "tip": "If you have time, the view from here on a clear day is unbeatable.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fulwell Lime Kilns",
+            "tip": "A quiet spot to see a unique piece of industrial history.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "River Wear Path",
+            "tip": "The path offers many quiet sections away from main roads.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Local Independent Shops in Roker",
+            "tip": "Durchstöbern Sie die kleinen Geschäfte für einzigartige Geschenke."
+          },
+          {
+            "name": "Park Lane Market",
+            "tip": "Ein kleinerer Markt mit lokalen Produkten und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi független boltok Rokerben",
+            "tip": "Böngésszen a kis üzletekben egyedi ajándékokért."
+          },
+          {
+            "name": "Park Lane piac",
+            "tip": "Kisebb piac helyi termékekkel és kézműves árukkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale independente în Roker",
+            "tip": "Răsfoiți micile magazine pentru cadouri unice."
+          },
+          {
+            "name": "Piața Park Lane",
+            "tip": "O piață mai mică cu produse și meșteșuguri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Independent Shops in Roker",
+            "tip": "Browse the small shops for unique gifts."
+          },
+          {
+            "name": "Park Lane Market",
+            "tip": "A smaller market featuring local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Sunderland hat einige Hügel, seien Sie also auf Steigungen vorbereitet.",
+          "Benutzen Sie Fahrradschlösser an allen Haltestellen.",
+          "Viele Wege werden mit Fußgängern geteilt, fahren Sie also rücksichtsvoll.",
+          "Der Wind an der Küste kann stark sein."
+        ],
+        "hu": [
+          "Sunderlandben vannak dombok, tehát készüljön emelkedőkre.",
+          "Minden megállónál használjon kerékpárzárat.",
+          "Sok ösvényt gyalogosokkal kell megosztani, ezért vezessen figyelmesen.",
+          "A tengerparti szél erős lehet."
+        ],
+        "ro": [
+          "Sunderland are câteva dealuri, așa că fiți pregătiți pentru pante.",
+          "Folosiți lacăte pentru bicicletă la toate opririle.",
+          "Multe căi sunt partajate cu pietonii, așa că circulați cu atenție.",
+          "Vântul de pe coastă poate fi puternic."
+        ],
+        "en": [
+          "Sunderland has some hills, so be prepared for inclines.",
+          "Use bike locks at all stops.",
+          "Many paths are shared with pedestrians, so ride considerately.",
+          "The wind on the coast can be strong."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 31.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Penshaw Monument",
+            "hu": "Penshaw-emlékmű",
+            "ro": "Monumentul Penshaw",
+            "en": "Penshaw Monument"
+          },
+          "coords": [
+            -1.45,
+            54.887
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie früh hierher, um die beste Aussicht und weniger Menschenmassen zu haben.",
+            "hu": "Érkezzen ide korán a legjobb kilátásért és a kevesebb tömegért.",
+            "ro": "Conduceți aici devreme pentru cele mai bune priveliști și mai puține aglomerații.",
+            "en": "Drive here early for the best views and fewer crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Hylton Castle",
+            "hu": "Hylton-kastély",
+            "ro": "Castelul Hylton",
+            "en": "Hylton Castle"
+          },
+          "coords": [
+            -1.435,
+            54.923
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie und erkunden Sie das Gelände dieses beeindruckenden mittelalterlichen Torhauses.",
+            "hu": "Parkoljon le, és fedezze fel ennek a lenyűgöző középkori kaputoronynak a területét.",
+            "ro": "Parcați și explorați terenul acestei porți medievale impresionante.",
+            "en": "Park up and explore the grounds of this impressive medieval gatehouse."
+          }
+        },
+        {
+          "name": {
+            "de": "National Glass Centre",
+            "hu": "Nemzeti Üvegközpont",
+            "ro": "Centrul Național al Sticlei",
+            "en": "National Glass Centre"
+          },
+          "coords": [
+            -1.3638,
+            54.9133
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Spaziergang am Flussufer.",
+            "hu": "Parkoljon le itt, és kezdje a sétát a folyóparton.",
+            "ro": "Parcați aici și începeți plimbarea pe malul râului.",
+            "en": "Park here and start your riverside cluster walk."
+          }
+        },
+        {
+          "name": {
+            "de": "St Peter's Church",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "St Peter's Church"
+          },
+          "coords": [
+            -1.3655,
+            54.9125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Glass Centre entfernt, der die Geschichte der Region zeigt.",
+            "hu": "Rövid séta az Üvegközponttól, bemutatva a régió történelmét.",
+            "ro": "O scurtă plimbare de la Centrul de Sticlă, prezentând istoria zonei.",
+            "en": "A short walk from the Glass Centre, showcasing the area's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Roker und Seaburn Strände",
+            "hu": "Roker és Seaburn strandok",
+            "ro": "Plajele Roker și Seaburn",
+            "en": "Roker and Seaburn Beaches"
+          },
+          "coords": [
+            -1.3601,
+            54.9205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Strandparkplatz und genießen Sie einen Spaziergang an der Küste.",
+            "hu": "Vezessen a tengerparti parkolóba, és élvezze a tengerparti sétát.",
+            "ro": "Conduceți până la parcarea de pe plajă pentru o plimbare pe coastă.",
+            "en": "Drive to the beach car park for a coastal walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunderland Museum & Winter Gardens",
+            "hu": "Sunderland Múzeum és Téli Kert",
+            "ro": "Muzeul și Grădinile de Iarnă din Sunderland",
+            "en": "Sunderland Museum & Winter Gardens"
+          },
+          "coords": [
+            -1.3858,
+            54.9045
+          ],
+          "category": "museums",
+          "arrive_at": "15:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum, um den letzten Erkundungs-Cluster zu beginnen.",
+            "hu": "Parkoljon a városközpontban az utolsó felfedező körúthoz.",
+            "ro": "Parcați în centrul orașului pentru ultimul grup de explorare.",
+            "en": "Park in the city centre for the final cluster of exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Mowbray Park",
+            "hu": "Mowbray Park",
+            "ro": "Parcul Mowbray",
+            "en": "Mowbray Park"
+          },
+          "coords": [
+            -1.3845,
+            54.9031
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:12",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang zum Abschluss des Tages, direkt neben dem Museum.",
+            "hu": "Egy pihentető séta a nap végén, közvetlenül a múzeum mellett.",
+            "ro": "O plimbare relaxantă pentru a încheia ziua, chiar lângă muzeu.",
+            "en": "A relaxing walk to end the day, right next to the museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt zum beeindruckenden Penshaw Monument für eine Panoramaaussicht am frühen Morgen. Von dort aus ist es eine kurze Fahrt zum Hylton Castle, um Sunderlands mittelalterliche Vergangenheit zu erkunden. Diese beiden Orte bilden Ihren ersten Cluster, bevor Sie ins Stadtzentrum fahren. Fahren Sie als Nächstes zum Flussufer und parken Sie am National Glass Centre. Dies ist Ihr zweiter Cluster. Nach der Erkundung des Zentrums machen Sie einen kurzen Spaziergang zur benachbarten St. Peter's Church, um die anglo-sächsische Geschichte aufzusaugen, gefolgt von einem Mittagessen mit Blick auf den Fluss. Nach dem Mittagessen fahren Sie eine kurze Strecke zur Küste, um Ihren dritten Cluster zu bilden. Parken Sie in der Nähe von Roker und machen Sie einen belebenden Spaziergang entlang der Promenade zu den Seaburn Beaches, um die Meeresbrise zu genießen und vielleicht ein Eis zu essen. Schließen Sie Ihren Tag ab, indem Sie zurück ins Herz der Stadt fahren. Parken Sie in der Nähe des Sunderland Museums, um einen letzten Spaziergang durch den Mowbray Park zu machen, und beenden Sie Ihren Besuch mit der Kultur und dem Grün des Stadtzentrums.",
+        "hu": "Kezdje a napot egy autózással a lenyűgöző Penshaw-emlékműhöz egy kora reggeli panorámáért. Onnan rövid autóút a Hylton-kastély, ahol felfedezheti Sunderland középkori múltját. Ez a két hely alkotja az első csoportot, mielőtt a városközpont felé veszi az irányt. Ezután vezessen a folyóparthoz, és parkoljon a Nemzeti Üvegközpontnál. Ez a második csoportja. A központ felfedezése után tegyen egy rövid sétát a szomszédos Szent Péter-templomhoz, hogy magába szívja az angolszász történelmet, majd ebédeljen a folyóra néző kilátással. Ebéd után tegyen egy rövid autóutat a tengerpartra a harmadik csoporthoz. Parkoljon Roker közelében, és tegyen egy élénkítő sétát a sétányon a Seaburn strandok felé, élvezve a tengeri szellőt és esetleg egy fagylaltot. Zárja a napot azzal, hogy visszavezet a város szívébe. Parkoljon a Sunderland Múzeum közelében egy utolsó sétára a Mowbray Parkban, és fejezze be látogatását a városközpont kultúrájával és zöldjével.",
+        "ro": "Începeți ziua cu o plimbare cu mașina până la impunătorul Monument Penshaw pentru o priveliște panoramică de dimineață. De acolo, este o scurtă călătorie cu mașina până la Castelul Hylton pentru a explora trecutul medieval al Sunderlandului. Aceste două situri formează primul dvs. grup înainte de a vă îndrepta spre centrul orașului. Apoi, conduceți spre malul râului și parcați la Centrul Național al Sticlei. Acesta este al doilea grup al dumneavoastră. După ce explorați centrul, faceți o scurtă plimbare până la Biserica Sf. Petru din apropiere pentru a absorbi istoria anglo-saxonă, urmată de prânz cu vedere la râu. După prânz, faceți o scurtă plimbare cu mașina până la coastă pentru al treilea grup. Parcați lângă Roker și faceți o plimbare revigorantă de-a lungul promenadei până la plajele Seaburn, bucurându-vă de briza mării și poate de o înghețată. Încheiați ziua conducând înapoi în inima orașului. Parcați lângă Muzeul Sunderland pentru o ultimă plimbare prin Parcul Mowbray, încheindu-vă vizita cu cultura și verdeața din centrul orașului.",
+        "en": "Start your day by driving to the impressive Penshaw Monument for an early morning panoramic view. From there, it's a short drive to Hylton Castle to explore Sunderland's medieval past. These two sites form your first cluster before heading into the city proper. Next, drive to the riverside and park at the National Glass Centre. This is your second cluster. After exploring the centre, take a short walk to the neighbouring St Peter's Church to absorb the Anglo-Saxon history, followed by lunch overlooking the river. After lunch, take a short drive to the coast for your third cluster. Park near Roker and take an invigorating stroll along the promenade to Seaburn Beaches, enjoying the sea air and perhaps an ice cream. Conclude your day by driving back into the heart of the city. Park near Sunderland Museum for a final wander through Mowbray Park, finishing your visit with the culture and greenery of the city centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Scullery",
+            "tip": "Eine beliebte Wahl in der Nähe von Roker, die für ihre Sonntagsbraten bekannt ist."
+          },
+          {
+            "name": "The Stables at Beamish Hall",
+            "tip": "Ein Pub mit Charakter und Brauerei in der Nähe des Penshaw Monuments."
+          },
+          {
+            "name": "The Bridges",
+            "tip": "Der Food Court bietet schnelle und einfache Optionen, wenn Sie wenig Zeit haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Scullery",
+            "tip": "Népszerű választás Roker közelében, vasárnapi sültjeiről ismert."
+          },
+          {
+            "name": "The Stables at Beamish Hall",
+            "tip": "Karakteres pub és sörfőzde a Penshaw-emlékmű közelében."
+          },
+          {
+            "name": "The Bridges",
+            "tip": "Az ételudvar gyors és egyszerű lehetőségeket kínál, ha kevés az ideje."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Scullery",
+            "tip": "O alegere populară lângă Roker, cunoscută pentru fripturile de duminică."
+          },
+          {
+            "name": "The Stables at Beamish Hall",
+            "tip": "Un pub cu caracter și berărie, aproape de Monumentul Penshaw."
+          },
+          {
+            "name": "The Bridges",
+            "tip": "Zona de restaurante oferă opțiuni rapide și ușoare dacă sunteți presat de timp."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Scullery",
+            "tip": "A popular choice near Roker, known for its Sunday roasts."
+          },
+          {
+            "name": "The Stables at Beamish Hall",
+            "tip": "A characterful pub and brewery, located near Penshaw Monument."
+          },
+          {
+            "name": "The Bridges",
+            "tip": "The food court offers quick and easy options if you're short on time."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Washington Wetland Centre",
+            "tip": "Eine kurze Autofahrt entfernt, ideal für Vogelbeobachtung und ruhige Spaziergänge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Herrington Country Park",
+            "tip": "Unterhalb des Penshaw Monuments, mit Seen und Skulpturenwegen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Der geheime Garten in Mowbray Park",
+            "tip": "Ein abgeschiedener Bereich im belebten Stadtpark.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Washington Wetland Centre",
+            "tip": "Rövid autóútra, ideális madármegfigyeléshez és csendes sétákhoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Herrington Country Park",
+            "tip": "A Penshaw-emlékmű alatt, tavakkal és szoborösvényekkel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A titkos kert a Mowbray Parkban",
+            "tip": "Elzárt terület a forgalmas városi parkban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul de zone umede Washington",
+            "tip": "La o scurtă distanță cu mașina, excelent pentru observarea păsărilor și plimbări liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Herrington Country Park",
+            "tip": "Sub Monumentul Penshaw, cu lacuri și trasee de sculptură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina secretă din Parcul Mowbray",
+            "tip": "O zonă retrasă în parcul aglomerat al orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Washington Wetland Centre",
+            "tip": "A short drive away, excellent for bird watching and quiet walks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Herrington Country Park",
+            "tip": "Below Penshaw Monument, featuring lakes and sculpture trails.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The secret garden in Mowbray Park",
+            "tip": "A secluded area within the busy city park.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dalton Park Outlet",
+            "tip": "Eine kurze Autofahrt entfernt für günstige Designermarken."
+          },
+          {
+            "name": "Souvenirladen im National Glass Centre",
+            "tip": "Einzigartige Glasgeschenke und Kunstwerke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalton Park Outlet",
+            "tip": "Rövid autóútra a kedvezményes dizájner márkákért."
+          },
+          {
+            "name": "A Nemzeti Üvegközpont ajándékboltja",
+            "tip": "Egyedi üvegajándékok és műalkotások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dalton Park Outlet",
+            "tip": "La o scurtă distanță cu mașina pentru mărci de designer la preț redus."
+          },
+          {
+            "name": "Magazinul de suveniruri de la National Glass Centre",
+            "tip": "Cadouri unice din sticlă și opere de artă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalton Park Outlet",
+            "tip": "A short drive away for discount designer brands."
+          },
+          {
+            "name": "National Glass Centre Gift Shop",
+            "tip": "Unique glass gifts and artwork."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkgebühren und -zeiten im Voraus.",
+          "Der Verkehr kann zu Stoßzeiten stark sein, planen Sie also entsprechend.",
+          "Nutzen Sie eine Navigations-App, um sich in der Stadt zurechtzufinden.",
+          "Ein Auto gibt Ihnen die Flexibilität, abgelegenere Orte wie Penshaw zu besuchen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási díjakat és időket.",
+          "A forgalom csúcsidőben sűrű lehet, tervezzen ennek megfelelően.",
+          "Használjon navigációs alkalmazást a városban való tájékozódáshoz.",
+          "Az autó rugalmasságot ad a távolabbi helyek, például Penshaw meglátogatásához."
+        ],
+        "ro": [
+          "Verificați în avans taxele și orele de parcare.",
+          "Traficul poate fi aglomerat la orele de vârf, așa că planificați-vă în consecință.",
+          "Folosiți o aplicație de navigație pentru a vă deplasa prin oraș.",
+          "O mașină vă oferă flexibilitatea de a vizita locuri mai îndepărtate, cum ar fi Penshaw."
+        ],
+        "en": [
+          "Check parking charges and times in advance.",
+          "Traffic can be heavy during peak hours, so plan accordingly.",
+          "Use a navigation app to get around the city.",
+          "A car gives you the flexibility to visit more outlying sites like Penshaw."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 8.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sunderland Museum & Winter Gardens",
+            "hu": "Sunderland Múzeum és Téli Kert",
+            "ro": "Muzeul și Grădinile de Iarnă din Sunderland",
+            "en": "Sunderland Museum & Winter Gardens"
+          },
+          "coords": [
+            -1.3858,
+            54.9045
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, da es vom Hauptbahnhof aus leicht zu erreichen ist.",
+            "hu": "Kezdje itt, mivel a főpályaudvarról könnyen megközelíthető.",
+            "ro": "Începeți de aici, deoarece este ușor accesibil de la gara principală.",
+            "en": "Start here as it's easily accessible from the main train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Mowbray Park",
+            "hu": "Mowbray Park",
+            "ro": "Parcul Mowbray",
+            "en": "Mowbray Park"
+          },
+          "coords": [
+            -1.3845,
+            54.9031
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang nach dem Museumsbesuch.",
+            "hu": "Egy pihentető séta a múzeumlátogatás után.",
+            "ro": "O plimbare relaxantă după vizita la muzeu.",
+            "en": "A relaxing walk after the museum visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunderland Empire Theatre",
+            "hu": "Sunderland Empire Színház",
+            "ro": "Teatrul Empire din Sunderland",
+            "en": "Sunderland Empire Theatre"
+          },
+          "coords": [
+            -1.389,
+            54.906
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:36",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf dieses architektonische Juwel, bevor Sie den Bus nehmen.",
+            "hu": "Vessen egy pillantást erre az építészeti gyöngyszemre, mielőtt felszáll a buszra.",
+            "ro": "Aruncați o privire la această bijuterie arhitecturală înainte de a lua autobuzul.",
+            "en": "Have a look at this architectural gem before catching the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "St Peter's Church",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "St Peter's Church"
+          },
+          "coords": [
+            -1.3655,
+            54.9125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die U-Bahn-Station St. Peter's ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "A St. Peter's metrómegálló rövid sétára található.",
+            "ro": "Stația de metrou St Peter's este la o scurtă plimbare.",
+            "en": "The St. Peter's metro station is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "National Glass Centre",
+            "hu": "Nemzeti Üvegközpont",
+            "ro": "Centrul Național al Sticlei",
+            "en": "National Glass Centre"
+          },
+          "coords": [
+            -1.3638,
+            54.9133
+          ],
+          "category": "museums",
+          "arrive_at": "13:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie das Mittagessen im Café, bevor Sie Ihren Spaziergang am Flussufer fortsetzen.",
+            "hu": "Ebédeljen a kávézóban, mielőtt folytatja a folyóparti sétát.",
+            "ro": "Bucurați-vă de prânz la cafenea înainte de a continua plimbarea pe râu.",
+            "en": "Enjoy lunch at the cafe before continuing your riverside walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Roker und Seaburn Strände",
+            "hu": "Roker és Seaburn strandok",
+            "ro": "Plajele Roker și Seaburn",
+            "en": "Roker and Seaburn Beaches"
+          },
+          "coords": [
+            -1.3601,
+            54.9205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zahlreiche Buslinien verbinden das Stadtzentrum mit der Küste.",
+            "hu": "Számos buszjárat köti össze a városközpontot a tengerparttal.",
+            "ro": "Numeroase rute de autobuz leagă centrul orașului de coastă.",
+            "en": "Numerous bus routes connect the city centre to the coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Erkundungstour im Stadtzentrum mit einem Besuch des Sunderland Museums und einem Spaziergang durch den Mowbray Park. Diese Gegend ist ein kompakter Spaziergang-Cluster, der vom Hauptverkehrsknotenpunkt aus leicht zu erreichen ist und auch das Empire Theatre umfasst. Am Mittag nehmen Sie die U-Bahn oder einen Bus von der Park Lane zum Bezirk St. Peter's. Dieser Transit-Hop bringt Sie zu Ihrem zweiten Cluster, der sich um das historische Erbe am Flussufer dreht und das National Glass Centre und die St. Peter's Church umfasst. Erkunden Sie diese zu Fuß. Am Nachmittag nehmen Sie einen weiteren Bus vom Gebiet St. Peter's entlang der Küstenstraße zu den Stränden Roker und Seaburn. Dies ist Ihr dritter und letzter Cluster, der perfekt für einen langen Spaziergang entlang der Promenade ist, um die Meeresluft zu genießen. Schließen Sie Ihren Tag ab, indem Sie einen Bus von der Küste zurück ins Stadtzentrum nehmen. Dieser bequeme Transitplan ermöglicht es Ihnen, drei verschiedene Bereiche von Sunderland zu erleben: das städtische Zentrum, das historische Flussufer und die belebende Küste.",
+        "hu": "Kezdje a felfedezést a városközpontban a Sunderland Múzeum meglátogatásával és a Mowbray Parkban tett sétával. Ez a terület egy kompakt, gyalogos csoport, amely könnyen elérhető a fő közlekedési csomópontból, és magában foglalja az Empire Színházat is. Délben szálljon metróra vagy buszra a Park Lane-ről a Szent Péter negyedbe. Ez a közlekedési ugrás elviszi a második csoporthoz, amely a folyóparti történelmi örökség köré összpontosul, beleértve a Nemzeti Üvegközpontot és a Szent Péter-templomot. Ezeket gyalog fedezze fel. Délután szálljon egy másik buszra a Szent Péter területről a tengerparti úton a Roker és Seaburn strandokhoz. Ez a harmadik és egyben utolsó csoportja, amely tökéletes egy hosszú sétához a sétányon, élvezve a tengeri levegőt. Zárja a napot azzal, hogy busszal visszamegy a partról a városközpontba. Ez a kényelmes közlekedési terv lehetővé teszi, hogy Sunderland három különböző területét tapasztalja meg: a városi központot, a történelmi folyópartot és az élénkítő tengerpartot.",
+        "ro": "Începeți explorarea în centrul orașului cu o vizită la Muzeul Sunderland și o plimbare prin Parcul Mowbray. Această zonă este un grup compact de plimbare, ușor accesibil de la principalul nod de transport, incluzând și Teatrul Empire. La prânz, luați metroul sau un autobuz de pe Park Lane spre cartierul St. Peter. Această călătorie cu transportul în comun vă va duce la al doilea grup, centrat pe patrimoniul istoric de pe malul râului, acoperind Centrul Național al Sticlei și Biserica Sf. Petru. Explorați-le pe jos. După-amiaza, luați un alt autobuz din zona St. Peter de-a lungul drumului de coastă spre plajele Roker și Seaburn. Acesta este al treilea și ultimul grup, perfect pentru o plimbare lungă de-a lungul promenadei pentru a vă bucura de aerul mării. Încheiați ziua luând un autobuz de la coastă înapoi în centrul orașului. Acest itinerar convenabil cu transportul în comun vă permite să experimentați trei zone distincte ale Sunderlandului: centrul urban, malul istoric al râului și coasta revigorantă.",
+        "en": "Begin your exploration in the city centre with a visit to Sunderland Museum and a walk through Mowbray Park. This area is a compact walking cluster, easily accessible from the main transport hub and also taking in the Empire Theatre. At midday, catch the Metro or a bus from Park Lane to the St. Peter's district. This transit hop will take you to your second cluster, centred around the riverside heritage, covering the National Glass Centre and St Peter's Church. Explore these on foot. In the afternoon, take another bus from the St. Peter's area along the coast road to Roker and Seaburn beaches. This is your third and final cluster, perfect for a long stroll along the promenade to enjoy the sea air. Conclude your day by catching a bus from the coast back to the city centre. This convenient transit plan allows you to experience three distinct areas of Sunderland: its urban core, historic riverside, and invigorating coastline."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Good Apple Cafe",
+            "tip": "Ein beliebtes vegetarisches Café im Stadtzentrum."
+          },
+          {
+            "name": "The Shipwrights",
+            "tip": "Ein Pub am Flussufer in der Nähe des Glass Centre mit gutem Essen."
+          },
+          {
+            "name": "Love Lily",
+            "tip": "Berühmt für seine Pfannkuchen und dekadenten Süßspeisen, in der Nähe des Strandes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Good Apple Cafe",
+            "tip": "Népszerű vegetáriánus kávézó a városközpontban."
+          },
+          {
+            "name": "The Shipwrights",
+            "tip": "Folyóparti pub az Üvegközpont közelében, jó ételekkel."
+          },
+          {
+            "name": "Love Lily",
+            "tip": "Híres palacsintáiról és dekadens édességeiről, a strand közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Good Apple Cafe",
+            "tip": "O cafenea vegetariană populară în centrul orașului."
+          },
+          {
+            "name": "The Shipwrights",
+            "tip": "Un pub pe malul râului, lângă Centrul de Sticlă, cu mâncare bună."
+          },
+          {
+            "name": "Love Lily",
+            "tip": "Faimos pentru clătitele sale și deserturile decadente, aproape de plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Good Apple Cafe",
+            "tip": "A popular vegetarian cafe in the city centre."
+          },
+          {
+            "name": "The Shipwrights",
+            "tip": "A riverside pub near the Glass Centre with good food."
+          },
+          {
+            "name": "Love Lily",
+            "tip": "Famous for its pancakes and decadent sweet treats, near the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Roker Park",
+            "tip": "Ein ruhigerer Park hinter dem belebteren Strandbereich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Bibliothek im Sunderland Museum",
+            "tip": "Ein ruhiger Ort, um der Hektik zu entfliehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang des Wear",
+            "tip": "Der Weg westlich von St. Peter's ist oft sehr friedlich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Roker Park",
+            "tip": "Csendesebb park a forgalmasabb tengerparti rész mögött.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Sunderland Múzeum könyvtára",
+            "tip": "Csendes hely a nyüzsgés elől való meneküléshez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Wear mentén",
+            "tip": "A Szent Pétertől nyugatra eső ösvény gyakran nagyon békés.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Roker",
+            "tip": "Un parc mai liniștit în spatele zonei mai aglomerate de pe plajă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biblioteca de la Muzeul Sunderland",
+            "tip": "Un spațiu liniștit pentru a evada din agitație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului Wear",
+            "tip": "Poteca la vest de St. Peter's este adesea foarte pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Roker Park",
+            "tip": "A quieter park set back from the busier beach area.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The Library at Sunderland Museum",
+            "tip": "A quiet space to escape the hustle and bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the River Wear",
+            "tip": "The path west of St. Peter's is often very peaceful.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Blandford Street",
+            "tip": "Bekannt für ihre unabhängigen Geschäfte und Boutiquen."
+          },
+          {
+            "name": "Fawcett Street",
+            "tip": "Heimat vieler Fachgeschäfte und Dienstleistungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Blandford Street",
+            "tip": "Független üzleteiről és butikjairól ismert."
+          },
+          {
+            "name": "Fawcett Street",
+            "tip": "Sok szaküzletnek és szolgáltatásnak ad otthont."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Blandford",
+            "tip": "Cunoscută pentru magazinele și buticurile sale independente."
+          },
+          {
+            "name": "Strada Fawcett",
+            "tip": "Găzduiește multe magazine și servicii specializate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Blandford Street",
+            "tip": "Known for its independent shops and boutiques."
+          },
+          {
+            "name": "Fawcett Street",
+            "tip": "Home to many of the city's specialist shops and services."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die U-Bahn und den Bus, um Geld zu sparen.",
+          "Überprüfen Sie die Fahrpläne im Voraus, insbesondere für den letzten Bus zurück.",
+          "Halten Sie Kleingeld für Busfahrkarten bereit, obwohl die meisten kontaktlos sind.",
+          "Die U-Bahn kann eine schnellere Option als der Bus zwischen dem Zentrum und St. Peter's sein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a metróra és a buszra, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a menetrendeket, különösen az utolsó busz visszaindulását.",
+          "Készítsen aprópénzt a buszjegyekhez, bár a legtöbb érintésmentes.",
+          "A metró gyorsabb lehet, mint a busz a központ és Szent Péter között."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru metrou și autobuz pentru a economisi bani.",
+          "Verificați orarele în avans, în special pentru ultimul autobuz înapoi.",
+          "Aveți la îndemână bani mărunți pentru biletele de autobuz, deși majoritatea sunt contactless.",
+          "Metroul poate fi o opțiune mai rapidă decât autobuzul între centru și St. Peter's."
+        ],
+        "en": [
+          "Buy a day-rider ticket for the metro and bus to save money.",
+          "Check timetables in advance, especially for the last bus back.",
+          "Have some change ready for bus fares, although most are contactless.",
+          "The Metro can be a quicker option than the bus between the centre and St. Peter's."
+        ]
+      }
+    }
+  }
+}

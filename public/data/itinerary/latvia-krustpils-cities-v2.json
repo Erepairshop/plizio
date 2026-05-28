@@ -1,0 +1,1196 @@
+{
+  "city_id": "latvia-krustpils-cities-v2",
+  "anchor": {
+    "name": "Krustpils",
+    "coords": [
+      25.8675,
+      56.5053
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 2.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Alter Marktplatz",
+            "hu": "Régi Piactér",
+            "ro": "Piața Veche",
+            "en": "Old Market Square"
+          },
+          "coords": [
+            25.866,
+            56.5045
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der kleinen Cafés am Platz.",
+            "hu": "Indítsa a napot egy kávéval a tér egyik kis kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre micile cafenele din piață.",
+            "en": "Start your day with a coffee at one of the small cafes on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nikolaus-Orthodoxe-Kirche",
+            "hu": "Szent Miklós ortodox templom",
+            "ro": "Biserica Ortodoxă Sfântul Nicolae",
+            "en": "St. Nicholas Orthodox Church"
+          },
+          "coords": [
+            25.868,
+            56.503
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Ikonostase und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a lenyűgöző ikonosztázt és a békés légkört.",
+            "ro": "Observați iconostasul impresionant și atmosfera liniștită.",
+            "en": "Pay attention to the impressive iconostasis and the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Krustpils",
+            "hu": "Krustpilsi kastély",
+            "ro": "Castelul Krustpils",
+            "en": "Krustpils Castle"
+          },
+          "coords": [
+            25.865,
+            56.506
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Schlossturm bietet einen guten Überblick über die Stadt und die Daugava.",
+            "hu": "A kastélytoronyból jó kilátás nyílik a városra és a Daugava folyóra.",
+            "ro": "Turnul castelului oferă o priveliște bună asupra orașului și a râului Daugava.",
+            "en": "The castle tower offers a good view over the city and the Daugava River."
+          }
+        },
+        {
+          "name": {
+            "de": "Geschichtsmuseum Jēkabpils",
+            "hu": "Jēkabpilsi Történeti Múzeum",
+            "ro": "Muzeul de Istorie din Jēkabpils",
+            "en": "Jēkabpils History Museum"
+          },
+          "coords": [
+            25.8645,
+            56.5062
+          ],
+          "category": "museums",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im Schloss, also planen Sie den Besuch direkt im Anschluss.",
+            "hu": "A múzeum a kastélyban található, így tervezze a látogatást közvetlenül utána.",
+            "ro": "Muzeul este situat în castel, așa că planificați vizita imediat după.",
+            "en": "The museum is located within the castle, so plan your visit right after."
+          }
+        },
+        {
+          "name": {
+            "de": "Daugava-Brücke",
+            "hu": "Daugava-híd",
+            "ro": "Podul peste Daugava",
+            "en": "Daugava Bridge"
+          },
+          "coords": [
+            25.858,
+            56.505
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:31",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang zur Mitte der Brücke lohnt sich für die Aussicht auf den Fluss.",
+            "hu": "Érdemes elsétálni a híd közepéig a folyóra nyíló kilátásért.",
+            "ro": "O plimbare până la mijlocul podului merită pentru vederea asupra râului.",
+            "en": "A walk to the middle of the bridge is worth it for the view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelisch-Lutherische Kirche Krustpils",
+            "hu": "Krustpilsi evangélikus-lutheránus templom",
+            "ro": "Biserica Evanghelică-Luterană din Krustpils",
+            "en": "Krustpils Evangelical Lutheran Church"
+          },
+          "coords": [
+            25.87,
+            56.501
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die schlichte, aber elegante Architektur im nordischen Stil.",
+            "hu": "Vegye észre az egyszerű, mégis elegáns északi stílusú építészetet.",
+            "ro": "Remarcați arhitectura simplă, dar elegantă, în stil nordic.",
+            "en": "Notice the simple yet elegant Nordic-style architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kena-Park",
+            "hu": "Kena park",
+            "ro": "Parcul Kena",
+            "en": "Kena Park"
+          },
+          "coords": [
+            25.875,
+            56.508
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag ausklingen zu lassen und die Natur zu genießen.",
+            "hu": "Tökéletes hely a nap befejezéséhez és a természet élvezetéhez.",
+            "ro": "Locul perfect pentru a încheia ziua și a vă bucura de natură.",
+            "en": "The perfect place to end the day and enjoy nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Krustpils beginnt am historischen Marktplatz, dem pulsierenden Herzen der Stadt. Am Vormittag erkunden Sie die spirituelle Seite mit Besuchen der orthodoxen und lutherischen Kirchen, unterbrochen von der Erkundung des mächtigen Schlosses Krustpils. Der Mittag ist der reichen Geschichte der Region im Museum gewidmet, das sich direkt im Schloss befindet. Am Nachmittag überqueren Sie die beeindruckende Daugava-Brücke und finden Ruhe im grünen Kena-Park, wo Sie den Tag entspannt ausklingen lassen.",
+        "hu": "Sétája Krustpilsben a történelmi piactéren, a város lüktető szívében kezdődik. A délelőttöt a spirituális oldal felfedezésével tölti, meglátogatva az ortodox és evangélikus templomokat, melyet a hatalmas Krustpilsi kastély felfedezése szakít meg. Az ebédidő a régió gazdag történelmének van szentelve a kastélyban található múzeumban. Délután átkel a lenyűgöző Daugava-hídon, majd békére lel a zöldellő Kena parkban, ahol pihenéssel zárhatja a napot.",
+        "ro": "Plimbarea dvs. prin Krustpils începe în Piața Veche istorică, inima vibrantă a orașului. Dimineața explorați latura spirituală cu vizite la bisericile ortodoxă și luterană, întrerupte de explorarea impunătorului Castel Krustpils. Prânzul este dedicat istoriei bogate a regiunii la muzeul situat chiar în castel. După-amiaza, traversați impresionantul pod peste Daugava și găsiți liniște în Parcul Kena, unde vă puteți încheia ziua relaxându-vă.",
+        "en": "Your walk through Krustpils begins at the historic Old Market Square, the vibrant heart of the city. The morning is for exploring the spiritual side with visits to the Orthodox and Lutheran churches, punctuated by exploring the mighty Krustpils Castle. Midday is dedicated to the region's rich history at the museum located right in the castle. In the afternoon, you'll cross the impressive Daugava Bridge and find peace in the green Kena Park, where you can end the day relaxing."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Graue Erbsen mit Speck",
+            "tip": "Ein herzhaftes lettisches Nationalgericht, perfekt für ein stärkendes Mittagessen."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Probieren Sie das dunkle Roggenbrot, eine lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szürke borsó szalonnával",
+            "tip": "Kiadós lett nemzeti étel, tökéletes egy tartalmas ebédhez."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Kóstolja meg a sötét rozskenyeret, egy helyi különlegességet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mazăre gri cu șuncă",
+            "tip": "Un fel de mâncare național leton consistent, perfect pentru un prânz copios."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Încercați pâinea neagră de secară, o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grey peas with bacon",
+            "tip": "A hearty Latvian national dish, perfect for a filling lunch."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Try the dark rye bread, a local specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Daugava",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kena-Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Stille der Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Daugava partja",
+            "tip": "Egy csendes séta a folyó mentén naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kena park",
+            "tip": "Keressen egy csendes padot, és élvezze a természet csendjét.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Daugava",
+            "tip": "O plimbare liniștită de-a lungul râului la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Kena",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de liniștea naturii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Daugava River",
+            "tip": "A quiet walk along the river at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kena Park",
+            "tip": "Find a quiet bench and enjoy the silence of nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie nach handgefertigten Leinen- und Holzprodukten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített len- és fatermékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați produse artizanale din in și lemn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local handicrafts",
+            "tip": "Look for handmade linen and wooden products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, also ist dies der ideale Weg, um die Stadt zu erkunden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A legtöbb látnivaló gyalogosan elérhető, így ez az ideális módja a város felfedezésének."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele din centrul vechi pot fi denivelate.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos, deci acesta este modul ideal de a explora orașul."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights are within walking distance, so this is the ideal way to explore the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 4.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Alter Marktplatz",
+            "hu": "Régi Piactér",
+            "ro": "Piața Veche",
+            "en": "Old Market Square"
+          },
+          "coords": [
+            25.866,
+            56.5045
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, amíg felfedezi a teret.",
+            "ro": "Asigurați-vă bicicleta în timp ce explorați piața.",
+            "en": "Lock your bike securely while you explore the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Krustpils",
+            "hu": "Krustpilsi kastély",
+            "ro": "Castelul Krustpils",
+            "en": "Krustpils Castle"
+          },
+          "coords": [
+            25.865,
+            56.506
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Fahrradweg führt direkt am Schloss vorbei.",
+            "hu": "A kerékpárút közvetlenül a kastély mellett vezet el.",
+            "ro": "Pista de biciclete trece chiar pe lângă castel.",
+            "en": "The bike path goes right past the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Geschichtsmuseum Jēkabpils",
+            "hu": "Jēkabpilsi Történeti Múzeum",
+            "ro": "Muzeul de Istorie din Jēkabpils",
+            "en": "Jēkabpils History Museum"
+          },
+          "coords": [
+            25.8645,
+            56.5062
+          ],
+          "category": "museums",
+          "arrive_at": "10:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Schlosseingang ab, um das Museum zu besuchen.",
+            "hu": "Parkolja le a kerékpárt a kastély bejáratánál a múzeumlátogatáshoz.",
+            "ro": "Parcați bicicleta la intrarea în castel pentru a vizita muzeul.",
+            "en": "Park your bike at the castle entrance to visit the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Daugava-Brücke",
+            "hu": "Daugava-híd",
+            "ro": "Podul peste Daugava",
+            "en": "Daugava Bridge"
+          },
+          "coords": [
+            25.858,
+            56.505
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:31",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Vorsicht beim Überqueren, es kann windig sein!",
+            "hu": "Óvatosan keljen át, szeles lehet!",
+            "ro": "Atenție la traversare, poate fi vânt!",
+            "en": "Be careful when crossing, it can be windy!"
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nikolaus-Orthodoxe-Kirche",
+            "hu": "Szent Miklós ortodox templom",
+            "ro": "Biserica Ortodoxă Sfântul Nicolae",
+            "en": "St. Nicholas Orthodox Church"
+          },
+          "coords": [
+            25.868,
+            56.503
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Flussufer entfernt, leicht mit dem Fahrrad zu erreichen.",
+            "hu": "Rövid tekerés a folyóparttól, könnyen elérhető kerékpárral.",
+            "ro": "La o scurtă plimbare cu bicicleta de malul râului, ușor accesibil.",
+            "en": "A short ride from the riverbank, easily accessible by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelisch-Lutherische Kirche Krustpils",
+            "hu": "Krustpilsi evangélikus-lutheránus templom",
+            "ro": "Biserica Evanghelică-Luterană din Krustpils",
+            "en": "Krustpils Evangelical Lutheran Church"
+          },
+          "coords": [
+            25.87,
+            56.501
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die beiden Hauptkirchen der Stadt liegen nur eine kurze Radtour voneinander entfernt.",
+            "hu": "A város két fő temploma csak egy rövid bicikliútra van egymástól.",
+            "ro": "Cele două biserici principale ale orașului sunt la o scurtă plimbare cu bicicleta una de cealaltă.",
+            "en": "The city's two main churches are just a short bike ride apart."
+          }
+        },
+        {
+          "name": {
+            "de": "Kena-Park",
+            "hu": "Kena park",
+            "ro": "Parcul Kena",
+            "en": "Kena Park"
+          },
+          "coords": [
+            25.875,
+            56.508
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt Radwege durch den Park, ideal für eine entspannte Fahrt.",
+            "hu": "A parkon keresztül kerékpárutak vezetnek, ideálisak egy laza tekeréshez.",
+            "ro": "Există piste de biciclete prin parc, ideale pentru o plimbare relaxantă.",
+            "en": "There are bike paths through the park, ideal for a relaxed ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Fernsehturm Jēkabpils",
+            "hu": "Jēkabpilsi TV-torony",
+            "ro": "Turnul TV din Jēkabpils",
+            "en": "Jēkabpils TV Tower"
+          },
+          "coords": [
+            25.885,
+            56.498
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein interessanter Kontrast zur historischen Architektur. Nur von außen zu besichtigen.",
+            "hu": "Érdekes kontraszt a történelmi építészettel. Csak kívülről látogatható.",
+            "ro": "Un contrast interesant cu arhitectura istorică. Vizitabil doar din exterior.",
+            "en": "An interesting contrast to the historical architecture. Can only be viewed from the outside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Krustpils flexibel und umweltfreundlich. Der Tag startet am Marktplatz, bevor Sie zum Schloss und dem darin gelegenen Museum radeln. Die Daugava-Brücke bietet eine willkommene Herausforderung mit toller Aussicht. Am Nachmittag führt Ihre Route Sie zu den beiden Hauptkirchen der Stadt und durch den erholsamen Kena-Park. Die Tour schließt mit einem Blick auf den Fernsehturm, ein Symbol der modernen Zeit, bevor Sie den Abend genießen.",
+        "hu": "Kerékpárral rugalmasan és környezetbarát módon fedezheti fel Krustpilst. A nap a piactéren indul, mielőtt a kastélyhoz és a benne található múzeumhoz teker. A Daugava-híd kellemes kihívást és remek kilátást kínál. Délután az útvonal a város két fő templomához és a pihentető Kena parkon keresztül vezet. A túra a modern kor szimbólumának számító TV-torony megtekintésével zárul, mielőtt élvezné az estét.",
+        "ro": "Cu bicicleta, explorați Krustpils într-un mod flexibil și ecologic. Ziua începe în Piața Veche, înainte de a pedala spre castel și muzeul din interior. Podul Daugava oferă o provocare binevenită cu priveliști minunate. După-amiaza, traseul vă duce la cele două biserici principale ale orașului și prin relaxantul Parc Kena. Turul se încheie cu o privire la Turnul TV, un simbol al timpurilor moderne, înainte de a vă bucura de seară.",
+        "en": "By bike, you can explore Krustpils flexibly and eco-friendly. The day starts at the Market Square before you cycle to the castle and its museum. The Daugava Bridge offers a welcome challenge with great views. In the afternoon, your route takes you to the city's two main churches and through the relaxing Kena Park. The tour concludes with a look at the TV Tower, a symbol of modern times, before you enjoy the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Ein süßer oder salziger Karotten- und Kartoffelkuchen, ein toller Snack für unterwegs."
+          },
+          {
+            "name": "Birkensaft",
+            "tip": "Ein erfrischendes lokales Getränk, besonders im Frühling."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Édes vagy sós sárgarépa- és burgonyapite, remek úti snack."
+          },
+          {
+            "name": "Nyírfalé",
+            "tip": "Frissítő helyi ital, különösen tavasszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sklandrausis",
+            "tip": "O plăcintă dulce sau sărată cu morcovi și cartofi, o gustare excelentă pentru drum."
+          },
+          {
+            "name": "Sevă de mesteacăn",
+            "tip": "O băutură locală răcoritoare, mai ales primăvara."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sklandrausis",
+            "tip": "A sweet or savory carrot and potato pie, a great snack on the go."
+          },
+          {
+            "name": "Birch sap",
+            "tip": "A refreshing local drink, especially in spring."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang der Daugava",
+            "tip": "Eine ruhige Fahrt mit Blick auf den Fluss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Ecken im Kena-Park",
+            "tip": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die kleineren Pfade zu Fuß.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Daugava mentén",
+            "tip": "Csendes tekerés a folyóra néző kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rejtett zugok a Kena parkban",
+            "tip": "Tegye le a biciklit és fedezze fel a kisebb ösvényeket gyalog.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Daugavei",
+            "tip": "O plimbare liniștită cu vedere la râu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colțuri ascunse în Parcul Kena",
+            "tip": "Lăsați bicicleta și explorați cărările mai mici pe jos.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Daugava",
+            "tip": "A quiet ride with a view of the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden corners in Kena Park",
+            "tip": "Park your bike and explore the smaller paths on foot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Lettland ist bekannt für seinen Bernstein. Halten Sie Ausschau nach einzigartigen Stücken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Lettország híres a borostyánjáról. Keressen egyedi darabokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Letonia este renumită pentru chihlimbarul său. Căutați piese unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Amber jewelry",
+            "tip": "Latvia is famous for its amber. Look for unique pieces."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Ein Fahrradschloss ist unerlässlich, um Ihr Rad bei den Stopps zu sichern."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "A kerékpárzár elengedhetetlen, hogy biztosítsa a kerékpárt a megállók alatt."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Un lacăt de bicicletă este esențial pentru a vă asigura bicicleta la opriri."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "A bike lock is essential to secure your bike at stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Krustpils",
+            "hu": "Krustpilsi kastély",
+            "ro": "Castelul Krustpils",
+            "en": "Krustpils Castle"
+          },
+          "coords": [
+            25.865,
+            56.506
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier. Dies ist der Ausgangspunkt für den ersten Rundgang.",
+            "hu": "Parkoljon itt. Ez az első séta kiindulópontja.",
+            "ro": "Parcați aici. Acesta este punctul de plecare pentru primul grup de obiective.",
+            "en": "Park here. This is the starting point for the first walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Marktplatz",
+            "hu": "Régi Piactér",
+            "ro": "Piața Veche",
+            "en": "Old Market Square"
+          },
+          "coords": [
+            25.866,
+            56.5045
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss entfernt, lassen Sie das Auto stehen.",
+            "hu": "Rövid séta a kastélytól, hagyja az autót a parkolóban.",
+            "ro": "La o scurtă plimbare de castel, lăsați mașina parcată.",
+            "en": "A short walk from the castle, leave the car parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Geschichtsmuseum Jēkabpils",
+            "hu": "Jēkabpilsi Történeti Múzeum",
+            "ro": "Muzeul de Istorie din Jēkabpils",
+            "en": "Jēkabpils History Museum"
+          },
+          "coords": [
+            25.8645,
+            56.5062
+          ],
+          "category": "museums",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zurück zum Schloss, um das Museum zu erkunden.",
+            "hu": "Sétáljon vissza a kastélyhoz a múzeum felfedezéséhez.",
+            "ro": "Întoarceți-vă la castel pentru a explora muzeul.",
+            "en": "Walk back towards the castle to explore the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Daugava-Brücke",
+            "hu": "Daugava-híd",
+            "ro": "Podul peste Daugava",
+            "en": "Daugava Bridge"
+          },
+          "coords": [
+            25.858,
+            56.505
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:43",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt des ersten Rundgangs, bevor Sie zum Auto zurückkehren.",
+            "hu": "Az első séta utolsó állomása, mielőtt visszatérne az autóhoz.",
+            "ro": "Ultima oprire din primul grup, înainte de a vă întoarce la mașină.",
+            "en": "The last stop of the first cluster before you return to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Kena-Park",
+            "hu": "Kena park",
+            "ro": "Parcul Kena",
+            "en": "Kena Park"
+          },
+          "coords": [
+            25.875,
+            56.508
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Es gibt Parkplätze in der Nähe des Parks.",
+            "hu": "Vezessen a második ponthoz. A park közelében talál parkolót.",
+            "ro": "Conduceți spre al doilea grup de obiective. Există parcare lângă parc.",
+            "en": "Drive to the second cluster. There is parking available near the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Fernsehturm Jēkabpils",
+            "hu": "Jēkabpilsi TV-torony",
+            "ro": "Turnul TV din Jēkabpils",
+            "en": "Jēkabpils TV Tower"
+          },
+          "coords": [
+            25.885,
+            56.498
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park aus, um eine andere Seite der Stadt zu sehen.",
+            "hu": "Rövid séta a parkból, hogy megnézze a város egy másik oldalát.",
+            "ro": "O scurtă plimbare din parc pentru a vedea o altă față a orașului.",
+            "en": "A short walk from the park to see a different side of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto genießen Sie den Komfort, zwischen den Hauptbereichen von Krustpils zu wechseln. Sie parken am Schloss und erkunden den historischen Kern zu Fuß: den Marktplatz, das Schloss selbst und das Museum. Nach einem Spaziergang zur Daugava-Brücke fahren Sie am Nachmittag zum grünen Kena-Park. Von dort aus ist es nur ein kurzer Spaziergang zum Fernsehturm, der einen interessanten industriellen Kontrapunkt setzt, bevor Sie den Tag abschließen.",
+        "hu": "Autóval élvezheti a kényelmet, hogy Krustpils főbb részei között váltson. A kastélynál parkol, és gyalog fedezi fel a történelmi központot: a piacteret, magát a kastélyt és a múzeumot. A Daugava-hídhoz tett séta után délután a zöldellő Kena parkhoz hajt. Onnan már csak egy rövid séta a TV-torony, amely érdekes ipari ellenpontot képez, mielőtt lezárná a napot.",
+        "ro": "Cu mașina, vă bucurați de confortul de a vă deplasa între zonele principale din Krustpils. Parcați la castel și explorați nucleul istoric pe jos: piața, castelul însuși și muzeul. După o plimbare până la podul Daugava, după-amiaza conduceți spre verdele Parc Kena. De acolo, este doar o scurtă plimbare până la Turnul TV, care oferă un contrapunct industrial interesant înainte de a încheia ziua.",
+        "en": "With a car, you enjoy the comfort of switching between the main areas of Krustpils. You park at the castle and explore the historic core on foot: the market square, the castle itself, and the museum. After a walk to the Daugava Bridge, you drive to the green Kena Park in the afternoon. From there, it's just a short walk to the TV Tower, which provides an interesting industrial counterpoint before you end your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthaus am Fluss",
+            "tip": "Suchen Sie ein Restaurant mit Blick auf die Daugava für ein malerisches Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fogadó a folyónál",
+            "tip": "Keressen egy Daugavára néző éttermet egy festői ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe malul râului",
+            "tip": "Căutați un restaurant cu vedere la Daugava pentru un prânz pitoresc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside Inn",
+            "tip": "Look for a restaurant with a view of the Daugava for a scenic lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatz am Kena-Park",
+            "tip": "Nach dem Parken einen Moment die Ruhe genießen, bevor es weitergeht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parkoló a Kena parknál",
+            "tip": "Parkolás után élvezze egy pillanatra a csendet, mielőtt továbbmegy.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcarea de la Parcul Kena",
+            "tip": "După parcare, bucurați-vă de un moment de liniște înainte de a continua.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kena Park Parking",
+            "tip": "After parking, enjoy a moment of peace before moving on.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden außerhalb der Stadt",
+            "tip": "Wenn Sie Zeit haben, fahren Sie zu einem der Bauernhöfe in der Umgebung für frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a városon kívül",
+            "tip": "Ha van ideje, vezessen el a környék egyik farmjára friss termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor din afara orașului",
+            "tip": "Dacă aveți timp, conduceți la una dintre fermele din zonă pentru produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops outside the city",
+            "tip": "If you have time, drive to one of the surrounding farms for fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein Navigationsgerät ist hilfreich, um zwischen den Clustern zu navigieren."
+        ],
+        "hu": [
+          "Előzetesen tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "A navigációs eszköz segít a klaszterek közötti navigációban."
+        ],
+        "ro": [
+          "Informați-vă în avans despre opțiunile și taxele de parcare.",
+          "Un dispozitiv de navigație este util pentru a naviga între grupuri."
+        ],
+        "en": [
+          "Find out about parking options and fees in advance.",
+          "A navigation device is helpful for navigating between clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Alter Marktplatz",
+            "hu": "Régi Piactér",
+            "ro": "Piața Veche",
+            "en": "Old Market Square"
+          },
+          "coords": [
+            25.866,
+            56.5045
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die zentrale Bushaltestelle liegt in der Nähe. Ein idealer Startpunkt.",
+            "hu": "A központi buszmegálló a közelben van. Ideális kiindulópont.",
+            "ro": "Stația centrală de autobuz este în apropiere. Un punct de plecare ideal.",
+            "en": "The central bus stop is nearby. An ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Krustpils",
+            "hu": "Krustpilsi kastély",
+            "ro": "Castelul Krustpils",
+            "en": "Krustpils Castle"
+          },
+          "coords": [
+            25.865,
+            56.506
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Platz aus leicht zu Fuß erreichbar.",
+            "hu": "A térről könnyen megközelíthető gyalog.",
+            "ro": "Ușor accesibil pe jos din piață.",
+            "en": "Easily accessible on foot from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Daugava-Brücke",
+            "hu": "Daugava-híd",
+            "ro": "Podul peste Daugava",
+            "en": "Daugava Bridge"
+          },
+          "coords": [
+            25.858,
+            56.505
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:01",
+          "stay_min": 20,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Schloss zum Fluss.",
+            "hu": "Szép séta a kastélytól a folyóig.",
+            "ro": "O plimbare frumoasă de la castel la râu.",
+            "en": "A nice walk from the castle to the river."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nikolaus-Orthodoxe-Kirche",
+            "hu": "Szent Miklós ortodox templom",
+            "ro": "Biserica Ortodoxă Sfântul Nicolae",
+            "en": "St. Nicholas Orthodox Church"
+          },
+          "coords": [
+            25.868,
+            56.503
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt im Stadtzentrum, bevor Sie den Bus nehmen.",
+            "hu": "Az utolsó megálló a városközpontban, mielőtt buszra szállna.",
+            "ro": "Ultima oprire în centrul orașului înainte de a lua autobuzul.",
+            "en": "The last stop in the city center before you take the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelisch-Lutherische Kirche Krustpils",
+            "hu": "Krustpilsi evangélikus-lutheránus templom",
+            "ro": "Biserica Evanghelică-Luterană din Krustpils",
+            "en": "Krustpils Evangelical Lutheran Church"
+          },
+          "coords": [
+            25.87,
+            56.501
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum nächsten Cluster. Die Haltestelle ist in der Nähe.",
+            "hu": "Vegyen egy helyi buszt a következő ponthoz. A megálló a közelben van.",
+            "ro": "Luați un autobuz local spre următorul grup. Stația este în apropiere.",
+            "en": "Take a local bus to the next cluster. The stop is nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kena-Park",
+            "hu": "Kena park",
+            "ro": "Parcul Kena",
+            "en": "Kena Park"
+          },
+          "coords": [
+            25.875,
+            56.508
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche zum Park, um den Tag ausklingen zu lassen.",
+            "hu": "Rövid séta a templomtól a parkig a nap lezárásaként.",
+            "ro": "O scurtă plimbare de la biserică la parc pentru a încheia ziua.",
+            "en": "A short walk from the church to the park to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erleben Sie Krustpils wie ein Einheimischer. Ihr Tag beginnt im Zentrum, wo Sie den Marktplatz, das Schloss und das Ufer der Daugava zu Fuß erkunden. Eine kurze Busfahrt am Mittag bringt Sie in einen anderen Teil der Stadt, wo Sie die lutherische Kirche bewundern und im Kena-Park entspannen können. Diese Tour kombiniert effizient Spaziergänge mit kurzen Fahrten für ein umfassendes Stadterlebnis.",
+        "hu": "A tömegközlekedéssel úgy élheti át Krustpilst, mint egy helyi. A nap a központban kezdődik, ahol gyalog fedezi fel a piacteret, a kastélyt és a Daugava partját. Egy rövid buszút délben egy másik városrészbe visz, ahol megcsodálhatja az evangélikus templomot és pihenhet a Kena parkban. Ez a túra hatékonyan ötvözi a sétákat a rövid utazásokkal egy átfogó városi élményért.",
+        "ro": "Folosind transportul public, experimentați Krustpils ca un localnic. Ziua începe în centru, unde explorați pe jos Piața, castelul și malul Daugavei. O scurtă călătorie cu autobuzul la prânz vă duce într-o altă parte a orașului, unde puteți admira biserica luterană și vă puteți relaxa în Parcul Kena. Acest tur combină eficient plimbările cu călătorii scurte pentru o experiență urbană completă.",
+        "en": "Using public transport, you can experience Krustpils like a local. Your day begins in the center, where you explore the Market Square, the castle, and the Daugava riverbank on foot. A short bus ride at midday takes you to another part of the city, where you can admire the Lutheran church and relax in Kena Park. This tour efficiently combines walks with short rides for a comprehensive city experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konditorei",
+            "tip": "Suchen Sie nach einer Bäckerei in der Nähe einer Bushaltestelle für einen schnellen, süßen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cukrászda",
+            "tip": "Keressen egy pékséget egy buszmegálló közelében egy gyors, édes harapnivalóért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cofetărie",
+            "tip": "Căutați o patiserie lângă o stație de autobuz pentru o gustare rapidă și dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastry shop",
+            "tip": "Look for a bakery near a bus stop for a quick, sweet snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt über die Daugava",
+            "tip": "Genießen Sie die Aussicht aus dem Busfenster, wenn Sie den Fluss überqueren.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utazás a Daugava felett",
+            "tip": "Élvezze a kilátást a busz ablakából, amikor átkel a folyón.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria peste Daugava",
+            "tip": "Bucurați-vă de priveliștea de la fereastra autobuzului când traversați râul.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ride over the Daugava",
+            "tip": "Enjoy the view from the bus window as you cross the river.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk an der Haltestelle",
+            "tip": "Kaufen Sie eine lokale Zeitung oder ein Magazin für die Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a megállóban",
+            "tip": "Vásároljon egy helyi újságot vagy magazint a buszútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc din stație",
+            "tip": "Cumpărați un ziar sau o revistă locală pentru călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus stop",
+            "tip": "Buy a local newspaper or magazine for the bus ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die lokale Fahrplan-App herunter, um die Abfahrtszeiten zu überprüfen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a helyi menetrend-alkalmazást az indulási idők ellenőrzéséhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația locală de transport public pentru a verifica orele de plecare."
+        ],
+        "en": [
+          "Buy a day ticket for unlimited travel.",
+          "Download the local transport app to check departure times."
+        ]
+      }
+    }
+  }
+}

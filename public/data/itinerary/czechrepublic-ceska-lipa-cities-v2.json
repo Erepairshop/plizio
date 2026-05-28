@@ -1,0 +1,1501 @@
+{
+  "city_id": "czechrepublic-ceska-lipa-cities-v2",
+  "anchor": {
+    "name": "Böhmisch Leipa",
+    "coords": [
+      14.5378,
+      50.6855
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Marktplatz",
+            "hu": "Érkezés a Fő térre",
+            "ro": "Sosire în Piața Centrală",
+            "en": "Arrival at the Main Square"
+          },
+          "coords": [
+            14.5375,
+            50.6865
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Alte Rathaus und die Pestsäule in der Mitte.",
+            "hu": "Csodálja meg a régi városházát és a központi pestisoszlopot.",
+            "ro": "Admirați Vechea Primărie și coloana ciumei din centru.",
+            "en": "Admire the Old Town Hall and the plague column in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Kreuz-Kirche",
+            "hu": "Szent Kereszt-templom",
+            "ro": "Biserica Sfânta Cruce",
+            "en": "Church of the Holy Cross"
+          },
+          "coords": [
+            14.5392,
+            50.6871
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die barocke Innenausstattung und die Deckenfresken.",
+            "hu": "Figyelje meg a barokk belső teret és a mennyezeti freskókat.",
+            "ro": "Observați interiorul baroc și frescele de pe tavan.",
+            "en": "Pay attention to the baroque interior and the ceiling frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Augustinerkloster & Museum",
+            "hu": "Ágoston-rendi kolostor és Múzeum",
+            "ro": "Mănăstirea Augustiniană și Muzeul",
+            "en": "Augustinian Monastery & Museum"
+          },
+          "coords": [
+            14.5399,
+            50.6885
+          ],
+          "category": "museums",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Museum beherbergt eine beeindruckende Sammlung zur Regionalgeschichte.",
+            "hu": "A múzeum lenyűgöző gyűjteményt őriz a régió történelméről.",
+            "ro": "Muzeul găzduiește o colecție impresionantă despre istoria regională.",
+            "en": "The museum houses an impressive collection on regional history."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserburg Lipý",
+            "hu": "Lipý Vízivár",
+            "ro": "Castelul de apă Lipý",
+            "en": "Lipý Water Castle"
+          },
+          "coords": [
+            14.5321,
+            50.683
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen und den Innenhof dieser einzigartigen gotischen Burg.",
+            "hu": "Fedezze fel ennek az egyedülálló gótikus várnak a romjait és udvarát.",
+            "ro": "Explorați ruinele și curtea acestui castel gotic unic.",
+            "en": "Explore the ruins and the courtyard of this unique Gothic castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            14.5365,
+            50.6858
+          ],
+          "category": "gastro",
+          "arrive_at": "13:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Probieren Sie die böhmische Küche in einem der traditionellen Restaurants.",
+            "hu": "Kóstolja meg a cseh konyhát egy hagyományos étteremben.",
+            "ro": "Încercați bucătăria boemă la unul dintre restaurantele tradiționale.",
+            "en": "Try some Bohemian cuisine in one of the traditional restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi park",
+            "ro": "Parcul Municipal",
+            "en": "City Park"
+          },
+          "coords": [
+            14.5445,
+            50.684
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang am Nachmittag.",
+            "hu": "Tökéletes hely egy pihentető délutáni sétához.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă de după-amiază.",
+            "en": "A perfect spot for a relaxing afternoon walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Špičák Aussichtsturm",
+            "hu": "Špičák-kilátó",
+            "ro": "Turnul de observație Špičák",
+            "en": "Špičák Lookout Tower"
+          },
+          "coords": [
+            14.551,
+            50.6795
+          ],
+          "category": "natural features",
+          "arrive_at": "17:12",
+          "stay_min": 43,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die Stadt und die Lausitzer Berge.",
+            "hu": "Élvezze a panorámát a városra és a Lausitzi-hegységre.",
+            "ro": "Bucurați-vă de vederea panoramică asupra orașului și a Munților Lusatian.",
+            "en": "Enjoy the panoramic view over the city and the Lusatian Mountains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Böhmisch Leipa beginnt am historischen Marktplatz, dem pulsierenden Herzen der Stadt. Am Vormittag erkunden Sie das religiöse und kulturelle Erbe, darunter das Augustinerkloster. Nach dem Mittagessen in einem traditionellen böhmischen Restaurant entdecken Sie die einzigartige Wasserburg Lipý. Der Nachmittag ist einem entspannten Spaziergang durch den Stadtpark gewidmet, bevor Sie den Tag mit einem atemberaubenden Panoramablick vom Špičák-Aussichtsturm abschließen, der einen weiten Blick über die malerische Landschaft bietet.",
+        "hu": "Böhmisch Leipa-i napja a történelmi Fő téren, a város lüktető szívében kezdődik. Délelőtt felfedezi a vallási és kulturális örökséget, köztük az Ágoston-rendi kolostort. Egy hagyományos cseh étteremben elköltött ebéd után a különleges Lipý vízvár várja. A délután egy pihentető sétával telik a városi parkban, mielőtt a napot a Špičák-kilátóból nyíló lélegzetelállító panorámával zárja, ahonnan messzire ellátni a festői tájon.",
+        "ro": "Ziua dvs. în Böhmisch Leipa începe în Piața Centrală istorică, inima vibrantă a orașului. Dimineața explorați moștenirea religioasă și culturală, inclusiv Mănăstirea Augustiniană. După prânzul la un restaurant tradițional boem, veți descoperi unicul castel de apă Lipý. După-amiaza este dedicată unei plimbări relaxante prin Parcul Municipal, înainte de a încheia ziua cu o priveliște panoramică uluitoare de la turnul de observație Špičák, care oferă o vedere amplă asupra peisajului pitoresc.",
+        "en": "Your day in Böhmisch Leipa begins at the historic Main Square, the vibrant heart of the city. In the morning, you'll explore the religious and cultural heritage, including the Augustinian Monastery. After lunch at a traditional Bohemian restaurant, you will discover the unique Lipý water castle. The afternoon is dedicated to a relaxing walk through the City Park, before concluding the day with a breathtaking panoramic view from the Špičák lookout tower, offering a wide vista over the picturesque landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Rinderbraten in Sahnesauce mit Knödeln, ein tschechischer Klassiker."
+          },
+          {
+            "name": "Knedlo-vepřo-zelo",
+            "tip": "Schweinebraten mit Knödeln und Sauerkraut."
+          },
+          {
+            "name": "Restaurant U Bílého Lva",
+            "tip": "Traditionelle Atmosphäre und authentische Gerichte im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Vadas marhaszelet tejszínes mártással és knédlivel, egy cseh klasszikus."
+          },
+          {
+            "name": "Knedlo-vepřo-zelo",
+            "tip": "Sertéssült knédlivel és savanyú káposztával."
+          },
+          {
+            "name": "Restaurant U Bílého Lva",
+            "tip": "Hagyományos hangulat és autentikus ételek a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Friptură de vită în sos de smântână cu găluște, un clasic ceh."
+          },
+          {
+            "name": "Knedlo-vepřo-zelo",
+            "tip": "Friptură de porc cu găluște și varză murată."
+          },
+          {
+            "name": "Restaurant U Bílého Lva",
+            "tip": "Atmosferă tradițională și mâncăruri autentice în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Marinated beef sirloin in cream sauce with dumplings, a Czech classic."
+          },
+          {
+            "name": "Knedlo-vepřo-zelo",
+            "tip": "Roast pork with dumplings and sauerkraut."
+          },
+          {
+            "name": "Restaurant U Bílého Lva",
+            "tip": "Traditional atmosphere and authentic dishes in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Ploučnice",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, abseits des Trubels.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark am späten Nachmittag",
+            "tip": "Finden Sie eine Bank und genießen Sie die Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht vom Špičák-Turm",
+            "tip": "Der Sonnenuntergang von hier oben ist besonders friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Ploučnice folyó partja",
+            "tip": "Egy csendes séta a folyó mentén, távol a nyüzsgéstől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városi park késő délután",
+            "tip": "Keressen egy padot és élvezze a csendet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Špičák-toronyból",
+            "tip": "A naplemente innen fentről különösen békés.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Ploučnice",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Municipal spre seară",
+            "tip": "Găsiți o bancă și bucurați-vă de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliștea de pe turnul Špičák",
+            "tip": "Apusul de soare de aici este deosebit de pașnic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Ploučnice River",
+            "tip": "A quiet walk along the river, away from the hustle and bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "City Park in the late afternoon",
+            "tip": "Find a bench and enjoy the tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Špičák Tower",
+            "tip": "The sunset from up here is especially peaceful.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Böhmisches Glas",
+            "tip": "Suchen Sie nach handgefertigten Glaswaren, einer berühmten regionalen Spezialität."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie Ausschau nach kleinen Märkten mit lokalen Produkten und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cseh kristály",
+            "tip": "Keressen kézzel készített üvegárut, a régió híres különlegességét."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a helyi termékeket és kézműves árukat kínáló kis piacokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cristal de Boemia",
+            "tip": "Căutați articole de sticlă lucrate manual, o specialitate regională renumită."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Fiți atenți la piețele mici cu produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bohemian Glass",
+            "tip": "Look for handmade glassware, a famous regional specialty."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Keep an eye out for small markets with local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie genügend Zeit für den Aufstieg zum Špičák-Turm ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "A központi látnivalók többsége könnyen elérhető gyalog.",
+          "Szánjon elég időt a Špičák-torony megmászására."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați suficient timp pentru urcarea la turnul Špičák."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Most sights in the center are easily reachable on foot.",
+          "Allow enough time for the climb up to Špičák tower."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start am Marktplatz",
+            "hu": "Kerékpárbérlés és indulás a Fő térről",
+            "ro": "Închiriere bicicletă și start din Piața Centrală",
+            "en": "Bike Rental & Start at the Main Square"
+          },
+          "coords": [
+            14.5378,
+            50.6855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie Ihr Fahrrad und die Route, bevor Sie losfahren.",
+            "hu": "Indulás előtt ellenőrizze a kerékpárt és az útvonalat.",
+            "ro": "Verificați bicicleta și traseul înainte de a porni.",
+            "en": "Check your bike and route before you set off."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Kreuz-Kirche",
+            "hu": "Szent Kereszt-templom",
+            "ro": "Biserica Sfânta Cruce",
+            "en": "Church of the Holy Cross"
+          },
+          "coords": [
+            14.5392,
+            50.6871
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárt, mielőtt belép a templomba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în biserică.",
+            "en": "Lock your bike securely before entering the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Augustinerkloster & Museum",
+            "hu": "Ágoston-rendi kolostor és Múzeum",
+            "ro": "Mănăstirea Augustiniană și Muzeul",
+            "en": "Augustinian Monastery & Museum"
+          },
+          "coords": [
+            14.5399,
+            50.6885
+          ],
+          "category": "museums",
+          "arrive_at": "10:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die Exponate in Ruhe zu betrachten.",
+            "hu": "Szánjon elég időt a kiállítási tárgyak nyugodt megtekintésére.",
+            "ro": "Planificați suficient timp pentru a vedea exponatele în tihnă.",
+            "en": "Allow enough time to view the exhibits at your leisure."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserburg Lipý",
+            "hu": "Lipý Vízivár",
+            "ro": "Castelul de apă Lipý",
+            "en": "Lipý Water Castle"
+          },
+          "coords": [
+            14.5321,
+            50.683
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Abstecher vom Stadtzentrum.",
+            "hu": "Egy rövid, de megérő kitérő a városközponttól.",
+            "ro": "Un ocol scurt, dar care merită, din centrul orașului.",
+            "en": "A short but worthwhile detour from the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrumstextil",
+            "hu": "Zentrumstextil",
+            "ro": "Zentrumstextil",
+            "en": "Zentrumstextil"
+          },
+          "coords": [
+            14.529,
+            50.69
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:47",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Blick auf die industrielle Vergangenheit der Stadt.",
+            "hu": "Egy rövid bepillantás a város ipari múltjába.",
+            "ro": "O scurtă privire asupra trecutului industrial al orașului.",
+            "en": "A brief look at the city's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            14.5365,
+            50.6858
+          ],
+          "category": "gastro",
+          "arrive_at": "13:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stärken Sie sich für die Radtour am Nachmittag.",
+            "hu": "Erősítsen a délutáni kerékpártúrára.",
+            "ro": "Întăriți-vă pentru turul de biciclete de după-amiază.",
+            "en": "Refuel for the afternoon bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour zum Stadtpark",
+            "hu": "Kerékpártúra a Városi Parkba",
+            "ro": "Tur cu bicicleta la Parcul Municipal",
+            "en": "Bike ride to the City Park"
+          },
+          "coords": [
+            14.5445,
+            50.684
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt durch die grünen Lungen der Stadt.",
+            "hu": "Élvezze a tekerést a város zöld tüdején keresztül.",
+            "ro": "Bucurați-vă de plimbarea prin plămânii verzi ai orașului.",
+            "en": "Enjoy the ride through the city's green lungs."
+          }
+        },
+        {
+          "name": {
+            "de": "Špičák Aussichtsturm",
+            "hu": "Špičák-kilátó",
+            "ro": "Turnul de observație Špičák",
+            "en": "Špičák Lookout Tower"
+          },
+          "coords": [
+            14.551,
+            50.6795
+          ],
+          "category": "natural features",
+          "arrive_at": "16:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Der Anstieg ist die Aussicht wert. Planen Sie Zeit zum Ausruhen ein.",
+            "hu": "Az emelkedő megéri a kilátást. Szánjon időt a pihenésre.",
+            "ro": "Urcușul merită priveliștea. Planificați timp pentru odihnă.",
+            "en": "The climb is worth the view. Plan time to rest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und entdecken Sie Böhmisch Leipa auf zwei Rädern. Der Morgen führt Sie durch das historische Zentrum, vorbei an der Heilig-Kreuz-Kirche und zum Augustinerkloster. Ein Abstecher zur Wasserburg Lipý und ein Blick auf das industrielle Erbe bei Zentrumstextil runden den Vormittag ab. Nach einem stärkenden Mittagessen radeln Sie gemütlich zum Stadtpark. Der Höhepunkt des Nachmittags ist die Fahrt zum Špičák-Aussichtsturm, wo eine anspruchsvolle, aber lohnende Strecke mit einem unvergesslichen Panoramablick belohnt wird.",
+        "hu": "Pattanjon kerékpárra, és fedezze fel Böhmisch Leipa-t két keréken. A délelőtt a történelmi központon vezet keresztül, elhaladva a Szent Kereszt-templom mellett és az Ágoston-rendi kolostorhoz. Egy kitérő a Lipý vízi várhoz és egy pillantás a Zentrumstextil ipari örökségére teszi teljessé a délelőttöt. Egy frissítő ebéd után kényelmesen tekerjen el a városi parkba. A délután csúcspontja a Špičák-kilátóhoz vezető út, ahol egy kihívást jelentő, de annál kifizetődőbb szakasz várja, amelyet felejthetetlen panoráma koronáz meg.",
+        "ro": "Urcați-vă pe bicicletă și descoperiți Böhmisch Leipa pe două roți. Dimineața vă poartă prin centrul istoric, pe lângă Biserica Sfânta Cruce și la Mănăstirea Augustiniană. O abatere la castelul de apă Lipý și o privire la moștenirea industrială de la Zentrumstextil completează dimineața. După un prânz revigorant, pedalați agale spre Parcul Municipal. Punctul culminant al după-amiezii este drumul spre turnul de observație Špičák, unde un traseu provocator, dar plin de satisfacții, este răsplătit cu o priveliște panoramică de neuitat.",
+        "en": "Get on your bike and discover Böhmisch Leipa on two wheels. The morning takes you through the historic center, past the Church of the Holy Cross and to the Augustinian Monastery. A detour to the Lipý water castle and a look at the industrial heritage at Zentrumstextil round off the morning. After a refreshing lunch, cycle leisurely to the City Park. The highlight of the afternoon is the ride to the Špičák lookout tower, where a challenging but rewarding route is rewarded with an unforgettable panoramic view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pivní sýr",
+            "tip": "Ein würziger Käse, der mit Bier vermischt wird, perfekt für eine Radlerpause."
+          },
+          {
+            "name": "Česnečka",
+            "tip": "Eine kräftige Knoblauchsuppe, die Energie für die Weiterfahrt gibt."
+          },
+          {
+            "name": "Biergarten am Stadtpark",
+            "tip": "Ein idealer Ort für eine Erfrischung nach der Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pivní sýr",
+            "tip": "Fűszeres sajt sörrel keverve, tökéletes egy biciklis pihenőhöz."
+          },
+          {
+            "name": "Česnečka",
+            "tip": "Erőteljes fokhagymaleves, amely energiát ad a további úthoz."
+          },
+          {
+            "name": "Sörkert a városi parknál",
+            "tip": "Ideális hely egy frissítőre a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pivní sýr",
+            "tip": "O brânză picantă amestecată cu bere, perfectă pentru o pauză de ciclist."
+          },
+          {
+            "name": "Česnečka",
+            "tip": "O supă de usturoi consistentă care vă dă energie pentru drum."
+          },
+          {
+            "name": "Grădina de bere de la Parcul Municipal",
+            "tip": "Un loc ideal pentru o băutură răcoritoare după tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pivní sýr",
+            "tip": "A spicy cheese mixed with beer, perfect for a cyclist's break."
+          },
+          {
+            "name": "Česnečka",
+            "tip": "A hearty garlic soup that gives you energy for the ride."
+          },
+          {
+            "name": "Beer garden at the City Park",
+            "tip": "An ideal place for a refreshment after the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang der Ploučnice",
+            "tip": "Folgen Sie dem Fluss für eine friedliche Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank im Stadtpark",
+            "tip": "Machen Sie eine Pause und lauschen Sie den Vögeln.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gipfel des Špičák",
+            "tip": "Nach dem Anstieg die Ruhe und die Aussicht genießen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Ploučnice mentén",
+            "tip": "Kövesse a folyót egy békés tekerésért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a városi parkban",
+            "tip": "Tartson szünetet és hallgassa a madarakat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Špičák csúcsa",
+            "tip": "A mászás után élvezze a csendet és a kilátást.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Ploučnice",
+            "tip": "Urmați râul pentru o plimbare pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bancă în Parcul Municipal",
+            "tip": "Luați o pauză și ascultați păsările.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vârful Špičák",
+            "tip": "După urcare, bucurați-vă de liniște și de priveliște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle path along the Ploučnice",
+            "tip": "Follow the river for a peaceful ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bench in the City Park",
+            "tip": "Take a break and listen to the birds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Summit of Špičák",
+            "tip": "After the climb, enjoy the peace and the view.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "Kleine Läden bieten oft praktisches Zubehör für Radfahrer."
+          },
+          {
+            "name": "Regionale Delikatessen",
+            "tip": "Kaufen Sie geräucherten Käse oder lokale Wurst als Proviant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A kis boltok gyakran kínálnak praktikus kiegészítőket kerékpárosoknak."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vásároljon füstölt sajtot vagy helyi kolbászt útravalónak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Micile magazine oferă adesea accesorii practice pentru bicicliști."
+          },
+          {
+            "name": "Delicatese regionale",
+            "tip": "Cumpărați brânză afumată sau cârnați locali pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycling accessories",
+            "tip": "Small shops often offer practical accessories for cyclists."
+          },
+          {
+            "name": "Regional delicacies",
+            "tip": "Buy smoked cheese or local sausages for the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie genügend Wasser für die Tour mit, besonders für den Anstieg zum Špičák.",
+          "Achten Sie auf die örtlichen Verkehrsregeln für Radfahrer."
+        ],
+        "hu": [
+          "Sisak használata erősen ajánlott.",
+          "Vigyen magával elegendő vizet a túrára, különösen a Špičákra való feljutáshoz.",
+          "Vegye figyelembe a helyi közlekedési szabályokat a kerékpárosokra vonatkozóan."
+        ],
+        "ro": [
+          "Se recomandă insistent purtarea căștii.",
+          "Luați suficientă apă pentru tur, în special pentru urcarea la Špičák.",
+          "Respectați regulile locale de circulație pentru bicicliști."
+        ],
+        "en": [
+          "A helmet is strongly recommended.",
+          "Take enough water for the tour, especially for the climb to Špičák.",
+          "Pay attention to local traffic rules for cyclists."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken & Erkundung des Zentrums",
+            "hu": "Parkolás és a központ felfedezése",
+            "ro": "Parcare și explorarea centrului",
+            "en": "Parking & Exploring the Center"
+          },
+          "coords": [
+            14.5378,
+            50.6855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen zentralen Parkplatz, um das historische Herz zu Fuß zu erkunden.",
+            "hu": "Keressen egy központi parkolót, hogy gyalog fedezhesse fel a történelmi belvárost.",
+            "ro": "Găsiți o parcare centrală pentru a explora pe jos inima istorică.",
+            "en": "Find a central parking spot to explore the historic heart on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus am Marktplatz",
+            "hu": "Városháza a Fő téren",
+            "ro": "Primăria din Piața Centrală",
+            "en": "Town Hall at the Main Square"
+          },
+          "coords": [
+            14.5375,
+            50.6865
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Auto steht, jetzt beginnt der Spaziergang durch die Altstadt.",
+            "hu": "Az autó leparkolva, kezdődhet a séta az óvárosban.",
+            "ro": "Mașina este parcată, acum începe plimbarea prin orașul vechi.",
+            "en": "The car is parked, now the walk through the old town begins."
+          }
+        },
+        {
+          "name": {
+            "de": "Augustinerkloster & Museum",
+            "hu": "Ágoston-rendi kolostor és Múzeum",
+            "ro": "Mănăstirea Augustiniană și Muzeul",
+            "en": "Augustinian Monastery & Museum"
+          },
+          "coords": [
+            14.5399,
+            50.6885
+          ],
+          "category": "museums",
+          "arrive_at": "09:44",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Marktplatz zum kulturellen Zentrum.",
+            "hu": "Egy rövid séta a Fő tértől a kulturális központig.",
+            "ro": "O scurtă plimbare din Piața Centrală până la centrul cultural.",
+            "en": "A short walk from the main square to the cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Wasserburg Lipý",
+            "hu": "Autóval a Lipý Vízivárhoz",
+            "ro": "Cu mașina la Castelul de apă Lipý",
+            "en": "Drive to Lipý Water Castle"
+          },
+          "coords": [
+            14.5321,
+            50.683
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zurück zum Auto für eine kurze Fahrt zur beeindruckenden Wasserburg.",
+            "hu": "Vissza az autóhoz egy rövid útra a lenyűgöző vízi várhoz.",
+            "ro": "Înapoi la mașină pentru un drum scurt până la impresionantul castel de apă.",
+            "en": "Back to the car for a short drive to the impressive water castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            14.5315,
+            50.6835
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Oft in der Nähe der Burg gelegen, ein schneller Spaziergang.",
+            "hu": "Gyakran a vár közelében található, egy gyors séta.",
+            "ro": "Adesea situat lângă castel, o plimbare rapidă.",
+            "en": "Often located near the castle, a quick walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Špičák Aussichtsturm",
+            "hu": "Autóval a Špičák-kilátóhoz",
+            "ro": "Cu mașina la Turnul de observație Špičák",
+            "en": "Drive to Špičák Lookout Tower"
+          },
+          "coords": [
+            14.551,
+            50.6795
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die längste Fahrt des Tages führt Sie zu einem atemberaubenden Panoramablick.",
+            "hu": "A nap leghosszabb útja egy lélegzetelállító panorámához vezet.",
+            "ro": "Cel mai lung drum al zilei vă duce la o priveliște panoramică uluitoare.",
+            "en": "The longest drive of the day takes you to a breathtaking panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Stadtpark",
+            "hu": "Séta a Városi Parkban",
+            "ro": "Plimbare în Parcul Municipal",
+            "en": "Walk in the City Park"
+          },
+          "coords": [
+            14.5445,
+            50.684
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:09",
+          "stay_min": 90,
+          "hop_from_prev_min": 59,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Turm aus ist es ein schöner Spaziergang bergab zum Park.",
+            "hu": "A toronytól kellemes séta vezet lefelé a parkba.",
+            "ro": "De la turn este o plimbare frumoasă la vale spre parc.",
+            "en": "From the tower, it's a nice downhill walk to the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Böhmisch Leipa flexibel in Clustern. Sie parken im Zentrum und entdecken zu Fuß den Marktplatz und das nahegelegene Augustinerkloster. Danach fahren Sie zur beeindruckenden Wasserburg Lipý, wo Sie auch das archäologische Museum besuchen. Der Nachmittag bringt Sie mit dem Auto zum höchsten Punkt, dem Špičák-Aussichtsturm. Von dort aus schlendern Sie gemütlich durch den Stadtpark zurück, um den Tag entspannt ausklingen zu lassen, bevor Sie wieder ins Auto steigen.",
+        "hu": "Autóval rugalmasan, klaszterekben fedezheti fel Böhmisch Leipa-t. A központban parkol, és gyalogosan fedezi fel a Fő teret és a közeli Ágoston-rendi kolostort. Ezután a lenyűgöző Lipý vízi várhoz hajt, ahol a régészeti múzeumot is meglátogatja. A délután az autóval a legmagasabb pontra, a Špičák-kilátóhoz visz. Onnan kényelmesen sétáljon végig a városi parkon, hogy pihentetően zárja a napot, mielőtt visszaülne az autóba.",
+        "ro": "Cu mașina, explorați Böhmisch Leipa în mod flexibil, în grupuri. Parcați în centru și descoperiți pe jos Piața Centrală și Mănăstirea Augustiniană din apropiere. Apoi conduceți la impresionantul castel de apă Lipý, unde vizitați și muzeul arheologic. După-amiaza vă duce cu mașina la cel mai înalt punct, turnul de observație Špičák. De acolo, vă plimbați agale prin Parcul Municipal pentru a încheia ziua într-un mod relaxat înainte de a vă urca din nou în mașină.",
+        "en": "By car, you explore Böhmisch Leipa flexibly in clusters. You park in the center and discover the Main Square and the nearby Augustinian Monastery on foot. Then you drive to the impressive Lipý water castle, where you also visit the archaeological museum. The afternoon takes you by car to the highest point, the Špičák lookout tower. From there, you stroll leisurely through the City Park to end the day in a relaxed manner before getting back in the car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trdelník",
+            "tip": "Ein süßes Gebäck, perfekt als Snack für unterwegs."
+          },
+          {
+            "name": "Gulasch im Brotteig",
+            "tip": "Ein herzhaftes Gericht, das in vielen Restaurants angeboten wird."
+          },
+          {
+            "name": "Landgasthof außerhalb der Stadt",
+            "tip": "Nutzen Sie das Auto für einen Abstecher zu einem authentischen Restaurant im Umland."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trdelník (Kürtőskalács)",
+            "tip": "Édes sütemény, tökéletes útközbeni harapnivaló."
+          },
+          {
+            "name": "Gulyás kenyérben",
+            "tip": "Kiadós étel, amelyet sok étterem kínál."
+          },
+          {
+            "name": "Vidéki fogadó a városon kívül",
+            "tip": "Használja az autót, hogy ellátogasson egy autentikus étterembe a környéken."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trdelník",
+            "tip": "Un produs de patiserie dulce, perfect ca gustare la pachet."
+          },
+          {
+            "name": "Gulaș în pâine",
+            "tip": "Un fel de mâncare consistent, oferit în multe restaurante."
+          },
+          {
+            "name": "Han la țară în afara orașului",
+            "tip": "Folosiți mașina pentru o excursie la un restaurant autentic din împrejurimi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trdelník",
+            "tip": "A sweet pastry, perfect as a snack on the go."
+          },
+          {
+            "name": "Goulash in a bread bowl",
+            "tip": "A hearty dish offered in many restaurants."
+          },
+          {
+            "name": "Country inn outside the city",
+            "tip": "Use the car for a trip to an authentic restaurant in the surrounding area."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt durch die Landschaft",
+            "tip": "Genießen Sie die ruhigen Straßen außerhalb des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parkplatz am Špičák",
+            "tip": "Bleiben Sie nach dem Abstieg einen Moment im Auto und genießen Sie die Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abenddämmerung am Fluss",
+            "tip": "Parken Sie in der Nähe der Ploučnice und beobachten Sie den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a vidéken",
+            "tip": "Élvezze a csendes utakat a városközponton kívül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parkoló a Špičáknál",
+            "tip": "A leereszkedés után maradjon egy pillanatig az autóban, és élvezze a csendet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Alkonyat a folyónál",
+            "tip": "Parkoljon a Ploučnice közelében, és nézze a naplementét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu mașina prin peisaj",
+            "tip": "Bucurați-vă de drumurile liniștite din afara centrului orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcare la Špičák",
+            "tip": "După coborâre, stați un moment în mașină și bucurați-vă de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Amurg pe râu",
+            "tip": "Parcați lângă Ploučnice și priviți apusul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive through the countryside",
+            "tip": "Enjoy the quiet roads outside the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parking lot at Špičák",
+            "tip": "After descending, stay in the car for a moment and enjoy the silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dusk by the river",
+            "tip": "Park near the Ploučnice and watch the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Mit dem Auto erreichen Sie leicht Bauernhöfe, die lokale Produkte verkaufen."
+          },
+          {
+            "name": "Große Supermärkte am Stadtrand",
+            "tip": "Kaufen Sie tschechische Spezialitäten wie Becherovka oder Oblaten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "Autóval könnyen elérhetők a helyi termékeket árusító gazdaságok."
+          },
+          {
+            "name": "Nagy szupermarketek a város szélén",
+            "tip": "Vásároljon cseh különlegességeket, mint a Becherovka vagy az ostya."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Cu mașina puteți ajunge ușor la ferme care vând produse locale."
+          },
+          {
+            "name": "Supermarketuri mari la periferia orașului",
+            "tip": "Cumpărați specialități cehe, cum ar fi Becherovka sau napolitane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "By car you can easily reach farms that sell local products."
+          },
+          {
+            "name": "Large supermarkets on the outskirts",
+            "tip": "Buy Czech specialties like Becherovka or wafers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über Parkmöglichkeiten und -gebühren im Voraus.",
+          "Achten Sie auf Einbahnstraßen im historischen Zentrum.",
+          "Ein Navigationsgerät ist für die Fahrt zu den außerstädtischen Zielen sehr hilfreich."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "Vigyázzon az egyirányú utcákra a történelmi központban.",
+          "A városon kívüli célpontokhoz való eljutáshoz nagyon hasznos egy navigációs eszköz."
+        ],
+        "ro": [
+          "Informați-vă în avans despre opțiunile de parcare și taxele aferente.",
+          "Fiți atenți la străzile cu sens unic din centrul istoric.",
+          "Un sistem de navigație este foarte util pentru a ajunge la destinațiile din afara orașului."
+        ],
+        "en": [
+          "Find out about parking options and fees in advance.",
+          "Watch out for one-way streets in the historic center.",
+          "A navigation device is very helpful for driving to destinations outside the city."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 7.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof & Fahrt ins Zentrum",
+            "hu": "Érkezés a buszpályaudvarra és utazás a központba",
+            "ro": "Sosire la autogară și călătorie spre centru",
+            "en": "Arrival at the bus station & ride to the center"
+          },
+          "coords": [
+            14.5378,
+            50.6855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public.",
+            "en": "Buy a day ticket for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz & Heilig-Kreuz-Kirche",
+            "hu": "Fő tér és Szent Kereszt-templom",
+            "ro": "Piața Centrală și Biserica Sfânta Cruce",
+            "en": "Main Square & Church of the Holy Cross"
+          },
+          "coords": [
+            14.5385,
+            50.6868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom zentralen Bus-Hub sind diese Sehenswürdigkeiten nur ein paar Schritte entfernt.",
+            "hu": "A központi buszmegállótól ezek a látnivalók csak pár lépésre vannak.",
+            "ro": "De la nodul central de autobuz, aceste atracții sunt la doar câțiva pași.",
+            "en": "From the central bus hub, these sights are just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Augustinerkloster & Museum",
+            "hu": "Ágoston-rendi kolostor és Múzeum",
+            "ro": "Mănăstirea Augustiniană și Muzeul",
+            "en": "Augustinian Monastery & Museum"
+          },
+          "coords": [
+            14.5399,
+            50.6885
+          ],
+          "category": "museums",
+          "arrive_at": "10:26",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang verbindet die Highlights des ersten Clusters.",
+            "hu": "Egy rövid séta köti össze az első klaszter fénypontjait.",
+            "ro": "O scurtă plimbare leagă punctele de atracție ale primului grup.",
+            "en": "A short walk connects the highlights of the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zur Wasserburg Lipý",
+            "hu": "Buszozás a Lipý Vízivárhoz",
+            "ro": "Călătorie cu autobuzul la Castelul de apă Lipý",
+            "en": "Bus ride to Lipý Water Castle"
+          },
+          "coords": [
+            14.5321,
+            50.683
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:44",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zu diesem etwas außerhalb gelegenen historischen Ort.",
+            "hu": "Menjen busszal ehhez a kissé kieső történelmi helyszínhez.",
+            "ro": "Luați autobuzul către acest sit istoric situat puțin în afara centrului.",
+            "en": "Take the bus to this historical site located slightly outside the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Stadtpark",
+            "hu": "Busz a Városi Parkba",
+            "ro": "Autobuz spre Parcul Municipal",
+            "en": "Bus to the City Park"
+          },
+          "coords": [
+            14.5445,
+            50.684
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Entspannen Sie im Park, bevor Sie den letzten Aufstieg des Tages in Angriff nehmen.",
+            "hu": "Pihenjen a parkban, mielőtt nekivág a nap utolsó emelkedőjének.",
+            "ro": "Relaxați-vă în parc înainte de a aborda ultima urcare a zilei.",
+            "en": "Relax in the park before tackling the last climb of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Špičák Aussichtsturm",
+            "hu": "Séta a Špičák-kilátóhoz",
+            "ro": "Plimbare la Turnul de observație Špičák",
+            "en": "Walk to Špičák Lookout Tower"
+          },
+          "coords": [
+            14.551,
+            50.6795
+          ],
+          "category": "natural features",
+          "arrive_at": "15:43",
+          "stay_min": 87,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Park aus führt ein schöner Wanderweg hinauf zum Turm.",
+            "hu": "A parkból egy szép turistaút vezet fel a toronyhoz.",
+            "ro": "Din parc, o frumoasă potecă de drumeție urcă spre turn.",
+            "en": "From the park, a beautiful hiking trail leads up to the tower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Nahverkehr erleben Sie Böhmisch Leipa wie ein Einheimischer. Der Tag beginnt mit einer Busfahrt ins Zentrum, wo Sie den Marktplatz und das Augustinerkloster zu Fuß erkunden. Eine weitere Busfahrt bringt Sie zur historischen Wasserburg Lipý. Am Nachmittag bringt Sie ein Bus in die Nähe des Stadtparks. Der letzte Teil Ihrer Entdeckungstour ist ein Spaziergang vom Park zum Špičák-Aussichtsturm, der Sie mit einer spektakulären Aussicht belohnt, bevor Sie mit dem Bus zurückfahren.",
+        "hu": "A tömegközlekedéssel úgy élheti át Böhmisch Leipa-t, mint egy helyi. A nap a központba tartó buszúttal kezdődik, ahol gyalogosan fedezi fel a Fő teret és az Ágoston-rendi kolostort. Egy másik buszút elviszi a történelmi Lipý vízi várhoz. Délután egy busz a városi park közelébe visz. Felfedezőútjának utolsó része egy séta a parkból a Špičák-kilátóhoz, amely látványos kilátással jutalmazza, mielőtt busszal visszatérne.",
+        "ro": "Cu transportul public, veți experimenta Böhmisch Leipa ca un localnic. Ziua începe cu o călătorie cu autobuzul spre centru, unde explorați pe jos Piața Centrală și Mănăstirea Augustiniană. O altă călătorie cu autobuzul vă duce la istoricul castel de apă Lipý. După-amiaza, un autobuz vă duce în apropierea Parcului Municipal. Ultima parte a turului dvs. de descoperire este o plimbare din parc până la turnul de observație Špičák, care vă răsplătește cu o priveliște spectaculoasă înainte de a vă întoarce cu autobuzul.",
+        "en": "With public transport, you'll experience Böhmisch Leipa like a local. The day begins with a bus ride to the center, where you explore the Main Square and the Augustinian Monastery on foot. Another bus ride takes you to the historic Lipý water castle. In the afternoon, a bus takes you near the City Park. The final part of your discovery tour is a walk from the park to the Špičák lookout tower, which rewards you with a spectacular view before you return by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Párek v rohlíku",
+            "tip": "Der tschechische Hotdog, ein schneller und günstiger Snack von einem Straßenstand."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Kartoffelpuffer, oft auf Märkten oder in kleinen Imbissen erhältlich."
+          },
+          {
+            "name": "Restaurant in der Nähe einer Bushaltestelle",
+            "tip": "Planen Sie Ihr Mittagessen an einem Ort, der gut an das Verkehrsnetz angebunden ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Párek v rohlíku",
+            "tip": "A cseh hot dog, egy gyors és olcsó harapnivaló egy utcai árustól."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Tócsni, gyakran kapható piacokon vagy kis büfékben."
+          },
+          {
+            "name": "Étterem egy buszmegálló közelében",
+            "tip": "Tervezze az ebédjét egy olyan helyre, amely jó közlekedési kapcsolattal rendelkezik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Párek v rohlíku",
+            "tip": "Hotdog-ul ceh, o gustare rapidă și ieftină de la o tarabă stradală."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Clătite de cartofi, adesea disponibile în piețe sau la mici snack-baruri."
+          },
+          {
+            "name": "Restaurant lângă o stație de autobuz",
+            "tip": "Planificați prânzul într-un loc bine conectat la rețeaua de transport."
+          }
+        ],
+        "en": [
+          {
+            "name": "Párek v rohlíku",
+            "tip": "The Czech hot dog, a quick and cheap snack from a street vendor."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Potato pancakes, often available at markets or small snack bars."
+          },
+          {
+            "name": "Restaurant near a bus stop",
+            "tip": "Plan your lunch at a location that is well connected to the transport network."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Beobachten Sie die Stadt aus einer ruhigen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Warten auf den Bus",
+            "tip": "Nutzen Sie die kurzen Pausen, um die Umgebung auf sich wirken zu lassen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Weg vom Park zum Turm",
+            "tip": "Der Waldweg bietet eine willkommene Abwechslung vom Stadtlärm.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Figyelje a várost egy csendes perspektívából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Várakozás a buszra",
+            "tip": "Használja ki a rövid szüneteket, hogy magába szívja a környezetet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Út a parktól a toronyig",
+            "tip": "Az erdei ösvény üdítő változatosságot kínál a város zaja után.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Observați orașul dintr-o perspectivă liniștită.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Așteptând autobuzul",
+            "tip": "Folosiți pauzele scurte pentru a absorbi împrejurimile.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Potecă de la parc la turn",
+            "tip": "Potecă din pădure oferă o schimbare binevenită față de zgomotul orașului.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper floor of a double-decker bus",
+            "tip": "Observe the city from a quiet perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Waiting for the bus",
+            "tip": "Use the short breaks to take in the surroundings.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Path from the park to the tower",
+            "tip": "The forest path offers a welcome change from the city noise.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske am Busbahnhof",
+            "tip": "Hier finden Sie oft Zeitungen, Getränke und kleine Souvenirs."
+          },
+          {
+            "name": "Geschäfte in der Nähe von Haltestellen",
+            "tip": "Achten Sie auf kleine Läden, die Sie auf dem Weg entdecken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszpályaudvaron",
+            "tip": "Gyakran talál itt újságokat, italokat és apró ajándéktárgyakat."
+          },
+          {
+            "name": "Boltok a megállók közelében",
+            "tip": "Figyeljen a kis boltokra, amelyeket útközben fedez fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la autogară",
+            "tip": "Aici găsiți adesea ziare, băuturi și mici suveniruri."
+          },
+          {
+            "name": "Magazine lângă stații",
+            "tip": "Fiți atenți la micile magazine pe care le descoperiți pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at the bus station",
+            "tip": "You can often find newspapers, drinks and small souvenirs here."
+          },
+          {
+            "name": "Shops near stops",
+            "tip": "Look out for small shops you discover along the way."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie den Fahrplan herunter oder verwenden Sie eine App, um Ihre Fahrten zu planen.",
+          "Achten Sie auf die letzte Busverbindung zurück, besonders vom Špičák-Turm.",
+          "Eine Tageskarte ist in der Regel günstiger als Einzelfahrscheine."
+        ],
+        "hu": [
+          "Töltse le a menetrendet, vagy használjon egy alkalmazást az utazások megtervezéséhez.",
+          "Figyeljen az utolsó buszjáratra visszafelé, különösen a Špičák-toronytól.",
+          "A napijegy általában olcsóbb, mint a vonaljegyek."
+        ],
+        "ro": [
+          "Descărcați orarul sau folosiți o aplicație pentru a vă planifica călătoriile.",
+          "Fiți atenți la ultima legătură de autobuz înapoi, în special de la turnul Špičák.",
+          "Un bilet de o zi este de obicei mai ieftin decât biletele individuale."
+        ],
+        "en": [
+          "Download the timetable or use an app to plan your trips.",
+          "Pay attention to the last bus connection back, especially from the Špičák tower.",
+          "A day ticket is usually cheaper than single tickets."
+        ]
+      }
+    }
+  }
+}

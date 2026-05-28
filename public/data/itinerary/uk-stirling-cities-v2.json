@@ -1,0 +1,1212 @@
+{
+  "city_id": "uk-stirling-cities-v2",
+  "anchor": {
+    "name": "Stirling",
+    "coords": [
+      -3.9369,
+      56.1165
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Stadtgefängnis von Stirling",
+            "hu": "Stirling óvárosi börtöne",
+            "ro": "Închisoarea Veche din Stirling",
+            "en": "Stirling Old Town Jail"
+          },
+          "coords": [
+            -3.949,
+            56.1225
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Buchen Sie die „Actor-Led Tour“, um die Geschichte lebendig zu erleben.",
+            "hu": "Fizesd be magad egy színészek által vezetett túrára, hogy megelevenedjen a történelem.",
+            "ro": "Rezervați turul cu actori pentru o experiență istorică plină de viață.",
+            "en": "Book the 'Actor-Led Tour' for a lively experience of history."
+          }
+        },
+        {
+          "name": {
+            "de": "Argyll's Lodging",
+            "hu": "Argyll szállása",
+            "ro": "Reședința lui Argyll",
+            "en": "Argyll's Lodging"
+          },
+          "coords": [
+            -3.9485,
+            56.1245
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die restaurierten Renaissance-Innenräume.",
+            "hu": "Csodáld meg a gyönyörűen helyreállított reneszánsz belső tereket.",
+            "ro": "Admirați interioarele renascentiste restaurate cu măiestrie.",
+            "en": "Admire the masterfully restored Renaissance interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Stirling",
+            "hu": "Stirlingi vár",
+            "ro": "Castelul Stirling",
+            "en": "Stirling Castle"
+          },
+          "coords": [
+            -3.9478,
+            56.1238
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:24",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die königlichen Gemächer und die Große Halle.",
+            "hu": "Ne hagyd ki a királyi lakosztályokat és a Nagytermet.",
+            "ro": "Nu ratați Apartamentele Regale și Sala Mare.",
+            "en": "Don't miss the Royal Apartments and the Great Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Kreuzes",
+            "hu": "A Szent Kereszt-templom",
+            "ro": "Biserica Sfânta Cruce",
+            "en": "Church of the Holy Rude"
+          },
+          "coords": [
+            -3.9495,
+            56.1232
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach den mittelalterlichen Eichenbalken im Dach.",
+            "hu": "Keresd meg a tetőszerkezet középkori tölgyfagerendáit.",
+            "ro": "Căutați grinzile medievale de stejar din acoperiș.",
+            "en": "Look for the medieval oak beams in the roof."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Brücke von Stirling",
+            "hu": "Régi híd (Stirling)",
+            "ro": "Podul Vechi din Stirling",
+            "en": "Stirling Old Bridge"
+          },
+          "coords": [
+            -3.9384,
+            56.1268
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für ein Foto mit dem Wallace Monument im Hintergrund.",
+            "hu": "Tökéletes hely egy fotóhoz, a Wallace-emlékművel a háttérben.",
+            "ro": "Locul perfect pentru o fotografie cu Monumentul Wallace pe fundal.",
+            "en": "The perfect spot for a photo with the Wallace Monument in the background."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Cambuskenneth",
+            "hu": "Cambuskennethi apátság",
+            "ro": "Abația Cambuskenneth",
+            "en": "Cambuskenneth Abbey"
+          },
+          "coords": [
+            -3.9233,
+            56.1247
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 46,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort, abseits der Touristenmassen. Ideal für eine ruhige Pause.",
+            "hu": "Békés hely a turistaáradattól távol. Ideális egy csendes pihenőre.",
+            "ro": "Un loc pașnic, departe de aglomerația turistică. Ideal pentru o pauză liniștită.",
+            "en": "A peaceful spot away from the tourist crowds. Ideal for a quiet break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Altstadt von Stirling, wo Geschichte an jeder Ecke spürbar ist. Erkunden Sie das alte Gefängnis und die Renaissance-Architektur, bevor Sie zum majestätischen Stirling Castle aufsteigen. Am Nachmittag schlendern Sie über die berühmte Alte Brücke und genießen die Ruhe in der historischen Abtei Cambuskenneth. Lassen Sie den Abend bei einem herzhaften schottischen Essen ausklingen.",
+        "hu": "Kezdje a napot Stirling óvárosának szívében, ahol minden sarkon történelembe botlik. Fedezze fel a régi börtönt és a reneszánsz építészetet, mielőtt felsétál a fenséges Stirlingi várhoz. Délután sétáljon át a híres Régi hídon, majd élvezze a történelmi Cambuskenneth apátság nyugalmát. Zárja az estét egy kiadós skót vacsorával.",
+        "ro": "Începeți ziua în inima Orașului Vechi din Stirling, unde istoria se simte la fiecare colț. Explorați vechea închisoare și arhitectura renascentistă înainte de a urca la magnificul Castel Stirling. După-amiaza, plimbați-vă peste faimosul Pod Vechi și bucurați-vă de liniștea de la istorica Abație Cambuskenneth. Încheiați seara cu o cină scoțiană copioasă.",
+        "en": "Start your day in the heart of Stirling's Old Town, where history is palpable at every corner. Explore the old jail and Renaissance architecture before ascending to the majestic Stirling Castle. In the afternoon, stroll across the famous Old Bridge and enjoy the tranquility at the historic Cambuskenneth Abbey. Conclude the evening with a hearty Scottish meal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Haggis, Neeps & Tatties",
+            "tip": "Ein Muss in Schottland. Probieren Sie es im The Portcullis Restaurant."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "Eine cremige Fischsuppe, perfekt für einen kühlen Tag. The Birds and Bees serviert eine tolle Version."
+          },
+          {
+            "name": "Sticky Toffee Pudding",
+            "tip": "Ein klassisches britisches Dessert. Im The Allan Park finden Sie eine köstliche Variante."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haggis, neeps & tatties",
+            "tip": "Skóciában kötelező. Kóstold meg a The Portcullis étteremben."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "Krémes halleves, tökéletes egy hűvös napra. A The Birds and Bees remek verziót kínál."
+          },
+          {
+            "name": "Sticky Toffee Pudding",
+            "tip": "Klasszikus brit desszert. A The Allan Parkban finom változatot találsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Haggis, Neeps & Tatties",
+            "tip": "O specialitate obligatorie în Scoția. Încercați-o la restaurantul The Portcullis."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "O supă cremoasă de pește, perfectă pentru o zi răcoroasă. The Birds and Bees servește o versiune excelentă."
+          },
+          {
+            "name": "Sticky Toffee Pudding",
+            "tip": "Un desert britanic clasic. Găsiți o variantă delicioasă la The Allan Park."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haggis, Neeps & Tatties",
+            "tip": "A must-try when in Scotland. Sample it at The Portcullis restaurant."
+          },
+          {
+            "name": "Cullen Skink",
+            "tip": "A creamy fish soup, perfect for a chilly day. The Birds and Bees serves a great version."
+          },
+          {
+            "name": "Sticky Toffee Pudding",
+            "tip": "A classic British dessert. Find a delicious one at The Allan Park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Forth",
+            "tip": "Ein ruhiger Weg entlang des Flusses mit Blick auf die Burg.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gowan Hill",
+            "tip": "Genießen Sie die Aussicht auf die Stadt von diesem weniger überlaufenen Hügel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "King's Knot",
+            "tip": "Entspannen Sie sich in diesen historischen königlichen Gärten unterhalb der Burg.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Forth folyó partján",
+            "tip": "Csendes ösvény a folyó mentén, kilátással a várra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gowan Hill",
+            "tip": "Élvezd a városra nyíló kilátást erről a kevésbé zsúfolt dombról.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "King's Knot",
+            "tip": "Pihenj ezekben a történelmi királyi kertekben a vár alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Forth",
+            "tip": "O potecă liniștită de-a lungul râului, cu vedere la castel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Gowan",
+            "tip": "Bucurați-vă de priveliștea orașului de pe acest deal mai puțin aglomerat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "King's Knot",
+            "tip": "Relaxați-vă în aceste grădini regale istorice de sub castel.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Forth Walk",
+            "tip": "A quiet path along the river with views of the castle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gowan Hill",
+            "tip": "Enjoy views over the city from this less-crowded hill.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "King's Knot",
+            "tip": "Relax in these historic royal gardens below the castle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stirling Arcade",
+            "tip": "Eine wunderschöne viktorianische Arkade mit unabhängigen Geschäften."
+          },
+          {
+            "name": "Stirling Farmers' Market",
+            "tip": "Finden Sie lokale Produkte und Handwerk (normalerweise am zweiten Samstag im Monat)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stirling Arcade",
+            "tip": "Gyönyörű viktoriánus árkád független üzletekkel."
+          },
+          {
+            "name": "Stirlingi termelői piac",
+            "tip": "Keress helyi termékeket és kézműves árukat (általában a hónap második szombatján)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stirling Arcade",
+            "tip": "O frumoasă galerie victoriană cu magazine independente."
+          },
+          {
+            "name": "Piața Agricolă Stirling",
+            "tip": "Găsiți produse locale și artizanat (de obicei în a doua sâmbătă a lunii)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stirling Arcade",
+            "tip": "A beautiful Victorian arcade with independent shops."
+          },
+          {
+            "name": "Stirling Farmers' Market",
+            "tip": "Find local produce and crafts (usually on the second Saturday of the month)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt Kopfsteinpflaster hat und hügelig ist.",
+          "Kaufen Sie ein Stirling-Entdeckerticket, um Geld für den Eintritt in die Burg und das Gefängnis zu sparen.",
+          "Das Wetter in Schottland ist unvorhersehbar, packen Sie also eine wasserdichte Jacke ein.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, aber seien Sie auf einige steile Anstiege vorbereitet."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, az óváros macskaköves és dombos.",
+          "Vegyél Stirling Explorer Pass-t, hogy spórolj a vár és a börtön belépőjén.",
+          "A skót időjárás kiszámíthatatlan, csomagolj egy vízálló dzsekit.",
+          "A legtöbb látnivaló gyalog elérhető, de készülj fel néhány meredek emelkedőre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece Orașul Vechi are pavele și este deluros.",
+          "Cumpărați un Stirling Explorer Pass pentru a economisi bani la intrarea la castel și închisoare.",
+          "Vremea în Scoția este imprevizibilă, așa că împachetați o jachetă impermeabilă.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos, dar fiți pregătiți pentru câteva urcări abrupte."
+        ],
+        "en": [
+          "Wear comfortable shoes as the Old Town is cobbled and hilly.",
+          "Buy a Stirling Explorer Pass to save money on entry to the castle and jail.",
+          "Scottish weather is unpredictable, so pack a waterproof jacket.",
+          "Most attractions are within walking distance, but be prepared for some steep climbs."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Stirling",
+            "hu": "Stirlingi vár",
+            "ro": "Castelul Stirling",
+            "en": "Stirling Castle"
+          },
+          "coords": [
+            -3.9478,
+            56.1238
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang sicher an und bereiten Sie sich auf einen langen Besuch vor.",
+            "hu": "Zárd le biztonságosan a biciklidet a bejáratnál, és készülj egy hosszú látogatásra.",
+            "ro": "Asigurați-vă bicicleta la intrare și pregătiți-vă pentru o vizită lungă.",
+            "en": "Secure your bike at the entrance and prepare for a long visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Brücke von Stirling",
+            "hu": "Régi híd (Stirling)",
+            "ro": "Podul Vechi din Stirling",
+            "en": "Stirling Old Bridge"
+          },
+          "coords": [
+            -3.9384,
+            56.1268
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:16",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine schnelle und einfache Fahrt bergab von der Burg.",
+            "hu": "Gyors és könnyű út lefelé a vártól.",
+            "ro": "O coborâre rapidă și ușoară cu bicicleta de la castel.",
+            "en": "A quick and easy downhill ride from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Cambuskenneth",
+            "hu": "Cambuskennethi apátság",
+            "ro": "Abația Cambuskenneth",
+            "en": "Cambuskenneth Abbey"
+          },
+          "coords": [
+            -3.9233,
+            56.1247
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die flache Fahrt entlang des Flusses zu diesem ruhigen Ort.",
+            "hu": "Élvezd a sík utat a folyó mentén ehhez a békés helyhez.",
+            "ro": "Bucurați-vă de plimbarea pe teren plat de-a lungul râului până la acest loc liniștit.",
+            "en": "Enjoy the flat ride along the river to this peaceful spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Wallace-Denkmal",
+            "hu": "A Nemzeti Wallace-emlékmű",
+            "ro": "Monumentul Național Wallace",
+            "en": "National Wallace Monument"
+          },
+          "coords": [
+            -3.9215,
+            56.1388
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Seien Sie auf einen steilen Anstieg vorbereitet, aber die Aussicht ist es wert.",
+            "hu": "Készülj egy meredek emelkedőre, de a kilátás megéri.",
+            "ro": "Fiți pregătiți pentru o urcare abruptă, dar priveliștea merită efortul.",
+            "en": "Be prepared for a steep climb, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Besucherzentrum Bannockburn",
+            "hu": "Bannockburni Látogatóközpont",
+            "ro": "Centrul pentru Vizitatori Bannockburn",
+            "en": "Bannockburn Visitor Centre"
+          },
+          "coords": [
+            -3.9388,
+            56.095
+          ],
+          "category": "museums",
+          "arrive_at": "15:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine längere, aber meist flache Fahrt. Erleben Sie die Schlacht in 3D!",
+            "hu": "Hosszabb, de többnyire sík út. Éld át a csatát 3D-ben!",
+            "ro": "O plimbare mai lungă, dar în mare parte plată. Experimentați bătălia în 3D!",
+            "en": "A longer but mostly flat ride. Experience the battle in 3D!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad für ein Abenteuer durch die schottische Geschichte. Beginnen Sie am Stirling Castle, radeln Sie dann hinunter zur Alten Brücke und entlang des Flusses zur friedlichen Cambuskenneth Abbey. Fordern Sie sich mit dem Anstieg zum Wallace Monument für eine atemberaubende Aussicht heraus. Schließen Sie Ihre Tour mit einer Fahrt zum historischen Schlachtfeld von Bannockburn ab, wo eine Nation geschmiedet wurde.",
+        "hu": "Pattanj biciklire egy kalandra a skót történelemben. Kezdj a Stirlingi várnál, majd tekerj le a Régi hídhoz és a folyó mentén a békés Cambuskenneth apátsághoz. Tedd próbára magad a Wallace-emlékműhöz vezető emelkedőn a lélegzetelállító kilátásért. Zárd a túrát a történelmi bannockburni csatatérrel, ahol egy nemzet született.",
+        "ro": "Urcați-vă pe bicicletă pentru o aventură prin istoria Scoției. Începeți de la Castelul Stirling, apoi pedalați în jos spre Podul Vechi și de-a lungul râului până la pașnica Abație Cambuskenneth. Provocați-vă cu urcarea la Monumentul Wallace pentru priveliști uimitoare. Încheiați turul cu o plimbare la câmpul de luptă istoric de la Bannockburn, unde s-a făurit o națiune.",
+        "en": "Hop on your bike for an adventure through Scottish history. Start at Stirling Castle, then cycle down to the Old Bridge and along the river to the peaceful Cambuskenneth Abbey. Challenge yourself with the climb to the Wallace Monument for breathtaking views. Finish your tour with a ride to the historic battlefield of Bannockburn, where a nation was forged."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Tanken Sie Energie mit diesem britischen Klassiker. The Allan Water Cafe in Bridge of Allan ist eine kurze Radtour entfernt."
+          },
+          {
+            "name": "Empire Biscuit",
+            "tip": "Ein süßer Genuss, um Ihre Fahrt anzukurbeln. In den meisten Bäckereien erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Töltsd fel az energiáidat ezzel a brit klasszikussal. A The Allan Water Cafe Bridge of Allanban csak egy rövid bicikliútra van."
+          },
+          {
+            "name": "Empire Biscuit",
+            "tip": "Édes finomság, ami energiát ad a tekeréshez. A legtöbb pékségben kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Realimentați-vă cu acest clasic britanic. The Allan Water Cafe din Bridge of Allan este la o scurtă plimbare cu bicicleta."
+          },
+          {
+            "name": "Empire Biscuit",
+            "tip": "Un deliciu dulce pentru a vă alimenta plimbarea. Disponibil la majoritatea brutăriilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Refuel with this British classic. The Allan Water Cafe in Bridge of Allan is a short cycle away."
+          },
+          {
+            "name": "Empire Biscuit",
+            "tip": "A sweet treat to fuel your ride. Available at most bakeries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang des Flusses Forth",
+            "tip": "Eine flache und malerische Route, perfekt für eine entspannte Fahrt.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "University of Stirling Campus",
+            "tip": "Erkunden Sie das wunderschöne Gelände rund um den See.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Forth folyó mentén",
+            "tip": "Sík és festői útvonal, tökéletes egy laza tekeréshez.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Stirlingi Egyetem kampusz",
+            "tip": "Fedezd fel a tó körüli gyönyörű területet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Forth",
+            "tip": "Un traseu plat și pitoresc, perfect pentru o plimbare relaxantă.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Campusul Universității din Stirling",
+            "tip": "Explorați terenurile frumoase din jurul lacului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle path along the River Forth",
+            "tip": "A flat and scenic route, perfect for a relaxed ride.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "University of Stirling Campus",
+            "tip": "Explore the beautiful grounds around the loch.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In Stirling gibt es mehrere Geschäfte für eventuelle Reparaturen oder Ausrüstung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Stirlingben több üzlet is található esetleges javításokhoz vagy felszerelésekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Stirling are mai multe magazine pentru orice reparații sau echipamente necesare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Stirling has several shops for any repairs or gear you might need."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen für die Abfahrten.",
+          "Nehmen Sie viel Wasser und Snacks mit, besonders für die längeren Strecken.",
+          "Einige Wege können schlammig sein, seien Sie also auf die Bedingungen vorbereitet.",
+          "Verwenden Sie eine Fahrradnavigations-App, um den besten Routen zu folgen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a biciklidet, különösen a fékeket a lejtők miatt.",
+          "Vigyél magaddal sok vizet és harapnivalót, különösen a hosszabb szakaszokra.",
+          "Néhány ösvény sáros lehet, készülj fel a körülményekre.",
+          "Használj kerékpáros navigációs alkalmazást a legjobb útvonalak követéséhez."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele pentru coborâri.",
+          "Luați multă apă și gustări, mai ales pentru porțiunile mai lungi.",
+          "Unele poteci pot fi noroioase, așa că fiți pregătiți pentru condiții.",
+          "Folosiți o aplicație de navigație pentru biciclete pentru a urma cele mai bune rute."
+        ],
+        "en": [
+          "Check your bike before you set off, especially the brakes for the downhills.",
+          "Bring plenty of water and snacks, especially for the longer stretches.",
+          "Some paths can be muddy, so be prepared for the conditions.",
+          "Use a bike navigation app to follow the best routes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Besucherzentrum Bannockburn",
+            "hu": "Bannockburni Látogatóközpont",
+            "ro": "Centrul pentru Vizitatori Bannockburn",
+            "en": "Bannockburn Visitor Centre"
+          },
+          "coords": [
+            -3.9388,
+            56.095
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um den Menschenmassen in der Stadt zu entgehen. Ausreichend Parkplätze vorhanden.",
+            "hu": "Kezdd itt, hogy elkerüld a városi tömeget. Bőséges parkolóhely áll rendelkezésre.",
+            "ro": "Începeți aici pentru a evita aglomerația din oraș. Există o parcare amplă.",
+            "en": "Start here to avoid the city crowds. Ample parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Wallace-Denkmal",
+            "hu": "A Nemzeti Wallace-emlékmű",
+            "ro": "Monumentul Național Wallace",
+            "en": "National Wallace Monument"
+          },
+          "coords": [
+            -3.9215,
+            56.1388
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie unten und nehmen Sie den Shuttlebus oder genießen Sie den Spaziergang nach oben.",
+            "hu": "Parkolj lent, és menj fel a shuttle busszal, vagy élvezd a sétát felfelé.",
+            "ro": "Parcați la bază și luați autobuzul de transfer sau bucurați-vă de plimbarea până sus.",
+            "en": "Park at the bottom and take the shuttle bus or enjoy the walk up."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Stirling",
+            "hu": "Stirlingi vár",
+            "ro": "Castelul Stirling",
+            "en": "Stirling Castle"
+          },
+          "coords": [
+            -3.9478,
+            56.1238
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:37",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf der Esplanade. Es ist am besten, am frühen Nachmittag anzukommen.",
+            "hu": "Parkolj az Esplanade-on. A legjobb, ha kora délután érkezel.",
+            "ro": "Parcați pe Esplanadă. Cel mai bine este să ajungeți la începutul după-amiezii.",
+            "en": "Park on the esplanade. It's best to arrive in the early afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Kreuzes",
+            "hu": "A Szent Kereszt-templom",
+            "ro": "Biserica Sfânta Cruce",
+            "en": "Church of the Holy Rude"
+          },
+          "coords": [
+            -3.9495,
+            56.1232
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:41",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der Burg entfernt. Ein Moment der Ruhe.",
+            "hu": "Csak egy rövid séta a vártól. A nyugalom pillanata.",
+            "ro": "La doar o scurtă plimbare de castel. Un moment de liniște.",
+            "en": "Just a short walk from the castle. A moment of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Stadtgefängnis von Stirling",
+            "hu": "Stirling óvárosi börtöne",
+            "ro": "Închisoarea Veche din Stirling",
+            "en": "Stirling Old Town Jail"
+          },
+          "coords": [
+            -3.949,
+            56.1225
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Teil Ihres Schlossberg-Rundgangs.",
+            "hu": "A Várhegy-túra utolsó állomása.",
+            "ro": "Ultima parte a turului pe jos al dealului castelului.",
+            "en": "The last part of your castle hill walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Cambuskenneth",
+            "hu": "Cambuskennethi apátság",
+            "ro": "Abația Cambuskenneth",
+            "en": "Cambuskenneth Abbey"
+          },
+          "coords": [
+            -3.9233,
+            56.1247
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in die Stadt und machen Sie einen letzten Spaziergang zu diesem ruhigen Ort.",
+            "hu": "Vezess vissza a városba, és sétálj egy utolsót ehhez a békés helyhez.",
+            "ro": "Conduceți înapoi în oraș și faceți o ultimă plimbare până la acest loc liniștit.",
+            "en": "Drive back into town and have a final stroll to this peaceful spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um die wichtigsten historischen Stätten von Stirling zu verbinden. Beginnen Sie am Schlachtfeld von Bannockburn, fahren Sie dann zum hoch aufragenden Wallace Monument. Parken Sie am Nachmittag auf dem Schlossberg und erkunden Sie zu Fuß das Schloss, die Kirche und das alte Gefängnis als einen einzigen historischen Komplex. Ein letzter kurzer Spaziergang führt Sie zur ruhigen Cambuskenneth Abbey, ein perfekter Abschluss des Tages.",
+        "hu": "Használd ki az autó rugalmasságát, hogy összekösd Stirling legfontosabb történelmi helyszíneit. Kezdj a bannockburni csatatérnél, majd vezess a magasba törő Wallace-emlékműhöz. Délután parkolj le a Várhegyen, és fedezd fel gyalog a várat, a templomot és a régi börtönt, mint egyetlen történelmi komplexumot. Egy utolsó rövid séta a csendes Cambuskenneth apátsághoz vezet, ami tökéletes lezárása a napnak.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a conecta siturile istorice cheie din Stirling. Începeți la câmpul de luptă de la Bannockburn, apoi conduceți la impunătorul Monument Wallace. După-amiaza, parcați pe dealul castelului și explorați pe jos castelul, biserica și vechea închisoare ca un singur complex istoric. O ultimă plimbare scurtă vă duce la liniștita Abație Cambuskenneth, o încheiere perfectă a zilei.",
+        "en": "Use the flexibility of the car to connect Stirling's key historical sites. Start at the Bannockburn battlefield, then drive to the towering Wallace Monument. In the afternoon, park on the castle hill and explore the castle, church, and old jail on foot as a single historic cluster. A final short stroll takes you to the serene Cambuskenneth Abbey, a perfect end to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Old Bridge Inn",
+            "tip": "Ein gemütlicher Pub in der Nähe der Alten Brücke, ideal für ein Mittagessen."
+          },
+          {
+            "name": "Hermann's Restaurant",
+            "tip": "Österreichische Küche mit schottischen Zutaten, für ein besonderes Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Old Bridge Inn",
+            "tip": "Hangulatos pub a Régi híd közelében, ideális egy ebédre."
+          },
+          {
+            "name": "Hermann's Restaurant",
+            "tip": "Osztrák konyha skót alapanyagokból, egy különleges vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Old Bridge Inn",
+            "tip": "Un pub confortabil lângă Podul Vechi, ideal pentru prânz."
+          },
+          {
+            "name": "Hermann's Restaurant",
+            "tip": "Bucătărie austriacă cu ingrediente scoțiene, pentru o cină specială."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Old Bridge Inn",
+            "tip": "A cozy pub near the Old Bridge, great for a pub lunch."
+          },
+          {
+            "name": "Hermann's Restaurant",
+            "tip": "Austrian cuisine with Scottish ingredients, for a special dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Beheading Stone",
+            "tip": "Ein ruhiger Ort mit dunkler Geschichte und großartiger Aussicht auf dem Schlossberg.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussicht vom Wallace Monument",
+            "tip": "An einem klaren Tag können Sie meilenweit sehen. Der Aufstieg lohnt sich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beheading Stone (Vérpadkő)",
+            "tip": "Csendes hely sötét történelemmel és nagyszerű kilátással a Várhegyen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Wallace-emlékműről",
+            "tip": "Tiszta napon mérföldekre elláthatsz. Megéri a mászást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piatra de Decapitare",
+            "tip": "Un loc liniștit cu o istorie întunecată și priveliști grozave pe dealul castelului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Priveliștea de la Monumentul Wallace",
+            "tip": "Într-o zi senină, puteți vedea la kilometri distanță. Merită urcarea.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Beheading Stone",
+            "tip": "A quiet spot with a dark history and great views on the castle hill.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the Wallace Monument",
+            "tip": "On a clear day, you can see for miles. Worth the climb.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Thistles Shopping Centre",
+            "tip": "Für alle Ihre High-Street-Shopping-Bedürfnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Thistles bevásárlóközpont",
+            "tip": "Mindenféle bevásárlási igény kielégítésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial The Thistles",
+            "tip": "Pentru toate nevoile dvs. de cumpărături de pe strada principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Thistles Shopping Centre",
+            "tip": "For all your high-street shopping needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Optionen, um das Fahren im Stadtzentrum zu vermeiden.",
+          "Parkgebühren können teuer sein, besonders in der Nähe der Burg. Planen Sie entsprechend.",
+          "Die Straßen in der Altstadt sind eng und oft Einbahnstraßen. Seien Sie vorsichtig.",
+          "Ein Auto ermöglicht es Ihnen, abgelegenere Orte wie die Deanston Distillery oder Doune Castle zu besuchen."
+        ],
+        "hu": [
+          "Használj Park and Ride lehetőségeket, hogy elkerüld a belvárosi vezetést.",
+          "A parkolási díjak drágák lehetnek, különösen a vár környékén. Tervezz előre.",
+          "Az óváros utcái szűkek és gyakran egyirányúak. Légy óvatos.",
+          "Az autó lehetővé teszi, hogy távolabbi helyeket is meglátogass, mint a Deanston lepárló vagy a Doune kastély."
+        ],
+        "ro": [
+          "Folosiți opțiunile de Park and Ride pentru a evita condusul în centrul orașului.",
+          "Taxele de parcare pot fi scumpe, mai ales lângă castel. Planificați în consecință.",
+          "Străzile din Orașul Vechi sunt înguste și adesea cu sens unic. Conduceți cu prudență.",
+          "O mașină vă permite să vizitați locuri mai îndepărtate, cum ar fi Distileria Deanston sau Castelul Doune."
+        ],
+        "en": [
+          "Use Park and Ride options to avoid driving in the city centre.",
+          "Parking fees can be expensive, especially near the castle. Plan accordingly.",
+          "The Old Town streets are narrow and often one-way. Be careful.",
+          "A car allows you to visit further afield sites like Deanston Distillery or Doune Castle."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Nationales Wallace-Denkmal",
+            "hu": "A Nemzeti Wallace-emlékmű",
+            "ro": "Monumentul Național Wallace",
+            "en": "National Wallace Monument"
+          },
+          "coords": [
+            -3.9215,
+            56.1388
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum und genießen Sie die Aussicht auf dem Weg.",
+            "hu": "Szállj buszra a városközpontból, és élvezd a kilátást útközben.",
+            "ro": "Luați un autobuz din centrul orașului și bucurați-vă de priveliști pe drum.",
+            "en": "Take a bus from the city centre and enjoy the views on the way."
+          }
+        },
+        {
+          "name": {
+            "de": "Besucherzentrum Bannockburn",
+            "hu": "Bannockburni Látogatóközpont",
+            "ro": "Centrul pentru Vizitatori Bannockburn",
+            "en": "Bannockburn Visitor Centre"
+          },
+          "coords": [
+            -3.9388,
+            56.095
+          ],
+          "category": "museums",
+          "arrive_at": "11:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Busse fahren regelmäßig von Stirling nach Bannockburn.",
+            "hu": "A buszok rendszeresen közlekednek Stirlingből Bannockburnbe.",
+            "ro": "Autobuzele circulă regulat de la Stirling la Bannockburn.",
+            "en": "Buses run regularly from Stirling to Bannockburn."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Stirling",
+            "hu": "Stirlingi vár",
+            "ro": "Castelul Stirling",
+            "en": "Stirling Castle"
+          },
+          "coords": [
+            -3.9478,
+            56.1238
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum und gehen Sie den Hügel hinauf.",
+            "hu": "Menj busszal vissza a központba, majd sétálj fel a dombra.",
+            "ro": "Luați un autobuz înapoi în centru și urcați pe jos dealul.",
+            "en": "Take a bus back to the centre and walk up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Kreuzes",
+            "hu": "A Szent Kereszt-templom",
+            "ro": "Biserica Sfânta Cruce",
+            "en": "Church of the Holy Rude"
+          },
+          "coords": [
+            -3.9495,
+            56.1232
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:34",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss entfernt, alles Teil desselben Fußgängerclusters.",
+            "hu": "Rövid séta a vártól, mindez ugyanazon gyalogos zóna része.",
+            "ro": "O scurtă plimbare de la castel, parte a aceluiași cluster pietonal.",
+            "en": "A short walk from the castle, all part of the same walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Stadtgefängnis von Stirling",
+            "hu": "Stirling óvárosi börtöne",
+            "ro": "Închisoarea Veche din Stirling",
+            "en": "Stirling Old Town Jail"
+          },
+          "coords": [
+            -3.949,
+            56.1225
+          ],
+          "category": "museums",
+          "arrive_at": "16:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einer Tour durch dieses faszinierende Museum.",
+            "hu": "Zárd a napot egy túrával ebben a lenyűgöző múzeumban.",
+            "ro": "Încheiați-vă ziua cu un tur al acestui muzeu fascinant.",
+            "en": "Finish your day with a tour of this fascinating museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Stirling mühelos mit öffentlichen Verkehrsmitteln. Nehmen Sie einen Bus zum Wallace Monument und dann einen weiteren zum historischen Bannockburn. Am Nachmittag kehren Sie ins Stadtzentrum zurück, um den Schlossberg zu Fuß zu erobern. Schlendern Sie vom Schloss zur Kirche und zum Gefängnis und tauchen Sie ein in das Herz der schottischen Geschichte, bevor Sie einen Bus zurück zu Ihrer Unterkunft nehmen.",
+        "hu": "Fedezd fel Stirlinget könnyedén a tömegközlekedéssel. Szállj buszra a Wallace-emlékműhöz, majd egy másikra a történelmi Bannockburnbe. Délután térj vissza a városközpontba, hogy gyalog hódítsd meg a Várhegyet. Sétálj a vártól a templomig és a börtönig, elmerülve a skót történelem szívében, mielőtt visszabuszoznál a szállásodra.",
+        "ro": "Explorați Stirling cu ușurință folosind transportul public. Luați un autobuz până la Monumentul Wallace, apoi altul până la istoricul Bannockburn. După-amiaza, întoarceți-vă în centrul orașului pentru a cuceri dealul castelului pe jos. Plimbați-vă de la castel la biserică și închisoare, cufundându-vă în inima istoriei scoțiene înainte de a lua un autobuz înapoi la cazare.",
+        "en": "Explore Stirling effortlessly using public transport. Take a bus to the Wallace Monument, then another to historic Bannockburn. In the afternoon, return to the city centre to conquer the castle hill on foot. Wander from the castle to the church and jail, immersing yourself in the heart of Scottish history before catching a bus back to your accommodation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brea",
+            "tip": "Moderne schottische Küche in der Nähe des Bahnhofs, ideal für eine Mahlzeit zwischen den Busfahrten."
+          },
+          {
+            "name": "The Crossed Peels",
+            "tip": "Ein Wetherspoons-Pub für eine günstige und schnelle Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brea",
+            "tip": "Modern skót konyha a vasútállomás közelében, ideális étkezés két buszozás között."
+          },
+          {
+            "name": "The Crossed Peels",
+            "tip": "Egy Wetherspoons pub egy olcsó és gyors étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brea",
+            "tip": "Bucătărie scoțiană modernă lângă gară, perfectă pentru o masă între călătoriile cu autobuzul."
+          },
+          {
+            "name": "The Crossed Peels",
+            "tip": "Un pub Wetherspoons pentru o masă ieftină și rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brea",
+            "tip": "Modern Scottish cuisine near the train station, perfect for a meal between bus journeys."
+          },
+          {
+            "name": "The Crossed Peels",
+            "tip": "A Wetherspoons pub for a cheap and quick meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pullar Memorial Park",
+            "tip": "Ein ruhiger Park, um sich zu entspannen, während Sie auf Ihren Bus warten.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pullar Memorial Park",
+            "tip": "Csendes park, ahol pihenhetsz, amíg a buszodra vársz.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Memorial Pullar",
+            "tip": "Un parc liniștit pentru a vă relaxa în timp ce așteptați autobuzul.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pullar Memorial Park",
+            "tip": "A quiet park to relax in while waiting for your bus.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Port Street",
+            "tip": "In der Nähe des Busbahnhofs für Last-Minute-Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Port Street üzletei",
+            "tip": "Közel a buszpályaudvarhoz az utolsó pillanatban beszerzett ajándéktárgyakhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe Port Street",
+            "tip": "Aproape de stația de autobuz pentru suveniruri de ultim moment."
+          }
+        ],
+        "en": [
+          {
+            "name": "Port Street Shops",
+            "tip": "Close to the bus station for any last-minute souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten mit den First Bus-Diensten.",
+          "Laden Sie die First Bus App herunter, um Fahrpläne und Live-Tracking zu erhalten.",
+          "Planen Sie zusätzliche Zeit für Busfahrten ein, da es zu Verkehrsbehinderungen kommen kann.",
+          "Die meisten Busse sind barrierefrei, aber überprüfen Sie dies bei Bedarf im Voraus."
+        ],
+        "hu": [
+          "Vegyél napijegyet a korlátlan utazáshoz a First Bus járatain.",
+          "Töltsd le a First Bus alkalmazást a menetrendekért és az élő követésért.",
+          "Tervezz plusz időt a buszozásra, mivel forgalmi dugók előfordulhatnak.",
+          "A legtöbb busz akadálymentesített, de szükség esetén ellenőrizd előre."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu serviciile First Bus.",
+          "Descărcați aplicația First Bus pentru orare și urmărire în direct.",
+          "Acordați timp suplimentar pentru călătoriile cu autobuzul, deoarece poate exista trafic.",
+          "Majoritatea autobuzelor sunt accesibile, dar verificați în prealabil dacă este necesar."
+        ],
+        "en": [
+          "Buy a day ticket for unlimited travel on First Bus services.",
+          "Download the First Bus app for timetables and live tracking.",
+          "Allow extra time for bus journeys as there can be traffic.",
+          "Most buses are accessible, but check beforehand if you have specific needs."
+        ]
+      }
+    }
+  }
+}

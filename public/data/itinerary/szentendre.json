@@ -1,10 +1,10 @@
 {
   "city_id": "szentendre",
   "anchor": {
-    "name": "Szentendre Fő tér",
+    "name": "Szentendre, Hauptplatz (Fő tér)",
     "coords": [
-      19.0758,
-      47.6675
+      19.0761,
+      47.6694
     ]
   },
   "modes": {
@@ -12,299 +12,372 @@
       "mode": "walk",
       "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "17:30",
-      "total_km": 3.8,
-      "stop_count": 8,
+      "end_estimate": "17:55",
+      "total_km": 2.1,
+      "stop_count": 7,
       "stops": [
-        {
-          "name": {
-            "de": "HÉV-Bahnhof",
-            "hu": "HÉV állomás",
-            "ro": "Gara HÉV",
-            "en": "HÉV Station"
-          },
-          "coords": [
-            19.0705,
-            47.6612
-          ],
-          "category": "transit",
-          "arrive_at": "09:10",
-          "stay_min": 20,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.0,
-          "tip_5lang": {
-            "de": "Tor zur malerischen Altstadt.",
-            "hu": "Az óváros kapuja.",
-            "ro": "Poarta către orașul vechi.",
-            "en": "Gateway to the old town."
-          }
-        },
-        {
-          "name": {
-            "de": "Bükkös-Bach Promenade",
-            "hu": "Bükkös-patak partja",
-            "ro": "Malul pârâului Bükkös",
-            "en": "Bükkös Stream Bank"
-          },
-          "coords": [
-            19.0732,
-            47.6645
-          ],
-          "category": "park",
-          "arrive_at": "09:45",
-          "stay_min": 75,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.7,
-          "tip_5lang": {
-            "de": "Wochenmarkt am Mittwoch und Samstag.",
-            "hu": "Szerdán és szombaton piac üzemel.",
-            "ro": "Piață locală miercurea și sâmbăta.",
-            "en": "Local market on Wed and Sat."
-          }
-        },
         {
           "name": {
             "de": "Hauptplatz (Fő tér)",
             "hu": "Fő tér",
-            "ro": "Piața Centrală",
-            "en": "Main Square"
+            "ro": "Piața Principală (Fő tér)",
+            "en": "Main Square (Fő tér)"
           },
           "coords": [
-            19.0758,
-            47.6675
+            19.0772,
+            47.6689
           ],
-          "category": "square",
-          "arrive_at": "11:10",
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
           "stay_min": 30,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Das Herz der Barockstadt.",
-            "hu": "A barokk város szíve.",
-            "ro": "Inima orașului baroc.",
-            "en": "The heart of the baroque town."
+            "de": "Starten Sie mit einem Kaffee in einem der charmanten Cafés am Platz.",
+            "hu": "Kezdd a napot egy kávéval a tér egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele fermecătoare din piață.",
+            "en": "Start your day with a coffee at one of the charming cafés on the square."
           }
         },
         {
           "name": {
             "de": "Blagovestenska-Kirche",
-            "hu": "Blagovestenska templom",
+            "hu": "Blagovestenska-templom",
             "ro": "Biserica Blagovestenska",
             "en": "Blagovestenska Church"
           },
           "coords": [
-            19.0755,
-            47.6681
+            19.0775,
+            47.6686
           ],
-          "category": "religious",
-          "arrive_at": "11:45",
-          "stay_min": 45,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.1,
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
           "tip_5lang": {
-            "de": "Wunderschöne orthodoxe Ikonen.",
-            "hu": "Gyönyörű ortodox ikonok.",
-            "ro": "Icoane ortodoxe superbe.",
-            "en": "Beautiful orthodox icons."
+            "de": "Bewundern Sie die beeindruckende Rokoko-Ikonostase im Inneren.",
+            "hu": "Csodáld meg a lenyűgöző rokokó ikonosztázt a templom belsejében.",
+            "ro": "Admirați impresionantul iconostas în stil rococo din interior.",
+            "en": "Admire the impressive Rococo iconostasis inside."
           }
         },
         {
           "name": {
-            "de": "Kovács Margit Museum",
+            "de": "Kovács-Margit-Museum",
             "hu": "Kovács Margit Múzeum",
-            "ro": "Muzeul Kovács Margit",
+            "ro": "Muzeul Margit Kovács",
             "en": "Margit Kovács Museum"
           },
           "coords": [
             19.0765,
-            47.6672
+            47.6696
           ],
-          "category": "museum",
-          "arrive_at": "12:45",
+          "category": "museums",
+          "arrive_at": "10:30",
           "stay_min": 100,
-          "hop_from_prev_min": 15,
+          "hop_from_prev_min": 6,
           "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Einzigartige Keramikkunst.",
-            "hu": "Egyedülálló kerámiaművészet.",
-            "ro": "Artă ceramică unică.",
-            "en": "Unique ceramic art."
+            "de": "Ein Muss für Liebhaber ungarischer Keramikkunst.",
+            "hu": "A magyar kerámiaművészet kedvelőinek kötelező.",
+            "ro": "O vizită obligatorie pentru iubitorii de artă ceramică maghiară.",
+            "en": "A must-see for lovers of Hungarian ceramic art."
           }
         },
         {
           "name": {
-            "de": "Templomdomb Aussichtspunkt",
-            "hu": "Templomdombi kilátó",
-            "ro": "Belvedere Templomdomb",
-            "en": "Church Hill Viewpoint"
+            "de": "Marzipan-Museum",
+            "hu": "Marcipán Múzeum",
+            "ro": "Muzeul de Marțipan",
+            "en": "Marzipan Museum"
           },
           "coords": [
-            19.0742,
-            47.6678
+            19.0781,
+            47.6679
           ],
-          "category": "viewpoint",
-          "arrive_at": "14:40",
-          "stay_min": 25,
-          "hop_from_prev_min": 15,
+          "category": "museums",
+          "arrive_at": "12:18",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
           "hop_from_prev_km": 0.4,
           "tip_5lang": {
-            "de": "Bester Blick auf die roten Dächer.",
-            "hu": "Legjobb kilátás a piros tetőkre.",
-            "ro": "Cea mai bună vedere spre acoperișuri.",
-            "en": "Best view of the red rooftops."
+            "de": "Probieren Sie die süßen Kreationen und kaufen Sie ein essbares Souvenir.",
+            "hu": "Kóstold meg az édes alkotásokat, és vásárolj egy ehető szuvenírt.",
+            "ro": "Gustați creațiile dulci și cumpărați un suvenir comestibil.",
+            "en": "Taste the sweet creations and buy an edible souvenir."
           }
         },
         {
           "name": {
-            "de": "Szamos Marzipan Zentrum",
-            "hu": "Szamos Marcipán Múzeum",
-            "ro": "Muzeul Marțipanului Szamos",
-            "en": "Szamos Marzipan Museum"
+            "de": "Belgrad-Kathedrale",
+            "hu": "Belgrád-székesegyház",
+            "ro": "Catedrala din Belgrad",
+            "en": "Belgrade Cathedral"
           },
           "coords": [
-            19.0752,
-            47.6685
+            19.0789,
+            47.6701
           ],
-          "category": "museum",
-          "arrive_at": "15:20",
+          "category": "churches/cathedrals",
+          "arrive_at": "13:18",
           "stay_min": 75,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.3,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Süße Kunstwerke aus Marzipan.",
-            "hu": "Édes remekművek marcipánból.",
-            "ro": "Capodopere dulci din marțipan.",
-            "en": "Sweet masterpieces from marzipan."
+            "de": "Finden Sie einen Moment der Ruhe im schattigen Garten der Kathedrale.",
+            "hu": "Találj egy pillanatnyi nyugalmat a székesegyház árnyas kertjében.",
+            "ro": "Găsiți un moment de liniște în grădina umbrită a catedralei.",
+            "en": "Find a moment of peace in the cathedral's shady garden."
           }
         },
         {
           "name": {
-            "de": "Donau-Ufer Promenade",
+            "de": "MűvészetMalom (Kunstmühle)",
+            "hu": "MűvészetMalom",
+            "ro": "MűvészetMalom (Moara de Artă)",
+            "en": "MűvészetMalom (Art Mill)"
+          },
+          "coords": [
+            19.0801,
+            47.6675
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:43",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie den aktuellen Ausstellungsplan für zeitgenössische Kunst.",
+            "hu": "Nézd meg a kortárs művészeti kiállítások aktuális programját.",
+            "ro": "Verificați programul actual de expoziții de artă contemporană.",
+            "en": "Check the current exhibition schedule for contemporary art."
+          }
+        },
+        {
+          "name": {
+            "de": "Donau-Promenade",
             "hu": "Duna-korzó",
-            "ro": "Faleza Dunării",
+            "ro": "Promenada Dunării",
             "en": "Danube Promenade"
           },
           "coords": [
-            19.0775,
-            47.6672
+            19.0795,
+            47.6685
           ],
-          "category": "park",
-          "arrive_at": "16:45",
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:47",
           "stay_min": 75,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
           "tip_5lang": {
-            "de": "Perfekt für den Sonnenuntergang.",
-            "hu": "Tökéletes a naplementéhez.",
-            "ro": "Perfect pentru apusul soarelui.",
-            "en": "Perfect for the sunset."
+            "de": "Der perfekte Ort, um den Tag bei einem Lángos ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap befejezéséhez egy lángossal.",
+            "ro": "Locul perfect pentru a încheia ziua cu un lángos.",
+            "en": "The perfect place to end the day with a lángos."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Entdecken Sie Szentendre zu Fuß, beginnend am HÉV-Bahnhof. Schlendern Sie am Bükkös-Bach entlang zum Fő tér, dem pulsierenden Zentrum mit seiner barocken Architektur. Besuchen Sie die serbisch-orthodoxe Blagovestenska-Kirche und das weltberühmte Kovács Margit Keramikmuseum. Nach einem Panoramablick vom Templomdomb und einem Besuch im Marzipanmuseum lassen Sie den Tag an der malerischen Donau-Promenade ausklingen.",
-        "hu": "Fedezze fel Szentendrét gyalogosan a HÉV-állomástól indulva. Sétáljon a Bükkös-patak partján a barokk építészetű Fő térig. Látogassa meg a szerb ortodox Blagovestenska templomot és a világhírű Kovács Margit Kerámiamúzeumot. A Templomdombi kilátó és a Marcipán Múzeum után zárja a napot a hangulatos Duna-korzón, élvezve a folyóparti nyugalmat.",
-        "ro": "Descoperiți Szentendre la pas, începând de la gara HÉV. Plimbați-vă pe malul pârâului Bükkös până în piața Fő tér, centrul vibrant cu arhitectură barocă. Vizitați biserica ortodoxă sârbă Blagovestenska și faimosul muzeu de ceramică Kovács Margit. După o panoramă de pe dealul bisericii și o vizită la muzeul marțipanului, încheiați ziua pe faleza Dunării.",
-        "en": "Explore Szentendre on foot, starting from the HÉV station. Stroll along the Bükkös stream to Fő tér, the vibrant center with its baroque architecture. Visit the Serbian Orthodox Blagovestenska Church and the world-famous Margit Kovács Ceramic Museum. After a panoramic view from Church Hill and a visit to the Marzipan Museum, end your day at the scenic Danube Promenade."
+        "de": "Beginnen Sie Ihren Tag auf dem pulsierenden Hauptplatz von Szentendre, dem Herzen der Stadt. Von dort aus schlendern Sie durch die engen Gassen und entdecken die serbisch-orthodoxe Blagovestenska-Kirche, bevor Sie in die farbenfrohe Welt der Keramikkünstlerin Margit Kovács eintauchen. Am Mittag lockt das Marzipan-Museum mit süßen Versuchungen. Der Nachmittag gehört der Kunst und der Ruhe. Besuchen Sie die imposante Belgrad-Kathedrale und das Zentrum für zeitgenössische Kunst in der MűvészetMalom. Schließlich lassen Sie den Tag entspannt an der Donau-Promenade ausklingen.",
+        "hu": "Kezdje a napot Szentendre lüktető Fő terén, a város szívében. Innen sétáljon végig a szűk utcákon, fedezze fel a szerb ortodox Blagovestenska-templomot, majd merüljön el Kovács Margit kerámiaművész színes világában. Délben a Marcipán Múzeum édes kísértésekkel csábít. A délután a művészeté és a nyugalomé. Látogasson el az impozáns Belgrád-székesegyházba és a MűvészetMalom kortárs művészeti központba. Végül zárja a napot pihenéssel a Duna-korzón.",
+        "ro": "Începeți ziua în vibranta Piață Principală din Szentendre, inima orașului. De acolo, plimbați-vă pe străduțele înguste pentru a descoperi Biserica sârbească Blagovestenska înainte de a vă cufunda în lumea plină de culoare a artistei ceramiste Margit Kovács. La prânz, Muzeul de Marțipan vă ispitește cu dulciuri. După-amiaza este dedicată artei și liniștii. Vizitați impunătoarea Catedrală din Belgrad și centrul de artă contemporană MűvészetMalom. Încheiați ziua relaxându-vă pe Promenada Dunării.",
+        "en": "Start your day in Szentendre's vibrant Main Square, the heart of the town. From there, wander the narrow streets to discover the Serbian Orthodox Blagovestenska Church before diving into the colourful world of ceramic artist Margit Kovács. At noon, the Marzipan Museum tempts with sweet creations. The afternoon is for art and tranquillity. Visit the imposing Belgrade Cathedral and the MűvészetMalom contemporary art centre. Finally, end the day relaxing on the Danube Promenade."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Lángosostól",
-            "tip": "Probieren Sie den klassischen Lángos mit Knoblauch in der engen Gasse."
+            "name": "Lángos",
+            "tip": "Ein Muss in Szentendre, am besten frisch an der Donau-Promenade genießen."
+          },
+          {
+            "name": "Fischsuppe (Halászlé)",
+            "tip": "Probieren Sie die ungarische Spezialität in einem Restaurant am Flussufer."
+          },
+          {
+            "name": "Kürtőskalács (Baumstriezel)",
+            "tip": "Das perfekte süße Souvenir für den Heimweg."
           }
         ],
         "hu": [
           {
-            "name": "Lángos a sikátorban",
-            "tip": "Kóstolja meg a klasszikus fokhagymás lángost a szűk sikátorban."
+            "name": "Lángos",
+            "tip": "Szentendrei látogatás kötelező eleme, frissen a Duna-korzón a legjobb."
+          },
+          {
+            "name": "Halászlé",
+            "tip": "Kóstold meg ezt a magyar specialitást egy folyóparti étteremben."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "A tökéletes édes szuvenír hazafelé."
           }
         ],
         "ro": [
           {
-            "name": "Lángos tradițional",
-            "tip": "Gustați lángos-ul tradițional cu usturoi pe ulița îngustă."
+            "name": "Lángos",
+            "tip": "O gustare obligatorie în Szentendre, cel mai bun proaspăt pe Promenada Dunării."
+          },
+          {
+            "name": "Supă de pește (Halászlé)",
+            "tip": "Încercați specialitatea maghiară la un restaurant de pe malul râului."
+          },
+          {
+            "name": "Kürtőskalács (Cozonac secuiesc)",
+            "tip": "Suvenirul dulce perfect pentru drumul spre casă."
           }
         ],
         "en": [
           {
-            "name": "Alley Lángos",
-            "tip": "Try the classic garlic lángos in the famous narrow alley."
+            "name": "Lángos",
+            "tip": "A must-try in Szentendre, best enjoyed fresh on the Danube Promenade."
+          },
+          {
+            "name": "Fisherman's Soup (Halászlé)",
+            "tip": "Try the Hungarian specialty at a riverside restaurant."
+          },
+          {
+            "name": "Chimney Cake (Kürtőskalács)",
+            "tip": "The perfect sweet souvenir for the way home."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Bükkös-parti padok",
-            "tip": "Ein ruhiger Ort fernab der Touristenströme.",
-            "emoji": "🏞️"
+            "name": "Kirchhügel",
+            "tip": "Steigen Sie zum Kirchhügel hinauf für eine herrliche Aussicht und einen ruhigen Moment.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten der Belgrad-Kathedrale",
+            "tip": "Eine versteckte Oase der Ruhe mitten in der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kleine Seitengassen",
+            "tip": "Verlieren Sie sich in den kopfsteingepflasterten Gassen abseits des Hauptplatzes.",
+            "emoji": "🚶"
           }
         ],
         "hu": [
           {
-            "name": "Bükkös-parti padok",
-            "tip": "Csendes hely a patakparton, távol a tömegtől.",
-            "emoji": "🏞️"
+            "name": "Templomdomb",
+            "tip": "Sétálj fel a Templomdombra a csodás kilátásért és egy békés pillanatért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Belgrád-székesegyház kertje",
+            "tip": "A nyugalom rejtett oázisa a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kis mellékutcák",
+            "tip": "Vessz el a macskaköves utcácskákban a Fő tértől távolabb.",
+            "emoji": "🚶"
           }
         ],
         "ro": [
           {
-            "name": "Băncile de pe malul pârâului",
-            "tip": "Un loc liniștit departe de mulțime.",
-            "emoji": "🏞️"
+            "name": "Dealul Bisericii",
+            "tip": "Urcați pe Dealul Bisericii pentru o priveliște minunată și un moment de liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Catedralei din Belgrad",
+            "tip": "O oază de liniște ascunsă în mijlocul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Străduțe lăturalnice",
+            "tip": "Pierdeți-vă pe străduțele pavate, departe de Piața Principală.",
+            "emoji": "🚶"
           }
         ],
         "en": [
           {
-            "name": "Stream-side Benches",
-            "tip": "A quiet spot along the stream away from the crowds.",
-            "emoji": "🏞️"
+            "name": "Church Hill",
+            "tip": "Climb up Church Hill for a wonderful view and a peaceful moment.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Belgrade Cathedral Garden",
+            "tip": "A hidden oasis of calm in the middle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Small Side Streets",
+            "tip": "Get lost in the cobbled alleys away from the Main Square.",
+            "emoji": "🚶"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Keramik-Manufaktur",
-            "tip": "Handgefertigte ungarische Volkskunst."
+            "name": "Handwerksläden",
+            "tip": "Entdecken Sie einzigartige Keramiken, Textilien und Schmuck von lokalen Künstlern."
+          },
+          {
+            "name": "Paprika & Salami",
+            "tip": "Kaufen Sie authentische ungarische Gewürze und Wurstwaren als Mitbringsel."
           }
         ],
         "hu": [
           {
-            "name": "Kerámia műhely",
-            "tip": "Kézzel készített magyar népművészeti tárgyak."
+            "name": "Kézműves boltok",
+            "tip": "Fedezz fel egyedi kerámiákat, textileket és ékszereket helyi művészektől."
+          },
+          {
+            "name": "Paprika és szalámi",
+            "tip": "Vásárolj autentikus magyar fűszereket és hentesárut ajándékba."
           }
         ],
         "ro": [
           {
-            "name": "Atelierul de ceramică",
-            "tip": "Obiecte de artă populară maghiară lucrate manual."
+            "name": "Magazine de artizanat",
+            "tip": "Descoperiți ceramică unică, textile și bijuterii de la artiști locali."
+          },
+          {
+            "name": "Boia și salam",
+            "tip": "Cumpărați condimente și mezeluri maghiare autentice ca suveniruri."
           }
         ],
         "en": [
           {
-            "name": "Ceramic Workshop",
-            "tip": "Handmade Hungarian folk art souvenirs."
+            "name": "Artisan Shops",
+            "tip": "Discover unique ceramics, textiles, and jewelry from local artists."
+          },
+          {
+            "name": "Paprika & Salami",
+            "tip": "Buy authentic Hungarian spices and cured meats as souvenirs."
           }
         ]
       },
       "tips": {
         "de": [
-          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
-          "Der HÉV-Zug fährt alle 20 Minuten von Budapest ab."
+          "Tragen Sie bequeme Schuhe, da die Gassen mit Kopfsteinpflaster gepflastert sind.",
+          "Die meisten Museen sind montags geschlossen.",
+          "Nehmen Sie Bargeld mit, da nicht alle kleinen Läden und Stände Karten akzeptieren.",
+          "Szentendre ist besonders an Wochenenden sehr beliebt, planen Sie Ihren Besuch unter der Woche für weniger Gedränge."
         ],
         "hu": [
-          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
-          "A HÉV 20 percenként indul Budapestről (Batthyány tér)."
+          "Viselj kényelmes cipőt, az utcák macskakövesek.",
+          "A legtöbb múzeum hétfőn zárva tart.",
+          "Vigyél magaddal készpénzt, mert nem minden kis boltban és standnál fogadnak el kártyát.",
+          "Szentendre különösen hétvégén népszerű, tervezd a látogatást hétköznapra, ha elkerülnéd a tömeget."
         ],
         "ro": [
-          "Purtați încălțăminte comodă pentru străzile pavate.",
-          "Trenul HÉV pleacă la fiecare 20 de minute din Budapesta."
+          "Purtați încălțăminte confortabilă, deoarece străzile sunt pavate cu piatră cubică.",
+          "Majoritatea muzeelor sunt închise lunea.",
+          "Luați numerar, deoarece nu toate magazinele mici și tarabele acceptă carduri.",
+          "Szentendre este foarte popular în weekend, planificați-vă vizita în timpul săptămânii pentru mai puțină aglomerație."
         ],
         "en": [
-          "Wear comfortable shoes for the cobblestone streets.",
-          "The HÉV train leaves every 20 minutes from Budapest."
+          "Wear comfortable shoes as the streets are cobblestoned.",
+          "Most museums are closed on Mondays.",
+          "Bring cash, as not all small shops and stalls accept cards.",
+          "Szentendre is very popular on weekends, plan your visit on a weekday for fewer crowds."
         ]
       }
     },
@@ -312,253 +385,349 @@
       "mode": "bike",
       "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "16:45",
-      "total_km": 12.5,
-      "stop_count": 7,
+      "end_estimate": "17:16",
+      "total_km": 6.8,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Donau-Radweg Einstieg",
-            "hu": "Duna-menti kerékpárút",
-            "ro": "Intrarea pe pista de biciclete",
-            "en": "Danube Bike Path"
+            "de": "Donau-Promenade",
+            "hu": "Duna-korzó",
+            "ro": "Promenada Dunării",
+            "en": "Danube Promenade"
           },
           "coords": [
-            19.0712,
-            47.6605
+            19.0795,
+            47.6685
           ],
-          "category": "park",
-          "arrive_at": "09:15",
-          "stay_min": 15,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.0,
-          "tip_5lang": {
-            "de": "Einfacher Weg entlang des Flusses.",
-            "hu": "Könnyű útvonal a folyó mentén.",
-            "ro": "Traseu ușor de-a lungul fluviului.",
-            "en": "Easy path along the river."
-          }
-        },
-        {
-          "name": {
-            "de": "Skanzen Freilichtmuseum",
-            "hu": "Skanzen (Szabadtéri Múzeum)",
-            "ro": "Muzeul Satului (Skanzen)",
-            "en": "Skanzen Open Air Museum"
-          },
-          "coords": [
-            19.0485,
-            47.6985
-          ],
-          "category": "museum",
-          "arrive_at": "10:05",
-          "stay_min": 180,
-          "hop_from_prev_min": 35,
-          "hop_from_prev_km": 5.5,
-          "tip_5lang": {
-            "de": "Ungarns größtes Freilichtmuseum.",
-            "hu": "Magyarország legnagyobb szabadtéri múzeuma.",
-            "ro": "Cel mai mare muzeu al satului din Ungaria.",
-            "en": "Hungary's largest open-air museum."
-          }
-        },
-        {
-          "name": {
-            "de": "Mühle am Skanzen",
-            "hu": "Skanzen malom",
-            "ro": "Moara din Skanzen",
-            "en": "Skanzen Mill"
-          },
-          "coords": [
-            19.0492,
-            47.6992
-          ],
-          "category": "historical",
-          "arrive_at": "13:10",
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
           "stay_min": 40,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Traditionelle ungarische Architektur.",
-            "hu": "Hagyományos magyar népi építészet.",
-            "ro": "Arhitectură tradițională maghiară.",
-            "en": "Traditional Hungarian architecture."
-          }
-        },
-        {
-          "name": {
-            "de": "Szentendre Altstadt",
-            "hu": "Szentendrei óváros",
-            "ro": "Orașul vechi Szentendre",
-            "en": "Szentendre Old Town"
-          },
-          "coords": [
-            19.0755,
-            47.6678
-          ],
-          "category": "square",
-          "arrive_at": "14:25",
-          "stay_min": 30,
-          "hop_from_prev_min": 35,
-          "hop_from_prev_km": 5.2,
-          "tip_5lang": {
-            "de": "Fahrrad abstellen und bummeln.",
-            "hu": "Tegye le a bringát és sétáljon.",
-            "ro": "Lăsați bicicleta și plimbați-vă.",
-            "en": "Park the bike and walk around."
-          }
-        },
-        {
-          "name": {
-            "de": "Ferry Station",
-            "hu": "Rév állomás",
-            "ro": "Stația de feribot",
-            "en": "Ferry Station"
-          },
-          "coords": [
-            19.0792,
-            47.6665
-          ],
-          "category": "port",
-          "arrive_at": "15:05",
-          "stay_min": 25,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.8,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Kurze Überfahrt zur Insel.",
-            "hu": "Gyors átkelés a szigetre.",
-            "ro": "Traversare scurtă spre insulă.",
-            "en": "Quick crossing to the island."
+            "de": "Starten Sie Ihre Radtour entlang des Flusses und genießen Sie die Morgenbrise.",
+            "hu": "Kezdd a biciklitúrát a folyó mentén, és élvezd a reggeli szellőt.",
+            "ro": "Începeți turul cu bicicleta de-a lungul râului și bucurați-vă de briza dimineții.",
+            "en": "Start your bike tour along the river and enjoy the morning breeze."
           }
         },
         {
           "name": {
-            "de": "Postás Strand",
-            "hu": "Postás strand",
-            "ro": "Plaja Postás",
-            "en": "Postás Beach"
+            "de": "Hauptplatz (Fő tér)",
+            "hu": "Fő tér",
+            "ro": "Piața Principală (Fő tér)",
+            "en": "Main Square (Fő tér)"
           },
           "coords": [
-            19.0785,
-            47.6582
+            19.0772,
+            47.6689
           ],
-          "category": "beach",
-          "arrive_at": "15:45",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
+          "category": "squares/old-town",
+          "arrive_at": "09:54",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den belebten Platz zu Fuß.",
+            "hu": "Tedd le a biciklit, és fedezd fel gyalog a nyüzsgő teret.",
+            "ro": "Parcați bicicleta și explorați piața animată pe jos.",
+            "en": "Park your bike and explore the bustling square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Czöbel-Béla-Museum",
+            "hu": "Czöbel Béla Múzeum",
+            "ro": "Muzeul Béla Czöbel",
+            "en": "Béla Czöbel Museum"
+          },
+          "coords": [
+            19.0768,
+            47.6705
+          ],
+          "category": "museums",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Werke eines der bedeutendsten ungarischen Maler des 20. Jahrhunderts.",
+            "hu": "Fedezd fel a 20. század egyik legjelentősebb magyar festőjének munkásságát.",
+            "ro": "Descoperiți operele unuia dintre cei mai importanți pictori maghiari ai secolului al XX-lea.",
+            "en": "Discover the works of one of the most important Hungarian painters of the 20th century."
+          }
+        },
+        {
+          "name": {
+            "de": "MűvészetMalom (Kunstmühle)",
+            "hu": "MűvészetMalom",
+            "ro": "MűvészetMalom (Moara de Artă)",
+            "en": "MűvészetMalom (Art Mill)"
+          },
+          "coords": [
+            19.0801,
+            47.6675
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:53",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
           "hop_from_prev_km": 1.0,
           "tip_5lang": {
-            "de": "Einzigartiger Sandstrand am Fluss.",
-            "hu": "Egyedülálló homokos folyóparti strand.",
-            "ro": "Plajă de nisip pe malul Dunării.",
-            "en": "Unique sandy river beach."
+            "de": "Ein großartiger Ort für eine längere Pause und um in die moderne Kunstszene einzutauchen.",
+            "hu": "Remek hely egy hosszabb szünetre és a modern művészeti életbe való elmerülésre.",
+            "ro": "Un loc minunat pentru o pauză mai lungă și pentru a vă cufunda în scena artei moderne.",
+            "en": "A great place for a longer break and to immerse yourself in the modern art scene."
+          }
+        },
+        {
+          "name": {
+            "de": "Mikro-Art-Museum",
+            "hu": "Mikro-Art Múzeum",
+            "ro": "Muzeul de Micro-Artă",
+            "en": "Micro-Art Museum"
+          },
+          "coords": [
+            19.0779,
+            47.6678
+          ],
+          "category": "museums",
+          "arrive_at": "13:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie Kunstwerke, die so klein sind, dass man sie nur durch ein Mikroskop sehen kann!",
+            "hu": "Csodálj meg olyan apró műalkotásokat, amiket csak mikroszkópon keresztül láthatsz!",
+            "ro": "Minunați-vă de opere de artă atât de mici încât le puteți vedea doar la microscop!",
+            "en": "Marvel at works of art so small you can only see them through a microscope!"
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichtmuseum Skanzen (Süd-Eingang)",
+            "hu": "Skanzen (déli bejárat)",
+            "ro": "Muzeul Satului Skanzen (Intrarea de Sud)",
+            "en": "Skanzen Open Air Museum (South Entrance)"
+          },
+          "coords": [
+            19.055,
+            47.685
+          ],
+          "category": "museums",
+          "arrive_at": "15:22",
+          "stay_min": 180,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, das größte Freilichtmuseum Ungarns ist riesig!",
+            "hu": "Tervezz elég időt, Magyarország legnagyobb szabadtéri múzeuma hatalmas!",
+            "ro": "Planificați suficient timp, cel mai mare muzeu în aer liber din Ungaria este imens!",
+            "en": "Plan enough time, Hungary's largest open-air museum is huge!"
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Diese Radtour führt Sie vom Donauufer hinauf zum beeindruckenden Skanzen Freilichtmuseum, wo Sie die ungarische ländliche Geschichte erleben. Nach der Besichtigung radeln Sie zurück in die Altstadt von Szentendre, um das barocke Flair zu genießen. Den Abschluss bildet ein Besuch am Postás Strand, wo Sie sich am Wasser entspannen können.",
-        "hu": "Ez a bringatúra a Duna-parttól indulva vezet fel a lenyűgöző Skanzenbe, ahol megismerheti a magyar vidéki múltat. A látogatás után tekerjen vissza Szentendre óvárosába a barokk hangulatért. A napot a Postás strandon zárhatja, ahol pihenhet a vízparton egy kimerítő tekerés után.",
-        "ro": "Acest traseu cu bicicleta vă poartă de la malul Dunării până la impresionantul muzeu Skanzen, unde puteți descoperi istoria rurală a Ungariei. După vizită, pedalați înapoi în centrul vechi pentru atmosfera barocă. Încheiați ziua la plaja Postás, relaxându-vă pe malul apei.",
-        "en": "This bike tour takes you from the Danube bank up to the impressive Skanzen Open Air Museum, where you can experience Hungary's rural past. After the visit, cycle back to Szentendre's old town for the baroque vibe. End the day at Postás Beach, relaxing by the water after a great ride."
+        "de": "Schwingen Sie sich aufs Rad für eine Tour, die Stadt und Natur verbindet. Starten Sie an der Donau-Promenade und radeln Sie ins historische Zentrum zum Hauptplatz. Nach einer kurzen Erkundung zu Fuß besuchen Sie das Czöbel-Museum. Zur Mittagszeit erwartet Sie die MűvészetMalom mit zeitgenössischer Kunst. Am Nachmittag entdecken Sie die faszinierende Welt der Miniaturen im Mikro-Art-Museum, bevor Sie eine längere Radtour zum beeindruckenden Freilichtmuseum Skanzen unternehmen, wo Sie in die ungarische Geschichte eintauchen.",
+        "hu": "Pattanj biciklire egy városi és természeti élményeket ötvöző túrára. Indulj a Duna-korzóról, és tekerj be a történelmi központba, a Fő térre. Egy rövid gyalogos felfedezés után látogass el a Czöbel Múzeumba. Délben a MűvészetMalom vár kortárs művészettel. Délután fedezd fel a miniatűrök lenyűgöző világát a Mikro-Art Múzeumban, mielőtt egy hosszabb biciklitúrára indulsz a lenyűgöző Skanzenbe, ahol elmerülhetsz a magyar történelemben.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur care combină orașul și natura. Porniți de pe Promenada Dunării și pedalați spre centrul istoric, în Piața Principală. După o scurtă explorare pe jos, vizitați Muzeul Czöbel. La prânz, MűvészetMalom vă așteaptă cu artă contemporană. După-amiaza, descoperiți lumea fascinantă a miniaturilor la Muzeul de Micro-Artă, înainte de a face o plimbare mai lungă cu bicicleta la impresionantul Muzeu în aer liber Skanzen, unde vă puteți cufunda în istoria maghiară.",
+        "en": "Get on your bike for a tour that combines city and nature. Start on the Danube Promenade and cycle to the historic centre at the Main Square. After a short exploration on foot, visit the Czöbel Museum. At lunchtime, the MűvészetMalom awaits you with contemporary art. In the afternoon, discover the fascinating world of miniatures at the Micro-Art Museum before taking a longer bike ride to the impressive Skanzen Open Air Museum, where you can immerse yourself in Hungarian history."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Skanzen Restaurant",
-            "tip": "Probieren Sie das hausgemachte Gulyás im Museumsgelände."
+            "name": "Lángos",
+            "tip": "Die perfekte Stärkung nach einer Radtour, direkt an der Donau."
+          },
+          {
+            "name": "Gulyás",
+            "tip": "Ein herzhaftes Gulasch gibt Energie für den Rest des Tages."
+          },
+          {
+            "name": "Fröccs (Weinschorle)",
+            "tip": "Erfrischen Sie sich mit einem leichten ungarischen Wein-Spritzer."
           }
         ],
         "hu": [
           {
-            "name": "Skanzen Étterem",
-            "tip": "Kóstolja meg a házi gulyást a múzeum területén."
+            "name": "Lángos",
+            "tip": "Tökéletes feltöltődés egy biciklitúra után, közvetlenül a Duna-parton."
+          },
+          {
+            "name": "Gulyás",
+            "tip": "Egy kiadós gulyás energiát ad a nap hátralévő részére."
+          },
+          {
+            "name": "Fröccs",
+            "tip": "Frissítsd fel magad egy könnyű magyar bor-szóda keverékkel."
           }
         ],
         "ro": [
           {
-            "name": "Restaurant Skanzen",
-            "tip": "Gustați gulașul de casă chiar în incinta muzeului."
+            "name": "Lángos",
+            "tip": "Gustarea perfectă după un tur cu bicicleta, direct pe malul Dunării."
+          },
+          {
+            "name": "Gulaș",
+            "tip": "Un gulaș consistent vă va da energie pentru restul zilei."
+          },
+          {
+            "name": "Fröccs (Șpriț de vin)",
+            "tip": "Răcoriți-vă cu un șpriț de vin maghiar ușor."
           }
         ],
         "en": [
           {
-            "name": "Skanzen Restaurant",
-            "tip": "Try the homemade goulash within the museum grounds."
+            "name": "Lángos",
+            "tip": "The perfect fuel after a bike ride, right on the Danube."
+          },
+          {
+            "name": "Goulash",
+            "tip": "A hearty goulash will give you energy for the rest of the day."
+          },
+          {
+            "name": "Fröccs (Wine Spritzer)",
+            "tip": "Refresh yourself with a light Hungarian wine spritzer."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Donauknie Blick",
-            "tip": "Ruhiger Platz am Radweg mit Blick auf den Fluss.",
-            "emoji": "🌅"
+            "name": "Insel Szentendre",
+            "tip": "Machen Sie einen Abstecher auf die Insel für eine ruhige Radtour im Grünen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Radweg nach Leányfalu",
+            "tip": "Folgen Sie dem Donau-Radweg nach Norden für wunderschöne Ausblicke und weniger Menschen.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Die Gärten des Skanzen",
+            "tip": "Innerhalb des Museums gibt es viele ruhige Ecken und Gärten zu entdecken.",
+            "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "Dunakanyar kilátás",
-            "tip": "Csendes pont a kerékpárúton, kilátással a folyóra.",
-            "emoji": "🌅"
+            "name": "Szentendrei-sziget",
+            "tip": "Tegyél egy kitérőt a szigetre egy csendes, zöld biciklitúráért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bicikliút Leányfalu felé",
+            "tip": "Kövesd a Duna-menti bicikliutat észak felé a gyönyörű kilátásért és a kevesebb emberért.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "A Skanzen kertjei",
+            "tip": "A múzeumon belül számos csendes zugot és kertet fedezhetsz fel.",
+            "emoji": "🍃"
           }
         ],
         "ro": [
           {
-            "name": "Vedere Dunăre",
-            "tip": "Punct liniștit pe pistă cu vedere spre fluviu.",
-            "emoji": "🌅"
+            "name": "Insula Szentendre",
+            "tip": "Faceți un ocol pe insulă pentru o plimbare liniștită cu bicicleta în natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista de biciclete spre Leányfalu",
+            "tip": "Urmați pista de biciclete de-a lungul Dunării spre nord pentru priveliști frumoase și mai puțină aglomerație.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Grădinile Skanzen",
+            "tip": "În interiorul muzeului există multe colțuri liniștite și grădini de explorat.",
+            "emoji": "🍃"
           }
         ],
         "en": [
           {
-            "name": "Danube Bend View",
-            "tip": "A quiet spot on the bike path with river views.",
-            "emoji": "🌅"
+            "name": "Szentendre Island",
+            "tip": "Take a detour to the island for a quiet bike ride in the green.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bike path to Leányfalu",
+            "tip": "Follow the Danube cycle path north for beautiful views and fewer people.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "The gardens of Skanzen",
+            "tip": "Inside the museum there are many quiet corners and gardens to explore.",
+            "emoji": "🍃"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Skanzen Bäckerei",
-            "tip": "Frisch gebackenes Brot nach altem Rezept."
+            "name": "Lokale Kunstgalerien",
+            "tip": "Finden Sie ein einzigartiges Gemälde oder eine Skulptur als Andenken."
+          },
+          {
+            "name": "Szentendre Marktplatz",
+            "tip": "Probieren Sie lokale Produkte und finden Sie handgemachte Leckereien."
           }
         ],
         "hu": [
           {
-            "name": "Skanzen Pékség",
-            "tip": "Frissen sült kenyér régi recept alapján."
+            "name": "Helyi művészeti galériák",
+            "tip": "Találj egy egyedi festményt vagy szobrot emlékként."
+          },
+          {
+            "name": "Szentendrei piac",
+            "tip": "Kóstolj helyi termékeket és találj kézműves finomságokat."
           }
         ],
         "ro": [
           {
-            "name": "Brutăria Skanzen",
-            "tip": "Pâine proaspăt coaptă după rețete vechi."
+            "name": "Galerii de artă locale",
+            "tip": "Găsiți o pictură sau o sculptură unică drept suvenir."
+          },
+          {
+            "name": "Piața din Szentendre",
+            "tip": "Gustați produse locale și găsiți delicatese artizanale."
           }
         ],
         "en": [
           {
-            "name": "Skanzen Bakery",
-            "tip": "Freshly baked bread based on old recipes."
+            "name": "Local Art Galleries",
+            "tip": "Find a unique painting or sculpture as a souvenir."
+          },
+          {
+            "name": "Szentendre Market",
+            "tip": "Taste local products and find handmade treats."
           }
         ]
       },
       "tips": {
         "de": [
-          "Der Weg zum Skanzen ist leicht ansteigend.",
-          "Fahrradverleih ist am HÉV-Bahnhof möglich."
+          "Bringen Sie ein gutes Schloss für Ihr Fahrrad mit, besonders für den Stopp im Stadtzentrum.",
+          "Der Radweg entlang der Donau kann an sonnigen Tagen sehr belebt sein.",
+          "Prüfen Sie den Luftdruck Ihrer Reifen vor der längeren Fahrt zum Skanzen.",
+          "Eine Fahrradkarte oder eine Navigations-App ist hilfreich, um die besten Routen zu finden."
         ],
         "hu": [
-          "A Skanzen felé vezető út enyhén emelkedik.",
-          "Bringabérlés a HÉV-állomásnál lehetséges."
+          "Hozz magaddal egy jó lakatot a biciklidhez, különösen a belvárosi megállóhoz.",
+          "A Duna-parti bicikliút napos napokon forgalmas lehet.",
+          "Ellenőrizd a keréknyomást a hosszabb, Skanzenbe vezető út előtt.",
+          "Egy biciklis térkép vagy navigációs alkalmazás segít megtalálni a legjobb útvonalakat."
         ],
         "ro": [
-          "Drumul spre Skanzen este ușor în pantă.",
-          "Închirierea bicicletelor este posibilă la gara HÉV."
+          "Aduceți un lacăt bun pentru bicicletă, mai ales pentru oprirea în centrul orașului.",
+          "Pista de biciclete de-a lungul Dunării poate fi aglomerată în zilele însorite.",
+          "Verificați presiunea anvelopelor înainte de călătoria mai lungă la Skanzen.",
+          "O hartă pentru biciclete sau o aplicație de navigație este utilă pentru a găsi cele mai bune rute."
         ],
         "en": [
-          "The path to Skanzen is slightly uphill.",
-          "Bike rental is available at the HÉV station."
+          "Bring a good lock for your bike, especially for the stop in the city centre.",
+          "The bike path along the Danube can be busy on sunny days.",
+          "Check your tire pressure before the longer ride to Skanzen.",
+          "A bike map or navigation app is helpful for finding the best routes."
         ]
       }
     },
@@ -566,282 +735,355 @@
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "17:00",
-      "total_km": 15.4,
-      "stop_count": 8,
+      "end_estimate": "17:35",
+      "total_km": 9.4,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Zentraler Parkplatz",
-            "hu": "Központi parkoló",
-            "ro": "Parcare centrală",
-            "en": "Central Parking"
+            "de": "Parkplatz am Donauufer",
+            "hu": "Parkoló a Duna-parton",
+            "ro": "Parcare pe malul Dunării",
+            "en": "Parking at the Danube bank"
+          },
+          "coords": [
+            19.0805,
+            47.671
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie das Stadtzentrum zu Fuß.",
+            "hu": "Parkolj le itt, és fedezd fel a belvárost gyalog.",
+            "ro": "Parcați aici și explorați centrul orașului pe jos.",
+            "en": "Park here and explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz (Fő tér)",
+            "hu": "Fő tér",
+            "ro": "Piața Principală (Fő tér)",
+            "en": "Main Square (Fő tér)"
           },
           "coords": [
             19.0772,
-            47.6642
+            47.6689
           ],
-          "category": "transit",
-          "arrive_at": "09:10",
-          "stay_min": 15,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.0,
-          "tip_5lang": {
-            "de": "Sicherer Parkplatz nahe dem Zentrum.",
-            "hu": "Biztonságos parkoló a központ közelében.",
-            "ro": "Parcare sigură aproape de centru.",
-            "en": "Secure parking near the center."
-          }
-        },
-        {
-          "name": {
-            "de": "Szentendre Hauptplatz",
-            "hu": "Szentendrei Fő tér",
-            "ro": "Piața Centrală Szentendre",
-            "en": "Szentendre Main Square"
-          },
-          "coords": [
-            19.0758,
-            47.6675
-          ],
-          "category": "square",
-          "arrive_at": "09:35",
-          "stay_min": 30,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_walk": true,
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
           "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Beginnen Sie Ihren Spaziergang hier.",
-            "hu": "Kezdje itt a sétáját.",
-            "ro": "Începeți plimbarea de aici.",
-            "en": "Start your walk here."
+            "de": "Der perfekte Ausgangspunkt, um die Atmosphäre der Stadt aufzusaugen.",
+            "hu": "Tökéletes kiindulópont a város hangulatának magába szívásához.",
+            "ro": "Punctul de plecare perfect pentru a absorbi atmosfera orașului.",
+            "en": "The perfect starting point to soak up the city's atmosphere."
           }
         },
         {
           "name": {
-            "de": "Serbische Kathedrale",
-            "hu": "Szerb székesegyház",
-            "ro": "Catedrala Sârbească",
-            "en": "Serbian Cathedral"
+            "de": "Kovács-Margit-Museum",
+            "hu": "Kovács Margit Múzeum",
+            "ro": "Muzeul Margit Kovács",
+            "en": "Margit Kovács Museum"
           },
           "coords": [
-            19.0745,
-            47.6688
+            19.0765,
+            47.6696
           ],
-          "category": "religious",
-          "arrive_at": "10:15",
-          "stay_min": 60,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_walk": true,
+          "category": "museums",
+          "arrive_at": "10:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz zu diesem Juwel der Keramikkunst.",
+            "hu": "Rövid séta a Fő térről ehhez a kerámiaművészeti gyöngyszemhez.",
+            "ro": "O scurtă plimbare de la Piața Principală la această bijuterie a artei ceramice.",
+            "en": "A short walk from the Main Square to this gem of ceramic art."
+          }
+        },
+        {
+          "name": {
+            "de": "Donau-Promenade",
+            "hu": "Duna-korzó",
+            "ro": "Promenada Dunării",
+            "en": "Danube Promenade"
+          },
+          "coords": [
+            19.0795,
+            47.6685
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
           "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Zentrum der serbischen Orthodoxie.",
-            "hu": "A szerb ortodoxia központja.",
-            "ro": "Centrul ortodoxiei sârbe.",
-            "en": "Center of Serbian Orthodoxy."
+            "de": "Genießen Sie ein Mittagessen mit Blick auf den Fluss, bevor Sie zum Auto zurückkehren.",
+            "hu": "Ebédelj a folyóra néző kilátással, mielőtt visszatérsz az autóhoz.",
+            "ro": "Bucurați-vă de un prânz cu vedere la fluviu înainte de a vă întoarce la mașină.",
+            "en": "Enjoy lunch with a view of the river before returning to the car."
           }
         },
         {
           "name": {
-            "de": "Skanzen Eingang",
-            "hu": "Skanzen bejárat",
-            "ro": "Intrare Skanzen",
-            "en": "Skanzen Entrance"
+            "de": "Freilichtmuseum Skanzen",
+            "hu": "Skanzen",
+            "ro": "Muzeul Satului Skanzen",
+            "en": "Skanzen Open Air Museum"
           },
           "coords": [
-            19.0482,
-            47.6982
+            19.05,
+            47.686
           ],
-          "category": "museum",
-          "arrive_at": "11:30",
-          "stay_min": 150,
-          "hop_from_prev_min": 15,
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 240,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.5,
           "hop_mode": "car",
-          "hop_from_prev_km": 4.5,
           "tip_5lang": {
-            "de": "Parken Sie direkt am Museum.",
-            "hu": "Parkoljon közvetlenül a múzeumnál.",
-            "ro": "Parcați direct la muzeu.",
-            "en": "Park directly at the museum."
+            "de": "Das größte Highlight des Tages, planen Sie mindestens 4 Stunden für den Besuch ein.",
+            "hu": "A nap fénypontja, legalább 4 órát szánj a látogatásra.",
+            "ro": "Punctul culminant al zilei, planificați cel puțin 4 ore pentru vizită.",
+            "en": "The main highlight of the day, plan at least 4 hours for the visit."
           }
         },
         {
           "name": {
-            "de": "Historisches Dorf-Viertel",
-            "hu": "Népi építészeti negyed",
-            "ro": "Cartierul arhitectural",
-            "en": "Folk Architecture Quarter"
+            "de": "Dorfzentrum im Skanzen",
+            "hu": "Falu központ a Skanzenben",
+            "ro": "Centrul satului din Skanzen",
+            "en": "Village Centre in Skanzen"
           },
           "coords": [
-            19.0495,
-            47.6995
+            19.052,
+            47.687
           ],
           "category": "historical",
-          "arrive_at": "14:15",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_walk": true,
-          "hop_from_prev_km": 0.4,
+          "arrive_at": "13:35",
+          "stay_min": 0,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Entdecken Sie alte Bauernhäuser.",
-            "hu": "Fedezze fel a régi parasztházakat.",
-            "ro": "Descoperiți casele țărănești vechi.",
-            "en": "Explore old peasant houses."
-          }
-        },
-        {
-          "name": {
-            "de": "Panoramastraße Pilis",
-            "hu": "Pilisi panoráma út",
-            "ro": "Drum panoramic Pilis",
-            "en": "Pilis Panoramic Road"
-          },
-          "coords": [
-            19.0252,
-            47.7125
-          ],
-          "category": "viewpoint",
-          "arrive_at": "15:35",
-          "stay_min": 25,
-          "hop_from_prev_min": 20,
-          "hop_mode": "car",
-          "hop_from_prev_km": 6.5,
-          "tip_5lang": {
-            "de": "Blick auf das Donauknie.",
-            "hu": "Kilátás a Dunakanyarra.",
-            "ro": "Vedere spre cotul Dunării.",
-            "en": "View of the Danube Bend."
-          }
-        },
-        {
-          "name": {
-            "de": "Donau-Korzó Parkplatz",
-            "hu": "Duna-korzó parkoló",
-            "ro": "Parcare faleza Dunării",
-            "en": "Danube Promenade Parking"
-          },
-          "coords": [
-            19.0782,
-            47.6655
-          ],
-          "category": "park",
-          "arrive_at": "16:20",
-          "stay_min": 40,
-          "hop_from_prev_min": 20,
-          "hop_mode": "car",
-          "hop_from_prev_km": 4.0,
-          "tip_5lang": {
-            "de": "Abendlicher Spaziergang am Wasser.",
-            "hu": "Esti séta a vízparton.",
-            "ro": "Plimbare de seară pe mal.",
-            "en": "Evening walk by the water."
+            "de": "Beginnen Sie Ihre Erkundung des riesigen Geländes hier.",
+            "hu": "Kezdd a hatalmas terület felfedezését innen.",
+            "ro": "Începeți explorarea vastului teritoriu de aici.",
+            "en": "Start your exploration of the huge grounds here."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Auto erreichen Sie bequem sowohl das barocke Stadtzentrum als auch das weitläufige Skanzen Freilichtmuseum. Nach einem morgendlichen Bummel in der Altstadt fahren Sie zum Skanzen, um die ländliche Kultur Ungarns kennenzulernen. Eine kurze Fahrt über die Pilis-Panoramastraße bietet spektakuläre Ausblicke, bevor Sie den Tag entspannt an der Duna-Promenade beenden.",
-        "hu": "Autóval kényelmesen elérheti a barokk belvárost és a hatalmas Skanzent is. A délelőtti óvárosi séta után autózzon ki a Skanzenbe, hogy megismerje a magyar népi kultúrát. Egy rövid autózás a pilisi panorámaúton lenyűgöző kilátást nyújt, mielőtt a napot a Duna-korzón fejezné be.",
-        "ro": "Cu mașina puteți vizita confortabil atât centrul baroc, cât și vastul muzeu Skanzen. După o plimbare matinală în orașul vechi, conduceți spre Skanzen pentru a descoperi cultura rurală a Ungariei. O scurtă plimbare pe drumul panoramic Pilis oferă priveliști spectaculoase înainte de a încheia ziua pe faleză.",
-        "en": "By car, you can comfortably reach both the baroque city center and the expansive Skanzen Open Air Museum. After a morning stroll in the old town, drive to Skanzen to learn about Hungary's rural culture. A short drive along the Pilis panoramic road offers spectacular views before finishing the day at the Danube Promenade."
+        "de": "Genießen Sie die Flexibilität des Autos, um sowohl das charmante Stadtzentrum als auch die ländliche Umgebung zu entdecken. Parken Sie Ihr Auto in der Nähe der Donau und erkunden Sie den ersten Cluster zu Fuß: den belebten Hauptplatz, das berühmte Kovács-Margit-Museum und die entspannende Donau-Promenade für ein Mittagessen. Am Nachmittag fahren Sie die kurze Strecke zum Skanzen, Ungarns größtem Freilichtmuseum. Hier können Sie Stunden damit verbringen, durch die Geschichte zu wandern und traditionelle ungarische Architektur zu bewundern.",
+        "hu": "Élvezd az autó nyújtotta rugalmasságot, hogy felfedezd a bájos városközpontot és a vidéki környezetet is. Parkolj a Duna közelében, és fedezd fel gyalog az első klasztert: a nyüzsgő Fő teret, a híres Kovács Margit Múzeumot és az ebédhez ideális, pihentető Duna-korzót. Délután vezess el a rövid távolságra lévő Skanzenbe, Magyarország legnagyobb szabadtéri múzeumába. Itt órákat tölthetsz a történelemben sétálva és a hagyományos magyar építészetet csodálva.",
+        "ro": "Bucurați-vă de flexibilitatea mașinii pentru a descoperi atât centrul fermecător al orașului, cât și împrejurimile rurale. Parcați mașina lângă Dunăre și explorați primul grup de obiective pe jos: Piața Principală animată, faimosul Muzeu Margit Kovács și relaxanta Promenadă a Dunării pentru prânz. După-amiaza, conduceți o distanță scurtă până la Skanzen, cel mai mare muzeu în aer liber din Ungaria. Aici puteți petrece ore întregi plimbându-vă prin istorie și admirând arhitectura tradițională maghiară.",
+        "en": "Enjoy the flexibility of the car to discover both the charming town centre and the rural surroundings. Park your car near the Danube and explore the first cluster on foot: the bustling Main Square, the famous Margit Kovács Museum, and the relaxing Danube Promenade for lunch. In the afternoon, drive the short distance to Skanzen, Hungary's largest open-air museum. Here you can spend hours wandering through history and admiring traditional Hungarian architecture."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Korona Étterem",
-            "tip": "Traditionelle ungarische Küche mit Parkplatz."
+            "name": "Skanzen Restaurant",
+            "tip": "Probieren Sie authentische, ländliche ungarische Gerichte direkt im Museum."
+          },
+          {
+            "name": "Wein aus der Region",
+            "tip": "Kaufen Sie eine Flasche lokalen Weins als Souvenir (aber fahren Sie nicht nach dem Trinken!)."
+          },
+          {
+            "name": "Langos",
+            "tip": "Ein schneller und leckerer Snack an der Donaupromenade."
           }
         ],
         "hu": [
           {
-            "name": "Korona Étterem",
-            "tip": "Hagyományos magyar konyha parkolási lehetőséggel."
+            "name": "Skanzen Étterem",
+            "tip": "Kóstolj autentikus, vidéki magyar ételeket közvetlenül a múzeumban."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Vásárolj egy üveg helyi bort szuvenírként (de ne igyál vezetés előtt!)."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Gyors és finom harapnivaló a Duna-korzón."
           }
         ],
         "ro": [
           {
-            "name": "Restaurant Korona",
-            "tip": "Bucătărie tradițională maghiară cu parcare."
+            "name": "Restaurantul Skanzen",
+            "tip": "Încercați mâncăruri maghiare rurale autentice chiar în muzeu."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați o sticlă de vin local ca suvenir (dar nu beți înainte de a conduce!)."
+          },
+          {
+            "name": "Lángos",
+            "tip": "O gustare rapidă și delicioasă pe Promenada Dunării."
           }
         ],
         "en": [
           {
-            "name": "Korona Restaurant",
-            "tip": "Traditional Hungarian cuisine with parking available."
+            "name": "Skanzen Restaurant",
+            "tip": "Try authentic, rural Hungarian dishes right in the museum."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Buy a bottle of local wine as a souvenir (but don't drink and drive!)."
+          },
+          {
+            "name": "Lángos",
+            "tip": "A quick and tasty snack on the Danube Promenade."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Pilisi kilátó",
-            "tip": "Ruhiger Aussichtspunkt am Berg.",
+            "name": "Die abgelegenen Höfe im Skanzen",
+            "tip": "Entfliehen Sie den Hauptwegen und finden Sie ruhige, historische Bauernhöfe.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Fahrt durch das Donauknie",
+            "tip": "Verlängern Sie Ihren Tag mit einer malerischen Fahrt nach Visegrád oder Esztergom.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Blick vom Kirchhügel",
+            "tip": "Bevor Sie die Stadt verlassen, genießen Sie den Panoramablick über die Dächer.",
+            "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Pilisi kilátó",
-            "tip": "Csendes kilátópont a hegyen.",
+            "name": "A Skanzen eldugott udvarai",
+            "tip": "Térj le a fő útvonalakról, és találj csendes, történelmi parasztudvarokat.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Autózás a Dunakanyarban",
+            "tip": "Hosszabbítsd meg a napot egy festői autózással Visegrád vagy Esztergom felé.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Kilátás a Templomdombról",
+            "tip": "Mielőtt elhagyod a várost, élvezd a panorámát a háztetők felett.",
+            "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Belvedere Pilis",
-            "tip": "Punct de belvedere liniștit pe munte.",
+            "name": "Curțile izolate din Skanzen",
+            "tip": "Evadați de pe potecile principale și găsiți ferme istorice liniștite.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Drum prin Cotul Dunării",
+            "tip": "Prelungiți-vă ziua cu o plimbare pitorească cu mașina spre Visegrád sau Esztergom.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Vedere de pe Dealul Bisericii",
+            "tip": "Înainte de a părăsi orașul, bucurați-vă de vederea panoramică asupra acoperișurilor.",
+            "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Pilis Lookout",
-            "tip": "Quiet viewpoint on the mountain.",
+            "name": "The remote farmsteads in Skanzen",
+            "tip": "Escape the main paths and find quiet, historic farmsteads.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Drive through the Danube Bend",
+            "tip": "Extend your day with a scenic drive to Visegrád or Esztergom.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "View from Church Hill",
+            "tip": "Before leaving town, enjoy the panoramic view over the rooftops.",
+            "emoji": "🌅"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Skanzen Souvenir",
-            "tip": "Lokale Weine und Honig."
+            "name": "Handwerksmarkt im Skanzen",
+            "tip": "Kaufen Sie handgefertigte Produkte direkt von den Handwerkern im Museum."
+          },
+          {
+            "name": "Antiquitätenläden",
+            "tip": "Stöbern Sie in den kleinen Läden nach versteckten Schätzen und Vintage-Funden."
           }
         ],
         "hu": [
           {
-            "name": "Skanzen ajándékbolt",
-            "tip": "Helyi borok és méz."
+            "name": "Kézműves piac a Skanzenben",
+            "tip": "Vásárolj kézzel készített termékeket közvetlenül a múzeum mestereitől."
+          },
+          {
+            "name": "Antik boltok",
+            "tip": "Böngéssz a kis boltokban rejtett kincsek és vintage leletek után."
           }
         ],
         "ro": [
           {
-            "name": "Magazin suveniruri Skanzen",
-            "tip": "Vinuri locale și miere."
+            "name": "Târgul de artizanat din Skanzen",
+            "tip": "Cumpărați produse artizanale direct de la meșterii din muzeu."
+          },
+          {
+            "name": "Magazine de antichități",
+            "tip": "Căutați comori ascunse și obiecte de epocă în micile magazine."
           }
         ],
         "en": [
           {
-            "name": "Skanzen Souvenirs",
-            "tip": "Local wines and honey."
+            "name": "Craft market in Skanzen",
+            "tip": "Buy handmade products directly from the craftsmen in the museum."
+          },
+          {
+            "name": "Antique shops",
+            "tip": "Browse the small shops for hidden treasures and vintage finds."
           }
         ]
       },
       "tips": {
         "de": [
-          "Parkgebühren sind im Zentrum obligatorisch.",
-          "Die Panoramastraße ist besonders im Herbst schön."
+          "Das Parken kann im Sommer und an Wochenenden teuer und schwierig sein. Kommen Sie früh.",
+          "Überprüfen Sie die Öffnungszeiten des Skanzen, da diese saisonal variieren.",
+          "Einige Straßen im Zentrum sind nur für Fußgänger zugänglich.",
+          "Beachten Sie, dass die Parkuhren oft nur Münzen annehmen."
         ],
         "hu": [
-          "A parkolási díj a belvárosban kötelező.",
-          "A panoráma út különösen ősszel gyönyörű."
+          "A parkolás nyáron és hétvégén drága és nehézkes lehet. Érkezz korán.",
+          "Ellenőrizd a Skanzen nyitvatartási idejét, mert szezonálisan változik.",
+          "A központ néhány utcája csak gyalogosok számára nyitott.",
+          "Ne feledd, a parkolóórák gyakran csak érmét fogadnak el."
         ],
         "ro": [
-          "Taxele de parcare sunt obligatorii în centru.",
-          "Drumul panoramic este superb mai ales toamna."
+          "Parcarea poate fi scumpă și dificilă în timpul verii și în weekend. Ajungeți devreme.",
+          "Verificați programul de funcționare al Skanzen, deoarece acesta variază în funcție de sezon.",
+          "Unele străzi din centru sunt accesibile doar pietonilor.",
+          "Rețineți că automatele de parcare acceptă adesea doar monede."
         ],
         "en": [
-          "Parking fees are mandatory in the center.",
-          "The panoramic road is especially beautiful in autumn."
+          "Parking can be expensive and difficult in summer and on weekends. Arrive early.",
+          "Check the opening hours of Skanzen, as they vary seasonally.",
+          "Some streets in the centre are pedestrian-only.",
+          "Note that parking meters often only accept coins."
         ]
       }
     },
@@ -849,277 +1091,355 @@
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "17:15",
-      "total_km": 10.5,
-      "stop_count": 8,
+      "end_estimate": "17:49",
+      "total_km": 4.5,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "HÉV Endstation",
-            "hu": "HÉV végállomás",
-            "ro": "Capăt de linie HÉV",
-            "en": "HÉV Terminus"
+            "de": "HÉV-Bahnhof Szentendre",
+            "hu": "Szentendre HÉV-állomás",
+            "ro": "Gara HÉV Szentendre",
+            "en": "Szentendre HÉV station"
           },
           "coords": [
-            19.0702,
-            47.6608
+            19.074,
+            47.663
           ],
-          "category": "transit",
+          "category": "transport",
           "arrive_at": "09:10",
-          "stay_min": 15,
+          "stay_min": 0,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
           "tip_5lang": {
-            "de": "Ankunft von Budapest Batthyány tér.",
-            "hu": "Érkezés Budapest Batthyány térről.",
-            "ro": "Sosire din Budapesta Batthyány tér.",
-            "en": "Arrival from Budapest Batthyány tér."
+            "de": "Von hier aus ist das Stadtzentrum in 10 Minuten zu Fuß erreichbar.",
+            "hu": "Innen a városközpont 10 perc sétával elérhető.",
+            "ro": "De aici, centrul orașului se află la 10 minute de mers pe jos.",
+            "en": "From here, the city centre is a 10-minute walk away."
           }
         },
         {
           "name": {
-            "de": "Szentendre Marktplatz",
-            "hu": "Szentendrei piac",
-            "ro": "Piața Szentendre",
-            "en": "Szentendre Market"
+            "de": "Hauptplatz (Fő tér)",
+            "hu": "Fő tér",
+            "ro": "Piața Principală (Fő tér)",
+            "en": "Main Square (Fő tér)"
+          },
+          "coords": [
+            19.0772,
+            47.6689
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung im Herzen der Künstlerstadt.",
+            "hu": "Kezdd a felfedezést a művészváros szívében.",
+            "ro": "Începeți explorarea în inima orașului artiștilor.",
+            "en": "Start your exploration in the heart of the artists' town."
+          }
+        },
+        {
+          "name": {
+            "de": "Blagovestenska-Kirche",
+            "hu": "Blagovestenska-templom",
+            "ro": "Biserica Blagovestenska",
+            "en": "Blagovestenska Church"
+          },
+          "coords": [
+            19.0775,
+            47.6686
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine beeindruckende serbisch-orthodoxe Kirche direkt am Hauptplatz.",
+            "hu": "Lenyűgöző szerb ortodox templom közvetlenül a Fő téren.",
+            "ro": "O biserică ortodoxă sârbă impresionantă chiar în Piața Principală.",
+            "en": "An impressive Serbian Orthodox church right on the Main Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Donau-Promenade",
+            "hu": "Duna-korzó",
+            "ro": "Promenada Dunării",
+            "en": "Danube Promenade"
+          },
+          "coords": [
+            19.0795,
+            47.6685
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zeit für eine Mittagspause mit Blick auf die Donau.",
+            "hu": "Ideje egy ebéd szünetnek a Dunára néző kilátással.",
+            "ro": "Timpul pentru o pauză de prânz cu vedere la Dunăre.",
+            "en": "Time for a lunch break with a view of the Danube."
+          }
+        },
+        {
+          "name": {
+            "de": "Busbahnhof (für Skanzen)",
+            "hu": "Autóbusz-állomás (Skanzen felé)",
+            "ro": "Autogară (spre Skanzen)",
+            "en": "Bus station (for Skanzen)"
           },
           "coords": [
             19.0735,
-            47.6648
+            47.6625
           ],
-          "category": "square",
-          "arrive_at": "09:40",
-          "stay_min": 50,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_walk": true,
-          "hop_from_prev_km": 0.6,
-          "tip_5lang": {
-            "de": "Frische lokale Produkte.",
-            "hu": "Friss helyi termékek.",
-            "ro": "Produse locale proaspete.",
-            "en": "Fresh local products."
-          }
-        },
-        {
-          "name": {
-            "de": "Stadtzentrum (Fő tér)",
-            "hu": "Belváros (Fő tér)",
-            "ro": "Centru (Fő tér)",
-            "en": "City Center (Fő tér)"
-          },
-          "coords": [
-            19.0758,
-            47.6675
-          ],
-          "category": "historical",
-          "arrive_at": "10:40",
-          "stay_min": 80,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_walk": true,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Bummel durch die barocken Gassen.",
-            "hu": "Séta a barokk utcákban.",
-            "ro": "Plimbare pe străzile baroce.",
-            "en": "Stroll through the baroque alleys."
-          }
-        },
-        {
-          "name": {
-            "de": "Bus 869 Haltestelle",
-            "hu": "Busz 869 megálló",
-            "ro": "Stație autobuz 869",
-            "en": "Bus 869 Stop"
-          },
-          "coords": [
-            19.0715,
-            47.6615
-          ],
-          "category": "transit",
-          "arrive_at": "12:15",
+          "category": "transport",
+          "arrive_at": "12:25",
           "stay_min": 10,
           "hop_from_prev_min": 15,
-          "hop_from_prev_walk": true,
-          "hop_from_prev_km": 0.7,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Bus zum Skanzen.",
-            "hu": "Busz a Skanzenhez.",
-            "ro": "Autobuz spre Skanzen.",
-            "en": "Bus to Skanzen."
+            "de": "Nehmen Sie den lokalen Bus zum Freilichtmuseum.",
+            "hu": "A helyi busszal juss el a Skanzenbe.",
+            "ro": "Luați autobuzul local spre Muzeul Satului.",
+            "en": "Take the local bus to the open-air museum."
           }
         },
         {
           "name": {
-            "de": "Skanzen Freilichtmuseum",
+            "de": "Freilichtmuseum Skanzen",
             "hu": "Skanzen",
-            "ro": "Skanzen",
-            "en": "Skanzen"
+            "ro": "Muzeul Satului Skanzen",
+            "en": "Skanzen Open Air Museum"
           },
           "coords": [
-            19.0488,
-            47.6985
+            19.05,
+            47.686
           ],
-          "category": "museum",
-          "arrive_at": "12:45",
-          "stay_min": 120,
-          "hop_from_prev_min": 20,
+          "category": "museums",
+          "arrive_at": "12:59",
+          "stay_min": 240,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 2.4,
           "hop_mode": "transit",
-          "hop_from_prev_km": 4.2,
           "tip_5lang": {
-            "de": "Ein Muss in Szentendre.",
-            "hu": "Kihagyhatatlan látnivaló.",
-            "ro": "De neratat în Szentendre.",
-            "en": "A must-see in Szentendre."
-          }
-        },
-        {
-          "name": {
-            "de": "Skanzen Dorfzentrum",
-            "hu": "Skanzen falu központ",
-            "ro": "Centru sat Skanzen",
-            "en": "Skanzen Village Center"
-          },
-          "coords": [
-            19.0498,
-            47.6995
-          ],
-          "category": "historical",
-          "arrive_at": "15:00",
-          "stay_min": 40,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_walk": true,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Traditionelle Handwerkskunst.",
-            "hu": "Hagyományos kézművesség.",
-            "ro": "Meșteșuguri tradiționale.",
-            "en": "Traditional craftsmanship."
-          }
-        },
-        {
-          "name": {
-            "de": "HÉV Bahnhof (Rückreise)",
-            "hu": "HÉV állomás (visszaút)",
-            "ro": "Gara HÉV (retur)",
-            "en": "HÉV Station (return)"
-          },
-          "coords": [
-            19.0705,
-            47.6612
-          ],
-          "category": "transit",
-          "arrive_at": "16:15",
-          "stay_min": 30,
-          "hop_from_prev_min": 35,
-          "hop_mode": "transit",
-          "hop_from_prev_km": 4.5,
-          "tip_5lang": {
-            "de": "Letzte Souvenirs kaufen.",
-            "hu": "Utolsó szuvenírek vásárlása.",
-            "ro": "Cumpărați ultimele suveniruri.",
-            "en": "Buy last-minute souvenirs."
+            "de": "Ein Muss für jeden Besucher. Das Museum zeigt das ländliche Leben in Ungarn.",
+            "hu": "Minden látogatónak kötelező. A múzeum a vidéki magyar életet mutatja be.",
+            "ro": "O vizită obligatorie pentru fiecare vizitator. Muzeul prezintă viața rurală din Ungaria.",
+            "en": "A must-see for every visitor. The museum shows rural life in Hungary."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Nutzen Sie den öffentlichen Nahverkehr, um Szentendre stressfrei zu erkunden. Nach der Ankunft mit der HÉV besuchen Sie den lokalen Markt und die Altstadt. Der Linienbus 869 bringt Sie direkt zum Skanzen Freilichtmuseum, wo Sie tief in die ungarische Geschichte eintauchen. Nach der Rückfahrt zum Bahnhof haben Sie noch Zeit für einen Kaffee, bevor es zurück nach Budapest geht.",
-        "hu": "Használja a tömegközlekedést Szentendre felfedezéséhez. A HÉV-vel való érkezés után látogasson el a piacra és az óvárosba. A 869-es busz közvetlenül a Skanzenhez viszi, ahol elmerülhet a magyar múltban. A visszaút után marad idő egy kávéra az állomás közelében, mielőtt visszatérne Budapestre.",
-        "ro": "Folosiți transportul public pentru a explora Szentendre fără stres. După sosirea cu HÉV, vizitați piața și centrul vechi. Autobuzul 869 vă duce direct la muzeul Skanzen, unde puteți descoperi istoria Ungariei. După întoarcerea la gară, mai aveți timp pentru o cafea înainte de plecarea spre Budapesta.",
-        "en": "Use public transport to explore Szentendre stress-free. After arriving by HÉV, visit the local market and the old town. Bus 869 takes you directly to the Skanzen Open Air Museum, where you can dive deep into Hungarian history. After returning to the station, there's time for a coffee before heading back to Budapest."
+        "de": "Szentendre ist perfekt mit öffentlichen Verkehrsmitteln von Budapest aus erreichbar. Nach Ihrer Ankunft am HÉV-Bahnhof führt Sie ein kurzer Spaziergang direkt ins Herz der Stadt zum Hauptplatz. Erkunden Sie den ersten Cluster aus orthodoxer Kirche und malerischen Gassen. Genießen Sie eine Pause an der Donau-Promenade. Am Nachmittag bringt Sie ein lokaler Bus bequem zum weitläufigen Freilichtmuseum Skanzen. Dort können Sie in die reiche Kultur und Geschichte des ländlichen Ungarns eintauchen, bevor Sie die Rückreise antreten.",
+        "hu": "Szentendre tökéletesen megközelíthető tömegközlekedéssel Budapestről. A HÉV-állomásra érkezve egy rövid séta egyenesen a város szívébe, a Fő térre vezet. Fedezd fel az első klasztert, az ortodox templomot és a festői utcákat. Élvezz egy szünetet a Duna-korzón. Délután egy helyi busz kényelmesen elvisz a tágas Skanzenbe. Itt elmerülhetsz a vidéki Magyarország gazdag kultúrájában és történelmében, mielőtt visszaindulsz.",
+        "ro": "Szentendre este perfect accesibil cu transportul public din Budapesta. După sosirea la gara HÉV, o scurtă plimbare vă duce direct în inima orașului, în Piața Principală. Explorați primul grup de obiective, format din biserica ortodoxă și străduțele pitorești. Bucurați-vă de o pauză pe Promenada Dunării. După-amiaza, un autobuz local vă va duce confortabil la vastul Muzeu în aer liber Skanzen. Acolo vă puteți cufunda în cultura și istoria bogată a Ungariei rurale înainte de a vă întoarce.",
+        "en": "Szentendre is perfectly accessible by public transport from Budapest. After arriving at the HÉV station, a short walk takes you right into the heart of the city at the Main Square. Explore the first cluster of the Orthodox church and picturesque alleys. Enjoy a break on the Danube Promenade. In the afternoon, a local bus will take you comfortably to the expansive Skanzen Open Air Museum. There you can immerse yourself in the rich culture and history of rural Hungary before heading back."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Bükkös Café",
-            "tip": "Gemütliches Café nahe der Bushaltestelle."
+            "name": "Kürtőskalács",
+            "tip": "Ein süßer Snack, den man leicht unterwegs essen kann."
+          },
+          {
+            "name": "Palacsinta (Pfannkuchen)",
+            "tip": "Probieren Sie die ungarischen Pfannkuchen mit süßer oder herzhafter Füllung."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Entspannen Sie sich nach Ihrem Spaziergang mit einem kühlen Bier aus der Region."
           }
         ],
         "hu": [
           {
-            "name": "Bükkös Kávézó",
-            "tip": "Hangulatos kávézó a buszmegálló közelében."
+            "name": "Kürtőskalács",
+            "tip": "Édes harapnivaló, amit könnyű útközben enni."
+          },
+          {
+            "name": "Palacsinta",
+            "tip": "Kóstold meg a magyar palacsintát édes vagy sós töltelékkel."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Pihenj meg egy hideg, helyi sörrel a séta után."
           }
         ],
         "ro": [
           {
-            "name": "Cafeneaua Bükkös",
-            "tip": "O cafenea primitoare lângă stația de autobuz."
+            "name": "Kürtőskalács",
+            "tip": "O gustare dulce, ușor de mâncat din mers."
+          },
+          {
+            "name": "Palacsinta (Clătite)",
+            "tip": "Încercați clătitele maghiare cu umplutură dulce sau sărată."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Relaxați-vă după plimbare cu o bere locală rece."
           }
         ],
         "en": [
           {
-            "name": "Bükkös Café",
-            "tip": "Cozy café near the bus stop."
+            "name": "Chimney Cake",
+            "tip": "A sweet snack that's easy to eat on the go."
+          },
+          {
+            "name": "Palacsinta (Pancakes)",
+            "tip": "Try the Hungarian pancakes with a sweet or savoury filling."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Relax after your walk with a cold local beer."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Skanzen liget",
-            "tip": "Ruhiger Parkbereich im Museum.",
-            "emoji": "🧘"
+            "name": "Zugfahrt mit der HÉV",
+            "tip": "Genießen Sie die Aussicht auf die Vororte von Budapest und die Landschaft.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "Ufer der Bükkös-Quelle",
+            "tip": "Ein kleiner Bach, der durch die Stadt fließt und ruhige Plätze bietet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhöfe auf dem Kirchhügel",
+            "tip": "Historische und friedliche Orte mit schöner Aussicht.",
+            "emoji": "⛪"
           }
         ],
         "hu": [
           {
-            "name": "Skanzen liget",
-            "tip": "Csendes parkrész a múzeumban.",
-            "emoji": "🧘"
+            "name": "Utazás a HÉV-en",
+            "tip": "Élvezd a kilátást Budapest külvárosaira és a tájra.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "Bükkös-patak partja",
+            "tip": "A városon átfolyó kis patak csendes helyeket kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Temetők a Templomdombon",
+            "tip": "Történelmi és békés helyek szép kilátással.",
+            "emoji": "⛪"
           }
         ],
         "ro": [
           {
-            "name": "Parcul Skanzen",
-            "tip": "Zonă de parc liniștită în cadrul muzeului.",
-            "emoji": "🧘"
+            "name": "Călătoria cu trenul HÉV",
+            "tip": "Bucurați-vă de priveliștea suburbiilor Budapestei și a peisajului rural.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "Malul pârâului Bükkös",
+            "tip": "Un pârâu mic care curge prin oraș, oferind locuri liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirele de pe Dealul Bisericii",
+            "tip": "Locuri istorice și pașnice cu priveliști frumoase.",
+            "emoji": "⛪"
           }
         ],
         "en": [
           {
-            "name": "Skanzen Grove",
-            "tip": "Quiet park area within the museum.",
-            "emoji": "🧘"
+            "name": "HÉV train ride",
+            "tip": "Enjoy the view of the Budapest suburbs and the countryside.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "Banks of the Bükkös stream",
+            "tip": "A small stream that flows through the town, offering quiet spots.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemeteries on Church Hill",
+            "tip": "Historic and peaceful places with beautiful views.",
+            "emoji": "⛪"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "HÉV Bazar",
-            "tip": "Kleine Geschenke für die Heimreise."
+            "name": "Blaudruck-Textilien",
+            "tip": "Kaufen Sie traditionelle ungarische Textilien mit dem typischen blauen Muster."
+          },
+          {
+            "name": "Handgemachter Schmuck",
+            "tip": "Viele kleine Boutiquen bieten einzigartigen Schmuck von lokalen Designern an."
           }
         ],
         "hu": [
           {
-            "name": "HÉV bazár",
-            "tip": "Apró ajándékok a hazaútra."
+            "name": "Kékfestő textíliák",
+            "tip": "Vásárolj hagyományos magyar textíliákat a jellegzetes kék mintával."
+          },
+          {
+            "name": "Kézműves ékszerek",
+            "tip": "Sok kis butik kínál egyedi ékszereket helyi tervezőktől."
           }
         ],
         "ro": [
           {
-            "name": "Bazarul HÉV",
-            "tip": "Small gifts for the journey home.",
-            "en": "HÉV Bazaar"
+            "name": "Textile imprimate în albastru",
+            "tip": "Cumpărați textile tradiționale maghiare cu modelul albastru tipic."
+          },
+          {
+            "name": "Bijuterii artizanale",
+            "tip": "Multe buticuri mici oferă bijuterii unice de la designeri locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Blue-dyed textiles",
+            "tip": "Buy traditional Hungarian textiles with the typical blue pattern."
+          },
+          {
+            "name": "Handmade jewelry",
+            "tip": "Many small boutiques offer unique jewelry from local designers."
           }
         ]
       },
       "tips": {
         "de": [
-          "Kaufen Sie eine Budapest-Erweiterungskarte.",
-          "Prüfen Sie den Busfahrplan zum Skanzen vorab."
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel in Budapest, die auch die HÉV-Fahrt abdeckt (prüfen Sie die Zonen).",
+          "Überprüfen Sie den Fahrplan für den letzten Bus vom Skanzen und den letzten HÉV-Zug zurück nach Budapest.",
+          "Die HÉV-Züge können zu Stoßzeiten voll sein.",
+          "Vom HÉV-Bahnhof aus ist alles im Zentrum leicht zu Fuß erreichbar."
         ],
         "hu": [
-          "Vásároljon kiegészítő jegyet a HÉV-re.",
-          "Ellenőrizze előre a buszmenetrendet a Skanzenhez."
+          "Vásárolj egy napijegyet a budapesti tömegközlekedéshez, ami a HÉV-re is érvényes (ellenőrizd a zónákat).",
+          "Nézd meg az utolsó busz indulását a Skanzenből és az utolsó HÉV-et vissza Budapestre.",
+          "A HÉV-szerelvények csúcsidőben zsúfoltak lehetnek.",
+          "A HÉV-állomástól a központban minden könnyen elérhető gyalog."
         ],
         "ro": [
-          "Cumpărați un bilet suplimentar pentru HÉV.",
-          "Verificați orarul autobuzului spre Skanzen în avans."
+          "Cumpărați un bilet de o zi pentru transportul public din Budapesta, care acoperă și călătoria cu HÉV (verificați zonele).",
+          "Verificați orarul ultimului autobuz de la Skanzen și al ultimului tren HÉV înapoi la Budapesta.",
+          "Trenurile HÉV pot fi aglomerate la orele de vârf.",
+          "De la gara HÉV, totul în centru este ușor accesibil pe jos."
         ],
         "en": [
-          "Buy a supplementary ticket for the HÉV train.",
-          "Check the bus schedule to Skanzen in advance."
+          "Buy a day ticket for public transport in Budapest that also covers the HÉV ride (check the zones).",
+          "Check the schedule for the last bus from Skanzen and the last HÉV train back to Budapest.",
+          "The HÉV trains can be crowded during peak hours.",
+          "From the HÉV station, everything in the centre is easily accessible on foot."
         ]
       }
     }

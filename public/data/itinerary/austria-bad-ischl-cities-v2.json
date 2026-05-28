@@ -1,0 +1,1644 @@
+{
+  "city_id": "austria-bad-ischl-cities-v2",
+  "anchor": {
+    "name": "Bad Ischl",
+    "coords": [
+      13.6219,
+      47.7111
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:48",
+      "total_km": 2.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & erster Eindruck an der Trinkhalle",
+            "hu": "Érkezés és első benyomások az Ivócsarnoknál",
+            "ro": "Sosirea și prima impresie la Trinkhalle",
+            "en": "Arrival & First Impression at the Trinkhalle"
+          },
+          "coords": [
+            13.623,
+            47.712
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die Trinkhalle war einst der Treffpunkt der Kurgäste. Heute ist es ein toller Fotospot.",
+            "hu": "Az Ivócsarnok egykor a fürdővendégek találkozóhelye volt. Ma remek fotóhelyszín.",
+            "ro": "Trinkhalle a fost odată punctul de întâlnire pentru oaspeții spa. Astăzi este un loc minunat pentru fotografii.",
+            "en": "The Trinkhalle was once the meeting point for spa guests. Today, it's a great photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Nikolaus",
+            "hu": "Szent Miklós plébániatemplom",
+            "ro": "Biserica parohială Sf. Nicolae",
+            "en": "Parish Church of St. Nicholas"
+          },
+          "coords": [
+            13.6245,
+            47.7125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden Deckenfresken und den Hochaltar aus dem 18. Jahrhundert.",
+            "hu": "Figyelje meg a lenyűgöző mennyezetfreskókat és a 18. századi főoltárt.",
+            "ro": "Observați frescele impresionante de pe tavan și altarul principal din secolul al XVIII-lea.",
+            "en": "Note the impressive ceiling frescoes and the 18th-century high altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Stadt Bad Ischl",
+            "hu": "Bad Ischl Városi Múzeum",
+            "ro": "Muzeul orașului Bad Ischl",
+            "en": "Museum of the town of Bad Ischl"
+          },
+          "coords": [
+            13.624,
+            47.7135
+          ],
+          "category": "museums",
+          "arrive_at": "10:23",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im ehemaligen Hotel Austria, wo sich einst Kaiser Franz Joseph und Sisi verlobten.",
+            "hu": "A múzeum az egykori Hotel Austria épületében található, ahol egykor Ferenc József császár és Sisi eljegyezték egymást.",
+            "ro": "Muzeul este găzduit în fostul Hotel Austria, unde Împăratul Franz Joseph și Sisi s-au logodit odată.",
+            "en": "The museum is housed in the former Hotel Austria, where Emperor Franz Joseph and Sisi once got engaged."
+          }
+        },
+        {
+          "name": {
+            "de": "Kongress & TheaterHaus",
+            "hu": "Kongresszusi és Színházközpont",
+            "ro": "Palatul Congreselor și Teatrului",
+            "en": "Congress & Theatre House"
+          },
+          "coords": [
+            13.622,
+            47.714
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:55",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht läuft während Ihres Besuchs eine interessante Vorstellung.",
+            "hu": "Ellenőrizze a műsort, talán egy érdekes előadás fut a látogatása alatt.",
+            "ro": "Verificați programul, s-ar putea să existe un spectacol interesant în timpul vizitei dumneavoastră.",
+            "en": "Check the schedule, there might be an interesting performance on during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Lehár-Villa",
+            "hu": "Lehár-villa",
+            "ro": "Vila Lehár",
+            "en": "Lehár Villa"
+          },
+          "coords": [
+            13.618,
+            47.715
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:25",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Villa des berühmten Komponisten Franz Lehár ist im Originalzustand erhalten. Ein Muss für Musikliebhaber.",
+            "hu": "Lehár Ferenc híres zeneszerző villája eredeti állapotában maradt fenn. Zenebarátoknak kötelező.",
+            "ro": "Vila celebrului compozitor Franz Lehár este păstrată în starea sa originală. O vizită obligatorie pentru iubitorii de muzică.",
+            "en": "The villa of the famous composer Franz Lehár is preserved in its original condition. A must-see for music lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaiservilla",
+            "hu": "Császári Villa",
+            "ro": "Vila Imperială",
+            "en": "Imperial Villa"
+          },
+          "coords": [
+            13.615,
+            47.71
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:33",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Führung, um die privaten Gemächer von Kaiser Franz Joseph und Kaiserin Elisabeth zu sehen.",
+            "hu": "Foglaljon vezetett túrát, hogy megtekinthesse Ferenc József császár és Erzsébet császárné magánlakosztályait.",
+            "ro": "Rezervați un tur ghidat pentru a vedea apartamentele private ale împăratului Franz Joseph și împărătesei Elisabeta.",
+            "en": "Book a guided tour to see the private apartments of Emperor Franz Joseph and Empress Elisabeth."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurpark Bad Ischl",
+            "hu": "Bad Ischl-i gyógypark",
+            "ro": "Parcul balnear Bad Ischl",
+            "en": "Kurpark Bad Ischl"
+          },
+          "coords": [
+            13.62,
+            47.711
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:19",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine entspannte Pause. Suchen Sie nach dem Denkmal für Kaiserin Sisi.",
+            "hu": "Ideális hely egy pihentető szünetre. Keresse meg Sisi császárné emlékművét.",
+            "ro": "Un loc ideal pentru o pauză relaxantă. Căutați monumentul împărătesei Sisi.",
+            "en": "An ideal place for a relaxing break. Look for the monument to Empress Sisi."
+          }
+        },
+        {
+          "name": {
+            "de": "Konditorei Zauner",
+            "hu": "Zauner Cukrászda",
+            "ro": "Cofetăria Zauner",
+            "en": "Confectionery Zauner"
+          },
+          "coords": [
+            13.625,
+            47.7115
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:42",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie unbedingt den originalen Zaunerstollen, eine lokale Spezialität.",
+            "hu": "Feltétlenül kóstolja meg az eredeti Zaunerstollent, egy helyi különlegességet.",
+            "ro": "Asigurați-vă că încercați originalul Zaunerstollen, o specialitate locală.",
+            "en": "Be sure to try the original Zaunerstollen, a local specialty."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Bad Ischl beginnt mit kaiserlichem Flair an der historischen Trinkhalle und der Stadtpfarrkirche. Am Vormittag tauchen Sie im Stadtmuseum tief in die Geschichte der K&K-Monarchie ein, bevor Sie das kulturelle Herz der Stadt, das Kongress & TheaterHaus, bewundern.\nDer Mittag führt Sie über den Fluss Traun zur Lehár-Villa, wo Sie auf den Spuren des berühmten Komponisten wandeln. Anschließend erwartet Sie der Höhepunkt: die Kaiservilla, die Sommerresidenz von Kaiser Franz Joseph und Sisi. Spüren Sie den Hauch der Geschichte in den original erhaltenen Räumen.\nAm Nachmittag schlendern Sie durch den weitläufigen Kurpark, eine Oase der Ruhe und Erholung. Genießen Sie die gepflegten Anlagen und die frische Luft, bevor Sie sich auf den süßen Abschluss Ihres Tages vorbereiten.\nDer Abend klingt in der weltberühmten Konditorei Zauner aus. Gönnen Sie sich ein Stück der legendären Torte und einen Kaffee und lassen Sie die Eindrücke dieses kaiserlichen Tages in stilvollem Ambiente Revue passieren.",
+        "hu": "Bad Ischl-i napja császári hangulattal indul a történelmi Ivócsarnoknál és a plébániatemplomnál. Délelőtt a Városi Múzeumban mélyedhet el a Monarchia történelmében, mielőtt megcsodálná a város kulturális szívét, a Kongresszusi és Színházközpontot.\nAz ebédidő a Traun folyón át a Lehár-villához vezeti, ahol a híres zeneszerző nyomdokain járhat. Ezután jön a fénypont: a Császári Villa, Ferenc József császár és Sisi nyári rezidenciája. Érezze a történelem leheletét az eredeti állapotban megőrzött szobákban.\nDélután sétáljon végig a tágas gyógyparkon, a béke és a pihenés oázisán. Élvezze a gondozott parkot és a friss levegőt, mielőtt felkészül a nap édes lezárására.\nAz estét a világhírű Zauner Cukrászdában zárja. Kényeztesse magát egy szelet legendás süteménnyel és egy kávéval, és idézze fel ennek a császári napnak az élményeit egy stílusos környezetben.",
+        "ro": "Ziua dumneavoastră în Bad Ischl începe cu o notă imperială la istorica Trinkhalle și la biserica parohială. Dimineața, scufundați-vă în istoria monarhiei austro-ungare la muzeul orașului, înainte de a admira inima culturală a orașului, Palatul Congreselor și Teatrului.\nMiaza vă duce peste râul Traun la Vila Lehár, unde pășiți pe urmele celebrului compozitor. Apoi urmează punctul culminant: Vila Imperială, reședința de vară a împăratului Franz Joseph și a Sisiei. Simțiți suflul istoriei în camerele păstrate în original.\nDupă-amiaza, plimbați-vă prin vastul Kurpark, o oază de pace și relaxare. Bucurați-vă de grădinile bine întreținute și de aerul proaspăt înainte de a vă pregăti pentru finalul dulce al zilei.\nSeara se încheie la faimoasa Cofetărie Zauner. Răsfățați-vă cu o felie de tort legendar și o cafea și rememorați impresiile acestei zile imperiale într-o ambianță elegantă.",
+        "en": "Your day in Bad Ischl begins with imperial flair at the historic Trinkhalle and the parish church. In the morning, delve deep into the history of the Austro-Hungarian Monarchy at the city museum before admiring the cultural heart of the town, the Congress & Theatre House.\nMidday takes you across the Traun River to the Lehár Villa, where you walk in the footsteps of the famous composer. Afterwards, the highlight awaits: the Kaiservilla, the summer residence of Emperor Franz Joseph and Sisi. Feel the breath of history in the originally preserved rooms.\nIn the afternoon, stroll through the spacious Kurpark, an oasis of peace and relaxation. Enjoy the well-kept grounds and the fresh air before preparing for the sweet conclusion to your day.\nThe evening ends at the world-famous Konditorei Zauner. Treat yourself to a slice of the legendary cake and a coffee, and review the impressions of this imperial day in a stylish ambience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zaunerstollen",
+            "tip": "Eine Nougat-Waffel-Spezialität, die man probiert haben muss. Erhältlich in der Konditorei Zauner."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Ein fluffiger, zerrissener Pfannkuchen, oft mit Rosinen und Puderzucker serviert."
+          },
+          {
+            "name": "Wiener Schnitzel",
+            "tip": "Der österreichische Klassiker. Dünnes, paniertes Kalbsschnitzel, goldbraun gebraten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zaunerstollen",
+            "tip": "Egy nugátos-ostyás különlegesség, amit meg kell kóstolni. A Zauner cukrászdában kapható."
+          },
+          {
+            "name": "Császármorzsa (Kaiserschmarrn)",
+            "tip": "Egy könnyű, szaggatott palacsinta, gyakran mazsolával és porcukorral tálalva."
+          },
+          {
+            "name": "Bécsi szelet (Wiener Schnitzel)",
+            "tip": "Az osztrák klasszikus. Vékony, panírozott borjúszelet, aranybarnára sütve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zaunerstollen",
+            "tip": "O specialitate de napolitane cu nuga care trebuie încercată. Disponibilă la Cofetăria Zauner."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "O clătită pufoasă, ruptă, adesea servită cu stafide și zahăr pudră."
+          },
+          {
+            "name": "Șnițel vienez (Wiener Schnitzel)",
+            "tip": "Clasicul austriac. Șnițel subțire de vițel, pane, prăjit până devine auriu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zaunerstollen",
+            "tip": "A nougat and wafer specialty that is a must-try. Available at the Konditorei Zauner."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "A fluffy, shredded pancake, often served with raisins and powdered sugar."
+          },
+          {
+            "name": "Wiener Schnitzel",
+            "tip": "The Austrian classic. A thin, breaded and pan-fried veal cutlet."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang der Traun",
+            "tip": "Der Flussweg bietet eine ruhige Alternative zum belebten Stadtzentrum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jainzenberg",
+            "tip": "Ein kurzer Aufstieg für einen Panoramablick über die Stadt und die umliegenden Berge.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kaiserpark",
+            "tip": "Der Park um die Kaiservilla ist weitläufig und friedlich, ideal für einen Moment der Besinnung.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Traun folyó mentén",
+            "tip": "A folyóparti út csendes alternatívát kínál a nyüzsgő városközponttal szemben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jainzenberg",
+            "tip": "Egy rövid emelkedő, ahonnan panorámás kilátás nyílik a városra és a környező hegyekre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Császári park",
+            "tip": "A Császári Villa körüli park tágas és békés, ideális egy elmélyült pillanatra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul râului Traun",
+            "tip": "Cărarea de pe malul râului oferă o alternativă liniștită la centrul aglomerat al orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muntele Jainzen",
+            "tip": "O urcare scurtă pentru o vedere panoramică asupra orașului și a munților din jur.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Imperial",
+            "tip": "Parcul din jurul Vilei Imperiale este vast și pașnic, ideal pentru un moment de reflecție.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Traun River",
+            "tip": "The river path offers a quiet alternative to the bustling town center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jainzenberg",
+            "tip": "A short climb for a panoramic view over the town and surrounding mountains.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Imperial Park",
+            "tip": "The park surrounding the Imperial Villa is spacious and peaceful, ideal for a moment of reflection.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus der Kaiservilla",
+            "tip": "Kaiserliche Erinnerungsstücke und Bücher über die Monarchie."
+          },
+          {
+            "name": "Lokales Handwerk",
+            "tip": "Suchen Sie nach Geschäften, die handgefertigte Produkte aus dem Salzkammergut anbieten, wie z.B. Keramik oder Holzschnitzereien."
+          },
+          {
+            "name": "Zauner Spezialitäten",
+            "tip": "Nehmen Sie den berühmten Stollen oder andere Süßigkeiten als köstliches Mitbringsel mit nach Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak a Császári Villából",
+            "tip": "Császári emléktárgyak és könyvek a monarchiáról."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen olyan üzleteket, amelyek a Salzkammergut régióból származó kézzel készített termékeket, például kerámiát vagy fafaragásokat kínálnak."
+          },
+          {
+            "name": "Zauner különlegességek",
+            "tip": "Vigye haza a híres süteményt vagy más édességeket finom ajándékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la Vila Imperială",
+            "tip": "Amintiri imperiale și cărți despre monarhie."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați magazine care oferă produse artizanale din regiunea Salzkammergut, precum ceramică sau sculpturi în lemn."
+          },
+          {
+            "name": "Specialități Zauner",
+            "tip": "Luați acasă faimosul 'stollen' sau alte dulciuri ca un suvenir delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs from the Imperial Villa",
+            "tip": "Imperial memorabilia and books about the monarchy."
+          },
+          {
+            "name": "Local Crafts",
+            "tip": "Look for shops offering handmade products from the Salzkammergut region, such as ceramics or wood carvings."
+          },
+          {
+            "name": "Zauner Specialties",
+            "tip": "Take the famous stollen or other sweets home as a delicious souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bad Ischl ist sehr kompakt, bequeme Schuhe sind alles, was Sie für diesen Rundgang benötigen.",
+          "Viele der historischen Gebäude haben mittags geschlossen. Planen Sie Ihren Besuch entsprechend.",
+          "Im Sommer kann es voll werden. Starten Sie früh, um den Menschenmassen zu entgehen.",
+          "Die Kaiservilla erfordert eine Führung; es lohnt sich, die Zeiten im Voraus zu prüfen und zu buchen."
+        ],
+        "hu": [
+          "Bad Ischl nagyon kompakt, kényelmes cipőre lesz csak szüksége ezen a sétán.",
+          "Sok történelmi épület délben bezár. Tervezze meg látogatását ennek megfelelően.",
+          "Nyáron zsúfolt lehet. Kezdje korán a napot, hogy elkerülje a tömeget.",
+          "A Császári Villába csak vezetett túrával lehet bejutni; érdemes előre ellenőrizni az időpontokat és foglalni."
+        ],
+        "ro": [
+          "Bad Ischl este foarte compact, pantofii confortabili sunt tot ce aveți nevoie pentru acest tur pietonal.",
+          "Multe dintre clădirile istorice sunt închise la prânz. Planificați-vă vizita în consecință.",
+          "Poate fi aglomerat în timpul verii. Începeți devreme pentru a evita mulțimile.",
+          "Vila Imperială necesită un tur ghidat; merită să verificați orele și să rezervați în avans."
+        ],
+        "en": [
+          "Bad Ischl is very compact, comfortable shoes are all you need for this walking tour.",
+          "Many of the historic buildings close for lunch. Plan your visits accordingly.",
+          "It can get crowded during the summer. Start your day early to avoid the crowds.",
+          "The Imperial Villa requires a guided tour; it's worth checking times and booking in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & erster Eindruck an der Trinkhalle",
+            "hu": "Érkezés és első benyomások az Ivócsarnoknál",
+            "ro": "Sosirea și prima impresie la Trinkhalle",
+            "en": "Arrival & First Impression at the Trinkhalle"
+          },
+          "coords": [
+            13.623,
+            47.712
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und bewundern Sie die klassizistische Architektur.",
+            "hu": "Zárja le a kerékpárját a közelben, és csodálja meg a klasszicista építészetet.",
+            "ro": "Încuietoarea bicicletei în apropiere și admirați arhitectura neoclasică.",
+            "en": "Lock up your bike nearby and admire the neoclassical architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Nikolaus",
+            "hu": "Szent Miklós plébániatemplom",
+            "ro": "Biserica parohială Sf. Nicolae",
+            "en": "Parish Church of St. Nicholas"
+          },
+          "coords": [
+            13.6245,
+            47.7125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:32",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine kurze, aber lohnende Pause, um die spirituelle Atmosphäre aufzusaugen.",
+            "hu": "Egy rövid, de megérő szünet, hogy magába szívja a spirituális légkört.",
+            "ro": "O pauză scurtă, dar plină de satisfacții pentru a absorbi atmosfera spirituală.",
+            "en": "A short but rewarding break to soak up the spiritual atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Stadt Bad Ischl",
+            "hu": "Bad Ischl Városi Múzeum",
+            "ro": "Muzeul orașului Bad Ischl",
+            "en": "Museum of the town of Bad Ischl"
+          },
+          "coords": [
+            13.624,
+            47.7135
+          ],
+          "category": "museums",
+          "arrive_at": "10:04",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für eine längere Pause vom Radfahren, um tief in die Geschichte einzutauchen.",
+            "hu": "Tökéletes egy hosszabb szünetre a kerékpározásból, hogy elmélyedjen a történelemben.",
+            "ro": "Perfect pentru o pauză mai lungă de la ciclism pentru a vă adânci în istorie.",
+            "en": "Perfect for a longer break from cycling to delve deep into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kongress & TheaterHaus",
+            "hu": "Kongresszusi és Színházközpont",
+            "ro": "Palatul Congreselor și Teatrului",
+            "en": "Congress & Theatre House"
+          },
+          "coords": [
+            13.622,
+            47.714
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:35",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schneller Fotostopp auf Ihrer Radtour durch die Stadt.",
+            "hu": "Egy gyors fotómegálló a városi kerékpártúrán.",
+            "ro": "O oprire rapidă pentru fotografii în turul cu bicicleta prin oraș.",
+            "en": "A quick photo stop on your bike tour through the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Traun zur Lehár-Villa",
+            "hu": "Kerékpározás a Traun mentén a Lehár-villához",
+            "ro": "Plimbare cu bicicleta de-a lungul Traunului spre Vila Lehár",
+            "en": "Ride along the Traun to the Lehár Villa"
+          },
+          "coords": [
+            13.618,
+            47.715
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:56",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die malerische Fahrt am Flussufer, bevor Sie die Villa erreichen.",
+            "hu": "Élvezze a festői utat a folyóparton, mielőtt elérné a villát.",
+            "ro": "Bucurați-vă de plimbarea pitorească pe malul râului înainte de a ajunge la vilă.",
+            "en": "Enjoy the scenic ride along the riverbank before reaching the villa."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaiservilla & Kaiserpark",
+            "hu": "Császári Villa és Park",
+            "ro": "Vila Imperială și Parcul",
+            "en": "Imperial Villa & Park"
+          },
+          "coords": [
+            13.615,
+            47.71
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Villa und den Park. Es gibt sichere Abstellplätze für Fahrräder.",
+            "hu": "Szánjon időt a villára és a parkra. Vannak biztonságos kerékpártárolók.",
+            "ro": "Luați-vă timp pentru vilă și parc. Există locuri sigure de parcare pentru biciclete.",
+            "en": "Take your time for both the villa and the park. There are secure bike racks available."
+          }
+        },
+        {
+          "name": {
+            "de": "Radeln durch den Kurpark",
+            "hu": "Kerékpározás a Gyógyparkon keresztül",
+            "ro": "Plimbare cu bicicleta prin Kurpark",
+            "en": "Cycling through the Kurpark"
+          },
+          "coords": [
+            13.62,
+            47.711
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:46",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam und genießen Sie die friedliche Atmosphäre der wunderschön angelegten Gärten.",
+            "hu": "Tekerjen lassan és élvezze a gyönyörűen parkosított kertek békés hangulatát.",
+            "ro": "Pedalați încet și bucurați-vă de atmosfera pașnică a grădinilor frumos amenajate.",
+            "en": "Ride slowly and enjoy the peaceful atmosphere of the beautifully landscaped gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Konditorei Zauner",
+            "hu": "Zauner Cukrászda",
+            "ro": "Cofetăria Zauner",
+            "en": "Confectionery Zauner"
+          },
+          "coords": [
+            13.625,
+            47.7115
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:33",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die perfekte Belohnung nach einer Radtour. Sichern Sie Ihr Rad gut, bevor Sie eintreten.",
+            "hu": "A tökéletes jutalom egy kerékpártúra után. Zárja le jól a kerékpárját, mielőtt belép.",
+            "ro": "Recompensa perfectă după un tur cu bicicleta. Asigurați-vă bine bicicleta înainte de a intra.",
+            "en": "The perfect reward after a bike tour. Secure your bike well before you go inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel für eine kaiserliche Radtour durch Bad Ischl. Starten Sie an der Trinkhalle und radeln Sie zur historischen Stadtpfarrkirche. Am Vormittag stellen Sie Ihr Rad am Stadtmuseum ab, um in die fesselnde Geschichte der Region einzutauchen.\nDie Mittagszeit führt Sie auf einer malerischen Route entlang der Traun zur Lehár-Villa und dann weiter zum unbestrittenen Juwel der Stadt, der Kaiservilla. Der weitläufige Kaiserpark ist ideal für eine entspannte Pause, bevor Sie Ihre Tour fortsetzen.\nAm Nachmittag rollen Sie gemütlich durch den Kurpark, eine grüne Oase im Herzen der Stadt. Genießen Sie die Fahrt auf den gepflegten Wegen und die blühende Landschaft.\nIhre Radtour endet mit einer wohlverdienten Pause in der berühmten Konditorei Zauner. Stellen Sie Ihr Rad ab, genießen Sie Kaffee und Kuchen und lassen Sie die Eindrücke des Tages auf sich wirken.",
+        "hu": "Pattanjon nyeregbe egy császári kerékpártúrára Bad Ischlben. Induljon az Ivócsarnoktól, és tekerjen a történelmi plébániatemplomhoz. Délelőtt tegye le a kerékpárt a Városi Múzeumnál, hogy elmerüljön a régió lebilincselő történelmében.\nEbédidőben egy festői útvonalon, a Traun folyó mentén jut el a Lehár-villához, majd tovább a város vitathatatlan ékkövéhez, a Császári Villához. A tágas Császári park ideális egy pihentető szünetre, mielőtt folytatná útját.\nDélután kényelmesen áthalad a Gyógyparkon, a város szívében található zöld oázison. Élvezze a gondozott utakon való tekerést és a virágzó tájat.\nA kerékpártúra egy jól megérdemelt pihenővel zárul a híres Zauner Cukrászdában. Tegye le a kerékpárt, élvezzen egy kávét és süteményt, és hagyja, hogy a nap benyomásai hassanak Önre.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur imperial prin Bad Ischl. Începeți de la Trinkhalle și pedalați spre biserica parohială istorică. Dimineața, lăsați bicicleta la muzeul orașului pentru a vă cufunda în istoria captivantă a regiunii.\nLa prânz, un traseu pitoresc de-a lungul râului Traun vă duce la Vila Lehár și apoi la bijuteria incontestabilă a orașului, Vila Imperială. Parcul Imperial vast este ideal pentru o pauză relaxantă înainte de a continua turul.\nDupă-amiaza, pedalați agale prin Kurpark, o oază de verdeață în inima orașului. Bucurați-vă de plimbarea pe aleile bine întreținute și de peisajul înflorit.\nTurul cu bicicleta se încheie cu o pauză binemeritată la faimoasa Cofetărie Zauner. Lăsați bicicleta, savurați o cafea și o prăjitură și lăsați impresiile zilei să se așeze.",
+        "en": "Hop on your bike for an imperial tour of Bad Ischl. Start at the Trinkhalle and cycle to the historic parish church. In the morning, park your bike at the city museum to immerse yourself in the region's captivating history.\nAt midday, a scenic route along the Traun River takes you to the Lehár Villa and then on to the town's undisputed jewel, the Imperial Villa. The expansive Imperial Park is ideal for a relaxing break before continuing your tour.\nIn the afternoon, pedal leisurely through the Kurpark, a green oasis in the heart of the town. Enjoy the ride on the well-maintained paths and the blooming scenery.\nYour bike tour concludes with a well-deserved break at the famous Konditorei Zauner. Park your bike, enjoy a coffee and cake, and let the day's impressions sink in."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zaunerstollen",
+            "tip": "Eine Nougat-Waffel-Spezialität, die man probiert haben muss. Erhältlich in der Konditorei Zauner."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Ein fluffiger, zerrissener Pfannkuchen, oft mit Rosinen und Puderzucker serviert."
+          },
+          {
+            "name": "Wiener Schnitzel",
+            "tip": "Der österreichische Klassiker. Dünnes, paniertes Kalbsschnitzel, goldbraun gebraten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zaunerstollen",
+            "tip": "Egy nugátos-ostyás különlegesség, amit meg kell kóstolni. A Zauner cukrászdában kapható."
+          },
+          {
+            "name": "Császármorzsa (Kaiserschmarrn)",
+            "tip": "Egy könnyű, szaggatott palacsinta, gyakran mazsolával és porcukorral tálalva."
+          },
+          {
+            "name": "Bécsi szelet (Wiener Schnitzel)",
+            "tip": "Az osztrák klasszikus. Vékony, panírozott borjúszelet, aranybarnára sütve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zaunerstollen",
+            "tip": "O specialitate de napolitane cu nuga care trebuie încercată. Disponibilă la Cofetăria Zauner."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "O clătită pufoasă, ruptă, adesea servită cu stafide și zahăr pudră."
+          },
+          {
+            "name": "Șnițel vienez (Wiener Schnitzel)",
+            "tip": "Clasicul austriac. Șnițel subțire de vițel, pane, prăjit până devine auriu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zaunerstollen",
+            "tip": "A nougat and wafer specialty that is a must-try. Available at the Konditorei Zauner."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "A fluffy, shredded pancake, often served with raisins and powdered sugar."
+          },
+          {
+            "name": "Wiener Schnitzel",
+            "tip": "The Austrian classic. A thin, breaded and pan-fried veal cutlet."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg an der Ischler Ache",
+            "tip": "Folgen Sie dem ruhigen Radweg aus der Stadt heraus für neue Perspektiven.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Siriuskogl",
+            "tip": "Eine etwas anspruchsvollere Radtour zu einem Aussichtsturm mit fantastischem Blick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kaiserpark",
+            "tip": "Perfekt, um das Rad abzustellen und die Ruhe unter alten Bäumen zu genießen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút az Ischl-patak mentén",
+            "tip": "Kövesse a csendes kerékpárutat a városból kifelé új perspektívákért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Siriuskogl",
+            "tip": "Egy kicsit nagyobb kihívást jelentő kerékpártúra egy kilátóhoz, ahonnan fantasztikus a kilátás.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Császári park",
+            "tip": "Tökéletes hely a kerékpár letámasztására és a régi fák alatti csend élvezetére.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul pârâului Ischl",
+            "tip": "Urmați pista de biciclete liniștită în afara orașului pentru noi perspective.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Siriuskogl",
+            "tip": "Un tur cu bicicleta puțin mai solicitant către un turn de observație cu vederi fantastice.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Imperial",
+            "tip": "Perfect pentru a parca bicicleta și a vă bucura de liniștea de sub copacii bătrâni.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle path along the Ischl stream",
+            "tip": "Follow the quiet cycle path out of town for new perspectives.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Siriuskogl",
+            "tip": "A slightly more challenging bike ride to a lookout tower with fantastic views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Imperial Park",
+            "tip": "Perfect for parking the bike and enjoying the peace and quiet under old trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus der Kaiservilla",
+            "tip": "Kaiserliche Erinnerungsstücke und Bücher über die Monarchie."
+          },
+          {
+            "name": "Lokales Handwerk",
+            "tip": "Suchen Sie nach Geschäften, die handgefertigte Produkte aus dem Salzkammergut anbieten, wie z.B. Keramik oder Holzschnitzereien."
+          },
+          {
+            "name": "Zauner Spezialitäten",
+            "tip": "Nehmen Sie den berühmten Stollen oder andere Süßigkeiten als köstliches Mitbringsel mit nach Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak a Császári Villából",
+            "tip": "Császári emléktárgyak és könyvek a monarchiáról."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen olyan üzleteket, amelyek a Salzkammergut régióból származó kézzel készített termékeket, például kerámiát vagy fafaragásokat kínálnak."
+          },
+          {
+            "name": "Zauner különlegességek",
+            "tip": "Vigye haza a híres süteményt vagy más édességeket finom ajándékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la Vila Imperială",
+            "tip": "Amintiri imperiale și cărți despre monarhie."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați magazine care oferă produse artizanale din regiunea Salzkammergut, precum ceramică sau sculpturi în lemn."
+          },
+          {
+            "name": "Specialități Zauner",
+            "tip": "Luați acasă faimosul 'stollen' sau alte dulciuri ca un suvenir delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs from the Imperial Villa",
+            "tip": "Imperial memorabilia and books about the monarchy."
+          },
+          {
+            "name": "Local Crafts",
+            "tip": "Look for shops offering handmade products from the Salzkammergut region, such as ceramics or wood carvings."
+          },
+          {
+            "name": "Zauner Specialties",
+            "tip": "Take the famous stollen or other sweets home as a delicious souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads, bevor Sie starten. Es gibt mehrere Verleihstationen in der Stadt.",
+          "Die Radwege sind gut ausgebaut, aber achten Sie in der Innenstadt auf Fußgänger.",
+          "Ein Fahrradschloss ist unerlässlich, um die Sehenswürdigkeiten unbesorgt genießen zu können.",
+          "Nehmen Sie eine Wasserflasche mit, besonders an wärmeren Tagen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát. A városban több kölcsönző is található.",
+          "A kerékpárutak jól kiépítettek, de a belvárosban figyeljen a gyalogosokra.",
+          "A kerékpárzár elengedhetetlen, hogy gondtalanul élvezhesse a látnivalókat.",
+          "Vigyen magával egy kulacs vizet, különösen melegebb napokon."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni. Există mai multe stații de închiriere în oraș.",
+          "Pistele de biciclete sunt bine dezvoltate, dar fiți atenți la pietoni în centrul orașului.",
+          "O încuietoare pentru bicicletă este esențială pentru a vă bucura de atracții fără griji.",
+          "Luați o sticlă de apă cu dumneavoastră, mai ales în zilele mai calde."
+        ],
+        "en": [
+          "Check the condition of your bike before you start. There are several rental stations in town.",
+          "The cycle paths are well-developed, but watch out for pedestrians in the city center.",
+          "A bike lock is essential to enjoy the sights without worry.",
+          "Bring a water bottle with you, especially on warmer days."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Parken im Zentrum",
+            "hu": "Érkezés és parkolás a központban",
+            "ro": "Sosire și parcare în centru",
+            "en": "Arrival & Parking in the Center"
+          },
+          "coords": [
+            13.623,
+            47.712
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in einer der zentralen Parkgaragen. Von hier aus erkunden Sie den ersten Teil der Stadt zu Fuß.",
+            "hu": "Parkoljon a központi parkolóházak egyikében. Innen gyalogosan fedezheti fel a város első részét.",
+            "ro": "Parcați într-una dintre parcările centrale. De aici, explorați prima parte a orașului pe jos.",
+            "en": "Park in one of the central parking garages. From here, explore the first part of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Trinkhalle & Stadtpfarrkirche",
+            "hu": "Séta: Ivócsarnok és plébániatemplom",
+            "ro": "Plimbare: Trinkhalle și Biserica Parohială",
+            "en": "Walk: Trinkhalle & Parish Church"
+          },
+          "coords": [
+            13.6245,
+            47.7125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dieser erste Spaziergang führt Sie zu zwei ikonischen Wahrzeichen im Herzen der Stadt.",
+            "hu": "Ez az első séta a város szívében található két ikonikus nevezetességhez vezet.",
+            "ro": "Această primă plimbare vă duce la două repere iconice din inima orașului.",
+            "en": "This first walk takes you to two iconic landmarks in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Museum der Stadt Bad Ischl",
+            "hu": "Séta: Bad Ischl Városi Múzeum",
+            "ro": "Plimbare: Muzeul orașului Bad Ischl",
+            "en": "Walk: Museum of the town of Bad Ischl"
+          },
+          "coords": [
+            13.624,
+            47.7135
+          ],
+          "category": "museums",
+          "arrive_at": "10:24",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Stadtzentrum ist es nur ein kurzer Spaziergang zum Museum. Planen Sie genügend Zeit ein.",
+            "hu": "A városközpontból csak egy rövid séta a múzeum. Tervezzen elegendő időt.",
+            "ro": "Este doar o scurtă plimbare de la centrul orașului la muzeu. Acordați suficient timp.",
+            "en": "It's just a short walk from the city center to the museum. Allow plenty of time."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kaiserviertel: Kaiservilla",
+            "hu": "Autóval a Császári negyedbe: Császári Villa",
+            "ro": "Cu mașina spre Cartierul Imperial: Vila Imperială",
+            "en": "Drive to the Imperial Quarter: Imperial Villa"
+          },
+          "coords": [
+            13.615,
+            47.71
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:04",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie über den Fluss und parken Sie in der Nähe der Kaiservilla. Hier beginnt Ihr zweiter Spaziergang.",
+            "hu": "Hajtson át a folyón, és parkoljon a Császári Villa közelében. Itt kezdődik a második séta.",
+            "ro": "Traversați râul cu mașina și parcați lângă Vila Imperială. A doua plimbare începe aici.",
+            "en": "Drive across the river and park near the Imperial Villa. Your second walk starts here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Lehár-Villa",
+            "hu": "Séta: Lehár-villa",
+            "ro": "Plimbare: Vila Lehár",
+            "en": "Walk: Lehár Villa"
+          },
+          "coords": [
+            13.618,
+            47.715
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:52",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang durch den Park verbindet die beiden kaiserlichen Residenzen.",
+            "hu": "Egy kellemes séta a parkon keresztül köti össze a két császári rezidenciát.",
+            "ro": "O plimbare plăcută prin parc leagă cele două reședințe imperiale.",
+            "en": "A pleasant walk through the park connects the two imperial residences."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Kurpark",
+            "hu": "Séta: Gyógypark",
+            "ro": "Plimbare: Kurpark",
+            "en": "Walk: Kurpark"
+          },
+          "coords": [
+            13.62,
+            47.711
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:58",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Grünen, bevor Sie zum Auto zurückkehren für den letzten Stopp.",
+            "hu": "Pihenjen a zöldben, mielőtt visszatérne az autóhoz az utolsó megállóhoz.",
+            "ro": "Relaxați-vă în verdeață înainte de a vă întoarce la mașină pentru ultima oprire.",
+            "en": "Relax in the greenery before returning to the car for the final stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Konditorei Zauner",
+            "hu": "Autóval a Zauner Cukrászdához",
+            "ro": "Cu mașina la Cofetăria Zauner",
+            "en": "Drive to the Konditorei Zauner"
+          },
+          "coords": [
+            13.625,
+            47.7115
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:21",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz an der Esplanade für den süßen Abschluss Ihres kaiserlichen Tages.",
+            "hu": "Keressen parkolóhelyet az Esplanade-on a császári nap édes befejezéséhez.",
+            "ro": "Găsiți un loc de parcare pe Esplanadă pentru finalul dulce al zilei imperiale.",
+            "en": "Find a parking spot on the Esplanade for the sweet conclusion to your imperial day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Zentrum von Bad Ischl parken. Der Vormittag gehört einem Spaziergang zu den Highlights der Innenstadt: der Trinkhalle, der Stadtpfarrkirche und dem aufschlussreichen Stadtmuseum. Alles ist bequem zu Fuß erreichbar.\nZu Mittag steigen Sie wieder ins Auto für eine kurze Fahrt über den Fluss ins Kaiserviertel. Hier parken Sie erneut und widmen sich ganz der kaiserlichen Pracht. Besichtigen Sie die prächtige Kaiservilla und spazieren Sie anschließend zur nahegelegenen Lehár-Villa.\nDer Nachmittag ist für Entspannung im Grünen reserviert. Schlendern Sie vom Kaiserviertel aus durch den wunderschönen Kurpark und genießen Sie die ruhige Atmosphäre, bevor Sie wieder zu Ihrem Auto zurückkehren.\nFür den krönenden Abschluss fahren Sie zur berühmten Konditorei Zauner an der Esplanade. Gönnen Sie sich hier eine wohlverdiente Pause bei Kaffee und Kuchen und lassen Sie die kaiserlichen Eindrücke auf sich wirken.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját Bad Ischl központjában. A délelőtt a belváros nevezetességeinek gyalogos felfedezéséről szól: az Ivócsarnok, a plébániatemplom és az informatív Városi Múzeum. Minden kényelmesen elérhető gyalog.\nEbédidőben szálljon vissza az autóba egy rövid útra a folyón át a Császári negyedbe. Itt újra parkoljon le, és szentelje magát teljesen a császári pompának. Látogassa meg a csodálatos Császári Villát, majd sétáljon át a közeli Lehár-villához.\nA délután a zöldben való pihenésé. Sétáljon a Császári negyedből a gyönyörű Gyógyparkon keresztül, és élvezze a csendes légkört, mielőtt visszatérne autójához.\nA koronázó befejezéshez vezessen el a híres Zauner Cukrászdához az Esplanade-on. Itt engedélyezzen magának egy jól megérdemelt szünetet kávéval és süteménnyel, és hagyja, hogy a császári benyomások hassanak Önre.",
+        "ro": "Începeți ziua parcând mașina în centrul orașului Bad Ischl. Dimineața este dedicată unei plimbări pe jos la principalele atracții din centru: Trinkhalle, biserica parohială și muzeul informativ al orașului. Totul este ușor accesibil pe jos.\nLa prânz, urcați din nou în mașină pentru o scurtă călătorie peste râu, în Cartierul Imperial. Aici, parcați din nou și dedicați-vă pe deplin splendorii imperiale. Vizitați magnifica Vilă Imperială și apoi plimbați-vă până la Vila Lehár din apropiere.\nDupă-amiaza este rezervată relaxării în natură. De la Cartierul Imperial, plimbați-vă prin frumosul Kurpark și bucurați-vă de atmosfera liniștită înainte de a vă întoarce la mașină.\nPentru o încheiere grandioasă, conduceți până la faimoasa Cofetărie Zauner de pe Esplanadă. Acordați-vă o pauză binemeritată cu o cafea și o prăjitură și lăsați impresiile imperiale să vă copleșească.",
+        "en": "Start your day by parking your car in the center of Bad Ischl. The morning is for a walking tour of the downtown highlights: the Trinkhalle, the parish church, and the informative city museum. Everything is within easy walking distance.\nAt midday, get back in the car for a short drive across the river to the Imperial Quarter. Park again here and devote yourself entirely to the imperial splendor. Visit the magnificent Imperial Villa and then stroll over to the nearby Lehár Villa.\nThe afternoon is reserved for relaxing in the green. From the Imperial Quarter, stroll through the beautiful Kurpark and enjoy the peaceful atmosphere before returning to your car.\nFor the grand finale, drive to the famous Konditorei Zauner on the Esplanade. Treat yourself to a well-deserved break with coffee and cake and let the imperial impressions sink in."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zaunerstollen",
+            "tip": "Eine Nougat-Waffel-Spezialität, die man probiert haben muss. Erhältlich in der Konditorei Zauner."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Ein fluffiger, zerrissener Pfannkuchen, oft mit Rosinen und Puderzucker serviert."
+          },
+          {
+            "name": "Wiener Schnitzel",
+            "tip": "Der österreichische Klassiker. Dünnes, paniertes Kalbsschnitzel, goldbraun gebraten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zaunerstollen",
+            "tip": "Egy nugátos-ostyás különlegesség, amit meg kell kóstolni. A Zauner cukrászdában kapható."
+          },
+          {
+            "name": "Császármorzsa (Kaiserschmarrn)",
+            "tip": "Egy könnyű, szaggatott palacsinta, gyakran mazsolával és porcukorral tálalva."
+          },
+          {
+            "name": "Bécsi szelet (Wiener Schnitzel)",
+            "tip": "Az osztrák klasszikus. Vékony, panírozott borjúszelet, aranybarnára sütve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zaunerstollen",
+            "tip": "O specialitate de napolitane cu nuga care trebuie încercată. Disponibilă la Cofetăria Zauner."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "O clătită pufoasă, ruptă, adesea servită cu stafide și zahăr pudră."
+          },
+          {
+            "name": "Șnițel vienez (Wiener Schnitzel)",
+            "tip": "Clasicul austriac. Șnițel subțire de vițel, pane, prăjit până devine auriu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zaunerstollen",
+            "tip": "A nougat and wafer specialty that is a must-try. Available at the Konditorei Zauner."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "A fluffy, shredded pancake, often served with raisins and powdered sugar."
+          },
+          {
+            "name": "Wiener Schnitzel",
+            "tip": "The Austrian classic. A thin, breaded and pan-fried veal cutlet."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang der Traun",
+            "tip": "Der Flussweg bietet eine ruhige Alternative zum belebten Stadtzentrum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jainzenberg",
+            "tip": "Ein kurzer Aufstieg für einen Panoramablick über die Stadt und die umliegenden Berge.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kaiserpark",
+            "tip": "Der Park um die Kaiservilla ist weitläufig und friedlich, ideal für einen Moment der Besinnung.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Traun folyó mentén",
+            "tip": "A folyóparti út csendes alternatívát kínál a nyüzsgő városközponttal szemben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jainzenberg",
+            "tip": "Egy rövid emelkedő, ahonnan panorámás kilátás nyílik a városra és a környező hegyekre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Császári park",
+            "tip": "A Császári Villa körüli park tágas és békés, ideális egy elmélyült pillanatra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul râului Traun",
+            "tip": "Cărarea de pe malul râului oferă o alternativă liniștită la centrul aglomerat al orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muntele Jainzen",
+            "tip": "O urcare scurtă pentru o vedere panoramică asupra orașului și a munților din jur.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Imperial",
+            "tip": "Parcul din jurul Vilei Imperiale este vast și pașnic, ideal pentru un moment de reflecție.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Traun River",
+            "tip": "The river path offers a quiet alternative to the bustling town center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jainzenberg",
+            "tip": "A short climb for a panoramic view over the town and surrounding mountains.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Imperial Park",
+            "tip": "The park surrounding the Imperial Villa is spacious and peaceful, ideal for a moment of reflection.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus der Kaiservilla",
+            "tip": "Kaiserliche Erinnerungsstücke und Bücher über die Monarchie."
+          },
+          {
+            "name": "Lokales Handwerk",
+            "tip": "Suchen Sie nach Geschäften, die handgefertigte Produkte aus dem Salzkammergut anbieten, wie z.B. Keramik oder Holzschnitzereien."
+          },
+          {
+            "name": "Zauner Spezialitäten",
+            "tip": "Nehmen Sie den berühmten Stollen oder andere Süßigkeiten als köstliches Mitbringsel mit nach Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak a Császári Villából",
+            "tip": "Császári emléktárgyak és könyvek a monarchiáról."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen olyan üzleteket, amelyek a Salzkammergut régióból származó kézzel készített termékeket, például kerámiát vagy fafaragásokat kínálnak."
+          },
+          {
+            "name": "Zauner különlegességek",
+            "tip": "Vigye haza a híres süteményt vagy más édességeket finom ajándékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la Vila Imperială",
+            "tip": "Amintiri imperiale și cărți despre monarhie."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați magazine care oferă produse artizanale din regiunea Salzkammergut, precum ceramică sau sculpturi în lemn."
+          },
+          {
+            "name": "Specialități Zauner",
+            "tip": "Luați acasă faimosul 'stollen' sau alte dulciuri ca un suvenir delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs from the Imperial Villa",
+            "tip": "Imperial memorabilia and books about the monarchy."
+          },
+          {
+            "name": "Local Crafts",
+            "tip": "Look for shops offering handmade products from the Salzkammergut region, such as ceramics or wood carvings."
+          },
+          {
+            "name": "Zauner Specialties",
+            "tip": "Take the famous stollen or other sweets home as a delicious souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkgebühren und -zeiten in der Innenstadt; einige Zonen sind nur für Kurzparker.",
+          "Die Straßen können eng sein, fahren Sie vorsichtig.",
+          "Die Cluster-Walking-Methode ist ideal für Bad Ischl, da die Hauptsehenswürdigkeiten in zwei Gruppen konzentriert sind.",
+          "Ein Navigationsgerät hilft, die kleinen Straßen und Einbahnstraßen zu meistern."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra és időkorlátokra a belvárosban; egyes zónák csak rövid távú parkolásra szolgálnak.",
+          "Az utcák szűkek lehetnek, vezessen óvatosan.",
+          "A klaszteres séta módszer ideális Bad Ischlben, mivel a főbb látnivalók két csoportban összpontosulnak.",
+          "A navigációs eszköz segít eligazodni a kis utcákon és egyirányú utcákban."
+        ],
+        "ro": [
+          "Fiți atenți la taxele și orele de parcare din centrul orașului; unele zone sunt doar pentru parcare pe termen scurt.",
+          "Străzile pot fi înguste, conduceți cu prudență.",
+          "Metoda de plimbare în grupuri este ideală pentru Bad Ischl, deoarece principalele atracții sunt concentrate în două grupuri.",
+          "Un dispozitiv de navigație vă ajută să navigați pe străzile mici și pe cele cu sens unic."
+        ],
+        "en": [
+          "Pay attention to parking fees and times in the city center; some zones are for short-term parking only.",
+          "The streets can be narrow, drive carefully.",
+          "The cluster-walking method is ideal for Bad Ischl, as the main sights are concentrated in two groups.",
+          "A navigation device helps to master the small streets and one-way roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:36",
+      "total_km": 3.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof & Bus ins Zentrum",
+            "hu": "Érkezés a pályaudvarra és busz a központba",
+            "ro": "Sosire la gară și autobuz spre centru",
+            "en": "Arrival at the station & bus to the center"
+          },
+          "coords": [
+            13.623,
+            47.712
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie vom Bahnhof den Stadtbus zur Haltestelle 'Zentrum'. Hier beginnt Ihr Rundgang.",
+            "hu": "A pályaudvarról menjen a városi busszal a 'Zentrum' megállóig. Itt kezdődik a séta.",
+            "ro": "De la gară, luați autobuzul urban până la stația 'Zentrum'. Turul dumneavoastră pietonal începe aici.",
+            "en": "From the train station, take the city bus to the 'Zentrum' stop. Your walking tour starts here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Trinkhalle & Stadtpfarrkirche",
+            "hu": "Séta: Ivócsarnok és plébániatemplom",
+            "ro": "Plimbare: Trinkhalle și Biserica Parohială",
+            "en": "Walk: Trinkhalle & Parish Church"
+          },
+          "coords": [
+            13.6245,
+            47.7125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:21",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Bus aus ist es nur ein kurzer Spaziergang zu den ersten Highlights.",
+            "hu": "A buszmegállótól csak egy rövid séta az első látnivalókig.",
+            "ro": "De la stația de autobuz, este doar o scurtă plimbare până la primele atracții.",
+            "en": "From the bus stop, it's just a short walk to the first highlights."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Museum der Stadt Bad Ischl",
+            "hu": "Séta: Bad Ischl Városi Múzeum",
+            "ro": "Plimbare: Muzeul orașului Bad Ischl",
+            "en": "Walk: Museum of the town of Bad Ischl"
+          },
+          "coords": [
+            13.624,
+            47.7135
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Museum ist Teil des ersten Spaziergang-Clusters im Stadtzentrum.",
+            "hu": "A múzeum a belvárosi első séta-klaszter része.",
+            "ro": "Muzeul face parte din primul grup de plimbare din centrul orașului.",
+            "en": "The museum is part of the first walking cluster in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Kaiserviertel: Kaiservilla",
+            "hu": "Busszal a Császári negyedbe: Császári Villa",
+            "ro": "Cu autobuzul spre Cartierul Imperial: Vila Imperială",
+            "en": "Bus to the Imperial Quarter: Imperial Villa"
+          },
+          "coords": [
+            13.615,
+            47.71
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der den Fluss überquert, zur Haltestelle 'Kaiservilla'.",
+            "hu": "Menjen egy olyan busszal, amely átmegy a folyón, a 'Kaiservilla' megállóig.",
+            "ro": "Luați un autobuz care traversează râul până la stația 'Kaiservilla'.",
+            "en": "Take a bus that crosses the river to the 'Kaiservilla' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Lehár-Villa",
+            "hu": "Séta: Lehár-villa",
+            "ro": "Plimbare: Vila Lehár",
+            "en": "Walk: Lehár Villa"
+          },
+          "coords": [
+            13.618,
+            47.715
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:58",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Von der Kaiservilla aus ist die Lehár-Villa nur einen kurzen, angenehmen Spaziergang entfernt.",
+            "hu": "A Császári Villától a Lehár-villa csak egy rövid, kellemes sétára van.",
+            "ro": "De la Vila Imperială, Vila Lehár se află la o scurtă și plăcută plimbare.",
+            "en": "From the Imperial Villa, the Lehár Villa is just a short, pleasant walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Kurpark",
+            "hu": "Séta: Gyógypark",
+            "ro": "Plimbare: Kurpark",
+            "en": "Walk: Kurpark"
+          },
+          "coords": [
+            13.62,
+            47.711
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:04",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Kurpark verbindet das Kaiserviertel mit dem Zentrum und ist eine grüne Oase.",
+            "hu": "A Gyógypark összeköti a Császári negyedet a központtal és egy zöld oázis.",
+            "ro": "Kurpark leagă Cartierul Imperial de centru și este o oază de verdeață.",
+            "en": "The Kurpark connects the Imperial Quarter with the center and is a green oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Konditorei Zauner",
+            "hu": "Séta a Zauner Cukrászdához",
+            "ro": "Plimbare la Cofetăria Zauner",
+            "en": "Walk to the Konditorei Zauner"
+          },
+          "coords": [
+            13.625,
+            47.7115
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:27",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem Spaziergang durch das Zentrum zu dieser legendären Konditorei.",
+            "hu": "Fejezze be a napot egy sétával a központon keresztül ehhez a legendás cukrászdához.",
+            "ro": "Încheiați-vă ziua cu o plimbare prin centru spre această cofetărie legendară.",
+            "en": "End your day with a walk through the center to this legendary confectionery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr autofreier Tag in Bad Ischl beginnt am Bahnhof. Nehmen Sie den Stadtbus ins Zentrum und starten Sie Ihren Vormittagsspaziergang. Dieser führt Sie zu Fuß zur Trinkhalle, der Stadtpfarrkirche und dem Stadtmuseum – ein perfekter erster Eindruck.\nZu Mittag bringt Sie der Bus bequem über den Fluss ins Kaiserviertel. Hier tauchen Sie in die Welt des Adels ein und besichtigen die Kaiservilla. Anschließend spazieren Sie gemütlich zur nahegelegenen Lehár-Villa.\nAm Nachmittag durchqueren Sie zu Fuß den weitläufigen Kurpark. Genießen Sie die Ruhe und die Natur auf Ihrem Weg zurück in Richtung Zentrum.\nIhre Entdeckungstour endet mit einem letzten Spaziergang zur berühmten Konditorei Zauner. Hier können Sie bei Kaffee und Kuchen entspannen, bevor Sie mit dem Bus zurück zum Bahnhof fahren.",
+        "hu": "Autómentes napja Bad Ischlben a pályaudvaron kezdődik. Menjen a városi busszal a központba, és kezdje el délelőtti sétáját. Ez gyalogosan elvezeti Önt az Ivócsarnokhoz, a plébániatemplomhoz és a Városi Múzeumhoz – tökéletes első benyomás.\nEbédidőben a busz kényelmesen átviszi a folyón a Császári negyedbe. Itt elmerülhet a nemesi világban, és meglátogathatja a Császári Villát. Ezután kényelmesen átsétálhat a közeli Lehár-villához.\nDélután gyalogosan áthalad a tágas Gyógyparkon. Élvezze a csendet és a természetet a központ felé vezető úton.\nFelfedezőútja egy utolsó sétával zárul a híres Zauner Cukrászdához. Itt pihenhet egy kávé és sütemény mellett, mielőtt busszal visszatérne a pályaudvarra.",
+        "ro": "Ziua dumneavoastră fără mașină în Bad Ischl începe la gară. Luați autobuzul urban spre centru și începeți plimbarea de dimineață. Aceasta vă va duce pe jos la Trinkhalle, biserica parohială și muzeul orașului - o primă impresie perfectă.\nLa prânz, autobuzul vă va duce confortabil peste râu, în Cartierul Imperial. Aici, vă veți cufunda în lumea nobilimii și veți vizita Vila Imperială. Apoi, vă veți plimba agale până la Vila Lehár din apropiere.\nDupă-amiaza, veți traversa pe jos vastul Kurpark. Bucurați-vă de liniște și natură în drumul dumneavoastră înapoi spre centru.\nTurul dumneavoastră de descoperire se încheie cu o ultimă plimbare la faimoasa Cofetărie Zauner. Aici vă puteți relaxa cu o cafea și o prăjitură înainte de a lua autobuzul înapoi la gară.",
+        "en": "Your car-free day in Bad Ischl starts at the train station. Take the city bus to the center and begin your morning walk. This will take you on foot to the Trinkhalle, the parish church, and the city museum - a perfect first impression.\nAt noon, the bus will comfortably take you across the river to the Imperial Quarter. Here, you'll immerse yourself in the world of nobility and visit the Imperial Villa. Afterwards, you can take a leisurely stroll to the nearby Lehár Villa.\nIn the afternoon, you will walk through the spacious Kurpark. Enjoy the peace and nature on your way back towards the center.\nYour discovery tour ends with a final walk to the famous Konditorei Zauner. Here you can relax with a coffee and cake before taking the bus back to the train station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zaunerstollen",
+            "tip": "Eine Nougat-Waffel-Spezialität, die man probiert haben muss. Erhältlich in der Konditorei Zauner."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Ein fluffiger, zerrissener Pfannkuchen, oft mit Rosinen und Puderzucker serviert."
+          },
+          {
+            "name": "Wiener Schnitzel",
+            "tip": "Der österreichische Klassiker. Dünnes, paniertes Kalbsschnitzel, goldbraun gebraten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zaunerstollen",
+            "tip": "Egy nugátos-ostyás különlegesség, amit meg kell kóstolni. A Zauner cukrászdában kapható."
+          },
+          {
+            "name": "Császármorzsa (Kaiserschmarrn)",
+            "tip": "Egy könnyű, szaggatott palacsinta, gyakran mazsolával és porcukorral tálalva."
+          },
+          {
+            "name": "Bécsi szelet (Wiener Schnitzel)",
+            "tip": "Az osztrák klasszikus. Vékony, panírozott borjúszelet, aranybarnára sütve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zaunerstollen",
+            "tip": "O specialitate de napolitane cu nuga care trebuie încercată. Disponibilă la Cofetăria Zauner."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "O clătită pufoasă, ruptă, adesea servită cu stafide și zahăr pudră."
+          },
+          {
+            "name": "Șnițel vienez (Wiener Schnitzel)",
+            "tip": "Clasicul austriac. Șnițel subțire de vițel, pane, prăjit până devine auriu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zaunerstollen",
+            "tip": "A nougat and wafer specialty that is a must-try. Available at the Konditorei Zauner."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "A fluffy, shredded pancake, often served with raisins and powdered sugar."
+          },
+          {
+            "name": "Wiener Schnitzel",
+            "tip": "The Austrian classic. A thin, breaded and pan-fried veal cutlet."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang der Traun",
+            "tip": "Der Flussweg bietet eine ruhige Alternative zum belebten Stadtzentrum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jainzenberg",
+            "tip": "Ein kurzer Aufstieg für einen Panoramablick über die Stadt und die umliegenden Berge.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kaiserpark",
+            "tip": "Der Park um die Kaiservilla ist weitläufig und friedlich, ideal für einen Moment der Besinnung.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Traun folyó mentén",
+            "tip": "A folyóparti út csendes alternatívát kínál a nyüzsgő városközponttal szemben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jainzenberg",
+            "tip": "Egy rövid emelkedő, ahonnan panorámás kilátás nyílik a városra és a környező hegyekre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Császári park",
+            "tip": "A Császári Villa körüli park tágas és békés, ideális egy elmélyült pillanatra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul râului Traun",
+            "tip": "Cărarea de pe malul râului oferă o alternativă liniștită la centrul aglomerat al orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muntele Jainzen",
+            "tip": "O urcare scurtă pentru o vedere panoramică asupra orașului și a munților din jur.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Imperial",
+            "tip": "Parcul din jurul Vilei Imperiale este vast și pașnic, ideal pentru un moment de reflecție.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Traun River",
+            "tip": "The river path offers a quiet alternative to the bustling town center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jainzenberg",
+            "tip": "A short climb for a panoramic view over the town and surrounding mountains.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Imperial Park",
+            "tip": "The park surrounding the Imperial Villa is spacious and peaceful, ideal for a moment of reflection.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus der Kaiservilla",
+            "tip": "Kaiserliche Erinnerungsstücke und Bücher über die Monarchie."
+          },
+          {
+            "name": "Lokales Handwerk",
+            "tip": "Suchen Sie nach Geschäften, die handgefertigte Produkte aus dem Salzkammergut anbieten, wie z.B. Keramik oder Holzschnitzereien."
+          },
+          {
+            "name": "Zauner Spezialitäten",
+            "tip": "Nehmen Sie den berühmten Stollen oder andere Süßigkeiten als köstliches Mitbringsel mit nach Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak a Császári Villából",
+            "tip": "Császári emléktárgyak és könyvek a monarchiáról."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen olyan üzleteket, amelyek a Salzkammergut régióból származó kézzel készített termékeket, például kerámiát vagy fafaragásokat kínálnak."
+          },
+          {
+            "name": "Zauner különlegességek",
+            "tip": "Vigye haza a híres süteményt vagy más édességeket finom ajándékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la Vila Imperială",
+            "tip": "Amintiri imperiale și cărți despre monarhie."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați magazine care oferă produse artizanale din regiunea Salzkammergut, precum ceramică sau sculpturi în lemn."
+          },
+          {
+            "name": "Specialități Zauner",
+            "tip": "Luați acasă faimosul 'stollen' sau alte dulciuri ca un suvenir delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs from the Imperial Villa",
+            "tip": "Imperial memorabilia and books about the monarchy."
+          },
+          {
+            "name": "Local Crafts",
+            "tip": "Look for shops offering handmade products from the Salzkammergut region, such as ceramics or wood carvings."
+          },
+          {
+            "name": "Zauner Specialties",
+            "tip": "Take the famous stollen or other sweets home as a delicious souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Stadtbus, um flexibel zu bleiben.",
+          "Informieren Sie sich über die Busfahrpläne, um Wartezeiten zu minimieren.",
+          "Die Busse können im Sommer voll sein, planen Sie etwas Pufferzeit ein.",
+          "Die meisten Sehenswürdigkeiten sind von den Bushaltestellen aus leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a városi buszra, hogy rugalmas maradjon.",
+          "Tájékozódjon a buszmenetrendekről a várakozási idők minimalizálása érdekében.",
+          "A buszok nyáron zsúfoltak lehetnek, tervezzen be némi pufferidőt.",
+          "A legtöbb látnivaló könnyen elérhető gyalog a buszmegállóktól."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuzul urban pentru a rămâne flexibil.",
+          "Verificați orarele autobuzelor pentru a minimiza timpii de așteptare.",
+          "Autobuzele pot fi aglomerate în timpul verii, planificați un timp suplimentar.",
+          "Majoritatea atracțiilor sunt ușor accesibile pe jos de la stațiile de autobuz."
+        ],
+        "en": [
+          "Buy a day ticket for the city bus to stay flexible.",
+          "Check the bus schedules to minimize waiting times.",
+          "Buses can be crowded in the summer, so plan for some buffer time.",
+          "Most sights are within easy walking distance of the bus stops."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1548 @@
+{
+  "city_id": "czechrepublic-pribram-cities-v2",
+  "anchor": {
+    "name": "Pibrans",
+    "coords": [
+      49.6898,
+      14.0104
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St.-Jakobs-Kirche",
+            "hu": "Szent Jakab-templom",
+            "ro": "Biserica Sfântul Iacob",
+            "en": "St. James's Church"
+          },
+          "coords": [
+            14.0115,
+            49.6875
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die barocke Innenausstattung und die beeindruckende Orgel.",
+            "hu": "Figyelje meg a barokk belső teret és a lenyűgöző orgonát.",
+            "ro": "Observați interiorul baroc și orga impresionantă.",
+            "en": "Pay attention to the baroque interior and the impressive organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Ernestinum",
+            "hu": "Ernestinum kastély",
+            "ro": "Castelul Ernestinum",
+            "en": "Ernestinum Castle"
+          },
+          "coords": [
+            14.0122,
+            49.6881
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ursprünglich eine erzbischöfliche Burg, beherbergt es heute eine Galerie.",
+            "hu": "Eredetileg érseki várkastély volt, ma egy galériának ad otthont.",
+            "ro": "Inițial un castel arhiepiscopal, acum găzduiește o galerie.",
+            "en": "Originally an archbishop's castle, it now houses a gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue des hl. Johannes von Nepomuk",
+            "hu": "Nepomuki Szent János szobra",
+            "ro": "Statuia Sfântului Ioan Nepomuk",
+            "en": "Statue of St. John of Nepomuk"
+          },
+          "coords": [
+            14.0118,
+            49.6871
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein klassisches Beispiel für die Verehrung dieses tschechischen Nationalheiligen.",
+            "hu": "A cseh nemzeti szent tiszteletének klasszikus példája.",
+            "ro": "Un exemplu clasic de venerare a acestui sfânt național ceh.",
+            "en": "A classic example of the veneration of this Czech national saint."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum Příbram",
+            "hu": "Příbrami Bányászati Múzeum",
+            "ro": "Muzeul Mineritului Příbram",
+            "en": "Příbram Mining Museum"
+          },
+          "coords": [
+            13.9989,
+            49.6845
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie Zeit für die Grubenfahrt mit der Bergwerksbahn ein.",
+            "hu": "Szánjon időt a bányavasúttal való földalatti utazásra.",
+            "ro": "Planificați timp pentru plimbarea cu trenul minier în subteran.",
+            "en": "Plan time for the underground ride on the mine train."
+          }
+        },
+        {
+          "name": {
+            "de": "Březové Hory",
+            "hu": "Březové Hory (Nyíres-hegy)",
+            "ro": "Březové Hory (Dealurile de Mesteacăn)",
+            "en": "Březové Hory (Birch Mountains)"
+          },
+          "coords": [
+            13.9951,
+            49.6833
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Bergarbeiterhäuser in diesem Stadtteil.",
+            "hu": "Fedezze fel a történelmi bányászházakat ebben a városrészben.",
+            "ro": "Explorați casele istorice ale minerilor din acest cartier.",
+            "en": "Explore the historic miners' houses in this district."
+          }
+        },
+        {
+          "name": {
+            "de": "Svatá Hora (Heiliger Berg)",
+            "hu": "Svatá Hora (Szent Hegy)",
+            "ro": "Svatá Hora (Muntele Sfânt)",
+            "en": "Svatá Hora (Holy Mountain)"
+          },
+          "coords": [
+            14.0225,
+            49.6841
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Kreuzgang ist mit Hunderten von Votivgaben geschmückt, die von Wundern zeugen.",
+            "hu": "A kerengőt több száz, csodákról tanúskodó fogadalmi ajándék díszíti.",
+            "ro": "Mănăstirea este decorată cu sute de ofrande votive care atestă miracole.",
+            "en": "The cloister is decorated with hundreds of votive offerings testifying to miracles."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Hořejší Obora",
+            "hu": "Hořejší Obora városi park",
+            "ro": "Parcul Hořejší Obora",
+            "en": "Hořejší Obora City Park"
+          },
+          "coords": [
+            14.0155,
+            49.6955
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort zum Entspannen am Ende des Tages, in der Nähe des Teiches.",
+            "hu": "Tökéletes hely a nap végi pihenésre a tó közelében.",
+            "ro": "Un loc perfect pentru a vă relaxa la sfârșitul zilei, lângă iaz.",
+            "en": "A perfect place to relax at the end of the day, near the pond."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Příbram beginnt im historischen Herzen der Stadt mit der St.-Jakobs-Kirche und dem Ernestinum. Am Vormittag erkunden Sie die reiche Bergbaugeschichte im berühmten Bergbaumuseum, inklusive des alten Stadtteils Březové Hory. Der Nachmittag ist dem spirituellen Aufstieg zum Heiligen Berg (Svatá Hora) gewidmet, einem der wichtigsten Wallfahrtsorte Tschechiens. Sie beenden Ihren Tag mit einem entspannenden Spaziergang im Stadtpark Hořejší Obora und genießen die ruhige Atmosphäre, bevor Sie sich zum Abendessen begeben.",
+        "hu": "Příbrami napja a város történelmi szívében kezdődik a Szent Jakab-templommal és az Ernestinummal. Délelőtt a híres Bányászati Múzeumban fedezi fel a gazdag bányászmúltat, beleértve Březové Hory régi negyedét is. A délután a spirituális feltöltődésé a Szent Hegyen (Svatá Hora), Csehország egyik legfontosabb zarándokhelyén. A napot a Hořejší Obora városi parkban tett pihentető sétával zárja, élvezve a nyugodt légkört vacsora előtt.",
+        "ro": "Ziua dumneavoastră în Příbram începe în inima istorică a orașului, cu Biserica Sfântul Iacob și Castelul Ernestinum. Dimineața explorați istoria minieră bogată la faimosul Muzeu al Mineritului, inclusiv vechiul cartier Březové Hory. După-amiaza este dedicată urcării spirituale la Muntele Sfânt (Svatá Hora), unul dintre cele mai importante locuri de pelerinaj din Cehia. Încheiați ziua cu o plimbare relaxantă în Parcul Hořejší Obora, bucurându-vă de atmosfera liniștită înainte de cină.",
+        "en": "Your day in Příbram begins in the historic heart of the city with St. James's Church and the Ernestinum. In the morning, you'll explore the rich mining history at the famous Mining Museum, including the old Březové Hory district. The afternoon is dedicated to the spiritual ascent to the Holy Mountain (Svatá Hora), one of the most important pilgrimage sites in the Czech Republic. You end your day with a relaxing walk in the Hořejší Obora City Park, enjoying the peaceful atmosphere before heading to dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Rinderbraten in Sahnesauce mit Knödeln, ein tschechischer Klassiker."
+          },
+          {
+            "name": "Pivovar Podlesí",
+            "tip": "Lokale Brauerei mit Restaurant, probieren Sie deren unfiltriertes Lagerbier."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Knusprige Kartoffelpuffer, oft als Beilage oder Snack serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Vadas marhaszelet tejszínes mártással és knédlivel, egy cseh klasszikus."
+          },
+          {
+            "name": "Pivovar Podlesí",
+            "tip": "Helyi sörfőzde étteremmel, kóstolja meg a szűretlen láger sörüket."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Ropogós tócsni, gyakran köretként vagy harapnivalóként tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Friptură de vită în sos de smântână cu găluște, un clasic ceh."
+          },
+          {
+            "name": "Pivovar Podlesí",
+            "tip": "Berărie locală cu restaurant, încercați berea lor lager nefiltrată."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Clătite de cartofi crocante, adesea servite ca garnitură sau gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Marinated sirloin in cream sauce with dumplings, a Czech classic."
+          },
+          {
+            "name": "Pivovar Podlesí",
+            "tip": "Local brewery with a restaurant, try their unfiltered lager."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Crispy potato pancakes, often served as a side dish or snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kreuzgang von Svatá Hora",
+            "tip": "Ein ruhiger Ort zur Besinnung mit Blick auf die Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Teich im Stadtpark Hořejší Obora",
+            "tip": "Setzen Sie sich auf eine Bank am Wasser und genießen Sie die Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alter Bergarbeiterfriedhof in Březové Hory",
+            "tip": "Ein historischer und friedlicher Ort, der zum Nachdenken anregt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Svatá Hora kerengője",
+            "tip": "Csendes hely az elmélkedésre, kilátással a városra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tó a Hořejší Obora parkban",
+            "tip": "Üljön le egy padra a vízparton, és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Régi bányásztemető Březové Hory-ban",
+            "tip": "Történelmi és békés hely, amely elgondolkodtat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea de la Svatá Hora",
+            "tip": "Un loc liniștit pentru contemplare, cu vedere la oraș.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Iazul din Parcul Hořejší Obora",
+            "tip": "Stați pe o bancă lângă apă și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul vechi al minerilor din Březové Hory",
+            "tip": "Un loc istoric și pașnic care invită la reflecție.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cloister of Svatá Hora",
+            "tip": "A quiet place for contemplation overlooking the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pond in Hořejší Obora Park",
+            "tip": "Sit on a bench by the water and enjoy the silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Old miners' cemetery in Březové Hory",
+            "tip": "A historical and peaceful place that encourages reflection.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop des Bergbaumuseums",
+            "tip": "Kaufen Sie Mineralien oder thematische Souvenirs."
+          },
+          {
+            "name": "Böhmisches Kristallglas",
+            "tip": "Halten Sie in den örtlichen Geschäften Ausschau nach traditionellem tschechischem Glas."
+          },
+          {
+            "name": "Pilgerladen Svatá Hora",
+            "tip": "Religiöse Andenken und lokale Handwerksprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Bányászati Múzeum boltja",
+            "tip": "Vásároljon ásványokat vagy tematikus ajándéktárgyakat."
+          },
+          {
+            "name": "Cseh kristályüveg",
+            "tip": "Keresse a hagyományos cseh üvegárut a helyi boltokban."
+          },
+          {
+            "name": "Svatá Hora zarándokbolt",
+            "tip": "Vallási emléktárgyak és helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului Mineritului",
+            "tip": "Cumpărați minerale sau suveniruri tematice."
+          },
+          {
+            "name": "Cristal de Boemia",
+            "tip": "Căutați sticlăria tradițională cehă în magazinele locale."
+          },
+          {
+            "name": "Magazinul de pelerinaj Svatá Hora",
+            "tip": "Suveniruri religioase și produse artizanale locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mining Museum Gift Shop",
+            "tip": "Buy minerals or themed souvenirs."
+          },
+          {
+            "name": "Bohemian Crystal",
+            "tip": "Look for traditional Czech glassware in local shops."
+          },
+          {
+            "name": "Svatá Hora Pilgrimage Shop",
+            "tip": "Religious memorabilia and local craft products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Tag viel Gehen beinhaltet, besonders den Aufstieg nach Svatá Hora.",
+          "Prüfen Sie die Öffnungszeiten des Bergbaumuseums im Voraus, da einige Touren saisonabhängig sind.",
+          "Bargeld kann in kleineren Geschäften und für Votivgaben nützlich sein.",
+          "Die Tour ist ziemlich intensiv; nehmen Sie sich Zeit für Pausen und genießen Sie einen Kaffee in einem der lokalen Cafés."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap sok gyaloglást foglal magában, különösen a Svatá Hora-ra való feljutást.",
+          "Előre ellenőrizze a Bányászati Múzeum nyitvatartási idejét, mivel egyes túrák szezonálisak lehetnek.",
+          "Készpénz hasznos lehet a kisebb boltokban és a fogadalmi ajándékok vásárlásakor.",
+          "A túra meglehetősen intenzív; szánjon időt a szünetekre, és élvezzen egy kávét az egyik helyi kávézóban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece ziua implică mult mers pe jos, în special urcarea la Svatá Hora.",
+          "Verificați în avans programul Muzeului Mineritului, deoarece unele tururi pot fi sezoniere.",
+          "Banii cash pot fi utili în magazinele mai mici și pentru ofrandele votive.",
+          "Turul este destul de intens; luați-vă timp pentru pauze și savurați o cafea la una dintre cafenelele locale."
+        ],
+        "en": [
+          "Wear comfortable shoes as the day involves a lot of walking, especially the ascent to Svatá Hora.",
+          "Check the opening hours of the Mining Museum in advance, as some tours can be seasonal.",
+          "Cash can be useful in smaller shops and for votive offerings.",
+          "The tour is quite intensive; take time for breaks and enjoy a coffee in one of the local cafes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtpark Hořejší Obora",
+            "hu": "Hořejší Obora városi park",
+            "ro": "Parcul Hořejší Obora",
+            "en": "Hořejší Obora City Park"
+          },
+          "coords": [
+            14.0155,
+            49.6955
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer leichten Radtour durch den Park, um sich aufzuwärmen.",
+            "hu": "Kezdje a napot egy könnyű biciklitúrával a parkban, hogy bemelegítsen.",
+            "ro": "Începeți ziua cu o plimbare ușoară cu bicicleta prin parc pentru a vă încălzi.",
+            "en": "Start the day with a light bike ride through the park to warm up."
+          }
+        },
+        {
+          "name": {
+            "de": "Antonín-Dvořák-Theater",
+            "hu": "Antonín Dvořák Színház",
+            "ro": "Teatrul Antonín Dvořák",
+            "en": "Antonín Dvořák Theatre"
+          },
+          "coords": [
+            14.0091,
+            49.6888
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Jugendstil-Architektur des Gebäudes von außen.",
+            "hu": "Csodálja meg az épület szecessziós építészetét kívülről.",
+            "ro": "Admirați arhitectura Art Nouveau a clădirii din exterior.",
+            "en": "Admire the Art Nouveau architecture of the building from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Březové Hory & Bergbaumuseum",
+            "hu": "Březové Hory & Bányászati Múzeum",
+            "ro": "Březové Hory & Muzeul Mineritului",
+            "en": "Březové Hory & Mining Museum"
+          },
+          "coords": [
+            13.9989,
+            49.6845
+          ],
+          "category": "museums",
+          "arrive_at": "10:48",
+          "stay_min": 130,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie tief in die Bergbaugeschichte ein.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el mélyen a bányászat történetében.",
+            "ro": "Parcați-vă bicicleta în siguranță și scufundați-vă adânc în istoria mineritului.",
+            "en": "Park your bike securely and dive deep into the mining history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Orașul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            14.0102,
+            49.6872
+          ],
+          "category": "gastro",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein Restaurant in der Nähe des Hauptplatzes für eine authentische Mahlzeit.",
+            "hu": "Keressen egy éttermet a főtér közelében egy autentikus ebédhez.",
+            "ro": "Găsiți un restaurant lângă piața principală pentru o masă autentică.",
+            "en": "Find a restaurant near the main square for an authentic meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Svatá Hora (Heiliger Berg)",
+            "hu": "Svatá Hora (Szent Hegy)",
+            "ro": "Svatá Hora (Muntele Sfânt)",
+            "en": "Svatá Hora (Holy Mountain)"
+          },
+          "coords": [
+            14.0225,
+            49.6841
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:06",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg ist eine Herausforderung, aber die Aussicht und die spirituelle Atmosphäre sind es wert.",
+            "hu": "Az emelkedő kihívást jelent, de a kilátás és a spirituális légkör megéri.",
+            "ro": "Urcușul este o provocare, dar priveliștea și atmosfera spirituală merită efortul.",
+            "en": "The climb is challenging, but the view and spiritual atmosphere are worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Ernestinum",
+            "hu": "Ernestinum kastély",
+            "ro": "Castelul Ernestinum",
+            "en": "Ernestinum Castle"
+          },
+          "coords": [
+            14.0122,
+            49.6881
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:48",
+          "stay_min": 57,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem kulturellen Höhepunkt in der Galerie des Schlosses.",
+            "hu": "Zárja a túrát egy kulturális fényponttal a kastély galériájában.",
+            "ro": "Încheiați turul cu un punct culminant cultural la galeria castelului.",
+            "en": "End your tour with a cultural highlight at the castle's gallery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Příbram startet gemütlich im Stadtpark, bevor Sie zum architektonischen Juwel, dem Antonín-Dvořák-Theater, radeln. Der Vormittag steht ganz im Zeichen des Bergbaus: Sie erkunden das ausgedehnte Museumsgelände in Březové Hory. Nach einem stärkenden Mittagessen in der Altstadt nehmen Sie die größte Herausforderung des Tages in Angriff: den Anstieg zum Heiligen Berg Svatá Hora. Der anstrengende Teil wird mit einer atemberaubenden Aussicht belohnt. Zum Abschluss rollen Sie zurück ins Zentrum und besuchen das Schloss Ernestinum.",
+        "hu": "Příbrami kerékpártúrája kényelmesen indul a városi parkban, mielőtt az építészeti gyöngyszem, az Antonín Dvořák Színház felé veszi az irányt. A délelőtt a bányászat jegyében telik: felfedezi a Březové Hory kiterjedt múzeumi területét. Egy kiadós óvárosi ebéd után jön a nap legnagyobb kihívása: a Svatá Hora-ra, a Szent Hegyre való feljutás. A fárasztó tekerést lélegzetelállító kilátás jutalmazza. Végül visszagurul a központba, hogy meglátogassa az Ernestinum kastélyt.",
+        "ro": "Turul cu bicicleta prin Příbram începe relaxat în parcul orașului, înainte de a pedala spre bijuteria arhitecturală, Teatrul Antonín Dvořák. Dimineața este dedicată mineritului: explorați vastul complex muzeal din Březové Hory. După un prânz copios în Orașul Vechi, acceptați cea mai mare provocare a zilei: urcarea la Muntele Sfânt, Svatá Hora. Efortul este răsplătit cu o priveliște uluitoare. La final, vă întoarceți în centru pentru a vizita Castelul Ernestinum.",
+        "en": "Your bike tour of Příbram starts leisurely in the city park before you cycle to the architectural gem, the Antonín Dvořák Theatre. The morning is all about mining: you explore the extensive museum grounds in Březové Hory. After a hearty lunch in the Old Town, you tackle the day's biggest challenge: the climb up to the Holy Mountain, Svatá Hora. The strenuous part is rewarded with a breathtaking view. Finally, you'll roll back to the center and visit Ernestinum Castle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurace U Zvonice",
+            "tip": "Traditionelle tschechische Küche in der Nähe der St.-Jakobs-Kirche."
+          },
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "Eingelegter Camembert-Käse, ein perfekter Snack zu einem Bier."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Probieren Sie das tschechische Kräuter-Cola als erfrischendes Getränk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurace U Zvonice",
+            "tip": "Hagyományos cseh konyha a Szent Jakab-templom közelében."
+          },
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "Pácolt camembert sajt, tökéletes sörkorcsolya."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Kóstolja meg a cseh gyógynövényes kólát frissítőként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurace U Zvonice",
+            "tip": "Bucătărie tradițională cehă lângă Biserica Sfântul Iacob."
+          },
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "Brânză Camembert marinată, o gustare perfectă cu o bere."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Încercați Kofola, băutura carbogazoasă pe bază de plante, pentru o răcorire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurace U Zvonice",
+            "tip": "Traditional Czech cuisine near St. James's Church."
+          },
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "Pickled Camembert-style cheese, a perfect snack with a beer."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Try the Czech herbal cola for a refreshing drink."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Heiligen Berges",
+            "tip": "Nach dem anstrengenden Aufstieg finden Sie hier Ruhe und eine weite Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Flusses Litavka",
+            "tip": "Suchen Sie sich einen Weg entlang des Flusses für eine friedliche Radtour.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park am Antonín-Dvořák-Theater",
+            "tip": "Eine kleine grüne Oase im Stadtzentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Szent Hegy csúcsa",
+            "tip": "A megerőltető emelkedő után itt nyugalmat és pazar kilátást talál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Litavka folyó partja",
+            "tip": "Keressen egy ösvényt a folyó mentén egy békés kerékpártúrához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park az Antonín Dvořák Színháznál",
+            "tip": "Egy kis zöld oázis a városközpontban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Muntelui Sfânt",
+            "tip": "După urcarea dificilă, veți găsi pace și o priveliște vastă aici.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului Litavka",
+            "tip": "Găsiți o potecă de-a lungul râului pentru o plimbare liniștită cu bicicleta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de la Teatrul Antonín Dvořák",
+            "tip": "O mică oază de verdeață în centrul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of the Holy Mountain",
+            "tip": "After the strenuous climb, you'll find peace and a vast view here.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Litavka River",
+            "tip": "Find a path along the river for a peaceful bike ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park at the Antonín Dvořák Theatre",
+            "tip": "A small green oasis in the city center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Ersatzteile oder Zubehör benötigen."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frisches Obst oder einen Snack für unterwegs."
+          },
+          {
+            "name": "Handgefertigte Holzarbeiten",
+            "tip": "Ein schönes Souvenir aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha pótalkatrészre vagy kiegészítőre lenne szüksége."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss gyümölcsöt vagy harapnivalót az útra."
+          },
+          {
+            "name": "Kézzel készített fatárgyak",
+            "tip": "Szép emléktárgy a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de piese de schimb sau accesorii."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați fructe proaspete sau o gustare pentru drum."
+          },
+          {
+            "name": "Obiecte din lemn lucrate manual",
+            "tip": "Un suvenir frumos din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "In case you need any spare parts or accessories."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Buy some fresh fruit or a snack for the road."
+          },
+          {
+            "name": "Handmade wooden crafts",
+            "tip": "A beautiful souvenir from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad für Hügel geeignet ist; der Anstieg nach Svatá Hora ist steil.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, besonders wenn Sie am späten Nachmittag unterwegs sind.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit und füllen Sie sie auf.",
+          "Schließen Sie Ihr Fahrrad immer an festen Gegenständen an, besonders an Touristenattraktionen."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy a kerékpárja alkalmas a dombos terepre; a Svatá Hora-ra vezető emelkedő meredek.",
+          "Viseljen sisakot és használjon lámpákat, különösen, ha késő délután is úton van.",
+          "Hozzon magával újratölthető vizes palackot, és töltse fel.",
+          "Mindig zárja le a kerékpárt szilárd tárgyakhoz, különösen a turisztikai látványosságoknál."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este potrivită pentru dealuri; urcarea la Svatá Hora este abruptă.",
+          "Purtați cască și folosiți lumini, mai ales dacă circulați după-amiaza târziu.",
+          "Luați o sticlă de apă reutilizabilă și umpleți-o.",
+          "Legați-vă întotdeauna bicicleta de obiecte fixe, în special la atracțiile turistice."
+        ],
+        "en": [
+          "Make sure your bike is suitable for hills; the climb to Svatá Hora is steep.",
+          "Wear a helmet and use lights, especially if you're out in the late afternoon.",
+          "Bring a reusable water bottle and fill it up.",
+          "Always lock your bike to a fixed object, especially at tourist attractions."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz bei Svatá Hora",
+            "hu": "Parkoló a Svatá Hora-nál",
+            "ro": "Parcare la Svatá Hora",
+            "en": "Parking at Svatá Hora"
+          },
+          "coords": [
+            14.022,
+            49.6835
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie am höchsten Punkt, um den Menschenmassen zu entgehen.",
+            "hu": "Kezdje a legmagasabb ponton, hogy elkerülje a tömeget.",
+            "ro": "Începeți de la cel mai înalt punct pentru a evita aglomerația.",
+            "en": "Start at the highest point to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Svatá Hora (Heiliger Berg)",
+            "hu": "Svatá Hora (Szent Hegy)",
+            "ro": "Svatá Hora (Muntele Sfânt)",
+            "en": "Svatá Hora (Holy Mountain)"
+          },
+          "coords": [
+            14.0225,
+            49.6841
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für den Kreuzgang und das Museum im Inneren.",
+            "hu": "Szánjon időt a kerengőre és a benti múzeumra.",
+            "ro": "Acordați-vă timp pentru mănăstire și muzeul din interior.",
+            "en": "Take your time for the cloister and the museum inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Bergbaumuseum",
+            "hu": "Utazás a Bányászati Múzeumhoz",
+            "ro": "Deplasare la Muzeul Mineritului",
+            "en": "Drive to the Mining Museum"
+          },
+          "coords": [
+            13.998,
+            49.684
+          ],
+          "category": "transport",
+          "arrive_at": "10:57",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den zweiten Cluster des Tages.",
+            "hu": "Parkoljon le itt a nap második állomás-csoportjához.",
+            "ro": "Parcați aici pentru al doilea grup de opriri al zilei.",
+            "en": "Park here for the second cluster of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum Příbram & Březové Hory",
+            "hu": "Příbrami Bányászati Múzeum & Březové Hory",
+            "ro": "Muzeul Mineritului Příbram & Březové Hory",
+            "en": "Příbram Mining Museum & Březové Hory"
+          },
+          "coords": [
+            13.9989,
+            49.6845
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Museumsbesuch mit einem Spaziergang durch das historische Bergarbeiterviertel.",
+            "hu": "Kombinálja a múzeumlátogatást egy sétával a történelmi bányásznegyedben.",
+            "ro": "Combinați vizita la muzeu cu o plimbare prin cartierul istoric al minerilor.",
+            "en": "Combine the museum visit with a walk through the historic miners' quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt ins Stadtzentrum",
+            "hu": "Utazás a városközpontba",
+            "ro": "Deplasare în centrul orașului",
+            "en": "Drive to the City Center"
+          },
+          "coords": [
+            14.011,
+            49.6878
+          ],
+          "category": "transport",
+          "arrive_at": "14:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen zentralen Parkplatz für den Rest des Tages.",
+            "hu": "Keressen egy központi parkolót a nap hátralévő részére.",
+            "ro": "Găsiți o parcare centrală pentru restul zilei.",
+            "en": "Find a central parking spot for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Jakobs-Kirche & Ernestinum",
+            "hu": "Szent Jakab-templom & Ernestinum",
+            "ro": "Biserica Sfântul Iacob & Ernestinum",
+            "en": "St. James's Church & Ernestinum"
+          },
+          "coords": [
+            14.0115,
+            49.6875
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beiden eng beieinander liegenden historischen Wahrzeichen zu Fuß.",
+            "hu": "Fedezze fel gyalog ezt a két, egymáshoz közel fekvő történelmi nevezetességet.",
+            "ro": "Explorați pe jos aceste două repere istorice apropiate.",
+            "en": "Explore these two closely situated historical landmarks on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Hořejší Obora",
+            "hu": "Hořejší Obora városi park",
+            "ro": "Parcul Hořejší Obora",
+            "en": "Hořejší Obora City Park"
+          },
+          "coords": [
+            14.0155,
+            49.6955
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Zentrum entfernt, ideal für den Ausklang des Tages.",
+            "hu": "Rövid sétára a központtól, ideális a nap lezárásához.",
+            "ro": "La o scurtă plimbare de centru, ideal pentru a încheia ziua.",
+            "en": "A short walk from the center, ideal for ending the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Příbram in Clustern. Sie beginnen auf dem Heiligen Berg (Svatá Hora), um die spirituelle Atmosphäre und die Aussicht zu genießen. Anschließend fahren Sie zum zweiten Cluster, dem Bergbaumuseum und dem Viertel Březové Hory, wo Sie in die industrielle Vergangenheit der Stadt eintauchen. Nach dem Mittagessen parken Sie im Stadtzentrum und erkunden den letzten Cluster zu Fuß: die St.-Jakobs-Kirche, das Schloss Ernestinum und zum Abschluss den entspannenden Stadtpark Hořejší Obora.",
+        "hu": "Autóval Příbramot klaszterekben fedezheti fel. A Szent Hegyen (Svatá Hora) kezdi a napot, hogy élvezze a spirituális légkört és a kilátást. Ezután a második klaszterhez, a Bányászati Múzeumhoz és a Březové Hory negyedhez hajt, ahol elmerülhet a város ipari múltjában. Ebéd után a központban parkol, és gyalog fedezi fel az utolsó klasztert: a Szent Jakab-templomot, az Ernestinum kastélyt, és végül a pihentető Hořejší Obora városi parkot.",
+        "ro": "Cu mașina, explorați Příbram în grupuri de obiective. Începeți pe Muntele Sfânt (Svatá Hora) pentru a vă bucura de atmosfera spirituală și de priveliște. Apoi, conduceți la al doilea grup, Muzeul Mineritului și cartierul Březové Hory, unde vă veți cufunda în trecutul industrial al orașului. După prânz, parcați în centrul orașului și explorați pe jos ultimul grup: Biserica Sfântul Iacob, Castelul Ernestinum și, la final, relaxantul Parc Hořejší Obora.",
+        "en": "By car, you'll explore Příbram in clusters. You start on the Holy Mountain (Svatá Hora) to enjoy the spiritual atmosphere and the view. Then, you'll drive to the second cluster, the Mining Museum and the Březové Hory district, where you'll immerse yourself in the city's industrial past. After lunch, you park in the city center and explore the final cluster on foot: St. James's Church, Ernestinum Castle, and finally, the relaxing Hořejší Obora City Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Uzená krkovice",
+            "tip": "Geräucherter Schweinenacken, oft mit Senf und Brot serviert."
+          },
+          {
+            "name": "Restaurace Na Vršíčku",
+            "tip": "Gute Option in der Nähe von Březové Hory für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Ovocné knedlíky",
+            "tip": "Süße Fruchtknödel, ein beliebter Nachtisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Uzená krkovice",
+            "tip": "Füstölt sertéstarja, gyakran mustárral és kenyérrel tálalva."
+          },
+          {
+            "name": "Restaurace Na Vršíčku",
+            "tip": "Jó választás Březové Hory közelében egy kiadós ebédhez."
+          },
+          {
+            "name": "Ovocné knedlíky",
+            "tip": "Édes gyümölcsgombóc, egy népszerű desszert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Uzená krkovice",
+            "tip": "Ceafă de porc afumată, adesea servită cu muștar și pâine."
+          },
+          {
+            "name": "Restaurace Na Vršíčku",
+            "tip": "O opțiune bună lângă Březové Hory pentru un prânz consistent."
+          },
+          {
+            "name": "Ovocné knedlíky",
+            "tip": "Găluște dulci cu fructe, un desert popular."
+          }
+        ],
+        "en": [
+          {
+            "name": "Uzená krkovice",
+            "tip": "Smoked pork neck, often served with mustard and bread."
+          },
+          {
+            "name": "Restaurace Na Vršíčku",
+            "tip": "Good option near Březové Hory for a hearty lunch."
+          },
+          {
+            "name": "Ovocné knedlíky",
+            "tip": "Sweet fruit dumplings, a popular dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtsplattform Svatá Hora",
+            "tip": "Genießen Sie den Panoramablick über die Region.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Padák-Aussichtsturm",
+            "tip": "Eine kurze Autofahrt entfernt für eine noch bessere Aussicht, wenn Zeit ist.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die stillen Stollen im Bergbaumuseum",
+            "tip": "Die unterirdische Stille ist ein einzigartiges Erlebnis.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svatá Hora kilátóterasz",
+            "tip": "Élvezze a panorámás kilátást a régióra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Padák kilátótorony",
+            "tip": "Rövid autóútra található a még jobb kilátásért, ha van idő.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Bányászati Múzeum csendes tárnái",
+            "tip": "A földalatti csend egyedülálló élmény.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platforma de observare Svatá Hora",
+            "tip": "Bucurați-vă de vederea panoramică asupra regiunii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Turnul de observație Padák",
+            "tip": "La o scurtă călătorie cu mașina pentru o priveliște și mai bună, dacă timpul permite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Galeriile tăcute din Muzeul Mineritului",
+            "tip": "Liniștea subterană este o experiență unică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Svatá Hora Observation Deck",
+            "tip": "Enjoy the panoramic view over the region.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Padák Lookout Tower",
+            "tip": "A short drive away for an even better view, if time allows.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The silent adits in the Mining Museum",
+            "tip": "The underground silence is a unique experience.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bergbau-Artefakte",
+            "tip": "Einige Antiquitätenläden verkaufen alte Grubenlampen oder Werkzeuge."
+          },
+          {
+            "name": "Lokaler Honig und Met",
+            "tip": "Suchen Sie nach Farmständen am Rande der Stadt."
+          },
+          {
+            "name": "Bücher über die lokale Geschichte",
+            "tip": "In Buchhandlungen im Stadtzentrum erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bányászati tárgyak",
+            "tip": "Néhány régiségbolt régi bányászlámpákat vagy szerszámokat árul."
+          },
+          {
+            "name": "Helyi méz és mézbor",
+            "tip": "Keressen termelői standokat a város szélén."
+          },
+          {
+            "name": "Helytörténeti könyvek",
+            "tip": "A városközpont könyvesboltjaiban kaphatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artefacte miniere",
+            "tip": "Unele magazine de antichități vând lămpi sau unelte vechi de minerit."
+          },
+          {
+            "name": "Miere și mied local",
+            "tip": "Căutați standuri de fermă la marginea orașului."
+          },
+          {
+            "name": "Cărți despre istoria locală",
+            "tip": "Disponibile în librăriile din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mining Artifacts",
+            "tip": "Some antique shops sell old mining lamps or tools."
+          },
+          {
+            "name": "Local Honey and Mead",
+            "tip": "Look for farm stands on the outskirts of the city."
+          },
+          {
+            "name": "Books on local history",
+            "tip": "Available in bookstores in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum kostenpflichtig sein; halten Sie Münzen oder eine Park-App bereit.",
+          "Planen Sie die Route zwischen den Clustern im Voraus, um Zeit zu sparen.",
+          "Das Auto gibt Ihnen die Flexibilität, auch nahegelegene Sehenswürdigkeiten außerhalb der Stadt zu besuchen.",
+          "Achten Sie auf Parkbeschränkungen und -zeiten, um Strafzettel zu vermeiden."
+        ],
+        "hu": [
+          "A parkolás a központban fizetős lehet; készítsen elő aprópénzt vagy parkolóalkalmazást.",
+          "Tervezze meg előre az útvonalat a klaszterek között, hogy időt takarítson meg.",
+          "Az autó rugalmasságot biztosít a városon kívüli közeli látnivalók meglátogatásához is.",
+          "Ügyeljen a parkolási korlátozásokra és időpontokra a bírságok elkerülése érdekében."
+        ],
+        "ro": [
+          "Parcarea poate fi cu plată în centrul orașului; pregătiți monede sau o aplicație de parcare.",
+          "Planificați traseul între grupurile de obiective în avans pentru a economisi timp.",
+          "Mașina vă oferă flexibilitatea de a vizita și atracțiile din apropiere, în afara orașului.",
+          "Fiți atenți la restricțiile și orele de parcare pentru a evita amenzile."
+        ],
+        "en": [
+          "Parking can be paid in the city center; have coins or a parking app ready.",
+          "Plan the route between clusters in advance to save time.",
+          "The car gives you the flexibility to also visit nearby sights outside the city.",
+          "Pay attention to parking restrictions and times to avoid fines."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft im Stadtzentrum (Haltestelle Jiráskovy sady)",
+            "hu": "Érkezés a központba (Jiráskovy sady megálló)",
+            "ro": "Sosire în centrul orașului (stația Jiráskovy sady)",
+            "en": "Arrival in the City Center (Jiráskovy sady stop)"
+          },
+          "coords": [
+            14.0102,
+            49.6901
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Dies ist ein guter Ausgangspunkt, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Ez egy jó kiindulópont az első látnivaló-csoport gyalogos felfedezéséhez.",
+            "ro": "Acesta este un bun punct de plecare pentru a explora pe jos primul grup de obiective.",
+            "en": "This is a good starting point to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Jakobs-Kirche & Ernestinum",
+            "hu": "Szent Jakab-templom & Ernestinum",
+            "ro": "Biserica Sfântul Iacob & Ernestinum",
+            "en": "St. James's Church & Ernestinum"
+          },
+          "coords": [
+            14.0118,
+            49.6878
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie das Herz der Altstadt, bevor Sie den Bus nehmen.",
+            "hu": "Fedezze fel az óváros szívét, mielőtt buszra szállna.",
+            "ro": "Descoperiți inima orașului vechi înainte de a lua autobuzul.",
+            "en": "Discover the heart of the old town before taking the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Bergbaumuseum",
+            "hu": "Buszozás a Bányászati Múzeumhoz",
+            "ro": "Călătorie cu autobuzul la Muzeul Mineritului",
+            "en": "Bus ride to the Mining Museum"
+          },
+          "coords": [
+            13.9995,
+            49.6848
+          ],
+          "category": "transport",
+          "arrive_at": "11:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie eine der lokalen Linien in Richtung Březové Hory.",
+            "hu": "Válasszon egyet a Březové Hory felé tartó helyi járatok közül.",
+            "ro": "Luați una dintre liniile locale spre Březové Hory.",
+            "en": "Take one of the local lines towards Březové Hory."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum & Mittagessen",
+            "hu": "Bányászati Múzeum & Ebéd",
+            "ro": "Muzeul Mineritului & Prânz",
+            "en": "Mining Museum & Lunch"
+          },
+          "coords": [
+            13.9989,
+            49.6845
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie hier eine lange Zeit und essen Sie in einem Restaurant in der Nähe zu Mittag.",
+            "hu": "Töltsön itt sok időt, és ebédeljen egy közeli étteremben.",
+            "ro": "Petreceți o perioadă lungă aici și luați prânzul la un restaurant din apropiere.",
+            "en": "Spend a long time here and have lunch at a nearby restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt nach Svatá Hora",
+            "hu": "Buszozás a Svatá Hora-hoz",
+            "ro": "Călătorie cu autobuzul la Svatá Hora",
+            "en": "Bus ride to Svatá Hora"
+          },
+          "coords": [
+            14.0225,
+            49.6841
+          ],
+          "category": "transport",
+          "arrive_at": "14:50",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Buslinie zum Heiligen Berg erspart Ihnen einen steilen Aufstieg.",
+            "hu": "A Szent Hegyre tartó buszjárat megkíméli Önt a meredek emelkedőtől.",
+            "ro": "Linia de autobuz spre Muntele Sfânt vă scutește de o urcare abruptă.",
+            "en": "The bus line to the Holy Mountain saves you a steep climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Svatá Hora (Heiliger Berg)",
+            "hu": "Svatá Hora (Szent Hegy)",
+            "ro": "Svatá Hora (Muntele Sfânt)",
+            "en": "Svatá Hora (Holy Mountain)"
+          },
+          "coords": [
+            14.0225,
+            49.6841
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 185,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den letzten und längsten Aufenthalt des Tages an diesem spirituellen Ort.",
+            "hu": "Élvezze a nap utolsó és leghosszabb megállóját ezen a spirituális helyen.",
+            "ro": "Bucurați-vă de ultima și cea mai lungă oprire a zilei în acest loc spiritual.",
+            "en": "Enjoy the last and longest stop of the day at this spiritual place."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erleben Sie Příbram effizient. Sie starten im Zentrum und erkunden die Altstadt zu Fuß. Ein lokaler Bus bringt Sie bequem zum Bergbaumuseum, wo Sie tief in die Geschichte eintauchen und zu Mittag essen. Am Nachmittag bringt Sie ein weiterer Bus zum Höhepunkt des Tages, dem Wallfahrtsort Svatá Hora. Hier haben Sie ausgiebig Zeit, die Anlage zu erkunden und die Aussicht zu genießen, bevor Sie die Rückreise antreten.",
+        "hu": "Tömegközlekedéssel hatékonyan fedezheti fel Příbramot. A központban kezd, és gyalog fedezi fel az óvárost. Egy helyi busz kényelmesen elviszi a Bányászati Múzeumhoz, ahol elmerülhet a történelemben és megebédelhet. Délután egy másik busz viszi a nap fénypontjához, a Svatá Hora zarándokhelyhez. Itt bőséges ideje lesz felfedezni a komplexumot és élvezni a kilátást, mielőtt visszaindulna.",
+        "ro": "Cu transportul public, veți experimenta Příbram în mod eficient. Începeți în centru și explorați orașul vechi pe jos. Un autobuz local vă duce confortabil la Muzeul Mineritului, unde vă puteți cufunda în istorie și puteți lua prânzul. După-amiaza, un alt autobuz vă duce la punctul culminant al zilei, locul de pelerinaj Svatá Hora. Aici aveți timp suficient pentru a explora complexul și a vă bucura de priveliște înainte de a vă întoarce.",
+        "en": "Using public transport, you'll experience Příbram efficiently. You start in the center and explore the old town on foot. A local bus takes you comfortably to the Mining Museum, where you can delve into history and have lunch. In the afternoon, another bus takes you to the highlight of the day, the pilgrimage site of Svatá Hora. Here you have plenty of time to explore the complex and enjoy the view before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Párek v rohlíku",
+            "tip": "Ein tschechischer Hotdog, perfekt für einen schnellen Snack an einer Bushaltestelle."
+          },
+          {
+            "name": "Restaurace Pivnice",
+            "tip": "Suchen Sie nach einer traditionellen 'Pivnice' (Bierhalle) für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Česnečka",
+            "tip": "Eine starke Knoblauchsuppe, die oft als Katermittel gilt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Párek v rohlíku",
+            "tip": "Cseh hot dog, tökéletes egy gyors harapnivalóhoz a buszmegállóban."
+          },
+          {
+            "name": "Restaurace Pivnice",
+            "tip": "Keressen egy hagyományos 'Pivnice'-t (sörözőt) egy autentikus élményért."
+          },
+          {
+            "name": "Česnečka",
+            "tip": "Erős fokhagymaleves, amelyet gyakran másnaposság elleni gyógyszernek tartanak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Párek v rohlíku",
+            "tip": "Un hot-dog ceh, perfect pentru o gustare rapidă la o stație de autobuz."
+          },
+          {
+            "name": "Restaurace Pivnice",
+            "tip": "Căutați o 'Pivnice' (berărie) tradițională pentru o experiență autentică."
+          },
+          {
+            "name": "Česnečka",
+            "tip": "O supă puternică de usturoi, adesea considerată un remediu pentru mahmureală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Párek v rohlíku",
+            "tip": "A Czech hot dog, perfect for a quick snack at a bus stop."
+          },
+          {
+            "name": "Restaurace Pivnice",
+            "tip": "Look for a traditional 'Pivnice' (beer hall) for an authentic experience."
+          },
+          {
+            "name": "Česnečka",
+            "tip": "A strong garlic soup, often considered a hangover cure."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Ecke im Kloster Svatá Hora",
+            "tip": "Finden Sie einen Ort abseits der Hauptwege zum Meditieren.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Beobachten Sie das städtische Leben, während Sie zwischen den Sehenswürdigkeiten fahren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die oberen Galerien der St.-Jakobs-Kirche",
+            "tip": "Weniger besucht und bieten eine andere Perspektive.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes sarok a Svatá Hora kolostorban",
+            "tip": "Keressen egy helyet a fő útvonalaktól távol a meditációhoz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Figyelje a városi életet, miközben a látnivalók között utazik.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Szent Jakab-templom felső karzatai",
+            "tip": "Kevésbé látogatottak és más perspektívát kínálnak.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un colț liniștit în mănăstirea Svatá Hora",
+            "tip": "Găsiți un loc departe de căile principale pentru a medita.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Priveliștea de pe geamul autobuzului",
+            "tip": "Observați viața urbană în timp ce călătoriți între obiective.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Galeriile superioare ale Bisericii Sf. Iacob",
+            "tip": "Mai puțin vizitate și oferă o perspectivă diferită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet corner in the Svatá Hora monastery",
+            "tip": "Find a spot away from the main paths to meditate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "Watch the urban life as you travel between sights.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The upper galleries of St. James's Church",
+            "tip": "Less crowded and offer a different perspective.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie eine Zeitung oder ein Magazin für die Fahrt."
+          },
+          {
+            "name": "Andenken an Svatá Hora",
+            "tip": "Kleine Medaillons oder Rosenkränze sind beliebte Mitbringsel."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich ein frisches 'Koláč' (süßes Gebäck) für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon újságot vagy magazint az útra."
+          },
+          {
+            "name": "Emléktárgyak a Svatá Hora-ról",
+            "tip": "A kis medálok vagy rózsafüzérek népszerű ajándéktárgyak."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Vegyen egy friss 'Koláč'-ot (édes péksütemény) az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul de la autogară",
+            "tip": "Cumpărați un ziar sau o revistă pentru călătorie."
+          },
+          {
+            "name": "Suveniruri de la Svatá Hora",
+            "tip": "Mici medalioane sau rozarii sunt suveniruri populare."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați un 'Koláč' proaspăt (produs de patiserie dulce) pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy a newspaper or magazine for the ride."
+          },
+          {
+            "name": "Souvenirs from Svatá Hora",
+            "tip": "Small medallions or rosaries are popular keepsakes."
+          },
+          {
+            "name": "Local bakery",
+            "tip": "Get a fresh 'Koláč' (sweet pastry) for the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Laden Sie die Fahrplan-App herunter oder machen Sie einen Screenshot der Abfahrtszeiten.",
+          "Planen Sie etwas Pufferzeit ein, da Busse Verspätung haben können.",
+          "Achten Sie auf die Endhaltestelle Ihrer Linie, um nicht in die falsche Richtung zu fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Töltse le a menetrendi alkalmazást, vagy készítsen képernyőképet az indulási időkről.",
+          "Tervezzen be némi puffert, mivel a buszok késhetnek.",
+          "Figyeljen a járat végállomására, nehogy rossz irányba induljon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați aplicația cu orare sau faceți o captură de ecran a orelor de plecare.",
+          "Lăsați o marjă de timp, deoarece autobuzele pot avea întârzieri.",
+          "Fiți atenți la stația terminus a liniei pentru a nu merge în direcția greșită."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Download the timetable app or take a screenshot of the departure times.",
+          "Allow for some buffer time as buses can be delayed.",
+          "Pay attention to the final destination of your line to avoid going in the wrong direction."
+        ]
+      }
+    }
+  }
+}

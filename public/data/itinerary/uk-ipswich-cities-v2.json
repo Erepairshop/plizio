@@ -1,0 +1,1437 @@
+{
+  "city_id": "uk-ipswich-cities-v2",
+  "anchor": {
+    "name": "Ipswich Town Centre",
+    "coords": [
+      1.1482,
+      52.0567
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St Mary-le-Tower Kirche",
+            "hu": "St Mary-le-Tower templom",
+            "ro": "Biserica St Mary-le-Tower",
+            "en": "St Mary-le-Tower Church"
+          },
+          "coords": [
+            1.157,
+            52.058
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Buntglasfenster.",
+            "hu": "Csodálja meg a lenyűgöző ólomüveg ablakokat.",
+            "ro": "Admirați vitraliile impresionante.",
+            "en": "Admire the impressive stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancient House",
+            "hu": "Ancient House (Régi Ház)",
+            "ro": "Ancient House (Casa Antică)",
+            "en": "Ancient House"
+          },
+          "coords": [
+            1.155,
+            52.057
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Achten Sie auf die detaillierten Holzschnitzereien an der Fassade.",
+            "hu": "Figyelje meg a homlokzat részletes fafaragásait.",
+            "ro": "Observați sculpturile detaliate în lemn de pe fațadă.",
+            "en": "Look for the detailed wood carvings on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Willis Building",
+            "hu": "Willis Building",
+            "ro": "Clădirea Willis",
+            "en": "Willis Building"
+          },
+          "coords": [
+            1.152,
+            52.055
+          ],
+          "category": "landmark",
+          "arrive_at": "10:27",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ikonisches Beispiel moderner Architektur von Norman Foster.",
+            "hu": "Norman Foster modern építészetének ikonikus példája.",
+            "ro": "Un exemplu iconic de arhitectură modernă de Norman Foster.",
+            "en": "An iconic example of modern architecture by Norman Foster."
+          }
+        },
+        {
+          "name": {
+            "de": "Ipswich Museum",
+            "hu": "Ipswich Múzeum",
+            "ro": "Muzeul Ipswich",
+            "en": "Ipswich Museum"
+          },
+          "coords": [
+            1.149,
+            52.06
+          ],
+          "category": "museums",
+          "arrive_at": "11:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die angelsächsische Sammlung und das Mammutskelett.",
+            "hu": "Fedezze fel az angolszász gyűjteményt és a mamutcsontvázat.",
+            "ro": "Explorați colecția anglo-saxonă și scheletul de mamut.",
+            "en": "Explore the Anglo-Saxon collection and the mammoth skeleton."
+          }
+        },
+        {
+          "name": {
+            "de": "Christchurch Mansion",
+            "hu": "Christchurch Mansion",
+            "ro": "Conacul Christchurch",
+            "en": "Christchurch Mansion"
+          },
+          "coords": [
+            1.155,
+            52.063
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Herrenhaus beherbergt eine beeindruckende Kunstsammlung.",
+            "hu": "A kastély lenyűgöző művészeti gyűjteménynek ad otthont.",
+            "ro": "Conacul găzduiește o colecție de artă impresionantă.",
+            "en": "The mansion houses an impressive art collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Ipswich Waterfront",
+            "hu": "Ipswich Waterfront (kikötő)",
+            "ro": "Faleza din Ipswich",
+            "en": "Ipswich Waterfront"
+          },
+          "coords": [
+            1.159,
+            52.052
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee in einem der vielen Cafés am Wasser.",
+            "hu": "Igyon egy kávét a sok vízparti kávézó egyikében.",
+            "ro": "Savurați o cafea la una dintre multele cafenele de pe malul apei.",
+            "en": "Enjoy a coffee at one of the many waterside cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Ipswich an der St Mary-le-Tower Kirche. Schlendern Sie durch die alten Straßen und bewundern Sie die einzigartige Fassade des Ancient House und die moderne Architektur des Willis Buildings.\nVerbringen Sie den Mittag damit, in die lokale Geschichte im Ipswich Museum einzutauchen, gefolgt von einem Besuch der Kunstsammlungen im prächtigen Christchurch Mansion, das in einem wunderschönen Park liegt.\nAm Nachmittag geht es hinunter zum lebhaften Ipswich Waterfront. Spüren Sie die maritime Atmosphäre, beobachten Sie die Boote und genießen Sie die lebendige Stimmung entlang des Flusses Orwell.\nBeenden Sie Ihren Tag mit einem entspannten Spaziergang entlang der Promenade bei Sonnenuntergang. Gönnen Sie sich ein Abendessen in einem der stilvollen Restaurants am Wasser und lassen Sie die Eindrücke des Tages Revue passieren.",
+        "hu": "Kezdje a napot Ipswich történelmi szívében, a St Mary-le-Tower templomnál. Sétáljon végig az ősi utcákon, megcsodálva az Ancient House egyedi homlokzatát és a Willis Building modern építészetét.\nTöltse a délt a helyi történelem felfedezésével az Ipswich Múzeumban, majd látogasson el a gyönyörű parkban fekvő, impozáns Christchurch Mansion művészeti gyűjteményébe.\nDélután irány a nyüzsgő Ipswich Waterfront. Érezze a tengeri hangulatot, nézze a hajókat, és élvezze az Orwell folyó menti élénk atmoszférát.\nZárja a napot egy pihentető sétával a naplementében a sétányon. Vacsorázzon az egyik elegáns vízparti étteremben, és idézze fel a nap élményeit.",
+        "ro": "Începeți ziua în inima istorică a Ipswichului, la Biserica St Mary-le-Tower. Plimbați-vă pe străzile vechi, admirând fațada unică a Ancient House și arhitectura modernă a Clădirii Willis.\nPetreceți amiaza cufundându-vă în istoria locală la Muzeul Ipswich, urmată de o vizită la colecțiile de artă de la magnificul Conac Christchurch, situat într-un parc frumos.\nDupă-amiaza, îndreptați-vă spre animata Faleză din Ipswich. Simțiți atmosfera maritimă, priviți bărcile și bucurați-vă de atmosfera vibrantă de-a lungul râului Orwell.\nÎncheiați ziua cu o plimbare relaxantă de-a lungul promenadei la apus. Bucurați-vă de cină la unul dintre restaurantele elegante de pe malul apei, reflectând la experiențele zilei.",
+        "en": "Start your day in the historic heart of Ipswich at St Mary-le-Tower Church. Wander through the ancient streets, admiring the unique facade of the Ancient House and the modern architecture of the Willis Building.\nSpend midday diving into local history at the Ipswich Museum, followed by a visit to the art collections at the magnificent Christchurch Mansion, set within a beautiful park.\nIn the afternoon, head down to the vibrant Ipswich Waterfront. Feel the maritime atmosphere, watch the boats, and enjoy the lively vibe along the River Orwell.\nEnd your day with a relaxing stroll along the promenade at sunset. Treat yourself to dinner at one of the stylish waterside restaurants, reflecting on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Suffolk Hering",
+            "tip": "Probieren Sie geräucherten Hering, eine lokale Delikatesse."
+          },
+          {
+            "name": "Greene King Ale",
+            "tip": "Genießen Sie ein Pint aus der nahegelegenen Brauerei."
+          },
+          {
+            "name": "The Waterfront Bar and Bistro",
+            "tip": "Speisen Sie mit Blick auf den Jachthafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Suffolk-i hering",
+            "tip": "Kóstolja meg a füstölt heringet, egy helyi finomságot."
+          },
+          {
+            "name": "Greene King sör",
+            "tip": "Élvezzen egy korsóval a közeli sörfőzdéből."
+          },
+          {
+            "name": "The Waterfront Bar and Bistro",
+            "tip": "Étkezzen a kikötőre néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hering de Suffolk",
+            "tip": "Încercați heringul afumat, o delicatesă locală."
+          },
+          {
+            "name": "Bere Greene King",
+            "tip": "Bucurați-vă de o halbă de la berăria din apropiere."
+          },
+          {
+            "name": "The Waterfront Bar and Bistro",
+            "tip": "Luați cina cu vedere la portul de agrement."
+          }
+        ],
+        "en": [
+          {
+            "name": "Suffolk Herring",
+            "tip": "Try smoked herring, a local delicacy."
+          },
+          {
+            "name": "Greene King Ale",
+            "tip": "Enjoy a pint from the nearby brewery."
+          },
+          {
+            "name": "The Waterfront Bar and Bistro",
+            "tip": "Dine with a view of the marina."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Christchurch Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Fluss Orwell",
+            "tip": "Ein friedlicher Spaziergang abseits der belebten Hafenfront.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Geheime Gärten der St. Mary-le-Tower",
+            "tip": "Ein kleiner, abgeschiedener Garten hinter der Kirche.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Christchurch Park",
+            "tip": "Keressen egy csendes padot és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta az Orwell folyó mentén",
+            "tip": "Békés séta távol a forgalmas kikötőtől.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A St. Mary-le-Tower titkos kertjei",
+            "tip": "Egy kis, eldugott kert a templom mögött.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Christchurch",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul râului Orwell",
+            "tip": "O plimbare pașnică departe de faleza aglomerată.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile secrete ale St. Mary-le-Tower",
+            "tip": "O grădină mică și retrasă în spatele bisericii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Christchurch Park",
+            "tip": "Find a quiet bench and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "River Orwell Walk",
+            "tip": "A peaceful walk away from the busy waterfront.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St Mary-le-Tower's Secret Gardens",
+            "tip": "A small, secluded garden behind the church.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Saints Street",
+            "tip": "Unabhängige Boutiquen und Kunsthandwerksläden."
+          },
+          {
+            "name": "Ipswich Market",
+            "tip": "Frische lokale Produkte und einzigartige Fundstücke an Markttagen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Saints Street",
+            "tip": "Független butikok és kézműves üzletek."
+          },
+          {
+            "name": "Ipswich-i piac",
+            "tip": "Friss helyi termékek és egyedi leletek a piacnapokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Sfinților (The Saints Street)",
+            "tip": "Boutique-uri independente și magazine de artizanat."
+          },
+          {
+            "name": "Piața Ipswich",
+            "tip": "Produse locale proaspete și descoperiri unice în zilele de piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Saints Street",
+            "tip": "Independent boutiques and artisan shops."
+          },
+          {
+            "name": "Ipswich Market",
+            "tip": "Fresh local produce and unique finds on market days."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und sehr gut zu Fuß zu erkunden ist.",
+          "Viele Museen und Galerien haben freien Eintritt, prüfen Sie jedoch die Öffnungszeiten.",
+          "Achten Sie auf die Gezeiten am Waterfront, da sich die Landschaft dramatisch verändern kann.",
+          "Nutzen Sie die vielen Gassen und Durchgänge für Abkürzungen und um versteckte Juwelen zu entdecken."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a városközpont kompakt és gyalogosan jól bejárható.",
+          "Sok múzeum és galéria ingyenes, de ellenőrizze a nyitvatartási időt.",
+          "Figyelje az árapályt a kikötőnél, mivel drámaian megváltoztathatja a tájat.",
+          "Használja a sok sikátort és átjárót rövidítésként és rejtett kincsek felfedezéséhez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este compact și foarte ușor de explorat pe jos.",
+          "Multe muzee și galerii au intrare liberă, dar verificați orele de deschidere.",
+          "Fiți atenți la maree la faleză, deoarece peisajul se poate schimba dramatic.",
+          "Folosiți numeroasele alei și pasaje pentru scurtături și pentru a descoperi bijuterii ascunse."
+        ],
+        "en": [
+          "Wear comfortable shoes as the town centre is compact and very walkable.",
+          "Many museums and galleries are free to enter, but check for opening times.",
+          "Be aware of the tides at the Waterfront, as the landscape can change dramatically.",
+          "Use the many alleys and passageways for shortcuts and to discover hidden gems."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Holywells Park",
+            "hu": "Holywells Park",
+            "ro": "Parcul Holywells",
+            "en": "Holywells Park"
+          },
+          "coords": [
+            1.171,
+            52.046
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer friedlichen Radtour durch diesen wunderschönen Park.",
+            "hu": "Kezdje a napot egy békés biciklizéssel ebben a gyönyörű parkban.",
+            "ro": "Începeți ziua cu o plimbare liniștită cu bicicleta prin acest parc frumos.",
+            "en": "Start your day with a peaceful cycle through this beautiful park."
+          }
+        },
+        {
+          "name": {
+            "de": "Ipswich Waterfront",
+            "hu": "Ipswich Waterfront (kikötő)",
+            "ro": "Faleza din Ipswich",
+            "en": "Ipswich Waterfront"
+          },
+          "coords": [
+            1.159,
+            52.052
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und spazieren Sie entlang des Jachthafens.",
+            "hu": "Parkolja le a biciklit és sétáljon végig a kikötő mentén.",
+            "ro": "Parcați bicicleta și faceți o plimbare de-a lungul portului de agrement.",
+            "en": "Park your bike and take a stroll along the marina."
+          }
+        },
+        {
+          "name": {
+            "de": "St Mary-le-Tower Kirche",
+            "hu": "St Mary-le-Tower templom",
+            "ro": "Biserica St Mary-le-Tower",
+            "en": "St Mary-le-Tower Church"
+          },
+          "coords": [
+            1.157,
+            52.058
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber steiler Anstieg, der sich für die Aussicht lohnt.",
+            "hu": "Rövid, de meredek emelkedő, ami megéri a kilátásért.",
+            "ro": "O urcare scurtă, dar abruptă, care merită pentru priveliște.",
+            "en": "A short but steep climb that is worth it for the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Ipswich Museum",
+            "hu": "Ipswich Múzeum",
+            "ro": "Muzeul Ipswich",
+            "en": "Ipswich Museum"
+          },
+          "coords": [
+            1.149,
+            52.06
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine Pause vom Radfahren und um etwas Kultur zu tanken.",
+            "hu": "Tökéletes egy kis pihenőre a biciklizésből és egy kis kultúrára.",
+            "ro": "Perfect pentru o pauză de la ciclism și pentru a absorbi puțină cultură.",
+            "en": "Perfect for a break from cycling and to absorb some culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Christchurch Mansion",
+            "hu": "Christchurch Mansion",
+            "ro": "Conacul Christchurch",
+            "en": "Christchurch Mansion"
+          },
+          "coords": [
+            1.155,
+            52.063
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie durch den Christchurch Park, um dieses Juwel zu erreichen.",
+            "hu": "Tekerjen át a Christchurch Parkon, hogy elérje ezt a gyöngyszemet.",
+            "ro": "Pedalați prin Parcul Christchurch pentru a ajunge la această bijuterie.",
+            "en": "Cycle through Christchurch Park to reach this gem."
+          }
+        },
+        {
+          "name": {
+            "de": "New Wolsey Theatre",
+            "hu": "New Wolsey Színház",
+            "ro": "Teatrul New Wolsey",
+            "en": "New Wolsey Theatre"
+          },
+          "coords": [
+            1.143,
+            52.061
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:04",
+          "stay_min": 15,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über das Abendprogramm, falls Sie über Nacht bleiben.",
+            "hu": "Nézze meg az esti programot, ha éjszakára marad.",
+            "ro": "Verificați programul de seară dacă stați peste noapte.",
+            "en": "Check the evening's schedule if you're staying overnight."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag im ruhigen Holywells Park und fahren Sie dann zum geschäftigen Treiben am Ipswich Waterfront. Die Route bietet eine schöne Mischung aus Parklandschaft und städtischem Hafenleben.\nAm Vormittag erklimmen Sie den Hügel zur St Mary-le-Tower Kirche, bevor Sie für eine kulturelle Pause ins Ipswich Museum fahren. Die zentrale Lage macht es einfach, die wichtigsten historischen Stätten mit dem Fahrrad zu verbinden.\nNach dem Mittagessen fahren Sie durch den malerischen Christchurch Park, um das prächtige Christchurch Mansion zu besuchen. Der Park selbst ist ein Vergnügen zum Radfahren. Beenden Sie Ihre Tour am New Wolsey Theatre.\nVerbringen Sie den Rest des Nachmittags damit, die unabhängigen Geschäfte in der Nähe des Theaters zu erkunden oder kehren Sie zum Waterfront zurück, um bei einem Getränk den Sonnenuntergang über dem Jachthafen zu beobachten und die maritime Atmosphäre zu genießen.",
+        "hu": "Kezdje a biciklis napot a békés Holywells Parkban, majd tekerjen az Ipswich Waterfront nyüzsgésébe. Az útvonal a parkos táj és a városi kikötői élet kellemes keverékét kínálja.\nDélután másszon fel a dombra a St Mary-le-Tower templomhoz, mielőtt kulturális szünetet tartana az Ipswich Múzeumban. A központi elhelyezkedésnek köszönhetően a főbb történelmi helyszínek könnyen összeköthetők kerékpárral.\nEbéd után tekerjen át a festői Christchurch Parkon, hogy meglátogassa a csodálatos Christchurch Mansiont. Maga a park is élvezet a kerékpározáshoz. Fejezze be a túrát a New Wolsey Színháznál.\nTöltse a délután hátralévő részét a színház melletti független üzletek felfedezésével, vagy térjen vissza a kikötőbe, hogy egy ital mellett nézze a naplementét a kikötő felett, és élvezze a tengeri hangulatot.",
+        "ro": "Începeți-vă ziua pe bicicletă în liniștitul Parc Holywells, apoi pedalați spre agitația de la Faleza Ipswich. Traseul oferă un amestec plăcut de peisaj de parc și viață portuară urbană.\nLa amiază, urcați dealul până la Biserica St Mary-le-Tower înainte de a vă îndrepta spre Muzeul Ipswich pentru o pauză culturală. Amplasarea centrală face ca siturile istorice cheie să fie ușor de conectat cu bicicleta.\nDupă prânz, pedalați prin pitorescul Parc Christchurch pentru a vizita magnificul Conac Christchurch. Parcul în sine este o încântare pentru ciclism. Încheiați turul la Teatrul New Wolsey.\nPetreceți restul după-amiezii explorând magazinele independente de lângă teatru sau reveniți la Faleză pentru a privi apusul peste portul de agrement cu o băutură, bucurându-vă de atmosfera maritimă.",
+        "en": "Start your cycling day in the tranquil Holywells Park, then pedal towards the bustle of the Ipswich Waterfront. The route offers a nice mix of parkland scenery and urban port life.\nMid-morning, tackle the hill to St Mary-le-Tower Church before coasting to the Ipswich Museum for a cultural break. The central location makes connecting the key historic sites by bike easy.\nAfter lunch, cycle through the scenic Christchurch Park to visit the magnificent Christchurch Mansion. The park itself is a joy to cycle in. Finish your main tour near the New Wolsey Theatre.\nSpend the rest of the afternoon exploring the independent shops near the theatre or cycle back to the Waterfront to watch the sunset over the marina with a drink, soaking in the maritime atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Swan & King's Head",
+            "tip": "Ein fahrradfreundliches Pub mit herzhaften Speisen."
+          },
+          {
+            "name": "Applaud Coffee",
+            "tip": "Ein großartiger Ort für Kaffee und Kuchen in der Nähe des Theaters."
+          },
+          {
+            "name": "The Grazing Sheep",
+            "tip": "Ein beliebtes Café am Waterfront, perfekt für eine Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Swan & King's Head",
+            "tip": "Kerékpárbarát pub kiadós ételekkel."
+          },
+          {
+            "name": "Applaud Coffee",
+            "tip": "Remek hely egy kávéra és süteményre a színház közelében."
+          },
+          {
+            "name": "The Grazing Sheep",
+            "tip": "Népszerű kávézó a kikötőben, tökéletes egy szünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Swan & King's Head",
+            "tip": "Un pub prietenos cu bicicliștii, cu mâncare consistentă."
+          },
+          {
+            "name": "Applaud Coffee",
+            "tip": "Un loc excelent pentru cafea și prăjituri lângă teatru."
+          },
+          {
+            "name": "The Grazing Sheep",
+            "tip": "O cafenea populară pe faleză, perfectă pentru o pauză."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Swan & King's Head",
+            "tip": "A cycle-friendly pub with hearty food."
+          },
+          {
+            "name": "Applaud Coffee",
+            "tip": "A great spot for coffee and cake near the theatre."
+          },
+          {
+            "name": "The Grazing Sheep",
+            "tip": "A popular cafe on the waterfront, perfect for a break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Holywells Park Gärten",
+            "tip": "Finden Sie die ummauerten Gärten für einen Moment der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Christchurch Park Arboretum",
+            "tip": "Bewundern Sie die Sammlung seltener Bäume.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Bishop's Hill",
+            "tip": "Eine weniger bekannte Aussicht zurück auf die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Holywells Park kertjei",
+            "tip": "Keresse meg a fallal körülvett kerteket egy csendes pillanatért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Christchurch Park arborétuma",
+            "tip": "Csodálja meg a ritka fák gyűjteményét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Bishop's Hillről",
+            "tip": "Egy kevésbé ismert kilátás vissza a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Parcului Holywells",
+            "tip": "Găsiți grădinile cu ziduri pentru un moment de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Arboretul din Parcul Christchurch",
+            "tip": "Admirați colecția de copaci rari.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de pe Dealul Bishop's",
+            "tip": "O priveliște mai puțin cunoscută asupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Holywells Park Gardens",
+            "tip": "Find the walled gardens for a moment of peace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Christchurch Park Arboretum",
+            "tip": "Admire the collection of rare trees.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Bishop's Hill",
+            "tip": "A lesser-known viewpoint back towards the town.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dial Lane Books",
+            "tip": "Ein charmanter unabhängiger Buchladen."
+          },
+          {
+            "name": "Maud's Attic",
+            "tip": "Ein Geschäft für Antiquitäten und Sammlerstücke."
+          },
+          {
+            "name": "Loveone",
+            "tip": "Einzigartige Geschenke und Haushaltswaren in den Saints."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dial Lane Books",
+            "tip": "Bájos, független könyvesbolt."
+          },
+          {
+            "name": "Maud's Attic",
+            "tip": "Antikvitások és gyűjtemények boltja."
+          },
+          {
+            "name": "Loveone",
+            "tip": "Egyedi ajándékok és lakberendezési tárgyak a Saints negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dial Lane Books",
+            "tip": "O librărie independentă fermecătoare."
+          },
+          {
+            "name": "Maud's Attic",
+            "tip": "Un magazin de antichități și obiecte de colecție."
+          },
+          {
+            "name": "Loveone",
+            "tip": "Cadouri unice și articole pentru casă în cartierul Saints."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dial Lane Books",
+            "tip": "A charming independent bookstore."
+          },
+          {
+            "name": "Maud's Attic",
+            "tip": "An antiques and collectibles shop."
+          },
+          {
+            "name": "Loveone",
+            "tip": "Unique gifts and homewares in the Saints."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ipswich ist relativ flach, aber einige kurze Anstiege führen zu den wichtigsten Sehenswürdigkeiten.",
+          "Nutzen Sie die ausgewiesenen Radwege, insbesondere entlang des Flusses.",
+          "Schließen Sie Ihr Fahrrad an belebten Orten wie dem Waterfront sicher ab.",
+          "Viele Parks sind fahrradfreundlich, aber achten Sie auf Fußgänger auf den Wegen."
+        ],
+        "hu": [
+          "Ipswich viszonylag sík, de néhány rövid emelkedő vezet a főbb látnivalókhoz.",
+          "Használja a kijelölt kerékpárutakat, különösen a folyó mentén.",
+          "Zárja le biztonságosan a kerékpárt forgalmas helyeken, mint a kikötő.",
+          "Sok park kerékpárbarát, de figyeljen a gyalogosokra az ösvényeken."
+        ],
+        "ro": [
+          "Ipswich este relativ plat, dar există câteva urcări scurte către atracțiile cheie.",
+          "Folosiți pistele de biciclete desemnate, în special de-a lungul râului.",
+          "Asigurați-vă bicicleta în zone aglomerate precum Faleza.",
+          "Multe parcuri sunt prietenoase cu bicicliștii, dar fiți atenți la pietoni pe cărări."
+        ],
+        "en": [
+          "Ipswich is relatively flat, but there are some short climbs to key attractions.",
+          "Make use of the designated cycle paths, especially along the river.",
+          "Lock your bike securely in busy areas like the Waterfront.",
+          "Many parks are cycle-friendly, but be mindful of pedestrians on shared paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Holywells Park",
+            "hu": "Holywells Park",
+            "ro": "Parcul Holywells",
+            "en": "Holywells Park"
+          },
+          "coords": [
+            1.171,
+            52.046
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und genießen Sie einen morgendlichen Spaziergang, bevor die Stadt aufwacht.",
+            "hu": "Parkoljon itt, és élvezze a reggeli sétát, mielőtt a város felébred.",
+            "ro": "Parcați aici și bucurați-vă de o plimbare de dimineață înainte ca orașul să se trezească.",
+            "en": "Park here and enjoy a morning walk before the city wakes up."
+          }
+        },
+        {
+          "name": {
+            "de": "Ipswich Waterfront (Cluster)",
+            "hu": "Ipswich Waterfront (Klaszter)",
+            "ro": "Faleza din Ipswich (Cluster)",
+            "en": "Ipswich Waterfront (Cluster)"
+          },
+          "coords": [
+            1.16,
+            52.051
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Hafen und erkunden Sie den Jachthafen zu Fuß.",
+            "hu": "Parkoljon a kikötőnél, és fedezze fel gyalog a jachtkikötőt.",
+            "ro": "Parcați lângă faleză și explorați portul de agrement pe jos.",
+            "en": "Park at the waterfront and explore the marina area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "St Mary-le-Tower Kirche (Cluster)",
+            "hu": "St Mary-le-Tower templom (Klaszter)",
+            "ro": "Biserica St Mary-le-Tower (Cluster)",
+            "en": "St Mary-le-Tower Church (Cluster)"
+          },
+          "coords": [
+            1.157,
+            52.058
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum und beginnen Sie Ihre Erkundung hier.",
+            "hu": "Parkoljon a városközpontban, és kezdje itt a felfedezést.",
+            "ro": "Parcați în centrul orașului și începeți explorarea de aici.",
+            "en": "Park in the town centre and start your exploration here."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancient House",
+            "hu": "Ancient House (Régi Ház)",
+            "ro": "Ancient House (Casa Antică)",
+            "en": "Ancient House"
+          },
+          "coords": [
+            1.155,
+            52.057
+          ],
+          "category": "landmark",
+          "arrive_at": "12:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Kirche entfernt, ein Muss.",
+            "hu": "Csak egy rövid séta a templomtól, kötelező látnivaló.",
+            "ro": "La o scurtă plimbare de biserică, un punct de atracție obligatoriu.",
+            "en": "Just a short walk from the church, a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Ipswich Museum",
+            "hu": "Ipswich Múzeum",
+            "ro": "Muzeul Ipswich",
+            "en": "Ipswich Museum"
+          },
+          "coords": [
+            1.149,
+            52.06
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Straßen zum Museum.",
+            "hu": "Sétáljon át az utcákon a múzeumhoz.",
+            "ro": "Plimbați-vă pe străzi până la muzeu.",
+            "en": "Stroll through the streets to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Christchurch Mansion (Cluster)",
+            "hu": "Christchurch Mansion (Klaszter)",
+            "ro": "Conacul Christchurch (Cluster)",
+            "en": "Christchurch Mansion (Cluster)"
+          },
+          "coords": [
+            1.155,
+            52.063
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, mit eigenem Parkplatz.",
+            "hu": "A nap utolsó állomása, saját parkolóval.",
+            "ro": "Ultima oprire a zilei, cu parcare dedicată.",
+            "en": "The final stop of the day, with its own dedicated parking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Holywells Park, einem perfekten Ort, um Ihr Auto zu parken und einen ruhigen Morgenspaziergang zu genießen. Fahren Sie dann zur Ipswich Waterfront, parken Sie erneut und erkunden Sie den lebhaften Jachthafen und die umliegenden Cafés zu Fuß.\nAm Mittag fahren Sie ins Stadtzentrum. Parken Sie in einem zentralen Parkhaus und erkunden Sie den historischen Kern zu Fuß. Besuchen Sie die St. Mary-le-Tower Kirche, das nahegelegene Ancient House und schlendern Sie dann zum Ipswich Museum, um in die Geschichte der Region einzutauchen.\nAm Nachmittag fahren Sie zu Ihrem letzten Ziel, dem Christchurch Park. Hier können Sie das prächtige Christchurch Mansion besuchen und die beeindruckende Kunstsammlung bewundern. Der Parkplatz vor Ort macht diesen Besuch sehr bequem.\nBeenden Sie Ihren Tag mit einem entspannten Spaziergang durch den Park, bevor Sie zu Ihrem Auto zurückkehren. Die Cluster-Strategie ermöglicht es Ihnen, das Beste aus Ipswich zu erleben, indem Sie das Fahren minimieren und das Gehen in den interessantesten Gegenden maximieren.",
+        "hu": "Kezdje a napot a Holywells Parkban, tökéletes helyen az autó leparkolásához és egy csendes reggeli sétához. Ezután vezessen az Ipswich Waterfrontra, parkoljon le újra, és fedezze fel gyalog a nyüzsgő jachtkikötőt és a környező kávézókat.\nDélben irány a városközpont. Parkoljon egy központi parkolóházban, és fedezze fel gyalog a történelmi magot. Látogasson el a St. Mary-le-Tower templomhoz, a közeli Ancient House-hoz, majd sétáljon el az Ipswich Múzeumba, hogy elmerüljön a régió történelmében.\nDélután vezessen az utolsó állomáshoz, a Christchurch Parkhoz. Itt meglátogathatja a csodálatos Christchurch Mansiont és megcsodálhatja a lenyűgöző művészeti gyűjteményt. A helyszíni parkoló nagyon kényelmessé teszi ezt a látogatást.\nZárja a napot egy pihentető sétával a parkban, mielőtt visszatérne az autójához. A klaszter-stratégia lehetővé teszi, hogy a lehető legtöbbet hozza ki Ipswichből, minimalizálva a vezetést és maximalizálva a sétát a legérdekesebb területeken.",
+        "ro": "Începeți ziua în Parcul Holywells, un loc perfect pentru a parca mașina și a vă bucura de o plimbare liniștită de dimineață. Apoi, conduceți spre Faleza Ipswich, parcați din nou și explorați pe jos portul de agrement animat și cafenelele din jur.\nLa prânz, conduceți spre centrul orașului. Parcați într-o parcare centrală și explorați nucleul istoric pe jos. Vizitați Biserica St. Mary-le-Tower, Casa Antică din apropiere și apoi plimbați-vă până la Muzeul Ipswich pentru a vă cufunda în istoria regiunii.\nDupă-amiaza, conduceți spre destinația finală, Parcul Christchurch. Aici puteți vizita magnificul Conac Christchurch și puteți admira impresionanta sa colecție de artă. Parcarea la fața locului face această vizită foarte convenabilă.\nÎncheiați ziua cu o plimbare relaxantă prin parc înainte de a vă întoarce la mașină. Strategia pe clustere vă permite să experimentați ce e mai bun din Ipswich, minimizând condusul și maximizând plimbările în cele mai interesante zone.",
+        "en": "Start your day at Holywells Park, a perfect spot to park your car and enjoy a peaceful morning walk. Then, drive to the Ipswich Waterfront, park again, and explore the vibrant marina and surrounding cafes on foot.\nFor midday, drive to the town centre. Park in a central car park and set out to explore the historic core on foot. Visit St Mary-le-Tower Church, the nearby Ancient House, and then stroll to the Ipswich Museum to immerse yourself in the region's history.\nIn the afternoon, make a short drive to your final destination, Christchurch Park. Here, you can visit the magnificent Christchurch Mansion and admire its impressive art collection. The dedicated on-site parking makes this a very convenient visit.\nEnd your day with a relaxing walk through the park before heading back to your car. The cluster approach allows you to experience the best of Ipswich by minimising driving and maximising walking in the most interesting areas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Freston Boot",
+            "tip": "Ein Landpub etwas außerhalb der Stadt, eine kurze Autofahrt wert."
+          },
+          {
+            "name": "Mariners",
+            "tip": "Ein einzigartiges Restaurant auf einem Boot am Waterfront."
+          },
+          {
+            "name": "Arlingtons",
+            "tip": "Ein Café-Restaurant im ehemaligen Museum, in der Nähe des Stadtzentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Freston Boot",
+            "tip": "Vidéki pub a városon kívül, megér egy rövid autóutat."
+          },
+          {
+            "name": "Mariners",
+            "tip": "Egyedülálló étterem egy hajón a kikötőben."
+          },
+          {
+            "name": "Arlingtons",
+            "tip": "Kávézó-étterem a volt múzeumban, a városközpont közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Freston Boot",
+            "tip": "Un pub rural chiar în afara orașului, merită o scurtă călătorie cu mașina."
+          },
+          {
+            "name": "Mariners",
+            "tip": "Un restaurant unic pe o barcă pe faleză."
+          },
+          {
+            "name": "Arlingtons",
+            "tip": "O cafenea-restaurant în fostul muzeu, aproape de centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Freston Boot",
+            "tip": "A country pub just outside of town, worth the short drive."
+          },
+          {
+            "name": "Mariners",
+            "tip": "A unique restaurant on a boat at the Waterfront."
+          },
+          {
+            "name": "Arlingtons",
+            "tip": "A cafe-restaurant in the former museum, near the town centre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Orwell Bridge Viewpoint",
+            "tip": "Fahren Sie zu einem Aussichtspunkt für einen atemberaubenden Blick auf die Brücke.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pin Mill",
+            "tip": "Ein malerisches Dorf am Fluss, eine kurze Autofahrt entfernt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der ummauerte Garten im Holywells Park",
+            "tip": "Ein ruhiger Zufluchtsort zu Beginn oder am Ende des Tages.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orwell híd kilátópont",
+            "tip": "Vezessen el egy kilátóponthoz, ahonnan lenyűgöző a kilátás a hídra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pin Mill",
+            "tip": "Festői falu a folyó mellett, rövid autóútra."
+          },
+          {
+            "name": "A Holywells Park fallal körülvett kertje",
+            "tip": "Békés menedék a nap kezdetén vagy végén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Podul Orwell",
+            "tip": "Conduceți până la un punct de belvedere pentru o priveliște uimitoare a podului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pin Mill",
+            "tip": "Un sat pitoresc pe râu, la o scurtă distanță cu mașina.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina cu ziduri din Parcul Holywells",
+            "tip": "Un refugiu liniștit la începutul sau sfârșitul zilei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Orwell Bridge Viewpoint",
+            "tip": "Drive to a viewpoint for a stunning view of the bridge.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pin Mill",
+            "tip": "A picturesque riverside hamlet a short drive away.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The Walled Garden in Holywells Park",
+            "tip": "A quiet escape at the start or end of your day.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Suffolk Food Hall",
+            "tip": "Ein Paradies für Feinschmecker, nur eine kurze Autofahrt entfernt, mit lokalen Produkten."
+          },
+          {
+            "name": "Jimmy's Farm & Wildlife Park",
+            "tip": "Besuchen Sie den Hofladen für lokale Produkte und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Suffolk Food Hall",
+            "tip": "Gasztronómiai paradicsom, csak egy rövid autóútra, helyi termékekkel."
+          },
+          {
+            "name": "Jimmy's Farm & Wildlife Park",
+            "tip": "Látogasson el a farmboltba helyi termékekért és szuvenírekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suffolk Food Hall",
+            "tip": "Un paradis al gurmanzilor la o scurtă distanță cu mașina, cu produse locale."
+          },
+          {
+            "name": "Jimmy's Farm & Wildlife Park",
+            "tip": "Vizitați magazinul fermei pentru produse locale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Suffolk Food Hall",
+            "tip": "A foodie heaven a short drive away, stocking local produce."
+          },
+          {
+            "name": "Jimmy's Farm & Wildlife Park",
+            "tip": "Visit the farm shop for local produce and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Parkplätze im Voraus, besonders im Stadtzentrum.",
+          "Achten Sie auf Parkbeschränkungen und -gebühren; Tageskarten sind oft günstiger.",
+          "Die Cluster-Strategie funktioniert am besten, wenn Sie bereit sind, zwischen den Sehenswürdigkeiten in jedem Cluster zu Fuß zu gehen.",
+          "Der Verkehr kann zu Stoßzeiten stark sein, planen Sie Ihre Fahrten zwischen den Clustern außerhalb dieser Zeiten."
+        ],
+        "hu": [
+          "Tervezze meg előre a parkolást, különösen a városközpontban.",
+          "Figyeljen a parkolási korlátozásokra és díjakra; a napijegyek gyakran olcsóbbak.",
+          "A klaszter-stratégia akkor működik a legjobban, ha hajlandó sétálni a látnivalók között minden klaszterben.",
+          "A forgalom csúcsidőben erős lehet, tervezze az utazásokat a klaszterek között ezeken az időkön kívül."
+        ],
+        "ro": [
+          "Planificați-vă parcarea în avans, mai ales în centrul orașului.",
+          "Fiți atenți la restricțiile și taxele de parcare; biletele de o zi sunt adesea mai ieftine.",
+          "Strategia pe clustere funcționează cel mai bine dacă sunteți dispuși să mergeți pe jos între atracțiile din fiecare cluster.",
+          "Traficul poate fi aglomerat la orele de vârf, planificați-vă călătoriile între clustere în afara acestor ore."
+        ],
+        "en": [
+          "Plan your parking in advance, especially for the town centre.",
+          "Be aware of parking restrictions and fees; all-day tickets are often better value.",
+          "The cluster approach works best if you're prepared to walk between sights within each cluster.",
+          "Traffic can be heavy during peak hours, so plan your drives between clusters outside of these times."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ipswich Museum (Cluster)",
+            "hu": "Ipswich Múzeum (Klaszter)",
+            "ro": "Muzeul Ipswich (Cluster)",
+            "en": "Ipswich Museum (Cluster)"
+          },
+          "coords": [
+            1.149,
+            52.06
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, in der Nähe einer wichtigen Bushaltestelle.",
+            "hu": "Kezdje itt, egy fő buszmegálló közelében.",
+            "ro": "Începeți aici, lângă o stație de autobuz majoră.",
+            "en": "Start here, near a major bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "New Wolsey Theatre",
+            "hu": "New Wolsey Színház",
+            "ro": "Teatrul New Wolsey",
+            "en": "New Wolsey Theatre"
+          },
+          "coords": [
+            1.143,
+            52.061
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum, um die Gegend zu sehen.",
+            "hu": "Rövid séta a múzeumtól, hogy megnézze a környéket.",
+            "ro": "O scurtă plimbare de la muzeu pentru a vedea zona.",
+            "en": "A short walk from the museum to see the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Christchurch Mansion (Cluster)",
+            "hu": "Christchurch Mansion (Klaszter)",
+            "ro": "Conacul Christchurch (Cluster)",
+            "en": "Christchurch Mansion (Cluster)"
+          },
+          "coords": [
+            1.155,
+            52.063
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Park und genießen Sie die Kunst.",
+            "hu": "Buszozzon el a parkba és élvezze a művészetet.",
+            "ro": "Luați un autobuz spre parc și bucurați-vă de artă.",
+            "en": "Take a bus to the park and enjoy the art."
+          }
+        },
+        {
+          "name": {
+            "de": "St Mary-le-Tower Kirche",
+            "hu": "St Mary-le-Tower templom",
+            "ro": "Biserica St Mary-le-Tower",
+            "en": "St Mary-le-Tower Church"
+          },
+          "coords": [
+            1.157,
+            52.058
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rand des Parks.",
+            "hu": "Rövid séta a park szélétől.",
+            "ro": "O scurtă plimbare de la marginea parcului.",
+            "en": "A short walk from the edge of the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Ipswich Waterfront (Cluster)",
+            "hu": "Ipswich Waterfront (Klaszter)",
+            "ro": "Faleza din Ipswich (Cluster)",
+            "en": "Ipswich Waterfront (Cluster)"
+          },
+          "coords": [
+            1.159,
+            52.052
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die letzte Fahrt des Tages führt Sie zum Wasser.",
+            "hu": "A nap utolsó utazása a vízparthoz vezet.",
+            "ro": "Ultima călătorie a zilei vă duce la malul apei.",
+            "en": "The final transit ride of the day takes you to the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Willis Building",
+            "hu": "Willis Building",
+            "ro": "Clădirea Willis",
+            "en": "Willis Building"
+          },
+          "coords": [
+            1.152,
+            52.055
+          ],
+          "category": "landmark",
+          "arrive_at": "14:46",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auf dem Rückweg ins Zentrum sollten Sie sich dieses moderne Wahrzeichen ansehen.",
+            "hu": "Visszafelé a központba, nézze meg ezt a modern jelképet.",
+            "ro": "În drum spre centru, admirați acest punct de reper modern.",
+            "en": "On your walk back towards the centre, see this modern landmark."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Ipswich Museum, das von den wichtigsten Buslinien leicht zu erreichen ist. Nach der Erkundung der Geschichte machen Sie einen kurzen Spaziergang zum New Wolsey Theatre, um einen Eindruck von der lokalen Kulturszene zu bekommen.\nAm Vormittag nehmen Sie einen Bus zum Christchurch Park. Verbringen Sie Zeit im prächtigen Christchurch Mansion und schlendern Sie dann zur nahegelegenen St. Mary-le-Tower Kirche, dem spirituellen Herzen der Stadt, alles in einem zu Fuß erreichbaren Cluster.\nAm Nachmittag bringt Sie eine letzte Busfahrt zum lebhaften Ipswich Waterfront. Hier können Sie die maritime Atmosphäre aufsaugen, die Boote beobachten und die vielen Cafés und Restaurants genießen.\nBeenden Sie Ihren Tag mit einem Spaziergang vom Waterfront zurück ins Stadtzentrum, vorbei am architektonisch beeindruckenden Willis Building. Diese Route mit öffentlichen Verkehrsmitteln ermöglicht es Ihnen, verschiedene Stadtteile mit minimalem Aufwand zu erleben.",
+        "hu": "Kezdje a napot az Ipswich Múzeumban, amely könnyen megközelíthető a főbb buszjáratokkal. A történelem felfedezése után tegyen egy rövid sétát a New Wolsey Színházhoz, hogy bepillantást nyerjen a helyi kulturális életbe.\nDélelőtt buszozzon el a Christchurch Parkba. Töltsön időt a csodálatos Christchurch Mansionben, majd sétáljon át a közeli St. Mary-le-Tower templomhoz, a város spirituális szívéhez, mindezt egy gyalogosan bejárható klaszterben.\nDélután egy utolsó buszút visz a nyüzsgő Ipswich Waterfrontra. Itt magába szívhatja a tengeri hangulatot, nézheti a hajókat, és élvezheti a számos kávézót és éttermet.\nZárja a napot egy sétával a kikötőtől vissza a városközpontba, elhaladva az építészetileg lenyűgöző Willis Building mellett. Ez a tömegközlekedési útvonal lehetővé teszi, hogy minimális erőfeszítéssel megtapasztalja a város különböző részeit.",
+        "ro": "Începeți ziua la Muzeul Ipswich, ușor accesibil de pe rutele principale de autobuz. După ce explorați istoria, faceți o scurtă plimbare până la Teatrul New Wolsey pentru a simți pulsul scenei culturale locale.\nLa amiază, luați un autobuz spre Parcul Christchurch. Petreceți timp la magnificul Conac Christchurch, apoi plimbați-vă până la Biserica St. Mary-le-Tower din apropiere, inima spirituală a orașului, totul într-un cluster pietonal.\nDupă-amiaza, o ultimă călătorie cu autobuzul vă va duce la animata Faleză din Ipswich. Aici puteți absorbi atmosfera maritimă, privi bărcile și vă puteți bucura de numeroasele cafenele și restaurante.\nÎncheiați ziua cu o plimbare de la Faleză înapoi spre centrul orașului, trecând pe lângă impresionanta clădire Willis. Acest traseu de transport public vă permite să experimentați diferite cartiere ale orașului cu un efort minim.",
+        "en": "Begin your day at Ipswich Museum, easily accessible from major bus routes. After exploring the history, take a short walk to the New Wolsey Theatre to get a feel for the local cultural scene.\nMid-morning, catch a bus to Christchurch Park. Spend time at the magnificent Christchurch Mansion, then wander to the nearby St Mary-le-Tower Church, the spiritual heart of the town, all within one walkable cluster.\nIn the afternoon, a final bus ride will take you to the vibrant Ipswich Waterfront. Here, you can soak up the maritime atmosphere, watch the boats, and enjoy the many cafes and restaurants.\nEnd your day with a walk from the Waterfront back towards the town centre, passing the architecturally stunning Willis Building. This transit-based route allows you to experience different districts of the town with minimal fuss."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Greyhound",
+            "tip": "Ein historisches Pub in der Nähe des Museums, gut für ein Mittagessen."
+          },
+          {
+            "name": "Cult Cafe",
+            "tip": "Ein entspanntes Café am Waterfront, beliebt bei Einheimischen."
+          },
+          {
+            "name": "The Forge Kitchen",
+            "tip": "Ein Restaurant in der Nähe des Hafens, das für seine geräucherten Speisen bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Greyhound",
+            "tip": "Történelmi pub a múzeum közelében, jó ebédre."
+          },
+          {
+            "name": "Cult Cafe",
+            "tip": "Laza kávézó a kikötőben, népszerű a helyiek körében."
+          },
+          {
+            "name": "The Forge Kitchen",
+            "tip": "Étterem a kikötő közelében, füstölt ételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Greyhound",
+            "tip": "Un pub istoric lângă muzeu, bun pentru prânz."
+          },
+          {
+            "name": "Cult Cafe",
+            "tip": "O cafenea relaxată pe faleză, populară printre localnici."
+          },
+          {
+            "name": "The Forge Kitchen",
+            "tip": "Un restaurant lângă port, cunoscut pentru mâncărurile sale afumate."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Greyhound",
+            "tip": "A historic pub near the museum, good for lunch."
+          },
+          {
+            "name": "Cult Cafe",
+            "tip": "A relaxed cafe on the Waterfront, popular with locals."
+          },
+          {
+            "name": "The Forge Kitchen",
+            "tip": "A restaurant near the port known for its smoked food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberste Etage der Zentralbibliothek",
+            "tip": "Ein ruhiger Ort zum Lesen mit Blick über die Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Fluss Gipping",
+            "tip": "Folgen Sie dem Fluss vom Stadtzentrum weg für mehr Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Gärten des Christchurch Mansion",
+            "tip": "Finden Sie einen abgeschiedenen Ort im Park.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Központi Könyvtár legfelső emelete",
+            "tip": "Csendes hely olvasásra, kilátással a városra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Gipping folyó mentén",
+            "tip": "Kövesse a folyót a városközpontból kifelé a nagyobb nyugalomért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Christchurch Mansion kertjei",
+            "tip": "Keressen egy eldugott helyet a parkban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al Bibliotecii Centrale",
+            "tip": "Un loc liniștit pentru a citi, cu vedere la oraș.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului Gipping",
+            "tip": "Urmați râul din centrul orașului pentru mai multă liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Conacului Christchurch",
+            "tip": "Găsiți un loc retras în parc.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top floor of the Central Library",
+            "tip": "A quiet place to read with a view over the town.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "River Gipping Walk",
+            "tip": "Follow the river away from the town centre for more peace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The gardens of Christchurch Mansion",
+            "tip": "Find a secluded spot within the park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tavern Street",
+            "tip": "Die Haupteinkaufsstraße mit bekannten Marken."
+          },
+          {
+            "name": "St Nicholas & St Peter's Street",
+            "tip": "Bekannt als 'The Saints', voller unabhängiger Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavern Street",
+            "tip": "A fő bevásárlóutca ismert márkákkal."
+          },
+          {
+            "name": "St Nicholas & St Peter's utca",
+            "tip": "'The Saints'-ként ismert, tele független üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Tavern",
+            "tip": "Principala stradă comercială cu mărci cunoscute."
+          },
+          {
+            "name": "Strada St Nicholas & St Peter's",
+            "tip": "Cunoscută sub numele de 'The Saints', plină de magazine independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavern Street",
+            "tip": "The main high street with well-known brands."
+          },
+          {
+            "name": "St Nicholas & St Peter's Street",
+            "tip": "Known as 'The Saints', full of independent shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für das beste Preis-Leistungs-Verhältnis.",
+          "Verwenden Sie eine ÖPNV-App, um Buszeiten und -routen in Echtzeit zu verfolgen.",
+          "Die Busse können in den Stoßzeiten voll sein, planen Sie also etwas mehr Zeit ein.",
+          "Achten Sie auf die Haltestellennamen, da einige Sehenswürdigkeiten zwischen zwei Haltestellen liegen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra a legjobb ár-érték arány érdekében.",
+          "Használjon tömegközlekedési alkalmazást a buszmenetrendek és útvonalak valós idejű követéséhez.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, ezért tervezzen egy kis extra időt.",
+          "Figyeljen a megállók neveire, mivel néhány látnivaló két megálló között található."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru cel mai bun raport calitate-preț.",
+          "Utilizați o aplicație de transport public pentru a urmări orele și rutele autobuzelor în timp real.",
+          "Autobuzele pot fi aglomerate la orele de vârf, așa că acordați-vă timp suplimentar.",
+          "Fiți atenți la numele stațiilor, deoarece unele atracții se află între două stații."
+        ],
+        "en": [
+          "Buy a day rider bus ticket for the best value.",
+          "Use a transit app to track bus times and routes in real-time.",
+          "Buses can be crowded during peak school or work hours, so allow extra time.",
+          "Be aware of stop names, as some attractions are located between two stops."
+        ]
+      }
+    }
+  }
+}

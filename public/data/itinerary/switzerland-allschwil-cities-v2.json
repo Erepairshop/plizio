@@ -1,0 +1,1508 @@
+{
+  "city_id": "switzerland-allschwil-cities-v2",
+  "anchor": {
+    "name": "Allschwil",
+    "coords": [
+      7.536,
+      47.551
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorfplatz",
+            "hu": "Fő tér",
+            "ro": "Piața Centrală",
+            "en": "Village Square"
+          },
+          "coords": [
+            7.5365,
+            47.5512
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der lokalen Cafés.",
+            "hu": "Indítsa a napot egy kávéval a helyi kávézók egyikében!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day with a coffee at one of the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Peter und Paul",
+            "hu": "Szent Péter és Pál templom",
+            "ro": "Biserica Sf. Petru și Paul",
+            "en": "St. Peter and Paul Church"
+          },
+          "coords": [
+            7.5372,
+            47.5508
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Glasfenster und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a lenyűgöző ólomüveg ablakokat és a békés légkört.",
+            "ro": "Admirați vitraliile impresionante și atmosfera liniștită.",
+            "en": "Note the impressive stained-glass windows and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Fachwerkhäuser Vogesenstrasse",
+            "hu": "Favázas házak a Vogesenstrasse-n",
+            "ro": "Casele din paiantă de pe Vogesenstrasse",
+            "en": "Half-timbered houses on Vogesenstrasse"
+          },
+          "coords": [
+            7.535,
+            47.5525
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:29",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekter Ort für Fotos, die den historischen Charme der Stadt einfangen.",
+            "hu": "Tökéletes hely a város történelmi báját megörökítő fotókhoz.",
+            "ro": "Locul perfect pentru fotografii care surprind farmecul istoric al orașului.",
+            "en": "A perfect spot for photos capturing the town's historic charm."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Allschwil",
+            "hu": "Allschwilli Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală din Allschwil",
+            "en": "Allschwil Local History Museum"
+          },
+          "coords": [
+            7.538,
+            47.55
+          ],
+          "category": "museums",
+          "arrive_at": "11:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die lokale Geschichte und das ländliche Leben.",
+            "hu": "Tudjon meg többet a helyi történelemről és a vidéki életről.",
+            "ro": "Aflați mai multe despre istoria locală și viața rurală.",
+            "en": "Learn about the local history and rural life."
+          }
+        },
+        {
+          "name": {
+            "de": "Ziegelei-Museum",
+            "hu": "Téglagyári Múzeum",
+            "ro": "Muzeul Cărămizilor",
+            "en": "Brickyard Museum"
+          },
+          "coords": [
+            7.525,
+            47.545
+          ],
+          "category": "museums",
+          "arrive_at": "12:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einzigartiges Museum, das die industrielle Vergangenheit der Region zeigt.",
+            "hu": "Egyedi múzeum, amely a régió ipari múltját mutatja be.",
+            "ro": "Un muzeu unic care prezintă trecutul industrial al regiunii.",
+            "en": "A unique museum showcasing the region's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm Allschwil",
+            "hu": "Allschwilli víztorony",
+            "ro": "Turnul de apă din Allschwil",
+            "en": "Allschwil Water Tower"
+          },
+          "coords": [
+            7.545,
+            47.548
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bietet eine grossartige Aussicht auf Allschwil und die Umgebung.",
+            "hu": "Nagyszerű kilátást nyújt Allschwilre és környékére.",
+            "ro": "Oferă o priveliște minunată asupra Allschwil și a împrejurimilor.",
+            "en": "Offers a great view over Allschwil and the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitpark Bachgraben",
+            "hu": "Bachgraben Szabadidőpark",
+            "ro": "Parcul de Agrement Bachgraben",
+            "en": "Bachgraben Leisure Park"
+          },
+          "coords": [
+            7.55,
+            47.555
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:52",
+          "stay_min": 83,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Grünen oder machen Sie einen Spaziergang entlang der Wege.",
+            "hu": "Pihenjen a zöldben, vagy tegyen egy sétát az ösvényeken.",
+            "ro": "Relaxați-vă în natură sau faceți o plimbare pe alei.",
+            "en": "Relax in the green space or take a stroll along the paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Allschwil beginnt am charmanten Dorfplatz, dem Herzen der Stadt. Von dort aus schlendern Sie durch Gassen mit historischen Fachwerkhäusern zur Kirche St. Peter und Paul. Am Vormittag entdecken Sie im Heimatmuseum die lokale Kultur und Geschichte. Nach dem Mittagessen führt Sie ein längerer Spaziergang zum industriellen Erbe im Ziegelei-Museum. Am Nachmittag erklimmen Sie den Wasserturm für eine Panoramaaussicht, bevor Sie den Tag entspannt im Freizeitpark Bachgraben ausklingen lassen.",
+        "hu": "Allschwilli napja a bájos Dorfplatzon, a város szívében kezdődik. Innen sétáljon végig a történelmi favázas házakkal szegélyezett sikátorokon a Szent Péter és Pál templomig. Délelőtt a helytörténeti múzeumban ismerkedhet meg a helyi kultúrával. Ebéd után egy hosszabb séta vezet a Téglagyári Múzeum ipari örökségéhez. Délután mássza meg a víztornyot a panorámáért, majd a napot a Bachgraben szabadidőparkban zárja.",
+        "ro": "Ziua dumneavoastră în Allschwil începe în fermecătoarea Piață a Satului, inima orașului. De acolo, vă plimbați pe străduțe cu case istorice din paiantă până la Biserica Sf. Petru și Paul. Dimineața, descoperiți cultura și istoria locală la muzeul de istorie. După prânz, o plimbare mai lungă vă duce la patrimoniul industrial de la Muzeul Cărămizilor. După-amiaza, urcați în Turnul de Apă pentru o priveliște panoramică, înainte de a încheia ziua relaxându-vă în Parcul de Agrement Bachgraben.",
+        "en": "Your day in Allschwil begins at the charming Village Square, the heart of the town. From there, stroll through alleys with historic half-timbered houses to St. Peter and Paul Church. In the morning, discover local culture and history at the local museum. After lunch, a longer walk takes you to the industrial heritage at the Brickyard Museum. In the afternoon, climb the Water Tower for a panoramic view before ending the day relaxing in the Bachgraben Leisure Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Basler Läckerli",
+            "tip": "Probieren Sie dieses traditionelle, harte Lebkuchengebäck aus Basel."
+          },
+          {
+            "name": "Käsefondue",
+            "tip": "Ein Muss in der Schweiz, perfekt für ein gemütliches Abendessen."
+          },
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Geschnetzeltes Kalbfleisch in einer cremigen Sauce, oft mit Rösti serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Basler Läckerli",
+            "tip": "Kóstolja meg ezt a hagyományos, kemény bázeli mézeskalácsot."
+          },
+          {
+            "name": "Sajtfondü",
+            "tip": "Kötelező Svájcban, tökéletes egy hangulatos vacsorához."
+          },
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Vékonyra szeletelt borjúhús tejszínes mártásban, gyakran röszti-vel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Basler Läckerli",
+            "tip": "Încercați această turtă dulce tradițională, tare, din Basel."
+          },
+          {
+            "name": "Fondue de brânză",
+            "tip": "O necesitate în Elveția, perfectă pentru o cină confortabilă."
+          },
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Carne de vițel tăiată felii subțiri într-un sos cremos, adesea servită cu rösti."
+          }
+        ],
+        "en": [
+          {
+            "name": "Basler Läckerli",
+            "tip": "Try this traditional hard gingerbread biscuit from Basel."
+          },
+          {
+            "name": "Cheese Fondue",
+            "tip": "A must-try in Switzerland, perfect for a cozy dinner."
+          },
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Sliced veal in a creamy sauce, often served with rösti."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Freizeitpark Bachgraben",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Flusses Birsig",
+            "tip": "Ein Spaziergang entlang des kleinen Flusses, der durch die Gegend fließt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirche St. Peter und Paul",
+            "tip": "Ein Moment der Stille und Besinnung im Inneren der Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bachgraben Szabadidőpark",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Birsig folyó partja",
+            "tip": "Séta a környéken átfolyó kis folyó mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Péter és Pál templom",
+            "tip": "A csend és az elmélkedés pillanata a templom belsejében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de Agrement Bachgraben",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Birsig",
+            "tip": "O plimbare de-a lungul micului râu care traversează zona.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Sf. Petru și Paul",
+            "tip": "Un moment de liniște și reflecție în interiorul bisericii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bachgraben Leisure Park",
+            "tip": "Find a quiet bench and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the River Birsig",
+            "tip": "A walk along the small river that flows through the area.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Peter and Paul Church",
+            "tip": "A moment of silence and reflection inside the church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Suchen Sie nach lokalen Produkten und Spezialitäten auf dem Wochenmarkt am Dorfplatz."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie frisches Brot oder süße Leckereien für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Keressen helyi termékeket és különlegességeket a főtéri heti piacon."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon friss kenyeret vagy édességet egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Căutați produse locale și specialități la piața săptămânală din Piața Centrală."
+          },
+          {
+            "name": "Brutăriile locale",
+            "tip": "Cumpărați pâine proaspătă sau dulciuri pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Look for local produce and specialties at the weekly market on the Village Square."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Buy fresh bread or sweet treats for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag zu Fuß unterwegs sein werden.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, besonders außerhalb der Saison.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt öffentliche Brunnen.",
+          "Allschwil ist sehr sicher, aber achten Sie wie immer auf Ihre Wertsachen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap gyalogolni fog.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, különösen a szezonon kívül.",
+          "Hozzon magával újratölthető vizes palackot; vannak nyilvános kutak.",
+          "Allschwil nagyon biztonságos, de mint mindig, figyeljen az értékeire."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos toată ziua.",
+          "Verificați în avans orele de deschidere ale muzeelor, mai ales în afara sezonului.",
+          "Luați cu dumneavoastră o sticlă de apă reutilizabilă; există fântâni publice.",
+          "Allschwil este foarte sigur, dar, ca întotdeauna, aveți grijă de obiectele de valoare."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking all day.",
+          "Check the opening hours of the museums in advance, especially off-season.",
+          "Bring a reusable water bottle; there are public fountains.",
+          "Allschwil is very safe, but as always, keep an eye on your valuables."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorfplatz",
+            "hu": "Fő tér",
+            "ro": "Piața Centrală",
+            "en": "Village Square"
+          },
+          "coords": [
+            7.5365,
+            47.5512
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schliessen Sie Ihr Fahrrad sicher ab, während Sie den Platz erkunden.",
+            "hu": "Biztonságosan zárja le a kerékpárját, amíg felfedezi a teret.",
+            "ro": "Asigurați-vă bicicleta în timp ce explorați piața.",
+            "en": "Lock your bike securely while you explore the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Peter und Paul",
+            "hu": "Szent Péter és Pál templom",
+            "ro": "Biserica Sf. Petru și Paul",
+            "en": "St. Peter and Paul Church"
+          },
+          "coords": [
+            7.5372,
+            47.5508
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Geniessen Sie die schnelle Fahrt vom Hauptplatz hierher.",
+            "hu": "Élvezze a gyors utat a főtérről ide.",
+            "ro": "Bucurați-vă de scurta plimbare cu bicicleta de la piața principală.",
+            "en": "Enjoy the quick ride from the main square to here."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Allschwil",
+            "hu": "Allschwilli Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală din Allschwil",
+            "en": "Allschwil Local History Museum"
+          },
+          "coords": [
+            7.538,
+            47.55
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Eingangs.",
+            "hu": "A bejárat közelében kerékpártárolók találhatók.",
+            "ro": "Există suporturi pentru biciclete lângă intrare.",
+            "en": "There are bike racks available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Ziegelei-Museum",
+            "hu": "Téglagyári Múzeum",
+            "ro": "Muzeul Cărămizilor",
+            "en": "Brickyard Museum"
+          },
+          "coords": [
+            7.525,
+            47.545
+          ],
+          "category": "museums",
+          "arrive_at": "11:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour hierher führt durch einige interessante Teile der Stadt.",
+            "hu": "Az ide vezető kerékpárút a város néhány érdekes részén halad át.",
+            "ro": "Plimbarea cu bicicleta până aici vă poartă prin câteva părți interesante ale orașului.",
+            "en": "The bike ride here takes you through some interesting parts of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitpark Bachgraben",
+            "hu": "Bachgraben Szabadidőpark",
+            "ro": "Parcul de Agrement Bachgraben",
+            "en": "Bachgraben Leisure Park"
+          },
+          "coords": [
+            7.55,
+            47.555
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Fahren Sie auf den Radwegen im Park.",
+            "hu": "Tökéletes egy ebédszünetre. Kerékpározzon a park kerékpárútjain.",
+            "ro": "Perfect pentru o pauză de prânz. Plimbați-vă pe pistele de biciclete din parc.",
+            "en": "Perfect for a lunch break. Ride your bike on the park's paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm Allschwil",
+            "hu": "Allschwilli víztorony",
+            "ro": "Turnul de apă din Allschwil",
+            "en": "Allschwil Water Tower"
+          },
+          "coords": [
+            7.545,
+            47.548
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Möglicherweise müssen Sie einen Hügel hinauffahren, aber die Aussicht ist es wert.",
+            "hu": "Lehet, hogy fel kell tekerni egy dombra, de a kilátás megéri.",
+            "ro": "S-ar putea să trebuiască să urcați un deal, dar priveliștea merită.",
+            "en": "You might need to cycle up a hill, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühlestall",
+            "hu": "Mühlestall",
+            "ro": "Mühlestall",
+            "en": "Mühlestall"
+          },
+          "coords": [
+            7.537,
+            47.552
+          ],
+          "category": "cultural centres",
+          "arrive_at": "15:16",
+          "stay_min": 59,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob während Ihres Besuchs eine Veranstaltung stattfindet.",
+            "hu": "Nézze meg, hogy van-e valamilyen esemény a látogatása során.",
+            "ro": "Verificați dacă are loc vreun eveniment în timpul vizitei dumneavoastră.",
+            "en": "Check if there's an event happening during your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und beginnen Sie den Tag am Dorfplatz von Allschwil. Eine kurze Fahrt führt Sie zur historischen Kirche, bevor Sie im Heimatmuseum in die Vergangenheit eintauchen. Zur Mittagszeit radeln Sie zum Ziegelei-Museum, einem Zeugnis der industriellen Geschichte. Der Nachmittag steht im Zeichen der Erholung: Zuerst eine Pause im Freizeitpark Bachgraben, dann eine kurze, aber lohnende Fahrt den Hügel hinauf zum Wasserturm für eine fantastische Aussicht. Beenden Sie Ihre Tour im Kulturzentrum Mühlestall.",
+        "hu": "Pattanjon kerékpárra, és kezdje a napot Allschwil főterén. Egy rövid tekerés után a történelmi templomhoz ér, mielőtt a helytörténeti múzeumban elmerülne a múltban. Délben kerekezzen el a Téglagyári Múzeumhoz, az ipari történelem tanújához. A délután a pihenésé: először egy szünet a Bachgraben szabadidőparkban, majd egy rövid, de megérő út a dombra a víztoronyhoz a fantasztikus kilátásért. A túrát a Mühlestall kulturális központban fejezze be.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua în Piața Centrală din Allschwil. O scurtă plimbare vă duce la biserica istorică înainte de a vă cufunda în trecut la muzeul local. La prânz, pedalați spre Muzeul Cărămizilor, o mărturie a istoriei industriale. După-amiaza este dedicată relaxării: mai întâi o pauză în Parcul Bachgraben, apoi o urcare scurtă, dar plină de satisfacții, pe deal până la Turnul de Apă pentru o priveliște fantastică. Încheiați turul la centrul cultural Mühlestall.",
+        "en": "Hop on your bike and start the day at Allschwil's Village Square. A short ride takes you to the historic church before you delve into the past at the local museum. At lunchtime, cycle to the Brickyard Museum, a testament to industrial history. The afternoon is for relaxation: first a break in Bachgraben Leisure Park, then a short but rewarding ride up the hill to the Water Tower for a fantastic view. Finish your tour at the Mühlestall cultural center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rösti",
+            "tip": "Knusprig gebratene Kartoffelpuffer, ein herzhaftes Gericht für Radfahrer."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Ein beliebtes Schweizer Erfrischungsgetränk auf Basis von Milchserum."
+          },
+          {
+            "name": "Restaurant im Park",
+            "tip": "Suchen Sie ein Restaurant in oder in der Nähe des Freizeitparks Bachgraben für eine bequeme Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Röszti",
+            "tip": "Ropogósra sült burgonyalepény, laktató étel kerékpárosoknak."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Népszerű svájci, tejsavó alapú üdítőital."
+          },
+          {
+            "name": "Étterem a parkban",
+            "tip": "Keressen egy éttermet a Bachgraben szabadidőparkban vagy annak közelében egy kényelmes étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rösti",
+            "tip": "Clătite de cartofi prăjite crocant, un fel de mâncare consistent pentru bicicliști."
+          },
+          {
+            "name": "Rivella",
+            "tip": "O băutură răcoritoare elvețiană populară pe bază de zer de lapte."
+          },
+          {
+            "name": "Restaurant în parc",
+            "tip": "Căutați un restaurant în sau lângă Parcul de Agrement Bachgraben pentru o masă convenabilă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rösti",
+            "tip": "Crispy fried potato pancake, a hearty meal for cyclists."
+          },
+          {
+            "name": "Rivella",
+            "tip": "A popular Swiss soft drink based on milk whey."
+          },
+          {
+            "name": "Park Restaurant",
+            "tip": "Look for a restaurant in or near Bachgraben Leisure Park for a convenient meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radwege am Stadtrand",
+            "tip": "Entfliehen Sie dem Zentrum und genießen Sie die ländliche Umgebung.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Wasserturm Allschwil",
+            "tip": "Nach der Anstrengung die ruhige Aussicht genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Freizeitpark Bachgraben",
+            "tip": "Ein perfekter Ort für ein Picknick und eine Pause vom Radfahren.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárutak a város szélén",
+            "tip": "Meneküljön el a központból, és élvezze a vidéki környezetet.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Allschwilli víztorony",
+            "tip": "A megerőltetés után élvezze a csendes kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bachgraben Szabadidőpark",
+            "tip": "Tökéletes hely egy piknikhez és egy kis pihenéshez a biciklizés után.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piste de biciclete la periferie",
+            "tip": "Evadați din centru și bucurați-vă de peisajul rural.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Turnul de apă Allschwil",
+            "tip": "După efort, bucurați-vă de priveliștea liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul de Agrement Bachgraben",
+            "tip": "Un loc perfect pentru un picnic și o pauză de la ciclism.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle paths on the outskirts",
+            "tip": "Escape the center and enjoy the rural surroundings.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Allschwil Water Tower",
+            "tip": "Enjoy the quiet view after the effort of getting there.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bachgraben Leisure Park",
+            "tip": "A perfect spot for a picnic and a break from cycling.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Hofladen",
+            "tip": "Suchen Sie nach Bauernhöfen am Stadtrand, die frische Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Termelői bolt",
+            "tip": "Keressen a város szélén gazdaságokat, amelyek friss termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Magazin de fermă",
+            "tip": "Căutați ferme la periferia orașului care vând produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "For any accessories or quick repairs."
+          },
+          {
+            "name": "Farm Shop",
+            "tip": "Look for farms on the outskirts selling fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist, bevor Sie losfahren.",
+          "Tragen Sie einen Helm und befolgen Sie die Schweizer Verkehrsregeln.",
+          "Viele Wege sind flach, aber seien Sie auf einige Steigungen vorbereitet, besonders zum Wasserturm.",
+          "Nutzen Sie eine Fahrrad-Navigations-App, um die besten Routen zu finden."
+        ],
+        "hu": [
+          "Indulás előtt győződjön meg róla, hogy a kerékpárja jó állapotban van.",
+          "Viseljen sisakot és tartsa be a svájci közlekedési szabályokat.",
+          "Sok út sík, de készüljön fel néhány emelkedőre, különösen a víztorony felé.",
+          "Használjon kerékpáros navigációs alkalmazást a legjobb útvonalak megtalálásához."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este în stare bună înainte de a porni.",
+          "Purtați cască și respectați regulile de circulație elvețiene.",
+          "Multe trasee sunt plate, dar fiți pregătiți pentru câteva urcări, în special spre Turnul de Apă.",
+          "Utilizați o aplicație de navigație pentru biciclete pentru a găsi cele mai bune rute."
+        ],
+        "en": [
+          "Make sure your bike is in good condition before you start.",
+          "Wear a helmet and follow Swiss traffic rules.",
+          "Many paths are flat, but be prepared for some inclines, especially towards the water tower.",
+          "Use a bike navigation app to find the best routes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 8.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Központi Parkoló",
+            "ro": "Parcare Centrală",
+            "en": "Central Car Park"
+          },
+          "coords": [
+            7.535,
+            47.552
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den historischen Kern zu Fuss.",
+            "hu": "Parkoljon le itt, és fedezze fel gyalog a történelmi városmagot.",
+            "ro": "Parcați aici și explorați centrul istoric pe jos.",
+            "en": "Park here and explore the historic core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfplatz & Fachwerkhäuser",
+            "hu": "Fő tér és Favázas házak",
+            "ro": "Piața Centrală și Casele din paiantă",
+            "en": "Village Square & Half-timbered houses"
+          },
+          "coords": [
+            7.5365,
+            47.5512
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:21",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Spaziergang des Tages, um die Atmosphäre aufzusaugen.",
+            "hu": "A nap első sétája, hogy magába szívja a hangulatot.",
+            "ro": "Prima plimbare a zilei pentru a absorbi atmosfera.",
+            "en": "The first walk of the day to soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Peter und Paul",
+            "hu": "Szent Péter és Pál templom",
+            "ro": "Biserica Sf. Petru și Paul",
+            "en": "St. Peter and Paul Church"
+          },
+          "coords": [
+            7.5372,
+            47.5508
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Dorfplatz entfernt.",
+            "hu": "Csak egy rövid séta a főtérről.",
+            "ro": "La doar o scurtă plimbare de piața centrală.",
+            "en": "Just a short walk from the village square."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Allschwil",
+            "hu": "Allschwilli Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală din Allschwil",
+            "en": "Allschwil Local History Museum"
+          },
+          "coords": [
+            7.538,
+            47.55
+          ],
+          "category": "museums",
+          "arrive_at": "10:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt in diesem Cluster, bevor Sie zum Auto zurückkehren.",
+            "hu": "Az utolsó megálló ebben a klaszterben, mielőtt visszatérne az autóhoz.",
+            "ro": "Ultima oprire în acest cluster înainte de a vă întoarce la mașină.",
+            "en": "The last stop in this cluster before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Ziegelei-Museum",
+            "hu": "Téglagyári Múzeum",
+            "ro": "Muzeul Cărămizilor",
+            "en": "Brickyard Museum"
+          },
+          "coords": [
+            7.525,
+            47.545
+          ],
+          "category": "museums",
+          "arrive_at": "12:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Hier gibt es normalerweise genügend Parkplätze.",
+            "hu": "Vezessen a következő klaszterhez. Itt általában van elég parkolóhely.",
+            "ro": "Conduceți spre următorul cluster. De obicei, aici există suficiente locuri de parcare.",
+            "en": "Drive to the next cluster. There's usually ample parking here."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm Allschwil",
+            "hu": "Allschwilli víztorony",
+            "ro": "Turnul de apă din Allschwil",
+            "en": "Allschwil Water Tower"
+          },
+          "coords": [
+            7.545,
+            47.548
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt für die beste Aussicht über die Stadt.",
+            "hu": "Egy rövid autóút a város legjobb kilátásáért.",
+            "ro": "O scurtă călătorie cu mașina pentru cea mai bună priveliște asupra orașului.",
+            "en": "A short drive for the best view over the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitpark Bachgraben",
+            "hu": "Bachgraben Szabadidőpark",
+            "ro": "Parcul de Agrement Bachgraben",
+            "en": "Bachgraben Leisure Park"
+          },
+          "coords": [
+            7.55,
+            47.555
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:38",
+          "stay_min": 147,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beenden Sie den Tag mit einem entspannten Spaziergang.",
+            "hu": "Parkoljon a közelben, és fejezze be a napot egy pihentető sétával.",
+            "ro": "Parcați în apropiere și încheiați ziua cu o plimbare relaxantă.",
+            "en": "Park nearby and end your day with a relaxing walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Zentrum von Allschwil parken. Der Vormittag gehört dem historischen Kern: ein Spaziergang vom Dorfplatz zur Kirche und dann zum Heimatmuseum, alles bequem zu Fuss. Nach dem Museumsbesuch kehren Sie zum Auto zurück und fahren zum Ziegelei-Museum, einem industriellen Juwel. Am Nachmittag bringt Sie eine kurze Fahrt zum Wasserturm, um die Aussicht zu geniessen. Der letzte Halt ist der Freizeitpark Bachgraben, wo Sie das Auto erneut abstellen und den Rest des Tages in der Natur verbringen.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját Allschwil központjában. A délelőtt a történelmi városmagé: séta a főtérről a templomhoz, majd a helytörténeti múzeumhoz, mindez kényelmesen gyalog. A múzeumlátogatás után térjen vissza az autóhoz, és vezessen el a Téglagyári Múzeumhoz, egy ipari gyöngyszemhez. Délután egy rövid autóút visz a víztoronyhoz, hogy élvezze a kilátást. Az utolsó megálló a Bachgraben szabadidőpark, ahol ismét leteszi az autót, és a nap hátralévő részét a természetben tölti.",
+        "ro": "Începeți ziua parcând mașina în centrul orașului Allschwil. Dimineața este dedicată centrului istoric: o plimbare de la Piața Centrală la biserică și apoi la muzeul local, totul confortabil pe jos. După vizita la muzeu, vă întoarceți la mașină și conduceți la Muzeul Cărămizilor, o bijuterie industrială. După-amiaza, o scurtă călătorie cu mașina vă duce la Turnul de Apă pentru a vă bucura de priveliște. Ultima oprire este Parcul de Agrement Bachgraben, unde parcați din nou mașina și petreceți restul zilei în natură.",
+        "en": "Start your day by parking your car in the center of Allschwil. The morning is dedicated to the historic core: a walk from the village square to the church and then to the local museum, all comfortably on foot. After the museum visit, you return to your car and drive to the Brickyard Museum, an industrial gem. In the afternoon, a short drive takes you to the Water Tower to enjoy the view. The final stop is the Bachgraben Leisure Park, where you park the car again and spend the rest of the day in nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Landgasthof",
+            "tip": "Suchen Sie einen traditionellen Landgasthof für ein authentisches Schweizer Mittagessen."
+          },
+          {
+            "name": "Basler Mehlsuppe",
+            "tip": "Eine geröstete Mehlsuppe, eine lokale Spezialität, besonders während des Fasnachts."
+          },
+          {
+            "name": "Meringue mit Doppelrahm",
+            "tip": "Ein süsser Genuss aus dem Greyerzerland, aber überall beliebt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki fogadó",
+            "tip": "Keressen egy hagyományos vidéki fogadót egy autentikus svájci ebédhez."
+          },
+          {
+            "name": "Bázeli lisztleves",
+            "tip": "Pirított lisztleves, helyi specialitás, különösen a farsangi időszakban."
+          },
+          {
+            "name": "Habcsók dupla tejszínnel",
+            "tip": "Gruyère-ből származó édes finomság, de mindenhol népszerű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Han la țară",
+            "tip": "Căutați un han tradițional pentru un prânz elvețian autentic."
+          },
+          {
+            "name": "Supa de făină din Basel",
+            "tip": "O supă de făină prăjită, o specialitate locală, mai ales în timpul Carnavalului."
+          },
+          {
+            "name": "Bezea cu smântână dublă",
+            "tip": "Un deliciu dulce din regiunea Gruyère, dar popular peste tot."
+          }
+        ],
+        "en": [
+          {
+            "name": "Country Inn",
+            "tip": "Look for a traditional country inn (Landgasthof) for an authentic Swiss lunch."
+          },
+          {
+            "name": "Basel Flour Soup",
+            "tip": "A toasted flour soup, a local specialty, especially during Carnival."
+          },
+          {
+            "name": "Meringue with double cream",
+            "tip": "A sweet treat from the Gruyère region, but popular everywhere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Allschwiler Wald",
+            "tip": "Machen Sie einen kurzen Abstecher in den nahegelegenen Wald für einen ruhigen Spaziergang.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Aussicht vom Wasserturm",
+            "tip": "Ein ruhiger Ort, um die Landschaft zu überblicken.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein abgelegener Teil des Parks",
+            "tip": "Finden Sie einen weniger besuchten Bereich im Freizeitpark Bachgraben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Allschwilli erdő",
+            "tip": "Tegyen egy rövid kitérőt a közeli erdőbe egy csendes sétáért.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kilátás a víztoronyból",
+            "tip": "Csendes hely a táj megcsodálására.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A park egy eldugott része",
+            "tip": "Keressen egy kevésbé látogatott területet a Bachgraben szabadidőparkban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Allschwil",
+            "tip": "Faceți o scurtă deviere către pădurea din apropiere pentru o plimbare liniștită.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Priveliștea de la Turnul de Apă",
+            "tip": "Un loc liniștit pentru a admira peisajul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O parte retrasă a parcului",
+            "tip": "Găsiți o zonă mai puțin aglomerată în Parcul de Agrement Bachgraben.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Allschwil Forest",
+            "tip": "Take a short detour to the nearby forest for a quiet walk.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "View from the Water Tower",
+            "tip": "A quiet spot to survey the landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A secluded part of the park",
+            "tip": "Find a less crowded area in the Bachgraben Leisure Park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum Paradies",
+            "tip": "Ein Einkaufszentrum für alltägliche Bedürfnisse oder wenn Sie etwas vergessen haben."
+          },
+          {
+            "name": "Lokale Metzgerei",
+            "tip": "Kaufen Sie lokale Wurstwaren als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paradies bevásárlóközpont",
+            "tip": "Bevásárlóközpont a mindennapi szükségletekre, vagy ha valamit elfelejtett."
+          },
+          {
+            "name": "Helyi hentes",
+            "tip": "Vásároljon helyi kolbászárut szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Paradies",
+            "tip": "Un centru comercial pentru nevoile de zi cu zi sau dacă ați uitat ceva."
+          },
+          {
+            "name": "Măcelăria locală",
+            "tip": "Cumpărați mezeluri locale ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paradies Shopping Center",
+            "tip": "A shopping center for everyday needs or if you forgot something."
+          },
+          {
+            "name": "Local Butcher",
+            "tip": "Buy some local cured meats as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkgebühren und -beschränkungen (blaue Zonen).",
+          "Ein GPS ist unerlässlich, um sich zwischen den Clustern zurechtzufinden.",
+          "Die Strassen können eng sein, fahren Sie also vorsichtig im historischen Zentrum.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders während der Stosszeiten."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra és korlátozásokra (kék zónák).",
+          "GPS elengedhetetlen a klaszterek közötti navigáláshoz.",
+          "Az utcák szűkek lehetnek, ezért vezessen óvatosan a történelmi központban.",
+          "Tervezzen plusz időt a forgalomra, különösen csúcsidőben."
+        ],
+        "ro": [
+          "Fiți atenți la taxele și restricțiile de parcare (zone albastre).",
+          "Un GPS este esențial pentru a naviga între clustere.",
+          "Străzile pot fi înguste, așa că conduceți cu prudență în centrul istoric.",
+          "Planificați timp suplimentar pentru trafic, în special în orele de vârf."
+        ],
+        "en": [
+          "Be aware of parking fees and restrictions (blue zones).",
+          "A GPS is essential for navigating between clusters.",
+          "The streets can be narrow, so drive carefully in the historic center.",
+          "Plan for extra time for traffic, especially during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 6.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Allschwil, Dorf (Tram-Haltestelle)",
+            "hu": "Allschwil, Dorf (villamosmegálló)",
+            "ro": "Allschwil, Dorf (stație de tramvai)",
+            "en": "Allschwil, Dorf (Tram Stop)"
+          },
+          "coords": [
+            7.536,
+            47.5515
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Allschwil, leicht erreichbar mit dem Tram.",
+            "hu": "Kezdje a napot Allschwil szívében, amely villamossal könnyen megközelíthető.",
+            "ro": "Începeți ziua în inima orașului Allschwil, ușor accesibil cu tramvaiul.",
+            "en": "Start your day in the heart of Allschwil, easily accessible by tram."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfplatz & Kirche St. Peter und Paul",
+            "hu": "Fő tér és Szent Péter és Pál templom",
+            "ro": "Piața Centrală și Biserica Sf. Petru și Paul",
+            "en": "Village Square & St. Peter and Paul Church"
+          },
+          "coords": [
+            7.537,
+            47.551
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den zentralen Platz und die angrenzende Kirche zu Fuss.",
+            "hu": "Fedezze fel gyalog a központi teret és a szomszédos templomot.",
+            "ro": "Explorați piața centrală și biserica adiacentă pe jos.",
+            "en": "Explore the central square and the adjacent church on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Allschwil",
+            "hu": "Allschwilli Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală din Allschwil",
+            "en": "Allschwil Local History Museum"
+          },
+          "coords": [
+            7.538,
+            47.55
+          ],
+          "category": "museums",
+          "arrive_at": "10:16",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom ersten Cluster zu diesem kulturellen Highlight.",
+            "hu": "Egy rövid séta az első klasztertől ehhez a kulturális látványossághoz.",
+            "ro": "O scurtă plimbare de la primul cluster la acest punct culminant cultural.",
+            "en": "A short walk from the first cluster to this cultural highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Ziegelei-Museum",
+            "hu": "Téglagyári Múzeum",
+            "ro": "Muzeul Cărămizilor",
+            "en": "Brickyard Museum"
+          },
+          "coords": [
+            7.525,
+            47.545
+          ],
+          "category": "museums",
+          "arrive_at": "12:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, um zu diesem einzigartigen Industriemuseum zu gelangen.",
+            "hu": "Buszozzon el ehhez az egyedülálló ipari múzeumhoz.",
+            "ro": "Luați un autobuz pentru a ajunge la acest muzeu industrial unic.",
+            "en": "Take a bus to get to this unique industrial museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitpark Bachgraben",
+            "hu": "Bachgraben Szabadidőpark",
+            "ro": "Parcul de Agrement Bachgraben",
+            "en": "Bachgraben Leisure Park"
+          },
+          "coords": [
+            7.55,
+            47.555
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:02",
+          "stay_min": 120,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein weiterer Bus oder eine Tram bringt Sie zum Park für einen erholsamen Nachmittag.",
+            "hu": "Egy másik busz vagy villamos visz el a parkba egy pihentető délutánra.",
+            "ro": "Un alt autobuz sau tramvai vă va duce la parc pentru o după-amiază relaxantă.",
+            "en": "Another bus or tram will take you to the park for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm Allschwil",
+            "hu": "Allschwilli víztorony",
+            "ro": "Turnul de apă din Allschwil",
+            "en": "Allschwil Water Tower"
+          },
+          "coords": [
+            7.545,
+            47.548
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:05",
+          "stay_min": 86,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Park aus ist es ein kurzer Spaziergang bergauf zum Turm.",
+            "hu": "A parkból egy rövid séta vezet felfelé a toronyhoz.",
+            "ro": "De la parc este o scurtă plimbare la deal până la turn.",
+            "en": "From the park, it's a short uphill walk to the tower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr autofreier Tag beginnt an der zentralen Tramhaltestelle \"Allschwil, Dorf\". Sie erkunden den historischen Kern mit dem Dorfplatz und der Kirche zu Fuss. Nach dem Besuch des Heimatmuseums bringt Sie ein Bus bequem zum Ziegelei-Museum, wo Sie in die industrielle Vergangenheit eintauchen. Am Nachmittag fahren Sie mit den öffentlichen Verkehrsmitteln zum Freizeitpark Bachgraben. Von dort aus machen Sie einen kurzen Spaziergang zum Wasserturm, um die Aussicht zu geniessen, bevor Sie den Tag beenden.",
+        "hu": "Autómentes napja a központi \"Allschwil, Dorf\" villamosmegállónál kezdődik. Gyalogosan fedezi fel a történelmi városmagot a főtérrel és a templommal. A helytörténeti múzeum meglátogatása után egy busz kényelmesen elviszi a Téglagyári Múzeumhoz, ahol elmerülhet az ipari múltban. Délután tömegközlekedéssel jut el a Bachgraben szabadidőparkba. Onnan egy rövid sétát tesz a víztoronyhoz, hogy megcsodálja a kilátást, mielőtt befejezi a napot.",
+        "ro": "Ziua fără mașină începe la stația centrală de tramvai \"Allschwil, Dorf\". Explorați centrul istoric, cu piața și biserica sa, pe jos. După vizitarea muzeului local, un autobuz vă duce confortabil la Muzeul Cărămizilor, unde vă scufundați în trecutul industrial. După-amiaza, luați transportul public spre Parcul de Agrement Bachgraben. De acolo, faceți o scurtă plimbare până la Turnul de Apă pentru a vă bucura de priveliște înainte de a încheia ziua.",
+        "en": "Your car-free day begins at the central tram stop \"Allschwil, Dorf\". You'll explore the historic core with its village square and church on foot. After visiting the local museum, a bus takes you comfortably to the Brickyard Museum, where you delve into the industrial past. In the afternoon, you take public transport to the Bachgraben Leisure Park. From there, you take a short walk up to the Water Tower to enjoy the view before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei-Café",
+            "tip": "Holen Sie sich ein schnelles Mittagessen oder einen Snack in einer Bäckerei in der Nähe einer Haltestelle."
+          },
+          {
+            "name": "Migros oder Coop Restaurant",
+            "tip": "Günstige und praktische Optionen für eine schnelle Mahlzeit, oft in der Nähe von Verkehrsknotenpunkten."
+          },
+          {
+            "name": "Kirsch",
+            "tip": "Probieren Sie den berühmten Kirschschnaps aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség-kávézó",
+            "tip": "Egyen egy gyors ebédet vagy harapnivalót egy megálló közeli pékségben."
+          },
+          {
+            "name": "Migros vagy Coop étterem",
+            "tip": "Olcsó és praktikus lehetőségek egy gyors étkezéshez, gyakran közlekedési csomópontok közelében."
+          },
+          {
+            "name": "Cseresznyepálinka (Kirsch)",
+            "tip": "Kóstolja meg a régió híres cseresznyepálinkáját."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea-brutărie",
+            "tip": "Luați un prânz rapid sau o gustare la o brutărie de lângă o stație."
+          },
+          {
+            "name": "Restaurant Migros sau Coop",
+            "tip": "Opțiuni ieftine și convenabile pentru o masă rapidă, adesea situate lângă nodurile de transport."
+          },
+          {
+            "name": "Kirsch",
+            "tip": "Încercați faimosul rachiu de cireșe din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery-Café",
+            "tip": "Grab a quick lunch or snack at a bakery near a transit stop."
+          },
+          {
+            "name": "Migros or Coop Restaurant",
+            "tip": "Inexpensive and convenient options for a quick meal, often near transport hubs."
+          },
+          {
+            "name": "Kirsch",
+            "tip": "Try the famous cherry brandy from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt mit dem Tram",
+            "tip": "Beobachten Sie die Stadt aus dem Fenster während einer ruhigen Fahrt.",
+            "emoji": "🚊"
+          },
+          {
+            "name": "Spaziergang vom Park zum Turm",
+            "tip": "Ein ruhiger Abschnitt des Tages, der durch Grünflächen führt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eine Bank an einer ruhigen Haltestelle",
+            "tip": "Machen Sie eine kurze Pause, während Sie auf Ihren nächsten Bus warten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villamosozás",
+            "tip": "Nézze a várost az ablakból egy csendes utazás során.",
+            "emoji": "🚊"
+          },
+          {
+            "name": "Séta a parktól a toronyig",
+            "tip": "A nap egy csendes szakasza, zöld területeken keresztül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy pad egy csendes megállóban",
+            "tip": "Tartson egy rövid szünetet, amíg a következő buszra vár.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu tramvaiul",
+            "tip": "Priviți orașul de la fereastră în timpul unei călătorii liniștite.",
+            "emoji": "🚊"
+          },
+          {
+            "name": "Plimbare de la parc la turn",
+            "tip": "O secțiune liniștită a zilei, trecând prin zone verzi.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O bancă într-o stație liniștită",
+            "tip": "Faceți o scurtă pauză în timp ce așteptați următorul autobuz.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A tram ride",
+            "tip": "Watch the town go by from the window during a quiet ride.",
+            "emoji": "🚊"
+          },
+          {
+            "name": "Walk from the park to the tower",
+            "tip": "A quiet section of the day, passing through green spaces.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A bench at a quiet stop",
+            "tip": "Take a short break while waiting for your next bus.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk an der Haltestelle",
+            "tip": "Kaufen Sie ein Ticket, eine Zeitung oder einen schnellen Snack."
+          },
+          {
+            "name": "Geschäfte in der Nähe des Bahnhofs Basel SBB",
+            "tip": "Wenn Sie über Basel anreisen, nutzen Sie die Einkaufsmöglichkeiten dort."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a megállóban",
+            "tip": "Vegyél jegyet, újságot vagy egy gyors harapnivalót."
+          },
+          {
+            "name": "Üzletek a Basel SBB pályaudvar közelében",
+            "tip": "Ha Bázelen keresztül érkezik, használja ki az ottani vásárlási lehetőségeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la stație",
+            "tip": "Cumpărați un bilet, un ziar sau o gustare rapidă."
+          },
+          {
+            "name": "Magazine lângă gara Basel SBB",
+            "tip": "Dacă sosiți prin Basel, profitați de opțiunile de cumpărături de acolo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the stop",
+            "tip": "Buy a ticket, a newspaper, or a quick snack."
+          },
+          {
+            "name": "Shops near Basel SBB station",
+            "tip": "If arriving via Basel, take advantage of the shopping options there."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Laden Sie die offizielle App des Verkehrsverbunds herunter, um Fahrpläne und Verbindungen in Echtzeit zu sehen.",
+          "Achten Sie auf die letzte Abfahrt am Abend, um nicht stecken zu bleiben.",
+          "Die meisten Busse und Trams sind barrierefrei zugänglich."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Töltse le a közlekedési vállalat hivatalos alkalmazását a valós idejű menetrendekért és csatlakozásokért.",
+          "Figyeljen az esti utolsó járatra, nehogy ott ragadjon.",
+          "A legtöbb busz és villamos akadálymentesített."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați aplicația oficială a companiei de transport pentru orare și conexiuni în timp real.",
+          "Fiți atenți la ultima plecare seara pentru a nu rămâne blocat.",
+          "Majoritatea autobuzelor și tramvaielor sunt accesibile pentru scaune cu rotile."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Download the official transit authority app for real-time schedules and connections.",
+          "Be mindful of the last departure in the evening so you don't get stranded.",
+          "Most buses and trams are wheelchair accessible."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1460 @@
+{
+  "city_id": "netherlands-zutphen-cities-v2",
+  "anchor": {
+    "name": "Zutphen",
+    "coords": [
+      52.14,
+      6.19
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wijnhuistoren",
+            "hu": "Wijnhuistoren (Borkereskedőház tornya)",
+            "ro": "Turnul Vinului (Wijnhuistoren)",
+            "en": "Wine House Tower (Wijnhuistoren)"
+          },
+          "coords": [
+            6.1945,
+            52.1408
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine großartige Aussicht auf die Stadt.",
+            "hu": "Mássz fel a toronyba a városra nyíló nagyszerű kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște superbă asupra orașului.",
+            "en": "Climb the tower for a great view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stedelijk Museum & Museum Henriette Polak",
+            "hu": "Stedelijk Múzeum és Henriette Polak Múzeum",
+            "ro": "Muzeul Municipal și Muzeul Henriette Polak",
+            "en": "Stedelijk Museum & Museum Henriette Polak"
+          },
+          "coords": [
+            6.196,
+            52.1415
+          ],
+          "category": "museums",
+          "arrive_at": "09:38",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese beiden Museen befinden sich im selben Gebäude. Perfekt für einen Kulturnachmittag.",
+            "hu": "Ez a két múzeum egy épületben található. Tökéletes egy kulturális délutánhoz.",
+            "ro": "Aceste două muzee sunt în aceeași clădire. Perfect pentru o după-amiază culturală.",
+            "en": "These two museums are in the same building. Perfect for a cultural afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Walburgiskerk & De Librije",
+            "hu": "Walburgis-templom és a De Librije",
+            "ro": "Biserica Walburgis și De Librije",
+            "en": "Walburgis Church & De Librije"
+          },
+          "coords": [
+            6.198,
+            52.14
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kettenbibliothek De Librije, eine der ältesten in Europa.",
+            "hu": "Látogass el a De Librije láncos könyvtárba, amely Európa egyik legrégebbi könyvtára.",
+            "ro": "Vizitați biblioteca cu lanțuri De Librije, una dintre cele mai vechi din Europa.",
+            "en": "Visit the chained library, De Librije, one of the oldest in Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Broederenkerk",
+            "hu": "Broederenkerk (Testvérek temploma)",
+            "ro": "Biserica Broederenkerk",
+            "en": "Broederenkerk (Brothers' Church)"
+          },
+          "coords": [
+            6.1925,
+            52.1425
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:13",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Heute eine öffentliche Bibliothek, bewundern Sie die Mischung aus Alt und Neu.",
+            "hu": "Ma nyilvános könyvtár, csodáld meg a régi és az új keverékét.",
+            "ro": "Astăzi este o bibliotecă publică, admirați amestecul de vechi și nou.",
+            "en": "Now a public library, admire the blend of old and new."
+          }
+        },
+        {
+          "name": {
+            "de": "Drogenapstoren",
+            "hu": "Drogenapstoren",
+            "ro": "Turnul Drogenapstoren",
+            "en": "Drogenapstoren Tower"
+          },
+          "coords": [
+            6.201,
+            52.1405
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:11",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein malerischer Wasserturm, der Teil der alten Stadtmauern war.",
+            "hu": "Festői víztorony, amely a régi városfal része volt.",
+            "ro": "Un turn de apă pitoresc care făcea parte din vechile ziduri ale orașului.",
+            "en": "A picturesque water tower that was part of the old city walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Berkelpoort",
+            "hu": "Berkelpoort (Berkel-kapu)",
+            "ro": "Poarta Berkel (Berkelpoort)",
+            "en": "Berkel Gate (Berkelpoort)"
+          },
+          "coords": [
+            6.202,
+            52.138
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:52",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine Bootsfahrt auf der Berkel, die unter diesem Tor hindurchführt.",
+            "hu": "Tegyen egy csónakkirándulást a Berkel folyón, amely áthalad a kapu alatt.",
+            "ro": "Faceți o plimbare cu barca pe râul Berkel, care trece pe sub această poartă.",
+            "en": "Take a boat trip on the river Berkel that passes under this gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt und Abendessen",
+            "hu": "Piac és vacsora",
+            "ro": "Piață și cină",
+            "en": "Market Square & Dinner"
+          },
+          "coords": [
+            6.194,
+            52.1405
+          ],
+          "category": "gastro",
+          "arrive_at": "15:42",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag auf dem Hauptplatz mit vielen Restaurants zur Auswahl.",
+            "hu": "Zárja a napot a főtéren, ahol számos étterem közül választhat.",
+            "ro": "Încheiați ziua în piața principală, cu multe restaurante din care puteți alege.",
+            "en": "End your day in the main square, with many restaurants to choose from."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Zutphen am Wijnhuistoren. Am Vormittag tauchen Sie in die lokale Kunst und Geschichte in den Zwillingsmuseen ein. Nach dem Mittagessen erkunden Sie die beeindruckenden mittelalterlichen Kirchen und Bibliotheken der Stadt. Schließen Sie den Tag mit einem Spaziergang entlang der alten Stadtbefestigungen ab, bevor Sie sich ein gemütliches Abendessen auf dem Marktplatz gönnen.",
+        "hu": "Kezdje a napját Zutphen szívében, a Wijnhuistorennél. A délelőtt folyamán merüljön el a helyi művészetben és történelemben az ikermúzeumokban. Ebéd után fedezze fel a város lenyűgöző középkori templomait és könyvtárait. A napot a régi városi erődítmények mentén tett sétával zárja, mielőtt egy hangulatos vacsorát fogyasztana a piactéren.",
+        "ro": "Începeți ziua în inima orașului Zutphen, la Wijnhuistoren. Dimineața, cufundați-vă în arta și istoria locală la muzeele gemene. După prânz, explorați impresionantele biserici și biblioteci medievale ale orașului. Încheiați ziua cu o plimbare de-a lungul vechilor fortificații ale orașului înainte de a vă bucura de o cină confortabilă în piața centrală.",
+        "en": "Start your day in the heart of Zutphen at the Wijnhuistoren. In the morning, immerse yourself in local art and history at the twin museums. After lunch, explore the city's impressive medieval churches and libraries. Conclude the day with a walk along the old city fortifications before settling in for a cozy dinner in the market square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Probieren Sie eine frische, warme Stroopwafel von einem Marktstand."
+          },
+          {
+            "name": "Restaurant 't Schulten Hues",
+            "tip": "Für ein exquisites kulinarisches Erlebnis mit einem Michelin-Stern."
+          },
+          {
+            "name": "De Brasserie",
+            "tip": "Ein gemütlicher Ort für traditionelle niederländische Gerichte am Houtmarkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stroopwafels (szirupos ostya)",
+            "tip": "Kóstolj meg egy friss, meleg stroopwafelt egy piaci standnál."
+          },
+          {
+            "name": "'t Schulten Hues étterem",
+            "tip": "Michelin-csillagos, kifinomult gasztronómiai élményért."
+          },
+          {
+            "name": "De Brasserie",
+            "tip": "Hangulatos hely a hagyományos holland ételekért a Houtmarkton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Încercați un stroopwafel proaspăt și cald de la o tarabă din piață."
+          },
+          {
+            "name": "Restaurant 't Schulten Hues",
+            "tip": "Pentru o experiență culinară rafinată, cu o stea Michelin."
+          },
+          {
+            "name": "De Brasserie",
+            "tip": "Un loc confortabil pentru mâncăruri tradiționale olandeze în Houtmarkt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Try a fresh, warm stroopwafel from a market stall."
+          },
+          {
+            "name": "Restaurant 't Schulten Hues",
+            "tip": "For a fine dining experience, holding a Michelin star."
+          },
+          {
+            "name": "De Brasserie",
+            "tip": "A cozy spot for traditional Dutch dishes in the Houtmarkt."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "IJsselkade",
+            "tip": "Ein Spaziergang entlang des Flusses IJssel bietet Ruhe und schöne Ausblicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofjes (Innenhöfe)",
+            "tip": "Entdecken Sie die versteckten und friedlichen Innenhöfe der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Oude Bornhof",
+            "tip": "Einer der ältesten und ruhigsten Innenhöfe, perfekt für eine kurze Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "IJsselkade (IJssel folyó partja)",
+            "tip": "Egy séta az IJssel folyó mentén nyugalmat és gyönyörű kilátást kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofjes (belső udvarok)",
+            "tip": "Fedezze fel a város rejtett és békés belső udvarait.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Oude Bornhof",
+            "tip": "Az egyik legrégebbi és legcsendesebb udvar, tökéletes egy rövid pihenőre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cheiul râului IJssel",
+            "tip": "O plimbare de-a lungul râului IJssel oferă liniște și priveliști frumoase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofjes (curți interioare)",
+            "tip": "Descoperiți curțile interioare ascunse și liniștite ale orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Oude Bornhof",
+            "tip": "Una dintre cele mai vechi și mai liniștite curți, perfectă pentru o scurtă pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "IJsselkade (River IJssel Quay)",
+            "tip": "A walk along the river IJssel offers tranquility and beautiful views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofjes (Courtyards)",
+            "tip": "Discover the hidden and peaceful courtyards of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Oude Bornhof",
+            "tip": "One of the oldest and most tranquil courtyards, perfect for a short break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie den Markt am Samstag für lokale Produkte und Käse."
+          },
+          {
+            "name": "Lange Hofstraat",
+            "tip": "Eine charmante Straße mit einzigartigen Boutiquen und Fachgeschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el a szombati piacra helyi termékekért és sajtokért."
+          },
+          {
+            "name": "Lange Hofstraat",
+            "tip": "Bájos utca egyedi butikokkal és szaküzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați piața de sâmbătă pentru produse locale și brânzeturi."
+          },
+          {
+            "name": "Lange Hofstraat",
+            "tip": "O stradă fermecătoare cu buticuri unice și magazine de specialitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the market on Saturday for local produce and cheese."
+          },
+          {
+            "name": "Lange Hofstraat",
+            "tip": "A charming street with unique boutiques and specialty shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie sich Zeit, um durch die kleinen Gassen und versteckten Innenhöfe zu schlendern.",
+          "Eine geführte Stadtwanderung kann Ihnen tiefere Einblicke in die Geschichte der Stadt geben."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskaköves utcák egyenetlenek lehetnek.",
+          "A legtöbb látnivaló a városközpontban könnyen megközelíthető gyalog.",
+          "Szánjon időt a kis sikátorokban és rejtett udvarokban való bolyongásra.",
+          "Egy vezetett városi séta mélyebb betekintést nyújthat a város történelmébe."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavelele pot fi denivelate.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Acordați-vă timp să vă plimbați pe aleile înguste și prin curțile ascunse.",
+          "Un tur pietonal ghidat vă poate oferi o perspectivă mai profundă asupra istoriei orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestone streets can be uneven.",
+          "Most attractions in the city center are within easy walking distance.",
+          "Take your time to wander through the small alleys and hidden courtyards.",
+          "A guided city walk can give you deeper insights into the city's history."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Wijnhuistoren",
+            "hu": "Kerékpárkölcsönző és Wijnhuistoren",
+            "ro": "Închiriere biciclete & Wijnhuistoren",
+            "en": "Bike Rental & Wijnhuistoren"
+          },
+          "coords": [
+            6.1945,
+            52.1408
+          ],
+          "category": "other",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie am Hauptplatz, holen Sie sich Ihr Fahrrad und bewundern Sie den Turm.",
+            "hu": "Induljon a főtérről, vegye át a kerékpárját, és csodálja meg a tornyot.",
+            "ro": "Începeți din piața principală, luați-vă bicicleta și admirați turnul.",
+            "en": "Start at the main square, get your bike, and admire the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Berkelpoort",
+            "hu": "Berkelpoort",
+            "ro": "Poarta Berkel",
+            "en": "Berkel Gate"
+          },
+          "coords": [
+            6.202,
+            52.138
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem ikonischen Wassertor, einem Symbol der Stadt.",
+            "hu": "Tekerjen el ehhez az ikonikus vízparti kapuhoz, a város egyik jelképéhez.",
+            "ro": "Mergeți cu bicicleta la această poartă de apă emblematică, un simbol al orașului.",
+            "en": "Cycle to this iconic water gate, a symbol of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Drogenapstoren und Stadtmauern",
+            "hu": "Drogenapstoren és városfalak",
+            "ro": "Turnul Drogenapstoren și zidurile orașului",
+            "en": "Drogenapstoren Tower and City Walls"
+          },
+          "coords": [
+            6.201,
+            52.1405
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:16",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Folgen Sie den Überresten der alten Stadtmauer für eine historische Fahrt.",
+            "hu": "Kövesse a régi városfal maradványait egy történelmi tekerés során.",
+            "ro": "Urmați rămășițele vechilor ziduri ale orașului pentru o plimbare istorică.",
+            "en": "Follow the remnants of the old city wall for a historic ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Walburgiskerk & De Librije",
+            "hu": "Walburgis-templom és a De Librije",
+            "ro": "Biserica Walburgis și De Librije",
+            "en": "Walburgis Church & De Librije"
+          },
+          "coords": [
+            6.198,
+            52.14
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:08",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die prächtige Kirche und ihre einzigartige Bibliothek.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel a csodálatos templomot és egyedülálló könyvtárát.",
+            "ro": "Parcați bicicleta și explorați biserica magnifică și biblioteca sa unică.",
+            "en": "Park your bike and explore the magnificent church and its unique library."
+          }
+        },
+        {
+          "name": {
+            "de": "IJsselkade und Mittagessen",
+            "hu": "IJsselkade és ebéd",
+            "ro": "Cheiul IJssel și prânzul",
+            "en": "IJsselkade and Lunch"
+          },
+          "coords": [
+            6.188,
+            52.144
+          ],
+          "category": "gastro",
+          "arrive_at": "12:48",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang des Flusses und finden Sie ein schönes Café für das Mittagessen mit Aussicht.",
+            "hu": "Tekerjen a folyó mentén, és keressen egy kellemes kávézót az ebédhez, kilátással.",
+            "ro": "Pedalați de-a lungul râului și găsiți o cafenea drăguță pentru prânz cu vedere.",
+            "en": "Cycle along the river and find a nice cafe for lunch with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Stedelijk Museum",
+            "hu": "Stedelijk Múzeum",
+            "ro": "Muzeul Stedelijk",
+            "en": "Stedelijk Museum"
+          },
+          "coords": [
+            6.196,
+            52.1415
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem tiefen Einblick in die lokale Geschichte und Kunst.",
+            "hu": "Zárja a túrát a helyi történelem és művészet mélyebb megismerésével.",
+            "ro": "Încheiați turul cu o incursiune profundă în istoria și arta locală.",
+            "en": "End your tour with a deep dive into local history and art."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schnappen Sie sich ein Fahrrad und beginnen Sie Ihre Erkundung im Zentrum von Zutphen. Fahren Sie am Morgen entlang der historischen Befestigungsanlagen der Stadt, von Tor zu Turm. Verbringen Sie den Mittag mit der Erkundung der monumentalen Walburgiskerk, bevor Sie eine entspannte Fahrt entlang des Flusses IJssel zum Mittagessen genießen. Der Nachmittag ist der reichen Kunst und Geschichte gewidmet, die im Stedelijk Museum untergebracht ist.",
+        "hu": "Pattanjon kerékpárra, és kezdje a felfedezést Zutphen központjában. Délelőtt tekerjen végig a város történelmi erődítményei mentén, kaputól toronyig. A déli órákat a monumentális Walburgiskerk felfedezésével töltse, mielőtt egy pihentető tekerést tenne az IJssel folyó mentén ebédidőben. A délután a Stedelijk Múzeumban őrzött gazdag művészetnek és történelemnek van szentelve.",
+        "ro": "Luați o bicicletă și începeți explorarea în centrul orașului Zutphen. Dimineața, pedalați de-a lungul fortificațiilor istorice ale orașului, de la poartă la turn. Petreceți amiaza explorând monumentala biserică Walburgiskerk înainte de a vă bucura de o plimbare relaxantă de-a lungul râului IJssel pentru prânz. După-amiaza este dedicată artei și istoriei bogate găzduite la Muzeul Stedelijk.",
+        "en": "Grab a bike and start your exploration in the center of Zutphen. In the morning, cycle along the city's historic fortifications, from gate to tower. Spend midday exploring the monumental Walburgiskerk before enjoying a relaxing ride along the IJssel river for lunch. The afternoon is dedicated to the rich art and history housed in the Stedelijk Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pannekoeken (Pfannkuchen)",
+            "tip": "Probieren Sie einen herzhaften oder süßen holländischen Pfannkuchen in einem 'Pannenkoekenhuis'."
+          },
+          {
+            "name": "Viskraam (Fischstand)",
+            "tip": "Ein schneller und leckerer Snack wie 'Hering' oder 'Kibbeling' am Markt."
+          },
+          {
+            "name": "Stadsbrouwerij Cambrinus",
+            "tip": "Lokale Brauerei mit einer großen Auswahl an Bieren und deftigen Speisen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pannekoeken (palacsinta)",
+            "tip": "Kóstoljon meg egy sós vagy édes holland palacsintát egy 'Pannenkoekenhuis'-ban."
+          },
+          {
+            "name": "Viskraam (halas bódé)",
+            "tip": "Gyors és finom harapnivaló, például 'hering' vagy 'kibbeling' a piacon."
+          },
+          {
+            "name": "Stadsbrouwerij Cambrinus",
+            "tip": "Helyi sörfőzde, ahol sokféle sör és kiadós ételek kaphatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pannekoeken (clătite)",
+            "tip": "Încercați o clătită olandeză sărată sau dulce la o 'Pannenkoekenhuis'."
+          },
+          {
+            "name": "Viskraam (chioșc de pește)",
+            "tip": "O gustare rapidă și delicioasă precum 'hering' sau 'kibbeling' la piață."
+          },
+          {
+            "name": "Stadsbrouwerij Cambrinus",
+            "tip": "Fabrică de bere locală cu o selecție excelentă de beri și mâncare consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pannekoeken (Pancakes)",
+            "tip": "Try a savory or sweet Dutch pancake at a 'Pannenkoekenhuis'."
+          },
+          {
+            "name": "Viskraam (Fish Stall)",
+            "tip": "A quick and delicious snack like 'herring' or 'kibbeling' at the market."
+          },
+          {
+            "name": "Stadsbrouwerij Cambrinus",
+            "tip": "Local city brewery with a great selection of beers and hearty food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrradweg am Fluss Berkel",
+            "tip": "Ein ruhiger Weg, der Sie aus der Stadt hinaus ins Grüne führt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Prinsenhof",
+            "tip": "Ein versteckter Garten, ideal für eine ruhige Pause vom Radfahren.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick von der Oude IJsselbrug",
+            "tip": "Halten Sie auf der alten Brücke an, um den Sonnenuntergang über dem Fluss zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Berkel folyó mentén",
+            "tip": "Egy csendes ösvény, amely kivisz a városból a zöldbe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Prinsenhof",
+            "tip": "Rejtett kert, ideális egy csendes pihenőre a kerékpározás közben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás az Oude IJsselbrug hídról",
+            "tip": "Álljon meg a régi hídon, és nézze a naplementét a folyó felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Berkel",
+            "tip": "O potecă liniștită care te scoate din oraș în natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Prinsenhof",
+            "tip": "O grădină ascunsă, ideală pentru o pauză liniștită de la pedalat.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de pe podul Oude IJsselbrug",
+            "tip": "Opriți-vă pe podul vechi pentru a privi apusul peste râu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along Berkel river",
+            "tip": "A quiet path that takes you out of the city and into the green.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Prinsenhof",
+            "tip": "A hidden garden, ideal for a quiet break from cycling.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the Oude IJsselbrug",
+            "tip": "Stop on the old bridge to watch the sunset over the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zutphense Fietsen",
+            "tip": "Lokale Fahrradgeschäfte für Zubehör oder Reparaturen."
+          },
+          {
+            "name": "Kaashandel (Käseladen)",
+            "tip": "Kaufen Sie authentischen holländischen Käse als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zutphense Fietsen",
+            "tip": "Helyi kerékpárüzletek kiegészítőkért vagy javításokért."
+          },
+          {
+            "name": "Kaashandel (sajtbolt)",
+            "tip": "Vásároljon eredeti holland sajtot szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zutphense Fietsen",
+            "tip": "Magazine locale de biciclete pentru accesorii sau reparații."
+          },
+          {
+            "name": "Kaashandel (magazin de brânzeturi)",
+            "tip": "Cumpărați brânză olandeză autentică ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zutphense Fietsen",
+            "tip": "Local bike shops for accessories or repairs."
+          },
+          {
+            "name": "Kaashandel (Cheese Shop)",
+            "tip": "Buy some authentic Dutch cheese as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Zutphen ist eine sehr fahrradfreundliche Stadt mit vielen ausgewiesenen Wegen.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, auch für kurze Stopps.",
+          "Achten Sie auf Fußgänger in den engen Gassen des Stadtzentrums.",
+          "Eine Fahrradtour entlang der IJssel ist sehr zu empfehlen."
+        ],
+        "hu": [
+          "Zutphen egy nagyon kerékpárbarát város, sok kijelölt úttal.",
+          "Mindig zárja le a kerékpárját, még rövid megállók esetén is.",
+          "Vigyázzon a gyalogosokra a szűk belvárosi utcákban.",
+          "Nagyon ajánlott egy kerékpártúra az IJssel folyó mentén."
+        ],
+        "ro": [
+          "Zutphen este un oraș foarte prietenos cu bicicletele, cu multe piste desemnate.",
+          "Încuiați-vă întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "Fiți atenți la pietoni pe străzile înguste din centrul orașului.",
+          "Un tur cu bicicleta de-a lungul râului IJssel este foarte recomandat."
+        ],
+        "en": [
+          "Zutphen is a very bike-friendly city with many designated paths.",
+          "Always lock your bike securely, even for short stops.",
+          "Be mindful of pedestrians in the narrow streets of the city center.",
+          "A bike tour along the river IJssel is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Start im Zentrum (Cluster A)",
+            "hu": "Parkolás és indulás a központban (A csoport)",
+            "ro": "Parcare și start în centru (Cluster A)",
+            "en": "Park and Start in Center (Cluster A)"
+          },
+          "coords": [
+            6.191,
+            52.142
+          ],
+          "category": "other",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe des Zentrums, z.B. am Q-Park.",
+            "hu": "Parkolja le autóját a központhoz közel, például a Q-Park parkolóban.",
+            "ro": "Parcați mașina lângă centru, de exemplu la Q-Park.",
+            "en": "Park your car near the center, for example at Q-Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Wijnhuistoren",
+            "hu": "Wijnhuistoren",
+            "ro": "Turnul Vinului",
+            "en": "Wine House Tower"
+          },
+          "coords": [
+            6.1945,
+            52.1408
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum ikonischen Turm der Stadt.",
+            "hu": "Rövid séta a parkolótól a város ikonikus tornyáig.",
+            "ro": "O scurtă plimbare de la parcare la turnul emblematic al orașului.",
+            "en": "A short walk from the parking lot to the city's iconic tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Stedelijk Museum & Henriette Polak",
+            "hu": "Stedelijk Múzeum és Henriette Polak",
+            "ro": "Muzeul Stedelijk & Henriette Polak",
+            "en": "Stedelijk Museum & Henriette Polak"
+          },
+          "coords": [
+            6.196,
+            52.1415
+          ],
+          "category": "museums",
+          "arrive_at": "09:52",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Museen sind nur einen Steinwurf entfernt, ideal für einen Kulturvormittag.",
+            "hu": "A múzeumok csak egy kőhajításnyira vannak, ideális egy kulturális délelőtthöz.",
+            "ro": "Muzeele sunt la o aruncătură de băț, ideale pentru o dimineață culturală.",
+            "en": "The museums are just a stone's throw away, ideal for a cultural morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt und Parken am Fluss (Cluster B)",
+            "hu": "Autózás és parkolás a folyónál (B csoport)",
+            "ro": "Condus și parcare lângă râu (Cluster B)",
+            "en": "Drive and Park by the River (Cluster B)"
+          },
+          "coords": [
+            6.203,
+            52.1385
+          ],
+          "category": "other",
+          "arrive_at": "12:05",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Fahren Sie zu den äußeren Ringen und parken Sie in der Nähe der Berkelpoort.",
+            "hu": "Vezessen a külső körutakra és parkoljon a Berkelpoort közelében.",
+            "ro": "Conduceți spre inelele exterioare și parcați lângă Berkelpoort.",
+            "en": "Drive to the outer rings and park near the Berkelpoort."
+          }
+        },
+        {
+          "name": {
+            "de": "Berkelpoort & Spaziergang am Wasser",
+            "hu": "Berkelpoort és séta a vízparton",
+            "ro": "Poarta Berkel & plimbare pe malul apei",
+            "en": "Berkel Gate & Waterside Walk"
+          },
+          "coords": [
+            6.202,
+            52.138
+          ],
+          "category": "landmark",
+          "arrive_at": "12:12",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht und finden Sie ein schönes Restaurant für das Mittagessen.",
+            "hu": "Élvezze a kilátást és keressen egy kellemes éttermet az ebédhez.",
+            "ro": "Bucurați-vă de priveliște și găsiți un restaurant drăguț pentru prânz.",
+            "en": "Enjoy the view and find a nice restaurant for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Walburgiskerk (Rückkehr zu Cluster A)",
+            "hu": "Walburgis-templom (Visszatérés az A csoporthoz)",
+            "ro": "Biserica Walburgis (Întoarcere la Cluster A)",
+            "en": "Walburgis Church (Return to Cluster A)"
+          },
+          "coords": [
+            6.198,
+            52.14
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:22",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück zum ursprünglichen Parkplatz, um die prächtige Kirche zu besichtigen.",
+            "hu": "Vezessen vissza az eredeti parkolóba, hogy meglátogassa a csodálatos templomot.",
+            "ro": "Conduceți înapoi la parcarea inițială pentru a vizita magnifica biserică.",
+            "en": "Drive back towards the original parking spot to visit the magnificent church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Zentrum von Zutphen parken. Der Vormittag ist dem kulturellen Herzen der Stadt gewidmet, mit einem Spaziergang zum Wijnhuistoren und den nahegelegenen Museen. Am Mittag fahren Sie zu den malerischen Ufern des Flusses Berkel, wo Sie das historische Wassertor erkunden und zu Mittag essen. Beenden Sie den Tag mit einer kurzen Fahrt zurück ins Zentrum, um die beeindruckende Walburgiskerk zu besichtigen.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját Zutphen központjában. A délelőtt a város kulturális szívének van szentelve, sétával a Wijnhuistorenhez és a közeli múzeumokhoz. Délben autózzon el a festői Berkel folyó partjára, ahol felfedezheti a történelmi vízparti kaput és megebédelhet. A napot egy rövid autóúttal zárja vissza a központba, hogy meglátogassa a lenyűgöző Walburgis-templomot.",
+        "ro": "Începeți ziua parcând mașina în centrul orașului Zutphen. Dimineața este dedicată inimii culturale a orașului, cu o plimbare la Wijnhuistoren și muzeele din apropiere. La prânz, conduceți spre malurile pitorești ale râului Berkel pentru a explora poarta istorică de apă și a lua prânzul. Încheiați ziua cu o scurtă călătorie cu mașina înapoi în centru pentru a vizita impresionanta biserică Walburgiskerk.",
+        "en": "Start your day by parking your car in the center of Zutphen. The morning is dedicated to the cultural heart of the city, with a walk to the Wijnhuistoren and the nearby museums. At midday, drive to the scenic banks of the river Berkel to explore the historic water gate and have lunch. End the day with a short drive back to the center to visit the impressive Walburgiskerk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sultans Restaurant & Pizzeria",
+            "tip": "Gut für eine schnelle und herzhafte Mahlzeit in der Nähe des Zentrums."
+          },
+          {
+            "name": "By Kimm",
+            "tip": "Ein modernes Restaurant mit Blick auf den Fluss, ideal für das Mittagessen."
+          },
+          {
+            "name": "Appeltaart (Apfelkuchen)",
+            "tip": "Holländischer Apfelkuchen ist ein Muss in jedem Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sultans Étterem & Pizzéria",
+            "tip": "Jó választás egy gyors és kiadós étkezéshez a központ közelében."
+          },
+          {
+            "name": "By Kimm",
+            "tip": "Modern étterem, kilátással a folyóra, ideális ebédre."
+          },
+          {
+            "name": "Appeltaart (almás pite)",
+            "tip": "A holland almás pite kötelező minden kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sultans Restaurant & Pizzeria",
+            "tip": "Bun pentru o masă rapidă și copioasă lângă centru."
+          },
+          {
+            "name": "By Kimm",
+            "tip": "Un restaurant modern cu vedere la râu, ideal pentru prânz."
+          },
+          {
+            "name": "Appeltaart (plăcintă cu mere)",
+            "tip": "Plăcinta olandeză cu mere este o necesitate în orice cafenea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sultans Restaurant & Pizzeria",
+            "tip": "Good for a quick and hearty meal near the center."
+          },
+          {
+            "name": "By Kimm",
+            "tip": "A modern restaurant with a view of the river, great for lunch."
+          },
+          {
+            "name": "Appeltaart (Apple Pie)",
+            "tip": "Dutch apple pie is a must-try at any cafe."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang der IJssel",
+            "tip": "Eine kurze Autofahrt entlang des Flusses bietet weite Ausblicke und Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parkeerplaats 's-Gravenhof",
+            "tip": "Ein oft ruhigerer Parkplatz direkt neben der Walburgiskerk.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am Fluss",
+            "tip": "Fahren Sie am Abend zum Flussufer für einen friedlichen Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás az IJssel mentén",
+            "tip": "Egy rövid autóút a folyó mentén tágas kilátást és nyugalmat kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parkoló 's-Gravenhof",
+            "tip": "Gyakran csendesebb parkolóhely közvetlenül a Walburgis-templom mellett.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a folyónál",
+            "tip": "Este vezessen le a folyópartra egy békés naplementéért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu mașina de-a lungul râului IJssel",
+            "tip": "O scurtă plimbare cu mașina de-a lungul râului oferă vederi extinse și liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcarea 's-Gravenhof",
+            "tip": "O parcare adesea mai liniștită, chiar lângă Biserica Walburgis.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare la râu",
+            "tip": "Conduceți spre malul râului seara pentru un apus de soare liniștit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive along the IJssel",
+            "tip": "A short drive along the river offers expansive views and quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "'s-Gravenhof Parking",
+            "tip": "An often quieter parking spot right next to the Walburgis Church.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset at the river",
+            "tip": "Drive to the riverbank in the evening for a peaceful sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hof van Zutphen",
+            "tip": "Ein Einkaufszentrum für alltägliche Bedürfnisse."
+          },
+          {
+            "name": "Bauernläden außerhalb der Stadt",
+            "tip": "Fahren Sie zu einem nahegelegenen Bauernhof, um frische Produkte zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hof van Zutphen",
+            "tip": "Bevásárlóközpont a mindennapi szükségletekhez."
+          },
+          {
+            "name": "Tanyasi boltok a városon kívül",
+            "tip": "Vezessen el egy közeli gazdasághoz, hogy friss termékeket vásároljon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hof van Zutphen",
+            "tip": "Un centru comercial pentru nevoile de zi cu zi."
+          },
+          {
+            "name": "Magazine agricole în afara orașului",
+            "tip": "Conduceți la o fermă din apropiere pentru a cumpăra produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hof van Zutphen",
+            "tip": "A shopping center for any daily needs."
+          },
+          {
+            "name": "Farm shops outside the city",
+            "tip": "Take a drive to a nearby farm to buy fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Optionen, um den Verkehr im Zentrum zu vermeiden.",
+          "Die meisten Parkplätze in Zutphen sind gebührenpflichtig.",
+          "Die Cluster-Walking-Strategie ist ideal, da das Zentrum kompakt ist.",
+          "Achten Sie auf die engen Straßen und die vielen Radfahrer."
+        ],
+        "hu": [
+          "Használja a P+R lehetőségeket a belvárosi forgalom elkerülése érdekében.",
+          "A legtöbb parkoló fizetős Zutphenben.",
+          "A csoportos séta stratégia ideális, mivel a központ kompakt.",
+          "Vigyázzon a szűk utcákra és a sok kerékpárosra."
+        ],
+        "ro": [
+          "Folosiți opțiunile de Park and Ride pentru a evita traficul din centru.",
+          "Majoritatea parcărilor din Zutphen sunt cu plată.",
+          "Strategia de plimbare în grupuri (cluster-walking) este ideală, deoarece centrul este compact.",
+          "Fiți atenți la străzile înguste și la numeroșii bicicliști."
+        ],
+        "en": [
+          "Use Park and Ride options to avoid traffic in the center.",
+          "Most parking in Zutphen is paid.",
+          "The cluster-walking strategy is ideal as the center is compact.",
+          "Be aware of the narrow streets and the many cyclists."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Zutphen (Cluster A)",
+            "hu": "Érkezés a Zutphen vasútállomásra (A csoport)",
+            "ro": "Sosire la Gara Zutphen (Cluster A)",
+            "en": "Arrival at Zutphen Station (Cluster A)"
+          },
+          "coords": [
+            6.189,
+            52.143
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Bahnhof ist Ihr Ausgangspunkt und gut an das Stadtzentrum angebunden.",
+            "hu": "A vasútállomás a kiindulópont, jó összeköttetéssel a városközponttal.",
+            "ro": "Gara este punctul dvs. de plecare și este bine conectată la centrul orașului.",
+            "en": "The train station is your starting point and is well-connected to the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Broederenkerk",
+            "hu": "Broederenkerk",
+            "ro": "Biserica Broederenkerk",
+            "en": "Broederenkerk"
+          },
+          "coords": [
+            6.1925,
+            52.1425
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof zu dieser einzigartigen Kirche/Bibliothek.",
+            "hu": "Rövid séta az állomástól ehhez az egyedülálló templomhoz/könyvtárhoz.",
+            "ro": "O scurtă plimbare de la gară la această biserică/bibliotecă unică.",
+            "en": "A short walk from the station to this unique church/library."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum 's-Gravenhof (Cluster B)",
+            "hu": "Busz a 's-Gravenhof-hoz (B csoport)",
+            "ro": "Autobuz spre 's-Gravenhof (Cluster B)",
+            "en": "Bus to 's-Gravenhof (Cluster B)"
+          },
+          "coords": [
+            6.197,
+            52.1405
+          ],
+          "category": "transport",
+          "arrive_at": "10:10",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zum Herzen des historischen Zentrums zu gelangen.",
+            "hu": "Menjen helyi busszal a történelmi központ szívébe.",
+            "ro": "Luați un autobuz local pentru a ajunge în inima centrului istoric.",
+            "en": "Take a local bus to get to the heart of the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Walburgiskerk & De Librije",
+            "hu": "Walburgis-templom és De Librije",
+            "ro": "Biserica Walburgis & De Librije",
+            "en": "Walburgis Church & De Librije"
+          },
+          "coords": [
+            6.198,
+            52.14
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:17",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kirche und die berühmte Kettenbibliothek ausgiebig.",
+            "hu": "Fedezze fel alaposan a templomot és a híres láncos könyvtárat.",
+            "ro": "Explorați pe larg biserica și faimoasa sa bibliotecă cu lanțuri.",
+            "en": "Explore the church and its famous chained library extensively."
+          }
+        },
+        {
+          "name": {
+            "de": "Stedelijk Museum & Mittagessen",
+            "hu": "Stedelijk Múzeum és ebéd",
+            "ro": "Muzeul Stedelijk și prânzul",
+            "en": "Stedelijk Museum & Lunch"
+          },
+          "coords": [
+            6.196,
+            52.1415
+          ],
+          "category": "museums",
+          "arrive_at": "11:51",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Museum ist gleich um die Ecke. Planen Sie auch eine Mittagspause in der Nähe ein.",
+            "hu": "A múzeum a sarkon van. Tervezzen be egy ebédszünetet is a közelben.",
+            "ro": "Muzeul este chiar după colț. Planificați și o pauză de prânz în apropiere.",
+            "en": "The museum is just around the corner. Plan for a lunch break nearby as well."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zur Berkelpoort (Cluster C)",
+            "hu": "Busz a Berkelpoort-hoz (C csoport)",
+            "ro": "Autobuz spre Berkelpoort (Cluster C)",
+            "en": "Bus to Berkelpoort (Cluster C)"
+          },
+          "coords": [
+            6.202,
+            52.138
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:33",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt bringt Sie zu den malerischen Wasserwegen der Stadt.",
+            "hu": "Egy rövid buszút elviszi a város festői vízi útjaihoz.",
+            "ro": "O scurtă călătorie cu autobuzul vă duce la căile navigabile pitorești ale orașului.",
+            "en": "A short bus ride takes you to the city's scenic waterways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise beginnt am Bahnhof von Zutphen. Ein kurzer Spaziergang führt Sie zur einzigartigen Broederenkerk. Von dort bringt Sie ein lokaler Bus ins historische Herz, wo Sie den Vormittag mit der Erkundung der Walburgiskerk und einem Mittagessen verbringen. Am Nachmittag bringt Sie ein weiterer Bus zu den berühmten Wasserwegen der Stadt, wo Sie das Berkelpoort bewundern können, bevor Sie zum Bahnhof zurückkehren.",
+        "hu": "Utazása a zutpheni vasútállomáson kezdődik. Egy rövid séta elvezeti az egyedülálló Broederenkerkhez. Innen egy helyi busz viszi a történelmi központba, ahol a délelőttöt a Walburgiskerk felfedezésével és ebéddel tölti. Délután egy másik busz viszi a város híres vízi útjaihoz, ahol megcsodálhatja a Berkelpoortot, mielőtt visszatérne az állomásra.",
+        "ro": "Călătoria dvs. începe la gara din Zutphen. O scurtă plimbare vă duce la unica Biserică Broederenkerk. De acolo, un autobuz local vă duce în inima istorică, unde veți petrece dimineața explorând Biserica Walburgiskerk și luând prânzul. După-amiaza, un alt autobuz vă va duce la faimoasele căi navigabile ale orașului pentru a admira Poarta Berkel înainte de a vă întoarce la gară.",
+        "en": "Your journey begins at Zutphen's train station. A short walk takes you to the unique Broederenkerk. From there, a local bus transports you to the historic heart, where you'll spend the morning exploring Walburgiskerk and having lunch. In the afternoon, another bus will take you to the city's famous waterways to admire the Berkelpoort before heading back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bahnhofscafé",
+            "tip": "Ein praktischer Ort für einen Kaffee, bevor Sie die Stadt erkunden."
+          },
+          {
+            "name": "Eethuis 't Wapen van de Stad",
+            "tip": "Traditionelle niederländische Küche im Zentrum, gut erreichbar von der Bushaltestelle."
+          },
+          {
+            "name": "Pommes Frites",
+            "tip": "Holen Sie sich eine Tüte holländische Pommes mit einer Sauce Ihrer Wahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási kávézó",
+            "tip": "Praktikus hely egy kávéra a város felfedezése előtt."
+          },
+          {
+            "name": "Eethuis 't Wapen van de Stad",
+            "tip": "Hagyományos holland konyha a központban, könnyen megközelíthető a buszmegállótól."
+          },
+          {
+            "name": "Sült krumpli",
+            "tip": "Vegyen egy zacskó holland sült krumplit választható szósszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafeneaua gării",
+            "tip": "Un loc convenabil pentru o cafea înainte de a explora orașul."
+          },
+          {
+            "name": "Eethuis 't Wapen van de Stad",
+            "tip": "Bucătărie tradițională olandeză în centru, ușor accesibilă de la stația de autobuz."
+          },
+          {
+            "name": "Cartofi prăjiți",
+            "tip": "Luați un cornet de cartofi prăjiți olandezi cu un sos la alegere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Cafe",
+            "tip": "A convenient spot for a coffee before you explore the city."
+          },
+          {
+            "name": "Eethuis 't Wapen van de Stad",
+            "tip": "Traditional Dutch cuisine in the center, easily accessible from the bus stop."
+          },
+          {
+            "name": "Fries (Pommes Frites)",
+            "tip": "Grab a cone of Dutch fries with a sauce of your choice."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Warten auf den Bus",
+            "tip": "Nutzen Sie die kurzen Wartezeiten, um die Umgebung zu beobachten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kirchhof der Walburgiskerk",
+            "tip": "Ein ruhiger, historischer Ort im Herzen der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Beobachten Sie das Stadtleben, während Sie von einem Cluster zum nächsten fahren.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várakozás a buszra",
+            "tip": "Használja ki a rövid várakozási időt a környék megfigyelésére.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walburgis-templom kertje",
+            "tip": "Csendes, történelmi hely a város szívében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Figyelje a városi életet, miközben egyik helyről a másikra utazik.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Așteptând autobuzul",
+            "tip": "Folosiți scurtele perioade de așteptare pentru a observa împrejurimile.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curtea bisericii Walburgiskerk",
+            "tip": "Un loc liniștit, istoric, în inima orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Privind pe fereastra autobuzului",
+            "tip": "Urmăriți viața orașului în timp ce călătoriți de la un cluster la altul.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Waiting for the bus",
+            "tip": "Use the short waiting times to observe your surroundings.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walburgiskerk Courtyard",
+            "tip": "A quiet, historic spot in the heart of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "Watch the city life as you travel from one cluster to another.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "AKO Buchhandlung",
+            "tip": "Im Bahnhof finden Sie Bücher und Zeitschriften für Ihre Reise."
+          },
+          {
+            "name": "Kleine Geschäfte am Markt",
+            "tip": "In der Nähe der zentralen Bushaltestellen finden Sie Souvenirläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "AKO könyvesbolt",
+            "tip": "Az állomáson könyveket és magazinokat találhat az utazáshoz."
+          },
+          {
+            "name": "Kis boltok a piacon",
+            "tip": "A központi buszmegállók közelében szuvenírboltokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librăria AKO",
+            "tip": "La gară, pentru cărți și reviste pentru călătoria dvs."
+          },
+          {
+            "name": "Mici magazine în piață",
+            "tip": "Veți găsi magazine de suveniruri lângă stațiile centrale de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "AKO Bookstore",
+            "tip": "Located at the station for books and magazines for your journey."
+          },
+          {
+            "name": "Small shops at the market",
+            "tip": "You'll find souvenir shops near the central bus stops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für unbegrenzte Fahrten.",
+          "Überprüfen Sie den Busfahrplan im Voraus, um Wartezeiten zu minimieren.",
+          "Die meisten Busse sind barrierefrei.",
+          "Die Kombination aus Busfahrten und kurzen Spaziergängen ist eine effiziente Art, die Stadt zu sehen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan buszozáshoz.",
+          "Ellenőrizze előre a buszmenetrendet a várakozási idők minimalizálása érdekében.",
+          "A legtöbb busz akadálymentesített.",
+          "A buszozás és a rövid séták kombinációja hatékony módja a városnézésnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzul.",
+          "Verificați programul autobuzelor în avans pentru a minimiza timpii de așteptare.",
+          "Majoritatea autobuzelor sunt accesibile pentru scaune cu rotile.",
+          "Combinarea călătoriilor cu autobuzul și a plimbărilor scurte este o modalitate eficientă de a vedea orașul."
+        ],
+        "en": [
+          "Buy a day ticket for the bus for unlimited travel.",
+          "Check the bus schedule in advance to minimize waiting times.",
+          "Most buses are accessible for wheelchairs.",
+          "Combining bus rides with short walks is an efficient way to see the city."
+        ]
+      }
+    }
+  }
+}

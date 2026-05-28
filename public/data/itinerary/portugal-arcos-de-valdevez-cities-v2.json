@@ -1,0 +1,1470 @@
+{
+  "city_id": "portugal-arcos-de-valdevez-cities-v2",
+  "anchor": {
+    "name": "Arcos de Valdevez",
+    "coords": [
+      -8.4167,
+      41.8433
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Jardim dos Centenários",
+            "hu": "Jardim dos Centenários",
+            "ro": "Jardim dos Centenários",
+            "en": "Jardim dos Centenários"
+          },
+          "coords": [
+            -8.4155,
+            41.844
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag entspannt am Flussufer.",
+            "hu": "Kezdje a napot egy pihentető sétával a folyóparton.",
+            "ro": "Începeți-vă ziua cu o plimbare relaxantă pe malul râului.",
+            "en": "Start your day with a relaxing stroll by the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte de Arcos de Valdevez",
+            "hu": "Arcos de Valdevez hídja",
+            "ro": "Podul din Arcos de Valdevez",
+            "en": "Bridge of Arcos de Valdevez"
+          },
+          "coords": [
+            -8.417,
+            41.8448
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Fotos, besonders am Morgen.",
+            "hu": "Tökéletes fotóhelyszín, különösen reggel.",
+            "ro": "Un loc perfect pentru fotografii, mai ales dimineața.",
+            "en": "A perfect spot for photos, especially in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Relógio de Água",
+            "hu": "Vízóra",
+            "ro": "Ceasul de Apă",
+            "en": "Water Clock"
+          },
+          "coords": [
+            -8.4175,
+            41.8452
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein einzigartiges und cleveres Denkmal im Herzen der Stadt.",
+            "hu": "Egy egyedi és ötletes emlékmű a város szívében.",
+            "ro": "Un monument unic și inteligent în inima orașului.",
+            "en": "A unique and clever monument in the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de São Paio",
+            "hu": "São Paio templom",
+            "ro": "Biserica São Paio",
+            "en": "Church of São Paio"
+          },
+          "coords": [
+            -8.418,
+            41.846
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beachten Sie die barocken Details im Inneren.",
+            "hu": "Figyelje meg a belső tér barokk részleteit.",
+            "ro": "Observați detaliile baroce din interior.",
+            "en": "Note the Baroque details inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            -8.4168,
+            41.8455
+          ],
+          "category": "gastro",
+          "arrive_at": "11:31",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie „Cozido à Minhota“ in einem lokalen Restaurant.",
+            "hu": "Kóstolja meg a „Cozido à Minhota”-t egy helyi étteremben.",
+            "ro": "Încercați „Cozido à Minhota” la un restaurant local.",
+            "en": "Try 'Cozido à Minhota' at a local restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Interpretação do Barroco",
+            "hu": "Barokk Értelmező Központ",
+            "ro": "Centrul de Interpretare a Barocului",
+            "en": "Baroque Interpretation Center"
+          },
+          "coords": [
+            -8.414,
+            41.843
+          ],
+          "category": "museums",
+          "arrive_at": "13:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein interaktives Museum, ideal, um die lokale Geschichte zu verstehen.",
+            "hu": "Interaktív múzeum, ideális a helyi történelem megértéséhez.",
+            "ro": "Un muzeu interactiv, ideal pentru a înțelege istoria locală.",
+            "en": "An interactive museum, great for understanding local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Paço de Giela",
+            "hu": "Paço de Giela",
+            "ro": "Paço de Giela",
+            "en": "Paço de Giela"
+          },
+          "coords": [
+            -8.428,
+            41.8395
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:11",
+          "stay_min": 110,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Spaziergang zu diesem nationalen Denkmal.",
+            "hu": "Egy rövid, de megérő séta ehhez a nemzeti emlékműhöz.",
+            "ro": "O plimbare scurtă, dar meritată, până la acest monument național.",
+            "en": "A short but rewarding walk to this national monument."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Jardim dos Centenários am Fluss Vez. Überqueren Sie die mittelalterliche Brücke ins historische Zentrum und bewundern Sie die Kirchen und den einzigartigen Wasseruhr. Nach einem traditionellen Mittagessen erkunden Sie das interaktive Barockzentrum. Der Nachmittag ist dem imposanten Paço de Giela gewidmet, einem nationalen Denkmal, das einen Spaziergang wert ist und einen Einblick in die reiche Vergangenheit der Region bietet.",
+        "hu": "Kezdje a napot a Vez folyó melletti Jardim dos Centenários parkban. Sétáljon át a középkori hídon a történelmi központba, csodálja meg a templomokat és az egyedülálló Vízórát. Egy hagyományos ebéd után fedezze fel az interaktív Barokk Központot. A délutánt a lenyűgöző Paço de Giela felfedezésével töltse, amely egy nemzeti műemlék, és bepillantást nyújt a régió gazdag múltjába.",
+        "ro": "Începeți ziua în Jardim dos Centenários, lângă râul Vez. Traversați podul medieval spre centrul istoric, admirând bisericile și Ceasul de Apă unic. După un prânz tradițional, explorați interactivul Centru Baroc. După-amiaza este dedicată explorării impunătorului Paço de Giela, un monument național care merită plimbarea și oferă o perspectivă asupra trecutului bogat al regiunii.",
+        "en": "Start your day at Jardim dos Centenários by the river Vez. Cross the medieval bridge into the historic center, admiring the churches and the unique Water Clock. After a traditional lunch, explore the interactive Baroque Center. The afternoon is for discovering the imposing Paço de Giela, a national monument worth the walk, offering a glimpse into the region's rich past."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cozido à Minhota",
+            "tip": "Ein herzhafter Fleischeintopf, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Probieren Sie den lokalen jungen, spritzigen Wein, der hier heimisch ist."
+          },
+          {
+            "name": "Charutos dos Arcos",
+            "tip": "Ein süßes Gebäck mit Eigelb, ein lokales Geheimnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cozido à Minhota",
+            "tip": "Kiadós húsos egytálétel, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Kóstolja meg a helyi, fiatal és friss zöldbort, ami itt őshonos."
+          },
+          {
+            "name": "Charutos dos Arcos",
+            "tip": "Tojássárgájával készült édes sütemény, egy helyi titok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cozido à Minhota",
+            "tip": "O tocană de carne consistentă, perfectă după o plimbare lungă."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Încercați vinul local tânăr și proaspăt, originar de aici."
+          },
+          {
+            "name": "Charutos dos Arcos",
+            "tip": "O prăjitură dulce cu gălbenuș de ou, un secret local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cozido à Minhota",
+            "tip": "A hearty meat stew, perfect after a long walk."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Taste the local young and crisp green wine, native to this region."
+          },
+          {
+            "name": "Charutos dos Arcos",
+            "tip": "A sweet pastry made with egg yolks, a local secret."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer des Vez",
+            "tip": "Finden Sie eine ruhige Bank entlang des Flusses und beobachten Sie das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Paço de Giela",
+            "tip": "Die Gärten rund um das Herrenhaus sind friedlich und laden zum Nachdenken ein.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht vom Ponte de Arcos de Valdevez",
+            "tip": "Ein früher Morgen auf der Brücke bietet eine ruhige Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vez folyó partja",
+            "tip": "Keressen egy csendes padot a folyó mentén, és nézze a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Paço de Giela kertjei",
+            "tip": "A kúria körüli kertek békések és elgondolkodtatóak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás az Arcos de Valdedevez hídról",
+            "tip": "Egy kora reggel a hídon csendes kilátást nyújt.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Vez",
+            "tip": "Găsiți o bancă liniștită de-a lungul râului și priviți apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Paço de Giela",
+            "tip": "Grădinile din jurul conacului sunt pașnice și contemplative.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe podul Arcos de Valdevez",
+            "tip": "O dimineață devreme pe pod oferă o priveliște liniștită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vez Riverside",
+            "tip": "Find a quiet bench along the river and watch the water flow.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Paço de Giela",
+            "tip": "The gardens surrounding the manor are peaceful and contemplative.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Ponte de Arcos de Valdevez",
+            "tip": "An early morning on the bridge offers a serene view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten wie Honig, Käse und Kunsthandwerk."
+          },
+          {
+            "name": "Kunsthandwerksläden",
+            "tip": "Finden Sie einzigartige handgefertigte Souvenirs im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket, mint a méz, sajt és kézműves tárgyak."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Találjon egyedi, kézzel készített ajándéktárgyakat a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale precum miere, brânză și artizanat."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Găsiți suveniruri unice, lucrate manual, în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce like honey, cheese, and handicrafts."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Find unique handmade souvenirs in the town center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Nehmen Sie sich Zeit, um am Flussufer zu entspannen.",
+          "Die Stadt ist klein, also ist es einfach, sich zu Fuß zurechtzufinden.",
+          "Fragen Sie die Einheimischen nach Empfehlungen für Restaurants."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakövek egyenetlenek lehetnek.",
+          "Szánjon időt a folyóparti pihenésre.",
+          "A város kicsi, így könnyű gyalogosan tájékozódni.",
+          "Kérjen ajánlásokat a helyiektől éttermekkel kapcsolatban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pietruirea poate fi neuniformă.",
+          "Luați-vă timp să vă relaxați pe malul râului.",
+          "Orașul este mic, deci este ușor de navigat pe jos.",
+          "Întrebați localnicii pentru recomandări de restaurante."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Take your time to relax by the riverside.",
+          "The town is small, so it's easy to navigate on foot.",
+          "Ask locals for restaurant recommendations."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:30",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start am Fluss",
+            "hu": "Kerékpárkölcsönzés és indulás a folyónál",
+            "ro": "Închiriere biciclete & Start pe râu",
+            "en": "Bike Rental & Start at the River"
+          },
+          "coords": [
+            -8.4145,
+            41.8442
+          ],
+          "category": "activity",
+          "arrive_at": "09:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe des Flusses für eine malerische Route.",
+            "hu": "Béreljen kerékpárt a folyó közelében egy festői útvonalhoz.",
+            "ro": "Închiriați o bicicletă lângă râu pentru un traseu pitoresc.",
+            "en": "Rent a bike near the river for a scenic route."
+          }
+        },
+        {
+          "name": {
+            "de": "Paço de Giela",
+            "hu": "Paço de Giela",
+            "ro": "Paço de Giela",
+            "en": "Paço de Giela"
+          },
+          "coords": [
+            -8.428,
+            41.8395
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der Radweg hierher ist angenehm und bietet tolle Ausblicke.",
+            "hu": "A kerékpárút ide kellemes és remek kilátást nyújt.",
+            "ro": "Pista de biciclete până aici este plăcută și oferă vederi minunate.",
+            "en": "The bike ride here is pleasant and offers great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe von Paço de Giela",
+            "hu": "Ebéd a Paço de Giela közelében",
+            "ro": "Prânz lângă Paço de Giela",
+            "en": "Lunch near Paço de Giela"
+          },
+          "coords": [
+            -8.427,
+            41.8405
+          ],
+          "category": "gastro",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Finden Sie ein rustikales Restaurant für ein authentisches Erlebnis.",
+            "hu": "Keressen egy rusztikus éttermet egy autentikus élményért.",
+            "ro": "Găsiți un restaurant rustic pentru o experiență autentică.",
+            "en": "Find a rustic restaurant for an authentic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte de Arcos de Valdevez",
+            "hu": "Arcos de Valdevez hídja",
+            "ro": "Podul din Arcos de Valdevez",
+            "en": "Bridge of Arcos de Valdevez"
+          },
+          "coords": [
+            -8.417,
+            41.8448
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:13",
+          "stay_min": 20,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und spazieren Sie über die Brücke.",
+            "hu": "Tegye le a biciklit és sétáljon át a hídon.",
+            "ro": "Parcați bicicleta și traversați podul pe jos.",
+            "en": "Park your bike and walk across the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja der Lapa & Zentrum",
+            "hu": "Lapa templom és központ",
+            "ro": "Biserica Lapa și Centru",
+            "en": "Lapa Church & Center"
+          },
+          "coords": [
+            -8.4165,
+            41.8465
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gassen rund um die Kirche.",
+            "hu": "Fedezze fel a templom körüli szűk utcákat.",
+            "ro": "Explorați străduțele din jurul bisericii.",
+            "en": "Explore the alleyways around the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung im Jardim dos Centenários",
+            "hu": "Pihenés a Jardim dos Centenários-ban",
+            "ro": "Relaxare în Jardim dos Centenários",
+            "en": "Relax at Jardim dos Centenários"
+          },
+          "coords": [
+            -8.4155,
+            41.844
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:51",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um den Tag ausklingen zu lassen und das Fahrrad zurückzugeben.",
+            "hu": "Nagyszerű hely a nap befejezéséhez és a kerékpár visszaadásához.",
+            "ro": "Un loc minunat pentru a încheia ziua și a returna bicicleta.",
+            "en": "A great place to end the day and return the bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mieten Sie ein Fahrrad und beginnen Sie Ihre Tour mit einer Fahrt zum Paço de Giela, einem beeindruckenden nationalen Denkmal. Genießen Sie nach der Erkundung ein Mittagessen in der Nähe. Radeln Sie zurück ins Herz der Stadt, überqueren Sie die historische Brücke und erkunden Sie die engen Gassen um die Igreja der Lapa. Beenden Sie Ihren Tag mit einer entspannten Zeit im Jardim dos Centenários, bevor Sie Ihr Fahrrad zurückgeben.",
+        "hu": "Béreljen kerékpárt, és kezdje a túrát a Paço de Giela-hoz, egy lenyűgöző nemzeti emlékműhöz. A felfedezés után ebédeljen a közelben. Tekerjen vissza a város szívébe, keljen át a történelmi hídon, és fedezze fel a Lapa templom körüli szűk utcákat. A napot a Jardim dos Centenários-ban pihenve fejezze be, mielőtt visszaadná a kerékpárt.",
+        "ro": "Închiriați o bicicletă și începeți turul cu o plimbare la Paço de Giela, un monument național impresionant. După explorare, bucurați-vă de prânz în apropiere. Pedalați înapoi în inima orașului, traversați podul istoric și explorați străduțele din jurul Bisericii Lapa. Încheiați ziua cu o perioadă de relaxare în Jardim dos Centenários înainte de a returna bicicleta.",
+        "en": "Rent a bike and start your tour with a ride to Paço de Giela, an impressive national monument. Enjoy lunch nearby after exploring. Cycle back to the heart of town, cross the historic bridge, and explore the narrow streets around Lapa Church. End your day with a relaxing time at Jardim dos Centenários before returning your bike."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandes de presunto",
+            "tip": "Ein einfaches Schinkensandwich für eine schnelle Energiequelle."
+          },
+          {
+            "name": "Frisches Obst vom Markt",
+            "tip": "Ein gesunder und erfrischender Snack für Radfahrer."
+          },
+          {
+            "name": "Lokales Craft-Bier",
+            "tip": "Belohnen Sie sich nach der Fahrt mit einem kalten Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sandes de presunto",
+            "tip": "Egy egyszerű sonkás szendvics a gyors energiapótláshoz."
+          },
+          {
+            "name": "Friss gyümölcs a piacról",
+            "tip": "Egészséges és frissítő snack a kerékpárosoknak."
+          },
+          {
+            "name": "Helyi kézműves sör",
+            "tip": "Jutalmazza meg magát egy hideg sörrel a tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandes de presunto",
+            "tip": "Un sandviș simplu cu șuncă pentru o sursă rapidă de energie."
+          },
+          {
+            "name": "Fructe proaspete de la piață",
+            "tip": "O gustare sănătoasă și răcoritoare pentru bicicliști."
+          },
+          {
+            "name": "Bere artizanală locală",
+            "tip": "Recompensați-vă cu o bere rece după plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandes de presunto",
+            "tip": "A simple ham sandwich for a quick source of energy."
+          },
+          {
+            "name": "Fresh fruit from the market",
+            "tip": "A healthy and refreshing snack for cyclists."
+          },
+          {
+            "name": "Local craft beer",
+            "tip": "Reward yourself with a cold beer after the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ecocovia do Vez",
+            "tip": "Folgen Sie dem Radweg entlang des Flusses für friedliche Momente.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Gassen",
+            "tip": "Steigen Sie vom Rad und entdecken Sie ruhige Ecken abseits der Hauptstraßen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussichtspunkt in der Nähe von Paço de Giela",
+            "tip": "Suchen Sie einen höheren Punkt für eine Panoramaaussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ecovia do Vez",
+            "tip": "Kövesse a folyó menti kerékpárutat a békés pillanatokért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rejtett sikátorok",
+            "tip": "Szálljon le a kerékpárról, és fedezzen fel csendes zugokat a főutcáktól távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátópont a Paço de Giela közelében",
+            "tip": "Keressen egy magasabb pontot a panorámás kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ecovia do Vez",
+            "tip": "Urmați pista de biciclete de-a lungul râului pentru momente de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străduțe ascunse",
+            "tip": "Coborâți de pe bicicletă și descoperiți colțuri liniștite, departe de străzile principale.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punct de belvedere lângă Paço de Giela",
+            "tip": "Căutați un punct mai înalt pentru o vedere panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ecovia do Vez",
+            "tip": "Follow the cycle path along the river for peaceful moments.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden Alleys",
+            "tip": "Get off the bike and discover quiet corners away from the main streets.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Viewpoint near Paço de Giela",
+            "tip": "Look for a higher spot for a panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör-Geschäft",
+            "tip": "Für alle Notwendigkeiten oder ein Souvenir für Radfahrer."
+          },
+          {
+            "name": "Regionale Produkte",
+            "tip": "Kaufen Sie Vinho Verde direkt von einem lokalen Produzenten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Minden szükséges dologhoz vagy egy kerékpáros ajándéktárgyhoz."
+          },
+          {
+            "name": "Helyi termékek",
+            "tip": "Vásároljon Vinho Verde-t közvetlenül egy helyi termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de accesorii pentru biciclete",
+            "tip": "Pentru orice necesitate sau un suvenir pentru bicicliști."
+          },
+          {
+            "name": "Produse regionale",
+            "tip": "Cumpărați Vinho Verde direct de la un producător local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessory shop",
+            "tip": "For any necessities or a souvenir for cyclists."
+          },
+          {
+            "name": "Regional Products",
+            "tip": "Buy Vinho Verde directly from a local producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Bremsen und Reifen, bevor Sie losfahren.",
+          "Einige Abschnitte können hügelig sein, seien Sie also vorbereitet.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen.",
+          "Nehmen Sie Wasser und Snacks mit."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a fékeket és a gumikat.",
+          "Néhány szakasz dombos lehet, készüljön fel.",
+          "Mindig zárja le a kerékpárt, ha leteszi.",
+          "Vigyen magával vizet és harapnivalót."
+        ],
+        "ro": [
+          "Verificați frânele și anvelopele înainte de a porni.",
+          "Unele secțiuni pot fi deluroase, așa că fiți pregătiți.",
+          "Încuiati întotdeauna bicicleta când o parcați.",
+          "Luați apă și gustări cu voi."
+        ],
+        "en": [
+          "Check your brakes and tires before you start.",
+          "Some sections can be hilly, so be prepared.",
+          "Always lock your bike when you park it.",
+          "Bring water and snacks with you."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 16.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Paço de Giela",
+            "hu": "Paço de Giela",
+            "ro": "Paço de Giela",
+            "en": "Paço de Giela"
+          },
+          "coords": [
+            -8.428,
+            41.8395
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihre historische Erkundung.",
+            "hu": "Parkoljon le itt, és kezdje meg a történelmi felfedezést.",
+            "ro": "Parcați aici și începeți explorarea istorică.",
+            "en": "Park here and start your historical exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang um Giela",
+            "hu": "Séta Giela körül",
+            "ro": "Plimbare în jurul Giela",
+            "en": "Walk around Giela"
+          },
+          "coords": [
+            -8.4295,
+            41.8388
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie einen schönen Aussichtspunkt in der Nähe des Paço.",
+            "hu": "Keressen egy szép kilátópontot a Paço közelében.",
+            "ro": "Găsiți un punct de belvedere frumos lângă Paço.",
+            "en": "Find a nice viewpoint near the Paço."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Stadtzentrum",
+            "hu": "Utazás a városközpontba",
+            "ro": "Călătorie spre centrul orașului",
+            "en": "Drive to the City Center"
+          },
+          "coords": [
+            -8.4168,
+            41.8455
+          ],
+          "category": "transport",
+          "arrive_at": "11:55",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Flusses und erkunden Sie zu Fuß.",
+            "hu": "Parkoljon a folyó közelében és fedezze fel a környéket gyalog.",
+            "ro": "Parcați lângă râu și explorați pe jos.",
+            "en": "Park near the river and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Ponte de Arcos de Valdevez",
+            "hu": "Ebéd és Arcos de Valdevez híd",
+            "ro": "Prânz și podul Arcos de Valdevez",
+            "en": "Lunch and Arcos de Valdevez Bridge"
+          },
+          "coords": [
+            -8.417,
+            41.8448
+          ],
+          "category": "gastro",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie Ihr Mittagessen mit Blick auf die mittelalterliche Brücke.",
+            "hu": "Élvezze az ebédet a középkori hídra néző kilátással.",
+            "ro": "Bucurați-vă de prânz cu vedere la podul medieval.",
+            "en": "Enjoy your lunch with a view of the medieval bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja der Lapa und Altstadt",
+            "hu": "Igreja der Lapa és az óváros",
+            "ro": "Biserica Lapa și orașul vechi",
+            "en": "Igreja der Lapa and Old Town"
+          },
+          "coords": [
+            -8.4165,
+            41.8465
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den charmanten Straßen der Altstadt.",
+            "hu": "Vesszen el az óváros hangulatos utcáin.",
+            "ro": "Pierdeți-vă pe străzile fermecătoare ale orașului vechi.",
+            "en": "Get lost in the charming streets of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Museu da Água e do Rio",
+            "hu": "Utazás a Víz és Folyó Múzeumához",
+            "ro": "Călătorie la Muzeul Apei și Râului",
+            "en": "Drive to the Water and River Museum"
+          },
+          "coords": [
+            -8.409,
+            41.85
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Ausflug zu einem Museum über die Bedeutung des Wassers.",
+            "hu": "Egy rövid kirándulás a víz fontosságáról szóló múzeumba.",
+            "ro": "O scurtă excursie la un muzeu despre importanța apei.",
+            "en": "A short trip to a museum about the importance of water."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschluss im Jardim dos Centenários",
+            "hu": "Befejezés a Jardim dos Centenários-ban",
+            "ro": "Încheiere la Jardim dos Centenários",
+            "en": "Wrap-up at Jardim dos Centenários"
+          },
+          "coords": [
+            -8.4155,
+            41.844
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich vor der Heimfahrt am Fluss.",
+            "hu": "Pihenjen a folyóparton, mielőtt hazaindul.",
+            "ro": "Relaxați-vă lângă râu înainte de a pleca acasă.",
+            "en": "Relax by the river before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit dem Auto am Paço de Giela, einem wichtigen nationalen Denkmal. Nach einem Spaziergang fahren Sie ins Zentrum, parken und genießen ein Mittagessen am Fluss mit Blick auf die Brücke. Erkunden Sie die Altstadt zu Fuß. Am Nachmittag bringt Sie eine kurze Fahrt zum Wassermuseum, um mehr über die Region zu erfahren. Beenden Sie den Tag entspannt im Jardim dos Centenários, bevor Sie sich auf den Rückweg machen.",
+        "hu": "Kezdje a napot autóval a Paço de Giela-nál, egy fontos nemzeti emlékműnél. Egy séta után vezessen be a központba, parkoljon le, és ebédeljen a folyóparton, kilátással a hídra. Fedezze fel gyalog az óvárost. Délután egy rövid autózással eljuthat a Vízmúzeumba, hogy többet tudjon meg a régióról. A napot a Jardim dos Centenários-ban pihenve fejezze be, mielőtt hazaindul.",
+        "ro": "Începeți ziua cu mașina la Paço de Giela, un monument național important. După o plimbare, conduceți în centru, parcați și bucurați-vă de prânz pe malul râului cu vedere la pod. Explorați orașul vechi pe jos. După-amiaza, o scurtă călătorie cu mașina vă duce la Muzeul Apei pentru a afla despre regiune. Încheiați ziua relaxându-vă în Jardim dos Centenários înainte de a pleca.",
+        "en": "Start the day by car at Paço de Giela, a key national monument. After a walk, drive to the center, park, and enjoy lunch by the river overlooking the bridge. Explore the old town on foot. In the afternoon, a short drive takes you to the Water Museum to learn about the region. End the day relaxing at Jardim dos Centenários before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Posta Arouquesa",
+            "tip": "Ein dickes, saftiges Steak, typisch für Nordportugal."
+          },
+          {
+            "name": "Bacalhau na Brasa",
+            "tip": "Gegrillter Kabeljau, ein portugiesischer Klassiker."
+          },
+          {
+            "name": "Pão de Ló",
+            "tip": "Ein leichter, luftiger Biskuitkuchen, perfekt zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Posta Arouquesa",
+            "tip": "Vastag, szaftos steak, Észak-Portugália jellegzetessége."
+          },
+          {
+            "name": "Bacalhau na Brasa",
+            "tip": "Grillezett tőkehal, egy portugál klasszikus."
+          },
+          {
+            "name": "Pão de Ló",
+            "tip": "Könnyű, légies piskóta, tökéletes a kávéhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Posta Arouquesa",
+            "tip": "O friptură groasă și suculentă, tipică nordului Portugaliei."
+          },
+          {
+            "name": "Bacalhau na Brasa",
+            "tip": "Cod la grătar, un clasic portughez."
+          },
+          {
+            "name": "Pão de Ló",
+            "tip": "Un pandișpan ușor și pufos, perfect cu o cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Posta Arouquesa",
+            "tip": "A thick, juicy steak, typical of Northern Portugal."
+          },
+          {
+            "name": "Bacalhau na Brasa",
+            "tip": "Grilled codfish, a Portuguese classic."
+          },
+          {
+            "name": "Pão de Ló",
+            "tip": "A light, airy sponge cake, perfect with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sistelo",
+            "tip": "Machen Sie einen Abstecher in dieses als 'kleines portugiesisches Tibet' bekannte Dorf.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Miradouro do Castelo de Nóbrega",
+            "tip": "Ein Aussichtspunkt mit atemberaubender Aussicht, eine kurze Autofahrt entfernt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Flusses Lima",
+            "tip": "Finden Sie einen ruhigen Platz abseits der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sistelo",
+            "tip": "Tegyen egy kitérőt ebbe a „kis portugál Tibetként” ismert faluba.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Miradouro do Castelo de Nóbrega",
+            "tip": "Lélegzetelállító kilátást nyújtó kilátópont, rövid autóútra."
+          },
+          {
+            "name": "Lima folyó partja",
+            "tip": "Keressen egy csendes helyet a várostól távolabb.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sistelo",
+            "tip": "Faceți o ocolire către acest sat cunoscut drept 'micul Tibet portughez'.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Miradouro do Castelo de Nóbrega",
+            "tip": "Un punct de belvedere cu vederi uimitoare, la o scurtă distanță cu mașina.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile râului Lima",
+            "tip": "Găsiți un loc liniștit departe de oraș.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sistelo",
+            "tip": "Take a detour to this village known as 'little Portuguese Tibet'.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Miradouro do Castelo de Nóbrega",
+            "tip": "A viewpoint with stunning views, a short drive away.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Lima River",
+            "tip": "Find a quiet spot away from the town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenstände",
+            "tip": "Kaufen Sie lokales Kunsthandwerk und Produkte direkt von den Herstellern."
+          },
+          {
+            "name": "Weingut",
+            "tip": "Besuchen Sie ein nahegelegenes Weingut, um Vinho Verde zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útszéli árusok",
+            "tip": "Vásároljon helyi kézműves termékeket és terményeket közvetlenül a termelőktől."
+          },
+          {
+            "name": "Borpince",
+            "tip": "Látogasson el egy közeli borászatba Vinho Verde vásárlásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe de pe marginea drumului",
+            "tip": "Cumpărați artizanat local și produse direct de la producători."
+          },
+          {
+            "name": "Cramă",
+            "tip": "Vizitați o cramă din apropiere pentru a cumpăra Vinho Verde."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside stalls",
+            "tip": "Buy local crafts and produce directly from the makers."
+          },
+          {
+            "name": "Winery",
+            "tip": "Visit a nearby winery to buy Vinho Verde."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Zentrum schwierig sein, nutzen Sie ausgewiesene Parkplätze.",
+          "Planen Sie Zeit für unerwartete Entdeckungen auf dem Land ein.",
+          "Die Straßen können eng und kurvig sein, fahren Sie vorsichtig.",
+          "Ein GPS ist für die Navigation außerhalb der Stadt sehr zu empfehlen."
+        ],
+        "hu": [
+          "A parkolás nehézkes lehet a központban, használja a kijelölt parkolókat.",
+          "Tervezzen időt a vidéki váratlan felfedezésekre.",
+          "Az utak szűkek és kanyargósak lehetnek, vezessen óvatosan.",
+          "A városon kívüli navigációhoz erősen ajánlott a GPS."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în centru, folosiți parcările desemnate.",
+          "Planificați timp pentru descoperiri neașteptate la țară.",
+          "Drumurile pot fi înguste și sinuoase, conduceți cu atenție.",
+          "Un GPS este foarte recomandat pentru navigația în afara orașului."
+        ],
+        "en": [
+          "Parking can be tricky in the center, use designated car parks.",
+          "Plan for extra time for unexpected discoveries in the countryside.",
+          "Roads can be narrow and winding, drive carefully.",
+          "A GPS is highly recommended for navigating outside the town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:15",
+      "end_estimate": "17:45",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof",
+            "hu": "Érkezés a buszpályaudvarra",
+            "ro": "Sosire la autogară",
+            "en": "Arrival at the Bus Station"
+          },
+          "coords": [
+            -8.412,
+            41.842
+          ],
+          "category": "transport",
+          "arrive_at": "09:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Orientieren Sie sich und nehmen Sie einen lokalen Bus zum Paço de Giela.",
+            "hu": "Tájékozódjon, majd szálljon helyi buszra a Paço de Giela felé.",
+            "ro": "Orientați-vă și luați un autobuz local spre Paço de Giela.",
+            "en": "Get your bearings and take a local bus towards Paço de Giela."
+          }
+        },
+        {
+          "name": {
+            "de": "Paço de Giela",
+            "hu": "Paço de Giela",
+            "ro": "Paço de Giela",
+            "en": "Paço de Giela"
+          },
+          "coords": [
+            -8.428,
+            41.8395
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Monument und seine Gärten.",
+            "hu": "Fedezze fel az emlékművet és kertjeit.",
+            "ro": "Explorați monumentul și grădinile sale.",
+            "en": "Explore the monument and its gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum & Mittagessen",
+            "hu": "Vissza a központba és ebéd",
+            "ro": "Întoarcere în centru & Prânz",
+            "en": "Return to Center & Lunch"
+          },
+          "coords": [
+            -8.4168,
+            41.8455
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück und finden Sie ein Restaurant im Herzen der Stadt.",
+            "hu": "Szálljon vissza a buszra és keressen egy éttermet a város szívében.",
+            "ro": "Luați autobuzul înapoi și găsiți un restaurant în inima orașului.",
+            "en": "Take the bus back and find a restaurant in the heart of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte & Relógio de Água",
+            "hu": "Híd és Vízóra",
+            "ro": "Podul & Ceasul de Apă",
+            "en": "Bridge & Water Clock"
+          },
+          "coords": [
+            -8.4175,
+            41.8452
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Sehenswürdigkeiten liegen nahe beieinander.",
+            "hu": "Ez a két látnivaló közel van egymáshoz.",
+            "ro": "Aceste două atracții sunt aproape una de cealaltă.",
+            "en": "These two sights are close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de São Paio",
+            "hu": "São Paio templom",
+            "ro": "Biserica São Paio",
+            "en": "Church of São Paio"
+          },
+          "coords": [
+            -8.418,
+            41.846
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie zu dieser wunderschönen Kirche.",
+            "hu": "Egy rövid séta elvezeti ehhez a gyönyörű templomhoz.",
+            "ro": "O scurtă plimbare vă duce la această biserică frumoasă.",
+            "en": "A short walk will take you to this beautiful church."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Fluss im Jardim dos Centenários",
+            "hu": "Folyóparti séta a Jardim dos Centenários-ban",
+            "ro": "Plimbare pe râu la Jardim dos Centenários",
+            "en": "River walk at Jardim dos Centenários"
+          },
+          "coords": [
+            -8.4155,
+            41.844
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag entspannt, bevor Sie zum Busbahnhof zurückkehren.",
+            "hu": "Fejezze be a napot pihenéssel, mielőtt visszatérne a buszpályaudvarra.",
+            "ro": "Încheiați ziua relaxându-vă înainte de a vă întoarce la autogară.",
+            "en": "End the day with relaxation before walking back to the bus station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vom Busbahnhof aus bringt Sie ein lokaler Bus zum Paço de Giela. Nach der Erkundung dieses historischen Ortes fahren Sie zurück ins Zentrum zum Mittagessen. Der Nachmittag steht ganz im Zeichen eines Spaziergangs: Bewundern Sie die Brücke, den Wasseruhr und die Kirche São Paio. Beenden Sie Ihren Ausflug mit einem entspannten Spaziergang entlang des Flusses im Jardim dos Centenários, von wo aus der Busbahnhof leicht zu erreichen ist.",
+        "hu": "A buszpályaudvarról helyi busz visz a Paço de Giela-hoz. Miután felfedezte ezt a történelmi helyet, utazzon vissza a központba ebédelni. A délután a sétáé: csodálja meg a hidat, a Vízórát és a São Paio templomot. Fejezze be a kirándulást egy pihentető folyóparti sétával a Jardim dos Centenários-ban, ahonnan a buszpályaudvar könnyen elérhető.",
+        "ro": "De la autogară, un autobuz local vă duce la Paço de Giela. După explorarea acestui sit istoric, reveniți în centru pentru prânz. După-amiaza este dedicată unei plimbări: admirați podul, Ceasul de Apă și Biserica São Paio. Încheiați-vă excursia cu o plimbare relaxantă de-a lungul râului în Jardim dos Centenários, de unde autogara este la mică distanță.",
+        "en": "From the bus station, a local bus takes you to Paço de Giela. After exploring this historic site, head back to the center for lunch. The afternoon is all about walking: admire the bridge, the Water Clock, and the São Paio Church. Finish your trip with a relaxing stroll along the river in Jardim dos Centenários, within easy walking distance of the bus station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana",
+            "tip": "Ein typisch portugiesisches Schweinefleisch-Sandwich, ideal für unterwegs."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "Eine traditionelle Grünkohlsuppe, wärmend und lecker."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Auch hier im Norden ein Muss!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana",
+            "tip": "Jellegzetes portugál sertéshúsos szendvics, ideális útközben."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "Hagyományos kelkáposztaleves, melengető és ízletes."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Itt északon is kötelező!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș tipic portughez cu carne de porc, ideal pentru o masă rapidă."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "O supă tradițională de varză kale, încălzitoare și delicioasă."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Chiar și aici, în nord, este un 'must-try'!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana",
+            "tip": "A typical Portuguese pork sandwich, great for on-the-go."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "A traditional kale soup, warming and delicious."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "A must-try even here in the north!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt",
+            "tip": "Genießen Sie die Aussicht auf die Landschaft während der Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Igreja de São Paio",
+            "tip": "Finden Sie einen Moment der Stille in der Kirche.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Früher Morgen am Fluss",
+            "tip": "Wenn Sie früh ankommen, ist das Flussufer am friedlichsten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszút",
+            "tip": "Élvezze a táj látványát az utazás során.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "São Paio templom",
+            "tip": "Találjon egy csendes pillanatot a templomban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kora reggel a folyónál",
+            "tip": "Ha korán érkezik, a folyópart a legbékésebb.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul",
+            "tip": "Bucurați-vă de peisajul rural în timpul călătoriei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica São Paio",
+            "tip": "Găsiți un moment de liniște în interiorul bisericii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dimineața devreme la râu",
+            "tip": "Dacă ajungeți devreme, malul râului este cel mai pașnic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride",
+            "tip": "Enjoy the views of the countryside during the journey.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "São Paio Church",
+            "tip": "Find a moment of quiet inside the church.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Early morning by the river",
+            "tip": "If you arrive early, the riverbank is at its most peaceful.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bäckerei",
+            "tip": "Kaufen Sie 'Charutos dos Arcos' zum Mitnehmen."
+          },
+          {
+            "name": "Lokale Geschäfte",
+            "tip": "Stöbern Sie nach handgefertigten Leinenprodukten, einer lokalen Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség",
+            "tip": "Vásároljon 'Charutos dos Arcos'-t elvitelre."
+          },
+          {
+            "name": "Helyi boltok",
+            "tip": "Böngésszen a kézzel készített lenvászon termékek között, ami egy helyi specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie",
+            "tip": "Cumpărați 'Charutos dos Arcos' la pachet."
+          },
+          {
+            "name": "Magazine locale",
+            "tip": "Căutați produse artizanale din in, o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery",
+            "tip": "Buy some 'Charutos dos Arcos' to take away."
+          },
+          {
+            "name": "Local Shops",
+            "tip": "Browse for handmade linen products, a local specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die Rückfahrt.",
+          "Haben Sie Kleingeld für Bustickets dabei.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Einige Busse fahren möglicherweise nicht häufig, planen Sie also entsprechend."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, különösen a visszaútra.",
+          "Legyen aprópénze a buszjegyekhez.",
+          "A központi látnivalók többsége könnyen elérhető gyalog.",
+          "Néhány busz ritkán járhat, tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, în special pentru călătoria de întoarcere.",
+          "Aveți bani mărunți pentru biletele de autobuz.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Unele autobuze pot avea frecvență redusă, așa că planificați în consecință."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially for the return trip.",
+          "Have small change ready for bus tickets.",
+          "Most sights in the center are within easy walking distance.",
+          "Some buses may not be frequent, so plan accordingly."
+        ]
+      }
+    }
+  }
+}

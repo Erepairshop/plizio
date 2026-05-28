@@ -1,0 +1,1166 @@
+{
+  "city_id": "austria-bludenz-cities-v2",
+  "anchor": {
+    "name": "Bludenz",
+    "coords": [
+      9.8219,
+      47.1539
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Oberes Tor",
+            "hu": "Felső kapu",
+            "ro": "Poarta Superioară",
+            "en": "Upper Gate"
+          },
+          "coords": [
+            9.823,
+            47.1525
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Nepomukbrunnen",
+            "hu": "Nepomuki-kút",
+            "ro": "Fântâna Nepomuk",
+            "en": "Nepomuk Fountain"
+          },
+          "coords": [
+            9.821,
+            47.154
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:41",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Unteres Tor",
+            "hu": "Alsó kapu",
+            "ro": "Poarta Inferioară",
+            "en": "Lower Gate"
+          },
+          "coords": [
+            9.82,
+            47.155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:02",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Laurentius",
+            "hu": "Szent Lőrinc plébániatemplom",
+            "ro": "Biserica parohială Sf. Laurențiu",
+            "en": "St. Lawrence Parish Church"
+          },
+          "coords": [
+            9.8215,
+            47.1545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Schloss Gayenhof",
+            "hu": "Gayenhof kastély",
+            "ro": "Castelul Gayenhof",
+            "en": "Gayenhof Castle"
+          },
+          "coords": [
+            9.8205,
+            47.153
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Bludenz",
+            "hu": "Bludenzi Városi Múzeum",
+            "ro": "Muzeul orașului Bludenz",
+            "en": "Bludenz City Museum"
+          },
+          "coords": [
+            9.8225,
+            47.1535
+          ],
+          "category": "museums",
+          "arrive_at": "12:43",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Milka Lädele",
+            "hu": "Milka Csokibolt",
+            "ro": "Magazinul Milka",
+            "en": "Milka Chocolate Shop"
+          },
+          "coords": [
+            9.835,
+            47.158
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:17",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in der mittelalterlichen Altstadt von Bludenz bei den Stadttoren. Am Vormittag erkunden Sie die Gassen, die Laurentiuskirche und das Schloss Gayenhof. Nach dem Mittagessen tauchen Sie im Stadtmuseum in die lokale Geschichte ein. Am Nachmittag lockt ein Spaziergang zum Milka Lädele für süße Souvenirs. Lassen Sie den Abend in einem traditionellen Gasthaus bei Vorarlberger Spezialitäten ausklingen.",
+        "hu": "Kezdje a napot Bludenz középkori óvárosában, a városkapuknál. Délelőtt fedezze fel a szűk utcákat, a Lőrinc-templomot és a Gayenhof kastélyt. Ebéd után merüljön el a helyi történelemben a Városi Múzeumban. Délután sétáljon el a Milka csokiboltba édes szuvenírekért. Zárja az estét egy hagyományos fogadóban, vorarlbergi specialitásokkal.",
+        "ro": "Începeți ziua în orașul vechi medieval Bludenz, la porțile orașului. Dimineața explorați străduțele, biserica Sf. Laurențiu și castelul Gayenhof. După prânz, aprofundați istoria locală la Muzeul Orașului. După-amiaza, o plimbare vă duce la magazinul Milka pentru suveniruri dulci. Încheiați seara la un han tradițional cu specialități din Vorarlberg.",
+        "en": "Start your day in the medieval old town of Bludenz at the city gates. In the morning, explore the alleys, St. Lawrence's Church, and Gayenhof Castle. After lunch, delve into local history at the City Museum. In the afternoon, a walk to the Milka Lädele tempts with sweet souvenirs. End the evening in a traditional inn with Vorarlberg specialties."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Käsespätzle",
+            "tip": "Probieren Sie die handgeschabten Spätzle im Gasthof Löwen."
+          },
+          {
+            "name": "Riebel",
+            "tip": "Ein traditionelles Maisgrießgericht, oft zum Frühstück gegessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Käsespätzle",
+            "tip": "Kóstolja meg a kézzel készített sajtos nokedlit a Gasthof Löwenben."
+          },
+          {
+            "name": "Riebel",
+            "tip": "Hagyományos kukoricadara-étel, gyakran reggelire fogyasztják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Käsespätzle",
+            "tip": "Încercați găluștele cu brânză făcute manual la Gasthof Löwen."
+          },
+          {
+            "name": "Riebel",
+            "tip": "Un fel de mâncare tradițional din mălai, adesea servit la micul dejun."
+          }
+        ],
+        "en": [
+          {
+            "name": "Käsespätzle",
+            "tip": "Try the handmade cheese spaetzle at Gasthof Löwen."
+          },
+          {
+            "name": "Riebel",
+            "tip": "A traditional cornmeal dish, often eaten for breakfast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang an der Ill",
+            "tip": "Ein ruhiger Weg entlang des Flusses, perfekt zum Entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark Gayenhof",
+            "tip": "Die Gärten rund um das Schloss bieten eine friedliche Atmosphäre.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta az Ill folyó partján",
+            "tip": "Csendes ösvény a folyó mentén, tökéletes a pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gayenhof kastélypark",
+            "tip": "A kastély körüli kertek békés hangulatot árasztanak.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Ill",
+            "tip": "O potecă liniștită de-a lungul râului, perfectă pentru relaxare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Castelului Gayenhof",
+            "tip": "Grădinile din jurul castelului oferă o atmosferă pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Ill river",
+            "tip": "A quiet path along the river, perfect for relaxing.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gayenhof Castle Park",
+            "tip": "The gardens around the castle offer a peaceful atmosphere.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Milka Lädele",
+            "tip": "Ein Muss für Schokoladenliebhaber, mit exklusiven Angeboten."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Freitag in der Innenstadt für lokalen Käse, Wurst und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Milka Csokibolt",
+            "tip": "Kötelező a csokoládéimádóknak, exkluzív ajánlatokkal."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Minden pénteken a belvárosban, helyi sajtokért, kolbászokért és kézműves termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Milka",
+            "tip": "O necesitate pentru iubitorii de ciocolată, cu oferte exclusive."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare vineri în centrul orașului pentru brânzeturi locale, cârnați și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Milka Chocolate Shop",
+            "tip": "A must for chocolate lovers, with exclusive offers."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Every Friday in the city center for local cheese, sausages, and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt Kopfsteinpflaster hat.",
+          "Viele Geschäfte haben mittags geschlossen, planen Sie entsprechend.",
+          "Ein Besuch im Herbst bietet eine wunderschöne Laubfärbung in den umliegenden Bergen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskaköves.",
+          "Sok üzlet bezár ebédidőben, tervezzen ennek megfelelően.",
+          "Az őszi látogatás gyönyörű lombhullató színeket kínál a környező hegyekben."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece orașul vechi are pavaj.",
+          "Multe magazine sunt închise la prânz, planificați-vă în consecință.",
+          "O vizită toamna oferă culori frumoase ale frunzelor în munții din jur."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town has cobblestones.",
+          "Many shops close for lunch, so plan accordingly.",
+          "A visit in autumn offers beautiful foliage colors in the surrounding mountains."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Unteres Tor",
+            "hu": "Alsó kapu",
+            "ro": "Poarta Inferioară",
+            "en": "Lower Gate"
+          },
+          "coords": [
+            9.82,
+            47.155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Laurentius",
+            "hu": "Szent Lőrinc plébániatemplom",
+            "ro": "Biserica parohială Sf. Laurențiu",
+            "en": "St. Lawrence Parish Church"
+          },
+          "coords": [
+            9.8215,
+            47.1545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Oberes Tor",
+            "hu": "Felső kapu",
+            "ro": "Poarta Superioară",
+            "en": "Upper Gate"
+          },
+          "coords": [
+            9.823,
+            47.1525
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:19",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Schloss Gayenhof",
+            "hu": "Gayenhof kastély",
+            "ro": "Castelul Gayenhof",
+            "en": "Gayenhof Castle"
+          },
+          "coords": [
+            9.8205,
+            47.153
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:47",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Bludenz",
+            "hu": "Bludenzi Városi Múzeum",
+            "ro": "Muzeul orașului Bludenz",
+            "en": "Bludenz City Museum"
+          },
+          "coords": [
+            9.8225,
+            47.1535
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Milka Lädele",
+            "hu": "Milka Csokibolt",
+            "ro": "Magazinul Milka",
+            "en": "Milka Chocolate Shop"
+          },
+          "coords": [
+            9.835,
+            47.158
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:00",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Ill-Radweg",
+            "hu": "Séta az Ill kerékpárúton",
+            "ro": "Plimbare pe pista de biciclete Ill",
+            "en": "Ride on the Ill cycle path"
+          },
+          "coords": [
+            9.815,
+            47.16
+          ],
+          "category": "natural features",
+          "arrive_at": "14:54",
+          "stay_min": 51,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit dem Rad am Unteren Tor und erkunden Sie die historische Innenstadt. Eine kurze Fahrt bringt Sie zur Kirche, zum Oberen Tor und zum Schloss Gayenhof. Nach einer Mittagspause und einem Besuch im Stadtmuseum radeln Sie zum Milka Lädele für eine süße Belohnung. Schließen Sie den Tag mit einer entspannten Fahrt entlang des Ill-Radwegs ab.",
+        "hu": "Induljon kerékpárral az Alsó kaputól, és fedezze fel a történelmi belvárost. Egy rövid tekeréssel eljut a templomhoz, a Felső kapuhoz és a Gayenhof kastélyhoz. Ebédszünet és a városi múzeum meglátogatása után tekerjen el a Milka csokiboltba egy édes jutalomért. Zárja a napot egy pihentető biciklizéssel az Ill kerékpárúton.",
+        "ro": "Începeți cu bicicleta de la Poarta Inferioară și explorați centrul istoric. O scurtă plimbare vă duce la biserică, Poarta Superioară și Castelul Gayenhof. După o pauză de prânz și o vizită la muzeul orașului, pedalați spre magazinul Milka pentru o recompensă dulce. Încheiați ziua cu o plimbare relaxantă pe pista de biciclete de-a lungul râului Ill.",
+        "en": "Start by bike at the Lower Gate and explore the historic city center. A short ride takes you to the church, the Upper Gate, and Gayenhof Castle. After a lunch break and a visit to the city museum, cycle to the Milka Lädele for a sweet reward. End the day with a relaxing ride along the Ill cycle path."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Käsknöpfle",
+            "tip": "Eine weitere köstliche Variante der Käsespätzle, serviert im 'Wirtshaus zum Stern'."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Genießen Sie ein warmes Stück mit Vanillesauce in einem Café in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Käsknöpfle",
+            "tip": "A sajtos nokedli egy másik finom változata, a 'Wirtshaus zum Stern'-ben tálalva."
+          },
+          {
+            "name": "Almásrétes",
+            "tip": "Élvezzen egy meleg szeletet vaníliaszósszal egy óvárosi kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Käsknöpfle",
+            "tip": "O altă variantă delicioasă de găluște cu brânză, servită la 'Wirtshaus zum Stern'."
+          },
+          {
+            "name": "Ștrudel cu mere",
+            "tip": "Savurați o felie caldă cu sos de vanilie la o cafenea din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Käsknöpfle",
+            "tip": "Another delicious version of cheese spaetzle, served at 'Wirtshaus zum Stern'."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "Enjoy a warm slice with vanilla sauce in an old town café."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ill-Radweg",
+            "tip": "Der Radweg bietet ruhige Abschnitte abseits des Stadtverkehrs.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt bei der Laurentiuskirche",
+            "tip": "Ein kleiner, oft übersehener Platz mit schöner Aussicht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ill kerékpárút",
+            "tip": "A kerékpárút csendes szakaszokat kínál a városi forgalomtól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátópont a Lőrinc-templomnál",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott hely, szép kilátással.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete Ill",
+            "tip": "Pista de biciclete oferă secțiuni liniștite, departe de traficul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere lângă Biserica Sf. Laurențiu",
+            "tip": "Un loc mic, adesea trecut cu vederea, cu o priveliște frumoasă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ill cycle path",
+            "tip": "The cycle path offers quiet sections away from city traffic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint near St. Lawrence Church",
+            "tip": "A small, often overlooked spot with a nice view.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Intersport",
+            "tip": "Für alle, die spontan Rad- oder Wanderausrüstung benötigen."
+          },
+          {
+            "name": "Fohrenburger Brau-Laden",
+            "tip": "Souvenirs und Bierspezialitäten der lokalen Brauerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Intersport",
+            "tip": "Mindazoknak, akiknek spontán szükségük van kerékpáros vagy túrafelszerelésre."
+          },
+          {
+            "name": "Fohrenburger Sörbolt",
+            "tip": "A helyi sörfőzde ajándéktárgyai és sörkülönlegességei."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Intersport",
+            "tip": "Pentru oricine are nevoie spontană de echipament de ciclism sau drumeții."
+          },
+          {
+            "name": "Magazinul berăriei Fohrenburger",
+            "tip": "Suveniruri și specialități de bere de la berăria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Intersport",
+            "tip": "For anyone who spontaneously needs cycling or hiking gear."
+          },
+          {
+            "name": "Fohrenburger Brewery Shop",
+            "tip": "Souvenirs and beer specialties from the local brewery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad an den Hauptsehenswürdigkeiten immer gut ab.",
+          "Der Ill-Radweg ist meist flach und für alle Fitnesslevel geeignet.",
+          "Achten Sie in der Fußgängerzone auf Fußgänger und schieben Sie Ihr Rad, wo es vorgeschrieben ist."
+        ],
+        "hu": [
+          "Mindig lakatolja le a kerékpárját a főbb látnivalóknál.",
+          "Az Ill kerékpárút többnyire sík és minden edzettségi szintnek megfelelő.",
+          "A sétálóövezetben figyeljen a gyalogosokra, és tolja a kerékpárt, ahol előírás."
+        ],
+        "ro": [
+          "Asigurați-vă întotdeauna bicicleta la principalele atracții.",
+          "Pista de biciclete Ill este în mare parte plată și potrivită pentru toate nivelurile de fitness.",
+          "Fiți atenți la pietoni în zona pietonală și împingeți bicicleta acolo unde este necesar."
+        ],
+        "en": [
+          "Always lock your bike securely at the main attractions.",
+          "The Ill cycle path is mostly flat and suitable for all fitness levels.",
+          "Be mindful of pedestrians in the pedestrian zone and push your bike where required."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 9.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Altstadt",
+            "hu": "Óvárosi parkoló",
+            "ro": "Parcare Centrul Vechi",
+            "en": "Old Town Car Park"
+          },
+          "coords": [
+            9.824,
+            47.152
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Oberes Tor & Altstadt",
+            "hu": "Felső kapu és Óváros",
+            "ro": "Poarta Superioară & Centrul Vechi",
+            "en": "Upper Gate & Old Town"
+          },
+          "coords": [
+            9.823,
+            47.1525
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:12",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Laurentius",
+            "hu": "Szent Lőrinc plébániatemplom",
+            "ro": "Biserica parohială Sf. Laurențiu",
+            "en": "St. Lawrence Parish Church"
+          },
+          "coords": [
+            9.8215,
+            47.1545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Schloss Gayenhof & Stadtmuseum",
+            "hu": "Gayenhof kastély és Városi Múzeum",
+            "ro": "Castelul Gayenhof & Muzeul Orașului",
+            "en": "Gayenhof Castle & City Museum"
+          },
+          "coords": [
+            9.8205,
+            47.153
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:44",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Talstation Muttersbergbahn",
+            "hu": "Muttersbergbahn völgyállomás",
+            "ro": "Stația de vale Muttersbergbahn",
+            "en": "Muttersberg Cable Car Valley Station"
+          },
+          "coords": [
+            9.828,
+            47.14
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 5
+        },
+        {
+          "name": {
+            "de": "Milka Lädele",
+            "hu": "Milka Csokibolt",
+            "ro": "Magazinul Milka",
+            "en": "Milka Chocolate Shop"
+          },
+          "coords": [
+            9.835,
+            47.158
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:40",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4
+        },
+        {
+          "name": {
+            "de": "Gasthaus zum Abendessen",
+            "hu": "Vacsora egy fogadóban",
+            "ro": "Cină la un han",
+            "en": "Dinner at an Inn"
+          },
+          "coords": [
+            9.818,
+            47.156
+          ],
+          "category": "gastro",
+          "arrive_at": "16:50",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto in der Nähe der Altstadt und erkunden Sie den historischen Kern zu Fuß: Tore, Kirche und Schloss. Genießen Sie ein Mittagessen vor Ort. Am Nachmittag fahren Sie zur Muttersbergbahn und genießen die spektakuläre Aussicht vom Gipfel. Auf dem Rückweg halten Sie für Schokoladeneinkäufe im Milka Lädele. Beenden Sie Ihren erlebnisreichen Tag mit einem herzhaften Abendessen in einem gemütlichen Gasthaus.",
+        "hu": "Parkolja le autóját az óváros közelében, és fedezze fel gyalog a történelmi központot: kapukat, templomot és kastélyt. Ebédeljen helyben. Délután vezessen el a Muttersbergbahnhoz, és élvezze a csúcsról nyíló látványos kilátást. Visszafelé álljon meg csokoládévásárlásra a Milka boltban. Zárja az eseménydús napot egy kiadós vacsorával egy hangulatos fogadóban.",
+        "ro": "Parcați mașina lângă centrul vechi și explorați nucleul istoric pe jos: porți, biserică și castel. Savurați prânzul local. După-amiaza, conduceți la telecabina Muttersberg și bucurați-vă de priveliștea spectaculoasă de pe vârf. La întoarcere, opriți-vă pentru cumpărături de ciocolată la magazinul Milka. Încheiați ziua plină de evenimente cu o cină consistentă la un han primitor.",
+        "en": "Park your car near the old town and explore the historic core on foot: gates, church, and castle. Enjoy lunch locally. In the afternoon, drive to the Muttersberg cable car and enjoy the spectacular view from the summit. On the way back, stop for chocolate shopping at the Milka Lädele. End your eventful day with a hearty dinner at a cozy inn."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Alpen-Gasthof Muttersberg",
+            "tip": "Genießen Sie die Aussicht bei einer Jause auf dem Berg."
+          },
+          {
+            "name": "Gasthof Hirschen",
+            "tip": "Traditionelle Küche in einem historischen Gebäude in der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alpen-Gasthof Muttersberg",
+            "tip": "Élvezze a kilátást egy uzsonna mellett a hegyen."
+          },
+          {
+            "name": "Gasthof Hirschen",
+            "tip": "Hagyományos konyha egy történelmi épületben a városban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alpen-Gasthof Muttersberg",
+            "tip": "Bucurați-vă de priveliște cu o gustare pe munte."
+          },
+          {
+            "name": "Gasthof Hirschen",
+            "tip": "Bucătărie tradițională într-o clădire istorică din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alpen-Gasthof Muttersberg",
+            "tip": "Enjoy the view with a snack on the mountain."
+          },
+          {
+            "name": "Gasthof Hirschen",
+            "tip": "Traditional cuisine in a historic building in the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Muttersbergs",
+            "tip": "Atemberaubende 360-Grad-Panoramen der Alpen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spazierweg am Brandner Gletscher",
+            "tip": "Eine kurze Fahrt entfernt für eine ernste Bergstille.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Muttersberg csúcsa",
+            "tip": "Lélegzetelállító 360 fokos panoráma az Alpokra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sétaút a Brandner gleccsernél",
+            "tip": "Egy rövid autóútra a komoly hegyi csendért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Muttersberg",
+            "tip": "Panorame uluitoare de 360 de grade ale Alpilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Potecă de plimbare la ghețarul Brandner",
+            "tip": "La o scurtă distanță cu mașina pentru o liniște montană serioasă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Muttersberg",
+            "tip": "Breathtaking 360-degree panoramas of the Alps.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walking path at the Brandner Glacier",
+            "tip": "A short drive away for serious mountain tranquility.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Getzner Textil",
+            "tip": "Werksverkauf für hochwertige Stoffe und Textilien aus der Region."
+          },
+          {
+            "name": "Lokale Sennereien",
+            "tip": "Kaufen Sie Bergkäse direkt vom Bauernhof in den umliegenden Tälern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Getzner Textil",
+            "tip": "Gyári bolt minőségi helyi szövetekért és textíliákért."
+          },
+          {
+            "name": "Helyi tejüzemek",
+            "tip": "Vásároljon hegyi sajtot közvetlenül a gazdaságokból a környező völgyekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Getzner Textil",
+            "tip": "Magazin de fabrică pentru țesături și textile de înaltă calitate din regiune."
+          },
+          {
+            "name": "Lăptării locale",
+            "tip": "Cumpărați brânză de munte direct de la fermele din văile înconjurătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Getzner Textil",
+            "tip": "Factory outlet for high-quality fabrics and textiles from the region."
+          },
+          {
+            "name": "Local dairies",
+            "tip": "Buy mountain cheese directly from farms in the surrounding valleys."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Betriebszeiten und das Wetter für die Muttersbergbahn, bevor Sie losfahren.",
+          "Es gibt mehrere Parkhäuser in der Innenstadt; der 'Zentrumsparkplatz' ist oft eine gute Wahl.",
+          "Planen Sie Zeit für den Verkehr ein, besonders an Wochenenden."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a Muttersbergbahn nyitvatartási idejét és az időjárást.",
+          "A belvárosban több parkolóház is található; a 'Zentrumsparkplatz' gyakran jó választás.",
+          "Tervezzen időt a forgalomra, különösen hétvégén."
+        ],
+        "ro": [
+          "Verificați programul de funcționare și vremea pentru telecabina Muttersberg înainte de a pleca.",
+          "Există mai multe parcări în centrul orașului; 'Zentrumsparkplatz' este adesea o alegere bună.",
+          "Planificați timp pentru trafic, în special în weekend."
+        ],
+        "en": [
+          "Check the operating times and weather for the Muttersberg cable car before you go.",
+          "There are several parking garages in the city center; the 'Zentrumsparkplatz' is often a good choice.",
+          "Allow time for traffic, especially on weekends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof/Zentrum",
+            "hu": "Buszpályaudvar/Központ",
+            "ro": "Autogară/Centru",
+            "en": "Bus Station/Center"
+          },
+          "coords": [
+            9.818,
+            47.157
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Altstadt-Rundgang",
+            "hu": "Óvárosi séta",
+            "ro": "Turul orașului vechi",
+            "en": "Old Town Walking Tour"
+          },
+          "coords": [
+            9.8215,
+            47.1545
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Talstation Muttersbergbahn",
+            "hu": "Muttersbergbahn völgyállomás",
+            "ro": "Stația de vale Muttersbergbahn",
+            "en": "Muttersberg Cable Car Valley Station"
+          },
+          "coords": [
+            9.828,
+            47.14
+          ],
+          "category": "natural features",
+          "arrive_at": "12:55",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4
+        },
+        {
+          "name": {
+            "de": "Milka Lädele",
+            "hu": "Milka Csokibolt",
+            "ro": "Magazinul Milka",
+            "en": "Milka Chocolate Shop"
+          },
+          "coords": [
+            9.835,
+            47.158
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:50",
+          "stay_min": 45,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Stadt",
+            "hu": "Vacsora a városban",
+            "ro": "Cină în oraș",
+            "en": "Dinner in the city"
+          },
+          "coords": [
+            9.82,
+            47.1565
+          ],
+          "category": "gastro",
+          "arrive_at": "16:40",
+          "stay_min": 80,
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nehmen Sie den Bus ins Zentrum und beginnen Sie mit einem langen Spaziergang durch die Altstadt. Entdecken Sie alle historischen Sehenswürdigkeiten in Ihrem eigenen Tempo. Nach dem Mittagessen bringt Sie ein Bus zur Muttersbergbahn für einen alpinen Nachmittag. Ein weiterer Bus bringt Sie zum Milka Lädele. Schließlich kehren Sie zu Fuß in ein Restaurant im Zentrum zurück, um den Tag ausklingen zu lassen.",
+        "hu": "Buszozzon be a központba, és kezdje egy hosszú sétával az óvárosban. Fedezze fel az összes történelmi látnivalót a saját tempójában. Ebéd után busszal juthat el a Muttersbergbahnhoz egy alpesi délutánra. Egy másik busz elviszi a Milka csokiboltba. Végül sétáljon vissza egy belvárosi étterembe, hogy lezárja a napot.",
+        "ro": "Luați autobuzul spre centru și începeți cu o plimbare lungă prin orașul vechi. Descoperiți toate atracțiile istorice în ritmul propriu. După prânz, un autobuz vă duce la telecabina Muttersberg pentru o după-amiază alpină. Un alt autobuz vă va duce la magazinul Milka. În cele din urmă, reveniți pe jos la un restaurant din centru pentru a încheia ziua.",
+        "en": "Take the bus to the center and start with a long walk through the old town. Discover all the historic sights at your own pace. After lunch, a bus takes you to the Muttersberg cable car for an alpine afternoon. Another bus will take you to the Milka Lädele. Finally, walk back to a restaurant in the center to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Montafoner Sauerkäse",
+            "tip": "Ein würziger Magerkäse aus der Region, probieren Sie ihn auf dem Markt."
+          },
+          {
+            "name": "Restaurant 'Zum Schiffle'",
+            "tip": "Gute bürgerliche Küche in der Nähe des Bahnhofs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Montafoni savanyú sajt",
+            "tip": "Fűszeres, zsírszegény sajt a régióból, kóstolja meg a piacon."
+          },
+          {
+            "name": "Étterem 'Zum Schiffle'",
+            "tip": "Jó polgári konyha a pályaudvar közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză acră Montafon",
+            "tip": "O brânză slabă și picantă din regiune, încercați-o la piață."
+          },
+          {
+            "name": "Restaurant 'Zum Schiffle'",
+            "tip": "Bucătărie tradițională bună, lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Montafon sour cheese",
+            "tip": "A spicy, low-fat cheese from the region, try it at the market."
+          },
+          {
+            "name": "Restaurant 'Zum Schiffle'",
+            "tip": "Good traditional cuisine near the train station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leseecke in der Stadtbücherei",
+            "tip": "Ein ruhiger Ort, um sich bei schlechtem Wetter zurückzuziehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am Muttersberg",
+            "tip": "Planen Sie so, dass Sie die letzte Talfahrt erwischen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasósarok a Városi Könyvtárban",
+            "tip": "Csendes hely, ahová rossz időben visszavonulhat.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a Muttersbergen",
+            "tip": "Úgy tervezzen, hogy elérje az utolsó lefelé tartó járatot.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colț de lectură la Biblioteca Orășenească",
+            "tip": "Un loc liniștit pentru a vă retrage pe vreme rea.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare pe Muttersberg",
+            "tip": "Planificați-vă să prindeți ultima coborâre cu telecabina.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading corner in the City Library",
+            "tip": "A quiet place to retreat in bad weather.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset on the Muttersberg",
+            "tip": "Plan to catch the last cable car down.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weltladen Bludenz",
+            "tip": "Fair-Trade-Produkte und einzigartige Geschenke aus aller Welt."
+          },
+          {
+            "name": "Buchhandlung Tyrolia",
+            "tip": "Eine große Auswahl an Büchern, auch über die Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Weltladen Bludenz",
+            "tip": "Méltányos kereskedelemből származó termékek és egyedi ajándékok a világ minden tájáról."
+          },
+          {
+            "name": "Tyrolia könyvesbolt",
+            "tip": "Nagy könyvválaszték, beleértve a régióról szólókat is."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Weltladen Bludenz",
+            "tip": "Produse din comerț echitabil și cadouri unice din întreaga lume."
+          },
+          {
+            "name": "Librăria Tyrolia",
+            "tip": "O selecție largă de cărți, inclusiv despre regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weltladen Bludenz",
+            "tip": "Fair trade products and unique gifts from around the world."
+          },
+          {
+            "name": "Tyrolia Bookstore",
+            "tip": "A large selection of books, including about the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr (VVV), um Geld zu sparen.",
+          "Laden Sie die VVV-App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Beachten Sie, dass die Busse abends seltener fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a helyi tömegközlekedéshez (VVV), hogy pénzt takarítson meg.",
+          "Töltse le a VVV alkalmazást a valós idejű menetrendekért.",
+          "Vegye figyelembe, hogy a buszok este ritkábban közlekednek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public (VVV) pentru a economisi bani.",
+          "Descărcați aplicația VVV pentru a vedea orarele în timp real.",
+          "Rețineți că autobuzele circulă mai rar seara."
+        ],
+        "en": [
+          "Buy a day ticket for public transport (VVV) to save money.",
+          "Download the VVV app to see real-time schedules.",
+          "Note that buses run less frequently in the evening."
+        ]
+      }
+    }
+  }
+}

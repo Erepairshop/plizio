@@ -1,0 +1,1460 @@
+{
+  "city_id": "romania-baicoi-cities-v2",
+  "anchor": {
+    "name": "Băicoi",
+    "coords": [
+      45.03,
+      25.85
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Zentrum",
+            "hu": "Történelmi központ",
+            "ro": "Centrul Istoric",
+            "en": "Historic Center"
+          },
+          "coords": [
+            25.851,
+            45.0315
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee, um die lokale Atmosphäre aufzusaugen.",
+            "hu": "Indítsa a napot egy kávéval, és szívja magába a helyi hangulatot.",
+            "ro": "Începeți ziua aici cu o cafea pentru a absorbi atmosfera locală.",
+            "en": "Start your day here with a coffee to soak in the local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Hl. Kaiser Konstantin und Helena",
+            "hu": "Szent Konstantin és Heléna császárok temploma",
+            "ro": "Biserica Sfinții Împărați Constantin și Elena",
+            "en": "Church of Saints Constantine and Helena"
+          },
+          "coords": [
+            25.8535,
+            45.033
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die neobyzantinischen Architekturelemente.",
+            "hu": "Figyelje meg a neobizánci építészeti elemeket.",
+            "ro": "Observați elementele arhitecturale neo-bizantine.",
+            "en": "Pay attention to the neo-Byzantine architectural elements."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus",
+            "hu": "Művelődési Ház",
+            "ro": "Casa de Cultură",
+            "en": "Culture House"
+          },
+          "coords": [
+            25.849,
+            45.032
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine Abendvorstellung.",
+            "hu": "Ellenőrizze a programot, hátha van esti előadás.",
+            "ro": "Verificați programul, poate prindeți un spectacol de seară.",
+            "en": "Check the schedule, you might catch an evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            25.856,
+            45.0295
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhigerer, intimerer Ort im Vergleich zur Hauptkirche.",
+            "hu": "Egy csendesebb, meghittebb hely a főtemplomhoz képest.",
+            "ro": "Un loc mai liniștit și mai intim în comparație cu biserica principală.",
+            "en": "A quieter, more intimate spot compared to the main church."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark Băicoi",
+            "hu": "Băicoi központi parkja",
+            "ro": "Parcul Central Băicoi",
+            "en": "Băicoi Central Park"
+          },
+          "coords": [
+            25.861,
+            45.035
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause. Bringen Sie ein Sandwich mit.",
+            "hu": "Ideális egy ebédszünetre. Hozzon magával egy szendvicset.",
+            "ro": "Perfect pentru o pauză de prânz. Aduceți un sandviș.",
+            "en": "Perfect for a lunch break. Bring a sandwich."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmonument",
+            "hu": "Hősök emlékműve",
+            "ro": "Monumentul Eroilor",
+            "en": "Heroes' Monument"
+          },
+          "coords": [
+            25.8595,
+            45.0365
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:52",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung über die lokale Geschichte.",
+            "hu": "Egy pillanatnyi elmélkedés a helyi történelemről.",
+            "ro": "Un moment de reflecție asupra istoriei locale.",
+            "en": "A moment of reflection on the local history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt im Herzen von Băicoi, wo das historische Zentrum seine Geschichten flüstert. Am Vormittag erkunden Sie die beeindruckenden Kirchen der Stadt, die von Glauben und Tradition zeugen. Der Nachmittag ist der Kultur und der Entspannung gewidmet, mit einem Besuch im Kulturhaus und einer ausgedehnten Pause im Zentralpark. Der Tag endet mit einem nachdenklichen Moment am Heldenmonument, das einen Panoramablick über die Stadt bietet.",
+        "hu": "Sétája Băicoi szívében kezdődik, ahol a történelmi központ mesél. A délelőtt folyamán felfedezi a város lenyűgöző templomait, melyek a hitről és a hagyományokról tanúskodnak. A délután a kultúráé és a pihenésé, egy látogatással a művelődési házban és egy kiadós szünettel a központi parkban. A nap a Hősök emlékművénél zárul, ahonnan panorámás kilátás nyílik a városra.",
+        "ro": "Plimbarea dumneavoastră începe în inima orașului Băicoi, unde centrul istoric își șoptește poveștile. Dimineața explorați bisericile impresionante ale orașului, mărturii ale credinței și tradiției. După-amiaza este dedicată culturii și relaxării, cu o vizită la Casa de Cultură și o pauză binemeritată în Parcul Central. Ziua se încheie cu un moment de reculegere la Monumentul Eroilor, care oferă o privire panoramică asupra orașului.",
+        "en": "Your walk begins in the heart of Băicoi, where the historic center whispers its stories. In the morning, you'll explore the city's impressive churches, testaments to faith and tradition. The afternoon is dedicated to culture and relaxation, with a visit to the Culture House and a well-deserved break in the Central Park. The day concludes with a reflective moment at the Heroes' Monument, offering a panoramic view of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici mit Pommes",
+            "tip": "Ein Muss in jedem rumänischen Restaurant, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Kohlrouladen, ein herzhaftes traditionelles Gericht."
+          },
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Kuttelsuppe, für abenteuerlustige Esser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mics sült krumplival",
+            "tip": "Kötelező minden román étteremben, tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Sarmale (Töltött káposzta)",
+            "tip": "Káposztatekercs, egy kiadós, hagyományos étel."
+          },
+          {
+            "name": "Csorba (Pacalleves)",
+            "tip": "A kalandvágyóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici cu cartofi prăjiți",
+            "tip": "Un clasic în orice restaurant românesc, perfect pentru un prânz rapid."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Un fel de mâncare tradițional și consistent."
+          },
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Pentru cei aventuroși din fire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici with fries",
+            "tip": "A must-try in any Romanian restaurant, perfect for a quick lunch."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Cabbage rolls, a hearty traditional dish."
+          },
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Tripe soup, for the adventurous eater."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Provița-Flusses",
+            "tip": "Ein ruhiger Spaziergang abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Băicoi-Wald",
+            "tip": "Verlieren Sie sich in der Natur und lauschen Sie den Vögeln.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang vom Hügel",
+            "tip": "Finden Sie einen Hügel am Stadtrand für eine tolle Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Provița folyó partja",
+            "tip": "Egy csendes séta a városközponton kívül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Băicoi-erdő",
+            "tip": "Vesszen el a természetben és hallgassa a madarakat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a dombról",
+            "tip": "Keressen egy dombot a város szélén a nagyszerű kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Provița",
+            "tip": "O plimbare liniștită departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurea Băicoi",
+            "tip": "Pierdeți-vă în natură și ascultați păsările.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de pe deal",
+            "tip": "Găsiți un deal la marginea orașului pentru o priveliște superbă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Provița River",
+            "tip": "A quiet walk away from the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Băicoi Forest",
+            "tip": "Get lost in nature and listen to the birds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset from a hill",
+            "tip": "Find a hill on the outskirts of town for a great view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokalen Käse."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgemachter Keramik und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi sajtot."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és textileket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și brânzeturi locale."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică și textile lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and local cheese."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for handmade pottery and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Nehmen Sie immer eine Flasche Wasser mit, besonders im Sommer.",
+          "Die meisten Geschäfte und einige Sehenswürdigkeiten können während der Mittagszeit geschlossen sein.",
+          "Fragen Sie nach dem 'meniul zilei' (Tagesmenü) für ein preiswertes Mittagessen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő egyenetlen lehet.",
+          "Mindig legyen önnél egy üveg víz, különösen nyáron.",
+          "A legtöbb üzlet és néhány látnivaló bezárhat ebédidőben.",
+          "Kérje a 'meniul zilei'-t (napi menü) egy olcsó ebédért."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat.",
+          "Luați întotdeauna o sticlă de apă, mai ales vara.",
+          "Majoritatea magazinelor și unele atracții pot fi închise în timpul prânzului.",
+          "Întrebați de 'meniul zilei' pentru un prânz convenabil."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Always carry a bottle of water, especially in summer.",
+          "Most shops and some attractions may be closed during lunchtime.",
+          "Ask for the 'meniul zilei' (menu of the day) for a good value lunch."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Zentrum",
+            "hu": "Történelmi központ",
+            "ro": "Centrul Istoric",
+            "en": "Historic Center"
+          },
+          "coords": [
+            25.851,
+            45.0315
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und erkunden Sie die Gassen zu Fuß.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel gyalog a sikátorokat.",
+            "ro": "Asigurați-vă bicicleta și explorați străduțele pe jos.",
+            "en": "Secure your bike and explore the alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Hl. Kaiser Konstantin und Helena",
+            "hu": "Szent Konstantin és Heléna császárok temploma",
+            "ro": "Biserica Sfinții Împărați Constantin și Elena",
+            "en": "Church of Saints Constantine and Helena"
+          },
+          "coords": [
+            25.8535,
+            45.033
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Anstieg mit dem Fahrrad.",
+            "hu": "Rövid, de megéri feltekerni a dombra.",
+            "ro": "O urcare scurtă, dar care merită efortul pe bicicletă.",
+            "en": "A short but rewarding uphill ride on the bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Ölbohrtürme",
+            "hu": "Történelmi olajfúró tornyok",
+            "ro": "Sondele petroliere istorice",
+            "en": "Historic Oil Derricks"
+          },
+          "coords": [
+            25.885,
+            45.045
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in die Industriegeschichte der Region.",
+            "hu": "Lenyűgöző bepillantás a régió ipari történelmébe.",
+            "ro": "O privire fascinantă în istoria industrială a regiunii.",
+            "en": "A fascinating glimpse into the region's industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Băicoi-Wald",
+            "hu": "Băicoi-erdő",
+            "ro": "Pădurea Băicoi",
+            "en": "Băicoi Forest"
+          },
+          "coords": [
+            25.875,
+            45.015
+          ],
+          "category": "natural features",
+          "arrive_at": "12:16",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick und eine Pause vom Radfahren.",
+            "hu": "Tökéletes egy piknikre és egy kis pihenésre a biciklizés után.",
+            "ro": "Perfect pentru un picnic și o pauză de la pedalat.",
+            "en": "Perfect for a picnic and a break from cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark Băicoi",
+            "hu": "Băicoi központi parkja",
+            "ro": "Parcul Central Băicoi",
+            "en": "Băicoi Central Park"
+          },
+          "coords": [
+            25.861,
+            45.035
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie gemütlich durch den Park, bevor Sie ins Zentrum zurückkehren.",
+            "hu": "Tekerjen egy kényelmeset a parkban, mielőtt visszatér a központba.",
+            "ro": "Pedalați agale prin parc înainte de a vă întoarce în centru.",
+            "en": "Enjoy a leisurely ride through the park before heading back to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmonument",
+            "hu": "Hősök emlékműve",
+            "ro": "Monumentul Eroilor",
+            "en": "Heroes' Monument"
+          },
+          "coords": [
+            25.8595,
+            45.0365
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der letzte Halt bietet eine großartige Aussicht als Belohnung.",
+            "hu": "Az utolsó megálló jutalomként nagyszerű kilátást kínál.",
+            "ro": "Ultima oprire oferă o priveliște minunată ca recompensă.",
+            "en": "The final stop offers a great view as a reward."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im historischen Zentrum und führt Sie schnell zu den sakralen Schätzen der Stadt. Am Vormittag wagen Sie sich weiter hinaus, um die einzigartigen Ölbohrtürme zu entdecken, ein Zeugnis der industriellen Vergangenheit. Der Nachmittag steht im Zeichen der Natur: Sie entspannen im ausgedehnten Băicoi-Wald, bevor Sie durch den Zentralpark zurück ins städtische Leben radeln. Die Tour endet am Heldenmonument mit einem wohlverdienten Panoramablick.",
+        "hu": "Kerékpártúrája a történelmi központból indul, és gyorsan elvezeti a város szakrális kincseihez. Délelőtt távolabbra merészkedik, hogy felfedezze az egyedülálló olajfúró tornyokat, az ipari múlt tanúit. A délután a természet jegyében telik: pihenjen a kiterjedt Băicoi-erdőben, mielőtt a központi parkon keresztül visszateker a városi életbe. A túra a Hősök emlékművénél zárul, egy megérdemelt panorámás kilátással.",
+        "ro": "Turul pe bicicletă începe în centrul istoric și vă duce rapid la comorile sacre ale orașului. Dimineața vă aventurați mai departe pentru a descoperi sondele petroliere unice, o mărturie a trecutului industrial. După-amiaza este dedicată naturii: vă relaxați în vasta Pădure Băicoi înainte de a pedala înapoi spre viața urbană prin Parcul Central. Turul se încheie la Monumentul Eroilor cu o priveliște panoramică binemeritată.",
+        "en": "Your bike tour starts in the historic center, quickly taking you to the city's sacred treasures. In the morning, you'll venture further out to discover the unique oil derricks, a testament to the industrial past. The afternoon is all about nature: relax in the expansive Băicoi Forest before cycling back to urban life through the Central Park. The tour concludes at the Heroes' Monument with a well-earned panoramic view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici mit Pommes",
+            "tip": "Ein Muss in jedem rumänischen Restaurant, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Kohlrouladen, ein herzhaftes traditionelles Gericht."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Käsepastete, ein leckerer Snack für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mics sült krumplival",
+            "tip": "Kötelező minden román étteremben, tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Sarmale (Töltött káposzta)",
+            "tip": "Káposztatekercs, egy kiadós, hagyományos étel."
+          },
+          {
+            "name": "Plăcintă (Sajtos pite)",
+            "tip": "Finom uzsonna."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici cu cartofi prăjiți",
+            "tip": "Un clasic în orice restaurant românesc, perfect pentru un prânz rapid."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Un fel de mâncare tradițional și consistent."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "O gustare delicioasă între mese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici with fries",
+            "tip": "A must-try in any Romanian restaurant, perfect for a quick lunch."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Cabbage rolls, a hearty traditional dish."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Cheese pie, a delicious snack for in-between."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Băicoi-Wald",
+            "tip": "Tiefe Stille, nur von Vogelgezwitscher unterbrochen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Feldwege",
+            "tip": "Erkunden Sie die Wege außerhalb der Stadt für ländliche Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof von St. Nikolaus",
+            "tip": "Ein friedlicher Ort der Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Băicoi-erdő",
+            "tip": "Mély csend, csak madárcsicsergés töri meg.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mezei utak",
+            "tip": "Fedezze fel a városon kívüli utakat a vidéki békéért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Miklós templomkert",
+            "tip": "A béke és elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Băicoi",
+            "tip": "Liniște profundă, întreruptă doar de ciripitul păsărilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Drumuri de țară",
+            "tip": "Explorați cărările din afara orașului pentru liniște rurală.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Bisericii Sf. Nicolae",
+            "tip": "Un loc pașnic pentru reculegere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Băicoi Forest",
+            "tip": "Deep silence, broken only by birdsong.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Country Roads",
+            "tip": "Explore the paths outside the city for rural tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Nicholas Churchyard",
+            "tip": "A peaceful place for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Perfekt, um sich mit Snacks für die Radtour einzudecken."
+          },
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für eventuelle Reparaturen oder Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Tökéletes hely a kerékpártúrához szükséges harapnivalók beszerzésére."
+          },
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Esetleges javításokhoz vagy kiegészítőkhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Perfect pentru a vă aproviziona cu gustări pentru turul cu bicicleta."
+          },
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru eventuale reparații sau accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Perfect for stocking up on snacks for the bike ride."
+          },
+          {
+            "name": "Bike Shop",
+            "tip": "For any necessary repairs or accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nehmen Sie ein kleines Reparaturset mit.",
+          "Einige Straßen können unbefestigt sein, fahren Sie vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, auch bei kurzen Stopps."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Vigyen magával egy kis javítókészletet.",
+          "Néhány út burkolatlan lehet, vezessen óvatosan.",
+          "Mindig zárja le jól a kerékpárját, még rövid megállók esetén is."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Luați cu dumneavoastră un mic kit de reparații.",
+          "Unele drumuri pot fi neasfaltate, conduceți cu prudență.",
+          "Asigurați-vă întotdeauna bicicleta, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Bring a small repair kit with you.",
+          "Some roads may be unpaved, ride with caution.",
+          "Always lock your bike securely, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 19.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historische Ölbohrtürme",
+            "hu": "1. klaszter: Történelmi olajfúró tornyok",
+            "ro": "Cluster 1: Sondele petroliere istorice",
+            "en": "Cluster 1: Historic Oil Derricks"
+          },
+          "coords": [
+            25.885,
+            45.045
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und genießen Sie den ersten Eindruck der Industriegeschichte.",
+            "hu": "Parkoljon le itt, és élvezze az ipari történelem első benyomását.",
+            "ro": "Parcați aici și bucurați-vă de prima impresie a istoriei industriale.",
+            "en": "Park here and enjoy the first impression of the industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Băicoi-Wald (Randbereich)",
+            "hu": "Băicoi-erdő (széle)",
+            "ro": "Pădurea Băicoi (margine)",
+            "en": "Băicoi Forest (edge area)"
+          },
+          "coords": [
+            25.881,
+            45.04
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz der Bohrtürme.",
+            "hu": "Egy rövid séta a fúrótornyok parkolójából.",
+            "ro": "O scurtă plimbare de la parcarea sondelor.",
+            "en": "A short walk from the oil derricks' parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Historisches Zentrum",
+            "hu": "2. klaszter: Történelmi központ",
+            "ro": "Cluster 2: Centrul Istoric",
+            "en": "Cluster 2: Historic Center"
+          },
+          "coords": [
+            25.851,
+            45.0315
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen zentralen Parkplatz für diesen Cluster.",
+            "hu": "Keressen egy központi parkolót ehhez a klaszterhez.",
+            "ro": "Găsiți o parcare centrală pentru acest cluster.",
+            "en": "Find a central parking spot for this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Hl. Kaiser Konstantin und Helena",
+            "hu": "Szent Konstantin és Heléna császárok temploma",
+            "ro": "Biserica Sfinții Împărați Constantin și Elena",
+            "en": "Church of Saints Constantine and Helena"
+          },
+          "coords": [
+            25.8535,
+            45.033
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid séta a főtértől.",
+            "ro": "La doar o scurtă plimbare de piața principală.",
+            "en": "Just a short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            25.852,
+            45.032
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit traditioneller rumänischer Küche.",
+            "hu": "Válasszon egy hagyományos román konyhával rendelkező éttermet.",
+            "ro": "Alegeți un restaurant cu bucătărie tradițională românească.",
+            "en": "Choose a restaurant with traditional Romanian cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Zentralpark & Monument",
+            "hu": "3. klaszter: Központi Park és Emlékmű",
+            "ro": "Cluster 3: Parcul Central & Monument",
+            "en": "Cluster 3: Central Park & Monument"
+          },
+          "coords": [
+            25.861,
+            45.035
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Park und genießen Sie den grünen Abschluss des Tages.",
+            "hu": "Parkoljon a parknál, és élvezze a nap zöld lezárását.",
+            "ro": "Parcați lângă parc și bucurați-vă de finalul verde al zilei.",
+            "en": "Park by the park and enjoy the green end to your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmonument",
+            "hu": "Hősök emlékműve",
+            "ro": "Monumentul Eroilor",
+            "en": "Heroes' Monument"
+          },
+          "coords": [
+            25.8595,
+            45.0365
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park zum höchsten Punkt für die Aussicht.",
+            "hu": "Rövid séta a parkból a legmagasabb pontra a kilátásért.",
+            "ro": "O scurtă plimbare din parc până la cel mai înalt punct pentru priveliște.",
+            "en": "A short walk from the park to the highest point for the view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autoreise beginnt außerhalb des Zentrums bei den faszinierenden Ölbohrtürmen, einem einzigartigen industriellen Erbe. Nach einem kurzen Waldspaziergang fahren Sie ins Herz der Stadt, wo Sie das historische Zentrum und seine Kirchen zu Fuß erkunden. Am Nachmittag fahren Sie zum grünen Cluster der Stadt, dem Zentralpark, und beenden den Tag mit der nachdenklichen Atmosphäre und der Aussicht vom Heldenmonument.",
+        "hu": "Autós utazása a központon kívül, a lenyűgöző olajfúró tornyoknál kezdődik, egy egyedülálló ipari örökségnél. Egy rövid erdei séta után a város szívébe hajt, ahol gyalog fedezi fel a történelmi központot és templomait. Délután a város zöld klaszterébe, a központi parkba látogat, és a napot a Hősök emlékművének elgondolkodtató hangulatával és kilátásával zárja.",
+        "ro": "Excursia cu mașina începe în afara centrului, la fascinantele sonde petroliere, o moștenire industrială unică. După o scurtă plimbare prin pădure, conduceți în inima orașului, unde explorați pe jos centrul istoric și bisericile sale. După-amiaza, vă deplasați spre clusterul verde al orașului, Parcul Central, și încheiați ziua cu atmosfera reflexivă și priveliștea de la Monumentul Eroilor.",
+        "en": "Your car journey begins outside the center at the fascinating oil derricks, a unique industrial heritage. After a short forest walk, you'll drive into the heart of the city to explore the historic center and its churches on foot. In the afternoon, you'll move to the city's green cluster, the Central Park, and end the day with the reflective atmosphere and views from the Heroes' Monument."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici mit Pommes",
+            "tip": "Ein Muss in jedem rumänischen Restaurant, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Kohlrouladen, ein herzhaftes traditionelles Gericht."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Frittierte Quarkknödel mit saurer Sahne und Marmelade, ein köstliches Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mics sült krumplival",
+            "tip": "Kötelező minden román étteremben, tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Sarmale (Töltött káposzta)",
+            "tip": "Káposztatekercs, egy kiadós, hagyományos étel."
+          },
+          {
+            "name": "Papanași (Túrógombóc)",
+            "tip": "Sült túrógombóc tejföllel és lekvárral, isteni desszert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici cu cartofi prăjiți",
+            "tip": "Un clasic în orice restaurant românesc, perfect pentru un prânz rapid."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Un fel de mâncare tradițional și consistent."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici with fries",
+            "tip": "A must-try in any Romanian restaurant, perfect for a quick lunch."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Cabbage rolls, a hearty traditional dish."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Fried cheese dumplings with sour cream and jam, a delicious dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Băicoi-Wald",
+            "tip": "Fahren Sie ein Stück hinein und genießen Sie die absolute Stille.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Aussichtspunkt bei den Bohrtürmen",
+            "tip": "Ein überraschend ruhiger Ort mit Blick auf die Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nebenstraßen",
+            "tip": "Machen Sie einen Abstecher in die Wohngebiete für einen Einblick ins lokale Leben.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Băicoi-erdő",
+            "tip": "Hajtson be egy kicsit, és élvezze a teljes csendet.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kilátópont a fúrótornyoknál",
+            "tip": "Meglepően csendes hely, kilátással a tájra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mellékutcák",
+            "tip": "Tegyen egy kitérőt a lakónegyedekbe, hogy bepillantást nyerjen a helyi életbe.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Băicoi",
+            "tip": "Conduceți puțin în interior și bucurați-vă de liniștea absolută.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Punct de belvedere la sonde",
+            "tip": "Un loc surprinzător de liniștit cu vedere la peisaj.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străzi lăturalnice",
+            "tip": "Faceți un ocol prin zonele rezidențiale pentru o privire în viața locală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Băicoi Forest",
+            "tip": "Drive a little way in and enjoy the absolute silence.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Viewpoint near the derricks",
+            "tip": "A surprisingly quiet spot with a view of the landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Side streets",
+            "tip": "Take a detour into the residential areas for a glimpse of local life.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Suchen Sie am Stadtrand nach Bauernhöfen, die Produkte direkt verkaufen."
+          },
+          {
+            "name": "Supermarkt",
+            "tip": "Decken Sie sich mit rumänischen Snacks für die Heimfahrt ein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "Keressen a város szélén gazdaságokat, amelyek közvetlenül értékesítik termékeiket."
+          },
+          {
+            "name": "Szupermarket",
+            "tip": "Vásároljon be román finomságokból a hazaútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole",
+            "tip": "Căutați la marginea orașului ferme care vând produse direct."
+          },
+          {
+            "name": "Supermarket",
+            "tip": "Aprovizionați-vă cu gustări românești pentru drumul spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Look for farms on the outskirts of town that sell produce directly."
+          },
+          {
+            "name": "Supermarket",
+            "tip": "Stock up on Romanian snacks for the journey home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine Offline-Karte herunter, da der Handyempfang lückenhaft sein kann.",
+          "Achten Sie auf die Parkvorschriften im Stadtzentrum.",
+          "Tanken Sie, bevor Sie die Stadt verlassen, die Tankstellendichte kann gering sein.",
+          "Die Straßen können eng und kurvig sein, fahren Sie vorausschauend."
+        ],
+        "hu": [
+          "Töltsön le egy offline térképet, mivel a mobil lefedettség hiányos lehet.",
+          "Ügyeljen a parkolási szabályokra a városközpontban.",
+          "Tankoljon, mielőtt elhagyja a várost, a benzinkutak sűrűsége alacsony lehet.",
+          "Az utak szűkek és kanyargósak lehetnek, vezessen előrelátóan."
+        ],
+        "ro": [
+          "Descărcați o hartă offline, deoarece semnalul poate fi slab.",
+          "Fiți atenți la regulile de parcare în centrul orașului.",
+          "Alimentați înainte de a părăsi orașul, densitatea benzinăriilor poate fi redusă.",
+          "Drumurile pot fi înguste și sinuoase, conduceți preventiv."
+        ],
+        "en": [
+          "Download an offline map, as cell reception can be spotty.",
+          "Pay attention to parking regulations in the city center.",
+          "Fill up your tank before leaving the city, as gas stations can be sparse.",
+          "Roads can be narrow and winding, drive with foresight."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum",
+            "hu": "1. klaszter: Történelmi központ",
+            "ro": "Cluster 1: Centrul Istoric",
+            "en": "Cluster 1: Historic Center"
+          },
+          "coords": [
+            25.851,
+            45.0315
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie an der zentralen Haltestelle aus.",
+            "hu": "Szálljon le a központi megállónál.",
+            "ro": "Coborâți la stația centrală.",
+            "en": "Get off at the central stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus",
+            "hu": "Művelődési Ház",
+            "ro": "Casa de Cultură",
+            "en": "Culture House"
+          },
+          "coords": [
+            25.849,
+            45.032
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Zentrum.",
+            "hu": "Egy rövid séta a központból.",
+            "ro": "O scurtă plimbare din centru.",
+            "en": "A short walk from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            25.856,
+            45.0295
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte Perle zu Fuß.",
+            "hu": "Fedezze fel gyalog ezt az eldugott gyöngyszemet.",
+            "ro": "Descoperiți această perlă ascunsă pe jos.",
+            "en": "Discover this hidden gem on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Park und Monument",
+            "hu": "2. klaszter: Park és emlékmű",
+            "ro": "Cluster 2: Parc și Monument",
+            "en": "Cluster 2: Park and Monument"
+          },
+          "coords": [
+            25.861,
+            45.035
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Park für die Mittagspause.",
+            "hu": "Menjen busszal a parkba ebédidőre.",
+            "ro": "Luați un autobuz spre parc pentru pauza de prânz.",
+            "en": "Take a bus to the park for your lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmonument",
+            "hu": "Hősök emlékműve",
+            "ro": "Monumentul Eroilor",
+            "en": "Heroes' Monument"
+          },
+          "coords": [
+            25.8595,
+            45.0365
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch den Park führt Sie direkt zum Monument.",
+            "hu": "Egy séta a parkon keresztül egyenesen az emlékműhöz vezet.",
+            "ro": "O plimbare prin parc vă duce direct la monument.",
+            "en": "A walk through the park takes you directly to the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Hl. Kaiser Konstantin und Helena",
+            "hu": "Szent Konstantin és Heléna császárok temploma",
+            "ro": "Biserica Sfinții Împărați Constantin și Elena",
+            "en": "Church of Saints Constantine and Helena"
+          },
+          "coords": [
+            25.8535,
+            45.033
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine letzte Busfahrt bringt Sie zu dieser wichtigen Kirche.",
+            "hu": "Egy utolsó buszút visz el ehhez a fontos templomhoz.",
+            "ro": "O ultimă călătorie cu autobuzul vă duce la această biserică importantă.",
+            "en": "A final bus ride takes you to this important church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus erreichen Sie mühelos das Zentrum von Băicoi. Der Vormittag ist ein Spaziergang durch das historische Herz, bei dem Sie Kultur und Spiritualität aufsaugen. Mittags bringt Sie ein weiterer Bus zum weitläufigen Zentralpark, Ihrem Cluster für Entspannung und Gedenken. Nach einer ausgiebigen Pause und einem Besuch am Monument fahren Sie zu Ihrem letzten Ziel, einer der Hauptkirchen, und schließen so den Kreis Ihrer Erkundung.",
+        "hu": "Busszal könnyedén elérheti Băicoi központját. A délelőtt egy séta a történelmi szívben, ahol kultúrát és spiritualitást szívhat magába. Délben egy másik busz viszi a tágas központi parkba, a pihenés és emlékezés helyszínére. Egy kiadós szünet és az emlékmű meglátogatása után utolsó célpontjához, az egyik főtemplomhoz utazik, bezárva ezzel a felfedezés körét.",
+        "ro": "Cu autobuzul, ajungeți fără efort în centrul orașului Băicoi. Dimineața este o plimbare prin inima istorică, absorbind cultură și spiritualitate. La prânz, un alt autobuz vă duce la vastul Parc Central, clusterul dumneavoastră pentru relaxare și comemorare. După o pauză generoasă și o vizită la monument, călătoriți spre destinația finală, una dintre bisericile principale, încheind astfel cercul explorării.",
+        "en": "By bus, you can effortlessly reach the center of Băicoi. The morning is a walk through the historic heart, soaking up culture and spirituality. At noon, another bus takes you to the spacious Central Park, your cluster for relaxation and commemoration. After a generous break and a visit to the monument, you travel to your final destination, one of the main churches, thus closing the circle of your exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi",
+            "tip": "Ein warmer Sesamkringel von einem Straßenstand, perfekt für unterwegs."
+          },
+          {
+            "name": "Mici mit Pommes",
+            "tip": "Ein Muss in jedem rumänischen Restaurant."
+          },
+          {
+            "name": "Ciorbă",
+            "tip": "Probieren Sie eine der vielen sauren Suppen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Covrigi (Perec)",
+            "tip": "Egy meleg szezámmagos perec egy utcai árustól, tökéletes útközben."
+          },
+          {
+            "name": "Mics sült krumplival",
+            "tip": "Kötelező minden román étteremben."
+          },
+          {
+            "name": "Csorba",
+            "tip": "Kóstolja meg a sokféle savanyú leves egyikét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi",
+            "tip": "Un covrig cald de la o tarabă, perfect pentru drum."
+          },
+          {
+            "name": "Mici cu cartofi prăjiți",
+            "tip": "Un clasic în orice restaurant românesc."
+          },
+          {
+            "name": "Ciorbă",
+            "tip": "Încercați una dintre multele ciorbe acrișoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi",
+            "tip": "A warm sesame pretzel from a street stand, perfect for on the go."
+          },
+          {
+            "name": "Mici with fries",
+            "tip": "A must-try in any Romanian restaurant."
+          },
+          {
+            "name": "Ciorbă",
+            "tip": "Try one of the many sour soups."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zentralpark",
+            "tip": "Finden Sie eine ruhige Bank abseits der Hauptwege.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Friedhof",
+            "tip": "Ein Ort der Stille und Geschichte.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Früher Morgen im Zentrum",
+            "tip": "Erleben Sie die Stadt, bevor sie erwacht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi park",
+            "tip": "Keressen egy csendes padot a fő utaktól távol.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Temető",
+            "tip": "A csend és a történelem helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kora reggel a központban",
+            "tip": "Tapasztalja meg a várost, mielőtt felébred.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Central",
+            "tip": "Găsiți o bancă liniștită departe de aleile principale.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cimitirul",
+            "tip": "Un loc de liniște și istorie.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dimineața devreme în centru",
+            "tip": "Experimentați orașul înainte de a se trezi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Park",
+            "tip": "Find a quiet bench away from the main paths.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cemetery",
+            "tip": "A place of silence and history.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Early morning in the center",
+            "tip": "Experience the city before it wakes up.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Erreichbar mit dem Bus, kaufen Sie lokale Spezialitäten."
+          },
+          {
+            "name": "Kioske an Haltestellen",
+            "tip": "Für Getränke und kleine Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Busszal elérhető, vásároljon helyi specialitásokat."
+          },
+          {
+            "name": "Kioszkok a megállókban",
+            "tip": "Italokért és apró harapnivalókért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Accesibilă cu autobuzul, cumpărați specialități locale."
+          },
+          {
+            "name": "Chioșcuri la stații",
+            "tip": "Pentru băuturi și mici gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Accessible by bus, buy local specialties."
+          },
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "For drinks and small snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Haben Sie Kleingeld für Tickets parat, die Sie beim Fahrer kaufen.",
+          "Überprüfen Sie den Fahrplan im Voraus, besonders für den Abend.",
+          "Die Busse können zu Stoßzeiten voll sein, planen Sie entsprechend."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Legyen aprópénz a sofőrnél vásárolt jegyekhez.",
+          "Ellenőrizze előre a menetrendet, különösen estére.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+          "Aveți bani mărunți pentru biletele cumpărate de la șofer.",
+          "Verificați programul în avans, mai ales pentru seară.",
+          "Autobuzele pot fi aglomerate la orele de vârf, planificați în consecință."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Have small change ready for tickets bought from the driver.",
+          "Check the schedule in advance, especially for the evening.",
+          "Buses can be crowded during peak hours, plan accordingly."
+        ]
+      }
+    }
+  }
+}

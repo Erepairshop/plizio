@@ -1,0 +1,1159 @@
+{
+  "city_id": "switzerland-emmen-cities-v2",
+  "anchor": {
+    "name": "Emmen",
+    "coords": [
+      47.076,
+      8.283
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Reussufer-Promenade",
+            "hu": "Reuss-parti sétány",
+            "ro": "Promenada de pe malul râului Reuss",
+            "en": "Reussufer Promenade"
+          },
+          "coords": [
+            8.291,
+            47.078
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem erfrischenden Spaziergang und beobachten Sie die Schwäne.",
+            "hu": "Kezdje a napot egy frissítő sétával, és figyelje a hattyúkat!",
+            "ro": "Începeți ziua cu o plimbare revigorantă și priviți lebedele.",
+            "en": "Start your day with a refreshing walk and watch the swans."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Maria",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            8.285,
+            47.075
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die modernen Glasfenster, die eine besondere Atmosphäre schaffen.",
+            "hu": "Figyelje meg a modern ólomüveg ablakokat, amelyek különleges hangulatot teremtenek.",
+            "ro": "Observați vitraliile moderne care creează o atmosferă specială.",
+            "en": "Notice the modern stained-glass windows that create a special atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstplattform akku",
+            "hu": "akku Művészeti Platform",
+            "ro": "Platforma de artă akku",
+            "en": "akku Art Platform"
+          },
+          "coords": [
+            8.284,
+            47.076
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prüfen Sie das aktuelle Programm auf lokale Künstler und Ausstellungen.",
+            "hu": "Nézze meg az aktuális programot helyi művészek és kiállítások után.",
+            "ro": "Verificați programul actual pentru artiști și expoziții locale.",
+            "en": "Check the current program for local artists and exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Gerliswil",
+            "hu": "Gerliswili kápolna",
+            "ro": "Capela Gerliswil",
+            "en": "Gerliswil Chapel"
+          },
+          "coords": [
+            8.298,
+            47.069
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Ein Ort der Stille. Perfekt für eine kurze Pause vom Trubel der Stadt.",
+            "hu": "A csend helye. Tökéletes egy rövid szünetre a város nyüzsgésétől.",
+            "ro": "Un loc al liniștii. Perfect pentru o scurtă pauză de la agitația orașului.",
+            "en": "A place of silence. Perfect for a short break from the city's hustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Riffigweiher",
+            "hu": "Riffigweiher-tó",
+            "ro": "Iazul Riffigweiher",
+            "en": "Riffigweiher Pond"
+          },
+          "coords": [
+            8.275,
+            47.065
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Umrunden Sie den Teich für eine entspannte Zeit in der Natur.",
+            "hu": "Sétálja körbe a tavat egy pihentető, természetközeli élményért.",
+            "ro": "Faceți o plimbare în jurul iazului pentru un moment relaxant în natură.",
+            "en": "Walk around the pond for a relaxing time in nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleine Emme",
+            "hu": "Kleine Emme folyó",
+            "ro": "Râul Kleine Emme",
+            "en": "Kleine Emme River"
+          },
+          "coords": [
+            8.28,
+            47.08
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Finden Sie einen ruhigen Platz am Ufer, um den Tag ausklingen zu lassen.",
+            "hu": "Keressen egy csendes helyet a parton, hogy lezárja a napot.",
+            "ro": "Găsiți un loc liniștit pe mal pentru a încheia ziua.",
+            "en": "Find a quiet spot on the bank to wind down your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einem belebenden Spaziergang entlang der Reuss. Am Vormittag erkunden Sie das kulturelle Herz von Emmen mit der St. Maria Kirche und der modernen Kunst im akku. Nach dem Mittagessen führt Sie ein längerer Spaziergang zur charmanten Kapelle in Gerliswil. Der Nachmittag ist der Natur gewidmet, mit einer entspannenden Zeit am Riffigweiher und einem abschließenden Halt am Ufer der Kleinen Emme, um die friedliche Atmosphäre zu genießen.",
+        "hu": "A nap egy élénkítő sétával kezdődik a Reuss partján. Délelőtt Emmen kulturális szívét fedezi fel a Szent Mária-templommal és az akku modern művészetével. Ebéd után egy hosszabb séta vezet a bájos Gerliswil-i kápolnához. A délután a természeté, pihenéssel a Riffigweiher tónál és egy utolsó megállóval a Kleine Emme partján, ahol élvezheti a békés hangulatot.",
+        "ro": "Ziua începe cu o plimbare înviorătoare de-a lungul râului Reuss. Dimineața explorați inima culturală a orașului Emmen, cu Biserica Sf. Maria și arta modernă de la akku. După prânz, o plimbare mai lungă vă duce la capela fermecătoare din Gerliswil. După-amiaza este dedicată naturii, cu un timp de relaxare la iazul Riffigweiher și o oprire finală pe malul râului Kleine Emme pentru a vă bucura de atmosfera pașnică.",
+        "en": "The day begins with an invigorating walk along the Reuss. In the morning, you'll explore the cultural heart of Emmen with St. Mary's Church and modern art at akku. After lunch, a longer walk takes you to the charming chapel in Gerliswil. The afternoon is dedicated to nature, with a relaxing time at the Riffigweiher pond and a final stop on the banks of the Kleine Emme to enjoy the peaceful atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Älplermagronen",
+            "tip": "Ein herzhaftes Schweizer Gericht mit Kartoffeln, Makkaroni, Käse und Apfelmus. Suchen Sie nach einem 'Gasthaus' für eine authentische Version."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Älplermagronen",
+            "tip": "Kiadós svájci étel krumplival, makarónival, sajttal és almaszósszal. Keressen egy 'Gasthaus'-t az autentikus változathoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Älplermagronen",
+            "tip": "Un fel de mâncare elvețian consistent cu cartofi, macaroane, brânză și sos de mere. Căutați un 'Gasthaus' pentru o versiune autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Älplermagronen",
+            "tip": "A hearty Swiss dish with potatoes, macaroni, cheese, and apple sauce. Look for a 'Gasthaus' for an authentic version."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Riffigweiher",
+            "tip": "Eine Bank am Ufer bietet einen perfekten Ort für ruhige Momente.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reussufer am frühen Morgen",
+            "tip": "Erleben Sie die Stille, bevor die Stadt erwacht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Riffigweiher-tó",
+            "tip": "Egy pad a parton tökéletes hely a csendes pillanatokhoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reuss-part kora reggel",
+            "tip": "Tapasztalja meg a csendet, mielőtt a város felébred.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Iazul Riffigweiher",
+            "tip": "O bancă pe mal oferă un loc perfect pentru momente de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul Reuss dimineața devreme",
+            "tip": "Experimentați liniștea înainte ca orașul să se trezească.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riffigweiher Pond",
+            "tip": "A bench on the shore offers a perfect spot for quiet moments.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reussufer early in the morning",
+            "tip": "Experience the silence before the city wakes up.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wochenmarkt",
+            "tip": "Suchen Sie nach frischem Käse und handgemachten Produkten. Findet normalerweise samstags statt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti termelői piac",
+            "tip": "Keressen friss sajtot és kézműves termékeket. Általában szombatonként tartják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală locală",
+            "tip": "Căutați brânzeturi proaspete și produse artizanale. De obicei, are loc sâmbăta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Weekly Market",
+            "tip": "Look for fresh cheese and handmade products. Usually held on Saturdays."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Tag viel Gehen beinhaltet.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Prüfen Sie die Öffnungszeiten des akku im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap sok sétával jár.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Előre ellenőrizze az akku nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece ziua implică mult mers pe jos.",
+          "Luați o sticlă de apă reutilizabilă.",
+          "Verificați în avans programul de funcționare al akku."
+        ],
+        "en": [
+          "Wear comfortable shoes as the day involves a lot of walking.",
+          "Bring a reusable water bottle.",
+          "Check the opening hours of akku in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Reussufer-Promenade",
+            "hu": "Reuss-parti sétány",
+            "ro": "Promenada de pe malul râului Reuss",
+            "en": "Reussufer Promenade"
+          },
+          "coords": [
+            8.291,
+            47.078
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Radweg entlang des Flusses ist perfekt für einen sanften Start in den Tag.",
+            "hu": "A folyó menti bicikliút tökéletes a nap lágy indításához.",
+            "ro": "Pista de biciclete de-a lungul râului este perfectă pentru un început lin al zilei.",
+            "en": "The bike path along the river is perfect for a gentle start to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Maria",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            8.285,
+            47.075
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und bewundern Sie die Architektur.",
+            "hu": "Parkolja le a biciklit a közelben, és csodálja meg az építészetet.",
+            "ro": "Parcați bicicleta în apropiere și admirați arhitectura.",
+            "en": "Park your bike nearby and admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstplattform akku",
+            "hu": "akku Művészeti Platform",
+            "ro": "Platforma de artă akku",
+            "en": "akku Art Platform"
+          },
+          "coords": [
+            8.284,
+            47.076
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kultureller Boxenstopp. Inspirierend und oft überraschend.",
+            "hu": "Egy kulturális boxkiállás. Inspiráló és gyakran meglepő.",
+            "ro": "O oprire culturală. Inspirator și adesea surprinzător.",
+            "en": "A cultural pit stop. Inspiring and often surprising."
+          }
+        },
+        {
+          "name": {
+            "de": "Mooshof",
+            "hu": "Mooshof",
+            "ro": "Mooshof",
+            "en": "Mooshof"
+          },
+          "coords": [
+            8.305,
+            47.067
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:07",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein schneller Fotostopp, um dieses historische Gebäude zu sehen.",
+            "hu": "Egy gyors fotómegálló, hogy megnézze ezt a történelmi épületet.",
+            "ro": "O oprire rapidă pentru fotografii pentru a vedea această clădire istorică.",
+            "en": "A quick photo stop to see this historic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Gerliswil",
+            "hu": "Gerliswili kápolna",
+            "ro": "Capela Gerliswil",
+            "en": "Gerliswil Chapel"
+          },
+          "coords": [
+            8.298,
+            47.069
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schöner Kontrast zum belebten Stadtzentrum. Genießen Sie die Ruhe.",
+            "hu": "Szép kontraszt a nyüzsgő városközponthoz képest. Élvezze a csendet.",
+            "ro": "Un contrast plăcut cu centrul aglomerat al orașului. Bucurați-vă de liniște.",
+            "en": "A nice contrast to the busy city center. Enjoy the peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Riffigweiher",
+            "hu": "Riffigweiher-tó",
+            "ro": "Iazul Riffigweiher",
+            "en": "Riffigweiher Pond"
+          },
+          "coords": [
+            8.275,
+            47.065
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Es gibt Bänke mit schöner Aussicht.",
+            "hu": "Tökéletes egy ebédszünetre. Vannak padok szép kilátással.",
+            "ro": "Perfect pentru o pauză de prânz. Există bănci cu o priveliște frumoasă.",
+            "en": "Perfect for a lunch break. There are benches with a nice view."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleine Emme",
+            "hu": "Kleine Emme folyó",
+            "ro": "Râul Kleine Emme",
+            "en": "Kleine Emme River"
+          },
+          "coords": [
+            8.28,
+            47.08
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:47",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Radweg entlang des Flusses für die letzte Etappe der Tour.",
+            "hu": "Kövesse a folyó menti bicikliutat a túra utolsó szakaszán.",
+            "ro": "Urmați pista de biciclete de-a lungul râului pentru ultima parte a turului.",
+            "en": "Follow the bike path along the river for the last leg of the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und beginnen Sie den Tag entlang der Reuss. Die Route führt Sie ins Zentrum zu Kirche und Kunst, bevor es am Vormittag zu historischen Bauten wie dem Mooshof geht. Nach einer stillen Pause in der Kapelle Gerliswil ist der Riffigweiher der ideale Ort für Ihr Mittagspicknick. Der Nachmittag gehört ganz der Natur, während Sie entspannt entlang der Kleinen Emme zurück zum Ausgangspunkt radeln und die Landschaft genießen.",
+        "hu": "Pattanjon biciklire, és kezdje a napot a Reuss mentén. Az útvonal a központba vezet a templomhoz és a művészethez, mielőtt délelőtt olyan történelmi épületekhez ér, mint a Mooshof. A Gerliswil-i kápolnában tartott csendes pihenő után a Riffigweiher-tó ideális hely az ebédpiknikhez. A délután teljes egészében a természeté, miközben kényelmesen teker vissza a kiindulási ponthoz a Kleine Emme mentén, élvezve a tájat.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua de-a lungul râului Reuss. Traseul vă duce în centru, la biserică și artă, înainte de a ajunge la clădiri istorice precum Mooshof în cursul dimineții. După o pauză liniștită la Capela Gerliswil, iazul Riffigweiher este locul ideal pentru un picnic la prânz. După-amiaza este dedicată în întregime naturii, în timp ce pedalați relaxat de-a lungul râului Kleine Emme înapoi la punctul de plecare, bucurându-vă de peisaj.",
+        "en": "Hop on your bike and start the day along the Reuss. The route takes you to the center for church and art before heading to historic buildings like Mooshof in the morning. After a quiet break at Gerliswil Chapel, the Riffigweiher pond is the ideal spot for your lunch picnic. The afternoon is all about nature as you leisurely cycle back to the starting point along the Kleine Emme, enjoying the scenery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Obwohl nicht lokal, ist es ein Schweizer Klassiker. Suchen Sie nach Restaurants, die es mit Rösti servieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Bár nem helyi, de svájci klasszikus. Keressen olyan éttermeket, ahol Rösti-vel tálalják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Deși nu este local, este un clasic elvețian. Căutați restaurante care îl servesc cu Rösti."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Although not local, it's a Swiss classic. Look for restaurants serving it with Rösti."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Kleinen Emme",
+            "tip": "Finden Sie einen abgelegenen Platz für eine ruhige Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Riffigweiher am Mittag",
+            "tip": "Weniger Leute und eine friedliche Atmosphäre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kleine Emme partja",
+            "tip": "Keressen egy félreeső helyet egy csendes pihenőhöz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Riffigweiher-tó délben",
+            "tip": "Kevesebb ember és békés hangulat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Kleine Emme",
+            "tip": "Găsiți un loc retras pentru o pauză liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Iazul Riffigweiher la prânz",
+            "tip": "Mai puțini oameni și o atmosferă pașnică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Kleine Emme",
+            "tip": "Find a secluded spot for a quiet break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Riffigweiher at noon",
+            "tip": "Fewer people and a peaceful atmosphere.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen",
+            "tip": "Halten Sie Ausschau nach Hofläden am Rande der Stadt für lokale Produkte wie Honig oder Eier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmbolt",
+            "tip": "A város szélén figyeljen a farmboltokra, ahol helyi termékeket, például mézet vagy tojást árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de fermă",
+            "tip": "Fiți atenți la magazinele de la fermă de la marginea orașului pentru produse locale, cum ar fi mierea sau ouăle."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shop",
+            "tip": "Look out for farm shops on the edge of town for local products like honey or eggs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Ein Schloss ist unerlässlich, um Ihr Fahrrad während der Besichtigungen zu sichern.",
+          "Die Radwege sind gut ausgeschildert."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "A lakat elengedhetetlen a bicikli lezárásához a látogatások során.",
+          "A kerékpárutak jól ki vannak táblázva."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Un lacăt este esențial pentru a vă asigura bicicleta în timpul vizitelor.",
+          "Pistele de biciclete sunt bine semnalizate."
+        ],
+        "en": [
+          "Check your tire pressure before leaving.",
+          "A lock is essential to secure your bike during visits.",
+          "The bike paths are well-marked."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Natur (Parkplatz Riffigweiher)",
+            "hu": "Természet Klaszter (Riffigweiher parkoló)",
+            "ro": "Cluster Natură (Parcare Riffigweiher)",
+            "en": "Nature Cluster (Riffigweiher Parking)"
+          },
+          "coords": [
+            8.274,
+            47.064
+          ],
+          "category": "parking",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um die Natur zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, és fedezze fel a természetet gyalog.",
+            "ro": "Parcați aici pentru a explora natura pe jos.",
+            "en": "Park here to explore the natural surroundings on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Riffigweiher",
+            "hu": "Riffigweiher-tó",
+            "ro": "Iazul Riffigweiher",
+            "en": "Riffigweiher Pond"
+          },
+          "coords": [
+            8.275,
+            47.065
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer ruhigen Runde um den Teich.",
+            "hu": "Kezdje egy csendes körrel a tó körül.",
+            "ro": "Începeți cu o plimbare liniștită în jurul iazului.",
+            "en": "Start with a quiet loop around the pond."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleine Emme",
+            "hu": "Kleine Emme folyó",
+            "ro": "Râul Kleine Emme",
+            "en": "Kleine Emme River"
+          },
+          "coords": [
+            8.278,
+            47.068
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "10:22",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie zum Flussufer.",
+            "hu": "Egy rövid séta elvisz a folyópartra.",
+            "ro": "O scurtă plimbare vă duce la malul râului.",
+            "en": "A short walk takes you to the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum (Parkplatz)",
+            "hu": "Központ Klaszter (Parkoló)",
+            "ro": "Cluster Centru (Parcare)",
+            "en": "Center Cluster (Parking)"
+          },
+          "coords": [
+            8.286,
+            47.077
+          ],
+          "category": "parking",
+          "arrive_at": "11:22",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Von hier aus sind Kirche, Kunst und die Reuss leicht zu Fuß erreichbar.",
+            "hu": "Innen a templom, a művészet és a Reuss is könnyen elérhető gyalog.",
+            "ro": "De aici, biserica, arta și râul Reuss sunt ușor accesibile pe jos.",
+            "en": "From here, the church, art, and the Reuss river are within easy walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Maria & Kunstplattform akku",
+            "hu": "Szent Mária-templom és akku Művészeti Platform",
+            "ro": "Biserica Sf. Maria & Platforma de artă akku",
+            "en": "St. Mary's Church & akku Art Platform"
+          },
+          "coords": [
+            8.285,
+            47.075
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:27",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie Spiritualität und moderne Kunst an einem Ort.",
+            "hu": "Kombinálja a spiritualitást és a modern művészetet egy helyen.",
+            "ro": "Combinați spiritualitatea și arta modernă într-un singur loc.",
+            "en": "Combine spirituality and modern art in one location."
+          }
+        },
+        {
+          "name": {
+            "de": "Reussufer-Promenade",
+            "hu": "Reuss-parti sétány",
+            "ro": "Promenada de pe malul râului Reuss",
+            "en": "Reussufer Promenade"
+          },
+          "coords": [
+            8.291,
+            47.078
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:02",
+          "stay_min": 145,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für das Mittagessen und einen langen, entspannten Spaziergang.",
+            "hu": "Tökéletes hely ebédhez és egy hosszú, pihentető sétához.",
+            "ro": "Locul perfect pentru prânz și o plimbare lungă și relaxantă.",
+            "en": "The perfect place for lunch and a long, relaxing walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Grünen. Parken Sie am Riffigweiher und erkunden Sie den Teich und die nahe gelegene Kleine Emme zu Fuß. Am späten Vormittag fahren Sie ins Zentrum von Emmen. Dort parken Sie erneut und entdecken den kulturellen Kern der Stadt: die St. Maria Kirche und die Kunstplattform akku. Der Nachmittag ist für einen ausgedehnten Spaziergang und eine lange Pause an der Reussufer-Promenade reserviert, wo Sie die Seele baumeln lassen können.",
+        "hu": "A nap a zöldben kezdődik. Parkoljon a Riffigweiher-tónál, és fedezze fel gyalog a tavat és a közeli Kleine Emme folyót. Késő délelőtt autózzon be Emmen központjába. Parkoljon le újra, és fedezze fel a város kulturális magját: a Szent Mária-templomot és az akku Művészeti Platformot. A délután egy kiadós sétára és egy hosszú pihenőre van fenntartva a Reuss-parti sétányon, ahol kikapcsolódhat.",
+        "ro": "Ziua începe în natură. Parcați la iazul Riffigweiher și explorați iazul și râul Kleine Emme din apropiere pe jos. Spre sfârșitul dimineții, conduceți spre centrul orașului Emmen. Parcați din nou și descoperiți nucleul cultural al orașului: Biserica Sf. Maria și Platforma de artă akku. După-amiaza este rezervată pentru o plimbare extinsă și o pauză lungă pe promenada Reussufer, unde vă puteți relaxa.",
+        "en": "Your day starts in nature. Park at the Riffigweiher pond and explore the pond and the nearby Kleine Emme river on foot. In the late morning, drive to the center of Emmen. Park again and discover the cultural core of the city: St. Mary's Church and the akku Art Platform. The afternoon is reserved for an extended walk and a long break on the Reussufer Promenade, where you can unwind."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Luzerner Chügelipastete",
+            "tip": "Eine Spezialität aus der nahen Stadt Luzern, ein Blätterteiggebäck gefüllt mit Kalbfleisch und Pilzen. Ein Muss!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Luzerni Chügelipastete",
+            "tip": "A közeli Luzern specialitása, egy leveles tészta borjúhússal és gombával töltve. Ezt ki kell próbálni!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Luzerner Chügelipastete",
+            "tip": "O specialitate din orașul apropiat Lucerna, o patiserie din foietaj umplută cu vițel și ciuperci. O necesitate!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Luzerner Chügelipastete",
+            "tip": "A specialty from the nearby city of Lucerne, a puff pastry filled with veal and mushrooms. A must-try!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Am Zusammenfluss von Reuss und Kleiner Emme",
+            "tip": "Ein kraftvoller und doch friedlicher Ort.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kapelle Gerliswil (mit dem Auto erreichbar)",
+            "tip": "Ein kurzer zusätzlicher Halt für absolute Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Reuss és a Kleine Emme összefolyásánál",
+            "tip": "Erőteljes, mégis békés hely.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gerliswil-i kápolna (autóval elérhető)",
+            "tip": "Egy rövid extra megálló a teljes csendért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "La confluența râurilor Reuss și Kleine Emme",
+            "tip": "Un loc puternic, dar pașnic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela Gerliswil (accesibilă cu mașina)",
+            "tip": "O scurtă oprire suplimentară pentru liniște absolută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "At the confluence of the Reuss and Kleine Emme",
+            "tip": "A powerful yet peaceful place.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gerliswil Chapel (accessible by car)",
+            "tip": "A short extra stop for absolute silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Emmen Center",
+            "tip": "Wenn Sie etwas Bestimmtes brauchen, finden Sie hier eine grosse Auswahl an Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emmen Center",
+            "tip": "Ha valami konkrét dologra van szüksége, itt üzletek széles választékát találja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Emmen Center",
+            "tip": "Dacă aveți nevoie de ceva specific, veți găsi o selecție largă de magazine aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Emmen Center",
+            "tip": "If you need something specific, you'll find a wide selection of shops here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-Apps, um freie Plätze zu finden.",
+          "Achten Sie auf die Parkgebühren im Stadtzentrum.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch Orte ausserhalb des Zentrums leicht zu erreichen."
+        ],
+        "hu": [
+          "Használjon parkolóalkalmazásokat a szabad helyek megtalálásához.",
+          "Figyeljen a parkolási díjakra a városközpontban.",
+          "Az autó rugalmasságot ad, hogy a központon kívüli helyeket is könnyen elérje."
+        ],
+        "ro": [
+          "Utilizați aplicații de parcare pentru a găsi locuri libere.",
+          "Fiți atenți la taxele de parcare din centrul orașului.",
+          "O mașină vă oferă flexibilitatea de a ajunge cu ușurință și în locuri din afara centrului."
+        ],
+        "en": [
+          "Use parking apps to find available spots.",
+          "Be mindful of parking fees in the city center.",
+          "A car gives you the flexibility to easily reach places outside the center as well."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Emmenbrücke, Bahnhof Süd",
+            "hu": "Érkezés Emmenbrücke, Déli pályaudvar",
+            "ro": "Sosire Emmenbrücke, Gara de Sud",
+            "en": "Arrival Emmenbrücke, South Station"
+          },
+          "coords": [
+            8.283,
+            47.073
+          ],
+          "category": "transit_stop",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Startpunkt für Ihr Abenteuer mit den öffentlichen Verkehrsmitteln.",
+            "hu": "A tömegközlekedési kaland kiindulópontja.",
+            "ro": "Punctul de plecare pentru aventura dvs. cu transportul public.",
+            "en": "The starting point for your public transport adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Maria",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            8.285,
+            47.075
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der Haltestelle entfernt.",
+            "hu": "Csak egy rövid sétára a megállótól.",
+            "ro": "La doar o scurtă plimbare de stație.",
+            "en": "Just a short walk from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstplattform akku",
+            "hu": "akku Művészeti Platform",
+            "ro": "Platforma de artă akku",
+            "en": "akku Art Platform"
+          },
+          "coords": [
+            8.284,
+            47.076
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:57",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die lokale Kunstszene.",
+            "hu": "Merüljön el a helyi művészeti életben.",
+            "ro": "Cufundați-vă în scena artistică locală.",
+            "en": "Immerse yourself in the local art scene."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Gerliswil",
+            "hu": "Utazás Gerliswilbe",
+            "ro": "Călătorie spre Gerliswil",
+            "en": "Trip to Gerliswil"
+          },
+          "coords": [
+            8.298,
+            47.069
+          ],
+          "category": "transit_stop",
+          "arrive_at": "11:52",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus, um einen anderen Teil von Emmen zu entdecken.",
+            "hu": "Buszozzon el, hogy felfedezze Emmen egy másik részét.",
+            "ro": "Luați autobuzul pentru a descoperi o altă parte a orașului Emmen.",
+            "en": "Take the bus to discover another part of Emmen."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Gerliswil & Mooshof",
+            "hu": "Gerliswili kápolna és Mooshof",
+            "ro": "Capela Gerliswil & Mooshof",
+            "en": "Gerliswil Chapel & Mooshof"
+          },
+          "coords": [
+            8.3,
+            47.068
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zwei historische Sehenswürdigkeiten in unmittelbarer Nähe.",
+            "hu": "Két történelmi látnivaló közvetlen közelben.",
+            "ro": "Două obiective istorice în imediata apropiere.",
+            "en": "Two historic sights in close proximity."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Reuss",
+            "hu": "Utazás a Reusshoz",
+            "ro": "Călătorie spre Reuss",
+            "en": "Trip to the Reuss"
+          },
+          "coords": [
+            8.291,
+            47.078
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:37",
+          "stay_min": 175,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Nachmittag am Fluss.",
+            "hu": "Zárja a napot egy pihentető délutánnal a folyónál.",
+            "ro": "Încheiați ziua cu o după-amiază relaxantă la râu.",
+            "en": "End the day with a relaxing afternoon by the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit einer Tageskarte beginnen Sie Ihre Erkundung im Herzen von Emmen, wo Kirche und Kunst auf Sie warten. Ein kurzer Spaziergang verbindet diese beiden kulturellen Highlights. Gegen Mittag bringt Sie der Bus nach Gerliswil, um die historische Kapelle und den Mooshof zu besichtigen. Der Nachmittag gehört ganz der Entspannung: Eine weitere Busfahrt führt Sie zur Reussufer-Promenade, wo Sie ausgiebig spazieren, ein Café genießen und den Tag ausklingen lassen können.",
+        "hu": "Egy napijeggyel kezdje a felfedezést Emmen szívében, ahol templom és művészet várja. Egy rövid séta köti össze ezt a két kulturális fénypontot. Dél körül a busz elviszi Gerliswilbe, hogy megnézze a történelmi kápolnát és a Mooshofot. A délután a pihenésé: egy újabb buszozás elviszi a Reuss-parti sétányra, ahol bőségesen sétálhat, élvezhet egy kávézót és lezárhatja a napot.",
+        "ro": "Cu un bilet de o zi, începeți explorarea în inima orașului Emmen, unde vă așteaptă biserica și arta. O scurtă plimbare leagă aceste două atracții culturale. În jurul prânzului, autobuzul vă duce la Gerliswil pentru a vizita capela istorică și Mooshof. După-amiaza este dedicată relaxării: o altă călătorie cu autobuzul vă duce la promenada Reussufer, unde vă puteți plimba, savura o cafea și încheia ziua.",
+        "en": "With a day ticket, you'll start your exploration in the heart of Emmen, where church and art await. A short walk connects these two cultural highlights. Around noon, the bus takes you to Gerliswil to visit the historic chapel and Mooshof. The afternoon is all about relaxation: another bus ride takes you to the Reussufer Promenade, where you can take a long walk, enjoy a café, and wind down your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schweizer Schokolade",
+            "tip": "Kaufen Sie in einer Bäckerei oder einem Supermarkt einige Tafeln als süssen Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svájci csokoládé",
+            "tip": "Vásároljon néhány táblával egy pékségben vagy szupermarketben édes nasiként útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciocolată elvețiană",
+            "tip": "Cumpărați câteva tablete de la o brutărie sau un supermarket ca o gustare dulce pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Swiss Chocolate",
+            "tip": "Buy a few bars at a bakery or supermarket for a sweet snack on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Fahrt mit dem Bus durch die Vororte",
+            "tip": "Beobachten Sie das alltägliche Leben aus dem Fenster.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kapelle Gerliswil",
+            "tip": "Ein Moment der Stille, bevor es weitergeht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a külvárosban",
+            "tip": "Figyelje a mindennapi életet az ablakból.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gerliswil-i kápolna",
+            "tip": "Egy pillanatnyi csend, mielőtt továbbmegy.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O călătorie cu autobuzul prin suburbii",
+            "tip": "Priviți viața de zi cu zi pe fereastră.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Capela Gerliswil",
+            "tip": "Un moment de liniște înainte de a merge mai departe.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bus ride through the suburbs",
+            "tip": "Watch everyday life from the window.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gerliswil Chapel",
+            "tip": "A moment of silence before moving on.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Ideal für ein schnelles Getränk oder eine Zeitung für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bódé a pályaudvaron",
+            "tip": "Ideális egy gyors italhoz vagy újsághoz az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Ideal pentru o băutură rapidă sau un ziar pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the train station",
+            "tip": "Ideal for a quick drink or a newspaper for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die Fahrplan-App der lokalen Verkehrsbetriebe herunter.",
+          "Achten Sie auf die letzte Busverbindung zurück zu Ihrem Ausgangspunkt."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a helyi közlekedési vállalat menetrend-alkalmazását.",
+          "Figyeljen az utolsó buszjáratra vissza a kiindulási ponthoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația cu orarul companiei locale de transport.",
+          "Fiți atenți la ultima legătură de autobuz înapoi la punctul de plecare."
+        ],
+        "en": [
+          "Buy a day ticket for unlimited travel.",
+          "Download the local transport company's schedule app.",
+          "Pay attention to the last bus connection back to your starting point."
+        ]
+      }
+    }
+  }
+}

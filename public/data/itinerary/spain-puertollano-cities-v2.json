@@ -1,0 +1,1017 @@
+{
+  "city_id": "spain-puertollano-cities-v2",
+  "anchor": {
+    "name": "Puertollano",
+    "coords": [
+      -4.1066,
+      38.6833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Beginnen Sie am Paseo de San Gregorio",
+            "hu": "Kezdje a napot a Paseo de San Gregorio sétányon",
+            "ro": "Începeți la Paseo de San Gregorio",
+            "en": "Start at Paseo de San Gregorio"
+          },
+          "coords": [
+            -4.1085,
+            38.6862
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Morgenruhe und die botanischen Gärten.",
+            "hu": "Élvezze a reggeli nyugalmat és a botanikus kerteket.",
+            "ro": "Bucurați-vă de liniștea dimineții și de grădinile botanice.",
+            "en": "Enjoy the morning tranquility and the botanical gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente Agria",
+            "hu": "Fuente Agria (Savanyú kút)",
+            "ro": "Fuente Agria",
+            "en": "Fuente Agria (Sour Fountain)"
+          },
+          "coords": [
+            -4.1075,
+            38.6855
+          ],
+          "category": "natural features",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie das berühmte eisenhaltige Wasser.",
+            "hu": "Kóstolja meg a híres, vastartalmú vizet.",
+            "ro": "Gustați faimoasa apă bogată în fier.",
+            "en": "Taste the famous iron-rich water."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento al Minero",
+            "hu": "A Bányász Emlékműve",
+            "ro": "Monumentul Minerului",
+            "en": "Monument to the Miner"
+          },
+          "coords": [
+            -4.1092,
+            38.6871
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:24",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein wichtiges Symbol, das die Identität der Stadt ehrt.",
+            "hu": "Fontos szimbólum, amely a város identitását dicsőíti.",
+            "ro": "Un simbol important care onorează identitatea orașului.",
+            "en": "An important symbol honoring the city's identity."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            -4.1111,
+            38.6885
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a gótikus építészetet és a békés légkört.",
+            "ro": "Admirați arhitectura gotică și atmosfera liniștită.",
+            "en": "Admire the Gothic architecture and peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum",
+            "hu": "Bányászati Múzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            -4.1155,
+            38.6923
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein Muss, um die industrielle Vergangenheit der Stadt zu verstehen.",
+            "hu": "Kötelező látnivaló a város ipari múltjának megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege trecutul industrial al orașului.",
+            "en": "A must-visit to understand the city's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillete de Santa María",
+            "hu": "Castillete de Santa María aknatorony",
+            "ro": "Castillete de Santa María",
+            "en": "Castillete de Santa María headframe"
+          },
+          "coords": [
+            -4.1165,
+            38.6931
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein ikonisches Wahrzeichen der Bergbau-Ära.",
+            "hu": "A bányászkorszak ikonikus mérföldköve.",
+            "ro": "Un punct de reper iconic al erei miniere.",
+            "en": "An iconic landmark of the mining era."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Pedro Almodóvar",
+            "hu": "Pedro Almodóvar Auditórium",
+            "ro": "Auditoriul Pedro Almodóvar",
+            "en": "Pedro Almodóvar Auditorium"
+          },
+          "coords": [
+            -4.1051,
+            38.6841
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:20",
+          "stay_min": 85,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm für eine Abendvorstellung.",
+            "hu": "Nézze meg az esti előadások műsorát.",
+            "ro": "Verificați programul pentru un spectacol de seară.",
+            "en": "Check the schedule for an evening performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im grünen Herzen von Puertollano, dem Paseo de San Gregorio. Entdecken Sie die Bergbau-Seele der Stadt am Monumento al Minero und der Fuente Agria. Tauchen Sie mittags im Bergbaumuseum tief in die lokale Geschichte ein. Beenden Sie Ihren Tag mit einem kulturellen Höhepunkt im Auditorio, das dem berühmtesten Sohn der Region gewidmet ist.",
+        "hu": "Kezdje a napot Puertollano zöld szívében, a Paseo de San Gregorio sétányon. Fedezze fel a város bányászlelkét a Bányász Emlékműnél és a Fuente Agria kútnál. Délben merüljön el a helyi történelemben a Bányászati Múzeumban. Zárja a napot egy kulturális fényponttal a régió leghíresebb szülöttjének szentelt auditóriumban.",
+        "ro": "Începeți ziua în inima verde a orașului Puertollano, Paseo de San Gregorio. Descoperiți sufletul minier al orașului la Monumentul Minerului și Fuente Agria. La prânz, aprofundați istoria locală la Muzeul Mineritului. Încheiați ziua cu un punct culminant cultural la Auditoriul dedicat celui mai faimos fiu al regiunii.",
+        "en": "Start your day in the green heart of Puertollano, the Paseo de San Gregorio. Discover the city's mining soul at the Monumento al Minero and Fuente Agria. At midday, delve deep into local history at the Mining Museum. End your day with a cultural highlight at the Auditorium dedicated to the region's most famous son."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pisto Manchego",
+            "tip": "Ein herzhaftes Gemüsegericht, perfekt für ein leichtes Mittagessen. Probieren Sie es im Asador de Puchero."
+          },
+          {
+            "name": "Migas",
+            "tip": "Ein traditionelles Hirten-Gericht aus Brotkrumen, ideal für einen kühleren Tag."
+          },
+          {
+            "name": "Gachas Manchegas",
+            "tip": "Ein rustikales Gericht aus Platterbsenmehl, das die ländliche Küche widerspiegelt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pisto Manchego",
+            "tip": "Szívből jövő zöldségétel, tökéletes egy könnyű ebédhez. Kóstolja meg az Asador de Puchero-ban."
+          },
+          {
+            "name": "Migas",
+            "tip": "Hagyományos pásztorétel kenyérmorzsából, ideális egy hűvösebb napra."
+          },
+          {
+            "name": "Gachas Manchegas",
+            "tip": "Rusztikus étel szegletes lednek lisztjéből, amely a vidéki konyhát tükrözi."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pisto Manchego",
+            "tip": "Un fel de mâncare consistent cu legume, perfect pentru un prânz ușor. Încercați-l la Asador de Puchero."
+          },
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare tradițional ciobănesc din pesmet, ideal pentru o zi mai răcoroasă."
+          },
+          {
+            "name": "Gachas Manchegas",
+            "tip": "Un preparat rustic din făină de mazăre, reflectând bucătăria rurală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pisto Manchego",
+            "tip": "A hearty vegetable dish, perfect for a light lunch. Try it at Asador de Puchero."
+          },
+          {
+            "name": "Migas",
+            "tip": "A traditional shepherd's dish made from breadcrumbs, ideal for a cooler day."
+          },
+          {
+            "name": "Gachas Manchegas",
+            "tip": "A rustic dish made from grass pea flour, reflecting the rural cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo de San Gregorio",
+            "tip": "Finden Sie eine ruhige Bank im botanischen Gartenbereich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirche Mariä Himmelfahrt",
+            "tip": "Ein Moment der Stille in diesem historischen Gotteshaus.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ermita de la Virgen de Gracia",
+            "tip": "Ein friedlicher Ort am Rande der Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo de San Gregorio",
+            "tip": "Keressen egy csendes padot a botanikus kert részlegében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Nagyboldogasszony-templom",
+            "tip": "Egy csendes pillanat ebben a történelmi szentélyben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ermita de la Virgen de Gracia",
+            "tip": "Békés hely a város szélén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo de San Gregorio",
+            "tip": "Găsiți o bancă liniștită în zona grădinii botanice.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Adormirea Maicii Domnului",
+            "tip": "Un moment de liniște în acest lăcaș de cult istoric.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ermita de la Virgen de Gracia",
+            "tip": "Un loc pașnic la marginea orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo de San Gregorio",
+            "tip": "Find a quiet bench in the botanical garden section.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church of the Assumption",
+            "tip": "A moment of silence in this historic place of worship.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ermita de la Virgen de Gracia",
+            "tip": "A peaceful spot on the edge of the city.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Suchen Sie nach handgefertigter Keramik mit Motiven aus La Mancha."
+          },
+          {
+            "name": "Wein aus Valdepeñas",
+            "tip": "Die nahegelegene Weinregion bietet exzellente Rotweine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keressen kézzel készített kerámiát La Mancha motívumokkal."
+          },
+          {
+            "name": "Valdepeñas-i bor",
+            "tip": "A közeli borvidék kiváló vörösborokat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică lucrată manual cu motive din La Mancha."
+          },
+          {
+            "name": "Vin din Valdepeñas",
+            "tip": "Regiunea viticolă din apropiere oferă vinuri roșii excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Ceramics",
+            "tip": "Look for handmade pottery with La Mancha motifs."
+          },
+          {
+            "name": "Wine from Valdepeñas",
+            "tip": "The nearby wine region offers excellent red wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum und die Bergbau-Stätten einige Gehminuten voneinander entfernt sind.",
+          "Planen Sie genügend Zeit für das Bergbaumuseum ein, es ist sehr informativ.",
+          "Die meisten Geschäfte halten eine Siesta am Nachmittag, planen Sie Ihre Einkäufe entsprechend."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont és a bányászati helyszínek némi sétára vannak egymástól.",
+          "Szánjon elegendő időt a Bányászati Múzeumra, nagyon informatív.",
+          "A legtöbb üzlet délután sziesztát tart, tervezze meg a vásárlást ennek megfelelően."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului și siturile miniere sunt la o oarecare distanță de mers pe jos.",
+          "Alocați suficient timp pentru Muzeul Mineritului, este foarte informativ.",
+          "Majoritatea magazinelor respectă siesta de după-amiază, planificați-vă cumpărăturile în consecință."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the city center and the mining sites are a bit of a walk apart.",
+          "Allow plenty of time for the Mining Museum; it's very informative.",
+          "Most shops observe an afternoon siesta, so plan your shopping accordingly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Auditorio Pedro Almodóvar",
+            "hu": "Pedro Almodóvar Auditórium",
+            "ro": "Auditoriul Pedro Almodóvar",
+            "en": "Pedro Almodóvar Auditorium"
+          },
+          "coords": [
+            -4.1051,
+            38.6841
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Paseo de San Gregorio",
+            "hu": "Paseo de San Gregorio",
+            "ro": "Paseo de San Gregorio",
+            "en": "Paseo de San Gregorio"
+          },
+          "coords": [
+            -4.1085,
+            38.6862
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8
+        },
+        {
+          "name": {
+            "de": "Fuente Agria",
+            "hu": "Fuente Agria",
+            "ro": "Fuente Agria",
+            "en": "Fuente Agria"
+          },
+          "coords": [
+            -4.1075,
+            38.6855
+          ],
+          "category": "natural features",
+          "arrive_at": "10:21",
+          "stay_min": 20,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Monumento al Minero",
+            "hu": "A Bányász Emlékműve",
+            "ro": "Monumentul Minerului",
+            "en": "Monument to the Miner"
+          },
+          "coords": [
+            -4.1092,
+            38.6871
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:43",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            -4.1111,
+            38.6885
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum",
+            "hu": "Bányászati Múzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            -4.1155,
+            38.6923
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name": {
+            "de": "Castillete de Santa María",
+            "hu": "Castillete de Santa María aknatorony",
+            "ro": "Castillete de Santa María",
+            "en": "Castillete de Santa María headframe"
+          },
+          "coords": [
+            -4.1165,
+            38.6931
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:22",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Ermita de la Virgen de Gracia",
+            "hu": "Ermita de la Virgen de Gracia",
+            "ro": "Ermita de la Virgen de Gracia",
+            "en": "Ermita de la Virgen de Gracia"
+          },
+          "coords": [
+            -4.1,
+            38.681
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 5.6
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour am kulturellen Wahrzeichen, dem Auditorio. Radeln Sie durch den zentralen Paseo und entdecken Sie die historischen Schätze im Herzen der Stadt. Nach dem Mittagessen tauchen Sie in die Bergbaugeschichte ein, bevor Sie eine längere Fahrt zur ruhigen Ermita de la Virgen de Gracia unternehmen, die einen friedlichen Abschluss Ihrer Erkundung bietet.",
+        "hu": "Pattanjon nyeregbe, és kezdje a túrát a kulturális nevezetességnél, az Auditóriumnál. Tekerjen át a központi sétányon, és fedezze fel a város szívében rejlő történelmi kincseket. Ebéd után merüljön el a bányászat történetében, majd tegyen egy hosszabb utat a békés Ermita de la Virgen de Gracia kápolnához, amely békés lezárása a felfedezésnek.",
+        "ro": "Urcați-vă în șa și începeți turul la reperul cultural, Auditoriul. Pedalați prin promenada centrală și descoperiți comorile istorice din inima orașului. După prânz, aprofundați istoria minieră înainte de o plimbare mai lungă către liniștita Ermita de la Virgen de Gracia pentru o încheiere pașnică a explorării.",
+        "en": "Hop on your bike and start your tour at the cultural landmark, the Auditorium. Cycle through the central promenade and discover the historic treasures in the heart of the city. After lunch, delve into mining history before a longer ride to the tranquil Ermita de la Virgen de Gracia for a peaceful end to your exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Obwohl nicht am Meer, ist ein Tintenfischsandwich eine beliebte Stärkung für unterwegs."
+          },
+          {
+            "name": "Queso Manchego",
+            "tip": "Probieren Sie den weltberühmten Käse der Region in einer lokalen Bar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Bár nem tengerparti város, a tintahalas szendvics népszerű harapnivaló útközben."
+          },
+          {
+            "name": "Queso Manchego",
+            "tip": "Kóstolja meg a régió világhírű sajtját egy helyi bárban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Deși nu este la mare, un sandviș cu calamar este o gustare populară pentru drum."
+          },
+          {
+            "name": "Queso Manchego",
+            "tip": "Gustați brânza de renume mondial a regiunii într-un bar local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Although not by the sea, a squid sandwich is a popular snack on the go."
+          },
+          {
+            "name": "Queso Manchego",
+            "tip": "Taste the region's world-famous cheese at a local bar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Umgebung der Ermita de la Virgen de Gracia",
+            "tip": "Genießen Sie die Ruhe abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Später Nachmittag am Paseo de San Gregorio",
+            "tip": "Weniger überlaufen als am Vormittag.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Ermita de la Virgen de Gracia környéke",
+            "tip": "Élvezze a csendet a városközponttól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Késő délután a Paseo de San Gregorio-n",
+            "tip": "Kevésbé zsúfolt, mint délelőtt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Împrejurimile Ermitei de la Virgen de Gracia",
+            "tip": "Bucurați-vă de liniște departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "După-amiaza târziu la Paseo de San Gregorio",
+            "tip": "Mai puțin aglomerat decât dimineața.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Surroundings of Ermita de la Virgen de Gracia",
+            "tip": "Enjoy the quiet away from the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Late afternoon at Paseo de San Gregorio",
+            "tip": "Less crowded than in the morning.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bergbau-Souvenirs",
+            "tip": "Im Museumsshop finden Sie einzigartige Andenken an die industrielle Vergangenheit."
+          },
+          {
+            "name": "Handwerksprodukte aus Olivenholz",
+            "tip": "Die Region ist bekannt für ihre Olivenhaine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bányászati szuvenírek",
+            "tip": "A múzeumi boltban egyedi emléktárgyakat talál az ipari múltról."
+          },
+          {
+            "name": "Olajfából készült kézműves termékek",
+            "tip": "A régió híres olajfaligeteiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri miniere",
+            "tip": "La magazinul muzeului veți găsi amintiri unice despre trecutul industrial."
+          },
+          {
+            "name": "Produse artizanale din lemn de măslin",
+            "tip": "Regiunea este cunoscută pentru plantațiile de măslini."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mining souvenirs",
+            "tip": "At the museum shop, you'll find unique mementos of the industrial past."
+          },
+          {
+            "name": "Olive wood crafts",
+            "tip": "The region is known for its olive groves."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein gutes Schloss für Ihr Fahrrad mit.",
+          "Die Straßen können im Zentrum eng sein, fahren Sie vorsichtig.",
+          "Eine Wasserflasche ist unerlässlich, besonders für die Fahrt zur Ermita."
+        ],
+        "hu": [
+          "Hozzon magával egy jó lakatot a kerékpárjához.",
+          "Az utcák szűkek lehetnek a központban, vezessen óvatosan.",
+          "Egy kulacs elengedhetetlen, különösen az Ermitához vezető úton."
+        ],
+        "ro": [
+          "Aduceți un lacăt bun pentru bicicletă.",
+          "Străzile pot fi înguste în centru, conduceți cu prudență.",
+          "O sticlă de apă este esențială, mai ales pentru drumul spre Ermita."
+        ],
+        "en": [
+          "Bring a good lock for your bike.",
+          "The streets can be narrow in the center, ride with caution.",
+          "A water bottle is essential, especially for the ride to the Ermita."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Bergbau: Bergbaumuseum",
+            "hu": "Bányászati klaszter: Bányászati Múzeum",
+            "ro": "Cluster Minier: Muzeul Mineritului",
+            "en": "Mining Cluster: Mining Museum"
+          },
+          "coords": [
+            -4.1155,
+            38.6923
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie das Industrie-Erbe.",
+            "hu": "Parkoljon itt, és fedezze fel az ipari örökséget.",
+            "ro": "Parcați aici și explorați moștenirea industrială.",
+            "en": "Park here and explore the industrial heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillete de Santa María",
+            "hu": "Castillete de Santa María aknatorony",
+            "ro": "Castillete de Santa María",
+            "en": "Castillete de Santa María headframe"
+          },
+          "coords": [
+            -4.1165,
+            38.6931
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Kirche Mariä Himmelfahrt",
+            "hu": "Központi klaszter: Nagyboldogasszony-templom",
+            "ro": "Cluster Central: Biserica Adormirea Maicii Domnului",
+            "en": "Center Cluster: Church of the Assumption"
+          },
+          "coords": [
+            -4.1111,
+            38.6885
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Zentrums und spazieren Sie.",
+            "hu": "Parkoljon a központ közelében és sétáljon.",
+            "ro": "Parcați lângă centru și plimbați-vă.",
+            "en": "Park near the center and walk around."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento al Minero",
+            "hu": "A Bányász Emlékműve",
+            "ro": "Monumentul Minerului",
+            "en": "Monument to the Miner"
+          },
+          "coords": [
+            -4.1092,
+            38.6871
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:26",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Paseo de San Gregorio & Fuente Agria",
+            "hu": "Paseo de San Gregorio és Fuente Agria",
+            "ro": "Paseo de San Gregorio & Fuente Agria",
+            "en": "Paseo de San Gregorio & Fuente Agria"
+          },
+          "coords": [
+            -4.1085,
+            38.6862
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:44",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Mittagspause.",
+            "hu": "Ideális hely egy ebédszünetre.",
+            "ro": "Un loc ideal pentru o pauză de prânz.",
+            "en": "An ideal spot for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Kultur: Auditorio Pedro Almodóvar",
+            "hu": "Kulturális klaszter: Pedro Almodóvar Auditórium",
+            "ro": "Cluster Cultural: Auditoriul Pedro Almodóvar",
+            "en": "Culture Cluster: Pedro Almodóvar Auditorium"
+          },
+          "coords": [
+            -4.1051,
+            38.6841
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Ermita de la Virgen de Gracia",
+            "hu": "Ermita de la Virgen de Gracia",
+            "ro": "Ermita de la Virgen de Gracia",
+            "en": "Ermita de la Virgen de Gracia"
+          },
+          "coords": [
+            -4.1,
+            38.681
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:21",
+          "stay_min": 129,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.6,
+          "hop_mode": "car"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um Puertollano in Clustern zu erkunden. Beginnen Sie im Norden bei den Zeugnissen der Bergbaugeschichte. Fahren Sie dann ins Zentrum für einen Spaziergang durch das historische Herz, einschließlich einer entspannten Mittagspause im Park. Der Nachmittag ist der Kultur im Süden gewidmet, mit einem Besuch des modernen Auditoriums und der friedlichen Ermita.",
+        "hu": "Használja ki az autó rugalmasságát, és fedezze fel Puertollanót klaszterekben. Kezdje északon a bányászati múlt emlékeinél. Ezután hajtson a központba egy sétára a történelmi szívben, beleértve egy pihentető ebédszünetet a parkban. A délután a kultúráé délen, a modern auditórium és a békés Ermita meglátogatásával.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a explora Puertollano în clustere. Începeți în nord, la mărturiile istoriei miniere. Apoi, conduceți spre centru pentru o plimbare prin inima istorică, incluzând o pauză de prânz relaxantă în parc. După-amiaza este dedicată culturii în sud, cu o vizită la modernul Auditorium și la pașnica Ermita.",
+        "en": "Use the flexibility of the car to explore Puertollano in clusters. Start in the north at the testimonies of mining history. Then drive to the center for a walk through the historic heart, including a relaxing lunch break in the park. The afternoon is dedicated to culture in the south, with a visit to the modern Auditorium and the peaceful Ermita."
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum eine Herausforderung sein; suchen Sie nach öffentlichen Parkplätzen.",
+          "Die Cluster-Strategie spart Zeit und Parkplatzsuche.",
+          "Verbinden Sie den Besuch mit einem Abstecher in den nahegelegenen Nationalpark Valle de Alcudia."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a városközpontban; keressen nyilvános parkolókat.",
+          "A klaszter-stratégia időt és parkolóhely-keresést takarít meg.",
+          "Kösse össze a látogatást egy kirándulással a közeli Valle de Alcudia Nemzeti Parkba."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centrul orașului; căutați parcări publice.",
+          "Strategia cluster economisește timp și căutarea locurilor de parcare.",
+          "Combinați vizita cu o excursie la Parcul Național Valle de Alcudia din apropiere."
+        ],
+        "en": [
+          "Parking can be challenging in the city center; look for public car parks.",
+          "The cluster strategy saves time and the hassle of finding parking.",
+          "Combine the visit with a trip to the nearby Valle de Alcudia National Park."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Paseo de San Gregorio",
+            "hu": "Központi klaszter: Paseo de San Gregorio",
+            "ro": "Cluster Central: Paseo de San Gregorio",
+            "en": "Center Cluster: Paseo de San Gregorio"
+          },
+          "coords": [
+            -4.1085,
+            38.6862
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Monumento al Minero & Kirche",
+            "hu": "Bányász Emlékmű és templom",
+            "ro": "Monumentul Minerului & Biserica",
+            "en": "Miner's Monument & Church"
+          },
+          "coords": [
+            -4.1101,
+            38.6878
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Cluster Bergbau: Bergbaumuseum",
+            "hu": "Bányászati klaszter: Bányászati Múzeum",
+            "ro": "Cluster Minier: Muzeul Mineritului",
+            "en": "Mining Cluster: Mining Museum"
+          },
+          "coords": [
+            -4.1155,
+            38.6923
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Castillete de Santa María",
+            "hu": "Castillete de Santa María aknatorony",
+            "ro": "Castillete de Santa María",
+            "en": "Castillete de Santa María headframe"
+          },
+          "coords": [
+            -4.1165,
+            38.6931
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Cluster Kultur: Auditorio",
+            "hu": "Kulturális klaszter: Auditórium",
+            "ro": "Cluster Cultural: Auditorium",
+            "en": "Culture Cluster: Auditorium"
+          },
+          "coords": [
+            -4.1051,
+            38.6841
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:11",
+          "stay_min": 50,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Ermita de la Virgen de Gracia",
+            "hu": "Ermita de la Virgen de Gracia",
+            "ro": "Ermita de la Virgen de Gracia",
+            "en": "Ermita de la Virgen de Gracia"
+          },
+          "coords": [
+            -4.1,
+            38.681
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:05",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Puertollano effizient mit öffentlichen Verkehrsmitteln. Starten Sie im zentralen Cluster rund um den Hauptpark, bevor Sie einen Bus zum Bergbau-Cluster nehmen. Nach dem Eintauchen in die Industriegeschichte bringt Sie ein weiterer Bus in den Süden, um den kulturellen und spirituellen Sehenswürdigkeiten der Stadt einen entspannten Nachmittag zu widmen.",
+        "hu": "Fedezze fel Puertollanót hatékonyan a tömegközlekedéssel. Kezdje a központi klaszterben a fő park körül, mielőtt buszra szállna a bányászati klaszter felé. Miután elmerült az ipari történelemben, egy másik busz elviszi délre, hogy egy pihentető délutánt szenteljen a város kulturális és spirituális látnivalóinak.",
+        "ro": "Explorați eficient Puertollano folosind transportul public. Începeți în clusterul central din jurul parcului principal, înainte de a lua un autobuz către clusterul minier. După o imersiune în istoria industrială, un alt autobuz vă va duce în sud pentru o după-amiază relaxantă dedicată obiectivelor culturale și spirituale ale orașului.",
+        "en": "Explore Puertollano efficiently using public transport. Start in the central cluster around the main park before taking a bus to the mining cluster. After immersing yourself in industrial history, another bus will take you south for a relaxed afternoon dedicated to the city's cultural and spiritual sights."
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar, um Kosten zu sparen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders für den Abend.",
+          "Einige Haltestellen sind möglicherweise nicht direkt an den Sehenswürdigkeiten, seien Sie auf kurze Spaziergänge vorbereitet."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha lehetséges, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, különösen estére.",
+          "Néhány megálló nem feltétlenül közvetlenül a látnivalóknál van, készüljön fel rövid sétákra."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz, dacă este disponibil, pentru a economisi bani.",
+          "Verificați din timp orarele autobuzelor, mai ales pentru seară.",
+          "Unele stații s-ar putea să nu fie direct la obiectivele turistice, fiți pregătiți pentru plimbări scurte."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available to save money.",
+          "Check bus schedules in advance, especially for the evening.",
+          "Some stops may not be directly at the sights, be prepared for short walks."
+        ]
+      }
+    }
+  }
+}

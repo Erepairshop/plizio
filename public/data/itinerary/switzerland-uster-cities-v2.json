@@ -1,0 +1,1412 @@
+{
+  "city_id": "switzerland-uster-cities-v2",
+  "anchor": {
+    "name": "Uster",
+    "coords": [
+      8.719,
+      47.349
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Reformierte Kirche Uster",
+            "hu": "Usteri református templom",
+            "ro": "Biserica Reformată din Uster",
+            "en": "Reformed Church Uster"
+          },
+          "coords": [
+            8.7185,
+            47.3495
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die schlichte Eleganz des reformierten Innenraums und die Akustik.",
+            "hu": "Figyelje meg a református belső tér egyszerű eleganciáját és az akusztikát!",
+            "ro": "Observați eleganța sobră a interiorului reformat și acustica.",
+            "en": "Note the simple elegance of the reformed interior and the acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Uster",
+            "hu": "Usteri kastély",
+            "ro": "Castelul Uster",
+            "en": "Uster Castle"
+          },
+          "coords": [
+            8.716,
+            47.351
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Spaziergang zum Schloss bietet die beste Aussicht auf die Altstadt.",
+            "hu": "A kastélyhoz vezető séta nyújtja a legjobb kilátást az óvárosra.",
+            "ro": "Plimbarea până la castel oferă cea mai bună priveliște asupra orașului vechi.",
+            "en": "The walk up to the castle offers the best views of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Uster",
+            "hu": "Usteri városi park",
+            "ro": "Parcul Municipal Uster",
+            "en": "Uster City Park"
+          },
+          "coords": [
+            8.721,
+            47.348
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagspicknick. Kaufen Sie lokale Produkte auf einem nahegelegenen Markt.",
+            "hu": "Ideális egy déli piknikhez. Vásároljon helyi termékeket a közeli piacon!",
+            "ro": "Ideal pentru un picnic la prânz. Cumpărați produse locale de la o piață din apropiere.",
+            "en": "Perfect for a midday picnic. Grab some local produce from a nearby market."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa am Aabach",
+            "hu": "Villa am Aabach",
+            "ro": "Villa am Aabach",
+            "en": "Villa am Aabach"
+          },
+          "coords": [
+            8.712,
+            47.346
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:18",
+          "stay_min": 50,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Industriearchitektur und stellen Sie sich das Leben im 19. Jahrhundert vor.",
+            "hu": "Csodálja meg az ipari építészetet, és képzelje el a 19. századi életet!",
+            "ro": "Admirați arhitectura industrială și imaginați-vă viața din secolul al XIX-lea.",
+            "en": "Admire the industrial architecture and imagine life in the 19th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Zellweger Park",
+            "hu": "Zellweger Park",
+            "ro": "Parcul Zellweger",
+            "en": "Zellweger Park"
+          },
+          "coords": [
+            8.707,
+            47.344
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Halten Sie Ausschau nach den modernen Kunstinstallationen, die im Park verstreut sind.",
+            "hu": "Keresse a parkban elszórtan található modern művészeti installációkat!",
+            "ro": "Căutați instalațiile de artă modernă răspândite în parc.",
+            "en": "Look out for the modern art installations scattered throughout the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Lok-Remise Uster",
+            "hu": "Lok-Remise Uster",
+            "ro": "Lok-Remise Uster",
+            "en": "Lok-Remise Uster"
+          },
+          "coords": [
+            8.705,
+            47.345
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Veranstaltungsplan im Voraus für mögliche Konzerte oder Ausstellungen.",
+            "hu": "Ellenőrizze előre a programot esetleges koncertek vagy kiállítások miatt!",
+            "ro": "Verificați în avans programul evenimentelor pentru posibile concerte sau expoziții.",
+            "en": "Check the event schedule in advance for possible concerts or exhibitions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Uster bei der schlichten Reformierten Kirche. Erklimmen Sie den Hügel zum Schloss Uster, um einen Panoramablick zu genießen, bevor Sie im Stadtpark für ein entspanntes Mittagessen verweilen. Am Nachmittag entdecken Sie das industrielle Erbe der Stadt bei der Villa am Aabach und im modernen Zellweger Park. Beenden Sie Ihre Erkundungstour im Kulturzentrum Lok-Remise, einem Zeugnis für die Transformation der Stadt.",
+        "hu": "Kezdje a napot Uster szívében, az egyszerű református templomnál. Másszon fel a dombra az Usteri kastélyhoz a panorámás kilátásért, mielőtt megpihenne a városi parkban egy kellemes ebédre. Délután fedezze fel a város ipari örökségét a Villa am Aabach-nál és a modern Zellweger Parkban. Zárja a felfedezést a Lok-Remise kulturális központban, amely a város átalakulásának tanúja.",
+        "ro": "Începeți ziua în inima orașului Uster la sobra Biserică Reformată. Urcați dealul până la Castelul Uster pentru vederi panoramice, apoi zăboviți în Parcul Municipal pentru un prânz relaxant. După-amiaza, descoperiți moștenirea industrială a orașului la Villa am Aabach și în modernul Parc Zellweger. Încheiați explorarea la centrul cultural Lok-Remise, o mărturie a transformării orașului.",
+        "en": "Start your day in the heart of Uster at the serene Reformed Church. Climb the hill to Uster Castle for panoramic views, then linger in the City Park for a relaxing lunch. In the afternoon, discover the town's industrial heritage at Villa am Aabach and the modern Zellweger Park. End your exploration at the Lok-Remise cultural center, a testament to the town's transformation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Ein klassisches Zürcher Gericht, dünn geschnittenes Kalbfleisch in einer cremigen Pilzsauce, oft mit Rösti serviert."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Knusprig gebratene Kartoffelpuffer, eine Schweizer Spezialität, die man unbedingt probieren muss."
+          },
+          {
+            "name": "Käsefondue",
+            "tip": "Perfekt für einen geselligen Abend, tauchen Sie Brot in geschmolzenen Schweizer Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Klasszikus zürichi étel, vékonyra szeletelt borjúhús tejszínes-gombás mártásban, gyakran röstivel tálalva."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Ropogósra sült burgonyalepény, kihagyhatatlan svájci specialitás."
+          },
+          {
+            "name": "Sajtfondü",
+            "tip": "Tökéletes egy baráti estéhez, mártogasson kenyeret az olvadt svájci sajtba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Un fel de mâncare clasic din Zurich, vițel tăiat felii subțiri într-un sos cremos de ciuperci, adesea servit cu Rösti."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Clătite de cartofi prăjite crocant, o specialitate elvețiană de neratat."
+          },
+          {
+            "name": "Fondue de brânză",
+            "tip": "Perfect pentru o seară socială, înmuiați pâine în brânză elvețiană topită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "A classic Zurich dish, thinly sliced veal in a creamy mushroom sauce, often served with Rösti."
+          },
+          {
+            "name": "Rösti",
+            "tip": "Crispy fried potato pancake, a must-try Swiss specialty."
+          },
+          {
+            "name": "Cheese Fondue",
+            "tip": "Perfect for a social evening, dip bread into melted Swiss cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Greifensees",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt bietet das Seeufer Ruhe und Frieden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosshügel am Abend",
+            "tip": "Genießen Sie die Stille, nachdem die meisten Touristen gegangen sind.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eine Bank im Stadtpark",
+            "tip": "Finden Sie einen ruhigen Platz, um ein Buch zu lesen oder die Leute zu beobachten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Greifensee partja",
+            "tip": "Egy rövid sétára a központtól a tópart békét és nyugalmat kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Várhegy este",
+            "tip": "Élvezze a csendet, miután a legtöbb turista elment.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy pad a városi parkban",
+            "tip": "Keressen egy csendes helyet egy könyv olvasásához vagy az emberek figyeléséhez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Greifensee",
+            "tip": "La o scurtă plimbare de centru, malul lacului oferă pace și liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul castelului seara",
+            "tip": "Bucurați-vă de liniște după ce majoritatea turiștilor au plecat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O bancă în Parcul Municipal",
+            "tip": "Găsiți un loc liniștit pentru a citi o carte sau pentru a privi oamenii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Greifensee",
+            "tip": "A short walk from the center, the lake shore offers peace and tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle hill in the evening",
+            "tip": "Enjoy the quiet after most of the tourists have left.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A bench in the City Park",
+            "tip": "Find a quiet spot to read a book or people-watch.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Uster",
+            "tip": "Suchen Sie nach lokalen Käsesorten, frischem Brot und saisonalen Produkten."
+          },
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Entdecken Sie handgefertigte Schweizer Souvenirs in den kleinen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Usteri heti piac",
+            "tip": "Keressen helyi sajtokat, friss kenyeret és szezonális termékeket."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Fedezze fel a kézzel készített svájci szuveníreket a kis butikokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Uster",
+            "tip": "Căutați brânzeturi locale, pâine proaspătă și produse de sezon."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Descoperiți suveniruri elvețiene lucrate manual în micile buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Uster Weekly Market",
+            "tip": "Look for local cheeses, fresh bread, and seasonal produce."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Discover handmade Swiss souvenirs in the small boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Weg zum Schloss steil sein kann.",
+          "Ein Großteil des Stadtzentrums ist fußgängerfreundlich.",
+          "Nehmen Sie Wasser mit, besonders an wärmeren Tagen.",
+          "Überprüfen Sie die Öffnungszeiten des Schlosses, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a kastélyhoz vezető út meredek lehet.",
+          "A városközpont nagy része gyalogosbarát.",
+          "Vigyen magával vizet, különösen a melegebb napokon.",
+          "Ellenőrizze a kastély nyitvatartási idejét, mivel az változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece urcarea la castel poate fi abruptă.",
+          "O mare parte din centrul orașului este pietonală.",
+          "Luați apă cu dumneavoastră, mai ales în zilele mai calde.",
+          "Verificați programul de funcționare al castelului, deoarece acesta poate varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as the walk up to the castle can be steep.",
+          "Much of the town center is pedestrian-friendly.",
+          "Carry water with you, especially on warmer days.",
+          "Check the opening hours for the castle as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Uster",
+            "hu": "Usteri kastély",
+            "ro": "Castelul Uster",
+            "en": "Uster Castle"
+          },
+          "coords": [
+            8.716,
+            47.351
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Fuße des Hügels ab und gehen Sie das letzte Stück.",
+            "hu": "Zárja le a kerékpárt a domb alján, és sétáljon fel az utolsó szakaszon.",
+            "ro": "Lăsați bicicleta la poalele dealului și urcați ultima porțiune pe jos.",
+            "en": "Lock your bike at the bottom of the hill and walk the final stretch."
+          }
+        },
+        {
+          "name": {
+            "de": "Industrielehrpfad Start",
+            "hu": "Ipari tanösvény kezdete",
+            "ro": "Startul traseului industrial",
+            "en": "Industrial Path Start"
+          },
+          "coords": [
+            8.71,
+            47.345
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der Pfad ist gut ausgeschildert und perfekt für eine Radtour durch die Geschichte.",
+            "hu": "Az ösvény jól ki van táblázva, és tökéletes egy történelmi biciklitúrához.",
+            "ro": "Poteca este bine marcată și perfectă pentru o plimbare cu bicicleta prin istorie.",
+            "en": "The path is well-marked and perfect for a bike ride through history."
+          }
+        },
+        {
+          "name": {
+            "de": "Zellweger Park",
+            "hu": "Zellweger Park",
+            "ro": "Parcul Zellweger",
+            "en": "Zellweger Park"
+          },
+          "coords": [
+            8.707,
+            47.344
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Pause, mit einer Mischung aus Natur und Kunst.",
+            "hu": "Remek hely egy szünetre, a természet és a művészet keverékével.",
+            "ro": "Un loc minunat pentru o pauză, cu un amestec de natură și artă.",
+            "en": "A great spot for a break, with a mix of nature and art."
+          }
+        },
+        {
+          "name": {
+            "de": "Greifensee Ufer",
+            "hu": "Greifensee part",
+            "ro": "Malul lacului Greifensee",
+            "en": "Greifensee Shore"
+          },
+          "coords": [
+            8.685,
+            47.36
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für ein Mittagessen am See oder sogar ein schnelles Bad.",
+            "hu": "Szánjon időt egy ebédre a tóparton, vagy akár egy gyors úszásra is.",
+            "ro": "Luați-vă timp pentru prânz pe malul lacului sau chiar pentru o baie rapidă.",
+            "en": "Take your time for lunch by the lake, or even a quick swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Uster",
+            "hu": "Usteri városi park",
+            "ro": "Parcul Municipal Uster",
+            "en": "Uster City Park"
+          },
+          "coords": [
+            8.721,
+            47.348
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach Ihrer Radtour in dieser grünen Oase im Stadtzentrum.",
+            "hu": "Pihenjen a biciklitúra után ebben a zöld oázisban a városközpontban.",
+            "ro": "Relaxați-vă după turul cu bicicleta în această oază de verdeață din centrul orașului.",
+            "en": "Relax after your bike ride in this green oasis in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Zentrum",
+            "hu": "Vacsora a központban",
+            "ro": "Cină în centru",
+            "en": "Dinner in the Center"
+          },
+          "coords": [
+            8.719,
+            47.349
+          ],
+          "category": "gastro",
+          "arrive_at": "16:45",
+          "stay_min": 95,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem herzhaften Schweizer Essen.",
+            "hu": "Jutalmazza meg magát egy kiadós svájci étellel.",
+            "ro": "Recompensați-vă cu o masă elvețiană copioasă.",
+            "en": "Reward yourself with a hearty Swiss meal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit einem Aufstieg zum Schloss Uster. Folgen Sie dann dem Industrielehrpfad, um in die Vergangenheit der Stadt einzutauchen. Machen Sie eine Kunstpause im Zellweger Park, bevor Sie zum malerischen Greifensee radeln, dem perfekten Ort für ein langes Mittagessen. Auf dem Rückweg entspannen Sie im Stadtpark, bevor Sie den Tag mit einem wohlverdienten Abendessen im Zentrum von Uster ausklingen lassen.",
+        "hu": "Kezdje a kerékpártúrát az Usteri kastélyhoz való feljutással. Ezután kövesse az ipari tanösvényt, hogy elmerüljön a város múltjában. Tartson egy művészeti szünetet a Zellweger Parkban, mielőtt a festői Greifensee-hez tekerne, amely tökéletes hely egy hosszú ebédhez. Visszafelé pihenjen a városi parkban, mielőtt a napot egy jól megérdemelt vacsorával zárná Uster központjában.",
+        "ro": "Începeți turul cu bicicleta cu o urcare la Castelul Uster. Apoi urmați traseul industrial pentru a vă cufunda în trecutul orașului. Faceți o pauză de artă în Parcul Zellweger înainte de a pedala spre pitorescul lac Greifensee, locul perfect pentru un prânz lung. Pe drumul de întoarcere, relaxați-vă în Parcul Municipal înainte de a încheia ziua cu o cină binemeritată în centrul orașului Uster.",
+        "en": "Start your bike tour with a climb to Uster Castle. Then, follow the Industrial Path to delve into the town's past. Take an art break in Zellweger Park before cycling to the picturesque Greifensee, the perfect spot for a long lunch. On your way back, unwind in the City Park before finishing the day with a well-deserved dinner in Uster's center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bündner Gerstensuppe",
+            "tip": "Eine herzhafte Gerstensuppe aus Graubünden, perfekt zur Stärkung nach einer Radtour."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein beliebtes Dessert in der deutschsprachigen Schweiz, oft mit Vanillesauce serviert."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Probieren Sie das Schweizer Nationalgetränk auf Milchserumbasis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bündner Gerstensuppe",
+            "tip": "Kiadós graubündeni árpaleves, tökéletes feltöltődés egy biciklitúra után."
+          },
+          {
+            "name": "Almástrudel",
+            "tip": "Népszerű desszert a német ajkú Svájcban, gyakran vaníliaszósszal tálalva."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Kóstolja meg a tejsavó alapú svájci nemzeti italt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bündner Gerstensuppe",
+            "tip": "O supă copioasă de orz din Graubünden, perfectă pentru a vă reface energia după un tur cu bicicleta."
+          },
+          {
+            "name": "Strudel cu mere",
+            "tip": "Un desert popular în Elveția germanofonă, adesea servit cu sos de vanilie."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Încercați băutura națională elvețiană, făcută din zer de lapte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bündner Gerstensuppe",
+            "tip": "A hearty barley soup from Graubünden, perfect for refueling after a bike ride."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "A popular dessert in German-speaking Switzerland, often served with vanilla sauce."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Try the iconic Swiss national soft drink, made from milk whey."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein ruhiger Pfad am Aabach",
+            "tip": "Folgen Sie dem Fluss für eine friedliche Fahrt abseits der Hauptstraßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt Greifensee",
+            "tip": "Finden Sie einen Platz mit Blick auf den See und genießen Sie die Natur.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Früher Morgen am Schloss",
+            "tip": "Beginnen Sie Ihren Tag hier für eine ruhige, neblige Aussicht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csendes ösvény az Aabach mentén",
+            "tip": "Kövesse a folyót egy békés tekerésért a főutaktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Greifensee kilátópont",
+            "tip": "Keressen egy helyet, ahonnan kilátás nyílik a tóra, és élvezze a természetet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kora reggel a kastélynál",
+            "tip": "Kezdje itt a napot egy csendes, ködös kilátásért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O potecă liniștită de-a lungul Aabach",
+            "tip": "Urmați râul pentru o plimbare liniștită, departe de drumurile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere Greifensee",
+            "tip": "Găsiți un loc cu vedere la lac și bucurați-vă de natură.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dimineața devreme la castel",
+            "tip": "Începeți-vă ziua aici pentru o priveliște liniștită și cețoasă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet path along the Aabach",
+            "tip": "Follow the river for a peaceful ride away from the main roads.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Greifensee viewpoint",
+            "tip": "Find a spot overlooking the lake and enjoy the nature.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Early morning at the castle",
+            "tip": "Start your day here for a quiet, misty view.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Holen Sie sich Zubehör oder ein lokales Radsport-Trikot."
+          },
+          {
+            "name": "Hofläden rund um den Greifensee",
+            "tip": "Kaufen Sie frisches Obst, Gemüse oder hausgemachte Marmelade direkt vom Bauern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Szerezzen be kiegészítőket vagy egy helyi kerékpáros mezt."
+          },
+          {
+            "name": "Tanyasi boltok a Greifensee körül",
+            "tip": "Vásároljon friss gyümölcsöt, zöldséget vagy házi lekvárt közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Luați niște accesorii sau un tricou de ciclism local."
+          },
+          {
+            "name": "Magazine de la fermă în jurul Greifensee",
+            "tip": "Cumpărați fructe proaspete, legume sau gem de casă direct de la fermier."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Pick up some accessories or a local cycling jersey."
+          },
+          {
+            "name": "Farm shops around Greifensee",
+            "tip": "Buy fresh fruit, vegetables, or homemade jam directly from the farmer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "In der Schweiz ist das Tragen eines Helms zwar nicht immer Pflicht, wird aber dringend empfohlen.",
+          "Viele Wege rund um den Greifensee sind autofrei.",
+          "Uster ist hügelig, seien Sie auf einige Anstiege vorbereitet."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Svájcban a sisak viselése nem mindig kötelező, de erősen ajánlott.",
+          "A Greifensee körüli utak nagy része autómentes.",
+          "Uster dombos, készüljön fel néhány emelkedőre."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a porni.",
+          "Purtarea căștii nu este întotdeauna obligatorie în Elveția, dar este puternic recomandată.",
+          "Multe trasee din jurul lacului Greifensee sunt fără mașini.",
+          "Uster este deluros, fiți pregătiți pentru câteva urcări."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Wearing a helmet is not always mandatory in Switzerland, but it is highly recommended.",
+          "Many of the paths around Greifensee are car-free.",
+          "Uster is hilly, be prepared for some climbs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Greifensee",
+            "hu": "Parkoló a Greifensee-nél",
+            "ro": "Parcare la lacul Greifensee",
+            "en": "Greifensee Parking"
+          },
+          "coords": [
+            8.682,
+            47.362
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit frischer Seeluft. Machen Sie einen kurzen Spaziergang am Ufer entlang.",
+            "hu": "Kezdje a napot friss tavi levegővel. Tegyen egy rövid sétát a parton.",
+            "ro": "Începeți ziua cu aer proaspăt de lac. Faceți o scurtă plimbare de-a lungul malului.",
+            "en": "Start the day with fresh lake air. Take a short stroll along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum Uster",
+            "hu": "Parkoló Uster központjában",
+            "ro": "Parcare în centrul Uster",
+            "en": "Uster Center Parking"
+          },
+          "coords": [
+            8.717,
+            47.35
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den historischen Kern zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel gyalog a történelmi városmagot.",
+            "ro": "Parcați aici și explorați centrul istoric pe jos.",
+            "en": "Park here and explore the historical core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Uster",
+            "hu": "Usteri kastély",
+            "ro": "Castelul Uster",
+            "en": "Uster Castle"
+          },
+          "coords": [
+            8.716,
+            47.351
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht, bevor Sie in der Altstadt zu Mittag essen.",
+            "hu": "Élvezze a kilátást, mielőtt megebédelne az óvárosban.",
+            "ro": "Bucurați-vă de priveliște înainte de a lua prânzul în orașul vechi.",
+            "en": "Enjoy the view before heading for lunch in the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche Uster",
+            "hu": "Usteri református templom",
+            "ro": "Biserica Reformată din Uster",
+            "en": "Reformed Church Uster"
+          },
+          "coords": [
+            8.7185,
+            47.3495
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss entfernt, ein Ort der Ruhe.",
+            "hu": "Rövid sétára a kastélytól, a nyugalom szigete.",
+            "ro": "La o scurtă plimbare de castel, un loc de liniște.",
+            "en": "A short walk from the castle, a place of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zellweger Park",
+            "hu": "Parkoló a Zellweger Parknál",
+            "ro": "Parcare la Parcul Zellweger",
+            "en": "Zellweger Park Parking"
+          },
+          "coords": [
+            8.706,
+            47.343
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem modernen Park, um Kunst und Architektur zu erleben.",
+            "hu": "Vezessen el ehhez a modern parkhoz, hogy megtapasztalja a művészetet és az építészetet.",
+            "ro": "Conduceți spre acest parc modern pentru a experimenta arta și arhitectura.",
+            "en": "Drive to this modern park to experience art and architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Lok-Remise Uster",
+            "hu": "Lok-Remise Uster",
+            "ro": "Lok-Remise Uster",
+            "en": "Lok-Remise Uster"
+          },
+          "coords": [
+            8.705,
+            47.345
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein faszinierender Ort, der die industrielle Vergangenheit mit der kreativen Gegenwart verbindet.",
+            "hu": "Lenyűgöző hely, amely összeköti az ipari múltat a kreatív jelennel.",
+            "ro": "Un loc fascinant care leagă trecutul industrial de prezentul creativ.",
+            "en": "A fascinating place that connects the industrial past with the creative present."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens direkt zum Greifensee, um die ruhige Natur zu genießen. Danach parken Sie im Zentrum von Uster, um das historische Herz der Stadt zu Fuß zu erkunden, beginnend mit dem Schloss und der Kirche. Nach dem Mittagessen fahren Sie zu Ihrem zweiten Cluster, dem modernen Zellweger Park. Spazieren Sie von dort zur nahegelegenen Lok-Remise, um einen Einblick in die lebendige Kulturszene von Uster zu erhalten.",
+        "hu": "Reggel vezessen egyenesen a Greifensee-hez, hogy élvezze a csendes természetet. Ezután parkoljon le Uster központjában, hogy gyalog fedezze fel a város történelmi szívét, kezdve a kastéllyal és a templommal. Ebéd után vezessen a második klaszterhez, a modern Zellweger Parkhoz. Sétáljon onnan a közeli Lok-Remise-hez, hogy bepillantást nyerjen Uster pezsgő kulturális életébe.",
+        "ro": "Dimineața, conduceți direct la lacul Greifensee pentru a vă bucura de natura liniștită. Apoi, parcați în centrul Uster pentru a explora pe jos inima istorică a orașului, începând cu castelul și biserica. După prânz, conduceți către al doilea cluster, modernul Parc Zellweger. Plimbați-vă de acolo până la Lok-Remise din apropiere pentru o incursiune în scena culturală vibrantă a Usterului.",
+        "en": "In the morning, drive directly to Greifensee to enjoy the tranquil nature. Afterwards, park in the center of Uster to explore the town's historic heart on foot, starting with the castle and church. After lunch, drive to your second cluster, the modern Zellweger Park. From there, walk to the nearby Lok-Remise to get a glimpse of Uster's vibrant cultural scene."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Felchenfilet",
+            "tip": "Frischer Fisch aus dem Greifensee, oft einfach gebraten oder geräuchert."
+          },
+          {
+            "name": "Luxemburgerli",
+            "tip": "Kleine, bunte Macarons aus einer berühmten Zürcher Konditorei, als süßer Snack."
+          },
+          {
+            "name": "Birchermüesli",
+            "tip": "In der Schweiz erfunden, eine gesunde und erfrischende Option für Frühstück oder Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marénafilé",
+            "tip": "Friss hal a Greifensee-ből, gyakran egyszerűen sütve vagy füstölve."
+          },
+          {
+            "name": "Luxemburgerli",
+            "tip": "Kicsi, színes macaronok egy híres zürichi cukrászdából, édes snackként."
+          },
+          {
+            "name": "Birchermüesli",
+            "tip": "Svájcban találták fel, egészséges és frissítő opció reggelire vagy ebédre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "File de coregon",
+            "tip": "Pește proaspăt din lacul Greifensee, adesea prăjit simplu sau afumat."
+          },
+          {
+            "name": "Luxemburgerli",
+            "tip": "Macarons mici și colorate de la o faimoasă cofetărie din Zurich, ca o gustare dulce."
+          },
+          {
+            "name": "Birchermüesli",
+            "tip": "Inventat în Elveția, o opțiune sănătoasă și răcoritoare pentru micul dejun sau prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Whitefish fillet (Felchen)",
+            "tip": "Fresh fish from the Greifensee, often simply pan-fried or smoked."
+          },
+          {
+            "name": "Luxemburgerli",
+            "tip": "Small, colorful macarons from a famous Zurich confectionery, for a sweet snack."
+          },
+          {
+            "name": "Birchermüesli",
+            "tip": "Invented in Switzerland, a healthy and refreshing option for breakfast or lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenaufgang am Greifensee",
+            "tip": "Ein früher Start wird mit atemberaubender Stille und Schönheit belohnt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Der Friedhof bei der Kirche",
+            "tip": "Ein Ort der stillen Besinnung mit historischer Atmosphäre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abgelegene Wege im Wald",
+            "tip": "Uster ist von Wäldern umgeben, die sich perfekt für eine ruhige Fahrt eignen.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Napfelkelte a Greifensee-nél",
+            "tip": "A korai kezdést lélegzetelállító csend és szépség jutalmazza.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A templom melletti temető",
+            "tip": "A csendes elmélkedés helye, történelmi hangulattal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Elhagyatott erdei utak",
+            "tip": "Ustert erdők veszik körül, amelyek tökéletesek egy csendes autózáshoz.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Răsărit la Greifensee",
+            "tip": "Un început devreme este recompensat cu o liniște și o frumusețe uluitoare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul de lângă biserică",
+            "tip": "Un loc de reflecție tăcută, cu o atmosferă istorică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Drumuri izolate în pădure",
+            "tip": "Uster este înconjurat de păduri perfecte pentru o plimbare liniștită cu mașina.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunrise at Greifensee",
+            "tip": "An early start is rewarded with breathtaking silence and beauty.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The cemetery by the church",
+            "tip": "A place for quiet reflection with a historic atmosphere.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Secluded forest drives",
+            "tip": "Uster is surrounded by forests perfect for a quiet drive.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fabrikläden in der Umgebung",
+            "tip": "Suchen Sie nach Schweizer Schokolade oder Textilien zu ermäßigten Preisen."
+          },
+          {
+            "name": "Antiquitätenläden",
+            "tip": "Stöbern Sie nach einzigartigen Fundstücken, die die Geschichte der Region widerspiegeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyári boltok a környéken",
+            "tip": "Keressen svájci csokoládét vagy textileket kedvezményes áron."
+          },
+          {
+            "name": "Antikváriumok",
+            "tip": "Böngésszen egyedi leletek után, amelyek a régió történelmét tükrözik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fabrică din zonă",
+            "tip": "Căutați ciocolată elvețiană sau textile la prețuri reduse."
+          },
+          {
+            "name": "Magazine de antichități",
+            "tip": "Căutați piese unice care reflectă istoria regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Factory outlets in the area",
+            "tip": "Look for Swiss chocolate or textiles at discounted prices."
+          },
+          {
+            "name": "Antique shops",
+            "tip": "Browse for unique finds that reflect the region's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum teuer sein, suchen Sie nach Parkhäusern am Stadtrand.",
+          "Achten Sie auf die blauen Zonen, die eine Parkscheibe erfordern.",
+          "Tanken ist auf der Autobahn teurer als in der Stadt.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen, die in der Schweiz streng durchgesetzt werden."
+        ],
+        "hu": [
+          "A parkolás drága lehet a városközpontban, keressen parkolóházakat a külvárosban.",
+          "Figyeljen a kék zónákra, amelyekhez parkolótárcsa szükséges.",
+          "A tankolás drágább az autópályán, mint a városban.",
+          "Tartsa be a sebességhatárokat, amelyeket Svájcban szigorúan betartatnak."
+        ],
+        "ro": [
+          "Parcarea poate fi scumpă în centrul orașului, căutați parcări la periferie.",
+          "Fiți atenți la zonele albastre, care necesită un disc de parcare.",
+          "Alimentarea este mai scumpă pe autostradă decât în oraș.",
+          "Respectați limitele de viteză, care sunt strict aplicate în Elveția."
+        ],
+        "en": [
+          "Parking can be expensive in the city center; look for parking garages on the outskirts.",
+          "Be aware of 'blue zone' parking areas, which require a parking disc.",
+          "Fuel is more expensive on the motorway than in town.",
+          "Respect the speed limits, which are strictly enforced in Switzerland."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Uster",
+            "hu": "Uster vasútállomás",
+            "ro": "Gara Uster",
+            "en": "Uster Train Station"
+          },
+          "coords": [
+            8.723,
+            47.346
+          ],
+          "category": "transit_hub",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für das ZVV-Netz für unbegrenzte Fahrten.",
+            "hu": "Vásároljon napijegyet a ZVV-hálózatra a korlátlan utazáshoz.",
+            "ro": "Cumpărați un abonament de o zi pentru rețeaua ZVV pentru călătorii nelimitate.",
+            "en": "Purchase a day pass for the ZVV network for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche Uster",
+            "hu": "Usteri református templom",
+            "ro": "Biserica Reformată din Uster",
+            "en": "Reformed Church Uster"
+          },
+          "coords": [
+            8.7185,
+            47.3495
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof, um Ihre Erkundung zu beginnen.",
+            "hu": "Egy rövid séta a vasútállomástól a felfedezés megkezdéséhez.",
+            "ro": "O scurtă plimbare de la gară pentru a începe explorarea.",
+            "en": "A short walk from the station to begin your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Uster",
+            "hu": "Usteri kastély",
+            "ro": "Castelul Uster",
+            "en": "Uster Castle"
+          },
+          "coords": [
+            8.716,
+            47.351
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Spaziergang vom Stadtzentrum ist Teil des Erlebnisses.",
+            "hu": "A városközpontból való séta az élmény része.",
+            "ro": "Plimbarea din centrul orașului face parte din experiență.",
+            "en": "The walk from the town center is part of the experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Zellweger Park",
+            "hu": "Zellweger Park buszmegálló",
+            "ro": "Stația de autobuz Zellweger Park",
+            "en": "Zellweger Park Bus Stop"
+          },
+          "coords": [
+            8.707,
+            47.344
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum, um dieses Industrie- und Kunstgebiet zu erreichen.",
+            "hu": "Menjen busszal a központból, hogy elérje ezt az ipari és művészeti területet.",
+            "ro": "Luați un autobuz din centru pentru a ajunge în această zonă industrială și artistică.",
+            "en": "Take a bus from the center to reach this industrial and art area."
+          }
+        },
+        {
+          "name": {
+            "de": "Lok-Remise Uster",
+            "hu": "Lok-Remise Uster",
+            "ro": "Lok-Remise Uster",
+            "en": "Lok-Remise Uster"
+          },
+          "coords": [
+            8.705,
+            47.345
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Zellweger Park entfernt.",
+            "hu": "Csak egy rövid sétára a Zellweger Parktól.",
+            "ro": "La doar o scurtă plimbare de Parcul Zellweger.",
+            "en": "Just a short walk from Zellweger Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Stadtpark",
+            "hu": "Stadtpark buszmegálló",
+            "ro": "Stația de autobuz Stadtpark",
+            "en": "Stadtpark Bus Stop"
+          },
+          "coords": [
+            8.721,
+            47.348
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:14",
+          "stay_min": 141,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum für einen entspannten Nachmittag.",
+            "hu": "Menjen busszal vissza a központba egy pihentető délutánra.",
+            "ro": "Luați un autobuz înapoi în centru pentru o după-amiază relaxantă.",
+            "en": "Take a bus back to the center for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Bahnhof Uster, Ihr Tor zur Stadt. Ein kurzer Spaziergang führt Sie zum ersten Cluster: der Kirche und dem Schloss. Erkunden Sie die Altstadt zu Fuß. Nehmen Sie am späten Vormittag einen Bus zum zweiten Cluster, dem Industriegebiet, um den Zellweger Park und die Lok-Remise zu entdecken. Fahren Sie am Nachmittag mit dem Bus zurück zum Stadtpark für eine ausgedehnte Pause, bevor Sie Ihre Heimreise antreten.",
+        "hu": "Kezdje az Usteri vasútállomáson, a város kapujában. Egy rövid séta elvezeti az első klaszterhez: a templomhoz és a kastélyhoz. Fedezze fel gyalog az óvárost. Késő délelőtt szálljon buszra a második klaszterhez, az ipari negyedhez, hogy felfedezze a Zellweger Parkot és a Lok-Remise-t. Délután buszozzon vissza a városi parkba egy hosszabb szünetre, mielőtt hazaindulna.",
+        "ro": "Începeți de la gara Uster, poarta dvs. de acces către oraș. O scurtă plimbare vă duce la primul cluster: biserica și castelul. Explorați orașul vechi pe jos. Spre sfârșitul dimineții, luați un autobuz către al doilea cluster, zona industrială, pentru a descoperi Parcul Zellweger și Lok-Remise. După-amiaza, luați autobuzul înapoi la Parcul Municipal pentru o pauză extinsă înainte de a vă întoarce acasă.",
+        "en": "Start at Uster station, your gateway to the city. A short walk takes you to the first cluster: the church and the castle. Explore the old town on foot. In the late morning, take a bus to the second cluster, the industrial area, to discover Zellweger Park and the Lok-Remise. In the afternoon, bus back to the City Park for an extended break before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wurst vom Grill",
+            "tip": "Eine schnelle und leckere Option, die man oft an Straßenständen in der Nähe von Bahnhöfen findet."
+          },
+          {
+            "name": "Nusstorte",
+            "tip": "Eine reichhaltige, karamellisierte Walnusstorte, eine Spezialität aus dem Engadin, aber in der ganzen Schweiz beliebt."
+          },
+          {
+            "name": "Shorley",
+            "tip": "Ein erfrischendes Getränk aus Apfelsaft und Mineralwasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett kolbász",
+            "tip": "Gyors és ízletes opció, gyakran kapható az állomások közelében lévő utcai árusoknál."
+          },
+          {
+            "name": "Diós torta (Nusstorte)",
+            "tip": "Gazdag, karamellizált diótorta, Engadin specialitása, de egész Svájcban népszerű."
+          },
+          {
+            "name": "Shorley",
+            "tip": "Frissítő ital almaléből és ásványvízből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnați la grătar",
+            "tip": "O opțiune rapidă și delicioasă, adesea găsită la tarabele stradale din apropierea gărilor."
+          },
+          {
+            "name": "Tortă cu nuci (Nusstorte)",
+            "tip": "O prăjitură bogată, cu nuci caramelizate, o specialitate din Engadin, dar populară în toată Elveția."
+          },
+          {
+            "name": "Shorley",
+            "tip": "O băutură răcoritoare făcută din suc de mere și apă minerală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Sausage (Wurst)",
+            "tip": "A quick and tasty option often found at street stalls near train stations."
+          },
+          {
+            "name": "Nut Tart (Nusstorte)",
+            "tip": "A rich, caramelized walnut tart, a specialty from Engadin but popular all over Switzerland."
+          },
+          {
+            "name": "Shorley",
+            "tip": "A refreshing drink made of apple juice and sparkling water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die S-Bahn-Fahrt",
+            "tip": "Genießen Sie die Aussicht auf die Landschaft auf dem Weg in die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Bietet eine andere Perspektive auf die Stadt in relativer Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Leseecke in einer Bibliothek",
+            "tip": "Die Stadtbibliothek Uster ist ein großartiger Ort, um dem Trubel zu entfliehen.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "S-Bahn utazás",
+            "tip": "Élvezze a táj látványát a város felé vezető úton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Emeletes busz felső szintje",
+            "tip": "Más perspektívát nyújt a városra viszonylagos nyugalomban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olvasósarok egy könyvtárban",
+            "tip": "Az Usteri Városi Könyvtár remek hely a nyüzsgés elől való menekülésre.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu trenul S-Bahn",
+            "tip": "Bucurați-vă de priveliștea peisajului în drum spre oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Etajul superior al unui autobuz etajat",
+            "tip": "Oferă o perspectivă diferită asupra orașului într-o liniște relativă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Colț de lectură într-o bibliotecă",
+            "tip": "Biblioteca orașului Uster este un loc minunat pentru a scăpa de agitație.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "The S-Bahn ride",
+            "tip": "Enjoy the views of the countryside on your way into the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Upper deck of a double-decker bus",
+            "tip": "Offers a different perspective of the city in relative quiet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Reading corner in a library",
+            "tip": "The Uster City Library is a great place to escape the hustle and bustle.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofskioske (k kiosk)",
+            "tip": "Holen Sie sich Schweizer Zeitungen, Zeitschriften und Snacks für Ihre Reise."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie frisches Brot oder Gebäck für ein Picknick im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasútállomási kioszkok (k kiosk)",
+            "tip": "Szerezzen be svájci újságokat, magazinokat és rágcsálnivalókat az utazáshoz."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon friss kenyeret vagy péksüteményt a parki piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri de gară (k kiosk)",
+            "tip": "Luați ziare, reviste și gustări elvețiene pentru călătoria dvs."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați pâine proaspătă или produse de patiserie pentru un picnic în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Train station kiosks (k kiosk)",
+            "tip": "Pick up Swiss newspapers, magazines, and snacks for your journey."
+          },
+          {
+            "name": "Local bakeries",
+            "tip": "Buy some fresh bread or pastries for a picnic in the park."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die ZVV-App herunter, um Fahrpläne und Routen in Echtzeit zu erhalten.",
+          "Entwerten Sie Ihr Ticket, bevor Sie in den Bus oder Zug einsteigen, wenn es sich nicht um eine digitale Fahrkarte handelt.",
+          "Die meisten Busse und Züge sind pünktlich, planen Sie entsprechend.",
+          "Halten Sie Ausschau nach dem Haltewunsch-Knopf im Bus."
+        ],
+        "hu": [
+          "Töltse le a ZVV alkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "Érvényesítse a jegyét, mielőtt felszállna a buszra vagy a vonatra, ha az nem digitális jegy.",
+          "A legtöbb busz és vonat pontos, tervezzen ennek megfelelően.",
+          "Keresse a leszállásjelző gombot a buszon."
+        ],
+        "ro": [
+          "Descărcați aplicația ZVV pentru orare și rute în timp real.",
+          "Validați biletul înainte de a urca în autobuz sau tren, dacă nu este un bilet digital.",
+          "Majoritatea autobuzelor și trenurilor sunt punctuale, planificați-vă în consecință.",
+          "Fiți atenți la butonul de solicitare a opririi în autobuz."
+        ],
+        "en": [
+          "Download the ZVV app for real-time schedules and routes.",
+          "Validate your ticket before boarding the bus or train if it's not a digital ticket.",
+          "Most buses and trains are punctual, so plan accordingly.",
+          "Look for the 'stop request' button on the bus."
+        ]
+      }
+    }
+  }
+}

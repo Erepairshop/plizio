@@ -1,0 +1,1548 @@
+{
+  "city_id": "lithuania-panevezys-cities-v2",
+  "anchor": {
+    "name": "Panevėžys",
+    "coords": [
+      24.35,
+      55.7333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Freiheit",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Freedom Square"
+          },
+          "coords": [
+            24.358,
+            55.7285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag hier mit einem Kaffee und beobachten Sie das städtische Leben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, observând viața orașului.",
+            "en": "Start your day here with a coffee and watch the city life."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Christi Himmelfahrt",
+            "hu": "Krisztus Mennybemenetele székesegyház",
+            "ro": "Catedrala Înălțarea Domnului",
+            "en": "Cathedral of Christ the King"
+          },
+          "coords": [
+            24.364,
+            55.7265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:47",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neobarocke Architektur und die beeindruckenden Buntglasfenster.",
+            "hu": "Csodálja meg a neobarokk építészetet és a lenyűgöző ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura neo-barocă și vitraliile impresionante.",
+            "en": "Admire the Neo-Baroque architecture and the impressive stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Dramentheater Juozas Miltinis",
+            "hu": "Juozas Miltinis Drámai Színház",
+            "ro": "Teatrul Dramatic Juozas Miltinis",
+            "en": "Juozas Miltinis Drama Theatre"
+          },
+          "coords": [
+            24.359,
+            55.7295
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:12",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine interessante Vorstellung am Abend.",
+            "hu": "Nézze meg a műsort, hátha van egy érdekes esti előadás.",
+            "ro": "Verificați programul, poate prindeți un spectacol interesant seara.",
+            "en": "Check the schedule, you might catch an interesting performance in the evening."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum Panevėžys",
+            "hu": "Panevėžysi Helytörténeti Múzeum",
+            "ro": "Muzeul Regional Panevėžys",
+            "en": "Panevėžys Local Lore Museum"
+          },
+          "coords": [
+            24.36,
+            55.734
+          ],
+          "category": "museums",
+          "arrive_at": "12:02",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte und Ethnographie der Region Aukštaitija.",
+            "hu": "Fedezze fel Aukštaitija régió gazdag történelmét és néprajzát.",
+            "ro": "Descoperiți istoria bogată și etnografia regiunii Aukštaitija.",
+            "en": "Discover the rich history and ethnography of the Aukštaitija region."
+          }
+        },
+        {
+          "name": {
+            "de": "Senvagė-Park",
+            "hu": "Senvagė park",
+            "ro": "Parcul Senvagė",
+            "en": "Senvagė Park"
+          },
+          "coords": [
+            24.367,
+            55.732
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:54",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen Mittagsspaziergang entlang des Flusses Nevėžis.",
+            "hu": "Tökéletes hely egy ebéd utáni sétához a Nevėžis folyó partján.",
+            "ro": "Un loc perfect pentru o plimbare de prânz de-a lungul râului Nevėžis.",
+            "en": "A perfect spot for a lunchtime walk along the Nevėžis River."
+          }
+        },
+        {
+          "name": {
+            "de": "Skaistakalnis-Park",
+            "hu": "Skaistakalnis park",
+            "ro": "Parcul Skaistakalnis",
+            "en": "Skaistakalnis Park"
+          },
+          "coords": [
+            24.382,
+            55.736
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:47",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag in diesem ruhigen Park, ideal zum Entspannen.",
+            "hu": "Zárja a napot ebben a csendes parkban, ideális a pihenéshez.",
+            "ro": "Încheiați ziua în acest parc liniștit, ideal pentru relaxare.",
+            "en": "End your day in this quiet park, ideal for relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Panevėžys beginnt am zentralen Platz der Freiheit, dem Herzen der Stadt. Von dort aus führt Sie ein kurzer Spaziergang zur majestätischen Kathedrale, einem architektonischen Juwel. Am Vormittag tauchen Sie im Dramentheater in die lokale Kultur ein.\nNach einem Vormittag voller Kultur und Geschichte ist es Zeit für das Mittagessen. Erkunden Sie die reiche Vergangenheit der Region im Regionalmuseum. Der Nachmittag steht im Zeichen der Entspannung: Ein Spaziergang durch den Senvagė-Park am Flussufer bietet eine willkommene Pause.\nAm späten Nachmittag überqueren Sie den Fluss und entdecken den größeren Skaistakalnis-Park. Genießen Sie die Ruhe und die Natur, bevor Sie sich auf den Abend vorbereiten. Die Parks der Stadt sind ihre grünen Lungen und perfekt, um dem städtischen Trubel zu entfliehen.\nWenn der Abend naht, kehren Sie ins Zentrum zurück. Die Restaurants rund um den Platz der Freiheit laden zu einem köstlichen Abendessen ein. Lassen Sie den Tag mit litauischen Spezialitäten ausklingen und genießen Sie die friedliche Atmosphäre der Stadt.",
+        "hu": "Panevėžysi napja a város szívében, a központi Szabadság téren kezdődik. Innen egy rövid séta vezet a fenséges székesegyházhoz, egy építészeti gyöngyszemhez. Délelőtt a Juozas Miltinis Drámai Színházban merül el a helyi kultúrában.\nA kultúrával és történelemmel teli délelőtt után itt az ebéd ideje. Fedezze fel a régió gazdag múltját a Helytörténeti Múzeumban. A délután a pihenésé: a folyóparti Senvagė parkban tett séta kellemes kikapcsolódást nyújt.\nKéső délután átkel a folyón, hogy felfedezze a nagyobb Skaistakalnis parkot. Élvezze a csendet és a természetet, mielőtt felkészül az estére. A város parkjai a zöld tüdejét jelentik, tökéletesek a városi nyüzsgésből való menekülésre.\nAz este közeledtével térjen vissza a központba. A Szabadság tér körüli éttermek ízletes vacsorára csábítanak. Zárja a napot litván specialitásokkal, és élvezze a város békés hangulatát.",
+        "ro": "Ziua dvs. în Panevėžys începe în Piața Libertății, inima orașului. De acolo, o scurtă plimbare vă duce la catedrala maiestuoasă, o bijuterie arhitecturală. Dimineața, vă scufundați în cultura locală la Teatrul Dramatic Juozas Miltinis.\nDupă o dimineață plină de cultură și istorie, este timpul pentru prânz. Explorați trecutul bogat al regiunii la Muzeul Regional. După-amiaza este dedicată relaxării: o plimbare prin Parcul Senvagė de pe malul râului oferă o pauză binevenită.\nSpre seară, traversați râul pentru a descoperi Parcul Skaistakalnis, mai mare. Bucurați-vă de liniște și natură înainte de a vă pregăti pentru seară. Parcurile orașului sunt plămânii săi verzi și perfecte pentru a scăpa de agitația urbană.\nPe măsură ce se apropie seara, reveniți în centru. Restaurantele din jurul Pieței Libertății vă invită la o cină delicioasă. Încheiați ziua cu specialități lituaniene și bucurați-vă de atmosfera pașnică a orașului.",
+        "en": "Your day in Panevėžys begins in the central Freedom Square, the heart of the city. From there, a short walk takes you to the majestic cathedral, an architectural gem. In the morning, immerse yourself in the local culture at the Juozas Miltinis Drama Theatre.\nAfter a morning of culture and history, it's time for lunch. Explore the region's rich past at the Local Lore Museum. The afternoon is for relaxation: a walk through Senvagė Park on the riverbank offers a welcome break.\nIn the late afternoon, you cross the river to discover the larger Skaistakalnis Park. Enjoy the peace and nature before preparing for the evening. The city's parks are its green lungs and perfect for escaping the urban hustle.\nAs evening approaches, return to the center. The restaurants around Freedom Square invite you for a delicious dinner. End the day with Lithuanian specialties and enjoy the city's peaceful atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cepelinai",
+            "tip": "Probieren Sie die berühmten litauischen Kartoffelklöße, ein herzhaftes Nationalgericht."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Eine erfrischende kalte Rote-Bete-Suppe, perfekt für wärmere Tage."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Herzhafte Teigtaschen, oft mit Fleisch gefüllt, ein Erbe der Karäer-Kultur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cepelinai",
+            "tip": "Kóstolja meg a híres litván burgonyagombócot, egy kiadós nemzeti ételt."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Egy frissítő hideg céklaleves, tökéletes a melegebb napokra."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Ízletes, gyakran hússal töltött tésztaféleség, a karaita kultúra öröksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cepelinai",
+            "tip": "Încercați faimoasele găluște de cartofi lituaniene, un fel de mâncare național consistent."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "O supă rece răcoritoare de sfeclă roșie, perfectă pentru zilele mai calde."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Pachețele savuroase, adesea umplute cu carne, o moștenire a culturii karaite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cepelinai",
+            "tip": "Try the famous Lithuanian potato dumplings, a hearty national dish."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "A refreshing cold beetroot soup, perfect for warmer days."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Savory pastries, often filled with meat, a heritage of the Karaite culture."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Nevėžis im Senvagė-Park",
+            "tip": "Finden Sie eine Bank am Fluss und genießen Sie die ruhige Atmosphäre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skaistakalnis-Park",
+            "tip": "Verlieren Sie sich auf den Wegen dieses weitläufigen Parks für einen Moment der Einsamkeit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innenhof der Kathedrale",
+            "tip": "Ein friedlicher Ort, um die Architektur abseits der Straße zu bewundern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nevėžis folyó partja a Senvagė parkban",
+            "tip": "Keressen egy padot a folyó mellett, és élvezze a csendes hangulatot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skaistakalnis park",
+            "tip": "Vesszen el ennek a tágas parknak az ösvényein egy magányos pillanatra.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A székesegyház udvara",
+            "tip": "Békés hely, ahol az utca zajától távol csodálhatja meg az építészetet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Nevėžis în Parcul Senvagė",
+            "tip": "Găsiți o bancă lângă râu și bucurați-vă de atmosfera liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Skaistakalnis",
+            "tip": "Pierdeți-vă pe aleile acestui parc întins pentru un moment de singurătate.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea interioară a Catedralei",
+            "tip": "Un loc pașnic pentru a admira arhitectura departe de stradă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Nevėžis River in Senvagė Park",
+            "tip": "Find a bench by the river and enjoy the quiet atmosphere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skaistakalnis Park",
+            "tip": "Get lost on the paths of this spacious park for a moment of solitude.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Courtyard",
+            "tip": "A peaceful spot to admire the architecture away from the street.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach Märkten, auf denen lokale Produkte wie Honig, Käse und Kunsthandwerk verkauft werden."
+          },
+          {
+            "name": "Leinenprodukte",
+            "tip": "Litauen ist bekannt für sein hochwertiges Leinen; ein schönes und praktisches Souvenir."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Das 'Gold der Ostsee' ist ein klassisches Mitbringsel aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen olyan piacokat, ahol helyi termékeket, például mézet, sajtot és kézműves termékeket árulnak."
+          },
+          {
+            "name": "Vászontárgyak",
+            "tip": "Litvánia híres a kiváló minőségű vászonról; egy szép és praktikus szuvenír."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "A 'balti arany' klasszikus ajándéktárgy a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețe care vând produse locale precum miere, brânză și obiecte de artizanat."
+          },
+          {
+            "name": "Produse din in",
+            "tip": "Lituania este renumită pentru inul său de înaltă calitate; un suvenir frumos și practic."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "„Aurul Balticii” este un suvenir clasic din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for markets selling local products like honey, cheese, and handicrafts."
+          },
+          {
+            "name": "Linen Goods",
+            "tip": "Lithuania is known for its high-quality linen; a beautiful and practical souvenir."
+          },
+          {
+            "name": "Amber Jewelry",
+            "tip": "The 'Baltic Gold' is a classic souvenir from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil der Stadt zu Fuß erkunden werden.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie genügend Zeit für die Parks ein, sie sind eine wahre Oase.",
+          "Überprüfen Sie die Öffnungszeiten der Museen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a város nagy részét gyalog fogja bejárni.",
+          "A belváros legtöbb látnivalója könnyen elérhető gyalog.",
+          "Szánjon elegendő időt a parkokra, igazi oázisok.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți explora cea mai mare parte a orașului pe jos.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Alocați suficient timp pentru parcuri, sunt o adevărată oază.",
+          "Verificați în avans orele de funcționare ale muzeelor."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be exploring most of the city on foot.",
+          "Most city center attractions are within easy walking distance.",
+          "Allow plenty of time for the parks, they are a true oasis.",
+          "Check museum opening times in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Freiheit",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Freedom Square"
+          },
+          "coords": [
+            24.358,
+            55.7285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und genießen Sie einen Kaffee, bevor die Tour beginnt.",
+            "hu": "Zárja le a biciklit, és igyon egy kávét a túra előtt.",
+            "ro": "Asigurați-vă bicicleta și savurați o cafea înainte de a începe turul.",
+            "en": "Lock up your bike and enjoy a coffee before the tour starts."
+          }
+        },
+        {
+          "name": {
+            "de": "Dramentheater Juozas Miltinis",
+            "hu": "Juozas Miltinis Drámai Színház",
+            "ro": "Teatrul Dramatic Juozas Miltinis",
+            "en": "Juozas Miltinis Drama Theatre"
+          },
+          "coords": [
+            24.359,
+            55.7295
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:38",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Fotostopp an diesem wichtigen Kulturort.",
+            "hu": "Egy gyors fotómegálló ennél a fontos kulturális helyszínnél.",
+            "ro": "O scurtă oprire pentru fotografii la acest important loc cultural.",
+            "en": "A quick photo stop at this important cultural venue."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Christi Himmelfahrt",
+            "hu": "Krisztus Mennybemenetele székesegyház",
+            "ro": "Catedrala Înălțarea Domnului",
+            "en": "Cathedral of Christ the King"
+          },
+          "coords": [
+            24.364,
+            55.7265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:02",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die beeindruckende Architektur zu bewundern.",
+            "hu": "Szánjon időt a lenyűgöző építészet megcsodálására.",
+            "ro": "Luați-vă timp pentru a admira arhitectura impresionantă.",
+            "en": "Take your time to admire the impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Senvagė-Park",
+            "hu": "Senvagė park",
+            "ro": "Parcul Senvagė",
+            "en": "Senvagė Park"
+          },
+          "coords": [
+            24.367,
+            55.732
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:08",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Radeln Sie gemütlich am Fluss entlang und genießen Sie die Natur.",
+            "hu": "Tekerjen kényelmesen a folyó mentén, és élvezze a természetet.",
+            "ro": "Pedalați pe îndelete de-a lungul râului și bucurați-vă de natură.",
+            "en": "Cycle leisurely along the river and enjoy the nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum Panevėžys",
+            "hu": "Panevėžysi Helytörténeti Múzeum",
+            "ro": "Muzeul Regional Panevėžys",
+            "en": "Panevėžys Local Lore Museum"
+          },
+          "coords": [
+            24.36,
+            55.734
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und tauchen Sie in die Geschichte der Region ein.",
+            "hu": "Parkolja le a kerékpárt, és merüljön el a régió történelmében.",
+            "ro": "Parcați-vă bicicleta și scufundați-vă în istoria regiunii.",
+            "en": "Park your bike and dive into the history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Skaistakalnis-Park",
+            "hu": "Skaistakalnis park",
+            "ro": "Parcul Skaistakalnis",
+            "en": "Skaistakalnis Park"
+          },
+          "coords": [
+            24.382,
+            55.736
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:58",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Dieser größere Park eignet sich hervorragend für eine längere Radtour.",
+            "hu": "Ez a nagyobb park kiválóan alkalmas egy hosszabb biciklitúrára.",
+            "ro": "Acest parc mai mare este excelent pentru o plimbare mai lungă cu bicicleta.",
+            "en": "This larger park is excellent for a longer bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Schmalspurbahn-Museum",
+            "hu": "Keskeny nyomtávú Vasúti Múzeum",
+            "ro": "Muzeul Căii Ferate Înguste",
+            "en": "Narrow Gauge Railway Museum"
+          },
+          "coords": [
+            24.34,
+            55.738
+          ],
+          "category": "museums",
+          "arrive_at": "15:58",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Ein Muss für Eisenbahnfans! Entdecken Sie historische Züge.",
+            "hu": "Vasútrajongóknak kötelező! Fedezze fel a történelmi vonatokat.",
+            "ro": "O necesitate pentru fanii căilor ferate! Descoperiți trenuri istorice.",
+            "en": "A must for railway fans! Discover historic trains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Panevėžys beginnt am Platz der Freiheit. Von hier aus radeln Sie zu den kulturellen Highlights wie dem Dramentheater und der Kathedrale. Am Vormittag genießen Sie eine entspannte Fahrt durch den Senvagė-Park entlang des Flusses.\nNach der kulturellen Erkundung ist es Zeit für das Mittagessen und einen Besuch im Regionalmuseum, um mehr über die lokale Geschichte zu erfahren. Der Nachmittag gehört der Natur und Technik. Sie radeln zum weitläufigen Skaistakalnis-Park, ideal für eine ausgedehnte Runde.\nDer Höhepunkt des Nachmittags ist die Fahrt zum einzigartigen Schmalspurbahn-Museum. Es liegt etwas außerhalb des Zentrums und ist mit dem Fahrrad gut erreichbar. Planen Sie hier genügend Zeit ein, um die faszinierende Welt der Eisenbahnen zu entdecken.\nAm Abend kehren Sie ins Stadtzentrum zurück. Die Fahrradtour hat Ihnen einen umfassenden Überblick über die Vielfalt von Panevėžys gegeben, von der Kultur über die Natur bis zur Technikgeschichte. Ein wohlverdientes Abendessen wartet auf Sie.",
+        "hu": "Panevėžysi kerékpártúrája a Szabadság téren kezdődik. Innen olyan kulturális nevezetességekhez teker, mint a Drámai Színház és a székesegyház. Délelőtt egy kellemes utat tesz meg a Senvagė parkon keresztül a folyó mentén.\nA kulturális felfedezés után ideje ebédelni és ellátogatni a Helytörténeti Múzeumba, hogy többet megtudjon a helyi történelemről. A délután a természeté és a technikáé. Átteker a tágas Skaistakalnis parkba, amely ideális egy hosszabb körre.\nA délután csúcspontja az út az egyedülálló Keskeny nyomtávú Vasúti Múzeumhoz. Kicsit a központon kívül található, és kerékpárral könnyen megközelíthető. Szánjon itt elegendő időt a vasutak lenyűgöző világának felfedezésére.\nEste visszatér a városközpontba. A kerékpártúra átfogó képet adott Panevėžys sokszínűségéről, a kultúrától a természeten át a technikatörténetig. Egy jól megérdemelt vacsora várja.",
+        "ro": "Turul cu bicicleta prin Panevėžys începe din Piața Libertății. De aici, pedalați spre atracțiile culturale precum Teatrul Dramatic și Catedrala. Dimineața vă bucurați de o plimbare relaxantă prin Parcul Senvagė de-a lungul râului.\nDupă explorarea culturală, este timpul pentru prânz și o vizită la Muzeul Regional pentru a afla mai multe despre istoria locală. După-amiaza este dedicată naturii și tehnologiei. Pedalați spre Parcul spațios Skaistakalnis, ideal pentru o tură extinsă.\nPunctul culminant al după-amiezii este drumul către unicul Muzeu al Căii Ferate Înguste. Este situat puțin în afara centrului și este ușor accesibil cu bicicleta. Alocați suficient timp aici pentru a descoperi lumea fascinantă a căilor ferate.\nSeara, vă întoarceți în centrul orașului. Turul cu bicicleta v-a oferit o imagine cuprinzătoare a diversității din Panevėžys, de la cultură și natură la istoria tehnică. O cină binemeritată vă așteaptă.",
+        "en": "Your bike tour of Panevėžys starts at Freedom Square. From here, you'll cycle to cultural highlights like the Drama Theatre and the Cathedral. In the morning, enjoy a relaxed ride through Senvagė Park along the river.\nAfter the cultural exploration, it's time for lunch and a visit to the Local Lore Museum to learn more about local history. The afternoon is dedicated to nature and technology. You'll cycle to the spacious Skaistakalnis Park, ideal for an extended loop.\nThe highlight of the afternoon is the ride to the unique Narrow Gauge Railway Museum. It's located a bit outside the center and is easily accessible by bike. Allow enough time here to discover the fascinating world of railways.\nIn the evening, you'll return to the city center. The bike tour has given you a comprehensive overview of the diversity of Panevėžys, from culture and nature to technical history. A well-deserved dinner awaits you."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cepelinai",
+            "tip": "Probieren Sie die berühmten litauischen Kartoffelklöße, ein herzhaftes Nationalgericht."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Eine erfrischende kalte Rote-Bete-Suppe, perfekt für wärmere Tage."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Herzhafte Teigtaschen, oft mit Fleisch gefüllt, ein Erbe der Karäer-Kultur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cepelinai",
+            "tip": "Kóstolja meg a híres litván burgonyagombócot, egy kiadós nemzeti ételt."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Egy frissítő hideg céklaleves, tökéletes a melegebb napokra."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Ízletes, gyakran hússal töltött tésztaféleség, a karaita kultúra öröksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cepelinai",
+            "tip": "Încercați faimoasele găluște de cartofi lituaniene, un fel de mâncare național consistent."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "O supă rece răcoritoare de sfeclă roșie, perfectă pentru zilele mai calde."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Pachețele savuroase, adesea umplute cu carne, o moștenire a culturii karaite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cepelinai",
+            "tip": "Try the famous Lithuanian potato dumplings, a hearty national dish."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "A refreshing cold beetroot soup, perfect for warmer days."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Savory pastries, often filled with meat, a heritage of the Karaite culture."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Nevėžis im Senvagė-Park",
+            "tip": "Finden Sie eine Bank am Fluss und genießen Sie die ruhige Atmosphäre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skaistakalnis-Park",
+            "tip": "Verlieren Sie sich auf den Wegen dieses weitläufigen Parks für einen Moment der Einsamkeit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innenhof der Kathedrale",
+            "tip": "Ein friedlicher Ort, um die Architektur abseits der Straße zu bewundern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nevėžis folyó partja a Senvagė parkban",
+            "tip": "Keressen egy padot a folyó mellett, és élvezze a csendes hangulatot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skaistakalnis park",
+            "tip": "Vesszen el ennek a tágas parknak az ösvényein egy magányos pillanatra.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A székesegyház udvara",
+            "tip": "Békés hely, ahol az utca zajától távol csodálhatja meg az építészetet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Nevėžis în Parcul Senvagė",
+            "tip": "Găsiți o bancă lângă râu și bucurați-vă de atmosfera liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Skaistakalnis",
+            "tip": "Pierdeți-vă pe aleile acestui parc întins pentru un moment de singurătate.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea interioară a Catedralei",
+            "tip": "Un loc pașnic pentru a admira arhitectura departe de stradă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Nevėžis River in Senvagė Park",
+            "tip": "Find a bench by the river and enjoy the quiet atmosphere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skaistakalnis Park",
+            "tip": "Get lost on the paths of this spacious park for a moment of solitude.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Courtyard",
+            "tip": "A peaceful spot to admire the architecture away from the street.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach Märkten, auf denen lokale Produkte wie Honig, Käse und Kunsthandwerk verkauft werden."
+          },
+          {
+            "name": "Leinenprodukte",
+            "tip": "Litauen ist bekannt für sein hochwertiges Leinen; ein schönes und praktisches Souvenir."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Das 'Gold der Ostsee' ist ein klassisches Mitbringsel aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen olyan piacokat, ahol helyi termékeket, például mézet, sajtot és kézműves termékeket árulnak."
+          },
+          {
+            "name": "Vászontárgyak",
+            "tip": "Litvánia híres a kiváló minőségű vászonról; egy szép és praktikus szuvenír."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "A 'balti arany' klasszikus ajándéktárgy a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețe care vând produse locale precum miere, brânză și obiecte de artizanat."
+          },
+          {
+            "name": "Produse din in",
+            "tip": "Lituania este renumită pentru inul său de înaltă calitate; un suvenir frumos și practic."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "„Aurul Balticii” este un suvenir clasic din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for markets selling local products like honey, cheese, and handicrafts."
+          },
+          {
+            "name": "Linen Goods",
+            "tip": "Lithuania is known for its high-quality linen; a beautiful and practical souvenir."
+          },
+          {
+            "name": "Amber Jewelry",
+            "tip": "The 'Baltic Gold' is a classic souvenir from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Panevėžys ist relativ flach und daher ideal zum Radfahren.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an belebten Orten.",
+          "Nutzen Sie die Radwege entlang des Flusses für eine sichere und malerische Fahrt.",
+          "Einige Museen haben möglicherweise keine speziellen Fahrradständer, fragen Sie nach einer sicheren Abstellmöglichkeit."
+        ],
+        "hu": [
+          "Panevėžys viszonylag sík, így ideális a kerékpározáshoz.",
+          "Mindig zárja le jól a kerékpárját, különösen forgalmas helyeken.",
+          "Használja a folyó menti kerékpárutakat a biztonságos és festői utazáshoz.",
+          "Néhány múzeumnak esetleg nincs külön kerékpártárolója, kérdezzen rá a biztonságos elhelyezési lehetőségre."
+        ],
+        "ro": [
+          "Panevėžys este relativ plat, ceea ce îl face ideal pentru ciclism.",
+          "Asigurați-vă întotdeauna bicicleta corespunzător, mai ales în locurile aglomerate.",
+          "Folosiți pistele de biciclete de-a lungul râului pentru o plimbare sigură și pitorească.",
+          "Unele muzee s-ar putea să nu aibă suporturi speciale pentru biciclete, întrebați despre un loc sigur de parcare."
+        ],
+        "en": [
+          "Panevėžys is relatively flat, making it ideal for cycling.",
+          "Always lock your bike securely, especially in busy places.",
+          "Use the bike paths along the river for a safe and scenic ride.",
+          "Some museums may not have dedicated bike racks, ask about a safe place to park."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 6.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schmalspurbahn-Museum",
+            "hu": "Keskeny nyomtávú Vasúti Múzeum",
+            "ro": "Muzeul Căii Ferate Înguste",
+            "en": "Narrow Gauge Railway Museum"
+          },
+          "coords": [
+            24.34,
+            55.738
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, da es außerhalb des Zentrums liegt und gute Parkmöglichkeiten bietet.",
+            "hu": "Kezdje itt, mivel a központon kívül található és jó parkolási lehetőségekkel rendelkezik.",
+            "ro": "Începeți de aici, deoarece este în afara centrului și are parcare bună.",
+            "en": "Start here as it is outside the center and has good parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Skaistakalnis-Park",
+            "hu": "Skaistakalnis park",
+            "ro": "Parcul Skaistakalnis",
+            "en": "Skaistakalnis Park"
+          },
+          "coords": [
+            24.382,
+            55.736
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park und machen Sie einen Spaziergang, um die Natur zu genießen.",
+            "hu": "Vezessen a parkhoz, és tegyen egy sétát a természet élvezetéért.",
+            "ro": "Conduceți până la parc și faceți o plimbare pentru a vă bucura de natură.",
+            "en": "Drive to the park and take a walk to enjoy nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz der Freiheit (Cluster Zentrum)",
+            "hu": "Szabadság tér (Belvárosi klaszter)",
+            "ro": "Piața Libertății (Cluster Centru)",
+            "en": "Freedom Square (City Center Cluster)"
+          },
+          "coords": [
+            24.358,
+            55.7285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:08",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe und erkunden Sie den zentralen Cluster zu Fuß.",
+            "hu": "Parkolja le autóját a közelben, és fedezze fel gyalog a központi klasztert.",
+            "ro": "Parcați mașina în apropiere și explorați clusterul central pe jos.",
+            "en": "Park your car nearby and explore the central cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Christi Himmelfahrt",
+            "hu": "Krisztus Mennybemenetele székesegyház",
+            "ro": "Catedrala Înălțarea Domnului",
+            "en": "Cathedral of Christ the King"
+          },
+          "coords": [
+            24.364,
+            55.7265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz der Freiheit zu diesem architektonischen Meisterwerk.",
+            "hu": "Egy rövid séta a Szabadság tértől ehhez az építészeti remekműhöz.",
+            "ro": "O scurtă plimbare de la Piața Libertății la această capodoperă arhitecturală.",
+            "en": "A short walk from Freedom Square to this architectural masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Dramentheater Juozas Miltinis",
+            "hu": "Juozas Miltinis Drámai Színház",
+            "ro": "Teatrul Dramatic Juozas Miltinis",
+            "en": "Juozas Miltinis Drama Theatre"
+          },
+          "coords": [
+            24.359,
+            55.7295
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Theater liegt ebenfalls im zentralen Cluster und ist leicht zu Fuß erreichbar.",
+            "hu": "A színház szintén a központi klaszterben található, és könnyen megközelíthető gyalog.",
+            "ro": "Teatrul este, de asemenea, în clusterul central și ușor accesibil pe jos.",
+            "en": "The theatre is also in the central cluster and easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum Panevėžys",
+            "hu": "Panevėžysi Helytörténeti Múzeum",
+            "ro": "Muzeul Regional Panevėžys",
+            "en": "Panevėžys Local Lore Museum"
+          },
+          "coords": [
+            24.36,
+            55.734
+          ],
+          "category": "museums",
+          "arrive_at": "15:05",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein etwas längerer Spaziergang, der sich aber lohnt, um in die Geschichte einzutauchen.",
+            "hu": "Kicsit hosszabb séta, de megéri, hogy elmerüljön a történelemben.",
+            "ro": "O plimbare puțin mai lungă, dar care merită pentru a vă cufunda în istorie.",
+            "en": "A slightly longer walk, but worth it to immerse yourself in history."
+          }
+        },
+        {
+          "name": {
+            "de": "Senvagė-Park",
+            "hu": "Senvagė park",
+            "ro": "Parcul Senvagė",
+            "en": "Senvagė Park"
+          },
+          "coords": [
+            24.367,
+            55.732
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:03",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie den Rundgang durch den zentralen Cluster mit einem entspannten Spaziergang am Fluss.",
+            "hu": "Zárja a központi klaszter bejárását egy pihentető sétával a folyóparton.",
+            "ro": "Încheiați turul clusterului central cu o plimbare relaxantă pe malul râului.",
+            "en": "End the tour of the central cluster with a relaxing walk by the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Flexibilität, auch weiter entfernte Ziele zu erreichen. Beginnen Sie Ihren Tag im faszinierenden Schmalspurbahn-Museum. Am Vormittag fahren Sie zum Skaistakalnis-Park, wo Sie einen erfrischenden Spaziergang machen, bevor Sie ins Zentrum fahren.\nParken Sie Ihr Auto in der Nähe des Platzes der Freiheit und bereiten Sie sich darauf vor, das Herz von Panevėžys zu Fuß zu erkunden. Dieser zentrale Cluster umfasst die beeindruckende Kathedrale, das berühmte Dramentheater und das Regionalmuseum. Nehmen Sie sich Zeit für das Mittagessen in einem der Restaurants im Zentrum.\nDer Nachmittag ist der Erkundung des zentralen Clusters gewidmet. Schlendern Sie von der Kathedrale zum Theater und tauchen Sie dann tief in die Geschichte im Regionalmuseum ein. Die kurzen Spaziergänge zwischen den Sehenswürdigkeiten ermöglichen es Ihnen, die Atmosphäre der Stadt aufzusaugen.\nBeenden Sie Ihren Tag mit einem entspannten Spaziergang durch den Senvagė-Park, der ebenfalls vom Zentrum aus zu Fuß erreichbar ist. Genießen Sie die Ruhe am Fluss, bevor Sie zu Ihrem Auto zurückkehren. Dieser Tag kombiniert den Komfort des Autos mit der Intimität eines Stadtspaziergangs.",
+        "hu": "Autóval rugalmasan elérheti a távolabbi célpontokat is. Kezdje a napot a lenyűgöző Keskeny nyomtávú Vasúti Múzeumban. Délelőtt vezessen a Skaistakalnis parkba egy frissítő sétára, mielőtt a központba indul.\nParkolja le autóját a Szabadság tér közelében, és készüljön fel Panevėžys szívének gyalogos felfedezésére. Ez a központi klaszter magában foglalja a lenyűgöző székesegyházat, a híres Drámai Színházat és a Helytörténeti Múzeumot. Szánjon időt az ebédre az egyik belvárosi étteremben.\nA délután a központi klaszter felfedezésének van szentelve. Sétáljon a székesegyháztól a színházig, majd merüljön el mélyen a történelemben a Helytörténeti Múzeumban. A látnivalók közötti rövid séták lehetővé teszik, hogy magába szívja a város hangulatát.\nZárja a napot egy pihentető sétával a Senvagė parkban, amely szintén gyalogosan elérhető a központból. Élvezze a folyó menti nyugalmat, mielőtt visszatér az autójához. Ez a nap ötvözi az autó kényelmét a városi séta intimitásával.",
+        "ro": "Cu mașina, aveți flexibilitatea de a ajunge la destinații mai îndepărtate. Începeți ziua la fascinantul Muzeu al Căii Ferate Înguste. Dimineața, conduceți spre Parcul Skaistakalnis pentru o plimbare revigorantă înainte de a vă îndrepta spre centru.\nParcați mașina lângă Piața Libertății și pregătiți-vă să explorați inima orașului Panevėžys pe jos. Acest cluster central include impresionanta catedrală, faimosul Teatru Dramatic și Muzeul Regional. Luați-vă timp pentru prânz la unul dintre restaurantele din centru.\nDupă-amiaza este dedicată explorării clusterului central. Plimbați-vă de la catedrală la teatru, apoi adânciți-vă în istorie la Muzeul Regional. Plimbările scurte între atracții vă permit să absorbiți atmosfera orașului.\nÎncheiați ziua cu o plimbare relaxantă prin Parcul Senvagė, accesibil și el pe jos din centru. Bucurați-vă de liniștea de pe malul râului înainte de a vă întoarce la mașină. Această zi combină confortul mașinii cu intimitatea unei plimbări prin oraș.",
+        "en": "With a car, you have the flexibility to reach more distant destinations. Start your day at the fascinating Narrow Gauge Railway Museum. In the morning, drive to Skaistakalnis Park for a refreshing walk before heading to the center.\nPark your car near Freedom Square and prepare to explore the heart of Panevėžys on foot. This central cluster includes the impressive cathedral, the famous Drama Theatre, and the Local Lore Museum. Take time for lunch at one of the restaurants in the center.\nThe afternoon is dedicated to exploring the central cluster. Stroll from the cathedral to the theatre, then delve deep into history at the Local Lore Museum. The short walks between sights allow you to soak up the city's atmosphere.\nEnd your day with a relaxing walk through Senvagė Park, also reachable on foot from the center. Enjoy the peace by the river before returning to your car. This day combines the convenience of the car with the intimacy of a city walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cepelinai",
+            "tip": "Probieren Sie die berühmten litauischen Kartoffelklöße, ein herzhaftes Nationalgericht."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Eine erfrischende kalte Rote-Bete-Suppe, perfekt für wärmere Tage."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Herzhafte Teigtaschen, oft mit Fleisch gefüllt, ein Erbe der Karäer-Kultur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cepelinai",
+            "tip": "Kóstolja meg a híres litván burgonyagombócot, egy kiadós nemzeti ételt."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Egy frissítő hideg céklaleves, tökéletes a melegebb napokra."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Ízletes, gyakran hússal töltött tésztaféleség, a karaita kultúra öröksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cepelinai",
+            "tip": "Încercați faimoasele găluște de cartofi lituaniene, un fel de mâncare național consistent."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "O supă rece răcoritoare de sfeclă roșie, perfectă pentru zilele mai calde."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Pachețele savuroase, adesea umplute cu carne, o moștenire a culturii karaite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cepelinai",
+            "tip": "Try the famous Lithuanian potato dumplings, a hearty national dish."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "A refreshing cold beetroot soup, perfect for warmer days."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Savory pastries, often filled with meat, a heritage of the Karaite culture."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Nevėžis im Senvagė-Park",
+            "tip": "Finden Sie eine Bank am Fluss und genießen Sie die ruhige Atmosphäre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skaistakalnis-Park",
+            "tip": "Verlieren Sie sich auf den Wegen dieses weitläufigen Parks für einen Moment der Einsamkeit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innenhof der Kathedrale",
+            "tip": "Ein friedlicher Ort, um die Architektur abseits der Straße zu bewundern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nevėžis folyó partja a Senvagė parkban",
+            "tip": "Keressen egy padot a folyó mellett, és élvezze a csendes hangulatot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skaistakalnis park",
+            "tip": "Vesszen el ennek a tágas parknak az ösvényein egy magányos pillanatra.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A székesegyház udvara",
+            "tip": "Békés hely, ahol az utca zajától távol csodálhatja meg az építészetet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Nevėžis în Parcul Senvagė",
+            "tip": "Găsiți o bancă lângă râu și bucurați-vă de atmosfera liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Skaistakalnis",
+            "tip": "Pierdeți-vă pe aleile acestui parc întins pentru un moment de singurătate.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea interioară a Catedralei",
+            "tip": "Un loc pașnic pentru a admira arhitectura departe de stradă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Nevėžis River in Senvagė Park",
+            "tip": "Find a bench by the river and enjoy the quiet atmosphere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skaistakalnis Park",
+            "tip": "Get lost on the paths of this spacious park for a moment of solitude.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Courtyard",
+            "tip": "A peaceful spot to admire the architecture away from the street.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach Märkten, auf denen lokale Produkte wie Honig, Käse und Kunsthandwerk verkauft werden."
+          },
+          {
+            "name": "Leinenprodukte",
+            "tip": "Litauen ist bekannt für sein hochwertiges Leinen; ein schönes und praktisches Souvenir."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Das 'Gold der Ostsee' ist ein klassisches Mitbringsel aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen olyan piacokat, ahol helyi termékeket, például mézet, sajtot és kézműves termékeket árulnak."
+          },
+          {
+            "name": "Vászontárgyak",
+            "tip": "Litvánia híres a kiváló minőségű vászonról; egy szép és praktikus szuvenír."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "A 'balti arany' klasszikus ajándéktárgy a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețe care vând produse locale precum miere, brânză și obiecte de artizanat."
+          },
+          {
+            "name": "Produse din in",
+            "tip": "Lituania este renumită pentru inul său de înaltă calitate; un suvenir frumos și practic."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "„Aurul Balticii” este un suvenir clasic din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for markets selling local products like honey, cheese, and handicrafts."
+          },
+          {
+            "name": "Linen Goods",
+            "tip": "Lithuania is known for its high-quality linen; a beautiful and practical souvenir."
+          },
+          {
+            "name": "Amber Jewelry",
+            "tip": "The 'Baltic Gold' is a classic souvenir from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Stadtzentrum im Voraus.",
+          "Die Cluster-Walking-Methode ist ideal, um Parkprobleme zu vermeiden und die Stadt intensiv zu erleben.",
+          "Planen Sie die Fahrzeiten zwischen den Clustern großzügig, um Verkehr zu berücksichtigen.",
+          "Ein GPS ist unerlässlich, um sich zwischen den verschiedenen Orten zurechtzufinden."
+        ],
+        "hu": [
+          "Előre tájékozódjon a belvárosi parkolási lehetőségekről és díjakról.",
+          "A klaszter-séta módszer ideális a parkolási problémák elkerülésére és a város intenzív megélésére.",
+          "Tervezze nagyvonalúan a klaszterek közötti utazási időt a forgalom figyelembevételével.",
+          "A GPS elengedhetetlen a különböző helyszínek közötti tájékozódáshoz."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare și taxele din centrul orașului.",
+          "Metoda de plimbare în cluster este ideală pentru a evita problemele de parcare și pentru a experimenta orașul intens.",
+          "Planificați generos timpii de deplasare între clustere pentru a lua în calcul traficul.",
+          "Un GPS este esențial pentru a naviga între diferitele locații."
+        ],
+        "en": [
+          "Check parking options and fees in the city center in advance.",
+          "The cluster-walking method is ideal for avoiding parking problems and experiencing the city intensely.",
+          "Plan driving times between clusters generously to account for traffic.",
+          "A GPS is essential for navigating between the different locations."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Freiheit (Cluster Zentrum)",
+            "hu": "Szabadság tér (Belvárosi klaszter)",
+            "ro": "Piața Libertății (Cluster Centru)",
+            "en": "Freedom Square (City Center Cluster)"
+          },
+          "coords": [
+            24.358,
+            55.7285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, das leicht mit öffentlichen Verkehrsmitteln erreichbar ist.",
+            "hu": "Kezdje a napot a város szívében, amely tömegközlekedéssel könnyen megközelíthető.",
+            "ro": "Începeți ziua în inima orașului, ușor accesibilă cu transportul public.",
+            "en": "Start your day in the heart of the city, easily accessible by public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Christi Himmelfahrt",
+            "hu": "Krisztus Mennybemenetele székesegyház",
+            "ro": "Catedrala Înălțarea Domnului",
+            "en": "Cathedral of Christ the King"
+          },
+          "coords": [
+            24.364,
+            55.7265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz der Freiheit zu diesem architektonischen Juwel.",
+            "hu": "Rövid séta a Szabadság tértől ehhez az építészeti gyöngyszemhez.",
+            "ro": "O scurtă plimbare de la Piața Libertății la această bijuterie arhitecturală.",
+            "en": "A short walk from Freedom Square to this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Dramentheater & Stadtgalerie (Cluster Kultur)",
+            "hu": "Drámai Színház és Városi Galéria (Kulturális klaszter)",
+            "ro": "Teatrul Dramatic & Galeria de Artă (Cluster Cultural)",
+            "en": "Drama Theatre & Art Gallery (Culture Cluster)"
+          },
+          "coords": [
+            24.359,
+            55.7295
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zu diesem Kulturzentrum. Beide Orte liegen nah beieinander.",
+            "hu": "Menjen busszal ehhez a kulturális központhoz. Mindkét hely közel van egymáshoz.",
+            "ro": "Luați un autobuz spre acest centru cultural. Ambele locații sunt apropiate.",
+            "en": "Take a bus to this cultural hub. Both venues are close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Senvagė-Park",
+            "hu": "Senvagė park",
+            "ro": "Parcul Senvagė",
+            "en": "Senvagė Park"
+          },
+          "coords": [
+            24.367,
+            55.732
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Vom Theater aus ist der Park für einen Mittagsspaziergang leicht zu Fuß erreichbar.",
+            "hu": "A színháztól a park könnyen megközelíthető egy ebéd utáni sétára.",
+            "ro": "De la teatru, parcul este ușor accesibil pentru o plimbare de prânz.",
+            "en": "From the theatre, the park is an easy walk for a lunchtime stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Schmalspurbahn-Museum (Cluster Technik)",
+            "hu": "Keskeny nyomtávú Vasúti Múzeum (Technikai klaszter)",
+            "ro": "Muzeul Căii Ferate Înguste (Cluster Tehnic)",
+            "en": "Narrow Gauge Railway Museum (Technical Cluster)"
+          },
+          "coords": [
+            24.34,
+            55.738
+          ],
+          "category": "museums",
+          "arrive_at": "14:13",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zu diesem einzigartigen Museum, das etwas außerhalb liegt.",
+            "hu": "Menjen busszal ehhez az egyedülálló múzeumhoz, amely kissé kívül esik.",
+            "ro": "Luați un autobuz către acest muzeu unic, situat puțin în afara centrului.",
+            "en": "Take a bus to this unique museum, located a bit outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum Panevėžys",
+            "hu": "Panevėžysi Helytörténeti Múzeum",
+            "ro": "Muzeul Regional Panevėžys",
+            "en": "Panevėžys Local Lore Museum"
+          },
+          "coords": [
+            24.36,
+            55.734
+          ],
+          "category": "museums",
+          "arrive_at": "16:23",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kehren Sie ins Zentrum zurück, um den Tag mit einem tiefen Einblick in die lokale Geschichte abzurunden.",
+            "hu": "Térjen vissza a központba, hogy a napot a helyi történelem mélyreható megismerésével zárja.",
+            "ro": "Întoarceți-vă în centru pentru a încheia ziua cu o incursiune profundă în istoria locală.",
+            "en": "Return to the center to round off the day with a deep dive into local history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Panevėžys, dem Platz der Freiheit. Nach der Erkundung des Platzes und der nahegelegenen Kathedrale zu Fuß, nehmen Sie einen Bus zum Kulturcluster, der das Dramentheater und die Stadtgalerie umfasst.\nNach dem kulturellen Vormittag spazieren Sie zum Senvagė-Park für eine Mittagspause im Grünen. Die kurzen Wege zwischen den Haltestellen innerhalb eines Clusters machen die Erkundung entspannt und angenehm. Der öffentliche Verkehr bringt Sie effizient von einem Stadtteil zum nächsten.\nAm Nachmittag steht ein besonderes Highlight auf dem Programm: eine Busfahrt zum einzigartigen Schmalspurbahn-Museum. Planen Sie genügend Zeit ein, dieses technische Denkmal zu erkunden. Dies zeigt, wie der öffentliche Nahverkehr auch weiter entfernte Sehenswürdigkeiten zugänglich macht.\nZum Abschluss des Tages kehren Sie mit dem Bus ins Zentrum zurück, um das Regionalmuseum zu besuchen. Diese Tour kombiniert kurze Spaziergänge mit effizienten Busfahrten und ermöglicht es Ihnen, die wichtigsten Sehenswürdigkeiten von Panevėžys an einem Tag ohne Auto zu erleben.",
+        "hu": "A nap Panevėžys szívében, a Szabadság téren kezdődik. Miután gyalog felfedezte a teret és a közeli székesegyházat, busszal induljon a kulturális klaszterhez, amely a Drámai Színházat és a Városi Galériát foglalja magában.\nA kulturális délelőtt után sétáljon a Senvagė parkba egy zöldben töltött ebédszünetre. A klasztereken belüli megállók közötti rövid távolságok kellemessé és pihentetővé teszik a felfedezést. A tömegközlekedés hatékonyan juttatja el egyik városrészből a másikba.\nDélután egy különleges programpont várja: buszozás az egyedülálló Keskeny nyomtávú Vasúti Múzeumhoz. Szánjon elegendő időt ennek a műszaki emlékműnek a felfedezésére. Ez is mutatja, hogy a tömegközlekedés a távolabbi látnivalókat is elérhetővé teszi.\nA nap végén busszal térjen vissza a központba, hogy meglátogassa a Helytörténeti Múzeumot. Ez a túra a rövid sétákat hatékony buszozással ötvözi, lehetővé téve, hogy egy nap alatt, autó nélkül élvezze Panevėžys legfontosabb látnivalóit.",
+        "ro": "Ziua dvs. începe în inima orașului Panevėžys, Piața Libertății. După ce explorați piața și catedrala din apropiere pe jos, luați un autobuz spre clusterul cultural, care include Teatrul Dramatic și Galeria de Artă.\nDupă o dimineață culturală, plimbați-vă până la Parcul Senvagė pentru o pauză de prânz în natură. Traseele scurte între stațiile dintr-un cluster fac explorarea relaxantă și plăcută. Transportul public vă duce eficient de la un cartier la altul.\nDupă-amiaza, programul include un punct de atracție special: o călătorie cu autobuzul la unicul Muzeu al Căii Ferate Înguste. Planificați suficient timp pentru a explora acest monument tehnic. Acest lucru demonstrează cum transportul public face accesibile chiar și atracțiile mai îndepărtate.\nLa sfârșitul zilei, reveniți în centru cu autobuzul pentru a vizita Muzeul Regional. Acest tur combină plimbările scurte cu călătoriile eficiente cu autobuzul, permițându-vă să experimentați principalele atracții din Panevėžys într-o singură zi, fără mașină.",
+        "en": "Your day begins in the heart of Panevėžys, Freedom Square. After exploring the square and the nearby cathedral on foot, take a bus to the cultural cluster, which includes the Drama Theatre and the Art Gallery.\nAfter a cultural morning, walk to Senvagė Park for a lunch break in the green. The short distances between stops within a cluster make exploration relaxed and enjoyable. Public transport efficiently takes you from one district to another.\nIn the afternoon, a special highlight is on the agenda: a bus trip to the unique Narrow Gauge Railway Museum. Plan enough time to explore this technical monument. This shows how public transport makes even more distant sights accessible.\nAt the end of the day, return to the center by bus to visit the Local Lore Museum. This tour combines short walks with efficient bus journeys, allowing you to experience the main attractions of Panevėžys in one day without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cepelinai",
+            "tip": "Probieren Sie die berühmten litauischen Kartoffelklöße, ein herzhaftes Nationalgericht."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Eine erfrischende kalte Rote-Bete-Suppe, perfekt für wärmere Tage."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Herzhafte Teigtaschen, oft mit Fleisch gefüllt, ein Erbe der Karäer-Kultur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cepelinai",
+            "tip": "Kóstolja meg a híres litván burgonyagombócot, egy kiadós nemzeti ételt."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Egy frissítő hideg céklaleves, tökéletes a melegebb napokra."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Ízletes, gyakran hússal töltött tésztaféleség, a karaita kultúra öröksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cepelinai",
+            "tip": "Încercați faimoasele găluște de cartofi lituaniene, un fel de mâncare național consistent."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "O supă rece răcoritoare de sfeclă roșie, perfectă pentru zilele mai calde."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Pachețele savuroase, adesea umplute cu carne, o moștenire a culturii karaite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cepelinai",
+            "tip": "Try the famous Lithuanian potato dumplings, a hearty national dish."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "A refreshing cold beetroot soup, perfect for warmer days."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Savory pastries, often filled with meat, a heritage of the Karaite culture."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Nevėžis im Senvagė-Park",
+            "tip": "Finden Sie eine Bank am Fluss und genießen Sie die ruhige Atmosphäre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skaistakalnis-Park",
+            "tip": "Verlieren Sie sich auf den Wegen dieses weitläufigen Parks für einen Moment der Einsamkeit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innenhof der Kathedrale",
+            "tip": "Ein friedlicher Ort, um die Architektur abseits der Straße zu bewundern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nevėžis folyó partja a Senvagė parkban",
+            "tip": "Keressen egy padot a folyó mellett, és élvezze a csendes hangulatot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skaistakalnis park",
+            "tip": "Vesszen el ennek a tágas parknak az ösvényein egy magányos pillanatra.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A székesegyház udvara",
+            "tip": "Békés hely, ahol az utca zajától távol csodálhatja meg az építészetet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Nevėžis în Parcul Senvagė",
+            "tip": "Găsiți o bancă lângă râu și bucurați-vă de atmosfera liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Skaistakalnis",
+            "tip": "Pierdeți-vă pe aleile acestui parc întins pentru un moment de singurătate.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea interioară a Catedralei",
+            "tip": "Un loc pașnic pentru a admira arhitectura departe de stradă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Nevėžis River in Senvagė Park",
+            "tip": "Find a bench by the river and enjoy the quiet atmosphere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skaistakalnis Park",
+            "tip": "Get lost on the paths of this spacious park for a moment of solitude.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Courtyard",
+            "tip": "A peaceful spot to admire the architecture away from the street.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach Märkten, auf denen lokale Produkte wie Honig, Käse und Kunsthandwerk verkauft werden."
+          },
+          {
+            "name": "Leinenprodukte",
+            "tip": "Litauen ist bekannt für sein hochwertiges Leinen; ein schönes und praktisches Souvenir."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Das 'Gold der Ostsee' ist ein klassisches Mitbringsel aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen olyan piacokat, ahol helyi termékeket, például mézet, sajtot és kézműves termékeket árulnak."
+          },
+          {
+            "name": "Vászontárgyak",
+            "tip": "Litvánia híres a kiváló minőségű vászonról; egy szép és praktikus szuvenír."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "A 'balti arany' klasszikus ajándéktárgy a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețe care vând produse locale precum miere, brânză și obiecte de artizanat."
+          },
+          {
+            "name": "Produse din in",
+            "tip": "Lituania este renumită pentru inul său de înaltă calitate; un suvenir frumos și practic."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "„Aurul Balticii” este un suvenir clasic din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for markets selling local products like honey, cheese, and handicrafts."
+          },
+          {
+            "name": "Linen Goods",
+            "tip": "Lithuania is known for its high-quality linen; a beautiful and practical souvenir."
+          },
+          {
+            "name": "Amber Jewelry",
+            "tip": "The 'Baltic Gold' is a classic souvenir from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Informieren Sie sich über die Buslinien und Fahrpläne im Voraus.",
+          "Apps für den öffentlichen Nahverkehr können bei der Planung Ihrer Route sehr hilfreich sein.",
+          "Beachten Sie, dass die Busse abends möglicherweise seltener fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Előre tájékozódjon a buszjáratokról és menetrendekről.",
+          "A tömegközlekedési alkalmazások nagyon hasznosak lehetnek az útvonaltervezésben.",
+          "Vegye figyelembe, hogy a buszok este ritkábban közlekedhetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Informați-vă în avans despre rutele și orarele autobuzelor.",
+          "Aplicațiile de transport public pot fi foarte utile în planificarea traseului.",
+          "Rețineți că autobuzele pot circula mai rar seara."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Find out about bus routes and schedules in advance.",
+          "Public transport apps can be very helpful in planning your route.",
+          "Be aware that buses may run less frequently in the evening."
+        ]
+      }
+    }
+  }
+}

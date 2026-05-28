@@ -1,0 +1,1436 @@
+{
+  "city_id": "uk-newport-cities-v2",
+  "anchor": {
+    "name": "Newport",
+    "coords": [
+      -2.9977,
+      51.5837
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Newport Market",
+            "hu": "Newporti Piac",
+            "ro": "Piața Newport",
+            "en": "Newport Market"
+          },
+          "coords": [
+            -2.998,
+            51.588
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie die Welsh Cakes von einem der traditionellen Stände.",
+            "hu": "Kóstold meg a walesi süteményt (Welsh Cakes) az egyik hagyományos standnál!",
+            "ro": "Încercați prăjiturile galeze (Welsh Cakes) de la una dintre tarabele tradiționale.",
+            "en": "Try the Welsh Cakes from one of the traditional stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Friars Walk Einkaufszentrum",
+            "hu": "Friars Walk bevásárlóközpont",
+            "ro": "Centrul Comercial Friars Walk",
+            "en": "Friars Walk"
+          },
+          "coords": [
+            -2.995,
+            51.5865
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:06",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ideal für einen schnellen Kaffee, bevor Sie die Stadt weiter erkunden.",
+            "hu": "Ideális egy gyors kávéra, mielőtt tovább fedeznéd fel a várost.",
+            "ro": "Perfect pentru o cafea rapidă înainte de a explora mai departe orașul.",
+            "en": "Great for a quick coffee stop before exploring more of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Newport Museum und Kunstgalerie",
+            "hu": "Newporti Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă din Newport",
+            "en": "Newport Museum and Art Gallery"
+          },
+          "coords": [
+            -3.0,
+            51.589
+          ],
+          "category": "museums",
+          "arrive_at": "10:56",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Exponate zur römischen Geschichte der Region.",
+            "hu": "Ne hagyd ki a régió római kori történelmét bemutató kiállításokat!",
+            "ro": "Nu ratați exponatele despre istoria romană a regiunii.",
+            "en": "Don't miss the exhibits on the region's Roman history."
+          }
+        },
+        {
+          "name": {
+            "de": "Newport Cathedral",
+            "hu": "Newporti Katedrális",
+            "ro": "Catedrala din Newport",
+            "en": "Newport Cathedral"
+          },
+          "coords": [
+            -2.991,
+            51.593
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:52",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den normannischen Merkmalen der ursprünglichen Struktur.",
+            "hu": "Keresd az eredeti épület normann stílusjegyeit!",
+            "ro": "Căutați elementele normande ale structurii originale.",
+            "en": "Look for the Norman features of the original structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Belle Vue Park",
+            "hu": "Belle Vue Park",
+            "ro": "Parcul Belle Vue",
+            "en": "Belle Vue Park"
+          },
+          "coords": [
+            -3.01,
+            51.583
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:41",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Pause am Nachmittag, genießen Sie die viktorianischen Gewächshäuser.",
+            "hu": "Tökéletes hely egy délutáni pihenőre, élvezd a viktoriánus üvegházakat!",
+            "ro": "Un loc perfect pentru o pauză de după-amiază, bucurați-vă de serele victoriene.",
+            "en": "A perfect spot for an afternoon break, enjoy the Victorian greenhouses."
+          }
+        },
+        {
+          "name": {
+            "de": "Newport Transporter Bridge",
+            "hu": "Newporti Szállítóhíd",
+            "ro": "Podul Transporter din Newport",
+            "en": "Newport Transporter Bridge"
+          },
+          "coords": [
+            -2.989,
+            51.572
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:16",
+          "stay_min": 99,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Betriebszeiten, wenn Sie mit der Gondel fahren möchten.",
+            "hu": "Ellenőrizd a nyitvatartást, ha szeretnél átkelni a függőkomppal!",
+            "ro": "Verificați programul de funcționare dacă doriți să traversați cu gondola.",
+            "en": "Check the operating times if you want to ride the gondola across."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem belebten Newport Market, einem Zentrum lokaler Aromen und Handwerkskunst. Am Vormittag tauchen Sie im Newport Museum in die reiche Geschichte der Stadt ein, gefolgt von einem Moment der Besinnung in der alten Kathedrale. Verbringen Sie Ihren Nachmittag im ruhigen Belle Vue Park und genießen Sie die wunderschön angelegten Gärten. Beenden Sie Ihr Abenteuer an der beeindruckenden Transporter Bridge, einem Symbol des industriellen Erbes von Newport.",
+        "hu": "Kezdje a napot a nyüzsgő Newport Marketen, a helyi ízek és kézművesség központjában. Délelőtt merüljön el a város gazdag történelmében a Newport Múzeumban, majd tartson egy csendes elmélkedést az ősi katedrálisban. Töltse a délutánt a békés Belle Vue Parkban, gyönyörködve a szépen gondozott kertekben. Zárja a kalandot a lenyűgöző Transporter hídnál, Newport ipari örökségének szimbólumánál.",
+        "ro": "Începeți ziua în vibranta Piață Newport, un centru al aromelor și meșteșugurilor locale. La amiază, pătrundeți în istoria bogată a orașului la Muzeul Newport, urmat de un moment de reflecție la vechea Catedrală. Petreceți după-amiaza în liniștitul Parc Belle Vue, bucurându-vă de grădinile frumos amenajate. Încheiați aventura la impresionantul Pod Transporter, un simbol al patrimoniului industrial al orașului Newport.",
+        "en": "Start your day at the bustling Newport Market, a hub of local flavours and crafts. Mid-morning, delve into the city's rich history at the Newport Museum, followed by a moment of reflection at the ancient Cathedral. Spend your afternoon unwinding in the tranquil Belle Vue Park, enjoying the beautifully kept gardens. Conclude your adventure at the awe-inspiring Transporter Bridge, a symbol of Newport's industrial heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Welsh Cakes",
+            "tip": "Eine traditionelle, auf einer Backplatte gebackene Leckerei, die oft auf Märkten zu finden ist."
+          },
+          {
+            "name": "Cawl",
+            "tip": "Ein herzhafter walisischer Eintopf, perfekt für ein Mittagessen."
+          },
+          {
+            "name": "Tiny Rebel Brewery",
+            "tip": "Probieren Sie lokale Craft-Biere in dieser berühmten Brauerei im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Walesi sütemény (Welsh Cakes)",
+            "tip": "Hagyományos, sütőlapon sütött finomság, gyakran megtalálható a piacokon."
+          },
+          {
+            "name": "Cawl",
+            "tip": "Bőséges walesi egytálétel, tökéletes ebédre."
+          },
+          {
+            "name": "Tiny Rebel Sörfőzde",
+            "tip": "Kóstolj helyi kézműves söröket ebben a híres, belvárosi sörfőzdében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prăjituri galeze (Welsh Cakes)",
+            "tip": "O delicatesă tradițională, coaptă pe plită, adesea găsită în piețe."
+          },
+          {
+            "name": "Cawl",
+            "tip": "O tocană galeză consistentă, perfectă pentru prânz."
+          },
+          {
+            "name": "Berăria Tiny Rebel",
+            "tip": "Încercați beri artizanale locale la această faimoasă berărie din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Welsh Cakes",
+            "tip": "A traditional griddle-baked treat, often found at markets."
+          },
+          {
+            "name": "Cawl",
+            "tip": "A hearty Welsh stew, perfect for a filling lunch."
+          },
+          {
+            "name": "Tiny Rebel Brewery",
+            "tip": "Sample local craft beers at this famous city-centre brewery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belle Vue Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die viktorianische Landschaftsgestaltung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Flusses Usk",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses, besonders am frühen Morgen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kathedralenhof",
+            "tip": "Der Bereich um die Kathedrale bietet eine ruhige Zuflucht vor der Hektik der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belle Vue Park",
+            "tip": "Keress egy csendes padot, és élvezd a viktoriánus tájépítészetet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Usk folyó partja",
+            "tip": "Békés séta a folyó mentén, különösen kora reggel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Katedrális udvara",
+            "tip": "A katedrális körüli terület csendes menedéket nyújt a város nyüzsgésétől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Belle Vue",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de peisajul victorian.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Usk",
+            "tip": "O plimbare pașnică de-a lungul râului, mai ales dimineața devreme.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Catedralei",
+            "tip": "Zona din jurul catedralei oferă un refugiu liniștit departe de agitația orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belle Vue Park",
+            "tip": "Find a quiet bench and enjoy the Victorian landscaping.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the River Usk",
+            "tip": "A peaceful walk along the river, especially in the early morning.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cathedral Close",
+            "tip": "The area around the cathedral offers a quiet escape from the city bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Newport Market",
+            "tip": "Ein viktorianischer Innenmarkt mit unabhängigen Händlern, die alles von Lebensmitteln bis hin zu Geschenken verkaufen."
+          },
+          {
+            "name": "Friars Walk",
+            "tip": "Ein modernes Einkaufszentrum mit bekannten Marken und Restaurants."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Newporti Piac",
+            "tip": "Viktoriánus fedett piac független kereskedőkkel, akik élelmiszerektől ajándéktárgyakig mindent árulnak."
+          },
+          {
+            "name": "Friars Walk",
+            "tip": "Modern bevásárlóközpont népszerű márkákkal és éttermekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Newport",
+            "tip": "O piață interioară victoriană cu comercianți independenți care vând de la alimente la cadouri."
+          },
+          {
+            "name": "Friars Walk",
+            "tip": "Un centru comercial modern cu mărci de renume și restaurante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Newport Market",
+            "tip": "A Victorian indoor market with independent traders selling everything from food to gifts."
+          },
+          {
+            "name": "Friars Walk",
+            "tip": "A modern shopping centre with high-street brands and restaurants."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum und die Sehenswürdigkeiten gut zu Fuß erreichbar sind.",
+          "Das Wetter in Wales kann unvorhersehbar sein, also packen Sie einen leichten Regenmantel ein.",
+          "Viele der zentralen Bereiche sind Fußgängerzonen, was das Gehen angenehm macht.",
+          "Halten Sie Ausschau nach den Chartist-Wandbildern, die die politische Geschichte der Stadt darstellen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel a városközpont és a látnivalók könnyen bejárhatók gyalog.",
+          "Walesben az időjárás kiszámíthatatlan lehet, ezért csomagolj egy könnyű esőkabátot.",
+          "Sok központi terület gyalogos, ami kellemessé teszi a sétát.",
+          "Keresd a chartista falfestményeket, amelyek a város politikai történelmét ábrázolják."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece centrul orașului și atracțiile sunt ușor de parcurs pe jos.",
+          "Vremea în Țara Galilor poate fi imprevizibilă, așa că luați o haină de ploaie ușoară.",
+          "Multe dintre zonele centrale sunt pietonale, făcând plimbarea plăcută.",
+          "Fiți atenți la picturile murale chartiste, care descriu istoria politică a orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city centre and attractions are very walkable.",
+          "Weather in Wales can be unpredictable, so pack a light raincoat.",
+          "Many of the central areas are pedestrianised, making for a pleasant walking experience.",
+          "Keep an eye out for the Chartist murals, depicting the city's political history."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 16.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Newport Market",
+            "hu": "Newporti Piac",
+            "ro": "Piața Newport",
+            "en": "Newport Market"
+          },
+          "coords": [
+            -2.998,
+            51.588
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Schnappen Sie sich einen Kaffee und einen Snack für Energie für den Tag.",
+            "hu": "Szerezz be egy kávét és egy harapnivalót, hogy energiával induljon a nap.",
+            "ro": "Luați o cafea și o gustare pentru a vă energiza pentru ziua respectivă.",
+            "en": "Grab a coffee and a snack to fuel up for the day's ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Newport Cathedral",
+            "hu": "Newporti Katedrális",
+            "ro": "Catedrala din Newport",
+            "en": "Newport Cathedral"
+          },
+          "coords": [
+            -2.991,
+            51.593
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:56",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber steiler Anstieg, aber die Aussicht und die Ruhe sind es wert.",
+            "hu": "Rövid, de meredek emelkedő, de a kilátás és a nyugalom megéri.",
+            "ro": "O urcare scurtă, dar abruptă, dar priveliștea și liniștea merită.",
+            "en": "A short but steep climb, but the views and tranquility are worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Caerleon Römische Festung",
+            "hu": "Caerleoni Római Erőd",
+            "ro": "Fortăreața Romană Caerleon",
+            "en": "Caerleon Roman Fortress"
+          },
+          "coords": [
+            -2.955,
+            51.61
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der Radweg entlang des Flusses Usk ist eine malerische Route nach Caerleon.",
+            "hu": "Az Usk folyó menti kerékpárút festői útvonal Caerleonba.",
+            "ro": "Pista de biciclete de-a lungul râului Usk este o rută pitorească spre Caerleon.",
+            "en": "The cycle path along the River Usk provides a scenic route to Caerleon."
+          }
+        },
+        {
+          "name": {
+            "de": "Newport Transporter Bridge",
+            "hu": "Newporti Szállítóhíd",
+            "ro": "Podul Transporter din Newport",
+            "en": "Newport Transporter Bridge"
+          },
+          "coords": [
+            -2.989,
+            51.572
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:17",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 43,
+          "hop_from_prev_km": 7.2,
+          "tip_5lang": {
+            "de": "Sie können Ihr Fahrrad mit auf die Gondel nehmen, um den Fluss zu überqueren.",
+            "hu": "A biciklidet is magaddal viheted a függőkompra, hogy átkelj a folyón.",
+            "ro": "Puteți lua bicicleta cu dumneavoastră pe gondolă pentru a traversa râul.",
+            "en": "You can take your bike across on the gondola for a unique river crossing."
+          }
+        },
+        {
+          "name": {
+            "de": "Tredegar House",
+            "hu": "Tredegar-ház",
+            "ro": "Casa Tredegar",
+            "en": "Tredegar House"
+          },
+          "coords": [
+            -3.03,
+            51.575
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:39",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufigen Parkanlagen und Gärten, die das Haus umgeben.",
+            "hu": "Fedezd fel a házat körülvevő hatalmas parkot és kerteket.",
+            "ro": "Explorați parcurile și grădinile întinse care înconjoară casa.",
+            "en": "Explore the extensive parklands and gardens surrounding the house."
+          }
+        },
+        {
+          "name": {
+            "de": "Belle Vue Park",
+            "hu": "Belle Vue Park",
+            "ro": "Parcul Belle Vue",
+            "en": "Belle Vue Park"
+          },
+          "coords": [
+            -3.01,
+            51.583
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 88,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss Ihrer Radtour, bevor Sie ins Stadtzentrum zurückkehren.",
+            "hu": "Pihentető befejezése a kerékpártúrának, mielőtt visszatérnél a városközpontba.",
+            "ro": "Un final relaxant pentru turul cu bicicleta înainte de a vă întoarce în centrul orașului.",
+            "en": "A relaxing end to your cycle tour before heading back into the city centre."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in die Pedale und starten Sie am Newport Market. Radeln Sie dann bergauf zur historischen Kathedrale. Am Vormittag folgen Sie dem Fluss nach Caerleon, um in die römische Geschichte einzutauchen. Nach dem Mittagessen überqueren Sie den Fluss auf einzigartige Weise an der Transporter Bridge und fahren weiter zum prächtigen Tredegar House. Beenden Sie Ihre Tour mit einer entspannten Fahrt durch den Belle Vue Park, einem perfekten Abschluss eines Tages im Sattel.",
+        "hu": "Pattanj nyeregbe, és indulj a Newport Piactól, majd tekerj fel a történelmi katedrálishoz. Délelőtt kövesd a folyót Caerleonba, hogy elmerülj a római történelemben. Ebéd után kelj át a folyón egyedi módon a Transporter hídnál, majd irány a pompás Tredegar-ház. Zárd a túrát egy pihentető tekeréssel a Belle Vue Parkban, ami tökéletes lezárása a nyeregben töltött napnak.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la Piața Newport, apoi pedalați în sus spre catedrala istorică. La amiază, urmați râul spre Caerleon pentru a vă cufunda în istoria romană. După prânz, traversați râul într-un mod unic la Podul Transporter și mergeți mai departe la grandioasa Casă Tredegar. Încheiați turul cu o plimbare relaxantă prin Parcul Belle Vue, un final perfect pentru o zi în șa.",
+        "en": "Get in the saddle and start from Newport Market, then pedal uphill to the historic Cathedral. Mid-morning, follow the river to Caerleon to immerse yourself in Roman history. After lunch, cross the river uniquely at the Transporter Bridge and head on to the magnificent Tredegar House. Finish your tour with a relaxing ride through Belle Vue Park, a perfect end to a day in the saddle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Hanbury Arms, Caerleon",
+            "tip": "Ein historischer Pub mit Blick auf das römische Amphitheater, ideal für ein Mittagessen."
+          },
+          {
+            "name": "Fflwr, Newport Market",
+            "tip": "Bietet köstliche vegane Gerichte, perfekt für eine schnelle und gesunde Mahlzeit."
+          },
+          {
+            "name": "The Cafe at Tredegar House",
+            "tip": "Genießen Sie Tee und Kuchen in einer schönen Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Hanbury Arms, Caerleon",
+            "tip": "Történelmi pub, kilátással a római amfiteátrumra, ideális ebédre."
+          },
+          {
+            "name": "Fflwr, Newport Market",
+            "tip": "Ízletes vegán ételeket kínál, tökéletes egy gyors és egészséges étkezéshez."
+          },
+          {
+            "name": "A Tredegar-ház kávézója",
+            "tip": "Élvezz egy teát és süteményt gyönyörű környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Hanbury Arms, Caerleon",
+            "tip": "Un pub istoric cu vedere la amfiteatrul roman, ideal pentru prânz."
+          },
+          {
+            "name": "Fflwr, Newport Market",
+            "tip": "Oferă preparate vegane delicioase, perfecte pentru o masă rapidă și sănătoasă."
+          },
+          {
+            "name": "Cafeneaua de la Casa Tredegar",
+            "tip": "Bucurați-vă de un ceai și prăjituri într-un cadru frumos."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Hanbury Arms, Caerleon",
+            "tip": "A historic pub overlooking the Roman amphitheatre, ideal for lunch."
+          },
+          {
+            "name": "Fflwr, Newport Market",
+            "tip": "Offers delicious vegan options, perfect for a quick and healthy meal."
+          },
+          {
+            "name": "The Cafe at Tredegar House",
+            "tip": "Enjoy tea and cake in a beautiful setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Caerleon Amphitheater",
+            "tip": "Sitzen Sie auf den alten Steinen und stellen Sie sich die Gladiatorenkämpfe vor.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tredegar House Gärten",
+            "tip": "Die formalen Gärten bieten viele ruhige Ecken zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Uferweg des Flusses Usk",
+            "tip": "Der Radweg selbst ist ein friedlicher Rückzugsort vom Stadtverkehr.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caerleoni Amfiteátrum",
+            "tip": "Ülj le az ősi kövekre, és képzeld el a gladiátorjátékokat.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tredegar-ház kertjei",
+            "tip": "A formális kertek számos csendes zugot kínálnak a pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Usk folyóparti kerékpárút",
+            "tip": "Maga a kerékpárút is békés menedéket nyújt a városi forgalomtól.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Amfiteatrul Caerleon",
+            "tip": "Stați pe pietrele antice și imaginați-vă luptele de gladiatori.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile Casei Tredegar",
+            "tip": "Grădinile formale oferă multe colțuri liniștite pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pista de biciclete de pe malul râului Usk",
+            "tip": "Pista de biciclete în sine este un refugiu pașnic departe de traficul orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Caerleon Amphitheatre",
+            "tip": "Sit on the ancient stones and imagine the gladiatorial contests.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tredegar House Gardens",
+            "tip": "The formal gardens offer many quiet corners for relaxation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "River Usk cycle path",
+            "tip": "The cycle path itself is a peaceful retreat from city traffic.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ffwrm, Caerleon",
+            "tip": "Eine Galerie und ein Handwerkszentrum mit Werken lokaler walisischer Künstler."
+          },
+          {
+            "name": "National Trust Shop im Tredegar House",
+            "tip": "Finden Sie einzigartige Geschenke, Bücher und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ffwrm, Caerleon",
+            "tip": "Galéria és kézműves központ, helyi walesi művészek munkáival."
+          },
+          {
+            "name": "National Trust bolt a Tredegar-házban",
+            "tip": "Találj egyedi ajándékokat, könyveket és helyi termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ffwrm, Caerleon",
+            "tip": "O galerie și un centru de artizanat cu lucrări ale artiștilor galezi locali."
+          },
+          {
+            "name": "Magazinul National Trust de la Casa Tredegar",
+            "tip": "Găsiți cadouri unice, cărți și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ffwrm, Caerleon",
+            "tip": "A gallery and craft centre featuring work by local Welsh artists."
+          },
+          {
+            "name": "National Trust Shop at Tredegar House",
+            "tip": "Find unique gifts, books, and local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen für die Hügel.",
+          "Einige Teile des Flussweges können nach Regen schlammig sein.",
+          "Schließen Sie Ihr Fahrrad an den Hauptsehenswürdigkeiten sicher ab.",
+          "Newport wird immer fahrradfreundlicher, achten Sie auf neue Radwege."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a kerékpárodat, különösen a fékeket a dombok miatt.",
+          "A folyóparti út egyes szakaszai eső után sárosak lehetnek.",
+          "A főbb látnivalóknál biztonságosan zárd le a kerékpárodat.",
+          "Newport egyre kerékpárbarátabb, figyelj az új kerékpárutakra."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele pentru dealuri.",
+          "Unele părți ale potecii de pe malul râului pot fi noroioase după ploaie.",
+          "Asigurați-vă bicicleta în siguranță la atracțiile principale.",
+          "Newport devine din ce în ce mai prietenos cu bicicletele, fiți atenți la noile piste de biciclete."
+        ],
+        "en": [
+          "Check your bike before you set off, especially the brakes for the hills.",
+          "Some parts of the river path can be muddy after rain.",
+          "Lock your bike securely at major attractions.",
+          "Newport is becoming increasingly cycle-friendly, look out for new cycle lanes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 19.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Caerleon Römische Festung",
+            "hu": "Caerleoni Római Erőd",
+            "ro": "Fortăreața Romană Caerleon",
+            "en": "Caerleon Roman Fortress"
+          },
+          "coords": [
+            -2.955,
+            51.61
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem Hauptparkplatz und erkunden Sie das Amphitheater, die Kaserne und das Bad zu Fuß.",
+            "hu": "Parkolj a fő parkolóban, és fedezd fel gyalog az amfiteátrumot, a laktanyát és a fürdőket.",
+            "ro": "Parcați în parcarea principală și explorați amfiteatrul, barăcile și băile pe jos.",
+            "en": "Park in the main car park and explore the amphitheatre, barracks and baths on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Newport Transporter Bridge",
+            "hu": "Newporti Szállítóhíd",
+            "ro": "Podul Transporter din Newport",
+            "en": "Newport Transporter Bridge"
+          },
+          "coords": [
+            -2.989,
+            51.572
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:18",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.4,
+          "tip_5lang": {
+            "de": "Ein Wunderwerk der Ingenieurskunst. Parken Sie in der Nähe und spazieren Sie am Flussufer entlang, um die besten Fotos zu machen.",
+            "hu": "A mérnöki munka csodája. Parkolj a közelben, és sétálj a folyóparton a legjobb fotókért.",
+            "ro": "O minune a ingineriei. Parcați în apropiere și plimbați-vă de-a lungul malului râului pentru cele mai bune fotografii.",
+            "en": "A marvel of engineering. Park nearby and walk along the riverbank for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Tredegar House",
+            "hu": "Tredegar-ház",
+            "ro": "Casa Tredegar",
+            "en": "Tredegar House"
+          },
+          "coords": [
+            -3.03,
+            51.575
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:32",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 5.9,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um das Haus und die weitläufigen Gärten zu erkunden. Ein großartiger Ort für das Mittagessen.",
+            "hu": "Szánj elegendő időt a ház és a hatalmas kertek felfedezésére. Remek hely ebédre.",
+            "ro": "Alocați suficient timp pentru a explora atât casa, cât și grădinile întinse. Un loc minunat pentru prânz.",
+            "en": "Allow plenty of time to explore both the house and the extensive gardens. A great spot for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Newport Market",
+            "hu": "Newporti Piac",
+            "ro": "Piața Newport",
+            "en": "Newport Market"
+          },
+          "coords": [
+            -2.998,
+            51.588
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:32",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in einem der Parkhäuser im Stadtzentrum und beginnen Sie Ihren Rundgang hier.",
+            "hu": "Parkolj a belvárosi parkolóházak egyikében, és innen indulj a gyalogos felfedezésre.",
+            "ro": "Parcați într-una dintre parcările din centrul orașului și începeți de aici turul pietonal.",
+            "en": "Park in a city centre multi-storey and start your walking tour of the cluster here."
+          }
+        },
+        {
+          "name": {
+            "de": "Newport Museum und Kunstgalerie",
+            "hu": "Newporti Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă din Newport",
+            "en": "Newport Museum and Art Gallery"
+          },
+          "coords": [
+            -3.0,
+            51.589
+          ],
+          "category": "museums",
+          "arrive_at": "15:26",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Markt entfernt, bietet es Einblicke in die lokale Kultur.",
+            "hu": "Csak egy rövid sétára a piactól, bepillantást nyújt a helyi kultúrába.",
+            "ro": "La o scurtă plimbare de piață, oferă o perspectivă asupra culturii locale.",
+            "en": "Just a short walk from the market, offering a dive into local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Newport Cathedral",
+            "hu": "Newporti Katedrális",
+            "ro": "Catedrala din Newport",
+            "en": "Newport Cathedral"
+          },
+          "coords": [
+            -2.991,
+            51.593
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:41",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der letzte Halt in Ihrem Stadtzentrum-Cluster, ein friedlicher Ort zum Nachdenken.",
+            "hu": "A belvárosi klaszter utolsó állomása, egy békés hely az elmélkedésre.",
+            "ro": "Ultima oprire din clusterul centrului orașului, un loc pașnic pentru reflecție.",
+            "en": "The final stop in your city centre cluster, a peaceful place for reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt nach Caerleon und tauchen Sie ein in die römische Vergangenheit von Newport. Am Vormittag fahren Sie zur ikonischen Transporter Bridge, bevor Sie zum Mittagessen und zur Erkundung zum prächtigen Tredegar House aufbrechen. Am Nachmittag parken Sie im Stadtzentrum und erkunden zu Fuß ein Cluster von Sehenswürdigkeiten, darunter den lebhaften Markt, das Museum und die ruhige Kathedrale, und erleben so das Beste aus beiden Welten.",
+        "hu": "Kezdje a napot egy autózással Caerleonba, és merüljön el Newport római kori múltjában. Délelőtt irány az ikonikus Transporter híd, majd ebédidőben és felfedezés céljából a pompás Tredegar-ház. Délután parkoljon le a városközpontban, és fedezze fel gyalog a látnivalók egy csoportját, köztük az élettel teli piacot, a múzeumot és a békés katedrálist, így mindkét világból a legjobbat kapja.",
+        "ro": "Începeți ziua cu o mașină spre Caerleon pentru o imersiune în trecutul roman al orașului Newport. La amiază, mergeți la iconicul Pod Transporter, înainte de a vă îndrepta spre grandioasa Casă Tredegar pentru prânz și explorare. După-amiaza, parcați în centrul orașului și explorați pe jos un grup de atracții, inclusiv piața plină de viață, muzeul și catedrala senină, obținând tot ce este mai bun din ambele lumi.",
+        "en": "Start your day with a drive to Caerleon for an immersion in Newport's Roman past. Mid-morning, head to the iconic Transporter Bridge before breaking for lunch and exploration at the magnificent Tredegar House. In the afternoon, park in the city centre and explore a cluster of attractions on foot, including the vibrant market, the museum, and the serene cathedral, getting the best of both worlds."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Priory Hotel, Caerleon",
+            "tip": "Genießen Sie ein Mittagessen in einem Hotel mit Blick auf den Fluss Usk, nachdem Sie die römischen Ruinen erkundet haben."
+          },
+          {
+            "name": "The Pot Cafe",
+            "tip": "Bekannt für sein herzhaftes walisisches Frühstück, in der Nähe des Stadtzentrums."
+          },
+          {
+            "name": "The Ridgeway Bar & Kitchen",
+            "tip": "Ein gastropub auf einem Hügel mit Panoramablick über die Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Priory Hotel, Caerleon",
+            "tip": "Ebédeljen egyet az Usk folyóra néző szállodában a római romok felfedezése után."
+          },
+          {
+            "name": "The Pot Cafe",
+            "tip": "Híres a bőséges walesi reggelijéről, közel a városközponthoz."
+          },
+          {
+            "name": "The Ridgeway Bar & Kitchen",
+            "tip": "Gasztropub egy dombtetőn, panorámás kilátással a városra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Priory Hotel, Caerleon",
+            "tip": "Bucurați-vă de prânz la un hotel cu vedere la râul Usk după ce ați explorat ruinele romane."
+          },
+          {
+            "name": "The Pot Cafe",
+            "tip": "Renumit pentru micul dejun galez consistent, aproape de centrul orașului."
+          },
+          {
+            "name": "The Ridgeway Bar & Kitchen",
+            "tip": "Un gastropub pe un deal cu vederi panoramice ale orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Priory Hotel, Caerleon",
+            "tip": "Enjoy lunch at a hotel overlooking the River Usk after exploring the Roman ruins."
+          },
+          {
+            "name": "The Pot Cafe",
+            "tip": "Known for its hearty Welsh breakfast, located near the city centre."
+          },
+          {
+            "name": "The Ridgeway Bar & Kitchen",
+            "tip": "A gastropub on a hill with panoramic views over the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fourteen Locks Canal Centre",
+            "tip": "Eine kurze Fahrt vom Stadtzentrum entfernt, bietet es friedliche Spaziergänge am Kanal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tredegar House Parklands",
+            "tip": "Verlieren Sie sich auf den weitläufigen Ländereien, die das Haus umgeben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Woolos Friedhof",
+            "tip": "Ein ruhiger, historischer Ort neben der Kathedrale.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fourteen Locks csatornaközpont",
+            "tip": "Rövid autóútra a városközponttól, békés sétákat kínál a csatorna mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tredegar-ház parkja",
+            "tip": "Vessz el a házat körülvevő hatalmas birtokon.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Woolos temető",
+            "tip": "Csendes, történelmi hely a katedrális mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Canalului Fourteen Locks",
+            "tip": "La o scurtă distanță cu mașina de centrul orașului, oferă plimbări pașnice pe canal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcurile Casei Tredegar",
+            "tip": "Pierdeți-vă pe domeniile întinse care înconjoară casa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul St Woolos",
+            "tip": "Un loc liniștit și istoric, lângă catedrală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fourteen Locks Canal Centre",
+            "tip": "A short drive from the city centre, it offers peaceful canal-side walks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tredegar House Parklands",
+            "tip": "Get lost in the vast estate surrounding the house.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St Woolos Cemetery",
+            "tip": "A quiet, historic space adjacent to the Cathedral.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Römischer Legions-Museumsshop",
+            "tip": "Finden Sie in Caerleon Souvenirs zum Thema Römer."
+          },
+          {
+            "name": "Newport Retail Park",
+            "tip": "Außerhalb der Stadt gelegen, für größere Einkäufe und bekannte Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Római Légiós Múzeum boltja",
+            "tip": "Találj római témájú ajándéktárgyakat Caerleonban."
+          },
+          {
+            "name": "Newport Retail Park",
+            "tip": "A városon kívül található, nagyobb bevásárlásokhoz és ismert márkákhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului Legiunii Romane",
+            "tip": "Găsiți suveniruri cu tematică romană în Caerleon."
+          },
+          {
+            "name": "Parcul de Retail Newport",
+            "tip": "Situat în afara orașului pentru cumpărături mai mari și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roman Legion Museum Shop",
+            "tip": "Find Roman-themed souvenirs in Caerleon."
+          },
+          {
+            "name": "Newport Retail Park",
+            "tip": "Located out of town for larger retail purchases and well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Anlagen, wenn Sie den Verkehr im Stadtzentrum vermeiden möchten.",
+          "Die Parkgebühren im Stadtzentrum können variieren, prüfen Sie die Tarife im Voraus.",
+          "Das Fahren in Newport ist im Allgemeinen unkompliziert, aber achten Sie auf Busspuren.",
+          "Planen Sie Ihre Route mit einem Navi, um Einbahnstraßen im Stadtzentrum zu vermeiden."
+        ],
+        "hu": [
+          "Használd a P+R parkolókat, ha el akarod kerülni a belvárosi forgalmat.",
+          "A belvárosi parkolási díjak változhatnak, előre ellenőrizd az árakat.",
+          "A vezetés Newportban általában egyszerű, de figyelj a buszsávokra.",
+          "Tervezd meg az útvonalat GPS-szel, hogy elkerüld a belvárosi egyirányú utcákat."
+        ],
+        "ro": [
+          "Folosiți facilitățile de tip park-and-ride dacă doriți să evitați traficul din centrul orașului.",
+          "Taxele de parcare din centrul orașului pot varia, verificați tarifele în avans.",
+          "Conducerea în Newport este în general simplă, dar fiți atenți la benzile de autobuz.",
+          "Planificați-vă ruta folosind un GPS pentru a naviga pe străzile cu sens unic din centrul orașului."
+        ],
+        "en": [
+          "Use park and ride facilities if you want to avoid city centre traffic.",
+          "City centre car park charges can vary, check tariffs in advance.",
+          "Driving in Newport is generally straightforward, but be aware of bus lanes.",
+          "Plan your route using a sat-nav to navigate city centre one-way systems."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Newport Busbahnhof",
+            "hu": "Newport buszpályaudvar",
+            "ro": "Autogara Newport",
+            "en": "Newport Bus Station"
+          },
+          "coords": [
+            -2.996,
+            51.586
+          ],
+          "category": "transit-hub",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten im städtischen Netz.",
+            "hu": "Vegyél egy napijegyet a korlátlan utazáshoz a városi hálózaton.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate în rețeaua orașului.",
+            "en": "Purchase a day ticket for unlimited travel on the city network."
+          }
+        },
+        {
+          "name": {
+            "de": "Caerleon Römische Festung",
+            "hu": "Caerleoni Római Erőd",
+            "ro": "Fortăreața Romană Caerleon",
+            "en": "Caerleon Roman Fortress"
+          },
+          "coords": [
+            -2.955,
+            51.61
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:30",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Mehrere Buslinien fahren vom Stadtzentrum nach Caerleon. Von der Haltestelle ist es nur ein kurzer Spaziergang.",
+            "hu": "Több buszjárat is közlekedik a városközpontból Caerleonba. A megállótól csak egy rövid séta.",
+            "ro": "Mai multe rute de autobuz merg spre Caerleon din centrul orașului. Este o scurtă plimbare de la stație.",
+            "en": "Several bus routes run to Caerleon from the city centre. It's a short walk from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Newport Market",
+            "hu": "Newporti Piac",
+            "ro": "Piața Newport",
+            "en": "Newport Market"
+          },
+          "coords": [
+            -2.998,
+            51.588
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum. Ihr erster Halt in Ihrem Stadtrundgang-Cluster.",
+            "hu": "Vegyél egy buszt vissza a központba. Ez az első megállód a belvárosi sétádon.",
+            "ro": "Luați un autobuz înapoi în centru. Prima oprire din clusterul turului pietonal al orașului.",
+            "en": "Take a bus back to the centre. Your first stop in your city walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Friars Walk",
+            "hu": "Friars Walk",
+            "ro": "Friars Walk",
+            "en": "Friars Walk"
+          },
+          "coords": [
+            -2.995,
+            51.5865
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:34",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Markt, mit vielen Mittagsmöglichkeiten.",
+            "hu": "Rövid séta a piactól, rengeteg ebédelési lehetőséggel.",
+            "ro": "O scurtă plimbare de la piață, cu multe opțiuni de prânz.",
+            "en": "A short walk from the market, with plenty of lunch options."
+          }
+        },
+        {
+          "name": {
+            "de": "Newport Cathedral",
+            "hu": "Newporti Katedrális",
+            "ro": "Catedrala din Newport",
+            "en": "Newport Cathedral"
+          },
+          "coords": [
+            -2.991,
+            51.593
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:12",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein friedlicher Spaziergang bergauf von der Hektik des Stadtzentrums.",
+            "hu": "Békés séta felfelé a nyüzsgő városközpontból.",
+            "ro": "O plimbare pașnică în sus de la agitația centrului orașului.",
+            "en": "A peaceful uphill walk from the bustle of the city centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Belle Vue Park",
+            "hu": "Belle Vue Park",
+            "ro": "Parcul Belle Vue",
+            "en": "Belle Vue Park"
+          },
+          "coords": [
+            -3.01,
+            51.583
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:59",
+          "stay_min": 112,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, ein entspannender Ort, bevor Sie den Bus nach Hause nehmen.",
+            "hu": "A nap utolsó állomása, egy pihentető hely, mielőtt hazabuszoznál.",
+            "ro": "Ultima oprire a zilei, un loc relaxant înainte de a lua autobuzul spre casă.",
+            "en": "The final stop of the day, a relaxing space before you catch the bus home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Newports Busnetz und beginnen Sie Ihre Reise mit einer Fahrt nach Caerleon, um die römischen Wunder zu erkunden. Kehren Sie am Vormittag ins Stadtzentrum zurück und beginnen Sie einen Rundgang, beginnend am belebten Markt. Verbringen Sie den Nachmittag damit, zwischen dem modernen Friars Walk, der alten Kathedrale und dem ruhigen Belle Vue Park zu spazieren, und erleben Sie die vielfältigen Attraktionen der Stadt auf bequeme Weise.",
+        "hu": "Használja ki Newport buszhálózatát, és kezdje az utazást egy kirándulással Caerleonba, hogy felfedezze a római csodákat. Délelőtt térjen vissza a városközpontba egy gyalogtúrára, amely a nyüzsgő piacról indul. Töltse a délutánt a modern Friars Walk, az ősi katedrális és a békés Belle Vue Park között sétálva, kényelmesen megtapasztalva a város változatos látnivalóit.",
+        "ro": "Folosiți rețeaua de autobuze din Newport și începeți călătoria cu o excursie la Caerleon pentru a explora minunile sale romane. La amiază, întoarceți-vă în centrul orașului pentru un tur pietonal, începând de la piața plină de viață. Petreceți după-amiaza plimbându-vă între modernul Friars Walk, vechea catedrală și liniștitul Parc Belle Vue, experimentând atracțiile diverse ale orașului cu ușurință.",
+        "en": "Utilise Newport's bus network and start your journey with a trip to Caerleon to explore its Roman wonders. Mid-morning, return to the city centre for a walking cluster, starting at the bustling market. Spend the afternoon strolling between the modern Friars Walk, the ancient Cathedral, and the tranquil Belle Vue Park, experiencing the city's diverse attractions with ease."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Newport Market Food Court",
+            "tip": "Eine große Auswahl an Streetfood aus aller Welt, für jeden Geschmack ist etwas dabei."
+          },
+          {
+            "name": "Ye Olde Murenger House",
+            "tip": "Einer der ältesten Pubs in Newport, serviert traditionelle Ales und Pub-Gerichte."
+          },
+          {
+            "name": "The Goldcroft, Caerleon",
+            "tip": "Ein gastropub, der für seine Sonntagsbraten und sein freundliches Ambiente bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Newport Market ételudvar",
+            "tip": "A világ minden tájáról származó street food ételek széles választéka, mindenki talál kedvére valót."
+          },
+          {
+            "name": "Ye Olde Murenger House",
+            "tip": "Newport egyik legrégebbi pubja, hagyományos ale-eket és pub-ételeket szolgál fel."
+          },
+          {
+            "name": "The Goldcroft, Caerleon",
+            "tip": "Gasztropub, amely a vasárnapi sültekről és barátságos hangulatáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona de restaurante din Piața Newport",
+            "tip": "O mare varietate de mâncăruri stradale din întreaga lume, pentru toate gusturile."
+          },
+          {
+            "name": "Ye Olde Murenger House",
+            "tip": "Unul dintre cele mai vechi pub-uri din Newport, servește beri tradiționale și mâncăruri de pub."
+          },
+          {
+            "name": "The Goldcroft, Caerleon",
+            "tip": "Un gastropub cunoscut pentru fripturile de duminică și ambianța prietenoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Newport Market food court",
+            "tip": "A wide variety of street food from around the world, with something for every taste."
+          },
+          {
+            "name": "Ye Olde Murenger House",
+            "tip": "One of the oldest pubs in Newport, serving traditional ales and pub food."
+          },
+          {
+            "name": "The Goldcroft, Caerleon",
+            "tip": "A gastropub known for its Sunday roasts and friendly atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belle Vue Park Konservatorium",
+            "tip": "Ein warmer, ruhiger Ort voller exotischer Pflanzen, perfekt für einen regnerischen Tag.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Römische Bäder, Caerleon",
+            "tip": "Oft ruhiger als das Amphitheater, ein Ort der stillen Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Newport Bibliothek",
+            "tip": "In der Nähe des Museums gelegen, ein garantierter Ort für Ruhe und Frieden.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belle Vue Park üvegház",
+            "tip": "Meleg, csendes hely tele egzotikus növényekkel, tökéletes egy esős napra.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Római fürdők, Caerleon",
+            "tip": "Gyakran csendesebb, mint az amfiteátrum, a csendes elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Newporti Könyvtár",
+            "tip": "A múzeum közelében található, garantáltan csendes és békés hely.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sera din Parcul Belle Vue",
+            "tip": "Un spațiu cald și liniștit, plin de plante exotice, perfect pentru o zi ploioasă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Băile Romane, Caerleon",
+            "tip": "Adesea mai liniștit decât amfiteatrul, un loc de reflecție tăcută.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Biblioteca din Newport",
+            "tip": "Situată lângă muzeu, un loc garantat pentru liniște și pace.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belle Vue Park Conservatory",
+            "tip": "A warm, quiet space filled with exotic plants, perfect for a rainy day.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Roman Baths, Caerleon",
+            "tip": "Often quieter than the amphitheatre, a place for quiet contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Newport Library",
+            "tip": "Located near the museum, a guaranteed spot for some peace and quiet.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Newport Market",
+            "tip": "Finden Sie lokale Produkte, Kunsthandwerk und Vintage-Kleidung unter einem Dach."
+          },
+          {
+            "name": "Victorian Arcade",
+            "tip": "Eine charmante Arkade mit einer Handvoll unabhängiger Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Newporti Piac",
+            "tip": "Találj helyi termékeket, kézműves árukat és vintage ruhákat egy fedél alatt."
+          },
+          {
+            "name": "Victorian Arcade",
+            "tip": "Bájos árkád néhány független üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Newport",
+            "tip": "Găsiți produse locale, artizanat și haine vintage sub un singur acoperiș."
+          },
+          {
+            "name": "Arcada Victoriană",
+            "tip": "O arcadă fermecătoare cu o mână de magazine independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Newport Market",
+            "tip": "Find local produce, crafts and vintage clothing all under one roof."
+          },
+          {
+            "name": "Victorian Arcade",
+            "tip": "A charming arcade with a handful of independent shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders für den letzten Bus zurück.",
+          "Laden Sie die App des lokalen Busunternehmens für Echtzeit-Updates herunter.",
+          "Eine Tageskarte ist oft günstiger als der Kauf von Einzeltickets.",
+          "Fragen Sie den Fahrer, wenn Sie unsicher sind, an welcher Haltestelle Sie aussteigen müssen; sie sind normalerweise hilfsbereit."
+        ],
+        "hu": [
+          "Előre ellenőrizd a buszmenetrendeket, különösen az utolsó visszajáratot.",
+          "Töltsd le a helyi busztársaság alkalmazását a valós idejű frissítésekért.",
+          "A napijegy gyakran olcsóbb, mint külön jegyeket venni.",
+          "Kérdezd meg a sofőrt, ha nem vagy biztos benne, melyik megállónál kell leszállnod; általában segítőkészek."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor în avans, în special pentru ultimul autobuz de întoarcere.",
+          "Descărcați aplicația companiei locale de autobuze pentru actualizări în timp real.",
+          "Un bilet de o zi este adesea mai ieftin decât cumpărarea de bilete individuale.",
+          "Întrebați șoferul dacă nu sunteți sigur la ce stație să coborâți; de obicei sunt de ajutor."
+        ],
+        "en": [
+          "Check bus timetables in advance, especially for the last bus back.",
+          "Download the local bus company's app for real-time updates.",
+          "A day-rider ticket is often cheaper than buying single fares.",
+          "Ask the driver if you're unsure which stop to get off at; they're usually helpful."
+        ]
+      }
+    }
+  }
+}

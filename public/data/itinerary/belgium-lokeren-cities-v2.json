@@ -1,0 +1,1356 @@
+{
+  "city_id": "belgium-lokeren-cities-v2",
+  "anchor": {
+    "name": "Lokeren",
+    "coords": [
+      3.9911,
+      51.1042
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Oude Vismijn",
+            "hu": "Régi Halpiac",
+            "ro": "Piața Veche de Pește",
+            "en": "Old Fish Market"
+          },
+          "coords": [
+            3.9925,
+            51.1038
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das städtische Treiben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, privind agitația orașului.",
+            "en": "Start your day here with a coffee and watch the city life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Laurentiuskerk",
+            "hu": "Szent Lőrinc-templom",
+            "ro": "Biserica Sfântul Laurențiu",
+            "en": "Saint Lawrence Church"
+          },
+          "coords": [
+            3.9918,
+            51.1045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Kanzel aus dem 17. Jahrhundert.",
+            "hu": "Figyelje meg a lenyűgöző, 17. századi szószéket.",
+            "ro": "Observați amvonul impresionant din secolul al XVII-lea.",
+            "en": "Look out for the impressive 17th-century pulpit."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsmuseum Lokeren",
+            "hu": "Lokeren Városi Múzeum",
+            "ro": "Muzeul Orașului Lokeren",
+            "en": "Lokeren City Museum"
+          },
+          "coords": [
+            3.9905,
+            51.1051
+          ],
+          "category": "museums",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der Haarschneidekunst, für die Lokeren bekannt war.",
+            "hu": "Ismerje meg a hajvágás művészetének történetét, amelyről Lokeren híres volt.",
+            "ro": "Descoperiți istoria artei tunsului, pentru care Lokeren era renumit.",
+            "en": "Discover the history of the hair-cutting art for which Lokeren was famous."
+          }
+        },
+        {
+          "name": {
+            "de": "Park ter Beuken",
+            "hu": "Ter Beuken Park",
+            "ro": "Parcul ter Beuken",
+            "en": "Park ter Beuken"
+          },
+          "coords": [
+            3.9845,
+            51.1066
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Bringen Sie ein Sandwich mit oder entspannen Sie einfach auf einer Bank.",
+            "hu": "Tökéletes egy ebédszünetre. Hozzon magával egy szendvicset, vagy csak pihenjen meg egy padon.",
+            "ro": "Perfect pentru o pauză de prânz. Aduceți un sandviș sau relaxați-vă pe o bancă.",
+            "en": "Perfect for a lunch break. Bring a sandwich or just relax on a bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Annakapel",
+            "hu": "Szent Anna-kápolna",
+            "ro": "Capela Sfânta Ana",
+            "en": "Saint Anne's Chapel"
+          },
+          "coords": [
+            3.9999,
+            51.0991
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine kleine, ruhige Kapelle, ideal für einen Moment der Besinnung.",
+            "hu": "Egy kicsi, csendes kápolna, ideális egy pillanatnyi elmélyülésre.",
+            "ro": "O capelă mică și liniștită, ideală pentru un moment de reculegere.",
+            "en": "A small, quiet chapel, ideal for a moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Molsbroek",
+            "hu": "Molsbroek Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Molsbroek",
+            "en": "Molsbroek Nature Reserve"
+          },
+          "coords": [
+            4.015,
+            51.0955
+          ],
+          "category": "natural features",
+          "arrive_at": "15:03",
+          "stay_min": 90,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bringen Sie ein Fernglas mit, um die vielen Vogelarten zu beobachten.",
+            "hu": "Hozzon magával távcsövet a számos madárfaj megfigyeléséhez.",
+            "ro": "Aduceți un binoclu pentru a observa numeroasele specii de păsări.",
+            "en": "Bring binoculars to observe the many bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Durmebrug",
+            "hu": "Durme-híd",
+            "ro": "Podul Durme",
+            "en": "Durme Bridge"
+          },
+          "coords": [
+            3.9942,
+            51.1082
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:13",
+          "stay_min": 62,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang über dem Fluss Durme von der Brücke aus.",
+            "hu": "Élvezze a naplementét a Durme folyó felett a hídról.",
+            "ro": "Bucurați-vă de apusul peste râul Durme de pe pod.",
+            "en": "Enjoy the sunset over the river Durme from the bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Lokeren beginnt am belebten Oude Vismijn, dem alten Fischmarkt. Am Vormittag erkunden Sie das historische Herz der Stadt mit der majestätischen Sint-Laurentiuskerk und dem aufschlussreichen Stadsmuseum. Der Mittag führt Sie in den grünen Park ter Beuken, eine Oase der Ruhe. Am Nachmittag entdecken Sie die idyllische Sint-Annakapel, bevor Sie in die unberührte Natur des Molsbroek eintauchen. Der Tag endet stimmungsvoll auf der Durmebrug, wo Sie den Sonnenuntergang über dem Wasser bewundern können.",
+        "hu": "A lokereni séta a nyüzsgő Oude Vismijn-nél, a régi halpiacnál kezdődik. Délelőtt a város történelmi szívét fedezi fel a fenséges Sint-Laurentiuskerk-kel és a tanulságos Városi Múzeummal. Délben a zöld Ter Beuken Parkba, a nyugalom oázisába érkezik. Délután felfedezi az idilli Szent Anna-kápolnát, mielőtt elmerülne a Molsbroek érintetlen természetében. A nap hangulatosan a Durme-hídon ér véget, ahonnan megcsodálhatja a naplementét a víz felett.",
+        "ro": "O plimbare prin Lokeren începe la animata Oude Vismijn, vechea piață de pește. Dimineața explorați inima istorică a orașului cu maiestuoasa Biserică Sf. Laurențiu și Muzeul Orașului, plin de informații. Prânzul vă duce în verdele Parc ter Beuken, o oază de liniște. După-amiaza, descoperiți idilica Capelă Sf. Ana înainte de a vă cufunda în natura neatinsă a Molsbroek. Ziua se încheie atmosferic pe Podul Durme, admirând apusul peste apă.",
+        "en": "A walk through Lokeren begins at the lively Oude Vismijn, the old fish market. In the morning, you'll explore the historic heart of the city with the majestic Saint Lawrence Church and the insightful City Museum. Lunch takes you to the green Park ter Beuken, an oasis of calm. In the afternoon, discover the idyllic Saint Anne's Chapel before immersing yourself in the untouched nature of Molsbroek. The day ends atmospherically on the Durme Bridge, admiring the sunset over the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokerse Paardenworst",
+            "tip": "Probieren Sie diese lokale Spezialität aus Pferdefleisch, oft mit einer Kirschsauce serviert."
+          },
+          {
+            "name": "Brasserie 't Stadhuis",
+            "tip": "Ein klassisches belgisches Brasserie-Erlebnis im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lokersei lókolbász",
+            "tip": "Kóstolja meg ezt a helyi, lóhúsból készült specialitást, gyakran meggyszósszal tálalva."
+          },
+          {
+            "name": "Brasserie 't Stadhuis",
+            "tip": "Klasszikus belga söröző-élmény a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnat de cal din Lokeren",
+            "tip": "Încercați această specialitate locală din carne de cal, adesea servită cu un sos de cireșe."
+          },
+          {
+            "name": "Brasserie 't Stadhhuis",
+            "tip": "O experiență clasică de braseria belgiană în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lokerse Paardenworst",
+            "tip": "Try this local specialty made from horsemeat, often served with a cherry sauce."
+          },
+          {
+            "name": "Brasserie 't Stadhuis",
+            "tip": "A classic Belgian brasserie experience in the heart of the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Durme",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, besonders bei Sonnenaufgang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Molsbroek",
+            "tip": "Verlieren Sie sich auf den stillen Pfaden des Naturschutzgebiets.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bospark",
+            "tip": "Ein kleiner, oft übersehener Waldpark für eine kurze Auszeit.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Durme folyó partja",
+            "tip": "Csendes séta a folyó mentén, különösen napkeltekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Molsbroek",
+            "tip": "Vesszen el a természetvédelmi terület csendes ösvényein.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bospark",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott erdőpark egy rövid kikapcsolódásra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Durme",
+            "tip": "O plimbare liniștită de-a lungul râului, mai ales la răsărit.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Molsbroek",
+            "tip": "Pierdeți-vă pe potecile tăcute ale rezervației naturale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bospark",
+            "tip": "Un mic parc forestier adesea trecut cu vederea pentru o scurtă pauză.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Durme",
+            "tip": "A quiet walk along the river, especially at sunrise.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Molsbroek",
+            "tip": "Get lost on the silent paths of the nature reserve.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bospark",
+            "tip": "A small, often overlooked forest park for a short break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie den Markt am Mittwoch für lokale Produkte und eine lebhafte Atmosphäre."
+          },
+          {
+            "name": "Stationsstraat",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus bekannten Marken und lokalen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el a szerdai piacra helyi termékekért és a nyüzsgő hangulatért."
+          },
+          {
+            "name": "Stationsstraat",
+            "tip": "A fő bevásárlóutca ismert márkák és helyi boltok keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați piața de miercuri pentru produse locale și o atmosferă plină de viață."
+          },
+          {
+            "name": "Stationsstraat",
+            "tip": "Strada principală de cumpărături cu un amestec de mărci cunoscute și magazine locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the market on Wednesday for local products and a lively atmosphere."
+          },
+          {
+            "name": "Stationsstraat",
+            "tip": "The main shopping street with a mix of well-known brands and local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Einige Wege im Molsbroek können nach Regen schlammig sein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "A Molsbroek egyes ösvényei eső után sárosak lehetnek."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "Unele poteci din Molsbroek pot fi noroioase după ploaie."
+        ],
+        "en": [
+          "Wear comfortable shoes, as you'll be doing a lot of walking.",
+          "Check the museum's opening hours in advance.",
+          "Some paths in Molsbroek can be muddy after rain."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Oude Vismijn",
+            "hu": "Régi Halpiac",
+            "ro": "Piața Veche de Pește",
+            "en": "Old Fish Market"
+          },
+          "coords": [
+            3.9925,
+            51.1038
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt, um sich vor der Radtour zu stärken.",
+            "hu": "Jó kiindulópont, hogy erőt gyűjtsön a biciklitúra előtt.",
+            "ro": "Un bun punct de plecare pentru a vă energiza înainte de turul cu bicicleta.",
+            "en": "A good starting point to fuel up before the bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Laurentiuskerk & Stadsmuseum",
+            "hu": "Szent Lőrinc-templom és Városi Múzeum",
+            "ro": "Biserica Sf. Laurențiu & Muzeul Orașului",
+            "en": "St. Lawrence Church & City Museum"
+          },
+          "coords": [
+            3.991,
+            51.1048
+          ],
+          "category": "combo",
+          "arrive_at": "09:33",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie beide Sehenswürdigkeiten, die nahe beieinander liegen.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel mindkét, egymáshoz közel fekvő látnivalót.",
+            "ro": "Parcați bicicleta și explorați ambele atracții, care sunt apropiate.",
+            "en": "Park your bike and explore both attractions, which are close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Bospark",
+            "hu": "Bospark",
+            "ro": "Bospark",
+            "en": "Bospark"
+          },
+          "coords": [
+            3.9788,
+            51.1115
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:42",
+          "stay_min": 30,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze, erfrischende Pause im Grünen auf dem Weg aus der Stadt.",
+            "hu": "Rövid, frissítő pihenő a zöldben a városból kifelé vezető úton.",
+            "ro": "O pauză scurtă și răcoritoare în verdeață, în drumul spre ieșirea din oraș.",
+            "en": "A short, refreshing break in the greenery on the way out of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Durmebrug",
+            "hu": "Durme-híd",
+            "ro": "Podul Durme",
+            "en": "Durme Bridge"
+          },
+          "coords": [
+            3.9942,
+            51.1082
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:24",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Halten Sie für einen Fotostopp an und genießen Sie die Aussicht auf den Fluss.",
+            "hu": "Álljon meg egy fotóra, és élvezze a folyóra nyíló kilátást.",
+            "ro": "Opriți-vă pentru o fotografie și bucurați-vă de vederea asupra râului.",
+            "en": "Stop for a photo opportunity and enjoy the view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Molsbroek",
+            "hu": "Molsbroek Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Molsbroek",
+            "en": "Molsbroek Nature Reserve"
+          },
+          "coords": [
+            4.015,
+            51.0955
+          ],
+          "category": "natural features",
+          "arrive_at": "12:57",
+          "stay_min": 150,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ideal für eine längere Pause mit Picknick und Vogelbeobachtung. Es gibt spezielle Fahrradständer.",
+            "hu": "Ideális egy hosszabb pihenőre piknikkel és madármegfigyeléssel. Vannak kerékpártárolók.",
+            "ro": "Ideal pentru o pauză mai lungă cu picnic și observarea păsărilor. Există suporturi speciale pentru biciclete.",
+            "en": "Ideal for a longer break with a picnic and bird watching. There are special bike racks."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtzentrum Rückkehr",
+            "hu": "Visszatérés a városközpontba",
+            "ro": "Întoarcere în centrul orașului",
+            "en": "Return to City Center"
+          },
+          "coords": [
+            3.9911,
+            51.1042
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:15",
+          "stay_min": 66,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem wohlverdienten belgischen Bier in einer der Bars am Markt.",
+            "hu": "Zárja a napot egy jól megérdemelt belga sörrel a piac egyik bárjában.",
+            "ro": "Încheiați ziua cu o bere belgiană binemeritată la unul dintre barurile din piață.",
+            "en": "End the day with a well-deserved Belgian beer in one of the bars on the market square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour beginnt im Herzen von Lokeren, wo Sie das historische Zentrum erkunden. Vormittags radeln Sie durch den Bospark und über die Durmebrug, genießen die Aussicht und die frische Luft. Der Mittag ist dem weitläufigen Naturschutzgebiet Molsbroek gewidmet, ein Paradies für Radfahrer und Naturliebhaber. Am Nachmittag führt die Route Sie zurück ins Zentrum, wo Sie entspannt durch die Straßen schlendern und den Tag bei einem lokalen Bier ausklingen lassen.",
+        "hu": "A kerékpártúra Lokeren szívében kezdődik, ahol felfedezheti a történelmi központot. Délelőtt a Bosparkon és a Durme-hídon keresztül teker, élvezve a kilátást és a friss levegőt. A dél a tágas Molsbroek természetvédelmi területé, a kerékpárosok és a természetbarátok paradicsomáé. Délután az útvonal visszavezet a központba, ahol lazán sétálhat az utcákon, és egy helyi sörrel zárhatja a napot.",
+        "ro": "Turul cu bicicleta începe în inima orașului Lokeren, unde explorați centrul istoric. Dimineața pedalați prin Bospark și peste podul Durme, bucurându-vă de priveliște și de aerul proaspăt. Prânzul este dedicat rezervației naturale extinse Molsbroek, un paradis pentru bicicliști și iubitorii de natură. După-amiaza, traseul vă duce înapoi în centru, unde vă puteți plimba relaxat pe străzi și încheia ziua cu o bere locală.",
+        "en": "The bike tour starts in the heart of Lokeren, where you'll explore the historic center. In the morning, you'll cycle through Bospark and over the Durme Bridge, enjoying the views and fresh air. Lunch is dedicated to the expansive Molsbroek nature reserve, a paradise for cyclists and nature lovers. In the afternoon, the route takes you back to the center, where you can stroll relaxedly through the streets and end the day with a local beer."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frietkot",
+            "tip": "Eine Portion belgische Pommes Frites ist der perfekte Radler-Snack."
+          },
+          {
+            "name": "Café Den Bokker",
+            "tip": "Ein authentisches 'braunes Café' für ein erfrischendes Bier nach der Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frietkot",
+            "tip": "Egy adag belga sült krumpli tökéletes kerékpáros harapnivaló."
+          },
+          {
+            "name": "Café Den Bokker",
+            "tip": "Autentikus 'barna kávézó' egy frissítő sörre a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Frietkot",
+            "tip": "O porție de cartofi prăjiți belgieni este gustarea perfectă pentru un biciclist."
+          },
+          {
+            "name": "Café Den Bokker",
+            "tip": "O 'cafenea maro' autentică pentru o bere răcoritoare după tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frietkot",
+            "tip": "A portion of Belgian fries is the perfect cyclist's snack."
+          },
+          {
+            "name": "Café Den Bokker",
+            "tip": "An authentic 'brown café' for a refreshing beer after the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang der Durme",
+            "tip": "Folgen Sie dem Fluss für eine besonders ruhige und malerische Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vogelbeobachtungsturm im Molsbroek",
+            "tip": "Ein erhöhter, stiller Ort, um die Tierwelt zu beobachten.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Park ter Beuken",
+            "tip": "Legen Sie eine Pause auf einer schattigen Bank ein.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Durme mentén",
+            "tip": "Kövesse a folyót egy különösen csendes és festői útvonalért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Madármegfigyelő torony a Molsbroekben",
+            "tip": "Egy magas, csendes hely a vadvilág megfigyelésére.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Park ter Beuken",
+            "tip": "Tartson szünetet egy árnyékos padon.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Durme",
+            "tip": "Urmați râul pentru o plimbare deosebit de liniștită și pitorească.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Turnul de observare a păsărilor din Molsbroek",
+            "tip": "Un loc înalt și liniștit pentru a observa fauna sălbatică.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Parcul ter Beuken",
+            "tip": "Luați o pauză pe o bancă umbrită.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle path along the Durme",
+            "tip": "Follow the river for a particularly quiet and scenic ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bird watching tower in Molsbroek",
+            "tip": "An elevated, quiet spot to observe the wildlife.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Park ter Beuken",
+            "tip": "Take a break on a shady bench.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie ein 'Mattentaart', ein lokales Gebäck, für Energie unterwegs."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für eventuelle schnelle Reparaturen oder Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon egy 'Mattentaart'-ot, egy helyi süteményt, hogy energiát gyűjtsön útközben."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Esetleges gyors javításokhoz vagy kiegészítőkhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăriile locale",
+            "tip": "Cumpărați o 'Mattentaart', o prăjitură locală, pentru energie pe drum."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru eventuale reparații rapide sau accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakeries",
+            "tip": "Buy a 'Mattentaart', a local pastry, for energy on the go."
+          },
+          {
+            "name": "Bike shops",
+            "tip": "For any quick repairs or accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Achten Sie auf die Fahrradwegweisung, die in Flandern ausgezeichnet ist."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Vigyen magával elegendő vizet.",
+          "Figyeljen a kerékpárút-jelzésekre, amelyek Flandriában kiválóak."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Luați suficientă apă cu dumneavoastră.",
+          "Fiți atenți la semnalizarea pentru biciclete, care este excelentă în Flandra."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Bring plenty of water.",
+          "Pay attention to the cycle path signage, which is excellent in Flanders."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 15.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum Parken",
+            "hu": "1. klaszter: Parkolás a központban",
+            "ro": "Cluster 1: Parcare în centru",
+            "en": "Cluster 1: City Center Parking"
+          },
+          "coords": [
+            3.9935,
+            51.103
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Grote Kaai für einen einfachen Zugang zum Zentrum.",
+            "hu": "Parkoljon a Grote Kaai közelében, ahonnan könnyen elérhető a központ.",
+            "ro": "Parcați lângă Grote Kaai pentru acces ușor la centru.",
+            "en": "Park near the Grote Kaai for easy access to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Oude Vismijn & Sint-Laurentiuskerk",
+            "hu": "Régi Halpiac és Szent Lőrinc-templom",
+            "ro": "Piața Veche de Pește și Biserica Sf. Laurențiu",
+            "en": "Old Fish Market & St. Lawrence Church"
+          },
+          "coords": [
+            3.992,
+            51.1041
+          ],
+          "category": "combo",
+          "arrive_at": "09:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie vom Parkplatz zum Markt und zur Kirche.",
+            "hu": "Sétáljon a parkolóból a piacra és a templomhoz.",
+            "ro": "Plimbați-vă de la parcare la piață și la biserică.",
+            "en": "Stroll from the parking lot to the market and the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsmuseum Lokeren",
+            "hu": "Lokeren Városi Múzeum",
+            "ro": "Muzeul Orașului Lokeren",
+            "en": "Lokeren City Museum"
+          },
+          "coords": [
+            3.9905,
+            51.1051
+          ],
+          "category": "museums",
+          "arrive_at": "10:23",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche zum Museum.",
+            "hu": "Rövid séta a templomtól a múzeumig.",
+            "ro": "O scurtă plimbare de la biserică la muzeu.",
+            "en": "A short walk from the church to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Molsbroek Parkplatz",
+            "hu": "2. klaszter: Molsbroek parkoló",
+            "ro": "Cluster 2: Parcare Molsbroek",
+            "en": "Cluster 2: Molsbroek Parking"
+          },
+          "coords": [
+            4.0145,
+            51.096
+          ],
+          "category": "transport",
+          "arrive_at": "12:12",
+          "stay_min": 0,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hauptparkplatz des Naturschutzgebiets.",
+            "hu": "Hajtson a természetvédelmi terület fő parkolójához.",
+            "ro": "Conduceți la parcarea principală a rezervației naturale.",
+            "en": "Drive to the main parking lot of the nature reserve."
+          }
+        },
+        {
+          "name": {
+            "de": "Molsbroek Erkundung",
+            "hu": "Molsbroek felfedezése",
+            "ro": "Explorare Molsbroek",
+            "en": "Molsbroek Exploration"
+          },
+          "coords": [
+            4.015,
+            51.0955
+          ],
+          "category": "natural features",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen langen Spaziergang oder eine kleine Wanderung durch das Reservat.",
+            "hu": "Tegyen egy hosszú sétát vagy egy rövid túrát a rezervátumban.",
+            "ro": "Faceți o plimbare lungă sau o drumeție scurtă prin rezervație.",
+            "en": "Take a long walk or a short hike through the reserve."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Park ter Beuken",
+            "hu": "3. klaszter: Ter Beuken Park",
+            "ro": "Cluster 3: Parcul ter Beuken",
+            "en": "Cluster 3: Park ter Beuken"
+          },
+          "coords": [
+            3.9845,
+            51.1066
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:32",
+          "stay_min": 191,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 5.3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit Entspannung in diesem schönen Stadtpark.",
+            "hu": "Zárja a napot pihenéssel ebben a szép városi parkban.",
+            "ro": "Încheiați ziua relaxându-vă în acest frumos parc urban.",
+            "en": "End the day relaxing in this beautiful city park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Lokeren in Clustern. Der Vormittag ist dem historischen Stadtzentrum gewidmet, das Sie bequem zu Fuß erkunden, nachdem Sie Ihr Auto geparkt haben. Mittags fahren Sie zum weitläufigen Naturschutzgebiet Molsbroek, wo Sie nach einem kurzen Spaziergang die Natur genießen. Den Nachmittag verbringen Sie entspannt im Park ter Beuken, ein weiterer kurzer Autotrip, der Sie in eine grüne Oase führt, bevor Sie die Rückreise antreten.",
+        "hu": "Autóval Lokerent klaszterekben fedezheti fel. A délelőtt a történelmi városközponté, amelyet a parkolás után kényelmesen, gyalogosan járhat be. Délben a tágas Molsbroek természetvédelmi területre hajt, ahol egy rövid séta után élvezheti a természetet. A délutánt a Park ter Beukenben tölti pihenéssel, egy újabb rövid autós utazás után, amely egy zöld oázisba vezeti, mielőtt hazaindulna.",
+        "ro": "Cu mașina, explorați Lokeren în clustere. Dimineața este dedicată centrului istoric al orașului, pe care îl explorați confortabil pe jos după ce ați parcat mașina. La prânz, conduceți spre rezervația naturală extinsă Molsbroek, unde vă bucurați de natură după o scurtă plimbare. Petreceți după-amiaza relaxându-vă în Parcul ter Beuken, o altă călătorie scurtă cu mașina care vă duce într-o oază verde înainte de a vă întoarce.",
+        "en": "By car, you explore Lokeren in clusters. The morning is dedicated to the historic city center, which you can comfortably explore on foot after parking your car. At noon, you drive to the expansive Molsbroek nature reserve, where you enjoy nature after a short walk. You spend the afternoon relaxing in Park ter Beuken, another short car trip that takes you to a green oasis before you head back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant L'Homard Bizarre",
+            "tip": "Eine gehobene Option für Meeresfrüchte, wenn Sie sich etwas gönnen möchten."
+          },
+          {
+            "name": "Picknick im Molsbroek",
+            "tip": "Kaufen Sie lokale Produkte auf dem Markt und genießen Sie ein Mittagessen in der Natur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant L'Homard Bizarre",
+            "tip": "Kifinomult tengeri herkentyűs étterem, ha kényeztetni szeretné magát."
+          },
+          {
+            "name": "Piknik a Molsbroekben",
+            "tip": "Vásároljon helyi termékeket a piacon, és ebédeljen a természetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant L'Homard Bizarre",
+            "tip": "O opțiune de lux pentru fructe de mare, dacă doriți să vă răsfățați."
+          },
+          {
+            "name": "Picnic la Molsbroek",
+            "tip": "Cumpărați produse locale de la piață și bucurați-vă de un prânz în natură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant L'Homard Bizarre",
+            "tip": "An upscale option for seafood if you want to treat yourself."
+          },
+          {
+            "name": "Picnic at Molsbroek",
+            "tip": "Buy local products at the market and enjoy lunch in nature."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Versteckte Ecken im Molsbroek",
+            "tip": "Abseits der Hauptwege finden Sie absolute Stille.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Sint-Annakapel",
+            "tip": "Ein kurzer Halt für einen Moment der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Abend im Park ter Beuken",
+            "tip": "Wenn die meisten Besucher gegangen sind, ist es hier besonders friedlich.",
+            "emoji": "🌙"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rejtett zugok a Molsbroekben",
+            "tip": "A fő ösvényektől távol abszolút csendet talál.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Szent Anna-kápolna",
+            "tip": "Rövid megálló egy pillanatnyi békéért.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Esti séta a Park ter Beukenben",
+            "tip": "Amikor a legtöbb látogató már elment, különösen békés itt.",
+            "emoji": "🌙"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colțuri ascunse în Molsbroek",
+            "tip": "Departe de potecile principale veți găsi liniște absolută.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Capela Sfânta Ana",
+            "tip": "O oprire scurtă pentru un moment de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de seară în Parcul ter Beuken",
+            "tip": "Când majoritatea vizitatorilor au plecat, este deosebit de pașnic aici.",
+            "emoji": "🌙"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hidden corners in Molsbroek",
+            "tip": "You will find absolute silence away from the main paths.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Saint Anne's Chapel",
+            "tip": "A short stop for a moment of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Evening walk in Park ter Beuken",
+            "tip": "It's especially peaceful here when most visitors have left.",
+            "emoji": "🌙"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden rund um Lokeren",
+            "tip": "Mit dem Auto können Sie leicht Bauernhöfe erreichen, die frische Produkte verkaufen."
+          },
+          {
+            "name": "Antiquitätenläden",
+            "tip": "Halten Sie Ausschau nach kleinen Läden mit einzigartigen Fundstücken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok Lokeren környékén",
+            "tip": "Autóval könnyen elérhetők a friss termékeket árusító gazdaságok."
+          },
+          {
+            "name": "Antikváriumok",
+            "tip": "Keresse a kis boltokat egyedi leletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor din jurul Lokeren",
+            "tip": "Cu mașina puteți ajunge cu ușurință la fermele care vând produse proaspete."
+          },
+          {
+            "name": "Magazine de antichități",
+            "tip": "Căutați magazine mici cu descoperiri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops around Lokeren",
+            "tip": "By car, you can easily reach farms selling fresh produce."
+          },
+          {
+            "name": "Antique shops",
+            "tip": "Look out for small shops with unique finds."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Möglichkeiten, wenn verfügbar.",
+          "Achten Sie auf die blauen Parkzonen, die eine Parkscheibe erfordern.",
+          "Planen Sie Ihre Route im Voraus, um Verkehr zu vermeiden."
+        ],
+        "hu": [
+          "Használja a P+R lehetőségeket, ha rendelkezésre állnak.",
+          "Figyeljen a kék parkolási zónákra, amelyekhez parkolótárcsa szükséges.",
+          "Tervezze meg előre az útvonalat a forgalom elkerülése érdekében."
+        ],
+        "ro": [
+          "Utilizați opțiunile Park-and-Ride, dacă sunt disponibile.",
+          "Fiți atenți la zonele de parcare albastre care necesită un disc de parcare.",
+          "Planificați-vă traseul în avans pentru a evita traficul."
+        ],
+        "en": [
+          "Use Park-and-Ride options if available.",
+          "Pay attention to the blue parking zones that require a parking disc.",
+          "Plan your route in advance to avoid traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft Bahnhof & Oude Vismijn",
+            "hu": "1. klaszter: Érkezés az állomásra és Régi Halpiac",
+            "ro": "Cluster 1: Sosire la gară și Piața Veche de Pește",
+            "en": "Cluster 1: Arrival at Station & Old Fish Market"
+          },
+          "coords": [
+            3.9925,
+            51.1038
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Bahnhof Lokeren ist es nur ein kurzer Spaziergang oder eine Busfahrt ins Zentrum.",
+            "hu": "A lokereni állomástól csak egy rövid séta vagy buszút a központ.",
+            "ro": "De la gara Lokeren este doar o scurtă plimbare pe jos sau cu autobuzul până în centru.",
+            "en": "From Lokeren station, it's just a short walk or bus ride to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Laurentiuskerk & Stadsmuseum",
+            "hu": "Szent Lőrinc-templom és Városi Múzeum",
+            "ro": "Biserica Sf. Laurențiu & Muzeul Orașului",
+            "en": "St. Lawrence Church & City Museum"
+          },
+          "coords": [
+            3.991,
+            51.1048
+          ],
+          "category": "combo",
+          "arrive_at": "09:43",
+          "stay_min": 140,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Herz der Stadt zu Fuß.",
+            "hu": "Fedezze fel a város szívét gyalog.",
+            "ro": "Explorați inima orașului pe jos.",
+            "en": "Explore the heart of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Bus zum Park ter Beuken",
+            "hu": "2. klaszter: Busz a Ter Beuken Parkhoz",
+            "ro": "Cluster 2: Autobuz spre Parcul ter Beuken",
+            "en": "Cluster 2: Bus to Park ter Beuken"
+          },
+          "coords": [
+            3.9845,
+            51.1066
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus für eine kurze Fahrt zum Park.",
+            "hu": "Menjen egy helyi busszal a parkhoz.",
+            "ro": "Luați un autobuz local pentru o scurtă călătorie spre parc.",
+            "en": "Take a local bus for a short ride to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Bus zum Molsbroek",
+            "hu": "3. klaszter: Busz a Molsbroekhez",
+            "ro": "Cluster 3: Autobuz spre Molsbroek",
+            "en": "Cluster 3: Bus to Molsbroek"
+          },
+          "coords": [
+            4.015,
+            51.0955
+          ],
+          "category": "natural features",
+          "arrive_at": "14:28",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie zum Eingang des Naturschutzgebiets.",
+            "hu": "Egy újabb buszozás elviszi a természetvédelmi terület bejáratához.",
+            "ro": "O altă călătorie cu autobuzul vă va duce la intrarea rezervației naturale.",
+            "en": "Another bus ride will take you to the entrance of the nature reserve."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Bahnhof",
+            "hu": "Visszatérés az állomásra",
+            "ro": "Întoarcere la gară",
+            "en": "Return to the Station"
+          },
+          "coords": [
+            3.9911,
+            51.1042
+          ],
+          "category": "transport",
+          "arrive_at": "17:18",
+          "stay_min": 47,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück zum Bahnhof, um Ihre Heimreise anzutreten.",
+            "hu": "Menjen busszal vissza az állomásra, hogy hazautazzon.",
+            "ro": "Luați autobuzul înapoi la gară pentru a vă începe călătoria spre casă.",
+            "en": "Take the bus back to the station to start your journey home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln ist Lokeren einfach zu entdecken. Sie starten am Bahnhof und erkunden das Zentrum zu Fuß. Am Vormittag tauchen Sie in die Geschichte ein. Ein Bus bringt Sie mittags zum entspannten Park ter Beuken. Am Nachmittag bringt Sie ein weiterer Bus zum Naturjuwel Molsbroek, wo Sie ausgedehnte Spaziergänge unternehmen können. Der Tag endet, wo er begann: am Bahnhof, bereit für die nächste Etappe Ihrer Reise.",
+        "hu": "Tömegközlekedéssel Lokeren könnyen felfedezhető. Az állomásról indulva gyalogosan fedezi fel a központot. Délelőtt elmerül a történelemben. Délben egy busz viszi a pihentető Ter Beuken Parkba. Délután egy másik busz a Molsbroek természeti gyöngyszeméhez viszi, ahol hosszabb sétákat tehet. A nap ott ér véget, ahol elkezdődött: az állomáson, készen az utazás következő szakaszára.",
+        "ro": "Cu transportul public, Lokeren este ușor de descoperit. Începeți de la gară și explorați centrul pe jos. Dimineața vă cufundați în istorie. Un autobuz vă duce la prânz la relaxantul Parc ter Beuken. După-amiaza, un alt autobuz vă duce la bijuteria naturală Molsbroek, unde puteți face plimbări lungi. Ziua se încheie acolo unde a început: la gară, gata pentru următoarea etapă a călătoriei dumneavoastră.",
+        "en": "Lokeren is easy to discover using public transport. You start at the station and explore the center on foot. In the morning, you delve into history. A bus takes you to the relaxing Park ter Beuken at noon. In the afternoon, another bus takes you to the natural gem of Molsbroek, where you can take long walks. The day ends where it began: at the station, ready for the next leg of your journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandwichbar in Bahnhofsnähe",
+            "tip": "Schnappen Sie sich ein schnelles Mittagessen, bevor Sie den Bus nehmen."
+          },
+          {
+            "name": "Eiscafé im Zentrum",
+            "tip": "Belohnen Sie sich nach dem Spaziergang mit einem leckeren Eis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szendvicsbár az állomás közelében",
+            "tip": "Kapjon be egy gyors ebédet, mielőtt buszra száll."
+          },
+          {
+            "name": "Fagylaltozó a központban",
+            "tip": "Jutalmazza meg magát egy finom fagyival a séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandwich bar lângă gară",
+            "tip": "Luați un prânz rapid înainte de a lua autobuzul."
+          },
+          {
+            "name": "Gelaterie în centru",
+            "tip": "Recompensați-vă cu o înghețată delicioasă după plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandwich bar near the station",
+            "tip": "Grab a quick lunch before you take the bus."
+          },
+          {
+            "name": "Ice cream parlor in the center",
+            "tip": "Reward yourself with a delicious ice cream after your walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Bank im Bospark",
+            "tip": "Ein kurzer, aber effektiver Moment der Stille.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Leseecke im Stadsmuseum",
+            "tip": "Finden Sie eine ruhige Ecke, um in einem Buch zu blättern.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Sint-Annakapel",
+            "tip": "Auch mit dem Bus erreichbar, bietet es eine friedliche Zuflucht.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csendes pad a Bosparkban",
+            "tip": "Rövid, de hatásos csendpillanat.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Olvasósarok a Városi Múzeumban",
+            "tip": "Keressen egy csendes sarkot, ahol belelapozhat egy könyvbe.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Szent Anna-kápolna",
+            "tip": "Busszal is elérhető, békés menedéket nyújt.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă liniștită în Bospark",
+            "tip": "Un moment de liniște scurt, dar eficient.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Colțul de lectură la Muzeul Orașului",
+            "tip": "Găsiți un colț liniștit pentru a răsfoi o carte.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Capela Sfânta Ana",
+            "tip": "Accesibilă și cu autobuzul, oferă un refugiu pașnic.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet bench in Bospark",
+            "tip": "A short but effective moment of silence.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Reading corner in the City Museum",
+            "tip": "Find a quiet corner to browse a book.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Saint Anne's Chapel",
+            "tip": "Also accessible by bus, it offers a peaceful retreat.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Stationsstraat",
+            "tip": "Gut erreichbar vom Bahnhof aus für Last-Minute-Souvenirs."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Suchen Sie nach Geschäften, die 'Lokerse Paardenworst' zum Mitnehmen verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Stationsstraat-on",
+            "tip": "Könnyen elérhető az állomásról az utolsó pillanatos ajándéktárgyakért."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Keressen boltokat, ahol elvitelre árulnak 'Lokersei lókolbászt'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe Stationsstraat",
+            "tip": "Ușor accesibil de la gară pentru suveniruri de ultim moment."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Căutați magazine care vând 'Lokerse Paardenworst' la pachet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Stationsstraat",
+            "tip": "Easily accessible from the station for last-minute souvenirs."
+          },
+          {
+            "name": "Local delicacies",
+            "tip": "Look for shops that sell 'Lokerse Paardenworst' to take away."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Laden Sie die App der belgischen Bahngesellschaft (NMBS/SNCB) herunter.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders am Wochenende."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Töltse le a belga vasúttársaság (NMBS/SNCB) alkalmazását.",
+          "Előre ellenőrizze a buszmenetrendet, különösen hétvégén."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Descărcați aplicația companiei feroviare belgiene (NMBS/SNCB).",
+          "Verificați dinainte orarele autobuzelor, mai ales în weekend."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Download the app of the Belgian railway company (NMBS/SNCB).",
+          "Check the bus schedules in advance, especially on weekends."
+        ]
+      }
+    }
+  }
+}

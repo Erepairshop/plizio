@@ -1,0 +1,1292 @@
+{
+  "city_id": "uk-gloucester-cities-v2",
+  "anchor": {
+    "name": "Gloucester",
+    "coords": [
+      51.8642,
+      -2.2444
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gloucester Docks",
+            "hu": "Gloucesteri dokkok",
+            "ro": "Docurile Gloucester",
+            "en": "Gloucester Docks"
+          },
+          "coords": [
+            -2.25,
+            51.86
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die historischen Lagerhäuser, die heute Apartments und Geschäfte beherbergen.",
+            "hu": "Figyelje a történelmi raktárépületeket, amelyek ma már lakásoknak és üzleteknek adnak otthont.",
+            "ro": "Fiți atenți la depozitele istorice, acum transformate în apartamente și magazine.",
+            "en": "Look out for the historic warehouses, now converted into apartments and shops."
+          }
+        },
+        {
+          "name": {
+            "de": "National Waterways Museum",
+            "hu": "Nemzeti Víziutak Múzeuma",
+            "ro": "Muzeul Național al Căilor Navigabile",
+            "en": "National Waterways Museum"
+          },
+          "coords": [
+            -2.251,
+            51.859
+          ],
+          "category": "museums",
+          "arrive_at": "10:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Interaktive Ausstellungen machen die Geschichte der britischen Kanäle lebendig.",
+            "hu": "Az interaktív kiállítások életre keltik a brit csatornák történetét.",
+            "ro": "Expozițiile interactive aduc la viață istoria canalelor britanice.",
+            "en": "Interactive exhibits bring the history of Britain's canals to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Gloucester Quays",
+            "hu": "Gloucester Quays",
+            "ro": "Cheiurile Gloucester",
+            "en": "Gloucester Quays"
+          },
+          "coords": [
+            -2.252,
+            51.861
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein guter Ort für ein Mittagessen mit vielen Restaurants zur Auswahl.",
+            "hu": "Jó hely egy ebédhez, rengeteg étterem közül lehet választani.",
+            "ro": "Un loc bun pentru prânz, cu multe restaurante din care să alegeți.",
+            "en": "A good spot for lunch, with plenty of restaurants to choose from."
+          }
+        },
+        {
+          "name": {
+            "de": "Blackfriars Priory",
+            "hu": "Blackfriars kolostor",
+            "ro": "Mănăstirea Blackfriars",
+            "en": "Blackfriars Priory"
+          },
+          "coords": [
+            -2.248,
+            51.864
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Öffnungszeiten, da sie variieren können. Eines der am besten erhaltenen Dominikanerklöster.",
+            "hu": "Ellenőrizze a nyitvatartási időt, mivel változhat. Az egyik legjobb állapotban fennmaradt domonkos rendház.",
+            "ro": "Verificați programul de vizitare, deoarece poate varia. Una dintre cele mai bine conservate mănăstiri dominicane.",
+            "en": "Check opening times as they can be variable. One of the most complete surviving Dominican friaries."
+          }
+        },
+        {
+          "name": {
+            "de": "Beatrix Potter Museum",
+            "hu": "Beatrix Potter Múzeum",
+            "ro": "Muzeul Beatrix Potter",
+            "en": "Beatrix Potter Museum"
+          },
+          "coords": [
+            -2.246,
+            51.866
+          ],
+          "category": "museums",
+          "arrive_at": "14:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Fans. Hier wurde „Der Schneider von Gloucester“ inspiriert.",
+            "hu": "Kötelező a rajongóknak. Ez a hely ihlette „A gloucesteri szabó” meséjét.",
+            "ro": "O vizită obligatorie pentru fani. Aici a fost inspirată povestea „Croitorul din Gloucester”.",
+            "en": "A must-visit for fans. This is the house that inspired 'The Tailor of Gloucester'."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Gloucester",
+            "hu": "Gloucesteri katedrális",
+            "ro": "Catedrala din Gloucester",
+            "en": "Gloucester Cathedral"
+          },
+          "coords": [
+            -2.246,
+            51.867
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach den Harry-Potter-Drehorten in den Kreuzgängen.",
+            "hu": "Keresd a Harry Potter filmek forgatási helyszíneit a kerengőben.",
+            "ro": "Căutați locațiile de filmare pentru Harry Potter în claustruri.",
+            "en": "Look for the Harry Potter filming locations in the cloisters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Hafenviertel, den Gloucester Docks. Am Mittag erkunden Sie das nahegelegene Outlet-Center Gloucester Quays, ideal für eine Mahlzeit. Der Nachmittag ist der mittelalterlichen Geschichte gewidmet, mit einem Besuch der Blackfriars Priory und der prächtigen Kathedrale, einem Juwel der gotischen Architektur. Beenden Sie Ihren Tag mit einem Spaziergang durch die ruhigen Straßen um die Kathedrale.",
+        "hu": "Kezdje a napot a történelmi kikötőnegyedben, a Gloucester Docksban. Délben fedezze fel a közeli Gloucester Quays outlet központot, amely ideális egy ebédhez. A délután a középkori történelemé, látogatást teszünk a Blackfriars kolostorban és a csodálatos katedrálisban, a gótikus építészet ékkövében. Zárja a napot egy sétával a katedrális körüli csendes utcákon.",
+        "ro": "Începeți ziua în cartierul istoric al docurilor, Gloucester Docks. La prânz, explorați centrul comercial Gloucester Quays din apropiere, ideal pentru o masă. După-amiaza este dedicată istoriei medievale, cu o vizită la Mănăstirea Blackfriars și la magnifica catedrală, o bijuterie a arhitecturii gotice. Încheiați ziua cu o plimbare pe străzile liniștite din jurul catedralei.",
+        "en": "Start your day in the historic port quarter, the Gloucester Docks. At midday, explore the nearby Gloucester Quays outlet centre, perfect for a meal. The afternoon is dedicated to medieval history, with a visit to Blackfriars Priory and the magnificent cathedral, a jewel of Gothic architecture. End your day with a stroll through the quiet streets surrounding the cathedral."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gloucester-Wurst",
+            "tip": "Probieren Sie diese lokale Spezialität in einem traditionellen Pub."
+          },
+          {
+            "name": "Double Gloucester Cheese",
+            "tip": "Ein krümeliger, aber würziger Käse, der oft für Käserollen verwendet wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gloucester kolbász",
+            "tip": "Kóstolja meg ezt a helyi különlegességet egy hagyományos pubban."
+          },
+          {
+            "name": "Double Gloucester sajt",
+            "tip": "Omlós, mégis ízletes sajt, amelyet gyakran használnak sajttekercshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnat de Gloucester",
+            "tip": "Încercați această specialitate locală într-un pub tradițional."
+          },
+          {
+            "name": "Brânză Double Gloucester",
+            "tip": "O brânză fărâmicioasă, dar aromată, adesea folosită pentru rulouri cu brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gloucester sausage",
+            "tip": "Try this local speciality in a traditional pub."
+          },
+          {
+            "name": "Double Gloucester Cheese",
+            "tip": "A crumbly yet flavourful cheese, often used for cheese rolling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kathedralenkreuzgang",
+            "tip": "Finden Sie eine ruhige Ecke in den berühmten Kreuzgängen, um die Architektur zu bewundern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kanaluferweg",
+            "tip": "Ein friedlicher Spaziergang entlang des Gloucester and Sharpness Canal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katedrális kerengője",
+            "tip": "Találjon egy csendes zugot a híres kerengőkben, hogy megcsodálhassa az építészetet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Csatornaparti séta",
+            "tip": "Békés séta a Gloucester és Sharpness csatorna mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul Catedralei",
+            "tip": "Găsiți un colț liniștit în faimoasele claustruri pentru a admira arhitectura.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Promenada de pe malul canalului",
+            "tip": "O plimbare liniștită de-a lungul Canalului Gloucester and Sharpness.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Cloisters",
+            "tip": "Find a quiet corner in the famous cloisters to admire the architecture.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Canalside Path",
+            "tip": "A peaceful walk along the Gloucester and Sharpness Canal.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gloucester Quays",
+            "tip": "Ein Outlet-Shopping-Center mit Designermarken zu ermäßigten Preisen."
+          },
+          {
+            "name": "Westgate Street",
+            "tip": "Erkunden Sie die unabhängigen Geschäfte und Boutiquen in der Nähe der Kathedrale."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gloucester Quays",
+            "tip": "Outlet bevásárlóközpont, ahol akciós áron vásárolhat dizájner márkákat."
+          },
+          {
+            "name": "Westgate Street",
+            "tip": "Fedezze fel a független üzleteket és butikokat a katedrális közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gloucester Quays",
+            "tip": "Un centru comercial de tip outlet cu mărci de designer la prețuri reduse."
+          },
+          {
+            "name": "Westgate Street",
+            "tip": "Explorați magazinele și buticurile independente de lângă catedrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gloucester Quays",
+            "tip": "An outlet shopping centre with designer brands at discounted prices."
+          },
+          {
+            "name": "Westgate Street",
+            "tip": "Explore the independent shops and boutiques near the cathedral."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in den historischen Gebieten uneben sein kann.",
+          "Die meisten Hauptattraktionen liegen nahe beieinander und sind leicht zu Fuß erreichbar.",
+          "Kaufen Sie eine Flasche lokalen Cider, um sie später zu genießen.",
+          "Überprüfen Sie die Öffnungszeiten für die Priories, da diese begrenzt sein können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskaköves utcák egyenetlenek lehetnek a történelmi területeken.",
+          "A legtöbb fő látnivaló közel van egymáshoz, és gyalogosan könnyen megközelíthető.",
+          "Vásároljon egy üveg helyi almabort, hogy később elfogyassza.",
+          "Ellenőrizze a kolostorok nyitvatartási idejét, mivel az korlátozott lehet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din zonele istorice poate fi denivelat.",
+          "Majoritatea atracțiilor principale sunt apropiate și ușor de parcurs pe jos.",
+          "Cumpărați o sticlă de cidru local pentru a o savura mai târziu.",
+          "Verificați programul de vizitare al mănăstirilor, deoarece poate fi limitat."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven in historic areas.",
+          "Most of the main attractions are close together and easily walkable.",
+          "Pick up a bottle of local cider to enjoy later.",
+          "Check opening times for the Priories as they can be limited."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale von Gloucester",
+            "hu": "Gloucesteri katedrális",
+            "ro": "Catedrala din Gloucester",
+            "en": "Gloucester Cathedral"
+          },
+          "coords": [
+            -2.246,
+            51.867
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die beeindruckende Architektur erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a lenyűgöző építészetet.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora arhitectura impresionantă.",
+            "en": "Lock your bike securely before exploring the stunning architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "St Oswald's Priory",
+            "hu": "Szent Oswald priorátus",
+            "ro": "Prioratul St Oswald",
+            "en": "St Oswald's Priory"
+          },
+          "coords": [
+            -2.247,
+            51.869
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:29",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt von der Kathedrale entfernt, um diese historischen angelsächsischen Ruinen zu sehen.",
+            "hu": "Egy rövid út a katedrálistól ezekhez a történelmi angolszász romokhoz.",
+            "ro": "O scurtă plimbare cu bicicleta de la catedrală pentru a vedea aceste ruine istorice anglo-saxone.",
+            "en": "A quick ride from the cathedral to see these historic Anglo-Saxon ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Blackfriars Priory",
+            "hu": "Blackfriars kolostor",
+            "ro": "Mănăstirea Blackfriars",
+            "en": "Blackfriars Priory"
+          },
+          "coords": [
+            -2.248,
+            51.864
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Gärten sind ein friedlicher Ort zum Entspannen, bevor Sie weiterfahren.",
+            "hu": "A kertek békés helyet kínálnak a pihenésre, mielőtt tovább indulna.",
+            "ro": "Grădinile sunt un loc pașnic pentru a vă relaxa înainte de a continua.",
+            "en": "The gardens are a peaceful spot to relax before cycling on."
+          }
+        },
+        {
+          "name": {
+            "de": "Gloucester Docks",
+            "hu": "Gloucesteri dokkok",
+            "ro": "Docurile Gloucester",
+            "en": "Gloucester Docks"
+          },
+          "coords": [
+            -2.25,
+            51.86
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie entlang des Kais und beobachten Sie die historischen Schiffe und Narrowboats.",
+            "hu": "Kerékpározzon végig a rakparton, és nézze meg a történelmi hajókat és keskeny hajókat.",
+            "ro": "Pedalați de-a lungul cheiului și priviți navele istorice și ambarcațiunile înguste.",
+            "en": "Cycle along the quayside and watch the historic ships and narrowboats."
+          }
+        },
+        {
+          "name": {
+            "de": "National Waterways Museum",
+            "hu": "Nemzeti Víziutak Múzeuma",
+            "ro": "Muzeul Național al Căilor Navigabile",
+            "en": "National Waterways Museum"
+          },
+          "coords": [
+            -2.251,
+            51.859
+          ],
+          "category": "museums",
+          "arrive_at": "13:24",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Hier erfahren Sie alles über die Boote, die Sie gerade auf dem Wasser gesehen haben.",
+            "hu": "Tudjon meg mindent a hajókról, amelyeket éppen a vízen látott.",
+            "ro": "Aflați totul despre bărcile pe care tocmai le-ați văzut pe apă.",
+            "en": "Learn all about the boats you've just seen out on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Gloucester Quays",
+            "hu": "Gloucester Quays",
+            "ro": "Cheiurile Gloucester",
+            "en": "Gloucester Quays"
+          },
+          "coords": [
+            -2.252,
+            51.861
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:00",
+          "stay_min": 51,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einer Shoppingtour oder einem Kaffee nach Ihrer Radtour.",
+            "hu": "Jutalmazza meg magát egy kis vásárlással vagy egy kávéval a kerékpártúra után.",
+            "ro": "Recompensați-vă cu o sesiune de cumpărături sau o cafea după turul cu bicicleta.",
+            "en": "Reward yourself with some shopping or a coffee after your cycle tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag an der majestätischen Kathedrale von Gloucester. Am Vormittag radeln Sie zu den alten Ruinen von St. Oswald's und Blackfriars Priory. Zum Mittagessen fahren Sie zu den lebhaften Docks, wo Sie die maritime Atmosphäre genießen können. Der Nachmittag ist dem National Waterways Museum und einem Einkaufsbummel in Gloucester Quays gewidmet, bevor Sie den Tag beenden.",
+        "hu": "Kezdje a kerékpáros napot a fenséges Gloucester-katedrálisnál. Délelőtt tekerjen el St. Oswald és Blackfriars kolostorának ősi romjaihoz. Ebédidőben irány a nyüzsgő dokkok, ahol élvezheti a tengeri hangulatot. A délutánt a Nemzeti Víziutak Múzeumának és egy kis vásárlásnak szenteljük a Gloucester Quaysben, mielőtt befejeznénk a napot.",
+        "ro": "Începeți ziua pe bicicletă la maiestuoasa Catedrală Gloucester. Dimineața, pedalați spre ruinele antice ale Prioratului St Oswald și Mănăstirii Blackfriars. Pentru prânz, mergeți la docurile animate pentru a vă bucura de atmosfera maritimă. După-amiaza este rezervată Muzeului Național al Căilor Navigabile și unei sesiuni de cumpărături la Gloucester Quays înainte de a încheia ziua.",
+        "en": "Start your cycling day at the majestic Gloucester Cathedral. In the morning, pedal to the ancient ruins of St Oswald's and Blackfriars Priory. For lunch, head to the lively Docks to soak up the maritime atmosphere. The afternoon is reserved for the National Waterways Museum and a spot of shopping at Gloucester Quays before you call it a day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Tall Ship",
+            "tip": "Ein Pub in den Docks mit einer großartigen Auswahl an Ales und herzhaftem Essen."
+          },
+          {
+            "name": "Gloucester Services",
+            "tip": "Technisch gesehen eine Autobahnraststätte, aber berühmt für ihr fantastisches lokales Essen. Eine kurze Radtour entfernt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Tall Ship",
+            "tip": "Egy pub a dokkokban, nagyszerű sörválasztékkal és kiadós ételekkel."
+          },
+          {
+            "name": "Gloucester Services",
+            "tip": "Technikailag autópálya-pihenő, de híres a fantasztikus helyi ételeiről. Egy rövid kerékpárútra található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Tall Ship",
+            "tip": "Un pub din docuri cu o selecție excelentă de beri și mâncare consistentă."
+          },
+          {
+            "name": "Gloucester Services",
+            "tip": "Tehnic vorbind, este o stație de servicii pe autostradă, dar renumită pentru mâncarea locală fantastică. La o scurtă plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Tall Ship",
+            "tip": "A pub in the docks with a great selection of ales and hearty food."
+          },
+          {
+            "name": "Gloucester Services",
+            "tip": "Technically a motorway service station, but famous for its fantastic local food. A short cycle away."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alney Island Nature Reserve",
+            "tip": "Ein kurzer Ritt aus dem Stadtzentrum für friedliche Pfade und Vogelbeobachtung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Robinswood Hill",
+            "tip": "Eine anspruchsvolle Radtour, aber die Aussicht von oben ist die Mühe wert.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alney Island Természetvédelmi Terület",
+            "tip": "Egy rövid tekerés a városközpontból a békés ösvényekért és madármegfigyelésért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Robinswood Hill",
+            "tip": "Kihívást jelentő biciklitúra, de a kilátás a csúcsról megéri a fáradságot.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Naturală Alney Island",
+            "tip": "O scurtă plimbare cu bicicleta din centrul orașului pentru poteci liniștite și observarea păsărilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Robinswood Hill",
+            "tip": "O plimbare cu bicicleta provocatoare, dar priveliștile de sus merită efortul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alney Island Nature Reserve",
+            "tip": "A short ride out of the city centre for peaceful paths and birdwatching.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Robinswood Hill",
+            "tip": "A challenging cycle, but the views from the top are worth the effort.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In Gloucester gibt es mehrere unabhängige Fahrradgeschäfte für Zubehör oder Reparaturen."
+          },
+          {
+            "name": "Gloucester Farmers Market",
+            "tip": "Findet an bestimmten Freitagen statt und bietet lokale Produkte, ideal für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Gloucesterben több független kerékpárbolt is található kiegészítőkért vagy javításokért."
+          },
+          {
+            "name": "Gloucesteri termelői piac",
+            "tip": "Bizonyos péntekeken tartják, helyi termékeket kínálva, ami ideális egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Gloucester are mai multe magazine independente de biciclete pentru accesorii sau reparații."
+          },
+          {
+            "name": "Piața Agricolă Gloucester",
+            "tip": "Se ține în anumite vineri, oferind produse locale, perfecte pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle Shops",
+            "tip": "Gloucester has several independent cycle shops for any accessories or repairs."
+          },
+          {
+            "name": "Gloucester Farmers Market",
+            "tip": "Held on select Fridays, offering local produce perfect for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Teile der Stadt sind fahrradfreundlich, aber seien Sie im Stadtzentrum vorsichtig mit dem Verkehr.",
+          "Ein gutes Schloss ist unerlässlich, wenn Sie Ihr Fahrrad unbeaufsichtigt lassen.",
+          "Planen Sie Ihre Route, um einige der verkehrsfreien Wege entlang des Kanals zu nutzen.",
+          "Eine leichte Regenjacke ist immer eine gute Idee in England!"
+        ],
+        "hu": [
+          "A város egyes részei kerékpárbarátok, de a városközpontban legyen óvatos a forgalommal.",
+          "Egy jó lakat elengedhetetlen, ha felügyelet nélkül hagyja a kerékpárt.",
+          "Tervezze meg az útvonalat úgy, hogy kihasználja a csatorna menti forgalommentes ösvényeket.",
+          "Egy könnyű esőkabát mindig jó ötlet Angliában!"
+        ],
+        "ro": [
+          "Părți ale orașului sunt prietenoase cu bicicletele, dar fiți atenți la trafic în centrul orașului.",
+          "Un lacăt bun este esențial dacă lăsați bicicleta nesupravegheată.",
+          "Planificați-vă traseul pentru a include unele dintre potecile fără trafic de-a lungul canalului.",
+          "O geacă de ploaie ușoară este întotdeauna o idee bună în Anglia!"
+        ],
+        "en": [
+          "Parts of the city are cycle-friendly, but be aware of traffic in the city centre.",
+          "A good lock is essential if leaving your bike unattended.",
+          "Plan your route to include some of the traffic-free paths along the canal.",
+          "A light waterproof jacket is always a good idea in England!"
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Robinswood Hill Country Park",
+            "hu": "Robinswood Hill Country Park",
+            "ro": "Parcul Național Robinswood Hill",
+            "en": "Robinswood Hill Country Park"
+          },
+          "coords": [
+            -2.22,
+            51.83
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Gipfel für eine atemberaubende Aussicht auf die Severn Vale und darüber hinaus.",
+            "hu": "Hajtson fel a csúcsra, ahonnan lenyűgöző kilátás nyílik a Severn-völgyre és azon túl.",
+            "ro": "Conduceți spre vârf pentru vederi uimitoare ale Văii Severn și dincolo de ea.",
+            "en": "Drive to the summit for stunning views over the Severn Vale and beyond."
+          }
+        },
+        {
+          "name": {
+            "de": "Gloucester Docks (Parkplatz)",
+            "hu": "Gloucester Docks (parkoló)",
+            "ro": "Docurile Gloucester (parcare)",
+            "en": "Gloucester Docks (Parking)"
+          },
+          "coords": [
+            -2.253,
+            51.86
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier Ihr Auto und erkunden Sie die Docks und das Stadtzentrum zu Fuß.",
+            "hu": "Parkolja le az autóját itt, és fedezze fel a dokkokat és a városközpontot gyalog.",
+            "ro": "Parcați-vă mașina aici și explorați docurile și centrul orașului pe jos.",
+            "en": "Park your car here and explore the docks and city centre on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "National Waterways Museum",
+            "hu": "Nemzeti Víziutak Múzeuma",
+            "ro": "Muzeul Național al Căilor Navigabile",
+            "en": "National Waterways Museum"
+          },
+          "coords": [
+            -2.251,
+            51.859
+          ],
+          "category": "museums",
+          "arrive_at": "11:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz entfernt, um in die Geschichte des Kanals einzutauchen.",
+            "hu": "Egy rövid séta a parkolótól, hogy elmerüljön a csatorna történelmében.",
+            "ro": "La o scurtă plimbare de parcare pentru a vă cufunda în istoria canalului.",
+            "en": "A short walk from the car park to immerse yourself in canal history."
+          }
+        },
+        {
+          "name": {
+            "de": "Gloucester Quays",
+            "hu": "Gloucester Quays",
+            "ro": "Cheiurile Gloucester",
+            "en": "Gloucester Quays"
+          },
+          "coords": [
+            -2.252,
+            51.861
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:31",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für ein Mittagessen und Outlet-Shopping, alles zu Fuß erreichbar.",
+            "hu": "Tökéletes ebédhez és outlet vásárláshoz, mindez sétatávolságra.",
+            "ro": "Perfect pentru prânz și cumpărături la outlet, totul la distanță de mers pe jos.",
+            "en": "Perfect for lunch and outlet shopping, all within the walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Gloucester (Parkplatz)",
+            "hu": "Gloucesteri katedrális (parkoló)",
+            "ro": "Catedrala din Gloucester (parcare)",
+            "en": "Gloucester Cathedral (Parking)"
+          },
+          "coords": [
+            -2.245,
+            51.868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu einem Parkplatz in der Nähe der Kathedrale für den zweiten Teil des Tages.",
+            "hu": "Hajtson át a katedrális közelében lévő parkolóba a nap második felére.",
+            "ro": "Conduceți spre o parcare de lângă catedrală pentru a doua parte a zilei.",
+            "en": "Drive to a car park near the cathedral for the second cluster of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Beatrix Potter Museum",
+            "hu": "Beatrix Potter Múzeum",
+            "ro": "Muzeul Beatrix Potter",
+            "en": "Beatrix Potter Museum"
+          },
+          "coords": [
+            -2.246,
+            51.866
+          ],
+          "category": "museums",
+          "arrive_at": "16:18",
+          "stay_min": 57,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kathedrale zu diesem charmanten kleinen Museum.",
+            "hu": "Rövid séta a katedrálistól ehhez a bájos kis múzeumhoz.",
+            "ro": "O scurtă plimbare de la catedrală la acest mic muzeu fermecător.",
+            "en": "A short stroll from the cathedral to this charming little museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto auf dem Robinswood Hill für einen Panoramablick. Fahren Sie dann in die Stadt und parken Sie in den Docks, dem ersten Cluster. Erkunden Sie das Schifffahrtsmuseum und die Geschäfte in den Quays zu Fuß. Am Nachmittag fahren Sie zu einem Parkplatz in der Nähe der Kathedrale, Ihrem zweiten Cluster, um dieses architektonische Meisterwerk und das nahe gelegene Beatrix Potter Museum zu besichtigen.",
+        "hu": "Kezdje a napot a Robinswood Hillre autózva egy panorámás kilátásért. Ezután hajtson be a városba, és parkoljon a dokkoknál, az első klaszternél. Fedezze fel gyalog a víziutak múzeumát és a Quays üzleteit. Délután hajtson át a katedrális közelében lévő parkolóba, a második klaszterhez, hogy megnézze ezt az építészeti remekművet és a közeli Beatrix Potter Múzeumot.",
+        "ro": "Începeți ziua conducând până la Robinswood Hill pentru o vedere panoramică. Apoi, conduceți în oraș și parcați la docuri, primul dvs. cluster. Explorați pe jos muzeul căilor navigabile și magazinele din Quays. După-amiaza, conduceți spre o parcare de lângă catedrală, al doilea dvs. cluster, pentru a vizita această capodoperă arhitecturală și Muzeul Beatrix Potter din apropiere.",
+        "en": "Start your day by driving up Robinswood Hill for a panoramic view. Then, drive into the city and park at the Docks, your first cluster. Explore the waterways museum and the shops at the Quays on foot. In the afternoon, drive to a car park near the Cathedral, your second cluster, to visit this architectural masterpiece and the nearby Beatrix Potter Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Comfy Pew",
+            "tip": "Ein malerisches kleines Restaurant in der Nähe der Kathedrale, ideal für einen Cream Tea."
+          },
+          {
+            "name": "Greek on the Docks",
+            "tip": "Genießen Sie mediterrane Aromen mit Blick auf das Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Comfy Pew",
+            "tip": "Egy furcsa kis étterem a katedrális közelében, ideális egy tejszínes teához."
+          },
+          {
+            "name": "Greek on the Docks",
+            "tip": "Élvezze a mediterrán ízeket a vízre néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Comfy Pew",
+            "tip": "Un restaurant mic și pitoresc lângă catedrală, ideal pentru un ceai cu frișcă."
+          },
+          {
+            "name": "Greek on the Docks",
+            "tip": "Bucurați-vă de arome mediteraneene cu vedere la apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Comfy Pew",
+            "tip": "A quaint little restaurant near the cathedral, perfect for a cream tea."
+          },
+          {
+            "name": "Greek on the Docks",
+            "tip": "Enjoy Mediterranean flavours with a view of the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Robinswood Hill Gipfel",
+            "tip": "Der beste Ort für Ruhe und eine weite Aussicht, besonders an einem klaren Tag.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Blackfriars Priory Gärten",
+            "tip": "Ein verstecktes Juwel für einen Moment der Ruhe im Stadtzentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Robinswood Hill csúcsa",
+            "tip": "A legjobb hely a csendhez és a széles kilátáshoz, különösen tiszta napon.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Blackfriars kolostor kertjei",
+            "tip": "Egy rejtett gyöngyszem egy pillanatnyi békéért a városközpontban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Robinswood Hill",
+            "tip": "Cel mai bun loc pentru liniște și vederi ample, mai ales într-o zi senină.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Mănăstirii Blackfriars",
+            "tip": "O bijuterie ascunsă pentru un moment de liniște în centrul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Robinswood Hill Summit",
+            "tip": "The best spot for quiet and expansive views, especially on a clear day.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Blackfriars Priory Gardens",
+            "tip": "A hidden gem for a moment of peace in the city centre.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kathedralen-Geschenkeladen",
+            "tip": "Kaufen Sie einzigartige Souvenirs und unterstützen Sie die Erhaltung der Kathedrale."
+          },
+          {
+            "name": "Gloucester Antiques Centre",
+            "tip": "Ein riesiges Zentrum voller Schätze aus der Vergangenheit, in der Nähe der Docks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katedrális ajándékboltja",
+            "tip": "Vásároljon egyedi ajándéktárgyakat, és támogassa a katedrális megőrzését."
+          },
+          {
+            "name": "Gloucesteri Antik Központ",
+            "tip": "Hatalmas központ tele a múlt kincseivel, a dokkok közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri al Catedralei",
+            "tip": "Cumpărați suveniruri unice și sprijiniți conservarea catedralei."
+          },
+          {
+            "name": "Centrul de Antichități Gloucester",
+            "tip": "Un centru uriaș plin de comori din trecut, situat lângă docuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Gift Shop",
+            "tip": "Pick up unique souvenirs and support the cathedral's conservation."
+          },
+          {
+            "name": "Gloucester Antiques Centre",
+            "tip": "A huge centre full of treasures from the past, located near the Docks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in Gloucester kann teuer sein. Planen Sie, Ihr Auto für längere Zeit auf einem Parkplatz abzustellen.",
+          "Die Cluster-Walking-Methode spart Zeit bei der Parkplatzsuche.",
+          "Verwenden Sie eine Navigations-App, um zwischen den Clustern zu navigieren.",
+          "Achten Sie auf die Beschilderung für Umweltzonen (Clean Air Zones) im Stadtzentrum."
+        ],
+        "hu": [
+          "A parkolás Gloucesterben drága lehet; tervezze meg, hogy hosszabb időre egy parkolóban hagyja az autót.",
+          "A klaszteres gyaloglás módszerével időt takaríthat meg a parkolóhely-keresésnél.",
+          "Használjon navigációs alkalmazást a klaszterek közötti navigáláshoz.",
+          "Figyeljen a tiszta levegő zónákra (Clean Air Zones) vonatkozó táblákra a városközpontban."
+        ],
+        "ro": [
+          "Parcarea în Gloucester poate fi scumpă; planificați să lăsați mașina într-o parcare pentru perioade lungi.",
+          "Metoda de mers pe jos în clustere economisește timp în căutarea parcării.",
+          "Utilizați o aplicație de navigație pentru a vă deplasa între clustere.",
+          "Fiți atenți la semnalizarea zonelor cu aer curat (Clean Air Zones) în centrul orașului."
+        ],
+        "en": [
+          "Parking in Gloucester can be expensive; plan to leave your car in one car park for long periods.",
+          "The cluster-walking method saves time searching for parking spaces.",
+          "Use a sat-nav app to navigate between the clusters.",
+          "Be aware of any Clean Air Zone signage in the city centre."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof",
+            "hu": "Buszpályaudvar",
+            "ro": "Autogară",
+            "en": "Bus Station"
+          },
+          "coords": [
+            -2.238,
+            51.865
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
+            "ro": "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+            "en": "Buy a day rider ticket for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Gloucester Docks",
+            "hu": "Gloucesteri dokkok",
+            "ro": "Docurile Gloucester",
+            "en": "Gloucester Docks"
+          },
+          "coords": [
+            -2.25,
+            51.86
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus, um den ersten Cluster des Tages zu erkunden.",
+            "hu": "Szálljon le itt, hogy felfedezze a nap első klaszterét.",
+            "ro": "Coborâți aici pentru a explora primul cluster al zilei.",
+            "en": "Alight here to explore the first cluster of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "National Waterways Museum",
+            "hu": "Nemzeti Víziutak Múzeuma",
+            "ro": "Muzeul Național al Căilor Navigabile",
+            "en": "National Waterways Museum"
+          },
+          "coords": [
+            -2.251,
+            51.859
+          ],
+          "category": "museums",
+          "arrive_at": "10:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang durch das Herz der Docks.",
+            "hu": "Könnyű séta a dokkok szívén keresztül.",
+            "ro": "O plimbare ușoară prin inima docurilor.",
+            "en": "An easy stroll through the heart of the docks."
+          }
+        },
+        {
+          "name": {
+            "de": "Gloucester Quays",
+            "hu": "Gloucester Quays",
+            "ro": "Cheiurile Gloucester",
+            "en": "Gloucester Quays"
+          },
+          "coords": [
+            -2.252,
+            51.861
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für ein Mittagessen, bevor Sie den Bus zum nächsten Cluster nehmen.",
+            "hu": "Szánjon időt az ebédre, mielőtt felszállna a buszra a következő klaszterhez.",
+            "ro": "Luați-vă timp pentru prânz înainte de a lua autobuzul spre următorul cluster.",
+            "en": "Take your time for lunch before catching the bus to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Gloucester",
+            "hu": "Gloucesteri katedrális",
+            "ro": "Catedrala din Gloucester",
+            "en": "Gloucester Cathedral"
+          },
+          "coords": [
+            -2.246,
+            51.867
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bus bringt Sie in die Nähe des zweiten Clusters, dem Kathedralenviertel.",
+            "hu": "A busz elviszi a második klaszter, a katedrális negyed közelébe.",
+            "ro": "Autobuzul vă va lăsa aproape de al doilea cluster, cartierul Catedralei.",
+            "en": "The bus will drop you close to the second cluster, the Cathedral quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Blackfriars Priory",
+            "hu": "Blackfriars kolostor",
+            "ro": "Mănăstirea Blackfriars",
+            "en": "Blackfriars Priory"
+          },
+          "coords": [
+            -2.248,
+            51.864
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:09",
+          "stay_min": 41,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kathedrale durch die historischen Straßen.",
+            "hu": "Egy rövid séta a katedrálistól a történelmi utcákon keresztül.",
+            "ro": "O scurtă plimbare de la catedrală prin străzile istorice.",
+            "en": "A short walk from the cathedral through historic streets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie mit dem Bus zu den Docks fahren, Ihrem ersten Cluster. Verbringen Sie den Vormittag damit, das Schifffahrtsmuseum und die Kais zu Fuß zu erkunden. Nach dem Mittagessen nehmen Sie einen weiteren Bus zum zweiten Cluster, dem Kathedralenviertel. Der Nachmittag ist der Erkundung der prächtigen Kathedrale und des nahegelegenen Blackfriars Priory gewidmet, bevor Sie den Bus zurück nehmen.",
+        "hu": "Kezdje a napot egy buszúttal a dokkokhoz, az első klaszterhez. Töltse a délelőttöt a víziutak múzeumának és a rakpartok gyalogos felfedezésével. Ebéd után szálljon fel egy másik buszra a második klaszterhez, a katedrális negyedhez. A délutánt a csodálatos katedrális és a közeli Blackfriars kolostor felfedezésének szenteljük, mielőtt visszabuszoznánk.",
+        "ro": "Începeți ziua luând un autobuz spre docuri, primul dvs. cluster. Petreceți dimineața explorând pe jos muzeul căilor navigabile și cheiurile. După prânz, luați un alt autobuz spre al doilea cluster, cartierul Catedralei. După-amiaza este dedicată explorării magnificei catedrale și a Mănăstirii Blackfriars din apropiere, înainte de a lua autobuzul înapoi.",
+        "en": "Start your day by taking a bus to the Docks, your first cluster. Spend the morning exploring the waterways museum and the quays on foot. After lunch, catch another bus to the second cluster, the Cathedral quarter. The afternoon is dedicated to exploring the magnificent cathedral and the nearby Blackfriars Priory before catching the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Knobbly Cob",
+            "tip": "Ein Sandwich-Laden im Stadtzentrum, der für seine großzügigen Füllungen bekannt ist – ideal für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Caffe Corretto",
+            "tip": "Ein Café in den Docks, perfekt für einen Kaffee, während Sie auf den Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Knobbly Cob",
+            "tip": "Egy szendvicsbár a városközpontban, amely bőséges töltelékeiről ismert – tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Caffe Corretto",
+            "tip": "Egy kávézó a dokkokban, tökéletes egy kávéra, amíg a buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Knobbly Cob",
+            "tip": "Un magazin de sandvișuri din centrul orașului, renumit pentru umpluturile sale generoase – perfect pentru un prânz rapid."
+          },
+          {
+            "name": "Caffe Corretto",
+            "tip": "O cafenea în docuri, perfectă pentru o cafea în timp ce așteptați autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Knobbly Cob",
+            "tip": "A city centre sandwich shop known for its generous fillings - perfect for a quick lunch."
+          },
+          {
+            "name": "Caffe Corretto",
+            "tip": "A coffee shop in the docks, perfect for a coffee while you wait for the bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bischof Hooper's Monument",
+            "tip": "Ein ruhiger Platz vor der Kathedrale, um nachzudenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Victoria Basin",
+            "tip": "Beobachten Sie die Boote, die im ruhigsten Teil der Docks ein- und ausfahren.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hooper püspök emlékműve",
+            "tip": "Csendes hely a katedrális előtt az elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Victoria Basin",
+            "tip": "Nézze a hajókat, amint be- és kiúsznak a dokkok legcsendesebb részén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monumentul Episcopului Hooper",
+            "tip": "Un loc liniștit în fața catedralei pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bazinul Victoria",
+            "tip": "Priviți bărcile intrând și ieșind în cea mai liniștită parte a docurilor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bishop Hooper's Monument",
+            "tip": "A quiet space outside the cathedral for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Victoria Basin",
+            "tip": "Watch the boats come and go in the quietest part of the docks.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eastgate Shopping Centre",
+            "tip": "In der Nähe des Busbahnhofs für Last-Minute-Einkäufe gelegen."
+          },
+          {
+            "name": "College Court",
+            "tip": "Eine malerische Gasse mit unabhängigen Geschäften, die vom Westgate Street abzweigt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eastgate Bevásárlóközpont",
+            "tip": "A buszpályaudvar közelében található az utolsó pillanatban történő vásárlásokhoz."
+          },
+          {
+            "name": "College Court",
+            "tip": "Egy furcsa sikátor független üzletekkel a Westgate Street mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Eastgate",
+            "tip": "Situat lângă autogară pentru cumpărături de ultim moment."
+          },
+          {
+            "name": "College Court",
+            "tip": "O alee pitorească cu magazine independente, lângă Westgate Street."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eastgate Shopping Centre",
+            "tip": "Located near the bus station for any last minute shopping."
+          },
+          {
+            "name": "College Court",
+            "tip": "A quaint alley of independent shops just off Westgate Street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die App des örtlichen Busunternehmens herunter, um Fahrpläne in Echtzeit zu erhalten.",
+          "Eine Tageskarte ist oft günstiger als der Kauf von Einzelfahrscheinen.",
+          "Die Busse können zu Stoßzeiten voll sein, also planen Sie entsprechend.",
+          "Bestätigen Sie die Nummer des Rückbusses, bevor Sie aussteigen."
+        ],
+        "hu": [
+          "Töltse le a helyi busztársaság alkalmazását a valós idejű menetrendekért.",
+          "Egy napijegy gyakran olcsóbb, mint különálló jegyeket vásárolni.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, ezért tervezzen ennek megfelelően.",
+          "Erősítse meg a visszautazó busz számát, mielőtt leszállna."
+        ],
+        "ro": [
+          "Descărcați aplicația companiei locale de autobuze pentru orare în timp real.",
+          "Un abonament de o zi este adesea mai ieftin decât cumpărarea de bilete individuale.",
+          "Autobuzele pot fi aglomerate la orele de vârf, așa că planificați-vă în consecință.",
+          "Confirmați numărul autobuzului de întoarcere înainte de a coborî."
+        ],
+        "en": [
+          "Download the local bus company's app for real-time schedules.",
+          "A day rider ticket is often cheaper than buying single fares.",
+          "Buses can be busy during peak hours, so plan accordingly.",
+          "Confirm the return bus number before you alight."
+        ]
+      }
+    }
+  }
+}

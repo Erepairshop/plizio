@@ -1,0 +1,1484 @@
+{
+  "city_id": "austria-bruck-an-der-mur-cities-v2",
+  "anchor": {
+    "name": "Bruck an der Mur",
+    "coords": [
+      15.2753,
+      47.4064
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz & Rathaus",
+            "hu": "Főtér és Városháza",
+            "ro": "Piața Principală & Primăria",
+            "en": "Main Square & Town Hall"
+          },
+          "coords": [
+            15.272,
+            47.409
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Fassaden rund um den Platz.",
+            "hu": "Csodálja meg a tér körüli történelmi homlokzatokat!",
+            "ro": "Admirați fațadele istorice din jurul pieței.",
+            "en": "Admire the historic facades surrounding the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kornmesserhaus",
+            "hu": "Kornmesser-ház",
+            "ro": "Casa Kornmesser",
+            "en": "Kornmesser House"
+          },
+          "coords": [
+            15.2725,
+            47.4095
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die filigranen Details der spätgotischen Architektur.",
+            "hu": "Figyelje meg a késő gótikus építészet finom részleteit!",
+            "ro": "Observați detaliile delicate ale arhitecturii gotice târzii.",
+            "en": "Look for the intricate details of the late Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Eiserner Brunnen",
+            "hu": "Vas-kút",
+            "ro": "Fântâna de Fier",
+            "en": "Iron Fountain"
+          },
+          "coords": [
+            15.2718,
+            47.4092
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:11",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Foto im Herzen der Stadt.",
+            "hu": "Tökéletes hely egy fotóhoz a város szívében.",
+            "ro": "Un loc perfect pentru o fotografie în inima orașului.",
+            "en": "A perfect spot for a photo in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche Mariä Geburt",
+            "hu": "Szűz Mária Születése plébániatemplom",
+            "ro": "Biserica parohială Nașterea Maicii Domnului",
+            "en": "Parish Church of the Nativity of Mary"
+          },
+          "coords": [
+            15.273,
+            47.41
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die beeindruckenden Fresken im Inneren.",
+            "hu": "Szánjon időt a lenyűgöző belső freskókra!",
+            "ro": "Acordați-vă timp pentru frescele impresionante din interior.",
+            "en": "Take a moment to appreciate the impressive frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossberg",
+            "hu": "Várhegy",
+            "ro": "Dealul Cetății (Schlossberg)",
+            "en": "Castle Hill (Schlossberg)"
+          },
+          "coords": [
+            15.269,
+            47.412
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die beste Aussicht über die Stadt und das Murtal.",
+            "hu": "A kaptató megéri a városra és a Mura-völgyre nyíló legjobb kilátásért.",
+            "ro": "Urcușul merită pentru cea mai bună priveliște asupra orașului și a văii Mur.",
+            "en": "The climb is worth it for the best view over the city and the Mur valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Minoritenkirche",
+            "hu": "Minorita templom",
+            "ro": "Biserica Minoriților",
+            "en": "Minorite Church"
+          },
+          "coords": [
+            15.274,
+            47.408
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die gotische Architektur und die ruhige Atmosphäre.",
+            "hu": "Fedezze fel a gótikus építészetet és a csendes légkört!",
+            "ro": "Descoperiți arhitectura gotică și atmosfera liniștită.",
+            "en": "Discover the Gothic architecture and the tranquil atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Murpromenade",
+            "hu": "Mura-parti sétány",
+            "ro": "Promenada Mur",
+            "en": "Mur Promenade"
+          },
+          "coords": [
+            15.276,
+            47.407
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang am Flussufer zum Abschluss des Tages.",
+            "hu": "Egy pihentető séta a folyóparton a nap lezárásaként.",
+            "ro": "O plimbare relaxantă pe malul râului pentru a încheia ziua.",
+            "en": "A relaxing walk along the riverbank to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am belebten Hauptplatz, dem Herzen von Bruck. Spüren Sie die Geschichte am gotischen Kornmesserhaus und dem Eisernen Brunnen. Am Vormittag erklimmen Sie den Schlossberg für eine atemberaubende Aussicht. Nach dem Abstieg erwartet Sie die Ruhe der Stadtpfarrkirche und der Minoritenkirche. Der Nachmittag gehört einem entspannten Spaziergang entlang der Murpromenade, wo Sie die Natur und die frische Luft genießen können. Schließen Sie den Tag in einem der gemütlichen Cafés ab und lassen Sie die Eindrücke auf sich wirken.",
+        "hu": "Kezdje a napot Bruck nyüzsgő főterén, a város szívében. Érezze a történelem szellemét a gótikus Kornmesser-háznál és a Vas-kútnál. Délelőtt mássza meg a Várhegyet a lélegzetelállító kilátásért. A leereszkedés után a plébániatemplom és a minorita templom nyugalma várja. A délután egy pihentető sétáé a Mura-parti sétányon, ahol élvezheti a természetet és a friss levegőt. Zárja a napot egy hangulatos kávézóban, és hagyja leülepedni az élményeket.",
+        "ro": "Începeți ziua în Piața Principală animată, inima orașului Bruck. Simțiți istoria la Casa gotică Kornmesser și la Fântâna de Fier. Dimineața, urcați pe Schlossberg pentru o priveliște uluitoare. După coborâre, vă așteaptă liniștea bisericii parohiale și a bisericii minoriților. După-amiaza este dedicată unei plimbări relaxante de-a lungul promenadei Mur, unde vă puteți bucura de natură și de aer curat. Încheiați ziua într-una dintre cafenelele primitoare și lăsați impresiile să se așeze.",
+        "en": "Start your day in the bustling Main Square, the heart of Bruck. Feel the history at the Gothic Kornmesser House and the Iron Fountain. In the morning, climb the Schlossberg for a breathtaking view. After descending, the tranquility of the parish church and the Minorite church awaits you. The afternoon is for a relaxing walk along the Mur Promenade, where you can enjoy nature and fresh air. End the day in one of the cozy cafes and let the impressions sink in."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Steirisches Wurzelfleisch",
+            "tip": "Ein herzhafter Klassiker in den traditionellen Gasthöfen."
+          },
+          {
+            "name": "Gasthof Pichler",
+            "tip": "Bekannt für seine authentische regionale Küche."
+          },
+          {
+            "name": "Kornmesserhaus Restaurant",
+            "tip": "Speisen Sie in historischem Ambiente direkt am Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stájer gyökérhús (Wurzelfleisch)",
+            "tip": "Egy kiadós klasszikus a hagyományos vendéglőkben."
+          },
+          {
+            "name": "Gasthof Pichler",
+            "tip": "Híres az autentikus regionális konyhájáról."
+          },
+          {
+            "name": "Kornmesserhaus Étterem",
+            "tip": "Étkezzen történelmi környezetben, közvetlenül a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wurzelfleisch stirian",
+            "tip": "Un clasic consistent în hanurile tradiționale."
+          },
+          {
+            "name": "Gasthof Pichler",
+            "tip": "Renumit pentru bucătăria sa regională autentică."
+          },
+          {
+            "name": "Restaurant Kornmesserhaus",
+            "tip": "Luați masa într-un cadru istoric, chiar în Piața Principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Styrian Root Meat (Wurzelfleisch)",
+            "tip": "A hearty classic in traditional inns."
+          },
+          {
+            "name": "Gasthof Pichler",
+            "tip": "Known for its authentic regional cuisine."
+          },
+          {
+            "name": "Kornmesserhaus Restaurant",
+            "tip": "Dine in a historic atmosphere right on the main square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Schlossbergs",
+            "tip": "Finden Sie eine Bank und genießen Sie die Stille über den Dächern der Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer der Murpromenade",
+            "tip": "Das sanfte Plätschern des Flusses wirkt beruhigend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten der Minoritenkirche",
+            "tip": "Ein kleiner, friedlicher Rückzugsort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Várhegy csúcsa",
+            "tip": "Keressen egy padot, és élvezze a csendet a város háztetői felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Mura-parti sétány partja",
+            "tip": "A folyó szelíd csobogása nyugtató hatású.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A minorita templom kertje",
+            "tip": "Egy kicsi, békés menedék.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Schlossberg",
+            "tip": "Găsiți o bancă și bucurați-vă de liniștea de deasupra acoperișurilor orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul promenadei Mur",
+            "tip": "Murmurul blând al râului are un efect calmant.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Bisericii Minoriților",
+            "tip": "Un mic refugiu pașnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Schlossberg",
+            "tip": "Find a bench and enjoy the silence above the city's rooftops.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Mur Promenade",
+            "tip": "The gentle lapping of the river is calming.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of the Minorite Church",
+            "tip": "A small, peaceful retreat.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Kaufen Sie freitags lokale Produkte und Spezialitäten."
+          },
+          {
+            "name": "Geschäfte am Hauptplatz",
+            "tip": "Finden Sie handgefertigte Souvenirs und regionale Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Péntekenként vásároljon helyi termékeket és különlegességeket."
+          },
+          {
+            "name": "Üzletek a főtéren",
+            "tip": "Találjon kézzel készített ajándéktárgyakat és regionális kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața fermierilor",
+            "tip": "Cumpărați produse locale și specialități vinerea."
+          },
+          {
+            "name": "Magazine din Piața Principală",
+            "tip": "Găsiți suveniruri artizanale și meșteșuguri regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmer's Market",
+            "tip": "Buy local products and specialties on Fridays."
+          },
+          {
+            "name": "Shops on the Main Square",
+            "tip": "Find handmade souvenirs and regional crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, besonders für den Aufstieg zum Schlossberg.",
+          "Planen Sie genügend Zeit für die Kirchen ein, um die Kunstwerke zu bewundern.",
+          "Eine Wasserflasche ist an warmen Tagen unerlässlich.",
+          "Die meisten Sehenswürdigkeiten sind kompakt im Stadtzentrum gelegen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, különösen a Várhegyre való feljutáshoz.",
+          "Szánjon elegendő időt a templomokra, hogy megcsodálhassa a műalkotásokat.",
+          "Meleg napokon elengedhetetlen egy vizes palack.",
+          "A legtöbb látnivaló a kompakt városközpontban található."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, mai ales pentru urcarea pe Schlossberg.",
+          "Planificați suficient timp pentru biserici pentru a admira operele de artă.",
+          "O sticlă de apă este esențială în zilele calde.",
+          "Majoritatea atracțiilor sunt situate compact în centrul orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes, especially for the climb to Schlossberg.",
+          "Allow enough time in the churches to admire the artwork.",
+          "A water bottle is essential on warm days.",
+          "Most sights are compactly located in the city center."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:47",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz & Rathaus",
+            "hu": "Főtér és Városháza",
+            "ro": "Piața Principală & Primăria",
+            "en": "Main Square & Town Hall"
+          },
+          "coords": [
+            15.272,
+            47.409
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "Biztonságosan zárja le a kerékpárját, mielőtt felfedezné a teret.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
+            "en": "Lock your bike securely before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kornmesserhaus & Eiserner Brunnen",
+            "hu": "Kornmesser-ház és Vas-kút",
+            "ro": "Casa Kornmesser & Fântâna de Fier",
+            "en": "Kornmesser House & Iron Fountain"
+          },
+          "coords": [
+            15.2725,
+            47.4095
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:36",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen liegen direkt nebeneinander.",
+            "hu": "Ez a két nevezetesség közvetlenül egymás mellett található.",
+            "ro": "Aceste două repere sunt situate chiar unul lângă celălalt.",
+            "en": "These two landmarks are located right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche Mariä Geburt",
+            "hu": "Szűz Mária Születése plébániatemplom",
+            "ro": "Biserica parohială Nașterea Maicii Domnului",
+            "en": "Parish Church of the Nativity of Mary"
+          },
+          "coords": [
+            15.273,
+            47.41
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:08",
+          "stay_min": 35,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die gotische Pracht zu bewundern.",
+            "hu": "Egy rövid megálló a gótikus pompa megcsodálására.",
+            "ro": "O scurtă oprire pentru a admira splendoarea gotică.",
+            "en": "A brief stop to admire the Gothic splendor."
+          }
+        },
+        {
+          "name": {
+            "de": "Minoritenkirche",
+            "hu": "Minorita templom",
+            "ro": "Biserica Minoriților",
+            "en": "Minorite Church"
+          },
+          "coords": [
+            15.274,
+            47.408
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:46",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Kirche ist vom Hauptplatz aus leicht mit dem Rad erreichbar.",
+            "hu": "A templom a főtérről kerékpárral könnyen elérhető.",
+            "ro": "Biserica este ușor accesibilă cu bicicleta din Piața Principală.",
+            "en": "The church is easily accessible by bike from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Murpromenade",
+            "hu": "Mura-parti sétány",
+            "ro": "Promenada Mur",
+            "en": "Mur Promenade"
+          },
+          "coords": [
+            15.278,
+            47.405
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie den Murradweg entlang für eine längere, malerische Tour.",
+            "hu": "Tekerjen végig a Mura-menti kerékpárúton egy hosszabb, festői túráért.",
+            "ro": "Mergeți pe pista de biciclete Mur pentru un tur mai lung și pitoresc.",
+            "en": "Ride along the Mur Cycle Path for a longer, scenic tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossberg (Auffahrt)",
+            "hu": "Várhegy (felhajtó)",
+            "ro": "Schlossberg (Urcare)",
+            "en": "Schlossberg (Ascent)"
+          },
+          "coords": [
+            15.269,
+            47.412
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg ist steil, aber die Aussicht entschädigt für alles. E-Bike empfohlen.",
+            "hu": "Az emelkedő meredek, de a kilátás mindenért kárpótol. E-bike ajánlott.",
+            "ro": "Urcușul este abrupt, dar priveliștea compensează totul. Se recomandă o bicicletă electrică.",
+            "en": "The climb is steep, but the view makes up for everything. E-bike recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Bruck",
+            "hu": "Kulturális Központ",
+            "ro": "Casa de Cultură Bruck",
+            "en": "Bruck Culture House"
+          },
+          "coords": [
+            15.275,
+            47.411
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:44",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Informieren Sie sich über aktuelle Ausstellungen oder Veranstaltungen.",
+            "hu": "Érdeklődjön az aktuális kiállításokról vagy eseményekről.",
+            "ro": "Informați-vă despre expozițiile sau evenimentele curente.",
+            "en": "Check for current exhibitions or events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und starten Sie am Hauptplatz. Eine kurze Fahrt führt Sie zu den architektonischen Juwelen der Innenstadt. Am Vormittag radeln Sie gemütlich entlang der Murpromenade und genießen die Flusslandschaft. Stellen Sie sich mittags der Herausforderung des Schlossbergs – der Panoramablick ist die Belohnung. Der Nachmittag steht im Zeichen der Kultur mit einem Besuch im Kulturhaus, bevor Sie den Tag bei einem erfrischenden Getränk ausklingen lassen.",
+        "hu": "Pattanjon nyeregbe és induljon a főtérről! Egy rövid tekerés elvezeti a belváros építészeti gyöngyszemeihez. Délelőtt kerekezzen kényelmesen a Mura-parti sétányon, és élvezze a folyóparti tájat. Délben vállalja a Várhegy kihívását – a panorámás kilátás a jutalom. A délután a kultúra jegyében telik a Kulturális Központ meglátogatásával, mielőtt egy frissítő ital mellett fejezné be a napot.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Principală. O scurtă plimbare vă duce la bijuteriile arhitecturale din centrul orașului. Dimineața, pedalați pe îndelete de-a lungul promenadei Mur și bucurați-vă de peisajul râului. La prânz, acceptați provocarea Schlossberg – priveliștea panoramică este recompensa. După-amiaza este dedicată culturii, cu o vizită la Casa de Cultură, înainte de a încheia ziua cu o băutură răcoritoare.",
+        "en": "Get on your bike and start from the Main Square. A short ride takes you to the architectural gems of the city center. In the morning, cycle leisurely along the Mur Promenade and enjoy the river scenery. At noon, take on the challenge of the Schlossberg – the panoramic view is the reward. The afternoon is dedicated to culture with a visit to the Culture House before ending the day with a refreshing drink."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Apfelstrudel",
+            "tip": "Eine süße Stärkung in einem der Cafés am Radweg."
+          },
+          {
+            "name": "Radler's Rast",
+            "tip": "Ein Biergarten, der perfekt für eine Pause während der Tour ist."
+          },
+          {
+            "name": "Jausenstation am Schlossberg",
+            "tip": "Belohnen Sie sich nach dem Anstieg mit einer Brettljause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Almásrétes",
+            "tip": "Édes feltöltődés a kerékpárút menti kávézók egyikében."
+          },
+          {
+            "name": "Radler's Rast (Kerékpáros pihenő)",
+            "tip": "Egy sörkert, amely tökéletes egy szünetre a túra során."
+          },
+          {
+            "name": "Jausenstation a Várhegyen",
+            "tip": "Jutalmazza meg magát az emelkedő után egy uzsonnával (Brettljause)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ștrudel cu mere",
+            "tip": "Un deliciu dulce la una dintre cafenelele de pe pista de biciclete."
+          },
+          {
+            "name": "Radler's Rast (Popasul cicliștilor)",
+            "tip": "O grădină de bere perfectă pentru o pauză în timpul turului."
+          },
+          {
+            "name": "Jausenstation pe Schlossberg",
+            "tip": "Recompensați-vă după urcare cu o gustare tradițională (Brettljause)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Apple Strudel",
+            "tip": "A sweet refreshment in one of the cafes along the cycle path."
+          },
+          {
+            "name": "Radler's Rast (Cyclist's Rest)",
+            "tip": "A beer garden perfect for a break during the tour."
+          },
+          {
+            "name": "Jausenstation on Schlossberg",
+            "tip": "Reward yourself after the climb with a traditional snack platter (Brettljause)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Murradweg R2",
+            "tip": "Fahren Sie ein Stück aus der Stadt hinaus für absolute Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtsplattform Schlossberg",
+            "tip": "Der perfekte Ort, um durchzuatmen und die Landschaft zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kirchplatz der Stadtpfarrkirche",
+            "tip": "Ein ruhiger Moment abseits des Trubels.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mura-menti kerékpárút (R2)",
+            "tip": "Tekerjen ki egy kicsit a városból a teljes nyugalomért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátóterasz a Várhegyen",
+            "tip": "Tökéletes hely egy mély lélegzetvételhez és a táj élvezetéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A plébániatemplom templomtere",
+            "tip": "Egy csendes pillanat a nyüzsgéstől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete Mur (R2)",
+            "tip": "Ieșiți puțin din oraș pentru o liniște absolută.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Platforma de observare Schlossberg",
+            "tip": "Locul perfect pentru a respira adânc și a vă bucura de peisaj.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Piața bisericii parohiale",
+            "tip": "Un moment de liniște departe de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mur Cycle Path (R2)",
+            "tip": "Ride a little out of town for absolute tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlossberg viewing platform",
+            "tip": "The perfect place to take a deep breath and enjoy the scenery.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parish Church square",
+            "tip": "A quiet moment away from the hustle and bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für Ersatzteile oder ein neues Accessoire."
+          },
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Entlang des Murradwegs finden Sie oft kleine Läden mit regionalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Alkatrészekért vagy egy új kiegészítőért."
+          },
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "A Mura-menti kerékpárút mentén gyakran talál kis boltokat regionális termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru piese de schimb sau un accesoriu nou."
+          },
+          {
+            "name": "Magazine agricole locale",
+            "tip": "De-a lungul pistei de biciclete Mur veți găsi adesea mici magazine cu produse regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bicycle shop",
+            "tip": "For spare parts or a new accessory."
+          },
+          {
+            "name": "Local farm shops",
+            "tip": "Along the Mur Cycle Path, you will often find small shops with regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck und die Bremsen vor der Abfahrt.",
+          "Ein Helm wird dringend empfohlen, besonders auf dem Weg zum Schlossberg.",
+          "Nutzen Sie den Murradweg für eine sichere und schöne Route durch die Stadt.",
+          "Die meisten Sehenswürdigkeiten sind fahrradfreundlich erreichbar."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "Sisak használata erősen ajánlott, különösen a Várhegyre vezető úton.",
+          "Használja a Mura-menti kerékpárutat a biztonságos és szép városi útvonalhoz.",
+          "A legtöbb látnivaló kerékpárbarát módon megközelíthető."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor și frânele înainte de a pleca.",
+          "O cască este foarte recomandată, mai ales pe drumul spre Schlossberg.",
+          "Utilizați pista de biciclete Mur pentru un traseu sigur și frumos prin oraș.",
+          "Majoritatea atracțiilor sunt accesibile cu bicicleta."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before setting off.",
+          "A helmet is highly recommended, especially on the way to Schlossberg.",
+          "Use the Mur Cycle Path for a safe and beautiful route through the city.",
+          "Most sights are bike-friendly."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum (Parken)",
+            "hu": "1. klaszter: Történelmi központ (Parkolás)",
+            "ro": "Cluster 1: Centrul Istoric (Parcare)",
+            "en": "Cluster 1: Historic Center (Parking)"
+          },
+          "coords": [
+            15.271,
+            47.41
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Tiefgarage am Hauptplatz für zentralen Zugang.",
+            "hu": "Parkoljon a főtéri mélygarázsban a központi eléréshez.",
+            "ro": "Parcați în parcarea subterană din Piața Principală pentru acces central.",
+            "en": "Park in the underground garage at the main square for central access."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz, Kornmesserhaus & Eiserner Brunnen",
+            "hu": "Főtér, Kornmesser-ház és Vas-kút",
+            "ro": "Piața Principală, Casa Kornmesser & Fântâna de Fier",
+            "en": "Main Square, Kornmesser House & Iron Fountain"
+          },
+          "coords": [
+            15.272,
+            47.409
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Ensemble zu Fuß, alles ist nur wenige Schritte entfernt.",
+            "hu": "Fedezze fel ezt az együttest gyalog, minden csak pár lépésre van.",
+            "ro": "Explorați acest ansamblu pe jos, totul este la doar câțiva pași distanță.",
+            "en": "Explore this ensemble on foot, everything is just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & Minoritenkirche",
+            "hu": "Plébániatemplom és Minorita templom",
+            "ro": "Biserica Parohială & Biserica Minoriților",
+            "en": "Parish Church & Minorite Church"
+          },
+          "coords": [
+            15.2735,
+            47.409
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang verbindet diese beiden beeindruckenden Kirchen.",
+            "hu": "Egy rövid séta köti össze ezt a két lenyűgöző templomot.",
+            "ro": "O scurtă plimbare leagă aceste două biserici impresionante.",
+            "en": "A short walk connects these two impressive churches."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Schlossberg & Mur (Parkplatzwechsel)",
+            "hu": "2. klaszter: Várhegy és Mura (Parkolóváltás)",
+            "ro": "Cluster 2: Schlossberg & Mur (Schimbare parcare)",
+            "en": "Cluster 2: Schlossberg & Mur (Change Parking)"
+          },
+          "coords": [
+            15.268,
+            47.411
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz am Fuße des Schlossbergs.",
+            "hu": "Vezessen a Várhegy lábánál lévő parkolóhoz.",
+            "ro": "Conduceți până la parcarea de la poalele Schlossberg-ului.",
+            "en": "Drive to the parking lot at the foot of Schlossberg."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossberg (Aufstieg & Aussicht)",
+            "hu": "Várhegy (Feljutás és kilátás)",
+            "ro": "Schlossberg (Urcare & Priveliște)",
+            "en": "Schlossberg (Ascent & View)"
+          },
+          "coords": [
+            15.269,
+            47.412
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie Zeit für den Fußweg nach oben und das Panorama ein.",
+            "hu": "Tervezzen időt a felfelé vezető gyalogútra és a panorámára.",
+            "ro": "Planificați timp pentru plimbarea până sus și pentru panoramă.",
+            "en": "Plan time for the walk up and the panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Murpromenade",
+            "hu": "Mura-parti sétány",
+            "ro": "Promenada Mur",
+            "en": "Mur Promenade"
+          },
+          "coords": [
+            15.276,
+            47.407
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Schlossberg hinunter zum entspannenden Flussufer.",
+            "hu": "Sétáljon le a Várhegyről a pihentető folyópartra.",
+            "ro": "Plimbați-vă de la Schlossberg în jos, spre malul relaxant al râului.",
+            "en": "Stroll down from Schlossberg to the relaxing riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie bequem mit dem Auto und parken Sie im Herzen der Altstadt. Der Vormittag gehört dem ersten Cluster: Erkunden Sie den Hauptplatz, das Kornmesserhaus und die nahen Kirchen zu Fuß. Gegen Mittag fahren Sie zum zweiten Cluster am Schlossberg. Nach dem Aufstieg und der spektakulären Aussicht spazieren Sie gemütlich hinunter zur Murpromenade. Dort können Sie den Nachmittag entspannt ausklingen lassen, bevor Sie zum Auto zurückkehren. Ein Tag voller Kontraste zwischen urbanem Flair und Naturgenuss.",
+        "hu": "Kezdjen kényelmesen autóval, és parkoljon az óváros szívében. A délelőtt az első klaszteré: fedezze fel gyalog a főteret, a Kornmesser-házat és a közeli templomokat. Dél körül autózzon át a második klaszterhez a Várhegyen. A csúcs meghódítása és a látványos kilátás után sétáljon le kényelmesen a Mura-parti sétányra. Itt pihentetően zárhatja a délutánt, mielőtt visszatérne az autójához. Egy kontrasztokkal teli nap a városi hangulat és a természet élvezete között.",
+        "ro": "Începeți confortabil cu mașina și parcați în inima orașului vechi. Dimineața este dedicată primului cluster: explorați pe jos Piața Principală, Casa Kornmesser și bisericile din apropiere. În jurul prânzului, conduceți către al doilea cluster, la Schlossberg. După urcare și priveliștea spectaculoasă, plimbați-vă agale până la promenada Mur. Acolo puteți încheia după-amiaza într-un mod relaxat înainte de a vă întoarce la mașină. O zi plină de contraste între flerul urban și bucuria naturii.",
+        "en": "Start comfortably by car and park in the heart of the old town. The morning belongs to the first cluster: explore the Main Square, Kornmesser House, and the nearby churches on foot. Around noon, drive to the second cluster at Schlossberg. After the ascent and the spectacular view, take a leisurely stroll down to the Mur Promenade. There you can end the afternoon in a relaxed way before returning to your car. A day full of contrasts between urban flair and enjoying nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Hotel Landskron",
+            "tip": "Gehobene Küche mit Blick auf die Mur."
+          },
+          {
+            "name": "Schlossberg Restaurant",
+            "tip": "Ein Mittagessen mit der besten Aussicht der Stadt."
+          },
+          {
+            "name": "Ein Gasthaus außerhalb",
+            "tip": "Nutzen Sie das Auto für einen Abstecher zu einem ländlichen Wirtshaus in der Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant a Hotel Landskronban",
+            "tip": "Emelt szintű konyha, kilátással a Murára."
+          },
+          {
+            "name": "Várhegy Étterem",
+            "tip": "Ebéd a város legjobb kilátásával."
+          },
+          {
+            "name": "Egy városon kívüli fogadó",
+            "tip": "Használja ki az autót egy kitérőre egy vidéki vendéglőbe a környéken."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la Hotel Landskron",
+            "tip": "Bucătărie rafinată cu vedere la râul Mur."
+          },
+          {
+            "name": "Restaurant Schlossberg",
+            "tip": "Un prânz cu cea mai bună priveliște din oraș."
+          },
+          {
+            "name": "Un han în afara orașului",
+            "tip": "Folosiți mașina pentru o excursie la un han rural din zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at Hotel Landskron",
+            "tip": "Fine dining with a view of the Mur river."
+          },
+          {
+            "name": "Schlossberg Restaurant",
+            "tip": "Lunch with the best view in the city."
+          },
+          {
+            "name": "An inn outside the city",
+            "tip": "Use the car for a detour to a rural inn in the area."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weitental",
+            "tip": "Eine kurze Autofahrt bringt Sie in dieses ruhige Tal für einen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick vom Schlossberg",
+            "tip": "Abseits des Hauptwegs finden sich ruhige Ecken.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parkbank an der Mur",
+            "tip": "Einfach dem Fluss zusehen und entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Weitental-völgy",
+            "tip": "Egy rövid autóút elvezeti ebbe a csendes völgybe egy sétára.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Várhegyről",
+            "tip": "A fő útvonaltól távolabb csendes sarkok találhatók.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pad a Mura partján",
+            "tip": "Csak nézze a folyót és pihenjen.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Weitental",
+            "tip": "O scurtă călătorie cu mașina vă duce în această vale liniștită pentru o plimbare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliștea de pe Schlossberg",
+            "tip": "Departe de poteca principală, veți găsi colțuri liniștite.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bancă pe malul râului Mur",
+            "tip": "Pur și simplu priviți râul și relaxați-vă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Weitental Valley",
+            "tip": "A short drive takes you to this quiet valley for a walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Schlossberg",
+            "tip": "Away from the main path, you can find quiet corners.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bench on the Mur riverbank",
+            "tip": "Just watch the river and relax.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum am Stadtrand",
+            "tip": "Mit dem Auto leicht erreichbar für eine größere Auswahl."
+          },
+          {
+            "name": "Direktvermarkter in der Region",
+            "tip": "Kaufen Sie Käse, Schinken oder Honig direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bevásárlóközpont a város szélén",
+            "tip": "Autóval könnyen megközelíthető a nagyobb választékért."
+          },
+          {
+            "name": "Őstermelők a régióban",
+            "tip": "Vásároljon sajtot, sonkát vagy mézet közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centru comercial la marginea orașului",
+            "tip": "Ușor accesibil cu mașina pentru o selecție mai largă."
+          },
+          {
+            "name": "Producători locali din regiune",
+            "tip": "Cumpărați brânză, șuncă sau miere direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopping center on the outskirts",
+            "tip": "Easily accessible by car for a wider selection."
+          },
+          {
+            "name": "Direct marketers in the region",
+            "tip": "Buy cheese, ham, or honey directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über Parkgebühren und -zeiten im Voraus.",
+          "Planen Sie Pufferzeiten für den Verkehr und die Parkplatzsuche ein.",
+          "Ein Navigationsgerät erleichtert die Fahrt zwischen den Clustern.",
+          "Lassen Sie keine Wertsachen im geparkten Auto zurück."
+        ],
+        "hu": [
+          "Előzetesen tájékozódjon a parkolási díjakról és időkről.",
+          "Tervezzen pufferidőt a forgalomra és a parkolóhely-keresésre.",
+          "A navigációs eszköz megkönnyíti a klaszterek közötti utazást.",
+          "Ne hagyjon értékeket a leparkolt autóban."
+        ],
+        "ro": [
+          "Informați-vă în avans despre taxele și orele de parcare.",
+          "Planificați timp suplimentar pentru trafic și căutarea unui loc de parcare.",
+          "Un sistem de navigație facilitează deplasarea între clustere.",
+          "Nu lăsați obiecte de valoare în mașina parcată."
+        ],
+        "en": [
+          "Find out about parking fees and times in advance.",
+          "Plan for buffer time for traffic and finding a parking space.",
+          "A navigation device makes it easier to drive between clusters.",
+          "Do not leave valuables in the parked car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft Hauptplatz",
+            "hu": "1. klaszter: Érkezés a főtérre",
+            "ro": "Cluster 1: Sosire în Piața Principală",
+            "en": "Cluster 1: Arrival at Main Square"
+          },
+          "coords": [
+            15.272,
+            47.409
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die meisten Buslinien halten direkt am oder in der Nähe des Hauptplatzes.",
+            "hu": "A legtöbb buszjárat közvetlenül a főtéren vagy annak közelében áll meg.",
+            "ro": "Majoritatea liniilor de autobuz opresc chiar în sau lângă Piața Principală.",
+            "en": "Most bus lines stop directly at or near the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kornmesserhaus & Eiserner Brunnen",
+            "hu": "Kornmesser-ház és Vas-kút",
+            "ro": "Casa Kornmesser & Fântâna de Fier",
+            "en": "Kornmesser House & Iron Fountain"
+          },
+          "coords": [
+            15.2725,
+            47.4095
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:33",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang direkt nach der Ankunft.",
+            "hu": "Kezdje a sétát közvetlenül érkezés után.",
+            "ro": "Începeți turul pietonal imediat după sosire.",
+            "en": "Start your walking tour right after arriving."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche Mariä Geburt",
+            "hu": "Szűz Mária Születése plébániatemplom",
+            "ro": "Biserica parohială Nașterea Maicii Domnului",
+            "en": "Parish Church of the Nativity of Mary"
+          },
+          "coords": [
+            15.273,
+            47.41
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.35,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Fußweg vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid sétára a főtértől.",
+            "ro": "La doar o scurtă plimbare de Piața Principală.",
+            "en": "Just a short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Fahrt Richtung Schlossberg",
+            "hu": "2. klaszter: Utazás a Várhegy irányába",
+            "ro": "Cluster 2: Călătorie spre Schlossberg",
+            "en": "Cluster 2: Ride towards Schlossberg"
+          },
+          "coords": [
+            15.27,
+            47.411
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:24",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der Sie näher an den Fuß des Schlossbergs bringt.",
+            "hu": "Vegyen egy buszt, amely közelebb visz a Várhegy lábához.",
+            "ro": "Luați un autobuz care vă duce mai aproape de poalele Schlossberg-ului.",
+            "en": "Take a bus that brings you closer to the foot of Schlossberg."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossberg (Aufstieg & Aussicht)",
+            "hu": "Várhegy (Feljutás és kilátás)",
+            "ro": "Schlossberg (Urcare & Priveliște)",
+            "en": "Schlossberg (Ascent & View)"
+          },
+          "coords": [
+            15.269,
+            47.412
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang von der Haltestelle zum Gipfel ist ein schöner Teil des Erlebnisses.",
+            "hu": "A megállótól a csúcsig tartó séta az élmény szép része.",
+            "ro": "Plimbarea de la stație până la vârf este o parte frumoasă a experienței.",
+            "en": "The walk from the bus stop to the summit is a nice part of the experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Murpromenade",
+            "hu": "Mura-parti sétány",
+            "ro": "Promenada Mur",
+            "en": "Mur Promenade"
+          },
+          "coords": [
+            15.276,
+            47.407
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:41",
+          "stay_min": 95,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang vom Schlossberg hinunter zum Flussufer.",
+            "hu": "Pihentető séta a Várhegyről le a folyópartra.",
+            "ro": "O plimbare relaxantă de la Schlossberg până la malul râului.",
+            "en": "A relaxing walk down from Schlossberg to the riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das öffentliche Verkehrsnetz, um bequem ins Zentrum zu gelangen. Der Vormittag ist dem zu Fuß erkundbaren Stadtkern gewidmet, mit seinen Plätzen und Kirchen. Am späten Vormittag bringt Sie ein Bus näher zum Schlossberg. Nach dem Erklimmen des Gipfels und dem Genießen der Aussicht spazieren Sie am Nachmittag gemütlich zur Murpromenade. Hier können Sie entspannen, bevor Sie mit dem Bus Ihre Rückreise antreten. So erleben Sie Bruck entspannt und umweltfreundlich.",
+        "hu": "Használja a tömegközlekedést, hogy kényelmesen eljusson a központba. A délelőtt a gyalogosan felfedezhető városmagé, annak tereivel és templomaival. Késő délelőtt egy busz közelebb viszi a Várhegyhez. A csúcs meghódítása és a kilátás élvezete után délután sétáljon le kényelmesen a Mura-parti sétányra. Itt pihenhet, mielőtt busszal indulna vissza. Így pihentetően és környezetbarát módon élheti át Bruckot.",
+        "ro": "Folosiți rețeaua de transport public pentru a ajunge confortabil în centru. Dimineața este dedicată centrului orașului, care poate fi explorat pe jos, cu piețele și bisericile sale. Spre sfârșitul dimineții, un autobuz vă va duce mai aproape de Schlossberg. După ce ați urcat pe vârf și v-ați bucurat de priveliște, plimbați-vă agale spre promenada Mur după-amiaza. Aici vă puteți relaxa înainte de a lua autobuzul pentru călătoria de întoarcere. Astfel, veți experimenta Bruck într-un mod relaxat și ecologic.",
+        "en": "Use the public transport network to get to the center comfortably. The morning is dedicated to the city center, which can be explored on foot, with its squares and churches. In the late morning, a bus will take you closer to Schlossberg. After climbing the summit and enjoying the view, take a leisurely stroll to the Mur Promenade in the afternoon. Here you can relax before taking the bus back. This way you can experience Bruck in a relaxed and environmentally friendly way."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am Hauptplatz",
+            "tip": "Ein schneller Imbiss, bevor es weitergeht."
+          },
+          {
+            "name": "Mittagsmenü in einem Gasthof",
+            "tip": "Viele Restaurants bieten günstige Mittagsmenüs an, die bei Einheimischen beliebt sind."
+          },
+          {
+            "name": "Café an der Murpromenade",
+            "tip": "Kaffee und Kuchen mit Blick auf den Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a főtéren",
+            "tip": "Egy gyors harapnivaló, mielőtt továbbmenne."
+          },
+          {
+            "name": "Napi menü egy vendéglőben",
+            "tip": "Sok étterem kínál kedvező árú ebédmenüt, amely népszerű a helyiek körében."
+          },
+          {
+            "name": "Kávézó a Mura-parti sétányon",
+            "tip": "Kávé és sütemény a folyóra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie în Piața Principală",
+            "tip": "O gustare rapidă înainte de a continua."
+          },
+          {
+            "name": "Meniul de prânz la un han",
+            "tip": "Multe restaurante oferă meniuri de prânz la prețuri accesibile, populare printre localnici."
+          },
+          {
+            "name": "Cafenea pe promenada Mur",
+            "tip": "Cafea și prăjituri cu vedere la râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery on the main square",
+            "tip": "A quick snack before moving on."
+          },
+          {
+            "name": "Lunch menu in an inn",
+            "tip": "Many restaurants offer affordable lunch menus that are popular with locals."
+          },
+          {
+            "name": "Café on the Mur Promenade",
+            "tip": "Coffee and cake with a view of the river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Während der Busfahrt",
+            "tip": "Schauen Sie aus dem Fenster und beobachten Sie das Stadtleben.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Ruhebank auf dem Schlossberg",
+            "tip": "Der Lärm der Stadt scheint hier oben weit weg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Am Ufer der Mur",
+            "tip": "Suchen Sie sich einen Platz abseits des Hauptweges.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A buszozás alatt",
+            "tip": "Nézzen ki az ablakon, és figyelje a városi életet.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Pad a Várhegyen",
+            "tip": "A város zaja távolinak tűnik innen fentről.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Mura partján",
+            "tip": "Keressen egy helyet a fő útvonaltól távolabb.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "În timpul călătoriei cu autobuzul",
+            "tip": "Priviți pe fereastră și observați viața orașului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bancă de odihnă pe Schlossberg",
+            "tip": "Zgomotul orașului pare foarte departe de aici.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pe malul râului Mur",
+            "tip": "Găsiți un loc departe de poteca principală.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "During the bus ride",
+            "tip": "Look out the window and observe city life.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bench on Schlossberg",
+            "tip": "The noise of the city seems far away up here.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "On the banks of the Mur",
+            "tip": "Find a spot away from the main path.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Für eine Zeitung oder ein kleines Souvenir."
+          },
+          {
+            "name": "Geschäfte entlang der Busroute",
+            "tip": "Halten Sie Ausschau nach interessanten Läden, die Sie beim Vorbeifahren sehen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Egy újságért vagy egy kis ajándéktárgyért."
+          },
+          {
+            "name": "Üzletek a buszútvonal mentén",
+            "tip": "Figyeljen az érdekes boltokra, amiket elhaladva lát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Pentru un ziar sau un mic suvenir."
+          },
+          {
+            "name": "Magazine de-a lungul traseului autobuzului",
+            "tip": "Fiți atenți la magazinele interesante pe care le vedeți în trecere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "For a newspaper or a small souvenir."
+          },
+          {
+            "name": "Shops along the bus route",
+            "tip": "Look out for interesting shops you see as you pass by."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die Fahrplan-App herunter, um Wartezeiten zu minimieren.",
+          "Achten Sie auf die letzte Busverbindung für Ihre Rückfahrt.",
+          "In den Bussen ist meist nur Barzahlung für Tickets möglich."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a menetrend-alkalmazást a várakozási idők minimalizálása érdekében.",
+          "Figyeljen az utolsó buszjáratra a visszaúthoz.",
+          "A buszokon általában csak készpénzzel lehet jegyet fizetni."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația cu orare pentru a minimiza timpii de așteptare.",
+          "Fiți atenți la ultima legătură de autobuz pentru călătoria de întoarcere.",
+          "Plata biletelor în autobuze este de obicei posibilă doar în numerar."
+        ],
+        "en": [
+          "Buy a day ticket for unlimited travel.",
+          "Download the timetable app to minimize waiting times.",
+          "Pay attention to the last bus connection for your return journey.",
+          "Payment for tickets on buses is usually only possible with cash."
+        ]
+      }
+    }
+  }
+}

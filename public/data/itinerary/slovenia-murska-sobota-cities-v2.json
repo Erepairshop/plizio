@@ -1,0 +1,1444 @@
+{
+  "city_id": "slovenia-murska-sobota-cities-v2",
+  "anchor": {
+    "name": "Murska Sobota",
+    "coords": [
+      16.166,
+      46.662
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Siegesdenkmal",
+            "hu": "Győzelmi emlékmű",
+            "ro": "Monumentul Victoriei",
+            "en": "Victory Monument"
+          },
+          "coords": [
+            16.168,
+            46.66
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag an diesem zentralen Punkt der Stadtgeschichte.",
+            "hu": "Kezdje a napot a város történelmének e központi pontjánál.",
+            "ro": "Începeți ziua la acest punct central al istoriei orașului.",
+            "en": "Start your day at this central point of the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Nikolaus",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "Cathedral of Saint Nicholas"
+          },
+          "coords": [
+            16.167,
+            46.661
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:34",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die moderne Architektur, die sich mit historischen Elementen verbindet.",
+            "hu": "Figyelje meg a modern építészetet, amely a történelmi elemekkel ötvöződik.",
+            "ro": "Observați arhitectura modernă care se îmbină cu elemente istorice.",
+            "en": "Notice the modern architecture combined with historical elements."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Murska Sobota & Regionalmuseum Pomurje",
+            "hu": "Muraszombati vár és Pomurjei Regionális Múzeum",
+            "ro": "Castelul Murska Sobota și Muzeul Regional Pomurje",
+            "en": "Murska Sobota Castle & Pomurje Regional Museum"
+          },
+          "coords": [
+            16.165,
+            46.663
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die umfassende Ausstellung zur Regionalgeschichte ein.",
+            "hu": "Szánjon elegendő időt a régió történelmét bemutató átfogó kiállításra.",
+            "ro": "Planificați suficient timp pentru expoziția cuprinzătoare despre istoria regională.",
+            "en": "Plan enough time for the comprehensive exhibition on regional history."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Murska Sobota",
+            "hu": "Muraszombati városi park",
+            "ro": "Parcul orașului Murska Sobota",
+            "en": "Murska Sobota City Park"
+          },
+          "coords": [
+            16.163,
+            46.664
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:29",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause im Grünen. Es gibt viele Bänke am Teich.",
+            "hu": "Tökéletes egy ebédszünetre a zöldben. Sok pad található a tó mellett.",
+            "ro": "Perfect pentru o pauză de prânz în natură. Există multe bănci lângă iaz.",
+            "en": "Perfect for a lunch break in the green. There are many benches by the pond."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirche",
+            "hu": "Evangélikus templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Evangelical Church"
+          },
+          "coords": [
+            16.17,
+            46.662
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel neugotischer Architektur in der Region.",
+            "hu": "A neogótikus építészet szép példája a régióban.",
+            "ro": "Un frumos exemplu de arhitectură neogotică din regiune.",
+            "en": "A fine example of neo-Gothic architecture in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie Murska Sobota",
+            "hu": "Muraszombati Galéria",
+            "ro": "Galeria Murska Sobota",
+            "en": "Murska Sobota Gallery"
+          },
+          "coords": [
+            16.169,
+            46.659
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Informieren Sie sich über aktuelle Ausstellungen zeitgenössischer slowenischer Künstler.",
+            "hu": "Érdeklődjön a kortárs szlovén művészek aktuális kiállításairól.",
+            "ro": "Informați-vă despre expozițiile actuale ale artiștilor sloveni contemporani.",
+            "en": "Check for current exhibitions of contemporary Slovenian artists."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Murska Sobota beginnt am symbolträchtigen Siegesdenkmal. Am Vormittag erkunden Sie das religiöse und historische Herz der Stadt, die St.-Nikolaus-Kathedrale und das beeindruckende Schloss, das heute das Regionalmuseum beherbergt. Der Mittag gehört der Entspannung im weitläufigen Stadtpark, einer grünen Oase der Ruhe. Am Nachmittag entdecken Sie weitere architektonische Perlen wie die Evangelische Kirche und tauchen in der Galerie Murska Sobota in die lokale Kunstszene ein. Der Tag endet mit kulinarischen Eindrücken der Prekmurje-Region.",
+        "hu": "Sétája Muraszombatban a jelképes Győzelmi emlékműnél kezdődik. Délelőtt a város vallási és történelmi szívét, a Szent Miklós-székesegyházat és az impozáns várat fedezi fel, amely ma a regionális múzeumnak ad otthont. A dél a tágas városi parkban, a nyugalom zöld oázisában telik. Délután további építészeti gyöngyszemeket, például az evangélikus templomot is felfedezheti, és a Muraszombati Galériában elmerülhet a helyi művészeti életben. A nap a Prekmurje régió kulináris benyomásaival zárul.",
+        "ro": "Plimbarea dvs. prin Murska Sobota începe la simbolic Monument al Victoriei. Dimineața explorați inima religioasă și istorică a orașului, Catedrala Sf. Nicolae și impresionantul castel, care găzduiește acum Muzeul Regional. Amiaza este dedicată relaxării în vastul parc al orașului, o oază de liniște verde. După-amiaza descoperiți alte bijuterii arhitecturale, cum ar fi Biserica Evanghelică, și vă cufundați în scena artistică locală la Galeria Murska Sobota. Ziua se încheie cu impresii culinare din regiunea Prekmurje.",
+        "en": "Your walk through Murska Sobota begins at the symbolic Victory Monument. In the morning, you'll explore the religious and historical heart of the city, the Cathedral of Saint Nicholas and the impressive castle, now home to the Regional Museum. Noon is for relaxing in the spacious city park, a green oasis of calm. In the afternoon, you will discover other architectural gems such as the Evangelical Church and immerse yourself in the local art scene at the Murska Sobota Gallery. The day ends with culinary impressions of the Prekmurje region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Prekmurska gibanica",
+            "tip": "Ein Muss! Dieser Schichtkuchen ist das kulinarische Symbol der Region."
+          },
+          {
+            "name": "Bograč",
+            "tip": "Ein herzhafter Gulasch-ähnlicher Eintopf, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Dödöle",
+            "tip": "Kartoffelsterz, oft mit Zwiebeln und Schmand serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prekmurjei gibanica",
+            "tip": "Ezt muszáj megkóstolni! Ez a réteges sütemény a régió kulináris szimbóluma."
+          },
+          {
+            "name": "Bogács",
+            "tip": "Kiadós, gulyásszerű egytálétel, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Dödölle",
+            "tip": "Gyakran hagymával és tejföllel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prekmurska gibanica",
+            "tip": "O necesitate! Această prăjitură stratificată este simbolul culinar al regiunii."
+          },
+          {
+            "name": "Bograč",
+            "tip": "O tocană consistentă, asemănătoare gulașului, perfectă după o plimbare lungă."
+          },
+          {
+            "name": "Dödöle",
+            "tip": "Găluște de cartofi, adesea servite cu ceapă și smântână."
+          }
+        ],
+        "en": [
+          {
+            "name": "Prekmurska gibanica",
+            "tip": "A must-try! This layered cake is the culinary symbol of the region."
+          },
+          {
+            "name": "Bograč",
+            "tip": "A hearty goulash-like stew, perfect after a long walk."
+          },
+          {
+            "name": "Dödöle",
+            "tip": "Potato dumplings, often served with onions and sour cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Teich im Stadtpark",
+            "tip": "Setzen Sie sich auf eine Bank und beobachten Sie die Enten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Sobota-Sees",
+            "tip": "Ein ruhiger Ort, um den Gedanken nachzuhängen, etwas außerhalb des Zentrums.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schlosshof",
+            "tip": "Im Inneren der Mauern finden Sie oft eine ruhige Ecke.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tó a városi parkban",
+            "tip": "Üljön le egy padra és figyelje a kacsákat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Szombati-tó partja",
+            "tip": "Csendes hely az elmélkedésre, kicsit a központon kívül.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Várudvar",
+            "tip": "A falakon belül gyakran talál egy csendes zugot.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Iazul din parcul orașului",
+            "tip": "Stați pe o bancă și priviți rațele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul lacului Sobota",
+            "tip": "Un loc liniștit pentru a vă aduna gândurile, puțin în afara centrului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea castelului",
+            "tip": "În interiorul zidurilor veți găsi adesea un colț liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pond in the City Park",
+            "tip": "Sit on a bench and watch the ducks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Shores of Lake Sobota",
+            "tip": "A quiet place to reflect, just outside the center.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Castle Courtyard",
+            "tip": "You can often find a quiet corner inside the walls.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach Kürbiskernöl, einer Spezialität aus der Steiermark und Prekmurje."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Achten Sie auf Töpferwaren und handgemachte Produkte aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen tökmagolajat, amely Stájerország és Prekmurje specialitása."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keresse a helyi kerámiákat és kézzel készített termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați ulei de dovleac, o specialitate din Stiria și Prekmurje."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Fiți atenți la ceramica locală și produsele handmade."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for pumpkin seed oil, a specialty of Styria and Prekmurje."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Look out for local pottery and handmade products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum leicht zu Fuß zu erkunden ist.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Planen Sie eine Kaffeepause in einem der Cafés am Hauptplatz ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont könnyen bejárható gyalog.",
+          "A legtöbb látnivaló közel van egymáshoz.",
+          "Tervezzen egy kávészünetet a főtér egyik kávézójában."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece centrul orașului este ușor de explorat pe jos.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă.",
+          "Planificați o pauză de cafea la una dintre cafenelele din piața principală."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is easily explored on foot.",
+          "Most sights are located close to each other.",
+          "Plan a coffee break in one of the cafes on the main square."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Murska Sobota & Regionalmuseum Pomurje",
+            "hu": "Muraszombati vár és Pomurjei Regionális Múzeum",
+            "ro": "Castelul Murska Sobota și Muzeul Regional Pomurje",
+            "en": "Murska Sobota Castle & Pomurje Regional Museum"
+          },
+          "coords": [
+            16.165,
+            46.663
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein idealer Startpunkt, um in die Geschichte der Region einzutauchen.",
+            "hu": "Ideális kiindulópont a régió történelmébe való elmerüléshez.",
+            "ro": "Un punct de plecare ideal pentru a vă cufunda în istoria regiunii.",
+            "en": "An ideal starting point to delve into the region's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Murska Sobota",
+            "hu": "Muraszombati városi park",
+            "ro": "Parcul orașului Murska Sobota",
+            "en": "Murska Sobota City Park"
+          },
+          "coords": [
+            16.163,
+            46.664
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:52",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Runde mit dem Rad durch den Park.",
+            "hu": "Tegyen egy rövid kört kerékpárral a parkon keresztül.",
+            "ro": "Faceți o scurtă plimbare cu bicicleta prin parc.",
+            "en": "Take a short ride on your bike through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Nikolaus",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "Cathedral of Saint Nicholas"
+          },
+          "coords": [
+            16.167,
+            46.661
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie die Kathedrale betreten.",
+            "hu": "Biztonságosan zárja le a kerékpárját, mielőtt belép a székesegyházba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în catedrală.",
+            "en": "Secure your bike before entering the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Siegesdenkmal",
+            "hu": "Győzelmi emlékmű",
+            "ro": "Monumentul Victoriei",
+            "en": "Victory Monument"
+          },
+          "coords": [
+            16.168,
+            46.66
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:22",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Fotostopp am zentralen Platz der Stadt.",
+            "hu": "Egy gyors fotómegálló a város központi terén.",
+            "ro": "O scurtă oprire pentru fotografii în piața centrală a orașului.",
+            "en": "A quick photo stop in the city's central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Sobota-See",
+            "hu": "Szombati-tó",
+            "ro": "Lacul Sobota",
+            "en": "Lake Sobota"
+          },
+          "coords": [
+            16.185,
+            46.655
+          ],
+          "category": "natural features",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Picknick oder einfach nur zum Entspannen am Wasser.",
+            "hu": "Remek hely egy piknikhez vagy csak a vízparti pihenéshez.",
+            "ro": "Un loc minunat pentru un picnic sau pur și simplu pentru a vă relaxa lângă apă.",
+            "en": "A great place for a picnic or just to relax by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirche",
+            "hu": "Evangélikus templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Evangelical Church"
+          },
+          "coords": [
+            16.17,
+            46.662
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende neugotische Fassade.",
+            "hu": "Csodálja meg a lenyűgöző neogótikus homlokzatot.",
+            "ro": "Admirați fațada neogotică impresionantă.",
+            "en": "Admire the impressive neo-Gothic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie Murska Sobota",
+            "hu": "Muraszombati Galéria",
+            "ro": "Galeria Murska Sobota",
+            "en": "Murska Sobota Gallery"
+          },
+          "coords": [
+            16.169,
+            46.659
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Tour mit einem Einblick in die moderne Kunst der Region ab.",
+            "hu": "Zárja a túrát a régió modern művészetébe való betekintéssel.",
+            "ro": "Încheiați turul cu o incursiune în arta modernă a regiunii.",
+            "en": "End your tour with a glimpse into the region's modern art."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am Schloss Murska Sobota. Nach einem Vormittag voller Geschichte radeln Sie durch den Stadtpark und besichtigen die Kathedrale. Die Mittagszeit verbringen Sie am idyllischen Sobota-See, ein perfekter Ort für eine Pause. Am Nachmittag führt Sie die Route zurück ins Stadtzentrum zur Evangelischen Kirche und zur Galerie, wo Sie den Tag mit kulturellen Eindrücken ausklingen lassen. Diese Tour verbindet Kultur und Natur ideal.",
+        "hu": "Kerékpártúrája a muraszombati várnál kezdődik. A történelemmel teli délelőtt után a városi parkon keresztül teker, majd megtekinti a székesegyházat. Az ebédidőt az idilli Szombati-tónál tölti, amely tökéletes hely a pihenésre. Délután az útvonal visszavezet a városközpontba az evangélikus templomhoz és a galériához, ahol kulturális élményekkel zárhatja a napot. Ez a túra ideálisan ötvözi a kultúrát és a természetet.",
+        "ro": "Turul dvs. cu bicicleta începe la Castelul Murska Sobota. După o dimineață plină de istorie, pedalați prin parcul orașului și vizitați catedrala. Pauza de prânz o petreceți la idilicul Lac Sobota, un loc perfect pentru o pauză. După-amiaza, traseul vă duce înapoi în centrul orașului la Biserica Evanghelică și la galerie, unde încheiați ziua cu impresii culturale. Acest tur combină ideal cultura și natura.",
+        "en": "Your bike tour starts at Murska Sobota Castle. After a morning full of history, you cycle through the city park and visit the cathedral. You'll spend your lunch break at the idyllic Lake Sobota, a perfect place for a rest. In the afternoon, the route takes you back to the city center to the Evangelical Church and the gallery, where you end the day with cultural impressions. This tour ideally combines culture and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bujta repa",
+            "tip": "Ein traditioneller Eintopf aus sauren Rüben und Hirse, sehr nahrhaft."
+          },
+          {
+            "name": "Prekmurska šunka",
+            "tip": "Probieren Sie den luftgetrockneten Schinken der Region."
+          },
+          {
+            "name": "Restaurant Rajh",
+            "tip": "Bekannt für die moderne Interpretation der regionalen Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bujta repa",
+            "tip": "Savanyúrépából és kölesből készült hagyományos egytálétel, nagyon tápláló."
+          },
+          {
+            "name": "Prekmurjei sonka",
+            "tip": "Kóstolja meg a régió levegőn szárított sonkáját."
+          },
+          {
+            "name": "Rajh Étterem",
+            "tip": "A regionális konyha modern interpretációjáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bujta repa",
+            "tip": "O tocană tradițională din napi acri și mei, foarte hrănitoare."
+          },
+          {
+            "name": "Prekmurska šunka",
+            "tip": "Încercați șunca uscată la aer din regiune."
+          },
+          {
+            "name": "Restaurantul Rajh",
+            "tip": "Cunoscut pentru interpretarea modernă a bucătăriei regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bujta repa",
+            "tip": "A traditional stew made from sour turnips and millet, very nutritious."
+          },
+          {
+            "name": "Prekmurska šunka",
+            "tip": "Try the region's air-dried ham."
+          },
+          {
+            "name": "Restaurant Rajh",
+            "tip": "Known for its modern interpretation of regional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sobota-See",
+            "tip": "Finden Sie eine ruhige Stelle am Ufer und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof bei der Evangelischen Kirche",
+            "tip": "Ein Ort der Stille und des Nachdenkens.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Morgens im Stadtpark",
+            "tip": "Bevor die Stadt erwacht, ist es hier besonders friedlich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szombati-tó",
+            "tip": "Keressen egy csendes helyet a parton, és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az evangélikus templom melletti temető",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Reggel a városi parkban",
+            "tip": "Mielőtt a város felébred, itt különösen békés.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Sobota",
+            "tip": "Găsiți un loc liniștit pe mal și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de lângă Biserica Evanghelică",
+            "tip": "Un loc de liniște și reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dimineața în parcul orașului",
+            "tip": "Înainte ca orașul să se trezească, este deosebit de pașnic aici.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Sobota",
+            "tip": "Find a quiet spot on the shore and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery near the Evangelical Church",
+            "tip": "A place of silence and reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Morning in the City Park",
+            "tip": "Before the city wakes up, it's particularly peaceful here.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen",
+            "tip": "Für den Fall, dass Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Regionale Produkte",
+            "tip": "Halten Sie Ausschau nach Honig und anderen landwirtschaftlichen Erzeugnissen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha kiegészítőre vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Helyi termékek",
+            "tip": "Keressen mézet és más mezőgazdasági termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "În cazul în care aveți nevoie de accesorii sau de o reparație rapidă."
+          },
+          {
+            "name": "Produse regionale",
+            "tip": "Căutați miere și alte produse agricole."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "In case you need accessories or a quick repair."
+          },
+          {
+            "name": "Regional Products",
+            "tip": "Look for honey and other agricultural products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nutzen Sie die Radwege, wo immer es möglich ist.",
+          "Ein Schloss ist unerlässlich, um Ihr Fahrrad an den Haltepunkten zu sichern."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Használja a kerékpárutakat, ahol csak lehetséges.",
+          "A kerékpár lezárása elengedhetetlen a megállókban."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Utilizați pistele de biciclete ori de câte ori este posibil.",
+          "Un lacăt este esențial pentru a vă asigura bicicleta la opriri."
+        ],
+        "en": [
+          "Check your tire pressure before you leave.",
+          "Use bike paths wherever possible.",
+          "A lock is essential to secure your bike at the stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sobota-See",
+            "hu": "Szombati-tó",
+            "ro": "Lacul Sobota",
+            "en": "Lake Sobota"
+          },
+          "coords": [
+            16.185,
+            46.655
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag ruhig am See. Parkmöglichkeiten sind vorhanden.",
+            "hu": "Kezdje a napot nyugodtan a tónál. Parkolási lehetőség rendelkezésre áll.",
+            "ro": "Începeți ziua în liniște la lac. Există locuri de parcare disponibile.",
+            "en": "Start the day peacefully at the lake. Parking is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare centrală",
+            "en": "Central Parking"
+          },
+          "coords": [
+            16.171,
+            46.663
+          ],
+          "category": "transport",
+          "arrive_at": "10:37",
+          "stay_min": 0,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Auto hier ab, um den historischen Kern zu Fuß zu erkunden.",
+            "hu": "Parkolja le itt az autóját, hogy gyalog fedezze fel a történelmi központot.",
+            "ro": "Parcați mașina aici pentru a explora centrul istoric pe jos.",
+            "en": "Park your car here to explore the historic core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirche",
+            "hu": "Evangélikus templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Evangelical Church"
+          },
+          "coords": [
+            16.17,
+            46.662
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:41",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Halt Ihres Spaziergangs durch das Stadtzentrum.",
+            "hu": "A városközponti séta első állomása.",
+            "ro": "Prima oprire a plimbării dvs. prin centrul orașului.",
+            "en": "The first stop on your walk through the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Nikolaus",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "Cathedral of Saint Nicholas"
+          },
+          "coords": [
+            16.167,
+            46.661
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Evangelischen Kirche.",
+            "hu": "Rövid séta az evangélikus templomtól.",
+            "ro": "O scurtă plimbare de la Biserica Evanghelică.",
+            "en": "A short walk from the Evangelical Church."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Murska Sobota & Regionalmuseum Pomurje",
+            "hu": "Muraszombati vár és Pomurjei Regionális Múzeum",
+            "ro": "Castelul Murska Sobota și Muzeul Regional Pomurje",
+            "en": "Murska Sobota Castle & Pomurje Regional Museum"
+          },
+          "coords": [
+            16.165,
+            46.663
+          ],
+          "category": "museums",
+          "arrive_at": "12:01",
+          "stay_min": 150,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hier verbringen Sie die Mittagszeit, inklusive Mittagessen in einem nahegelegenen Restaurant.",
+            "hu": "Itt tölti az ebédidőt, beleértve az ebédet egy közeli étteremben.",
+            "ro": "Aici veți petrece pauza de prânz, inclusiv masa la un restaurant din apropiere.",
+            "en": "You'll spend your lunch break here, including lunch at a nearby restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Murska Sobota",
+            "hu": "Muraszombati városi park",
+            "ro": "Parcul orașului Murska Sobota",
+            "en": "Murska Sobota City Park"
+          },
+          "coords": [
+            16.163,
+            46.664
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang nach dem Museumsbesuch, bevor Sie zum Auto zurückkehren.",
+            "hu": "Egy pihentető séta a múzeumlátogatás után, mielőtt visszatérne az autóhoz.",
+            "ro": "O plimbare relaxantă după vizita la muzeu, înainte de a vă întoarce la mașină.",
+            "en": "A relaxing walk after the museum visit before returning to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt entspannt am Sobota-See, etwas außerhalb des Zentrums. Nachdem Sie die Natur genossen haben, fahren Sie zu einem zentralen Parkplatz. Von dort erkunden Sie das Herz von Murska Sobota zu Fuß: Sie besuchen die beiden markanten Kirchen und verbringen den Großteil des Tages im Schloss und dem Regionalmuseum. Ein Spaziergang durch den angrenzenden Stadtpark rundet Ihren Besuch im Zentrum ab, bevor Sie die Rückfahrt antreten. Diese Tour kombiniert bequem Naturerlebnis und Stadterkundung.",
+        "hu": "Autós túrája nyugodtan kezdődik a Szombati-tónál, kissé a központon kívül. Miután élvezte a természetet, egy központi parkolóba hajt. Onnan gyalogosan fedezi fel Muraszombat szívét: meglátogatja a két jellegzetes templomot, és a nap nagy részét a várban és a regionális múzeumban tölti. A szomszédos városi parkban tett séta teszi teljessé a központi látogatást, mielőtt visszaindulna. Ez a túra kényelmesen ötvözi a természeti élményt és a városnézést.",
+        "ro": "Turul cu mașina începe relaxat la Lacul Sobota, puțin în afara centrului. După ce v-ați bucurat de natură, conduceți la o parcare centrală. De acolo explorați inima orașului Murska Sobota pe jos: vizitați cele două biserici proeminente și petreceți cea mai mare parte a zilei în castel și muzeul regional. O plimbare prin parcul adiacent al orașului completează vizita în centru înainte de a vă întoarce. Acest tur combină convenabil experiența în natură cu explorarea orașului.",
+        "en": "Your car tour begins relaxed at Lake Sobota, just outside the center. After enjoying nature, you drive to a central parking lot. From there, you'll explore the heart of Murska Sobota on foot: visiting the two prominent churches and spending most of the day in the castle and regional museum. A walk through the adjacent city park completes your visit to the center before you head back. This tour conveniently combines nature experience and city exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gostilna Lovenjak",
+            "tip": "Ein renommiertes Restaurant, das für seine traditionelle Küche bekannt ist."
+          },
+          {
+            "name": "Oštarija",
+            "tip": "Bietet eine Mischung aus lokalen und mediterranen Gerichten."
+          },
+          {
+            "name": "Kürbiskernöl-Eis",
+            "tip": "Eine ungewöhnliche, aber köstliche lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gostilna Lovenjak",
+            "tip": "Híres étterem, amely hagyományos konyhájáról ismert."
+          },
+          {
+            "name": "Oštarija",
+            "tip": "Helyi és mediterrán ételek keverékét kínálja."
+          },
+          {
+            "name": "Tökmagolajos fagylalt",
+            "tip": "Szokatlan, de finom helyi specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gostilna Lovenjak",
+            "tip": "Un restaurant renumit, cunoscut pentru bucătăria sa tradițională."
+          },
+          {
+            "name": "Oštarija",
+            "tip": "Oferă un amestec de mâncăruri locale și mediteraneene."
+          },
+          {
+            "name": "Înghețată cu ulei de dovleac",
+            "tip": "O specialitate locală neobișnuită, dar delicioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gostilna Lovenjak",
+            "tip": "A renowned restaurant known for its traditional cuisine."
+          },
+          {
+            "name": "Oštarija",
+            "tip": "Offers a mix of local and Mediterranean dishes."
+          },
+          {
+            "name": "Pumpkin Seed Oil Ice Cream",
+            "tip": "An unusual but delicious local specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fazanerija Wald",
+            "tip": "Ein größeres Waldgebiet in der Nähe, ideal für einen längeren Spaziergang, wenn Sie Zeit haben.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Leseni del parka (Holzteil des Parks)",
+            "tip": "Ein ruhigerer Abschnitt des Stadtparks.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Frühmorgens am See",
+            "tip": "Die beste Zeit, um die Stille des Sobota-Sees zu erleben.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fazanerija erdő",
+            "tip": "Nagyobb erdős terület a közelben, ideális egy hosszabb sétához, ha van ideje.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A park fás része",
+            "tip": "A városi park csendesebb része.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggel a tónál",
+            "tip": "A legjobb idő a Szombati-tó csendjének megtapasztalására.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Fazanerija",
+            "tip": "O zonă forestieră mai mare în apropiere, ideală pentru o plimbare mai lungă dacă aveți timp.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Partea de lemn a parcului",
+            "tip": "O secțiune mai liniștită a parcului orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dimineața devreme la lac",
+            "tip": "Cel mai bun moment pentru a experimenta liniștea lacului Sobota.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fazanerija Forest",
+            "tip": "A larger forest area nearby, ideal for a longer walk if you have time.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Wooden part of the park",
+            "tip": "A quieter section of the city park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Early morning at the lake",
+            "tip": "The best time to experience the silence of Lake Sobota.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "BTC City Murska Sobota",
+            "tip": "Ein Einkaufszentrum am Stadtrand für umfassendere Einkäufe."
+          },
+          {
+            "name": "Souvenirs im Museumsshop",
+            "tip": "Hier finden Sie hochwertige Andenken und Bücher zur Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "BTC City Murska Sobota",
+            "tip": "Bevásárlóközpont a város szélén a nagyobb bevásárlásokhoz."
+          },
+          {
+            "name": "Ajándéktárgyak a múzeumi boltban",
+            "tip": "Itt minőségi ajándéktárgyakat és könyveket talál a régióról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "BTC City Murska Sobota",
+            "tip": "Un centru comercial la marginea orașului pentru cumpărături mai ample."
+          },
+          {
+            "name": "Suveniruri la magazinul muzeului",
+            "tip": "Aici veți găsi suveniruri de înaltă calitate și cărți despre regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "BTC City Murska Sobota",
+            "tip": "A shopping center on the outskirts of the city for more extensive shopping."
+          },
+          {
+            "name": "Souvenirs in the museum shop",
+            "tip": "Here you will find high-quality souvenirs and books about the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren im Stadtzentrum; oft ist das Parken am Stadtrand günstiger.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen, besonders in Wohngebieten.",
+          "Ein GPS ist hilfreich, um die Parkplätze und den See zu finden."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat a városközpontban; gyakran olcsóbb a külvárosban parkolni.",
+          "Tartsa be a sebességkorlátozásokat, különösen a lakóövezetekben.",
+          "A GPS hasznos a parkolók és a tó megtalálásához."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în centrul orașului; parcarea la periferie este adesea mai ieftină.",
+          "Respectați limitele de viteză, în special în zonele rezidențiale.",
+          "Un GPS este util pentru a găsi parcările și lacul."
+        ],
+        "en": [
+          "Check parking fees in the city center; parking on the outskirts is often cheaper.",
+          "Obey the speed limits, especially in residential areas.",
+          "A GPS is helpful for finding the parking lots and the lake."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptbahnhof/Busbahnhof",
+            "hu": "Főpályaudvar/Buszpályaudvar",
+            "ro": "Gara Centrală/Autogara",
+            "en": "Main Train/Bus Station"
+          },
+          "coords": [
+            16.16,
+            46.658
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Startpunkt Ihrer Tour. Informieren Sie sich hier über die lokalen Buslinien.",
+            "hu": "A túra kiindulópontja. Itt tájékozódhat a helyi buszjáratokról.",
+            "ro": "Punctul de plecare al turului dvs. Informați-vă aici despre liniile de autobuz locale.",
+            "en": "Starting point of your tour. Get information about local bus lines here."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Zentrum",
+            "hu": "Központi megálló",
+            "ro": "Stația Centrală",
+            "en": "Center Stop"
+          },
+          "coords": [
+            16.168,
+            46.661
+          ],
+          "category": "transport",
+          "arrive_at": "09:22",
+          "stay_min": 0,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus für den ersten Teil Ihres Rundgangs.",
+            "hu": "Szálljon le itt a séta első részéhez.",
+            "ro": "Coborâți aici pentru prima parte a plimbării dvs.",
+            "en": "Get off here for the first part of your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Nikolaus",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "Cathedral of Saint Nicholas"
+          },
+          "coords": [
+            16.167,
+            46.661
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt an der Bushaltestelle gelegen.",
+            "hu": "Közvetlenül a buszmegálló mellett található.",
+            "ro": "Situată chiar lângă stația de autobuz.",
+            "en": "Located right next to the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Murska Sobota & Regionalmuseum Pomurje",
+            "hu": "Muraszombati vár és Pomurjei Regionális Múzeum",
+            "ro": "Castelul Murska Sobota și Muzeul Regional Pomurje",
+            "en": "Murska Sobota Castle & Pomurje Regional Museum"
+          },
+          "coords": [
+            16.165,
+            46.663
+          ],
+          "category": "museums",
+          "arrive_at": "10:16",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie hier den Großteil Ihrer Zeit am Vormittag ein.",
+            "hu": "Tervezze ide a délelőtti idejének nagy részét.",
+            "ro": "Planificați-vă cea mai mare parte a timpului de dimineață aici.",
+            "en": "Plan to spend most of your morning time here."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Murska Sobota",
+            "hu": "Muraszombati városi park",
+            "ro": "Parcul orașului Murska Sobota",
+            "en": "Murska Sobota City Park"
+          },
+          "coords": [
+            16.163,
+            46.664
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für die Mittagspause nach dem Museum.",
+            "hu": "Ideális hely az ebédidőre a múzeum után.",
+            "ro": "Un loc ideal pentru pauza de prânz după muzeu.",
+            "en": "An ideal place for a lunch break after the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Sobota-See",
+            "hu": "Szombati-tó megálló",
+            "ro": "Stația Lacul Sobota",
+            "en": "Lake Sobota Stop"
+          },
+          "coords": [
+            16.183,
+            46.656
+          ],
+          "category": "transport",
+          "arrive_at": "13:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum See für einen entspannten Nachmittag.",
+            "hu": "Menjen busszal a tóhoz egy pihentető délutánra.",
+            "ro": "Luați autobuzul spre lac pentru o după-amiază relaxantă.",
+            "en": "Take the bus to the lake for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Nahverkehr starten Sie am Bahnhof und fahren direkt ins Herz der Stadt. Der Vormittag ist einem Spaziergang gewidmet, der Sie zur Kathedrale, zum Schloss und durch den Stadtpark führt. Nach einer Mittagspause im Zentrum nehmen Sie einen Bus zum Sobota-See, um den Nachmittag in der Natur zu verbringen. Diese Tour zeigt Ihnen, wie einfach es ist, die wichtigsten Sehenswürdigkeiten von Murska Sobota und seine ruhige Umgebung mit dem Bus zu kombinieren.",
+        "hu": "A tömegközlekedéssel az állomásról indul, és közvetlenül a város szívébe utazik. A délelőtt egy sétának van szentelve, amely elvezeti a székesegyházhoz, a várhoz és a városi parkon keresztül. A központban tartott ebédszünet után busszal megy a Szombati-tóhoz, hogy a délutánt a természetben töltse. Ez a túra megmutatja, milyen egyszerű busszal összekötni Muraszombat legfontosabb látnivalóit és csendes környékét.",
+        "ro": "Cu transportul public, porniți de la gară și mergeți direct în inima orașului. Dimineața este dedicată unei plimbări care vă duce la catedrală, la castel și prin parcul orașului. După o pauză de prânz în centru, luați un autobuz spre Lacul Sobota pentru a petrece după-amiaza în natură. Acest tur vă arată cât de ușor este să combinați principalele atracții din Murska Sobota și împrejurimile sale liniștite cu autobuzul.",
+        "en": "Using public transport, you start at the station and go directly to the heart of the city. The morning is dedicated to a walk that takes you to the cathedral, the castle, and through the city park. After a lunch break in the center, you take a bus to Lake Sobota to spend the afternoon in nature. This tour shows you how easy it is to combine the main sights of Murska Sobota and its quiet surroundings by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich ein Gebäck für die Busfahrt zum See."
+          },
+          {
+            "name": "Café am Hauptplatz",
+            "tip": "Beobachten Sie das städtische Treiben bei einem Kaffee."
+          },
+          {
+            "name": "'Dnevna ponudba' (Tagesangebot)",
+            "tip": "Achten Sie auf die günstigen Mittagsmenüs in den Restaurants."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Vegyen egy péksüteményt a buszútra a tóhoz."
+          },
+          {
+            "name": "Kávézó a főtéren",
+            "tip": "Figyelje a városi nyüzsgést egy kávé mellett."
+          },
+          {
+            "name": "'Dnevna ponudba' (napi ajánlat)",
+            "tip": "Figyelje az éttermek kedvező árú ebédmenüit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați un produs de patiserie pentru călătoria cu autobuzul spre lac."
+          },
+          {
+            "name": "Cafenea în piața principală",
+            "tip": "Priviți agitația orașului la o cafea."
+          },
+          {
+            "name": "'Dnevna ponudba' (oferta zilei)",
+            "tip": "Fiți atenți la meniurile de prânz ieftine din restaurante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakery",
+            "tip": "Get a pastry for the bus ride to the lake."
+          },
+          {
+            "name": "Café on the main square",
+            "tip": "Watch the city bustle over a coffee."
+          },
+          {
+            "name": "'Dnevna ponudba' (daily offer)",
+            "tip": "Look out for the cheap lunch menus in the restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt aus der Stadt",
+            "tip": "Die Fahrt zum See bietet einen Moment der Ruhe und wechselnde Perspektiven.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank im hinteren Teil des Stadtparks",
+            "tip": "Ein abgeschiedener Ort zum Lesen oder Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang um den Sobota-See",
+            "tip": "Der Weg um den See ist meist ruhig und friedlich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszút a városból kifelé",
+            "tip": "A tóhoz vezető út a nyugalom és a változó perspektívák pillanatát kínálja.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a városi park hátsó részében",
+            "tip": "Félreeső hely olvasásra vagy pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Szombati-tó körül",
+            "tip": "A tó körüli út többnyire csendes és békés.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul în afara orașului",
+            "tip": "Călătoria spre lac oferă un moment de liniște și perspective schimbătoare.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în spatele parcului orașului",
+            "tip": "Un loc retras pentru a citi sau a vă relaxa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare în jurul lacului Sobota",
+            "tip": "Cărarea din jurul lacului este în mare parte liniștită și pașnică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride out of town",
+            "tip": "The ride to the lake offers a moment of peace and changing perspectives.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in the back of the city park",
+            "tip": "A secluded place to read or relax.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk around Lake Sobota",
+            "tip": "The path around the lake is mostly quiet and peaceful.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Für Zeitschriften, Snacks und Getränke für unterwegs."
+          },
+          {
+            "name": "Markt in der Nähe des Zentrums",
+            "tip": "Wenn es ein Markttag ist, finden Sie hier frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Magazinok, rágcsálnivalók és italok útközben."
+          },
+          {
+            "name": "Piac a központ közelében",
+            "tip": "Ha piacnap van, itt friss termékeket talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Pentru reviste, gustări și băuturi pentru drum."
+          },
+          {
+            "name": "Piața din apropierea centrului",
+            "tip": "Dacă este zi de piață, veți găsi aici produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "For magazines, snacks, and drinks on the go."
+          },
+          {
+            "name": "Market near the center",
+            "tip": "If it's a market day, you'll find fresh produce here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, wenn Sie mehrere Fahrten planen.",
+          "Prüfen Sie den Busfahrplan im Voraus, besonders für die Rückfahrt vom See.",
+          "Halten Sie Kleingeld für die Tickets bereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, ha több utazást tervez.",
+          "Előre ellenőrizze a buszmenetrendet, különösen a tótól való visszautazáshoz.",
+          "Készítsen aprópénzt a jegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi dacă planificați mai multe călătorii.",
+          "Verificați orarul autobuzului în avans, în special pentru călătoria de întoarcere de la lac.",
+          "Pregătiți mărunțiș pentru bilete."
+        ],
+        "en": [
+          "Buy a day ticket if you plan multiple trips.",
+          "Check the bus schedule in advance, especially for the return trip from the lake.",
+          "Have small change ready for tickets."
+        ]
+      }
+    }
+  }
+}

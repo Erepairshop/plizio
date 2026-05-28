@@ -1,0 +1,1459 @@
+{
+  "city_id": "cy-larnaca",
+  "anchor": {
+    "name": "Larnaca",
+    "coords": [
+      33.6333,
+      34.9
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Finikoudes-Promenade",
+            "hu": "Finikoudes sétány",
+            "ro": "Promenada Finikoudes",
+            "en": "Finikoudes Promenade"
+          },
+          "coords": [
+            33.636,
+            34.915
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem zyprischen Kaffee in einem der vielen Cafés.",
+            "hu": "Kezdje a napot egy ciprusi kávéval a számos kávézó egyikében.",
+            "ro": "Începeți ziua cu o cafea cipriotă la una dintre numeroasele cafenele.",
+            "en": "Start your day with a Cypriot coffee at one of the many cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Larnaca",
+            "hu": "Larnacai vár",
+            "ro": "Castelul Larnaca",
+            "en": "Larnaca Castle"
+          },
+          "coords": [
+            33.6375,
+            34.91
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Mauern für einen tollen Blick auf das Meer und die Promenade.",
+            "hu": "Másszon fel a falakra a tengerre és a sétányra nyíló remek kilátásért.",
+            "ro": "Urcați pe ziduri pentru o priveliște minunată asupra mării și a promenadei.",
+            "en": "Climb the walls for a great view of the sea and the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Djami Kebir Moschee",
+            "hu": "Djami Kebir mecset",
+            "ro": "Moscheea Djami Kebir",
+            "en": "Djami Kebir Mosque"
+          },
+          "coords": [
+            33.637,
+            34.911
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:16",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die ruhige Atmosphäre im Innenhof, ein starker Kontrast zur belebten Promenade.",
+            "hu": "Figyelje meg a belső udvar csendes légkörét, amely éles kontrasztban áll a nyüzsgő sétánnyal.",
+            "ro": "Observați atmosfera liniștită din curte, un contrast puternic cu promenada aglomerată.",
+            "en": "Note the quiet atmosphere in the courtyard, a stark contrast to the busy promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios-Lazaros-Kirche",
+            "hu": "Szent Lázár-templom",
+            "ro": "Biserica Sfântul Lazăr",
+            "en": "Church of Saint Lazarus"
+          },
+          "coords": [
+            33.6345,
+            34.9125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta, in der sich das Grab des Heiligen Lazarus befinden soll.",
+            "hu": "Látogasson el a kriptába, ahol állítólag Szent Lázár sírja található.",
+            "ro": "Vizitați cripta unde se spune că se află mormântul Sfântului Lazăr.",
+            "en": "Visit the crypt, said to hold the tomb of Saint Lazarus."
+          }
+        },
+        {
+          "name": {
+            "de": "Pierides-Museum",
+            "hu": "Pierides Múzeum",
+            "ro": "Muzeul Pierides",
+            "en": "Pierides Museum"
+          },
+          "coords": [
+            33.636,
+            34.916
+          ],
+          "category": "museums",
+          "arrive_at": "13:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein privates Museum, das einen faszinierenden Einblick in die zypriotische Geschichte bietet.",
+            "hu": "Egy magánmúzeum, amely lenyűgöző betekintést nyújt Ciprus történelmébe.",
+            "ro": "Un muzeu privat care oferă o perspectivă fascinantă asupra istoriei cipriote.",
+            "en": "A private museum offering a fascinating glimpse into Cypriot history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Militzis",
+            "hu": "Ebéd a Militzis-ben",
+            "ro": "Prânz la Militzis",
+            "en": "Lunch at Militzis"
+          },
+          "coords": [
+            33.638,
+            34.909
+          ],
+          "category": "gastro",
+          "arrive_at": "15:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie das 'Kleftiko' (langsam gegartes Lamm), eine Hausspezialität.",
+            "hu": "Kóstolja meg a 'Kleftiko'-t (lassan főtt bárány), a ház specialitását.",
+            "ro": "Încercați 'Kleftiko' (miel gătit lent), o specialitate a casei.",
+            "en": "Try the 'Kleftiko' (slow-cooked lamb), a house specialty."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Larnaca beginnt an der sonnenverwöhnten Finikoudes-Promenade, wo Palmen im Takt der Meeresbrise wiegen. Nach einem Spaziergang erkunden Sie die beeindruckende Festung von Larnaca, die über den Hafen wacht. Der Vormittag führt Sie weiter ins Herz der Altstadt zur prächtigen Agios-Lazaros-Kirche, einem Meisterwerk byzantinischer Architektur. Nach dem Eintauchen in die Geschichte ist es Zeit für ein Mittagessen in einer traditionellen Taverne, wo Sie authentische zypriotische Aromen genießen. Der Nachmittag ist für das Pierides-Museum reserviert, das einen tiefen Einblick in die antike Vergangenheit der Insel bietet. Der Tag endet entspannt am Strand, während Sie den Sonnenuntergang über dem Mittelmeer beobachten.",
+        "hu": "Larnacai napja a napsütötte Finikoudes sétányon kezdődik, ahol a pálmafák a tengeri szellő ritmusára ringatóznak. Egy séta után felfedezi a kikötő felett őrködő lenyűgöző larnacai erődöt. A délelőtt az óváros szívébe vezet a csodálatos Szent Lázár-templomhoz, a bizánci építészet remekművéhez. A történelemben való elmerülés után ideje ebédelni egy hagyományos tavernában, ahol autentikus ciprusi ízeket kóstolhat. A délutánt a Pierides Múzeumnak szentelik, amely mély betekintést nyújt a sziget ókori múltjába. A nap a tengerparton pihenve ér véget, miközben a Földközi-tenger felett lenyugvó napot nézi.",
+        "ro": "Ziua dvs. în Larnaca începe pe promenada însorită Finikoudes, unde palmierii se leagănă în ritmul brizei mării. După o plimbare, explorați impresionantul Castel Larnaca, care străjuiește portul. Dimineața vă poartă mai departe în inima orașului vechi la magnifica Biserică Sfântul Lazăr, o capodoperă a arhitecturii bizantine. După imersiunea în istorie, este timpul pentru prânz la o tavernă tradițională, savurând arome autentice cipriote. După-amiaza este rezervată Muzeului Pierides, care oferă o perspectivă profundă asupra trecutului antic al insulei. Ziua se încheie relaxându-vă pe plajă, urmărind apusul soarelui peste Marea Mediterană.",
+        "en": "Your day in Larnaca begins on the sun-drenched Finikoudes Promenade, where palm trees sway to the rhythm of the sea breeze. After a stroll, you'll explore the impressive Larnaca Castle guarding the harbor. The morning takes you further into the heart of the old town to the magnificent Church of Saint Lazarus, a masterpiece of Byzantine architecture. After soaking in the history, it's time for lunch at a traditional tavern, savoring authentic Cypriot flavors. The afternoon is reserved for the Pierides Museum, offering a deep dive into the island's ancient past. The day concludes by relaxing on the beach, watching the sunset over the Mediterranean Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halloumi",
+            "tip": "Gegrillt oder frisch, ein Muss auf Zypern."
+          },
+          {
+            "name": "Fisch-Meze",
+            "tip": "Eine Auswahl an kleinen Fisch- und Meeresfrüchtegerichten, perfekt zum Teilen."
+          },
+          {
+            "name": "Sheftalia",
+            "tip": "Würzige, gegrillte Würstchen in einem dünnen Fladenbrot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halloumi",
+            "tip": "Grillezve vagy frissen, Cipruson kötelező."
+          },
+          {
+            "name": "Hal meze",
+            "tip": "Válogatás kis hal- és tenger gyümölcsei ételekből, tökéletes megosztásra."
+          },
+          {
+            "name": "Sheftalia",
+            "tip": "Fűszeres, grillezett kolbászkák vékony lepénykenyérben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halloumi",
+            "tip": "La grătar sau proaspăt, o necesitate în Cipru."
+          },
+          {
+            "name": "Meze de pește",
+            "tip": "O selecție de mici feluri de mâncare din pește și fructe de mare, perfecte pentru împărțit."
+          },
+          {
+            "name": "Sheftalia",
+            "tip": "Cârnați picanți la grătar într-o lipie subțire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halloumi",
+            "tip": "Grilled or fresh, a must-try in Cyprus."
+          },
+          {
+            "name": "Fish Meze",
+            "tip": "A selection of small fish and seafood dishes, perfect for sharing."
+          },
+          {
+            "name": "Sheftalia",
+            "tip": "Spicy, grilled sausages served in a thin flatbread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Salzsee von Larnaca (im Winter)",
+            "tip": "Beobachten Sie die Flamingos in einer ruhigen Umgebung.",
+            "emoji": "🦩"
+          },
+          {
+            "name": "Ein ruhiger Platz am Mackenzie Beach",
+            "tip": "Entfliehen Sie den Menschenmassen an der Finikoudes-Promenade.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Hof der Angeloktisti-Kirche",
+            "tip": "Ein friedlicher Ort abseits der touristischen Pfade.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Larnacai-sóstó (télen)",
+            "tip": "Nézze a flamingókat csendes környezetben.",
+            "emoji": "🦩"
+          },
+          {
+            "name": "Egy csendes hely a Mackenzie Beachen",
+            "tip": "Meneküljön el a Finikoudes sétány tömege elől.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Az Angeloktisti-templom udvara",
+            "tip": "Egy békés hely a turistaútvonalaktól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Sărat Larnaca (iarna)",
+            "tip": "Urmăriți flamingo într-un cadru liniștit.",
+            "emoji": "🦩"
+          },
+          {
+            "name": "Un loc liniștit pe plaja Mackenzie",
+            "tip": "Evadați de aglomerația de pe promenada Finikoudes.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Curtea Bisericii Angeloktisti",
+            "tip": "Un loc pașnic departe de traseele turistice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Larnaca Salt Lake (in winter)",
+            "tip": "Watch the flamingos in a serene setting.",
+            "emoji": "🦩"
+          },
+          {
+            "name": "A quiet spot on Mackenzie Beach",
+            "tip": "Escape the crowds of Finikoudes promenade.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Courtyard of Angeloktisti Church",
+            "tip": "A peaceful spot away from the tourist trails.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lefkaritika-Spitze",
+            "tip": "Wunderschöne handgemachte Spitze aus dem Dorf Lefkara, in vielen Souvenirläden erhältlich."
+          },
+          {
+            "name": "Zypriotischer Wein",
+            "tip": "Kaufen Sie eine Flasche Commandaria, einen süßen Dessertwein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lefkaritika csipke",
+            "tip": "Gyönyörű kézzel készített csipke Lefkara faluból, számos szuvenírboltban kapható."
+          },
+          {
+            "name": "Ciprusi bor",
+            "tip": "Vásároljon egy üveg Commandariát, egy édes desszertbort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dantelă Lefkaritika",
+            "tip": "Dantelă superbă lucrată manual din satul Lefkara, disponibilă în multe magazine de suveniruri."
+          },
+          {
+            "name": "Vin cipriot",
+            "tip": "Cumpărați o sticlă de Commandaria, un vin de desert dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lefkaritika Lace",
+            "tip": "Beautiful handmade lace from the village of Lefkara, available in many souvenir shops."
+          },
+          {
+            "name": "Cypriot Wine",
+            "tip": "Pick up a bottle of Commandaria, a sweet dessert wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Die meisten Geschäfte schließen am frühen Nachmittag für eine Siesta, planen Sie Ihren Einkauf entsprechend.",
+          "Respektieren Sie die Kleiderordnung beim Betreten von Kirchen und Moscheen (Schultern und Knie bedeckt)."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Hozzon magával sok vizet, különösen a nyári hónapokban.",
+          "A legtöbb üzlet kora délután bezár egy sziesztára, tervezze meg a vásárlást ennek megfelelően.",
+          "Tartsa tiszteletben az öltözködési szabályokat a templomokba és mecsetekbe való belépéskor (vállak és térdek takarva)."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavelele din orașul vechi pot fi denivelate.",
+          "Aduceți multă apă, mai ales în lunile de vară.",
+          "Majoritatea magazinelor se închid pentru siestă la începutul după-amiezii, așa că planificați-vă cumpărăturile în consecință.",
+          "Respectați codul vestimentar la intrarea în biserici și moschei (umerii și genunchii acoperiți)."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Bring plenty of water, especially during the summer months.",
+          "Most shops close for a siesta in the early afternoon, so plan your shopping accordingly.",
+          "Respect the dress code when entering churches and mosques (shoulders and knees covered)."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:28",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start an der Finikoudes-Promenade",
+            "hu": "Kerékpárkölcsönzés és indulás a Finikoudes sétányról",
+            "ro": "Închiriere biciclete și start de pe Promenada Finikoudes",
+            "en": "Bike Rental & Start at Finikoudes Promenade"
+          },
+          "coords": [
+            33.636,
+            34.915
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad für den Tag; es gibt viele Verleihstationen entlang der Promenade.",
+            "hu": "Béreljen kerékpárt egy napra; a sétány mentén számos kölcsönző található.",
+            "ro": "Închiriați o bicicletă pentru o zi; există multe stații de închiriere de-a lungul promenadei.",
+            "en": "Rent a bike for the day; there are many rental stations along the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios-Lazaros-Kirche",
+            "hu": "Szent Lázár-templom",
+            "ro": "Biserica Sfântul Lazăr",
+            "en": "Church of Saint Lazarus"
+          },
+          "coords": [
+            33.6345,
+            34.9125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie diese beeindruckende Kirche erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné ezt a lenyűgöző templomot.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora această biserică impresionantă.",
+            "en": "Secure your bike before exploring this impressive church."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamares-Aquädukt",
+            "hu": "Kamares vízvezeték",
+            "ro": "Apeductul Kamares",
+            "en": "Kamares Aqueduct"
+          },
+          "coords": [
+            33.609,
+            34.918
+          ],
+          "category": "historical",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für Fotos, besonders am späten Nachmittag.",
+            "hu": "Nagyszerű hely a fotózáshoz, különösen késő délután.",
+            "ro": "Un loc excelent pentru fotografii, mai ales după-amiaza târziu.",
+            "en": "A great spot for photos, especially in the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Hala-Sultan-Tekke & Salzsee",
+            "hu": "Hala Sultan Tekke és Sós-tó",
+            "ro": "Hala Sultan Tekke și Lacul Sărat",
+            "en": "Hala Sultan Tekke & Salt Lake"
+          },
+          "coords": [
+            33.623,
+            34.885
+          ],
+          "category": "natural features",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine friedliche Oase. Im Winter können Sie hier Tausende von Flamingos sehen.",
+            "hu": "A béke oázisa. Télen több ezer flamingót láthat itt.",
+            "ro": "O oază de pace. Iarna puteți vedea aici mii de flamingo.",
+            "en": "A peaceful oasis. In winter, you can see thousands of flamingos here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mackenzie Beach",
+            "hu": "Mackenzie strand",
+            "ro": "Plaja Mackenzie",
+            "en": "Mackenzie Beach"
+          },
+          "coords": [
+            33.635,
+            34.895
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:31",
+          "stay_min": 180,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für ein Mittagessen am Strand und zum Beobachten der Flugzeuge beim Landen.",
+            "hu": "Tökéletes egy tengerparti ebédhez és a leszálló repülőgépek nézéséhez.",
+            "ro": "Perfect pentru un prânz pe plajă și pentru a privi avioanele aterizând.",
+            "en": "Perfect for a beachside lunch and watching the planes land."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zur Finikoudes-Promenade",
+            "hu": "Visszatérés a Finikoudes sétányra",
+            "ro": "Întoarcere la Promenada Finikoudes",
+            "en": "Return to Finikoudes Promenade"
+          },
+          "coords": [
+            33.636,
+            34.915
+          ],
+          "category": "shopping",
+          "arrive_at": "16:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie einen letzten Spaziergang bei Sonnenuntergang.",
+            "hu": "Adja vissza a kerékpárt, és élvezze az utolsó naplementés sétát.",
+            "ro": "Returnați bicicleta și bucurați-vă de o ultimă plimbare la apus.",
+            "en": "Return your bike and enjoy a final sunset stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer in Larnaca beginnt an der lebhaften Finikoudes-Promenade. Von dort aus radeln Sie durch die charmanten Gassen zur historischen Agios-Lazaros-Kirche. Der Vormittag führt Sie weiter landeinwärts zum beeindruckenden Kamares-Aquädukt, einem Zeugnis römischer Ingenieurskunst. Anschließend führt Ihre Route Sie zum ruhigen Salzsee, wo Sie die Hala-Sultan-Tekke bewundern und im Winter die Flamingos beobachten können. Zum Mittagessen und Entspannen fahren Sie zum Mackenzie Beach, der für seine lebhafte Atmosphäre und die Nähe zum Flughafen bekannt ist. Am späten Nachmittag radeln Sie gemütlich zurück zur Finikoudes-Promenade, um den Tag mit Blick auf das Meer ausklingen zu lassen.",
+        "hu": "Larnacai kerékpáros kalandja a nyüzsgő Finikoudes sétányon kezdődik. Innen a bájos utcákon keresztül teker a történelmi Szent Lázár-templomhoz. A délelőtt beljebb visz a lenyűgöző Kamares vízvezetékhez, a római mérnöki tudás tanúbizonyságához. Ezután útja a csendes Sós-tóhoz vezet, ahol megcsodálhatja a Hala Sultan Tekkét, és télen a flamingókat is megfigyelheti. Ebédelni és pihenni a Mackenzie strandra megy, amely élénk hangulatáról és a repülőtér közelségéről ismert. Késő délután kényelmesen visszateker a Finikoudes sétányra, hogy a tengerre néző kilátással zárja a napot.",
+        "ro": "Aventura dvs. pe bicicletă în Larnaca începe pe vibranta Promenadă Finikoudes. De acolo, pedalați pe străduțele fermecătoare până la istorica Biserică Sfântul Lazăr. Dimineața vă poartă mai departe în interior spre impresionantul Apeduct Kamares, o mărturie a ingineriei romane. Apoi, traseul vă duce la liniștitul Lac Sărat, unde puteți admira Hala Sultan Tekke și, iarna, puteți observa flamingo. Pentru prânz și relaxare, vă îndreptați spre Plaja Mackenzie, cunoscută pentru atmosfera sa plină de viață și apropierea de aeroport. Spre sfârșitul după-amiezii, pedalați înapoi spre Promenada Finikoudes pentru a încheia ziua cu o priveliște spre mare.",
+        "en": "Your cycling adventure in Larnaca starts on the vibrant Finikoudes Promenade. From there, you'll pedal through charming streets to the historic Church of Saint Lazarus. The morning takes you further inland to the impressive Kamares Aqueduct, a testament to Roman engineering. Afterwards, your route leads to the tranquil Salt Lake, where you can admire Hala Sultan Tekke and, in winter, watch the flamingos. For lunch and relaxation, you'll head to Mackenzie Beach, known for its lively atmosphere and proximity to the airport. In the late afternoon, you'll leisurely cycle back to the Finikoudes Promenade to end the day with a view of the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souvlaki",
+            "tip": "Gegrillte Fleischspieße, ein schneller und leckerer Snack."
+          },
+          {
+            "name": "Frischer Orangensaft",
+            "tip": "Erfrischend und überall erhältlich."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Langsam gegartes Lammfleisch, das im Mund zergeht, ideal für ein ausgiebiges Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvlaki",
+            "tip": "Grillezett húsnyársak, gyors és finom harapnivaló."
+          },
+          {
+            "name": "Friss narancslé",
+            "tip": "Frissítő és mindenhol kapható."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Lassan sült bárányhús, amely elolvad a szájban, ideális egy kiadós vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvlaki",
+            "tip": "Frigărui de carne la grătar, o gustare rapidă și delicioasă."
+          },
+          {
+            "name": "Suc proaspăt de portocale",
+            "tip": "Răcoritor și disponibil peste tot."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Carne de miel gătită lent, care se topește în gură, ideală pentru o cină copioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvlaki",
+            "tip": "Grilled meat skewers, a quick and delicious snack."
+          },
+          {
+            "name": "Fresh Orange Juice",
+            "tip": "Refreshing and widely available."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Slow-cooked lamb that melts in your mouth, perfect for a hearty dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Salzsee",
+            "tip": "Die Farben des Himmels spiegeln sich im Wasser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Angeloktisti-Kirche in Kiti",
+            "tip": "Eine kurze Radtour zu einer der ältesten Kirchen Zyperns.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Versteckte Gassen in der Altstadt",
+            "tip": "Entdecken Sie ruhige Ecken abseits der Hauptstraßen.",
+            "emoji": "🤫"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Sós-tónál",
+            "tip": "Az ég színei visszatükröződnek a vízen."
+          },
+          {
+            "name": "Angeloktisti-templom Kitiben",
+            "tip": "Egy rövid kerékpártúra Ciprus egyik legrégebbi templomához.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Rejtett sikátorok az óvárosban",
+            "tip": "Fedezzen fel csendes zugokat a főutcáktól távol.",
+            "emoji": "🤫"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la Lacul Sărat",
+            "tip": "Culorile cerului se reflectă în apă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biserica Angeloktisti din Kiti",
+            "tip": "O scurtă plimbare cu bicicleta la una dintre cele mai vechi biserici din Cipru.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Străduțe ascunse în orașul vechi",
+            "tip": "Descoperiți colțuri liniștite departe de străzile principale.",
+            "emoji": "🤫"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at the Salt Lake",
+            "tip": "The colors of the sky reflect in the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Angeloktisti Church in Kiti",
+            "tip": "A short bike ride to one of the oldest churches in Cyprus.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Hidden alleys in the old town",
+            "tip": "Discover quiet corners away from the main streets.",
+            "emoji": "🤫"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Handbemalte Keramik ist ein schönes und authentisches Souvenir."
+          },
+          {
+            "name": "Olivenöl",
+            "tip": "Zypriotisches Olivenöl ist von hoher Qualität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "A kézzel festett kerámia szép és autentikus szuvenír."
+          },
+          {
+            "name": "Olívaolaj",
+            "tip": "A ciprusi olívaolaj kiváló minőségű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Ceramica pictată manual este un suvenir frumos și autentic."
+          },
+          {
+            "name": "Ulei de măsline",
+            "tip": "Uleiul de măsline cipriot este de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local pottery",
+            "tip": "Hand-painted ceramics make for a beautiful and authentic souvenir."
+          },
+          {
+            "name": "Olive oil",
+            "tip": "Cypriot olive oil is of high quality."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Ein Helm wird empfohlen, ist aber nicht obligatorisch.",
+          "Nutzen Sie die Radwege entlang der Küste für eine sichere und malerische Fahrt.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Sisak használata ajánlott, de nem kötelező.",
+          "Használja a tengerparti kerékpárutakat a biztonságos és festői utazáshoz.",
+          "Mindig zárja le a kerékpárt, ha leparkolja."
+        ],
+        "ro": [
+          "Verificați bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Se recomandă casca, dar nu este obligatorie.",
+          "Folosiți pistele de biciclete de-a lungul coastei pentru o plimbare sigură și pitorească.",
+          "Încuietăți întotdeauna bicicleta când o parcați."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "A helmet is recommended, but not mandatory.",
+          "Use the cycle paths along the coast for a safe and scenic ride.",
+          "Always lock your bike when you park it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 15.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start & Parken nahe Kamares-Aquädukt",
+            "hu": "Indulás és parkolás a Kamares vízvezeték közelében",
+            "ro": "Start și parcare lângă Apeductul Kamares",
+            "en": "Start & Park near Kamares Aqueduct"
+          },
+          "coords": [
+            33.609,
+            34.918
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag bei diesem beeindruckenden Bauwerk. Es gibt normalerweise genügend Parkplätze.",
+            "hu": "Kezdje a napot ennél a lenyűgöző építménynél. Általában van elég parkolóhely.",
+            "ro": "Începeți ziua la această structură impresionantă. De obicei, există suficient spațiu de parcare.",
+            "en": "Start your day at this impressive structure. There's usually ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Salzsee-Cluster",
+            "hu": "Utazás a Sós-tó körzetébe",
+            "ro": "Călătorie spre clusterul Lacului Sărat",
+            "en": "Drive to Salt Lake Cluster"
+          },
+          "coords": [
+            33.623,
+            34.885
+          ],
+          "category": "natural features",
+          "arrive_at": "09:59",
+          "stay_min": 0,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Hala Sultan Tekke. Von hier aus erkunden Sie zu Fuß.",
+            "hu": "Parkoljon a Hala Sultan Tekke közelében. Innen gyalogosan fedezze fel a környéket.",
+            "ro": "Parcați lângă Hala Sultan Tekke. De aici veți explora pe jos.",
+            "en": "Park near the Hala Sultan Tekke. You will explore on foot from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Hala-Sultan-Tekke",
+            "hu": "Hala Sultan Tekke",
+            "ro": "Hala Sultan Tekke",
+            "en": "Hala Sultan Tekke"
+          },
+          "coords": [
+            33.623,
+            34.885
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein wichtiger Wallfahrtsort für Muslime und ein Ort von großer Ruhe.",
+            "hu": "Fontos zarándokhely a muszlimok számára és a nagy béke helye.",
+            "ro": "Un important loc de pelerinaj pentru musulmani și un loc de mare liniște.",
+            "en": "An important pilgrimage site for Muslims and a place of great tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Salzsee von Larnaca",
+            "hu": "Séta a Larnacai-sóstónál",
+            "ro": "Plimbare pe malul Lacului Sărat Larnaca",
+            "en": "Walk along Larnaca Salt Lake"
+          },
+          "coords": [
+            33.618,
+            34.89
+          ],
+          "category": "natural features",
+          "arrive_at": "11:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die einzigartige Landschaft. Halten Sie Ausschau nach den Flamingos (saisonal).",
+            "hu": "Élvezze az egyedülálló tájat. Keresse a flamingókat (szezonális).",
+            "ro": "Bucurați-vă de peisajul unic. Căutați flamingo (sezonier).",
+            "en": "Enjoy the unique landscape. Look out for the flamingos (seasonal)."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Stadtzentrum-Cluster",
+            "hu": "Utazás a városközpont körzetébe",
+            "ro": "Călătorie spre clusterul centrului orașului",
+            "en": "Drive to City Center Cluster"
+          },
+          "coords": [
+            33.634,
+            34.912
+          ],
+          "category": "historical",
+          "arrive_at": "12:11",
+          "stay_min": 0,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz in der Nähe der Agios-Lazaros-Kirche. Der Rest des Tages ist zu Fuß.",
+            "hu": "Keressen parkolóhelyet a Szent Lázár-templom közelében. A nap hátralévő részét gyalog tölti.",
+            "ro": "Găsiți un loc de parcare lângă Biserica Sfântul Lazăr. Restul zilei este pe jos.",
+            "en": "Find a parking spot near the Church of Saint Lazarus. The rest of the day is on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios-Lazaros-Kirche & Mittagessen",
+            "hu": "Szent Lázár-templom és ebéd",
+            "ro": "Biserica Sfântul Lazăr și prânz",
+            "en": "Church of Saint Lazarus & Lunch"
+          },
+          "coords": [
+            33.6345,
+            34.9125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:11",
+          "stay_min": 150,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach der Besichtigung der Kirche gibt es in der Umgebung viele ausgezeichnete Tavernen.",
+            "hu": "A templom megtekintése után a környéken számos kiváló taverna található.",
+            "ro": "După vizitarea bisericii, există numeroase taverne excelente în zonă.",
+            "en": "After visiting the church, there are many excellent taverns in the surrounding area."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Finikoudes-Promenade & Burg",
+            "hu": "Séta a Finikoudes sétányhoz és a várhoz",
+            "ro": "Plimbare spre Promenada Finikoudes și Castel",
+            "en": "Stroll to Finikoudes Promenade & Castle"
+          },
+          "coords": [
+            33.637,
+            34.911
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:59",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie die Promenade entlang, besuchen Sie die Burg und genießen Sie die Meeresbrise.",
+            "hu": "Sétáljon végig a sétányon, látogasson el a várhoz, és élvezze a tengeri szellőt.",
+            "ro": "Plimbați-vă pe promenadă, vizitați castelul și bucurați-vă de briza mării.",
+            "en": "Stroll down the promenade, visit the castle, and enjoy the sea breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Larnacas Vielfalt in Clustern. Sie beginnen am beeindruckenden Kamares-Aquädukt westlich der Stadt. Ihr erster Hauptstopp ist das Gebiet des Salzsees; parken Sie und spazieren Sie zur ruhigen Hala-Sultan-Tekke und entlang des Seeufers. Zurück im Auto fahren Sie ins Herz der Stadt. Parken Sie für den Rest des Tages und besuchen Sie die prächtige Agios-Lazaros-Kirche. Nach einem gemütlichen Mittagessen in einer nahegelegenen Taverne schlendern Sie zur belebten Finikoudes-Promenade. Erkunden Sie die mittelalterliche Burg, genießen Sie ein Eis und lassen Sie den Tag am Meer ausklingen, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Autóval klaszterekben fedezheti fel Larnaca sokszínűségét. A várostól nyugatra található lenyűgöző Kamares vízvezetéknél kezdi. Az első fő megálló a Sós-tó területe; parkoljon le, és sétáljon el a békés Hala Sultan Tekkéhez és a tó partja mentén. Vissza az autóba, és irány a város szíve. Parkoljon le a nap hátralévő részére, és látogasson el a csodálatos Szent Lázár-templomhoz. Egy közeli tavernában elköltött kényelmes ebéd után sétáljon le a nyüzsgő Finikoudes sétányra. Fedezze fel a középkori várat, élvezzen egy fagylaltot, és fejezze be a napot a tengernél, mielőtt visszatérne az autójához.",
+        "ro": "Cu mașina, explorați diversitatea Larnacăi în clustere. Începeți la impresionantul Apeduct Kamares, la vest de oraș. Prima oprire majoră este zona Lacului Sărat; parcați și plimbați-vă până la liniștita Hala Sultan Tekke și de-a lungul malului lacului. Înapoi în mașină, conduceți spre inima orașului. Parcați pentru restul zilei și vizitați magnifica Biserică Sfântul Lazăr. După un prânz relaxat la o tavernă din apropiere, plimbați-vă până la animata Promenadă Finikoudes. Explorați castelul medieval, bucurați-vă de o înghețată și încheiați ziua la malul mării înainte de a vă întoarce la mașină.",
+        "en": "By car, you'll explore Larnaca's diversity in clusters. You start at the impressive Kamares Aqueduct, west of the city. Your first major stop is the Salt Lake area; park and stroll to the tranquil Hala Sultan Tekke and along the lake's shore. Back in the car, you'll drive to the heart of the city. Park for the rest of the day and visit the magnificent Church of Saint Lazarus. After a leisurely lunch at a nearby tavern, you'll wander down to the bustling Finikoudes Promenade. Explore the medieval castle, enjoy an ice cream, and finish the day by the sea before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meze-Platte",
+            "tip": "Eine großartige Möglichkeit, eine Vielzahl von zypriotischen Gerichten zu probieren."
+          },
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Frisch aus dem Mittelmeer, ein wahrer Genuss."
+          },
+          {
+            "name": "Zivania",
+            "tip": "Ein starker lokaler Schnaps, probieren Sie ihn nach dem Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Meze tál",
+            "tip": "Nagyszerű módja a ciprusi ételek széles választékának megkóstolására."
+          },
+          {
+            "name": "Grillezett polip",
+            "tip": "Frissen a Földközi-tengerből, igazi csemege."
+          },
+          {
+            "name": "Zivania",
+            "tip": "Erős helyi pálinka, próbálja ki vacsora után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platou Meze",
+            "tip": "O modalitate excelentă de a gusta o varietate de feluri de mâncare cipriote."
+          },
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Proaspătă din Marea Mediterană, o adevărată delicatesă."
+          },
+          {
+            "name": "Zivania",
+            "tip": "O băutură spirtoasă locală puternică, încercați-o după masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Meze Platter",
+            "tip": "A great way to sample a wide variety of Cypriot dishes."
+          },
+          {
+            "name": "Grilled Octopus",
+            "tip": "Fresh from the Mediterranean, a true delight."
+          },
+          {
+            "name": "Zivania",
+            "tip": "A strong local spirit, try it after your meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stavrovouni-Kloster (nur Männer)",
+            "tip": "Ein langer, aber lohnender Ausflug für eine atemberaubende Aussicht und spirituelle Ruhe.",
+            "emoji": "🙏"
+          },
+          {
+            "name": "Dorf Choirokoitia",
+            "tip": "Eine neolithische Siedlung, die zum Nachdenken anregt.",
+            "emoji": "🗿"
+          },
+          {
+            "name": "Kamares-Aquädukt bei Sonnenaufgang",
+            "tip": "Erleben Sie das antike Bauwerk in magischem Licht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stavrovouni kolostor (csak férfiaknak)",
+            "tip": "Hosszú, de megéri az utat a lélegzetelállító kilátásért és a spirituális békéért.",
+            "emoji": "🙏"
+          },
+          {
+            "name": "Choirokoitia falu",
+            "tip": "Egy neolitikus település, amely elgondolkodtat.",
+            "emoji": "🗿"
+          },
+          {
+            "name": "Kamares vízvezeték napkeltekor",
+            "tip": "Tapasztalja meg az ókori építményt varázslatos fényben.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Stavrovouni (doar bărbați)",
+            "tip": "O excursie lungă, dar plină de satisfacții, pentru priveliști uluitoare și liniște spirituală.",
+            "emoji": "🙏"
+          },
+          {
+            "name": "Satul Choirokoitia",
+            "tip": "O așezare neolitică care îndeamnă la reflecție.",
+            "emoji": "🗿"
+          },
+          {
+            "name": "Apeductul Kamares la răsărit",
+            "tip": "Experimentați structura antică într-o lumină magică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stavrovouni Monastery (men only)",
+            "tip": "A long but rewarding drive for breathtaking views and spiritual quiet.",
+            "emoji": "🙏"
+          },
+          {
+            "name": "Choirokoitia Village",
+            "tip": "A Neolithic settlement that's thought-provoking.",
+            "emoji": "🗿"
+          },
+          {
+            "name": "Kamares Aqueduct at sunrise",
+            "tip": "Experience the ancient structure in magical light.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dorf Lefkara",
+            "tip": "Ein kurzer Ausflug, um authentische Spitze und Silberschmiedearbeiten zu kaufen."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Kaufen Sie lokale Produkte, Honig und Oliven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lefkara falu",
+            "tip": "Egy rövid kirándulás autentikus csipke és ezüstműves termékek vásárlására."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Vásároljon helyi termékeket, mézet és olajbogyót."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Satul Lefkara",
+            "tip": "O scurtă excursie pentru a cumpăra dantelă autentică și argintărie."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Cumpărați produse locale, miere și măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lefkara village",
+            "tip": "A short drive to buy authentic lace and silverware."
+          },
+          {
+            "name": "Weekly market",
+            "tip": "Shop for local produce, honey, and olives."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein kleines Auto, da die Straßen in der Altstadt eng sein können.",
+          "Parken kann im Stadtzentrum eine Herausforderung sein; nutzen Sie ausgewiesene Parkplätze.",
+          "Achten Sie auf die Einheimischen, die möglicherweise anders fahren als Sie es gewohnt sind.",
+          "Ein GPS ist sehr zu empfehlen."
+        ],
+        "hu": [
+          "Béreljen kis autót, mivel az óváros utcái szűkek lehetnek.",
+          "A parkolás kihívást jelenthet a városközpontban; használja a kijelölt parkolókat.",
+          "Vigyázzon a helyiekre, akik másképp vezethetnek, mint ahogy megszokta.",
+          "GPS használata erősen ajánlott."
+        ],
+        "ro": [
+          "Închiriați o mașină mică, deoarece străzile din orașul vechi pot fi înguste.",
+          "Parcarea poate fi o provocare în centrul orașului; utilizați parcările desemnate.",
+          "Fiți atenți la localnici, care pot conduce diferit față de cum sunteți obișnuit.",
+          "Un GPS este foarte recomandat."
+        ],
+        "en": [
+          "Rent a small car, as streets in the old town can be narrow.",
+          "Parking can be challenging in the city center; use designated parking lots.",
+          "Be mindful of local drivers who may have a different driving style.",
+          "A GPS is highly recommended."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 11.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am zentralen Busbahnhof & Spaziergang zur Finikoudes-Promenade",
+            "hu": "Érkezés a központi buszpályaudvarra és séta a Finikoudes sétányra",
+            "ro": "Sosire la autogara centrală și plimbare până la Promenada Finikoudes",
+            "en": "Arrive at Central Bus Station & Walk to Finikoudes Promenade"
+          },
+          "coords": [
+            33.636,
+            34.915
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Busbahnhof ist ein guter Ausgangspunkt, nur wenige Gehminuten vom Meer entfernt.",
+            "hu": "A buszpályaudvar jó kiindulópont, mindössze néhány perc sétára a tengertől.",
+            "ro": "Autogara este un bun punct de plecare, la doar câteva minute de mers pe jos de mare.",
+            "en": "The bus station is a great starting point, just a short walk from the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios-Lazaros-Kirche",
+            "hu": "Szent Lázár-templom",
+            "ro": "Biserica Sfântul Lazăr",
+            "en": "Church of Saint Lazarus"
+          },
+          "coords": [
+            33.6345,
+            34.9125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Altstadt führt Sie zu diesem Juwel.",
+            "hu": "Egy rövid séta az óvároson keresztül elvezeti ehhez a gyöngyszemhez.",
+            "ro": "O scurtă plimbare prin orașul vechi vă va duce la această bijuterie.",
+            "en": "A short walk through the old town will lead you to this gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Larnaca Castle & Museum",
+            "hu": "Larnacai vár és múzeum",
+            "ro": "Castelul și Muzeul Larnaca",
+            "en": "Larnaca Castle & Museum"
+          },
+          "coords": [
+            33.6375,
+            34.91
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Geschichte der Stadt in dem kleinen Museum im Inneren der Burg.",
+            "hu": "Ismerje meg a város történelmét a vár belsejében található kis múzeumban.",
+            "ro": "Aflați despre istoria orașului în micul muzeu din interiorul castelului.",
+            "en": "Learn about the city's history in the small museum inside the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Salzsee-Cluster",
+            "hu": "Buszozás a Sós-tó körzetébe",
+            "ro": "Călătorie cu autobuzul spre clusterul Lacului Sărat",
+            "en": "Bus to Salt Lake Cluster"
+          },
+          "coords": [
+            33.623,
+            34.885
+          ],
+          "category": "natural features",
+          "arrive_at": "12:47",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Flughafen; die Haltestelle für die Tekke ist gut ausgeschildert.",
+            "hu": "Vegyen egy buszt a repülőtér felé; a Tekke megállója jól ki van táblázva.",
+            "ro": "Luați un autobuz spre aeroport; stația pentru Tekke este bine semnalizată.",
+            "en": "Take a bus heading towards the airport; the stop for the Tekke is well-marked."
+          }
+        },
+        {
+          "name": {
+            "de": "Hala-Sultan-Tekke & Mittagessen in der Nähe",
+            "hu": "Hala Sultan Tekke és ebéd a közelben",
+            "ro": "Hala Sultan Tekke și prânz în apropiere",
+            "en": "Hala Sultan Tekke & Lunch Nearby"
+          },
+          "coords": [
+            33.623,
+            34.885
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:47",
+          "stay_min": 150,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe des Ortes und essen Sie in einem der nahegelegenen Restaurants zu Mittag.",
+            "hu": "Élvezze a hely nyugalmát, majd ebédeljen egy közeli étteremben.",
+            "ro": "Bucurați-vă de liniștea locului și luați prânzul la unul dintre restaurantele din apropiere.",
+            "en": "Enjoy the tranquility of the site and have lunch at one of the nearby restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zurück ins Zentrum & Souvenir-Shopping",
+            "hu": "Busz vissza a központba és szuvenírvásárlás",
+            "ro": "Autobuz înapoi în centru și cumpărături de suveniruri",
+            "en": "Bus back to Center & Souvenir Shopping"
+          },
+          "coords": [
+            33.635,
+            34.914
+          ],
+          "category": "shopping",
+          "arrive_at": "15:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bummeln Sie durch die Geschäfte in der Altstadt, um das perfekte Mitbringsel zu finden.",
+            "hu": "Böngésszen az óváros üzleteiben, hogy megtalálja a tökéletes emléktárgyat.",
+            "ro": "Plimbați-vă prin magazinele din orașul vechi pentru a găsi suvenirul perfect.",
+            "en": "Browse the shops in the old town to find the perfect souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt am zentralen Busbahnhof, von wo aus Sie zur Finikoudes-Promenade schlendern. Der Morgen ist der Erkundung des historischen Zentrums zu Fuß gewidmet, mit Besuchen der Agios-Lazaros-Kirche und der mittelalterlichen Burg. Am Mittag nehmen Sie einen Bus zum berühmten Salzsee. Dort besichtigen Sie die friedliche Hala-Sultan-Tekke und genießen ein Mittagessen mit Blick auf den See. Nach der Rückkehr ins Stadtzentrum mit dem Bus haben Sie am Nachmittag Zeit, durch die Geschäfte zu bummeln und Souvenirs zu kaufen. Der Tag endet mit einem entspannten Spaziergang zurück zum Busbahnhof, voll von neuen Eindrücken.",
+        "hu": "Tömegközlekedési túrája a központi buszpályaudvaron kezdődik, ahonnan a Finikoudes sétányra sétál. A délelőtt a történelmi központ gyalogos felfedezésének van szentelve, látogatással a Szent Lázár-templomban és a középkori várban. Délben buszra száll a híres Sós-tóhoz. Ott meglátogatja a békés Hala Sultan Tekkét, és a tóra néző kilátással ebédel. Miután busszal visszatért a városközpontba, délután van ideje böngészni az üzletekben és szuveníreket vásárolni. A nap egy pihentető sétával ér véget vissza a buszpályaudvarra, tele új benyomásokkal.",
+        "ro": "Turul dvs. cu transportul public începe la autogara centrală, de unde vă plimbați până la Promenada Finikoudes. Dimineața este dedicată explorării pe jos a centrului istoric, cu vizite la Biserica Sfântul Lazăr și la castelul medieval. La prânz, luați un autobuz spre faimosul Lac Sărat. Acolo, vizitați liniștita Hala Sultan Tekke și savurați prânzul cu vedere la lac. După întoarcerea în centrul orașului cu autobuzul, după-amiaza aveți timp să răsfoiți magazinele pentru suveniruri. Ziua se încheie cu o plimbare relaxantă înapoi la autogară, plină de impresii noi.",
+        "en": "Your public transport tour starts at the central bus station, from where you'll stroll to the Finikoudes Promenade. The morning is dedicated to exploring the historic center on foot, with visits to the Church of Saint Lazarus and the medieval castle. At midday, you'll take a bus to the famous Salt Lake. There, you'll visit the peaceful Hala Sultan Tekke and enjoy lunch with a view of the lake. After returning to the city center by bus, the afternoon is for browsing the shops for souvenirs. The day ends with a relaxing walk back to the bus station, full of new impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Koubes",
+            "tip": "Frittierte Bulgur-Pasteten, gefüllt mit Hackfleisch."
+          },
+          {
+            "name": "Loukoumades",
+            "tip": "Kleine, in Sirup getränkte Teigbällchen, ein süßer Genuss."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Der berühmte zypriotische Eiskaffee, perfekt für eine Pause am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Koubes",
+            "tip": "Sült bulgur pogácsák darált hússal töltve."
+          },
+          {
+            "name": "Loukoumades",
+            "tip": "Kis, szirupba áztatott tésztagolyók, édes csemege."
+          },
+          {
+            "name": "Frappé",
+            "tip": "A híres ciprusi jegeskávé, tökéletes egy délutáni szünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Koubes",
+            "tip": "Gogoși prăjite din bulgur, umplute cu carne tocată."
+          },
+          {
+            "name": "Loukoumades",
+            "tip": "Bile mici de aluat înmuiate în sirop, un deliciu dulce."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Faimoasa cafea cu gheață cipriotă, perfectă pentru o pauză de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Koubes",
+            "tip": "Fried bulgur patties stuffed with minced meat."
+          },
+          {
+            "name": "Loukoumades",
+            "tip": "Small dough balls soaked in syrup, a sweet treat."
+          },
+          {
+            "name": "Frappé",
+            "tip": "The famous Cypriot iced coffee, perfect for an afternoon break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pierides-Museumsgarten",
+            "tip": "Ein kleiner, ruhiger Garten im Herzen der Stadt.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Spaziergang entlang des Kamares-Aquädukts",
+            "tip": "Einige Buslinien halten in der Nähe.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Früher Morgen an der Finikoudes-Promenade",
+            "tip": "Genießen Sie die Ruhe, bevor die Menschenmassen eintreffen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierides Múzeum kertje",
+            "tip": "Egy kis, csendes kert a város szívében.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Séta a Kamares vízvezeték mentén",
+            "tip": "Néhány buszjárat megáll a közelben.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Kora reggel a Finikoudes sétányon",
+            "tip": "Élvezze a csendet, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Muzeului Pierides",
+            "tip": "O grădină mică și liniștită în inima orașului.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Plimbare de-a lungul Apeductului Kamares",
+            "tip": "Unele linii de autobuz opresc în apropiere.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Dimineața devreme pe Promenada Finikoudes",
+            "tip": "Bucurați-vă de liniște înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierides Museum Garden",
+            "tip": "A small, quiet garden in the heart of the city.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Walk along the Kamares Aqueduct",
+            "tip": "Some bus routes stop nearby.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Early morning at Finikoudes Promenade",
+            "tip": "Enjoy the quiet before the crowds arrive.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgemachter Schmuck",
+            "tip": "In den Gassen der Altstadt finden Sie einzigartige Stücke."
+          },
+          {
+            "name": "Zypriotische Süßigkeiten",
+            "tip": "Probieren Sie Soutzoukos, eine traditionelle Süßigkeit aus Traubenmost."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített ékszerek",
+            "tip": "Az óváros sikátoraiban egyedi darabokat találhat."
+          },
+          {
+            "name": "Ciprusi édességek",
+            "tip": "Kóstolja meg a Soutzoukost, egy hagyományos, szőlőmustból készült édességet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii lucrate manual",
+            "tip": "Puteți găsi piese unice pe aleile orașului vechi."
+          },
+          {
+            "name": "Dulciuri cipriote",
+            "tip": "Încercați Soutzoukos, un dulce tradițional făcut din must de struguri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade jewelry",
+            "tip": "You can find unique pieces in the alleys of the old town."
+          },
+          {
+            "name": "Cypriot sweets",
+            "tip": "Try Soutzoukos, a traditional sweet made from grape must."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Fahrt zurück.",
+          "Die Busse können in der Hochsaison überfüllt sein.",
+          "Halten Sie Kleingeld für die Tickets bereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó visszautat.",
+          "A buszok a főszezonban túlzsúfoltak lehetnek.",
+          "Készítsen aprópénzt a jegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie înapoi.",
+          "Autobuzele pot fi aglomerate în sezonul de vârf.",
+          "Păstrați mărunțiș la îndemână pentru bilete."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Check the bus schedule in advance, especially for the last trip back.",
+          "Buses can be crowded during peak season.",
+          "Keep small change handy for tickets."
+        ]
+      }
+    }
+  }
+}

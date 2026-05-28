@@ -1,0 +1,1412 @@
+{
+  "city_id": "poi-mt-mosta",
+  "anchor": {
+    "name": "Mosta Rotunda",
+    "coords": [
+      14.425,
+      35.91
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rotunde von Mosta",
+            "hu": "Mostai Rotunda",
+            "ro": "Rotonda din Mosta",
+            "en": "Rotunda of Mosta"
+          },
+          "coords": [
+            14.4255,
+            35.9098
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die riesige Kuppel, eine der größten Europas. Suchen Sie nach der Replik der Bombe, die im 2. WK durchfiel, ohne zu explodieren.",
+            "hu": "Csodálja meg a hatalmas kupolát, Európa egyik legnagyobbját. Keresse meg a bomba másolatát, amely a II. világháborúban átszakította a tetőt, de nem robbant fel.",
+            "ro": "Admirați cupola masivă, una dintre cele mai mari din Europa. Căutați replica bombei din Al Doilea Război Mondial care a căzut prin acoperiș fără a exploda.",
+            "en": "Marvel at the massive dome, one of the largest in Europe. Look for the replica of the WWII bomb that fell through without exploding."
+          }
+        },
+        {
+          "name": {
+            "de": "Luftschutzkeller aus dem 2. Weltkrieg",
+            "hu": "II. Világháborús Óvóhely",
+            "ro": "Adăpost antiaerian din Al Doilea Război Mondial",
+            "en": "WWII Air-Raid Shelter"
+          },
+          "coords": [
+            14.426,
+            35.909
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein unterirdisches Netzwerk, das von Familien von Hand gegraben wurde. Ein ergreifendes Zeugnis der Widerstandsfähigkeit Maltas.",
+            "hu": "Egy földalatti hálózat, amelyet családok ástak kézzel. Megrendítő tanúságtétele Málta kitartásának.",
+            "ro": "O rețea subterană săpată manual de familii. O mărturie emoționantă a rezistenței malteze.",
+            "en": "An underground network hand-dug by families. A poignant testimony to Maltese resilience."
+          }
+        },
+        {
+          "name": {
+            "de": "Ta' Bistra Katakomben",
+            "hu": "Ta' Bistra katakombák",
+            "ro": "Catacombele Ta' Bistra",
+            "en": "Ta' Bistra Catacombs"
+          },
+          "coords": [
+            14.422,
+            35.912
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses frühchristliche Grabkomplex. Es ist kühler unter der Erde, ein perfekter Ort für eine Mittagspause.",
+            "hu": "Fedezze fel ezt a kora keresztény temetkezési komplexumot. A föld alatt hűvösebb van, tökéletes hely egy déli pihenőre.",
+            "ro": "Explorați acest complex funerar paleocreștin. Este mai răcoare în subteran, un loc perfect pentru o pauză la amiază.",
+            "en": "Explore this early Christian burial complex. It's cooler underground, making it a perfect midday break."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            14.427,
+            35.91
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales 'Pastizzi' oder 'Ftira' in einer der Bäckereien rund um den Hauptplatz.",
+            "hu": "Kóstoljon meg egy helyi „pastizzi”-t vagy „ftira”-t a főtér körüli pékségek egyikében.",
+            "ro": "Încercați un 'pastizzi' sau 'ftira' locală la una dintre brutăriile din jurul pieței principale.",
+            "en": "Try a local 'pastizzi' or 'ftira' from one of the bakeries around the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Speranza-Kapelle & Wied il-Għasel",
+            "hu": "Speranza-kápolna és a Wied il-Għasel völgy",
+            "ro": "Capela Speranza și valea Wied il-Għasel",
+            "en": "Speranza Chapel & Wied il-Għasel Valley"
+          },
+          "coords": [
+            14.415,
+            35.911
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine charmante Kapelle, die in eine Felswand gebaut wurde. Die Legende besagt, dass hier ein Mädchen vor Piraten gerettet wurde.",
+            "hu": "Egy bájos kápolna, amely egy sziklafalba épült. A legenda szerint egy lány itt menekült meg a kalózok elől.",
+            "ro": "O capelă fermecătoare construită într-o stâncă. Legenda spune că o fată a fost salvată de pirați aici.",
+            "en": "A charming chapel built into a cliff face. Legend says a girl was saved from pirates here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mosta Garten",
+            "hu": "Mosta Kert",
+            "ro": "Grădina Mosta",
+            "en": "Mosta Garden"
+          },
+          "coords": [
+            14.428,
+            35.908
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort zum Entspannen am Ende des Tages, bevor Sie den Bus zurück nehmen.",
+            "hu": "Egy csendes hely a nap végi pihenésre, mielőtt visszamenne a buszhoz.",
+            "ro": "Un loc liniștit pentru a vă relaxa la sfârșitul zilei înainte de a lua autobuzul înapoi.",
+            "en": "A quiet place to unwind at the end of the day before you head back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Mosta beginnt im Herzen der Stadt, an der beeindruckenden Rotunde. Nach der Erkundung ihrer Geschichte und der nahegelegenen Kriegsschutzräume, führt Sie ein Spaziergang zu den alten Ta' Bistra Katakomben. Am Nachmittag genießen Sie die Ruhe im Wied il-Għasel-Tal, wo die legendäre Speranza-Kapelle liegt. Der Tag endet mit einem entspannten Spaziergang durch die Gärten von Mosta, die einen friedlichen Abschluss bieten.",
+        "hu": "A mostai napja a város szívében, a lenyűgöző Rotundánál kezdődik. A történelmének és a közeli háborús óvóhelyek felfedezése után egy séta elvezeti az ősi Ta' Bistra katakombákhoz. Délután élvezze a Wied il-Għasel-völgy nyugalmát, ahol a legendás Speranza-kápolna található. A nap egy pihentető sétával zárul a Mosta kertjeiben, amely békés lezárást nyújt.",
+        "ro": "Ziua dvs. în Mosta începe în inima orașului, la impresionanta Rotondă. După explorarea istoriei sale și a adăposturilor de război din apropiere, o plimbare vă duce la vechile Catacombe Ta' Bistra. După-amiaza, bucurați-vă de liniștea din valea Wied il-Għasel, unde se află legendara Capelă Speranza. Ziua se încheie cu o plimbare relaxantă prin Grădinile Mosta, oferind o încheiere pașnică.",
+        "en": "Your day in Mosta begins in the heart of the city at the impressive Rotunda. After exploring its history and the nearby war shelters, a walk takes you to the ancient Ta' Bistra Catacombs. In the afternoon, enjoy the tranquility of the Wied il-Għasel valley, home to the legendary Speranza Chapel. The day concludes with a relaxing stroll through Mosta Gardens, providing a peaceful end to your visit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastizzi",
+            "tip": "Ein Muss in Malta. Blätterteiggebäck, gefüllt mit Ricotta oder Erbsenpüree. In jeder Bäckerei erhältlich."
+          },
+          {
+            "name": "Ftira",
+            "tip": "Ein traditionelles maltesisches Sauerteigbrot, oft als Sandwich mit Thunfisch, Oliven und Kapern serviert."
+          },
+          {
+            "name": "Ta' Marija Restaurant",
+            "tip": "Bekannt für traditionelle maltesische Abende mit Folklore-Tanz und Kaninchen-Eintopf (Stuffat tal-Fenek)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastizzi",
+            "tip": "Kötelező Máltán. Leveles tészta ricottával vagy borsópürével töltve. Minden pékségben kapható."
+          },
+          {
+            "name": "Ftira",
+            "tip": "Hagyományos máltai kovászos kenyér, gyakran szendvicsként tonhallal, olajbogyóval és kapribogyóval tálalva."
+          },
+          {
+            "name": "Ta' Marija Étterem",
+            "tip": "Híres a hagyományos máltai estjeiről, folklórtánccal és nyúlpörkölttel (Stuffat tal-Fenek)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastizzi",
+            "tip": "O gustare obligatorie în Malta. Produse de patiserie umplute cu ricotta sau pastă de mazăre. Disponibile la orice brutărie."
+          },
+          {
+            "name": "Ftira",
+            "tip": "O pâine tradițională malteză cu maia, adesea servită ca sandviș cu ton, măsline și capere."
+          },
+          {
+            "name": "Restaurantul Ta' Marija",
+            "tip": "Renumit pentru serile tradiționale malteze cu dansuri folclorice și tocană de iepure (Stuffat tal-Fenek)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastizzi",
+            "tip": "A must-try snack in Malta. Flaky pastry filled with ricotta or mushy peas. Available at any bakery."
+          },
+          {
+            "name": "Ftira",
+            "tip": "A traditional Maltese sourdough bread, often served as a sandwich with tuna, olives, and capers."
+          },
+          {
+            "name": "Ta' Marija Restaurant",
+            "tip": "Known for traditional Maltese nights with folklore dancing and rabbit stew (Stuffat tal-Fenek)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wied il-Għasel Tal",
+            "tip": "Ein Spaziergang durch dieses Tal bietet eine friedliche Flucht aus der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Speranza-Kapelle",
+            "tip": "Die in die Klippe gebaute Kapelle ist ein Ort der stillen Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mosta Garten am späten Nachmittag",
+            "tip": "Finden Sie eine Bank und genießen Sie die Ruhe, während die Stadt zur Ruhe kommt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wied il-Għasel-völgy",
+            "tip": "Egy séta ebben a völgyben békés menekülést kínál a városból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Speranza-kápolna",
+            "tip": "A sziklába épített kápolna a csendes elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mosta Kert késő délután",
+            "tip": "Keressen egy padot, és élvezze a csendet, ahogy a város lelassul.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Wied il-Għasel",
+            "tip": "O plimbare prin această vale oferă o evadare pașnică din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela Speranza",
+            "tip": "Capela construită în stâncă este un loc de reflecție tăcută.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Mosta după-amiaza târziu",
+            "tip": "Găsiți o bancă și bucurați-vă de liniște în timp ce orașul încetinește.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wied il-Għasel Valley",
+            "tip": "A walk through this valley offers a peaceful escape from the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Speranza Chapel",
+            "tip": "The chapel built into the cliff is a place for quiet contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mosta Garden in the late afternoon",
+            "tip": "Find a bench and enjoy the quiet as the town winds down.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mosta Markt",
+            "tip": "Besuchen Sie den lokalen Markt (normalerweise montags) für frische Produkte und Haushaltswaren."
+          },
+          {
+            "name": "Souvenirläden bei der Rotunde",
+            "tip": "Hier finden Sie handgefertigte Spitze, Filigranschmuck und Miniaturen der Mosta-Bombe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mostai piac",
+            "tip": "Látogasson el a helyi piacra (általában hétfőnként) friss termékekért és háztartási cikkekért."
+          },
+          {
+            "name": "Ajándékboltok a Rotundánál",
+            "tip": "Kézzel készített csipkét, filigrán ékszereket és a Mosta-bomba miniatűrjeit találja itt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Mosta",
+            "tip": "Vizitați piața locală (de obicei lunea) pentru produse proaspete și articole de uz casnic."
+          },
+          {
+            "name": "Magazine de suveniruri lângă Rotondă",
+            "tip": "Găsiți dantele lucrate manual, bijuterii din filigran și miniaturi ale bombei din Mosta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mosta Market",
+            "tip": "Visit the local market (usually on Mondays) for fresh produce and household goods."
+          },
+          {
+            "name": "Souvenir Shops near the Rotunda",
+            "tip": "Find handmade lace, filigree jewelry, and miniatures of the Mosta bomb."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Achten Sie auf die Kleiderordnung in Kirchen; Schultern und Knie sollten bedeckt sein.",
+          "Die Gehwege können uneben sein, also passen Sie auf, wo Sie hintreten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban.",
+          "Ügyeljen a templomokban érvényes öltözködési szabályokra; a vállaknak és a térdeknek takarva kell lenniük.",
+          "A járdák egyenetlenek lehetnek, ezért figyeljen, hova lép."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați multă apă cu dvs., mai ales în lunile de vară.",
+          "Respectați codul vestimentar în biserici; umerii și genunchii ar trebui să fie acoperiți.",
+          "Trotuarele pot fi denivelate, așa că fiți atenți pe unde călcați."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring plenty of water, especially during the summer months.",
+          "Be mindful of the dress code in churches; shoulders and knees should be covered.",
+          "The pavements can be uneven, so watch your step."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rotunde von Mosta",
+            "hu": "Mostai Rotunda",
+            "ro": "Rotonda din Mosta",
+            "en": "Rotunda of Mosta"
+          },
+          "coords": [
+            14.4255,
+            35.9098
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Wahrzeichen von Mosta. Parken Sie Ihr Fahrrad sicher, bevor Sie hineingehen.",
+            "hu": "Kezdje a napot Mosta jelképénél. Zárja le biztonságosan a kerékpárját, mielőtt bemegy.",
+            "ro": "Începeți-vă ziua la punctul de reper al Mostei. Asigurați-vă bicicleta înainte de a intra.",
+            "en": "Start your day at Mosta's landmark. Securely park your bike before heading inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Ta' Bistra Katakomben",
+            "hu": "Ta' Bistra katakombák",
+            "ro": "Catacombele Ta' Bistra",
+            "en": "Ta' Bistra Catacombs"
+          },
+          "coords": [
+            14.422,
+            35.912
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "10:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Radtour bringt Sie zu diesem alten Ort. Eine gute Abkühlung von der Sonne.",
+            "hu": "Egy rövid biciklizés elviszi ehhez az ősi helyhez. Jó hűsölés a nap elől.",
+            "ro": "O scurtă plimbare cu bicicleta vă duce la acest sit antic. O bună răcorire de soare.",
+            "en": "A short bike ride takes you to this ancient site. A good cool-down from the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Speranza-Kapelle & Wied il-Għasel",
+            "hu": "Speranza-kápolna és a Wied il-Għasel völgy",
+            "ro": "Capela Speranza și valea Wied il-Għasel",
+            "en": "Speranza Chapel & Wied il-Għasel Valley"
+          },
+          "coords": [
+            14.415,
+            35.911
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:46",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Tal hinunter, um die in die Klippen gebaute Kapelle zu sehen. Seien Sie auf dem Rückweg auf einen Anstieg vorbereitet.",
+            "hu": "Tekerjen le a völgybe, hogy megnézze a sziklába épített kápolnát. Készüljön fel egy emelkedőre a visszaúton.",
+            "ro": "Coborâți cu bicicleta în vale pentru a vedea capela construită în stâncă. Fiți pregătiți pentru o urcare la întoarcere.",
+            "en": "Cycle down into the valley to see the cliff-side chapel. Be prepared for a climb on the way back."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Mosta",
+            "hu": "Mosta erőd",
+            "ro": "Fortul Mosta",
+            "en": "Fort Mosta"
+          },
+          "coords": [
+            14.435,
+            35.918
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour zum Fort ist eine Herausforderung, aber die Panoramaaussicht ist die Belohnung. Das Fort selbst ist nicht immer zugänglich.",
+            "hu": "Az erődhöz való biciklizés kihívást jelent, de a panorámás kilátás a jutalom. Maga az erőd nem mindig látogatható.",
+            "ro": "Plimbarea cu bicicleta până la fort este o provocare, dar priveliștile panoramice sunt recompensa. Fortul în sine nu este întotdeauna accesibil.",
+            "en": "The cycle up to the fort is a challenge, but the panoramic views are the reward. The fort itself is not always accessible."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem lokalen Café",
+            "hu": "Ebéd egy helyi kávézóban",
+            "ro": "Prânz la o cafenea locală",
+            "en": "Lunch at a local café"
+          },
+          "coords": [
+            14.428,
+            35.911
+          ],
+          "category": "gastro",
+          "arrive_at": "13:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Tanken Sie neue Energie mit einer wohlverdienten Mahlzeit. Suchen Sie nach Orten mit Fahrradständern.",
+            "hu": "Töltődjön fel energiával egy jól megérdemelt étkezéssel. Keressen biciklitárolóval rendelkező helyeket.",
+            "ro": "Refaceți-vă plinul de energie cu o masă binemeritată. Căutați locuri cu suporturi pentru biciclete.",
+            "en": "Refuel with a well-deserved meal. Look for places with bike racks."
+          }
+        },
+        {
+          "name": {
+            "de": "Cumbo Tower",
+            "hu": "Cumbo-torony",
+            "ro": "Turnul Cumbo",
+            "en": "Cumbo Tower"
+          },
+          "coords": [
+            14.427,
+            35.911
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um dieses befestigte mittelalterliche Wohnhaus von außen zu bewundern.",
+            "hu": "Egy rövid megálló, hogy kívülről megcsodálja ezt a megerősített középkori lakóházat.",
+            "ro": "O oprire scurtă pentru a admira această reședință medievală fortificată din exterior.",
+            "en": "A quick stop to admire this fortified medieval residence from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mosta Garten",
+            "hu": "Mosta Kert",
+            "ro": "Grădina Mosta",
+            "en": "Mosta Garden"
+          },
+          "coords": [
+            14.428,
+            35.908
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannten Zeit im Garten.",
+            "hu": "Fejezze be a kerékpártúrát egy pihentető időtöltéssel a kertben.",
+            "ro": "Încheiați-vă turul cu bicicleta cu un moment de relaxare în grădină.",
+            "en": "End your cycling tour with some relaxing time in the garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Springen Sie auf Ihr Fahrrad und erkunden Sie Mosta auf zwei Rädern. Nach dem obligatorischen Besuch der Rotunde radeln Sie zu den historischen Katakomben und hinunter ins malerische Wied il-Għasel-Tal. Die Herausforderung des Tages ist der Anstieg zum Fort Mosta, der mit atemberaubenden Ausblicken belohnt wird. Nach dem Mittagessen führt Sie eine sanftere Fahrt vorbei am Cumbo Tower und endet im ruhigen Mosta-Garten.",
+        "hu": "Pattanjon kerékpárra, és fedezze fel Mostát két keréken. A kötelező Rotunda látogatás után tekerjen el a történelmi katakombákhoz és le a festői Wied il-Għasel-völgybe. A nap kihívása a Mosta erődhöz való emelkedő, amelyet lélegzetelállító kilátás jutalmaz. Ebéd után egy kellemesebb út vezet el a Cumbo-torony mellett, és a csendes Mosta-kertben ér véget.",
+        "ro": "Urcați-vă pe bicicletă pentru a explora Mosta pe două roți. După vizita obligatorie la Rotondă, pedalați spre catacombele istorice și coborâți în pitoreasca vale Wied il-Għasel. Provocarea zilei este urcarea la Fortul Mosta, recompensată cu priveliști uimitoare. După prânz, o plimbare mai lejeră vă duce pe lângă Turnul Cumbo și se termină în liniștita Grădină Mosta.",
+        "en": "Hop on your bike to explore Mosta on two wheels. After the mandatory visit to the Rotunda, you'll pedal to the historic catacombs and down into the picturesque Wied il-Għasel valley. The day's challenge is the climb to Fort Mosta, rewarded with stunning views. After lunch, a gentler ride takes you past Cumbo Tower, ending in the tranquil Mosta Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kinnie & Cisk",
+            "tip": "Maltas lokale Getränke. Kinnie ist ein bittersüßer Softdrink, Cisk ein lokales Lagerbier. Perfekt zur Erfrischung."
+          },
+          {
+            "name": "Olympic Bar (Champions)",
+            "tip": "Ein beliebter lokaler Ort für schnelle und günstige Pastizzi."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "Ein traditionelles maltesisches Festmahl mit Kaninchen, das oft in ländlichen Restaurants serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kinnie és Cisk",
+            "tip": "Málta helyi italai. A Kinnie egy keserédes üdítő, a Cisk egy helyi láger sör. Tökéletes frissítő."
+          },
+          {
+            "name": "Olympic Bar (Champions)",
+            "tip": "Népszerű helyi bár a gyors és olcsó pastizziért."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "Hagyományos máltai ünnepi étel nyúlból, amelyet gyakran vidéki éttermekben szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kinnie și Cisk",
+            "tip": "Băuturile locale din Malta. Kinnie este o băutură răcoritoare dulce-amăruie, Cisk este o bere blondă locală. Perfecte pentru reîmprospătare."
+          },
+          {
+            "name": "Olympic Bar (Champions)",
+            "tip": "Un loc local popular pentru pastizzi rapide și ieftine."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "Un ospăț tradițional maltez cu iepure, adesea servit în restaurantele rurale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kinnie & Cisk",
+            "tip": "Malta's local drinks. Kinnie is a bittersweet soft drink, Cisk is a local lager. Perfect for refreshment."
+          },
+          {
+            "name": "Olympic Bar (Champions)",
+            "tip": "A popular local spot for quick and cheap pastizzi."
+          },
+          {
+            "name": "Fenkata",
+            "tip": "A traditional Maltese feast of rabbit, often served in rural restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Fort Mosta",
+            "tip": "Nach dem anstrengenden Aufstieg genießen Sie die Stille und den Panoramablick über die Insel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wied il-Għasel Talweg",
+            "tip": "Eine ruhige Radtour entlang des Tals, abseits des Verkehrs.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Frühmorgens an der Rotunde",
+            "tip": "Kommen Sie vor den Touristenbussen an, um die friedliche Atmosphäre zu erleben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Mosta erődből",
+            "tip": "A megerőltető emelkedő után élvezze a csendet és a sziget panorámáját.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wied il-Għasel völgyi út",
+            "tip": "Egy csendes kerékpárút a völgy mentén, távol a forgalomtól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a Rotundánál",
+            "tip": "Érkezzen a turistabuszok előtt, hogy megtapasztalja a békés hangulatot.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Fortul Mosta",
+            "tip": "După urcarea dificilă, bucurați-vă de liniște și de vederea panoramică asupra insulei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Traseul din valea Wied il-Għasel",
+            "tip": "O plimbare liniștită cu bicicleta de-a lungul văii, departe de trafic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme la Rotondă",
+            "tip": "Ajungeți înaintea autobuzelor turistice pentru a experimenta atmosfera pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Fort Mosta",
+            "tip": "After the tough climb, enjoy the silence and the panoramic view over the island.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wied il-Għasel valley path",
+            "tip": "A quiet cycle along the valley floor, away from the traffic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning at the Rotunda",
+            "tip": "Arrive before the tourist coaches to experience the peaceful atmosphere.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In der Umgebung von Mosta gibt es mehrere Geschäfte für eventuelle Reparaturen oder Zubehör."
+          },
+          {
+            "name": "Lokale Lebensmittelgeschäfte",
+            "tip": "Kaufen Sie Snacks und Wasser für Ihre Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Mosta környékén több üzlet is található esetleges javításokhoz vagy kiegészítőkhöz."
+          },
+          {
+            "name": "Helyi élelmiszerboltok",
+            "tip": "Vásároljon rágcsálnivalót és vizet a kerékpártúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Există mai multe magazine în zona Mosta pentru eventuale reparații sau accesorii."
+          },
+          {
+            "name": "Băcănii locale",
+            "tip": "Cumpărați gustări și apă pentru turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "There are several shops in the Mosta area for any potential repairs or accessories."
+          },
+          {
+            "name": "Local Grocers",
+            "tip": "Stock up on snacks and water for your ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und verwenden Sie Lichter, besonders auf stark befahrenen Straßen.",
+          "Der Verkehr in Malta kann chaotisch sein; fahren Sie defensiv.",
+          "Einige Hügel können steil sein. Ein E-Bike könnte eine gute Option sein.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Viseljen sisakot és használjon lámpákat, különösen a forgalmas utakon.",
+          "A máltai közlekedés kaotikus lehet; vezessen védekezően.",
+          "Néhány domb meredek lehet. Egy e-bike jó opció lehet.",
+          "Mindig zárja le a kerékpárját, amikor leparkolja."
+        ],
+        "ro": [
+          "Purtați cască și folosiți lumini, mai ales pe drumurile aglomerate.",
+          "Traficul în Malta poate fi haotic; conduceți defensiv.",
+          "Unele dealuri pot fi abrupte. O bicicletă electrică ar putea fi o opțiune bună.",
+          "Încuietăți întotdeauna bicicleta când o parcați."
+        ],
+        "en": [
+          "Wear a helmet and use lights, especially on busy roads.",
+          "Maltese traffic can be chaotic; ride defensively.",
+          "Some hills can be steep. An e-bike might be a good option.",
+          "Always lock your bike when leaving it unattended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum von Mosta",
+            "hu": "1. klaszter: Mosta történelmi központja",
+            "ro": "Cluster 1: Centrul istoric Mosta",
+            "en": "Cluster 1: Mosta Historic Centre"
+          },
+          "coords": [
+            14.426,
+            35.91
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Zentrums. Besuchen Sie zuerst die Rotunde.",
+            "hu": "Parkoljon a központ közelében. Először a Rotundát látogassa meg.",
+            "ro": "Parcați lângă centru. Vizitați mai întâi Rotonda.",
+            "en": "Park your car near the centre. Visit the Rotunda first."
+          }
+        },
+        {
+          "name": {
+            "de": "Luftschutzkeller aus dem 2. Weltkrieg",
+            "hu": "II. Világháborús Óvóhely",
+            "ro": "Adăpost antiaerian din Al Doilea Război Mondial",
+            "en": "WWII Air-Raid Shelter"
+          },
+          "coords": [
+            14.426,
+            35.909
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der Rotunde entfernt.",
+            "hu": "Csak egy rövid séta a Rotundától.",
+            "ro": "La o scurtă plimbare de Rotondă.",
+            "en": "Just a short walk from the Rotunda."
+          }
+        },
+        {
+          "name": {
+            "de": "Ta' Bistra Katakomben",
+            "hu": "Ta' Bistra katakombák",
+            "ro": "Catacombele Ta' Bistra",
+            "en": "Ta' Bistra Catacombs"
+          },
+          "coords": [
+            14.422,
+            35.912
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein 10-minütiger Spaziergang durch die Stadt führt Sie zu diesem faszinierenden Ort.",
+            "hu": "Egy 10 perces séta a városon keresztül elviszi ehhez a lenyűgöző helyhez.",
+            "ro": "O plimbare de 10 minute prin oraș vă va duce la acest sit fascinant.",
+            "en": "A 10-minute walk through the town will get you to this fascinating site."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Wied il-Għasel & Fort Mosta",
+            "hu": "2. klaszter: Wied il-Għasel és Mosta erőd",
+            "ro": "Cluster 2: Wied il-Għasel & Fortul Mosta",
+            "en": "Cluster 2: Wied il-Għasel & Fort Mosta"
+          },
+          "coords": [
+            14.415,
+            35.911
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Tal und parken Sie. Mittagessen in einem Restaurant mit Aussicht, dann Spaziergang zur Speranza-Kapelle und zum Fort.",
+            "hu": "Vezessen a völgyhöz és parkoljon le. Ebédeljen egy kilátással rendelkező étteremben, majd sétáljon el a Speranza-kápolnához és az erődítményhez.",
+            "ro": "Conduceți până la vale și parcați. Luați prânzul la un restaurant cu vedere, apoi faceți o plimbare până la Capela Speranza și fort.",
+            "en": "Drive to the valley and park. Have lunch at a restaurant with a view, then walk to Speranza Chapel and the Fort."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausklang im Mosta Garten",
+            "hu": "Levezetés a Mosta Kertben",
+            "ro": "Relaxare în Grădina Mosta",
+            "en": "Wind-down at Mosta Garden"
+          },
+          "coords": [
+            14.428,
+            35.908
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum für einen letzten entspannten Spaziergang im Park.",
+            "hu": "Vezessen vissza a központba egy utolsó, pihentető sétára a parkban.",
+            "ro": "Conduceți înapoi în centru pentru o ultimă plimbare relaxantă în parc.",
+            "en": "Drive back towards the center for a final relaxing stroll in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Flexibilität, Mosta in Clustern zu erkunden. Parken Sie im Zentrum und entdecken Sie die Rotunde, die Kriegsschutzräume und die Katakomben zu Fuß. Anschließend fahren Sie ins malerische Wied il-Għasel-Tal, wo Sie nach dem Mittagessen die Speranza-Kapelle und das beeindruckende Fort Mosta erkunden. Ihr Tag endet mit einer kurzen Fahrt zurück in die Stadt, um im Mosta-Garten zu entspannen.",
+        "hu": "Az autó rugalmasságot biztosít Mosta klaszterekben való felfedezéséhez. Parkoljon a központban, és fedezze fel gyalog a Rotundát, a háborús óvóhelyeket és a katakombákat. Ezután vezessen a festői Wied il-Għasel-völgybe, ahol ebéd után felfedezheti a Speranza-kápolnát és a lenyűgöző Mosta erődöt. A nap egy rövid autóúttal ér véget vissza a városba, hogy a Mosta-kertben pihenjen.",
+        "ro": "Cu mașina, aveți flexibilitatea de a explora Mosta în clustere. Parcați în centru și descoperiți pe jos Rotonda, adăposturile de război și catacombele. Apoi, conduceți spre pitoreasca vale Wied il-Għasel pentru prânz, urmat de explorarea Capelei Speranza și a impresionantului Fort Mosta. Ziua se încheie cu o scurtă călătorie cu mașina înapoi în oraș pentru a vă relaxa în Grădina Mosta.",
+        "en": "With a car, you have the flexibility to explore Mosta in clusters. Park in the centre and discover the Rotunda, war shelters, and catacombs on foot. Then, drive to the scenic Wied il-Għasel valley for lunch, followed by an exploration of Speranza Chapel and the impressive Fort Mosta. Your day concludes with a short drive back into town to relax in Mosta Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Lord Nelson Restaurant",
+            "tip": "Ein gehobenes Restaurant in einem historischen Gebäude, ideal für ein besonderes Mittagessen."
+          },
+          {
+            "name": "Mellows Cafe",
+            "tip": "Ein entspannter Ort für Kaffee, Kuchen oder ein leichtes Mittagessen in der Nähe der Rotunde."
+          },
+          {
+            "name": "Bäckereien am Straßenrand",
+            "tip": "Halten Sie an und kaufen Sie frisches maltesisches Brot (Ħobż tal-Malti) direkt aus dem Ofen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Lord Nelson Étterem",
+            "tip": "Egy elegáns étterem egy történelmi épületben, ideális egy különleges ebédhez."
+          },
+          {
+            "name": "Mellows Cafe",
+            "tip": "Egy laza hely kávéra, süteményre vagy egy könnyű ebédre a Rotunda közelében."
+          },
+          {
+            "name": "Útmenti pékségek",
+            "tip": "Álljon meg és vegyen friss máltai kenyeret (Ħobż tal-Malti) egyenesen a kemencéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul The Lord Nelson",
+            "tip": "Un restaurant rafinat într-o clădire istorică, ideal pentru un prânz special."
+          },
+          {
+            "name": "Mellows Cafe",
+            "tip": "Un loc relaxat pentru o cafea, o prăjitură sau un prânz ușor lângă Rotondă."
+          },
+          {
+            "name": "Brutării de pe marginea drumului",
+            "tip": "Opriți-vă și cumpărați pâine malteză proaspătă (Ħobż tal-Malti) direct din cuptor."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Lord Nelson Restaurant",
+            "tip": "An upscale dining experience in a historic building, ideal for a special lunch."
+          },
+          {
+            "name": "Mellows Cafe",
+            "tip": "A relaxed spot for coffee, cake, or a light lunch near the Rotunda."
+          },
+          {
+            "name": "Roadside Bakeries",
+            "tip": "Stop and buy fresh Maltese bread (Ħobż tal-Malti) straight from the oven."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt durch ländliche Gebiete",
+            "tip": "Genießen Sie die ruhige Landschaft auf dem Weg zwischen den Clustern.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parkplatz bei Fort Mosta",
+            "tip": "Oft menschenleer, bietet er eine großartige Aussicht und einen Moment der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Inneres der Speranza-Kapelle",
+            "tip": "Ein kleiner, friedlicher Ort für eine kurze Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a vidéki területeken",
+            "tip": "Élvezze a csendes tájat a klaszterek közötti úton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parkoló a Mosta erődnél",
+            "tip": "Gyakran üres, nagyszerű kilátást és egy pillanatnyi nyugalmat kínál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Speranza-kápolna belseje",
+            "tip": "Egy kicsi, békés hely egy rövid pihenőre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu mașina prin zonele rurale",
+            "tip": "Bucurați-vă de peisajul liniștit în timp ce conduceți între clustere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcare la Fortul Mosta",
+            "tip": "Adesea neaglomerată, oferă priveliști minunate și un moment de pace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Interiorul Capelei Speranza",
+            "tip": "Un spațiu mic și pașnic pentru o scurtă pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive through rural areas",
+            "tip": "Enjoy the quiet scenery while driving between the clusters.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fort Mosta parking area",
+            "tip": "Often deserted, it offers great views and a moment of peace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Inside Speranza Chapel",
+            "tip": "A small, peaceful space for a short break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pama Einkaufszentrum",
+            "tip": "Ein großes Einkaufszentrum am Rande von Mosta für alles, von Lebensmitteln bis Mode."
+          },
+          {
+            "name": "Keramikläden",
+            "tip": "Halten Sie Ausschau nach lokalen Handwerkern, die traditionelle maltesische Keramik verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pama Bevásárlóközpont",
+            "tip": "Egy nagy bevásárlóközpont Mosta szélén, ahol élelmiszertől a divatig mindent megtalál."
+          },
+          {
+            "name": "Kerámiaüzletek",
+            "tip": "Keresse a helyi kézműveseket, akik hagyományos máltai kerámiát árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Pama",
+            "tip": "Un mare centru comercial la marginea orașului Mosta pentru orice, de la alimente la modă."
+          },
+          {
+            "name": "Magazine de ceramică",
+            "tip": "Căutați artizani locali care vând ceramică tradițională malteză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pama Shopping Village",
+            "tip": "A large shopping mall on the outskirts of Mosta for everything from groceries to fashion."
+          },
+          {
+            "name": "Pottery Shops",
+            "tip": "Look out for local artisans selling traditional Maltese pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum von Mosta kann schwierig sein. Seien Sie geduldig oder nutzen Sie ausgewiesene Parkplätze.",
+          "Die Straßen in Malta sind eng und der Verkehr kann intensiv sein.",
+          "Verwenden Sie eine GPS-App zur Navigation.",
+          "Achten Sie auf Einbahnstraßen im Stadtzentrum."
+        ],
+        "hu": [
+          "A parkolás Mosta központjában nehézkes lehet. Legyen türelmes, vagy használja a kijelölt parkolókat.",
+          "Az utak Máltán szűkek, és a forgalom intenzív lehet.",
+          "Használjon GPS-alkalmazást a navigációhoz.",
+          "Figyeljen az egyirányú utcákra a városközpontban."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului Mosta poate fi dificilă. Aveți răbdare sau folosiți parcările desemnate.",
+          "Străzile din Malta sunt înguste, iar traficul poate fi intens.",
+          "Folosiți o aplicație GPS pentru navigație.",
+          "Fiți atenți la străzile cu sens unic din centrul orașului."
+        ],
+        "en": [
+          "Parking in the centre of Mosta can be difficult. Be patient or use designated car parks.",
+          "Roads in Malta are narrow and traffic can be intense.",
+          "Use a GPS app for navigation.",
+          "Be aware of one-way streets in the town centre."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 7.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft & Mosta Zentrum",
+            "hu": "1. klaszter: Érkezés és Mosta központja",
+            "ro": "Cluster 1: Sosire și centrul Mosta",
+            "en": "Cluster 1: Arrival & Mosta Centre"
+          },
+          "coords": [
+            14.4255,
+            35.9098
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus nach 'Mosta Rotunda'. Die Haltestelle ist direkt im Zentrum. Besuchen Sie die Kirche.",
+            "hu": "Menjen busszal a „Mosta Rotunda” megállóig. A megálló közvetlenül a központban van. Látogassa meg a templomot.",
+            "ro": "Luați un autobuz până la stația 'Mosta Rotunda'. Stația este chiar în centru. Vizitați biserica.",
+            "en": "Take a bus to 'Mosta Rotunda'. The stop is right in the centre. Visit the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Luftschutzkeller aus dem 2. Weltkrieg",
+            "hu": "II. Világháborús Óvóhely",
+            "ro": "Adăpost antiaerian din Al Doilea Război Mondial",
+            "en": "WWII Air-Raid Shelter"
+          },
+          "coords": [
+            14.426,
+            35.909
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein sehr kurzer Spaziergang von der Rotunde entfernt.",
+            "hu": "Egy nagyon rövid séta a Rotundától.",
+            "ro": "O plimbare foarte scurtă de la Rotondă.",
+            "en": "A very short walk from the Rotunda."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Ta' Bistra & Mittagessen",
+            "hu": "2. klaszter: Ta' Bistra és ebéd",
+            "ro": "Cluster 2: Ta' Bistra și prânz",
+            "en": "Cluster 2: Ta' Bistra & Lunch"
+          },
+          "coords": [
+            14.422,
+            35.912
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:00",
+          "stay_min": 140,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Haltestelle 'Bistra'. Besichtigen Sie die Katakomben und essen Sie in der Nähe zu Mittag.",
+            "hu": "Menjen busszal a „Bistra” megállóig. Látogassa meg a katakombákat, és ebédeljen a közelben.",
+            "ro": "Luați un autobuz până la stația 'Bistra'. Vizitați catacombele și luați prânzul în apropiere.",
+            "en": "Take a bus to the 'Bistra' stop. Visit the catacombs and have lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Wied il-Għasel Tal",
+            "hu": "3. klaszter: Wied il-Għasel-völgy",
+            "ro": "Cluster 3: Valea Wied il-Għasel",
+            "en": "Cluster 3: Wied il-Għasel Valley"
+          },
+          "coords": [
+            14.415,
+            35.911
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt bringt Sie in die Nähe des Tals. Ein Spaziergang führt Sie zur Speranza-Kapelle.",
+            "hu": "Egy újabb rövid buszút elviszi a völgy közelébe. Egy séta elvezet a Speranza-kápolnához.",
+            "ro": "O altă călătorie scurtă cu autobuzul vă va aduce aproape de vale. O plimbare vă va duce la Capela Speranza.",
+            "en": "Another short bus ride will get you near the valley. A walk will take you to the Speranza Chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum & Gärten",
+            "hu": "Vissza a központba és a kertekbe",
+            "ro": "Întoarcere în centru și grădini",
+            "en": "Return to Centre & Gardens"
+          },
+          "coords": [
+            14.428,
+            35.908
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück zur Rotunde und entspannen Sie sich im Mosta-Garten, bevor Sie abreisen.",
+            "hu": "Menjen busszal vissza a Rotundához, és pihenjen a Mosta-kertben, mielőtt elindulna.",
+            "ro": "Luați un autobuz înapoi la Rotondă și relaxați-vă în Grădina Mosta înainte de a pleca.",
+            "en": "Take a bus back to the Rotunda and relax in Mosta Garden before you depart."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mosta lässt sich hervorragend mit öffentlichen Verkehrsmitteln erkunden. Beginnen Sie im Zentrum bei der Rotunde. Ein kurzer Spaziergang führt zu den Kriegsschutzräumen. Nehmen Sie dann einen Bus zu den Ta' Bistra Katakomben für Ihren zweiten Besichtigungscluster. Eine weitere kurze Fahrt bringt Sie in die Nähe des friedlichen Wied il-Għasel-Tals. Schließlich kehren Sie ins Zentrum zurück, um im Mosta-Garten zu entspannen, bevor Sie Ihre Heimreise antreten.",
+        "hu": "Mosta kiválóan felfedezhető tömegközlekedéssel. Kezdje a központban, a Rotundánál. Egy rövid séta elvezet a háborús óvóhelyekhez. Ezután szálljon buszra a Ta' Bistra katakombákhoz a második látnivaló-klaszterhez. Egy újabb rövid út elviszi a békés Wied il-Għasel-völgy közelébe. Végül térjen vissza a központba, hogy pihenjen a Mosta-kertben, mielőtt hazaindulna.",
+        "ro": "Mosta este excelent de explorat cu transportul public. Începeți în centru, la Rotondă. O scurtă plimbare vă duce la adăposturile de război. Apoi, luați un autobuz spre Catacombele Ta' Bistra pentru al doilea cluster de vizitare. O altă călătorie scurtă vă aduce aproape de pașnica vale Wied il-Għasel. În cele din urmă, reveniți în centru pentru a vă relaxa în Grădina Mosta înainte de a pleca.",
+        "en": "Mosta is excellent to explore using public transport. Start in the centre at the Rotunda. A short walk takes you to the war shelters. Then, hop on a bus to the Ta' Bistra Catacombs for your second cluster of sightseeing. Another short ride gets you near the peaceful Wied il-Għasel valley. Finally, return to the centre to relax in Mosta Garden before you head home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Imbissbuden",
+            "tip": "Perfekt für einen schnellen Happen zwischen den Busfahrten. Probieren Sie Qassatat (kleine Pasteten)."
+          },
+          {
+            "name": "Cafés am Hauptplatz",
+            "tip": "Beobachten Sie das Treiben, während Sie auf Ihren nächsten Bus warten."
+          },
+          {
+            "name": "Il-Kċina tar-Ramla",
+            "tip": "Ein Restaurant, das für seine authentische maltesische Küche bekannt ist und mit dem Bus erreichbar ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi büfék",
+            "tip": "Tökéletes egy gyors falatra a buszozások között. Kóstolja meg a Qassatat-ot (kis piték)."
+          },
+          {
+            "name": "Kávézók a főtéren",
+            "tip": "Nézze a nyüzsgést, miközben a következő buszra vár."
+          },
+          {
+            "name": "Il-Kċina tar-Ramla",
+            "tip": "Egy étterem, amely autentikus máltai konyhájáról ismert és busszal is elérhető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri locale de mâncare",
+            "tip": "Perfect pentru o gustare rapidă între călătoriile cu autobuzul. Încercați Qassatat (plăcinte mici)."
+          },
+          {
+            "name": "Cafenele din piața principală",
+            "tip": "Priviți agitația în timp ce așteptați următorul autobuz."
+          },
+          {
+            "name": "Il-Kċina tar-Ramla",
+            "tip": "Un restaurant cunoscut pentru bucătăria sa autentică malteză, accesibil cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local snack bars",
+            "tip": "Perfect for a quick bite between bus rides. Try Qassatat (small pies)."
+          },
+          {
+            "name": "Cafés on the main square",
+            "tip": "Watch the world go by while waiting for your next bus."
+          },
+          {
+            "name": "Il-Kċina tar-Ramla",
+            "tip": "A restaurant known for its authentic Maltese cuisine, accessible by bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage des Busses",
+            "tip": "Ergatten Sie einen Platz vorne für eine großartige Aussicht auf die Landschaft.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang im Wied il-Għasel",
+            "tip": "Ein ruhiger Spaziergang abseits der Hauptstraßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ta' Bistra Katakomben",
+            "tip": "Die unterirdische Stille ist eine willkommene Abwechslung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A busz emelete",
+            "tip": "Szerezzen egy helyet elöl a táj nagyszerű kilátásáért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Wied il-Għaselben",
+            "tip": "Egy csendes séta a főutaktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ta' Bistra katakombák",
+            "tip": "A földalatti csend kellemes felüdülést nyújt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al autobuzului",
+            "tip": "Prindeți un loc în față pentru o priveliște minunată asupra peisajului rural.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare în Wied il-Għasel",
+            "tip": "O plimbare liniștită departe de drumurile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Catacombele Ta' Bistra",
+            "tip": "Liniștea subterană este o pauză binevenită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of the bus",
+            "tip": "Grab a seat at the front for a great view of the countryside.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk in Wied il-Għasel",
+            "tip": "A quiet walk away from the main roads.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ta' Bistra Catacombs",
+            "tip": "The underground silence is a welcome break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Kaufen Sie Getränke und Zeitschriften, während Sie warten."
+          },
+          {
+            "name": "Handwerksläden im Zentrum",
+            "tip": "Unterstützen Sie lokale Künstler, indem Sie ein einzigartiges Souvenir kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Vásároljon italokat és újságokat, amíg vár."
+          },
+          {
+            "name": "Kézműves boltok a központban",
+            "tip": "Támogassa a helyi művészeket egy egyedi szuvenír megvásárlásával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la stațiile de autobuz",
+            "tip": "Cumpărați băuturi și reviste în timp ce așteptați."
+          },
+          {
+            "name": "Magazine de artizanat în centru",
+            "tip": "Susțineți artiștii locali cumpărând un suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "Buy drinks and magazines while you wait."
+          },
+          {
+            "name": "Craft shops in the centre",
+            "tip": "Support local artists by buying a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tallinja Card für unbegrenzte Fahrten.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, da sie variieren können.",
+          "Die Busse können zur Stoßzeit voll sein, planen Sie also zusätzliche Zeit ein.",
+          "Winken Sie dem Busfahrer, damit er für Sie anhält."
+        ],
+        "hu": [
+          "Vásároljon Tallinja kártyát a korlátlan utazáshoz.",
+          "Ellenőrizze előre a buszmenetrendeket, mivel azok változhatnak.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, ezért tervezzen plusz időt.",
+          "Intsen a buszsofőrnek, hogy megálljon Önnek."
+        ],
+        "ro": [
+          "Cumpărați un card Tallinja pentru călătorii nelimitate.",
+          "Verificați orarele autobuzelor în avans, deoarece pot varia.",
+          "Autobuzele pot fi aglomerate la orele de vârf, așa că alocați timp suplimentar.",
+          "Faceți semn șoferului de autobuz pentru a opri."
+        ],
+        "en": [
+          "Buy a Tallinja Card for unlimited travel.",
+          "Check bus schedules in advance as they can vary.",
+          "Buses can be crowded during peak hours, so allow extra time.",
+          "Wave at the bus driver to signal for them to stop for you."
+        ]
+      }
+    }
+  }
+}

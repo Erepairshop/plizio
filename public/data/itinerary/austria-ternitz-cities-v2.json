@@ -1,0 +1,1036 @@
+{
+  "city_id": "austria-ternitz-cities-v2",
+  "anchor": {
+    "name": "Ternitz",
+    "coords": [
+      47.7122,
+      16.0358
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pfarrkirche Ternitz",
+            "hu": "Ternitzi plébániatemplom",
+            "ro": "Biserica parohială din Ternitz",
+            "en": "Parish Church of Ternitz"
+          },
+          "coords": [
+            16.0371,
+            47.7135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die modernen Glasfenster, die einen Kontrast zur traditionellen Architektur bilden.",
+            "hu": "Figyelje meg a modern ólomüveg ablakokat, melyek kontrasztot alkotnak a hagyományos építészettel.",
+            "ro": "Observați vitraliile moderne care contrastează cu arhitectura tradițională.",
+            "en": "Notice the modern stained-glass windows, which contrast with the traditional architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Ternitz",
+            "hu": "Ternitzi udvarház",
+            "ro": "Conacul din Ternitz",
+            "en": "Ternitz Manor House"
+          },
+          "coords": [
+            16.0395,
+            47.7142
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Gebäude ist heute ein Kulturzentrum; prüfen Sie den lokalen Veranstaltungskalender.",
+            "hu": "Az épület ma kulturális központ; ellenőrizze a helyi eseménynaptárat.",
+            "ro": "Clădirea este acum un centru cultural; verificați calendarul local de evenimente.",
+            "en": "The building is now a cultural center; check the local event calendar."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Ternitz",
+            "hu": "Ternitzi Kultúrház",
+            "ro": "Casa de Cultură Ternitz",
+            "en": "Ternitz Culture House"
+          },
+          "coords": [
+            16.0411,
+            47.7128
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hier finden oft Konzerte und Theateraufführungen statt, ideal für einen Abendausklang.",
+            "hu": "Gyakran tartanak itt koncerteket és színházi előadásokat, ideális esti program.",
+            "ro": "Aici au loc adesea concerte și piese de teatru, ideale pentru o seară culturală.",
+            "en": "Concerts and plays are often held here, perfect for an evening's entertainment."
+          }
+        },
+        {
+          "name": {
+            "de": "Stahlstadtmuseum",
+            "hu": "Acélváros Múzeum",
+            "ro": "Muzeul Orașului de Oțel",
+            "en": "Steel Town Museum"
+          },
+          "coords": [
+            16.0435,
+            47.7155
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fokus auf die industrielle Geschichte der Region – sehr anschaulich und informativ.",
+            "hu": "A régió ipari történelmére összpontosít - nagyon szemléletes és informatív.",
+            "ro": "Se concentrează pe istoria industrială a regiunii - foarte vizual și informativ.",
+            "en": "Focuses on the industrial history of the region – very visual and informative."
+          }
+        },
+        {
+          "name": {
+            "de": "Robert-Hamerling-Park",
+            "hu": "Robert Hamerling Park",
+            "ro": "Parcul Robert Hamerling",
+            "en": "Robert Hamerling Park"
+          },
+          "coords": [
+            16.038,
+            47.708
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Mittagspause. Bringen Sie ein Picknick mit!",
+            "hu": "Szép hely egy ebédszünethez. Hozzon magával piknikkosarat!",
+            "ro": "Un loc frumos pentru o pauză de prânz. Aduceți un picnic!",
+            "en": "A lovely spot for a lunch break. Bring a picnic!"
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pottschach",
+            "hu": "Pottschachi kastély",
+            "ro": "Castelul Pottschach",
+            "en": "Pottschach Castle"
+          },
+          "coords": [
+            16.021,
+            47.719
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Privatbesitz, aber die Außenansicht und der Spaziergang um das Gelände lohnen sich.",
+            "hu": "Magántulajdon, de a külső látvány és a környéken tett séta megéri.",
+            "ro": "Proprietate privată, dar priveliștea exterioară și plimbarea în jur merită.",
+            "en": "Privately owned, but the exterior view and the walk around the grounds are worthwhile."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Ternitz bei der Pfarrkirche, einem spirituellen und architektonischen Zentrum. Spazieren Sie dann zum Herrenhaus und zum Kulturhaus, um einen Einblick in das lokale Kulturleben zu bekommen. Am Mittag tauchen Sie im Stahlstadtmuseum in die industrielle Vergangenheit der Stadt ein. Erkunden Sie die reiche Geschichte, die Ternitz geprägt hat. Der Nachmittag ist der Entspannung im Robert-Hamerling-Park gewidmet, gefolgt von einem Spaziergang zum imposanten Schloss Pottschach. Lassen Sie den Tag mit einem gemütlichen Abendessen in einem der lokalen Gasthäuser ausklingen und genießen Sie die niederösterreichische Gastfreundschaft.",
+        "hu": "Kezdje a napot Ternitz szívében, a plébániatemplomnál, amely egy spirituális és építészeti központ. Sétáljon át az udvarházhoz és a kultúrházhoz, hogy bepillantást nyerjen a helyi kulturális életbe. Délben merüljön el a város ipari múltjában az Acélváros Múzeumban. Fedezze fel Ternitz gazdag történelmét. A délutánt a Robert Hamerling Parkban való pihenésnek szentelje, majd tegyen egy sétát a lenyűgöző Pottschach kastélyhoz. Zárja a napot egy kellemes vacsorával az egyik helyi vendéglőben, és élvezze az alsó-ausztriai vendégszeretetet.",
+        "ro": "Începeți ziua în inima orașului Ternitz la Biserica Parohială, un centru spiritual și arhitectural. Plimbați-vă apoi spre Conac și Casa de Cultură pentru a vă face o idee despre viața culturală locală. La prânz, cufundați-vă în trecutul industrial al orașului la Muzeul Orașului de Oțel. Explorați istoria bogată care a modelat Ternitz. După-amiaza este dedicată relaxării în Parcul Robert Hamerling, urmată de o plimbare până la impunătorul Castel Pottschach. Încheiați ziua cu o cină relaxantă la unul dintre hanurile locale, bucurându-vă de ospitalitatea Austriei Inferioare.",
+        "en": "Start your day in the heart of Ternitz at the Parish Church, a spiritual and architectural hub. Then, stroll to the Manor House and the Culture House to get a feel for the local cultural life. At noon, delve into the city's industrial past at the Steel Town Museum. Explore the rich history that has shaped Ternitz. The afternoon is for relaxing in Robert Hamerling Park, followed by a walk to the imposing Pottschach Castle. End the day with a cozy dinner at a local inn, enjoying the Lower Austrian hospitality."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthaus Singer",
+            "tip": "Probieren Sie das klassische Wiener Schnitzel in einer gemütlichen Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthaus Singer",
+            "tip": "Kóstolja meg a klasszikus bécsi szeletet egy hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthaus Singer",
+            "tip": "Încercați clasicul Wiener Schnitzel într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthaus Singer",
+            "tip": "Try the classic Wiener Schnitzel in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Schwarza",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, um dem städtischen Trubel zu entkommen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Schwarza folyó partja",
+            "tip": "Egy csendes séta a folyó mentén, hogy elmeneküljön a városi nyüzsgéstől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Schwarza",
+            "tip": "O plimbare liniștită de-a lungul râului pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Schwarza River",
+            "tip": "A quiet walk along the river to escape the urban hustle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Ternitz",
+            "tip": "Finden Sie freitags lokale Produkte und Handwerkskunst auf dem Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ternitzi heti piac",
+            "tip": "Péntekenként a főtéren helyi termékeket és kézműves árukat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Ternitz",
+            "tip": "Găsiți produse locale și artizanat în piața principală vinerea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ternitz Weekly Market",
+            "tip": "Find local produce and crafts in the main square on Fridays."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Einige Wege können uneben sein, besonders um das Schloss.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Ellenőrizze előre a múzeum nyitvatartási idejét.",
+          "Néhány ösvény egyenetlen lehet, különösen a kastély körül.",
+          "Hozzon magával újratölthető vizes palackot."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți sta în picioare toată ziua.",
+          "Verificați programul de funcționare al muzeului în avans.",
+          "Unele cărări pot fi denivelate, mai ales în jurul castelului.",
+          "Luați cu dvs. o sticlă de apă reutilizabilă."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet all day.",
+          "Check the museum's opening hours in advance.",
+          "Some paths can be uneven, especially around the castle.",
+          "Bring a reusable water bottle."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gfieder-Warte",
+            "hu": "Gfieder kilátó",
+            "ro": "Turnul de observație Gfieder",
+            "en": "Gfieder Observation Tower"
+          },
+          "coords": [
+            16.0205,
+            47.7312
+          ],
+          "category": "natural features",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die Panoramaaussicht über das Schwarzatal ist es wert.",
+            "hu": "Az emelkedő meredek, de a panorámás kilátás a Schwarza-völgyre megéri.",
+            "ro": "Urcușul este abrupt, dar vederea panoramică asupra Văii Schwarza merită efortul.",
+            "en": "The climb is steep, but the panoramic view over the Schwarza Valley is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Stixenstein",
+            "hu": "Stixensteini kastély",
+            "ro": "Castelul Stixenstein",
+            "en": "Stixenstein Castle"
+          },
+          "coords": [
+            15.989,
+            47.745
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Burg ist oft für Veranstaltungen geöffnet. Informieren Sie sich über den Zeitplan.",
+            "hu": "A vár gyakran nyitva áll rendezvények előtt. Tájékozódjon a programról.",
+            "ro": "Castelul este adesea deschis pentru evenimente. Verificați programul.",
+            "en": "The castle is often open for events. Check the schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pottschach",
+            "hu": "Pottschachi kastély",
+            "ro": "Castelul Pottschach",
+            "en": "Pottschach Castle"
+          },
+          "coords": [
+            16.021,
+            47.719
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine kurze Pause und ein Foto auf dem Weg zurück in die Stadt.",
+            "hu": "Tökéletes egy rövid pihenőre és egy fotóra a városba visszavezető úton.",
+            "ro": "Perfect pentru o scurtă pauză și o fotografie în drum spre oraș.",
+            "en": "Perfect for a quick break and a photo on your way back into town."
+          }
+        },
+        {
+          "name": {
+            "de": "Stahlstadtmuseum",
+            "hu": "Acélváros Múzeum",
+            "ro": "Muzeul Orașului de Oțel",
+            "en": "Steel Town Museum"
+          },
+          "coords": [
+            16.0435,
+            47.7155
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie in die lokale Industriegeschichte ein.",
+            "hu": "Biztonságosan zárja le a kerékpárját, és merüljön el a helyi ipartörténetben.",
+            "ro": "Parcați-vă bicicleta în siguranță și cufundați-vă în istoria industrială locală.",
+            "en": "Securely park your bike and immerse yourself in the local industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Robert-Hamerling-Park",
+            "hu": "Robert Hamerling Park",
+            "ro": "Parcul Robert Hamerling",
+            "en": "Robert Hamerling Park"
+          },
+          "coords": [
+            16.038,
+            47.708
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der ideale Ort, um die Radtour ausklingen zu lassen und die Beine auszustrecken.",
+            "hu": "Ideális hely a kerékpártúra befejezéséhez és a lábak kinyújtóztatásához.",
+            "ro": "Locul ideal pentru a încheia turul cu bicicleta și a vă întinde picioarele.",
+            "en": "The ideal place to end your bike tour and stretch your legs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit einem anspruchsvollen Anstieg zur Gfieder-Warte, wo Sie mit einer atemberaubenden Aussicht belohnt werden. Von dort aus radeln Sie weiter zum historischen Schloss Stixenstein, ein perfekter Ort für eine längere Pause und Erkundung. Mittags machen Sie sich auf den Weg zurück Richtung Stadt und legen am Schloss Pottschach eine kurze Fotopause ein, bevor Sie das Stahlstadtmuseum erreichen. Verbringen Sie den frühen Nachmittag damit, in die industrielle Seele von Ternitz einzutauchen. Schließen Sie Ihre Tour mit einer entspannten Zeit im Robert-Hamerling-Park ab, wo Sie sich von den Anstrengungen des Tages erholen können.",
+        "hu": "Kezdje a kerékpártúrát egy kihívást jelentő emelkedővel a Gfieder-kilátóhoz, ahol lélegzetelállító kilátásban lesz része. Onnan tekerjen tovább a történelmi Stixenstein kastélyhoz, amely tökéletes hely egy hosszabb pihenőre és felfedezésre. Délben induljon vissza a város felé, és tartson egy rövid fotószünetet a Pottschach kastélynál, mielőtt elérné az Acélváros Múzeumot. Töltse a kora délutánt Ternitz ipari lelkének felfedezésével. Zárja a túrát egy pihentető időtöltéssel a Robert Hamerling Parkban, ahol kipihenheti a nap fáradalmait.",
+        "ro": "Începeți turul cu bicicleta cu o urcare provocatoare la Turnul de observație Gfieder, unde veți fi răsplătit cu o priveliște uluitoare. De acolo, pedalați spre istoricul Castel Stixenstein, un loc perfect pentru o pauză mai lungă și explorare. La prânz, porniți înapoi spre oraș și faceți o scurtă oprire pentru fotografii la Castelul Pottschach înainte de a ajunge la Muzeul Orașului de Oțel. Petreceți începutul după-amiezii explorând sufletul industrial al orașului Ternitz. Încheiați turul cu un moment de relaxare în Parcul Robert Hamerling, unde vă puteți recupera după eforturile zilei.",
+        "en": "Begin your bike tour with a challenging climb to the Gfieder Observation Tower, where you'll be rewarded with a breathtaking view. From there, cycle onward to the historic Stixenstein Castle, a perfect spot for a longer break and exploration. At noon, head back towards the city, making a quick photo stop at Pottschach Castle before reaching the Steel Town Museum. Spend the early afternoon diving into the industrial soul of Ternitz. Conclude your tour with some relaxing time in Robert Hamerling Park, where you can recover from the day's efforts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heuriger",
+            "tip": "Suchen Sie nach einem lokalen Heurigen für eine Jause und ein Glas Wein aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heuriger (borozó)",
+            "tip": "Keressen egy helyi borozót egy uzsonnára és egy pohár helyi borra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuriger (tavernă de vin)",
+            "tip": "Căutați o tavernă locală pentru o gustare și un pahar de vin regional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heuriger (wine tavern)",
+            "tip": "Look for a local wine tavern for a snack and a glass of regional wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gfieder-Warte",
+            "tip": "Oben angekommen, ist die Ruhe und der weite Blick über die Landschaft unbezahlbar.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gfieder-kilátó",
+            "tip": "Miután felért, a csend és a tájra nyíló széles kilátás megfizethetetlen.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul de observație Gfieder",
+            "tip": "Odată ajuns în vârf, liniștea și priveliștea panoramică asupra peisajului sunt de neprețuit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gfieder Observation Tower",
+            "tip": "Once at the top, the peace and the wide view over the landscape are priceless.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Entlang der Radwege finden sich oft kleine Hofläden mit regionalen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "A kerékpárutak mentén gyakran találhatók kis boltok regionális specialitásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă locale",
+            "tip": "De-a lungul pistelor de biciclete, veți găsi adesea mici magazine de fermă cu specialități regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local farm shops",
+            "tip": "Along the bike paths, you'll often find small farm shops with regional specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike kann bei den Steigungen hilfreich sein.",
+          "Tragen Sie einen Helm und nehmen Sie ein Reparaturset mit.",
+          "Der Radweg entlang der Schwarza ist eine flachere Alternative.",
+          "Planen Sie Pausen ein, um die Landschaft zu genießen."
+        ],
+        "hu": [
+          "Egy e-bike segíthet az emelkedőkön.",
+          "Viseljen sisakot és vigyen magával javítókészletet.",
+          "A Schwarza menti kerékpárút egy síkabb alternatíva.",
+          "Tervezzen be szüneteket a táj élvezetéhez."
+        ],
+        "ro": [
+          "O bicicletă electrică poate fi de ajutor pe pante.",
+          "Purtați cască și luați un kit de reparații.",
+          "Pista de biciclete de-a lungul râului Schwarza este o alternativă mai plată.",
+          "Planificați pauze pentru a vă bucura de peisaj."
+        ],
+        "en": [
+          "An e-bike can be helpful on the inclines.",
+          "Wear a helmet and bring a repair kit.",
+          "The cycle path along the Schwarza river is a flatter alternative.",
+          "Plan for breaks to enjoy the scenery."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Stixenstein",
+            "hu": "Stixensteini kastély",
+            "ro": "Castelul Stixenstein",
+            "en": "Stixenstein Castle"
+          },
+          "coords": [
+            15.989,
+            47.745
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Fuße des Hügels und genießen Sie den Spaziergang hinauf zur Burg.",
+            "hu": "Parkoljon a domb lábánál, és élvezze a sétát fel a várhoz.",
+            "ro": "Parcați la poalele dealului și bucurați-vă de plimbarea până la castel.",
+            "en": "Park at the bottom of the hill and enjoy the walk up to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Gfieder-Warte",
+            "hu": "Gfieder kilátó",
+            "ro": "Turnul de observație Gfieder",
+            "en": "Gfieder Observation Tower"
+          },
+          "coords": [
+            16.0205,
+            47.7312
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Parkplatz Stixenstein aus ist es eine kurze Wanderung zum Aussichtsturm.",
+            "hu": "A Stixenstein parkolóból egy rövid túra vezet a kilátótoronyhoz.",
+            "ro": "De la parcarea Stixenstein, este o scurtă drumeție până la turnul de observație.",
+            "en": "From the Stixenstein parking lot, it's a short hike to the observation tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pottschach",
+            "hu": "Pottschachi kastély",
+            "ro": "Castelul Pottschach",
+            "en": "Pottschach Castle"
+          },
+          "coords": [
+            16.021,
+            47.719
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein schöner Zwischenstopp für Fotos. Parkmöglichkeiten sind in der Nähe vorhanden.",
+            "hu": "Szép megálló fotózáshoz. Parkolási lehetőségek a közelben rendelkezésre állnak.",
+            "ro": "O oprire frumoasă pentru fotografii. Există locuri de parcare în apropiere.",
+            "en": "A nice stopover for photos. Parking is available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Stahlstadtmuseum",
+            "hu": "Acélváros Múzeum",
+            "ro": "Muzeul Orașului de Oțel",
+            "en": "Steel Town Museum"
+          },
+          "coords": [
+            16.0435,
+            47.7155
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und erkunden Sie das Museum zu Fuß.",
+            "hu": "Parkoljon a központban, és fedezze fel a múzeumot gyalog.",
+            "ro": "Parcați în centru și explorați muzeul pe jos.",
+            "en": "Park in the center and explore the museum on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Ternitz",
+            "hu": "Ternitzi plébániatemplom",
+            "ro": "Biserica parohială din Ternitz",
+            "en": "Parish Church of Ternitz"
+          },
+          "coords": [
+            16.0371,
+            47.7135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Museum aus ist es nur ein kurzer Spaziergang zur Kirche.",
+            "hu": "A múzeumtól csak egy rövid séta a templom.",
+            "ro": "De la muzeu este doar o scurtă plimbare până la biserică.",
+            "en": "It's just a short walk from the museum to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Robert-Hamerling-Park",
+            "hu": "Robert Hamerling Park",
+            "ro": "Parcul Robert Hamerling",
+            "en": "Robert Hamerling Park"
+          },
+          "coords": [
+            16.038,
+            47.708
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss des Tages, bevor Sie zurück zum Auto gehen.",
+            "hu": "Tökéletes befejezése a napnak, mielőtt visszamenne az autóhoz.",
+            "ro": "Finalul perfect al zilei înainte de a vă întoarce la mașină.",
+            "en": "The perfect end to the day before heading back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt zum Schloss Stixenstein, wo Sie parken. Erkunden Sie die Burg und genießen Sie die Aussicht von der nahegelegenen Gfieder-Warte bei einer kurzen Wanderung. Mittags fahren Sie zum Schloss Pottschach für einen Fotostopp, bevor Sie Ihr Auto im Zentrum von Ternitz abstellen. Erkunden Sie den Stadtkern zu Fuß: Besuchen Sie das Stahlstadtmuseum, um in die Industriegeschichte einzutauchen, und bewundern Sie die Architektur der Pfarrkirche. Beenden Sie Ihren Nachmittag mit einem entspannenden Spaziergang durch den Robert-Hamerling-Park, bevor Sie die Heimreise antreten.",
+        "hu": "Kezdje a napot egy autózással a Stixenstein kastélyhoz, ahol leparkol. Fedezze fel a várat, és élvezze a kilátást a közeli Gfieder-kilátóból egy rövid túra során. Délben vezessen a Pottschach kastélyhoz egy fotómegállóra, mielőtt leparkolná autóját Ternitz központjában. Fedezze fel a városközpontot gyalog: látogasson el az Acélváros Múzeumba, hogy elmerüljön az ipartörténetben, és csodálja meg a plébániatemplom építészetét. Zárja a délutánt egy pihentető sétával a Robert Hamerling Parkban, mielőtt hazaindulna.",
+        "ro": "Începeți ziua cu o călătorie cu mașina la Castelul Stixenstein, unde parcați. Explorați castelul și bucurați-vă de priveliștea de la Turnul de observație Gfieder din apropiere, printr-o scurtă drumeție. La prânz, conduceți la Castelul Pottschach pentru o oprire foto înainte de a parca mașina în centrul orașului Ternitz. Explorați centrul orașului pe jos: vizitați Muzeul Orașului de Oțel pentru a vă cufunda în istoria industrială și admirați arhitectura Bisericii Parohiale. Încheiați după-amiaza cu o plimbare relaxantă prin Parcul Robert Hamerling înainte de a vă întoarce acasă.",
+        "en": "Start your day with a drive to Stixenstein Castle, where you'll park. Explore the castle and enjoy the view from the nearby Gfieder Observation Tower on a short hike. At noon, drive to Pottschach Castle for a photo stop before parking your car in the center of Ternitz. Explore the town center on foot: visit the Steel Town Museum to delve into industrial history and admire the architecture of the Parish Church. End your afternoon with a relaxing stroll through Robert Hamerling Park before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Landgasthof am Schlossberg",
+            "tip": "Genießen Sie regionale Küche mit Blick auf eines der Schlösser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Landgasthof am Schlossberg",
+            "tip": "Élvezze a regionális konyhát az egyik kastélyra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Landgasthof am Schlossberg",
+            "tip": "Bucurați-vă de bucătăria regională cu vedere la unul dintre castele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Landgasthof am Schlossberg",
+            "tip": "Enjoy regional cuisine with a view of one of the castles."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wanderwege um Stixenstein",
+            "tip": "Die Wälder rund um das Schloss bieten zahlreiche ruhige Wege für einen Spaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Túraútvonalak Stixenstein körül",
+            "tip": "A kastély körüli erdők számos csendes ösvényt kínálnak egy sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trasee de drumeție în jurul Stixenstein",
+            "tip": "Pădurile din jurul castelului oferă numeroase poteci liniștite pentru o plimbare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hiking trails around Stixenstein",
+            "tip": "The forests around the castle offer numerous quiet paths for a walk.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Manufakturen",
+            "tip": "Achten Sie auf Schilder, die auf lokale Produzenten von Honig oder Schnaps hinweisen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Regionális manufaktúrák",
+            "tip": "Figyelje a táblákat, amelyek helyi méz- vagy pálinkatermelőkre utalnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Producători locali",
+            "tip": "Fiți atenți la indicatoarele care semnalează producătorii locali de miere sau rachiu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional manufacturers",
+            "tip": "Look out for signs pointing to local producers of honey or schnapps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Navigationssystem ist für die Fahrt zwischen den Schlössern nützlich.",
+          "Prüfen Sie die Parkmöglichkeiten und eventuelle Gebühren im Voraus.",
+          "Kombinieren Sie Auto- und Gehstrecken für das beste Erlebnis.",
+          "Beachten Sie, dass einige Straßen eng sein können."
+        ],
+        "hu": [
+          "Navigációs rendszer hasznos a kastélyok közötti utazáshoz.",
+          "Ellenőrizze előre a parkolási lehetőségeket és az esetleges díjakat.",
+          "Kombinálja az autós és gyalogos szakaszokat a legjobb élmény érdekében.",
+          "Vegye figyelembe, hogy néhány út szűk lehet."
+        ],
+        "ro": [
+          "Un sistem de navigație este util pentru a călători între castele.",
+          "Verificați opțiunile de parcare și eventualele taxe în avans.",
+          "Combinați secțiunile cu mașina și cele pe jos pentru cea mai bună experiență.",
+          "Rețineți că unele drumuri pot fi înguste."
+        ],
+        "en": [
+          "A navigation system is useful for driving between the castles.",
+          "Check parking options and any fees in advance.",
+          "Combine driving and walking sections for the best experience.",
+          "Note that some roads can be narrow."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pfarrkirche Ternitz",
+            "hu": "Ternitzi plébániatemplom",
+            "ro": "Biserica parohială din Ternitz",
+            "en": "Parish Church of Ternitz"
+          },
+          "coords": [
+            16.0371,
+            47.7135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie am Bahnhof Ternitz, die Kirche ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "Induljon a ternitzi vasútállomásról, a templom csak egy rövid sétára van.",
+            "ro": "Începeți de la gara Ternitz, biserica este la o scurtă plimbare.",
+            "en": "Start at Ternitz train station, the church is a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Stahlstadtmuseum",
+            "hu": "Acélváros Múzeum",
+            "ro": "Muzeul Orașului de Oțel",
+            "en": "Steel Town Museum"
+          },
+          "coords": [
+            16.0435,
+            47.7155
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Kirchenplatz aus leicht zu Fuß erreichbar.",
+            "hu": "A templomtérről gyalog könnyen elérhető.",
+            "ro": "Ușor de ajuns pe jos din piața bisericii.",
+            "en": "Easily accessible on foot from the church square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pottschach",
+            "hu": "Pottschachi kastély",
+            "ro": "Castelul Pottschach",
+            "en": "Pottschach Castle"
+          },
+          "coords": [
+            16.021,
+            47.719
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus von der Haltestelle im Zentrum in Richtung Pottschach.",
+            "hu": "Vegyen egy helyi buszt a központi megállóból Pottschach irányába.",
+            "ro": "Luați un autobuz local din stația centrală spre Pottschach.",
+            "en": "Take a local bus from the central stop towards Pottschach."
+          }
+        },
+        {
+          "name": {
+            "de": "Robert-Hamerling-Park",
+            "hu": "Robert Hamerling Park",
+            "ro": "Parcul Robert Hamerling",
+            "en": "Robert Hamerling Park"
+          },
+          "coords": [
+            16.038,
+            47.708
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Schlossbesuch ein kurzer Spaziergang zum Entspannen im Park.",
+            "hu": "A kastélylátogatás után egy rövid séta a parkban való pihenéshez.",
+            "ro": "După vizita la castel, o scurtă plimbare pentru a vă relaxa în parc.",
+            "en": "After the castle visit, a short walk to relax in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Ternitz",
+            "hu": "Ternitzi Kultúrház",
+            "ro": "Casa de Cultură Ternitz",
+            "en": "Ternitz Culture House"
+          },
+          "coords": [
+            16.0411,
+            47.7128
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auf dem Rückweg ins Zentrum gelegen, perfekt für einen letzten kulturellen Stopp.",
+            "hu": "A központ felé vezető úton található, tökéletes egy utolsó kulturális megállóhoz.",
+            "ro": "Situată în drum spre centru, perfectă pentru o ultimă oprire culturală.",
+            "en": "Located on the way back to the center, perfect for a final cultural stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Bahnhof Ternitz. Nach einem kurzen Spaziergang erreichen Sie die Pfarrkirche und das Stahlstadtmuseum und erkunden so den ersten Cluster der Stadt zu Fuß. Am Mittag bringt Sie ein Bus bequem in den Ortsteil Pottschach. Dort besichtigen Sie das gleichnamige Schloss und erholen sich anschließend bei einem Spaziergang im nahegelegenen Robert-Hamerling-Park. Am Nachmittag kehren Sie zu Fuß ins Zentrum zurück und machen noch einen Abstecher zum Kulturhaus. Bevor Sie die Heimreise antreten, können Sie den Tag in einem Café am Hauptplatz ausklingen lassen.",
+        "hu": "A nap a ternitzi vasútállomáson kezdődik. Rövid séta után eléri a plébániatemplomot és az Acélváros Múzeumot, így gyalogosan fedezi fel a város első klaszterét. Délben egy busz kényelmesen elviszi Önt Pottschach városrészébe. Ott megtekintheti az azonos nevű kastélyt, majd pihenhet egy sétával a közeli Robert Hamerling Parkban. Délután gyalog tér vissza a központba, és tesz egy kitérőt a Kultúrházhoz. Mielőtt hazaindulna, a napot egy kávézóban fejezheti be a főtéren.",
+        "ro": "Ziua începe la gara din Ternitz. După o scurtă plimbare, ajungeți la Biserica Parohială și la Muzeul Orașului de Oțel, explorând primul grup de obiective al orașului pe jos. La prânz, un autobuz vă va duce confortabil în districtul Pottschach. Acolo puteți vizita castelul cu același nume și apoi vă puteți relaxa cu o plimbare în Parcul Robert Hamerling din apropiere. După-amiaza, vă întoarceți pe jos în centru și faceți o vizită la Casa de Cultură. Înainte de a pleca acasă, puteți încheia ziua la o cafenea din piața principală.",
+        "en": "Your day begins at Ternitz train station. After a short walk, you'll reach the Parish Church and the Steel Town Museum, exploring the city's first cluster on foot. At noon, a bus will take you comfortably to the Pottschach district. There, you can visit the castle of the same name and then relax with a walk in the nearby Robert Hamerling Park. In the afternoon, you'll walk back to the center and make a stop at the Culture House. Before heading home, you can end the day at a café in the main square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café im Zentrum",
+            "tip": "Genießen Sie einen Apfelstrudel und einen Kaffee, während Sie das Stadtleben beobachten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézó a központban",
+            "tip": "Élvezzen egy almás rétest és egy kávét, miközben a városi életet figyeli."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea în centru",
+            "tip": "Savurați un ștrudel cu mere și o cafea în timp ce priviți viața orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café in the center",
+            "tip": "Enjoy an apple strudel and a coffee while watching the city life."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Robert-Hamerling-Park",
+            "tip": "Finden Sie eine ruhige Ecke im Park, um ein Buch zu lesen oder einfach nur zu entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Robert Hamerling Parkban",
+            "tip": "Keressen egy csendes sarkot a parkban, hogy olvasson egy könyvet vagy egyszerűen csak pihenjen.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Robert Hamerling",
+            "tip": "Găsiți un colț liniștit în parc pentru a citi o carte sau pur și simplu pentru a vă relaxa.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Robert Hamerling Park",
+            "tip": "Find a quiet corner in the park to read a book or just relax.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofs-Kiosk",
+            "tip": "Ein guter Ort, um eine Zeitung oder einen kleinen Snack für die Zugfahrt zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvari kioszk",
+            "tip": "Jó hely egy újság vagy egy kis harapnivaló vásárlására a vonatútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul din gară",
+            "tip": "Un loc bun pentru a cumpăra un ziar sau o gustare mică pentru călătoria cu trenul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Train station kiosk",
+            "tip": "A good place to buy a newspaper or a small snack for the train ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere an Wochenenden.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind zu Fuß erreichbar.",
+          "Planen Sie etwas Pufferzeit für Wartezeiten an den Haltestellen ein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén.",
+          "A legtöbb látnivaló a központban gyalogosan elérhető.",
+          "Tervezzen be némi pufferidőt a megállókban való várakozásra."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Majoritatea atracțiilor din centru sunt accesibile pe jos.",
+          "Planificați un timp suplimentar pentru așteptarea în stații."
+        ],
+        "en": [
+          "Buy a day pass for public transport.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "Most sights in the center are within walking distance.",
+          "Plan for some buffer time for waiting at stops."
+        ]
+      }
+    }
+  }
+}

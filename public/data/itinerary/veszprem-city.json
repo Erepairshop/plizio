@@ -1,0 +1,1460 @@
+{
+  "city_id": "veszprem-city",
+  "anchor": {
+    "name": "Veszprém, Óváros tér",
+    "coords": [
+      17.9114,
+      47.0928
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Feuerturm (Tűztorony)",
+            "hu": "Tűztorony",
+            "ro": "Turnul de Foc",
+            "en": "Fire Tower (Tűztorony)"
+          },
+          "coords": [
+            17.9069,
+            47.0961
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie die Wendeltreppe für einen 360-Grad-Blick über die Stadt und den Bakony-Wald.",
+            "hu": "A csigalépcső megmászása után pazar, 360 fokos panoráma nyílik a városra és a Bakonyra.",
+            "ro": "Urcați scara spirală pentru o panoramă de 360 de grade asupra orașului și a pădurii Bakony.",
+            "en": "Climb the spiral staircase for a 360-degree view of the city and the Bakony forest."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Michaels-Kathedrale",
+            "hu": "Szent Mihály-székesegyház",
+            "ro": "Catedrala Sfântul Mihail",
+            "en": "St. Michael's Cathedral"
+          },
+          "coords": [
+            17.9044,
+            47.0972
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoromanische Architektur und die Reliquien der Heiligen Gisela.",
+            "hu": "Csodálja meg a neoromán építészetet és Gizella királyné csontereklyéjét.",
+            "ro": "Admirați arhitectura neoromanică și relicvele Sfintei Gisela.",
+            "en": "Admire the Neo-Romanesque architecture and the relics of Saint Gisela."
+          }
+        },
+        {
+          "name": {
+            "de": "Gizella-Kapelle",
+            "hu": "Gizella-kápolna",
+            "ro": "Capela Gisela",
+            "en": "Gisela Chapel"
+          },
+          "coords": [
+            17.9048,
+            47.0975
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel neben dem Palast, berühmt für seine gotischen Fresken aus dem 13. Jahrhundert.",
+            "hu": "Rejtett gyöngyszem a palota mellett, a 13. századi gótikus freskóiról híres.",
+            "ro": "O bijuterie ascunsă lângă palat, renumită pentru frescele sale gotice din secolul al XIII-lea.",
+            "en": "A hidden gem next to the palace, famous for its 13th-century Gothic frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzbischöflicher Palast",
+            "hu": "Érseki Palota",
+            "ro": "Palatul Arhiepiscopal",
+            "en": "Archbishop's Palace"
+          },
+          "coords": [
+            17.9055,
+            47.0973
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die opulenten barocken Innenräume zu sehen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megtekinthesse a pazar barokk belső tereket.",
+            "ro": "Participați la un tur ghidat pentru a vedea interioarele baroce opulente.",
+            "en": "Join a guided tour to see the opulent Baroque interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Burgviertel",
+            "hu": "Ebéd a Várnegyedben",
+            "ro": "Prânz în Cartierul Castelului",
+            "en": "Lunch in the Castle Quarter"
+          },
+          "coords": [
+            17.9075,
+            47.0965
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie ein Restaurant mit Terrasse, um die Atmosphäre der alten Straßen zu genießen.",
+            "hu": "Keressen egy teraszos éttermet, és élvezze a régi utcák hangulatát.",
+            "ro": "Găsiți un restaurant cu terasă pentru a vă bucura de atmosfera străzilor vechi.",
+            "en": "Find a restaurant with a terrace to enjoy the atmosphere of the old streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Laczkó-Dezső-Museum",
+            "hu": "Laczkó Dezső Múzeum",
+            "ro": "Muzeul Laczkó Dezső",
+            "en": "Laczkó Dezső Museum"
+          },
+          "coords": [
+            17.9125,
+            47.0952
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte und Archäologie der Region Bakony.",
+            "hu": "Fedezze fel a Bakony-vidék gazdag történelmét és régészeti leleteit.",
+            "ro": "Descoperiți istoria bogată și arheologia regiunii Bakony.",
+            "en": "Discover the rich history and archaeology of the Bakony region."
+          }
+        },
+        {
+          "name": {
+            "de": "Veszprém-Viadukt (Sankt-Stephan-Talbrücke)",
+            "hu": "Veszprémi Viadukt (Szent István völgyhíd)",
+            "ro": "Viaductul Veszprém (Podul Sfântul Ștefan)",
+            "en": "Veszprém Viaduct (St. Stephen's Valley Bridge)"
+          },
+          "coords": [
+            17.9021,
+            47.0933
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für Fotos am späten Nachmittag, mit Blick auf das Burgviertel und das Tal.",
+            "hu": "Tökéletes hely a késő délutáni fotózáshoz, kilátással a Várnegyedre és a völgyre.",
+            "ro": "Un loc perfect pentru fotografii de după-amiază târziu, cu vedere la Cartierul Castelului și la vale.",
+            "en": "A perfect spot for late afternoon photos, overlooking the Castle Quarter and the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Veszprém beginnt mit einem Aufstieg in die Geschichte im Burgviertel. Der Morgen ist dem Erkunden der Türme, Kapellen und Paläste gewidmet, die diese Stadt krönen. Jeder Schritt auf dem Kopfsteinpflaster enthüllt jahrhundertealte Geheimnisse und atemberaubende Ausblicke.\n\nNach einem gemütlichen Mittagessen in der Altstadt führt Sie Ihr Weg hinunter in die belebteren Teile der Stadt. Der Nachmittag ist für kulturelle Entdeckungen im Laczkó-Dezső-Museum reserviert, das einen tiefen Einblick in das Erbe der Region bietet.\n\nWenn der Nachmittag in den Abend übergeht, machen Sie einen Spaziergang zum Veszprém-Viadukt. Die Brücke bietet eine beeindruckende Perspektive auf die Burg, die Sie Stunden zuvor erkundet haben, jetzt in das goldene Licht der untergehenden Sonne getaucht.\n\nBeenden Sie Ihren Tag in einem der charmanten Cafés der Stadt. Denken Sie über die Mischung aus königlicher Geschichte und Ingenieurskunst nach, die Veszprém zu einem einzigartigen ungarischen Erlebnis macht, während Sie einen lokalen Wein oder ein Gebäck genießen.",
+        "hu": "Veszprémi napja a Várnegyed történelmébe való felemelkedéssel kezdődik. A délelőtt a várost koronázó tornyok, kápolnák és paloták felfedezésével telik. Minden lépés a macskakövön évszázados titkokat és lélegzetelállító kilátást tár fel.\n\nEgy kellemes óvárosi ebéd után az út a város nyüzsgőbb részei felé vezet. A délután a Laczkó Dezső Múzeum kulturális felfedezéseire van fenntartva, amely mély betekintést nyújt a régió örökségébe.\n\nAhogy a délután estébe fordul, sétáljon el a Veszprémi Viadukthoz. A híd lenyűgöző perspektívát kínál a Várra, amelyet órákkal korábban fedezett fel, most a lemenő nap arany fényében fürödve.\n\nZárja a napot a város egyik hangulatos kávézójában. Gondolkodjon el a királyi történelem és a mérnöki tudás keverékén, amely Veszprémet egyedülálló magyar élménnyé teszi, miközben egy helyi bort vagy süteményt kortyolgat.",
+        "ro": "Ziua dvs. în Veszprém începe cu o ascensiune în istorie în Cartierul Castelului. Dimineața este dedicată explorării turnurilor, capelelor și palatelor care încoronează acest oraș. Fiecare pas pe piatra cubică dezvăluie secrete vechi de secole și priveliști uluitoare.\n\nDupă un prânz relaxat în orașul vechi, drumul vă duce spre părțile mai aglomerate ale orașului. După-amiaza este rezervată descoperirilor culturale la Muzeul Laczkó Dezső, care oferă o perspectivă profundă asupra moștenirii regiunii.\n\nPe măsură ce după-amiaza se transformă în seară, faceți o plimbare spre Viaductul Veszprém. Podul oferă o perspectivă impresionantă asupra castelului pe care l-ați explorat cu ore înainte, acum scăldat în lumina aurie a soarelui care apune.\n\nÎncheiați-vă ziua la una dintre cafenelele fermecătoare ale orașului. Reflectați la amestecul de istorie regală și inginerie care face din Veszprém o experiență maghiară unică, în timp ce savurați un vin local sau o prăjitură.",
+        "en": "Your day in Veszprém begins with an ascent into history in the Castle Quarter. The morning is dedicated to exploring the towers, chapels, and palaces that crown this city. Every step on the cobblestone reveals centuries-old secrets and breathtaking views.\n\nAfter a leisurely lunch in the old town, your path leads down into the more bustling parts of the city. The afternoon is reserved for cultural discovery at the Laczkó Dezső Museum, offering a deep dive into the region's heritage.\n\nAs the afternoon turns to evening, take a stroll to the Veszprém Viaduct. The bridge provides a stunning perspective on the castle you explored hours earlier, now bathed in the golden light of the setting sun.\n\nConclude your day at one of the city's charming cafes. Reflect on the blend of royal history and engineering that makes Veszprém a unique Hungarian experience, while sipping a local wine or pastry."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bakonyi Betyárleves",
+            "tip": "Eine herzhafte Räubersuppe, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Tócsni",
+            "tip": "Ungarische Kartoffelpuffer, oft mit Sauerrahm und Käse serviert."
+          },
+          {
+            "name": "Fricska Bisztró",
+            "tip": "Ein beliebtes Lokal, das moderne ungarische Küche mit Schwerpunkt auf lokalen Zutaten anbietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bakonyi betyárleves",
+            "tip": "Kiadós leves, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Tócsni",
+            "tip": "Gyakran tejföllel és sajttal tálalva."
+          },
+          {
+            "name": "Fricska Bisztró",
+            "tip": "Népszerű hely, amely modern magyar konyhát kínál helyi alapanyagokra összpontosítva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă haiducească Bakony",
+            "tip": "O supă consistentă de haiduc, perfectă după o plimbare lungă."
+          },
+          {
+            "name": "Tócsni",
+            "tip": "Clătite de cartofi maghiare, adesea servite cu smântână și brânză."
+          },
+          {
+            "name": "Fricska Bisztró",
+            "tip": "Un local popular care oferă bucătărie maghiară modernă, cu accent pe ingredientele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakony Outlaw Soup",
+            "tip": "A hearty 'robber's soup', perfect after a long walk."
+          },
+          {
+            "name": "Tócsni",
+            "tip": "Hungarian potato pancakes, often served with sour cream and cheese."
+          },
+          {
+            "name": "Fricska Bistro",
+            "tip": "A popular spot offering modern Hungarian cuisine with a focus on local ingredients."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Séd-Bach-Promenade",
+            "tip": "Ein ruhiger Spaziergang entlang des Baches unterhalb des Burgbergs.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benedek-Hügel",
+            "tip": "Ein kleiner Park mit einer Statue und einem friedlichen Blick auf das Viadukt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Burgmauer",
+            "tip": "Finden Sie eine ruhige Ecke entlang der Mauern für einen Moment der Kontemplation.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séd-patak sétány",
+            "tip": "Csendes séta a patak mentén a Várhegy alatt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benedek-hegy",
+            "tip": "Kis park szoborral és békés kilátással a viaduktra.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a várfalról",
+            "tip": "Keressen egy csendes zugot a falak mentén egy pillanatnyi elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada pârâului Séd",
+            "tip": "O plimbare liniștită de-a lungul pârâului, sub Dealul Castelului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Benedek",
+            "tip": "Un mic parc cu o statuie și o priveliște pașnică asupra viaductului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe zidurile castelului",
+            "tip": "Găsiți un colț liniștit de-a lungul zidurilor pentru un moment de contemplare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Séd Stream Promenade",
+            "tip": "A quiet walk along the stream below the Castle Hill.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benedek Hill",
+            "tip": "A small park with a statue and a peaceful view of the viaduct.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Castle Walls",
+            "tip": "Find a quiet corner along the walls for a moment of contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vár utca",
+            "tip": "Kleine Souvenirläden und Kunsthandwerksgalerien im Burgviertel."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach Paprika, Honig und anderen ungarischen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vár utca",
+            "tip": "Kis ajándékboltok és kézműves galériák a Várnegyedben."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen paprikát, mézet és más magyar különlegességeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Vár",
+            "tip": "Mici magazine de suveniruri și galerii de artizanat în Cartierul Castelului."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați boia de ardei, miere și alte specialități maghiare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vár Street",
+            "tip": "Small souvenir shops and artisan galleries in the Castle Quarter."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for paprika, honey, and other Hungarian specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster im Burgviertel uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Burgviertel liegen nahe beieinander.",
+          "Kaufen Sie ein Kombiticket, wenn Sie mehrere Museen und den Feuerturm besuchen möchten.",
+          "Überprüfen Sie die Öffnungszeiten, da einige Orte saisonal variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a Várnegyed macskakövei egyenetlenek lehetnek.",
+          "A legtöbb látnivaló a Várnegyedben közel van egymáshoz.",
+          "Vásároljon kombinált jegyet, ha több múzeumot és a Tűztornyot is meg szeretné látogatni.",
+          "Ellenőrizze a nyitvatartási időket, mivel egyes helyek szezonálisan változhatnak."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece piatra cubică din Cartierul Castelului poate fi denivelată.",
+          "Majoritatea atracțiilor din Cartierul Castelului sunt aproape una de cealaltă.",
+          "Cumpărați un bilet combinat dacă intenționați să vizitați mai multe muzee și Turnul de Foc.",
+          "Verificați orele de deschidere, deoarece unele locații pot avea program sezonier."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the Castle Quarter can be uneven.",
+          "Most attractions in the Castle Quarter are located close to each other.",
+          "Buy a combination ticket if you plan to visit multiple museums and the Fire Tower.",
+          "Check opening hours as some places may vary seasonally."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start am Viadukt",
+            "hu": "Kerékpárkölcsönzés és indulás a Viadukttól",
+            "ro": "Închiriere biciclete și start de la Viaduct",
+            "en": "Bike Rental & Start at the Viaduct"
+          },
+          "coords": [
+            17.9025,
+            47.0928
+          ],
+          "category": "other",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer großartigen Aussicht und bereiten Sie Ihr Fahrrad vor.",
+            "hu": "Kezdje a napot egy remek kilátással és készítse elő a kerékpárt.",
+            "ro": "Începeți ziua cu o priveliște minunată și pregătiți-vă bicicleta.",
+            "en": "Start your day with a great view and get your bike ready."
+          }
+        },
+        {
+          "name": {
+            "de": "Laczkó-Dezső-Museum",
+            "hu": "Laczkó Dezső Múzeum",
+            "ro": "Muzeul Laczkó Dezső",
+            "en": "Laczkó Dezső Museum"
+          },
+          "coords": [
+            17.9125,
+            47.0952
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und tauchen Sie ein in die lokale Geschichte.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a helytörténetben.",
+            "ro": "Asigurați-vă bicicleta și scufundați-vă în istoria locală.",
+            "en": "Lock your bike securely and dive into local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Aufstieg zum Burgviertel",
+            "hu": "Felfedezőút a Várnegyedben",
+            "ro": "Urcare în Cartierul Castelului",
+            "en": "Ascent to the Castle Quarter"
+          },
+          "coords": [
+            17.907,
+            47.096
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad am Eingang und erkunden Sie den historischen Komplex zu Fuß.",
+            "hu": "Parkolja le a kerékpárt a bejáratnál, és fedezze fel a történelmi komplexumot gyalog.",
+            "ro": "Parcați bicicleta la intrare și explorați complexul istoric pe jos.",
+            "en": "Park your bike at the entrance and explore the historic complex on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Burgviertel",
+            "hu": "Ebéd a Várnegyedben",
+            "ro": "Prânz în Cartierul Castelului",
+            "en": "Lunch in the Castle Quarter"
+          },
+          "coords": [
+            17.9075,
+            47.0965
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tanken Sie neue Energie mit ungarischer Küche, bevor Sie Ihre Radtour fortsetzen.",
+            "hu": "Töltődjön fel magyaros ételekkel, mielőtt folytatná a kerékpártúrát.",
+            "ro": "Realimentați-vă cu bucătărie maghiară înainte de a continua turul cu bicicleta.",
+            "en": "Refuel with some Hungarian cuisine before continuing your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Abfahrt zum Veszprémer Zoo",
+            "hu": "Irány a Veszprémi Állatkert",
+            "ro": "Coborâre spre Grădina Zoologică Veszprém",
+            "en": "Descent to Veszprém Zoo"
+          },
+          "coords": [
+            17.895,
+            47.105
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "14:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt bergab und machen Sie sich bereit, die Tiere zu treffen.",
+            "hu": "Élvezze a lejtmenetet, és készüljön fel az állatokkal való találkozásra.",
+            "ro": "Bucurați-vă de coborâre și pregătiți-vă să întâlniți animalele.",
+            "en": "Enjoy the downhill ride and get ready to meet the animals."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannen an der Séd-Bach-Promenade",
+            "hu": "Pihenés a Séd-patak sétányán",
+            "ro": "Relaxare pe Promenada Séd",
+            "en": "Relax at the Séd Stream Promenade"
+          },
+          "coords": [
+            17.903,
+            47.098
+          ],
+          "category": "park",
+          "arrive_at": "16:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine friedliche Radtour entlang des Wassers, um den Tag ausklingen zu lassen.",
+            "hu": "Békés tekerés a víz mentén, a nap lezárásaként.",
+            "ro": "O plimbare pașnică cu bicicleta de-a lungul apei pentru a încheia ziua.",
+            "en": "A peaceful ride along the water to wind down the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Veszprém-Abenteuer auf zwei Rädern beginnt am beeindruckenden Viadukt. Nach der Abholung Ihres Fahrrads führt Sie die erste Etappe zum Laczkó-Dezső-Museum. Der Vormittag gipfelt in einem Aufstieg zum Burgviertel, wo Sie das Fahrrad abstellen, um die historischen Stätten zu Fuß zu erkunden.\n\nNach einem stärkenden Mittagessen inmitten der alten Mauern ist es Zeit für eine aufregende Abfahrt. Die Route führt Sie zum Veszprémer Zoo, der im Kittenberger Kálmán Tal liegt und eine erfrischende Abwechslung bietet.\n\nDer späte Nachmittag ist für eine entspannte Fahrt entlang der Séd-Bach-Promenade reserviert. Dieser grüne Korridor bietet eine ruhige Flucht aus der Stadt und führt Sie sanft zurück in Richtung Ihres Ausgangspunkts.\n\nBeenden Sie Ihre Tour dort, wo sie begann, am Viadukt. Geben Sie Ihr Fahrrad zurück und genießen Sie den Panoramablick ein letztes Mal, während die Sonne untergeht und an einen Tag voller aktiver Entdeckungen erinnert.",
+        "hu": "Kétkerekű veszprémi kalandja a lenyűgöző Viaduktnál kezdődik. A kerékpár átvétele után az első szakasz a Laczkó Dezső Múzeumhoz vezet. A délelőtt a Várnegyedbe való feljutással csúcsosodik ki, ahol leparkolja a kerékpárt, hogy gyalog fedezze fel a történelmi helyszíneket.\n\nEgy kiadós, ódon falak közötti ebéd után eljött az ideje egy izgalmas lejtmenetnek. Az útvonal a Kittenberger Kálmán Növény- és Vadasparkba vezet, amely frissítő változatosságot kínál.\n\n A késő délután egy pihentető tekerésre van fenntartva a Séd-patak sétányán. Ez a zöld folyosó csendes menekülést kínál a városból, és finoman visszavezet a kiindulópont felé.\n\nFejezze be a túrát ott, ahol elkezdte, a Viaduktnál. Adja vissza a kerékpárt, és élvezze a panorámát még egyszer utoljára, ahogy a nap lemegy, emlékezve az aktív felfedezéssel teli napra.",
+        "ro": "Aventura dvs. pe două roți în Veszprém începe la impresionantul Viaduct. După ce vă ridicați bicicleta, prima etapă vă duce la Muzeul Laczkó Dezső. Dimineața culminează cu o urcare în Cartierul Castelului, unde parcați bicicleta pentru a explora siturile istorice pe jos.\n\nDupă un prânz revigorant printre zidurile vechi, este timpul pentru o coborâre palpitantă. Traseul vă duce la Grădina Zoologică Veszprém, situată în Valea Kittenberger Kálmán, oferind o schimbare revigorantă de peisaj.\n\nDupă-amiaza târzie este rezervată pentru o plimbare relaxantă de-a lungul Promenadei pârâului Séd. Acest coridor verde oferă o evadare liniștită din oraș, conducându-vă înapoi spre punctul de plecare.\n\nÎncheiați turul unde a început, la Viaduct. Returnați bicicleta și bucurați-vă de vederea panoramică pentru ultima oară, în timp ce soarele apune, amintindu-vă de o zi plină de explorare activă.",
+        "en": "Your Veszprém adventure on two wheels begins at the impressive Viaduct. After picking up your bike, the first leg takes you to the Laczkó Dezső Museum. The morning culminates in an ascent to the Castle Quarter, where you'll park the bike to explore the historic sites on foot.\n\nFollowing a fortifying lunch amidst the ancient walls, it's time for an exciting downhill ride. The route leads you to the Veszprém Zoo, nestled in the Kittenberger Kálmán Valley, offering a refreshing change of scenery.\n\nThe late afternoon is reserved for a relaxing ride along the Séd Stream Promenade. This green corridor provides a tranquil escape from the city, gently guiding you back towards your starting point.\n\nConclude your tour where it began, at the Viaduct. Return your bike and take in the panoramic view one last time as the sun sets, reminiscing on a day filled with active discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lángos",
+            "tip": "Der perfekte schnelle und sättigende Snack für unterwegs."
+          },
+          {
+            "name": "Somlói Galuska",
+            "tip": "Ein klassisches ungarisches Dessert, um Ihre Energiereserven aufzufüllen."
+          },
+          {
+            "name": "Elefánt Étterem",
+            "tip": "Ein Restaurant mit guter Reputation nahe dem Stadtzentrum für ein wohlverdientes Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lángos",
+            "tip": "Tökéletes, gyors és laktató úti harapnivaló."
+          },
+          {
+            "name": "Somlói galuska",
+            "tip": "Klasszikus magyar desszert az energiatartalékok feltöltéséhez."
+          },
+          {
+            "name": "Elefánt Étterem",
+            "tip": "Jó hírű étterem a városközpont közelében egy jól megérdemelt vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lángos",
+            "tip": "Gustarea perfectă, rapidă și sățioasă pentru drum."
+          },
+          {
+            "name": "Găluște Somlói",
+            "tip": "Un desert clasic maghiar pentru a vă reface rezervele de energie."
+          },
+          {
+            "name": "Restaurantul Elefánt",
+            "tip": "Un restaurant cu o bună reputație aproape de centrul orașului pentru o cină binemeritată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lángos",
+            "tip": "The perfect quick and filling on-the-go snack."
+          },
+          {
+            "name": "Somlói Galuska",
+            "tip": "A classic Hungarian dessert to replenish your energy reserves."
+          },
+          {
+            "name": "Elefánt Restaurant",
+            "tip": "A well-reputed restaurant near the city center for a well-deserved dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Séd-Bach-Promenade",
+            "tip": "Der Radweg entlang des Baches ist ideal für eine ruhige Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten des Erzbischöflichen Palastes",
+            "tip": "Ein oft übersehener, friedlicher Ort im Burgviertel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Viadukt bei Sonnenuntergang",
+            "tip": "Der Himmel über der Burg kann spektakulär sein.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séd-patak sétány",
+            "tip": "A patak menti kerékpárút ideális egy csendes pihenőhöz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Érseki Palota kertje",
+            "tip": "Gyakran figyelmen kívül hagyott, békés hely a Várnegyedben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Viaduktról naplementekor",
+            "tip": "Az ég a Vár felett látványos lehet.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada pârâului Séd",
+            "tip": "Pista de biciclete de-a lungul pârâului este ideală pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Palatului Arhiepiscopal",
+            "tip": "Un loc pașnic, adesea trecut cu vederea, în Cartierul Castelului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe Viaduct la apus",
+            "tip": "Cerul deasupra castelului poate fi spectaculos.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Séd Stream Promenade",
+            "tip": "The bike path along the stream is ideal for a quiet break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Archbishop's Palace Garden",
+            "tip": "An often-overlooked peaceful spot within the Castle Quarter.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Viaduct at Sunset",
+            "tip": "The sky over the castle can be spectacular.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kossuth Lajos utca",
+            "tip": "Die Haupteinkaufsstraße unterhalb der Burg mit einer Mischung aus Geschäften."
+          },
+          {
+            "name": "Handwerkerläden in der Altstadt",
+            "tip": "Einzigartige handgemachte Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kossuth Lajos utca",
+            "tip": "A Vár alatti fő bevásárlóutca, vegyes üzletekkel."
+          },
+          {
+            "name": "Kézműves boltok az Óvárosban",
+            "tip": "Egyedi, kézzel készített ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Kossuth Lajos",
+            "tip": "Principala stradă comercială de sub castel, cu un amestec de magazine."
+          },
+          {
+            "name": "Magazine de artizanat în Orașul Vechi",
+            "tip": "Suveniruri unice, lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kossuth Lajos Street",
+            "tip": "The main shopping street below the castle with a mix of shops."
+          },
+          {
+            "name": "Artisan shops in the Old Town",
+            "tip": "Unique handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen für die Abfahrten.",
+          "Der Aufstieg zur Burg ist steil; seien Sie bereit zu schieben.",
+          "Veszprém hat einige ausgewiesene Radwege; nutzen Sie diese, wann immer möglich.",
+          "Nehmen Sie eine Wasserflasche mit, besonders für die Anstiege an einem warmen Tag."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket a lejtőkhöz.",
+          "A Várba való feljutás meredek; készüljön fel a tolásra.",
+          "Veszprémben vannak kijelölt kerékpárutak; használja őket, amikor csak lehetséges.",
+          "Vigyen magával egy vizes palackot, különösen a meleg napi emelkedőkhöz."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele pentru coborâri.",
+          "Urcarea la castel este abruptă; fiți pregătit să împingeți bicicleta.",
+          "Veszprém are câteva piste de biciclete desemnate; folosiți-le ori de câte ori este posibil.",
+          "Luați o sticlă de apă, mai ales pentru urcări într-o zi caldă."
+        ],
+        "en": [
+          "Check your bike before setting off, especially the brakes for the downhills.",
+          "The climb to the castle is steep; be prepared to push.",
+          "Veszprém has some designated bike paths; use them whenever possible.",
+          "Bring a water bottle, especially for the climbs on a warm day."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 11.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Fuße des Burgbergs",
+            "hu": "Parkolás a Várhegy lábánál",
+            "ro": "Parcare la poalele Dealului Castelului",
+            "en": "Parking at the foot of Castle Hill"
+          },
+          "coords": [
+            17.9105,
+            47.0945
+          ],
+          "category": "other",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie einen Ganztagesparkplatz, um das Auto für den Vormittag stehen zu lassen.",
+            "hu": "Keressen egy egész napos parkolót, hogy délelőttre otthagyhassa az autót.",
+            "ro": "Găsiți o parcare pentru întreaga zi pentru a lăsa mașina pentru dimineață.",
+            "en": "Find an all-day parking spot to leave the car for the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuerturm & Burgviertel",
+            "hu": "Tűztorony és Várnegyed",
+            "ro": "Turnul de Foc și Cartierul Castelului",
+            "en": "Fire Tower & Castle Quarter"
+          },
+          "coords": [
+            17.9069,
+            47.0961
+          ],
+          "category": "cluster",
+          "arrive_at": "09:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den gesamten Komplex zu Fuß: Kathedrale, Palast und Kapelle.",
+            "hu": "Fedezze fel az egész komplexumot gyalog: székesegyház, palota és kápolna.",
+            "ro": "Explorați întregul complex pe jos: catedrală, palat și capelă.",
+            "en": "Explore the entire complex on foot: cathedral, palace, and chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Orașul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            17.911,
+            47.0935
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit, bevor Sie zum Auto zurückkehren.",
+            "hu": "Élvezze az ebédet, mielőtt visszatér az autóhoz.",
+            "ro": "Savurați o masă înainte de a vă întoarce la mașină.",
+            "en": "Enjoy a meal before walking back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Veszprémer Zoo",
+            "hu": "Utazás a Veszprémi Állatkerthez",
+            "ro": "Drum spre Grădina Zoologică Veszprém",
+            "en": "Drive to Veszprém Zoo"
+          },
+          "coords": [
+            17.895,
+            47.105
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der Zoo hat einen eigenen großen Parkplatz. Planen Sie mindestens zwei Stunden ein.",
+            "hu": "Az állatkertnek saját, nagy parkolója van. Tervezzen legalább két órát a látogatásra.",
+            "ro": "Grădina zoologică are propria parcare mare. Planificați cel puțin două ore pentru vizită.",
+            "en": "The zoo has its own large parking lot. Plan for at least two hours inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Laczkó-Dezső-Museum",
+            "hu": "Utazás a Laczkó Dezső Múzeumhoz",
+            "ro": "Drum spre Muzeul Laczkó Dezső",
+            "en": "Drive to Laczkó Dezső Museum"
+          },
+          "coords": [
+            17.9125,
+            47.0952
+          ],
+          "category": "museums",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und nutzen Sie die letzte Stunde vor Schließung.",
+            "hu": "Parkoljon a közelben, és használja ki az utolsó órát zárás előtt.",
+            "ro": "Parcați în apropiere și profitați de ultima oră înainte de închidere.",
+            "en": "Park nearby and use the last hour before closing."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Veszprém-Viadukt",
+            "hu": "Séta a Veszprémi Viadukthoz",
+            "ro": "Plimbare la Viaductul Veszprém",
+            "en": "Walk to Veszprém Viaduct"
+          },
+          "coords": [
+            17.9021,
+            47.0933
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und genießen Sie den Sonnenuntergang von der Brücke aus.",
+            "hu": "Hagyja az autót, és élvezze a naplementét a hídról.",
+            "ro": "Lăsați mașina și bucurați-vă de apus de pe pod.",
+            "en": "Leave the car and enjoy the sunset view from the bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Freiheit, Veszpréms Höhepunkte effizient zu verbinden. Beginnen Sie den Tag, indem Sie am Fuße des Burgbergs parken. Der gesamte Vormittag ist einem Rundgang durch das historische Herz der Stadt gewidmet, von der Kathedrale bis zu den Palästen, alles bequem zu Fuß erreichbar.\n\nNach einem Mittagessen in der Altstadt kehren Sie zum Auto zurück, um eine andere Seite von Veszprém zu entdecken. Eine kurze Fahrt bringt Sie zum weitläufigen Veszprémer Zoo, einem perfekten Kontrastprogramm für den Nachmittag, das in einem wunderschönen Tal liegt.\n\nDer letzte Teil Ihres Tagesausflugs führt Sie zurück in Richtung Zentrum. Sie fahren zum Laczkó-Dezső-Museum, um in die regionale Geschichte einzutauchen. Vom Museum aus ist es nur ein kurzer Spaziergang zum Viadukt, einem Meisterwerk der Ingenieurskunst.\n\nBeenden Sie Ihren Tag auf dem Viadukt und blicken Sie auf die Burg zurück, die im Abendlicht leuchtet. Dieser letzte Spaziergang fasst die Essenz von Veszprém zusammen: eine Stadt, in der historische Hügel und moderne Täler durch beeindruckende Brücken verbunden sind.",
+        "hu": "Az autó szabadságot ad, hogy hatékonyan kösse össze Veszprém nevezetességeit. Kezdje a napot a Várhegy lábánál való parkolással. Az egész délelőtt a város történelmi szívének gyalogos bejárására van szánva, a székesegyháztól a palotákig, mindent kényelmesen elérve.\n\nAz óvárosi ebéd után térjen vissza az autóhoz, hogy felfedezze Veszprém egy másik oldalát. Egy rövid utazás a tágas Veszprémi Állatkertbe vezet, amely tökéletes délutáni kontrasztprogramot kínál egy gyönyörű völgyben.\n\nA nap utolsó része visszavezet a központ felé. Látogasson el a Laczkó Dezső Múzeumba, hogy elmerüljön a regionális történelemben. A múzeumtól csak egy rövid séta a Viadukt, egy mérnöki remekmű.\n\nZárja a napot a Viadukton, visszatekintve az esti fényben úszó Várra. Ez az utolsó séta összefoglalja Veszprém lényegét: egy város, ahol a történelmi dombokat és a modern völgyeket lenyűgöző hidak kötik össze.",
+        "ro": "Cu mașina, aveți libertatea de a conecta eficient punctele de atracție ale Veszprémului. Începeți ziua parcând la poalele Dealului Castelului. Întreaga dimineață este dedicată unui tur pe jos prin inima istorică a orașului, de la catedrală la palate, totul fiind ușor accesibil.\n\nDupă prânzul în orașul vechi, vă întoarceți la mașină pentru a descoperi o altă față a Veszprémului. O scurtă călătorie cu mașina vă duce la spațioasa Grădină Zoologică Veszprém, un contra-program perfect pentru după-amiază, situată într-o vale frumoasă.\n\nUltima parte a excursiei vă duce înapoi spre centru. Conduceți la Muzeul Laczkó Dezső pentru a vă cufunda în istoria regională. De la muzeu, este doar o scurtă plimbare până la Viaduct, o capodoperă a ingineriei.\n\nÎncheiați ziua pe Viaduct, privind înapoi la castelul care strălucește în lumina serii. Această ultimă plimbare încapsulează esența Veszprémului: un oraș unde dealurile istorice și văile moderne sunt conectate prin poduri impresionante.",
+        "en": "With a car, you have the freedom to connect Veszprém's highlights efficiently. Start the day by parking at the foot of Castle Hill. The entire morning is dedicated to a walking tour of the city's historic heart, from the cathedral to the palaces, all easily reached on foot.\n\nAfter lunch in the old town, you return to the car to discover another side of Veszprém. A short drive takes you to the sprawling Veszprém Zoo, a perfect afternoon contrast nestled in a beautiful valley.\n\nThe final leg of your day trip takes you back towards the center. You'll drive to the Laczkó Dezső Museum to immerse yourself in regional history. From the museum, it's just a short walk to the Viaduct, a masterpiece of engineering.\n\nEnd your day on the Viaduct, looking back at the castle gleaming in the evening light. This final stroll encapsulates the essence of Veszprém: a city where historic hills and modern valleys are connected by impressive bridges."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Veszprémi szelet",
+            "tip": "Ein lokales Schnitzelgericht, oft mit Pilzen und Käse."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Probieren Sie diesen Baumstriezel an einem Straßenstand."
+          },
+          {
+            "name": "Oliva Hotel & Étterem",
+            "tip": "Ein gehobenes Restaurant für ein besonderes Abendessen, leicht mit dem Auto erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Veszprémi szelet",
+            "tip": "Helyi húsétel, gyakran gombával és sajttal."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Kóstolja meg egy utcai árusnál."
+          },
+          {
+            "name": "Oliva Hotel & Étterem",
+            "tip": "Elegáns étterem egy különleges vacsorához, autóval könnyen megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șnițel Veszprém",
+            "tip": "Un fel de mâncare local cu șnițel, adesea cu ciuperci și brânză."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Încercați acest cozonac secuiesc de la o tarabă stradală."
+          },
+          {
+            "name": "Oliva Hotel & Restaurant",
+            "tip": "Un restaurant de lux pentru o cină specială, ușor accesibil cu mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Veszprém-style Schnitzel",
+            "tip": "A local schnitzel dish, often with mushrooms and cheese."
+          },
+          {
+            "name": "Kürtőskalács (Chimney Cake)",
+            "tip": "Try this spit cake from a street vendor."
+          },
+          {
+            "name": "Oliva Hotel & Restaurant",
+            "tip": "An upscale restaurant for a special dinner, easily accessible by car."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tal des Séd-Bachs am Zoo",
+            "tip": "Die Gegend um den Zoo ist ein ruhiges, grünes Tal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt am Benedek-Hügel",
+            "tip": "Mit dem Auto leicht erreichbar für einen schnellen, ruhigen Ausblick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Gärten hinter der Burg",
+            "tip": "Abseits der Hauptwege finden Sie friedliche Ecken.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séd-patak völgye az Állatkertnél",
+            "tip": "Az állatkert környéke egy csendes, zöld völgy.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátó a Benedek-hegyen",
+            "tip": "Autóval könnyen megközelíthető egy gyors, csendes kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Vár mögötti kertek",
+            "tip": "A fő útvonalaktól távol békés zugokat találhat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea pârâului Séd la Grădina Zoologică",
+            "tip": "Zona din jurul grădinii zoologice este o vale verde și liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere de pe Dealul Benedek",
+            "tip": "Ușor accesibil cu mașina pentru o priveliște rapidă și liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile din spatele castelului",
+            "tip": "Departe de potecile principale, veți găsi colțuri pașnice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Séd Stream Valley at the Zoo",
+            "tip": "The area around the zoo is a quiet, green valley.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benedek Hill Viewpoint",
+            "tip": "Easily reachable by car for a quick, quiet view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The gardens behind the castle",
+            "tip": "Away from the main paths, you can find peaceful corners.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Balaton Plaza",
+            "tip": "Ein Einkaufszentrum am Stadtrand für umfassendere Einkaufsbedürfnisse."
+          },
+          {
+            "name": "Kossuth Lajos utca",
+            "tip": "Parken Sie in der Nähe und schlendern Sie durch die Haupteinkaufsstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Balaton Plaza",
+            "tip": "Bevásárlóközpont a város szélén, szélesebb körű vásárlási igényekhez."
+          },
+          {
+            "name": "Kossuth Lajos utca",
+            "tip": "Parkoljon a közelben, és sétáljon végig a fő bevásárlóutcán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Balaton Plaza",
+            "tip": "Un centru comercial la marginea orașului pentru nevoi de cumpărături mai extinse."
+          },
+          {
+            "name": "Strada Kossuth Lajos",
+            "tip": "Parcați în apropiere și plimbați-vă pe strada principală de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Balaton Plaza",
+            "tip": "A shopping mall on the outskirts for more comprehensive shopping needs."
+          },
+          {
+            "name": "Kossuth Lajos Street",
+            "tip": "Park nearby and stroll down the main shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkzonen und -gebühren, besonders im Stadtzentrum.",
+          "Planen Sie Ihre Fahrten zwischen den Hauptverkehrszeiten, um Staus zu vermeiden.",
+          "Ein GPS ist hilfreich, um sich in den Einbahnstraßen der Altstadt zurechtzufinden.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "Figyeljen a parkolási zónákra és díjakra, különösen a belvárosban.",
+          "Tervezze az utazásokat a csúcsforgalmi időszakon kívülre a dugók elkerülése érdekében.",
+          "GPS hasznos az óvárosi egyirányú utcákban való navigáláshoz.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Fiți atenți la zonele și taxele de parcare, în special în centrul orașului.",
+          "Planificați-vă călătoriile în afara orelor de vârf pentru a evita ambuteiajele.",
+          "Un GPS este util pentru a naviga pe străzile cu sens unic din orașul vechi.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Be mindful of parking zones and fees, especially in the city center.",
+          "Plan your drives between rush hours to avoid traffic.",
+          "A GPS is helpful for navigating the one-way streets in the older parts of town.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 9.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof",
+            "hu": "Érkezés a buszpályaudvarra",
+            "ro": "Sosire la autogară",
+            "en": "Arrival at the Bus Station"
+          },
+          "coords": [
+            17.915,
+            47.089
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
+            "ro": "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+            "en": "Purchase a day pass for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Burgviertel",
+            "hu": "Busszal a Várnegyedbe",
+            "ro": "Autobuz spre Cartierul Castelului",
+            "en": "Bus to the Castle Quarter"
+          },
+          "coords": [
+            17.908,
+            47.095
+          ],
+          "category": "cluster",
+          "arrive_at": "09:30",
+          "stay_min": 160,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie an der Haltestelle Óváros tér aus und gehen Sie den Hügel hinauf.",
+            "hu": "Szálljon le az Óváros tér megállónál, és sétáljon fel a hegyre.",
+            "ro": "Coborâți la stația Óváros tér și urcați pe deal.",
+            "en": "Get off at the Óváros tér stop and walk up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe der Burg",
+            "hu": "Ebéd a Vár közelében",
+            "ro": "Prânz lângă castel",
+            "en": "Lunch near the Castle"
+          },
+          "coords": [
+            17.91,
+            47.094
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit, bevor Sie den Bus zu Ihrem nächsten Ziel nehmen.",
+            "hu": "Ebédeljen egyet, mielőtt busszal indulna a következő úti célhoz.",
+            "ro": "Savurați o masă înainte de a lua autobuzul spre următoarea destinație.",
+            "en": "Enjoy a meal before catching the bus to your next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Veszprémer Zoo",
+            "hu": "Busszal a Veszprémi Állatkertbe",
+            "ro": "Autobuz spre Grădina Zoologică Veszprém",
+            "en": "Bus to Veszprém Zoo"
+          },
+          "coords": [
+            17.895,
+            47.105
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mehrere Buslinien halten direkt vor dem Eingang des Zoos.",
+            "hu": "Több buszjárat is megáll közvetlenül az állatkert bejárata előtt.",
+            "ro": "Mai multe linii de autobuz opresc chiar în fața intrării la grădina zoologică.",
+            "en": "Several bus lines stop right outside the zoo's entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Laczkó-Dezső-Museum",
+            "hu": "Busszal a Laczkó Dezső Múzeumhoz",
+            "ro": "Autobuz spre Muzeul Laczkó Dezső",
+            "en": "Bus to Laczkó Dezső Museum"
+          },
+          "coords": [
+            17.9125,
+            47.0952
+          ],
+          "category": "museums",
+          "arrive_at": "16:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Zoo aus ist es eine kurze Busfahrt zurück ins Stadtzentrum.",
+            "hu": "Az állatkertből rövid buszút vezet vissza a városközpontba.",
+            "ro": "De la grădina zoologică, este o scurtă călătorie cu autobuzul înapoi în centrul orașului.",
+            "en": "From the zoo, it's a short bus ride back towards the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Viadukt",
+            "hu": "Séta a Viadukthoz",
+            "ro": "Plimbare la Viaduct",
+            "en": "Stroll to the Viaduct"
+          },
+          "coords": [
+            17.9021,
+            47.0933
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie von hier aus den letzten Panoramablick des Tages.",
+            "hu": "Élvezze innen a nap utolsó panorámáját.",
+            "ro": "Bucurați-vă de ultima priveliște panoramică a zilei de aici.",
+            "en": "Enjoy the last panoramic view of the day from here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Entdeckungsreise durch Veszprém mit öffentlichen Verkehrsmitteln ist einfach und effizient. Ihr Tag beginnt am zentralen Busbahnhof, wo Sie sich mit einer Tageskarte ausstatten. Ein Bus bringt Sie schnell in die Nähe des Burgviertels, wo Sie den Vormittag damit verbringen, die historischen Gassen und Gebäude zu Fuß zu erkunden.\n\nNach dem Mittagessen in der Altstadt steigen Sie wieder in einen Bus, dieses Mal in Richtung des Tals. Der Nachmittag ist für einen Besuch im Veszprémer Zoo reserviert, einem grünen Paradies, das einen wunderbaren Kontrast zum städtischen Trubel bietet und leicht mit dem Bus zu erreichen ist.\n\nAm späten Nachmittag bringt Sie eine weitere Busfahrt zurück ins Herz der Stadt zum Laczkó-Dezső-Museum. Nachdem Sie in die reiche Geschichte der Region eingetaucht sind, ist es nur ein kurzer Spaziergang zum berühmten Viadukt.\n\nBeenden Sie Ihren Tag auf dieser beeindruckenden Brücke, von der aus Sie auf die von Ihnen besuchten Orte zurückblicken können. Die Nutzung öffentlicher Verkehrsmittel ermöglicht es Ihnen, sich wie ein Einheimischer zu fühlen und die Verbindungen zwischen den verschiedenen Stadtteilen von Veszprém hautnah zu erleben.",
+        "hu": "Veszprém felfedezése tömegközlekedéssel egyszerű és hatékony. A nap a központi buszpályaudvaron kezdődik, ahol napijegyet válthat. Egy busz gyorsan a Várnegyed közelébe visz, ahol a délelőttöt a történelmi utcák és épületek gyalogos felfedezésével töltheti.\n\nAz óvárosi ebéd után ismét buszra száll, ezúttal a völgy felé. A délután a Veszprémi Állatkert meglátogatására van fenntartva, egy zöld paradicsom, amely csodálatos kontrasztot kínál a városi nyüzsgéssel szemben, és könnyen elérhető busszal.\n\nKéső délután egy újabb buszút visz vissza a város szívébe, a Laczkó Dezső Múzeumba. Miután elmerült a régió gazdag történelmében, már csak egy rövid séta a híres Viadukt.\n\nZárja a napot ezen a lenyűgöző hídon, ahonnan visszatekinthet a meglátogatott helyekre. A tömegközlekedés használata lehetővé teszi, hogy helyinek érezze magát, és testközelből tapasztalja meg a kapcsolatot Veszprém különböző városrészei között.",
+        "ro": "Explorarea Veszprémului cu transportul public este ușoară și eficientă. Ziua începe la autogara centrală, de unde vă echipați cu un abonament de o zi. Un autobuz vă duce rapid în apropierea Cartierului Castelului, unde petreceți dimineața explorând pe jos străzile și clădirile istorice.\n\nDupă prânz în orașul vechi, urcați din nou într-un autobuz, de data aceasta spre vale. După-amiaza este rezervată unei vizite la Grădina Zoologică Veszprém, un paradis verde care oferă un contrast minunat cu agitația urbană și este ușor accesibil cu autobuzul.\n\nSpre seară, o altă călătorie cu autobuzul vă duce înapoi în inima orașului, la Muzeul Laczkó Dezső. După ce v-ați cufundat în istoria bogată a regiunii, este doar o scurtă plimbare până la faimosul Viaduct.\n\nÎncheiați ziua pe acest pod impresionant, de unde puteți privi înapoi la locurile pe care le-ați vizitat. Utilizarea transportului public vă permite să vă simțiți ca un localnic și să experimentați direct legăturile dintre diferitele cartiere ale Veszprémului.",
+        "en": "Exploring Veszprém by public transport is easy and efficient. Your day starts at the central bus station, where you'll equip yourself with a day pass. A bus quickly takes you near the Castle Quarter, where you'll spend the morning exploring the historic streets and buildings on foot.\n\nAfter lunch in the old town, you'll hop on a bus again, this time heading towards the valley. The afternoon is reserved for a visit to the Veszprém Zoo, a green paradise that offers a wonderful contrast to the urban bustle and is easily reached by bus.\n\nIn the late afternoon, another bus ride takes you back to the heart of the city to the Laczkó Dezső Museum. After immersing yourself in the region's rich history, it's just a short walk to the famous Viaduct.\n\nConclude your day on this impressive bridge, from where you can look back on the places you've visited. Using public transport allows you to feel like a local and experience the connections between Veszprém's different districts firsthand."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gulyásleves",
+            "tip": "Ein Muss in Ungarn, erhältlich in vielen Restaurants in der Innenstadt."
+          },
+          {
+            "name": "Túró Rudi",
+            "tip": "Ein beliebter ungarischer Schokoriegel mit Quarkfüllung, erhältlich in jedem Supermarkt."
+          },
+          {
+            "name": "Decanter Bisztró",
+            "tip": "In der Nähe einer Bushaltestelle gelegen, bietet es eine gute Auswahl an lokalen Weinen und Speisen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gulyásleves",
+            "tip": "Kötelező Magyarországon, a belváros számos éttermében kapható."
+          },
+          {
+            "name": "Túró Rudi",
+            "tip": "Népszerű magyar túrós-csokis snack, minden szupermarketben kapható."
+          },
+          {
+            "name": "Decanter Bisztró",
+            "tip": "Buszmegálló közelében található, jó választékot kínál helyi borokból és ételekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de gulaș",
+            "tip": "O necesitate în Ungaria, disponibilă în multe restaurante din centrul orașului."
+          },
+          {
+            "name": "Túró Rudi",
+            "tip": "Un baton de ciocolată popular maghiar umplut cu brânză de vaci, disponibil în orice supermarket."
+          },
+          {
+            "name": "Decanter Bistro",
+            "tip": "Situat aproape de o stație de autobuz, oferă o selecție bună de vinuri și mâncăruri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goulash Soup",
+            "tip": "A must-try in Hungary, available in many downtown restaurants."
+          },
+          {
+            "name": "Túró Rudi",
+            "tip": "A popular Hungarian chocolate bar filled with curd cheese, available at any supermarket."
+          },
+          {
+            "name": "Decanter Bistro",
+            "tip": "Located near a bus stop, it offers a good selection of local wines and food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Erzsébet liget (Elisabeth Park)",
+            "tip": "Ein großer Park in der Nähe des Museums, perfekt für eine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die hinteren Gassen des Burgviertels",
+            "tip": "Entfliehen Sie den Menschenmassen und finden Sie ruhige Ecken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Beobachten Sie das Stadtleben, während Sie von einem Ort zum anderen fahren.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erzsébet liget",
+            "tip": "Nagy park a múzeum közelében, tökéletes egy kis pihenésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Várnegyed hátsó utcái",
+            "tip": "Meneküljön el a tömeg elől, és keressen csendes zugokat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Figyelje a városi életet, miközben egyik helyről a másikra utazik.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Erzsébet (Elisabeth)",
+            "tip": "Un parc mare lângă muzeu, perfect pentru o pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străduțele din spatele Cartierului Castelului",
+            "tip": "Evadați de mulțime și găsiți colțuri liniștite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la fereastra autobuzului",
+            "tip": "Urmăriți viața orașului în timp ce călătoriți dintr-un loc în altul.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Erzsébet liget (Elisabeth Park)",
+            "tip": "A large park near the museum, perfect for taking a break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The back streets of the Castle Quarter",
+            "tip": "Escape the crowds and find quiet corners.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "Watch the city life go by as you travel from one spot to another.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Veszprém piac (Markthalle)",
+            "tip": "Erleben Sie einen authentischen ungarischen Markt, leicht mit dem Bus erreichbar."
+          },
+          {
+            "name": "Kossuth Lajos utca",
+            "tip": "Die Haupteinkaufsstraße ist nur einen kurzen Spaziergang von mehreren Bushaltestellen entfernt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Veszprémi piac",
+            "tip": "Tapasztalja meg az autentikus magyar piacot, busszal könnyen megközelíthető."
+          },
+          {
+            "name": "Kossuth Lajos utca",
+            "tip": "A fő bevásárlóutca csak egy rövid sétára van több buszmegállótól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Veszprém",
+            "tip": "Experimentați o piață maghiară autentică, ușor accesibilă cu autobuzul."
+          },
+          {
+            "name": "Strada Kossuth Lajos",
+            "tip": "Principala stradă comercială este la o scurtă plimbare de mai multe stații de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Veszprém Market Hall",
+            "tip": "Experience an authentic Hungarian market, easily reachable by bus."
+          },
+          {
+            "name": "Kossuth Lajos Street",
+            "tip": "The main shopping street is a short walk from several bus stops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Verwenden Sie eine ÖPNV-App, um Busfahrpläne in Echtzeit zu überprüfen.",
+          "Validieren Sie Ihr Ticket bei jeder Fahrt, um Strafen zu vermeiden.",
+          "Beachten Sie, dass Busse abends seltener fahren könnten.",
+          "Behalten Sie den Fahrplan im Auge, besonders für den letzten Bus zurück zu Ihrer Unterkunft."
+        ],
+        "hu": [
+          "Használjon tömegközlekedési alkalmazást a buszmenetrendek valós idejű ellenőrzéséhez.",
+          "Érvényesítse a jegyét minden utazáskor a büntetések elkerülése érdekében.",
+          "Vegye figyelembe, hogy este ritkábban járhatnak a buszok.",
+          "Tartsa szemmel a menetrendet, különösen az utolsó busz esetében, amely visszavisz a szálláshelyére."
+        ],
+        "ro": [
+          "Utilizați o aplicație de transport public pentru a verifica orarele autobuzelor în timp real.",
+          "Validați-vă biletul la fiecare călătorie pentru a evita amenzile.",
+          "Rețineți că autobuzele pot circula mai rar seara.",
+          "Fiți cu ochii pe orar, în special pentru ultimul autobuz înapoi la cazare."
+        ],
+        "en": [
+          "Use a public transport app to check bus schedules in real-time.",
+          "Validate your ticket on each ride to avoid fines.",
+          "Be aware that buses might be less frequent in the evening.",
+          "Keep an eye on the schedule, especially for the last bus back to your accommodation."
+        ]
+      }
+    }
+  }
+}

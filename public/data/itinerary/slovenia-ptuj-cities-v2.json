@@ -1,0 +1,1423 @@
+{
+  "city_id": "slovenia-ptuj-cities-v2",
+  "anchor": {
+    "name": "Ptuj",
+    "coords": [
+      15.869,
+      46.419
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Orpheus-Denkmal",
+            "hu": "Orfeusz-emlékmű",
+            "ro": "Monumentul lui Orfeu",
+            "en": "Orpheus Monument"
+          },
+          "coords": [
+            15.8705,
+            46.4201
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der perfekte Startpunkt. Ein römischer Grabstein im Herzen der Stadt.",
+            "hu": "Tökéletes kiindulópont. Egy római kori sírkő a város szívében.",
+            "ro": "Punctul perfect de plecare. O piatră funerară romană în inima orașului.",
+            "en": "The perfect starting point. A Roman tombstone in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtturm",
+            "hu": "Várostorony",
+            "ro": "Turnul Orașului",
+            "en": "City Tower"
+          },
+          "coords": [
+            15.8702,
+            46.4198
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm für eine erste Panoramaaussicht auf die Altstadt.",
+            "hu": "Másszon fel a toronyba az óvárosra nyíló első panorámáért.",
+            "ro": "Urcați în turn pentru o primă vedere panoramică a orașului vechi.",
+            "en": "Climb the tower for an initial panoramic view of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Georg",
+            "hu": "Szent György-plébániatemplom",
+            "ro": "Biserica parohială Sf. Gheorghe",
+            "en": "St. George's Parish Church"
+          },
+          "coords": [
+            15.871,
+            46.4203
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:09",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die gotischen Fresken und die beeindruckende Orgel.",
+            "hu": "Figyelje meg a gótikus freskókat és a lenyűgöző orgonát.",
+            "ro": "Fiți atenți la frescele gotice și la orga impresionantă.",
+            "en": "Look out for the Gothic frescoes and the impressive organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Dominikanerkloster",
+            "hu": "Domonkos-rendi kolostor",
+            "ro": "Mănăstirea Dominicană",
+            "en": "Dominican Monastery"
+          },
+          "coords": [
+            15.8735,
+            46.4185
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Heute ein Kulturzentrum, einst ein Ort der Stille. Schöner Innenhof.",
+            "hu": "Ma kulturális központ, egykor a csend helye. Gyönyörű belső udvar.",
+            "ro": "Astăzi centru cultural, odată un loc de liniște. Curte interioară frumoasă.",
+            "en": "Today a cultural center, once a place of silence. Beautiful inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Ptuj",
+            "hu": "Ptuji vár",
+            "ro": "Castelul Ptuj",
+            "en": "Ptuj Castle"
+          },
+          "coords": [
+            15.868,
+            46.422
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:08",
+          "stay_min": 120,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für das Museum und die atemberaubende Aussicht ein.",
+            "hu": "Szánjon elég időt a múzeumra és a lélegzetelállító kilátásra.",
+            "ro": "Planificați suficient timp pentru muzeu și pentru priveliștea uluitoare.",
+            "en": "Allow plenty of time for the museum and the breathtaking views."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            15.87,
+            46.4195
+          ],
+          "category": "gastro",
+          "arrive_at": "14:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Probieren Sie eine 'Gostilna' für authentische slowenische Küche.",
+            "hu": "Próbáljon ki egy 'Gostilnát' az autentikus szlovén konyháért.",
+            "ro": "Încercați o 'Gostilna' pentru bucătărie slovenă autentică.",
+            "en": "Try a 'Gostilna' for authentic Slovenian cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "See Ptuj",
+            "hu": "Ptuji-tó",
+            "ro": "Lacul Ptuj",
+            "en": "Lake Ptuj"
+          },
+          "coords": [
+            15.858,
+            46.415
+          ],
+          "category": "lake",
+          "arrive_at": "16:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang am Ufer zum Abschluss des Tages.",
+            "hu": "Egy pihentető séta a tóparton a nap lezárásaként.",
+            "ro": "O plimbare relaxantă pe mal pentru a încheia ziua.",
+            "en": "A relaxing walk along the shore to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen erkunden Sie das römische Erbe von Ptuj rund um das Orpheus-Denkmal und den Stadtturm. Erklimmen Sie die Stufen für eine erste Aussicht. Mittags tauchen Sie in die kirchliche Geschichte in den Klöstern ein, bevor Sie den steilen Aufstieg zum Schloss Ptuj wagen, das mit seinem Museum und seiner Aussicht belohnt. Der Nachmittag gehört ganz dem Schloss und einem gemütlichen Mittagessen in einer traditionellen Gostilna. Am Abend schlendern Sie gemütlich am Ufer des Ptuj-Sees entlang und lassen die Eindrücke des ältesten slowenischen Stadt auf sich wirken.",
+        "hu": "Reggel fedezze fel Ptuj római örökségét az Orfeusz-emlékmű és a Várostorony környékén. Másszon fel a lépcsőkön egy első kilátásért. Délben merüljön el a kolostorok egyházi történelmében, mielőtt nekivágna a meredek útnak a Ptuji várhoz, amely múzeumával és kilátásával jutalmaz. A délután a váré és egy kellemes ebédé egy hagyományos gostilnában. Este sétáljon egyet a Ptuji-tó partján, és hagyja, hogy a legrégebbi szlovén város benyomásai hassanak önre.",
+        "ro": "Dimineața, explorați moștenirea romană a orașului Ptuj în jurul Monumentului lui Orfeu și a Turnului Orașului. Urcați treptele pentru o primă priveliște. La prânz, scufundați-vă în istoria ecleziastică a mănăstirilor înainte de a îndrăzni urcarea abruptă spre Castelul Ptuj, care vă recompensează cu muzeul și priveliștea sa. După-amiaza este dedicată castelului și unui prânz relaxant într-o gostilna tradițională. Seara, plimbați-vă pe malul lacului Ptuj și lăsați impresiile celui mai vechi oraș sloven să vă pătrundă.",
+        "en": "In the morning, explore Ptuj's Roman heritage around the Orpheus Monument and the City Tower. Climb the steps for a first view. At midday, delve into the ecclesiastical history in the monasteries before daring the steep ascent to Ptuj Castle, which rewards with its museum and views. The afternoon is all about the castle and a leisurely lunch in a traditional gostilna. In the evening, stroll along the shore of Lake Ptuj and let the impressions of Slovenia's oldest city sink in."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gostilna Ribič",
+            "tip": "Fantastische Lage direkt am Fluss Drau, spezialisiert auf Fischgerichte."
+          },
+          {
+            "name": "Püro",
+            "tip": "Moderne slowenische Küche mit Fokus auf lokalen Zutaten."
+          },
+          {
+            "name": "Torta Ptuj",
+            "tip": "Probieren Sie den lokalen Kuchen in einer der Konditoreien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gostilna Ribič",
+            "tip": "Fantasztikus elhelyezkedés közvetlenül a Dráva folyó partján, halételekre specializálódott."
+          },
+          {
+            "name": "Püro",
+            "tip": "Modern szlovén konyha, helyi alapanyagokra összpontosítva."
+          },
+          {
+            "name": "Ptuji torta",
+            "tip": "Kóstolja meg a helyi süteményt az egyik cukrászdában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gostilna Ribič",
+            "tip": "Locație fantastică chiar pe râul Drava, specializată în preparate din pește."
+          },
+          {
+            "name": "Püro",
+            "tip": "Bucătărie slovenă modernă, cu accent pe ingrediente locale."
+          },
+          {
+            "name": "Torta Ptuj",
+            "tip": "Încercați prăjitura locală într-una dintre cofetării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gostilna Ribič",
+            "tip": "Fantastic location right on the Drava River, specializing in fish dishes."
+          },
+          {
+            "name": "Püro",
+            "tip": "Modern Slovenian cuisine with a focus on local ingredients."
+          },
+          {
+            "name": "Ptuj Cake",
+            "tip": "Try the local cake in one of the pastry shops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Ptuj-See",
+            "tip": "Besonders friedlich bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schlosshof",
+            "tip": "Finden Sie eine ruhige Ecke mit Blick auf die Dächer der Stadt.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Ufer der Drau",
+            "tip": "Ein entspannender Ort, um dem Trubel der Altstadt zu entfliehen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Ptuji-tónál",
+            "tip": "Különösen békés naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Várudvar",
+            "tip": "Keressen egy csendes sarkot, ahonnan a város tetőire nyílik kilátás.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Dráva-part",
+            "tip": "Pihentető hely, hogy elmeneküljön az óváros nyüzsgésétől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul lacului Ptuj",
+            "tip": "Deosebit de liniștit la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea castelului",
+            "tip": "Găsiți un colț liniștit cu vedere la acoperișurile orașului.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Malul râului Drava",
+            "tip": "Un loc relaxant pentru a scăpa de agitația orașului vechi.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk at Lake Ptuj",
+            "tip": "Especially peaceful at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Castle Courtyard",
+            "tip": "Find a quiet corner with a view over the city's rooftops.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Banks of the Drava",
+            "tip": "A relaxing spot to escape the bustle of the old town.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Die Region ist berühmt für ihre Weißweine. Suchen Sie nach Šipon oder Laški Rizling."
+          },
+          {
+            "name": "Kurent-Figuren",
+            "tip": "Eine traditionelle Maske vom lokalen Karneval, ein einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "A régió híres fehérborairól. Keressen Šipont vagy Laški Rizlinget."
+          },
+          {
+            "name": "Kurent-figurák",
+            "tip": "Hagyományos maszk a helyi karneválról, egyedi szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Regiunea este renumită pentru vinurile sale albe. Căutați Šipon sau Laški Rizling."
+          },
+          {
+            "name": "Figurine Kurent",
+            "tip": "O mască tradițională de la carnavalul local, un suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "The region is famous for its white wines. Look for Šipon or Laški Rizling."
+          },
+          {
+            "name": "Kurent Figures",
+            "tip": "A traditional mask from the local carnival, a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, das Kopfsteinpflaster in der Altstadt kann uneben sein.",
+          "Der Aufstieg zum Schloss ist steil, aber die Aussicht ist es wert.",
+          "Viele Museen und Sehenswürdigkeiten sind montags geschlossen.",
+          "Nehmen Sie sich Zeit, sich in den engen Gassen zu verirren."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, az óvárosi macskakő egyenetlen lehet.",
+          "A várhoz vezető út meredek, de a kilátás megéri.",
+          "Sok múzeum és látnivaló zárva tart hétfőn.",
+          "Szánjon időt arra, hogy eltévedjen a szűk utcákban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, piatra cubică din orașul vechi poate fi denivelată.",
+          "Urcușul spre castel este abrupt, dar priveliștea merită.",
+          "Multe muzee și atracții sunt închise lunea.",
+          "Luați-vă timp să vă pierdeți pe străduțele înguste."
+        ],
+        "en": [
+          "Wear comfortable shoes, the cobblestones in the old town can be uneven.",
+          "The climb to the castle is steep, but the view is worth it.",
+          "Many museums and attractions are closed on Mondays.",
+          "Take time to get lost in the narrow streets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start",
+            "hu": "Kerékpárkölcsönzés és indulás",
+            "ro": "Închiriere de biciclete și start",
+            "en": "Bike Rental & Start"
+          },
+          "coords": [
+            15.872,
+            46.417
+          ],
+          "category": "service",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Fahrrad in der Nähe der Drau und starten Sie Ihre Tour.",
+            "hu": "Vegye át kerékpárját a Dráva közelében, és kezdje meg a túrát.",
+            "ro": "Luați-vă bicicleta de lângă râul Drava și începeți turul.",
+            "en": "Pick up your bike near the Drava River and start your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Mithräum",
+            "hu": "Mithrász-szentély",
+            "ro": "Mithraeum",
+            "en": "Mithraeum"
+          },
+          "coords": [
+            15.875,
+            46.418
+          ],
+          "category": "historical",
+          "arrive_at": "09:29",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eines der wichtigsten Mithras-Heiligtümer Europas. Ein faszinierender Einblick.",
+            "hu": "Európa egyik legfontosabb Mithrász-szentélye. Lenyűgöző bepillantás.",
+            "ro": "Unul dintre cele mai importante sanctuare ale lui Mithra din Europa. O perspectivă fascinantă.",
+            "en": "One of the most important Mithraic sanctuaries in Europe. A fascinating insight."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt-Kern",
+            "hu": "Óváros magja",
+            "ro": "Centrul vechi",
+            "en": "Old Town Core"
+          },
+          "coords": [
+            15.8705,
+            46.4201
+          ],
+          "category": "historical",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den Stadtturm und die St.-Georgs-Kirche zu Fuß.",
+            "hu": "Tegye le a kerékpárt, és fedezze fel gyalog a Várostornyot és a Szent György-templomot.",
+            "ro": "Parcați bicicleta și explorați Turnul Orașului și Biserica Sf. Gheorghe pe jos.",
+            "en": "Park your bike and explore the City Tower and St. George's Church on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Ptuj",
+            "hu": "Ptuji vár",
+            "ro": "Castelul Ptuj",
+            "en": "Ptuj Castle"
+          },
+          "coords": [
+            15.868,
+            46.422
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad den Hügel hinauf. Die Aussicht und das Museum sind die Mühe wert!",
+            "hu": "Tolja fel a kerékpárt a dombra. A kilátás és a múzeum megéri a fáradságot!",
+            "ro": "Împingeți bicicleta la deal. Priveliștea și muzeul merită efortul!",
+            "en": "Push your bike up the hill. The view and the museum are worth the effort!"
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Fluss",
+            "hu": "Ebéd a folyóparton",
+            "ro": "Prânz pe malul râului",
+            "en": "Lunch by the River"
+          },
+          "coords": [
+            15.8725,
+            46.4175
+          ],
+          "category": "gastro",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit mit Blick auf die Drau, um sich für die Seerunde zu stärken.",
+            "hu": "Élvezzen egy étkezést a Drávára néző kilátással, hogy erőt gyűjtsön a tó körüli túrához.",
+            "ro": "Bucurați-vă de o masă cu vedere la râul Drava pentru a vă reface forțele pentru turul lacului.",
+            "en": "Enjoy a meal with a view of the Drava to refuel for the lake loop."
+          }
+        },
+        {
+          "name": {
+            "de": "Runde um den See Ptuj",
+            "hu": "Kör a Ptuji-tó körül",
+            "ro": "Turul lacului Ptuj",
+            "en": "Loop around Lake Ptuj"
+          },
+          "coords": [
+            15.84,
+            46.41
+          ],
+          "category": "lake",
+          "arrive_at": "15:43",
+          "stay_min": 55,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Eine flache und malerische Route. Perfekt für einen entspannten Nachmittag.",
+            "hu": "Sík és festői útvonal. Tökéletes egy pihentető délutánhoz.",
+            "ro": "Un traseu plat și pitoresc. Perfect pentru o după-amiază relaxantă.",
+            "en": "A flat and scenic route. Perfect for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer kurzen Fahrt zum antiken Mithräum, bevor Sie Ihr Fahrrad abstellen, um das Herz von Ptuj mit seinem Turm und seiner Kirche zu erkunden. Mittags erobern Sie den Schlosshügel – eine kleine Anstrengung, die reich belohnt wird. Nach dem Mittagessen am Flussufer radeln Sie entspannt um den malerischen Ptuj-See. Der Nachmittag ist geprägt von der Natur und der Ruhe des Wassers, ein perfekter Kontrast zur historischen Dichte des Vormittags. Ihre Radtour endet mit der Rückgabe des Fahrrads und vielen unvergesslichen Eindrücken.",
+        "hu": "A reggel egy rövid tekeréssel kezdődik az ókori Mithrász-szentélyhez, mielőtt letenné a kerékpárt, hogy felfedezze Ptuj szívét a toronnyal és a templommal. Délben meghódítja a Várhegyet – egy kis erőfeszítés, ami gazdagon megtérül. A folyóparti ebéd után egy pihentető kört tesz a festői Ptuji-tó körül. A délutánt a természet és a víz nyugalma jellemzi, tökéletes kontrasztban a délelőtt történelmi sűrűségével. A kerékpártúra a kerékpár leadásával és sok felejthetetlen benyomással ér véget.",
+        "ro": "Dimineața începe cu o scurtă plimbare cu bicicleta până la anticul Mithraeum, înainte de a parca bicicleta pentru a explora inima orașului Ptuj, cu turnul și biserica sa. La prânz, cuceriți dealul castelului – un mic efort care este bogat răsplătit. După prânzul pe malul râului, pedalați relaxat în jurul pitorescului lac Ptuj. După-amiaza este caracterizată de natură și liniștea apei, un contrast perfect cu densitatea istorică a dimineții. Turul cu bicicleta se încheie cu returnarea bicicletei și multe impresii de neuitat.",
+        "en": "The morning begins with a short ride to the ancient Mithraeum before parking your bike to explore the heart of Ptuj with its tower and church. At midday, you conquer the castle hill – a small effort that is richly rewarded. After lunch by the river, you cycle relaxedly around the picturesque Lake Ptuj. The afternoon is characterized by nature and the tranquility of the water, a perfect contrast to the historical density of the morning. Your bike tour ends with the return of the bike and many unforgettable impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gostilna Amadeus",
+            "tip": "Traditionelle Gerichte in gemütlicher Atmosphäre, perfekt für Radfahrer."
+          },
+          {
+            "name": "Kavarna Beli Baron",
+            "tip": "Ein schneller Kaffee und Kuchen zur Stärkung."
+          },
+          {
+            "name": "Štajerska hiša kulinarike",
+            "tip": "Entdecken Sie die Aromen der Region Štajerska."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gostilna Amadeus",
+            "tip": "Hagyományos ételek hangulatos környezetben, tökéletes kerékpárosoknak."
+          },
+          {
+            "name": "Kavarna Beli Baron",
+            "tip": "Egy gyors kávé és sütemény az energiáért."
+          },
+          {
+            "name": "Štajerska hiša kulinarike",
+            "tip": "Fedezze fel a Štajerska régió ízeit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gostilna Amadeus",
+            "tip": "Mâncăruri tradiționale într-o atmosferă confortabilă, perfectă pentru bicicliști."
+          },
+          {
+            "name": "Kavarna Beli Baron",
+            "tip": "O cafea rapidă și o prăjitură pentru a vă reface energia."
+          },
+          {
+            "name": "Štajerska hiša kulinarike",
+            "tip": "Descoperiți aromele regiunii Štajerska."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gostilna Amadeus",
+            "tip": "Traditional dishes in a cozy atmosphere, perfect for cyclists."
+          },
+          {
+            "name": "Kavarna Beli Baron",
+            "tip": "A quick coffee and cake to refuel."
+          },
+          {
+            "name": "Štajerska hiša kulinarike",
+            "tip": "Discover the flavors of the Štajerska region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am See",
+            "tip": "Halten Sie an einer der Bänke an und genießen Sie die Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Minoritenkloster-Hof",
+            "tip": "Ein verstecktes Juwel der Ruhe mitten in der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick vom Schloss",
+            "tip": "Nach dem Aufstieg haben Sie sich eine ruhige Minute verdient.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a tónál",
+            "tip": "Álljon meg az egyik padnál, és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Minorita kolostor udvara",
+            "tip": "A nyugalom rejtett gyöngyszeme a város közepén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a várból",
+            "tip": "A mászás után megérdemel egy csendes percet.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe lac",
+            "tip": "Opriți-vă la una dintre bănci și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Mănăstirii Minoriților",
+            "tip": "O bijuterie ascunsă de liniște în mijlocul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de la castel",
+            "tip": "După urcare, meritați un minut de liniște.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path at the lake",
+            "tip": "Stop at one of the benches and enjoy the silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Minorite Monastery Courtyard",
+            "tip": "A hidden gem of tranquility in the middle of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the castle",
+            "tip": "After the climb, you've earned a quiet minute.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kürbiskernöl",
+            "tip": "Ein Markenzeichen der Region, dunkel, nussig und köstlich."
+          },
+          {
+            "name": "Handgefertigte Töpferwaren",
+            "tip": "Suchen Sie nach kleinen Werkstätten mit einzigartigen Stücken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tökmagolaj",
+            "tip": "A régió védjegye, sötét, diós és finom."
+          },
+          {
+            "name": "Kézzel készített kerámiák",
+            "tip": "Keressen kis műhelyeket egyedi darabokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de dovleac",
+            "tip": "O marcă înregistrată a regiunii, închis la culoare, cu gust de nucă și delicios."
+          },
+          {
+            "name": "Ceramică artizanală",
+            "tip": "Căutați mici ateliere cu piese unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pumpkin Seed Oil",
+            "tip": "A hallmark of the region, dark, nutty, and delicious."
+          },
+          {
+            "name": "Handmade Pottery",
+            "tip": "Look for small workshops with unique pieces."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders in der Altstadt.",
+          "Einige Gassen können für Fahrräder zu eng sein, seien Sie bereit, abzusteigen und zu schieben.",
+          "Der Drau-Radweg bietet längere Tourenmöglichkeiten, falls Sie mehr Zeit haben.",
+          "Nehmen Sie eine Wasserflasche mit, besonders für die Tour um den See."
+        ],
+        "hu": [
+          "Mindig zárja le jól a kerékpárját, különösen az óvárosban.",
+          "Néhány sikátor túl szűk lehet a kerékpárok számára, legyen kész leszállni és tolni.",
+          "A Dráva kerékpárút hosszabb túrázási lehetőségeket kínál, ha több ideje van.",
+          "Vigyen magával egy vizes palackot, különösen a tó körüli túrára."
+        ],
+        "ro": [
+          "Legați-vă întotdeauna bine bicicleta, mai ales în orașul vechi.",
+          "Unele alei pot fi prea înguste pentru biciclete, fiți pregătiți să descălecați și să împingeți.",
+          "Pista de biciclete Drava oferă oportunități de tururi mai lungi dacă aveți mai mult timp.",
+          "Luați o sticlă de apă, mai ales pentru turul în jurul lacului."
+        ],
+        "en": [
+          "Always lock your bike securely, especially in the old town.",
+          "Some alleys can be too narrow for bikes, be prepared to dismount and push.",
+          "The Drava cycling path offers longer tour options if you have more time.",
+          "Bring a water bottle, especially for the tour around the lake."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centru",
+            "en": "Central Parking"
+          },
+          "coords": [
+            15.873,
+            46.417
+          ],
+          "category": "service",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe der Drau für den Tag.",
+            "hu": "Parkolja le autóját a Dráva közelében a napra.",
+            "ro": "Parcați mașina lângă râul Drava pentru o zi.",
+            "en": "Park your car near the Drava River for the day."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Cluster Altstadt: Orpheus & Kirchen",
+            "hu": "Óváros klaszter: Orfeusz & templomok",
+            "ro": "Clusterul Orașul Vechi: Orfeu și biserici",
+            "en": "Old Town Cluster: Orpheus & Churches"
+          },
+          "coords": [
+            15.8705,
+            46.4201
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das römische Denkmal, den Turm und die St.-Georgs-Kirche zu Fuß.",
+            "hu": "Fedezze fel gyalog a római emlékművet, a tornyot és a Szent György-templomot.",
+            "ro": "Explorați pe jos monumentul roman, turnul și Biserica Sf. Gheorghe.",
+            "en": "Explore the Roman monument, the tower, and St. George's Church on foot."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Cluster Altstadt: Klöster",
+            "hu": "Óváros klaszter: Kolostorok",
+            "ro": "Clusterul Orașul Vechi: Mănăstiri",
+            "en": "Old Town Cluster: Monasteries"
+          },
+          "coords": [
+            15.8735,
+            46.4185
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zu den ruhigen Innenhöfen der Dominikaner- und Minoritenklöster.",
+            "hu": "Egy rövid séta a domonkos- és minorita kolostorok csendes belső udvaraihoz.",
+            "ro": "O scurtă plimbare până la curțile liniștite ale mănăstirilor dominicană și minorită.",
+            "en": "A short walk to the quiet courtyards of the Dominican and Minorite monasteries."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Cluster Schlossberg: Schloss Ptuj",
+            "hu": "Várhegy klaszter: Ptuji vár",
+            "ro": "Clusterul Dealul Castelului: Castelul Ptuj",
+            "en": "Castle Hill Cluster: Ptuj Castle"
+          },
+          "coords": [
+            15.868,
+            46.422
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der Spaziergang den Hügel hinauf ist der anstrengendste Teil des Tages. Inklusive Mittagessen.",
+            "hu": "A dombra való felsétálás a nap legfárasztóbb része. Ebéddel együtt.",
+            "ro": "Plimbarea pe deal este cea mai obositoare parte a zilei. Include prânzul.",
+            "en": "The walk up the hill is the most strenuous part of the day. Includes lunch."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Cluster See: Parkplatz am See",
+            "hu": "Tó klaszter: Parkoló a tónál",
+            "ro": "Clusterul Lacului: Parcare la lac",
+            "en": "Lake Cluster: Parking at the Lake"
+          },
+          "coords": [
+            15.855,
+            46.414
+          ],
+          "category": "service",
+          "arrive_at": "15:05",
+          "stay_min": 10,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum See und parken Sie für einen entspannten Nachmittagsspaziergang.",
+            "hu": "Vezessen a tóhoz és parkoljon le egy pihentető délutáni sétára.",
+            "ro": "Conduceți până la lac și parcați pentru o plimbare relaxantă de după-amiază.",
+            "en": "Drive to the lake and park for a relaxing afternoon walk."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Cluster See: Uferspaziergang",
+            "hu": "Tó klaszter: Séta a parton",
+            "ro": "Clusterul Lacului: Plimbare pe mal",
+            "en": "Lake Cluster: Lakeside Walk"
+          },
+          "coords": [
+            15.858,
+            46.415
+          ],
+          "category": "lake",
+          "arrive_at": "15:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe und die Aussicht auf die Stadt von der anderen Seite.",
+            "hu": "Élvezze a csendet és a városra nyíló kilátást a másik oldalról.",
+            "ro": "Bucurați-vă de liniște și de vederea asupra orașului de pe cealaltă parte.",
+            "en": "Enjoy the tranquility and the view of the city from the other side."
+          },
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie beginnen den Tag, indem Sie Ihr Auto bequem in der Nähe des Flusses parken. Der Vormittag ist ein einziger Spaziergang durch die kompakte Altstadt, von den römischen Relikten über die Kirchen bis zu den Klöstern. Mittags nehmen Sie den Aufstieg zum Schloss in Angriff, wo Sie nicht nur Kultur, sondern auch Ihr Mittagessen und eine grandiose Aussicht genießen. Am Nachmittag steigen Sie ins Auto für eine kurze Fahrt zum Ptuj-See. Dort lassen Sie den Tag mit einem ruhigen Spaziergang am Ufer ausklingen und genießen den Blick auf die Stadtsilhouette aus der Ferne.",
+        "hu": "A napot azzal kezdi, hogy kényelmesen leparkolja autóját a folyó közelében. A délelőtt egyetlen séta a kompakt óvárosban, a római kori emlékektől a templomokon át a kolostorokig. Délben nekivág a vár megmászásának, ahol nemcsak kultúra, hanem ebéd és csodálatos kilátás is várja. Délután autóba ül egy rövid útra a Ptuji-tóhoz. Ott egy csendes tóparti sétával zárja a napot, és távolról élvezi a város sziluettjének látványát.",
+        "ro": "Începeți ziua parcând convenabil mașina lângă râu. Dimineața este o singură plimbare prin orașul vechi compact, de la relicvele romane la biserici și mănăstiri. La prânz, abordați urcarea spre castel, unde vă bucurați nu numai de cultură, ci și de prânz și de o priveliște magnifică. După-amiaza, urcați în mașină pentru o scurtă călătorie până la lacul Ptuj. Acolo, încheiați ziua cu o plimbare liniștită pe mal, bucurându-vă de vederea siluetei orașului de la distanță.",
+        "en": "You start the day by conveniently parking your car near the river. The morning is a single stroll through the compact old town, from Roman relics to churches and monasteries. At noon, you tackle the ascent to the castle, where you enjoy not only culture but also your lunch and a magnificent view. In the afternoon, you get in the car for a short drive to Lake Ptuj. There, you end the day with a quiet walk along the shore, enjoying the view of the city skyline from a distance."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Schloss",
+            "tip": "Kombinieren Sie Kultur mit Kulinarik und essen Sie direkt auf dem Schlosshügel."
+          },
+          {
+            "name": "Pomaranča",
+            "tip": "Moderne und internationale Gerichte im Stadtzentrum."
+          },
+          {
+            "name": "Weinkeller Ptuj (Ptujska Klet)",
+            "tip": "Machen Sie eine Weinprobe in einem der ältesten Weinkeller Sloweniens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a várban",
+            "tip": "Kombinálja a kultúrát a kulináris élvezetekkel, és étkezzen közvetlenül a Várhegyen."
+          },
+          {
+            "name": "Pomaranča",
+            "tip": "Modern és nemzetközi ételek a városközpontban."
+          },
+          {
+            "name": "Ptuji Borpince (Ptujska Klet)",
+            "tip": "Vegyen részt egy borkóstolón Szlovénia egyik legrégebbi borpincéjében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la castel",
+            "tip": "Combinați cultura cu deliciile culinare și luați masa chiar pe dealul castelului."
+          },
+          {
+            "name": "Pomaranča",
+            "tip": "Mâncăruri moderne și internaționale în centrul orașului."
+          },
+          {
+            "name": "Crama Ptuj (Ptujska Klet)",
+            "tip": "Participați la o degustare de vinuri într-una dintre cele mai vechi crame din Slovenia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at the Castle",
+            "tip": "Combine culture with cuisine and dine right on the castle hill."
+          },
+          {
+            "name": "Pomaranča",
+            "tip": "Modern and international dishes in the city center."
+          },
+          {
+            "name": "Ptuj Wine Cellar (Ptujska Klet)",
+            "tip": "Go for a wine tasting in one of Slovenia's oldest wine cellars."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt am See",
+            "tip": "Finden Sie einen ruhigen Ort am Ufer und beobachten Sie die Vögel.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Versteckte Gassen",
+            "tip": "Weichen Sie von der Hauptroute ab und entdecken Sie die Stille der Seitengassen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang über der Drau",
+            "tip": "Ein malerischer Abschluss für Ihren Tag in Ptuj.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a tónál",
+            "tip": "Keressen egy csendes helyet a parton, és figyelje a madarakat.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Rejtett sikátorok",
+            "tip": "Térjen le a fő útvonalról, és fedezze fel a mellékutcák csendjét.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Dráva felett",
+            "tip": "Festői befejezése a ptuji napnak.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la lac",
+            "tip": "Găsiți un loc liniștit pe mal și priviți păsările.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Străduțe ascunse",
+            "tip": "Abateți-vă de la traseul principal și descoperiți liniștea străduțelor lăturalnice.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare peste Drava",
+            "tip": "Un final pitoresc pentru ziua petrecută în Ptuj.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at the lake",
+            "tip": "Find a quiet spot on the shore and watch the birds.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Hidden alleys",
+            "tip": "Deviate from the main route and discover the silence of the side streets.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset over the Drava",
+            "tip": "A picturesque end to your day in Ptuj.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunstgalerien",
+            "tip": "Finden Sie einzigartige Kunstwerke von slowenischen Künstlern."
+          },
+          {
+            "name": "Bauernmarkt",
+            "tip": "Wenn Sie an einem Markttag dort sind, decken Sie sich mit lokalen Produkten ein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi művészeti galériák",
+            "tip": "Találjon egyedi műalkotásokat szlovén művészektől."
+          },
+          {
+            "name": "Termelői piac",
+            "tip": "Ha piacnapon van ott, vásároljon helyi termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerii de artă locale",
+            "tip": "Găsiți opere de artă unice ale artiștilor sloveni."
+          },
+          {
+            "name": "Piața fermierilor",
+            "tip": "Dacă sunteți acolo într-o zi de piață, aprovizionați-vă cu produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local art galleries",
+            "tip": "Find unique works of art by Slovenian artists."
+          },
+          {
+            "name": "Farmers' market",
+            "tip": "If you're there on a market day, stock up on local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkzonen und -gebühren in der Innenstadt.",
+          "Die Straßen in der Altstadt sind sehr eng; das Fahren wird nicht empfohlen.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch die umliegende Weinregion zu erkunden, wenn Sie mehr Zeit haben.",
+          "Überprüfen Sie die Öffnungszeiten des Schlosses, bevor Sie den Hügel erklimmen."
+        ],
+        "hu": [
+          "Figyeljen a parkolási zónákra és díjakra a belvárosban.",
+          "Az óváros utcái nagyon szűkek; vezetés nem ajánlott.",
+          "Az autó rugalmasságot ad, hogy felfedezze a környező borvidéket is, ha több ideje van.",
+          "Ellenőrizze a vár nyitvatartási idejét, mielőtt felmászik a hegyre."
+        ],
+        "ro": [
+          "Fiți atenți la zonele de parcare și la taxele din centrul orașului.",
+          "Străzile din orașul vechi sunt foarte înguste; nu se recomandă condusul.",
+          "O mașină vă oferă flexibilitatea de a explora și regiunea viticolă înconjurătoare dacă aveți mai mult timp.",
+          "Verificați programul de funcționare al castelului înainte de a urca pe deal."
+        ],
+        "en": [
+          "Pay attention to parking zones and fees in the city center.",
+          "The streets in the old town are very narrow; driving is not recommended.",
+          "A car gives you the flexibility to also explore the surrounding wine region if you have more time.",
+          "Check the castle's opening hours before climbing the hill."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof",
+            "hu": "Érkezés a buszpályaudvarra",
+            "ro": "Sosire la autogară",
+            "en": "Arrival at Bus Station"
+          },
+          "coords": [
+            15.876,
+            46.416
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am zentralen Knotenpunkt des öffentlichen Verkehrs.",
+            "hu": "Kezdje a napot a tömegközlekedés központi csomópontjánál.",
+            "ro": "Începeți ziua la nodul central de transport public.",
+            "en": "Start your day at the central public transport hub."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Cluster Altstadt: Spaziergang durch die Geschichte",
+            "hu": "Óváros klaszter: Séta a történelemben",
+            "ro": "Clusterul Orașul Vechi: Plimbare prin istorie",
+            "en": "Old Town Cluster: Walk through History"
+          },
+          "coords": [
+            15.871,
+            46.42
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Vom Busbahnhof aus ist es ein kurzer Spaziergang ins Zentrum. Entdecken Sie Turm, Kirchen und Denkmäler.",
+            "hu": "A buszpályaudvartól rövid sétára van a központ. Fedezze fel a tornyot, templomokat és emlékműveket.",
+            "ro": "De la autogară este o scurtă plimbare până în centru. Descoperiți turnul, bisericile și monumentele.",
+            "en": "From the bus station, it's a short walk to the center. Discover the tower, churches, and monuments."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Cluster Schlossberg: Aufstieg & Mittagessen",
+            "hu": "Várhegy klaszter: Felmászás és ebéd",
+            "ro": "Clusterul Dealul Castelului: Urcare și prânz",
+            "en": "Castle Hill Cluster: Ascent & Lunch"
+          },
+          "coords": [
+            15.868,
+            46.422
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss für jeden Besucher. Planen Sie hier auch Ihr Mittagessen ein.",
+            "hu": "Minden látogatónak kötelező. Tervezze ide az ebédjét is.",
+            "ro": "O vizită obligatorie pentru fiecare vizitator. Planificați-vă și prânzul aici.",
+            "en": "A must-see for every visitor. Plan your lunch here as well."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Fahrt zum See",
+            "hu": "Utazás a tóhoz",
+            "ro": "Călătorie spre lac",
+            "en": "Trip to the Lake"
+          },
+          "coords": [
+            15.855,
+            46.414
+          ],
+          "category": "transport",
+          "arrive_at": "14:35",
+          "stay_min": 5,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus vom Stadtzentrum zum See.",
+            "hu": "Menjen helyi busszal a városközpontból a tóhoz.",
+            "ro": "Luați un autobuz local din centrul orașului până la lac.",
+            "en": "Take a local bus from the city center to the lake."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Cluster See: Entspannung am Wasser",
+            "hu": "Tó klaszter: Pihenés a vízparton",
+            "ro": "Clusterul Lacului: Relaxare pe malul apei",
+            "en": "Lake Cluster: Relaxation by the Water"
+          },
+          "coords": [
+            15.858,
+            46.415
+          ],
+          "category": "lake",
+          "arrive_at": "14:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um die Eindrücke des Tages zu verarbeiten und die Natur zu genießen.",
+            "hu": "Tökéletes hely a nap benyomásainak feldolgozására és a természet élvezetére.",
+            "ro": "Locul perfect pentru a procesa impresiile zilei și a vă bucura de natură.",
+            "en": "The perfect place to process the day's impressions and enjoy nature."
+          },
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Busbahnhof, von wo aus Sie direkt in das historische Herz von Ptuj spazieren. Der Vormittag ist ein einziger großer Spaziergang durch die Sehenswürdigkeiten der Altstadt. Zu Mittag erklimmen Sie den Schlosshügel zu Fuß, eine lohnende Anstrengung für die Aussicht und das Mittagessen. Am Nachmittag nutzen Sie das lokale Busnetz für einen Abstecher zum Ptuj-See. Dort verbringen Sie eine entspannte Zeit am Wasser, bevor Sie den Bus zurück ins Zentrum oder zum Bahnhof nehmen, um Ihre Heimreise anzutreten.",
+        "hu": "A nap a buszpályaudvaron kezdődik, ahonnan közvetlenül Ptuj történelmi szívébe sétálhat. A délelőtt egyetlen nagy séta az óváros látnivalói között. Délben gyalog mássza meg a Várhegyet, ami megéri a fáradságot a kilátásért és az ebédért. Délután a helyi buszhálózattal tesz egy kitérőt a Ptuji-tóhoz. Ott egy pihentető időt tölt a vízparton, mielőtt visszabuszozna a központba vagy a pályaudvarra, hogy hazautazzon.",
+        "ro": "Ziua începe la autogară, de unde vă plimbați direct în inima istorică a orașului Ptuj. Dimineața este o singură plimbare mare prin atracțiile orașului vechi. La prânz, urcați pe jos pe dealul castelului, un efort care merită pentru priveliște și prânz. După-amiaza, folosiți rețeaua locală de autobuze pentru o excursie la lacul Ptuj. Acolo petreceți un timp relaxant pe malul apei înainte de a lua autobuzul înapoi în centru sau la gară pentru a vă întoarce acasă.",
+        "en": "Your day begins at the bus station, from where you walk directly into the historical heart of Ptuj. The morning is one long walk through the sights of the old town. At noon, you climb the castle hill on foot, a worthwhile effort for the view and lunch. In the afternoon, you use the local bus network for a trip to Lake Ptuj. There you spend a relaxing time by the water before taking the bus back to the center or the station to start your journey home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kavarna Kiper",
+            "tip": "Ein beliebter Treffpunkt für Einheimische für Kaffee und Gebäck."
+          },
+          {
+            "name": "Gostilna Grabar",
+            "tip": "Etwas außerhalb, aber mit dem Bus erreichbar für ein sehr authentisches Erlebnis."
+          },
+          {
+            "name": "Snack Bar am See",
+            "tip": "Für einen schnellen Imbiss oder ein Eis mit Blick aufs Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kavarna Kiper",
+            "tip": "A helyiek kedvelt találkozóhelye kávéra és süteményre."
+          },
+          {
+            "name": "Gostilna Grabar",
+            "tip": "Kicsit kijjebb esik, de busszal elérhető egy nagyon autentikus élményért."
+          },
+          {
+            "name": "Büfé a tónál",
+            "tip": "Egy gyors harapnivalóért vagy egy fagylaltért, kilátással a vízre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kavarna Kiper",
+            "tip": "Un loc de întâlnire popular pentru localnici pentru cafea și produse de patiserie."
+          },
+          {
+            "name": "Gostilna Grabar",
+            "tip": "Puțin în afara orașului, dar accesibil cu autobuzul pentru o experiență foarte autentică."
+          },
+          {
+            "name": "Snack Bar la lac",
+            "tip": "Pentru o gustare rapidă sau o înghețată cu vedere la apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kavarna Kiper",
+            "tip": "A popular meeting place for locals for coffee and pastries."
+          },
+          {
+            "name": "Gostilna Grabar",
+            "tip": "A bit out of town, but accessible by bus for a very authentic experience."
+          },
+          {
+            "name": "Snack Bar at the Lake",
+            "tip": "For a quick snack or an ice cream with a view of the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Eine grüne Oase in der Nähe des Busbahnhofs, ideal zum Warten oder Entspannen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kirche St. Georg am späten Nachmittag",
+            "tip": "Wenn die meisten Touristen weg sind, finden Sie hier eine besondere Stille.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Eine Bank am Fluss Drau",
+            "tip": "Beobachten Sie das fließende Wasser und lassen Sie die Gedanken schweifen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Park",
+            "tip": "Zöld oázis a buszpályaudvar közelében, ideális várakozásra vagy pihenésre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Szent György-templom késő délután",
+            "tip": "Amikor a legtöbb turista már elment, különleges csendet talál itt.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Egy pad a Dráva folyó partján",
+            "tip": "Nézze a folyó vizét, és hagyja, hogy gondolatai elkalandozzanak.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului",
+            "tip": "O oază de verdeață lângă autogară, ideală pentru așteptare sau relaxare.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Biserica Sf. Gheorghe la sfârșitul după-amiezii",
+            "tip": "Când majoritatea turiștilor au plecat, veți găsi aici o liniște specială.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "O bancă pe malul râului Drava",
+            "tip": "Priviți apa curgând și lăsați-vă gândurile să rătăcească.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "A green oasis near the bus station, ideal for waiting or relaxing.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "St. George's Church in the late afternoon",
+            "tip": "When most tourists have left, you will find a special silence here.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "A bench on the Drava River",
+            "tip": "Watch the flowing water and let your thoughts wander.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen im Schloss",
+            "tip": "Finden Sie Bücher und Andenken, die sich auf die Geschichte von Ptuj beziehen."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Kaufen Sie Wein oder Kürbiskernöl als essbares Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt a várban",
+            "tip": "Találjon könyveket és emléktárgyakat Ptuj történelmével kapcsolatban."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vásároljon bort vagy tökmagolajat ehető szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri la castel",
+            "tip": "Găsiți cărți și suveniruri legate de istoria orașului Ptuj."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Cumpărați vin sau ulei de dovleac ca suvenir comestibil."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop at the castle",
+            "tip": "Find books and souvenirs related to the history of Ptuj."
+          },
+          {
+            "name": "Local delicacies",
+            "tip": "Buy wine or pumpkin seed oil as an edible souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Die Busfahrpläne können am Wochenende und an Feiertagen eingeschränkt sein.",
+          "Fragen Sie im Touristeninformationszentrum nach den neuesten Busfahrplänen.",
+          "Seien Sie darauf vorbereitet, dass die letzte Busverbindung vom See zurück möglicherweise früher als erwartet ist."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utat tervez.",
+          "A buszmenetrend korlátozott lehet hétvégén és ünnepnapokon.",
+          "Kérdezze meg a turisztikai információs központban a legfrissebb buszmenetrendeket.",
+          "Készüljön fel arra, hogy az utolsó buszjárat a tótól visszafelé a vártnál korábban indulhat."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă planificați mai multe călătorii.",
+          "Programul autobuzelor poate fi limitat în weekend și de sărbătorile legale.",
+          "Întrebați la centrul de informare turistică despre cele mai recente programe de autobuz.",
+          "Fiți pregătiți ca ultimul autobuz de la lac înapoi să fie mai devreme decât vă așteptați."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan multiple trips.",
+          "Bus schedules may be limited on weekends and public holidays.",
+          "Ask at the tourist information center for the latest bus schedules.",
+          "Be prepared that the last bus connection from the lake back may be earlier than expected."
+        ]
+      }
+    }
+  }
+}

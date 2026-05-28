@@ -1,0 +1,1308 @@
+{
+  "city_id": "poland-siedlce-cities-v2",
+  "anchor": {
+    "name": "Siedlce",
+    "coords": [
+      22.2891,
+      52.1668
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus 'Jack'",
+            "hu": "'Jack' Városháza",
+            "ro": "Primăria 'Jack'",
+            "en": "'Jack' Town Hall"
+          },
+          "coords": [
+            22.2823,
+            52.168
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige Atlas-Figur, die die Turmuhr stützt.",
+            "hu": "Csodálja meg az egyedülálló Atlasz-szobrot, amely a toronyórát tartja.",
+            "ro": "Admirați figura unică a lui Atlas care susține ceasul turnului.",
+            "en": "Admire the unique figure of Atlas supporting the town hall clock."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Stanislaus-Kirche",
+            "hu": "Szent Stanislaus-templom",
+            "ro": "Biserica Sfântul Stanislav",
+            "en": "St. Stanislaus Church"
+          },
+          "coords": [
+            22.2851,
+            52.1691
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach den barocken Altären und der kunstvollen Kanzel.",
+            "hu": "Keresse a barokk oltárokat és a művészien faragott szószéket.",
+            "ro": "Căutați altarele baroce și amvonul bogat ornamentat.",
+            "en": "Look for the Baroque altars and the ornate pulpit."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für Papst Johannes Paul II.",
+            "hu": "II. János Pál pápa emlékműve",
+            "ro": "Monumentul Papei Ioan Paul al II-lea",
+            "en": "Pope John Paul II Monument"
+          },
+          "coords": [
+            22.2858,
+            52.1665
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:29",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung an diesem wichtigen Ort für die lokale Gemeinschaft.",
+            "hu": "Egy pillanatnyi elmélkedés ezen a helyi közösség számára fontos helyen.",
+            "ro": "Un moment de reflecție în acest loc important pentru comunitatea locală.",
+            "en": "A moment of reflection at this important site for the local community."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Unbefleckten Empfängnis",
+            "hu": "Szeplőtelen Fogantatás Katedrális",
+            "ro": "Catedrala Neprihănitei Zămisliri",
+            "en": "Cathedral of the Immaculate Conception"
+          },
+          "coords": [
+            22.2889,
+            52.1658
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die neugotische Architektur ist beeindruckend, besonders die Glasfenster.",
+            "hu": "A neogótikus építészet lenyűgöző, különösen az üvegablakok.",
+            "ro": "Arhitectura neo-gotică este impresionantă, în special vitraliile.",
+            "en": "The Neo-Gothic architecture is impressive, especially the stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Ogiński-Palast & Regionalmuseum",
+            "hu": "Ogiński-palota és Regionális Múzeum",
+            "ro": "Palatul Ogiński și Muzeul Regional",
+            "en": "Ogiński Palace & Regional Museum"
+          },
+          "coords": [
+            22.2915,
+            52.1681
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:11",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für das Museum ein, es beherbergt faszinierende lokale Artefakte.",
+            "hu": "Szánjon elég időt a múzeumra, lenyűgöző helyi tárgyakat őriz.",
+            "ro": "Planificați suficient timp pentru muzeu, acesta găzduiește artefacte locale fascinante.",
+            "en": "Plan enough time for the museum; it houses fascinating local artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause",
+            "hu": "Ebédszünet",
+            "ro": "Pauză de prânz",
+            "en": "Lunch Break"
+          },
+          "coords": [
+            22.2905,
+            52.1695
+          ],
+          "category": "gastro",
+          "arrive_at": "14:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie Pierogi in einem der Restaurants in der Nähe des Palastes.",
+            "hu": "Kóstolja meg a pierogit a palota közelében található éttermek egyikében.",
+            "ro": "Încercați pierogi la unul dintre restaurantele din apropierea palatului.",
+            "en": "Try some pierogi at one of the restaurants near the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Aleksandria-Park",
+            "hu": "Aleksandria Park",
+            "ro": "Parcul Aleksandria",
+            "en": "Aleksandria Park"
+          },
+          "coords": [
+            22.2989,
+            52.1702
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:53",
+          "stay_min": 52,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um den Tag bei einem gemütlichen Spaziergang ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap lezárására egy kellemes sétával.",
+            "ro": "Un loc perfect pentru a încheia ziua cu o plimbare relaxantă.",
+            "en": "A perfect spot to end the day with a leisurely stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Siedlce am Rathaus 'Jack', bevor Sie die nahegelegenen historischen Kirchen erkunden. Am Vormittag tauchen Sie in die sakrale Atmosphäre der St.-Stanislaus-Kirche und der beeindruckenden Kathedrale ein. Nach dem Mittagessen, das Sie in der Nähe des prächtigen Ogiński-Palastes genießen, widmen Sie sich der reichen Geschichte im Regionalmuseum. Der Nachmittag klingt mit einem Moment der Besinnung am Papst-Denkmal und einem entspannten Spaziergang durch den grünen Aleksandria-Park aus, der die kulturellen Eindrücke des Tages abrundet.",
+        "hu": "Kezdje a napot Siedlce szívében, a 'Jack' Városházánál, mielőtt felfedezné a közeli történelmi templomokat. A délelőtt folyamán merüljön el a Szent Stanislaus-templom és a lenyűgöző katedrális szakrális hangulatában. Az ebéd után, melyet a pompás Ogiński-palota közelében fogyaszthat el, szentelje idejét a Regionális Múzeum gazdag történelmének. A délután a Pápa-emlékműnél való elmélkedéssel és egy pihentető sétával zárul a zöldellő Aleksandria Parkban, amely teljessé teszi a nap kulturális benyomásait.",
+        "ro": "Începeți ziua în inima orașului Siedlce, la Primăria 'Jack', înainte de a explora bisericile istorice din apropiere. În cursul dimineții, cufundați-vă în atmosfera sacră a Bisericii Sf. Stanislav și a impunătoarei Catedrale. După prânz, savurat în apropierea splendidului Palat Ogiński, dedicați-vă istoriei bogate la Muzeul Regional. După-amiaza se încheie cu un moment de reculegere la Monumentul Papei și o plimbare relaxantă prin Parcul Aleksandria, completând impresiile culturale ale zilei.",
+        "en": "Start your day in the heart of Siedlce at the 'Jack' Town Hall before exploring the nearby historic churches. In the morning, immerse yourself in the sacred atmosphere of St. Stanislaus Church and the impressive Cathedral. After lunch near the magnificent Ogiński Palace, delve into the rich history at the Regional Museum. The afternoon concludes with a moment of reflection at the Pope's Monument and a relaxing stroll through the green Aleksandria Park, rounding off the day's cultural impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi Ruskie",
+            "tip": "Der Klassiker: Teigtaschen gefüllt mit Kartoffeln und Quark."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine traditionelle saure Roggenmehlsuppe, oft mit Wurst und Ei serviert."
+          },
+          {
+            "name": "Restauracja Zaścianek Polski",
+            "tip": "Bekannt für authentische polnische Küche in traditionellem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi Ruskie",
+            "tip": "A klasszikus: burgonyával és túróval töltött táskák."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Hagyományos savanyú rozsleves, gyakran kolbásszal és tojással tálalva."
+          },
+          {
+            "name": "Restauracja Zaścianek Polski",
+            "tip": "Híres az autentikus lengyel konyhájáról, hagyományos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi Ruskie",
+            "tip": "Clasicii colțunași umpluți cu cartofi și brânză de vaci."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă acră tradițională de secară, adesea servită cu cârnați și ou."
+          },
+          {
+            "name": "Restauracja Zaścianek Polski",
+            "tip": "Renumit pentru bucătăria poloneză autentică într-un cadru tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi Ruskie",
+            "tip": "The classic: dumplings filled with potatoes and cottage cheese."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A traditional sour rye soup, often served with sausage and egg."
+          },
+          {
+            "name": "Restauracja Zaścianek Polski",
+            "tip": "Known for authentic Polish cuisine in a traditional setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aleksandria-Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur mitten in der Stadt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Muchawka-Stausees",
+            "tip": "Ein Spaziergang am Wasser bietet eine friedliche Flucht aus dem städtischen Trubel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aleksandria Park",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet a város közepén.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Muchawka-víztározó partja",
+            "tip": "Egy séta a vízparton békés menekülést kínál a városi nyüzsgésből.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Aleksandria",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură în mijlocul orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul lacului Muchawka",
+            "tip": "O plimbare pe malul apei oferă o evadare pașnică din agitația urbană.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aleksandria Park",
+            "tip": "Find a quiet bench and enjoy nature in the middle of the city.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of Muchawka Reservoir",
+            "tip": "A walk by the water offers a peaceful escape from the urban hustle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galeria Siedlce",
+            "tip": "Das wichtigste Einkaufszentrum der Stadt für eine breite Palette von Geschäften."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Märkten für frische Produkte und handgemachte Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galeria Siedlce",
+            "tip": "A város fő bevásárlóközpontja, széles üzletválasztékkal."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi piacokat friss termékekért és kézműves árukért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Siedlce",
+            "tip": "Principalul centru comercial al orașului pentru o gamă largă de magazine."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele locale pentru produse proaspete și articole de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galeria Siedlce",
+            "tip": "The city's main shopping center for a wide range of stores."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for local markets for fresh produce and handmade goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Ein leichter Regenmantel ist immer eine gute Idee, auch im Sommer."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakő egyenetlen lehet.",
+          "A központi látnivalók többsége könnyen elérhető gyalog.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "Egy könnyű esőkabát mindig jó ötlet, még nyáron is."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "O pelerină de ploaie ușoară este întotdeauna o idee bună, chiar și vara."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most central sights are within easy walking distance.",
+          "Check the museum's opening hours in advance.",
+          "A light raincoat is always a good idea, even in summer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 11.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus 'Jack'",
+            "hu": "'Jack' Városháza",
+            "ro": "Primăria 'Jack'",
+            "en": "'Jack' Town Hall"
+          },
+          "coords": [
+            22.2823,
+            52.168
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, amíg felfedezi a teret.",
+            "ro": "Asigurați-vă bicicleta în timp ce explorați piața.",
+            "en": "Lock your bike securely while you explore the square."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Stanislaus-Kirche & Kathedrale",
+            "hu": "Szent Stanislaus-templom és Katedrális",
+            "ro": "Biserica Sf. Stanislav și Catedrala",
+            "en": "St. Stanislaus Church & Cathedral"
+          },
+          "coords": [
+            22.2865,
+            52.1675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Diese beiden wichtigen Kirchen liegen nahe beieinander.",
+            "hu": "Ez a két fontos templom közel van egymáshoz.",
+            "ro": "Aceste două biserici importante sunt situate aproape una de cealaltă.",
+            "en": "These two important churches are located close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Ogiński-Palast & Regionalmuseum",
+            "hu": "Ogiński-palota és Regionális Múzeum",
+            "ro": "Palatul Ogiński și Muzeul Regional",
+            "en": "Ogiński Palace & Regional Museum"
+          },
+          "coords": [
+            22.2915,
+            52.1681
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Palastkomplex ist weitläufig, perfekt für eine kurze Radtour durch die Gärten.",
+            "hu": "A palotakomplexum tágas, tökéletes egy rövid kerékpártúrára a kertekben.",
+            "ro": "Complexul palatului este extins, perfect pentru o scurtă plimbare cu bicicleta prin grădini.",
+            "en": "The palace complex is extensive, perfect for a short bike ride through the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause",
+            "hu": "Ebédszünet",
+            "ro": "Pauză de prânz",
+            "en": "Lunch Break"
+          },
+          "coords": [
+            22.289,
+            52.171
+          ],
+          "category": "gastro",
+          "arrive_at": "12:51",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stärken Sie sich für die Radtour am Nachmittag.",
+            "hu": "Erősítsen a délutáni kerékpártúrára.",
+            "ro": "Luați o masă copioasă pentru turul de după-amiază cu bicicleta.",
+            "en": "Fuel up for the afternoon bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Aleksandria-Park",
+            "hu": "Aleksandria Park",
+            "ro": "Parcul Aleksandria",
+            "en": "Aleksandria Park"
+          },
+          "coords": [
+            22.2989,
+            52.1702
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:07",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Wege im Park sind ideal für eine entspannte Fahrt.",
+            "hu": "A park ösvényei ideálisak egy pihentető tekeréshez.",
+            "ro": "Aleile din parc sunt ideale pentru o plimbare relaxantă.",
+            "en": "The paths in the park are ideal for a relaxed ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Muchawka-Stausee",
+            "hu": "Muchawka-víztározó",
+            "ro": "Lacul de acumulare Muchawka",
+            "en": "Muchawka Reservoir"
+          },
+          "coords": [
+            22.278,
+            52.145
+          ],
+          "category": "lake",
+          "arrive_at": "15:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine längere Pause und um die Natur zu genießen. Es gibt einen Radweg um den See.",
+            "hu": "Nagyszerű hely egy hosszabb pihenőre és a természet élvezetére. Van egy kerékpárút a tó körül.",
+            "ro": "Un loc minunat pentru o pauză mai lungă și pentru a vă bucura de natură. Există o pistă de biciclete în jurul lacului.",
+            "en": "A great place for a longer break and to enjoy nature. There's a bike path around the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to Center"
+          },
+          "coords": [
+            22.2823,
+            52.168
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:18",
+          "stay_min": 7,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie einen letzten Kaffee auf dem Platz.",
+            "hu": "Adja vissza a kerékpárt, és igyon egy utolsó kávét a téren.",
+            "ro": "Returnați bicicleta și savurați o ultimă cafea în piață.",
+            "en": "Return your bike and enjoy a final coffee in the square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich am Morgen aufs Rad und starten Sie am Rathaus. Die Tour führt Sie zu den wichtigsten Sakralbauten der Stadt. Nach dem Mittagessen und der Erkundung des Ogiński-Palastes radeln Sie durch den Aleksandria-Park hinaus zum Muchawka-Stausee. Der Nachmittag ist für die Umrundung des Sees und das Genießen der Natur reserviert, bevor es zurück ins Zentrum geht. Diese Tour kombiniert städtische Kultur mit einem aktiven Naturerlebnis.",
+        "hu": "Reggel pattanjon kerékpárra, és induljon a Városházától. A túra a város legfontosabb szakrális épületeihez vezet. Ebéd és az Ogiński-palota felfedezése után tekerjen át az Aleksandria Parkon a Muchawka-víztározóhoz. A délután a tó körüli kerékpározásé és a természet élvezetéé, mielőtt visszatérne a központba. Ez a túra ötvözi a városi kultúrát az aktív természeti élménnyel.",
+        "ro": "Dimineața, urcați-vă pe bicicletă și porniți de la Primărie. Turul vă duce la cele mai importante clădiri sacre ale orașului. După prânz și explorarea Palatului Ogiński, pedalați prin Parcul Aleksandria până la Lacul Muchawka. După-amiaza este rezervată pentru o plimbare în jurul lacului și pentru a vă bucura de natură, înainte de a vă întoarce în centru. Acest tur combină cultura urbană cu o experiență activă în natură.",
+        "en": "In the morning, hop on your bike and start at the Town Hall. The tour takes you to the city's most important sacred buildings. After lunch and exploring the Ogiński Palace, cycle through Aleksandria Park out to the Muchawka Reservoir. The afternoon is reserved for circling the lake and enjoying nature before heading back to the center. This tour combines urban culture with an active nature experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chłodnik",
+            "tip": "Eine erfrischende kalte Rote-Bete-Suppe, perfekt für einen warmen Tag."
+          },
+          {
+            "name": "Bar Pierożek",
+            "tip": "Ein lokaler Favorit für eine schnelle und leckere Pierogi-Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chłodnik",
+            "tip": "Frissítő hideg céklaleves, tökéletes egy meleg napra."
+          },
+          {
+            "name": "Bar Pierożek",
+            "tip": "Helyi kedvenc egy gyors és finom pierogi ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chłodnik",
+            "tip": "O supă rece răcoritoare de sfeclă roșie, perfectă pentru o zi călduroasă."
+          },
+          {
+            "name": "Bar Pierożek",
+            "tip": "Un favorit local pentru o masă rapidă și delicioasă cu pierogi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chłodnik",
+            "tip": "A refreshing cold beetroot soup, perfect for a warm day."
+          },
+          {
+            "name": "Bar Pierożek",
+            "tip": "A local favorite for a quick and delicious pierogi meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Muchawka-Stausee",
+            "tip": "Fernab vom Verkehr können Sie hier in Ruhe radeln und die Landschaft genießen.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Versteckte Ecken im Aleksandria-Park",
+            "tip": "Suchen Sie abseits der Hauptwege nach einem ruhigen Plätzchen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Muchawka-víztározónál",
+            "tip": "Távol a forgalomtól, itt nyugodtan kerékpározhat és élvezheti a tájat.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Rejtett zugok az Aleksandria Parkban",
+            "tip": "Keressen egy csendes helyet a fő ösvényektől távolabb.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de la Lacul Muchawka",
+            "tip": "Departe de trafic, aici puteți pedala în liniște și vă puteți bucura de peisaj.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Colțuri ascunse în Parcul Aleksandria",
+            "tip": "Căutați un loc liniștit departe de aleile principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path at Muchawka Reservoir",
+            "tip": "Away from traffic, you can cycle peacefully here and enjoy the scenery.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Hidden corners in Aleksandria Park",
+            "tip": "Look for a quiet spot away from the main paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha kiegészítőre vagy gyors javításra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "In case you need any accessories or a quick repair."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad bei einer der lokalen Verleihstationen.",
+          "Nehmen Sie eine Flasche Wasser mit, besonders für die Fahrt zum Stausee.",
+          "Ein Helm wird für Ihre Sicherheit empfohlen.",
+          "Achten Sie auf Fußgänger auf den gemeinsamen Wegen im Park."
+        ],
+        "hu": [
+          "Béreljen kerékpárt az egyik helyi kölcsönzőben.",
+          "Vigyen magával egy üveg vizet, különösen a víztározóhoz vezető útra.",
+          "A biztonsága érdekében ajánlott a sisak viselése.",
+          "Vigyázzon a gyalogosokra a park közös útjain."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la una dintre stațiile locale de închiriere.",
+          "Luați o sticlă de apă cu dvs., mai ales pentru drumul spre lac.",
+          "Se recomandă purtarea unei căști pentru siguranța dvs.",
+          "Fiți atenți la pietoni pe aleile comune din parc."
+        ],
+        "en": [
+          "Rent a bike from one of the local rental stations.",
+          "Bring a bottle of water, especially for the ride to the reservoir.",
+          "A helmet is recommended for your safety.",
+          "Be mindful of pedestrians on shared paths in the park."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 10.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Parken im Stadtzentrum",
+            "hu": "1. klaszter: Parkolás a városközpontban",
+            "ro": "Cluster 1: Parcare în centrul orașului",
+            "en": "Cluster 1: Park in the City Center"
+          },
+          "coords": [
+            22.283,
+            52.169
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen zentralen Parkplatz, um das historische Zentrum zu Fuß zu erkunden.",
+            "hu": "Keressen egy központi parkolót, ahonnan gyalog fedezheti fel a történelmi központot.",
+            "ro": "Găsiți o parcare centrală pentru a explora centrul istoric pe jos.",
+            "en": "Find a central parking spot to explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus 'Jack' & St.-Stanislaus-Kirche",
+            "hu": "'Jack' Városháza és Szent Stanislaus-templom",
+            "ro": "Primăria 'Jack' și Biserica Sf. Stanislav",
+            "en": "'Jack' Town Hall & St. Stanislaus Church"
+          },
+          "coords": [
+            22.2838,
+            52.1685
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang am Hauptplatz und der angrenzenden Kirche.",
+            "hu": "Kezdje a sétát a főtéren és a szomszédos templomnál.",
+            "ro": "Începeți turul pietonal din piața principală și de la biserica adiacentă.",
+            "en": "Start your walking tour at the main square and the adjacent church."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale & Papst-Denkmal",
+            "hu": "Katedrális és Pápa-emlékmű",
+            "ro": "Catedrala și Monumentul Papei",
+            "en": "Cathedral & Pope Monument"
+          },
+          "coords": [
+            22.2874,
+            52.1662
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang führt Sie zu diesen beiden bedeutenden Monumenten.",
+            "hu": "Egy rövid séta vezet ehhez a két jelentős emlékműhöz.",
+            "ro": "O scurtă plimbare vă duce la aceste două monumente importante.",
+            "en": "A short walk takes you to these two important monuments."
+          }
+        },
+        {
+          "name": {
+            "de": "Ogiński-Palast & Regionalmuseum",
+            "hu": "Ogiński-palota és Regionális Múzeum",
+            "ro": "Palatul Ogiński și Muzeul Regional",
+            "en": "Ogiński Palace & Regional Museum"
+          },
+          "coords": [
+            22.2915,
+            52.1681
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:54",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für den Palast und das Museum, bevor Sie zu Mittag essen.",
+            "hu": "Szánjon időt a palotára és a múzeumra ebéd előtt.",
+            "ro": "Acordați-vă timp pentru palat și muzeu înainte de a lua prânzul.",
+            "en": "Take your time for the palace and museum before having lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Fahrt zum Muchawka-Stausee",
+            "hu": "2. klaszter: Utazás a Muchawka-víztározóhoz",
+            "ro": "Cluster 2: Deplasare la Lacul Muchawka",
+            "en": "Cluster 2: Drive to Muchawka Reservoir"
+          },
+          "coords": [
+            22.278,
+            52.145
+          ],
+          "category": "lake",
+          "arrive_at": "14:24",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nach dem Stadtzentrum ist es Zeit für eine Fahrt in die Natur.",
+            "hu": "A városközpont után itt az ideje egy kirándulásnak a természetbe.",
+            "ro": "După centrul orașului, este timpul pentru o excursie în natură.",
+            "en": "After the city center, it's time for a drive into nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Aleksandria-Park",
+            "hu": "Aleksandria Park",
+            "ro": "Parcul Aleksandria",
+            "en": "Aleksandria Park"
+          },
+          "coords": [
+            22.2989,
+            52.1702
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 4.9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Spaziergang im Park, bevor Sie die Stadt verlassen.",
+            "hu": "Zárja a napot egy pihentető sétával a parkban, mielőtt elhagyja a várost.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă în parc înainte de a părăsi orașul.",
+            "en": "End the day with a relaxing walk in the park before leaving the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie den ersten Cluster zu Fuß: das Rathaus, die Kirchen und den Ogiński-Palast. Nach einem Vormittag voller Geschichte und Kultur und einem stärkenden Mittagessen fahren Sie am Nachmittag zum zweiten Cluster: dem Muchawka-Stausee. Genießen Sie die Ruhe am Wasser, bevor Sie den Tag mit einem Spaziergang im Aleksandria-Park abschließen. Diese Tour bietet eine perfekte Mischung aus städtischem Erbe und naturnaher Erholung.",
+        "hu": "Parkolja le autóját a központban, és fedezze fel gyalog az első látnivalócsoportot: a Városházát, a templomokat és az Ogiński-palotát. A történelemmel és kultúrával teli délelőtt és egy kiadós ebéd után délután autózzon el a második klaszterhez: a Muchawka-víztározóhoz. Élvezze a vízparti csendet, mielőtt a napot egy sétával zárná az Aleksandria Parkban. Ez a túra tökéletes keveréke a városi örökségnek és a természetközeli kikapcsolódásnak.",
+        "ro": "Parcați mașina în centru și explorați pe jos primul grup de atracții: Primăria, bisericile și Palatul Ogiński. După o dimineață plină de istorie și cultură și un prânz copios, după-amiaza conduceți spre al doilea grup: Lacul Muchawka. Bucurați-vă de liniștea de pe malul apei înainte de a încheia ziua cu o plimbare în Parcul Aleksandria. Acest tur oferă un amestec perfect de patrimoniu urban și recreere în natură.",
+        "en": "Park your car in the center and explore the first cluster on foot: the Town Hall, the churches, and the Ogiński Palace. After a morning full of history and culture and a hearty lunch, drive to the second cluster in the afternoon: the Muchawka Reservoir. Enjoy the tranquility by the water before ending the day with a walk in Aleksandria Park. This tour offers a perfect mix of urban heritage and natural recreation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karczma Podlasianka",
+            "tip": "Bietet eine große Auswahl an regionalen Gerichten in rustikaler Atmosphäre."
+          },
+          {
+            "name": "Bigos",
+            "tip": "Ein herzhafter Sauerkrauteintopf, ideal für eine stärkende Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karczma Podlasianka",
+            "tip": "A regionális ételek széles választékát kínálja rusztikus környezetben."
+          },
+          {
+            "name": "Bigos",
+            "tip": "Kiadós savanyúkáposzta-egytálétel, ideális egy laktató étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karczma Podlasianka",
+            "tip": "Oferă o gamă largă de mâncăruri regionale într-o atmosferă rustică."
+          },
+          {
+            "name": "Bigos",
+            "tip": "O tocană consistentă de varză acră, ideală pentru o masă copioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karczma Podlasianka",
+            "tip": "Offers a wide range of regional dishes in a rustic atmosphere."
+          },
+          {
+            "name": "Bigos",
+            "tip": "A hearty sauerkraut stew, ideal for a substantial meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Am Muchawka-Stausee",
+            "tip": "Finden Sie einen abgelegenen Platz am Ufer und beobachten Sie die Vögel.",
+            "emoji": "🦆"
+          },
+          {
+            "name": "Palastgärten Ogiński",
+            "tip": "Die Gärten hinter dem Palast sind oft ruhiger als der vordere Bereich.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Muchawka-víztározónál",
+            "tip": "Keressen egy félreeső helyet a parton, és figyelje a madarakat.",
+            "emoji": "🦆"
+          },
+          {
+            "name": "Ogiński-palota kertjei",
+            "tip": "A palota mögötti kertek gyakran csendesebbek, mint az elülső rész.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Lacul Muchawka",
+            "tip": "Găsiți un loc retras pe mal și priviți păsările.",
+            "emoji": "🦆"
+          },
+          {
+            "name": "Grădinile Palatului Ogiński",
+            "tip": "Grădinile din spatele palatului sunt adesea mai liniștite decât zona din față.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "At Muchawka Reservoir",
+            "tip": "Find a secluded spot on the shore and watch the birds.",
+            "emoji": "🦆"
+          },
+          {
+            "name": "Ogiński Palace Gardens",
+            "tip": "The gardens behind the palace are often quieter than the front area.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs im Regionalmuseum",
+            "tip": "Der Museumsshop bietet oft einzigartige, lokal inspirierte Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak a Regionális Múzeumban",
+            "tip": "A múzeumi bolt gyakran kínál egyedi, helyi ihletésű emléktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la Muzeul Regional",
+            "tip": "Magazinul muzeului oferă adesea suveniruri unice, de inspirație locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at the Regional Museum",
+            "tip": "The museum shop often offers unique, locally inspired souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkgebühren im Stadtzentrum.",
+          "Planen Sie Ihre Route im Voraus, um Einbahnstraßen zu vermeiden.",
+          "Ein Navigationssystem ist hilfreich, um die besten Routen zwischen den Clustern zu finden.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra a városközpontban.",
+          "Tervezze meg előre az útvonalat az egyirányú utcák elkerülése érdekében.",
+          "A navigációs rendszer segít megtalálni a legjobb útvonalakat a klaszterek között.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban."
+        ],
+        "ro": [
+          "Fiți atenți la taxele de parcare în centrul orașului.",
+          "Planificați-vă ruta în avans pentru a evita străzile cu sens unic.",
+          "Un sistem de navigație este util pentru a găsi cele mai bune rute între grupuri.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Be aware of parking fees in the city center.",
+          "Plan your route in advance to avoid one-way streets.",
+          "A navigation system is helpful for finding the best routes between clusters.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft im Stadtzentrum",
+            "hu": "1. klaszter: Érkezés a városközpontba",
+            "ro": "Cluster 1: Sosire în centrul orașului",
+            "en": "Cluster 1: Arrival in the City Center"
+          },
+          "coords": [
+            22.283,
+            52.169
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie an einer zentralen Haltestelle aus, z.B. in der Nähe des Rathauses.",
+            "hu": "Szálljon le egy központi megállónál, pl. a Városháza közelében.",
+            "ro": "Coborâți la o stație centrală, de exemplu, lângă Primărie.",
+            "en": "Get off at a central stop, for example, near the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus, St.-Stanislaus-Kirche, Kathedrale",
+            "hu": "Városháza, Szent Stanislaus-templom, Katedrális",
+            "ro": "Primăria, Biserica Sf. Stanislav, Catedrala",
+            "en": "Town Hall, St. Stanislaus Church, Cathedral"
+          },
+          "coords": [
+            22.2855,
+            52.1678
+          ],
+          "category": "walking-tour",
+          "arrive_at": "09:15",
+          "stay_min": 140,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen Cluster von Sehenswürdigkeiten bequem zu Fuß.",
+            "hu": "Fedezze fel ezt a látnivalócsoportot kényelmesen, gyalog.",
+            "ro": "Explorați acest grup de atracții confortabil, pe jos.",
+            "en": "Explore this cluster of sights comfortably on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ogiński-Palast & Regionalmuseum",
+            "hu": "Ogiński-palota és Regionális Múzeum",
+            "ro": "Palatul Ogiński și Muzeul Regional",
+            "en": "Ogiński Palace & Regional Museum"
+          },
+          "coords": [
+            22.2915,
+            52.1681
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:41",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für jeden Geschichts- und Kunstliebhaber.",
+            "hu": "Minden történelem- és művészetkedvelő számára kötelező.",
+            "ro": "O vizită obligatorie pentru orice iubitor de istorie și artă.",
+            "en": "A must-visit for any history and art lover."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause",
+            "hu": "Ebédszünet",
+            "ro": "Pauză de prânz",
+            "en": "Lunch Break"
+          },
+          "coords": [
+            22.29,
+            52.17
+          ],
+          "category": "gastro",
+          "arrive_at": "13:51",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Spezialitäten, bevor Sie den Bus nehmen.",
+            "hu": "Élvezze a helyi specialitásokat, mielőtt buszra szállna.",
+            "ro": "Savurați specialitățile locale înainte de a lua autobuzul.",
+            "en": "Enjoy local specialties before taking the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Busfahrt zum Muchawka-Stausee",
+            "hu": "2. klaszter: Buszozás a Muchawka-víztározóhoz",
+            "ro": "Cluster 2: Călătorie cu autobuzul la Lacul Muchawka",
+            "en": "Cluster 2: Bus ride to Muchawka Reservoir"
+          },
+          "coords": [
+            22.278,
+            52.145
+          ],
+          "category": "lake",
+          "arrive_at": "15:29",
+          "stay_min": 90,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus für einen entspannten Nachmittag am See.",
+            "hu": "Menjen busszal egy pihentető délutánra a tóhoz.",
+            "ro": "Luați autobuzul pentru o după-amiază relaxantă la lac.",
+            "en": "Take the bus for a relaxing afternoon at the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to Center"
+          },
+          "coords": [
+            22.283,
+            52.169
+          ],
+          "category": "transit",
+          "arrive_at": "17:27",
+          "stay_min": 0,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 3.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Busse fahren regelmäßig zurück ins Stadtzentrum.",
+            "hu": "A buszok rendszeresen közlekednek vissza a városközpontba.",
+            "ro": "Autobuzele circulă regulat înapoi spre centrul orașului.",
+            "en": "Buses run regularly back to the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um ins Zentrum zu gelangen. Der Vormittag gehört der fußläufigen Erkundung der historischen Innenstadt mit ihren Kirchen und dem Ogiński-Palast. Nach dem Mittagessen bringt Sie ein Bus bequem zum Muchawka-Stausee. Verbringen Sie dort einen erholsamen Nachmittag in der Natur, bevor Sie am Abend wieder ins Zentrum zurückkehren. Diese Variante ist ideal, um Stadt und Natur ohne eigenes Auto zu verbinden.",
+        "hu": "Használja a tömegközlekedést, hogy bejusson a központba. A délelőtt a történelmi belváros gyalogos felfedezéséé, a templomoké és az Ogiński-palotáé. Ebéd után egy busz kényelmesen elviszi a Muchawka-víztározóhoz. Töltsön ott egy pihentető délutánt a természetben, mielőtt este visszatérne a központba. Ez a változat ideális a város és a természet összekapcsolására saját autó nélkül.",
+        "ro": "Folosiți transportul public pentru a ajunge în centru. Dimineața este dedicată explorării pe jos a centrului istoric, cu bisericile și Palatul Ogiński. După prânz, un autobuz vă duce confortabil la Lacul Muchawka. Petreceți o după-amiază relaxantă în natură acolo, înainte de a vă întoarce în centru seara. Această opțiune este ideală pentru a combina orașul și natura fără mașină proprie.",
+        "en": "Use public transport to get to the center. The morning is for exploring the historic city center on foot, with its churches and the Ogiński Palace. After lunch, a bus will take you comfortably to the Muchawka Reservoir. Spend a relaxing afternoon there in nature before returning to the center in the evening. This option is ideal for combining the city and nature without your own car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein überbackenes Baguette, ein beliebter polnischer Straßensnack."
+          },
+          {
+            "name": "Pijalnia Czekolady E.Wedel",
+            "tip": "Für eine heiße Schokolade oder ein Dessert nach dem Sightseeing."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Sült bagett, népszerű lengyel utcai étel."
+          },
+          {
+            "name": "Pijalnia Czekolady E.Wedel",
+            "tip": "Egy forró csokira vagy desszertre a városnézés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "O baghetă gratinată, o gustare populară poloneză de stradă."
+          },
+          {
+            "name": "Pijalnia Czekolady E.Wedel",
+            "tip": "Pentru o ciocolată caldă sau un desert după vizitarea obiectivelor turistice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "A baked baguette, a popular Polish street food snack."
+          },
+          {
+            "name": "Pijalnia Czekolady E.Wedel",
+            "tip": "For a hot chocolate or a dessert after sightseeing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfensterplatz",
+            "tip": "Beobachten Sie auf der Fahrt zum Stausee das städtische Leben an sich vorbeiziehen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank in der Nähe der Kathedrale",
+            "tip": "Ein ruhiger Ort, um die Architektur und die Atmosphäre auf sich wirken zu lassen.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Busz ablak melletti ülése",
+            "tip": "Figyelje a városi életet, miközben a víztározó felé utazik.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a katedrális közelében",
+            "tip": "Csendes hely, ahol magába szívhatja az építészetet és a hangulatot.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc la fereastra autobuzului",
+            "tip": "Priviți viața urbană trecând pe lângă dvs. în drum spre lac.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă lângă catedrală",
+            "tip": "Un loc liniștit pentru a admira arhitectura și a absorbi atmosfera.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus window seat",
+            "tip": "Watch urban life go by on the ride to the reservoir.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench near the cathedral",
+            "tip": "A quiet place to take in the architecture and atmosphere.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Hier können Sie Fahrkarten und kleine Snacks kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Itt vásárolhat jegyeket és apró harapnivalókat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la stațiile de autobuz",
+            "tip": "De aici puteți cumpăra bilete și mici gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "You can buy tickets and small snacks here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Informieren Sie sich über die Buslinien und Fahrpläne im Voraus.",
+          "Laden Sie eine Nahverkehrs-App herunter, um die Navigation zu erleichtern.",
+          "Stoßzeiten am Morgen und am späten Nachmittag können zu volleren Bussen führen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Előre tájékozódjon a buszjáratokról és a menetrendekről.",
+          "Töltsön le egy tömegközlekedési alkalmazást a navigáció megkönnyítésére.",
+          "A reggeli és késő délutáni csúcsidőben a buszok zsúfoltabbak lehetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Informați-vă în avans despre rutele și orarele autobuzelor.",
+          "Descărcați o aplicație de transport public pentru a facilita navigarea.",
+          "Orele de vârf dimineața și după-amiaza târziu pot duce la autobuze mai aglomerate."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Find out about bus routes and schedules in advance.",
+          "Download a public transport app to make navigation easier.",
+          "Peak hours in the morning and late afternoon can lead to fuller buses."
+        ]
+      }
+    }
+  }
+}

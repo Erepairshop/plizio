@@ -1,0 +1,1494 @@
+{
+  "city_id": "uk-chichester-cities-v2",
+  "anchor": {
+    "name": "Chichester Market Cross",
+    "coords": [
+      -0.7792,
+      50.8365
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chichester Market Cross",
+            "hu": "Chichesteri piactér keresztje",
+            "ro": "Crucea Pieței din Chichester",
+            "en": "Chichester Market Cross"
+          },
+          "coords": [
+            -0.7791,
+            50.8369
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein idealer Treffpunkt und ein guter Startpunkt, um die vier Hauptstraßen der Stadt zu erkunden.",
+            "hu": "Ideális találkozási pont és kiindulópont a város négy főutcájának felfedezéséhez.",
+            "ro": "Un punct de întâlnire ideal și un bun început pentru a explora cele patru străzi principale ale orașului.",
+            "en": "An ideal meeting point and a great start for exploring the city's four main streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Chichester",
+            "hu": "Chichesteri katedrális",
+            "ro": "Catedrala din Chichester",
+            "en": "Chichester Cathedral"
+          },
+          "coords": [
+            -0.781,
+            50.8365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem Chagall-Fenster und den Arundel-Gräbern, die in einem berühmten Gedicht verewigt wurden.",
+            "hu": "Keresse a Chagall-ablakot és az Arundel-sírokat, amelyeket egy híres vers is megörökített.",
+            "ro": "Căutați vitraliul de Chagall și mormintele Arundel, imortalizate într-un poem celebru.",
+            "en": "Look for the Chagall window and the Arundel tombs, immortalised in a famous poem."
+          }
+        },
+        {
+          "name": {
+            "de": "Bischofspalast-Gärten",
+            "hu": "Püspöki palota kertje",
+            "ro": "Grădinile Palatului Episcopal",
+            "en": "Bishop's Palace Gardens"
+          },
+          "coords": [
+            -0.783,
+            50.8358
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel hinter der Kathedrale, perfekt für eine ruhige Pause.",
+            "hu": "Egy rejtett gyöngyszem a katedrális mögött, tökéletes egy csendes pihenőre.",
+            "ro": "O bijuterie ascunsă în spatele catedralei, perfectă pentru o pauză liniștită.",
+            "en": "A hidden gem behind the cathedral, perfect for a quiet break."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Novium Museum",
+            "hu": "A Novium Múzeum",
+            "ro": "Muzeul Novium",
+            "en": "The Novium Museum"
+          },
+          "coords": [
+            -0.7805,
+            50.8385
+          ],
+          "category": "museums",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahren Sie in die oberste Etage für einen überraschenden Blick über die Dächer von Chichester.",
+            "hu": "Menjen fel a legfelső emeletre, ahonnan meglepő kilátás nyílik Chichester háztetőire.",
+            "ro": "Urcați la ultimul etaj pentru o vedere surprinzătoare asupra acoperișurilor din Chichester.",
+            "en": "Go to the top floor for a surprising view over the Chichester rooftops."
+          }
+        },
+        {
+          "name": {
+            "de": "Pallant House Gallery",
+            "hu": "Pallant House Galéria",
+            "ro": "Galeria Pallant House",
+            "en": "Pallant House Gallery"
+          },
+          "coords": [
+            -0.777,
+            50.838
+          ],
+          "category": "museums",
+          "arrive_at": "13:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Sammlung moderner britischer Kunst, eine der besten außerhalb Londons.",
+            "hu": "Ne hagyja ki a modern brit művészeti gyűjteményt, amely az egyik legjobb Londonon kívül.",
+            "ro": "Nu ratați colecția de artă britanică modernă, una dintre cele mai bune din afara Londrei.",
+            "en": "Don't miss the Modern British art collection, one of the best outside of London."
+          }
+        },
+        {
+          "name": {
+            "de": "Priory Park",
+            "hu": "Priory Park",
+            "ro": "Parcul Priory",
+            "en": "Priory Park"
+          },
+          "coords": [
+            -0.773,
+            50.839
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den Überresten der römischen Stadtmauer, die den Park umgibt.",
+            "hu": "Keresse meg a parkot körülvevő római városfal maradványait.",
+            "ro": "Căutați rămășițele zidului roman care înconjoară parcul.",
+            "en": "Look for the remains of the Roman city wall that encircles the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Stadtzentrum",
+            "hu": "Vacsora a városközpontban",
+            "ro": "Cină în centrul orașului",
+            "en": "Dinner in the City Centre"
+          },
+          "coords": [
+            -0.778,
+            50.837
+          ],
+          "category": "gastro",
+          "arrive_at": "16:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Viele Restaurants in den Gassen bieten Menüs vor dem Theaterbesuch an.",
+            "hu": "A mellékutcákban számos étterem kínál színház előtti menüt.",
+            "ro": "Multe restaurante de pe străduțele lăturalnice oferă meniuri pre-teatru.",
+            "en": "Many restaurants in the side streets offer pre-theatre menus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am historischen Market Cross, dem Herz der Stadt. Spüren Sie die Geschichte in der prächtigen Kathedrale und finden Sie Ruhe in den Bischofspalast-Gärten. Der Vormittag ist eine Reise durch das spirituelle und grüne Herz von Chichester. Nach einem Spaziergang durch die alten Straßen besuchen Sie das Novium Museum, um die römische Vergangenheit der Stadt zu entdecken. Die Mittagszeit bietet einen tiefen Einblick in die Wurzeln von 'Noviomagus Reginorum'. Am Nachmittag tauchen Sie in die moderne britische Kunst in der Pallant House Gallery ein, bevor Sie im grünen Priory Park entspannen. Es ist ein Kontrast zwischen zeitgenössischer Kreativität und historischer Ruhe. Beenden Sie Ihren Tag mit einem gemütlichen Abendessen in einem der charmanten Restaurants im Stadtzentrum und lassen Sie die vielfältigen Eindrücke dieses römisch-georgianischen Juwels auf sich wirken.",
+        "hu": "Kezdje a napot a történelmi Market Crossnál, a város szívében. Érezze a történelem súlyát a csodálatos katedrálisban, majd találjon nyugalmat a Püspöki Palota kertjében. A délelőtt egy utazás Chichester spirituális és zöld szívébe. Az ősi utcákon tett séta után látogasson el a Novium Múzeumba, hogy felfedezze a város római múltját. Az ebédidő mély betekintést nyújt 'Noviomagus Reginorum' gyökereibe. Délután merüljön el a modern brit művészetben a Pallant House Galériában, mielőtt kikapcsolódna a zöldellő Priory Parkban. Ez a kontraszt a kortárs kreativitás és a történelmi nyugalom között. Zárja a napot egy kellemes vacsorával a városközpont egyik bájos éttermében, és hagyja, hogy leülepedjenek ennek a római-georgiánus gyöngyszemnek a sokszínű benyomásai.",
+        "ro": "Începeți ziua la istorica Cruce a Pieței, inima orașului. Simțiți istoria în magnifica catedrală și găsiți liniștea în Grădinile Palatului Episcopal. Dimineața este o călătorie prin inima spirituală și verde a Chichesterului. După o plimbare pe străzile vechi, vizitați Muzeul Novium pentru a descoperi trecutul roman al orașului. Prânzul oferă o incursiune profundă în rădăcinile 'Noviomagus Reginorum'. După-amiaza, scufundați-vă în arta britanică modernă la Galeria Pallant House înainte de a vă relaxa în Parcul Priory. Este un contrast între creativitatea contemporană și liniștea istorică. Încheiați ziua cu o cină relaxantă la unul dintre restaurantele fermecătoare din centrul orașului, reflectând la impresiile diverse ale acestei bijuterii romano-georgiene.",
+        "en": "Start your day at the historic Market Cross, the city's heart. Feel the history in the magnificent Cathedral and find peace in the Bishop's Palace Gardens. The morning is a journey through Chichester's spiritual and green core. After a stroll through the ancient streets, visit The Novium Museum to uncover the city's Roman past. Lunchtime offers a deep dive into the roots of 'Noviomagus Reginorum'. In the afternoon, immerse yourself in modern British art at Pallant House Gallery before relaxing in the verdant Priory Park. It's a contrast of contemporary creativity and historical tranquility. End your day with a leisurely dinner at one of the charming city-centre restaurants, reflecting on the diverse impressions of this Roman-Georgian gem."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sonntagsbraten",
+            "tip": "Probieren Sie einen klassischen 'Sunday Roast' in einem Pub, auch wenn es nicht Sonntag ist – viele bieten ihn täglich an."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein britischer Klassiker. Suchen Sie nach einem 'chippy' für ein authentisches Erlebnis."
+          },
+          {
+            "name": "The Chichester Inn",
+            "tip": "Ein historischer Pub mit gutem Essen und oft Live-Musik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sunday Roast",
+            "tip": "Kóstoljon meg egy klasszikus 'Sunday Roast'-ot egy pubban, még akkor is, ha nincs vasárnap - sok helyen naponta kínálják."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Egy brit klasszikus. Keressen egy 'chippy'-t az autentikus élményért."
+          },
+          {
+            "name": "The Chichester Inn",
+            "tip": "Történelmi pub jó ételekkel és gyakran élőzenével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friptură de duminică",
+            "tip": "Încercați o friptură clasică de duminică la un pub, chiar dacă nu este duminică - multe o servesc zilnic."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Un clasic britanic. Căutați un 'chippy' pentru o experiență autentică."
+          },
+          {
+            "name": "The Chichester Inn",
+            "tip": "Un pub istoric cu mâncare bună și adesea muzică live."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunday Roast",
+            "tip": "Try a classic Sunday Roast in a pub, even if it's not Sunday – many serve it daily."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "A British classic. Look for a 'chippy' for an authentic experience."
+          },
+          {
+            "name": "The Chichester Inn",
+            "tip": "A historic pub with good food and often live music."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bishop's Palace Gardens",
+            "tip": "Finden Sie eine Bank und genießen Sie die Stille, nur wenige Schritte von der belebten Kathedrale entfernt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Chichester Kanal",
+            "tip": "Ein kurzer Spaziergang südlich des Zentrums führt Sie zu einem friedlichen Weg am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der Dom-Kreuzgang",
+            "tip": "Der umschlossene Kreuzgang der Kathedrale ist ein Ort der stillen Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Püspöki Palota Kertje",
+            "tip": "Keressen egy padot, és élvezze a csendet, csak pár lépésre a nyüzsgő katedrálistól.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Chichester-csatorna",
+            "tip": "Egy rövid séta a központtól délre, és egy békés vízparti ösvényre jut.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A katedrális kerengője",
+            "tip": "A katedrális zárt kerengője a csendes elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Episcopal",
+            "tip": "Găsiți o bancă și bucurați-vă de liniște, la doar câțiva pași de catedrala aglomerată.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Canalul Chichester",
+            "tip": "O scurtă plimbare la sud de centru vă va duce la o potecă liniștită pe malul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gleriile catedralei",
+            "tip": "Gleriile închise ale catedralei sunt un loc de contemplație tăcută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bishop's Palace Gardens",
+            "tip": "Find a bench and enjoy the quiet, just steps from the busy cathedral.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Chichester Canal",
+            "tip": "A short walk south of the centre will take you to a peaceful waterside path.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The Cathedral Cloisters",
+            "tip": "The enclosed cloisters of the cathedral are a place of quiet contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Die Lanes",
+            "tip": "Erkunden Sie die kleinen Gassen abseits der Hauptstraßen für unabhängige Boutiquen und einzigartige Geschäfte."
+          },
+          {
+            "name": "Bauernmarkt",
+            "tip": "Überprüfen Sie die Termine für den monatlichen Bauernmarkt, um lokale Produkte und Handwerk zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A 'Lanes' negyed",
+            "tip": "Fedezze fel a főutcákról nyíló kis sikátorokat független butikokért és egyedi üzletekért."
+          },
+          {
+            "name": "Termelői piac",
+            "tip": "Nézze meg a havi termelői piac időpontjait, ahol helyi termékeket és kézműves árukat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Lanes",
+            "tip": "Explorați aleile mici de pe străzile principale pentru buticuri independente și magazine unice."
+          },
+          {
+            "name": "Piața fermierilor",
+            "tip": "Verificați datele pentru piața lunară a fermierilor pentru a găsi produse și meșteșuguri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Lanes",
+            "tip": "Explore the small lanes off the main streets for independent boutiques and unique shops."
+          },
+          {
+            "name": "Farmers' Market",
+            "tip": "Check the dates for the monthly farmers' market to find local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und sehr gut zu Fuß zu erkunden ist.",
+          "Die meisten Sehenswürdigkeiten im Zentrum liegen nahe beieinander, planen Sie also kurze Spaziergänge ein.",
+          "Achten Sie auf die römischen Ziffern an den Straßenschildern, die die vier ursprünglichen Quadranten der Stadt anzeigen.",
+          "Viele der alten Stadtmauern sind begehbar und bieten eine andere Perspektive auf die Stadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont kompakt és nagyon jól gyalogolható.",
+          "A legtöbb központi látnivaló közel van egymáshoz, ezért tervezzen rövid sétákat.",
+          "Figyelje a római számokat az utcatáblákon, amelyek a város négy eredeti negyedét jelölik.",
+          "A régi városfalak nagy része sétálható, és más szemszögből mutatja be a várost."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este compact și foarte ușor de parcurs pe jos.",
+          "Majoritatea atracțiilor din centru sunt apropiate, așa că planificați plimbări scurte între ele.",
+          "Fiți atenți la cifrele romane de pe indicatoarele stradale, care indică cele patru cadrane originale ale orașului.",
+          "O mare parte din vechile ziduri ale orașului sunt accesibile pentru plimbare și oferă o perspectivă diferită asupra orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city centre is compact and very walkable.",
+          "Most central attractions are close together, so plan for short walks between them.",
+          "Look out for the Roman numerals on street signs, indicating the four original quadrants of the city.",
+          "Much of the old city walls are walkable and offer a different perspective on the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:01",
+      "total_km": 12.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chichester Festival Theatre",
+            "hu": "Chichesteri Fesztivál Színház",
+            "ro": "Teatrul Festivalului Chichester",
+            "en": "Chichester Festival Theatre"
+          },
+          "coords": [
+            -0.784,
+            50.841
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige sechseckige Architektur. Fahrradständer sind vorhanden.",
+            "hu": "Csodálja meg az egyedülálló hatszögletű építészetet. Kerékpártárolók rendelkezésre állnak.",
+            "ro": "Admirați arhitectura hexagonală unică. Există suporturi pentru biciclete.",
+            "en": "Admire the unique hexagonal architecture. Bike racks are available."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Novium Museum",
+            "hu": "A Novium Múzeum",
+            "ro": "Muzeul Novium",
+            "en": "The Novium Museum"
+          },
+          "coords": [
+            -0.7805,
+            50.8385
+          ],
+          "category": "museums",
+          "arrive_at": "09:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad draußen an und entdecken Sie die römischen Bäder im Inneren.",
+            "hu": "Zárja le kint a kerékpárját, és fedezze fel a római fürdők maradványait odabent.",
+            "ro": "Legați-vă bicicleta afară și descoperiți băile romane din interior.",
+            "en": "Lock your bike outside and discover the Roman bathhouse remains inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Chichester",
+            "hu": "Chichesteri katedrális",
+            "ro": "Catedrala din Chichester",
+            "en": "Chichester Cathedral"
+          },
+          "coords": [
+            -0.781,
+            50.8365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die beeindruckende moderne und mittelalterliche Kunst.",
+            "hu": "Szánjon időt a lenyűgöző modern és középkori műalkotások megtekintésére.",
+            "ro": "Luați-vă timp pentru arta modernă și medievală impresionantă din interior.",
+            "en": "Take time to appreciate the impressive modern and medieval art inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Fishbourne Roman Palace",
+            "hu": "Fishbourne-i római palota",
+            "ro": "Palatul Roman Fishbourne",
+            "en": "Fishbourne Roman Palace"
+          },
+          "coords": [
+            -0.815,
+            50.835
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Die Radtour hierher ist angenehm und die Mosaikböden sind die Mühe wert.",
+            "hu": "A kerékpárút ide kellemes, a mozaikpadlók pedig megérik az utat.",
+            "ro": "Plimbarea cu bicicleta până aici este plăcută, iar podelele de mozaic merită efortul.",
+            "en": "The cycle ride out here is pleasant and the mosaic floors are well worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Fishbourne",
+            "hu": "Ebéd Fishbourne-ban",
+            "ro": "Prânz în Fishbourne",
+            "en": "Lunch in Fishbourne"
+          },
+          "coords": [
+            -0.814,
+            50.8345
+          ],
+          "category": "gastro",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Es gibt ein Café vor Ort oder nahegelegene Pubs für eine stärkende Mahlzeit.",
+            "hu": "A helyszínen van egy kávézó, vagy a közeli pubokban ehet egy kiadósat.",
+            "ro": "Există o cafenea la fața locului sau pub-uri în apropiere pentru o masă consistentă.",
+            "en": "There's a cafe on-site or nearby pubs for a restorative meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Priory Park",
+            "hu": "Priory Park",
+            "ro": "Parcul Priory",
+            "en": "Priory Park"
+          },
+          "coords": [
+            -0.773,
+            50.839
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Eine entspannte Radtour zurück ins Zentrum, perfekt für eine Pause am späten Nachmittag.",
+            "hu": "Egy pihentető kerékpárút vissza a központba, tökéletes egy késő délutáni szünetre.",
+            "ro": "O plimbare relaxantă cu bicicleta înapoi în centru, perfectă pentru o pauză de după-amiază târzie.",
+            "en": "A relaxed cycle back towards the centre, perfect for a late afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Chichester Market Cross",
+            "hu": "Chichesteri piactér keresztje",
+            "ro": "Crucea Pieței din Chichester",
+            "en": "Chichester Market Cross"
+          },
+          "coords": [
+            -0.7791,
+            50.8369
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:19",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour dort, wo sie für viele beginnt, und bewundern Sie die Handwerkskunst bei Abendlicht.",
+            "hu": "Fejezze be a túrát ott, ahol sokaknak kezdődik, és csodálja meg a mestermunkát az esti fényben.",
+            "ro": "Încheiați turul acolo unde începe pentru mulți, admirând măiestria în lumina serii.",
+            "en": "End your tour where it begins for many, admiring the craftsmanship in the evening light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am modernen Wahrzeichen, dem Chichester Festival Theatre, bevor Sie ins historische Herz der Stadt rollen. Besuchen Sie das Novium Museum und die beeindruckende Kathedrale. Der Vormittag verbindet Kultur des 20. Jahrhunderts mit tausendjähriger Geschichte. Machen Sie sich auf den Weg zum Fishbourne Roman Palace. Die Fahrt durch die Landschaft ist Teil des Erlebnisses, das mit der Entdeckung einer der größten römischen Residenzen in Großbritannien und einem wohlverdienten Mittagessen gipfelt. Am Nachmittag radeln Sie zurück ins Zentrum, um im Priory Park zu entspannen, wo Geschichte und Freizeit aufeinandertreffen. Dies ist eine grüne Oase, bevor Sie Ihre Tour beenden. Beenden Sie Ihre Reise am Market Cross, dem zeitlosen Zentrum von Chichester, und reflektieren Sie über eine Tour, die Jahrhunderte und Kilometer auf zwei Rädern umspannt hat.",
+        "hu": "Kezdje a kerékpártúrát egy modern nevezetességnél, a Chichesteri Fesztivál Színháznál, mielőtt a város történelmi szívébe gurulna. Látogassa meg a Novium Múzeumot és a lenyűgöző katedrálist. A délelőtt a 20. századi kultúrát ötvözi az ezeréves történelemmel. Irány a Fishbourne-i római palota. Az út a vidéken keresztül az élmény része, amely Nagy-Britannia egyik legnagyobb római rezidenciájának felfedezésében és egy jól megérdemelt ebédben csúcsosodik ki. Délután tekerjen vissza a központba, hogy pihenjen a Priory Parkban, ahol a történelem és a szabadidő találkozik. Ez egy zöld oázis a túra befejezése előtt. Fejezze be útját a Market Crossnál, Chichester időtlen központjában, elmélkedve egy olyan túrán, amely évszázadokat és kilométereket hidalt át két keréken.",
+        "ro": "Începeți turul cu bicicleta la un punct de reper modern, Teatrul Festivalului Chichester, înainte de a vă îndrepta spre inima istorică a orașului. Vizitați Muzeul Novium și impresionanta Catedrală. Dimineața combină cultura secolului XX cu o istorie milenară. Apoi, porniți spre Palatul Roman Fishbourne. Plimbarea prin zona rurală este parte a experienței, culminând cu descoperirea uneia dintre cele mai mari reședințe romane din Marea Britanie și un prânz binemeritat. După-amiaza, pedalați înapoi spre centru pentru a vă relaxa în Parcul Priory, unde istoria se întâlnește cu agrementul. Aceasta este o oază de verdeață înainte de a încheia turul. Încheiați călătoria la Crucea Pieței, centrul atemporal al Chichesterului, reflectând asupra unui tur care a acoperit secole și kilometri pe două roți.",
+        "en": "Start your cycling tour at a modern landmark, the Chichester Festival Theatre, before rolling into the historic heart of the city. Visit The Novium Museum and the stunning Cathedral. The morning combines 20th-century culture with thousand-year-old history. Then, head out to Fishbourne Roman Palace. The ride through the countryside is part of the experience, culminating in discovering one of Britain's largest Roman residences and a well-deserved lunch. In the afternoon, cycle back towards the centre to relax in Priory Park, where history meets leisure. This is a green oasis before you conclude your tour. Finish your journey at the Market Cross, Chichester's timeless hub, reflecting on a tour that has spanned centuries and kilometres on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pub-Garten-Mittagessen",
+            "tip": "Ein Pub in Fishbourne oder auf dem Rückweg nach Chichester ist perfekt für ein entspanntes Mittagessen im Freien."
+          },
+          {
+            "name": "Kuchen und Ale",
+            "tip": "Ein herzhafter Kuchen und ein lokales Bier sind die perfekte Belohnung für Radfahrer."
+          },
+          {
+            "name": "La Locanda",
+            "tip": "Ein beliebtes italienisches Restaurant, ideal für ein Abendessen nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pubkerti ebéd",
+            "tip": "Egy pub Fishbourne-ban vagy visszafelé Chichesterbe tökéletes egy nyugodt szabadtéri ebédhez."
+          },
+          {
+            "name": "Pite és sör",
+            "tip": "Egy kiadós pite és egy helyi sör tökéletes jutalom a kerékpárosoknak."
+          },
+          {
+            "name": "La Locanda",
+            "tip": "Népszerű olasz étterem, ideális a kerékpártúra utáni vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prânz în grădina unui pub",
+            "tip": "Un pub în Fishbourne sau pe drumul de întoarcere spre Chichester este perfect pentru un prânz relaxant în aer liber."
+          },
+          {
+            "name": "Plăcintă și bere",
+            "tip": "O plăcintă consistentă și o bere locală sunt recompensa perfectă pentru cicliști."
+          },
+          {
+            "name": "La Locanda",
+            "tip": "Un restaurant italian popular, ideal pentru o cină după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pub Garden Lunch",
+            "tip": "A pub in Fishbourne or on the way back to Chichester is perfect for a relaxed outdoor lunch."
+          },
+          {
+            "name": "Pie and Ale",
+            "tip": "A hearty pie and a local ale is the perfect cyclist's reward."
+          },
+          {
+            "name": "La Locanda",
+            "tip": "A popular Italian restaurant, great for a post-cycle dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chichester Kanal",
+            "tip": "Der Radweg entlang des Kanals ist flach, autofrei und sehr friedlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Gärten des Römischen Palastes",
+            "tip": "Die rekonstruierten römischen Gärten in Fishbourne sind ein schöner, ruhiger Ort zum Nachdenken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Centurion Way",
+            "tip": "Ein Teil Ihrer Route könnte diesem beliebten Rad- und Wanderweg folgen, der auf einer alten Bahnstrecke verläuft.",
+            "emoji": "🚴"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chichester-csatorna",
+            "tip": "A csatorna melletti kerékpárút sík, autómentes és nagyon békés.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A római palota kertjei",
+            "tip": "A fishbourne-i rekonstruált római kertek gyönyörű, csendes helyet kínálnak az elmélyülésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Centurion Way",
+            "tip": "Az útvonal egy része ezen a népszerű kerékpár- és gyalogúton haladhat, amely egy régi vasútvonalon fut.",
+            "emoji": "🚴"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalul Chichester",
+            "tip": "Pista de biciclete de-a lungul canalului este plată, fără mașini și foarte liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Palatului Roman",
+            "tip": "Grădinile romane reconstituite de la Fishbourne sunt un loc minunat și liniștit pentru reflecție.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Calea Centurionului",
+            "tip": "O parte din traseul dvs. ar putea urma această potecă populară de ciclism și mers pe jos care urmează o veche linie de cale ferată.",
+            "emoji": "🚴"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chichester Canal",
+            "tip": "The cycle path along the canal is flat, car-free, and very peaceful.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The Roman Palace Gardens",
+            "tip": "The reconstructed Roman gardens at Fishbourne are a lovely, quiet spot for reflection.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Centurion Way",
+            "tip": "Part of your route could follow this popular cycling and walking path that runs along an old railway line.",
+            "emoji": "🚴"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In Chichester gibt es mehrere gute Fahrradgeschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Pallant House Gallery Shop",
+            "tip": "Ein ausgezeichneter Ort für einzigartige Geschenke, Bücher und Drucke im Zusammenhang mit britischer Kunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Chichesterben több jó kerékpárbolt is található kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Pallant House Galéria boltja",
+            "tip": "Kiváló hely egyedi ajándékok, könyvek és nyomatok vásárlásához, amelyek a brit művészethez kapcsolódnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Chichester are mai multe magazine bune de biciclete pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Magazinul Galeriei Pallant House",
+            "tip": "Un loc excelent pentru cadouri unice, cărți și printuri legate de arta britanică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle Shops",
+            "tip": "Chichester has several good cycle shops for any accessories or quick repairs."
+          },
+          {
+            "name": "Pallant House Gallery Shop",
+            "tip": "An excellent spot for unique gifts, books and prints related to British art."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Reifen, bevor Sie losfahren, besonders für die Fahrt nach Fishbourne.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad im Stadtzentrum und bei den Sehenswürdigkeiten zu sichern.",
+          "Die meisten Straßen im Zentrum sind fahrradfreundlich, aber in den Fußgängerzonen müssen Sie möglicherweise absteigen.",
+          "Einige Radwege folgen den alten römischen Straßen, was Ihrer Fahrt eine historische Dimension verleiht."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást, különösen a Fishbourne-ba vezető út előtt.",
+          "Hozzon magával egy jó lakatot, hogy biztonságban tudhassa kerékpárját a városközpontban és a látnivalóknál.",
+          "A legtöbb központi utca kerékpárbarát, de a sétálóövezetekben le kell szállnia.",
+          "Néhány kerékpárút a régi római utak nyomvonalát követi, ami történelmi dimenziót ad az útnak."
+        ],
+        "ro": [
+          "Verificați-vă anvelopele înainte de a porni, în special pentru călătoria spre Fishbourne.",
+          "Luați un antifurt bun pentru a vă asigura bicicleta în centrul orașului și la atracții.",
+          "Majoritatea străzilor din centru sunt prietenoase cu bicicletele, dar s-ar putea să trebuiască să descălecați în zonele pietonale.",
+          "Unele piste de biciclete urmează vechile drumuri romane, adăugând o dimensiune istorică plimbării dumneavoastră."
+        ],
+        "en": [
+          "Check your tyres before setting off, especially for the ride to Fishbourne.",
+          "Bring a good lock to secure your bike in the city centre and at the attractions.",
+          "Most central streets are cycle-friendly, but you may need to dismount in pedestrianised areas.",
+          "Some cycle paths follow the old Roman roads, adding a historical dimension to your ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 10.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fishbourne Roman Palace",
+            "hu": "Fishbourne-i római palota",
+            "ro": "Palatul Roman Fishbourne",
+            "en": "Fishbourne Roman Palace"
+          },
+          "coords": [
+            -0.815,
+            50.835
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie frühmorgens hierher, um den Menschenmassen zu entgehen. Es gibt einen großen Parkplatz.",
+            "hu": "Hajtson ide kora reggel, hogy elkerülje a tömeget. Nagy parkoló áll rendelkezésre.",
+            "ro": "Conduceți aici dimineața devreme pentru a evita aglomerația. Există o parcare mare.",
+            "en": "Drive here first thing in the morning to avoid the crowds. There's a large car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken und Spaziergang ins Zentrum",
+            "hu": "Parkolás és séta a központba",
+            "ro": "Parcați și mergeți pe jos în centru",
+            "en": "Park and Walk to Centre"
+          },
+          "coords": [
+            -0.779,
+            50.84
+          ],
+          "category": "transport",
+          "arrive_at": "11:25",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf einem der Langzeitparkplätze (z. B. Northgate) und gehen Sie zu Fuß weiter.",
+            "hu": "Parkoljon az egyik hosszú távú parkolóban (pl. Northgate), és sétáljon tovább.",
+            "ro": "Parcați într-una din parcările pe termen lung (de ex. Northgate) și mergeți pe jos.",
+            "en": "Park in one of the long-stay car parks (e.g., Northgate) and walk from there."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Chichester und Mittagessen",
+            "hu": "Chichesteri katedrális és ebéd",
+            "ro": "Catedrala din Chichester și prânzul",
+            "en": "Chichester Cathedral and Lunch"
+          },
+          "coords": [
+            -0.781,
+            50.8365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie Ihren Besuch mit einem Mittagessen in einem der nahegelegenen Cafés oder Pubs.",
+            "hu": "Kösse össze a látogatást egy ebéddel a közeli kávézók vagy pubok egyikében.",
+            "ro": "Combinați vizita cu un prânz la una dintre cafenelele sau pub-urile din apropiere.",
+            "en": "Combine your visit with lunch at one of the nearby cafes or pubs."
+          }
+        },
+        {
+          "name": {
+            "de": "Pallant House Gallery",
+            "hu": "Pallant House Galéria",
+            "ro": "Galeria Pallant House",
+            "en": "Pallant House Gallery"
+          },
+          "coords": [
+            -0.777,
+            50.838
+          ],
+          "category": "museums",
+          "arrive_at": "13:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Liebhaber moderner Kunst, nur einen kurzen Spaziergang von der Kathedrale entfernt.",
+            "hu": "A modern művészet szerelmeseinek kötelező, csak egy rövid séta a katedrálistól.",
+            "ro": "O vizită obligatorie pentru iubitorii de artă modernă, la o scurtă plimbare de catedrală.",
+            "en": "A must-visit for modern art lovers, just a short walk from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Chichester Market Cross",
+            "hu": "Chichesteri piactér keresztje",
+            "ro": "Crucea Pieței din Chichester",
+            "en": "Chichester Market Cross"
+          },
+          "coords": [
+            -0.7791,
+            50.8369
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie das komplizierte Bauwerk im Herzen des Fußgängerbereichs.",
+            "hu": "Csodálja meg a bonyolult építményt a sétálóövezet szívében.",
+            "ro": "Admirați structura complexă din inima zonei pietonale.",
+            "en": "Admire the intricate structure at the heart of the pedestrianised area."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Chichester Festival Theatre",
+            "hu": "Autóval a Chichesteri Fesztivál Színházhoz",
+            "ro": "Conduceți la Teatrul Festivalului Chichester",
+            "en": "Drive to Chichester Festival Theatre"
+          },
+          "coords": [
+            -0.784,
+            50.841
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:03",
+          "stay_min": 15,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Holen Sie Ihr Auto und fahren Sie zum Theater, um die Architektur zu sehen oder eine Abendvorstellung zu besuchen.",
+            "hu": "Vegye fel az autóját, és hajtson a színházhoz, hogy megnézze az épületet vagy egy esti előadást.",
+            "ro": "Luați mașina și conduceți la teatru pentru a vedea arhitectura sau pentru un spectacol de seară.",
+            "en": "Collect your car and drive to the theatre to see the architecture or for an evening show."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Bishop's Palace Gardens",
+            "hu": "Séta a Püspöki Palota Kertjében",
+            "ro": "Plimbare în Grădinile Palatului Episcopal",
+            "en": "Stroll in Bishop's Palace Gardens"
+          },
+          "coords": [
+            -0.783,
+            50.8358
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem friedlichen Spaziergang durch diesen wunderschönen, abgeschiedenen Garten.",
+            "hu": "Zárja a napot egy békés sétával ebben a gyönyörű, eldugott kertben.",
+            "ro": "Încheiați ziua cu o plimbare liniștită prin această grădină frumoasă și retrasă.",
+            "en": "End the day with a peaceful stroll through this beautiful, secluded garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag außerhalb der Stadt im Fishbourne Roman Palace. Wenn Sie früh ankommen, können Sie die unglaublichen Mosaike in Ruhe genießen. Dies ist der erste große Cluster Ihres Tages. Fahren Sie dann ins Zentrum von Chichester, parken Sie Ihr Auto für den Tag und erkunden Sie den historischen Kern zu Fuß. Besuchen Sie die Kathedrale und genießen Sie ein gemütliches Mittagessen. Im zweiten Cluster des Tages ist alles zu Fuß erreichbar. Am Nachmittag tauchen Sie in der Pallant House Gallery in die Kunst ein und bewundern das Market Cross. Diese fußgängerfreundliche Erkundung lässt Sie das Ambiente der Stadt aufsaugen, ohne sich um das Fahren kümmern zu müssen. Beenden Sie den Tag, indem Sie zu Ihrem Auto zurückkehren und einen kurzen Abstecher zum Chichester Festival Theatre machen, um seine einzigartige Architektur zu bewundern, gefolgt von einem entspannenden Spaziergang durch die Bishop's Palace Gardens bei Sonnenuntergang.",
+        "hu": "Kezdje a napot a városon kívül, a Fishbourne-i római palotában. Ha korán érkezik, nyugodtan élvezheti a hihetetlen mozaikokat. Ez a nap első nagy állomása. Ezután hajtson be Chichester központjába, parkolja le az autót a nap hátralévő részére, és fedezze fel gyalog a történelmi magot. Látogassa meg a katedrálist és ebédeljen egy jót. A nap második állomásán minden gyalogosan elérhető. Délután merüljön el a művészetben a Pallant House Galériában, és csodálja meg a Market Crosst. Ez a gyalogosbarát felfedezés lehetővé teszi, hogy magába szívja a város hangulatát anélkül, hogy a vezetéssel kellene törődnie. Zárja a napot azzal, hogy visszatér az autójához, tesz egy rövid kitérőt a Chichesteri Fesztivál Színházhoz, hogy megcsodálja egyedi építészetét, majd egy pihentető sétát tesz naplementekor a Püspöki Palota Kertjében.",
+        "ro": "Începeți ziua în afara orașului, la Palatul Roman Fishbourne. Sosirea devreme vă permite să vă bucurați de mozaicurile incredibile în liniște. Acesta este primul grup major al zilei. Apoi, conduceți în centrul Chichesterului, parcați mașina pentru restul zilei și explorați nucleul istoric pe jos. Vizitați catedrala și bucurați-vă de un prânz relaxant. În al doilea grup al zilei, totul este la distanță de mers pe jos. După-amiaza, scufundați-vă în artă la Galeria Pallant House și admirați Crucea Pieței. Această explorare pietonală vă permite să absorbiți atmosfera orașului fără grija condusului. Încheiați ziua întorcându-vă la mașină pentru o scurtă vizită la Teatrul Festivalului Chichester pentru a-i admira arhitectura unică, urmată de o plimbare relaxantă la apus prin Grădinile Palatului Episcopal.",
+        "en": "Start your day out of town at Fishbourne Roman Palace. Arriving early lets you enjoy the incredible mosaics in peace. This is the day's first major cluster. Then, drive into central Chichester, park the car for the day, and explore the historic core on foot. Visit the Cathedral and enjoy a leisurely lunch. In the day's second cluster, everything is within walking distance. In the afternoon, immerse yourself in art at Pallant House Gallery and admire the Market Cross. This pedestrian-focused exploration lets you absorb the city's ambience without the hassle of driving. End the day by returning to your car for a quick drive-by of the Chichester Festival Theatre to admire its unique architecture, followed by a relaxing sunset stroll in the Bishop's Palace Gardens."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cream Tea",
+            "tip": "Suchen Sie sich ein Café im Zentrum für einen klassischen Cream Tea mit Scones, Marmelade und Clotted Cream."
+          },
+          {
+            "name": "Lokales Ale",
+            "tip": "Viele Pubs in Chichester servieren Ales von Brauereien aus Sussex."
+          },
+          {
+            "name": "Purchases Restaurant",
+            "tip": "Ein elegantes Restaurant für ein besonderes Abendessen, das sich auf lokale Zutaten konzentriert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cream Tea",
+            "tip": "Keressen egy kávézót a központban egy klasszikus 'cream tea'-re, pogácsával, lekvárral és sűrű tejszínnel."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Sok chichesteri pub szolgál fel sussex-i sörfőzdékből származó söröket."
+          },
+          {
+            "name": "Purchases Restaurant",
+            "tip": "Elegáns étterem egy különleges vacsorához, a helyi alapanyagokra összpontosítva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceai cu frișcă",
+            "tip": "Găsiți o cafenea în centru pentru un ceai clasic cu frișcă, cu scones, gem și cremă de lapte."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Multe pub-uri din Chichester servesc beri de la fabricile de bere din Sussex."
+          },
+          {
+            "name": "Restaurantul Purchases",
+            "tip": "Un restaurant elegant pentru o cină specială, axat pe ingrediente locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cream Tea",
+            "tip": "Find a cafe in the centre for a classic cream tea with scones, jam, and clotted cream."
+          },
+          {
+            "name": "Local Ale",
+            "tip": "Many pubs in Chichester serve ales from Sussex breweries."
+          },
+          {
+            "name": "Purchases Restaurant",
+            "tip": "An elegant restaurant for a special dinner, focusing on local ingredients."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chichester Hafen AONB",
+            "tip": "Ein kurzer Abstecher mit dem Auto führt Sie zu diesem wunderschönen Gebiet von außerordentlicher natürlicher Schönheit für eine friedliche Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bishop's Palace Gardens",
+            "tip": "Ein perfekter Ort, um dem Trubel der Stadt zu entfliehen, versteckt hinter der Kathedrale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Gärten des Römischen Palastes",
+            "tip": "Nach der Besichtigung der Mosaike bieten die Gärten einen ruhigen Ort zum Entspannen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chichesteri kikötő (AONB)",
+            "tip": "Egy rövid autós kitérővel eljuthat ebbe a Kiemelkedő Természeti Szépségű Területbe egy békés kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Püspöki Palota Kertje",
+            "tip": "Tökéletes hely a városi nyüzsgés elől, elrejtve a katedrális mögött.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A római palota kertjei",
+            "tip": "A mozaikok megtekintése után a kertek csendes helyet kínálnak a pihenéshez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portul Chichester AONB",
+            "tip": "O scurtă deviere cu mașina vă duce în această zonă de o frumusețe naturală excepțională pentru priveliști pașnice.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Palatului Episcopal",
+            "tip": "Un loc perfect pentru a scăpa de agitația orașului, ascuns în spatele catedralei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile Palatului Roman",
+            "tip": "După ce ați văzut mozaicurile, grădinile oferă un spațiu liniștit pentru relaxare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chichester Harbour AONB",
+            "tip": "A short drive away, this Area of Outstanding Natural Beauty offers peaceful views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bishop's Palace Gardens",
+            "tip": "A perfect escape from the city buzz, hidden behind the cathedral.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The Roman Palace Gardens",
+            "tip": "After seeing the mosaics, the gardens provide a tranquil space to relax.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Hornet",
+            "tip": "Fahren Sie durch diese Straße, die für ihre Antiquitätenläden und unabhängigen Händler bekannt ist."
+          },
+          {
+            "name": "Kathedrale-Geschenkeladen",
+            "tip": "Bietet eine gute Auswahl an Souvenirs, Büchern und lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Hornet utca",
+            "tip": "Hajtson végig ezen az utcán, amely régiségboltjairól és független kereskedőiről ismert."
+          },
+          {
+            "name": "Katedrális ajándékboltja",
+            "tip": "Jó választékot kínál szuvenírekből, könyvekből és helyi termékekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Hornet",
+            "tip": "Conduceți pe această stradă cunoscută pentru magazinele sale de antichități și comercianții independenți."
+          },
+          {
+            "name": "Magazinul de cadouri al Catedralei",
+            "tip": "Oferă o selecție bună de suveniruri, cărți și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Hornet",
+            "tip": "Drive down this street known for its antique shops and independent traders."
+          },
+          {
+            "name": "Cathedral Gift Shop",
+            "tip": "Offers a good selection of souvenirs, books, and local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkgebühren und -zeiten. Die Nutzung von Park-and-Ride-Diensten kann kostengünstiger sein.",
+          "Das Stadtzentrum von Chichester ist kompakt, also planen Sie, Ihr Auto abzustellen und zu Fuß zu gehen.",
+          "Der Verkehr kann zu Stoßzeiten stark sein, planen Sie Ihre Fahrten zwischen den Standorten entsprechend.",
+          "Achten Sie auf die Beschilderung zum 'Roman Palace', da dieser etwas außerhalb der Stadt liegt."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat és időket; a 'Park and Ride' szolgáltatások használata költséghatékonyabb lehet.",
+          "Chichester városközpontja kompakt, ezért tervezze úgy, hogy leteszi az autót és gyalogol.",
+          "A forgalom csúcsidőben sűrű lehet, tervezze meg az utazásokat a helyszínek között ennek megfelelően.",
+          "Figyelje a 'Roman Palace' felé mutató táblákat, mivel az kissé a városon kívül található."
+        ],
+        "ro": [
+          "Verificați taxele și orele de parcare; utilizarea serviciilor Park and Ride poate fi mai rentabilă.",
+          "Centrul orașului Chichester este compact, așa că planificați să lăsați mașina și să mergeți pe jos.",
+          "Traficul poate fi aglomerat la orele de vârf, planificați-vă călătoriile între locații în consecință.",
+          "Fiți atenți la indicatoarele către 'Palatul Roman', deoarece este situat puțin în afara orașului."
+        ],
+        "en": [
+          "Check car park charges and times; using a Park and Ride service can be more cost-effective.",
+          "Chichester's city centre is compact, so plan to park the car and walk.",
+          "Traffic can be heavy during peak times, so plan your drives between sites accordingly.",
+          "Be aware of the signage for the 'Roman Palace' as it is slightly out of town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 9.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Chichester",
+            "hu": "Érkezés a chichesteri vasútállomásra",
+            "ro": "Sosire la Gara Chichester",
+            "en": "Arrival at Chichester Station"
+          },
+          "coords": [
+            -0.783,
+            50.832
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bahnhof liegt südlich des Zentrums, ein einfacher Spaziergang zu den Hauptattraktionen.",
+            "hu": "Az állomás a központtól délre található, könnyű sétára a főbb látnivalóktól.",
+            "ro": "Gara este situată la sud de centru, o plimbare ușoară până la principalele atracții.",
+            "en": "The station is located south of the centre, an easy walk to the main attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale und Market Cross",
+            "hu": "Katedrális és Market Cross",
+            "ro": "Catedrala și Crucea Pieței",
+            "en": "Cathedral and Market Cross"
+          },
+          "coords": [
+            -0.781,
+            50.8365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:23",
+          "stay_min": 90,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen liegen nahe beieinander und bilden den Kern des historischen Chichester.",
+            "hu": "Ez a két nevezetesség közel van egymáshoz, és Chichester történelmi magját alkotják.",
+            "ro": "Aceste două repere sunt apropiate și formează nucleul istoric al Chichesterului.",
+            "en": "These two landmarks are close together and form the core of historic Chichester."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Novium Museum",
+            "hu": "A Novium Múzeum",
+            "ro": "Muzeul Novium",
+            "en": "The Novium Museum"
+          },
+          "coords": [
+            -0.7805,
+            50.8385
+          ],
+          "category": "museums",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kathedrale, um mehr über die römische Geschichte zu erfahren.",
+            "hu": "Egy rövid séta a katedrálistól, hogy többet tudjon meg a római történelemről.",
+            "ro": "La o scurtă plimbare de catedrală pentru a afla despre istoria romană.",
+            "en": "A short walk from the cathedral to learn about Roman history."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Fishbourne Roman Palace",
+            "hu": "Busszal a Fishbourne-i római palotához",
+            "ro": "Autobuz către Palatul Roman Fishbourne",
+            "en": "Bus to Fishbourne Roman Palace"
+          },
+          "coords": [
+            -0.815,
+            50.835
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:41",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus 700. Planen Sie Zeit für den Spaziergang vom Bus zur Palastanlage ein.",
+            "hu": "Szálljon fel a 700-as buszra. Tervezzen időt a buszmegállótól a palotáig tartó sétára.",
+            "ro": "Luați autobuzul 700. Lăsați timp pentru plimbarea de la autobuz la situl palatului.",
+            "en": "Take the 700 bus. Allow time for the walk from the bus to the palace site."
+          }
+        },
+        {
+          "name": {
+            "de": "Pallant House Gallery",
+            "hu": "Pallant House Galéria",
+            "ro": "Galeria Pallant House",
+            "en": "Pallant House Gallery"
+          },
+          "coords": [
+            -0.777,
+            50.838
+          ],
+          "category": "museums",
+          "arrive_at": "15:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ins Zentrum und steigen Sie in der Nähe der Galerie aus.",
+            "hu": "Menjen vissza busszal a központba, és szálljon le a galéria közelében.",
+            "ro": "Luați autobuzul înapoi în centru și coborâți lângă galerie.",
+            "en": "Take the bus back into the centre and alight near the gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen und Abfahrt",
+            "hu": "Vacsora és indulás",
+            "ro": "Cină și plecare",
+            "en": "Dinner and Departure"
+          },
+          "coords": [
+            -0.78,
+            50.833
+          ],
+          "category": "gastro",
+          "arrive_at": "17:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein frühes Abendessen in der Nähe des Bahnhofs, bevor Sie Ihren Zug nehmen.",
+            "hu": "Élvezzen egy korai vacsorát az állomás közelében, mielőtt felszáll a vonatra.",
+            "ro": "Bucurați-vă de o cină devreme lângă gară înainte de a prinde trenul.",
+            "en": "Enjoy an early dinner near the station before catching your train."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Bahnhof von Chichester und spazieren Sie ins Herz der Stadt. Der erste Cluster konzentriert sich auf das historische Zentrum: Besuchen Sie die Kathedrale, das Market Cross und das Novium Museum. Alles ist leicht zu Fuß erreichbar. Nehmen Sie am Mittag den Bus zum Fishbourne Roman Palace. Diese Fahrt bringt Sie aus dem Stadtzentrum zu einer der bedeutendsten römischen Stätten des Landes, dem zweiten großen Cluster des Tages, wo Sie auch zu Mittag essen können. Am Nachmittag bringt Sie der Bus zurück in die Stadt, direkt zur Pallant House Gallery, Ihrem dritten Cluster. Hier können Sie in die moderne Kunst eintauchen und einen Kontrast zu den römischen Wundern des Vormittags erleben. Beenden Sie den Tag mit einem gemütlichen Spaziergang zurück zum Bahnhof, vielleicht nach einem frühen Abendessen, und reflektieren Sie über einen Tag, der mühelos zwischen antiker und moderner Welt wechselte.",
+        "hu": "Kezdje a napot a chichesteri vasútállomáson, és sétáljon be a város szívébe. Az első állomás a történelmi központra összpontosít: látogassa meg a katedrálist, a Market Crosst és a Novium Múzeumot. Minden könnyen megközelíthető gyalog. Délben szálljon buszra a Fishbourne-i római palotához. Ez az utazás kiviszi Önt a városközpontból az ország egyik legfontosabb római lelőhelyére, a nap második nagy állomására, ahol ebédelhet is. Délután a busz visszaviszi a városba, egyenesen a Pallant House Galériához, a harmadik állomáshoz. Itt elmerülhet a modern művészetben, kontrasztot teremtve a délelőtti római csodákkal. Zárja a napot egy kellemes sétával vissza az állomásra, esetleg egy korai vacsora után, elmélkedve egy napon, amely könnyedén váltott az ókori és a modern világ között.",
+        "ro": "Începeți ziua la gara din Chichester și faceți o plimbare până în inima orașului. Primul grup se concentrează pe centrul istoric: vizitați Catedrala, Crucea Pieței și Muzeul Novium. Totul este la o distanță ușor de parcurs pe jos. La prânz, luați autobuzul către Palatul Roman Fishbourne. Această călătorie vă scoate din centrul orașului către unul dintre cele mai importante situri romane din țară, al doilea grup major al zilei, unde puteți lua și prânzul. După-amiaza, autobuzul vă aduce înapoi în oraș, direct la Galeria Pallant House, al treilea grup. Aici vă puteau scufunda în arta modernă, contrastând cu minunile romane ale dimineții. Încheiați ziua cu o plimbare relaxantă înapoi la gară, poate după o cină timpurie, reflectând la o zi care a navigat fără efort între lumile antică și modernă.",
+        "en": "Start your day at Chichester station and stroll into the city's heart. The first cluster focuses on the historic centre: visit the Cathedral, Market Cross, and The Novium Museum. Everything is within easy walking distance. At midday, take a bus to Fishbourne Roman Palace. This journey takes you out of the city centre to one of the country's most important Roman sites, the day's second major cluster, where you can also have lunch. In the afternoon, the bus brings you back into town, straight to Pallant House Gallery, your third cluster. Here, you can immerse yourself in modern art, contrasting with the morning's Roman wonders. End the day with a gentle walk back towards the station, perhaps after an early dinner, reflecting on a day that effortlessly navigated the ancient and modern worlds."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandwich zum Mitnehmen",
+            "tip": "Holen Sie sich ein Sandwich in einer Bäckerei für ein schnelles Mittagessen, bevor Sie den Bus nach Fishbourne nehmen."
+          },
+          {
+            "name": "Abendessen in der Nähe des Bahnhofs",
+            "tip": "Es gibt mehrere gute Restaurants und Pubs in der Nähe des Bahnhofs für eine praktische Mahlzeit vor der Abreise."
+          },
+          {
+            "name": "The Buttery at the Crypt",
+            "tip": "Ein charmantes Café unter der Kathedrale, ideal für einen Kaffee und Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elvihető szendvics",
+            "tip": "Vegyen egy szendvicset egy pékségben egy gyors ebédhez, mielőtt felszáll a fishbourne-i buszra."
+          },
+          {
+            "name": "Vacsora az állomás közelében",
+            "tip": "Az állomás közelében több jó étterem és pub található egy kényelmes étkezéshez indulás előtt."
+          },
+          {
+            "name": "The Buttery at the Crypt",
+            "tip": "Bájos kávézó a katedrális alatt, ideális egy kávéra és süteményre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș la pachet",
+            "tip": "Luați un sandviș de la o brutărie pentru un prânz rapid înainte de a lua autobuzul spre Fishbourne."
+          },
+          {
+            "name": "Cină lângă gară",
+            "tip": "Există mai multe restaurante și pub-uri bune lângă gară pentru o masă convenabilă înainte de plecare."
+          },
+          {
+            "name": "The Buttery at the Crypt",
+            "tip": "O cafenea fermecătoare sub catedrală, ideală pentru o cafea și o prăjitură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Takeaway Sandwich",
+            "tip": "Grab a sandwich from a bakery for a quick lunch before catching the bus to Fishbourne."
+          },
+          {
+            "name": "Dinner near the station",
+            "tip": "There are several good restaurants and pubs near the station for a convenient pre-departure meal."
+          },
+          {
+            "name": "The Buttery at the Crypt",
+            "tip": "A charming cafe underneath the cathedral, perfect for a coffee and cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Priory Park",
+            "tip": "Ein kurzer Spaziergang von der Pallant Gallery entfernt, ein schöner Ort zum Entspannen vor der Heimreise.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bishop's Palace Gardens",
+            "tip": "Ein ruhiger Zufluchtsort direkt im Stadtzentrum, den man leicht übersehen kann.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der Kreuzgang der Kathedrale",
+            "tip": "Auch an einem anstrengenden Tag ist der Kreuzgang oft ein Ort der Ruhe und des Friedens.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Priory Park",
+            "tip": "Egy rövid séta a Pallant Galériától, kellemes hely a pihenésre hazaindulás előtt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Püspöki Palota Kertje",
+            "tip": "Egy csendes menedék a városközpontban, amelyet könnyű figyelmen kívül hagyni.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A katedrális kerengője",
+            "tip": "Még egy forgalmas napon is a kerengő gyakran a nyugalom és a béke helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Priory",
+            "tip": "La o scurtă plimbare de Galeria Pallant, un loc minunat pentru a vă relaxa înainte de a pleca acasă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile Palatului Episcopal",
+            "tip": "Un refugiu liniștit chiar în centrul orașului, ușor de ratat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gleriile Catedralei",
+            "tip": "Chiar și într-o zi aglomerată, gleriile sunt adesea un loc de calm și pace.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Priory Park",
+            "tip": "A short walk from Pallant Gallery, a lovely spot to relax before heading home.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bishop's Palace Gardens",
+            "tip": "A quiet sanctuary right in the city centre that's easy to miss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The Cathedral Cloisters",
+            "tip": "Even on a busy day, the cloisters are often a place of calm and peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Unabhängige Buchhandlungen",
+            "tip": "In den Gassen von Chichester gibt es einige charmante unabhängige Buchhandlungen."
+          },
+          {
+            "name": "South Street",
+            "tip": "Diese Straße, die vom Kreuz zur Kathedrale führt, hat eine gute Mischung aus Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Független könyvesboltok",
+            "tip": "Chichester sikátoraiban található néhány bájos független könyvesbolt."
+          },
+          {
+            "name": "South Street",
+            "tip": "Ez az utca, amely a Kereszttől a Katedrális felé vezet, jó üzletkeverékkel rendelkezik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librării independente",
+            "tip": "Există câteva librării independente fermecătoare pe aleile din Chichester."
+          },
+          {
+            "name": "South Street",
+            "tip": "Această stradă care duce de la Cruce spre Catedrală are un amestec bun de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Independent Bookshops",
+            "tip": "There are some charming independent bookshops tucked away in Chichester's lanes."
+          },
+          {
+            "name": "South Street",
+            "tip": "This street leading from the Cross towards the Cathedral has a good mix of shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere für die letzte Rückfahrt von Fishbourne.",
+          "Die Bus-App 'Stagecoach' ist nützlich für Live-Zeiten und Routenplanung.",
+          "Viele Busse sind mit USB-Ladeanschlüssen ausgestattet."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó Fishbourne-ból visszatérő járatét.",
+          "A 'Stagecoach' buszalkalmazás hasznos az élő időkhöz és az útvonaltervezéshez.",
+          "Sok busz USB töltőporttal van felszerelve."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă intenționați să faceți mai multe călătorii.",
+          "Verificați orarele autobuzelor în avans, în special pentru ultima cursă de întoarcere de la Fishbourne.",
+          "Aplicația de autobuz 'Stagecoach' este utilă pentru orele live și planificarea rutelor.",
+          "Multe autobuze sunt echipate cu porturi de încărcare USB."
+        ],
+        "en": [
+          "Buy a day rider bus ticket if you plan on making multiple journeys.",
+          "Check bus timetables in advance, especially for the last bus back from Fishbourne.",
+          "The 'Stagecoach' bus app is useful for live times and route planning.",
+          "Many buses are equipped with USB charging ports."
+        ]
+      }
+    }
+  }
+}

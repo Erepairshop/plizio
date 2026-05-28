@@ -1,0 +1,1436 @@
+{
+  "city_id": "poland-ruda-slaska-cities-v2",
+  "anchor": {
+    "name": "Ruda Śląska",
+    "coords": [
+      18.855,
+      50.2575
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Ruda Śląska",
+            "hu": "Városháza Ruda Śląska",
+            "ro": "Primăria din Ruda Śląska",
+            "en": "Ruda Śląska Town Hall"
+          },
+          "coords": [
+            18.8545,
+            50.258
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und die Atmosphäre des Hauptplatzes.",
+            "hu": "Csodálja meg az építészetet és a főtér hangulatát.",
+            "ro": "Admirați arhitectura și atmosfera din piața principală.",
+            "en": "Admire the architecture and the atmosphere of the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Aeskulap Apotheke",
+            "hu": "Aeskulap Gyógyszertár",
+            "ro": "Farmacia Aeskulap",
+            "en": "Aeskulap Pharmacy"
+          },
+          "coords": [
+            18.853,
+            50.2575
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein historisches Gebäude, das die lokale Geschichte widerspiegelt.",
+            "hu": "Egy történelmi épület, amely a helyi történelmet tükrözi.",
+            "ro": "O clădire istorică ce reflectă istoria locală.",
+            "en": "A historic building that reflects the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Joseph Kirche",
+            "hu": "Szent József-templom",
+            "ro": "Biserica Sf. Iosif",
+            "en": "St. Joseph's Church"
+          },
+          "coords": [
+            18.857,
+            50.26
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie einen Moment der Ruhe und bewundern Sie die Glasfenster.",
+            "hu": "Keressen egy pillanatnyi csendet és csodálja meg az ólomüveg ablakokat.",
+            "ro": "Găsiți un moment de liniște și admirați vitraliile.",
+            "en": "Find a moment of peace and admire the stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Arbeitersiedlung Ficinus",
+            "hu": "Ficinus Munkástelep",
+            "ro": "Colonia muncitorească Ficinus",
+            "en": "Ficinus workers' settlement"
+          },
+          "coords": [
+            18.885,
+            50.275
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie eine der ältesten Arbeitersiedlungen in Oberschlesien.",
+            "hu": "Fedezze fel Felső-Szilézia egyik legrégebbi munkástelepét.",
+            "ro": "Explorați una dintre cele mai vechi colonii muncitorești din Silezia Superioară.",
+            "en": "Explore one of the oldest workers' settlements in Upper Silesia."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Volksrepublik Polen",
+            "hu": "Lengyel Népköztársaság Múzeuma",
+            "ro": "Muzeul Republicii Populare Polone",
+            "en": "Museum of the Polish People's Republic"
+          },
+          "coords": [
+            18.845,
+            50.245
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine Zeitreise in die kommunistische Ära Polens.",
+            "hu": "Időutazás a kommunista Lengyelország korszakába.",
+            "ro": "O călătorie în timp în epoca comunistă a Poloniei.",
+            "en": "A journey back in time to Poland's communist era."
+          }
+        },
+        {
+          "name": {
+            "de": "Schacht Mikołaj",
+            "hu": "Mikołaj Akna",
+            "ro": "Puțul Mikołaj",
+            "en": "Mikołaj Shaft"
+          },
+          "coords": [
+            18.84,
+            50.24
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Denkmal des Bergbauerbes der Region.",
+            "hu": "A régió bányászati örökségének lenyűgöző emlékműve.",
+            "ro": "Un monument impresionant al moștenirii miniere a regiunii.",
+            "en": "An impressive monument to the region's mining heritage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Ruda Śląska beginnt am historischen Rathaus, einem Zeugnis der bürgerlichen Geschichte der Stadt. Ein kurzer Spaziergang führt Sie zur alten Aeskulap-Apotheke und der ruhigen St.-Joseph-Kirche. Der Mittag ist der Erkundung des einzigartigen Industrieerbes gewidmet, beginnend mit der Arbeitersiedlung Ficinus, die einen Einblick in das Leben der Bergleute bietet. Am Nachmittag tauchen Sie im Museum der Volksrepublik Polen tief in die jüngere Geschichte ein. Der Tag endet am Schacht Mikołaj, einem mächtigen Symbol der industriellen Vergangenheit, das einen nachdenklichen Abschluss Ihrer Reise durch die Zeit bietet.",
+        "hu": "A nap Ruda Śląskában a történelmi Városházánál kezdődik, a város polgári történelmének tanújánál. Egy rövid séta elvezet a régi Aeskulap Gyógyszertárhoz és a békés Szent József-templomhoz. A délelőttöt az egyedülálló ipari örökség felfedezésének szenteljük, kezdve a Ficinus munkásteleppel, amely bepillantást enged a bányászok életébe. Délután a Lengyel Népköztársaság Múzeumában mélyedhet el a közelmúlt történelmében. A nap a Mikołaj aknánál zárul, az ipari múlt hatalmas szimbólumánál, amely elgondolkodtató lezárása az időutazásnak.",
+        "ro": "Ziua dvs. în Ruda Śląska începe la Primăria istorică, o mărturie a istoriei civice a orașului. O scurtă plimbare vă duce la vechea Farmacie Aeskulap și la liniștita Biserică Sf. Iosif. Miezul zilei este dedicat explorării moștenirii industriale unice, începând cu colonia muncitorească Ficinus, care oferă o privire asupra vieții minerilor. După-amiaza, pătrundeți adânc în istoria recentă la Muzeul Republicii Populare Polone. Ziua se încheie la Puțul Mikołaj, un simbol puternic al trecutului industrial, oferind o concluzie reflexivă călătoriei dvs. în timp.",
+        "en": "Your day in Ruda Śląska begins at the historic Town Hall, a testament to the city's civic history. A short walk takes you to the old Aeskulap Pharmacy and the peaceful St. Joseph's Church. The midday is dedicated to exploring the unique industrial heritage, starting with the Ficinus workers' settlement, which offers a glimpse into the miners' lives. In the afternoon, you'll delve deep into recent history at the Museum of the Polish People's Republic. The day concludes at the Mikołaj Shaft, a powerful symbol of the industrial past, providing a thoughtful end to your journey through time."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schlesische Roulade (Rolada śląska)",
+            "tip": "Ein herzhaftes Rindfleischgericht, oft mit Knödeln und Rotkohl serviert."
+          },
+          {
+            "name": "Schlesische Kartoffelklöße (Kluski śląskie)",
+            "tip": "Weiche Kartoffelklöße, eine klassische Beilage."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Probieren Sie den lokalen Käsekuchen zum Nachtisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai göngyölt hús (Rolada śląska)",
+            "tip": "Kiadós marhahúsétel, gyakran gombóccal és vöröskáposztával tálalva."
+          },
+          {
+            "name": "Sziléziai burgonyagombóc (Kluski śląskie)",
+            "tip": "Puha burgonyagombóc, klasszikus köret."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Kóstolja meg a helyi sajttortát desszertként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruladă sileziană (Rolada śląska)",
+            "tip": "Un fel de mâncare consistent din carne de vită, adesea servit cu găluște și varză roșie."
+          },
+          {
+            "name": "Găluște sileziene de cartofi (Kluski śląskie)",
+            "tip": "Găluște moi de cartofi, o garnitură clasică."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Încercați prăjitura locală cu brânză pentru desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian Roulade (Rolada śląska)",
+            "tip": "A hearty beef dish, often served with dumplings and red cabbage."
+          },
+          {
+            "name": "Silesian Potato Dumplings (Kluski śląskie)",
+            "tip": "Soft potato dumplings, a classic side dish."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Try the local cheesecake for dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten der St. Joseph Kirche",
+            "tip": "Ein ruhiger Ort, um nach der Besichtigung der Kirche nachzudenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang durch die Ficinus-Siedlung",
+            "tip": "Ein ruhiger Spaziergang durch die historischen Backsteinhäuser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent József-templom kertje",
+            "tip": "Csendes hely az elmélkedésre a templomlátogatás után.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Ficinus-telepen",
+            "tip": "Békés séta a történelmi téglaházak között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Bisericii Sf. Iosif",
+            "tip": "Un loc liniștit pentru a reflecta după vizitarea bisericii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare prin colonia Ficinus",
+            "tip": "O plimbare liniștită printre casele istorice din cărămidă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Joseph's Church Garden",
+            "tip": "A quiet spot to reflect after visiting the church.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk around Ficinus Settlement",
+            "tip": "A peaceful walk among the historic brick houses.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und handwerklichen Erzeugnissen."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Finden Sie Bücher und Souvenirs zur lokalen Geschichte und zum Bergbau."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat."
+          },
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Keressen könyveket és emléktárgyakat a helyi történelemről és bányászatról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și obiecte de artizanat."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Găsiți cărți și suveniruri despre istoria locală și minerit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and handcrafted goods."
+          },
+          {
+            "name": "Museum Shop",
+            "tip": "Find books and souvenirs related to local history and mining."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Halten Sie eine Kamera bereit, um die einzigartige Industriearchitektur festzuhalten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Ellenőrizze előre a múzeum nyitvatartási idejét.",
+          "Készítsen fényképezőgépet az egyedi ipari építészet megörökítéséhez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "Pregătiți o cameră foto pentru a surprinde arhitectura industrială unică."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Check the museum's opening hours in advance.",
+          "Have a camera ready to capture the unique industrial architecture."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Ruda Śląska",
+            "hu": "Városháza Ruda Śląska",
+            "ro": "Primăria din Ruda Śląska",
+            "en": "Ruda Śląska Town Hall"
+          },
+          "coords": [
+            18.8545,
+            50.258
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour im Herzen der Stadt.",
+            "hu": "Kezdje a kerékpártúrát a város szívében.",
+            "ro": "Începeți turul cu bicicleta în inima orașului.",
+            "en": "Start your bike tour in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Arbeitersiedlung Ficinus",
+            "hu": "Ficinus Munkástelep",
+            "ro": "Colonia muncitorească Ficinus",
+            "en": "Ficinus workers' settlement"
+          },
+          "coords": [
+            18.885,
+            50.275
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie durch die historischen Straßen dieser einzigartigen Siedlung.",
+            "hu": "Kerékpározzon végig ennek az egyedülálló településnek a történelmi utcáin.",
+            "ro": "Pedalați pe străzile istorice ale acestei colonii unice.",
+            "en": "Cycle through the historic streets of this unique settlement."
+          }
+        },
+        {
+          "name": {
+            "de": "Doppelschacht der Grube",
+            "hu": "A bánya dupla aknája",
+            "ro": "Puțul dublu al minei",
+            "en": "Double shaft of the mine"
+          },
+          "coords": [
+            18.895,
+            50.295
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:02",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein weiteres beeindruckendes Beispiel für das industrielle Erbe.",
+            "hu": "Az ipari örökség egy másik lenyűgöző példája.",
+            "ro": "Un alt exemplu impresionant de moștenire industrială.",
+            "en": "Another impressive example of industrial heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Kraftwerk-Ruinen",
+            "hu": "Erőmű romjai",
+            "ro": "Ruinele centralei electrice",
+            "en": "Power plant ruins"
+          },
+          "coords": [
+            18.91,
+            50.285
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entdecken Sie die stimmungsvollen Ruinen, ein Paradies für Fotografen.",
+            "hu": "Fedezze fel a hangulatos romokat, a fotósok paradicsomát.",
+            "ro": "Descoperiți ruinele atmosferice, un paradis pentru fotografi.",
+            "en": "Discover the atmospheric ruins, a paradise for photographers."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Volksrepublik Polen",
+            "hu": "Lengyel Népköztársaság Múzeuma",
+            "ro": "Muzeul Republicii Populare Polone",
+            "en": "Museum of the Polish People's Republic"
+          },
+          "coords": [
+            18.845,
+            50.245
+          ],
+          "category": "museums",
+          "arrive_at": "13:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und machen Sie eine Zeitreise.",
+            "hu": "Tegye le a kerékpárt, és tegyen egy időutazást.",
+            "ro": "Parcați bicicleta și faceți o călătorie în timp.",
+            "en": "Park your bike and take a trip back in time."
+          }
+        },
+        {
+          "name": {
+            "de": "Schacht Mikołaj",
+            "hu": "Mikołaj Akna",
+            "ro": "Puțul Mikołaj",
+            "en": "Mikołaj Shaft"
+          },
+          "coords": [
+            18.84,
+            50.24
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sehen Sie sich den riesigen Förderturm aus der Nähe an.",
+            "hu": "Nézze meg közelről a hatalmas felvonótornyot.",
+            "ro": "Vedeți de aproape turnul masiv de extracție.",
+            "en": "See the massive headframe up close."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Joseph Kirche",
+            "hu": "Szent József-templom",
+            "ro": "Biserica Sf. Iosif",
+            "en": "St. Joseph's Church"
+          },
+          "coords": [
+            18.857,
+            50.26
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:41",
+          "stay_min": 63,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Moment der stillen Besinnung.",
+            "hu": "Zárja a túrát egy csendes elmélkedéssel.",
+            "ro": "Încheiați turul cu un moment de reflecție liniștită.",
+            "en": "End your tour with a moment of quiet reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und beginnen Sie Ihre Erkundung am Rathaus von Ruda Śląska. Ihre Route führt Sie durch das Herz des schlesischen Industrieerbes, vorbei an der historischen Arbeitersiedlung Ficinus, dem Doppelschacht und den eindrucksvollen Ruinen des Kraftwerks. Jeder Stopp enthüllt eine weitere Schicht der reichen Bergbauvergangenheit der Region. Der Mittag bietet eine Pause von der Industriekultur mit einem Besuch im Museum der Volksrepublik Polen. Am Nachmittag radeln Sie weiter zum mächtigen Schacht Mikołaj, bevor Sie Ihren Tag in der friedlichen Atmosphäre der St.-Joseph-Kirche ausklingen lassen.",
+        "hu": "Pattanjon kerékpárra és kezdje a felfedezést Ruda Śląska városházájánál. Az útvonal a sziléziai ipari örökség szívén vezet keresztül, elhaladva a történelmi Ficinus munkástelep, a dupla akna és az erőmű lenyűgöző romjai mellett. Minden megálló a régió gazdag bányászati múltjának egy újabb rétegét tárja fel. A délelőtt szünetet tart az ipari kultúrától a Lengyel Népköztársaság Múzeumának meglátogatásával. Délután továbbteker a hatalmas Mikołaj aknához, mielőtt a Szent József-templom békés hangulatában zárja a napot.",
+        "ro": "Urcați-vă pe bicicletă și începeți explorarea la Primăria din Ruda Śląska. Traseul vă poartă prin inima moștenirii industriale sileziene, trecând pe lângă colonia istorică a muncitorilor Ficinus, puțul dublu și ruinele impresionante ale centralei electrice. Fiecare oprire dezvăluie un alt strat al bogatului trecut minier al regiunii. Miezul zilei oferă o pauză de la cultura industrială cu o vizită la Muzeul Republicii Populare Polone. După-amiaza, pedalați mai departe spre puternicul Puț Mikołaj, înainte de a încheia ziua în atmosfera pașnică a Bisericii Sf. Iosif.",
+        "en": "Get on your bike and start your exploration at the Ruda Śląska Town Hall. Your route takes you through the heart of Silesian industrial heritage, passing the historic Ficinus workers' settlement, the double shaft, and the impressive ruins of the power plant. Each stop reveals another layer of the region's rich mining past. The midday offers a break from industrial culture with a visit to the Museum of the Polish People's Republic. In the afternoon, you'll cycle on to the mighty Mikołaj Shaft before ending your day in the peaceful atmosphere of St. Joseph's Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Żurek śląski",
+            "tip": "Eine saure Roggenmehlsuppe, oft mit Wurst und Ei, perfekt für eine Stärkung."
+          },
+          {
+            "name": "Krupniok",
+            "tip": "Eine Art schlesische Blutwurst, ein lokaler Favorit."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Gönnen Sie sich einen gefüllten Donut als süßen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Żurek śląski",
+            "tip": "Savanyú rozslisztleves, gyakran kolbásszal és tojással, tökéletes feltöltődés."
+          },
+          {
+            "name": "Krupniok",
+            "tip": "Egyfajta sziléziai véres hurka, helyi kedvenc."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Kényeztesse magát egy töltött fánkkal édes harapnivalóként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Żurek śląski",
+            "tip": "O ciorbă acră de secară, adesea cu cârnați și ou, perfectă pentru o masă energizantă."
+          },
+          {
+            "name": "Krupniok",
+            "tip": "Un tip de cârnat de sânge silezian, un favorit local."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Răsfățați-vă cu o gogoașă umplută pentru o gustare dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Żurek śląski",
+            "tip": "A sour rye flour soup, often with sausage and egg, perfect for refueling."
+          },
+          {
+            "name": "Krupniok",
+            "tip": "A type of Silesian black pudding, a local favorite."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Treat yourself to a filled donut for a sweet snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer eines örtlichen Teiches",
+            "tip": "Suchen Sie einen der kleinen Teiche für eine ruhige Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von einer Brücke",
+            "tip": "Halten Sie auf einer der Brücken an, um die industrielle Landschaft zu betrachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi tó partja",
+            "tip": "Keressen egyet a kis tavak közül egy csendes pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás egy hídról",
+            "tip": "Álljon meg az egyik hídon, hogy szemlélje az ipari tájat.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul unui iaz local",
+            "tip": "Căutați unul dintre micile iazuri pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de pe un pod",
+            "tip": "Opriți-vă pe unul dintre poduri pentru a contempla peisajul industrial.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of a local pond",
+            "tip": "Find one of the small ponds for a quiet break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from a bridge",
+            "tip": "Stop on one of the bridges to contemplate the industrial landscape.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Kaufen Sie Zubehör oder ein Souvenir mit Fahrradthema."
+          },
+          {
+            "name": "Handwerksmarkt",
+            "tip": "Halten Sie Ausschau nach handgefertigten Gegenständen von lokalen Künstlern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Vásároljon kiegészítőket vagy egy kerékpáros témájú emléktárgyat."
+          },
+          {
+            "name": "Kézműves piac",
+            "tip": "Keressen helyi művészek által készített kézműves tárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Cumpărați accesorii sau un suvenir cu tematică de ciclism."
+          },
+          {
+            "name": "Târg de artizanat",
+            "tip": "Fiți atenți la obiectele realizate manual de artiștii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop",
+            "tip": "Pick up any accessories or a cycling-themed souvenir."
+          },
+          {
+            "name": "Craft market",
+            "tip": "Look out for handmade items from local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist, da die Oberflächen variieren können.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad bei den Stopps zu sichern.",
+          "Planen Sie Ihre Route mit einer Karte, um sich nicht zu verfahren."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy kerékpárja jó állapotban van, mivel a felületek változhatnak.",
+          "Hozzon magával lakatot a kerékpár lezárásához a megállóknál.",
+          "Tervezze meg az útvonalat térképpel, hogy elkerülje az eltévedést."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este în stare bună, deoarece suprafețele pot varia.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Planificați-vă traseul cu o hartă pentru a evita să vă rătăciți."
+        ],
+        "en": [
+          "Ensure your bike is in good condition as surfaces can vary.",
+          "Bring a lock to secure your bike at stops.",
+          "Plan your route with a map to avoid getting lost."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 24.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kraftwerk-Ruinen",
+            "hu": "Erőmű romjai",
+            "ro": "Ruinele centralei electrice",
+            "en": "Power plant ruins"
+          },
+          "coords": [
+            18.91,
+            50.285
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit der Erkundung dieser atmosphärischen Industrieruinen. Parken Sie in der Nähe.",
+            "hu": "Kezdje a napot ezeknek a hangulatos ipari romoknak a felfedezésével. Parkoljon a közelben.",
+            "ro": "Începeți ziua explorând aceste ruine industriale atmosferice. Parcați în apropiere.",
+            "en": "Start your day exploring these atmospheric industrial ruins. Park nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Doppelschacht der Grube",
+            "hu": "A bánya dupla aknája",
+            "ro": "Puțul dublu al minei",
+            "en": "Double shaft of the mine"
+          },
+          "coords": [
+            18.895,
+            50.295
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von den Ruinen führt Sie zu diesem beeindruckenden Bergbaudenkmal.",
+            "hu": "Egy rövid séta a romoktól elvezet ehhez a lenyűgöző bányászati emlékműhöz.",
+            "ro": "O scurtă plimbare de la ruine vă duce la acest monument minier impresionant.",
+            "en": "A short walk from the ruins takes you to this impressive mining monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Arbeitersiedlung Ficinus",
+            "hu": "Ficinus Munkástelep",
+            "ro": "Colonia muncitorească Ficinus",
+            "en": "Ficinus workers' settlement"
+          },
+          "coords": [
+            18.885,
+            50.275
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster und tauchen Sie in die Geschichte dieser einzigartigen Siedlung ein.",
+            "hu": "Vezessen a következő klaszterhez, és merüljön el ennek az egyedi településnek a történelmében.",
+            "ro": "Conduceți la următorul cluster și pătrundeți în istoria acestei colonii unice.",
+            "en": "Drive to the next cluster and immerse yourself in the history of this unique settlement."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Ruda Śląska",
+            "hu": "Városháza Ruda Śląska",
+            "ro": "Primăria din Ruda Śląska",
+            "en": "Ruda Śląska Town Hall"
+          },
+          "coords": [
+            18.8545,
+            50.258
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und genießen Sie die Atmosphäre des Hauptplatzes.",
+            "hu": "Parkoljon a központban, és élvezze a főtér hangulatát.",
+            "ro": "Parcați în centru și bucurați-vă de atmosfera din piața principală.",
+            "en": "Park in the center and enjoy the atmosphere of the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Joseph Kirche",
+            "hu": "Szent József-templom",
+            "ro": "Biserica Sf. Iosif",
+            "en": "St. Joseph's Church"
+          },
+          "coords": [
+            18.857,
+            50.26
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus zu diesem friedlichen Ort.",
+            "hu": "Egy rövid séta a Városházától ehhez a békés helyhez.",
+            "ro": "O scurtă plimbare de la primărie la acest loc pașnic.",
+            "en": "A short walk from the town hall to this peaceful place."
+          }
+        },
+        {
+          "name": {
+            "de": "Aeskulap Apotheke",
+            "hu": "Aeskulap Gyógyszertár",
+            "ro": "Farmacia Aeskulap",
+            "en": "Aeskulap Pharmacy"
+          },
+          "coords": [
+            18.853,
+            50.2575
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang im Stadtzentrum mit diesem historischen Gebäude.",
+            "hu": "Fejezze be a belvárosi sétát ennél a történelmi épületnél.",
+            "ro": "Încheiați plimbarea prin centrul orașului la această clădire istorică.",
+            "en": "Finish your walk in the city center at this historic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Volksrepublik Polen",
+            "hu": "Lengyel Népköztársaság Múzeuma",
+            "ro": "Muzeul Republicii Populare Polone",
+            "en": "Museum of the Polish People's Republic"
+          },
+          "coords": [
+            18.845,
+            50.245
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museum für eine tiefgehende Geschichtsstunde.",
+            "hu": "Vezessen a múzeumhoz egy mélyreható történelemórára.",
+            "ro": "Conduceți la muzeu pentru o lecție aprofundată de istorie.",
+            "en": "Drive to the museum for an in-depth history lesson."
+          }
+        },
+        {
+          "name": {
+            "de": "Schacht Mikołaj",
+            "hu": "Mikołaj Akna",
+            "ro": "Puțul Mikołaj",
+            "en": "Mikołaj Shaft"
+          },
+          "coords": [
+            18.84,
+            50.24
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren Tag mit einem Spaziergang zu diesem industriellen Giganten ab.",
+            "hu": "Zárja a napot egy sétával ehhez az ipari óriáshoz.",
+            "ro": "Încheiați ziua cu o plimbare la acest gigant industrial.",
+            "en": "Conclude your day with a walk to this industrial giant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die verstreuten Industrieschätze von Ruda Śląska effizient erkunden. Der Morgen ist den rauen, aber faszinierenden Außenbezirken gewidmet, wo Sie die Ruinen des Kraftwerks und den nahegelegenen Doppelschacht erkunden. Dann fahren Sie zur historischen Arbeitersiedlung Ficinus. Zur Mittagszeit fahren Sie ins Stadtzentrum, parken Ihr Auto und erkunden zu Fuß den Rathausplatz und die St.-Joseph-Kirche. Der Nachmittag führt Sie zu einer weiteren Autofahrt zum Museum der Volksrepublik Polen, wo Sie in die sozialistische Vergangenheit eintauchen, und beenden den Tag am imposanten Schacht Mikołaj, einem Symbol für die Stärke Schlesiens.",
+        "hu": "Az autóval hatékonyan felfedezheti Ruda Śląska szétszórt ipari kincseit. A délelőtt a nyers, de lenyűgöző külvárosoké, ahol felfedezheti az erőmű romjait és a közeli dupla aknát. Ezután a történelmi Ficinus munkástelephez vezet. Délidőben a városközpontba hajt, leparkol, és gyalog fedezi fel a Városháza terét és a Szent József-templomot. A délután egy újabb autós útra visz a Lengyel Népköztársaság Múzeumába, ahol elmerülhet a szocialista múltban, majd a napot a lenyűgöző Mikołaj aknánál zárja, Szilézia erejének szimbólumánál.",
+        "ro": "Mașina vă permite să explorați eficient comorile industriale dispersate din Ruda Śląska. Dimineața este dedicată periferiilor brute, dar fascinante, explorând ruinele centralei electrice și puțul dublu din apropiere. Apoi, conduceți la colonia istorică a muncitorilor Ficinus. La prânz, vă îndreptați spre centrul orașului, parcați mașina și explorați pe jos Piața Primăriei și Biserica Sf. Iosif. După-amiaza vă duce într-o altă călătorie cu mașina la Muzeul Republicii Populare Polone pentru o imersiune în trecutul socialist, încheind ziua la impunătorul Puț Mikołaj, un simbol al puterii sileziene.",
+        "en": "The car allows you to efficiently explore Ruda Śląska's scattered industrial treasures. The morning is for the raw but fascinating outskirts, exploring the power plant ruins and the nearby double shaft. Then, drive to the historic Ficinus workers' settlement. By midday, you'll head to the city center, park up, and explore the Town Hall square and St. Joseph's Church on foot. The afternoon takes you on another drive to the Museum of the Polish People's Republic for a socialist-era immersion, ending at the imposing Mikołaj Shaft, a symbol of Silesian strength."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant mit traditioneller schlesischer Küche",
+            "tip": "Suchen Sie ein 'Karczma' oder 'Gospoda' für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Hefeklöße mit Blaubeeren (Kluski na parze z jagodami)",
+            "tip": "Ein süßes Gericht, das oft als Hauptgang gegessen wird."
+          },
+          {
+            "name": "Kompot",
+            "tip": "Ein traditionelles, nicht-alkoholisches Getränk aus gekochten Früchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hagyományos sziléziai ételeket kínáló étterem",
+            "tip": "Keressen egy 'Karczma' vagy 'Gospoda' éttermet az autentikus élményért."
+          },
+          {
+            "name": "Gőzgombóc áfonyával (Kluski na parze z jagodami)",
+            "tip": "Édes étel, amelyet gyakran főételként fogyasztanak."
+          },
+          {
+            "name": "Kompót",
+            "tip": "Hagyományos, alkoholmentes ital főtt gyümölcsökből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant cu bucătărie tradițională sileziană",
+            "tip": "Căutați o 'Karczma' sau 'Gospoda' pentru o experiență autentică."
+          },
+          {
+            "name": "Găluște la abur cu afine (Kluski na parze z jagodami)",
+            "tip": "Un fel de mâncare dulce, adesea consumat ca fel principal."
+          },
+          {
+            "name": "Compot",
+            "tip": "O băutură tradițională, nealcoolică, făcută din fructe fierte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant with traditional Silesian cuisine",
+            "tip": "Look for a 'Karczma' or 'Gospoda' for an authentic experience."
+          },
+          {
+            "name": "Steamed yeast dumplings with blueberries (Kluski na parze z jagodami)",
+            "tip": "A sweet dish often eaten as a main course."
+          },
+          {
+            "name": "Kompot",
+            "tip": "A traditional non-alcoholic beverage made from stewed fruit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt auf einer Halde",
+            "tip": "Fahren Sie auf eine der rekultivierten Halden für einen Panoramablick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parkplatz mit Aussicht",
+            "tip": "Finden Sie einen ruhigen Parkplatz, um die Landschaft zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó egy meddőhányón",
+            "tip": "Vezessen fel az egyik rekultivált meddőhányóra a panorámás kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parkoló kilátással",
+            "tip": "Keressen egy csendes parkolóhelyet, ahol élvezheti a tájat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere pe o halde de steril",
+            "tip": "Conduceți până la una dintre haldele de steril recuperate pentru o vedere panoramică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcare cu vedere",
+            "tip": "Găsiți un loc de parcare liniștit pentru a vă bucura de peisaj.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint on a spoil tip",
+            "tip": "Drive up one of the reclaimed spoil tips for a panoramic view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parking spot with a view",
+            "tip": "Find a quiet parking spot to enjoy the scenery.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs mit Bergbau-Thema",
+            "tip": "Suchen Sie nach Modellen von Fördertürmen oder Stücken von Kohle."
+          },
+          {
+            "name": "Regionale Produkte",
+            "tip": "Kaufen Sie lokale Wurstwaren oder Backwaren in einem Delikatessengeschäft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bányászati témájú emléktárgyak",
+            "tip": "Keressen felvonótorony-modelleket vagy széndarabokat."
+          },
+          {
+            "name": "Regionális termékek",
+            "tip": "Vásároljon helyi felvágottakat vagy pékárut egy csemegeboltban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri cu tematică minieră",
+            "tip": "Căutați modele de turnuri de extracție sau bucăți de cărbune."
+          },
+          {
+            "name": "Produse regionale",
+            "tip": "Cumpărați mezeluri sau produse de patiserie locale de la o delicatesă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mining-themed souvenirs",
+            "tip": "Look for models of headframes or pieces of coal."
+          },
+          {
+            "name": "Regional products",
+            "tip": "Buy local cured meats or baked goods from a delicatessen."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Verwenden Sie GPS, da die Standorte in verschiedenen Stadtteilen liegen.",
+          "Planen Sie Parkmöglichkeiten in der Nähe jedes Clusters.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen und örtliche Verkehrsregeln."
+        ],
+        "hu": [
+          "Használjon GPS-t, mivel a helyszínek különböző városrészekben vannak.",
+          "Tervezze meg a parkolást minden klaszter közelében.",
+          "Vegye figyelembe a sebességkorlátozásokat és a helyi közlekedési szabályokat."
+        ],
+        "ro": [
+          "Utilizați GPS-ul, deoarece locațiile sunt în diferite cartiere ale orașului.",
+          "Planificați parcarea în apropierea fiecărui cluster.",
+          "Fiți atenți la limitele de viteză și la regulile locale de trafic."
+        ],
+        "en": [
+          "Use GPS as the sites are in different districts of the city.",
+          "Plan for parking near each cluster.",
+          "Be mindful of speed limits and local traffic laws."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 16.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Ruda Śląska",
+            "hu": "Városháza Ruda Śląska",
+            "ro": "Primăria din Ruda Śląska",
+            "en": "Ruda Śląska Town Hall"
+          },
+          "coords": [
+            18.8545,
+            50.258
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Zentrum, das mit öffentlichen Verkehrsmitteln gut erreichbar ist.",
+            "hu": "Kezdje a napot a központban, amely tömegközlekedéssel könnyen megközelíthető.",
+            "ro": "Începeți ziua în centru, ușor accesibil cu transportul public.",
+            "en": "Start your day in the center, easily accessible by public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Joseph Kirche",
+            "hu": "Szent József-templom",
+            "ro": "Biserica Sf. Iosif",
+            "en": "St. Joseph's Church"
+          },
+          "coords": [
+            18.857,
+            50.26
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus.",
+            "hu": "Rövid séta a Városházától.",
+            "ro": "O scurtă plimbare de la primărie.",
+            "en": "A short walk from the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Arbeitersiedlung Ficinus",
+            "hu": "Ficinus Munkástelep",
+            "ro": "Colonia muncitorească Ficinus",
+            "en": "Ficinus workers' settlement"
+          },
+          "coords": [
+            18.885,
+            50.275
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, um dieses historische Viertel zu erreichen. Erkunden Sie es dann zu Fuß.",
+            "hu": "Menjen busszal, hogy elérje ezt a történelmi negyedet. Utána fedezze fel gyalog.",
+            "ro": "Luați un autobuz pentru a ajunge în acest cartier istoric. Apoi explorați pe jos.",
+            "en": "Take a bus to reach this historic district. Then explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Volksrepublik Polen",
+            "hu": "Lengyel Népköztársaság Múzeuma",
+            "ro": "Muzeul Republicii Populare Polone",
+            "en": "Museum of the Polish People's Republic"
+          },
+          "coords": [
+            18.845,
+            50.245
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie zu diesem faszinierenden Museum.",
+            "hu": "Egy újabb buszút elvisz ehhez a lenyűgöző múzeumhoz.",
+            "ro": "O altă călătorie cu autobuzul vă duce la acest muzeu fascinant.",
+            "en": "Another bus ride will take you to this fascinating museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Schacht Mikołaj",
+            "hu": "Mikołaj Akna",
+            "ro": "Puțul Mikołaj",
+            "en": "Mikołaj Shaft"
+          },
+          "coords": [
+            18.84,
+            50.24
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich in unmittelbarer Nähe dieses Industriedenkmals.",
+            "hu": "A múzeum sétatávolságra van ettől az ipari emlékműtől.",
+            "ro": "Muzeul se află la câțiva pași de acest monument industrial.",
+            "en": "The museum is within walking distance of this industrial monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Kraftwerk-Ruinen",
+            "hu": "Erőmű romjai",
+            "ro": "Ruinele centralei electrice",
+            "en": "Power plant ruins"
+          },
+          "coords": [
+            18.91,
+            50.285
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in einen anderen Teil der Stadt, um die Ruinen zu sehen.",
+            "hu": "Menjen busszal a város egy másik részébe, hogy megnézze a romokat.",
+            "ro": "Luați un autobuz spre o altă parte a orașului pentru a vedea ruinele.",
+            "en": "Take a bus to a different part of the city to see the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Doppelschacht der Grube",
+            "hu": "A bánya dupla aknája",
+            "ro": "Puțul dublu al minei",
+            "en": "Double shaft of the mine"
+          },
+          "coords": [
+            18.895,
+            50.295
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem letzten kurzen Spaziergang zu diesem Bergbaustandort.",
+            "hu": "Zárja a napot egy utolsó rövid sétával ehhez a bányászati helyszínhez.",
+            "ro": "Încheiați ziua cu o ultimă plimbare scurtă la acest sit minier.",
+            "en": "End your day with a final short walk to this mining site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Ruda Śląska mit öffentlichen Verkehrsmitteln, eine großartige Möglichkeit, die verschiedenen Stadtteile zu erleben. Beginnen Sie im Zentrum am Rathaus und in der St.-Joseph-Kirche. Eine Busfahrt bringt Sie zur Arbeitersiedlung Ficinus, wo Sie in die Vergangenheit eintauchen. Nach dem Mittagessen bringt Sie eine weitere Fahrt zum aufschlussreichen Museum der Volksrepublik Polen, gefolgt von einem kurzen Spaziergang zum Schacht Mikołaj. Der Tag endet mit einer letzten Busfahrt, um die stimmungsvollen Ruinen des Kraftwerks und den nahegelegenen Doppelschacht zu besichtigen, die das industrielle Mosaik der Stadt vervollständigen.",
+        "hu": "Fedezze fel Ruda Śląskát tömegközlekedéssel, ami remek módja a különböző városrészek megismerésének. Kezdjen a központban a Városházánál és a Szent József-templomnál. Egy buszút elviszi a Ficinus munkástelephez, ahol elmerülhet a múltban. Ebéd után egy másik járat elvisz a tanulságos Lengyel Népköztársaság Múzeumába, majd egy rövid séta következik a Mikołaj aknához. A nap egy utolsó buszúttal zárul, hogy megtekintse az erőmű hangulatos romjait és a közeli dupla aknát, teljessé téve a város ipari mozaikját.",
+        "ro": "Descoperiți Ruda Śląska cu transportul public, o modalitate excelentă de a experimenta diferitele sale cartiere. Începeți din centru, la Primărie și la Biserica Sf. Iosif. O călătorie cu autobuzul vă va duce la colonia muncitorească Ficinus pentru o scufundare în trecut. După prânz, o altă călătorie vă duce la revelatorul Muzeu al Republicii Populare Polone, urmată de o scurtă plimbare până la Puțul Mikołaj. Ziua se încheie cu o ultimă călătorie cu autobuzul pentru a vedea ruinele atmosferice ale centralei electrice și puțul dublu din apropiere, completând mozaicul industrial al orașului.",
+        "en": "Discover Ruda Śląska using public transport, a great way to experience its different districts. Start in the center at the Town Hall and St. Joseph's Church. A bus ride will take you to the Ficinus workers' settlement for a dive into the past. After lunch, another ride takes you to the insightful Museum of the Polish People's Republic, followed by a short walk to the Mikołaj Shaft. The day concludes with a final bus trip to see the atmospheric power plant ruins and the nearby double shaft, completing the city's industrial mosaic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein beliebtes polnisches Streetfood, ein überbackenes Baguette mit verschiedenen Belägen."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die klassischen polnischen Teigtaschen mit verschiedenen Füllungen."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Genießen Sie ein Bier aus einer der vielen schlesischen Brauereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Népszerű lengyel street food, egy sült bagett különféle feltétekkel."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a klasszikus lengyel táskákat különféle töltelékekkel."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Élvezzen egy sört a sok sziléziai sörfőzde egyikéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Un popular street food polonez, o baghetă prăjită cu diverse toppinguri."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Încercați clasicele găluște poloneze cu diverse umpluturi."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Bucurați-vă de o bere de la una dintre numeroasele fabrici de bere sileziene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "A popular Polish street food, a toasted open-face baguette with various toppings."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Try the classic Polish dumplings with various fillings."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Enjoy a beer from one of the many Silesian breweries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Auf einer Bank sitzen und Leute beobachten",
+            "tip": "Finden Sie eine Bank auf einem Platz oder in einem Park und beobachten Sie das tägliche Leben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Friedhof neben einer Kirche",
+            "tip": "Viele alte Friedhöfe bieten eine ruhige und historische Atmosphäre.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üldögélés egy padon és emberek nézése",
+            "tip": "Keressen egy padot egy téren vagy egy parkban, és figyelje a mindennapi életet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Temető egy templom mellett",
+            "tip": "Sok régi temető csendes és történelmi hangulatot kínál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stați pe o bancă și priviți oamenii",
+            "tip": "Găsiți o bancă într-o piață sau într-un parc și priviți viața de zi cu zi.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cimitirul de lângă o biserică",
+            "tip": "Multe cimitire vechi oferă o atmosferă liniștită și istorică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sit on a bench and people-watch",
+            "tip": "Find a bench in a square or park and watch daily life go by.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cemetery next to a church",
+            "tip": "Many old cemeteries offer a quiet and historic atmosphere.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk (Kiosk)",
+            "tip": "Kaufen Sie Fahrkarten, Getränke und lokale Zeitungen."
+          },
+          {
+            "name": "Bäckerei (Piekarnia)",
+            "tip": "Holen Sie sich frisches Brot oder Gebäck für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk (Kiosk)",
+            "tip": "Vásároljon jegyeket, italokat és helyi újságokat."
+          },
+          {
+            "name": "Pékség (Piekarnia)",
+            "tip": "Vegyen friss kenyeret vagy péksüteményt útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc (Kiosk)",
+            "tip": "Cumpărați bilete, băuturi și ziare locale."
+          },
+          {
+            "name": "Brutărie (Piekarnia)",
+            "tip": "Luați pâine proaspătă sau produse de patiserie pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk (Kiosk)",
+            "tip": "Buy tickets, drinks, and local newspapers."
+          },
+          {
+            "name": "Bakery (Piekarnia)",
+            "tip": "Get some fresh bread or pastries for the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Laden Sie eine Nahverkehrs-App herunter, um Fahrpläne und Routen zu überprüfen.",
+          "Halten Sie Kleingeld für Fahrkartenautomaten bereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Töltsön le egy tömegközlekedési alkalmazást a menetrendek és útvonalak ellenőrzéséhez.",
+          "Tartson aprópénzt a jegyautomatákhoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați o aplicație de transport public pentru a verifica orarele și rutele.",
+          "Păstrați mărunțiș pentru automatele de bilete."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Download a public transport app to check schedules and routes.",
+          "Keep some change handy for ticket machines."
+        ]
+      }
+    }
+  }
+}

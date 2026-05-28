@@ -1,0 +1,1406 @@
+{
+  "city_id": "denmark-thisted-cities-v2",
+  "anchor": {
+    "name": "Thisted",
+    "coords": [
+      56.95,
+      8.68
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Det Gamle Rådhus und Stadtzentrum",
+            "hu": "A Régi Városháza és a városközpont",
+            "ro": "Vechea Primărie și Centrul Orașului",
+            "en": "The Old Town Hall and Town Square"
+          },
+          "coords": [
+            8.6885,
+            56.9553
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und die Atmosphäre des Hauptplatzes.",
+            "hu": "Csodálja meg az építészetet és élvezze a főtér hangulatát.",
+            "ro": "Admirați arhitectura și simțiți atmosfera din piața principală.",
+            "en": "Admire the architecture and soak in the atmosphere of the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Fjordstræde",
+            "hu": "Fjordstræde utca",
+            "ro": "Strada Fjordstræde",
+            "en": "Fjordstræde Street"
+          },
+          "coords": [
+            8.6901,
+            56.9562
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die charmanteste Straße der Stadt mit kleinen, alten Fischerhäusern.",
+            "hu": "A város legbájosabb utcája, tele apró, régi halászházakkal.",
+            "ro": "Cea mai fermecătoare stradă din oraș, cu case vechi de pescari.",
+            "en": "The most charming street in town, with small, old fishermen's houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Thisted Kirke",
+            "hu": "Thisted Templom",
+            "ro": "Biserica Thisted",
+            "en": "Thisted Church"
+          },
+          "coords": [
+            8.6865,
+            56.9548
+          ],
+          "category": "churches",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine beeindruckende gotische Kirche. Suchen Sie nach den detaillierten Kalkmalereien.",
+            "hu": "Lenyűgöző gótikus templom. Keresse a részletgazdag mészfestményeket!",
+            "ro": "O biserică gotică impresionantă. Căutați picturile detaliate în calcar.",
+            "en": "An impressive Gothic church. Look for the detailed limestone paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Thisted Museum",
+            "hu": "Thisted Múzeum",
+            "ro": "Muzeul Thisted",
+            "en": "Thisted Museum"
+          },
+          "coords": [
+            8.6841,
+            56.957
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die lokale Geschichte, von der Steinzeit bis heute.",
+            "hu": "Ismerje meg a helyi történelmet a kőkorszaktól napjainkig.",
+            "ro": "Aflați despre istoria locală, din epoca de piatră până în prezent.",
+            "en": "Learn about the local history, from the Stone Age to the present day."
+          }
+        },
+        {
+          "name": {
+            "de": "Christiansgave Park",
+            "hu": "Christiansgave park",
+            "ro": "Parcul Christiansgave",
+            "en": "Christiansgave Park"
+          },
+          "coords": [
+            8.6788,
+            56.9555
+          ],
+          "category": "parks",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Mittagspause. Genießen Sie die Ruhe am See.",
+            "hu": "Tökéletes hely egy ebédszünetre. Élvezze a tó melletti nyugalmat.",
+            "ro": "Un loc perfect pentru o pauză de prânz. Bucurați-vă de liniștea de lângă lac.",
+            "en": "A perfect spot for a lunch break. Enjoy the tranquility by the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Thisted Bryghus",
+            "hu": "Thisted Sörfőzde",
+            "ro": "Berăria Thisted",
+            "en": "Thisted Brewery"
+          },
+          "coords": [
+            8.6933,
+            56.9511
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil und probieren Sie die berühmten Bio-Biere.",
+            "hu": "Vegyen részt egy vezetett túrán és kóstolja meg a híres bio-söröket.",
+            "ro": "Participați la un tur ghidat și degustați renumitele beri organice.",
+            "en": "Take a guided tour and sample the famous organic beers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Thisted beginnt im historischen Herzen der Stadt, rund um das Alte Rathaus. Am Vormittag erkunden Sie die gotische Kirche und das lokale Museum, das die Geschichte der Region Thy lebendig werden lässt. Nach einer entspannten Mittagspause im grünen Christiansgave Park führt Sie der Nachmittag zur berühmten Thisted Brauerei, einem Symbol für lokales Handwerk. Der Abend klingt bei einem herzhaften dänischen Essen aus.",
+        "hu": "Thisted-i napja a város történelmi szívében, a Régi Városháza körül kezdődik. A délelőtt folyamán felfedezi a gótikus templomot és a helyi múzeumot, amely Thy régiójának történetét mutatja be. Egy pihentető ebédszünet után a zöldellő Christiansgave parkban, a délután a híres Thisted Sörfőzdéhez vezet, a helyi kézművesség szimbólumához. Az estét egy kiadós dán vacsorával zárhatja.",
+        "ro": "Ziua dvs. în Thisted începe în inima istorică a orașului, în jurul Vechii Primării. Dimineața explorați biserica gotică și muzeul local, care aduce la viață istoria regiunii Thy. După o pauză de prânz relaxantă în parcul verde Christiansgave, după-amiaza vă duce la renumita berărie Thisted, un simbol al meșteșugului local. Seara se încheie cu o cină daneză copioasă.",
+        "en": "Your day in Thisted begins in the historic heart of the city, around the Old Town Hall. In the morning, you'll explore the Gothic church and the local museum, which brings the history of the Thy region to life. After a relaxing lunch break in the green Christiansgave park, the afternoon takes you to the famous Thisted Brewery, a symbol of local craftsmanship. The evening concludes with a hearty Danish dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisch aus dem Limfjord",
+            "tip": "Probieren Sie frisch gefangenen Aal oder Hering in einem der Hafenrestaurants."
+          },
+          {
+            "name": "Thisted Bier",
+            "tip": "Ein 'Thy Pilsner' direkt von der Quelle ist ein Muss."
+          },
+          {
+            "name": "Smørrebrød",
+            "tip": "Ein klassisches dänisches Mittagessen, reichlich belegt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Limfjord-i hal",
+            "tip": "Kóstoljon frissen fogott angolnát vagy heringet a kikötői éttermek egyikében."
+          },
+          {
+            "name": "Thisted sör",
+            "tip": "Egy 'Thy Pilsner' közvetlenül a forrásból kötelező."
+          },
+          {
+            "name": "Smørrebrød",
+            "tip": "Klasszikus dán ebéd, gazdagon megrakva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește din Limfjord",
+            "tip": "Încercați anghilă sau hering proaspăt prins la unul dintre restaurantele din port."
+          },
+          {
+            "name": "Berea Thisted",
+            "tip": "O 'Thy Pilsner' direct de la sursă este obligatorie."
+          },
+          {
+            "name": "Smørrebrød",
+            "tip": "Un prânz clasic danez, cu toppinguri bogate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish from the Limfjord",
+            "tip": "Try freshly caught eel or herring at one of the harbor restaurants."
+          },
+          {
+            "name": "Thisted Beer",
+            "tip": "A 'Thy Pilsner' straight from the source is a must."
+          },
+          {
+            "name": "Smørrebrød",
+            "tip": "A classic Danish lunch with rich toppings."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Christiansgave Park",
+            "tip": "Ein ruhiger Spaziergang um den See im Herzen der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hafen von Thisted",
+            "tip": "Beobachten Sie am späten Nachmittag die ein- und ausfahrenden Boote.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Bank am Fjord",
+            "tip": "Finden Sie eine Bank entlang des Limfjords für einen Moment der Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Christiansgave Park",
+            "tip": "Egy csendes séta a tó körül a város szívében.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Thisted kikötője",
+            "tip": "Nézze a késő délutáni órákban a be- és kifutó hajókat.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Pad a fjord partján",
+            "tip": "Keressen egy padot a Limfjord mentén egy csendes pillanatra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Christiansgave",
+            "tip": "O plimbare liniștită în jurul lacului din inima orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Portul Thisted",
+            "tip": "Priviți bărcile care intră și ies în după-amiaza târzie.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Bancă pe malul fiordului",
+            "tip": "Găsiți o bancă de-a lungul Limfjordului pentru un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Christiansgave Park",
+            "tip": "A quiet walk around the lake in the heart of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Thisted Harbour",
+            "tip": "Watch the boats coming and going in the late afternoon.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Bench by the Fjord",
+            "tip": "Find a bench along the Limfjord for a moment of silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunstgalerien",
+            "tip": "Entdecken Sie Kunst, die von der rauen Natur von Thy inspiriert ist."
+          },
+          {
+            "name": "Hofläden",
+            "tip": "Kaufen Sie lokale Produkte wie Käse, Honig oder Wurstwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi művészeti galériák",
+            "tip": "Fedezze fel a Thy zord természet ihlette művészetet."
+          },
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Vásároljon helyi termékeket, mint sajt, méz vagy kolbászfélék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerii de artă locale",
+            "tip": "Descoperiți arta inspirată de natura aspră din Thy."
+          },
+          {
+            "name": "Magazine de la fermă",
+            "tip": "Cumpărați produse locale precum brânză, miere sau cârnați."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Art Galleries",
+            "tip": "Discover art inspired by the rugged nature of Thy."
+          },
+          {
+            "name": "Farm Shops",
+            "tip": "Buy local produce like cheese, honey, or sausages."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und gut zu Fuß erreichbar ist.",
+          "Prüfen Sie die Öffnungszeiten des Thisted Museums und der Brauerei im Voraus.",
+          "Ein Spaziergang entlang des Hafens bei Sonnenuntergang ist sehr zu empfehlen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a városközpont kompakt és könnyen bejárható gyalog.",
+          "Ellenőrizze előre a Thisted Múzeum és a sörfőzde nyitvatartási idejét.",
+          "Naplementekor sétáljon egyet a kikötő mentén, erősen ajánlott."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, centrul orașului este compact și ușor de explorat pe jos.",
+          "Verificați în avans orele de program ale Muzeului Thisted și ale berăriei.",
+          "O plimbare de-a lungul portului la apus este foarte recomandată."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is compact and very walkable.",
+          "Check the opening hours for Thisted Museum and the brewery in advance.",
+          "A walk along the harbor at sunset is highly recommended."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtzentrum & Det Gamle Rådhus",
+            "hu": "Városközpont és a Régi Városháza",
+            "ro": "Centrul Orașului & Vechea Primărie",
+            "en": "City Center & The Old Town Hall"
+          },
+          "coords": [
+            8.6885,
+            56.9553
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour hier, nachdem Sie den Platz erkundet haben.",
+            "hu": "Innen induljon a kerékpártúra, miután felfedezte a teret.",
+            "ro": "Începeți turul cu bicicleta de aici după ce ați explorat piața.",
+            "en": "Start your bike tour here after exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Thisted Kirke",
+            "hu": "Thisted Templom",
+            "ro": "Biserica Thisted",
+            "en": "Thisted Church"
+          },
+          "coords": [
+            8.6865,
+            56.9548
+          ],
+          "category": "churches",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie die gotische Architektur.",
+            "hu": "Zárja le a biciklit és csodálja meg a gótikus építészetet.",
+            "ro": "Parcați bicicleta și admirați arhitectura gotică.",
+            "en": "Lock up your bike and admire the Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Thisted Museum",
+            "hu": "Thisted Múzeum",
+            "ro": "Muzeul Thisted",
+            "en": "Thisted Museum"
+          },
+          "coords": [
+            8.6841,
+            56.957
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein guter Ort, um mehr über die Gegend zu erfahren, bevor Sie weiter radeln.",
+            "hu": "Jó hely, hogy többet tudjon meg a környékről, mielőtt továbbteker.",
+            "ro": "Un loc bun pentru a învăța despre zonă înainte de a continua pedalatul.",
+            "en": "A good place to learn about the area before you cycle further."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch at the Harbour"
+          },
+          "coords": [
+            8.692,
+            56.952
+          ],
+          "category": "gastro",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stärken Sie sich mit frischem Fisch für die nächste Etappe.",
+            "hu": "Erősítsen friss hallal a következő szakasz előtt.",
+            "ro": "Întăriți-vă cu pește proaspăt pentru următoarea etapă.",
+            "en": "Refuel with some fresh fish for the next leg of the journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Sjørring Volde",
+            "hu": "Sjørring Volde (földvár)",
+            "ro": "Fortificațiile Sjørring Volde",
+            "en": "Sjørring Volde (Earthworks)"
+          },
+          "coords": [
+            8.751,
+            56.923
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour zu den Überresten der größten mittelalterlichen Burg Dänemarks.",
+            "hu": "Kellemes kerékpártúra Dánia legnagyobb középkori várának maradványaihoz.",
+            "ro": "O plimbare plăcută cu bicicleta la rămășițele celui mai mare castel medieval din Danemarca.",
+            "en": "A pleasant bike ride to the remains of Denmark's largest medieval castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Thisted Bryghus",
+            "hu": "Thisted Sörfőzde",
+            "ro": "Berăria Thisted",
+            "en": "Thisted Brewery"
+          },
+          "coords": [
+            8.6933,
+            56.9511
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer wohlverdienten Bierprobe.",
+            "hu": "Zárja a kerékpártúrát egy jól megérdemelt sörkóstolóval.",
+            "ro": "Încheiați turul cu bicicleta cu o degustare de bere bine meritată.",
+            "en": "End your bike tour with a well-deserved beer tasting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine Entdeckungstour durch Thisted und Umgebung. Der Morgen führt Sie zu den wichtigsten Sehenswürdigkeiten im Stadtzentrum. Nach einem stärkenden Mittagessen am Hafen radeln Sie am Nachmittag hinaus in die Geschichte zu den beeindruckenden Wallanlagen von Sjørring Volde. Die Tour endet perfekt mit einem erfrischenden Bio-Bier in der berühmten Thisted Brauerei.",
+        "hu": "Pattanjon kerékpárra, és fedezze fel Thistedet és környékét! A reggel a belváros legfontosabb látnivalóihoz vezet. A kikötőben elköltött ebéd után délután a történelembe tekerhet, Sjørring Volde lenyűgöző földsáncaihoz. A túra tökéletes lezárása egy frissítő bio-sör a híres Thisted Sörfőzdében.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur de descoperire prin Thisted și împrejurimi. Dimineața vă duce la cele mai importante atracții din centrul orașului. După un prânz revigorant în port, după-amiaza pedalați în istorie la impresionantul sit arheologic Sjørring Volde. Turul se încheie perfect cu o bere organică răcoritoare la renumita berărie Thisted.",
+        "en": "Get on your bike for a discovery tour of Thisted and its surroundings. The morning takes you to the main sights in the city center. After a fortifying lunch at the harbor, you'll cycle out into history in the afternoon to the impressive earthworks of Sjørring Volde. The tour ends perfectly with a refreshing organic beer at the famous Thisted Brewery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Dänische Fischfrikadellen sind ein perfekter Snack für Radfahrer."
+          },
+          {
+            "name": "Lokales Eis",
+            "tip": "Belohnen Sie sich nach der Radtour mit einem Eis am Hafen."
+          },
+          {
+            "name": "Ein kühles Thy-Bier",
+            "tip": "Nichts schmeckt besser nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "A dán halfasírt tökéletes harapnivaló a kerékpárosoknak."
+          },
+          {
+            "name": "Helyi fagylalt",
+            "tip": "Jutalmazza meg magát egy fagyival a kikötőben a túra után."
+          },
+          {
+            "name": "Egy hideg Thy sör",
+            "tip": "Nincs is jobb egy kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Chiftelele de pește daneze sunt o gustare perfectă pentru bicicliști."
+          },
+          {
+            "name": "Înghețată locală",
+            "tip": "Recompensați-vă cu o înghețată în port după turul cu bicicleta."
+          },
+          {
+            "name": "O bere rece Thy",
+            "tip": "Nimic nu are un gust mai bun după o plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Danish fish cakes are a perfect snack for cyclists."
+          },
+          {
+            "name": "Local Ice Cream",
+            "tip": "Reward yourself with an ice cream at the harbor after the ride."
+          },
+          {
+            "name": "A cold Thy beer",
+            "tip": "Nothing tastes better after a bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Limfjord",
+            "tip": "Genießen Sie die Aussicht und die frische Luft auf dem Weg nach Sjørring.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Sjørring Volde",
+            "tip": "Ein Ort der Ruhe und Geschichte, perfekt für eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Hafen",
+            "tip": "Der perfekte Abschluss für einen aktiven Tag.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Limfjord mentén",
+            "tip": "Élvezze a kilátást és a friss levegőt a Sjørring felé vezető úton.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Sjørring Volde",
+            "tip": "A nyugalom és a történelem helye, tökéletes egy szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a kikötőben",
+            "tip": "Tökéletes befejezése egy aktív napnak.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Limfjord",
+            "tip": "Bucurați-vă de priveliște și de aerul curat în drum spre Sjørring.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Sjørring Volde",
+            "tip": "Un loc de liniște și istorie, perfect pentru o pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus în port",
+            "tip": "Finalul perfect pentru o zi activă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle path along the Limfjord",
+            "tip": "Enjoy the views and the fresh air on the way to Sjørring.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Sjørring Volde",
+            "tip": "A place of peace and history, perfect for a break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at the harbor",
+            "tip": "The perfect end to an active day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für eventuelle Reparaturen oder nützliches Zubehör."
+          },
+          {
+            "name": "Brauereishop",
+            "tip": "Nehmen Sie sich ein paar Flaschen des lokalen Biers als Souvenir mit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Esetleges javításokhoz vagy hasznos kiegészítőkhöz."
+          },
+          {
+            "name": "Sörfőzde boltja",
+            "tip": "Vigyen haza néhány üveg helyi sört szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru eventuale reparații sau accesorii utile."
+          },
+          {
+            "name": "Magazinul berăriei",
+            "tip": "Luați câteva sticle de bere locală ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "For any necessary repairs or useful accessories."
+          },
+          {
+            "name": "Brewery Shop",
+            "tip": "Take a few bottles of the local beer home as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad im Voraus, besonders in der Hochsaison.",
+          "Die Route nach Sjørring Volde ist relativ flach, aber prüfen Sie die Wettervorhersage.",
+          "Nehmen Sie Wasser und Snacks für die längere Radtour mit."
+        ],
+        "hu": [
+          "Béreljen előre kerékpárt, különösen a főszezonban.",
+          "A Sjørring Volde felé vezető út viszonylag sík, de ellenőrizze az időjárás-előrejelzést.",
+          "Vigyen vizet és harapnivalót a hosszabb kerékpártúrára."
+        ],
+        "ro": [
+          "Închiriați o bicicletă în avans, mai ales în sezonul de vârf.",
+          "Traseul spre Sjørring Volde este relativ plat, dar verificați prognoza meteo.",
+          "Luați apă și gustări pentru plimbarea mai lungă cu bicicleta."
+        ],
+        "en": [
+          "Rent a bike in advance, especially during high season.",
+          "The route to Sjørring Volde is relatively flat, but check the weather forecast.",
+          "Bring water and snacks for the longer bike ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 37.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Thisted Zentrum: Parken",
+            "hu": "Thisted Központ Klaszter: Parkolás",
+            "ro": "Cluster Centru Thisted: Parcare",
+            "en": "Thisted Center Cluster: Parking"
+          },
+          "coords": [
+            8.687,
+            56.956
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie zentral und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon le központilag, és fedezze fel az első klasztert gyalog.",
+            "ro": "Parcați central și explorați primul cluster pe jos.",
+            "en": "Park centrally and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Det Gamle Rådhus & Thisted Kirke",
+            "hu": "A Régi Városháza és a Thisted Templom",
+            "ro": "Vechea Primărie & Biserica Thisted",
+            "en": "The Old Town Hall & Thisted Church"
+          },
+          "coords": [
+            8.688,
+            56.955
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang verbindet diese beiden wichtigen Wahrzeichen.",
+            "hu": "Rövid séta köti össze ezt a két fontos látnivalót.",
+            "ro": "O scurtă plimbare leagă aceste două repere importante.",
+            "en": "A short walk connects these two important landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Thisted Museum",
+            "hu": "Thisted Múzeum",
+            "ro": "Muzeul Thisted",
+            "en": "Thisted Museum"
+          },
+          "coords": [
+            8.6841,
+            56.957
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Alles über die Region Thy, bevor Sie hinausfahren.",
+            "hu": "Minden, amit Thy régiójáról tudni kell, mielőtt kocsiba ülne.",
+            "ro": "Totul despre regiunea Thy înainte de a porni la drum.",
+            "en": "Everything about the Thy region before you drive out."
+          }
+        },
+        {
+          "name": {
+            "de": "Sjørring Volde",
+            "hu": "Sjørring Volde (földvár)",
+            "ro": "Fortificațiile Sjørring Volde",
+            "en": "Sjørring Volde (Earthworks)"
+          },
+          "coords": [
+            8.751,
+            56.923
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 70,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem historischen Ort und stellen Sie sich die Größe der ehemaligen Burg vor.",
+            "hu": "Vezessen el ehhez a történelmi helyszínhez, és képzelje el az egykori vár nagyságát.",
+            "ro": "Conduceți la acest sit istoric și imaginați-vă măreția fostului castel.",
+            "en": "Drive to this historic site and imagine the grandeur of the former castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Klitmøller: Mittagessen",
+            "hu": "Klitmøller Klaszter: Ebéd",
+            "ro": "Cluster Klitmøller: Prânz",
+            "en": "Klitmøller Cluster: Lunch"
+          },
+          "coords": [
+            8.495,
+            57.04
+          ],
+          "category": "gastro",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Fahren Sie nach 'Cold Hawaii' und genießen Sie die Surfer-Atmosphäre bei einem Mittagessen.",
+            "hu": "Vezessen el a 'Hideg Hawaii'-ra és élvezze a szörfös hangulatot egy ebéd mellett.",
+            "ro": "Conduceți spre 'Cold Hawaii' și bucurați-vă de atmosfera de surf la prânz.",
+            "en": "Drive to 'Cold Hawaii' and enjoy the surfer vibe over lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Klitmøller Strand & Dünen",
+            "hu": "Klitmøller strand és dűnék",
+            "ro": "Plaja și dunele din Klitmøller",
+            "en": "Klitmøller Beach & Dunes"
+          },
+          "coords": [
+            8.492,
+            57.042
+          ],
+          "category": "beaches",
+          "arrive_at": "15:15",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie einen langen Spaziergang am berühmten Surfstrand.",
+            "hu": "Tegyen egy hosszú sétát a híres szörfös strandon.",
+            "ro": "Faceți o plimbare lungă pe faimoasa plajă de surf.",
+            "en": "Take a long walk on the famous surf beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Thisted Bryghus",
+            "hu": "Thisted Sörfőzde",
+            "ro": "Berăria Thisted",
+            "en": "Thisted Brewery"
+          },
+          "coords": [
+            8.6933,
+            56.9511
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:50",
+          "stay_min": 65,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 14.0,
+          "tip_5lang": {
+            "de": "Kehren Sie nach Thisted zurück, um den Tag mit einer Bierprobe abzuschließen.",
+            "hu": "Térjen vissza Thistedbe, hogy egy sörkóstolóval zárja a napot.",
+            "ro": "Întoarceți-vă la Thisted pentru a încheia ziua cu o degustare de bere.",
+            "en": "Return to Thisted to end the day with a beer tasting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die Vielfalt von Thy entdecken. Der Morgen ist dem Stadtzentrum von Thisted gewidmet. Nach dem Eintauchen in die lokale Geschichte fahren Sie zu den alten Wallanlagen von Sjørring Volde. Der Nachmittag gehört ganz der rauen Nordseeküste in Klitmøller, auch bekannt als 'Cold Hawaii', wo Sie spazieren gehen und die Surfer beobachten können. Der Tag endet, wo er begonnen hat: in Thisted, mit einem wohlverdienten Bier aus der lokalen Brauerei.",
+        "hu": "Autóval felfedezheti Thy régió sokszínűségét. A délelőtt Thisted városközpontjáé. Miután elmerült a helyi történelemben, vezessen el Sjørring Volde ősi sáncaihoz. A délután a zord Északi-tenger partvidékéé Klitmøllerben, a 'Hideg Hawaii'-ként is ismert helyen, ahol sétálhat és figyelheti a szörfösöket. A nap ott ér véget, ahol elkezdődött: Thistedben, egy jól megérdemelt sörrel a helyi sörfőzdéből.",
+        "ro": "Cu mașina puteți descoperi diversitatea regiunii Thy. Dimineața este dedicată centrului orașului Thisted. După o incursiune în istoria locală, conduceți la situl antic Sjørring Volde. După-amiaza este dedicată coastei aspre a Mării Nordului la Klitmøller, cunoscută și sub numele de 'Cold Hawaii', unde vă puteți plimba și privi surferii. Ziua se încheie acolo unde a început: în Thisted, cu o bere binemeritată de la berăria locală.",
+        "en": "By car, you can discover the diversity of Thy. The morning is dedicated to Thisted's city center. After delving into local history, you drive to the ancient earthworks of Sjørring Volde. The afternoon belongs to the rugged North Sea coast at Klitmøller, also known as 'Cold Hawaii', where you can walk and watch the surfers. The day ends where it began: in Thisted, with a well-deserved beer from the local brewery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Klitmøller Räucherei",
+            "tip": "Probieren Sie frisch geräucherten Fisch direkt am Meer."
+          },
+          {
+            "name": "Hofcafés",
+            "tip": "Unterwegs finden Sie charmante Cafés mit hausgemachtem Kuchen."
+          },
+          {
+            "name": "Restaurant in Thisted",
+            "tip": "Für ein gehobenes Abendessen nach einem erlebnisreichen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Klitmølleri füstölő",
+            "tip": "Kóstoljon frissen füstölt halat közvetlenül a tengernél."
+          },
+          {
+            "name": "Tanyasi kávézók",
+            "tip": "Útközben bájos kávézókat talál házi süteményekkel."
+          },
+          {
+            "name": "Étterem Thistedben",
+            "tip": "Egy elegánsabb vacsorához egy eseménydús nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Afumătoria Klitmøller",
+            "tip": "Gustați pește proaspăt afumat chiar lângă mare."
+          },
+          {
+            "name": "Cafenele de la fermă",
+            "tip": "Pe drum veți găsi cafenele fermecătoare cu prăjituri de casă."
+          },
+          {
+            "name": "Restaurant în Thisted",
+            "tip": "Pentru o cină rafinată după o zi plină de evenimente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Klitmøller Smokehouse",
+            "tip": "Try freshly smoked fish right by the sea."
+          },
+          {
+            "name": "Farm Cafés",
+            "tip": "You'll find charming cafés with homemade cake along the way."
+          },
+          {
+            "name": "Restaurant in Thisted",
+            "tip": "For a more upscale dinner after an eventful day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nationalpark Thy",
+            "tip": "Die Fahrt nach Klitmøller führt Sie durch Teile des ersten Nationalparks Dänemarks.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Aussichtspunkt bei Sjørring",
+            "tip": "Genießen Sie den Panoramablick über die Landschaft von Thy.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strand von Klitmøller",
+            "tip": "Auch ohne Surfbrett ist der Strand ein Ort der Kraft und Ruhe.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Thy Nemzeti Park",
+            "tip": "A Klitmøllerbe vezető út Dánia első nemzeti parkjának egyes részein halad keresztül.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kilátó Sjørring közelében",
+            "tip": "Élvezze a panorámát Thy vidékére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klitmøller strandja",
+            "tip": "Szörfdeszka nélkül is az erő és a nyugalom helye.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Național Thy",
+            "tip": "Drumul spre Klitmøller vă poartă prin părți ale primului parc național din Danemarca.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Punct de belvedere lângă Sjørring",
+            "tip": "Bucurați-vă de vederea panoramică asupra peisajului din Thy.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja Klitmøller",
+            "tip": "Chiar și fără o placă de surf, plaja este un loc de putere și liniște.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Thy National Park",
+            "tip": "The drive to Klitmøller takes you through parts of Denmark's first national park.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Viewpoint near Sjørring",
+            "tip": "Enjoy the panoramic view over the Thy landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klitmøller Beach",
+            "tip": "Even without a surfboard, the beach is a place of power and tranquility.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Surfshops in Klitmøller",
+            "tip": "Finden Sie coole Kleidung und Ausrüstung im Surfer-Stil."
+          },
+          {
+            "name": "Keramikwerkstätten",
+            "tip": "In der Region Thy gibt es viele talentierte Keramiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szörfboltok Klitmøllerben",
+            "tip": "Találjon menő szörfös stílusú ruhákat és felszereléseket."
+          },
+          {
+            "name": "Kerámia műhelyek",
+            "tip": "Thy régiójában sok tehetséges keramikus található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de surf în Klitmøller",
+            "tip": "Găsiți haine și echipamente cool în stil de surfer."
+          },
+          {
+            "name": "Ateliere de ceramică",
+            "tip": "Există mulți ceramiști talentați în regiunea Thy."
+          }
+        ],
+        "en": [
+          {
+            "name": "Surf shops in Klitmøller",
+            "tip": "Find cool surfer-style clothing and gear."
+          },
+          {
+            "name": "Pottery workshops",
+            "tip": "There are many talented potters in the Thy region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkgebühren in Thisted und Klitmøller.",
+          "Das Wetter an der Küste kann schnell umschlagen, nehmen Sie eine winddichte Jacke mit.",
+          "Tanken Sie Ihr Auto voll, bevor Sie in den Nationalpark fahren, Tankstellen sind dort selten."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra Thistedben és Klitmøllerben.",
+          "Az időjárás a parton gyorsan változhat, vigyen magával szélálló kabátot.",
+          "Tankolja tele az autót, mielőtt a nemzeti parkba hajt, a benzinkutak ritkák arrafelé."
+        ],
+        "ro": [
+          "Fiți atenți la taxele de parcare în Thisted și Klitmøller.",
+          "Vremea pe coastă se poate schimba rapid, luați o jachetă rezistentă la vânt.",
+          "Faceți plinul mașinii înainte de a intra în parcul național, benzinăriile sunt rare acolo."
+        ],
+        "en": [
+          "Be aware of parking fees in Thisted and Klitmøller.",
+          "The weather on the coast can change quickly, so bring a windproof jacket.",
+          "Fill up your car before driving into the national park, gas stations are rare there."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof/Busbahnhof Thisted",
+            "hu": "Érkezés a Thisted-i vasút/buszállomásra",
+            "ro": "Sosire la gara/autogara din Thisted",
+            "en": "Arrival at Thisted Train/Bus Station"
+          },
+          "coords": [
+            8.694,
+            56.953
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Stadtbus zum ersten Cluster im Zentrum.",
+            "hu": "Menjen egy városi busszal az első klaszterhez a központban.",
+            "ro": "Luați un autobuz urban spre primul cluster din centru.",
+            "en": "Take a city bus to the first cluster in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Thisted Kirke",
+            "hu": "Központ Klaszter: Thisted Templom",
+            "ro": "Cluster Centru: Biserica Thisted",
+            "en": "Center Cluster: Thisted Church"
+          },
+          "coords": [
+            8.6865,
+            56.9548
+          ],
+          "category": "churches",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung bei der zentralen Kirche der Stadt.",
+            "hu": "Kezdje a felfedezést a város központi templománál.",
+            "ro": "Începeți explorarea la biserica centrală a orașului.",
+            "en": "Start your exploration at the city's central church."
+          }
+        },
+        {
+          "name": {
+            "de": "Det Gamle Rådhus & Fjordstræde",
+            "hu": "A Régi Városháza és a Fjordstræde",
+            "ro": "Vechea Primărie & Strada Fjordstræde",
+            "en": "The Old Town Hall & Fjordstræde"
+          },
+          "coords": [
+            8.689,
+            56.956
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese beiden Orte liegen nur einen kurzen Spaziergang voneinander entfernt.",
+            "hu": "Ez a két hely csak egy rövid sétatávolságra van egymástól.",
+            "ro": "Aceste două locuri sunt la o scurtă plimbare una de cealaltă.",
+            "en": "These two spots are just a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Museum: Thisted Museum & Christiansgave",
+            "hu": "Múzeum Klaszter: Thisted Múzeum & Christiansgave",
+            "ro": "Cluster Muzeu: Muzeul Thisted & Christiansgave",
+            "en": "Museum Cluster: Thisted Museum & Christiansgave"
+          },
+          "coords": [
+            8.681,
+            56.956
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zu diesem Cluster und genießen Sie Kultur und Natur.",
+            "hu": "Buszozzon el ehhez a klaszterhez, és élvezze a kultúrát és a természetet.",
+            "ro": "Luați un autobuz spre acest cluster și bucurați-vă de cultură și natură.",
+            "en": "Take a bus to this cluster and enjoy both culture and nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Thisted Bryghus",
+            "hu": "Thisted Sörfőzde",
+            "ro": "Berăria Thisted",
+            "en": "Thisted Brewery"
+          },
+          "coords": [
+            8.6933,
+            56.9511
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:40",
+          "stay_min": 110,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang oder eine Busfahrt bringt Sie zum letzten Halt des Tages.",
+            "hu": "Rövid séta vagy buszozás a nap utolsó állomásához.",
+            "ro": "O scurtă plimbare pe jos sau cu autobuzul vă duce la ultima oprire a zilei.",
+            "en": "A short walk or bus ride will take you to the last stop of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Thisted lässt sich gut mit öffentlichen Verkehrsmitteln erkunden. Starten Sie am Busbahnhof und fahren Sie ins Zentrum, um die Kirche und die Altstadt zu Fuß zu entdecken. Ein weiterer Bus bringt Sie zum Museumsviertel für eine Dosis Kultur und eine Pause im Park. Der Tag findet seinen krönenden Abschluss in der Thisted Brauerei, die ebenfalls leicht mit dem Bus oder zu Fuß erreichbar ist, bevor Sie Ihre Rückreise antreten.",
+        "hu": "Thisted könnyen felfedezhető tömegközlekedéssel. Induljon a buszpályaudvarról, és utazzon a központba, hogy gyalog fedezze fel a templomot és az óvárost. Egy másik busz elvisz a múzeumi negyedbe egy adag kultúráért és egy parkbeli pihenőért. A nap a Thisted Sörfőzdében csúcsosodik ki, amely szintén könnyen megközelíthető busszal vagy gyalog, mielőtt visszaindulna.",
+        "ro": "Thisted este ușor de explorat cu transportul public. Începeți de la autogară și călătoriți spre centru pentru a descoperi pe jos biserica și orașul vechi. Un alt autobuz vă va duce în cartierul muzeelor pentru o doză de cultură și o pauză în parc. Ziua culminează la Berăria Thisted, de asemenea ușor accesibilă cu autobuzul sau pe jos, înainte de a vă întoarce.",
+        "en": "Thisted is easy to explore using public transport. Start from the bus station and travel to the center to discover the church and the old town on foot. Another bus will take you to the museum district for a dose of culture and a break in the park. The day culminates at the Thisted Brewery, also easily accessible by bus or on foot, before you head back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei im Zentrum",
+            "tip": "Holen Sie sich ein dänisches Gebäck (Wienerbrød) für unterwegs."
+          },
+          {
+            "name": "Café in der Nähe des Museums",
+            "tip": "Ideal für einen Kaffee nach dem Museumsbesuch."
+          },
+          {
+            "name": "Imbiss am Busbahnhof",
+            "tip": "Schnappen Sie sich eine schnelle Mahlzeit vor der Abreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a központban",
+            "tip": "Vegyen egy dán péksüteményt (Wienerbrød) útközben."
+          },
+          {
+            "name": "Kávézó a múzeum közelében",
+            "tip": "Ideális egy kávéra a múzeumlátogatás után."
+          },
+          {
+            "name": "Büfé a buszpályaudvaron",
+            "tip": "Kapjon be egy gyors ételt indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie în centru",
+            "tip": "Luați un produs de patiserie danez (Wienerbrød) la pachet."
+          },
+          {
+            "name": "Cafenea lângă muzeu",
+            "tip": "Ideal pentru o cafea după vizita la muzeu."
+          },
+          {
+            "name": "Gustare la autogară",
+            "tip": "Luați o masă rapidă înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in the center",
+            "tip": "Grab a Danish pastry (Wienerbrød) for the road."
+          },
+          {
+            "name": "Café near the museum",
+            "tip": "Ideal for a coffee after the museum visit."
+          },
+          {
+            "name": "Snack bar at the bus station",
+            "tip": "Grab a quick meal before departure."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Beobachten Sie die Stadt aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Leseecke im Thisted Museum",
+            "tip": "Ein ruhiger Ort, um in die Geschichte einzutauchen.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Christiansgave Park",
+            "tip": "Der Park ist eine grüne Oase, die leicht mit dem Bus zu erreichen ist.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Nézze a várost egy másik perspektívából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Olvasósarok a Thisted Múzeumban",
+            "tip": "Csendes hely, hogy elmerüljön a történelemben.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Christiansgave Park",
+            "tip": "A park egy zöld oázis, busszal könnyen megközelíthető.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Priviți orașul dintr-o altă perspectivă.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Colț de lectură în Muzeul Thisted",
+            "tip": "Un loc liniștit pentru a vă cufunda în istorie.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Parcul Christiansgave",
+            "tip": "Parcul este o oază de verdeață, ușor accesibilă cu autobuzul.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of a double-decker bus",
+            "tip": "Watch the city from a different perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Reading corner in Thisted Museum",
+            "tip": "A quiet place to immerse yourself in history.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Christiansgave Park",
+            "tip": "The park is a green oasis, easily reachable by bus.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Fußgängerzone",
+            "tip": "Leicht erreichbar vom zentralen Bus-Cluster."
+          },
+          {
+            "name": "Supermarkt am Bahnhof",
+            "tip": "Kaufen Sie dänische Spezialitäten für zu Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a sétálóutcán",
+            "tip": "Könnyen elérhető a központi buszklaszterből."
+          },
+          {
+            "name": "Szupermarket az állomáson",
+            "tip": "Vásároljon dán specialitásokat otthonra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe strada pietonală",
+            "tip": "Ușor accesibile din clusterul central de autobuze."
+          },
+          {
+            "name": "Supermarket la gară",
+            "tip": "Cumpărați specialități daneze pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on the pedestrian street",
+            "tip": "Easily accessible from the central bus cluster."
+          },
+          {
+            "name": "Supermarket at the station",
+            "tip": "Buy some Danish specialties to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Laden Sie die lokale Fahrplan-App herunter, um die Buszeiten in Echtzeit zu verfolgen.",
+          "Beachten Sie, dass die Busse abends und am Wochenende seltener fahren könnten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, ha több utazást tervez.",
+          "Töltse le a helyi menetrend-alkalmazást a buszok valós idejű követéséhez.",
+          "Vegye figyelembe, hogy a buszok este és hétvégén ritkábban járhatnak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Descărcați aplicația locală de orare pentru a urmări în timp real programul autobuzelor.",
+          "Rețineți că autobuzele pot circula mai rar seara și în weekend."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan on making several trips.",
+          "Download the local timetable app to track bus times in real-time.",
+          "Be aware that buses might run less frequently in the evenings and on weekends."
+        ]
+      }
+    }
+  }
+}

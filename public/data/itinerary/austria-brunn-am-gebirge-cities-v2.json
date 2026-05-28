@@ -1,0 +1,1304 @@
+{
+  "city_id": "austria-brunn-am-gebirge-cities-v2",
+  "anchor": {
+    "name": "Brunn am Gebirge",
+    "coords": [
+      16.2894,
+      48.1006
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pfarrkirche St. Kunigunde",
+            "hu": "Szent Kunigunda plébániatemplom",
+            "ro": "Biserica parohială Sf. Kunigunde",
+            "en": "Parish Church of St. Kunigunde"
+          },
+          "coords": [
+            16.2888,
+            48.1011
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die gotischen Fresken im Inneren.",
+            "hu": "Figyelje meg a gótikus freskókat a templom belsejében.",
+            "ro": "Observați frescele gotice din interior.",
+            "en": "Look out for the Gothic frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimathaus Brunn",
+            "hu": "Brunni Helytörténeti Múzeum",
+            "ro": "Muzeul de istorie locală Brunn",
+            "en": "Brunn Local History Museum"
+          },
+          "coords": [
+            16.2875,
+            48.1015
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Museum zeigt die Weinbaugeschichte der Region.",
+            "hu": "A múzeum bemutatja a régió borászati történetét.",
+            "ro": "Muzeul prezintă istoria viticulturii din regiune.",
+            "en": "The museum showcases the region's winemaking history."
+          }
+        },
+        {
+          "name": {
+            "de": "Jugendstil-Reihenhäuser",
+            "hu": "Szecessziós sorházak",
+            "ro": "Case înșiruite Art Nouveau",
+            "en": "Art Nouveau townhouses"
+          },
+          "coords": [
+            16.2901,
+            48.1025
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch diese Straße fühlt sich an wie eine Zeitreise.",
+            "hu": "Egy séta ezen az utcán olyan, mint egy időutazás.",
+            "ro": "O plimbare pe această stradă este ca o călătorie în timp.",
+            "en": "A walk down this street feels like a journey back in time."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Gliedererhof",
+            "hu": "Ebéd a Gliedererhofban",
+            "ro": "Prânz la Gliedererhof",
+            "en": "Lunch at Gliedererhof"
+          },
+          "coords": [
+            16.2915,
+            48.0998
+          ],
+          "category": "gastro",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie ein klassisches Wiener Schnitzel in diesem historischen Hof.",
+            "hu": "Kóstoljon meg egy klasszikus bécsi szeletet ebben a történelmi udvarban.",
+            "ro": "Încercați un șnițel vienez clasic în această curte istorică.",
+            "en": "Try a classic Wiener Schnitzel in this historic courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunner Heide",
+            "hu": "Brunner Heide (puszta)",
+            "ro": "Brunner Heide (stepă)",
+            "en": "Brunner Heide (heathland)"
+          },
+          "coords": [
+            16.3083,
+            48.0955
+          ],
+          "category": "natural features",
+          "arrive_at": "13:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein seltenes Trockenrasengebiet. Ideal für eine kurze Naturwanderung.",
+            "hu": "Ritka szárazgyep terület. Ideális egy rövid természetjáráshoz.",
+            "ro": "O zonă rară de pajiști uscate. Ideală pentru o scurtă drumeție în natură.",
+            "en": "A rare dry grassland area. Ideal for a short nature hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Herz-Jesu-Kirche",
+            "hu": "Jézus Szíve templom",
+            "ro": "Biserica Inima lui Iisus",
+            "en": "Sacred Heart Church"
+          },
+          "coords": [
+            16.2858,
+            48.1064
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein modernerer Sakralbau als Kontrast zur alten Pfarrkirche.",
+            "hu": "Egy modernebb szakrális épület, ellentétben a régi plébániatemplommal.",
+            "ro": "O clădire sacră mai modernă, în contrast cu vechea biserică parohială.",
+            "en": "A more modern sacred building as a contrast to the old parish church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Brunn bei der gotischen Pfarrkirche St. Kunigunde. Nach einem Einblick in die lokale Geschichte im Heimathaus, spazieren Sie durch die beeindruckenden Jugendstil-Straßen. Am Nachmittag entdecken Sie die einzigartige Landschaft der Brunner Heide, ein perfekter Kontrast zum historischen Zentrum. Der Spaziergang endet mit einem Moment der Ruhe in der Herz-Jesu-Kirche.",
+        "hu": "Kezdje a napot Brunn szívében a gótikus Szent Kunigunda plébániatemplomnál. Miután bepillantást nyert a helytörténetbe a Heimathausban, sétáljon végig a lenyűgöző szecessziós utcákon. Délután fedezze fel a Brunner Heide egyedülálló táját, amely tökéletes kontrasztot alkot a történelmi központtal. A séta a Jézus Szíve templomban zárul egy csendes pillanattal.",
+        "ro": "Începeți ziua în inima orașului Brunn la biserica gotică Sf. Kunigunde. După o incursiune în istoria locală la Heimathaus, plimbați-vă pe străzile impresionante în stil Art Nouveau. După-amiaza, descoperiți peisajul unic al Brunner Heide, un contrast perfect cu centrul istoric. Plimbarea se încheie cu un moment de liniște la Biserica Inima lui Iisus.",
+        "en": "Start your day in the heart of Brunn at the Gothic Parish Church of St. Kunigunde. After a glimpse into local history at the Heimathaus, stroll through the impressive Art Nouveau streets. In the afternoon, discover the unique landscape of the Brunner Heide, a perfect contrast to the historic centre. The walk concludes with a moment of peace at the Sacred Heart Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heuriger",
+            "tip": "Besuchen Sie einen lokalen Heurigen für Wein und eine Jause."
+          },
+          {
+            "name": "Wiener Schnitzel",
+            "tip": "Ein Klassiker der österreichischen Küche, den man hier authentisch bekommt."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Als süßer Abschluss nach einem herzhaften Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heuriger (borozó)",
+            "tip": "Látogasson el egy helyi borozóba egy pohár borra és uzsonnára."
+          },
+          {
+            "name": "Bécsi szelet",
+            "tip": "Az osztrák konyha klasszikusa, amelyet itt autentikusan készítenek."
+          },
+          {
+            "name": "Almásrétes",
+            "tip": "Édes befejezés egy kiadós étkezés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuriger",
+            "tip": "Vizitați un Heuriger local pentru vin și o gustare tradițională."
+          },
+          {
+            "name": "Șnițel vienez",
+            "tip": "Un clasic al bucătăriei austriece, autentic preparat aici."
+          },
+          {
+            "name": "Strudel cu mere",
+            "tip": "Ca desert dulce după o masă copioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heuriger (wine tavern)",
+            "tip": "Visit a local wine tavern for wine and a traditional snack."
+          },
+          {
+            "name": "Wiener Schnitzel",
+            "tip": "A classic of Austrian cuisine, authentically prepared here."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "As a sweet finish after a hearty meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brunner Heide",
+            "tip": "Ein Spaziergang durch die Heide bietet Ruhe und weite Blicke.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchplatz St. Kunigunde",
+            "tip": "Eine Bank am Platz lädt zum Verweilen ein.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brunner Heide",
+            "tip": "Egy séta a pusztán nyugalmat és tágas kilátást nyújt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szt. Kunigunda templomtér",
+            "tip": "Egy pad a téren pihenésre csábít.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brunner Heide",
+            "tip": "O plimbare prin stepă oferă liniște și priveliști largi.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Piața bisericii Sf. Kunigunde",
+            "tip": "O bancă în piață te invită să zăbovești.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Brunner Heide",
+            "tip": "A walk through the heath offers tranquility and wide views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Kunigunde church square",
+            "tip": "A bench in the square invites you to linger.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Kaufen Sie eine Flasche Wein direkt von einem Winzer."
+          },
+          {
+            "name": "Bauernmarkt",
+            "tip": "Suchen Sie nach lokalen Produkten und Handwerk auf dem Wochenmarkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Vásároljon egy üveg bort közvetlenül egy borásztól."
+          },
+          {
+            "name": "Termelői piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat a heti piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați o sticlă de vin direct de la un producător."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și artizanat la piața săptămânală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local wine",
+            "tip": "Buy a bottle of wine directly from a winemaker."
+          },
+          {
+            "name": "Farmers' market",
+            "tip": "Look for local products and crafts at the weekly market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster unterwegs sein werden.",
+          "Prüfen Sie die Öffnungszeiten des Heimathauses vor Ihrem Besuch.",
+          "Nehmen Sie Wasser mit für den Spaziergang zur Brunner Heide."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog macskakövön sétálni.",
+          "Látogatás előtt ellenőrizze a Helytörténeti Múzeum nyitvatartását.",
+          "Vigyen magával vizet a Brunner Heide-i sétához."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe piatră cubică.",
+          "Verificați programul de funcționare al Muzeului de istorie locală înainte de vizită.",
+          "Luați apă cu dumneavoastră pentru plimbarea la Brunner Heide."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot on cobblestones.",
+          "Check the opening hours of the Local History Museum before your visit.",
+          "Take water with you for the walk to the Brunner Heide."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Wolfshof & Gliedererhof",
+            "hu": "Indulás: Wolfshof & Gliedererhof",
+            "ro": "Start: Wolfshof & Gliedererhof",
+            "en": "Start: Wolfshof & Gliedererhof"
+          },
+          "coords": [
+            16.2918,
+            48.0995
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese historischen Höfe, bevor Sie in die Pedale treten.",
+            "hu": "Csodálja meg ezeket a történelmi udvarokat, mielőtt nyeregbe pattan.",
+            "ro": "Admirați aceste curți istorice înainte de a începe să pedalați.",
+            "en": "Admire these historic courtyards before you start pedaling."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Kunigunde",
+            "hu": "Szent Kunigunda plébániatemplom",
+            "ro": "Biserica parohială Sf. Kunigunde",
+            "en": "Parish Church of St. Kunigunde"
+          },
+          "coords": [
+            16.2888,
+            48.1011
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Stille im Inneren.",
+            "hu": "Tegye le a biciklit, és élvezze a csendet odabent.",
+            "ro": "Lăsați bicicleta și bucurați-vă de liniștea din interior.",
+            "en": "Park your bike and enjoy the silence inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunner Heide",
+            "hu": "Brunner Heide (puszta)",
+            "ro": "Brunner Heide (stepă)",
+            "en": "Brunner Heide (heathland)"
+          },
+          "coords": [
+            16.3083,
+            48.0955
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie am Rande der Heide entlang und halten Sie Ausschau nach seltenen Pflanzen.",
+            "hu": "Kerékpározzon a puszta szélén, és figyelje a ritka növényeket.",
+            "ro": "Pedalați pe marginea stepei și căutați plante rare.",
+            "en": "Cycle along the edge of the heath and look out for rare plants."
+          }
+        },
+        {
+          "name": {
+            "de": "Radfahrt zum Naturpark Föhrenberge",
+            "hu": "Kerékpártúra a Föhrenberge Natúrparkba",
+            "ro": "Tură cu bicicleta la Parcul Natural Föhrenberge",
+            "en": "Bike ride to Föhrenberge Nature Park"
+          },
+          "coords": [
+            16.2611,
+            48.1089
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich! Oben wartet ein toller Ausblick und ein Mittagessen.",
+            "hu": "Megéri a kaptatót! Fent remek kilátás és egy ebéd vár.",
+            "ro": "Urcușul merită! Sus vă așteaptă o priveliște minunată și prânzul.",
+            "en": "The climb is worth it! A great view and lunch await at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimathaus Brunn",
+            "hu": "Brunni Helytörténeti Múzeum",
+            "ro": "Muzeul de istorie locală Brunn",
+            "en": "Brunn Local History Museum"
+          },
+          "coords": [
+            16.2875,
+            48.1015
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Geschichte, die Sie heute bereits erradelt haben.",
+            "hu": "Tudjon meg többet a történelemről, amelyet ma már körbetekert.",
+            "ro": "Aflați mai multe despre istoria pe care ați parcurs-o deja pe bicicletă.",
+            "en": "Learn more about the history you've already cycled through today."
+          }
+        },
+        {
+          "name": {
+            "de": "Jugendstil-Reihenhäuser",
+            "hu": "Szecessziós sorházak",
+            "ro": "Case înșiruite Art Nouveau",
+            "en": "Art Nouveau townhouses"
+          },
+          "coords": [
+            16.2901,
+            48.1025
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Tour mit einem architektonischen Höhepunkt ab.",
+            "hu": "Zárja a túrát egy építészeti fényponttal.",
+            "ro": "Încheiați turul cu un punct culminant arhitectural.",
+            "en": "End your tour with an architectural highlight."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und entdecken Sie die Vielfalt von Brunn. Vom historischen Zentrum geht es durch die einzigartige Landschaft der Brunner Heide. Die Hauptetappe führt Sie in den Naturpark Föhrenberge, wo Sie sich mit einem grandiosen Ausblick belohnen. Auf dem Rückweg tauchen Sie im Heimathaus in die Geschichte ein und beenden den Tag mit den architektonischen Juwelen der Jugendstil-Häuser.",
+        "hu": "Pattanjon biciklire, és fedezze fel Brunn sokszínűségét. A történelmi központból az egyedülálló Brunner Heide tájon keresztül vezet az út. A fő szakasz a Föhrenberge Natúrparkba visz, ahol csodálatos kilátással jutalmazhatja magát. Visszafelé a helytörténeti múzeumban merülhet el a történelemben, és a napot a szecessziós házak építészeti gyöngyszemeivel zárhatja.",
+        "ro": "Urcați-vă pe bicicletă și descoperiți diversitatea din Brunn. Din centrul istoric, drumul vă duce prin peisajul unic al Brunner Heide. Etapa principală vă duce în Parcul Natural Föhrenberge, unde vă veți recompensa cu o priveliște magnifică. La întoarcere, scufundați-vă în istorie la muzeul local și încheiați ziua cu bijuteriile arhitecturale ale caselor Art Nouveau.",
+        "en": "Get on your bike and discover the diversity of Brunn. From the historic center, the route takes you through the unique landscape of the Brunner Heide. The main stage leads you to the Föhrenberge Nature Park, where you'll be rewarded with a magnificent view. On the way back, delve into history at the local museum and end the day with the architectural jewels of the Art Nouveau houses."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthaus im Föhrenberge",
+            "tip": "Stärken Sie sich nach dem Anstieg mit deftiger Hausmannskost."
+          },
+          {
+            "name": "Radler",
+            "tip": "Das perfekte Getränk für eine Pause auf der Radtour."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Eine süße Belohnung, die neue Energie gibt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fogadó a Föhrenberge-ben",
+            "tip": "Erősítse meg magát a kaptató után kiadós házias ételekkel."
+          },
+          {
+            "name": "Radler (sör-limonádé)",
+            "tip": "A tökéletes ital egy szünethez a biciklitúrán."
+          },
+          {
+            "name": "Császármorzsa",
+            "tip": "Édes jutalom, ami új energiát ad."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hanul din Föhrenberge",
+            "tip": "Întăriți-vă după urcuș cu o mâncare de casă consistentă."
+          },
+          {
+            "name": "Radler",
+            "tip": "Băutura perfectă pentru o pauză în timpul turului cu bicicleta."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "O recompensă dulce care vă dă energie nouă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Inn in the Föhrenberge",
+            "tip": "Strengthen yourself after the climb with hearty home-style cooking."
+          },
+          {
+            "name": "Radler (shandy)",
+            "tip": "The perfect drink for a break on your bike tour."
+          },
+          {
+            "name": "Kaiserschmarrn (shredded pancake)",
+            "tip": "A sweet reward that gives you new energy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Föhrenberge",
+            "tip": "Genießen Sie die Stille und den Panoramablick über das Wiener Becken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Brunner Heide am Morgen",
+            "tip": "Die frühe Morgenstunde ist hier besonders friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Föhrenberge kilátó",
+            "tip": "Élvezze a csendet és a panorámás kilátást a Bécsi-medencére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Brunner Heide reggel",
+            "tip": "A kora reggeli órák itt különösen békések.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Föhrenberge",
+            "tip": "Bucurați-vă de liniște și de vederea panoramică asupra Bazinului Vienei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Brunner Heide dimineața",
+            "tip": "Orele dimineții devreme sunt deosebit de pașnice aici.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Föhrenberge viewpoint",
+            "tip": "Enjoy the silence and the panoramic view over the Vienna Basin.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Brunner Heide in the morning",
+            "tip": "The early morning hours are especially peaceful here.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrrad-Accessoires",
+            "tip": "Ein kleines Andenken für Ihr Fahrrad von einem lokalen Geschäft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "Egy kis emléktárgy a biciklire egy helyi boltból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru bicicletă",
+            "tip": "Un mic suvenir pentru bicicleta dvs. de la un magazin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessories",
+            "tip": "A small souvenir for your bike from a local shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Tour.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen.",
+          "Eine Trinkflasche ist bei dieser Tour unerlässlich."
+        ],
+        "hu": [
+          "Túra előtt ellenőrizze a guminyomást.",
+          "Hozzon magával egy lakatot, hogy biztonságosan lezárhassa a kerékpárját.",
+          "Egy kulacs elengedhetetlen ehhez a túrához."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de tur.",
+          "Luați un lacăt pentru a vă asigura bicicleta.",
+          "O sticlă de apă este esențială pentru acest tur."
+        ],
+        "en": [
+          "Check your tire pressure before the tour.",
+          "Bring a lock to secure your bike.",
+          "A water bottle is essential for this tour."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 15.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Parken & Start im Zentrum",
+            "hu": "A zóna: Parkolás és indulás a központban",
+            "ro": "Cluster A: Parcare și start în centru",
+            "en": "Cluster A: Park & Start in the Center"
+          },
+          "coords": [
+            16.2885,
+            48.1
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie einen Parkplatz in der Nähe des Hauptplatzes.",
+            "hu": "Keressen egy parkolót a főtér közelében.",
+            "ro": "Căutați o parcare în apropierea pieței principale.",
+            "en": "Look for a parking spot near the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Kunigunde",
+            "hu": "Szent Kunigunda plébániatemplom",
+            "ro": "Biserica parohială Sf. Kunigunde",
+            "en": "Parish Church of St. Kunigunde"
+          },
+          "coords": [
+            16.2888,
+            48.1011
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Halt Ihres Spaziergangs durch das Zentrum.",
+            "hu": "A központi séta első állomása.",
+            "ro": "Prima oprire a plimbării prin centru.",
+            "en": "The first stop on your walk through the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimathaus Brunn",
+            "hu": "Brunni Helytörténeti Múzeum",
+            "ro": "Muzeul de istorie locală Brunn",
+            "en": "Brunn Local History Museum"
+          },
+          "coords": [
+            16.2875,
+            48.1015
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in die lokale Geschichte ein.",
+            "hu": "Merüljön el mélyen a helyi történelemben.",
+            "ro": "Pătrundeți adânc în istoria locală.",
+            "en": "Dive deep into the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Jugendstil-Reihenhäuser",
+            "hu": "Szecessziós sorházak",
+            "ro": "Case înșiruite Art Nouveau",
+            "en": "Art Nouveau townhouses"
+          },
+          "coords": [
+            16.2901,
+            48.1025
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zu architektonischen Wundern.",
+            "hu": "Rövid séta az építészeti csodákhoz.",
+            "ro": "O scurtă plimbare către minunile arhitecturale.",
+            "en": "A short walk to architectural wonders."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Naturpark Föhrenberge",
+            "hu": "B zóna: Föhrenberge Natúrpark",
+            "ro": "Cluster B: Parcul Natural Föhrenberge",
+            "en": "Cluster B: Föhrenberge Nature Park"
+          },
+          "coords": [
+            16.2415,
+            48.115
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Rande des Parks und genießen Sie eine Wanderung und ein Mittagessen.",
+            "hu": "Parkoljon a park szélén, és élvezze a túrát és az ebédet.",
+            "ro": "Parcați la marginea parcului și bucurați-vă de o drumeție și de prânz.",
+            "en": "Park on the edge of the park and enjoy a hike and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Brunner Heide",
+            "hu": "C zóna: Brunner Heide",
+            "ro": "Cluster C: Brunner Heide",
+            "en": "Cluster C: Brunner Heide"
+          },
+          "coords": [
+            16.3083,
+            48.0955
+          ],
+          "category": "natural features",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Autowechsel zu einem völlig anderen Ökosystem.",
+            "hu": "Rövid autós váltás egy teljesen más ökoszisztémába.",
+            "ro": "O scurtă schimbare cu mașina către un ecosistem complet diferit.",
+            "en": "A short drive to a completely different ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang auf der Heide",
+            "hu": "Séta a pusztán",
+            "ro": "Plimbare pe stepă",
+            "en": "Walk on the Heath"
+          },
+          "coords": [
+            16.31,
+            48.0945
+          ],
+          "category": "natural features",
+          "arrive_at": "14:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die einzigartige Flora und Fauna dieses Trockenrasengebiets zu Fuß.",
+            "hu": "Fedezze fel gyalog ennek a szárazgyepnek az egyedülálló növény- és állatvilágát.",
+            "ro": "Explorați pe jos flora și fauna unică a acestei zone de pajiști uscate.",
+            "en": "Explore the unique flora and fauna of this dry grassland area on foot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um die verschiedenen Facetten von Brunn zu erleben. Parken Sie im Zentrum und erkunden Sie den historischen Kern zu Fuß. Anschließend fahren Sie in den weitläufigen Naturpark Föhrenberge für eine Mittagspause im Grünen. Am Nachmittag wechseln Sie die Szenerie und fahren zur Brunner Heide, wo Sie ein einzigartiges Naturreservat entdecken. Diese Tour kombiniert städtisches Flair mit zwei unterschiedlichen Naturerlebnissen.",
+        "hu": "Használja az autót Brunn különböző arcainak felfedezéséhez. Parkoljon a központban, és fedezze fel gyalog a történelmi magot. Ezután hajtson el a tágas Föhrenberge Natúrparkba egy zöldben elköltött ebédre. Délután váltson helyszínt, és autózzon el a Brunner Heide-hez, ahol egy egyedülálló természetvédelmi területet fedezhet fel. Ez a túra ötvözi a városi hangulatot két különböző természeti élménnyel.",
+        "ro": "Folosiți mașina pentru a experimenta diferitele fațete ale orașului Brunn. Parcați în centru și explorați nucleul istoric pe jos. Apoi, conduceți spre vastul Parc Natural Föhrenberge pentru o pauză de prânz în natură. După-amiaza, schimbați peisajul și conduceți spre Brunner Heide, unde veți descoperi o rezervație naturală unică. Acest tur combină farmecul urban cu două experiențe naturale distincte.",
+        "en": "Use the car to experience the different facets of Brunn. Park in the center and explore the historic core on foot. Then drive to the expansive Föhrenberge Nature Park for a lunch break in the green. In the afternoon, change the scenery and drive to the Brunner Heide, where you'll discover a unique nature reserve. This tour combines urban flair with two different nature experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schutzhütte im Naturpark",
+            "tip": "Authentische Hüttenkost mit Panoramablick."
+          },
+          {
+            "name": "Heuriger am Abend",
+            "tip": "Lassen Sie den Tag bei einem Glas Wein ausklingen."
+          },
+          {
+            "name": "Kaffee und Kuchen im Zentrum",
+            "tip": "Eine klassische Wiener Kaffeepause nach dem Stadtspaziergang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menedékház a natúrparkban",
+            "tip": "Autentikus menedékházi ételek panorámás kilátással."
+          },
+          {
+            "name": "Heuriger este",
+            "tip": "Zárja a napot egy pohár borral."
+          },
+          {
+            "name": "Kávé és sütemény a központban",
+            "tip": "Klasszikus bécsi kávészünet a városi séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cabana din parcul natural",
+            "tip": "Mâncare autentică de cabană cu vedere panoramică."
+          },
+          {
+            "name": "Heuriger seara",
+            "tip": "Încheiați ziua cu un pahar de vin."
+          },
+          {
+            "name": "Cafea și prăjituri în centru",
+            "tip": "O pauză de cafea vieneză clasică după plimbarea prin oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Refuge hut in the nature park",
+            "tip": "Authentic hut food with a panoramic view."
+          },
+          {
+            "name": "Heuriger in the evening",
+            "tip": "End the day with a glass of wine."
+          },
+          {
+            "name": "Coffee and cake in the center",
+            "tip": "A classic Viennese coffee break after the city walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wanderweg im Föhrenberge",
+            "tip": "Finden Sie einen ruhigen Pfad abseits der Hauptroute.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick über die Brunner Heide",
+            "tip": "Die Weite der Landschaft wirkt beruhigend.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Túraútvonal a Föhrenberge-ben",
+            "tip": "Keressen egy csendes ösvényt a fő útvonaltól távolabb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Brunner Heide-re",
+            "tip": "A táj tágassága nyugtató hatású.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă de drumeție în Föhrenberge",
+            "tip": "Găsiți o potecă liniștită departe de traseul principal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere peste Brunner Heide",
+            "tip": "Întinderea peisajului are un efect calmant.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hiking trail in the Föhrenberge",
+            "tip": "Find a quiet path off the main route.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View over the Brunner Heide",
+            "tip": "The vastness of the landscape has a calming effect.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ab-Hof-Verkauf",
+            "tip": "Halten Sie Ausschau nach Schildern für Wein- oder Obstverkauf direkt vom Bauernhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői értékesítés",
+            "tip": "Keresse a bor- vagy gyümölcsértékesítésre utaló táblákat közvetlenül a gazdaságoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare direct de la fermă",
+            "tip": "Fiți atenți la indicatoarele de vânzare a vinului sau fructelor direct de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm gate sales",
+            "tip": "Look out for signs for wine or fruit sales directly from the farm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um die Parkplätze an den Clustern zu finden.",
+          "Wechseln Sie die Schuhe zwischen Stadtspaziergang und Wanderung.",
+          "Planen Sie genug Zeit für den Verkehr zwischen den Standorten ein."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a zónák parkolóinak megtalálásához.",
+          "Váltson cipőt a városi séta és a túrázás között.",
+          "Tervezzen elegendő időt a helyszínek közötti forgalomra."
+        ],
+        "ro": [
+          "Folosiți o aplicație de navigație pentru a găsi parcările din clustere.",
+          "Schimbați încălțămintea între plimbarea prin oraș și drumeție.",
+          "Planificați suficient timp pentru traficul dintre locații."
+        ],
+        "en": [
+          "Use a navigation app to find the parking lots at the clusters.",
+          "Change your shoes between the city walk and the hike.",
+          "Allow enough time for traffic between locations."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Ankunft Bahnhof Brunn-Maria Enzersdorf",
+            "hu": "A zóna: Érkezés a Brunn-Maria Enzersdorf vasútállomásra",
+            "ro": "Cluster A: Sosire la gara Brunn-Maria Enzersdorf",
+            "en": "Cluster A: Arrival at Brunn-Maria Enzersdorf station"
+          },
+          "coords": [
+            16.2944,
+            48.1068
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Von hier aus beginnt Ihr Spaziergang ins Zentrum.",
+            "hu": "Innen indul a séta a központba.",
+            "ro": "De aici începe plimbarea spre centru.",
+            "en": "Your walk into the center starts from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Herz-Jesu-Kirche",
+            "hu": "Jézus Szíve templom",
+            "ro": "Biserica Inima lui Iisus",
+            "en": "Sacred Heart Church"
+          },
+          "coords": [
+            16.2858,
+            48.1064
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein moderner Sakralbau auf dem Weg ins historische Herz.",
+            "hu": "Modern szakrális épület a történelmi belváros felé vezető úton.",
+            "ro": "O clădire sacră modernă pe drumul spre inima istorică.",
+            "en": "A modern sacred building on the way to the historic heart."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Kunigunde & Mittagessen",
+            "hu": "Szent Kunigunda plébániatemplom és ebéd",
+            "ro": "Biserica parohială Sf. Kunigunde & Prânz",
+            "en": "Parish Church of St. Kunigunde & Lunch"
+          },
+          "coords": [
+            16.2888,
+            48.1011
+          ],
+          "category": "gastro",
+          "arrive_at": "10:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie die Besichtigung der Kirche mit einer Mittagspause in einem nahen Gasthaus.",
+            "hu": "Kombinálja a templomlátogatást egy ebédszünettel egy közeli fogadóban.",
+            "ro": "Combinați vizita la biserică cu o pauză de prânz la un han din apropiere.",
+            "en": "Combine visiting the church with a lunch break at a nearby inn."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimathaus Brunn",
+            "hu": "Brunni Helytörténeti Múzeum",
+            "ro": "Muzeul de istorie locală Brunn",
+            "en": "Brunn Local History Museum"
+          },
+          "coords": [
+            16.2875,
+            48.1015
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Nachmittag zu beginnen.",
+            "hu": "Tökéletes hely a délután elkezdéséhez.",
+            "ro": "Locul perfect pentru a începe după-amiaza.",
+            "en": "The perfect place to start the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Busfahrt zur Brunner Heide",
+            "hu": "B zóna: Buszozás a Brunner Heide-hez",
+            "ro": "Cluster B: Călătorie cu autobuzul la Brunner Heide",
+            "en": "Cluster B: Bus ride to Brunner Heide"
+          },
+          "coords": [
+            16.3083,
+            48.0955
+          ],
+          "category": "transport",
+          "arrive_at": "13:50",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um in die Natur zu gelangen.",
+            "hu": "Menjen helyi busszal a természetbe.",
+            "ro": "Luați un autobuz local pentru a ajunge în natură.",
+            "en": "Take a local bus to get out into nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang und Entspannung auf der Heide",
+            "hu": "Séta és pihenés a pusztán",
+            "ro": "Plimbare și relaxare pe stepă",
+            "en": "Walk and relax on the heath"
+          },
+          "coords": [
+            16.31,
+            48.0945
+          ],
+          "category": "natural features",
+          "arrive_at": "13:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe und die einzigartige Atmosphäre dieses Ortes.",
+            "hu": "Élvezze a hely nyugalmát és egyedi hangulatát.",
+            "ro": "Bucurați-vă de liniștea și atmosfera unică a acestui loc.",
+            "en": "Enjoy the tranquility and unique atmosphere of this place."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Brunn wie ein Einheimischer mit den öffentlichen Verkehrsmitteln. Nach der Ankunft am Bahnhof spazieren Sie durch das Zentrum, besichtigen Kirchen und das Museum. Eine Mittagspause stärkt Sie für den zweiten Teil des Tages. Am Nachmittag bringt Sie ein lokaler Bus zur Brunner Heide, einem Naturjuwel. Dort können Sie spazieren gehen und die Seele baumeln lassen, bevor Sie die Rückreise antreten.",
+        "hu": "Fedezze fel Brunnt helyiként a tömegközlekedéssel. A vasútállomásra érkezés után sétáljon végig a központon, nézze meg a templomokat és a múzeumot. Egy ebédszünet erőt ad a nap második felére. Délután egy helyi busz elviszi a Brunner Heide természeti gyöngyszeméhez. Ott sétálhat és pihenhet, mielőtt visszaindulna.",
+        "ro": "Explorați Brunn ca un localnic, folosind transportul public. După sosirea la gară, plimbați-vă prin centru, vizitați bisericile și muzeul. O pauză de prânz vă va întări pentru a doua parte a zilei. După-amiaza, un autobuz local vă va duce la Brunner Heide, o bijuterie naturală. Acolo vă puteți plimba și relaxa înainte de a vă întoarce.",
+        "en": "Explore Brunn like a local using public transport. After arriving at the train station, walk through the center, visit the churches and the museum. A lunch break will strengthen you for the second part of the day. In the afternoon, a local bus will take you to the Brunner Heide, a natural gem. There you can take a walk and relax before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthaus nahe dem Bahnhof",
+            "tip": "Ideal für ein schnelles Mittagessen vor der Weiterfahrt."
+          },
+          {
+            "name": "Bäckerei im Zentrum",
+            "tip": "Holen Sie sich eine Jause für den Ausflug zur Heide."
+          },
+          {
+            "name": "Heuriger",
+            "tip": "Belohnen Sie sich am Abend mit regionalem Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fogadó a pályaudvar közelében",
+            "tip": "Ideális egy gyors ebédhez a továbbutazás előtt."
+          },
+          {
+            "name": "Pékség a központban",
+            "tip": "Vegyen egy uzsonnát a heidei kiránduláshoz."
+          },
+          {
+            "name": "Heuriger (borozó)",
+            "tip": "Jutalmazza meg magát este egy regionális borral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Han lângă gară",
+            "tip": "Ideal pentru un prânz rapid înainte de a continua călătoria."
+          },
+          {
+            "name": "Brutărie în centru",
+            "tip": "Luați o gustare pentru excursia la Heide."
+          },
+          {
+            "name": "Heuriger",
+            "tip": "Recompensați-vă seara cu un vin regional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Inn near the train station",
+            "tip": "Ideal for a quick lunch before continuing your journey."
+          },
+          {
+            "name": "Bakery in the center",
+            "tip": "Get a snack for the trip to the heath."
+          },
+          {
+            "name": "Heuriger",
+            "tip": "Reward yourself with a regional wine in the evening."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brunner Heide",
+            "tip": "Ein Ort der Stille, besonders unter der Woche.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Seitenstraßen im Zentrum",
+            "tip": "Entfliehen Sie dem Trubel in den kleinen Gassen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brunner Heide",
+            "tip": "A csend helye, különösen hétköznap.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mellékutcák a központban",
+            "tip": "Meneküljön el a nyüzsgés elől a kis sikátorokban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brunner Heide",
+            "tip": "Un loc de liniște, mai ales în timpul săptămânii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Străzi lăturalnice în centru",
+            "tip": "Evadați de agitație pe aleile înguste.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Brunner Heide",
+            "tip": "A place of tranquility, especially during the week.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Side streets in the center",
+            "tip": "Escape the hustle and bustle in the small alleys.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Besorgen Sie sich eine Zeitung oder ein Getränk für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a pályaudvaron",
+            "tip": "Szerezzen be egy újságot vagy egy italt az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Cumpărați un ziar sau o băutură pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the train station",
+            "tip": "Get a newspaper or a drink for the journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel.",
+          "Informieren Sie sich über die Abfahrtszeiten der Busse zur Heide.",
+          "Haben Sie Kleingeld für Bustickets dabei."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez.",
+          "Tájékozódjon a Heide-hez induló buszok menetrendjéről.",
+          "Legyen Önnél aprópénz a buszjegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public.",
+          "Informați-vă despre orele de plecare ale autobuzelor spre Heide.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz."
+        ],
+        "en": [
+          "Buy a day ticket for public transport.",
+          "Find out about the departure times of the buses to the heath.",
+          "Have small change ready for bus tickets."
+        ]
+      }
+    }
+  }
+}

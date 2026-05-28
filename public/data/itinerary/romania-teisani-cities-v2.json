@@ -1,0 +1,1299 @@
+{
+  "city_id": "romania-teisani-cities-v2",
+  "anchor": {
+    "name": "Teișani",
+    "coords": [
+      45.23,
+      26.03
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            26.0315,
+            45.2305
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beachten Sie die byzantinischen Einflüsse in der Ikonographie im Inneren.",
+            "hu": "Figyelje meg a belső ikonográfia bizánci hatásait.",
+            "ro": "Observați influențele bizantine în iconografia interioară.",
+            "en": "Note the Byzantine influences in the iconography inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinernes Kreuz des Vornicul",
+            "hu": "A Vornicul kőkeresztje",
+            "ro": "Crucea de piatră a Vornicului",
+            "en": "The Stone Cross of the Vornic"
+          },
+          "coords": [
+            26.033,
+            45.2315
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein lokales Wahrzeichen, ideal für ein schnelles Foto.",
+            "hu": "Helyi nevezetesség, ideális egy gyors fotóhoz.",
+            "ro": "Un reper local, perfect pentru o fotografie rapidă.",
+            "en": "A local landmark, perfect for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmahnmal Teișani",
+            "hu": "Teișani-i Hősök Emlékműve",
+            "ro": "Monumentul Eroilor din Teișani",
+            "en": "Heroes' Monument of Teișani"
+          },
+          "coords": [
+            26.0355,
+            45.2325
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:22",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung auf die lokale Geschichte.",
+            "hu": "Egy pillanatnyi elmélkedés a helyi történelemről.",
+            "ro": "Un moment de reflecție asupra istoriei locale.",
+            "en": "A moment of reflection on the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Teișani",
+            "hu": "Teișani vasútállomás",
+            "ro": "Gara Teișani",
+            "en": "Teișani Train Station"
+          },
+          "coords": [
+            26.028,
+            45.235
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:53",
+          "stay_min": 20,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie sich die geschäftige Vergangenheit dieses ländlichen Bahnhofs vor.",
+            "hu": "Képzelje el ennek a vidéki állomásnak a nyüzsgő múltját.",
+            "ro": "Imaginați-vă trecutul aglomerat al acestei gări rurale.",
+            "en": "Imagine the bustling past of this rural station."
+          }
+        },
+        {
+          "name": {
+            "de": "Teișani-Wald",
+            "hu": "Teișani-erdő",
+            "ro": "Pădurea Teișani",
+            "en": "Teișani Forest"
+          },
+          "coords": [
+            26.045,
+            45.245
+          ],
+          "category": "natural features",
+          "arrive_at": "11:53",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekt für einen langen Spaziergang. Bringen Sie Wasser und gute Schuhe mit.",
+            "hu": "Tökéletes egy hosszú sétához. Hozzon vizet és jó cipőt.",
+            "ro": "Perfect pentru o plimbare lungă. Aduceți apă și încălțăminte bună.",
+            "en": "Perfect for a long walk. Bring water and good shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Bughea-Hügel",
+            "hu": "Bughea-domb",
+            "ro": "Dealul Bughea",
+            "en": "Bughea Hill"
+          },
+          "coords": [
+            26.015,
+            45.24
+          ],
+          "category": "natural features",
+          "arrive_at": "14:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die Panoramaaussicht auf das Tal.",
+            "hu": "A mászás megéri a völgyre nyíló panorámáért.",
+            "ro": "Urcușul merită pentru priveliștea panoramică asupra văii.",
+            "en": "The climb is worth it for the panoramic view of the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Teișani mit einem Besuch der historischen religiösen Stätten. Nach einem Vormittag voller Kultur und Geschichte führt Sie ein kurzer Spaziergang zum alten Bahnhof. Am Nachmittag tauchen Sie in die Natur ein, wandern durch den Teișani-Wald und erklimmen den Bughea-Hügel für eine atemberaubende Aussicht. Der Abend ist perfekt, um die lokale Küche zu genießen und über die ruhige Landschaft nachzudenken.",
+        "hu": "Kezdje a napot Teișani szívében a történelmi vallási helyszínek meglátogatásával. A kultúrával és történelemmel teli délelőtt után egy rövid séta vezet a régi vasútállomáshoz. Délután merüljön el a természetben, sétáljon a Teișani-erdőben, és mássza meg a Bughea-dombot a lélegzetelállító kilátásért. Az este tökéletes a helyi konyha élvezetére és a csendes táj fölötti elmélkedésre.",
+        "ro": "Începeți ziua în inima Teișaniului vizitând siturile religioase istorice. După o dimineață de cultură și istorie, o scurtă plimbare vă va duce la vechea gară. După-amiaza, imersați-vă în natură, plimbându-vă prin Pădurea Teișani și urcând pe Dealul Bughea pentru priveliști uimitoare. Seara este perfectă pentru a savura bucătăria locală și a reflecta asupra peisajului liniștit.",
+        "en": "Start your day in the heart of Teișani by visiting the historic religious sites. After a morning of culture and history, a short walk takes you to the old train station. In the afternoon, immerse yourself in nature, hiking through the Teișani Forest and climbing Bughea Hill for stunning views. The evening is perfect for savoring local cuisine and reflecting on the quiet landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Păstrăvăria Slănic",
+            "tip": "Probieren Sie die frisch gegrillte Forelle, eine lokale Spezialität."
+          },
+          {
+            "name": "Restaurant 'La Tzeve'",
+            "tip": "Bekannt für seine herzhaften 'Mici' und 'Ciorbă'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Păstrăvăria Slănic",
+            "tip": "Kóstolja meg a frissen grillezett pisztrángot, egy helyi különlegességet."
+          },
+          {
+            "name": "La Tzeve Étterem",
+            "tip": "Ismert a kiadós 'Mici'-ről és a 'Csorbáról'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Păstrăvăria Slănic",
+            "tip": "Încercați păstrăvul proaspăt la grătar, o specialitate locală."
+          },
+          {
+            "name": "Restaurant 'La Tzeve'",
+            "tip": "Renumit pentru micii și ciorba sa consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Păstrăvăria Slănic",
+            "tip": "Try the freshly grilled trout, a local specialty."
+          },
+          {
+            "name": "Restaurant 'La Tzeve'",
+            "tip": "Known for its hearty 'Mici' and 'Ciorbă'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Teleajen-Tal",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, um dem Alltag zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gipfel des Bughea-Hügels",
+            "tip": "Finden Sie einen ruhigen Platz, um den Sonnenuntergang über den Karpatenvorbergen zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Teișani-Wald",
+            "tip": "Tiefe Stille, nur unterbrochen vom Rauschen der Blätter.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Teleajen-völgy",
+            "tip": "Egy csendes séta a folyó mentén a meneküléshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bughea-domb csúcsa",
+            "tip": "Keressen egy csendes helyet a naplemente megtekintéséhez a Kárpátok előhegyei felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Teișani-erdő",
+            "tip": "Mély csend, amelyet csak a levelek susogása tör meg.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Teleajenului",
+            "tip": "O plimbare liniștită de-a lungul râului pentru a evada.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vârful Dealului Bughea",
+            "tip": "Găsiți un loc liniștit pentru a privi apusul peste Subcarpați.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pădurea Teișani",
+            "tip": "Liniște profundă, întreruptă doar de foșnetul frunzelor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Teleajen Valley",
+            "tip": "A quiet walk along the river to get away from it all.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Peak of Bughea Hill",
+            "tip": "Find a quiet spot to watch the sunset over the Sub-Carpathian hills.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Teișani Forest",
+            "tip": "Deep silence, broken only by the rustling of leaves.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie hausgemachten Käse ('Brânză de burduf') und Honig."
+          },
+          {
+            "name": "Handwerkerstände",
+            "tip": "Suchen Sie nach handgeschnitzten Holzgegenständen und traditioneller Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon házi készítésű sajtot ('Brânză de burduf') és mézet."
+          },
+          {
+            "name": "Kézműves standok",
+            "tip": "Keressen kézzel faragott fatárgyakat és hagyományos kerámiát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Locală",
+            "tip": "Cumpărați brânză de burduf de casă și miere de albine."
+          },
+          {
+            "name": "Standuri de artizanat",
+            "tip": "Căutați obiecte din lemn sculptate manual și ceramică tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy homemade cheese ('Brânză de burduf') and honey."
+          },
+          {
+            "name": "Artisan Stalls",
+            "tip": "Look for hand-carved wooden items and traditional pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe, da Sie viel zu Fuß unterwegs sein werden.",
+          "Nehmen Sie viel Wasser mit, besonders für die Wanderungen am Nachmittag.",
+          "Prüfen Sie die Öffnungszeiten der Kirche, da diese variieren können.",
+          "Ein kleiner Rucksack ist nützlich für Snacks und eine leichte Jacke."
+        ],
+        "hu": [
+          "Viseljen kényelmes túracipőt, mert sokat fog gyalogolni.",
+          "Vigyen magával elegendő vizet, különösen a délutáni túrákhoz.",
+          "Ellenőrizze a templom nyitvatartási idejét, mert az változhat.",
+          "Egy kis hátizsák hasznos a harapnivalók és egy könnyű dzseki számára."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă de mers, deoarece veți merge mult pe jos.",
+          "Luați multă apă, mai ales pentru drumețiile de după-amiază.",
+          "Verificați programul bisericii, deoarece acesta poate varia.",
+          "Un rucsac mic este util pentru gustări și o geacă subțire."
+        ],
+        "en": [
+          "Wear comfortable walking shoes as you'll be on your feet a lot.",
+          "Bring plenty of water, especially for the afternoon hikes.",
+          "Check the church's opening hours as they can vary.",
+          "A small backpack is useful for snacks and a light jacket."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            26.0315,
+            45.2305
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt, um in die lokale Atmosphäre einzutauchen.",
+            "hu": "Jó kiindulópont a helyi hangulat megismeréséhez.",
+            "ro": "Un bun punct de plecare pentru a intra în atmosfera locală.",
+            "en": "A good starting point to get into the local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmahnmal Teișani",
+            "hu": "Teișani-i Hősök Emlékműve",
+            "ro": "Monumentul Eroilor din Teișani",
+            "en": "Heroes' Monument of Teișani"
+          },
+          "coords": [
+            26.0355,
+            45.2325
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:43",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Leicht mit dem Fahrrad zu erreichen, auf dem Weg aus dem Dorf.",
+            "hu": "Könnyen elérhető kerékpárral, a faluból kifelé menet.",
+            "ro": "Ușor accesibil cu bicicleta, la ieșirea din sat.",
+            "en": "Easily accessible by bike on your way out of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturencamp Teișani",
+            "hu": "Teișani Szoborpark",
+            "ro": "Tabăra de sculptură Teișani",
+            "en": "Teișani Sculpture Camp"
+          },
+          "coords": [
+            26.048,
+            45.225
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Radfahren Sie zwischen den weitläufigen Skulpturen in dieser einzigartigen Freiluftgalerie.",
+            "hu": "Kerékpározzon a szobrok között ebben az egyedülálló szabadtéri galériában.",
+            "ro": "Pedalați printre sculpturile expuse în această galerie unică în aer liber.",
+            "en": "Cycle among the sprawling sculptures in this unique open-air gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Teleajen-Tal bei Teișani",
+            "hu": "Teleajen-völgy Teișani közelében",
+            "ro": "Valea Teleajenului lângă Teișani",
+            "en": "Teleajen Valley near Teișani"
+          },
+          "coords": [
+            26.06,
+            45.25
+          ],
+          "category": "natural features",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Eine flache und malerische Strecke, ideal für eine entspannte Radtour am Flussufer.",
+            "hu": "Sík és festői szakasz, ideális egy pihentető folyóparti kerékpártúrához.",
+            "ro": "Un traseu plat și pitoresc, ideal pentru o plimbare relaxantă cu bicicleta pe malul râului.",
+            "en": "A flat and scenic route, ideal for a relaxed riverside bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Teișani",
+            "hu": "Teișani vasútállomás",
+            "ro": "Gara Teișani",
+            "en": "Teișani Train Station"
+          },
+          "coords": [
+            26.028,
+            45.235
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:19",
+          "stay_min": 20,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Eine nostalgische Pause, bevor Sie den Hügel in Angriff nehmen.",
+            "hu": "Nosztalgikus szünet a domb megmászása előtt.",
+            "ro": "O pauză nostalgică înainte de a aborda dealul.",
+            "en": "A nostalgic break before you tackle the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Bughea-Hügel",
+            "hu": "Bughea-domb",
+            "ro": "Dealul Bughea",
+            "en": "Bughea Hill"
+          },
+          "coords": [
+            26.015,
+            45.24
+          ],
+          "category": "natural features",
+          "arrive_at": "14:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der Anstieg ist eine Herausforderung, aber die Aussicht von oben ist die Belohnung.",
+            "hu": "A kaptató kihívást jelent, de a fentről nyíló kilátás a jutalom.",
+            "ro": "Urcușul este o provocare, dar priveliștea de sus este recompensa.",
+            "en": "The climb is a challenge, but the view from the top is the reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinernes Kreuz des Vornicul",
+            "hu": "A Vornicul kőkeresztje",
+            "ro": "Crucea de piatră a Vornicului",
+            "en": "The Stone Cross of the Vornic"
+          },
+          "coords": [
+            26.033,
+            45.2315
+          ],
+          "category": "historical",
+          "arrive_at": "15:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem historischen Wahrzeichen.",
+            "hu": "Fejezze be a túrát ennél a történelmi emlékműnél.",
+            "ro": "Încheiați turul la acest reper istoric.",
+            "en": "End your tour at this historic landmark."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad für eine Entdeckungsreise durch Teișani. Der Morgen führt Sie zu den Denkmälern und dem einzigartigen Skulpturenpark. Mittags radeln Sie durch das malerische Teleajen-Tal. Der Nachmittag ist eine Herausforderung mit dem Anstieg zum Bughea-Hügel, aber die Panoramablicke sind es wert. Beenden Sie den Tag mit einem entspannten Ausklang im Dorfzentrum.",
+        "hu": "Pattanjon kerékpárra egy felfedezőútra Teișani környékén. A délelőtt az emlékművekhez és az egyedülálló szoborparkhoz vezet. Délben a festői Teleajen-völgyön keresztül teker. A délután kihívást jelent a Bughea-dombra való feljutás, de a panoráma megéri. Zárja a napot egy pihentető levezetéssel a falu központjában.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur de descoperire în jurul Teișaniului. Dimineața vă poartă la monumente și la parcul unic de sculptură. La prânz, pedalați prin pitoreasca Vale a Teleajenului. După-amiaza este o provocare cu urcarea pe Dealul Bughea, dar priveliștile panoramice merită. Încheiați ziua cu o relaxare în centrul satului.",
+        "en": "Get on your bike for a tour of discovery around Teișani. The morning takes you to the monuments and the unique sculpture park. At noon, you'll cycle through the picturesque Teleajen Valley. The afternoon is a challenge with the climb up Bughea Hill, but the panoramic views are worth it. End the day with a relaxing wind-down in the village center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pensiunea Alex",
+            "tip": "Ideal für einen schnellen, energiereichen Snack wie 'Bulz Ciobanesc'."
+          },
+          {
+            "name": "Local Shop",
+            "tip": "Kaufen Sie 'Eugenia'-Kekse für eine schnelle Zuckerzufuhr."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alex Panzió",
+            "tip": "Ideális egy gyors, energiadús harapnivalóhoz, mint a 'Bulz Ciobanesc'."
+          },
+          {
+            "name": "Helyi bolt",
+            "tip": "Vásároljon 'Eugenia' kekszet egy gyors cukorbevitelhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pensiunea Alex",
+            "tip": "Ideal pentru o gustare rapidă și energizantă precum 'Bulz Ciobanesc'."
+          },
+          {
+            "name": "Magazin local",
+            "tip": "Cumpărați biscuiți 'Eugenia' pentru un plus rapid de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pensiunea Alex",
+            "tip": "Ideal for a quick, high-energy snack like 'Bulz Ciobanesc'."
+          },
+          {
+            "name": "Local Shop",
+            "tip": "Pick up some 'Eugenia' biscuits for a quick sugar boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Teleajen",
+            "tip": "Machen Sie eine Pause und lauschen Sie dem fließenden Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Teișani-Wald",
+            "tip": "Die schattigen Wege sind perfekt für eine kühle, ruhige Fahrt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Teleajen partja",
+            "tip": "Tartson szünetet és hallgassa a folyó vizét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Teișani-erdő",
+            "tip": "Az árnyas ösvények tökéletesek egy hűvös, csendes tekeréshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Teleajenului",
+            "tip": "Luați o pauză și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurea Teișani",
+            "tip": "Potecile umbrite sunt perfecte pentru o plimbare răcoroasă și liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Teleajen",
+            "tip": "Take a break and listen to the flowing water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Teișani Forest",
+            "tip": "The shaded paths are perfect for a cool, quiet ride.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dorfzentrum",
+            "tip": "Suchen Sie nach kleinen Läden, die lokale Marmelade ('dulceață') verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Faluközpont",
+            "tip": "Keressen kis boltokat, ahol helyi lekvárt ('dulceață') árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Satului",
+            "tip": "Căutați magazine mici care vând dulceață locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Village Center",
+            "tip": "Look for small shops selling local jam ('dulceață')."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Mountainbike wird für die Hügel und Waldwege empfohlen.",
+          "Tragen Sie einen Helm und bringen Sie ein Reparaturset mit.",
+          "Einige Straßen sind möglicherweise nicht asphaltiert, fahren Sie also vorsichtig.",
+          "Planen Sie Ihre Route im Voraus, da die Mobilfunkabdeckung lückenhaft sein kann."
+        ],
+        "hu": [
+          "Hegyi kerékpár ajánlott a dombokra és erdei utakra.",
+          "Viseljen sisakot és hozzon magával javítókészletet.",
+          "Néhány út lehet, hogy nem aszfaltozott, ezért óvatosan közlekedjen.",
+          "Tervezze meg előre az útvonalat, mivel a mobil lefedettség foltos lehet."
+        ],
+        "ro": [
+          "O bicicletă de munte este recomandată pentru dealuri și potecile forestiere.",
+          "Purtați cască și aduceți un kit de reparații.",
+          "Unele drumuri pot fi neasfaltate, așa că mergeți cu prudență.",
+          "Planificați-vă traseul în avans, deoarece acoperirea mobilă poate fi discontinuă."
+        ],
+        "en": [
+          "A mountain bike is recommended for the hills and forest trails.",
+          "Wear a helmet and bring a repair kit.",
+          "Some roads may be unpaved, so ride with caution.",
+          "Plan your route in advance as cell coverage can be patchy."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 24.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum Teișani",
+            "hu": "Parkoló Teișani központjában",
+            "ro": "Parcare Centru Teișani",
+            "en": "Teișani Center Parking"
+          },
+          "coords": [
+            26.032,
+            45.231
+          ],
+          "category": "other",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel az első klasztert gyalog.",
+            "ro": "Parcați aici și explorați primul cluster pe jos.",
+            "en": "Park here and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            26.0315,
+            45.2305
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum historischen Kern.",
+            "hu": "Rövid séta a parkolótól a történelmi magig.",
+            "ro": "O scurtă plimbare de la parcare la nucleul istoric.",
+            "en": "A short walk from the parking spot to the historic core."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinernes Kreuz des Vornicul",
+            "hu": "A Vornicul kőkeresztje",
+            "ro": "Crucea de piatră a Vornicului",
+            "en": "The Stone Cross of the Vornic"
+          },
+          "coords": [
+            26.033,
+            45.2315
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Leicht zu Fuß von der Kirche aus zu finden.",
+            "hu": "Könnyen megtalálható gyalog a templomtól.",
+            "ro": "Ușor de găsit pe jos de la biserică.",
+            "en": "Easy to find on foot from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturencamp Teișani",
+            "hu": "Teișani Szoborpark",
+            "ro": "Tabăra de sculptură Teișani",
+            "en": "Teișani Sculpture Camp"
+          },
+          "coords": [
+            26.048,
+            45.225
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Es gibt Parkmöglichkeiten vor Ort.",
+            "hu": "Vezessen a második klaszterhez. Parkolási lehetőség a helyszínen.",
+            "ro": "Conduceți la al doilea cluster. Există parcare la fața locului.",
+            "en": "Drive to the second cluster. There's parking available on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Teleajen-Tal",
+            "hu": "Parkoló a Teleajen-völgyben",
+            "ro": "Parcare Valea Teleajenului",
+            "en": "Teleajen Valley Parking"
+          },
+          "coords": [
+            26.058,
+            45.252
+          ],
+          "category": "other",
+          "arrive_at": "12:12",
+          "stay_min": 0,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginn des dritten Clusters. Von hier aus wandern Sie.",
+            "hu": "A harmadik klaszter kezdete. Innen túrázzon.",
+            "ro": "Începutul celui de-al treilea cluster. De aici veți face drumeții.",
+            "en": "Start of the third cluster. You'll hike from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Teleajen-Tal",
+            "hu": "Séta a Teleajen-völgyben",
+            "ro": "Plimbare prin Valea Teleajenului",
+            "en": "Walk in the Teleajen Valley"
+          },
+          "coords": [
+            26.06,
+            45.25
+          ],
+          "category": "natural features",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen gemütlichen Spaziergang entlang des Flusses.",
+            "hu": "Élvezze a kellemes sétát a folyó mentén.",
+            "ro": "Bucurați-vă de o plimbare agale de-a lungul râului.",
+            "en": "Enjoy a leisurely stroll along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Wanderung zum Bughea-Hügel",
+            "hu": "Túra a Bughea-dombra",
+            "ro": "Drumeție pe Dealul Bughea",
+            "en": "Hike to Bughea Hill"
+          },
+          "coords": [
+            26.015,
+            45.24
+          ],
+          "category": "natural features",
+          "arrive_at": "15:02",
+          "stay_min": 90,
+          "hop_from_prev_min": 104,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Ausgangspunkt des Wanderwegs für die beste Aussicht des Tages.",
+            "hu": "Vezessen a túraútvonal kiindulópontjához a nap legjobb kilátásáért.",
+            "ro": "Conduceți la baza traseului pentru cea mai bună priveliște a zilei.",
+            "en": "Drive to the trailhead for the best view of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt im Zentrum von Teișani, wo Sie parken und die historischen Stätten zu Fuß erkunden. Am Vormittag fahren Sie zum weitläufigen Skulpturenpark. Nach dem Mittagessen fahren Sie tiefer in die Natur, parken wieder und wandern durch das Teleajen-Tal. Der Höhepunkt des Nachmittags ist die Fahrt zum Bughea-Hügel, wo Sie eine letzte Wanderung mit Panoramablick unternehmen, bevor Sie in die Dämmerung fahren.",
+        "hu": "Autós kirándulása Teișani központjában kezdődik, ahol leparkol és gyalog fedezi fel a történelmi helyszíneket. A délelőtt folyamán a tágas szoborparkhoz hajt. Ebéd után mélyebbre merül a természetben, újra leparkol, és a Teleajen-völgyön keresztül túrázik. A délután csúcspontja a Bughea-dombhoz való autózás egy utolsó, panorámás túrára, mielőtt az alkonyatba hajtana.",
+        "ro": "Excursia dvs. cu mașina începe în centrul Teișaniului, unde parcați pentru a explora siturile istorice pe jos. Dimineața vă duce la parcul de sculptură întins. După prânz, conduceți mai adânc în natură, parcați din nou și faceți o drumeție prin Valea Teleajenului. Punctul culminant al după-amiezii este drumul spre Dealul Bughea pentru o ultimă drumeție panoramică înainte de a conduce spre apus.",
+        "en": "Your road trip starts in the center of Teișani, parking to explore the historic sites on foot. The morning takes you to the sprawling sculpture park. After lunch, you'll drive deeper into nature, park again, and hike through the Teleajen Valley. The afternoon culminates with a drive to Bughea Hill for a final panoramic hike before driving into the dusk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hanul cu Jar",
+            "tip": "Perfekt für ein herzhaftes Mittagessen mit traditionellen rumänischen Gerichten."
+          },
+          {
+            "name": "Complex Turistic 'Popasul din Vale'",
+            "tip": "Bekannt für seine 'Tochitură Moldovenească'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hanul cu Jar",
+            "tip": "Tökéletes egy kiadós ebédhez hagyományos román ételekkel."
+          },
+          {
+            "name": "Popasul din Vale Turisztikai Komplexum",
+            "tip": "Ismert a 'Tochitură Moldovenească'-ról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hanul cu Jar",
+            "tip": "Perfect pentru un prânz copios cu mâncăruri tradiționale românești."
+          },
+          {
+            "name": "Complex Turistic 'Popasul din Vale'",
+            "tip": "Renumit pentru tochitura sa moldovenească."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hanul cu Jar",
+            "tip": "Perfect for a hearty lunch with traditional Romanian dishes."
+          },
+          {
+            "name": "Complex Turistic 'Popasul din Vale'",
+            "tip": "Known for its 'Tochitură Moldovenească'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Skulpturencamp Teișani",
+            "tip": "Wandern Sie zwischen den stillen Riesen aus Stein und Holz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein abgelegener Ort im Teleajen-Tal",
+            "tip": "Halten Sie an einem beliebigen Ort an, um die Ruhe zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Teișani Szoborpark",
+            "tip": "Sétáljon a csendes kő- és faóriások között.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy eldugott hely a Teleajen-völgyben",
+            "tip": "Álljon meg bárhol, hogy élvezze a csendet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tabăra de sculptură Teișani",
+            "tip": "Plimbați-vă printre giganții tăcuți din piatră și lemn.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Un loc retras în Valea Teleajenului",
+            "tip": "Opriți-vă oriunde pentru a absorbi liniștea.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Teișani Sculpture Camp",
+            "tip": "Wander among the silent giants of stone and wood.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A secluded spot in Teleajen Valley",
+            "tip": "Pull over anywhere to absorb the tranquility.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenverkäufer",
+            "tip": "Halten Sie Ausschau nach Verkäufern von Waldbeeren und Pilzen in der Saison."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útszéli árusok",
+            "tip": "Figyelje az erdei gyümölcsöket és gombákat árusítókat szezonban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători ambulanți",
+            "tip": "Fiți atenți la vânzătorii de fructe de pădure și ciuperci în sezon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside vendors",
+            "tip": "Keep an eye out for vendors selling forest berries and mushrooms in season."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Haben Sie etwas Bargeld für Parkgebühren oder lokale Produkte.",
+          "Die Straßen in ländlichen Gebieten können eng sein, fahren Sie vorsichtig.",
+          "Laden Sie Offline-Karten herunter, da das Signal schwach sein kann.",
+          "Ein Auto gibt Ihnen die Flexibilität, die abgelegeneren Naturgebiete zu erkunden."
+        ],
+        "hu": [
+          "Legyen Önnél készpénz a parkolási díjakhoz vagy a helyi termékekhez.",
+          "A vidéki utak szűkek lehetnek, vezessen óvatosan.",
+          "Töltsön le offline térképeket, mivel a jel gyenge lehet.",
+          "Az autó rugalmasságot biztosít a távolabbi természeti területek felfedezéséhez."
+        ],
+        "ro": [
+          "Aveți niște numerar pentru taxele de parcare sau produsele locale.",
+          "Drumurile din zonele rurale pot fi înguste, conduceți cu atenție.",
+          "Descărcați hărți offline, deoarece semnalul poate fi slab.",
+          "O mașină vă oferă flexibilitatea de a explora zonele naturale mai îndepărtate."
+        ],
+        "en": [
+          "Have some cash for parking fees or local products.",
+          "Roads in rural areas can be narrow, drive with care.",
+          "Download offline maps as signal can be weak.",
+          "A car gives you the flexibility to explore the more remote natural areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrale Bushaltestelle Teișani",
+            "hu": "Teișani központi buszmegálló",
+            "ro": "Stația de autobuz centrală Teișani",
+            "en": "Teișani Central Bus Stop"
+          },
+          "coords": [
+            26.0325,
+            45.2312
+          ],
+          "category": "other",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier. Der erste Cluster ist zu Fuß erreichbar.",
+            "hu": "Kezdje a napot itt. Az első klaszter gyalogosan elérhető.",
+            "ro": "Începeți ziua aici. Primul cluster este la distanță de mers pe jos.",
+            "en": "Start your day here. The first cluster is within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            26.0315,
+            45.2305
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herzstück des Dorfes, nur einen kurzen Spaziergang von der Haltestelle entfernt.",
+            "hu": "A falu szíve, csak egy rövid sétára a megállótól.",
+            "ro": "Inima satului, la o scurtă plimbare de stație.",
+            "en": "The heart of the village, just a short walk from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmahnmal Teișani",
+            "hu": "Teișani-i Hősök Emlékműve",
+            "ro": "Monumentul Eroilor din Teișani",
+            "en": "Heroes' Monument of Teișani"
+          },
+          "coords": [
+            26.0355,
+            45.2325
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:01",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein weiterer kurzer Spaziergang durch das Dorf.",
+            "hu": "Egy újabb rövid séta a falun keresztül.",
+            "ro": "O altă scurtă plimbare prin sat.",
+            "en": "Another short walk through the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle nahe Teleajen-Tal",
+            "hu": "Megálló a Teleajen-völgy közelében",
+            "ro": "Stație lângă Valea Teleajenului",
+            "en": "Bus Stop near Teleajen Valley"
+          },
+          "coords": [
+            26.057,
+            45.251
+          ],
+          "category": "other",
+          "arrive_at": "11:01",
+          "stay_min": 0,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus für den Naturteil Ihrer Reise.",
+            "hu": "Szálljon le itt az utazás természeti részéhez.",
+            "ro": "Coborâți aici pentru partea de natură a călătoriei dvs.",
+            "en": "Get off here for the nature part of your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Teișani-Wald",
+            "hu": "Teișani-erdő",
+            "ro": "Pădurea Teișani",
+            "en": "Teișani Forest"
+          },
+          "coords": [
+            26.045,
+            45.245
+          ],
+          "category": "natural features",
+          "arrive_at": "11:09",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wandern Sie von der Haltestelle in den Wald hinein.",
+            "hu": "Sétáljon a megállótól az erdőbe.",
+            "ro": "Mergeți pe jos de la stație în pădure.",
+            "en": "Hike from the bus stop into the forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Bughea-Hügel Aussichtspunkt",
+            "hu": "Bughea-domb kilátó",
+            "ro": "Punct de belvedere Dealul Bughea",
+            "en": "Bughea Hill Viewpoint"
+          },
+          "coords": [
+            26.015,
+            45.24
+          ],
+          "category": "natural features",
+          "arrive_at": "14:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 110,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Fuß des Hügels für den letzten Aufstieg.",
+            "hu": "Vegyen buszt a domb lábához az utolsó emelkedőhöz.",
+            "ro": "Luați un autobuz până la poalele dealului pentru urcarea finală.",
+            "en": "Take a bus to the base of the hill for the final climb."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Busse, um Teișani zu erkunden. Beginnen Sie im Dorfzentrum, das Sie zu Fuß erkunden. Am Vormittag bringt Sie ein Bus in die Nähe des Teleajen-Tals für eine ausgiebige Wanderung im Wald. Am Nachmittag bringt Sie ein weiterer Bus zum Bughea-Hügel, wo Sie den Tag mit einer spektakulären Aussicht ausklingen lassen, bevor Sie den Bus zurück ins Dorf nehmen.",
+        "hu": "Használja a helyi buszokat Teișani felfedezéséhez. Kezdje a faluközpontban, amelyet gyalogosan járhat be. A délelőtt folyamán egy busz elviszi a Teleajen-völgy közelébe egy kiadós erdei túrára. Délután egy másik busz a Bughea-dombhoz viszi, ahol a napot egy látványos kilátással zárja, mielőtt visszabuszozna a faluba.",
+        "ro": "Folosiți autobuzele locale pentru a explora Teișani. Începeți cu centrul satului, pe care îl puteți explora pe jos. Dimineața, un autobuz vă va duce aproape de Valea Teleajenului pentru o drumeție în pădure. După-amiaza, un alt autobuz vă va duce la Dealul Bughea pentru a încheia ziua cu o priveliște spectaculoasă înainte de a lua autobuzul înapoi în sat.",
+        "en": "Use the local buses to explore Teișani. Start with the village center, which you can explore on foot. In the morning, a bus will take you near the Teleajen Valley for a substantial forest hike. In the afternoon, another bus takes you to Bughea Hill to end the day with a spectacular view before taking the bus back to the village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigărie",
+            "tip": "Ein warmer 'Covrig' ist der perfekte Snack für unterwegs."
+          },
+          {
+            "name": "Restaurant im Dorfzentrum",
+            "tip": "Fragen Sie nach dem 'meniul zilei' (Tagesmenü) für ein günstiges Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perecező",
+            "tip": "Egy meleg perec tökéletes útközbeni harapnivaló."
+          },
+          {
+            "name": "Étterem a faluközpontban",
+            "tip": "Kérje a 'meniul zilei'-t (napi menü) egy olcsó ebédért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigărie",
+            "tip": "Un covrig cald este gustarea perfectă în mișcare."
+          },
+          {
+            "name": "Restaurant din centrul satului",
+            "tip": "Întrebați de 'meniul zilei' pentru un prânz accesibil."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigărie (Pretzel Shop)",
+            "tip": "A warm 'covrig' is the perfect on-the-go snack."
+          },
+          {
+            "name": "Village Center Restaurant",
+            "tip": "Ask for the 'meniul zilei' (menu of the day) for an affordable lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Landschaft",
+            "tip": "Genießen Sie die Aussicht aus dem Fenster, während Sie von einem Cluster zum nächsten fahren.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Friedhof an der St.-Nikolaus-Kirche",
+            "tip": "Ein ruhiger und besinnlicher Ort.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a vidéken",
+            "tip": "Élvezze a kilátást az ablakból, miközben az egyik klaszterről a másikra utazik.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A Szent Miklós-templom temetője",
+            "tip": "Csendes és elmélkedő hely.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin peisaj",
+            "tip": "Bucurați-vă de priveliștea de pe geam în timp ce călătoriți între clustere.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Cimitirul Bisericii Sf. Nicolae",
+            "tip": "Un loc liniștit și de reculegere.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the countryside",
+            "tip": "Enjoy the view from the window as you travel between clusters.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Saint Nicholas Church Cemetery",
+            "tip": "A quiet and contemplative spot.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleiner Laden an der Haltestelle",
+            "tip": "Kaufen Sie Wasser und Snacks für Ihre Wanderungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kisbolt a megállónál",
+            "tip": "Vásároljon vizet és harapnivalót a túráihoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin mic la stație",
+            "tip": "Cumpărați apă și gustări pentru drumețiile dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small shop at the bus stop",
+            "tip": "Buy water and snacks for your hikes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse selten fahren.",
+          "Kaufen Sie Tickets, bevor Sie einsteigen, falls möglich.",
+          "Seien Sie bereit, zu Fuß zu gehen, auch wenn Sie öffentliche Verkehrsmittel benutzen.",
+          "Die Namen der Haltestellen sind möglicherweise nicht immer klar, verfolgen Sie also Ihren Standort auf einer Karte."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, mivel a járatok ritkák lehetnek.",
+          "Ha lehetséges, előre vegye meg a jegyeket.",
+          "Készüljön fel a gyaloglásra, még akkor is, ha tömegközlekedést használ.",
+          "A megállók nevei nem mindig egyértelműek, ezért kövesse a helyzetét egy térképen."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, deoarece cursele pot fi rare.",
+          "Cumpărați bilete înainte de a urca, dacă este posibil.",
+          "Fiți pregătiți să mergeți pe jos, chiar și atunci când folosiți transportul public.",
+          "Numele stațiilor s-ar putea să nu fie întotdeauna clare, așa că urmăriți-vă locația pe o hartă."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as services can be infrequent.",
+          "Buy tickets before boarding if possible.",
+          "Be prepared to walk, even when using public transport.",
+          "Stop names may not always be clear, so track your location on a map."
+        ]
+      }
+    }
+  }
+}

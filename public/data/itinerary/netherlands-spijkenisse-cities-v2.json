@@ -1,0 +1,1311 @@
+{
+  "city_id": "netherlands-spijkenisse-cities-v2",
+  "anchor": {
+    "name": "Spijkenisse",
+    "coords": [
+      4.3297,
+      51.8444
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Markt Spijkenisse",
+            "hu": "Spijkenisse piactér",
+            "ro": "Piața Spijkenisse",
+            "en": "Market Square Spijkenisse"
+          },
+          "coords": [
+            4.3294,
+            51.8465
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Oude Kerk",
+            "hu": "Régi templom",
+            "ro": "Biserica Veche",
+            "en": "Old Church"
+          },
+          "coords": [
+            4.3288,
+            51.8471
+          ],
+          "category": "church",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die wunderschönen Glasfenster im Inneren.",
+            "hu": "Figyelje meg a gyönyörű ólomüveg ablakokat odabent.",
+            "ro": "Observați vitraliile frumoase din interior.",
+            "en": "Notice the beautiful stained-glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "De Boekenberg",
+            "hu": "De Boekenberg (Könyvhegy)",
+            "ro": "De Boekenberg (Muntele de Cărți)",
+            "en": "De Boekenberg (The Book Mountain)"
+          },
+          "coords": [
+            4.3315,
+            51.845
+          ],
+          "category": "cultural-centre",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Aufzug nach oben, um die beste Aussicht auf die Pyramidenstruktur zu erhalten.",
+            "hu": "Menjen fel lifttel a piramisszerkezet legjobb kilátásáért.",
+            "ro": "Urcați cu liftul pentru cea mai bună priveliște a structurii piramidale.",
+            "en": "Take the elevator to the top for the best view of the pyramid structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater de Stoep",
+            "hu": "De Stoep Színház",
+            "ro": "Teatrul de Stoep",
+            "en": "Theater de Stoep"
+          },
+          "coords": [
+            4.3389,
+            51.8519
+          ],
+          "category": "theatre",
+          "arrive_at": "12:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige Architektur; es sieht aus wie ein gelandetes Raumschiff.",
+            "hu": "Csodálja meg az egyedi építészetet; úgy néz ki, mint egy leszállt űrhajó.",
+            "ro": "Admirați arhitectura unică; arată ca o navă spațială care a aterizat.",
+            "en": "Admire the unique architecture; it looks like a landed spaceship."
+          }
+        },
+        {
+          "name": {
+            "de": "Hartelpark",
+            "hu": "Hartelpark",
+            "ro": "Parcul Hartel",
+            "en": "Hartelpark"
+          },
+          "coords": [
+            4.3164,
+            51.8436
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Picknick-Mittagessen oder einfach nur zum Entspannen am Wasser.",
+            "hu": "Tökéletes hely egy piknik ebédhez vagy csak pihenéshez a vízparton.",
+            "ro": "Locul perfect pentru un prânz la picnic sau doar pentru a vă relaxa lângă apă.",
+            "en": "Perfect spot for a picnic lunch or just relaxing by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "De Elementen",
+            "hu": "De Elementen (Az Elemek)",
+            "ro": "De Elementen (Elementele)",
+            "en": "De Elementen (The Elements)"
+          },
+          "coords": [
+            4.3211,
+            51.8388
+          ],
+          "category": "historical",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses neue Wohngebiet, das auf historischen Prinzipien basiert.",
+            "hu": "Fedezze fel ezt az új, történelmi elveken alapuló lakónegyedet.",
+            "ro": "Explorați această nouă zonă rezidențială bazată pe principii istorice.",
+            "en": "Explore this new residential area based on historical principles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Spijkenisse beginnt am lebhaften Markt, führt an der historischen Oude Kerk vorbei und erreicht dann die moderne Ikone, De Boekenberg. Mittags bewundern Sie die futuristische Architektur des Theater de Stoep, bevor Sie einen entspannten Nachmittag im grünen Hartelpark verbringen. Der Tag endet mit einer Erkundung des einzigartigen Wohnprojekts De Elementen und spiegelt die Mischung aus Alt und Neu der Stadt wider.",
+        "hu": "A spijkenisse-i séta a nyüzsgő piactéren kezdődik, elhalad a történelmi Oude Kerk mellett, majd eléri a modern ikont, a De Boekenberget. Délben megcsodálhatja a Theater de Stoep futurisztikus építészetét, mielőtt egy pihentető délutánt töltene a zöld Hartelparkban. A nap a De Elementen egyedi lakóprojektjének felfedezésével zárul, amely a város régi és új keverékét tükrözi.",
+        "ro": "O plimbare prin Spijkenisse începe în Piața plină de viață, trece pe lângă istorica Biserică Veche și ajunge la icoana modernă, De Boekenberg. La prânz, admirați arhitectura futuristă a Teatrului de Stoep înainte de o după-amiază relaxantă în Parcul Hartel. Ziua se încheie cu explorarea proiectului rezidențial unic De Elementen, reflectând amestecul orașului de vechi și nou.",
+        "en": "A walk through Spijkenisse begins at the lively Market Square, passes the historic Old Church, and then reaches the modern icon, De Boekenberg. At midday, you'll admire the futuristic architecture of Theater de Stoep before a relaxing afternoon in the green Hartelpark. The day concludes with an exploration of the unique De Elementen residential project, reflecting the city's blend of old and new."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Poffertjes",
+            "tip": "Probieren Sie diese kleinen Pfannkuchen auf dem Markt."
+          },
+          {
+            "name": "Haring",
+            "tip": "Ein Muss in den Niederlanden, frisch von einem lokalen Stand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poffertjes",
+            "tip": "Kóstolja meg ezeket a mini palacsintákat a piacon."
+          },
+          {
+            "name": "Haring",
+            "tip": "Hollandiai klasszikus, frissen egy helyi standról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poffertjes",
+            "tip": "Încercați aceste mini-clătite la piață."
+          },
+          {
+            "name": "Haring",
+            "tip": "O specialitate olandeză, proaspătă de la o tarabă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Poffertjes",
+            "tip": "Try these mini pancakes at the market."
+          },
+          {
+            "name": "Haring",
+            "tip": "A Dutch must-try, fresh from a local stall."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Bernisse",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hartelpark",
+            "tip": "Finden Sie eine ruhige Bank am Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bernisse folyópart",
+            "tip": "Egy csendes séta a folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hartelpark",
+            "tip": "Keressen egy csendes padot a víz mellett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Bernisse",
+            "tip": "O plimbare liniștită de-a lungul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Hartel",
+            "tip": "Găsiți o bancă liniștită lângă apă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Bernisse",
+            "tip": "A quiet stroll along the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hartelpark",
+            "tip": "Find a quiet bench by the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Dienstags und samstags für lokale Produkte und Snacks."
+          },
+          {
+            "name": "Stadsplein",
+            "tip": "Moderne Einkaufsstraßen rund um den Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Kedden és szombaton helyi termékekért és falatokért."
+          },
+          {
+            "name": "Stadsplein",
+            "tip": "Modern bevásárlóutcák a főtér körül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Marți și sâmbătă pentru produse locale și gustări."
+          },
+          {
+            "name": "Stadsplein",
+            "tip": "Străzi comerciale moderne în jurul pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "On Tuesdays and Saturdays for local produce and snacks."
+          },
+          {
+            "name": "Stadsplein",
+            "tip": "Modern shopping streets around the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Marktzeiten, um das volle Erlebnis zu genießen.",
+          "Viele moderne Gebäude sind am besten von außen zu bewundern."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Ellenőrizze a piac nyitvatartását a teljes élményért.",
+          "Sok modern épületet a legjobb kívülről megcsodálni."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult.",
+          "Verificați programul pieței pentru o experiență completă.",
+          "Multe clădiri moderne sunt cel mai bine admirate din exterior."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Check market days to get the full experience.",
+          "Many modern buildings are best admired from the outside."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 16.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Markt Spijkenisse",
+            "hu": "Spijkenisse piactér",
+            "ro": "Piața Spijkenisse",
+            "en": "Market Square Spijkenisse"
+          },
+          "coords": [
+            4.3294,
+            51.8465
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie die morgendliche Atmosphäre.",
+            "hu": "Parkolja le a kerékpárt, és élvezze a reggeli hangulatot.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosfera de dimineață.",
+            "en": "Park your bike and enjoy the morning atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "De Boekenberg",
+            "hu": "De Boekenberg (Könyvhegy)",
+            "ro": "De Boekenberg (Muntele de Cărți)",
+            "en": "De Boekenberg (The Book Mountain)"
+          },
+          "coords": [
+            4.3315,
+            51.845
+          ],
+          "category": "cultural-centre",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein architektonisches Wunder, das man gesehen haben muss.",
+            "hu": "Ezt az építészeti csodát látni kell.",
+            "ro": "O minune arhitecturală de neratat.",
+            "en": "An architectural marvel that is a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater de Stoep",
+            "hu": "De Stoep Színház",
+            "ro": "Teatrul de Stoep",
+            "en": "Theater de Stoep"
+          },
+          "coords": [
+            4.3389,
+            51.8519
+          ],
+          "category": "theatre",
+          "arrive_at": "10:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von diesem futuristischen Gebäude.",
+            "hu": "Készítsen egy fotót erről a futurisztikus épületről.",
+            "ro": "Faceți o fotografie acestei clădiri futuriste.",
+            "en": "Take a picture of this futuristic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Spijkenisserbrug",
+            "hu": "Spijkenisse híd",
+            "ro": "Podul Spijkenisse",
+            "en": "Spijkenisse Bridge"
+          },
+          "coords": [
+            4.3499,
+            51.8545
+          ],
+          "category": "bridge",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Schiffe, die unter dieser beeindruckenden Hubbrücke hindurchfahren.",
+            "hu": "Nézze a hajókat, amint áthaladnak e lenyűgöző emelőhíd alatt.",
+            "ro": "Urmăriți navele care trec pe sub acest pod levator impresionant.",
+            "en": "Watch the ships pass under this impressive lift bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Oude Kerk",
+            "hu": "Régi templom",
+            "ro": "Biserica Veche",
+            "en": "Old Church"
+          },
+          "coords": [
+            4.3288,
+            51.8471
+          ],
+          "category": "church",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein Moment der Ruhe nach der Radtour.",
+            "hu": "Egy pillanatnyi béke a biciklizés után.",
+            "ro": "Un moment de liniște după plimbarea cu bicicleta.",
+            "en": "A moment of peace after the bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Hartelpark",
+            "hu": "Hartelpark",
+            "ro": "Parcul Hartel",
+            "en": "Hartelpark"
+          },
+          "coords": [
+            4.3164,
+            51.8436
+          ],
+          "category": "park",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Zeit für das Mittagessen und zum Ausruhen der Beine.",
+            "hu": "Itt az ideje az ebédnek és a lábak pihentetésének.",
+            "ro": "Timpul pentru prânz și pentru a vă odihni picioarele.",
+            "en": "Time for lunch and to rest your legs."
+          }
+        },
+        {
+          "name": {
+            "de": "Bernisse",
+            "hu": "Bernisse",
+            "ro": "Bernisse",
+            "en": "Bernisse"
+          },
+          "coords": [
+            4.28,
+            51.82
+          ],
+          "category": "natural-feature",
+          "arrive_at": "15:10",
+          "stay_min": 115,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Natur und die Freizeitmöglichkeiten in diesem weitläufigen Erholungsgebiet.",
+            "hu": "Élvezze a természetet és a szabadidős lehetőségeket ezen a tágas üdülőterületen.",
+            "ro": "Bucurați-vă de natură și de activitățile recreative din această zonă extinsă.",
+            "en": "Enjoy nature and the recreational activities in this vast area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour auf dem Markt, radeln Sie zu den modernen Wahrzeichen De Boekenberg und Theater de Stoep und überqueren Sie die beeindruckende Spijkenisserbrug. Am Mittag kehren Sie zur historischen Oude Kerk zurück, bevor Sie im Hartelpark zu Mittag essen. Der Nachmittag ist einer längeren, aber lohnenden Fahrt zum Erholungsgebiet Bernisse gewidmet, wo Sie sich in der Natur entspannen und den Tag ausklingen lassen können.",
+        "hu": "Kezdje a kerékpártúrát a piactéren, tekerjen el a modern De Boekenberg és a Theater de Stoep épületeihez, majd keljen át a lenyűgöző Spijkenisserbrug hídon. Délben térjen vissza a történelmi Oude Kerkhez, mielőtt megebédel a Hartelparkban. A délutánt egy hosszabb, de megéri túrának szentelik a Bernisse üdülőterületre, ahol pihenhet a természetben és lezárhatja a napot.",
+        "ro": "Începeți turul cu bicicleta din piață, pedalați spre reperele moderne De Boekenberg și Teatrul de Stoep și traversați impresionantul pod Spijkenisserbrug. La prânz, reveniți la istorica Biserică Veche înainte de a lua masa în Parcul Hartel. După-amiaza este dedicată unei plimbări mai lungi, dar pline de satisfacții, spre zona de agrement Bernisse, unde vă puteți relaxa în natură.",
+        "en": "Start your bike tour at the market, cycle to the modern landmarks of De Boekenberg and Theater de Stoep, and cross the impressive Spijkenisserbrug bridge. At midday, return to the historic Old Church before having lunch in Hartelpark. The afternoon is dedicated to a longer but rewarding ride to the Bernisse recreational area, where you can relax in nature to end your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stroopwafel",
+            "tip": "Holen Sie sich eine frische, warme Stroopwafel als Energielieferant."
+          },
+          {
+            "name": "Friet Speciaal",
+            "tip": "Holländische Pommes mit Mayonnaise, Curry-Ketchup und Zwiebeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stroopwafel",
+            "tip": "Szerezzen be egy friss, meleg stroopwafelt energiának."
+          },
+          {
+            "name": "Friet Speciaal",
+            "tip": "Holland sült krumpli majonézzel, curry ketchuppal és hagymával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stroopwafel",
+            "tip": "Luați un stroopwafel proaspăt și cald pentru un plus de energie."
+          },
+          {
+            "name": "Friet Speciaal",
+            "tip": "Cartofi prăjiți olandezi cu maioneză, ketchup curry și ceapă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stroopwafel",
+            "tip": "Get a fresh, warm stroopwafel for an energy boost."
+          },
+          {
+            "name": "Friet Speciaal",
+            "tip": "Dutch fries with mayonnaise, curry ketchup, and onions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bernisse Erholungsgebiet",
+            "tip": "Finden Sie einen ruhigen Platz am See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hartelpark am frühen Morgen",
+            "tip": "Genießen Sie die Stille, bevor die Stadt erwacht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bernisse üdülőterület",
+            "tip": "Keressen egy csendes helyet a tónál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hartelpark kora reggel",
+            "tip": "Élvezze a csendet, mielőtt a város felébred.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona de agrement Bernisse",
+            "tip": "Găsiți un loc liniștit lângă lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Hartel dimineața devreme",
+            "tip": "Bucurați-vă de liniște înainte ca orașul să se trezească.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bernisse Recreational Area",
+            "tip": "Find a quiet spot by the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hartelpark in the early morning",
+            "tip": "Enjoy the quiet before the city wakes up.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Finden Sie einzigartiges Zubehör oder mieten Sie ein besseres Fahrrad."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie lokales Brot und Gebäck für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Találjon egyedi kiegészítőket, vagy béreljen egy jobb kerékpárt."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon helyi kenyeret és péksüteményt egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Găsiți accesorii unice sau închiriați o bicicletă mai bună."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați pâine și produse de patiserie locale pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "Find unique accessories or rent a better bike."
+          },
+          {
+            "name": "Local bakeries",
+            "tip": "Buy local bread and pastries for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist.",
+          "Bringen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen zu sichern.",
+          "Fahrradwege sind gut markiert, folgen Sie einfach den Schildern."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy a kerékpárja jó állapotban van.",
+          "Hozzon magával lakatot, hogy lezárja a kerékpárt a megállóknál.",
+          "A kerékpárutak jól ki vannak táblázva, csak kövesse a jelzéseket."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este în stare bună.",
+          "Aduceți un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Pistele de biciclete sunt bine marcate, urmați semnele."
+        ],
+        "en": [
+          "Make sure your bike is in good condition.",
+          "Bring a lock to secure your bike at stops.",
+          "Bike paths are well-marked, just follow the signs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 24.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Központi Parkoló",
+            "ro": "Parcare Centru",
+            "en": "Central Parking"
+          },
+          "coords": [
+            4.328,
+            51.8475
+          ],
+          "category": "parking",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das Stadtzentrum zu erkunden.",
+            "hu": "Parkoljon itt a városközpont felfedezéséhez.",
+            "ro": "Parcați aici pentru a explora centrul orașului.",
+            "en": "Park here to explore the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt Spijkenisse",
+            "hu": "Spijkenisse piactér",
+            "ro": "Piața Spijkenisse",
+            "en": "Market Square Spijkenisse"
+          },
+          "coords": [
+            4.3294,
+            51.8465
+          ],
+          "category": "square",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der belebte Mittelpunkt der Stadt.",
+            "hu": "A város nyüzsgő központja.",
+            "ro": "Centrul plin de viață al orașului.",
+            "en": "The bustling heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Oude Kerk",
+            "hu": "Régi templom",
+            "ro": "Biserica Veche",
+            "en": "Old Church"
+          },
+          "coords": [
+            4.3288,
+            51.8471
+          ],
+          "category": "church",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Marktplatz entfernt.",
+            "hu": "Egy rövid séta a piactérről.",
+            "ro": "O scurtă plimbare de la piață.",
+            "en": "A short walk from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "De Boekenberg",
+            "hu": "De Boekenberg",
+            "ro": "De Boekenberg",
+            "en": "De Boekenberg"
+          },
+          "coords": [
+            4.3315,
+            51.845
+          ],
+          "category": "cultural-centre",
+          "arrive_at": "10:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das letzte Ziel in diesem Cluster.",
+            "hu": "Az utolsó megálló ebben a klaszterben.",
+            "ro": "Ultima oprire din acest grup.",
+            "en": "The final stop in this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater de Stoep",
+            "hu": "De Stoep Színház",
+            "ro": "Teatrul de Stoep",
+            "en": "Theater de Stoep"
+          },
+          "coords": [
+            4.3389,
+            51.8519
+          ],
+          "category": "theatre",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem modernen Wunder und parken Sie in der Nähe.",
+            "hu": "Vezessen ehhez a modern csodához, és parkoljon a közelben.",
+            "ro": "Conduceți la această minune modernă și parcați în apropiere.",
+            "en": "Drive to this modern marvel and park nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Bernisse Erholungsgebiet",
+            "hu": "Bernisse üdülőterület",
+            "ro": "Zona de agrement Bernisse",
+            "en": "Bernisse Recreational Area"
+          },
+          "coords": [
+            4.28,
+            51.82
+          ],
+          "category": "natural-feature",
+          "arrive_at": "13:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zeit für Natur, Mittagessen und Entspannung.",
+            "hu": "Ideje a természetnek, ebédnek és pihenésnek.",
+            "ro": "Timp pentru natură, prânz și relaxare.",
+            "en": "Time for nature, lunch, and relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Hartelpark",
+            "hu": "Hartelpark",
+            "ro": "Parcul Hartel",
+            "en": "Hartelpark"
+          },
+          "coords": [
+            4.3164,
+            51.8436
+          ],
+          "category": "park",
+          "arrive_at": "15:40",
+          "stay_min": 65,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages für einen ruhigen Spaziergang.",
+            "hu": "A nap utolsó megállója egy békés sétára.",
+            "ro": "Ultima oprire a zilei pentru o plimbare liniștită.",
+            "en": "The last stop of the day for a peaceful walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens parken Sie Ihr Auto im Zentrum und erkunden zu Fuß den Marktplatz, die Oude Kerk und De Boekenberg. Mittags fahren Sie zum futuristischen Theater de Stoep. Der Nachmittag ist der Natur gewidmet, mit einer Fahrt zum weitläufigen Erholungsgebiet Bernisse für Mittagessen und Entspannung. Der Tag endet mit einem Halt im Hartelpark, bevor Sie die Heimreise antreten.",
+        "hu": "Reggel parkolja le autóját a központban, és fedezze fel gyalog a Piacteret, az Oude Kerket és a De Boekenberget. Délben vezessen át a futurisztikus Theater de Stoephez. A délután a természeté, egy autós kirándulással a tágas Bernisse üdülőterületre ebédelni és pihenni. A nap a Hartelparkban tett megállóval zárul, mielőtt hazaindulna.",
+        "ro": "Dimineața, parcați mașina în centru și explorați pe jos Piața, Biserica Veche și De Boekenberg. La prânz, conduceți la futuristul Teatru de Stoep. După-amiaza este dedicată naturii, cu o excursie cu mașina la vasta zonă de agrement Bernisse pentru prânz și relaxare. Ziua se încheie cu o oprire în Parcul Hartel înainte de a vă întoarce.",
+        "en": "In the morning, park your car in the center and explore the Market Square, Old Church, and De Boekenberg on foot. At midday, you'll drive to the futuristic Theater de Stoep. The afternoon is for nature, with a drive to the vast Bernisse recreational area for lunch and relaxation. The day concludes with a stop at Hartelpark before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kibbeling",
+            "tip": "Gebratene Fischstücke, perfekt für ein Mittagessen am Wasser."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Holländischer Apfelkuchen mit Schlagsahne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kibbeling",
+            "tip": "Sült haldarabok, tökéletes ebéd a vízparton."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Holland almatorta tejszínhabbal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kibbeling",
+            "tip": "Bucăți de pește prăjit, perfecte pentru un prânz lângă apă."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Plăcintă olandeză cu mere și frișcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kibbeling",
+            "tip": "Fried fish chunks, perfect for a lunch by the water."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Dutch apple pie with whipped cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bernisse See",
+            "tip": "Mieten Sie ein Boot oder finden Sie einen abgelegenen Angelplatz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Fluss",
+            "tip": "Ein ruhiger Weg in der Nähe der Spijkenisserbrug.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bernisse-tó",
+            "tip": "Béreljen csónakot, vagy keressen egy eldugott horgászhelyet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Folyóparti séta",
+            "tip": "Egy csendes ösvény a Spijkenisserbrug közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Bernisse",
+            "tip": "Închiriați o barcă sau găsiți un loc de pescuit retras.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "O potecă liniștită lângă podul Spijkenisserbrug.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Bernisse",
+            "tip": "Rent a boat or find a secluded fishing spot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "River walk",
+            "tip": "A quiet path near the Spijkenisserbrug bridge.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Nähe von Bernisse",
+            "tip": "Kaufen Sie frische Produkte direkt vom Bauernhof."
+          },
+          {
+            "name": "Einkaufszentrum",
+            "tip": "Für alle Ihre praktischen Einkaufsbedürfnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok Bernisse közelében",
+            "tip": "Vásároljon friss termékeket közvetlenül a gazdaságból."
+          },
+          {
+            "name": "Bevásárlóközpont",
+            "tip": "Minden gyakorlati bevásárlási igényhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă lângă Bernisse",
+            "tip": "Cumpărați produse proaspete direct de la sursă."
+          },
+          {
+            "name": "Centrul comercial",
+            "tip": "Pentru toate nevoile practice de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops near Bernisse",
+            "tip": "Buy fresh produce straight from the farm."
+          },
+          {
+            "name": "Shopping Mall",
+            "tip": "For all your practical shopping needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkgebühren und -zeiten.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein.",
+          "Ein GPS ist unerlässlich, um zwischen den Clustern zu navigieren."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat és időket.",
+          "Tervezzen plusz időt a forgalomra.",
+          "GPS elengedhetetlen a klaszterek közötti navigáláshoz."
+        ],
+        "ro": [
+          "Verificați taxele și orele de parcare.",
+          "Planificați timp suplimentar pentru trafic.",
+          "Un GPS este esențial pentru a naviga între grupuri."
+        ],
+        "en": [
+          "Check parking fees and times.",
+          "Plan for extra time for traffic.",
+          "A GPS is essential for navigating between the clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 11.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Zentrum",
+            "hu": "Központi buszmegálló",
+            "ro": "Stația de autobuz Centru",
+            "en": "Central Bus Stop"
+          },
+          "coords": [
+            4.33,
+            51.846
+          ],
+          "category": "transit-stop",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihren Tag, im Herzen des öffentlichen Verkehrsnetzes.",
+            "hu": "Kezdje itt a napot, a tömegközlekedési hálózat szívében.",
+            "ro": "Începeți ziua aici, în inima rețelei de transport public.",
+            "en": "Start your day here, in the heart of the public transport network."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt Spijkenisse",
+            "hu": "Spijkenisse piactér",
+            "ro": "Piața Spijkenisse",
+            "en": "Market Square Spijkenisse"
+          },
+          "coords": [
+            4.3294,
+            51.8465
+          ],
+          "category": "square",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Haltestelle.",
+            "hu": "Rövid séta a megállótól.",
+            "ro": "O scurtă plimbare de la stație.",
+            "en": "A short walk from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "De Boekenberg",
+            "hu": "De Boekenberg",
+            "ro": "De Boekenberg",
+            "en": "De Boekenberg"
+          },
+          "coords": [
+            4.3315,
+            51.845
+          ],
+          "category": "cultural-centre",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur, bevor Sie eintreten.",
+            "hu": "Csodálja meg az építészetet, mielőtt belép.",
+            "ro": "Admirați arhitectura înainte de a intra.",
+            "en": "Admire the architecture before you enter."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater de Stoep",
+            "hu": "De Stoep Színház",
+            "ro": "Teatrul de Stoep",
+            "en": "Theater de Stoep"
+          },
+          "coords": [
+            4.3389,
+            51.8519
+          ],
+          "category": "theatre",
+          "arrive_at": "11:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zu diesem nächsten Cluster.",
+            "hu": "Vegyen buszt a következő klaszterhez.",
+            "ro": "Luați un autobuz spre următorul grup.",
+            "en": "Take a bus to this next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Spijkenisserbrug",
+            "hu": "Spijkenisse híd",
+            "ro": "Podul Spijkenisse",
+            "en": "Spijkenisse Bridge"
+          },
+          "coords": [
+            4.3499,
+            51.8545
+          ],
+          "category": "bridge",
+          "arrive_at": "12:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf den Fluss von diesem beeindruckenden Bauwerk.",
+            "hu": "Élvezze a folyóra nyíló kilátást erről a lenyűgöző építményről.",
+            "ro": "Bucurați-vă de priveliștea râului de pe această structură impresionantă.",
+            "en": "Enjoy the river views from this impressive structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Hartelpark",
+            "hu": "Hartelpark",
+            "ro": "Parcul Hartel",
+            "en": "Hartelpark"
+          },
+          "coords": [
+            4.3164,
+            51.8436
+          ],
+          "category": "park",
+          "arrive_at": "14:15",
+          "stay_min": 140,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Park für ein entspanntes Mittagessen und einen Nachmittag.",
+            "hu": "Vegyen buszt a parkba egy pihentető ebédhez és délutánhoz.",
+            "ro": "Luați un autobuz spre parc pentru un prânz relaxant și o după-amiază.",
+            "en": "Take a bus to the park for a relaxing lunch and afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Bus ins Zentrum, um den Marktplatz und De Boekenberg zu Fuß zu erkunden. Am Mittag bringt Sie ein kurzer Bus zum futuristischen Theater de Stoep und zur nahegelegenen Spijkenisserbrug. Der Nachmittag ist für eine längere Busfahrt zum Hartelpark reserviert, wo Sie picknicken, sich entspannen und die grüne Seite von Spijkenisse genießen können, bevor Sie nach Hause fahren.",
+        "hu": "Kezdje a napot busszal a központba, hogy gyalog fedezze fel a Piacteret és a De Boekenberget. Délben egy rövid buszút elviszi a futurisztikus Theater de Stoephez és a közeli Spijkenisserbrug hídhoz. A délután egy hosszabb buszútra van fenntartva a Hartelparkba, ahol piknikezhet, pihenhet és élvezheti Spijkenisse zöld oldalát, mielőtt hazaindulna.",
+        "ro": "Începeți ziua luând autobuzul spre centru pentru a explora pe jos Piața și De Boekenberg. La prânz, o scurtă călătorie cu autobuzul vă duce la futuristul Teatru de Stoep și la podul Spijkenisserbrug din apropiere. După-amiaza este rezervată unei călătorii mai lungi cu autobuzul spre Parcul Hartel, unde puteți face un picnic, vă puteți relaxa și vă puteți bucura de partea verde a Spijkenisse înainte de a vă întoarce.",
+        "en": "Start your day by taking a bus to the center to explore the Market Square and De Boekenberg on foot. At midday, a short bus ride takes you to the futuristic Theater de Stoep and the nearby Spijkenisserbrug bridge. The afternoon is reserved for a longer bus journey to Hartelpark, where you can picnic, relax, and enjoy the green side of Spijkenisse before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "Ein klassisches niederländisches Sandwich, perfekt für unterwegs."
+          },
+          {
+            "name": "Tompouce",
+            "tip": "Ein süßes Gebäck, das man in jeder Bäckerei findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "Klasszikus holland szendvics, tökéletes útközben."
+          },
+          {
+            "name": "Tompouce",
+            "tip": "Édes sütemény, minden pékségben megtalálható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "Un sandviș olandez clasic, perfect pentru a fi luat la pachet."
+          },
+          {
+            "name": "Tompouce",
+            "tip": "Un produs de patiserie dulce găsit în orice brutărie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "A classic Dutch sandwich, perfect for on the go."
+          },
+          {
+            "name": "Tompouce",
+            "tip": "A sweet pastry found in any bakery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leseecke in De Boekenberg",
+            "tip": "Finden Sie einen ruhigen Platz zum Lesen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bank im Hartelpark",
+            "tip": "Beobachten Sie die Welt an sich vorbeiziehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasósarok a De Boekenbergben",
+            "tip": "Keressen egy csendes helyet az olvasáshoz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pad a Hartelparkban",
+            "tip": "Nézze, ahogy elhalad a világ.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colț de lectură în De Boekenberg",
+            "tip": "Găsiți un loc liniștit pentru a citi.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bancă în Parcul Hartel",
+            "tip": "Priviți lumea cum trece.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading nook in De Boekenberg",
+            "tip": "Find a quiet spot to read.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bench in Hartelpark",
+            "tip": "Watch the world go by.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt Spijkenisse",
+            "tip": "Kaufen Sie lokale Käsesorten und Souvenirs."
+          },
+          {
+            "name": "Buchhandlung in De Boekenberg",
+            "tip": "Ein einzigartiges Buch als Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spijkenisse piac",
+            "tip": "Vásároljon helyi sajtokat és szuveníreket."
+          },
+          {
+            "name": "Könyvesbolt a De Boekenbergben",
+            "tip": "Egy egyedi könyv emlékbe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Spijkenisse",
+            "tip": "Cumpărați brânzeturi locale și suveniruri."
+          },
+          {
+            "name": "Librărie în De Boekenberg",
+            "tip": "O carte unică ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Spijkenisse",
+            "tip": "Buy local cheeses and souvenirs."
+          },
+          {
+            "name": "Bookstore in De Boekenberg",
+            "tip": "A unique book as a memento."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
+          "Laden Sie die App des lokalen Verkehrsunternehmens für Echtzeit-Fahrpläne herunter.",
+          "Beachten Sie die letzte Busverbindung zurück."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez.",
+          "Töltse le a helyi közlekedési vállalat alkalmazását a valós idejű menetrendekért.",
+          "Figyeljen az utolsó buszjáratra visszafelé."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public.",
+          "Descărcați aplicația companiei locale de transport pentru orare în timp real.",
+          "Fiți atenți la ultimul autobuz de întoarcere."
+        ],
+        "en": [
+          "Buy a day pass for public transport.",
+          "Download the local transport company's app for real-time schedules.",
+          "Be mindful of the last bus back."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1684 @@
+{
+  "city_id": "czechrepublic-karlovy-vary-cities-v2",
+  "anchor": {
+    "name": "Karlsbad",
+    "coords": [
+      12.872,
+      50.2319
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Jan-Becher-Museum",
+            "hu": "Jan Becher Múzeum",
+            "ro": "Muzeul Jan Becher",
+            "en": "Jan Becher Museum"
+          },
+          "coords": [
+            12.8644,
+            50.2325
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Buchen Sie die Tour im Voraus, um die Geschichte des berühmten Kräuterlikörs zu entdecken.",
+            "hu": "Foglaljon előre túrát, hogy megismerje a híres gyógynövénylikőr történetét.",
+            "ro": "Rezervați turul în avans pentru a descoperi istoria faimosului lichior de plante.",
+            "en": "Book the tour in advance to discover the history of the famous herbal liqueur."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühlbrunnkolonnade",
+            "hu": "Malomkő-kolonnád",
+            "ro": "Coloana Morii",
+            "en": "Mill Colonnade"
+          },
+          "coords": [
+            12.8792,
+            50.2268
+          ],
+          "category": "landmark",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Probieren Sie das Wasser aus verschiedenen Quellen, jede hat eine andere Temperatur und Mineralzusammensetzung.",
+            "hu": "Kóstolja meg a különböző források vizét, mindegyiknek más a hőmérséklete és az ásványi összetétele.",
+            "ro": "Gustați apa din diferitele izvoare; fiecare are o temperatură și o compoziție minerală diferită.",
+            "en": "Taste the water from the different springs; each has a different temperature and mineral composition."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktkolonnade",
+            "hu": "Piaci kolonnád",
+            "ro": "Coloana Pieței",
+            "en": "Market Colonnade"
+          },
+          "coords": [
+            12.8811,
+            50.2248
+          ],
+          "category": "landmark",
+          "arrive_at": "11:50",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die filigrane Holzschnitzerei dieser im Schweizer Stil erbauten Kolonnade.",
+            "hu": "Csodálja meg a svájci stílusban épült kolonnád finom fafaragásait.",
+            "ro": "Admirați sculptura delicată în lemn a acestei colonade construite în stil elvețian.",
+            "en": "Admire the delicate woodcarving of this Swiss-style colonnade."
+          }
+        },
+        {
+          "name": {
+            "de": "Sprudelkolonnade (Vřídelní)",
+            "hu": "Forrás-kolonnád (Vřídelní)",
+            "ro": "Coloana Sprudel (Vřídelní)",
+            "en": "Sprudel Colonnade (Vřídelní)"
+          },
+          "coords": [
+            12.8821,
+            50.2238
+          ],
+          "category": "landmark",
+          "arrive_at": "12:20",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sehen Sie den Geysir, der heißes Mineralwasser bis zu 12 Meter in die Höhe schießt.",
+            "hu": "Nézze meg a gejzírt, amely akár 12 méter magasra is fellövi a forró ásványvizet.",
+            "ro": "Urmăriți gheizerul care aruncă apă minerală fierbinte până la 12 metri în aer.",
+            "en": "Watch the geyser that shoots hot mineral water up to 12 meters high."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Maria Magdalena",
+            "hu": "Szent Mária Magdolna-templom",
+            "ro": "Biserica Sf. Maria Magdalena",
+            "en": "Church of St. Mary Magdalene"
+          },
+          "coords": [
+            12.8828,
+            50.2232
+          ],
+          "category": "churches",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk des Barocks von Kilian Ignaz Dientzenhofer. Beachten Sie die reiche Innenausstattung.",
+            "hu": "Kilian Ignaz Dientzenhofer barokk mesterműve. Figyelje meg a gazdag belső díszítést.",
+            "ro": "O capodoperă barocă de Kilian Ignaz Dientzenhofer. Observați interiorul bogat decorat.",
+            "en": "A Baroque masterpiece by Kilian Ignaz Dientzenhofer. Note the rich interior decoration."
+          }
+        },
+        {
+          "name": {
+            "de": "Grandhotel Pupp",
+            "hu": "Grandhotel Pupp",
+            "ro": "Grandhotel Pupp",
+            "en": "Grandhotel Pupp"
+          },
+          "coords": [
+            12.8812,
+            50.2201
+          ],
+          "category": "landmark",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich einen Kaffee und Kuchen im Café Pupp und fühlen Sie sich wie in einem James-Bond-Film.",
+            "hu": "Kényeztesse magát egy kávéval és süteménnyel a Café Puppban, és érezze magát egy James Bond-filmben.",
+            "ro": "Savurați o cafea și o prăjitură la Café Pupp și simțiți-vă ca într-un film cu James Bond.",
+            "en": "Treat yourself to a coffee and cake at Café Pupp and feel like you're in a James Bond movie."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsturm Diana",
+            "hu": "Diana-kilátó",
+            "ro": "Turnul de observație Diana",
+            "en": "Diana Observation Tower"
+          },
+          "coords": [
+            12.875,
+            50.2186
+          ],
+          "category": "towers",
+          "arrive_at": "15:35",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Standseilbahn für einen einfachen Aufstieg und genießen Sie die Panoramaaussicht.",
+            "hu": "Használja a siklót a könnyű feljutáshoz, és élvezze a panorámát.",
+            "ro": "Luați funicularul pentru o urcare ușoară și bucurați-vă de priveliștea panoramică.",
+            "en": "Take the funicular for an easy ascent and enjoy the panoramic views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Geschmack von Becherovka im Jan-Becher-Museum. Schlendern Sie dann entlang des Flusses Teplá zu den prächtigen Kolonnaden, dem Herzen von Karlsbad, wo Sie die Heilquellen probieren können. Der Vormittag gehört der eleganten Architektur des Kurortes. Am Nachmittag erklimmen Sie die Höhen zum Diana-Aussichtsturm. Der Spaziergang durch die Kurwälder ist erfrischend und die Aussicht von oben belohnt jeden Schritt. Zum Abschluss des Tages können Sie die Atmosphäre im legendären Grandhotel Pupp genießen, vielleicht bei einem traditionellen böhmischen Abendessen.",
+        "hu": "Kezdje a napot a Becherovka ízével a Jan Becher Múzeumban. Sétáljon a Teplá folyó mentén a csodálatos kolonnádokhoz, Karlovy Vary szívéhez, ahol megkóstolhatja a gyógyforrásokat. A délelőtt a fürdőváros elegáns építészetéé. Délután mássza meg a Diana-kilátó magasságait. A gyógyerdőkön át vezető séta frissítő, és a fentről nyíló kilátás minden lépést megér. A nap zárásaként élvezze a legendás Grandhotel Pupp hangulatát, talán egy hagyományos cseh vacsora mellett.",
+        "ro": "Începeți ziua cu gustul de Becherovka la Muzeul Jan Becher. Plimbați-vă apoi de-a lungul râului Teplá până la splendidele colonade, inima orașului Karlovy Vary, unde puteți gusta izvoarele vindecătoare. Dimineața este dedicată arhitecturii elegante a stațiunii. După-amiaza, urcați pe înălțimile Turnului de Observație Diana. Plimbarea prin pădurile balneare este revigorantă, iar priveliștea de sus recompensează fiecare pas. Încheiați ziua bucurându-vă de atmosfera legendarului Grandhotel Pupp, poate cu o cină tradițională boemă.",
+        "en": "Start your day with the taste of Becherovka at the Jan Becher Museum. Then, stroll along the Teplá River to the magnificent colonnades, the heart of Karlovy Vary, where you can taste the healing springs. The morning is dedicated to the spa town's elegant architecture. In the afternoon, climb the heights to the Diana Observation Tower. The walk through the spa forests is refreshing, and the view from the top rewards every step. End the day by enjoying the atmosphere at the legendary Grandhotel Pupp, perhaps with a traditional Bohemian dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Becherovka",
+            "tip": "Probieren Sie den berühmten Kräuterlikör pur oder als Teil eines Cocktails."
+          },
+          {
+            "name": "Karlsbader Oblaten (Lázeňské oplatky)",
+            "tip": "Eine süße, knusprige Waffel, perfekt als Snack beim Spazierengehen."
+          },
+          {
+            "name": "Restaurant Le Marché",
+            "tip": "Erlebnisgastronomie mit täglich wechselndem Menü je nach saisonalen Zutaten."
+          },
+          {
+            "name": "Promenáda Restaurant",
+            "tip": "Elegantes Restaurant mit Fokus auf moderne tschechische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Becherovka",
+            "tip": "Kóstolja meg a híres gyógynövénylikőrt tisztán vagy egy koktél részeként."
+          },
+          {
+            "name": "Karlovy Vary-i ostya (Lázeňské oplatky)",
+            "tip": "Édes, ropogós ostya, tökéletes harapnivaló séta közben."
+          },
+          {
+            "name": "Le Marché Étterem",
+            "tip": "Élménygasztronómia naponta változó menüvel, szezonális alapanyagokból."
+          },
+          {
+            "name": "Promenáda Étterem",
+            "tip": "Elegáns étterem a modern cseh konyhára fókuszálva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Becherovka",
+            "tip": "Gustați faimosul lichior de plante simplu sau ca parte a unui cocktail."
+          },
+          {
+            "name": "Napolitane Karlovy Vary (Lázeňské oplatky)",
+            "tip": "O vafă dulce și crocantă, perfectă ca gustare în timpul plimbării."
+          },
+          {
+            "name": "Restaurant Le Marché",
+            "tip": "Gastronomie experiențială cu un meniu care se schimbă zilnic în funcție de ingredientele de sezon."
+          },
+          {
+            "name": "Restaurant Promenáda",
+            "tip": "Un restaurant elegant axat pe bucătăria cehă modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Becherovka",
+            "tip": "Taste the famous herbal liqueur straight or as part of a cocktail."
+          },
+          {
+            "name": "Karlovy Vary Spa Wafers (Lázeňské oplatky)",
+            "tip": "A sweet, crispy wafer, perfect as a snack while walking."
+          },
+          {
+            "name": "Restaurant Le Marché",
+            "tip": "Experiential dining with a daily changing menu based on seasonal ingredients."
+          },
+          {
+            "name": "Promenáda Restaurant",
+            "tip": "An elegant restaurant focusing on modern Czech cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang der Teplá",
+            "tip": "Finden Sie eine ruhige Bank abseits der Hauptpromenade und lauschen Sie dem Plätschern des Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kurwälder",
+            "tip": "Die Wälder rund um die Stadt bieten unzählige ruhige Wege zum Entspannen und Durchatmen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Goetheweg",
+            "tip": "Ein malerischer und weniger überlaufener Weg mit schönen Ausblicken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Teplá folyó mentén",
+            "tip": "Keressen egy csendes padot a fő sétánytól távol, és hallgassa a folyó csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gyógyerdők",
+            "tip": "A város körüli erdők számtalan csendes ösvényt kínálnak a pihenésre és a feltöltődésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Goethe-ösvény",
+            "tip": "Festői és kevésbé forgalmas ösvény, gyönyörű kilátással.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul râului Teplá",
+            "tip": "Găsiți o bancă liniștită departe de promenada principală și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurile balneare",
+            "tip": "Pădurile din jurul orașului oferă nenumărate poteci liniștite pentru relaxare și o gură de aer proaspăt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Poteca lui Goethe",
+            "tip": "O potecă pitorească și mai puțin aglomerată, cu priveliști frumoase.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stroll along the Teplá River",
+            "tip": "Find a quiet bench away from the main promenade and listen to the babbling river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The Spa Forests",
+            "tip": "The forests surrounding the town offer countless quiet paths to relax and breathe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Goethe's Path",
+            "tip": "A picturesque and less crowded path with beautiful views.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Moser-Glas",
+            "tip": "Kaufen Sie weltberühmtes böhmisches Kristall direkt von der Quelle."
+          },
+          {
+            "name": "Becherovka-Shop",
+            "tip": "Neben dem Likör gibt es hier auch viele Souvenirs rund um die Marke."
+          },
+          {
+            "name": "Karlsbader Porzellan",
+            "tip": "Finden Sie traditionelles und modernes Porzellandesign in den örtlichen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moser üveg",
+            "tip": "Vásároljon világhírű cseh kristályt közvetlenül a forrásból."
+          },
+          {
+            "name": "Becherovka bolt",
+            "tip": "A likőr mellett számos, a márkához kapcsolódó ajándéktárgyat is talál itt."
+          },
+          {
+            "name": "Karlovy Vary-i porcelán",
+            "tip": "Találjon hagyományos és modern porcelánterveket a helyi üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sticlărie Moser",
+            "tip": "Cumpărați cristal de Boemia de renume mondial direct de la sursă."
+          },
+          {
+            "name": "Magazin Becherovka",
+            "tip": "Pe lângă lichior, veți găsi și multe suveniruri legate de brand."
+          },
+          {
+            "name": "Porțelan de Karlovy Vary",
+            "tip": "Găsiți modele de porțelan tradiționale și moderne în magazinele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moser Glass",
+            "tip": "Buy world-famous Bohemian crystal directly from the source."
+          },
+          {
+            "name": "Becherovka Shop",
+            "tip": "Besides the liqueur, you'll also find many souvenirs related to the brand."
+          },
+          {
+            "name": "Karlovy Vary Porcelain",
+            "tip": "Find traditional and modern porcelain designs in the local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Kaufen Sie einen traditionellen Porzellan-Kurbecher, um das Mineralwasser stilvoll zu trinken.",
+          "Die Standseilbahn zum Diana-Turm ist eine große Hilfe, wenn Sie müde Beine haben.",
+          "Vergessen Sie nicht, Bargeld für kleinere Einkäufe und Trinkgelder mitzunehmen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog macskakövön sétálni.",
+          "Vásároljon egy hagyományos porcelán ivópoharat, hogy stílusosan ihassa az ásványvizet.",
+          "A Diana-kilátóhoz vezető sikló nagy segítség, ha elfáradt a lába.",
+          "Ne felejtsen el készpénzt vinni a kisebb vásárlásokhoz és a borravalóhoz."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe piatră cubică.",
+          "Cumpărați o cană balneară tradițională din porțelan pentru a bea apa minerală cu stil.",
+          "Funicularul către Turnul Diana este un mare ajutor dacă aveți picioarele obosite.",
+          "Nu uitați să aveți numerar pentru cumpărături mici și bacșișuri."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot on cobblestones.",
+          "Buy a traditional porcelain spa cup to drink the mineral water in style.",
+          "The funicular to the Diana Tower is a great help if your legs are tired.",
+          "Don't forget to bring cash for small purchases and tips."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Glashütte Moser",
+            "hu": "Moser Üveggyár",
+            "ro": "Fabrica de sticlă Moser",
+            "en": "Moser Glassworks"
+          },
+          "coords": [
+            12.8441,
+            50.2375
+          ],
+          "category": "industry",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Glasbläser bei der Arbeit und besuchen Sie das Museum, um die Kunstfertigkeit zu bewundern.",
+            "hu": "Nézze meg az üvegfúvókat munka közben, és látogasson el a múzeumba, hogy megcsodálja a művészetüket.",
+            "ro": "Urmăriți sticlarii la lucru și vizitați muzeul pentru a admira măiestria.",
+            "en": "Watch the glassblowers at work and visit the museum to admire the craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Jan-Becher-Museum",
+            "hu": "Jan Becher Múzeum",
+            "ro": "Muzeul Jan Becher",
+            "en": "Jan Becher Museum"
+          },
+          "coords": [
+            12.8644,
+            50.2325
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Eine interaktive Ausstellung, die mit einer Verkostung des berühmten Likörs endet.",
+            "hu": "Interaktív kiállítás, amely a híres likőr kóstolásával zárul.",
+            "ro": "O expoziție interactivă care se încheie cu o degustare a faimosului lichior.",
+            "en": "An interactive exhibition that ends with a tasting of the famous liqueur."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühlbrunnkolonnade",
+            "hu": "Malomkő-kolonnád",
+            "ro": "Coloana Morii",
+            "en": "Mill Colonnade"
+          },
+          "coords": [
+            12.8792,
+            50.2268
+          ],
+          "category": "landmark",
+          "arrive_at": "12:30",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um das Fahrrad abzustellen und die Atmosphäre der Kurpromenade aufzusaugen.",
+            "hu": "Tökéletes hely a kerékpár leállítására és a fürdővárosi sétány hangulatának élvezetére.",
+            "ro": "Locul perfect pentru a parca bicicleta și a absorbi atmosfera promenadei balneare.",
+            "en": "The perfect place to park your bike and soak up the atmosphere of the spa promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Sprudelkolonnade & Kirche St. Maria Magdalena",
+            "hu": "Forrás-kolonnád és Szent Mária Magdolna-templom",
+            "ro": "Coloana Sprudel și Biserica Sf. Maria Magdalena",
+            "en": "Sprudel Colonnade & St. Mary Magdalene Church"
+          },
+          "coords": [
+            12.8824,
+            50.2235
+          ],
+          "category": "landmark",
+          "arrive_at": "13:05",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch des heißen Geysirs mit einem Blick in die beeindruckende Barockkirche nebenan.",
+            "hu": "Kombinálja a forró gejzír megtekintését egy pillantással a lenyűgöző barokk templomra.",
+            "ro": "Combinați vizita la gheizerul fierbinte cu o privire în interiorul impresionantei biserici baroce de alături.",
+            "en": "Combine the visit to the hot geyser with a look inside the impressive Baroque church next door."
+          }
+        },
+        {
+          "name": {
+            "de": "Grandhotel Pupp",
+            "hu": "Grandhotel Pupp",
+            "ro": "Grandhotel Pupp",
+            "en": "Grandhotel Pupp"
+          },
+          "coords": [
+            12.8812,
+            50.2201
+          ],
+          "category": "landmark",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine luxuriöse Mittagspause oder einen Kaffee.",
+            "hu": "Ideális hely egy luxus ebédhez vagy egy kávéhoz.",
+            "ro": "Un loc ideal pentru o pauză de prânz de lux sau o cafea.",
+            "en": "An ideal spot for a luxurious lunch break or a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Flusses Ohře (Eger)",
+            "hu": "Kerékpárút az Ohře (Eger) folyó mentén",
+            "ro": "Plimbare pe malul râului Ohře (Eger)",
+            "en": "Ride along the Ohře (Eger) River"
+          },
+          "coords": [
+            12.895,
+            50.235
+          ],
+          "category": "park",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Radweg aus der Stadt heraus für eine ruhige Fahrt durch die Natur.",
+            "hu": "Kövesse a kerékpárutat a városból kifelé egy csendes, természetközeli tekerésért.",
+            "ro": "Urmați pista de biciclete în afara orașului pentru o plimbare liniștită prin natură.",
+            "en": "Follow the cycle path out of the city for a peaceful ride through nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the Center"
+          },
+          "coords": [
+            12.872,
+            50.2319
+          ],
+          "category": "city",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie einen letzten Spaziergang bei Sonnenuntergang.",
+            "hu": "Adja le a kerékpárt, és tegyen egy utolsó sétát naplementekor.",
+            "ro": "Returnați bicicleta și bucurați-vă de o ultimă plimbare la apus.",
+            "en": "Return your bike and enjoy a final stroll at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour bei der Glashütte Moser, etwas außerhalb des Zentrums. Radeln Sie dann entlang des Flusses ins Herz von Karlsbad, um das Jan-Becher-Museum und die berühmten Kolonnaden zu erkunden. Hier können Sie eine Pause einlegen und das Flair der Stadt genießen. Mittags geht es weiter zum Grandhotel Pupp. Der Nachmittag ist für eine ausgedehnte Radtour entlang des Flusses Ohře reserviert, die Sie aus dem Trubel der Stadt in die ruhige Natur führt und Ihnen eine andere Perspektive auf die Region bietet. Beenden Sie den Tag mit der Rückkehr ins Zentrum, um den Abend ausklingen zu lassen.",
+        "hu": "Kezdje a kerékpártúrát a Moser Üveggyárnál, kissé a központon kívül. Tekerjen a folyó mentén Karlovy Vary szívébe, hogy felfedezze a Jan Becher Múzeumot és a híres kolonnádokat. Itt tarthat egy szünetet és élvezheti a város hangulatát. Délben folytassa útját a Grandhotel Pupp felé. A délután egy hosszabb kerékpártúrára van fenntartva az Ohře folyó mentén, amely kivezet a város nyüzsgéséből a csendes természetbe, és más szemszögből mutatja be a régiót. Zárja a napot a központba való visszatéréssel, hogy levezesse az estét.",
+        "ro": "Începeți turul cu bicicleta la Fabrica de sticlă Moser, puțin în afara centrului. Apoi pedalați de-a lungul râului spre inima orașului Karlovy Vary pentru a explora Muzeul Jan Becher și faimoasele colonade. Aici puteți lua o pauză și vă puteți bucura de atmosfera orașului. La prânz, continuați spre Grandhotel Pupp. După-amiaza este rezervată unei plimbări extinse cu bicicleta de-a lungul râului Ohře, care vă scoate din agitația orașului în natura liniștită, oferindu-vă o perspectivă diferită asupra regiunii. Încheiați ziua întorcându-vă în centru pentru a vă relaxa seara.",
+        "en": "Start your bike tour at the Moser Glassworks, just outside the center. Then cycle along the river into the heart of Karlovy Vary to explore the Jan Becher Museum and the famous colonnades. Here you can take a break and enjoy the city's flair. At noon, continue to the Grandhotel Pupp. The afternoon is reserved for an extended bike ride along the Ohře River, taking you out of the city's hustle and bustle into peaceful nature, offering a different perspective of the region. End the day by returning to the center to wind down the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková",
+            "tip": "Ein klassisches tschechisches Gericht: Rinderbraten in Sahnesoße mit Knödeln."
+          },
+          {
+            "name": "Restaurant Charleston",
+            "tip": "Ein gemütliches Restaurant mit traditioneller Küche und freundlicher Atmosphäre."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Ein süßes Gebäck, das über offener Flamme gebacken wird - perfekt für einen Energieschub."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein kühles Pilsner Urquell oder ein lokales Craft-Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková",
+            "tip": "Klasszikus cseh étel: vadas marhaszelet tejszínes mártással és knédlivel."
+          },
+          {
+            "name": "Charleston Étterem",
+            "tip": "Hangulatos étterem hagyományos konyhával és barátságos légkörrel."
+          },
+          {
+            "name": "Trdelník (Kürtőskalács)",
+            "tip": "Nyílt lángon sütött édes sütemény - tökéletes energiafröccs."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy hideg Pilsner Urquellt vagy egy helyi kézműves sört."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková",
+            "tip": "Un fel de mâncare ceh clasic: friptură de vită în sos de smântână cu găluște."
+          },
+          {
+            "name": "Restaurant Charleston",
+            "tip": "Un restaurant primitor cu bucătărie tradițională și o atmosferă prietenoasă."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Un produs de patiserie dulce, copt pe foc deschis - perfect pentru un plus de energie."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încercați un Pilsner Urquell rece sau o bere artizanală locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková",
+            "tip": "A classic Czech dish: beef sirloin in cream sauce with dumplings."
+          },
+          {
+            "name": "Restaurant Charleston",
+            "tip": "A cozy restaurant with traditional cuisine and a friendly atmosphere."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "A sweet pastry baked over an open flame - perfect for an energy boost."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a cold Pilsner Urquell or a local craft beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Ohře-Fluss",
+            "tip": "Genießen Sie die Ruhe und die grüne Landschaft abseits der Touristenmassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dvořák-Parkanlagen (Dvořákovy sady)",
+            "tip": "Ein gepflegter Park, ideal für eine kurze Pause im Schatten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Japanischer Steingarten",
+            "tip": "Ein kleiner, friedlicher Garten, der zur Meditation einlädt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút az Ohře folyó mentén",
+            "tip": "Élvezze a csendet és a zöld tájat a turista tömegektől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dvořák Park (Dvořákovy sady)",
+            "tip": "Gondozott park, ideális egy rövid pihenőre az árnyékban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Japán sziklakert",
+            "tip": "Kicsi, békés kert, amely meditációra hív.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Ohře",
+            "tip": "Bucurați-vă de liniște și de peisajul verde departe de mulțimile de turiști.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Dvořák (Dvořákovy sady)",
+            "tip": "Un parc bine întreținut, ideal pentru o scurtă pauză la umbră.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina japoneză de piatră",
+            "tip": "O grădină mică și pașnică, care invită la meditație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ohře River Cycle Path",
+            "tip": "Enjoy the tranquility and green scenery away from the tourist crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dvořák Park (Dvořákovy sady)",
+            "tip": "A well-kept park, ideal for a short break in the shade.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Japanese Stone Garden",
+            "tip": "A small, peaceful garden that invites meditation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih & Zubehör",
+            "tip": "Es gibt mehrere Geschäfte in der Stadt, die Fahrräder vermieten und Zubehör verkaufen."
+          },
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Finden Sie Outdoor-Kleidung und Ausrüstung für Ihre Radtour."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Kaufen Sie frisches Obst oder einen Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönző és kiegészítők",
+            "tip": "A városban több üzlet is található, ahol kerékpárt lehet bérelni és kiegészítőket vásárolni."
+          },
+          {
+            "name": "Sportboltok",
+            "tip": "Találjon szabadtéri ruházatot és felszerelést a kerékpártúrájához."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Vásároljon friss gyümölcsöt vagy harapnivalót útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închiriere de biciclete și accesorii",
+            "tip": "Există mai multe magazine în oraș care închiriază biciclete și vând accesorii."
+          },
+          {
+            "name": "Magazine de sport",
+            "tip": "Găsiți îmbrăcăminte și echipament de exterior pentru turul cu bicicleta."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Cumpărați fructe proaspete sau o gustare pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rentals & Accessories",
+            "tip": "There are several shops in the city that rent bicycles and sell accessories."
+          },
+          {
+            "name": "Sports Shops",
+            "tip": "Find outdoor clothing and equipment for your bike tour."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Buy some fresh fruit or a snack for the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, um die Hügel rund um die Stadt leichter zu erklimmen.",
+          "Die meisten Hauptwege entlang des Flusses sind fahrradfreundlich, aber in der Fußgängerzone müssen Sie möglicherweise absteigen.",
+          "Nehmen Sie eine Wasserflasche mit und füllen Sie sie an den öffentlichen Brunnen (nicht an den heißen Quellen!).",
+          "Ein Helm wird für Ihre Sicherheit empfohlen."
+        ],
+        "hu": [
+          "Béreljen e-biciklit, hogy könnyebben megmássza a város körüli dombokat.",
+          "A folyó menti főbb utak többsége kerékpárbarát, de a sétálóövezetben le kell szállnia.",
+          "Vigyen magával egy vizes palackot, és töltse fel a közkutaknál (ne a forró forrásoknál!).",
+          "A biztonság érdekében sisak viselése ajánlott."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru a urca mai ușor dealurile din jurul orașului.",
+          "Majoritatea potecilor principale de-a lungul râului sunt potrivite pentru biciclete, dar este posibil să trebuiască să descălecați în zona pietonală.",
+          "Luați o sticlă de apă și umpleți-o de la fântânile publice (nu de la izvoarele termale!).",
+          "Se recomandă purtarea căștii pentru siguranța dumneavoastră."
+        ],
+        "en": [
+          "Rent an e-bike to climb the hills around the city more easily.",
+          "Most of the main paths along the river are bike-friendly, but you may need to dismount in the pedestrian zone.",
+          "Bring a water bottle and fill it up at the public fountains (not the hot springs!).",
+          "A helmet is recommended for your safety."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 11.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Start bei der Glashütte Moser",
+            "hu": "Parkolás és indulás a Moser Üveggyárnál",
+            "ro": "Parcare și start la Fabrica de sticlă Moser",
+            "en": "Park and Start at Moser Glassworks"
+          },
+          "coords": [
+            12.8441,
+            50.2375
+          ],
+          "category": "industry",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am Rande der Stadt, wo es genügend Parkplätze gibt. Beobachten Sie die Handwerkskunst der Glasbläser.",
+            "hu": "Kezdje a város szélén, ahol elegendő parkolóhely van. Figyelje meg az üvegfúvók kézműves munkáját.",
+            "ro": "Începeți la marginea orașului, unde există parcare suficientă. Urmăriți măiestria sticlarilor.",
+            "en": "Start on the edge of the city where there is ample parking. Watch the craftsmanship of the glassblowers."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kurzentrum & Parken",
+            "hu": "Utazás a gyógyközpontba és parkolás",
+            "ro": "Conduceți spre centrul balnear și parcați",
+            "en": "Drive to the Spa Center & Park"
+          },
+          "coords": [
+            12.876,
+            50.229
+          ],
+          "category": "city",
+          "arrive_at": "11:05",
+          "stay_min": 15,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkhaus Libušina nahe dem Zentrum. Von hier aus erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Vezessen a központhoz közeli Libušina parkolóházba. Innen gyalogosan fedezheti fel az első klasztert.",
+            "ro": "Conduceți până la parcarea Libušina, aproape de centru. De aici explorați primul cluster pe jos.",
+            "en": "Drive to the Libušina parking garage near the center. From here, explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühlbrunnkolonnade",
+            "hu": "Malomkő-kolonnád",
+            "ro": "Coloana Morii",
+            "en": "Mill Colonnade"
+          },
+          "coords": [
+            12.8792,
+            50.2268
+          ],
+          "category": "landmark",
+          "arrive_at": "11:25",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die größte Kolonnade Karlsbads, ein beeindruckendes Beispiel neoklassizistischer Architektur.",
+            "hu": "Karlovy Vary legnagyobb kolonnádja, a neoklasszicista építészet lenyűgöző példája.",
+            "ro": "Cea mai mare colonadă din Karlovy Vary, un exemplu impresionant de arhitectură neoclasică.",
+            "en": "The largest colonnade in Karlovy Vary, an impressive example of neoclassical architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt- & Sprudelkolonnade",
+            "hu": "Piaci és Forrás-kolonnád",
+            "ro": "Coloana Pieței și Sprudel",
+            "en": "Market & Sprudel Colonnades"
+          },
+          "coords": [
+            12.8815,
+            50.2243
+          ],
+          "category": "landmark",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die filigrane Holzkolonnade und den mächtigen Geysir, die nur wenige Schritte voneinander entfernt sind.",
+            "hu": "Fedezze fel a finom fa kolonnádot és a hatalmas gejzírt, amelyek csak pár lépésre vannak egymástól.",
+            "ro": "Descoperiți colonada delicată din lemn și gheizerul puternic, la doar câțiva pași una de cealaltă.",
+            "en": "Discover the delicate wooden colonnade and the powerful geyser, just a few steps apart."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Grandhotel Pupp",
+            "hu": "Utazás a Grandhotel Pupphoz",
+            "ro": "Conduceți spre Grandhotel Pupp",
+            "en": "Drive to Grandhotel Pupp"
+          },
+          "coords": [
+            12.8812,
+            50.2201
+          ],
+          "category": "landmark",
+          "arrive_at": "12:55",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie beim Hotel und genießen Sie ein Mittagessen in einem der berühmtesten Hotels Europas.",
+            "hu": "Parkoljon a szállodánál, és ebédeljen Európa egyik leghíresebb szállodájában.",
+            "ro": "Parcați la hotel și bucurați-vă de prânz într-unul dintre cele mai faimoase hoteluri din Europa.",
+            "en": "Park at the hotel and enjoy lunch in one of Europe's most famous hotels."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsturm Diana",
+            "hu": "Diana-kilátó",
+            "ro": "Turnul de observație Diana",
+            "en": "Diana Observation Tower"
+          },
+          "coords": [
+            12.875,
+            50.2186
+          ],
+          "category": "towers",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Vom Grandhotel Pupp bringt Sie die Standseilbahn direkt zum Turm. Das Auto kann stehen bleiben.",
+            "hu": "A Grandhotel Pupptól a sikló közvetlenül a toronyhoz viszi. Az autó maradhat a parkolóban.",
+            "ro": "De la Grandhotel Pupp, funicularul vă duce direct la turn. Mașina poate rămâne parcată.",
+            "en": "From the Grandhotel Pupp, the funicular takes you directly to the tower. The car can stay parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Jan-Becher-Museum",
+            "hu": "Utazás a Jan Becher Múzeumhoz",
+            "ro": "Conduceți spre Muzeul Jan Becher",
+            "en": "Drive to the Jan Becher Museum"
+          },
+          "coords": [
+            12.8644,
+            50.2325
+          ],
+          "category": "museums",
+          "arrive_at": "15:55",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Der letzte Cluster des Tages. Erfahren Sie alles über das '13. Heilwasser' von Karlsbad.",
+            "hu": "A nap utolsó klasztere. Tudjon meg mindent Karlovy Vary „13. gyógyforrásáról”.",
+            "ro": "Ultimul cluster al zilei. Aflați totul despre „al 13-lea izvor vindecător” din Karlovy Vary.",
+            "en": "The last cluster of the day. Learn all about Karlovy Vary's '13th healing spring'."
+          }
+        },
+        {
+          "name": {
+            "de": "Absacker in der Innenstadt",
+            "hu": "Egy utolsó ital a belvárosban",
+            "ro": "O ultimă băutură în centrul orașului",
+            "en": "A final drink downtown"
+          },
+          "coords": [
+            12.868,
+            50.23
+          ],
+          "category": "gastro",
+          "arrive_at": "17:15",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Finden Sie eine Bar in der Nähe des Museums für einen letzten Drink, bevor Sie die Stadt verlassen.",
+            "hu": "Keressen egy bárt a múzeum közelében egy utolsó italra, mielőtt elhagyja a várost.",
+            "ro": "Găsiți un bar lângă muzeu pentru o ultimă băutură înainte de a părăsi orașul.",
+            "en": "Find a bar near the museum for a final drink before leaving the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit dem Auto bei der Glashütte Moser. Nach der Besichtigung fahren Sie ins Zentrum und parken. Der erste Spaziergang führt Sie zu den berühmten Kolonnaden im Herzen der Kurstadt. Mittags fahren Sie zum Grandhotel Pupp für ein elegantes Mittagessen und einen Abstecher zum Diana-Turm mit der Standseilbahn. Am Nachmittag bringt Sie das Auto zum Jan-Becher-Museum, einem weiteren Highlight. Diese Cluster-Struktur ermöglicht es Ihnen, die wichtigsten Sehenswürdigkeiten bequem zu erreichen und gleichzeitig die Atmosphäre bei entspannten Spaziergängen zu genießen.",
+        "hu": "A nap autóval kezdődik a Moser Üveggyárnál. A látogatás után hajtson be a központba és parkoljon le. Az első séta a gyógyváros szívében található híres kolonnádokhoz vezet. Délben autózzon el a Grandhotel Pupphoz egy elegáns ebédre és egy kitérőre a Diana-kilátóhoz a siklóval. Délután az autó a Jan Becher Múzeumhoz, egy másik fénypontra viszi. Ez a klaszter-struktúra lehetővé teszi a legfontosabb látnivalók kényelmes elérését, miközben nyugodt séták során élvezheti a hangulatot.",
+        "ro": "Ziua începe cu mașina la Fabrica de sticlă Moser. După vizită, conduceți spre centru și parcați. Prima plimbare vă duce la faimoasele colonade din inima orașului balnear. La prânz, conduceți la Grandhotel Pupp pentru un prânz elegant și o excursie la Turnul Diana cu funicularul. După-amiaza, mașina vă duce la Muzeul Jan Becher, un alt punct de atracție. Această structură pe clustere vă permite să ajungeți convenabil la principalele atracții, bucurându-vă în același timp de atmosferă în timpul plimbărilor relaxante.",
+        "en": "The day starts by car at the Moser Glassworks. After the visit, drive to the center and park. The first walk takes you to the famous colonnades in the heart of the spa town. At noon, drive to the Grandhotel Pupp for an elegant lunch and a trip to the Diana Tower by funicular. In the afternoon, the car takes you to the Jan Becher Museum, another highlight. This cluster structure allows you to conveniently reach the main sights while enjoying the atmosphere during relaxed walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gulasch mit Knödeln",
+            "tip": "Ein herzhaftes, klassisches Gericht, das in vielen traditionellen Restaurants serviert wird."
+          },
+          {
+            "name": "Becher's Bar",
+            "tip": "Probieren Sie einen 'Beton' Cocktail (Becherovka und Tonic) in der Bar, die nach dem Erfinder benannt ist."
+          },
+          {
+            "name": "Café Elefant",
+            "tip": "Ein historisches Café mit einer großen Auswahl an Kuchen und Kaffeespezialitäten."
+          },
+          {
+            "name": "U Švejka Restaurant",
+            "tip": "Traditionelle böhmische Küche in rustikalem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gulyás knédlivel",
+            "tip": "Kiadós, klasszikus étel, amelyet számos hagyományos étteremben szolgálnak fel."
+          },
+          {
+            "name": "Becher's Bár",
+            "tip": "Kóstoljon meg egy „Beton” koktélt (Becherovka és tonik) a feltalálóról elnevezett bárban."
+          },
+          {
+            "name": "Elefánt Kávéház",
+            "tip": "Történelmi kávézó sütemények és kávékülönlegességek nagy választékával."
+          },
+          {
+            "name": "U Švejka Étterem",
+            "tip": "Hagyományos cseh konyha rusztikus környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș cu găluște",
+            "tip": "Un fel de mâncare consistent, clasic, servit în multe restaurante tradiționale."
+          },
+          {
+            "name": "Becher's Bar",
+            "tip": "Încercați un cocktail 'Beton' (Becherovka și tonic) în barul numit după inventator."
+          },
+          {
+            "name": "Café Elefant",
+            "tip": "O cafenea istorică cu o selecție largă de prăjituri și specialități de cafea."
+          },
+          {
+            "name": "Restaurant U Švejka",
+            "tip": "Bucătărie tradițională boemă într-un cadru rustic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goulash with dumplings",
+            "tip": "A hearty, classic dish served in many traditional restaurants."
+          },
+          {
+            "name": "Becher's Bar",
+            "tip": "Try a 'Beton' cocktail (Becherovka and tonic) in the bar named after the inventor."
+          },
+          {
+            "name": "Café Elefant",
+            "tip": "A historic café with a wide selection of cakes and coffee specialties."
+          },
+          {
+            "name": "U Švejka Restaurant",
+            "tip": "Traditional Bohemian cuisine in a rustic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hirschensprung (Jelení skok)",
+            "tip": "Ein Aussichtspunkt, der etwas ruhiger ist als der Diana-Turm, aber eine ebenso schöne Aussicht bietet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Russisch-Orthodoxe Kirche",
+            "tip": "Besuchen Sie die beeindruckende Kirche mit ihren goldenen Kuppeln in einer ruhigeren Gegend der Stadt.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Waldwege oberhalb der Kolonnaden",
+            "tip": "Entfliehen Sie dem Trubel und machen Sie einen kurzen Spaziergang in den Wäldern direkt über dem Zentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szarvasugrás (Jelení skok)",
+            "tip": "Egy kilátópont, amely valamivel csendesebb, mint a Diana-kilátó, de ugyanolyan szép kilátást nyújt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Orosz Ortodox Templom",
+            "tip": "Látogassa meg a lenyűgöző, aranykupolás templomot a város egy csendesebb részén.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Erdei ösvények a kolonnádok felett",
+            "tip": "Meneküljön el a nyüzsgés elől, és tegyen egy rövid sétát a központ feletti erdőkben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saltul Cerbului (Jelení skok)",
+            "tip": "Un punct de belvedere puțin mai liniștit decât Turnul Diana, dar cu o priveliște la fel de frumoasă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biserica Ortodoxă Rusă",
+            "tip": "Vizitați impresionanta biserică cu cupolele sale aurii într-o zonă mai liniștită a orașului.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Potecile din pădure deasupra colonadelor",
+            "tip": "Evadați din agitație și faceți o scurtă plimbare în pădurile de deasupra centrului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Deer's Leap (Jelení skok)",
+            "tip": "A viewpoint that is a bit quieter than the Diana Tower but offers an equally beautiful view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Russian Orthodox Church",
+            "tip": "Visit the impressive church with its golden domes in a quieter area of the city.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Forest paths above the colonnades",
+            "tip": "Escape the hustle and bustle and take a short walk in the woods just above the center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Thun 1794 Porzellan",
+            "tip": "Eine der berühmtesten Porzellanmarken der Tschechischen Republik."
+          },
+          {
+            "name": "Souvenirläden an der Promenade",
+            "tip": "Hier finden Sie alles von Kurbechern bis zu Matrjoschka-Puppen."
+          },
+          {
+            "name": "Gourmetläden",
+            "tip": "Kaufen Sie lokale Spezialitäten wie Oblaten, Becherovka oder andere Liköre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Thun 1794 Porcelán",
+            "tip": "Csehország egyik leghíresebb porcelánmárkája."
+          },
+          {
+            "name": "Ajándékboltok a sétányon",
+            "tip": "Itt mindent megtalál az ivópoharaktól a matrjoska babákig."
+          },
+          {
+            "name": "Ínyencboltok",
+            "tip": "Vásároljon helyi különlegességeket, például ostyát, Becherovkát vagy más likőröket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Porțelan Thun 1794",
+            "tip": "Unul dintre cele mai faimoase branduri de porțelan din Republica Cehă."
+          },
+          {
+            "name": "Magazine de suveniruri pe promenadă",
+            "tip": "Aici veți găsi de toate, de la căni balneare la păpuși Matrioșka."
+          },
+          {
+            "name": "Magazine gourmet",
+            "tip": "Cumpărați specialități locale precum napolitane, Becherovka sau alte lichioruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Thun 1794 Porcelain",
+            "tip": "One of the most famous porcelain brands in the Czech Republic."
+          },
+          {
+            "name": "Souvenir shops on the promenade",
+            "tip": "Here you will find everything from spa cups to Matryoshka dolls."
+          },
+          {
+            "name": "Gourmet shops",
+            "tip": "Buy local specialties such as wafers, Becherovka, or other liqueurs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren im Voraus, da das Parken im Zentrum teuer sein kann.",
+          "Das Befahren der Kurzone ist stark eingeschränkt. Halten Sie sich strikt an die Verkehrsregeln.",
+          "Ein Auto ist nützlich, um entferntere Sehenswürdigkeiten wie die Glashütte Moser zu erreichen.",
+          "Planen Sie genügend Zeit für den Verkehr ein, besonders in der Hochsaison."
+        ],
+        "hu": [
+          "Ellenőrizze előre a parkolási díjakat, mivel a központban a parkolás drága lehet.",
+          "A gyógyövezetbe való behajtás erősen korlátozott. Szigorúan tartsa be a közlekedési szabályokat.",
+          "Az autó hasznos a távolabbi látnivalók, például a Moser Üveggyár eléréséhez.",
+          "Tervezzen elegendő időt a forgalomra, különösen a főszezonban."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în avans, deoarece parcarea în centru poate fi scumpă.",
+          "Accesul în zona balneară este strict restricționat. Respectați cu strictețe regulile de circulație.",
+          "O mașină este utilă pentru a ajunge la atracții mai îndepărtate, cum ar fi Fabrica de sticlă Moser.",
+          "Planificați suficient timp pentru trafic, mai ales în sezonul de vârf."
+        ],
+        "en": [
+          "Check parking fees in advance, as parking in the center can be expensive.",
+          "Driving into the spa zone is highly restricted. Strictly adhere to traffic rules.",
+          "A car is useful for reaching more distant sights like the Moser Glassworks.",
+          "Allow enough time for traffic, especially during peak season."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof Tržnice",
+            "hu": "Érkezés a Tržnice buszpályaudvarra",
+            "ro": "Sosire la autogara Tržnice",
+            "en": "Arrival at Tržnice Bus Terminal"
+          },
+          "coords": [
+            12.8708,
+            50.2307
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Dies ist der zentrale Knotenpunkt für Busse. Kaufen Sie hier eine Tageskarte für uneingeschränkte Fahrten.",
+            "hu": "Ez a központi buszcsomópont. Vásároljon itt napijegyet a korlátlan utazáshoz.",
+            "ro": "Acesta este nodul central pentru autobuze. Cumpărați un bilet de o zi de aici pentru călătorii nelimitate.",
+            "en": "This is the central hub for buses. Buy a day ticket here for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Jan-Becher-Museum",
+            "hu": "Jan Becher Múzeum",
+            "ro": "Muzeul Jan Becher",
+            "en": "Jan Becher Museum"
+          },
+          "coords": [
+            12.8644,
+            50.2325
+          ],
+          "category": "museums",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Busbahnhof entfernt, um den Tag zu beginnen.",
+            "hu": "Csak egy rövid sétára a buszpályaudvartól a nap kezdéséhez.",
+            "ro": "La doar o scurtă plimbare de autogară pentru a începe ziua.",
+            "en": "Just a short walk from the bus terminal to start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zur Haltestelle 'Lázně III'",
+            "hu": "Buszozás a 'Lázně III' megállóig",
+            "ro": "Călătorie cu autobuzul până la stația 'Lázně III'",
+            "en": "Bus ride to 'Lázně III' stop"
+          },
+          "coords": [
+            12.879,
+            50.227
+          ],
+          "category": "transit",
+          "arrive_at": "11:00",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus der Linie 1 oder 4, um direkt ins Herz der Kolonnaden zu gelangen.",
+            "hu": "Menjen az 1-es vagy 4-es busszal, hogy közvetlenül a kolonnádok szívébe jusson.",
+            "ro": "Luați autobuzul 1 sau 4 pentru a ajunge direct în inima colonadelor.",
+            "en": "Take bus number 1 or 4 to get directly to the heart of the colonnades."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Mühlbrunn-, Markt- & Sprudelkolonnade",
+            "hu": "Séta: Malomkő-, Piaci és Forrás-kolonnád",
+            "ro": "Plimbare: Coloana Morii, a Pieței și Sprudel",
+            "en": "Walk: Mill, Market & Sprudel Colonnades"
+          },
+          "coords": [
+            12.881,
+            50.225
+          ],
+          "category": "landmark",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen Cluster von Kolonnaden und Kirchen zu Fuß. Alles liegt nah beieinander.",
+            "hu": "Fedezze fel gyalogosan ezt a kolonnád- és templomcsoportot. Minden közel van egymáshoz.",
+            "ro": "Explorați acest cluster de colonade și biserici pe jos. Totul este aproape.",
+            "en": "Explore this cluster of colonnades and churches on foot. Everything is close together."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zur Haltestelle 'Divadelní náměstí'",
+            "hu": "Buszozás a 'Divadelní náměstí' megállóig",
+            "ro": "Călătorie cu autobuzul până la stația 'Divadelní náměstí'",
+            "en": "Bus ride to 'Divadelní náměstí' stop"
+          },
+          "coords": [
+            12.88,
+            50.221
+          ],
+          "category": "transit",
+          "arrive_at": "12:50",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie eine oder zwei Stationen weiter zum Grandhotel Pupp für Ihr Mittagessen.",
+            "hu": "Utazzon egy vagy két megállót tovább a Grandhotel Pupphoz az ebédhez.",
+            "ro": "Mergeți una sau două stații mai departe până la Grandhotel Pupp pentru prânz.",
+            "en": "Travel one or two more stops to the Grandhotel Pupp for your lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Grandhotel Pupp & Standseilbahn zur Diana",
+            "hu": "Grandhotel Pupp és sikló a Dianához",
+            "ro": "Grandhotel Pupp și funicularul spre Diana",
+            "en": "Grandhotel Pupp & Funicular to Diana"
+          },
+          "coords": [
+            12.879,
+            50.219
+          ],
+          "category": "landmark",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie das Mittagessen und nehmen Sie dann die Standseilbahn direkt hinter dem Hotel zum Aussichtsturm.",
+            "hu": "Ebédeljen, majd a szálloda mögül induló siklóval menjen fel a kilátóhoz.",
+            "ro": "Bucurați-vă de prânz și apoi luați funicularul din spatele hotelului până la turnul de observație.",
+            "en": "Enjoy lunch and then take the funicular from behind the hotel to the observation tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zur Glashütte Moser",
+            "hu": "Buszozás a Moser Üveggyárhoz",
+            "ro": "Călătorie cu autobuzul la Fabrica de sticlă Moser",
+            "en": "Bus ride to Moser Glassworks"
+          },
+          "coords": [
+            12.8441,
+            50.2375
+          ],
+          "category": "industry",
+          "arrive_at": "16:00",
+          "stay_min": 85,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus der Linie 1 oder 22 für den letzten Programmpunkt des Tages.",
+            "hu": "Menjen az 1-es vagy 22-es busszal a nap utolsó programpontjához.",
+            "ro": "Luați autobuzul 1 sau 22 pentru ultimul punct de pe ordinea de zi.",
+            "en": "Take bus number 1 or 22 for the last item on the day's agenda."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit einer Tageskarte für den Bus beginnt Ihr Tag bequem am zentralen Busbahnhof und führt Sie zuerst zum Jan-Becher-Museum. Nach der Verkostung bringt Sie ein Bus ins Herz der Kurzone, wo Sie die berühmten Kolonnaden zu Fuß erkunden. Ein kurzer Bus-Hop bringt Sie zum Mittagessen ins Grandhotel Pupp. Am Nachmittag nutzen Sie die Standseilbahn zum Diana-Turm und fahren anschließend mit dem Bus zur etwas außerhalb gelegenen Glashütte Moser. Diese Route kombiniert kurze Spaziergänge in den Clustern mit effizienten Busfahrten dazwischen.",
+        "hu": "A buszra szóló napijeggyel a nap kényelmesen indul a központi buszpályaudvarról, és először a Jan Becher Múzeumba vezet. A kóstoló után egy busz a gyógyfürdőövezet szívébe visz, ahol gyalog fedezheti fel a híres kolonnádokat. Egy rövid buszozás után a Grandhotel Puppban ebédelhet. Délután a siklóval juthat fel a Diana-kilátóhoz, majd busszal utazhat a kissé távolabb eső Moser Üveggyárhoz. Ez az útvonal a klasztereken belüli rövid sétákat hatékony buszutazásokkal kombinálja.",
+        "ro": "Cu un bilet de o zi pentru autobuz, ziua dvs. începe convenabil la autogara centrală și vă duce mai întâi la Muzeul Jan Becher. După degustare, un autobuz vă duce în inima zonei balneare, unde explorați faimoasele colonade pe jos. O scurtă călătorie cu autobuzul vă duce la Grandhotel Pupp pentru prânz. După-amiaza, folosiți funicularul spre Turnul Diana și apoi luați autobuzul spre Fabrica de sticlă Moser, aflată puțin mai departe. Acest traseu combină plimbări scurte în clustere cu călătorii eficiente cu autobuzul între ele.",
+        "en": "With a day bus ticket, your day starts conveniently at the central bus station, taking you first to the Jan Becher Museum. After the tasting, a bus takes you to the heart of the spa zone, where you explore the famous colonnades on foot. A short bus hop takes you to the Grandhotel Pupp for lunch. In the afternoon, you use the funicular to the Diana Tower and then take a bus to the Moser Glassworks, located a bit further out. This route combines short walks within the clusters with efficient bus rides in between."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bramboráky",
+            "tip": "Tschechische Kartoffelpuffer, oft auf Märkten und als Streetfood erhältlich."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Gegrillte Wurst, ein schneller und leckerer Snack für unterwegs."
+          },
+          {
+            "name": "Pivovar Karel IV.",
+            "tip": "Eine lokale Brauerei mit Restaurant, probieren Sie das hauseigene Bier."
+          },
+          {
+            "name": "Republica Coffee",
+            "tip": "Ein modernes Café für einen hochwertigen Kaffee und eine kleine Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bramboráky (Tócsni)",
+            "tip": "Cseh burgonyalepény, gyakran kapható piacokon és utcai ételként."
+          },
+          {
+            "name": "Klobása (Kolbász)",
+            "tip": "Grillezett kolbász, gyors és finom harapnivaló útközben."
+          },
+          {
+            "name": "Pivovar Karel IV. Sörfőzde",
+            "tip": "Helyi sörfőzde étteremmel, kóstolja meg a ház sörét."
+          },
+          {
+            "name": "Republica Coffee",
+            "tip": "Modern kávézó egy minőségi kávéhoz és egy kis szünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bramboráky",
+            "tip": "Clătite cehești de cartofi, adesea disponibile în piețe și ca mâncare stradală."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Cârnați la grătar, o gustare rapidă și delicioasă pentru drum."
+          },
+          {
+            "name": "Pivovar Karel IV.",
+            "tip": "O fabrică de bere locală cu restaurant, încercați berea casei."
+          },
+          {
+            "name": "Republica Coffee",
+            "tip": "O cafenea modernă pentru o cafea de calitate și o mică pauză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bramboráky",
+            "tip": "Czech potato pancakes, often available at markets and as street food."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Grilled sausage, a quick and tasty snack on the go."
+          },
+          {
+            "name": "Pivovar Karel IV.",
+            "tip": "A local brewery with a restaurant, try their house beer."
+          },
+          {
+            "name": "Republica Coffee",
+            "tip": "A modern café for a quality coffee and a short break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dvořák-Parkanlagen",
+            "tip": "Ein zentraler, aber oft ruhiger Park, um dem Trubel der Hauptstraßen zu entkommen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Fahrt mit dem Bus durch die Vororte",
+            "tip": "Sehen Sie eine andere Seite von Karlsbad, indem Sie einfach im Bus sitzen bleiben.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Friedhofskirche St. Andreas",
+            "tip": "Ein ruhiger und historischer Ort, etwas abseits der üblichen Touristenpfade.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dvořák Park",
+            "tip": "Központi, de gyakran csendes park, ahol elmenekülhet a főutcák nyüzsgése elől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Buszozás a külvárosokon keresztül",
+            "tip": "Lássa Karlovy Vary egy másik oldalát, egyszerűen csak ülve maradva a buszon.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Szent András temetőkápolna",
+            "tip": "Csendes és történelmi hely, kissé távolabb a szokásos turistaútvonalaktól.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Dvořák",
+            "tip": "Un parc central, dar adesea liniștit, pentru a scăpa de agitația străzilor principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare cu autobuzul prin suburbii",
+            "tip": "Vedeți o altă față a orașului Karlovy Vary, stând pur și simplu în autobuz.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Biserica cimitirului Sf. Andrei",
+            "tip": "Un loc liniștit și istoric, puțin în afara traseelor turistice obișnuite.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dvořák Park",
+            "tip": "A central but often quiet park to escape the hustle of the main streets.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bus ride through the suburbs",
+            "tip": "See a different side of Karlovy Vary by simply staying on the bus.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Cemetery Church of St. Andrew",
+            "tip": "A quiet and historic place, slightly off the beaten tourist path.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske am Busbahnhof",
+            "tip": "Hier finden Sie Zeitungen, Snacks und Fahrkarten."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie frisches Gebäck für Ihre Reise."
+          },
+          {
+            "name": "Supermärkte in der Nähe der Haltestellen",
+            "tip": "Günstiger als die Geschäfte in der Kurzone für Wasser und Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszpályaudvaron",
+            "tip": "Itt újságokat, rágcsálnivalókat és jegyeket talál."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon friss péksüteményt az útra."
+          },
+          {
+            "name": "Szupermarketek a megállók közelében",
+            "tip": "Olcsóbb, mint a gyógyfürdőövezet üzletei vízért és rágcsálnivalókért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la autogară",
+            "tip": "Aici veți găsi ziare, gustări și bilete."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați produse de patiserie proaspete pentru călătoria dvs."
+          },
+          {
+            "name": "Supermarketuri lângă stații",
+            "tip": "Mai ieftin decât magazinele din zona balneară pentru apă și gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at the bus station",
+            "tip": "Here you'll find newspapers, snacks, and tickets."
+          },
+          {
+            "name": "Local bakeries",
+            "tip": "Buy fresh pastries for your journey."
+          },
+          {
+            "name": "Supermarkets near the stops",
+            "tip": "Cheaper than the shops in the spa zone for water and snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eine Tageskarte ist die kostengünstigste Option für mehrere Fahrten.",
+          "Laden Sie die App für den öffentlichen Nahverkehr herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Beachten Sie, dass die Busse in den Abendstunden seltener fahren.",
+          "Drücken Sie rechtzeitig den Stopp-Knopf, da die Busse nicht an jeder Haltestelle automatisch anhalten."
+        ],
+        "hu": [
+          "Több utazáshoz a napijegy a legköltséghatékonyabb megoldás.",
+          "Töltse le a tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Vegye figyelembe, hogy a buszok este ritkábban közlekednek.",
+          "Nyomja meg időben a stop gombot, mivel a buszok nem állnak meg automatikusan minden megállónál."
+        ],
+        "ro": [
+          "Un bilet de o zi este cea mai rentabilă opțiune pentru mai multe călătorii.",
+          "Descărcați aplicația de transport public pentru a vedea orarele în timp real.",
+          "Rețineți că autobuzele circulă mai rar seara.",
+          "Apăsați butonul de oprire la timp, deoarece autobuzele nu se opresc automat la fiecare stație."
+        ],
+        "en": [
+          "A day ticket is the most cost-effective option for multiple journeys.",
+          "Download the public transport app to see real-time schedules.",
+          "Note that buses run less frequently in the evening.",
+          "Press the stop button in time, as buses do not automatically stop at every stop."
+        ]
+      }
+    }
+  }
+}

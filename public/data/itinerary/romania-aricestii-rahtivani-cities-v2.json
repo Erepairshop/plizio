@@ -1,0 +1,1460 @@
+{
+  "city_id": "romania-aricestii-rahtivani-cities-v2",
+  "anchor": {
+    "name": "Ariceștii Rahtivani",
+    "coords": [
+      25.9,
+      44.96
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Ariceștii Rahtivani",
+            "hu": "Ariceștii Rahtivani Városháza",
+            "ro": "Primăria Ariceștii Rahtivani",
+            "en": "Ariceștii Rahtivani Town Hall"
+          },
+          "coords": [
+            25.9015,
+            44.9605
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im administrativen Herzen der Gemeinde.",
+            "hu": "Kezdje a napot a község adminisztratív szívében!",
+            "ro": "Începeți ziua în inima administrativă a comunei.",
+            "en": "Start your day at the administrative heart of the commune."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmahnmal Aricești",
+            "hu": "Aricești-i Hősök Emlékműve",
+            "ro": "Monumentul Eroilor din Aricești",
+            "en": "Heroes' Monument of Aricești"
+          },
+          "coords": [
+            25.903,
+            44.961
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:34",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung zu Ehren der lokalen Helden.",
+            "hu": "Egy pillanatnyi megemlékezés a helyi hősök tiszteletére.",
+            "ro": "Un moment de reculegere în cinstea eroilor locali.",
+            "en": "A moment of reflection in honor of the local heroes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Elias",
+            "hu": "Szent Illés-templom",
+            "ro": "Biserica Sfântul Ilie Tesviteanul",
+            "en": "Saint Elijah Church"
+          },
+          "coords": [
+            25.898,
+            44.963
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:01",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle orthodoxe Architektur und die Ikonen.",
+            "hu": "Csodálja meg a hagyományos ortodox építészetet és az ikonokat!",
+            "ro": "Admirați arhitectura tradițională ortodoxă și icoanele.",
+            "en": "Admire the traditional Orthodox architecture and the icons."
+          }
+        },
+        {
+          "name": {
+            "de": "Cantacuzino-Ruinen",
+            "hu": "Cantacuzino-romok",
+            "ro": "Ruinele Cantacuzino",
+            "en": "Cantacuzino Ruins"
+          },
+          "coords": [
+            25.885,
+            44.968
+          ],
+          "category": "historical",
+          "arrive_at": "11:09",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste einer einst prächtigen Adelsresidenz.",
+            "hu": "Fedezze fel az egykor pompás nemesi rezidencia maradványait!",
+            "ro": "Explorați vestigiile unei reședințe nobiliare odinioară grandioase.",
+            "en": "Explore the remains of a once grand noble residence."
+          }
+        },
+        {
+          "name": {
+            "de": "Nedelea-Kirche St. Nikolaus",
+            "hu": "Nedeleai Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae din Nedelea",
+            "en": "Saint Nicholas Church of Nedelea"
+          },
+          "coords": [
+            25.865,
+            44.965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:49",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein weiteres Juwel der Sakralarchitektur in der Region.",
+            "hu": "A régió szakrális építészetének egy másik gyöngyszeme.",
+            "ro": "O altă bijuterie a arhitecturii sacre din regiune.",
+            "en": "Another gem of sacral architecture in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Prahova-Tal Abschnitt",
+            "hu": "Prahova-völgyi szakasz",
+            "ro": "Valea Prahovei (secțiune)",
+            "en": "Prahova Valley Section"
+          },
+          "coords": [
+            25.87,
+            44.975
+          ],
+          "category": "natural features",
+          "arrive_at": "14:01",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Luft und die Aussicht auf das berühmte Tal.",
+            "hu": "Élvezze a friss levegőt és a híres völgyre nyíló kilátást!",
+            "ro": "Bucurați-vă de aerul curat și de priveliștea spre faimoasa vale.",
+            "en": "Enjoy the fresh air and the view towards the famous valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt im Herzen von Ariceștii Rahtivani, führt Sie an historischen Denkmälern und Kirchen vorbei. Am Vormittag erkunden Sie die alten Cantacuzino-Ruinen und spüren den Hauch der Geschichte. Der Nachmittag ist einem weiteren spirituellen Ort und einem entspannten Spaziergang gewidmet, der Ihnen die natürliche Schönheit des Prahova-Tals näherbringt. Der Tag endet mit ruhigen Momenten in der Natur, weit weg vom städtischen Trubel.",
+        "hu": "Sétája Ariceștii Rahtivani szívéből indul, elhaladva történelmi emlékművek és templomok mellett. A délelőtt folyamán felfedezi az ősi Cantacuzino-romokat, megérezve a történelem leheletét. A délután egy másik spirituális helynek és egy pihentető sétának van szentelve, amely közelebb hozza Önhöz a Prahova-völgy természeti szépségét. A nap a természetben töltött csendes pillanatokkal zárul, távol a városi nyüzsgéstől.",
+        "ro": "Plimbarea dvs. începe în inima localității Ariceștii Rahtivani, trecând pe lângă monumente istorice și biserici. Dimineața explorați vechile ruine Cantacuzino, simțind adierea istoriei. După-amiaza este dedicată unui alt lăcaș spiritual și unei plimbări relaxante care vă aduce mai aproape de frumusețea naturală a Văii Prahovei. Ziua se încheie cu momente liniștite în natură, departe de agitația urbană.",
+        "en": "Your walk begins in the heart of Ariceștii Rahtivani, passing by historical monuments and churches. In the morning, you'll explore the ancient Cantacuzino ruins, feeling the breath of history. The afternoon is dedicated to another spiritual site and a relaxing walk that brings you closer to the natural beauty of the Prahova Valley. The day concludes with quiet moments in nature, far from the urban hustle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici",
+            "tip": "Probieren Sie die berühmten rumänischen gegrillten Hackfleischröllchen bei einem lokalen Grill."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Genießen Sie mit Fleisch und Reis gefüllte Kohlrouladen, ein Grundnahrungsmittel der rumänischen Küche."
+          },
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Für Abenteuerlustige: eine traditionelle Kuttelsuppe, die oft mit Sauerrahm und Chili serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mics (Mici)",
+            "tip": "Kóstolja meg a híres román grillezett vagdalt húsrudacskákat egy helyi grillbárban."
+          },
+          {
+            "name": "Töltött káposzta (Sarmale)",
+            "tip": "Élvezze a hússal és rizzsel töltött káposztatekercseket, a román konyha egyik alapételét."
+          },
+          {
+            "name": "Pacalleves (Ciorbă de burtă)",
+            "tip": "A kalandvágyóknak: egy hagyományos pacalleves, amelyet gyakran tejföllel és csilipaprikával tálalnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici",
+            "tip": "Încercați faimoșii mititei românești la un grătar local."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Savurați sarmalele umplute cu carne și orez, un element de bază al bucătăriei românești."
+          },
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Pentru cei aventuroși: o ciorbă tradițională, adesea servită cu smântână și ardei iute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici",
+            "tip": "Try the famous Romanian grilled minced meat rolls at a local grill."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Enjoy cabbage rolls stuffed with meat and rice, a staple of Romanian cuisine."
+          },
+          {
+            "name": "Ciorbă de burtă (tripe soup)",
+            "tip": "For the adventurous: a traditional tripe soup, often served with sour cream and chili."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Aricești-Sees",
+            "tip": "Ein ruhiger Ort für einen Spaziergang und um die Wasservögel zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Prahova-Tal-Aussichtspunkt",
+            "tip": "Finden Sie einen erhöhten Punkt für einen Panoramablick auf das Tal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Friedhof der Nedelea-Kirche",
+            "tip": "Ein friedlicher Ort der Stille und Kontemplation.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aricești-tó partja",
+            "tip": "Csendes hely egy sétához és a vízimadarak megfigyeléséhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Prahova-völgyi kilátópont",
+            "tip": "Keressen egy magaslati pontot a völgyre nyíló panorámás kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Nedeleai templom kertje",
+            "tip": "A csend és az elmélkedés békés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Lacului Aricești",
+            "tip": "Un loc liniștit pentru o plimbare și pentru a observa păsările de apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere Valea Prahovei",
+            "tip": "Găsiți un punct înalt pentru o vedere panoramică a văii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul Bisericii din Nedelea",
+            "tip": "Un loc pașnic de liniște și contemplare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Lake Aricești",
+            "tip": "A quiet spot for a walk and to observe the water birds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Prahova Valley viewpoint",
+            "tip": "Find an elevated spot for a panoramic view of the valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Nedelea Church cemetery",
+            "tip": "A peaceful place of silence and contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Märkten für frische Produkte und hausgemachte Waren."
+          },
+          {
+            "name": "Handgefertigte Souvenirs",
+            "tip": "Halten Sie Ausschau nach kleinen Läden, die traditionelle rumänische Handwerkskunst verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi piacokat friss termékekért és házi készítésű árukért."
+          },
+          {
+            "name": "Kézműves szuvenírek",
+            "tip": "Nézzen körül a hagyományos román kézműves termékeket árusító kis boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele locale pentru produse proaspete și produse de casă."
+          },
+          {
+            "name": "Suveniruri artizanale",
+            "tip": "Fiți atenți la micile magazine care vând artizanat tradițional românesc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local markets for fresh produce and homemade goods."
+          },
+          {
+            "name": "Handmade Souvenirs",
+            "tip": "Keep an eye out for small shops selling traditional Romanian crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe, da die Strecke mehrere Kilometer umfasst.",
+          "Nehmen Sie Wasser und Snacks mit, da die Möglichkeiten unterwegs begrenzt sein können.",
+          "Überprüfen Sie die Öffnungszeiten der Kirchen im Voraus.",
+          "Seien Sie respektvoll, wenn Sie religiöse Stätten betreten."
+        ],
+        "hu": [
+          "Viseljen kényelmes túracipőt, mivel az útvonal több kilométeres.",
+          "Vigyen magával vizet és rágcsálnivalót, mert útközben korlátozottak lehetnek a lehetőségek.",
+          "Előre ellenőrizze a templomok nyitvatartási idejét.",
+          "Legyen tisztelettudó a vallási helyszínekre való belépéskor."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru mers pe jos, deoarece traseul acoperă câțiva kilometri.",
+          "Luați apă și gustări, deoarece opțiunile pe drum pot fi limitate.",
+          "Verificați în avans programul de vizitare al bisericilor.",
+          "Fiți respectuos la intrarea în lăcașurile de cult."
+        ],
+        "en": [
+          "Wear comfortable walking shoes as the route covers several kilometers.",
+          "Bring water and snacks, as options along the way may be limited.",
+          "Check the opening hours of the churches in advance.",
+          "Be respectful when entering religious sites."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:47",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ploiești West Industrial Park",
+            "hu": "Ploiești Nyugati Ipari Park",
+            "ro": "Parcul Industrial Ploiești Vest",
+            "en": "Ploiești West Industrial Park"
+          },
+          "coords": [
+            25.93,
+            44.94
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Einblick in die wirtschaftliche Gegenwart der Region.",
+            "hu": "Kezdje a régió gazdasági jelenének megismerésével!",
+            "ro": "Începeți cu o privire asupra prezentului economic al regiunii.",
+            "en": "Start with a glimpse into the region's economic present."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Ariceștii Rahtivani",
+            "hu": "Ariceștii Rahtivani Városháza",
+            "ro": "Primăria Ariceștii Rahtivani",
+            "en": "Ariceștii Rahtivani Town Hall"
+          },
+          "coords": [
+            25.9015,
+            44.9605
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:59",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Radeln Sie ins Zentrum und sehen Sie sich das Hauptverwaltungsgebäude an.",
+            "hu": "Tekerjen be a központba, és nézze meg a fő közigazgatási épületet.",
+            "ro": "Pedalați spre centru pentru a vedea clădirea administrativă principală.",
+            "en": "Cycle to the center to see the main administrative building."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Elias",
+            "hu": "Szent Illés-templom",
+            "ro": "Biserica Sfântul Ilie Tesviteanul",
+            "en": "Saint Elijah Church"
+          },
+          "coords": [
+            25.898,
+            44.963
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:22",
+          "stay_min": 35,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die lokale religiöse Kunst zu schätzen.",
+            "hu": "Egy rövid megálló a helyi vallási művészet megbecsülésére.",
+            "ro": "O scurtă oprire pentru a aprecia arta religioasă locală.",
+            "en": "A short stop to appreciate the local religious art."
+          }
+        },
+        {
+          "name": {
+            "de": "Cantacuzino-Ruinen",
+            "hu": "Cantacuzino-romok",
+            "ro": "Ruinele Cantacuzino",
+            "en": "Cantacuzino Ruins"
+          },
+          "coords": [
+            25.885,
+            44.968
+          ],
+          "category": "historical",
+          "arrive_at": "11:06",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie die historischen Überreste zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel gyalog a történelmi maradványokat!",
+            "ro": "Parcați bicicleta și explorați pe jos vestigiile istorice.",
+            "en": "Park your bike and explore the historical remains on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Nedelea-Kirche St. Nikolaus",
+            "hu": "Nedeleai Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae din Nedelea",
+            "en": "Saint Nicholas Church of Nedelea"
+          },
+          "coords": [
+            25.865,
+            44.965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 35,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Eine weitere schöne Kirche auf Ihrer Route, perfekt für eine kurze Pause.",
+            "hu": "Újabb gyönyörű templom az útvonalán, tökéletes egy rövid szünetre.",
+            "ro": "O altă biserică frumoasă pe traseul dumneavoastră, perfectă pentru o scurtă pauză.",
+            "en": "Another beautiful church on your route, perfect for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Aricești-See",
+            "hu": "Aricești-tó",
+            "ro": "Lacul Aricești",
+            "en": "Aricești Lake"
+          },
+          "coords": [
+            25.875,
+            44.98
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause am Wasser. Genießen Sie die Ruhe.",
+            "hu": "Ideális egy ebédidőre a vízparton. Élvezze a csendet!",
+            "ro": "Ideal pentru o pauză de prânz la malul apei. Bucurați-vă de liniște.",
+            "en": "Ideal for a lunch break by the water. Enjoy the tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Prahova-Tal Abschnitt",
+            "hu": "Prahova-völgyi szakasz",
+            "ro": "Valea Prahovei (secțiune)",
+            "en": "Prahova Valley Section"
+          },
+          "coords": [
+            25.89,
+            44.975
+          ],
+          "category": "natural features",
+          "arrive_at": "14:24",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem schönen Blick auf das Tal.",
+            "hu": "Fejezze be a túrát a völgyre nyíló gyönyörű kilátással.",
+            "ro": "Încheiați turul cu o priveliște frumoasă asupra văii.",
+            "en": "End your tour with a beautiful view over the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour führt Sie durch eine Mischung aus modernem Gewerbe und ländlichem Charme. Der Morgen beginnt mit einem Blick auf die Industrie, bevor Sie ins historische Zentrum radeln. Sie erkunden Kirchen und Ruinen und spüren die Vergangenheit der Region. Der Nachmittag bringt Sie zum malerischen Aricești-See für eine wohlverdiente Pause. Die Tour endet mit einem Panoramablick auf das Prahova-Tal, eine perfekte Belohnung nach einem aktiven Tag.",
+        "hu": "Kerékpártúrája a modern ipar és a vidéki báj keverékén vezeti keresztül. A reggel az ipari negyed megtekintésével kezdődik, mielőtt a történelmi központba teker. Felfedezi a templomokat és romokat, átérezve a régió múltját. A délután a festői Aricești-tóhoz viszi egy jól megérdemelt pihenőre. A túra a Prahova-völgyre nyíló panorámás kilátással zárul, ami tökéletes jutalom egy aktív nap után.",
+        "ro": "Turul pe bicicletă vă poartă printr-un amestec de industrie modernă și farmec rural. Dimineața începe cu o privire asupra industriei, înainte de a pedala spre centrul istoric. Explorați biserici și ruine, simțind trecutul regiunii. După-amiaza vă aduce la pitorescul Lac Aricești pentru o pauză binemeritată. Turul se încheie cu o vedere panoramică asupra Văii Prahovei, o recompensă perfectă după o zi activă.",
+        "en": "Your bike tour takes you through a mix of modern industry and rural charm. The morning starts with a look at industry before cycling to the historic center. You'll explore churches and ruins, feeling the region's past. The afternoon brings you to the picturesque Lake Aricești for a well-deserved break. The tour concludes with a panoramic view of the Prahova Valley, a perfect reward after an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Ein herzhafter Käsekuchen, perfekt für einen schnellen Energieschub."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "Ein pflanzlicher Brotaufstrich aus Auberginen und Paprika, ideal für ein Picknick."
+          },
+          {
+            "name": "Covrigi",
+            "tip": "Rumänische Brezeln, oft mit Mohn oder Sesam bestreut, ein toller Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Túrós pite (Plăcintă cu brânză)",
+            "tip": "Kiadós sós pite, tökéletes egy gyors energiabevitelhez."
+          },
+          {
+            "name": "Zakuszka (Zacuscă)",
+            "tip": "Padlizsánból és paprikából készült zöldségkrém, ideális piknikhez."
+          },
+          {
+            "name": "Perec (Covrigi)",
+            "tip": "Román perec, gyakran mákkal vagy szezámmaggal megszórva, remek úti harapnivaló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "O plăcintă sărată, perfectă pentru o gustare rapidă care să vă dea energie."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "O pastă vegetală din vinete și ardei, ideală pentru un picnic."
+          },
+          {
+            "name": "Covrigi",
+            "tip": "Un snack excelent pentru drum, adesea presărat cu mac sau susan."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plăcintă cu brânză (Cheese Pie)",
+            "tip": "A savory cheese pie, perfect for a quick energy boost."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "A vegetable spread made from eggplant and peppers, ideal for a picnic."
+          },
+          {
+            "name": "Covrigi",
+            "tip": "Romanian pretzels, often topped with poppy or sesame seeds, a great on-the-go snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aricești-See",
+            "tip": "Finden Sie eine Bank am Ufer und genießen Sie die Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Feldwege um Nedelea",
+            "tip": "Entfliehen Sie dem Verkehr auf den ruhigen Wegen zwischen den Feldern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von den Cantacuzino-Ruinen",
+            "tip": "Ein historischer Ort, der zum Nachdenken über die Zeit einlädt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aricești-tó",
+            "tip": "Keressen egy padot a parton, és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Földutak Nedelea körül",
+            "tip": "Meneküljön el a forgalom elől a mezők közötti csendes utakon.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Cantacuzino-romoktól",
+            "tip": "Történelmi hely, amely elgondolkodtat az idő múlásán.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Aricești",
+            "tip": "Găsiți o bancă pe mal și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Drumuri de țară în jurul Nedelea",
+            "tip": "Evadați de trafic pe cărările liniștite dintre câmpuri.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Ruinele Cantacuzino",
+            "tip": "Un loc istoric care invită la meditație asupra timpului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aricești Lake",
+            "tip": "Find a bench on the shore and enjoy the silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Country roads around Nedelea",
+            "tip": "Escape the traffic on the quiet paths between the fields.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Cantacuzino Ruins",
+            "tip": "A historic place that invites contemplation about time.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie Ausschau nach Schildern für 'Produse de casă' (hausgemachte Produkte)."
+          },
+          {
+            "name": "Lokale Imkereien",
+            "tip": "Die Region ist für ihren Honig bekannt; ein süßes und authentisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "Keresse a 'Produse de casă' (házi termékek) táblákat."
+          },
+          {
+            "name": "Helyi méhészetek",
+            "tip": "A régió híres a mézéről; édes és autentikus ajándéktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine la poartă",
+            "tip": "Fiți atenți la semnele pentru 'Produse de casă'."
+          },
+          {
+            "name": "Stupine locale",
+            "tip": "Regiunea este cunoscută pentru mierea sa; un suvenir dulce și autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmgate stalls",
+            "tip": "Look for signs for 'Produse de casă' (homemade products)."
+          },
+          {
+            "name": "Local Apiaries",
+            "tip": "The region is known for its honey; a sweet and authentic souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad für unbefestigte Wege und Landstraßen geeignet ist.",
+          "Tragen Sie einen Helm und helle Kleidung für eine bessere Sichtbarkeit.",
+          "Ein Reparaturset für Reifenpannen ist eine gute Vorsichtsmaßnahme.",
+          "Planen Sie Ihre Route im Voraus, da die Beschilderung variieren kann."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy kerékpárja alkalmas-e földutakra és országutakra.",
+          "Viseljen sisakot és világos ruházatot a jobb láthatóság érdekében.",
+          "Egy defektjavító készlet jó óvintézkedés.",
+          "Tervezze meg előre az útvonalat, mivel a jelzések változhatnak."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este potrivită pentru drumuri neasfaltate și de țară.",
+          "Purtați cască și haine deschise la culoare pentru o mai bună vizibilitate.",
+          "Un kit de reparație pentru pană este o bună măsură de precauție.",
+          "Planificați-vă traseul în avans, deoarece semnalizarea poate varia."
+        ],
+        "en": [
+          "Ensure your bike is suitable for dirt tracks and country roads.",
+          "Wear a helmet and bright clothing for better visibility.",
+          "A puncture repair kit is a good precaution.",
+          "Plan your route in advance as signage can vary."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 19.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ploiești West Industrial Park",
+            "hu": "Ploiești Nyugati Ipari Park",
+            "ro": "Parcul Industrial Ploiești Vest",
+            "en": "Ploiești West Industrial Park"
+          },
+          "coords": [
+            25.93,
+            44.94
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein kurzer Blick auf den Motor der lokalen Wirtschaft, bevor Sie ins Ländliche fahren.",
+            "hu": "Rövid betekintés a helyi gazdaság motorjába, mielőtt vidékre indulna.",
+            "ro": "O scurtă privire la motorul economiei locale înainte de a vă îndrepta spre zona rurală.",
+            "en": "A brief look at the engine of the local economy before heading into the countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Rathaus",
+            "hu": "Központ Klaszter: Városháza",
+            "ro": "Cluster Centru: Primărie",
+            "en": "Center Cluster: Town Hall"
+          },
+          "coords": [
+            25.9015,
+            44.9605
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:04",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Parken Sie hier. Dies ist der Ausgangspunkt für Ihren Spaziergang durch das Zentrum.",
+            "hu": "Parkoljon itt. Ez a központi séta kiindulópontja.",
+            "ro": "Parcați aici. Acesta este punctul de plecare pentru plimbarea prin centru.",
+            "en": "Park here. This is the starting point for your walk through the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmahnmal Aricești",
+            "hu": "Aricești-i Hősök Emlékműve",
+            "ro": "Monumentul Eroilor din Aricești",
+            "en": "Heroes' Monument of Aricești"
+          },
+          "coords": [
+            25.903,
+            44.961
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:28",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus zu diesem Ort des Gedenkens.",
+            "hu": "Rövid séta a Városházától ehhez az emlékhelyhez.",
+            "ro": "O scurtă plimbare de la primărie la acest loc de comemorare.",
+            "en": "A short walk from the town hall to this place of remembrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Elias",
+            "hu": "Szent Illés-templom",
+            "ro": "Biserica Sfântul Ilie Tesviteanul",
+            "en": "Saint Elijah Church"
+          },
+          "coords": [
+            25.898,
+            44.963
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang zur Hauptkirche des Dorfes fort.",
+            "hu": "Folytassa sétáját a falu főtemplomához.",
+            "ro": "Continuați plimbarea spre biserica principală a satului.",
+            "en": "Continue your walk to the village's main church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Nedelea: Kirche St. Nikolaus",
+            "hu": "Nedelea Klaszter: Szent Miklós-templom",
+            "ro": "Cluster Nedelea: Biserica Sf. Nicolae",
+            "en": "Nedelea Cluster: St. Nicholas Church"
+          },
+          "coords": [
+            25.865,
+            44.965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 35,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster und parken Sie in der Nähe dieser historischen Kirche.",
+            "hu": "Vezessen a következő klaszterhez, és parkoljon e történelmi templom közelében.",
+            "ro": "Conduceți la următorul cluster și parcați lângă această biserică istorică.",
+            "en": "Drive to the next cluster and park near this historic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cantacuzino-Ruinen",
+            "hu": "Cantacuzino-romok",
+            "ro": "Ruinele Cantacuzino",
+            "en": "Cantacuzino Ruins"
+          },
+          "coords": [
+            25.885,
+            44.968
+          ],
+          "category": "historical",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher zu den Ruinen für eine ausgiebige Erkundung und Mittagspause.",
+            "hu": "Rövid kitérő a romokhoz egy alapos felfedezésre és ebédszünetre.",
+            "ro": "Un scurt ocol la ruine pentru o explorare amănunțită și pauză de prânz.",
+            "en": "A short detour to the ruins for a thorough exploration and lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Natur: Aricești-See",
+            "hu": "Természet Klaszter: Aricești-tó",
+            "ro": "Cluster Natură: Lacul Aricești",
+            "en": "Nature Cluster: Aricești Lake"
+          },
+          "coords": [
+            25.875,
+            44.98
+          ],
+          "category": "natural features",
+          "arrive_at": "14:28",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Der letzte Stopp des Tages. Parken Sie und genießen Sie die Natur am See und im Prahova-Tal.",
+            "hu": "A nap utolsó állomása. Parkoljon le, és élvezze a természetet a tónál és a Prahova-völgyben.",
+            "ro": "Ultima oprire a zilei. Parcați și bucurați-vă de natură la lac și în Valea Prahovei.",
+            "en": "The last stop of the day. Park and enjoy nature at the lake and in the Prahova Valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die Gegend flexibel in Clustern. Sie beginnen mit einem industriellen Einblick, bevor Sie im historischen Zentrum parken, um Denkmäler und Kirchen zu Fuß zu entdecken. Am Mittag fahren Sie zum Nedelea-Cluster, um eine weitere Kirche und die nahegelegenen Cantacuzino-Ruinen zu besuchen. Der Nachmittag gehört ganz der Natur: Sie parken am Aricești-See und verbringen eine ausgedehnte, entspannte Zeit am Wasser und mit Blick auf das Prahova-Tal.",
+        "hu": "Autóval rugalmasan, klaszterekben fedezi fel a környéket. Ipari betekintéssel kezd, majd a történelmi központban parkolva gyalogosan fedezi fel az emlékműveket és templomokat. Délben a Nedelea-klaszterhez hajt, hogy meglátogasson egy másik templomot és a közeli Cantacuzino-romokat. A délután teljes egészében a természeté: az Aricești-tónál parkol, és egy hosszú, pihentető időt tölt a vízparton, a Prahova-völgyre nyíló kilátással.",
+        "ro": "Cu mașina, explorați zona în mod flexibil, pe clustere. Începeți cu o incursiune industrială, apoi parcați în centrul istoric pentru a descoperi monumente și biserici pe jos. La prânz, conduceți spre clusterul Nedelea pentru a vizita o altă biserică și ruinele Cantacuzino din apropiere. După-amiaza este dedicată în întregime naturii: parcați la Lacul Aricești și petreceți un timp îndelungat și relaxant pe malul apei, cu vedere la Valea Prahovei.",
+        "en": "By car, you explore the area flexibly in clusters. You start with an industrial insight before parking in the historic center to discover monuments and churches on foot. At noon, you drive to the Nedelea cluster to visit another church and the nearby Cantacuzino ruins. The afternoon is all about nature: you park at Lake Aricești and spend an extended, relaxing time by the water, overlooking the Prahova Valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz",
+            "tip": "Ein traditionelles Gericht aus Polenta, Käse und oft Speck, das in ländlichen Restaurants zu finden ist."
+          },
+          {
+            "name": "Tochitură moldovenească",
+            "tip": "Ein herzhafter Schweinefleischeintopf, serviert mit Ei und Mămăligă (Polenta)."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein köstliches Dessert aus gebratenem oder gekochtem Teig, serviert mit Sauerrahm und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bulz",
+            "tip": "Hagyományos étel puliszkából, sajtból és gyakran szalonnából, amelyet vidéki éttermekben találhat."
+          },
+          {
+            "name": "Moldvai tokány (Tochitură)",
+            "tip": "Kiadós sertéspörkölt, tojással és mămăligă-val (puliszkával) tálalva."
+          },
+          {
+            "name": "Túrófánk (Papanași)",
+            "tip": "Ízletes desszert sült vagy főtt tésztából, tejföllel és lekvárral tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz",
+            "tip": "Un fel de mâncare tradițional din mămăligă, brânză și adesea slănină, găsit în restaurantele rurale."
+          },
+          {
+            "name": "Tochitură moldovenească",
+            "tip": "O tocană consistentă de porc, servită cu ou și mămăligă."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert delicios din aluat prăjit sau fiert, servit cu smântână și dulceață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulz",
+            "tip": "A traditional dish of polenta, cheese, and often bacon, found in rural restaurants."
+          },
+          {
+            "name": "Tochitură moldovenească",
+            "tip": "A hearty pork stew served with an egg and mămăligă (polenta)."
+          },
+          {
+            "name": "Papanași",
+            "tip": "A delicious dessert of fried or boiled dough, served with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aricești-See",
+            "tip": "Perfekt für einen langen, ungestörten Nachmittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Prahova-Tal",
+            "tip": "Fahren Sie eine Nebenstraße entlang, halten Sie an und lauschen Sie der Stille.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Umgebung der Cantacuzino-Ruinen",
+            "tip": "Abseits der Hauptpfade finden Sie ruhige Ecken mit historischem Flair.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aricești-tó",
+            "tip": "Tökéletes egy hosszú, zavartalan délutánhoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Prahova-völgy",
+            "tip": "Vezessen végig egy mellékúton, álljon meg és hallgassa a csendet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Cantacuzino-romok környéke",
+            "tip": "A fő ösvényektől távolabb csendes, történelmi hangulatú sarkokat talál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Aricești",
+            "tip": "Perfect pentru o după-amiază lungă și netulburată.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Valea Prahovei",
+            "tip": "Conduceți pe un drum secundar, opriți-vă și ascultați liniștea.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Împrejurimile Ruinelor Cantacuzino",
+            "tip": "Departe de cărările principale, veți găsi colțuri liniștite cu o aură istorică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aricești Lake",
+            "tip": "Perfect for a long, undisturbed afternoon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Prahova Valley",
+            "tip": "Drive down a side road, stop, and listen to the silence.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Surroundings of Cantacuzino Ruins",
+            "tip": "Away from the main paths, you will find quiet corners with a historical atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käse von lokalen Produzenten",
+            "tip": "Suchen Sie nach 'Brânză de burduf', einer lokalen Käsespezialität."
+          },
+          {
+            "name": "Hausgemachte Marmeladen",
+            "tip": "Entlang der Landstraßen verkaufen Einheimische oft ihre hausgemachten Konserven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelők sajtja",
+            "tip": "Keresse a 'Brânză de burduf'-ot, egy helyi sajtkülönlegességet."
+          },
+          {
+            "name": "Házi lekvárok",
+            "tip": "Az országutak mentén a helyiek gyakran árulják házi készítésű befőttjeiket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de la producători locali",
+            "tip": "Căutați 'Brânză de burduf', o specialitate locală de brânză."
+          },
+          {
+            "name": "Dulcețuri de casă",
+            "tip": "De-a lungul drumurilor de țară, localnicii își vând adesea conservele făcute în casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese from local producers",
+            "tip": "Look for 'Brânză de burduf', a local cheese specialty."
+          },
+          {
+            "name": "Homemade jams",
+            "tip": "Along the country roads, locals often sell their homemade preserves."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine Offline-Karte herunter, da die Mobilfunkabdeckung lückenhaft sein kann.",
+          "Parken Sie nur auf ausgewiesenen Flächen.",
+          "Planen Sie zusätzliche Zeit für unvorhergesehene Stopps an schönen Aussichtspunkten ein.",
+          "Achten Sie auf landwirtschaftliche Fahrzeuge auf den Straßen."
+        ],
+        "hu": [
+          "Töltsön le egy offline térképet, mivel a mobil lefedettség hiányos lehet.",
+          "Csak a kijelölt helyeken parkoljon.",
+          "Tervezzen be extra időt a gyönyörű kilátópontoknál történő váratlan megállókra.",
+          "Vigyázzon a mezőgazdasági járművekre az utakon."
+        ],
+        "ro": [
+          "Descărcați o hartă offline, deoarece acoperirea mobilă poate fi discontinuă.",
+          "Parcați numai în zonele desemnate.",
+          "Planificați timp suplimentar pentru opriri neprevăzute la puncte de belvedere frumoase.",
+          "Fiți atenți la vehiculele agricole de pe drumuri."
+        ],
+        "en": [
+          "Download an offline map, as mobile coverage can be patchy.",
+          "Park only in designated areas.",
+          "Plan for extra time for unforeseen stops at beautiful viewpoints.",
+          "Be aware of agricultural vehicles on the roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Rathaus",
+            "hu": "Központ Klaszter: Városháza",
+            "ro": "Cluster Centru: Primărie",
+            "en": "Center Cluster: Town Hall"
+          },
+          "coords": [
+            25.9015,
+            44.9605
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie im Zentrum, das wahrscheinlich von einer Hauptbushaltestelle bedient wird.",
+            "hu": "Kezdje a központban, amelyet valószínűleg egy fő buszmegálló szolgál ki.",
+            "ro": "Începeți din centru, probabil deservit de o stație principală de autobuz.",
+            "en": "Start in the center, likely served by a main bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Elias",
+            "hu": "Szent Illés-templom",
+            "ro": "Biserica Sfântul Ilie Tesviteanul",
+            "en": "Saint Elijah Church"
+          },
+          "coords": [
+            25.898,
+            44.963
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Zentrum entfernt, um die Hauptkirche zu sehen.",
+            "hu": "Rövid séta a központtól a főtemplom megtekintéséhez.",
+            "ro": "O scurtă plimbare de la centru pentru a vedea biserica principală.",
+            "en": "A short walk from the center to see the main church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Nedelea: Kirche St. Nikolaus",
+            "hu": "Nedelea Klaszter: Szent Miklós-templom",
+            "ro": "Cluster Nedelea: Biserica Sf. Nicolae",
+            "en": "Nedelea Cluster: St. Nicholas Church"
+          },
+          "coords": [
+            25.865,
+            44.965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Dorf Nedelea.",
+            "hu": "Menjen helyi busszal Nedelea faluba.",
+            "ro": "Luați un autobuz local spre satul Nedelea.",
+            "en": "Take a local bus to the village of Nedelea."
+          }
+        },
+        {
+          "name": {
+            "de": "Cantacuzino-Ruinen",
+            "hu": "Cantacuzino-romok",
+            "ro": "Ruinele Cantacuzino",
+            "en": "Cantacuzino Ruins"
+          },
+          "coords": [
+            25.885,
+            44.968
+          ],
+          "category": "historical",
+          "arrive_at": "11:51",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein längerer Spaziergang von der Kirche zu den Ruinen, der sich aber lohnt.",
+            "hu": "Hosszabb, de megérő séta a templomtól a romokig.",
+            "ro": "O plimbare mai lungă de la biserică la ruine, dar care merită efortul.",
+            "en": "A longer but worthwhile walk from the church to the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Prahova-Tal Abschnitt",
+            "hu": "Prahova-völgyi szakasz",
+            "ro": "Valea Prahovei (secțiune)",
+            "en": "Prahova Valley Section"
+          },
+          "coords": [
+            25.89,
+            44.975
+          ],
+          "category": "natural features",
+          "arrive_at": "13:17",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer langen Pause in der Natur, bevor Sie einen Bus zurück nehmen.",
+            "hu": "Zárja a napot egy hosszú természetbeli szünettel, mielőtt visszabuszozna.",
+            "ro": "Încheiați ziua cu o pauză lungă în natură înainte de a lua un autobuz înapoi.",
+            "en": "End the day with a long break in nature before taking a bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erleben Sie Ariceștii aus der Perspektive der Einheimischen. Sie starten im Zentrum und erkunden die erste Kirche zu Fuß. Ein Bus bringt Sie dann nach Nedelea, wo Sie nach dem Besuch der Dorfkirche zu den faszinierenden Cantacuzino-Ruinen spazieren. Der Nachmittag ist für eine ausgedehnte, erholsame Zeit im Prahova-Tal reserviert, einem perfekten Ort, um die ländliche Atmosphäre zu genießen, bevor Sie Ihre Rückreise antreten.",
+        "hu": "Tömegközlekedéssel a helyiek szemszögéből tapasztalhatja meg Ariceștit. A központból indul, és gyalogosan fedezi fel az első templomot. Ezután egy busz elviszi Nedeleára, ahol a falusi templom meglátogatása után a lenyűgöző Cantacuzino-romokhoz sétál. A délután egy hosszú, pihentető időtöltésre van fenntartva a Prahova-völgyben, amely tökéletes hely a vidéki hangulat élvezetére, mielőtt visszaindulna.",
+        "ro": "Folosind transportul public, experimentați Ariceștii din perspectiva localnicilor. Porniți din centru și explorați prima biserică pe jos. Un autobuz vă duce apoi la Nedelea, unde, după vizitarea bisericii satului, vă plimbați până la fascinantele ruine Cantacuzino. După-amiaza este rezervată pentru un timp îndelungat și odihnitor în Valea Prahovei, un loc perfect pentru a vă bucura de atmosfera rurală înainte de a vă întoarce.",
+        "en": "Using public transport, you'll experience Ariceștii from a local's perspective. You start in the center and explore the first church on foot. A bus then takes you to Nedelea, where, after visiting the village church, you'll walk to the fascinating Cantacuzino ruins. The afternoon is reserved for an extended, restful time in the Prahova Valley, a perfect place to enjoy the rural atmosphere before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici",
+            "tip": "Suchen Sie nach einem Straßenverkaufsstand in der Nähe einer Bushaltestelle für einen authentischen Snack."
+          },
+          {
+            "name": "Gogoși",
+            "tip": "Rumänische Donuts, ein einfacher, aber köstlicher süßer Leckerbissen."
+          },
+          {
+            "name": "Ciorbă rădăuțeană",
+            "tip": "Eine cremige Hühnersuppe, eine leichtere Alternative zur Kuttelsuppe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mics (Mici)",
+            "tip": "Keressen egy utcai árust egy buszmegálló közelében egy autentikus harapnivalóért."
+          },
+          {
+            "name": "Fánk (Gogoși)",
+            "tip": "Román fánk, egyszerű, de finom édes csemege."
+          },
+          {
+            "name": "Radóci leves (Ciorbă rădăuțeană)",
+            "tip": "Krémes csirkeleves, a pacalleves könnyebb alternatívája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici",
+            "tip": "Căutați un vânzător ambulant lângă o stație de autobuz pentru o gustare autentică."
+          },
+          {
+            "name": "Gogoși",
+            "tip": "Un desert simplu, dar delicios."
+          },
+          {
+            "name": "Ciorbă rădăuțeană",
+            "tip": "O supă cremoasă de pui, o alternativă mai ușoară la ciorba de burtă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici",
+            "tip": "Look for a street vendor near a bus stop for an authentic snack."
+          },
+          {
+            "name": "Gogoși",
+            "tip": "Romanian doughnuts, a simple yet delicious sweet treat."
+          },
+          {
+            "name": "Ciorbă rădăuțeană",
+            "tip": "A creamy chicken soup, a lighter alternative to tripe soup."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prahova-Tal",
+            "tip": "Finden Sie einen ruhigen Pfad abseits der Hauptstraße, um die Natur zu genießen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof",
+            "tip": "Die Friedhöfe um die alten Kirchen sind oft Orte großer Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Warten auf den Bus",
+            "tip": "Nutzen Sie die Wartezeit an einer ländlichen Haltestelle, um die Umgebung zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prahova-völgy",
+            "tip": "Keressen egy csendes ösvényt a főúttól távol, hogy élvezhesse a természetet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "A régi templomok körüli temetők gyakran a nagy béke helyszínei.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Buszra várva",
+            "tip": "Használja ki a várakozási időt egy vidéki megállóban a környék megfigyelésére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Prahovei",
+            "tip": "Găsiți o cărare liniștită departe de drumul principal pentru a vă bucura de natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii",
+            "tip": "Cimitirele din jurul bisericilor vechi sunt adesea locuri de mare liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Așteptând autobuzul",
+            "tip": "Folosiți timpul de așteptare la o stație rurală pentru a observa împrejurimile.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prahova Valley",
+            "tip": "Find a quiet path away from the main road to enjoy nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Churchyard",
+            "tip": "The cemeteries around the old churches are often places of great peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Waiting for the bus",
+            "tip": "Use the waiting time at a rural stop to observe the surroundings.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Dorfläden",
+            "tip": "Unterstützen Sie die lokale Wirtschaft, indem Sie in den kleinen 'Magazin Mixt'-Läden einkaufen."
+          },
+          {
+            "name": "Produkte vom Bauernhof",
+            "tip": "Manchmal verkaufen Bauern ihre Produkte direkt an der Straße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis falusi boltok",
+            "tip": "Támogassa a helyi gazdaságot a kis 'Magazin Mixt' boltokban való vásárlással."
+          },
+          {
+            "name": "Termelői termékek",
+            "tip": "Néha a gazdák közvetlenül az út mellett árulják termékeiket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici magazine sătești",
+            "tip": "Sprijiniți economia locală cumpărând de la micile magazine 'Magazin Mixt'."
+          },
+          {
+            "name": "Produse de la fermă",
+            "tip": "Uneori, fermierii își vând produsele direct la marginea drumului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small village shops",
+            "tip": "Support the local economy by shopping at the small 'Magazin Mixt' stores."
+          },
+          {
+            "name": "Farm produce",
+            "tip": "Sometimes farmers sell their produce directly on the roadside."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne, da diese selten sein können.",
+          "Haben Sie Kleingeld für Bustickets bereit.",
+          "Seien Sie darauf vorbereitet, dass die Busse nicht immer pünktlich sind.",
+          "Fragen Sie Einheimische nach dem Weg; sie sind oft hilfsbereit."
+        ],
+        "hu": [
+          "Tájékozódjon előre a buszmenetrendekről, mivel ritkán járhatnak.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "Készüljön fel arra, hogy a buszok nem mindig pontosak.",
+          "Kérdezze meg a helyieket az útvonalról; gyakran segítőkészek."
+        ],
+        "ro": [
+          "Informați-vă în avans despre orarele autobuzelor, deoarece pot fi rare.",
+          "Aveți la îndemână bani mărunți pentru biletele de autobuz.",
+          "Fiți pregătit ca autobuzele să nu fie întotdeauna punctuale.",
+          "Întrebați localnicii despre direcții; sunt adesea de ajutor."
+        ],
+        "en": [
+          "Check bus schedules in advance, as they can be infrequent.",
+          "Have small change ready for bus tickets.",
+          "Be prepared for buses not always being on time.",
+          "Ask locals for directions; they are often helpful."
+        ]
+      }
+    }
+  }
+}

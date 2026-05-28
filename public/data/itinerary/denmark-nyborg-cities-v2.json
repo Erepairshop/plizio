@@ -1,0 +1,1140 @@
+{
+  "city_id": "denmark-nyborg-cities-v2",
+  "anchor": {
+    "name": "Nyborg",
+    "coords": [
+      55.31,
+      10.79
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Nyborg",
+            "hu": "Nyborgi kastély",
+            "ro": "Castelul Nyborg",
+            "en": "Nyborg Castle"
+          },
+          "coords": [
+            10.7895,
+            55.3135
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Das Schloss war Dänemarks erste königliche Residenz. Achten Sie auf die Ausstellungen über das mittelalterliche Parlament (Danehof).",
+            "hu": "Ez volt Dánia első királyi rezidenciája. Keresse a középkori parlamentről (Danehof) szóló kiállításokat.",
+            "ro": "A fost prima reședință regală a Danemarcei. Căutați expozițiile despre parlamentul medieval (Danehof).",
+            "en": "This was Denmark's first royal residence. Look for the exhibitions about the medieval parliament (Danehof)."
+          }
+        },
+        {
+          "name": {
+            "de": "Vor Frue Kirke",
+            "hu": "Miasszonyunk-templom",
+            "ro": "Biserica Maicii Domnului",
+            "en": "Church of Our Lady"
+          },
+          "coords": [
+            10.7922,
+            55.3128
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Beachten Sie die Deckenmalereien und den reich verzierten Altar aus dem 17. Jahrhundert.",
+            "hu": "Figyelje meg a mennyezeti festményeket és a díszes, 17. századi oltárt.",
+            "ro": "Observați picturile de pe tavan și altarul bogat ornamentat din secolul al XVII-lea.",
+            "en": "Note the ceiling paintings and the ornate 17th-century altarpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Mads Lerches Gård & Borgmestergården",
+            "hu": "Mads Lerche-udvar és Polgármesteri Hivatal",
+            "ro": "Curtea Mads Lerche & Primăria veche",
+            "en": "Mads Lerche's Yard & The Mayor's Yard"
+          },
+          "coords": [
+            10.7915,
+            55.3121
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Zwei benachbarte Kaufmannshöfe, die das städtische Leben vom 17. bis zum 19. Jahrhundert zeigen. Ein Kombiticket ist erhältlich.",
+            "hu": "Két szomszédos kereskedőudvar, amelyek a 17-19. századi városi életet mutatják be. Kombinált jegy kapható.",
+            "ro": "Două curți de negustori adiacente care prezintă viața urbană din secolele XVII-XIX. Există un bilet combinat.",
+            "en": "Two adjacent merchant's yards showcasing town life from the 17th to 19th centuries. A combined ticket is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            10.793,
+            55.313
+          ],
+          "category": "gastro",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Probieren Sie ein klassisches Smørrebrød in einem der Cafés am Marktplatz.",
+            "hu": "Kóstoljon meg egy klasszikus Smørrebrødet a piactéri kávézók egyikében.",
+            "ro": "Încercați un Smørrebrød clasic la una dintre cafenelele din piața centrală.",
+            "en": "Try a classic Smørrebrød at one of the cafés around the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Nyborg Wallanlagen",
+            "hu": "Nyborgi Várfal",
+            "ro": "Fortificațiile Nyborg",
+            "en": "Nyborg Ramparts"
+          },
+          "coords": [
+            10.7858,
+            55.3162
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Ein Spaziergang auf den alten Befestigungsanlagen bietet eine großartige Aussicht auf die Stadt und das Wasser.",
+            "hu": "Séta a régi erődítményeken, ahonnan nagyszerű kilátás nyílik a városra és a vízre.",
+            "ro": "O plimbare pe vechile fortificații oferă o priveliște superbă asupra orașului și a apei.",
+            "en": "A walk on the old fortifications provides a great view of the town and the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Nyborg Marina",
+            "hu": "Nyborgi kikötő",
+            "ro": "Portul de agrement Nyborg",
+            "en": "Nyborg Marina"
+          },
+          "coords": [
+            10.8015,
+            55.3105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Beobachten Sie die Boote und genießen Sie die maritime Atmosphäre. Es gibt Bänke mit Blick auf den Großen Belt.",
+            "hu": "Nézze a hajókat és élvezze a tengeri hangulatot. A Nagy-Beltre néző padok is vannak.",
+            "ro": "Priviți bărcile și bucurați-vă de atmosfera maritimă. Există bănci cu vedere la strâmtoarea Storebælt.",
+            "en": "Watch the boats and enjoy the maritime atmosphere. There are benches facing the Great Belt."
+          }
+        },
+        {
+          "name": {
+            "de": "Blick auf die Große-Belt-Brücke",
+            "hu": "Kilátás a Nagy-Belt hídra",
+            "ro": "Vedere la Podul Storebælt",
+            "en": "View of the Great Belt Bridge"
+          },
+          "coords": [
+            10.812,
+            55.308
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Der beste Blick auf die Brücke bietet sich vom Strand östlich des Yachthafens bei Sonnenuntergang.",
+            "hu": "A hídra a legjobb kilátás a kikötőtől keletre lévő strandról nyílik naplementekor.",
+            "ro": "Cea mai bună priveliște a podului este de pe plaja de la est de portul de agrement la apus.",
+            "en": "The best view of the bridge is from the beach east of the marina at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Nyborg, dem Herzen Dänemarks, beginnt am Schloss, wo die Nation geformt wurde. Schlendern Sie durch die historischen Gassen zur Vor Frue Kirke und zu den alten Kaufmannshöfen. Nach dem Mittagessen erkunden Sie die mächtigen Wallanlagen. Am Nachmittag spazieren Sie zur Marina, um die maritime Atmosphäre zu genießen. Der Tag endet mit einem unvergesslichen Blick auf die Große-Belt-Brücke im Abendlicht.",
+        "hu": "Nyborgban, Dánia szívében, a nap a kastélynál kezdődik, ahol a nemzet formálódott. Sétáljon végig a történelmi sikátorokon a Miasszonyunk-templomhoz és a régi kereskedőudvarokhoz. Ebéd után fedezze fel a hatalmas erődítményeket. Délután sétáljon le a kikötőbe, hogy élvezze a tengeri hangulatot. A napot a Nagy-Belt híd felejthetetlen látványa zárja az esti fényben.",
+        "ro": "Ziua dvs. în Nyborg, inima Danemarcei, începe la castel, unde națiunea a fost formată. Plimbați-vă pe aleile istorice până la Biserica Maicii Domnului și vechile curți ale negustorilor. După prânz, explorați fortificațiile impunătoare. După-amiaza, mergeți la portul de agrement pentru a vă bucura de atmosfera maritimă. Ziua se încheie cu o priveliște de neuitat a Podului Storebælt în lumina serii.",
+        "en": "Your day in Nyborg, the heart of Denmark, begins at the castle where the nation was shaped. Stroll through historic alleys to the Church of Our Lady and old merchant yards. After lunch, explore the mighty ramparts. In the afternoon, walk to the marina to soak in the maritime atmosphere. The day concludes with an unforgettable view of the Great Belt Bridge in the evening light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frikadeller",
+            "tip": "Dänische Fleischbällchen, oft mit Kartoffelsalat serviert. Suchen Sie nach Restaurants, die 'Dagens Ret' (Tagesgericht) anbieten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frikadeller",
+            "tip": "Dán húsgombóc, gyakran burgonyasalátával tálalva. Keressen olyan éttermeket, amelyek 'Dagens Ret'-et (napi ajánlat) kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Frikadeller",
+            "tip": "Chiftele daneze, adesea servite cu salată de cartofi. Căutați restaurante care oferă 'Dagens Ret' (preparatul zilei)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frikadeller",
+            "tip": "Danish meatballs, often served with potato salad. Look for restaurants offering 'Dagens Ret' (dish of the day)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang auf den Wallanlagen",
+            "tip": "Ein ruhiger Weg mit Bänken und Blick auf die Dächer der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Strand am Knudshoved",
+            "tip": "Ein ruhiger Ort, um dem Rauschen der Wellen zu lauschen und auf die Brücke zu blicken.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a várfalon",
+            "tip": "Csendes ösvény padokkal, kilátással a város háztetőire.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Knudshoved strandja",
+            "tip": "Nyugodt hely, ahol hallgathatja a hullámok morajlását és nézheti a hidat.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe fortificații",
+            "tip": "O alee liniștită cu bănci și priveliști peste acoperișurile orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja de la Knudshoved",
+            "tip": "Un loc calm pentru a asculta valurile și a privi podul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk on the Ramparts",
+            "tip": "A quiet path with benches and views over the city's rooftops.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Beach at Knudshoved",
+            "tip": "A calm spot to listen to the waves and look out at the bridge.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "In den kleinen Galerien der Innenstadt finden sich oft handgefertigte Keramikwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "A belvárosi kis galériákban gyakran található kézzel készített kerámia."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Articole de ceramică artizanală pot fi găsite adesea în micile galerii din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Ceramics",
+            "tip": "Handmade pottery can often be found in the small galleries in the town center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, ein Auto ist im Zentrum nicht notwendig.",
+          "Prüfen Sie die Öffnungszeiten des Schlosses und der Museen, da diese saisonal variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakő egyenetlen lehet.",
+          "A legtöbb látnivaló gyalogosan elérhető, a központban nincs szükség autóra.",
+          "Ellenőrizze a kastély és a múzeumok nyitvatartási idejét, mivel az szezonálisan változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos; o mașină nu este necesară în centru.",
+          "Verificați orele de deschidere ale castelului și muzeelor, deoarece acestea pot varia în funcție de sezon."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights are within walking distance; a car is not necessary in the center.",
+          "Check the opening hours for the castle and museums as they can vary seasonally."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Nyborg",
+            "hu": "Nyborgi kastély",
+            "ro": "Castelul Nyborg",
+            "en": "Nyborg Castle"
+          },
+          "coords": [
+            10.7895,
+            55.3135
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Vor Frue Kirke & Museen",
+            "hu": "Miasszonyunk-templom és Múzeumok",
+            "ro": "Biserica Maicii Domnului & Muzee",
+            "en": "Church of Our Lady & Museums"
+          },
+          "coords": [
+            10.7918,
+            55.3125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch at the Marina"
+          },
+          "coords": [
+            10.8015,
+            55.3105
+          ],
+          "category": "gastro",
+          "arrive_at": "12:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Küste",
+            "hu": "Kerékpározás a part mentén",
+            "ro": "Plimbare cu bicicleta pe coastă",
+            "en": "Ride along the coast"
+          },
+          "coords": [
+            10.825,
+            55.305
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:08",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Große-Belt-Brücke",
+            "hu": "Nagy-Belt híd kilátópont",
+            "ro": "Punct de belvedere Podul Storebælt",
+            "en": "Great Belt Bridge Viewpoint"
+          },
+          "coords": [
+            10.845,
+            55.301
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0
+        },
+        {
+          "name": {
+            "de": "Nyborg Wallanlagen",
+            "hu": "Nyborgi Várfal",
+            "ro": "Fortificațiile Nyborg",
+            "en": "Nyborg Ramparts"
+          },
+          "coords": [
+            10.7858,
+            55.3162
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0
+        },
+        {
+          "name": {
+            "de": "Absacker im Stadtzentrum",
+            "hu": "Ital a központban",
+            "ro": "O băutură în centrul orașului",
+            "en": "Final drink in the city center"
+          },
+          "coords": [
+            10.793,
+            55.313
+          ],
+          "category": "gastro",
+          "arrive_at": "16:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad entdecken Sie Nyborgs Geschichte und Küste. Beginnen Sie am Schloss, dann eine kurze Fahrt zur Kirche und den Museen. Genießen Sie Ihr Mittagessen am Hafen, bevor Sie die Küste entlang zur Große-Belt-Brücke radeln. Der Weg zurück führt Sie über die alten Wallanlagen, ein perfekter Abschluss, bevor Sie den Tag im Stadtzentrum ausklingen lassen.",
+        "hu": "Kerékpárral fedezheti fel Nyborg történelmét és partvidékét. Kezdje a kastélynál, majd tekerjen el a templomhoz és a múzeumokhoz. Ebédeljen a kikötőben, mielőtt a part mentén a Nagy-Belt hídhoz kerékpározna. Visszafelé az út a régi várfalon vezet keresztül, tökéletes befejezés, mielőtt a napot a városközpontban zárná.",
+        "ro": "Cu bicicleta, explorați istoria și coasta Nyborgului. Începeți de la castel, apoi o scurtă plimbare până la biserică și muzee. Savurați prânzul în port înainte de a pedala de-a lungul coastei spre Podul Storebælt. Drumul înapoi vă duce peste vechile fortificații, o încheiere perfectă înainte de a termina ziua în centrul orașului.",
+        "en": "By bike, you'll explore Nyborg's history and coast. Start at the castle, then a short ride to the church and museums. Enjoy lunch at the marina before cycling along the coast to the Great Belt Bridge. The way back takes you over the old ramparts, a perfect finish before ending the day in the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Fischfrikadellen, eine Spezialität der Küstenregionen. Oft in Hafennähe frisch erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Dán halgombóc, a tengerparti régiók specialitása. Gyakran frissen kapható a kikötő közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Chiftele de pește daneze, o specialitate a regiunilor de coastă. Adesea disponibile proaspete lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiskefrikadeller",
+            "tip": "Danish fish cakes, a specialty of the coastal regions. Often available fresh near the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Holckenhavn Fjord",
+            "tip": "Eine ruhige Radtour landeinwärts entlang des Fjords bietet eine friedliche Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strandweg",
+            "tip": "Der Weg östlich des Yachthafens ist ideal für eine ruhige Pause mit Meeresrauschen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Holckenhavn-fjord",
+            "tip": "Egy csendes kerékpártúra a szárazföld belseje felé a fjord mentén békés tájat kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tengerparti ösvény",
+            "tip": "A kikötőtől keletre vezető ösvény ideális egy csendes pihenőhöz a tenger hangjával.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiordul Holckenhavn",
+            "tip": "O plimbare liniștită cu bicicleta în interiorul continentului, de-a lungul fiordului, oferă un peisaj pașnic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Calea de pe plajă",
+            "tip": "Calea de la est de portul de agrement este ideală pentru o pauză liniștită cu sunetul mării.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Holckenhavn Fjord",
+            "tip": "A quiet bike ride inland along the fjord offers peaceful scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beach Path",
+            "tip": "The path east of the marina is ideal for a quiet break with the sound of the sea.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bernstein",
+            "tip": "Halten Sie in den Souvenirläden Ausschau nach lokal gefundenem Bernstein (Rav)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borostyán",
+            "tip": "Keresse a helyi forrásból származó borostyánt (Rav) a szuvenírboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chihlimbar",
+            "tip": "Căutați chihlimbar găsit local (Rav) în magazinele de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Amber",
+            "tip": "Look for locally found amber (Rav) in the souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad am Bahnhof oder im Stadtzentrum.",
+          "Einige Küstenwege können windig sein, bringen Sie eine winddichte Jacke mit.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch bei kurzen Stopps."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a vasútállomáson vagy a városközpontban.",
+          "Néhány tengerparti út szeles lehet, hozzon magával szélálló dzsekit.",
+          "Mindig zárja le a kerékpárt, még rövid megállók esetén is."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la gară sau din centrul orașului.",
+          "Unele trasee de coastă pot fi vântoase; aduceți o geacă rezistentă la vânt.",
+          "Încuiati întotdeauna bicicleta, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Rent a bike at the train station or in the city center.",
+          "Some coastal paths can be windy; bring a windproof jacket.",
+          "Always lock your bike, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 19.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken & Start am Schloss Nyborg",
+            "hu": "Parkolás és indulás a Nyborgi kastélynál",
+            "ro": "Parcare și start la Castelul Nyborg",
+            "en": "Park & Start at Nyborg Castle"
+          },
+          "coords": [
+            10.7895,
+            55.3135
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe des Schlosses für den Vormittag. Von hier aus ist das gesamte historische Zentrum zu Fuß erreichbar.",
+            "hu": "Parkolja le autóját a kastély közelében a délelőttre. Innen az egész történelmi központ gyalogosan bejárható.",
+            "ro": "Parcați mașina lângă castel pentru dimineață. De aici, întregul centru istoric este accesibil pe jos.",
+            "en": "Park your car near the castle for the morning. The entire historic center is walkable from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Vor Frue Kirke & Borgmestergården",
+            "hu": "Miasszonyunk-templom és Polgármesteri Hivatal",
+            "ro": "Biserica Maicii Domnului & Primăria veche",
+            "en": "Church of Our Lady & The Mayor's Yard"
+          },
+          "coords": [
+            10.7918,
+            55.3125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss führt Sie zu diesen beiden wichtigen historischen Stätten.",
+            "hu": "Egy rövid séta a kastélytól elvezet ehhez a két fontos történelmi helyszínhez.",
+            "ro": "O scurtă plimbare de la castel vă duce la aceste două situri istorice importante.",
+            "en": "A short walk from the castle takes you to these two important historic sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Fahrt zum Schloss Holckenhavn",
+            "hu": "Ebéd és utazás a Holckenhavn kastélyhoz",
+            "ro": "Prânz și drum spre Castelul Holckenhavn",
+            "en": "Lunch and drive to Holckenhavn Castle"
+          },
+          "coords": [
+            10.788,
+            55.286
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Nach dem Mittagessen im Zentrum fahren Sie zum malerischen Schloss Holckenhavn südlich der Stadt. Beachten Sie, dass es sich in Privatbesitz befindet und nur von außen besichtigt werden kann.",
+            "hu": "Ebéd után a központban vezessen el a festői Holckenhavn kastélyhoz a várostól délre. Vegye figyelembe, hogy magántulajdonban van, és csak kívülről látogatható.",
+            "ro": "După prânz în centru, conduceți spre pitorescul Castel Holckenhavn la sud de oraș. Rețineți că este proprietate privată și poate fi văzut doar din exterior.",
+            "en": "After lunch in the center, drive to the picturesque Holckenhavn Castle south of the city. Note it is private property and can only be viewed from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Große-Belt-Brücke Aussicht",
+            "hu": "Utazás a Nagy-Belt híd kilátójához",
+            "ro": "Drum spre punctul de belvedere al Podului Storebælt",
+            "en": "Drive to the Great Belt Bridge View"
+          },
+          "coords": [
+            10.88,
+            55.31
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Fahren Sie zum östlichen Ende von Nyborg, um einen beeindruckenden Blick auf dieses technische Meisterwerk zu erhalten. Es gibt Parkmöglichkeiten in Strandnähe.",
+            "hu": "Vezessen Nyborg keleti végébe, hogy lenyűgöző kilátás nyíljon erre a mérnöki remekműre. A strand közelében van parkolási lehetőség.",
+            "ro": "Conduceți spre capătul estic al Nyborgului pentru o priveliște impresionantă a acestei capodopere inginerești. Există parcare disponibilă lângă plajă.",
+            "en": "Drive to the eastern end of Nyborg for an impressive view of this engineering marvel. Parking is available near the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Nyborg Marina",
+            "hu": "Nyborgi kikötő",
+            "ro": "Portul de agrement Nyborg",
+            "en": "Nyborg Marina"
+          },
+          "coords": [
+            10.8015,
+            55.3105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Vom Brücken-Aussichtspunkt aus ist es nur ein kurzer Spaziergang oder eine sehr kurze Fahrt zum Yachthafen. Ein guter Ort für einen Kaffee.",
+            "hu": "A híd kilátópontjától csak egy rövid séta vagy egy nagyon rövid autóút a kikötő. Jó hely egy kávéra.",
+            "ro": "De la punctul de vedere al podului, este doar o scurtă plimbare pe jos sau cu mașina până la portul de agrement. Un loc bun pentru o cafea.",
+            "en": "From the bridge viewpoint, it's a short walk or a very short drive to the marina. A good spot for a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum & Abendessen",
+            "hu": "Visszatérés a központba és vacsora",
+            "ro": "Întoarcere în centru și cină",
+            "en": "Return to Center & Dinner"
+          },
+          "coords": [
+            10.793,
+            55.313
+          ],
+          "category": "gastro",
+          "arrive_at": "17:59",
+          "stay_min": 0,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Beenden Sie Ihren Tag mit einem Abendessen in einem der Restaurants, an denen Sie am Morgen vorbeigekommen sind.",
+            "hu": "Zárja a napot egy vacsorával az egyik étteremben, amely mellett reggel elhaladt.",
+            "ro": "Încheiați ziua cu o cină la unul dintre restaurantele pe lângă care ați trecut dimineața.",
+            "en": "End your day with dinner at one of the restaurants you passed in the morning."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erleben Sie Nyborgs Zentrum und seine malerische Umgebung. Parken Sie am Schloss und erkunden Sie die Altstadt zu Fuß. Am Nachmittag fahren Sie zum prachtvollen Schloss Holckenhavn und weiter zur imposanten Große-Belt-Brücke. Ein Spaziergang an der Marina rundet den Tag ab, bevor Sie zum Abendessen ins Zentrum zurückkehren.",
+        "hu": "Autóval megtapasztalhatja Nyborg központját és festői környékét. Parkoljon a kastélynál, és fedezze fel gyalog az óvárost. Délután hajtson el a csodálatos Holckenhavn kastélyhoz, majd tovább a lenyűgöző Nagy-Belt hídhoz. Egy séta a kikötőben teszi teljessé a napot, mielőtt visszatérne a központba vacsorázni.",
+        "ro": "Cu mașina, experimentați centrul Nyborgului și împrejurimile sale pitorești. Parcați la castel și explorați orașul vechi pe jos. După-amiaza, conduceți la magnificul Castel Holckenhavn și mai departe la impunătorul Pod Storebælt. O plimbare în portul de agrement completează ziua înainte de a vă întoarce în centru pentru cină.",
+        "en": "With a car, you can experience Nyborg's center and its scenic surroundings. Park at the castle and explore the old town on foot. In the afternoon, drive to the magnificent Holckenhavn Castle and then on to the impressive Great Belt Bridge. A walk at the marina completes the day before you return to the center for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Æbleflæsk",
+            "tip": "Ein traditionelles Gericht mit gebratenem Schweinebauch und Äpfeln. Herzhaft und perfekt nach einem langen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Æbleflæsk",
+            "tip": "Hagyományos dán étel sült sertéshassal és almával. Kiadós és tökéletes egy hosszú nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Æbleflæsk",
+            "tip": "Un fel de mâncare tradițional danez cu burtă de porc prăjită și mere. Sățios și perfect după o zi lungă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Æbleflæsk",
+            "tip": "A traditional Danish dish with fried pork belly and apples. Hearty and perfect after a long day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Holckenhavn",
+            "tip": "Der Park um das Schloss ist oft sehr ruhig und ideal für einen besinnlichen Spaziergang.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Aussichtspunkt Slipshavn",
+            "tip": "Etwas weiter südlich bietet dieser Punkt eine ruhige Alternative, um die Natur zu genießen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Holckenhavn kastélypark",
+            "tip": "A kastély körüli park gyakran nagyon csendes és ideális egy elgondolkodtató sétához.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Slipshavn kilátópont",
+            "tip": "Kicsit délebbre ez a pont egy csendes alternatívát kínál a természet élvezetére.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Holckenhavn",
+            "tip": "Parcul din jurul castelului este adesea foarte liniștit și ideal pentru o plimbare contemplativă.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Punct de belvedere Slipshavn",
+            "tip": "Puțin mai la sud, acest punct oferă o alternativă liniștită pentru a vă bucura de natură.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Holckenhavn Castle Park",
+            "tip": "The park around the castle is often very quiet and ideal for a contemplative walk.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Slipshavn Viewpoint",
+            "tip": "A bit further south, this point offers a quiet alternative to enjoy nature.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Auf dem Land um Nyborg finden Sie Hofläden (Gårdbutik), die lokale Produkte wie Obst, Honig und Fleisch verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmboltok",
+            "tip": "Nyborg környékén a vidéken találhat farmboltokat (Gårdbutik), amelyek helyi termékeket, például gyümölcsöt, mézet és húst árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă",
+            "tip": "În zona rurală din jurul Nyborg, veți găsi magazine de la fermă (Gårdbutik) care vând produse locale precum fructe, miere și carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "In the countryside around Nyborg, you will find farm shops (Gårdbutik) selling local produce like fruit, honey, and meat."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Innenstadt ist oft kostenpflichtig.",
+          "Planen Sie zusätzliche Zeit für den Verkehr auf der Brücke ein, falls Sie diese überqueren möchten.",
+          "Google Maps ist zuverlässig für die Navigation in der Region."
+        ],
+        "hu": [
+          "A belvárosi parkolás gyakran fizetős.",
+          "Tervezzen plusz időt a hídon való közlekedésre, ha át akar kelni rajta.",
+          "A Google Maps megbízható a régióban való navigációhoz."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este adesea cu plată.",
+          "Planificați timp suplimentar pentru traficul de pe pod dacă intenționați să îl traversați.",
+          "Google Maps este fiabil pentru navigarea în regiune."
+        ],
+        "en": [
+          "Parking in the city center is often paid.",
+          "Plan for extra time for traffic on the bridge if you intend to cross it.",
+          "Google Maps is reliable for navigation in the region."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof & Gang zum Schloss",
+            "hu": "Érkezés az állomásra és séta a kastélyhoz",
+            "ro": "Sosire la gară și plimbare la castel",
+            "en": "Arrival at Station & Walk to Castle"
+          },
+          "coords": [
+            10.785,
+            55.312
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nyborgs Bahnhof ist der Startpunkt. Von hier aus ist es ein kurzer Spaziergang zum Schloss.",
+            "hu": "A nyborgi vasútállomás a kiindulópont. Innen egy rövid séta vezet a kastélyhoz.",
+            "ro": "Gara din Nyborg este punctul de plecare. De aici, este o scurtă plimbare pe jos până la castel.",
+            "en": "Nyborg station is the starting point. It's a short walk to the castle from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt-Cluster: Kirche & Museen",
+            "hu": "Óvárosi klaszter: templom és múzeumok",
+            "ro": "Clusterul orașului vechi: biserică și muzee",
+            "en": "Old Town Cluster: Church & Museums"
+          },
+          "coords": [
+            10.7918,
+            55.3125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Erkunden Sie das Herz der Altstadt zu Fuß. Alles liegt nur wenige Minuten voneinander entfernt.",
+            "hu": "Fedezze fel gyalog az óváros szívét. Minden csak néhány percre van egymástól.",
+            "ro": "Explorați inima orașului vechi pe jos. Totul este la doar câteva minute distanță.",
+            "en": "Explore the heart of the old town on foot. Everything is just a few minutes apart."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Busfahrt zur Marina",
+            "hu": "Ebéd és buszozás a kikötőbe",
+            "ro": "Prânz și călătorie cu autobuzul la port",
+            "en": "Lunch and Bus to the Marina"
+          },
+          "coords": [
+            10.8015,
+            55.3105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nehmen Sie einen lokalen Bus vom Zentrum zur Marina. Die Fahrt dauert etwa 10 Minuten.",
+            "hu": "Menjen helyi busszal a központból a kikötőbe. Az út körülbelül 10 percig tart.",
+            "ro": "Luați un autobuz local din centru spre portul de agrement. Călătoria durează aproximativ 10 minute.",
+            "en": "Take a local bus from the center to the marina. The journey takes about 10 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Brücken-Aussichtspunkt",
+            "hu": "Séta a híd kilátópontjához",
+            "ro": "Plimbare la punctul de belvedere al podului",
+            "en": "Walk to the Bridge Viewpoint"
+          },
+          "coords": [
+            10.812,
+            55.308
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Vom Yachthafen aus führt ein schöner Spazierweg entlang der Küste zum besten Aussichtspunkt.",
+            "hu": "A kikötőből egy szép sétány vezet a part mentén a legjobb kilátóponthoz.",
+            "ro": "De la portul de agrement, o plimbare frumoasă de-a lungul coastei duce la cel mai bun punct de belvedere.",
+            "en": "From the marina, a nice coastal walk leads to the best viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zurück und Spaziergang auf den Wallanlagen",
+            "hu": "Busz vissza és séta a várfalon",
+            "ro": "Autobuz înapoi și plimbare pe fortificații",
+            "en": "Bus back and Walk on the Ramparts"
+          },
+          "coords": [
+            10.7858,
+            55.3162
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum und erklimmen Sie die Wallanlagen für eine letzte Panoramaaussicht.",
+            "hu": "Menjen busszal vissza a központba, és másszon fel a várfalra egy utolsó panorámás kilátásért.",
+            "ro": "Luați autobuzul înapoi în centru și urcați pe fortificații pentru o ultimă priveliște panoramică.",
+            "en": "Take the bus back to the center and climb the ramparts for a final panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Ende am Bahnhof",
+            "hu": "A program vége az állomáson",
+            "ro": "Sfârșit la gară",
+            "en": "End at the Station"
+          },
+          "coords": [
+            10.785,
+            55.312
+          ],
+          "category": "transport",
+          "arrive_at": "17:49",
+          "stay_min": 0,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Die Tour endet wieder am Bahnhof, bereit für Ihre Weiterreise.",
+            "hu": "A túra ismét az állomáson ér véget, készen a továbbutazásra.",
+            "ro": "Turul se încheie din nou la gară, gata pentru călătoria dvs. ulterioară.",
+            "en": "The tour ends back at the station, ready for your onward journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nyborg lässt sich leicht mit öffentlichen Verkehrsmitteln erkunden. Vom Bahnhof aus spazieren Sie zu den historischen Schätzen der Altstadt. Nach dem Mittagessen bringt Sie ein Bus zur Küste, wo Sie die Marina und den Blick auf die Große-Belt-Brücke genießen. Ein letzter Bus bringt Sie zurück, um den Tag mit einem Spaziergang auf den alten Wallanlagen abzuschließen.",
+        "hu": "Nyborg könnyen felfedezhető tömegközlekedéssel. Az állomásról sétáljon el az óváros történelmi kincseihez. Ebéd után egy busz viszi a partra, ahol élvezheti a kikötőt és a Nagy-Belt híd látványát. Egy utolsó busz viszi vissza, hogy a napot egy sétával zárja a régi várfalon.",
+        "ro": "Nyborg este ușor de explorat cu transportul public. De la gară, plimbați-vă spre comorile istorice ale orașului vechi. După prânz, un autobuz vă duce la coastă pentru a vă bucura de portul de agrement și de priveliștea Podului Storebælt. Un ultim autobuz vă aduce înapoi pentru a încheia ziua cu o plimbare pe vechile fortificații.",
+        "en": "Nyborg is easily explored by public transport. From the station, walk to the historic treasures of the old town. After lunch, a bus takes you to the coast to enjoy the marina and the view of the Great Belt Bridge. A final bus brings you back to conclude the day with a walk on the old ramparts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Das klassische dänische offene Sandwich. Suchen Sie nach einem 'smørrebrødsforretning' für eine authentische Auswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "A klasszikus dán nyitott szendvics. Keressen egy 'smørrebrødsforretning'-et az autentikus választékért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Clasicul sandviș deschis danez. Căutați un 'smørrebrødsforretning' pentru o selecție autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "The classic Danish open-faced sandwich. Look for a 'smørrebrødsforretning' for an authentic selection."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bibliotheksgarten",
+            "tip": "Der kleine Garten hinter der Bibliothek ist ein verstecktes Juwel der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenaufgang am Strand",
+            "tip": "Wenn Sie früh anreisen, ist der Sonnenaufgang über dem Großen Belt magisch.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könyvtár kertje",
+            "tip": "A könyvtár mögötti kis kert a nyugalom rejtett gyöngyszeme.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Napfelkelte a strandon",
+            "tip": "Ha korán érkezik, a napfelkelte a Nagy-Belt felett varázslatos.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina bibliotecii",
+            "tip": "Mica grădină din spatele bibliotecii este o bijuterie ascunsă de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Răsărit pe plajă",
+            "tip": "Dacă ajungeți devreme, răsăritul peste strâmtoarea Storebælt este magic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Library Garden",
+            "tip": "The small garden behind the library is a hidden gem of tranquility.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunrise at the beach",
+            "tip": "If you arrive early, the sunrise over the Great Belt is magical.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunsthandwerker",
+            "tip": "Die Gassen der Altstadt beherbergen mehrere kleine Werkstätten und Galerien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézművesek",
+            "tip": "Az óváros sikátoraiban több kis műhely és galéria található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizani locali",
+            "tip": "Aleile din orașul vechi găzduiesc mai multe ateliere și galerii mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Artisans",
+            "tip": "The alleys of the old town host several small workshops and galleries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Die Busfahrpläne finden Sie online oder an den Haltestellen.",
+          "Überprüfen Sie die letzte Busverbindung zurück ins Zentrum, um nicht stecken zu bleiben."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "A buszmenetrendeket online vagy a megállókban találja.",
+          "Ellenőrizze az utolsó buszjáratot a központba, hogy ne ragadjon ott."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Orarele autobuzelor pot fi găsite online sau la stații.",
+          "Verificați ultimul autobuz înapoi spre centru pentru a nu rămâne blocat."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan multiple trips.",
+          "Bus schedules can be found online or at the stops.",
+          "Check the last bus back to the center to avoid getting stranded."
+        ]
+      }
+    }
+  }
+}

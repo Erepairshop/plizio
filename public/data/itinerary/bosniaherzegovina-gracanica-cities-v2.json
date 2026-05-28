@@ -1,0 +1,1220 @@
+{
+  "city_id": "bosniaherzegovina-gracanica-cities-v2",
+  "anchor": {
+    "name": "Gračanica",
+    "coords": [
+      18.3,
+      44.7
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt-Viertel",
+            "hu": "Óváros negyed",
+            "ro": "Cartierul vechi",
+            "en": "Old Town Quarter"
+          },
+          "coords": [
+            18.307,
+            44.707
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem bosnischen Kaffee in einem der traditionellen Cafés.",
+            "hu": "Kezdje a napot egy bosnyák kávéval az egyik hagyományos kávézóban.",
+            "ro": "Începeți ziua cu o cafea bosniacă la una dintre cafenelele tradiționale.",
+            "en": "Start your day with a Bosnian coffee at one of the traditional cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Osman-kapetan-Medresa",
+            "hu": "Osman-kapetan medresze",
+            "ro": "Medresa Osman-kapetan",
+            "en": "Osman-kapetan Medresa"
+          },
+          "coords": [
+            18.308,
+            44.706
+          ],
+          "category": "historical",
+          "arrive_at": "10:01",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Ahmed-paša-Moschee",
+            "hu": "Ahmed-paša mecset",
+            "ro": "Moscheea Ahmed-paša",
+            "en": "Ahmed-paša Mosque"
+          },
+          "coords": [
+            18.309,
+            44.708
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Uhrturm Gračanica",
+            "hu": "Gračanicai óratorony",
+            "ro": "Turnul cu ceas Gračanica",
+            "en": "Gračanica Clock Tower"
+          },
+          "coords": [
+            18.31,
+            44.709
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:47",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Gračanica",
+            "hu": "Gračanicai Kulturális Központ",
+            "ro": "Centrul Cultural Gračanica",
+            "en": "Cultural Centre Gračanica"
+          },
+          "coords": [
+            18.312,
+            44.709
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Befreiung",
+            "hu": "Felszabadulási emlékmű",
+            "ro": "Monumentul Eliberării",
+            "en": "Monument to the Liberation"
+          },
+          "coords": [
+            18.298,
+            44.705
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:04",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3
+        },
+        {
+          "name": {
+            "de": "Spreča-Flussufer",
+            "hu": "Spreča-folyó partja",
+            "ro": "Malul râului Spreča",
+            "en": "Spreča Riverbank"
+          },
+          "coords": [
+            18.29,
+            44.7
+          ],
+          "category": "natural features",
+          "arrive_at": "14:44",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt im Herzen von Gračanica, dem alten Viertel, wo osmanische Architektur auf modernes Leben trifft. Vormittags erkunden Sie die historischen Juwelen der Stadt, darunter die beeindruckende Ahmed-paša-Moschee und die alte Medresa, die von der reichen Bildungsgeschichte der Region zeugen. Nach einem Mittagessen mit lokalen Spezialitäten führt Sie der Weg zum Denkmal für die Befreiung, einem Ort des Nachdenkens. Der Tag endet mit einem entspannten Spaziergang am Ufer des Flusses Spreča, wo Sie die Ruhe und die natürliche Schönheit der Umgebung genießen können.",
+        "hu": "Sétája Gračanica szívében, az óvárosi negyedben kezdődik, ahol az oszmán építészet találkozik a modern élettel. Délelőtt fedezze fel a város történelmi gyöngyszemeit, köztük a lenyűgöző Ahmed-paša mecsetet és a régi medreszét, amelyek a régió gazdag oktatási múltjáról tanúskodnak. Egy helyi specialitásokból álló ebéd után útja a Felszabadulási emlékműhöz vezet, amely az elmélyülés helyszíne. A nap egy pihentető sétával zárul a Spreča folyó partján, ahol élvezheti a környék nyugalmát és természeti szépségét.",
+        "ro": "Turul dumneavoastră pietonal începe în inima orașului Gračanica, cartierul vechi, unde arhitectura otomană întâlnește viața modernă. Dimineața explorați bijuteriile istorice ale orașului, inclusiv impresionanta Moschee Ahmed-paša și vechea Medresă, care mărturisesc bogata istorie educațională a regiunii. După un prânz cu specialități locale, drumul vă duce la Monumentul Eliberării, un loc de reflecție. Ziua se încheie cu o plimbare relaxantă pe malul râului Spreča, unde vă puteți bucura de liniștea și frumusețea naturală a zonei.",
+        "en": "Your walking tour begins in the heart of Gračanica, the old quarter, where Ottoman architecture meets modern life. In the morning, you'll explore the city's historical gems, including the impressive Ahmed-paša Mosque and the old Medresa, which testify to the region's rich educational history. After a lunch of local specialties, your path leads to the Monument to the Liberation, a place for reflection. The day concludes with a relaxing stroll along the banks of the Spreča River, where you can enjoy the tranquility and natural beauty of the surroundings."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Probieren Sie die bosnische Nationalspeise in einem der traditionellen 'ćevabdžinica'."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "Ein herzhafter Eintopf, perfekt für ein sättigendes Mittagessen."
+          },
+          {
+            "name": "Tufahija",
+            "tip": "Ein mit Walnüssen gefüllter und gekochter Apfel, ein süßer Abschluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Kóstolja meg a bosnyák nemzeti ételt egy hagyományos 'ćevabdžinicában'."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "Egy kiadós egytálétel, tökéletes egy laktató ebédhez."
+          },
+          {
+            "name": "Tufahija",
+            "tip": "Dióval töltött és főtt alma, egy édes lezárás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Încercați mâncarea națională bosniacă la una dintre 'ćevabdžinica' tradiționale."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "O tocană consistentă, perfectă pentru un prânz sățios."
+          },
+          {
+            "name": "Tufahija",
+            "tip": "Un măr umplut cu nuci și fiert, un final dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Try the Bosnian national dish at one of the traditional 'ćevabdžinica'."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "A hearty stew, perfect for a filling lunch."
+          },
+          {
+            "name": "Tufahija",
+            "tip": "A walnut-stuffed and boiled apple, a sweet finish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spreča-Flussufer",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das fließende Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof der Ahmed-paša-Moschee",
+            "tip": "Außerhalb der Gebetszeiten ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spreča-folyó partja",
+            "tip": "Keressen egy csendes padot, és nézze a hömpölygő vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ahmed-paša mecset udvara",
+            "tip": "Az imaidőn kívül a csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Spreča",
+            "tip": "Găsiți o bancă liniștită și priviți apa curgând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Moscheii Ahmed-paša",
+            "tip": "În afara orelor de rugăciune, un loc de liniște și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spreča Riverbank",
+            "tip": "Find a quiet bench and watch the flowing water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Ahmed-paša Mosque",
+            "tip": "Outside of prayer times, a place of silence and contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und hausgemachte Waren von lokalen Verkäufern."
+          },
+          {
+            "name": "Handwerksläden in der Altstadt",
+            "tip": "Finden Sie handgefertigte Souvenirs und traditionelle bosnische Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és házi készítésű árukat a helyi árusoktól."
+          },
+          {
+            "name": "Kézműves boltok az Óvárosban",
+            "tip": "Találjon kézzel készített ajándéktárgyakat és hagyományos bosnyák kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și bunuri de casă de la vânzătorii locali."
+          },
+          {
+            "name": "Magazine de artizanat în orașul vechi",
+            "tip": "Găsiți suveniruri lucrate manual și artizanat tradițional bosniac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy fresh produce and homemade goods from local vendors."
+          },
+          {
+            "name": "Craft shops in the Old Town",
+            "tip": "Find handmade souvenirs and traditional Bosnian crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Achten Sie auf die Gebetszeiten, wenn Sie Moscheen besuchen möchten, und kleiden Sie sich respektvoll.",
+          "Nehmen Sie immer etwas Bargeld mit, da nicht alle kleinen Geschäfte und Cafés Karten akzeptieren."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "Vegye figyelembe az imaidőket, ha mecseteket látogat, és öltözzön tisztelettudóan.",
+          "Mindig legyen Önnél készpénz, mert nem minden kis üzlet és kávézó fogad el kártyát."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele din orașul vechi pot fi denivelate.",
+          "Fiți atenți la orele de rugăciune dacă doriți să vizitați moscheile și îmbrăcați-vă respectuos.",
+          "Luați întotdeauna niște bani lichizi cu dumneavoastră, deoarece nu toate magazinele mici și cafenelele acceptă carduri."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Be mindful of prayer times if you plan to visit mosques and dress respectfully.",
+          "Always carry some cash, as not all small shops and cafes accept cards."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt-Viertel",
+            "hu": "Óváros negyed",
+            "ro": "Cartierul vechi",
+            "en": "Old Town Quarter"
+          },
+          "coords": [
+            18.307,
+            44.707
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Rande der Fußgängerzone ab, um das Viertel zu Fuß zu erkunden.",
+            "hu": "Zárja le a kerékpárját a sétálóövezet szélén, hogy gyalog fedezze fel a negyedet.",
+            "ro": "Încuietăți bicicleta la marginea zonei pietonale pentru a explora cartierul pe jos.",
+            "en": "Lock your bike on the edge of the pedestrian zone to explore the quarter on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ahmed-paša-Moschee & Uhrturm",
+            "hu": "Ahmed-paša mecset és Óratorony",
+            "ro": "Moscheea Ahmed-paša & Turnul cu ceas",
+            "en": "Ahmed-paša Mosque & Clock Tower"
+          },
+          "coords": [
+            18.309,
+            44.708
+          ],
+          "category": "historical",
+          "arrive_at": "09:43",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Gračanica",
+            "hu": "Gračanicai Kulturális Központ",
+            "ro": "Centrul Cultural Gračanica",
+            "en": "Cultural Centre Gračanica"
+          },
+          "coords": [
+            18.312,
+            44.709
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:46",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Befreiung",
+            "hu": "Felszabadulási emlékmű",
+            "ro": "Monumentul Eliberării",
+            "en": "Monument to the Liberation"
+          },
+          "coords": [
+            18.298,
+            44.705
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:46",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7
+        },
+        {
+          "name": {
+            "de": "Spreča-Flussufer (Fahrt entlang des Flusses)",
+            "hu": "Spreča-folyó partja (kerékpárút a folyó mentén)",
+            "ro": "Malul râului Spreča (plimbare cu bicicleta de-a lungul râului)",
+            "en": "Spreča Riverbank (Ride along the river)"
+          },
+          "coords": [
+            18.28,
+            44.69
+          ],
+          "category": "natural features",
+          "arrive_at": "12:24",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum & Mittagessen",
+            "hu": "Visszatérés a központba és ebéd",
+            "ro": "Întoarcere în centru și prânz",
+            "en": "Return to Center & Lunch"
+          },
+          "coords": [
+            18.307,
+            44.707
+          ],
+          "category": "gastro",
+          "arrive_at": "14:12",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.8
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und erkunden Sie Gračanica auf zwei Rädern. Der Morgen beginnt mit einer Tour durch das historische Zentrum, vorbei an der Moschee und dem Uhrturm. Anschließend radeln Sie zum Kulturzentrum, bevor Sie am Denkmal für die Befreiung innehalten. Der Höhepunkt der Tour ist eine ausgedehnte Fahrt entlang des malerischen Spreča-Flussufers, ideal für eine Mittagspause im Grünen. Am Nachmittag kehren Sie gemütlich ins Stadtzentrum zurück, um in einem lokalen Restaurant die verdiente Stärkung zu genießen.",
+        "hu": "Pattanjon nyeregbe, és fedezze fel Gračanicát két keréken. A reggel a történelmi központban tett túrával kezdődik, elhaladva a mecset és az óratorony mellett. Ezután a kulturális központhoz teker, mielőtt megállna a Felszabadulási emlékműnél. A túra fénypontja egy hosszabb kerékpározás a festői Spreča-folyó partján, amely ideális egy zöldben elköltött ebédhez. Délután kényelmesen visszatér a városközpontba, hogy egy helyi étteremben élvezze a jól megérdemelt pihenést.",
+        "ro": "Urcați-vă în șa și explorați Gračanica pe două roți. Dimineața începe cu un tur al centrului istoric, trecând pe lângă moschee și turnul cu ceas. Apoi pedalați spre centrul cultural înainte de a face o pauză la Monumentul Eliberării. Punctul culminant al turului este o plimbare extinsă de-a lungul malului pitoresc al râului Spreča, ideală pentru o pauză de prânz în natură. După-amiaza vă întoarceți în centrul orașului pentru a vă bucura de o masă binemeritată la un restaurant local.",
+        "en": "Get on your bike and explore Gračanica on two wheels. The morning starts with a tour of the historic center, passing the mosque and the clock tower. You'll then cycle to the cultural center before pausing at the Monument to the Liberation. The highlight of the tour is an extended ride along the picturesque Spreča riverbank, perfect for a lunch break in the green. In the afternoon, you'll leisurely return to the city center to enjoy a well-deserved meal at a local restaurant."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Probieren Sie die bosnische Nationalspeise in einem der traditionellen 'ćevabdžinica'."
+          },
+          {
+            "name": "Burek",
+            "tip": "Ein mit Fleisch oder Käse gefülltes Blätterteiggebäck, ideal als schneller Snack."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Erfrischen Sie sich nach der Radtour mit einem kühlen bosnischen Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Kóstolja meg a bosnyák nemzeti ételt egy hagyományos 'ćevabdžinicában'."
+          },
+          {
+            "name": "Burek",
+            "tip": "Hússal vagy sajttal töltött leveles tészta, ideális gyors harapnivalóként."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Frissítse fel magát egy hűsítő bosnyák sörrel a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Încercați mâncarea națională bosniacă la una dintre 'ćevabdžinica' tradiționale."
+          },
+          {
+            "name": "Burek",
+            "tip": "O plăcintă cu foietaj umplută cu carne sau brânză, ideală pentru o gustare rapidă."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Răcoriți-vă cu o bere bosniacă rece după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Try the Bosnian national dish at one of the traditional 'ćevabdžinica'."
+          },
+          {
+            "name": "Burek",
+            "tip": "A flaky pastry filled with meat or cheese, ideal for a quick snack."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Refresh yourself with a cold Bosnian beer after the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spreča-Flussufer",
+            "tip": "Eine Radpause mit Blick auf den Fluss ist pure Entspannung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park beim Kulturzentrum",
+            "tip": "Ein kleiner, oft übersehener Park für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spreča-folyó partja",
+            "tip": "Egy kerékpáros pihenő a folyóra néző kilátással tiszta kikapcsolódás.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park a Kulturális Központnál",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott park egy rövid szünetre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Spreča",
+            "tip": "O pauză de bicicletă cu vedere la râu este relaxare pură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de lângă Centrul Cultural",
+            "tip": "Un parc mic, adesea trecut cu vederea, pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spreča Riverbank",
+            "tip": "A bike break with a view of the river is pure relaxation.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park at the Cultural Centre",
+            "tip": "A small, often overlooked park for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Früchte für einen Energieschub während der Tour."
+          },
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Falls Sie Fahrradzubehör oder -reparaturen benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss gyümölcsöt energiafeltöltéshez a túra során."
+          },
+          {
+            "name": "Sportboltok",
+            "tip": "Ha kerékpár-kiegészítőkre vagy javításra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați fructe proaspete pentru un plus de energie în timpul turului."
+          },
+          {
+            "name": "Magazine de sport",
+            "tip": "În caz că aveți nevoie de accesorii pentru biciclete sau reparații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy fresh fruit for an energy boost during the tour."
+          },
+          {
+            "name": "Sports shops",
+            "tip": "In case you need bike accessories or repairs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck und die Bremsen, bevor Sie losfahren.",
+          "Einige Straßen in der Innenstadt können stark befahren sein; fahren Sie vorsichtig.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Fahrt entlang des Flusses."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "A belváros néhány utcája forgalmas lehet; vezessen óvatosan.",
+          "Vigyen magával elegendő vizet, különösen a folyó menti útra."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor și frânele înainte de a porni.",
+          "Unele străzi din centrul orașului pot fi aglomerate; conduceți cu prudență.",
+          "Luați suficientă apă cu dumneavoastră, mai ales pentru plimbarea de-a lungul râului."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before you set off.",
+          "Some downtown streets can be busy; ride with caution.",
+          "Bring enough water, especially for the ride along the river."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 42.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster Gračanica (bei Tuzla)",
+            "hu": "Gračanicai kolostor (Tuzla mellett)",
+            "ro": "Mănăstirea Gračanica (lângă Tuzla)",
+            "en": "Gračanica Monastery (near Tuzla)"
+          },
+          "coords": [
+            18.45,
+            44.6
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 25.0,
+          "tip_5lang": {
+            "de": "Ein spiritueller und friedlicher Start in den Tag, abseits des städtischen Trubels.",
+            "hu": "Spirituális és békés napkezdés a városi nyüzsgéstől távol.",
+            "ro": "Un început de zi spiritual și pașnic, departe de agitația urbană.",
+            "en": "A spiritual and peaceful start to the day, away from the urban hustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Spreča-Flussufer",
+            "hu": "Spreča-folyó partja",
+            "ro": "Malul râului Spreča",
+            "en": "Spreča Riverbank"
+          },
+          "coords": [
+            18.29,
+            44.7
+          ],
+          "category": "natural features",
+          "arrive_at": "11:59",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 16.0
+        },
+        {
+          "name": {
+            "de": "Cluster: Gračanica Zentrum (Parken)",
+            "hu": "Klaszter: Gračanica Központ (Parkolás)",
+            "ro": "Cluster: Centrul Gračanica (Parcare)",
+            "en": "Cluster: Gračanica Center (Parking)"
+          },
+          "coords": [
+            18.305,
+            44.706
+          ],
+          "category": "transport",
+          "arrive_at": "13:20",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1
+        },
+        {
+          "name": {
+            "de": "Altstadt & Osman-kapetan-Medresa",
+            "hu": "Óváros és Osman-kapetan medresze",
+            "ro": "Orașul Vechi și Medresa Osman-kapetan",
+            "en": "Old Town & Osman-kapetan Medresa"
+          },
+          "coords": [
+            18.307,
+            44.707
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Ahmed-paša-Moschee",
+            "hu": "Ahmed-paša mecset",
+            "ro": "Moscheea Ahmed-paša",
+            "en": "Ahmed-paša Mosque"
+          },
+          "coords": [
+            18.309,
+            44.708
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Uhrturm Gračanica",
+            "hu": "Gračanicai óratorony",
+            "ro": "Turnul cu ceas Gračanica",
+            "en": "Gračanica Clock Tower"
+          },
+          "coords": [
+            18.31,
+            44.709
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:22",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt mit einem spirituellen Ausflug zum abgelegenen Kloster Gračanica bei Tuzla, einem Ort der Ruhe. Danach fahren Sie zurück in Richtung Stadt und machen Halt am Ufer des Flusses Spreča für einen erfrischenden Spaziergang. Am Nachmittag parken Sie im Zentrum von Gračanica und erkunden den historischen Kern zu Fuß: Schlendern Sie durch die Altstadt, besuchen Sie die alte Medresa, bewundern Sie die Ahmed-paša-Moschee und besteigen Sie den Uhrturm für einen Panoramablick, bevor Sie den Tag ausklingen lassen.",
+        "hu": "Autós túrája egy spirituális kirándulással kezdődik a távoli, Tuzla melletti Gračanica kolostorhoz, a nyugalom helyére. Ezután visszautazik a város felé, és megáll a Spreča folyó partján egy frissítő sétára. Délután parkoljon le Gračanica központjában, és fedezze fel gyalog a történelmi magot: sétáljon végig az Óvárosban, látogasson el a régi medreszébe, csodálja meg az Ahmed-paša mecsetet, és másszon fel az óratoronyba a panorámás kilátásért, mielőtt lezárja a napot.",
+        "ro": "Turul dumneavoastră cu mașina începe cu o excursie spirituală la Mănăstirea Gračanica de lângă Tuzla, un loc de liniște. Apoi vă întoarceți spre oraș și faceți o oprire pe malul râului Spreča pentru o plimbare revigorantă. După-amiaza, parcați în centrul orașului Gračanica și explorați nucleul istoric pe jos: plimbați-vă prin Orașul Vechi, vizitați vechea Medresă, admirați Moscheea Ahmed-paša și urcați în Turnul cu Ceas pentru o vedere panoramică înainte de a încheia ziua.",
+        "en": "Your car tour begins with a spiritual trip to the remote Gračanica Monastery near Tuzla, a place of tranquility. Afterwards, you'll drive back towards the city and stop at the banks of the Spreča River for a refreshing walk. In the afternoon, park in the center of Gračanica and explore the historic core on foot: stroll through the Old Town, visit the old Medresa, admire the Ahmed-paša Mosque, and climb the Clock Tower for a panoramic view before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Fluss",
+            "tip": "Genießen Sie frischen Fisch mit Blick auf die Spreča."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Eine reichhaltige Hühner- und Gemüsesuppe, oft als Vorspeise serviert."
+          },
+          {
+            "name": "Kadaif",
+            "tip": "Ein süßes, sirupartiges Gebäck, das an Engelshaar erinnert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a folyóparton",
+            "tip": "Élvezze a friss halat a Spreča folyóra néző kilátással."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Gazdag csirke- és zöldségleves, gyakran előételként tálalva."
+          },
+          {
+            "name": "Kadaif",
+            "tip": "Édes, szirupos sütemény, amely angyalhajra emlékeztet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe malul râului",
+            "tip": "Bucurați-vă de pește proaspăt cu vedere la râul Spreča."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "O supă bogată de pui și legume, adesea servită ca aperitiv."
+          },
+          {
+            "name": "Kadaif",
+            "tip": "O prăjitură dulce, siropoasă, care amintește de părul de înger."
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside Restaurant",
+            "tip": "Enjoy fresh fish with a view of the Spreča River."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "A rich chicken and vegetable soup, often served as a starter."
+          },
+          {
+            "name": "Kadaif",
+            "tip": "A sweet, syrupy pastry resembling angel hair."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster Gračanica",
+            "tip": "Die Abgeschiedenheit des Klosters bietet absolute Stille und Frieden.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussicht vom Uhrturm",
+            "tip": "Überblicken Sie die Stadt und die umliegende Landschaft in relativer Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gračanica kolostor",
+            "tip": "A kolostor elszigeteltsége abszolút csendet és békét kínál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás az Óratoronyból",
+            "tip": "Tekintse át a várost és a környező tájat viszonylagos nyugalomban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Gračanica",
+            "tip": "Izolarea mănăstirii oferă liniște și pace absolută.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere din Turnul cu Ceas",
+            "tip": "Priviți orașul și peisajul înconjurător într-o liniște relativă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gračanica Monastery",
+            "tip": "The seclusion of the monastery offers absolute silence and peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the Clock Tower",
+            "tip": "Overlook the city and the surrounding landscape in relative quiet.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Klosterladen",
+            "tip": "Kaufen Sie handgemachte Ikonen, Kerzen oder lokalen Honig."
+          },
+          {
+            "name": "Souvenirläden in der Altstadt",
+            "tip": "Finden Sie traditionelles Kupfergeschirr und andere bosnische Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostor boltja",
+            "tip": "Vásároljon kézzel készített ikonokat, gyertyákat vagy helyi mézet."
+          },
+          {
+            "name": "Ajándékboltok az Óvárosban",
+            "tip": "Találjon hagyományos rézedényeket és más bosnyák kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul mănăstirii",
+            "tip": "Cumpărați icoane lucrate manual, lumânări sau miere locală."
+          },
+          {
+            "name": "Magazine de suveniruri în Orașul Vechi",
+            "tip": "Găsiți vase tradiționale din cupru și alte obiecte de artizanat bosniac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Shop",
+            "tip": "Buy handmade icons, candles, or local honey."
+          },
+          {
+            "name": "Souvenir shops in the Old Town",
+            "tip": "Find traditional copperware and other Bosnian handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten im Stadtzentrum im Voraus; es kann voll werden.",
+          "Die Straßen zum Kloster können eng sein, fahren Sie vorsichtig.",
+          "Ein GPS oder eine Navigations-App ist für die Fahrt zum Kloster unerlässlich."
+        ],
+        "hu": [
+          "Előre tájékozódjon a belvárosi parkolási lehetőségekről; zsúfolt lehet.",
+          "A kolostorhoz vezető utak szűkek lehetnek, vezessen óvatosan.",
+          "GPS vagy navigációs alkalmazás elengedhetetlen a kolostorhoz vezető úton."
+        ],
+        "ro": [
+          "Verificați dinainte opțiunile de parcare din centrul orașului; poate fi aglomerat.",
+          "Drumurile spre mănăstire pot fi înguste, conduceți cu atenție.",
+          "Un GPS sau o aplicație de navigație este esențială pentru drumul spre mănăstire."
+        ],
+        "en": [
+          "Check parking options in the city center in advance; it can get crowded.",
+          "The roads to the monastery can be narrow, drive with care.",
+          "A GPS or navigation app is essential for the drive to the monastery."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 20.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt zum Kloster Gračanica (Regionalbus)",
+            "hu": "Utazás a Gračanica kolostorhoz (regionális busz)",
+            "ro": "Călătorie la Mănăstirea Gračanica (autobuz regional)",
+            "en": "Trip to Gračanica Monastery (Regional Bus)"
+          },
+          "coords": [
+            18.45,
+            44.6
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 19.0,
+          "tip_5lang": {
+            "de": "Informieren Sie sich vorab über den Busfahrplan, da die Verbindungen selten sein können.",
+            "hu": "Előzetesen tájékozódjon a buszmenetrendről, mivel a járatok ritkák lehetnek.",
+            "ro": "Verificați orarul autobuzului în avans, deoarece cursele pot fi rare.",
+            "en": "Check the bus schedule in advance as services can be infrequent."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum von Gračanica",
+            "hu": "Visszaút Gračanica központjába",
+            "ro": "Întoarcere în centrul orașului Gračanica",
+            "en": "Return to Gračanica Center"
+          },
+          "coords": [
+            18.305,
+            44.706
+          ],
+          "category": "transport",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 19.0
+        },
+        {
+          "name": {
+            "de": "Cluster: Altstadt & Medresa",
+            "hu": "Klaszter: Óváros és Medresze",
+            "ro": "Cluster: Orașul Vechi și Medresa",
+            "en": "Cluster: Old Town & Medresa"
+          },
+          "coords": [
+            18.307,
+            44.707
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Ahmed-paša-Moschee",
+            "hu": "Ahmed-paša mecset",
+            "ro": "Moscheea Ahmed-paša",
+            "en": "Ahmed-paša Mosque"
+          },
+          "coords": [
+            18.309,
+            44.708
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Uhrturm & Kulturzentrum",
+            "hu": "Óratorony és Kulturális Központ",
+            "ro": "Turnul cu ceas și Centrul Cultural",
+            "en": "Clock Tower & Cultural Centre"
+          },
+          "coords": [
+            18.311,
+            44.709
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln starten Sie den Tag mit einer längeren Busfahrt zum abgeschiedenen Kloster Gračanica, ein lohnender Ausflug in die spirituelle Seele der Region. Nach der Rückkehr ins Stadtzentrum nehmen Sie sich Zeit für ein Mittagessen. Der Nachmittag gehört ganz dem historischen Kern: Sie spazieren vom zentralen Busbahnhof zum Altstadtviertel, erkunden die Medresa und die Moschee und beenden Ihren Tag mit Kultur im Kulturzentrum und am Uhrturm.",
+        "hu": "A tömegközlekedést használva egy hosszabb buszúttal indul a nap a távoli Gračanica kolostorhoz, amely egy érdemes kirándulás a régió spirituális lelkébe. Miután visszatért a városközpontba, szánjon időt egy ebédre. A délután teljes egészében a történelmi magé: a központi buszpályaudvartól sétáljon el az óvárosi negyedbe, fedezze fel a medreszét és a mecsetet, és fejezze be a napot a kulturális központban és az óratoronynál.",
+        "ro": "Folosind transportul public, începeți ziua cu o călătorie mai lungă cu autobuzul la Mănăstirea Gračanica, o excursie plină de satisfacții în sufletul spiritual al regiunii. După întoarcerea în centrul orașului, luați-vă timp pentru prânz. După-amiaza este dedicată în întregime nucleului istoric: vă plimbați de la autogara centrală la cartierul Orașul Vechi, explorați Medresa și moscheea și încheiați ziua cu cultură la Centrul Cultural și Turnul cu Ceas.",
+        "en": "Using public transport, you'll start the day with a longer bus ride to the secluded Gračanica Monastery, a rewarding trip into the spiritual soul of the region. After returning to the city center, take time for lunch. The afternoon is entirely dedicated to the historic core: you'll walk from the central bus station to the Old Town quarter, explore the Medresa and the mosque, and end your day with culture at the Cultural Centre and the Clock Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pita",
+            "tip": "Eine andere Art von Blätterteiggebäck, oft mit Spinat (Zeljanica) oder Kartoffeln (Krompiruša)."
+          },
+          {
+            "name": "Straßencafé",
+            "tip": "Beobachten Sie das Treiben bei einem Kaffee und einem Stück Kuchen."
+          },
+          {
+            "name": "Sudžukice",
+            "tip": "Würzige bosnische Würstchen, eine leckere Alternative zu Ćevapi."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pita",
+            "tip": "Másfajta leveles tészta, gyakran spenóttal (Zeljanica) vagy krumplival (Krompiruša) töltve."
+          },
+          {
+            "name": "Utcai kávézó",
+            "tip": "Figyelje a nyüzsgést egy kávé és egy szelet sütemény mellett."
+          },
+          {
+            "name": "Sudžukice",
+            "tip": "Fűszeres bosnyák kolbászkák, ízletes alternatívája a Ćevapinak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pita",
+            "tip": "Un alt tip de patiserie cu foietaj, adesea cu spanac (Zeljanica) sau cartofi (Krompiruša)."
+          },
+          {
+            "name": "Cafenea stradală",
+            "tip": "Priviți agitația cu o cafea și o felie de prăjitură."
+          },
+          {
+            "name": "Sudžukice",
+            "tip": "Cârnăciori bosniaci picanți, o alternativă gustoasă la Ćevapi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pita",
+            "tip": "A different kind of flaky pastry, often with spinach (Zeljanica) or potatoes (Krompiruša)."
+          },
+          {
+            "name": "Street café",
+            "tip": "Watch the hustle and bustle over a coffee and a slice of cake."
+          },
+          {
+            "name": "Sudžukice",
+            "tip": "Spicy Bosnian sausages, a tasty alternative to Ćevapi."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt über Land",
+            "tip": "Die Fahrt zum Kloster bietet Ausblicke auf die ländliche bosnische Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof der Medresa",
+            "tip": "Ein ruhiger Ort, um die Architektur und die Geschichte auf sich wirken zu lassen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki buszozás",
+            "tip": "A kolostorba vezető út során betekintést nyerhet a bosnyák vidéki tájba.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A medresze udvara",
+            "tip": "Egy csendes hely, ahol magába szívhatja az építészetet és a történelmet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul prin țară",
+            "tip": "Călătoria spre mănăstire oferă vederi ale peisajului rural bosniac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Medresei",
+            "tip": "Un loc liniștit pentru a admira arhitectura și a absorbi istoria.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the countryside",
+            "tip": "The journey to the monastery offers views of the rural Bosnian landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the Medresa",
+            "tip": "A quiet place to soak in the architecture and history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie Snacks und Getränke für die Busfahrt."
+          },
+          {
+            "name": "Handwerksläden in der Altstadt",
+            "tip": "Stöbern Sie nach Souvenirs, während Sie auf Ihren Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon harapnivalót és italokat a buszútra."
+          },
+          {
+            "name": "Kézműves boltok az Óvárosban",
+            "tip": "Böngésszen ajándéktárgyak között, amíg a buszára vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați gustări și băuturi pentru călătoria cu autobuzul."
+          },
+          {
+            "name": "Magazine de artizanat în Orașul Vechi",
+            "tip": "Căutați suveniruri în timp ce așteptați autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy snacks and drinks for the bus journey."
+          },
+          {
+            "name": "Craft shops in the Old Town",
+            "tip": "Browse for souvenirs while waiting for your bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets im Voraus und haben Sie den genauen Betrag bereit.",
+          "Planen Sie Pufferzeiten für mögliche Verspätungen der öffentlichen Verkehrsmittel ein.",
+          "Ein Tagespass kann günstiger sein, wenn Sie mehrere Fahrten planen."
+        ],
+        "hu": [
+          "Vásároljon buszjegyet előre, és készítse elő a pontos összeget.",
+          "Tervezzen pufferidőt a tömegközlekedés lehetséges késéseire.",
+          "Egy napijegy olcsóbb lehet, ha több utazást tervez."
+        ],
+        "ro": [
+          "Cumpărați biletele de autobuz în avans și pregătiți suma exactă.",
+          "Planificați timp suplimentar pentru posibilele întârzieri ale transportului public.",
+          "Un abonament de o zi poate fi mai ieftin dacă planificați mai multe călătorii."
+        ],
+        "en": [
+          "Buy bus tickets in advance and have the exact amount ready.",
+          "Plan for buffer time for potential public transport delays.",
+          "A day pass might be cheaper if you plan multiple trips."
+        ]
+      }
+    }
+  }
+}

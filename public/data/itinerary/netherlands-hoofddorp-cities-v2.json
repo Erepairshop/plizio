@@ -1,0 +1,1304 @@
+{
+  "city_id": "netherlands-hoofddorp-cities-v2",
+  "anchor": {
+    "name": "Hoofddorp",
+    "coords": [
+      4.691,
+      52.303
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadhuis Hoofddorp",
+            "hu": "Hoofddorpi Városháza",
+            "ro": "Primăria Hoofddorp",
+            "en": "Hoofddorp City Hall"
+          },
+          "coords": [
+            4.6895,
+            52.3045
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur, die ein Verwaltungszentrum mit öffentlichem Raum verbindet.",
+            "hu": "Csodálja meg a modern építészetet, amely összeköti a közigazgatási központot a közterekkel.",
+            "ro": "Admirați arhitectura modernă care combină un centru administrativ cu spațiul public.",
+            "en": "Admire the modern architecture combining an administrative center with public space."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisch Museum Haarlemmermeer",
+            "hu": "Haarlemmermeer Történeti Múzeum",
+            "ro": "Muzeul de Istorie Haarlemmermeer",
+            "en": "Historical Museum Haarlemmermeer"
+          },
+          "coords": [
+            4.687,
+            52.308
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen über die Trockenlegung des Polders.",
+            "hu": "Fókuszáljon a polder lecsapolásáról szóló kiállításokra.",
+            "ro": "Concentrați-vă pe expozițiile despre drenarea polderului.",
+            "en": "Focus on the exhibitions detailing the draining of the polder."
+          }
+        },
+        {
+          "name": {
+            "de": "De Eersteling Mühle",
+            "hu": "De Eersteling szélmalom",
+            "ro": "Moara De Eersteling",
+            "en": "De Eersteling Mill"
+          },
+          "coords": [
+            4.679,
+            52.315
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Dies ist die älteste Getreidemühle im Haarlemmermeer, ein tolles Fotomotiv.",
+            "hu": "Ez a Haarlemmermeer legrégebbi gabonamalmája, remek fotótéma.",
+            "ro": "Aceasta este cea mai veche moară de cereale din Haarlemmermeer, un subiect excelent pentru fotografii.",
+            "en": "This is the oldest grain mill in the Haarlemmermeer, a great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort bij Hoofddorp",
+            "hu": "Hoofddorpi erőd",
+            "ro": "Fortul de la Hoofddorp",
+            "en": "Fort bij Hoofddorp"
+          },
+          "coords": [
+            4.676,
+            52.319
+          ],
+          "category": "castles",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kasematten und erfahren Sie mehr über die Verteidigungslinie von Amsterdam.",
+            "hu": "Fedezze fel a kazamatákat és tudjon meg többet Amszterdam védelmi vonaláról.",
+            "ro": "Explorați cazematele și aflați despre Linia de Apărare a Amsterdamului.",
+            "en": "Explore the casemates and learn about the Defence Line of Amsterdam."
+          }
+        },
+        {
+          "name": {
+            "de": "Geniedijk",
+            "hu": "Geniedijk gát",
+            "ro": "Digul Geniedijk",
+            "en": "Geniedijk"
+          },
+          "coords": [
+            4.678,
+            52.324
+          ],
+          "category": "monuments",
+          "arrive_at": "14:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein Teil des UNESCO-Weltkulturerbes, ideal für einen kurzen Spaziergang.",
+            "hu": "Az UNESCO Világörökség része, ideális egy rövid sétához.",
+            "ro": "Parte a Patrimoniului Mondial UNESCO, ideal pentru o scurtă plimbare.",
+            "en": "Part of the UNESCO World Heritage site, perfect for a brief walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Wandelbos Hoofddorp",
+            "hu": "Hoofddorpi sétaerdő",
+            "ro": "Pădurea Wandelbos Hoofddorp",
+            "en": "Wandelbos Hoofddorp"
+          },
+          "coords": [
+            4.698,
+            52.295
+          ],
+          "category": "parks",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den Wegen und genießen Sie die ruhige Atmosphäre am späten Nachmittag.",
+            "hu": "Pihenjen az ösvényeken, és élvezze a késő délutáni csendes légkört.",
+            "ro": "Relaxați-vă pe poteci și bucurați-vă de atmosfera liniștită de la sfârșitul după-amiezii.",
+            "en": "Relax on the paths and enjoy the quiet atmosphere in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Hoofddorp beginnt im modernen Herzen der Stadt am Stadhuis. Von dort aus tauchen Sie in die Vergangenheit ein und spazieren zum Historischen Museum, um die einzigartige Poldergeschichte zu entdecken. Am Mittag erkunden Sie das industrielle Erbe, indem Sie die Mühle De Eersteling und das beeindruckende Fort bij Hoofddorp besuchen. Der Nachmittag ist der Natur gewidmet. Ein Spaziergang entlang des Geniedijk und entspannende Momente im Wandelbos schließen Ihren Tag ab und zeigen die Mischung aus Ingenieurskunst und Grünflächen in Hoofddorp.",
+        "hu": "Hoofddorpi napja a város modern szívében, a Városházánál kezdődik. Innen a múltba merülve átsétál a Történeti Múzeumba, hogy felfedezze az egyedülálló poldertörténetet. Délben az ipari örökséget fedezi fel a De Eersteling malom és a lenyűgöző Hoofddorpi erőd meglátogatásával. A délután a természeté. A Geniedijk mentén tett séta és a Wandelbos erdőben eltöltött pihentető pillanatok zárják a napot, bemutatva Hoofddorp mérnöki bravúrjainak és zöld területeinek keverékét.",
+        "ro": "Ziua dvs. în Hoofddorp începe în inima modernă a orașului, la Primărie. De acolo, vă adânciți în trecut plimbându-vă la Muzeul de Istorie pentru a descoperi istoria unică a polderului. La prânz, explorați moștenirea industrială vizitând moara De Eersteling și impresionantul Fort de la Hoofddorp. După-amiaza este dedicată naturii. O plimbare de-a lungul digului Geniedijk și momente de relaxare în pădurea Wandelbos încheie ziua, dezvăluind amestecul de inginerie și spații verzi al orașului Hoofddorp.",
+        "en": "Your day in Hoofddorp starts in the modern heart of the city at the City Hall. From there, delve into the past by walking to the Historical Museum to uncover the unique polder history. At midday, you'll explore the industrial heritage by visiting the De Eersteling mill and the impressive Fort bij Hoofddorp. The afternoon is dedicated to nature. A walk along the Geniedijk and relaxing moments in the Wandelbos forest conclude your day, showcasing Hoofddorp's blend of engineering and green spaces."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Poffertjes",
+            "tip": "Probieren Sie diese kleinen Pfannkuchen in einem lokalen Café wie 'Plein 14'."
+          },
+          {
+            "name": "Haarlemmermeerse kaas",
+            "tip": "Kaufen Sie lokalen Käse auf dem Wochenmarkt für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poffertjes",
+            "tip": "Kóstolja meg ezeket a mini palacsintákat egy helyi kávézóban, mint a 'Plein 14'."
+          },
+          {
+            "name": "Haarlemmermeer sajt",
+            "tip": "Vásároljon helyi sajtot a heti piacon egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poffertjes",
+            "tip": "Încercați aceste mini-clătite la o cafenea locală precum 'Plein 14'."
+          },
+          {
+            "name": "Brânză Haarlemmermeer",
+            "tip": "Cumpărați brânză locală de la piața săptămânală pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Poffertjes",
+            "tip": "Try these mini pancakes at a local café like 'Plein 14'."
+          },
+          {
+            "name": "Haarlemmermeer cheese",
+            "tip": "Buy some local cheese at the weekly market for a picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wandelbos Hoofddorp",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie die Natur.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Geniedijk",
+            "tip": "Ein friedlicher Spaziergang entlang dieses historischen Deichs.",
+            "emoji": "🚶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wandelbos Hoofddorp",
+            "tip": "Keressen egy csendes padot, és figyelje a természetet.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Geniedijk",
+            "tip": "Békés séta ezen a történelmi gáton.",
+            "emoji": "🚶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Wandelbos Hoofddorp",
+            "tip": "Găsiți o bancă liniștită și priviți natura.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Digul Geniedijk",
+            "tip": "O plimbare pașnică de-a lungul acestui dig istoric.",
+            "emoji": "🚶"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wandelbos Hoofddorp",
+            "tip": "Find a quiet bench and watch nature.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Geniedijk",
+            "tip": "A peaceful walk along this historic dike.",
+            "emoji": "🚶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Winkelcentrum Vier Meren",
+            "tip": "Das Haupteinkaufszentrum für eine Vielzahl von Geschäften."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie den Freitagsmarkt für frische Produkte und lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vier Meren Bevásárlóközpont",
+            "tip": "A fő bevásárlóközpont, ahol sokféle üzlet található."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el a pénteki piacra friss termékekért és helyi finomságokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Vier Meren",
+            "tip": "Principalul centru comercial pentru o varietate de magazine."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați piața de vineri pentru produse proaspete și delicatese locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vier Meren Shopping Centre",
+            "tip": "The main shopping center for a variety of stores."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the Friday market for fresh produce and local treats."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Überprüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können.",
+          "Ein leichter Regenmantel ist immer eine gute Idee in den Niederlanden.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für den Spaziergang im Park."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mivel az változhat.",
+          "Egy könnyű esőkabát mindig jó ötlet Hollandiában.",
+          "Vigyen magával vizet és rágcsálnivalót, különösen a parki sétához."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați în avans orele de funcționare ale muzeelor, deoarece acestea pot varia.",
+          "O pelerină de ploaie ușoară este întotdeauna o idee bună în Olanda.",
+          "Luați apă și gustări, mai ales pentru plimbarea în parc."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Check museum opening times in advance as they can vary.",
+          "A light raincoat is always a good idea in the Netherlands.",
+          "Bring water and snacks, especially for the park walk."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 24.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cruquius Museum",
+            "hu": "Cruquius Múzeum",
+            "ro": "Muzeul Cruquius",
+            "en": "Cruquius Museum"
+          },
+          "coords": [
+            4.663,
+            52.336
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein Muss, um die massive Dampfmaschine zu sehen, die zur Trockenlegung des Polders verwendet wurde.",
+            "hu": "Kötelező megnézni a hatalmas gőzgépet, amellyel lecsapolták a poldert.",
+            "ro": "O vizită obligatorie pentru a vedea motorul masiv cu aburi folosit la drenarea polderului.",
+            "en": "A must-see to understand the massive steam engine used to drain the polder."
+          }
+        },
+        {
+          "name": {
+            "de": "Haarlemmermeerse Bos",
+            "hu": "Haarlemmermeerse erdő",
+            "ro": "Pădurea Haarlemmermeerse",
+            "en": "Haarlemmermeerse Bos"
+          },
+          "coords": [
+            4.735,
+            52.325
+          ],
+          "category": "parks",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahren Sie um den See herum und genießen Sie die weitläufigen Grünflächen.",
+            "hu": "Kerékpározzon a tó körül, és élvezze a tágas zöld területeket.",
+            "ro": "Pedalați în jurul lacului și bucurați-vă de spațiile verzi extinse.",
+            "en": "Cycle around the lake and enjoy the vast green spaces."
+          }
+        },
+        {
+          "name": {
+            "de": "Toolenburger Plas",
+            "hu": "Toolenburger tó",
+            "ro": "Lacul Toolenburger",
+            "en": "Toolenburger Plas"
+          },
+          "coords": [
+            4.701,
+            52.281
+          ],
+          "category": "beaches",
+          "arrive_at": "13:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Mittagspause oder sogar ein schnelles Bad an einem warmen Tag.",
+            "hu": "Remek hely egy ebédszünetre vagy akár egy gyors fürdőzésre egy meleg napon.",
+            "ro": "Un loc minunat pentru o pauză de prânz sau chiar o baie rapidă într-o zi caldă.",
+            "en": "A great spot for a lunch break or even a quick swim on a warm day."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort bij Hoofddorp",
+            "hu": "Hoofddorpi erőd",
+            "ro": "Fortul de la Hoofddorp",
+            "en": "Fort bij Hoofddorp"
+          },
+          "coords": [
+            4.676,
+            52.319
+          ],
+          "category": "castles",
+          "arrive_at": "15:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie dieses historische Fort zu Fuß.",
+            "hu": "Tegye le a kerékpárt, és fedezze fel gyalog ezt a történelmi erődöt.",
+            "ro": "Parcați bicicleta și explorați acest fort istoric pe jos.",
+            "en": "Park your bike and explore this historic fort on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Geniedijk",
+            "hu": "Geniedijk gát",
+            "ro": "Digul Geniedijk",
+            "en": "Geniedijk"
+          },
+          "coords": [
+            4.678,
+            52.324
+          ],
+          "category": "monuments",
+          "arrive_at": "17:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schöner, flacher Radweg entlang dieser historischen Verteidigungslinie.",
+            "hu": "Szép, sík kerékpárút ezen a történelmi védelmi vonalon.",
+            "ro": "O pistă de biciclete frumoasă și plată de-a lungul acestei linii de apărare istorice.",
+            "en": "A lovely, flat cycle path along this historic defense line."
+          }
+        },
+        {
+          "name": {
+            "de": "De Eersteling Mühle",
+            "hu": "De Eersteling szélmalom",
+            "ro": "Moara De Eersteling",
+            "en": "De Eersteling Mill"
+          },
+          "coords": [
+            4.679,
+            52.315
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem ikonischen Symbol der niederländischen Landschaft.",
+            "hu": "Fejezze be a kerékpártúrát a holland táj ezen ikonikus szimbólumánál.",
+            "ro": "Încheiați-vă turul cu bicicleta la acest simbol iconic al peisajului olandez.",
+            "en": "End your bike tour at this iconic symbol of the Dutch landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Hoofddorp beginnt mit einer Reise in die Vergangenheit im Cruquius Museum. Von dort radeln Sie durch das Grün des Haarlemmermeerse Bos und machen eine Mittagspause am Toolenburger Plas. Der Nachmittag ist historisch geprägt, mit einem Besuch des Forts bei Hoofddorp und einer Fahrt entlang des Geniedijk. Sie beenden Ihre Tour an der Mühle De Eersteling und haben dabei eine wunderbare Mischung aus niederländischer Ingenieurskunst und Natur erlebt.",
+        "hu": "Hoofddorpi kerékpártúrája a Cruquius Múzeumban tett időutazással kezdődik. Onnan a Haarlemmermeerse erdő zöldjén keresztül teker, majd ebédszünetet tart a Toolenburger tónál. A délután a történelemé, meglátogatja a Hoofddorpi erődöt és végigteker a Geniedijk mentén. A túrát a De Eersteling malomnál fejezi be, megtapasztalva a holland mérnöki tudás és a természet csodálatos keverékét.",
+        "ro": "Turul dvs. cu bicicleta prin Hoofddorp începe cu o călătorie înapoi în timp la Muzeul Cruquius. De acolo, pedalați prin verdeața pădurii Haarlemmermeerse și luați o pauză de prânz la lacul Toolenburger. După-amiaza este dedicată istoriei, cu o vizită la Fortul de la Hoofddorp și o plimbare de-a lungul digului Geniedijk. Încheiați turul la moara De Eersteling, după ce ați experimentat un amestec minunat de inginerie olandeză și natură.",
+        "en": "Your Hoofddorp bike tour begins with a trip back in time at the Cruquius Museum. From there, cycle through the greenery of the Haarlemmermeerse Bos and take a lunch break at Toolenburger Plas. The afternoon is dedicated to history, with a visit to the Fort bij Hoofddorp and a ride along the Geniedijk. You'll finish your tour at the De Eersteling mill, having experienced a wonderful mix of Dutch engineering and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant 't Fort",
+            "tip": "Speisen Sie in historischer Umgebung in der Nähe des Forts."
+          },
+          {
+            "name": "Snackbar bei Toolenburger Plas",
+            "tip": "Holen Sie sich einen schnellen Happen wie Friet oder einen Kroket."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'t Fort Étterem",
+            "tip": "Étkezzen történelmi környezetben az erőd közelében."
+          },
+          {
+            "name": "Büfé a Toolenburger tónál",
+            "tip": "Kapjon be egy gyors falatot, például sült krumplit vagy krokettet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul 't Fort",
+            "tip": "Luați masa într-un cadru istoric lângă fort."
+          },
+          {
+            "name": "Snackbar la Toolenburger Plas",
+            "tip": "Luați o gustare rapidă, cum ar fi cartofi prăjiți sau o crochetă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant 't Fort",
+            "tip": "Dine in a historic setting near the fort."
+          },
+          {
+            "name": "Snackbar at Toolenburger Plas",
+            "tip": "Grab a quick bite like fries (friet) or a kroket."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Toolenburger Plas",
+            "tip": "Ein ruhiger Ort, um aufs Wasser zu schauen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pfade im Haarlemmermeerse Bos",
+            "tip": "Verlieren Sie sich auf den weniger befahrenen Wegen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Toolenburger tó partja",
+            "tip": "Csendes hely a víz bámulására.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ösvények a Haarlemmermeerse erdőben",
+            "tip": "Tévedjen el a kevésbé járt utakon.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Toolenburger",
+            "tip": "Un loc liniștit pentru a privi apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cărările din Pădurea Haarlemmermeerse",
+            "tip": "Pierdeți-vă pe cărările mai puțin circulate.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Toolenburger Plas",
+            "tip": "A quiet spot to gaze out over the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Paths in Haarlemmermeerse Bos",
+            "tip": "Get lost on the less-traveled paths.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Kaufen Sie lokales Fahrradzubehör als Souvenir."
+          },
+          {
+            "name": "Museumsshop Cruquius",
+            "tip": "Finden Sie Bücher und Geschenke zur niederländischen Wasserwirtschaft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Vásároljon helyi kerékpár-kiegészítőket szuvenírként."
+          },
+          {
+            "name": "Cruquius Múzeum boltja",
+            "tip": "Találjon könyveket és ajándékokat a holland vízgazdálkodásról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Cumpărați accesorii locale pentru biciclete ca suvenir."
+          },
+          {
+            "name": "Magazinul Muzeului Cruquius",
+            "tip": "Găsiți cărți și cadouri despre managementul apei în Olanda."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Pick up some local cycling accessories as a souvenir."
+          },
+          {
+            "name": "Cruquius Museum Shop",
+            "tip": "Find books and gifts related to Dutch water management."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Gängen, um die Fahrt angenehmer zu gestalten.",
+          "Schließen Sie Ihr Fahrrad an jedem Halt immer sicher ab.",
+          "Die Niederlande sind flach, aber Wind kann ein Faktor sein.",
+          "Nutzen Sie die ausgezeichneten Radwege (fietspaden)."
+        ],
+        "hu": [
+          "Béreljen váltós kerékpárt a kényelmesebb utazás érdekében.",
+          "Minden megállónál gondosan zárja le a kerékpárt.",
+          "Hollandia sík, de a szél tényező lehet.",
+          "Használja a kiváló kerékpárutakat (fietspaden)."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze pentru o călătorie mai confortabilă.",
+          "Asigurați-vă întotdeauna bicicleta în mod corespunzător la fiecare oprire.",
+          "Olanda este plată, dar vântul poate fi un factor.",
+          "Folosiți pistele de biciclete excelente (fietspaden)."
+        ],
+        "en": [
+          "Rent a bike with gears to make the ride more comfortable.",
+          "Always lock your bike securely at every stop.",
+          "The Netherlands is flat, but wind can be a factor.",
+          "Make use of the excellent cycle paths (fietspaden)."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 21.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cruquius Museum",
+            "hu": "Cruquius Múzeum",
+            "ro": "Muzeul Cruquius",
+            "en": "Cruquius Museum"
+          },
+          "coords": [
+            4.663,
+            52.336
+          ],
+          "category": "museums",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie am weitesten entfernten Punkt. Es gibt ausreichend Parkplätze.",
+            "hu": "Kezdje a legtávolabbi ponton. Bőséges parkoló áll rendelkezésre.",
+            "ro": "Începeți la cel mai îndepărtat punct. Există o parcare amplă.",
+            "en": "Start at the furthest point. There is ample parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Haarlemmermeerse Bos",
+            "hu": "Haarlemmermeerse erdő",
+            "ro": "Pădurea Haarlemmermeerse",
+            "en": "Haarlemmermeerse Bos"
+          },
+          "coords": [
+            4.735,
+            52.325
+          ],
+          "category": "parks",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Haupteingang und machen Sie einen Spaziergang um den See.",
+            "hu": "Parkoljon a főbejáratnál, és tegyen egy sétát a tó körül.",
+            "ro": "Parcați la intrarea principală și faceți o plimbare în jurul lacului.",
+            "en": "Park at the main entrance and take a walk around the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Toolenburger Plas",
+            "hu": "Toolenburger tó",
+            "ro": "Lacul Toolenburger",
+            "en": "Toolenburger Plas"
+          },
+          "coords": [
+            4.701,
+            52.281
+          ],
+          "category": "beaches",
+          "arrive_at": "12:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick-Mittagessen. Es gibt mehrere Parkplätze.",
+            "hu": "Ideális hely egy piknikebédhez. Több parkoló is található.",
+            "ro": "Un loc ideal pentru un prânz la picnic. Există mai multe parcări.",
+            "en": "An ideal spot for a picnic lunch. Several parking areas are available."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort bij Hoofddorp",
+            "hu": "Hoofddorpi erőd",
+            "ro": "Fortul de la Hoofddorp",
+            "en": "Fort bij Hoofddorp"
+          },
+          "coords": [
+            4.676,
+            52.319
+          ],
+          "category": "castles",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Neuer Cluster. Parken Sie hier und erkunden Sie die Umgebung zu Fuß.",
+            "hu": "Új klaszter. Parkoljon itt, és fedezze fel a környéket gyalog.",
+            "ro": "Cluster nou. Parcați aici și explorați zona pe jos.",
+            "en": "New cluster. Park here and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Geniedijk",
+            "hu": "Geniedijk gát",
+            "ro": "Digul Geniedijk",
+            "en": "Geniedijk"
+          },
+          "coords": [
+            4.678,
+            52.324
+          ],
+          "category": "monuments",
+          "arrive_at": "16:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Fort, um dieses beeindruckende Bauwerk zu sehen.",
+            "hu": "Rövid séta az erődtől, hogy megnézze ezt a lenyűgöző mérnöki alkotást.",
+            "ro": "O scurtă plimbare de la fort pentru a vedea această structură inginerească impresionantă.",
+            "en": "A short walk from the fort to see this impressive engineering structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisch Museum Haarlemmermeer",
+            "hu": "Haarlemmermeer Történeti Múzeum",
+            "ro": "Muzeul de Istorie Haarlemmermeer",
+            "en": "Historical Museum Haarlemmermeer"
+          },
+          "coords": [
+            4.687,
+            52.308
+          ],
+          "category": "museums",
+          "arrive_at": "16:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Letzter Cluster. Parken Sie in einem Parkhaus im Zentrum und erkunden Sie den Rest zu Fuß.",
+            "hu": "Utolsó klaszter. Parkoljon egy központi parkolóházban, és fedezze fel a többit gyalog.",
+            "ro": "Ultimul cluster. Parcați într-o parcare centrală și explorați restul pe jos.",
+            "en": "Final cluster. Park in a central garage and explore the rest on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "De Eersteling Mühle",
+            "hu": "De Eersteling szélmalom",
+            "ro": "Moara De Eersteling",
+            "en": "De Eersteling Mill"
+          },
+          "coords": [
+            4.679,
+            52.315
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum, um Ihre Tour abzuschließen.",
+            "hu": "Rövid séta a múzeumtól a túra befejezéséhez.",
+            "ro": "O scurtă plimbare de la muzeu pentru a încheia turul.",
+            "en": "A short walk from the museum to conclude your tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Hoofddorp clusterweise. Sie beginnen am weitesten entfernten Punkt, dem Cruquius Museum, einem Zeugnis niederländischer Ingenieurskunst. Anschließend fahren Sie zu den grünen Lungen der Gegend, dem Haarlemmermeerse Bos und dem Toolenburger Plas, für einen entspannten Mittag. Am Nachmittag widmen Sie sich der militärischen Geschichte im Fort bij Hoofddorp und dem benachbarten Geniedijk. Sie beenden den Tag im Stadtzentrum, parken einmal und schlendern zum Historischen Museum und der Mühle De Eersteling.",
+        "hu": "Autóval Hoofddorpot klaszterekben fedezi fel. A legtávolabbi ponton, a holland mérnöki tudásról tanúskodó Cruquius Múzeumnál kezd. Ezután a terület zöld tüdejéhez, a Haarlemmermeerse erdőhöz és a Toolenburger tóhoz hajt egy pihentető ebédidőre. A délutánt a katonai történelemnek szenteli a Hoofddorpi erődnél és a szomszédos Geniedijknél. A napot a városközpontban fejezi be, ahol egyszer leparkol, és elsétál a Történeti Múzeumhoz és a De Eersteling malomhoz.",
+        "ro": "Cu mașina, veți explora Hoofddorp în clustere. Începeți la cel mai îndepărtat punct, Muzeul Cruquius, o mărturie a ingineriei olandeze. Apoi, conduceți către plămânii verzi ai zonei, Pădurea Haarlemmermeerse și Lacul Toolenburger, pentru un prânz relaxant. După-amiaza este dedicată istoriei militare la Fortul de la Hoofddorp și la digul Geniedijk adiacent. Încheiați ziua în centrul orașului, parcând o singură dată pentru a vă plimba la Muzeul de Istorie și la moara De Eersteling.",
+        "en": "By car, you'll explore Hoofddorp in clusters. You start at the furthest point, the Cruquius Museum, a testament to Dutch engineering. Then, drive to the area's green lungs, the Haarlemmermeerse Bos and Toolenburger Plas, for a relaxing midday. The afternoon is dedicated to military history at the Fort bij Hoofddorp and the adjacent Geniedijk. You'll end the day in the city center, parking once to stroll to the Historical Museum and the De Eersteling mill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant 't Fort",
+            "tip": "Speisen Sie stilvoll nach Ihrem Besuch des Forts."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich unterwegs einen 'Appeltaart'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'t Fort Étterem",
+            "tip": "Étkezzen stílusosan az erőd látogatása után."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Vegyen egy 'Appeltaart'-ot útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul 't Fort",
+            "tip": "Luați masa în stil după vizita la fort."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați o 'Appeltaart' (plăcintă cu mere) la pachet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant 't Fort",
+            "tip": "Dine in style after your visit to the fort."
+          },
+          {
+            "name": "Local Bakery",
+            "tip": "Grab an 'Appeltaart' (apple pie) to go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Haarlemmermeerse Bos",
+            "tip": "Finden Sie einen abgelegenen Pfad abseits der Hauptwege.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sonnenuntergang am Toolenburger Plas",
+            "tip": "Ein perfekter Ort, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haarlemmermeerse erdő",
+            "tip": "Keressen egy eldugott ösvényt a fő utaktól távol.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Naplemente a Toolenburger tónál",
+            "tip": "Tökéletes hely a nap befejezéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Haarlemmermeerse",
+            "tip": "Găsiți o potecă izolată departe de cărările principale.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Apus la Lacul Toolenburger",
+            "tip": "Un loc perfect pentru a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Haarlemmermeerse Bos",
+            "tip": "Find a secluded path away from the main trails.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sunset at Toolenburger Plas",
+            "tip": "A perfect spot to watch the day end.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen",
+            "tip": "Halten Sie Ausschau nach Hofläden am Straßenrand, die lokale Produkte verkaufen."
+          },
+          {
+            "name": "Winkelcentrum Vier Meren",
+            "tip": "Parken Sie im Parkhaus und erledigen Sie alle Ihre Einkäufe an einem Ort."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmbolt",
+            "tip": "Keresse az út menti farmboltokat, ahol helyi termékeket árulnak."
+          },
+          {
+            "name": "Vier Meren Bevásárlóközpont",
+            "tip": "Parkoljon a parkolóházban, és intézze el az összes vásárlást egy helyen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de fermă",
+            "tip": "Fiți atenți la magazinele de fermă de pe marginea drumului care vând produse locale."
+          },
+          {
+            "name": "Centrul Comercial Vier Meren",
+            "tip": "Parcați în parcarea supraetajată și faceți-vă toate cumpărăturile într-un singur loc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shop",
+            "tip": "Look for roadside farm shops selling local produce."
+          },
+          {
+            "name": "Vier Meren Shopping Centre",
+            "tip": "Park in the garage and do all your shopping in one place."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein GPS ist unerlässlich, um zwischen den Clustern zu navigieren.",
+          "Achten Sie auf Radfahrer, sie haben oft Vorfahrt.",
+          "Parken ist in den Niederlanden oft kostenpflichtig, halten Sie Münzen oder eine Karte bereit.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders während der Stoßzeiten."
+        ],
+        "hu": [
+          "GPS elengedhetetlen a klaszterek közötti navigációhoz.",
+          "Vigyázzon a kerékpárosokra, gyakran elsőbbségük van.",
+          "A parkolás Hollandiában gyakran fizetős, készítsen elő érméket vagy kártyát.",
+          "Tervezzen plusz időt a forgalomra, különösen csúcsidőben."
+        ],
+        "ro": [
+          "Un GPS este esențial pentru a naviga între clustere.",
+          "Fiți atenți la bicicliști, aceștia au adesea prioritate.",
+          "Parcarea este adesea cu plată în Olanda, pregătiți monede sau un card.",
+          "Planificați timp suplimentar pentru trafic, în special în orele de vârf."
+        ],
+        "en": [
+          "A GPS is essential for navigating between clusters.",
+          "Be aware of cyclists; they often have the right of way.",
+          "Parking is often paid in the Netherlands; have coins or a card ready.",
+          "Plan for extra time for traffic, especially during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadhuis Hoofddorp",
+            "hu": "Hoofddorpi Városháza",
+            "ro": "Primăria Hoofddorp",
+            "en": "Hoofddorp City Hall"
+          },
+          "coords": [
+            4.6895,
+            52.3045
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Bahnhof Hoofddorp ins Zentrum.",
+            "hu": "Menjen busszal Hoofddorp állomásról a központba.",
+            "ro": "Luați un autobuz de la gara Hoofddorp spre centru.",
+            "en": "Take a bus from Hoofddorp station to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisch Museum Haarlemmermeer",
+            "hu": "Haarlemmermeer Történeti Múzeum",
+            "ro": "Muzeul de Istorie Haarlemmermeer",
+            "en": "Historical Museum Haarlemmermeer"
+          },
+          "coords": [
+            4.687,
+            52.308
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Stadhuis durch das Stadtzentrum.",
+            "hu": "Rövid séta a városházától a városközponton keresztül.",
+            "ro": "O scurtă plimbare de la Primărie prin centrul orașului.",
+            "en": "A short walk from the City Hall through the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort bij Hoofddorp",
+            "hu": "Hoofddorpi erőd",
+            "ro": "Fortul de la Hoofddorp",
+            "en": "Fort bij Hoofddorp"
+          },
+          "coords": [
+            4.676,
+            52.319
+          ],
+          "category": "castles",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Geniedijk, um zum nächsten Cluster zu gelangen.",
+            "hu": "Menjen busszal a Geniedijk irányába a következő klaszterhez.",
+            "ro": "Luați un autobuz spre Geniedijk pentru a ajunge la următorul cluster.",
+            "en": "Take a bus heading towards Geniedijk to reach the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Geniedijk",
+            "hu": "Geniedijk gát",
+            "ro": "Digul Geniedijk",
+            "en": "Geniedijk"
+          },
+          "coords": [
+            4.678,
+            52.324
+          ],
+          "category": "monuments",
+          "arrive_at": "13:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Deich ist nur einen kurzen Spaziergang vom Fort entfernt.",
+            "hu": "A gát csak egy rövid sétára van az erődtől.",
+            "ro": "Digul este la o scurtă plimbare de fort.",
+            "en": "The dike is just a short walk from the fort."
+          }
+        },
+        {
+          "name": {
+            "de": "Haarlemmermeerse Bos",
+            "hu": "Haarlemmermeerse erdő",
+            "ro": "Pădurea Haarlemmermeerse",
+            "en": "Haarlemmermeerse Bos"
+          },
+          "coords": [
+            4.735,
+            52.325
+          ],
+          "category": "parks",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der am Park hält, für Ihren Nachmittagsausflug.",
+            "hu": "Menjen busszal, amely megáll a parknál a délutáni kiránduláshoz.",
+            "ro": "Luați un autobuz care oprește la parc pentru evadarea de după-amiază.",
+            "en": "Catch a bus that stops by the park for your afternoon escape."
+          }
+        },
+        {
+          "name": {
+            "de": "Toolenburger Plas",
+            "hu": "Toolenburger tó",
+            "ro": "Lacul Toolenburger",
+            "en": "Toolenburger Plas"
+          },
+          "coords": [
+            4.701,
+            52.281
+          ],
+          "category": "beaches",
+          "arrive_at": "16:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein letzter Bus bringt Sie zu diesem Erholungssee.",
+            "hu": "Az utolsó busz elviszi Önt ehhez a pihenőtóhoz.",
+            "ro": "O ultimă călătorie cu autobuzul vă va duce la acest lac de agrement.",
+            "en": "A final bus ride will take you to this recreational lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt im Zentrum von Hoofddorp, wo Sie das Rathaus und das Historische Museum zu Fuß erkunden. Eine kurze Busfahrt bringt Sie dann zum Militärcluster, wo das Fort und der Geniedijk auf Sie warten. Am Nachmittag bringt Sie ein weiterer Bus zu den weitläufigen Grünflächen des Haarlemmermeerse Bos. Die letzte Etappe führt Sie zum Toolenburger Plas, einem perfekten Ort, um sich zu entspannen, bevor Sie mit dem Bus zurück zum Bahnhof fahren.",
+        "hu": "Tömegközlekedési túrája Hoofddorp központjában kezdődik, ahol gyalog fedezi fel a Városházát és a Történeti Múzeumot. Egy rövid buszozás után a katonai klaszterhez ér, ahol az erőd és a Geniedijk várja. Délután egy másik busz viszi a Haarlemmermeerse erdő tágas zöld területeire. Az utolsó szakasz a Toolenburger tóhoz vezet, amely tökéletes hely a pihenésre, mielőtt visszabuszozna az állomásra.",
+        "ro": "Turul dvs. cu transportul public începe în centrul orașului Hoofddorp, explorând Primăria și Muzeul de Istorie pe jos. O scurtă călătorie cu autobuzul vă duce apoi la clusterul militar, unde vă așteaptă Fortul și Geniedijk. După-amiaza, un alt autobuz vă transportă către spațiile verzi extinse ale Pădurii Haarlemmermeerse. Ultima etapă vă duce la Lacul Toolenburger, un loc perfect pentru a vă relaxa înainte de a lua autobuzul înapoi la gară.",
+        "en": "Your public transport tour starts in the center of Hoofddorp, exploring the City Hall and Historical Museum on foot. A short bus ride then takes you to the military cluster, where the Fort and Geniedijk await. In the afternoon, another bus transports you to the expansive green spaces of the Haarlemmermeerse Bos. The final leg takes you to Toolenburger Plas, a perfect spot to relax before catching a bus back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Holen Sie sich einen 'Broodje Kaas' für unterwegs."
+          },
+          {
+            "name": "Pfannkuchenhaus 'De Polder'",
+            "tip": "Planen Sie einen Stopp in der Nähe einer Bushaltestelle für ein herzhaftes Mittagessen ein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vegyen egy 'Broodje Kaas'-t (sajtos szendvics) útközben."
+          },
+          {
+            "name": "'De Polder' Palacsintázó",
+            "tip": "Tervezzen megállót egy buszmegálló közelében egy kiadós ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Luați un 'Broodje Kaas' (sandviș cu brânză) la pachet."
+          },
+          {
+            "name": "Casa de clătite 'De Polder'",
+            "tip": "Planificați o oprire lângă o stație de autobuz pentru un prânz consistent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Grab a 'Broodje Kaas' (cheese sandwich) for the road."
+          },
+          {
+            "name": "Pancake House 'De Polder'",
+            "tip": "Plan a stop near a bus station for a hearty lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Haarlemmermeerse Bos",
+            "tip": "Steigen Sie aus dem Bus und finden Sie sofort Ruhe.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Blick über den Toolenburger Plas",
+            "tip": "Warten Sie auf Ihren Bus mit einer friedlichen Aussicht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Haarlemmermeerse erdőben",
+            "tip": "Szálljon le a buszról, és azonnal találjon nyugalmat.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kilátás a Toolenburger tóra",
+            "tip": "Várjon a buszra békés kilátással.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Pădurea Haarlemmermeerse",
+            "tip": "Coborâți din autobuz și găsiți liniștea imediat.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Vedere peste Lacul Toolenburger",
+            "tip": "Așteptați autobuzul cu o priveliște pașnică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Haarlemmermeerse Bos",
+            "tip": "Hop off the bus and find instant tranquility.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "View over Toolenburger Plas",
+            "tip": "Wait for your bus with a peaceful view.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "AKO Kiosk am Bahnhof",
+            "tip": "Kaufen Sie ein Magazin oder ein Buch für Ihre Busfahrten."
+          },
+          {
+            "name": "Wochenmarkt (Freitag)",
+            "tip": "Wenn Sie an einem Freitag dort sind, steigen Sie in der Nähe des Marktplatzes aus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "AKO Kioszk az állomáson",
+            "tip": "Vásároljon magazint vagy könyvet a buszozáshoz."
+          },
+          {
+            "name": "Heti piac (péntek)",
+            "tip": "Ha pénteken van ott, szálljon le a piactér közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul AKO din gară",
+            "tip": "Cumpărați o revistă sau o carte pentru călătoriile cu autobuzul."
+          },
+          {
+            "name": "Piața săptămânală (vineri)",
+            "tip": "Dacă sunteți acolo într-o vineri, coborâți lângă piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "AKO Kiosk at the station",
+            "tip": "Buy a magazine or book for your bus journeys."
+          },
+          {
+            "name": "Weekly Market (Friday)",
+            "tip": "If you're there on a Friday, hop off near the market square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Verwenden Sie eine ÖPNV-App wie 9292, um Ihre Fahrten in Echtzeit zu planen.",
+          "Beachten Sie, dass Busse möglicherweise nicht so häufig fahren, insbesondere abends.",
+          "Geben Sie dem Fahrer ein Zeichen, wenn Sie möchten, dass er anhält."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Használjon tömegközlekedési alkalmazást, mint a 9292, az utazások valós idejű tervezéséhez.",
+          "Vegye figyelembe, hogy a buszok nem mindig járnak sűrűn, különösen este.",
+          "Intsen a sofőrnek, ha szeretné, hogy megálljon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Utilizați o aplicație de transport public precum 9292 pentru a vă planifica călătoriile în timp real.",
+          "Rețineți că autobuzele s-ar putea să nu circule la fel de frecvent, în special seara.",
+          "Faceți semn șoferului dacă doriți ca acesta să oprească."
+        ],
+        "en": [
+          "Buy a day ticket (dagkaart) for unlimited travel.",
+          "Use a public transport app like 9292 to plan your journeys in real time.",
+          "Be aware that buses may not run as frequently, especially in the evening.",
+          "Signal to the driver that you want them to stop."
+        ]
+      }
+    }
+  }
+}

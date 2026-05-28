@@ -1,0 +1,1484 @@
+{
+  "city_id": "netherlands-wageningen-cities-v2",
+  "anchor": {
+    "name": "Wageningen",
+    "coords": [
+      5.669,
+      51.968
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grote Kerk",
+            "hu": "Grote Kerk (Nagy Templom)",
+            "ro": "Grote Kerk (Biserica Mare)",
+            "en": "Grote Kerk (Great Church)"
+          },
+          "coords": [
+            5.666,
+            51.967
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckende Orgel und die oft stattfindenden Konzerte.",
+            "hu": "Figyelje meg a lenyűgöző orgonát és a gyakran tartott koncerteket.",
+            "ro": "Observați orga impresionantă și concertele care au loc frecvent aici.",
+            "en": "Note the impressive organ and the frequent concerts held here."
+          }
+        },
+        {
+          "name": {
+            "de": "Hotel de Wereld",
+            "hu": "Hotel de Wereld",
+            "ro": "Hotel de Wereld",
+            "en": "Hotel de Wereld"
+          },
+          "coords": [
+            5.668,
+            51.966
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie sich die Gedenktafel an, die an die Kapitulation der deutschen Truppen 1945 erinnert.",
+            "hu": "Nézze meg az emléktáblát, amely a német csapatok 1945-ös kapitulációjára emlékeztet.",
+            "ro": "Priviți placa comemorativă ce amintește de capitularea trupelor germane în 1945.",
+            "en": "See the plaque commemorating the surrender of German troops in 1945."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum de Casteelse Poort",
+            "hu": "Casteelse Poort Múzeum",
+            "ro": "Muzeul de Casteelse Poort",
+            "en": "Museum de Casteelse Poort"
+          },
+          "coords": [
+            5.665,
+            51.968
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen zur Stadtgeschichte und zur Universität.",
+            "hu": "Koncentráljon a város és az egyetem történetével kapcsolatos kiállításokra.",
+            "ro": "Concentrați-vă pe expozițiile despre istoria orașului și a universității.",
+            "en": "Focus on the exhibitions about the city's history and the university."
+          }
+        },
+        {
+          "name": {
+            "de": "Rijnhaven",
+            "hu": "Rijnhaven (Rajna-kikötő)",
+            "ro": "Rijnhaven (Portul Rinului)",
+            "en": "Rijnhaven (Rhine Harbor)"
+          },
+          "coords": [
+            5.672,
+            51.958
+          ],
+          "category": "port",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Mittagessen mit Blick auf die vorbeiziehenden Schiffe.",
+            "hu": "Tökéletes hely egy ebédhez, kilátással az elhaladó hajókra.",
+            "ro": "Un loc perfect pentru prânz, cu vedere la navele care trec.",
+            "en": "A perfect spot for lunch with a view of the passing ships."
+          }
+        },
+        {
+          "name": {
+            "de": "Uiterwaarden",
+            "hu": "Uiterwaarden (Ártér)",
+            "ro": "Uiterwaarden (Lunca inundabilă)",
+            "en": "Uiterwaarden (Floodplains)"
+          },
+          "coords": [
+            5.678,
+            51.955
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Halten Sie Ausschau nach den wilden Pferden und Rindern, die hier grasen.",
+            "hu": "Keresse a vadlovakat és szarvasmarhákat, amelyek itt legelnek.",
+            "ro": "Fiți atenți la caii și vitele sălbatice care pasc aici.",
+            "en": "Look out for the wild horses and cattle that graze here."
+          }
+        },
+        {
+          "name": {
+            "de": "Belmonte Arboretum",
+            "hu": "Belmonte Arborétum",
+            "ro": "Arboretul Belmonte",
+            "en": "Belmonte Arboretum"
+          },
+          "coords": [
+            5.685,
+            51.969
+          ],
+          "category": "natural features",
+          "arrive_at": "16:37",
+          "stay_min": 48,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie im Frühling die Rhododendron-Sammlung, wenn sie in voller Blüte steht.",
+            "hu": "Tavasszal látogasson el a rododendron-gyűjteményhez, amikor teljes virágzásban van.",
+            "ro": "Vizitați colecția de rododendroni primăvara, când este în plină floare.",
+            "en": "Visit in spring to see the rhododendron collection in full bloom."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Wageningen beginnt im historischen Herzen mit der Grote Kerk und dem geschichtsträchtigen Hotel de Wereld. Die Luft ist erfüllt vom Geist der Geschichte. Nach einem Vormittag voller Kultur im Museum de Casteelse Poort spazieren Sie gemütlich zum Rijnhaven, um das Leben am Wasser zu genießen und zu Mittag zu essen. Der Nachmittag gehört der Natur: Sie erkunden die weitläufigen Uiterwaarden, die Auenlandschaft des Rheins, und beobachten die Tierwelt. Zum Abschluss finden Sie Ruhe und Schönheit im Belmonte Arboretum, wo Sie den Tag zwischen exotischen Bäumen ausklingen lassen.",
+        "hu": "Wageningeni napja a történelmi szívben indul a Grote Kerk és a történelmi jelentőségű Hotel de Wereld meglátogatásával. A levegőt áthatja a történelem szelleme. A Casteelse Poort múzeumban eltöltött kulturális délelőtt után kényelmesen lesétál a Rajna-kikötőbe, hogy élvezze a vízparti életet és megebédeljen. A délután a természeté: felfedezi a tágas Uiterwaarden árteret és megfigyeli az állatvilágot. Végül a Belmonte Arborétumban talál nyugalmat és szépséget, ahol egzotikus fák között zárhatja a napot.",
+        "ro": "Ziua dvs. în Wageningen începe în inima istorică cu Grote Kerk și istoricul Hotel de Wereld. Aerul este plin de spiritul istoriei. După o dimineață culturală la Muzeul de Casteelse Poort, vă plimbați agale spre portul Rinului pentru a vă bucura de viața de pe malul apei și pentru a lua prânzul. După-amiaza este dedicată naturii: explorați întinsele lunci inundabile Uiterwaarden și observați fauna. La final, găsiți liniște și frumusețe în Arboretul Belmonte, unde încheiați ziua printre copaci exotici.",
+        "en": "Your day in Wageningen begins in the historic heart with the Grote Kerk and the storied Hotel de Wereld. The air is filled with the spirit of history. After a cultural morning at the Museum de Casteelse Poort, you'll take a leisurely stroll to the Rhine harbor to enjoy waterside life and have lunch. The afternoon is for nature: you'll explore the expansive Uiterwaarden floodplains and observe the wildlife. Finally, find peace and beauty at the Belmonte Arboretum, ending your day among exotic trees."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Probieren Sie eine frisch zubereitete Stroopwafel auf dem Wochenmarkt."
+          },
+          {
+            "name": "Haring",
+            "tip": "Ein Muss für Mutige: Roher Hering mit Zwiebeln und Gurken."
+          },
+          {
+            "name": "Restaurant 't Gesprek",
+            "tip": "Gemütliches Restaurant mit traditioneller niederländischer Küche und moderner Note."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stroopwafel",
+            "tip": "Kóstoljon meg egy frissen készített stroopwafelt a heti piacon."
+          },
+          {
+            "name": "Haring",
+            "tip": "Kötelező a bátraknak: nyers hering hagymával és uborkával."
+          },
+          {
+            "name": "'t Gesprek Étterem",
+            "tip": "Hangulatos étterem hagyományos holland konyhával, modern csavarral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Încercați un stroopwafel proaspăt făcut la piața săptămânală."
+          },
+          {
+            "name": "Haring",
+            "tip": "O necesitate pentru cei curajoși: hering crud cu ceapă și castraveți murați."
+          },
+          {
+            "name": "Restaurant 't Gesprek",
+            "tip": "Restaurant primitor cu bucătărie tradițională olandeză și o notă modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Try a freshly made stroopwafel at the weekly market."
+          },
+          {
+            "name": "Haring",
+            "tip": "A must-try for the brave: raw herring with onions and pickles."
+          },
+          {
+            "name": "Restaurant 't Gesprek",
+            "tip": "Cozy restaurant with traditional Dutch cuisine with a modern twist."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Rheins in den Uiterwaarden",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie den Fluss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Die thematischen Gärten bieten viele abgeschiedene Ecken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wageningse Eng",
+            "tip": "Ein Spaziergang durch diese alten Felder bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rajna partja az Uiterwaarden területén",
+            "tip": "Keressen egy csendes padot, és figyelje a folyót.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "A tematikus kertek számos eldugott zugot kínálnak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wageningse Eng",
+            "tip": "Séta ezeken a régi mezőkön naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Rinului în Uiterwaarden",
+            "tip": "Găsiți o bancă liniștită și priviți râul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Grădinile tematice oferă multe colțuri retrase.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wageningse Eng",
+            "tip": "O plimbare prin aceste câmpuri vechi la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Rhine in the Uiterwaarden",
+            "tip": "Find a quiet bench and watch the river flow.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanical Gardens",
+            "tip": "The themed gardens offer many secluded corners.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wageningse Eng",
+            "tip": "A walk through these ancient fields at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Mittwoch und Samstag im Stadtzentrum für Käse, Blumen und lokale Produkte."
+          },
+          {
+            "name": "Hoogstraat",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Minden szerdán és szombaton a városközpontban sajtért, virágokért és helyi termékekért."
+          },
+          {
+            "name": "Hoogstraat",
+            "tip": "A fő bevásárlóutca butikok és ismert márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare miercuri și sâmbătă în centrul orașului pentru brânză, flori și produse locale."
+          },
+          {
+            "name": "Hoogstraat",
+            "tip": "Principala stradă comercială cu un amestec de buticuri și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Wednesday and Saturday in the city center for cheese, flowers, and local produce."
+          },
+          {
+            "name": "Hoogstraat",
+            "tip": "The main shopping street with a mix of boutiques and well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Ein Großteil des Stadtzentrums ist eine Fußgängerzone und lässt sich am besten zu Fuß erkunden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt mehrere öffentliche Trinkbrunnen.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "A városközpont nagy része sétálóövezet, a legjobb gyalog felfedezni.",
+          "Hozzon magával újratölthető vizes palackot; több nyilvános ivókút is található.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mivel az változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "O mare parte din centrul orașului este pietonală și se explorează cel mai bine pe jos.",
+          "Luați o sticlă de apă reutilizabilă; există mai multe fântâni publice cu apă potabilă.",
+          "Verificați în avans programul muzeelor, deoarece acesta poate varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Much of the city center is pedestrianized and best explored on foot.",
+          "Bring a reusable water bottle; there are several public drinking fountains.",
+          "Check museum opening times in advance as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hotel de Wereld",
+            "hu": "Hotel de Wereld",
+            "ro": "Hotel de Wereld",
+            "en": "Hotel de Wereld"
+          },
+          "coords": [
+            5.668,
+            51.966
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem Symbol des Friedens und der Freiheit.",
+            "hu": "Kezdje a napot a béke és szabadság ezen szimbólumánál.",
+            "ro": "Începeți-vă ziua la acest simbol al păcii și libertății.",
+            "en": "Start your day at this symbol of peace and freedom."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Kerk",
+            "hu": "Grote Kerk",
+            "ro": "Grote Kerk",
+            "en": "Grote Kerk"
+          },
+          "coords": [
+            5.666,
+            51.967
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie die Architektur dieses zentralen Wahrzeichens.",
+            "hu": "Tegye le a biciklit, és csodálja meg e központi nevezetesség építészetét.",
+            "ro": "Parcați bicicleta și admirați arhitectura acestui punct de reper central.",
+            "en": "Park your bike and admire the architecture of this central landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Rijnhaven",
+            "hu": "Rijnhaven",
+            "ro": "Rijnhaven",
+            "en": "Rijnhaven"
+          },
+          "coords": [
+            5.672,
+            51.958
+          ],
+          "category": "port",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt entlang des Deichs führt Sie direkt zum Hafen.",
+            "hu": "Egy kellemes tekerés a gáton egyenesen a kikötőbe visz.",
+            "ro": "O plimbare plăcută pe dig vă duce direct la port.",
+            "en": "A pleasant ride along the dike will take you straight to the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Uiterwaarden",
+            "hu": "Uiterwaarden",
+            "ro": "Uiterwaarden",
+            "en": "Uiterwaarden"
+          },
+          "coords": [
+            5.685,
+            51.956
+          ],
+          "category": "natural features",
+          "arrive_at": "11:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für eine Mittagspause und genießen Sie die offene Landschaft.",
+            "hu": "Szánjon időt egy ebédszünetre, és élvezze a nyílt tájat.",
+            "ro": "Luați-vă timp pentru o pauză de prânz și bucurați-vă de peisajul deschis.",
+            "en": "Take time for a lunch break and enjoy the open landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Belmonte Arboretum",
+            "hu": "Belmonte Arborétum",
+            "ro": "Arboretul Belmonte",
+            "en": "Belmonte Arboretum"
+          },
+          "coords": [
+            5.685,
+            51.969
+          ],
+          "category": "natural features",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg zum Arboretum lohnt sich für die Aussicht und die Pflanzensammlung.",
+            "hu": "Megéri feltekerni az arborétumhoz a kilátásért és a növénygyűjteményért.",
+            "ro": "Urcarea la arboret merită pentru priveliște și colecția de plante.",
+            "en": "The climb up to the arboretum is worth it for the views and the plant collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanische Tuinen Wageningen",
+            "hu": "Wageningeni Botanikus Kert",
+            "ro": "Grădinile Botanice Wageningen",
+            "en": "Botanical Gardens Wageningen"
+          },
+          "coords": [
+            5.68,
+            51.972
+          ],
+          "category": "natural features",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Arboretum entfernt, entdecken Sie hier eine andere Art von Gartenbaukunst.",
+            "hu": "Csak egy rövid útra az arborétumtól, itt a kertészet egy másik fajtáját fedezheti fel.",
+            "ro": "La o scurtă plimbare de arboret, descoperiți aici un alt tip de artă horticolă.",
+            "en": "A short ride from the arboretum, discover a different kind of horticultural art here."
+          }
+        },
+        {
+          "name": {
+            "de": "Wagenings Wijngoed",
+            "hu": "Wageningeni Borászat",
+            "ro": "Crama Wageningen",
+            "en": "Wageningen Vineyard"
+          },
+          "coords": [
+            5.695,
+            51.98
+          ],
+          "category": "natural features",
+          "arrive_at": "16:29",
+          "stay_min": 50,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer Weinprobe der lokalen Weine.",
+            "hu": "Zárja a kerékpártúrát a helyi borok kóstolójával.",
+            "ro": "Încheiați turul cu bicicleta cu o degustare a vinurilor locale.",
+            "en": "End your bike tour with a tasting of the local wines."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und beginnen Sie den Tag am Hotel de Wereld, bevor Sie zur Grote Kerk radeln. Die Route führt Sie dann südwärts zum Rijnhaven und in die weiten Uiterwaarden, perfekt für eine ausgedehnte Mittagspause im Grünen. Gestärkt erklimmen Sie am Nachmittag den Hügel zum Belmonte Arboretum und genießen die Aussicht. Ein kurzer Abstecher zu den Botanischen Gärten bereichert Ihr Wissen, bevor Sie den Tag entspannt im Wagenings Wijngoed ausklingen lassen, einem Weinberg, der die Belohnung für Ihre Mühen bereithält.",
+        "hu": "Pattanjon biciklire, és kezdje a napot a Hotel de Wereldnél, mielőtt a Grote Kerkhez teker. Az útvonal dél felé vezet a Rajna-kikötőbe és a tágas Uiterwaarden ártérre, amely tökéletes egy kiadós ebédszünetre a zöldben. Megerősödve délután megmássza a dombot a Belmonte Arborétumhoz és élvezi a kilátást. Egy rövid kitérő a Botanikus Kertbe bővíti tudását, mielőtt a napot a Wageningeni Borászatban zárja, egy szőlőültetvényen, amely jutalmat kínál fáradozásaiért.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua la Hotel de Wereld înainte de a pedala spre Grote Kerk. Traseul vă duce apoi spre sud, la portul Rinului și în vastele lunci inundabile Uiterwaarden, perfecte pentru o pauză de prânz prelungită în natură. Întărit, după-amiaza urcați dealul spre Arboretul Belmonte și vă bucurați de priveliște. O scurtă abatere la Grădinile Botanice vă îmbogățește cunoștințele înainte de a încheia ziua relaxat la Crama Wageningen, o podgorie care vă oferă recompensa pentru eforturile depuse.",
+        "en": "Hop on your bike and start the day at Hotel de Wereld before cycling to the Grote Kerk. The route then takes you south to the Rhine harbor and into the vast Uiterwaarden floodplains, perfect for an extended lunch break in the green. Refreshed, you'll climb the hill to the Belmonte Arboretum in the afternoon and enjoy the view. A short detour to the Botanical Gardens enriches your knowledge before you end the day relaxing at the Wageningen Vineyard, a reward for your efforts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pannenkoeken",
+            "tip": "Probieren Sie einen herzhaften oder süßen holländischen Pfannkuchen in einem der vielen 'Pannenkoekenhuizen'."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Besuchen Sie das Café Loburg, um eine Auswahl an lokalen und regionalen Bieren zu probieren."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Frittierte Kabeljaustücke, ein beliebter Snack vom Fischstand am Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pannenkoeken",
+            "tip": "Kóstoljon meg egy sós vagy édes holland palacsintát a sok 'Pannenkoekenhuis' egyikében."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Látogasson el a Café Loburgba, hogy megkóstolja a helyi és regionális sörök választékát."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Sült tőkehal darabok, egy népszerű snack a piaci halárustól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pannenkoeken",
+            "tip": "Încercați o clătită olandeză sărată sau dulce la una dintre numeroasele 'Pannenkoekenhuizen'."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Vizitați Café Loburg pentru a degusta o selecție de beri locale și regionale."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Bucăți de cod prăjit, o gustare populară de la standul de pește din piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pannenkoeken",
+            "tip": "Try a savory or sweet Dutch pancake at one of the many 'Pannenkoekenhuizen'."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Visit Café Loburg to sample a selection of local and regional beers."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Fried cod pieces, a popular snack from the fish stall at the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Deiche entlang des Rheins",
+            "tip": "Eine ruhige Radtour auf dem Deich mit weitem Blick über den Fluss.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Wageningse Berg",
+            "tip": "Finden Sie einen Aussichtspunkt im Arboretum für einen Moment der Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Stille der Uiterwaarden",
+            "tip": "Abseits der Hauptwege finden Sie absolute Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gátak a Rajna mentén",
+            "tip": "Egy csendes biciklitúra a gáton, széles kilátással a folyóra.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Wageningse Berg",
+            "tip": "Keressen egy kilátópontot az arborétumban egy csendes pillanatért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Uiterwaarden csendje",
+            "tip": "A fő utaktól távol abszolút nyugalmat talál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digurile de-a lungul Rinului",
+            "tip": "O plimbare liniștită cu bicicleta pe dig, cu o priveliște largă asupra râului.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Wageningse Berg",
+            "tip": "Găsiți un punct de belvedere în arboret pentru un moment de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Liniștea din Uiterwaarden",
+            "tip": "Departe de potecile principale, veți găsi liniște absolută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dikes along the Rhine",
+            "tip": "A quiet bike ride on the dike with a wide view over the river.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Wageningse Berg",
+            "tip": "Find a viewpoint in the arboretum for a moment of silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The silence of the Uiterwaarden",
+            "tip": "Away from the main paths, you will find absolute tranquility.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen",
+            "tip": "Besuchen Sie einen der vielen Fahrradläden für Zubehör oder Souvenirs."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "Suchen Sie nach lokalem Honig, der oft in Hofläden rund um die Stadt verkauft wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Látogasson el a sok kerékpárbolt egyikébe kiegészítőkért vagy ajándéktárgyakért."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "Keressen helyi mézet, amelyet gyakran a város körüli termelői boltokban árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Vizitați unul dintre numeroasele magazine de biciclete pentru accesorii sau suveniruri."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Căutați miere locală, adesea vândută la magazinele fermelor din jurul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Visit one of the many bike shops for accessories or souvenirs."
+          },
+          {
+            "name": "Local Honey",
+            "tip": "Look for local honey, often sold at farm shops around the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Gängen, da es einige Hügel gibt.",
+          "Achten Sie auf die Fahrrad-Verkehrsregeln und -Signale.",
+          "Ein gutes Schloss ist unerlässlich, besonders im Stadtzentrum.",
+          "Die Niederlande sind flach, aber Wageningen hat einige überraschende Anstiege."
+        ],
+        "hu": [
+          "Béreljen váltós kerékpárt, mivel vannak emelkedők.",
+          "Ügyeljen a kerékpáros közlekedési szabályokra és jelzésekre.",
+          "Egy jó lakat elengedhetetlen, különösen a városközpontban.",
+          "Hollandia sík, de Wageningenben vannak meglepő emelkedők."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze, deoarece există câteva dealuri.",
+          "Acordați atenție regulilor și semnalelor de circulație pentru biciclete.",
+          "Un lacăt bun este esențial, mai ales în centrul orașului.",
+          "Olanda este plată, dar Wageningen are câteva urcări surprinzătoare."
+        ],
+        "en": [
+          "Rent a bike with gears as there are some hills.",
+          "Pay attention to bicycle traffic rules and signals.",
+          "A good lock is essential, especially in the city center.",
+          "The Netherlands is flat, but Wageningen has some surprising climbs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare Centru",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            5.669,
+            51.969
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto für den Vormittag und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkolja le az autót a délelőttre, és fedezze fel a központot gyalog.",
+            "ro": "Parcați mașina pentru dimineață și explorați centrul pe jos.",
+            "en": "Park your car for the morning and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hotel de Wereld",
+            "hu": "Hotel de Wereld",
+            "ro": "Hotel de Wereld",
+            "en": "Hotel de Wereld"
+          },
+          "coords": [
+            5.668,
+            51.966
+          ],
+          "category": "historical",
+          "arrive_at": "09:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zu diesem wichtigen historischen Ort.",
+            "hu": "Egy rövid séta a parkolótól ehhez a fontos történelmi helyszínhez.",
+            "ro": "O scurtă plimbare de la parcare la acest important sit istoric.",
+            "en": "A short walk from the parking lot to this important historical site."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Kerk",
+            "hu": "Grote Kerk",
+            "ro": "Grote Kerk",
+            "en": "Grote Kerk"
+          },
+          "coords": [
+            5.666,
+            51.967
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Kirche dominiert den Marktplatz, nur wenige Schritte vom Hotel entfernt.",
+            "hu": "A templom uralja a piacteret, csak pár lépésre a szállodától.",
+            "ro": "Biserica domină piața, la doar câțiva pași de hotel.",
+            "en": "The church dominates the market square, just a few steps from the hotel."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum de Casteelse Poort",
+            "hu": "Casteelse Poort Múzeum",
+            "ro": "Muzeul de Casteelse Poort",
+            "en": "Museum de Casteelse Poort"
+          },
+          "coords": [
+            5.665,
+            51.968
+          ],
+          "category": "museums",
+          "arrive_at": "10:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren Rundgang durch das Zentrum mit einem tiefen Einblick in die lokale Geschichte ab.",
+            "hu": "Zárja a központi sétát a helyi történelem mélyebb megismerésével.",
+            "ro": "Încheiați turul centrului cu o incursiune profundă în istoria locală.",
+            "en": "Conclude your tour of the center with a deep dive into local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Uiterwaarden",
+            "hu": "Parkoló az Uiterwaarden-nél",
+            "ro": "Parcare Uiterwaarden",
+            "en": "Uiterwaarden Parking"
+          },
+          "coords": [
+            5.675,
+            51.957
+          ],
+          "category": "transport",
+          "arrive_at": "12:28",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Flussufer und parken Sie für Ihr nächstes Cluster-Erlebnis.",
+            "hu": "Vezessen a folyóparthoz, és parkoljon le a következő élménycsomópontnál.",
+            "ro": "Conduceți spre malul râului și parcați pentru următoarea experiență de grup.",
+            "en": "Drive to the riverbank and park for your next cluster experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Rijnhaven & Mittagessen",
+            "hu": "Rijnhaven & Ebéd",
+            "ro": "Rijnhaven & Prânz",
+            "en": "Rijnhaven & Lunch"
+          },
+          "coords": [
+            5.672,
+            51.958
+          ],
+          "category": "port",
+          "arrive_at": "12:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen in einem der Restaurants am Hafen, bevor Sie die Auen erkunden.",
+            "hu": "Élvezze az ebédet a kikötő egyik éttermében, mielőtt felfedezné az árteret.",
+            "ro": "Bucurați-vă de un prânz la unul dintre restaurantele din port înainte de a explora lunca.",
+            "en": "Enjoy lunch at one of the harbor restaurants before exploring the floodplains."
+          }
+        },
+        {
+          "name": {
+            "de": "Belmonte Arboretum",
+            "hu": "Belmonte Arborétum",
+            "ro": "Arboretul Belmonte",
+            "en": "Belmonte Arboretum"
+          },
+          "coords": [
+            5.685,
+            51.969
+          ],
+          "category": "natural features",
+          "arrive_at": "14:38",
+          "stay_min": 171,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Arboretum und verbringen Sie den Rest des Nachmittags in den Gärten.",
+            "hu": "Parkoljon az arborétumnál, és töltse a délután hátralévő részét a kertekben.",
+            "ro": "Parcați la arboret și petreceți restul după-amiezii în grădini.",
+            "en": "Park at the arboretum and spend the rest of the afternoon in the gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit dem Parken im Zentrum. Der Vormittag gehört dem historischen Kern, den Sie zu Fuß erkunden: Hotel de Wereld, Grote Kerk und das Museum. Nach diesem Cluster-Spaziergang holen Sie Ihr Auto und fahren zum zweiten Cluster am Fluss. Nach dem Mittagessen im Rijnhaven erkunden Sie die Uiterwaarden. Der Höhepunkt des Nachmittags ist die Fahrt hinauf zum Belmonte Arboretum, Ihrem dritten und letzten Cluster, wo Sie den Tag inmitten von Natur und herrlicher Aussicht ausklingen lassen.",
+        "hu": "Autós napja a központban való parkolással kezdődik. A délelőtt a történelmi magé, amelyet gyalog fedez fel: Hotel de Wereld, Grote Kerk és a múzeum. E séta után autóba ül, és a folyóparti második csomóponthoz hajt. Ebéd után a Rijnhavenben felfedezi az Uiterwaarden árteret. A délután csúcspontja a felhajtás a Belmonte Arborétumhoz, a harmadik és egyben utolsó csomóponthoz, ahol a természet és a csodálatos kilátás közepette zárja a napot.",
+        "ro": "Ziua cu mașina începe parcând în centru. Dimineața este dedicată nucleului istoric, pe care îl explorați pe jos: Hotel de Wereld, Grote Kerk și muzeul. După această plimbare în grup, vă luați mașina și conduceți spre al doilea grup de pe malul râului. După prânz în Rijnhaven, explorați Uiterwaarden. Punctul culminant al după-amiezii este urcarea cu mașina la Arboretul Belmonte, al treilea și ultimul grup, unde încheiați ziua înconjurat de natură și priveliști magnifice.",
+        "en": "Your car day begins by parking in the center. The morning is dedicated to the historic core, which you'll explore on foot: Hotel de Wereld, Grote Kerk, and the museum. After this cluster walk, you'll retrieve your car and drive to the second cluster by the river. After lunch in Rijnhaven, you'll explore the Uiterwaarden. The afternoon's highlight is the drive up to Belmonte Arboretum, your third and final cluster, where you'll end the day amidst nature and magnificent views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Drinks & Bites",
+            "tip": "Ideal für ein stilvolles Mittagessen am Hafen mit guter Aussicht."
+          },
+          {
+            "name": "Fletcher Hotel-Restaurant De Wageningsche Berg",
+            "tip": "Kombinieren Sie einen Besuch im Arboretum mit einem gehobenen Abendessen und Panoramablick."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Suchen Sie ein Café für ein Stück traditionellen holländischen Apfelkuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Drinks & Bites Étterem",
+            "tip": "Ideális egy stílusos ebédhez a kikötőben, jó kilátással."
+          },
+          {
+            "name": "Fletcher Hotel-Restaurant De Wageningsche Berg",
+            "tip": "Kombinálja az arborétumi látogatást egy elegáns vacsorával és panorámás kilátással."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Keressen egy kávézót egy szelet hagyományos holland almás pitéért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Drinks & Bites",
+            "tip": "Ideal pentru un prânz elegant în port, cu o priveliște bună."
+          },
+          {
+            "name": "Fletcher Hotel-Restaurant De Wageningsche Berg",
+            "tip": "Combinați o vizită la arboret cu o cină rafinată și vederi panoramice."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Căutați o cafenea pentru o felie de plăcintă tradițională olandeză cu mere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Drinks & Bites",
+            "tip": "Ideal for a stylish lunch at the harbor with a good view."
+          },
+          {
+            "name": "Fletcher Hotel-Restaurant De Wageningsche Berg",
+            "tip": "Combine a visit to the arboretum with an upscale dinner and panoramic views."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Find a café for a slice of traditional Dutch apple pie."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt im Belmonte Arboretum",
+            "tip": "Der höchste Punkt bietet eine weite Aussicht über das Rheintal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wanderwege in den Uiterwaarden",
+            "tip": "Folgen Sie einem der weniger begangenen Pfade für pure Naturerfahrung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Systematischer Garten im Botanischen Garten",
+            "tip": "Ein Ort der Ordnung und Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Belmonte Arborétumban",
+            "tip": "A legmagasabb pontról széles kilátás nyílik a Rajna-völgyre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Túraútvonalak az Uiterwaarden-ben",
+            "tip": "Kövesse az egyik kevésbé járt ösvényt a tiszta természetélményért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rendszertani kert a Botanikus Kertben",
+            "tip": "A rend és a nyugalom helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere în Arboretul Belmonte",
+            "tip": "Cel mai înalt punct oferă o priveliște vastă asupra văii Rinului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Trasee de drumeție în Uiterwaarden",
+            "tip": "Urmați una dintre potecile mai puțin circulate pentru o experiență pură în natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina sistematică din Grădina Botanică",
+            "tip": "Un loc de ordine și calm.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint in Belmonte Arboretum",
+            "tip": "The highest point offers a wide view over the Rhine valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hiking trails in the Uiterwaarden",
+            "tip": "Follow one of the less-traveled paths for a pure nature experience.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Systematic Garden in the Botanical Garden",
+            "tip": "A place of order and tranquility.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wagenings Wijngoed",
+            "tip": "Kaufen Sie eine Flasche lokalen Wein direkt vom Erzeuger."
+          },
+          {
+            "name": "Käseladen",
+            "tip": "Besuchen Sie einen spezialisierten Käseladen für eine Auswahl an holländischen Käsesorten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wageningeni Borászat",
+            "tip": "Vásároljon egy üveg helyi bort közvetlenül a termelőtől."
+          },
+          {
+            "name": "Sajtbolt",
+            "tip": "Látogasson el egy szakosodott sajtboltba a holland sajtok választékáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama Wageningen",
+            "tip": "Cumpărați o sticlă de vin local direct de la producător."
+          },
+          {
+            "name": "Magazin de brânzeturi",
+            "tip": "Vizitați un magazin specializat de brânzeturi pentru o selecție de brânzeturi olandeze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wageningen Vineyard",
+            "tip": "Buy a bottle of local wine directly from the producer."
+          },
+          {
+            "name": "Cheese Shop",
+            "tip": "Visit a specialized cheese shop for a selection of Dutch cheeses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Beachten Sie die Parkgebühren und -zeiten, besonders im Zentrum.",
+          "Die Cluster-Walking-Methode spart Zeit und Stress bei der Parkplatzsuche.",
+          "Ein Navigationssystem ist hilfreich, um zwischen den Clustern zu navigieren.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders am späten Nachmittag."
+        ],
+        "hu": [
+          "Vegye figyelembe a parkolási díjakat és időket, különösen a központban.",
+          "A csomópontos gyaloglás módszere időt és stresszt takarít meg a parkolóhely-keresésnél.",
+          "A navigációs rendszer hasznos a csomópontok közötti navigáláshoz.",
+          "Tervezzen plusz időt a forgalomra, különösen késő délután."
+        ],
+        "ro": [
+          "Fiți atenți la taxele și orele de parcare, mai ales în centru.",
+          "Metoda de plimbare în grup economisește timp și stres la căutarea unui loc de parcare.",
+          "Un sistem de navigație este util pentru a naviga între grupuri.",
+          "Planificați timp suplimentar pentru trafic, mai ales după-amiaza târziu."
+        ],
+        "en": [
+          "Be aware of parking fees and times, especially in the center.",
+          "The cluster-walking method saves time and stress from finding parking.",
+          "A navigation system is helpful for navigating between clusters.",
+          "Plan for extra time for traffic, especially in the late afternoon."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 8.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Wageningen",
+            "hu": "Wageningen buszpályaudvar",
+            "ro": "Autogara Wageningen",
+            "en": "Wageningen Bus Station"
+          },
+          "coords": [
+            5.664,
+            51.965
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag am zentralen Knotenpunkt des öffentlichen Nahverkehrs.",
+            "hu": "Kezdje a napot a tömegközlekedés központi csomópontján.",
+            "ro": "Începeți-vă ziua la nodul central de transport public.",
+            "en": "Start your day at the central public transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Kerk",
+            "hu": "Grote Kerk",
+            "ro": "Grote Kerk",
+            "en": "Grote Kerk"
+          },
+          "coords": [
+            5.666,
+            51.967
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Busbahnhof zum Herzen der Stadt.",
+            "hu": "Egy rövid séta a buszpályaudvartól a város szívéig.",
+            "ro": "O scurtă plimbare pe jos de la autogară până în inima orașului.",
+            "en": "A short walk from the bus station to the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Hotel de Wereld",
+            "hu": "Hotel de Wereld",
+            "ro": "Hotel de Wereld",
+            "en": "Hotel de Wereld"
+          },
+          "coords": [
+            5.668,
+            51.966
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Zentrum weiter, alles ist leicht zu Fuß erreichbar.",
+            "hu": "Fedezze fel tovább a történelmi központot, minden könnyen elérhető gyalog.",
+            "ro": "Continuați explorarea centrului istoric, totul este ușor accesibil pe jos.",
+            "en": "Continue exploring the historic center, everything is within easy walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Rijnhaven",
+            "hu": "Rijnhaven",
+            "ro": "Rijnhaven",
+            "en": "Rijnhaven"
+          },
+          "coords": [
+            5.672,
+            51.958
+          ],
+          "category": "port",
+          "arrive_at": "11:04",
+          "stay_min": 120,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus Richtung Süden. Genießen Sie eine lange Mittagspause am Wasser.",
+            "hu": "Menjen busszal dél felé. Élvezzen egy hosszú ebédszünetet a vízparton.",
+            "ro": "Luați un autobuz spre sud. Bucurați-vă de o pauză lungă de prânz pe malul apei.",
+            "en": "Take a bus south. Enjoy a long lunch break by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Belmonte Arboretum",
+            "hu": "Belmonte Arborétum",
+            "ro": "Arboretul Belmonte",
+            "en": "Belmonte Arboretum"
+          },
+          "coords": [
+            5.685,
+            51.969
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mehrere Buslinien verbinden das Flussufer mit dem Wageningse Berg.",
+            "hu": "Több buszjárat köti össze a folyópartot a Wageningse Berg heggyel.",
+            "ro": "Mai multe linii de autobuz leagă malul râului de Wageningse Berg.",
+            "en": "Several bus lines connect the riverbank with the Wageningse Berg."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanische Tuinen Wageningen",
+            "hu": "Wageningeni Botanikus Kert",
+            "ro": "Grădinile Botanice Wageningen",
+            "en": "Botanical Gardens Wageningen"
+          },
+          "coords": [
+            5.68,
+            51.972
+          ],
+          "category": "natural features",
+          "arrive_at": "15:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Arboretum, um den Nachmittag in den Gärten zu beenden.",
+            "hu": "Egy szép séta az arborétumtól, hogy a délutánt a kertekben fejezze be.",
+            "ro": "O plimbare frumoasă de la arboret pentru a încheia după-amiaza în grădini.",
+            "en": "A beautiful walk from the arboretum to end the afternoon in the gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt am zentralen Busbahnhof. Von hier aus ist der historische Kern mit der Grote Kerk und dem Hotel de Wereld nur einen kurzen Spaziergang entfernt. Nach der Erkundung des Zentrums bringt Sie ein Bus zum Rijnhaven für eine ausgedehnte Mittagspause. Am Nachmittag fahren Sie mit dem Bus auf den Wageningse Berg, um das Belmonte Arboretum zu besuchen. Ein entspannter Spaziergang führt Sie schließlich zu den Botanischen Gärten, wo Sie den Tag umgeben von pflanzlicher Vielfalt ausklingen lassen, bevor Sie mit dem Bus ins Zentrum zurückkehren.",
+        "hu": "Tömegközlekedéssel töltött napja a központi buszpályaudvaron kezdődik. Innen a történelmi mag, a Grote Kerk és a Hotel de Wereld csak egy rövid sétára található. A központ felfedezése után busz viszi a Rajna-kikötőbe egy kiadós ebédszünetre. Délután busszal felmegy a Wageningse Berg hegyre, hogy meglátogassa a Belmonte Arborétumot. Egy pihentető séta végül a Botanikus Kertbe vezet, ahol a növényi sokféleség közepette zárja a napot, mielőtt busszal visszatérne a központba.",
+        "ro": "Ziua dvs. cu transportul public începe la autogara centrală. De aici, nucleul istoric cu Grote Kerk și Hotel de Wereld este la o scurtă plimbare. După explorarea centrului, un autobuz vă duce la portul Rinului pentru o pauză de prânz prelungită. După-amiaza, luați autobuzul spre Wageningse Berg pentru a vizita Arboretul Belmonte. O plimbare relaxantă vă duce în cele din urmă la Grădinile Botanice, unde încheiați ziua înconjurat de diversitatea plantelor înainte de a vă întoarce în centru cu autobuzul.",
+        "en": "Your day using public transport begins at the central bus station. From here, the historic core with the Grote Kerk and Hotel de Wereld is just a short walk away. After exploring the center, a bus takes you to the Rhine harbor for an extended lunch break. In the afternoon, you'll take a bus up the Wageningse Berg to visit the Belmonte Arboretum. A relaxing walk then leads you to the Botanical Gardens, where you'll end the day surrounded by plant diversity before taking a bus back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Thuis Wageningen",
+            "tip": "Ein beliebtes Café und Restaurant in der Nähe des Busbahnhofs, ideal für den Start oder das Ende des Tages."
+          },
+          {
+            "name": "Broodje",
+            "tip": "Holen Sie sich ein klassisches belegtes Brötchen (Broodje) für ein schnelles Mittagessen unterwegs."
+          },
+          {
+            "name": "Eethuis De Helden",
+            "tip": "Ein gemütlicher Ort für ein herzhaftes Abendessen nach einem Tag voller Erkundungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Thuis Wageningen",
+            "tip": "Népszerű kávézó és étterem a buszpályaudvar közelében, ideális a nap kezdetéhez vagy végéhez."
+          },
+          {
+            "name": "Broodje",
+            "tip": "Vegyen egy klasszikus szendvicset (Broodje) egy gyors ebédhez útközben."
+          },
+          {
+            "name": "Eethuis De Helden",
+            "tip": "Hangulatos hely egy kiadós vacsorához egy felfedezéssel teli nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Thuis Wageningen",
+            "tip": "O cafenea și un restaurant popular lângă autogară, ideal pentru începutul sau sfârșitul zilei."
+          },
+          {
+            "name": "Broodje",
+            "tip": "Luați un sandviș clasic (Broodje) pentru un prânz rapid pe drum."
+          },
+          {
+            "name": "Eethuis De Helden",
+            "tip": "Un loc primitor pentru o cină copioasă după o zi de explorare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Thuis Wageningen",
+            "tip": "A popular cafe and restaurant near the bus station, ideal for starting or ending the day."
+          },
+          {
+            "name": "Broodje",
+            "tip": "Grab a classic sandwich (Broodje) for a quick lunch on the go."
+          },
+          {
+            "name": "Eethuis De Helden",
+            "tip": "A cozy place for a hearty dinner after a day of exploring."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der Rosengarten im Botanischen Garten",
+            "tip": "Ein duftender und friedlicher Ort, um sich auszuruhen.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Blick von der Deichkrone",
+            "tip": "Beobachten Sie die Landschaft von der Bushaltestelle am Deich aus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank im Arboretum",
+            "tip": "Finden Sie eine abgelegene Bank und lauschen Sie den Vögeln.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsakert a Botanikus Kertben",
+            "tip": "Illatos és békés hely a pihenésre.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Kilátás a gát tetejéről",
+            "tip": "Figyelje a tájat a gátnál lévő buszmegállóból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad az arborétumban",
+            "tip": "Keressen egy eldugott padot, és hallgassa a madarakat.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de trandafiri din Grădina Botanică",
+            "tip": "Un loc parfumat și liniștit pentru a vă odihni.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Vedere de pe dig",
+            "tip": "Priviți peisajul de la stația de autobuz de pe dig.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în arboret",
+            "tip": "Găsiți o bancă retrasă și ascultați păsările.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Rose Garden in the Botanical Garden",
+            "tip": "A fragrant and peaceful place to rest.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "View from the top of the dike",
+            "tip": "Watch the landscape from the bus stop on the dike.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in the arboretum",
+            "tip": "Find a secluded bench and listen to the birds.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte rund um den Marktplatz",
+            "tip": "Entdecken Sie kleine, unabhängige Geschäfte in der Nähe der zentralen Bushaltestellen."
+          },
+          {
+            "name": "Pflanzenverkauf in den Botanischen Gärten",
+            "tip": "Kaufen Sie eine besondere Pflanze als einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a piactér körül",
+            "tip": "Fedezzen fel kis, független üzleteket a központi buszmegállók közelében."
+          },
+          {
+            "name": "Növényvásár a Botanikus Kertben",
+            "tip": "Vásároljon egy különleges növényt egyedi szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în jurul pieței",
+            "tip": "Descoperiți magazine mici, independente, în apropierea stațiilor centrale de autobuz."
+          },
+          {
+            "name": "Vânzare de plante la Grădinile Botanice",
+            "tip": "Cumpărați o plantă specială ca suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops around the Market Square",
+            "tip": "Discover small, independent shops near the central bus stops."
+          },
+          {
+            "name": "Plant sale at the Botanical Gardens",
+            "tip": "Buy a special plant as a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte (Dagkaart) für unbegrenzte Fahrten.",
+          "Nutzen Sie eine ÖPNV-App, um die Busfahrpläne in Echtzeit zu verfolgen.",
+          "Die meisten Busse sind barrierefrei zugänglich.",
+          "Planen Sie Ihre Verbindungen im Voraus, besonders für weniger frequentierte Linien."
+        ],
+        "hu": [
+          "Vásároljon napijegyet (Dagkaart) a korlátlan utazáshoz.",
+          "Használjon tömegközlekedési alkalmazást a buszmenetrendek valós idejű követéséhez.",
+          "A legtöbb busz akadálymentesített.",
+          "Tervezze meg előre a csatlakozásokat, különösen a ritkábban közlekedő járatok esetében."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi (Dagkaart) pentru călătorii nelimitate.",
+          "Utilizați o aplicație de transport public pentru a urmări orarele autobuzelor în timp real.",
+          "Majoritatea autobuzelor sunt accesibile persoanelor cu dizabilități.",
+          "Planificați-vă conexiunile în avans, în special pentru liniile mai puțin frecvente."
+        ],
+        "en": [
+          "Buy a day ticket (Dagkaart) for unlimited travel.",
+          "Use a public transport app to track bus schedules in real time.",
+          "Most buses are wheelchair accessible.",
+          "Plan your connections in advance, especially for less frequent lines."
+        ]
+      }
+    }
+  }
+}

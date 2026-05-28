@@ -1,0 +1,1484 @@
+{
+  "city_id": "gyula",
+  "anchor": {
+    "name": "Burg von Gyula",
+    "coords": [
+      46.6447,
+      21.2811
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "100-jährige Konditorei",
+            "hu": "Százéves Cukrászda",
+            "ro": "Cofetăria de 100 de ani",
+            "en": "100-year-old Confectionery"
+          },
+          "coords": [
+            46.6425,
+            21.278
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie den „Gyulaer Kuss“-Kuchen, eine lokale Spezialität.",
+            "hu": "Kóstold meg a „Gyulai Csók” süteményt, egy helyi különlegességet!",
+            "ro": "Încercați prăjitura „Sărut de Gyula”, o specialitate locală.",
+            "en": "Try the 'Kiss of Gyula' cake, a local specialty."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikolaus-Kathedrale",
+            "hu": "Szent Miklós Katedrális",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            46.644,
+            21.275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckende Ikonostase im Inneren.",
+            "hu": "Figyeld meg a lenyűgöző ikonosztázt a templom belsejében!",
+            "ro": "Observați iconostasul impresionant din interior.",
+            "en": "Note the impressive iconostasis inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Erkel-Gedenkhaus",
+            "hu": "Erkel Ferenc Emlékház",
+            "ro": "Casa Memorială Erkel",
+            "en": "Erkel Memorial House"
+          },
+          "coords": [
+            46.6418,
+            21.2795
+          ],
+          "category": "museums",
+          "arrive_at": "10:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Geburtsort des Komponisten der ungarischen Nationalhymne.",
+            "hu": "Itt született a magyar himnusz zeneszerzője.",
+            "ro": "Locul de naștere al compozitorului imnului național maghiar.",
+            "en": "The birthplace of the composer of the Hungarian national anthem."
+          }
+        },
+        {
+          "name": {
+            "de": "Almásy-Schloss",
+            "hu": "Almásy-kastély",
+            "ro": "Castelul Almásy",
+            "en": "Almásy Castle"
+          },
+          "coords": [
+            46.643,
+            21.2825
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:54",
+          "stay_min": 90,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die interaktiven Ausstellungen zeigen das Leben des Adels und seiner Diener.",
+            "hu": "Az interaktív kiállítások bemutatják a nemesség és a cselédség életét.",
+            "ro": "Expozițiile interactive prezintă viața nobilimii și a servitorilor.",
+            "en": "The interactive exhibits showcase the life of nobility and their servants."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Gyula",
+            "hu": "Gyulai vár",
+            "ro": "Cetatea Gyula",
+            "en": "Gyula Castle"
+          },
+          "coords": [
+            46.6447,
+            21.2811
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:28",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm für einen Panoramablick auf die Stadt und die Umgebung.",
+            "hu": "Menj fel a toronyba a városra és környékére nyíló panorámáért!",
+            "ro": "Urcați în turn pentru o vedere panoramică asupra orașului și a împrejurimilor.",
+            "en": "Climb the tower for a panoramic view of the town and surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem Csárda",
+            "hu": "Ebéd egy csárdában",
+            "ro": "Prânz la o csárda",
+            "en": "Lunch at a Csárda"
+          },
+          "coords": [
+            46.646,
+            21.283
+          ],
+          "category": "gastro",
+          "arrive_at": "15:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie eine traditionelle Gulaschsuppe oder Wurst.",
+            "hu": "Kóstolj meg egy tradicionális gulyáslevest vagy egy jó gyulai kolbászt!",
+            "ro": "Încercați o supă gulaș tradițională sau cârnați locali.",
+            "en": "Try a traditional goulash soup or local sausage."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgbad (Várfürdő)",
+            "hu": "Várfürdő",
+            "ro": "Băile Cetății (Várfürdő)",
+            "en": "Castle Spa (Várfürdő)"
+          },
+          "coords": [
+            46.6455,
+            21.284
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Ende des Tages in den Thermalbecken.",
+            "hu": "Pihenj a termálmedencékben a nap végén!",
+            "ro": "Relaxați-vă în bazinele termale la sfârșitul zilei.",
+            "en": "Relax in the thermal pools at the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Gyula mit einem süßen Genuss in der historischen 100-jährigen Konditorei. Nach der Stärkung führt Sie ein kurzer Spaziergang zur prächtigen rumänisch-orthodoxen Nikolaus-Kathedrale und zum Geburtshaus von Ferenc Erkel, dem Komponisten der ungarischen Nationalhymne. Die kulturelle Erkundung des Vormittags bereitet Sie auf die historischen Wunder des Nachmittags vor.\nAm Mittag tauchen Sie in die aristokratische Vergangenheit im interaktiven Almásy-Schloss ein. Erfahren Sie mehr über das Leben von Adligen und Dienern, bevor Sie die Hauptattraktion erkunden: die mächtige Burg von Gyula. Nehmen Sie sich Zeit, durch die Hallen zu wandern und auf den Turm zu steigen, um eine atemberaubende Aussicht zu genießen. Ein herzhaftes Mittagessen in einer nahegelegenen Csárda mit lokaler Wurst ist ein Muss.\nDer Nachmittag ist der Entspannung gewidmet. Nach der Erkundung der Burg und einem sättigenden Mittagessen geht es zum berühmten Burgbad. Der weitläufige Komplex mit seinen Thermalbecken, Rutschen und Saunen befindet sich direkt neben der Burg und bietet die perfekte Erholung nach einem langen Spaziergang. Verbringen Sie hier einige Stunden, um sich zu erholen und zu entspannen.\nWenn der Abend naht, lassen Sie den Tag mit einem gemütlichen Spaziergang entlang des Flusses Körös ausklingen. Genießen Sie die friedliche Atmosphäre, während die Lichter der Stadt zu leuchten beginnen. Ein köstliches Abendessen mit Gyulaer Spezialitäten rundet Ihr unvergessliches Erlebnis in dieser charmanten ungarischen Stadt perfekt ab.",
+        "hu": "Indítsd a napot Gyula szívében egy édes finomsággal a történelmi Százéves Cukrászdában! Innen egy rövid séta vezet a pompás román ortodox Szent Miklós Katedrálishoz és Erkel Ferenc, a magyar Himnusz zeneszerzőjének szülőházához. A délelőtti kulturális felfedezés megalapozza a délutáni történelmi csodákat.\nDélben merülj el az arisztokrata múltban az interaktív Almásy-kastélyban! Ismerd meg a nemesek és szolgálóik életét, mielőtt felfedeznéd a fő látványosságot: a hatalmas Gyulai várat. Szánj időt a termek bejárására és mássz fel a toronyba a lélegzetelállító kilátásért! Egy kiadós ebéd egy közeli csárdában, helyi kolbásszal, kihagyhatatlan.\nA délután a pihenésé. A vár felfedezése és a laktató ebéd után vedd az irányt a híres Várfürdő felé! A vár mellett elterülő hatalmas komplexum termálmedencéivel, csúszdáival és szaunáival tökéletes kikapcsolódást nyújt a hosszú séta után. Tölts el itt néhány órát a feltöltődéssel és pihenéssel.\nAz este közeledtével zárd a napot egy kellemes sétával a Körös-folyó partján. Élvezd a békés hangulatot, miközben a város fényei felgyulladnak. Egy finom vacsora gyulai specialitásokkal teszi teljessé a felejthetetlen élményt ebben a bájos magyar városban.",
+        "ro": "Începeți ziua în inima orașului Gyula cu un deliciu dulce la istorica Cofetărie de 100 de ani. După aceea, o scurtă plimbare vă duce la magnifica Catedrală Ortodoxă Română Sfântul Nicolae și la casa natală a lui Ferenc Erkel, compozitorul imnului național al Ungariei. Explorarea culturală de dimineață pregătește terenul pentru minunile istorice ale după-amiezii.\nLa prânz, scufundați-vă în trecutul aristocratic la interactivul Castel Almásy. Aflați despre viața nobililor și a servitorilor înainte de a explora atracția principală: impunătoarea Cetate Gyula. Luați-vă timp să rătăciți prin sălile sale și să urcați în turn pentru priveliști uimitoare. Un prânz consistent la o csárda din apropiere, cu cârnați locali, este obligatoriu.\nDupă-amiaza este dedicată relaxării. După explorarea cetății și un prânz satisfăcător, îndreptați-vă spre renumitele Băi ale Cetății (Várfürdő). Situat chiar lângă cetate, complexul vast cu piscine termale, tobogane și saune oferă o recuperare perfectă după o plimbare lungă. Petreceți câteva ore aici pentru a vă reîncărca și relaxa.\nPe măsură ce se apropie seara, încheiați ziua cu o plimbare liniștită de-a lungul râului Criș (Körös). Bucurați-vă de atmosfera pașnică în timp ce luminile orașului încep să se aprindă. O cină delicioasă cu specialități din Gyula va completa perfect experiența dvs. memorabilă în acest fermecător oraș maghiar.",
+        "en": "Start your day in the heart of Gyula with a sweet treat at the historic 100-year-old Confectionery. After refueling, a short walk takes you to the magnificent Romanian Orthodox St. Nicholas Cathedral and the birthplace of Ferenc Erkel, the composer of the Hungarian national anthem. The morning's cultural exploration sets the stage for the afternoon's historical wonders.\nAt midday, immerse yourself in the aristocratic past at the interactive Almásy Castle. Learn about the lives of nobles and servants before exploring the main attraction: the mighty Gyula Castle. Take your time to wander its halls and climb the tower for breathtaking views. A hearty lunch at a nearby csárda featuring local sausage is a must.\nThe afternoon is dedicated to relaxation. After exploring the castle and having a satisfying lunch, head to the famous Castle Spa (Várfürdő). Located right next to the castle, the vast complex with its thermal pools, slides, and saunas offers the perfect recovery after a long walk. Spend a few hours here to recharge and unwind.\nAs evening approaches, wind down your day with a leisurely stroll along the Körös River. Enjoy the peaceful atmosphere as the city lights begin to twinkle. A delicious dinner featuring Gyula's specialties will perfectly round off your memorable experience in this charming Hungarian town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyulaer Wurst",
+            "tip": "Probieren Sie die weltberühmte, leicht geräucherte Wurst, oft mit Paprika gewürzt."
+          },
+          {
+            "name": "Gulaschsuppe",
+            "tip": "Ein herzhafter Klassiker, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Patria Pálinka Manufaktúra",
+            "tip": "Verkosten Sie lokale Obstbrände in einer traditionellen Destillerie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyulai kolbász",
+            "tip": "Kóstold meg a világhírű, enyhén füstölt, paprikás kolbászt!"
+          },
+          {
+            "name": "Gulyásleves",
+            "tip": "Egy kiadós klasszikus, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Patria Pálinka Manufaktúra",
+            "tip": "Kóstolj helyi gyümölcspárlatokat egy hagyományos főzdében!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnați de Gyula",
+            "tip": "Încercați renumiții cârnați, ușor afumați și adesea condimentați cu boia."
+          },
+          {
+            "name": "Supă gulaș",
+            "tip": "Un clasic consistent, perfect după o plimbare lungă."
+          },
+          {
+            "name": "Manufactura de Pălincă Patria",
+            "tip": "Degustați rachiuri locale din fructe la o distilerie tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyula Sausage",
+            "tip": "Try the world-famous, lightly smoked sausage, often seasoned with paprika."
+          },
+          {
+            "name": "Goulash Soup",
+            "tip": "A hearty classic, perfect after a long walk."
+          },
+          {
+            "name": "Patria Pálinka Manufactory",
+            "tip": "Taste local fruit brandies at a traditional distillery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Ufer des Fehér-Körös",
+            "tip": "Ein friedlicher Weg, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie eine ruhige Bank unter alten Bäumen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sonnenuntergang von der Schlossbrücke",
+            "tip": "Beobachten Sie, wie die Sonne hinter der historischen Festung untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Fehér-Körös partján",
+            "tip": "Békés útvonal a város nyüzsgésétől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Várkert",
+            "tip": "Keress egy csendes padot az öreg fák alatt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Naplemente a várhídról",
+            "tip": "Nézd, ahogy a nap a történelmi erőd mögött lenyugszik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul Crișului Alb",
+            "tip": "O cale pașnică pentru a evada din agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Cetății",
+            "tip": "Găsiți o bancă liniștită sub copacii bătrâni.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Apus de soare de pe podul cetății",
+            "tip": "Priviți soarele apunând în spatele fortăreței istorice.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stroll on the bank of the Fehér-Körös River",
+            "tip": "A peaceful path to escape the city's hustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Park",
+            "tip": "Find a quiet bench under ancient trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sunset from the Castle Bridge",
+            "tip": "Watch the sun set behind the historic fortress.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gyulaer Markt",
+            "tip": "Kaufen Sie lokale Produkte, Honig und natürlich Wurst."
+          },
+          {
+            "name": "Handwerkerläden in der Innenstadt",
+            "tip": "Finden Sie einzigartige Souvenirs und handgemachte Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyulai piac",
+            "tip": "Vásárolj helyi termékeket, mézet és természetesen kolbászt!"
+          },
+          {
+            "name": "Kézműves boltok a belvárosban",
+            "tip": "Találj egyedi szuveníreket és kézzel készített ajándékokat!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Gyula",
+            "tip": "Cumpărați produse locale, miere și, desigur, cârnați."
+          },
+          {
+            "name": "Magazine de artizanat în centrul orașului",
+            "tip": "Găsiți suveniruri unice și cadouri lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyula Market",
+            "tip": "Shop for local produce, honey, and of course, sausage."
+          },
+          {
+            "name": "Artisan shops in the city center",
+            "tip": "Find unique souvenirs and handmade gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Innenstadt uneben sein kann.",
+          "Kaufen Sie ein Kombiticket für die Burg und das Almásy-Schloss, um Geld zu sparen.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander, was Gyula zu einer idealen Stadt zum Spazierengehen macht.",
+          "Nehmen Sie Badekleidung mit, auch wenn Sie nicht vorhaben zu schwimmen – das Burgbad ist zu verlockend, um es zu verpassen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, a belvárosi macskakő egyenetlen lehet.",
+          "Vegyél kombinált jegyet a Várba és az Almásy-kastélyba, hogy spórolj.",
+          "A legtöbb látnivaló közel van egymáshoz, így Gyula ideális séta-város.",
+          "Hozz fürdőruhát, még ha nem is tervezed – a Várfürdő túl csábító, hogy kihagyd."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul din centrul orașului poate fi denivelat.",
+          "Cumpărați un bilet combinat pentru Cetate și Castelul Almásy pentru a economisi bani.",
+          "Majoritatea atracțiilor sunt apropiate, făcând din Gyula un oraș ideal pentru plimbări.",
+          "Luați un costum de baie chiar dacă nu plănuiți să înotați – Băile Cetății sunt prea tentante pentru a le rata."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the city center can be uneven.",
+          "Buy a combination ticket for the Castle and the Almásy Castle to save money.",
+          "Most attractions are close together, making Gyula an ideal city for walking.",
+          "Bring a swimsuit even if you don't plan to swim – the Castle Spa is too tempting to miss."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Radtour entlang des Flusses Körös",
+            "hu": "Biciklizés a Körös-parton",
+            "ro": "Tur cu bicicleta pe malul râului Criș",
+            "en": "Bike ride along the Körös River"
+          },
+          "coords": [
+            46.648,
+            21.275
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Morgenatmosphäre auf dem gut ausgebauten Radweg.",
+            "hu": "Élvezd a csendes reggeli hangulatot a jól kiépített kerékpárúton!",
+            "ro": "Bucurați-vă de atmosfera liniștită de dimineață pe pista de biciclete bine întreținută.",
+            "en": "Enjoy the quiet morning atmosphere on the well-maintained bike path."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikolaus-Kathedrale",
+            "hu": "Szent Miklós Katedrális",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            46.644,
+            21.275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das reich verzierte Innere besichtigen.",
+            "hu": "Biztonságosan zárd le a kerékpárodat, mielőtt belépsz a díszes belső térbe.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra pentru a vedea interiorul ornamentat.",
+            "en": "Securely lock your bike before heading inside to see the ornate interior."
+          }
+        },
+        {
+          "name": {
+            "de": "100-jährige Konditorei",
+            "hu": "Százéves Cukrászda",
+            "ro": "Cofetăria de 100 de ani",
+            "en": "100-year-old Confectionery"
+          },
+          "coords": [
+            46.6425,
+            21.278
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:42",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Kaffeepause und ein Stück Kuchen.",
+            "hu": "Tökéletes hely egy kávészünetre és egy szelet süteményre.",
+            "ro": "Un loc perfect pentru o pauză de cafea și o prăjitură.",
+            "en": "A perfect spot for a coffee and cake break."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Gyula",
+            "hu": "Gyulai vár",
+            "ro": "Cetatea Gyula",
+            "en": "Gyula Castle"
+          },
+          "coords": [
+            46.6447,
+            21.2811
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:18",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Am Eingang gibt es Fahrradständer.",
+            "hu": "A bejáratnál találsz kerékpártárolókat.",
+            "ro": "Există suporturi pentru biciclete disponibile lângă intrare.",
+            "en": "There are bike racks available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Almásy-Schloss",
+            "hu": "Almásy-kastély",
+            "ro": "Castelul Almásy",
+            "en": "Almásy Castle"
+          },
+          "coords": [
+            46.643,
+            21.2825
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad bei der Burg und gehen Sie zu Fuß hinüber.",
+            "hu": "Hagyd a biciklit a várnál, és sétálj át!",
+            "ro": "Lăsați-vă bicicleta la cetate și mergeți pe jos.",
+            "en": "Leave your bike at the castle and walk over."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Schlosses",
+            "hu": "Ebéd a vár környékén",
+            "ro": "Prânz lângă castel",
+            "en": "Lunch near the castle"
+          },
+          "coords": [
+            46.646,
+            21.283
+          ],
+          "category": "gastro",
+          "arrive_at": "14:56",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Viele Restaurants bieten Sitzgelegenheiten im Freien mit Blick auf den Schlosspark.",
+            "hu": "Sok étterem kínál szabadtéri ülőhelyeket a várkertre néző kilátással.",
+            "ro": "Multe restaurante oferă terase cu vedere la parcul castelului.",
+            "en": "Many restaurants offer outdoor seating with a view of the castle park."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgbad (Várfürdő)",
+            "hu": "Várfürdő",
+            "ro": "Băile Cetății (Várfürdő)",
+            "en": "Castle Spa (Várfürdő)"
+          },
+          "coords": [
+            46.6455,
+            21.284
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein erfrischendes Bad ist der perfekte Abschluss Ihrer Radtour.",
+            "hu": "Egy frissítő fürdő tökéletes befejezése a biciklitúrának.",
+            "ro": "O baie răcoritoare este finalul perfect pentru turul cu bicicleta.",
+            "en": "A refreshing dip is the perfect end to your bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag auf zwei Rädern mit einer malerischen Fahrt entlang des Flusses Körös. Die ruhige Morgenluft und die grünen Ufer sind der perfekte Auftakt. Anschließend radeln Sie ins Stadtzentrum, um die beeindruckende Nikolaus-Kathedrale zu besichtigen und eine wohlverdiente Kaffeepause in der 100-jährigen Konditorei einzulegen, einem charmanten Relikt aus der Vergangenheit.\nAm Mittag erreichen Sie den historischen Kern von Gyula. Schließen Sie Ihr Fahrrad ab und tauchen Sie ein in die Geschichte der mittelalterlichen Burg von Gyula. Erklimmen Sie die Türme und wandern Sie durch die alten Mauern. Gleich nebenan wartet das Almásy-Schloss mit seinen interaktiven Ausstellungen. Nach so viel Geschichte stärken Sie sich mit einem traditionellen ungarischen Mittagessen in einem der Restaurants rund um den Schlosspark.\nDer Nachmittag steht ganz im Zeichen der Entspannung nach der Radtour. Eine kurze Fahrt bringt Sie zum Eingang des berühmten Burgbades. Tauschen Sie Ihr Fahrrad gegen Badesachen und genießen Sie die heilenden Thermalwasser. Ob Sie in den Becken entspannen oder die Rutschen hinuntersausen, es ist die perfekte Belohnung für Ihre sportliche Leistung.\nLassen Sie den Tag ausklingen, indem Sie gemütlich zurück durch die Stadt radeln, während die Sonne untergeht. Die beleuchtete Burg bietet einen magischen Anblick. Suchen Sie sich ein gemütliches Restaurant für das Abendessen und lassen Sie die Eindrücke des Tages Revue passieren, von der aktiven Erkundung bis zur wohligen Entspannung.",
+        "hu": "Kezdd a napot két keréken egy festői tekeréssel a Körös folyó mentén! A csendes reggeli levegő és a zöldellő part tökéletes kezdés. Ezután irány a városközpont, ahol megtekintheted a lenyűgöző Szent Miklós Katedrálist, majd tarts egy jól megérdemelt kávészünetet a Százéves Cukrászdában, a múlt egy bájos darabkájában.\nDélben érsz Gyula történelmi magjába. Zárd le a biciklit, és merülj el a középkori Gyulai vár történelmében! Mássz fel a tornyokba és bolyongj az ősi falak között. Közvetlenül mellette vár az Almásy-kastély interaktív kiállításaival. A sok történelem után erősítsd meg magad egy hagyományos magyar ebéddel a várkert körüli éttermek egyikében.\nA délután a biciklizés utáni pihenésről szól. Egy rövid tekerés a híres Várfürdő bejáratához visz. Cseréld a kerékpárt fürdőruhára, és élvezd a gyógyító termálvizet! Akár a medencékben pihensz, akár a csúszdákon száguldasz, ez a tökéletes jutalom a sportos teljesítményért.\nZárd a napot egy kellemes esti tekeréssel a városban, miközben a nap lenyugszik. A kivilágított vár varázslatos látványt nyújt. Keress egy hangulatos éttermet vacsorára, és idézd fel a nap élményeit, az aktív felfedezéstől a kellemes kikapcsolódásig.",
+        "ro": "Începeți ziua pe două roți cu o plimbare pitorească de-a lungul râului Criș. Aerul liniștit de dimineață și malurile verzi sunt începutul perfect. Apoi, pedalați spre centrul orașului pentru a vizita impresionanta Catedrală Sfântul Nicolae și pentru a lua o pauză de cafea binemeritată la Cofetăria de 100 de ani, o relicvă fermecătoare a trecutului.\nLa prânz, ajungeți în nucleul istoric al orașului Gyula. Încuiați-vă bicicleta și scufundați-vă în istoria Cetății medievale Gyula. Urcați în turnuri și plimbați-vă printre zidurile vechi. Chiar alături, Castelul Almásy vă așteaptă cu expozițiile sale interactive. După atâta istorie, reîncărcați-vă bateriile cu un prânz tradițional maghiar la unul dintre restaurantele din jurul parcului cetății.\nDupă-amiaza este pentru relaxare după turul cu bicicleta. O scurtă plimbare cu bicicleta vă duce la intrarea faimoaselor Băi ale Cetății. Schimbați bicicleta cu un costum de baie și bucurați-vă de apele termale vindecătoare. Fie că vă relaxați în piscine sau alunecați pe tobogane, este recompensa perfectă pentru efortul dumneavoastră sportiv.\nÎncheiați ziua pedalând agale prin oraș la apus. Cetatea iluminată oferă o priveliște magică. Găsiți un restaurant primitor pentru cină și rememorați experiențele zilei, de la explorarea activă la relaxarea binefăcătoare.",
+        "en": "Kick off your day on two wheels with a scenic ride along the Körös River. The quiet morning air and green banks are the perfect start. Afterwards, cycle to the city center to visit the impressive St. Nicholas Cathedral and take a well-deserved coffee break at the 100-year-old Confectionery, a charming relic of the past.\nAt midday, you'll reach the historical core of Gyula. Lock up your bike and immerse yourself in the history of the medieval Gyula Castle. Climb the towers and wander the ancient walls. Right next door, the Almásy Castle awaits with its interactive exhibits. After so much history, refuel with a traditional Hungarian lunch at one of the restaurants surrounding the castle park.\nThe afternoon is all about post-cycling relaxation. A short ride takes you to the entrance of the famous Castle Spa. Swap your bike for a swimsuit and enjoy the healing thermal waters. Whether you're relaxing in the pools or whizzing down the slides, it's the perfect reward for your athletic efforts.\nWind down the day by cycling leisurely back through the town as the sun sets. The illuminated castle provides a magical sight. Find a cozy restaurant for dinner and reflect on the day's experiences, from active exploration to blissful relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyulaer Wurst",
+            "tip": "Probieren Sie die weltberühmte, leicht geräucherte Wurst, oft mit Paprika gewürzt."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Ein frittierter Teigfladen, oft mit Knoblauch, Sauerrahm und Käse belegt – der perfekte Biker-Snack."
+          },
+          {
+            "name": "Fröccs",
+            "tip": "Eine erfrischende Weinschorle, ideal an einem warmen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyulai kolbász",
+            "tip": "Kóstold meg a világhírű, enyhén füstölt, paprikás kolbászt!"
+          },
+          {
+            "name": "Lángos",
+            "tip": "Sült tészta, fokhagymával, tejföllel és sajttal – a tökéletes biciklis harapnivaló."
+          },
+          {
+            "name": "Fröccs",
+            "tip": "Egy frissítő bor-szóda keverék, ideális egy meleg napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnați de Gyula",
+            "tip": "Încercați renumiții cârnați, ușor afumați și adesea condimentați cu boia."
+          },
+          {
+            "name": "Lángos",
+            "tip": "O plăcintă prăjită, adesea acoperită cu usturoi, smântână și brânză – gustarea perfectă pentru bicicliști."
+          },
+          {
+            "name": "Șpriț (Fröccs)",
+            "tip": "Un amestec răcoritor de vin și apă minerală, ideal într-o zi călduroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyula Sausage",
+            "tip": "Try the world-famous, lightly smoked sausage, often seasoned with paprika."
+          },
+          {
+            "name": "Lángos",
+            "tip": "A deep-fried dough, often topped with garlic, sour cream, and cheese – the perfect biker's snack."
+          },
+          {
+            "name": "Fröccs (Wine Spritzer)",
+            "tip": "A refreshing mix of wine and soda water, ideal on a warm day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Fehér-Körös",
+            "tip": "Der Flussuferweg ist besonders morgens ruhig und friedlich.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Insel im Schlossteich",
+            "tip": "Ein kleiner, abgeschiedener Ort, um eine Pause einzulegen.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Saunawelt im Burgbad",
+            "tip": "Absolute Stille und Entspannung nach einem aktiven Tag.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fehér-Körös kerékpárút",
+            "tip": "A folyóparti út különösen reggel csendes és békés.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Sziget a vártóban",
+            "tip": "Egy apró, eldugott hely egy kis szünetre.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Szaunavilág a Várfürdőben",
+            "tip": "Abszolút csend és kikapcsolódás egy aktív nap után.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe Crișul Alb",
+            "tip": "Traseul de pe malul râului este deosebit de liniștit și pașnic dimineața.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Insula din lacul cetății",
+            "tip": "Un loc mic și retras pentru a lua o pauză.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Lumea saunelor la Băile Cetății",
+            "tip": "Liniște și relaxare absolută după o zi activă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fehér-Körös Bike Path",
+            "tip": "The riverside path is especially quiet and peaceful in the morning.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Island in the Castle Pond",
+            "tip": "A small, secluded spot to take a break.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Sauna World at the Castle Spa",
+            "tip": "Absolute silence and relaxation after an active day.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradgeschäfte",
+            "tip": "Für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Gyulaer Markt",
+            "tip": "Füllen Sie Ihren Rucksack mit lokalen Snacks für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Gyulai piac",
+            "tip": "Töltsd meg a hátizsákod helyi finomságokkal az útra!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Piața din Gyula",
+            "tip": "Umpleți-vă rucsacul cu gustări locale pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bike Shops",
+            "tip": "For any accessories or quick repairs."
+          },
+          {
+            "name": "Gyula Market",
+            "tip": "Fill your backpack with local snacks for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Gyula ist sehr fahrradfreundlich mit vielen ausgewiesenen Wegen.",
+          "Einige Bereiche der Innenstadt sind Fußgängerzonen; hier müssen Sie möglicherweise absteigen und schieben.",
+          "Verwenden Sie immer ein gutes Schloss, wenn Sie Ihr Fahrrad abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a guminyomást!",
+          "Gyula nagyon biciklibarát város, sok kijelölt úttal.",
+          "A belváros egyes részei sétálóövezetek, itt le kell szállnod és tolnod kell a biciklit.",
+          "Mindig használj jó lakatot, amikor leparkolod a kerékpárt!"
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a porni.",
+          "Gyula este foarte prietenos cu bicicliștii, cu multe trasee dedicate.",
+          "Unele zone din centrul orașului sunt pietonale; s-ar putea să trebuiască să descălecați și să împingeți bicicleta.",
+          "Folosiți întotdeauna un antifurt bun când vă parcați bicicleta."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Gyula is very bike-friendly with many dedicated paths.",
+          "Some areas in the city center are pedestrian-only; you may need to dismount and walk your bike.",
+          "Always use a good lock when leaving your bike unattended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken in der Innenstadt & 100-jährige Konditorei",
+            "hu": "Parkolás a belvárosban és a Százéves Cukrászda",
+            "ro": "Parcare în centru și Cofetăria de 100 de ani",
+            "en": "Park in Downtown & 100-year-old Confectionery"
+          },
+          "coords": [
+            46.642,
+            21.277
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf einem der ausgewiesenen Parkplätze und beginnen Sie Ihren Rundgang.",
+            "hu": "Parkolj le az egyik kijelölt parkolóban és kezdd a sétát!",
+            "ro": "Parcați într-una dintre parcările desemnate și începeți turul pietonal.",
+            "en": "Park in one of the designated lots and start your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikolaus-Kathedrale",
+            "hu": "Szent Miklós Katedrális",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            46.644,
+            21.275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Konditorei durch die charmanten Straßen.",
+            "hu": "Rövid séta a cukrászdától a hangulatos utcákon át.",
+            "ro": "O scurtă plimbare de la cofetărie pe străzile fermecătoare.",
+            "en": "A short walk from the confectionery through charming streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Kohán-Bildergalerie & Ladics-Haus",
+            "hu": "Kohán Képtár és Ladics-ház",
+            "ro": "Galeria de Artă Kohán și Casa Ladics",
+            "en": "Kohán Picture Gallery & Ladics House"
+          },
+          "coords": [
+            46.6435,
+            21.2785
+          ],
+          "category": "museums",
+          "arrive_at": "10:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zwei Museen nebeneinander, die Einblicke in Kunst und lokales Leben bieten.",
+            "hu": "Két múzeum egymás mellett, betekintést nyújtva a művészetbe és a helyi életbe.",
+            "ro": "Două muzee alăturate, oferind o privire asupra artei și vieții locale.",
+            "en": "Two museums side-by-side, offering insight into art and local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Burgviertel & Parken",
+            "hu": "Autózás a Várnegyedbe és parkolás",
+            "ro": "Cu mașina la Cartierul Cetății și parcare",
+            "en": "Drive to Castle Quarter & Park"
+          },
+          "coords": [
+            46.644,
+            21.285
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:08",
+          "stay_min": 10,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum großen Parkplatz in der Nähe des Burgbads.",
+            "hu": "Vezess a Várfürdő melletti nagy parkolóhoz.",
+            "ro": "Conduceți spre parcarea mare de lângă Băile Cetății.",
+            "en": "Drive to the large parking lot near the Castle Spa."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Gyula & Almásy-Schloss",
+            "hu": "Gyulai vár és Almásy-kastély",
+            "ro": "Cetatea Gyula și Castelul Almásy",
+            "en": "Gyula Castle & Almásy Castle"
+          },
+          "coords": [
+            46.6447,
+            21.2811
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:21",
+          "stay_min": 210,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie mindestens 3-4 Stunden für beide Attraktionen und ein Mittagessen ein.",
+            "hu": "Tervezz legalább 3-4 órát a két látnivalóra és egy ebédre.",
+            "ro": "Planificați cel puțin 3-4 ore pentru ambele atracții și un prânz.",
+            "en": "Plan at least 3-4 hours for both attractions plus lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgbad (Várfürdő)",
+            "hu": "Várfürdő",
+            "ro": "Băile Cetății (Várfürdő)",
+            "en": "Castle Spa (Várfürdő)"
+          },
+          "coords": [
+            46.6455,
+            21.284
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:26",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss. Sie können Ihre Sachen sicher im Auto lassen.",
+            "hu": "Tökéletes befejezés. A holmidat biztonságban hagyhatod az autóban.",
+            "ro": "Finalul perfect. Vă puteți lăsa în siguranță lucrurile în mașină.",
+            "en": "The perfect ending. You can leave your belongings securely in the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag bequem mit dem Auto, indem Sie in der Nähe des Stadtzentrums parken. Der erste Stopp ist ein Muss: die 100-jährige Konditorei für einen Kaffee und Kuchen. Von dort aus erkunden Sie zu Fuß den ersten Cluster von Sehenswürdigkeiten. Ein kurzer Spaziergang führt Sie zur beeindruckenden Nikolaus-Kathedrale und dann weiter zu den nahegelegenen Museen, der Kohán-Galerie und dem Ladics-Haus.\nZu Mittag ist es Zeit für einen Szenenwechsel. Gehen Sie zurück zu Ihrem Auto und fahren Sie die kurze Strecke zum Burgviertel. Parken Sie auf dem großen Parkplatz in der Nähe des Burgbades, wo Ihr Auto für den Rest des Tages sicher steht. Dieser zweite Cluster ist das historische Herz von Gyula. Beginnen Sie mit der Erkundung der mächtigen Burg und des angrenzenden, modernen Almásy-Schlosses und genießen Sie ein Mittagessen in einem der nahegelegenen Restaurants.\nDer gesamte Nachmittag ist der Erkundung des Burgviertels und der anschließenden Entspannung gewidmet. Nachdem Sie sich in die Geschichte der beiden Schlösser vertieft haben, ist es nur ein kurzer Spaziergang zum Eingang des berühmten Burgbades. Da Ihr Auto in der Nähe geparkt ist, müssen Sie sich keine Sorgen um Ihre Sachen machen und können die heilenden Thermalwasser in vollen Zügen genießen.\nWenn sich der Tag dem Ende neigt, kehren Sie erfrischt zu Ihrem Auto zurück. Sie können entweder für ein Abendessen in der Stadt bleiben oder Ihre Weiterreise antreten. Die Cluster-Walking-Strategie ermöglicht es Ihnen, die beiden Hauptbereiche von Gyula effizient und stressfrei zu erleben, indem Sie das Beste aus Autofahren und Spazierengehen kombinieren.",
+        "hu": "Kezdd a napot kényelmesen autóval, parkolj le a belváros közelében! Az első megálló kötelező: a Százéves Cukrászda egy kávéra és sütire. Innen gyalog fedezd fel az első látnivaló-csoportot! Egy rövid séta elvezet a lenyűgöző Szent Miklós Katedrálishoz, majd a közeli múzeumokhoz, a Kohán Képtárhoz és a Ladics-házhoz.\nDélben jöhet a helyszínváltás. Menj vissza az autódhoz, és tedd meg a rövid utat a Várnegyedbe! Parkolj le a Várfürdő melletti nagy parkolóban, ahol az autód a nap hátralévő részében biztonságban lesz. Ez a második látnivaló-csoport Gyula történelmi szíve. Kezdd a hatalmas vár és a szomszédos, modern Almásy-kastély felfedezésével, majd ebédelj meg az egyik közeli étteremben!\nAz egész délután a Várnegyed felfedezéséről és az azt követő pihenésről szól. Miután elmélyedtél a két kastély történelmében, csak egy rövid séta a híres Várfürdő bejárata. Mivel az autód a közelben parkol, nem kell aggódnod a holmijaid miatt, és teljes mértékben élvezheted a gyógyító termálvizet.\nA nap végén frissen és feltöltődve térj vissza az autódhoz! Dönthetsz úgy, hogy maradsz vacsorázni a városban, vagy folytatod az utadat. A klaszteres-sétálós stratégia lehetővé teszi, hogy hatékonyan és stresszmentesen éld át Gyula két fő területét, ötvözve az autózás és a gyaloglás előnyeit.",
+        "ro": "Începeți-vă ziua convenabil cu mașina, parcând în apropierea centrului orașului. Prima oprire este obligatorie: Cofetăria de 100 de ani pentru o cafea și o prăjitură. De acolo, explorați primul grup de atracții pe jos. O scurtă plimbare vă duce la impresionanta Catedrală Sfântul Nicolae, apoi la muzeele din apropiere, Galeria Kohán și Casa Ladics.\nLa prânz, este timpul pentru o schimbare de decor. Întoarceți-vă la mașină și parcurgeți distanța scurtă până la Cartierul Cetății. Parcați în parcarea mare de lângă Băile Cetății, unde mașina va fi în siguranță pentru restul zilei. Acest al doilea grup este inima istorică a orașului Gyula. Începeți explorând impunătoarea cetate și modernul Castel Almásy de alături și bucurați-vă de prânz la unul dintre restaurantele din apropiere.\nÎntreaga după-amiază este dedicată explorării Cartierului Cetății și relaxării ulterioare. După ce v-ați cufundat în istoria celor două castele, este doar o scurtă plimbare până la intrarea în faimoasele Băi ale Cetății. Cu mașina parcată în apropiere, nu trebuie să vă faceți griji pentru bunurile dumneavoastră și vă puteți bucura pe deplin de apele termale vindecătoare.\nLa sfârșitul zilei, întoarceți-vă la mașină odihnit. Puteți alege să rămâneți pentru cină în oraș sau să vă continuați călătoria. Strategia de plimbare pe grupuri vă permite să experimentați cele două zone principale din Gyula eficient și fără stres, combinând avantajele condusului cu cele ale plimbării.",
+        "en": "Start your day conveniently by car, parking near the city center. The first stop is a must: the 100-year-old Confectionery for a coffee and cake. From there, explore the first cluster of sights on foot. A short stroll takes you to the impressive St. Nicholas Cathedral, and then on to the nearby museums, the Kohán Gallery and Ladics House.\nAt midday, it's time for a change of scenery. Head back to your car and make the short drive to the Castle Quarter. Park in the large lot near the Castle Spa, where your car will be safe for the rest of the day. This second cluster is the historical heart of Gyula. Begin by exploring the mighty castle and the adjacent, modern Almásy Castle, and enjoy lunch at one of the nearby restaurants.\nThe entire afternoon is dedicated to exploring the Castle Quarter and subsequent relaxation. After delving into the history of the two castles, it's just a short walk to the entrance of the famous Castle Spa. With your car parked nearby, you don't have to worry about your belongings and can fully enjoy the healing thermal waters.\nAs the day ends, return to your car refreshed. You can either choose to stay for dinner in town or continue your journey. The cluster-walking strategy allows you to experience Gyula's two main areas efficiently and without stress, combining the best of driving and walking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyulaer Wurstplatte",
+            "tip": "Eine großartige Möglichkeit, verschiedene Arten der berühmten Wurst zu probieren."
+          },
+          {
+            "name": "Várkert Étterem",
+            "tip": "Bietet traditionelle ungarische Küche mit Blick auf die Burg."
+          },
+          {
+            "name": "Gulyás Csárda",
+            "tip": "Authentische Atmosphäre und klassische Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyulai kolbásztál",
+            "tip": "Remek módja a híres kolbász többféle változatának megkóstolására."
+          },
+          {
+            "name": "Várkert Étterem",
+            "tip": "Hagyományos magyar konyhát kínál, kilátással a várra."
+          },
+          {
+            "name": "Gulyás Csárda",
+            "tip": "Autentikus hangulat és klasszikus ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platou cu cârnați de Gyula",
+            "tip": "O modalitate excelentă de a încerca diferite tipuri ale celebrului cârnat."
+          },
+          {
+            "name": "Restaurant Várkert",
+            "tip": "Oferă bucătărie tradițională maghiară cu vedere la cetate."
+          },
+          {
+            "name": "Gulyás Csárda",
+            "tip": "Atmosferă autentică și preparate clasice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyula Sausage Platter",
+            "tip": "A great way to sample different types of the famous sausage."
+          },
+          {
+            "name": "Várkert Restaurant",
+            "tip": "Offers traditional Hungarian cuisine with a view of the castle."
+          },
+          {
+            "name": "Gulyás Csárda",
+            "tip": "Authentic atmosphere and classic dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang um den Schlossteich",
+            "tip": "Ein ruhiger Rundweg, perfekt für eine Pause zwischen den Besichtigungen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ruhebereiche im Burgbad",
+            "tip": "Entfliehen Sie dem Trubel in den speziellen Ruhezonen des Spas.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Die Gärten des Almásy-Schlosses",
+            "tip": "Weniger überlaufen als die Hauptburg, ideal für einen Moment der Stille.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a vártó körül",
+            "tip": "Csendes körút, tökéletes egy kis szünetre a nézelődés közben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pihenőterek a Várfürdőben",
+            "tip": "Menekülj el a nyüzsgés elől a fürdő speciális pihenőzónáiban!",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az Almásy-kastély kertje",
+            "tip": "Kevésbé zsúfolt, mint a fő vár, ideális egy csendes pillanatra.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare în jurul lacului cetății",
+            "tip": "Un circuit liniștit, perfect pentru o pauză între vizite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zone de relaxare la Băile Cetății",
+            "tip": "Evadați din aglomerație în zonele speciale de relaxare ale spa-ului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile Castelului Almásy",
+            "tip": "Mai puțin aglomerate decât cetatea principală, ideale pentru un moment de liniște.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk around the Castle Pond",
+            "tip": "A quiet circular path, perfect for a break between sightseeing.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Quiet zones in the Castle Spa",
+            "tip": "Escape the crowds in the spa's dedicated relaxation areas.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Almásy Castle Gardens",
+            "tip": "Less crowded than the main castle, ideal for a moment of peace.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gyulai Kolbász- und Schinken-Fachgeschäft",
+            "tip": "Der beste Ort, um authentische Wurst als Souvenir zu kaufen."
+          },
+          {
+            "name": "Souvenirläden im Burgviertel",
+            "tip": "Finden Sie ritterliche Andenken und lokale Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyulai Kolbász és Sonka Szaküzlet",
+            "tip": "A legjobb hely, ahol autentikus kolbászt vásárolhatsz szuvenírként."
+          },
+          {
+            "name": "Szuvenírboltok a Várnegyedben",
+            "tip": "Találj lovagi emléktárgyakat és helyi kézműves termékeket!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin specializat în Cârnați și Șuncă de Gyula",
+            "tip": "Cel mai bun loc pentru a cumpăra cârnați autentici ca suvenir."
+          },
+          {
+            "name": "Magazine de suveniruri în Cartierul Cetății",
+            "tip": "Găsiți suveniruri cavalerești și artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyula Sausage and Ham Specialty Shop",
+            "tip": "The best place to buy authentic sausage as a souvenir."
+          },
+          {
+            "name": "Souvenir shops in the Castle Quarter",
+            "tip": "Find knightly memorabilia and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkgebühren; einige Bereiche erfordern stündliche Bezahlung.",
+          "Die Verwendung von zwei Parkplätzen (Cluster-Strategie) ist effizienter als die Suche nach einem neuen Platz für jede Attraktion.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto.",
+          "An Wochenenden und Feiertagen können die Parkplätze schnell voll werden, kommen Sie also früh."
+        ],
+        "hu": [
+          "Figyelj a parkolási díjakra; egyes helyeken óránként kell fizetni.",
+          "Két parkolóhely használata (klaszter stratégia) hatékonyabb, mint minden látnivalónál új helyet keresni.",
+          "Ne hagyj értéktárgyakat látható helyen az autóban!",
+          "Hétvégén és ünnepnapokon a parkolók hamar megtelnek, érkezz korán!"
+        ],
+        "ro": [
+          "Fiți atenți la taxele de parcare; unele zone necesită plată orară.",
+          "Utilizarea a două locuri de parcare (strategia pe grupuri) este mai eficientă decât căutarea unui loc nou pentru fiecare atracție.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "În weekenduri și sărbători, parcările se pot umple rapid, așa că veniți devreme."
+        ],
+        "en": [
+          "Be aware of parking fees; some areas require hourly payment.",
+          "Using two parking locations (cluster strategy) is more efficient than finding a new spot for each attraction.",
+          "Do not leave valuables visible in the car.",
+          "On weekends and holidays, parking lots can fill up quickly, so arrive early."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bus ins Stadtzentrum & 100-jährige Konditorei",
+            "hu": "Busz a belvárosba és Százéves Cukrászda",
+            "ro": "Autobuz spre centrul orașului și Cofetăria de 100 de ani",
+            "en": "Bus to City Center & 100-year-old Confectionery"
+          },
+          "coords": [
+            46.6425,
+            21.278
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus bis zur Haltestelle im Zentrum und beginnen Sie Ihren Tag süß.",
+            "hu": "Menj egy helyi busszal a központi megállóig, és kezdd édesen a napot!",
+            "ro": "Luați un autobuz local până la stația centrală și începeți ziua cu ceva dulce.",
+            "en": "Take a local bus to the central stop and start your day sweetly."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikolaus-Kathedrale",
+            "hu": "Szent Miklós Katedrális",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            46.644,
+            21.275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Kathedrale ist vom zentralen Platz aus leicht zu Fuß erreichbar.",
+            "hu": "A katedrális könnyen megközelíthető gyalog a főtérről.",
+            "ro": "Catedrala este ușor accesibilă pe jos din piața centrală.",
+            "en": "The cathedral is an easy walk from the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Erkel-Gedenkhaus",
+            "hu": "Erkel Ferenc Emlékház",
+            "ro": "Casa Memorială Erkel",
+            "en": "Erkel Memorial House"
+          },
+          "coords": [
+            46.6418,
+            21.2795
+          ],
+          "category": "museums",
+          "arrive_at": "10:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein weiteres kurzes Stück zu Fuß, um mehr über die lokale Geschichte zu erfahren.",
+            "hu": "Egy újabb rövid séta, hogy többet tudj meg a helyi történelemről.",
+            "ro": "O altă plimbare scurtă pentru a afla mai multe despre istoria locală.",
+            "en": "Another short walk to learn about local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Burgviertel",
+            "hu": "Busz a Várnegyedbe",
+            "ro": "Autobuz spre Cartierul Cetății",
+            "en": "Bus to the Castle Quarter"
+          },
+          "coords": [
+            46.645,
+            21.285
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:04",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus von der Innenstadt zur Haltestelle Várfürdő.",
+            "hu": "Menj busszal a belvárosból a Várfürdő megállóig!",
+            "ro": "Luați un autobuz din centrul orașului până la stația Várfürdő (Băile Cetății).",
+            "en": "Take a bus from downtown to the Várfürdő (Castle Spa) stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Gyula & Mittagessen",
+            "hu": "Gyulai vár és ebéd",
+            "ro": "Cetatea Gyula și prânz",
+            "en": "Gyula Castle & Lunch"
+          },
+          "coords": [
+            46.6447,
+            21.2811
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:12",
+          "stay_min": 180,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Burg und genießen Sie anschließend ein Mittagessen in einem nahegelegenen Restaurant.",
+            "hu": "Fedezd fel a várat, majd ebédelj egy közeli étteremben!",
+            "ro": "Explorați cetatea și apoi bucurați-vă de prânz la un restaurant din apropiere.",
+            "en": "Explore the castle and then enjoy lunch at a nearby restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgbad (Várfürdő)",
+            "hu": "Várfürdő",
+            "ro": "Băile Cetății (Várfürdő)",
+            "en": "Castle Spa (Várfürdő)"
+          },
+          "coords": [
+            46.6455,
+            21.284
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 160,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie Ihre Muskeln im Thermalwasser.",
+            "hu": "Lazítsd el az izmaidat a termálvízben!",
+            "ro": "Relaxați-vă mușchii în apele termale.",
+            "en": "Relax your muscles in the thermal waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das lokale Busnetz für einen einfachen Start in den Tag. Fahren Sie ins Zentrum von Gyula und steigen Sie in der Nähe des Hauptplatzes aus. Ihr erster Anlaufpunkt ist die 100-jährige Konditorei, gefolgt von einem gemütlichen Spaziergang zur Nikolaus-Kathedrale und zum Erkel-Gedenkhaus. Dieser erste Cluster lässt sich perfekt zu Fuß erkunden.\nNachdem Sie die Highlights der Innenstadt gesehen haben, ist es Zeit für den nächsten Bus. Eine kurze Fahrt bringt Sie direkt ins Burgviertel, dem pulsierenden historischen Herzen der Stadt. Steigen Sie an der Haltestelle Várfürdő aus. Von hier aus sind alle Hauptattraktionen nur einen Steinwurf entfernt. Beginnen Sie mit der Erkundung der imposanten Burg von Gyula und gönnen Sie sich danach ein wohlverdientes Mittagessen.\nDer Nachmittag ist ganz der Entspannung im Burgviertel gewidmet. Nach dem Mittagessen und der Burgbesichtigung ist das Burgbad nur wenige Schritte entfernt. Da Sie mit öffentlichen Verkehrsmitteln unterwegs sind, packen Sie leicht und nehmen Sie nur das Nötigste mit ins Bad. Verbringen Sie den Rest des Nachmittags damit, in den zahlreichen Becken zu entspannen.\nWenn Sie bereit sind, den Tag zu beenden, gehen Sie einfach zurück zur Bushaltestelle Várfürdő und nehmen den Bus zurück zu Ihrem Ausgangspunkt oder zu einem Restaurant für das Abendessen. Die Nutzung der öffentlichen Verkehrsmittel in Gyula ist eine kostengünstige und stressfreie Möglichkeit, die Stadt zu erleben, ohne sich um das Parken kümmern zu müssen.",
+        "hu": "Használd a helyi buszhálózatot a nap egyszerű indításához! Utazz be Gyula központjába, és szállj le a főtér közelében. Az első állomásod a Százéves Cukrászda, amit egy kellemes séta követ a Szent Miklós Katedrálishoz és az Erkel Emlékházhoz. Ez az első látnivaló-csoport tökéletesen felfedezhető gyalog.\nMiután megnézted a belváros nevezetességeit, ideje felszállni a következő buszra. Egy rövid utazás egyenesen a Várnegyedbe, a város lüktető történelmi szívébe visz. Szállj le a Várfürdő megállónál! Innen minden fő látnivaló csak egy kőhajításnyira van. Kezdd a napot a lenyűgöző Gyulai vár felfedezésével, majd jutalmazd meg magad egy jól megérdemelt ebéddel.\nA délután teljes egészében a Várnegyedben való pihenésről szól. Ebéd és várlátogatás után a Várfürdő csak néhány lépés. Mivel tömegközlekedéssel utazol, csomagolj könnyedén, és csak a legszükségesebbeket vidd magaddal a fürdőbe! Töltsd a délután hátralévő részét a számos medencében pihenve.\nAmikor készen állsz a nap befejezésére, egyszerűen sétálj vissza a Várfürdő buszmegállóba, és vedd igénybe a buszt vissza a kiindulási pontodhoz vagy egy étteremhez vacsorára. A gyulai tömegközlekedés használata költséghatékony és stresszmentes módja a város felfedezésének, anélkül, hogy a parkolás miatt kellene aggódnod.",
+        "ro": "Folosiți rețeaua locală de autobuze pentru un început de zi ușor. Călătoriți în centrul orașului Gyula și coborâți lângă piața principală. Prima oprire este Cofetăria de 100 de ani, urmată de o plimbare agale la Catedrala Sfântul Nicolae și Casa Memorială Erkel. Acest prim grup de atracții este perfect de explorat pe jos.\nDupă ce ați văzut punctele de atracție din centru, este timpul pentru următorul autobuz. O scurtă călătorie vă duce direct în Cartierul Cetății, inima istorică vibrantă a orașului. Coborâți la stația Várfürdő. De aici, toate atracțiile principale sunt la o aruncătură de băț. Începeți explorând impunătoarea Cetate Gyula și apoi răsfățați-vă cu un prânz binemeritat.\nDupă-amiaza este dedicată relaxării în Cartierul Cetății. După prânz și vizitarea cetății, Băile Cetății sunt la doar câțiva pași. Deoarece călătoriți cu transportul public, împachetați ușor și luați doar strictul necesar la băi. Petreceți restul după-amiezii relaxându-vă în numeroasele piscine.\nCând sunteți gata să încheiați ziua, pur și simplu mergeți înapoi la stația de autobuz Várfürdő și luați autobuzul înapoi la punctul de plecare sau la un restaurant pentru cină. Folosirea transportului public în Gyula este o modalitate rentabilă și fără stres de a experimenta orașul, fără grija parcării.",
+        "en": "Use the local bus network for an easy start to your day. Travel into the center of Gyula and get off near the main square. Your first stop is the 100-year-old Confectionery, followed by a leisurely stroll to St. Nicholas Cathedral and the Erkel Memorial House. This first cluster is perfectly explorable on foot.\nAfter seeing the downtown highlights, it's time for the next bus. A short ride takes you directly to the Castle Quarter, the city's vibrant historical heart. Alight at the Várfürdő stop. From here, all the main attractions are just a stone's throw away. Start by exploring the imposing Gyula Castle, and then treat yourself to a well-deserved lunch.\nThe afternoon is all about relaxation in the Castle Quarter. After lunch and the castle visit, the Castle Spa is just a few steps away. Since you're traveling by public transport, pack light and take only the essentials with you to the spa. Spend the rest of the afternoon unwinding in the numerous pools.\nWhen you're ready to end the day, simply walk back to the Várfürdő bus stop and take the bus back to your starting point or to a restaurant for dinner. Using public transit in Gyula is a cost-effective and stress-free way to experience the city without worrying about parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyulaer Wurst",
+            "tip": "Ein Muss, erhältlich an vielen Ständen und in Restaurants."
+          },
+          {
+            "name": "Kürtőskalács (Baumstriezel)",
+            "tip": "Ein süßer, gegrillter Teig, oft in der Nähe von Touristenattraktionen zu finden."
+          },
+          {
+            "name": "Lokale Csárda für Mittagessen",
+            "tip": "Genießen Sie authentische ungarische Küche in rustikaler Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyulai kolbász",
+            "tip": "Kötelező, kapható sok standnál és étteremben."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Édes, grillezett tészta, gyakran található a turisztikai látványosságok közelében."
+          },
+          {
+            "name": "Helyi csárda ebédre",
+            "tip": "Élvezd az autentikus magyar konyhát rusztikus környezetben!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnați de Gyula",
+            "tip": "O necesitate, disponibil la multe standuri și restaurante."
+          },
+          {
+            "name": "Kürtőskalács (Cozonac secuiesc)",
+            "tip": "Un aluat dulce, la grătar, găsit adesea în apropierea atracțiilor turistice."
+          },
+          {
+            "name": "Csárda locală pentru prânz",
+            "tip": "Bucurați-vă de bucătăria maghiară autentică într-o atmosferă rustică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyula Sausage",
+            "tip": "A must-try, available at many stalls and restaurants."
+          },
+          {
+            "name": "Kürtőskalács (Chimney Cake)",
+            "tip": "A sweet, grilled pastry, often found near tourist attractions."
+          },
+          {
+            "name": "Local Csárda for lunch",
+            "tip": "Enjoy authentic Hungarian cuisine in a rustic atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Flussufer",
+            "tip": "Leicht erreichbar zu Fuß vom Stadtzentrum oder Burgviertel.",
+            "emoji": "🚶‍♀️"
+          },
+          {
+            "name": "Die hinteren Gärten des Burgbads",
+            "tip": "Ruhigere Bereiche abseits der Hauptbecken.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Eine ruhige Kirche",
+            "tip": "Die Nikolaus-Kathedrale kann ein Ort der stillen Einkehr sein.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a folyóparton",
+            "tip": "Könnyen elérhető gyalog a belvárosból vagy a Várnegyedből.",
+            "emoji": "🚶‍♀️"
+          },
+          {
+            "name": "A Várfürdő hátsó kertjei",
+            "tip": "Csendesebb részek a fő medencéktől távol.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Egy csendes templom",
+            "tip": "A Szent Miklós Katedrális a csendes elmélkedés helyszíne lehet.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "Ușor accesibil pe jos din centrul orașului sau din Cartierul Cetății.",
+            "emoji": "🚶‍♀️"
+          },
+          {
+            "name": "Grădinile din spatele Băilor Cetății",
+            "tip": "Zone mai liniștite, departe de piscinele principale.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "O biserică liniștită",
+            "tip": "Catedrala Sfântul Nicolae poate fi un loc de contemplare tăcută.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside walk",
+            "tip": "Easily reachable on foot from the city center or Castle Quarter.",
+            "emoji": "🚶‍♀️"
+          },
+          {
+            "name": "The back gardens of the Castle Spa",
+            "tip": "Quieter areas away from the main pools.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "A quiet church",
+            "tip": "St. Nicholas Cathedral can be a place for quiet contemplation.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gyulaer Markt",
+            "tip": "Erreichbar mit dem Bus, ideal für lokale Produkte."
+          },
+          {
+            "name": "Souvenirläden in der Nähe der Burg",
+            "tip": "Kaufen Sie Ihre Andenken, bevor Sie den Bus zurück nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyulai piac",
+            "tip": "Busszal elérhető, ideális helyi termékekhez."
+          },
+          {
+            "name": "Szuvenírboltok a vár közelében",
+            "tip": "Vásárold meg az emléktárgyakat, mielőtt visszamennél a buszra!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Gyula",
+            "tip": "Accesibilă cu autobuzul, ideală pentru produse locale."
+          },
+          {
+            "name": "Magazine de suveniruri lângă cetate",
+            "tip": "Cumpărați-vă suvenirurile înainte de a lua autobuzul înapoi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyula Market",
+            "tip": "Accessible by bus, great for local produce."
+          },
+          {
+            "name": "Souvenir shops near the castle",
+            "tip": "Buy your mementos before catching the bus back."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die letzte Fahrt des Tages.",
+          "Die Haltestellenansagen sind möglicherweise nur auf Ungarisch, also verfolgen Sie Ihre Position auf einer Karte.",
+          "Halten Sie Kleingeld für die Tickets bereit, wenn Sie sie direkt beim Fahrer kaufen."
+        ],
+        "hu": [
+          "Vegyél egy napijegyet a buszra, hogy spórolj.",
+          "Ellenőrizd előre a buszmenetrendet, különösen a nap utolsó járatát.",
+          "A megálló-bemondások lehet, hogy csak magyarul vannak, kövesd a pozíciódat térképen.",
+          "Legyen nálad aprópénz a jegyekhez, ha a sofőrnél veszed meg."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima cursă a zilei.",
+          "Anunțurile din stații pot fi doar în maghiară, așa că urmăriți-vă poziția pe o hartă.",
+          "Aveți la îndemână mărunțiș pentru bilete dacă le cumpărați direct de la șofer."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check the bus schedule in advance, especially for the last service of the day.",
+          "Stop announcements may only be in Hungarian, so track your location on a map.",
+          "Have small change ready for tickets if buying directly from the driver."
+        ]
+      }
+    }
+  }
+}

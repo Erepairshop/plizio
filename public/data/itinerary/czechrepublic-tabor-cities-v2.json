@@ -1,0 +1,1388 @@
+{
+  "city_id": "czechrepublic-tabor-cities-v2",
+  "anchor": {
+    "name": "Tabor",
+    "coords": [
+      14.6578,
+      49.4144
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 0.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Žižka-Platz",
+            "hu": "Žižka tér",
+            "ro": "Piața Žižka",
+            "en": "Žižka Square"
+          },
+          "coords": [
+            14.6577,
+            49.4145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Treiben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a tér nyüzsgését.",
+            "ro": "Începeți ziua aici cu o cafea, observând viața pieței.",
+            "en": "Start your day here with a coffee and watch the hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus und Hussitenmuseum",
+            "hu": "Régi városháza és Huszita Múzeum",
+            "ro": "Primăria Veche și Muzeul Husit",
+            "en": "Old Town Hall and Hussite Museum"
+          },
+          "coords": [
+            14.6585,
+            49.4148
+          ],
+          "category": "museums",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die reiche Geschichte der Hussitenbewegung zu verstehen.",
+            "hu": "Szánjon elég időt a huszita mozgalom gazdag történelmének megismerésére.",
+            "ro": "Planificați suficient timp pentru a înțelege istoria bogată a mișcării husite.",
+            "en": "Allocate enough time to understand the rich history of the Hussite movement."
+          }
+        },
+        {
+          "name": {
+            "de": "Dekanatskirche der Verklärung des Herrn",
+            "hu": "Urunk Színeváltozása Dékáni Templom",
+            "ro": "Biserica Decanală a Schimbării la Față",
+            "en": "Dean's Church of the Transfiguration of the Lord"
+          },
+          "coords": [
+            14.659,
+            49.4146
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für einen fantastischen Blick über die Altstadt.",
+            "hu": "Másszon fel a toronyba a csodálatos kilátásért az óvárosra.",
+            "ro": "Urcați în turn pentru o priveliște fantastică asupra orașului vechi.",
+            "en": "Climb the tower for a fantastic view over the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Unterirdische Gänge",
+            "hu": "Földalatti folyosók",
+            "ro": "Coridoarele subterane",
+            "en": "Underground Passages"
+          },
+          "coords": [
+            14.6582,
+            49.4142
+          ],
+          "category": "natural features",
+          "arrive_at": "12:03",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um das Labyrinth unter der Stadt zu erkunden.",
+            "hu": "Vegyen részt egy vezetett túrán a város alatti labirintus felfedezéséhez.",
+            "ro": "Participați la un tur ghidat pentru a explora labirintul de sub oraș.",
+            "en": "Join a guided tour to explore the labyrinth beneath the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kotnov-Turm",
+            "hu": "Kotnov-torony",
+            "ro": "Turnul Kotnov",
+            "en": "Kotnov Tower"
+          },
+          "coords": [
+            14.6545,
+            49.4112
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Turm ist der einzige Überrest der Burg von Tábor. Die Aussicht ist die Mühe wert.",
+            "hu": "A torony Tábor várának egyetlen maradványa. A kilátás megéri a fáradságot.",
+            "ro": "Turnul este singura rămășiță a castelului din Tábor. Priveliștea merită efortul.",
+            "en": "The tower is the only remnant of Tábor Castle. The view is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Bechyně-Tor",
+            "hu": "Bechyně-kapu",
+            "ro": "Poarta Bechyně",
+            "en": "Bechyně Gate"
+          },
+          "coords": [
+            14.654,
+            49.4115
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:33",
+          "stay_min": 55,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein gut erhaltenes Tor der mittelalterlichen Befestigungsanlagen.",
+            "hu": "A középkori erődítmények egyik jó állapotban megmaradt kapuja.",
+            "ro": "O poartă bine conservată a fortificațiilor medievale.",
+            "en": "A well-preserved gate of the medieval fortifications."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Tábor beginnt im Herzen der Stadt, dem Žižka-Platz, umgeben von bunten Bürgerhäusern. Spüren Sie die Geschichte unter Ihren Füßen, während Sie die Atmosphäre dieser alten Hussitenfestung aufsaugen.\nAm Vormittag tauchen Sie tief in die Vergangenheit ein. Besuchen Sie das Alte Rathaus mit dem Hussitenmuseum und erklimmen Sie den Turm der Dekanatskirche. Danach wagen Sie sich in die geheimnisvollen unterirdischen Gänge, die sich unter der gesamten Altstadt erstrecken.\nDer Nachmittag führt Sie zu den Überresten der alten Befestigungsanlagen. Erklimmen Sie den mächtigen Kotnov-Turm, das Wahrzeichen der Stadt, und genießen Sie den Panoramablick. Schlendern Sie anschließend zum nahegelegenen Bechyně-Tor, dem am besten erhaltenen Teil der Stadtmauer.\nLassen Sie den Tag in einem der traditionellen Restaurants ausklingen. Probieren Sie böhmische Spezialitäten und lassen Sie die Eindrücke dieser geschichtsträchtigen Stadt auf sich wirken, während die Sonne hinter den alten Dächern versinkt.",
+        "hu": "A tábori nap a város szívében, a színes polgárházakkal körülvett Žižka téren kezdődik. Érezze a történelmet a lába alatt, miközben magába szívja ennek a régi huszita erődnek a hangulatát.\nA délelőtt folyamán merüljön el mélyen a múltban. Látogasson el a Régi Városházába a Huszita Múzeummal, mássza meg a dékáni templom tornyát, majd merészkedjen be a rejtélyes földalatti folyosókba, amelyek az egész óváros alatt húzódnak.\nA délután a régi erődítmények maradványaihoz vezet. Mássza meg a hatalmas Kotnov-tornyot, a város jelképét, és élvezze a panorámát. Ezután sétáljon el a közeli Bechyně-kapuhoz, a városfal legjobban megőrzött részéhez.\nZárja a napot egy hagyományos étteremben. Kóstoljon cseh specialitásokat, és hagyja, hogy a történelmi város benyomásai hassanak önre, miközben a nap lenyugszik a régi háztetők mögött.",
+        "ro": "Ziua dumneavoastră în Tábor începe în inima orașului, Piața Žižka, înconjurată de case burgheze colorate. Simțiți istoria sub picioare în timp ce absorbiți atmosfera acestei vechi fortărețe husite.\nÎn cursul dimineții, pătrundeți adânc în trecut. Vizitați Primăria Veche cu Muzeul Husit, urcați în turnul Bisericii Decanale, apoi aventurați-vă în misterioasele coridoare subterane care se întind sub întregul oraș vechi.\nDupă-amiaza vă duce la rămășițele vechilor fortificații. Urcați în puternicul Turn Kotnov, simbolul orașului, și bucurați-vă de panorama. Apoi, plimbați-vă până la Poarta Bechyně din apropiere, cea mai bine conservată parte a zidurilor orașului.\nÎncheiați ziua la unul dintre restaurantele tradiționale. Gustați specialități cehe și lăsați-vă copleșit de impresiile acestui oraș istoric, în timp ce soarele apune în spatele acoperișurilor vechi.",
+        "en": "Your day in Tábor begins in the heart of the city, Žižka Square, surrounded by colourful townhouses. Feel the history beneath your feet as you soak up the atmosphere of this old Hussite fortress.\nIn the morning, delve deep into the past. Visit the Old Town Hall with the Hussite Museum, climb the tower of the Dean's Church, and then venture into the mysterious underground passages that stretch beneath the entire Old Town.\nThe afternoon takes you to the remnants of the old fortifications. Climb the mighty Kotnov Tower, the city's landmark, and enjoy the panoramic view. Afterwards, stroll to the nearby Bechyně Gate, the best-preserved part of the city walls.\nEnd the day in one of the traditional restaurants. Try Bohemian specialities and let the impressions of this historic city sink in as the sun sets behind the old roofs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Švejk Restaurant",
+            "tip": "Ein Klassiker für authentische böhmische Küche und gutes Bier."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Probieren Sie diese herzhaften Kartoffelpuffer, ein beliebter lokaler Snack."
+          },
+          {
+            "name": "Goldie Restaurant",
+            "tip": "Für eine gehobenere Erfahrung mit moderner tschechischer Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Švejk Étterem",
+            "tip": "Klasszikus hely autentikus cseh konyhával és jó sörrel."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Kóstolja meg ezt a kiadós burgonyalepényt, egy népszerű helyi snacket."
+          },
+          {
+            "name": "Goldie Étterem",
+            "tip": "Egy elegánsabb élményért modern cseh konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Švejk",
+            "tip": "Un clasic pentru bucătăria boemiană autentică și bere bună."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Încercați aceste clătite copioase din cartofi, o gustare locală populară."
+          },
+          {
+            "name": "Restaurantul Goldie",
+            "tip": "Pentru o experiență mai rafinată cu bucătărie cehă modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Švejk Restaurant",
+            "tip": "A classic for authentic Bohemian cuisine and good beer."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Try these hearty potato pancakes, a popular local snack."
+          },
+          {
+            "name": "Goldie Restaurant",
+            "tip": "For a more upscale experience with modern Czech cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Lužnice",
+            "tip": "Ein ruhiger Weg entlang des Flusses unterhalb der Stadtmauern.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Holečkovy sady Park",
+            "tip": "Eine grüne Oase der Ruhe direkt unterhalb des Kotnov-Turms.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht vom Dekanatskirchenturm",
+            "tip": "Finden Sie einen ruhigen Moment über den Dächern der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Lužnice folyó partján",
+            "tip": "Csendes ösvény a folyó mentén a városfalak alatt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Holečkovy sady park",
+            "tip": "A nyugalom zöld oázisa közvetlenül a Kotnov-torony alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Dékáni templom tornyából",
+            "tip": "Találjon egy csendes pillanatot a város háztetői felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Lužnice",
+            "tip": "O potecă liniștită de-a lungul râului, sub zidurile orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Holečkovy sady",
+            "tip": "O oază verde de liniște chiar sub Turnul Kotnov.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere din turnul Bisericii Decanale",
+            "tip": "Găsiți un moment de liniște deasupra acoperișurilor orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Lužnice River",
+            "tip": "A quiet path along the river below the city walls.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Holečkovy sady Park",
+            "tip": "A green oasis of calm just below the Kotnov Tower.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Dean's Church tower",
+            "tip": "Find a quiet moment above the city's rooftops.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik aus Tábor",
+            "tip": "Halten Sie Ausschau nach einzigartigen, lokal hergestellten Keramikwaren."
+          },
+          {
+            "name": "Hussiten-Souvenirs",
+            "tip": "In den Geschäften rund um den Žižka-Platz finden Sie thematische Erinnerungsstücke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tábori kerámia",
+            "tip": "Keressen egyedi, helyben készült kerámiákat."
+          },
+          {
+            "name": "Huszita szuvenírek",
+            "tip": "A Žižka tér körüli üzletekben tematikus emléktárgyakat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică din Tábor",
+            "tip": "Căutați obiecte unice de ceramică realizate local."
+          },
+          {
+            "name": "Suveniruri husite",
+            "tip": "Veți găsi suveniruri tematice în magazinele din jurul Pieței Žižka."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tábor Ceramics",
+            "tip": "Look out for unique, locally made ceramic goods."
+          },
+          {
+            "name": "Hussite Souvenirs",
+            "tip": "You'll find themed mementos in the shops around Žižka Square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt Kopfsteinpflaster hat.",
+          "Die unterirdischen Gänge können kühl sein, nehmen Sie eine leichte Jacke mit.",
+          "Viele Sehenswürdigkeiten sind montags geschlossen, überprüfen Sie die Öffnungszeiten.",
+          "Tábor ist hügelig, seien Sie auf einige Anstiege vorbereitet."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskaköves.",
+          "A földalatti folyosók hűvösek lehetnek, vigyen magával egy könnyű kabátot.",
+          "Sok látnivaló hétfőn zárva tart, ellenőrizze a nyitvatartási időt.",
+          "Tábor dombos, készüljön fel néhány emelkedőre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul vechi este pavat cu piatră cubică.",
+          "Coridoarele subterane pot fi răcoroase, luați o jachetă subțire.",
+          "Multe atracții sunt închise lunea, verificați programul de funcționare.",
+          "Tábor este un oraș deluros, fiți pregătit pentru câteva urcușuri."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town has cobblestone streets.",
+          "The underground passages can be cool, so bring a light jacket.",
+          "Many sights are closed on Mondays, so check opening hours.",
+          "Tábor is hilly, so be prepared for some uphill walking."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Žižka-Platz",
+            "hu": "Žižka tér",
+            "ro": "Piața Žižka",
+            "en": "Žižka Square"
+          },
+          "coords": [
+            14.6577,
+            49.4145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den Platz zu Fuß.",
+            "hu": "Tegye le a biciklit, és fedezze fel a teret gyalog.",
+            "ro": "Parcați bicicleta și explorați piața pe jos.",
+            "en": "Park your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            14.6585,
+            49.4148
+          ],
+          "category": "museums",
+          "arrive_at": "09:36",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Hier erfahren Sie alles über die revolutionäre Hussitenbewegung.",
+            "hu": "Itt mindent megtudhat a forradalmi huszita mozgalomról.",
+            "ro": "Aici veți învăța totul despre mișcarea revoluționară husită.",
+            "en": "Learn all about the revolutionary Hussite movement here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kotnov-Turm und Bechyně-Tor",
+            "hu": "Kotnov-torony és Bechyně-kapu",
+            "ro": "Turnul Kotnov și Poarta Bechyně",
+            "en": "Kotnov Tower and Bechyně Gate"
+          },
+          "coords": [
+            14.6545,
+            49.4112
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber steiler Anstieg, der mit einer großartigen Aussicht belohnt wird.",
+            "hu": "Rövid, de meredek emelkedő, amelyet nagyszerű kilátás jutalmaz.",
+            "ro": "O urcare scurtă, dar abruptă, recompensată cu o priveliște minunată.",
+            "en": "A short but steep climb rewarded with a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Klokoty-Kloster",
+            "hu": "Klokoty-kolostor",
+            "ro": "Mănăstirea Klokoty",
+            "en": "Klokoty Monastery"
+          },
+          "coords": [
+            14.64,
+            49.405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:22",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Ein wunderschöner Barockkomplex, der einen Abstecher wert ist.",
+            "hu": "Egy gyönyörű barokk komplexum, amely megér egy kitérőt.",
+            "ro": "Un frumos complex baroc care merită ocolul.",
+            "en": "A beautiful Baroque complex well worth the detour."
+          }
+        },
+        {
+          "name": {
+            "de": "Jordán-Stausee",
+            "hu": "Jordán-víztározó",
+            "ro": "Lacul de acumulare Jordán",
+            "en": "Jordán Reservoir"
+          },
+          "coords": [
+            14.669,
+            49.419
+          ],
+          "category": "natural features",
+          "arrive_at": "13:46",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Perfekt für eine erfrischende Pause und eine Runde um den ältesten Stausee Mitteleuropas.",
+            "hu": "Tökéletes egy frissítő szünetre és egy körre Közép-Európa legrégebbi víztározója körül.",
+            "ro": "Perfect pentru o pauză răcoritoare și un tur în jurul celui mai vechi lac de acumulare din Europa Centrală.",
+            "en": "Perfect for a refreshing break and a lap around the oldest reservoir in Central Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Žižka-Platz",
+            "hu": "Vissza a Žižka térre",
+            "ro": "Înapoi în Piața Žižka",
+            "en": "Back to Žižka Square"
+          },
+          "coords": [
+            14.6577,
+            49.4145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:01",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem wohlverdienten Getränk in einem der Cafés am Platz.",
+            "hu": "Fejezze be a kerékpártúrát egy jól megérdemelt itallal a tér egyik kávézójában.",
+            "ro": "Încheiați turul cu bicicleta cu o băutură binemeritată la una dintre cafenelele din piață.",
+            "en": "End your bike tour with a well-deserved drink at one of the square's cafés."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad für eine Entdeckungstour durch Tábor und seine Umgebung. Starten Sie am zentralen Žižka-Platz, bevor Sie sich durch die historischen Gassen zum Alten Rathaus und dem Hauch der Hussitengeschichte begeben.\nIhre Route führt Sie weiter bergauf zum Kotnov-Turm und dem Bechyně-Tor. Die Anstrengung wird mit einem atemberaubenden Blick belohnt. Anschließend radeln Sie aus der Stadt hinaus zum prächtigen Klokoty-Kloster, einem Juwel barocker Architektur.\nDer Nachmittag ist für die Natur reserviert. Eine angenehme Fahrt bringt Sie zum Jordán-Stausee, dem ältesten seiner Art in Mitteleuropa. Umrunden Sie den See, genießen Sie die frische Luft und machen Sie eine Pause am Wasser, bevor Sie die letzte Etappe zurück ins Zentrum antreten.\nZurück am Žižka-Platz, haben Sie sich ein kühles tschechisches Bier oder eine Limonade redlich verdient. Lassen Sie den aktiven Tag Revue passieren und genießen Sie den Abend in der lebhaften Atmosphäre der Altstadt.",
+        "hu": "Pattanjon kerékpárra, és fedezze fel Tábort és környékét. Induljon a központi Žižka térről, mielőtt a történelmi sikátorokon keresztül a Régi Városházához és a huszita történelem szelleméhez tekerne.\nAz útja felfelé vezet a Kotnov-toronyhoz és a Bechyně-kapuhoz. A fáradozást lélegzetelállító kilátás jutalmazza. Ezután biciklizzen ki a városból a csodálatos Klokoty-kolostorhoz, a barokk építészet gyöngyszeméhez.\nA délután a természeté. Egy kellemes tekerés elviszi a Jordán-víztározóhoz, Közép-Európa legrégebbi ilyen létesítményéhez. Kerülje meg a tavat, élvezze a friss levegőt, és tartson egy szünetet a vízparton, mielőtt nekivágna az utolsó szakasznak vissza a központba.\nVisszaérve a Žižka térre, igazán megérdemel egy hideg cseh sört vagy egy limonádét. Idézze fel az aktív napot, és élvezze az estét az óváros élénk hangulatában.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur de explorare a orașului Tábor și a împrejurimilor sale. Începeți din Piața centrală Žižka, înainte de a vă îndrepta pe străduțele istorice către Primăria Veche și spiritul istoriei husite.\nTraseul vă duce mai departe în sus, spre Turnul Kotnov și Poarta Bechyně. Efortul va fi răsplătit cu o priveliște care vă taie respirația. Apoi, pedalați în afara orașului până la magnifica Mănăstire Klokoty, o bijuterie a arhitecturii baroce.\nDupă-amiaza este rezervată naturii. O plimbare plăcută vă va duce la Lacul de acumulare Jordán, cel mai vechi de acest fel din Europa Centrală. Înconjurați lacul, bucurați-vă de aerul curat și faceți o pauză pe malul apei înainte de a porni pe ultima etapă înapoi spre centru.\nÎntorși în Piața Žižka, ați meritat cu prisosință o bere cehă rece sau o limonadă. Rememorați ziua activă și bucurați-vă de seară în atmosfera plină de viață a orașului vechi.",
+        "en": "Get on your bike for a discovery tour of Tábor and its surroundings. Start at the central Žižka Square before heading through the historic alleys to the Old Town Hall and the spirit of Hussite history.\nYour route takes you further uphill to the Kotnov Tower and the Bechyně Gate. The effort is rewarded with a breathtaking view. Afterwards, cycle out of the city to the magnificent Klokoty Monastery, a jewel of Baroque architecture.\nThe afternoon is reserved for nature. A pleasant ride will take you to the Jordán Reservoir, the oldest of its kind in Central Europe. Cycle around the lake, enjoy the fresh air and take a break by the water before starting the final leg back to the centre.\nBack at Žižka Square, you've earned a cold Czech beer or a lemonade. Review the active day and enjoy the evening in the lively atmosphere of the Old Town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pivnice U Zeleného stromu",
+            "tip": "Eine traditionelle Bierstube, perfekt für eine Stärkung nach der Radtour."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Eine gegrillte Wurst vom Stand ist der ideale schnelle Snack für unterwegs."
+          },
+          {
+            "name": "Cukrárna u Tří lvů",
+            "tip": "Belohnen Sie sich mit einem Stück Kuchen oder Eis in dieser Konditorei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pivnice U Zeleného stromu",
+            "tip": "Hagyományos söröző, tökéletes egy frissítőre a kerékpártúra után."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Egy grillezett kolbász egy standról ideális gyors harapnivaló útközben."
+          },
+          {
+            "name": "Cukrárna u Tří lvů",
+            "tip": "Jutalmazza meg magát egy szelet süteménnyel vagy fagyival ebben a cukrászdában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pivnice U Zeleného stromu",
+            "tip": "O berărie tradițională, perfectă pentru a vă reîncărca bateriile după turul cu bicicleta."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Un cârnat la grătar de la o tarabă este gustarea rapidă ideală pentru drum."
+          },
+          {
+            "name": "Cukrárna u Tří lvů",
+            "tip": "Recompensați-vă cu o felie de tort sau o înghețată la această cofetărie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pivnice U Zeleného stromu",
+            "tip": "A traditional pub, perfect for refueling after the bike ride."
+          },
+          {
+            "name": "Klobása",
+            "tip": "A grilled sausage from a stall is the ideal quick snack on the go."
+          },
+          {
+            "name": "Cukrárna u Tří lvů",
+            "tip": "Reward yourself with a piece of cake or ice cream at this pastry shop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Jordán-Stausees",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie den Blick auf das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Klokoty-Klosters",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am Kotnov-Turm",
+            "tip": "Beobachten Sie, wie die Sonne über der südböhmischen Landschaft untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Jordán-víztározó partja",
+            "tip": "Keressen egy csendes padot, és élvezze a víz látványát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Klokoty-kolostor kertjei",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a Kotnov-toronynál",
+            "tip": "Nézze, ahogy a nap lenyugszik a dél-csehországi táj felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului de acumulare Jordán",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de priveliștea apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Mănăstirii Klokoty",
+            "tip": "Un loc de liniște și contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare la Turnul Kotnov",
+            "tip": "Priviți cum soarele apune peste peisajul din Boemia de Sud.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Jordán Reservoir",
+            "tip": "Find a quiet bench and enjoy the view of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Klokoty Monastery",
+            "tip": "A place of silence and contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset at Kotnov Tower",
+            "tip": "Watch the sun set over the South Bohemian landscape.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Ausrüstung oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Lokaler Honig (Med)",
+            "tip": "Ein süßes und gesundes Souvenir von den Märkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha felszerelésre vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Helyi méz (Med)",
+            "tip": "Édes és egészséges szuvenír a piacokról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de echipament sau de o reparație rapidă."
+          },
+          {
+            "name": "Miere locală (Med)",
+            "tip": "Un suvenir dulce și sănătos de la piețe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "In case you need any gear or a quick repair."
+          },
+          {
+            "name": "Local Honey (Med)",
+            "tip": "A sweet and healthy souvenir from the local markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Fahrt zum See.",
+          "Schließen Sie Ihr Fahrrad an den Hauptsehenswürdigkeiten immer gut ab."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket.",
+          "Sisak használata erősen ajánlott.",
+          "Vigyen magával elegendő vizet, különösen a tóhoz vezető útra.",
+          "A fő látnivalóknál mindig zárja le jól a kerékpárt."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele.",
+          "Se recomandă insistent purtarea unei căști.",
+          "Luați suficientă apă, mai ales pentru drumul spre lac.",
+          "Asigurați-vă întotdeauna bicicleta corespunzător la principalele atracții."
+        ],
+        "en": [
+          "Check your bike before setting off, especially the brakes.",
+          "A helmet is strongly recommended.",
+          "Take plenty of water with you, especially for the ride to the lake.",
+          "Always lock your bike securely at the main sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 4.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Altstadt: Parken & Žižka-Platz",
+            "hu": "Óváros Klaszter: Parkolás és Žižka tér",
+            "ro": "Cluster Centrul Vechi: Parcare & Piața Žižka",
+            "en": "Old Town Cluster: Parking & Žižka Square"
+          },
+          "coords": [
+            14.6577,
+            49.4145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_mode": "car",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in einem der Parkhäuser am Rande der Altstadt und gehen Sie zum Platz.",
+            "hu": "Parkoljon az óváros szélén található parkolóházak egyikében, és sétáljon a térre.",
+            "ro": "Parcați într-una dintre parcările de la marginea orașului vechi și mergeți pe jos până în piață.",
+            "en": "Park in one of the car parks on the edge of the old town and walk to the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus & Dekanatskirche",
+            "hu": "Régi Városháza és Dékáni templom",
+            "ro": "Primăria Veche & Biserica Decanală",
+            "en": "Old Town Hall & Dean's Church"
+          },
+          "coords": [
+            14.6585,
+            49.4148
+          ],
+          "category": "museums",
+          "arrive_at": "09:37",
+          "stay_min": 140,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kombinieren Sie diese beiden Highlights, die nur wenige Schritte voneinander entfernt sind.",
+            "hu": "Kombinálja ezt a két látnivalót, amelyek csak pár lépésre vannak egymástól.",
+            "ro": "Combinați aceste două atracții majore, aflate la doar câțiva pași una de cealaltă.",
+            "en": "Combine these two highlights, which are just a few steps apart."
+          }
+        },
+        {
+          "name": {
+            "de": "Kotnov-Turm & Bechyně-Tor",
+            "hu": "Kotnov-torony & Bechyně-kapu",
+            "ro": "Turnul Kotnov & Poarta Bechyně",
+            "en": "Kotnov Tower & Bechyně Gate"
+          },
+          "coords": [
+            14.6545,
+            49.4112
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz zu den Befestigungsanlagen.",
+            "hu": "Rövid séta a főtérről az erődítményekhez.",
+            "ro": "O scurtă plimbare de la piața principală la fortificații.",
+            "en": "A short walk from the main square to the fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Klosterviertel: Klokoty-Kloster",
+            "hu": "Kolostor Negyed Klaszter: Klokoty-kolostor",
+            "ro": "Cluster Cartierul Mănăstirii: Mănăstirea Klokoty",
+            "en": "Monastery Quarter Cluster: Klokoty Monastery"
+          },
+          "coords": [
+            14.64,
+            49.405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem barocken Wallfahrtsort und finden Sie dort leicht einen Parkplatz.",
+            "hu": "Vezessen el ehhez a barokk zarándokhelyhez, ahol könnyen talál parkolót.",
+            "ro": "Conduceți până la acest lăcaș de pelerinaj baroc și găsiți cu ușurință un loc de parcare.",
+            "en": "Drive to this baroque pilgrimage site and easily find a parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Seeufer: Jordán-Stausee",
+            "hu": "Tóparti Klaszter: Jordán-víztározó",
+            "ro": "Cluster Malul Lacului: Lacul de acumulare Jordán",
+            "en": "Lakeside Cluster: Jordán Reservoir"
+          },
+          "coords": [
+            14.669,
+            49.419
+          ],
+          "category": "natural features",
+          "arrive_at": "14:41",
+          "stay_min": 105,
+          "hop_mode": "car",
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Spaziergang am Wasser. Ideal für Familien.",
+            "hu": "Zárja a napot egy pihentető sétával a vízparton. Ideális családok számára.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă pe malul apei. Ideal pentru familii.",
+            "en": "End the day with a relaxing walk by the water. Ideal for families."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lässt sich Tábor bequem in Clustern erkunden. Parken Sie am Rande der Altstadt und widmen Sie den gesamten Vormittag diesem historischen Kern. Beginnen Sie am Žižka-Platz und schlendern Sie zwischen dem Rathaus, der Kirche und den alten Befestigungsanlagen.\nAm Vormittag erkunden Sie das Labyrinth der Gassen zu Fuß. Nachdem Sie das Hussitenmuseum und den Kirchturm besucht haben, führt Sie ein kurzer Spaziergang zum südlichen Ende der Altstadt, wo der Kotnov-Turm und das Bechyně-Tor Wache halten. Genießen Sie die Aussicht, bevor Sie zum Auto zurückkehren.\nNach dem Mittagessen fahren Sie eine kurze Strecke zum prächtigen Klokoty-Kloster. Dieser barocke Wallfahrtsort strahlt eine unglaubliche Ruhe aus. Nehmen Sie sich Zeit für die Besichtigung des Kreuzgangs und der beeindruckenden Kirche.\nDen Abschluss des Tages bildet ein Besuch am Jordán-Stausee. Fahren Sie zum Ufer, parken Sie das Auto und genießen Sie einen entspannten Spaziergang. Es ist der perfekte Ort, um die südböhmische Natur zu genießen und den Tag ausklingen zu lassen.",
+        "hu": "Autóval kényelmesen, klaszterekben fedezheti fel Tábort. Parkoljon az óváros szélén, és szentelje az egész délelőttöt ennek a történelmi magnak. Kezdje a Žižka téren, és sétáljon a városháza, a templom és a régi erődítmények között.\nA délelőtt folyamán fedezze fel gyalog a sikátorok labirintusát. Miután meglátogatta a Huszita Múzeumot és a templomtornyot, egy rövid séta elvezeti az óváros déli végéhez, ahol a Kotnov-torony és a Bechyně-kapu őrködik. Élvezze a kilátást, mielőtt visszatérne az autóhoz.\nEbéd után egy rövid autóúttal eljuthat a csodálatos Klokoty-kolostorhoz. Ez a barokk zarándokhely hihetetlen nyugalmat áraszt. Szánjon időt a kerengő és a lenyűgöző templom megtekintésére.\nA napot a Jordán-víztározónál tett látogatás zárja. Vezessen a parthoz, parkolja le az autót, és élvezzen egy pihentető sétát. Tökéletes hely a dél-csehországi természet élvezetére és a nap lezárására.",
+        "ro": "Cu mașina, puteți explora convenabil Tábor în clustere. Parcați la marginea centrului vechi și dedicați întreaga dimineață acestui nucleu istoric. Începeți din Piața Žižka și plimbați-vă între primărie, biserică și vechile fortificații.\nÎn cursul dimineții, explorați labirintul de străduțe pe jos. După ce vizitați Muzeul Husit și turnul bisericii, o scurtă plimbare vă va duce la capătul de sud al orașului vechi, unde veghează Turnul Kotnov și Poarta Bechyně. Bucurați-vă de priveliște înainte de a vă întoarce la mașină.\nDupă prânz, faceți o scurtă călătorie cu mașina până la magnifica Mănăstire Klokoty. Acest lăcaș de pelerinaj baroc emană o liniște incredibilă. Acordați-vă timp pentru a vizita claustrul și biserica impresionantă.\nZiua se încheie cu o vizită la Lacul de acumulare Jordán. Conduceți până la mal, parcați mașina și bucurați-vă de o plimbare relaxantă. Este locul perfect pentru a vă bucura de natura din Boemia de Sud și pentru a încheia ziua.",
+        "en": "By car, you can conveniently explore Tábor in clusters. Park on the edge of the old town and dedicate the entire morning to this historic core. Start at Žižka Square and wander between the town hall, the church and the old fortifications.\nIn the morning, explore the labyrinth of alleys on foot. After visiting the Hussite Museum and the church tower, a short walk will take you to the southern end of the old town, where the Kotnov Tower and the Bechyně Gate stand guard. Enjoy the view before returning to your car.\nAfter lunch, take a short drive to the magnificent Klokoty Monastery. This baroque pilgrimage site exudes an incredible sense of peace. Take your time to visit the cloister and the impressive church.\nThe day ends with a visit to the Jordán Reservoir. Drive to the shore, park the car and enjoy a relaxing walk. It is the perfect place to enjoy the South Bohemian nature and round off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurace Beseda",
+            "tip": "Ein traditionelles Restaurant direkt am Hauptplatz."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Ein süßes Gebäck, das über offener Flamme gebacken wird. Perfekt als Snack."
+          },
+          {
+            "name": "Ausflugslokal am Jordán-See",
+            "tip": "Genießen Sie einen Kaffee oder ein Eis mit Blick auf den See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurace Beseda",
+            "tip": "Hagyományos étterem közvetlenül a főtéren."
+          },
+          {
+            "name": "Trdelník (Kürtőskalács)",
+            "tip": "Nyílt lángon sütött édes sütemény. Tökéletes uzsonnára."
+          },
+          {
+            "name": "Kávézó a Jordán-tónál",
+            "tip": "Élvezzen egy kávét vagy fagyit a tóra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Beseda",
+            "tip": "Un restaurant tradițional chiar în piața principală."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Un produs de patiserie dulce, copt deasupra flăcării deschise. Perfect ca gustare."
+          },
+          {
+            "name": "Cafenea pe malul lacului Jordán",
+            "tip": "Bucurați-vă de o cafea sau o înghețată cu vedere la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurace Beseda",
+            "tip": "A traditional restaurant right on the main square."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "A sweet pastry baked over an open flame. Perfect as a snack."
+          },
+          {
+            "name": "Café at Jordán Lake",
+            "tip": "Enjoy a coffee or ice cream with a view of the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Eine kleine, aber feine grüne Lunge in der Nähe der Universität.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kreuzgang des Klokoty-Klosters",
+            "tip": "Ein Ort der absoluten Stille und Kontemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Uferweg am Jordán-Stausee",
+            "tip": "Abseits der Hauptbadebereiche finden Sie ruhige Plätze.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus Kert",
+            "tip": "Egy kicsi, de finom zöld terület az egyetem közelében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Klokoty-kolostor kerengője",
+            "tip": "Az abszolút csend és elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sétány a Jordán-víztározó partján",
+            "tip": "A fő strandterületektől távol csendes helyeket talál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Un mic, dar rafinat plămân verde lângă universitate.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Claustrul Mănăstirii Klokoty",
+            "tip": "Un loc de liniște și contemplare absolută.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Potecă pe malul lacului de acumulare Jordán",
+            "tip": "Veți găsi locuri liniștite departe de zonele principale de scăldat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "A small but fine green lung near the university.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cloister of the Klokoty Monastery",
+            "tip": "A place of absolute silence and contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Path along the Jordán Reservoir",
+            "tip": "You will find quiet spots away from the main bathing areas.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Granat-Schmuck",
+            "tip": "Böhmischer Granat ist ein berühmtes lokales Produkt."
+          },
+          {
+            "name": "Bauernmarkt (wenn geöffnet)",
+            "tip": "Für lokale Produkte und eine authentische Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gránát ékszerek",
+            "tip": "A cseh gránát híres helyi termék."
+          },
+          {
+            "name": "Termelői piac (ha nyitva van)",
+            "tip": "Helyi termékekért és autentikus hangulatért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii cu granat",
+            "tip": "Granatul de Boemia este un produs local renumit."
+          },
+          {
+            "name": "Piața fermierilor (dacă este deschisă)",
+            "tip": "Pentru produse locale și o atmosferă autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Garnet Jewelry",
+            "tip": "Bohemian garnet is a famous local product."
+          },
+          {
+            "name": "Farmers' Market (if open)",
+            "tip": "For local produce and an authentic atmosphere."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Cluster-Strategie: Parken Sie einmal pro Zone und erkunden Sie zu Fuß.",
+          "Parken in der Altstadt ist sehr begrenzt; nutzen Sie Parkhäuser am Rand.",
+          "Planen Sie etwas mehr Zeit für die Parkplatzsuche an beliebten Orten ein.",
+          "Ein Navigationssystem ist hilfreich, um die teils engen Gassen zu meistern."
+        ],
+        "hu": [
+          "Használja a klaszter-stratégiát: parkoljon egyszer zónánként és fedezze fel gyalog a környéket.",
+          "Az óvárosban nagyon korlátozott a parkolás; használja a széli parkolóházakat.",
+          "Tervezzen egy kicsit több időt a parkolóhely-keresésre a népszerű helyeken.",
+          "A navigációs rendszer hasznos a néha szűk utcák leküzdéséhez."
+        ],
+        "ro": [
+          "Folosiți strategia clusterelor: parcați o dată pe zonă și explorați pe jos.",
+          "Parcarea în centrul vechi este foarte limitată; folosiți parcările de la periferie.",
+          "Planificați puțin mai mult timp pentru a găsi un loc de parcare în locurile populare.",
+          "Un sistem de navigație este util pentru a naviga pe străzile uneori înguste."
+        ],
+        "en": [
+          "Use the cluster strategy: park once per zone and explore on foot.",
+          "Parking in the old town is very limited; use car parks on the outskirts.",
+          "Allow a little extra time to find a parking space in popular places.",
+          "A navigation system is helpful for navigating the sometimes narrow streets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 4.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof & Gang zum Žižka-Platz",
+            "hu": "Érkezés a buszpályaudvarra és séta a Žižka térre",
+            "ro": "Sosire la autogară & plimbare până la Piața Žižka",
+            "en": "Arrival at the bus station & walk to Žižka Square"
+          },
+          "coords": [
+            14.6577,
+            49.4145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Hauptbusbahnhof ist nur einen kurzen Spaziergang von der Altstadt entfernt.",
+            "hu": "A fő buszpályaudvar csak egy rövid sétára van az óvárostól.",
+            "ro": "Autogara principală este la doar o scurtă plimbare de centrul vechi.",
+            "en": "The main bus station is just a short walk from the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Altes Rathaus, Kirche, Gänge",
+            "hu": "Séta: Régi Városháza, templom, folyosók",
+            "ro": "Plimbare: Primăria Veche, Biserică, Coridoare",
+            "en": "Walk: Old Town Hall, Church, Passages"
+          },
+          "coords": [
+            14.6585,
+            49.4148
+          ],
+          "category": "museums",
+          "arrive_at": "09:47",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Kern der Altstadt komplett zu Fuß, alles liegt nah beieinander.",
+            "hu": "Fedezze fel az óváros magját teljesen gyalog, minden közel van egymáshoz.",
+            "ro": "Explorați nucleul orașului vechi în întregime pe jos, totul este aproape.",
+            "en": "Explore the core of the old town entirely on foot, everything is close by."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Klokoty-Kloster",
+            "hu": "Buszozás a Klokoty-kolostorhoz",
+            "ro": "Călătorie cu autobuzul la Mănăstirea Klokoty",
+            "en": "Bus ride to Klokoty Monastery"
+          },
+          "coords": [
+            14.64,
+            49.405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus vom Zentrum. Die Fahrt dauert nur wenige Minuten.",
+            "hu": "Menjen helyi busszal a központból. Az út csak néhány percig tart.",
+            "ro": "Luați un autobuz local din centru. Călătoria durează doar câteva minute.",
+            "en": "Take a local bus from the center. The journey only takes a few minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Jordán-Stausee",
+            "hu": "Buszozás a Jordán-víztározóhoz",
+            "ro": "Călătorie cu autobuzul la Lacul de acumulare Jordán",
+            "en": "Bus ride to Jordán Reservoir"
+          },
+          "coords": [
+            14.669,
+            49.419
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Möglicherweise müssen Sie im Zentrum umsteigen, um zum See zu gelangen.",
+            "hu": "Lehet, hogy a központban át kell szállnia, hogy eljusson a tóhoz.",
+            "ro": "S-ar putea să trebuiască să schimbați autobuzul în centru pentru a ajunge la lac.",
+            "en": "You may need to change buses in the center to get to the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the center"
+          },
+          "coords": [
+            14.6577,
+            49.4145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:25",
+          "stay_min": 50,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag bei einem Abendessen, bevor Sie den Bus zurück nehmen.",
+            "hu": "Zárja a napot egy vacsorával, mielőtt visszaindulna a busszal.",
+            "ro": "Încheiați ziua cu o cină înainte de a lua autobuzul înapoi.",
+            "en": "End the day with dinner before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Tábor lässt sich gut mit öffentlichen Verkehrsmitteln erkunden. Vom Busbahnhof aus ist die Altstadt nur einen kurzen Spaziergang entfernt. Widmen Sie den Vormittag dem kompakten historischen Zentrum, das Sie komplett zu Fuß durchqueren können.\nNachdem Sie den Žižka-Platz, das Rathaus und die unterirdischen Gänge erkundet haben, nehmen Sie einen lokalen Bus. Dieser bringt Sie in wenigen Minuten zum beeindruckenden Klokoty-Kloster, einem Ort der Ruhe etwas außerhalb des Zentrums.\nAm Nachmittag bringt Sie ein weiterer Bus zum Jordán-Stausee. Genießen Sie die Natur und die frische Luft bei einem Spaziergang am Ufer, bevor Sie die Rückfahrt ins Stadtzentrum antreten. Das Busnetz verbindet die Hauptattraktionen effizient.\nLassen Sie den Tag mit einem gemütlichen Abendessen in einem der vielen Restaurants der Altstadt ausklingen. Von hier aus ist es nicht weit zurück zum Busbahnhof, um Ihre Heim- oder Weiterreise anzutreten.",
+        "hu": "Tábor tömegközlekedéssel is jól felfedezhető. A buszpályaudvarról az óváros csak egy rövid sétára van. Szánja a délelőttöt a kompakt történelmi központra, amelyet teljes egészében gyalog bejárhat.\nMiután felfedezte a Žižka teret, a városházát és a földalatti folyosókat, szálljon helyi buszra. Ez néhány perc alatt elviszi a lenyűgöző Klokoty-kolostorhoz, a nyugalom szigetéhez a központon kívül.\nDélután egy másik busz elviszi a Jordán-víztározóhoz. Élvezze a természetet és a friss levegőt egy tóparti sétával, mielőtt visszaindulna a városközpontba. A buszhálózat hatékonyan köti össze a főbb látnivalókat.\nZárja a napot egy kellemes vacsorával az óváros számos éttermének egyikében. Innen már nincs messze a buszpályaudvar, ahonnan hazautazhat vagy folytathatja útját.",
+        "ro": "Tábor poate fi explorat cu ușurință folosind transportul public. De la autogară, centrul vechi este la doar o scurtă plimbare. Dedicați dimineața centrului istoric compact, pe care îl puteți traversa în întregime pe jos.\nDupă ce ați explorat Piața Žižka, primăria și coridoarele subterane, luați un autobuz local. Acesta vă va duce în câteva minute la impresionanta Mănăstire Klokoty, un loc de liniște situat puțin în afara centrului.\nDupă-amiaza, un alt autobuz vă va duce la Lacul de acumulare Jordán. Bucurați-vă de natură și de aerul curat cu o plimbare pe mal, înainte de a vă întoarce în centrul orașului. Rețeaua de autobuze leagă eficient principalele atracții.\nÎncheiați ziua cu o cină plăcută la unul dintre numeroasele restaurante din centrul vechi. De aici, nu este departe până la autogară pentru a vă întoarce acasă sau a vă continua călătoria.",
+        "en": "Tábor is easy to explore by public transport. The old town is just a short walk from the bus station. Dedicate the morning to the compact historic centre, which you can cross entirely on foot.\nAfter exploring Žižka Square, the Town Hall and the underground passages, take a local bus. This will take you in a few minutes to the impressive Klokoty Monastery, a place of peace just outside the centre.\nIn the afternoon, another bus will take you to the Jordán Reservoir. Enjoy the nature and fresh air with a walk along the shore before heading back to the city centre. The bus network efficiently connects the main attractions.\nEnd the day with a pleasant dinner in one of the many restaurants in the old town. From here it is not far back to the bus station to start your journey home or continue your travels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Jídelna",
+            "tip": "Eine Selbstbedienungskantine für ein schnelles, günstiges und authentisches Mittagessen."
+          },
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "In Öl eingelegter Camembert, eine klassische tschechische Bierspezialität."
+          },
+          {
+            "name": "Pivovar Obora",
+            "tip": "Eine lokale Brauerei mit Restaurant, etwas außerhalb, aber mit dem Bus erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jídelna",
+            "tip": "Önkiszolgáló étkezde egy gyors, olcsó és autentikus ebédhez."
+          },
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "Olajban pácolt camembert, klasszikus cseh sörkorcsolya."
+          },
+          {
+            "name": "Pivovar Obora",
+            "tip": "Helyi sörfőzde étteremmel, kicsit kijjebb, de busszal elérhető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jídelna",
+            "tip": "O cantină cu autoservire pentru un prânz rapid, ieftin și autentic."
+          },
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "Camembert marinat în ulei, o gustare clasică cehă la bere."
+          },
+          {
+            "name": "Pivovar Obora",
+            "tip": "O fabrică de bere locală cu restaurant, puțin în afara orașului, dar accesibilă cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jídelna",
+            "tip": "A self-service canteen for a quick, cheap and authentic lunch."
+          },
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "Pickled camembert in oil, a classic Czech beer snack."
+          },
+          {
+            "name": "Pivovar Obora",
+            "tip": "A local brewery with a restaurant, a bit out of the way but accessible by bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park pod Kotnovem",
+            "tip": "Ein ruhiger Park am Fuße der Burg, ideal für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedhof bei der Klokoty-Kirche",
+            "tip": "Ein friedlicher und besinnlicher Ort.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Später Nachmittag am Jordán-See",
+            "tip": "Wenn die meisten Tagesausflügler weg sind, wird es hier sehr ruhig.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park pod Kotnovem",
+            "tip": "Csendes park a vár lábánál, ideális egy rövid szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Temető a Klokoty-templomnál",
+            "tip": "Békés és elgondolkodtató hely.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Késő délután a Jordán-tónál",
+            "tip": "Amikor a legtöbb napos kiránduló elment, itt nagyon csendes lesz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul pod Kotnovem",
+            "tip": "Un parc liniștit la poalele castelului, ideal pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul de lângă Biserica Klokoty",
+            "tip": "Un loc pașnic și contemplativ.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "După-amiază târziu la Lacul Jordán",
+            "tip": "Când majoritatea excursioniștilor de o zi au plecat, devine foarte liniștit aici.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park pod Kotnovem",
+            "tip": "A quiet park at the foot of the castle, ideal for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cemetery at Klokoty Church",
+            "tip": "A peaceful and contemplative place.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Late afternoon at Jordán Lake",
+            "tip": "When most of the day-trippers have left, it gets very quiet here.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Becherovka",
+            "tip": "Ein berühmter tschechischer Kräuterlikör, ein gutes Mitbringsel."
+          },
+          {
+            "name": "Marionetten",
+            "tip": "In einigen Souvenirläden finden Sie traditionelle tschechische Marionetten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Becherovka",
+            "tip": "Híres cseh gyógynövénylikőr, jó ajándék."
+          },
+          {
+            "name": "Bábuk",
+            "tip": "Néhány szuvenírboltban hagyományos cseh bábukat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Becherovka",
+            "tip": "Un renumit lichior de plante ceh, un suvenir bun."
+          },
+          {
+            "name": "Marionete",
+            "tip": "Veți găsi marionete tradiționale cehe în unele magazine de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Becherovka",
+            "tip": "A famous Czech herbal liqueur, a good souvenir."
+          },
+          {
+            "name": "Marionettes",
+            "tip": "You can find traditional Czech marionettes in some souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die Rückfahrt am Abend.",
+          "Die Busse können zur Stoßzeit voll sein.",
+          "Haben Sie Kleingeld für Tickets bereit, wenn Sie direkt beim Fahrer kaufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az esti visszautazáshoz.",
+          "A buszok csúcsidőben zsúfoltak lehetnek.",
+          "Készítsen elő aprópénzt a jegyekhez, ha közvetlenül a sofőrnél vásárol."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, mai ales pentru călătoria de întoarcere seara.",
+          "Autobuzele pot fi aglomerate la orele de vârf.",
+          "Pregătiți monede pentru bilete dacă cumpărați direct de la șofer."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you are planning several journeys.",
+          "Check the bus schedule in advance, especially for the return journey in the evening.",
+          "Buses can be crowded during peak hours.",
+          "Have change ready for tickets if you buy directly from the driver."
+        ]
+      }
+    }
+  }
+}

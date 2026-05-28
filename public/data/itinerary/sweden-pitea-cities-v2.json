@@ -1,0 +1,1388 @@
+{
+  "city_id": "sweden-pitea-cities-v2",
+  "anchor": {
+    "name": "Piteå",
+    "coords": [
+      65.3172,
+      21.4794
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piteå Stadskyrka",
+            "hu": "Piteå városi templom",
+            "ro": "Biserica orașului Piteå",
+            "en": "Piteå City Church"
+          },
+          "coords": [
+            65.3165,
+            21.4811
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige achteckige Form und die neoklassizistische Architektur.",
+            "hu": "Csodálja meg az egyedi, nyolcszögletű formát és a neoklasszicista építészetet.",
+            "ro": "Admirați forma sa octogonală unică și arhitectura neoclasică.",
+            "en": "Admire the unique octagonal shape and neoclassical architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Piteå Museum",
+            "hu": "Piteå Múzeum",
+            "ro": "Muzeul Piteå",
+            "en": "Piteå Museum"
+          },
+          "coords": [
+            65.3178,
+            21.4825
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen über die maritime Geschichte der Stadt.",
+            "hu": "Fókuszáljon a város tengerészeti történelmét bemutató kiállításokra.",
+            "ro": "Concentrează-te pe expozițiile despre istoria maritimă a orașului.",
+            "en": "Focus on the exhibits detailing the city's maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Badhusparken",
+            "hu": "Badhusparken",
+            "ro": "Parcul Badhus",
+            "en": "Badhusparken (Bathhouse Park)"
+          },
+          "coords": [
+            65.315,
+            21.476
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Mittagspicknick mit Blick auf den Fluss.",
+            "hu": "Tökéletes hely egy ebédpiknikhez a folyóra néző kilátással.",
+            "ro": "Un loc perfect pentru un picnic la prânz cu vedere la râu.",
+            "en": "A perfect spot for a midday picnic with a view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Västra kajen & Södra hamn",
+            "hu": "Västra kajen és Södra hamn",
+            "ro": "Cheiul de Vest și Portul de Sud",
+            "en": "Western Quay & Southern Harbour"
+          },
+          "coords": [
+            65.3135,
+            21.485
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Halten Sie Ausschau nach den traditionellen Holzbooten, die hier anlegen.",
+            "hu": "Keresse a itt horgonyzó hagyományos fa hajókat.",
+            "ro": "Fiți atenți la bărcile tradiționale din lemn ancorate aici.",
+            "en": "Look out for the traditional wooden boats moored here."
+          }
+        },
+        {
+          "name": {
+            "de": "Öjeby Kyrkstad",
+            "hu": "Öjeby templomváros",
+            "ro": "Orașul-biserică Öjeby",
+            "en": "Öjeby Church Town"
+          },
+          "coords": [
+            65.33,
+            21.4
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den Gassen mit Hunderten von roten Holzhütten.",
+            "hu": "Tévedjen el a több száz vörös faházikó közötti sikátorokban.",
+            "ro": "Pierdeți-vă pe aleile cu sute de cabane roșii din lemn.",
+            "en": "Get lost in the alleys lined with hundreds of red wooden cottages."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Piteå bei der neoklassizistischen Stadtkirche. Schlendern Sie mittags zum Piteå Museum, um in die lokale Geschichte einzutauchen, bevor Sie im Badhusparken am Flussufer entspannen. Am Nachmittag erkunden Sie die belebten Kais von Västra kajen und Södra hamn. Schließen Sie Ihren Rundgang mit einem Spaziergang zum historischen Öjeby Kyrkstad ab, einem einzigartigen Überbleibsel der nordschwedischen Tradition.",
+        "hu": "Kezdje a napot Piteå szívében, a neoklasszicista városi templomnál. Délben sétáljon át a Piteå Múzeumba, hogy elmerüljön a helyi történelemben, majd pihenjen a folyóparti Badhusparkenben. Délután fedezze fel a nyüzsgő Västra kajen és Södra hamn rakpartokat. A túrát egy sétával zárja a történelmi Öjeby Kyrkstad felé, amely Észak-Svédország egyedülálló hagyatékának maradványa.",
+        "ro": "Începeți ziua în inima orașului Piteå la biserica neoclasică a orașului. La prânz, plimbați-vă la Muzeul Piteå pentru a vă cufunda în istoria locală înainte de a vă relaxa în Badhusparken, pe malul râului. După-amiaza, explorați cheiurile pline de viață Västra kajen și Södra hamn. Încheiați-vă turul cu o plimbare spre istoricul Öjeby Kyrkstad, o relicvă unică a tradiției nord-suedeze.",
+        "en": "Start your day in the heart of Piteå at the neoclassical city church. At midday, stroll to the Piteå Museum to delve into local history before relaxing in the riverside Badhusparken. In the afternoon, explore the bustling quays of Västra kajen and Södra hamn. Conclude your tour with a walk to the historic Öjeby Kyrkstad, a unique remnant of northern Swedish tradition."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pitepalt",
+            "tip": "Das lokale Gericht schlechthin. Ein Kartoffelkloß gefüllt mit Schweinefleisch. Probieren Sie es im Restaurant 'Paltzerian'."
+          },
+          {
+            "name": "Gravad Lax",
+            "tip": "Gebeizter Lachs, serviert mit Dill-Senf-Sauce."
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Schwedische Fleischbällchen, oft mit Preiselbeermarmelade und Kartoffelpüree."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pitepalt",
+            "tip": "A helyi étel. Vepshússal töltött burgonyagombóc. Kóstolja meg a 'Paltzerian' étteremben."
+          },
+          {
+            "name": "Gravad Lax",
+            "tip": "Pácolt lazac, kapor-mustár szósszal tálalva."
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Svéd húsgolyók, gyakran vörösáfonya-lekvárral és krumplipürével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pitepalt",
+            "tip": "Mâncarea locală prin excelență. O gălușcă de cartofi umplută cu carne de porc. Încercați-o la restaurantul 'Paltzerian'."
+          },
+          {
+            "name": "Gravad Lax",
+            "tip": "Somon marinat servit cu sos de muștar și mărar."
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Chifteluțe suedeze, adesea cu gem de merișoare și piure de cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pitepalt",
+            "tip": "The quintessential local dish. A potato dumpling filled with pork. Try it at the 'Paltzerian' restaurant."
+          },
+          {
+            "name": "Gravad Lax",
+            "tip": "Cured salmon, served with a dill mustard sauce."
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Swedish meatballs, often with lingonberry jam and mashed potatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Badhusparken",
+            "tip": "Finden Sie eine ruhige Bank am Fluss und beobachten Sie die Boote.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Piteälven",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses außerhalb des Zentrums.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Södra Hamn",
+            "tip": "Beobachten Sie, wie die Sonne über dem Wasser untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Badhusparken",
+            "tip": "Keressen egy csendes padot a folyónál, és nézze a hajókat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a Piteälven mentén",
+            "tip": "Egy békés séta a folyó mentén a központon kívül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Södra Hamn-nál",
+            "tip": "Nézze, ahogy a nap lemegy a víz felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Badhusparken",
+            "tip": "Găsiți o bancă liniștită lângă râu și priviți bărcile.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul râului Piteälven",
+            "tip": "O plimbare liniștită de-a lungul râului, în afara centrului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus la Södra Hamn",
+            "tip": "Priviți soarele apunând peste apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Badhusparken",
+            "tip": "Find a quiet bench by the river and watch the boats.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piteälven River Walk",
+            "tip": "A peaceful stroll along the river outside the centre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at Södra Hamn",
+            "tip": "Watch the sun set over the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Handwerk",
+            "tip": "Suchen Sie nach Geschäften, die samisches Kunsthandwerk und Produkte aus lokalem Holz verkaufen."
+          },
+          {
+            "name": "Byxtorget",
+            "tip": "Erkunden Sie die Geschäfte rund um den Hauptplatz der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen olyan boltokat, amelyek számi kézműves termékeket és helyi fából készült árukat árulnak."
+          },
+          {
+            "name": "Byxtorget",
+            "tip": "Fedezze fel a boltokat a város főtere körül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați magazine care vând artizanat Sami și produse din lemn local."
+          },
+          {
+            "name": "Byxtorget",
+            "tip": "Explorați magazinele din jurul pieței principale a orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for shops selling Sami crafts and products made from local wood."
+          },
+          {
+            "name": "Byxtorget",
+            "tip": "Explore the shops around the city's main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine wiederverwendbare Wasserflasche ist eine gute Idee.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Halten Sie eine leichte Jacke bereit, auch im Sommer kann es windig sein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Egy újratölthető vizes palack jó ötlet.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "Készítsen be egy könnyű dzsekit, nyáron is szeles lehet az idő."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "O sticlă de apă reutilizabilă este o idee bună.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "Aveți la îndemână o jachetă subțire, poate fi vânt chiar și vara."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "A reusable water bottle is a good idea.",
+          "Check the museum's opening hours in advance.",
+          "Keep a light jacket handy; it can be windy even in summer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Öjeby Kyrkstad",
+            "hu": "Öjeby templomváros",
+            "ro": "Orașul-biserică Öjeby",
+            "en": "Öjeby Church Town"
+          },
+          "coords": [
+            65.33,
+            21.4
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang ab und erkunden Sie die engen Gassen zu Fuß.",
+            "hu": "Zárja le a biciklit a bejáratnál, és fedezze fel gyalog a szűk sikátorokat.",
+            "ro": "Legați-vă bicicleta la intrare și explorați aleile înguste pe jos.",
+            "en": "Lock your bike at the entrance and explore the narrow alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Piteå Stadskyrka",
+            "hu": "Piteå városi templom",
+            "ro": "Biserica orașului Piteå",
+            "en": "Piteå City Church"
+          },
+          "coords": [
+            65.3165,
+            21.4811
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner Kontrast zur alten Holzkirche in Öjeby.",
+            "hu": "Szép kontrasztot alkot az öjebyi régi fatemplommal.",
+            "ro": "Un contrast frumos cu vechea biserică de lemn din Öjeby.",
+            "en": "A beautiful contrast to the old wooden church in Öjeby."
+          }
+        },
+        {
+          "name": {
+            "de": "Piteå Museum",
+            "hu": "Piteå Múzeum",
+            "ro": "Muzeul Piteå",
+            "en": "Piteå Museum"
+          },
+          "coords": [
+            65.3178,
+            21.4825
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ort, um sich bei schlechtem Wetter aufzuwärmen.",
+            "hu": "Jó hely a felmelegedésre rossz idő esetén.",
+            "ro": "Un loc bun pentru a vă încălzi dacă vremea se strică.",
+            "en": "A good place to warm up if the weather turns."
+          }
+        },
+        {
+          "name": {
+            "de": "Västra kajen",
+            "hu": "Västra kajen",
+            "ro": "Cheiul de Vest",
+            "en": "Western Quay"
+          },
+          "coords": [
+            65.3135,
+            21.485
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause in einem der Cafés am Wasser.",
+            "hu": "Ideális egy ebédszünetre a vízparti kávézók egyikében.",
+            "ro": "Ideal pentru o pauză de prânz la una dintre cafenelele de pe malul apei.",
+            "en": "Ideal for a lunch break at one of the waterside cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Södra hamn",
+            "hu": "Södra hamn",
+            "ro": "Portul de Sud",
+            "en": "Southern Harbour"
+          },
+          "coords": [
+            65.312,
+            21.49
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie weiter entlang der Küste, um die Aussicht zu genießen.",
+            "hu": "Tekerjen tovább a part mentén, hogy élvezze a kilátást.",
+            "ro": "Continuați să pedalați de-a lungul coastei pentru a admira priveliștea.",
+            "en": "Continue cycling along the coast to enjoy the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Badhusparken",
+            "hu": "Badhusparken",
+            "ro": "Parcul Badhus",
+            "en": "Badhusparken"
+          },
+          "coords": [
+            65.315,
+            21.476
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss Ihrer Radtour.",
+            "hu": "A kerékpártúra pihentető befejezése.",
+            "ro": "Un final relaxant pentru turul dvs. cu bicicleta.",
+            "en": "A relaxing end to your cycling tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour in der historischen Kirchenstadt Öjeby. Fahren Sie dann ins Stadtzentrum von Piteå, um die elegante Stadtkirche und das aufschlussreiche Museum zu besuchen. Genießen Sie am Mittag die maritime Atmosphäre an den Kais Västra und Södra, wo Sie eine Pause einlegen können. Am Nachmittag fahren Sie entlang der Küste, bevor Sie Ihre Tour im ruhigen Badhusparken ausklingen lassen.",
+        "hu": "Kezdje a kerékpártúrát a történelmi Öjeby templomvárosban. Ezután tekerjen be Piteå központjába, hogy megnézze az elegáns városi templomot és a tanulságos múzeumot. Délben élvezze a tengeri hangulatot a Västra és Södra rakpartokon, ahol szünetet is tarthat. Délután kerékpározzon végig a part mentén, mielőtt a túrát a békés Badhusparkenben fejezné be.",
+        "ro": "Începeți-vă turul cu bicicleta în orașul-biserică istoric Öjeby. Apoi, pedalați spre centrul orașului Piteå pentru a vedea eleganta biserică a orașului și muzeul revelator. La prânz, bucurați-vă de atmosfera maritimă de pe cheiurile Västra și Södra, unde puteți lua o pauză. După-amiaza, pedalați de-a lungul coastei înainte de a încheia turul în liniștitul Badhusparken.",
+        "en": "Start your bike tour at the historic Öjeby church town. Then, cycle into Piteå city centre to see the elegant city church and the insightful museum. At midday, enjoy the maritime atmosphere at the Västra and Södra quays, where you can take a break. In the afternoon, cycle along the coast before finishing your tour in the peaceful Badhusparken."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pitepalt",
+            "tip": "Eine herzhafte Mahlzeit, die perfekt ist, um nach einer Radtour wieder zu Kräften zu kommen. Probieren Sie es im 'Paltzerian'."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "Ein offenes Sandwich mit Garnelen, ein schwedischer Klassiker."
+          },
+          {
+            "name": "Fika",
+            "tip": "Machen Sie eine Pause für Kaffee und Gebäck (Kanelbulle!) in einem Café am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pitepalt",
+            "tip": "Kiadós étel, tökéletes az energiapótláshoz egy kerékpártúra után. Kóstolja meg a 'Paltzerian'-ban."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "Nyitott szendvics garnélával, egy svéd klasszikus."
+          },
+          {
+            "name": "Fika",
+            "tip": "Tartson egy szünetet egy kávéra és süteményre (Kanelbulle!) egy vízparti kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pitepalt",
+            "tip": "O masă consistentă, perfectă pentru a vă reface energia după o plimbare cu bicicleta. Încercați-l la 'Paltzerian'."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "Un sandviș deschis cu creveți, un clasic suedez."
+          },
+          {
+            "name": "Fika",
+            "tip": "Luați o pauză pentru cafea și un produs de patiserie (Kanelbulle!) la o cafenea pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pitepalt",
+            "tip": "A hearty meal perfect for refueling after a bike ride. Try it at 'Paltzerian'."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "An open-faced shrimp sandwich, a Swedish classic."
+          },
+          {
+            "name": "Fika",
+            "tip": "Take a break for coffee and a pastry (Kanelbulle!) at a waterside café."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stormyrberget",
+            "tip": "Fahren Sie für eine tolle Aussicht und eine ruhige Wanderung auf diesen Hügel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pite Havsbad (außerhalb der Saison)",
+            "tip": "Ein langer, ruhiger Strandspaziergang, wenn die Menschenmassen weg sind.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Stille in Öjeby Kyrkstad",
+            "tip": "Erleben Sie die friedliche Atmosphäre der alten Holzhütten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stormyrberget",
+            "tip": "Tekerjen fel erre a dombra a nagyszerű kilátásért és egy csendes túráért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pite Havsbad (szezonon kívül)",
+            "tip": "Hosszú, csendes séta a tengerparton, amikor nincsenek tömegek.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Csend Öjeby Kyrkstadban",
+            "tip": "Élje át a régi faházak békés hangulatát.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stormyrberget",
+            "tip": "Pedalați până la acest deal pentru priveliști minunate și o drumeție liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pite Havsbad (în afara sezonului)",
+            "tip": "O plimbare lungă și liniștită pe plajă când mulțimile au plecat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Liniștea din Öjeby Kyrkstad",
+            "tip": "Experimentați atmosfera pașnică a vechilor cabane din lemn.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stormyrberget",
+            "tip": "Cycle up this hill for great views and a quiet hike.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pite Havsbad (off-season)",
+            "tip": "A long, quiet beach walk when the crowds are gone.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The silence in Öjeby Kyrkstad",
+            "tip": "Experience the peaceful atmosphere of the old wooden cottages.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Holen Sie sich Zubehör oder eine schnelle Reparatur in einem der örtlichen Fahrradgeschäfte."
+          },
+          {
+            "name": "Småstaden",
+            "tip": "Ein kleines Einkaufszentrum im Zentrum für alles Notwendige."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Szerezzen be kiegészítőket vagy egy gyors javítást a helyi kerékpárboltok egyikében."
+          },
+          {
+            "name": "Småstaden",
+            "tip": "Egy kis bevásárlóközpont a központban minden szükséges dologhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Luați accesorii sau o reparație rapidă de la unul dintre magazinele locale de biciclete."
+          },
+          {
+            "name": "Småstaden",
+            "tip": "Un mic centru comercial în centru pentru toate necesitățile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Pick up accessories or a quick fix from one of the local bike shops."
+          },
+          {
+            "name": "Småstaden",
+            "tip": "A small shopping galleria in the centre for any necessities."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad bei einem lokalen Anbieter, falls Sie keins haben.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, besonders am Abend.",
+          "Viele Wege sind flach und einfach zu befahren.",
+          "Planen Sie zusätzliche Zeit für unvorhergesehene Stopps ein, um die Landschaft zu genießen."
+        ],
+        "hu": [
+          "Béreljen biciklit egy helyi szolgáltatónál, ha nincs sajátja.",
+          "Viseljen sisakot és használjon lámpákat, különösen este.",
+          "Sok út sík és könnyen járható.",
+          "Tervezzen plusz időt a váratlan megállókra, hogy élvezze a tájat."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la un furnizor local dacă nu aveți una.",
+          "Purtați cască și folosiți lumini, mai ales seara.",
+          "Multe trasee sunt plate și ușor de parcurs.",
+          "Planificați timp suplimentar pentru opriri neprevăzute pentru a admira peisajul."
+        ],
+        "en": [
+          "Rent a bike from a local provider if you don't have one.",
+          "Wear a helmet and use lights, especially in the evening.",
+          "Many paths are flat and easy to navigate.",
+          "Plan for extra time for unplanned stops to enjoy the scenery."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 42.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pite Havsbad",
+            "hu": "Pite Havsbad",
+            "ro": "Pite Havsbad",
+            "en": "Pite Havsbad"
+          },
+          "coords": [
+            65.275,
+            21.58
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Auch bekannt als die 'Riviera des Nordens'. Perfekt für einen langen Strandspaziergang.",
+            "hu": "Az 'Észak Riviérájaként' is ismert. Tökéletes egy hosszú tengerparti sétához.",
+            "ro": "Cunoscută și sub numele de 'Riviera Nordului'. Perfectă pentru o plimbare lungă pe plajă.",
+            "en": "Also known as the 'Riviera of the North'. Perfect for a long beach walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Öjeby Kyrkstad",
+            "hu": "Öjeby templomváros",
+            "ro": "Orașul-biserică Öjeby",
+            "en": "Öjeby Church Town"
+          },
+          "coords": [
+            65.33,
+            21.4
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie außerhalb des historischen Bereichs und nehmen Sie sich Zeit, die Atmosphäre aufzusaugen.",
+            "hu": "Parkoljon a történelmi területen kívül, és szánjon időt a hangulat befogadására.",
+            "ro": "Parcați în afara zonei istorice și luați-vă timp pentru a absorbi atmosfera.",
+            "en": "Park outside the historic area and take your time to soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Centre"
+          },
+          "coords": [
+            65.317,
+            21.483
+          ],
+          "category": "gastro",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und erkunden Sie die Restaurants rund um den Byxtorget-Platz.",
+            "hu": "Parkolja le az autót, és fedezze fel az éttermeket a Byxtorget tér körül.",
+            "ro": "Parcați mașina și explorați restaurantele din jurul pieței Byxtorget.",
+            "en": "Park your car and explore the restaurants around Byxtorget square."
+          }
+        },
+        {
+          "name": {
+            "de": "Piteå Stadskyrka",
+            "hu": "Piteå városi templom",
+            "ro": "Biserica orașului Piteå",
+            "en": "Piteå City Church"
+          },
+          "coords": [
+            65.3165,
+            21.4811
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Mittagessen entfernt.",
+            "hu": "Egy rövid séta az ebéd helyszínétől.",
+            "ro": "O scurtă plimbare de la locul de prânz.",
+            "en": "A short walk from your lunch spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Badhusparken",
+            "hu": "Badhusparken",
+            "ro": "Parcul Badhus",
+            "en": "Badhusparken"
+          },
+          "coords": [
+            65.315,
+            21.476
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen Verdauungsspaziergang entlang des Flusses.",
+            "hu": "Tegyen egy emésztést segítő sétát a folyó mentén.",
+            "ro": "Faceți o plimbare digestivă de-a lungul râului.",
+            "en": "Take a digestive stroll along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Stormyrberget",
+            "hu": "Stormyrberget",
+            "ro": "Stormyrberget",
+            "en": "Stormyrberget"
+          },
+          "coords": [
+            65.35,
+            21.45
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "18:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag mit einem Panoramablick auf den Sonnenuntergang zu beenden.",
+            "hu": "Tökéletes hely a nap befejezéséhez egy panorámás naplementével.",
+            "ro": "Locul perfect pentru a încheia ziua cu o vedere panoramică la apus.",
+            "en": "The perfect place to end the day with a panoramic sunset view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt zum Pite Havsbad, der Riviera des Nordens, für einen ausgedehnten Morgenspaziergang am Strand. Fahren Sie mittags weiter zur historischen Kirchenstadt Öjeby und genießen Sie die einzigartige Atmosphäre. Nach dem Mittagessen im Stadtzentrum von Piteå erkunden Sie zu Fuß die nahegelegene Stadtkirche und den Badhusparken. Beenden Sie Ihren Tag mit einer kurzen Fahrt zum Stormyrberget, um einen atemberaubenden Sonnenuntergang über der Landschaft zu erleben.",
+        "hu": "Kezdje a napot egy autózással a Pite Havsbadhoz, az Észak Riviérájához, egy hosszú reggeli tengerparti sétára. Délben hajtson tovább a történelmi Öjeby templomvárosba, és élvezze az egyedülálló hangulatot. Miután megebédelt Piteå központjában, fedezze fel gyalog a közeli városi templomot és a Badhusparkent. A napot egy rövid autózással zárja a Stormyrbergethez, hogy egy lélegzetelállító naplementében gyönyörködhessen a táj felett.",
+        "ro": "Începeți ziua cu o călătorie cu mașina la Pite Havsbad, Riviera Nordului, pentru o plimbare lungă de dimineață pe plajă. La prânz, continuați spre orașul-biserică istoric Öjeby și bucurați-vă de atmosfera sa unică. După prânzul în centrul orașului Piteå, explorați pe jos biserica orașului din apropiere și Badhusparken. Încheiați-vă ziua cu o scurtă călătorie cu mașina spre Stormyrberget pentru a admira un apus de soare uluitor peste peisaj.",
+        "en": "Start your day with a drive to Pite Havsbad, the Riviera of the North, for a long morning beach walk. At midday, continue to the historic Öjeby church town and enjoy its unique atmosphere. After lunch in Piteå's city centre, explore the nearby city church and Badhusparken on foot. End your day with a short drive to Stormyrberget to catch a stunning sunset over the landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pitepalt",
+            "tip": "Suchen Sie nach einem traditionellen Restaurant wie 'Paltzerian', um dieses lokale Gericht zu probieren."
+          },
+          {
+            "name": "Elch- oder Rentierfleisch",
+            "tip": "Viele Restaurants bieten Gerichte mit lokalem Wild an."
+          },
+          {
+            "name": "Restaurant an der Küste",
+            "tip": "Genießen Sie frischen Fisch mit Aussicht in einem Restaurant am Pite Havsbad."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pitepalt",
+            "tip": "Keressen egy hagyományos éttermet, mint a 'Paltzerian', hogy megkóstolja ezt a helyi ételt."
+          },
+          {
+            "name": "Jávorszarvas- vagy rénszarvashús",
+            "tip": "Sok étterem kínál helyi vadhúsból készült ételeket."
+          },
+          {
+            "name": "Tengerparti étterem",
+            "tip": "Élvezze a friss halat kilátással egy Pite Havsbad-i étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pitepalt",
+            "tip": "Căutați un restaurant tradițional precum 'Paltzerian' pentru a încerca acest fel de mâncare local."
+          },
+          {
+            "name": "Carne de elan sau ren",
+            "tip": "Multe restaurante oferă preparate din vânat local."
+          },
+          {
+            "name": "Restaurant pe litoral",
+            "tip": "Bucurați-vă de pește proaspăt cu vedere la un restaurant de la Pite Havsbad."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pitepalt",
+            "tip": "Find a traditional restaurant like 'Paltzerian' to try this local dish."
+          },
+          {
+            "name": "Elk or Reindeer Meat",
+            "tip": "Many restaurants offer dishes featuring local game."
+          },
+          {
+            "name": "Seaside restaurant",
+            "tip": "Enjoy fresh fish with a view at a restaurant at Pite Havsbad."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stormyrberget",
+            "tip": "Ein atemberaubender Panoramablick und friedliche Wanderwege.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Strand von Pite Havsbad am frühen Morgen",
+            "tip": "Erleben Sie den Strand, bevor die Menschenmassen ankommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine ruhige Ecke in Öjeby",
+            "tip": "Finden Sie einen ruhigen Ort zwischen den alten Holzhäusern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stormyrberget",
+            "tip": "Lélegzetelállító panoráma és békés túraútvonalak.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pite Havsbad strand kora reggel",
+            "tip": "Tapasztalja meg a strandot, mielőtt a tömeg megérkezik.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendes sarok Öjebyben",
+            "tip": "Találjon egy csendes helyet a régi faházak között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stormyrberget",
+            "tip": "O vedere panoramică uluitoare și trasee de drumeție pașnice.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaja Pite Havsbad dimineața devreme",
+            "tip": "Experimentați plaja înainte de sosirea mulțimilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Un colț liniștit în Öjeby",
+            "tip": "Găsiți un loc liniștit printre casele vechi de lemn.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stormyrberget",
+            "tip": "A stunning panoramic view and peaceful hiking trails.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pite Havsbad beach in the early morning",
+            "tip": "Experience the beach before the crowds arrive.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet corner in Öjeby",
+            "tip": "Find a quiet spot among the old wooden houses.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf dem Land Ausschau nach Hofläden, die lokale Produkte verkaufen."
+          },
+          {
+            "name": "Souvenirs in Öjeby",
+            "tip": "Finden Sie einzigartige Handarbeiten und Souvenirs in der Kirchenstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmboltok",
+            "tip": "Vidéken keresse a helyi termékeket árusító farmboltokat."
+          },
+          {
+            "name": "Szuvenírek Öjebyben",
+            "tip": "Találjon egyedi kézműves termékeket és szuveníreket a templomvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine la fermă",
+            "tip": "Fiți atenți la magazinele de la fermă care vând produse locale în mediul rural."
+          },
+          {
+            "name": "Suveniruri în Öjeby",
+            "tip": "Găsiți obiecte de artizanat unice și suveniruri în orașul-biserică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Look out for farm shops selling local produce in the countryside."
+          },
+          {
+            "name": "Souvenirs in Öjeby",
+            "tip": "Find unique crafts and souvenirs in the church town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein GPS ist unerlässlich, um sich zwischen den Standorten zurechtzufinden.",
+          "Tanken Sie, bevor Sie die Stadt verlassen, da die Tankstellen auf dem Land rar sein können.",
+          "Planen Sie Ihre Route, um Staus zur Hauptverkehrszeit zu vermeiden."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "A GPS elengedhetetlen a helyszínek közötti navigáláshoz.",
+          "Tankoljon, mielőtt elhagyja a várost, mivel vidéken kevés lehet a benzinkút.",
+          "Tervezze meg az útvonalat a csúcsforgalmi dugók elkerülése érdekében."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare și taxele.",
+          "Un GPS este esențial pentru a naviga între locații.",
+          "Alimentați cu combustibil înainte de a părăsi orașul, deoarece benzinăriile pot fi rare la țară.",
+          "Planificați-vă traseul pentru a evita aglomerația la orele de vârf."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A GPS is essential for navigating between sites.",
+          "Fill up on fuel before leaving the city, as gas stations can be sparse in the countryside.",
+          "Plan your route to avoid peak hour traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 21.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Öjeby Kyrkstad",
+            "hu": "Öjeby templomváros",
+            "ro": "Orașul-biserică Öjeby",
+            "en": "Öjeby Church Town"
+          },
+          "coords": [
+            65.33,
+            21.4
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum und steigen Sie an der Haltestelle Öjebyn E4 aus.",
+            "hu": "Menjen busszal a városközpontból, és szálljon le az Öjebyn E4 megállónál.",
+            "ro": "Luați un autobuz din centrul orașului și coborâți la stația Öjebyn E4.",
+            "en": "Take a bus from the city centre and get off at the Öjebyn E4 stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Piteå busstation",
+            "hu": "Piteå buszpályaudvar",
+            "ro": "Autogara Piteå",
+            "en": "Piteå Bus Station"
+          },
+          "coords": [
+            65.318,
+            21.48
+          ],
+          "category": "transit_hub",
+          "arrive_at": "11:20",
+          "stay_min": 10,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Orientieren Sie sich hier für Ihren nächsten Spaziergang.",
+            "hu": "Tájékozódjon itt a következő sétájához.",
+            "ro": "Orientați-vă aici pentru următoarea plimbare.",
+            "en": "Get your bearings here for your next walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Piteå Stadskyrka",
+            "hu": "Piteå városi templom",
+            "ro": "Biserica orașului Piteå",
+            "en": "Piteå City Church"
+          },
+          "coords": [
+            65.3165,
+            21.4811
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Csak egy rövid séta a buszmegállótól.",
+            "ro": "La doar o scurtă plimbare de stația de autobuz.",
+            "en": "Just a short walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Piteå Museum und Mittagessen",
+            "hu": "Piteå Múzeum és ebéd",
+            "ro": "Muzeul Piteå și prânz",
+            "en": "Piteå Museum and Lunch"
+          },
+          "coords": [
+            65.3178,
+            21.4825
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Museumsbesuch mit einem Mittagessen in einem nahegelegenen Café.",
+            "hu": "Kombinálja a múzeumlátogatást egy ebéddel egy közeli kávézóban.",
+            "ro": "Combinați vizita la muzeu cu prânzul la o cafenea din apropiere.",
+            "en": "Combine the museum visit with lunch at a nearby café."
+          }
+        },
+        {
+          "name": {
+            "de": "Pite Havsbad",
+            "hu": "Pite Havsbad",
+            "ro": "Pite Havsbad",
+            "en": "Pite Havsbad"
+          },
+          "coords": [
+            65.275,
+            21.58
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 165,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus von der Piteå Busstation zum Strand für einen entspannten Nachmittag.",
+            "hu": "Menjen busszal a Piteå buszpályaudvarról a strandra egy pihentető délutánért.",
+            "ro": "Luați un autobuz de la autogara Piteå la plajă pentru o după-amiază relaxantă.",
+            "en": "Take a bus from Piteå Bus Station to the beach for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Busfahrt zur historischen Kirchenstadt Öjeby. Nach der Erkundung kehren Sie ins Zentrum von Piteå zurück. Dort können Sie einen Spaziergang zur Stadtkirche und zum Piteå Museum machen und zu Mittag essen. Am Nachmittag nehmen Sie einen weiteren Bus zum berühmten Pite Havsbad, wo Sie am Sandstrand entspannen oder spazieren gehen können, bevor Sie in die Stadt zurückkehren.",
+        "hu": "Kezdje a napot egy buszozással a történelmi Öjeby templomvárosba. A felfedezés után térjen vissza Piteå központjába. Itt sétáljon el a városi templomhoz és a Piteå Múzeumba, majd ebédeljen. Délután szálljon fel egy másik buszra a híres Pite Havsbad felé, ahol pihenhet vagy sétálhat a homokos tengerparton, mielőtt visszatér a városba.",
+        "ro": "Începeți ziua cu o călătorie cu autobuzul spre orașul-biserică istoric Öjeby. După explorare, reveniți în centrul orașului Piteå. Aici, faceți o plimbare până la biserica orașului și Muzeul Piteå și luați prânzul. După-amiaza, luați un alt autobuz spre faimoasa Pite Havsbad, unde vă puteți relaxa sau plimba pe plaja cu nisip înainte de a vă întoarce în oraș.",
+        "en": "Start your day with a bus ride to the historic Öjeby church town. After exploring, return to the centre of Piteå. Here, you can take a walk to the city church and Piteå Museum, and have lunch. In the afternoon, catch another bus to the famous Pite Havsbad, where you can relax or stroll on the sandy beach before heading back to the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pitepalt",
+            "tip": "Suchen Sie es in einem Restaurant im Stadtzentrum in der Nähe der Bushaltestelle."
+          },
+          {
+            "name": "Sandwich zum Mitnehmen",
+            "tip": "Kaufen Sie ein Sandwich, bevor Sie den Bus zum Strand nehmen."
+          },
+          {
+            "name": "Eis am Pite Havsbad",
+            "tip": "Gönnen Sie sich nach Ihrem Strandspaziergang ein Eis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pitepalt",
+            "tip": "Keresse a buszmegálló közelében, a belváros egyik éttermében."
+          },
+          {
+            "name": "Elvihető szendvics",
+            "tip": "Vegyél egy szendvicset, mielőtt buszra szállsz a strandra."
+          },
+          {
+            "name": "Fagylalt a Pite Havsbad-nál",
+            "tip": "Kényeztesse magát egy fagyival a tengerparti séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pitepalt",
+            "tip": "Căutați-l într-un restaurant din centrul orașului, lângă stația de autobuz."
+          },
+          {
+            "name": "Sandviș la pachet",
+            "tip": "Luați un sandviș înainte de a lua autobuzul spre plajă."
+          },
+          {
+            "name": "Înghețată la Pite Havsbad",
+            "tip": "Răsfățați-vă cu o înghețată după plimbarea pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pitepalt",
+            "tip": "Look for it in a city centre restaurant near the bus station."
+          },
+          {
+            "name": "Take-away sandwich",
+            "tip": "Grab a sandwich before you take the bus to the beach."
+          },
+          {
+            "name": "Ice cream at Pite Havsbad",
+            "tip": "Treat yourself to an ice cream after your beach walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Landschaft",
+            "tip": "Genießen Sie die Aussicht auf die nordschwedische Landschaft vom Busfenster aus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine ruhige Ecke am Pite Havsbad",
+            "tip": "Gehen Sie weiter den Strand entlang, um den Menschenmassen zu entkommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Stille in Öjeby",
+            "tip": "Finden Sie einen Moment der Ruhe in der historischen Kirchenstadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a vidéken",
+            "tip": "Élvezze az észak-svéd táj látványát a busz ablakából.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendes sarok a Pite Havsbad-nál",
+            "tip": "Sétáljon tovább a tengerparton, hogy elkerülje a tömeget.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Csend Öjebyben",
+            "tip": "Találjon egy pillanatnyi nyugalmat a történelmi templomvárosban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin peisajul rural",
+            "tip": "Bucurați-vă de priveliștile peisajului nordic suedez de la fereastra autobuzului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Un colț liniștit la Pite Havsbad",
+            "tip": "Mergeți mai departe pe plajă pentru a scăpa de mulțime.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Liniștea din Öjeby",
+            "tip": "Găsiți un moment de liniște în orașul-biserică istoric.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the countryside",
+            "tip": "Enjoy the views of the northern Swedish landscape from the bus window.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet corner at Pite Havsbad",
+            "tip": "Walk further down the beach to escape the crowds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The silence in Öjeby",
+            "tip": "Find a moment of peace in the historic church town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk an der Bushaltestelle",
+            "tip": "Kaufen Sie Getränke und Snacks für Ihre Busfahrten."
+          },
+          {
+            "name": "Geschäfte in der Innenstadt",
+            "tip": "Stöbern Sie in den Geschäften in der Nähe des Busbahnhofs, während Sie auf Ihren nächsten Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszmegállóban",
+            "tip": "Vásároljon italokat és rágcsálnivalókat a buszútra."
+          },
+          {
+            "name": "Belvárosi üzletek",
+            "tip": "Böngésszen a buszpályaudvar közelében lévő üzletekben, amíg a következő buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la stația de autobuz",
+            "tip": "Cumpărați băuturi și gustări pentru călătoriile cu autobuzul."
+          },
+          {
+            "name": "Magazine din centrul orașului",
+            "tip": "Răsfoiți magazinele de lângă autogară în timp ce așteptați următorul autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy drinks and snacks for your bus journeys."
+          },
+          {
+            "name": "City centre shops",
+            "tip": "Browse the shops near the bus station while waiting for your next bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Beachten Sie, dass die Busse am Wochenende seltener fahren.",
+          "Seien Sie pünktlich an der Haltestelle, besonders bei weniger frequentierten Linien."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "Vegye figyelembe, hogy a buszok hétvégén ritkábban közlekednek.",
+          "Érkezzen időben a megállóba, különösen a ritkábban járt vonalakon."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz pentru a economisi bani.",
+          "Descărcați aplicația locală de transport public pentru orare și rute în timp real.",
+          "Rețineți că autobuzele pot circula mai rar în weekend.",
+          "Fiți la stație la timp, mai ales pentru rutele mai puțin frecvente."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Download the local public transport app for real-time schedules and routes.",
+          "Be aware that buses may run less frequently on weekends.",
+          "Be at the stop on time, especially for less frequent routes."
+        ]
+      }
+    }
+  }
+}

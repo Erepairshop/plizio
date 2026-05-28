@@ -1,0 +1,1470 @@
+{
+  "city_id": "bosniaherzegovina-travnik-cities-v2",
+  "anchor": {
+    "name": "Travnik",
+    "coords": [
+      17.6658,
+      44.2264
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plava Voda",
+            "hu": "Plava Voda (Kék Víz)",
+            "ro": "Plava Voda (Apa Albastră)",
+            "en": "Plava Voda (Blue Water)"
+          },
+          "coords": [
+            17.6605,
+            44.226
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem bosnischen Kaffee in einem der Cafés am Wasser.",
+            "hu": "Kezdje a napot egy bosnyák kávéval a vízparti kávézók egyikében.",
+            "ro": "Începeți ziua cu o cafea bosniacă la una dintre cafenelele de lângă apă.",
+            "en": "Start your day with a Bosnian coffee at one of the cafes by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Geburtshaus von Ivo Andrić",
+            "hu": "Ivo Andrić szülőháza",
+            "ro": "Casa natală a lui Ivo Andrić",
+            "en": "Birthplace of Ivo Andrić"
+          },
+          "coords": [
+            17.6633,
+            44.2251
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss für Literaturliebhaber, um mehr über den Nobelpreisträger zu erfahren.",
+            "hu": "Irodalomkedvelőknek kötelező, hogy többet tudjanak meg a Nobel-díjas íróról.",
+            "ro": "O vizită obligatorie pentru iubitorii de literatură, pentru a afla mai multe despre laureatul Nobel.",
+            "en": "A must-visit for literature lovers to learn about the Nobel laureate."
+          }
+        },
+        {
+          "name": {
+            "de": "Sulejmanija-Moschee (Bunte Moschee)",
+            "hu": "Szulejmán-mecset (Tarka mecset)",
+            "ro": "Moscheea Sulejmanija (Moscheea Colorată)",
+            "en": "Sulejmanija Mosque (Painted Mosque)"
+          },
+          "coords": [
+            17.6668,
+            44.2245
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die einzigartigen floralen Wandmalereien, die für osmanische Moscheen untypisch sind.",
+            "hu": "Figyelje meg az egyedi virágos falfestményeket, amelyek atipikusak az oszmán mecsetekre.",
+            "ro": "Observați picturile murale florale unice, atipice pentru moscheile otomane.",
+            "en": "Notice the unique floral murals, which are atypical for Ottoman mosques."
+          }
+        },
+        {
+          "name": {
+            "de": "Elči Ibrahim-paša Medresa",
+            "hu": "Elči Ibrahim-paša medresze",
+            "ro": "Medresa Elči Ibrahim-paša",
+            "en": "Elči Ibrahim-paša Madrasah"
+          },
+          "coords": [
+            17.6681,
+            44.2272
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die osmanische Architektur und die friedliche Atmosphäre des Innenhofs.",
+            "hu": "Csodálja meg az oszmán építészetet és az udvar békés hangulatát.",
+            "ro": "Admirați arhitectura otomană și atmosfera liniștită a curții interioare.",
+            "en": "Admire the Ottoman architecture and the peaceful atmosphere of the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung von Travnik",
+            "hu": "Travniki vár",
+            "ro": "Cetatea din Travnik",
+            "en": "Travnik Fortress"
+          },
+          "coords": [
+            17.6675,
+            44.2289
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die beste Aussicht auf die Stadt und das Lašva-Tal.",
+            "hu": "Megéri felmászni a városra és a Lašva-völgyre nyíló legjobb kilátásért.",
+            "ro": "Urcușul merită pentru cea mai bună priveliște asupra orașului și a văii Lašva.",
+            "en": "The climb is worth it for the best views of the city and the Lašva Valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm Gornja Čaršija",
+            "hu": "Gornja Čaršija óratorony",
+            "ro": "Turnul cu ceas Gornja Čaršija",
+            "en": "Gornja Čaršija Clock Tower"
+          },
+          "coords": [
+            17.6695,
+            44.2281
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:39",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser Turm befindet sich in der Nähe der Festung und ist ein schnelles Foto wert.",
+            "hu": "Ez a torony a vár közelében található, és megér egy gyors fotót.",
+            "ro": "Acest turn este situat lângă fortăreață și merită o fotografie rapidă.",
+            "en": "Located near the fortress, this tower is worth a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Jeni-Moschee",
+            "hu": "Jeni-mecset",
+            "ro": "Moscheea Jeni",
+            "en": "Jeni Mosque"
+          },
+          "coords": [
+            17.671,
+            44.2275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eine der ältesten Moscheen der Stadt, die für ihre klassische osmanische Bauweise bekannt ist.",
+            "hu": "A város egyik legrégebbi mecsete, amely klasszikus oszmán stílusáról ismert.",
+            "ro": "Una dintre cele mai vechi moschei din oraș, cunoscută pentru designul său otoman clasic.",
+            "en": "One of the oldest mosques in the city, known for its classical Ottoman design."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Travnik beginnt am idyllischen Plava Voda. Am Vormittag tauchen Sie in die literarische Seele der Stadt im Geburtshaus von Ivo Andrić ein, gefolgt von der farbenfrohen Pracht der Sulejmanija-Moschee. Der Mittag führt Sie zur historischen Elči Ibrahim-paša Medresa und gipfelt im Aufstieg zur mächtigen Festung, die einen atemberaubenden Blick über die osmanische Stadtlandschaft bietet. Der Nachmittag ist den Wahrzeichen gewidmet: den alten Uhrtürmen und der ruhigen Jeni-Moschee, die die reiche Geschichte Travniks widerspiegeln. Der Abend ist perfekt, um in einem traditionellen Restaurant Ćevapi zu genießen und den Tag ausklingen zu lassen.",
+        "hu": "Sétája Travnikban az idilli Plava Vodánál kezdődik. A délelőtt folyamán elmerül a város irodalmi lelkében Ivo Andrić szülőházában, majd a Szulejmán-mecset színpompás ragyogásában gyönyörködhet. Délben az Elči Ibrahim-paša medreszéhez látogat, majd megmássza a hatalmas erődöt, ahonnan lenyűgöző kilátás nyílik az oszmán városra. A délután a város jelképeiről, az ősi óratornyokról és a csendes Jeni-mecsetről szól, amelyek Travnik gazdag történelmét tükrözik. Az este tökéletes alkalom a nap lezárására egy hagyományos étteremben, ahol megkóstolhatja a csevapot.",
+        "ro": "Plimbarea dvs. prin Travnik începe la idilica Plava Voda. Dimineața, vă veți cufunda în sufletul literar al orașului la casa natală a lui Ivo Andrić, urmată de splendoarea colorată a Moscheii Sulejmanija. Amiaza vă duce la istorica Medresă Elči Ibrahim-paša și culminează cu urcarea la fortăreața impunătoare, care oferă vederi uluitoare asupra peisajului urban otoman. După-amiaza este dedicată reperelor, vechilor turnuri cu ceas și liniștitei Moschee Jeni, reflectând istoria bogată a Travnikului. Seara este perfectă pentru a savura Ćevapi la un restaurant tradițional și a încheia ziua.",
+        "en": "Your walking tour of Travnik begins at the idyllic Plava Voda. In the morning, delve into the city's literary soul at Ivo Andrić's birthplace, followed by the colorful splendor of the Sulejmanija Mosque. Midday takes you to the historic Elči Ibrahim-paša Madrasah and culminates in the ascent to the mighty fortress, offering breathtaking views over the Ottoman townscape. The afternoon is for landmarks, exploring the ancient clock towers and the serene Jeni Mosque, which reflect Travnik's rich history. The evening is perfect for enjoying some Ćevapi at a traditional restaurant to cap off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Probieren Sie die lokale Version dieses bosnischen Nationalgerichts, oft mit Travnik-Käse serviert."
+          },
+          {
+            "name": "Travnički Sir",
+            "tip": "Ein salziger, weißer Käse, der eine lokale Spezialität ist. Suchen Sie ihn in Restaurants und auf Märkten."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "Ein großes, gewürztes Fleisch-Patty, ähnlich einem Burger, serviert in einem Fladenbrot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csevap",
+            "tip": "Kóstolja meg ennek a bosnyák nemzeti ételnek a helyi változatát, amelyet gyakran travniki sajttal tálalnak."
+          },
+          {
+            "name": "Travniki sajt",
+            "tip": "Sós, fehér sajt, amely helyi specialitás. Keresse az éttermekben és a piacokon."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "Nagy, fűszeres húspogácsa, hamburgerhez hasonló, lepénykenyérben tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Încercați versiunea locală a acestui fel de mâncare național bosniac, adesea servit cu brânză de Travnik."
+          },
+          {
+            "name": "Brânză de Travnik (Travnički Sir)",
+            "tip": "O brânză albă și sărată, care este o specialitate locală. Căutați-o în restaurante și piețe."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "O chiftea mare și condimentată, similară unui burger, servită într-o lipie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Try the local version of this Bosnian national dish, often served with Travnik cheese."
+          },
+          {
+            "name": "Travnik Cheese (Travnički Sir)",
+            "tip": "A salty, white cheese that is a local specialty. Look for it in restaurants and markets."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "A large, spiced meat patty, similar to a burger, served in a flatbread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick von der Festung",
+            "tip": "Finden Sie eine ruhige Ecke auf den Mauern, um die Aussicht auf das Tal zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plava Voda am frühen Morgen",
+            "tip": "Erleben Sie die Ruhe des Ortes, bevor die Menschenmassen eintreffen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innenhof der Medresa",
+            "tip": "Der Innenhof der Schule ist eine Oase der Ruhe und Einkehr.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a várból",
+            "tip": "Keressen egy csendes zugot a falakon, hogy élvezze a völgyre nyíló kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plava Voda kora reggel",
+            "tip": "Tapasztalja meg a hely nyugalmát, mielőtt a tömeg megérkezik.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A medresze udvara",
+            "tip": "Az iskola udvara a béke és az elmélkedés oázisa.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Fortăreață",
+            "tip": "Găsiți un colț liniștit pe ziduri pentru a vă bucura de priveliștea asupra văii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plava Voda dimineața devreme",
+            "tip": "Experimentați liniștea locului înainte de sosirea mulțimilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Medresei",
+            "tip": "Curtea școlii este o oază de pace și contemplare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Fortress",
+            "tip": "Find a quiet corner on the walls to enjoy the view of the valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plava Voda in the early morning",
+            "tip": "Experience the tranquility of the spot before the crowds arrive.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of the Madrasah",
+            "tip": "The school's courtyard is an oasis of peace and contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Basar in der Altstadt",
+            "tip": "Suchen Sie nach handgefertigten Kupferwaren und traditioneller Töpferware."
+          },
+          {
+            "name": "Travnik-Käse",
+            "tip": "Kaufen Sie authentischen Travnički Sir direkt von lokalen Produzenten auf dem Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi bazár",
+            "tip": "Keressen kézzel készített réztárgyakat és hagyományos kerámiákat."
+          },
+          {
+            "name": "Travniki sajt",
+            "tip": "Vásároljon autentikus Travnički Sir-t közvetlenül a helyi termelőktől a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul din Orașul Vechi",
+            "tip": "Căutați obiecte de cupru lucrate manual și ceramică tradițională."
+          },
+          {
+            "name": "Brânză de Travnik",
+            "tip": "Cumpărați Travnički Sir autentic direct de la producătorii locali de la piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Bazaar",
+            "tip": "Look for handcrafted copper goods and traditional pottery."
+          },
+          {
+            "name": "Travnik Cheese",
+            "tip": "Buy authentic Travnički Sir directly from local producers at the market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Halten Sie etwas Bargeld (Bosnische Mark) für kleine Einkäufe und Eintrittsgelder bereit.",
+          "Achten Sie beim Betreten von Moscheen auf angemessene Kleidung.",
+          "Die Stadt ist kompakt, daher ist alles leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Tartson magánál némi készpénzt (bosnyák márka) a kisebb vásárlásokhoz és belépődíjakhoz.",
+          "Ügyeljen a megfelelő öltözékre a mecsetekbe való belépéskor.",
+          "A város kompakt, így minden könnyen elérhető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Aveți la îndemână numerar (mărci bosniace) pentru cumpărături mici și taxe de intrare.",
+          "Respectați codul vestimentar adecvat la intrarea în moschei.",
+          "Orașul este compact, așa că totul este ușor de explorat pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Keep some cash (Bosnian Marks) handy for small purchases and entrance fees.",
+          "Be mindful of appropriate dress code when entering mosques.",
+          "The city is compact, so everything is within easy walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plava Voda",
+            "hu": "Plava Voda (Kék Víz)",
+            "ro": "Plava Voda (Apa Albastră)",
+            "en": "Plava Voda (Blue Water)"
+          },
+          "coords": [
+            17.6605,
+            44.226
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein erfrischender Ort, um die Radtour zu beginnen. Schließen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre.",
+            "hu": "Frissítő hely a kerékpártúra megkezdéséhez. Zárja le a kerékpárját, és élvezze a hangulatot.",
+            "ro": "Un loc revigorant pentru a începe turul cu bicicleta. Asigurați-vă bicicleta și bucurați-vă de atmosferă.",
+            "en": "A refreshing spot to start the bike tour. Lock up your bike and enjoy the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Geburtshaus von Ivo Andrić",
+            "hu": "Ivo Andrić szülőháza",
+            "ro": "Casa natală a lui Ivo Andrić",
+            "en": "Birthplace of Ivo Andrić"
+          },
+          "coords": [
+            17.6633,
+            44.2251
+          ],
+          "category": "museums",
+          "arrive_at": "09:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad in der Nähe und tauchen Sie in das Leben des Autors ein.",
+            "hu": "Parkolja le a kerékpárját a közelben, és merüljön el az író életében.",
+            "ro": "Parcați bicicleta în apropiere și pătrundeți în viața autorului.",
+            "en": "Park your bike nearby and delve into the author's life."
+          }
+        },
+        {
+          "name": {
+            "de": "Sulejmanija-Moschee (Bunte Moschee)",
+            "hu": "Szulejmán-mecset (Tarka mecset)",
+            "ro": "Moscheea Sulejmanija (Moscheea Colorată)",
+            "en": "Sulejmanija Mosque (Painted Mosque)"
+          },
+          "coords": [
+            17.6668,
+            44.2245
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:46",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die farbenfrohen Wände sind ein großartiger Hintergrund für Fotos.",
+            "hu": "A színes falak remek hátteret biztosítanak a fotókhoz.",
+            "ro": "Pereții colorați sunt un fundal excelent pentru fotografii.",
+            "en": "The colorful walls make for a great photo backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Elči Ibrahim-paša Medresa",
+            "hu": "Elči Ibrahim-paša medresze",
+            "ro": "Medresa Elči Ibrahim-paša",
+            "en": "Elči Ibrahim-paša Madrasah"
+          },
+          "coords": [
+            17.6681,
+            44.2272
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für eine kurze Pause vom Radfahren.",
+            "hu": "Csendes hely egy rövid pihenőre a kerékpározásból.",
+            "ro": "Un loc liniștit pentru o scurtă pauză de la mersul pe bicicletă.",
+            "en": "A peaceful place for a short break from cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung von Travnik",
+            "hu": "Travniki vár",
+            "ro": "Cetatea din Travnik",
+            "en": "Travnik Fortress"
+          },
+          "coords": [
+            17.6675,
+            44.2289
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Seien Sie auf einen steilen Anstieg vorbereitet, aber die Aussicht ist die Mühe wert.",
+            "hu": "Készüljön fel egy meredek emelkedőre, de a kilátás megéri a fáradozást.",
+            "ro": "Fiți pregătiți pentru o urcare abruptă, dar priveliștea merită efortul.",
+            "en": "Be prepared for a steep climb, but the view is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm Gornja Čaršija",
+            "hu": "Gornja Čaršija óratorony",
+            "ro": "Turnul cu ceas Gornja Čaršija",
+            "en": "Gornja Čaršija Clock Tower"
+          },
+          "coords": [
+            17.6695,
+            44.2281
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp nach dem Abstieg von der Festung.",
+            "hu": "Rövid megálló a várból leereszkedve.",
+            "ro": "O oprire scurtă după coborârea de la fortăreață.",
+            "en": "A quick stop after descending from the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm Musala",
+            "hu": "Musala óratorony",
+            "ro": "Turnul cu ceas Musala",
+            "en": "Musala Clock Tower"
+          },
+          "coords": [
+            17.664,
+            44.2238
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:49",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der zweite Uhrturm der Stadt, der ein interessantes Fotomotiv bietet.",
+            "hu": "A város második óratornya, amely érdekes fotótémát kínál.",
+            "ro": "Al doilea turn cu ceas al orașului, care oferă un subiect interesant pentru fotografii.",
+            "en": "The city's second clock tower, offering an interesting photo opportunity."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Travnik beginnt erfrischend am Plava Voda. Am Vormittag radeln Sie durch die Geschichte, besuchen das Geburtshaus von Ivo Andrić und die farbenfrohe Sulejmanija-Moschee. Der Mittag bringt eine ruhige Pause in der Elči Ibrahim-paša Medresa, bevor Sie den anspruchsvollen, aber lohnenden Aufstieg zur Festung in Angriff nehmen, um die spektakuläre Aussicht zu genießen. Am Nachmittag erkunden Sie die beiden historischen Uhrtürme der Stadt, die von ihrer osmanischen Vergangenheit zeugen. Zum Abschluss des Tages können Sie in der Altstadt eine wohlverdiente Mahlzeit genießen.",
+        "hu": "Kerékpártúrája Travnikban a Plava Vodánál kezdődik frissítően. Délelőtt a történelmen keresztül teker, meglátogatja Ivo Andrić szülőházát és a színpompás Szulejmán-mecsetet. Délben egy csendes pihenőt tart az Elči Ibrahim-paša medreszében, mielőtt nekivágna a kihívást jelentő, de annál hálásabb emelkedőnek a várhoz, hogy élvezze a látványos kilátást. Délután a város két történelmi óratornyát fedezi fel, amelyek oszmán múltjáról tanúskodnak. A nap végén elfogyaszthat egy jól megérdemelt ételt az óvárosban.",
+        "ro": "Turul dvs. cu bicicleta prin Travnik începe revigorant la Plava Voda. Dimineața, pedalați prin istorie, vizitând casa natală a lui Ivo Andrić și colorata Moschee Sulejmanija. Amiaza aduce o pauză liniștită la Medresa Elči Ibrahim-paša înainte de a aborda urcarea provocatoare, dar plină de satisfacții, spre fortăreață pentru a vă bucura de priveliștile spectaculoase. După-amiaza, explorați cele două turnuri cu ceas istorice ale orașului, mărturii ale trecutului său otoman. La sfârșitul zilei, bucurați-vă de o masă binemeritată în orașul vechi.",
+        "en": "Your bike tour of Travnik starts refreshingly at Plava Voda. In the morning, cycle through history, visiting Ivo Andrić's birthplace and the colorful Sulejmanija Mosque. Midday brings a quiet break at the Elči Ibrahim-paša Madrasah before you tackle the challenging but rewarding climb to the fortress to enjoy the spectacular views. In the afternoon, explore the city's two historic clock towers, testaments to its Ottoman past. At the end of the day, enjoy a well-deserved meal in the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevabdžinica Hari",
+            "tip": "Gilt als einer der besten Orte für Ćevapi in ganz Bosnien."
+          },
+          {
+            "name": "Bosnische Pita",
+            "tip": "Ein herzhaftes Gebäck, gefüllt mit Fleisch (Burek), Käse (Sirnica) oder Spinat (Zeljanica)."
+          },
+          {
+            "name": "Kafa (Bosnischer Kaffee)",
+            "tip": "Genießen Sie das Ritual des langsam getrunkenen, starken Kaffees in einem der vielen Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevabdžinica Hari",
+            "tip": "Egész Bosznia egyik legjobb csevapozójának tartják."
+          },
+          {
+            "name": "Bosnyák pite",
+            "tip": "Sós péksütemény, hússal (burek), sajttal (sirnica) vagy spenóttal (zeljanica) töltve."
+          },
+          {
+            "name": "Kafa (bosnyák kávé)",
+            "tip": "Élvezze a lassan kortyolgatott, erős kávé rituáléját a sok kávézó egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevabdžinica Hari",
+            "tip": "Considerat unul dintre cele mai bune locuri pentru Ćevapi din întreaga Bosnia."
+          },
+          {
+            "name": "Pita bosniacă",
+            "tip": "O plăcintă sărată umplută cu carne (Burek), brânză (Sirnica) sau spanac (Zeljanica)."
+          },
+          {
+            "name": "Kafa (cafea bosniacă)",
+            "tip": "Bucurați-vă de ritualul cafelei tari, sorbită lent, la una dintre numeroasele cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevabdžinica Hari",
+            "tip": "Considered one of the best places for Ćevapi in all of Bosnia."
+          },
+          {
+            "name": "Bosnian Pita",
+            "tip": "A savory pastry filled with meat (Burek), cheese (Sirnica), or spinach (Zeljanica)."
+          },
+          {
+            "name": "Kafa (Bosnian Coffee)",
+            "tip": "Enjoy the ritual of the slow-sipped, strong coffee at one of the many cafes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festungsmauern",
+            "tip": "Nach dem Aufstieg finden Sie einen ruhigen Platz, um durchzuatmen und die Aussicht zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang entlang des Flusses Lašva",
+            "tip": "Eine entspannte Radtour entlang des Flusses bietet eine Pause vom Trubel der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jeni-Moschee",
+            "tip": "Der Bereich um die Moschee ist oft ruhig und friedlich.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várfalak",
+            "tip": "A mászás után keressen egy csendes helyet, ahol levegőt vehet és élvezheti a kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a Lašva folyó mentén",
+            "tip": "Egy pihentető kerékpártúra a folyó mentén szünetet nyújt a város nyüzsgésétől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jeni-mecset",
+            "tip": "A mecset környéke gyakran csendes és békés.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile fortăreței",
+            "tip": "După urcare, găsiți un loc liniștit pentru a vă trage sufletul și a admira priveliștea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul râului Lašva",
+            "tip": "O plimbare relaxantă cu bicicleta de-a lungul râului oferă o pauză de la agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Moscheea Jeni",
+            "tip": "Zona din jurul moscheii este adesea calmă și pașnică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress Walls",
+            "tip": "After the climb, find a quiet spot to catch your breath and enjoy the view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stroll along the Lašva River",
+            "tip": "A relaxing bike ride along the river offers a break from the city bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jeni Mosque",
+            "tip": "The area around the mosque is often quiet and peaceful.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Halten Sie Ausschau nach Geschäften, die handgeschnitzte Holzarbeiten verkaufen, eine weitere lokale Tradition."
+          },
+          {
+            "name": "Marktplatz",
+            "tip": "Ideal, um frische Produkte, Honig und den berühmten Travnik-Käse zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keresse azokat a boltokat, amelyek kézzel faragott faárut árulnak, ami egy másik helyi hagyomány."
+          },
+          {
+            "name": "Piactér",
+            "tip": "Ideális friss termékek, méz és a híres travniki sajt vásárlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați magazine care vând obiecte din lemn sculptate manual, o altă tradiție locală."
+          },
+          {
+            "name": "Piața",
+            "tip": "Ideal pentru a cumpăra produse proaspete, miere și faimoasa brânză de Travnik."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local artisan shops",
+            "tip": "Look for shops selling hand-carved wooden items, another local tradition."
+          },
+          {
+            "name": "Market Square",
+            "tip": "Ideal for buying fresh produce, honey, and the famous Travnik cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen für die Abfahrt von der Festung.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt Brunnen zum Auffüllen.",
+          "Einige Straßen können für Radfahrer eine Herausforderung sein; seien Sie vorsichtig im Verkehr.",
+          "Ein Fahrradschloss ist unerlässlich, wenn Sie die Sehenswürdigkeiten besuchen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket a várból való leereszkedéshez.",
+          "Vigyen magával újratölthető vizes palackot; vannak kutak a feltöltéshez.",
+          "Néhány utca kihívást jelenthet a kerékpárosok számára; legyen óvatos a forgalomban.",
+          "A kerékpárzár elengedhetetlen a látnivalók megtekintésekor."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele pentru coborârea de la fortăreață.",
+          "Luați o sticlă de apă reutilizabilă; există fântâni pentru a o reumple.",
+          "Unele străzi pot fi provocatoare pentru bicicliști; fiți precauți în trafic.",
+          "Un lacăt pentru bicicletă este esențial atunci când vizitați atracțiile."
+        ],
+        "en": [
+          "Check your bike before you start, especially the brakes for the descent from the fortress.",
+          "Bring a reusable water bottle; there are fountains to refill it.",
+          "Some streets can be challenging for cyclists; be careful in traffic.",
+          "A bike lock is essential for when you visit the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Festung von Travnik",
+            "hu": "Travniki vár",
+            "ro": "Cetatea din Travnik",
+            "en": "Travnik Fortress"
+          },
+          "coords": [
+            17.6675,
+            44.2289
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz in der Nähe der Festung, um den steilen Aufstieg zu vermeiden.",
+            "hu": "Hajtson a vár közelében lévő parkolóba, hogy elkerülje a meredek emelkedőt.",
+            "ro": "Conduceți până la parcarea de lângă fortăreață pentru a evita urcarea abruptă.",
+            "en": "Drive up to the parking area near the fortress to avoid the steep climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm Gornja Čaršija",
+            "hu": "Gornja Čaršija óratorony",
+            "ro": "Turnul cu ceas Gornja Čaršija",
+            "en": "Gornja Čaršija Clock Tower"
+          },
+          "coords": [
+            17.6695,
+            44.2281
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:43",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Festung. Der perfekte erste Stopp in Ihrem ersten Cluster.",
+            "hu": "Rövid séta a vártól. Tökéletes első megálló az első klaszterben.",
+            "ro": "O scurtă plimbare de la fortăreață. Prima oprire perfectă în primul dvs. cluster.",
+            "en": "A short walk from the fortress. The perfect first stop in your first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Elči Ibrahim-paša Medresa",
+            "hu": "Elči Ibrahim-paša medresze",
+            "ro": "Medresa Elči Ibrahim-paša",
+            "en": "Elči Ibrahim-paša Madrasah"
+          },
+          "coords": [
+            17.6681,
+            44.2272
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:02",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Ort zu Fuß, nachdem Sie von der Festung heruntergekommen sind.",
+            "hu": "Fedezze fel ezt a történelmi helyet gyalog, miután lejött a várból.",
+            "ro": "Explorați acest loc istoric pe jos după ce coborâți de la fortăreață.",
+            "en": "Explore this historic site on foot after coming down from the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Plava Voda",
+            "hu": "Plava Voda (Kék Víz)",
+            "ro": "Plava Voda (Apa Albastră)",
+            "en": "Plava Voda (Blue Water)"
+          },
+          "coords": [
+            17.6605,
+            44.226
+          ],
+          "category": "natural features",
+          "arrive_at": "12:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum und parken Sie. Plava Voda ist ideal für eine Mittagspause.",
+            "hu": "Hajtson a központba és parkoljon le. A Plava Voda ideális egy ebédszünetre.",
+            "ro": "Conduceți în centru și parcați. Plava Voda este ideală pentru o pauză de prânz.",
+            "en": "Drive to the center and park. Plava Voda is ideal for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Sulejmanija-Moschee (Bunte Moschee)",
+            "hu": "Szulejmán-mecset (Tarka mecset)",
+            "ro": "Moscheea Sulejmanija (Moscheea Colorată)",
+            "en": "Sulejmanija Mosque (Painted Mosque)"
+          },
+          "coords": [
+            17.6668,
+            44.2245
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Parkplatz aus leicht zu Fuß erreichbar. Ein Juwel der osmanischen Architektur.",
+            "hu": "A parkolóból könnyen megközelíthető gyalog. Az oszmán építészet gyöngyszeme.",
+            "ro": "Ușor accesibil pe jos din parcare. O bijuterie a arhitecturii otomane.",
+            "en": "Easily walkable from your parking spot. A gem of Ottoman architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Geburtshaus von Ivo Andrić",
+            "hu": "Ivo Andrić szülőháza",
+            "ro": "Casa natală a lui Ivo Andrić",
+            "en": "Birthplace of Ivo Andrić"
+          },
+          "coords": [
+            17.6633,
+            44.2251
+          ],
+          "category": "museums",
+          "arrive_at": "14:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt in Ihrem zweiten Wandercluster, bevor Sie zum Auto zurückkehren.",
+            "hu": "Az utolsó megálló a második gyalogos klaszterben, mielőtt visszatérne az autóhoz.",
+            "ro": "Ultima oprire în al doilea cluster de mers pe jos înainte de a vă întoarce la mașină.",
+            "en": "The final stop in your second walking cluster before heading back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Fahrt zur Festung Travnik, wo Sie parken und den ersten Cluster erkunden. Am Vormittag spazieren Sie von der Festung zum nahegelegenen Uhrturm und zur historischen Medresa. Mittags fahren Sie ins Stadtzentrum und parken für den zweiten Cluster. Genießen Sie ein Mittagessen am Plava Voda, bevor Sie am Nachmittag die farbenfrohe Sulejmanija-Moschee und das Geburtshaus von Ivo Andrić zu Fuß erkunden. Dieser geteilte Ansatz ermöglicht es Ihnen, die Höhepunkte der Stadt bequem mit dem Auto zu erreichen und gleichzeitig die historische Atmosphäre in zwei kompakten Spaziergängen zu erleben.",
+        "hu": "A nap a travniki várba való autózással kezdődik, ahol leparkol és felfedezi az első klasztert. Délelőtt a vártól a közeli óratoronyhoz és a történelmi medreszéhez sétál. Délben a városközpontba hajt és leparkol a második klaszterhez. Ebédeljen a Plava Vodánál, mielőtt délután gyalog felfedezné a színpompás Szulejmán-mecsetet és Ivo Andrić szülőházát. Ez a megosztott megközelítés lehetővé teszi, hogy kényelmesen elérje a város nevezetességeit autóval, miközben két kompakt sétán keresztül megtapasztalja a történelmi hangulatot.",
+        "ro": "Ziua dvs. începe cu o plimbare cu mașina până la Cetatea Travnik, unde parcați și explorați primul cluster. Dimineața, vă plimbați de la fortăreață la turnul cu ceas din apropiere și la medresa istorică. La prânz, conduceți în centrul orașului și parcați pentru al doilea cluster. Bucurați-vă de prânz la Plava Voda înainte de a explora pe jos colorata Moschee Sulejmanija și casa natală a lui Ivo Andrić după-amiaza. Această abordare împărțită vă permite să ajungeți confortabil la atracțiile orașului cu mașina, în timp ce experimentați atmosfera istorică în două plimbări compacte.",
+        "en": "Your day begins with a drive up to Travnik Fortress, where you'll park and explore the first cluster. In the morning, you'll walk from the fortress to the nearby clock tower and the historic madrasah. For midday, you drive down to the town center and park for the second cluster. Enjoy lunch at Plava Voda before exploring the colorful Sulejmanija Mosque and Ivo Andrić's birthplace on foot in the afternoon. This split approach allows you to comfortably reach the city's highlights by car while still experiencing the historic atmosphere in two compact walking tours."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Plava Voda",
+            "tip": "Genießen Sie frische Forellen und andere lokale Gerichte direkt an der Quelle."
+          },
+          {
+            "name": "Travnički Sir",
+            "tip": "Ein Muss. Dieser Schafskäse ist das kulinarische Aushängeschild der Region."
+          },
+          {
+            "name": "Lutvina Kahva",
+            "tip": "Eine historische Kaffeestube, perfekt für einen authentischen bosnischen Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plava Voda Étterem",
+            "tip": "Élvezze a friss pisztrángot és más helyi ételeket közvetlenül a forrásnál."
+          },
+          {
+            "name": "Travniki sajt",
+            "tip": "Kötelező. Ez a juhtúró a régió kulináris jelképe."
+          },
+          {
+            "name": "Lutvina Kahva",
+            "tip": "Történelmi kávézó, tökéletes egy autentikus bosnyák kávéhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Plava Voda",
+            "tip": "Bucurați-vă de păstrăv proaspăt și alte mâncăruri locale chiar la izvor."
+          },
+          {
+            "name": "Brânză de Travnik",
+            "tip": "O necesitate. Această brânză de oaie este emblema culinară a regiunii."
+          },
+          {
+            "name": "Lutvina Kahva",
+            "tip": "O cafenea istorică, perfectă pentru o cafea bosniacă autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Plava Voda",
+            "tip": "Enjoy fresh trout and other local dishes right by the source."
+          },
+          {
+            "name": "Travnik Cheese",
+            "tip": "A must-try. This sheep's milk cheese is the region's culinary emblem."
+          },
+          {
+            "name": "Lutvina Kahva",
+            "tip": "A historic coffee house, perfect for an authentic Bosnian coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festung bei Sonnenuntergang",
+            "tip": "Wenn Sie Ihren Besuch bis zum späten Nachmittag ausdehnen, ist dies der beste Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang am Fluss Lašva",
+            "tip": "Parken Sie Ihr Auto und machen Sie einen kurzen Spaziergang entlang des Flusses, um dem Trubel zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof der Jeni-Moschee",
+            "tip": "Ein oft übersehener Ort der Ruhe und des Friedens.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vár naplementekor",
+            "tip": "Ha késő délutánig nyújtja a látogatást, ez a legjobb hely a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Lašva folyó mentén",
+            "tip": "Parkolja le az autót, és tegyen egy rövid sétát a folyó mentén, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Jeni-mecset udvara",
+            "tip": "Gyakran figyelmen kívül hagyott, csendes és békés hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fortăreața la apus",
+            "tip": "Dacă vă prelungiți vizita până după-amiaza târziu, acesta este cel mai bun loc pentru apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare pe malul râului Lašva",
+            "tip": "Parcați mașina și faceți o scurtă plimbare de-a lungul râului pentru a scăpa de agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Moscheii Jeni",
+            "tip": "Un loc de liniște și pace adesea trecut cu vederea.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress at sunset",
+            "tip": "If you extend your visit until late afternoon, this is the best spot for sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk by the Lašva River",
+            "tip": "Park your car and take a short walk along the river to escape the hustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jeni Mosque courtyard",
+            "tip": "An often-overlooked spot of quiet and peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt in der Nähe von Plava Voda",
+            "tip": "Hier finden Sie lokale Produkte, darunter den berühmten Travnik-Käse."
+          },
+          {
+            "name": "Handwerksläden in der Altstadt",
+            "tip": "Suchen Sie nach handgefertigten Souvenirs, nachdem Sie Ihr Auto geparkt haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac a Plava Voda közelében",
+            "tip": "Itt helyi termékeket talál, beleértve a híres travniki sajtot is."
+          },
+          {
+            "name": "Kézműves boltok az óvárosban",
+            "tip": "Keressen kézzel készített ajándéktárgyakat, miután leparkolta az autót."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de lângă Plava Voda",
+            "tip": "Aici veți găsi produse locale, inclusiv faimoasa brânză de Travnik."
+          },
+          {
+            "name": "Magazine de artizanat din Orașul Vechi",
+            "tip": "Căutați suveniruri lucrate manual după ce parcați mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market near Plava Voda",
+            "tip": "You'll find local produce here, including the famous Travnik cheese."
+          },
+          {
+            "name": "Artisan shops in the Old Town",
+            "tip": "Look for handmade souvenirs after you park your car."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum eine Herausforderung sein; suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Die Straßen in der Altstadt sind eng, fahren Sie langsam und vorsichtig.",
+          "Die Cluster-Walking-Strategie spart Zeit und Stress bei der Parkplatzsuche.",
+          "Ein Auto ermöglicht es Ihnen auch, leicht nahegelegene Sehenswürdigkeiten außerhalb der Stadt zu besuchen, falls Sie Zeit haben."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a városközpontban; keressen kijelölt parkolóhelyeket.",
+          "Az óváros utcái szűkek, vezessen lassan és óvatosan.",
+          "A klaszteres séta stratégia időt és parkolóhely-keresési stresszt takarít meg.",
+          "Az autó lehetővé teszi, hogy könnyen meglátogasson a városon kívüli közeli látnivalókat is, ha van ideje."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centrul orașului; căutați parcări amenajate.",
+          "Străzile din orașul vechi sunt înguste, conduceți încet și cu atenție.",
+          "Strategia de mers pe jos în clustere economisește timp și stresul căutării unui loc de parcare.",
+          "O mașină vă permite, de asemenea, să vizitați cu ușurință atracțiile din apropiere, în afara orașului, dacă aveți timp."
+        ],
+        "en": [
+          "Parking can be challenging in the city center; look for designated car parks.",
+          "The streets in the old town are narrow, drive slowly and carefully.",
+          "The cluster-walking strategy saves time and the stress of finding parking.",
+          "A car also allows you to easily visit nearby attractions outside the city if you have time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plava Voda",
+            "hu": "Plava Voda (Kék Víz)",
+            "ro": "Plava Voda (Apa Albastră)",
+            "en": "Plava Voda (Blue Water)"
+          },
+          "coords": [
+            17.6605,
+            44.226
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem zentralen Punkt, der von vielen Buslinien angefahren wird.",
+            "hu": "Kezdje a napot ezen a központi ponton, amelyet számos buszjárat érint.",
+            "ro": "Începeți ziua în acest punct central, deservit de multe linii de autobuz.",
+            "en": "Start your day at this central point, served by many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Sulejmanija-Moschee (Bunte Moschee)",
+            "hu": "Szulejmán-mecset (Tarka mecset)",
+            "ro": "Moscheea Sulejmanija (Moscheea Colorată)",
+            "en": "Sulejmanija Mosque (Painted Mosque)"
+          },
+          "coords": [
+            17.6668,
+            44.2245
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Plava Voda durch die Altstadt.",
+            "hu": "Rövid séta a Plava Vodától az óvároson keresztül.",
+            "ro": "O scurtă plimbare de la Plava Voda prin orașul vechi.",
+            "en": "A short walk from Plava Voda through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Geburtshaus von Ivo Andrić",
+            "hu": "Ivo Andrić szülőháza",
+            "ro": "Casa natală a lui Ivo Andrić",
+            "en": "Birthplace of Ivo Andrić"
+          },
+          "coords": [
+            17.6633,
+            44.2251
+          ],
+          "category": "museums",
+          "arrive_at": "10:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren ersten Wandercluster hier, bevor Sie den Bus nehmen.",
+            "hu": "Fejezze be itt az első gyalogos klasztert, mielőtt buszra szállna.",
+            "ro": "Încheiați primul cluster de mers pe jos aici înainte de a lua autobuzul.",
+            "en": "Finish your first walking cluster here before taking the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung von Travnik",
+            "hu": "Travniki vár",
+            "ro": "Cetatea din Travnik",
+            "en": "Travnik Fortress"
+          },
+          "coords": [
+            17.6675,
+            44.2289
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:09",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus in Richtung Festung, um den steilen Aufstieg zu erleichtern.",
+            "hu": "Vegyen egy helyi buszt a vár felé, hogy megkönnyítse a meredek emelkedőt.",
+            "ro": "Luați un autobuz local spre fortăreață pentru a ușura urcarea abruptă.",
+            "en": "Take a local bus towards the fortress to ease the steep climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Elči Ibrahim-paša Medresa",
+            "hu": "Elči Ibrahim-paša medresze",
+            "ro": "Medresa Elči Ibrahim-paša",
+            "en": "Elči Ibrahim-paša Madrasah"
+          },
+          "coords": [
+            17.6681,
+            44.2272
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:47",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Besuch der Festung leicht zu Fuß erreichbar.",
+            "hu": "A vár látogatása után könnyen megközelíthető gyalog.",
+            "ro": "Ușor accesibil pe jos după vizitarea fortăreței.",
+            "en": "Easily walkable after visiting the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Jeni-Moschee",
+            "hu": "Jeni-mecset",
+            "ro": "Moscheea Jeni",
+            "en": "Jeni Mosque"
+          },
+          "coords": [
+            17.671,
+            44.2275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss für Ihren zweiten Wandercluster in der Nähe der Festung.",
+            "hu": "Szép befejezése a második gyalogos klaszternek a vár közelében.",
+            "ro": "O încheiere frumoasă pentru al doilea cluster de mers pe jos lângă fortăreață.",
+            "en": "A nice end to your second walking cluster near the fortress."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Travnik beginnt im Herzen der Stadt, am Plava Voda. Der erste Cluster am Vormittag ist ein Spaziergang, bei dem Sie die Sulejmanija-Moschee und das Geburtshaus von Ivo Andrić erkunden. Gegen Mittag nehmen Sie einen Bus, der Sie bequem zum zweiten Cluster bringt: der majestätischen Festung. Nach der Erkundung der Festungsmauern spazieren Sie am Nachmittag zur nahegelegenen Medresa und der Jeni-Moschee. Diese Methode kombiniert entspannte Spaziergänge in den historischen Vierteln mit der Effizienz des öffentlichen Nahverkehrs, um den steilen Hügel zur Festung zu überwinden und so einen umfassenden und angenehmen Tag zu gewährleisten.",
+        "hu": "Travniki napja a város szívében, a Plava Vodánál kezdődik. A délelőtti első klaszter egy séta, amely során felfedezi a Szulejmán-mecsetet és Ivo Andrić szülőházát. Dél körül busszal kényelmesen eljut a második klaszterhez: a fenséges várhoz. A várfalak felfedezése után délután a közeli medreszéhez és a Jeni-mecsethez sétál. Ez a módszer ötvözi a történelmi negyedekben tett pihentető sétákat a tömegközlekedés hatékonyságával, hogy leküzdje a várhoz vezető meredek dombot, így biztosítva egy átfogó és kellemes napot.",
+        "ro": "Ziua dvs. în Travnik începe în inima orașului, la Plava Voda. Primul cluster de dimineață este o plimbare, explorând Moscheea Sulejmanija și casa natală a lui Ivo Andrić. În jurul prânzului, luați un autobuz care vă duce convenabil la al doilea cluster: fortăreața maiestuoasă. După ce explorați zidurile fortăreței, vă plimbați după-amiaza la medresa din apropiere și la Moscheea Jeni. Această metodă combină plimbările relaxante prin cartierele istorice cu eficiența transportului public pentru a depăși dealul abrupt spre fortăreață, asigurând o zi cuprinzătoare și plăcută.",
+        "en": "Your day in Travnik starts in the heart of the city at Plava Voda. The first morning cluster is a walking tour, exploring the Sulejmanija Mosque and Ivo Andrić's birthplace. Around midday, you take a bus that conveniently brings you to the second cluster: the majestic fortress. After exploring the fortress walls, you'll walk to the nearby madrasah and the Jeni Mosque in the afternoon. This method combines relaxed walks in the historic quarters with the efficiency of public transport to tackle the steep hill to the fortress, ensuring a comprehensive and enjoyable day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sudžukice",
+            "tip": "Eine würzige Rindfleischwurst, die oft gegrillt und mit Brot serviert wird."
+          },
+          {
+            "name": "Tufahija",
+            "tip": "Ein Dessert aus mit Walnüssen gefüllten und in Zuckersirup gekochten Äpfeln."
+          },
+          {
+            "name": "Restaurant Vezir",
+            "tip": "Ein guter Ort, um eine Vielzahl von traditionellen bosnischen Gerichten zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sudžukice",
+            "tip": "Fűszeres marhakolbász, amelyet gyakran grillezve és kenyérrel tálalnak."
+          },
+          {
+            "name": "Tufahija",
+            "tip": "Dióval töltött és cukorszirupban főtt alma desszert."
+          },
+          {
+            "name": "Vezir Étterem",
+            "tip": "Jó hely a hagyományos bosnyák ételek széles választékának megkóstolására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sudžukice",
+            "tip": "Un cârnat picant de vită, adesea la grătar și servit cu pâine."
+          },
+          {
+            "name": "Tufahija",
+            "tip": "Un desert de mere umplute cu nuci și fierte în sirop de zahăr."
+          },
+          {
+            "name": "Restaurantul Vezir",
+            "tip": "Un loc bun pentru a încerca o varietate de mâncăruri tradiționale bosniace."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sudžukice",
+            "tip": "A spicy beef sausage, often grilled and served with bread."
+          },
+          {
+            "name": "Tufahija",
+            "tip": "A dessert of apples stuffed with walnuts and boiled in sugar syrup."
+          },
+          {
+            "name": "Restaurant Vezir",
+            "tip": "A good place to try a variety of traditional Bosnian dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festungsblick",
+            "tip": "Der beste Ort, um dem Trubel zu entfliehen und die Landschaft zu überblicken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Flussufer",
+            "tip": "Nachdem Sie den Bus verlassen haben, ist ein Spaziergang entlang des Flusses Lašva eine friedliche Option.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedhof neben der Festung",
+            "tip": "Ein Ort der Ruhe und des Nachdenkens mit historischer Bedeutung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a várból",
+            "tip": "A legjobb hely a nyüzsgés elől való menekülésre és a táj megcsodálására.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a folyóparton",
+            "tip": "Miután leszállt a buszról, a Lašva folyó menti séta békés lehetőség.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Temető a vár mellett",
+            "tip": "A csend és az elmélkedés helye, történelmi jelentőséggel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliștea de la fortăreață",
+            "tip": "Cel mai bun loc pentru a scăpa de agitație și a privi peisajul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "După ce coborâți din autobuz, o plimbare de-a lungul râului Lašva este o opțiune pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul de lângă fortăreață",
+            "tip": "Un loc de liniște și reflecție cu semnificație istorică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress View",
+            "tip": "The best place to escape the bustle and survey the landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Riverside walk",
+            "tip": "After getting off the bus, a walk along the Lašva river is a peaceful option.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cemetery near the Fortress",
+            "tip": "A place of quiet and reflection with historical significance.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kupferhandwerk in der Čaršija",
+            "tip": "Die Gassen der Altstadt sind voller kleiner Werkstätten, die traditionelle Kupferartikel verkaufen."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Kaufen Sie Honig, Marmeladen und natürlich Travnik-Käse auf dem lokalen Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rézművesség a Čaršijában",
+            "tip": "Az óváros sikátorai tele vannak kis műhelyekkel, ahol hagyományos réztárgyakat árulnak."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vásároljon mézet, lekvárokat és természetesen travniki sajtot a helyi piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat din cupru în Čaršija",
+            "tip": "Străduțele din orașul vechi sunt pline de mici ateliere care vând articole tradiționale din cupru."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Cumpărați miere, gemuri și, desigur, brânză de Travnik de la piața locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Copper crafts in the Čaršija",
+            "tip": "The old town alleys are full of small workshops selling traditional copper items."
+          },
+          {
+            "name": "Local delicacies",
+            "tip": "Buy honey, jams, and of course, Travnik cheese at the local market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Buslinien und Fahrpläne.",
+          "Kaufen Sie Fahrkarten im Voraus, wenn möglich, oder haben Sie Kleingeld für den Busfahrer bereit.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind zu Fuß erreichbar, nutzen Sie den Bus gezielt für längere Strecken.",
+          "Planen Sie etwas Pufferzeit für Wartezeiten an den Bushaltestellen ein."
+        ],
+        "hu": [
+          "Tájékozódjon előre a buszjáratokról és a menetrendekről.",
+          "Vásároljon jegyet előre, ha lehetséges, vagy készítsen elő aprópénzt a buszsofőrnek.",
+          "A központ legtöbb látnivalója gyalog elérhető, a buszt célzottan hosszabb távolságokra használja.",
+          "Tervezzen némi pufferidőt a buszmegállókban való várakozásra."
+        ],
+        "ro": [
+          "Verificați rutele și orarele autobuzelor în avans.",
+          "Cumpărați bilete în avans dacă este posibil sau aveți bani mărunți pregătiți pentru șoferul de autobuz.",
+          "Majoritatea atracțiilor din centru sunt accesibile pe jos, folosiți autobuzul strategic pentru distanțe mai mari.",
+          "Planificați un timp suplimentar pentru așteptarea în stațiile de autobuz."
+        ],
+        "en": [
+          "Check bus routes and schedules in advance.",
+          "Buy tickets beforehand if possible, or have small change ready for the bus driver.",
+          "Most sights in the center are walkable, use the bus strategically for longer distances.",
+          "Plan for some buffer time for waiting at bus stops."
+        ]
+      }
+    }
+  }
+}

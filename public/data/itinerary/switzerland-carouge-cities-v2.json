@@ -1,0 +1,1028 @@
+{
+  "city_id": "switzerland-carouge-cities-v2",
+  "anchor": {
+    "name": "Carouge",
+    "coords": [
+      6.139,
+      46.184
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place de l'Octroi",
+          "coords": [
+            6.14,
+            46.187
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekter Ort für einen morgendlichen Kaffee.",
+            "hu": "Tökéletes hely egy reggeli kávéhoz.",
+            "ro": "Locul perfect pentru o cafea matinală.",
+            "en": "Perfect spot for a morning coffee."
+          }
+        },
+        {
+          "name": "Temple de Carouge",
+          "coords": [
+            6.138,
+            46.185
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Architektur.",
+            "hu": "Csodálja meg az egyszerű építészetet.",
+            "ro": "Admirați arhitectura simplă.",
+            "en": "Admire the simple architecture."
+          }
+        },
+        {
+          "name": "Place du Marché",
+          "coords": [
+            6.139,
+            46.184
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Mittwochs und samstags ist hier Markt.",
+            "hu": "Szerdán és szombaton piac van itt.",
+            "ro": "Miercurea și sâmbăta este piață aici.",
+            "en": "There is a market here on Wednesdays and Saturdays."
+          }
+        },
+        {
+          "name": "Musée de Carouge",
+          "coords": [
+            6.141,
+            46.184
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lernen Sie die Geschichte der sardischen Stadt kennen.",
+            "hu": "Ismerje meg a szardíniai város történelmét.",
+            "ro": "Aflați istoria orașului sardinian.",
+            "en": "Learn the history of the Sardinian town."
+          }
+        },
+        {
+          "name": "Kirche Sainte-Croix",
+          "coords": [
+            6.14,
+            46.183
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die wunderschönen Fresken.",
+            "hu": "Figyelje meg a gyönyörű freskókat.",
+            "ro": "Observați frescele frumoase.",
+            "en": "Notice the beautiful frescoes."
+          }
+        },
+        {
+          "name": "Les Jardins de Carouge",
+          "coords": [
+            6.137,
+            46.182
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für ein nachmittägliches Picknick.",
+            "hu": "Ideális egy délutáni piknikhez.",
+            "ro": "Ideal pentru un picnic de după-amiază.",
+            "en": "Ideal for an afternoon picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Spaziergang durch Carouge beginnt an der Place de l'Octroi, gefolgt von der Ruhe des Temple de Carouge. Gegen Mittag tauchen wir in das bunte Treiben der Place du Marché ein. Der Nachmittag ist der Geschichte im Musée de Carouge und der Kunst in der Sainte-Croix Kirche gewidmet. Den Tag lassen wir entspannt in den Jardins de Carouge ausklingen.",
+        "hu": "A carouge-i séta a Place de l'Octroi téren kezdődik, melyet a Temple de Carouge nyugalma követ. Dél körül elmerülünk a Place du Marché forgatagában. A délutánt a Musée de Carouge történelmének és a Sainte-Croix templom művészetének szenteljük. A napot a Jardins de Carouge kertjeiben pihenve zárjuk.",
+        "ro": "Plimbarea prin Carouge începe la Place de l'Octroi, urmată de liniștea de la Temple de Carouge. În jurul prânzului, ne scufundăm în agitația de la Place du Marché. După-amiaza este dedicată istoriei la Musée de Carouge și artei la biserica Sainte-Croix. Ziua se încheie relaxant în Jardins de Carouge.",
+        "en": "The walk through Carouge begins at Place de l'Octroi, followed by the tranquility of the Temple de Carouge. Around noon, we immerse ourselves in the bustle of Place du Marché. The afternoon is dedicated to history at the Musée de Carouge and art at the Sainte-Croix Church. We end the day relaxing in the Jardins de Carouge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café des Négociants",
+            "tip": "Traditionelles Schweizer Fondue."
+          },
+          {
+            "name": "Boulangerie Wolfisberg",
+            "tip": "Hervorragende lokale Backwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Café des Négociants",
+            "tip": "Hagyományos svájci fondü."
+          },
+          {
+            "name": "Boulangerie Wolfisberg",
+            "tip": "Kiváló helyi péksütemények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Café des Négociants",
+            "tip": "Fondue tradițional elvețian."
+          },
+          {
+            "name": "Boulangerie Wolfisberg",
+            "tip": "Produse de patiserie locale excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café des Négociants",
+            "tip": "Traditional Swiss fondue."
+          },
+          {
+            "name": "Boulangerie Wolfisberg",
+            "tip": "Excellent local pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Les Jardins de Carouge",
+            "tip": "Versteckte Bänke im Schatten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Jardins de Carouge",
+            "tip": "Rejtett padok az árnyékban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Jardins de Carouge",
+            "tip": "Bănci ascunse la umbră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Jardins de Carouge",
+            "tip": "Hidden benches in the shade.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Saint-Joseph",
+            "tip": "Kleine Boutiquen und Handwerksläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Saint-Joseph",
+            "tip": "Kis butikok és kézműves boltok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Saint-Joseph",
+            "tip": "Mici buticuri și ateliere de meșteșugari."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Saint-Joseph",
+            "tip": "Small boutiques and artisan shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Carouge lässt sich am besten zu Fuß erkunden.",
+          "Die Straßen sind oft gepflastert, tragen Sie bequeme Schuhe.",
+          "Achten Sie auf die sardische Architektur.",
+          "Mittwoch und Samstag sind Markttage."
+        ],
+        "hu": [
+          "Carouge-t a legjobb gyalogosan felfedezni.",
+          "Az utcák gyakran macskakövesek, viseljen kényelmes cipőt.",
+          "Figyelje meg a szardíniai építészetet.",
+          "Szerda és szombat a piacnapok."
+        ],
+        "ro": [
+          "Carouge este cel mai bine de explorat pe jos.",
+          "Străzile sunt adesea pietruite, purtați încălțăminte confortabilă.",
+          "Atenție la arhitectura sardiniană.",
+          "Miercurea și sâmbăta sunt zile de piață."
+        ],
+        "en": [
+          "Carouge is best explored on foot.",
+          "The streets are often cobbled, wear comfortable shoes.",
+          "Look out for the Sardinian architecture.",
+          "Wednesday and Saturday are market days."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place de l'Octroi",
+          "coords": [
+            6.14,
+            46.187
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Guter Startpunkt, um die Stadt mit dem Rad zu erkunden.",
+            "hu": "Jó kiindulópont a város kerékpáros felfedezéséhez.",
+            "ro": "Punct bun de plecare pentru a explora orașul cu bicicleta.",
+            "en": "Good starting point to explore the city by bike."
+          }
+        },
+        {
+          "name": "Temple de Carouge",
+          "coords": [
+            6.138,
+            46.185
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrradständer befinden sich in der Nähe.",
+            "hu": "Kerékpártárolók a közelben találhatók.",
+            "ro": "Suporturile pentru biciclete sunt în apropiere.",
+            "en": "Bike racks are located nearby."
+          }
+        },
+        {
+          "name": "Place du Marché",
+          "coords": [
+            6.139,
+            46.184
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:19",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Hier kann es an Markttagen voll werden, schieben Sie Ihr Rad.",
+            "hu": "Piacnapokon tömeg lehet, tolja a kerékpárt.",
+            "ro": "În zilele de piață poate fi aglomerat, mergeți pe lângă bicicletă.",
+            "en": "It can get crowded on market days, walk your bike."
+          }
+        },
+        {
+          "name": "Musée de Carouge",
+          "coords": [
+            6.141,
+            46.184
+          ],
+          "category": "museums",
+          "arrive_at": "11:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad gut ab, bevor Sie das Museum besuchen.",
+            "hu": "Zárja le jól a kerékpárját a múzeum látogatása előtt.",
+            "ro": "Legați-vă bine bicicleta înainte de a vizita muzeul.",
+            "en": "Lock your bike well before visiting the museum."
+          }
+        },
+        {
+          "name": "Kirche Sainte-Croix",
+          "coords": [
+            6.14,
+            46.183
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ruhiger Platz zum Innehalten.",
+            "hu": "Csendes hely a megállásra.",
+            "ro": "Loc liniștit pentru a face o pauză.",
+            "en": "Quiet place to pause."
+          }
+        },
+        {
+          "name": "Les Jardins de Carouge",
+          "coords": [
+            6.137,
+            46.182
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entspannen Sie nach der Radtour im Park.",
+            "hu": "Pihenjen a parkban a kerékpározás után.",
+            "ro": "Relaxați-vă în parc după plimbarea cu bicicleta.",
+            "en": "Relax in the park after the bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden wir die charmanten Ecken von Carouge in unserem eigenen Tempo. Von der lebhaften Place de l'Octroi gleiten wir zum historischen Temple. Nach dem Markttrubel an der Place du Marché bietet sich eine kulturelle Pause im Museum an. Zum Abschluss genießen wir das Grün in den Jardins de Carouge.",
+        "hu": "Kerékpárral a saját tempónkban fedezzük fel Carouge bájos szegleteit. A nyüzsgő Place de l'Octroi térről a történelmi Templomhoz gurulunk. A Place du Marché piaci forgataga után kulturális szünetet tartunk a múzeumban. Végül a Jardins de Carouge zöldjében pihenünk meg.",
+        "ro": "Cu bicicleta explorăm colțurile fermecătoare ale orașului Carouge în propriul ritm. De la aglomerata Place de l'Octroi alunecăm spre Templul istoric. După agitația pieței de la Place du Marché, facem o pauză culturală la muzeu. În cele din urmă, ne bucurăm de verdeața din Jardins de Carouge.",
+        "en": "By bike we explore the charming corners of Carouge at our own pace. From the bustling Place de l'Octroi we glide to the historic Temple. After the market bustle at Place du Marché, a cultural break at the museum is perfect. Finally, we enjoy the greenery in the Jardins de Carouge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Cheval Blanc",
+            "tip": "Gute lokale Küche mit Radstellplätzen."
+          },
+          {
+            "name": "Gelateria Carouge",
+            "tip": "Bestes Eis der Stadt zur Erfrischung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Cheval Blanc",
+            "tip": "Jó helyi konyha kerékpártárolóval."
+          },
+          {
+            "name": "Gelateria Carouge",
+            "tip": "A város legjobb fagylaltja frissítőül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Cheval Blanc",
+            "tip": "Bucătărie locală bună, cu locuri de parcare pentru biciclete."
+          },
+          {
+            "name": "Gelateria Carouge",
+            "tip": "Cea mai bună înghețată din oraș pentru a te răcori."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Cheval Blanc",
+            "tip": "Good local cuisine with bike parking."
+          },
+          {
+            "name": "Gelateria Carouge",
+            "tip": "Best ice cream in town for refreshment."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Les Jardins de Carouge",
+            "tip": "Ruhige Ecken abseits des Verkehrs.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Jardins de Carouge",
+            "tip": "Csendes sarkok távol a forgalomtól.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Jardins de Carouge",
+            "tip": "Colțuri liniștite departe de trafic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Jardins de Carouge",
+            "tip": "Quiet corners away from traffic.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutiquen in der Rue Ancienne",
+            "tip": "Entdecken Sie handgefertigte Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Butikok a Rue Ancienne utcában",
+            "tip": "Fedezzen fel kézműves ajándékokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buticuri pe Rue Ancienne",
+            "tip": "Descoperiți suveniruri lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boutiques on Rue Ancienne",
+            "tip": "Discover handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Straßenbahnschienen.",
+          "Einbahnstraßen können teilweise in beide Richtungen befahren werden.",
+          "Tragen Sie einen Helm für Ihre Sicherheit.",
+          "Genießen Sie die flachen, entspannten Radwege."
+        ],
+        "hu": [
+          "Figyeljen a villamossínekre.",
+          "Egyes egyirányú utcákba mindkét irányból be lehet hajtani.",
+          "Viseljen sisakot a biztonsága érdekében.",
+          "Élvezze a lapos, nyugodt kerékpárutakat."
+        ],
+        "ro": [
+          "Atenție la șinele de tramvai.",
+          "Unele străzi cu sens unic pot fi parcurse în ambele direcții.",
+          "Purtați cască pentru siguranța dumneavoastră.",
+          "Bucurați-vă de pistele de biciclete plate și relaxante."
+        ],
+        "en": [
+          "Watch out for the tram tracks.",
+          "Some one-way streets can be cycled in both directions.",
+          "Wear a helmet for your safety.",
+          "Enjoy the flat, relaxing bike paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place de l'Octroi",
+          "coords": [
+            6.14,
+            46.187
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier im Parkhaus.",
+            "hu": "Parkoljon itt a parkolóházban.",
+            "ro": "Parcați aici în parcarea acoperită.",
+            "en": "Park here in the parking garage."
+          }
+        },
+        {
+          "name": "Temple de Carouge",
+          "coords": [
+            6.138,
+            46.185
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Parkhaus entfernt.",
+            "hu": "Csak egy rövid sétára a parkolótól.",
+            "ro": "La doar o scurtă plimbare de parcare.",
+            "en": "Just a short walk from the parking."
+          }
+        },
+        {
+          "name": "Place du Marché",
+          "coords": [
+            6.139,
+            46.184
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Mittelpunkt des gesellschaftlichen Lebens.",
+            "hu": "A társadalmi élet központja.",
+            "ro": "Centrul vieții sociale.",
+            "en": "Center of social life."
+          }
+        },
+        {
+          "name": "Musée de Carouge",
+          "coords": [
+            6.141,
+            46.184
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Informieren Sie sich über die Stadtgeschichte.",
+            "hu": "Tájékozódjon a város történelméről.",
+            "ro": "Informați-vă despre istoria orașului.",
+            "en": "Learn about the city's history."
+          }
+        },
+        {
+          "name": "Kirche Sainte-Croix",
+          "coords": [
+            6.14,
+            46.183
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Architektur hebt sich stark ab.",
+            "hu": "Az építészet élesen elüt a környezettől.",
+            "ro": "Arhitectura iese puternic în evidență.",
+            "en": "The architecture stands out strongly."
+          }
+        },
+        {
+          "name": "Les Jardins de Carouge",
+          "coords": [
+            6.137,
+            46.182
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie hier, bevor Sie zum Auto zurückkehren.",
+            "hu": "Pihenjen itt, mielőtt visszatérne az autóhoz.",
+            "ro": "Relaxați-vă aici înainte de a vă întoarce la mașină.",
+            "en": "Relax here before returning to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir parken unser Auto bequem in der Nähe der Place de l'Octroi und erkunden Carouge im Cluster-Walk-Prinzip. Der gesamte historische Kern, vom Temple über die Place du Marché bis zum Museum, ist leicht zu Fuß erreichbar. So umgehen wir den Verkehr und können die Atmosphäre ungestört genießen, bevor wir in den Jardins entspannen.",
+        "hu": "Autónkat kényelmesen a Place de l'Octroi közelében parkoljuk le, és a klaszter-séta elve alapján fedezzük fel Carouge-t. A teljes történelmi mag, a Templomtól a Place du Marché-ig és a múzeumig, könnyen megközelíthető gyalog. Így elkerüljük a forgalmat és zavartalanul élvezhetjük a hangulatot, mielőtt a kertekben pihennénk.",
+        "ro": "Parcăm mașina confortabil lângă Place de l'Octroi și explorăm Carouge pe principiul cluster-walk. Întregul centru istoric, de la Templu și Place du Marché până la muzeu, este ușor de parcurs pe jos. Astfel, evităm traficul și ne putem bucura de atmosferă netulburați, înainte de a ne relaxa în grădini.",
+        "en": "We park our car conveniently near Place de l'Octroi and explore Carouge using the cluster-walk principle. The entire historic core, from the Temple and Place du Marché to the museum, is easily walkable. This way we avoid traffic and can enjoy the atmosphere undisturbed before relaxing in the Jardins."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Olivier de Provence",
+            "tip": "Feine französische Küche."
+          },
+          {
+            "name": "Vieux-Carouge",
+            "tip": "Gemütliches Ambiente und lokale Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Olivier de Provence",
+            "tip": "Finom francia konyha."
+          },
+          {
+            "name": "Vieux-Carouge",
+            "tip": "Hangulatos környezet és helyi borok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Olivier de Provence",
+            "tip": "Bucătărie franțuzească fină."
+          },
+          {
+            "name": "Vieux-Carouge",
+            "tip": "Ambianță confortabilă și vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Olivier de Provence",
+            "tip": "Fine French cuisine."
+          },
+          {
+            "name": "Vieux-Carouge",
+            "tip": "Cozy atmosphere and local wines."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Les Jardins de Carouge",
+            "tip": "Perfekter Ort für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Jardins de Carouge",
+            "tip": "Tökéletes hely a pihenésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Jardins de Carouge",
+            "tip": "Locul perfect pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Jardins de Carouge",
+            "tip": "Perfect spot for a break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt auf der Place du Marché",
+            "tip": "Frische regionale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac a Place du Marché-n",
+            "tip": "Friss helyi termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de la Place du Marché",
+            "tip": "Produse proaspete regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market at Place du Marché",
+            "tip": "Fresh regional produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum kann schwierig sein, nutzen Sie Parkhäuser.",
+          "Die Distanzen zwischen den Sehenswürdigkeiten sind sehr kurz.",
+          "Lassen Sie das Auto stehen und gehen Sie zu Fuß.",
+          "Beachten Sie die blaue Zone bei Straßenparkplätzen."
+        ],
+        "hu": [
+          "A központban nehéz lehet parkolni, használjon parkolóházakat.",
+          "A látnivalók közötti távolságok nagyon rövidek.",
+          "Hagyja az autót, és menjen gyalog.",
+          "Figyeljen a kék zónára az utcai parkolásnál."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi dificilă, folosiți parcări acoperite.",
+          "Distanțele dintre atracții sunt foarte scurte.",
+          "Lăsați mașina și mergeți pe jos.",
+          "Atenție la zona albastră la parcările stradale."
+        ],
+        "en": [
+          "Parking in the center can be difficult, use parking garages.",
+          "The distances between the sights are very short.",
+          "Leave the car and go on foot.",
+          "Note the blue zone for street parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place de l'Octroi",
+          "coords": [
+            6.14,
+            46.187
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Sehr gut mit der Straßenbahn erreichbar.",
+            "hu": "Villamossal nagyon jól megközelíthető.",
+            "ro": "Foarte bine accesibil cu tramvaiul.",
+            "en": "Very easily accessible by tram."
+          }
+        },
+        {
+          "name": "Temple de Carouge",
+          "coords": [
+            6.138,
+            46.185
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhiger Beginn des Tages.",
+            "hu": "A nap csendes kezdete.",
+            "ro": "Un început liniștit de zi.",
+            "en": "A quiet start to the day."
+          }
+        },
+        {
+          "name": "Place du Marché",
+          "coords": [
+            6.139,
+            46.184
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hier pulsiert das Leben der Stadt.",
+            "hu": "Itt lüktet a város élete.",
+            "ro": "Aici pulsează viața orașului.",
+            "en": "The life of the city pulsates here."
+          }
+        },
+        {
+          "name": "Musée de Carouge",
+          "coords": [
+            6.141,
+            46.184
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Kultur von Carouge ein.",
+            "hu": "Merüljön el Carouge kultúrájában.",
+            "ro": "Scufundați-vă în cultura din Carouge.",
+            "en": "Immerse yourself in the culture of Carouge."
+          }
+        },
+        {
+          "name": "Kirche Sainte-Croix",
+          "coords": [
+            6.14,
+            46.183
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie das prachtvolle Innere.",
+            "hu": "Csodálja meg a pompás belsőt.",
+            "ro": "Admirați interiorul magnific.",
+            "en": "Admire the magnificent interior."
+          }
+        },
+        {
+          "name": "Les Jardins de Carouge",
+          "coords": [
+            6.137,
+            46.182
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von hier aus finden Sie leicht eine Rückfahrtmöglichkeit.",
+            "hu": "Innen könnyen talál visszautazási lehetőséget.",
+            "ro": "De aici găsiți ușor o opțiune de întoarcere.",
+            "en": "From here you can easily find a way back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir nutzen das hervorragende Genfer Nahverkehrsnetz, um nach Carouge zu gelangen. An der Place de l'Octroi steigen wir aus und erledigen den Rest des Tagesprogramms entspannt zu Fuß. Da die Sehenswürdigkeiten nah beieinander liegen, ist kein weiterer Transport nötig, bis wir die Jardins erreichen und den Rückweg antreten.",
+        "hu": "A kiváló genfi tömegközlekedési hálózatot használjuk, hogy eljussunk Carouge-ba. A Place de l'Octroi-nál leszállunk, és a napi program többi részét kényelmesen, gyalog tesszük meg. Mivel a látnivalók közel vannak egymáshoz, nincs szükség további közlekedésre, amíg el nem érjük a kerteket és elindulunk vissza.",
+        "ro": "Folosim excelenta rețea de transport public din Geneva pentru a ajunge la Carouge. Coborâm la Place de l'Octroi și facem restul programului zilei relaxat, pe jos. Deoarece atracțiile sunt aproape unele de altele, nu este nevoie de alte mijloace de transport, până când ajungem în grădini și ne îndreptăm înapoi.",
+        "en": "We use the excellent Geneva public transport network to get to Carouge. We get off at Place de l'Octroi and do the rest of the day's program relaxed on foot. Since the sights are close together, no further transport is necessary until we reach the Jardins and head back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistrot du Lion d'Or",
+            "tip": "Hervorragende Menüs zu fairen Preisen."
+          },
+          {
+            "name": "Tea-Room",
+            "tip": "Perfekt für eine süße Auszeit am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistrot du Lion d'Or",
+            "tip": "Kiváló menük korrekt áron."
+          },
+          {
+            "name": "Tea-Room",
+            "tip": "Tökéletes egy édes délutáni szünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistrot du Lion d'Or",
+            "tip": "Meniuri excelente la prețuri corecte."
+          },
+          {
+            "name": "Tea-Room",
+            "tip": "Perfect pentru o pauză dulce după-amiaza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistrot du Lion d'Or",
+            "tip": "Excellent menus at fair prices."
+          },
+          {
+            "name": "Tea-Room",
+            "tip": "Perfect for a sweet afternoon break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Les Jardins de Carouge",
+            "tip": "Viel Platz, um sich ins Gras zu legen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Jardins de Carouge",
+            "tip": "Sok hely, hogy kifeküdjünk a fűbe.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Jardins de Carouge",
+            "tip": "Mult spațiu pentru a vă întinde pe iarbă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Jardins de Carouge",
+            "tip": "Lots of space to lay in the grass.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitätenläden",
+            "tip": "Carouge ist bekannt für seine Antiquitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antikvitások",
+            "tip": "Carouge híres régiségboltjairól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de antichități",
+            "tip": "Carouge este cunoscut pentru antichitățile sale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antique shops",
+            "tip": "Carouge is known for its antiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für die Tramba.",
+          "Die Trams fahren sehr regelmäßig.",
+          "Carouge ist am besten zu Fuß zu erkunden, sobald Sie angekommen sind.",
+          "Laden Sie die lokale ÖPNV-App herunter."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a villamosra.",
+          "A villamosok nagyon rendszeresen járnak.",
+          "Carouge-t a legjobb gyalogosan felfedezni, amint megérkezett.",
+          "Töltse le a helyi tömegközlekedési alkalmazást."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru tramvai.",
+          "Tramvaiele circulă foarte regulat.",
+          "Carouge este cel mai bine de explorat pe jos, odată ce ați ajuns.",
+          "Descărcați aplicația locală de transport public."
+        ],
+        "en": [
+          "Buy a day ticket for the tram.",
+          "The trams run very regularly.",
+          "Carouge is best explored on foot once you arrive.",
+          "Download the local public transport app."
+        ]
+      }
+    }
+  }
+}

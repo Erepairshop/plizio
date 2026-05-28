@@ -1,67 +1,43 @@
 {
   "city_id": "poland-walbrzych-cities-v2",
   "anchor": {
-    "name": "Rynek, Wałbrzych",
+    "name": "Wałbrzych Rynek",
     "coords": [
-      16.2812,
-      50.7652
+      16.2833,
+      50.7667
     ]
   },
   "modes": {
     "walk": {
       "mode": "walk",
-      "speed_kmh": 4,
+      "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "17:30",
-      "total_km": 4.5,
-      "stop_count": 7,
+      "end_estimate": "17:05",
+      "total_km": 3.8,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Marktplatz (Rynek)",
-            "hu": "Főtér (Rynek)",
-            "ro": "Piața Centrală (Rynek)",
-            "en": "Market Square (Rynek)"
+            "de": "Rynek und Rathaus",
+            "hu": "Piactér és Városháza",
+            "ro": "Piața Centrală și Primăria",
+            "en": "Market Square and Town Hall"
           },
           "coords": [
-            16.2815,
-            50.7655
+            16.2831,
+            50.7665
           ],
-          "category": "square",
-          "arrive_at": "09:10",
-          "stay_min": 30,
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_mode": "walk",
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.0,
-          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Umgeben von barocken Bürgerhäusern.",
-            "hu": "Barokk polgárházakkal körbevett tér.",
-            "ro": "Înconjurată de case cetățenești baroce.",
-            "en": "Surrounded by historic Baroque townhouses."
-          }
-        },
-        {
-          "name": {
-            "de": "Neugotisches Rathaus",
-            "hu": "Neogótikus városháza",
-            "ro": "Primăria Neogotică",
-            "en": "Neo-Gothic Town Hall"
-          },
-          "coords": [
-            16.2798,
-            50.7662
-          ],
-          "category": "historical",
-          "arrive_at": "09:50",
-          "stay_min": 25,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Markantes Gebäude aus der Zeit der Industrie.",
-            "hu": "Jellegzetes épület az ipari korszakból.",
-            "ro": "Clădire distinctivă din epoca industrială.",
-            "en": "Striking building from the industrial era."
+            "de": "Bewundern Sie die farbenfrohen Bürgerhäuser und die Architektur des Rathauses.",
+            "hu": "Csodálja meg a színes polgárházakat és a Városháza építészetét.",
+            "ro": "Admirați casele burgheze colorate și arhitectura primăriei.",
+            "en": "Admire the colorful tenement houses and the architecture of the Town Hall."
           }
         },
         {
@@ -72,177 +48,205 @@
             "en": "Porcelain Museum"
           },
           "coords": [
-            16.2835,
-            50.7675
+            16.2815,
+            50.768
           ],
-          "category": "museum",
-          "arrive_at": "10:30",
-          "stay_min": 90,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.5,
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 100,
           "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Wichtige Sammlung schlesischen Porzellans.",
-            "hu": "Fontos sziléziai porcelángyűjtemény.",
-            "ro": "Colecție importantă de porțelan silezian.",
-            "en": "Significant collection of Silesian porcelain."
+            "de": "Die Sammlung schlesischen Porzellans ist von Weltrang.",
+            "hu": "A sziléziai porcelángyűjtemény világszínvonalú.",
+            "ro": "Colecția de porțelan silezian este de talie mondială.",
+            "en": "The collection of Silesian porcelain is world-class."
           }
         },
         {
           "name": {
-            "de": "Mittagessen in der Innenstadt",
-            "hu": "Ebéd a belvárosban",
-            "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the City Center"
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Centrul Vechi",
+            "en": "Lunch in the Old Town"
           },
           "coords": [
-            16.2822,
-            50.7648
+            16.284,
+            50.767
           ],
           "category": "gastro",
-          "arrive_at": "12:15",
+          "arrive_at": "12:05",
           "stay_min": 80,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.4,
           "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Probieren Sie lokale Fleischgerichte.",
-            "hu": "Kóstolja meg a helyi húsételeket.",
-            "ro": "Gustați preparate din carne locale.",
-            "en": "Try some hearty local meat dishes."
+            "de": "Probieren Sie Pierogi oder Żurek in einem der traditionellen Restaurants.",
+            "hu": "Kóstoljon pierogit vagy żureket egy hagyományos étteremben.",
+            "ro": "Încercați pierogi sau żurek la unul dintre restaurantele tradiționale.",
+            "en": "Try pierogi or żurek soup in one of the traditional restaurants."
           }
         },
         {
           "name": {
-            "de": "Zentrum Alte Mine",
-            "hu": "Régi Bánya Központ",
-            "ro": "Centrul Mina Veche",
-            "en": "Old Mine Center"
+            "de": "Alte Grube",
+            "hu": "Stara Kopalnia (Régi Bánya)",
+            "ro": "Stara Kopalnia (Mina Veche)",
+            "en": "Old Mine Science and Art Centre"
           },
           "coords": [
-            16.2655,
-            50.7725
+            16.265,
+            50.76
           ],
-          "category": "historical",
-          "arrive_at": "13:55",
-          "stay_min": 100,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 1.5,
+          "category": "industrial heritage",
+          "arrive_at": "14:05",
+          "stay_min": 120,
           "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
           "tip_5lang": {
-            "de": "Authentische Industrieanlagen der Grube Julia.",
-            "hu": "A Julia bánya hiteles ipari létesítményei.",
-            "ro": "Instalații industriale autentice ale minei Julia.",
-            "en": "Authentic industrial facilities of the Julia mine."
+            "de": "Nehmen Sie an einer Führung teil, um die unterirdischen Stollen zu erkunden.",
+            "hu": "Vegyen részt egy vezetett túrán a földalatti tárnák felfedezéséhez.",
+            "ro": "Participați la un tur ghidat pentru a explora galeriile subterane.",
+            "en": "Take a guided tour to explore the underground tunnels."
           }
         },
         {
           "name": {
-            "de": "St. Schutzengel Kirche",
-            "hu": "Őrangyalok temploma",
-            "ro": "Biserica Sfinților Îngeri Păzitori",
-            "en": "Guardian Angels Church"
-          },
-          "coords": [
-            16.2805,
-            50.7658
-          ],
-          "category": "religious",
-          "arrive_at": "16:00",
-          "stay_min": 40,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 1.8,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Monumentale neugotische Pfarrkirche.",
-            "hu": "Monumentális neogótikus plébániatemplom.",
-            "ro": "Biserică parohială neogotică monumentală.",
-            "en": "A monumental Neo-Gothic parish church."
-          }
-        },
-        {
-          "name": {
-            "de": "Rusinowa Park",
-            "hu": "Rusinowa park",
+            "de": "Rusinowa-Park",
+            "hu": "Rusinowa Park",
             "ro": "Parcul Rusinowa",
             "en": "Rusinowa Park"
           },
           "coords": [
-            16.3155,
-            50.7625
+            16.305,
+            50.755
           ],
-          "category": "park",
-          "arrive_at": "17:10",
-          "stay_min": 30,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 2.5,
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 40,
           "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
           "tip_5lang": {
-            "de": "Landschaftspark mit altem Baumbestand.",
-            "hu": "Tájképi park öreg fákkal.",
-            "ro": "Parc peisagistic cu arbori seculari.",
-            "en": "Landscape park with ancient trees."
+            "de": "Ein entspannender Spaziergang zum Abschluss des Tages.",
+            "hu": "Egy pihentető séta a nap lezárásaként.",
+            "ro": "O plimbare relaxantă pentru a încheia ziua.",
+            "en": "A relaxing walk to end the day."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Morgens erkunden Sie den historischen Marktplatz und das prächtige Porzellanmuseum im Zentrum von Wałbrzych. Nach dem Mittagessen machen Sie einen längeren Spaziergang zum Zentrum 'Alte Mine', wo das industrielle Erbe der Region beeindruckend präsentiert wird. Nachmittags besuchen Sie die monumentale Schutzengelkirche und lassen den Tag entspannt im weitläufigen Rusinowa-Park ausklingen.",
-        "hu": "Délelőtt a történelmi főteret és a belváros értékes porcelánmúzeumát fedezzük fel. Az ebéd után egy hosszabb sétát teszünk a 'Régi Bánya' központba, ahol a régió ipari örökségét ismerhetjük meg. A délutáni órákban a monumentális Őrangyalok templomát keressük fel, a napot pedig a tágas Rusinowa parkban tett pihentető sétával zárjuk.",
-        "ro": "Dimineața este dedicată pieței centrale istorice și prețiosului muzeu al porțelanului din centrul orașului. După prânz, faceți o plimbare mai lungă spre centrul 'Mina Veche', unde patrimoniul industrial al regiunii este prezentat impresionant. După-amiaza vizitați biserica monumentală a Îngerilor Păzitori și încheiați ziua relaxant în vastul Parc Rusinowa.",
-        "en": "Start your morning at the historic Market Square and the exquisite Porcelain Museum in the city center. After lunch, take a longer walk to the 'Old Mine' center, an impressive site showcasing the region's mining heritage. In the afternoon, visit the monumental Guardian Angels Church and finish your day with a peaceful stroll through the spacious Rusinowa Park."
+        "de": "Beginnen Sie Ihren Tag auf dem pulsierenden Marktplatz, umgeben von historischer Architektur. Nach einer Dosis Kultur im Porzellanmuseum führt Sie ein Spaziergang zum industriellen Herzen der Stadt, der Alten Grube. Der Nachmittag steht im Zeichen der Entspannung im Rusinowa-Park, wo Sie die Eindrücke des Tages verarbeiten können. Ein perfekter Ausklang in einem Café rundet Ihr Wałbrzych-Erlebnis ab.",
+        "hu": "Kezdje a napot a nyüzsgő piactéren, történelmi épületekkel körülvéve. A Porcelánmúzeumban szerzett kulturális élmény után egy séta a város ipari szívébe, a Régi Bányába vezet. A délután a Rusinowa Parkban a pihenésé, ahol feldolgozhatja a nap élményeit. Egy tökéletes befejezés egy kávézóban teszi teljessé a wałbrzychi kalandot.",
+        "ro": "Începeți ziua în piața vibrantă, înconjurat de arhitectură istorică. După o doză de cultură la Muzeul Porțelanului, o plimbare vă va duce la inima industrială a orașului, Mina Veche. După-amiaza este dedicată relaxării în Parcul Rusinowa, unde puteți procesa impresiile zilei. O încheiere perfectă la o cafenea completează experiența dumneavoastră în Wałbrzych.",
+        "en": "Start your day in the vibrant market square, surrounded by historic architecture. After a dose of culture at the Porcelain Museum, a walk takes you to the industrial heart of the city, the Old Mine. The afternoon is for relaxation in Rusinowa Park, where you can process the day's impressions. A perfect finish in a café completes your Wałbrzych experience."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Restauracja Aqua Zdrój",
-            "tip": "Gute Auswahl an regionalen Spezialitäten."
+            "name": "Pierogi Śląskie",
+            "tip": "Schlesische Teigtaschen, oft mit Fleisch oder Käse gefüllt."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine saure Roggenmehlsuppe, ein polnischer Klassiker."
+          },
+          {
+            "name": "Restauracja Krysztalowa",
+            "tip": "Elegantes Restaurant im Hotel Maria für gehobene polnische Küche."
           }
         ],
         "hu": [
           {
-            "name": "Restauracja Aqua Zdrój",
-            "tip": "Regionális ételek széles választéka."
+            "name": "Pierogi Śląskie",
+            "tip": "Sziléziai derelye, gyakran hússal vagy sajttal töltve."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Savanyú rozslisztleves, egy lengyel klasszikus."
+          },
+          {
+            "name": "Restauracja Krysztalowa",
+            "tip": "Elegáns étterem a Hotel Maria szállodában, emelt szintű lengyel konyhával."
           }
         ],
         "ro": [
           {
-            "name": "Restauracja Aqua Zdrój",
-            "tip": "Gamă variată de specialități regionale."
+            "name": "Pierogi Śląskie",
+            "tip": "Găluște sileziene, adesea umplute cu carne sau brânză."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă acră de secară, un clasic polonez."
+          },
+          {
+            "name": "Restauracja Krysztalowa",
+            "tip": "Restaurant elegant la Hotel Maria pentru bucătărie poloneză rafinată."
           }
         ],
         "en": [
           {
-            "name": "Restauracja Aqua Zdrój",
-            "tip": "Wide selection of traditional regional dishes."
+            "name": "Pierogi Śląskie",
+            "tip": "Silesian dumplings, often filled with meat or cheese."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A sour rye flour soup, a Polish classic."
+          },
+          {
+            "name": "Restauracja Krysztalowa",
+            "tip": "Elegant restaurant at Hotel Maria for upscale Polish cuisine."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Chełmiec Berg",
-            "tip": "Ruhe und Panoramablick vom Aussichtsturm.",
+            "name": "Rusinowa-Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang der Pełcznica",
+            "tip": "Ein friedlicher Weg abseits des Stadtzentrums.",
             "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Chełmiec-hegy",
-            "tip": "Csend és panoráma a kilátótoronyból.",
+            "name": "Rusinowa Park",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Pełcznica folyó mentén",
+            "tip": "Békés útvonal a városközponttól távolabb.",
             "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Muntele Chełmiec",
-            "tip": "Liniște și panoramă din turnul de observare.",
+            "name": "Parcul Rusinowa",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Pełcznica",
+            "tip": "O potecă pașnică departe de centrul orașului.",
             "emoji": "🏞️"
           }
         ],
         "en": [
           {
-            "name": "Chełmiec Mountain",
-            "tip": "Quiet views from the observation tower.",
+            "name": "Rusinowa Park",
+            "tip": "Find a quiet bench and enjoy nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the Pełcznica River",
+            "tip": "A peaceful path away from the city center.",
             "emoji": "🏞️"
           }
         ]
@@ -250,49 +254,231 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Galeria Victoria",
-            "tip": "Größtes Einkaufszentrum der Stadt."
+            "name": "Porzellan aus Wałbrzych",
+            "tip": "Ein einzigartiges Souvenir aus dem Porzellanmuseum."
+          },
+          {
+            "name": "Lokale Handwerksprodukte",
+            "tip": "Suchen Sie nach handgemachten Waren auf dem Marktplatz."
           }
         ],
         "hu": [
           {
-            "name": "Galeria Victoria",
-            "tip": "A város legnagyobb bevásárlóközpontja."
+            "name": "Wałbrzychi porcelán",
+            "tip": "Egyedi szuvenír a Porcelánmúzeumból."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített árukat a piactéren."
           }
         ],
         "ro": [
           {
-            "name": "Galeria Victoria",
-            "tip": "Cel mai mare centru comercial din oraș."
+            "name": "Porțelan de Wałbrzych",
+            "tip": "Un suvenir unic de la Muzeul Porțelanului."
+          },
+          {
+            "name": "Produse artizanale locale",
+            "tip": "Căutați produse realizate manual în piață."
           }
         ],
         "en": [
           {
-            "name": "Galeria Victoria",
-            "tip": "The largest shopping mall in the city."
+            "name": "Wałbrzych Porcelain",
+            "tip": "A unique souvenir from the Porcelain Museum."
+          },
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for handmade goods in the market square."
           }
         ]
       },
       "tips": {
         "de": [
-          "Die Alte Mine ist ein Muss für Industriegeschichtsfans.",
-          "Tragen Sie bequeme Schuhe, da Wałbrzych sehr hügelig ist.",
-          "Das Porzellanmuseum liegt in einem schönen alten Palast."
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum hügelig ist.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Ein Spaziergang zur Alten Grube ist eine gute Möglichkeit, mehr von der Stadt zu sehen."
         ],
         "hu": [
-          "A Régi Bánya kötelező látnivaló az ipartörténet kedvelőinek.",
-          "Viseljen kényelmes cipőt, Wałbrzych terepe dombos.",
-          "A porcelánmúzeum egy gyönyörű régi palotában található."
+          "Viseljen kényelmes cipőt, mivel a városközpont dombos.",
+          "A legtöbb központi látnivaló könnyen megközelíthető gyalog.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "A Régi Bányához tett séta remek módja annak, hogy többet lásson a városból."
         ],
         "ro": [
-          "Mina Veche este obligatorie pentru fanii istoriei industriale.",
-          "Purtați pantofi comozi, Wałbrzych are un relief deluros.",
-          "Muzeul porțelanului este situat într-un palat vechi superb."
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este deluros.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Verificați în avans orele de funcționare ale muzeelor.",
+          "O plimbare până la Mina Veche este o modalitate bună de a vedea mai mult din oraș."
         ],
         "en": [
-          "The Old Mine is a must-visit for industrial history buffs.",
-          "Wear comfortable shoes as Wałbrzych's terrain is quite hilly.",
-          "The Porcelain Museum is housed in a beautiful old palace."
+          "Wear comfortable shoes as the city center is hilly.",
+          "Most central sights are easily accessible on foot.",
+          "Check museum opening hours in advance.",
+          "A walk to the Old Mine is a great way to see more of the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Rynek",
+            "hu": "Indulás a Piactérről",
+            "ro": "Pornire din Piața Centrală",
+            "en": "Start at the Market Square"
+          },
+          "coords": [
+            16.2833,
+            50.7667
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe oder bringen Sie Ihr eigenes mit.",
+            "hu": "Béreljen kerékpárt a közelben, vagy hozza a sajátját.",
+            "ro": "Închiriați o bicicletă din apropiere sau aduceți-vă propria.",
+            "en": "Rent a bike nearby or bring your own."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Grube",
+            "hu": "Stara Kopalnia (Régi Bánya)",
+            "ro": "Stara Kopalnia (Mina Veche)",
+            "en": "Old Mine Science and Art Centre"
+          },
+          "coords": [
+            16.265,
+            50.76
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:55",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in die Bergbaugeschichte der Region.",
+            "hu": "Lenyűgöző betekintés a régió bányásztörténetébe.",
+            "ro": "O perspectivă fascinantă asupra istoriei miniere a regiunii.",
+            "en": "A fascinating insight into the region's mining history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause",
+            "hu": "Ebédszünet",
+            "ro": "Pauză de prânz",
+            "en": "Lunch Break"
+          },
+          "coords": [
+            16.27,
+            50.762
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stärken Sie sich in einem Restaurant in der Nähe der Alten Grube.",
+            "hu": "Erősödjön meg egy étteremben a Régi Bánya közelében.",
+            "ro": "Luați o gustare la un restaurant de lângă Mina Veche.",
+            "en": "Refuel at a restaurant near the Old Mine."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmenhaus",
+            "hu": "Palmiarnia (Pálmaház)",
+            "ro": "Palmiarnia (Sera de Palimeri)",
+            "en": "Palm House"
+          },
+          "coords": [
+            16.295,
+            50.835
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Eine exotische Oase mit Pflanzen aus aller Welt. Der Weg dorthin ist hügelig.",
+            "hu": "Egzotikus oázis a világ minden tájáról származó növényekkel. Az út hegyes.",
+            "ro": "O oază exotică cu plante din întreaga lume. Drumul până acolo este deluros.",
+            "en": "An exotic oasis with plants from all over the world. The ride there is hilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Rynek und Ausklang",
+            "hu": "Visszatérés a Piactérre és levezetés",
+            "ro": "Întoarcere în Piață și relaxare",
+            "en": "Return to the Market Square and unwind"
+          },
+          "coords": [
+            16.2833,
+            50.7667
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:35",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag bei einem Kaffee oder Eis auf dem Marktplatz.",
+            "hu": "Zárja a napot egy kávéval vagy fagyival a piactéren.",
+            "ro": "Încheiați ziua cu o cafea sau o înghețată în piață.",
+            "en": "End the day with a coffee or ice cream in the market square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine Tour, die Industrie- und Naturerbe verbindet. Vom Zentrum aus radeln Sie zur Alten Grube, um in die Bergbauvergangenheit einzutauchen. Nach dem Mittagessen führt eine anspruchsvollere Etappe zum exotischen Palmenhaus. Die Rückfahrt in die Altstadt bietet Zeit, die vielfältigen Eindrücke von Wałbrzych auf sich wirken zu lassen, bevor der Tag bei einem wohlverdienten Getränk ausklingt.",
+        "hu": "Pattanjon kerékpárra egy olyan túrához, amely ötvözi az ipari és természeti örökséget. A központból tekerjen a Régi Bányához, hogy elmerüljön a bányászmúltban. Ebéd után egy nagyobb kihívást jelentő szakasz vezet az egzotikus Pálmaházhoz. A visszaút az óvárosba időt ad arra, hogy feldolgozza Wałbrzych sokszínű benyomásait, mielőtt a nap egy jól megérdemelt itallal zárul.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur care combină patrimoniul industrial și natural. Din centru, pedalați spre Mina Veche pentru a vă cufunda în trecutul minier. După prânz, o etapă mai provocatoare duce la exotica Seră de Palmieri. Călătoria de întoarcere în orașul vechi vă oferă timp să reflectați la impresiile diverse din Wałbrzych înainte de a încheia ziua cu o băutură binemeritată.",
+        "en": "Get on your bike for a tour that combines industrial and natural heritage. From the center, cycle to the Old Mine to delve into the mining past. After lunch, a more challenging stage leads to the exotic Palm House. The return trip to the old town gives you time to reflect on the diverse impressions of Wałbrzych before ending the day with a well-deserved drink."
+      },
+      "tips": {
+        "de": [
+          "Wałbrzych ist hügelig; ein E-Bike könnte eine gute Option sein.",
+          "Achten Sie auf den Verkehr, besonders außerhalb des Zentrums.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Fahrt zum Palmenhaus.",
+          "Schließen Sie Ihr Fahrrad an den Sehenswürdigkeiten sicher ab."
+        ],
+        "hu": [
+          "Wałbrzych dombos; egy e-bike jó választás lehet.",
+          "Vigyázzon a forgalomra, különösen a központon kívül.",
+          "Vigyen magával elegendő vizet, főleg a Pálmaházhoz vezető útra.",
+          "Zárja le biztonságosan a kerékpárját a látnivalóknál."
+        ],
+        "ro": [
+          "Wałbrzych este deluros; o bicicletă electrică ar putea fi o opțiune bună.",
+          "Fiți atenți la trafic, în special în afara centrului.",
+          "Luați suficientă apă, mai ales pentru drumul spre Sera de Palmieri.",
+          "Asigurați-vă bicicleta în mod corespunzător la fiecare atracție."
+        ],
+        "en": [
+          "Wałbrzych is hilly; an e-bike might be a good option.",
+          "Be mindful of traffic, especially outside the center.",
+          "Bring enough water, especially for the ride to the Palm House.",
+          "Securely lock your bike at the sights."
         ]
       }
     },
@@ -300,311 +486,347 @@
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "17:45",
-      "total_km": 20.0,
-      "stop_count": 8,
+      "end_estimate": "18:25",
+      "total_km": 31.8,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Schloss Książ",
-            "hu": "Książ kastély",
-            "ro": "Castelul Książ",
-            "en": "Książ Castle"
+            "de": "Cluster A: Schloss Fürstenstein",
+            "hu": "A Klaszter: Książ kastély",
+            "ro": "Cluster A: Castelul Książ",
+            "en": "Cluster A: Książ Castle"
           },
           "coords": [
-            16.2925,
-            50.8425
+            16.3,
+            50.845
           ],
-          "category": "historical",
-          "arrive_at": "09:15",
-          "stay_min": 100,
-          "hop_from_prev_min": 15,
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.0,
-          "hop_mode": "car",
           "tip_5lang": {
-            "de": "Drittgrößtes Schloss Polens mit Geheimgängen.",
-            "hu": "Lengyelország harmadik legnagyobb kastélya titkos járatokkal.",
-            "ro": "Al treilea cel mai mare castel din Polonia cu tuneluri secrete.",
-            "en": "Poland's third-largest castle with secret tunnels."
+            "de": "Parken Sie auf dem Hauptparkplatz. Planen Sie viel Zeit für die Erkundung des Schlosses und der Terrassen ein.",
+            "hu": "Parkoljon a fő parkolóban. Szánjon elegendő időt a kastély és a teraszok felfedezésére.",
+            "ro": "Parcați în parcarea principală. Alocați mult timp pentru a explora castelul și terasele.",
+            "en": "Park in the main parking lot. Allow plenty of time to explore the castle and its terraces."
           }
         },
         {
           "name": {
-            "de": "Palmhaus (Palmiarnia)",
-            "hu": "Pálmaház (Palmiarnia)",
-            "ro": "Serele (Palmiarnia)",
-            "en": "Palm House (Palmiarnia)"
+            "de": "Palmenhaus (Spaziergang vom Schloss)",
+            "hu": "Palmiarnia (séta a kastélytól)",
+            "ro": "Sera de Palmieri (plimbare de la castel)",
+            "en": "Palm House (walk from the castle)"
           },
           "coords": [
-            16.2985,
-            50.8325
+            16.295,
+            50.835
           ],
-          "category": "park",
-          "arrive_at": "11:10",
-          "stay_min": 60,
+          "category": "natural features",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_mode": "walk",
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
-          "hop_mode": "car",
+          "hop_from_prev_km": 1.2,
           "tip_5lang": {
-            "de": "Über 250 exotische Pflanzenarten.",
-            "hu": "Több mint 250 egzotikus növényfaj.",
-            "ro": "Peste 250 de specii de plante exotice.",
-            "en": "Home to over 250 species of exotic plants."
+            "de": "Ein schöner Spaziergang durch den Park verbindet die beiden Attraktionen.",
+            "hu": "Egy szép séta a parkon keresztül köti össze a két látnivalót.",
+            "ro": "O plimbare frumoasă prin parc leagă cele două atracții.",
+            "en": "A beautiful walk through the park connects the two attractions."
           }
         },
         {
           "name": {
-            "de": "Marktplatz (Rynek)",
-            "hu": "Főtér (Rynek)",
-            "ro": "Piața Centrală (Rynek)",
-            "en": "Market Square (Rynek)"
+            "de": "Cluster B: Alte Grube & Mittagessen",
+            "hu": "B Klaszter: Régi Bánya és ebéd",
+            "ro": "Cluster B: Mina Veche și prânz",
+            "en": "Cluster B: Old Mine & Lunch"
+          },
+          "coords": [
+            16.265,
+            50.76
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Parken Sie am ZCW Stara Kopalnia. Es gibt auch ein Restaurant vor Ort.",
+            "hu": "Parkoljon a Stara Kopalnia Tudományos és Művészeti Központnál. A helyszínen étterem is található.",
+            "ro": "Parcați la Centrul de Știință și Artă Stara Kopalnia. Există și un restaurant la fața locului.",
+            "en": "Park at the Stara Kopalnia Science and Art Centre. There is also a restaurant on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Stadtzentrum Wałbrzych",
+            "hu": "C Klaszter: Wałbrzych központja",
+            "ro": "Cluster C: Centrul orașului Wałbrzych",
+            "en": "Cluster C: Wałbrzych City Center"
+          },
+          "coords": [
+            16.2831,
+            50.7665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz und erkunden Sie den Rynek zu Fuß.",
+            "hu": "Keressen egy parkolóhelyet, és fedezze fel a Piacteret gyalog.",
+            "ro": "Găsiți un loc de parcare și explorați Piața Centrală pe jos.",
+            "en": "Find a parking spot and explore the Market Square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Porzellanmuseum",
+            "hu": "Porcelánmúzeum",
+            "ro": "Muzeul Porțelanului",
+            "en": "Porcelain Museum"
           },
           "coords": [
             16.2815,
-            50.7655
+            50.768
           ],
-          "category": "square",
-          "arrive_at": "12:35",
-          "stay_min": 25,
+          "category": "museums",
+          "arrive_at": "16:50",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Marktplatz entfernt.",
+            "hu": "Rövid séta a Piactérről.",
+            "ro": "La o scurtă plimbare de Piața Centrală.",
+            "en": "Just a short walk from the Market Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt auf dem Chełmiec",
+            "hu": "Kilátópont a Chełmiec-hegyen",
+            "ro": "Punct de belvedere pe Muntele Chełmiec",
+            "en": "Viewpoint on Chełmiec Mountain"
+          },
+          "coords": [
+            16.23,
+            50.785
+          ],
+          "category": "natural features",
+          "arrive_at": "18:20",
+          "stay_min": 35,
+          "hop_mode": "car",
           "hop_from_prev_min": 25,
-          "hop_from_prev_km": 8.0,
-          "hop_mode": "car",
+          "hop_from_prev_km": 17.8,
           "tip_5lang": {
-            "de": "Historisches Zentrum der Stadt.",
-            "hu": "A város történelmi központja.",
-            "ro": "Centrul istoric al orașului.",
-            "en": "The historic heart of the city."
-          }
-        },
-        {
-          "name": {
-            "de": "Mittagessen im Zentrum",
-            "hu": "Ebéd a belvárosban",
-            "ro": "Prânz în centru",
-            "en": "Lunch in the Center"
-          },
-          "coords": [
-            16.2825,
-            50.7645
-          ],
-          "category": "gastro",
-          "arrive_at": "13:00",
-          "stay_min": 80,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Schlesische Spezialitäten genießen.",
-            "hu": "Kóstolja meg a sziléziai konyha remekeit.",
-            "ro": "Savurați specialitățile bucătăriei sileziene.",
-            "en": "Enjoy traditional Silesian cuisine."
-          }
-        },
-        {
-          "name": {
-            "de": "Zentrum Alte Mine",
-            "hu": "Régi Bánya Központ",
-            "ro": "Centrul Mina Veche",
-            "en": "Old Mine Center"
-          },
-          "coords": [
-            16.2655,
-            50.7725
-          ],
-          "category": "historical",
-          "arrive_at": "14:40",
-          "stay_min": 90,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 2.5,
-          "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Industrie-Erbe auf Weltniveau.",
-            "hu": "Világszínvonalú ipari örökség.",
-            "ro": "Patrimoniu industrial de nivel mondial.",
-            "en": "World-class industrial heritage site."
-          }
-        },
-        {
-          "name": {
-            "de": "Aussichtsturm Chełmiec",
-            "hu": "Chełmiec kilátótorony",
-            "ro": "Turn de observație Chełmiec",
-            "en": "Chełmiec Observation Tower"
-          },
-          "coords": [
-            16.2355,
-            50.7812
-          ],
-          "category": "viewpoint",
-          "arrive_at": "16:30",
-          "stay_min": 25,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 5.0,
-          "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Blick über das gesamte Waldenburger Land.",
-            "hu": "Kilátás a teljes Wałbrzychi-medencére.",
-            "ro": "Vedere asupra întregii depresiuni Wałbrzych.",
-            "en": "Views over the entire Wałbrzych basin."
-          }
-        },
-        {
-          "name": {
-            "de": "Monumentales Kreuz",
-            "hu": "Monumentális kereszt",
-            "ro": "Crucea Monumentală",
-            "en": "Monumental Cross"
-          },
-          "coords": [
-            16.2358,
-            50.7815
-          ],
-          "category": "monument",
-          "arrive_at": "16:55",
-          "stay_min": 15,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.1,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Das 45m hohe Gipfelkreuz auf dem Chełmiec.",
-            "hu": "A 45 méter magas kereszt a Chełmiec csúcsán.",
-            "ro": "Crucea de 45 de metri de pe vârful Chełmiec.",
-            "en": "The 45-meter high cross on the Chełmiec peak."
-          }
-        },
-        {
-          "name": {
-            "de": "Abendessen Aqua Zdrój",
-            "hu": "Vacsora az Aqua Zdrójban",
-            "ro": "Cină la Aqua Zdrój",
-            "en": "Dinner at Aqua Zdrój"
-          },
-          "coords": [
-            16.2755,
-            50.7885
-          ],
-          "category": "gastro",
-          "arrive_at": "17:30",
-          "stay_min": 30,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 6.0,
-          "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Guter Abschluss nach einem aktiven Tag.",
-            "hu": "Kellemes zárás egy aktív nap után.",
-            "ro": "Un final plăcut după o zi activă.",
-            "en": "A pleasant end to an active day."
+            "de": "Fahren Sie zum Sonnenuntergang hinauf für eine spektakuläre Aussicht.",
+            "hu": "Menjen fel napnyugtakor a látványos kilátásért.",
+            "ro": "Urcați la apus pentru o priveliște spectaculoasă.",
+            "en": "Drive up for sunset for a spectacular view."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Diese Autotour deckt die Highlights von Wałbrzych und Umgebung ab. Vormittags besuchen Sie das prachtvolle Schloss Książ und das nahegelegene historische Palmhaus. Nach der Fahrt ins Stadtzentrum und einem Mittagessen erkunden Sie das faszinierende Areal der 'Alten Mine'. Zum Abschluss fahren Sie auf den Chełmiec-Hügel, um den weiten Blick vom Aussichtsturm und das monumentale Gipfelkreuz zu genießen.",
-        "hu": "Ez az autós túra átfogja Wałbrzych és környéke legfontosabb látnivalóit. Délelőtt a pompás Książ kastélyt és a közeli történelmi pálmaházat látogatjuk meg. A belvárosi ebéd után a 'Régi Bánya' lenyűgöző területét fedezzük fel. A napot a Chełmiec-dombon zárjuk, ahol a kilátótoronyból nyíló panorámában és a monumentális keresztben gyönyörködhetünk.",
-        "ro": "Acest tur cu mașina acoperă cele mai importante atracții din Wałbrzych și împrejurimi. Dimineața vizitați splendidul castel Książ și serele istorice din apropiere. După un prânz în centrul orașului, explorați zona fascinantă a 'Minei Vechi'. Încheiați ziua pe dealul Chełmiec, admirând panorama din turnul de observare și crucea monumentală.",
-        "en": "This car tour covers the top highlights of Wałbrzych and its surroundings. Start with the magnificent Książ Castle and the nearby historic Palm House. After driving to the city center for lunch, explore the fascinating 'Old Mine' site. End your day on Chełmiec Hill, enjoying the wide views from the observation tower and the monumental peak cross."
-      },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Restauracja Książęca",
-            "tip": "Speisen in herrschaftlichem Ambiente am Schloss."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Restauracja Książęca",
-            "tip": "Étkezés úri környezetben, a kastély mellett."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Restauracja Książęca",
-            "tip": "Masă într-un cadru nobil lângă castel."
-          }
-        ],
-        "en": [
-          {
-            "name": "Książęca Restaurant",
-            "tip": "Dine in a grand, noble setting near the castle."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Park przy Zamku Książ",
-            "tip": "Ruhige Waldwege rund um das Schloss.",
-            "emoji": "🏞️"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Książ kastélypark",
-            "tip": "Csendes erdei utak a kastély körül.",
-            "emoji": "🏞️"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Parcul Castelului Książ",
-            "tip": "Poteci forestiere liniștite în jurul castelului.",
-            "emoji": "🏞️"
-          }
-        ],
-        "en": [
-          {
-            "name": "Książ Castle Park",
-            "tip": "Quiet woodland paths surrounding the castle.",
-            "emoji": "🏞️"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Manufaktura Porcelany w Wałbrzychu",
-            "tip": "Authentisches schlesisches Porzellan kaufen."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Wałbrzychi Porcelánmanufaktúra",
-            "tip": "Vásároljon hiteles sziléziai porcelánt."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Manufactura de Porțelan Wałbrzych",
-            "tip": "Cumpărați porțelan silezian autentic."
-          }
-        ],
-        "en": [
-          {
-            "name": "Wałbrzych Porcelain Manufactory",
-            "tip": "Purchase authentic and high-quality Silesian porcelain."
-          }
-        ]
+        "de": "Ihr Autotag beginnt majestätisch beim Schloss Fürstenstein und dem nahegelegenen Palmenhaus. Nach diesem adligen Vormittag fahren Sie zum industriellen Kern der Region, der Alten Grube, wo Sie auch zu Mittag essen. Am Nachmittag erkunden Sie das historische Zentrum von Wałbrzych zu Fuß, vom Marktplatz bis zum Porzellanmuseum. Zum Abschluss des Tages bietet eine Fahrt zum Chełmiec-Berg einen unvergesslichen Panoramablick über die Landschaft.",
+        "hu": "Autós napja fenségesen kezdődik a Książ kastélynál és a közeli Pálmaháznál. A nemesi délelőtt után a régió ipari központjába, a Régi Bányába hajt, ahol ebédelhet is. Délután gyalogosan fedezi fel Wałbrzych történelmi központját, a Piactértől a Porcelánmúzeumig. A nap zárásaként a Chełmiec-hegyre való autózás felejthetetlen panorámát nyújt a tájra.",
+        "ro": "Ziua dumneavoastră cu mașina începe maiestuos la Castelul Książ și la Sera de Palmieri din apropiere. După această dimineață nobilă, veți conduce spre inima industrială a regiunii, Mina Veche, unde veți lua și prânzul. După-amiaza, explorați centrul istoric al orașului Wałbrzych pe jos, de la Piața Centrală la Muzeul Porțelanului. Pentru a încheia ziua, o plimbare cu mașina până la Muntele Chełmiec oferă o panoramă de neuitat asupra peisajului.",
+        "en": "Your car day begins majestically at Książ Castle and the nearby Palm House. After this noble morning, you'll drive to the region's industrial core, the Old Mine, where you'll also have lunch. In the afternoon, explore the historic center of Wałbrzych on foot, from the Market Square to the Porcelain Museum. To end the day, a drive up Chełmiec Mountain offers an unforgettable panoramic view of the landscape."
       },
       "tips": {
         "de": [
-          "Für das Schloss Książ gibt es verschiedene Kombitickets.",
-          "Parken Sie am Chełmiec etwas unterhalb, wenn der Gipfel gesperrt ist.",
-          "Die Palmiarnia ist auch bei schlechtem Wetter ein Highlight."
+          "Kaufen Sie Kombitickets für Schloss Fürstenstein und das Palmenhaus, um zu sparen.",
+          "Parken ist in der Nähe der Hauptattraktionen meist kostenpflichtig.",
+          "Planen Sie genügend Zeit für die Fahrt zwischen den Clustern ein.",
+          "Die Straßen können eng und kurvig sein, besonders in Richtung Chełmiec."
         ],
         "hu": [
-          "A Książ kastélyhoz különféle kombinált jegyek válthatók.",
-          "A Chełmiec-dombon parkoljon kicsit lejjebb, ha a csúcs zárva van.",
-          "A pálmaház rossz idő esetén is kiváló program."
+          "Vásároljon kombinált jegyet a Książ kastélyba és a Pálmaházba, hogy spóroljon.",
+          "A parkolás általában fizetős a fő látnivalók közelében.",
+          "Tervezzen elegendő időt a klaszterek közötti utazásra.",
+          "Az utak szűkek és kanyargósak lehetnek, különösen a Chełmiec felé."
         ],
         "ro": [
-          "Există diverse bilete combinate pentru castelul Książ.",
-          "Parcați puțin mai jos pe dealul Chełmiec dacă accesul la vârf e restricționat.",
-          "Serele (Palmiarnia) sunt o atracție ideală și pe vreme rea."
+          "Cumpărați bilete combinate pentru Castelul Książ și Sera de Palmieri pentru a economisi.",
+          "Parcarea este de obicei contra cost lângă atracțiile principale.",
+          "Planificați suficient timp pentru deplasarea între clustere.",
+          "Drumurile pot fi înguste și sinuoase, în special spre Muntele Chełmiec."
         ],
         "en": [
-          "Look for combined tickets when visiting Książ Castle.",
-          "Park a bit lower on Chełmiec if the very top is closed for cars.",
-          "The Palm House is a great indoor highlight for rainy days."
+          "Buy combined tickets for Książ Castle and the Palm House to save money.",
+          "Parking is usually paid near the main attractions.",
+          "Allow enough time for driving between the clusters.",
+          "The roads can be narrow and winding, especially towards Chełmiec."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Stadtzentrum",
+            "hu": "A Klaszter: Városközpont",
+            "ro": "Cluster A: Centrul Orașului",
+            "en": "Cluster A: City Center"
+          },
+          "coords": [
+            16.2831,
+            50.7665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Plac Grunwaldzki und beginnen Sie am Rynek.",
+            "hu": "Menjen busszal a Plac Grunwaldzki térre, és kezdje a Piactéren.",
+            "ro": "Luați un autobuz până la Plac Grunwaldzki și începeți din Piața Centrală.",
+            "en": "Take a bus to Plac Grunwaldzki and start at the Market Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Porzellanmuseum",
+            "hu": "Porcelánmúzeum",
+            "ro": "Muzeul Porțelanului",
+            "en": "Porcelain Museum"
+          },
+          "coords": [
+            16.2815,
+            50.768
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss für Liebhaber von Kunsthandwerk, nur ein kurzer Spaziergang.",
+            "hu": "A kézművesség szerelmeseinek kötelező, csak egy rövid séta.",
+            "ro": "O vizită obligatorie pentru iubitorii de artizanat, la o scurtă plimbare.",
+            "en": "A must-see for craft lovers, just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Alte Grube",
+            "hu": "B Klaszter: Régi Bánya",
+            "ro": "Cluster B: Mina Veche",
+            "en": "Cluster B: Old Mine"
+          },
+          "coords": [
+            16.265,
+            50.76
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:15",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Piaskowa Góra. Planen Sie Zeit für eine Führung und ein Mittagessen ein.",
+            "hu": "Menjen busszal Piaskowa Góra irányába. Tervezzen időt egy vezetett túrára és ebédre.",
+            "ro": "Luați un autobuz spre Piaskowa Góra. Planificați timp pentru un tur ghidat și prânz.",
+            "en": "Take a bus towards Piaskowa Góra. Plan time for a tour and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Palmenhaus",
+            "hu": "C Klaszter: Pálmaház",
+            "ro": "Cluster C: Sera de Palmieri",
+            "en": "Cluster C: Palm House"
+          },
+          "coords": [
+            16.295,
+            50.835
+          ],
+          "category": "natural features",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Buslinie 8 fährt in die Nähe des Palmenhauses. Ein exotischer Abschluss des Tages.",
+            "hu": "A 8-as busz a Pálmaház közelében áll meg. Egzotikus befejezése a napnak.",
+            "ro": "Autobuzul linia 8 merge aproape de Sera de Palmieri. O încheiere exotică a zilei.",
+            "en": "Bus line 8 goes near the Palm House. An exotic end to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Zentrum",
+            "hu": "Vacsora a központban",
+            "ro": "Cină în centru",
+            "en": "Dinner in the Center"
+          },
+          "coords": [
+            16.284,
+            50.767
+          ],
+          "category": "gastro",
+          "arrive_at": "17:45",
+          "stay_min": 70,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum, um den Tag bei einem leckeren Abendessen ausklingen zu lassen.",
+            "hu": "Utazzon vissza a központba, hogy egy finom vacsorával zárja a napot.",
+            "ro": "Întoarceți-vă în centru pentru a încheia ziua cu o cină delicioasă.",
+            "en": "Travel back to the center to end the day with a delicious dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln entdecken Sie Wałbrzychs Vielfalt. Der Morgen gehört dem historischen Zentrum mit seinem Marktplatz und dem Porzellanmuseum, alles bequem zu Fuß erreichbar. Ein Bus bringt Sie dann zum industriellen Wahrzeichen, der Alten Grube. Am Nachmittag wartet mit dem Palmenhaus eine exotische Welt auf Sie, ebenfalls per Bus erreichbar. Der Tag endet gemütlich bei einem Abendessen zurück im Stadtzentrum.",
+        "hu": "Tömegközlekedéssel fedezze fel Wałbrzych sokszínűségét. A délelőtt a történelmi központé a Piactérrel és a Porcelánmúzeummal, melyek gyalogosan is kényelmesen elérhetők. Ezután egy busz viszi el az ipari jelképhez, a Régi Bányához. Délután egy egzotikus világ várja a Pálmaházban, amely szintén busszal közelíthető meg. A nap kényelmesen, egy vacsorával zárul a városközpontban.",
+        "ro": "Descoperiți diversitatea orașului Wałbrzych cu transportul public. Dimineața este dedicată centrului istoric, cu Piața Centrală și Muzeul Porțelanului, ambele ușor accesibile pe jos. Un autobuz vă va duce apoi la reperul industrial, Mina Veche. După-amiaza, o lume exotică vă așteaptă la Sera de Palmieri, accesibilă tot cu autobuzul. Ziua se încheie confortabil cu o cină înapoi în centrul orașului.",
+        "en": "Discover Wałbrzych's diversity using public transport. The morning belongs to the historic center with its Market Square and Porcelain Museum, all easily reachable on foot. A bus then takes you to the industrial landmark, the Old Mine. In the afternoon, an exotic world awaits you at the Palm House, also accessible by bus. The day ends comfortably with dinner back in the city center."
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Nutzen Sie eine ÖPNV-App, um Routen und Fahrpläne in Echtzeit zu prüfen.",
+          "Die Busse zum Schloss Fürstenstein und zum Palmenhaus fahren seltener, planen Sie also voraus.",
+          "Beachten Sie, dass einige Haltestellen auf Anfrage bedient werden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Használjon tömegközlekedési alkalmazást az útvonalak és menetrendek valós idejű ellenőrzéséhez.",
+          "A Książ kastélyhoz és a Pálmaházhoz ritkábban járnak a buszok, ezért tervezzen előre.",
+          "Vegye figyelembe, hogy egyes megállókban csak kérésre áll meg a busz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Utilizați o aplicație de transport public pentru a verifica rutele și orarele în timp real.",
+          "Autobuzele către Castelul Książ și Sera de Palmieri circulă mai rar, așa că planificați din timp.",
+          "Rețineți că unele stații sunt la cerere."
+        ],
+        "en": [
+          "Buy a day ticket for public transport to save money.",
+          "Use a public transport app to check routes and timetables in real time.",
+          "Buses to Książ Castle and the Palm House run less frequently, so plan ahead.",
+          "Note that some stops are on demand."
         ]
       }
     }

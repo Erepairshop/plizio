@@ -1,0 +1,1194 @@
+{
+  "city_id": "ireland-kenmare-cities-v2",
+  "anchor": {
+    "name": "Kenmare",
+    "coords": [
+      -9.584,
+      51.883
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Market Square",
+          "coords": [
+            -9.584,
+            51.883
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekter Ort für einen Morgenkaffee und um das bunte Treiben zu beobachten.",
+            "hu": "Tökéletes hely egy reggeli kávéhoz és a városka nyüzsgésének megfigyeléséhez.",
+            "ro": "Locul perfect pentru o cafea de dimineață și pentru a observa agitația.",
+            "en": "Perfect spot for a morning coffee and watching the town come alive."
+          }
+        },
+        {
+          "name": "Kenmare Heritage Centre",
+          "coords": [
+            -9.585,
+            51.882
+          ],
+          "category": "museums",
+          "arrive_at": "09:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hier erfahren Sie alles über die Geschichte der Stadt und die Nonnen vom armen Kinde Jesus.",
+            "hu": "Itt mindent megtudhat a város történelméről és a helyi apácarendről.",
+            "ro": "Aici veți afla totul despre istoria orașului și ordinul de călugărițe locale.",
+            "en": "Learn all about the town's history and the local order of nuns."
+          }
+        },
+        {
+          "name": "Holy Cross Church",
+          "coords": [
+            -9.583,
+            51.881
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Holzarbeiten im Inneren der Kirche.",
+            "hu": "Csodálja meg a templom belsejében található lenyűgöző fafaragásokat.",
+            "ro": "Admirați sculpturile impresionante în lemn din interiorul bisericii.",
+            "en": "Admire the impressive woodwork inside the church."
+          }
+        },
+        {
+          "name": "Steinkreis von Kenmare",
+          "coords": [
+            -9.586,
+            51.881
+          ],
+          "category": "historical",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Einer der größten Steinkreise im Südwesten Irlands.",
+            "hu": "Délnyugat-Írország egyik legnagyobb és legépebben maradt kőköre.",
+            "ro": "Unul dintre cele mai mari cercuri de piatră din sud-vestul Irlandei.",
+            "en": "One of the largest stone circles in the south-west of Ireland."
+          }
+        },
+        {
+          "name": "Cromwell's Bridge",
+          "coords": [
+            -9.587,
+            51.88
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine alte, steile Brücke, die sich perfekt für romantische Fotos eignet.",
+            "hu": "Egy régi, meredek híd, amely tökéletes romantikus fotókhoz.",
+            "ro": "Un pod vechi și abrupt, perfect pentru fotografii romantice.",
+            "en": "An old, steep bridge perfect for romantic photos."
+          }
+        },
+        {
+          "name": "Reenagross Park",
+          "coords": [
+            -9.581,
+            51.879
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wunderschöne Spazierwege am Wasser entlang der Kenmare Bay.",
+            "hu": "Gyönyörű sétányok a vízparton, a Kenmare-öböl mentén.",
+            "ro": "Trasee frumoase de mers pe jos de-a lungul golfului Kenmare.",
+            "en": "Beautiful walking trails along the water of Kenmare Bay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Rundgang beginnt im bunten Zentrum am Market Square. Nach einem Besuch im Heritage Centre und der majestätischen Holy Cross Church tauchen wir in die mystische Vergangenheit am alten Steinkreis ein. Den Nachmittag lassen wir im malerischen Reenagross Park ausklingen.",
+        "hu": "Sétánk a színes központban, a Market Square-en indul. A Heritage Centre és a fenséges Holy Cross Church meglátogatása után elmerülünk a misztikus múltban az ősi kőkörnél. A délutánt a festői Reenagross Parkban zárjuk.",
+        "ro": "Turul nostru începe în centrul colorat de la Market Square. După o vizită la Heritage Centre și la maiestuoasa Holy Cross Church, ne scufundăm în trecutul mistic la vechiul cerc de piatră. După-amiaza o petrecem în pitorescul parc Reenagross.",
+        "en": "Our walking tour begins in the colorful center at Market Square. After visiting the Heritage Centre and the majestic Holy Cross Church, we delve into the mystical past at the ancient stone circle. The afternoon is spent relaxing in the picturesque Reenagross Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seafood Chowder",
+            "tip": "Cremige Meeresfrüchtesuppe in einem der Pubs an der Main Street."
+          },
+          {
+            "name": "Irish Stew",
+            "tip": "Klassischer Lamm-Eintopf, perfekt nach einem Spaziergang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei krémleves",
+            "tip": "Krémes halleves az egyik Main Street-i pubban."
+          },
+          {
+            "name": "Irish Stew",
+            "tip": "Klasszikus bárányragu, tökéletes egy hosszú séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de fructe de mare",
+            "tip": "Supă cremoasă de fructe de mare într-un pub de pe Main Street."
+          },
+          {
+            "name": "Tocană irlandeză",
+            "tip": "Tocană clasică de miel, perfectă după o plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Chowder",
+            "tip": "Creamy seafood soup in one of the pubs on Main Street."
+          },
+          {
+            "name": "Irish Stew",
+            "tip": "Classic lamb stew, perfect after a walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kenmare Bay",
+            "tip": "Friedliche Blicke auf das Wasser am Rande der Stadt.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Reenagross Woodland",
+            "tip": "Stiller Waldspaziergang fernab des Zentrums.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kenmare-öböl",
+            "tip": "Békés kilátás a vízre a város szélén.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Reenagross erdőség",
+            "tip": "Csendes erdei séta a központtól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Kenmare",
+            "tip": "Vederi liniștite la apă la marginea orașului.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Pădurea Reenagross",
+            "tip": "Plimbare liniștită prin pădure, departe de centru.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kenmare Bay",
+            "tip": "Peaceful water views at the edge of the town.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Reenagross Woodland",
+            "tip": "Quiet woodland walk away from the center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kenmare Lace",
+            "tip": "Traditionelle irische Spitze, ein perfektes Souvenir."
+          },
+          {
+            "name": "Wollpullover",
+            "tip": "Handgestrickte Pullover aus lokaler Schafswolle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kenmare-i csipke",
+            "tip": "Hagyományos ír csipke, tökéletes szuvenír."
+          },
+          {
+            "name": "Gyapjúpulóver",
+            "tip": "Kézzel kötött pulóverek helyi báránygyapjúból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dantelă Kenmare",
+            "tip": "Dantelă tradițională irlandeză, un suvenir perfect."
+          },
+          {
+            "name": "Pulover de lână",
+            "tip": "Pulovere tricotate manual din lână locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kenmare Lace",
+            "tip": "Traditional Irish lace, a perfect souvenir."
+          },
+          {
+            "name": "Wool Sweaters",
+            "tip": "Hand-knitted sweaters made from local sheep's wool."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kenmare ist ideal zu Fuß erkundbar, da die Hauptattraktionen nahe beieinander liegen.",
+          "Nehmen Sie einen Regenschirm mit, das irische Wetter kann schnell umschlagen.",
+          "Probieren Sie das lokale Bier in einem der traditionellen Pubs am Abend."
+        ],
+        "hu": [
+          "Kenmare ideális gyalogos felfedezésre, mivel a főbb látnivalók közel vannak egymáshoz.",
+          "Vigyen magával esernyőt, az ír időjárás gyorsan változhat.",
+          "Este kóstolja meg a helyi sört az egyik hagyományos pubban."
+        ],
+        "ro": [
+          "Kenmare este ideal pentru a fi explorat pe jos, deoarece atracțiile principale sunt aproape unele de altele.",
+          "Luați o umbrelă, vremea irlandeză se poate schimba rapid.",
+          "Seara, gustați berea locală într-unul dintre puburile tradiționale."
+        ],
+        "en": [
+          "Kenmare is ideal for exploring on foot, as the main attractions are close to each other.",
+          "Bring an umbrella, the Irish weather can change quickly.",
+          "Try the local beer in one of the traditional pubs in the evening."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Market Square",
+          "coords": [
+            -9.584,
+            51.883
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour direkt im Herzen der Stadt.",
+            "hu": "Kezdje a kerékpártúrát közvetlenül a város szívében.",
+            "ro": "Începeți turul cu bicicleta chiar în inima orașului.",
+            "en": "Start your bike tour right in the heart of the town."
+          }
+        },
+        {
+          "name": "Kenmare Heritage Centre",
+          "coords": [
+            -9.585,
+            51.882
+          ],
+          "category": "museums",
+          "arrive_at": "09:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Binden Sie Ihr Fahrrad an und erkunden Sie das Museum.",
+            "hu": "Kösse le a kerékpárját, és fedezze fel a múzeumot.",
+            "ro": "Legați-vă bicicleta și explorați muzeul.",
+            "en": "Lock up your bike and explore the museum."
+          }
+        },
+        {
+          "name": "Holy Cross Church",
+          "coords": [
+            -9.583,
+            51.881
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nur eine kurze Fahrt von der Hauptstraße entfernt.",
+            "hu": "Csak egy rövid útra a főutcától.",
+            "ro": "La doar o scurtă călătorie cu bicicleta de strada principală.",
+            "en": "Just a short ride from the main street."
+          }
+        },
+        {
+          "name": "Steinkreis von Kenmare",
+          "coords": [
+            -9.586,
+            51.881
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrräder können am Eingangstor abgestellt werden.",
+            "hu": "A kerékpárokat a bejárati kapunál lehet hagyni.",
+            "ro": "Bicicletele pot fi lăsate la poarta de intrare.",
+            "en": "Bikes can be left at the entrance gate."
+          }
+        },
+        {
+          "name": "Cromwell's Bridge",
+          "coords": [
+            -9.587,
+            51.88
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vorsicht beim Gehen über die alte, rutschige Brücke.",
+            "hu": "Óvatosan sétáljon át a régi, csúszós hídon.",
+            "ro": "Atenție când mergeți pe podul vechi și alunecos.",
+            "en": "Be careful when walking over the old, slippery bridge."
+          }
+        },
+        {
+          "name": "Reenagross Park",
+          "coords": [
+            -9.581,
+            51.879
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Herrliche Wege für eine gemütliche Radtour.",
+            "hu": "Kiváló utak egy kényelmes kerékpározáshoz.",
+            "ro": "Cărări excelente pentru o plimbare confortabilă cu bicicleta.",
+            "en": "Excellent paths for a comfortable bike ride."
+          }
+        },
+        {
+          "name": "Our Lady's Well",
+          "coords": [
+            -9.578,
+            51.877
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine ruhige, heilige Quelle, etwas versteckt gelegen.",
+            "hu": "Egy csendes, szent forrás, kicsit eldugva.",
+            "ro": "Un izvor liniștit și sfânt, puțin ascuns.",
+            "en": "A quiet, holy well, tucked away."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden wir Kenmare mühelos. Vom belebten Zentrum radeln wir zu historischen Stätten wie dem Steinkreis und Cromwell's Bridge. Am Nachmittag genießen wir die Natur im Reenagross Park und fahren weiter zur heiligen Quelle Our Lady's Well.",
+        "hu": "Kerékpárral könnyedén felfedezhetjük Kenmare-t. A nyüzsgő központból történelmi helyekre tekerünk, mint a kőkör és a Cromwell híd. Délután a Reenagross Parkban élvezzük a természetet, majd eltekerünk a szent forráshoz.",
+        "ro": "Cu bicicleta explorăm Kenmare fără efort. Din centrul plin de viață pedalăm spre locuri istorice precum cercul de piatră și podul Cromwell. După-amiaza ne bucurăm de natură în parcul Reenagross și mergem la izvorul sfânt.",
+        "en": "We can effortlessly explore Kenmare by bike. From the bustling center we cycle to historical sites such as the stone circle and Cromwell's bridge. In the afternoon we enjoy nature in Reenagross Park and cycle to the holy well."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lammbraten",
+            "tip": "Ein herzhaftes lokales Gericht, ideal nach einer Radtour."
+          },
+          {
+            "name": "Irisches Stout",
+            "tip": "Perfekte Erfrischung in einem Pub am späten Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Báránysült",
+            "tip": "Kiadós helyi étel, ideális egy kerékpártúra után."
+          },
+          {
+            "name": "Ír stout",
+            "tip": "Tökéletes frissítő egy pubban késő délután."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friptură de miel",
+            "tip": "Un preparat local copios, ideal după un tur cu bicicleta."
+          },
+          {
+            "name": "Stout irlandez",
+            "tip": "Reîmprospătare perfectă într-un pub la sfârșitul după-amiezii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roast Lamb",
+            "tip": "A hearty local dish, ideal after a bike tour."
+          },
+          {
+            "name": "Irish Stout",
+            "tip": "Perfect refreshment in a pub late in the afternoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Kenmare Flusses",
+            "tip": "Suchen Sie sich ein ruhiges Plätzchen mit dem Fahrrad.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Our Lady's Well Umgebung",
+            "tip": "Stiller Rückzugsort für Momente der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kenmare folyó partja",
+            "tip": "Keressen egy csendes helyet a kerékpárral.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Our Lady's Well környéke",
+            "tip": "Csendes menedék a nyugalom pillanataihoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Kenmare",
+            "tip": "Găsiți un loc liniștit cu bicicleta.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Zona Our Lady's Well",
+            "tip": "Refugiu liniștit pentru momente de calm.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Kenmare River",
+            "tip": "Find a quiet spot with your bike.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Our Lady's Well Area",
+            "tip": "Quiet retreat for moments of peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgemachte Schokolade",
+            "tip": "Lokale Süßwarenläden bieten exzellente Pralinen an."
+          },
+          {
+            "name": "Kunsthandwerk",
+            "tip": "Kleine Galerien verkaufen lokale Kunst und Schmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves csokoládé",
+            "tip": "A helyi édességboltok kiváló pralinékat kínálnak."
+          },
+          {
+            "name": "Kézműves termékek",
+            "tip": "Kis galériák árulnak helyi művészetet és ékszereket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciocolată artizanală",
+            "tip": "Magazinele locale de dulciuri oferă praline excelente."
+          },
+          {
+            "name": "Artizanat",
+            "tip": "Micile galerii vând artă și bijuterii locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Chocolate",
+            "tip": "Local sweet shops offer excellent pralines."
+          },
+          {
+            "name": "Handicrafts",
+            "tip": "Small galleries sell local art and jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kenmare und die Umgebung bieten gut ausgebaute Radwege.",
+          "Achten Sie auf Fußgänger in den Parks.",
+          "Ein gutes Fahrradschloss ist wichtig, um die Sehenswürdigkeiten entspannt zu besichtigen."
+        ],
+        "hu": [
+          "Kenmare és környéke jól kiépített kerékpárutakkal rendelkezik.",
+          "Ügyeljen a gyalogosokra a parkokban.",
+          "Egy jó kerékpárzár fontos, hogy nyugodtan megnézhesse a látnivalókat."
+        ],
+        "ro": [
+          "Kenmare și zona înconjurătoare oferă piste de biciclete bine dezvoltate.",
+          "Atenție la pietoni în parcuri.",
+          "Un lacăt bun pentru bicicletă este important pentru a vizita atracțiile în mod relaxat."
+        ],
+        "en": [
+          "Kenmare and the surrounding area offer well-developed cycle paths.",
+          "Watch out for pedestrians in the parks.",
+          "A good bike lock is important for a relaxed visit to the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Market Square",
+          "coords": [
+            -9.584,
+            51.883
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier zentral und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon le itt központilag, és fedezze fel az első klasztert gyalog.",
+            "ro": "Parcați aici central și explorați primul cluster pe jos.",
+            "en": "Park here centrally and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": "Kenmare Heritage Centre",
+          "coords": [
+            -9.585,
+            51.882
+          ],
+          "category": "museums",
+          "arrive_at": "09:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Fußweg vom Marktplatz entfernt.",
+            "hu": "Csak egy rövid sétára a piactértől.",
+            "ro": "La doar o scurtă plimbare de piață.",
+            "en": "Just a short walk from the market square."
+          }
+        },
+        {
+          "name": "Kenmare Lace Museum",
+          "coords": [
+            -9.585,
+            51.882
+          ],
+          "category": "museums",
+          "arrive_at": "11:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Kunstfertigkeit der feinen Kenmare-Spitze.",
+            "hu": "Fedezze fel a finom Kenmare-i csipke művészetét.",
+            "ro": "Descoperiți măiestria finei dantele Kenmare.",
+            "en": "Discover the artistry of fine Kenmare lace."
+          }
+        },
+        {
+          "name": "Steinkreis von Kenmare",
+          "coords": [
+            -9.586,
+            51.881
+          ],
+          "category": "historical",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ein kurzes Stück zum südlichen Cluster und parken Sie nahebei.",
+            "hu": "Vezessen egy rövid távot a déli klaszterhez, és parkoljon a közelben.",
+            "ro": "Conduceți o scurtă distanță spre clusterul sudic și parcați în apropiere.",
+            "en": "Drive a short distance to the southern cluster and park nearby."
+          }
+        },
+        {
+          "name": "Cromwell's Bridge",
+          "coords": [
+            -9.587,
+            51.88
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bequem zu Fuß vom Steinkreis erreichbar.",
+            "hu": "Kényelmesen megközelíthető gyalog a kőkörtől.",
+            "ro": "Ușor accesibil pe jos de la cercul de piatră.",
+            "en": "Easily accessible on foot from the stone circle."
+          }
+        },
+        {
+          "name": "Reenagross Park",
+          "coords": [
+            -9.581,
+            51.879
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Letzter Stopp in der Natur. Parkplätze sind am Rand des Parks verfügbar.",
+            "hu": "Utolsó megálló a természetben. Parkolók a park szélén találhatók.",
+            "ro": "Ultima oprire în natură. Parcarea este disponibilă la marginea parcului.",
+            "en": "Last stop in nature. Parking is available at the edge of the park."
+          }
+        },
+        {
+          "name": "Our Lady's Well",
+          "coords": [
+            -9.578,
+            51.877
+          ],
+          "category": "historical",
+          "arrive_at": "16:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein besinnlicher Abschluss, zu Fuß durch den Park erreichbar.",
+            "hu": "Elmélkedő befejezés, a parkon keresztül gyalogosan is megközelíthető.",
+            "ro": "Un final contemplativ, accesibil pe jos prin parc.",
+            "en": "A contemplative end, accessible on foot through the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto nutzen wir die Cluster-Methode in Kenmare. Wir parken zentral und schlendern zum Market Square sowie zu den Museen. Eine kurze Fahrt bringt uns zum südlichen Bereich mit dem alten Steinkreis. Schließlich entspannen wir im Reenagross Park, unserem letzten Stopp.",
+        "hu": "Autóval a klaszter-módszert használjuk Kenmare-ben. Központilag parkolunk, és elsétálunk a Market Square-re és a múzeumokhoz. Egy rövid út visz el a déli részre az ősi kőkörhöz. Végül a Reenagross Parkban pihenünk meg.",
+        "ro": "Cu mașina folosim metoda clusterului în Kenmare. Parcăm central și ne plimbăm spre Market Square și muzee. O scurtă călătorie ne aduce în zona sudică cu vechiul cerc de piatră. La final, ne relaxăm în parcul Reenagross.",
+        "en": "By car we use the cluster method in Kenmare. We park centrally and stroll to Market Square and the museums. A short drive takes us to the southern area with the ancient stone circle. Finally, we relax in Reenagross Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gebackener Lachs",
+            "tip": "Lokaler Wildlachs mit frischem Gemüse."
+          },
+          {
+            "name": "Apfelkuchen",
+            "tip": "Hausgemachter irischer Apfelkuchen als süßer Abschluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült lazac",
+            "tip": "Helyi vadlazac friss zöldségekkel."
+          },
+          {
+            "name": "Almás pite",
+            "tip": "Házi készítésű ír almás pite édes befejezésként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Somon copt",
+            "tip": "Somon sălbatic local cu legume proaspete."
+          },
+          {
+            "name": "Plăcintă cu mere",
+            "tip": "Plăcintă irlandeză cu mere, de casă, ca final dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baked Salmon",
+            "tip": "Local wild salmon with fresh vegetables."
+          },
+          {
+            "name": "Apple Pie",
+            "tip": "Homemade Irish apple pie as a sweet finish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Südufer der Bay",
+            "tip": "Fahren Sie ein Stück am Wasser entlang für einsame Momente.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Brücken-Aussicht",
+            "tip": "Genießen Sie den Blick von Cromwell's Bridge.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az öböl déli partja",
+            "tip": "Vezessen kicsit a víz mentén magányos pillanatokért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Híd-kilátás",
+            "tip": "Élvezze a kilátást a Cromwell hídról.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul de sud al golfului",
+            "tip": "Conduceți puțin de-a lungul apei pentru momente de singurătate.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vedere de pe pod",
+            "tip": "Bucurați-vă de vederea de pe podul Cromwell.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "South Shore of the Bay",
+            "tip": "Drive a bit along the water for solitary moments.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bridge View",
+            "tip": "Enjoy the view from Cromwell's Bridge.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tweed-Waren",
+            "tip": "Qualitativ hochwertige irische Tweed-Jacken und Mützen."
+          },
+          {
+            "name": "Whiskey",
+            "tip": "Eine Flasche lokaler irischer Whiskey als Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tweed-termékek",
+            "tip": "Kiváló minőségű ír tweed kabátok és sapkák."
+          },
+          {
+            "name": "Whiskey",
+            "tip": "Egy üveg helyi ír whiskey ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse din tweed",
+            "tip": "Jachete și șepci din tweed irlandez de înaltă calitate."
+          },
+          {
+            "name": "Whiskey",
+            "tip": "O sticlă de whiskey irlandez local ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tweed Goods",
+            "tip": "High-quality Irish tweed jackets and caps."
+          },
+          {
+            "name": "Whiskey",
+            "tip": "A bottle of local Irish whiskey as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kenmare ist klein, also nutzen Sie das Auto nur für Sprünge zwischen den Clustern.",
+          "Parken Sie zentral am Rande des Market Square, um Parkgebühren zu sparen.",
+          "Seien Sie vorsichtig auf schmalen irischen Landstraßen."
+        ],
+        "hu": [
+          "Kenmare kicsi, ezért csak a klaszterek közötti ugrásokhoz használja az autót.",
+          "Parkoljon a Market Square szélén, hogy megspórolja a parkolási díjakat.",
+          "Legyen óvatos a keskeny ír vidéki utakon."
+        ],
+        "ro": [
+          "Kenmare este mic, așa că folosiți mașina doar pentru sărituri între clustere.",
+          "Parcați central la marginea Market Square pentru a economisi taxe de parcare.",
+          "Fii atent pe drumurile înguste de țară din Irlanda."
+        ],
+        "en": [
+          "Kenmare is small, so only use the car for hops between clusters.",
+          "Park centrally on the edge of Market Square to save on parking fees.",
+          "Be careful on narrow Irish country roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Market Square",
+          "coords": [
+            -9.584,
+            51.883
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt, idealer Start in den Tag.",
+            "hu": "Központi buszcsomópont, ideális kezdete a napnak.",
+            "ro": "Nod central de autobuz, început ideal pentru zi.",
+            "en": "Central bus hub, ideal start to the day."
+          }
+        },
+        {
+          "name": "Holy Cross Church",
+          "coords": [
+            -9.583,
+            51.881
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich um die Ecke, perfekt nach einem Kaffee.",
+            "hu": "Közvetlenül a sarkon, tökéletes kávé után.",
+            "ro": "Chiar după colț, perfect după o cafea.",
+            "en": "Just around the corner, perfect after a coffee."
+          }
+        },
+        {
+          "name": "Kenmare Lace Museum",
+          "coords": [
+            -9.585,
+            51.882
+          ],
+          "category": "museums",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gemütlicher Fußweg durch die alten Gassen.",
+            "hu": "Kényelmes séta a régi sikátorokon át.",
+            "ro": "Plimbare relaxată prin străduțele vechi.",
+            "en": "Relaxing walk through the old alleys."
+          }
+        },
+        {
+          "name": "Steinkreis von Kenmare",
+          "coords": [
+            -9.586,
+            51.881
+          ],
+          "category": "historical",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Shuttle zum südlichen Ortsteil.",
+            "hu": "Szálljon fel a helyi járatra a déli negyedbe.",
+            "ro": "Luați un autobuz local spre districtul de sud.",
+            "en": "Take the local shuttle to the southern district."
+          }
+        },
+        {
+          "name": "Cromwell's Bridge",
+          "coords": [
+            -9.587,
+            51.88
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein sehr kurzes Stück vom Steinkreis zu Fuß.",
+            "hu": "Nagyon rövid távolságra gyalog a kőkörtől.",
+            "ro": "O distanță foarte scurtă pe jos de la cercul de piatră.",
+            "en": "A very short distance on foot from the stone circle."
+          }
+        },
+        {
+          "name": "Reenagross Park",
+          "coords": [
+            -9.581,
+            51.879
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kurze Busfahrt oder längerer Spaziergang zur Bucht.",
+            "hu": "Rövid buszút vagy hosszabb séta az öbölhöz.",
+            "ro": "Scurtă plimbare cu autobuzul sau o plimbare mai lungă până la golf.",
+            "en": "Short bus ride or longer walk to the bay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden wir Kenmare in Clustern. Wir beginnen am Knotenpunkt Market Square, erkunden die Altstadt und nehmen dann einen Shuttle zum Steinkreis. Schließlich bringt uns der Bus zum malerischen Reenagross Park an der Bucht.",
+        "hu": "Tömegközlekedéssel klaszterekben fedezzük fel Kenmare-t. A Market Square csomópontnál kezdünk, felfedezzük az óvárost, majd busszal elmegyünk a kőkörhöz. Végül a busz az öbölnél lévő festői Reenagross Parkba visz.",
+        "ro": "Folosind transportul public, explorăm Kenmare în clustere. Începem de la nodul Market Square, explorăm orașul vechi și apoi luăm un autobuz spre cercul de piatră. În cele din urmă, autobuzul ne duce în parcul pitoresc Reenagross din golf.",
+        "en": "Using public transport, we explore Kenmare in clusters. We start at the Market Square hub, explore the old town, and then take a shuttle to the stone circle. Finally, the bus takes us to the picturesque Reenagross Park on the bay."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Klassisches Pub-Essen in der Nähe der Haltestelle."
+          },
+          {
+            "name": "Scones mit Clotted Cream",
+            "tip": "Genießen Sie dies in einem traditionellen Tearoom."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Klasszikus kocsmai étel a megálló közelében."
+          },
+          {
+            "name": "Pogácsa (scone) krémmel",
+            "tip": "Élvezze egy hagyományos teaházban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Mâncare clasică de pub aproape de stație."
+          },
+          {
+            "name": "Scones cu smântână",
+            "tip": "Bucurați-vă de acestea într-o ceainărie tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Classic pub food near the stop."
+          },
+          {
+            "name": "Scones with Clotted Cream",
+            "tip": "Enjoy this in a traditional tearoom."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkbänke im Reenagross",
+            "tip": "Setzen Sie sich und hören Sie den Vögeln zu.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Alte Kirchenruinen",
+            "tip": "Abgelegene Orte abseits der Buslinien.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parkpadok Reenagross-ban",
+            "tip": "Üljön le és hallgassa a madarakat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Régi templomromok",
+            "tip": "Félreeső helyek a buszvonalaktól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci de parc în Reenagross",
+            "tip": "Stați jos și ascultați păsările.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ruine vechi de biserici",
+            "tip": "Locuri retrase, departe de liniile de autobuz.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park Benches in Reenagross",
+            "tip": "Sit down and listen to the birds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Old Church Ruins",
+            "tip": "Secluded places away from the bus lines.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Traditionelle irische Musik",
+            "tip": "Kaufen Sie eine CD oder Souvenirs in der Main Street."
+          },
+          {
+            "name": "Schmuck mit keltischen Motiven",
+            "tip": "In vielen kleinen Läden rund um das Zentrum erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hagyományos ír zene",
+            "tip": "Vásároljon CD-t vagy emléktárgyakat a Main Street-en."
+          },
+          {
+            "name": "Kelta motívumos ékszerek",
+            "tip": "Sok kis boltban kaphatók a központ körül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muzică tradițională irlandeză",
+            "tip": "Cumpărați un CD sau suveniruri pe Main Street."
+          },
+          {
+            "name": "Bijuterii cu motive celtice",
+            "tip": "Disponibile în multe magazine mici din jurul centrului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Traditional Irish Music",
+            "tip": "Buy a CD or souvenirs on Main Street."
+          },
+          {
+            "name": "Jewelry with Celtic Motifs",
+            "tip": "Available in many small shops around the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die lokalen Buslinien in Kenmare verkehren weniger häufig als in Großstädten, prüfen Sie den Fahrplan im Voraus.",
+          "Ein Tagesticket ist oft die günstigere Variante für mehrere Fahrten.",
+          "Viele kleine Sehenswürdigkeiten sind vom Bushub gut erreichbar."
+        ],
+        "hu": [
+          "A helyi buszjáratok Kenmare-ben ritkábban közlekednek, mint a nagyvárosokban, előre ellenőrizze a menetrendet.",
+          "A napijegy gyakran olcsóbb több utazás esetén.",
+          "Sok kisebb látnivaló jól megközelíthető a buszcsomópontról."
+        ],
+        "ro": [
+          "Autobuzele locale din Kenmare circulă mai rar decât în orașele mari, verificați orarul în avans.",
+          "Un bilet de o zi este adesea opțiunea mai ieftină pentru călătorii multiple.",
+          "Multe atracții mici sunt ușor accesibile de la hub-ul de autobuz."
+        ],
+        "en": [
+          "Local bus lines in Kenmare run less frequently than in large cities, check the timetable in advance.",
+          "A day ticket is often the cheaper option for multiple journeys.",
+          "Many small sights are easily accessible from the bus hub."
+        ]
+      }
+    }
+  }
+}

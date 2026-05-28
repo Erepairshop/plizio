@@ -1,0 +1,1392 @@
+{
+  "city_id": "cy-paphos",
+  "anchor": {
+    "name": "Paphos",
+    "coords": [
+      32.4245,
+      34.7768
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:21",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Paulussäule",
+            "hu": "Pál apostol oszlopa",
+            "ro": "Coloana Sfântului Paul",
+            "en": "St. Paul's Pillar"
+          },
+          "coords": [
+            32.4168,
+            34.7585
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Mosaikböden der umliegenden Kirchenruine.",
+            "hu": "Figyelje meg a környező templomrom mozaikpadlóját!",
+            "ro": "Fiți atenți la podelele de mozaic ale ruinelor bisericii din jur.",
+            "en": "Pay attention to the mosaic floors of the surrounding church ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Katakomben der Agia Solomoni",
+            "hu": "Agia Solomoni katakombák",
+            "ro": "Catacombele Agia Solomoni",
+            "en": "Agia Solomoni Catacombs"
+          },
+          "coords": [
+            32.416,
+            34.7595
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:31",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Binden Sie ein Tuch an den Baum am Eingang, um Heilung zu erbitten, so der lokale Glaube.",
+            "hu": "A helyi hiedelem szerint kössön egy kendőt a bejáratnál álló fára a gyógyulásért!",
+            "ro": "Legați o eșarfă de copacul de la intrare pentru a cere vindecare, conform credinței locale.",
+            "en": "Tie a cloth to the tree at the entrance to ask for healing, according to local belief."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologischer Park Paphos",
+            "hu": "Páfoszi Régészeti Park",
+            "ro": "Parcul Arheologic Paphos",
+            "en": "Paphos Archaeological Park"
+          },
+          "coords": [
+            32.4095,
+            34.757
+          ],
+          "category": "historical",
+          "arrive_at": "10:21",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht das Haus des Dionysos mit seinen unglaublich gut erhaltenen Mosaiken.",
+            "hu": "Ne hagyja ki Dionüszosz házát a hihetetlenül jó állapotban megmaradt mozaikokkal!",
+            "ro": "Nu ratați Casa lui Dionis, cu mozaicurile sale incredibil de bine conservate.",
+            "en": "Don't miss the House of Dionysus with its incredibly well-preserved mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Paphos",
+            "hu": "Páfoszi vár",
+            "ro": "Castelul din Paphos",
+            "en": "Paphos Castle"
+          },
+          "coords": [
+            32.4075,
+            34.754
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:33",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie auf das Dach für eine fantastische Aussicht auf den Hafen und das Meer.",
+            "hu": "Menjen fel a tetőre a kikötőre és a tengerre nyíló fantasztikus kilátásért!",
+            "ro": "Urcați pe acoperiș pentru o vedere fantastică a portului și a mării.",
+            "en": "Climb to the roof for a fantastic view of the harbour and the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch at the Harbour"
+          },
+          "coords": [
+            32.4085,
+            34.755
+          ],
+          "category": "gastro",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie eine Fisch-Meze in einer der Tavernen am Wasser.",
+            "hu": "Kóstoljon meg egy hal meze-t a vízparti tavernák egyikében!",
+            "ro": "Încercați un meze de pește la una dintre tavernele de pe malul apei.",
+            "en": "Try a fish meze in one of the waterfront tavernas."
+          }
+        },
+        {
+          "name": {
+            "de": "Königsgräber",
+            "hu": "Királysírok",
+            "ro": "Mormintele Regilor",
+            "en": "Tombs of the Kings"
+          },
+          "coords": [
+            32.4065,
+            34.7745
+          ],
+          "category": "historical",
+          "arrive_at": "15:26",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Tragen Sie festes Schuhwerk, da das Gelände groß und uneben ist.",
+            "hu": "Viseljen erős cipőt, mivel a terület nagy és egyenetlen.",
+            "ro": "Purtați încălțăminte rezistentă, deoarece terenul este vast și denivelat.",
+            "en": "Wear sturdy shoes as the site is large and the terrain is uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Leuchtturmstrand",
+            "hu": "Naplemente a világítótorony strandján",
+            "ro": "Apus de soare la plaja Farului",
+            "en": "Sunset at the Lighthouse Beach"
+          },
+          "coords": [
+            32.405,
+            34.765
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:06",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um den Tag ausklingen zu lassen, oft weniger überlaufen als andere Strände.",
+            "hu": "Csendes hely a nap lezárásához, gyakran kevésbé zsúfolt, mint a többi strand.",
+            "ro": "Un loc liniștit pentru a încheia ziua, adesea mai puțin aglomerat decât alte plaje.",
+            "en": "A quiet spot to end the day, often less crowded than other beaches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Reise in die Antike bei der Paulussäule und den kühlen Katakomben. Der Morgen ist der Erkundung des riesigen Archäologischen Parks gewidmet, wo Geschichte in den Mosaiken lebendig wird. Nach dem Mittagessen im lebhaften Hafen führt Sie ein längerer Spaziergang zu den beeindruckenden Königsgräbern. Der Tag endet mit einem ruhigen Sonnenuntergang am Leuchtturmstrand und bietet einen Moment der Reflexion über die reiche Vergangenheit von Paphos.",
+        "hu": "Kezdje a napot egy utazással az ókorba Pál apostol oszlopánál és a hűs katakombáknál. A délelőttöt a hatalmas Régészeti Park felfedezésének szentelje, ahol a történelem megelevenedik a mozaikokon. Az élénk kikötőben elköltött ebéd után egy hosszabb séta vezet az lenyűgöző Királysírokhoz. A nap egy békés naplementével zárul a világítótorony strandján, lehetőséget adva Páfosz gazdag múltjának átgondolására.",
+        "ro": "Începeți ziua cu o călătorie în antichitate la Coloana Sfântului Paul și catacombele răcoroase. Dimineața este dedicată explorării vastului Parc Arheologic, unde istoria prinde viață în mozaicuri. După prânzul în portul plin de viață, o plimbare mai lungă vă va duce la impresionantele Morminte ale Regilor. Ziua se încheie cu un apus de soare liniștit la plaja Farului, oferind un moment de reflecție asupra trecutului bogat al Paphosului.",
+        "en": "Start your day with a journey into antiquity at St. Paul's Pillar and the cool catacombs. The morning is dedicated to exploring the vast Archaeological Park, where history comes alive in the mosaics. After lunch in the vibrant harbour, a longer walk will take you to the impressive Tombs of the Kings. The day concludes with a peaceful sunset at the Lighthouse Beach, offering a moment of reflection on Paphos's rich past."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisch-Meze",
+            "tip": "Bestellen Sie eine Platte zum Teilen, um eine Vielzahl lokaler Meeresfrüchte zu probieren. Empfehlung: Ouzeri an der Hafenpromenade."
+          },
+          {
+            "name": "Halloumi",
+            "tip": "Gegrillter Halloumi-Käse ist ein Muss auf Zypern. Suchen Sie nach Tavernen, die ihn mit frischer Minze servieren."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Für eine schnelle und leckere Mahlzeit ist ein Schweine- oder Hühner-Souvlaki in Pitabrot perfekt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hal meze",
+            "tip": "Rendeljen egy megosztós tálat, hogy megkóstolhassa a helyi tengeri ételek sokféleségét. Ajánlás: Ouzeri a kikötői sétányon."
+          },
+          {
+            "name": "Halloumi",
+            "tip": "A grillezett halloumi sajt kötelező Cipruson. Keressen olyan tavernákat, ahol friss mentával tálalják."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Egy gyors és finom ételhez tökéletes a sertés- vagy csirke souvlaki pitában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Meze de pește",
+            "tip": "Comandați un platou de împărțit pentru a gusta o varietate de fructe de mare locale. Recomandare: Ouzeri pe promenada portului."
+          },
+          {
+            "name": "Halloumi",
+            "tip": "Brânza halloumi la grătar este un must-try în Cipru. Căutați taverne care o servesc cu mentă proaspătă."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Pentru o masă rapidă și gustoasă, un souvlaki de porc sau pui în pită este perfect."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Meze",
+            "tip": "Order a sharing platter to sample a variety of local seafood. Recommendation: Ouzeri on the harbour promenade."
+          },
+          {
+            "name": "Halloumi",
+            "tip": "Grilled halloumi cheese is a must-try in Cyprus. Look for tavernas that serve it with fresh mint."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "For a quick and delicious meal, a pork or chicken souvlaki in pitta bread is perfect."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leuchtturmstrand",
+            "tip": "Ein großartiger Ort für den Sonnenuntergang, abseits der geschäftigen Hauptstrände.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten des Archäologischen Parks",
+            "tip": "Finden Sie eine ruhige Bank zwischen den Ruinen, um dem Trubel zu entkommen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Világítótorony strandja",
+            "tip": "Nagyszerű hely a naplementéhez, távol a forgalmas fő strandoktól.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Régészeti Park kertjei",
+            "tip": "Keressen egy csendes padot a romok között, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Farului",
+            "tip": "Un loc minunat pentru apus, departe de plajele principale aglomerate.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Parcului Arheologic",
+            "tip": "Găsiți o bancă liniștită printre ruine pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lighthouse Beach",
+            "tip": "A great spot for sunset, away from the busy main beaches.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Archaeological Park Gardens",
+            "tip": "Find a quiet bench among the ruins to escape the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hafenmarkt",
+            "tip": "Kaufen Sie lokale Handwerkskunst, Souvenirs und handgemachten Schmuck."
+          },
+          {
+            "name": "Lefkara-Spitze",
+            "tip": "Suchen Sie nach authentischer handgemachter Spitze, einem berühmten zypriotischen Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői piac",
+            "tip": "Vásároljon helyi kézműves termékeket, szuveníreket és kézzel készített ékszereket."
+          },
+          {
+            "name": "Lefkara csipke",
+            "tip": "Keressen autentikus, kézzel készített csipkét, egy híres ciprusi kézműves terméket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din port",
+            "tip": "Cumpărați artizanat local, suveniruri și bijuterii realizate manual."
+          },
+          {
+            "name": "Dantelă Lefkara",
+            "tip": "Căutați dantelă autentică realizată manual, un renumit meșteșug cipriot."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbour Market",
+            "tip": "Shop for local crafts, souvenirs, and handmade jewellery."
+          },
+          {
+            "name": "Lefkara Lace",
+            "tip": "Look for authentic handmade lace, a famous Cypriot craft."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Eine Sonnenbrille und ein Hut sind unerlässlich, um sich vor der starken Mittelmeersonne zu schützen.",
+          "Die meisten Sehenswürdigkeiten befinden sich in der Gegend von Kato Paphos, also ist alles leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban.",
+          "A napszemüveg és a kalap elengedhetetlen az erős mediterrán nap elleni védekezéshez.",
+          "A legtöbb látnivaló Kato Paphos területén található, így minden könnyen megközelíthető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Luați multă apă cu dumneavoastră, mai ales în lunile de vară.",
+          "Ochelarii de soare și o pălărie sunt esențiale pentru a vă proteja de soarele puternic mediteranean.",
+          "Majoritatea atracțiilor sunt în zona Kato Paphos, deci totul este la distanță de mers pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring plenty of water, especially during the summer months.",
+          "Sunglasses and a hat are essential to protect yourself from the strong Mediterranean sun.",
+          "Most sights are located in the Kato Paphos area, so everything is within easy walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih am Hafen",
+            "hu": "Kerékpárkölcsönző a kikötőben",
+            "ro": "Închiriere de biciclete în port",
+            "en": "Bike Rental at the Harbour"
+          },
+          "coords": [
+            32.412,
+            34.756
+          ],
+          "category": "shopping",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wählen Sie ein robustes Fahrrad, das für Küstenwege geeignet ist.",
+            "hu": "Válasszon egy erős kerékpárt, amely alkalmas a tengerparti utakra.",
+            "ro": "Alegeți o bicicletă robustă, potrivită pentru traseele de coastă.",
+            "en": "Choose a sturdy bike suitable for coastal paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Küstenpromenade",
+            "hu": "Kerékpározás a tengerparti sétányon",
+            "ro": "Plimbare pe promenada de coastă",
+            "en": "Ride along the Coastal Promenade"
+          },
+          "coords": [
+            32.407,
+            34.754
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:36",
+          "stay_min": 0,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresbrise und die Aussicht auf die Burg von Paphos.",
+            "hu": "Élvezze a tengeri szellőt és a páfoszi várra nyíló kilátást!",
+            "ro": "Bucurați-vă de briza mării și de vederea Castelului Paphos.",
+            "en": "Enjoy the sea breeze and the view of Paphos Castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologischer Park Paphos",
+            "hu": "Páfoszi Régészeti Park",
+            "ro": "Parcul Arheologic Paphos",
+            "en": "Paphos Archaeological Park"
+          },
+          "coords": [
+            32.4095,
+            34.757
+          ],
+          "category": "historical",
+          "arrive_at": "09:42",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang an und erkunden Sie das riesige Gelände zu Fuß.",
+            "hu": "Zárja le a kerékpárját a bejáratnál, és fedezze fel a hatalmas területet gyalog.",
+            "ro": "Legați-vă bicicleta la intrare și explorați situl vast pe jos.",
+            "en": "Lock your bike at the entrance and explore the vast site on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Königsgräber",
+            "hu": "Királysírok",
+            "ro": "Mormintele Regilor",
+            "en": "Tombs of the Kings"
+          },
+          "coords": [
+            32.4065,
+            34.7745
+          ],
+          "category": "historical",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die Radtour hierher ist angenehm und meist flach.",
+            "hu": "A kerékpárút idáig kellemes és többnyire sík.",
+            "ro": "Plimbarea cu bicicleta până aici este plăcută și în mare parte plată.",
+            "en": "The bike ride here is pleasant and mostly flat."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe von Coral Bay",
+            "hu": "Ebéd a Coral Bay közelében",
+            "ro": "Prânz lângă Coral Bay",
+            "en": "Lunch near Coral Bay"
+          },
+          "coords": [
+            32.385,
+            34.815
+          ],
+          "category": "gastro",
+          "arrive_at": "13:53",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6,
+          "tip_5lang": {
+            "de": "Viele Restaurants hier bieten einen tollen Blick auf das Meer.",
+            "hu": "Sok itteni étterem nagyszerű kilátást nyújt a tengerre.",
+            "ro": "Multe restaurante de aici oferă o priveliște minunată la mare.",
+            "en": "Many restaurants here offer a great view of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannen an der Coral Bay",
+            "hu": "Pihenés a Coral Bay-en",
+            "ro": "Relaxare la Coral Bay",
+            "en": "Relaxing at Coral Bay"
+          },
+          "coords": [
+            32.378,
+            34.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:29",
+          "stay_min": 140,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort zum Schwimmen und Entspannen nach einer langen Radtour.",
+            "hu": "Tökéletes hely úszásra és pihenésre egy hosszú kerékpártúra után.",
+            "ro": "Un loc perfect pentru a înota și a vă relaxa după o plimbare lungă cu bicicleta.",
+            "en": "A perfect place to swim and relax after a long bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel für eine Küstentour, die am Hafen von Paphos beginnt. Radeln Sie entlang der Promenade, vorbei an der Burg, zum weitläufigen Archäologischen Park. Der Weg führt Sie weiter nach Norden zu den historischen Königsgräbern. Die Hauptstrecke des Tages führt Sie zur berühmten Coral Bay, wo ein spätes Mittagessen mit Meerblick und ein entspannter Nachmittag am Strand die Belohnung für Ihre Mühen sind. Die Rückfahrt am späten Nachmittag rundet einen aktiven Tag ab.",
+        "hu": "Pattanjon nyeregbe egy tengerparti túrára, amely a páfoszi kikötőből indul. Tekerjen végig a sétányon, elhaladva a vár mellett, a tágas Régészeti Parkig. Az út tovább vezet északra a történelmi Királysírokhoz. A nap fő szakasza a híres Coral Bay-hez visz, ahol egy késői, tengerre néző ebéd és egy pihentető délután a tengerparton a jutalom az erőfeszítésekért. A késő délutáni visszaút zárja az aktív napot.",
+        "ro": "Urcați-vă în șa pentru un tur de coastă care începe din portul Paphos. Pedalați de-a lungul promenadei, trecând pe lângă castel, până la vastul Parc Arheologic. Traseul vă duce mai departe spre nord, la istoricele Morminte ale Regilor. Traseul principal al zilei vă duce la faimoasa Coral Bay, unde un prânz târziu cu vedere la mare și o după-amiază relaxantă pe plajă sunt recompensa pentru eforturile dumneavoastră. Călătoria de întoarcere la sfârșitul după-amiezii încheie o zi activă.",
+        "en": "Get on your bike for a coastal tour starting from Paphos harbour. Cycle along the promenade, past the castle, to the expansive Archaeological Park. The path takes you further north to the historic Tombs of the Kings. The main leg of the day's journey takes you to the famous Coral Bay, where a late lunch with a sea view and a relaxing afternoon on the beach are the reward for your efforts. The return journey in the late afternoon completes an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Orangensaft",
+            "tip": "Halten Sie an einem Kiosk für ein erfrischendes Glas frisch gepressten zypriotischen Orangensaft."
+          },
+          {
+            "name": "Kalamari",
+            "tip": "Genießen Sie gegrillte oder gebratene Kalamari in einer Strandtaverne in Coral Bay."
+          },
+          {
+            "name": "Zypriotischer Kaffee",
+            "tip": "Machen Sie eine Pause in einem 'Kafeneio' für einen starken, traditionellen Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss narancslé",
+            "tip": "Álljon meg egy kioszknál egy pohár frissítő, frissen facsart ciprusi narancsléért."
+          },
+          {
+            "name": "Kalamári",
+            "tip": "Élvezze a grillezett vagy sült kalamárit egy tengerparti tavernában a Coral Bay-en."
+          },
+          {
+            "name": "Ciprusi kávé",
+            "tip": "Tartson szünetet egy 'Kafeneio'-ban egy erős, hagyományos kávéért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suc proaspăt de portocale",
+            "tip": "Opriți-vă la un chioșc pentru un pahar răcoritor de suc de portocale cipriot proaspăt stors."
+          },
+          {
+            "name": "Calamari",
+            "tip": "Savurați calamari la grătar sau prăjiți la o tavernă pe plajă în Coral Bay."
+          },
+          {
+            "name": "Cafea cipriotă",
+            "tip": "Faceți o pauză la un 'Kafeneio' pentru o cafea tare, tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Orange Juice",
+            "tip": "Stop at a kiosk for a refreshing glass of freshly squeezed Cypriot orange juice."
+          },
+          {
+            "name": "Calamari",
+            "tip": "Enjoy grilled or fried calamari at a beachside taverna in Coral Bay."
+          },
+          {
+            "name": "Cypriot Coffee",
+            "tip": "Take a break at a 'Kafeneio' for a strong, traditional coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenpfad nördlich der Königsgräber",
+            "tip": "Ein ruhigerer Abschnitt des Weges mit wunderschöner Aussicht auf die Klippen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spätnachmittags am Coral Bay",
+            "tip": "Wenn die Menschenmassen nachlassen, wird der Strand zu einem friedlichen Ort.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengerparti ösvény a Királysíroktól északra",
+            "tip": "Az ösvény egy csendesebb szakasza gyönyörű kilátással a sziklákra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Késő délután a Coral Bay-en",
+            "tip": "Amikor a tömeg csökken, a strand békés hellyé válik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă de coastă la nord de Mormintele Regilor",
+            "tip": "O secțiune mai liniștită a potecii cu vederi frumoase ale stâncilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "După-amiaza târziu la Coral Bay",
+            "tip": "Pe măsură ce mulțimile se răresc, plaja devine un loc pașnic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal path north of Tombs of the Kings",
+            "tip": "A quieter section of the path with beautiful cliffside views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Late afternoon at Coral Bay",
+            "tip": "As the crowds thin out, the beach becomes a peaceful spot.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte entlang der Küstenstraße",
+            "tip": "Entlang der Straße nach Coral Bay finden Sie viele Geschäfte, die Strandkleidung und Souvenirs verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a tengerparti út mentén",
+            "tip": "A Coral Bay felé vezető út mentén számos üzletet talál, ahol strandruhákat és szuveníreket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de-a lungul drumului de coastă",
+            "tip": "Veți găsi multe magazine care vând articole de plajă și suveniruri de-a lungul drumului spre Coral Bay."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops along the coastal road",
+            "tip": "You'll find many shops selling beachwear and souvenirs along the road to Coral Bay."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Der Küstenradweg ist meist flach, aber seien Sie auf einige leichte Steigungen vorbereitet.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, wenn Sie es abstellen.",
+          "Trinken Sie viel Wasser und verwenden Sie Sonnenschutz, da Sie der Sonne stark ausgesetzt sein werden."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "A tengerparti kerékpárút többnyire sík, de készüljön fel néhány enyhe emelkedőre.",
+          "Mindig zárja le biztonságosan a kerékpárját, amikor leparkolja.",
+          "Igyon sok vizet és használjon naptejet, mivel sokat lesz kitéve a napnak."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Pista de biciclete de coastă este în mare parte plată, dar fiți pregătiți pentru câteva pante ușoare.",
+          "Încuiați-vă întotdeauna bicicleta în siguranță atunci când o parcați.",
+          "Beți multă apă și folosiți protecție solară, deoarece veți fi foarte expus la soare."
+        ],
+        "en": [
+          "Check your bike before setting off, especially the brakes and tires.",
+          "The coastal cycle path is mostly flat, but be prepared for some gentle inclines.",
+          "Always lock your bike securely when you leave it.",
+          "Drink plenty of water and use sunscreen, as you will have a lot of sun exposure."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:46",
+      "total_km": 38.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Heiligtum der Aphrodite",
+            "hu": "Aphrodité szentélye",
+            "ro": "Sanctuarul Afroditei",
+            "en": "Sanctuary of Aphrodite"
+          },
+          "coords": [
+            32.5895,
+            34.7065
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um die mythologischen Wurzeln der Region zu verstehen.",
+            "hu": "Kezdje itt, hogy megértse a régió mitológiai gyökereit.",
+            "ro": "Începeți aici pentru a înțelege rădăcinile mitologice ale regiunii.",
+            "en": "Start here to understand the mythological roots of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Petra tou Romiou (Aphrodites Felsen)",
+            "hu": "Petra tou Romiou (Aphrodité sziklája)",
+            "ro": "Petra tou Romiou (Stânca Afroditei)",
+            "en": "Petra tou Romiou (Aphrodite's Rock)"
+          },
+          "coords": [
+            32.5268,
+            34.6635
+          ],
+          "category": "natural features",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Schwimmen Sie dreimal um den Felsen, um der Legende nach ewige Schönheit zu erlangen.",
+            "hu": "A legenda szerint ússza körbe háromszor a sziklát az örök szépségért.",
+            "ro": "Înotați în jurul stâncii de trei ori pentru a obține frumusețe veșnică, conform legendei.",
+            "en": "Swim around the rock three times to gain eternal beauty, according to legend."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologischer Park Paphos",
+            "hu": "Páfoszi Régészeti Park",
+            "ro": "Parcul Arheologic Paphos",
+            "en": "Paphos Archaeological Park"
+          },
+          "coords": [
+            32.4095,
+            34.757
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 65,
+          "hop_from_prev_km": 25,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Hafens und betreten Sie den Park für den ersten Teil Ihres Rundgangs.",
+            "hu": "Parkoljon a kikötő közelében, és lépjen be a parkba a gyalogtúra első részéhez.",
+            "ro": "Parcați lângă port și intrați în parc pentru prima parte a turului dumneavoastră pietonal.",
+            "en": "Park near the harbour and enter the park for the first part of your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch at the Harbour"
+          },
+          "coords": [
+            32.4085,
+            34.755
+          ],
+          "category": "gastro",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dies ist ein kurzer Spaziergang vom Archäologischen Park aus.",
+            "hu": "Ez egy rövid séta a Régészeti Parktól.",
+            "ro": "Aceasta este o plimbare scurtă de la Parcul Arheologic.",
+            "en": "This is a short walk from the Archaeological Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Paphos",
+            "hu": "Páfoszi vár",
+            "ro": "Castelul din Paphos",
+            "en": "Paphos Castle"
+          },
+          "coords": [
+            32.4075,
+            34.754
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:54",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der letzte Halt in Ihrem Hafen-Cluster, bevor Sie wieder ins Auto steigen.",
+            "hu": "Az utolsó megálló a kikötői klaszterben, mielőtt visszaülne az autóba.",
+            "ro": "Ultima oprire în clusterul portuar înainte de a vă întoarce la mașină.",
+            "en": "The final stop in your harbour cluster before getting back in the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Königsgräber",
+            "hu": "Királysírok",
+            "ro": "Mormintele Regilor",
+            "en": "Tombs of the Kings"
+          },
+          "coords": [
+            32.4065,
+            34.7745
+          ],
+          "category": "historical",
+          "arrive_at": "16:44",
+          "stay_min": 70,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Hafencluster entfernt, diese Stätte erfordert ebenfalls festes Schuhwerk.",
+            "hu": "Rövid autóútra a kikötői klasztertől; ez a helyszín szintén erős cipőt igényel.",
+            "ro": "La o scurtă distanță cu mașina de clusterul portuar, acest sit necesită, de asemenea, încălțăminte rezistentă.",
+            "en": "A short drive from the harbour cluster, this site also requires sturdy footwear."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in Coral Bay",
+            "hu": "Vacsora a Coral Bay-en",
+            "ro": "Cină la Coral Bay",
+            "en": "Dinner at Coral Bay"
+          },
+          "coords": [
+            32.383,
+            34.821
+          ],
+          "category": "gastro",
+          "arrive_at": "18:12",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einer Mahlzeit bei Sonnenuntergang in einer der beliebtesten Gegenden von Paphos.",
+            "hu": "Zárja a napot egy naplementés vacsorával Páfosz egyik legnépszerűbb területén.",
+            "ro": "Încheiați-vă ziua cu o masă la apus într-una dintre cele mai populare zone din Paphos.",
+            "en": "End your day with a sunset meal in one of Paphos's most popular areas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt an der Geburtsstätte der Aphrodite und führt Sie von ihrem Heiligtum zu ihrem legendären Felsen am Meer. Nach einem mythischen Vormittag fahren Sie nach Paphos-Stadt für den zweiten Teil Ihres Tages. Parken Sie am Hafen und erkunden Sie zu Fuß den Archäologischen Park, das Schloss und genießen Sie ein Mittagessen am Wasser. Am Nachmittag bringt Sie eine kurze Fahrt zu den Königsgräbern. Der Tag endet mit einer weiteren Fahrt zur Coral Bay, wo ein entspanntes Abendessen den perfekten Abschluss bildet.",
+        "hu": "Az Ön autós túrája Aphrodité szülőhelyénél kezdődik, a szentélyétől a legendás tengerparti sziklájáig vezetve. Egy mitikus délelőtt után Páfosz városába hajt, a nap második részére. Parkoljon le a kikötőben, és fedezze fel gyalog a Régészeti Parkot, a várat, és ebédeljen a vízparton. Délután egy rövid autóút visz a Királysírokhoz. A nap egy újabb autózással zárul a Coral Bay-hez, ahol egy pihentető vacsora tökéletes lezárást nyújt.",
+        "ro": "Excursia dumneavoastră cu mașina începe de la locul de naștere al Afroditei, ducându-vă de la sanctuarul ei la stânca sa legendară de pe malul mării. După o dimineață mitică, conduceți spre orașul Paphos pentru a doua parte a zilei. Parcați în port și explorați pe jos Parcul Arheologic, castelul și bucurați-vă de un prânz pe malul apei. După-amiaza, o scurtă călătorie cu mașina vă duce la Mormintele Regilor. Ziua se încheie cu o altă călătorie cu mașina spre Coral Bay, unde o cină relaxantă oferă finalul perfect.",
+        "en": "Your road trip begins at the birthplace of Aphrodite, taking you from her sanctuary to her legendary rock by the sea. After a mythical morning, you'll drive into Paphos town for the second part of your day. Park at the harbour and explore on foot the Archaeological Park, the castle, and enjoy a waterside lunch. In the afternoon, a short drive takes you to the Tombs of the Kings. The day concludes with another drive to Coral Bay, where a relaxed dinner provides the perfect finish."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kleftiko",
+            "tip": "Langsam gegartes Lammfleisch, eine zypriotische Spezialität. Suchen Sie nach traditionellen Tavernen außerhalb des Haupttouristengebiets."
+          },
+          {
+            "name": "Commandaria Wein",
+            "tip": "Probieren Sie den berühmten süßen Dessertwein Zyperns zu Ihrem Dessert oder Käse."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Fragen Sie nach lokalen Weinen aus den Weinbergen der Region Paphos, wie z.B. Xynisteri (weiß)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kleftiko",
+            "tip": "Lassan főtt bárányhús, ciprusi specialitás. Keressen hagyományos tavernákat a fő turistaövezeten kívül."
+          },
+          {
+            "name": "Commandaria bor",
+            "tip": "Kóstolja meg Ciprus híres édes desszertborát a desszertjéhez vagy sajtjához."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "Kérjen helyi borokat a páfoszi régió szőlőültetvényeiről, mint például a Xynisteri (fehér)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kleftiko",
+            "tip": "Miel gătit lent, o specialitate cipriotă. Căutați taverne tradiționale în afara zonei turistice principale."
+          },
+          {
+            "name": "Vin Commandaria",
+            "tip": "Încercați renumitul vin de desert dulce din Cipru cu desertul sau brânza dumneavoastră."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Întrebați de vinuri locale din podgoriile regiunii Paphos, cum ar fi Xynisteri (alb)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kleftiko",
+            "tip": "Slow-cooked lamb, a Cypriot specialty. Look for traditional tavernas outside the main tourist area."
+          },
+          {
+            "name": "Commandaria Wine",
+            "tip": "Try Cyprus's famous sweet dessert wine with your dessert or cheese."
+          },
+          {
+            "name": "Local Wines",
+            "tip": "Ask for local wines from the Paphos region vineyards, such as Xynisteri (white)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Petra tou Romiou bei Sonnenuntergang",
+            "tip": "Ein wirklich magischer Ort, um das Ende des Tages zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kloster Chrysorrogiatissa",
+            "tip": "Wenn Sie Zeit für einen weiteren Abstecher haben, bietet dieses Kloster in den Hügeln absolute Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Adonis-Bäder",
+            "tip": "Ein kühler und schattiger Ort, der eine Pause von der Hitze des Tages bietet.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Petra tou Romiou naplementekor",
+            "tip": "Igazán varázslatos hely a nap végének megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Chrysorrogiatissa kolostor",
+            "tip": "Ha van ideje egy újabb kitérőre, ez a dombokon fekvő kolostor teljes nyugalmat kínál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Adonis fürdők",
+            "tip": "Hűvös és árnyékos hely, amely szünetet nyújt a nap hőségétől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Petra tou Romiou la apus",
+            "tip": "Un loc cu adevărat magic pentru a privi sfârșitul zilei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mănăstirea Chrysorrogiatissa",
+            "tip": "Dacă aveți timp pentru un alt ocol, această mănăstire de pe dealuri oferă o liniște absolută.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Băile lui Adonis",
+            "tip": "Un loc răcoros și umbrit care oferă o pauză de la căldura zilei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Petra tou Romiou at sunset",
+            "tip": "A truly magical place to watch the end of the day.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Chrysorrogiatissa Monastery",
+            "tip": "If you have time for another detour, this monastery in the hills offers complete tranquility.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Adonis Baths",
+            "tip": "A cool and shady spot offering a break from the heat of the day.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingüter",
+            "tip": "Besuchen Sie ein Weingut auf dem Land, um lokale Weine und Olivenöl zu kaufen."
+          },
+          {
+            "name": "Dorf Geroskipou",
+            "tip": "Berühmt für die Herstellung von 'Loukoumi' (Turkish Delight), ein tolles essbares Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borászatok",
+            "tip": "Látogasson el egy vidéki borászatba, hogy helyi borokat és olívaolajat vásároljon."
+          },
+          {
+            "name": "Geroskipou falu",
+            "tip": "Híres a 'Loukoumi' (törökméz) készítéséről, nagyszerű ehető szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame",
+            "tip": "Vizitați o cramă la țară pentru a cumpăra vinuri locale și ulei de măsline."
+          },
+          {
+            "name": "Satul Geroskipou",
+            "tip": "Renumit pentru producția de 'Loukoumi' (rahat turcesc), un suvenir comestibil excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wineries",
+            "tip": "Visit a winery in the countryside to buy local wines and olive oil."
+          },
+          {
+            "name": "Geroskipou Village",
+            "tip": "Famous for making 'Loukoumi' (Turkish Delight), a great edible souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Auto mit guter Klimaanlage, besonders im Sommer.",
+          "Ein GPS oder eine Karten-App auf Ihrem Handy ist unerlässlich für die Navigation auf den Landstraßen.",
+          "Parken kann im Hafenbereich von Paphos schwierig sein, seien Sie also geduldig oder nutzen Sie kostenpflichtige Parkplätze.",
+          "Achten Sie auf die Beschilderung zu archäologischen Stätten, die oft braun ist."
+        ],
+        "hu": [
+          "Béreljen autót jó légkondicionálóval, különösen nyáron.",
+          "A GPS vagy egy térképalkalmazás a telefonján elengedhetetlen a vidéki utakon való navigáláshoz.",
+          "A parkolás nehéz lehet a páfoszi kikötő területén, ezért legyen türelmes, vagy használjon fizetős parkolókat.",
+          "Figyeljen a régészeti lelőhelyekre utaló táblákra, amelyek gyakran barnák."
+        ],
+        "ro": [
+          "Închiriați o mașină cu aer condiționat bun, mai ales vara.",
+          "Un GPS sau o aplicație de hărți pe telefon este esențială pentru navigarea pe drumurile de țară.",
+          "Parcarea poate fi dificilă în zona portului Paphos, așa că aveți răbdare sau folosiți parcările cu plată.",
+          "Fiți atenți la indicatoarele către siturile arheologice, care sunt adesea maro."
+        ],
+        "en": [
+          "Rent a car with good air conditioning, especially in summer.",
+          "A GPS or map app on your phone is essential for navigating the country roads.",
+          "Parking can be difficult in the Paphos harbour area, so be patient or use paid car parks.",
+          "Look out for the road signs for archaeological sites, which are often brown."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 12.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof am Hafen",
+            "hu": "Kikötői buszpályaudvar",
+            "ro": "Autogara din port",
+            "en": "Harbour Bus Station"
+          },
+          "coords": [
+            32.413,
+            34.757
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten im Paphos-Netz.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz a páfoszi hálózaton.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate în rețeaua Paphos.",
+            "en": "Buy a day pass for unlimited travel on the Paphos network."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologischer Park & Burg",
+            "hu": "Régészeti Park és Vár",
+            "ro": "Parcul Arheologic și Castelul",
+            "en": "Archaeological Park & Castle"
+          },
+          "coords": [
+            32.4095,
+            34.757
+          ],
+          "category": "historical",
+          "arrive_at": "09:25",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen ersten Cluster zu Fuß; der Park und die Burg liegen nahe beieinander.",
+            "hu": "Fedezze fel ezt az első klasztert gyalog; a park és a vár közel vannak egymáshoz.",
+            "ro": "Explorați acest prim cluster pe jos; parcul și castelul sunt apropiate.",
+            "en": "Explore this first cluster on foot; the park and castle are close together."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch at the Harbour"
+          },
+          "coords": [
+            32.4085,
+            34.755
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit, bevor Sie den Bus zum nächsten Cluster nehmen.",
+            "hu": "Fogyasszon el egy ebédet, mielőtt felszáll a buszra a következő klaszterhez.",
+            "ro": "Bucurați-vă de o masă înainte de a lua autobuzul spre următorul cluster.",
+            "en": "Enjoy a meal before catching the bus to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Königsgräber",
+            "hu": "Királysírok",
+            "ro": "Mormintele Regilor",
+            "en": "Tombs of the Kings"
+          },
+          "coords": [
+            32.4065,
+            34.7745
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die Buslinie 615 bringt Sie direkt von der Hafenstation hierher.",
+            "hu": "A 615-ös busz közvetlenül a kikötői állomásról hozza ide.",
+            "ro": "Autobuzul 615 vă va duce aici direct de la stația din port.",
+            "en": "The 615 bus will take you here directly from the harbour station."
+          }
+        },
+        {
+          "name": {
+            "de": "Coral Bay",
+            "hu": "Coral Bay",
+            "ro": "Coral Bay",
+            "en": "Coral Bay"
+          },
+          "coords": [
+            32.378,
+            34.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9,
+          "tip_5lang": {
+            "de": "Bleiben Sie auf der Buslinie 615, um diesen schönen Strand zu erreichen.",
+            "hu": "Maradjon a 615-ös buszon, hogy elérje ezt a gyönyörű strandot.",
+            "ro": "Rămâneți pe autobuzul 615 pentru a ajunge la această plajă frumoasă.",
+            "en": "Stay on the 615 bus to reach this beautiful beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Hafen",
+            "hu": "Visszatérés a kikötőbe",
+            "ro": "Întoarcere în port",
+            "en": "Return to Harbour"
+          },
+          "coords": [
+            32.413,
+            34.757
+          ],
+          "category": "transit",
+          "arrive_at": "18:40",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Planen Sie Ihre Rückfahrt, um den letzten Bus nicht zu verpassen.",
+            "hu": "Tervezze meg a visszaútját, hogy ne késse le az utolsó buszt.",
+            "ro": "Planificați-vă călătoria de întoarcere pentru a nu pierde ultimul autobuz.",
+            "en": "Plan your return journey so you don't miss the last bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit einer Tageskarte für den Bus beginnt Ihr Abenteuer am Busbahnhof am Hafen. Der erste Cluster, der den Archäologischen Park und die Burg umfasst, lässt sich leicht zu Fuß erkunden. Nach dem Mittagessen bringt Sie eine Busfahrt zu den beeindruckenden Königsgräbern. Die letzte Etappe Ihrer Reise führt Sie weiter mit dem Bus zur berühmten Coral Bay, wo Sie den Rest des Nachmittags mit Schwimmen und Entspannen verbringen können, bevor Sie am Abend in die Stadt zurückkehren.",
+        "hu": "Egy busz napijeggyel a kaland a kikötői buszpályaudvaron kezdődik. Az első klaszter, amely a Régészeti Parkot és a várat foglalja magában, könnyen felfedezhető gyalog. Ebéd után egy buszozás elviszi Önt a lenyűgöző Királysírokhoz. Az utazás utolsó szakasza busszal a híres Coral Bay-hez vezet, ahol a délután hátralévő részét úszással és pihenéssel töltheti, mielőtt este visszatérne a városba.",
+        "ro": "Cu un bilet de o zi la autobuz, aventura dumneavoastră începe la autogara din port. Primul cluster, care cuprinde Parcul Arheologic și castelul, este ușor de explorat pe jos. După prânz, o călătorie cu autobuzul vă va duce la impresionantele Morminte ale Regilor. Ultima etapă a călătoriei dumneavoastră vă duce mai departe cu autobuzul la faimoasa Coral Bay, unde puteți petrece restul după-amiezii înotând și relaxându-vă înainte de a vă întoarce în oraș seara.",
+        "en": "With a bus day pass, your adventure starts at the harbour bus station. The first cluster, comprising the Archaeological Park and castle, is easily explored on foot. After lunch, a bus ride will take you to the impressive Tombs of the Kings. The final leg of your journey takes you further by bus to the famous Coral Bay, where you can spend the rest of the afternoon swimming and relaxing before returning to town in the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sheftalia",
+            "tip": "Probieren Sie diese gewürzten zypriotischen Würstchen, oft in einem gemischten Grill enthalten."
+          },
+          {
+            "name": "Griechischer Salat",
+            "tip": "Ein erfrischender Klassiker, perfekt für ein leichtes Mittagessen bei heißem Wetter."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Beenden Sie Ihre Mahlzeit mit diesem süßen Gebäck aus Blätterteig, Nüssen und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sheftalia",
+            "tip": "Kóstolja meg ezeket a fűszeres ciprusi kolbászkákat, gyakran vegyes grill tál részeként."
+          },
+          {
+            "name": "Görög saláta",
+            "tip": "Frissítő klasszikus, tökéletes egy könnyű ebédhez meleg időben."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Zárja az étkezést ezzel az édes süteménnyel, amely leveles tésztából, dióból és mézből készül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sheftalia",
+            "tip": "Încercați acești cârnați ciprioți condimentați, adesea incluși într-un grătar mixt."
+          },
+          {
+            "name": "Salată grecească",
+            "tip": "Un clasic răcoritor, perfect pentru un prânz ușor pe vreme caldă."
+          },
+          {
+            "name": "Baclava",
+            "tip": "Încheiați-vă masa cu acest desert dulce făcut din foietaj, nuci și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sheftalia",
+            "tip": "Try these seasoned Cypriot sausages, often included in a mixed grill."
+          },
+          {
+            "name": "Greek Salad",
+            "tip": "A refreshing classic, perfect for a light lunch in hot weather."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Finish your meal with this sweet pastry made of filo, nuts, and honey."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ende der Coral Bay",
+            "tip": "Gehen Sie zum Ende des Strandes für mehr Ruhe und Frieden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obere Deck eines Busses",
+            "tip": "Genießen Sie die Aussicht und eine ruhige Minute während der Fahrt zwischen den Haltestellen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coral Bay vége",
+            "tip": "Sétáljon el a strand végéig a nagyobb csendért és békéért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A busz felső szintje",
+            "tip": "Élvezze a kilátást és egy csendes percet a megállók közötti utazás során.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capătul Coral Bay",
+            "tip": "Mergeți spre capătul plajei pentru mai multă liniște și pace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Puntea superioară a unui autobuz",
+            "tip": "Bucurați-vă de priveliști și de un moment de liniște în timpul călătoriei între stații.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Far end of Coral Bay",
+            "tip": "Walk towards the end of the beach for more peace and quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Top deck of a bus",
+            "tip": "Enjoy the views and a quiet minute while travelling between stops.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt in der Altstadt (Ktima)",
+            "tip": "Wenn Sie Zeit haben, nehmen Sie einen Bus in die Oberstadt, um einen traditionelleren Markt zu erleben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac az óvárosban (Ktima)",
+            "tip": "Ha van ideje, buszozzon fel a felsővárosba egy hagyományosabb piacélményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Orașul Vechi (Ktima)",
+            "tip": "Dacă aveți timp, luați un autobuz spre orașul de sus pentru o experiență de piață mai tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town (Ktima) Market",
+            "tip": "If you have time, take a bus to the upper town for a more traditional market experience."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Frequenzen variieren können.",
+          "Behalten Sie Ihr Ticket oder Ihre Tageskarte griffbereit für Inspektionen.",
+          "Die Buslinie 615 ist Ihr Haupttransportmittel für diese Route, die entlang der Küste verläuft.",
+          "Signalieren Sie dem Fahrer deutlich, wenn Sie an Ihrer Haltestelle aussteigen möchten."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mivel a járatok sűrűsége változhat.",
+          "Tartsa kéznél a jegyét vagy napijegyét az ellenőrzésekhez.",
+          "A 615-ös busz a fő közlekedési eszköze ezen az útvonalon, amely a tengerpart mentén halad.",
+          "Jelezzen egyértelműen a sofőrnek, ha le szeretne szállni a megállójában."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece frecvențele pot varia.",
+          "Păstrați biletul sau abonamentul de o zi la îndemână pentru inspecții.",
+          "Autobuzul 615 este principalul dumneavoastră mijloc de transport pentru acest traseu, care merge de-a lungul coastei.",
+          "Semnalizați clar șoferului când doriți să coborâți la stația dumneavoastră."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as frequencies can vary.",
+          "Keep your ticket or day pass handy for inspections.",
+          "The 615 bus is your main transport for this route, running along the coast.",
+          "Signal clearly to the driver when you want to get off at your stop."
+        ]
+      }
+    }
+  }
+}

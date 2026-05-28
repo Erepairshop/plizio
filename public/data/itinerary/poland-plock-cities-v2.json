@@ -1,67 +1,115 @@
 {
   "city_id": "poland-plock-cities-v2",
   "anchor": {
-    "name": "Stary Rynek, Płock",
+    "name": "Płock",
     "coords": [
-      19.6875,
-      52.5442
+      19.7065,
+      52.5463
     ]
   },
   "modes": {
     "walk": {
       "mode": "walk",
-      "speed_kmh": 4,
+      "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "17:30",
-      "total_km": 4.2,
-      "stop_count": 7,
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Altstädter Markt",
-            "hu": "Óvárosi piactér",
-            "ro": "Piața Orașului Vechi",
-            "en": "Old Town Market"
+            "de": "Rathaus (Stary Rynek)",
+            "hu": "Városháza (Óvárosi Piactér)",
+            "ro": "Primăria (Piața Veche)",
+            "en": "Town Hall (Old Market Square)"
           },
           "coords": [
-            19.6878,
-            52.5445
+            19.706,
+            52.543
           ],
-          "category": "square",
-          "arrive_at": "09:10",
-          "stay_min": 30,
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.0,
-          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Bewundern Sie das klassizistische Rathaus am Platz.",
-            "hu": "Nézze meg a városháza klasszicista homlokzatát.",
-            "ro": "Admirați fațada neoclasică a primăriei din piață.",
-            "en": "Check out the neoclassical facade of the town hall."
+            "de": "Beobachten Sie um 12:00 Uhr die mechanische Figurenszene am Turm.",
+            "hu": "Nézze meg a torony mechanikus figuráinak jelenetét délben 12-kor.",
+            "ro": "La ora 12:00, urmăriți scena mecanică cu figurine din turn.",
+            "en": "At 12:00 PM, watch the mechanical figure scene on the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Masowisches Museum",
+            "hu": "Mazóviai Múzeum",
+            "ro": "Muzeul Mazovian",
+            "en": "Mazovian Museum"
+          },
+          "coords": [
+            19.708,
+            52.5425
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Jugendstil-Ausstellung ist eine der besten in Polen.",
+            "hu": "A szecessziós kiállítás az egyik legjobb Lengyelországban.",
+            "ro": "Expoziția Art Nouveau este una dintre cele mai bune din Polonia.",
+            "en": "The Art Nouveau exhibition is one of the best in Poland."
           }
         },
         {
           "name": {
             "de": "Kathedrale von Płock",
-            "hu": "Płocki székesegyház",
+            "hu": "Płocki Katedrális",
             "ro": "Catedrala din Płock",
             "en": "Płock Cathedral"
           },
           "coords": [
-            19.6892,
-            52.5431
+            19.7068,
+            52.5465
           ],
-          "category": "religious",
-          "arrive_at": "09:50",
-          "stay_min": 45,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 75,
           "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
           "tip_5lang": {
-            "de": "Die Königskapelle birgt Sarkophage polnischer Herrscher.",
-            "hu": "A királyi kápolna lengyel uralkodók szarkofágjait őrzi.",
-            "ro": "Capela Regală adăpostește sarcofagele domnitorilor polonezi.",
-            "en": "The Royal Chapel houses sarcophagi of Polish rulers."
+            "de": "Suchen Sie nach der Nachbildung der berühmten romanischen Bronzetüren.",
+            "hu": "Keresse meg a híres román kori bronzkapu másolatát.",
+            "ro": "Căutați replica faimoaselor uși de bronz romanice.",
+            "en": "Look for the replica of the famous Romanesque bronze doors."
+          }
+        },
+        {
+          "name": {
+            "de": "Tumski-Hügel (Wzgórze Tumskie)",
+            "hu": "Tumski-domb",
+            "ro": "Dealul Tumskie",
+            "en": "Tumskie Hill (Wzgórze Tumskie)"
+          },
+          "coords": [
+            19.706,
+            52.547
+          ],
+          "category": "natural-features",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der beste Ort für einen Panoramablick auf die Weichsel. Ideal für ein Mittagspicknick.",
+            "hu": "A legjobb hely a Visztula panorámájának megcsodálására. Ideális egy ebédpiknikhez.",
+            "ro": "Cel mai bun loc pentru o vedere panoramică a râului Vistula. Ideal pentru un picnic la prânz.",
+            "en": "The best spot for a panoramic view of the Vistula River. Ideal for a lunch picnic."
           }
         },
         {
@@ -72,227 +120,619 @@
             "en": "Diocesan Museum"
           },
           "coords": [
-            19.6901,
-            52.5428
+            19.705,
+            52.546
           ],
-          "category": "museum",
-          "arrive_at": "10:40",
-          "stay_min": 90,
+          "category": "museums",
+          "arrive_at": "14:27",
+          "stay_min": 60,
+          "hop_mode": "walk",
           "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.1,
-          "hop_mode": "walk",
+          "hop_from_prev_km": 0.2,
           "tip_5lang": {
-            "de": "Sehen Sie den wertvollen Kelch von Konrad von Masowien.",
-            "hu": "Tekintse meg Mazóviai Konrád értékes kelyhét.",
-            "ro": "Vedeți potirul prețios al lui Konrad de Mazovia.",
-            "en": "See the precious Konrad of Masovia Chalice."
+            "de": "Ein verstecktes Juwel mit beeindruckender sakraler Kunst und historischen Artefakten.",
+            "hu": "Rejtett kincs, lenyűgöző szakrális művészettel és történelmi tárgyakkal.",
+            "ro": "O bijuterie ascunsă cu artă sacră impresionantă și artefacte istorice.",
+            "en": "A hidden gem with impressive sacral art and historical artifacts."
           }
         },
         {
           "name": {
-            "de": "Art-Nouveau-Museum",
-            "hu": "Szecessziós Múzeum",
-            "ro": "Muzeul Art Nouveau",
-            "en": "Art Nouveau Museum"
+            "de": "Boulevards an der Weichsel",
+            "hu": "Visztula parti sétányok",
+            "ro": "Bulevardele de pe Vistula",
+            "en": "Vistula River Boulevards"
           },
           "coords": [
-            19.6855,
-            52.5462
+            19.698,
+            52.549
           ],
-          "category": "museum",
-          "arrive_at": "12:20",
-          "stay_min": 100,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:51",
+          "stay_min": 75,
           "hop_mode": "walk",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
           "tip_5lang": {
-            "de": "Polens größte Sammlung von Jugendstil-Möbeln.",
-            "hu": "Lengyelország legnagyobb szecessziós bútoregyüttese.",
-            "ro": "Cea mai mare colecție de mobilier Art Nouveau din Polonia.",
-            "en": "Poland's largest collection of Art Nouveau furniture."
-          }
-        },
-        {
-          "name": {
-            "de": "Mittagessen in der Altstadt",
-            "hu": "Ebéd az óvárosban",
-            "ro": "Prânz în centrul vechi",
-            "en": "Lunch in the Old Town"
-          },
-          "coords": [
-            19.6872,
-            52.5448
-          ],
-          "category": "gastro",
-          "arrive_at": "14:10",
-          "stay_min": 80,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Probieren Sie Płock-style Piroggen.",
-            "hu": "Kóstolja meg a płocki stílusú pirogot.",
-            "ro": "Încercați colțunașii (pierogi) în stil Płock.",
-            "en": "Try the local Płock-style pierogi."
-          }
-        },
-        {
-          "name": {
-            "de": "Weichselufer-Promenade",
-            "hu": "Visztula-parti sétány",
-            "ro": "Promenada de pe malul Vistulei",
-            "en": "Vistula River Promenade"
-          },
-          "coords": [
-            19.6912,
-            52.5415
-          ],
-          "category": "viewpoint",
-          "arrive_at": "15:40",
-          "stay_min": 40,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Genießen Sie den Blick von der 52m hohen Böschung.",
-            "hu": "Élvezze a kilátást az 52 méter magas partfalról.",
-            "ro": "Bucurați-vă de vederea de pe colina înaltă de 52 m.",
-            "en": "Enjoy the view from the 52m high riverbank."
-          }
-        },
-        {
-          "name": {
-            "de": "Solidaritätsbrücke",
-            "hu": "Szolidaritás híd",
-            "ro": "Podul Solidarității",
-            "en": "Solidarity Bridge"
-          },
-          "coords": [
-            19.7125,
-            52.5482
-          ],
-          "category": "monument",
-          "arrive_at": "16:50",
-          "stay_min": 40,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 2.5,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Eine der längsten Schrägseilbrücken Polens.",
-            "hu": "Lengyelország egyik leghosszabb ferdekábeles hídja.",
-            "ro": "Unul dintre cele mai lungi poduri suspendate din Polonia.",
-            "en": "One of the longest cable-stayed bridges in Poland."
+            "de": "Mieten Sie ein Tretboot oder entspannen Sie einfach in einem der Cafés am Flussufer.",
+            "hu": "Béreljen vízibiciklit, vagy csak pihenjen a folyóparti kávézók egyikében.",
+            "ro": "Închiriați o hidrobicicletă sau pur și simplu relaxați-vă la una dintre cafenelele de pe malul râului.",
+            "en": "Rent a paddle boat or just relax at one of the riverside cafes."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Morgens erkunden Sie den historischen Kern auf dem Tumskie-Hügel, wo die romanische Basilika und das Diözesanmuseum das reiche Erbe der masowischen Herrscher präsentieren. Mittags tauchen Sie im spezialisierten Museum in die Welt des Jugendstils ein, bevor Sie in der Altstadt lokale Spezialitäten genießen. Nachmittags spazieren Sie entlang der Weichsel-Böschung mit Panoramablick auf den Fluss. Den Abend lassen Sie bei der beeindruckenden Solidaritätsbrücke ausklingen, einem Symbol der modernen Ingenieurskunst.",
-        "hu": "A délelőttöt a Tumskie-dombon töltjük, ahol a román stílusú bazilika és az egyházmegyei múzeum mutatja be a mazóviai fejedelmek örökségét. Délben elmerülünk a szecesszió világában a kijelölt múzeumban, majd megkóstoljuk a helyi ízeket az óvárosban. A délután folyamán a Visztula feletti 52 méteres magasparton sétálunk, élvezve a folyóra nyíló kilátást. A napot a modern Szolidaritás híd látványával zárjuk, amely Płock egyik kortárs jelképe.",
-        "ro": "Dimineața este dedicată dealului Tumskie, unde bazilica romanică și muzeul diecezan expun moștenirea bogată a conducătorilor mazovieni. La prânz, descoperiți eleganța Art Nouveau în muzeul dedicat, urmat de o degustare de preparate locale în centrul vechi. După-amiaza, plimbați-vă pe faleza înaltă a Vistulei, admirând panorama spectaculoasă a fluviului. Seara se încheie la impresionantul Pod al Solidarității, un simbol al ingineriei moderne poloneze.",
-        "en": "Start your morning on Tumskie Hill, exploring the Romanesque basilica and diocesan museum that safeguard the legacy of Masovian rulers. At midday, immerse yourself in Art Nouveau at the specialized museum before enjoying a local meal in the Old Town. Spend the afternoon walking along the 52-meter high Vistula embankment for panoramic river views. Finish the day by observing the massive Solidarity Bridge, a feat of modern engineering that spans the river."
+        "de": "Ihr Tag in Płock beginnt am historischen Alten Markt, dem Herzen der Stadt. Am Vormittag erkunden Sie das nahegelegene Masowische Museum mit seiner berühmten Jugendstilsammlung. Nach dem Mittagessen steigen Sie zum Tumski-Hügel hinauf, wo die majestätische Kathedrale thront. Der Nachmittag ist einem Spaziergang entlang der malerischen Weichselboulevards gewidmet, wo Sie die entspannte Atmosphäre genießen können, bevor Sie den Abend in einem lokalen Restaurant ausklingen lassen.",
+        "hu": "A płocki nap a történelmi Óvárosi Piactéren, a város szívében kezdődik. Délelőtt fedezze fel a közeli Mazóviai Múzeumot híres szecessziós gyűjteményével. Ebéd után másszon fel a Tumski-dombra, ahol a fenséges katedrális áll. A délutánt a festői Visztula-parti sétányokon való sétával tölti, élvezve a nyugodt légkört, mielőtt egy helyi étteremben zárja az estét.",
+        "ro": "Ziua dvs. în Płock începe în Piața Veche istorică, inima orașului. Dimineața, explorați Muzeul Mazovian din apropiere, cu faimoasa sa colecție Art Nouveau. După prânz, urcați pe Dealul Tumskie, unde se află catedrala maiestuoasă. După-amiaza este dedicată unei plimbări pe bulevardele pitorești de pe Vistula, bucurându-vă de atmosfera relaxată înainte de a încheia seara la un restaurant local.",
+        "en": "Your day in Płock begins at the historic Old Market Square, the city's heart. In the morning, explore the nearby Mazovian Museum with its famous Art Nouveau collection. After lunch, ascend Tumskie Hill, where the majestic cathedral stands. The afternoon is for a stroll along the scenic Vistula Boulevards, enjoying the relaxed atmosphere before finishing the evening at a local restaurant."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Karczma pod Strzechą",
-            "tip": "Traditionelle polnische Küche in rustikalem Ambiente."
+            "name": "Pierogi",
+            "tip": "Probieren Sie die traditionellen polnischen Teigtaschen mit verschiedenen Füllungen."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine herzhafte Sauerroggensuppe, oft in einem Brotlaib serviert."
+          },
+          {
+            "name": "Restauracja Stary Rynek 13",
+            "tip": "Bietet traditionelle polnische Küche mit Blick auf das Rathaus."
           }
         ],
         "hu": [
           {
-            "name": "Karczma pod Strzechą",
-            "tip": "Hagyományos lengyel konyha rusztikus környezetben."
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hagyományos lengyel derelyét különféle töltelékekkel."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Kiadós savanyú rozsleves, gyakran kenyérben tálalva."
+          },
+          {
+            "name": "Restauracja Stary Rynek 13",
+            "tip": "Hagyományos lengyel ételeket kínál a Városházára néző kilátással."
           }
         ],
         "ro": [
           {
-            "name": "Karczma pod Strzechą",
-            "tip": "Bucătărie tradițională poloneză într-un cadru rustic."
+            "name": "Pierogi",
+            "tip": "Încercați găluștele tradiționale poloneze cu diverse umpluturi."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă acră de secară consistentă, adesea servită într-o pâine."
+          },
+          {
+            "name": "Restauracja Stary Rynek 13",
+            "tip": "Oferă bucătărie tradițională poloneză cu vedere la Primărie."
           }
         ],
         "en": [
           {
-            "name": "Karczma pod Strzechą",
-            "tip": "Traditional Polish cuisine in a rustic, themed setting."
+            "name": "Pierogi",
+            "tip": "Try the traditional Polish dumplings with various fillings."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A hearty sour rye soup, often served in a bread bowl."
+          },
+          {
+            "name": "Restauracja Stary Rynek 13",
+            "tip": "Offers traditional Polish cuisine with a view of the Town Hall."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Wzgórze Tumskie",
-            "tip": "Ruhiger Blick auf die Weichsel bei Sonnenuntergang.",
+            "name": "Wzgórze Tumskie bei Sonnenuntergang",
+            "tip": "Der Panoramablick über die Weichsel ist besonders friedlich am Abend.",
             "emoji": "🌅"
+          },
+          {
+            "name": "Ufer der Weichsel",
+            "tip": "Finden Sie eine ruhige Bank abseits des Hauptpiers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten des Diözesanmuseums",
+            "tip": "Ein kleiner, abgeschiedener Ort der Ruhe.",
+            "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "Tumskie-domb",
-            "tip": "Csendes kilátás a Visztulára naplementekor.",
+            "name": "Tumski-domb naplementekor",
+            "tip": "A Visztulára nyíló panoráma különösen békés este.",
             "emoji": "🌅"
+          },
+          {
+            "name": "Visztula partja",
+            "tip": "Keressen egy csendes padot a fő mólótól távolabb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egyházmegyei Múzeum kertje",
+            "tip": "Egy kicsi, eldugott, békés hely.",
+            "emoji": "🍃"
           }
         ],
         "ro": [
           {
-            "name": "Dealul Tumskie",
-            "tip": "Vedere liniștită spre Vistula la apus.",
+            "name": "Dealul Tumskie la apus",
+            "tip": "Vederea panoramică asupra Vistulei este deosebit de liniștită seara.",
             "emoji": "🌅"
+          },
+          {
+            "name": "Malul Vistulei",
+            "tip": "Găsiți o bancă liniștită departe de pontonul principal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Muzeului Diecezan",
+            "tip": "Un loc mic, retras, de pace.",
+            "emoji": "🍃"
           }
         ],
         "en": [
           {
-            "name": "Tumskie Hill",
-            "tip": "Quiet views over the Vistula river at sunset.",
+            "name": "Wzgórze Tumskie at sunset",
+            "tip": "The panoramic view over the Vistula is especially peaceful in the evening.",
             "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Vistula",
+            "tip": "Find a quiet bench away from the main pier.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of the Diocesan Museum",
+            "tip": "A small, secluded spot of peace.",
+            "emoji": "🍃"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Galeria Wisła",
-            "tip": "Modernes Einkaufszentrum für lokale und internationale Marken."
+            "name": "Tumska Straße",
+            "tip": "Die Hauptstraße mit einer Mischung aus lokalen Boutiquen und bekannten Marken."
+          },
+          {
+            "name": "Lokale Kunstgalerien",
+            "tip": "Halten Sie Ausschau nach kleinen Galerien, die Werke von Künstlern aus der Region Masowien verkaufen."
           }
         ],
         "hu": [
           {
-            "name": "Galeria Wisła",
-            "tip": "Modern bevásárlóközpont helyi és nemzetközi márkákkal."
+            "name": "Tumska utca",
+            "tip": "A fő utca helyi butikok és ismert márkák keverékével."
+          },
+          {
+            "name": "Helyi művészeti galériák",
+            "tip": "Keresse a kis galériákat, amelyek Mazóviai régió művészeinek munkáit árulják."
           }
         ],
         "ro": [
           {
-            "name": "Galeria Wisła",
-            "tip": "Centru comercial modern cu branduri locale și internaționale."
+            "name": "Strada Tumska",
+            "tip": "Strada principală cu un amestec de buticuri locale și mărci cunoscute."
+          },
+          {
+            "name": "Galerii de artă locale",
+            "tip": "Căutați mici galerii care vând lucrări ale artiștilor din regiunea Mazovia."
           }
         ],
         "en": [
           {
-            "name": "Galeria Wisła",
-            "tip": "Modern shopping mall featuring local and global brands."
+            "name": "Tumska Street",
+            "tip": "The main thoroughfare with a mix of local boutiques and known brands."
+          },
+          {
+            "name": "Local Art Galleries",
+            "tip": "Look for small galleries selling works by artists from the Mazovia region."
           }
         ]
       },
       "tips": {
         "de": [
-          "Płock ist sehr fußgängerfreundlich, besonders entlang des Flusses.",
-          "Besuchen Sie das Heiligtum der Göttlichen Barmherzigkeit für einen Moment der Stille.",
-          "Die Weichsel-Böschung bietet die besten Fotomotive der Stadt."
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, planen Sie also einen ganzen Tag ein.",
+          "Prüfen Sie die Öffnungszeiten der Museen, da diese montags oft geschlossen sind."
         ],
         "hu": [
-          "Płock kiválóan bejárható gyalog, különösen a folyóparti részek.",
-          "Az Irgalmasság-szentély csendes megálló a városnézés közben.",
-          "A Visztula-magaspart kínálja a város legszebb fotótémáit."
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A legtöbb látnivaló gyalogosan elérhető, ezért tervezzen egy egész napot.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, mivel hétfőnként gyakran zárva tartanak."
         ],
         "ro": [
-          "Płock este ușor de parcurs pe jos, mai ales de-a lungul falezei.",
-          "Sanctuarul Milostivirii Divine oferă un moment bun pentru reflecție.",
-          "Faleza înaltă a Vistulei oferă cele mai bune puncte pentru fotografii."
+          "Purtați încălțăminte confortabilă, deoarece pietruirea din centrul vechi poate fi denivelată.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos, așa că planificați o zi întreagă.",
+          "Verificați orele de deschidere ale muzeelor, deoarece acestea sunt adesea închise lunea."
         ],
         "en": [
-          "Płock is very walkable, especially the scenic paths along the river.",
-          "Visit the Sanctuary of Divine Mercy for a peaceful break.",
-          "The Vistula embankment is the best place for panoramic city photos."
+          "Wear comfortable shoes as the cobblestones in the Old Town can be uneven.",
+          "Most attractions are within walking distance, so plan for a full day of it.",
+          "Check the opening hours for museums as they are often closed on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus (Stary Rynek)",
+            "hu": "Városháza (Óvárosi Piactér)",
+            "ro": "Primăria (Piața Veche)",
+            "en": "Town Hall (Old Market Square)"
+          },
+          "coords": [
+            19.706,
+            52.543
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Ausgangspunkt, um die Atmosphäre der Stadt aufzusaugen.",
+            "hu": "Tökéletes kiindulópont a város hangulatának magába szívásához.",
+            "ro": "Punct de plecare perfect pentru a absorbi atmosfera orașului.",
+            "en": "Perfect starting point to soak up the city's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale und Tumski-Hügel",
+            "hu": "Katedrális és Tumski-domb",
+            "ro": "Catedrala și Dealul Tumskie",
+            "en": "Cathedral and Tumskie Hill"
+          },
+          "coords": [
+            19.7068,
+            52.5465
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad unten am Hügel ab und erkunden Sie den Komplex zu Fuß.",
+            "hu": "Zárja le a kerékpárját a domb alján, és fedezze fel a komplexumot gyalog.",
+            "ro": "Lăsați bicicleta la baza dealului și explorați complexul pe jos.",
+            "en": "Lock your bike at the bottom of the hill and explore the complex on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Masowisches Museum",
+            "hu": "Mazóviai Múzeum",
+            "ro": "Muzeul Mazovian",
+            "en": "Mazovian Museum"
+          },
+          "coords": [
+            19.708,
+            52.5425
+          ],
+          "category": "museums",
+          "arrive_at": "11:06",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die beeindruckende Jugendstil-Abteilung ein.",
+            "hu": "Szánjon elegendő időt a lenyűgöző szecessziós részlegre.",
+            "ro": "Planificați suficient timp pentru impresionanta secțiune Art Nouveau.",
+            "en": "Plan enough time for the impressive Art Nouveau section."
+          }
+        },
+        {
+          "name": {
+            "de": "Sanktuarium der Barmherzigkeit Gottes",
+            "hu": "Isteni Irgalmasság Szentélye",
+            "ro": "Sanctuarul Milostivirii Divine",
+            "en": "Sanctuary of Divine Mercy"
+          },
+          "coords": [
+            19.715,
+            52.535
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:48",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein moderner Wallfahrtsort mit einer friedlichen und kontemplativen Atmosphäre.",
+            "hu": "Modern zarándokhely, békés és elmélkedő légkörrel.",
+            "ro": "Un loc modern de pelerinaj cu o atmosferă pașnică și contemplativă.",
+            "en": "A modern pilgrimage site with a peaceful and contemplative atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Fluss",
+            "hu": "Ebéd a folyónál",
+            "ro": "Prânz pe malul râului",
+            "en": "Lunch by the River"
+          },
+          "coords": [
+            19.699,
+            52.5485
+          ],
+          "category": "gastro",
+          "arrive_at": "13:46",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant entlang der Boulevards für eine entspannte Mahlzeit.",
+            "hu": "Válasszon egy éttermet a sétány mentén egy pihentető étkezéshez.",
+            "ro": "Alegeți un restaurant de-a lungul bulevardelor pentru o masă relaxantă.",
+            "en": "Choose a restaurant along the boulevards for a relaxing meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Boulevards an der Weichsel",
+            "hu": "Visztula parti sétányok",
+            "ro": "Bulevardele de pe Vistula",
+            "en": "Vistula River Boulevards"
+          },
+          "coords": [
+            19.69,
+            52.551
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:09",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radfahren Sie den gesamten Pier und die Promenade für die beste Aussicht.",
+            "hu": "Biciklizze végig a mólót és a sétányt a legjobb kilátásért.",
+            "ro": "Parcurgeți cu bicicleta întregul ponton și promenada pentru cele mai bune priveliști.",
+            "en": "Cycle the length of the pier and promenade for the best views."
+          }
+        },
+        {
+          "name": {
+            "de": "Solidarność-Brücke",
+            "hu": "Szolidaritás híd",
+            "ro": "Podul Solidarității",
+            "en": "Solidarity Bridge"
+          },
+          "coords": [
+            19.665,
+            52.553
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:39",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Eine beeindruckende Schrägseilbrücke, die bei Sonnenuntergang spektakulär ist.",
+            "hu": "Lenyűgöző ferdekábeles híd, amely naplementekor látványos.",
+            "ro": "Un pod hobanat impresionant, spectaculos la apus.",
+            "en": "An impressive cable-stayed bridge, spectacular at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad beginnen Sie am Alten Markt, bevor Sie zum historischen Tumski-Hügel radeln. Am Vormittag tauchen Sie im Masowischen Museum in die Kunst ein. Nach dem Besuch des modernen Heiligtums der Barmherzigkeit Gottes genießen Sie ein Mittagessen am Fluss. Der Nachmittag ist einer entspannten Fahrt entlang der Weichsel gewidmet, die an der beeindruckenden Solidarność-Brücke endet, um den Sonnenuntergang über dem Wasser zu beobachten.",
+        "hu": "Kerékpárral az Óvárosi Piactérről indul, mielőtt a történelmi Tumski-dombhoz teker. Délelőtt merüljön el a művészetben a Mazóviai Múzeumban. Az Isteni Irgalmasság modern szentélyének meglátogatása után ebédeljen a folyóparton. A délutánt egy pihentető biciklizésnek szenteli a Visztula mentén, amely a lenyűgöző Szolidaritás hídnál ér véget, hogy megnézze a naplementét a víz felett.",
+        "ro": "Pe bicicletă, începeți din Piața Veche înainte de a pedala spre istoricul Deal Tumskie. Dimineața, scufundați-vă în artă la Muzeul Mazovian. După ce vizitați sanctuarul modern al Milostivirii Divine, bucurați-vă de prânz pe malul râului. După-amiaza este dedicată unei plimbări relaxante pe Vistula, încheindu-se la impresionantul Pod al Solidarității pentru a privi apusul peste apă.",
+        "en": "On a bike, you'll start at the Old Market Square before cycling to the historic Tumskie Hill. In the morning, immerse yourself in art at the Mazovian Museum. After visiting the modern Sanctuary of Divine Mercy, enjoy lunch by the river. The afternoon is for a relaxing ride along the Vistula, ending at the impressive Solidarity Bridge to watch the sunset over the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Barszcz",
+            "tip": "Eine klassische Rote-Bete-Suppe, die heiß oder kalt serviert wird."
+          },
+          {
+            "name": "Kiełbasa",
+            "tip": "Probieren Sie lokal hergestellte Wurst von einem Straßenstand."
+          },
+          {
+            "name": "Karczma pod Strzechą",
+            "tip": "Rustikales Gasthaus mit herzhaften Portionen polnischer Hausmannskost."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barszcz",
+            "tip": "Klasszikus céklaleves, forrón vagy hidegen tálalva."
+          },
+          {
+            "name": "Kiełbasa",
+            "tip": "Kóstoljon helyben készült kolbászt egy utcai árustól."
+          },
+          {
+            "name": "Karczma pod Strzechą",
+            "tip": "Rusztikus fogadó, bőséges adag lengyel házias ételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Barszcz",
+            "tip": "O supă clasică de sfeclă roșie, servită caldă sau rece."
+          },
+          {
+            "name": "Kiełbasa",
+            "tip": "Încercați cârnați produși local de la un vânzător ambulant."
+          },
+          {
+            "name": "Karczma pod Strzechą",
+            "tip": "Hambar rustic cu porții consistente de mâncare poloneză de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Barszcz",
+            "tip": "A classic beetroot soup, served hot or cold."
+          },
+          {
+            "name": "Kiełbasa",
+            "tip": "Try locally made sausage from a street vendor."
+          },
+          {
+            "name": "Karczma pod Strzechą",
+            "tip": "Rustic inn with hearty portions of Polish home cooking."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt an der Solidarność-Brücke",
+            "tip": "Ein großartiger Ort, um das Stadtpanorama aus der Ferne zu betrachten.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "Früher Morgen am Tumski-Hügel",
+            "tip": "Erleben Sie die Stille, bevor die Touristenmassen ankommen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Nördliches Ufer der Weichsel",
+            "tip": "Weniger belebt als die Hauptpromenade, ideal für eine ruhige Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Szolidaritás hídnál",
+            "tip": "Nagyszerű hely a város panorámájának távolról való megtekintéséhez.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "Kora reggel a Tumski-dombon",
+            "tip": "Tapasztalja meg a csendet, mielőtt a turistatömegek megérkeznek.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Visztula északi partja",
+            "tip": "Kevésbé forgalmas, mint a fő sétány, ideális egy csendes pihenőre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la Podul Solidarității",
+            "tip": "Un loc minunat pentru a privi panorama orașului de la distanță.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "Dimineața devreme pe Dealul Tumskie",
+            "tip": "Experimentați liniștea înainte de sosirea mulțimilor de turiști.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul nordic al Vistulei",
+            "tip": "Mai puțin aglomerat decât promenada principală, ideal pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at Solidarity Bridge",
+            "tip": "A great spot to view the city skyline from a distance.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "Early morning on Tumskie Hill",
+            "tip": "Experience the quiet before the tourist crowds arrive.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Northern bank of the Vistula",
+            "tip": "Less busy than the main promenade, ideal for a quiet break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Nützlich für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Markt am Stary Rynek",
+            "tip": "Gelegentlich finden hier Märkte statt, auf denen lokale Produkte und Kunsthandwerk verkauft werden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Hasznos kiegészítőkhöz vagy gyors javításokhoz."
+          },
+          {
+            "name": "Piac a Stary Rynek-en",
+            "tip": "Időnként piacokat tartanak itt, ahol helyi termékeket és kézműves termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Util pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Piața de la Stary Rynek",
+            "tip": "Ocazional, aici au loc piețe care vând produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "Useful for any accessories or quick repairs."
+          },
+          {
+            "name": "Market at Stary Rynek",
+            "tip": "Occasional markets are held here selling local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Płock ist relativ flach, aber einige Steigungen wie zum Tumski-Hügel erfordern etwas Anstrengung.",
+          "Nutzen Sie die Radwege entlang der Weichsel für eine sichere und landschaftlich reizvolle Fahrt.",
+          "Tragen Sie einen Helm und schließen Sie Ihr Fahrrad immer sicher ab."
+        ],
+        "hu": [
+          "Płock viszonylag sík, de néhány emelkedő, mint a Tumski-domb, némi erőfeszítést igényel.",
+          "Használja a Visztula menti kerékpárutakat a biztonságos és festői utazáshoz.",
+          "Viseljen sisakot, és mindig biztonságosan zárja le a kerékpárját."
+        ],
+        "ro": [
+          "Płock este relativ plat, dar unele urcări, cum ar fi cea spre Dealul Tumskie, necesită puțin efort.",
+          "Folosiți pistele de biciclete de-a lungul Vistulei pentru o plimbare sigură și pitorească.",
+          "Purtați o cască și încuiați-vă întotdeauna bicicleta în siguranță."
+        ],
+        "en": [
+          "Płock is relatively flat, but some inclines like to Tumskie Hill require a bit of effort.",
+          "Use the bike paths along the Vistula for a safe and scenic ride.",
+          "Wear a helmet and always lock your bike securely."
         ]
       }
     },
@@ -300,261 +740,249 @@
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "17:00",
-      "total_km": 12.5,
-      "stop_count": 8,
+      "end_estimate": "17:50",
+      "total_km": 21.7,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Heiligtum der Göttlichen Barmherzigkeit",
-            "hu": "Isteni Irgalmasság-szentély",
-            "ro": "Sanctuarul Milostivirii Divine",
-            "en": "Sanctuary of Divine Mercy"
+            "de": "Cluster 1: Tumski-Hügel & Altstadt",
+            "hu": "1. csoport: Tumski-domb és Óváros",
+            "ro": "Cluster 1: Dealul Tumskie și Centrul Vechi",
+            "en": "Cluster 1: Tumskie Hill & Old Town"
           },
           "coords": [
-            19.6848,
-            52.5458
+            19.7068,
+            52.5465
           ],
-          "category": "religious",
-          "arrive_at": "09:10",
-          "stay_min": 40,
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_mode": "car",
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.0,
-          "hop_mode": "car",
           "tip_5lang": {
-            "de": "Ort der ersten Visionen von Schwester Faustyna.",
-            "hu": "Fausztina nővér első látomásainak helyszíne.",
-            "ro": "Locul primelor viziuni ale Sorei Faustina.",
-            "en": "Site of Sister Faustina's first visions."
+            "de": "Parken Sie in der Nähe des Hügels und beginnen Sie mit der Kathedrale.",
+            "hu": "Parkoljon a domb közelében, és kezdje a Katedrálissal.",
+            "ro": "Parcați lângă deal și începeți cu catedrala.",
+            "en": "Park near the hill and start with the cathedral."
           }
         },
         {
           "name": {
-            "de": "Klassizistisches Rathaus",
-            "hu": "Klasszicista városháza",
-            "ro": "Primăria Neoclasică",
-            "en": "Neoclassical Town Hall"
+            "de": "Rathaus (Stary Rynek)",
+            "hu": "Városháza (Óvárosi Piactér)",
+            "ro": "Primăria (Piața Veche)",
+            "en": "Town Hall (Old Market Square)"
           },
           "coords": [
-            19.6872,
-            52.5448
+            19.706,
+            52.543
           ],
-          "category": "historical",
-          "arrive_at": "10:00",
-          "stay_min": 40,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Hier tagte 1831 das letzte aufständische Parlament.",
-            "hu": "Itt ülésezett 1831-ben az utolsó felkelő parlament.",
-            "ro": "Locul ultimei sesiuni a parlamentului insurgent în 1831.",
-            "en": "Site of the last insurgent parliament session in 1831."
-          }
-        },
-        {
-          "name": {
-            "de": "Tumskie-Hügel & Basilika",
-            "hu": "Tumskie-domb és bazilika",
-            "ro": "Dealul Tumskie și Bazilica",
-            "en": "Tumskie Hill & Basilica"
-          },
-          "coords": [
-            19.6892,
-            52.5431
-          ],
-          "category": "historical",
-          "arrive_at": "10:50",
-          "stay_min": 80,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Das Herz der ältesten Geschichte von Płock.",
-            "hu": "Płock legősibb történelmének központja.",
-            "ro": "Inima celei mai vechi istorii a orașului Płock.",
-            "en": "The heart of Płock's oldest history."
-          }
-        },
-        {
-          "name": {
-            "de": "Weichsel-Aussichtspunkt",
-            "hu": "Visztula-kilátó",
-            "ro": "Belveder Vistula",
-            "en": "Vistula Viewpoint"
-          },
-          "coords": [
-            19.6915,
-            52.5412
-          ],
-          "category": "viewpoint",
-          "arrive_at": "12:15",
+          "category": "squares/old-town",
+          "arrive_at": "10:20",
           "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hügel hinunter ins Herz der Altstadt.",
+            "hu": "Rövid séta a dombról le az Óváros szívébe.",
+            "ro": "O scurtă plimbare de la deal în inima Centrului Vechi.",
+            "en": "A short walk down from the hill into the heart of the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Masowisches Museum",
+            "hu": "Mazóviai Múzeum",
+            "ro": "Muzeul Mazovian",
+            "en": "Mazovian Museum"
+          },
+          "coords": [
+            19.708,
+            52.5425
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_mode": "walk",
           "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.2,
-          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Blick auf den größten Fluss Polens.",
-            "hu": "Kilátás Lengyelország legnagyobb folyójára.",
-            "ro": "Vedere asupra celui mai mare fluviu din Polonia.",
-            "en": "Views over Poland's largest river."
+            "de": "Ein Muss für Liebhaber des Jugendstils, nur wenige Schritte vom Marktplatz entfernt.",
+            "hu": "A szecesszió szerelmeseinek kötelező, csak pár lépésre a piactértől.",
+            "ro": "O necesitate pentru iubitorii de Art Nouveau, la doar câțiva pași de piață.",
+            "en": "A must-see for Art Nouveau lovers, just steps from the market square."
           }
         },
         {
           "name": {
-            "de": "Mittagessen in der Neustadt",
-            "hu": "Ebéd az újvárosban",
-            "ro": "Prânz în orașul nou",
-            "en": "Lunch in the New Town"
+            "de": "Cluster 2: Boulevards an der Weichsel",
+            "hu": "2. csoport: Visztula parti sétányok",
+            "ro": "Cluster 2: Bulevardele de pe Vistula",
+            "en": "Cluster 2: Vistula River Boulevards"
           },
           "coords": [
-            19.7025,
-            52.5512
+            19.698,
+            52.549
           ],
-          "category": "gastro",
+          "category": "parks/promenades/beaches",
           "arrive_at": "13:00",
           "stay_min": 80,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.0,
           "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
           "tip_5lang": {
-            "de": "Genießen Sie moderne polnische Küche.",
-            "hu": "Élvezze a modern lengyel konyha fogásait.",
-            "ro": "Savurați preparate din bucătăria poloneză modernă.",
-            "en": "Enjoy modern Polish culinary specialities."
+            "de": "Fahren Sie zum Pier und finden Sie einen Parkplatz. Zeit für das Mittagessen am Fluss.",
+            "hu": "Vezessen a mólóhoz és keressen parkolóhelyet. Ideje ebédelni a folyónál.",
+            "ro": "Conduceți spre ponton și găsiți un loc de parcare. Timp pentru prânz pe malul râului.",
+            "en": "Drive to the pier area and find parking. Time for lunch by the river."
           }
         },
         {
           "name": {
-            "de": "Historische Getreidespeicher",
-            "hu": "Történelmi magtárak",
-            "ro": "Grânare istorice",
-            "en": "Historic Granaries"
+            "de": "Cluster 3: Heiligtum & Brücke",
+            "hu": "3. csoport: Szentély és Híd",
+            "ro": "Cluster 3: Sanctuar și Pod",
+            "en": "Cluster 3: Sanctuary & Bridge"
           },
           "coords": [
-            19.6925,
-            52.5405
+            19.715,
+            52.535
           ],
-          "category": "historical",
-          "arrive_at": "14:30",
+          "category": "churches/cathedrals",
+          "arrive_at": "14:45",
           "stay_min": 40,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 2.5,
           "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
           "tip_5lang": {
-            "de": "Ehemalige Speicher für den Weichsel-Handel.",
-            "hu": "A visztulai kereskedelem egykori raktárai.",
-            "ro": "Foste depozite pentru comerțul pe Vistula.",
-            "en": "Former storage for the Vistula grain trade."
+            "de": "Fahren Sie zum modernen Heiligtum der Barmherzigkeit Gottes.",
+            "hu": "Vezessen az Isteni Irgalmasság modern szentélyéhez.",
+            "ro": "Conduceți spre sanctuarul modern al Milostivirii Divine.",
+            "en": "Drive to the modern Sanctuary of Divine Mercy."
           }
         },
         {
           "name": {
-            "de": "Płock Zoo",
-            "hu": "Płocki Állatkert",
-            "ro": "Grădina Zoologică Płock",
-            "en": "Płock Zoo"
+            "de": "Solidarność-Brücke Aussichtspunkt",
+            "hu": "Szolidaritás híd kilátó",
+            "ro": "Punct de belvedere Podul Solidarității",
+            "en": "Solidarity Bridge Viewpoint"
           },
           "coords": [
-            19.7155,
-            52.5385
+            19.665,
+            52.553
           ],
-          "category": "park",
-          "arrive_at": "15:20",
-          "stay_min": 75,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 2.0,
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:55",
+          "stay_min": 45,
           "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
           "tip_5lang": {
-            "de": "Schöner Zoo auf dem Flussufer-Hang.",
-            "hu": "Szép állatkert a folyóparti domboldalon.",
-            "ro": "O grădină zoologică frumoasă pe coasta râului.",
-            "en": "A beautiful zoo located on the riverbank slope."
-          }
-        },
-        {
-          "name": {
-            "de": "Abendblick Solidaritätsbrücke",
-            "hu": "Szolidaritás híd esti kilátás",
-            "ro": "Podul Solidarității vedere de seară",
-            "en": "Solidarity Bridge Evening View"
-          },
-          "coords": [
-            19.7125,
-            52.5482
-          ],
-          "category": "monument",
-          "arrive_at": "16:45",
-          "stay_min": 30,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 4.0,
-          "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Die Brücke ist nachts eindrucksvoll beleuchtet.",
-            "hu": "A híd éjszaka lenyűgöző kivilágítást kap.",
-            "ro": "Podul este iluminat spectaculos pe timp de noapte.",
-            "en": "The bridge is impressively lit up at night."
+            "de": "Der letzte Halt des Tages für einen atemberaubenden Blick auf die Brücke und die Skyline.",
+            "hu": "A nap utolsó állomása a hídra és a városra nyíló lélegzetelállító kilátásért.",
+            "ro": "Ultima oprire a zilei pentru o priveliște uluitoare asupra podului și a liniei orizontului.",
+            "en": "The final stop of the day for a stunning view of the bridge and skyline."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Dieser Auto-Ausflug kombiniert spirituelle Orte mit technischer Brillanz. Vormittags besuchen Sie das bedeutende Heiligtum und parken dann im Zentrum, um den Tumskie-Hügel zu Fuß zu erkunden. Nach einem lokalen Mittagessen fahren Sie zu den historischen Getreidespeichern und dem wunderschön gelegenen Zoo am Flussufer. Den Abschluss bildet die Fahrt über die monumentale Solidaritätsbrücke, die Płock mit dem Umland verbindet.",
-        "hu": "Ez az autós túra a spirituális helyszíneket ötvözi a technikai vívmányokkal. Délelőtt a fontos Irgalmasság-szentélyt látogatjuk meg, majd a belvárosban parkolva gyalog fedezzük fel a Tumskie-dombot. Az ebéd után a történelmi magtárakhoz és a folyóparti állatkerthez autózunk. A napot a monumentális Szolidaritás hídon való áthajtással zárjuk, amely Płock modern jelképe.",
-        "ro": "Această excursie cu mașina combină locurile spirituale cu realizările tehnice. Dimineața vizitați sanctuarul, apoi parcați în centru pentru a explora dealul Tumskie la pas. După un prânz local, conduceți spre grânarele istorice și grădina zoologică situată pitoresc pe malul fluviului. Finalul zilei este marcat de traversarea monumentalului Pod al Solidarității, care leagă orașul de regiune.",
-        "en": "This car tour blends spiritual landmarks with engineering marvels. Spend the morning at the Sanctuary of Divine Mercy, then park centrally to explore Tumskie Hill on foot. After a local lunch, drive to the historic granaries and the scenic riverside zoo. The day concludes with a drive across the monumental Solidarity Bridge, offering a great perspective of the city's scale."
+        "de": "Ihr Autotag in Płock ist in Cluster aufgeteilt. Sie beginnen am Tumski-Hügel, parken und erkunden die Kathedrale und die Altstadt zu Fuß. Nach dem Mittagessen fahren Sie zu den Weichselboulevards für einen entspannten Nachmittag am Wasser. Zum Abschluss fahren Sie zum Heiligtum der Barmherzigkeit Gottes und dann zum Aussichtspunkt der Solidarność-Brücke, um einen letzten Panoramablick auf die Stadt zu genießen.",
+        "hu": "Az autós nap Płockban csoportokra van osztva. A Tumski-dombnál kezd, leparkol, és gyalog fedezi fel a katedrálist és az óvárost. Ebéd után a Visztula-parti sétányokhoz hajt egy pihentető délutánra a vízparton. Végül az Isteni Irgalmasság Szentélyéhez, majd a Szolidaritás híd kilátójához megy, hogy egy utolsó panorámaképet készítsen a városról.",
+        "ro": "Ziua dvs. cu mașina în Płock este împărțită în clustere. Începeți pe Dealul Tumskie, parcați și explorați catedrala și centrul vechi pe jos. După prânz, conduceți spre bulevardele Vistulei pentru o după-amiază relaxantă la malul apei. În cele din urmă, conduceți spre Sanctuarul Milostivirii Divine și apoi spre punctul de belvedere al Podului Solidarității pentru o ultimă vedere panoramică a orașului.",
+        "en": "Your car day in Płock is divided into clusters. You'll start at Tumskie Hill, parking and exploring the cathedral and Old Town on foot. After lunch, you drive to the Vistula Boulevards for a relaxing afternoon by the water. Finally, you'll drive to the Sanctuary of Divine Mercy and then the Solidarity Bridge viewpoint for a final panoramic look at the city."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Restauracja Estera",
-            "tip": "Hervorragende jüdische und polnische Küche."
+            "name": "Oscypek",
+            "tip": "Probieren Sie den geräucherten Schafskäse, oft gegrillt mit Preiselbeeren serviert."
+          },
+          {
+            "name": "Art-Deko",
+            "tip": "Stilvolles Restaurant im Masowischen Museum, ideal für Kaffee und Kuchen."
           }
         ],
         "hu": [
           {
-            "name": "Restauracja Estera",
-            "tip": "Kiváló zsidó és lengyel konyha."
+            "name": "Oscypek",
+            "tip": "Kóstolja meg a füstölt juhsajtot, gyakran grillezve, áfonyával tálalva."
+          },
+          {
+            "name": "Art-Deko",
+            "tip": "Stílusos étterem a Mazóviai Múzeumban, ideális kávézáshoz és süteményezéshez."
           }
         ],
         "ro": [
           {
-            "name": "Restauracja Estera",
-            "tip": "Bucătărie evreiască și poloneză excelentă."
+            "name": "Oscypek",
+            "tip": "Încercați brânza de oaie afumată, adesea servită la grătar cu merișoare."
+          },
+          {
+            "name": "Art-Deko",
+            "tip": "Restaurant elegant în Muzeul Mazovian, perfect pentru o cafea și o prăjitură."
           }
         ],
         "en": [
           {
-            "name": "Restauracja Estera",
-            "tip": "Excellent Jewish and traditional Polish cuisine."
+            "name": "Oscypek",
+            "tip": "Try the smoked sheep cheese, often served grilled with cranberry."
+          },
+          {
+            "name": "Art-Deko",
+            "tip": "Stylish restaurant inside the Mazovian Museum, perfect for coffee and cake."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Molo w Płocku",
-            "tip": "Einzigartige Seebrücke am Weichselufer.",
+            "name": "Fahrt entlang der Weichsel",
+            "tip": "Finden Sie eine weniger befahrene Straße am Flussufer für eine ruhige Fahrt.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Gärten des Heiligtums",
+            "tip": "Die Umgebung des Heiligtums der Barmherzigkeit Gottes ist sehr friedlich.",
             "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "Płocki móló",
-            "tip": "Egyedülálló folyami móló a Visztulán.",
+            "name": "Autózás a Visztula mentén",
+            "tip": "Keressen egy kevésbé forgalmas utat a folyóparton egy csendes utazáshoz.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "A Szentély kertjei",
+            "tip": "Az Isteni Irgalmasság Szentélyének környéke nagyon békés.",
             "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Moll Płock",
-            "tip": "Deznodământ unic pe malul Vistulei.",
+            "name": "Plimbare cu mașina de-a lungul Vistulei",
+            "tip": "Găsiți un drum mai puțin aglomerat pe malul râului pentru o plimbare liniștită.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Grădinile Sanctuarului",
+            "tip": "Împrejurimile Sanctuarului Milostivirii Divine sunt foarte pașnice.",
             "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "Płock Pier",
-            "tip": "A unique river pier extending into the Vistula.",
+            "name": "Drive along the Vistula",
+            "tip": "Find a less-traveled road by the riverside for a quiet drive.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Gardens of the Sanctuary",
+            "tip": "The grounds of the Sanctuary of Divine Mercy are very peaceful.",
             "emoji": "🧘"
           }
         ]
@@ -562,49 +990,357 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Centrum Handlowe Mazovia",
-            "tip": "Großes Einkaufszentrum mit vielen Parkplätzen."
+            "name": "Galerie Mazovia",
+            "tip": "Ein modernes Einkaufszentrum etwas außerhalb des Zentrums für alle Ihre Einkaufsbedürfnisse."
+          },
+          {
+            "name": "Tankstellen-Souvenirs",
+            "tip": "Manchmal findet man hier einzigartige lokale Snacks und kleine Geschenke."
           }
         ],
         "hu": [
           {
-            "name": "Centrum Handlowe Mazovia",
-            "tip": "Nagy bevásárlóközpont bőséges parkolóval."
+            "name": "Galeria Mazovia",
+            "tip": "Modern bevásárlóközpont a központtól kicsit távolabb, minden vásárlási igényt kielégít."
+          },
+          {
+            "name": "Benzinkút-szuvenírek",
+            "tip": "Néha egyedi helyi rágcsálnivalókat és apró ajándékokat találhat itt."
           }
         ],
         "ro": [
           {
-            "name": "Centrum Handlowe Mazovia",
-            "tip": "Centru comercial mare cu parcare generoasă."
+            "name": "Galeria Mazovia",
+            "tip": "Un centru comercial modern chiar în afara centrului pentru toate nevoile dvs. de cumpărături."
+          },
+          {
+            "name": "Suveniruri de la benzinării",
+            "tip": "Uneori puteți găsi gustări locale unice și mici cadouri aici."
           }
         ],
         "en": [
           {
-            "name": "Mazovia Shopping Mall",
-            "tip": "Large shopping centre with ample parking space."
+            "name": "Galeria Mazovia",
+            "tip": "A modern shopping mall just outside the center for all your shopping needs."
+          },
+          {
+            "name": "Gas station souvenirs",
+            "tip": "Sometimes you can find unique local snacks and small gifts here."
           }
         ]
       },
       "tips": {
         "de": [
-          "Das Parken in der Altstadt ist am Wochenende oft kostenlos.",
-          "Die Solidaritätsbrücke bietet den besten Blick auf die Skyline.",
-          "Planen Sie Zeit für den Zoo ein, er ist weitläufiger als gedacht."
+          "Parken in der Innenstadt kann schwierig sein, besonders in der Hochsaison. Nutzen Sie ausgewiesene Parkplätze.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen und Parkvorschriften.",
+          "Ein GPS ist unerlässlich, um sich zwischen den verschiedenen Clustern zurechtzufinden."
         ],
         "hu": [
-          "Az óvárosi parkolás hétvégente gyakran ingyenes.",
-          "A Szolidaritás hídról nyílik a legjobb kilátás a városra.",
-          "Szánjon időt az állatkertre, nagyobb, mint elsőre látszik."
+          "A belvárosi parkolás nehéz lehet, különösen a főszezonban. Használja a kijelölt parkolókat.",
+          "Tartsa be a sebességkorlátozásokat és a parkolási szabályokat.",
+          "A GPS elengedhetetlen a különböző csoportok közötti navigáláshoz."
         ],
         "ro": [
-          "Parcarea în centrul vechi este adesea gratuită în weekend.",
-          "Podul Solidarității oferă cea mai bună perspectivă asupra orizontului.",
-          "Alocați timp grădinii zoologice, este mai vastă decât pare."
+          "Parcarea în centrul orașului poate fi dificilă, mai ales în sezonul de vârf. Folosiți parcările desemnate.",
+          "Respectați limitele de viteză și regulile de parcare.",
+          "Un GPS este esențial pentru a naviga între diferitele clustere."
         ],
         "en": [
-          "Parking in the Old Town is often free during weekends.",
-          "The Solidarity Bridge provides the best views of the city skyline.",
-          "Allow enough time for the zoo; it covers a larger area than expected."
+          "Parking downtown can be challenging, especially in high season. Use designated parking lots.",
+          "Be mindful of speed limits and parking regulations.",
+          "A GPS is essential for navigating between the different clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Altstadt & Museum",
+            "hu": "1. csoport: Óváros és Múzeum",
+            "ro": "Cluster 1: Centrul Vechi și Muzeu",
+            "en": "Cluster 1: Old Town & Museum"
+          },
+          "coords": [
+            19.706,
+            52.543
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum 'Stary Rynek' und beginnen Sie Ihren Tag im Herzen von Płock.",
+            "hu": "Menjen busszal a 'Stary Rynek'-re, és kezdje a napot Płock szívében.",
+            "ro": "Luați un autobuz spre 'Stary Rynek' și începeți ziua în inima orașului Płock.",
+            "en": "Take a bus to 'Stary Rynek' and start your day in the heart of Płock."
+          }
+        },
+        {
+          "name": {
+            "de": "Masowisches Museum",
+            "hu": "Mazóviai Múzeum",
+            "ro": "Muzeul Mazovian",
+            "en": "Mazovian Museum"
+          },
+          "coords": [
+            19.708,
+            52.5425
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Platz aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a térről.",
+            "ro": "Ușor accesibil pe jos din piață.",
+            "en": "Easily walkable from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Tumski-Hügel",
+            "hu": "2. csoport: Tumski-domb",
+            "ro": "Cluster 2: Dealul Tumskie",
+            "en": "Cluster 2: Tumskie Hill"
+          },
+          "coords": [
+            19.7068,
+            52.5465
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt bringt Sie in die Nähe des Hügels für die Kathedrale und die Aussicht.",
+            "hu": "Egy rövid buszúttal a domb közelébe juthat a katedrálishoz és a kilátáshoz.",
+            "ro": "O scurtă călătorie cu autobuzul vă va aduce aproape de deal pentru catedrală și priveliști.",
+            "en": "A short bus ride will get you near the hill for the cathedral and the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Diözesanmuseum",
+            "hu": "Egyházmegyei Múzeum",
+            "ro": "Muzeul Diecezan",
+            "en": "Diocesan Museum"
+          },
+          "coords": [
+            19.705,
+            52.546
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben der Kathedrale gelegen, ein einfacher Spaziergang.",
+            "hu": "Közvetlenül a katedrális mellett található, könnyű séta.",
+            "ro": "Situat chiar lângă catedrală, o plimbare ușoară.",
+            "en": "Located right next to the cathedral, an easy walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Boulevards an der Weichsel",
+            "hu": "3. csoport: Visztula parti sétányok",
+            "ro": "Cluster 3: Bulevardele de pe Vistula",
+            "en": "Cluster 3: Vistula River Boulevards"
+          },
+          "coords": [
+            19.698,
+            52.549
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Pier für einen entspannten Nachmittag am Fluss.",
+            "hu": "Menjen busszal a mólóhoz egy pihentető délutánra a folyóparton.",
+            "ro": "Luați un autobuz spre ponton pentru o după-amiază relaxantă pe malul râului.",
+            "en": "Take a bus down to the pier for a relaxed afternoon by the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Płock in Clustern. Beginnen Sie im Herzen der Altstadt, die Sie mit dem Bus erreichen. Gehen Sie zum Masowischen Museum. Nehmen Sie dann einen weiteren Bus zum Tumski-Hügel, um die Kathedrale zu bewundern. Der letzte Bus bringt Sie zu den Weichselboulevards, wo Sie den Rest des Nachmittags mit Blick auf den Fluss verbringen und die lokale Atmosphäre genießen.",
+        "hu": "Tömegközlekedéssel Płockot csoportokban fedezheti fel. Kezdje az óváros szívében, ahová busszal jut el. Sétáljon el a Mazóviai Múzeumhoz. Ezután egy másik busszal menjen fel a Tumski-dombra a katedrális megcsodálásához. Az utolsó busz a Visztula-parti sétányokhoz viszi, ahol a délután hátralévő részét a folyóra néző kilátással töltheti, élvezve a helyi hangulatot.",
+        "ro": "Folosind transportul public, explorați Płock în clustere. Începeți în inima Centrului Vechi, ajungând cu autobuzul. Plimbați-vă până la Muzeul Mazovian. Apoi, luați un alt autobuz spre Dealul Tumskie pentru a admira catedrala. Autobuzul final vă va duce la bulevardele Vistulei, unde vă veți petrece restul după-amiezii cu vedere la râu, bucurându-vă de atmosfera locală.",
+        "en": "Using public transit, you'll explore Płock in clusters. Start in the heart of the Old Town, arriving by bus. Walk to the Mazovian Museum. Then, take another bus to Tumskie Hill to admire the cathedral. The final bus will take you to the Vistula Boulevards, where you'll spend the rest of the afternoon overlooking the river, enjoying the local vibe."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein beliebtes polnisches Streetfood, im Wesentlichen ein offenes Sandwich mit Pilzen und Käse."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Polnische Donuts, die man unbedingt probieren muss, mit verschiedenen Füllungen erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Népszerű lengyel street food, lényegében egy nyitott szendvics gombával és sajttal."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Lengyel fánk, amit feltétlenül meg kell kóstolni, különböző töltelékekkel kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Un popular street food polonez, în esență un sandviș deschis cu ciuperci și brânză."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Gogoși poloneze, o necesitate, disponibile cu diverse umpluturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "A popular Polish street food, essentially an open-faced sandwich with mushrooms and cheese."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Polish donuts, a must-try, available with various fillings."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt aus der Stadt hinaus",
+            "tip": "Beobachten Sie die vorbeiziehende Landschaft und sehen Sie die Vororte.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bank am Tumski-Hügel",
+            "tip": "Finden Sie eine ruhige Ecke mit Blick auf das Weichseltal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszút a városból kifelé",
+            "tip": "Nézze a tájat és a külvárost.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Pad a Tumski-dombon",
+            "tip": "Keressen egy csendes sarkot, kilátással a Visztula völgyére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul în afara orașului",
+            "tip": "Urmăriți peisajul care trece și vedeți suburbiile.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bancă pe Dealul Tumskie",
+            "tip": "Găsiți un colț liniștit cu vedere la valea Vistulei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride out of the city",
+            "tip": "Watch the passing scenery and see the suburbs.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bench on Tumskie Hill",
+            "tip": "Find a quiet corner overlooking the Vistula valley.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske",
+            "tip": "Kaufen Sie Fahrkarten und vielleicht eine lokale Zeitung oder ein Magazin."
+          },
+          {
+            "name": "Bäckereien in der Nähe von Bushaltestellen",
+            "tip": "Holen Sie sich einen schnellen Snack für Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok",
+            "tip": "Vásároljon jegyeket és talán egy helyi újságot vagy magazint."
+          },
+          {
+            "name": "Pékségek a buszmegállók közelében",
+            "tip": "Vegyen egy gyors harapnivalót az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri",
+            "tip": "Cumpărați bilete de transport și poate un ziar sau o revistă locală."
+          },
+          {
+            "name": "Brutării lângă stațiile de autobuz",
+            "tip": "Luați o gustare rapidă pentru călătoria dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks",
+            "tip": "Buy your transit tickets and maybe a local newspaper or magazine."
+          },
+          {
+            "name": "Bakeries near bus stops",
+            "tip": "Grab a quick snack for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie eine App für den öffentlichen Nahverkehr herunter, um Fahrpläne und Routen in Echtzeit zu verfolgen.",
+          "Beachten Sie, dass die Busse zu Stoßzeiten voll sein können."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltsön le egy tömegközlekedési alkalmazást a valós idejű menetrendek és útvonalak követéséhez.",
+          "Ne feledje, hogy a buszok csúcsidőben zsúfoltak lehetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați o aplicație de transport public pentru a urmări orarele și rutele în timp real.",
+          "Rețineți că autobuzele pot fi aglomerate în timpul orelor de vârf."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Download a public transport app to track real-time schedules and routes.",
+          "Be aware that buses can be crowded during peak hours."
         ]
       }
     }

@@ -1,0 +1,1470 @@
+{
+  "city_id": "portugal-serpa-cities-v2",
+  "anchor": {
+    "name": "Serpa",
+    "coords": [
+      -7.5967,
+      37.9433
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Porta de Beja",
+            "hu": "Bejai-kapu",
+            "ro": "Poarta Beja",
+            "en": "Beja Gate"
+          },
+          "coords": [
+            -7.5985,
+            37.9441
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Spaziergang hier, um die erhaltenen Mauern sofort zu bewundern.",
+            "hu": "Kezdje itt a sétát, hogy azonnal megcsodálhassa a megmaradt városfalakat.",
+            "ro": "Începeți plimbarea de aici pentru a admira imediat zidurile bine conservate.",
+            "en": "Start your walk here to immediately admire the well-preserved walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Serpa",
+            "hu": "Serpai vár",
+            "ro": "Castelul din Serpa",
+            "en": "Castle of Serpa"
+          },
+          "coords": [
+            -7.5961,
+            37.9458
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm für den besten Panoramablick über die Alentejo-Ebene.",
+            "hu": "Másszon fel a toronyba a legjobb panorámáért az Alentejo-síkság felett.",
+            "ro": "Urcați în turn pentru cea mai bună vedere panoramică asupra câmpiilor Alentejo.",
+            "en": "Climb the tower for the best panoramic view over the Alentejo plains."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria",
+            "hu": "Santa Maria-templom",
+            "ro": "Biserica Santa Maria",
+            "en": "Igreja de Santa Maria"
+          },
+          "coords": [
+            -7.5959,
+            37.9455
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beachten Sie die gotischen Elemente und die kunstvollen Azulejo-Fliesen im Inneren.",
+            "hu": "Figyelje meg a gótikus elemeket és a díszes azulejo csempéket a belső térben.",
+            "ro": "Observați elementele gotice și plăcile decorative de azulejos din interior.",
+            "en": "Note the Gothic elements and the ornate azulejo tiles inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenmuseum",
+            "hu": "Óramúzeum",
+            "ro": "Muzeul Ceasului",
+            "en": "Museu do Relógio"
+          },
+          "coords": [
+            -7.5968,
+            37.9435
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein einzigartiges Museum in einem alten Kloster. Fragen Sie nach der Geschichte der ältesten Uhr.",
+            "hu": "Egyedülálló múzeum egy régi kolostorban. Kérdezzen rá a legrégebbi óra történetére.",
+            "ro": "Un muzeu unic într-o mănăstire veche. Întrebați despre povestea celui mai vechi ceas.",
+            "en": "A unique museum in an old convent. Ask about the story of the oldest clock."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Grafen von Ficalho",
+            "hu": "Ficalho grófjainak palotája",
+            "ro": "Palatul Conților de Ficalho",
+            "en": "Palácio dos Condes de Ficalho"
+          },
+          "coords": [
+            -7.5975,
+            37.943
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die manuelinische Architektur, auch wenn der Palast oft nur von außen zu besichtigen ist.",
+            "hu": "Csodálja meg a mánueli stílusú építészetet, még ha a palota gyakran csak kívülről látogatható is.",
+            "ro": "Admirați arhitectura manuelină, chiar dacă palatul este adesea vizitabil doar din exterior.",
+            "en": "Admire the Manueline architecture, even if the palace can often only be viewed from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquädukt von Serpa",
+            "hu": "Serpai vízvezeték",
+            "ro": "Apeductul din Serpa",
+            "en": "Aqueduto de Serpa"
+          },
+          "coords": [
+            -7.5941,
+            37.9472
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für Fotos am späten Nachmittag, wenn das Licht warm ist.",
+            "hu": "Remek fotóhelyszín késő délután, amikor a fények melegek.",
+            "ro": "Un loc excelent pentru fotografii după-amiaza târziu, când lumina este caldă.",
+            "en": "A great spot for photos in the late afternoon when the light is warm."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermida de São Sebastião",
+            "hu": "Szent Sebestyén-kápolna",
+            "ro": "Schitul São Sebastião",
+            "en": "Ermida de São Sebastião"
+          },
+          "coords": [
+            -7.6001,
+            37.9415
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein friedlicher Abschluss des Tages. Genießen Sie die Ruhe abseits des Zentrums.",
+            "hu": "A nap békés lezárása. Élvezze a központtól távoli csendet.",
+            "ro": "O încheiere pașnică a zilei. Bucurați-vă de liniștea de departe de centru.",
+            "en": "A peaceful end to the day. Enjoy the quiet away from the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Serpa beginnt mit einem Spaziergang durch die alten Tore in das historische Herz. Der Vormittag ist der Erkundung der imposanten Burg und der angrenzenden Kirche gewidmet, von wo aus Sie einen weiten Blick über die Landschaft des Alentejo genießen. Am Mittag tauchen Sie im einzigartigen Uhrenmuseum in die Welt der Zeitmessung ein, bevor Sie ein herzhaftes lokales Mittagessen genießen. Der Nachmittag führt Sie vorbei am Ficalho-Palast zum römischen Aquädukt, ein perfekter Ort, um das goldene Licht einzufangen. Der Tag klingt in der ruhigen Atmosphäre der São Sebastião-Kapelle aus, ein Moment der Besinnung.",
+        "hu": "A serpasi nap egy sétával kezdődik a régi kapukon át a történelmi szívbe. A délelőttöt a lenyűgöző vár és a szomszédos templom felfedezésének szenteli, ahonnan széles kilátás nyílik az Alentejo tájára. Délben az egyedülálló Óramúzeumban merül el az időmérés világában, mielőtt egy kiadós helyi ebédet fogyasztana. A délután a Ficalho-palota mellett elhaladva a római vízvezetékhez vezet, amely tökéletes hely az aranyló fények megörökítésére. A nap a São Sebastião-kápolna csendes légkörében ér véget, egy elmélyült pillanattal.",
+        "ro": "Ziua dvs. în Serpa începe cu o plimbare prin porțile vechi în inima istorică. Dimineața este dedicată explorării impunătorului castel și a bisericii adiacente, de unde vă bucurați de o priveliște vastă asupra peisajului din Alentejo. La prânz, vă scufundați în lumea măsurării timpului la unicul Muzeu al Ceasului, înainte de a savura un prânz local consistent. După-amiaza vă poartă pe lângă Palatul Ficalho spre apeductul roman, un loc perfect pentru a surprinde lumina aurie. Ziua se încheie în atmosfera liniștită a schitului São Sebastião, un moment de reflecție.",
+        "en": "Your day in Serpa begins with a walk through the ancient gates into the historic heart. The morning is dedicated to exploring the imposing castle and the adjacent church, from where you can enjoy a vast view over the Alentejo landscape. At midday, you'll dive into the world of timekeeping at the unique Clock Museum before enjoying a hearty local lunch. The afternoon takes you past the Ficalho Palace to the Roman aqueduct, a perfect spot to capture the golden light. The day concludes in the quiet atmosphere of the São Sebastião chapel, a moment of reflection."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Queijo Serpa",
+            "tip": "Probieren Sie diesen kräftigen, cremigen Schafskäse, eine lokale Delikatesse."
+          },
+          {
+            "name": "Schwarzes Schwein aus dem Alentejo",
+            "tip": "Genießen Sie das zarte Fleisch des 'Porco Preto' in einem der traditionellen Restaurants."
+          },
+          {
+            "name": "Migas",
+            "tip": "Ein herzhaftes Brotaufstrich-Gericht, oft mit Spargel oder Schweinefleisch serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Serpa sajt",
+            "tip": "Kóstolja meg ezt az erős, krémes juhsajtot, egy helyi különlegességet."
+          },
+          {
+            "name": "Alentejói fekete sertés",
+            "tip": "Élvezze a 'Porco Preto' omlós húsát egy hagyományos étteremben."
+          },
+          {
+            "name": "Migas",
+            "tip": "Egy kiadós, kenyéralapú étel, gyakran spárgával vagy sertéshússal tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Serpa",
+            "tip": "Încercați această brânză de oaie puternică și cremoasă, o delicatesă locală."
+          },
+          {
+            "name": "Porc negru de Alentejo",
+            "tip": "Savurați carnea fragedă de 'Porco Preto' la unul dintre restaurantele tradiționale."
+          },
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare consistent pe bază de pâine, adesea servit cu sparanghel sau carne de porc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Serpa Cheese",
+            "tip": "Try this strong, creamy sheep's cheese, a local delicacy."
+          },
+          {
+            "name": "Alentejo Black Pork",
+            "tip": "Enjoy the tender meat of the 'Porco Preto' at one of the traditional restaurants."
+          },
+          {
+            "name": "Migas",
+            "tip": "A hearty bread-based dish, often served with asparagus or pork."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick von den Burgmauern",
+            "tip": "Finden Sie einen ruhigen Platz auf den Mauern, um den Sonnenuntergang über der Ebene zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten des Uhrenmuseums",
+            "tip": "Der Innenhof des Klosters ist eine Oase der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Aquädukt",
+            "tip": "Entlang der alten Bögen zu spazieren ist eine friedliche Erfahrung.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a várfalakról",
+            "tip": "Keressen egy csendes helyet a falakon, hogy megnézze a naplementét a síkság felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az Óramúzeum kertje",
+            "tip": "A kolostor belső udvara a béke oázisa.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a vízvezetéknél",
+            "tip": "A régi ívek mentén sétálni békés élmény.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de pe zidurile castelului",
+            "tip": "Găsiți un loc liniștit pe ziduri pentru a privi apusul peste câmpie.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Muzeului Ceasului",
+            "tip": "Curtea interioară a mănăstirii este o oază de pace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe lângă apeduct",
+            "tip": "Să te plimbi de-a lungul arcadelor vechi este o experiență pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Castle Walls",
+            "tip": "Find a quiet spot on the walls to watch the sunset over the plains.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garden of the Clock Museum",
+            "tip": "The inner courtyard of the convent is an oasis of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk by the Aqueduct",
+            "tip": "Walking along the old arches is a peaceful experience.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Käsereien",
+            "tip": "Kaufen Sie authentischen Serpa-Käse direkt vom Erzeuger."
+          },
+          {
+            "name": "Kunsthandwerksläden",
+            "tip": "Suchen Sie nach handgemachter Keramik und Korkprodukten in den kleinen Läden der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajtkészítők",
+            "tip": "Vásároljon autentikus Serpa sajtot közvetlenül a termelőtől."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és parafa termékeket az óváros kis boltjaiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Producători locali de brânză",
+            "tip": "Cumpărați brânză Serpa autentică direct de la sursă."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică lucrată manual și produse din plută în micile magazine din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese Shops",
+            "tip": "Buy authentic Serpa cheese directly from the producers."
+          },
+          {
+            "name": "Artisan Craft Shops",
+            "tip": "Look for handmade pottery and cork products in the small shops of the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen im historischen Zentrum gepflastert und uneben sind.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten, da es im Alentejo sehr heiß werden kann.",
+          "Planen Sie eine lange Mittagspause ein, um die lokale Küche und die entspannte Atmosphäre zu genießen.",
+          "Die meisten Sehenswürdigkeiten befinden sich in unmittelbarer Nähe zueinander, was Serpa ideal für einen Rundgang macht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a történelmi központ utcái macskakövesek és egyenetlenek.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban, mert az Alentejo-ban nagyon meleg lehet.",
+          "Tervezzen egy hosszú ebédszünetet, hogy élvezhesse a helyi konyhát és a laza légkört.",
+          "A legtöbb látnivaló gyalogosan elérhető, ami Serpát ideálissá teszi egy sétához."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile din centrul istoric sunt pavate și denivelate.",
+          "Luați multă apă, mai ales în lunile de vară, deoarece poate fi foarte cald în Alentejo.",
+          "Planificați o pauză de prânz lungă pentru a vă bucura de bucătăria locală și de atmosfera relaxată.",
+          "Majoritatea atracțiilor sunt la mică distanță una de cealaltă, ceea ce face Serpa ideală pentru un tur pietonal."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets in the historic center are cobbled and uneven.",
+          "Bring plenty of water, especially during the summer months, as it can get very hot in the Alentejo.",
+          "Plan for a long lunch break to enjoy the local cuisine and the relaxed atmosphere.",
+          "Most sights are within close walking distance, making Serpa ideal for a walking tour."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Aquädukt von Serpa",
+            "hu": "Serpai vízvezeték",
+            "ro": "Apeductul din Serpa",
+            "en": "Aqueduto de Serpa"
+          },
+          "coords": [
+            -7.5941,
+            37.9472
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit Parkmöglichkeiten, falls Sie mit dem Auto anreisen.",
+            "hu": "Jó kiindulópont, parkolási lehetőséggel, ha autóval érkezik.",
+            "ro": "Un punct de plecare bun, cu parcare disponibilă dacă veniți cu mașina.",
+            "en": "A good starting point with parking available if you arrive by car."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Serpa",
+            "hu": "Serpai vár",
+            "ro": "Castelul din Serpa",
+            "en": "Castle of Serpa"
+          },
+          "coords": [
+            -7.5961,
+            37.9458
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Fuße des Hügels ab, der Aufstieg ist zu Fuß einfacher.",
+            "hu": "Zárja le a kerékpárt a domb alján, a meredek emelkedőt könnyebb gyalog megtenni.",
+            "ro": "Lăsați bicicleta la baza dealului, urcarea este mai ușoară pe jos.",
+            "en": "Lock your bike at the bottom of the hill; the climb is easier on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria",
+            "hu": "Santa Maria-templom",
+            "ro": "Biserica Santa Maria",
+            "en": "Igreja de Santa Maria"
+          },
+          "coords": [
+            -7.5959,
+            37.9455
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben dem Schloss gelegen, ein kurzer Halt, um die Architektur zu bewundern.",
+            "hu": "Közvetlenül a vár mellett található, egy rövid megálló az építészet megcsodálására.",
+            "ro": "Situată chiar lângă castel, o oprire scurtă pentru a admira arhitectura.",
+            "en": "Located right next to the castle, a quick stop to admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenmuseum",
+            "hu": "Óramúzeum",
+            "ro": "Muzeul Ceasului",
+            "en": "Museu do Relógio"
+          },
+          "coords": [
+            -7.5968,
+            37.9435
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für diese faszinierende Sammlung ein. Es gibt sichere Abstellmöglichkeiten für Fahrräder.",
+            "hu": "Szánjon elég időt erre a lenyűgöző gyűjteményre. Biztonságos kerékpártárolók állnak rendelkezésre.",
+            "ro": "Planificați suficient timp pentru această colecție fascinantă. Există locuri sigure pentru a parca bicicleta.",
+            "en": "Allow plenty of time for this fascinating collection. Secure bike parking is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Muralhas de Serpa",
+            "hu": "Serpa városfalai",
+            "ro": "Zidurile din Serpa",
+            "en": "Muralhas de Serpa"
+          },
+          "coords": [
+            -7.5988,
+            37.9425
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie einen Abschnitt entlang der Außenmauern, um ein Gefühl für die Größe der Festung zu bekommen.",
+            "hu": "Tekerjen egy szakaszt a külső falak mentén, hogy átérezze az erőd méretét.",
+            "ro": "Mergeți cu bicicleta pe o secțiune de-a lungul zidurilor exterioare pentru a vă face o idee despre dimensiunea fortăreței.",
+            "en": "Ride a section along the outer walls to get a feel for the scale of the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermida de São Sebastião",
+            "hu": "Szent Sebestyén-kápolna",
+            "ro": "Schitul São Sebastião",
+            "en": "Ermida de São Sebastião"
+          },
+          "coords": [
+            -7.6001,
+            37.9415
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher vom Hauptweg für einen Moment der Ruhe.",
+            "hu": "Egy rövid kitérő a fő útról egy csendes pillanatért.",
+            "ro": "O mică deviere de la traseul principal pentru un moment de liniște.",
+            "en": "A short detour from the main path for a moment of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Grafen von Ficalho",
+            "hu": "Ficalho grófjainak palotája",
+            "ro": "Palatul Conților de Ficalho",
+            "en": "Palácio dos Condes de Ficalho"
+          },
+          "coords": [
+            -7.5975,
+            37.943
+          ],
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "category": "famous residences",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Blick auf diesen beeindruckenden Palast im Herzen der Stadt.",
+            "hu": "Fejezze be a túrát ennek a lenyűgöző palotának a megtekintésével a város szívében.",
+            "ro": "Încheiați turul cu o privire la acest palat impresionant din inima orașului.",
+            "en": "End your tour with a look at this impressive palace in the heart of the town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Serpa beginnt am historischen Aquädukt und führt Sie schnell zum Herzen der Stadt, dem Schloss. Der Vormittag steht im Zeichen der Geschichte, mit einem Besuch der Festung und der Kirche Santa Maria. Nach einer kulturellen Pause im faszinierenden Uhrenmuseum nehmen Sie sich Zeit für ein Mittagessen mit lokalen Spezialitäten. Am Nachmittag radeln Sie entlang der alten Stadtmauern, machen einen kurzen Abstecher zur ruhigen São Sebastião-Kapelle und beenden Ihre Erkundung am prächtigen Palast der Grafen von Ficalho, mitten im Geschehen.",
+        "hu": "A serpasi kerékpártúra a történelmi vízvezetéknél kezdődik, és gyorsan a város szívébe, a várhoz vezet. A délelőtt a történelem jegyében telik, a vár és a Santa Maria-templom meglátogatásával. Egy kulturális szünet után a lenyűgöző Óramúzeumban, időt szán egy helyi specialitásokból álló ebédre. Délután a régi városfalak mentén kerékpározik, tesz egy rövid kitérőt a csendes Szent Sebestyén-kápolnához, és a Ficalho grófok pompás palotájánál, az események sűrűjében fejezi be a felfedezést.",
+        "ro": "Turul dvs. cu bicicleta prin Serpa începe la apeductul istoric și vă duce rapid în inima orașului, la castel. Dimineața este dedicată istoriei, cu vizite la fortăreață și la Biserica Santa Maria. După o pauză culturală la fascinantul Muzeu al Ceasului, vă luați timp pentru un prânz cu specialități locale. După-amiaza pedalați de-a lungul zidurilor vechi ale orașului, faceți o scurtă abatere la liniștitul schit São Sebastião și încheiați explorarea la magnificul Palat al Conților de Ficalho, în centrul acțiunii.",
+        "en": "Your bike tour of Serpa starts at the historic aqueduct, quickly leading you to the heart of the city, the castle. The morning is all about history, with visits to the fortress and the Santa Maria Church. After a cultural break at the fascinating Clock Museum, you'll take time for a lunch of local specialties. In the afternoon, you'll cycle along the old city walls, make a short detour to the quiet São Sebastião chapel, and finish your exploration at the magnificent Palace of the Counts of Ficalho, right in the middle of the action."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Queijo Serpa",
+            "tip": "Probieren Sie diesen kräftigen, cremigen Schafskäse, eine lokale Delikatesse."
+          },
+          {
+            "name": "Schwarzes Schwein aus dem Alentejo",
+            "tip": "Genießen Sie das zarte Fleisch des 'Porco Preto' in einem der traditionellen Restaurants."
+          },
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "Ein traditioneller Lammeintopf, perfekt nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Serpa sajt",
+            "tip": "Kóstolja meg ezt az erős, krémes juhsajtot, egy helyi különlegességet."
+          },
+          {
+            "name": "Alentejói fekete sertés",
+            "tip": "Élvezze a 'Porco Preto' omlós húsát egy hagyományos étteremben."
+          },
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "Hagyományos bárányragu, tökéletes egy kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Serpa",
+            "tip": "Încercați această brânză de oaie puternică și cremoasă, o delicatesă locală."
+          },
+          {
+            "name": "Porc negru de Alentejo",
+            "tip": "Savurați carnea fragedă de 'Porco Preto' la unul dintre restaurantele tradiționale."
+          },
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "O tocană tradițională de miel, perfectă după un tur cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Serpa Cheese",
+            "tip": "Try this strong, creamy sheep's cheese, a local delicacy."
+          },
+          {
+            "name": "Alentejo Black Pork",
+            "tip": "Enjoy the tender meat of the 'Porco Preto' at one of the traditional restaurants."
+          },
+          {
+            "name": "Ensopado de Borrego",
+            "tip": "A traditional lamb stew, perfect after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Olivenhaine außerhalb der Mauern",
+            "tip": "Machen Sie eine kurze Pause im Schatten eines Olivenbaums.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Blick vom Schlossturm",
+            "tip": "Die Aussicht ist die Anstrengung wert und bietet einen Moment der Ruhe über den Dächern.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Guadiana (in der Nähe)",
+            "tip": "Wenn Sie Zeit haben, ist eine längere Radtour zum Flussufer sehr lohnend.",
+            "emoji": "💧"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olajfaligetek a falakon kívül",
+            "tip": "Tartson egy rövid szünetet egy olajfa árnyékában.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kilátás a vártoronyból",
+            "tip": "A kilátás megéri a fáradságot, és egy csendes pillanatot kínál a háztetők felett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Guadiana folyó partja (a közelben)",
+            "tip": "Ha van ideje, egy hosszabb kerékpártúra a folyópartra nagyon megéri.",
+            "emoji": "💧"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Livezi de măslini în afara zidurilor",
+            "tip": "Faceți o scurtă pauză la umbra unui măslin.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Vedere din turnul castelului",
+            "tip": "Priveliștea merită efortul și oferă un moment de liniște deasupra acoperișurilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Guadiana (în apropiere)",
+            "tip": "Dacă aveți timp, o plimbare mai lungă cu bicicleta până pe malul râului este foarte satisfăcătoare.",
+            "emoji": "💧"
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive groves outside the walls",
+            "tip": "Take a short break in the shade of an olive tree.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "View from the castle tower",
+            "tip": "The view is worth the effort and offers a moment of peace above the rooftops.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Guadiana River (nearby)",
+            "tip": "If you have time, a longer bike ride to the riverbank is very rewarding.",
+            "emoji": "💧"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, Honig und Olivenöl aus der Region."
+          },
+          {
+            "name": "Töpfereien",
+            "tip": "Alentejo ist bekannt für seine Töpferkunst. Suchen Sie nach handbemalten Stücken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, mézet és olívaolajat a régióból."
+          },
+          {
+            "name": "Fazekasműhelyek",
+            "tip": "Az Alentejo híres a fazekasságáról. Keressen kézzel festett darabokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, miere și ulei de măsline din regiune."
+          },
+          {
+            "name": "Ateliere de olărit",
+            "tip": "Alentejo este renumit pentru olăritul său. Căutați piese pictate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy fresh produce, honey, and olive oil from the region."
+          },
+          {
+            "name": "Pottery Workshops",
+            "tip": "Alentejo is known for its pottery. Look for hand-painted pieces."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen, da es einige Hügel gibt.",
+          "Ein Helm wird dringend empfohlen.",
+          "Die Altstadt ist klein, aber die Straßen können eng und belebt sein. Fahren Sie vorsichtig.",
+          "Nutzen Sie die Gelegenheit, die Landschaft rund um Serpa zu erkunden, die mit dem Fahrrad leicht zu erreichen ist."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket, mivel vannak emelkedők.",
+          "A sisak viselése erősen ajánlott.",
+          "Az óváros kicsi, de az utcák szűkek és forgalmasak lehetnek. Vezessen óvatosan.",
+          "Használja ki a lehetőséget, hogy felfedezze Serpa környékét, amely kerékpárral könnyen elérhető."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele, deoarece există câteva dealuri.",
+          "Casca este foarte recomandată.",
+          "Orașul vechi este mic, dar străzile pot fi înguste și aglomerate. Conduceți cu atenție.",
+          "Profitați de ocazie pentru a explora peisajul rural din jurul Serpa, care este ușor accesibil cu bicicleta."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes, as there are some hills.",
+          "A helmet is highly recommended.",
+          "The old town is small, but the streets can be narrow and busy. Ride carefully.",
+          "Take the opportunity to explore the countryside around Serpa, which is easily accessible by bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 21.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Aquädukt",
+            "hu": "Parkoló a vízvezetéknél",
+            "ro": "Parcare lângă Apeduct",
+            "en": "Parking at the Aqueduct"
+          },
+          "coords": [
+            -7.5938,
+            37.9475
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein guter, kostenloser Parkplatz, um das Auto für den Tag abzustellen und die Stadt zu Fuß zu erkunden.",
+            "hu": "Jó, ingyenes parkoló, ahol egész napra otthagyhatja az autót, és gyalog fedezheti fel a várost.",
+            "ro": "O parcare bună și gratuită pentru a lăsa mașina pentru o zi și a explora orașul pe jos.",
+            "en": "A good, free parking spot to leave the car for the day and explore the town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Serpa & Kirche Santa Maria",
+            "hu": "Serpai vár és Santa Maria-templom",
+            "ro": "Castelul din Serpa & Biserica Santa Maria",
+            "en": "Castle of Serpa & Igreja de Santa Maria"
+          },
+          "coords": [
+            -7.596,
+            37.9457
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie beides zusammen, da sie direkt nebeneinander liegen. Der Ausblick ist die Hauptattraktion.",
+            "hu": "Fedezze fel mindkettőt együtt, mivel közvetlenül egymás mellett vannak. A kilátás a fő attrakció.",
+            "ro": "Explorați-le pe amândouă împreună, deoarece sunt situate una lângă alta. Priveliștea este atracția principală.",
+            "en": "Explore both together as they are located right next to each other. The view is the main attraction."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenmuseum",
+            "hu": "Óramúzeum",
+            "ro": "Muzeul Ceasului",
+            "en": "Museu do Relógio"
+          },
+          "coords": [
+            -7.5968,
+            37.9435
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Schlossbesuch ein kurzer Spaziergang bergab zu diesem Juwel.",
+            "hu": "A várlátogatás után egy rövid séta lefelé ehhez a gyöngyszemhez.",
+            "ro": "După vizita la castel, o scurtă plimbare la vale spre această bijuterie.",
+            "en": "After the castle visit, a short walk downhill to this gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im historischen Zentrum",
+            "hu": "Ebéd a történelmi központban",
+            "ro": "Prânz în centrul istoric",
+            "en": "Lunch in the Historic Center"
+          },
+          "coords": [
+            -7.5972,
+            37.9438
+          ],
+          "category": "gastro",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant in der Nähe des Museums für authentische Alentejo-Küche.",
+            "hu": "Válasszon egy éttermet a múzeum közelében az autentikus Alentejo konyháért.",
+            "ro": "Alegeți un restaurant lângă muzeu pentru bucătăria autentică din Alentejo.",
+            "en": "Choose a restaurant near the museum for authentic Alentejo cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Käserei-Besuch (Queijaria)",
+            "hu": "Látogatás egy sajtkészítőnél (Queijaria)",
+            "ro": "Vizită la o fabrică de brânză (Queijaria)",
+            "en": "Cheese Dairy Visit (Queijaria)"
+          },
+          "coords": [
+            -7.651,
+            37.965
+          ],
+          "category": "agriculture",
+          "arrive_at": "15:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 20.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt aufs Land, um den berühmten Serpa-Käse zu probieren und zu sehen, wie er hergestellt wird.",
+            "hu": "Egy rövid autóút vidékre, hogy megkóstolja a híres Serpa sajtot és megnézze, hogyan készül.",
+            "ro": "O scurtă călătorie cu mașina la țară pentru a gusta faimoasa brânză Serpa și a vedea cum se face.",
+            "en": "A short drive into the countryside to taste the famous Serpa cheese and see how it's made."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang durch die Olivenhaine",
+            "hu": "Séta az olajfaligetekben",
+            "ro": "Plimbare prin livezile de măslini",
+            "en": "Walk through the Olive Groves"
+          },
+          "coords": [
+            -7.65,
+            37.9645
+          ],
+          "category": "nature",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach der Käseverkostung ist ein Spaziergang durch die umliegenden Haine sehr entspannend.",
+            "hu": "A sajtkóstoló után egy séta a környező ligetekben nagyon pihentető.",
+            "ro": "După degustarea de brânză, o plimbare prin livezile din jur este foarte relaxantă.",
+            "en": "After the cheese tasting, a walk through the surrounding groves is very relaxing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt entspannt. Sie parken Ihr Auto in der Nähe des alten Aquädukts und tauchen zu Fuß in die Geschichte ein. Der Vormittag gehört dem Cluster aus Schloss und Kirche, gefolgt von einem Spaziergang zum faszinierenden Uhrenmuseum. Nach einem traditionellen Mittagessen im Herzen von Serpa steigen Sie wieder ins Auto. Der Nachmittag ist einem Landausflug gewidmet: eine kurze Fahrt zu einer lokalen Käserei, um den berühmten Serpa-Käse zu entdecken. Ein Spaziergang durch die benachbarten Olivenhaine rundet Ihr authentisches Alentejo-Erlebnis ab, bevor Sie die Rückfahrt antreten.",
+        "hu": "Az autós napja nyugodtan kezdődik. Az autót a régi vízvezeték közelében parkolja le, és gyalog merül el a történelemben. A délelőtt a várból és templomból álló klaszteré, amelyet egy séta követ a lenyűgöző Óramúzeumba. Egy hagyományos ebéd után Serpa szívében, ismét autóba ül. A délután egy vidéki kirándulásé: egy rövid út egy helyi sajtkészítőhöz, hogy felfedezze a híres Serpa sajtot. Egy séta a szomszédos olajfaligetekben teszi teljessé az autentikus Alentejo-élményt, mielőtt visszaindulna.",
+        "ro": "Ziua dvs. cu mașina începe relaxat. Vă parcați mașina lângă apeductul vechi și vă cufundați în istorie pe jos. Dimineața aparține grupului format din castel și biserică, urmat de o plimbare la fascinantul Muzeu al Ceasului. După un prânz tradițional în inima Serpei, vă urcați din nou în mașină. După-amiaza este dedicată unei excursii la țară: o scurtă călătorie la o fabrică de brânză locală pentru a descoperi faimoasa brânză Serpa. O plimbare prin livezile de măslini învecinate completează experiența dvs. autentică din Alentejo înainte de a vă întoarce.",
+        "en": "Your car day starts relaxed. You park your car near the old aqueduct and immerse yourself in history on foot. The morning belongs to the cluster of the castle and church, followed by a walk to the fascinating Clock Museum. After a traditional lunch in the heart of Serpa, you get back in the car. The afternoon is dedicated to a country excursion: a short drive to a local cheese dairy to discover the famous Serpa cheese. A walk through the neighboring olive groves completes your authentic Alentejo experience before you head back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Queijo Serpa DOP",
+            "tip": "Kaufen Sie einen ganzen Käse als Souvenir."
+          },
+          {
+            "name": "Açorda Alentejana",
+            "tip": "Eine traditionelle Brotsuppe mit Knoblauch, Koriander und einem pochierten Ei."
+          },
+          {
+            "name": "Wein aus dem Alentejo",
+            "tip": "Probieren Sie einen vollmundigen Rotwein aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Queijo Serpa DOP",
+            "tip": "Vásároljon egy egész sajtot szuvenírként."
+          },
+          {
+            "name": "Açorda Alentejana",
+            "tip": "Hagyományos kenyérleves fokhagymával, korianderrel és buggyantott tojással."
+          },
+          {
+            "name": "Alentejói bor",
+            "tip": "Kóstoljon meg egy testes vörösbort a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Queijo Serpa DOP",
+            "tip": "Cumpărați o roată întreagă de brânză ca suvenir."
+          },
+          {
+            "name": "Açorda Alentejana",
+            "tip": "O supă tradițională de pâine cu usturoi, coriandru și un ou poșat."
+          },
+          {
+            "name": "Vin din Alentejo",
+            "tip": "Încercați un vin roșu corpolent din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Queijo Serpa DOP",
+            "tip": "Buy a whole cheese wheel as a souvenir."
+          },
+          {
+            "name": "Açorda Alentejana",
+            "tip": "A traditional bread soup with garlic, cilantro, and a poached egg."
+          },
+          {
+            "name": "Alentejo Wine",
+            "tip": "Try a full-bodied red wine from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Miradouro",
+            "tip": "Ein kurzer Autostopp für eine weite Aussicht, oft auf dem Weg zu ländlichen Zielen.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Siesta im Schatten",
+            "tip": "Machen Sie es wie die Einheimischen und ruhen Sie sich während der heißesten Zeit des Tages aus.",
+            "emoji": "😴"
+          },
+          {
+            "name": "Fahrt durch die Landschaft",
+            "tip": "Die Fahrt selbst durch die Korkeichen- und Olivenbaumlandschaften ist schon ein ruhiges Erlebnis.",
+            "emoji": "🚗"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Miradouro kilátó",
+            "tip": "Egy rövid autós megálló a széles kilátásért, gyakran a vidéki célpontok felé vezető úton.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Szieszta az árnyékban",
+            "tip": "Tegyen úgy, mint a helyiek, és pihenjen a nap legforróbb szakában.",
+            "emoji": "😴"
+          },
+          {
+            "name": "Autózás a vidéken",
+            "tip": "Maga az utazás a parafatölgy- és olajfa-tájakon keresztül is egy békés élmény.",
+            "emoji": "🚗"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Miradouro",
+            "tip": "O oprire scurtă cu mașina pentru o priveliște largă, adesea pe drumul spre destinații rurale.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Siesta la umbră",
+            "tip": "Faceți ca localnicii și odihniți-vă în cea mai fierbinte parte a zilei.",
+            "emoji": "😴"
+          },
+          {
+            "name": "Călătorie prin peisajul rural",
+            "tip": "Călătoria în sine prin peisajele cu stejari de plută și măslini este o experiență liniștită.",
+            "emoji": "🚗"
+          }
+        ],
+        "en": [
+          {
+            "name": "Miradouro Viewpoint",
+            "tip": "A quick car stop for a wide view, often on the way to rural destinations.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Siesta in the shade",
+            "tip": "Do as the locals do and rest during the hottest part of the day.",
+            "emoji": "😴"
+          },
+          {
+            "name": "Drive through the countryside",
+            "tip": "The drive itself through the cork oak and olive tree landscapes is a quiet experience.",
+            "emoji": "🚗"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Kaufen Sie Olivenöl, Honig und Käse direkt von den Bauernhöfen."
+          },
+          {
+            "name": "Lederwaren",
+            "tip": "Halten Sie Ausschau nach hochwertigen handgefertigten Ledergürteln oder Taschen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "Vásároljon olívaolajat, mézet és sajtot közvetlenül a gazdaságokból."
+          },
+          {
+            "name": "Bőráruk",
+            "tip": "Keressen minőségi, kézzel készített bőröveket vagy táskákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă",
+            "tip": "Cumpărați ulei de măsline, miere și brânză direct de la ferme."
+          },
+          {
+            "name": "Articole din piele",
+            "tip": "Căutați curele sau genți din piele de înaltă calitate, lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Buy olive oil, honey, and cheese directly from the farms."
+          },
+          {
+            "name": "Leather Goods",
+            "tip": "Look for high-quality handmade leather belts or bags."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie außerhalb der Mauern. Das Fahren in den engen Gassen der Altstadt wird nicht empfohlen.",
+          "Ein Auto ermöglicht es Ihnen, abgelegene Sehenswürdigkeiten und Bauernhöfe in der Umgebung zu besuchen.",
+          "Überprüfen Sie die Öffnungszeiten von Weingütern oder Käsereien im Voraus, einige erfordern eine Reservierung.",
+          "Die Straßen im Alentejo sind oft leer, aber achten Sie auf landwirtschaftliche Fahrzeuge."
+        ],
+        "hu": [
+          "Parkoljon a falakon kívül. Az óváros szűk utcáin nem ajánlott vezetni.",
+          "Az autó lehetővé teszi, hogy meglátogassa a környék eldugott látnivalóit és gazdaságait.",
+          "Előre ellenőrizze a borászatok vagy sajtkészítők nyitvatartási idejét, néhány helyen foglalás szükséges.",
+          "Az Alentejo útjai gyakran üresek, de figyeljen a mezőgazdasági járművekre."
+        ],
+        "ro": [
+          "Parcați în afara zidurilor. Nu se recomandă condusul pe străzile înguste ale orașului vechi.",
+          "O mașină vă permite să vizitați atracții izolate și ferme din zonă.",
+          "Verificați în avans programul de funcționare al cramelor sau fabricilor de brânză, unele necesită rezervare.",
+          "Drumurile din Alentejo sunt adesea goale, dar fiți atenți la vehiculele agricole."
+        ],
+        "en": [
+          "Park outside the walls. Driving in the narrow streets of the old town is not recommended.",
+          "A car allows you to visit remote sights and farms in the surrounding area.",
+          "Check the opening hours of wineries or cheese dairies in advance, some require a reservation.",
+          "The roads in the Alentejo are often empty, but watch out for agricultural vehicles."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof Serpa",
+            "hu": "Érkezés a serpasi buszpályaudvarra",
+            "ro": "Sosire la autogara din Serpa",
+            "en": "Arrival at Serpa Bus Station"
+          },
+          "coords": [
+            -7.591,
+            37.944
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der regionale Bus bringt Sie hierher. Von hier aus ist das gesamte historische Zentrum zu Fuß erreichbar.",
+            "hu": "A regionális busz ide hozza. Innen az egész történelmi központ gyalogosan elérhető.",
+            "ro": "Autobuzul regional vă va aduce aici. De aici, întregul centru istoric este accesibil pe jos.",
+            "en": "The regional bus will bring you here. From here, the entire historic center is accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquädukt von Serpa",
+            "hu": "Serpai vízvezeték",
+            "ro": "Apeductul din Serpa",
+            "en": "Aqueduto de Serpa"
+          },
+          "coords": [
+            -7.5941,
+            37.9472
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster Halt, ein kurzer Spaziergang vom Busbahnhof entfernt.",
+            "hu": "Az első megálló, egy rövid sétára a buszpályaudvartól.",
+            "ro": "Prima dvs. oprire, la o scurtă plimbare de autogară.",
+            "en": "Your first stop, a short walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss & Mauern von Serpa",
+            "hu": "Serpai vár és falak",
+            "ro": "Castelul și Zidurile din Serpa",
+            "en": "Castle & Walls of Serpa"
+          },
+          "coords": [
+            -7.5961,
+            37.9458
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, um auf den Mauern zu spazieren und die Aussicht vom Turm zu genießen.",
+            "hu": "Szánjon időt arra, hogy sétáljon a falakon, és élvezze a kilátást a toronyból.",
+            "ro": "Luați-vă timp să vă plimbați pe ziduri și să vă bucurați de priveliștea din turn.",
+            "en": "Take your time to walk on the walls and enjoy the view from the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenmuseum",
+            "hu": "Óramúzeum",
+            "ro": "Muzeul Ceasului",
+            "en": "Museu do Relógio"
+          },
+          "coords": [
+            -7.5968,
+            37.9435
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für jeden Besucher, tauchen Sie ein in die faszinierende Welt der Uhren.",
+            "hu": "Minden látogató számára kötelező, merüljön el az órák lenyűgöző világában.",
+            "ro": "O vizită obligatorie pentru orice vizitator, cufundați-vă în lumea fascinantă a ceasurilor.",
+            "en": "A must-visit for any visitor, immerse yourself in the fascinating world of clocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Grafen von Ficalho",
+            "hu": "Ficalho grófjainak palotája",
+            "ro": "Palatul Conților de Ficalho",
+            "en": "Palácio dos Condes de Ficalho"
+          },
+          "coords": [
+            -7.5975,
+            37.943
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade dieses historischen Gebäudes nach dem Mittagessen.",
+            "hu": "Ebéd után csodálja meg ennek a történelmi épületnek a homlokzatát.",
+            "ro": "Admirați fațada acestei clădiri istorice după prânz.",
+            "en": "Admire the facade of this historic building after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta de Beja",
+            "hu": "Bejai-kapu",
+            "ro": "Poarta Beja",
+            "en": "Beja Gate"
+          },
+          "coords": [
+            -7.5985,
+            37.9441
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang, indem Sie durch dieses gut erhaltene Tor gehen.",
+            "hu": "Fejezze be a körtúrát ezen a jól megőrzött kapun áthaladva.",
+            "ro": "Încheiați turul circular trecând prin această poartă bine conservată.",
+            "en": "End your circular tour by passing through this well-preserved gate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag ohne Auto in Serpa beginnt am Busbahnhof. Ein kurzer Spaziergang führt Sie zum Aquädukt, Ihrem Tor zur Geschichte. Der Vormittag ist dem Erklimmen der Burgmauern gewidmet, von wo aus Sie eine unvergleichliche Aussicht genießen. Nach dem Abstieg erwartet Sie die faszinierende Sammlung des Uhrenmuseums. Nach einem gemütlichen Mittagessen mit Alentejo-Spezialitäten schlendern Sie am Nachmittag am Ficalho-Palast vorbei und beenden Ihren Rundgang an der historischen Porta de Beja, bevor Sie rechtzeitig für Ihren Bus zurück zum Bahnhof spazieren.",
+        "hu": "Az autómentes napja Serpában a buszpályaudvaron kezdődik. Egy rövid séta elvezeti a vízvezetékhez, a történelem kapujához. A délelőtt a várfalak megmászásának szenteltetik, ahonnan páratlan kilátás nyílik. A leereszkedés után az Óramúzeum lenyűgöző gyűjteménye várja. Egy kellemes, alentejói specialitásokból álló ebéd után délután elsétál a Ficalho-palota mellett, és a történelmi Porta de Beja kapunál fejezi be a körtúrát, mielőtt időben visszasétálna a pályaudvarra a buszához.",
+        "ro": "Ziua dvs. fără mașină în Serpa începe la autogară. O scurtă plimbare vă duce la apeduct, poarta dvs. spre istorie. Dimineața este dedicată urcării pe zidurile castelului, de unde vă bucurați de o priveliște de neegalat. După coborâre, vă așteaptă colecția fascinantă a Muzeului Ceasului. După un prânz relaxat cu specialități din Alentejo, după-amiaza vă plimbați pe lângă Palatul Ficalho și încheiați turul la istorica Poarta Beja, înainte de a vă întoarce la gară la timp pentru autobuz.",
+        "en": "Your car-free day in Serpa starts at the bus station. A short walk takes you to the aqueduct, your gateway to history. The morning is dedicated to climbing the castle walls, from where you can enjoy an unparalleled view. After descending, the fascinating collection of the Clock Museum awaits. Following a leisurely lunch of Alentejo specialties, you'll stroll past the Ficalho Palace in the afternoon and end your circular tour at the historic Porta de Beja, before walking back to the station in time for your bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Queijo Serpa",
+            "tip": "Probieren Sie diesen kräftigen, cremigen Schafskäse, eine lokale Delikatesse."
+          },
+          {
+            "name": "Schwarzes Schwein aus dem Alentejo",
+            "tip": "Genießen Sie das zarte Fleisch des 'Porco Preto' in einem der traditionellen Restaurants."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "Ein traditionelles Dessert aus Eiern und Zimt, oft mit Pflaumensirup serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Serpa sajt",
+            "tip": "Kóstolja meg ezt az erős, krémes juhsajtot, egy helyi különlegességet."
+          },
+          {
+            "name": "Alentejói fekete sertés",
+            "tip": "Élvezze a 'Porco Preto' omlós húsát egy hagyományos étteremben."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "Hagyományos tojásos-fahéjas desszert, gyakran szilvasziruppal tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Serpa",
+            "tip": "Încercați această brânză de oaie puternică și cremoasă, o delicatesă locală."
+          },
+          {
+            "name": "Porc negru de Alentejo",
+            "tip": "Savurați carnea fragedă de 'Porco Preto' la unul dintre restaurantele tradiționale."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "Un desert tradițional din ouă și scorțișoară, adesea servit cu sirop de prune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Serpa Cheese",
+            "tip": "Try this strong, creamy sheep's cheese, a local delicacy."
+          },
+          {
+            "name": "Alentejo Black Pork",
+            "tip": "Enjoy the tender meat of the 'Porco Preto' at one of the traditional restaurants."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "A traditional egg and cinnamon dessert, often served with plum syrup."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Praça da República",
+            "tip": "Setzen Sie sich auf eine Bank auf dem Hauptplatz und beobachten Sie das gemächliche Treiben.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "Innenhof des Uhrenmuseums",
+            "tip": "Ein unerwarteter Ort der Stille und Kühle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Versteckte Gassen",
+            "tip": "Verlieren Sie sich in den engen Gassen abseits der Hauptwege und entdecken Sie ruhige Ecken.",
+            "emoji": "🤫"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Praça da República",
+            "tip": "Üljön le egy padra a főtéren, és figyelje a lassú tempójú életet.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "Az Óramúzeum belső udvara",
+            "tip": "A csend és a hűvösség váratlan helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rejtett sikátorok",
+            "tip": "Vesszen el a fő utaktól távoli szűk utcákban, és fedezzen fel csendes zugokat.",
+            "emoji": "🤫"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Praça da República",
+            "tip": "Așezați-vă pe o bancă în piața principală și priviți agitația lentă.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "Curtea interioară a Muzeului Ceasului",
+            "tip": "Un loc neașteptat de liniște și răcoare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Străduțe ascunse",
+            "tip": "Pierdeți-vă pe străduțele înguste, departe de căile principale, și descoperiți colțuri liniștite.",
+            "emoji": "🤫"
+          }
+        ],
+        "en": [
+          {
+            "name": "Praça da República",
+            "tip": "Sit on a bench in the main square and watch the leisurely pace of life.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "Courtyard of the Clock Museum",
+            "tip": "An unexpected place of quiet and cool.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hidden Alleys",
+            "tip": "Get lost in the narrow streets away from the main paths and discover quiet corners.",
+            "emoji": "🤫"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Produkte",
+            "tip": "Suchen Sie nach Geschäften, die Wein, Olivenöl und Käse aus dem Alentejo verkaufen."
+          },
+          {
+            "name": "Kork-Souvenirs",
+            "tip": "Portugal ist berühmt für seine Korkprodukte, von Postkarten bis zu Taschen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Regionális termékek",
+            "tip": "Keressen olyan boltokat, amelyek Alentejo-i bort, olívaolajat és sajtot árulnak."
+          },
+          {
+            "name": "Parafa ajándéktárgyak",
+            "tip": "Portugália híres a parafa termékeiről, a képeslapoktól a táskákig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse regionale",
+            "tip": "Căutați magazine care vând vin, ulei de măsline și brânză din Alentejo."
+          },
+          {
+            "name": "Suveniruri din plută",
+            "tip": "Portugalia este renumită pentru produsele sale din plută, de la cărți poștale la genți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional Products",
+            "tip": "Look for shops selling Alentejo wine, olive oil, and cheese."
+          },
+          {
+            "name": "Cork Souvenirs",
+            "tip": "Portugal is famous for its cork products, from postcards to bags."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere die Zeiten für die letzte Rückfahrt.",
+          "Kaufen Sie am besten eine Hin- und Rückfahrkarte, um Geld zu sparen.",
+          "Serpa ist klein und alles ist zu Fuß erreichbar, sobald Sie im Zentrum sind.",
+          "Die meisten regionalen Busse haben keine Toiletten, planen Sie entsprechend."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó visszaindulás időpontját.",
+          "A legjobb, ha retúrjegyet vásárol, hogy pénzt takarítson meg.",
+          "Serpa kicsi, és minden gyalogosan elérhető, amint a központban van.",
+          "A legtöbb regionális buszon nincs WC, tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, în special orele pentru ultima călătorie de întoarcere.",
+          "Cel mai bine este să cumpărați un bilet dus-întors pentru a economisi bani.",
+          "Serpa este mic și totul este la distanță de mers pe jos odată ce ajungeți în centru.",
+          "Majoritatea autobuzelor regionale nu au toalete, planificați în consecință."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially the times for the last return trip.",
+          "It's best to buy a round-trip ticket to save money.",
+          "Serpa is small and everything is within walking distance once you are in the center.",
+          "Most regional buses do not have toilets, so plan accordingly."
+        ]
+      }
+    }
+  }
+}

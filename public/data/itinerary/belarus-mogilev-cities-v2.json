@@ -1,0 +1,1316 @@
+{
+  "city_id": "belarus-mogilev-cities-v2",
+  "anchor": {
+    "name": "Mahiljou",
+    "coords": [
+      30.3333,
+      53.9167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Sterne",
+            "hu": "Csillagok tere",
+            "ro": "Piața Stelelor",
+            "en": "Square of Stars"
+          },
+          "coords": [
+            30.3345,
+            53.9155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie Ihr Sternzeichen auf dem Platz und machen Sie ein Foto mit dem einzigartigen Astrologen-Denkmal.",
+            "hu": "Keresse meg a csillagjegyét a téren, és készítsen egy fotót az egyedi Asztrológus-emlékművel.",
+            "ro": "Găsiți-vă semnul zodiacal în piață și faceți o fotografie cu monumentul unic al Astrologului.",
+            "en": "Find your zodiac sign in the square and take a picture with the unique Astrologer monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Mogiljow",
+            "hu": "Mogiljovi Városháza",
+            "ro": "Primăria Moghilău",
+            "en": "Mogilev Town Hall"
+          },
+          "coords": [
+            30.3378,
+            53.9162
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm, um einen Panoramablick auf die Stadt und den Dnepr zu genießen.",
+            "hu": "Menjen fel a toronyba, ahonnan panorámás kilátás nyílik a városra és a Dnyeper folyóra.",
+            "ro": "Urcați în turn pentru o vedere panoramică asupra orașului și a râului Nipru.",
+            "en": "Climb the tower for a panoramic view of the city and the Dnieper River."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanislaus-Kathedrale",
+            "hu": "Szent Szaniszló-székesegyház",
+            "ro": "Catedrala Sfântul Stanislav",
+            "en": "St. Stanislaus Cathedral"
+          },
+          "coords": [
+            30.333,
+            53.914
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die authentischen Fresken aus dem 18. Jahrhundert, die als Meisterwerke des Barock gelten.",
+            "hu": "Csodálja meg a 18. századi eredeti freskókat, melyek a barokk mesterművei.",
+            "ro": "Admirați frescele autentice din secolul al XVIII-lea, considerate capodopere ale barocului.",
+            "en": "Admire the authentic 18th-century frescoes, considered masterpieces of the Baroque."
+          }
+        },
+        {
+          "name": {
+            "de": "Maslenikow-Kunstmuseum",
+            "hu": "Maszlenyikov Művészeti Múzeum",
+            "ro": "Muzeul de Artă Maslenikov",
+            "en": "Maslenikov Art Museum"
+          },
+          "coords": [
+            30.331,
+            53.912
+          ],
+          "category": "museums",
+          "arrive_at": "12:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich in einem wunderschönen Jugendstilgebäude, das früher eine Bauern- und Gutsbesitzerbank war.",
+            "hu": "A múzeum egy gyönyörű szecessziós épületben található, amely korábban paraszti és földbirtokosi bank volt.",
+            "ro": "Muzeul este găzduit într-o clădire superbă în stil Art Nouveau, fostă bancă pentru țărani și proprietari de terenuri.",
+            "en": "The museum is housed in a beautiful Art Nouveau building, formerly a Peasant-Landowner Bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Dramatheater Mogiljow",
+            "hu": "Mogiljovi Drámai Színház",
+            "ro": "Teatrul Dramatic Moghilău",
+            "en": "Mogilev Drama Theater"
+          },
+          "coords": [
+            30.327,
+            53.909
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auch wenn Sie keine Vorstellung besuchen, bewundern Sie die beeindruckende Fassade aus rotem Backstein und die Lage am Rande eines Parks.",
+            "hu": "Még ha nem is megy előadásra, csodálja meg a lenyűgöző vörös téglás homlokzatot és a park szélén való elhelyezkedését.",
+            "ro": "Chiar dacă nu participați la un spectacol, admirați fațada sa impresionantă de cărămidă roșie și locația sa la marginea unui parc.",
+            "en": "Even if you don't attend a show, admire its impressive red-brick facade and its location on the edge of a park."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruhmesbogen",
+            "hu": "Diadalív",
+            "ro": "Arcul de Triumf",
+            "en": "Arch of Glory"
+          },
+          "coords": [
+            30.322,
+            53.905
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:13",
+          "stay_min": 62,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies ist ein moderner Bogen, der 2018 errichtet wurde; ein Symbol für die Beiträge der Region Mogiljow zum belarussischen Staat.",
+            "hu": "Ez egy modern diadalív, amelyet 2018-ban emeltek; a Mogiljovi régió hozzájárulásának szimbóluma a belarusz államhoz.",
+            "ro": "Acesta este un arc modern construit în 2018; un simbol al contribuțiilor regiunii Moghilău la statul belarus.",
+            "en": "This is a modern arch built in 2018; a symbol of the Mogilev region's contributions to the Belarusian state."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Platz der Sterne, einem einzigartigen astronomischen Treffpunkt. Schlendern Sie dann zum historischen Rathaus und genießen Sie die Aussicht vom Turm. Spüren Sie die spirituelle Atmosphäre in der barocken Stanislaus-Kathedrale, deren Fresken Sie in eine andere Zeit versetzen. Genießen Sie ein herzhaftes belarussisches Mittagessen in der Nähe des Stadtzentrums. Tauchen Sie am Nachmittag im Maslenikow-Kunstmuseum in die lokale Kunst ein. Später bewundern Sie die Architektur des Dramatheaters, bevor Sie Ihren Spaziergang am modernen Ruhmesbogen beenden, einem Symbol des regionalen Stolzes. Der Abend klingt perfekt bei einem traditionellen Abendessen aus, bei dem Sie die Eindrücke des Tages Revue passieren lassen.",
+        "hu": "Kezdje a napot a Csillagok terén, egy egyedi csillagászati találkozóhelyen. Sétáljon át a történelmi Városházához, és élvezze a kilátást a toronyból. Érezze a barokk Szent Szaniszló-székesegyház spirituális légkörét, melynek freskói egy másik korba repítik. Ebédeljen egy kiadós fehérorosz ebédet a városközpont közelében. Délután merüljön el a helyi művészetben a Maszlenyikov Művészeti Múzeumban. Később csodálja meg a Drámai Színház építészetét, mielőtt sétáját a modern Diadalívnél, a regionális büszkeség szimbólumánál fejezné be. Az estét egy hagyományos vacsora zárja, ahol felidézheti a nap élményeit.",
+        "ro": "Începeți ziua în Piața Stelelor, un punct de întâlnire astronomic unic. Apoi, plimbați-vă la Primăria istorică și bucurați-vă de priveliștea din turn. Simțiți atmosfera spirituală la Catedrala barocă Sfântul Stanislav, ale cărei fresce vă transportă într-o altă epocă. Savurați un prânz bielorus consistent lângă centrul orașului. După-amiaza, scufundați-vă în arta locală la Muzeul de Artă Maslenikov. Mai târziu, admirați arhitectura Teatrului Dramatic înainte de a încheia plimbarea la modernul Arc de Triumf, un simbol al mândriei regionale. Seara se încheie perfect cu o cină tradițională, rememorând impresiile zilei.",
+        "en": "Start your day at the Square of Stars, a unique astronomical meeting point. Then, stroll to the historic Town Hall and enjoy the view from its tower. Feel the spiritual atmosphere at the baroque St. Stanislaus Cathedral, whose frescoes transport you to another era. Enjoy a hearty Belarusian lunch near the city center. In the afternoon, immerse yourself in local art at the Maslenikov Art Museum. Later, admire the architecture of the Drama Theater before ending your walk at the modern Arch of Glory, a symbol of regional pride. The evening concludes perfectly with a traditional dinner, reflecting on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Draniki",
+            "tip": "Probieren Sie diese knusprigen Kartoffelpuffer, die oft mit saurer Sahne serviert werden. Ein belarussischer Klassiker."
+          },
+          {
+            "name": "Borschtsch",
+            "tip": "Eine herzhafte Rote-Bete-Suppe, perfekt für ein stärkendes Mittagessen."
+          },
+          {
+            "name": "Kletski",
+            "tip": "Gefüllte Teigtaschen, ähnlich wie Pelmeni, oft mit Fleisch oder Quark gefüllt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Draniki",
+            "tip": "Kóstolja meg ezeket a ropogós burgonyalepényeket, amelyeket gyakran tejföllel tálalnak. Egy igazi fehérorosz klasszikus."
+          },
+          {
+            "name": "Borscs",
+            "tip": "Egy kiadós céklaleves, tökéletes egy erősítő ebédhez."
+          },
+          {
+            "name": "Kletski",
+            "tip": "Töltött táskák, hasonlóak a pelmenihez, gyakran hússal vagy túróval töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Draniki",
+            "tip": "Încercați aceste clătite crocante de cartofi, adesea servite cu smântână. Un clasic bielorus."
+          },
+          {
+            "name": "Borș",
+            "tip": "O supă consistentă de sfeclă roșie, perfectă pentru un prânz revigorant."
+          },
+          {
+            "name": "Kletski",
+            "tip": "Găluște umplute, similare cu pelmeni, adesea umplute cu carne sau brânză de vaci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Draniki",
+            "tip": "Try these crispy potato pancakes, often served with sour cream. A Belarusian classic."
+          },
+          {
+            "name": "Borscht",
+            "tip": "A hearty beetroot soup, perfect for a replenishing lunch."
+          },
+          {
+            "name": "Kletski",
+            "tip": "Stuffed dumplings, similar to pelmeni, often filled with meat or quark."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Dnepr",
+            "tip": "Finden Sie eine Bank am Flussufer in der Nähe des Nikolaus-Klosters für einen ruhigen Moment.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park am Dramatheater",
+            "tip": "Der kleine Park neben dem Theater ist ein schöner Ort, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dnyeper partja",
+            "tip": "Keressen egy padot a folyóparton a Szent Miklós-kolostor közelében egy csendes pillanatra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park a Drámai Színháznál",
+            "tip": "A színház melletti kis park remek hely a város nyüzsgéséből való elmenekülésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Niprului",
+            "tip": "Găsiți o bancă pe malul râului lângă Mănăstirea Sfântul Nicolae pentru un moment de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de lângă Teatrul Dramatic",
+            "tip": "Micul parc de lângă teatru este un loc plăcut pentru a evada din agitația orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Dnieper River",
+            "tip": "Find a bench on the riverbank near St. Nicholas Monastery for a quiet moment.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park at the Drama Theater",
+            "tip": "The small park next to the theater is a nice spot to escape the city bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Leninskaya Straße",
+            "tip": "Die zentrale Fußgängerzone ist gesäumt von Geschäften, die von lokalen Souvenirs bis zu bekannteren Marken alles anbieten."
+          },
+          {
+            "name": "Zentralmarkt",
+            "tip": "Erleben Sie das lokale Leben und finden Sie frische Produkte, Honig und handgefertigte Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leninszkaja utca",
+            "tip": "A központi sétálóutca tele van üzletekkel, a helyi szuvenírektől a legismertebb márkákig."
+          },
+          {
+            "name": "Központi Piac",
+            "tip": "Tapasztalja meg a helyi életet, és találjon friss termékeket, mézet és kézműves árukat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Leninskaya",
+            "tip": "Strada pietonală centrală este plină de magazine, de la suveniruri locale la mărci mai cunoscute."
+          },
+          {
+            "name": "Piața Centrală",
+            "tip": "Experimentați viața locală și găsiți produse proaspete, miere și produse artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leninskaya Street",
+            "tip": "The main pedestrian street is lined with shops offering everything from local souvenirs to more familiar brands."
+          },
+          {
+            "name": "Central Market",
+            "tip": "Experience local life and find fresh produce, honey, and handcrafted goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten zentralen Sehenswürdigkeiten sind leicht zu Fuß erreichbar.",
+          "Halten Sie etwas Bargeld für kleinere Einkäufe oder Trinkgelder bereit.",
+          "Lernen Sie ein paar grundlegende russische oder belarussische Phrasen; das wird von den Einheimischen geschätzt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek az óvárosban egyenetlenek lehetnek.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog.",
+          "Tartson magánál némi készpénzt a kisebb vásárlásokhoz vagy borravalóhoz.",
+          "Tanuljon meg néhány alapvető orosz vagy fehérorosz kifejezést; a helyiek értékelni fogják."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor centrale sunt ușor accesibile pe jos.",
+          "Păstrați niște bani lichizi pentru cumpărături mici sau bacșișuri.",
+          "Învățați câteva fraze de bază în rusă sau belarusă; vor fi apreciate de localnici."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most central sights are easily within walking distance of each other.",
+          "Keep some cash on hand for smaller purchases or tips.",
+          "Learn a few basic Russian or Belarusian phrases; it will be appreciated by the locals."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Sterne",
+            "hu": "Csillagok tere",
+            "ro": "Piața Stelelor",
+            "en": "Square of Stars"
+          },
+          "coords": [
+            30.3345,
+            53.9155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt für Ihre Radtour, leicht zugänglich und fotogen.",
+            "hu": "Ideális kiindulópont a kerékpártúrához, könnyen megközelíthető és fotogén.",
+            "ro": "Un punct de plecare ideal pentru turul cu bicicleta, ușor accesibil și fotogenic.",
+            "en": "An ideal starting point for your bike tour, easily accessible and photogenic."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Mogiljow",
+            "hu": "Mogiljovi Városháza",
+            "ro": "Primăria Moghilău",
+            "en": "Mogilev Town Hall"
+          },
+          "coords": [
+            30.3378,
+            53.9162
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und steigen Sie auf den Turm, um die Aussicht zu genießen.",
+            "hu": "Parkolja le a kerékpárt a közelben, és menjen fel a toronyba a kilátásért.",
+            "ro": "Parcați bicicleta în apropiere și urcați în turn pentru a vă bucura de priveliște.",
+            "en": "Park your bike nearby and climb the tower to enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanislaus-Kathedrale",
+            "hu": "Szent Szaniszló-székesegyház",
+            "ro": "Catedrala Sfântul Stanislav",
+            "en": "St. Stanislaus Cathedral"
+          },
+          "coords": [
+            30.333,
+            53.914
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Radtour vom Rathaus entfernt. Nehmen Sie sich Zeit für die prächtigen Innenfresken.",
+            "hu": "Rövid kerékpárútra a Városházától. Szánjon időt a csodálatos belső freskókra.",
+            "ro": "La o scurtă plimbare cu bicicleta de Primărie. Luați-vă timp pentru a admira frescele interioare magnifice.",
+            "en": "A short bike ride from the Town Hall. Take your time for the magnificent interior frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikolaus-Kloster",
+            "hu": "Szent Miklós-kolostor",
+            "ro": "Mănăstirea Sfântul Nicolae",
+            "en": "St. Nicholas Monastery"
+          },
+          "coords": [
+            30.354,
+            53.905
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour hierher führt Sie aus dem unmittelbaren Zentrum heraus und bietet eine schöne Fahrt entlang des Flusses.",
+            "hu": "Az ide vezető kerékpárút kivisz a közvetlen központból, és egy szép utat kínál a folyó mentén.",
+            "ro": "Plimbarea cu bicicleta până aici vă scoate din centrul imediat și oferă o priveliște frumoasă de-a lungul râului.",
+            "en": "The bike ride here takes you out of the immediate center and offers a nice journey along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Maslenikow-Kunstmuseum",
+            "hu": "Maszlenyikov Művészeti Múzeum",
+            "ro": "Muzeul de Artă Maslenikov",
+            "en": "Maslenikov Art Museum"
+          },
+          "coords": [
+            30.331,
+            53.912
+          ],
+          "category": "museums",
+          "arrive_at": "12:56",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum, um diese beeindruckende Sammlung belarussischer Kunst zu sehen. Ein guter Ort für die Mittagszeit.",
+            "hu": "Tekerjen vissza a központba, hogy megnézze ezt a lenyűgöző fehérorosz művészeti gyűjteményt. Jó hely az ebédidőre.",
+            "ro": "Întoarceți-vă cu bicicleta în centru pentru a vedea această colecție impresionantă de artă belarusă. Un loc bun pentru ora prânzului.",
+            "en": "Cycle back towards the center to see this impressive collection of Belarusian art. A good spot for lunchtime."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruhmesbogen",
+            "hu": "Diadalív",
+            "ro": "Arcul de Triumf",
+            "en": "Arch of Glory"
+          },
+          "coords": [
+            30.322,
+            53.905
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:44",
+          "stay_min": 51,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.9,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem modernen Wahrzeichen, das einen schönen Kontrast zu den historischen Stätten bildet.",
+            "hu": "Fejezze be a kerékpártúrát ennél a modern emlékműnél, amely szép kontrasztot alkot a történelmi helyszínekkel.",
+            "ro": "Încheiați turul cu bicicleta la acest punct de reper modern, care oferă un contrast plăcut cu siturile istorice.",
+            "en": "End your bike tour at this modern landmark, which provides a nice contrast to the historical sites."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich am Platz der Sterne aufs Rad und starten Sie den Tag. Eine kurze Fahrt führt Sie zum Rathaus und zur Stanislaus-Kathedrale, den Juwelen der Innenstadt. Anschließend radeln Sie entlang des Dnepr zum ruhigen Nikolaus-Kloster, ein perfekter Ort für eine Pause vom städtischen Trubel. Kehren Sie zur Mittagszeit ins Zentrum zurück und stärken Sie sich, bevor Sie das Maslenikow-Kunstmuseum besuchen. Am Nachmittag führt Sie eine letzte Etappe zum modernen Ruhmesbogen. Der Abend bietet die Gelegenheit, die belarussische Küche in einem lokalen Restaurant zu entdecken und den erlebnisreichen Tag ausklingen zu lassen.",
+        "hu": "Pattanjon kerékpárra a Csillagok terén, és indítsa a napot. Egy rövid tekerés elvezeti a Városházához és a Szent Szaniszló-székesegyházhoz, a belváros ékköveihez. Ezután biciklizzen a Dnyeper mentén a csendes Szent Miklós-kolostorhoz, amely tökéletes hely a városi nyüzsgésből való kikapcsolódásra. Térjen vissza a központba ebédidőben, erősítse meg magát, mielőtt meglátogatná a Maszlenyikov Művészeti Múzeumot. Délután egy utolsó szakasz vezet a modern Diadalívhez. Az este lehetőséget nyújt a fehérorosz konyha felfedezésére egy helyi étteremben.",
+        "ro": "Urcați-vă pe bicicletă în Piața Stelelor și începeți ziua. O scurtă plimbare vă duce la Primărie și la Catedrala Sfântul Stanislav, bijuteriile centrului orașului. Apoi, pedalați de-a lungul Niprului până la liniștita Mănăstire Sfântul Nicolae, un loc perfect pentru o pauză de la agitația urbană. Întoarceți-vă în centru la prânz, întăriți-vă înainte de a vizita Muzeul de Artă Maslenikov. După-amiaza, o ultimă etapă vă duce la modernul Arc de Triumf. Seara oferă ocazia de a descoperi bucătăria belarusă la un restaurant local.",
+        "en": "Hop on your bike at the Square of Stars to start the day. A short ride takes you to the Town Hall and St. Stanislaus Cathedral, the jewels of the city center. Then, cycle along the Dnieper to the tranquil St. Nicholas Monastery, a perfect spot for a break from the urban hustle. Return to the center for lunch before visiting the Maslenikov Art Museum. In the afternoon, a final leg takes you to the modern Arch of Glory. The evening offers an opportunity to discover Belarusian cuisine at a local restaurant."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Draniki",
+            "tip": "Der perfekte Brennstoff für Radfahrer. Knusprig, sättigend und köstlich."
+          },
+          {
+            "name": "Kwas",
+            "tip": "Ein traditionelles fermentiertes Getränk, sehr erfrischend nach einer Radtour."
+          },
+          {
+            "name": "Machanka mit Blini",
+            "tip": "Ein herzhafter Schweinefleischeintopf, der mit dünnen Pfannkuchen serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Draniki",
+            "tip": "Tökéletes üzemanyag kerékpárosoknak. Ropogós, laktató és finom."
+          },
+          {
+            "name": "Kvasz",
+            "tip": "Hagyományos erjesztett ital, nagyon frissítő egy kerékpártúra után."
+          },
+          {
+            "name": "Machanka blinivel",
+            "tip": "Kiadós sertéspörkölt, amelyet vékony palacsintával tálalnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Draniki",
+            "tip": "Combustibilul perfect pentru bicicliști. Crocant, sățios și delicios."
+          },
+          {
+            "name": "Cvas",
+            "tip": "O băutură tradițională fermentată, foarte răcoritoare după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Machanka cu blini",
+            "tip": "O tocană consistentă de porc servită cu clătite subțiri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Draniki",
+            "tip": "The perfect fuel for cyclists. Crispy, filling, and delicious."
+          },
+          {
+            "name": "Kvass",
+            "tip": "A traditional fermented beverage, very refreshing after a bike ride."
+          },
+          {
+            "name": "Machanka with blini",
+            "tip": "A hearty pork stew served with thin pancakes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Dnepr",
+            "tip": "Die Radwege entlang des Flusses bieten viele ruhige Plätze zum Anhalten und Nachdenken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Nikolaus-Klosters",
+            "tip": "Die Umgebung des Klosters ist friedlich und ideal für eine kurze Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dnyeper partja",
+            "tip": "A folyó menti kerékpárutak számos csendes helyet kínálnak a megállásra és elmélkedésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Miklós-kolostor kertjei",
+            "tip": "A kolostor környéke békés és ideális egy rövid pihenőre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Niprului",
+            "tip": "Pistele de biciclete de-a lungul râului oferă multe locuri liniștite pentru a vă opri și a reflecta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Mănăstirii Sfântul Nicolae",
+            "tip": "Zona din jurul mănăstirii este pașnică și ideală pentru o scurtă pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Dnieper River",
+            "tip": "The bike paths along the river offer many quiet spots to stop and reflect.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of St. Nicholas Monastery",
+            "tip": "The area around the monastery is peaceful and ideal for a short break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Leinenprodukte",
+            "tip": "Belarus ist bekannt für sein hochwertiges Leinen. Suchen Sie nach Tischdecken oder Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lenszövet termékek",
+            "tip": "Fehéroroszország híres a kiváló minőségű lenvásznáról. Keressen asztalterítőket vagy ruhákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse din in",
+            "tip": "Belarus este renumit pentru inul său de înaltă calitate. Căutați fețe de masă sau haine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Linen products",
+            "tip": "Belarus is famous for its high-quality linen. Look for tablecloths or clothing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Die Stadt ist relativ flach, aber einige Brücken erfordern etwas Anstrengung.",
+          "Schließen Sie Ihr Fahrrad immer an, wenn Sie es unbeaufsichtigt lassen.",
+          "Nutzen Sie die Radwege entlang des Flusses für eine landschaftlich reizvolle und sichere Fahrt."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "A város viszonylag sík, de néhány híd némi erőfeszítést igényel.",
+          "Mindig zárja le a kerékpárt, ha felügyelet nélkül hagyja.",
+          "Használja a folyó menti kerékpárutakat egy festői és biztonságos utazáshoz."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Orașul este relativ plat, dar unele poduri necesită un pic de efort.",
+          "Încuiați-vă întotdeauna bicicleta când o lăsați nesupravegheată.",
+          "Folosiți pistele de biciclete de-a lungul râului pentru o plimbare pitorească și sigură."
+        ],
+        "en": [
+          "Check your bike before setting off, especially the brakes and tires.",
+          "The city is relatively flat, but some bridges require a bit of effort.",
+          "Always lock your bike when leaving it unattended.",
+          "Use the bike paths along the river for a scenic and safe ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 24.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Buinitschi-Feld",
+            "hu": "Bujnicsi mező",
+            "ro": "Câmpul Buinici",
+            "en": "Buinichi Field"
+          },
+          "coords": [
+            30.25,
+            53.85
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 10,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein weitläufiger Gedenkkomplex. Planen Sie genügend Zeit ein, um die Kapelle und die Exponate der Militärtechnik zu erkunden.",
+            "hu": "Egy kiterjedt emlékhely. Szánjon elegendő időt a kápolna és a katonai felszerelések kiállításának felfedezésére.",
+            "ro": "Un complex memorial vast. Planificați suficient timp pentru a explora capela și exponatele de tehnică militară.",
+            "en": "A vast memorial complex. Plan enough time to explore the chapel and the military equipment exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikolaus-Kloster",
+            "hu": "Szent Miklós-kolostor",
+            "ro": "Mănăstirea Sfântul Nicolae",
+            "en": "St. Nicholas Monastery"
+          },
+          "coords": [
+            30.354,
+            53.905
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Kloster am Flussufer. Es gibt normalerweise Parkplätze in der Nähe.",
+            "hu": "Vezessen el a folyóparti kolostorhoz. Általában van a közelben parkoló.",
+            "ro": "Conduceți până la mănăstirea de pe malul râului. De obicei, există parcare în apropiere.",
+            "en": "Drive to the monastery on the riverbank. There is usually parking available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centru",
+            "en": "Central Parking"
+          },
+          "coords": [
+            30.339,
+            53.917
+          ],
+          "category": "infrastructure",
+          "arrive_at": "12:14",
+          "stay_min": 0,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier Ihr Auto für den Rest des Nachmittags und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkolja le itt az autóját a délután hátralévő részére, és fedezze fel a központot gyalog.",
+            "ro": "Parcați mașina aici pentru restul după-amiezii și explorați centrul pe jos.",
+            "en": "Park your car here for the rest of the afternoon and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Mogiljow",
+            "hu": "Mogiljovi Városháza",
+            "ro": "Primăria Moghilău",
+            "en": "Mogilev Town Hall"
+          },
+          "coords": [
+            30.3378,
+            53.9162
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:18",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Halt Ihres Spaziergangs. Nehmen Sie sich Zeit für das Museum im Inneren und ein Mittagessen in der Nähe.",
+            "hu": "A séta első állomása. Szánjon időt a belső múzeumra és egy ebédre a közelben.",
+            "ro": "Prima oprire a plimbării dumneavoastră. Luați-vă timp pentru muzeul din interior și pentru prânz în apropiere.",
+            "en": "The first stop on your walking tour. Take time for the museum inside and for lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanislaus-Kathedrale",
+            "hu": "Szent Szaniszló-székesegyház",
+            "ro": "Catedrala Sfântul Stanislav",
+            "en": "St. Stanislaus Cathedral"
+          },
+          "coords": [
+            30.333,
+            53.914
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus. Ein Muss für Liebhaber barocker Architektur.",
+            "hu": "Rövid séta a Városházától. A barokk építészet szerelmeseinek kötelező.",
+            "ro": "La o scurtă plimbare de Primărie. O vizită obligatorie pentru iubitorii de arhitectură barocă.",
+            "en": "A short walk from the Town Hall. A must-see for lovers of baroque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz der Sterne",
+            "hu": "Csillagok tere",
+            "ro": "Piața Stelelor",
+            "en": "Square of Stars"
+          },
+          "coords": [
+            30.3345,
+            53.9155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Stadtrundgang hier, bevor Sie zum Auto zurückkehren.",
+            "hu": "Itt fejezze be a városnéző sétát, mielőtt visszatérne az autóhoz.",
+            "ro": "Încheiați turul pietonal al orașului aici înainte de a vă întoarce la mașină.",
+            "en": "Finish your city walking tour here before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruhmesbogen",
+            "hu": "Diadalív",
+            "ro": "Arcul de Triumf",
+            "en": "Arch of Glory"
+          },
+          "coords": [
+            30.322,
+            53.905
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:11",
+          "stay_min": 99,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer letzter Halt mit dem Auto, um dieses moderne Denkmal zu sehen, bevor Sie die Stadt verlassen.",
+            "hu": "Egy utolsó rövid megálló autóval, hogy megnézze ezt a modern emlékművet, mielőtt elhagyja a várost.",
+            "ro": "O ultimă oprire scurtă cu mașina pentru a vedea acest monument modern înainte de a părăsi orașul.",
+            "en": "A final short stop by car to see this modern monument before leaving the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einer Fahrt zum Buinitschi-Feld, einem bewegenden Gedenkkomplex am Rande der Stadt. Anschließend fahren Sie zum historischen Nikolaus-Kloster am Ufer des Dnepr. Nach diesen beiden äußeren Zielen parken Sie Ihr Auto im Stadtzentrum. Erkunden Sie den zentralen Cluster zu Fuß: Beginnen Sie mit einem Mittagessen und einem Besuch des Rathauses. Spazieren Sie weiter zur prächtigen Stanislaus-Kathedrale und beenden Sie Ihren Rundgang am einzigartigen Platz der Sterne. Am späten Nachmittag machen Sie eine letzte kurze Fahrt zum Ruhmesbogen, bevor Sie Ihren Tag in Mogiljow beenden.",
+        "hu": "Autós napja a Bujnicsi mezőhöz tett utazással kezdődik, amely egy megindító emlékhely a város szélén. Ezután a Dnyeper partján álló történelmi Szent Miklós-kolostorhoz hajt. E két külső célpont után parkolja le autóját a városközpontban. Fedezze fel gyalog a központi klasztert: kezdje ebéddel és a Városháza meglátogatásával. Sétáljon tovább a csodálatos Szent Szaniszló-székesegyházhoz, és fejezze be a túrát az egyedi Csillagok terén. Késő délután tegyen egy utolsó rövid utat a Diadalívhez, mielőtt befejezné a napot Mogiljovban.",
+        "ro": "Ziua cu mașina începe cu o excursie la Câmpul Buinici, un complex memorial emoționant la marginea orașului. Apoi, conduceți la Mănăstirea istorică Sfântul Nicolae de pe malul Niprului. După aceste două destinații exterioare, parcați mașina în centrul orașului. Explorați grupul central pe jos: începeți cu prânzul și o vizită la Primărie. Continuați plimbarea până la magnifica Catedrală Sfântul Stanislav și încheiați turul în Piața unică a Stelelor. Spre seară, faceți o ultimă scurtă călătorie cu mașina la Arcul de Triumf înainte de a încheia ziua în Moghilău.",
+        "en": "Your car day starts with a drive to Buinichi Field, a moving memorial complex on the city's outskirts. Afterwards, drive to the historic St. Nicholas Monastery on the banks of the Dnieper. After these two outer destinations, park your car in the city center. Explore the central cluster on foot: start with lunch and a visit to the Town Hall. Continue your walk to the magnificent St. Stanislaus Cathedral and finish your tour at the unique Square of Stars. In the late afternoon, take one last short drive to the Arch of Glory before ending your day in Mogilev."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Hotel Metropol",
+            "tip": "Ein bekanntes Restaurant für traditionelle belarussische und europäische Küche in einem eleganten Ambiente."
+          },
+          {
+            "name": "Pelmeni-Bar",
+            "tip": "Suchen Sie nach einem kleinen, lokalen Lokal, das auf verschiedene Arten von gefüllten Teigtaschen spezialisiert ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Metropol Hotel étterme",
+            "tip": "Ismert étterem, amely hagyományos fehérorosz és európai konyhát kínál elegáns környezetben."
+          },
+          {
+            "name": "Pelmeni bár",
+            "tip": "Keressen egy kis, helyi helyet, amely különféle töltött táskákra specializálódott."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Hotelului Metropol",
+            "tip": "Un restaurant renumit pentru bucătăria tradițională belarusă și europeană într-un cadru elegant."
+          },
+          {
+            "name": "Bar Pelmeni",
+            "tip": "Căutați un local mic, specializat în diverse tipuri de găluște umplute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Metropol Hotel Restaurant",
+            "tip": "A well-known restaurant for traditional Belarusian and European cuisine in an elegant setting."
+          },
+          {
+            "name": "Pelmeni Bar",
+            "tip": "Look for a small, local spot specializing in various types of filled dumplings."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Buinitschi-Feld",
+            "tip": "Trotz seiner Geschichte ist der riesige Komplex ein Ort der stillen Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am Dnepr",
+            "tip": "Finden Sie einen Aussichtspunkt am Flussufer für einen friedlichen Abschluss des Tages.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bujnicsi mező",
+            "tip": "Történelme ellenére a hatalmas komplexum a csendes elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a Dnyepernél",
+            "tip": "Keressen egy kilátópontot a folyóparton a nap békés lezárásához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Câmpul Buinici",
+            "tip": "În ciuda istoriei sale, vastul complex este un loc de reflecție tăcută.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare pe Nipru",
+            "tip": "Găsiți un punct de belvedere pe malul râului pentru un final pașnic al zilei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Buinichi Field",
+            "tip": "Despite its history, the vast complex is a place for quiet reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset over the Dnieper",
+            "tip": "Find a viewpoint on the riverbank for a peaceful end to the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Belarussische Schokolade",
+            "tip": "Marken wie Kommunarka oder Spartak sind beliebte und leckere Souvenirs."
+          },
+          {
+            "name": "Handgeschnitzte Holzfiguren",
+            "tip": "Halten Sie auf Märkten oder in Souvenirläden Ausschau nach traditioneller Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fehérorosz csokoládé",
+            "tip": "A Kommunarka vagy a Spartak márkák népszerű és finom ajándéktárgyak."
+          },
+          {
+            "name": "Kézzel faragott fafigurák",
+            "tip": "Keresse a hagyományos kézműves termékeket a piacokon vagy ajándékboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciocolată belarusă",
+            "tip": "Mărci precum Kommunarka sau Spartak sunt suveniruri populare și delicioase."
+          },
+          {
+            "name": "Figurine din lemn sculptate manual",
+            "tip": "Căutați meșteșuguri tradiționale în piețe sau magazine de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Belarusian Chocolate",
+            "tip": "Brands like Kommunarka or Spartak are popular and delicious souvenirs."
+          },
+          {
+            "name": "Hand-carved wooden figures",
+            "tip": "Look for traditional craftsmanship in markets or souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Verwenden Sie eine Navigations-App, um Parkplätze in der Nähe Ihrer Ziele zu finden.",
+          "Der Verkehr in der Innenstadt kann zu Stoßzeiten stark sein.",
+          "Beachten Sie die Parkregeln sorgfältig, um Strafzettel zu vermeiden.",
+          "Ein Auto ermöglicht es Ihnen, weiter entfernte Sehenswürdigkeiten wie das Buinitschi-Feld bequem zu erreichen."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a célpontjai közelében lévő parkolók megtalálásához.",
+          "A belvárosi forgalom csúcsidőben sűrű lehet.",
+          "Gondosan tartsa be a parkolási szabályokat a bírságok elkerülése érdekében.",
+          "Az autó lehetővé teszi, hogy kényelmesen elérje a távolabbi látnivalókat, mint például a Bujnicsi mezőt."
+        ],
+        "ro": [
+          "Folosiți o aplicație de navigație pentru a găsi parcări în apropierea destinațiilor dumneavoastră.",
+          "Traficul în centrul orașului poate fi aglomerat la orele de vârf.",
+          "Respectați cu atenție regulile de parcare pentru a evita amenzile.",
+          "O mașină vă permite să ajungeți confortabil la atracții mai îndepărtate, cum ar fi Câmpul Buinici."
+        ],
+        "en": [
+          "Use a navigation app to find parking lots near your destinations.",
+          "Downtown traffic can be heavy during peak hours.",
+          "Pay close attention to parking regulations to avoid fines.",
+          "A car allows you to comfortably reach more distant sights like Buinichi Field."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nikolaus-Kloster",
+            "hu": "Szent Miklós-kolostor",
+            "ro": "Mănăstirea Sfântul Nicolae",
+            "en": "St. Nicholas Monastery"
+          },
+          "coords": [
+            30.354,
+            53.905
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder Trolleybus, der in die Nähe des Klosters fährt. Genießen Sie die ruhige Atmosphäre.",
+            "hu": "Vegyen egy buszt vagy trolibuszt, amely a kolostor közelébe visz. Élvezze a csendes légkört.",
+            "ro": "Luați un autobuz sau un troleibuz care merge aproape de mănăstire. Bucurați-vă de atmosfera liniștită.",
+            "en": "Take a bus or trolleybus that goes near the monastery. Enjoy the tranquil atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Dramatheater",
+            "hu": "Drámai Színház megálló",
+            "ro": "Stația Teatrul Dramatic",
+            "en": "Drama Theater Stop"
+          },
+          "coords": [
+            30.328,
+            53.9085
+          ],
+          "category": "infrastructure",
+          "arrive_at": "10:52",
+          "stay_min": 0,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus, um Ihren Rundgang durch das zweite Stadtviertel zu beginnen.",
+            "hu": "Szálljon le itt, hogy elkezdje a sétát a második városrészben.",
+            "ro": "Coborâți aici pentru a începe turul pietonal al celui de-al doilea district.",
+            "en": "Get off here to start your walking tour of the second city cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Dramatheater Mogiljow",
+            "hu": "Mogiljovi Drámai Színház",
+            "ro": "Teatrul Dramatic Moghilău",
+            "en": "Mogilev Drama Theater"
+          },
+          "coords": [
+            30.327,
+            53.909
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur, bevor Sie zum nahegelegenen Museum weitergehen.",
+            "hu": "Csodálja meg az építészetet, mielőtt továbbsétálna a közeli múzeumba.",
+            "ro": "Admirați arhitectura înainte de a continua spre muzeul din apropiere.",
+            "en": "Admire the architecture before walking on to the nearby museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Maslenikow-Kunstmuseum",
+            "hu": "Maszlenyikov Művészeti Múzeum",
+            "ro": "Muzeul de Artă Maslenikov",
+            "en": "Maslenikov Art Museum"
+          },
+          "coords": [
+            30.331,
+            53.912
+          ],
+          "category": "museums",
+          "arrive_at": "11:27",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Theater entfernt. Ideal für einen langen Besuch und eine Mittagspause.",
+            "hu": "Rövid séta a színháztól. Ideális egy hosszú látogatáshoz és egy ebédszünethez.",
+            "ro": "La o scurtă plimbare de teatru. Ideal pentru o vizită lungă și o pauză de prânz.",
+            "en": "A short walk from the theater. Ideal for a long visit and a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanislaus-Kathedrale",
+            "hu": "Szent Szaniszló-székesegyház",
+            "ro": "Catedrala Sfântul Stanislav",
+            "en": "St. Stanislaus Cathedral"
+          },
+          "coords": [
+            30.333,
+            53.914
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang zu diesem beeindruckenden religiösen Wahrzeichen fort.",
+            "hu": "Folytassa sétáját ehhez a lenyűgöző vallási emlékműhöz.",
+            "ro": "Continuați plimbarea până la acest impresionant punct de reper religios.",
+            "en": "Continue your walk to this impressive religious landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Platz der Sterne",
+            "hu": "Városháza és Csillagok tere",
+            "ro": "Primăria și Piața Stelelor",
+            "en": "Town Hall & Square of Stars"
+          },
+          "coords": [
+            30.3378,
+            53.9162
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:36",
+          "stay_min": 183,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit der Erkundung des Herzens der Stadt, bevor Sie einen Bus zurück nehmen.",
+            "hu": "Fejezze be a napot a város szívének felfedezésével, mielőtt visszabuszozna.",
+            "ro": "Încheiați-vă ziua explorând inima orașului înainte de a lua un autobuz înapoi.",
+            "en": "End your day exploring the heart of the city before taking a bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Busfahrt zum ruhigen Nikolaus-Kloster am Stadtrand. Nach der Erkundung des Geländes bringt Sie eine weitere Busfahrt in das kulturelle Viertel. Dort spazieren Sie vom Dramatheater zum Maslenikow-Kunstmuseum, wo Sie auch zu Mittag essen können. Am Nachmittag führt Sie Ihr Spaziergang weiter zur prächtigen Stanislaus-Kathedrale. Der Höhepunkt ist das historische Zentrum rund um das Rathaus und den Platz der Sterne. Nehmen Sie sich Zeit, die Atmosphäre aufzusaugen, bevor Sie am Abend die öffentlichen Verkehrsmittel für Ihre Rückfahrt nutzen.",
+        "hu": "A nap egy buszúttal kezdődik a város szélén található csendes Szent Miklós-kolostorhoz. A terület felfedezése után egy másik buszjárattal jut el a kulturális negyedbe. Ott sétáljon a Drámai Színháztól a Maszlenyikov Művészeti Múzeumig, ahol ebédelhet is. Délután a séta a csodálatos Szent Szaniszló-székesegyházhoz vezet. A csúcspont a Városháza és a Csillagok tere körüli történelmi központ. Szánjon időt a hangulat magába szívására, mielőtt este a tömegközlekedést használná a visszaútra.",
+        "ro": "Ziua începe cu o călătorie cu autobuzul la liniștita Mănăstire Sfântul Nicolae, la periferia orașului. După explorarea zonei, o altă călătorie cu autobuzul vă duce în districtul cultural. Acolo, plimbați-vă de la Teatrul Dramatic la Muzeul de Artă Maslenikov, unde puteți lua și prânzul. După-amiaza, plimbarea vă duce mai departe la magnifica Catedrală Sfântul Stanislav. Punctul culminant este centrul istoric din jurul Primăriei și Pieței Stelelor. Luați-vă timp să absorbiți atmosfera înainte de a folosi transportul public pentru călătoria de întoarcere seara.",
+        "en": "Your day starts with a bus ride to the tranquil St. Nicholas Monastery on the city's outskirts. After exploring the grounds, another bus ride takes you to the cultural district. There, you'll walk from the Drama Theater to the Maslenikov Art Museum, where you can also have lunch. In the afternoon, your walk continues to the magnificent St. Stanislaus Cathedral. The highlight is the historic center around the Town Hall and the Square of Stars. Take your time to soak in the atmosphere before using public transport for your return journey in the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Cafeteria (Stolovaya)",
+            "tip": "Für ein authentisches und preiswertes Mittagessen. Suchen Sie nach Orten, an denen Einheimische essen."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Quarkpfannkuchen, die oft zum Frühstück oder als Dessert gegessen werden. Köstlich mit Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi étkezde (Stolovaya)",
+            "tip": "Egy autentikus és olcsó ebédért. Keressen olyan helyeket, ahol a helyiek esznek."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Túrós palacsinta, amelyet gyakran reggelire vagy desszertként fogyasztanak. Finom lekvárral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cantină locală (Stolovaya)",
+            "tip": "Pentru un prânz autentic și ieftin. Căutați locuri unde mănâncă localnicii."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Clătite din brânză de vaci, adesea consumate la micul dejun sau ca desert. Delicioase cu gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cafeteria (Stolovaya)",
+            "tip": "For an authentic and budget-friendly lunch. Look for places where locals eat."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Quark pancakes, often eaten for breakfast or as a dessert. Delicious with jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Fahrt im Trolleybus",
+            "tip": "Beobachten Sie die Stadt aus dem Fenster eines Trolleybusses. Eine überraschend entspannende Art zu reisen.",
+            "emoji": "🚎"
+          },
+          {
+            "name": "Kirchhof der Stanislaus-Kathedrale",
+            "tip": "Der Bereich um die Kathedrale bietet einen Moment der Ruhe im Herzen der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utazás trolibusszal",
+            "tip": "Figyelje a várost egy trolibusz ablakából. Meglepően pihentető utazási mód.",
+            "emoji": "🚎"
+          },
+          {
+            "name": "Szent Szaniszló-székesegyház udvara",
+            "tip": "A székesegyház körüli terület egy pillanatnyi nyugalmat kínál a város szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O călătorie cu troleibuzul",
+            "tip": "Priviți orașul de la fereastra unui troleibuz. Un mod surprinzător de relaxant de a călători.",
+            "emoji": "🚎"
+          },
+          {
+            "name": "Curtea Catedralei Sfântul Stanislav",
+            "tip": "Zona din jurul catedralei oferă un moment de liniște în inima orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A trolleybus ride",
+            "tip": "Watch the city go by from the window of a trolleybus. A surprisingly relaxing way to travel.",
+            "emoji": "🚎"
+          },
+          {
+            "name": "Courtyard of St. Stanislaus Cathedral",
+            "tip": "The area around the cathedral offers a moment of peace in the heart of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske",
+            "tip": "An Bushaltestellen finden Sie oft kleine Kioske, die Getränke, Snacks und Fahrkarten verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok",
+            "tip": "A buszmegállókban gyakran találhatók kis kioszkok, ahol italokat, harapnivalókat és jegyeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri",
+            "tip": "În stațiile de autobuz veți găsi adesea mici chioșcuri care vând băuturi, gustări și bilete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks",
+            "tip": "You'll often find small kiosks at bus stops selling drinks, snacks, and tickets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Fahrkarten an Kiosken, bevor Sie in den Bus oder Trolleybus einsteigen.",
+          "Denken Sie daran, Ihre Fahrkarte an Bord zu entwerten, um eine Strafe zu vermeiden.",
+          "Die Routen können verwirrend sein; eine lokale ÖPNV-App oder Karte ist sehr hilfreich.",
+          "Die öffentlichen Verkehrsmittel sind eine kostengünstige Möglichkeit, die Stadt zu erkunden."
+        ],
+        "hu": [
+          "Vásároljon jegyeket a kioszkokban, mielőtt felszáll a buszra vagy trolibuszra.",
+          "Ne felejtse el érvényesíteni a jegyét a fedélzeten, hogy elkerülje a bírságot.",
+          "Az útvonalak zavarosak lehetnek; egy helyi tömegközlekedési alkalmazás vagy térkép nagyon hasznos.",
+          "A tömegközlekedés egy olcsó módja a város felfedezésének."
+        ],
+        "ro": [
+          "Cumpărați bilete de la chioșcuri înainte de a urca în autobuz sau troleibuz.",
+          "Nu uitați să vă validați biletul la bord pentru a evita o amendă.",
+          "Rutele pot fi confuze; o aplicație locală de transport public sau o hartă este foarte utilă.",
+          "Transportul public este o modalitate ieftină de a explora orașul."
+        ],
+        "en": [
+          "Buy tickets from kiosks before boarding the bus or trolleybus.",
+          "Remember to validate your ticket once on board to avoid a fine.",
+          "Routes can be confusing; a local public transport app or map is very helpful.",
+          "Public transport is a cheap way to get around the city."
+        ]
+      }
+    }
+  }
+}

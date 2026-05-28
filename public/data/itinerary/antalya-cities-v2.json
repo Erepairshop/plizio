@@ -1,0 +1,1425 @@
+{
+  "city_id": "antalya-cities-v2",
+  "anchor": {
+    "name": "Antalya",
+    "coords": [
+      30.7133,
+      36.8969
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hadrianstor",
+            "hu": "Hadrianus-kapu",
+            "ro": "Poarta lui Hadrian",
+            "en": "Hadrian's Gate"
+          },
+          "coords": [
+            30.7078,
+            36.8856
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bester Fotospot am Morgen, wenn das Licht perfekt durch die Bögen fällt.",
+            "hu": "Reggel a legjobbak a fényviszonyok a fotózáshoz, ahogy a fény átsüt a boltíveken.",
+            "ro": "Cel mai bun loc pentru fotografii este dimineața, când lumina trece perfect prin arcade.",
+            "en": "Best photo spot in the morning when the light falls perfectly through the arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Yivli-Minare-Moschee",
+            "hu": "Yivli Minare mecset",
+            "ro": "Moscheea Yivli Minare",
+            "en": "Yivli Minare Mosque"
+          },
+          "coords": [
+            30.7042,
+            36.8868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Gebetszeiten. Der Eintritt ist frei, aber respektvolle Kleidung ist Pflicht.",
+            "hu": "Figyeljen az imaidőkre. A belépés ingyenes, de a tisztelettudó öltözet kötelező.",
+            "ro": "Fiți atenți la orele de rugăciune. Intrarea este gratuită, dar este obligatorie îmbrăcămintea respectuoasă.",
+            "en": "Pay attention to prayer times. Admission is free, but respectful clothing is required."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm (Saat Kulesi)",
+            "hu": "Óratorony (Saat Kulesi)",
+            "ro": "Turnul cu Ceas (Saat Kulesi)",
+            "en": "Clock Tower (Saat Kulesi)"
+          },
+          "coords": [
+            30.7049,
+            36.886
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein zentraler Treffpunkt. Der Basar direkt dahinter ist ideal für eine kurze Pause.",
+            "hu": "Központi találkozóhely. A mögötte lévő bazár ideális egy rövid pihenőre.",
+            "ro": "Un punct de întâlnire central. Bazarul din spatele lui este ideal pentru o scurtă pauză.",
+            "en": "A central meeting point. The bazaar right behind it is ideal for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaleiçi Hafen",
+            "hu": "Kaleiçi kikötő",
+            "ro": "Portul Kaleiçi",
+            "en": "Kaleiçi Harbour"
+          },
+          "coords": [
+            30.7032,
+            36.8833
+          ],
+          "category": "port",
+          "arrive_at": "10:46",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verhandeln Sie den Preis für eine kurze Bootsfahrt entlang der Küste, es lohnt sich.",
+            "hu": "Alkudja meg egy rövid hajókirándulás árát a part mentén, megéri.",
+            "ro": "Negociați prețul pentru o scurtă plimbare cu barca de-a lungul coastei, merită.",
+            "en": "Negotiate the price for a short boat trip along the coast, it's worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Hıdırlık-Turm",
+            "hu": "Hıdırlık-torony",
+            "ro": "Turnul Hıdırlık",
+            "en": "Hıdırlık Tower"
+          },
+          "coords": [
+            30.7021,
+            36.8814
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Turm selbst ist nicht zugänglich, aber der Sonnenuntergang von hier ist legendär.",
+            "hu": "Maga a torony nem látogatható, de a naplemente innen legendás.",
+            "ro": "Turnul în sine nu este accesibil, dar apusul de soare de aici este legendar.",
+            "en": "The tower itself is not accessible, but the sunset view from here is legendary."
+          }
+        },
+        {
+          "name": {
+            "de": "Karaalioğlu Park",
+            "hu": "Karaalioğlu Park",
+            "ro": "Parcul Karaalioğlu",
+            "en": "Karaalioğlu Park"
+          },
+          "coords": [
+            30.7065,
+            36.8805
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 215,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Perfekt für eine Nachmittagspause. Suchen Sie sich eine Bank mit Meerblick und genießen Sie die Brise.",
+            "hu": "Tökéletes egy délutáni szünetre. Keressen egy padot tengerre néző kilátással, és élvezze a szellőt.",
+            "ro": "Perfect pentru o pauză de după-amiază. Găsiți o bancă cu vedere la mare și bucurați-vă de briză.",
+            "en": "Perfect for an afternoon break. Find a bench with a sea view and enjoy the breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am majestätischen Hadrianstor, dem Eingang zur Altstadt Kaleiçi. Schlendern Sie durch die engen Gassen zur historischen Yivli-Minare-Moschee und zum Uhrturm. Mittags erreichen Sie den malerischen Hafen, wo Sie eine Bootsfahrt machen oder in einem der vielen Restaurants zu Mittag essen können. Am Nachmittag bieten der Hıdırlık-Turm und der weitläufige Karaalioğlu-Park atemberaubende Ausblicke und einen ruhigen Ort zum Entspannen. Der Abend klingt perfekt in einem der charmanten Cafés der Altstadt aus.",
+        "hu": "Kezdje a napot a fenséges Hadrianus-kapunál, Kaleiçi óvárosának bejáratánál. Sétáljon a szűk utcákon a történelmi Yivli Minare mecsethez és az Óratoronyhoz. Délben érje el a festői kikötőt, ahol hajókázhat vagy megebédelhet a számos étterem egyikében. Délután a Hıdırlık-torony és a tágas Karaalioğlu Park lélegzetelállító kilátást és csendes pihenőhelyet kínál. Az estét tökéletesen zárhatja az óváros egyik hangulatos kávézójában.",
+        "ro": "Începeți ziua la maiestuoasa Poartă a lui Hadrian, intrarea în orașul vechi Kaleiçi. Plimbați-vă pe străduțele înguste până la istorica Moschee Yivli Minare și Turnul cu Ceas. La prânz, ajungeți în portul pitoresc, unde puteți face o plimbare cu barca sau puteți lua masa la unul dintre numeroasele restaurante. După-amiaza, Turnul Hıdırlık și vastul Parc Karaalioğlu oferă priveliști uimitoare și un loc liniștit pentru relaxare. Seara se încheie perfect la una dintre cafenelele fermecătoare din orașul vechi.",
+        "en": "Start your day at the majestic Hadrian's Gate, the entrance to the old town of Kaleiçi. Stroll through the narrow streets to the historic Yivli Minare Mosque and the Clock Tower. At noon, you'll reach the picturesque harbor, where you can take a boat trip or have lunch at one of the many restaurants. In the afternoon, the Hıdırlık Tower and the expansive Karaalioğlu Park offer breathtaking views and a quiet place to relax. The evening ends perfectly in one of the old town's charming cafes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Piyaz",
+            "tip": "Ein traditioneller Bohnensalat, oft mit Tahini serviert. Probieren Sie ihn bei Piyazcı Ahmet."
+          },
+          {
+            "name": "Serpme Kahvaltı",
+            "tip": "Ein reichhaltiges türkisches Frühstück. Ideal für einen langen Start in den Tag."
+          },
+          {
+            "name": "Grida (Lagos)",
+            "tip": "Ein lokaler Fisch, gegrillt oder gedämpft ein Genuss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piyaz",
+            "tip": "Hagyományos babsaláta, gyakran tahinivel tálalva. Kóstolja meg a Piyazcı Ahmet-nél."
+          },
+          {
+            "name": "Serpme Kahvaltı",
+            "tip": "Bőséges török reggeli. Ideális a nap hosszú indításához."
+          },
+          {
+            "name": "Grida (Lagos)",
+            "tip": "Helyi halfajta, grillezve vagy párolva is élvezet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piyaz",
+            "tip": "O salată tradițională de fasole, adesea servită cu tahini. Încercați-o la Piyazcı Ahmet."
+          },
+          {
+            "name": "Serpme Kahvaltı",
+            "tip": "Un mic dejun turcesc bogat. Ideal pentru un început lung de zi."
+          },
+          {
+            "name": "Grida (Lagos)",
+            "tip": "Un pește local, delicios la grătar sau la abur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piyaz",
+            "tip": "A traditional bean salad, often served with tahini. Try it at Piyazcı Ahmet."
+          },
+          {
+            "name": "Serpme Kahvaltı",
+            "tip": "A rich Turkish breakfast. Ideal for a long start to the day."
+          },
+          {
+            "name": "Grida (Lagos)",
+            "tip": "A local fish, a delight grilled or steamed."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Karaalioğlu Park",
+            "tip": "Finden Sie eine schattige Bank und blicken Sie auf das Mittelmeer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hafen bei Sonnenuntergang",
+            "tip": "Die Lichter der Stadt und die zurückkehrenden Boote schaffen eine magische Atmosphäre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Teegärten",
+            "tip": "In den Gassen von Kaleiçi gibt es kleine, ruhige Gärten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karaalioğlu Park",
+            "tip": "Keressen egy árnyékos padot, és nézzen a Földközi-tengerre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kikötő naplementekor",
+            "tip": "A város fényei és a visszatérő hajók varázslatos hangulatot teremtenek.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett teakertek",
+            "tip": "Kaleiçi sikátoraiban kis, csendes kertek találhatók.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Karaalioğlu",
+            "tip": "Găsiți o bancă umbrită și priviți Marea Mediterană.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Portul la apus",
+            "tip": "Luminile orașului și bărcile care se întorc creează o atmosferă magică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădini de ceai ascunse",
+            "tip": "Există grădini mici și liniștite pe aleile din Kaleiçi.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Karaalioğlu Park",
+            "tip": "Find a shady bench and look out over the Mediterranean Sea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Harbour at sunset",
+            "tip": "The city lights and returning boats create a magical atmosphere.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden tea gardens",
+            "tip": "There are small, quiet gardens in the alleys of Kaleiçi.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kaleiçi Basar",
+            "tip": "Handgefertigter Schmuck, Lederwaren und lokale Gewürze."
+          },
+          {
+            "name": "Iki Kapılı Han",
+            "tip": "Ein historischer Markt für Teppiche und Antiquitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaleiçi bazár",
+            "tip": "Kézzel készített ékszerek, bőráruk és helyi fűszerek."
+          },
+          {
+            "name": "Iki Kapılı Han",
+            "tip": "Történelmi piac szőnyegeknek és régiségeknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul Kaleiçi",
+            "tip": "Bijuterii lucrate manual, articole din piele și mirodenii locale."
+          },
+          {
+            "name": "Iki Kapılı Han",
+            "tip": "O piață istorică pentru covoare și antichități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaleiçi Bazaar",
+            "tip": "Handmade jewelry, leather goods, and local spices."
+          },
+          {
+            "name": "Iki Kapılı Han",
+            "tip": "A historic market for carpets and antiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen in Kaleiçi uneben sein können.",
+          "Haben Sie immer etwas Bargeld für kleine Einkäufe oder Trinkgelder dabei.",
+          "Eine wiederverwendbare Wasserflasche ist bei der Hitze unerlässlich.",
+          "Vergessen Sie nicht Sonnencreme und einen Hut."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel Kaleiçi utcái egyenetlenek lehetnek.",
+          "Mindig legyen Önnél készpénz kisebb vásárlásokhoz vagy borravalóhoz.",
+          "Egy újratölthető vizes palack elengedhetetlen a hőségben.",
+          "Ne felejtse el a naptejet és a kalapot."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile din Kaleiçi pot fi denivelate.",
+          "Aveți întotdeauna niște numerar la dumneavoastră pentru cumpărături mici sau bacșișuri.",
+          "O sticlă de apă reutilizabilă este esențială pe căldură.",
+          "Nu uitați de crema de protecție solară și de o pălărie."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the streets in Kaleiçi can be uneven.",
+          "Always have some cash with you for small purchases or tips.",
+          "A reusable water bottle is essential in the heat.",
+          "Don't forget sunscreen and a hat."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih am Konyaaltı Strand",
+            "hu": "Kerékpárkölcsönző a Konyaaltı strandnál",
+            "ro": "Închiriere de biciclete la Plaja Konyaaltı",
+            "en": "Bike Rental at Konyaaltı Beach"
+          },
+          "coords": [
+            30.6575,
+            36.8795
+          ],
+          "category": "activity",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein City-Bike für den Tag. Prüfen Sie Bremsen und Reifen vor der Abfahrt.",
+            "hu": "Béreljen egy városi kerékpárt a napra. Indulás előtt ellenőrizze a fékeket és a gumikat.",
+            "ro": "Închiriați o bicicletă de oraș pentru o zi. Verificați frânele și anvelopele înainte de a pleca.",
+            "en": "Rent a city bike for the day. Check the brakes and tires before you leave."
+          }
+        },
+        {
+          "name": {
+            "de": "Antalya Museum",
+            "hu": "Antalyai Múzeum",
+            "ro": "Muzeul Antalya",
+            "en": "Antalya Museum"
+          },
+          "coords": [
+            30.6853,
+            36.8833
+          ],
+          "category": "museums",
+          "arrive_at": "09:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab. Der Saal der Götter ist ein absolutes Muss.",
+            "hu": "Zárja le biztonságosan a kerékpárját. Az Istenek Csarnoka kihagyhatatlan.",
+            "ro": "Asigurați-vă bicicleta în siguranță. Sala Zeilor este o vizită obligatorie.",
+            "en": "Lock your bike securely. The Hall of the Gods is an absolute must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Karaalioğlu Park & Hıdırlık-Turm",
+            "hu": "Karaalioğlu Park és Hıdırlık-torony",
+            "ro": "Parcul Karaalioğlu și Turnul Hıdırlık",
+            "en": "Karaalioğlu Park & Hıdırlık Tower"
+          },
+          "coords": [
+            30.7045,
+            36.881
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der Klippenpromenade für eine spektakuläre Aussicht. Der Park ist ideal für ein Picknick.",
+            "hu": "Kerékpározzon a sziklaszirten a látványos kilátásért. A park ideális egy piknikhez.",
+            "ro": "Pedalați de-a lungul promenadei de pe stâncă pentru o priveliște spectaculoasă. Parcul este ideal pentru un picnic.",
+            "en": "Ride along the cliff promenade for a spectacular view. The park is ideal for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaleiçi Hafen",
+            "hu": "Kaleiçi kikötő",
+            "ro": "Portul Kaleiçi",
+            "en": "Kaleiçi Harbour"
+          },
+          "coords": [
+            30.7032,
+            36.8833
+          ],
+          "category": "port",
+          "arrive_at": "13:07",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad oben ab und gehen Sie zu Fuß hinunter. Genießen Sie frischen Fisch zum Mittagessen.",
+            "hu": "Parkolja le a kerékpárt fent, és sétáljon le. Ebédre fogyasszon friss halat.",
+            "ro": "Parcați bicicleta sus și coborâți pe jos. Savurați pește proaspăt la prânz.",
+            "en": "Park your bike at the top and walk down. Enjoy fresh fish for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Küste zum Düden-Park",
+            "hu": "Kerékpártúra a part mentén a Düden Parkig",
+            "ro": "Plimbare cu bicicleta de-a lungul coastei până la Parcul Düden",
+            "en": "Coastal Ride to Düden Park"
+          },
+          "coords": [
+            30.775,
+            36.852
+          ],
+          "category": "natural features",
+          "arrive_at": "15:22",
+          "stay_min": 68,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Der Radweg ist gut ausgebaut. Der Anblick des Wasserfalls, der ins Meer stürzt, ist die Fahrt wert.",
+            "hu": "A kerékpárút jól kiépített. A tengerbe zuhanó vízesés látványa megéri az utat.",
+            "ro": "Pista de biciclete este bine dezvoltată. Priveliștea cascadei care se varsă în mare merită călătoria.",
+            "en": "The bike path is well-developed. The sight of the waterfall plunging into the sea is worth the ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag mit dem Fahrrad am Konyaaltı-Strand und radeln Sie ostwärts zum beeindruckenden Antalya Museum. Nach der Kultur führt Sie Ihr Weg zum Karaalioğlu-Park, wo Sie die Aussicht vom Hıdırlık-Turm genießen. Zu Mittag steigen Sie zum Kaleiçi-Hafen ab. Der Höhepunkt des Nachmittags ist die malerische Küstenfahrt zum Düden-Park, wo Sie den berühmten Wasserfall bewundern können, der ins Meer stürzt. Die Rückfahrt entlang der Küste bei Sonnenuntergang rundet den perfekten Radtag ab.",
+        "hu": "Kezdje a napot kerékpárral a Konyaaltı strandról, kelet felé tekerve a lenyűgöző Antalyai Múzeumhoz. A kultúra után az út a Karaalioğlu Parkba vezet, ahol élvezheti a Hıdırlık-torony kilátását. Ebédidőben ereszkedjen le a Kaleiçi kikötőbe. A délután fénypontja a festői tengerparti út a Düden Parkba, ahol megcsodálhatja a tengerbe zuhanó híres vízesést. A naplementében a part mentén való visszautazás teszi teljessé a tökéletes kerékpáros napot.",
+        "ro": "Începeți ziua pe bicicletă de la Plaja Konyaaltı, pedalând spre est către impresionantul Muzeu Antalya. După cultură, drumul vă duce la Parcul Karaalioğlu, unde vă bucurați de priveliștea de la Turnul Hıdırlık. La prânz, coborâți în Portul Kaleiçi. Punctul culminant al după-amiezii este pitoreasca plimbare de-a lungul coastei până la Parcul Düden, unde puteți admira faimoasa cascadă care se varsă în mare. Întoarcerea de-a lungul coastei la apus completează ziua perfectă pe bicicletă.",
+        "en": "Start your day by bike from Konyaaltı Beach, cycling east to the impressive Antalya Museum. After culture, your path leads to Karaalioğlu Park, where you enjoy the view from Hıdırlık Tower. For lunch, descend to Kaleiçi Harbour. The highlight of the afternoon is the scenic coastal ride to Düden Park, where you can admire the famous waterfall plunging into the sea. The return trip along the coast at sunset completes the perfect cycling day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gözleme",
+            "tip": "Dünne, gefüllte Fladenbrote. Ein perfekter Snack für unterwegs."
+          },
+          {
+            "name": "Frisch gepresster Saft",
+            "tip": "An vielen Ständen entlang der Radwege erhältlich."
+          },
+          {
+            "name": "Balık Ekmek",
+            "tip": "Ein einfaches, aber köstliches Fischsandwich am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gözleme",
+            "tip": "Vékony, töltött lepénykenyér. Tökéletes úti snack."
+          },
+          {
+            "name": "Frissen facsart gyümölcslé",
+            "tip": "Számos standon kapható a kerékpárutak mentén."
+          },
+          {
+            "name": "Balık Ekmek",
+            "tip": "Egyszerű, de finom halszendvics a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gözleme",
+            "tip": "Lipii subțiri și umplute. O gustare perfectă pentru drum."
+          },
+          {
+            "name": "Suc proaspăt stors",
+            "tip": "Disponibil la multe standuri de-a lungul pistelor de biciclete."
+          },
+          {
+            "name": "Balık Ekmek",
+            "tip": "Un sandviș cu pește simplu, dar delicios, în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gözleme",
+            "tip": "Thin, filled flatbreads. A perfect snack on the go."
+          },
+          {
+            "name": "Freshly squeezed juice",
+            "tip": "Available at many stalls along the bike paths."
+          },
+          {
+            "name": "Balık Ekmek",
+            "tip": "A simple but delicious fish sandwich at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Konyaaltı Strand am Morgen",
+            "tip": "Genießen Sie die Ruhe, bevor die Menschenmassen eintreffen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Geheime Buchten",
+            "tip": "Entlang der Klippen gibt es kleine, unberührte Strände.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick vom Düden-Park",
+            "tip": "Das Rauschen des Wasserfalls ist unglaublich beruhigend.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konyaaltı strand reggel",
+            "tip": "Élvezze a csendet, mielőtt a tömeg megérkezik.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Titkos öblök",
+            "tip": "A sziklák mentén kis, érintetlen strandok találhatók.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Düden Parkból",
+            "tip": "A vízesés zúgása hihetetlenül megnyugtató.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Konyaaltı dimineața",
+            "tip": "Bucurați-vă de liniște înainte de sosirea mulțimilor.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Golfuri secrete",
+            "tip": "Există plaje mici, neatinse, de-a lungul stâncilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliștea din Parcul Düden",
+            "tip": "Sunetul cascadei este incredibil de liniștitor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Konyaaltı Beach in the morning",
+            "tip": "Enjoy the peace and quiet before the crowds arrive.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Secret coves",
+            "tip": "There are small, untouched beaches along the cliffs.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Düden Park",
+            "tip": "The sound of the waterfall is incredibly calming.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Kaufen Sie frisches Obst für Ihre Radtour."
+          },
+          {
+            "name": "Handwerker in Kaleiçi",
+            "tip": "Einige Geschäfte verkaufen einzigartige, handgefertigte Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Vásároljon friss gyümölcsöt a kerékpártúrához."
+          },
+          {
+            "name": "Kézművesek Kaleiçiben",
+            "tip": "Néhány üzlet egyedi, kézzel készített árukat árul."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Cumpărați fructe proaspete pentru turul cu bicicleta."
+          },
+          {
+            "name": "Artizani în Kaleiçi",
+            "tip": "Unele magazine vând produse unice, lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local markets",
+            "tip": "Buy fresh fruit for your bike ride."
+          },
+          {
+            "name": "Artisans in Kaleiçi",
+            "tip": "Some shops sell unique, handmade goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die ausgewiesenen Radwege, besonders entlang der Küste.",
+          "Nehmen Sie viel Wasser mit.",
+          "Ein Helm wird dringend empfohlen.",
+          "Planen Sie Pausen im Schatten ein, um der Mittagshitze zu entgehen."
+        ],
+        "hu": [
+          "Használja a kijelölt kerékpárutakat, különösen a part mentén.",
+          "Vigyen magával sok vizet.",
+          "A sisak használata erősen ajánlott.",
+          "Tervezzen szüneteket az árnyékban, hogy elkerülje a déli hőséget."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete desemnate, în special de-a lungul coastei.",
+          "Luați multă apă cu dumneavoastră.",
+          "O cască este puternic recomandată.",
+          "Planificați pauze la umbră pentru a evita căldura de la prânz."
+        ],
+        "en": [
+          "Use the designated bike paths, especially along the coast.",
+          "Take plenty of water with you.",
+          "A helmet is strongly recommended.",
+          "Plan for breaks in the shade to avoid the midday heat."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 24.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz in der Nähe des Hadrianstors",
+            "hu": "Parkoló a Hadrianus-kapu közelében",
+            "ro": "Parcare lângă Poarta lui Hadrian",
+            "en": "Parking near Hadrian's Gate"
+          },
+          "coords": [
+            30.709,
+            36.8855
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Früh ankommen, um einen guten Parkplatz zu finden. Dies ist Ihr erster Cluster-Startpunkt.",
+            "hu": "Érkezzen korán, hogy jó parkolóhelyet találjon. Ez az első klaszter kiindulópontja.",
+            "ro": "Ajungeți devreme pentru a găsi un loc bun de parcare. Acesta este primul punct de plecare al clusterului.",
+            "en": "Arrive early to find a good parking spot. This is your first cluster starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Hadrianstor & Uhrturm",
+            "hu": "Hadrianus-kapu és Óratorony",
+            "ro": "Poarta lui Hadrian și Turnul cu Ceas",
+            "en": "Hadrian's Gate & Clock Tower"
+          },
+          "coords": [
+            30.7078,
+            36.8856
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:02",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Eingang zur Altstadt zu Fuß. Der Uhrturm ist nur einen Steinwurf entfernt.",
+            "hu": "Fedezze fel gyalog az óváros bejáratát. Az Óratorony csak egy kőhajításnyira van.",
+            "ro": "Explorați intrarea în orașul vechi pe jos. Turnul cu Ceas este la o aruncătură de băț.",
+            "en": "Explore the entrance to the old town on foot. The Clock Tower is just a stone's throw away."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaleiçi Hafen",
+            "hu": "Kaleiçi kikötő",
+            "ro": "Portul Kaleiçi",
+            "en": "Kaleiçi Harbour"
+          },
+          "coords": [
+            30.7032,
+            36.8833
+          ],
+          "category": "port",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der Spaziergang hinunter zum Hafen ist steil, aber malerisch. Unten warten Cafés.",
+            "hu": "A séta le a kikötőbe meredek, de festői. Lent kávézók várnak.",
+            "ro": "Plimbarea până în port este abruptă, dar pitorească. La bază vă așteaptă cafenele.",
+            "en": "The walk down to the harbor is steep but picturesque. Cafes are waiting at the bottom."
+          }
+        },
+        {
+          "name": {
+            "de": "Antalya Museum",
+            "hu": "Antalyai Múzeum",
+            "ro": "Muzeul Antalya",
+            "en": "Antalya Museum"
+          },
+          "coords": [
+            30.6853,
+            36.8833
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Das Museum hat einen eigenen Parkplatz. Planen Sie mindestens 2 Stunden ein.",
+            "hu": "Vezessen a második klaszterhez. A múzeumnak saját parkolója van. Tervezzen legalább 2 órát.",
+            "ro": "Conduceți la al doilea cluster. Muzeul are propria parcare. Planificați cel puțin 2 ore.",
+            "en": "Drive to the second cluster. The museum has its own parking lot. Plan for at least 2 hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Museums",
+            "hu": "Ebéd a múzeum közelében",
+            "ro": "Prânz lângă muzeu",
+            "en": "Lunch near the Museum"
+          },
+          "coords": [
+            30.684,
+            36.884
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Es gibt mehrere gute Restaurants in Gehweite. Probieren Sie authentische türkische Küche.",
+            "hu": "Sétatávolságra több jó étterem is található. Kóstolja meg az autentikus török konyhát.",
+            "ro": "Există mai multe restaurante bune la câțiva pași. Încercați bucătăria turcească autentică.",
+            "en": "There are several good restaurants within walking distance. Try authentic Turkish cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Unterer Düden-Wasserfall",
+            "hu": "Alsó Düden-vízesés",
+            "ro": "Cascada Düden de Jos",
+            "en": "Lower Düden Waterfall"
+          },
+          "coords": [
+            30.785,
+            36.8515
+          ],
+          "category": "natural features",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 20,
+          "tip_5lang": {
+            "de": "Der Höhepunkt des Tages. Der Anblick des Wassers, das ins Meer stürzt, ist unvergesslich.",
+            "hu": "A nap fénypontja. A tengerbe zuhanó víz látványa felejthetetlen.",
+            "ro": "Punctul culminant al zilei. Priveliștea apei care se varsă în mare este de neuitat.",
+            "en": "The highlight of the day. The sight of the water crashing into the sea is unforgettable."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Düden-Park",
+            "hu": "Séta a Düden Parkban",
+            "ro": "Plimbare în Parcul Düden",
+            "en": "Walk in Düden Park"
+          },
+          "coords": [
+            30.775,
+            36.852
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nach der Aufregung des Wasserfalls bietet der Park einen ruhigen Ort zum Entspannen.",
+            "hu": "A vízesés izgalma után a park csendes pihenőhelyet kínál.",
+            "ro": "După agitația de la cascadă, parcul oferă un loc liniștit pentru relaxare.",
+            "en": "After the excitement of the waterfall, the park offers a peaceful place to relax."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag nutzt eine Cluster-Strategie. Parken Sie am Morgen in der Nähe des Hadrianstors und erkunden Sie den ersten Cluster – die Altstadt Kaleiçi mit ihrem Hafen – zu Fuß. Mittags fahren Sie zum zweiten Cluster, dem Antalya Museum. Nach einem kulturellen Vormittag und Mittagessen fahren Sie am Nachmittag zum dritten und spektakulärsten Cluster: dem Düden-Wasserfall, wo Sie den Park erkunden und das Naturschauspiel bewundern können. Dieser Ansatz kombiniert die Freiheit des Autos mit dem intensiven Erlebnis des Gehens.",
+        "hu": "Autós napja egy klaszterstratégiát alkalmaz. Reggel parkoljon a Hadrianus-kapu közelében, és fedezze fel gyalog az első klasztert – Kaleiçi óvárosát a kikötőjével. Délben vezessen a második klaszterhez, az Antalyai Múzeumhoz. Egy kulturális délelőtt és ebéd után délután a harmadik és leglátványosabb klaszterhez, a Düden-vízeséshez hajt, ahol felfedezheti a parkot és megcsodálhatja a természeti látványosságot. Ez a megközelítés ötvözi az autó szabadságát a gyaloglás intenzív élményével.",
+        "ro": "Ziua dvs. cu mașina folosește o strategie de cluster. Parcați dimineața lângă Poarta lui Hadrian și explorați primul cluster – orașul vechi Kaleiçi cu portul său – pe jos. La prânz, conduceți la al doilea cluster, Muzeul Antalya. După o dimineață culturală și prânz, după-amiaza vă îndreptați spre al treilea și cel mai spectaculos cluster: Cascada Düden, unde explorați parcul și admirați spectacolul natural. Această abordare combină libertatea mașinii cu experiența imersivă a mersului pe jos.",
+        "en": "Your car day uses a cluster strategy. In the morning, park near Hadrian's Gate and explore the first cluster – Kaleiçi's old town with its harbor – on foot. At noon, drive to the second cluster, the Antalya Museum. After a cultural morning and lunch, you'll drive in the afternoon to the third and most spectacular cluster: the Düden Waterfall, where you'll explore the park and admire the natural spectacle. This approach combines the freedom of the car with the immersive experience of walking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tandır Kebabı",
+            "tip": "Langsam gegartes Lammfleisch, unglaublich zart."
+          },
+          {
+            "name": "Künefe",
+            "tip": "Ein süßes Käsegebäck, das als Dessert serviert wird."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Ein erfrischendes Joghurtgetränk, perfekt zur türkischen Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tandır Kebabı",
+            "tip": "Lassan főtt bárányhús, hihetetlenül omlós."
+          },
+          {
+            "name": "Künefe",
+            "tip": "Édes sajtos sütemény, desszertként tálalva."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Frissítő joghurtital, tökéletes a török ételekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tandır Kebabı",
+            "tip": "Carne de miel gătită lent, incredibil de fragedă."
+          },
+          {
+            "name": "Künefe",
+            "tip": "O prăjitură dulce cu brânză servită ca desert."
+          },
+          {
+            "name": "Ayran",
+            "tip": "O băutură răcoritoare din iaurt, perfectă pentru bucătăria turcească."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tandır Kebabı",
+            "tip": "Slow-cooked lamb, incredibly tender."
+          },
+          {
+            "name": "Künefe",
+            "tip": "A sweet cheese pastry served for dessert."
+          },
+          {
+            "name": "Ayran",
+            "tip": "A refreshing yogurt drink, perfect with Turkish cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Düden-Park am späten Nachmittag",
+            "tip": "Weniger überlaufen, das Licht ist weicher und die Atmosphäre friedlich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt über den Klippen",
+            "tip": "Halten Sie auf dem Weg zwischen den Clustern an und genießen Sie die Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein Café in einer Seitengasse von Kaleiçi",
+            "tip": "Entfliehen Sie dem Trubel der Hauptstraßen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Düden Park késő délután",
+            "tip": "Kevésbé zsúfolt, a fények lágyabbak és a hangulat békés.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátó a sziklák felett",
+            "tip": "Álljon meg a klaszterek közötti úton, és élvezze a kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy kávézó Kaleiçi egyik mellékutcájában",
+            "tip": "Meneküljön el a főutcák nyüzsgésétől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Düden după-amiaza târziu",
+            "tip": "Mai puțin aglomerat, lumina este mai blândă și atmosfera pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere deasupra stâncilor",
+            "tip": "Opriți-vă pe drum între clustere și bucurați-vă de priveliște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O cafenea pe o alee lăturalnică din Kaleiçi",
+            "tip": "Evadați din agitația străzilor principale.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Düden Park in the late afternoon",
+            "tip": "Less crowded, the light is softer, and the atmosphere is peaceful.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint above the cliffs",
+            "tip": "Stop on the way between clusters and enjoy the view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A cafe in a side street of Kaleiçi",
+            "tip": "Escape the hustle and bustle of the main streets.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentren außerhalb des Zentrums",
+            "tip": "Für Markenartikel und eine klimatisierte Pause."
+          },
+          {
+            "name": "Lokale Produkte am Straßenrand",
+            "tip": "Halten Sie Ausschau nach Ständen mit Olivenöl, Honig oder Früchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bevásárlóközpontok a központon kívül",
+            "tip": "Márkás termékekért és egy légkondicionált szünetért."
+          },
+          {
+            "name": "Helyi termékek az út mentén",
+            "tip": "Keresse az olívaolajat, mézet vagy gyümölcsöt árusító standokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centre comerciale în afara centrului",
+            "tip": "Pentru articole de marcă și o pauză cu aer condiționat."
+          },
+          {
+            "name": "Produse locale pe marginea drumului",
+            "tip": "Fiți atenți la standurile care vând ulei de măsline, miere sau fructe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopping malls outside the center",
+            "tip": "For branded goods and an air-conditioned break."
+          },
+          {
+            "name": "Local products on the roadside",
+            "tip": "Look out for stalls selling olive oil, honey, or fruit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um den Verkehr zu meiden.",
+          "Parken in der Innenstadt kann teuer sein; die Cluster-Strategie spart Geld.",
+          "Überprüfen Sie die Öffnungszeiten der Sehenswürdigkeiten im Voraus.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch weiter entfernte Ziele zu erkunden."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a forgalom elkerülésére.",
+          "A belvárosi parkolás drága lehet; a klaszterstratégia pénzt takarít meg.",
+          "Előre ellenőrizze a látnivalók nyitvatartási idejét.",
+          "Az autó rugalmasságot ad a távolabbi célpontok felfedezéséhez is."
+        ],
+        "ro": [
+          "Folosiți o aplicație de navigație pentru a evita traficul.",
+          "Parcarea în centrul orașului poate fi scumpă; strategia de cluster economisește bani.",
+          "Verificați în avans orele de deschidere ale atracțiilor.",
+          "O mașină vă oferă flexibilitatea de a explora și destinații mai îndepărtate."
+        ],
+        "en": [
+          "Use a navigation app to avoid traffic.",
+          "Parking in the city center can be expensive; the cluster strategy saves money.",
+          "Check the opening hours of the attractions in advance.",
+          "A car gives you the flexibility to explore more distant destinations as well."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Straßenbahnhaltestelle İsmetpaşa",
+            "hu": "İsmetpaşa villamosmegálló",
+            "ro": "Stația de tramvai İsmetpaşa",
+            "en": "İsmetpaşa Tram Stop"
+          },
+          "coords": [
+            30.7068,
+            36.8885
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Antalyakart für einfaches Reisen. Ihr erster Cluster, die Altstadt, beginnt hier.",
+            "hu": "Vásároljon egy Antalyakartot az egyszerű utazáshoz. Az első klaszter, az óváros, itt kezdődik.",
+            "ro": "Cumpărați un Antalyakart pentru o călătorie ușoară. Primul dvs. cluster, orașul vechi, începe aici.",
+            "en": "Buy an Antalyakart for easy travel. Your first cluster, the old town, starts here."
+          }
+        },
+        {
+          "name": {
+            "de": "Yivli-Minare-Moschee & Uhrturm",
+            "hu": "Yivli Minare mecset és Óratorony",
+            "ro": "Moscheea Yivli Minare și Turnul cu Ceas",
+            "en": "Yivli Minare Mosque & Clock Tower"
+          },
+          "coords": [
+            30.7045,
+            36.8864
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen liegen nahe beieinander und sind ein guter Start in den Tag.",
+            "hu": "Ez a két nevezetesség közel van egymáshoz, és jó kezdet a naphoz.",
+            "ro": "Aceste două repere sunt apropiate și reprezintă un bun început de zi.",
+            "en": "These two landmarks are close together and are a great start to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaleiçi Hafen",
+            "hu": "Kaleiçi kikötő",
+            "ro": "Portul Kaleiçi",
+            "en": "Kaleiçi Harbour"
+          },
+          "coords": [
+            30.7032,
+            36.8833
+          ],
+          "category": "port",
+          "arrive_at": "10:13",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre und vielleicht ein Mittagessen mit Blick auf das Meer.",
+            "hu": "Élvezze a hangulatot és talán egy ebédet a tengerre néző kilátással.",
+            "ro": "Bucurați-vă de atmosferă și poate de un prânz cu vedere la mare.",
+            "en": "Enjoy the atmosphere and maybe a lunch with a view of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Antalya Museum",
+            "hu": "Antalyai Múzeum",
+            "ro": "Muzeul Antalya",
+            "en": "Antalya Museum"
+          },
+          "coords": [
+            30.6853,
+            36.8833
+          ],
+          "category": "museums",
+          "arrive_at": "12:13",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die AntRay-Straßenbahn bis zur Haltestelle 'Müze'. Der Eingang ist gleich gegenüber.",
+            "hu": "Menjen az AntRay villamossal a 'Müze' megállóig. A bejárat pont szemben van.",
+            "ro": "Luați tramvaiul AntRay până la stația 'Müze'. Intrarea este chiar vizavi.",
+            "en": "Take the AntRay tram to the 'Müze' stop. The entrance is right across the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Karaalioğlu Park",
+            "hu": "Karaalioğlu Park",
+            "ro": "Parcul Karaalioğlu",
+            "en": "Karaalioğlu Park"
+          },
+          "coords": [
+            30.7065,
+            36.8805
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:23",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein Bus oder die Nostalgie-Straßenbahn bringt Sie direkt zum Park. Ein perfekter Ort für den Nachmittag.",
+            "hu": "Egy busz vagy a nosztalgiavillamos egyenesen a parkba visz. Tökéletes hely a délutánra.",
+            "ro": "Un autobuz sau tramvaiul nostalgic vă duce direct la parc. Un loc perfect pentru după-amiază.",
+            "en": "A bus or the nostalgia tram will take you directly to the park. A perfect place for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Hıdırlık-Turm",
+            "hu": "Hıdırlık-torony",
+            "ro": "Turnul Hıdırlık",
+            "en": "Hıdırlık Tower"
+          },
+          "coords": [
+            30.7021,
+            36.8814
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:28",
+          "stay_min": 92,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park aus. Warten Sie hier auf den Sonnenuntergang.",
+            "hu": "Rövid séta a parkból. Várja meg itt a naplementét.",
+            "ro": "O scurtă plimbare de la parc. Așteptați apusul aici.",
+            "en": "A short walk from the park. Wait for the sunset here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit der Antalyakart navigieren Sie mühelos durch die Stadt. Starten Sie an der Haltestelle İsmetpaşa, um den ersten Cluster, Kaleiçi, zu Fuß zu erkunden. Entdecken Sie die Moschee, den Uhrturm und den Hafen. Am Mittag bringt Sie die Straßenbahn zum zweiten Cluster, dem Antalya Museum. Für den Nachmittag fahren Sie mit dem Bus oder der Nostalgie-Straßenbahn zum Karaalioğlu-Park und zum Hıdırlık-Turm, Ihrem dritten Cluster, wo Sie den Sonnenuntergang über dem Meer genießen können. So erleben Sie die Stadt wie ein Einheimischer.",
+        "hu": "Az Antalyakarttal könnyedén navigálhat a városban. Kezdje az İsmetpaşa megállónál, hogy gyalog fedezze fel az első klasztert, Kaleiçit. Fedezze fel a mecsetet, az óratornyot és a kikötőt. Délben a villamos elviszi a második klaszterhez, az Antalyai Múzeumhoz. Délután busszal vagy a nosztalgiavillamossal utazzon a Karaalioğlu Parkba és a Hıdırlık-toronyhoz, a harmadik klaszterhez, ahol élvezheti a naplementét a tenger felett. Így úgy élheti át a várost, mint egy helyi.",
+        "ro": "Cu Antalyakart, navigați fără efort prin oraș. Începeți la stația İsmetpaşa pentru a explora pe jos primul cluster, Kaleiçi. Descoperiți moscheea, turnul cu ceas și portul. La prânz, tramvaiul vă duce la al doilea cluster, Muzeul Antalya. Pentru după-amiază, luați un autobuz sau tramvaiul nostalgic până la Parcul Karaalioğlu și Turnul Hıdırlık, al treilea cluster, unde vă puteți bucura de apusul peste mare. Astfel, veți experimenta orașul ca un localnic.",
+        "en": "With the Antalyakart, you can navigate the city effortlessly. Start at the İsmetpaşa stop to explore the first cluster, Kaleiçi, on foot. Discover the mosque, the clock tower, and the harbor. At noon, the tram takes you to the second cluster, the Antalya Museum. For the afternoon, take a bus or the nostalgia tram to Karaalioğlu Park and Hıdırlık Tower, your third cluster, where you can enjoy the sunset over the sea. This way, you experience the city like a local."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Simit",
+            "tip": "Ein Sesamkringel, den man an jeder Straßenecke findet. Perfekt für unterwegs."
+          },
+          {
+            "name": "Döner Kebab",
+            "tip": "Probieren Sie einen authentischen Döner von einem kleinen Laden."
+          },
+          {
+            "name": "Türkischer Kaffee",
+            "tip": "Lassen Sie ihn sich in einem traditionellen Kaffeehaus zubereiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Simit",
+            "tip": "Szezámmagos perec, minden utcasarkon megtalálható. Tökéletes útközben."
+          },
+          {
+            "name": "Döner Kebab",
+            "tip": "Kóstoljon meg egy autentikus dönert egy kis üzletből."
+          },
+          {
+            "name": "Török kávé",
+            "tip": "Készíttesse el egy hagyományos kávéházban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Simit",
+            "tip": "Un covrig cu susan găsit la fiecare colț de stradă. Perfect pentru drum."
+          },
+          {
+            "name": "Döner Kebab",
+            "tip": "Încercați un döner autentic de la un mic magazin."
+          },
+          {
+            "name": "Cafea turcească",
+            "tip": "Lăsați-o să fie preparată într-o cafenea tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Simit",
+            "tip": "A sesame ring found on every street corner. Perfect for on the go."
+          },
+          {
+            "name": "Döner Kebab",
+            "tip": "Try an authentic döner from a small shop."
+          },
+          {
+            "name": "Turkish Coffee",
+            "tip": "Have it prepared in a traditional coffee house."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt mit der Nostalgie-Straßenbahn",
+            "tip": "Eine langsame, entspannte Fahrt entlang der Küste.",
+            "emoji": "🚋"
+          },
+          {
+            "name": "Eine Bank im Atatürk Parkı",
+            "tip": "Ein weiterer schöner Park mit weniger Touristen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von den oberen Gassen von Kaleiçi",
+            "tip": "Finden Sie einen ruhigen Ort mit Blick auf den Hafen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utazás a nosztalgiavillamossal",
+            "tip": "Lassú, pihentető utazás a part mentén.",
+            "emoji": "🚋"
+          },
+          {
+            "name": "Egy pad az Atatürk Parkı-ban",
+            "tip": "Egy másik szép park, kevesebb turistával.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás Kaleiçi felső sikátoraiból",
+            "tip": "Keressen egy csendes helyet, ahonnan a kikötőre nyílik kilátás.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu tramvaiul nostalgic",
+            "tip": "O călătorie lentă, relaxantă, de-a lungul coastei.",
+            "emoji": "🚋"
+          },
+          {
+            "name": "O bancă în Parcul Atatürk",
+            "tip": "Un alt parc frumos cu mai puțini turiști.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliște de pe aleile superioare din Kaleiçi",
+            "tip": "Găsiți un loc liniștit cu vedere la port.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ride on the nostalgia tram",
+            "tip": "A slow, relaxing journey along the coast.",
+            "emoji": "🚋"
+          },
+          {
+            "name": "A bench in Atatürk Parkı",
+            "tip": "Another beautiful park with fewer tourists.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the upper alleys of Kaleiçi",
+            "tip": "Find a quiet spot overlooking the harbor.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Großer Basar (Kapalı Çarşı)",
+            "tip": "Ein Labyrinth aus Geschäften, in dem man alles von Gewürzen bis zu Teppichen findet."
+          },
+          {
+            "name": "Mark Antalya Shopping Mall",
+            "tip": "Wenn Sie internationale Marken oder ein modernes Einkaufserlebnis suchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nagy Bazár (Kapalı Çarşı)",
+            "tip": "Üzletek labirintusa, ahol a fűszerektől a szőnyegekig mindent megtalál."
+          },
+          {
+            "name": "Mark Antalya bevásárlóközpont",
+            "tip": "Ha nemzetközi márkákat vagy modern vásárlási élményt keres."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marele Bazar (Kapalı Çarşı)",
+            "tip": "Un labirint de magazine unde puteți găsi totul, de la mirodenii la covoare."
+          },
+          {
+            "name": "Centrul comercial Mark Antalya",
+            "tip": "Dacă sunteți în căutarea unor mărci internaționale sau a unei experiențe moderne de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grand Bazaar (Kapalı Çarşı)",
+            "tip": "A labyrinth of shops where you can find everything from spices to carpets."
+          },
+          {
+            "name": "Mark Antalya Shopping Mall",
+            "tip": "If you are looking for international brands or a modern shopping experience."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Antalyakart ist an vielen Kiosken und Automaten erhältlich und wiederaufladbar.",
+          "Planen Sie Ihre Routen mit einer ÖPNV-App, um Wartezeiten zu minimieren.",
+          "Stoßzeiten am Morgen und Abend können die Busse und Bahnen sehr voll machen.",
+          "Die Nostalgie-Straßenbahn ist mehr eine Touristenattraktion als ein schnelles Verkehrsmittel, aber sehr charmant."
+        ],
+        "hu": [
+          "Az Antalyakart számos kioszknál és automatánál kapható és újratölthető.",
+          "Tervezze meg útvonalait egy tömegközlekedési alkalmazással a várakozási idők minimalizálása érdekében.",
+          "A reggeli és esti csúcsidőben a buszok és villamosok nagyon zsúfoltak lehetnek.",
+          "A nosztalgiavillamos inkább turisztikai látványosság, mint gyors közlekedési eszköz, de nagyon bájos."
+        ],
+        "ro": [
+          "Antalyakart este disponibil și reîncărcabil la multe chioșcuri și automate.",
+          "Planificați-vă rutele cu o aplicație de transport public pentru a minimiza timpii de așteptare.",
+          "Orele de vârf dimineața și seara pot face autobuzele și tramvaiele foarte aglomerate.",
+          "Tramvaiul nostalgic este mai mult o atracție turistică decât un mijloc de transport rapid, dar este foarte fermecător."
+        ],
+        "en": [
+          "The Antalyakart is available and rechargeable at many kiosks and vending machines.",
+          "Plan your routes with a public transport app to minimize waiting times.",
+          "Rush hours in the morning and evening can make buses and trams very crowded.",
+          "The nostalgia tram is more of a tourist attraction than a fast means of transport, but very charming."
+        ]
+      }
+    }
+  }
+}

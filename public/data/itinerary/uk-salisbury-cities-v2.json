@@ -1,0 +1,1500 @@
+{
+  "city_id": "uk-salisbury-cities-v2",
+  "anchor": {
+    "name": "Salisbury",
+    "coords": [
+      -1.7945,
+      51.0688
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "High Street Gate",
+            "hu": "High Street kapu",
+            "ro": "Poarta High Street",
+            "en": "High Street Gate"
+          },
+          "coords": [
+            -1.7981,
+            51.0664
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die komplizierten Details des Glockenspiels, das stündlich läutet.",
+            "hu": "Figyeld meg a bonyolult részleteket az órajátékon, amely óránként szólal meg.",
+            "ro": "Observați detaliile complexe ale ceasului cu clopoței care bate la fiecare oră.",
+            "en": "Note the intricate details on the clock-bell, which chimes on the hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Salisbury Kathedrale",
+            "hu": "Salisbury-i katedrális",
+            "ro": "Catedrala din Salisbury",
+            "en": "Salisbury Cathedral"
+          },
+          "coords": [
+            -1.7975,
+            51.0652
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Turmführung teil, um die originale Magna Carta aus dem Jahr 1215 zu sehen.",
+            "hu": "Vegyél részt egy toronytúrán, és nézd meg az eredeti, 1215-ös Magna Cartát.",
+            "ro": "Participați la un tur al turnului pentru a vedea originalul Magna Carta din 1215.",
+            "en": "Join a tower tour for incredible views and to see the original 1215 Magna Carta."
+          }
+        },
+        {
+          "name": {
+            "de": "Mompesson House",
+            "hu": "Mompesson-ház",
+            "ro": "Casa Mompesson",
+            "en": "Mompesson House"
+          },
+          "coords": [
+            -1.7968,
+            51.0661
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Gipsarbeit und die Queen-Anne-Möbel.",
+            "hu": "Csodáld meg a gyönyörű stukkókat és a Queen Anne stílusú bútorokat.",
+            "ro": "Admirați tencuiala rafinată și mobilierul din perioada Reginei Ana.",
+            "en": "Admire the exquisite plasterwork and the collection of Queen Anne furniture."
+          }
+        },
+        {
+          "name": {
+            "de": "Poultry Cross",
+            "hu": "Poultry Cross (Baromfi-kereszt)",
+            "ro": "Crucea Poultry",
+            "en": "Poultry Cross"
+          },
+          "coords": [
+            -1.7958,
+            51.0691
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies war der einzige von vier Marktkreuzen, der überlebt hat. Ein großartiger Ort für Fotos.",
+            "hu": "Ez az egyetlen a négy piaci kereszt közül, amely túlélte. Nagyszerű fotóhelyszín.",
+            "ro": "Aceasta a fost singura dintre cele patru cruci de piață care a supraviețuit. Un loc excelent pentru fotografii.",
+            "en": "This was the only one of four market crosses to survive. Makes for a great photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Salisbury Museum",
+            "hu": "Salisbury Múzeum",
+            "ro": "Muzeul Salisbury",
+            "en": "The Salisbury Museum"
+          },
+          "coords": [
+            -1.796,
+            51.0668
+          ],
+          "category": "museums",
+          "arrive_at": "12:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach der Wessex-Galerie, die eine preisgekrönte Sammlung von Archäologie beherbergt.",
+            "hu": "Keresd a Wessex Galériát, amely egy díjnyertes régészeti gyűjteménynek ad otthont.",
+            "ro": "Căutați Galeria Wessex, care găzduiește o colecție premiată de arheologie.",
+            "en": "Look for the Wessex Gallery which holds an award-winning collection of archaeology."
+          }
+        },
+        {
+          "name": {
+            "de": "Queen Elizabeth Gärten",
+            "hu": "Erzsébet királynő kertjei",
+            "ro": "Grădinile Reginei Elisabeta",
+            "en": "Queen Elizabeth Gardens"
+          },
+          "coords": [
+            -1.8005,
+            51.0645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Pause am Nachmittag am Fluss Avon.",
+            "hu": "Tökéletes hely egy délutáni pihenőre az Avon folyó partján.",
+            "ro": "Un loc perfect pentru o pauză de după-amiază lângă râul Avon.",
+            "en": "A perfect spot for an afternoon break by the River Avon."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Rifles Museum",
+            "hu": "A Puskások Múzeuma",
+            "ro": "Muzeul Rifles",
+            "en": "The Rifles Museum"
+          },
+          "coords": [
+            -1.7968,
+            51.0648
+          ],
+          "category": "museums",
+          "arrive_at": "16:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fragen Sie die Freiwilligen nach Geschichten; sie sind eine Fundgrube an Informationen.",
+            "hu": "Kérdezd az önkénteseket történetekről; valódi információbányák.",
+            "ro": "Întrebați voluntarii despre povești; sunt o mină de informații.",
+            "en": "Ask the volunteers for stories; they are a treasure trove of information."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am historischen High Street Gate, dem alten Eingang zur Kathedrale. Am Vormittag erkunden Sie das Herz der Stadt mit der majestätischen Kathedrale und dem eleganten Mompesson House. Nehmen Sie sich Zeit für ein Mittagessen in der Nähe des Poultry Cross, einem lebhaften Marktplatz. Am Nachmittag tauchen Sie im Salisbury Museum und im Rifles Museum in die Geschichte ein, bevor Sie einen entspannten Spaziergang durch die Queen Elizabeth Gardens am Flussufer genießen. Ihr Abendessen in einem traditionellen Pub rundet einen Tag voller Entdeckungen ab.",
+        "hu": "Kezdje a napot a történelmi High Street kapunál, a katedrális régi bejáratánál. A délelőttöt a város szívében töltse, felfedezve a fenséges katedrálist és az elegáns Mompesson-házat. Ebédeljen a Poultry Cross közelében, egy nyüzsgő piactéren. Délután merüljön el a történelemben a Salisbury Múzeumban és a Puskások Múzeumában, majd tegyen egy pihentető sétát a folyóparti Erzsébet királynő kertjeiben. A napot egy hagyományos pubban elköltött vacsora zárja.",
+        "ro": "Începeți ziua la istorica Poartă High Street, vechea intrare în Close-ul Catedralei. Petreceți dimineața în inima orașului, explorând majestuoasa Catedrală și eleganta Casă Mompesson. Luați prânzul lângă Poultry Cross, o piață plină de viață. După-amiaza, scufundați-vă în istorie la Muzeul Salisbury și Muzeul Rifles, înainte de a vă bucura de o plimbare relaxantă prin Grădinile Reginei Elisabeta de pe malul râului. Încheiați ziua cu cina la un pub tradițional, completând o zi de explorare.",
+        "en": "Start your day at the historic High Street Gate, the old entrance to the Cathedral Close. Spend the morning in the city's heart, exploring the majestic Cathedral and the elegant Mompesson House. Take time for lunch near Poultry Cross, a bustling market spot. In the afternoon, dive into history at The Salisbury Museum and The Rifles Museum, before enjoying a relaxing stroll through the riverside Queen Elizabeth Gardens. Finish with dinner at a traditional pub, capping a day of discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Salisbury Lardy Cake",
+            "tip": "Ein süßer, reichhaltiger Kuchen, der lokal hergestellt wird. Probieren Sie ihn in einer traditionellen Bäckerei."
+          },
+          {
+            "name": "Wiltshire Loaf Cheese",
+            "tip": "Ein lokaler Käse, perfekt mit einem Ploughman's Lunch."
+          },
+          {
+            "name": "The Haunch of Venison",
+            "tip": "Einer der ältesten Pubs Englands, probieren Sie deren Ales und klassischen Pub-Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Salisbury Lardy sütemény",
+            "tip": "Édes, gazdag, helyben készült sütemény. Kóstold meg egy hagyományos pékségben."
+          },
+          {
+            "name": "Wiltshire Loaf sajt",
+            "tip": "Helyi sajt, tökéletes egy Ploughman's ebédhez."
+          },
+          {
+            "name": "The Haunch of Venison",
+            "tip": "Anglia egyik legrégebbi pubja, kóstold meg söreiket és klasszikus pub ételeiket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prăjitura Lardy din Salisbury",
+            "tip": "O prăjitură dulce, bogată, făcută local. Încercați-o la o brutărie tradițională."
+          },
+          {
+            "name": "Brânza Wiltshire Loaf",
+            "tip": "O brânză locală, perfectă cu un prânz Ploughman's."
+          },
+          {
+            "name": "The Haunch of Venison",
+            "tip": "Unul dintre cele mai vechi pub-uri din Anglia, încercați berile lor și mâncărurile clasice de pub."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salisbury Lardy Cake",
+            "tip": "A sweet, rich cake made locally. Try it from a traditional bakery."
+          },
+          {
+            "name": "Wiltshire Loaf Cheese",
+            "tip": "A local cheese, perfect with a Ploughman's Lunch."
+          },
+          {
+            "name": "The Haunch of Venison",
+            "tip": "One of England's oldest pubs, try their ales and classic pub fare."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kathedralen-Kreuzgang",
+            "tip": "Finden Sie einen ruhigen Moment in den größten Kreuzgängen Großbritanniens.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Fluss Avon",
+            "tip": "Ein friedlicher Weg durch die Queen Elizabeth Gardens und darüber hinaus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der Rasen im Mompesson House",
+            "tip": "Entspannen Sie sich im ummauerten Garten, einer Oase der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katedrális kerengője",
+            "tip": "Találj egy csendes pillanatot Nagy-Britannia legnagyobb kerengőjében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta az Avon folyó mentén",
+            "tip": "Békés ösvény az Erzsébet királynő kertjein keresztül és tovább.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Mompesson-ház pázsitja",
+            "tip": "Pihenj a fallal körülvett kertben, a nyugalom oázisában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Clostrele Catedralei",
+            "tip": "Găsiți un moment de liniște în cele mai mari clostre din Marea Britanie.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului Avon",
+            "tip": "O potecă pașnică prin Grădinile Reginei Elisabeta și dincolo de ele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Peluză la Mompesson House",
+            "tip": "Relaxați-vă în grădina împrejmuită, o oază de calm.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Cloisters",
+            "tip": "Find a quiet moment in the largest cloisters in Britain.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "River Avon Walk",
+            "tip": "A peaceful path through Queen Elizabeth Gardens and beyond.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mompesson House Lawn",
+            "tip": "Relax in the walled garden, an oasis of calm.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Charter Market",
+            "tip": "Dienstags und samstags geöffnet, finden Sie lokale Produkte und Kunsthandwerk."
+          },
+          {
+            "name": "Fisherton Mill",
+            "tip": "Salisburys größte unabhängige Kunstgalerie mit Kunsthandwerksläden."
+          },
+          {
+            "name": "The Maltings",
+            "tip": "Ein Freiluft-Einkaufszentrum mit einer Mischung aus bekannten Marken und unabhängigen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Charter Market",
+            "tip": "Kedden és szombaton tart nyitva, helyi termékeket és kézműves tárgyakat találsz."
+          },
+          {
+            "name": "Fisherton Mill",
+            "tip": "Salisbury legnagyobb független művészeti galériája, kézműves boltokkal."
+          },
+          {
+            "name": "The Maltings",
+            "tip": "Szabadtéri bevásárlóközpont ismert márkák és független üzletek keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Charter",
+            "tip": "Deschisă marțea și sâmbăta, găsiți produse locale și meșteșuguri."
+          },
+          {
+            "name": "Fisherton Mill",
+            "tip": "Cea mai mare galerie de artă independentă din Salisbury, cu magazine de artizanat."
+          },
+          {
+            "name": "The Maltings",
+            "tip": "Un centru comercial în aer liber, cu un amestec de mărci cunoscute și magazine independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Charter Market",
+            "tip": "Held on Tuesdays and Saturdays, find local produce and crafts."
+          },
+          {
+            "name": "Fisherton Mill",
+            "tip": "Salisbury's largest independent art gallery, with artisan shops."
+          },
+          {
+            "name": "The Maltings",
+            "tip": "An open-air shopping centre with a mix of high-street brands and independent stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das historische Zentrum am besten zu Fuß erkundet wird.",
+          "Prüfen Sie die Öffnungszeiten der Kathedrale im Voraus, da sie wegen Gottesdiensten geschlossen sein kann.",
+          "Viele alte Gebäude haben unebene Böden, seien Sie also vorsichtig.",
+          "Reservieren Sie für das Abendessen, besonders an Wochenenden, da beliebte Pubs schnell voll werden."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, a történelmi központot gyalog a legjobb felfedezni.",
+          "Ellenőrizd a katedrális nyitvatartását előre, mert istentiszteletek miatt zárva lehet.",
+          "Sok régi épületben egyenetlen a padló, légy óvatos.",
+          "Foglalj asztalt vacsorára, különösen hétvégén, mert a népszerű pubok hamar megtelnek."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul istoric este cel mai bine explorat pe jos.",
+          "Verificați orele de deschidere ale catedralei în avans, deoarece poate fi închisă pentru slujbe.",
+          "Multe clădiri vechi au podele denivelate, așa că aveți grijă pe unde călcați.",
+          "Faceți rezervări pentru cină, mai ales în weekend, deoarece pub-urile populare se umplu rapid."
+        ],
+        "en": [
+          "Wear comfortable shoes as the historic centre is best explored on foot.",
+          "Check cathedral opening times in advance as it can close for services.",
+          "Many old buildings have uneven floors, so watch your step.",
+          "Make dinner reservations, especially on weekends, as popular pubs fill up quickly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Poultry Cross",
+            "hu": "Poultry Cross (Baromfi-kereszt)",
+            "ro": "Crucea Poultry",
+            "en": "Poultry Cross"
+          },
+          "coords": [
+            -1.7958,
+            51.0691
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt im Herzen des alten Marktplatzes.",
+            "hu": "Ideális kiindulópont a régi piactér szívében.",
+            "ro": "Un punct de plecare ideal în inima vechii piețe.",
+            "en": "An ideal starting point in the heart of the old market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Salisbury Kathedrale",
+            "hu": "Salisbury-i katedrális",
+            "ro": "Catedrala din Salisbury",
+            "en": "Salisbury Cathedral"
+          },
+          "coords": [
+            -1.7975,
+            51.0652
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und nehmen Sie sich Zeit, um den beeindruckenden Turm zu bewundern.",
+            "hu": "Zárd le a biciklidet, és szánj időt a lenyűgöző torony megcsodálására.",
+            "ro": "Legați-vă bicicleta și luați-vă timp să admirați turla impunătoare.",
+            "en": "Lock up your bike and take time to admire the awe-inspiring spire."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Salisbury Museum",
+            "hu": "Salisbury Múzeum",
+            "ro": "Muzeul Salisbury",
+            "en": "The Salisbury Museum"
+          },
+          "coords": [
+            -1.796,
+            51.0668
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Museum liegt günstig neben der Kathedrale.",
+            "hu": "A múzeum kényelmesen a katedrális mellett található.",
+            "ro": "Muzeul este situat convenabil lângă catedrală.",
+            "en": "The museum is conveniently located next to the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Queen Elizabeth Gärten",
+            "hu": "Erzsébet királynő kertjei",
+            "ro": "Grădinile Reginei Elisabeta",
+            "en": "Queen Elizabeth Gardens"
+          },
+          "coords": [
+            -1.8005,
+            51.0645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner Ort für ein Picknick-Mittagessen entlang des Radweges.",
+            "hu": "Szép hely egy piknikebédre a bicikliút mentén.",
+            "ro": "Un loc minunat pentru un prânz la picnic de-a lungul pistei de biciclete.",
+            "en": "A lovely spot for a picnic lunch along the cycle path."
+          }
+        },
+        {
+          "name": {
+            "de": "Old Sarum",
+            "hu": "Old Sarum",
+            "ro": "Old Sarum",
+            "en": "Old Sarum"
+          },
+          "coords": [
+            -1.8,
+            51.0925
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:06",
+          "stay_min": 120,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Fahrt bergauf lohnt sich für die 360-Grad-Aussicht auf die Landschaft von Wiltshire.",
+            "hu": "Megéri feltekerni a hegyre a 360 fokos kilátásért Wiltshire vidékére.",
+            "ro": "Urcarea merită pentru priveliștile de 360 de grade ale peisajului rural din Wiltshire.",
+            "en": "The uphill ride is worth it for the 360-degree views of the Wiltshire countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mompesson House",
+            "hu": "Mompesson-ház",
+            "ro": "Casa Mompesson",
+            "en": "Mompesson House"
+          },
+          "coords": [
+            -1.7968,
+            51.0661
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:18",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Besuch dieses perfekt erhaltenen Stadthauses aus dem 18. Jahrhundert.",
+            "hu": "Fejezd be a túrát ennek a tökéletesen megőrzött 18. századi városi háznak a meglátogatásával.",
+            "ro": "Încheiați-vă turul cu o vizită la această casă de oraș din secolul al XVIII-lea, perfect conservată.",
+            "en": "End your tour with a visit to this perfectly preserved 18th-century townhouse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am Poultry Cross und fahren Sie zum majestätischen Dom. Am Vormittag tauchen Sie im Salisbury Museum in die lokale Geschichte ein, bevor Sie in den Queen Elizabeth Gardens am Flussufer entspannen. Stärken Sie sich mit einem Mittagessen, bevor Sie die Herausforderung annehmen und nach Old Sarum radeln. Die Mühe wird mit einer atemberaubenden Aussicht belohnt. Am Nachmittag fahren Sie zurück in die Stadt, um das elegante Mompesson House zu besichtigen, und beenden den Tag mit einem wohlverdienten Abendessen.",
+        "hu": "Kezdje a kerékpártúrát a Poultry Crossnál, majd tekerjen a fenséges katedrálishoz. A délelőttöt a helyi történelemmel ismerkedve töltse a Salisbury Múzeumban, majd pihenjen a folyóparti Erzsébet királynő kertjeiben. Ebéd után vállalja a kihívást, és tekerjen fel Old Sarumba; az erőfeszítést lenyűgöző kilátás jutalmazza. Délután térjen vissza a városba, hogy megnézze az elegáns Mompesson-házat, és egy jól megérdemelt vacsorával zárja a napot.",
+        "ro": "Începeți turul pe bicicletă de la Poultry Cross și îndreptați-vă spre maiestuoasa Catedrală. Petreceți dimineața aprofundând istoria locală la Muzeul Salisbury înainte de a vă relaxa în Grădinile Reginei Elisabeta de pe malul râului. Luați prânzul înainte de a accepta provocarea de a pedala până la Old Sarum; efortul este răsplătit cu priveliști uimitoare. După-amiaza, întoarceți-vă în oraș pentru a vizita eleganta Casă Mompesson, încheind ziua cu o cină binemeritată.",
+        "en": "Start your cycling tour at Poultry Cross, heading to the majestic Cathedral. Spend the morning delving into local history at The Salisbury Museum before a relaxing break in the riverside Queen Elizabeth Gardens. Fuel up with lunch before taking on the challenge of cycling to Old Sarum; the effort is rewarded with stunning views. In the afternoon, cycle back into the city to visit the elegant Mompesson House, finishing your day with a well-earned dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Old Ale and Coffee House",
+            "tip": "Fahrradfreundlich mit einem schönen Biergarten, ideal für eine Pause."
+          },
+          {
+            "name": "Wiltshire Schinken",
+            "tip": "Ein lokal geräucherter Schinken, perfekt für Sandwiches für unterwegs."
+          },
+          {
+            "name": "Lokale Apfelweine",
+            "tip": "Fragen Sie in Pubs nach Apfelweinen aus der Region, die erfrischend und stark sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Old Ale and Coffee House",
+            "tip": "Kerékpárbarát hely, szép sörkerttel, ideális egy pihenőre."
+          },
+          {
+            "name": "Wiltshire-i sonka",
+            "tip": "Helyben pácolt sonka, tökéletes szendvicsekhez útközben."
+          },
+          {
+            "name": "Helyi almaborok",
+            "tip": "Kérj a pubokban helyi almabort, ami frissítő és erős."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Old Ale and Coffee House",
+            "tip": "Prietenos cu bicicliștii, cu o grădină de bere minunată, ideală pentru o pauză."
+          },
+          {
+            "name": "Șunca Wiltshire",
+            "tip": "O șuncă afumată local, perfectă pentru sandvișuri la pachet."
+          },
+          {
+            "name": "Cidru local",
+            "tip": "Întrebați în pub-uri despre cidrurile din regiune, care sunt răcoritoare și tari."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Old Ale and Coffee House",
+            "tip": "Bike-friendly with a nice beer garden, great for a stop."
+          },
+          {
+            "name": "Wiltshire Ham",
+            "tip": "A locally cured ham, perfect for on-the-go sandwiches."
+          },
+          {
+            "name": "Local Ciders",
+            "tip": "Ask in pubs for ciders from the region, which are refreshing and potent."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weg entlang des Flusses Avon",
+            "tip": "Genießen Sie den flachen, landschaftlich reizvollen Radweg, der die Stadt durchquert.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Harnham Wassermathematik",
+            "tip": "Ein kurzer Abstecher für einen berühmten Blick auf die Kathedrale, der von Constable gemalt wurde.",
+            "emoji": "🎨"
+          },
+          {
+            "name": "Spitze von Old Sarum",
+            "tip": "Finden Sie einen ruhigen Platz entlang der alten Wälle, um die Aussicht zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útvonal az Avon folyó mentén",
+            "tip": "Élvezd a sík, festői kerékpárutat, amely átszeli a várost.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Harnham Water Meadows",
+            "tip": "Egy rövid kitérő a híres, Constable által megfestett katedrális látványáért.",
+            "emoji": "🎨"
+          },
+          {
+            "name": "Old Sarum csúcsa",
+            "tip": "Keress egy csendes helyet a régi sáncok mentén, és élvezd a kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă pe malul râului Avon",
+            "tip": "Bucurați-vă de pista de biciclete plată și pitorească care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Harnham Water Meadows",
+            "tip": "Un scurt ocol pentru o vedere faimoasă a catedralei, pictată de Constable.",
+            "emoji": "🎨"
+          },
+          {
+            "name": "Vârful Old Sarum",
+            "tip": "Găsiți un loc liniștit de-a lungul vechilor metereze pentru a admira priveliștea.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Avon Path",
+            "tip": "Enjoy the flat, scenic cycle path that cuts through the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Harnham Water Meadows",
+            "tip": "A short detour for a famous view of the cathedral painted by Constable.",
+            "emoji": "🎨"
+          },
+          {
+            "name": "Top of Old Sarum",
+            "tip": "Find a quiet spot along the ancient ramparts to soak in the view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In Salisbury gibt es mehrere unabhängige Fahrradgeschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Charter Market",
+            "tip": "Fahren Sie zum Markt, um lokale Snacks für Ihre Fahrt zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Salisburyben több független kerékpárbolt is található kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Charter Market",
+            "tip": "Tekerj el a piacra, és vegyél helyi finomságokat az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Salisbury are mai multe magazine independente de biciclete pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Piața Charter",
+            "tip": "Pedalați până la piață pentru a lua gustări locale pentru plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle Shops",
+            "tip": "Salisbury has several independent cycle shops for any gear or quick repairs."
+          },
+          {
+            "name": "Charter Market",
+            "tip": "Cycle to the market to pick up local snacks for your ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Leihen Sie ein Fahrrad von einem der örtlichen Geschäfte, wenn Sie keins mitbringen.",
+          "Old Sarum ist ein steiler Anstieg; E-Bikes sind eine gute Option.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, besonders im Stadtzentrum.",
+          "Die Radwege sind gut markiert, aber eine Karte oder GPS ist nützlich für die Erkundung."
+        ],
+        "hu": [
+          "Bérelj kerékpárt az egyik helyi üzletből, ha nem hoztál magaddal.",
+          "Old Sarum meredek emelkedő; az e-bike jó választás lehet.",
+          "Mindig zárd le biztonságosan a kerékpárodat, különösen a városközpontban.",
+          "A kerékpárutak jól ki vannak táblázva, de egy térkép vagy GPS hasznos lehet a felfedezéshez."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la unul dintre magazinele locale dacă nu aduceți una.",
+          "Old Sarum este o urcare abruptă; bicicletele electrice sunt o opțiune bună.",
+          "Întotdeauna încuiați-vă bicicleta în siguranță, mai ales în centrul orașului.",
+          "Pistele de biciclete sunt bine marcate, dar o hartă sau un GPS este util pentru explorare."
+        ],
+        "en": [
+          "Rent a bike from one of the local shops if not bringing your own.",
+          "Old Sarum is a steep climb; e-bikes are a good option.",
+          "Always lock your bike securely, especially in the city centre.",
+          "Cycle paths are well-marked, but a map or GPS is useful for exploring."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Old Sarum",
+            "hu": "Old Sarum",
+            "ro": "Old Sarum",
+            "en": "Old Sarum"
+          },
+          "coords": [
+            -1.8,
+            51.0925
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie früh hierher, um die Menschenmassen zu vermeiden und das Morgenlicht zu genießen.",
+            "hu": "Érkezz ide korán, hogy elkerüld a tömeget és élvezd a reggeli fényeket.",
+            "ro": "Conduceți aici devreme pentru a evita mulțimile și pentru a vă bucura de lumina dimineții.",
+            "en": "Drive here early to beat the crowds and enjoy the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Salisbury Kathedrale",
+            "hu": "Salisbury-i katedrális",
+            "ro": "Catedrala din Salisbury",
+            "en": "Salisbury Cathedral"
+          },
+          "coords": [
+            -1.7975,
+            51.0652
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf dem Central Car Park und gehen Sie zu Fuß zu den Sehenswürdigkeiten des Cathedral Close.",
+            "hu": "Parkolj a központi parkolóban, és sétálj el a katedrális negyed látnivalóihoz.",
+            "ro": "Parcați în parcarea centrală și mergeți pe jos până la atracțiile din zona Catedralei.",
+            "en": "Park at the Central Car Park and walk to the Cathedral Close attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Mompesson House",
+            "hu": "Mompesson-ház",
+            "ro": "Casa Mompesson",
+            "en": "Mompesson House"
+          },
+          "coords": [
+            -1.7968,
+            51.0661
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf von der Kathedrale entfernt, im selben Cluster.",
+            "hu": "Csak egy kőhajításnyira a katedrálistól, ugyanabban a klaszterben.",
+            "ro": "La o aruncătură de băț de catedrală, în același cluster.",
+            "en": "Just a stone's throw from the cathedral, in the same cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Salisbury Museum",
+            "hu": "Salisbury Múzeum",
+            "ro": "Muzeul Salisbury",
+            "en": "The Salisbury Museum"
+          },
+          "coords": [
+            -1.796,
+            51.0668
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für nach dem Mittagessen, bietet Schutz bei jedem Wetter.",
+            "hu": "Ideális ebéd utánra, menedéket nyújt bármilyen időjárás esetén.",
+            "ro": "Ideal pentru după prânz, oferă adăpost indiferent de vreme.",
+            "en": "Ideal for after lunch, offering shelter whatever the weather."
+          }
+        },
+        {
+          "name": {
+            "de": "Poultry Cross",
+            "hu": "Poultry Cross (Baromfi-kereszt)",
+            "ro": "Crucea Poultry",
+            "en": "Poultry Cross"
+          },
+          "coords": [
+            -1.7958,
+            51.0691
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zum Herzen des Marktplatzes.",
+            "hu": "Rövid séta a múzeumtól a piactér szívébe.",
+            "ro": "O scurtă plimbare de la muzeu până în inima pieței.",
+            "en": "A quick walk from the museum into the heart of the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Queen Elizabeth Gärten",
+            "hu": "Erzsébet királynő kertjei",
+            "ro": "Grădinile Reginei Elisabeta",
+            "en": "Queen Elizabeth Gardens"
+          },
+          "coords": [
+            -1.8005,
+            51.0645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Millstream Coach Park, um einen einfachen Zugang zu den Gärten zu erhalten.",
+            "hu": "Vezess a Millstream Coach Parkhoz, ahonnan könnyen elérheted a kerteket.",
+            "ro": "Conduceți spre Millstream Coach Park pentru acces ușor la grădini.",
+            "en": "Drive and park at Millstream Coach Park for easy access to the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Rifles Museum",
+            "hu": "A Puskások Múzeuma",
+            "ro": "Muzeul Rifles",
+            "en": "The Rifles Museum"
+          },
+          "coords": [
+            -1.7968,
+            51.0648
+          ],
+          "category": "museums",
+          "arrive_at": "16:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang über die Brücke von den Gärten aus.",
+            "hu": "Rövid séta a hídon át a kertekből.",
+            "ro": "O scurtă plimbare peste pod din grădini.",
+            "en": "A short walk across the bridge from the gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt zum alten Hügelkastell von Old Sarum, um einen Panoramablick zu genießen. Fahren Sie dann ins Stadtzentrum und parken Sie Ihr Auto für den Rest des Vormittags. Ein Spaziergang führt Sie zur beeindruckenden Kathedrale, dem eleganten Mompesson House und dem faszinierenden Salisbury Museum. Nach dem Mittagessen in der Nähe des Poultry Cross fahren Sie zu den ruhigen Queen Elizabeth Gardens. Beenden Sie Ihren Tag mit einem kurzen Spaziergang zum Rifles Museum, bevor Sie die Heimreise antreten.",
+        "hu": "Kezdje a napot egy autózással az ősi Old Sarum domberődhöz a panorámás kilátásért. Ezután hajtson be a városközpontba, és parkolja le az autót a délelőtt hátralévő részére. Egy séta elvezeti a lenyűgöző katedrálishoz, az elegáns Mompesson-házhoz és a lenyűgöző Salisbury Múzeumhoz. Ebéd után a Poultry Cross közelében autózzon el a nyugodt Erzsébet királynő kertjeihez. A napot egy rövid sétával fejezze be a Puskások Múzeumában, mielőtt hazaindulna.",
+        "ro": "Începeți ziua cu o plimbare cu mașina până la vechea fortăreață de pe deal, Old Sarum, pentru vederi panoramice. Apoi, conduceți în centrul orașului, parcând mașina pentru restul dimineții. O plimbare pe jos vă va duce la impresionanta Catedrală, la eleganta Casă Mompesson și la fascinantul Muzeu Salisbury. După prânz, lângă Poultry Cross, faceți o scurtă plimbare cu mașina până la liniștitele Grădini ale Reginei Elisabeta. Încheiați ziua cu o scurtă plimbare până la Muzeul Rifles înainte de a vă întoarce acasă.",
+        "en": "Start your day with a drive to the ancient hill fort of Old Sarum for panoramic views. Then, drive into the city centre, parking your car for the rest of the morning. A walking cluster takes you to the stunning Cathedral, the elegant Mompesson House, and the fascinating Salisbury Museum. After lunch near Poultry Cross, take a short drive to the tranquil Queen Elizabeth Gardens. End your day with a final short walk to The Rifles Museum before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Pheasant Inn",
+            "tip": "Etwas außerhalb der Stadt, mit dem Auto erreichbar, bekannt für seinen Sonntagsbraten."
+          },
+          {
+            "name": "Fish & Chips",
+            "tip": "Ein Muss in Großbritannien. Nehmen Sie welche zum Mitnehmen und essen Sie sie in den Queen Elizabeth Gardens."
+          },
+          {
+            "name": "Cream Tea",
+            "tip": "Genießen Sie Scones mit Clotted Cream und Marmelade in einem der vielen Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Pheasant Inn",
+            "tip": "Kicsit a városon kívül, autóval elérhető, híres a vasárnapi sültjéről."
+          },
+          {
+            "name": "Fish & Chips",
+            "tip": "Brit klasszikus. Vegyél egyet elvitelre, és edd meg az Erzsébet királynő kertjeiben."
+          },
+          {
+            "name": "Cream Tea",
+            "tip": "Élvezz egy teát pogácsával, sűrített tejszínnel és lekvárral az egyik kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Pheasant Inn",
+            "tip": "Puțin în afara orașului, accesibil cu mașina, cunoscut pentru friptura de duminică."
+          },
+          {
+            "name": "Fish & Chips",
+            "tip": "O necesitate britanică. Luați la pachet și mâncați în Grădinile Reginei Elisabeta."
+          },
+          {
+            "name": "Cream Tea",
+            "tip": "Bucurați-vă de scones cu smântână și gem la una dintre numeroasele cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Pheasant Inn",
+            "tip": "Slightly out of town, accessible by car, known for its Sunday roast."
+          },
+          {
+            "name": "Fish & Chips",
+            "tip": "A British staple. Get a takeaway and eat them in Queen Elizabeth Gardens."
+          },
+          {
+            "name": "Cream Tea",
+            "tip": "Enjoy scones with clotted cream and jam at one of the many tea rooms."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Old Sarum Wälle",
+            "tip": "Gehen Sie auf den alten Erdwällen spazieren, um Ruhe und weite Ausblicke zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kathedralen-Gelände am frühen Morgen",
+            "tip": "Erleben Sie die Ruhe des Geländes, bevor die Menschenmassen ankommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Gassen",
+            "tip": "Verlassen Sie die Hauptstraßen und erkunden Sie die engen Gassen rund um den Marktplatz.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Old Sarum sáncai",
+            "tip": "Sétálj végig az ősi földsáncokon a békéért és a tágas kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Katedrális területe kora reggel",
+            "tip": "Tapasztald meg a terület nyugalmát, mielőtt megérkezik a tömeg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett sikátorok",
+            "tip": "Térj le a főutcákról, és fedezd fel a piactér körüli szűk sikátorokat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Meterezele din Old Sarum",
+            "tip": "Plimbați-vă pe vechile lucrări de terasament pentru liniște și vederi ample.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Incinta Catedralei dimineața devreme",
+            "tip": "Experimentați liniștea incintei înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțe ascunse",
+            "tip": "Ieșiți de pe străzile principale și explorați aleile înguste din jurul pieței.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Sarum Ramparts",
+            "tip": "Walk the ancient earthworks for peace and expansive views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cathedral Close in the early morning",
+            "tip": "Experience the tranquility of the grounds before the crowds arrive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden Alleys",
+            "tip": "Step off the main streets and explore the narrow alleys around the market square.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Britford Farm Shop",
+            "tip": "Eine kurze Autofahrt entfernt, für ausgezeichnete lokale Produkte, Fleisch und Käse."
+          },
+          {
+            "name": "Cross Keys Shopping",
+            "tip": "Ein überdachtes Einkaufszentrum im Stadtzentrum mit einer Vielzahl von Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Britford Farm Shop",
+            "tip": "Rövid autóútra található, kiváló helyi termékekért, húsokért és sajtokért."
+          },
+          {
+            "name": "Cross Keys Shopping",
+            "tip": "Fedett bevásárlóközpont a városközpontban, sokféle üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fermei Britford",
+            "tip": "La o scurtă distanță cu mașina pentru produse locale excelente, carne și brânzeturi."
+          },
+          {
+            "name": "Cross Keys Shopping",
+            "tip": "Un centru comercial acoperit în centrul orașului, cu o varietate de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Britford Farm Shop",
+            "tip": "A short drive away for excellent local produce, meats, and cheeses."
+          },
+          {
+            "name": "Cross Keys Shopping",
+            "tip": "A covered mall in the city centre with a variety of shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Ride-Dienste, um Verkehr und Parkgebühren im Stadtzentrum zu vermeiden.",
+          "Die Parkplätze können teuer sein; prüfen Sie die Tarife und ziehen Sie Langzeitparkplätze in Betracht.",
+          "Salisbury hat ein Einbahnstraßensystem, das für Erstbesucher verwirrend sein kann. Verwenden Sie GPS.",
+          "Buchen Sie Tickets für Old Sarum und die Kathedrale online im Voraus, um Warteschlangen zu vermeiden."
+        ],
+        "hu": [
+          "Használd a Park and Ride szolgáltatásokat, hogy elkerüld a forgalmat és a parkolási díjakat a városközpontban.",
+          "A parkolás drága lehet; ellenőrizd a díjakat, és fontold meg a hosszú távú parkolókat.",
+          "Salisburyben egyirányú rendszer van, ami zavaró lehet az első látogatóknak. Használj GPS-t.",
+          "Foglalj jegyet Old Sarumba és a katedrálisba online előre, hogy elkerüld a sorban állást."
+        ],
+        "ro": [
+          "Folosiți serviciile Park and Ride pentru a evita traficul și taxele de parcare din centrul orașului.",
+          "Parcarea poate fi costisitoare; verificați tarifele și luați în considerare parcările pe termen lung.",
+          "Salisbury are un sistem unic de sensuri unice care poate fi confuz pentru vizitatorii noi. Folosiți GPS.",
+          "Rezervați biletele online în avans pentru Old Sarum și Catedrală pentru a evita cozile."
+        ],
+        "en": [
+          "Use the Park and Ride services to avoid city centre traffic and parking fees.",
+          "Car parks can be expensive; check rates and consider long-stay car parks.",
+          "Salisbury has a one-way system that can be confusing for first-time visitors. Use GPS.",
+          "Book tickets for Old Sarum and the Cathedral online in advance to skip queues."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Poultry Cross",
+            "hu": "Poultry Cross (Baromfi-kereszt)",
+            "ro": "Crucea Poultry",
+            "en": "Poultry Cross"
+          },
+          "coords": [
+            -1.7958,
+            51.0691
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem zentralen Wahrzeichen, das von den meisten Stadtbuslinien leicht zu erreichen ist.",
+            "hu": "Kezdje a napot ennél a központi nevezetességnél, amely a legtöbb városi buszjárattal könnyen megközelíthető.",
+            "ro": "Începeți ziua la acest punct de reper central, ușor accesibil cu majoritatea rutelor de autobuz din oraș.",
+            "en": "Start your day at this central landmark, easily reached by most city bus routes."
+          }
+        },
+        {
+          "name": {
+            "de": "Salisbury Kathedrale",
+            "hu": "Salisbury-i katedrális",
+            "ro": "Catedrala din Salisbury",
+            "en": "Salisbury Cathedral"
+          },
+          "coords": [
+            -1.7975,
+            51.0652
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Marktplatz entfernt, der erste Halt in Ihrem Wandercluster im Stadtzentrum.",
+            "hu": "Rövid séta a piactérről, az első megálló a belvárosi séta-klaszterben.",
+            "ro": "O scurtă plimbare de la piață, prima oprire în clusterul dvs. de mers pe jos din centrul orașului.",
+            "en": "A short walk from the market square, the first stop in your city-centre walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Salisbury Museum",
+            "hu": "Salisbury Múzeum",
+            "ro": "Muzeul Salisbury",
+            "en": "The Salisbury Museum"
+          },
+          "coords": [
+            -1.796,
+            51.0668
+          ],
+          "category": "museums",
+          "arrive_at": "10:52",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Hotel liegt direkt neben der Kathedrale und ist leicht zu Fuß zu erreichen.",
+            "hu": "A katedrális mellett található, könnyen megközelíthető gyalog.",
+            "ro": "Situat chiar lângă catedrală, o plimbare ușoară.",
+            "en": "Located right next to the cathedral, an easy walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Old Sarum",
+            "hu": "Old Sarum",
+            "ro": "Old Sarum",
+            "en": "Old Sarum"
+          },
+          "coords": [
+            -1.8,
+            51.0925
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:52",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum. Die Fahrt bietet Ihnen eine andere Perspektive auf die Stadt.",
+            "hu": "Vegyél buszt a városközpontból. Az utazás más perspektívát ad a városról.",
+            "ro": "Luați un autobuz din centrul orașului. Călătoria vă oferă o perspectivă diferită asupra orașului.",
+            "en": "Catch a bus from the city centre. The journey gives you a different perspective of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Queen Elizabeth Gärten",
+            "hu": "Erzsébet királynő kertjei",
+            "ro": "Grădinile Reginei Elisabeta",
+            "en": "Queen Elizabeth Gardens"
+          },
+          "coords": [
+            -1.8005,
+            51.0645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück in die Stadt und steigen Sie in der Nähe der Gärten aus, um einen entspannten Nachmittag zu verbringen.",
+            "hu": "Vegyél buszt vissza a városba, és szállj le a kertek közelében egy pihentető délutánra.",
+            "ro": "Luați autobuzul înapoi în oraș și coborâți lângă grădini pentru o după-amiază relaxantă.",
+            "en": "Take the bus back into town and alight near the gardens for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "High Street Gate",
+            "hu": "High Street kapu",
+            "ro": "Poarta High Street",
+            "en": "High Street Gate"
+          },
+          "coords": [
+            -1.7981,
+            51.0664
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:45",
+          "stay_min": 35,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Spaziergang durch dieses Tor, stellen Sie sich die Geschichte vor, die es gesehen hat.",
+            "hu": "Fejezd be a túrát egy sétával ezen a kapun keresztül, képzeld el a történelmet, amit látott.",
+            "ro": "Încheiați-vă turul plimbându-vă prin această poartă, imaginându-vă istoria pe care a văzut-o.",
+            "en": "End your tour by walking through this gate, imagining the history it has seen."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Salisbury, wo Sie die Kathedrale und das Museum zu Fuß erkunden. Dieser erste Cluster ermöglicht es Ihnen, das historische Zentrum der Stadt in sich aufzunehmen. Gegen Mittag nehmen Sie einen Bus nach Old Sarum. Dieser Transit-Sprung bringt Sie aus der Stadt heraus zu dem alten Hügelkastell mit seiner weiten Aussicht. Verbringen Sie dort eine gute Zeit, bevor Sie mit dem Bus zurück in die Stadt fahren, um am Nachmittag in den Queen Elizabeth Gardens zu entspannen. Ein letzter kurzer Spaziergang führt Sie durch das historische High Street Gate und beendet Ihre Reise durch Salisburys Vergangenheit und Gegenwart.",
+        "hu": "Kezdje a napot Salisbury szívében, gyalogosan felfedezve a katedrálist és a múzeumot. Ez az első klaszter lehetővé teszi, hogy magába szívja a város történelmi központját. Dél körül szálljon buszra Old Sarumba. Ez a közlekedési ugrás kiviszi a városból az ősi domberődhöz, ahonnan csodálatos kilátás nyílik. Töltsön el ott egy jó időt, mielőtt visszabuszozna a városba, hogy délután pihenjen az Erzsébet királynő kertjeiben. Egy utolsó rövid séta a történelmi High Street kapun keresztül vezet, lezárva utazását Salisbury múltján és jelenén keresztül.",
+        "ro": "Începeți ziua în inima orașului Salisbury, explorând pe jos Catedrala și Muzeul. Acest prim grup vă permite să absorbiți centrul istoric al orașului. În jurul prânzului, luați un autobuz spre Old Sarum. Acest salt cu transportul în comun vă scoate din oraș la vechea fortăreață de pe deal, cu priveliștile sale ample. Petreceți timp de calitate acolo înainte de a lua autobuzul înapoi în oraș pentru a vă relaxa în Grădinile Reginei Elisabeta după-amiaza. O ultimă plimbare scurtă vă va duce prin Poarta istorică High Street, încheind călătoria prin trecutul și prezentul Salisbury.",
+        "en": "Begin your day in the heart of Salisbury, exploring the Cathedral and Museum on foot. This first cluster allows you to absorb the city's historic core. Around midday, hop on a bus to Old Sarum. This transit hop takes you out of the city to the ancient hill fort with its expansive views. Spend quality time there before catching a bus back into town to relax in Queen Elizabeth Gardens in the afternoon. A final short walk takes you through the historic High Street Gate, completing your journey through Salisbury's past and present."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Bell and Crown",
+            "tip": "Ein Pub am Flussufer in der Nähe einer Bushaltestelle, ideal für ein Pint, während Sie auf Ihre Fahrt warten."
+          },
+          {
+            "name": "Kornische Pastete",
+            "tip": "Ein schneller und sättigender Snack, den Sie in vielen Bäckereien im Stadtzentrum finden."
+          },
+          {
+            "name": "The Charter 1227",
+            "tip": "Ein Restaurant mit gehobener Küche, wenn Sie sich etwas gönnen möchten. Reservieren Sie im Voraus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Bell and Crown",
+            "tip": "Folyóparti pub egy buszmegálló közelében, ideális egy sörre, amíg a járatodra vársz."
+          },
+          {
+            "name": "Cornwalli táska",
+            "tip": "Gyors és laktató harapnivaló, amelyet számos belvárosi pékségben megtalálsz."
+          },
+          {
+            "name": "The Charter 1227",
+            "tip": "Elegáns étterem, ha valami különlegesre vágysz. Foglalj előre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Bell and Crown",
+            "tip": "Un pub pe malul râului, aproape de o stație de autobuz, excelent pentru o halbă în timp ce așteptați cursa."
+          },
+          {
+            "name": "Plăcintă cornișă",
+            "tip": "O gustare rapidă și sățioasă găsită la multe brutării din centrul orașului."
+          },
+          {
+            "name": "The Charter 1227",
+            "tip": "Un restaurant rafinat dacă doriți să vă răsfățați. Rezervați în avans."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Bell and Crown",
+            "tip": "A riverside pub close to a bus stop, great for a pint while waiting for your ride."
+          },
+          {
+            "name": "Cornish Pasty",
+            "tip": "A quick and filling snack found at many bakeries in the city centre."
+          },
+          {
+            "name": "The Charter 1227",
+            "tip": "A fine dining restaurant if you're looking to splurge. Book ahead."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die obere Etage eines Doppeldeckerbusses",
+            "tip": "Genießen Sie die Aussicht auf die Stadt von einem einzigartigen Aussichtspunkt aus.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank im Cathedral Close",
+            "tip": "Sitzen Sie und bewundern Sie die Architektur in einer friedlichen Umgebung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang des Town Path",
+            "tip": "Ein einfacher Spaziergang von den Gärten aus mit klassischem Blick auf die Kathedrale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Élvezd a város látképét egy egyedi nézőpontból.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a katedrális udvarán",
+            "tip": "Ülj le és csodáld az építészetet békés környezetben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Town Path mentén",
+            "tip": "Könnyű séta a kertekből a klasszikus katedrális-kilátással.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz cu etaj",
+            "tip": "Bucurați-vă de priveliștile orașului dintr-un punct de observație unic.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în incinta Catedralei",
+            "tip": "Stați și admirați arhitectura într-un cadru liniștit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul Town Path",
+            "tip": "O plimbare ușoară din grădini, cu vederi clasice ale catedralei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "The top deck of a double-decker bus",
+            "tip": "Enjoy views of the city from a unique vantage point.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in the Cathedral Close",
+            "tip": "Sit and admire the architecture in a peaceful setting.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the Town Path",
+            "tip": "An easy walk from the gardens with classic cathedral views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs in der Kathedrale",
+            "tip": "Der Geschenkeladen der Kathedrale hat eine große Auswahl an einzigartigen Geschenken."
+          },
+          {
+            "name": "Unabhängige Geschäfte in der High Street",
+            "tip": "Erkunden Sie die Geschäfte in der Nähe des High Street Gate zu Fuß."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvénírek a katedrálisban",
+            "tip": "A katedrális ajándékboltjában egyedi ajándékok széles választéka található."
+          },
+          {
+            "name": "Független üzletek a High Streeten",
+            "tip": "Fedezd fel gyalog a High Street Gate közelében lévő üzleteket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la Catedrală",
+            "tip": "Magazinul de cadouri al Catedralei are o selecție excelentă de cadouri unice."
+          },
+          {
+            "name": "Magazine independente pe High Street",
+            "tip": "Explorați pe jos magazinele din apropierea Porții High Street."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Souvenirs",
+            "tip": "The Cathedral gift shop has a great selection of unique gifts."
+          },
+          {
+            "name": "High Street Independents",
+            "tip": "Explore the shops near the High Street Gate on foot."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für unbegrenzte Fahrten, was kostengünstiger sein kann.",
+          "Laden Sie die App des örtlichen Busunternehmens herunter, um Fahrpläne und Echtzeit-Tracking zu erhalten.",
+          "Die Busse können im Berufsverkehr voll sein, planen Sie also entsprechend.",
+          "Stellen Sie sicher, dass Sie den Busfahrern ein Zeichen geben, damit sie wissen, dass Sie an der Haltestelle anhalten möchten."
+        ],
+        "hu": [
+          "Vegyél egy napijegyet a korlátlan utazáshoz, ami költséghatékonyabb lehet.",
+          "Töltsd le a helyi busztársaság alkalmazását a menetrendekért és a valós idejű követésért.",
+          "A buszok csúcsforgalomban zsúfoltak lehetnek, tervezz ennek megfelelően.",
+          "Ints a buszsofőröknek, hogy tudják, fel akarsz szállni a megállóban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate, care poate fi mai rentabil.",
+          "Descărcați aplicația companiei locale de autobuze pentru orare și urmărire în timp real.",
+          "Autobuzele pot fi aglomerate în timpul orelor de vârf, așa că planificați-vă în consecință.",
+          "Asigurați-vă că faceți semn șoferilor de autobuz pentru a-i anunța că doriți să se oprească la stația dvs."
+        ],
+        "en": [
+          "Buy a day rider bus ticket for unlimited travel, which can be more cost-effective.",
+          "Download the local bus company's app for timetables and real-time tracking.",
+          "Buses can be crowded during peak hours, so plan accordingly.",
+          "Make sure to hail bus drivers to let them know you want them to stop at your stop."
+        ]
+      }
+    }
+  }
+}

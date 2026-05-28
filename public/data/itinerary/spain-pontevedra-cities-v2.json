@@ -1,0 +1,1556 @@
+{
+  "city_id": "spain-pontevedra-cities-v2",
+  "anchor": {
+    "name": "Pontevedra",
+    "coords": [
+      -8.6444,
+      42.431
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Praza da Ferrería",
+            "hu": "Praza da Ferrería",
+            "ro": "Praza da Ferrería",
+            "en": "Praza da Ferrería"
+          },
+          "coords": [
+            -8.6475,
+            42.4305
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
+            "en": "Start your day with a coffee at one of the many cafés lining the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Franziskus-Konvent",
+            "hu": "Szent Ferenc-kolostor",
+            "ro": "Mănăstirea San Francisco",
+            "en": "Convent of San Francisco"
+          },
+          "coords": [
+            -8.6466,
+            42.4311
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die gotische Architektur und die ruhige Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a gótikus építészetet és a belső terek békés hangulatát.",
+            "ro": "Observați arhitectura gotică și atmosfera liniștită din interior.",
+            "en": "Pay attention to the Gothic architecture and the serene atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum der Virgen Peregrina",
+            "hu": "A Zarándok Szűzanya szentélye",
+            "ro": "Sanctuarul Fecioarei Pelerine",
+            "en": "Sanctuary of the Pilgrim Virgin"
+          },
+          "coords": [
+            -8.6448,
+            42.4299
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:19",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die einzigartige Jakobsmuschelform des Gebäudes ist ein Symbol des Jakobswegs.",
+            "hu": "Az épület egyedi fésűkagyló alakja a Camino de Santiago szimbóluma.",
+            "ro": "Forma unică de scoică a clădirii este un simbol al pelerinajului Camino de Santiago.",
+            "en": "The building's unique scallop shell shape is a symbol of the Camino de Santiago."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen von Santo Domingo",
+            "hu": "Santo Domingo romjai",
+            "ro": "Ruinele Santo Domingo",
+            "en": "Ruins of Santo Domingo"
+          },
+          "coords": [
+            -8.643,
+            42.433
+          ],
+          "category": "museums",
+          "arrive_at": "11:07",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Freilichtmuseum ist faszinierend. Suchen Sie nach den mittelalterlichen Zunftwappen.",
+            "hu": "A szabadtéri múzeum lenyűgöző. Keresse a középkori céhek faragott címereit!",
+            "ro": "Muzeul în aer liber este fascinant. Căutați stemele breslelor medievale.",
+            "en": "The open-air museum is fascinating. Look for the carved crests of medieval guilds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Pontevedra",
+            "hu": "Pontevedra Múzeum",
+            "ro": "Muzeul din Pontevedra",
+            "en": "Pontevedra Museum"
+          },
+          "coords": [
+            -8.6438,
+            42.4325
+          ],
+          "category": "museums",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Es besteht aus sechs Gebäuden. Verpassen Sie nicht den Goldschatz von Caldas de Reis.",
+            "hu": "Hat épületből áll. Ne hagyja ki a Caldas de Reis aranykincsét!",
+            "ro": "Este format din șase clădiri. Nu ratați tezaurul de aur din Caldas de Reis.",
+            "en": "It's composed of six buildings. Don't miss the gold treasure of Caldas de Reis."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Santa María la Mayor",
+            "hu": "Santa María la Mayor-bazilika",
+            "ro": "Bazilica Santa María la Mayor",
+            "en": "Basilica of Santa María la Mayor"
+          },
+          "coords": [
+            -8.648,
+            42.433
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die manuelinische Fassade ist außergewöhnlich. Sie ist als 'die Perle der galicischen Kunst' bekannt.",
+            "hu": "A mánuel stílusú homlokzat kivételes. A „galíciai művészet gyöngyszemeként” ismert.",
+            "ro": "Fațada în stil manuelin este excepțională. Este cunoscută drept „perla artei galice”.",
+            "en": "The Manueline-style facade is exceptional. It is known as 'the pearl of Galician art'."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte do Burgo",
+            "hu": "Ponte do Burgo (Vár hídja)",
+            "ro": "Ponte do Burgo",
+            "en": "Ponte do Burgo (Bridge of the Borough)"
+          },
+          "coords": [
+            -8.6435,
+            42.435
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:08",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine mittelalterliche Brücke, über die die portugiesische Route des Jakobswegs führt.",
+            "hu": "Középkori híd, a Camino portugál útvonalának része. Nagyszerű fotóhelyszín.",
+            "ro": "Un pod medieval pe traseul portughez al pelerinajului Camino. Un loc excelent pentru fotografii.",
+            "en": "A medieval bridge on the Portuguese Way of the Camino. Great for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel der Skulpturen",
+            "hu": "Szobrok Szigete",
+            "ro": "Insula Sculpturilor",
+            "en": "Island of the Sculptures"
+          },
+          "coords": [
+            -8.638,
+            42.437
+          ],
+          "category": "museums",
+          "arrive_at": "15:49",
+          "stay_min": 105,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang durch diesen Park mit zeitgenössischer Kunst im Freien.",
+            "hu": "Tegyen egy pihentető sétát ebben a szabadtéri kortárs művészeti parkban.",
+            "ro": "O plimbare relaxantă prin acest parc de artă contemporană în aer liber.",
+            "en": "A relaxing walk through this outdoor contemporary art park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Pontevedra auf der Praza da Ferrería. Am Vormittag erkunden Sie die gotische Pracht des Convento de San Francisco und die einzigartige Architektur der Kirche der Virgen Peregrina. Nach dem Mittagessen tauchen Sie im Museum von Pontevedra in die galicische Geschichte ein, gefolgt von einem Besuch der beeindruckenden Basilika Santa María la Mayor. Am Nachmittag überqueren Sie die historische Ponte do Burgo und genießen die Ruhe und Kunst auf der Illa das Esculturas. Beenden Sie den Tag mit galicischen Köstlichkeiten.",
+        "hu": "Kezdje a napot Pontevedra szívében, a Praza da Ferrería téren. A délelőtt folyamán fedezze fel a Convento de San Francisco gótikus pompáját és a Virgen Peregrina templom egyedi építészetét. Ebéd után merüljön el Galícia történelmében a Pontevedra Múzeumban, majd látogasson el a lenyűgöző Santa María la Mayor-bazilikához. Délután keljen át a történelmi Ponte do Burgo hídon, és élvezze a csendet és a művészetet az Illa das Esculturas szigeten. Zárja a napot galíciai finomságokkal.",
+        "ro": "Începeți ziua în inima orașului Pontevedra, în Praza da Ferrería. În cursul dimineții, explorați splendoarea gotică a Mănăstirii San Francisco și arhitectura unică a Bisericii Fecioarei Pelerine. După prânz, pătrundeți în istoria galiciană la Muzeul din Pontevedra, urmat de o vizită la impresionanta Bazilică Santa María la Mayor. După-amiaza, traversați istoricul Ponte do Burgo pentru a vă bucura de liniștea și arta de pe Insula Sculpturilor. Încheiați ziua cu delicatese galiciene.",
+        "en": "Start your day in the heart of Pontevedra at Praza da Ferrería. The morning is for exploring the Gothic splendor of the Convent of San Francisco and the unique architecture of the Church of the Pilgrim Virgin. After lunch, delve into Galician history at the Pontevedra Museum, followed by a visit to the impressive Basilica of Santa María la Mayor. In the afternoon, cross the historic Ponte do Burgo to enjoy the tranquility and art on the Island of the Sculptures. End your day with Galician delicacies."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pulpo á Feira",
+            "tip": "Gekochter Oktopus mit Paprika. Ein Muss in Galicien. Probieren Sie ihn im 'Pulpeira A Re-Posta'."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Herzhafter Kuchen, gefüllt mit Thunfisch, Kabeljau oder Fleisch. Perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Albariño Wein",
+            "tip": "Ein frischer Weißwein aus der Region, der perfekt zu Meeresfrüchten passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pulpo á Feira",
+            "tip": "Főtt polip paprikával. Galíciában kötelező. Kóstolja meg a 'Pulpeira A Re-Posta' étteremben."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Sós pite tonhallal, tőkehallal vagy hússal töltve. Tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Albariño bor",
+            "tip": "Helyi, friss fehérbor, amely tökéletesen illik a tenger gyümölcseihez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pulpo á Feira",
+            "tip": "Caracatiță fiartă cu boia. O specialitate obligatorie în Galicia. Încercați-o la 'Pulpeira A Re-Posta'."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Plăcintă sărată umplută cu ton, cod sau carne. Perfectă pentru un prânz rapid."
+          },
+          {
+            "name": "Vin Albariño",
+            "tip": "Un vin alb proaspăt din regiune, care se potrivește perfect cu fructele de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pulpo á Feira",
+            "tip": "Boiled octopus with paprika. A must-try in Galicia. Taste it at 'Pulpeira A Re-Posta'."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Savory pie filled with tuna, cod, or meat. Perfect for a quick lunch."
+          },
+          {
+            "name": "Albariño Wine",
+            "tip": "A crisp, local white wine that pairs perfectly with seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Illa das Esculturas",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses Lérez, umgeben von Natur und Kunst.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Pazo de Lourizán",
+            "tip": "Etwas außerhalb der Stadt, aber ein herrlicher Ort der Ruhe mit exotischen Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Lérez",
+            "tip": "Finden Sie eine Bank am Flussufer für einen Moment der Kontemplation.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Illa das Esculturas",
+            "tip": "Egy csendes séta a Lérez folyó mentén, természettel és művészettel körülvéve.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pazo de Lourizán kertjei",
+            "tip": "Kicsit a városon kívül, de csodálatos, békés hely egzotikus fákkal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Lérez partja",
+            "tip": "Keressen egy padot a folyóparton egy kis elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Sculpturilor",
+            "tip": "O plimbare liniștită de-a lungul râului Lérez, înconjurată de natură și artă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Pazo de Lourizán",
+            "tip": "Puțin în afara orașului, dar un loc magnific de pace, cu arbori exotici.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Lérez",
+            "tip": "Găsiți o bancă pe malul râului pentru un moment de contemplație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Island of the Sculptures",
+            "tip": "A quiet walk along the Lérez river, surrounded by nature and art.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Pazo de Lourizán",
+            "tip": "A bit outside the city, but a magnificent place of peace with exotic trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Lérez River",
+            "tip": "Find a bench on the riverbank for a moment of contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Ein lebhafter Markt, auf dem Sie frische Meeresfrüchte, Käse und lokale Produkte finden."
+          },
+          {
+            "name": "Altstadtgeschäfte",
+            "tip": "Stöbern Sie in den kleinen Läden nach handgefertigter Keramik und galicischem Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Élénk piac, ahol friss tenger gyümölcseit, sajtokat és helyi termékeket talál."
+          },
+          {
+            "name": "Óvárosi üzletek",
+            "tip": "Böngésszen a kis boltokban kézzel készített kerámiák és galíciai kézműves termékek után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "O piață plină de viață unde puteți găsi fructe de mare proaspete, brânzeturi și produse locale."
+          },
+          {
+            "name": "Magazinele din centrul vechi",
+            "tip": "Căutați prin micile magazine ceramică artizanală și obiecte de artizanat galiciene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "A lively market where you can find fresh seafood, cheese, and local produce."
+          },
+          {
+            "name": "Old Town Shops",
+            "tip": "Browse the small shops for handmade ceramics and Galician crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Pontevedra ist extrem fußgängerfreundlich. Tragen Sie bequeme Schuhe.",
+          "Viele Geschäfte und sogar einige Museen schließen zur Siesta (ca. 14:00-17:00 Uhr).",
+          "Probieren Sie unbedingt den lokalen Albariño-Wein.",
+          "Die Altstadt ist ein Labyrinth aus engen Gassen. Es macht Spaß, sich darin zu verirren."
+        ],
+        "hu": [
+          "Pontevedra rendkívül gyalogosbarát. Viseljen kényelmes cipőt.",
+          "Sok üzlet, sőt néhány múzeum is bezár a szieszta idejére (kb. 14:00-17:00).",
+          "Feltétlenül kóstolja meg a helyi Albariño bort.",
+          "Az óváros szűk utcák labirintusa. Jó móka eltévedni benne."
+        ],
+        "ro": [
+          "Pontevedra este extrem de prietenos cu pietonii. Purtați încălțăminte confortabilă.",
+          "Multe magazine și chiar unele muzee se închid pentru siestă (aprox. 14:00-17:00).",
+          "Asigurați-vă că încercați vinul local Albariño.",
+          "Centrul vechi este un labirint de străzi înguste. Este distractiv să te pierzi în el."
+        ],
+        "en": [
+          "Pontevedra is extremely pedestrian-friendly. Wear comfortable shoes.",
+          "Many shops and even some museums close for siesta (around 2 PM to 5 PM).",
+          "Be sure to try the local Albariño wine.",
+          "The old town is a maze of narrow streets. It's fun to get lost in it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Praza da Ferrería",
+            "hu": "Kerékpárkölcsönzés és Praza da Ferrería",
+            "ro": "Închiriere biciclete & Praza da Ferrería",
+            "en": "Bike Rental & Praza da Ferrería"
+          },
+          "coords": [
+            -8.6475,
+            42.4305
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad und genießen Sie einen Kaffee, bevor Sie losfahren.",
+            "hu": "Béreljen kerékpárt, és igyon egy kávét, mielőtt útnak indul.",
+            "ro": "Închiriați o bicicletă și savurați o cafea înainte de a porni.",
+            "en": "Rent a bike and enjoy a coffee before setting off."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum der Virgen Peregrina",
+            "hu": "A Zarándok Szűzanya szentélye",
+            "ro": "Sanctuarul Fecioarei Pelerine",
+            "en": "Sanctuary of the Pilgrim Virgin"
+          },
+          "coords": [
+            -8.6448,
+            42.4299
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und bewundern Sie die einzigartige Architektur.",
+            "hu": "Zárja le a biciklit a közelben, és csodálja meg az egyedi építészetet.",
+            "ro": "Parcați bicicleta în apropiere și admirați arhitectura unică.",
+            "en": "Park your bike nearby and admire the unique architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Pontevedra",
+            "hu": "Pontevedra Múzeum",
+            "ro": "Muzeul din Pontevedra",
+            "en": "Pontevedra Museum"
+          },
+          "coords": [
+            -8.6438,
+            42.4325
+          ],
+          "category": "museums",
+          "arrive_at": "10:34",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, da das Museum aus mehreren Gebäuden besteht.",
+            "hu": "Tervezzen elég időt, mivel a múzeum több épületből áll.",
+            "ro": "Planificați-vă suficient timp, deoarece muzeul este format din mai multe clădiri.",
+            "en": "Plan for enough time as the museum is spread across several buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Santa María la Mayor",
+            "hu": "Santa María la Mayor-bazilika",
+            "ro": "Bazilica Santa María la Mayor",
+            "en": "Basilica of Santa María la Mayor"
+          },
+          "coords": [
+            -8.648,
+            42.433
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk des manuelinischen Stils. Der Blick von oben ist die kurze Radtour wert.",
+            "hu": "A mánuel stílus mesterműve. A fentről nyíló kilátás megéri a rövid biciklizést.",
+            "ro": "O capodoperă în stil manuelin. Priveliștea de sus merită scurta plimbare cu bicicleta.",
+            "en": "A masterpiece of Manueline style. The view from the top is worth the short cycle."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte do Burgo",
+            "hu": "Ponte do Burgo (Vár hídja)",
+            "ro": "Ponte do Burgo",
+            "en": "Ponte do Burgo (Bridge of the Borough)"
+          },
+          "coords": [
+            -8.6435,
+            42.435
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:58",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie über die historische Brücke und stellen Sie sich die Pilger der Vergangenheit vor.",
+            "hu": "Tekerjen át a történelmi hídon, és képzelje el a múlt zarándokait.",
+            "ro": "Traversați podul istoric și imaginați-vă pelerinii din trecut.",
+            "en": "Cycle across the historic bridge and imagine the pilgrims of the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel der Skulpturen",
+            "hu": "Szobrok Szigete",
+            "ro": "Insula Sculpturilor",
+            "en": "Island of the Sculptures"
+          },
+          "coords": [
+            -8.638,
+            42.437
+          ],
+          "category": "museums",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Radtour, um Kunst und Natur zu verbinden.",
+            "hu": "Ideális hely egy kerékpártúrához, amely ötvözi a művészetet és a természetet.",
+            "ro": "Un loc ideal pentru o plimbare cu bicicleta, combinând arta și natura.",
+            "en": "An ideal place for a bike ride, combining art and nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Flussufer für Tapas",
+            "hu": "Vissza a folyópartra tapasozni",
+            "ro": "Întoarcere pe malul râului pentru tapas",
+            "en": "Return to the Riverfront for Tapas"
+          },
+          "coords": [
+            -8.646,
+            42.434
+          ],
+          "category": "gastro",
+          "arrive_at": "16:05",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und belohnen Sie sich mit wohlverdienten galicischen Tapas.",
+            "hu": "Adja le a kerékpárt, és jutalmazza meg magát egy jól megérdemelt galíciai tapasszal.",
+            "ro": "Returnați bicicleta și răsplătiți-vă cu niște tapas galiciene binemeritate.",
+            "en": "Return your bike and reward yourself with some well-deserved Galician tapas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt im Stadtzentrum. Am Morgen radeln Sie zu den wichtigsten religiösen Stätten. Nach einem langen Museumsbesuch am Mittag belohnen Sie sich mit der Aussicht von der Basilika. Der Nachmittag ist einer entspannten Fahrt entlang des Flusses gewidmet, von der historischen Brücke bis zur grünen Skulptureninsel. Am Abend entspannen Sie sich bei lokalen Weinen und Tapas.",
+        "hu": "Kerékpáros kalandja a városközpontban kezdődik. Délelőtt tekerjen el a legfontosabb vallási helyszínekhez. A hosszú déli múzeumlátogatás után jutalmazza meg magát a bazilikából nyíló kilátással. A délutánt egy kellemes folyóparti biciklizésnek szentelheti, a történelmi hídtól a zöldellő Szobrok Szigetéig. Este pihenjen helyi borok és tapasok mellett.",
+        "ro": "Aventura pe bicicletă începe în centrul orașului. Dimineața pedalați spre principalele situri religioase. După o vizită lungă la muzeu la prânz, răsplătiți-vă cu priveliștea de la bazilică. După-amiaza este dedicată unei plimbări relaxante de-a lungul râului, de la podul istoric la Insula verde a Sculpturilor. Seara, relaxați-vă cu vinuri locale și tapas.",
+        "en": "Your cycling adventure starts in the city center. In the morning, you'll pedal to the main religious sites. After a long museum visit at midday, reward yourself with the view from the basilica. The afternoon is dedicated to a pleasant ride along the river, from the historic bridge to the green Island of Sculptures. In the evening, unwind with local wines and tapas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zamburiñas a la plancha",
+            "tip": "Gegrillte Jakobsmuscheln, eine lokale Delikatesse. Einfach und köstlich."
+          },
+          {
+            "name": "Pimientos de Padrón",
+            "tip": "Kleine grüne Paprika, gebraten und mit Salz bestreut. Manche sind scharf, manche nicht!"
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Ein traditioneller Mandelkuchen, oft mit dem Kreuz des heiligen Jakobus verziert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zamburiñas a la plancha",
+            "tip": "Grillezett fésűkagyló, helyi finomság. Egyszerű és ízletes."
+          },
+          {
+            "name": "Pimientos de Padrón",
+            "tip": "Sült, sózott zöldpaprika. Némelyik csípős, némelyik nem!"
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Hagyományos mandulatorta, gyakran a Szent Jakab-kereszttel díszítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zamburiñas a la plancha",
+            "tip": "Scoici la grătar, o delicatesă locală. Simplu și delicios."
+          },
+          {
+            "name": "Pimientos de Padrón",
+            "tip": "Ardei verzi mici, prăjiți și sărați. Unii sunt iuți, alții nu!"
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "O prăjitură tradițională cu migdale, adesea decorată cu crucea Sfântului Iacob."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zamburiñas a la plancha",
+            "tip": "Grilled queen scallops, a local delicacy. Simple and delicious."
+          },
+          {
+            "name": "Pimientos de Padrón",
+            "tip": "Small green peppers, fried and salted. Some are hot, some are not!"
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "A traditional almond cake, often decorated with the cross of St. James."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alameda de Pontevedra",
+            "tip": "Ein schöner Park im Stadtzentrum, perfekt für eine kurze Pause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Flusspfad des Lérez",
+            "tip": "Fahren Sie weiter flussaufwärts für noch mehr Ruhe und Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht von der Ponte dos Tirantes",
+            "tip": "Eine moderne Brücke, die einen anderen Blick auf die Stadt bietet.",
+            "emoji": "🌉"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alameda de Pontevedra",
+            "tip": "Egy gyönyörű park a városközpontban, tökéletes egy rövid pihenőre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Lérez folyó ösvénye",
+            "tip": "Tekerjen tovább a folyón felfelé a még nagyobb csendért és természetért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Ponte dos Tirantes hídról",
+            "tip": "Modern híd, amely másfajta kilátást nyújt a városra.",
+            "emoji": "🌉"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alameda de Pontevedra",
+            "tip": "Un parc frumos în centrul orașului, perfect pentru o scurtă pauză.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Potecă pe malul râului Lérez",
+            "tip": "Pedalați mai departe în amonte pentru și mai multă liniște și natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de pe Ponte dos Tirantes",
+            "tip": "Un pod modern care oferă o perspectivă diferită asupra orașului.",
+            "emoji": "🌉"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alameda de Pontevedra",
+            "tip": "A beautiful park in the city center, perfect for a short break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Lérez River Path",
+            "tip": "Cycle further upstream for even more peace and nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Ponte dos Tirantes",
+            "tip": "A modern bridge offering a different perspective of the city.",
+            "emoji": "🌉"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rúa de Benito Corbal",
+            "tip": "Die Haupteinkaufsstraße für bekannte Marken und Mode."
+          },
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie nach 'Sargadelos'-Keramik, einem berühmten galicischen Design."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rúa de Benito Corbal",
+            "tip": "A fő bevásárlóutca ismert márkákkal és divatüzletekkel."
+          },
+          {
+            "name": "Helyi kézművesség",
+            "tip": "Keressen 'Sargadelos' kerámiát, egy híres galíciai dizájnt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rúa de Benito Corbal",
+            "tip": "Principala stradă comercială pentru mărci cunoscute și modă."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați ceramica 'Sargadelos', un design galician renumit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rúa de Benito Corbal",
+            "tip": "The main shopping street for well-known brands and fashion."
+          },
+          {
+            "name": "Local Crafts",
+            "tip": "Look for 'Sargadelos' pottery, a famous Galician design."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Pontevedra ist größtenteils flach, aber einige Brücken haben leichte Steigungen.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders in der Nähe von Touristenattraktionen.",
+          "Nutzen Sie die Radwege entlang des Flusses für eine sichere und malerische Fahrt.",
+          "Eine Wasserflasche ist unerlässlich, besonders an warmen Tagen."
+        ],
+        "hu": [
+          "Pontevedra nagyrészt sík, de néhány híd enyhén emelkedik.",
+          "Mindig zárja le jól a kerékpárját, különösen a turisztikai látványosságok közelében.",
+          "Használja a folyó menti kerékpárutakat a biztonságos és festői utazáshoz.",
+          "Egy kulacs elengedhetetlen, különösen a meleg napokon."
+        ],
+        "ro": [
+          "Pontevedra este în mare parte plat, dar unele poduri au pante ușoare.",
+          "Legați-vă întotdeauna bine bicicleta, mai ales în apropierea atracțiilor turistice.",
+          "Folosiți pistele de biciclete de-a lungul râului pentru o plimbare sigură și pitorească.",
+          "O sticlă de apă este esențială, mai ales în zilele călduroase."
+        ],
+        "en": [
+          "Pontevedra is mostly flat, but some bridges have slight inclines.",
+          "Always lock your bike securely, especially near tourist attractions.",
+          "Use the bike lanes along the river for a safe and scenic ride.",
+          "A water bottle is essential, especially on warm days."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus im Zentrum & Praza da Ferrería",
+            "hu": "Parkolóház a központban és Praza da Ferrería",
+            "ro": "Parcare centrală & Praza da Ferrería",
+            "en": "Central Parking & Praza da Ferrería"
+          },
+          "coords": [
+            -8.6485,
+            42.4295
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_mode": "car",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto für den Vormittag und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkolja le az autót a délelőttre, és fedezze fel az első látnivalócsoportot gyalog.",
+            "ro": "Parcați mașina pentru dimineață și explorați primul grup de atracții pe jos.",
+            "en": "Park your car for the morning and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Franziskus-Konvent",
+            "hu": "Szent Ferenc-kolostor",
+            "ro": "Mănăstirea San Francisco",
+            "en": "Convent of San Francisco"
+          },
+          "coords": [
+            -8.6466,
+            42.4311
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid séta a főtérről.",
+            "ro": "O scurtă plimbare de la piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum der Virgen Peregrina",
+            "hu": "A Zarándok Szűzanya szentélye",
+            "ro": "Sanctuarul Fecioarei Pelerine",
+            "en": "Sanctuary of the Pilgrim Virgin"
+          },
+          "coords": [
+            -8.6448,
+            42.4299
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:09",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben der Praza da Ferrería, leicht zu finden.",
+            "hu": "Közvetlenül a Praza da Ferrería mellett, könnyű megtalálni.",
+            "ro": "Chiar lângă Praza da Ferrería, ușor de găsit.",
+            "en": "Right next to Praza da Ferrería, easy to find."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen von Santo Domingo & Museum",
+            "hu": "Santo Domingo romjai és Múzeum",
+            "ro": "Ruinele Santo Domingo & Muzeu",
+            "en": "Ruins of Santo Domingo & Museum"
+          },
+          "coords": [
+            -8.643,
+            42.433
+          ],
+          "category": "museums",
+          "arrive_at": "10:47",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die beiden liegen nebeneinander, planen Sie einen längeren Aufenthalt ein.",
+            "hu": "A kettő egymás mellett van, tervezzen hosszabb látogatást.",
+            "ro": "Cele două sunt adiacente, planificați o vizită mai lungă.",
+            "en": "The two are adjacent, plan for a longer visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Flussufer & Basilika Santa María",
+            "hu": "Autóval a folyóparthoz és a Santa María-bazilikához",
+            "ro": "Cu mașina la malul râului și Bazilica Santa María",
+            "en": "Drive to Riverfront & Basilica Santa María"
+          },
+          "coords": [
+            -8.648,
+            42.433
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Suchen Sie einen Parkplatz in der Nähe der Basilika.",
+            "hu": "Vezessen át a második látnivalócsoporthoz. Keressen parkolót a bazilika közelében.",
+            "ro": "Conduceți spre al doilea grup de atracții. Găsiți o parcare lângă bazilică.",
+            "en": "Drive to the second cluster. Find parking near the basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte do Burgo",
+            "hu": "Ponte do Burgo (Vár hídja)",
+            "ro": "Ponte do Burgo",
+            "en": "Ponte do Burgo (Bridge of the Borough)"
+          },
+          "coords": [
+            -8.6435,
+            42.435
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:25",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Basilika zur historischen Brücke.",
+            "hu": "Rövid séta a bazilikától a történelmi hídig.",
+            "ro": "O scurtă plimbare de la bazilică la podul istoric.",
+            "en": "A short walk from the basilica to the historic bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Illa das Esculturas",
+            "hu": "Autóval a Szobrok Szigetére",
+            "ro": "Cu mașina la Insula Sculpturilor",
+            "en": "Drive to Illa das Esculturas"
+          },
+          "coords": [
+            -8.638,
+            42.437
+          ],
+          "category": "museums",
+          "arrive_at": "15:05",
+          "stay_min": 125,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zur Insel für einen entspannenden Nachmittagsspaziergang. Es gibt normalerweise genügend Parkplätze.",
+            "hu": "Vezessen át a szigetre egy pihentető délutáni sétára. Általában van elég parkolóhely.",
+            "ro": "Conduceți spre insulă pentru o plimbare relaxantă de după-amiază. De obicei, există parcare suficientă.",
+            "en": "Drive to the island for a relaxing afternoon walk. There's usually ample parking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie den historischen Kern zu Fuß: Plätze, Kirchen und Museen. Am Nachmittag fahren Sie zum Flussufer, um die beeindruckende Basilika zu besichtigen und über die alte Brücke zu spazieren. Der letzte Halt mit dem Auto ist die Illa das Esculturas, ein perfekter Ort, um den Tag in der Natur ausklingen zu lassen, bevor Sie in die Stadt zurückkehren, um zu Abend zu essen.",
+        "hu": "Parkolja le autóját a központban, és fedezze fel gyalog a történelmi belvárost: tereket, templomokat és múzeumokat. Délután vezessen le a folyóparthoz, hogy megnézze a lenyűgöző bazilikát és sétáljon át a régi hídon. Az utolsó autós megálló az Illa das Esculturas, egy tökéletes hely a nap lezárására a természetben, mielőtt visszatérne a városba vacsorázni.",
+        "ro": "Parcați mașina în centru și explorați nucleul istoric pe jos: piețe, biserici și muzee. După-amiaza, conduceți spre malul râului pentru a vedea impresionanta bazilică și a vă plimba pe podul vechi. Ultima oprire cu mașina este Insula Sculpturilor, un loc perfect pentru a încheia ziua în natură înainte de a vă întoarce în oraș pentru cină.",
+        "en": "Park your car downtown and explore the historic core on foot: squares, churches, and museums. In the afternoon, drive to the riverfront to see the impressive basilica and walk across the old bridge. The final car stop is the Illa das Esculturas, a perfect place to end the day in nature before heading back into town for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mariscada",
+            "tip": "Eine Platte mit verschiedenen Meeresfrüchten. Ein Festmahl, das man am besten teilt."
+          },
+          {
+            "name": "Caldo Gallego",
+            "tip": "Eine herzhafte Suppe mit Bohnen, Gemüse und oft etwas Fleisch. Perfekt an einem kühleren Tag."
+          },
+          {
+            "name": "Filloas",
+            "tip": "Dünne Crêpes, die süß oder herzhaft serviert werden können. Ähnlich wie französische Crêpes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mariscada",
+            "tip": "Vegyes tenger gyümölcsei tál. Lakoma, amit a legjobb megosztani."
+          },
+          {
+            "name": "Caldo Gallego",
+            "tip": "Kiadós leves babból, zöldségekből és gyakran némi húsból. Tökéletes egy hűvösebb napon."
+          },
+          {
+            "name": "Filloas",
+            "tip": "Vékony palacsinta, édesen vagy sósan tálalva. Hasonló a francia crêpes-hez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mariscada",
+            "tip": "Un platou cu fructe de mare asortate. Un festin cel mai bine savurat în comun."
+          },
+          {
+            "name": "Caldo Gallego",
+            "tip": "O supă consistentă cu fasole, legume și adesea puțină carne. Perfectă într-o zi mai răcoroasă."
+          },
+          {
+            "name": "Filloas",
+            "tip": "Clătite subțiri care pot fi servite dulci sau sărate. Similare cu clătitele franțuzești."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mariscada",
+            "tip": "A platter of assorted seafood. A feast best shared."
+          },
+          {
+            "name": "Caldo Gallego",
+            "tip": "A hearty soup with beans, vegetables, and often some meat. Perfect on a cooler day."
+          },
+          {
+            "name": "Filloas",
+            "tip": "Thin crêpes that can be served sweet or savory. Similar to French crêpes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de la Caeira",
+            "tip": "Ein kurzer Abstecher mit dem Auto für einen Panoramablick über die Stadt und die Ria.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de las Palmeras",
+            "tip": "Ein zentraler, aber oft ruhiger Park zum Entspannen.",
+            "emoji": "🌴"
+          },
+          {
+            "name": "Spaziergang entlang des Rio Gafos",
+            "tip": "Ein kleinerer Fluss mit einem schönen Uferweg für einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirador de la Caeira",
+            "tip": "Egy rövid autós kitérő a városra és a torkolatra nyíló panorámás kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de las Palmeras",
+            "tip": "Központi, de gyakran csendes park a pihenéshez.",
+            "emoji": "🌴"
+          },
+          {
+            "name": "Séta a Rio Gafos mentén",
+            "tip": "Egy kisebb folyó szép parti ösvénnyel egy csendes sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de la Caeira",
+            "tip": "Un scurt ocol cu mașina pentru o vedere panoramică asupra orașului și a estuarului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de las Palmeras",
+            "tip": "Un parc central, dar adesea liniștit, pentru relaxare.",
+            "emoji": "🌴"
+          },
+          {
+            "name": "Plimbare de-a lungul Rio Gafos",
+            "tip": "Un râu mai mic cu o potecă frumoasă pe mal pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirador de la Caeira",
+            "tip": "A short drive for a panoramic view over the city and the ria.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de las Palmeras",
+            "tip": "A central but often quiet park for relaxation.",
+            "emoji": "🌴"
+          },
+          {
+            "name": "Walk along the Rio Gafos",
+            "tip": "A smaller river with a lovely riverside path for a quiet walk.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Feira Franca",
+            "tip": "Wenn Sie am ersten Septemberwochenende hier sind, erleben Sie einen riesigen mittelalterlichen Markt."
+          },
+          {
+            "name": "Gourmetläden",
+            "tip": "Kaufen Sie galicische Konserven (Meeresfrüchte), Käse oder Liköre als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Feira Franca",
+            "tip": "Ha szeptember első hétvégéjén jár itt, egy hatalmas középkori vásárt élhet át."
+          },
+          {
+            "name": "Ínyencboltok",
+            "tip": "Vásároljon galíciai konzerveket (tenger gyümölcsei), sajtot vagy likőröket szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Feira Franca",
+            "tip": "Dacă sunteți aici în primul weekend din septembrie, veți experimenta o piață medievală uriașă."
+          },
+          {
+            "name": "Magazine gourmet",
+            "tip": "Cumpărați conserve galiciene (fructe de mare), brânzeturi sau lichioruri ca suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Feira Franca",
+            "tip": "If you're here on the first weekend of September, you'll experience a huge medieval market."
+          },
+          {
+            "name": "Gourmet Shops",
+            "tip": "Buy some canned Galician seafood, cheese, or liqueurs as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann teuer sein. Nutzen Sie die Tiefgaragen.",
+          "Die Altstadt ist eine verkehrsberuhigte Zone. Sie können dort nicht fahren.",
+          "Planen Sie Ihre Cluster, um unnötige Fahrten zu vermeiden.",
+          "Überprüfen Sie die Öffnungszeiten der Parkhäuser, einige schließen nachts."
+        ],
+        "hu": [
+          "A parkolás a városközpontban drága lehet. Használja a mélygarázsokat.",
+          "Az óváros gyalogos zóna. Ott nem lehet vezetni.",
+          "Tervezze meg a látnivalócsoportokat a felesleges autózás elkerülése érdekében.",
+          "Ellenőrizze a parkolóházak nyitvatartási idejét, némelyik éjszaka bezár."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi scumpă. Folosiți parcările subterane.",
+          "Centrul vechi este o zonă cu emisii reduse. Nu puteți conduce acolo.",
+          "Planificați-vă grupurile de atracții pentru a evita deplasările inutile.",
+          "Verificați orele de funcționare ale parcărilor, unele se închid noaptea."
+        ],
+        "en": [
+          "Parking in the city center can be expensive. Use the underground car parks.",
+          "The old town is a low-emission zone. You cannot drive there.",
+          "Plan your clusters to avoid unnecessary driving.",
+          "Check the opening hours of car parks, some close at night."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft an der Praza de Galicia & Kaffee",
+            "hu": "Érkezés a Praza de Galicia térre és kávé",
+            "ro": "Sosire în Praza de Galicia & Cafea",
+            "en": "Arrival at Praza de Galicia & Coffee"
+          },
+          "coords": [
+            -8.643,
+            42.428
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie an einem wichtigen Verkehrsknotenpunkt und spazieren Sie zum nahe gelegenen Praza da Ferrería.",
+            "hu": "Kezdje egy fő közlekedési csomópontnál, és sétáljon a közeli Praza da Ferrería térre.",
+            "ro": "Începeți la un nod important de transport și plimbați-vă până la Praza da Ferrería din apropiere.",
+            "en": "Start at a main transport hub and walk to the nearby Praza da Ferrería."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum der Virgen Peregrina",
+            "hu": "A Zarándok Szűzanya szentélye",
+            "ro": "Sanctuarul Fecioarei Pelerine",
+            "en": "Sanctuary of the Pilgrim Virgin"
+          },
+          "coords": [
+            -8.6448,
+            42.4299
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus, um diese ikonische Kirche zu sehen.",
+            "hu": "Egy rövid séta a térről ehhez az ikonikus templomhoz.",
+            "ro": "O scurtă plimbare din piață pentru a vedea această biserică emblematică.",
+            "en": "A short walk from the square to see this iconic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen von Santo Domingo",
+            "hu": "Santo Domingo romjai",
+            "ro": "Ruinele Santo Domingo",
+            "en": "Ruins of Santo Domingo"
+          },
+          "coords": [
+            -8.643,
+            42.433
+          ],
+          "category": "museums",
+          "arrive_at": "10:29",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Altstadt zu den faszinierenden Ruinen.",
+            "hu": "Sétáljon át az óvároson a lenyűgöző romokhoz.",
+            "ro": "Plimbați-vă prin centrul vechi până la ruinele fascinante.",
+            "en": "Stroll through the old town to the fascinating ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Flussufer & Basilika Santa María",
+            "hu": "Busszal a folyóparthoz és a Santa María-bazilikához",
+            "ro": "Autobuz spre malul râului & Bazilica Santa María",
+            "en": "Bus to Riverfront & Basilica Santa María"
+          },
+          "coords": [
+            -8.648,
+            42.433
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen kurzen Bus, um zum zweiten Cluster des Tages zu gelangen.",
+            "hu": "Menjen egy rövid buszúttal a nap második látnivalócsoportjához.",
+            "ro": "Luați un autobuz scurt pentru a ajunge la al doilea grup de atracții al zilei.",
+            "en": "Take a short bus ride to get to the day's second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Pontevedra",
+            "hu": "Pontevedra Múzeum",
+            "ro": "Muzeul din Pontevedra",
+            "en": "Pontevedra Museum"
+          },
+          "coords": [
+            -8.6438,
+            42.4325
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Flussufer aus ist es ein kurzer Spaziergang zum Museumskomplex.",
+            "hu": "A folyóparttól rövid séta a múzeumkomplexum.",
+            "ro": "De la malul râului este o scurtă plimbare până la complexul muzeal.",
+            "en": "From the riverfront, it's a short walk to the museum complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte do Burgo",
+            "hu": "Ponte do Burgo (Vár hídja)",
+            "ro": "Ponte do Burgo",
+            "en": "Ponte do Burgo (Bridge of the Borough)"
+          },
+          "coords": [
+            -8.6435,
+            42.435
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:58",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehen Sie zum Fluss, um diese mittelalterliche Brücke zu überqueren.",
+            "hu": "Sétáljon le a folyóhoz, hogy átkeljen ezen a középkori hídon.",
+            "ro": "Mergeți spre râu pentru a traversa acest pod medieval.",
+            "en": "Head towards the river to cross this medieval bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zur Illa das Esculturas",
+            "hu": "Busszal a Szobrok Szigetére",
+            "ro": "Autobuz spre Insula Sculpturilor",
+            "en": "Bus to Illa das Esculturas"
+          },
+          "coords": [
+            -8.638,
+            42.437
+          ],
+          "category": "museums",
+          "arrive_at": "15:43",
+          "stay_min": 105,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt bringt Sie zu diesem ruhigen Park.",
+            "hu": "Egy újabb rövid buszút elviszi ehhez a békés parkhoz.",
+            "ro": "O altă călătorie scurtă cu autobuzul vă duce la acest parc liniștit.",
+            "en": "Another short bus ride takes you to this peaceful park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an einem zentralen Busknotenpunkt und erkunden Sie den südlichen Teil der Altstadt zu Fuß. Am Vormittag sehen Sie ikonische Kirchen und historische Ruinen. Nehmen Sie dann einen Bus zum Flussufer für den zweiten Teil Ihres Tages. Besuchen Sie die prächtige Basilika und das Hauptmuseum. Eine letzte Busfahrt bringt Sie zur Illa das Esculturas, einem ruhigen Ort, um den Nachmittag zu verbringen.",
+        "hu": "Kezdje a napot egy központi buszcsomópontnál, és fedezze fel gyalog az óváros déli részét. Délelőtt ikonikus templomokat és történelmi romokat láthat. Ezután szálljon buszra, és menjen le a folyópartra a nap második részére. Látogasson el a csodálatos bazilikához és a főmúzeumhoz. Egy utolsó buszút elviszi az Illa das Esculturas szigetre, egy csendes helyre a délután eltöltéséhez.",
+        "ro": "Începeți ziua la un nod central de autobuz și explorați pe jos partea de sud a centrului vechi. Dimineața veți vedea biserici emblematice și ruine istorice. Apoi, luați un autobuz spre malul râului pentru a doua parte a zilei. Vizitați magnifica bazilică și muzeul principal. O ultimă călătorie cu autobuzul vă va duce pe Insula Sculpturilor, un loc liniștit pentru a petrece după-amiaza.",
+        "en": "Start your day at a central bus hub and explore the southern part of the old town on foot. In the morning, you'll see iconic churches and historic ruins. Then, take a bus to the riverfront for the second part of your day. Visit the magnificent basilica and the main museum. A final bus ride will take you to the Illa das Esculturas, a peaceful place to spend the afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pulpo á Feira",
+            "tip": "Gekochter Oktopus mit Paprika. Ein Muss in Galicien. Probieren Sie ihn im 'Pulpeira A Re-Posta'."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Herzhafter Kuchen, gefüllt mit Thunfisch, Kabeljau oder Fleisch. Perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Albariño Wein",
+            "tip": "Ein frischer Weißwein aus der Region, der perfekt zu Meeresfrüchten passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pulpo á Feira",
+            "tip": "Főtt polip paprikával. Galíciában kötelező. Kóstolja meg a 'Pulpeira A Re-Posta' étteremben."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Sós pite tonhallal, tőkehallal vagy hússal töltve. Tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Albariño bor",
+            "tip": "Helyi, friss fehérbor, amely tökéletesen illik a tenger gyümölcseihez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pulpo á Feira",
+            "tip": "Caracatiță fiartă cu boia. O specialitate obligatorie în Galicia. Încercați-o la 'Pulpeira A Re-Posta'."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Plăcintă sărată umplută cu ton, cod sau carne. Perfectă pentru un prânz rapid."
+          },
+          {
+            "name": "Vin Albariño",
+            "tip": "Un vin alb proaspăt din regiune, care se potrivește perfect cu fructele de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pulpo á Feira",
+            "tip": "Boiled octopus with paprika. A must-try in Galicia. Taste it at 'Pulpeira A Re-Posta'."
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Savory pie filled with tuna, cod, or meat. Perfect for a quick lunch."
+          },
+          {
+            "name": "Albariño Wine",
+            "tip": "A crisp, local white wine that pairs perfectly with seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Illa das Esculturas",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses Lérez, umgeben von Natur und Kunst.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alameda de Pontevedra",
+            "tip": "Ein schöner Park im Stadtzentrum, perfekt für eine kurze Pause zwischen den Busfahrten.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Lérez",
+            "tip": "Finden Sie eine Bank am Flussufer für einen Moment der Kontemplation.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Illa das Esculturas",
+            "tip": "Egy csendes séta a Lérez folyó mentén, természettel és művészettel körülvéve.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alameda de Pontevedra",
+            "tip": "Egy gyönyörű park a városközpontban, tökéletes egy rövid pihenőre a buszozások között.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Lérez partja",
+            "tip": "Keressen egy padot a folyóparton egy kis elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Sculpturilor",
+            "tip": "O plimbare liniștită de-a lungul râului Lérez, înconjurată de natură și artă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alameda de Pontevedra",
+            "tip": "Un parc frumos în centrul orașului, perfect pentru o scurtă pauză între călătoriile cu autobuzul.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malurile râului Lérez",
+            "tip": "Găsiți o bancă pe malul râului pentru un moment de contemplație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Island of the Sculptures",
+            "tip": "A quiet walk along the Lérez river, surrounded by nature and art.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alameda de Pontevedra",
+            "tip": "A beautiful park in the city center, perfect for a short break between bus rides.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of the Lérez River",
+            "tip": "Find a bench on the riverbank for a moment of contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Ein lebhafter Markt, auf dem Sie frische Meeresfrüchte, Käse und lokale Produkte finden."
+          },
+          {
+            "name": "Altstadtgeschäfte",
+            "tip": "Stöbern Sie in den kleinen Läden nach handgefertigter Keramik und galicischem Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Élénk piac, ahol friss tenger gyümölcseit, sajtokat és helyi termékeket talál."
+          },
+          {
+            "name": "Óvárosi üzletek",
+            "tip": "Böngésszen a kis boltokban kézzel készített kerámiák és galíciai kézműves termékek után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "O piață plină de viață unde puteți găsi fructe de mare proaspete, brânzeturi și produse locale."
+          },
+          {
+            "name": "Magazinele din centrul vechi",
+            "tip": "Căutați prin micile magazine ceramică artizanală și obiecte de artizanat galiciene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "A lively market where you can find fresh seafood, cheese, and local produce."
+          },
+          {
+            "name": "Old Town Shops",
+            "tip": "Browse the small shops for handmade ceramics and Galician crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine wiederaufladbare Buskarte für mehr Komfort.",
+          "Die Buslinien decken die Stadt gut ab, aber die Frequenz kann variieren.",
+          "Überprüfen Sie den Fahrplan im Voraus, besonders für spätere Fahrten.",
+          "Behalten Sie Ihre Sachen in überfüllten Bussen im Auge."
+        ],
+        "hu": [
+          "Vásároljon újratölthető buszkártyát a kényelem érdekében.",
+          "A buszjáratok jól lefedik a várost, de a járatok sűrűsége változó lehet.",
+          "Ellenőrizze előre a menetrendet, különösen a későbbi járatok esetében.",
+          "Tartsa szemmel a holmiját a zsúfolt buszokon."
+        ],
+        "ro": [
+          "Cumpărați un card de autobuz reîncărcabil pentru mai mult confort.",
+          "Liniile de autobuz acoperă bine orașul, dar frecvența poate varia.",
+          "Verificați orarul în avans, mai ales pentru călătoriile de mai târziu.",
+          "Fiți cu ochii pe bunurile dvs. în autobuzele aglomerate."
+        ],
+        "en": [
+          "Buy a rechargeable bus card for convenience.",
+          "Bus routes cover the city well, but frequency can vary.",
+          "Check the schedule in advance, especially for later trips.",
+          "Keep an eye on your belongings on crowded buses."
+        ]
+      }
+    }
+  }
+}

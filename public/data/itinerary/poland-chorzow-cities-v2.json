@@ -1,0 +1,1247 @@
+{
+  "city_id": "poland-chorzow-cities-v2",
+  "anchor": {
+    "name": "Rynek w Chorzowie",
+    "coords": [
+      18.9447,
+      50.2975
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz in Chorzów",
+            "hu": "Chorzówi piactér",
+            "ro": "Piața din Chorzów",
+            "en": "Chorzów Market Square"
+          },
+          "coords": [
+            18.9447,
+            50.2975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee und beobachten Sie das Stadtleben.",
+            "hu": "Kezdje itt a napot egy kávéval és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, observând viața orașului.",
+            "en": "Start here with a coffee and watch the city life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Förderturm des Präsidentenschachts",
+            "hu": "Prezydent aknatorony",
+            "ro": "Turnul minei Prezydent",
+            "en": "President Mine Shaft Tower"
+          },
+          "coords": [
+            18.948,
+            50.295
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss für Fans der Industriekultur. Die Aussicht von oben ist fantastisch.",
+            "hu": "Az ipari kultúra rajongóinak kötelező. A kilátás fentről fantasztikus.",
+            "ro": "O vizită obligatorie pentru fanii culturii industriale. Priveliștea de sus este fantastică.",
+            "en": "A must-see for fans of industrial culture. The view from the top is fantastic."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Chorzów",
+            "hu": "Chorzówi Kulturális Központ",
+            "ro": "Centrul Cultural Chorzów",
+            "en": "Chorzów Cultural Centre"
+          },
+          "coords": [
+            18.951,
+            50.298
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm für Abendvorstellungen oder Ausstellungen.",
+            "hu": "Nézze meg az esti előadások vagy kiállítások programját.",
+            "ro": "Verificați programul pentru spectacole de seară sau expoziții.",
+            "en": "Check the schedule for evening performances or exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesischer Park",
+            "hu": "Sziléziai Park",
+            "ro": "Parcul Silezian",
+            "en": "Silesian Park"
+          },
+          "coords": [
+            18.983,
+            50.278
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für ein Mittagspicknick. Weitläufig und voller Attraktionen.",
+            "hu": "Tökéletes hely egy ebédpiknikhez. Hatalmas és tele van látnivalókkal.",
+            "ro": "Locul perfect pentru un picnic la prânz. Vastă și plină de atracții.",
+            "en": "The perfect spot for a lunch picnic. Vast and full of attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberschlesischer Ethnografischer Park",
+            "hu": "Felső-Sziléziai Néprajzi Park",
+            "ro": "Parcul Etnografic al Sileziei Superioare",
+            "en": "Upper Silesian Ethnographic Park"
+          },
+          "coords": [
+            18.975,
+            50.275
+          ],
+          "category": "museums",
+          "arrive_at": "15:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Fühlen Sie sich in die Vergangenheit versetzt in diesem riesigen Freilichtmuseum.",
+            "hu": "Érezze magát a múltban ebben a hatalmas szabadtéri múzeumban.",
+            "ro": "Simțiți-vă transportat înapoi în timp în acest vast muzeu în aer liber.",
+            "en": "Feel transported back in time in this vast open-air museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Marktplatz",
+            "hu": "Vissza a Piactérre",
+            "ro": "Întoarcere la Piață",
+            "en": "Return to Market Square"
+          },
+          "coords": [
+            18.9447,
+            50.2975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:43",
+          "stay_min": 30,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag, wo er begann, mit einem Abendessen in einem der Restaurants.",
+            "hu": "Zárja a napot ott, ahol kezdődött, egy vacsorával az egyik étteremben.",
+            "ro": "Încheiați ziua de unde a început, cu o cină la unul dintre restaurante.",
+            "en": "End the day where it began, with dinner at one of the restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Chorzów beginnt am belebten Marktplatz, dem Herzen der Stadt. Von dort aus tauchen Sie in die industrielle Vergangenheit mit einem Besuch des Szyb Prezydent ein. Mittags machen Sie einen langen Spaziergang zum riesigen Schlesischen Park, einer grünen Oase, die zum Entspannen einlädt. Der Nachmittag ist der Kultur gewidmet, mit einem tiefen Einblick in die regionalen Traditionen im Ethnografischen Park. Zum Abend hin kehren Sie zum Marktplatz zurück und lassen den Tag ausklingen.",
+        "hu": "A chorzówi nap a nyüzsgő piactéren, a város szívében kezdődik. Innen elmerül az ipari múltban a Szyb Prezydent meglátogatásával. Délben egy hosszú sétát tesz a hatalmas Sziléziai Parkba, egy zöld oázisba, amely pihenésre csábít. A délután a kultúráé, mély betekintést nyerve a regionális hagyományokba a Néprajzi Parkban. Este visszatér a piactérre, hogy lezárja a napot.",
+        "ro": "Ziua dvs. în Chorzów începe în Piața vibrantă, inima orașului. De acolo, vă scufundați în trecutul industrial cu o vizită la Szyb Prezydent. La prânz, faceți o plimbare lungă până la vastul Parc Silezian, o oază de verdeață care vă invită la relaxare. După-amiaza este dedicată culturii, cu o incursiune profundă în tradițiile regionale la Parcul Etnografic. Spre seară, vă întoarceți în Piață pentru a încheia ziua.",
+        "en": "Your day in Chorzów begins at the bustling Market Square, the city's heart. From there, you'll dive into the industrial past with a visit to the Szyb Prezydent. At noon, you take a long walk to the vast Silesian Park, a green oasis inviting you to relax. The afternoon is dedicated to culture, with a deep dive into regional traditions at the Ethnographic Park. As evening approaches, you return to the Market Square to round off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rolada śląska",
+            "tip": "Schlesische Roulade, serviert mit Klößen und Rotkohl. Ein lokaler Klassiker."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "Eine saure Roggenmehlsuppe, die oft mit Wurst und Ei serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rolada śląska",
+            "tip": "Sziléziai rolád, gombóccal és vöröskáposztával tálalva. Helyi klasszikus."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "Savanyú rozslisztleves, gyakran kolbásszal és tojással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rolada śląska",
+            "tip": "Ruladă sileziană, servită cu găluște și varză roșie. Un clasic local."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "O supă acră de secară, adesea servită cu cârnați și ou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rolada śląska",
+            "tip": "Silesian roulade, served with dumplings and red cabbage. A local classic."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "A sour rye flour soup, often served with sausage and egg."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Japanischer Garten im Schlesischen Park",
+            "tip": "Ein friedlicher Ort der Stille inmitten des belebten Parks.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rosengarten",
+            "tip": "Ein duftender, ruhiger Bereich im Schlesischen Park.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Japánkert a Sziléziai Parkban",
+            "tip": "Békés, csendes hely a nyüzsgő park közepén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rózsakert",
+            "tip": "Illatos, nyugodt rész a Sziléziai Parkban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Japoneză din Parcul Silezian",
+            "tip": "Un loc pașnic de liniște în mijlocul parcului aglomerat.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina cu Trandafiri",
+            "tip": "O zonă parfumată și liniștită în Parcul Silezian.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Japanese Garden in Silesian Park",
+            "tip": "A peaceful spot of tranquility amidst the bustling park.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rose Garden",
+            "tip": "A fragrant, quiet area within the Silesian Park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden am Marktplatz",
+            "tip": "Hier finden Sie lokale Handwerkskunst und Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékboltok a piactéren",
+            "tip": "Itt helyi kézműves termékeket és szuveníreket talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri în Piață",
+            "tip": "Aici veți găsi meșteșuguri locale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops at the Market Square",
+            "tip": "You will find local crafts and souvenirs here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser und Snacks für den langen Spaziergang zum Park mit.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Ein Spaziergang durch Chorzów ist eine Reise durch die industrielle Revolution und die grüne Erholung."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Vigyen magával vizet és rágcsálnivalót a parkba vezető hosszú sétára.",
+          "Ellenőrizze előre a múzeumok nyitvatartási idejét.",
+          "Egy séta Chorzówban utazás az ipari forradalmon és a zöld megújuláson keresztül."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Luați apă și gustări pentru plimbarea lungă până la parc.",
+          "Verificați în avans orele de deschidere ale muzeelor.",
+          "O plimbare prin Chorzów este o călătorie prin revoluția industrială și recuperarea ecologică."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Bring water and snacks for the long walk to the park.",
+          "Check the opening hours of the museums in advance.",
+          "A walk through Chorzów is a journey through industrial revolution and green recovery."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz in Chorzów",
+            "hu": "Chorzówi piactér",
+            "ro": "Piața din Chorzów",
+            "en": "Chorzów Market Square"
+          },
+          "coords": [
+            18.9447,
+            50.2975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad und starten Sie von hier aus Ihre Tour.",
+            "hu": "Béreljen kerékpárt, és innen induljon a túra.",
+            "ro": "Închiriați-vă bicicleta și începeți turul de aici.",
+            "en": "Rent your bike and start your tour from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Förderturm des Präsidentenschachts",
+            "hu": "Prezydent aknatorony",
+            "ro": "Turnul minei Prezydent",
+            "en": "President Mine Shaft Tower"
+          },
+          "coords": [
+            18.948,
+            50.295
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:43",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Aussicht von diesem Industriedenkmal.",
+            "hu": "Zárja le a biciklit, és élvezze a kilátást erről az ipari emlékműről.",
+            "ro": "Parcați-vă bicicleta și bucurați-vă de priveliștea de la acest monument industrial.",
+            "en": "Park your bike and enjoy the view from this industrial monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesischer Park",
+            "hu": "Sziléziai Park",
+            "ro": "Parcul Silezian",
+            "en": "Silesian Park"
+          },
+          "coords": [
+            18.983,
+            50.278
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:58",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Fahren Sie durch die Hauptalleen, um ein Gefühl für die Weite des Parks zu bekommen.",
+            "hu": "Tekeregjen végig a fő utakon, hogy átérezze a park méretét.",
+            "ro": "Plimbați-vă pe aleile principale pentru a vă face o idee despre imensitatea parcului.",
+            "en": "Cycle through the main avenues to get a feel for the park's vastness."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesisches Stadion",
+            "hu": "Sziléziai Stadion",
+            "ro": "Stadionul Silezian",
+            "en": "Silesian Stadium"
+          },
+          "coords": [
+            18.973,
+            50.288
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob eine Stadiontour verfügbar ist, um einen Blick hinter die Kulissen zu werfen.",
+            "hu": "Nézze meg, van-e stadiontúra, hogy bepillantson a kulisszák mögé.",
+            "ro": "Verificați dacă este disponibil un tur al stadionului pentru o privire în culise.",
+            "en": "Check if a stadium tour is available for a behind-the-scenes look."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesisches Planetarium",
+            "hu": "Sziléziai Planetárium",
+            "ro": "Planetariul Silezian",
+            "en": "Silesian Planetarium"
+          },
+          "coords": [
+            18.968,
+            50.285
+          ],
+          "category": "museums",
+          "arrive_at": "12:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Eine faszinierende Reise zu den Sternen, perfekt für eine Mittagspause vom Radfahren.",
+            "hu": "Lenyűgöző utazás a csillagokba, tökéletes egy ebédszünetre a biciklizésből.",
+            "ro": "O călătorie fascinantă spre stele, perfectă pentru o pauză de prânz de la ciclism.",
+            "en": "A fascinating journey to the stars, perfect for a midday break from cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Legendia Schlesischer Vergnügungspark",
+            "hu": "Legendia Sziléziai Vidámpark",
+            "ro": "Parcul de distracții Legendia Silezia",
+            "en": "Legendia Silesian Amusement Park"
+          },
+          "coords": [
+            18.98,
+            50.28
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:43",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Wenn Sie Zeit haben, verbringen Sie hier den Rest des Nachmittags mit Nervenkitzel.",
+            "hu": "Ha van ideje, töltse itt a délután hátralévő részét izgalmak közepette.",
+            "ro": "Dacă aveți timp, petreceți restul după-amiezii aici pentru senzații tari.",
+            "en": "If you have time, spend the rest of the afternoon here for some thrills."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Marktplatz",
+            "hu": "Vissza a Piactérre",
+            "ro": "Întoarcere la Piață",
+            "en": "Return to Market Square"
+          },
+          "coords": [
+            18.9447,
+            50.2975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie ein wohlverdientes Abendessen.",
+            "hu": "Adja vissza a kerékpárt, és élvezze a jól megérdemelt vacsorát.",
+            "ro": "Returnați-vă bicicleta și bucurați-vă de o cină binemeritată.",
+            "en": "Return your bike and enjoy a well-deserved dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Tag auf zwei Rädern in Chorzów führt Sie vom städtischen Zentrum in die grüne Lunge der Region. Nach dem Start am Marktplatz und einem Stopp am Industriedenkmal Szyb Prezydent radeln Sie zum riesigen Schlesischen Park. Der Vormittag und frühe Nachmittag sind den zahlreichen Attraktionen des Parks gewidmet: Stadion, Planetarium und der Vergnügungspark Legendia. Jeder Stopp ist eine kurze Fahrt voneinander entfernt. Am späten Nachmittag radeln Sie zurück ins Zentrum, reich an Eindrücken von Kultur, Sport und Natur.",
+        "hu": "Egy nap két keréken Chorzówban a városi központból a régió zöld tüdejébe vezet. A piactéri indulás és a Szyb Prezydent ipari emlékműnél tett megálló után a hatalmas Sziléziai Parkba tekersz. A délelőtt és a kora délután a park számos látnivalójának van szentelve: Stadion, Planetárium és a Legendia vidámpark. Minden megálló rövid útra van egymástól. Késő délután visszatekereg a központba, gazdagodva a kultúra, a sport és a természet benyomásaival.",
+        "ro": "O zi pe două roți în Chorzów vă poartă de la centrul urban la plămânul verde al regiunii. După ce porniți din Piață și opriți la monumentul industrial Szyb Prezydent, pedalați spre imensul Parc Silezian. Dimineața și după-amiaza devreme sunt dedicate numeroaselor atracții ale parcului: stadionul, planetariul și parcul de distracții Legendia. Fiecare oprire este la o scurtă distanță de cealaltă. Spre seară, pedalați înapoi în centru, îmbogățit cu impresii de cultură, sport și natură.",
+        "en": "A day on two wheels in Chorzów takes you from the urban center to the region's green lung. After starting at the Market Square and stopping at the industrial monument Szyb Prezydent, you'll cycle to the immense Silesian Park. The morning and early afternoon are dedicated to the park's numerous attractions: the stadium, the planetarium, and the Legendia amusement park. Each stop is a short ride from the others. In the late afternoon, you cycle back to the center, rich with impressions of culture, sport, and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie verschiedene Füllungen in einem der 'Pierogarnia'-Restaurants."
+          },
+          {
+            "name": "Kiełbasa z grilla",
+            "tip": "Gegrillte polnische Wurst, ein perfekter Snack im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstoljon meg különböző töltelékeket az egyik 'Pierogarnia' étteremben."
+          },
+          {
+            "name": "Kiełbasa z grilla",
+            "tip": "Grillezett lengyel kolbász, tökéletes harapnivaló a parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați diferite umpluturi la unul dintre restaurantele 'Pierogarnia'."
+          },
+          {
+            "name": "Kiełbasa z grilla",
+            "tip": "Cârnați polonezi la grătar, o gustare perfectă în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try different fillings at one of the 'Pierogarnia' restaurants."
+          },
+          {
+            "name": "Kiełbasa z grilla",
+            "tip": "Grilled Polish sausage, a perfect snack in the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Sees im Park",
+            "tip": "Ein ruhiger Ort, um die Enten zu beobachten und eine Pause vom Radfahren zu machen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seilbahn 'Elka'",
+            "tip": "Genießen Sie eine ruhige Fahrt über den Park und sehen Sie alles aus der Vogelperspektive.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tópart a parkban",
+            "tip": "Csendes hely a kacsák figyelésére és egy kis pihenésre a biciklizés után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "‘Elka’ felvonó",
+            "tip": "Élvezze a csendes utat a park felett, és nézze meg mindent madártávlatból.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului din parc",
+            "tip": "Un loc liniștit pentru a privi rațele și a lua o pauză de la pedalat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Telecabina 'Elka'",
+            "tip": "Bucurați-vă de o plimbare liniștită deasupra parcului și vedeți totul dintr-o perspectivă aeriană.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside in the park",
+            "tip": "A quiet spot to watch the ducks and take a break from cycling.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "‘Elka’ Cable Car",
+            "tip": "Enjoy a quiet ride over the park and see everything from a bird's eye view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für eventuell benötigtes Zubehör oder Reparaturen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Bármilyen szükséges tartozékhoz vagy javításhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru orice accesorii sau reparații de care ați putea avea nevoie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "For any accessories or repairs you might need."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Chorzów hat viele Radwege, besonders im und um den Schlesischen Park.",
+          "Schließen Sie Ihr Fahrrad an den Hauptattraktionen immer gut ab.",
+          "Eine Fahrradklingel ist nützlich, um Fußgänger auf den Wegen zu warnen.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, es gibt Brunnen im Park."
+        ],
+        "hu": [
+          "Chorzówban számos kerékpárút van, különösen a Sziléziai Parkban és környékén.",
+          "Mindig zárja le jól a kerékpárját a főbb látnivalóknál.",
+          "A kerékpárcsengő hasznos a gyalogosok figyelmeztetésére az utakon.",
+          "Vigyen magával újratölthető vizes palackot, a parkban vannak ivókutak."
+        ],
+        "ro": [
+          "Chorzów are multe piste de biciclete, în special în și în jurul Parcului Silezian.",
+          "Legați-vă întotdeauna bicicleta în siguranță la atracțiile principale.",
+          "Un claxon de bicicletă este util pentru a avertiza pietonii pe poteci.",
+          "Luați o sticlă de apă reutilizabilă, există fântâni în parc."
+        ],
+        "en": [
+          "Chorzów has many bike paths, especially in and around the Silesian Park.",
+          "Always lock your bike securely at the main attractions.",
+          "A bike bell is useful for alerting pedestrians on the paths.",
+          "Bring a reusable water bottle; there are fountains in the park."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz nahe Marktplatz",
+            "hu": "Parkoló a Piactér közelében",
+            "ro": "Parcare lângă Piață",
+            "en": "Parking near Market Square"
+          },
+          "coords": [
+            18.943,
+            50.297
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel az első látnivaló-csoportot.",
+            "ro": "Parcați aici pentru a explora primul cluster pe jos.",
+            "en": "Park here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz in Chorzów",
+            "hu": "Chorzówi piactér",
+            "ro": "Piața din Chorzów",
+            "en": "Chorzów Market Square"
+          },
+          "coords": [
+            18.9447,
+            50.2975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Startpunkt Ihrer Erkundung des Stadtzentrums.",
+            "hu": "A városközpont felfedezésének kiindulópontja.",
+            "ro": "Punctul de plecare al explorării centrului orașului.",
+            "en": "The starting point of your city center exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Förderturm des Präsidentenschachts",
+            "hu": "Prezydent aknatorony",
+            "ro": "Turnul minei Prezydent",
+            "en": "President Mine Shaft Tower"
+          },
+          "coords": [
+            18.948,
+            50.295
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Marktplatz zu diesem Symbol der Region.",
+            "hu": "Rövid séta a piactérről a régió ezen szimbólumához.",
+            "ro": "O scurtă plimbare de la Piață la acest simbol al regiunii.",
+            "en": "A short walk from the market square to this symbol of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Schlesischer Park",
+            "hu": "Sziléziai Park Parkoló",
+            "ro": "Parcare Parcul Silezian",
+            "en": "Silesian Park Parking"
+          },
+          "coords": [
+            18.97,
+            50.289
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages und erkunden Sie den Park zu Fuß.",
+            "hu": "Parkoljon itt a nap hátralévő részére, és fedezze fel a parkot gyalog.",
+            "ro": "Parcați aici pentru restul zilei și explorați parcul pe jos.",
+            "en": "Park here for the rest of the day and explore the park on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesisches Stadion",
+            "hu": "Sziléziai Stadion",
+            "ro": "Stadionul Silezian",
+            "en": "Silesian Stadium"
+          },
+          "coords": [
+            18.973,
+            50.288
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser nationalen Sportarena.",
+            "hu": "Csodálja meg ennek a nemzeti sportarénának az építészetét.",
+            "ro": "Admirați arhitectura acestei arene sportive naționale.",
+            "en": "Admire the architecture of this national sports arena."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberschlesischer Ethnografischer Park",
+            "hu": "Felső-Sziléziai Néprajzi Park",
+            "ro": "Parcul Etnografic al Sileziei Superioare",
+            "en": "Upper Silesian Ethnographic Park"
+          },
+          "coords": [
+            18.975,
+            50.275
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie viel Zeit ein, um dieses weitläufige Freilichtmuseum zu erkunden. Mittagessen hier möglich.",
+            "hu": "Szánjon bőven időt e hatalmas szabadtéri múzeum felfedezésére. Ebédelési lehetőség helyben.",
+            "ro": "Planificați-vă mult timp pentru a explora acest muzeu vast în aer liber. Prânzul este posibil aici.",
+            "en": "Plan plenty of time to explore this vast open-air museum. Lunch is possible here."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesisches Planetarium",
+            "hu": "Sziléziai Planetárium",
+            "ro": "Planetariul Silezian",
+            "en": "Silesian Planetarium"
+          },
+          "coords": [
+            18.968,
+            50.285
+          ],
+          "category": "museums",
+          "arrive_at": "16:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Blick in die Sterne in einem der modernsten Planetarien.",
+            "hu": "Zárja a napot egy csillagnézéssel az egyik legmodernebb planetáriumban.",
+            "ro": "Încheiați ziua privind stelele la unul dintre cele mai moderne planetarii.",
+            "en": "End the day with a look at the stars in one of the most modern planetariums."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erleben Sie zwei Gesichter von Chorzów. Der Morgen beginnt im historischen Zentrum, einem fußgängerfreundlichen Cluster um den Marktplatz und das Industrieerbe. Nach der Erkundung des städtischen Kerns fahren Sie zum zweiten, viel größeren Cluster: dem Schlesischen Park. Sie parken das Auto und verbringen den Rest des Tages damit, die weitläufigen Attraktionen wie das Stadion, das Freilichtmuseum und das Planetarium zu Fuß zu entdecken. Diese Kombination aus kurzer Fahrt und langen Spaziergängen bietet das Beste aus beiden Welten.",
+        "hu": "Autóval megtapasztalhatja Chorzów két arcát. A reggel a történelmi központban kezdődik, egy gyalogosbarát klaszterben a piactér és az ipari örökség körül. A városi mag felfedezése után a második, sokkal nagyobb klaszterhez, a Sziléziai Parkhoz hajt. Leteszi az autót, és a nap hátralévő részét a hatalmas látnivalók, mint a stadion, a skanzen és a planetárium gyalogos felfedezésével tölti. Ez a rövid autóút és hosszú séták kombinációja mindkét világból a legjobbat nyújtja.",
+        "ro": "Cu mașina, veți experimenta două fețe ale orașului Chorzów. Dimineața începe în centrul istoric, un cluster pietonal în jurul Pieței și al patrimoniului industrial. După explorarea nucleului urban, conduceți spre al doilea cluster, mult mai mare: Parcul Silezian. Parcați mașina și petreceți restul zilei descoperind la pas atracțiile vaste, precum stadionul, muzeul în aer liber și planetariul. Această combinație de condus pe distanțe scurte și plimbări lungi oferă ce e mai bun din ambele lumi.",
+        "en": "By car, you'll experience two faces of Chorzów. The morning starts in the historic center, a pedestrian-friendly cluster around the Market Square and industrial heritage. After exploring the urban core, you drive to the second, much larger cluster: the Silesian Park. You park the car and spend the rest of the day discovering the vast attractions like the stadium, the open-air museum, and the planetarium on foot. This combination of a short drive and long walks offers the best of both worlds."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Ethnografischen Park",
+            "tip": "Authentische schlesische Küche in historischer Umgebung."
+          },
+          {
+            "name": "Karminadel",
+            "tip": "Schlesische Frikadelle, oft mit Kartoffeln serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Néprajzi Parkban",
+            "tip": "Autentikus sziléziai konyha történelmi környezetben."
+          },
+          {
+            "name": "Karminadel",
+            "tip": "Sziléziai fasírt, gyakran krumplival tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în Parcul Etnografic",
+            "tip": "Bucătărie sileziană autentică într-un cadru istoric."
+          },
+          {
+            "name": "Karminadel",
+            "tip": "Chiftea sileziană, adesea servită cu cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant in the Ethnographic Park",
+            "tip": "Authentic Silesian cuisine in a historic setting."
+          },
+          {
+            "name": "Karminadel",
+            "tip": "Silesian meatball, often served with potatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abgelegene Wege im Schlesischen Park",
+            "tip": "Abseits der Hauptattraktionen finden Sie ruhige Pfade zum Spazierengehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elhagyatott ösvények a Sziléziai Parkban",
+            "tip": "A fő látnivalóktól távol csendes ösvényeket talál a sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteci retrase în Parcul Silezian",
+            "tip": "Departe de atracțiile principale, veți găsi cărări liniștite pentru plimbare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Secluded paths in the Silesian Park",
+            "tip": "Away from the main attractions, you'll find quiet paths for walking.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop des Ethnografischen Parks",
+            "tip": "Bietet einzigartige, handgefertigte Souvenirs und Bücher über die Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Néprajzi Park múzeumboltja",
+            "tip": "Egyedi, kézzel készített ajándéktárgyakat és könyveket kínál a régióról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului Parcului Etnografic",
+            "tip": "Oferă suveniruri unice, realizate manual, și cărți despre regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum shop of the Ethnographic Park",
+            "tip": "Offers unique, handmade souvenirs and books about the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum kostenpflichtig sein.",
+          "Der Schlesische Park verfügt über mehrere große Parkplätze; wählen Sie einen in der Nähe Ihrer ersten Attraktion.",
+          "Das Auto ist ideal, um die Distanz zwischen dem Zentrum und dem Park zu überbrücken.",
+          "Beachten Sie, dass Sie im Park viel zu Fuß unterwegs sein werden."
+        ],
+        "hu": [
+          "A parkolás a városközpontban díjköteles lehet.",
+          "A Sziléziai Park több nagy parkolóval rendelkezik; válasszon egyet az első látnivaló közelében.",
+          "Az autó ideális a központ és a park közötti távolság áthidalására.",
+          "Ne feledje, hogy a parkban sokat fog gyalogolni."
+        ],
+        "ro": [
+          "Parcarea poate fi contra cost în centrul orașului.",
+          "Parcul Silezian are mai multe parcări mari; alegeți una lângă prima atracție.",
+          "Mașina este ideală pentru a acoperi distanța dintre centru și parc.",
+          "Rețineți că veți merge mult pe jos în parc."
+        ],
+        "en": [
+          "Parking can be paid in the city center.",
+          "The Silesian Park has several large parking lots; choose one near your first attraction.",
+          "The car is ideal for bridging the distance between the center and the park.",
+          "Note that you will be walking a lot within the park."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 11.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz in Chorzów",
+            "hu": "Chorzówi piactér",
+            "ro": "Piața din Chorzów",
+            "en": "Chorzów Market Square"
+          },
+          "coords": [
+            18.9447,
+            50.2975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ihr Ausgangspunkt, leicht erreichbar mit vielen Bus- und Straßenbahnlinien.",
+            "hu": "A kiindulópont, könnyen megközelíthető számos busz- és villamosvonallal.",
+            "ro": "Punctul dvs. de plecare, ușor accesibil cu multe linii de autobuz și tramvai.",
+            "en": "Your starting point, easily accessible by many bus and tram lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Förderturm des Präsidentenschachts",
+            "hu": "Prezydent aknatorony",
+            "ro": "Turnul minei Prezydent",
+            "en": "President Mine Shaft Tower"
+          },
+          "coords": [
+            18.948,
+            50.295
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Marktplatz, um in die Industriegeschichte einzutauchen.",
+            "hu": "Rövid séta a piactérről, hogy elmerüljön az ipari történelemben.",
+            "ro": "O scurtă plimbare de la Piață pentru a vă cufunda în istoria industrială.",
+            "en": "A short walk from the market square to immerse yourself in industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Chorzowskie Centrum Kultury",
+            "hu": "Chorzówi Kulturális Központ",
+            "ro": "Centrul Cultural Chorzów",
+            "en": "Chorzów Cultural Centre"
+          },
+          "coords": [
+            18.951,
+            50.298
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kunstszene, bevor Sie den Bus zum Park nehmen.",
+            "hu": "Fedezze fel a helyi művészeti életet, mielőtt busszal a parkba menne.",
+            "ro": "Descoperiți scena artistică locală înainte de a lua autobuzul spre parc.",
+            "en": "Discover the local arts scene before taking the bus to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Park Śląski",
+            "hu": "Park Śląski megálló",
+            "ro": "Stația Park Śląski",
+            "en": "Park Śląski Stop"
+          },
+          "coords": [
+            18.98,
+            50.285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 10,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Von hier aus beginnt Ihr Abenteuer im größten Park der Region.",
+            "hu": "Innen indul a kaland a régió legnagyobb parkjában.",
+            "ro": "De aici începe aventura dvs. în cel mai mare parc din regiune.",
+            "en": "From here, your adventure in the region's largest park begins."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesisches Planetarium",
+            "hu": "Sziléziai Planetárium",
+            "ro": "Planetariul Silezian",
+            "en": "Silesian Planetarium"
+          },
+          "coords": [
+            18.968,
+            50.285
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Haltestelle zu einer Reise ins Universum.",
+            "hu": "Rövid séta a megállótól egy utazás az univerzumba.",
+            "ro": "O scurtă plimbare de la stație pentru o călătorie în univers.",
+            "en": "A short walk from the stop for a journey into the universe."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberschlesischer Ethnografischer Park",
+            "hu": "Felső-Sziléziai Néprajzi Park",
+            "ro": "Parcul Etnografic al Sileziei Superioare",
+            "en": "Upper Silesian Ethnographic Park"
+          },
+          "coords": [
+            18.975,
+            50.275
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um einen ganzen Nachmittag in die schlesische Geschichte einzutauchen.",
+            "hu": "Tökéletes hely egy egész délutános elmélyülésre a sziléziai történelemben.",
+            "ro": "Locul perfect pentru a petrece o după-amiază întreagă scufundat în istoria sileziană.",
+            "en": "The perfect place to spend an entire afternoon immersed in Silesian history."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Visszaút a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the center"
+          },
+          "coords": [
+            18.9447,
+            50.2975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:59",
+          "stay_min": 30,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder eine Straßenbahn zurück zum Marktplatz für das Abendessen.",
+            "hu": "Menjen busszal vagy villamossal vissza a Piactérre vacsorázni.",
+            "ro": "Luați un autobuz sau un tramvai înapoi la Piață pentru cină.",
+            "en": "Take a bus or tram back to the Market Square for dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise mit öffentlichen Verkehrsmitteln teilt den Tag in zwei Bereiche. Der Vormittag gehört dem Zentrum von Chorzów, wo Sie den Marktplatz und nahegelegene Kulturstätten zu Fuß erkunden. Eine kurze Bus- oder Straßenbahnfahrt bringt Sie dann in den riesigen Schlesischen Park. Dort verbringen Sie den Nachmittag damit, zwischen dem Planetarium und dem Freilichtmuseum zu spazieren, bevor Sie am Abend wieder ins Zentrum zurückkehren. Diese Methode ist effizient und ermöglicht es Ihnen, beide Hauptbereiche der Stadt entspannt zu erleben.",
+        "hu": "Tömegközlekedéssel a nap két részre oszlik. A délelőtt Chorzów központjáé, ahol gyalog fedezi fel a piacteret és a közeli kulturális helyszíneket. Egy rövid busz- vagy villamosút viszi el a hatalmas Sziléziai Parkba. Itt tölti a délutánt, sétálva a planetárium és a skanzen között, mielőtt este visszatér a központba. Ez a módszer hatékony, és lehetővé teszi, hogy a város mindkét fő területét nyugodtan megtapasztalja.",
+        "ro": "Călătoria cu transportul public împarte ziua în două zone. Dimineața este dedicată centrului orașului Chorzów, unde explorați la pas Piața și siturile culturale din apropiere. O scurtă călătorie cu autobuzul sau tramvaiul vă duce apoi la imensul Parc Silezian. Acolo vă petreceți după-amiaza plimbându-vă între planetariu și muzeul în aer liber, înainte de a vă întoarce în centru seara. Această metodă este eficientă și vă permite să experimentați relaxat ambele zone principale ale orașului.",
+        "en": "Your journey by public transport divides the day into two areas. The morning belongs to the center of Chorzów, where you explore the Market Square and nearby cultural sites on foot. A short bus or tram ride then takes you to the vast Silesian Park. There, you spend the afternoon walking between the planetarium and the open-air museum before returning to the city center in the evening. This method is efficient and allows you to experience both main areas of the city in a relaxed manner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Mleczny (Milchbar)",
+            "tip": "Für eine schnelle, günstige und authentische polnische Mahlzeit."
+          },
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein geröstetes Baguette mit Käse und Pilzen, ein beliebter polnischer Straßensnack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Mleczny (Tejbár)",
+            "tip": "Gyors, olcsó és autentikus lengyel étkezéshez."
+          },
+          {
+            "name": "Zapiekanka",
+            "tip": "Pirított bagett sajttal és gombával, népszerű lengyel utcai étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Mleczny (Bar de lapte)",
+            "tip": "Pentru o masă poloneză rapidă, ieftină și autentică."
+          },
+          {
+            "name": "Zapiekanka",
+            "tip": "O baghetă prăjită cu brânză și ciuperci, o gustare stradală poloneză populară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Mleczny (Milk Bar)",
+            "tip": "For a quick, cheap, and authentic Polish meal."
+          },
+          {
+            "name": "Zapiekanka",
+            "tip": "A toasted baguette with cheese and mushrooms, a popular Polish street food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Rosengarten",
+            "tip": "Ein ruhiger Moment, um die Blumen zu bewundern und den Menschenmassen zu entfliehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Rózsakertben",
+            "tip": "Egy csendes pillanat a virágok megcsodálására és a tömeg elől való menekülésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Grădina cu Trandafiri",
+            "tip": "Un moment de liniște pentru a admira florile și a scăpa de aglomerație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in the Rose Garden",
+            "tip": "A quiet moment to admire the flowers and escape the crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an den Haltestellen",
+            "tip": "Kaufen Sie Ihr Ticket und vielleicht einen kleinen Snack für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a megállókban",
+            "tip": "Vegye meg a jegyét és talán egy kis harapnivalót az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la stații",
+            "tip": "Cumpărați-vă biletul și poate o mică gustare pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at the stops",
+            "tip": "Buy your ticket and maybe a small snack for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Die App 'Jakdojade' ist unerlässlich für die Planung von Routen mit öffentlichen Verkehrsmitteln in Polen.",
+          "Beachten Sie die Stoßzeiten, Busse und Bahnen können dann sehr voll sein.",
+          "Die Haltestellen sind in der Regel gut ausgeschildert."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "A 'Jakdojade' alkalmazás elengedhetetlen a lengyelországi tömegközlekedési útvonalak tervezéséhez.",
+          "Vegye figyelembe a csúcsidőt, a buszok és villamosok ilyenkor nagyon zsúfoltak lehetnek.",
+          "A megállók általában jól ki vannak táblázva."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Aplicația 'Jakdojade' este esențială pentru planificarea rutelor cu transportul public în Polonia.",
+          "Fiți atenți la orele de vârf, autobuzele și tramvaiele pot fi foarte aglomerate.",
+          "Stațiile sunt de obicei bine semnalizate."
+        ],
+        "en": [
+          "Buy a day ticket for public transport to save money.",
+          "The 'Jakdojade' app is essential for planning public transport routes in Poland.",
+          "Be aware of rush hours, as buses and trams can be very crowded.",
+          "The stops are usually well signposted."
+        ]
+      }
+    }
+  }
+}

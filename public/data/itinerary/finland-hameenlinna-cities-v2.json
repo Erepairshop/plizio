@@ -1,0 +1,1424 @@
+{
+  "city_id": "finland-hameenlinna-cities-v2",
+  "anchor": {
+    "name": "Hämeenlinna",
+    "coords": [
+      60.9969,
+      24.4608
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche von Hämeenlinna",
+            "hu": "Hämeenlinnai templom",
+            "ro": "Biserica din Hämeenlinna",
+            "en": "Hämeenlinna Church"
+          },
+          "coords": [
+            24.465,
+            60.9947
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Architektur und die runde Form.",
+            "hu": "Csodálja meg a neoklasszicista építészetet és a kör alakú alaprajzot.",
+            "ro": "Admirați arhitectura neoclasică și forma sa circulară unică.",
+            "en": "Admire the neoclassical architecture and its unique circular shape."
+          }
+        },
+        {
+          "name": {
+            "de": "Sibelius-Geburtshaus",
+            "hu": "Sibelius szülőháza",
+            "ro": "Casa natală a lui Sibelius",
+            "en": "Sibelius' Birthplace"
+          },
+          "coords": [
+            24.468,
+            60.9958
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Liebhaber klassischer Musik, um in die Welt des Komponisten einzutauchen.",
+            "hu": "A klasszikus zene kedvelőinek kötelező, hogy elmerüljenek a zeneszerző világában.",
+            "ro": "O vizită obligatorie pentru iubitorii de muzică clasică pentru a pătrunde în lumea compozitorului.",
+            "en": "A must-visit for classical music lovers to immerse in the composer's world."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum Hämeenlinna",
+            "hu": "Hämeenlinnai Művészeti Múzeum",
+            "ro": "Muzeul de Artă Hämeenlinna",
+            "en": "Hämeenlinna Art Museum"
+          },
+          "coords": [
+            24.4575,
+            60.9972
+          ],
+          "category": "museums",
+          "arrive_at": "11:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fokus auf finnische Kunst des 20. Jahrhunderts und internationale Ausstellungen.",
+            "hu": "A 20. századi finn művészetre és nemzetközi kiállításokra összpontosít.",
+            "ro": "Concentrează-te pe arta finlandeză din secolul XX și pe expozițiile internaționale.",
+            "en": "Focus on 20th-century Finnish art and international exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Centre"
+          },
+          "coords": [
+            24.463,
+            60.995
+          ],
+          "category": "gastro",
+          "arrive_at": "12:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Spezialitäten in einem der Restaurants am Marktplatz.",
+            "hu": "Kóstolja meg a helyi specialitásokat a piactéri éttermek egyikében.",
+            "ro": "Încercați specialitățile locale la unul dintre restaurantele din piață.",
+            "en": "Try local specialties in one of the restaurants by the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Hämeen linna",
+            "hu": "Häme vára",
+            "ro": "Castelul Häme",
+            "en": "Häme Castle"
+          },
+          "coords": [
+            24.45,
+            61.003
+          ],
+          "category": "castles",
+          "arrive_at": "14:27",
+          "stay_min": 120,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie eine der am besten erhaltenen mittelalterlichen Burgen Finnlands.",
+            "hu": "Fedezze fel Finnország egyik legjobb állapotban megőrzött középkori várát.",
+            "ro": "Explorați unul dintre cele mai bine conservate castele medievale din Finlanda.",
+            "en": "Explore one of Finland's best-preserved medieval castles."
+          }
+        },
+        {
+          "name": {
+            "de": "Militaria-Museum",
+            "hu": "Militaria Múzeum",
+            "ro": "Muzeul Militaria",
+            "en": "Museum Militaria"
+          },
+          "coords": [
+            24.452,
+            61.0045
+          ],
+          "category": "museums",
+          "arrive_at": "16:32",
+          "stay_min": 83,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben der Burg, bietet Einblicke in Finnlands Militärgeschichte.",
+            "hu": "Közvetlenül a vár mellett található, bepillantást nyújt Finnország hadtörténetébe.",
+            "ro": "Chiar lângă castel, oferă o perspectivă asupra istoriei militare a Finlandei.",
+            "en": "Right next to the castle, offering insights into Finland's military history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Hämeenlinna, beginnend mit der ikonischen Kirche. Schlendern Sie durch die Straßen, die Sibelius einst ging, und tauchen Sie in sein musikalisches Erbe ein. Am Mittag genießen Sie die finnische Kunstszene im Kunstmuseum, gefolgt von einem lokalen Mittagessen. Der Nachmittag ist der beeindruckenden Geschichte von Hämeen linna und dem benachbarten Militaria-Museum gewidmet. Der Abend ist perfekt für einen entspannten Spaziergang entlang des Vanajavesi-Sees, um über die reichen Erlebnisse des Tages nachzudenken.",
+        "hu": "Kezdje a napot Hämeenlinna szívében, az ikonikus templomnál. Sétáljon azokon az utcákon, ahol egykor Sibelius járt, és merüljön el zenei örökségében. Délben élvezze a finn művészeti életet a Művészeti Múzeumban, majd fogyasszon el egy helyi ebédet. A délután a lenyűgöző Häme vár és a szomszédos Militaria Múzeum történelmének szentelt. Az este tökéletes egy pihentető sétára a Vanajavesi-tó partján, elmélkedve a nap gazdag élményein.",
+        "ro": "Începeți ziua în inima orașului Hämeenlinna, pornind de la biserica emblematică. Plimbați-vă pe străzile pe care a umblat odată Sibelius și scufundați-vă în moștenirea sa muzicală. La prânz, bucurați-vă de scena artistică finlandeză la Muzeul de Artă, urmat de un prânz local. După-amiaza este dedicată istoriei impresionante a Castelului Häme și a Muzeului Militar adiacent. Seara este perfectă pentru o plimbare relaxantă de-a lungul lacului Vanajavesi, reflectând la experiențele bogate ale zilei.",
+        "en": "Start your day in the heart of Hämeenlinna, beginning with the iconic church. Stroll through the streets Sibelius once walked and dive into his musical heritage. At midday, enjoy the Finnish art scene at the Art Museum, followed by a local lunch. The afternoon is dedicated to the impressive history of Häme Castle and the adjacent Museum Militaria. The evening is perfect for a relaxing walk along Lake Vanajavesi, reflecting on the day's rich experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lohikeitto (Lachssuppe)",
+            "tip": "Eine cremige, herzhafte Suppe, perfekt für jedes Wetter."
+          },
+          {
+            "name": "Karjalanpiirakka (Karelische Pirogge)",
+            "tip": "Ein Reiskuchen-Gebäck, oft mit Eibutter serviert."
+          },
+          {
+            "name": "Mustikkapiirakka (Blaubeerkuchen)",
+            "tip": "Ein klassischer finnischer Genuss, besonders im Sommer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lohikeitto (lazacleves)",
+            "tip": "Krémes, kiadós leves, tökéletes bármilyen időjáráshoz."
+          },
+          {
+            "name": "Karjalanpiirakka (karéliai pirog)",
+            "tip": "Rizstöltelékes sütemény, gyakran tojásvajjal tálalva."
+          },
+          {
+            "name": "Mustikkapiirakka (áfonyás pite)",
+            "tip": "Klasszikus finn finomság, különösen nyáron."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lohikeitto (supă de somon)",
+            "tip": "O supă cremoasă și consistentă, perfectă pentru orice vreme."
+          },
+          {
+            "name": "Karjalanpiirakka (plăcintă careliană)",
+            "tip": "Un produs de patiserie cu orez, adesea servit cu unt de ou."
+          },
+          {
+            "name": "Mustikkapiirakka (tartă cu afine)",
+            "tip": "Un deliciu clasic finlandez, mai ales vara."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lohikeitto (Salmon Soup)",
+            "tip": "A creamy, hearty soup perfect for any weather."
+          },
+          {
+            "name": "Karjalanpiirakka (Karelian Pie)",
+            "tip": "A rye crust pastry with rice, often served with egg butter."
+          },
+          {
+            "name": "Mustikkapiirakka (Blueberry Pie)",
+            "tip": "A classic Finnish treat, especially during summer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Vanajavesi-Sees",
+            "tip": "Finden Sie eine Bank in der Nähe der Burg und genießen Sie die Ruhe des Wassers.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sibelius-Park",
+            "tip": "Ein kleiner, ruhiger Park in der Nähe seines Geburtshauses, ideal für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vanajavesi-tó partja",
+            "tip": "Keressen egy padot a vár közelében, és élvezze a víz nyugalmát.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sibelius park",
+            "tip": "Egy kicsi, csendes park a szülőháza közelében, ideális egy rövid szünetre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Vanajavesi",
+            "tip": "Găsiți o bancă lângă castel și bucurați-vă de liniștea apei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Sibelius",
+            "tip": "Un parc mic și liniștit, lângă casa sa natală, perfect pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Lake Vanajavesi",
+            "tip": "Find a bench near the castle and enjoy the tranquility of the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sibelius Park",
+            "tip": "A small, quiet park near his birthplace, perfect for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz (Kauppatori)",
+            "tip": "Kaufen Sie frische Produkte, lokale Handwerkskunst und genießen Sie die Atmosphäre."
+          },
+          {
+            "name": "Verkatehdas",
+            "tip": "Der Laden im Kulturzentrum bietet einzigartige Designartikel und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piactér (Kauppatori)",
+            "tip": "Vásároljon friss termékeket, helyi kézműves termékeket, és élvezze a hangulatot."
+          },
+          {
+            "name": "Verkatehdas",
+            "tip": "A kulturális központ üzlete egyedi dizájntárgyakat és ajándéktárgyakat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală (Kauppatori)",
+            "tip": "Cumpărați produse proaspete, meșteșuguri locale și bucurați-vă de atmosferă."
+          },
+          {
+            "name": "Verkatehdas",
+            "tip": "Magazinul din centrul cultural oferă articole de design unice și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square (Kauppatori)",
+            "tip": "Shop for fresh produce, local handicrafts, and enjoy the atmosphere."
+          },
+          {
+            "name": "Verkatehdas",
+            "tip": "The shop at the cultural centre offers unique design items and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese saisonal variieren können.",
+          "Ein Spaziergang am See ist bei Sonnenuntergang besonders schön."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek az óvárosban.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mivel az szezonálisan változhat.",
+          "A tóparti séta naplementekor különösen szép."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Verificați în prealabil orele de funcționare ale muzeelor, deoarece acestea pot varia în funcție de sezon.",
+          "O plimbare pe malul lacului este deosebit de frumoasă la apus."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Check the opening hours of the museums in advance as they can vary seasonally.",
+          "A walk by the lake is especially beautiful at sunset."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:01",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hämeen linna",
+            "hu": "Häme vára",
+            "ro": "Castelul Häme",
+            "en": "Häme Castle"
+          },
+          "coords": [
+            24.45,
+            61.003
+          ],
+          "category": "castles",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um die Morgenstimmung am See zu genießen, bevor die Menschenmassen eintreffen.",
+            "hu": "Kezdje itt, hogy élvezze a reggeli hangulatot a tónál, mielőtt a tömeg megérkezik.",
+            "ro": "Începeți aici pentru a vă bucura de atmosfera de dimineață de lângă lac înainte de sosirea mulțimilor.",
+            "en": "Start here to enjoy the morning atmosphere by the lake before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Militaria-Museum",
+            "hu": "Militaria Múzeum",
+            "ro": "Muzeul Militaria",
+            "en": "Museum Militaria"
+          },
+          "coords": [
+            24.452,
+            61.0045
+          ],
+          "category": "museums",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt von der Burg entfernt, ideal für Geschichtsinteressierte.",
+            "hu": "Rövid biciklizésre a vártól, ideális a történelem iránt érdeklődőknek.",
+            "ro": "O scurtă plimbare cu bicicleta de la castel, ideală pentru pasionații de istorie.",
+            "en": "A short ride from the castle, ideal for history enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Aulanko-Park",
+            "hu": "Aulanko park",
+            "ro": "Parcul Aulanko",
+            "en": "Aulanko Park"
+          },
+          "coords": [
+            24.465,
+            61.025
+          ],
+          "category": "parks",
+          "arrive_at": "12:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Aussichtsturm für einen atemberaubenden Panoramablick.",
+            "hu": "Tekerjen fel a kilátótoronyhoz a lélegzetelállító panorámáért.",
+            "ro": "Mergeți cu bicicleta la turnul de observație pentru o priveliște panoramică uluitoare.",
+            "en": "Cycle up to the observation tower for a breathtaking panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Aulanko",
+            "hu": "Ebéd Aulankóban",
+            "ro": "Prânz în Aulanko",
+            "en": "Lunch in Aulanko"
+          },
+          "coords": [
+            24.463,
+            61.023
+          ],
+          "category": "gastro",
+          "arrive_at": "14:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit mit Aussicht in einem der Restaurants des Parks.",
+            "hu": "Élvezze az ebédet kilátással a park egyik éttermében.",
+            "ro": "Bucurați-vă de o masă cu vedere la unul dintre restaurantele din parc.",
+            "en": "Enjoy a meal with a view at one of the park's restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Sibelius-Geburtshaus",
+            "hu": "Sibelius szülőháza",
+            "ro": "Casa natală a lui Sibelius",
+            "en": "Sibelius' Birthplace"
+          },
+          "coords": [
+            24.468,
+            60.9958
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kehren Sie ins Stadtzentrum zurück, um die Welt des berühmten Komponisten zu entdecken.",
+            "hu": "Térjen vissza a városközpontba, hogy felfedezze a híres zeneszerző világát.",
+            "ro": "Întoarceți-vă în centrul orașului pentru a descoperi lumea celebrului compozitor.",
+            "en": "Return to the city center to discover the world of the famous composer."
+          }
+        },
+        {
+          "name": {
+            "de": "Verkatehdas",
+            "hu": "Verkatehdas",
+            "ro": "Verkatehdas",
+            "en": "Verkatehdas"
+          },
+          "coords": [
+            24.472,
+            60.994
+          ],
+          "category": "cultural centres",
+          "arrive_at": "17:00",
+          "stay_min": 61,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in diesem lebhaften Kulturzentrum am Wasser.",
+            "hu": "Zárja a napot ebben az élénk kulturális központban a vízparton.",
+            "ro": "Încheiați-vă ziua la acest centru cultural vibrant de pe malul apei.",
+            "en": "End your day at this vibrant cultural centre by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour bei der majestätischen Burg Häme, radeln Sie dann zum nahegelegenen Militaria-Museum. Am Vormittag führt Sie eine malerische Fahrt zum Aulanko-Park. Erobern Sie den Hügel zum Aussichtsturm, um eine spektakuläre Aussicht zu genießen, bevor Sie im Park zu Mittag essen. Am Nachmittag radeln Sie zurück ins Zentrum, um das Geburtshaus von Sibelius zu besuchen, und schließen den Tag im lebhaften Kulturzentrum Verkatehdas am Seeufer ab. Diese Tour verbindet Geschichte, Natur und Kultur perfekt.",
+        "hu": "Kezdje a kerékpártúrát a fenséges Häme várnál, majd tekerjen át a közeli Militaria Múzeumba. A délelőtt egy festői úton az Aulanko parkba vezet. Hódítsa meg a dombot a kilátótoronyhoz a látványos kilátásért, mielőtt megebédel a parkban. Délután tekerjen vissza a központba Sibelius szülőházához, és zárja a napot a tóparti, nyüzsgő Verkatehdas kulturális központban. Ez a túra tökéletesen ötvözi a történelmet, a természetet és a kultúrát.",
+        "ro": "Începeți turul cu bicicleta la maiestuosul Castel Häme, apoi pedalați spre Muzeul Militar din apropiere. Dimineața, o plimbare pitorească vă duce în Parcul Aulanko. Urcați dealul până la turnul de observație pentru o priveliște spectaculoasă înainte de a lua prânzul în parc. După-amiaza, întoarceți-vă cu bicicleta în centru pentru a vizita locul de naștere al lui Sibelius, încheind ziua la vibrantul centru cultural Verkatehdas de pe malul lacului. Acest tur îmbină perfect istoria, natura și cultura.",
+        "en": "Start your bike tour at the majestic Häme Castle, then pedal to the nearby Museum Militaria. In the morning, a scenic ride takes you to Aulanko Park. Conquer the hill to the observation tower for a spectacular view before having lunch within the park. In the afternoon, cycle back to the center to visit Sibelius' Birthplace, ending the day at the vibrant Verkatehdas cultural centre by the lake. This tour perfectly combines history, nature, and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aulanko-Restaurant",
+            "tip": "Bietet eine gute Auswahl mit einer schönen Aussicht auf den Park."
+          },
+          {
+            "name": "Lokales Café",
+            "tip": "Halten Sie in der Stadt für Kaffee und Pulla (süßes Kardamom-Brot)."
+          },
+          {
+            "name": "Piparkakku (Lebkuchen)",
+            "tip": "Ein leckerer Snack, um Ihre Fahrt mit Energie zu versorgen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aulanko étterem",
+            "tip": "Jó választékot kínál, gyönyörű kilátással a parkra."
+          },
+          {
+            "name": "Helyi kávézó",
+            "tip": "Álljon meg a városban egy kávéra és Pullára (édes kardamomos kalács)."
+          },
+          {
+            "name": "Piparkakku (mézeskalács)",
+            "tip": "Finom snack, hogy energiát adjon a tekeréshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Aulanko",
+            "tip": "Oferă o selecție bună cu o priveliște frumoasă asupra parcului."
+          },
+          {
+            "name": "Cafenea locală",
+            "tip": "Opriți-vă în oraș pentru o cafea și Pulla (pâine dulce cu cardamom)."
+          },
+          {
+            "name": "Piparkakku (turtă dulce)",
+            "tip": "O gustare delicioasă pentru a vă energiza plimbarea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aulanko Restaurant",
+            "tip": "Offers a good selection with a beautiful view of the park."
+          },
+          {
+            "name": "Local Café",
+            "tip": "Stop in town for coffee and Pulla (sweet cardamom bread)."
+          },
+          {
+            "name": "Piparkakku (Gingerbread)",
+            "tip": "A tasty snack to fuel your ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtsturm Aulanko",
+            "tip": "Die ultimative ruhige Belohnung nach dem Aufstieg.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Uferweg des Vanajavesi",
+            "tip": "Genießen Sie die friedliche Fahrt entlang des Wassers.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie einen ruhigen Platz auf dem Burggelände.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aulanko kilátótorony",
+            "tip": "A végső csendes jutalom a mászás után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vanajavesi tóparti ösvény",
+            "tip": "Élvezze a békés tekerést a víz mentén.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Várkert",
+            "tip": "Keressen egy csendes helyet a vár területén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul de observație Aulanko",
+            "tip": "Recompensa supremă și liniștită după urcare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Traseul de pe malul lacului Vanajavesi",
+            "tip": "Bucurați-vă de plimbarea liniștită de-a lungul apei.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Parcul Castelului",
+            "tip": "Găsiți un loc liniștit pe teritoriul castelului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aulanko Observation Tower",
+            "tip": "The ultimate quiet reward after the climb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vanajavesi lakeside path",
+            "tip": "Enjoy the peaceful ride along the water.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Castle Park",
+            "tip": "Find a quiet spot within the castle grounds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Design-Shop in Verkatehdas",
+            "tip": "Einzigartige finnische Designartikel."
+          },
+          {
+            "name": "Handwerksläden im Zentrum",
+            "tip": "Suchen Sie nach lokalen Handwerksprodukten und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dizájnbolt a Verkatehdasban",
+            "tip": "Egyedi finn dizájntárgyak."
+          },
+          {
+            "name": "Kézműves boltok a központban",
+            "tip": "Keressen helyi kézműves termékeket és textileket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de design la Verkatehdas",
+            "tip": "Articole unice de design finlandez."
+          },
+          {
+            "name": "Magazine de artizanat în centru",
+            "tip": "Căutați obiecte de artizanat și textile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Design Shop at Verkatehdas",
+            "tip": "Unique Finnish design items."
+          },
+          {
+            "name": "Craft shops in the centre",
+            "tip": "Look for local handicrafts and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Finnland ist sehr fahrradfreundlich, mit vielen ausgewiesenen Radwegen.",
+          "Nehmen Sie eine Wasserflasche und Snacks mit, besonders für die Fahrt nach Aulanko.",
+          "Ein Schloss für Ihr Fahrrad wird empfohlen, wenn Sie die Sehenswürdigkeiten erkunden."
+        ],
+        "hu": [
+          "Finnország nagyon kerékpárbarát, sok kijelölt kerékpárúttal.",
+          "Vigyen magával vizes palackot és harapnivalót, különösen az Aulankóba vezető útra.",
+          "Kerékpárzár ajánlott, amíg a látnivalókat fedezi fel."
+        ],
+        "ro": [
+          "Finlanda este foarte prietenoasă cu bicicletele, cu multe piste dedicate.",
+          "Luați o sticlă de apă și gustări, în special pentru plimbarea spre Aulanko.",
+          "Un lacăt pentru bicicletă este recomandat atunci când explorați atracțiile."
+        ],
+        "en": [
+          "Finland is very bike-friendly, with many dedicated cycle paths.",
+          "Bring a water bottle and snacks, especially for the ride to Aulanko.",
+          "A lock for your bike is recommended when you're exploring the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 20.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Aulanko-Park",
+            "hu": "Aulanko park",
+            "ro": "Parcul Aulanko",
+            "en": "Aulanko Park"
+          },
+          "coords": [
+            24.465,
+            61.025
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie früh hierher, um die ruhige Morgenatmosphäre und das beste Licht zum Fotografieren zu genießen.",
+            "hu": "Érkezzen ide korán, hogy élvezze a csendes reggeli hangulatot és a legjobb fényeket a fotózáshoz.",
+            "ro": "Conduceți aici devreme pentru a prinde atmosfera liniștită de dimineață și cea mai bună lumină pentru fotografii.",
+            "en": "Drive here early to catch the quiet morning atmosphere and the best light for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsturm Aulanko",
+            "hu": "Aulanko kilátótorony",
+            "ro": "Turnul de observație Aulanko",
+            "en": "Aulanko Observation Tower"
+          },
+          "coords": [
+            24.468,
+            61.028
+          ],
+          "category": "landmark",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum Turm für eine lohnende Aussicht.",
+            "hu": "Rövid séta a parkolótól a toronyig a jutalmazó kilátásért.",
+            "ro": "O scurtă plimbare de la parcare la turn pentru o priveliște plină de satisfacții.",
+            "en": "A short walk from the parking area to the tower for a rewarding view."
+          }
+        },
+        {
+          "name": {
+            "de": "Hämeen linna",
+            "hu": "Häme vára",
+            "ro": "Castelul Häme",
+            "en": "Häme Castle"
+          },
+          "coords": [
+            24.45,
+            61.003
+          ],
+          "category": "castles",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und bereiten Sie sich darauf vor, in die mittelalterliche Geschichte einzutauchen.",
+            "hu": "Parkoljon itt, és készüljön fel, hogy elmerüljön a középkori történelemben.",
+            "ro": "Parcați aici și pregătiți-vă să vă cufundați în istoria medievală.",
+            "en": "Park here and prepare to immerse yourself in medieval history."
+          }
+        },
+        {
+          "name": {
+            "de": "Militaria-Museum",
+            "hu": "Militaria Múzeum",
+            "ro": "Muzeul Militaria",
+            "en": "Museum Militaria"
+          },
+          "coords": [
+            24.452,
+            61.0045
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach der Burgbesichtigung ein einfacher Spaziergang zu diesem faszinierenden Museum.",
+            "hu": "A várlátogatás után egy könnyű séta ehhez a lenyűgöző múzeumhoz.",
+            "ro": "După vizitarea castelului, o plimbare ușoară până la acest muzeu fascinant.",
+            "en": "After the castle visit, an easy walk over to this fascinating museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Stadtzentrum",
+            "hu": "Ebéd és városközpont",
+            "ro": "Prânz și centrul orașului",
+            "en": "Lunch and City Centre"
+          },
+          "coords": [
+            24.465,
+            60.9947
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und genießen Sie ein Mittagessen. Die Kirche und das Sibelius-Haus sind zu Fuß erreichbar.",
+            "hu": "Parkoljon a központban és ebédeljen. A templom és a Sibelius-ház gyalogosan elérhető.",
+            "ro": "Parcați în centru și bucurați-vă de prânz. Biserica și casa Sibelius sunt la distanță de mers pe jos.",
+            "en": "Park in the centre and enjoy lunch. The church and Sibelius house are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Sibelius-Geburtshaus",
+            "hu": "Sibelius szülőháza",
+            "ro": "Casa natală a lui Sibelius",
+            "en": "Sibelius' Birthplace"
+          },
+          "coords": [
+            24.468,
+            60.9958
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Marktplatz entfernt.",
+            "hu": "Rövid séta a piactértől.",
+            "ro": "O scurtă plimbare de la piață.",
+            "en": "A short walk from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Ahvenisto Maauimala",
+            "hu": "Ahvenistói strandfürdő",
+            "ro": "Piscina în aer liber Ahvenisto",
+            "en": "Ahvenisto Outdoor Swimming Pool"
+          },
+          "coords": [
+            24.409,
+            60.993
+          ],
+          "category": "landmark",
+          "arrive_at": "16:48",
+          "stay_min": 70,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag an diesem historischen Ort. Im Sommer können Sie sogar schwimmen.",
+            "hu": "Zárja a napot ezen a történelmi helyszínen. Nyáron akár úszhat is egyet.",
+            "ro": "Încheiați ziua la această locație istorică. Puteți chiar să înotați vara.",
+            "en": "End the day at this historic location. You can even take a swim in the summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt zum ruhigen Aulanko-Park, wo Sie die Aussicht vom Turm genießen. Als Nächstes fahren Sie zum historischen Kern der Stadt: dem Hämeen linna und dem Militaria-Museum, die Sie zu Fuß erkunden. Am Nachmittag parken Sie im Stadtzentrum, essen zu Mittag und spazieren zum Sibelius-Geburtshaus. Beenden Sie Ihr Abenteuer mit einer kurzen Fahrt zum einzigartigen Ahvenisto Freibad. Diese Autotour deckt die Highlights in und um Hämeenlinna effizient ab.",
+        "hu": "Kezdje a napot egy autózással a nyugodt Aulanko parkba, ahol élvezheti a toronyból nyíló kilátást. Ezután irány a város történelmi magja: a Häme vár és a Militaria Múzeum, melyeket gyalogosan fedezhet fel. Délután parkoljon le a városközpontban, ebédeljen meg, és sétáljon el Sibelius szülőházához. Zárja a kalandot egy rövid autózással az egyedülálló Ahvenisto strandfürdőhöz. Ez az autós túra hatékonyan lefedi Hämeenlinna és környékének nevezetességeit.",
+        "ro": "Începeți ziua cu o plimbare cu mașina până la liniștitul Parc Aulanko pentru a admira priveliștea de la turn. Apoi, mergeți la nucleul istoric al orașului: Castelul Häme și Muzeul Militar pentru o explorare pe jos. După-amiaza, parcați în centrul orașului pentru prânz și o plimbare până la locul de naștere al lui Sibelius. Încheiați-vă aventura cu o scurtă călătorie cu mașina până la unica piscină în aer liber Ahvenisto. Acest tur cu mașina acoperă eficient punctele de atracție din și din jurul Hämeenlinna.",
+        "en": "Start your day with a drive to the tranquil Aulanko Park to enjoy the view from its tower. Next, head to the city's historic core: Häme Castle and the Museum Militaria for a walking cluster. In the afternoon, park in the city centre for lunch and a stroll to Sibelius' Birthplace. End your adventure with a short drive to the unique Ahvenisto Outdoor Swimming Pool. This car tour efficiently covers the highlights in and around Hämeenlinna."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am See",
+            "tip": "Genießen Sie frischen Fisch mit Blick auf den Vanajavesi."
+          },
+          {
+            "name": "Markthalle (Kauppahalli)",
+            "tip": "Ein großartiger Ort für ein schnelles, authentisches Mittagessen."
+          },
+          {
+            "name": "Tankstellen-Café (ABC)",
+            "tip": "Überraschend gute und günstige Mahlzeiten, eine finnische Erfahrung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tóparti étterem",
+            "tip": "Élvezze a friss halat a Vanajavesi-tóra néző kilátással."
+          },
+          {
+            "name": "Vásárcsarnok (Kauppahalli)",
+            "tip": "Nagyszerű hely egy gyors, autentikus ebédhez."
+          },
+          {
+            "name": "Benzinkút kávézó (ABC)",
+            "tip": "Meglepően jó és olcsó ételek, egy igazi finn élmény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe malul lacului",
+            "tip": "Bucurați-vă de pește proaspăt cu vedere la lacul Vanajavesi."
+          },
+          {
+            "name": "Hala Pieței (Kauppahalli)",
+            "tip": "Un loc minunat pentru un prânz rapid și autentic."
+          },
+          {
+            "name": "Cafenea la benzinărie (ABC)",
+            "tip": "Mese surprinzător de bune și ieftine, o experiență finlandeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside Restaurant",
+            "tip": "Enjoy fresh fish with a view of Lake Vanajavesi."
+          },
+          {
+            "name": "Market Hall (Kauppahalli)",
+            "tip": "A great spot for a quick, authentic lunch."
+          },
+          {
+            "name": "Gas Station Café (ABC)",
+            "tip": "Surprisingly good and affordable meals, a Finnish experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ahvenisto Wald",
+            "tip": "Machen Sie einen ruhigen Spaziergang um den See in der Nähe des Schwimmbades.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlossgelände nach den Öffnungszeiten",
+            "tip": "Das Gelände ist oft offen und sehr friedlich am Abend.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aulanko National Urban Park",
+            "tip": "Weitläufige Grünflächen für einen Moment der Einsamkeit.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ahvenisto erdő",
+            "tip": "Tegyen egy csendes sétát a tó körül a strandfürdő közelében.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A vár területe zárás után",
+            "tip": "A terület gyakran nyitva van és este nagyon békés.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aulanko Nemzeti Városi Park",
+            "tip": "Hatalmas zöld területek egy pillanatnyi magányért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Ahvenisto",
+            "tip": "Faceți o plimbare liniștită în jurul lacului de lângă piscină.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terenul castelului după program",
+            "tip": "Zona este adesea deschisă și foarte pașnică seara.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Urban Național Aulanko",
+            "tip": "Spații verzi extinse pentru un moment de singurătate.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ahvenisto Forest",
+            "tip": "Take a quiet walk around the lake near the swimming pool.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle grounds after hours",
+            "tip": "The area is often open and very peaceful in the evening.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aulanko National Urban Park",
+            "tip": "Expansive green spaces for a moment of solitude.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Iittala Outlet",
+            "tip": "Eine kurze Autofahrt entfernt, für berühmtes finnisches Glasdesign."
+          },
+          {
+            "name": "Bauernhofläden",
+            "tip": "Halten Sie Ausschau nach Hofläden am Straßenrand für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Iittala Outlet",
+            "tip": "Rövid autóútra található, a híres finn üvegdesignért."
+          },
+          {
+            "name": "Termelői boltok",
+            "tip": "Keresse az út menti boltokat a helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Iittala Outlet",
+            "tip": "La o scurtă distanță cu mașina, pentru faimosul design finlandez din sticlă."
+          },
+          {
+            "name": "Magazine de fermă",
+            "tip": "Fiți atenți la magazinele de la marginea drumului pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Iittala Outlet",
+            "tip": "A short drive away for famous Finnish glass design."
+          },
+          {
+            "name": "Farm Shops",
+            "tip": "Look out for roadside farm shops for local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist in den meisten Gegenden gebührenpflichtig, verwenden Sie eine Park-App oder Münzen.",
+          "Die Geschwindigkeitsbegrenzungen werden streng durchgesetzt, achten Sie auf Blitzer.",
+          "Die Straßenverhältnisse können im Winter schwierig sein, planen Sie entsprechend."
+        ],
+        "hu": [
+          "A parkolás a legtöbb helyen fizetős, használjon parkolóalkalmazást vagy érméket.",
+          "A sebességkorlátozásokat szigorúan betartatják, figyeljen a sebességmérő kamerákra.",
+          "Télen az útviszonyok nehezek lehetnek, tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Parcarea este plătită în majoritatea zonelor, folosiți o aplicație de parcare или монети.",
+          "Limitele de viteză sunt strict aplicate, fiți atenți la camerele de viteză.",
+          "Condițiile de drum pot fi dificile iarna, planificați corespunzător."
+        ],
+        "en": [
+          "Parking is paid in most areas, use a parking app or coins.",
+          "Speed limits are strictly enforced, watch out for speed cameras.",
+          "Road conditions can be challenging in winter, plan accordingly."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche und Stadtzentrum",
+            "hu": "Templom és városközpont",
+            "ro": "Biserica și centrul orașului",
+            "en": "Church and City Centre"
+          },
+          "coords": [
+            24.465,
+            60.9947
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie am zentralen Busbahnhof und gehen Sie zur Kirche.",
+            "hu": "Induljon a központi buszpályaudvarról, és sétáljon a templomhoz.",
+            "ro": "Începeți de la autogara centrală și mergeți pe jos până la biserică.",
+            "en": "Start at the central bus hub and walk to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Sibelius-Geburtshaus",
+            "hu": "Sibelius szülőháza",
+            "ro": "Casa natală a lui Sibelius",
+            "en": "Sibelius' Birthplace"
+          },
+          "coords": [
+            24.468,
+            60.9958
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang durch die Innenstadt vom ersten Halt.",
+            "hu": "Könnyű séta a belvárosban az első megállótól.",
+            "ro": "O plimbare ușoară prin centrul orașului de la prima oprire.",
+            "en": "An easy walk through the downtown area from the first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Hämeen linna",
+            "hu": "Häme vára",
+            "ro": "Castelul Häme",
+            "en": "Häme Castle"
+          },
+          "coords": [
+            24.45,
+            61.003
+          ],
+          "category": "castles",
+          "arrive_at": "11:23",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum. Die Haltestelle ist direkt vor der Burg.",
+            "hu": "Menjen busszal a központból. A megálló közvetlenül a vár előtt van.",
+            "ro": "Luați un autobuz din centru. Stația este chiar în fața castelului.",
+            "en": "Take a bus from the centre. The stop is right in front of the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe der Burg",
+            "hu": "Ebéd a vár közelében",
+            "ro": "Prânz lângă castel",
+            "en": "Lunch near the Castle"
+          },
+          "coords": [
+            24.453,
+            61.001
+          ],
+          "category": "gastro",
+          "arrive_at": "13:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt einige nette Cafés und Restaurants in Gehweite.",
+            "hu": "Sétatávolságra található néhány kellemes kávézó és étterem.",
+            "ro": "Există câteva cafenele și restaurante drăguțe la distanță de mers pe jos.",
+            "en": "There are some nice cafes and restaurants within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Aulanko-Park",
+            "hu": "Aulanko park",
+            "ro": "Parcul Aulanko",
+            "en": "Aulanko Park"
+          },
+          "coords": [
+            24.465,
+            61.025
+          ],
+          "category": "parks",
+          "arrive_at": "15:08",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen anderen Bus von der Burg nach Aulanko für einen Nachmittag in der Natur.",
+            "hu": "Menjen egy másik busszal a vártól Aulankóba egy természetben töltött délutánért.",
+            "ro": "Luați un alt autobuz de la castel la Aulanko pentru o după-amiază în natură.",
+            "en": "Take another bus from the castle area to Aulanko for an afternoon in nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Verkatehdas",
+            "hu": "Verkatehdas",
+            "ro": "Verkatehdas",
+            "en": "Verkatehdas"
+          },
+          "coords": [
+            24.472,
+            60.994
+          ],
+          "category": "cultural centres",
+          "arrive_at": "17:03",
+          "stay_min": 62,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kehren Sie mit dem Bus ins Zentrum zurück und beenden Sie den Tag in diesem Kulturkomplex.",
+            "hu": "Térjen vissza busszal a központba, és fejezze be a napot ebben a kulturális komplexumban.",
+            "ro": "Întoarceți-vă în centru cu autobuzul pentru a încheia ziua la acest complex cultural.",
+            "en": "Return to the centre by bus to finish the day at this cultural complex."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Stadtzentrum, das vom Busbahnhof aus leicht zu Fuß erreichbar ist, und erkunden Sie die Kirche und das Sibelius-Haus. Nehmen Sie dann einen Bus zur prächtigen Burg Häme für eine ausgiebige Erkundung und ein Mittagessen. Am Nachmittag bringt Sie ein weiterer Bus in die grüne Oase des Aulanko-Parks. Beenden Sie Ihren Tag mit einer Busfahrt zurück ins Zentrum zum Verkatehdas Kulturzentrum. Dieser Plan maximiert Ihre Reichweite, indem er kurze Spaziergänge mit effizienten Busfahrten kombiniert.",
+        "hu": "Kezdje a napot a városközpontban, amely könnyen megközelíthető gyalog a buszpályaudvarról, fedezze fel a templomot és a Sibelius-házat. Ezután szálljon buszra a csodálatos Häme várhoz, ahol alaposan körülnézhet és megebédelhet. Délután egy másik busz elviszi az Aulanko park zöld oázisába. Zárja a napot egy buszúttal vissza a központba, a Verkatehdas kulturális központba. Ez a terv maximalizálja az elérést a rövid séták és a hatékony buszutak kombinálásával.",
+        "ro": "Începeți ziua în centrul orașului, ușor accesibil pe jos de la autogară, explorând biserica și casa lui Sibelius. Apoi, luați un autobuz spre magnificul Castel Häme pentru o explorare aprofundată și prânz. După-amiaza, un alt autobuz vă va duce la oaza verde a Parcului Aulanko. Încheiați ziua cu o călătorie cu autobuzul înapoi în centru, la Centrul Cultural Verkatehdas. Acest plan maximizează acoperirea, combinând plimbări scurte cu călătorii eficiente cu autobuzul.",
+        "en": "Start your day in the city centre, easily walkable from the bus hub, exploring the church and Sibelius' house. Then, take a bus to the magnificent Häme Castle for an extensive exploration and lunch. In the afternoon, another bus will whisk you away to the green oasis of Aulanko Park. End your day with a bus ride back to the centre to the Verkatehdas Cultural Centre. This plan maximizes your reach by combining short walks with efficient bus rides."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cafés am Marktplatz",
+            "tip": "Ideal für eine Kaffeepause, bevor Sie den nächsten Bus nehmen."
+          },
+          {
+            "name": "Restaurant in Verkatehdas",
+            "tip": "Praktisch und gut für ein Abendessen nach einem langen Tag."
+          },
+          {
+            "name": "Grillikioski",
+            "tip": "Probieren Sie finnisches Fast Food wie 'Makkaraperunat' (Wurst mit Pommes)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézók a piactéren",
+            "tip": "Ideális egy kávészünetre a következő busz előtt."
+          },
+          {
+            "name": "Étterem a Verkatehdasban",
+            "tip": "Kényelmes és jó egy hosszú nap utáni vacsorához."
+          },
+          {
+            "name": "Grillikioski",
+            "tip": "Kóstolja meg a finn gyorsételt, mint a 'Makkaraperunat' (kolbász sült krumplival)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele din Piața Centrală",
+            "tip": "Ideal pentru o pauză de cafea înainte de a lua următorul autobuz."
+          },
+          {
+            "name": "Restaurant la Verkatehdas",
+            "tip": "Convenabil și bun pentru cină după o zi lungă."
+          },
+          {
+            "name": "Grillikioski",
+            "tip": "Încercați mâncarea rapidă finlandeză, cum ar fi 'Makkaraperunat' (cârnați cu cartofi prăjiți)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square Cafes",
+            "tip": "Ideal for a coffee break before catching the next bus."
+          },
+          {
+            "name": "Restaurant at Verkatehdas",
+            "tip": "Convenient and good for dinner after a long day."
+          },
+          {
+            "name": "Grillikioski",
+            "tip": "Try Finnish fast food like 'Makkaraperunat' (sausage with fries)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt aus der Stadt",
+            "tip": "Genießen Sie die vorbeiziehende Landschaft und entspannen Sie sich.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank im Aulanko-Park",
+            "tip": "Finden Sie einen ruhigen Ort abseits der Hauptwege.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Am Seeufer in der Nähe von Verkatehdas",
+            "tip": "Ein schöner Ort, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszút a városból kifelé",
+            "tip": "Élvezze az elsuhanó tájat és pihenjen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad az Aulanko parkban",
+            "tip": "Keressen egy csendes helyet a fő ösvényektől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A tóparton a Verkatehdas közelében",
+            "tip": "Szép hely a nap lezárásához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul în afara orașului",
+            "tip": "Bucurați-vă de peisajul care trece și relaxați-vă.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în Parcul Aulanko",
+            "tip": "Găsiți un loc liniștit departe de potecile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul lacului lângă Verkatehdas",
+            "tip": "Un loc frumos pentru a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride out of the city",
+            "tip": "Enjoy the passing scenery and relax.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in Aulanko Park",
+            "tip": "Find a quiet spot away from the main paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lakeside near Verkatehdas",
+            "tip": "A nice spot to wind down the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Goodman Shopping Centre",
+            "tip": "In der Nähe des Busbahnhofs, falls Sie etwas benötigen."
+          },
+          {
+            "name": "Souvenirladen im Schloss",
+            "tip": "Finden Sie thematische Geschenke und Bücher."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Goodman bevásárlóközpont",
+            "tip": "A buszpályaudvar közelében, ha szüksége van valamire."
+          },
+          {
+            "name": "Ajándékbolt a várban",
+            "tip": "Találjon tematikus ajándékokat és könyveket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Goodman",
+            "tip": "Aproape de autogară în caz că aveți nevoie de ceva."
+          },
+          {
+            "name": "Magazinul de suveniruri de la castel",
+            "tip": "Găsiți cadouri și cărți tematice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goodman Shopping Centre",
+            "tip": "Near the bus station in case you need anything."
+          },
+          {
+            "name": "Castle's gift shop",
+            "tip": "Find themed gifts and books."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne und Routen in Echtzeit zu verfolgen.",
+          "Busse halten möglicherweise nicht automatisch an jeder Haltestelle; drücken Sie den Stopp-Knopf."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "A buszok nem feltétlenül állnak meg minden megállóban; nyomja meg a stop gombot."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația locală de transport public pentru orare și rute în timp real.",
+          "Autobuzele s-ar putea să nu oprească automat la fiecare stație; apăsați butonul de oprire."
+        ],
+        "en": [
+          "Buy a day ticket for unlimited travel.",
+          "Download the local public transport app for real-time schedules and routes.",
+          "Buses may not stop automatically at every stop; press the stop button."
+        ]
+      }
+    }
+  }
+}

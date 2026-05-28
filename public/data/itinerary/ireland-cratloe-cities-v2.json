@@ -1,0 +1,1288 @@
+{
+  "city_id": "ireland-cratloe-cities-v2",
+  "anchor": {
+    "name": "Cratloe",
+    "coords": [
+      -8.766,
+      52.705
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St. John's Kirche",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sf. Ioan",
+            "en": "St. John's Church"
+          },
+          "coords": [
+            -8.768,
+            52.706
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beachten Sie die Buntglasfenster, die lokale Geschichten darstellen.",
+            "hu": "Figyeld meg a helyi történeteket ábrázoló ólomüveg ablakokat.",
+            "ro": "Observați vitraliile ce înfățișează povești locale.",
+            "en": "Note the stained glass windows depicting local histories."
+          }
+        },
+        {
+          "name": {
+            "de": "Cratloe Grotte",
+            "hu": "Cratloe-i barlang",
+            "ro": "Grota Cratloe",
+            "en": "Cratloe Grotto"
+          },
+          "coords": [
+            -8.771,
+            52.708
+          ],
+          "category": "monuments",
+          "arrive_at": "09:46",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort der Besinnung, oft von Einheimischen besucht.",
+            "hu": "Csendes, elmélkedésre alkalmas hely, a helyiek gyakran látogatják.",
+            "ro": "Un loc liniștit pentru reflecție, frecventat de localnici.",
+            "en": "A quiet spot for reflection, often visited by locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Cratloe Woods",
+            "hu": "Cratloe-i erdő",
+            "ro": "Pădurea Cratloe",
+            "en": "Cratloe Woods"
+          },
+          "coords": [
+            -8.78,
+            52.715
+          ],
+          "category": "forest",
+          "arrive_at": "10:26",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Hauptweg für eine einfache Wanderung, aber tragen Sie festes Schuhwerk.",
+            "hu": "Kövesd a fő ösvényt egy könnyű túrához, de viselj erős cipőt.",
+            "ro": "Urmați poteca principală pentru o drumeție ușoară, dar purtați încălțăminte rezistentă.",
+            "en": "Follow the main trail for an easy hike, but wear sturdy footwear."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallows Hill Aussichtspunkt",
+            "hu": "Akasztófa-hegyi kilátó",
+            "ro": "Punct de observare Gallows Hill",
+            "en": "Gallows Hill Viewpoint"
+          },
+          "coords": [
+            -8.785,
+            52.719
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:41",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der beste Panoramablick über die Shannon-Mündung. Bringen Sie ein Fernglas mit.",
+            "hu": "A legjobb panoráma a Shannon torkolatára. Hozz távcsövet!",
+            "ro": "Cea mai bună vedere panoramică asupra Estuarului Shannon. Aduceți un binoclu.",
+            "en": "The best panoramic view over the Shannon Estuary. Bring a pair of binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im The Shannon Inn",
+            "hu": "Ebéd a The Shannon Inn-ben",
+            "ro": "Prânz la The Shannon Inn",
+            "en": "Lunch at The Shannon Inn"
+          },
+          "coords": [
+            -8.765,
+            52.704
+          ],
+          "category": "gastro",
+          "arrive_at": "14:11",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Probieren Sie den Irish Stew für eine authentische Mahlzeit nach der Wanderung.",
+            "hu": "Kóstold meg az ír gulyást egy autentikus túra utáni ebédhez.",
+            "ro": "Încercați tocană irlandeză pentru o masă autentică după drumeție.",
+            "en": "Try the Irish Stew for an authentic post-hike meal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Spaziergang durch das Herz von Cratloe und entdecken Sie seine spirituellen Stätten. Tauchen Sie dann in das üppige Grün der Cratloe Woods ein, Heimat alter Eichen. Am Nachmittag genießen Sie atemberaubende Ausblicke vom Gallows Hill, bevor Sie sich mit einer herzhaften Mahlzeit in einem lokalen Pub entspannen. Der Abend ist perfekt für einen ruhigen Spaziergang und das Erleben der ruhigen Atmosphäre des Dorfes.",
+        "hu": "Kezdje a napot egy sétával Cratloe szívében, felfedezve spirituális helyszíneit. Merüljön el a Cratloe-i erdő buja zöldjében, ahol ősi tölgyfák találhatók. Délután élvezze a lélegzetelállító kilátást az Akasztófa-hegyről, majd lazítson egy kiadós étellel egy helyi kocsmában. Az este tökéletes egy csendes sétára, átélve a falu békés hangulatát.",
+        "ro": "Începeți ziua cu o plimbare prin inima Cratloe, descoperind siturile sale spirituale. Apoi, scufundați-vă în verdeața luxuriantă a Pădurii Cratloe, casă a stejarilor antici. După-amiaza, bucurați-vă de priveliști uimitoare de pe Gallows Hill înainte de a vă relaxa cu o masă copioasă la un pub local. Seara este perfectă pentru o plimbare liniștită, experimentând atmosfera calmă a satului.",
+        "en": "Start your day with a stroll through the heart of Cratloe, discovering its spiritual sites. Then, immerse yourself in the lush greenery of Cratloe Woods, home to ancient oaks. In the afternoon, take in breathtaking views from Gallows Hill before relaxing with a hearty meal at a local pub. The evening is perfect for a quiet walk, experiencing the village's serene atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Shannon Inn",
+            "tip": "Ein traditioneller Pub mit einer gemütlichen Atmosphäre und klassischer irischer Küche."
+          },
+          {
+            "name": "Durty Nelly's",
+            "tip": "Etwas weiter entfernt, aber berühmt für sein Essen und seine lebhafte Musik am Abend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Shannon Inn",
+            "tip": "Hagyományos kocsma, barátságos légkörrel és klasszikus ír ételekkel."
+          },
+          {
+            "name": "Durty Nelly's",
+            "tip": "Kicsit távolabb van, de híres az ételeiről és az esti élő zenéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Shannon Inn",
+            "tip": "Un pub tradițional cu o atmosferă primitoare și mâncare clasică irlandeză."
+          },
+          {
+            "name": "Durty Nelly's",
+            "tip": "Puțin mai departe, dar renumit pentru mâncare și muzica live seara."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Shannon Inn",
+            "tip": "A traditional pub with a welcoming atmosphere and classic Irish food."
+          },
+          {
+            "name": "Durty Nelly's",
+            "tip": "A bit further afield, but famous for its food and lively music in the evenings."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cratloe Grotte",
+            "tip": "Ein friedlicher Ort für stille Kontemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Shannon",
+            "tip": "Finden Sie einen ruhigen Platz entlang des Flussufers, um die Natur zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Gallows Hill",
+            "tip": "Beobachten Sie, wie die Sonne über dem Shannon-Mündungsgebiet untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cratloe-i barlang",
+            "tip": "Békés hely a csendes elmélkedéshez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Shannon-part",
+            "tip": "Találj egy csendes helyet a folyóparton a természet megfigyelésére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente az Akasztófa-hegyen",
+            "tip": "Nézd, ahogy a nap lenyugszik a Shannon torkolata felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grota Cratloe",
+            "tip": "Un loc pașnic pentru contemplație tăcută.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malurile Shannonului",
+            "tip": "Găsiți un loc liniștit de-a lungul malului râului pentru a observa natura.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus la Gallows Hill",
+            "tip": "Priviți soarele apunând peste estuarul Shannon.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cratloe Grotto",
+            "tip": "A peaceful spot for quiet contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the Shannon",
+            "tip": "Find a quiet spot along the riverbank to watch nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at Gallows Hill",
+            "tip": "Watch the sun set over the Shannon Estuary.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bunratty Folk Park Shops",
+            "tip": "Obwohl man für den Park bezahlen muss, gibt es dort einzigartige handgefertigte irische Geschenke."
+          },
+          {
+            "name": "Lokale Bauernmärkte",
+            "tip": "Halten Sie Ausschau nach saisonalen Märkten für lokale Produkte und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bunratty Skanzen üzletei",
+            "tip": "Bár a parkba belépődíjas, egyedi, kézzel készített ír ajándékokat találhatsz."
+          },
+          {
+            "name": "Helyi termelői piacok",
+            "tip": "Keresd a szezonális piacokat helyi termékekért és kézműves árukért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele din Bunratty Folk Park",
+            "tip": "Deși trebuie să plătiți pentru parc, veți găsi cadouri irlandeze unice, lucrate manual."
+          },
+          {
+            "name": "Piețe locale de fermieri",
+            "tip": "Fiți atenți la piețele sezoniere pentru produse și meșteșuguri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bunratty Folk Park Shops",
+            "tip": "Although you have to pay to enter the park, you'll find unique handmade Irish gifts."
+          },
+          {
+            "name": "Local Farmer's Markets",
+            "tip": "Keep an eye out for seasonal markets for local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme, wasserdichte Wanderschuhe.",
+          "Das Wetter kann sich schnell ändern, nehmen Sie also einen Regenmantel mit.",
+          "Bringen Sie Wasser und Snacks mit, besonders für die Wanderung im Wald.",
+          "Die Mobilfunkabdeckung kann im Wald lückenhaft sein, laden Sie Karten im Voraus herunter."
+        ],
+        "hu": [
+          "Viselj kényelmes, vízálló túracipőt.",
+          "Az időjárás gyorsan változhat, ezért vigyél magaddal esőkabátot.",
+          "Vigyél vizet és rágcsálnivalót, különösen az erdei túrára.",
+          "A mobil térerő foltos lehet az erdőben, ezért töltsd le a térképeket előre."
+        ],
+        "ro": [
+          "Purtați pantofi de drumeție confortabili și impermeabili.",
+          "Vremea se poate schimba rapid, așa că luați o pelerină de ploaie.",
+          "Aduceți apă și gustări, în special pentru drumeția în pădure.",
+          "Semnalul mobil poate fi slab în pădure, descărcați hărțile în avans."
+        ],
+        "en": [
+          "Wear comfortable, waterproof hiking shoes.",
+          "The weather can change quickly, so bring a raincoat.",
+          "Bring water and snacks, especially for the hike in the woods.",
+          "Mobile signal can be patchy in the woods, download maps beforehand."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 25.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cratloe Woods House",
+            "hu": "Cratloe Woods Ház",
+            "ro": "Casa Cratloe Woods",
+            "en": "Cratloe Woods House"
+          },
+          "coords": [
+            -8.775,
+            52.71
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Privatbesitz, bewundern Sie es also von der Straße aus. Die Architektur ist bemerkenswert.",
+            "hu": "Magántulajdon, így csak az útról csodáld meg. Az építészete figyelemre méltó.",
+            "ro": "Proprietate privată, așa că admirați-o de pe drum. Arhitectura este remarcabilă.",
+            "en": "Private property, so admire it from the road. The architecture is noteworthy."
+          }
+        },
+        {
+          "name": {
+            "de": "Cratloe Woods Radweg",
+            "hu": "Cratloe-i erdei kerékpárút",
+            "ro": "Pista de biciclete din Pădurea Cratloe",
+            "en": "Cratloe Woods Bike Trail"
+          },
+          "coords": [
+            -8.782,
+            52.716
+          ],
+          "category": "forest",
+          "arrive_at": "09:39",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Wege können schlammig sein, ein Mountainbike ist ideal.",
+            "hu": "Az ösvények sárosak lehetnek, egy mountain bike ideális.",
+            "ro": "Potecile pot fi noroioase, o bicicletă de munte este ideală.",
+            "en": "The trails can be muddy, a mountain bike is ideal."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallows Hill",
+            "hu": "Akasztófa-hegy",
+            "ro": "Gallows Hill",
+            "en": "Gallows Hill"
+          },
+          "coords": [
+            -8.785,
+            52.719
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer, steiler Anstieg, aber die Aussicht ist die Mühe wert.",
+            "hu": "Rövid, meredek emelkedő, de a kilátás megéri a fáradságot.",
+            "ro": "O urcare scurtă și abruptă, dar priveliștea merită efortul.",
+            "en": "A short, steep climb, but the view is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Shannon-Mündungsgebiet",
+            "hu": "Kerékpárút a Shannon torkolatához",
+            "ro": "Plimbare spre Estuarul Shannon",
+            "en": "Ride towards the Shannon Estuary"
+          },
+          "coords": [
+            -8.81,
+            52.68
+          ],
+          "category": "natural features",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Die Straße kann eng sein, seien Sie vorsichtig mit dem Verkehr.",
+            "hu": "Az út szűk lehet, légy óvatos a forgalommal.",
+            "ro": "Drumul poate fi îngust, fiți atenți la trafic.",
+            "en": "The road can be narrow, be cautious with traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Bunratty",
+            "hu": "Ebéd Bunrattyben",
+            "ro": "Prânz în Bunratty",
+            "en": "Lunch in Bunratty"
+          },
+          "coords": [
+            -8.812,
+            52.699
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie das Dorf nach dem Essen.",
+            "hu": "Zárd le biztonságosan a kerékpárodat, és ebéd után fedezd fel a falut.",
+            "ro": "Asigurați-vă bicicleta și explorați satul după masă.",
+            "en": "Lock your bike securely and explore the village after your meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunratty Castle",
+            "hu": "Bunratty kastély",
+            "ro": "Castelul Bunratty",
+            "en": "Bunratty Castle"
+          },
+          "coords": [
+            -8.811,
+            52.701
+          ],
+          "category": "castles",
+          "arrive_at": "15:17",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Folk Park ist riesig, planen Sie also genügend Zeit ein.",
+            "hu": "A Skanzen hatalmas, ezért szánj rá elég időt.",
+            "ro": "Parcul folcloric este vast, așa că alocați suficient timp.",
+            "en": "The Folk Park is vast, so allow plenty of time."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Radtag, der Natur und Geschichte verbindet. Beginnen Sie mit der Erkundung der Waldwege und Ausblicke rund um Cratloe. Am Vormittag führt Sie eine malerische Fahrt zum majestätischen Shannon-Mündungsgebiet. Stärken Sie sich mit einem Mittagessen im historischen Dorf Bunratty, gefolgt von einem Nachmittag im berühmten Schloss und Folk Park. Die Rückfahrt bietet eine entspannte Gelegenheit, die ländliche Landschaft von Clare zu genießen.",
+        "hu": "Egy kerékpáros nap, amely ötvözi a természetet és a történelmet. Kezdje a Cratloe körüli erdei ösvények és kilátók felfedezésével. A délelőtt egy festői útra visz a fenséges Shannon torkolatához. Ebédeljen a történelmi Bunratty faluban, majd töltsön egy délutánt a híres kastélyban és skanzenben. A visszaút pihentető lehetőséget kínál Clare vidéki tájának élvezetére.",
+        "ro": "O zi pe bicicletă care îmbină natura și istoria. Începeți explorând traseele forestiere și punctele de vedere din jurul Cratloe. Dimineața vă duce într-o plimbare pitorească spre maiestuosul Estuar Shannon. Luați prânzul în satul istoric Bunratty, urmat de o după-amiază la faimosul castel și parc folcloric. Călătoria de întoarcere oferă o oportunitate relaxantă de a vă bucura de peisajul rural din Clare.",
+        "en": "A cycling day combining nature and history. Start by exploring the woodland trails and viewpoints around Cratloe. The morning takes you on a scenic ride towards the majestic Shannon Estuary. Refuel with lunch in the historic village of Bunratty, followed by an afternoon at its famous castle and folk park. The return journey offers a relaxing chance to soak in the Clare countryside."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Durty Nelly's",
+            "tip": "Ein Muss in Bunratty, berühmt für sein Essen und die traditionelle Atmosphäre."
+          },
+          {
+            "name": "JP Clarke's",
+            "tip": "Ein gastropub, der für seine Meeresfrüchte und die Aussicht auf den Fluss bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Durty Nelly's",
+            "tip": "Kötelező Bunratty-ben, híres az ételeiről és a hagyományos hangulatáról."
+          },
+          {
+            "name": "JP Clarke's",
+            "tip": "Gasztropub, amely a tenger gyümölcseiről és a folyóra néző kilátásról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Durty Nelly's",
+            "tip": "O vizită obligatorie în Bunratty, faimos pentru mâncarea sa și atmosfera tradițională."
+          },
+          {
+            "name": "JP Clarke's",
+            "tip": "Un gastropub cunoscut pentru fructele de mare și priveliștea spre râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Durty Nelly's",
+            "tip": "A must-visit in Bunratty, famous for its food and traditional atmosphere."
+          },
+          {
+            "name": "JP Clarke's",
+            "tip": "A gastropub known for its seafood and river views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cratloe Woods Pfade",
+            "tip": "Verlieren Sie sich auf den weniger befahrenen Wegen für einen Moment der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht auf das Shannon-Mündungsgebiet",
+            "tip": "Ein weiter, offener Raum, um die Weite der Landschaft zu betrachten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cratloe-i erdei ösvények",
+            "tip": "Tévedj el a kevésbé járt ösvényeken egy pillanatnyi békéért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Shannon torkolatára",
+            "tip": "Tágas, nyílt tér a táj végtelenségének szemlélésére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecile din Pădurea Cratloe",
+            "tip": "Pierdeți-vă pe cărările mai puțin circulate pentru un moment de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere spre Estuarul Shannon",
+            "tip": "Un spațiu larg și deschis pentru a contempla vastitatea peisajului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cratloe Woods Trails",
+            "tip": "Get lost on the less-traveled paths for a moment of peace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Shannon Estuary View",
+            "tip": "A wide-open space to contemplate the vastness of the landscape.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avoca Handweavers",
+            "tip": "In der Nähe von Bunratty, perfekt für hochwertige irische Textilien und Geschenke."
+          },
+          {
+            "name": "The Bunratty Courtyard",
+            "tip": "Eine Sammlung von Kunsthandwerksläden neben dem Schloss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avoca Handweavers",
+            "tip": "Bunratty közelében, tökéletes hely a minőségi ír textíliák és ajándékok beszerzésére."
+          },
+          {
+            "name": "The Bunratty Courtyard",
+            "tip": "Kézműves boltok gyűjteménye a kastély mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avoca Handweavers",
+            "tip": "Lângă Bunratty, perfect pentru textile și cadouri irlandeze de înaltă calitate."
+          },
+          {
+            "name": "The Bunratty Courtyard",
+            "tip": "O colecție de magazine de artizanat lângă castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avoca Handweavers",
+            "tip": "Near Bunratty, perfect for high-quality Irish textiles and gifts."
+          },
+          {
+            "name": "The Bunratty Courtyard",
+            "tip": "A collection of artisan shops next to the castle."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Ein Helm wird dringend empfohlen.",
+          "Planen Sie Ihre Route im Voraus, da einige Straßen keine Radwege haben.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a kerékpárodat, különösen a fékeket és a gumikat.",
+          "Sisak használata erősen ajánlott.",
+          "Tervezd meg az útvonalat előre, mivel néhány úton nincs kerékpársáv.",
+          "Vigyél magaddal lakatot, hogy biztonságosan lezárhasd a biciklit a megállóknál."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "O cască este foarte recomandată.",
+          "Planificați-vă traseul în avans, deoarece unele drumuri nu au piste pentru biciclete.",
+          "Aduceți un lacăt pentru a vă asigura bicicleta la opriri."
+        ],
+        "en": [
+          "Check your bike before you leave, especially brakes and tires.",
+          "A helmet is strongly recommended.",
+          "Plan your route in advance, as some roads may not have bike lanes.",
+          "Bring a lock to secure your bike at stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 40,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 55.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Cratloe Woods & Hills",
+            "hu": "A. klaszter: Cratloe-i erdő és hegyek",
+            "ro": "Cluster A: Pădurea și Dealurile Cratloe",
+            "en": "Cluster A: Cratloe Woods & Hills"
+          },
+          "coords": [
+            -8.78,
+            52.715
+          ],
+          "category": "forest",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Spaziergang. Der Parkplatz ist der Ausgangspunkt.",
+            "hu": "Parkolj le itt, és indulj sétálni. A parkoló a kiindulópont.",
+            "ro": "Parcați aici și începeți plimbarea. Parcarea este punctul de plecare.",
+            "en": "Park here and begin your walk. The car park is the starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallows Hill",
+            "hu": "Akasztófa-hegy",
+            "ro": "Gallows Hill",
+            "en": "Gallows Hill"
+          },
+          "coords": [
+            -8.785,
+            52.719
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus für eine unglaubliche Aussicht.",
+            "hu": "Rövid séta a parkolótól a hihetetlen kilátásért.",
+            "ro": "O scurtă plimbare de la parcare pentru o priveliște incredibilă.",
+            "en": "A short walk from the car park for an incredible view."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Knappogue Castle",
+            "hu": "B. klaszter: Knappogue kastély",
+            "ro": "Cluster B: Castelul Knappogue",
+            "en": "Cluster B: Knappogue Castle"
+          },
+          "coords": [
+            -8.848,
+            52.812
+          ],
+          "category": "castles",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Weniger überlaufen als Bunratty, bietet es eine intimere Schlosserfahrung.",
+            "hu": "Kevésbé zsúfolt, mint Bunratty, így intimebb kastélyélményt nyújt.",
+            "ro": "Mai puțin aglomerat decât Bunratty, oferă o experiență mai intimă a castelului.",
+            "en": "Less crowded than Bunratty, offering a more intimate castle experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Walled Garden in Knappogue",
+            "hu": "Fallal körülvett kert Knappogue-ban",
+            "ro": "Grădina înconjurată de ziduri din Knappogue",
+            "en": "Walled Garden at Knappogue"
+          },
+          "coords": [
+            -8.847,
+            52.811
+          ],
+          "category": "garden",
+          "arrive_at": "12:55",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein wunderschön restaurierter viktorianischer Garten, perfekt für einen ruhigen Spaziergang.",
+            "hu": "Gyönyörűen felújított viktoriánus kert, tökéletes egy csendes sétához.",
+            "ro": "O grădină victoriană frumos restaurată, perfectă pentru o plimbare liniștită.",
+            "en": "A beautifully restored Victorian garden, perfect for a quiet stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Bunratty Castle & Folk Park",
+            "hu": "C. klaszter: Bunratty kastély és Skanzen",
+            "ro": "Cluster C: Castelul și Parcul Folcloric Bunratty",
+            "en": "Cluster C: Bunratty Castle & Folk Park"
+          },
+          "coords": [
+            -8.811,
+            52.701
+          ],
+          "category": "castles",
+          "arrive_at": "14:10",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Planen Sie den Großteil Ihres Nachmittags hier ein. Es gibt viel zu sehen.",
+            "hu": "Tervezd ide a délutánod nagy részét. Rengeteg a látnivaló.",
+            "ro": "Planificați cea mai mare parte a după-amiezii aici. Sunt multe de văzut.",
+            "en": "Plan most of your afternoon here. There is a lot to see."
+          }
+        },
+        {
+          "name": {
+            "de": "Shopping in den Handwerksläden",
+            "hu": "Vásárlás a kézműves boltokban",
+            "ro": "Cumpărături la magazinele de artizanat",
+            "en": "Shopping at the Craft Shops"
+          },
+          "coords": [
+            -8.812,
+            52.699
+          ],
+          "category": "shopping",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Finden Sie einzigartige Souvenirs bei Avoca oder The Bunratty Courtyard.",
+            "hu": "Találj egyedi szuveníreket az Avoca vagy a The Bunratty Courtyard üzletben.",
+            "ro": "Găsiți suveniruri unice la Avoca sau The Bunratty Courtyard.",
+            "en": "Find unique souvenirs at Avoca or The Bunratty Courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Durty Nelly's",
+            "hu": "Vacsora a Durty Nelly's-ben",
+            "ro": "Cină la Durty Nelly's",
+            "en": "Dinner at Durty Nelly's"
+          },
+          "coords": [
+            -8.813,
+            52.701
+          ],
+          "category": "gastro",
+          "arrive_at": "17:35",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem mittelalterlichen Bankett oder einem Pub-Essen in diesem legendären Lokal.",
+            "hu": "Zárd a napot egy középkori lakomával vagy egy pub-vacsorával ebben a legendás helyben.",
+            "ro": "Încheiați-vă ziua cu un banchet medieval sau o masă la pub în acest local iconic.",
+            "en": "End your day with a medieval banquet or a pub meal at this iconic spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die historischen Schätze von Clare erkunden. Beginnen Sie Ihren Morgen in den ruhigen Cratloe Woods. Fahren Sie dann nach Norden zum eleganten Knappogue Castle und seinem ummauerten Garten. Am Nachmittag tauchen Sie in das lebhafte Treiben von Bunratty Castle & Folk Park ein, einem der berühmtesten Wahrzeichen Irlands. Beenden Sie Ihren Tag mit einem unvergesslichen Abendessen in einem Pub, der seit 1620 Reisende bedient.",
+        "hu": "Az autóval felfedezheti Clare történelmi kincseit. Kezdje a reggelt a csendes Cratloe-i erdőben. Ezután vezessen északra az elegáns Knappogue kastélyhoz és a fallal körülvett kertjéhez. Délután merüljön el a Bunratty kastély és Skanzen nyüzsgésében, Írország egyik leghíresebb nevezetességénél. Zárja a napot egy emlékezetes vacsorával egy olyan kocsmában, amely 1620 óta szolgálja ki az utazókat.",
+        "ro": "Mașina vă permite să explorați comorile istorice din Clare. Începeți dimineața în liniștita Pădure Cratloe. Apoi, conduceți spre nord la elegantul Castel Knappogue și grădina sa împrejmuită. După-amiaza, scufundați-vă în agitația Castelului și Parcului Folcloric Bunratty, una dintre cele mai faimoase atracții ale Irlandei. Încheiați-vă ziua cu o cină memorabilă la un pub care servește călătorii din 1620.",
+        "en": "The car allows you to explore the historical treasures of Clare. Start your morning in the serene Cratloe Woods. Then, drive north to the elegant Knappogue Castle and its walled garden. In the afternoon, immerse yourself in the hustle and bustle of Bunratty Castle & Folk Park, one of Ireland's most famous landmarks. End your day with a memorable dinner at a pub that has been serving travelers since 1620."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Durty Nelly's",
+            "tip": "Legendär für seine Atmosphäre und sein Essen. Eine Reservierung für das Bankett ist unerlässlich."
+          },
+          {
+            "name": "Gallagher's Seafood Restaurant",
+            "tip": "Gegenüber von Bunratty, bekannt für frische Meeresfrüchte."
+          },
+          {
+            "name": "The Creamery Bar",
+            "tip": "Ein restauriertes Gebäude mit großartigem Essen und einer entspannten Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Durty Nelly's",
+            "tip": "Legendás a hangulata és az ételei miatt. A lakomára foglalás elengedhetetlen."
+          },
+          {
+            "name": "Gallagher's Seafood Restaurant",
+            "tip": "Bunratty-vel szemben, friss tengeri ételeiről ismert."
+          },
+          {
+            "name": "The Creamery Bar",
+            "tip": "Felújított épület, nagyszerű ételekkel és nyugodt légkörrel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Durty Nelly's",
+            "tip": "Legendar pentru atmosfera și mâncarea sa. Rezervarea este esențială pentru banchet."
+          },
+          {
+            "name": "Gallagher's Seafood Restaurant",
+            "tip": "Peste drum de Bunratty, renumit pentru fructele de mare proaspete."
+          },
+          {
+            "name": "The Creamery Bar",
+            "tip": "O clădire restaurată cu mâncare excelentă și o atmosferă relaxată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Durty Nelly's",
+            "tip": "Legendary for its atmosphere and food. Booking is essential for the banquet."
+          },
+          {
+            "name": "Gallagher's Seafood Restaurant",
+            "tip": "Across the road from Bunratty, renowned for fresh seafood."
+          },
+          {
+            "name": "The Creamery Bar",
+            "tip": "A restored building with great food and a relaxed vibe."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Knappogue Walled Garden",
+            "tip": "Ein Zufluchtsort der Ruhe und Schönheit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Fluss in Bunratty",
+            "tip": "Gehen Sie hinter dem Schloss spazieren für friedliche Ausblicke auf den Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Knappogue fallal körülvett kert",
+            "tip": "A béke és a szépség menedéke.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Folyóparti séta Bunrattyben",
+            "tip": "Sétálj a kastély mögött a békés folyóparti kilátásért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina înconjurată de ziduri Knappogue",
+            "tip": "Un sanctuar de pace și frumusețe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul râului în Bunratty",
+            "tip": "Mergeți în spatele castelului pentru vederi pașnice ale râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Knappogue Walled Garden",
+            "tip": "A sanctuary of peace and beauty.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "River walk in Bunratty",
+            "tip": "Walk behind the castle for peaceful river views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Meadows and Byrne",
+            "tip": "Teil des Bunratty-Komplexes, bietet stilvolle irische Haushaltswaren und Mode."
+          },
+          {
+            "name": "Blarney Woollen Mills",
+            "tip": "Ein großer Laden mit einer riesigen Auswahl an irischen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Meadows and Byrne",
+            "tip": "A Bunratty komplexum része, stílusos ír háztartási cikkeket és divatot kínál."
+          },
+          {
+            "name": "Blarney Woollen Mills",
+            "tip": "Nagy áruház ír termékek hatalmas választékával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Meadows and Byrne",
+            "tip": "Parte a complexului Bunratty, oferind articole de uz casnic și modă irlandeză elegantă."
+          },
+          {
+            "name": "Blarney Woollen Mills",
+            "tip": "Un magazin mare cu o selecție uriașă de produse irlandeze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Meadows and Byrne",
+            "tip": "Part of the Bunratty complex, offering stylish Irish homewares and fashion."
+          },
+          {
+            "name": "Blarney Woollen Mills",
+            "tip": "A large store with a huge selection of Irish products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viele Parkplätze sind kostenpflichtig, halten Sie also Münzen bereit.",
+          "Überprüfen Sie die Öffnungszeiten der Burgen, da sie saisonal variieren.",
+          "Buchen Sie Tickets für Bunratty online im Voraus, um Warteschlangen zu vermeiden.",
+          "Die Straßen können eng und kurvenreich sein, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Sok parkoló fizetős, ezért legyen nálad aprópénz.",
+          "Ellenőrizd a kastélyok nyitvatartási idejét, mert szezonálisan változhat.",
+          "Foglalj jegyet Bunrattybe online előre, hogy elkerüld a sorban állást.",
+          "Az utak szűkek és kanyargósak lehetnek, vezess óvatosan."
+        ],
+        "ro": [
+          "Multe parcări sunt cu plată, așa că aveți monede la îndemână.",
+          "Verificați orele de deschidere ale castelelor, deoarece acestea variază în funcție de sezon.",
+          "Rezervați biletele pentru Bunratty online în avans pentru a evita cozile.",
+          "Drumurile pot fi înguste și șerpuite, conduceți cu atenție."
+        ],
+        "en": [
+          "Many car parks are pay-and-display, so keep coins handy.",
+          "Check the opening times for the castles as they vary seasonally.",
+          "Book tickets for Bunratty online in advance to avoid queues.",
+          "Roads can be narrow and winding, drive with care."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Cratloe Village Walk",
+            "hu": "A. klaszter: Séta Cratloe faluban",
+            "ro": "Cluster A: Plimbare în satul Cratloe",
+            "en": "Cluster A: Cratloe Village Walk"
+          },
+          "coords": [
+            -8.768,
+            52.706
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie an der Kirche und schlendern Sie durch das Dorf.",
+            "hu": "Kezdd a templomnál, és sétálj végig a falun.",
+            "ro": "Începeți de la biserică și plimbați-vă prin sat.",
+            "en": "Start at the church and wander through the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Cratloe Woods Eingang",
+            "hu": "Cratloe-i erdő bejárata",
+            "ro": "Intrarea în Pădurea Cratloe",
+            "en": "Cratloe Woods Entrance"
+          },
+          "coords": [
+            -8.776,
+            52.712
+          ],
+          "category": "forest",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Spaziergang von der Bushaltestelle zum Wald ist ein gutes Aufwärmen.",
+            "hu": "A buszmegállótól az erdőig tartó séta jó bemelegítés.",
+            "ro": "Plimbarea de la stația de autobuz la pădure este o bună încălzire.",
+            "en": "The walk from the bus stop to the woods is a good warm-up."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Bus nach Bunratty",
+            "hu": "B. klaszter: Busz Bunrattybe",
+            "ro": "Cluster B: Autobuz spre Bunratty",
+            "en": "Cluster B: Bus to Bunratty"
+          },
+          "coords": [
+            -8.765,
+            52.703
+          ],
+          "category": "transit",
+          "arrive_at": "12:15",
+          "stay_min": 0,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Gehen Sie zurück zur Hauptstraße, um den Bus Éireann 343 zu nehmen.",
+            "hu": "Sétálj vissza a főútra a 343-as Bus Éireann buszhoz.",
+            "ro": "Mergeți înapoi la drumul principal pentru a lua autobuzul Bus Éireann 343.",
+            "en": "Walk back to the main road to catch the Bus Éireann 343."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunratty Castle & Folk Park",
+            "hu": "Bunratty kastély és Skanzen",
+            "ro": "Castelul și Parcul Folcloric Bunratty",
+            "en": "Bunratty Castle & Folk Park"
+          },
+          "coords": [
+            -8.811,
+            52.701
+          ],
+          "category": "castles",
+          "arrive_at": "12:45",
+          "stay_min": 180,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle liegt direkt vor dem Schlossgelände.",
+            "hu": "A buszmegálló közvetlenül a kastély területe előtt van.",
+            "ro": "Stația de autobuz este chiar în fața terenului castelului.",
+            "en": "The bus stop is right outside the castle grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen/Frühes Abendessen in Bunratty",
+            "hu": "Késői ebéd/korai vacsora Bunrattyben",
+            "ro": "Prânz târziu/Cină devreme în Bunratty",
+            "en": "Late Lunch/Early Dinner in Bunratty"
+          },
+          "coords": [
+            -8.813,
+            52.701
+          ],
+          "category": "gastro",
+          "arrive_at": "16:00",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit, während Sie auf den Bus zurück warten.",
+            "hu": "Élvezz egy ételt, amíg a visszaútra tartó buszra vársz.",
+            "ro": "Bucurați-vă de o masă în timp ce așteptați autobuzul de întoarcere.",
+            "en": "Enjoy a meal while waiting for the return bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie die Region mit öffentlichen Verkehrsmitteln. Der Morgen ist der Erkundung von Cratloe zu Fuß gewidmet, von seinem Dorfzentrum bis zu den Waldrändern. Nach einem kurzen Spaziergang bringt Sie ein lokaler Bus in das historische Dorf Bunratty. Verbringen Sie den Nachmittag damit, das weltberühmte Schloss und den Folk Park zu erkunden, und genießen Sie die lebhafte Atmosphäre, bevor Sie Ihre entspannte Rückreise antreten.",
+        "hu": "Tapasztalja meg a régiót tömegközlekedéssel. A délelőtt Cratloe gyalogos felfedezésének szentelt, a falu központjától az erdő széléig. Egy rövid séta után egy helyi busz elvisz a történelmi Bunratty faluba. Töltse a délutánt a világhírű kastély és skanzen felfedezésével, élvezve a nyüzsgő hangulatot, mielőtt elindulna a pihentető visszaútra.",
+        "ro": "Experimentați regiunea folosind transportul public. Dimineața este dedicată explorării Cratloe pe jos, de la centrul satului la marginile pădurii. După o scurtă plimbare, un autobuz local vă va duce la satul istoric Bunratty. Petreceți după-amiaza explorând faimosul castel și parc folcloric, bucurându-vă de atmosfera plină de viață înainte de a începe călătoria relaxată de întoarcere.",
+        "en": "Experience the region using public transport. The morning is dedicated to exploring Cratloe on foot, from its village center to the woodland edges. After a short walk, a local bus will take you to the historic village of Bunratty. Spend the afternoon exploring the world-famous castle and folk park, soaking in the lively atmosphere before beginning your relaxed journey back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Durty Nelly's",
+            "tip": "Perfekt gelegen neben der Bushaltestelle für eine Mahlzeit vor der Abreise."
+          },
+          {
+            "name": "The Creamery Bar",
+            "tip": "Eine gute Option für ein zwangloses Mittagessen oder einen Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Durty Nelly's",
+            "tip": "Tökéletes helyen, a buszmegálló mellett, egy indulás előtti étkezéshez."
+          },
+          {
+            "name": "The Creamery Bar",
+            "tip": "Jó választás egy laza ebédhez vagy kávéhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Durty Nelly's",
+            "tip": "Situat perfect lângă stația de autobuz pentru o masă înainte de plecare."
+          },
+          {
+            "name": "The Creamery Bar",
+            "tip": "O opțiune bună pentru un prânz casual sau o cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Durty Nelly's",
+            "tip": "Perfectly located next to the bus stop for a pre-departure meal."
+          },
+          {
+            "name": "The Creamery Bar",
+            "tip": "A good option for a casual lunch or coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cratloe Woods",
+            "tip": "Finden Sie einen ruhigen Weg und genießen Sie die Geräusche der Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bunratty Folk Park Gärten",
+            "tip": "Abseits der Hauptgebäude bieten die Gärten ruhige Ecken.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cratloe-i erdő",
+            "tip": "Találj egy csendes ösvényt, és élvezd a természet hangjait.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bunratty Skanzen kertjei",
+            "tip": "A főépületektől távolabb a kertek csendes zugokat kínálnak.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Cratloe",
+            "tip": "Găsiți o potecă liniștită și bucurați-vă de sunetele naturii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile Parcului Folcloric Bunratty",
+            "tip": "Departe de clădirile principale, grădinile oferă colțuri liniștite.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cratloe Woods",
+            "tip": "Find a quiet trail and enjoy the sounds of nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bunratty Folk Park Gardens",
+            "tip": "Away from the main buildings, the gardens offer quiet corners.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bunratty Mills",
+            "tip": "Ein großer Komplex mit einer großen Auswahl an irischen Souvenirs und Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bunratty Mills",
+            "tip": "Nagy komplexum, ahol ír szuvenírek és ruhák széles választéka található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bunratty Mills",
+            "tip": "Un complex mare cu o gamă largă de suveniruri și îmbrăcăminte irlandeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bunratty Mills",
+            "tip": "A large complex with a wide range of Irish souvenirs and clothing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan (Bus Éireann 343) im Voraus, da die Verbindungen selten sein können.",
+          "Kaufen Sie ein Leap-Ticket für günstigere Tarife.",
+          "Winken Sie dem Busfahrer deutlich zu, damit er an ländlichen Haltestellen anhält.",
+          "Planen Sie zusätzliche Zeit für mögliche Verspätungen ein."
+        ],
+        "hu": [
+          "Ellenőrizd a buszmenetrendet (Bus Éireann 343) előre, mivel a járatok ritkák lehetnek.",
+          "Vásárolj Leap kártyát a kedvezőbb viteldíjakért.",
+          "Ints a buszsofőrnek egyértelműen, hogy megálljon a vidéki megállókban.",
+          "Tervezz plusz időt az esetleges késésekre."
+        ],
+        "ro": [
+          "Verificați orarul autobuzului (Bus Éireann 343) în avans, deoarece serviciile pot fi rare.",
+          "Cumpărați un card Leap pentru tarife mai ieftine.",
+          "Faceți semn clar șoferului de autobuz pentru a opri la stațiile rurale.",
+          "Luați în considerare timp suplimentar pentru eventuale întârzieri."
+        ],
+        "en": [
+          "Check the bus schedule (Bus Éireann 343) in advance, as services can be infrequent.",
+          "Purchase a Leap card for cheaper fares.",
+          "Signal the bus driver clearly to stop at rural stops.",
+          "Allow extra time for potential delays."
+        ]
+      }
+    }
+  }
+}

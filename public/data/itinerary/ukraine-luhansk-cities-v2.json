@@ -1,0 +1,1452 @@
+{
+  "city_id": "ukraine-luhansk-cities-v2",
+  "anchor": {
+    "name": "Luhansk",
+    "coords": [
+      39.3078,
+      48.574
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Helden",
+            "hu": "Hősök tere",
+            "ro": "Piața Eroilor",
+            "en": "Heroes' Square"
+          },
+          "coords": [
+            39.307,
+            48.574
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, um die lokale Atmosphäre aufzusaugen und die umliegende Architektur zu bewundern.",
+            "hu": "Indítsa itt a napot, szívja magába a helyi atmoszférát és csodálja meg a környező építészetet.",
+            "ro": "Începeți-vă ziua aici pentru a absorbi atmosfera locală și a admira arhitectura înconjurătoare.",
+            "en": "Start your day here to soak in the local atmosphere and admire the surrounding architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal des Arbeiters",
+            "hu": "A Munkás emlékműve",
+            "ro": "Monumentul Muncitorului",
+            "en": "The Worker Monument"
+          },
+          "coords": [
+            39.3,
+            48.578
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ikonisches Symbol der industriellen Vergangenheit der Stadt. Ein kurzer, aber bedeutungsvoller Stopp.",
+            "hu": "A város ipari múltjának ikonikus szimbóluma. Rövid, de jelentőségteljes megálló.",
+            "ro": "Un simbol iconic al trecutului industrial al orașului. O oprire scurtă, dar semnificativă.",
+            "en": "An iconic symbol of the city's industrial past. A brief but meaningful stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus von Wasnew",
+            "hu": "Vasznyev-ház",
+            "ro": "Casa Wasnew",
+            "en": "Vasnev House"
+          },
+          "coords": [
+            39.305,
+            48.572
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige Architektur dieses historischen Gebäudes, das einst einem berühmten Künstler gehörte.",
+            "hu": "Csodálja meg ennek a történelmi épületnek az egyedi építészetét, amely egykor egy híres művészé volt.",
+            "ro": "Admirați arhitectura unică a acestei clădiri istorice, care a aparținut unui artist faimos.",
+            "en": "Admire the unique architecture of this historic building, once home to a famous artist."
+          }
+        },
+        {
+          "name": {
+            "de": "Wladimir-Kathedrale",
+            "hu": "Szent Vlagyimir-székesegyház",
+            "ro": "Catedrala Sfântul Vladimir",
+            "en": "St. Vladimir Cathedral"
+          },
+          "coords": [
+            39.312,
+            48.576
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, um die beeindruckenden Fresken und die spirituelle Atmosphäre im Inneren zu erleben.",
+            "hu": "Szánjon időt a lenyűgöző freskók és a belső spirituális légkör megtapasztalására.",
+            "ro": "Luați-vă timp pentru a experimenta frescele impresionante și atmosfera spirituală din interior.",
+            "en": "Take your time to experience the impressive frescoes and the spiritual atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorki-Bibliothek",
+            "hu": "Gorkij Könyvtár",
+            "ro": "Biblioteca Gorki",
+            "en": "Gorky Library"
+          },
+          "coords": [
+            39.298,
+            48.573
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:47",
+          "stay_min": 50,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auch wenn Sie kein Buch ausleihen, ist das Gebäude selbst ein wichtiges kulturelles Zentrum.",
+            "hu": "Még ha nem is kölcsönöz könyvet, maga az épület is fontos kulturális központ.",
+            "ro": "Chiar dacă nu împrumutați o carte, clădirea în sine este un centru cultural important.",
+            "en": "Even if you're not borrowing a book, the building itself is an important cultural hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum Luhansk",
+            "hu": "Luhanszki Regionális Múzeum",
+            "ro": "Muzeul Regional Lugansk",
+            "en": "Luhansk Regional Museum"
+          },
+          "coords": [
+            39.315,
+            48.571
+          ],
+          "category": "museums",
+          "arrive_at": "14:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen zur lokalen Geschichte, um die Region wirklich zu verstehen.",
+            "hu": "Koncentráljon a helytörténeti kiállításokra, hogy igazán megértse a régiót.",
+            "ro": "Concentrați-vă pe expozițiile de istorie locală pentru a înțelege cu adevărat regiunea.",
+            "en": "Focus on the local history exhibits to get a true understanding of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum für Kunst",
+            "hu": "Regionális Művészeti Múzeum",
+            "ro": "Muzeul Regional de Artă",
+            "en": "Regional Art Museum"
+          },
+          "coords": [
+            39.318,
+            48.57
+          ],
+          "category": "museums",
+          "arrive_at": "16:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach Werken lokaler Künstler, um einen Einblick in die kreative Seele der Stadt zu bekommen.",
+            "hu": "Keressen helyi művészek alkotásait, hogy bepillantást nyerjen a város kreatív lelkébe.",
+            "ro": "Căutați lucrări ale artiștilor locali pentru a obține o perspectivă asupra sufletului creativ al orașului.",
+            "en": "Look for works by local artists to get a glimpse into the city's creative soul."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt am belebten Platz der Helden und führt Sie zu ikonischen Monumenten, die die industrielle Seele von Luhansk widerspiegeln. Am Vormittag erkunden Sie historische Residenzen und die spirituelle Ruhe der Wladimir-Kathedrale. Der Nachmittag ist der Kultur gewidmet, mit einem Besuch der berühmten Gorki-Bibliothek, gefolgt von einem tiefen Eintauchen in die Geschichte und Kunst der Region in den beiden Regionalmuseen. Der Tag endet mit einem reichen Verständnis für das Erbe von Luhansk.",
+        "hu": "Sétája a nyüzsgő Hősök terén kezdődik, majd Luhanszk ipari lelkét tükröző ikonikus emlékművekhez vezet. Délelőtt történelmi rezidenciákat és a Szent Vlagyimir-székesegyház spirituális nyugalmát fedezi fel. A délután a kultúráé, a híres Gorkij Könyvtár meglátogatásával, majd a régió történelmébe és művészetébe való mély elmerüléssel a két regionális múzeumban. A nap Luhanszk örökségének gazdag megértésével zárul.",
+        "ro": "Turul dvs. pietonal începe în Piața Eroilor și vă duce la monumente iconice care reflectă sufletul industrial al Luganskului. În cursul dimineții, explorați reședințe istorice și liniștea spirituală a Catedralei Sfântul Vladimir. După-amiaza este dedicată culturii, cu o vizită la faimoasa Bibliotecă Gorki, urmată de o imersiune profundă în istoria și arta regiunii la cele două muzee regionale. Ziua se încheie cu o înțelegere bogată a moștenirii Luganskului.",
+        "en": "Your walking tour starts at the bustling Heroes' Square, leading you to iconic monuments reflecting Luhansk's industrial soul. The morning is for exploring historic residences and the spiritual calm of St. Vladimir Cathedral. The afternoon is dedicated to culture with a visit to the famous Gorky Library, followed by a deep dive into the region's history and art at the two regional museums. The day concludes with a rich understanding of Luhansk's heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Borschtsch",
+            "tip": "Probieren Sie die lokale Variante dieser berühmten Rote-Bete-Suppe, oft mit einem Klecks saurer Sahne serviert."
+          },
+          {
+            "name": "Wareniki",
+            "tip": "Gefüllte Teigtaschen, die entweder herzhaft (mit Kartoffeln oder Fleisch) oder süß (mit Kirschen) sein können."
+          },
+          {
+            "name": "Kiewer Kotelett",
+            "tip": "Ein klassisches Hähnchengericht, gefüllt mit Kräuterbutter. Fragen Sie in traditionellen Restaurants danach."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borscs",
+            "tip": "Kóstolja meg ennek a híres céklalevesnek a helyi változatát, gyakran egy kanál tejföllel tálalva."
+          },
+          {
+            "name": "Varenyiki",
+            "tip": "Töltött táskák, amelyek lehetnek sósak (burgonyával vagy hússal) vagy édesek (megggyel)."
+          },
+          {
+            "name": "Kijevi csirkemell",
+            "tip": "Klasszikus csirkeétel fűszervajjal töltve. Keresse a hagyományos éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Borș",
+            "tip": "Încercați versiunea locală a acestei faimoase supe de sfeclă roșie, adesea servită cu o lingură de smântână."
+          },
+          {
+            "name": "Vareniki",
+            "tip": "Găluște umplute care pot fi sărate (cu cartofi sau carne) sau dulci (cu cireșe)."
+          },
+          {
+            "name": "Șnițel de pui Kiev",
+            "tip": "Un preparat clasic din pui umplut cu unt aromatizat. Căutați-l în restaurantele tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Borscht",
+            "tip": "Try the local version of this famous beetroot soup, often served with a dollop of sour cream."
+          },
+          {
+            "name": "Varenyky",
+            "tip": "Filled dumplings that can be either savory (with potatoes or meat) or sweet (with cherries)."
+          },
+          {
+            "name": "Chicken Kyiv",
+            "tip": "A classic chicken dish filled with herb butter. Ask for it in traditional restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innerer Hof der Kathedrale",
+            "tip": "Finden Sie einen Moment der Stille im Hof der Wladimir-Kathedrale, weg von den Straßen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lesesaal der Bibliothek",
+            "tip": "Der Lesesaal der Gorki-Bibliothek bietet eine ruhige und intellektuelle Flucht.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A székesegyház belső udvara",
+            "tip": "Találjon egy csendes pillanatot a Szent Vlagyimir-székesegyház udvarán, távol a város utcáitól.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A könyvtár olvasóterme",
+            "tip": "A Gorkij Könyvtár olvasóterme csendes és intellektuális menekülést kínál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea interioară a catedralei",
+            "tip": "Găsiți un moment de liniște în curtea Catedralei Sfântul Vladimir, departe de străzile orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sala de lectură a bibliotecii",
+            "tip": "Sala de lectură a Bibliotecii Gorki oferă o evadare liniștită și intelectuală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral's Inner Courtyard",
+            "tip": "Find a moment of peace in the courtyard of St. Vladimir Cathedral, away from the city streets.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Library Reading Hall",
+            "tip": "The reading hall in the Gorky Library offers a quiet and intellectual escape.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie in den Museumsshops nach handgefertigten Souvenirs, die von lokalen Handwerkern hergestellt wurden."
+          },
+          {
+            "name": "Bücher über die Region",
+            "tip": "Die Gorki-Bibliothek oder lokale Buchhandlungen haben möglicherweise interessante Bücher über die Geschichte von Luhansk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített szuveníreket a múzeumi boltokban, amelyeket helyi kézművesek készítettek."
+          },
+          {
+            "name": "Könyvek a régióról",
+            "tip": "A Gorkij Könyvtárban vagy a helyi könyvesboltokban érdekes könyveket találhat Luhanszk történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați suveniruri realizate manual de artizani locali în magazinele muzeelor."
+          },
+          {
+            "name": "Cărți despre regiune",
+            "tip": "Biblioteca Gorki sau librăriile locale pot avea cărți interesante despre istoria Luganskului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Look for handmade souvenirs made by local artisans in the museum shops."
+          },
+          {
+            "name": "Books about the region",
+            "tip": "The Gorky Library or local bookstores might have interesting books about the history of Luhansk."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders an wärmeren Tagen.",
+          "Überprüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können.",
+          "Haben Sie etwas Bargeld für kleine Einkäufe oder Trinkgelder dabei."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Vigyen magával vizet, különösen melegebb napokon.",
+          "Ellenőrizze előre a múzeumok nyitvatartási idejét, mert az változhat.",
+          "Legyen Önnél némi készpénz kisebb vásárlásokhoz vagy borravalóhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați apă cu dvs., mai ales în zilele mai calde.",
+          "Verificați în prealabil programul de funcționare al muzeelor, deoarece acesta poate varia.",
+          "Aveți la dvs. niște numerar pentru cumpărături mici sau bacșișuri."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Carry water with you, especially on warmer days.",
+          "Check the opening hours of the museums in advance, as they can vary.",
+          "Have some cash on hand for small purchases or tips."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Helden",
+            "hu": "Hősök tere",
+            "ro": "Piața Eroilor",
+            "en": "Heroes' Square"
+          },
+          "coords": [
+            39.307,
+            48.574
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und machen Sie einen kurzen Spaziergang, um die Atmosphäre des Platzes aufzusaugen.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és tegyen egy rövid sétát, hogy magába szívja a tér hangulatát.",
+            "ro": "Asigurați-vă bicicleta și faceți o scurtă plimbare pentru a absorbi atmosfera pieței.",
+            "en": "Lock your bike securely and take a short stroll to soak in the square's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorki-Bibliothek",
+            "hu": "Gorkij Könyvtár",
+            "ro": "Biblioteca Gorki",
+            "en": "Gorky Library"
+          },
+          "coords": [
+            39.298,
+            48.573
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schneller Stopp, um die beeindruckende Fassade dieses kulturellen Wahrzeichens zu sehen.",
+            "hu": "Egy gyors megálló, hogy megnézze ennek a kulturális nevezetességnek a lenyűgöző homlokzatát.",
+            "ro": "O oprire rapidă pentru a vedea fațada impresionantă a acestui reper cultural.",
+            "en": "A quick stop to see the impressive facade of this cultural landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal des Arbeiters",
+            "hu": "A Munkás emlékműve",
+            "ro": "Monumentul Muncitorului",
+            "en": "The Worker Monument"
+          },
+          "coords": [
+            39.3,
+            48.578
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mit dem Fahrrad leicht zu erreichen, bietet dieses Monument eine großartige Fotomöglichkeit.",
+            "hu": "Könnyen megközelíthető kerékpárral, ez az emlékmű remek fotózási lehetőséget kínál.",
+            "ro": "Ușor de accesat cu bicicleta, acest monument oferă o oportunitate excelentă pentru fotografii.",
+            "en": "Easily accessible by bike, this monument offers a great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus von Wasnew",
+            "hu": "Vasznyev-ház",
+            "ro": "Casa Wasnew",
+            "en": "Vasnev House"
+          },
+          "coords": [
+            39.305,
+            48.572
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie durch die historischen Straßen, um dieses architektonische Juwel zu finden.",
+            "hu": "Tekerjen végig a történelmi utcákon, hogy megtalálja ezt az építészeti gyöngyszemet.",
+            "ro": "Plimbați-vă pe străzile istorice pentru a găsi această bijuterie arhitecturală.",
+            "en": "Cycle through the historic streets to find this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Wladimir-Kathedrale",
+            "hu": "Szent Vlagyimir-székesegyház",
+            "ro": "Catedrala Sfântul Vladimir",
+            "en": "St. Vladimir Cathedral"
+          },
+          "coords": [
+            39.312,
+            48.576
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich Zeit für die spirituelle Erfahrung im Inneren.",
+            "hu": "Parkolja le a kerékpárját a közelben, és szánjon időt a belső spirituális élményre.",
+            "ro": "Parcați-vă bicicleta în apropiere și acordați-vă timp pentru experiența spirituală din interior.",
+            "en": "Park your bike nearby and take time for the spiritual experience inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum Luhansk",
+            "hu": "Luhanszki Regionális Múzeum",
+            "ro": "Muzeul Regional Lugansk",
+            "en": "Luhansk Regional Museum"
+          },
+          "coords": [
+            39.315,
+            48.571
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie hier eine längere Pause ein. Es gibt wahrscheinlich Fahrradständer in der Nähe.",
+            "hu": "Tervezzen itt egy hosszabb pihenőt. Valószínűleg vannak a közelben kerékpártárolók.",
+            "ro": "Planificați o pauză mai lungă aici. Probabil există suporturi pentru biciclete în apropiere.",
+            "en": "Plan for a longer stop here. There are likely bike racks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum für Kunst",
+            "hu": "Regionális Művészeti Múzeum",
+            "ro": "Muzeul Regional de Artă",
+            "en": "Regional Art Museum"
+          },
+          "coords": [
+            39.318,
+            48.57
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Geschichtsmuseum entfernt, perfekt für einen kunstvollen Abschluss des Nachmittags.",
+            "hu": "Egy rövid tekerés a történeti múzeumtól, tökéletes a délután művészi lezárásához.",
+            "ro": "O scurtă plimbare de la muzeul de istorie, perfectă pentru a încheia după-amiaza artistic.",
+            "en": "A short ride from the history museum, perfect for an artistic end to the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Luhansk flexibel. Der Morgen führt Sie vom zentralen Platz zu kulturellen und historischen Orten, wobei Sie die Freiheit der zwei Räder genießen. Nach einem Besuch der imposanten Wladimir-Kathedrale widmen Sie den Nachmittag den Museen der Stadt. Die kurzen Radwege zwischen den Stopps geben Ihnen mehr Zeit, die Sehenswürdigkeiten zu genießen und die Stadt aus einer aktiven Perspektive zu erleben.",
+        "hu": "Kerékpárral rugalmasan fedezheti fel Luhanszkot. A reggel a központi tértől kulturális és történelmi helyszínekre vezet, élvezve a két kerék szabadságát. A lenyűgöző Szent Vlagyimir-székesegyház meglátogatása után a délutánt a város múzeumainak szenteli. A megállók közötti rövid kerékpárutak több időt adnak a látnivalók élvezetére és a város aktív szemszögből való megismerésére.",
+        "ro": "Explorați Luganskul cu flexibilitate pe bicicletă. Dimineața vă poartă de la piața centrală la situri culturale și istorice, bucurându-vă de libertatea pe două roți. După o vizită la impunătoarea Catedrală Sfântul Vladimir, dedicați după-amiaza muzeelor orașului. Traseele scurte cu bicicleta între opriri vă oferă mai mult timp pentru a vă bucura de atracții și pentru a experimenta orașul dintr-o perspectivă activă.",
+        "en": "Explore Luhansk with flexibility on a bike. The morning takes you from the central square to cultural and historical sites, enjoying the freedom of two wheels. After a visit to the imposing St. Vladimir Cathedral, you'll dedicate the afternoon to the city's museums. The short bike rides between stops give you more time to enjoy the sights and experience the city from an active perspective."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Borschtsch",
+            "tip": "Probieren Sie die lokale Variante dieser berühmten Rote-Bete-Suppe, oft mit einem Klecks saurer Sahne serviert."
+          },
+          {
+            "name": "Wareniki",
+            "tip": "Gefüllte Teigtaschen, die entweder herzhaft (mit Kartoffeln oder Fleisch) oder süß (mit Kirschen) sein können."
+          },
+          {
+            "name": "Kiewer Kotelett",
+            "tip": "Ein klassisches Hähnchengericht, gefüllt mit Kräuterbutter. Fragen Sie in traditionellen Restaurants danach."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borscs",
+            "tip": "Kóstolja meg ennek a híres céklalevesnek a helyi változatát, gyakran egy kanál tejföllel tálalva."
+          },
+          {
+            "name": "Varenyiki",
+            "tip": "Töltött táskák, amelyek lehetnek sósak (burgonyával vagy hússal) vagy édesek (megggyel)."
+          },
+          {
+            "name": "Kijevi csirkemell",
+            "tip": "Klasszikus csirkeétel fűszervajjal töltve. Keresse a hagyományos éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Borș",
+            "tip": "Încercați versiunea locală a acestei faimoase supe de sfeclă roșie, adesea servită cu o lingură de smântână."
+          },
+          {
+            "name": "Vareniki",
+            "tip": "Găluște umplute care pot fi sărate (cu cartofi sau carne) sau dulci (cu cireșe)."
+          },
+          {
+            "name": "Șnițel de pui Kiev",
+            "tip": "Un preparat clasic din pui umplut cu unt aromatizat. Căutați-l în restaurantele tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Borscht",
+            "tip": "Try the local version of this famous beetroot soup, often served with a dollop of sour cream."
+          },
+          {
+            "name": "Varenyky",
+            "tip": "Filled dumplings that can be either savory (with potatoes or meat) or sweet (with cherries)."
+          },
+          {
+            "name": "Chicken Kyiv",
+            "tip": "A classic chicken dish filled with herb butter. Ask for it in traditional restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innerer Hof der Kathedrale",
+            "tip": "Finden Sie einen Moment der Stille im Hof der Wladimir-Kathedrale, weg von den Straßen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lesesaal der Bibliothek",
+            "tip": "Der Lesesaal der Gorki-Bibliothek bietet eine ruhige und intellektuelle Flucht.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A székesegyház belső udvara",
+            "tip": "Találjon egy csendes pillanatot a Szent Vlagyimir-székesegyház udvarán, távol a város utcáitól.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A könyvtár olvasóterme",
+            "tip": "A Gorkij Könyvtár olvasóterme csendes és intellektuális menekülést kínál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea interioară a catedralei",
+            "tip": "Găsiți un moment de liniște în curtea Catedralei Sfântul Vladimir, departe de străzile orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sala de lectură a bibliotecii",
+            "tip": "Sala de lectură a Bibliotecii Gorki oferă o evadare liniștită și intelectuală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral's Inner Courtyard",
+            "tip": "Find a moment of peace in the courtyard of St. Vladimir Cathedral, away from the city streets.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Library Reading Hall",
+            "tip": "The reading hall in the Gorky Library offers a quiet and intellectual escape.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie in den Museumsshops nach handgefertigten Souvenirs, die von lokalen Handwerkern hergestellt wurden."
+          },
+          {
+            "name": "Bücher über die Region",
+            "tip": "Die Gorki-Bibliothek oder lokale Buchhandlungen haben möglicherweise interessante Bücher über die Geschichte von Luhansk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített szuveníreket a múzeumi boltokban, amelyeket helyi kézművesek készítettek."
+          },
+          {
+            "name": "Könyvek a régióról",
+            "tip": "A Gorkij Könyvtárban vagy a helyi könyvesboltokban érdekes könyveket találhat Luhanszk történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați suveniruri realizate manual de artizani locali în magazinele muzeelor."
+          },
+          {
+            "name": "Cărți despre regiune",
+            "tip": "Biblioteca Gorki sau librăriile locale pot avea cărți interesante despre istoria Luganskului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Look for handmade souvenirs made by local artisans in the museum shops."
+          },
+          {
+            "name": "Books about the region",
+            "tip": "The Gorky Library or local bookstores might have interesting books about the history of Luhansk."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Planen Sie Ihre Route im Voraus, aber seien Sie flexibel.",
+          "Ein Helm wird für Ihre Sicherheit dringend empfohlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Vigyen magával egy jó lakatot, hogy biztonságban lezárhassa a kerékpárt a megállóknál.",
+          "Tervezze meg előre az útvonalat, de legyen rugalmas.",
+          "A biztonsága érdekében erősen ajánlott a sisak viselése."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Luați un lacăt bun pentru a vă asigura bicicleta la opriri.",
+          "Planificați-vă traseul în avans, dar fiți flexibil.",
+          "O cască este puternic recomandată pentru siguranța dumneavoastră."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Bring a good lock to secure your bike at stops.",
+          "Plan your route in advance, but be flexible.",
+          "A helmet is strongly recommended for your safety."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Helden",
+            "hu": "Hősök tere",
+            "ro": "Piața Eroilor",
+            "en": "Heroes' Square"
+          },
+          "coords": [
+            39.307,
+            48.574
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie Ihren ersten Rundgang von diesem zentralen Punkt aus.",
+            "hu": "Parkoljon a közelben, és kezdje az első sétáját erről a központi pontról.",
+            "ro": "Parcați în apropiere și începeți primul tur pietonal din acest punct central.",
+            "en": "Park nearby and start your first walking cluster from this central point."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal des Arbeiters",
+            "hu": "A Munkás emlékműve",
+            "ro": "Monumentul Muncitorului",
+            "en": "The Worker Monument"
+          },
+          "coords": [
+            39.3,
+            48.578
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz der Helden entfernt, ein Muss für die Geschichte der Stadt.",
+            "hu": "Rövid sétára a Hősök terétől, kötelező látnivaló a város történelméhez.",
+            "ro": "La o scurtă plimbare de Piața Eroilor, o vizită obligatorie pentru istoria orașului.",
+            "en": "A short walk from Heroes' Square, a must-see for the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus von Wasnew",
+            "hu": "Vasznyev-ház",
+            "ro": "Casa Wasnew",
+            "en": "Vasnev House"
+          },
+          "coords": [
+            39.305,
+            48.572
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt in Ihrem ersten Rundgang, bevor Sie zum Auto zurückkehren.",
+            "hu": "Az első séta utolsó állomása, mielőtt visszatérne az autóhoz.",
+            "ro": "Ultima oprire din primul dvs. cluster pietonal înainte de a vă întoarce la mașină.",
+            "en": "The last stop in your first walking cluster before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Wladimir-Kathedrale",
+            "hu": "Szent Vlagyimir-székesegyház",
+            "ro": "Catedrala Sfântul Vladimir",
+            "en": "St. Vladimir Cathedral"
+          },
+          "coords": [
+            39.312,
+            48.576
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem zweiten Cluster. Suchen Sie einen Parkplatz für die nächsten Stunden.",
+            "hu": "Vezessen ehhez a második ponthoz. Keressen parkolóhelyet a következő néhány órára.",
+            "ro": "Conduceți spre acest al doilea cluster. Găsiți un loc de parcare pentru următoarele câteva ore.",
+            "en": "Drive to this second cluster. Find a parking spot for the next few hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorki-Bibliothek",
+            "hu": "Gorkij Könyvtár",
+            "ro": "Biblioteca Gorki",
+            "en": "Gorky Library"
+          },
+          "coords": [
+            39.298,
+            48.573
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:42",
+          "stay_min": 50,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang von der Kathedrale zu diesem kulturellen Zentrum.",
+            "hu": "Kellemes séta a székesegyháztól ehhez a kulturális központhoz.",
+            "ro": "O plimbare plăcută de la catedrală la acest centru cultural.",
+            "en": "A pleasant walk from the cathedral to this cultural hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum Luhansk",
+            "hu": "Luhanszki Regionális Múzeum",
+            "ro": "Muzeul Regional Lugansk",
+            "en": "Luhansk Regional Museum"
+          },
+          "coords": [
+            39.315,
+            48.571
+          ],
+          "category": "museums",
+          "arrive_at": "13:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang führt Sie tiefer in den kulturellen Bezirk der Stadt.",
+            "hu": "A séta mélyebbre vezet a város kulturális negyedébe.",
+            "ro": "Plimbarea vă duce mai adânc în cartierul cultural al orașului.",
+            "en": "The walk takes you deeper into the city's cultural district."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum für Kunst",
+            "hu": "Regionális Művészeti Múzeum",
+            "ro": "Muzeul Regional de Artă",
+            "en": "Regional Art Museum"
+          },
+          "coords": [
+            39.318,
+            48.57
+          ],
+          "category": "museums",
+          "arrive_at": "15:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren kulturellen Spaziergang mit einem Besuch dieses nahegelegenen Kunstmuseums ab.",
+            "hu": "Zárja a kulturális sétát a közeli művészeti múzeum meglátogatásával.",
+            "ro": "Încheiați-vă plimbarea culturală cu o vizită la acest muzeu de artă din apropiere.",
+            "en": "Conclude your cultural walk with a visit to this nearby art museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto ist in zwei Teile gegliedert. Am Morgen parken Sie im historischen Zentrum, um den Platz der Helden und die nahegelegenen Monumente zu Fuß zu erkunden. Nach der Rückkehr zum Auto fahren Sie zum zweiten Cluster, dem kulturellen Herzen der Stadt. Sie parken erneut und verbringen den Rest des Tages damit, die prächtige Kathedrale und die faszinierenden Museen zu Fuß zu entdecken, was eine perfekte Mischung aus Komfort und Erkundung bietet.",
+        "hu": "Autós napja két részre oszlik. Délelőtt a történelmi központban parkol, hogy gyalog fedezze fel a Hősök terét és a közeli emlékműveket. Miután visszatért az autóhoz, a második ponthoz, a város kulturális szívéhez hajt. Ismét leparkol, és a nap hátralévő részét a csodálatos székesegyház és a lenyűgöző múzeumok gyalogos felfedezésével tölti, ami a kényelem és a felfedezés tökéletes keverékét nyújtja.",
+        "ro": "Ziua dvs. cu mașina este împărțită în două clustere. Dimineața, parcați în centrul istoric pentru a explora pe jos Piața Eroilor și monumentele din apropiere. După ce vă întoarceți la mașină, conduceți spre al doilea cluster, inima culturală a orașului. Parcați din nou și petreceți restul zilei descoperind pe jos catedrala magnifică și muzeele fascinante, oferind un amestec perfect de confort și explorare.",
+        "en": "Your day by car is split into two clusters. In the morning, you'll park in the historic center to explore Heroes' Square and nearby monuments on foot. After returning to your car, you'll drive to the second cluster, the city's cultural heart. You'll park again and spend the rest of the day discovering the magnificent cathedral and fascinating museums on foot, providing a perfect blend of convenience and exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Borschtsch",
+            "tip": "Probieren Sie die lokale Variante dieser berühmten Rote-Bete-Suppe, oft mit einem Klecks saurer Sahne serviert."
+          },
+          {
+            "name": "Wareniki",
+            "tip": "Gefüllte Teigtaschen, die entweder herzhaft (mit Kartoffeln oder Fleisch) oder süß (mit Kirschen) sein können."
+          },
+          {
+            "name": "Kiewer Kotelett",
+            "tip": "Ein klassisches Hähnchengericht, gefüllt mit Kräuterbutter. Fragen Sie in traditionellen Restaurants danach."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borscs",
+            "tip": "Kóstolja meg ennek a híres céklalevesnek a helyi változatát, gyakran egy kanál tejföllel tálalva."
+          },
+          {
+            "name": "Varenyiki",
+            "tip": "Töltött táskák, amelyek lehetnek sósak (burgonyával vagy hússal) vagy édesek (megggyel)."
+          },
+          {
+            "name": "Kijevi csirkemell",
+            "tip": "Klasszikus csirkeétel fűszervajjal töltve. Keresse a hagyományos éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Borș",
+            "tip": "Încercați versiunea locală a acestei faimoase supe de sfeclă roșie, adesea servită cu o lingură de smântână."
+          },
+          {
+            "name": "Vareniki",
+            "tip": "Găluște umplute care pot fi sărate (cu cartofi sau carne) sau dulci (cu cireșe)."
+          },
+          {
+            "name": "Șnițel de pui Kiev",
+            "tip": "Un preparat clasic din pui umplut cu unt aromatizat. Căutați-l în restaurantele tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Borscht",
+            "tip": "Try the local version of this famous beetroot soup, often served with a dollop of sour cream."
+          },
+          {
+            "name": "Varenyky",
+            "tip": "Filled dumplings that can be either savory (with potatoes or meat) or sweet (with cherries)."
+          },
+          {
+            "name": "Chicken Kyiv",
+            "tip": "A classic chicken dish filled with herb butter. Ask for it in traditional restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innerer Hof der Kathedrale",
+            "tip": "Finden Sie einen Moment der Stille im Hof der Wladimir-Kathedrale, weg von den Straßen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lesesaal der Bibliothek",
+            "tip": "Der Lesesaal der Gorki-Bibliothek bietet eine ruhige und intellektuelle Flucht.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A székesegyház belső udvara",
+            "tip": "Találjon egy csendes pillanatot a Szent Vlagyimir-székesegyház udvarán, távol a város utcáitól.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A könyvtár olvasóterme",
+            "tip": "A Gorkij Könyvtár olvasóterme csendes és intellektuális menekülést kínál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea interioară a catedralei",
+            "tip": "Găsiți un moment de liniște în curtea Catedralei Sfântul Vladimir, departe de străzile orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sala de lectură a bibliotecii",
+            "tip": "Sala de lectură a Bibliotecii Gorki oferă o evadare liniștită și intelectuală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral's Inner Courtyard",
+            "tip": "Find a moment of peace in the courtyard of St. Vladimir Cathedral, away from the city streets.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Library Reading Hall",
+            "tip": "The reading hall in the Gorky Library offers a quiet and intellectual escape.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie in den Museumsshops nach handgefertigten Souvenirs, die von lokalen Handwerkern hergestellt wurden."
+          },
+          {
+            "name": "Bücher über die Region",
+            "tip": "Die Gorki-Bibliothek oder lokale Buchhandlungen haben möglicherweise interessante Bücher über die Geschichte von Luhansk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített szuveníreket a múzeumi boltokban, amelyeket helyi kézművesek készítettek."
+          },
+          {
+            "name": "Könyvek a régióról",
+            "tip": "A Gorkij Könyvtárban vagy a helyi könyvesboltokban érdekes könyveket találhat Luhanszk történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați suveniruri realizate manual de artizani locali în magazinele muzeelor."
+          },
+          {
+            "name": "Cărți despre regiune",
+            "tip": "Biblioteca Gorki sau librăriile locale pot avea cărți interesante despre istoria Luganskului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Look for handmade souvenirs made by local artisans in the museum shops."
+          },
+          {
+            "name": "Books about the region",
+            "tip": "The Gorky Library or local bookstores might have interesting books about the history of Luhansk."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine GPS-App, um Parkplätze in der Nähe der Cluster-Startpunkte zu finden.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen.",
+          "Beachten Sie die örtlichen Verkehrsregeln und Parkbeschränkungen.",
+          "Das Cluster-Walking-Konzept spart Zeit und Parkgebühren."
+        ],
+        "hu": [
+          "Használjon GPS-alkalmazást a parkolóhelyek megtalálásához a csomópontok kiindulópontjainak közelében.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "Vegye figyelembe a helyi közlekedési szabályokat és parkolási korlátozásokat.",
+          "A csomópontos séta koncepciója időt és parkolási díjakat takarít meg."
+        ],
+        "ro": [
+          "Utilizați o aplicație GPS pentru a găsi parcări în apropierea punctelor de plecare ale clusterelor.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Respectați regulile de circulație și restricțiile de parcare locale.",
+          "Conceptul de plimbare în cluster vă economisește timp și taxe de parcare."
+        ],
+        "en": [
+          "Use a GPS app to find parking near the cluster start points.",
+          "Do not leave valuables visible in the car.",
+          "Be aware of local traffic laws and parking restrictions.",
+          "The cluster-walking concept saves time and parking fees."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Helden",
+            "hu": "Hősök tere",
+            "ro": "Piața Eroilor",
+            "en": "Heroes' Square"
+          },
+          "coords": [
+            39.307,
+            48.574
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder Trolleybus zum zentralen Platz, um Ihr Abenteuer zu beginnen.",
+            "hu": "Menjen busszal vagy trolibusszal a központi térre, hogy elkezdje a kalandot.",
+            "ro": "Luați un autobuz sau troleibuz până în piața centrală pentru a începe aventura.",
+            "en": "Take a bus or trolleybus to the central square to begin your adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal des Arbeiters",
+            "hu": "A Munkás emlékműve",
+            "ro": "Monumentul Muncitorului",
+            "en": "The Worker Monument"
+          },
+          "coords": [
+            39.3,
+            48.578
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus, um dieses wichtige Symbol der Stadt zu sehen.",
+            "hu": "Rövid séta a térről, hogy megnézze ezt a fontos városi szimbólumot.",
+            "ro": "O scurtă plimbare din piață pentru a vedea acest simbol important al orașului.",
+            "en": "A short walk from the square to see this important city symbol."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus von Wasnew",
+            "hu": "Vasznyev-ház",
+            "ro": "Casa Wasnew",
+            "en": "Vasnev House"
+          },
+          "coords": [
+            39.305,
+            48.572
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gassen zu Fuß, um dieses versteckte architektonische Juwel zu finden.",
+            "hu": "Fedezze fel gyalog a sikátorokat, hogy megtalálja ezt a rejtett építészeti gyöngyszemet.",
+            "ro": "Explorați aleile pe jos pentru a găsi această bijuterie arhitecturală ascunsă.",
+            "en": "Explore the alleyways on foot to find this hidden architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Wladimir-Kathedrale",
+            "hu": "Szent Vlagyimir-székesegyház",
+            "ro": "Catedrala Sfântul Vladimir",
+            "en": "St. Vladimir Cathedral"
+          },
+          "coords": [
+            39.312,
+            48.576
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum nächsten Viertel, um die prächtige Kathedrale zu besichtigen.",
+            "hu": "Menjen busszal a következő negyedbe, hogy meglátogassa a csodálatos székesegyházat.",
+            "ro": "Luați un autobuz spre următorul cartier pentru a vizita magnifica catedrală.",
+            "en": "Take a bus to the next district to visit the magnificent cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorki-Bibliothek",
+            "hu": "Gorkij Könyvtár",
+            "ro": "Biblioteca Gorki",
+            "en": "Gorky Library"
+          },
+          "coords": [
+            39.298,
+            48.573
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von der Kathedrale aus ist die Bibliothek nur einen kurzen Spaziergang entfernt.",
+            "hu": "A székesegyháztól a könyvtár csak egy rövid sétára van.",
+            "ro": "Biblioteca se află la o scurtă plimbare de catedrală.",
+            "en": "The library is just a short walk away from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum Luhansk",
+            "hu": "Luhanszki Regionális Múzeum",
+            "ro": "Muzeul Regional Lugansk",
+            "en": "Luhansk Regional Museum"
+          },
+          "coords": [
+            39.315,
+            48.571
+          ],
+          "category": "museums",
+          "arrive_at": "14:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang zum Museum fort, um in die lokale Geschichte einzutauchen.",
+            "hu": "Folytassa sétáját a múzeumhoz, hogy elmerüljön a helytörténetben.",
+            "ro": "Continuați-vă plimbarea spre muzeu pentru a vă cufunda în istoria locală.",
+            "en": "Continue your walk to the museum to immerse yourself in local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalmuseum für Kunst",
+            "hu": "Regionális Művészeti Múzeum",
+            "ro": "Muzeul Regional de Artă",
+            "en": "Regional Art Museum"
+          },
+          "coords": [
+            39.318,
+            48.57
+          ],
+          "category": "museums",
+          "arrive_at": "16:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter kurzer Spaziergang, um den Tag mit einem Hauch von Kunst abzuschließen.",
+            "hu": "Egy utolsó rövid séta, hogy a napot egy kis művészettel zárja.",
+            "ro": "O ultimă scurtă plimbare pentru a încheia ziua cu o notă de artă.",
+            "en": "A final short walk to end the day with a touch of art."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln navigieren Sie effizient durch Luhansk. Ihr Tag beginnt mit einer Fahrt zum Platz der Helden, dem Ausgangspunkt für Ihren ersten Rundgang durch das historische Zentrum. Am Vormittag nehmen Sie einen weiteren Bus, der Sie zum kulturellen Viertel bringt. Dort verbringen Sie den Nachmittag damit, die Kathedrale und die Museen zu Fuß zu erkunden. Diese Methode ermöglicht es Ihnen, wie ein Einheimischer zu reisen und die Stadt aus einer anderen Perspektive zu sehen.",
+        "hu": "A tömegközlekedéssel hatékonyan navigálhat Luhanszkban. A nap a Hősök terére való utazással kezdődik, amely a történelmi központban tett első séta kiindulópontja. Délelőtt egy másik buszra száll, amely a kulturális negyedbe viszi. Ott a délutánt a székesegyház és a múzeumok gyalogos felfedezésével tölti. Ez a módszer lehetővé teszi, hogy úgy utazzon, mint egy helyi, és más szemszögből lássa a várost.",
+        "ro": "Navigați eficient prin Lugansk folosind transportul public. Ziua dvs. începe cu o călătorie spre Piața Eroilor, punctul de plecare pentru primul tur pietonal în centrul istoric. În cursul dimineții, luați un alt autobuz care vă duce în cartierul cultural. Acolo, petreceți după-amiaza explorând pe jos catedrala și muzeele. Această metodă vă permite să călătoriți ca un localnic și să vedeți orașul dintr-o perspectivă diferită.",
+        "en": "Navigate Luhansk efficiently using public transit. Your day begins with a ride to Heroes' Square, the starting point for your first walking tour of the historic center. In the morning, you'll catch another bus to the cultural district. There, you'll spend the afternoon exploring the cathedral and museums on foot. This method allows you to travel like a local and see the city from a different perspective."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Borschtsch",
+            "tip": "Probieren Sie die lokale Variante dieser berühmten Rote-Bete-Suppe, oft mit einem Klecks saurer Sahne serviert."
+          },
+          {
+            "name": "Wareniki",
+            "tip": "Gefüllte Teigtaschen, die entweder herzhaft (mit Kartoffeln oder Fleisch) oder süß (mit Kirschen) sein können."
+          },
+          {
+            "name": "Kiewer Kotelett",
+            "tip": "Ein klassisches Hähnchengericht, gefüllt mit Kräuterbutter. Fragen Sie in traditionellen Restaurants danach."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borscs",
+            "tip": "Kóstolja meg ennek a híres céklalevesnek a helyi változatát, gyakran egy kanál tejföllel tálalva."
+          },
+          {
+            "name": "Varenyiki",
+            "tip": "Töltött táskák, amelyek lehetnek sósak (burgonyával vagy hússal) vagy édesek (megggyel)."
+          },
+          {
+            "name": "Kijevi csirkemell",
+            "tip": "Klasszikus csirkeétel fűszervajjal töltve. Keresse a hagyományos éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Borș",
+            "tip": "Încercați versiunea locală a acestei faimoase supe de sfeclă roșie, adesea servită cu o lingură de smântână."
+          },
+          {
+            "name": "Vareniki",
+            "tip": "Găluște umplute care pot fi sărate (cu cartofi sau carne) sau dulci (cu cireșe)."
+          },
+          {
+            "name": "Șnițel de pui Kiev",
+            "tip": "Un preparat clasic din pui umplut cu unt aromatizat. Căutați-l în restaurantele tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Borscht",
+            "tip": "Try the local version of this famous beetroot soup, often served with a dollop of sour cream."
+          },
+          {
+            "name": "Varenyky",
+            "tip": "Filled dumplings that can be either savory (with potatoes or meat) or sweet (with cherries)."
+          },
+          {
+            "name": "Chicken Kyiv",
+            "tip": "A classic chicken dish filled with herb butter. Ask for it in traditional restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innerer Hof der Kathedrale",
+            "tip": "Finden Sie einen Moment der Stille im Hof der Wladimir-Kathedrale, weg von den Straßen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lesesaal der Bibliothek",
+            "tip": "Der Lesesaal der Gorki-Bibliothek bietet eine ruhige und intellektuelle Flucht.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A székesegyház belső udvara",
+            "tip": "Találjon egy csendes pillanatot a Szent Vlagyimir-székesegyház udvarán, távol a város utcáitól.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A könyvtár olvasóterme",
+            "tip": "A Gorkij Könyvtár olvasóterme csendes és intellektuális menekülést kínál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea interioară a catedralei",
+            "tip": "Găsiți un moment de liniște în curtea Catedralei Sfântul Vladimir, departe de străzile orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sala de lectură a bibliotecii",
+            "tip": "Sala de lectură a Bibliotecii Gorki oferă o evadare liniștită și intelectuală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral's Inner Courtyard",
+            "tip": "Find a moment of peace in the courtyard of St. Vladimir Cathedral, away from the city streets.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Library Reading Hall",
+            "tip": "The reading hall in the Gorky Library offers a quiet and intellectual escape.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie in den Museumsshops nach handgefertigten Souvenirs, die von lokalen Handwerkern hergestellt wurden."
+          },
+          {
+            "name": "Bücher über die Region",
+            "tip": "Die Gorki-Bibliothek oder lokale Buchhandlungen haben möglicherweise interessante Bücher über die Geschichte von Luhansk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített szuveníreket a múzeumi boltokban, amelyeket helyi kézművesek készítettek."
+          },
+          {
+            "name": "Könyvek a régióról",
+            "tip": "A Gorkij Könyvtárban vagy a helyi könyvesboltokban érdekes könyveket találhat Luhanszk történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați suveniruri realizate manual de artizani locali în magazinele muzeelor."
+          },
+          {
+            "name": "Cărți despre regiune",
+            "tip": "Biblioteca Gorki sau librăriile locale pot avea cărți interesante despre istoria Luganskului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Look for handmade souvenirs made by local artisans in the museum shops."
+          },
+          {
+            "name": "Books about the region",
+            "tip": "The Gorky Library or local bookstores might have interesting books about the history of Luhansk."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besorgen Sie sich eine Tageskarte für die öffentlichen Verkehrsmittel für das beste Preis-Leistungs-Verhältnis.",
+          "Laden Sie eine Offline-Karte der Stadt und des Verkehrsnetzes herunter.",
+          "Beachten Sie die Fahrpläne, insbesondere am Abend.",
+          "Validieren Sie Ihr Ticket immer, um Strafen zu vermeiden."
+        ],
+        "hu": [
+          "Szerezzen be egy napijegyet a tömegközlekedéshez a legjobb ár-érték arány érdekében.",
+          "Töltsön le egy offline térképet a városról és a közlekedési hálózatról.",
+          "Vegye figyelembe a menetrendeket, különösen este.",
+          "Mindig érvényesítse a jegyét a bírságok elkerülése érdekében."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru cel mai bun raport calitate-preț.",
+          "Descărcați o hartă offline a orașului și a rețelei de transport.",
+          "Fiți atenți la orare, mai ales seara.",
+          "Validați-vă întotdeauna biletul pentru a evita amenzile."
+        ],
+        "en": [
+          "Get a day pass for public transit for the best value.",
+          "Download an offline map of the city and its transit network.",
+          "Be mindful of the schedules, especially in the evening.",
+          "Always validate your ticket to avoid fines."
+        ]
+      }
+    }
+  }
+}

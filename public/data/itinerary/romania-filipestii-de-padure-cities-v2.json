@@ -1,0 +1,1364 @@
+{
+  "city_id": "romania-filipestii-de-padure-cities-v2",
+  "anchor": {
+    "name": "Filipeștii de Pădure",
+    "coords": [
+      25.76,
+      45
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Park",
+            "hu": "Központi Park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            25.761,
+            45.001
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem ruhigen Spaziergang und genießen Sie die morgendliche Frische.",
+            "hu": "Kezdje a napot egy békés sétával, és élvezze a reggeli frissességet.",
+            "ro": "Începeți ziua cu o plimbare liniștită, bucurându-vă de prospețimea dimineții.",
+            "en": "Start your day with a peaceful walk, enjoying the morning freshness."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Filipeștii de Pădure",
+            "hu": "Filipeștii de Pădure-i Városháza",
+            "ro": "Primăria Filipeștii de Pădure",
+            "en": "Filipeștii de Pădure Town Hall"
+          },
+          "coords": [
+            25.76,
+            45.0
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:15",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lokale Architektur; das Gebäude ist ein Zentrum des Gemeindelebens.",
+            "hu": "Csodálja meg a helyi építészetet; az épület a közösségi élet központja.",
+            "ro": "Admirați arhitectura locală; clădirea este un centru al vieții comunitare.",
+            "en": "Admire the local architecture; the building is a hub of community life."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmahnmal Filipeștii de Pădure",
+            "hu": "Filipeștii de Pădure-i Hősök Emlékműve",
+            "ro": "Monumentul Eroilor din Filipeștii de Pădure",
+            "en": "Heroes' Monument of Filipeștii de Pădure"
+          },
+          "coords": [
+            25.759,
+            45.002
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:45",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung auf die lokale Geschichte und die geehrten Helden.",
+            "hu": "Egy pillanatnyi elmélkedés a helyi történelemről és a tisztelt hősökről.",
+            "ro": "Un moment de reflecție asupra istoriei locale și a eroilor comemorați.",
+            "en": "A moment of reflection on local history and the heroes honored."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen drei Hierarchen",
+            "hu": "A Három Szent Főpap Temploma",
+            "ro": "Biserica Sfinții Trei Ierarhi",
+            "en": "Church of the Holy Three Hierarchs"
+          },
+          "coords": [
+            25.758,
+            44.998
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Wandmalereien im Inneren der Kirche.",
+            "hu": "Figyelje meg a lenyűgöző falfestményeket a templom belsejében.",
+            "ro": "Observați picturile murale impresionante din interiorul bisericii.",
+            "en": "Notice the impressive murals inside the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Pană-Filipescu-Herrenhaus",
+            "hu": "Pană Filipescu udvarház",
+            "ro": "Conacul Pană Filipescu",
+            "en": "Pană Filipescu Mansion"
+          },
+          "coords": [
+            25.755,
+            44.997
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Ausstellungen, die das Leben des alten Adels zeigen.",
+            "hu": "Szánjon időt a régi nemesség életét bemutató kiállításokra.",
+            "ro": "Acordați-vă timp pentru a explora expozițiile ce descriu viața vechii boierimi.",
+            "en": "Take your time to explore the exhibits depicting the life of the old nobility."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem lokalen Restaurant",
+            "hu": "Ebéd egy helyi étteremben",
+            "ro": "Prânz la un restaurant local",
+            "en": "Lunch at a local restaurant"
+          },
+          "coords": [
+            25.762,
+            44.999
+          ],
+          "category": "gastro",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Probieren Sie Sarmale oder Mici, um einen authentischen Geschmack der Region zu bekommen.",
+            "hu": "Kóstolja meg a sarmale-t vagy a mici-t, hogy autentikus ízelítőt kapjon a régióból.",
+            "ro": "Încercați sarmale sau mici pentru un gust autentic al regiunii.",
+            "en": "Try 'sarmale' or 'mici' for an authentic taste of the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt im grünen Herzen von Filipeștii de Pădure, dem Zentralpark. Am Vormittag erkunden Sie das historische Zentrum, besuchen das Rathaus, das Heldenmahnmal und die alte Kirche der Heiligen drei Hierarchen. Der Höhepunkt des Tages ist der Besuch des Pană-Filipescu-Herrenhauses, das einen tiefen Einblick in die aristokratische Vergangenheit der Region bietet. Der Tag endet mit einem entspannten Spaziergang und einem herzhaften rumänischen Mittagessen.",
+        "hu": "Sétája Filipeștii de Pădure zöld szívében, a Központi Parkban kezdődik. A délelőtt folyamán felfedezi a történelmi központot, meglátogatja a városházát, a hősök emlékművét és a régi Három Szent Főpap templomot. A nap fénypontja a Pană Filipescu udvarház meglátogatása, amely mély betekintést nyújt a régió arisztokrata múltjába. A nap egy pihentető sétával és egy kiadós román ebéddel zárul.",
+        "ro": "Plimbarea dvs. începe în inima verde a Filipeștii de Pădure, Parcul Central. În cursul dimineții, explorați centrul istoric, vizitând Primăria, Monumentul Eroilor și vechea Biserică a Sfinților Trei Ierarhi. Punctul culminant al zilei este vizita la Conacul Pană Filipescu, care oferă o perspectivă profundă asupra trecutului aristocratic al regiunii. Ziua se încheie cu o plimbare relaxantă și un prânz românesc copios.",
+        "en": "Your walk begins in the green heart of Filipeștii de Pădure, the Central Park. In the morning, you'll explore the historic center, visiting the Town Hall, the Heroes' Monument, and the old Church of the Holy Three Hierarchs. The highlight of the day is the visit to the Pană Filipescu Mansion, offering a deep insight into the region's aristocratic past. The day concludes with a relaxing stroll and a hearty Romanian lunch."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sarmale",
+            "tip": "Kohlrouladen mit Polenta serviert, ein rumänischer Klassiker."
+          },
+          {
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen, ein beliebtes Streetfood."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Süße Quarkknödel mit saurer Sahne und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sarmale",
+            "tip": "Töltött káposzta polentával, egy román klasszikus."
+          },
+          {
+            "name": "Mici",
+            "tip": "Grillezett fasírtrolád, népszerű street food."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Édes túrógombóc tejföllel és lekvárral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sarmale",
+            "tip": "Sărmăluțe în foi de varză servite cu mămăliguță, un clasic românesc."
+          },
+          {
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar, un street-food popular."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Gogoși de brânză dulce cu smântână și dulceață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sarmale",
+            "tip": "Cabbage rolls served with polenta, a Romanian classic."
+          },
+          {
+            "name": "Mici",
+            "tip": "Grilled minced meat rolls, a popular street food."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Sweet cheese doughnuts with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Provița-Tal",
+            "tip": "Ein Spaziergang entlang des Flusses bietet Ruhe und wunderschöne Landschaften.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zentraler Park am späten Nachmittag",
+            "tip": "Finden Sie eine Bank und beobachten Sie das ruhige Treiben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Provița-völgy",
+            "tip": "Egy séta a folyó mentén nyugalmat és gyönyörű tájakat kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Központi Park késő délután",
+            "tip": "Keressen egy padot, és figyelje a békés nyüzsgést.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Proviței",
+            "tip": "O plimbare de-a lungul râului oferă liniște și peisaje frumoase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Central după-amiaza târziu",
+            "tip": "Găsiți o bancă și priviți forfota liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Provița Valley",
+            "tip": "A walk along the river offers tranquility and beautiful scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Central Park in the late afternoon",
+            "tip": "Find a bench and watch the calm hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach frischen Produkten und hausgemachtem Käse."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Kaufen Sie traditionelle Töpferwaren oder handgewebte Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen friss termékeket és házi sajtot."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Vásároljon hagyományos kerámiákat vagy kézzel szőtt textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse proaspete și brânzeturi de casă."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Cumpărați ceramică tradițională sau textile țesute manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for fresh produce and homemade cheese."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Buy traditional pottery or handwoven textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Nehmen Sie Wasser mit, besonders an warmen Tagen.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten des Herrenhauses im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében gyalogolni fog.",
+          "Vigyen magával vizet, különösen meleg napokon.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Előre ellenőrizze az udvarház nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Luați apă cu dvs., mai ales în zilele călduroase.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Verificați în avans programul de funcționare al conacului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking for most of the day.",
+          "Bring water with you, especially on warm days.",
+          "Most of the central sights are within easy walking distance.",
+          "Check the opening hours of the mansion in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Filipeștii de Pădure",
+            "hu": "Filipeștii de Pădure-i Városháza",
+            "ro": "Primăria Filipeștii de Pădure",
+            "en": "Filipeștii de Pădure Town Hall"
+          },
+          "coords": [
+            25.76,
+            45.0
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour am administrativen Herzen der Stadt.",
+            "hu": "Kezdje a kerékpártúrát a város közigazgatási szívében.",
+            "ro": "Începeți turul pe bicicletă din inima administrativă a orașului.",
+            "en": "Start your bike tour at the administrative heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentraler Park",
+            "hu": "Központi Park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            25.761,
+            45.001
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine kurze Pause im Grünen, bevor Sie Ihre Erkundung fortsetzen.",
+            "hu": "Egy rövid pihenő a zöldben, mielőtt folytatná a felfedezést.",
+            "ro": "O scurtă pauză în verdeață înainte de a continua explorarea.",
+            "en": "A short break in the green before continuing your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen drei Hierarchen",
+            "hu": "A Három Szent Főpap Temploma",
+            "ro": "Biserica Sfinții Trei Ierarhi",
+            "en": "Church of the Holy Three Hierarchs"
+          },
+          "coords": [
+            25.758,
+            44.998
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und treten Sie ein, um die Ruhe zu genießen.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és lépjen be, hogy élvezze a nyugalmat.",
+            "ro": "Asigurați-vă bicicleta și intrați pentru a vă bucura de liniște.",
+            "en": "Secure your bike and step inside to enjoy the tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Pană-Filipescu-Herrenhaus",
+            "hu": "Pană Filipescu udvarház",
+            "ro": "Conacul Pană Filipescu",
+            "en": "Pană Filipescu Mansion"
+          },
+          "coords": [
+            25.755,
+            44.997
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um dieses historische Juwel vollständig zu erkunden.",
+            "hu": "Tervezzen elegendő időt, hogy teljesen felfedezze ezt a történelmi gyöngyszemet.",
+            "ro": "Planificați suficient timp pentru a explora pe deplin această bijuterie istorică.",
+            "en": "Plan enough time to fully explore this historical gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Kohlemine",
+            "hu": "Történelmi szénbánya",
+            "ro": "Mina de cărbune istorică",
+            "en": "Historical Coal Mine"
+          },
+          "coords": [
+            25.78,
+            45.015
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:05",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in das industrielle Erbe der Region.",
+            "hu": "Lenyűgöző betekintés a régió ipari örökségébe.",
+            "ro": "O incursiune fascinantă în patrimoniul industrial al regiunii.",
+            "en": "A fascinating glimpse into the region's industrial heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Provița-Tal",
+            "hu": "Provița-völgy",
+            "ro": "Valea Proviței",
+            "en": "Provița Valley"
+          },
+          "coords": [
+            25.795,
+            45.025
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Radtour durch die malerische Landschaft. Perfekt für eine Nachmittagspause.",
+            "hu": "Élvezze a kerékpártúrát a festői tájon. Tökéletes egy délutáni pihenőhöz.",
+            "ro": "Bucurați-vă de o plimbare cu bicicleta prin peisajul pitoresc. Perfect pentru o pauză de după-amiază.",
+            "en": "Enjoy a bike ride through the picturesque landscape. Perfect for an afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen",
+            "hu": "Késői ebéd",
+            "ro": "Prânz târziu",
+            "en": "Late Lunch"
+          },
+          "coords": [
+            25.762,
+            44.999
+          ],
+          "category": "gastro",
+          "arrive_at": "15:45",
+          "stay_min": 85,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nach einem aktiven Tag ist es Zeit für eine wohlverdiente Mahlzeit.",
+            "hu": "Egy aktív nap után itt az ideje egy jól megérdemelt étkezésnek.",
+            "ro": "După o zi activă, este timpul pentru o masă binemeritată.",
+            "en": "After an active day, it's time for a well-deserved meal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour führt Sie durch das Herz von Filipeștii de Pădure, vorbei an historischen Gebäuden wie dem Rathaus und der alten Kirche. Nach einem tiefen Einblick in die Geschichte im Pană-Filipescu-Herrenhaus radeln Sie aus der Stadt hinaus, um das industrielle Erbe der Kohlemine und die natürliche Schönheit des Provița-Tals zu entdecken. Die Tour verbindet Kultur mit Natur und bietet eine abwechslungsreiche Erkundung der Gegend, die mit einem späten Mittagessen endet.",
+        "hu": "Kerékpártúrája Filipeștii de Pădure szívén vezet keresztül, elhaladva olyan történelmi épületek mellett, mint a Városháza és a régi templom. Miután a Pană Filipescu udvarházban mély betekintést nyert a történelembe, kikerékpározik a városból, hogy felfedezze a szénbánya ipari örökségét és a Provița-völgy természeti szépségét. A túra ötvözi a kultúrát a természettel, változatos felfedezést kínálva a környéken, amely egy késői ebéddel zárul.",
+        "ro": "Turul dvs. cu bicicleta vă poartă prin inima localității Filipeștii de Pădure, pe lângă clădiri istorice precum Primăria și biserica veche. După o incursiune profundă în istorie la Conacul Pană Filipescu, pedalați în afara orașului pentru a descoperi moștenirea industrială a minei de cărbune și frumusețea naturală a Văii Proviței. Turul combină cultura cu natura, oferind o explorare variată a zonei, încheindu-se cu un prânz târziu.",
+        "en": "Your bike tour takes you through the heart of Filipeștii de Pădure, past historic buildings like the Town Hall and the old church. After a deep dive into history at the Pană Filipescu Mansion, you'll cycle out of town to discover the industrial heritage of the coal mine and the natural beauty of the Provița Valley. The tour combines culture with nature, offering a varied exploration of the area, concluding with a late lunch."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Eine traditionelle Kuttelsuppe, die man probiert haben muss."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Ein herzhafter Kuchen gefüllt mit gesalzenem Käse."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Probieren Sie einen Wein aus der Region Dealul Mare in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Hagyományos pacalleves, amit meg kell kóstolni."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Sós túróval töltött pite."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kóstoljon meg egy bort a közeli Dealul Mare borvidékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "O supă tradițională care trebuie încercată."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "O plăcintă sărată umplută cu brânză."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Încercați un vin din regiunea viticolă Dealul Mare din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "A traditional tripe soup that is a must-try."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "A savory pie filled with salted cheese."
+          },
+          {
+            "name": "Local wine",
+            "tip": "Try a wine from the nearby Dealul Mare wine region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Provița-Flusses",
+            "tip": "Ein perfekter Ort für eine ruhige Pause während Ihrer Radtour.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten des Herrenhauses",
+            "tip": "Nach dem Museumsbesuch können Sie hier die Stille genießen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Provița folyó partja",
+            "tip": "Tökéletes hely egy csendes pihenőre a kerékpártúra során.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az udvarház kertje",
+            "tip": "A múzeumlátogatás után itt élvezheti a csendet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Provița",
+            "tip": "Un loc perfect pentru o pauză liniștită în timpul turului cu bicicleta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina conacului",
+            "tip": "După vizitarea muzeului, vă puteți bucura de liniște aici.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Provița River",
+            "tip": "A perfect spot for a quiet break during your bike tour.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mansion Garden",
+            "tip": "After visiting the museum, you can enjoy the silence here.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Die Region ist für ihren Qualitätshonig bekannt."
+          },
+          {
+            "name": "Handgemachte Holzarbeiten",
+            "tip": "Suchen Sie nach einzigartigen Souvenirs von lokalen Handwerkern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A régió a minőségi mézéről ismert."
+          },
+          {
+            "name": "Kézzel készített fa tárgyak",
+            "tip": "Keressen egyedi szuveníreket helyi kézművesektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Regiunea este cunoscută pentru mierea sa de calitate."
+          },
+          {
+            "name": "Obiecte din lemn lucrate manual",
+            "tip": "Căutați suveniruri unice de la artizanii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "The region is known for its quality honey."
+          },
+          {
+            "name": "Handmade wooden crafts",
+            "tip": "Look for unique souvenirs from local artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Ein Helm wird dringend empfohlen.",
+          "Einige Wege im Provița-Tal können uneben sein, fahren Sie vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "Sisak használata erősen ajánlott.",
+          "Néhány út a Provița-völgyben egyenetlen lehet, vezessen óvatosan.",
+          "Mindig zárja le a kerékpárt, amikor leparkolja."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Casca este foarte recomandată.",
+          "Unele poteci din Valea Proviței pot fi denivelate, mergeți cu prudență.",
+          "Încuiati întotdeauna bicicleta când o lăsați."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "A helmet is highly recommended.",
+          "Some paths in the Provița Valley can be uneven, ride with caution.",
+          "Always lock your bike when you leave it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 24.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum",
+            "hu": "1. klaszter: Történelmi központ",
+            "ro": "Cluster 1: Centrul Istoric",
+            "en": "Cluster 1: Historic Center"
+          },
+          "coords": [
+            25.758,
+            44.998
+          ],
+          "category": "parking",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Kirche und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon a templom közelében, és fedezze fel a központot gyalog.",
+            "ro": "Parcați lângă biserică și explorați centrul pe jos.",
+            "en": "Park near the church and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen drei Hierarchen",
+            "hu": "A Három Szent Főpap Temploma",
+            "ro": "Biserica Sfinții Trei Ierarhi",
+            "en": "Church of the Holy Three Hierarchs"
+          },
+          "coords": [
+            25.758,
+            44.998
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ihr erster Halt in diesem Cluster. Bewundern Sie die Architektur.",
+            "hu": "Az első megálló ebben a klaszterben. Csodálja meg az építészetet.",
+            "ro": "Prima oprire în acest cluster. Admirați arhitectura.",
+            "en": "Your first stop in this cluster. Admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Pană-Filipescu-Herrenhaus",
+            "hu": "Pană Filipescu udvarház",
+            "ro": "Conacul Pană Filipescu",
+            "en": "Pană Filipescu Mansion"
+          },
+          "coords": [
+            25.755,
+            44.997
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum kulturellen Höhepunkt der Stadt.",
+            "hu": "Egy rövid séta a parkolóból a város kulturális fénypontjához.",
+            "ro": "O scurtă plimbare de la parcare la punctul culminant cultural al orașului.",
+            "en": "A short walk from the parking spot to the town's cultural highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Zentralpark",
+            "hu": "Városháza és Központi Park",
+            "ro": "Primăria și Parcul Central",
+            "en": "Town Hall and Central Park"
+          },
+          "coords": [
+            25.76,
+            45.0
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie zurück durch das Zentrum, um das Rathaus und den Park zu sehen.",
+            "hu": "Sétáljon vissza a központon keresztül, hogy megnézze a Városházát és a parkot.",
+            "ro": "Plimbați-vă înapoi prin centru pentru a vedea Primăria și parcul.",
+            "en": "Walk back through the center to see the Town Hall and the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Industrie und Natur",
+            "hu": "2. klaszter: Ipar és természet",
+            "ro": "Cluster 2: Industrie și Natură",
+            "en": "Cluster 2: Industry and Nature"
+          },
+          "coords": [
+            25.78,
+            45.015
+          ],
+          "category": "parking",
+          "arrive_at": "12:45",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster und parken Sie in der Nähe der Mine.",
+            "hu": "Vezessen a következő klaszterhez, és parkoljon a bánya közelében.",
+            "ro": "Conduceți spre următorul cluster și parcați lângă mină.",
+            "en": "Drive to the next cluster and park near the mine."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Kohlemine",
+            "hu": "Történelmi szénbánya",
+            "ro": "Mina de cărbune istorică",
+            "en": "Historical Coal Mine"
+          },
+          "coords": [
+            25.78,
+            45.015
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der industriellen Vergangenheit der Region.",
+            "hu": "Fedezze fel a régió ipari múltjának maradványait.",
+            "ro": "Explorați vestigiile trecutului industrial al regiunii.",
+            "en": "Explore the remnants of the region's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt durch das Provița-Tal",
+            "hu": "Autózás a Provița-völgyben",
+            "ro": "Plimbare cu mașina prin Valea Proviței",
+            "en": "Drive through Provița Valley"
+          },
+          "coords": [
+            25.8,
+            45.03
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 13.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine malerische Fahrt und halten Sie an Aussichtspunkten für Fotos an.",
+            "hu": "Élvezze a festői autózást, és álljon meg a kilátópontoknál fotózni.",
+            "ro": "Bucurați-vă de o plimbare pitorească cu mașina, oprind la puncte de belvedere pentru fotografii.",
+            "en": "Enjoy a scenic drive, stopping at viewpoints for photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto gruppieren Sie Ihre Besuche für maximale Effizienz. Der Vormittag ist dem historischen Herzen von Filipeștii de Pădure gewidmet, wo Sie parken und zu Fuß die Kirche, das prächtige Herrenhaus und das Stadtzentrum erkunden. Am Nachmittag fahren Sie in die Außenbezirke, um das industrielle Erbe der Kohlemine zu besichtigen und eine malerische Fahrt durch das Provița-Tal zu unternehmen. Dieser Plan kombiniert bequemes Reisen mit intensiven Erkundungen zu Fuß.",
+        "hu": "Autóval csoportosítva a látnivalókat maximális hatékonyságot érhet el. A délelőtt Filipeștii de Pădure történelmi szívének felfedezésével telik, ahol leparkolva gyalogosan keresheti fel a templomot, a pompás udvarházat és a városközpontot. Délután a külvárosba hajt, hogy megtekintse a szénbánya ipari örökségét, és egy festői autózást tegyen a Provița-völgyben. Ez a terv ötvözi a kényelmes utazást az intenzív gyalogos felfedezéssel.",
+        "ro": "Cu mașina, grupați-vă vizitele pentru eficiență maximă. Dimineața este dedicată inimii istorice a localității Filipeștii de Pădure, unde parcați și explorați pe jos biserica, magnificul conac și centrul orașului. După-amiaza, conduceți la periferie pentru a vizita moștenirea industrială a minei de cărbune și pentru a face o plimbare pitorească prin Valea Proviței. Acest plan combină călătoria confortabilă cu explorarea intensă pe jos.",
+        "en": "By car, you'll cluster your visits for maximum efficiency. The morning is dedicated to the historic heart of Filipeștii de Pădure, where you'll park and explore the church, the magnificent mansion, and the town center on foot. In the afternoon, you drive to the outskirts to visit the industrial heritage of the coal mine and take a scenic drive through the Provița Valley. This plan combines convenient travel with immersive walking explorations."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant an der Hauptstraße",
+            "tip": "Suchen Sie nach einem Restaurant mit Tagesmenü für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Bulz",
+            "tip": "Ein traditionelles Gericht aus Polenta, Käse und manchmal Speck."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Ein starker Pflaumenschnaps, oft als Aperitif serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a főúton",
+            "tip": "Keressen egy éttermet napi menüvel az autentikus élményért."
+          },
+          {
+            "name": "Bulz",
+            "tip": "Hagyományos étel polentából, sajtból és néha szalonnából."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Erős szilvapálinka, gyakran aperitifként szolgálják fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe drumul principal",
+            "tip": "Căutați un restaurant cu meniul zilei pentru o experiență autentică."
+          },
+          {
+            "name": "Bulz",
+            "tip": "Un fel de mâncare tradițional din mămăligă, brânză și uneori slănină."
+          },
+          {
+            "name": "Țuică",
+            "tip": "O băutură spirtoasă puternică din prune, adesea servită ca aperitiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant on the main road",
+            "tip": "Look for a restaurant with a daily menu for an authentic experience."
+          },
+          {
+            "name": "Bulz",
+            "tip": "A traditional dish of polenta, cheese, and sometimes bacon."
+          },
+          {
+            "name": "Țuică",
+            "tip": "A strong plum brandy, often served as an aperitif."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein ruhiger Ort im Provița-Tal",
+            "tip": "Halten Sie an einem abgelegenen Ort an, um die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof neben der Kirche",
+            "tip": "Ein Ort der Stille und Geschichte.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csendes hely a Provița-völgyben",
+            "tip": "Álljon meg egy félreeső helyen, hogy élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Templom melletti temető",
+            "tip": "A csend és a történelem helye.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un loc liniștit în Valea Proviței",
+            "tip": "Opriți-vă într-un loc izolat pentru a vă bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de lângă biserică",
+            "tip": "Un loc de liniște și istorie.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet spot in Provița Valley",
+            "tip": "Stop at a secluded spot to enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery next to the church",
+            "tip": "A place of silence and history.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenverkäufer",
+            "tip": "Halten Sie Ausschau nach Verkäufern von Waldfrüchten oder Pilzen in der Saison."
+          },
+          {
+            "name": "Kleine Läden im Zentrum",
+            "tip": "Hier finden Sie lokale Produkte und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Út menti árusok",
+            "tip": "Figyelje az erdei gyümölcsöket vagy gombát árusítókat a szezonban."
+          },
+          {
+            "name": "Kis boltok a központban",
+            "tip": "Itt helyi termékeket és ajándéktárgyakat találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători ambulanți",
+            "tip": "Fiți atenți la vânzătorii de fructe de pădure sau ciuperci în sezon."
+          },
+          {
+            "name": "Mici magazine în centru",
+            "tip": "Aici puteți găsi produse locale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside vendors",
+            "tip": "Look out for vendors selling forest fruits or mushrooms in season."
+          },
+          {
+            "name": "Small shops in the center",
+            "tip": "Here you can find local products and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Zentrum eine Herausforderung sein, seien Sie geduldig.",
+          "Achten Sie auf die Straßenbedingungen, besonders auf Nebenstraßen.",
+          "Ein GPS ist für die Navigation zwischen den Clustern unerlässlich.",
+          "Planen Sie zusätzliche Zeit für unvorhergesehene Stopps ein, wenn Sie etwas Interessantes sehen."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a központban, legyen türelmes.",
+          "Ügyeljen az útviszonyokra, különösen a mellékutakon.",
+          "A GPS elengedhetetlen a klaszterek közötti navigációhoz.",
+          "Tervezzen plusz időt a váratlan megállókra, ha valami érdekeset lát."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centru, aveți răbdare.",
+          "Fiți atenți la condițiile drumului, în special pe drumurile secundare.",
+          "Un GPS este esențial pentru navigarea între clustere.",
+          "Planificați timp suplimentar pentru opriri neprevăzute dacă vedeți ceva interesant."
+        ],
+        "en": [
+          "Parking can be a challenge in the center, be patient.",
+          "Pay attention to road conditions, especially on secondary roads.",
+          "A GPS is essential for navigating between clusters.",
+          "Plan extra time for unplanned stops if you see something interesting."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Zentrum & Park",
+            "hu": "1. klaszter: Központ és Park",
+            "ro": "Cluster 1: Centru & Parc",
+            "en": "Cluster 1: Center & Park"
+          },
+          "coords": [
+            25.761,
+            45.001
+          ],
+          "category": "transit_stop",
+          "arrive_at": "09:20",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum und steigen Sie in der Nähe des Parks aus.",
+            "hu": "Menjen busszal a központba, és szálljon le a park közelében.",
+            "ro": "Luați un autobuz spre centru și coborâți lângă parc.",
+            "en": "Take a bus to the center and get off near the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentraler Park & Rathaus",
+            "hu": "Központi Park és Városháza",
+            "ro": "Parcul Central & Primăria",
+            "en": "Central Park & Town Hall"
+          },
+          "coords": [
+            25.76,
+            45.0
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung mit einem Spaziergang durch den Park zum Rathaus.",
+            "hu": "Kezdje a felfedezést egy sétával a parkon keresztül a Városházához.",
+            "ro": "Începeți explorarea cu o plimbare prin parc până la Primărie.",
+            "en": "Start your exploration with a walk through the park to the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmahnmal & Take-Ionescu-Schule",
+            "hu": "Hősök Emlékműve & Take Ionescu Iskola",
+            "ro": "Monumentul Eroilor & Școala Take Ionescu",
+            "en": "Heroes' Monument & Take Ionescu School"
+          },
+          "coords": [
+            25.759,
+            45.002
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:25",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, um zwei wichtige lokale Wahrzeichen zu sehen.",
+            "hu": "Egy rövid séta két fontos helyi nevezetesség megtekintéséhez.",
+            "ro": "O scurtă plimbare pentru a vedea două repere locale importante.",
+            "en": "A short walk to see two important local landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Kulturviertel",
+            "hu": "2. klaszter: Kulturális negyed",
+            "ro": "Cluster 2: Cartierul Cultural",
+            "en": "Cluster 2: Cultural Quarter"
+          },
+          "coords": [
+            25.758,
+            44.998
+          ],
+          "category": "transit_stop",
+          "arrive_at": "11:40",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen anderen Bus, um das Gebiet um das Herrenhaus zu erreichen.",
+            "hu": "Menjen egy másik busszal, hogy elérje az udvarház környékét.",
+            "ro": "Luați un alt autobuz pentru a ajunge în zona conacului.",
+            "en": "Take another bus to reach the area around the mansion."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche & Pană-Filipescu-Herrenhaus",
+            "hu": "Templom és Pană Filipescu udvarház",
+            "ro": "Biserica & Conacul Pană Filipescu",
+            "en": "Church & Pană Filipescu Mansion"
+          },
+          "coords": [
+            25.755,
+            44.997
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kirche und das Museum ausgiebig und essen Sie in der Nähe zu Mittag.",
+            "hu": "Fedezze fel alaposan a templomot és a múzeumot, és ebédeljen a közelben.",
+            "ro": "Explorați pe larg biserica și muzeul și luați prânzul în apropiere.",
+            "en": "Explore the church and museum extensively and have lunch nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Filipeștii de Pădure in zwei Clustern. Sie beginnen im Zentrum, wo Sie den Park, das Rathaus und Denkmäler zu Fuß erreichen. Anschließend bringt Sie ein Bus in die Nähe des kulturellen Herzstücks, des Pană-Filipescu-Herrenhauses und der alten Kirche. Dieser Plan ist ideal für Reisende ohne Auto, die dennoch die wichtigsten Sehenswürdigkeiten bequem erreichen möchten. Es kombiniert kurze Busfahrten mit angenehmen Spaziergängen.",
+        "hu": "Tömegközlekedéssel két klaszterben fedezheti fel Filipeștii de Pădure-t. A központban kezdi, ahol gyalogosan elérheti a parkot, a városházát és az emlékműveket. Ezután egy busz elviszi a kulturális központ, a Pană Filipescu udvarház és a régi templom közelébe. Ez a terv ideális az autó nélkül utazók számára, akik mégis kényelmesen el akarják érni a főbb látnivalókat. Rövid buszutakat kombinál kellemes sétákkal.",
+        "ro": "Folosind transportul public, explorați Filipeștii de Pădure în două clustere. Începeți în centru, unde puteți ajunge pe jos la parc, primărie și monumente. Apoi, un autobuz vă duce aproape de inima culturală, Conacul Pană Filipescu și biserica veche. Acest plan este ideal pentru călătorii fără mașină care doresc totuși să ajungă convenabil la principalele atracții. Combină călătorii scurte cu autobuzul cu plimbări plăcute.",
+        "en": "Using public transport, you'll explore Filipeștii de Pădure in two clusters. You start in the center, where you can reach the park, town hall, and monuments on foot. Then, a bus takes you near the cultural heart, the Pană Filipescu Mansion and the old church. This plan is ideal for travelers without a car who still want to conveniently reach the main attractions. It combines short bus rides with pleasant walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi",
+            "tip": "Ein warmer, mit Sesam oder Mohn bestreuter Brezel, perfekt für unterwegs."
+          },
+          {
+            "name": "Gogoși",
+            "tip": "Rumänische Donuts, oft mit Puderzucker bestreut."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Covrigi",
+            "tip": "Meleg, szezámmaggal vagy mákkal megszórt perec, tökéletes útközben."
+          },
+          {
+            "name": "Gogoși",
+            "tip": "Román fánk, gyakran porcukorral megszórva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi",
+            "tip": "Un covrig cald, presărat cu susan sau mac, perfect pentru drum."
+          },
+          {
+            "name": "Gogoși",
+            "tip": "Gogoși românești, adesea pudrate cu zahăr."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi",
+            "tip": "A warm pretzel sprinkled with sesame or poppy seeds, perfect for on the go."
+          },
+          {
+            "name": "Gogoși",
+            "tip": "Romanian doughnuts, often sprinkled with powdered sugar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick von der Take-Ionescu-Schule",
+            "tip": "Ein oft übersehener Ort mit einer schönen Aussicht.",
+            "emoji": "🏫"
+          },
+          {
+            "name": "Ein Spaziergang abseits der Hauptstraßen",
+            "tip": "Entdecken Sie die ruhigen Wohnstraßen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Take Ionescu Iskolától",
+            "tip": "Gyakran figyelmen kívül hagyott hely, szép kilátással.",
+            "emoji": "🏫"
+          },
+          {
+            "name": "Séta a főutcáktól távol",
+            "tip": "Fedezze fel a csendes lakóutcákat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Școala Take Ionescu",
+            "tip": "Un loc adesea trecut cu vederea, cu o priveliște frumoasă.",
+            "emoji": "🏫"
+          },
+          {
+            "name": "O plimbare departe de străzile principale",
+            "tip": "Descoperiți străzile rezidențiale liniștite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Take Ionescu School",
+            "tip": "An often overlooked spot with a nice view.",
+            "emoji": "🏫"
+          },
+          {
+            "name": "A walk away from the main streets",
+            "tip": "Discover the quiet residential streets.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Hier finden Sie Snacks, Getränke und manchmal auch lokale Zeitungen."
+          },
+          {
+            "name": "Bäckereien",
+            "tip": "Kaufen Sie frisches Brot oder Gebäck für Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Itt rágcsálnivalókat, italokat és néha helyi újságokat találhat."
+          },
+          {
+            "name": "Pékségek",
+            "tip": "Vásároljon friss kenyeret vagy péksüteményt az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri din stațiile de autobuz",
+            "tip": "Aici puteți găsi gustări, băuturi și uneori ziare locale."
+          },
+          {
+            "name": "Brutării",
+            "tip": "Cumpărați pâine proaspătă sau produse de patiserie pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "Here you can find snacks, drinks, and sometimes local newspapers."
+          },
+          {
+            "name": "Bakeries",
+            "tip": "Buy fresh bread or pastries for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne, da diese möglicherweise nicht häufig verkehren.",
+          "Haben Sie Kleingeld für Bustickets dabei.",
+          "Fragen Sie die Einheimischen nach dem richtigen Bus, sie sind meist hilfsbereit.",
+          "Beachten Sie die letzte Busverbindung zurück zu Ihrem Ausgangspunkt."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszmenetrendekről, mert lehet, hogy nem járnak sűrűn.",
+          "Legyen Önnél aprópénz a buszjegyekhez.",
+          "Kérdezze meg a helyieket a megfelelő buszról, általában segítőkészek.",
+          "Figyeljen az utolsó buszjáratra vissza a kiindulópontjához."
+        ],
+        "ro": [
+          "Interesați-vă de orarul autobuzelor în avans, deoarece s-ar putea să nu fie frecvente.",
+          "Aveți bani mărunți pentru biletele de autobuz.",
+          "Întrebați localnicii despre autobuzul corect, de obicei sunt de ajutor.",
+          "Fiți atenți la ultima cursă de autobuz înapoi la punctul de plecare."
+        ],
+        "en": [
+          "Find out about the bus schedules in advance, as they may not be frequent.",
+          "Have small change ready for bus tickets.",
+          "Ask the locals for the right bus, they are usually helpful.",
+          "Be aware of the last bus service back to your starting point."
+        ]
+      }
+    }
+  }
+}

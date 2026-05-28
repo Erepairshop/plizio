@@ -1,0 +1,1372 @@
+{
+  "city_id": "norway-molde-cities-v2",
+  "anchor": {
+    "name": "Molde",
+    "coords": [
+      7.1667,
+      62.7333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plassen Kulturzentrum",
+            "hu": "Plassen Kulturális Központ",
+            "ro": "Centrul Cultural Plassen",
+            "en": "Plassen Cultural Centre"
+          },
+          "coords": [
+            7.162,
+            62.7355
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, oft gibt es mittags kostenlose Ausstellungen.",
+            "hu": "Nézd meg a programot, gyakran vannak ingyenes kiállítások napközben.",
+            "ro": "Verificați programul, adesea sunt expoziții gratuite în timpul zilei.",
+            "en": "Check the schedule, there are often free exhibitions during the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Domkirche von Molde",
+            "hu": "Moldei dóm",
+            "ro": "Catedrala din Molde",
+            "en": "Molde Cathedral"
+          },
+          "coords": [
+            7.165,
+            62.734
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf das freistehende Glockenturm-Design, es ist einzigartig in Norwegen.",
+            "hu": "Figyeld meg a különálló harangtorony kialakítását, egyedülálló Norvégiában.",
+            "ro": "Observați designul clopotniței separate, este unic în Norvegia.",
+            "en": "Notice the detached bell tower design, it's unique in Norway."
+          }
+        },
+        {
+          "name": {
+            "de": "Aker Stadion",
+            "hu": "Aker Stadion",
+            "ro": "Stadionul Aker",
+            "en": "Aker Stadion"
+          },
+          "coords": [
+            7.155,
+            62.736
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang um das Stadion herum, um die Architektur am Wasser zu bewundern.",
+            "hu": "Sétálj egyet a stadion körül, hogy megcsodáld a vízparti építészetet.",
+            "ro": "Faceți o plimbare în jurul stadionului pentru a admira arhitectura de pe malul apei.",
+            "en": "Take a walk around the stadium to admire the waterfront architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Reknesparken",
+            "hu": "Reknesparken",
+            "ro": "Parcul Reknes",
+            "en": "Reknesparken"
+          },
+          "coords": [
+            7.178,
+            62.731
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für ein Mittagspicknick mit Blick auf die Fjordlandschaft.",
+            "hu": "Tökéletes hely egy ebédpiknikhez, kilátással a fjordvidékre.",
+            "ro": "Locul perfect pentru un picnic la prânz cu vedere la peisajul fiordului.",
+            "en": "The perfect spot for a lunch picnic with a view of the fjordscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Romsdalsmuseet",
+            "hu": "Romsdalsmuseet",
+            "ro": "Muzeul Romsdal",
+            "en": "Romsdal Museum"
+          },
+          "coords": [
+            7.18,
+            62.73
+          ],
+          "category": "museums",
+          "arrive_at": "14:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die „Bygata“ ein, die nachgebaute Stadtstraße ist das Highlight.",
+            "hu": "Szánj elég időt a „Bygata”-ra, az újraalkotott városi utca a fénypont.",
+            "ro": "Planificați suficient timp pentru 'Bygata', strada orașului recreată este punctul culminant.",
+            "en": "Plan enough time for the 'Bygata', the recreated town street is the highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Kongebjørka (Die Königliche Birke)",
+            "hu": "Kongebjørka (A királyi nyírfa)",
+            "ro": "Kongebjørka (Mesteacănul Regal)",
+            "en": "Kongebjørka (The Royal Birch)"
+          },
+          "coords": [
+            7.175,
+            62.729
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ergreifender Ort, der an die norwegische Widerstandsfähigkeit im Zweiten Weltkrieg erinnert.",
+            "hu": "Megrendítő hely, amely a norvég ellenállásra emlékeztet a II. világháborúban.",
+            "ro": "Un loc emoționant care comemorează rezistența norvegiană în Al Doilea Război Mondial.",
+            "en": "A poignant spot commemorating Norwegian resilience in World War II."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Molde beginnt im kulturellen Herzen der Stadt, dem Plassen, gefolgt von der modernen Architektur der Domkirche. Am Vormittag spüren Sie die sportliche Atmosphäre am Aker Stadion direkt am Wasser. Der Nachmittag wird entspannter im grünen Reknesparken und auf einer Zeitreise im Romsdalsmuseet. Zum Abschluss des Tages besuchen Sie die geschichtsträchtige Königliche Birke, ein Symbol des norwegischen Widerstands. Der Abend klingt in einem der gemütlichen Restaurants im Zentrum aus.",
+        "hu": "A nap Moldéban a város kulturális szívében, a Plassenben kezdődik, majd a dóm modern építészete következik. Délelőtt a vízparti Aker Stadion sportos légkörét élvezheti. A délután pihentetőbben telik a zöldellő Reknesparkenben és egy időutazással a Romsdalsmuseetben. A nap végén meglátogatja a történelmi Királyi Nyírfát, a norvég ellenállás szimbólumát. Az estét a központ egyik hangulatos éttermében zárhatja.",
+        "ro": "Ziua dvs. în Molde începe în inima culturală a orașului, Plassen, urmată de arhitectura modernă a Catedralei. Dimineața veți simți atmosfera sportivă de la Stadionul Aker, chiar pe malul apei. După-amiaza devine mai relaxantă în Parcul Reknes și într-o călătorie în timp la Muzeul Romsdal. La finalul zilei, veți vizita istoricul Mesteacăn Regal, un simbol al rezistenței norvegiene. Seara se încheie la unul dintre restaurantele primitoare din centru.",
+        "en": "Your day in Molde starts in the cultural heart of the city, Plassen, followed by the modern architecture of the Cathedral. In the morning, you'll feel the sporting atmosphere at Aker Stadion right on the waterfront. The afternoon becomes more relaxed in the green Reknesparken and a journey through time at the Romsdal Museum. To end the day, you'll visit the historic Royal Birch, a symbol of Norwegian resistance. The evening concludes at one of the cozy restaurants in the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiskesuppe",
+            "tip": "Eine cremige Fischsuppe, oft mit Lachs, Kabeljau und Garnelen. Probieren Sie sie im 'Glass Restaurant & Bar'."
+          },
+          {
+            "name": "Bacalao",
+            "tip": "Obwohl portugiesischen Ursprungs, ist dieses Klippfischgericht eine lokale Spezialität. 'Syd' ist bekannt dafür."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiskesuppe",
+            "tip": "Krémes halleves, gyakran lazaccal, tőkehallal és garnélával. Kóstold meg a 'Glass Restaurant & Bar'-ban."
+          },
+          {
+            "name": "Bacalao",
+            "tip": "Bár portugál eredetű, ez a szárított tőkehalétel helyi specialitás. A 'Syd' étterem híres róla."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiskesuppe",
+            "tip": "O supă cremoasă de pește, adesea cu somon, cod și creveți. Încercați-o la 'Glass Restaurant & Bar'."
+          },
+          {
+            "name": "Bacalao",
+            "tip": "Deși de origine portugheză, acest fel de mâncare din cod uscat este o specialitate locală. 'Syd' este renumit pentru el."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiskesuppe",
+            "tip": "A creamy fish soup, often with salmon, cod, and shrimp. Try it at 'Glass Restaurant & Bar'."
+          },
+          {
+            "name": "Bacalao",
+            "tip": "Though of Portuguese origin, this dried and salted cod dish is a local specialty. 'Syd' is renowned for it."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Reknesparken",
+            "tip": "Finden Sie eine Bank mit Blick auf den Fjord und die Berge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Wasser",
+            "tip": "Ein ruhiger Spaziergang östlich des Aker Stadions bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reknesparken",
+            "tip": "Keress egy padot, ahonnan a fjordra és a hegyekre nyílik kilátás.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vízparti séta",
+            "tip": "Egy csendes séta az Aker Stadiontól keletre naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Reknes",
+            "tip": "Găsiți o bancă cu vedere la fiord și la munți.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul apei",
+            "tip": "O plimbare liniștită la est de Stadionul Aker la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reknesparken",
+            "tip": "Find a bench with a view over the fjord and the mountains.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waterfront stroll",
+            "tip": "A quiet walk east of Aker Stadion at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Husfliden",
+            "tip": "Authentische norwegische Handwerkskunst und Wollwaren, ideal für Souvenirs."
+          },
+          {
+            "name": "Molde Sentrum",
+            "tip": "Die Hauptstraßen bieten eine Mischung aus lokalen Boutiquen und skandinavischen Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Husfliden",
+            "tip": "Autentikus norvég kézműves termékek és gyapjúáruk, ideális szuvenírnek."
+          },
+          {
+            "name": "Molde Sentrum",
+            "tip": "A főutcák helyi butikok és skandináv márkák keverékét kínálják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Husfliden",
+            "tip": "Artizanat norvegian autentic și produse din lână, ideale pentru suveniruri."
+          },
+          {
+            "name": "Molde Sentrum",
+            "tip": "Străzile principale oferă un amestec de buticuri locale și mărci scandinave."
+          }
+        ],
+        "en": [
+          {
+            "name": "Husfliden",
+            "tip": "Authentic Norwegian handicrafts and woolen goods, ideal for souvenirs."
+          },
+          {
+            "name": "Molde Sentrum",
+            "tip": "The main streets offer a mix of local boutiques and Scandinavian brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Gelände hügelig sein kann.",
+          "Eine Regenjacke ist immer eine gute Idee, auch an sonnigen Tagen.",
+          "Die meisten Cafés bieten kostenloses WLAN an."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert a terep dombos lehet.",
+          "Egy esőkabát mindig jó ötlet, még napos időben is.",
+          "A legtöbb kávézó ingyenes wifit kínál."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece terenul poate fi deluros.",
+          "O jachetă de ploaie este întotdeauna o idee bună, chiar și în zilele însorite.",
+          "Majoritatea cafenelelor oferă Wi-Fi gratuit."
+        ],
+        "en": [
+          "Wear comfortable shoes as the terrain can be hilly.",
+          "A rain jacket is always a good idea, even on sunny days.",
+          "Most cafes offer free Wi-Fi."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aker Stadion",
+            "hu": "Aker Stadion",
+            "ro": "Stadionul Aker",
+            "en": "Aker Stadion"
+          },
+          "coords": [
+            7.155,
+            62.736
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit der frischen Meeresbrise am Fjord.",
+            "hu": "Kezdd a napot a fjord friss tengeri szellőjével.",
+            "ro": "Începeți ziua cu briza proaspătă a mării de la fiord.",
+            "en": "Start the day with the fresh sea breeze by the fjord."
+          }
+        },
+        {
+          "name": {
+            "de": "Domkirche von Molde",
+            "hu": "Moldei dóm",
+            "ro": "Catedrala din Molde",
+            "en": "Molde Cathedral"
+          },
+          "coords": [
+            7.165,
+            62.734
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Radweg führt direkt am Dom vorbei. Ein kurzer Stopp lohnt sich.",
+            "hu": "A kerékpárút közvetlenül a dóm mellett vezet el. Megéri egy rövid megálló.",
+            "ro": "Pista de biciclete trece chiar pe lângă catedrală. Merită o oprire scurtă.",
+            "en": "The bike path goes right past the cathedral. It's worth a quick stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Romsdalsmuseet",
+            "hu": "Romsdalsmuseet",
+            "ro": "Muzeul Romsdal",
+            "en": "Romsdal Museum"
+          },
+          "coords": [
+            7.18,
+            62.73
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer am Eingang. Das Freilichtmuseum ist weitläufig.",
+            "hu": "A bejáratnál kerékpártárolók vannak. A skanzen tágas.",
+            "ro": "Există suporturi pentru biciclete la intrare. Muzeul în aer liber este extins.",
+            "en": "There are bike racks at the entrance. The open-air museum is extensive."
+          }
+        },
+        {
+          "name": {
+            "de": "Varden - Der Aussichtspunkt von Molde",
+            "hu": "Varden - Molde kilátója",
+            "ro": "Varden - Punctul de belvedere din Molde",
+            "en": "Varden - The Molde Viewpoint"
+          },
+          "coords": [
+            7.185,
+            62.745
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg ist anspruchsvoll, aber die Panoramaaussicht auf 222 Gipfel ist die Mühe wert.",
+            "hu": "Az emelkedő kihívást jelent, de a 222 csúcsra nyíló panoráma megéri a fáradságot.",
+            "ro": "Urcușul este solicitant, dar panorama celor 222 de vârfuri merită efortul.",
+            "en": "The climb is challenging, but the panoramic view of 222 peaks is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Kongebjørka (Die Königliche Birke)",
+            "hu": "Kongebjørka (A királyi nyírfa)",
+            "ro": "Kongebjørka (Mesteacănul Regal)",
+            "en": "Kongebjørka (The Royal Birch)"
+          },
+          "coords": [
+            7.175,
+            62.729
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort zur Besinnung nach der anstrengenden Fahrt zum Varden.",
+            "hu": "Csendes hely az elmélkedésre a Vardenre vezető megerőltető út után.",
+            "ro": "Un loc liniștit pentru reflecție după drumul obositor spre Varden.",
+            "en": "A quiet place for reflection after the strenuous ride to Varden."
+          }
+        },
+        {
+          "name": {
+            "de": "Plassen Kulturzentrum",
+            "hu": "Plassen Kulturális Központ",
+            "ro": "Centrul Cultural Plassen",
+            "en": "Plassen Cultural Centre"
+          },
+          "coords": [
+            7.162,
+            62.7355
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:09",
+          "stay_min": 91,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Kaffee im Kulturzentrum und genießen Sie die Atmosphäre.",
+            "hu": "Fejezd be a túrát egy kávéval a kulturális központban és élvezd a hangulatot.",
+            "ro": "Încheiați turul cu o cafea la centrul cultural și bucurați-vă de atmosferă.",
+            "en": "End your tour with a coffee at the cultural center and enjoy the atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet frisch am Aker Stadion und führt Sie zur markanten Domkirche. Der Vormittag ist dem Freilichtmuseum Romsdal gewidmet, das Sie nach einer angenehmen Fahrt erreichen. Der Höhepunkt des Tages ist der sportliche Anstieg zum Aussichtspunkt Varden, wo Sie mit einem unvergesslichen Panorama belohnt werden. Auf dem Rückweg halten Sie an der geschichtsträchtigen Königlichen Birke inne, bevor Sie den Tag entspannt im Kulturzentrum Plassen ausklingen lassen.",
+        "hu": "A kerékpártúra frissen indul az Aker Stadionnál, majd a jellegzetes dómhoz vezet. A délelőtt a Romsdal skanzené, amelyet egy kellemes tekerés után ér el. A nap fénypontja a sportos emelkedő a Varden-kilátóhoz, ahol felejthetetlen panoráma jutalmazza. Visszafelé megáll a történelmi Királyi Nyírfánál, mielőtt a napot a Plassen kulturális központban zárná.",
+        "ro": "Turul cu bicicleta începe proaspăt la Stadionul Aker și vă duce la Catedrala distinctivă. Dimineața este dedicată Muzeului în aer liber Romsdal, la care ajungeți după o plimbare plăcută. Punctul culminant al zilei este urcarea sportivă la punctul de belvedere Varden, unde veți fi răsplătit cu o panoramă de neuitat. Pe drumul de întoarcere, vă opriți la istoricul Mesteacăn Regal înainte de a încheia ziua relaxat la Centrul Cultural Plassen.",
+        "en": "Your bike tour starts fresh at Aker Stadion and takes you to the distinctive Cathedral. The morning is dedicated to the Romsdal open-air museum, which you reach after a pleasant ride. The highlight of the day is the athletic climb to the Varden viewpoint, where you'll be rewarded with an unforgettable panorama. On the way back, you'll pause at the historic Royal Birch before ending the day relaxed at the Plassen Cultural Centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svele",
+            "tip": "Ein dicker, pfannkuchenartiger Snack, perfekt für eine Radpause. In vielen Cafés erhältlich."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Belohnen Sie sich nach der Radtour mit einem Bier von einer lokalen Brauerei wie 'Tapp & Kork'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svele",
+            "tip": "Vastag, palacsintaszerű snack, tökéletes egy biciklis pihenőhöz. Sok kávézóban kapható."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Jutalmazd meg magad egy helyi sörfőzde, például a 'Tapp & Kork' sörével a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svele",
+            "tip": "O gustare groasă, asemănătoare unei clătite, perfectă pentru o pauză de ciclism. Disponibilă în multe cafenele."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Recompensați-vă după turul cu bicicleta cu o bere de la o fabrică locală precum 'Tapp & Kork'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svele",
+            "tip": "A thick, pancake-like snack, perfect for a cycling break. Available in many cafes."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Reward yourself after the bike tour with a beer from a local brewery like 'Tapp & Kork'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Varden-Aussichtspunkt",
+            "tip": "Nach dem anstrengenden Aufstieg ist die Stille hier oben, nur vom Wind unterbrochen, magisch.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Uferweg",
+            "tip": "Fahren Sie langsam am Ufer entlang und genießen Sie die Ruhe abseits des Zentrums.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Varden-kilátó",
+            "tip": "A megerőltető mászás után a csend itt fent, amelyet csak a szél tör meg, varázslatos.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Parti út",
+            "tip": "Tekerj lassan a parton, és élvezd a csendet a központtól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Varden",
+            "tip": "După urcarea obositoare, liniștea de aici de sus, întreruptă doar de vânt, este magică.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Potecă pe mal",
+            "tip": "Pedalați încet de-a lungul malului și bucurați-vă de liniștea departe de centru.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Varden viewpoint",
+            "tip": "After the strenuous climb, the silence up here, broken only by the wind, is magical.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Shore path",
+            "tip": "Cycle slowly along the shore and enjoy the quiet away from the center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Molde hat exzellente Sportgeschäfte für Outdoor-Ausrüstung, falls Sie etwas vergessen haben."
+          },
+          {
+            "name": "Romsdalsmuseet Shop",
+            "tip": "Der Museumsshop bietet einzigartige, von der norwegischen Geschichte inspirierte Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Moldéban kiváló sportboltok vannak outdoor felszerelésekhez, ha valamit elfelejtettél."
+          },
+          {
+            "name": "Romsdalsmuseet boltja",
+            "tip": "A múzeumi bolt egyedi, a norvég történelem által inspirált ajándékokat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "Molde are magazine excelente de echipament outdoor, în caz că ați uitat ceva."
+          },
+          {
+            "name": "Magazinul Muzeului Romsdal",
+            "tip": "Magazinul muzeului oferă cadouri unice, inspirate din istoria norvegiană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports shops",
+            "tip": "Molde has excellent sports shops for outdoor gear, in case you forgot something."
+          },
+          {
+            "name": "Romsdal Museum Shop",
+            "tip": "The museum shop offers unique gifts inspired by Norwegian history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck und die Bremsen vor dem Start.",
+          "Ein Helm wird dringend empfohlen, besonders für den Anstieg nach Varden.",
+          "Nehmen Sie Wasser und Snacks mit, da die Anstiege anstrengend sein können."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a guminyomást és a fékeket.",
+          "Sisak viselése erősen ajánlott, különösen a Vardenre való feljutáshoz.",
+          "Vigyél magaddal vizet és rágcsálnivalót, mert az emelkedők megerőltetőek lehetnek."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor și frânele înainte de a porni.",
+          "O cască este puternic recomandată, în special pentru urcarea spre Varden.",
+          "Luați apă și gustări, deoarece urcușurile pot fi obositoare."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before you start.",
+          "A helmet is highly recommended, especially for the climb to Varden.",
+          "Bring water and snacks as the climbs can be strenuous."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 24.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Varden - Der Aussichtspunkt von Molde",
+            "hu": "Varden - Molde kilátója",
+            "ro": "Varden - Punctul de belvedere din Molde",
+            "en": "Varden - The Molde Viewpoint"
+          },
+          "coords": [
+            7.185,
+            62.745
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie morgens hoch, um die beste Sicht und weniger Menschenmassen zu haben. Parkplätze sind vorhanden.",
+            "hu": "Menj fel reggel a legjobb kilátásért és a kevesebb tömegért. Parkolóhelyek rendelkezésre állnak.",
+            "ro": "Urcați dimineața pentru cea mai bună priveliște și mai puține aglomerații. Parcarea este disponibilă.",
+            "en": "Drive up in the morning for the best views and fewer crowds. Parking is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Romsdalsmuseet",
+            "hu": "Parkoló a Romsdalsmuseetnél",
+            "ro": "Parcare Muzeul Romsdal",
+            "en": "Romsdal Museum Parking"
+          },
+          "coords": [
+            7.181,
+            62.7295
+          ],
+          "category": "other",
+          "arrive_at": "09:55",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Museums- und Parkcluster. Es ist ein guter Ausgangspunkt.",
+            "hu": "Parkolj itt a múzeumi és parkos részhez. Jó kiindulópont.",
+            "ro": "Parcați aici pentru clusterul muzeu și parc. Este un bun punct de plecare.",
+            "en": "Park here for the museum and park cluster. It's a good starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Romsdalsmuseet",
+            "hu": "Romsdalsmuseet",
+            "ro": "Muzeul Romsdal",
+            "en": "Romsdal Museum"
+          },
+          "coords": [
+            7.18,
+            62.73
+          ],
+          "category": "museums",
+          "arrive_at": "09:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Freilichtmuseum zeigt Häuser aus der gesamten Region Romsdal.",
+            "hu": "A skanzen a Romsdal régió minden tájáról származó házakat mutat be.",
+            "ro": "Muzeul în aer liber prezintă case din întreaga regiune Romsdal.",
+            "en": "The open-air museum showcases houses from the entire Romsdal region."
+          }
+        },
+        {
+          "name": {
+            "de": "Reknesparken",
+            "hu": "Reknesparken",
+            "ro": "Parcul Reknes",
+            "en": "Reknesparken"
+          },
+          "coords": [
+            7.178,
+            62.731
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Museum, um etwas frische Luft zu schnappen.",
+            "hu": "Egy kellemes séta a múzeumtól, hogy egy kis friss levegőt szívj.",
+            "ro": "O plimbare plăcută de la muzeu pentru a lua o gură de aer proaspăt.",
+            "en": "A lovely walk from the museum to get some fresh air."
+          }
+        },
+        {
+          "name": {
+            "de": "Kongebjørka (Die Königliche Birke)",
+            "hu": "Kongebjørka (A királyi nyírfa)",
+            "ro": "Kongebjørka (Mesteacănul Regal)",
+            "en": "Kongebjørka (The Royal Birch)"
+          },
+          "coords": [
+            7.175,
+            62.729
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, aber bedeutungsvoller Abstecher im selben Parkbereich.",
+            "hu": "Egy rövid, de jelentőségteljes kitérő ugyanabban a parkrészben.",
+            "ro": "Un ocol scurt, dar semnificativ, în aceeași zonă a parcului.",
+            "en": "A short but meaningful detour within the same park area."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz an der Uferpromenade",
+            "hu": "Parkoló a vízparton",
+            "ro": "Parcare pe faleză",
+            "en": "Waterfront Parking"
+          },
+          "coords": [
+            7.158,
+            62.7365
+          ],
+          "category": "other",
+          "arrive_at": "13:31",
+          "stay_min": 0,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das Stadtzentrum, den Dom und das Stadion zu Fuß zu erkunden.",
+            "hu": "Parkolj itt, hogy gyalog fedezd fel a városközpontot, a dómot és a stadiont.",
+            "ro": "Parcați aici pentru a explora pe jos centrul orașului, catedrala și stadionul.",
+            "en": "Park here to explore the city center, cathedral, and stadium on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Aker Stadion",
+            "hu": "Aker Stadion",
+            "ro": "Stadionul Aker",
+            "en": "Aker Stadion"
+          },
+          "coords": [
+            7.155,
+            62.736
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Guter Ort für ein Mittagessen mit Aussicht, bevor Sie das Zentrum erkunden.",
+            "hu": "Jó hely egy kilátással egybekötött ebédhez, mielőtt felfedeznéd a központot.",
+            "ro": "Loc bun pentru un prânz cu vedere înainte de a explora centrul.",
+            "en": "Good spot for lunch with a view before exploring the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Domkirche von Molde",
+            "hu": "Moldei dóm",
+            "ro": "Catedrala din Molde",
+            "en": "Molde Cathedral"
+          },
+          "coords": [
+            7.165,
+            62.734
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die moderne Glasmalerei im Inneren ist bei Nachmittagssonne besonders schön.",
+            "hu": "A modern ólomüveg ablakok délutáni napfényben különösen szépek.",
+            "ro": "Vitraliile moderne din interior sunt deosebit de frumoase în soarele de după-amiază.",
+            "en": "The modern stained glass inside is especially beautiful in the afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Fährterminal Hjertøya",
+            "hu": "Hjertøya kompkikötő",
+            "ro": "Terminalul de feribot Hjertøya",
+            "en": "Hjertøya Ferry Terminal"
+          },
+          "coords": [
+            7.15,
+            62.735
+          ],
+          "category": "port",
+          "arrive_at": "16:21",
+          "stay_min": 64,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 9.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Machen Sie einen späten Bootsausflug zur Insel für einen ruhigen Abschluss des Tages.",
+            "hu": "Tegyen egy késői hajókirándulást a szigetre a nap csendes lezárásaként.",
+            "ro": "Faceți o excursie târzie cu barca pe insulă pentru un final liniștit al zilei.",
+            "en": "Take a late boat trip to the island for a quiet end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erobern Sie zuerst den Aussichtspunkt Varden für ein atemberaubendes Morgenpanorama. Danach parken Sie beim Romsdalsmuseet, um das Freilichtmuseum, den Reknesparken und die Königliche Birke bequem zu Fuß zu erkunden. Am Nachmittag fahren Sie ins Zentrum, parken am Wasser und entdecken das Aker Stadion und die Domkirche. Ein kurzer letzter Autotrip bringt Sie zum Fährhafen, um den Blick auf die Insel Hjertøya zu genießen und den Tag ausklingen zu lassen.",
+        "hu": "Autóval először a Varden-kilátót hódítja meg egy lélegzetelállító reggeli panorámáért. Ezután a Romsdalsmuseetnél parkol, hogy gyalogosan fedezze fel a skanzent, a Reknesparkent és a Királyi Nyírfát. Délután a központba hajt, a vízparton parkol, és felfedezi az Aker Stadiont és a dómot. Egy utolsó rövid autózás a kompkikötőhöz visz, hogy élvezze a Hjertøya-szigetre nyíló kilátást és lezárja a napot.",
+        "ro": "Cu mașina, cuceriți mai întâi punctul de belvedere Varden pentru o panoramă matinală uluitoare. Apoi parcați la Muzeul Romsdal pentru a explora pe jos muzeul în aer liber, Parcul Reknes și Mesteacănul Regal. După-amiaza, conduceți spre centru, parcați pe malul apei și descoperiți Stadionul Aker și Catedrala. O ultimă scurtă călătorie cu mașina vă duce la terminalul de feribot pentru a vă bucura de vederea spre insula Hjertøya și a încheia ziua.",
+        "en": "By car, you first conquer the Varden viewpoint for a breathtaking morning panorama. Then you park at the Romsdal Museum to explore the open-air museum, Reknesparken, and the Royal Birch on foot. In the afternoon, you drive to the center, park by the water, and discover Aker Stadion and the Cathedral. A final short car trip takes you to the ferry terminal to enjoy the view of Hjertøya island and round off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rømmegrøt",
+            "tip": "Ein traditioneller norwegischer Sauerrahmbrei. Suchen Sie nach einem traditionellen Restaurant außerhalb des Zentrums."
+          },
+          {
+            "name": "Elch- oder Rentiergerichte",
+            "tip": "Halten Sie in ländlicheren Gasthäusern Ausschau nach Wildgerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rømmegrøt",
+            "tip": "Hagyományos norvég tejfölös kása. Keress egy hagyományos éttermet a központon kívül."
+          },
+          {
+            "name": "Jávorszarvas- vagy rénszarvasételek",
+            "tip": "Keress vadhúsételeket a vidéki vendéglőkben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rømmegrøt",
+            "tip": "O terci tradițională norvegiană din smântână. Căutați un restaurant tradițional în afara centrului."
+          },
+          {
+            "name": "Mâncăruri din elan sau ren",
+            "tip": "Căutați preparate din vânat la hanurile rurale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rømmegrøt",
+            "tip": "A traditional Norwegian sour cream porridge. Look for a traditional restaurant outside the center."
+          },
+          {
+            "name": "Elk or Reindeer dishes",
+            "tip": "Look out for game dishes in more rural inns."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hjertøya Insel",
+            "tip": "Schon der Blick vom Festland ist friedlich. Die Insel selbst ist eine Oase der Ruhe.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Fahrt entlang des Fjords",
+            "tip": "Nutzen Sie das Auto für eine kurze Fahrt entlang weniger befahrener Straßen am Fjord.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hjertøya-sziget",
+            "tip": "Már a kilátás a szárazföldről is békés. Maga a sziget a nyugalom oázisa.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Autózás a fjord mentén",
+            "tip": "Használd az autót egy rövid útra a kevésbé forgalmas utakon a fjord mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Hjertøya",
+            "tip": "Chiar și priveliștea de pe continent este pașnică. Insula însăși este o oază de liniște.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Condus de-a lungul fiordului",
+            "tip": "Folosiți mașina pentru o scurtă plimbare de-a lungul drumurilor mai puțin circulate de la fiord.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hjertøya Island",
+            "tip": "Even the view from the mainland is peaceful. The island itself is an oasis of calm.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Drive along the fjord",
+            "tip": "Use the car for a short drive along less-traveled roads by the fjord.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie außerhalb der Stadt Ausschau nach Schildern für 'Gårdsutsalg' (Hofverkauf) für lokale Produkte."
+          },
+          {
+            "name": "Amfi Roseby",
+            "tip": "Ein Einkaufszentrum etwas außerhalb des Zentrums für eine größere Auswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "A városon kívül keresd a 'Gårdsutsalg' (tanyasi árusítás) táblákat helyi termékekért."
+          },
+          {
+            "name": "Amfi Roseby",
+            "tip": "Egy bevásárlóközpont kicsit a központon kívül a nagyobb választékért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine la fermă",
+            "tip": "În afara orașului, căutați semne pentru 'Gårdsutsalg' (vânzare la fermă) pentru produse locale."
+          },
+          {
+            "name": "Amfi Roseby",
+            "tip": "Un centru comercial puțin în afara centrului pentru o selecție mai largă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Outside the city, look for signs for 'Gårdsutsalg' (farm sale) for local produce."
+          },
+          {
+            "name": "Amfi Roseby",
+            "tip": "A shopping center just outside the center for a wider selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren können hoch sein, suchen Sie nach Tagespauschalen.",
+          "Die Straßen nach Varden können eng sein, fahren Sie vorsichtig.",
+          "Planen Sie Ihre Cluster, um unnötiges Fahren zu vermeiden."
+        ],
+        "hu": [
+          "A parkolási díjak magasak lehetnek, keress napidíjas lehetőségeket.",
+          "A Vardenre vezető utak szűkek lehetnek, vezess óvatosan.",
+          "Tervezd meg a klasztereket a felesleges autózás elkerülése érdekében."
+        ],
+        "ro": [
+          "Taxele de parcare pot fi mari, căutați tarife zilnice.",
+          "Drumurile spre Varden pot fi înguste, conduceți cu prudență.",
+          "Planificați-vă clusterele pentru a evita condusul inutil."
+        ],
+        "en": [
+          "Parking fees can be high, look for daily rates.",
+          "The roads to Varden can be narrow, drive carefully.",
+          "Plan your clusters to avoid unnecessary driving."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 15.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plassen (Bus-Haltestelle)",
+            "hu": "Plassen (buszmegálló)",
+            "ro": "Plassen (stație de autobuz)",
+            "en": "Plassen (Bus Stop)"
+          },
+          "coords": [
+            7.162,
+            62.7355
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Verkehrsknotenpunkt, um sich zu orientieren.",
+            "hu": "Kezdd a központi közlekedési csomópontnál a tájékozódáshoz.",
+            "ro": "Începeți de la nodul central de transport pentru a vă orienta.",
+            "en": "Start at the central transport hub to get your bearings."
+          }
+        },
+        {
+          "name": {
+            "de": "Domkirche von Molde",
+            "hu": "Moldei dóm",
+            "ro": "Catedrala din Molde",
+            "en": "Molde Cathedral"
+          },
+          "coords": [
+            7.165,
+            62.734
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Bushaltestelle Plassen entfernt.",
+            "hu": "Csak egy rövid sétára a Plassen buszmegállótól.",
+            "ro": "La doar o scurtă plimbare de stația de autobuz Plassen.",
+            "en": "Just a short walk from the Plassen bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Aker Stadion",
+            "hu": "Aker Stadion",
+            "ro": "Stadionul Aker",
+            "en": "Aker Stadion"
+          },
+          "coords": [
+            7.155,
+            62.736
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Spaziergang entlang der Uferpromenade.",
+            "hu": "Élvezd a sétát a vízparti sétányon.",
+            "ro": "Bucurați-vă de plimbarea de-a lungul promenadei de pe malul apei.",
+            "en": "Enjoy the stroll along the waterfront promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Romsdalsmuseet",
+            "hu": "Busz a Romsdalsmuseethez",
+            "ro": "Autobuz către Muzeul Romsdal",
+            "en": "Bus to Romsdal Museum"
+          },
+          "coords": [
+            7.18,
+            62.73
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus vom Zentrum. Die Fahrt dauert etwa 10-15 Minuten.",
+            "hu": "Menj busszal a központból. Az út kb. 10-15 percig tart.",
+            "ro": "Luați autobuzul din centru. Călătoria durează aproximativ 10-15 minute.",
+            "en": "Take the bus from the center. The ride takes about 10-15 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Reknesparken",
+            "hu": "Reknesparken",
+            "ro": "Parcul Reknes",
+            "en": "Reknesparken"
+          },
+          "coords": [
+            7.178,
+            62.731
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Park liegt direkt neben dem Museum, perfekt für eine Pause nach dem Museumsbesuch.",
+            "hu": "A park közvetlenül a múzeum mellett található, tökéletes egy pihenőre a múzeumlátogatás után.",
+            "ro": "Parcul este chiar lângă muzeu, perfect pentru o pauză după vizita la muzeu.",
+            "en": "The park is right next to the museum, perfect for a break after the museum visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Varden-Aussichtspunkt",
+            "hu": "Busz a Varden-kilátóhoz",
+            "ro": "Autobuz către Punctul de belvedere Varden",
+            "en": "Bus to Varden Viewpoint"
+          },
+          "coords": [
+            7.185,
+            62.745
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein Bus bringt Sie nahe an den Gipfel. Der letzte Teil ist ein kurzer Spaziergang.",
+            "hu": "Egy busz közel visz a csúcshoz. Az utolsó rész egy rövid séta.",
+            "ro": "Un autobuz vă va duce aproape de vârf. Ultima parte este o scurtă plimbare.",
+            "en": "A bus takes you close to the top. The last part is a short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to City Center"
+          },
+          "coords": [
+            7.1667,
+            62.7333
+          ],
+          "category": "other",
+          "arrive_at": "17:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 46,
+          "hop_from_prev_km": 4.9,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück, um den Tag bei einem Abendessen in der Stadt ausklingen zu lassen.",
+            "hu": "Menj vissza busszal, hogy a napot egy vacsorával zárd a városban.",
+            "ro": "Luați autobuzul înapoi pentru a încheia ziua cu o cină în oraș.",
+            "en": "Take the bus back to end the day with dinner in the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt im Herzen von Molde am Plassen, von wo aus Sie bequem zur Domkirche und zum Aker Stadion spazieren. Ein Bus bringt Sie am Vormittag zum faszinierenden Romsdalsmuseet, gefolgt von einem entspannten Spaziergang im angrenzenden Reknesparken. Der Höhepunkt des Nachmittags ist die Busfahrt hinauf zum Varden-Aussichtspunkt, der Sie mit einer spektakulären Aussicht belohnt. Am Abend kehren Sie mit dem Bus ins Zentrum zurück und lassen den Tag Revue passieren.",
+        "hu": "A tömegközlekedési túra Molde szívében, a Plassennél kezdődik, ahonnan kényelmesen elsétálhat a dómhoz és az Aker Stadionhoz. Délelőtt busz viszi a lenyűgöző Romsdalsmuseetbe, majd egy pihentető séta következik a szomszédos Reknesparkenben. A délután fénypontja a buszozás a Varden-kilátóhoz, amely látványos kilátással jutalmazza. Este busszal tér vissza a központba, hogy áttekintse a napot.",
+        "ro": "Turul dvs. cu transportul public începe în inima orașului Molde, la Plassen, de unde puteți merge pe jos la Catedrală și la Stadionul Aker. Un autobuz vă duce dimineața la fascinantul Muzeu Romsdal, urmat de o plimbare relaxantă în Parcul Reknes adiacent. Punctul culminant al după-amiezii este călătoria cu autobuzul până la punctul de belvedere Varden, care vă răsplătește cu o priveliște spectaculoasă. Seara, vă întoarceți în centru cu autobuzul pentru a rememora ziua.",
+        "en": "Your public transport tour starts in the heart of Molde at Plassen, from where you can easily walk to the Cathedral and Aker Stadion. A bus takes you in the morning to the fascinating Romsdal Museum, followed by a relaxing walk in the adjacent Reknesparken. The highlight of the afternoon is the bus ride up to the Varden viewpoint, which rewards you with a spectacular view. In the evening, you return to the center by bus to review the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølse med lompe",
+            "tip": "Ein klassischer norwegischer Hotdog in einem Kartoffelfladen. Holen Sie sich einen von einem Straßenstand ('gatekjøkken')."
+          },
+          {
+            "name": "Skillingsbolle",
+            "tip": "Eine Zimtschnecke, perfekt für einen Kaffee-Stopp. In jeder Bäckerei ('bakeri') zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølse med lompe",
+            "tip": "Klasszikus norvég hot dog burgonyalepényben. Szerezz egyet egy utcai árustól ('gatekjøkken')."
+          },
+          {
+            "name": "Skillingsbolle",
+            "tip": "Fahéjas csiga, tökéletes egy kávészünethez. Minden pékségben ('bakeri') megtalálható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølse med lompe",
+            "tip": "Un hotdog norvegian clasic într-o lipie de cartofi. Luați unul de la un stand stradal ('gatekjøkken')."
+          },
+          {
+            "name": "Skillingsbolle",
+            "tip": "Un rulou cu scorțișoară, perfect pentru o pauză de cafea. Găsit la orice brutărie ('bakeri')."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølse med lompe",
+            "tip": "A classic Norwegian hot dog in a potato flatbread. Get one from a street food stall ('gatekjøkken')."
+          },
+          {
+            "name": "Skillingsbolle",
+            "tip": "A cinnamon bun, perfect for a coffee stop. Found at any bakery ('bakeri')."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Sitzreihe im Bus",
+            "tip": "Genießen Sie die Aussicht während der Fahrt aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bibliothek im Plassen",
+            "tip": "Ein ruhiger, moderner Raum, um sich für eine Weile zurückzuziehen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Felső üléssor a buszon",
+            "tip": "Élvezd a kilátást utazás közben más szemszögből.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Könyvtár a Plassenben",
+            "tip": "Csendes, modern tér, ahová egy időre visszavonulhatsz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rândul de sus în autobuz",
+            "tip": "Bucurați-vă de priveliște în timpul călătoriei dintr-o altă perspectivă.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Biblioteca din Plassen",
+            "tip": "Un spațiu liniștit și modern unde vă puteți retrage pentru o vreme.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of the bus",
+            "tip": "Enjoy the view during the ride from a different perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Library in Plassen",
+            "tip": "A quiet, modern space to retreat for a while.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Storgata",
+            "tip": "Die Hauptstraße ist leicht zu Fuß von den Bushaltestellen im Zentrum aus zu erreichen und bietet viele Geschäfte."
+          },
+          {
+            "name": "Souvenirs am Varden",
+            "tip": "Oben am Aussichtspunkt gibt es oft einen kleinen Kiosk mit Postkarten und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Storgata",
+            "tip": "A főutca könnyen megközelíthető a központi buszmegállókból, és számos üzletet kínál."
+          },
+          {
+            "name": "Szuvenírek a Vardennél",
+            "tip": "A kilátó tetején gyakran van egy kis kioszk képeslapokkal és szuvenírekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Storgata",
+            "tip": "Strada principală este ușor accesibilă pe jos de la stațiile de autobuz din centru și are multe magazine."
+          },
+          {
+            "name": "Suveniruri la Varden",
+            "tip": "În vârful punctului de belvedere există adesea un mic chioșc cu vederi și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Storgata",
+            "tip": "The main street is easily accessible on foot from the bus stops in the center and has many shops."
+          },
+          {
+            "name": "Souvenirs at Varden",
+            "tip": "At the top of the viewpoint, there is often a small kiosk with postcards and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, das ist oft günstiger.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Beachten Sie, dass Busse in ländlichere Gebiete wie Varden seltener fahren könnten."
+        ],
+        "hu": [
+          "Vásárolj napijegyet a buszra, gyakran olcsóbb.",
+          "Töltsd le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Vedd figyelembe, hogy a buszok ritkábban közlekedhetnek a vidéki területekre, mint például Vardenre."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, este adesea mai ieftin.",
+          "Descărcați aplicația locală de transport public pentru a vedea orarele în timp real.",
+          "Rețineți că autobuzele către zonele mai rurale, cum ar fi Varden, pot circula mai rar."
+        ],
+        "en": [
+          "Buy a day pass for the bus, it's often cheaper.",
+          "Download the local public transport app to see real-time schedules.",
+          "Be aware that buses to more rural areas like Varden might be less frequent."
+        ]
+      }
+    }
+  }
+}

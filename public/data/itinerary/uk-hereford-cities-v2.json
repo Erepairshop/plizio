@@ -1,0 +1,1188 @@
+{
+  "city_id": "uk-hereford-cities-v2",
+  "anchor": {
+    "name": "Hereford",
+    "coords": [
+      -2.715,
+      52.0567
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Das Black and White House Museum",
+            "hu": "Black and White House Múzeum",
+            "ro": "Muzeul Casa Alb-Negru",
+            "en": "The Black and White House Museum"
+          },
+          "coords": [
+            -2.717,
+            52.056
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die jakobinische Architektur, die für die Region typisch ist.",
+            "hu": "Csodálja meg a régióra jellemző jakobita építészetet!",
+            "ro": "Admirați arhitectura iacobiană, specifică regiunii.",
+            "en": "Admire the Jacobean architecture, typical for the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerheiligenkirche",
+            "hu": "Mindenszentek-templom",
+            "ro": "Biserica Tuturor Sfinților",
+            "en": "All Saints Church"
+          },
+          "coords": [
+            -2.718,
+            52.057
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Café im Inneren, ein einzigartiger Ort für eine Pause.",
+            "hu": "Nézzen be a templomban működő kávézóba, egyedi hely egy kis pihenésre.",
+            "ro": "Intrați în cafeneaua din interior, un loc unic pentru o pauză.",
+            "en": "Check out the café inside, a unique spot for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Hereford",
+            "hu": "Herefordi székesegyház",
+            "ro": "Catedrala din Hereford",
+            "en": "Hereford Cathedral"
+          },
+          "coords": [
+            -2.716,
+            52.054
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende normannische Architektur und die Buntglasfenster.",
+            "hu": "Figyelje meg a lenyűgöző normann építészetet és az ólomüveg ablakokat!",
+            "ro": "Observați arhitectura normandă impresionantă și vitraliile.",
+            "en": "Pay attention to the stunning Norman architecture and stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Mappa Mundi & Chained Library",
+            "hu": "Mappa Mundi és a Láncos Könyvtár",
+            "ro": "Mappa Mundi și Biblioteca înlănțuită",
+            "en": "Mappa Mundi & Chained Library"
+          },
+          "coords": [
+            -2.716,
+            52.0541
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dies ist die größte erhaltene mittelalterliche Weltkarte. Ein Muss!",
+            "hu": "Ez a legnagyobb fennmaradt középkori világtérkép. Ezt látni kell!",
+            "ro": "Aceasta este cea mai mare hartă medievală a lumii care s-a păstrat. O vizită obligatorie!",
+            "en": "This is the largest surviving medieval world map. A must-see!"
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Green",
+            "hu": "Castle Green",
+            "ro": "Castle Green",
+            "en": "Castle Green"
+          },
+          "coords": [
+            -2.712,
+            52.053
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Picknick mit Blick auf den Fluss Wye.",
+            "hu": "Tökéletes hely egy piknikhez, kilátással a Wye folyóra.",
+            "ro": "Un loc perfect pentru un picnic cu vedere la râul Wye.",
+            "en": "A perfect spot for a picnic with a view of the River Wye."
+          }
+        },
+        {
+          "name": {
+            "de": "Victoria Bridge",
+            "hu": "Viktória híd",
+            "ro": "Podul Victoria",
+            "en": "Victoria Bridge"
+          },
+          "coords": [
+            -2.714,
+            52.052
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von dieser eleganten Fußgängerbrücke.",
+            "hu": "Készítsen egy fotót erről az elegáns gyalogoshídról!",
+            "ro": "Faceți o fotografie cu acest pod pietonal elegant.",
+            "en": "Take a photo of this elegant pedestrian bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Apfelwein",
+            "hu": "Cidermúzeum",
+            "ro": "Muzeul Cidrului",
+            "en": "Museum of Cider"
+          },
+          "coords": [
+            -2.724,
+            52.058
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:50",
+          "stay_min": 85,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Verkostung am Ende der Tour.",
+            "hu": "Ne hagyja ki a kóstolót a túra végén!",
+            "ro": "Nu ratați degustarea de la sfârșitul turului.",
+            "en": "Don't miss the tasting session at the end of the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der jakobinischen Geschichte im Black and White House Museum. Schlendern Sie durch die Gassen zur Allerheiligenkirche, bevor Sie das majestätische Zentrum von Hereford, die Kathedrale, erreichen. Am Nachmittag tauchen Sie in die mittelalterliche Kartographie mit der Mappa Mundi ein und entspannen dann im Grünen am Flussufer. Der Abend ist der Entdeckung des berühmten lokalen Apfelweins gewidmet, ein perfekter Abschluss für einen Tag voller Kultur und Entspannung.",
+        "hu": "Kezdje a napot a jakobita történelem szívében, a Black and White House Múzeumban. Sétáljon át a sikátorokon a Mindenszentek-templomhoz, mielőtt elérné Hereford fenséges központját, a székesegyházat. Délután merüljön el a középkori térképészetben a Mappa Mundi-val, majd pihenjen a folyóparti zöldterületen. Az este a híres helyi cider felfedezéséről szól, amely tökéletes lezárása egy kultúrával és pihenéssel teli napnak.",
+        "ro": "Începeți ziua în inima istoriei iacobine la Muzeul Casa Alb-Negru. Plimbați-vă pe străduțe până la Biserica Tuturor Sfinților înainte de a ajunge la centrul maiestuos al Herefordului, Catedrala. După-amiaza, pătrundeți în cartografia medievală cu Mappa Mundi, apoi relaxați-vă în zona verde de pe malul râului. Seara este dedicată descoperirii faimosului cidru local, o încheiere perfectă pentru o zi plină de cultură și relaxare.",
+        "en": "Start your day in the heart of Jacobean history at the Black and White House Museum. Stroll through the alleys to All Saints Church before reaching Hereford's majestic centrepiece, the Cathedral. In the afternoon, delve into medieval cartography with the Mappa Mundi, then relax in the green space by the riverside. The evening is dedicated to discovering the famous local cider, a perfect end to a day of culture and relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Herefordshire Beef",
+            "tip": "Probieren Sie ein lokal bezogenes Steak in einem der traditionellen Pubs der Stadt."
+          },
+          {
+            "name": "Apfelweinkuchen",
+            "tip": "Ein einzigartiger Leckerbissen, der den berühmtesten Export der Region feiert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herefordshire-i marha",
+            "tip": "Kóstoljon meg egy helyi forrásból származó steaket a város egyik hagyományos pubjában."
+          },
+          {
+            "name": "Cideres pite",
+            "tip": "Egyedi finomság, amely a régió leghíresebb exportcikkét ünnepli."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne de vită Herefordshire",
+            "tip": "Încercați o friptură de proveniență locală la unul dintre puburile tradiționale ale orașului."
+          },
+          {
+            "name": "Plăcintă cu cidru",
+            "tip": "O delicatesă unică ce celebrează cel mai faimos produs de export al regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herefordshire Beef",
+            "tip": "Try a locally sourced steak at one of the city's traditional pubs."
+          },
+          {
+            "name": "Cider Cake",
+            "tip": "A unique treat celebrating the region's most famous export."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bischofspalast-Gärten",
+            "tip": "Ein verstecktes Juwel hinter der Kathedrale, perfekt für eine ruhige Einkehr.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Fluss Wye",
+            "tip": "Ein friedlicher Spaziergang entlang des Wassers, abseits des Stadttrubels.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Püspöki Palota kertje",
+            "tip": "Egy rejtett gyöngyszem a székesegyház mögött, tökéletes a csendes elmélyüléshez."
+          },
+          {
+            "name": "Séta a Wye folyó partján",
+            "tip": "Békés séta a víz mentén, távol a város nyüzsgésétől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Episcopal",
+            "tip": "O bijuterie ascunsă în spatele catedralei, perfectă pentru reflecție liniștită."
+          },
+          {
+            "name": "Plimbare pe malul râului Wye",
+            "tip": "O plimbare liniștită de-a lungul apei, departe de agitația orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bishop's Palace Gardens",
+            "tip": "A hidden gem behind the Cathedral, perfect for quiet reflection.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "River Wye Walk",
+            "tip": "A peaceful stroll along the water's edge, away from the city bustle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "High Town Markt",
+            "tip": "Finden Sie lokale Produkte, Kunsthandwerk und einzigartige Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "High Town piac",
+            "tip": "Keressen helyi termékeket, kézműves tárgyakat és egyedi ajándékokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața High Town",
+            "tip": "Găsiți produse locale, artizanat și cadouri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "High Town Market",
+            "tip": "Find local produce, crafts, and unique gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Innenstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten der Kathedrale und der Museen im Voraus, da diese variieren können.",
+          "Ein Spaziergang durch Hereford ist der beste Weg, um die versteckten Gassen und die einzigartige Architektur zu entdecken."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a belvárosi macskakövek egyenetlenek lehetnek.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Ellenőrizze előre a székesegyház és a múzeumok nyitvatartási idejét, mert az változó lehet.",
+          "Egy herefordi séta a legjobb módja a rejtett sikátorok és az egyedi építészet felfedezésének."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul orașului poate fi denivelat.",
+          "Majoritatea atracțiilor centrale sunt ușor accesibile pe jos.",
+          "Verificați în avans orele de deschidere ale catedralei și muzeelor, deoarece acestea pot varia.",
+          "O plimbare pe jos prin Hereford este cel mai bun mod de a descoperi aleile ascunse și arhitectura unică."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the city centre can be uneven.",
+          "Most central attractions are within easy walking distance.",
+          "Check opening times for the cathedral and museums in advance as they can vary.",
+          "Walking around Hereford is the best way to discover its hidden alleys and unique architecture."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wasserwerkmuseum",
+            "hu": "Vízművek Múzeuma",
+            "ro": "Muzeul Apelor",
+            "en": "Waterworks Museum"
+          },
+          "coords": [
+            -2.729,
+            52.064
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um die Menschenmassen im Stadtzentrum zu vermeiden. Tolle Industriemaschinen!",
+            "hu": "Kezdje itt, hogy elkerülje a belvárosi tömeget. Nagyszerű ipari gépek!",
+            "ro": "Începeți de aici pentru a evita mulțimea din centrul orașului. Mașinării industriale grozave!",
+            "en": "Start here to avoid the city centre crowds. Great industrial machinery!"
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Apfelwein",
+            "hu": "Cidermúzeum",
+            "ro": "Muzeul Cidrului",
+            "en": "Museum of Cider"
+          },
+          "coords": [
+            -2.724,
+            52.058
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt entlang des Flusses bringt Sie zu diesem Juwel.",
+            "hu": "Egy rövid tekerés a folyó mentén elvezeti ehhez a gyöngyszemhez.",
+            "ro": "O scurtă plimbare cu bicicleta de-a lungul râului vă duce la această bijuterie.",
+            "en": "A short ride along the river will get you to this gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Black and White House Museum",
+            "hu": "Black and White House Múzeum",
+            "ro": "Muzeul Casa Alb-Negru",
+            "en": "The Black and White House Museum"
+          },
+          "coords": [
+            -2.717,
+            52.056
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und erkunden Sie dieses historische Haus.",
+            "hu": "Zárja le a biciklit a közelben, és fedezze fel ezt a történelmi házat.",
+            "ro": "Legați-vă bicicleta în apropiere și explorați această casă istorică.",
+            "en": "Lock your bike nearby and explore this historic house."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerheiligenkirche",
+            "hu": "Mindenszentek-templom",
+            "ro": "Biserica Tuturor Sfinților",
+            "en": "All Saints Church"
+          },
+          "coords": [
+            -2.718,
+            52.057
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schneller Stopp, um den einzigartigen verdrehten Kirchturm zu sehen.",
+            "hu": "Egy gyors megálló, hogy megnézze a különleges, csavart toronysisakot.",
+            "ro": "O oprire rapidă pentru a vedea turla unică, răsucită.",
+            "en": "A quick stop to see the unique twisted spire."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Hereford & Mappa Mundi",
+            "hu": "Herefordi székesegyház és Mappa Mundi",
+            "ro": "Catedrala Hereford și Mappa Mundi",
+            "en": "Hereford Cathedral & Mappa Mundi"
+          },
+          "coords": [
+            -2.716,
+            52.054
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die Kathedrale und ihre Schätze ein.",
+            "hu": "Szánjon elég időt a székesegyházra és kincseire.",
+            "ro": "Alocați suficient timp pentru catedrală și comorile sale.",
+            "en": "Allow plenty of time for both the cathedral and its treasures."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Green",
+            "hu": "Castle Green",
+            "ro": "Castle Green",
+            "en": "Castle Green"
+          },
+          "coords": [
+            -2.712,
+            52.053
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einer entspannten Fahrt und genießen Sie die Aussicht.",
+            "hu": "Zárja a napot egy pihentető tekeréssel és élvezze a kilátást.",
+            "ro": "Încheiați-vă ziua cu o plimbare relaxantă și bucurați-vă de priveliște.",
+            "en": "End your day with a relaxing ride and enjoy the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Victoria Bridge",
+            "hu": "Viktória híd",
+            "ro": "Podul Victoria",
+            "en": "Victoria Bridge"
+          },
+          "coords": [
+            -2.714,
+            52.052
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "18:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke bei Sonnenuntergang für eine malerische Aussicht.",
+            "hu": "Menjen át a hídon naplementekor a festői kilátásért.",
+            "ro": "Traversați podul la apus pentru o priveliște pitorească.",
+            "en": "Cross the bridge at sunset for a scenic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Rande der Stadt im Wasserwerkmuseum und fahren Sie dann zum berühmten Apfelweinmuseum. Am Mittag erreichen Sie das historische Zentrum, wo Sie das Black and White House und die Allerheiligenkirche entdecken können. Der Nachmittag ist dem prächtigen Dom und seiner Mappa Mundi gewidmet. Beenden Sie den Tag mit einer entspannten Fahrt entlang des Flusses Wye, überqueren Sie die Victoria Bridge und genießen Sie die Ruhe von Castle Green.",
+        "hu": "Kezdje a kerékpártúrát a város szélén, a Vízművek Múzeumánál, majd tekerjen el a híres Cidermúzeumhoz. Délben érje el a történelmi központot, ahol felfedezheti a Black and White House-t és a Mindenszentek-templomot. A délután a csodálatos székesegyházé és a Mappa Mundié. Zárja a napot egy pihentető tekeréssel a Wye folyó mentén, átkelve a Viktória hídon és élvezve a Castle Green nyugalmát.",
+        "ro": "Începeți turul cu bicicleta la periferia orașului, la Muzeul Apelor, apoi mergeți la faimosul Muzeu al Cidrului. La prânz, ajungeți în centrul istoric pentru a descoperi Casa Alb-Negru și Biserica Tuturor Sfinților. După-amiaza este dedicată magnificei Catedrale și a sa Mappa Mundi. Încheiați ziua cu o plimbare relaxantă de-a lungul râului Wye, traversând Podul Victoria și bucurându-vă de liniștea din Castle Green.",
+        "en": "Start your bike tour on the edge of the city at the Waterworks Museum, then cycle to the famous Museum of Cider. At midday, reach the historic centre to discover the Black and White House and All Saints Church. The afternoon is dedicated to the magnificent Cathedral and its Mappa Mundi. End the day with a relaxing ride along the River Wye, crossing Victoria Bridge and enjoying the peace of Castle Green."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Ale",
+            "tip": "Probieren Sie ein Pint von einer der Brauereien in Herefordshire in einem Pub am Flussufer."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein klassisches britisches Gericht, das man am besten nach einer Radtour genießt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi ale",
+            "tip": "Kóstoljon meg egy korsóval a herefordshire-i sörfőzdék egyikéből egy folyóparti pubban."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Klasszikus brit étel, amely a legjobban egy kerékpártúra után esik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bere locală (Ale)",
+            "tip": "Gustați o halbă de la una dintre fabricile de bere din Herefordshire la un pub de pe malul râului."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Un fel de mâncare britanic clasic, savurat cel mai bine după o plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Ale",
+            "tip": "Try a pint from one of Herefordshire's breweries at a riverside pub."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "A classic British dish, best enjoyed after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Fluss Lugg",
+            "tip": "Ein ruhiger Weg, der Sie aus der Stadt heraus und in die Landschaft führt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "King George V Playing Fields",
+            "tip": "Ein großer offener Raum, ideal für eine Pause und zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lugg folyó menti kerékpárút",
+            "tip": "Egy csendes ösvény, amely kivezet a városból a vidékre."
+          },
+          {
+            "name": "V. György király játszótér",
+            "tip": "Nagy, nyitott terület, ideális egy kis pihenésre és kikapcsolódásra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul râului Lugg",
+            "tip": "O potecă liniștită care vă scoate din oraș și vă duce în mediul rural."
+          },
+          {
+            "name": "Terenurile de joacă King George V",
+            "tip": "Un spațiu mare, deschis, ideal pentru o pauză și relaxare."
+          }
+        ],
+        "en": [
+          {
+            "name": "River Lugg Cycle Path",
+            "tip": "A quiet path that takes you out of the city and into the countryside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "King George V Playing Fields",
+            "tip": "A large open space, ideal for a break and to relax.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Besuchen Sie einen der örtlichen Fahrradläden für Zubehör oder Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Nézzen be egy helyi kerékpárboltba kiegészítőkért vagy szuvenírekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Vizitați unul dintre magazinele locale de biciclete pentru accesorii sau suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Pop into a local bike shop for accessories or souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Hereford ist relativ flach, was das Radfahren erleichtert.",
+          "Nutzen Sie die ausgewiesenen Radwege, insbesondere entlang des Flusses.",
+          "Tragen Sie einen Helm und schließen Sie Ihr Fahrrad immer sicher ab.",
+          "Viele Pubs und Cafés sind fahrradfreundlich und bieten Plätze zum Abstellen Ihres Fahrrads."
+        ],
+        "hu": [
+          "Hereford viszonylag sík, ami megkönnyíti a kerékpározást.",
+          "Használja a kijelölt kerékpárutakat, különösen a folyó mentén.",
+          "Viseljen sisakot és mindig zárja le biztonságosan a kerékpárját.",
+          "Sok pub és kávézó kerékpárbarát, és helyet biztosít a kerékpár leállítására."
+        ],
+        "ro": [
+          "Hereford este relativ plat, ceea ce face ciclismul ușor.",
+          "Folosiți pistele de biciclete desemnate, în special de-a lungul râului.",
+          "Purtați cască și legați-vă întotdeauna bicicleta în siguranță.",
+          "Multe puburi și cafenele sunt prietenoase cu bicicliștii, oferind locuri unde să vă lăsați bicicleta."
+        ],
+        "en": [
+          "Hereford is relatively flat, making it easy for cycling.",
+          "Use the designated cycle paths, especially along the river.",
+          "Wear a helmet and always lock your bike securely.",
+          "Many pubs and cafes are bike-friendly, offering places to park your bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz & Start: Wasserwerkmuseum",
+            "hu": "Parkolás és kezdés: Vízművek Múzeuma",
+            "ro": "Parcare și start: Muzeul Apelor",
+            "en": "Parking & Start: Waterworks Museum"
+          },
+          "coords": [
+            -2.729,
+            52.064
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier kostenlos und beginnen Sie Ihren Tag mit einem Stück Industriegeschichte.",
+            "hu": "Parkoljon itt ingyenesen, és kezdje a napot egy darabka ipartörténettel.",
+            "ro": "Parcați gratuit aici și începeți ziua cu o bucată de istorie industrială.",
+            "en": "Park for free here and start your day with a piece of industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt & Parken: Zentrum (nahe Kathedrale)",
+            "hu": "Autózás és parkolás: Központ (a székesegyház közelében)",
+            "ro": "Condus și Parcare: Centru (lângă Catedrală)",
+            "en": "Drive & Park: City Centre (near Cathedral)"
+          },
+          "coords": [
+            -2.718,
+            52.055
+          ],
+          "category": "transport",
+          "arrive_at": "11:05",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Finden Sie einen Langzeitparkplatz und erkunden Sie den Rest zu Fuß.",
+            "hu": "Keressen egy hosszú távú parkolót, és fedezze fel a többit gyalog.",
+            "ro": "Găsiți o parcare pe termen lung și explorați restul pe jos.",
+            "en": "Find a long-stay car park and explore the rest on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Hereford & Mappa Mundi",
+            "hu": "Herefordi székesegyház és Mappa Mundi",
+            "ro": "Catedrala Hereford și Mappa Mundi",
+            "en": "Hereford Cathedral & Mappa Mundi"
+          },
+          "coords": [
+            -2.716,
+            52.054
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Hauptanziehungspunkt der Stadt. Nehmen Sie sich Zeit für beides.",
+            "hu": "A város fő vonzereje. Szánjon időt mindkettőre.",
+            "ro": "Principala atracție a orașului. Acordați-vă timp pentru ambele.",
+            "en": "The city's main attraction. Allow time for both."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Black and White House Museum",
+            "hu": "Black and White House Múzeum",
+            "ro": "Muzeul Casa Alb-Negru",
+            "en": "The Black and White House Museum"
+          },
+          "coords": [
+            -2.717,
+            52.056
+          ],
+          "category": "museums",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kathedrale entfernt. Ein Einblick in das jakobinische Leben.",
+            "hu": "Rövid séta a székesegyháztól. Betekintés a jakobita kor életébe.",
+            "ro": "La o scurtă plimbare de catedrală. O privire în viața iacobină.",
+            "en": "A short walk from the cathedral. A glimpse into Jacobean life."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt & Besuch: Museum für Apfelwein",
+            "hu": "Autózás és látogatás: Cidermúzeum",
+            "ro": "Condus și Vizitare: Muzeul Cidrului",
+            "en": "Drive & Visit: Museum of Cider"
+          },
+          "coords": [
+            -2.724,
+            52.058
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:55",
+          "stay_min": 85,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem Museum, um mehr über die berühmte Industrie der Region zu erfahren.",
+            "hu": "Vezessen el ehhez a múzeumhoz, hogy többet tudjon meg a régió híres iparáról.",
+            "ro": "Conduceți până la acest muzeu pentru a afla despre faimoasa industrie a regiunii.",
+            "en": "Drive to this museum to learn about the region's famous industry."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt & Entspannung: Castle Green",
+            "hu": "Autózás és pihenés: Castle Green",
+            "ro": "Condus și Relaxare: Castle Green",
+            "en": "Drive & Relax: Castle Green"
+          },
+          "coords": [
+            -2.712,
+            52.053
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannenden Spaziergang am Fluss. Parkplätze sind in der Nähe vorhanden.",
+            "hu": "Zárja a napot egy pihentető folyóparti sétával. A parkolás a közelben megoldható.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă pe malul râului. Parcarea este disponibilă în apropiere.",
+            "en": "End the day with a relaxing walk by the river. Parking is available nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto am Wasserwerkmuseum, wo das Parken einfach ist. Fahren Sie dann ins Stadtzentrum, parken Sie für den Tag und erkunden Sie zu Fuß die majestätische Kathedrale und das historische Black and White House Museum. Am Nachmittag nehmen Sie das Auto wieder, um in die Welt des Apfelweins einzutauchen. Schließen Sie Ihren Ausflug mit einer Fahrt zum Castle Green ab, um am Flussufer zu entspannen und die malerische Aussicht zu genießen.",
+        "hu": "Kezdje a napot autóval a Vízművek Múzeumánál, ahol könnyű parkolni. Ezután vezessen be a városközpontba, parkoljon le a nap hátralévő részére, és fedezze fel gyalog a fenséges székesegyházat és a történelmi Black and White House Múzeumot. Délután üljön vissza az autóba, hogy elmerüljön a cider világában. Zárja a kirándulást egy autózással a Castle Green-hez, hogy a folyóparton pihenjen, és élvezze a festői kilátást.",
+        "ro": "Începeți ziua cu mașina la Muzeul Apelor, unde parcarea este ușoară. Apoi, conduceți în centrul orașului, parcați pentru restul zilei și explorați pe jos Catedrala maiestuoasă și istoricul Muzeu Casa Alb-Negru. După-amiaza, luați din nou mașina pentru a pătrunde în lumea cidrului. Încheiați excursia cu o plimbare cu mașina până la Castle Green pentru a vă relaxa pe malul râului și a admira priveliștea pitorească.",
+        "en": "Start your day by car at the Waterworks Museum where parking is easy. Then, drive to the city centre, park for the day, and explore the majestic Cathedral and historic Black and White House Museum on foot. In the afternoon, take the car again to delve into the world of cider. Conclude your trip with a drive to Castle Green to relax by the riverside and take in the scenic views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hogg-Braten",
+            "tip": "Suchen Sie nach einem Pub auf dem Land außerhalb von Hereford für einen authentischen Sonntagsbraten."
+          },
+          {
+            "name": "Herefordshire-Käse",
+            "tip": "Kaufen Sie Käse direkt vom Erzeuger auf den Bauernmärkten in der Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült malac",
+            "tip": "Keressen egy vidéki pubot Herefordon kívül egy autentikus vasárnapi sültért."
+          },
+          {
+            "name": "Herefordshire-i sajt",
+            "tip": "Vásároljon sajtot közvetlenül a termelőktől a környékbeli termelői piacokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friptură de porc",
+            "tip": "Căutați un pub rural în afara Herefordului pentru o friptură autentică de duminică."
+          },
+          {
+            "name": "Brânză Herefordshire",
+            "tip": "Cumpărați brânză direct de la producători de la piețele fermierilor din jur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hog Roast",
+            "tip": "Look for a country pub outside Hereford for an authentic Sunday roast."
+          },
+          {
+            "name": "Herefordshire Cheese",
+            "tip": "Buy some cheese directly from the producer at surrounding farmer's markets."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Dinedor Hill",
+            "tip": "Eine kurze Fahrt südlich der Stadt bietet einen Panoramablick auf die Landschaft.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Breinton Springs",
+            "tip": "Ein schöner Ort für einen Spaziergang im National Trust, westlich von Hereford.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Dinedor-hegyről",
+            "tip": "Rövid autóútra a várostól délre panorámás kilátás nyílik a vidékre."
+          },
+          {
+            "name": "Breinton Springs",
+            "tip": "Szép sétahely a National Trust területén, Herefordtól nyugatra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere de pe Dinedor Hill",
+            "tip": "La o scurtă distanță cu mașina la sud de oraș pentru vederi panoramice ale peisajului rural."
+          },
+          {
+            "name": "Breinton Springs",
+            "tip": "Un loc minunat pentru o plimbare administrat de National Trust, la vest de Hereford."
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Dinedor Hill",
+            "tip": "A short drive south of the city offers panoramic views of the countryside.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Breinton Springs",
+            "tip": "A lovely National Trust spot for a walk, west of Hereford.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf Ihren Fahrten Ausschau nach Hofläden, die frische Produkte und Apfelwein verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmboltok",
+            "tip": "Útjai során keresse a friss termékeket és cidert árusító farmboltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Fiți atenți la magazinele de fermă care vând produse proaspete și cidru în timpul plimbărilor cu mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Look out for farm shops selling fresh produce and cider on your drives."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann teuer sein; nutzen Sie die Park-and-Ride-Möglichkeiten.",
+          "Die Straßen auf dem Land können eng sein, fahren Sie also vorsichtig.",
+          "Planen Sie Ihre Route im Voraus, da der Mobilfunkempfang in ländlichen Gebieten lückenhaft sein kann.",
+          "Viele ländliche Pubs bieten ausgezeichnetes Essen, perfekt für einen Mittagsstopp."
+        ],
+        "hu": [
+          "A belvárosi parkolás drága lehet; fontolja meg a P+R lehetőségeket.",
+          "A vidéki utak szűkek lehetnek, ezért vezessen óvatosan.",
+          "Tervezze meg előre az útvonalat, mivel a mobil térerő hiányos lehet a vidéki területeken.",
+          "Sok vidéki pub kiváló ételeket kínál, amelyek tökéletesek egy ebédmegállóhoz."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi scumpă; luați în considerare opțiunile de park-and-ride.",
+          "Drumurile rurale pot fi înguste, așa că conduceți cu prudență.",
+          "Planificați-vă traseul în avans, deoarece semnalul de telefonie mobilă poate fi slab în zonele rurale.",
+          "Multe puburi rurale oferă mâncare excelentă, perfectă pentru o oprire de prânz."
+        ],
+        "en": [
+          "City centre parking can be expensive; consider using park and ride options.",
+          "Country roads can be narrow, so drive with care.",
+          "Plan your route in advance, as mobile signal can be patchy in rural areas.",
+          "Many country pubs offer excellent food, perfect for a lunch stop."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft: Busbahnhof & Spaziergang",
+            "hu": "Érkezés: Buszpályaudvar és séta",
+            "ro": "Sosire: Autogară și plimbare",
+            "en": "Arrival: Bus Station & Walk"
+          },
+          "coords": [
+            -2.71,
+            52.06
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Busbahnhof ist ein guter Ausgangspunkt, nur einen kurzen Spaziergang vom Zentrum entfernt.",
+            "hu": "A buszpályaudvar jó kiindulópont, csak egy rövid sétára a központtól.",
+            "ro": "Autogara este un bun punct de plecare, la o scurtă plimbare de centru.",
+            "en": "The bus station is a good starting point, just a short walk from the centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Black and White House Museum",
+            "hu": "Black and White House Múzeum",
+            "ro": "Muzeul Casa Alb-Negru",
+            "en": "The Black and White House Museum"
+          },
+          "coords": [
+            -2.717,
+            52.056
+          ],
+          "category": "museums",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ihr erster Halt in einem Cluster von Sehenswürdigkeiten im Stadtzentrum.",
+            "hu": "Az első megálló a belvárosi látnivalók egy csoportjában.",
+            "ro": "Prima oprire într-un grup de atracții din centrul orașului.",
+            "en": "Your first stop in a cluster of city-centre sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Hereford & Mappa Mundi",
+            "hu": "Herefordi székesegyház és Mappa Mundi",
+            "ro": "Catedrala Hereford și Mappa Mundi",
+            "en": "Hereford Cathedral & Mappa Mundi"
+          },
+          "coords": [
+            -2.716,
+            52.054
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Höhepunkt Ihres Spaziergangs durch das Stadtzentrum.",
+            "hu": "A belvárosi séta csúcspontja.",
+            "ro": "Punctul culminant al plimbării prin centrul orașului.",
+            "en": "The highlight of your city centre walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt & Besuch: Museum für Apfelwein",
+            "hu": "Buszozás és látogatás: Cidermúzeum",
+            "ro": "Călătorie cu autobuzul și vizitare: Muzeul Cidrului",
+            "en": "Bus Ride & Visit: Museum of Cider"
+          },
+          "coords": [
+            -2.724,
+            52.058
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:20",
+          "stay_min": 85,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum zu diesem faszinierenden Museum.",
+            "hu": "Utazzon busszal a központból ehhez a lenyűgöző múzeumhoz.",
+            "ro": "Luați un autobuz din centru către acest muzeu fascinant.",
+            "en": "Catch a bus from the centre to this fascinating museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt & Entspannung: Castle Green",
+            "hu": "Buszozás és pihenés: Castle Green",
+            "ro": "Călătorie cu autobuzul și relaxare: Castle Green",
+            "en": "Bus Ride & Relax: Castle Green"
+          },
+          "coords": [
+            -2.712,
+            52.053
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 105,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt bringt Sie zum Flussufer für einen entspannten Tagesausklang.",
+            "hu": "Egy újabb rövid buszút a folyópartra viszi, ahol pihentetően zárhatja a napot.",
+            "ro": "O altă călătorie scurtă cu autobuzul vă duce pe malul râului pentru un final de zi relaxant.",
+            "en": "Another short bus ride takes you to the riverside for a relaxing end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Reise am Busbahnhof von Hereford und gehen Sie ins Zentrum. Ihr erster Cluster von Sehenswürdigkeiten umfasst das Black and White House Museum und die prächtige Kathedrale. Hier verbringen Sie den größten Teil Ihres Vormittags. Nach dem Mittagessen bringt Sie ein Bus zum Apfelweinmuseum für einen Einblick in die lokale Industrie. Eine weitere Busfahrt führt Sie am späten Nachmittag zum Castle Green, wo Sie am Fluss Wye entspannen können, bevor Sie zurück zum Busbahnhof fahren.",
+        "hu": "Kezdje az utazást a herefordi buszpályaudvaron, és sétáljon be a központba. Az első látnivalócsoport a Black and White House Múzeum és a csodálatos székesegyház. Itt tölti a délelőtt nagy részét. Ebéd után busszal juthat el a Cidermúzeumba, ahol bepillantást nyerhet a helyi iparba. Egy másik buszút viszi el késő délután a Castle Green-hez, ahol pihenhet a Wye folyó partján, mielőtt visszatérne a buszpályaudvarra.",
+        "ro": "Începeți călătoria la autogara din Hereford și mergeți pe jos până în centru. Primul grup de atracții include Muzeul Casa Alb-Negru și magnifica Catedrală. Veți petrece cea mai mare parte a dimineții aici. După prânz, un autobuz vă va duce la Muzeul Cidrului pentru o incursiune în industria locală. O altă călătorie cu autobuzul vă va duce la Castle Green după-amiaza târziu, pentru a vă relaxa pe malul râului Wye înainte de a vă întoarce la autogară.",
+        "en": "Begin your journey at Hereford's bus station and walk into the centre. Your first cluster of sights includes the Black and White House Museum and the magnificent Cathedral. You'll spend most of your morning here. After lunch, a bus will take you to the Museum of Cider for a taste of local industry. Another bus ride will take you to Castle Green in the late afternoon to relax by the River Wye before heading back to the bus station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pub-Mittagessen",
+            "tip": "Genießen Sie ein herzhaftes Mittagessen in einem Pub in der Nähe der Kathedrale zwischen den Besichtigungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pub ebéd",
+            "tip": "Élvezzen egy kiadós ebédet egy pubban a székesegyház közelében a látnivalók között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prânz la pub",
+            "tip": "Bucurați-vă de un prânz consistent la un pub de lângă catedrală între vizite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pub Lunch",
+            "tip": "Enjoy a hearty lunch at a pub near the cathedral between sightseeing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bänke im Domkreuzgang",
+            "tip": "Ein ruhiger Ort, um die Atmosphäre aufzusaugen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Padok a székesegyház kerengőjében",
+            "tip": "Csendes hely, ahol magába szívhatja a hangulatot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băncile din curtea interioară a catedralei",
+            "tip": "Un loc liniștit pentru a absorbi atmosfera."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Cloister Benches",
+            "tip": "A quiet spot to sit and soak up the atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Buttermarkt",
+            "tip": "Ein überdachter Markt mit einer Vielzahl von unabhängigen Ständen, leicht zu Fuß vom Zentrum aus erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vajpiac (Butter Market)",
+            "tip": "Fedett piac számos független standdal, könnyen megközelíthető a központból gyalog."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de Unt (Butter Market)",
+            "tip": "O piață acoperită cu o varietate de tarabe independente, ușor accesibilă pe jos din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Butter Market",
+            "tip": "An indoor market with a variety of independent stalls, an easy walk from the centre."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Busfahrten.",
+          "Die Hereford City Bus App ist nützlich für Echtzeit-Fahrpläne.",
+          "Busse können an Markttagen (Mittwoch und Samstag) belebter sein.",
+          "Überprüfen Sie den Fahrplan des letzten Busses zurück zu Ihrem Ausgangspunkt."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan buszozáshoz.",
+          "A Hereford City Bus alkalmazás hasznos a valós idejű menetrendekhez.",
+          "A buszok forgalmasabbak lehetnek a piaci napokon (szerda és szombat).",
+          "Ellenőrizze az utolsó busz menetrendjét vissza a kiindulási ponthoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzul.",
+          "Aplicația Hereford City Bus este utilă pentru orare în timp real.",
+          "Autobuzele pot fi mai aglomerate în zilele de piață (miercuri și sâmbătă).",
+          "Verificați programul ultimului autobuz înapoi la punctul de plecare."
+        ],
+        "en": [
+          "Buy a day rider ticket for unlimited bus travel.",
+          "The Hereford City Bus app is useful for real-time schedules.",
+          "Buses can be busier on market days (Wednesday and Saturday).",
+          "Check the time of the last bus back to your starting point."
+        ]
+      }
+    }
+  }
+}

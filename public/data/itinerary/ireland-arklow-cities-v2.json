@@ -1,0 +1,1436 @@
+{
+  "city_id": "ireland-arklow-cities-v2",
+  "anchor": {
+    "name": "Arklow",
+    "coords": [
+      -6.1643,
+      52.7909
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nineteen Arches Bridge",
+            "hu": "Tizenkilenclyukú híd",
+            "ro": "Podul cu nouăsprezece arce",
+            "en": "Nineteen Arches Bridge"
+          },
+          "coords": [
+            -6.1588,
+            52.7951
+          ],
+          "category": "bridges",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zählen Sie die Bögen und genießen Sie den Blick auf den Fluss Avoca.",
+            "hu": "Számolja meg az íveket, és élvezze a kilátást az Avoca folyóra.",
+            "ro": "Numărați arcadele și bucurați-vă de vederea asupra râului Avoca.",
+            "en": "Count the arches and enjoy the view of the Avoca River."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum Arklow",
+            "hu": "Arklow Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Arklow",
+            "en": "Arklow Maritime Museum"
+          },
+          "coords": [
+            -6.1565,
+            52.7948
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Schiffbaugeschichte von Arklow.",
+            "hu": "Ismerje meg Arklow gazdag hajóépítési történelmét.",
+            "ro": "Descoperiți istoria bogată a construcțiilor navale din Arklow.",
+            "en": "Discover Arklow's rich shipbuilding history."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Mary & St. Peter's Church",
+            "hu": "Szt. Mária és Szt. Péter templom",
+            "ro": "Biserica Sf. Maria și Sf. Petru",
+            "en": "St. Mary & St. Peter's Church"
+          },
+          "coords": [
+            -6.1633,
+            52.7961
+          ],
+          "category": "churches",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und die ruhige Atmosphäre im Inneren.",
+            "hu": "Csodálja meg az építészetet és a belső csendes légkört.",
+            "ro": "Admirați arhitectura și atmosfera liniștită din interior.",
+            "en": "Admire the architecture and the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Seaview Avenue",
+            "hu": "Seaview Avenue",
+            "ro": "Aleea Seaview",
+            "en": "Seaview Avenue"
+          },
+          "coords": [
+            -6.1389,
+            52.7925
+          ],
+          "category": "promenades",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Mittagessen mit Blick auf das Meer.",
+            "hu": "Ideális hely egy tengerre néző ebédhez.",
+            "ro": "Un loc ideal pentru un prânz cu vedere la mare.",
+            "en": "An ideal spot for a lunch with a view of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "South Beach",
+            "hu": "Déli strand",
+            "ro": "Plaja de Sud",
+            "en": "South Beach"
+          },
+          "coords": [
+            -6.1362,
+            52.7887
+          ],
+          "category": "beaches",
+          "arrive_at": "14:20",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie einen langen Spaziergang oder entspannen Sie einfach am Sandstrand.",
+            "hu": "Tegyen egy hosszú sétát, vagy csak pihenjen a homokos parton.",
+            "ro": "Faceți o plimbare lungă sau pur și simplu relaxați-vă pe nisip.",
+            "en": "Take a long walk or just relax on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Arklow Rock",
+            "hu": "Arklow szikla",
+            "ro": "Stânca Arklow",
+            "en": "Arklow Rock"
+          },
+          "coords": [
+            -6.1311,
+            52.7811
+          ],
+          "category": "viewpoints",
+          "arrive_at": "16:50",
+          "stay_min": 55,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Aufstieg belohnt mit einer atemberaubenden Aussicht auf die Küste.",
+            "hu": "A mászás jutalma a partvonalra nyíló lélegzetelállító kilátás.",
+            "ro": "Urcarea merită pentru priveliștea uimitoare a coastei.",
+            "en": "The climb is rewarding with a stunning view of the coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der historischen Nineteen Arches Bridge, bevor Sie in die maritime Vergangenheit von Arklow im Schifffahrtsmuseum eintauchen. Die St. Mary & St. Peter's Church bietet einen Moment der Ruhe. Am Nachmittag führt Sie ein Spaziergang entlang der Küste zur Seaview Avenue, perfekt für eine Mittagspause. Verbringen Sie entspannte Stunden am South Beach. Der Tag endet mit dem Aufstieg auf den Arklow Rock, von wo aus Sie einen spektakulären Blick auf die untergehende Sonne über der Irischen See genießen können.",
+        "hu": "Kezdje a napot a történelmi Tizenkilenclyukú hídnál, majd merüljön el Arklow tengerészeti múltjában a Tengerészeti Múzeumban. A Szt. Mária és Szt. Péter templom egy csendes pillanatot kínál. Délután egy tengerparti séta vezet a Seaview Avenue-ra, ami tökéletes egy ebédhez. Töltsön el néhány pihentető órát a Déli strandon. A nap az Arklow szikla megmászásával zárul, ahonnan lenyűgöző kilátás nyílik a lemenő napra az Ír-tenger felett.",
+        "ro": "Începeți ziua la istoricul Pod cu nouăsprezece arce, înainte de a explora trecutul maritim al orașului Arklow la Muzeul Maritim. Biserica Sf. Maria și Sf. Petru oferă un moment de liniște. După-amiaza, o plimbare de-a lungul coastei vă duce pe Aleea Seaview, perfectă pentru o pauză de prânz. Petreceți ore relaxante pe Plaja de Sud. Ziua se încheie cu o urcare pe Stânca Arklow pentru o priveliște spectaculoasă a apusului peste Marea Irlandei.",
+        "en": "Start your day at the historic Nineteen Arches Bridge before delving into Arklow's maritime past at the Maritime Museum. St. Mary & St. Peter's Church offers a moment of tranquility. In the afternoon, a coastal stroll takes you to Seaview Avenue, perfect for a lunch break. Spend some relaxing hours at South Beach. The day concludes with a climb up Arklow Rock for a spectacular sunset view over the Irish Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Frisch aus der Irischen See, ein Muss in einem Küstenort."
+          },
+          {
+            "name": "Seafood Chowder",
+            "tip": "Eine cremige, herzhafte Suppe, perfekt nach einem windigen Spaziergang."
+          },
+          {
+            "name": "Irish Stew",
+            "tip": "Ein klassisches Lammgericht, das von innen wärmt."
+          },
+          {
+            "name": "The Gin Mill",
+            "tip": "Bekannt für seine exzellente Pub-Küche und große Auswahl an Getränken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Frissen az Ír-tengerből, kötelező egy tengerparti városban."
+          },
+          {
+            "name": "Tenger gyümölcsei leves (Chowder)",
+            "tip": "Krémes, kiadós leves, tökéletes egy szeles séta után."
+          },
+          {
+            "name": "Ír pörkölt (Irish Stew)",
+            "tip": "Klasszikus bárányétel, amely belülről melegít."
+          },
+          {
+            "name": "The Gin Mill",
+            "tip": "Kiváló pub-ételeiről és széles italválasztékáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Proaspăt din Marea Irlandei, o necesitate într-un oraș de coastă."
+          },
+          {
+            "name": "Ciorbă de fructe de mare",
+            "tip": "O supă cremoasă și consistentă, perfectă după o plimbare pe vânt."
+          },
+          {
+            "name": "Tocăniță irlandeză",
+            "tip": "Un preparat clasic din miel care te încălzește din interior."
+          },
+          {
+            "name": "The Gin Mill",
+            "tip": "Renumit pentru mâncarea excelentă de pub și selecția largă de băuturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Fresh from the Irish Sea, a must-have in a coastal town."
+          },
+          {
+            "name": "Seafood Chowder",
+            "tip": "A creamy, hearty soup, perfect after a windy walk."
+          },
+          {
+            "name": "Irish Stew",
+            "tip": "A classic lamb dish that warms you from the inside."
+          },
+          {
+            "name": "The Gin Mill",
+            "tip": "Known for its excellent pub food and wide selection of drinks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "The Glen",
+            "tip": "Ein friedlicher Spaziergang durch diesen bewaldeten Park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "South Beach bei Ebbe",
+            "tip": "Der weite Sandstrand bietet viel Platz für ruhige Momente.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Avoca Flusses",
+            "tip": "Finden Sie eine Bank und beobachten Sie das ruhige Wasser.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Glen",
+            "tip": "Békés séta ebben az erdős parkban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Déli strand apálykor",
+            "tip": "A hatalmas homokos terület csendes pillanatokat kínál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az Avoca folyó partja",
+            "tip": "Keressen egy padot, és nézze a nyugodt vizet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Glen",
+            "tip": "O plimbare liniștită prin acest parc împădurit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja de Sud la reflux",
+            "tip": "Întinderea vastă de nisip oferă spațiu pentru momente de liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile râului Avoca",
+            "tip": "Găsiți o bancă și priviți apele calme.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Glen",
+            "tip": "A peaceful walk through this wooded park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "South Beach at low tide",
+            "tip": "The vast expanse of sand offers space for quiet moments.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Avoca River",
+            "tip": "Find a bench and watch the calm waters.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Arklow Pottery",
+            "tip": "Suchen Sie nach Vintage-Stücken der berühmten lokalen Töpferei."
+          },
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Finden Sie einzigartige Souvenirs und Geschenke von irischen Kunsthandwerkern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arklow Kerámia",
+            "tip": "Keressen vintage darabokat a híres helyi kerámiagyárból."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Találjon egyedi szuveníreket és ajándékokat ír kézművesektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică Arklow",
+            "tip": "Căutați piese de epocă de la faimoasa fabrică locală de ceramică."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Găsiți suveniruri și cadouri unice de la artizani irlandezi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arklow Pottery",
+            "tip": "Look for vintage pieces from the famous local pottery works."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Find unique souvenirs and gifts made by Irish artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Tag viel zu Fuß beinhaltet.",
+          "Prüfen Sie die Gezeiten für den besten Strandbesuch.",
+          "Eine wasserdichte Jacke ist immer eine gute Idee in Irland."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében gyalogolni fog.",
+          "Ellenőrizze az árapályt a legjobb strandélmény érdekében.",
+          "Egy vízálló dzseki mindig jó ötlet Írországban."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece ziua implică mult mers pe jos.",
+          "Verificați mareele pentru cea mai bună vizită la plajă.",
+          "O jachetă impermeabilă este întotdeauna o idee bună în Irlanda."
+        ],
+        "en": [
+          "Wear comfortable shoes as the day involves a lot of walking.",
+          "Check the tides for the best beach experience.",
+          "A waterproof jacket is always a good idea in Ireland."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nineteen Arches Bridge",
+            "hu": "Tizenkilenclyukú híd",
+            "ro": "Podul cu nouăsprezece arce",
+            "en": "Nineteen Arches Bridge"
+          },
+          "coords": [
+            -6.1588,
+            52.7951
+          ],
+          "category": "bridges",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit einer schönen Aussicht auf den Fluss.",
+            "hu": "Jó kiindulópont, szép kilátással a folyóra.",
+            "ro": "Un punct de plecare bun, cu o priveliște frumoasă asupra râului.",
+            "en": "A good starting point with a nice view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum Arklow",
+            "hu": "Arklow Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Arklow",
+            "en": "Arklow Maritime Museum"
+          },
+          "coords": [
+            -6.1565,
+            52.7948
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erfahren Sie mehr über die Seefahrertradition.",
+            "hu": "Zárja le a kerékpárt, és ismerje meg a tengerészeti hagyományokat.",
+            "ro": "Legați-vă bicicleta și aflați despre tradiția maritimă.",
+            "en": "Lock up your bike and learn about the maritime tradition."
+          }
+        },
+        {
+          "name": {
+            "de": "South Beach",
+            "hu": "Déli strand",
+            "ro": "Plaja de Sud",
+            "en": "South Beach"
+          },
+          "coords": [
+            -6.1362,
+            52.7887
+          ],
+          "category": "beaches",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der Küste zum Strand für eine erfrischende Pause.",
+            "hu": "Kerékpározzon a part mentén a strandra egy frissítő szünetre.",
+            "ro": "Mergeți cu bicicleta de-a lungul coastei până la plajă pentru o pauză revigorantă.",
+            "en": "Cycle along the coast to the beach for a refreshing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Arklow Rock",
+            "hu": "Arklow szikla",
+            "ro": "Stânca Arklow",
+            "en": "Arklow Rock"
+          },
+          "coords": [
+            -6.1311,
+            52.7811
+          ],
+          "category": "viewpoints",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie das Mittagessen mit Aussicht.",
+            "hu": "Parkolja le a kerékpárt, és ebédeljen a kilátás mellett.",
+            "ro": "Parcați bicicleta și luați prânzul cu o priveliște superbă.",
+            "en": "Park your bike and have lunch with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "The Glen",
+            "hu": "The Glen",
+            "ro": "The Glen",
+            "en": "The Glen"
+          },
+          "coords": [
+            -6.18,
+            52.801
+          ],
+          "category": "parks",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour zu diesem ruhigen, bewaldeten Gebiet.",
+            "hu": "Kellemes biciklitúra ehhez a csendes, erdős területhez.",
+            "ro": "O plimbare plăcută cu bicicleta spre această zonă liniștită, împădurită.",
+            "en": "A pleasant cycle to this quiet, wooded area."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Glenart",
+            "hu": "Glenart kastély",
+            "ro": "Castelul Glenart",
+            "en": "Glenart Castle"
+          },
+          "coords": [
+            -6.1825,
+            52.8035
+          ],
+          "category": "castles",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Schloss von außen, da es in Privatbesitz ist.",
+            "hu": "Csodálja meg a kastélyt kívülről, mivel magántulajdonban van.",
+            "ro": "Admirați castelul din exterior, deoarece este proprietate privată.",
+            "en": "Admire the castle from the outside as it is privately owned."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie an der Nineteen Arches Bridge. Eine kurze Fahrt führt zum Schifffahrtsmuseum, um die lokale Geschichte zu entdecken. Anschließend geht es entlang der Küste zum South Beach für eine ausgiebige Mittagspause und Entspannung. Der Nachmittag ist für den Arklow Rock reserviert, dessen Aussicht die Mühe des Aufstiegs wert ist. Beenden Sie Ihre Tour mit einer Fahrt ins Grüne zum ruhigen Park The Glen und einem Blick auf das nahegelegene Schloss Glenart.",
+        "hu": "Pattanjon kerékpárra, és induljon a Tizenkilenclyukú hídtól. Egy rövid tekerés a Tengerészeti Múzeumhoz vezet, ahol megismerheti a helyi történelmet. Ezután a part mentén haladjon a Déli strand felé egy kiadós ebédszünetre és pihenésre. A délután az Arklow szikláé, amelynek kilátása megéri a fáradságot. Zárja a túrát egy zöldterületi kirándulással a csendes The Glen parkba és egy pillantással a közeli Glenart kastélyra.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la Podul cu nouăsprezece arce. O scurtă plimbare vă duce la Muzeul Maritim pentru a descoperi istoria locală. Apoi, mergeți de-a lungul coastei spre Plaja de Sud pentru o pauză de prânz relaxantă. După-amiaza este rezervată pentru Stânca Arklow, a cărei priveliște merită efortul. Încheiați turul cu o plimbare spre parcul liniștit The Glen și o privire la Castelul Glenart din apropiere.",
+        "en": "Hop on your bike and start at the Nineteen Arches Bridge. A short ride takes you to the Maritime Museum to discover local history. Then, cycle along the coast to South Beach for a leisurely lunch break and relaxation. The afternoon is reserved for Arklow Rock, whose view is worth the effort. End your tour with a ride to the peaceful Glen park and a glimpse of the nearby Glenart Castle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Cafés",
+            "tip": "Tanken Sie Energie mit Kaffee und Kuchen vor der nächsten Etappe."
+          },
+          {
+            "name": "Picknick am Strand",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie ein Picknick am South Beach."
+          },
+          {
+            "name": "Christy's",
+            "tip": "Ein beliebter Ort für ein herzhaftes Essen nach einem Tag im Sattel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kávézók",
+            "tip": "Töltődjön fel kávéval és süteménnyel a következő szakasz előtt."
+          },
+          {
+            "name": "Piknik a strandon",
+            "tip": "Vásároljon helyi termékeket és piknikezzen a Déli strandon."
+          },
+          {
+            "name": "Christy's",
+            "tip": "Népszerű hely egy kiadós étkezéshez egy nyeregben töltött nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele locale",
+            "tip": "Realimentați-vă cu o cafea și o prăjitură înainte de următoarea etapă."
+          },
+          {
+            "name": "Picnic pe plajă",
+            "tip": "Cumpărați produse locale și bucurați-vă de un picnic pe Plaja de Sud."
+          },
+          {
+            "name": "Christy's",
+            "tip": "Un loc popular pentru o masă copioasă după o zi în șa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cafes",
+            "tip": "Fuel up with coffee and cake before the next leg."
+          },
+          {
+            "name": "Beach Picnic",
+            "tip": "Buy some local produce and enjoy a picnic on South Beach."
+          },
+          {
+            "name": "Christy's",
+            "tip": "A popular spot for a hearty meal after a day of cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "The Glen",
+            "tip": "Die bewaldeten Wege sind perfekt für eine ruhige Radtour.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Arklow Rock Gipfel",
+            "tip": "Ein Ort, um durchzuatmen und die Panoramaaussicht zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nördlicher Teil von South Beach",
+            "tip": "Weniger belebt und ideal für eine ruhige Pause.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Glen",
+            "tip": "Az erdős ösvények tökéletesek egy csendes biciklitúrához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Arklow szikla csúcsa",
+            "tip": "Egy hely, ahol fellélegezhet és élvezheti a panorámát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Déli strand északi része",
+            "tip": "Kevésbé forgalmas és ideális egy csendes szünetre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Glen",
+            "tip": "Cărările împădurite sunt perfecte pentru o plimbare liniștită cu bicicleta.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vârful Stâncii Arklow",
+            "tip": "Un loc unde să respirați și să admirați priveliștea panoramică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Partea de nord a Plajei de Sud",
+            "tip": "Mai puțin aglomerată și ideală pentru o pauză liniștită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Glen",
+            "tip": "The wooded paths are perfect for a quiet cycle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Arklow Rock Summit",
+            "tip": "A place to catch your breath and enjoy the panoramic view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "North end of South Beach",
+            "tip": "Less crowded and ideal for a quiet break.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Falls Sie Ersatzteile oder Zubehör benötigen."
+          },
+          {
+            "name": "Bauernmarkt (falls vorhanden)",
+            "tip": "Kaufen Sie lokale Snacks für Ihre Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha pótalkatrészekre vagy kiegészítőkre van szüksége."
+          },
+          {
+            "name": "Termelői piac (ha van)",
+            "tip": "Vásároljon helyi harapnivalókat a biciklitúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "În caz că aveți nevoie de piese de schimb sau accesorii."
+          },
+          {
+            "name": "Piața fermierilor (dacă este disponibilă)",
+            "tip": "Cumpărați gustări locale pentru turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "In case you need any spares or accessories."
+          },
+          {
+            "name": "Farmer's Market (if on)",
+            "tip": "Pick up some local snacks for your ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Seien Sie auf den Straßen vorsichtig, besonders außerhalb des Stadtzentrums."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt.",
+          "Vigyen magával elegendő vizet.",
+          "Legyen óvatos az utakon, különösen a városközponton kívül."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Luați suficientă apă cu dumneavoastră.",
+          "Fiți prudenți pe drumuri, mai ales în afara centrului orașului."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Bring plenty of water.",
+          "Be careful on the roads, especially outside the town center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Glenart & The Glen (Cluster A)",
+            "hu": "Glenart kastély és The Glen (A csoport)",
+            "ro": "Castelul Glenart și The Glen (Grupul A)",
+            "en": "Glenart Castle & The Glen (Cluster A)"
+          },
+          "coords": [
+            -6.1825,
+            52.8035
+          ],
+          "category": "castles",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie mit einem Spaziergang zum Schloss.",
+            "hu": "Parkoljon itt, és kezdje egy sétával a kastélyhoz.",
+            "ro": "Parcați aici și începeți cu o plimbare spre castel.",
+            "en": "Park here and start with a walk towards the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "The Glen Park",
+            "hu": "The Glen park",
+            "ro": "Parcul The Glen",
+            "en": "The Glen Park"
+          },
+          "coords": [
+            -6.18,
+            52.801
+          ],
+          "category": "parks",
+          "arrive_at": "10:25",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss zu diesem friedlichen Park.",
+            "hu": "Rövid séta a kastélytól ehhez a békés parkhoz.",
+            "ro": "O scurtă plimbare de la castel la acest parc liniștit.",
+            "en": "A short walk from the castle to this peaceful park."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtzentrum Arklow (Cluster B)",
+            "hu": "Arklow városközpont (B csoport)",
+            "ro": "Centrul orașului Arklow (Grupul B)",
+            "en": "Arklow Town Centre (Cluster B)"
+          },
+          "coords": [
+            -6.159,
+            52.7955
+          ],
+          "category": "landmarks",
+          "arrive_at": "11:25",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und erkunden Sie die Gegend zu Fuß.",
+            "hu": "Parkoljon a központban, és fedezze fel a környéket gyalog.",
+            "ro": "Parcați în centru și explorați zona pe jos.",
+            "en": "Park in the center and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Nineteen Arches Bridge",
+            "hu": "Tizenkilenclyukú híd",
+            "ro": "Podul cu nouăsprezece arce",
+            "en": "Nineteen Arches Bridge"
+          },
+          "coords": [
+            -6.1588,
+            52.7951
+          ],
+          "category": "bridges",
+          "arrive_at": "11:50",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Wahrzeichen der Stadt, nur wenige Schritte vom Parkplatz entfernt.",
+            "hu": "A város egyik jelképe, csak pár lépésre a parkolótól.",
+            "ro": "Un simbol al orașului, la doar câțiva pași de parcare.",
+            "en": "A town landmark, just a short walk from the car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum Arklow",
+            "hu": "Arklow Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Arklow",
+            "en": "Arklow Maritime Museum"
+          },
+          "coords": [
+            -6.1565,
+            52.7948
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ideal für die Mittagszeit, um der Mittagssonne zu entkommen.",
+            "hu": "Ideális ebédidőben, hogy elkerülje a déli napot.",
+            "ro": "Ideal pentru prânz, pentru a scăpa de soarele amiezii.",
+            "en": "Ideal for lunchtime to escape the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Arklow Rock & Küste (Cluster C)",
+            "hu": "Arklow szikla és part (C csoport)",
+            "ro": "Stânca și coasta Arklow (Grupul C)",
+            "en": "Arklow Rock & Coast (Cluster C)"
+          },
+          "coords": [
+            -6.133,
+            52.784
+          ],
+          "category": "viewpoints",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz am Rock für einen Panoramablick.",
+            "hu": "Hajtson a sziklánál lévő parkolóhoz a panorámás kilátásért.",
+            "ro": "Conduceți până la parcarea de la stâncă pentru o vedere panoramică.",
+            "en": "Drive to the car park at the Rock for panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "South Beach",
+            "hu": "Déli strand",
+            "ro": "Plaja de Sud",
+            "en": "South Beach"
+          },
+          "coords": [
+            -6.1362,
+            52.7887
+          ],
+          "category": "beaches",
+          "arrive_at": "15:05",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Gehen Sie vom Rock hinunter zum Strand für einen entspannten Nachmittag.",
+            "hu": "Sétáljon le a sziklától a strandra egy pihentető délutánért.",
+            "ro": "Coborâți de la stâncă la plajă pentru o după-amiază relaxantă.",
+            "en": "Walk down from the Rock to the beach for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag mit dem Auto bei Schloss Glenart und dem angrenzenden Park The Glen. Nach einem Morgenspaziergang fahren Sie ins Stadtzentrum von Arklow. Parken Sie Ihr Auto und erkunden Sie zu Fuß die Nineteen Arches Bridge und das aufschlussreiche Schifffahrtsmuseum. Am Nachmittag fahren Sie zum Küstencluster. Beginnen Sie mit der atemberaubenden Aussicht vom Arklow Rock und schlendern Sie dann hinunter zum South Beach, um den Rest des Tages am Meer zu verbringen und die frische Luft zu genießen.",
+        "hu": "Kezdje a napot autóval a Glenart kastélynál és a szomszédos The Glen parkban. Egy reggeli séta után hajtson be Arklow városközpontjába. Parkolja le az autót, és fedezze fel gyalog a Tizenkilenclyukú hidat és az informatív Tengerészeti Múzeumot. Délután hajtson a tengerparti csoporthoz. Kezdje az Arklow szikláról nyíló lélegzetelállító kilátással, majd sétáljon le a Déli strandra, hogy a nap hátralévő részét a tenger mellett, friss levegőn töltse.",
+        "ro": "Începeți ziua cu mașina la Castelul Glenart și parcul adiacent The Glen. După o plimbare de dimineață, conduceți spre centrul orașului Arklow. Parcați mașina și explorați pe jos Podul cu nouăsprezece arce și interesantul Muzeu Maritim. După-amiaza, conduceți spre grupul de pe coastă. Începeți cu priveliștea uluitoare de pe Stânca Arklow, apoi coborâți la Plaja de Sud pentru a petrece restul zilei la malul mării, bucurându-vă de aerul proaspăt.",
+        "en": "Start your day by car at Glenart Castle and the adjacent Glen park. After a morning stroll, drive to Arklow town centre. Park your car and explore the Nineteen Arches Bridge and the insightful Maritime Museum on foot. In the afternoon, drive to the coastal cluster. Begin with the stunning views from Arklow Rock, then wander down to South Beach to spend the rest of the day by the sea, enjoying the fresh air."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Old Ship Inn",
+            "tip": "Ein traditioneller Pub im Stadtzentrum, ideal für ein Mittagessen."
+          },
+          {
+            "name": "Captain Halpin's Bistro",
+            "tip": "Etwas gehobener, mit Fokus auf lokale Meeresfrüchte."
+          },
+          {
+            "name": "Ein 99 Flake am Strand",
+            "tip": "Ein klassisches irisches Eis, das man am Meer genießen kann."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Old Ship Inn",
+            "tip": "Hagyományos pub a városközpontban, ideális ebédre."
+          },
+          {
+            "name": "Captain Halpin's Bistro",
+            "tip": "Kicsit elegánsabb, a helyi tenger gyümölcseire fókuszálva."
+          },
+          {
+            "name": "Egy '99 Flake' a strandon",
+            "tip": "Klasszikus ír fagylalt, amit a tengerparton érdemes elfogyasztani."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Old Ship Inn",
+            "tip": "Un pub tradițional în centrul orașului, ideal pentru prânz."
+          },
+          {
+            "name": "Captain Halpin's Bistro",
+            "tip": "Puțin mai elegant, cu accent pe fructe de mare locale."
+          },
+          {
+            "name": "O înghețată '99 Flake' pe plajă",
+            "tip": "O înghețată clasică irlandeză de savurat la malul mării."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Old Ship Inn",
+            "tip": "A traditional pub in the town centre, great for lunch."
+          },
+          {
+            "name": "Captain Halpin's Bistro",
+            "tip": "Slightly more upmarket, with a focus on local seafood."
+          },
+          {
+            "name": "A 99 Flake on the beach",
+            "tip": "A classic Irish ice cream to be enjoyed by the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "The Glen",
+            "tip": "Ein ruhiger Waldweg, weg vom Trubel der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Arklow Rock",
+            "tip": "Ein Moment der Stille mit weitem Blick über das Meer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang entlang des Flusses Avoca",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Glen",
+            "tip": "Csendes erdei ösvény, távol a város nyüzsgésétől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás az Arklow szikláról",
+            "tip": "Egy csendes pillanat, messzire tekintve a tenger felett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta az Avoca folyó mentén",
+            "tip": "Keressen egy csendes helyet a folyóparton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Glen",
+            "tip": "O potecă liniștită prin pădure, departe de agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliștea de pe Stânca Arklow",
+            "tip": "Un moment de liniște cu o priveliște vastă asupra mării.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Avoca",
+            "tip": "Găsiți un loc liniștit pe malul râului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Glen",
+            "tip": "A quiet woodland path away from the town's hustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Arklow Rock",
+            "tip": "A moment of peace with a vast view over the sea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk along the Avoca River",
+            "tip": "Find a quiet spot by the riverbank.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bridgewater Shopping Centre",
+            "tip": "Das Haupt-Einkaufszentrum der Stadt für alle Bedürfnisse."
+          },
+          {
+            "name": "Main Street",
+            "tip": "Erkunden Sie die unabhängigen Geschäfte und Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bridgewater bevásárlóközpont",
+            "tip": "A város fő bevásárlóközpontja minden igényt kielégít."
+          },
+          {
+            "name": "Main Street (Fő utca)",
+            "tip": "Fedezze fel a független üzleteket és butikokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Bridgewater",
+            "tip": "Principalul centru comercial al orașului pentru toate nevoile."
+          },
+          {
+            "name": "Strada Principală",
+            "tip": "Explorați magazinele și buticurile independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bridgewater Shopping Centre",
+            "tip": "The town's main shopping centre for all necessities."
+          },
+          {
+            "name": "Main Street",
+            "tip": "Explore the independent shops and boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die ausgewiesenen Parkplätze, das Parken an der Straße kann begrenzt sein.",
+          "Planen Sie Ihre Fahrten außerhalb der Stoßzeiten, um Verkehr zu vermeiden.",
+          "Kombinieren Sie Ihren Besuch mit einer Fahrt entlang der Küstenstraße von Wicklow."
+        ],
+        "hu": [
+          "Használja a kijelölt parkolókat, az utcai parkolás korlátozott lehet.",
+          "Tervezze az utazásokat a csúcsforgalmon kívülre a forgalom elkerülése érdekében.",
+          "Kombinálja a látogatást egy autózással a Wicklow-i tengerparti úton."
+        ],
+        "ro": [
+          "Folosiți parcările desemnate, parcarea stradală poate fi limitată.",
+          "Planificați-vă călătoriile în afara orelor de vârf pentru a evita traficul.",
+          "Combinați vizita cu o plimbare cu mașina de-a lungul drumului de coastă Wicklow."
+        ],
+        "en": [
+          "Use designated car parks, as street parking can be limited.",
+          "Plan your drives outside of peak hours to avoid traffic.",
+          "Combine your visit with a drive along the Wicklow coastal route."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtzentrum (Cluster A)",
+            "hu": "Városközpont (A csoport)",
+            "ro": "Centrul orașului (Grupul A)",
+            "en": "Town Centre (Cluster A)"
+          },
+          "coords": [
+            -6.16,
+            52.796
+          ],
+          "category": "landmarks",
+          "arrive_at": "09:15",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie an einer zentralen Bushaltestelle aus, z.B. Main Street.",
+            "hu": "Szálljon le egy központi buszmegállóban, pl. a Fő utcán.",
+            "ro": "Coborâți la o stație centrală de autobuz, de ex. pe Main Street.",
+            "en": "Get off at a central bus stop, e.g., Main Street."
+          }
+        },
+        {
+          "name": {
+            "de": "Nineteen Arches Bridge",
+            "hu": "Tizenkilenclyukú híd",
+            "ro": "Podul cu nouăsprezece arce",
+            "en": "Nineteen Arches Bridge"
+          },
+          "coords": [
+            -6.1588,
+            52.7951
+          ],
+          "category": "bridges",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Hauptstraße zum Fluss.",
+            "hu": "Rövid séta a Fő utcától a folyóig.",
+            "ro": "O scurtă plimbare de pe strada principală la râu.",
+            "en": "A short walk from the main street to the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum Arklow",
+            "hu": "Arklow Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Arklow",
+            "en": "Arklow Maritime Museum"
+          },
+          "coords": [
+            -6.1565,
+            52.7948
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Seefahrtsgeschichte, bevor Sie zu Mittag essen.",
+            "hu": "Fedezze fel a tengerészeti történelmet ebéd előtt.",
+            "ro": "Descoperiți istoria maritimă înainte de prânz.",
+            "en": "Discover the maritime history before grabbing lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "South Beach (Cluster B)",
+            "hu": "Déli strand (B csoport)",
+            "ro": "Plaja de Sud (Grupul B)",
+            "en": "South Beach (Cluster B)"
+          },
+          "coords": [
+            -6.138,
+            52.7895
+          ],
+          "category": "beaches",
+          "arrive_at": "12:20",
+          "stay_min": 180,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus Richtung Küste und steigen Sie in Strandnähe aus.",
+            "hu": "Menjen busszal a part felé, és szálljon le a strand közelében.",
+            "ro": "Luați un autobuz spre coastă și coborâți lângă plajă.",
+            "en": "Take a bus towards the coast and get off near the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Arklow Rock",
+            "hu": "Arklow szikla",
+            "ro": "Stânca Arklow",
+            "en": "Arklow Rock"
+          },
+          "coords": [
+            -6.1311,
+            52.7811
+          ],
+          "category": "viewpoints",
+          "arrive_at": "15:55",
+          "stay_min": 105,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein belebender Spaziergang vom Strand zum Aussichtspunkt.",
+            "hu": "Élénkítő séta a strandtól a kilátóig.",
+            "ro": "O plimbare revigorantă de la plajă la punctul de belvedere.",
+            "en": "An invigorating walk from the beach up to the viewpoint."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Busse, um Arklow zu erkunden. Beginnen Sie im Stadtzentrum, wo Sie die Nineteen Arches Bridge und das Schifffahrtsmuseum bequem zu Fuß erreichen können. Nach einem Einblick in die Geschichte und einem Mittagessen nehmen Sie einen Bus zum zweiten Cluster an der Küste. Verbringen Sie einen langen, entspannten Nachmittag am South Beach. Der Tag gipfelt in einem Spaziergang zum Arklow Rock, der Sie mit einer unvergesslichen Aussicht belohnt, bevor Sie den Bus zurück ins Zentrum nehmen.",
+        "hu": "Használja a helyi buszokat Arklow felfedezéséhez. Kezdje a városközpontban, ahol a Tizenkilenclyukú híd és a Tengerészeti Múzeum könnyen elérhető gyalog. A történelembe való betekintés és egy ebéd után szálljon buszra a tengerparti második csoporthoz. Töltsön egy hosszú, pihentető délutánt a Déli strandon. A nap csúcspontja egy séta az Arklow sziklához, amely felejthetetlen kilátással jutalmazza, mielőtt visszabuszozna a központba.",
+        "ro": "Folosiți autobuzele locale pentru a explora Arklow. Începeți din centrul orașului, unde Podul cu nouăsprezece arce și Muzeul Maritim sunt la o distanță de mers pe jos. După o incursiune în istorie și un prânz, luați un autobuz spre al doilea grup de pe coastă. Petreceți o după-amiază lungă și relaxantă pe Plaja de Sud. Ziua culminează cu o plimbare până la Stânca Arklow, care vă recompensează cu o priveliște de neuitat, înainte de a lua autobuzul înapoi spre centru.",
+        "en": "Use the local buses to explore Arklow. Start in the town centre, where the Nineteen Arches Bridge and Maritime Museum are within easy walking distance. After a dose of history and some lunch, take a bus to the second cluster on the coast. Spend a long, relaxing afternoon at South Beach. The day culminates with a walk up to Arklow Rock, rewarding you with an unforgettable view before you catch a bus back to the centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich ein Gebäck für die Busfahrt."
+          },
+          {
+            "name": "Pub-Mittagessen",
+            "tip": "Viele Pubs im Zentrum bieten schnelle und leckere Mittagsmenüs an."
+          },
+          {
+            "name": "Kavanagh's Pub",
+            "tip": "Ein authentischer Ort für ein Pint und ein Gespräch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Vegyen egy péksüteményt a buszútra."
+          },
+          {
+            "name": "Pub ebéd",
+            "tip": "Sok pub a központban kínál gyors és finom ebédmenüt."
+          },
+          {
+            "name": "Kavanagh's Pub",
+            "tip": "Autentikus hely egy korsó sörre és egy beszélgetésre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați un produs de patiserie pentru călătoria cu autobuzul."
+          },
+          {
+            "name": "Prânz la pub",
+            "tip": "Multe pub-uri din centru oferă meniuri de prânz rapide și gustoase."
+          },
+          {
+            "name": "Kavanagh's Pub",
+            "tip": "Un loc autentic pentru o halbă și o conversație."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Grab a pastry for the bus journey."
+          },
+          {
+            "name": "Pub Lunch",
+            "tip": "Many pubs in the centre offer quick and tasty lunch menus."
+          },
+          {
+            "name": "Kavanagh's Pub",
+            "tip": "An authentic spot for a pint and a chat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage des Busses",
+            "tip": "Genießen Sie die Aussicht auf die Landschaft während der Fahrt.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bank mit Blick auf den Hafen",
+            "tip": "Beobachten Sie die Boote, die ein- und auslaufen.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Spaziergang am South Beach",
+            "tip": "Die Weite des Strandes sorgt für ein Gefühl der Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A busz emelete",
+            "tip": "Élvezze a táj látványát utazás közben.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Pad a kikötőre néző kilátással",
+            "tip": "Nézze a be- és kifutó hajókat.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Séta a Déli strandon",
+            "tip": "A strand tágassága nyugalmat áraszt.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al autobuzului",
+            "tip": "Bucurați-vă de priveliștile peisajului în timpul călătoriei.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bancă cu vedere la port",
+            "tip": "Urmăriți bărcile care intră și ies.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Plimbare pe Plaja de Sud",
+            "tip": "Întinderea plajei creează un sentiment de calm.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of the bus",
+            "tip": "Enjoy the views of the countryside as you travel.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bench overlooking the harbour",
+            "tip": "Watch the boats coming and going.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Walk on South Beach",
+            "tip": "The expanse of the beach creates a sense of calm.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Charity Shops",
+            "tip": "Stöbern Sie nach einzigartigen Fundstücken und unterstützen Sie einen guten Zweck."
+          },
+          {
+            "name": "Supermarkt für Snacks",
+            "tip": "Decken Sie sich mit Proviant für den Tag ein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Adományboltok",
+            "tip": "Böngésszen egyedi leletek után, és támogasson egy jó ügyet."
+          },
+          {
+            "name": "Szupermarket harapnivalókért",
+            "tip": "Töltse fel készleteit a napra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de caritate",
+            "tip": "Căutați chilipiruri unice și sprijiniți o cauză nobilă."
+          },
+          {
+            "name": "Supermarket pentru gustări",
+            "tip": "Aprovizionați-vă pentru ziua respectivă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Charity Shops",
+            "tip": "Browse for unique finds and support a good cause."
+          },
+          {
+            "name": "Supermarket for snacks",
+            "tip": "Stock up on provisions for the day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten, falls verfügbar.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die letzte Rückfahrt.",
+          "Haben Sie etwas Kleingeld für den Fahrpreis bereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz, ha elérhető.",
+          "Ellenőrizze előre a buszmenetrendet, különösen az utolsó visszautat.",
+          "Készítsen elő aprópénzt a viteldíjhoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate, dacă este disponibil.",
+          "Verificați programul autobuzelor în avans, mai ales pentru ultima călătorie de întoarcere.",
+          "Aveți la îndemână niște mărunțiș pentru bilet."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel if available.",
+          "Check the bus schedule in advance, especially for the last return journey.",
+          "Have some small change ready for the fare."
+        ]
+      }
+    }
+  }
+}

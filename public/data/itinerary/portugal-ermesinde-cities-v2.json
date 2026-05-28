@@ -1,0 +1,1139 @@
+{
+  "city_id": "portugal-ermesinde-cities-v2",
+  "anchor": {
+    "name": "Ermesinde",
+    "coords": [
+      -8.55,
+      41.2167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche von Ermesinde (Igreja Matriz)",
+            "hu": "Ermesinde-i főtemplom",
+            "ro": "Biserica Matriz din Ermesinde",
+            "en": "Ermesinde Mother Church (Igreja Matriz)"
+          },
+          "coords": [
+            -8.5505,
+            41.2172
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beachten Sie die einzigartigen Kachelarbeiten im Inneren.",
+            "hu": "Figyeld meg a belső tér egyedi csempedíszítését.",
+            "ro": "Observați lucrările unice cu azulejos din interior.",
+            "en": "Note the unique tile work inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Frau von Ermesinde",
+            "hu": "Ermesinde-i Nő Emlékműve",
+            "ro": "Monumentul Femeii din Ermesinde",
+            "en": "Monument to the Woman of Ermesinde"
+          },
+          "coords": [
+            -8.552,
+            41.2165
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:58",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein moderner Tribut an die Frauen der Stadt.",
+            "hu": "Modern tisztelgés a város asszonyai előtt.",
+            "ro": "Un tribut modern adus femeilor orașului.",
+            "en": "A modern tribute to the women of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturforum von Ermesinde",
+            "hu": "Ermesinde-i Kulturális Fórum",
+            "ro": "Forumul Cultural din Ermesinde",
+            "en": "Cultural Forum of Ermesinde"
+          },
+          "coords": [
+            -8.5535,
+            41.2158
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan auf lokale Veranstaltungen oder Ausstellungen.",
+            "hu": "Nézd meg a programot, hátha van helyi esemény vagy kiállítás.",
+            "ro": "Verificați programul pentru evenimente sau expoziții locale.",
+            "en": "Check the schedule for any local events or exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Beatriz",
+            "hu": "Villa Beatriz",
+            "ro": "Villa Beatriz",
+            "en": "Villa Beatriz"
+          },
+          "coords": [
+            -8.549,
+            41.2205
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein wunderschönes Beispiel der Architektur des frühen 20. Jahrhunderts.",
+            "hu": "A 20. század eleji építészet gyönyörű példája.",
+            "ro": "Un exemplu frumos de arhitectură de la începutul secolului XX.",
+            "en": "A beautiful example of early 20th-century architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark von Ermesinde",
+            "hu": "Ermesinde városi park",
+            "ro": "Parcul Urban din Ermesinde",
+            "en": "Ermesinde Urban Park"
+          },
+          "coords": [
+            -8.556,
+            41.222
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:03",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagspicknick oder einen entspannten Spaziergang.",
+            "hu": "Ideális egy déli piknikhez vagy egy pihentető sétához.",
+            "ro": "Ideal pentru un picnic la prânz sau o plimbare relaxantă.",
+            "en": "Ideal for a midday picnic or a relaxing stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Rita",
+            "hu": "Santa Rita-templom",
+            "ro": "Biserica Sfânta Rita",
+            "en": "Church of Santa Rita"
+          },
+          "coords": [
+            -8.558,
+            41.221
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Eine neuere Kirche mit markanter moderner Architektur.",
+            "hu": "Egy újabb templom, jellegzetes modern építészettel.",
+            "ro": "O biserică mai recentă, cu o arhitectură modernă distinctivă.",
+            "en": "A more recent church with distinctive modern architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am Herzen der Stadt, der Igreja Matriz. Spazieren Sie durch die Straßen und entdecken Sie moderne Kunst und Kultur im Kulturforum. Nach dem Mittagessen überqueren Sie die Gleise zu den eleganten Gärten der Villa Beatriz, bevor Sie im weitläufigen Stadtpark entspannen. Beenden Sie Ihren Tag mit einem Moment der Ruhe in der modernistischen Kirche Santa Rita.",
+        "hu": "Kezdje a gyalogtúrát a város szívében, az Igreja Matriznál. Sétáljon végig az utcákon, fedezze fel a modern művészetet és a kulturális központot. Ebéd után keljen át a síneken a Villa Beatriz elegáns kertjeihez, majd pihenjen a tágas városi parkban. Zárja a napot egy csendes pillanattal a modernista Santa Rita templomban.",
+        "ro": "Începeți turul pietonal în inima orașului, la Biserica Matriz. Plimbați-vă pe străzi pentru a descoperi arta modernă și cultura la Forumul Cultural. După prânz, traversați calea ferată către grădinile elegante ale Villa Beatriz, înainte de a vă relaxa în vastul Parc Urban. Încheiați ziua cu un moment de liniște la biserica modernistă Santa Rita.",
+        "en": "Start your walking tour at the city's heart, the Igreja Matriz. Stroll through the streets to discover modern art and culture at the Cultural Forum. After lunch, cross the tracks to the elegant gardens of Villa Beatriz before relaxing in the expansive Urban Park. End your day with a quiet moment at the modernist Church of Santa Rita."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Francesinha",
+            "tip": "Probieren Sie dieses herzhafte Sandwich nach Porto-Art in einem lokalen Café."
+          },
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Ein klassisches portugiesisches Gericht mit Kabeljau, das Sie sich nicht entgehen lassen sollten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Francesinha",
+            "tip": "Kóstold meg ezt a kiadós, Porto-stílusú szendvicset egy helyi kávézóban."
+          },
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Klasszikus portugál tőkehalétel, amit nem szabad kihagyni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Francesinha",
+            "tip": "Încercați acest sandviș consistent în stil Porto la o cafenea locală."
+          },
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Un fel de mâncare clasic portughez cu cod, de neratat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Francesinha",
+            "tip": "Try this hearty, Porto-style sandwich at a local café."
+          },
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "A classic Portuguese codfish dish not to be missed."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Urbano de Ermesinde",
+            "tip": "Finden Sie eine ruhige Bank am See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten der Villa Beatriz",
+            "tip": "Ein friedlicher Ort abseits der Menschenmassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ermesinde városi park",
+            "tip": "Keress egy csendes padot a tó mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Villa Beatriz kertje",
+            "tip": "Békés hely a tömegtől távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Urban din Ermesinde",
+            "tip": "Găsiți o bancă liniștită lângă lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Villa Beatriz",
+            "tip": "Un loc pașnic, departe de aglomerație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ermesinde Urban Park",
+            "tip": "Find a quiet bench by the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Villa Beatriz Gardens",
+            "tip": "A peaceful spot away from the crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien (Padarias)",
+            "tip": "Kaufen Sie traditionelles portugiesisches Brot und Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek (Padarias)",
+            "tip": "Vásárolj hagyományos portugál kenyeret és süteményeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale (Padarias)",
+            "tip": "Cumpărați pâine și produse de patiserie tradiționale portugheze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries (Padarias)",
+            "tip": "Pick up some traditional Portuguese bread and pastries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Bürgersteige uneben sein können.",
+          "Die meisten Geschäfte schließen am Nachmittag für eine Siesta.",
+          "Ein kleiner Regenschirm ist immer eine gute Idee, auch an sonnigen Tagen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel a járdák egyenetlenek lehetnek.",
+          "A legtöbb üzlet délután bezár egy szieszta idejére.",
+          "Egy kis esernyő mindig jó ötlet, még napos napokon is."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece trotuarele pot fi denivelate.",
+          "Majoritatea magazinelor se închid pentru siesta după-amiaza.",
+          "O umbrelă mică este întotdeauna o idee bună, chiar și în zilele însorite."
+        ],
+        "en": [
+          "Wear comfortable shoes as the pavements can be uneven.",
+          "Most shops close for a siesta in the afternoon.",
+          "A small umbrella is always a good idea, even on sunny days."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtpark von Ermesinde",
+            "hu": "Ermesinde városi park",
+            "ro": "Parcul Urban din Ermesinde",
+            "en": "Ermesinde Urban Park"
+          },
+          "coords": [
+            -8.556,
+            41.222
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer Runde auf den Radwegen des Parks.",
+            "hu": "Kezdje a napot egy körrel a park bicikliútjain.",
+            "ro": "Începeți ziua cu o tură pe pistele de biciclete ale parcului.",
+            "en": "Start your day with a loop on the park's cycle paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Rita",
+            "hu": "Santa Rita-templom",
+            "ro": "Biserica Sfânta Rita",
+            "en": "Church of Santa Rita"
+          },
+          "coords": [
+            -8.558,
+            41.221
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:59",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und bewundern Sie das moderne Design.",
+            "hu": "Zárd le a biciklidet és csodáld meg a modern dizájnt.",
+            "ro": "Legați-vă bicicleta și admirați designul modern.",
+            "en": "Lock up your bike and admire the modern design."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Beatriz",
+            "hu": "Villa Beatriz",
+            "ro": "Villa Beatriz",
+            "en": "Villa Beatriz"
+          },
+          "coords": [
+            -8.549,
+            41.2205
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Fahren Sie an diesem historischen Herrenhaus vorbei, um einen Blick darauf zu erhaschen.",
+            "hu": "Tekerj el e történelmi kúria mellett, hogy egy pillantást vess rá.",
+            "ro": "Treceți cu bicicleta pe lângă acest conac istoric pentru a-l admira.",
+            "en": "Cycle past this historic mansion for a glimpse."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Ermesinde (Igreja Matriz)",
+            "hu": "Ermesinde-i főtemplom",
+            "ro": "Biserica Matriz din Ermesinde",
+            "en": "Ermesinde Mother Church (Igreja Matriz)"
+          },
+          "coords": [
+            -8.5505,
+            41.2172
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das spirituelle Zentrum der Stadt, ideal für eine kurze Pause.",
+            "hu": "A város spirituális központja, ideális egy rövid pihenőre.",
+            "ro": "Centrul spiritual al orașului, perfect pentru o pauză scurtă.",
+            "en": "The spiritual center of the town, perfect for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturforum von Ermesinde",
+            "hu": "Ermesinde-i Kulturális Fórum",
+            "ro": "Forumul Cultural din Ermesinde",
+            "en": "Cultural Forum of Ermesinde"
+          },
+          "coords": [
+            -8.5535,
+            41.2158
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Möglicherweise gibt es eine Kunstausstellung, die Sie während der Mittagszeit besuchen können.",
+            "hu": "Lehet, hogy van egy művészeti kiállítás, amit ebédidőben megnézhetsz.",
+            "ro": "S-ar putea să fie o expoziție de artă pe care o puteți vizita în timpul prânzului.",
+            "en": "There might be an art exhibition to visit during lunch time."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Ermesinde",
+            "hu": "Ermesinde vasútállomás",
+            "ro": "Gara Ermesinde",
+            "en": "Ermesinde Train Station"
+          },
+          "coords": [
+            -8.545,
+            41.215
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein wichtiges Eisenbahnkreuz, das die Geschichte der Stadt geprägt hat.",
+            "hu": "Fontos vasúti csomópont, amely formálta a város történelmét.",
+            "ro": "Un nod feroviar important care a modelat istoria orașului.",
+            "en": "An important railway hub that has shaped the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle von São Silvestre",
+            "hu": "São Silvestre-kápolna",
+            "ro": "Capela São Silvestre",
+            "en": "Chapel of São Silvestre"
+          },
+          "coords": [
+            -8.54,
+            41.21
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:22",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine kleine, charmante Kapelle, die eine ruhigere Radtour wert ist.",
+            "hu": "Egy kicsi, bájos kápolna, ami megér egy csendesebb biciklitúrát.",
+            "ro": "O capelă mică și fermecătoare, care merită o plimbare mai liniștită cu bicicleta.",
+            "en": "A small, charming chapel worth a quieter bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im grünen Stadtpark von Ermesinde. Fahren Sie nach Süden, um die Mischung aus moderner und historischer Architektur in der Kirche Santa Rita und der Villa Beatriz zu bewundern. Machen Sie eine Mittagspause im Stadtzentrum in der Nähe der Hauptkirche und des Kulturforums. Am Nachmittag radeln Sie nach Osten zum historischen Bahnhof, einem Zeugnis des industriellen Erbes der Stadt, und schließen Sie mit einem Besuch der ruhigen Kapelle von São Silvestre ab.",
+        "hu": "Kezdje a biciklitúrát Ermesinde zöldellő városi parkjában. Tekerjen dél felé, hogy megcsodálja a modern és történelmi építészet keverékét a Santa Rita-templomnál és a Villa Beatriznál. Tartson egy ebédszünetet a városközpontban, a főtemplom és a kulturális fórum közelében. Délután tekerjen keletre a történelmi vasútállomáshoz, a város ipari örökségének tanújához, majd zárja a napot a békés São Silvestre-kápolna meglátogatásával.",
+        "ro": "Începeți turul cu bicicleta în verdele Parc Urban din Ermesinde. Pedalați spre sud pentru a admira amestecul de arhitectură modernă și istorică de la Biserica Santa Rita și Villa Beatriz. Luați o pauză de prânz în centrul orașului, lângă Biserica Matriz și Forumul Cultural. După-amiaza, pedalați spre est către gara istorică, o mărturie a patrimoniului industrial al orașului, și încheiați cu o vizită la liniștita Capelă São Silvestre.",
+        "en": "Kick off your bike tour in the green expanse of Ermesinde's Urban Park. Cycle south to admire the mix of modern and historic architecture at the Church of Santa Rita and Villa Beatriz. Take a lunch break in the city center near the main church and cultural forum. In the afternoon, pedal east to the historic train station, a testament to the city's industrial heritage, and conclude with a visit to the peaceful Chapel of São Silvestre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillte Sardinen",
+            "tip": "Wenn Saison ist, ein Muss in jedem lokalen Restaurant (Churrasqueira)."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Tanken Sie Energie mit dieser ikonischen portugiesischen Puddingtorte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett szardínia",
+            "tip": "Ha szezonja van, kötelező minden helyi étteremben (Churrasqueira)."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Töltődj fel energiával ezzel az ikonikus portugál pudingos kosárkával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sardine la grătar",
+            "tip": "Dacă este sezon, o necesitate la orice restaurant local (Churrasqueira)."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Alimentați-vă cu această tartă iconică cu cremă portugheză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Sardines",
+            "tip": "If in season, a must-try at any local restaurant (Churrasqueira)."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Fuel up with this iconic Portuguese custard tart."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Leça-Flusses",
+            "tip": "Folgen Sie dem Fluss für eine ruhige Flucht aus der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela de São Silvestre",
+            "tip": "Ein abgeschiedener Ort für einen Moment der Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leça folyó partja",
+            "tip": "Kövesd a folyót a csendes meneküléshez a városból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "São Silvestre-kápolna",
+            "tip": "Egy eldugott hely egy pillanatnyi elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Leça",
+            "tip": "Urmați râul pentru o evadare liniștită din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela de São Silvestre",
+            "tip": "Un loc retras pentru un moment de reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Leça River",
+            "tip": "Follow the river for a quiet escape from the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chapel of São Silvestre",
+            "tip": "A secluded spot for a moment of reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach dem städtischen Markt für frische Produkte und lokale Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keresd a városi piacot friss termékekért és helyi kézműves termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piața municipală pentru produse proaspete și meșteșuguri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for the municipal market for fresh produce and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Einige Straßen können schmal sein, also seien Sie vorsichtig im Verkehr.",
+          "Tragen Sie eine Flasche Wasser bei sich, besonders an warmen Tagen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a guminyomást.",
+          "Néhány utca szűk lehet, ezért légy óvatos a forgalomban.",
+          "Vigyél magaddal egy üveg vizet, különösen meleg napokon."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a porni.",
+          "Unele străzi pot fi înguste, așa că fiți atenți la trafic.",
+          "Luați cu voi o sticlă de apă, mai ales în zilele calde."
+        ],
+        "en": [
+          "Check your tire pressure before heading out.",
+          "Some streets can be narrow, so be cautious of traffic.",
+          "Carry a bottle of water, especially on warm days."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster: Park & Kirche Santa Rita",
+            "hu": "Klaszter: Park és Santa Rita-templom",
+            "ro": "Cluster: Parc & Biserica Sfânta Rita",
+            "en": "Cluster: Park & Santa Rita Church"
+          },
+          "coords": [
+            -8.556,
+            41.222
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier. Beginnen Sie mit einem Spaziergang im Park.",
+            "hu": "Parkolj itt. Kezdd egy sétával a parkban.",
+            "ro": "Parcați aici. Începeți cu o plimbare în parc.",
+            "en": "Park here. Start with a walk in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Rita",
+            "hu": "Santa Rita-templom",
+            "ro": "Biserica Sfânta Rita",
+            "en": "Church of Santa Rita"
+          },
+          "coords": [
+            -8.558,
+            41.221
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz entfernt.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from your parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Stadtzentrum",
+            "hu": "Klaszter: Városközpont",
+            "ro": "Cluster: Centrul Orașului",
+            "en": "Cluster: City Center"
+          },
+          "coords": [
+            -8.5505,
+            41.2172
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren und parken Sie in der Nähe der Igreja Matriz.",
+            "hu": "Vezess és parkolj az Igreja Matriz közelében.",
+            "ro": "Conduceți și parcați lângă Biserica Matriz.",
+            "en": "Drive and park near the Igreja Matriz."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Frau von Ermesinde",
+            "hu": "Ermesinde-i Nő Emlékműve",
+            "ro": "Monumentul Femeii din Ermesinde",
+            "en": "Monument to the Woman of Ermesinde"
+          },
+          "coords": [
+            -8.552,
+            41.2165
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß von der Hauptkirche erreichbar.",
+            "hu": "Gyalogosan elérhető a főtemplomtól.",
+            "ro": "La mică distanță de mers pe jos de la biserica principală.",
+            "en": "A short walk from the main church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Bahnhof & Erbe",
+            "hu": "Klaszter: Állomás és Örökség",
+            "ro": "Cluster: Gară și Patrimoniu",
+            "en": "Cluster: Station & Heritage"
+          },
+          "coords": [
+            -8.545,
+            41.215
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Bahnhofsviertel, Mittagessen in der Nähe.",
+            "hu": "Vezess az állomás környékére, ebéd a közelben.",
+            "ro": "Conduceți spre zona gării, luați prânzul în apropiere.",
+            "en": "Drive to the station district, have lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle von São Silvestre",
+            "hu": "São Silvestre-kápolna",
+            "ro": "Capela São Silvestre",
+            "en": "Chapel of São Silvestre"
+          },
+          "coords": [
+            -8.54,
+            41.21
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhofsviertel.",
+            "hu": "Rövid séta az állomás környékéről.",
+            "ro": "O plimbare scurtă din zona gării.",
+            "en": "A short stroll from the station area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im nördlichen Teil der Stadt. Parken Sie in der Nähe des Stadtparks und erkunden Sie die grüne Umgebung und die moderne Kirche Santa Rita zu Fuß. Fahren Sie mittags ins Stadtzentrum, parken Sie erneut und besuchen Sie die historische Hauptkirche und das nahegelegene Denkmal. Nach dem Mittagessen fahren Sie zum Bahnhofsviertel, wo Sie das industrielle Erbe der Stadt und die charmante Kapelle São Silvestre entdecken können.",
+        "hu": "Kezdje a napot a város északi részén. Parkoljon a városi park közelében, és fedezze fel gyalog a zöldövezetet és a modern Santa Rita templomot. Délben vezessen a városközpontba, parkoljon újra, és látogasson el a történelmi főtemplomhoz és a közeli emlékműhöz. Ebéd után irány a vasútállomás negyede, ahol felfedezheti a város ipari örökségét és a bájos São Silvestre kápolnát.",
+        "ro": "Începeți ziua în partea de nord a orașului. Parcați lângă Parcul Urban și explorați zona verde și biserica modernă Santa Rita pe jos. La amiază, conduceți spre centrul orașului, parcați din nou și vizitați biserica istorică și monumentul din apropiere. După prânz, conduceți spre cartierul gării pentru a descoperi patrimoniul industrial al orașului și fermecătoarea Capelă São Silvestre.",
+        "en": "Start your day in the northern part of the city. Park near the Urban Park and explore the green area and the modern Santa Rita Church on foot. At midday, drive to the city center, park again, and visit the historic main church and the nearby monument. After lunch, take a drive to the station district to discover the city's industrial heritage and the charming São Silvestre Chapel."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tripas à Moda do Porto",
+            "tip": "Für Abenteuerlustige: Probieren Sie dieses traditionelle Kuttelgericht aus der Region Porto."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tripas à Moda do Porto",
+            "tip": "Kalandvágyóknak: kóstoljátok meg ezt a hagyományos pacalételt a Porto régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tripas à Moda do Porto",
+            "tip": "Pentru cei aventuroși, încercați acest fel de mâncare tradițional cu burtă din regiunea Porto."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tripas à Moda do Porto",
+            "tip": "For the adventurous, try this traditional tripe dish from the Porto region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof von Ermesinde",
+            "tip": "Ein überraschend ruhiger und historischer Ort für einen Spaziergang.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ermesinde-i temető",
+            "tip": "Meglepően csendes és történelmi hely egy sétához.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul din Ermesinde",
+            "tip": "Un loc surprinzător de liniștit și istoric pentru o plimbare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ermesinde Cemetery",
+            "tip": "A surprisingly quiet and historic place for a walk.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenläden",
+            "tip": "Halten Sie Ausschau nach kleinen, unabhängigen Geschäften, die lokale Waren verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai boltok",
+            "tip": "Keress kis, független boltokat, amelyek helyi árukat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine stradale",
+            "tip": "Căutați magazine mici, independente, care vând produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street-side shops",
+            "tip": "Look for small, independent shops selling local goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum eine Herausforderung sein, seien Sie geduldig.",
+          "Verwenden Sie eine GPS-App, um durch die oft engen Einbahnstraßen zu navigieren.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a városközpontban, légy türelmes.",
+          "Használj GPS-alkalmazást a gyakran szűk, egyirányú utcákon való navigáláshoz.",
+          "Ne hagyj értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centrul orașului, aveți răbdare.",
+          "Utilizați o aplicație GPS pentru a naviga pe străzile adesea înguste, cu sens unic.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Parking can be a challenge in the city center, be patient.",
+          "Use a GPS app to navigate the often narrow, one-way streets.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 9.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster: Bahnhof & Erbe",
+            "hu": "Klaszter: Állomás és Örökség",
+            "ro": "Cluster: Gară și Patrimoniu",
+            "en": "Cluster: Station & Heritage"
+          },
+          "coords": [
+            -8.545,
+            41.215
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am Bahnhof, einem wichtigen Verkehrsknotenpunkt.",
+            "hu": "Kezdje az állomásnál, egy kulcsfontosságú közlekedési csomópontnál.",
+            "ro": "Începeți de la gară, un nod de transport cheie.",
+            "en": "Start at the train station, a key transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle von São Silvestre",
+            "hu": "São Silvestre-kápolna",
+            "ro": "Capela São Silvestre",
+            "en": "Chapel of São Silvestre"
+          },
+          "coords": [
+            -8.54,
+            41.21
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof entfernt.",
+            "hu": "Rövid séta az állomástól.",
+            "ro": "O plimbare scurtă de la gară.",
+            "en": "A short walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Stadtzentrum",
+            "hu": "Klaszter: Városközpont",
+            "ro": "Cluster: Centrul Orașului",
+            "en": "Cluster: City Center"
+          },
+          "coords": [
+            -8.5505,
+            41.2172
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:33",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum und steigen Sie in der Nähe der Igreja Matriz aus.",
+            "hu": "Szállj buszra a központ felé, és szállj le az Igreja Matriz közelében.",
+            "ro": "Luați un autobuz spre centru și coborâți lângă Biserica Matriz.",
+            "en": "Take a bus to the center, alight near the Igreja Matriz."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturforum von Ermesinde",
+            "hu": "Ermesinde-i Kulturális Fórum",
+            "ro": "Forumul Cultural din Ermesinde",
+            "en": "Cultural Forum of Ermesinde"
+          },
+          "coords": [
+            -8.5535,
+            41.2158
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche, ideal für einen kulturellen Vormittag.",
+            "hu": "Rövid séta a templomtól, ideális egy kulturális délelőttre.",
+            "ro": "O scurtă plimbare de la biserică, perfectă pentru o dimineață culturală.",
+            "en": "A brief walk from the church, perfect for a cultural morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Park & Gärten",
+            "hu": "Klaszter: Park és Kertek",
+            "ro": "Cluster: Parc și Grădini",
+            "en": "Cluster: Park & Gardens"
+          },
+          "coords": [
+            -8.556,
+            41.222
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:37",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen weiteren Bus nach Norden zum Stadtpark.",
+            "hu": "Szállj egy másik buszra észak felé a városi parkhoz.",
+            "ro": "Luați un alt autobuz spre nord, către Parcul Urban.",
+            "en": "Take another bus north to the Urban Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Beatriz",
+            "hu": "Villa Beatriz",
+            "ro": "Villa Beatriz",
+            "en": "Villa Beatriz"
+          },
+          "coords": [
+            -8.549,
+            41.2205
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:52",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Park zu diesem eleganten Herrenhaus.",
+            "hu": "Sétálj át a parkból ehhez az elegáns kúriához.",
+            "ro": "Plimbați-vă din parc până la acest conac elegant.",
+            "en": "Stroll from the park to this elegant mansion."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das öffentliche Verkehrsnetz von Ermesinde. Beginnen Sie am Bahnhof und erkunden Sie die östlichen Stadtteile. Nehmen Sie einen Bus ins Herz der Stadt, um die Hauptkirche und das Kulturforum zu besichtigen. Verbringen Sie hier Ihre Mittagszeit. Am Nachmittag bringt Sie ein weiterer Bus in den Norden zum weitläufigen Stadtpark und der eleganten Villa Beatriz, wo Sie Ihren Tag in einer ruhigen Umgebung ausklingen lassen können.",
+        "hu": "Használja ki Ermesinde tömegközlekedési hálózatát. Kezdje a vasútállomásnál, és fedezze fel a keleti negyedeket. Szálljon buszra a város szívébe, hogy megnézze a főtemplomot és a kulturális fórumot, itt töltse az ebédidejét. Délután egy másik busz északra viszi a tágas városi parkhoz és az elegáns Villa Beatrizhoz, ahol egy nyugodt környezetben fejezheti be a napot.",
+        "ro": "Profitați de rețeaua de transport public din Ermesinde. Începeți de la gară pentru a explora cartierele estice. Luați un autobuz spre inima orașului pentru a vizita Biserica Matriz și Forumul Cultural, petrecându-vă aici pauza de prânz. După-amiaza, un alt autobuz vă va duce spre nord, la vastul Parc Urban și la eleganta Villa Beatriz, pentru a încheia ziua într-un cadru liniștit.",
+        "en": "Make use of Ermesinde's public transport network. Start at the train station to explore the eastern neighborhoods. Take a bus to the heart of the city to see the main church and the cultural forum, spending your lunch break here. In the afternoon, another bus will take you north to the expansive Urban Park and the elegant Villa Beatriz to end your day in a tranquil setting."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana",
+            "tip": "Ein einfaches, aber köstliches Sandwich mit mariniertem Schweinefleisch, perfekt für ein schnelles Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana",
+            "tip": "Egyszerű, de finom pácolt sertéshúsos szendvics, tökéletes egy gyors ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș simplu, dar delicios, cu carne de porc marinată, perfect pentru un prânz rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana",
+            "tip": "A simple but delicious marinated pork sandwich, perfect for a quick lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Parque Urbano",
+            "tip": "Beobachten Sie die Einheimischen bei ihrem Alltag.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Parque Urbanóban",
+            "tip": "Figyeld a helyieket, ahogy élik a mindennapjaikat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parque Urbano",
+            "tip": "Urmăriți localnicii cum își desfășoară viața de zi cu zi.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Parque Urbano",
+            "tip": "Watch the locals go about their daily lives.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske in der Nähe des Bahnhofs",
+            "tip": "Hier finden Sie Zeitungen, Snacks und kleine Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok az állomás közelében",
+            "tip": "Találsz itt újságokat, rágcsálnivalókat és apró szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri lângă gară",
+            "tip": "Găsiți ziare, gustări și mici suveniruri aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks near the train station",
+            "tip": "Find newspapers, snacks, and small souvenirs here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Busfahrpläne finden Sie an den Haltestellen oder online.",
+          "Validieren Sie Ihr Ticket beim Einsteigen, um Geldstrafen zu vermeiden."
+        ],
+        "hu": [
+          "Vásárolj napijegyet a korlátlan utazáshoz.",
+          "A buszmenetrendeket a megállókban vagy online találod.",
+          "Felszálláskor érvényesítsd a jegyedet a büntetések elkerülése érdekében."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Orarele autobuzelor pot fi găsite la stații sau online.",
+          "Validați-vă biletul la urcare pentru a evita amenzile."
+        ],
+        "en": [
+          "Buy a daily pass for unlimited travel.",
+          "Bus schedules can be found at the stops or online.",
+          "Validate your ticket when you board to avoid fines."
+        ]
+      }
+    }
+  }
+}

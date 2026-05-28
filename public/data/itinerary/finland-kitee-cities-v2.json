@@ -1,0 +1,1208 @@
+{
+  "city_id": "finland-kitee-cities-v2",
+  "anchor": {
+    "name": "Kitee",
+    "coords": [
+      30.1333,
+      62.1
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal von Pajarin Poika",
+            "hu": "Pajarin Poika emlékmű",
+            "ro": "Monumentul Pajarin Poika",
+            "en": "Pajarin Poika Monument"
+          },
+          "coords": [
+            30.134,
+            62.101
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein kurzer Fotostopp, um dem lokalen Helden die Ehre zu erweisen.",
+            "hu": "Egy gyors fotómegálló a helyi hős tiszteletére.",
+            "ro": "O scurtă oprire pentru fotografii pentru a onora eroul local.",
+            "en": "A quick photo stop to pay respects to the local hero."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kitee",
+            "hu": "Kiteei kőtemplom",
+            "ro": "Biserica din Kitee",
+            "en": "Kitee Church"
+          },
+          "coords": [
+            30.138,
+            62.1025
+          ],
+          "category": "churches",
+          "arrive_at": "09:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Steinarchitektur von Carl Ludvig Engel.",
+            "hu": "Csodálja meg Carl Ludvig Engel lenyűgöző kőépítészetét.",
+            "ro": "Admirați arhitectura impresionantă în piatră, opera lui Carl Ludvig Engel.",
+            "en": "Admire the impressive stone architecture by Carl Ludvig Engel."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Kitee",
+            "hu": "Kiteei Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Kitee",
+            "en": "Kitee Local History Museum"
+          },
+          "coords": [
+            30.1395,
+            62.103
+          ],
+          "category": "museums",
+          "arrive_at": "10:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das traditionelle Leben in der Region Karelien.",
+            "hu": "Ismerje meg a hagyományos karéliai életet.",
+            "ro": "Aflați despre viața tradițională din regiunea Karelia.",
+            "en": "Learn about the traditional life in the Karelia region."
+          }
+        },
+        {
+          "name": {
+            "de": "Nightwish-Ausstellung",
+            "hu": "Nightwish Központ és Kiállítás",
+            "ro": "Expoziția Nightwish",
+            "en": "Nightwish Exhibition"
+          },
+          "coords": [
+            30.141,
+            62.098
+          ],
+          "category": "museums",
+          "arrive_at": "11:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss für Fans der Band! Hier finden Sie Original-Requisiten und Goldene Schallplatten.",
+            "hu": "Kötelező a zenekar rajongóinak! Eredeti kellékeket és aranylemezeket találhat itt.",
+            "ro": "O vizită obligatorie pentru fanii trupei! Veți găsi recuzită originală și discuri de aur.",
+            "en": "A must-visit for fans of the band! You'll find original props and gold records."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebédszünet a központban",
+            "ro": "Pauză de prânz în centru",
+            "en": "Lunch Break in the Center"
+          },
+          "coords": [
+            30.139,
+            62.097
+          ],
+          "category": "gastro",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie karelische Piroggen in einem der örtlichen Restaurants.",
+            "hu": "Kóstolja meg a karéliai pirogot az egyik helyi étteremben.",
+            "ro": "Încercați plăcintele kareliene la unul dintre restaurantele locale.",
+            "en": "Try some Karelian pasties at one of the local restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Pyhäjärvi See",
+            "hu": "Séta a Pyhäjärvi-tó partján",
+            "ro": "Plimbare pe malul lacului Pyhäjärvi",
+            "en": "Walk by Lake Pyhäjärvi"
+          },
+          "coords": [
+            30.08,
+            62.09
+          ],
+          "category": "natural features",
+          "arrive_at": "14:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 58,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre und die schöne Aussicht auf den See.",
+            "hu": "Élvezze a csendes légkört és a tóra nyíló gyönyörű kilátást.",
+            "ro": "Bucurați-vă de atmosfera liniștită și de priveliștea frumoasă a lacului.",
+            "en": "Enjoy the quiet atmosphere and the beautiful view of the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Kitee mit einem Spaziergang durch das historische Zentrum, bei dem Sie das Denkmal für Pajarin Poika und die prächtige Steinkirche bewundern. Am Vormittag tauchen Sie in die lokale Kultur ein, besuchen das Heimatmuseum und die weltberühmte Nightwish-Ausstellung. Nach einem herzhaften karelischen Mittagessen führt Sie ein längerer Spaziergang am Nachmittag an die ruhigen Ufer des Pyhäjärvi-Sees. Schließen Sie den Tag mit der friedlichen Aussicht auf das Wasser ab und nehmen Sie die entspannte finnische Atmosphäre in sich auf.",
+        "hu": "Kezdje a napot Kitee történelmi központjában egy sétával, megcsodálva a Pajarin Poika emlékművet és a csodálatos kőtemplomot. A délelőtt folyamán merüljön el a helyi kultúrában a Helytörténeti Múzeumban és a világhírű Nightwish kiállításon. Egy kiadós karéliai ebéd után délután egy hosszabb séta vezet a Pyhäjärvi-tó csendes partjához. Zárja a napot a víz békés látványával, magába szívva a nyugodt finn légkört.",
+        "ro": "Începeți ziua în Kitee cu o plimbare prin centrul istoric, admirând monumentul Pajarin Poika și magnifica biserică de piatră. Dimineața, scufundați-vă în cultura locală la Muzeul de Istorie Locală și la faimoasa expoziție Nightwish. După un prânz karelian consistent, o plimbare mai lungă după-amiaza vă va duce pe malurile liniștite ale lacului Pyhäjärvi. Încheiați ziua cu priveliștea pașnică a apei, absorbind atmosfera finlandeză relaxată.",
+        "en": "Start your day in Kitee with a walk through the historic center, admiring the Pajarin Poika monument and the magnificent stone church. In the morning, immerse yourself in local culture at the Local History Museum and the world-famous Nightwish exhibition. After a hearty Karelian lunch, a longer afternoon walk will take you to the quiet shores of Lake Pyhäjärvi. End your day with the peaceful view of the water, absorbing the relaxed Finnish atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karjalanpiirakka (Karelische Piroggen)",
+            "tip": "Traditionelles Roggengebäck mit Reisbrei-Füllung, oft mit Eibutter serviert."
+          },
+          {
+            "name": "Kalakukko (Fischbrot)",
+            "tip": "Ein in Brot gebackener Laib aus Fisch (normalerweise Maräne) und Schweinefleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karjalanpiirakka (Karéliai pirog)",
+            "tip": "Hagyományos rozstészta rizskásával töltve, gyakran tojásos vajjal tálalva."
+          },
+          {
+            "name": "Kalakukko (Halas cipó)",
+            "tip": "Kenyérbe sütött cipó, amely halból (általában maréna) és sertéshúsból készül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karjalanpiirakka (Plăcinte kareliene)",
+            "tip": "Produse de patiserie tradiționale din secară, umplute cu terci de orez, adesea servite cu unt de ou."
+          },
+          {
+            "name": "Kalakukko (Pâine cu pește)",
+            "tip": "O pâine coaptă cu pește (de obicei coregon) și carne de porc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karjalanpiirakka (Karelian pasties)",
+            "tip": "Traditional rye pastries filled with rice porridge, often served with egg butter."
+          },
+          {
+            "name": "Kalakukko (Fish pie)",
+            "tip": "A loaf of bread baked with fish (usually vendace) and pork inside."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Pyhäjärvi-Sees",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Stille des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof der Kirche von Kitee",
+            "tip": "Ein friedlicher und historischer Ort für einen Moment der Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pyhäjärvi-tó partja",
+            "tip": "Keressen egy csendes padot, és élvezze a víz nyugalmát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kiteei templom temetője",
+            "tip": "Békés és történelmi hely egy csendes elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Pyhäjärvi",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de calmul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Bisericii din Kitee",
+            "tip": "Un loc pașnic și istoric pentru un moment de reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Lake Pyhäjärvi",
+            "tip": "Find a quiet bench and enjoy the stillness of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kitee Church Cemetery",
+            "tip": "A peaceful and historic spot for a moment of reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigten karelischen Textilien oder Holzarbeiten."
+          },
+          {
+            "name": "Nightwish-Shop",
+            "tip": "Ein Muss für Souvenirs im Zusammenhang mit der berühmtesten Band der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kézzel készített karéliai textíliákat vagy fafaragásokat."
+          },
+          {
+            "name": "Nightwish bolt",
+            "tip": "Kötelező ajándéktárgyakért a város leghíresebb zenekarával kapcsolatban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați textile sau obiecte din lemn lucrate manual, specifice regiunii Karelia."
+          },
+          {
+            "name": "Magazinul Nightwish",
+            "tip": "O oprire obligatorie pentru suveniruri legate de cea mai faimoasă trupă a orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for handmade Karelian textiles or wood carvings."
+          },
+          {
+            "name": "Nightwish Shop",
+            "tip": "A must-stop for souvenirs related to the town's most famous band."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Weg zum See etwas länger ist.",
+          "Prüfen Sie die Öffnungszeiten der Museen, insbesondere außerhalb der Saison.",
+          "Ein Regenschirm oder eine leichte Regenjacke ist in Finnland immer eine gute Idee."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a tóhoz vezető séta kissé hosszú.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, különösen a főszezonon kívül.",
+          "Egy esernyő vagy egy könnyű esőkabát mindig jó ötlet Finnországban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece plimbarea până la lac este puțin mai lungă.",
+          "Verificați programul de funcționare al muzeelor, mai ales în afara sezonului.",
+          "O umbrelă sau o geacă de ploaie subțire este întotdeauna o idee bună în Finlanda."
+        ],
+        "en": [
+          "Wear comfortable shoes as the walk to the lake is a bit long.",
+          "Check the opening hours for the museums, especially outside the main season.",
+          "An umbrella or a light rain jacket is always a good idea in Finland."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche von Kitee & Heimatmuseum",
+            "hu": "Kiteei templom és Helytörténeti Múzeum",
+            "ro": "Biserica și Muzeul Local din Kitee",
+            "en": "Kitee Church & Local Museum"
+          },
+          "coords": [
+            30.138,
+            62.1025
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer Dosis Geschichte und Kultur an diesem kombinierten Ort.",
+            "hu": "Kezdje a napot egy adag történelemmel és kultúrával ezen a kombinált helyszínen.",
+            "ro": "Începeți ziua cu o doză de istorie și cultură în această locație combinată.",
+            "en": "Start your day with a dose of history and culture at this combined spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Nightwish-Ausstellung",
+            "hu": "Nightwish Központ",
+            "ro": "Centrul Nightwish",
+            "en": "Nightwish Center"
+          },
+          "coords": [
+            30.141,
+            62.098
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad gut ab und tauchen Sie ein in die Welt des Symphonic Metal.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a szimfonikus metál világában.",
+            "ro": "Legați-vă bine bicicleta și scufundați-vă în lumea metalului simfonic.",
+            "en": "Lock your bike securely and dive into the world of symphonic metal."
+          }
+        },
+        {
+          "name": {
+            "de": "Radfahrt zum Pyhäjärvi See",
+            "hu": "Kerékpártúra a Pyhäjärvi-tóhoz",
+            "ro": "Tură cu bicicleta la Lacul Pyhäjärvi",
+            "en": "Bike Ride to Lake Pyhäjärvi"
+          },
+          "coords": [
+            30.08,
+            62.09
+          ],
+          "category": "natural features",
+          "arrive_at": "12:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Eine erfrischende Fahrt. Machen Sie ein Picknick am Ufer.",
+            "hu": "Egy frissítő túra. Piknikezzen a tóparton.",
+            "ro": "O plimbare revigorantă. Faceți un picnic pe mal.",
+            "en": "A refreshing ride. Have a picnic by the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Mühle Puhos",
+            "hu": "Történelmi Puhos malom",
+            "ro": "Moara istorică din Puhos",
+            "en": "Historic Mill of Puhos"
+          },
+          "coords": [
+            30.22,
+            62.065
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:17",
+          "stay_min": 50,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Anfänge des finnischen Dampfschiffbaus.",
+            "hu": "Ismerje meg a finn gőzhajógyártás kezdeteit.",
+            "ro": "Aflați despre începuturile construcției de vapoare cu aburi în Finlanda.",
+            "en": "Learn about the dawn of Finnish steamship building."
+          }
+        },
+        {
+          "name": {
+            "de": "Kitee Zoo",
+            "hu": "Kiteei Állatkert",
+            "ro": "Grădina Zoologică Kitee",
+            "en": "Kitee Zoo"
+          },
+          "coords": [
+            30.06,
+            62.14
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "15:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie einheimische finnische Tiere in einer naturnahen Umgebung.",
+            "hu": "Figyelje meg a finn őshonos állatokat természetes környezetükben.",
+            "ro": "Observați animalele native finlandeze într-un mediu natural.",
+            "en": "Observe native Finnish animals in a naturalistic setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Ride back to the center"
+          },
+          "coords": [
+            30.1333,
+            62.1
+          ],
+          "category": "gastro",
+          "arrive_at": "17:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem wohlverdienten Abendessen.",
+            "hu": "Zárja a napot egy jól megérdemelt vacsorával.",
+            "ro": "Încheiați ziua cu o cină binemeritată.",
+            "en": "End the day with a well-deserved dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour in Kitee im kulturellen Herzen der Stadt, bei der Kirche und dem Heimatmuseum. Eine kurze Fahrt bringt Sie zur Nightwish-Ausstellung, ein Highlight für Musikfans. Am Mittag genießen Sie eine malerische Fahrt zum Pyhäjärvi-See für eine ausgedehnte Pause in der Natur. Am Nachmittag entdecken Sie Industriegeschichte an der Mühle von Puhos und besuchen anschließend die einheimischen Tiere im Kitee Zoo. Die Tour endet mit der Rückfahrt ins Zentrum, wo ein leckeres Abendessen auf Sie wartet.",
+        "hu": "Kezdje kerékpártúráját Kitee kulturális szívében, a templomnál és a helytörténeti múzeumnál. Egy rövid tekerés elviszi a Nightwish kiállításhoz, amely a zenerajongók fénypontja. Délben élvezze a festői utat a Pyhäjärvi-tóhoz egy hosszabb pihenőre a természetben. Délután fedezze fel az ipartörténetet a puhosi malomnál, majd látogassa meg a kiteei állatkert őshonos állatait. A túra a központba való visszatéréssel zárul, ahol finom vacsora várja.",
+        "ro": "Începeți turul cu bicicleta în inima culturală a orașului Kitee, la biserică și muzeul local. O scurtă plimbare vă duce la expoziția Nightwish, un punct culminant pentru fanii muzicii. La prânz, bucurați-vă de o plimbare pitorească până la lacul Pyhäjärvi pentru o pauză prelungită în natură. După-amiaza, descoperiți istoria industrială la moara din Puhos, apoi vizitați animalele native la Grădina Zoologică Kitee. Turul se încheie cu întoarcerea în centru, unde vă așteaptă o cină delicioasă.",
+        "en": "Start your bike tour in Kitee's cultural heart, at the church and local museum. A short ride takes you to the Nightwish exhibition, a highlight for music fans. At midday, enjoy a scenic ride to Lake Pyhäjärvi for an extended break in nature. In the afternoon, discover industrial history at the Puhos mill, then visit the native animals at Kitee Zoo. The tour concludes by returning to the center, where a delicious dinner awaits."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Rinssi-Eversti",
+            "tip": "Bekannt für seine finnische Hausmannskost und sein Mittagsbuffet."
+          },
+          {
+            "name": "Karelische Piroggen (Karjalanpiirakka)",
+            "tip": "Ein perfekter Snack für unterwegs, erhältlich in den meisten Bäckereien und Supermärkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rinssi-Eversti Étterem",
+            "tip": "A finn házias ételeiről és svédasztalos ebédjéről ismert."
+          },
+          {
+            "name": "Karéliai Pirog (Karjalanpiirakka)",
+            "tip": "Tökéletes úti snack, a legtöbb pékségben és szupermarketben kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Rinssi-Eversti",
+            "tip": "Cunoscut pentru mâncarea sa finlandeză de casă și bufetul de prânz."
+          },
+          {
+            "name": "Plăcinte kareliene (Karjalanpiirakka)",
+            "tip": "O gustare perfectă pentru drum, disponibilă în majoritatea brutăriilor și supermarketurilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Rinssi-Eversti",
+            "tip": "Known for its Finnish home-style cooking and lunch buffet."
+          },
+          {
+            "name": "Karelian Pasties (Karjalanpiirakka)",
+            "tip": "A perfect on-the-go snack, available at most bakeries and supermarkets."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Pyhäjärvi-See",
+            "tip": "Halten Sie an einem der vielen ruhigen Plätze entlang des Weges an.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wälder um den Zoo",
+            "tip": "Die Gegend ist ruhig und ideal für eine kurze Pause vom Radfahren.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Pyhäjärvi-tó mentén",
+            "tip": "Álljon meg az ösvény mentén található számos csendes hely egyikén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erdők az Állatkert körül",
+            "tip": "A terület csendes és ideális egy rövid pihenőre a kerékpározásból.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul lacului Pyhäjärvi",
+            "tip": "Opriți-vă la unul dintre numeroasele locuri liniștite de-a lungul traseului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurile din jurul Grădinii Zoologice",
+            "tip": "Zona este liniștită și ideală pentru o scurtă pauză de la pedalat.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along Lake Pyhäjärvi",
+            "tip": "Stop at one of the many quiet spots along the path.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Forests around the Zoo",
+            "tip": "The area is quiet and ideal for a short break from cycling.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "K-Supermarket Kitee",
+            "tip": "Kaufen Sie lokale finnische Snacks und Produkte für Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "K-Supermarket Kitee",
+            "tip": "Vásároljon helyi finn snackeket és termékeket az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "K-Supermarket Kitee",
+            "tip": "Cumpărați gustări și produse locale finlandeze pentru călătoria dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "K-Supermarket Kitee",
+            "tip": "Stock up on local Finnish snacks and products for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit guter Gangschaltung, da es einige Hügel geben kann.",
+          "Nehmen Sie ausreichend Wasser und Snacks für die längeren Fahrten mit.",
+          "Ein Helm wird dringend empfohlen.",
+          "Überprüfen Sie die Wettervorhersage, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Béreljen jó váltóval rendelkező kerékpárt, mert lehetnek emelkedők.",
+          "Vigyen magával elegendő vizet és harapnivalót a hosszabb utakra.",
+          "Sisak használata erősen ajánlott.",
+          "Indulás előtt ellenőrizze az időjárás-előrejelzést."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze bune, deoarece pot exista câteva dealuri.",
+          "Luați suficientă apă și gustări pentru plimbările mai lungi.",
+          "Casca este foarte recomandată.",
+          "Verificați prognoza meteo înainte de a pleca."
+        ],
+        "en": [
+          "Rent a bike with good gears as there can be some hills.",
+          "Bring plenty of water and snacks for the longer rides.",
+          "A helmet is highly recommended.",
+          "Check the weather forecast before you set off."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 24.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Kitee Zoo",
+            "hu": "1. klaszter: Kiteei Állatkert",
+            "ro": "Cluster 1: Grădina Zoologică Kitee",
+            "en": "Cluster 1: Kitee Zoo"
+          },
+          "coords": [
+            30.06,
+            62.14
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit den Tieren. Der Parkplatz ist direkt am Eingang.",
+            "hu": "Kezdje a napot az állatokkal. A parkoló közvetlenül a bejáratnál található.",
+            "ro": "Începeți ziua cu animalele. Parcarea este chiar la intrare.",
+            "en": "Start the day with the animals. Parking is right at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Historisches Zentrum (Parken)",
+            "hu": "2. klaszter: Történelmi központ (parkolás)",
+            "ro": "Cluster 2: Centru Istoric (Parcare)",
+            "en": "Cluster 2: Historic Center (Parking)"
+          },
+          "coords": [
+            30.137,
+            62.103
+          ],
+          "category": "historic",
+          "arrive_at": "11:27",
+          "stay_min": 5,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 7.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die nächsten Sehenswürdigkeiten zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel a következő látnivalókat gyalog.",
+            "ro": "Parcați aici și explorați următoarele atracții pe jos.",
+            "en": "Park here and explore the next few sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kitee",
+            "hu": "Kiteei kőtemplom",
+            "ro": "Biserica din Kitee",
+            "en": "Kitee Church"
+          },
+          "coords": [
+            30.138,
+            62.1025
+          ],
+          "category": "churches",
+          "arrive_at": "11:34",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zur beeindruckenden Steinkirche.",
+            "hu": "Egy rövid séta a parkolótól a lenyűgöző kőtemplomig.",
+            "ro": "O scurtă plimbare de la parcare la impresionanta biserică de piatră.",
+            "en": "A short walk from the parking spot to the impressive stone church."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum & Nightwish-Ausstellung",
+            "hu": "Helytörténeti Múzeum és Nightwish Kiállítás",
+            "ro": "Muzeul Local și Expoziția Nightwish",
+            "en": "Local Museum & Nightwish Exhibition"
+          },
+          "coords": [
+            30.14,
+            62.1
+          ],
+          "category": "museums",
+          "arrive_at": "12:08",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um beide Attraktionen am selben Ort zu genießen.",
+            "hu": "Szánjon elég időt mindkét látnivaló élvezetére ugyanazon a helyen.",
+            "ro": "Planificați-vă suficient timp pentru a vă bucura de ambele atracții în aceeași locație.",
+            "en": "Plan enough time to enjoy both attractions in the same location."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            30.139,
+            62.098
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Mehrere Restaurants sind vom zentralen Parkplatz aus leicht zu Fuß erreichbar.",
+            "hu": "Számos étterem könnyen megközelíthető gyalog a központi parkolóból.",
+            "ro": "Mai multe restaurante sunt la mică distanță de mers pe jos de parcarea centrală.",
+            "en": "Several restaurants are within easy walking distance of the central parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Historische Mühle Puhos",
+            "hu": "3. klaszter: Történelmi Puhos malom",
+            "ro": "Cluster 3: Moara istorică din Puhos",
+            "en": "Cluster 3: Historic Mill of Puhos"
+          },
+          "coords": [
+            30.22,
+            62.065
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:38",
+          "stay_min": 50,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 7.7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zu einem wichtigen Ort der finnischen Industriegeschichte.",
+            "hu": "Egy rövid autóút a finn ipartörténet egyik fontos helyszínére.",
+            "ro": "O scurtă călătorie cu mașina către un loc important din istoria industrială a Finlandei.",
+            "en": "A short drive to an important site in Finnish industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Pyhäjärvi See",
+            "hu": "Utazás a Pyhäjärvi-tóhoz",
+            "ro": "Călătorie la Lacul Pyhäjärvi",
+            "en": "Drive to Lake Pyhäjärvi"
+          },
+          "coords": [
+            30.08,
+            62.09
+          ],
+          "category": "natural features",
+          "arrive_at": "16:45",
+          "stay_min": 55,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannenden Halt am See, bevor Sie nach Hause fahren.",
+            "hu": "Zárja a napot egy pihentető megállóval a tónál, mielőtt hazaindul.",
+            "ro": "Încheiați ziua cu o oprire relaxantă la lac înainte de a vă întoarce acasă.",
+            "en": "End the day with a relaxing stop at the lake before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Kitee beginnt im Norden im Kitee Zoo, wo Sie den Vormittag mit der Beobachtung finnischer Wildtiere verbringen. Danach fahren Sie ins Zentrum von Kitee, parken Ihr Auto und erkunden den historischen Kern zu Fuß. Besichtigen Sie die Steinkirche und tauchen Sie im Heimatmuseum und in der Nightwish-Ausstellung tief in die lokale Kultur ein. Nach dem Mittagessen im Zentrum führt Sie eine kurze Autofahrt zur historischen Mühle von Puhos. Der Tag endet mit einer Fahrt zum malerischen Pyhäjärvi-See, wo Sie die friedliche Atmosphäre genießen können, bevor Sie Ihre Reise fortsetzen.",
+        "hu": "Autós napja Kiteeben északon, a kiteei állatkertben kezdődik, ahol a délelőttöt a finn vadvilág megfigyelésével tölti. Ezután Kitee központjába hajt, leparkolja az autót, és gyalog fedezi fel a történelmi magot. Látogasson el a kőtemplomhoz, és merüljön el a helyi kultúrában a helytörténeti múzeumban és a Nightwish kiállításon. A központban elköltött ebéd után egy rövid autóút vezet a történelmi puhosi malomhoz. A nap egy festői autózással zárul a Pyhäjärvi-tóhoz, ahol élvezheti a békés hangulatot, mielőtt folytatná útját.",
+        "ro": "Ziua dumneavoastră cu mașina în Kitee începe în nord, la Grădina Zoologică Kitee, unde petreceți dimineața observând fauna finlandeză. Apoi, conduceți spre centrul orașului Kitee, parcați mașina și explorați nucleul istoric pe jos. Vizitați biserica de piatră și aprofundați cultura locală la muzeul local și la expoziția Nightwish. După prânz în centru, o scurtă călătorie cu mașina vă duce la moara istorică din Puhos. Ziua se încheie cu o plimbare pitorească cu mașina până la lacul Pyhäjärvi, unde vă puteți bucura de atmosfera pașnică înainte de a vă continua călătoria.",
+        "en": "Your car day in Kitee starts up north at the Kitee Zoo, spending the morning observing Finnish wildlife. Afterwards, you'll drive to the center of Kitee, park your car, and explore the historic core on foot. Visit the stone church and take a deep dive into local culture at the local museum and Nightwish exhibition. After lunch in the center, a short drive takes you to the historic Puhos Mill. The day concludes with a scenic drive to Lake Pyhäjärvi, where you can enjoy the peaceful atmosphere before continuing your journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "JJ's BBQ",
+            "tip": "Wenn Sie Lust auf etwas anderes als finnische Küche haben, probieren Sie dieses amerikanische BBQ-Lokal."
+          },
+          {
+            "name": "ABC Kitee",
+            "tip": "Eine praktische Tankstelle mit Restaurant für eine schnelle und einfache Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "JJ's BBQ",
+            "tip": "Ha valami másra vágyik, mint a finn konyha, próbálja ki ezt az amerikai BBQ-éttermet."
+          },
+          {
+            "name": "ABC Kitee",
+            "tip": "Egy kényelmes benzinkút étteremmel egy gyors és egyszerű étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "JJ's BBQ",
+            "tip": "Dacă aveți poftă de altceva decât bucătăria finlandeză, încercați acest local cu specific american BBQ."
+          },
+          {
+            "name": "ABC Kitee",
+            "tip": "O benzinărie convenabilă cu un restaurant pentru o masă rapidă și ușoară."
+          }
+        ],
+        "en": [
+          {
+            "name": "JJ's BBQ",
+            "tip": "If you're craving something other than Finnish cuisine, try this American-style BBQ joint."
+          },
+          {
+            "name": "ABC Kitee",
+            "tip": "A convenient gas station with a restaurant for a quick and easy meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkte am Pyhäjärvi-See",
+            "tip": "Perfekt für einen ruhigen Abschluss des Tages.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Waldwege in der Nähe des Kitee Zoos",
+            "tip": "Machen Sie einen kurzen Spaziergang in der Natur, bevor Sie in die Stadt fahren.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópontok a Pyhäjärvi-tónál",
+            "tip": "Tökéletes a nap csendes lezárásához.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Erdei ösvények a Kiteei Állatkert közelében",
+            "tip": "Tegyen egy rövid sétát a természetben, mielőtt a városba indul.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puncte de belvedere la Lacul Pyhäjärvi",
+            "tip": "Perfect pentru a încheia ziua în liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Poteci forestiere lângă Grădina Zoologică Kitee",
+            "tip": "Faceți o scurtă plimbare în natură înainte de a vă îndrepta spre oraș.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoints at Lake Pyhäjärvi",
+            "tip": "Perfect for a quiet end to the day.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Forest trails near Kitee Zoo",
+            "tip": "Take a short walk in nature before heading into town.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Verkaufsladen im Kitee Zoo",
+            "tip": "Finden Sie tierbezogene Souvenirs und Geschenke."
+          },
+          {
+            "name": "Zentrum von Kitee",
+            "tip": "Kleine Boutiquen mit lokalen Handwerksprodukten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt a Kiteei Állatkertben",
+            "tip": "Találjon állatokkal kapcsolatos ajándéktárgyakat és ajándékokat."
+          },
+          {
+            "name": "Kitee központja",
+            "tip": "Kis butikok helyi kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri de la Grădina Zoologică Kitee",
+            "tip": "Găsiți suveniruri și cadouri legate de animale."
+          },
+          {
+            "name": "Centrul orașului Kitee",
+            "tip": "Mici buticuri cu produse de artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gift shop at Kitee Zoo",
+            "tip": "Find animal-related souvenirs and gifts."
+          },
+          {
+            "name": "Kitee town center",
+            "tip": "Small boutiques with local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Verwenden Sie eine Navigations-App, um zwischen den Clustern zu navigieren.",
+          "Parkgebühren können im Stadtzentrum anfallen.",
+          "Die Straßen sind in der Regel in gutem Zustand, aber fahren Sie vorsichtig auf kleineren Landstraßen.",
+          "Tanken Sie, bevor Sie ländlichere Gebiete erkunden."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a klaszterek közötti navigáláshoz.",
+          "A városközpontban parkolási díjak merülhetnek fel.",
+          "Az utak általában jó állapotban vannak, de vezessen óvatosan a kisebb vidéki utakon.",
+          "Tankoljon, mielőtt a vidéki területeket felfedezné."
+        ],
+        "ro": [
+          "Folosiți o aplicație de navigație pentru a vă deplasa între clustere.",
+          "Se pot aplica taxe de parcare în centrul orașului.",
+          "Drumurile sunt în general în stare bună, dar conduceți cu prudență pe drumurile rurale mai mici.",
+          "Alimentați cu combustibil înainte de a explora zonele mai rurale."
+        ],
+        "en": [
+          "Use a navigation app to get between the clusters.",
+          "Parking fees may apply in the town center.",
+          "Roads are generally in good condition, but drive carefully on smaller country roads.",
+          "Fill up your gas tank before exploring more rural areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Zentrum (Ankunft Bus)",
+            "hu": "1. klaszter: Központ (busz érkezés)",
+            "ro": "Cluster 1: Centru (Sosire autobuz)",
+            "en": "Cluster 1: Center (Bus Arrival)"
+          },
+          "coords": [
+            30.141,
+            62.101
+          ],
+          "category": "historic",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour an der zentralen Bushaltestelle.",
+            "hu": "Kezdje a túrát a központi buszmegállóból.",
+            "ro": "Începeți turul de la stația centrală de autobuz.",
+            "en": "Start your tour from the central bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche, Heimatmuseum & Nightwish-Ausstellung",
+            "hu": "Templom, Helytörténeti Múzeum és Nightwish Kiállítás",
+            "ro": "Biserica, Muzeul Local și Expoziția Nightwish",
+            "en": "Church, Local Museum & Nightwish Exhibition"
+          },
+          "coords": [
+            30.139,
+            62.102
+          ],
+          "category": "museums",
+          "arrive_at": "09:17",
+          "stay_min": 180,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese drei Hauptattraktionen liegen alle nahe beieinander.",
+            "hu": "Ez a három fő látnivaló mind közel van egymáshoz.",
+            "ro": "Aceste trei atracții principale sunt toate apropiate una de cealaltă.",
+            "en": "These three main attractions are all located close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            30.139,
+            62.098
+          ],
+          "category": "gastro",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit, bevor Sie den Bus zum nächsten Ziel nehmen.",
+            "hu": "Fogyasszon el egy ételt, mielőtt busszal indulna a következő úti célhoz.",
+            "ro": "Bucurați-vă de o masă înainte de a lua autobuzul spre următoarea destinație.",
+            "en": "Enjoy a meal before taking the bus to the next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Busfahrt zum Kitee Zoo",
+            "hu": "2. klaszter: Buszozás a Kiteei Állatkertbe",
+            "ro": "Cluster 2: Călătorie cu autobuzul la Grădina Zoologică Kitee",
+            "en": "Cluster 2: Bus ride to Kitee Zoo"
+          },
+          "coords": [
+            30.06,
+            62.14
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "14:11",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Bus zum Zoo. Prüfen Sie den Fahrplan im Voraus.",
+            "hu": "Menjen helyi busszal az állatkertbe. Előzetesen ellenőrizze a menetrendet.",
+            "ro": "Luați autobuzul local spre grădina zoologică. Verificați orarul în avans.",
+            "en": "Take the local bus to the zoo. Check the schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Busfahrt zum Pyhäjärvi See",
+            "hu": "3. klaszter: Buszozás a Pyhäjärvi-tóhoz",
+            "ro": "Cluster 3: Călătorie cu autobuzul la Lacul Pyhäjärvi",
+            "en": "Cluster 3: Bus ride to Lake Pyhäjärvi"
+          },
+          "coords": [
+            30.08,
+            62.09
+          ],
+          "category": "natural features",
+          "arrive_at": "16:43",
+          "stay_min": 62,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Einige Buslinien halten in der Nähe des Sees. Perfekt für einen abendlichen Spaziergang.",
+            "hu": "Néhány buszjárat megáll a tó közelében. Tökéletes egy esti sétához.",
+            "ro": "Unele rute de autobuz opresc lângă lac. Perfect pentru o plimbare de seară.",
+            "en": "Some bus routes stop near the lake. Perfect for an evening stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt im Zentrum von Kitee, wo Sie die wichtigsten kulturellen Sehenswürdigkeiten zu Fuß erkunden: die Kirche, das Heimatmuseum und die Nightwish-Ausstellung. Nach dem Mittagessen im Zentrum bringt Sie ein lokaler Bus in den Norden zum Kitee Zoo. Verbringen Sie den Nachmittag damit, die finnischen Tiere zu beobachten. Später am Nachmittag bringt Sie eine weitere Busfahrt zu den malerischen Ufern des Pyhäjärvi-Sees, ein perfekter Ort, um den Tag in Ruhe ausklingen zu lassen, bevor Sie den Bus zurück nehmen.",
+        "hu": "Tömegközlekedési túrája Kitee központjában kezdődik, ahol gyalogosan fedezi fel a főbb kulturális látnivalókat: a templomot, a helytörténeti múzeumot és a Nightwish kiállítást. A központban elköltött ebéd után egy helyi busz viszi északra a kiteei állatkertbe. Töltse a délutánt a finn állatok megfigyelésével. Később délután egy másik buszozás elviszi a Pyhäjärvi-tó festői partjára, amely tökéletes hely a nap békés lezárására, mielőtt visszaindulna a busszal.",
+        "ro": "Turul dumneavoastră cu transportul public începe în centrul orașului Kitee, unde explorați pe jos principalele atracții culturale: biserica, muzeul local și expoziția Nightwish. După prânz în centru, un autobuz local vă duce spre nord, la Grădina Zoologică Kitee. Petreceți după-amiaza observând animalele finlandeze. Mai târziu, o altă călătorie cu autobuzul vă duce pe malurile pitorești ale lacului Pyhäjärvi, un loc perfect pentru a încheia ziua în pace înainte de a lua autobuzul înapoi.",
+        "en": "Your public transport tour starts in the center of Kitee, exploring the main cultural sights on foot: the church, the local museum, and the Nightwish exhibition. After lunch in the center, a local bus takes you north to Kitee Zoo. Spend the afternoon observing the Finnish animals. Later in the afternoon, another bus ride takes you to the scenic shores of Lake Pyhäjärvi, a perfect spot to end the day peacefully before taking the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Cafés im Zentrum",
+            "tip": "Holen Sie sich einen Kaffee und ein Gebäck, während Sie auf den nächsten Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kávézók a központban",
+            "tip": "Igyon egy kávét és egy süteményt, amíg a következő buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele locale din centru",
+            "tip": "Luați o cafea și un produs de patiserie în timp ce așteptați următorul autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local cafés in the center",
+            "tip": "Grab a coffee and a pastry while waiting for the next bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Pyhäjärvi",
+            "tip": "Ein ruhiger Ort, der mit dem Bus erreichbar ist.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pyhäjärvi partja",
+            "tip": "Csendes, busszal megközelíthető hely.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Pyhäjärvi",
+            "tip": "Un loc liniștit accesibil cu autobuzul.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Pyhäjärvi",
+            "tip": "A quiet spot accessible by bus.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe der zentralen Bushaltestelle",
+            "tip": "Kaufen Sie Souvenirs, bevor Sie die Stadt verlassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a központi buszmegálló közelében",
+            "tip": "Vásároljon ajándéktárgyakat, mielőtt elhagyja a várost."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă stația centrală de autobuz",
+            "tip": "Cumpărați suveniruri înainte de a părăsi orașul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near the central bus station",
+            "tip": "Buy some souvenirs before you leave town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die lokale Busfahrplan-App herunter oder machen Sie ein Foto vom Fahrplan an der Haltestelle.",
+          "Kaufen Sie eine Tageskarte, wenn diese verfügbar ist, um Geld zu sparen.",
+          "Die Busse fahren auf dem Land möglicherweise nicht sehr oft, also planen Sie Ihre Zeit sorgfältig.",
+          "Seien Sie pünktlich an der Bushaltestelle."
+        ],
+        "hu": [
+          "Töltse le a helyi buszmenetrend-alkalmazást, vagy fényképezze le a menetrendet a megállóban.",
+          "Vásároljon napijegyet, ha elérhető, hogy pénzt takarítson meg.",
+          "A buszok vidéken ritkán járhatnak, ezért gondosan tervezze meg az idejét.",
+          "Érkezzen időben a buszmegállóba."
+        ],
+        "ro": [
+          "Descărcați aplicația cu orarul autobuzelor locale sau faceți o fotografie a orarului din stație.",
+          "Cumpărați un bilet de o zi dacă este disponibil pentru a economisi bani.",
+          "Autobuzele pot circula mai rar în zonele rurale, așa că planificați-vă timpul cu atenție.",
+          "Fiți la stația de autobuz la timp."
+        ],
+        "en": [
+          "Download the local bus schedule app or take a photo of the timetable at the stop.",
+          "Buy a day pass if available to save money.",
+          "Buses might not run very frequently in the countryside, so plan your time carefully.",
+          "Be at the bus stop on time."
+        ]
+      }
+    }
+  }
+}

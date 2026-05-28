@@ -1,0 +1,1457 @@
+{
+  "city_id": "spain-mataro-cities-v2",
+  "anchor": {
+    "name": "Mataró",
+    "coords": [
+      2.4447,
+      41.5381
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "La Riera",
+            "hu": "La Riera",
+            "ro": "La Riera",
+            "en": "La Riera"
+          },
+          "coords": [
+            2.4452,
+            41.5385
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der vielen Cafés an dieser Hauptschlagader der Stadt.",
+            "hu": "Kezdje a napot egy kávéval a város fő ütőerének számító sétány egyik kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele de pe această arteră principală a orașului.",
+            "en": "Start your day with a coffee at one of the many cafes along this main artery of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Coll i Regàs",
+            "hu": "Casa Coll i Regàs",
+            "ro": "Casa Coll i Regàs",
+            "en": "Casa Coll i Regàs"
+          },
+          "coords": [
+            2.4468,
+            41.5402
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernistischen Details dieses von Josep Puig i Cadafalch entworfenen Juwels.",
+            "hu": "Csodálja meg Josep Puig i Cadafalch modernista gyöngyszemének részleteit.",
+            "ro": "Admirați detaliile moderniste ale acestei bijuterii proiectate de Josep Puig i Cadafalch.",
+            "en": "Admire the modernist details of this gem designed by Josep Puig i Cadafalch."
+          }
+        },
+        {
+          "name": {
+            "de": "Basílica de Santa Maria",
+            "hu": "Santa Maria Bazilika",
+            "ro": "Bazilica Santa Maria",
+            "en": "Basilica of Santa Maria"
+          },
+          "coords": [
+            2.4485,
+            41.5408
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:54",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach der Kapelle „Capella dels Dolors“, einem Meisterwerk des lokalen Barocks.",
+            "hu": "Keresse a „Capella dels Dolors” kápolnát, a helyi barokk mesterművét.",
+            "ro": "Căutați Capela Durerilor (Capella dels Dolors), o capodoperă a barocului local.",
+            "en": "Look for the 'Capella dels Dolors' chapel, a masterpiece of local Baroque art."
+          }
+        },
+        {
+          "name": {
+            "de": "Nau Gaudí",
+            "hu": "Nau Gaudí",
+            "ro": "Nau Gaudí",
+            "en": "Nau Gaudí"
+          },
+          "coords": [
+            2.4421,
+            41.535
+          ],
+          "category": "museums",
+          "arrive_at": "12:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies war Gaudís erstes Gebäude überhaupt. Es beherbergt heute das Museum für zeitgenössische Kunst.",
+            "hu": "Ez volt Gaudí legelső épülete. Ma a Kortárs Művészeti Múzeumnak ad otthont.",
+            "ro": "Aceasta a fost prima clădire a lui Gaudí. Acum găzduiește muzeul de artă contemporană.",
+            "en": "This was Gaudí's very first building. It now houses the contemporary art museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Passeig Marítim",
+            "hu": "Passeig Marítim",
+            "ro": "Passeig Marítim",
+            "en": "Passeig Marítim"
+          },
+          "coords": [
+            2.451,
+            41.5335
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:42",
+          "stay_min": 180,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zeit für ein spätes Mittagessen mit Meeresfrüchten und Entspannung am Strand.",
+            "hu": "Ideje egy késői tengeri herkentyűs ebédnek és egy kis pihenésnek a tengerparton.",
+            "ro": "Timpul pentru un prânz târziu cu fructe de mare și relaxare pe plajă.",
+            "en": "Time for a late seafood lunch and some relaxation on the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Romana de Can Llauder",
+            "hu": "Can Llauder római villa",
+            "ro": "Vila Romană din Can Llauder",
+            "en": "Roman Villa of Can Llauder"
+          },
+          "coords": [
+            2.4401,
+            41.5321
+          ],
+          "category": "historical",
+          "arrive_at": "17:14",
+          "stay_min": 51,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Sprung zurück in die römische Vergangenheit der Stadt, ein schöner Abschluss für den historischen Teil.",
+            "hu": "Egy ugrás vissza a város római múltjába, szép lezárása a történelmi résznek.",
+            "ro": "Un salt înapoi în trecutul roman al orașului, un final frumos pentru partea istorică.",
+            "en": "A jump back into the city's Roman past, a nice end to the historical part."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Mataró beginnt im Herzen der Stadt, La Riera, wo Sie die lokale Atmosphäre aufsaugen. Am Vormittag tauchen Sie mit Besuchen der Casa Coll i Regàs und der Basilika Santa Maria in die modernistische und barocke Kunst ein. Der Mittag führt Sie zu Gaudís Anfängen in der Nau Gaudí. Der Nachmittag ist ganz der Entspannung am Passeig Marítim gewidmet, mit Sonne, Sand und Meer. Ihr Tag endet mit einer historischen Note in der römischen Villa Can Llauder und einem Spaziergang bei Sonnenuntergang.",
+        "hu": "Matarói napja a város szívében, a La Rierán kezdődik, ahol magába szívhatja a helyi hangulatot. A délelőtt a modernista és barokk művészet jegyében telik a Casa Coll i Regàs és a Santa Maria Bazilika meglátogatásával. Délben Gaudí kezdeteihez utazik a Nau Gaudíban. A délután a Passeig Marítimon való pihenésé, napfénnyel, homokkal és tengerrel. Napja a Can Llauder római villánál zárul egy történelmi érintéssel és egy naplementi sétával.",
+        "ro": "Ziua dvs. în Mataró începe în inima orașului, La Riera, absorbind atmosfera locală. Dimineața vă scufundă în arta modernistă și barocă cu vizite la Casa Coll i Regàs și Bazilica Santa Maria. La prânz vă veți întâlni cu începuturile lui Gaudí la Nau Gaudí. După-amiaza este dedicată relaxării pe Passeig Marítim, cu soare, nisip și mare. Ziua se încheie cu o notă istorică la Vila Romană Can Llauder și o plimbare la apus.",
+        "en": "Your day in Mataró begins in the heart of the city, La Riera, soaking up the local atmosphere. The morning immerses you in modernist and baroque art with visits to Casa Coll i Regàs and the Basilica of Santa Maria. Midday takes you to Gaudí's beginnings at Nau Gaudí. The afternoon is all about relaxation on the Passeig Marítim, with sun, sand, and sea. Your day concludes with a historical touch at the Roman Villa of Can Llauder and a sunset stroll."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gambes de Mataró",
+            "tip": "Probieren Sie die berühmten lokalen Garnelen, am besten gegrillt mit Knoblauch und Petersilie."
+          },
+          {
+            "name": "Sípia amb pèsols",
+            "tip": "Ein traditionelles Gericht aus Tintenfisch und Erbsen, ein Klassiker der Maresme-Küche."
+          },
+          {
+            "name": "Restaurant La Marinada",
+            "tip": "Bekannt für seine frischen Meeresfrüchte und Paellas direkt am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gambes de Mataró",
+            "tip": "Kóstolja meg a híres helyi garnélarákot, lehetőleg grillezve fokhagymával és petrezselyemmel."
+          },
+          {
+            "name": "Sípia amb pèsols",
+            "tip": "Tintahal borsóval, a Maresme-konyha hagyományos étele."
+          },
+          {
+            "name": "La Marinada Étterem",
+            "tip": "Friss tengeri ételeiről és paelláiról ismert, közvetlenül a tengerparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gambes de Mataró",
+            "tip": "Încercați faimoșii creveți locali, cel mai bine la grătar cu usturoi și pătrunjel."
+          },
+          {
+            "name": "Sípia amb pèsols",
+            "tip": "Un fel de mâncare tradițional cu sepie și mazăre, un clasic al bucătăriei din Maresme."
+          },
+          {
+            "name": "Restaurant La Marinada",
+            "tip": "Renumit pentru fructele de mare proaspete și paella, chiar pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gambes de Mataró",
+            "tip": "Try the famous local prawns, best grilled with garlic and parsley."
+          },
+          {
+            "name": "Sípia amb pèsols",
+            "tip": "A traditional cuttlefish and peas dish, a classic of Maresme cuisine."
+          },
+          {
+            "name": "La Marinada Restaurant",
+            "tip": "Known for its fresh seafood and paellas right on the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Strand",
+            "tip": "Finden Sie einen ruhigen Platz am Platja del Varador, um den Sonnenuntergang zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc Central",
+            "tip": "Ein entspannender Spaziergang durch diesen großen Stadtpark, weg vom Trubel.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Hafen von Mataró",
+            "tip": "Beobachten Sie die Boote, die im Hafen schaukeln, eine beruhigende maritime Szene.",
+            "emoji": "⛵"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a tengerparton",
+            "tip": "Keressen egy csendes helyet a Platja del Varador strandon a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc Central",
+            "tip": "Egy pihentető séta ezen a nagy városi parkon keresztül, távol a nyüzsgéstől.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Matarói kikötő",
+            "tip": "Nézze a kikötőben ringatózó hajókat, egy nyugtató tengeri jelenet.",
+            "emoji": "⛵"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare pe plajă",
+            "tip": "Găsiți un loc liniștit pe Platja del Varador pentru a privi apusul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc Central",
+            "tip": "O plimbare relaxantă prin acest mare parc urban, departe de agitație.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Portul Mataró",
+            "tip": "Priviți bărcile legănându-se în port, o scenă maritimă liniștitoare.",
+            "emoji": "⛵"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset on the beach",
+            "tip": "Find a quiet spot on Platja del Varador to watch the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc Central",
+            "tip": "A relaxing walk through this large urban park, away from the hustle and bustle.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Port of Mataró",
+            "tip": "Watch the boats bobbing in the harbor, a calming maritime scene.",
+            "emoji": "⛵"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercat de la Plaça de Cuba",
+            "tip": "Ein lebhafter Markt, auf dem Sie frische lokale Produkte und Delikatessen finden."
+          },
+          {
+            "name": "La Riera",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus bekannten Marken und lokalen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercat de la Plaça de Cuba",
+            "tip": "Élénk piac, ahol friss helyi termékeket és finomságokat talál."
+          },
+          {
+            "name": "La Riera",
+            "tip": "A fő bevásárlóutca ismert márkák és helyi butikok keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercat de la Plaça de Cuba",
+            "tip": "O piață plină de viață unde puteți găsi produse locale proaspete și delicatese."
+          },
+          {
+            "name": "La Riera",
+            "tip": "Strada principală de cumpărături, cu un amestec de mărci cunoscute și buticuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercat de la Plaça de Cuba",
+            "tip": "A bustling market where you can find fresh local produce and delicacies."
+          },
+          {
+            "name": "La Riera",
+            "tip": "The main shopping street with a mix of well-known brands and local boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Bleiben Sie hydriert, besonders an warmen Tagen.",
+          "Die meisten Geschäfte halten eine Siesta, planen Sie Ihren Einkauf entsprechend.",
+          "Ein leichter Pullover ist für den Abend am Meer nützlich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Fogyasszon elegendő folyadékot, különösen meleg napokon.",
+          "A legtöbb üzlet sziesztát tart, tervezze a vásárlást ennek megfelelően.",
+          "Egy könnyű pulóver hasznos lehet az esti tengerparti sétához."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Rămâneți hidratat, mai ales în zilele calde.",
+          "Majoritatea magazinelor respectă siesta, planificați-vă cumpărăturile în consecință.",
+          "Un pulover subțire este util pentru serile pe malul mării."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Stay hydrated, especially on warm days.",
+          "Most shops observe a siesta, so plan your shopping accordingly.",
+          "A light sweater is useful for the evening by the sea."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc Central",
+            "hu": "Parc Central",
+            "ro": "Parc Central",
+            "en": "Parc Central"
+          },
+          "coords": [
+            2.436,
+            41.542
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie mit einer leichten Radtour durch die grüne Lunge der Stadt.",
+            "hu": "Kezdje a napot egy könnyű kerékpártúrával a város zöld tüdejében.",
+            "ro": "Începeți cu o plimbare ușoară cu bicicleta prin plămânul verde al orașului.",
+            "en": "Start with a light bike ride through the city's green lung."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Romana de Can Llauder",
+            "hu": "Can Llauder római villa",
+            "ro": "Vila Romană din Can Llauder",
+            "en": "Roman Villa of Can Llauder"
+          },
+          "coords": [
+            2.4401,
+            41.5321
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie durch die Geschichte zu den Überresten des römischen Iluro.",
+            "hu": "Tekerjen át a történelmen a római Iluro maradványaihoz.",
+            "ro": "Pedalați prin istorie până la rămășițele romane din Iluro.",
+            "en": "Cycle through history to the remains of Roman Iluro."
+          }
+        },
+        {
+          "name": {
+            "de": "Nau Gaudí",
+            "hu": "Nau Gaudí",
+            "ro": "Nau Gaudí",
+            "en": "Nau Gaudí"
+          },
+          "coords": [
+            2.4421,
+            41.535
+          ],
+          "category": "museums",
+          "arrive_at": "11:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und entdecken Sie Gaudís erstes architektonisches Werk.",
+            "hu": "Parkolja le a biciklit és fedezze fel Gaudí első építészeti alkotását.",
+            "ro": "Parcați bicicleta și explorați prima lucrare arhitecturală a lui Gaudí.",
+            "en": "Park your bike and explore Gaudí's first architectural work."
+          }
+        },
+        {
+          "name": {
+            "de": "La Riera",
+            "hu": "La Riera",
+            "ro": "La Riera",
+            "en": "La Riera"
+          },
+          "coords": [
+            2.4452,
+            41.5385
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie durch die belebte Hauptstraße, um die Atmosphäre zu spüren.",
+            "hu": "Hajtson végig a nyüzsgő főutcán, hogy átérezze a hangulatot.",
+            "ro": "Pedalați pe strada principală plină de viață pentru a simți atmosfera.",
+            "en": "Ride down the bustling main street to feel the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Coll i Regàs",
+            "hu": "Casa Coll i Regàs",
+            "ro": "Casa Coll i Regàs",
+            "en": "Casa Coll i Regàs"
+          },
+          "coords": [
+            2.4468,
+            41.5402
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um dieses modernistische Meisterwerk von außen zu bewundern.",
+            "hu": "Egy gyors megálló, hogy kívülről megcsodálhassa ezt a modernista remekművet.",
+            "ro": "O scurtă oprire pentru a admira această capodoperă modernistă din exterior.",
+            "en": "A quick stop to admire this modernist masterpiece from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Basílica de Santa Maria",
+            "hu": "Santa Maria Bazilika",
+            "ro": "Bazilica Santa Maria",
+            "en": "Basilica of Santa Maria"
+          },
+          "coords": [
+            2.4485,
+            41.5408
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:54",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad ab und treten Sie ein, um die beeindruckende barocke Innenausstattung zu sehen.",
+            "hu": "Tegye le a kerékpárt, és lépjen be, hogy megnézze a lenyűgöző barokk belső teret.",
+            "ro": "Lăsați bicicleta și intrați pentru a vedea interiorul baroc impresionant.",
+            "en": "Lock up your bike and step inside to see the impressive baroque interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Passeig Marítim & Strand",
+            "hu": "Passeig Marítim és a strand",
+            "ro": "Passeig Marítim și Plaja",
+            "en": "Passeig Marítim & Beach"
+          },
+          "coords": [
+            2.455,
+            41.536
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:09",
+          "stay_min": 146,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer langen, entspannten Fahrt entlang der Küste und genießen Sie das Meer.",
+            "hu": "Zárja a napot egy hosszú, pihentető tekeréssel a part mentén, élvezve a tengert.",
+            "ro": "Încheiați ziua cu o plimbare lungă și relaxantă de-a lungul coastei, bucurându-vă de mare.",
+            "en": "End the day with a long, relaxed ride along the coast, enjoying the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in den Sattel für einen aktiven Tag in Mataró! Der Morgen beginnt grün im Parc Central und führt Sie dann auf eine historische Reise zur römischen Villa. Zur Mittagszeit erkunden Sie das Zentrum mit Gaudís erstem Werk, der belebten Riera und dem modernistischen Casa Coll i Regàs. Nach einem Besuch in der barocken Basilika verbringen Sie den restlichen Nachmittag mit einer erfrischenden Fahrt entlang des Passeig Marítim, wo der Strand zum Verweilen einlädt und ein wohlverdientes spätes Mittagessen wartet.",
+        "hu": "Pattanjon nyeregbe egy aktív napért Mataróban! A reggel a Parc Central zöldjében indul, majd egy történelmi utazásra visz a római villához. Délben felfedezheti a központot Gaudí első alkotásával, a nyüzsgő Rierával és a modernista Casa Coll i Regàs-szal. A barokk bazilika meglátogatása után a délután hátralévő részét a Passeig Marítim mentén egy frissítő kerékpártúrával tölti, ahol a strand pihenésre csábít és egy jól megérdemelt késői ebéd várja.",
+        "ro": "Urcați în șa pentru o zi activă în Mataró! Dimineața începe în verdele din Parc Central, apoi vă duce într-o călătorie istorică la vila romană. La prânz, explorați centrul cu prima lucrare a lui Gaudí, animata Riera și modernista Casă Coll i Regàs. După o vizită la bazilica barocă, petreceți restul după-amiezii cu o plimbare revigorantă de-a lungul Passeig Marítim, unde plaja vă invită să vă relaxați și vă așteaptă un prânz târziu binemeritat.",
+        "en": "Get in the saddle for an active day in Mataró! The morning starts green in Parc Central, then takes you on a historical journey to the Roman villa. At midday, you'll explore the center with Gaudí's first work, the bustling Riera, and the modernist Casa Coll i Regàs. After a visit to the baroque basilica, you'll spend the rest of the afternoon on a refreshing ride along the Passeig Marítim, where the beach invites you to relax and a well-deserved late lunch awaits."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Ein schneller und leckerer Snack, perfekt für eine Radtour."
+          },
+          {
+            "name": "Orxata",
+            "tip": "Ein erfrischendes Getränk aus Erdmandeln, ideal zur Abkühlung."
+          },
+          {
+            "name": "Xiringuito an der Platja del Varador",
+            "tip": "Genießen Sie gegrillte Sardinen mit Blick auf das Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Gyors és finom harapnivaló, tökéletes egy kerékpártúrához."
+          },
+          {
+            "name": "Orxata",
+            "tip": "Frissítő ital tigrismogyoróból, ideális a hűsöléshez."
+          },
+          {
+            "name": "Xiringuito a Platja del Varador-on",
+            "tip": "Élvezze a grillezett szardíniát a tengerre néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "O gustare rapidă și delicioasă, perfectă pentru o plimbare cu bicicleta."
+          },
+          {
+            "name": "Orxata",
+            "tip": "O băutură răcoritoare din alune tigrate, ideală pentru a vă răcori."
+          },
+          {
+            "name": "Xiringuito la Platja del Varador",
+            "tip": "Savurați sardine la grătar cu vedere la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "A quick and delicious fried squid sandwich, perfect for a bike tour break."
+          },
+          {
+            "name": "Orxata",
+            "tip": "A refreshing tiger nut milk drink, ideal for cooling down."
+          },
+          {
+            "name": "Xiringuito at Platja del Varador",
+            "tip": "Enjoy grilled sardines with a view of the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der Weg entlang des Hafens",
+            "tip": "Eine ruhigere Radroute als die Hauptpromenade.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Parc Central am späten Nachmittag",
+            "tip": "Kehren Sie für eine ruhige Pause im Schatten der Bäume zurück.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Die Felsen am Ende des Strandes",
+            "tip": "Ein großartiger Ort, um dem Trubel zu entfliehen und auf das Meer zu blicken.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A kikötő menti út",
+            "tip": "Csendesebb kerékpárút, mint a fő sétány."
+          },
+          {
+            "name": "Parc Central késő délután",
+            "tip": "Térjen vissza egy csendes pihenőre a fák árnyékában.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A sziklák a strand végén",
+            "tip": "Nagyszerű hely a tömeg elől való menekülésre és a tengerre nézésre.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calea de-a lungul portului",
+            "tip": "O rută de ciclism mai liniștită decât promenada principală.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Parc Central după-amiaza târziu",
+            "tip": "Întoarceți-vă pentru o pauză liniștită la umbra copacilor.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Stâncile de la capătul plajei",
+            "tip": "Un loc minunat pentru a evada din mulțime și a privi marea.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "The path along the harbor",
+            "tip": "A quieter cycling route than the main promenade.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Parc Central in the late afternoon",
+            "tip": "Return for a quiet break in the shade of the trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The rocks at the end of the beach",
+            "tip": "A great spot to escape the crowds and gaze at the sea.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Halten Sie Ausschau nach handgefertigter Keramik, einem schönen Souvenir aus der Region."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Mataró hat mehrere Fahrradgeschäfte, falls Sie Zubehör benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keresse a kézzel készített kerámiákat, egy szép emléket a régióból."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Mataróban több kerékpárbolt is található, ha kiegészítőkre van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică lucrată manual, un suvenir frumos din regiune."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Mataró are mai multe magazine de biciclete în caz că aveți nevoie de accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local pottery",
+            "tip": "Look out for handmade ceramics, a beautiful souvenir from the region."
+          },
+          {
+            "name": "Bike shops",
+            "tip": "Mataró has several bike shops in case you need any accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad am Bahnhof oder an der Promenade.",
+          "Schließen Sie Ihr Fahrrad immer gut ab.",
+          "Nutzen Sie die ausgewiesenen Radwege, besonders entlang der Küste.",
+          "Nehmen Sie viel Wasser mit."
+        ],
+        "hu": [
+          "Béreljen kerékpárt az állomáson vagy a sétányon.",
+          "Mindig zárja le jól a kerékpárját.",
+          "Használja a kijelölt kerékpárutakat, különösen a part mentén.",
+          "Vigyen magával sok vizet."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la gară sau de pe promenadă.",
+          "Legați-vă întotdeauna bine bicicleta.",
+          "Folosiți pistele de biciclete desemnate, în special de-a lungul coastei.",
+          "Luați multă apă cu dumneavoastră."
+        ],
+        "en": [
+          "Rent a bike near the train station or on the promenade.",
+          "Always lock your bike securely.",
+          "Use the designated bike lanes, especially along the coast.",
+          "Bring plenty of water."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Start: Villa Romana & Nau Gaudí",
+            "hu": "Klaszter Kezdete: Római Villa és Nau Gaudí",
+            "ro": "Start Cluster: Vila Romană & Nau Gaudí",
+            "en": "Cluster Start: Roman Villa & Nau Gaudí"
+          },
+          "coords": [
+            2.4401,
+            41.5321
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier. Beginnen Sie bei der römischen Villa und gehen Sie dann zu Fuß zu Gaudís erstem Gebäude.",
+            "hu": "Parkoljon itt. Kezdje a római villánál, majd sétáljon el Gaudí első épületéhez.",
+            "ro": "Parcați aici. Începeți la vila romană, apoi mergeți pe jos până la prima clădire a lui Gaudí.",
+            "en": "Park here. Start at the Roman Villa, then walk to Gaudí's first building."
+          }
+        },
+        {
+          "name": {
+            "de": "Nau Gaudí",
+            "hu": "Nau Gaudí",
+            "ro": "Nau Gaudí",
+            "en": "Nau Gaudí"
+          },
+          "coords": [
+            2.4421,
+            41.535
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Villa. Entdecken Sie die Anfänge des großen Architekten.",
+            "hu": "Rövid séta a villától. Fedezze fel a nagy építész kezdeteit.",
+            "ro": "O scurtă plimbare de la vilă. Descoperiți începuturile marelui arhitect.",
+            "en": "A short walk from the villa. Discover the great architect's beginnings."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: La Riera & Modernismus",
+            "hu": "Klaszter Központ: La Riera és Modernizmus",
+            "ro": "Cluster Centru: La Riera & Modernism",
+            "en": "Cluster Center: La Riera & Modernism"
+          },
+          "coords": [
+            2.4452,
+            41.5385
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum, finden Sie einen Parkplatz und erkunden Sie die Hauptstraße.",
+            "hu": "Vezessen a központba, keressen parkolót, és fedezze fel a főutcát.",
+            "ro": "Conduceți spre centru, găsiți o parcare și explorați strada principală.",
+            "en": "Drive to the center, find a parking spot, and explore the main street."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Coll i Regàs",
+            "hu": "Casa Coll i Regàs",
+            "ro": "Casa Coll i Regàs",
+            "en": "Casa Coll i Regàs"
+          },
+          "coords": [
+            2.4468,
+            41.5402
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von La Riera entfernt, ein Muss für Architekturliebhaber.",
+            "hu": "Csak pár lépésre a La Rierától, kötelező az építészet szerelmeseinek.",
+            "ro": "La doar câțiva pași de La Riera, o vizită obligatorie pentru iubitorii de arhitectură.",
+            "en": "Just a few steps from La Riera, a must-see for architecture lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Basílica de Santa Maria",
+            "hu": "Santa Maria Bazilika",
+            "ro": "Bazilica Santa Maria",
+            "en": "Basilica of Santa Maria"
+          },
+          "coords": [
+            2.4485,
+            41.5408
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang durch die Altstadt mit einem Besuch der Hauptkirche.",
+            "hu": "Fejezze be óvárosi sétáját a főtemplom meglátogatásával.",
+            "ro": "Încheiați plimbarea prin orașul vechi cu o vizită la biserica principală.",
+            "en": "Finish your old town walk with a visit to the main church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Küste: Passeig Marítim",
+            "hu": "Klaszter Part: Passeig Marítim",
+            "ro": "Cluster Coasta: Passeig Marítim",
+            "en": "Coastal Cluster: Passeig Marítim"
+          },
+          "coords": [
+            2.455,
+            41.536
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Strand für ein spätes Mittagessen und einen entspannten Nachmittag am Meer.",
+            "hu": "Vezessen le a partra egy késői ebédre és egy pihentető délutánra a tengernél.",
+            "ro": "Conduceți la plajă pentru un prânz târziu și o după-amiază relaxantă la malul mării.",
+            "en": "Drive down to the beach for a late lunch and a relaxing afternoon by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Mataró ist auf Effizienz ausgelegt. Sie beginnen mit dem historischen Cluster und erkunden zu Fuß die römische Villa und Gaudís erstes Werk. Danach fahren Sie ins Stadtzentrum, parken und entdecken den modernistischen Charme von La Riera und Casa Coll i Regàs. Der Nachmittag gehört ganz der Küste. Eine kurze Fahrt bringt Sie zum Passeig Marítim, wo Sie parken und den Rest des Tages mit Meeresfrüchten, Sonne und Meer verbringen.",
+        "hu": "Autós napja Mataróban a hatékonyság jegyében telik. A történelmi klaszterrel kezd, gyalogosan felfedezve a római villát és Gaudí első művét. Ezután a városközpontba hajt, leparkol, és felfedezi a La Riera és a Casa Coll i Regàs modernista báját. A délután a tengerparté. Egy rövid autóút a Passeig Marítimhoz viszi, ahol leparkolhat, és a nap hátralévő részét tengeri ételekkel, napfénnyel és a tengerrel töltheti.",
+        "ro": "Ziua cu mașina în Mataró este concepută pentru eficiență. Începeți cu clusterul istoric, explorând pe jos vila romană și prima lucrare a lui Gaudí. Apoi, conduceți spre centrul orașului, parcați și descoperiți farmecul modernist al La Riera și Casei Coll i Regàs. După-amiaza este dedicată coastei. O scurtă călătorie cu mașina vă duce la Passeig Marítim, unde parcați și petreceți restul zilei cu fructe de mare, soare și mare.",
+        "en": "Your car day in Mataró is designed for efficiency. You start with the historical cluster, exploring the Roman villa and Gaudí's first work on foot. Afterwards, you drive to the city center, park, and discover the modernist charm of La Riera and Casa Coll i Regàs. The afternoon is all about the coast. A short drive takes you to the Passeig Marítim, where you park and spend the rest of the day with seafood, sun, and sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Hafen",
+            "tip": "Viele Restaurants im Hafen bieten Parkplätze und frischen Fisch."
+          },
+          {
+            "name": "Menú del día",
+            "tip": "Suchen Sie nach Restaurants, die ein Mittagsmenü anbieten, ein tolles Preis-Leistungs-Verhältnis."
+          },
+          {
+            "name": "Can Miquel",
+            "tip": "Ein beliebtes Restaurant in der Nähe des Strandes, bekannt für seine traditionelle katalanische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a kikötőben",
+            "tip": "Sok kikötői étterem kínál parkolási lehetőséget és friss halat."
+          },
+          {
+            "name": "Menú del día",
+            "tip": "Keressen olyan éttermeket, amelyek napi menüt kínálnak, kiváló ár-érték arány."
+          },
+          {
+            "name": "Can Miquel",
+            "tip": "Népszerű étterem a strand közelében, hagyományos katalán konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în port",
+            "tip": "Multe restaurante din port oferă parcare și pește proaspăt."
+          },
+          {
+            "name": "Menú del día",
+            "tip": "Căutați restaurante care oferă un meniu de prânz, un raport calitate-preț excelent."
+          },
+          {
+            "name": "Can Miquel",
+            "tip": "Un restaurant popular lângă plajă, cunoscut pentru bucătăria sa tradițională catalană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at the port",
+            "tip": "Many restaurants in the port offer parking and fresh fish."
+          },
+          {
+            "name": "Menú del día",
+            "tip": "Look for restaurants offering a lunch menu (menu of the day), great value for money."
+          },
+          {
+            "name": "Can Miquel",
+            "tip": "A popular restaurant near the beach, known for its traditional Catalan cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt auf dem Weg aus der Stadt",
+            "tip": "Halten Sie an einem der Hügel für einen Panoramablick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen am Strand",
+            "tip": "Fahren Sie früh zum Strand, bevor die Menschenmassen ankommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc Forestal",
+            "tip": "Wenn Sie Zeit haben, ist eine kurze Fahrt zu diesem Waldpark ideal für Ruhe und Natur.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a városból kifelé vezető úton",
+            "tip": "Álljon meg az egyik dombon egy panorámás kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a tengerparton",
+            "tip": "Menjen le korán a partra, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc Forestal",
+            "tip": "Ha van ideje, egy rövid autóút ehhez az erdőparkhoz ideális a csendért és a természetért.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la ieșirea din oraș",
+            "tip": "Opriți-vă pe unul dintre dealuri pentru o vedere panoramică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme la plajă",
+            "tip": "Mergeți la plajă devreme, înainte de a ajunge mulțimea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc Forestal",
+            "tip": "Dacă aveți timp, o scurtă călătorie cu mașina la acest parc forestier este ideală pentru liniște și natură.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint on the way out of town",
+            "tip": "Stop at one of the hills for a panoramic view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning at the beach",
+            "tip": "Drive to the beach early before the crowds arrive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc Forestal",
+            "tip": "If you have time, a short drive to this forest park is ideal for peace and nature.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mataró Parc",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand mit vielen Parkplätzen."
+          },
+          {
+            "name": "Weingüter der Region Alella",
+            "tip": "Machen Sie einen kurzen Abstecher, um lokalen Wein direkt vom Erzeuger zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mataró Parc",
+            "tip": "Nagy bevásárlóközpont a város szélén, bőséges parkolási lehetőséggel."
+          },
+          {
+            "name": "Alella borvidék pincészetei",
+            "tip": "Tegyen egy rövid kitérőt, és vásároljon helyi bort közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mataró Parc",
+            "tip": "Un centru comercial mare la marginea orașului, cu parcare amplă."
+          },
+          {
+            "name": "Cramele din regiunea Alella",
+            "tip": "Faceți un scurt ocol pentru a cumpăra vin local direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mataró Parc",
+            "tip": "A large shopping center on the outskirts of the city with plenty of parking."
+          },
+          {
+            "name": "Wineries of the Alella region",
+            "tip": "Take a short detour to buy local wine directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf blaue Zonen für gebührenpflichtiges Parken.",
+          "Tiefgaragen sind im Zentrum die beste Option.",
+          "Planen Sie Ihre Route im Voraus, um Einbahnstraßen zu vermeiden.",
+          "Das Auto ist ideal, um auch nahegelegene Strände oder Dörfer zu besuchen."
+        ],
+        "hu": [
+          "Figyeljen a kék zónákra a fizetős parkolásnál.",
+          "A mélygarázsok a legjobb megoldás a központban.",
+          "Tervezze meg előre az útvonalat az egyirányú utcák elkerülése érdekében.",
+          "Az autó ideális a közeli strandok vagy falvak meglátogatásához is."
+        ],
+        "ro": [
+          "Fiți atenți la zonele albastre pentru parcare cu plată.",
+          "Parcările subterane sunt cea mai bună opțiune în centru.",
+          "Planificați-vă ruta în avans pentru a evita străzile cu sens unic.",
+          "Mașina este ideală pentru a vizita și plajele sau satele din apropiere."
+        ],
+        "en": [
+          "Pay attention to blue zones for paid street parking.",
+          "Underground car parks are the best option in the center.",
+          "Plan your route in advance to avoid one-way streets.",
+          "The car is ideal for also visiting nearby beaches or villages."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Bahnhof & Nau Gaudí",
+            "hu": "Kezdés: Pályaudvar és Nau Gaudí",
+            "ro": "Start: Gară & Nau Gaudí",
+            "en": "Start: Train Station & Nau Gaudí"
+          },
+          "coords": [
+            2.4421,
+            41.535
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag direkt am Bahnhof, wo sich Gaudís erstes Werk befindet.",
+            "hu": "Kezdje a napot közvetlenül a pályaudvarnál, ahol Gaudí első alkotása található.",
+            "ro": "Începeți ziua chiar de la gară, unde se află prima lucrare a lui Gaudí.",
+            "en": "Start your day right at the train station, where Gaudí's first work is located."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: La Riera",
+            "hu": "Klaszter Központ: La Riera",
+            "ro": "Cluster Centru: La Riera",
+            "en": "Cluster Center: La Riera"
+          },
+          "coords": [
+            2.4452,
+            41.5385
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus ins Herz der Stadt und steigen Sie an der Riera aus.",
+            "hu": "Menjen helyi busszal a város szívébe, és szálljon le a La Rieránál.",
+            "ro": "Luați un autobuz local spre inima orașului și coborâți la Riera.",
+            "en": "Take a local bus into the heart of the city and get off at La Riera."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Coll i Regàs",
+            "hu": "Casa Coll i Regàs",
+            "ro": "Casa Coll i Regàs",
+            "en": "Casa Coll i Regàs"
+          },
+          "coords": [
+            2.4468,
+            41.5402
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, um dieses modernistische Juwel zu entdecken.",
+            "hu": "Rövid séta e modernista gyöngyszem felfedezéséhez.",
+            "ro": "O scurtă plimbare pentru a descoperi această bijuterie modernistă.",
+            "en": "A short walk to discover this modernist gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Basílica de Santa Maria",
+            "hu": "Santa Maria Bazilika",
+            "ro": "Bazilica Santa Maria",
+            "en": "Basilica of Santa Maria"
+          },
+          "coords": [
+            2.4485,
+            41.5408
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang durch die Altstadt zur beeindruckenden Basilika fort.",
+            "hu": "Folytassa sétáját az óvárosban a lenyűgöző bazilikáig.",
+            "ro": "Continuați plimbarea prin orașul vechi până la impresionanta bazilică.",
+            "en": "Continue your walk through the old town to the impressive basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Küste: Passeig Marítim",
+            "hu": "Klaszter Part: Passeig Marítim",
+            "ro": "Cluster Coasta: Passeig Marítim",
+            "en": "Coastal Cluster: Passeig Marítim"
+          },
+          "coords": [
+            2.455,
+            41.536
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein Bus bringt Sie direkt zum Strand, wo Sie den Nachmittag verbringen können.",
+            "hu": "Egy busz egyenesen a tengerpartra viszi, ahol a délutánt töltheti.",
+            "ro": "Un autobuz vă va duce direct la plajă, unde vă puteți petrece după-amiaza.",
+            "en": "A bus will take you directly to the beach area to spend the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Romana de Can Llauder",
+            "hu": "Can Llauder római villa",
+            "ro": "Vila Romană din Can Llauder",
+            "en": "Roman Villa of Can Llauder"
+          },
+          "coords": [
+            2.4401,
+            41.5321
+          ],
+          "category": "historical",
+          "arrive_at": "17:09",
+          "stay_min": 50,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter kurzer Spaziergang vom Strand zu den römischen Ruinen, bevor Sie den Zug zurück nehmen.",
+            "hu": "Egy utolsó rövid séta a strandról a római romokhoz, mielőtt visszaindulna a vonattal.",
+            "ro": "O ultimă plimbare scurtă de la plajă la ruinele romane înainte de a lua trenul înapoi.",
+            "en": "A final short walk from the beach to the Roman ruins before taking the train back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln entdecken Sie Mataró ganz entspannt. Sie starten am Bahnhof bei Gaudís Nau, bevor ein Bus Sie ins Zentrum bringt. Dort erkunden Sie zu Fuß La Riera, Casa Coll i Regàs und die Basilika. Ein weiterer Bus bringt Sie am Nachmittag zum Strand für eine ausgedehnte Pause mit Mittagessen. Der Tag endet mit einem Spaziergang zu den römischen Ruinen, günstig gelegen für Ihre Rückfahrt mit dem Zug.",
+        "hu": "A tömegközlekedéssel kényelmesen felfedezheti Matarót. A Gaudí Nau-nál, a pályaudvarnál kezd, mielőtt egy busz a központba vinne. Ott gyalogosan fedezi fel a La Rierát, a Casa Coll i Regàs-t és a bazilikát. Délután egy másik busz a tengerpartra viszi egy hosszabb ebédszünetre. A nap a római romokhoz tett sétával zárul, amely kényelmesen helyezkedik el a vonattal való visszautazáshoz.",
+        "ro": "Folosind transportul public, explorați Mataró într-un mod relaxat. Începeți la gară, la Nau Gaudí, înainte ca un autobuz să vă ducă în centru. Acolo, explorați pe jos La Riera, Casa Coll i Regàs și bazilica. Un alt autobuz vă duce la plajă după-amiaza pentru o pauză lungă de prânz. Ziua se încheie cu o plimbare până la ruinele romane, convenabil situate pentru călătoria de întoarcere cu trenul.",
+        "en": "Using public transport, you'll discover Mataró in a relaxed way. You start at the train station at Gaudí's Nau before a bus takes you to the center. There, you explore La Riera, Casa Coll i Regàs, and the basilica on foot. Another bus takes you to the beach in the afternoon for a long lunch break. The day ends with a walk to the Roman ruins, conveniently located for your train journey back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich ein Gebäck für die Busfahrt."
+          },
+          {
+            "name": "Tapas-Bar in der Nähe von La Riera",
+            "tip": "Perfekt für ein schnelles und authentisches Mittagessen."
+          },
+          {
+            "name": "Eisdiele am Passeig Marítim",
+            "tip": "Belohnen Sie sich nach dem Spaziergang in der Sonne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Vegyen egy süteményt a buszútra."
+          },
+          {
+            "name": "Tapas bár a La Riera közelében",
+            "tip": "Tökéletes egy gyors és autentikus ebédhez."
+          },
+          {
+            "name": "Fagylaltozó a Passeig Marítimon",
+            "tip": "Jutalmazza meg magát a napon való séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați un produs de patiserie pentru călătoria cu autobuzul."
+          },
+          {
+            "name": "Bar de tapas lângă La Riera",
+            "tip": "Perfect pentru un prânz rapid și autentic."
+          },
+          {
+            "name": "Gelaterie pe Passeig Marítim",
+            "tip": "Recompensați-vă după plimbarea la soare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakery",
+            "tip": "Grab a pastry for the bus ride."
+          },
+          {
+            "name": "Tapas bar near La Riera",
+            "tip": "Perfect for a quick and authentic lunch."
+          },
+          {
+            "name": "Ice cream shop on the Passeig Marítim",
+            "tip": "Reward yourself after your walk in the sun."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Zugfahrt entlang der Küste",
+            "tip": "Genießen Sie die Aussicht auf das Meer, bevor Sie ankommen.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "Eine Bank im Parc Central",
+            "tip": "Wenn Sie Zeit zwischen den Bussen haben, ist dies ein ruhiger Ort.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Der Friedhof von Les Valls",
+            "tip": "Ein ungewöhnlicher, aber sehr ruhiger und schöner Ort, erreichbar mit dem Bus.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vonatút a part mentén",
+            "tip": "Élvezze a tengerre nyíló kilátást, mielőtt megérkezik.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "Egy pad a Parc Centralban",
+            "tip": "Ha van ideje a buszok között, ez egy csendes hely."
+          },
+          {
+            "name": "A Les Valls temető",
+            "tip": "Szokatlan, de nagyon csendes és szép hely, busszal elérhető.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu trenul de-a lungul coastei",
+            "tip": "Bucurați-vă de vederea la mare înainte de a ajunge.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "O bancă în Parc Central",
+            "tip": "Dacă aveți timp între autobuze, acesta este un loc liniștit."
+          },
+          {
+            "name": "Cimitirul Les Valls",
+            "tip": "Un loc neobișnuit, dar foarte liniștit și frumos, accesibil cu autobuzul.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "The train ride along the coast",
+            "tip": "Enjoy the sea views before you even arrive.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "A bench in Parc Central",
+            "tip": "If you have time between buses, it's a peaceful spot.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Les Valls Cemetery",
+            "tip": "An unusual but very peaceful and beautiful place, reachable by bus.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Kaufen Sie eine Zeitung oder ein Magazin für die Reise."
+          },
+          {
+            "name": "Geschäfte in der Altstadt",
+            "tip": "Unterstützen Sie lokale Handwerker und Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Újságos a pályaudvaron",
+            "tip": "Vásároljon újságot vagy magazint az utazáshoz."
+          },
+          {
+            "name": "Üzletek az óvárosban",
+            "tip": "Támogassa a helyi kézműveseket és butikokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Cumpărați un ziar sau o revistă pentru călătorie."
+          },
+          {
+            "name": "Magazine în orașul vechi",
+            "tip": "Sprijiniți artizanii și buticurile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the train station",
+            "tip": "Buy a newspaper or magazine for the journey."
+          },
+          {
+            "name": "Shops in the old town",
+            "tip": "Support local artisans and boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine T-10-Karte für mehrere Fahrten.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders an Wochenenden.",
+          "Die meisten Busse sind klimatisiert.",
+          "Der Zug von Barcelona ist eine einfache und malerische Möglichkeit, Mataró zu erreichen."
+        ],
+        "hu": [
+          "Vásároljon T-10-es jegyet több utazáshoz.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén.",
+          "A legtöbb busz légkondicionált.",
+          "A barcelonai vonat egy egyszerű és festői módja Mataró elérésének."
+        ],
+        "ro": [
+          "Cumpărați un card T-10 pentru mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Majoritatea autobuzelor au aer condiționat.",
+          "Trenul din Barcelona este o modalitate ușoară și pitorească de a ajunge în Mataró."
+        ],
+        "en": [
+          "Buy a T-10 card for multiple journeys.",
+          "Check bus schedules in advance, especially on weekends.",
+          "Most buses are air-conditioned.",
+          "The train from Barcelona is an easy and scenic way to reach Mataró."
+        ]
+      }
+    }
+  }
+}

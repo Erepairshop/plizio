@@ -1,0 +1,1572 @@
+{
+  "city_id": "uk-derby-cities-v2",
+  "anchor": {
+    "name": "Derby",
+    "coords": [
+      -1.4746,
+      52.9225
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale von Derby",
+            "hu": "Derby-i katedrális",
+            "ro": "Catedrala din Derby",
+            "en": "Derby Cathedral"
+          },
+          "coords": [
+            -1.478,
+            52.924
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf das Grabmal von Bess of Hardwick und den Turm, der der zweithöchste in Großbritannien ist.",
+            "hu": "Keresse meg Bess of Hardwick síremlékét és a tornyot, amely a második legmagasabb az Egyesült Királyságban.",
+            "ro": "Căutați mormântul lui Bess of Hardwick și turnul, al doilea cel mai înalt din Marea Britanie.",
+            "en": "Look for the tomb of Bess of Hardwick and the tower, which is the second tallest in the UK."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum und Kunstgalerie Derby",
+            "hu": "Derby Múzeum és Képtár",
+            "ro": "Muzeul și Galeria de Artă din Derby",
+            "en": "Derby Museum and Art Gallery"
+          },
+          "coords": [
+            -1.481,
+            52.923
+          ],
+          "category": "museums",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Werke von Joseph Wright of Derby, einem berühmten lokalen Künstler.",
+            "hu": "Ne hagyja ki a híres helyi művész, Joseph Wright of Derby alkotásait.",
+            "ro": "Nu ratați lucrările lui Joseph Wright of Derby, un faimos artist local.",
+            "en": "Don't miss the works of Joseph Wright of Derby, a famous local artist."
+          }
+        },
+        {
+          "name": {
+            "de": "Pickford's House Museum",
+            "hu": "Pickford-ház Múzeum",
+            "ro": "Casa Muzeu Pickford",
+            "en": "Pickford's House Museum"
+          },
+          "coords": [
+            -1.485,
+            52.921
+          ],
+          "category": "museums",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erleben Sie das georgianische Leben und sehen Sie sich die Ausstellungen von Spielzeug und Kostümen an.",
+            "hu": "Tapasztalja meg a georgiánus kor hangulatát, és nézze meg a játék- és jelmezkiállításokat.",
+            "ro": "Experimentați viața georgiană și vedeți expozițiile de jucării și costume.",
+            "en": "Experience Georgian life and see the displays of toys and costumes."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of Making",
+            "hu": "Museum of Making (Iparmúzeum)",
+            "ro": "Muzeul Meșteșugurilor (Museum of Making)",
+            "en": "Museum of Making"
+          },
+          "coords": [
+            -1.472,
+            52.921
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:01",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Befindet sich in der ersten Fabrik der Welt. Interagieren Sie mit den praktischen Ausstellungen.",
+            "hu": "A világ első gyárának helyén áll. Próbálja ki az interaktív kiállítási tárgyakat!",
+            "ro": "Situat în prima fabrică din lume. Interacționați cu exponatele practice.",
+            "en": "Located on the site of the world's first factory. Get hands-on with the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Mary's Kirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica St Mary",
+            "en": "St Mary's Church"
+          },
+          "coords": [
+            -1.479,
+            52.926
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für neugotische Architektur, entworfen von Pugin.",
+            "hu": "A neogótikus építészet gyönyörű példája, Pugin tervezte.",
+            "ro": "Un exemplu frumos de arhitectură neogotică, proiectat de Pugin.",
+            "en": "A fine example of Gothic Revival architecture, designed by Pugin."
+          }
+        },
+        {
+          "name": {
+            "de": "Guildhall Theatre",
+            "hu": "Guildhall Színház",
+            "ro": "Teatrul Guildhall",
+            "en": "Guildhall Theatre"
+          },
+          "coords": [
+            -1.476,
+            52.922
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:03",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auch wenn Sie keine Vorstellung besuchen, bewundern Sie das Gebäude am Marktplatz.",
+            "hu": "Ha nem is megy előadásra, csodálja meg az épületet a piactéren.",
+            "ro": "Chiar dacă nu mergeți la un spectacol, admirați clădirea din Piața Pieței.",
+            "en": "Even if not attending a show, admire the building on the Market Place."
+          }
+        },
+        {
+          "name": {
+            "de": "Darley Park",
+            "hu": "Darley Park",
+            "ro": "Parcul Darley",
+            "en": "Darley Park"
+          },
+          "coords": [
+            -1.478,
+            52.935
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:36",
+          "stay_min": 39,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie am Fluss Derwent oder erkunden Sie die National Hydrangea Collection.",
+            "hu": "Pihenjen a Derwent folyó partján, vagy fedezze fel a Nemzeti Hortenzia Gyűjteményt.",
+            "ro": "Relaxați-vă lângă râul Derwent sau explorați Colecția Națională de Hortensii.",
+            "en": "Relax by the River Derwent or explore the National Hydrangea Collection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Derby, dem Cathedral Quarter. Bewundern Sie die beeindruckende Architektur und die ruhige Atmosphäre der Kathedrale, bevor Sie in die reiche Kunstszene im Derby Museum eintauchen.\nAm Mittag erkunden Sie das georgianische Erbe der Stadt im Pickford's House. Nach einem stärkenden Mittagessen ist es Zeit, Derbys industrielle Seele im Museum of Making zu entdecken, einem Zeugnis für Innovation am Standort der ersten Fabrik der Welt.\nDer Nachmittag ist eine Mischung aus sakraler Kunst und Kultur. Besuchen Sie die neugotische St. Mary's Church und werfen Sie einen Blick auf das Guildhall Theatre am belebten Marktplatz, um einen Eindruck von der lokalen Kulturszene zu bekommen.\nLassen Sie Ihren Tag mit einem gemütlichen Spaziergang durch den Darley Park ausklingen. Die friedliche Umgebung entlang des Flusses Derwent bietet den perfekten Abschluss für Ihre Erkundungstour durch Derby, bei der Sie sich entspannen und die Erlebnisse des Tages Revue passieren lassen können.",
+        "hu": "Kezdje a napot Derby történelmi szívében, a Katedrális negyedben. Csodálja meg a katedrális lenyűgöző építészetét és nyugodt légkörét, mielőtt elmerülne a Derby Múzeum gazdag művészeti világában.\nDélben fedezze fel a város georgiánus örökségét a Pickford-házban. Egy kiadós ebéd után ideje felfedezni Derby ipari lelkét a Museum of Making-ben, amely az innováció emlékműve a világ első gyárának helyén.\nA délután a szakrális művészet és a kultúra keveréke. Látogasson el a neogótikus Szent Mária-templomba, majd pillantson be a nyüzsgő piactéren álló Guildhall Színházba, hogy ízelítőt kapjon a helyi kulturális életből.\nZárja a napot egy kellemes sétával a Darley Parkban. A Derwent folyó menti békés környezet tökéletes befejezése Derby felfedezésének, ahol pihenhet és felidézheti a nap élményeit.",
+        "ro": "Începeți ziua în inima istorică a orașului Derby, Cartierul Catedralei. Admirați arhitectura impresionantă și atmosfera senină a catedralei înainte de a vă scufunda în bogata scenă artistică la Muzeul Derby.\nLa prânz, explorați moștenirea georgiană a orașului la Casa Pickford. După un prânz consistent, este timpul să descoperiți sufletul industrial al orașului Derby la Muzeul Meșteșugurilor, un testament al inovației pe locul primei fabrici din lume.\nDupă-amiaza este un amestec de artă sacră și cultură. Vizitați Biserica neogotică St Mary și apoi aruncați o privire la Teatrul Guildhall din Piața plină de viață, pentru a simți pulsul scenei culturale locale.\nÎncheiați-vă ziua cu o plimbare relaxantă prin Parcul Darley. Cadrul liniștit de-a lungul râului Derwent oferă finalul perfect pentru explorarea Derby-ului, permițându-vă să vă relaxați și să reflectați asupra experiențelor zilei.",
+        "en": "Begin your day in Derby's historic heart, the Cathedral Quarter. Admire the impressive architecture and serene atmosphere of the cathedral before diving into the rich art scene at the Derby Museum.\nAt midday, explore the city's Georgian heritage at Pickford's House. After a hearty lunch, it's time to discover Derby's industrial soul at the Museum of Making, a testament to innovation on the site of the world's first factory.\nThe afternoon is a blend of sacred art and culture. Visit the neo-gothic St Mary's Church and then glimpse the Guildhall Theatre in the bustling Market Place, getting a feel for the local performing arts scene.\nConclude your day with a leisurely stroll through Darley Park. The peaceful setting along the River Derwent provides the perfect end to your exploration of Derby, allowing you to unwind and reflect on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Derbyshire Oatcakes",
+            "tip": "Ein lokaler herzhafter Pfannkuchen, den man auf dem Markt probieren kann."
+          },
+          {
+            "name": "Bakewell Pudding",
+            "tip": "Obwohl aus einer Nachbarstadt, ist er in ganz Derbyshire eine beliebte Süßspeise."
+          },
+          {
+            "name": "Real Ale",
+            "tip": "Derby ist berühmt für seine Pubs; besuchen Sie einen traditionellen Pub wie das 'Ye Olde Dolphin Inne'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Derbyshire-i zabpalacsinta",
+            "tip": "Helyi sós palacsinta, érdemes megkóstolni a piacon."
+          },
+          {
+            "name": "Bakewell puding",
+            "tip": "Bár egy szomszédos városból származik, egész Derbyshire-ben népszerű édesség."
+          },
+          {
+            "name": "Valódi Ale (Real Ale)",
+            "tip": "Derby híres a pubjairól; látogasson el egy hagyományos helyre, mint a 'Ye Olde Dolphin Inne'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Clătite din ovăz din Derbyshire",
+            "tip": "O clătită sărată locală, o delicatesă de încercat în piață."
+          },
+          {
+            "name": "Budinca Bakewell",
+            "tip": "Deși provine dintr-un oraș învecinat, este un desert îndrăgit în tot Derbyshire."
+          },
+          {
+            "name": "Bere Real Ale",
+            "tip": "Derby este renumit pentru pub-urile sale; vizitați unul tradițional precum 'Ye Olde Dolphin Inne'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Derbyshire Oatcakes",
+            "tip": "A local savoury pancake, a must-try from the market."
+          },
+          {
+            "name": "Bakewell Pudding",
+            "tip": "Though from a neighbouring town, it's a beloved sweet treat across Derbyshire."
+          },
+          {
+            "name": "Real Ale",
+            "tip": "Derby is famous for its pubs; visit a traditional one like 'Ye Olde Dolphin Inne'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Derwent",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses, besonders durch den Darley Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Derby Arboretum",
+            "tip": "Englands erster öffentlicher Park, ein ruhiger Ort zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kathedrale von Derby (ruhige Stunden)",
+            "tip": "Besuchen Sie die Kathedrale früh am Morgen für einen Moment der stillen Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Derwent folyó partja",
+            "tip": "Békés séta a folyó mentén, különösen a Darley Parkon keresztül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Derby Arborétum",
+            "tip": "Anglia első nyilvános parkja, csendes hely a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Derby-i katedrális (csendes órák)",
+            "tip": "Látogasson el kora reggel a katedrálisba egy csendes elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Derwent",
+            "tip": "O plimbare liniștită de-a lungul râului, în special prin Parcul Darley.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arboretul din Derby",
+            "tip": "Primul parc public din Anglia, un loc liniștit pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Catedrala din Derby (ore liniștite)",
+            "tip": "Vizitați dimineața devreme pentru un moment de reflecție tăcută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Derwent Banks",
+            "tip": "A peaceful walk along the river, especially through Darley Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Derby Arboretum",
+            "tip": "England's first public park, a quiet spot for relaxation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Derby Cathedral (quiet hours)",
+            "tip": "Visit early in the morning for a moment of quiet reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cathedral Quarter",
+            "tip": "Bekannt für seine unabhängigen Boutiquen, Designerläden und Cafés."
+          },
+          {
+            "name": "Derby Market Hall",
+            "tip": "Eine viktorianische Markthalle mit frischen Produkten, lokalen Waren und einzigartigen Ständen."
+          },
+          {
+            "name": "Sadler Gate",
+            "tip": "Eine der ältesten Straßen Derbys, gesäumt von hochwertigen, unabhängigen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katedrális negyed",
+            "tip": "Független butikjairól, dizájnerboltjairól és kávézóiról ismert."
+          },
+          {
+            "name": "Derby-i vásárcsarnok",
+            "tip": "Viktoriánus vásárcsarnok friss termékekkel, helyi árukkal és egyedi standokkal."
+          },
+          {
+            "name": "Sadler Gate",
+            "tip": "Derby egyik legrégebbi utcája, tele minőségi, független üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartierul Catedralei",
+            "tip": "Renumit pentru buticurile sale independente, magazinele de designer și cafenele."
+          },
+          {
+            "name": "Hala Pieței din Derby",
+            "tip": "O hală de piață victoriană care oferă produse proaspete, bunuri locale și tarabe unice."
+          },
+          {
+            "name": "Sadler Gate",
+            "tip": "Una dintre cele mai vechi străzi din Derby, plină de magazine independente de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Quarter",
+            "tip": "Known for its independent boutiques, designer stores, and cafes."
+          },
+          {
+            "name": "Derby Market Hall",
+            "tip": "A Victorian market hall offering fresh produce, local goods, and unique stalls."
+          },
+          {
+            "name": "Sadler Gate",
+            "tip": "One of Derby's oldest streets, lined with high-quality, independent shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster im Cathedral Quarter uneben sein kann.",
+          "Die meisten Museen in Derby sind kostenlos, aber Spenden sind willkommen.",
+          "Überprüfen Sie die Öffnungszeiten der Kathedrale im Voraus, da sie wegen Gottesdiensten geschlossen sein kann.",
+          "Derby ist recht kompakt, was es ideal für eine Erkundung zu Fuß macht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a Katedrális negyed macskakövei egyenetlenek lehetnek.",
+          "A legtöbb derby-i múzeum ingyenes, de az adományokat szívesen fogadják.",
+          "Előre ellenőrizze a katedrális nyitvatartási idejét, mert istentiszteletek miatt zárva lehet.",
+          "Derby meglehetősen kompakt, így ideális a gyalogos felfedezéshez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele din Cartierul Catedralei pot fi denivelate.",
+          "Majoritatea muzeelor din Derby sunt gratuite, dar donațiile sunt apreciate.",
+          "Verificați în prealabil programul catedralei, deoarece poate fi închisă pentru slujbe.",
+          "Derby este destul de compact, ceea ce îl face ideal pentru a fi explorat pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the Cathedral Quarter can be uneven.",
+          "Most museums in Derby are free to enter, but donations are welcome.",
+          "Check cathedral opening times in advance as it may be closed for services.",
+          "Derby is quite compact, making it ideal to explore on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Markeaton Park",
+            "hu": "Markeaton Park",
+            "ro": "Parcul Markeaton",
+            "en": "Markeaton Park"
+          },
+          "coords": [
+            -1.505,
+            52.928
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier für eine entspannte Einführung in die Stadt. Es gibt Fahrradwege im Park.",
+            "hu": "Kezdje itt a napot egy laza városnézéssel. A parkban kerékpárutak is vannak.",
+            "ro": "Începeți aici pentru o introducere relaxată în oraș. Există piste de biciclete în parc.",
+            "en": "Start here for a relaxed introduction to the city. There are cycle paths within the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of Making",
+            "hu": "Museum of Making (Iparmúzeum)",
+            "ro": "Muzeul Meșteșugurilor (Museum of Making)",
+            "en": "Museum of Making"
+          },
+          "coords": [
+            -1.472,
+            52.921
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:28",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und tauchen Sie ein in die industrielle Revolution.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el az ipari forradalom világában.",
+            "ro": "Asigurați-vă bicicleta și scufundați-vă în Revoluția Industrială.",
+            "en": "Lock your bike securely and dive into the Industrial Revolution."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Derby",
+            "hu": "Derby-i katedrális",
+            "ro": "Catedrala din Derby",
+            "en": "Derby Cathedral"
+          },
+          "coords": [
+            -1.478,
+            52.924
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie die Ruhe dieses historischen Wahrzeichens.",
+            "hu": "Parkolja le a kerékpárt, és élvezze e történelmi nevezetesség nyugalmát.",
+            "ro": "Parcați bicicleta și bucurați-vă de liniștea acestui reper istoric.",
+            "en": "Park your bike and enjoy the tranquility of this historic landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum und Kunstgalerie Derby",
+            "hu": "Derby Múzeum és Képtár",
+            "ro": "Muzeul și Galeria de Artă din Derby",
+            "en": "Derby Museum and Art Gallery"
+          },
+          "coords": [
+            -1.481,
+            52.923
+          ],
+          "category": "museums",
+          "arrive_at": "13:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt von der Kathedrale entfernt, perfekt für eine Dosis Kultur am Nachmittag.",
+            "hu": "Csak egy rövid tekerésre a katedrálistól, tökéletes egy délutáni kulturális feltöltődéshez.",
+            "ro": "La o scurtă plimbare cu bicicleta de catedrală, perfect pentru o doză de cultură de după-amiază.",
+            "en": "A short ride from the cathedral, perfect for an afternoon dose of culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Pickford's House Museum",
+            "hu": "Pickford-ház Múzeum",
+            "ro": "Casa Muzeu Pickford",
+            "en": "Pickford's House Museum"
+          },
+          "coords": [
+            -1.485,
+            52.921
+          ],
+          "category": "museums",
+          "arrive_at": "15:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie durch das georgianische Viertel, um dieses charmante Museum zu erreichen.",
+            "hu": "Tekerjen át a georgiánus negyeden, hogy elérje ezt a bájos múzeumot.",
+            "ro": "Pedalați prin cartierul georgian pentru a ajunge la acest muzeu fermecător.",
+            "en": "Cycle through the Georgian quarter to reach this charming museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Darley Park",
+            "hu": "Darley Park",
+            "ro": "Parcul Darley",
+            "en": "Darley Park"
+          },
+          "coords": [
+            -1.478,
+            52.935
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:28",
+          "stay_min": 57,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer malerischen Fahrt zum Darley Park entlang des National Cycle Network Route 54.",
+            "hu": "Zárja a kerékpártúrát egy festői tekeréssel a Darley Parkba az 54-es Nemzeti Kerékpárútvonalon.",
+            "ro": "Încheiați turul cu bicicleta cu o plimbare pitorească spre Parcul Darley de-a lungul Rutei Naționale de Ciclism 54.",
+            "en": "End your cycle tour with a scenic ride to Darley Park along the National Cycle Network Route 54."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag mit einer erfrischenden Radtour durch den weitläufigen Markeaton Park. Von dort aus führt Sie eine angenehme Fahrt zum Museum of Making, wo Sie in die industrielle Vergangenheit Derbys eintauchen können.\nAm Mittag radeln Sie ins Herz der Stadt, um die majestätische Kathedrale von Derby zu besichtigen. Nach einer Pause geht es weiter zum nahegelegenen Museum und zur Kunstgalerie, wo Sie die künstlerischen Schätze der Region entdecken können.\nAm Nachmittag führt Sie Ihre Route durch das elegante georgianische Viertel zum Pickford's House Museum, das einen Einblick in das Leben des 18. Jahrhunderts bietet.\nSchließen Sie Ihren Tag mit einer entspannten Fahrt entlang des Flusses zum wunderschönen Darley Park ab. Es ist der perfekte Ort, um sich nach einem Tag voller Entdeckungen auf zwei Rädern zu entspannen und die Natur zu genießen.",
+        "hu": "Kezdje a napot egy frissítő kerékpározással a tágas Markeaton Parkban. Innen egy kellemes út vezet a Museum of Making-hez, ahol elmerülhet Derby ipari múltjában.\nDélben tekerjen be a város szívébe, hogy megnézze a fenséges Derby-i katedrálist. Egy pihenő után irány a közeli Múzeum és Képtár, ahol felfedezheti a régió művészeti kincseit.\nDélután az útvonal az elegáns georgiánus negyeden keresztül vezet a Pickford-ház Múzeumhoz, amely bepillantást enged a 18. századi életbe.\nZárja a napot egy pihentető tekeréssel a folyó mentén a gyönyörű Darley Parkba. Ez a tökéletes hely a pihenésre és a természet élvezetére egy két keréken töltött felfedező nap után.",
+        "ro": "Începeți ziua cu o plimbare revigorantă cu bicicleta prin vastul Parc Markeaton. De acolo, o plimbare plăcută vă va duce la Muzeul Meșteșugurilor, unde puteți pătrunde în trecutul industrial al orașului Derby.\nLa prânz, pedalați spre inima orașului pentru a vizita majestuoasa Catedrală din Derby. După o pauză, continuați spre Muzeul și Galeria de Artă din apropiere pentru a descoperi comorile artistice ale regiunii.\nDupă-amiaza, traseul vă duce prin elegantul cartier georgian la Casa Muzeu Pickford, oferind o privire asupra vieții din secolul al XVIII-lea.\nÎncheiați ziua cu o plimbare relaxantă de-a lungul râului spre frumosul Parc Darley. Este locul perfect pentru a vă relaxa și a vă bucura de natură după o zi de explorare pe două roți.",
+        "en": "Kick off your day with a refreshing cycle through the expansive Markeaton Park. From there, a pleasant ride will take you to the Museum of Making, where you can immerse yourself in Derby's industrial past.\nAt midday, pedal into the heart of the city to visit the majestic Derby Cathedral. After a break, continue to the nearby Museum and Art Gallery to discover the region's artistic treasures.\nIn the afternoon, your route takes you through the elegant Georgian Quarter to Pickford's House Museum, offering a glimpse into 18th-century life.\nConclude your day with a relaxing ride along the river to the beautiful Darley Park. It's the perfect spot to unwind and enjoy nature after a day of exploration on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Derbyshire Oatcakes",
+            "tip": "Ein lokaler herzhafter Pfannkuchen, den man auf dem Markt probieren kann."
+          },
+          {
+            "name": "Bakewell Pudding",
+            "tip": "Obwohl aus einer Nachbarstadt, ist er in ganz Derbyshire eine beliebte Süßspeise."
+          },
+          {
+            "name": "Real Ale",
+            "tip": "Derby ist berühmt für seine Pubs; besuchen Sie einen traditionellen Pub wie das 'Ye Olde Dolphin Inne'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Derbyshire-i zabpalacsinta",
+            "tip": "Helyi sós palacsinta, érdemes megkóstolni a piacon."
+          },
+          {
+            "name": "Bakewell puding",
+            "tip": "Bár egy szomszédos városból származik, egész Derbyshire-ben népszerű édesség."
+          },
+          {
+            "name": "Valódi Ale (Real Ale)",
+            "tip": "Derby híres a pubjairól; látogasson el egy hagyományos helyre, mint a 'Ye Olde Dolphin Inne'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Clătite din ovăz din Derbyshire",
+            "tip": "O clătită sărată locală, o delicatesă de încercat în piață."
+          },
+          {
+            "name": "Budinca Bakewell",
+            "tip": "Deși provine dintr-un oraș învecinat, este un desert îndrăgit în tot Derbyshire."
+          },
+          {
+            "name": "Bere Real Ale",
+            "tip": "Derby este renumit pentru pub-urile sale; vizitați unul tradițional precum 'Ye Olde Dolphin Inne'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Derbyshire Oatcakes",
+            "tip": "A local savoury pancake, a must-try from the market."
+          },
+          {
+            "name": "Bakewell Pudding",
+            "tip": "Though from a neighbouring town, it's a beloved sweet treat across Derbyshire."
+          },
+          {
+            "name": "Real Ale",
+            "tip": "Derby is famous for its pubs; visit a traditional one like 'Ye Olde Dolphin Inne'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Derwent",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses, besonders durch den Darley Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Derby Arboretum",
+            "tip": "Englands erster öffentlicher Park, ein ruhiger Ort zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kathedrale von Derby (ruhige Stunden)",
+            "tip": "Besuchen Sie die Kathedrale früh am Morgen für einen Moment der stillen Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Derwent folyó partja",
+            "tip": "Békés séta a folyó mentén, különösen a Darley Parkon keresztül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Derby Arborétum",
+            "tip": "Anglia első nyilvános parkja, csendes hely a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Derby-i katedrális (csendes órák)",
+            "tip": "Látogasson el kora reggel a katedrálisba egy csendes elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Derwent",
+            "tip": "O plimbare liniștită de-a lungul râului, în special prin Parcul Darley.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arboretul din Derby",
+            "tip": "Primul parc public din Anglia, un loc liniștit pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Catedrala din Derby (ore liniștite)",
+            "tip": "Vizitați dimineața devreme pentru un moment de reflecție tăcută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Derwent Banks",
+            "tip": "A peaceful walk along the river, especially through Darley Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Derby Arboretum",
+            "tip": "England's first public park, a quiet spot for relaxation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Derby Cathedral (quiet hours)",
+            "tip": "Visit early in the morning for a moment of quiet reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cathedral Quarter",
+            "tip": "Bekannt für seine unabhängigen Boutiquen, Designerläden und Cafés."
+          },
+          {
+            "name": "Derby Market Hall",
+            "tip": "Eine viktorianische Markthalle mit frischen Produkten, lokalen Waren und einzigartigen Ständen."
+          },
+          {
+            "name": "Sadler Gate",
+            "tip": "Eine der ältesten Straßen Derbys, gesäumt von hochwertigen, unabhängigen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katedrális negyed",
+            "tip": "Független butikjairól, dizájnerboltjairól és kávézóiról ismert."
+          },
+          {
+            "name": "Derby-i vásárcsarnok",
+            "tip": "Viktoriánus vásárcsarnok friss termékekkel, helyi árukkal és egyedi standokkal."
+          },
+          {
+            "name": "Sadler Gate",
+            "tip": "Derby egyik legrégebbi utcája, tele minőségi, független üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartierul Catedralei",
+            "tip": "Renumit pentru buticurile sale independente, magazinele de designer și cafenele."
+          },
+          {
+            "name": "Hala Pieței din Derby",
+            "tip": "O hală de piață victoriană care oferă produse proaspete, bunuri locale și tarabe unice."
+          },
+          {
+            "name": "Sadler Gate",
+            "tip": "Una dintre cele mai vechi străzi din Derby, plină de magazine independente de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Quarter",
+            "tip": "Known for its independent boutiques, designer stores, and cafes."
+          },
+          {
+            "name": "Derby Market Hall",
+            "tip": "A Victorian market hall offering fresh produce, local goods, and unique stalls."
+          },
+          {
+            "name": "Sadler Gate",
+            "tip": "One of Derby's oldest streets, lined with high-quality, independent shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die ausgewiesenen Radwege, insbesondere entlang des Flusses Derwent (National Cycle Route 54).",
+          "Tragen Sie einen Helm und schließen Sie Ihr Fahrrad an den dafür vorgesehenen Ständern sicher ab.",
+          "Einige zentrale Bereiche können belebt sein; seien Sie bereit, vom Rad zu steigen und zu schieben.",
+          "Ein leichtes Fahrradschloss wird empfohlen, da Sie es den ganzen Tag über mit sich führen werden."
+        ],
+        "hu": [
+          "Használja a kijelölt kerékpárutakat, különösen a Derwent folyó mentén (54-es Nemzeti Kerékpárútvonal).",
+          "Viseljen sisakot, és biztonságosan zárja le a kerékpárját a kijelölt tárolókban.",
+          "Néhány központi terület forgalmas lehet; készüljön fel arra, hogy leszáll és tolja a kerékpárt.",
+          "Javasolt egy könnyű kerékpárzár, mivel egész nap magával kell vinnie."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete desemnate, în special de-a lungul râului Derwent (Ruta Națională de Ciclism 54).",
+          "Purtați cască și asigurați-vă bicicleta la standurile desemnate.",
+          "Unele zone centrale pot fi aglomerate; fiți pregătit să descălecați și să mergeți pe lângă bicicletă.",
+          "Se recomandă un lacăt de bicicletă ușor, deoarece îl veți căra cu dvs. toată ziua."
+        ],
+        "en": [
+          "Utilise the designated cycle paths, especially along the River Derwent (National Cycle Route 54).",
+          "Wear a helmet and lock your bike securely at designated stands.",
+          "Some central areas can be busy; be prepared to dismount and walk your bike.",
+          "A lightweight bike lock is recommended as you'll be carrying it all day."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken im Cathedral Quarter",
+            "hu": "Parkolás a Katedrális negyedben",
+            "ro": "Parcare în Cartierul Catedralei",
+            "en": "Park at Cathedral Quarter"
+          },
+          "coords": [
+            -1.477,
+            52.925
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto für den Vormittag. Das Parkhaus Chapel Street ist eine gute Option.",
+            "hu": "Parkolja le az autót a délelőttre. A Chapel Street parkolóház jó választás.",
+            "ro": "Parcați mașina pentru dimineață. Parcarea Chapel Street este o opțiune bună.",
+            "en": "Park your car for the morning. Chapel Street car park is a good option."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Derby",
+            "hu": "Derby-i katedrális",
+            "ro": "Catedrala din Derby",
+            "en": "Derby Cathedral"
+          },
+          "coords": [
+            -1.478,
+            52.924
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Parkplatz entfernt, um Ihren Tag zu beginnen.",
+            "hu": "Csak egy rövid séta a parkolótól, hogy elkezdje a napot.",
+            "ro": "La o scurtă plimbare de parcare pentru a vă începe ziua.",
+            "en": "Just a short walk from the car park to begin your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum und Kunstgalerie Derby",
+            "hu": "Derby Múzeum és Képtár",
+            "ro": "Muzeul și Galeria de Artă din Derby",
+            "en": "Derby Museum and Art Gallery"
+          },
+          "coords": [
+            -1.481,
+            52.923
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das Stadtzentrum, um dieses kulturelle Juwel zu erreichen.",
+            "hu": "Sétáljon át a városközponton, hogy elérje ezt a kulturális gyöngyszemet.",
+            "ro": "Plimbați-vă prin centrul orașului pentru a ajunge la această bijuterie culturală.",
+            "en": "Stroll through the city centre to reach this cultural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of Making",
+            "hu": "Museum of Making (Iparmúzeum)",
+            "ro": "Muzeul Meșteșugurilor (Museum of Making)",
+            "en": "Museum of Making"
+          },
+          "coords": [
+            -1.472,
+            52.921
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:18",
+          "stay_min": 120,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museum und parken Sie in der Nähe. Es markiert den Beginn Ihres zweiten Erkundungsclusters.",
+            "hu": "Vezessen a múzeumhoz, és parkoljon a közelben. Ez a második felfedező körútjának kezdete.",
+            "ro": "Conduceți la muzeu și parcați în apropiere. Acesta marchează începutul celui de-al doilea grup de explorare.",
+            "en": "Drive to the museum and park nearby. This marks the start of your second cluster of exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Darley Park",
+            "hu": "Darley Park",
+            "ro": "Parcul Darley",
+            "en": "Darley Park"
+          },
+          "coords": [
+            -1.478,
+            52.935
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang entlang des Flusses vom Museum of Making aus.",
+            "hu": "Kellemes séta a folyó mentén a Museum of Making-től.",
+            "ro": "O plimbare plăcută de-a lungul râului de la Muzeul Meșteșugurilor.",
+            "en": "A pleasant walk along the river from the Museum of Making."
+          }
+        },
+        {
+          "name": {
+            "de": "Markeaton Park",
+            "hu": "Markeaton Park",
+            "ro": "Parcul Markeaton",
+            "en": "Markeaton Park"
+          },
+          "coords": [
+            -1.505,
+            52.928
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu Derbys größtem Park für einen entspannten Nachmittag mit verschiedenen Aktivitäten.",
+            "hu": "Vezessen el Derby legnagyobb parkjába egy pihentető délutánra, ahol különféle tevékenységek várják.",
+            "ro": "Conduceți spre cel mai mare parc din Derby pentru o după-amiază relaxantă, cu diverse activități.",
+            "en": "Drive to Derby's largest park for a relaxing afternoon with various activities."
+          }
+        },
+        {
+          "name": {
+            "de": "Pickford's House Museum",
+            "hu": "Pickford-ház Múzeum",
+            "ro": "Casa Muzeu Pickford",
+            "en": "Pickford's House Museum"
+          },
+          "coords": [
+            -1.485,
+            52.921
+          ],
+          "category": "museums",
+          "arrive_at": "17:30",
+          "stay_min": 54,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Markeaton Park aus können Sie leicht zum georgianischen Viertel laufen, um Ihre Tour abzuschließen.",
+            "hu": "A Markeaton Parkból könnyedén átsétálhat a georgiánus negyedbe, hogy befejezze a túrát.",
+            "ro": "Din Parcul Markeaton, este o plimbare ușoară până în cartierul georgian pentru a vă încheia turul.",
+            "en": "From Markeaton Park, it's an easy walk to the Georgian Quarter to finish your tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Cathedral Quarter parken. Erkunden Sie zu Fuß die historische Kathedrale und das nahegelegene Museum, um in die Kunst und Geschichte Derbys einzutauchen.\nAm Mittag fahren Sie zum nächsten Cluster, dem Museum of Making. Nach der Erkundung dieses industriellen Wahrzeichens können Sie einen Spaziergang entlang des Flusses zum ruhigen Darley Park machen, perfekt für eine Mittagspause.\nDer Nachmittag ist der Natur und der Entspannung gewidmet. Fahren Sie zum weitläufigen Markeaton Park, wo Sie an Aktivitäten teilnehmen oder einfach die grüne Umgebung genießen können.\nSchließen Sie Ihren Tag mit einem kurzen Spaziergang vom Park zum Pickford's House ab. Diese letzte Station im charmanten georgianischen Viertel rundet Ihre Erkundung von Derbys vielfältigem Erbe ab.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját a Katedrális negyedben. Fedezze fel gyalog a történelmi katedrálist és a közeli múzeumot, hogy elmerüljön Derby művészetében és történelmében.\nDélben vezessen át a következő ponthoz, a Museum of Making-hez. Miután felfedezte ezt az ipari nevezetességet, tegyen egy sétát a folyó mentén a békés Darley Parkba, amely tökéletes egy ebéd utáni pihenőhöz.\nA délutánt a természetnek és a kikapcsolódásnak szentelje. Vezessen a tágas Markeaton Parkba, ahol részt vehet a különféle programokon, vagy egyszerűen csak élvezheti a zöld környezetet.\nZárja a napot egy rövid sétával a parktól a Pickford-házig. Ez az utolsó megálló a bájos georgiánus negyedben teszi teljessé Derby változatos örökségének felfedezését.",
+        "ro": "Începeți ziua parcând mașina în Cartierul Catedralei. Explorați pe jos catedrala istorică și muzeul din apropiere pentru a vă cufunda în arta și istoria orașului Derby.\nLa prânz, conduceți către următorul grup, Muzeul Meșteșugurilor. După ce explorați acest punct de reper industrial, faceți o plimbare de-a lungul râului până la liniștitul Parc Darley, perfect pentru o pauză de prânz.\nDupă-amiaza este dedicată naturii și relaxării. Conduceți spre vastul Parc Markeaton, unde puteți participa la activități sau pur și simplu vă puteți bucura de împrejurimile verzi.\nÎncheiați ziua cu o scurtă plimbare de la parc la Casa Pickford. Această oprire finală în fermecătorul cartier georgian completează explorarea moștenirii diverse a orașului Derby.",
+        "en": "Start your day by parking in the Cathedral Quarter. Explore on foot the historic cathedral and the nearby museum to immerse yourself in Derby's art and history.\nAt midday, drive to your next cluster, the Museum of Making. After exploring this industrial landmark, take a walk along the river to the tranquil Darley Park, perfect for a lunch break.\nThe afternoon is dedicated to nature and relaxation. Drive to the expansive Markeaton Park, where you can engage in activities or simply enjoy the green surroundings.\nConclude your day with a short walk from the park to Pickford's House. This final stop in the charming Georgian Quarter rounds off your exploration of Derby's diverse heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Derbyshire Oatcakes",
+            "tip": "Ein lokaler herzhafter Pfannkuchen, den man auf dem Markt probieren kann."
+          },
+          {
+            "name": "Bakewell Pudding",
+            "tip": "Obwohl aus einer Nachbarstadt, ist er in ganz Derbyshire eine beliebte Süßspeise."
+          },
+          {
+            "name": "Real Ale",
+            "tip": "Derby ist berühmt für seine Pubs; besuchen Sie einen traditionellen Pub wie das 'Ye Olde Dolphin Inne'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Derbyshire-i zabpalacsinta",
+            "tip": "Helyi sós palacsinta, érdemes megkóstolni a piacon."
+          },
+          {
+            "name": "Bakewell puding",
+            "tip": "Bár egy szomszédos városból származik, egész Derbyshire-ben népszerű édesség."
+          },
+          {
+            "name": "Valódi Ale (Real Ale)",
+            "tip": "Derby híres a pubjairól; látogasson el egy hagyományos helyre, mint a 'Ye Olde Dolphin Inne'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Clătite din ovăz din Derbyshire",
+            "tip": "O clătită sărată locală, o delicatesă de încercat în piață."
+          },
+          {
+            "name": "Budinca Bakewell",
+            "tip": "Deși provine dintr-un oraș învecinat, este un desert îndrăgit în tot Derbyshire."
+          },
+          {
+            "name": "Bere Real Ale",
+            "tip": "Derby este renumit pentru pub-urile sale; vizitați unul tradițional precum 'Ye Olde Dolphin Inne'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Derbyshire Oatcakes",
+            "tip": "A local savoury pancake, a must-try from the market."
+          },
+          {
+            "name": "Bakewell Pudding",
+            "tip": "Though from a neighbouring town, it's a beloved sweet treat across Derbyshire."
+          },
+          {
+            "name": "Real Ale",
+            "tip": "Derby is famous for its pubs; visit a traditional one like 'Ye Olde Dolphin Inne'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Derwent",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses, besonders durch den Darley Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Derby Arboretum",
+            "tip": "Englands erster öffentlicher Park, ein ruhiger Ort zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kathedrale von Derby (ruhige Stunden)",
+            "tip": "Besuchen Sie die Kathedrale früh am Morgen für einen Moment der stillen Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Derwent folyó partja",
+            "tip": "Békés séta a folyó mentén, különösen a Darley Parkon keresztül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Derby Arborétum",
+            "tip": "Anglia első nyilvános parkja, csendes hely a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Derby-i katedrális (csendes órák)",
+            "tip": "Látogasson el kora reggel a katedrálisba egy csendes elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Derwent",
+            "tip": "O plimbare liniștită de-a lungul râului, în special prin Parcul Darley.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arboretul din Derby",
+            "tip": "Primul parc public din Anglia, un loc liniștit pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Catedrala din Derby (ore liniștite)",
+            "tip": "Vizitați dimineața devreme pentru un moment de reflecție tăcută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Derwent Banks",
+            "tip": "A peaceful walk along the river, especially through Darley Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Derby Arboretum",
+            "tip": "England's first public park, a quiet spot for relaxation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Derby Cathedral (quiet hours)",
+            "tip": "Visit early in the morning for a moment of quiet reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cathedral Quarter",
+            "tip": "Bekannt für seine unabhängigen Boutiquen, Designerläden und Cafés."
+          },
+          {
+            "name": "Derby Market Hall",
+            "tip": "Eine viktorianische Markthalle mit frischen Produkten, lokalen Waren und einzigartigen Ständen."
+          },
+          {
+            "name": "Sadler Gate",
+            "tip": "Eine der ältesten Straßen Derbys, gesäumt von hochwertigen, unabhängigen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katedrális negyed",
+            "tip": "Független butikjairól, dizájnerboltjairól és kávézóiról ismert."
+          },
+          {
+            "name": "Derby-i vásárcsarnok",
+            "tip": "Viktoriánus vásárcsarnok friss termékekkel, helyi árukkal és egyedi standokkal."
+          },
+          {
+            "name": "Sadler Gate",
+            "tip": "Derby egyik legrégebbi utcája, tele minőségi, független üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartierul Catedralei",
+            "tip": "Renumit pentru buticurile sale independente, magazinele de designer și cafenele."
+          },
+          {
+            "name": "Hala Pieței din Derby",
+            "tip": "O hală de piață victoriană care oferă produse proaspete, bunuri locale și tarabe unice."
+          },
+          {
+            "name": "Sadler Gate",
+            "tip": "Una dintre cele mai vechi străzi din Derby, plină de magazine independente de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Quarter",
+            "tip": "Known for its independent boutiques, designer stores, and cafes."
+          },
+          {
+            "name": "Derby Market Hall",
+            "tip": "A Victorian market hall offering fresh produce, local goods, and unique stalls."
+          },
+          {
+            "name": "Sadler Gate",
+            "tip": "One of Derby's oldest streets, lined with high-quality, independent shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die „Park and Ride“-Dienste, um Verkehr im Stadtzentrum zu vermeiden.",
+          "Parkplätze können teuer sein; Tageskarten sind oft günstiger.",
+          "Planen Sie Ihre Fahrten außerhalb der Stoßzeiten, um Staus zu vermeiden.",
+          "Überprüfen Sie die Parkbeschränkungen sorgfältig, besonders in der Nähe von Sehenswürdigkeiten."
+        ],
+        "hu": [
+          "Használja a P+R (Park and Ride) szolgáltatásokat a belvárosi forgalom elkerülése érdekében.",
+          "A parkolás drága lehet; a napijegyek gyakran olcsóbbak.",
+          "Tervezze az utazásait a csúcsidőn kívülre a dugók elkerülése érdekében.",
+          "Gondosan ellenőrizze a parkolási korlátozásokat, különösen a látnivalók közelében."
+        ],
+        "ro": [
+          "Utilizați serviciile Park and Ride pentru a evita traficul din centrul orașului.",
+          "Parcarea poate fi costisitoare; biletele de o zi sunt adesea mai ieftine.",
+          "Planificați-vă călătoriile în afara orelor de vârf pentru a evita ambuteiajele.",
+          "Verificați cu atenție restricțiile de parcare, în special în apropierea atracțiilor."
+        ],
+        "en": [
+          "Utilise Park and Ride services to avoid city centre traffic.",
+          "Parking can be expensive; all-day tickets are often cheaper.",
+          "Plan your drives outside of peak hours to avoid congestion.",
+          "Check parking restrictions carefully, especially near attractions."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale von Derby",
+            "hu": "Derby-i katedrális",
+            "ro": "Catedrala din Derby",
+            "en": "Derby Cathedral"
+          },
+          "coords": [
+            -1.478,
+            52.924
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie im Herzen der Stadt, leicht erreichbar von der Hauptbushaltestelle.",
+            "hu": "Kezdje a város szívében, amely könnyen megközelíthető a fő buszmegállótól.",
+            "ro": "Începeți în inima orașului, ușor accesibil de la autogara principală.",
+            "en": "Start in the heart of the city, easily accessible from the main bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Guildhall Theatre",
+            "hu": "Guildhall Színház",
+            "ro": "Teatrul Guildhall",
+            "en": "Guildhall Theatre"
+          },
+          "coords": [
+            -1.476,
+            52.922
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch den Marktplatz von der Kathedrale.",
+            "hu": "Egy rövid séta a Piactéren át a katedrálistól.",
+            "ro": "O scurtă plimbare prin Piața Pieței de la catedrală.",
+            "en": "A short walk across the Market Place from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum und Kunstgalerie Derby",
+            "hu": "Derby Múzeum és Képtár",
+            "ro": "Muzeul și Galeria de Artă din Derby",
+            "en": "Derby Museum and Art Gallery"
+          },
+          "coords": [
+            -1.481,
+            52.923
+          ],
+          "category": "museums",
+          "arrive_at": "10:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang fort, um die Kunstsammlungen von Derby zu erkunden.",
+            "hu": "Folytassa sétáját, hogy felfedezze Derby művészeti gyűjteményeit.",
+            "ro": "Continuați-vă plimbarea pentru a explora colecțiile de artă din Derby.",
+            "en": "Continue your walk to explore Derby's art collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Pickford's House Museum",
+            "hu": "Pickford-ház Múzeum",
+            "ro": "Casa Muzeu Pickford",
+            "en": "Pickford's House Museum"
+          },
+          "coords": [
+            -1.485,
+            52.921
+          ],
+          "category": "museums",
+          "arrive_at": "12:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen kurzen Bus vom Stadtzentrum zum georgianischen Viertel.",
+            "hu": "Menjen egy rövid buszúttal a városközpontból a georgiánus negyedbe.",
+            "ro": "Luați un autobuz pe o distanță scurtă din centrul orașului până în cartierul georgian.",
+            "en": "Take a short bus ride from the city centre to the Georgian Quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Mary's Kirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica St Mary",
+            "en": "St Mary's Church"
+          },
+          "coords": [
+            -1.479,
+            52.926
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von Pickford's House aus leicht zu Fuß erreichbar, bewundern Sie die Architektur von Pugin.",
+            "hu": "Könnyű séta a Pickford-háztól, csodálja meg Pugin építészetét.",
+            "ro": "La o plimbare ușoară de Casa Pickford, admirați arhitectura lui Pugin.",
+            "en": "An easy walk from Pickford's House, admire Pugin's architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of Making",
+            "hu": "Museum of Making (Iparmúzeum)",
+            "ro": "Muzeul Meșteșugurilor (Museum of Making)",
+            "en": "Museum of Making"
+          },
+          "coords": [
+            -1.472,
+            52.921
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:07",
+          "stay_min": 120,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Silk Mill und entdecken Sie Derbys innovatives Erbe.",
+            "hu": "Menjen busszal a Selyemgyárhoz, és fedezze fel Derby innovatív örökségét.",
+            "ro": "Luați un autobuz spre Moara de Mătase și descoperiți moștenirea inovatoare a orașului Derby.",
+            "en": "Hop on a bus to the Silk Mill and discover Derby's innovative heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Darley Park",
+            "hu": "Darley Park",
+            "ro": "Parcul Darley",
+            "en": "Darley Park"
+          },
+          "coords": [
+            -1.478,
+            52.935
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem entspannenden Spaziergang zum nahegelegenen Park am Flussufer.",
+            "hu": "Zárja a napot egy pihentető sétával a közeli folyóparti parkba.",
+            "ro": "Încheiați-vă ziua cu o plimbare relaxantă spre parcul din apropiere, de pe malul râului.",
+            "en": "End your day with a relaxing walk to the nearby riverside park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Cathedral Quarter, das leicht mit dem Bus erreichbar ist. Erkunden Sie diesen zentralen Bereich zu Fuß, von der Kathedrale über den Marktplatz bis zum Museum und der Kunstgalerie, und nehmen Sie die historische Atmosphäre in sich auf.\nAm Mittag nehmen Sie einen Bus zum eleganten georgianischen Viertel. Besuchen Sie das Pickford's House Museum und spazieren Sie dann zur beeindruckenden St. Mary's Church, um ein Gefühl für die architektonische Vielfalt Derbys zu bekommen.\nAm Nachmittag bringt Sie eine weitere Busfahrt zum Museum of Making, einem Highlight des industriellen Erbes der Stadt. Tauchen Sie ein in die Geschichte der Innovation.\nSchließen Sie Ihre Erkundungstour mit einem friedlichen Spaziergang vom Museum zum nahegelegenen Darley Park ab. Es ist der perfekte Ort, um sich zu entspannen und über einen Tag nachzudenken, an dem Sie die Stadt mit den öffentlichen Verkehrsmitteln erkundet haben.",
+        "hu": "Kezdje a napot a Katedrális negyedben, amely könnyen megközelíthető busszal. Fedezze fel ezt a központi területet gyalog, a katedrálistól a piactéren át a Múzeum és Képtárig, és szívja magába a történelmi hangulatot.\nDélben szálljon buszra az elegáns georgiánus negyedbe. Látogasson el a Pickford-ház Múzeumba, majd sétáljon át a lenyűgöző Szent Mária-templomhoz, hogy ízelítőt kapjon Derby építészeti sokszínűségéből.\nDélután egy újabb buszozás visz a Museum of Making-hez, a város ipari örökségének egyik fénypontjához. Merüljön el az innováció történetében.\nZárja a felfedezést egy békés sétával a múzeumtól a közeli Darley Parkig. Ez a tökéletes hely a pihenésre és a tömegközlekedéssel töltött nap élményeinek felidézésére.",
+        "ro": "Începeți ziua în Cartierul Catedralei, ușor accesibil cu autobuzul. Explorați această zonă centrală pe jos, de la catedrală la Piața Pieței și la Muzeul și Galeria de Artă, absorbind atmosfera istorică.\nLa prânz, luați un autobuz spre elegantul cartier georgian. Vizitați Casa Muzeu Pickford, apoi plimbați-vă până la impunătoarea Biserică St. Mary, pentru a simți diversitatea arhitecturală a orașului Derby.\nDupă-amiaza, o altă călătorie cu autobuzul vă duce la Muzeul Meșteșugurilor, un punct culminant al patrimoniului industrial al orașului. Cufundați-vă în istoria inovației.\nÎncheiați explorarea cu o plimbare liniștită de la muzeu la Parcul Darley din apropiere. Este locul perfect pentru a vă relaxa și a reflecta asupra unei zile de navigare prin oraș cu transportul public.",
+        "en": "Begin your day in the Cathedral Quarter, easily reached by bus. Explore this central cluster on foot, from the cathedral to the Market Place and on to the Museum and Art Gallery, absorbing the historic atmosphere.\nAt midday, hop on a bus to the elegant Georgian Quarter. Visit Pickford's House Museum and then stroll to the impressive St. Mary's Church, getting a feel for Derby's architectural diversity.\nIn the afternoon, another bus ride takes you to the Museum of Making, a highlight of the city's industrial heritage. Immerse yourself in the history of innovation.\nConclude your exploration with a peaceful walk from the museum to the nearby Darley Park. It's the perfect spot to unwind and reflect on a day spent navigating the city via public transport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Derbyshire Oatcakes",
+            "tip": "Ein lokaler herzhafter Pfannkuchen, den man auf dem Markt probieren kann."
+          },
+          {
+            "name": "Bakewell Pudding",
+            "tip": "Obwohl aus einer Nachbarstadt, ist er in ganz Derbyshire eine beliebte Süßspeise."
+          },
+          {
+            "name": "Real Ale",
+            "tip": "Derby ist berühmt für seine Pubs; besuchen Sie einen traditionellen Pub wie das 'Ye Olde Dolphin Inne'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Derbyshire-i zabpalacsinta",
+            "tip": "Helyi sós palacsinta, érdemes megkóstolni a piacon."
+          },
+          {
+            "name": "Bakewell puding",
+            "tip": "Bár egy szomszédos városból származik, egész Derbyshire-ben népszerű édesség."
+          },
+          {
+            "name": "Valódi Ale (Real Ale)",
+            "tip": "Derby híres a pubjairól; látogasson el egy hagyományos helyre, mint a 'Ye Olde Dolphin Inne'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Clătite din ovăz din Derbyshire",
+            "tip": "O clătită sărată locală, o delicatesă de încercat în piață."
+          },
+          {
+            "name": "Budinca Bakewell",
+            "tip": "Deși provine dintr-un oraș învecinat, este un desert îndrăgit în tot Derbyshire."
+          },
+          {
+            "name": "Bere Real Ale",
+            "tip": "Derby este renumit pentru pub-urile sale; vizitați unul tradițional precum 'Ye Olde Dolphin Inne'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Derbyshire Oatcakes",
+            "tip": "A local savoury pancake, a must-try from the market."
+          },
+          {
+            "name": "Bakewell Pudding",
+            "tip": "Though from a neighbouring town, it's a beloved sweet treat across Derbyshire."
+          },
+          {
+            "name": "Real Ale",
+            "tip": "Derby is famous for its pubs; visit a traditional one like 'Ye Olde Dolphin Inne'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Derwent",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses, besonders durch den Darley Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Derby Arboretum",
+            "tip": "Englands erster öffentlicher Park, ein ruhiger Ort zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kathedrale von Derby (ruhige Stunden)",
+            "tip": "Besuchen Sie die Kathedrale früh am Morgen für einen Moment der stillen Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Derwent folyó partja",
+            "tip": "Békés séta a folyó mentén, különösen a Darley Parkon keresztül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Derby Arborétum",
+            "tip": "Anglia első nyilvános parkja, csendes hely a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Derby-i katedrális (csendes órák)",
+            "tip": "Látogasson el kora reggel a katedrálisba egy csendes elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Derwent",
+            "tip": "O plimbare liniștită de-a lungul râului, în special prin Parcul Darley.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arboretul din Derby",
+            "tip": "Primul parc public din Anglia, un loc liniștit pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Catedrala din Derby (ore liniștite)",
+            "tip": "Vizitați dimineața devreme pentru un moment de reflecție tăcută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Derwent Banks",
+            "tip": "A peaceful walk along the river, especially through Darley Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Derby Arboretum",
+            "tip": "England's first public park, a quiet spot for relaxation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Derby Cathedral (quiet hours)",
+            "tip": "Visit early in the morning for a moment of quiet reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cathedral Quarter",
+            "tip": "Bekannt für seine unabhängigen Boutiquen, Designerläden und Cafés."
+          },
+          {
+            "name": "Derby Market Hall",
+            "tip": "Eine viktorianische Markthalle mit frischen Produkten, lokalen Waren und einzigartigen Ständen."
+          },
+          {
+            "name": "Sadler Gate",
+            "tip": "Eine der ältesten Straßen Derbys, gesäumt von hochwertigen, unabhängigen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katedrális negyed",
+            "tip": "Független butikjairól, dizájnerboltjairól és kávézóiról ismert."
+          },
+          {
+            "name": "Derby-i vásárcsarnok",
+            "tip": "Viktoriánus vásárcsarnok friss termékekkel, helyi árukkal és egyedi standokkal."
+          },
+          {
+            "name": "Sadler Gate",
+            "tip": "Derby egyik legrégebbi utcája, tele minőségi, független üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartierul Catedralei",
+            "tip": "Renumit pentru buticurile sale independente, magazinele de designer și cafenele."
+          },
+          {
+            "name": "Hala Pieței din Derby",
+            "tip": "O hală de piață victoriană care oferă produse proaspete, bunuri locale și tarabe unice."
+          },
+          {
+            "name": "Sadler Gate",
+            "tip": "Una dintre cele mai vechi străzi din Derby, plină de magazine independente de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Quarter",
+            "tip": "Known for its independent boutiques, designer stores, and cafes."
+          },
+          {
+            "name": "Derby Market Hall",
+            "tip": "A Victorian market hall offering fresh produce, local goods, and unique stalls."
+          },
+          {
+            "name": "Sadler Gate",
+            "tip": "One of Derby's oldest streets, lined with high-quality, independent shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Mango'-Karte oder nutzen Sie kontaktlose Zahlungen für einfachere Busfahrten.",
+          "Die Bus-App von 'trentbarton' ist nützlich für Echtzeit-Fahrpläne und Routenplanung.",
+          "Eine Tageskarte ist kostengünstiger, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie die letzte Busabfahrt, wenn Sie planen, spät abends unterwegs zu sein."
+        ],
+        "hu": [
+          "Vásároljon 'Mango' kártyát, vagy használjon érintés nélküli fizetést az egyszerűbb buszozásért.",
+          "A 'trentbarton' buszalkalmazás hasznos a valós idejű menetrendekhez és útvonaltervezéshez.",
+          "A napijegy költséghatékonyabb, ha több utazást tervez.",
+          "Ellenőrizze az utolsó busz indulását, ha késő estig tervez maradni."
+        ],
+        "ro": [
+          "Cumpărați un card 'Mango' sau folosiți plata contactless pentru călătorii mai ușoare cu autobuzul.",
+          "Aplicația de autobuz 'trentbarton' este utilă pentru orare în timp real și planificarea rutelor.",
+          "Un bilet de o zi este mai rentabil dacă plănuiți mai multe călătorii.",
+          "Verificați ultimul autobuz dacă plănuiți să stați până târziu."
+        ],
+        "en": [
+          "Get a 'Mango' card or use contactless payments for easier bus travel.",
+          "The 'trentbarton' bus app is useful for real-time schedules and route planning.",
+          "A day rider ticket is more cost-effective if you plan on making multiple trips.",
+          "Check the time of the last bus if you plan to be out late."
+        ]
+      }
+    }
+  }
+}

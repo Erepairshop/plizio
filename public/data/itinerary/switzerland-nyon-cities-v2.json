@@ -1,0 +1,1445 @@
+{
+  "city_id": "switzerland-nyon-cities-v2",
+  "anchor": {
+    "name": "Nyon",
+    "coords": [
+      46.383,
+      6.239
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Esplanade des Marronniers",
+            "hu": "Gesztenyefás sétány",
+            "ro": "Esplanada Castanilor",
+            "en": "Esplanade of Chestnut Trees"
+          },
+          "coords": [
+            6.2405,
+            46.3825
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Perfekter Ort für einen Morgenkaffee mit Blick auf den See und die Alpen.",
+            "hu": "Tökéletes hely egy reggeli kávéhoz, kilátással a tóra és az Alpokra.",
+            "ro": "Locul perfect pentru o cafea de dimineață cu vedere la lac și Alpi.",
+            "en": "Perfect spot for a morning coffee with a view of the lake and the Alps."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Säulen",
+            "hu": "Római oszlopok",
+            "ro": "Coloanele Romane",
+            "en": "Roman Columns"
+          },
+          "coords": [
+            6.2408,
+            46.3828
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Diese authentischen Säulen markieren den Eingang zum alten römischen Forum.",
+            "hu": "Ezek az autentikus oszlopok jelzik az egykori római fórum bejáratát.",
+            "ro": "Aceste coloane autentice marchează intrarea în vechiul for roman.",
+            "en": "These authentic columns mark the entrance to the ancient Roman forum."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Museum",
+            "hu": "Római Múzeum",
+            "ro": "Muzeul Roman",
+            "en": "Roman Museum"
+          },
+          "coords": [
+            6.2398,
+            46.3835
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Das Museum ist in den Fundamenten der alten Basilika untergebracht. Faszinierend!",
+            "hu": "A múzeum az egykori bazilika alapjaiban kapott helyet. Lenyűgöző!",
+            "ro": "Muzeul este găzduit în fundațiile vechii bazilici. Fascinant!",
+            "en": "The museum is housed in the foundations of the ancient basilica. Fascinating!"
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Nyon",
+            "hu": "Nyoni kastély",
+            "ro": "Castelul din Nyon",
+            "en": "Nyon Castle"
+          },
+          "coords": [
+            6.241,
+            46.3838
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Besteigen Sie den Turm für eine unschlagbare Aussicht auf die Altstadt und den Genfersee.",
+            "hu": "Másszon fel a toronyba a verhetetlen kilátásért az óvárosra és a Genfi-tóra.",
+            "ro": "Urcați în turn pentru o priveliște imbatabilă asupra orașului vechi și a lacului Geneva.",
+            "en": "Climb the tower for an unbeatable view of the old town and Lake Geneva."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple de Nyon",
+            "hu": "Nyoni templom",
+            "ro": "Templul din Nyon",
+            "en": "Temple of Nyon"
+          },
+          "coords": [
+            6.239,
+            46.3832
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Achten Sie auf die wunderschönen Buntglasfenster und die friedliche Atmosphäre.",
+            "hu": "Figyelje meg a gyönyörű ólomüveg ablakokat és a békés légkört.",
+            "ro": "Fiți atenți la vitraliile frumoase și la atmosfera pașnică.",
+            "en": "Look out for the beautiful stained-glass windows and the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Léman",
+            "hu": "Léman Múzeum",
+            "ro": "Muzeul Léman",
+            "en": "Léman Museum"
+          },
+          "coords": [
+            6.238,
+            46.3805
+          ],
+          "category": "museums",
+          "arrive_at": "13:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_4lang": {
+            "de": "Interaktive Ausstellungen über die Natur und Kultur des Genfersees. Toll für Familien.",
+            "hu": "Interaktív kiállítások a Genfi-tó természetéről és kultúrájáról. Családoknak is szuper.",
+            "ro": "Expoziții interactive despre natura și cultura lacului Geneva. Excelent pentru familii.",
+            "en": "Interactive exhibits on the nature and culture of Lake Geneva. Great for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Nyon",
+            "hu": "Nyoni kikötő",
+            "ro": "Portul din Nyon",
+            "en": "Port of Nyon"
+          },
+          "coords": [
+            6.2385,
+            46.3802
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:52",
+          "stay_min": 73,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_4lang": {
+            "de": "Machen Sie eine kurze Bootsfahrt oder genießen Sie einfach die Aussicht auf die ankommenden und abfahrenden Fähren.",
+            "hu": "Tegyen egy rövid hajókirándulást, vagy csak élvezze a kompok látványát.",
+            "ro": "Faceți o scurtă plimbare cu barca sau pur și simplu bucurați-vă de vederea feriboturilor care sosesc și pleacă.",
+            "en": "Take a short boat trip or simply enjoy the view of the ferries coming and going."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der Esplanade des Marronniers mit Blick auf den See. Tauchen Sie in die römische Geschichte der Stadt ein, indem Sie die Säulen und das Museum besuchen, bevor Sie das majestätische Schloss Nyon erklimmen. Am Nachmittag erkunden Sie die Ufer des Genfersees, besuchen das Musée du Léman und entspannen am Hafen. Der Abend klingt perfekt in einem der charmanten Restaurants am Wasser aus.",
+        "hu": "Kezdje a napot a Gesztenyefás sétányon, a tóra nyíló kilátással. Merüljön el a város római kori történelmében az oszlopok és a múzeum meglátogatásával, mielőtt megmászná a fenséges nyoni kastélyt. Délután fedezze fel a Genfi-tó partját, látogasson el a Léman Múzeumba és pihenjen a kikötőben. Az este tökéletesen zárulhat az egyik hangulatos vízparti étteremben.",
+        "ro": "Începeți ziua pe Esplanada Castanilor, cu vedere la lac. Scufundați-vă în istoria romană a orașului vizitând coloanele și muzeul, înainte de a urca la maiestuosul Castel Nyon. După-amiaza, explorați malurile lacului Geneva, vizitați Muzeul Léman și relaxați-vă în port. Seara se încheie perfect la unul dintre restaurantele fermecătoare de pe malul apei.",
+        "en": "Start your day on the Esplanade des Marronniers overlooking the lake. Delve into the city's Roman history by visiting the columns and museum before climbing the majestic Nyon Castle. In the afternoon, explore the shores of Lake Geneva, visit the Musée du Léman, and relax at the harbor. The evening ends perfectly at one of the charming waterfront restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Filets de perche",
+            "tip": "Probieren Sie die lokalen Felchenfilets, eine Spezialität des Genfersees, serviert mit Pommes Frites."
+          },
+          {
+            "name": "Longeole",
+            "tip": "Eine traditionelle Genfer Wurst aus Schweinefleisch und Fenchelsamen."
+          },
+          {
+            "name": "Le Tilleul",
+            "tip": "Ein bekanntes Restaurant mit einer schönen Terrasse und Blick auf das Schloss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sügérfilé",
+            "tip": "Kóstolja meg a helyi sügérfilét, a Genfi-tó specialitását, sült krumplival tálalva."
+          },
+          {
+            "name": "Longeole",
+            "tip": "Hagyományos genfi kolbász sertéshúsból és édesköménymagból."
+          },
+          {
+            "name": "Le Tilleul",
+            "tip": "Ismert étterem gyönyörű terasszal és kilátással a kastélyra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fileuri de biban",
+            "tip": "Încercați fileurile de biban locale, o specialitate a lacului Geneva, servite cu cartofi prăjiți."
+          },
+          {
+            "name": "Longeole",
+            "tip": "Un cârnat tradițional din Geneva, făcut din carne de porc și semințe de fenicul."
+          },
+          {
+            "name": "Le Tilleul",
+            "tip": "Un restaurant renumit cu o terasă frumoasă și vedere la castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Perch fillets",
+            "tip": "Try the local perch fillets, a specialty of Lake Geneva, served with french fries."
+          },
+          {
+            "name": "Longeole",
+            "tip": "A traditional Geneva sausage made from pork and fennel seeds."
+          },
+          {
+            "name": "Le Tilleul",
+            "tip": "A well-known restaurant with a beautiful terrace overlooking the castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferpromenade",
+            "tip": "Ein ruhiger Spaziergang am See entlang bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schlosshof",
+            "tip": "Finden Sie eine ruhige Ecke im Innenhof des Schlosses.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Conservatoire et Jardin botaniques",
+            "tip": "Entfliehen Sie dem Trubel in diesem friedlichen botanischen Garten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tóparti sétány",
+            "tip": "Egy csendes séta a tó mentén naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kastélyudvar",
+            "tip": "Keressen egy csendes zugot a kastély belső udvarán.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Meneküljön el a nyüzsgés elől ebben a békés botanikus kertben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada lacului",
+            "tip": "O plimbare liniștită de-a lungul lacului la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea castelului",
+            "tip": "Găsiți un colț liniștit în curtea interioară a castelului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Evadați din agitație în această grădină botanică pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside Promenade",
+            "tip": "A quiet walk along the lake at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Castle Courtyard",
+            "tip": "Find a quiet corner in the castle's inner courtyard.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Conservatory and Botanical Gardens",
+            "tip": "Escape the hustle and bustle in this peaceful botanical garden.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt in Nyon",
+            "tip": "Finden Sie lokale Produkte, Käse und Handwerk auf dem Markt (normalerweise samstags)."
+          },
+          {
+            "name": "Rue de la Gare",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyoni piac",
+            "tip": "Találjon helyi termékeket, sajtokat és kézműves árukat a piacon (általában szombatonként)."
+          },
+          {
+            "name": "Rue de la Gare",
+            "tip": "A fő bevásárlóutca butikok és ismert márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Nyon",
+            "tip": "Găsiți produse locale, brânzeturi și meșteșuguri la piață (de obicei sâmbăta)."
+          },
+          {
+            "name": "Rue de la Gare",
+            "tip": "Principala stradă comercială cu un amestec de buticuri și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nyon Weekly Market",
+            "tip": "Find local produce, cheese, and crafts at the market (usually on Saturdays)."
+          },
+          {
+            "name": "Rue de la Gare",
+            "tip": "The main shopping street with a mix of boutiques and well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, also nehmen Sie sich Zeit und genießen Sie den Spaziergang.",
+          "Eine Flasche Wasser ist an warmen Tagen unerlässlich.",
+          "Viele Museen sind montags geschlossen, überprüfen Sie die Öffnungszeiten im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "A legtöbb látnivaló gyalogosan elérhető, ezért szánjon időt és élvezze a sétát.",
+          "Egy üveg víz elengedhetetlen a meleg napokon.",
+          "Sok múzeum zárva tart hétfőn, ellenőrizze a nyitvatartást előre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor sunt accesibile pe jos, așa că luați-vă timp și bucurați-vă de plimbare.",
+          "O sticlă de apă este esențială în zilele călduroase.",
+          "Multe muzee sunt închise lunea, verificați programul în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most attractions are within walking distance, so take your time and enjoy the stroll.",
+          "A bottle of water is essential on warm days.",
+          "Many museums are closed on Mondays, check opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Nyon",
+            "hu": "Nyoni kikötő",
+            "ro": "Portul din Nyon",
+            "en": "Port of Nyon"
+          },
+          "coords": [
+            6.2385,
+            46.3802
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Starten Sie am Hafen, wo Sie Fahrräder mieten und die frische Seeluft genießen können.",
+            "hu": "Induljon a kikötőből, ahol kerékpárt bérelhet, és élvezheti a friss tavi levegőt.",
+            "ro": "Începeți din port, de unde puteți închiria biciclete și vă puteți bucura de aerul proaspăt al lacului.",
+            "en": "Start at the port, where you can rent bikes and enjoy the fresh lake air."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Léman",
+            "hu": "Léman Múzeum",
+            "ro": "Muzeul Léman",
+            "en": "Léman Museum"
+          },
+          "coords": [
+            6.238,
+            46.3805
+          ],
+          "category": "museums",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Nur eine kurze Radtour vom Hafen entfernt, erfahren Sie alles über den Genfersee.",
+            "hu": "Csak egy rövid biciklizésre a kikötőtől, itt mindent megtudhat a Genfi-tóról.",
+            "ro": "La o scurtă plimbare cu bicicleta de port, aflați totul despre lacul Geneva.",
+            "en": "Just a short bike ride from the port, learn all about Lake Geneva."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Nyon",
+            "hu": "Nyoni kastély",
+            "ro": "Castelul din Nyon",
+            "en": "Nyon Castle"
+          },
+          "coords": [
+            6.241,
+            46.3838
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Der Anstieg zum Schloss ist die Aussicht wert. Es gibt Fahrradständer in der Nähe.",
+            "hu": "A kastélyhoz vezető emelkedő megéri a kilátásért. A közelben kerékpártárolók találhatók.",
+            "ro": "Urcușul spre castel merită priveliștea. Există suporturi pentru biciclete în apropiere.",
+            "en": "The climb to the castle is worth the view. There are bike racks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Museum",
+            "hu": "Római Múzeum",
+            "ro": "Muzeul Roman",
+            "en": "Roman Museum"
+          },
+          "coords": [
+            6.2398,
+            46.3835
+          ],
+          "category": "museums",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und tauchen Sie ein in die römische Vergangenheit von Noviodunum.",
+            "hu": "Zárja le a biciklijét, és merüljön el Noviodunum római múltjában.",
+            "ro": "Legați-vă bicicleta și scufundați-vă în trecutul roman al Noviodunum.",
+            "en": "Lock up your bike and delve into the Roman past of Noviodunum."
+          }
+        },
+        {
+          "name": {
+            "de": "Conservatoire et Jardin botaniques",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Conservatory and Botanical Gardens"
+          },
+          "coords": [
+            6.231,
+            46.386
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Ein schöner, flacher Radweg führt zu diesem ruhigen Garten. Ideal für eine Pause.",
+            "hu": "Egy szép, sík kerékpárút vezet ehhez a csendes kerthez. Ideális egy szünetre.",
+            "ro": "O pistă de biciclete frumoasă și plată duce la această grădină liniștită. Ideal pentru o pauză.",
+            "en": "A lovely, flat bike path leads to this tranquil garden. Ideal for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Nyon",
+            "hu": "Nyoni strand",
+            "ro": "Plaja din Nyon",
+            "en": "Nyon Beach"
+          },
+          "coords": [
+            6.246,
+            46.381
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 2.4,
+          "tip_4lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem erfrischenden Bad im See oder entspannen Sie einfach am Ufer.",
+            "hu": "Fejezze be a biciklitúrát egy frissítő úszással a tóban, vagy csak pihenjen a parton.",
+            "ro": "Încheiați turul cu bicicleta cu o baie răcoritoare în lac sau pur și simplu relaxați-vă pe mal.",
+            "en": "End your bike tour with a refreshing swim in the lake or just relax on the shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour in Nyon ist ideal, um die Stadt und die Seepromenade zu erkunden. Beginnen Sie am Hafen, fahren Sie zum Musée du Léman und erklimmen Sie dann den Hügel zum Schloss und zum Römischen Museum. Am Nachmittag führt Sie eine entspannte Fahrt zum ruhigen Botanischen Garten. Beenden Sie den Tag mit einem erfrischenden Sprung in den Genfersee am Strand von Nyon, ein perfekter Abschluss für einen aktiven Tag.",
+        "hu": "A nyoni biciklitúra ideális a város és a tóparti sétány felfedezéséhez. Kezdje a kikötőben, tekerjen el a Léman Múzeumhoz, majd mássza meg a dombot a kastélyhoz és a Római Múzeumhoz. Délután egy kellemes út vezet a csendes Botanikus Kertbe. Zárja a napot egy frissítő csobbanással a Genfi-tóban a nyoni strandon, ami tökéletes befejezése egy aktív napnak.",
+        "ro": "Un tur cu bicicleta în Nyon este ideal pentru a explora orașul și promenada lacului. Începeți din port, mergeți la Muzeul Léman, apoi urcați dealul spre castel și Muzeul Roman. După-amiaza, o plimbare relaxantă vă duce la liniștita Grădină Botanică. Încheiați ziua cu o baie răcoritoare în lacul Geneva la plaja din Nyon, o încheiere perfectă a unei zile active.",
+        "en": "A bike tour in Nyon is ideal for exploring the city and the lakeside promenade. Start at the port, ride to the Musée du Léman, then climb the hill to the castle and the Roman Museum. In the afternoon, a relaxing ride takes you to the peaceful Botanical Garden. End the day with a refreshing dip in Lake Geneva at Nyon beach, a perfect end to an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Perfekt für ein schnelles und leckeres Mittagessen mit süßen oder herzhaften Crêpes."
+          },
+          {
+            "name": "Fischknusperli",
+            "tip": "Kleine, frittierte Fischstücke, ideal als Snack am See."
+          },
+          {
+            "name": "La Nautique",
+            "tip": "Genießen Sie frischen Fisch direkt am Hafen mit einer fantastischen Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Tökéletes egy gyors és finom ebédhez, édes vagy sós palacsintákkal."
+          },
+          {
+            "name": "Fischknusperli",
+            "tip": "Kicsi, sült haldarabkák, ideális harapnivaló a tóparton."
+          },
+          {
+            "name": "La Nautique",
+            "tip": "Élvezze a friss halat közvetlenül a kikötőben, fantasztikus kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Perfect pentru un prânz rapid și delicios cu clătite dulci sau sărate."
+          },
+          {
+            "name": "Fischknusperli",
+            "tip": "Bucățele mici de pește prăjit, ideale ca gustare pe malul lacului."
+          },
+          {
+            "name": "La Nautique",
+            "tip": "Savurați pește proaspăt chiar în port, cu o priveliște fantastică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Perfect for a quick and delicious lunch with sweet or savory crepes."
+          },
+          {
+            "name": "Fischknusperli",
+            "tip": "Small, fried pieces of fish, ideal as a snack by the lake."
+          },
+          {
+            "name": "La Nautique",
+            "tip": "Enjoy fresh fish right at the harbor with a fantastic view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Route du Lac",
+            "tip": "Der Radweg entlang des Sees bietet viele ruhige Abschnitte mit Bänken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc du Bourg-de-Rive",
+            "tip": "Ein kleiner, versteckter Park hinter dem Musée du Léman.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Strand",
+            "tip": "Der perfekte Ort, um den Tag ausklingen zu lassen und die Farben über dem Jura zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Route du Lac",
+            "tip": "A tó menti kerékpárút számos csendes szakaszt kínál padokkal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc du Bourg-de-Rive",
+            "tip": "Egy kicsi, rejtett park a Léman Múzeum mögött.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a strandon",
+            "tip": "Tökéletes hely a nap befejezéséhez és a Jura feletti színek megfigyeléséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Route du Lac",
+            "tip": "Pista de biciclete de-a lungul lacului oferă multe secțiuni liniștite cu bănci.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc du Bourg-de-Rive",
+            "tip": "Un mic parc ascuns în spatele Muzeului Léman.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus la plajă",
+            "tip": "Locul perfect pentru a încheia ziua și a privi culorile deasupra munților Jura.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Route du Lac",
+            "tip": "The bike path along the lake offers many quiet sections with benches.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc du Bourg-de-Rive",
+            "tip": "A small, hidden park behind the Musée du Léman.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at the beach",
+            "tip": "The perfect place to end the day and watch the colors over the Jura mountains.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weingüter",
+            "tip": "In der Umgebung von Nyon gibt es viele Weingüter, die den lokalen Chasselas-Wein verkaufen."
+          },
+          {
+            "name": "Chocolaterie Walder",
+            "tip": "Probieren Sie handgemachte Schweizer Schokolade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borászatok",
+            "tip": "Nyon környékén számos borászat található, ahol helyi Chasselas bort árulnak."
+          },
+          {
+            "name": "Chocolaterie Walder",
+            "tip": "Kóstolja meg a kézzel készített svájci csokoládét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinării locale",
+            "tip": "În împrejurimile orașului Nyon există multe crame care vând vinul local Chasselas."
+          },
+          {
+            "name": "Chocolaterie Walder",
+            "tip": "Încercați ciocolată elvețiană artizanală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wineries",
+            "tip": "There are many wineries around Nyon selling the local Chasselas wine."
+          },
+          {
+            "name": "Chocolaterie Walder",
+            "tip": "Try some handmade Swiss chocolate."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad am Bahnhof oder am Hafen.",
+          "Seien Sie auf einige Steigungen vorbereitet, besonders auf dem Weg zum Schloss.",
+          "Verwenden Sie immer ein gutes Schloss, wenn Sie Ihr Fahrrad abstellen.",
+          "Der Radweg 'Route du Lac' ist gut ausgeschildert und bietet eine sichere und malerische Fahrt."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a vasútállomáson vagy a kikötőben.",
+          "Készüljön fel néhány emelkedőre, különösen a kastély felé vezető úton.",
+          "Mindig használjon jó lakatot, amikor leparkolja a kerékpárt.",
+          "A 'Route du Lac' kerékpárút jól ki van táblázva, és biztonságos, festői utat kínál."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la gară sau din port.",
+          "Fiți pregătiți pentru câteva urcușuri, în special în drum spre castel.",
+          "Folosiți întotdeauna un lacăt bun când lăsați bicicleta.",
+          "Pista de biciclete 'Route du Lac' este bine semnalizată și oferă o plimbare sigură și pitorească."
+        ],
+        "en": [
+          "Rent a bike at the train station or the port.",
+          "Be prepared for some uphill sections, especially on the way to the castle.",
+          "Always use a good lock when leaving your bike.",
+          "The 'Route du Lac' cycle path is well-signposted and offers a safe and scenic ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am See",
+            "hu": "Tóparti parkoló",
+            "ro": "Parcare pe malul lacului",
+            "en": "Lakeside Parking"
+          },
+          "coords": [
+            6.244,
+            46.38
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt az első látnivalócsoport gyalogos felfedezéséhez.",
+            "ro": "Parcați aici pentru a explora primul cluster pe jos.",
+            "en": "Park here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Nyon",
+            "hu": "Nyoni kikötő",
+            "ro": "Portul din Nyon",
+            "en": "Port of Nyon"
+          },
+          "coords": [
+            6.2385,
+            46.3802
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum lebhaften Hafen.",
+            "hu": "Rövid séta a parkolótól a nyüzsgő kikötőig.",
+            "ro": "O scurtă plimbare de la parcare la portul animat.",
+            "en": "A short walk from the parking lot to the bustling harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Léman",
+            "hu": "Léman Múzeum",
+            "ro": "Muzeul Léman",
+            "en": "Léman Museum"
+          },
+          "coords": [
+            6.238,
+            46.3805
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Direkt neben dem Hafen, ideal für einen kombinierten Besuch.",
+            "hu": "Közvetlenül a kikötő mellett, ideális egy közös látogatáshoz.",
+            "ro": "Chiar lângă port, ideal pentru o vizită combinată.",
+            "en": "Right next to the harbor, ideal for a combined visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Altstadt",
+            "hu": "Óvárosi parkoló",
+            "ro": "Parcare în centrul vechi",
+            "en": "Old Town Parking"
+          },
+          "coords": [
+            6.24,
+            46.3845
+          ],
+          "category": "transport",
+          "arrive_at": "12:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Fahren Sie zum nächsten Cluster und parken Sie in der Nähe des Schlosses.",
+            "hu": "Vezessen a következő látnivalócsoporthoz és parkoljon a kastély közelében.",
+            "ro": "Conduceți la următorul cluster și parcați lângă castel.",
+            "en": "Drive to the next cluster and park near the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Nyon",
+            "hu": "Nyoni kastély",
+            "ro": "Castelul din Nyon",
+            "en": "Nyon Castle"
+          },
+          "coords": [
+            6.241,
+            46.3838
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Das Schloss überragt die Stadt und ist vom Parkplatz aus leicht zu erreichen.",
+            "hu": "A kastély a város fölé tornyosul, és könnyen elérhető a parkolóból.",
+            "ro": "Castelul domină orașul și este ușor accesibil din parcare.",
+            "en": "The castle towers over the city and is easily accessible from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Museum",
+            "hu": "Római Múzeum",
+            "ro": "Muzeul Roman",
+            "en": "Roman Museum"
+          },
+          "coords": [
+            6.2398,
+            46.3835
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang bergab vom Schloss führt Sie direkt in die römische Zeit.",
+            "hu": "Egy rövid séta lefelé a kastélytól egyenesen a római korba vezet.",
+            "ro": "O scurtă plimbare la vale de la castel vă duce direct înapoi în timpurile romane.",
+            "en": "A short walk downhill from the castle takes you straight back to Roman times."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um bequem zwischen den Hauptbereichen von Nyon zu wechseln. Parken Sie zuerst am Seeufer und genießen Sie einen Spaziergang zum Hafen und zum Musée du Léman. Am Mittag fahren Sie hinauf in die Altstadt, parken erneut und erkunden das Schloss und das Römische Museum zu Fuß. Dieser Ansatz kombiniert den Komfort des Autos mit dem Vergnügen, die historischen Viertel aus nächster Nähe zu erleben.",
+        "hu": "Használja az autót, hogy kényelmesen közlekedjen Nyon főbb területei között. Először parkoljon le a tóparton, és tegyen egy sétát a kikötőhöz és a Léman Múzeumhoz. Délben hajtson fel az óvárosba, parkoljon le újra, és fedezze fel gyalog a kastélyt és a Római Múzeumot. Ez a megközelítés ötvözi az autó kényelmét a történelmi negyedek közeli felfedezésének örömével.",
+        "ro": "Folosiți mașina pentru a vă deplasa convenabil între principalele zone ale orașului Nyon. Parcați mai întâi pe malul lacului și bucurați-vă de o plimbare până la port și la Muzeul Léman. La prânz, urcați în orașul vechi, parcați din nou și explorați castelul și Muzeul Roman pe jos. Această abordare combină confortul mașinii cu plăcerea de a experimenta cartierele istorice de aproape.",
+        "en": "Use the car to conveniently move between Nyon's main areas. First, park by the lakeside and enjoy a stroll to the harbor and the Musée du Léman. At midday, drive up to the old town, park again, and explore the castle and the Roman Museum on foot. This approach combines the comfort of the car with the pleasure of experiencing the historic districts up close."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Auberge du Château",
+            "tip": "Speisen Sie mit Blick auf das Schloss, nachdem Sie es besichtigt haben."
+          },
+          {
+            "name": "Fondue",
+            "tip": "Ein Muss in der Schweiz. Viele Restaurants in der Altstadt bieten ausgezeichnetes Käsefondue an."
+          },
+          {
+            "name": "Restaurant du Port",
+            "tip": "Ein weiteres großartiges Restaurant am Hafen, das auf Fischgerichte spezialisiert ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Auberge du Château",
+            "tip": "Étkezzen a kastélyra nyíló kilátással, miután meglátogatta."
+          },
+          {
+            "name": "Fondü",
+            "tip": "Kötelező Svájcban. Az óváros számos étterme kínál kiváló sajtfondüt."
+          },
+          {
+            "name": "Restaurant du Port",
+            "tip": "Egy másik nagyszerű étterem a kikötőben, amely halételekre specializálódott."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Auberge du Château",
+            "tip": "Luați masa cu vedere la castel după ce l-ați vizitat."
+          },
+          {
+            "name": "Fondue",
+            "tip": "O necesitate în Elveția. Multe restaurante din orașul vechi oferă fondue de brânză excelent."
+          },
+          {
+            "name": "Restaurant du Port",
+            "tip": "Un alt restaurant grozav în port, specializat în preparate din pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Auberge du Château",
+            "tip": "Dine with a view of the castle after your visit."
+          },
+          {
+            "name": "Fondue",
+            "tip": "A must-try in Switzerland. Many restaurants in the old town offer excellent cheese fondue."
+          },
+          {
+            "name": "Restaurant du Port",
+            "tip": "Another great restaurant in the harbor specializing in fish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Signal de Bougy",
+            "tip": "Eine kurze Autofahrt von Nyon entfernt, bietet dieser Park einen atemberaubenden Panoramablick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Weinberge von La Côte",
+            "tip": "Fahren Sie durch die Weinberge, halten Sie für eine Weinprobe an und genießen Sie die Ruhe.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "Esplanade des Marronniers",
+            "tip": "Kehren Sie am Abend hierher zurück, um die Lichter über dem See zu sehen.",
+            "emoji": "🌃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Signal de Bougy",
+            "tip": "Rövid autóútra Nyontól, ez a park lélegzetelállító panorámát kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "La Côte szőlőültetvényei",
+            "tip": "Vezessen át a szőlőültetvényeken, álljon meg egy borkóstolóra, és élvezze a csendet.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "Gesztenyefás sétány",
+            "tip": "Térjen vissza ide este, hogy lássa a fényeket a tó felett.",
+            "emoji": "🌃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Signal de Bougy",
+            "tip": "La o scurtă călătorie cu mașina de Nyon, acest parc oferă o priveliște panoramică uluitoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viile din La Côte",
+            "tip": "Conduceți prin podgorii, opriți-vă pentru o degustare de vin și bucurați-vă de liniște.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "Esplanada Castanilor",
+            "tip": "Întoarceți-vă aici seara pentru a vedea luminile deasupra lacului.",
+            "emoji": "🌃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Signal de Bougy",
+            "tip": "A short drive from Nyon, this park offers a breathtaking panoramic view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vineyards of La Côte",
+            "tip": "Drive through the vineyards, stop for a wine tasting, and enjoy the tranquility.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "Esplanade of Chestnut Trees",
+            "tip": "Return here in the evening to see the lights across the lake.",
+            "emoji": "🌃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cave de Nyon",
+            "tip": "Kaufen Sie lokale Weine direkt vom Erzeuger."
+          },
+          {
+            "name": "Handwerksläden in der Altstadt",
+            "tip": "Entdecken Sie einzigartige Souvenirs und Geschenke in den kleinen Gassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cave de Nyon",
+            "tip": "Vásároljon helyi borokat közvetlenül a termelőtől."
+          },
+          {
+            "name": "Kézműves boltok az óvárosban",
+            "tip": "Fedezzen fel egyedi szuveníreket és ajándékokat a kis utcákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cave de Nyon",
+            "tip": "Cumpărați vinuri locale direct de la producător."
+          },
+          {
+            "name": "Magazine de artizanat din orașul vechi",
+            "tip": "Descoperiți suveniruri și cadouri unice pe străduțele mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cave de Nyon",
+            "tip": "Buy local wines directly from the producer."
+          },
+          {
+            "name": "Artisan shops in the Old Town",
+            "tip": "Discover unique souvenirs and gifts in the small alleys."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist in der Innenstadt begrenzt und kostenpflichtig. Nutzen Sie die ausgewiesenen Parkhäuser.",
+          "Achten Sie auf die blauen Zonen, in denen das Parken mit einer Parkscheibe zeitlich begrenzt ist.",
+          "Die Straßen in der Altstadt sind eng, fahren Sie vorsichtig.",
+          "Planen Sie Ihre Fahrten zwischen den Clustern außerhalb der Stoßzeiten, um Verkehr zu vermeiden."
+        ],
+        "hu": [
+          "A parkolás korlátozott és fizetős a belvárosban. Használja a kijelölt parkolóházakat.",
+          "Figyeljen a kék zónákra, ahol a parkolás parkolótárcsával időben korlátozott.",
+          "Az óváros utcái szűkek, vezessen óvatosan.",
+          "Tervezze az utazásokat a klaszterek között csúcsidőn kívülre, hogy elkerülje a forgalmat."
+        ],
+        "ro": [
+          "Parcarea este limitată și cu plată în centrul orașului. Folosiți parcările desemnate.",
+          "Fiți atenți la zonele albastre unde parcarea este limitată în timp cu un disc de parcare.",
+          "Străzile din orașul vechi sunt înguste, conduceți cu atenție.",
+          "Planificați-vă călătoriile între clustere în afara orelor de vârf pentru a evita traficul."
+        ],
+        "en": [
+          "Parking in the city center is limited and paid. Use the designated parking garages.",
+          "Pay attention to the blue zones where parking is time-limited with a parking disc.",
+          "The streets in the old town are narrow, drive carefully.",
+          "Plan your drives between clusters outside of peak hours to avoid traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Nyon",
+            "hu": "Nyon vasútállomás",
+            "ro": "Gara din Nyon",
+            "en": "Nyon Train Station"
+          },
+          "coords": [
+            6.235,
+            46.386
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Beginnen Sie hier und kaufen Sie eine Tageskarte für die lokalen Busse.",
+            "hu": "Kezdje itt, és vásároljon napijegyet a helyi buszokra.",
+            "ro": "Începeți de aici și cumpărați un bilet de o zi pentru autobuzele locale.",
+            "en": "Start here and buy a day pass for the local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Nyon",
+            "hu": "Nyoni kastély",
+            "ro": "Castelul din Nyon",
+            "en": "Nyon Castle"
+          },
+          "coords": [
+            6.241,
+            46.3838
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nehmen Sie den Bus zur Haltestelle 'La Combe' und gehen Sie ein kurzes Stück zum Schloss.",
+            "hu": "Menjen busszal a 'La Combe' megállóig, és sétáljon egy rövidtávot a kastélyig.",
+            "ro": "Luați autobuzul până la stația 'La Combe' și mergeți pe jos o scurtă distanță până la castel.",
+            "en": "Take the bus to the 'La Combe' stop and walk a short distance to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Museum",
+            "hu": "Római Múzeum",
+            "ro": "Muzeul Roman",
+            "en": "Roman Museum"
+          },
+          "coords": [
+            6.2398,
+            46.3835
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Vom Schloss aus ist es nur ein kurzer Spaziergang durch die malerischen Gassen.",
+            "hu": "A kastélytól csak egy rövid séta a festői sikátorokon keresztül.",
+            "ro": "De la castel, este doar o scurtă plimbare pe aleile pitorești.",
+            "en": "From the castle, it's just a short walk through the picturesque alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Esplanade des Marronniers",
+            "hu": "Gesztenyefás sétány",
+            "ro": "Esplanada Castanilor",
+            "en": "Esplanade of Chestnut Trees"
+          },
+          "coords": [
+            6.2405,
+            46.3825
+          ],
+          "category": "natural features",
+          "arrive_at": "12:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Genießen Sie die Aussicht, bevor Sie zum nächsten Cluster am See hinuntergehen.",
+            "hu": "Élvezze a kilátást, mielőtt lesétál a következő, tóparti látnivalócsoporthoz.",
+            "ro": "Bucurați-vă de priveliște înainte de a coborî la următorul cluster de lângă lac.",
+            "en": "Enjoy the view before heading down to the next cluster by the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Nyon",
+            "hu": "Nyoni kikötő",
+            "ro": "Portul din Nyon",
+            "en": "Port of Nyon"
+          },
+          "coords": [
+            6.2385,
+            46.3802
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum hinunter zum Hafen.",
+            "hu": "Menjen busszal a városközpontból le a kikötőbe.",
+            "ro": "Luați un autobuz din centrul orașului până în port.",
+            "en": "Take a bus from the city center down to the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Léman",
+            "hu": "Léman Múzeum",
+            "ro": "Muzeul Léman",
+            "en": "Léman Museum"
+          },
+          "coords": [
+            6.238,
+            46.3805
+          ],
+          "category": "museums",
+          "arrive_at": "13:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Das Museum befindet sich direkt am Hafen und ist leicht zu Fuß erreichbar.",
+            "hu": "A múzeum közvetlenül a kikötő mellett található, és könnyen megközelíthető gyalog.",
+            "ro": "Muzeul este situat chiar lângă port, ușor accesibil pe jos.",
+            "en": "The museum is located right by the port, easily accessible on foot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Nyon mühelos mit dem öffentlichen Nahverkehr. Kaufen Sie eine Tageskarte und fahren Sie zuerst zum Schloss-Cluster, um das Schloss und das Römische Museum zu besichtigen. Ein Spaziergang durch die Altstadt bietet herrliche Ausblicke. Am Nachmittag bringt Sie ein Bus hinunter zum See-Cluster, wo Sie den Hafen und das faszinierende Musée du Léman erkunden können. Diese Methode ist effizient und ermöglicht es Ihnen, die Stadt wie ein Einheimischer zu erleben.",
+        "hu": "Fedezze fel Nyont könnyedén a tömegközlekedéssel. Vásároljon napijegyet, és utazzon el először a kastély környékére, hogy megnézze a kastélyt és a Római Múzeumot. Az óvárosban tett séta csodálatos kilátást nyújt. Délután egy busz leviszi Önt a tóparti látnivalókhoz, ahol felfedezheti a kikötőt és a lenyűgöző Léman Múzeumot. Ez a módszer hatékony és lehetővé teszi, hogy úgy élje át a várost, mint egy helyi.",
+        "ro": "Explorați Nyon fără efort cu transportul public. Cumpărați un bilet de o zi și mergeți mai întâi la clusterul castelului pentru a vizita castelul și Muzeul Roman. O plimbare prin orașul vechi oferă priveliști magnifice. După-amiaza, un autobuz vă duce la clusterul de lângă lac, unde puteți explora portul și fascinantul Muzeu Léman. Această metodă este eficientă și vă permite să experimentați orașul ca un localnic.",
+        "en": "Explore Nyon effortlessly using public transport. Buy a day pass and first travel to the castle cluster to visit the castle and the Roman Museum. A walk through the old town offers magnificent views. In the afternoon, a bus will take you down to the lakeside cluster, where you can explore the port and the fascinating Musée du Léman. This method is efficient and allows you to experience the city like a local."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei in der Altstadt",
+            "tip": "Holen Sie sich ein Sandwich oder ein Gebäck für ein schnelles Mittagessen unterwegs."
+          },
+          {
+            "name": "Café du Centre",
+            "tip": "Ein klassisches Schweizer Café, ideal für einen Kaffee und um Leute zu beobachten."
+          },
+          {
+            "name": "Tac-O's",
+            "tip": "Eine beliebte Option für ein schnelles und leckeres mexikanisches Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség az óvárosban",
+            "tip": "Vegyen egy szendvicset vagy péksüteményt egy gyors ebédhez útközben."
+          },
+          {
+            "name": "Café du Centre",
+            "tip": "Klasszikus svájci kávézó, ideális egy kávéra és az emberek nézegetésére."
+          },
+          {
+            "name": "Tac-O's",
+            "tip": "Népszerű választás egy gyors és finom mexikói ételhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie în orașul vechi",
+            "tip": "Luați un sandviș sau un produs de patiserie pentru un prânz rapid pe drum."
+          },
+          {
+            "name": "Café du Centre",
+            "tip": "O cafenea elvețiană clasică, ideală pentru o cafea și pentru a privi oamenii."
+          },
+          {
+            "name": "Tac-O's",
+            "tip": "O opțiune populară pentru o masă mexicană rapidă și gustoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in the Old Town",
+            "tip": "Grab a sandwich or a pastry for a quick lunch on the go."
+          },
+          {
+            "name": "Café du Centre",
+            "tip": "A classic Swiss café, ideal for a coffee and people-watching."
+          },
+          {
+            "name": "Tac-O's",
+            "tip": "A popular option for a quick and tasty Mexican meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt entlang der Küste",
+            "tip": "Nehmen Sie eine Buslinie, die entlang des Sees fährt, und genießen Sie die Aussicht vom Fenster aus.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Temple de Nyon",
+            "tip": "Ein Ort der Stille und Besinnung im Herzen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Seeufer",
+            "tip": "Steigen Sie am Hafen aus und gehen Sie ein Stück am Wasser entlang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a part mentén",
+            "tip": "Válasszon egy buszjáratot, amely a tó mentén halad, és élvezze a kilátást az ablakból.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Nyoni templom",
+            "tip": "A csend és az elmélkedés helye a város szívében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a tóparton",
+            "tip": "Szálljon le a kikötőben, és sétáljon egyet a víz mentén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul de-a lungul coastei",
+            "tip": "Luați o linie de autobuz care merge de-a lungul lacului și bucurați-vă de priveliște de la fereastră.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Templul din Nyon",
+            "tip": "Un loc de liniște și contemplare în inima orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul lacului",
+            "tip": "Coborâți în port și faceți o plimbare de-a lungul apei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride along the coast",
+            "tip": "Take a bus line that runs along the lake and enjoy the view from the window.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Temple of Nyon",
+            "tip": "A place of silence and contemplation in the heart of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk on the lakeside",
+            "tip": "Get off at the port and take a walk along the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Manor Warenhaus",
+            "tip": "In der Nähe des Bahnhofs gelegen, finden Sie hier alles von Mode bis zu Lebensmitteln."
+          },
+          {
+            "name": "Souvenirladen im Schloss",
+            "tip": "Kaufen Sie ein Andenken an Ihren Besuch im Schloss Nyon."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Manor áruház",
+            "tip": "A vasútállomás közelében található, itt mindent megtalál a divattól az élelmiszerekig."
+          },
+          {
+            "name": "Ajándékbolt a kastélyban",
+            "tip": "Vásároljon emléket a nyoni kastélyban tett látogatásáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul universal Manor",
+            "tip": "Situat lângă gară, veți găsi totul, de la modă la alimente."
+          },
+          {
+            "name": "Magazin de suveniruri la castel",
+            "tip": "Cumpărați o amintire a vizitei dvs. la Castelul Nyon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Manor Department Store",
+            "tip": "Located near the train station, you'll find everything from fashion to food here."
+          },
+          {
+            "name": "Souvenir shop in the castle",
+            "tip": "Buy a memento of your visit to Nyon Castle."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die offizielle App des öffentlichen Nahverkehrs (TPN) herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Eine Tageskarte ist in der Regel günstiger als mehrere Einzelfahrscheine.",
+          "Die Busse fahren häufig, aber überprüfen Sie den Fahrplan für den letzten Bus zurück zu Ihrer Unterkunft.",
+          "Entwerten Sie Ihr Ticket vor dem Einsteigen oder kaufen Sie es direkt beim Fahrer, falls möglich."
+        ],
+        "hu": [
+          "Töltse le a helyi tömegközlekedési vállalat (TPN) hivatalos alkalmazását a valós idejű menetrendekért és útvonalakért.",
+          "A napijegy általában olcsóbb, mint több egyedi jegy.",
+          "A buszok gyakran járnak, de ellenőrizze az utolsó busz menetrendjét a szállásához.",
+          "Érvényesítse a jegyét felszállás előtt, vagy ha lehetséges, vásárolja meg közvetlenül a sofőrtől."
+        ],
+        "ro": [
+          "Descărcați aplicația oficială de transport public (TPN) pentru orare și rute în timp real.",
+          "Un bilet de o zi este de obicei mai ieftin decât mai multe bilete individuale.",
+          "Autobuzele circulă frecvent, dar verificați orarul pentru ultimul autobuz înapoi la cazare.",
+          "Validați biletul înainte de a urca sau cumpărați-l direct de la șofer, dacă este posibil."
+        ],
+        "en": [
+          "Download the official public transport app (TPN) for real-time schedules and routes.",
+          "A day pass is usually cheaper than multiple single tickets.",
+          "Buses run frequently, but check the schedule for the last bus back to your accommodation.",
+          "Validate your ticket before boarding or buy it directly from the driver if possible."
+        ]
+      }
+    }
+  }
+}

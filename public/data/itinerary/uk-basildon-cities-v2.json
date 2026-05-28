@@ -1,0 +1,1152 @@
+{
+  "city_id": "uk-basildon-cities-v2",
+  "anchor": {
+    "name": "Basildon",
+    "coords": [
+      51.5761,
+      0.4887
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Martin's Bell Tower",
+            "hu": "Szent Márton harangtorony",
+            "ro": "Turnul cu clopote St. Martin",
+            "en": "St. Martin's Bell Tower"
+          },
+          "coords": [
+            0.474,
+            51.571
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur und die Glasfenster.",
+            "hu": "Csodálja meg a modern építészetet és az üvegablakokat.",
+            "ro": "Admirați arhitectura modernă și vitraliile.",
+            "en": "Admire the modern architecture and stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Towngate Theatre",
+            "hu": "Towngate Színház",
+            "ro": "Teatrul Towngate",
+            "en": "Towngate Theatre"
+          },
+          "coords": [
+            0.471,
+            51.57
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:58",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan für eine Matinee-Vorstellung.",
+            "hu": "Nézze meg a műsort, hátha van egy délutáni előadás.",
+            "ro": "Verificați programul pentru un spectacol de matineu.",
+            "en": "Check the schedule for a potential matinee show."
+          }
+        },
+        {
+          "name": {
+            "de": "Gloucester Park",
+            "hu": "Gloucester Park",
+            "ro": "Parcul Gloucester",
+            "en": "Gloucester Park"
+          },
+          "coords": [
+            0.485,
+            51.567
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:03",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick am See oder eine Partie Minigolf.",
+            "hu": "Ideális egy piknikhez a tónál vagy egy minigolf partihoz.",
+            "ro": "Perfect pentru un picnic lângă lac sau un joc de minigolf.",
+            "en": "Great for a picnic by the lake or a game of mini-golf."
+          }
+        },
+        {
+          "name": {
+            "de": "Festival Leisure Park",
+            "hu": "Festival Szabadidőpark",
+            "ro": "Parcul de Agrement Festival",
+            "en": "Festival Leisure Park"
+          },
+          "coords": [
+            0.495,
+            51.565
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:08",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Hier finden Sie Kinos, Restaurants und Bowling – perfekt für den Mittag.",
+            "hu": "Mozi, éttermek és bowling - tökéletes ebédidőre.",
+            "ro": "Găsiți cinematografe, restaurante și bowling - perfect pentru prânz.",
+            "en": "Find cinemas, restaurants, and bowling - perfect for lunchtime."
+          }
+        },
+        {
+          "name": {
+            "de": "Noak Bridge Nature Reserve",
+            "hu": "Noak Bridge Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Noak Bridge",
+            "en": "Noak Bridge Nature Reserve"
+          },
+          "coords": [
+            0.505,
+            51.579
+          ],
+          "category": "natural features",
+          "arrive_at": "15:46",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein ruhiger Spaziergang zum Abschluss des Tages, halten Sie Ausschau nach Vögeln.",
+            "hu": "Egy csendes séta a nap lezárásaként, figyelje a madarakat.",
+            "ro": "O plimbare liniștită pentru a încheia ziua, fiți atenți la păsări.",
+            "en": "A peaceful walk to end the day, look out for birdlife."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Basildon beginnt im Herzen der Stadt am modernen St. Martin's Bell Tower. Nach einem kurzen Spaziergang zum Towngate Theatre spüren Sie den kulturellen Puls der Stadt. Der Mittag ist der Entspannung im weitläufigen Gloucester Park gewidmet, ideal für ein gemütliches Picknick. Der Nachmittag bringt Unterhaltung im Festival Leisure Park mit seinen vielen Möglichkeiten. Den Abschluss bildet ein ruhiger Spaziergang durch das Noak Bridge Nature Reserve, wo Sie die städtische Erkundung mit einem Naturerlebnis verbinden.",
+        "hu": "A basildoni napja a város szívében, a modern Szent Márton harangtoronynál kezdődik. Egy rövid séta után a Towngate Színházhoz, megérezheti a város kulturális lüktetését. Az ebédidő a tágas Gloucester Parkban a pihenésé, ideális egy kellemes piknikhez. A délután szórakozást ígér a Festival Szabadidőparkban, számtalan lehetőségével. A napot egy békés séta zárja a Noak Bridge Természetvédelmi Területen, összekötve a városi felfedezést egy természeti élménnyel.",
+        "ro": "Ziua dvs. în Basildon începe în inima orașului, la modernul Turn cu clopote St. Martin. După o scurtă plimbare până la Teatrul Towngate, veți simți pulsul cultural al orașului. Prânzul este dedicat relaxării în vastul Parc Gloucester, ideal pentru un picnic. După-amiaza aduce divertisment la Parcul de Agrement Festival, cu numeroasele sale opțiuni. Ziua se încheie cu o plimbare liniștită prin Rezervația Naturală Noak Bridge, combinând explorarea urbană cu o experiență în natură.",
+        "en": "Your day in Basildon begins in the heart of the town at the modern St. Martin's Bell Tower. After a short walk to the Towngate Theatre, you'll feel the city's cultural pulse. Lunchtime is for relaxation in the expansive Gloucester Park, ideal for a picnic. The afternoon brings entertainment at the Festival Leisure Park, with its many options. The day concludes with a peaceful stroll through Noak Bridge Nature Reserve, blending urban exploration with a natural experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pub Lunch",
+            "tip": "Genießen Sie klassische britische Gerichte in einem der Pubs rund um den Festival Leisure Park."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein Muss in England. Suchen Sie nach einem traditionellen „Chippy“ für ein authentisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kocsmai ebéd",
+            "tip": "Élvezze a klasszikus brit ételeket a Festival Szabadidőpark körüli pubok egyikében."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Angliában kötelező. Keressen egy hagyományos „chippy”-t az autentikus élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prânz la pub",
+            "tip": "Savurați preparate clasice britanice la unul dintre pub-urile din jurul Parcului de Agrement Festival."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "O necesitate în Anglia. Căutați un „chippy” tradițional pentru o experiență autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pub Lunch",
+            "tip": "Enjoy classic British fare at one of the pubs around the Festival Leisure Park."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "A must-try in England. Look for a traditional 'chippy' for an authentic experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gloucester Park See",
+            "tip": "Finden Sie eine Bank am Wasser und beobachten Sie die Schwäne.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Noak Bridge Nature Reserve",
+            "tip": "Die verschlungenen Pfade bieten viele ruhige Ecken.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gloucester Park-tó",
+            "tip": "Keressen egy padot a vízparton, és figyelje a hattyúkat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Noak Bridge Természetvédelmi Terület",
+            "tip": "A kanyargós ösvények sok csendes zugot kínálnak.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul din Parcul Gloucester",
+            "tip": "Găsiți o bancă lângă apă și priviți lebedele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rezervația Naturală Noak Bridge",
+            "tip": "Cărările șerpuitoare oferă multe colțuri liniștite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gloucester Park Lake",
+            "tip": "Find a bench by the water and watch the swans.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Noak Bridge Nature Reserve",
+            "tip": "The winding paths offer plenty of quiet corners.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eastgate Shopping Centre",
+            "tip": "Das Haupteinkaufszentrum der Stadt für eine breite Palette von Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eastgate Bevásárlóközpont",
+            "tip": "A város fő bevásárlóközpontja, széles üzletválasztékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Eastgate",
+            "tip": "Principalul centru comercial al orașului pentru o gamă largă de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eastgate Shopping Centre",
+            "tip": "The town's main shopping hub for a wide range of stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da dieser Plan viel Gehen erfordert.",
+          "Ein leichter Regenmantel ist immer eine gute Idee in England.",
+          "Prüfen Sie die Öffnungszeiten des Theaters und des Freizeitparks im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel ez a terv sok sétát tartalmaz.",
+          "Egy könnyű esőkabát mindig jó ötlet Angliában.",
+          "Előre ellenőrizze a színház és a szabadidőpark nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece acest itinerar implică mult mers pe jos.",
+          "O pelerină de ploaie ușoară este întotdeauna o idee bună în Anglia.",
+          "Verificați în avans orele de program ale teatrului și parcului de agrement."
+        ],
+        "en": [
+          "Wear comfortable shoes as this itinerary involves a lot of walking.",
+          "A light raincoat is always a good idea in England.",
+          "Check opening times for the theatre and leisure park in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 19.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gloucester Park",
+            "hu": "Gloucester Park",
+            "ro": "Parcul Gloucester",
+            "en": "Gloucester Park"
+          },
+          "coords": [
+            0.485,
+            51.567
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer Runde um den See.",
+            "hu": "Kezdje a napot egy körrel a tó körül.",
+            "ro": "Începeți ziua cu o tură în jurul lacului.",
+            "en": "Start your day with a loop around the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Noak Bridge Nature Reserve",
+            "hu": "Noak Bridge Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Noak Bridge",
+            "en": "Noak Bridge Nature Reserve"
+          },
+          "coords": [
+            0.505,
+            51.579
+          ],
+          "category": "natural features",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die Pfade zu Fuß.",
+            "hu": "Tegye le a biciklit, és fedezze fel az ösvényeket gyalog.",
+            "ro": "Parcați bicicleta și explorați potecile pe jos.",
+            "en": "Park your bike and explore the paths on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Martin's Bell Tower",
+            "hu": "Szent Márton harangtorony",
+            "ro": "Turnul cu clopote St. Martin",
+            "en": "St. Martin's Bell Tower"
+          },
+          "coords": [
+            0.474,
+            51.571
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:13",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein moderner Kontrast zur umliegenden Natur.",
+            "hu": "Modern kontraszt a környező természettel.",
+            "ro": "Un contrast modern cu natura înconjurătoare.",
+            "en": "A modern contrast to the natural surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Langdon Hills Country Park",
+            "hu": "Langdon Hills Country Park",
+            "ro": "Parcul Național Langdon Hills",
+            "en": "Langdon Hills Country Park"
+          },
+          "coords": [
+            0.44,
+            51.55
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:38",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Fordern Sie sich an den Hügeln heraus und genießen Sie die Aussicht über London.",
+            "hu": "Hívja ki magát a dombokon, és élvezze a Londonra nyíló kilátást.",
+            "ro": "Provocați-vă pe dealuri și bucurați-vă de priveliștea spre Londra.",
+            "en": "Challenge yourself on the hills and enjoy the views over London."
+          }
+        },
+        {
+          "name": {
+            "de": "Festival Leisure Park",
+            "hu": "Festival Szabadidőpark",
+            "ro": "Parcul de Agrement Festival",
+            "en": "Festival Leisure Park"
+          },
+          "coords": [
+            0.495,
+            51.565
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:20",
+          "stay_min": 95,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem wohlverdienten Essen und Unterhaltung.",
+            "hu": "Zárja a kerékpártúrát egy jól megérdemelt étellel és szórakozással.",
+            "ro": "Încheiați turul cu bicicleta cu o masă și divertisment binemeritat.",
+            "en": "End your bike tour with a well-deserved meal and entertainment."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrradtour durch Basildon beginnt mit einer entspannten Runde im Gloucester Park. Von dort aus radeln Sie zum Noak Bridge Nature Reserve, um die lokale Tierwelt zu entdecken. Zur Mittagszeit fahren Sie zurück ins Zentrum, um den modernen St. Martin's Bell Tower zu besichtigen. Der Nachmittag ist eine Herausforderung und Belohnung zugleich im Langdon Hills Country Park, der atemberaubende Ausblicke bietet. Schließlich rollen Sie zum Festival Leisure Park, um sich nach einem aktiven Tag zu entspannen und zu stärken.",
+        "hu": "A basildoni kerékpártúrája egy laza körrel kezdődik a Gloucester Parkban. Onnan a Noak Bridge Természetvédelmi Területre teker, hogy felfedezze a helyi vadvilágot. Ebédidőben visszatér a központba, hogy megnézze a modern Szent Márton harangtornyot. A délután egyszerre kihívás és jutalom a Langdon Hills Country Parkban, amely lélegzetelállító kilátást nyújt. Végül a Festival Szabadidőparkba gurul, hogy pihenjen és feltöltődjön egy aktív nap után.",
+        "ro": "Turul dvs. cu bicicleta prin Basildon începe cu o plimbare relaxantă în Parcul Gloucester. De acolo, pedalați spre Rezervația Naturală Noak Bridge pentru a descoperi fauna locală. La prânz, vă întoarceți în centru pentru a vizita modernul Turn cu clopote St. Martin. După-amiaza este o provocare și o recompensă în Parcul Național Langdon Hills, care oferă priveliști uimitoare. În cele din urmă, vă îndreptați spre Parcul de Agrement Festival pentru a vă relaxa și a vă reface forțele după o zi activă.",
+        "en": "Your bike tour of Basildon starts with a relaxed loop in Gloucester Park. From there, you'll cycle to Noak Bridge Nature Reserve to discover local wildlife. At midday, you'll head back to the centre to see the modern St. Martin's Bell Tower. The afternoon is both a challenge and a reward at Langdon Hills Country Park, offering stunning views. Finally, you'll roll into the Festival Leisure Park to relax and refuel after an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café im Park",
+            "tip": "Ein schneller Kaffee und Kuchen im Gloucester Park oder Langdon Hills."
+          },
+          {
+            "name": "Internationale Küche",
+            "tip": "Der Festival Leisure Park bietet eine große Auswahl an Restaurants, von italienisch bis amerikanisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézó a parkban",
+            "tip": "Egy gyors kávé és sütemény a Gloucester Parkban vagy a Langdon Hillsben."
+          },
+          {
+            "name": "Nemzetközi konyha",
+            "tip": "A Festival Szabadidőpark éttermek széles választékát kínálja, az olasztól az amerikaiig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea în parc",
+            "tip": "O cafea rapidă și o prăjitură în Parcul Gloucester sau Langdon Hills."
+          },
+          {
+            "name": "Bucătărie internațională",
+            "tip": "Parcul de Agrement Festival oferă o gamă largă de restaurante, de la italian la american."
+          }
+        ],
+        "en": [
+          {
+            "name": "Park Café",
+            "tip": "A quick coffee and cake in Gloucester Park or Langdon Hills."
+          },
+          {
+            "name": "International Cuisine",
+            "tip": "The Festival Leisure Park has a wide choice of restaurants, from Italian to American."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel von Langdon Hills",
+            "tip": "Der höchste Punkt bietet eine weite Aussicht und einen Moment der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Pfade im Noak Bridge Reserve",
+            "tip": "Entfliehen Sie den Hauptwegen für ein ungestörtes Naturerlebnis.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Langdon Hills csúcsa",
+            "tip": "A legmagasabb pontról széles kilátás nyílik, és egy pillanatnyi csendet kínál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett ösvények a Noak Bridge rezervátumban",
+            "tip": "Térjen le a fő útról egy zavartalan természeti élményért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Langdon Hills",
+            "tip": "Cel mai înalt punct oferă o priveliște vastă și un moment de liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cărări ascunse în Rezervația Noak Bridge",
+            "tip": "Evadați de pe cărările principale pentru o experiență neîntreruptă în natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Langdon Hills",
+            "tip": "The highest point offers expansive views and a moment of peace.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden paths in Noak Bridge Reserve",
+            "tip": "Escape the main trails for an undisturbed nature experience.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen",
+            "tip": "Besuchen Sie einen lokalen Fahrradladen für Zubehör oder Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Látogasson el egy helyi kerékpárboltba kiegészítőkért vagy ajándéktárgyakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Vizitați un magazin local de biciclete pentru accesorii sau suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Visit a local bike shop for any gear or souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Ein Fahrradschloss ist unerlässlich, wenn Sie die Reservate zu Fuß erkunden.",
+          "Nehmen Sie viel Wasser und Snacks für die längeren Strecken mit.",
+          "Einige Wege in den Parks können schlammig sein, seien Sie also vorbereitet."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "A kerékpárzár elengedhetetlen, ha gyalog fedezi fel a rezervátumokat.",
+          "Vigyen magával sok vizet és harapnivalót a hosszabb szakaszokra.",
+          "A parkokban néhány ösvény sáros lehet, készüljön fel rá."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a porni.",
+          "Un lacăt pentru bicicletă este esențial dacă explorați rezervațiile pe jos.",
+          "Luați multă apă și gustări pentru traseele mai lungi.",
+          "Unele poteci din parcuri pot fi noroioase, fiți pregătiți."
+        ],
+        "en": [
+          "Check your tyre pressure before setting off.",
+          "A bike lock is essential for when you explore the reserves on foot.",
+          "Bring plenty of water and snacks for the longer stretches.",
+          "Some paths in the parks can be muddy, so be prepared."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 34.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Tyler Country Park",
+            "hu": "Wat Tyler Country Park",
+            "ro": "Parcul Național Wat Tyler",
+            "en": "Wat Tyler Country Park"
+          },
+          "coords": [
+            0.518,
+            51.522
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Gebäude und die vielfältige Tierwelt. (Cluster A)",
+            "hu": "Fedezze fel a történelmi épületeket és a változatos vadvilágot. (A csoport)",
+            "ro": "Explorați clădirile istorice și fauna diversă. (Cluster A)",
+            "en": "Explore the historical buildings and diverse wildlife. (Cluster A)"
+          }
+        },
+        {
+          "name": {
+            "de": "RSPB Vange Wick",
+            "hu": "RSPB Vange Wick",
+            "ro": "RSPB Vange Wick",
+            "en": "RSPB Vange Wick"
+          },
+          "coords": [
+            0.515,
+            51.525
+          ],
+          "category": "natural features",
+          "arrive_at": "11:30",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zu einem Vogelbeobachtungs-Hotspot. (Cluster A)",
+            "hu": "Rövid séta a parkolótól a madármegfigyelő helyig. (A csoport)",
+            "ro": "O scurtă plimbare de la parcare la un punct de observare a păsărilor. (Cluster A)",
+            "en": "A short walk from the car park to a birdwatching hotspot. (Cluster A)"
+          }
+        },
+        {
+          "name": {
+            "de": "Barleylands Farm Park",
+            "hu": "Barleylands Farm Park",
+            "ro": "Parcul Fermei Barleylands",
+            "en": "Barleylands Farm Park"
+          },
+          "coords": [
+            0.55,
+            51.605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Spaß für die ganze Familie mit Tieren, Handwerksläden und Traktorfahrten. (Cluster B)",
+            "hu": "Móka az egész családnak állatokkal, kézműves boltokkal és traktorozással. (B csoport)",
+            "ro": "Distracție pentru întreaga familie cu animale, magazine de artizanat și plimbări cu tractorul. (Cluster B)",
+            "en": "Fun for the whole family with animals, craft shops, and tractor rides. (Cluster B)"
+          }
+        },
+        {
+          "name": {
+            "de": "Langdon Hills Country Park",
+            "hu": "Langdon Hills Country Park",
+            "ro": "Parcul Național Langdon Hills",
+            "en": "Langdon Hills Country Park"
+          },
+          "coords": [
+            0.44,
+            51.55
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Parken Sie und machen Sie einen Spaziergang zum Aussichtspunkt für den Sonnenuntergang. (Cluster C)",
+            "hu": "Parkoljon le, és sétáljon el a kilátóhoz naplementét nézni. (C csoport)",
+            "ro": "Parcați și faceți o plimbare până la punctul de belvedere pentru apus. (Cluster C)",
+            "en": "Park up and take a walk to the viewpoint for sunset views. (Cluster C)"
+          }
+        },
+        {
+          "name": {
+            "de": "One Tree Hill",
+            "hu": "One Tree Hill",
+            "ro": "Dealul One Tree",
+            "en": "One Tree Hill"
+          },
+          "coords": [
+            0.435,
+            51.548
+          ],
+          "category": "natural features",
+          "arrive_at": "17:00",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der beste Aussichtspunkt im Park, nur einen kurzen Spaziergang entfernt. (Cluster C)",
+            "hu": "A park legjobb kilátópontja, csak egy rövid sétára. (C csoport)",
+            "ro": "Cel mai bun punct de belvedere din parc, la o scurtă plimbare. (Cluster C)",
+            "en": "The best viewpoint in the park, just a short stroll away. (Cluster C)"
+          }
+        },
+        {
+          "name": {
+            "de": "Festival Leisure Park",
+            "hu": "Festival Szabadidőpark",
+            "ro": "Parcul de Agrement Festival",
+            "en": "Festival Leisure Park"
+          },
+          "coords": [
+            0.495,
+            51.565
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:40",
+          "stay_min": 70,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Abendessen und vielleicht einem Film. (Cluster D)",
+            "hu": "Zárja a napot egy vacsorával és esetleg egy mozival. (D csoport)",
+            "ro": "Încheiați ziua cu o cină și poate un film. (Cluster D)",
+            "en": "End the day with dinner and maybe a movie. (Cluster D)"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag konzentriert sich auf die grünen Oasen um Basildon. Beginnen Sie im Wat Tyler Country Park (Cluster A), wo Geschichte und Natur aufeinandertreffen. Ein kurzer Spaziergang führt Sie zum Vogelparadies Vange Wick. Anschließend fahren Sie zum Barleylands Farm Park (Cluster B) für ländlichen Charme und Familienspaß. Der späte Nachmittag gehört dem Langdon Hills Country Park (Cluster C), wo Sie bei einem Spaziergang die beste Aussicht auf die Region genießen. Schließlich kehren Sie in die Zivilisation zurück und beenden den Tag im Festival Leisure Park (Cluster D) mit einem entspannten Abendessen.",
+        "hu": "Az autós napja a Basildon körüli zöld oázisokra összpontosít. Kezdje a Wat Tyler Country Parkban (A csoport), ahol a történelem és a természet találkozik. Egy rövid séta elvezeti a Vange Wick madárparadicsomba. Ezután hajtson a Barleylands Farm Parkba (B csoport) a vidéki bájért és a családi szórakozásért. A késő délután a Langdon Hills Country Parké (C csoport), ahol egy sétával élvezheti a régió legjobb kilátását. Végül térjen vissza a civilizációba, és zárja a napot a Festival Leisure Parkban (D csoport) egy pihentető vacsorával.",
+        "ro": "Ziua dvs. cu mașina se concentrează pe oazele verzi din jurul Basildonului. Începeți la Parcul Național Wat Tyler (Cluster A), unde istoria și natura se întâlnesc. O scurtă plimbare vă duce la paradisul păsărilor Vange Wick. Apoi, conduceți la Parcul Fermei Barleylands (Cluster B) pentru farmec rural și distracție în familie. Sfârșitul după-amiezii este dedicat Parcului Național Langdon Hills (Cluster C), unde o plimbare vă oferă cele mai bune priveliști ale regiunii. În cele din urmă, reveniți la civilizație și încheiați ziua la Parcul de Agrement Festival (Cluster D) cu o cină relaxantă.",
+        "en": "Your car-based day focuses on the green oases around Basildon. Start at Wat Tyler Country Park (Cluster A), where history and nature meet. A short walk takes you to the bird paradise of Vange Wick. Next, drive to Barleylands Farm Park (Cluster B) for rural charm and family fun. The late afternoon is for Langdon Hills Country Park (Cluster C), where a walk reveals the best views in the region. Finally, return to civilization and end the day at Festival Leisure Park (Cluster D) with a relaxing dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hofladen-Produkte",
+            "tip": "Kaufen Sie frische, lokale Produkte im Laden des Barleylands Farm Park."
+          },
+          {
+            "name": "Picknick im Park",
+            "tip": "Stellen Sie sich ein Picknick zusammen und genießen Sie es in einem der weitläufigen Parks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői termékek",
+            "tip": "Vásároljon friss, helyi termékeket a Barleylands Farm Park boltjában."
+          },
+          {
+            "name": "Piknik a parkban",
+            "tip": "Állítson össze egy piknikkosarat, és fogyassza el az egyik tágas parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de la fermă",
+            "tip": "Cumpărați produse proaspete, locale, de la magazinul Parcului Fermei Barleylands."
+          },
+          {
+            "name": "Picnic în parc",
+            "tip": "Pregătiți un picnic și savurați-l într-unul dintre parcurile expansive."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shop Produce",
+            "tip": "Buy some fresh, local produce from the shop at Barleylands Farm Park."
+          },
+          {
+            "name": "Park Picnic",
+            "tip": "Put together a picnic to enjoy in one of the expansive parks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Langdon Hills",
+            "tip": "Ein atemberaubender Panoramablick, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wat Tyler Marschland",
+            "tip": "Finden Sie einen abgelegenen Pfad und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Langdon Hills kilátó",
+            "tip": "Lélegzetelállító panoráma, különösen naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wat Tyler lápvidék",
+            "tip": "Keressen egy eldugott ösvényt, és hallgassa a természet hangjait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Langdon Hills",
+            "tip": "O panoramă uluitoare, mai ales la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mlaștinile din Wat Tyler",
+            "tip": "Găsiți o potecă izolată și ascultați sunetele naturii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Langdon Hills Viewpoint",
+            "tip": "A stunning panorama, especially at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wat Tyler Marshes",
+            "tip": "Find a secluded path and listen to the sounds of nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Craft Village bei Barleylands",
+            "tip": "Entdecken Sie einzigartiges, handgefertigtes Kunsthandwerk und Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves falu Barleylands-ben",
+            "tip": "Fedezzen fel egyedi, kézzel készített tárgyakat és ajándékokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Satul meșteșugăresc de la Barleylands",
+            "tip": "Descoperiți obiecte de artizanat și cadouri unice, realizate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Craft Village at Barleylands",
+            "tip": "Discover unique, handmade crafts and gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Ländereien sind groß, planen Sie also genügend Zeit für jeden Park ein.",
+          "Parkgebühren können anfallen, halten Sie also etwas Kleingeld bereit.",
+          "Verwenden Sie eine Navigations-App, um zwischen den weit verstreuten Orten zu navigieren.",
+          "Überprüfen Sie die Öffnungszeiten der Farm und der Parks, da diese saisonal variieren können."
+        ],
+        "hu": [
+          "A birtokok nagyok, ezért tervezzen elegendő időt minden parkra.",
+          "Parkolási díjak lehetnek, tartson magánál némi aprópénzt.",
+          "Használjon navigációs alkalmazást a távoli helyszínek közötti közlekedéshez.",
+          "Ellenőrizze a farm és a parkok nyitvatartási idejét, mivel ezek szezonálisan változhatnak."
+        ],
+        "ro": [
+          "Domeniile sunt vaste, așa că alocați suficient timp pentru fiecare parc.",
+          "Se pot aplica taxe de parcare, așa că aveți la îndemână niște mărunțiș.",
+          "Utilizați o aplicație de navigație pentru a vă deplasa între locațiile îndepărtate.",
+          "Verificați orele de program ale fermei și parcurilor, deoarece acestea pot varia sezonier."
+        ],
+        "en": [
+          "The estates are large, so plan enough time for each park.",
+          "Parking fees may apply, so have some change ready.",
+          "Use a navigation app to get between the widespread locations.",
+          "Check opening times for the farm and parks as they can be seasonal."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Martin's Bell Tower",
+            "hu": "Szent Márton harangtorony",
+            "ro": "Turnul cu clopote St. Martin",
+            "en": "St. Martin's Bell Tower"
+          },
+          "coords": [
+            0.474,
+            51.571
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie im Zentrum, leicht erreichbar vom Busbahnhof. (Cluster A)",
+            "hu": "Kezdje a központban, könnyen megközelíthető a buszpályaudvartól. (A csoport)",
+            "ro": "Începeți din centru, ușor accesibil de la autogară. (Cluster A)",
+            "en": "Start in the centre, easily reached from the bus station. (Cluster A)"
+          }
+        },
+        {
+          "name": {
+            "de": "Gloucester Park",
+            "hu": "Gloucester Park",
+            "ro": "Parcul Gloucester",
+            "en": "Gloucester Park"
+          },
+          "coords": [
+            0.485,
+            51.567
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Glockenturm entfernt. (Cluster A)",
+            "hu": "Rövid sétára a harangtoronytól. (A csoport)",
+            "ro": "O scurtă plimbare de la turnul cu clopote. (Cluster A)",
+            "en": "A short walk from the bell tower. (Cluster A)"
+          }
+        },
+        {
+          "name": {
+            "de": "Langdon Hills Country Park",
+            "hu": "Langdon Hills Country Park",
+            "ro": "Parcul Național Langdon Hills",
+            "en": "Langdon Hills Country Park"
+          },
+          "coords": [
+            0.44,
+            51.55
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zu diesem Hügelpark. (Cluster B)",
+            "hu": "Menjen busszal ehhez a dombos parkhoz. (B csoport)",
+            "ro": "Luați un autobuz spre acest parc deluros. (Cluster B)",
+            "en": "Take a bus out to this hilly park. (Cluster B)"
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Tyler Country Park",
+            "hu": "Wat Tyler Country Park",
+            "ro": "Parcul Național Wat Tyler",
+            "en": "Wat Tyler Country Park"
+          },
+          "coords": [
+            0.518,
+            51.522
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie zu diesem historischen und natürlichen Ort. (Cluster C)",
+            "hu": "Egy újabb buszút visz el ehhez a történelmi és természeti helyszínhez. (C csoport)",
+            "ro": "O altă călătorie cu autobuzul vă duce la acest sit istoric și natural. (Cluster C)",
+            "en": "Another bus ride takes you to this historic and natural site. (Cluster C)"
+          }
+        },
+        {
+          "name": {
+            "de": "Festival Leisure Park",
+            "hu": "Festival Szabadidőpark",
+            "ro": "Parcul de Agrement Festival",
+            "en": "Festival Leisure Park"
+          },
+          "coords": [
+            0.495,
+            51.565
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag hier, leicht erreichbar mit dem Bus vom Stadtzentrum. (Cluster A)",
+            "hu": "Zárja itt a napot, a városközpontból busszal könnyen megközelíthető. (A csoport)",
+            "ro": "Încheiați ziua aici, ușor accesibil cu autobuzul din centrul orașului. (Cluster A)",
+            "en": "Finish the day here, easily reached by bus from the town centre. (Cluster A)"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Basildon in Clustern. Sie beginnen im Stadtzentrum (Cluster A) mit dem St. Martin's Bell Tower und einem Spaziergang zum Gloucester Park. Ein Bus bringt Sie dann zum Langdon Hills Country Park (Cluster B), wo Sie mittags die Aussicht genießen. Am Nachmittag fahren Sie weiter zum Wat Tyler Country Park (Cluster C), um in die lokale Geschichte einzutauchen. Der Tag endet wieder im Zentrum, im Festival Leisure Park (Teil von Cluster A), der perfekte Ort für ein Abendessen, bevor Sie den Bus nach Hause nehmen.",
+        "hu": "Tömegközlekedéssel csoportokban fedezi fel Basildont. A városközpontban kezdi (A csoport) a Szent Márton harangtoronnyal és egy sétával a Gloucester Parkba. Egy busz elviszi a Langdon Hills Country Parkba (B csoport), ahol ebédidőben élvezheti a kilátást. Délután továbbmegy a Wat Tyler Country Parkba (C csoport), hogy elmerüljön a helyi történelemben. A nap ismét a központban, a Festival Szabadidőparkban ér véget (az A csoport része), amely tökéletes hely egy vacsorához, mielőtt hazabuszozna.",
+        "ro": "Folosind transportul public, explorați Basildonul în clustere. Începeți în centrul orașului (Cluster A) cu Turnul cu clopote St. Martin și o plimbare până la Parcul Gloucester. Un autobuz vă duce apoi la Parcul Național Langdon Hills (Cluster B) pentru a vă bucura de priveliști la prânz. După-amiaza, călătoriți mai departe spre Parcul Național Wat Tyler (Cluster C) pentru a vă cufunda în istoria locală. Ziua se încheie din nou în centru, la Parcul de Agrement Festival (parte din Cluster A), locul perfect pentru cină înainte de a lua autobuzul spre casă.",
+        "en": "Using public transport, you'll explore Basildon in clusters. You start in the town centre (Cluster A) with St. Martin's Bell Tower and a walk to Gloucester Park. A bus then takes you to Langdon Hills Country Park (Cluster B) to enjoy midday views. In the afternoon, you travel onward to Wat Tyler Country Park (Cluster C) to immerse yourself in local history. The day ends back in the centre at Festival Leisure Park (part of Cluster A), the perfect spot for dinner before catching your bus home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandwich-Laden",
+            "tip": "Holen Sie sich ein Sandwich für ein schnelles Mittagessen zwischen den Busfahrten."
+          },
+          {
+            "name": "Kettenrestaurants",
+            "tip": "Der Festival Leisure Park bietet verlässliche und schnelle Optionen für das Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szendvicsbár",
+            "tip": "Vegyen egy szendvicset egy gyors ebédhez a buszutak között."
+          },
+          {
+            "name": "Étteremláncok",
+            "tip": "A Festival Szabadidőpark megbízható és gyors vacsoralehetőségeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandwicherie",
+            "tip": "Luați un sandviș pentru un prânz rapid între călătoriile cu autobuzul."
+          },
+          {
+            "name": "Lanțuri de restaurante",
+            "tip": "Parcul de Agrement Festival oferă opțiuni de încredere și rapide pentru cină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandwich Shop",
+            "tip": "Grab a sandwich for a quick lunch between bus journeys."
+          },
+          {
+            "name": "Chain Restaurants",
+            "tip": "Festival Leisure Park offers reliable and quick options for dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Langdon Hills Park",
+            "tip": "Suchen Sie sich einen Platz mit Blick auf das Tal und genießen Sie die Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der Garten des Wat Tyler Parks",
+            "tip": "Ein friedlicher Ort abseits der Hauptattraktionen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Langdon Hills Parkban",
+            "tip": "Keressen egy helyet, ahonnan kilátás nyílik a völgyre, és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Wat Tyler Park kertje",
+            "tip": "Egy békés hely a fő látványosságoktól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Langdon Hills",
+            "tip": "Găsiți un loc cu vedere la vale și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina din Parcul Wat Tyler",
+            "tip": "Un loc pașnic, departe de atracțiile principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Langdon Hills Park",
+            "tip": "Find a spot overlooking the valley and enjoy the peace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The garden at Wat Tyler Park",
+            "tip": "A peaceful spot away from the main attractions.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eastgate Shopping Centre",
+            "tip": "Nahe dem Busbahnhof gelegen, praktisch für einen schnellen Einkaufsbummel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eastgate Bevásárlóközpont",
+            "tip": "A buszpályaudvar közelében található, praktikus egy gyors bevásárláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Eastgate",
+            "tip": "Situat lângă autogară, convenabil pentru o sesiune rapidă de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eastgate Shopping Centre",
+            "tip": "Located near the bus station, convenient for a quick shopping trip."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Laden Sie eine Bus-Tracker-App herunter, um Ihre Reise zu planen.",
+          "Beachten Sie die Fahrpläne, insbesondere für die letzte Rückfahrt aus den Parks.",
+          "Einige Haltestellen in den ländlichen Gebieten sind möglicherweise nur Haltestellen auf Verlangen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Töltsön le egy buszkövető alkalmazást az utazás megtervezéséhez.",
+          "Vegye figyelembe a menetrendet, különösen az utolsó visszaútra a parkokból.",
+          "A vidéki területeken egyes megállók csak kérésre állnak meg."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Descărcați o aplicație de urmărire a autobuzelor pentru a vă planifica călătoria.",
+          "Fiți atenți la orare, în special pentru ultima călătorie de întoarcere din parcuri.",
+          "Unele stații din zonele rurale pot fi doar la cerere."
+        ],
+        "en": [
+          "Buy a day rider bus ticket to save money.",
+          "Download a bus tracker app to help plan your journey.",
+          "Be mindful of the timetables, especially for the last journey back from the parks.",
+          "Some stops in the rural areas might be request stops only."
+        ]
+      }
+    }
+  }
+}

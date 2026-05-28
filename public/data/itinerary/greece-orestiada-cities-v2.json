@@ -1,0 +1,1460 @@
+{
+  "city_id": "greece-orestiada-cities-v2",
+  "anchor": {
+    "name": "Orestiada",
+    "coords": [
+      26.53,
+      41.5
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz von Orestiada",
+            "hu": "Oresztiáda központi tere",
+            "ro": "Piața Centrală din Orestiada",
+            "en": "Central Square of Orestiada"
+          },
+          "coords": [
+            26.5305,
+            41.501
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
+            "en": "Start your day with a coffee at one of the many cafés lining the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Stadtgründer",
+            "hu": "Városalapítók emlékműve",
+            "ro": "Monumentul Fondatorilor Orașului",
+            "en": "Monument of the City Founders"
+          },
+          "coords": [
+            26.53,
+            41.5005
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lesen Sie die Inschriften, um die Geschichte der Flüchtlingsgründer zu verstehen.",
+            "hu": "Olvassa el a feliratokat, hogy megértse a menekült alapítók történetét.",
+            "ro": "Citiți inscripțiile pentru a înțelege povestea fondatorilor refugiați.",
+            "en": "Read the inscriptions to understand the story of the refugee founders."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agioi Theodoroi",
+            "hu": "Agioi Theodoroi templom",
+            "ro": "Biserica Agioi Theodoroi",
+            "en": "Church of Agioi Theodoroi"
+          },
+          "coords": [
+            26.531,
+            41.503
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die moderne Ikonographie im Inneren der Kathedrale.",
+            "hu": "Figyelje meg a modern ikonográfiát a katedrális belsejében.",
+            "ro": "Observați iconografia modernă din interiorul catedralei.",
+            "en": "Pay attention to the modern iconography inside the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Volkskunde und Kunstgeschichte",
+            "hu": "Néprajzi és Művészettörténeti Múzeum",
+            "ro": "Muzeul de Folclor și Istoria Artei",
+            "en": "Museum of Folklore and Art History"
+          },
+          "coords": [
+            26.529,
+            41.502
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Abteilung über das Leben der Flüchtlinge aus Adrianopel.",
+            "hu": "Ne hagyja ki az Adrianápolyból érkezett menekültek életét bemutató részt.",
+            "ro": "Nu ratați secțiunea despre viața refugiaților din Adrianopol.",
+            "en": "Don't miss the section on the life of refugees from Adrianople."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Bahnhof",
+            "hu": "Történelmi vasútállomás",
+            "ro": "Gara Istorică",
+            "en": "Historical Train Station"
+          },
+          "coords": [
+            26.535,
+            41.508
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stellen Sie sich den Orient-Express vor, der einst hier hielt.",
+            "hu": "Képzelje el az Orient Expresszt, amely egykor itt állt meg.",
+            "ro": "Imaginați-vă Orient Expressul care oprea odată aici.",
+            "en": "Imagine the Orient Express that once stopped here."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi park",
+            "ro": "Parcul Municipal",
+            "en": "City Park"
+          },
+          "coords": [
+            26.525,
+            41.498
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Pause am Nachmittag im Schatten der Bäume.",
+            "hu": "Ideális hely egy délutáni pihenőre a fák árnyékában.",
+            "ro": "Un loc ideal pentru o pauză de după-amiază la umbra copacilor.",
+            "en": "An ideal spot for an afternoon break in the shade of the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer des Flusses Ardas",
+            "hu": "Ardasz folyó partja",
+            "ro": "Malul râului Ardas",
+            "en": "Banks of the Ardas River"
+          },
+          "coords": [
+            26.545,
+            41.495
+          ],
+          "category": "natural features",
+          "arrive_at": "15:24, plus 30min buffer",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe am Wasser, besonders bei Sonnenuntergang.",
+            "hu": "Élvezze a vízparti csendet, különösen naplementekor.",
+            "ro": "Bucurați-vă de liniștea de pe malul apei, mai ales la apus.",
+            "en": "Enjoy the tranquility by the water, especially at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Orestiada beginnt auf dem lebhaften Zentralplatz, dem Herzen der Stadt. Nach der Erkundung der Gründungsgeschichte und der spirituellen Seite der Stadt im Agioi Theodoroi, tauchen Sie im Volkskundemuseum tief in die lokale Kultur ein. Am Nachmittag spazieren Sie zum historischen Bahnhof, der von einer vergangenen Ära erzählt, bevor Sie im Stadtpark entspannen und den Tag friedlich am Ufer des Ardas ausklingen lassen.",
+        "hu": "Oresztiádai napja a város szívében, a nyüzsgő központi téren kezdődik. A város alapításának története és a spirituális feltöltődés után az Agioi Theodoroi templomban, a néprajzi múzeumban mélyedhet el a helyi kultúrában. Délután sétáljon el a letűnt kort idéző történelmi vasútállomáshoz, majd pihenjen a városi parkban, és zárja a napot békésen az Ardasz folyó partján.",
+        "ro": "Ziua dvs. în Orestiada începe în Piața Centrală plină de viață, inima orașului. După ce explorați istoria fondării și latura spirituală la Biserica Agioi Theodoroi, vă veți cufunda în cultura locală la Muzeul de Folclor. După-amiaza, vă veți plimba la gara istorică, care povestește despre o epocă trecută, înainte de a vă relaxa în Parcul Municipal și a încheia ziua în liniște pe malul râului Ardas.",
+        "en": "Your day in Orestiada begins at the lively Central Square, the heart of the city. After exploring the founding history and spiritual side at Agioi Theodoroi Church, you'll delve deep into local culture at the Folklore Museum. In the afternoon, stroll to the historic train station, which tells of a bygone era, before relaxing in the City Park and peacefully ending the day on the banks of the Ardas River."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bougatsa",
+            "tip": "Ein süßes oder herzhaftes Gebäck, perfekt zum Frühstück."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "Ein traditionelles gepökeltes Fleisch aus der Region Thrakien."
+          },
+          {
+            "name": "Taverne 'To Steki'",
+            "tip": "Bekannt für authentische thrakische Gerichte und eine gemütliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bougatsa",
+            "tip": "Édes vagy sós péksütemény, tökéletes reggelire."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "Hagyományos pácolt hús Trákia régiójából."
+          },
+          {
+            "name": "'To Steki' Taverna",
+            "tip": "Híres az autentikus trák ételekről és a barátságos légkörről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bougatsa",
+            "tip": "O patiserie dulce sau sărată, perfectă pentru micul dejun."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "O carne conservată tradițională din regiunea Tracia."
+          },
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Renumită pentru preparate tracice autentice și o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bougatsa",
+            "tip": "A sweet or savory pastry, perfect for breakfast."
+          },
+          {
+            "name": "Kavourmas",
+            "tip": "A traditional cured meat from the Thrace region."
+          },
+          {
+            "name": "'To Steki' Tavern",
+            "tip": "Known for authentic Thracian dishes and a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Ardas",
+            "tip": "Ein Spaziergang entlang des Flusses bietet Ruhe und Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Finden Sie eine ruhige Bank unter den Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirche Agioi Theodoroi",
+            "tip": "Momente der Stille und Besinnung am Vormittag.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ardasz folyó partja",
+            "tip": "Egy séta a folyó mentén nyugalmat és természetet kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városi park",
+            "tip": "Találjon egy csendes padot a fák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Agioi Theodoroi templom",
+            "tip": "A csend és az elmélkedés pillanatai délelőtt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Ardas",
+            "tip": "O plimbare de-a lungul râului oferă liniște și natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Municipal",
+            "tip": "Găsiți o bancă liniștită sub copaci.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Agioi Theodoroi",
+            "tip": "Momente de liniște și contemplare dimineața.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Ardas River",
+            "tip": "A walk along the river offers peace and nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "City Park",
+            "tip": "Find a quiet bench under the trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church of Agioi Theodoroi",
+            "tip": "Moments of silence and contemplation in the morning.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie lokale Produkte wie Honig, Käse und Kräuter."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach traditioneller thrakischer Keramik und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi termékeket, mint a méz, sajt és fűszernövények."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen hagyományos trák kerámiákat és textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse locale precum miere, brânză și ierburi."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică și textile tradiționale tracice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy local products like honey, cheese, and herbs."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Look for traditional Thracian pottery and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Nehmen Sie Wasser mit, besonders in den wärmeren Monaten.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie ein Mittagessen in einer Taverne in der Nähe des Museums ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Vigyen magával vizet, különösen a melegebb hónapokban.",
+          "A legtöbb belvárosi látnivaló könnyen elérhető gyalog.",
+          "Tervezzen egy ebédet a múzeum közelében található egyik tavernában."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi în picioare toată ziua.",
+          "Luați apă cu dvs., mai ales în lunile mai calde.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Planificați un prânz la o tavernă de lângă muzeu."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet all day.",
+          "Bring water with you, especially during the warmer months.",
+          "Most city center sights are easily within walking distance.",
+          "Plan for lunch at a tavern near the museum."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 11.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Historischer Bahnhof",
+            "hu": "Történelmi vasútállomás",
+            "ro": "Gara Istorică",
+            "en": "Historical Train Station"
+          },
+          "coords": [
+            26.535,
+            41.508
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour an diesem Symbol der Verkehrsgeschichte der Stadt.",
+            "hu": "Kezdje a túrát a város közlekedéstörténeti szimbólumánál.",
+            "ro": "Începeți turul de la acest simbol al istoriei transportului orașului.",
+            "en": "Start your tour at this symbol of the city's transport history."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralplatz & Denkmal",
+            "hu": "Központi tér és emlékmű",
+            "ro": "Piața Centrală și Monumentul",
+            "en": "Central Square & Monument"
+          },
+          "coords": [
+            26.5305,
+            41.501
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:52",
+          "stay_min": 35,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den Platz und das Denkmal zu Fuß.",
+            "hu": "Tegye le a biciklit, és fedezze fel a teret és az emlékművet gyalog.",
+            "ro": "Parcați bicicleta și explorați piața și monumentul pe jos.",
+            "en": "Park your bike and explore the square and monument on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Volkskunde und Kunstgeschichte",
+            "hu": "Néprajzi és Művészettörténeti Múzeum",
+            "ro": "Muzeul de Folclor și Istoria Artei",
+            "en": "Museum of Folklore and Art History"
+          },
+          "coords": [
+            26.529,
+            41.502
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a múzeumba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în muzeu.",
+            "en": "Lock your bike securely before entering the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum von Orestiada",
+            "hu": "Oresztiádai Kulturális Központ",
+            "ro": "Centrul Cultural din Orestiada",
+            "en": "Cultural Centre of Orestiada"
+          },
+          "coords": [
+            26.533,
+            41.505
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm auf eventuelle Tagesveranstaltungen oder Ausstellungen.",
+            "hu": "Nézze meg a programot, hátha van napközbeni esemény vagy kiállítás.",
+            "ro": "Verificați programul pentru evenimente sau expoziții de zi.",
+            "en": "Check the schedule for any daytime events or exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi park",
+            "ro": "Parcul Municipal",
+            "en": "City Park"
+          },
+          "coords": [
+            26.525,
+            41.498
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick-Mittagessen, das Sie auf dem lokalen Markt gekauft haben.",
+            "hu": "Tökéletes egy piknikebédhez, amit a helyi piacon vásárolt.",
+            "ro": "Perfect pentru un prânz la picnic cumpărat de la piața locală.",
+            "en": "Perfect for a picnic lunch bought from the local market."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer des Flusses Ardas",
+            "hu": "Ardasz folyó partja",
+            "ro": "Malul râului Ardas",
+            "en": "Banks of the Ardas River"
+          },
+          "coords": [
+            26.545,
+            41.495
+          ],
+          "category": "natural features",
+          "arrive_at": "14:31, plus 30min buffer",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie den Radweg entlang des Flusses für eine erfrischende Brise.",
+            "hu": "Tekerjen végig a folyó menti kerékpárúton egy frissítő szellőért.",
+            "ro": "Mergeți pe pista de biciclete de-a lungul râului pentru o briză răcoritoare.",
+            "en": "Ride the bike path along the river for a refreshing breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Orestiada startet am historischen Bahnhof und führt Sie schnell ins Herz der Stadt zum Zentralplatz. Nach einer Vertiefung in die lokale Geschichte im Volkskundemuseum, werfen Sie einen Blick auf das kulturelle Leben im Kulturzentrum. Der Nachmittag ist der Natur gewidmet, mit einer entspannten Pause im Stadtpark und einer ausgedehnten Fahrt entlang des malerischen Ardas-Flusses, die den perfekten Abschluss eines aktiven Tages bildet.",
+        "hu": "Oresztiádai kerékpártúrája a történelmi vasútállomástól indul, és gyorsan a város szívébe, a központi térre vezet. Miután elmélyedt a helyi történelemben a néprajzi múzeumban, vessen egy pillantást a kulturális központ életére. A délután a természeté, egy pihentető szünettel a városi parkban és egy hosszabb tekeréssel a festői Ardasz folyó mentén, ami tökéletes lezárása egy aktív napnak.",
+        "ro": "Turul cu bicicleta prin Orestiada începe de la gara istorică și vă duce rapid în inima orașului, în Piața Centrală. După o incursiune în istoria locală la Muzeul de Folclor, aruncați o privire la viața culturală la Centrul Cultural. După-amiaza este dedicată naturii, cu o pauză relaxantă în Parcul Municipal și o plimbare extinsă de-a lungul pitorescului râu Ardas, încheind perfect o zi activă.",
+        "en": "Your bike tour of Orestiada starts at the historic train station and quickly takes you to the heart of the city at the Central Square. After delving into local history at the Folklore Museum, take a look at the cultural life at the Cultural Centre. The afternoon is dedicated to nature, with a relaxing break in the City Park and an extended ride along the scenic Ardas River, perfectly rounding off an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Grillspezialitäten",
+            "tip": "Probieren Sie Souvlaki oder Gyros von einem lokalen Grillhaus."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Der klassische griechische Eiskaffee für eine Radpause."
+          },
+          {
+            "name": "Mezedopoleio 'I Gefsi'",
+            "tip": "Ein Ort, um viele kleine Gerichte (Mezedes) zu teilen und zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi grill specialitások",
+            "tip": "Kóstolja meg a souvlakit vagy a gyrost egy helyi grillbárban."
+          },
+          {
+            "name": "Frappé",
+            "tip": "A klasszikus görög jegeskávé egy biciklis szünethez."
+          },
+          {
+            "name": "'I Gefsi' Mezedopoleio",
+            "tip": "Egy hely, ahol sok kis fogást (mezedes) oszthat meg és kóstolhat meg."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specialități locale la grătar",
+            "tip": "Încercați Souvlaki sau Gyros de la o rotiserie locală."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Clasica cafea cu gheață grecească pentru o pauză de la bicicletă."
+          },
+          {
+            "name": "Mezedopoleio 'I Gefsi'",
+            "tip": "Un loc pentru a împărți și a gusta multe feluri mici (mezedes)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Grill Specialties",
+            "tip": "Try souvlaki or gyros from a local grill house."
+          },
+          {
+            "name": "Frappé",
+            "tip": "The classic Greek iced coffee for a cycling break."
+          },
+          {
+            "name": "'I Gefsi' Mezedopoleio",
+            "tip": "A place to share and sample many small dishes (mezedes)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Ardas",
+            "tip": "Der Flussweg ist morgens besonders ruhig und friedlich.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hinterhof eines Kafenio",
+            "tip": "Finden Sie ein traditionelles Café für eine ruhige Pause.",
+            "emoji": "☕"
+          },
+          {
+            "name": "Aussichtspunkt außerhalb der Stadt",
+            "tip": "Eine kurze Radtour zu einem Hügel für einen Panoramablick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút az Ardasz mentén",
+            "tip": "A folyóparti út reggelente különösen csendes és békés.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy Kafenio hátsó udvara",
+            "tip": "Keressen egy hagyományos kávézót egy csendes pihenőre.",
+            "emoji": "☕"
+          },
+          {
+            "name": "Kilátópont a városon kívül",
+            "tip": "Rövid biciklitúra egy dombra a panorámás kilátásért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe Ardas",
+            "tip": "Traseul de pe râu este deosebit de liniștit și pașnic dimineața.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea unei Kafenio",
+            "tip": "Găsiți o cafenea tradițională pentru o pauză liniștită.",
+            "emoji": "☕"
+          },
+          {
+            "name": "Punct de belvedere în afara orașului",
+            "tip": "O scurtă plimbare cu bicicleta pe un deal pentru o vedere panoramică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path on the Ardas",
+            "tip": "The river path is especially quiet and peaceful in the morning.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Backyard of a Kafenio",
+            "tip": "Find a traditional coffee shop for a quiet break.",
+            "emoji": "☕"
+          },
+          {
+            "name": "Viewpoint outside the city",
+            "tip": "A short bike ride to a hill for a panoramic view.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Kaufen Sie energiereiche Snacks für Ihre Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Vásároljon energiadús harapnivalókat az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Cumpărați gustări energizante pentru plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bicycle Shop",
+            "tip": "For accessories or quick repairs."
+          },
+          {
+            "name": "Local Bakery",
+            "tip": "Buy energy-rich snacks for your ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Ein Helm wird dringend empfohlen.",
+          "Orestiada ist relativ flach und daher gut zum Radfahren geeignet.",
+          "Achten Sie auf den Verkehr, besonders in der Nähe des Stadtzentrums."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "A sisak használata erősen ajánlott.",
+          "Oresztiáda viszonylag sík, így kiválóan alkalmas kerékpározásra.",
+          "Vigyázzon a forgalomra, különösen a városközpont közelében."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Casca este foarte recomandată.",
+          "Orestiada este relativ plată, ceea ce o face bună pentru ciclism.",
+          "Fiți atenți la trafic, mai ales în apropierea centrului orașului."
+        ],
+        "en": [
+          "Check your tire pressure before you set off.",
+          "A helmet is strongly recommended.",
+          "Orestiada is relatively flat, making it good for cycling.",
+          "Be mindful of traffic, especially near the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 17.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ufer des Flusses Ardas",
+            "hu": "Ardasz folyó partja",
+            "ro": "Malul râului Ardas",
+            "en": "Banks of the Ardas River"
+          },
+          "coords": [
+            26.545,
+            41.495
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem ruhigen Moment in der Natur, bevor die Stadt erwacht.",
+            "hu": "Kezdje a napot egy csendes pillanattal a természetben, mielőtt a város felébred.",
+            "ro": "Începeți ziua cu un moment de liniște în natură înainte ca orașul să se trezească.",
+            "en": "Start the day with a quiet moment in nature before the city wakes up."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Bahnhof",
+            "hu": "Történelmi vasútállomás",
+            "ro": "Gara Istorică",
+            "en": "Historical Train Station"
+          },
+          "coords": [
+            26.535,
+            41.508
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und stellen Sie sich die Reisenden vergangener Zeiten vor.",
+            "hu": "Parkoljon a közelben, és képzelje el a régmúlt idők utazóit.",
+            "ro": "Parcați în apropiere și imaginați-vă călătorii de altădată.",
+            "en": "Park nearby and imagine the travelers of bygone eras."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralplatz von Orestiada (Cluster Start)",
+            "hu": "Oresztiáda központi tere (Klaszter kezdete)",
+            "ro": "Piața Centrală din Orestiada (Început cluster)",
+            "en": "Central Square of Orestiada (Cluster Start)"
+          },
+          "coords": [
+            26.5305,
+            41.501
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Vormittags und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon le a délelőtt hátralévő részére, és fedezze fel a központot gyalog.",
+            "ro": "Parcați aici pentru restul dimineții și explorați centrul pe jos.",
+            "en": "Park here for the rest of the morning and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agioi Theodoroi",
+            "hu": "Agioi Theodoroi templom",
+            "ro": "Biserica Agioi Theodoroi",
+            "en": "Church of Agioi Theodoroi"
+          },
+          "coords": [
+            26.531,
+            41.503
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz zur beeindruckenden Hauptkirche.",
+            "hu": "Rövid séta a térről a lenyűgöző főtemplomhoz.",
+            "ro": "O scurtă plimbare din piață până la impresionanta biserică principală.",
+            "en": "A short walk from the square to the impressive main church."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Volkskunde und Kunstgeschichte",
+            "hu": "Néprajzi és Művészettörténeti Múzeum",
+            "ro": "Muzeul de Folclor și Istoria Artei",
+            "en": "Museum of Folklore and Art History"
+          },
+          "coords": [
+            26.529,
+            41.502
+          ],
+          "category": "museums",
+          "arrive_at": "12:39",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die reiche Sammlung dieses Museums zu würdigen.",
+            "hu": "Tervezzen elegendő időt a múzeum gazdag gyűjteményének megtekintésére.",
+            "ro": "Planificați suficient timp pentru a aprecia colecția bogată a acestui muzeu.",
+            "en": "Plan enough time to appreciate the rich collection of this museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi park",
+            "ro": "Parcul Municipal",
+            "en": "City Park"
+          },
+          "coords": [
+            26.525,
+            41.498
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:43, plus 30min buffer",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen ein entspannter Spaziergang zum Park, um sich auszuruhen.",
+            "hu": "Ebéd után egy pihentető séta a parkba.",
+            "ro": "După prânz, o plimbare relaxantă în parc pentru a vă odihni.",
+            "en": "After lunch, a relaxing walk to the park to rest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt idyllisch am Ardas-Fluss, bevor Sie zum historischen Bahnhof fahren, einem Relikt des berühmten Orient-Express. Anschließend parken Sie im Stadtzentrum und bilden einen Fußgänger-Cluster: Sie erkunden den Hauptplatz, die Kathedrale und tauchen tief in das Volkskundemuseum ein. Nach einem Mittagessen im Zentrum spazieren Sie zum Stadtpark, um den Nachmittag entspannt ausklingen zu lassen, alles in Reichweite Ihres Parkplatzes.",
+        "hu": "Autós napja idillikusan az Ardasz folyónál kezdődik, mielőtt a történelmi vasútállomáshoz hajtana, a híres Orient Expressz egykori megállójához. Ezután a városközpontban parkol le, és egy gyalogos klasztert alakít ki: felfedezi a főteret, a katedrálist, és elmélyül a néprajzi múzeumban. A belvárosi ebéd után átsétál a városi parkba, hogy pihentetően zárja a délutánt, mindezt a parkolójától kényelmes sétatávolságra.",
+        "ro": "Ziua dvs. cu mașina începe idilic la râul Ardas, înainte de a conduce la gara istorică, o relicvă a faimosului Orient Express. Apoi parcați în centrul orașului și formați un cluster pietonal: explorați piața principală, catedrala și vă adânciți în Muzeul de Folclor. După prânz în centru, vă plimbați până la Parcul Municipal pentru a încheia după-amiaza într-un mod relaxant, totul la distanță de mers pe jos de locul de parcare.",
+        "en": "Your day by car begins idyllically at the Ardas River before you drive to the historic train station, a relic of the famous Orient Express. You then park in the city center and form a pedestrian cluster: exploring the main square, the cathedral, and delving deep into the Folklore Museum. After lunch in the center, you stroll to the City Park to end the afternoon in a relaxed manner, all within easy walking distance of your parking spot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverne im Stadtzentrum",
+            "tip": "Genießen Sie ein ausgiebiges Mittagessen nach dem Museumsbesuch."
+          },
+          {
+            "name": "Süßwarenladen",
+            "tip": "Probieren Sie 'Kariokes', eine lokale Schokoladen-Walnuss-Spezialität."
+          },
+          {
+            "name": "Ouzeri am Fluss",
+            "tip": "Für einen abendlichen Ouzo mit kleinen Snacks (außerhalb des Plans)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi taverna",
+            "tip": "Élvezzen egy bőséges ebédet a múzeumlátogatás után."
+          },
+          {
+            "name": "Cukrászda",
+            "tip": "Kóstolja meg a 'Kariokes'-t, egy helyi csokoládés-diós különlegességet."
+          },
+          {
+            "name": "Ouzeri a folyóparton",
+            "tip": "Egy esti ouzóhoz kis falatokkal (a terven kívül)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavernă în centrul orașului",
+            "tip": "Bucurați-vă de un prânz copios după vizita la muzeu."
+          },
+          {
+            "name": "Cofetărie",
+            "tip": "Încercați 'Kariokes', o specialitate locală cu ciocolată și nuci."
+          },
+          {
+            "name": "Ouzeri pe malul râului",
+            "tip": "Pentru un ouzo de seară cu gustări mici (în afara planului)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavern in the city center",
+            "tip": "Enjoy a hearty lunch after the museum visit."
+          },
+          {
+            "name": "Pastry Shop",
+            "tip": "Try 'Kariokes', a local chocolate and walnut specialty."
+          },
+          {
+            "name": "Ouzeri by the river",
+            "tip": "For an evening ouzo with small snacks (outside the plan)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Morgen am Ardas-Fluss",
+            "tip": "Die Stille des Morgens am Wasser ist unschlagbar.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Leseecke im Stadtpark",
+            "tip": "Ein perfekter Ort, um nach dem Mittagessen ein Buch zu lesen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Seitenschiff der Kathedrale",
+            "tip": "Finden Sie einen Moment der Ruhe abseits der Hauptbesucherströme.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reggel az Ardasz folyónál",
+            "tip": "A reggeli csend a vízparton verhetetlen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Olvasósarok a városi parkban",
+            "tip": "Tökéletes hely egy könyv olvasásához ebéd után.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A katedrális mellékhajója",
+            "tip": "Találjon egy pillanatnyi nyugalmat a fő látogatói áramlattól távol.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dimineața pe râul Ardas",
+            "tip": "Liniștea dimineții la malul apei este imbatabilă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Colț de lectură în Parcul Municipal",
+            "tip": "Un loc perfect pentru a citi o carte după prânz.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Nava laterală a catedralei",
+            "tip": "Găsiți un moment de liniște departe de fluxul principal de vizitatori.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Morning on the Ardas River",
+            "tip": "The silence of the morning by the water is unbeatable.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Reading corner in the City Park",
+            "tip": "A perfect place to read a book after lunch.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Side aisle of the cathedral",
+            "tip": "Find a moment of peace away from the main visitor flow.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte an der Hauptstraße",
+            "tip": "Kaufen Sie Souvenirs und lokale Produkte in der Nähe des Zentralplatzes."
+          },
+          {
+            "name": "Supermarkt am Stadtrand",
+            "tip": "Decken Sie sich mit Snacks und Getränken für Ihre Autofahrten ein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a főutcán",
+            "tip": "Vásároljon szuveníreket és helyi termékeket a központi tér közelében."
+          },
+          {
+            "name": "Szupermarket a város szélén",
+            "tip": "Töltse fel készleteit rágcsálnivalókkal és italokkal az autós utakhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe strada principală",
+            "tip": "Cumpărați suveniruri și produse locale lângă Piața Centrală."
+          },
+          {
+            "name": "Supermarket la periferia orașului",
+            "tip": "Aprovizionați-vă cu gustări și băuturi pentru călătoriile cu mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on the main street",
+            "tip": "Buy souvenirs and local products near the Central Square."
+          },
+          {
+            "name": "Supermarket on the outskirts",
+            "tip": "Stock up on snacks and drinks for your car journeys."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Suchen Sie einen zentralen Parkplatz, um Parkgebühren und Stress zu minimieren.",
+          "Achten Sie auf Einbahnstraßen im Stadtzentrum.",
+          "Ein GPS ist hilfreich, um die verschiedenen Standorte zu finden.",
+          "Lassen Sie keine Wertsachen im Auto zurück."
+        ],
+        "hu": [
+          "Keressen egy központi parkolót a parkolási díjak és a stressz minimalizálása érdekében.",
+          "Vigyázzon az egyirányú utcákra a belvárosban.",
+          "GPS hasznos lehet a különböző helyszínek megtalálásához.",
+          "Ne hagyjon értékeket az autóban."
+        ],
+        "ro": [
+          "Căutați o parcare centrală pentru a minimiza taxele de parcare și stresul.",
+          "Fiți atenți la străzile cu sens unic din centrul orașului.",
+          "Un GPS este util pentru a găsi diferitele locații.",
+          "Nu lăsați obiecte de valoare în mașină."
+        ],
+        "en": [
+          "Look for a central parking spot to minimize parking fees and stress.",
+          "Be aware of one-way streets in the city center.",
+          "A GPS is helpful for finding the different locations.",
+          "Don't leave valuables in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz von Orestiada (Cluster Start)",
+            "hu": "Oresztiáda központi tere (Klaszter kezdete)",
+            "ro": "Piața Centrală din Orestiada (Început cluster)",
+            "en": "Central Square of Orestiada (Cluster Start)"
+          },
+          "coords": [
+            26.5305,
+            41.501
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum zentralen Platz, dem Ausgangspunkt Ihres Stadtrundgangs.",
+            "hu": "Menjen busszal a központi térre, a városnéző séta kiindulópontjához.",
+            "ro": "Luați autobuzul până în piața centrală, punctul de plecare al turului dvs. pietonal.",
+            "en": "Take the bus to the central square, the starting point of your city walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Stadtgründer",
+            "hu": "Városalapítók emlékműve",
+            "ro": "Monumentul Fondatorilor Orașului",
+            "en": "Monument of the City Founders"
+          },
+          "coords": [
+            26.53,
+            41.5005
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Denkmal befindet sich direkt am Platz und ist nicht zu übersehen.",
+            "hu": "Az emlékmű közvetlenül a téren található, nem lehet eltéveszteni.",
+            "ro": "Monumentul este situat chiar în piață și nu poate fi ratat.",
+            "en": "The monument is located right on the square and cannot be missed."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Volkskunde und Kunstgeschichte",
+            "hu": "Néprajzi és Művészettörténeti Múzeum",
+            "ro": "Muzeul de Folclor și Istoria Artei",
+            "en": "Museum of Folklore and Art History"
+          },
+          "coords": [
+            26.529,
+            41.502
+          ],
+          "category": "museums",
+          "arrive_at": "09:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Denkmal quer über den Platz.",
+            "hu": "Rövid séta az emlékműtől a téren keresztül.",
+            "ro": "O scurtă plimbare de la monument peste piață.",
+            "en": "A short walk from the monument across the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Bahnhof (Cluster Start)",
+            "hu": "Történelmi vasútállomás (Klaszter kezdete)",
+            "ro": "Gara Istorică (Început cluster)",
+            "en": "Historical Train Station (Cluster Start)"
+          },
+          "coords": [
+            26.535,
+            41.508
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum zum Bahnhof, um den nördlichen Teil zu erkunden.",
+            "hu": "Menjen busszal a központból az állomásra, hogy felfedezze az északi részt.",
+            "ro": "Luați un autobuz din centru spre gară pentru a explora partea de nord.",
+            "en": "Take a bus from the center to the station to explore the northern part."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum von Orestiada",
+            "hu": "Oresztiádai Kulturális Központ",
+            "ro": "Centrul Cultural din Orestiada",
+            "en": "Cultural Centre of Orestiada"
+          },
+          "coords": [
+            26.533,
+            41.505
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:58",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof zurück in Richtung Zentrum.",
+            "hu": "Rövid séta az állomástól vissza a központ felé.",
+            "ro": "O scurtă plimbare de la gară înapoi spre centru.",
+            "en": "A short walk from the station back towards the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi park",
+            "ro": "Parcul Municipal",
+            "en": "City Park"
+          },
+          "coords": [
+            26.525,
+            41.498
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:58, plus 30min buffer",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine letzte Busfahrt bringt Sie zum Park für einen entspannten Nachmittag.",
+            "hu": "Egy utolsó buszozás elviszi a parkba egy pihentető délutánra.",
+            "ro": "O ultimă călătorie cu autobuzul vă duce la parc pentru o după-amiază relaxantă.",
+            "en": "A final bus ride takes you to the park for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln in Orestiada beginnt am Zentralplatz. Von hier aus erkunden Sie zu Fuß das Herz der Stadt: das Gründungsdenkmal und das aufschlussreiche Volkskundemuseum. Eine kurze Busfahrt bringt Sie dann zum historischen Bahnhof-Cluster. Nach einem Spaziergang zum Kulturzentrum nehmen Sie einen letzten Bus zum Stadtpark, wo Sie einen langen, entspannten Nachmittag verbringen und die Eindrücke des Tages verarbeiten können.",
+        "hu": "Oresztiádai tömegközlekedési napja a központi téren kezdődik. Innen gyalog fedezi fel a város szívét: az alapítók emlékművét és a tanulságos néprajzi múzeumot. Egy rövid buszút viszi el a történelmi vasútállomás klaszteréhez. A kulturális központhoz tett séta után egy utolsó busszal a városi parkba utazik, ahol egy hosszú, pihentető délutánt tölthet, feldolgozva a nap benyomásait.",
+        "ro": "Ziua dvs. cu transportul public în Orestiada începe în Piața Centrală. De aici, explorați pe jos inima orașului: monumentul fondatorilor și revelatorul Muzeu de Folclor. O scurtă călătorie cu autobuzul vă duce apoi la clusterul gării istorice. După o plimbare la Centrul Cultural, luați un ultim autobuz spre Parcul Municipal, unde puteți petrece o după-amiază lungă și relaxantă, procesând impresiile zilei.",
+        "en": "Your day using public transport in Orestiada begins at the Central Square. From here, you explore the heart of the city on foot: the founders' monument and the insightful Folklore Museum. A short bus ride then takes you to the historic train station cluster. After a walk to the Cultural Centre, you take a final bus to the City Park, where you can spend a long, relaxing afternoon processing the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am Busbahnhof",
+            "tip": "Ein schneller Snack vor der Abfahrt."
+          },
+          {
+            "name": "Café am Zentralplatz",
+            "tip": "Beobachten Sie das Stadtleben bei einem Kaffee."
+          },
+          {
+            "name": "Kiosk im Stadtpark",
+            "tip": "Für ein Eis oder ein kühles Getränk am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a buszpályaudvaron",
+            "tip": "Gyors harapnivaló indulás előtt."
+          },
+          {
+            "name": "Kávézó a központi téren",
+            "tip": "Figyelje a városi életet egy kávé mellett."
+          },
+          {
+            "name": "Kioszk a városi parkban",
+            "tip": "Egy fagylaltért vagy egy hideg italért délután."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie la autogară",
+            "tip": "O gustare rapidă înainte de plecare."
+          },
+          {
+            "name": "Cafenea în Piața Centrală",
+            "tip": "Priviți viața orașului la o cafea."
+          },
+          {
+            "name": "Chioșc în Parcul Municipal",
+            "tip": "Pentru o înghețată sau o băutură rece după-amiaza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery at the bus station",
+            "tip": "A quick snack before departure."
+          },
+          {
+            "name": "Café on the Central Square",
+            "tip": "Watch the city life over a coffee."
+          },
+          {
+            "name": "Kiosk in the City Park",
+            "tip": "For an ice cream or a cold drink in the afternoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage des Busses",
+            "tip": "Beobachten Sie die Stadt aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine ruhige Ecke im Museum",
+            "tip": "Vertiefen Sie sich in ein bestimmtes Ausstellungsstück.",
+            "emoji": "🏺"
+          },
+          {
+            "name": "Später Nachmittag im Park",
+            "tip": "Wenn die meisten Familien nach Hause gehen, wird es ruhiger.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A busz emelete",
+            "tip": "Figyelje a várost egy másik perspektívából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy csendes sarok a múzeumban",
+            "tip": "Mélyedjen el egy adott kiállítási tárgyban.",
+            "emoji": "🏺"
+          },
+          {
+            "name": "Késő délután a parkban",
+            "tip": "Amikor a legtöbb család hazamegy, csendesebb lesz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al autobuzului",
+            "tip": "Priviți orașul dintr-o altă perspectivă.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Un colț liniștit în muzeu",
+            "tip": "Aprofundați un anumit exponat.",
+            "emoji": "🏺"
+          },
+          {
+            "name": "După-amiaza târziu în parc",
+            "tip": "Când majoritatea familiilor pleacă acasă, devine mai liniștit.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of the bus",
+            "tip": "Watch the city from a different perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A quiet corner in the museum",
+            "tip": "Immerse yourself in a specific exhibit.",
+            "emoji": "🏺"
+          },
+          {
+            "name": "Late afternoon in the park",
+            "tip": "When most families go home, it gets quieter.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Kaufen Sie Zeitungen oder Zeitschriften für die Fahrt."
+          },
+          {
+            "name": "Geschäfte rund um den Zentralplatz",
+            "tip": "Erledigen Sie Ihre Einkäufe während des ersten Rundgangs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk az állomáson",
+            "tip": "Vásároljon újságot vagy magazint az útra."
+          },
+          {
+            "name": "Boltok a központi tér körül",
+            "tip": "Intézze a bevásárlást az első séta során."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Cumpărați ziare sau reviste pentru călătorie."
+          },
+          {
+            "name": "Magazine în jurul Pieței Centrale",
+            "tip": "Faceți-vă cumpărăturile în timpul primului tur pietonal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the station",
+            "tip": "Buy newspapers or magazines for the journey."
+          },
+          {
+            "name": "Shops around the Central Square",
+            "tip": "Do your shopping during the first walking tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar.",
+          "Informieren Sie sich im Voraus über die Busfahrpläne.",
+          "Halten Sie Kleingeld für Tickets bereit.",
+          "Achten Sie auf die Anzeigen der nächsten Haltestelle im Bus."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha elérhető.",
+          "Előre tájékozódjon a buszmenetrendről.",
+          "Tartson magánál aprópénzt a jegyekhez.",
+          "Figyelje a következő megállót jelző kijelzőt a buszon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil.",
+          "Verificați în avans orarele autobuzelor.",
+          "Pregătiți mărunțiș pentru bilete.",
+          "Fiți atenți la afișajele din autobuz care indică următoarea stație."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available.",
+          "Check the bus schedules in advance.",
+          "Have small change ready for tickets.",
+          "Pay attention to the next stop displays on the bus."
+        ]
+      }
+    }
+  }
+}

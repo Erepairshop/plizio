@@ -1,0 +1,1492 @@
+{
+  "city_id": "uk-winchester-cities-v2",
+  "anchor": {
+    "name": "Winchester",
+    "coords": [
+      -1.3085,
+      51.0632
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Statue von Alfred dem Großen",
+            "hu": "Nagy Alfréd szobra",
+            "ro": "Statuia lui Alfred cel Mare",
+            "en": "Statue of Alfred the Great"
+          },
+          "coords": [
+            -1.313,
+            51.0605
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ausgangspunkt, um die Geschichte von Winchester, der alten Hauptstadt Englands, aufzusaugen.",
+            "hu": "Tökéletes kiindulópont Winchester, Anglia ősi fővárosa történelmének megismeréséhez.",
+            "ro": "Punctul de plecare perfect pentru a absorbi istoria Winchester-ului, vechea capitală a Angliei.",
+            "en": "The perfect starting point to absorb the history of Winchester, England's ancient capital."
+          }
+        },
+        {
+          "name": {
+            "de": "Winchester City Mill",
+            "hu": "Winchester városi malom",
+            "ro": "Moara orașului Winchester",
+            "en": "Winchester City Mill"
+          },
+          "coords": [
+            -1.3121,
+            51.0601
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine der wenigen funktionierenden Wassermühlen des Landes. Kaufen Sie hier lokal gemahlenes Mehl!",
+            "hu": "Az ország kevés működő vízimalmának egyike. Vásároljon itt helyben őrölt lisztet!",
+            "ro": "Una dintre puținele mori de apă funcționale din țară. Cumpărați făină măcinată local de aici!",
+            "en": "One of the few working watermills in the country. Buy some locally milled flour here!"
+          }
+        },
+        {
+          "name": {
+            "de": "Wolvesey Castle",
+            "hu": "Wolvesey-kastély",
+            "ro": "Castelul Wolvesey",
+            "en": "Wolvesey Castle"
+          },
+          "coords": [
+            -1.31,
+            51.06
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die romantischen Ruinen dieses einst mächtigen Bischofspalastes.",
+            "hu": "Fedezze fel ennek az egykor hatalmas püspöki palotának a romantikus romjait.",
+            "ro": "Explorați ruinele romantice ale acestui palat episcopal odinioară puternic.",
+            "en": "Explore the romantic ruins of this once powerful bishop's palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Winchester Kathedrale",
+            "hu": "Winchesteri katedrális",
+            "ro": "Catedrala din Winchester",
+            "en": "Winchester Cathedral"
+          },
+          "coords": [
+            -1.3133,
+            51.0609
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem Grab von Jane Austen und der Winchester-Bibel, einem Meisterwerk der mittelalterlichen Kunst.",
+            "hu": "Keresse meg Jane Austen sírját és a Winchesteri Bibliát, a középkori művészet remekművét.",
+            "ro": "Căutați mormântul lui Jane Austen și Biblia Winchester, o capodoperă a artei medievale.",
+            "en": "Look for Jane Austen's grave and the Winchester Bible, a masterpiece of medieval art."
+          }
+        },
+        {
+          "name": {
+            "de": "High Street",
+            "hu": "High Street",
+            "ro": "High Street",
+            "en": "High Street"
+          },
+          "coords": [
+            -1.3155,
+            51.0625
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre, schauen Sie den Straßenkünstlern zu und essen Sie in einem der vielen Pubs zu Mittag.",
+            "hu": "Élvezze a hangulatot, nézze az utcai előadókat, és ebédeljen az egyik pubban.",
+            "ro": "Bucurați-vă de atmosferă, urmăriți artiștii stradali și luați prânzul la unul dintre numeroasele pub-uri.",
+            "en": "Soak up the atmosphere, watch the street performers, and grab lunch at one of the many pubs."
+          }
+        },
+        {
+          "name": {
+            "de": "Westgate Museum",
+            "hu": "Westgate Múzeum",
+            "ro": "Muzeul Westgate",
+            "en": "Westgate Museum"
+          },
+          "coords": [
+            -1.318,
+            51.063
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie auf das Dach und genießen Sie einen Panoramablick über die Stadt. Ein Muss für Fotografen!",
+            "hu": "Menjen fel a tetőre, ahonnan panorámás kilátás nyílik a városra. Fotósoknak kötelező!",
+            "ro": "Urcați pe acoperiș pentru o vedere panoramică a orașului. O vizită obligatorie pentru fotografi!",
+            "en": "Climb to the rooftop for a panoramic view of the city. A must-do for photographers!"
+          }
+        },
+        {
+          "name": {
+            "de": "Die Große Halle",
+            "hu": "A Nagyterem",
+            "ro": "Sala Mare",
+            "en": "The Great Hall"
+          },
+          "coords": [
+            -1.3185,
+            51.065
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie die legendäre Tafelrunde von König Artus und erfahren Sie mehr über die Mythen, die sie umgeben.",
+            "hu": "Tekintse meg Artúr király legendás Kerekasztalát, és ismerje meg a körülötte lévő mítoszokat.",
+            "ro": "Vedeți legendara Masă Rotundă a Regelui Arthur și învățați despre miturile care o înconjoară.",
+            "en": "See King Arthur's legendary Round Table and learn about the myths surrounding it."
+          }
+        },
+        {
+          "name": {
+            "de": "Winchester College",
+            "hu": "Winchester College",
+            "ro": "Colegiul Winchester",
+            "en": "Winchester College"
+          },
+          "coords": [
+            -1.312,
+            51.058
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:30",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auch wenn Sie keine Führung machen, ist ein Spaziergang durch das Gelände wie eine Reise in die Vergangenheit.",
+            "hu": "Még ha nem is vesz részt vezetett túrán, a területen való séta olyan, mintha visszamenne az időben.",
+            "ro": "Chiar dacă nu faceți un tur, plimbarea prin incintă este ca și cum ați face un pas înapoi în timp.",
+            "en": "Even if you don't take a tour, walking around the grounds is like stepping back in time."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen des angelsächsischen Englands mit einem Besuch der Statue von Alfred dem Großen. Am Vormittag erkunden Sie die Ufer des Flusses Itchen mit seiner historischen Mühle und den Ruinen von Wolvesey Castle. Nach dem Mittagessen in einem traditionellen Pub in der High Street tauchen Sie in die Geschichte der Kathedrale und der Großen Halle ein. Beenden Sie Ihren Tag mit einem ruhigen Spaziergang durch die alten Anlagen des Winchester College, das die Essenz des historischen Englands verkörpert.",
+        "hu": "Kezdje a napot az angolszász Anglia szívében, Nagy Alfréd szobránál. A délelőttöt az Itchen folyó partjának felfedezésével töltse, a történelmi malommal és a Wolvesey-kastély romjaival. Ebédeljen egy hagyományos pubban a High Streeten, majd merüljön el a katedrális és a Nagyterem történelmében. A napot egy békés sétával zárja a Winchester College ősi területén, amely a történelmi Anglia lényegét foglalja magában.",
+        "ro": "Începeți ziua în inima Angliei anglo-saxone la statuia lui Alfred cel Mare. Petreceți dimineața explorând malurile râului Itchen, cu moara sa istorică și ruinele Castelului Wolvesey. După prânzul la un pub tradițional de pe High Street, pătrundeți în istoria Catedralei și a Sălii Mari. Încheiați ziua cu o plimbare liniștită prin terenurile antice ale Colegiului Winchester, care încapsulează esența Angliei istorice.",
+        "en": "Start your day in the heart of Anglo-Saxon England at Alfred the Great's statue. Spend the morning exploring the banks of the River Itchen, with its historic mill and the ruins of Wolvesey Castle. After lunch at a traditional pub on the High Street, delve into the history of the Cathedral and The Great Hall. End your day with a peaceful stroll through the ancient grounds of Winchester College, encapsulating the essence of historic England."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Wykeham Arms",
+            "tip": "Ein klassischer Pub mit ausgezeichnetem Ale und herzhaften Gerichten, perfekt nach einem Spaziergang."
+          },
+          {
+            "name": "Chesil Rectory",
+            "tip": "Eines der ältesten Häuser Winchesters, jetzt ein gehobenes Restaurant. Reservierung erforderlich."
+          },
+          {
+            "name": "The Black Rat",
+            "tip": "Ein mit einem Michelin-Stern ausgezeichnetes Restaurant in einem Gebäude aus dem 18. Jahrhundert, für ein besonderes kulinarisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Wykeham Arms",
+            "tip": "Klasszikus pub kiváló sörökkel és kiadós ételekkel, tökéletes egy séta után."
+          },
+          {
+            "name": "Chesil Rectory",
+            "tip": "Winchester egyik legrégebbi háza, ma fine dining étterem. Foglalás szükséges."
+          },
+          {
+            "name": "The Black Rat",
+            "tip": "Michelin-csillagos étterem egy 18. századi épületben a különleges gasztronómiai élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Wykeham Arms",
+            "tip": "Un pub clasic cu bere excelentă și mâncăruri consistente, perfect după o plimbare."
+          },
+          {
+            "name": "Chesil Rectory",
+            "tip": "Una dintre cele mai vechi case din Winchester, acum un restaurant rafinat. Rezervarea este esențială."
+          },
+          {
+            "name": "The Black Rat",
+            "tip": "Un restaurant cu stea Michelin într-o clădire din secolul al XVIII-lea, pentru o experiență culinară specială."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Wykeham Arms",
+            "tip": "A classic pub with excellent ales and hearty food, perfect after a walk."
+          },
+          {
+            "name": "Chesil Rectory",
+            "tip": "One of Winchester's oldest houses, now a fine dining restaurant. Booking is essential."
+          },
+          {
+            "name": "The Black Rat",
+            "tip": "A Michelin-starred restaurant in an 18th-century building for a special dining experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Itchen",
+            "tip": "Folgen Sie dem Weirs Walk für friedliche Ausblicke und das beruhigende Geräusch des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kathedralen-Innenhof",
+            "tip": "Finden Sie eine stille Ecke im Inneren Close, weg von den Menschenmassen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Giles Hill Viewpoint",
+            "tip": "Ein kurzer, steiler Aufstieg belohnt Sie mit der besten Aussicht auf die Stadt und die Kathedrale.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta az Itchen folyó mentén",
+            "tip": "Kövesse a Weirs Walk ösvényt a békés kilátásért és a víz nyugtató hangjáért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Katedrális udvara",
+            "tip": "Találjon egy csendes sarkot a belső udvarban, távol a tömegtől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Giles-hegyi kilátó",
+            "tip": "Egy rövid, meredek emelkedő jutalma a városra és a katedrálisra nyíló legjobb kilátás.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Itchen",
+            "tip": "Urmați Weirs Walk pentru priveliști pașnice și sunetul liniștitor al apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Catedralei",
+            "tip": "Găsiți un colț liniștit în incinta interioară, departe de aglomerație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de vedere St. Giles Hill",
+            "tip": "O urcare scurtă și abruptă vă recompensează cu cea mai bună priveliște asupra orașului și a catedralei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Itchen Walk",
+            "tip": "Follow the Weirs Walk for peaceful views and the calming sound of water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cathedral Inner Close",
+            "tip": "Find a quiet corner inside the Inner Close, away from the crowds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Giles Hill Viewpoint",
+            "tip": "A short, steep climb rewards you with the best view over the city and cathedral.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Winchester Market",
+            "tip": "Finden Sie lokale Produkte, Handwerk und Street Food auf diesem lebhaften Markt in der High Street."
+          },
+          {
+            "name": "The Brooks Shopping Centre",
+            "tip": "Für bekannte Marken und Kaufhäuser."
+          },
+          {
+            "name": "Parchment Street",
+            "tip": "Bekannt für ihre unabhängigen Boutiquen, Galerien und Fachgeschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Winchesteri piac",
+            "tip": "Találjon helyi termékeket, kézműves árukat és street foodot ezen a nyüzsgő piacon a High Streeten."
+          },
+          {
+            "name": "The Brooks bevásárlóközpont",
+            "tip": "A jól ismert márkákért és áruházakért."
+          },
+          {
+            "name": "Parchment Street",
+            "tip": "Független butikjairól, galériáiról és szaküzleteiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Winchester",
+            "tip": "Găsiți produse locale, artizanat și mâncare stradală în această piață vibrantă de pe High Street."
+          },
+          {
+            "name": "Centrul comercial The Brooks",
+            "tip": "Pentru mărci de renume și magazine universale."
+          },
+          {
+            "name": "Strada Parchment",
+            "tip": "Renumită pentru buticurile sale independente, galerii și magazine de specialitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Winchester Market",
+            "tip": "Find local produce, crafts, and street food at this vibrant market on the High Street."
+          },
+          {
+            "name": "The Brooks Shopping Centre",
+            "tip": "For high-street brands and department stores."
+          },
+          {
+            "name": "Parchment Street",
+            "tip": "Known for its independent boutiques, galleries, and specialist shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das meiste von Winchesters Charme in seinen begehbaren historischen Straßen liegt.",
+          "Prüfen Sie die Öffnungszeiten der Kathedrale, da diese aufgrund von Gottesdiensten variieren können.",
+          "Viele der zentralen Sehenswürdigkeiten sind kostenlos zu besichtigen (z.B. die Große Halle, Wolvesey Castle).",
+          "Winchester ist kompakt, was es ideal für eine Erkundung zu Fuß macht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel Winchester varázsának nagy része a sétálható történelmi utcákban rejlik.",
+          "Ellenőrizze a katedrális nyitvatartási idejét, mert az istentiszteletek miatt változhat.",
+          "Sok központi látnivaló ingyenesen látogatható (pl. a Nagyterem, a Wolvesey-kastély).",
+          "Winchester kompakt, ami ideálissá teszi a gyalogos felfedezéshez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece o mare parte din farmecul Winchester-ului constă în străzile sale istorice pietonale.",
+          "Verificați orele de deschidere ale catedralei, deoarece acestea pot varia din cauza slujbelor.",
+          "Multe dintre atracțiile centrale sunt gratuite (de exemplu, Sala Mare, Castelul Wolvesey).",
+          "Winchester este compact, ceea ce îl face ideal pentru a fi explorat pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as most of Winchester's charm is in its walkable historic streets.",
+          "Check cathedral opening times as they can vary due to services.",
+          "Many of the central attractions are free to enter (e.g., The Great Hall, Wolvesey Castle).",
+          "Winchester is compact, making it ideal for exploring on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 5.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "High Street",
+            "hu": "High Street",
+            "ro": "High Street",
+            "en": "High Street"
+          },
+          "coords": [
+            -1.3155,
+            51.0625
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt. Schließen Sie Ihr Fahrrad an und machen Sie einen kurzen Spaziergang, um die Atmosphäre zu genießen.",
+            "hu": "Kezdje a napot a város szívében. Zárja le a kerékpárját, és tegyen egy rövid sétát, hogy magába szívja a hangulatot.",
+            "ro": "Începeți ziua în inima orașului. Încuiați-vă bicicleta și faceți o scurtă plimbare pentru a vă bucura de atmosferă.",
+            "en": "Start your day in the heart of the city. Lock up your bike and take a short stroll to soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Westgate Museum",
+            "hu": "Westgate Múzeum",
+            "ro": "Muzeul Westgate",
+            "en": "Westgate Museum"
+          },
+          "coords": [
+            -1.318,
+            51.063
+          ],
+          "category": "museums",
+          "arrive_at": "09:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer, einfacher Ritt vom Stadtzentrum. Die Aussicht vom Dach ist die Mühe wert.",
+            "hu": "Rövid, könnyű tekerés a városközpontból. A tetőről nyíló kilátás megéri az erőfeszítést.",
+            "ro": "O plimbare scurtă și ușoară din centrul orașului. Priveliștea de pe acoperiș merită efortul.",
+            "en": "A short, easy ride from the city centre. The rooftop view is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Große Halle",
+            "hu": "A Nagyterem",
+            "ro": "Sala Mare",
+            "en": "The Great Hall"
+          },
+          "coords": [
+            -1.3185,
+            51.065
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad in der Nähe und entdecken Sie das letzte Überbleibsel des Winchester Castle.",
+            "hu": "Parkolja le a kerékpárt a közelben, és fedezze fel a Winchesteri kastély utolsó megmaradt részét.",
+            "ro": "Parcați-vă bicicleta în apropiere și explorați ultima rămășiță a Castelului Winchester.",
+            "en": "Park your bike nearby and discover the last remaining part of Winchester Castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Winchester Kathedrale",
+            "hu": "Winchesteri katedrális",
+            "ro": "Catedrala din Winchester",
+            "en": "Winchester Cathedral"
+          },
+          "coords": [
+            -1.3133,
+            51.0609
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der beeindruckende Dom ist von allen Seiten zugänglich. Nehmen Sie sich Zeit, seine Größe zu bewundern.",
+            "hu": "A lenyűgöző katedrális minden oldalról megközelíthető. Szánjon időt a nagyságának csodálatára.",
+            "ro": "Impunătoarea catedrală este accesibilă din toate părțile. Luați-vă timp să-i admirați măreția.",
+            "en": "The impressive cathedral is accessible from all sides. Take your time to admire its scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Wolvesey Castle",
+            "hu": "Wolvesey-kastély",
+            "ro": "Castelul Wolvesey",
+            "en": "Wolvesey Castle"
+          },
+          "coords": [
+            -1.31,
+            51.06
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf von der Kathedrale entfernt, bieten diese Ruinen einen ruhigen Rückzugsort.",
+            "hu": "Csak egy kőhajításnyira a katedrálistól, ezek a romok békés menedéket nyújtanak.",
+            "ro": "La o aruncătură de băț de catedrală, aceste ruine oferă un refugiu liniștit.",
+            "en": "Just a stone's throw from the cathedral, these ruins offer a peaceful retreat."
+          }
+        },
+        {
+          "name": {
+            "de": "Winchester City Mill",
+            "hu": "Winchester városi malom",
+            "ro": "Moara orașului Winchester",
+            "en": "Winchester City Mill"
+          },
+          "coords": [
+            -1.3121,
+            51.0601
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke und sehen Sie die Mühle in Aktion. Perfekt für einen kurzen Stopp.",
+            "hu": "Menjen át a hídon, és nézze meg a malmot működés közben. Tökéletes egy rövid megállóhoz.",
+            "ro": "Traversați podul și vedeți moara în acțiune. Perfect pentru o oprire scurtă.",
+            "en": "Cross the bridge and see the mill in action. Perfect for a quick stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Winchester College",
+            "hu": "Winchester College",
+            "ro": "Colegiul Winchester",
+            "en": "Winchester College"
+          },
+          "coords": [
+            -1.312,
+            51.058
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erkunden Sie die wunderschöne Umgebung der ältesten kontinuierlich laufenden Schule Englands.",
+            "hu": "Fedezze fel Anglia legrégebbi, folyamatosan működő iskolájának gyönyörű területét.",
+            "ro": "Explorați terenurile frumoase ale celei mai vechi școli în funcțiune continuă din Anglia.",
+            "en": "Explore the beautiful grounds of England's oldest continuously running school."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Giles Hill Aussichtspunkt",
+            "hu": "St. Giles-hegyi kilátó",
+            "ro": "Punct de belvedere St. Giles Hill",
+            "en": "St. Giles Hill Viewpoint"
+          },
+          "coords": [
+            -1.304,
+            51.063
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:20",
+          "stay_min": 24,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg ist die Belohnung wert: ein atemberaubender Panoramablick auf Winchester.",
+            "hu": "Az emelkedő megéri a jutalmat: lélegzetelállító panoráma Winchesterre.",
+            "ro": "Urcarea merită recompensa: o panoramă uluitoare a Winchester-ului.",
+            "en": "The climb is worth the reward: a stunning panoramic view of Winchester."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Satteln Sie auf und beginnen Sie Ihren Tag im geschäftigen Treiben der High Street. Am Vormittag radeln Sie zu den westlichen Befestigungsanlagen der Stadt, dem Westgate und der Großen Halle. Nach dem Mittagessen gleiten Sie durch das Herz der Geschichte zur Kathedrale und den nahegelegenen Ruinen von Wolvesey Castle. Beenden Sie Ihren Tag mit einer anspruchsvolleren Fahrt zum St. Giles Hill, von wo aus Sie einen unvergesslichen Blick auf die Stadt im Abendlicht haben.",
+        "hu": "Pattanjon nyeregbe, és kezdje a napot a High Street nyüzsgésében. A délelőtt folyamán tekerjen el a város nyugati erődítményeihez, a Westgate-hez és a Nagyteremhez. Ebéd után sikljon át a történelem szívén a katedrálishoz és a közeli Wolvesey-kastély romjaihoz. A napot egy kihívást jelentő tekeréssel zárja a St. Giles-hegyre, ahonnan felejthetetlen kilátás nyílik a városra az esti fényben.",
+        "ro": "Urcați în șa și începeți ziua în agitația de pe High Street. Petreceți dimineața pedalând spre fortificațiile vestice ale orașului, Westgate și Sala Mare. După prânz, alunecați prin inima istoriei până la Catedrală și ruinele din apropiere ale Castelului Wolvesey. Încheiați ziua cu o plimbare mai provocatoare până la St. Giles Hill pentru o priveliște de neuitat asupra orașului în lumina serii.",
+        "en": "Saddle up and start your day in the bustle of the High Street. Spend the morning cycling to the city's western fortifications, the Westgate and The Great Hall. After lunch, glide through the heart of history to the Cathedral and the nearby ruins of Wolvesey Castle. End your day with a more challenging ride up to St. Giles Hill for an unforgettable view of the city in the evening light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Handlebar Cafe",
+            "tip": "Ein fahrradfreundliches Café, perfekt für einen Kaffee und Kuchen vor oder nach der Fahrt."
+          },
+          {
+            "name": "The Eclipse Inn",
+            "tip": "Einer der ältesten Pubs in Winchester, ideal für ein schnelles Pint und einen Pie."
+          },
+          {
+            "name": "The Corner House",
+            "tip": "Bietet eine gute Auswahl an leichten Mittagessen und erfrischenden Getränken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Handlebar Cafe",
+            "tip": "Kerékpárbarát kávézó, tökéletes egy kávéra és süteményre tekerés előtt vagy után."
+          },
+          {
+            "name": "The Eclipse Inn",
+            "tip": "Winchester egyik legrégebbi pubja, ideális egy gyors sörre és pitére."
+          },
+          {
+            "name": "The Corner House",
+            "tip": "Könnyű ebédek és frissítő italok jó választékát kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Handlebar Cafe",
+            "tip": "O cafenea prietenoasă cu bicicliștii, perfectă pentru o cafea și o prăjitură înainte sau după plimbare."
+          },
+          {
+            "name": "The Eclipse Inn",
+            "tip": "Unul dintre cele mai vechi pub-uri din Winchester, excelent pentru o halbă rapidă și o plăcintă."
+          },
+          {
+            "name": "The Corner House",
+            "tip": "Oferă o selecție bună de prânzuri ușoare și băuturi răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Handlebar Cafe",
+            "tip": "A bike-friendly cafe, perfect for a pre-ride or post-ride coffee and cake."
+          },
+          {
+            "name": "The Eclipse Inn",
+            "tip": "One of Winchester's most historic pubs, great for a quick pint and a pie."
+          },
+          {
+            "name": "The Corner House",
+            "tip": "Offers a good selection of light lunches and refreshing drinks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Water Meadows",
+            "tip": "Machen Sie eine gemütliche Fahrt durch die Wiesen südlich der Stadt für eine Dosis Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dean Garnier Garden",
+            "tip": "Ein verstecktes Juwel hinter der Kathedrale, perfekt für einen Moment der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abbey Gardens",
+            "tip": "Ein friedlicher Park in der Nähe des Stadtzentrums, ideal für eine Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Water Meadows (Vizes rétek)",
+            "tip": "Tegyen egy kellemes tekerést a várostól délre fekvő réteken egy adag természetért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dean Garnier Garden",
+            "tip": "Rejtett gyöngyszem a katedrális mögött, tökéletes egy pillanatnyi csendhez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abbey Gardens",
+            "tip": "Békés park a városközpont közelében, ideális egy szünetre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pășunile de apă",
+            "tip": "Faceți o plimbare liniștită prin pajiștile de la sud de oraș pentru o doză de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Dean Garnier",
+            "tip": "O bijuterie ascunsă în spatele Catedralei, perfectă pentru un moment de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile Abbey",
+            "tip": "Un parc pașnic lângă centrul orașului, ideal pentru o pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Water Meadows",
+            "tip": "Take a gentle ride through the meadows south of the city for a dose of nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dean Garnier Garden",
+            "tip": "A hidden gem behind the Cathedral, perfect for a moment of quiet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abbey Gardens",
+            "tip": "A peaceful park near the city centre, ideal for taking a break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In Winchester gibt es mehrere unabhängige Fahrradgeschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Kaufen Sie Hampshire-Käse und andere lokale Produkte für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Winchesterben több független kerékpárbolt is található kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Helyi csemegék",
+            "tip": "Vásároljon Hampshire-i sajtot és más helyi termékeket egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Winchester are mai multe magazine independente de biciclete pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Luați niște brânză Hampshire și alte produse locale pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Winchester has several independent bike shops for any accessories or quick repairs."
+          },
+          {
+            "name": "Local Delis",
+            "tip": "Pick up some Hampshire cheese and other local produce for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Winchester ist im Allgemeinen fahrradfreundlich, aber seien Sie in den engen mittelalterlichen Straßen vorsichtig.",
+          "Nehmen Sie ein gutes Schloss mit, da Sie Ihr Fahrrad oft abstellen müssen, um die Sehenswürdigkeiten zu erkunden.",
+          "Planen Sie Ihre Route, um den steilen St. Giles Hill für das Ende des Tages aufzuheben.",
+          "Die Wasserwiesen sind ein flacher, einfacher Ritt, der für alle Fähigkeitsstufen geeignet ist."
+        ],
+        "hu": [
+          "Winchester általában kerékpárbarát, de legyen óvatos a szűk középkori utcákon.",
+          "Hozzon magával egy jó lakatot, mert gyakran le kell majd zárnia a kerékpárját a látnivalók felfedezéséhez.",
+          "Tervezze meg az útvonalat úgy, hogy a meredek St. Giles-hegyet a nap végére hagyja.",
+          "A vizes rétek sík, könnyű tekerést kínálnak, minden képzettségi szintnek megfelelően."
+        ],
+        "ro": [
+          "Winchester este în general prietenos cu bicicletele, dar fiți prudenți pe străzile medievale înguste.",
+          "Aduceți o încuietoare bună, deoarece va trebui să lăsați bicicleta frecvent pentru a explora atracțiile.",
+          "Planificați-vă traseul pentru a lăsa abruptul St. Giles Hill pentru sfârșitul zilei.",
+          "Pășunile de apă sunt o plimbare plată și ușoară, potrivită pentru toate nivelurile de abilitate."
+        ],
+        "en": [
+          "Winchester is generally bike-friendly, but be cautious on the narrow medieval streets.",
+          "Bring a good lock, as you'll need to leave your bike frequently to explore attractions.",
+          "Plan your route to save the steep St. Giles Hill for the end of the day.",
+          "The water meadows are a flat, easy ride suitable for all abilities."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Chesil Street",
+            "hu": "Chesil Street parkolóház",
+            "ro": "Parcarea Chesil Street",
+            "en": "Chesil Street Car Park"
+          },
+          "coords": [
+            -1.307,
+            51.061
+          ],
+          "category": "parking",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt. Parken Sie hier und erkunden Sie das erste Cluster zu Fuß.",
+            "hu": "Jó kiindulópont. Parkoljon itt, és fedezze fel az első látnivalócsoportot gyalog.",
+            "ro": "Un bun punct de plecare. Parcați aici și explorați primul cluster pe jos.",
+            "en": "A good starting point. Park here and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Winchester City Mill",
+            "hu": "Winchester városi malom",
+            "ro": "Moara orașului Winchester",
+            "en": "Winchester City Mill"
+          },
+          "coords": [
+            -1.3121,
+            51.0601
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster Halt, nur einen kurzen Spaziergang vom Parkplatz entfernt.",
+            "hu": "Az első megálló, csak egy rövid sétára a parkolótól.",
+            "ro": "Prima dvs. oprire, la o scurtă plimbare de parcare.",
+            "en": "Your first stop, just a short walk from the car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Wolvesey Castle",
+            "hu": "Wolvesey-kastély",
+            "ro": "Castelul Wolvesey",
+            "en": "Wolvesey Castle"
+          },
+          "coords": [
+            -1.31,
+            51.06
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie weiter entlang des Flusses zu diesen stimmungsvollen Ruinen.",
+            "hu": "Sétáljon tovább a folyó mentén ezekhez a hangulatos romokhoz.",
+            "ro": "Continuați să vă plimbați de-a lungul râului până la aceste ruine atmosferice.",
+            "en": "Continue strolling along the river to these atmospheric ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Winchester Kathedrale",
+            "hu": "Winchesteri katedrális",
+            "ro": "Catedrala din Winchester",
+            "en": "Winchester Cathedral"
+          },
+          "coords": [
+            -1.3133,
+            51.0609
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herzstück der Stadt. Nehmen Sie sich Zeit für die Besichtigung und ein Mittagessen in der Nähe.",
+            "hu": "A város szíve. Szánjon időt a felfedezésére és egy közeli ebédre.",
+            "ro": "Piesa centrală a orașului. Luați-vă timp să explorați și să luați prânzul în apropiere.",
+            "en": "The city's centerpiece. Allow plenty of time to explore and have lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Tower Street",
+            "hu": "Tower Street parkoló",
+            "ro": "Parcarea Tower Street",
+            "en": "Tower Street Car Park"
+          },
+          "coords": [
+            -1.319,
+            51.064
+          ],
+          "category": "parking",
+          "arrive_at": "13:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Dieser Parkplatz liegt in der Nähe der Großen Halle.",
+            "hu": "Vezessen a második látnivalócsoporthoz. Ez a parkoló a Nagyterem közelében található.",
+            "ro": "Conduceți spre al doilea cluster. Această parcare este aproape de Sala Mare.",
+            "en": "Drive to the second cluster. This car park is close to The Great Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Große Halle",
+            "hu": "A Nagyterem",
+            "ro": "Sala Mare",
+            "en": "The Great Hall"
+          },
+          "coords": [
+            -1.3185,
+            51.065
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Tafelrunde und stellen Sie sich die mittelalterlichen Bankette vor, die hier stattfanden.",
+            "hu": "Csodálja meg a Kerekasztalt, és képzelje el a középkori banketteket, amelyeket itt tartottak.",
+            "ro": "Minunați-vă de Masa Rotundă și imaginați-vă banchetele medievale care aveau loc aici.",
+            "en": "Marvel at the Round Table and imagine the medieval banquets held here."
+          }
+        },
+        {
+          "name": {
+            "de": "Westgate Museum",
+            "hu": "Westgate Múzeum",
+            "ro": "Muzeul Westgate",
+            "en": "Westgate Museum"
+          },
+          "coords": [
+            -1.318,
+            51.063
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Großen Halle, um Ihren Tag mit einem Panoramablick abzurunden.",
+            "hu": "Rövid séta a Nagyteremtől, hogy a napot panorámás kilátással zárja.",
+            "ro": "O scurtă plimbare de la Sala Mare pentru a încheia ziua cu o priveliște panoramică.",
+            "en": "A short walk from The Great Hall to finish your day with a panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto in der Nähe des Flusses und beginnen Sie Ihre Erkundung mit einem Spaziergang zu Mühle und Burg. Am Vormittag dominiert die majestätische Kathedrale. Nach dem Mittagessen fahren Sie zu einem anderen Teil der Stadt, um die Große Halle und König Artus' Tafelrunde zu entdecken. Die Cluster-Walking-Methode ermöglicht es Ihnen, tief in jeden Bereich einzutauchen, ohne sich um das Parken kümmern zu müssen, und kombiniert den Komfort des Autos mit der Intimität eines Spaziergangs.",
+        "hu": "Parkolja le az autót a folyó közelében, és kezdje a felfedezést egy sétával a malomhoz és a kastélyhoz. A délelőttöt a fenséges katedrális uralja. Ebéd után vezessen át a város egy másik részébe, hogy felfedezze a Nagytermet és Artúr király Kerekasztalát. A csoportos séta módszer lehetővé teszi, hogy mélyen elmerüljön minden területen anélkül, hogy a parkolással kellene bajlódnia, ötvözve az autó kényelmét a séta intimitásával.",
+        "ro": "Parcați mașina lângă râu și începeți explorarea cu o plimbare la moară și castel. Dimineața este dominată de catedrala maiestuoasă. După prânz, conduceți spre o altă parte a orașului pentru a descoperi Sala Mare și Masa Rotundă a Regelui Arthur. Metoda de plimbare în grup vă permite să pătrundeți adânc în fiecare zonă fără grija parcării, combinând confortul mașinii cu intimitatea unei plimbări.",
+        "en": "Park your car near the river and begin your exploration with a walk to the mill and castle. The morning is dominated by the majestic cathedral. After lunch, drive to another part of the city to discover The Great Hall and King Arthur's Round Table. The cluster-walking method allows you to delve deep into each area without the hassle of parking, combining the convenience of a car with the intimacy of a walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Willow Tree",
+            "tip": "Ein gastfreundlicher Pub mit Parkplatz, etwas außerhalb des Haupttouristengebiets, aber das Essen ist es wert."
+          },
+          {
+            "name": "The Ivy Winchester Brasserie",
+            "tip": "Für ein stilvolles Mittagessen in der Nähe der Kathedrale. Parken Sie in der Nähe und genießen Sie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Willow Tree",
+            "tip": "Barátságos pub parkolóval, kicsit távolabb a fő turistaövezettől, de az étel megéri."
+          },
+          {
+            "name": "The Ivy Winchester Brasserie",
+            "tip": "Egy stílusos ebédhez a katedrális közelében. Parkoljon a közelben, és élvezze."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Willow Tree",
+            "tip": "Un pub primitor cu parcare, ușor în afara zonei turistice principale, dar mâncarea merită."
+          },
+          {
+            "name": "The Ivy Winchester Brasserie",
+            "tip": "Pentru un prânz elegant lângă catedrală. Parcați în apropiere și bucurați-vă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Willow Tree",
+            "tip": "A welcoming pub with a car park, slightly out of the main tourist area but the food is worth it."
+          },
+          {
+            "name": "The Ivy Winchester Brasserie",
+            "tip": "For a stylish lunch near the Cathedral. Park nearby and enjoy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St Catherine's Hill",
+            "tip": "Eine kurze Autofahrt vom Zentrum entfernt. Ein Spaziergang auf den Gipfel bietet eine hervorragende Aussicht und Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Winchester College Gärten",
+            "tip": "Wenn geöffnet, sind die Gärten eine Oase der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Katalin-hegy",
+            "tip": "Rövid autóútra a központtól. A csúcsra tett séta kiváló kilátást és nyugalmat kínál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Winchester College kertjei",
+            "tip": "Ha nyitva vannak, a kertek a nyugalom oázisai.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul St Catherine",
+            "tip": "La o scurtă distanță cu mașina de centru. O plimbare până în vârf oferă priveliști excelente și liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Colegiului Winchester",
+            "tip": "Dacă sunt deschise, grădinile sunt o oază de calm.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "St Catherine's Hill",
+            "tip": "A short drive from the centre. A walk to the top offers excellent views and tranquility.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Winchester College Gardens",
+            "tip": "If open, the gardens are an oasis of calm.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kathedralen-Geschenkeladen",
+            "tip": "Einzigartige Souvenirs und Bücher über die Geschichte der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katedrális ajándékboltja",
+            "tip": "Egyedi ajándéktárgyak és könyvek a város történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri al Catedralei",
+            "tip": "Suveniruri unice și cărți despre istoria orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Gift Shop",
+            "tip": "Unique souvenirs and books about the city's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Ride-Einrichtungen für ein stressfreies Erlebnis.",
+          "Parken im Stadtzentrum kann teuer und schwer zu finden sein.",
+          "Die 'Cluster'-Methode funktioniert am besten. Parken Sie einmal und gehen Sie zu Fuß.",
+          "Achten Sie auf Einbahnstraßen im historischen Zentrum."
+        ],
+        "hu": [
+          "Használja a Park and Ride szolgáltatásokat a stresszmentes élményért.",
+          "A belvárosi parkolás drága és nehezen található lehet.",
+          "A „csoportos” módszer működik a legjobban. Parkoljon le egyszer, és sétáljon.",
+          "Vigyázzon az egyirányú utcákra a történelmi központban."
+        ],
+        "ro": [
+          "Utilizați facilitățile Park and Ride pentru o experiență fără stres.",
+          "Parcarea în centrul orașului poate fi scumpă și greu de găsit.",
+          "Metoda „cluster” funcționează cel mai bine. Parcați o dată și mergeți pe jos.",
+          "Atenție la străzile cu sens unic din centrul istoric."
+        ],
+        "en": [
+          "Use the Park and Ride facilities for a stress-free experience.",
+          "City centre parking can be expensive and hard to find.",
+          "The 'cluster' method works best. Park once and walk.",
+          "Be aware of one-way streets in the historic centre."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Winchester Busbahnhof",
+            "hu": "Winchester buszpályaudvar",
+            "ro": "Autogara Winchester",
+            "en": "Winchester Bus Station"
+          },
+          "coords": [
+            -1.314,
+            51.064
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier. Der Busbahnhof ist zentral gelegen und ideal für den Start Ihrer Erkundung zu Fuß.",
+            "hu": "Kezdje itt. A buszpályaudvar központi helyen fekszik, ideális a gyalogos felfedezőút megkezdéséhez.",
+            "ro": "Începeți de aici. Stația de autobuz este situată central, ideală pentru a începe explorarea pe jos.",
+            "en": "Start here. The bus station is centrally located, ideal for beginning your walking exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "High Street",
+            "hu": "High Street",
+            "ro": "High Street",
+            "en": "High Street"
+          },
+          "coords": [
+            -1.3155,
+            51.0625
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie ins Herz des Geschehens.",
+            "hu": "Egy rövid séta, és máris az események sűrűjében találja magát.",
+            "ro": "O scurtă plimbare vă duce în inima acțiunii.",
+            "en": "A short walk brings you into the heart of the action."
+          }
+        },
+        {
+          "name": {
+            "de": "Winchester Kathedrale",
+            "hu": "Winchesteri katedrális",
+            "ro": "Catedrala din Winchester",
+            "en": "Winchester Cathedral"
+          },
+          "coords": [
+            -1.3133,
+            51.0609
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste große Halt des Tages. Verlieren Sie sich in seiner Geschichte und Architektur.",
+            "hu": "A nap első nagy megállója. Merüljön el a történelmében és építészetében.",
+            "ro": "Prima oprire majoră a zilei. Pierdeți-vă în istoria și arhitectura sa.",
+            "en": "The first major stop of the day. Get lost in its history and architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Alfred dem Großen",
+            "hu": "Nagy Alfréd szobra",
+            "ro": "Statuia lui Alfred cel Mare",
+            "en": "Statue of Alfred the Great"
+          },
+          "coords": [
+            -1.313,
+            51.0605
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt vor der Kathedrale, ein ikonischer Ort für Fotos und Mittagessen.",
+            "hu": "Közvetlenül a katedrális előtt, ikonikus helyszín fotózáshoz és ebédhez.",
+            "ro": "Chiar în fața catedralei, un loc iconic pentru fotografii și prânz.",
+            "en": "Just outside the cathedral, an iconic spot for photos and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zur Great Hall",
+            "hu": "Busz a Nagyteremhez",
+            "ro": "Autobuz spre Sala Mare",
+            "en": "Bus to Great Hall"
+          },
+          "coords": [
+            -1.3145,
+            51.063
+          ],
+          "category": "transport",
+          "arrive_at": "12:50",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus für eine kurze Fahrt, um Ihre Beine für den zweiten Teil des Tages zu schonen.",
+            "hu": "Szálljon fel egy helyi buszra egy rövid útra, hogy pihentesse a lábát a nap második felére.",
+            "ro": "Luați un autobuz local pentru o călătorie scurtă pentru a vă odihni picioarele pentru a doua parte a zilei.",
+            "en": "Hop on a local bus for a short ride to save your legs for the second part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Große Halle",
+            "hu": "A Nagyterem",
+            "ro": "Sala Mare",
+            "en": "The Great Hall"
+          },
+          "coords": [
+            -1.3185,
+            51.065
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Legenden von König Artus an dem Ort, der sie inspiriert hat.",
+            "hu": "Fedezze fel Artúr király legendáit a helyszínen, amely ihlette őket.",
+            "ro": "Explorați legendele Regelui Arthur la locul care le-a inspirat.",
+            "en": "Explore the legends of King Arthur in the very place that inspired them."
+          }
+        },
+        {
+          "name": {
+            "de": "Westgate Museum",
+            "hu": "Westgate Múzeum",
+            "ro": "Muzeul Westgate",
+            "en": "Westgate Museum"
+          },
+          "coords": [
+            -1.318,
+            51.063
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem atemberaubenden Blick über die Stadt, bevor Sie zurück zum Busbahnhof gehen.",
+            "hu": "Fejezze be a túrát egy lenyűgöző kilátással a városra, mielőtt visszasétálna a buszpályaudvarra.",
+            "ro": "Încheiați turul cu o priveliște uimitoare asupra orașului înainte de a vă întoarce la stația de autobuz.",
+            "en": "End your tour with a stunning view over the city before walking back to the bus station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie zentral am Busbahnhof und tauchen Sie sofort in das historische Zentrum ein. Der Vormittag ist dem Kathedralenviertel gewidmet, alles bequem zu Fuß erreichbar. Nach dem Mittagessen bringt Sie ein kurzer Bus-Hop zu einem neuen Cluster, wo die Legenden von König Artus in der Großen Halle auf Sie warten. Diese Methode ist perfekt für diejenigen, die die Stadt in überschaubaren Abschnitten erleben möchten, indem sie die Effizienz des Transits mit der Freude am Entdecken zu Fuß kombinieren.",
+        "hu": "Kezdje a napot a központi buszpályaudvaron, és azonnal merüljön el a történelmi központban. A délelőtt a katedrális negyedé, minden könnyen elérhető gyalog. Ebéd után egy rövid buszozás egy újabb látnivalócsoporthoz viszi, ahol Artúr király legendái várnak a Nagyteremben. Ez a módszer tökéletes azok számára, akik a várost kezelhető szakaszokban szeretnék megtapasztalni, ötvözve a tömegközlekedés hatékonyságát a gyalogos felfedezés örömével.",
+        "ro": "Începeți central la stația de autobuz și pătrundeți imediat în centrul istoric. Dimineața este dedicată cartierului Catedralei, totul fiind ușor accesibil pe jos. După prânz, o scurtă călătorie cu autobuzul vă duce la un nou grup de atracții, unde legendele Regelui Arthur vă așteaptă în Sala Mare. Această metodă este perfectă pentru cei care doresc să experimenteze orașul în secțiuni gestionabile, combinând eficiența transportului public cu bucuria explorării pe jos.",
+        "en": "Start centrally at the bus station and immediately immerse yourself in the historic centre. The morning is dedicated to the Cathedral quarter, all easily walkable. After lunch, a short bus hop takes you to a new cluster where the legends of King Arthur await at The Great Hall. This method is perfect for those who want to experience the city in manageable chunks, combining transit efficiency with the joy of discovery on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Greens Restaurant & Bar",
+            "tip": "In der Nähe des Busbahnhofs gelegen, eine gute Option für den Anfang oder das Ende Ihres Tages."
+          },
+          {
+            "name": "The Old Vine",
+            "tip": "Ein historischer Gasthof mit Blick auf die Kathedrale, ideal für ein stimmungsvolles Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Greens Restaurant & Bar",
+            "tip": "A buszpályaudvar közelében található, jó választás a nap elején vagy végén."
+          },
+          {
+            "name": "The Old Vine",
+            "tip": "Történelmi fogadó, kilátással a katedrálisra, ideális egy hangulatos ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Greens Restaurant & Bar",
+            "tip": "Situat lângă stația de autobuz, o opțiune bună pentru începutul sau sfârșitul zilei."
+          },
+          {
+            "name": "The Old Vine",
+            "tip": "Un han istoric cu vedere la Catedrală, excelent pentru un prânz atmosferic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Greens Restaurant & Bar",
+            "tip": "Located near the bus station, a solid option for the start or end of your day."
+          },
+          {
+            "name": "The Old Vine",
+            "tip": "A historic inn overlooking the Cathedral, great for an atmospheric lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abbey Gardens",
+            "tip": "Ein ruhiger Ort, nur einen kurzen Spaziergang vom Busbahnhof entfernt, um sich zu sammeln.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Der Close der Kathedrale",
+            "tip": "Schlendern Sie durch die friedlichen Bereiche, die die Kathedrale umgeben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Apátsági kertek",
+            "tip": "Csendes hely, rövid sétára a buszpályaudvartól, ahol feltöltődhet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A katedrális udvara",
+            "tip": "Sétáljon végig a katedrálist körülvevő békés területeken.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Abației",
+            "tip": "Un loc liniștit la o scurtă plimbare de stația de autobuz pentru a vă aduna gândurile.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Incinta Catedralei",
+            "tip": "Plimbați-vă prin incintele pașnice care înconjoară catedrala.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbey Gardens",
+            "tip": "A quiet spot a short walk from the bus station to gather your thoughts.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The Cathedral Close",
+            "tip": "Stroll through the peaceful grounds surrounding the cathedral.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Die Käserei",
+            "tip": "In der Nähe der Kathedrale gelegen, holen Sie sich preisgekrönten lokalen Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Sajtbolt",
+            "tip": "A katedrális közelében található, szerezzen be díjnyertes helyi sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de brânzeturi",
+            "tip": "Situat lângă Catedrală, luați niște brânză locală premiată."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Cheesemonger",
+            "tip": "Located near the Cathedral, pick up some award-winning local cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für unbegrenzte Fahrten innerhalb der Stadt.",
+          "Die meisten Busse sind mit kontaktlosen Zahlungsmitteln ausgestattet.",
+          "Die Winchester-Bus-App kann Ihnen helfen, Routen und Fahrpläne in Echtzeit zu planen.",
+          "Die Hauptsehenswürdigkeiten sind in zwei Hauptclustern zusammengefasst, was es einfach macht, den öffentlichen Nahverkehr zu nutzen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz a városban.",
+          "A legtöbb busz érintésmentes fizetési lehetőséggel rendelkezik.",
+          "A Winchester buszalkalmazás segíthet az útvonalak és a valós idejű menetrendek megtervezésében.",
+          "A főbb látnivalók két fő csoportban helyezkednek el, ami megkönnyíti a tömegközlekedés használatát."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate în oraș.",
+          "Majoritatea autobuzelor sunt echipate pentru plăți contactless.",
+          "Aplicația de autobuz Winchester vă poate ajuta să planificați rutele și orarele în timp real.",
+          "Atracțiile principale sunt grupate în două clustere principale, ceea ce face ca transportul public să fie ușor de utilizat."
+        ],
+        "en": [
+          "Buy a day rider bus ticket for unlimited travel within the city.",
+          "Most buses are equipped for contactless payments.",
+          "The Winchester bus app can help you plan routes and real-time schedules.",
+          "The main sights are grouped in two main clusters, making it easy to use transit between them."
+        ]
+      }
+    }
+  }
+}

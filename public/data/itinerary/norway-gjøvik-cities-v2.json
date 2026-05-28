@@ -1,0 +1,1468 @@
+{
+  "city_id": "norway-gjøvik-cities-v2",
+  "anchor": {
+    "name": "Gjøvik",
+    "coords": [
+      10.68,
+      60.79
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Gjøvik Gård",
+            "hu": "Gjøvik Gård (udvarház)",
+            "ro": "Conacul Gjøvik",
+            "en": "Gjøvik Farm"
+          },
+          "coords": [
+            10.6851,
+            60.7948
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Park um den Hof ist perfekt für einen Morgenkaffee.",
+            "hu": "A birtok körüli park tökéletes egy reggeli kávéhoz.",
+            "ro": "Parcul din jurul conacului este perfect pentru o cafea de dimineață.",
+            "en": "The park around the farm is perfect for a morning coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Kauffeldtgården",
+            "hu": "Kauffeldtgården",
+            "ro": "Kauffeldtgården",
+            "en": "Kauffeldtgården"
+          },
+          "coords": [
+            10.6895,
+            60.7925
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Eines der ältesten Gebäude der Stadt, achten Sie auf die Details.",
+            "hu": "A város egyik legrégebbi épülete, figyeljen a részletekre!",
+            "ro": "Una dintre cele mai vechi clădiri din oraș, fiți atenți la detalii.",
+            "en": "One of the oldest buildings in town, pay attention to the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Gjøvik Kirche",
+            "hu": "Gjøvik-templom",
+            "ro": "Biserica Gjøvik",
+            "en": "Gjøvik Church"
+          },
+          "coords": [
+            10.691,
+            60.7913
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:31",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Holzarchitektur ist typisch für die Region.",
+            "hu": "A faépítészet jellemző a régióra.",
+            "ro": "Arhitectura din lemn este tipică pentru regiune.",
+            "en": "The wooden architecture is typical for the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mjøspromenaden",
+            "hu": "Mjøs-sétány",
+            "ro": "Promenada Mjøsa",
+            "en": "Mjøsa Promenade"
+          },
+          "coords": [
+            10.7002,
+            60.7905
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagspicknick mit Blick auf den See.",
+            "hu": "Ideális egy ebédpiknikhez a tóra néző kilátással.",
+            "ro": "Ideal pentru un picnic la prânz cu vedere la lac.",
+            "en": "Ideal for a lunch picnic with a view of the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Skibladner Dampfschiff",
+            "hu": "Skibladner gőzhajó",
+            "ro": "Vasul cu aburi Skibladner",
+            "en": "Skibladner Paddle-Steamer"
+          },
+          "coords": [
+            10.7025,
+            60.7912
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:48",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Überprüfen Sie den Fahrplan, vielleicht können Sie eine kurze Fahrt machen.",
+            "hu": "Ellenőrizze a menetrendet, talán tehet egy rövid utat.",
+            "ro": "Verificați programul, poate puteți face o scurtă plimbare.",
+            "en": "Check the schedule, you might be able to take a short trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Gjøvik Glaswerk",
+            "hu": "Gjøviki Üveggyár",
+            "ro": "Fabrica de sticlă Gjøvik",
+            "en": "Gjøvik Glassworks"
+          },
+          "coords": [
+            10.6703,
+            60.8001
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:08",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie einzigartige Glas-Souvenirs direkt vom Hersteller.",
+            "hu": "Vásároljon egyedi üveg ajándéktárgyakat közvetlenül a gyártótól.",
+            "ro": "Cumpărați suveniruri unice din sticlă direct de la producător.",
+            "en": "Buy unique glass souvenirs directly from the manufacturer."
+          }
+        },
+        {
+          "name": {
+            "de": "Gjøvik Olympische Felsenhalle",
+            "hu": "Gjøviki Olimpiai Sziklaaréna",
+            "ro": "Sala Olimpică Gjøvik",
+            "en": "Gjøvik Olympic Cavern Hall"
+          },
+          "coords": [
+            10.6755,
+            60.7982
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:23",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Die größte in einen Felsen gebaute Zuschauerhalle der Welt.",
+            "hu": "A világ legnagyobb, sziklába vájt nézőtere.",
+            "ro": "Cea mai mare sală pentru spectatori din lume construită într-o stâncă.",
+            "en": "The world's largest spectator hall built into a rock."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Gjøvik beginnt im historischen Herzen der Stadt, im Gjøvik Gård. Von dort aus schlendern Sie durch die Geschichte, vorbei am Kauffeldtgården und der Holzkirche. Am Mittag erreichen Sie das Ufer des Mjøsa-Sees. Die Promenade ist ideal für eine entspannte Mittagspause mit Blick auf den berühmten Dampfer Skibladner. Nachmittags führt Sie ein längerer Spaziergang zu den industriellen und olympischen Wahrzeichen von Gjøvik, dem Glaswerk und der beeindruckenden Felsenhalle. Der Abend klingt in der gemütlichen Innenstadt aus, wo Sie norwegische Spezialitäten genießen können.",
+        "hu": "Gjøvikban töltött napja a város történelmi szívében, a Gjøvik Gårdnál kezdődik. Innen a történelmen át sétálva elhalad a Kauffeldtgården és a fatemplom mellett. Délben eléri a Mjøsa-tó partját. A sétány ideális egy pihentető ebédszünethez, kilátással a híres Skibladner gőzhajóra. Délután egy hosszabb séta vezet Gjøvik ipari és olimpiai nevezetességeihez, az üveggyárhoz és a lenyűgöző sziklaarénához. Az estét a hangulatos belvárosban zárhatja, ahol norvég specialitásokat kóstolhat.",
+        "ro": "Ziua dvs. în Gjøvik începe în inima istorică a orașului, la Conacul Gjøvik. De acolo, vă plimbați prin istorie, trecând pe lângă Kauffeldtgården și biserica de lemn. La prânz, ajungeți pe malul lacului Mjøsa. Promenada este ideală pentru o pauză de prânz relaxantă, cu vedere la faimosul vas cu aburi Skibladner. După-amiaza, o plimbare mai lungă vă duce la reperele industriale și olimpice din Gjøvik, fabrica de sticlă și impresionanta Sală Olimpică. Seara se încheie în centrul confortabil al orașului, unde puteți savura specialități norvegiene.",
+        "en": "Your day in Gjøvik begins in the historical heart of the city at Gjøvik Gård. From there, you'll stroll through history, past Kauffeldtgården and the wooden church. At noon, you'll reach the shore of Lake Mjøsa. The promenade is ideal for a relaxing lunch break with a view of the famous Skibladner paddle-steamer. In the afternoon, a longer walk takes you to Gjøvik's industrial and Olympic landmarks, the Glassworks and the impressive Cavern Hall. The evening concludes in the cozy city center, where you can enjoy Norwegian specialties."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lachs",
+            "tip": "Probieren Sie ihn geräuchert oder gegrillt in einem der Restaurants am Seeufer."
+          },
+          {
+            "name": "Brunost (Braunkäse)",
+            "tip": "Ein karamellartiger Käse, köstlich auf Waffeln oder Brot."
+          },
+          {
+            "name": "Elch-Eintopf",
+            "tip": "Ein herzhaftes und traditionelles Gericht für kühle Tage."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lazac",
+            "tip": "Kóstolja meg füstölve vagy grillezve a tóparti éttermek egyikében."
+          },
+          {
+            "name": "Brunost (barna sajt)",
+            "tip": "Karamellás ízű sajt, finom gofrin vagy kenyéren."
+          },
+          {
+            "name": "Jávorszarvas-pörkölt",
+            "tip": "Kiadós és hagyományos étel a hűvös napokra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Somon",
+            "tip": "Încercați-l afumat sau la grătar la unul dintre restaurantele de pe malul lacului."
+          },
+          {
+            "name": "Brunost (brânză maro)",
+            "tip": "O brânză asemănătoare caramelului, delicioasă pe vafe sau pâine."
+          },
+          {
+            "name": "Tocăniță de elan",
+            "tip": "Un fel de mâncare consistent și tradițional pentru zilele răcoroase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salmon",
+            "tip": "Try it smoked or grilled at one of the lakeside restaurants."
+          },
+          {
+            "name": "Brunost (Brown Cheese)",
+            "tip": "A caramel-like cheese, delicious on waffles or bread."
+          },
+          {
+            "name": "Moose Stew",
+            "tip": "A hearty and traditional dish for cool days."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Mjøsa-Sees",
+            "tip": "Finden Sie eine ruhige Bank entlang der Promenade und beobachten Sie die Boote.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park des Gjøvik Gård",
+            "tip": "Ein friedlicher Ort, um dem städtischen Trubel zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht von der Kirche",
+            "tip": "Ein ruhiger Moment mit Blick über die Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mjøsa-tó partja",
+            "tip": "Keressen egy csendes padot a sétányon, és nézze a hajókat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gjøvik Gård parkja",
+            "tip": "Békés hely a városi nyüzsgés elől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a templomtól",
+            "tip": "Egy csendes pillanat a városra néző kilátással.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Mjøsa",
+            "tip": "Găsiți o bancă liniștită de-a lungul promenadei și priviți bărcile.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Conacului Gjøvik",
+            "tip": "Un loc pașnic pentru a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la biserică",
+            "tip": "Un moment de liniște cu vedere asupra orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Lake Mjøsa",
+            "tip": "Find a quiet bench along the promenade and watch the boats.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gjøvik Gård Park",
+            "tip": "A peaceful spot to escape the city bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Church",
+            "tip": "A quiet moment overlooking the town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gjøvik Glaswerk",
+            "tip": "Kaufen Sie handgefertigte Glaswaren als perfektes Souvenir."
+          },
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Suchen Sie in der Innenstadt nach Geschäften, die norwegische Pullover und Holzschnitzereien verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gjøviki Üveggyár",
+            "tip": "Vásároljon kézzel készített üvegárut tökéletes szuvenírként."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen a belvárosban norvég pulóvereket és fafaragásokat árusító üzleteket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabrica de sticlă Gjøvik",
+            "tip": "Cumpărați articole din sticlă lucrate manual ca suvenir perfect."
+          },
+          {
+            "name": "Magazine locale de artizanat",
+            "tip": "Căutați în centrul orașului magazine care vând pulovere norvegiene și sculpturi în lemn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gjøvik Glassworks",
+            "tip": "Purchase handmade glassware for a perfect souvenir."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for shops in the city center selling Norwegian sweaters and woodcarvings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich.",
+          "Das Wetter kann sich schnell ändern, packen Sie eine leichte Regenjacke ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog sétálni.",
+          "Egy újratölthető vizes palack hasznos.",
+          "Az időjárás gyorsan változhat, csomagoljon egy könnyű esőkabátot."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "O sticlă de apă reutilizabilă este utilă.",
+          "Vremea se poate schimba rapid, împachetați o geacă de ploaie ușoară."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "A reusable water bottle is useful.",
+          "The weather can change quickly, so pack a light raincoat."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Eiktunet Freilichtmuseum",
+            "hu": "Eiktunet Szabadtéri Múzeum",
+            "ro": "Muzeul în aer liber Eiktunet",
+            "en": "Eiktunet Open-Air Museum"
+          },
+          "coords": [
+            10.65,
+            60.785
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um das ländliche norwegische Leben kennenzulernen.",
+            "hu": "Nagyszerű hely a vidéki norvég élet megismeréséhez.",
+            "ro": "Un loc minunat pentru a învăța despre viața rurală norvegiană.",
+            "en": "A great place to learn about rural Norwegian life."
+          }
+        },
+        {
+          "name": {
+            "de": "Gjøvik Olympische Felsenhalle",
+            "hu": "Gjøviki Olimpiai Sziklaaréna",
+            "ro": "Sala Olimpică Gjøvik",
+            "en": "Gjøvik Olympic Cavern Hall"
+          },
+          "coords": [
+            10.6755,
+            60.7982
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:04",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die beeindruckende Ingenieurskunst zu verstehen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megértse a lenyűgöző mérnöki munkát.",
+            "ro": "Participați la un tur ghidat pentru a înțelege ingineria impresionantă.",
+            "en": "Take a guided tour to understand the impressive engineering."
+          }
+        },
+        {
+          "name": {
+            "de": "Gjøvik Gård",
+            "hu": "Gjøvik Gård (udvarház)",
+            "ro": "Conacul Gjøvik",
+            "en": "Gjøvik Farm"
+          },
+          "coords": [
+            10.6851,
+            60.7948
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:06",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für eine Mittagspause im Grünen.",
+            "hu": "Tökéletes hely egy ebédszünethez a zöldben.",
+            "ro": "Locul perfect pentru o pauză de prânz în mijlocul naturii.",
+            "en": "The perfect place for a lunch break amidst greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Gjøvik Kirche",
+            "hu": "Gjøvik-templom",
+            "ro": "Biserica Gjøvik",
+            "en": "Gjøvik Church"
+          },
+          "coords": [
+            10.691,
+            60.7913
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:31",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Stopp, um die Architektur zu bewundern.",
+            "hu": "Rövid, de érdemes megálló az építészet megcsodálására.",
+            "ro": "O oprire scurtă, dar care merită, pentru a admira arhitectura.",
+            "en": "A short but worthwhile stop to admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mjøspromenaden & Skibladner",
+            "hu": "Mjøs-sétány és Skibladner",
+            "ro": "Promenada Mjøsa și Skibladner",
+            "en": "Mjøsa Promenade & Skibladner"
+          },
+          "coords": [
+            10.701,
+            60.7908
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:17",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Radfahren Sie entlang des Sees, es ist die beste Art, die Aussicht zu genießen.",
+            "hu": "Biciklizzen a tó mentén, ez a legjobb módja a kilátás élvezetének.",
+            "ro": "Mergeți cu bicicleta de-a lungul lacului, este cel mai bun mod de a vă bucura de priveliște.",
+            "en": "Cycle along the lake, it's the best way to enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Gjøvik Glaswerk",
+            "hu": "Gjøviki Üveggyár",
+            "ro": "Fabrica de sticlă Gjøvik",
+            "en": "Gjøvik Glassworks"
+          },
+          "coords": [
+            10.6703,
+            60.8001
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.4,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss des Tages mit der Möglichkeit, einzigartige Geschenke zu kaufen.",
+            "hu": "Szép lezárása a napnak, egyedi ajándékok vásárlási lehetőségével.",
+            "ro": "O încheiere frumoasă a zilei cu posibilitatea de a cumpăra cadouri unice.",
+            "en": "A nice end to the day with an opportunity to buy unique gifts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihren Tag im Eiktunet Freilichtmuseum, um in die norwegische Geschichte einzutauchen. Ihre Radtour führt Sie dann bergauf zur beeindruckenden Olympischen Felsenhalle. Zur Mittagszeit rollen Sie ins Zentrum zum Gjøvik Gård, einem perfekten Ort für eine Pause. Nach dem Besuch der nahegelegenen Kirche radeln Sie zum Ufer des Mjøsa-Sees. Der Nachmittag ist einer entspannten Fahrt entlang der Promenade gewidmet, mit einem Stopp beim historischen Dampfschiff Skibladner. Der letzte Abschnitt führt Sie zum Gjøvik Glaswerk, wo Sie den Tag mit einem Blick auf feine Handwerkskunst ausklingen lassen.",
+        "hu": "Pattanjon nyeregbe, és kezdje a napot az Eiktunet Szabadtéri Múzeumban, hogy elmerüljön a norvég történelemben. A kerékpártúra ezután felfelé vezet a lenyűgöző Olimpiai Sziklaarénához. Délidőben begurul a központba, a Gjøvik Gårdhoz, amely tökéletes hely egy pihenőre. A közeli templom meglátogatása után a Mjøsa-tó partjára teker. A délutánt egy pihentető biciklizésnek szenteli a sétány mentén, megállva a történelmi Skibladner gőzhajónál. Az utolsó szakasz a Gjøviki Üveggyárhoz vezet, ahol a napot a finom kézművesség megtekintésével zárhatja.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua la Muzeul în aer liber Eiktunet pentru o incursiune în istoria norvegiană. Turul cu bicicleta vă duce apoi în sus, spre impresionanta Sală Olimpică. La prânz, ajungeți în centru la Conacul Gjøvik, un loc perfect pentru o pauză. După vizitarea bisericii din apropiere, pedalați spre malul lacului Mjøsa. După-amiaza este dedicată unei plimbări relaxante de-a lungul promenadei, cu o oprire la istoricul vas cu aburi Skibladner. Ultima etapă vă duce la Fabrica de sticlă Gjøvik, unde puteți încheia ziua admirând măiestria artizanală.",
+        "en": "Hop on your bike and start your day at the Eiktunet Open-Air Museum for a dive into Norwegian history. Your bike tour then takes you uphill to the impressive Olympic Cavern Hall. At lunchtime, you'll roll into the center to Gjøvik Gård, a perfect spot for a break. After visiting the nearby church, you'll cycle to the shore of Lake Mjøsa. The afternoon is dedicated to a relaxing ride along the promenade, with a stop at the historic Skibladner paddle-steamer. The final leg takes you to the Gjøvik Glassworks, where you can end the day admiring fine craftsmanship."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Waffeln mit Brunost",
+            "tip": "Ein schneller und leckerer norwegischer Snack, perfekt für eine Radpause."
+          },
+          {
+            "name": "Fischsuppe",
+            "tip": "Wärmt Sie nach einer Fahrt am Seeufer auf."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein Bier aus einer der regionalen Brauereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gofri barna sajttal (Brunost)",
+            "tip": "Gyors és finom norvég harapnivaló, tökéletes egy biciklis pihenőhöz."
+          },
+          {
+            "name": "Halleves",
+            "tip": "Felmelegít a tóparti tekerés után."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy sört a regionális sörfőzdék egyikéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vafe cu Brunost",
+            "tip": "O gustare norvegiană rapidă și delicioasă, perfectă pentru o pauză de ciclism."
+          },
+          {
+            "name": "Supă de pește",
+            "tip": "Vă va încălzi după o plimbare pe malul lacului."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Încercați o bere de la una dintre fabricile de bere regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Waffles with Brunost",
+            "tip": "A quick and delicious Norwegian snack, perfect for a biking break."
+          },
+          {
+            "name": "Fish Soup",
+            "tip": "Warms you up after a ride along the lakeside."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a beer from one of the regional breweries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Mjøsa-See",
+            "tip": "Die ruhige Strecke bietet die besten Aussichten auf den See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel am Eiktunet",
+            "tip": "Genießen Sie die Stille und den Panoramablick vom Museumsgelände aus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gjøvik Gård Park",
+            "tip": "Stellen Sie Ihr Fahrrad ab und entspannen Sie sich im Schatten der Bäume.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mjøsa-tavi kerékpárút",
+            "tip": "A csendes útvonal a legjobb kilátást nyújtja a tóra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eiktunet dombja",
+            "tip": "Élvezze a csendet és a panorámát a múzeum területéről.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gjøvik Gård parkja",
+            "tip": "Tegye le a biciklit és pihenjen a fák árnyékában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe lacul Mjøsa",
+            "tip": "Traseul liniștit oferă cele mai bune vederi ale lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul de la Eiktunet",
+            "tip": "Bucurați-vă de liniște și de vederea panoramică de pe terenul muzeului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Conacului Gjøvik",
+            "tip": "Lăsați bicicleta și relaxați-vă la umbra copacilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Mjøsa Bike Path",
+            "tip": "The quiet route offers the best views of the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hill at Eiktunet",
+            "tip": "Enjoy the silence and the panoramic view from the museum grounds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gjøvik Gård Park",
+            "tip": "Park your bike and relax in the shade of the trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Gjøvik ist eine Sportstadt; finden Sie hochwertige Outdoor-Ausrüstung."
+          },
+          {
+            "name": "Hofladen im Eiktunet",
+            "tip": "Kaufen Sie traditionelles norwegisches Kunsthandwerk und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Gjøvik sportváros; találjon minőségi outdoor felszerelést."
+          },
+          {
+            "name": "Bolti bolt az Eiktunetben",
+            "tip": "Vásároljon hagyományos norvég kézműves termékeket és helyi árukat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "Gjøvik este un oraș sportiv; găsiți echipament outdoor de înaltă calitate."
+          },
+          {
+            "name": "Magazinul fermei de la Eiktunet",
+            "tip": "Cumpărați artizanat tradițional norvegian și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports Shops",
+            "tip": "Gjøvik is a sports town; find high-quality outdoor gear."
+          },
+          {
+            "name": "Farm Shop at Eiktunet",
+            "tip": "Buy traditional Norwegian handicrafts and local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und seien Sie auf Hügel vorbereitet.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Viseljen sisakot, és készüljön fel a dombokra.",
+          "Vigyen magával egy lakatot, hogy biztonságban lezárhassa a biciklit a megállóknál.",
+          "Indulás előtt ellenőrizze a guminyomást."
+        ],
+        "ro": [
+          "Purtați o cască și fiți pregătit pentru dealuri.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Verificați presiunea anvelopelor înainte de a porni."
+        ],
+        "en": [
+          "Wear a helmet and be prepared for hills.",
+          "Bring a lock to secure your bike at stops.",
+          "Check your tire pressure before you start."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 20.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Eiktunet Freilichtmuseum",
+            "hu": "A klaszter: Eiktunet Szabadtéri Múzeum",
+            "ro": "Cluster A: Muzeul în aer liber Eiktunet",
+            "en": "Cluster A: Eiktunet Open-Air Museum"
+          },
+          "coords": [
+            10.65,
+            60.785
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und nehmen Sie sich Zeit für die historischen Gebäude.",
+            "hu": "Parkoljon le itt, és szánjon időt a történelmi épületekre.",
+            "ro": "Parcați aici și acordați-vă timp pentru clădirile istorice.",
+            "en": "Park here and take your time exploring the historic buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Gjøvik Olympische Felsenhalle",
+            "hu": "B klaszter: Gjøviki Olimpiai Sziklaaréna",
+            "ro": "Cluster B: Sala Olimpică Gjøvik",
+            "en": "Cluster B: Gjøvik Olympic Cavern Hall"
+          },
+          "coords": [
+            10.6755,
+            60.7982
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:15",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und gehen Sie zum Eingang. Eine technische Meisterleistung.",
+            "hu": "Parkoljon a közelben és sétáljon a bejárathoz. Egy mérnöki remekmű.",
+            "ro": "Parcați în apropiere și mergeți pe jos până la intrare. O capodoperă tehnică.",
+            "en": "Park nearby and walk to the entrance. An engineering marvel."
+          }
+        },
+        {
+          "name": {
+            "de": "Gjøvik Glaswerk",
+            "hu": "Gjøviki Üveggyár",
+            "ro": "Fabrica de sticlă Gjøvik",
+            "en": "Gjøvik Glassworks"
+          },
+          "coords": [
+            10.6703,
+            60.8001
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:13",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der Felsenhalle entfernt.",
+            "hu": "Csak egy rövid séta a Sziklaarénától.",
+            "ro": "La doar o scurtă plimbare de Sala Olimpică.",
+            "en": "Just a short walk from the Cavern Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Gjøvik Gård",
+            "hu": "C klaszter: Gjøvik Gård (udvarház)",
+            "ro": "Cluster C: Conacul Gjøvik",
+            "en": "Cluster C: Gjøvik Farm"
+          },
+          "coords": [
+            10.6851,
+            60.7948
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum und erkunden Sie diesen Bereich zu Fuß. Ideal für die Mittagspause.",
+            "hu": "Parkoljon a városközpontban, és fedezze fel ezt a területet gyalog. Ideális ebédszünetre.",
+            "ro": "Parcați în centrul orașului și explorați această zonă pe jos. Ideal pentru o pauză de prânz.",
+            "en": "Park in the city center and explore this area on foot. Ideal for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kauffeldtgården",
+            "hu": "Kauffeldtgården",
+            "ro": "Kauffeldtgården",
+            "en": "Kauffeldtgården"
+          },
+          "coords": [
+            10.6895,
+            60.7925
+          ],
+          "category": "historical",
+          "arrive_at": "14:47",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch die Hauptstraße vom Gård aus.",
+            "hu": "Kellemes séta a főutcán a Gårdtól.",
+            "ro": "O plimbare plăcută pe strada principală de la Conac.",
+            "en": "A pleasant walk down the main street from the Farm."
+          }
+        },
+        {
+          "name": {
+            "de": "Gjøvik Kirche",
+            "hu": "Gjøvik-templom",
+            "ro": "Biserica Gjøvik",
+            "en": "Gjøvik Church"
+          },
+          "coords": [
+            10.691,
+            60.7913
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:30",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Kirche ist nur einen Steinwurf vom Kauffeldtgården entfernt.",
+            "hu": "A templom csak egy kőhajításnyira van a Kauffeldtgårdentől.",
+            "ro": "Biserica este la o aruncătură de băț de Kauffeldtgården.",
+            "en": "The church is just a stone's throw from Kauffeldtgården."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster D: Mjøspromenaden & Skibladner",
+            "hu": "D klaszter: Mjøs-sétány és Skibladner",
+            "ro": "Cluster D: Promenada Mjøsa și Skibladner",
+            "en": "Cluster D: Mjøsa Promenade & Skibladner"
+          },
+          "coords": [
+            10.701,
+            60.7908
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:34",
+          "stay_min": 85,
+          "hop_mode": "car",
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 14.6,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Seeufer für den letzten Stopp. Parken Sie und genießen Sie den Spaziergang am Wasser.",
+            "hu": "Hajtson a tópartra az utolsó megállóhoz. Parkoljon le, és élvezze a vízparti sétát.",
+            "ro": "Conduceți spre malul lacului pentru ultima oprire. Parcați și bucurați-vă de plimbarea pe malul apei.",
+            "en": "Drive down to the lakeside for the final stop. Park and enjoy the waterside walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie Gjøviks Sehenswürdigkeiten bequem in Clustern erkunden. Beginnen Sie Ihren Tag im Eiktunet Freilichtmuseum, etwas außerhalb des Zentrums. Fahren Sie dann zum olympischen Cluster, um die Felsenhalle und das nahegelegene Glaswerk zu Fuß zu erkunden. Zur Mittagszeit parken Sie im Stadtzentrum, wo der Gjøvik Gård, historische Gebäude und die Kirche bei einem gemütlichen Spaziergang auf Sie warten. Den Nachmittag verbringen Sie am besten mit einer kurzen Fahrt zum Ufer des Mjøsa-Sees. Parken Sie Ihr Auto und beenden Sie den Tag mit einem entspannten Spaziergang entlang der Promenade und einem Blick auf den majestätischen Dampfer Skibladner.",
+        "hu": "Autóval kényelmesen, klaszterekben fedezheti fel Gjøvik látnivalóit. Kezdje a napot az Eiktunet Szabadtéri Múzeumban, kissé a központon kívül. Ezután hajtson az olimpiai klaszterhez, hogy gyalog fedezze fel a sziklaarénát és a közeli üveggyárat. Délidőben parkoljon le a városközpontban, ahol a Gjøvik Gård, a történelmi épületek és a templom egy kellemes sétával várják. A délutánt a legjobban egy rövid autózással a Mjøsa-tó partjára töltheti. Parkolja le az autót, és fejezze be a napot egy pihentető sétával a sétány mentén, megcsodálva a fenséges Skibladner gőzhajót.",
+        "ro": "Cu mașina, puteți explora convenabil atracțiile din Gjøvik în clustere. Începeți ziua la Muzeul în aer liber Eiktunet, puțin în afara centrului. Apoi, conduceți la clusterul olimpic pentru a explora pe jos Sala Olimpică și fabrica de sticlă din apropiere. La prânz, parcați în centrul orașului, unde Conacul Gjøvik, clădirile istorice și biserica vă așteaptă pentru o plimbare relaxantă. Cel mai bun mod de a petrece după-amiaza este o scurtă călătorie cu mașina până pe malul lacului Mjøsa. Parcați mașina și încheiați ziua cu o plimbare relaxantă de-a lungul promenadei, admirând maiestuosul vas cu aburi Skibladner.",
+        "en": "By car, you can conveniently explore Gjøvik's attractions in clusters. Start your day at the Eiktunet Open-Air Museum, slightly outside the center. Then, drive to the Olympic cluster to explore the Cavern Hall and the nearby Glassworks on foot. For lunch, park in the city center, where Gjøvik Gård, historic buildings, and the church await you on a pleasant walk. The best way to spend the afternoon is with a short drive to the shore of Lake Mjøsa. Park your car and end the day with a relaxing stroll along the promenade, admiring the majestic Skibladner paddle-steamer."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Raspeballer",
+            "tip": "Ein traditioneller norwegischer Kartoffelkloß, oft mit gesalzenem Fleisch serviert."
+          },
+          {
+            "name": "Frischer Fisch aus dem Mjøsa-See",
+            "tip": "Fragen Sie nach dem 'Fang des Tages' in den Restaurants."
+          },
+          {
+            "name": "Rømmegrøt",
+            "tip": "Ein Sauerrahmbrei, ein einzigartiges und sättigendes Gericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Raspeballer",
+            "tip": "Hagyományos norvég burgonyagombóc, gyakran sózott hússal tálalva."
+          },
+          {
+            "name": "Friss hal a Mjøsa-tóból",
+            "tip": "Kérje a 'nap fogását' az éttermekben."
+          },
+          {
+            "name": "Rømmegrøt",
+            "tip": "Tejfölös kása, egyedi és laktató étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Raspeballer",
+            "tip": "O gălușcă tradițională norvegiană din cartofi, adesea servită cu carne sărată."
+          },
+          {
+            "name": "Pește proaspăt din lacul Mjøsa",
+            "tip": "Întrebați de 'captura zilei' la restaurante."
+          },
+          {
+            "name": "Rømmegrøt",
+            "tip": "Un terci de smântână, un fel de mâncare unic și sățios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Raspeballer",
+            "tip": "A traditional Norwegian potato dumpling, often served with salted meat."
+          },
+          {
+            "name": "Fresh fish from Lake Mjøsa",
+            "tip": "Ask for the 'catch of the day' in restaurants."
+          },
+          {
+            "name": "Rømmegrøt",
+            "tip": "A sour cream porridge, a unique and filling dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panoramastraße zum Eiktunet",
+            "tip": "Genießen Sie die Aussicht während der Fahrt aus der Stadt hinaus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Ecken im Gjøvik Gård",
+            "tip": "Finden Sie einen ruhigen Platz im weitläufigen Park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abendstimmung am See",
+            "tip": "Der Sonnenuntergang über dem Mjøsa-See ist ein unvergesslicher Anblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panorámaút az Eiktunethez",
+            "tip": "Élvezze a kilátást a városból kifelé vezető úton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rejtett zugok a Gjøvik Gårdban",
+            "tip": "Keressen egy csendes helyet a tágas parkban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Esti hangulat a tónál",
+            "tip": "A naplemente a Mjøsa-tó felett felejthetetlen látvány.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul panoramic spre Eiktunet",
+            "tip": "Bucurați-vă de priveliște în timp ce ieșiți din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colțuri ascunse la Conacul Gjøvik",
+            "tip": "Găsiți un loc liniștit în parcul extins.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Atmosfera de seară la lac",
+            "tip": "Apusul de soare peste lacul Mjøsa este o priveliște de neuitat.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Panoramic road to Eiktunet",
+            "tip": "Enjoy the views while driving out of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden corners in Gjøvik Gård",
+            "tip": "Find a quiet spot in the expansive park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evening atmosphere at the lake",
+            "tip": "The sunset over Lake Mjøsa is an unforgettable sight.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fabrikverkauf Gjøvik Glaswerk",
+            "tip": "Große Auswahl und oft günstigere Preise als im Einzelhandel."
+          },
+          {
+            "name": "CC Gjøvik Einkaufszentrum",
+            "tip": "Wenn Sie eine größere Auswahl an Geschäften an einem Ort benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gjøviki Üveggyár gyári boltja",
+            "tip": "Nagy választék és gyakran olcsóbb árak, mint a kiskereskedelemben."
+          },
+          {
+            "name": "CC Gjøvik bevásárlóközpont",
+            "tip": "Ha nagyobb üzletválasztékra van szüksége egy helyen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fabricii Gjøvik Glaswerk",
+            "tip": "Selecție largă și prețuri adesea mai mici decât în retail."
+          },
+          {
+            "name": "Centrul comercial CC Gjøvik",
+            "tip": "Dacă aveți nevoie de o selecție mai largă de magazine într-un singur loc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gjøvik Glassworks Factory Outlet",
+            "tip": "Large selection and often cheaper prices than in retail."
+          },
+          {
+            "name": "CC Gjøvik Shopping Center",
+            "tip": "If you need a wider selection of shops in one place."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkgebühren im Stadtzentrum, sie können hoch sein.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders am Nachmittag.",
+          "Ein GPS ist sehr empfehlenswert."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra a városközpontban, magasak lehetnek.",
+          "Tervezzen plusz időt a forgalomra, különösen délután.",
+          "GPS használata erősen ajánlott."
+        ],
+        "ro": [
+          "Fiți atenți la taxele de parcare din centrul orașului, pot fi mari.",
+          "Planificați timp suplimentar pentru trafic, mai ales după-amiaza.",
+          "Un GPS este foarte recomandat."
+        ],
+        "en": [
+          "Pay attention to parking fees in the city center, they can be high.",
+          "Plan for extra time for traffic, especially in the afternoon.",
+          "A GPS is highly recommended."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Gjøvik Olympische Felsenhalle",
+            "hu": "A klaszter: Gjøviki Olimpiai Sziklaaréna",
+            "ro": "Cluster A: Sala Olimpică Gjøvik",
+            "en": "Cluster A: Gjøvik Olympic Cavern Hall"
+          },
+          "coords": [
+            10.6755,
+            60.7982
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Hovde. Eine beeindruckende unterirdische Arena.",
+            "hu": "Menjen busszal Hovde irányába. Lenyűgöző földalatti aréna.",
+            "ro": "Luați un autobuz spre Hovde. O arenă subterană impresionantă.",
+            "en": "Take a bus towards Hovde. An impressive underground arena."
+          }
+        },
+        {
+          "name": {
+            "de": "Gjøvik Glaswerk",
+            "hu": "Gjøviki Üveggyár",
+            "ro": "Fabrica de sticlă Gjøvik",
+            "en": "Gjøvik Glassworks"
+          },
+          "coords": [
+            10.6703,
+            60.8001
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:08",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle Felsenhalle.",
+            "hu": "Rövid séta a Felsenhalle buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația de autobuz Felsenhalle.",
+            "en": "A short walk from the Felsenhalle bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Gjøvik Gård",
+            "hu": "B klaszter: Gjøvik Gård (udvarház)",
+            "ro": "Cluster B: Conacul Gjøvik",
+            "en": "Cluster B: Gjøvik Farm"
+          },
+          "coords": [
+            10.6851,
+            60.7948
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:27",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Stadtzentrum. Der Hof ist ein idealer Ort für die Mittagspause.",
+            "hu": "Menjen busszal a városközpontba. Az udvarház ideális hely az ebédszünethez.",
+            "ro": "Luați un autobuz spre centrul orașului. Conacul este un loc ideal pentru o pauză de prânz.",
+            "en": "Take a bus to the city center. The farm is an ideal place for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kauffeldtgården",
+            "hu": "Kauffeldtgården",
+            "ro": "Kauffeldtgården",
+            "en": "Kauffeldtgården"
+          },
+          "coords": [
+            10.6895,
+            60.7925
+          ],
+          "category": "historical",
+          "arrive_at": "13:05",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie vom Hof aus durch die Innenstadt zu diesem historischen Juwel.",
+            "hu": "Sétáljon az udvarházból a belvároson át ehhez a történelmi gyöngyszemhez.",
+            "ro": "Plimbați-vă din curtea conacului prin centrul orașului până la această bijuterie istorică.",
+            "en": "Stroll from the farm through the city center to this historic gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Gjøvik Kirche",
+            "hu": "Gjøvik-templom",
+            "ro": "Biserica Gjøvik",
+            "en": "Gjøvik Church"
+          },
+          "coords": [
+            10.691,
+            60.7913
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:58",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Holzkirche ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "A fatemplom csak egy rövid sétára van.",
+            "ro": "Biserica de lemn este la doar o scurtă plimbare.",
+            "en": "The wooden church is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Mjøspromenaden & Skibladner",
+            "hu": "C klaszter: Mjøs-sétány és Skibladner",
+            "ro": "Cluster C: Promenada Mjøsa și Skibladner",
+            "en": "Cluster C: Mjøsa Promenade & Skibladner"
+          },
+          "coords": [
+            10.701,
+            60.7908
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:26",
+          "stay_min": 107,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Bahnhof/Fährterminal. Beenden Sie Ihren Tag mit einem Spaziergang am See.",
+            "hu": "Menjen busszal az állomásra/kompkikötőbe. Fejezze be a napot egy tóparti sétával.",
+            "ro": "Luați un autobuz până la gară/terminalul de feribot. Încheiați-vă ziua cu o plimbare pe malul lacului.",
+            "en": "Take a bus to the train station/ferry terminal. End your day with a walk by the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln können Sie Gjøvik effizient erkunden. Beginnen Sie Ihren Tag mit einer Busfahrt zum ersten Cluster: der Olympischen Felsenhalle und dem nahegelegenen Glaswerk. Anschließend bringt Sie ein weiterer Bus ins Herz der Stadt. Verbringen Sie die Mittagszeit im und um den Gjøvik Gård, und spazieren Sie zu den historischen Stätten. Nach dem Mittagessen führt Sie eine kurze Busfahrt zum Seeufer. Der Nachmittag ist ideal für einen langen, entspannten Spaziergang entlang der Mjøspromenade, bei dem Sie den berühmten Dampfer Skibladner bewundern können, bevor Sie den Bus zurücknehmen.",
+        "hu": "A tömegközlekedéssel hatékonyan fedezheti fel Gjøvikot. Kezdje a napot egy buszúttal az első klaszterhez: az Olimpiai Sziklaarénához és a közeli üveggyárhoz. Ezután egy másik busz a város szívébe viszi. Töltse az ebédet a Gjøvik Gårdban és környékén, és sétáljon el a történelmi helyszínekhez. Ebéd után egy rövid buszút vezet a tópartra. A délután ideális egy hosszú, pihentető sétára a Mjøs-sétányon, megcsodálva a híres Skibladner gőzhajót, mielőtt visszaindulna a busszal.",
+        "ro": "Cu transportul public, puteți explora eficient Gjøvik. Începeți ziua cu o călătorie cu autobuzul către primul cluster: Sala Olimpică și fabrica de sticlă din apropiere. Apoi, un alt autobuz vă va duce în inima orașului. Petreceți prânzul la și în jurul Conacului Gjøvik și plimbați-vă la siturile istorice. După prânz, o scurtă călătorie cu autobuzul vă va duce la malul lacului. După-amiaza este ideală pentru o plimbare lungă și relaxantă de-a lungul Promenadei Mjøsa, admirând faimosul vas cu aburi Skibladner, înainte de a lua autobuzul înapoi.",
+        "en": "Using public transport, you can explore Gjøvik efficiently. Start your day with a bus ride to the first cluster: the Olympic Cavern Hall and the nearby Glassworks. Afterwards, another bus will take you to the heart of the city. Spend your lunchtime in and around Gjøvik Gård, and walk to the historic sites. After lunch, a short bus ride will take you to the lake shore. The afternoon is ideal for a long, relaxing walk along the Mjøsa Promenade, admiring the famous Skibladner paddle-steamer before taking the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Ein klassischer norwegischer Hotdog in einem Kartoffelfladen, perfekt für unterwegs."
+          },
+          {
+            "name": "Skillingsboller",
+            "tip": "Eine Zimtschnecke, die man in jeder Bäckerei findet."
+          },
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "Viele Cafés im Zentrum bieten tolle Angebote."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Klasszikus norvég hot dog burgonyalepényben, tökéletes útközben."
+          },
+          {
+            "name": "Skillingsboller",
+            "tip": "Fahéjas csiga, minden pékségben megtalálható."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "A központban számos kávézó kínál remek ajánlatokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Un hotdog norvegian clasic într-o lipie de cartofi, perfect pentru drum."
+          },
+          {
+            "name": "Skillingsboller",
+            "tip": "Un rulou cu scorțișoară găsit în fiecare brutărie."
+          },
+          {
+            "name": "Cafea și prăjitură",
+            "tip": "Multe cafenele din centru oferă oferte excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "A classic Norwegian hot dog in a potato flatbread, perfect for on the go."
+          },
+          {
+            "name": "Skillingsboller",
+            "tip": "A cinnamon bun found in every bakery."
+          },
+          {
+            "name": "Coffee and cake",
+            "tip": "Many cafes in the center offer great deals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt aus der Stadt",
+            "tip": "Genießen Sie die Aussicht auf die Landschaft aus dem Busfenster.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof",
+            "tip": "Ein ruhiger und besinnlicher Ort im Stadtzentrum.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank am Pier",
+            "tip": "Beobachten Sie, wie der Skibladner anlegt und ablegt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszút a városból kifelé",
+            "tip": "Élvezze a táj látványát a busz ablakából.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "Csendes és elgondolkodtató hely a városközpontban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad a mólónál",
+            "tip": "Nézze, ahogy a Skibladner kiköt és elindul.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul în afara orașului",
+            "tip": "Bucurați-vă de peisajul rural de la fereastra autobuzului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea bisericii",
+            "tip": "Un loc liniștit și contemplativ în centrul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă pe chei",
+            "tip": "Urmăriți cum acostează și pleacă Skibladner.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride out of town",
+            "tip": "Enjoy the countryside view from the bus window.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Churchyard",
+            "tip": "A quiet and contemplative place in the city center.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench by the pier",
+            "tip": "Watch the Skibladner dock and depart.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen am Skibladner-Pier",
+            "tip": "Finden Sie maritime Souvenirs und Geschenke."
+          },
+          {
+            "name": "Supermarkt",
+            "tip": "Kaufen Sie norwegische Schokolade und Snacks für die Heimreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt a Skibladner mólónál",
+            "tip": "Találjon tengeri témájú szuveníreket és ajándékokat."
+          },
+          {
+            "name": "Szupermarket",
+            "tip": "Vásároljon norvég csokoládét és rágcsálnivalókat a hazaútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri la cheiul Skibladner",
+            "tip": "Găsiți suveniruri și cadouri cu tematică maritimă."
+          },
+          {
+            "name": "Supermarket",
+            "tip": "Cumpărați ciocolată norvegiană și gustări pentru călătoria spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop at the Skibladner pier",
+            "tip": "Find maritime-themed souvenirs and gifts."
+          },
+          {
+            "name": "Supermarket",
+            "tip": "Buy some Norwegian chocolate and snacks for the trip home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, das ist am günstigsten.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Seien Sie pünktlich an der Haltestelle, die Busse fahren oft auf die Minute genau."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, az a legolcsóbb.",
+          "Töltse le a helyi közlekedési alkalmazást a valós idejű menetrendekért.",
+          "Érkezzen időben a megállóba, a buszok gyakran percre pontosan indulnak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, este cel mai ieftin.",
+          "Descărcați aplicația locală de transport public pentru orare în timp real.",
+          "Fiți la timp în stație, autobuzele pleacă adesea la minut."
+        ],
+        "en": [
+          "Buy a day pass for the bus, it's the cheapest option.",
+          "Download the local public transport app for real-time schedules.",
+          "Be at the stop on time, buses often leave exactly on the minute."
+        ]
+      }
+    }
+  }
+}

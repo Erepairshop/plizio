@@ -1,0 +1,1429 @@
+{
+  "city_id": "sweden-motala-cities-v2",
+  "anchor": {
+    "name": "Motala",
+    "coords": [
+      15.0365,
+      58.5371
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stora Torget (Hauptplatz)",
+            "hu": "Stora Torget (Főtér)",
+            "ro": "Stora Torget (Piața Mare)",
+            "en": "Stora Torget (Main Square)"
+          },
+          "coords": [
+            15.0381,
+            58.5375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Indítsd a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafés."
+          }
+        },
+        {
+          "name": {
+            "de": "Motala Motormuseum",
+            "hu": "Motala Motormúzeum",
+            "ro": "Muzeul Auto Motala",
+            "en": "Motala Motor Museum"
+          },
+          "coords": [
+            15.0442,
+            58.5359
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die umfangreiche Sammlung von Radios und Motorrädern.",
+            "hu": "Ne hagyd ki a kiterjedt rádió- és motorkerékpár-gyűjteményt!",
+            "ro": "Nu ratați colecția extinsă de radiouri și motociclete.",
+            "en": "Don't miss the extensive collection of radios and motorcycles."
+          }
+        },
+        {
+          "name": {
+            "de": "Motala Industrimuseum",
+            "hu": "Motala Ipari Múzeum",
+            "ro": "Muzeul Industrial Motala",
+            "en": "Motala Industry Museum"
+          },
+          "coords": [
+            15.0455,
+            58.5363
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über Motalas Geschichte als „Wiege der schwedischen Industrie“.",
+            "hu": "Tudj meg többet Motala „a svéd ipar bölcsője” múltjáról!",
+            "ro": "Aflați despre istoria Motala ca „leagănul industriei suedeze”.",
+            "en": "Learn about Motala's history as the 'cradle of Swedish industry'."
+          }
+        },
+        {
+          "name": {
+            "de": "Göta-Kanal",
+            "hu": "Göta-csatorna",
+            "ro": "Canalul Göta",
+            "en": "Göta Canal"
+          },
+          "coords": [
+            15.0511,
+            58.5381
+          ],
+          "category": "natural-features",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang am Kanalufer und beobachten Sie die Boote.",
+            "hu": "Sétálj egyet a csatorna partján és nézd a hajókat!",
+            "ro": "Faceți o plimbare de-a lungul malului canalului și priviți bărcile.",
+            "en": "Take a stroll along the canal bank and watch the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Baltzar von Platens Grab",
+            "hu": "Baltzar von Platen sírja",
+            "ro": "Mormântul lui Baltzar von Platen",
+            "en": "Baltzar von Platen's Grave"
+          },
+          "coords": [
+            15.053,
+            58.5395
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber wichtiger Halt, um den Gründer des Kanals zu ehren.",
+            "hu": "Egy rövid, de fontos megálló a csatorna alapítójának tiszteletére.",
+            "ro": "O oprire scurtă, dar importantă, pentru a-l onora pe fondatorul canalului.",
+            "en": "A brief but important stop to honor the canal's founder."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Hafen",
+            "hu": "Vacsora a kikötőben",
+            "ro": "Cină în port",
+            "en": "Dinner at the Harbour"
+          },
+          "coords": [
+            15.0425,
+            58.5355
+          ],
+          "category": "gastro",
+          "arrive_at": "16:00",
+          "stay_min": 125,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Genießen Sie frischen Fisch aus dem Vätternsee mit Blick auf den Hafen.",
+            "hu": "Élvezd a Vättern-tóból fogott friss halat a kikötőre néző kilátással!",
+            "ro": "Savurați pește proaspăt din lacul Vättern cu vedere la port.",
+            "en": "Enjoy fresh fish from Lake Vättern with a view of the harbour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt am belebten Stora Torget, dem Herzen von Motala, bevor Sie in die industrielle Vergangenheit der Stadt eintauchen. Die Motoren- und Industriemuseen zeigen die technische Seele Schwedens. Am Nachmittag verlagert sich der Fokus auf das blaue Band, das die Stadt durchzieht: den Göta-Kanal. Ein Spaziergang entlang des Ufers, vorbei am Grabmal seines visionären Gründers, bietet entspannende Momente. Der Abend klingt mit einem köstlichen Essen am Hafen aus, bei dem Sie die frischen Aromen des Vätternsees genießen und den Tag Revue passieren lassen.",
+        "hu": "A nap a nyüzsgő Stora Torget-en, Motala szívében kezdődik, mielőtt elmerülnénk a város ipari múltjában. A Motor- és Ipari Múzeumok bemutatják Svédország mérnöki lelkét. Délután a hangsúly a várost átszelő kék szalagra, a Göta-csatornára helyeződik. Egy séta a partján, elhaladva a látnok alapító sírja mellett, pihentető pillanatokat kínál. Az estét egy finom vacsora zárja a kikötőben, ahol a Vättern-tó friss ízeit élvezve idézhetjük fel a nap eseményeit.",
+        "ro": "Ziua începe în animata Stora Torget, inima orașului Motala, înainte de a vă scufunda în trecutul industrial al orașului. Muzeele de Motoare și Industrie dezvăluie sufletul ingineresc al Suediei. După-amiaza, accentul se mută pe panglica albastră care traversează orașul: Canalul Göta. O plimbare de-a lungul malului său, trecând pe lângă mormântul fondatorului său vizionar, oferă momente de relaxare. Seara se încheie cu o cină delicioasă în port, savurând aromele proaspete ale lacului Vättern și rememorând ziua.",
+        "en": "The day begins in the bustling Stora Torget, the heart of Motala, before diving into the city's industrial past. The Motor and Industry Museums reveal Sweden's engineering soul. In the afternoon, the focus shifts to the blue ribbon that runs through the city: the Göta Canal. A stroll along its bank, passing the grave of its visionary founder, offers relaxing moments. The evening concludes with a delicious dinner at the harbour, enjoying the fresh flavours of Lake Vättern and reflecting on the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vättern-Zander",
+            "tip": "Probieren Sie den lokal gefangenen Fisch in einem der Hafenrestaurants."
+          },
+          {
+            "name": "Kanelbullar",
+            "tip": "Eine klassische schwedische Zimtschnecke zum Kaffee."
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Schwedische Fleischbällchen, ein Muss für jeden Besucher."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vättern-tavi süllő",
+            "tip": "Kóstold meg a helyben fogott halat az egyik kikötői étteremben!"
+          },
+          {
+            "name": "Kanelbullar",
+            "tip": "Egy klasszikus svéd fahéjas csiga a kávé mellé."
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Svéd húsgolyók, minden látogatónak kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șalău de Vättern",
+            "tip": "Încercați peștele prins local la unul dintre restaurantele din port."
+          },
+          {
+            "name": "Kanelbullar",
+            "tip": "Un rulou suedez clasic cu scorțișoară pentru a însoți cafeaua."
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Chiftele suedeze, o necesitate pentru orice vizitator."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pike-perch from Vättern",
+            "tip": "Try the locally caught fish at one of the harbour restaurants."
+          },
+          {
+            "name": "Kanelbullar",
+            "tip": "A classic Swedish cinnamon bun to go with your coffee."
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Swedish meatballs, a must-try for any visitor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kanalufer",
+            "tip": "Finden Sie eine ruhige Bank entlang des Göta-Kanals.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Motala Kirche",
+            "tip": "Ein friedlicher Ort für einen Moment der Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hafenpromenade",
+            "tip": "Beobachten Sie am späten Nachmittag die sanften Wellen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csatornapart",
+            "tip": "Keress egy csendes padot a Göta-csatorna mentén!",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Motalai templom",
+            "tip": "Békés hely egy pillanatnyi elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kikötői sétány",
+            "tip": "Nézd a lágy hullámokat a késő délutáni órákban!",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul canalului",
+            "tip": "Găsiți o bancă liniștită de-a lungul Canalului Göta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Motala",
+            "tip": "Un loc pașnic pentru un moment de reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Promenada din port",
+            "tip": "Priviți valurile blânde la sfârșitul după-amiezii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal Bank",
+            "tip": "Find a quiet bench along the Göta Canal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Motala Church",
+            "tip": "A peaceful spot for a moment of reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Harbour Promenade",
+            "tip": "Watch the gentle waves in the late afternoon.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kanal-Souvenirs",
+            "tip": "Kaufen Sie im Motala Hamn (Hafen) Modelle von Kanalbooten."
+          },
+          {
+            "name": "Lokales Handwerk",
+            "tip": "Suchen Sie in den kleinen Läden rund um den Stora Torget."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csatorna-szuvenírek",
+            "tip": "Vásárolj csatornahajó-modelleket a Motala Hamn-ban (kikötő)!"
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keresgélj a Stora Torget körüli kis boltokban!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de pe canal",
+            "tip": "Cumpărați modele de bărci de canal de la Motala Hamn (port)."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați în micile magazine din jurul Stora Torget."
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal Souvenirs",
+            "tip": "Buy model canal boats at Motala Hamn (harbour)."
+          },
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for them in the small shops around Stora Torget."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die Museen liegen nahe beieinander, planen Sie also einen Museumsblock ein.",
+          "Das Mittagessen lässt sich gut mit dem Spaziergang am Kanal verbinden.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, insbesondere außerhalb der Saison."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert sokat fogsz gyalogolni.",
+          "A múzeumok közel vannak egymáshoz, így tervezz egy „múzeumi blokkot”.",
+          "Az ebédet jól össze lehet kötni a csatornaparti sétával.",
+          "Előre ellenőrizd a múzeumok nyitvatartását, különösen a főszezonon kívül."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Muzeele sunt apropiate, așa că planificați un bloc de vizitare a muzeelor.",
+          "Prânzul poate fi combinat frumos cu plimbarea de-a lungul canalului.",
+          "Verificați orele de deschidere ale muzeelor în avans, mai ales în afara sezonului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "The museums are close to each other, so plan for a museum block.",
+          "Lunch can be nicely combined with the walk along the canal.",
+          "Check museum opening hours in advance, especially outside the main season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 19.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stora Torget & Fahrradverleih",
+            "hu": "Stora Torget & Kerékpárkölcsönzés",
+            "ro": "Stora Torget & Închiriere de biciclete",
+            "en": "Stora Torget & Bike Rental"
+          },
+          "coords": [
+            15.0381,
+            58.5375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad in der Nähe des Platzes, um den Tag zu beginnen.",
+            "hu": "Bérelj kerékpárt a tér közelében a nap indításához!",
+            "ro": "Închiriați-vă bicicleta de lângă piață pentru a începe ziua.",
+            "en": "Rent your bike near the square to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Motala Motormuseum",
+            "hu": "Motala Motormúzeum",
+            "ro": "Muzeul Auto Motala",
+            "en": "Motala Motor Museum"
+          },
+          "coords": [
+            15.0442,
+            58.5359
+          ],
+          "category": "museums",
+          "arrive_at": "09:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie in die Welt der Motoren ein.",
+            "hu": "Parkold le a biciklidet, és merülj el a motorok világában!",
+            "ro": "Parcați-vă bicicleta și scufundați-vă în lumea motoarelor.",
+            "en": "Park your bike and dive into the world of engines."
+          }
+        },
+        {
+          "name": {
+            "de": "Schleusentreppe von Borenshult",
+            "hu": "Borenshulti zsiliprendszer",
+            "ro": "Scările de ecluze de la Borenshult",
+            "en": "Borenshult Lock Staircase"
+          },
+          "coords": [
+            15.1115,
+            58.5412
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "11:39",
+          "stay_min": 45,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Schauspiel, wenn Boote die fünf Schleusen passieren.",
+            "hu": "Lenyűgöző látvány, ahogy a hajók áthaladnak az öt zsilipen.",
+            "ro": "Un spectacol impresionant când bărcile trec prin cele cinci ecluze.",
+            "en": "An impressive sight as boats navigate the five locks."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Kanal",
+            "hu": "Ebéd a csatornánál",
+            "ro": "Prânz la canal",
+            "en": "Lunch by the Canal"
+          },
+          "coords": [
+            15.113,
+            58.541
+          ],
+          "category": "gastro",
+          "arrive_at": "12:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Es gibt charmante Cafés und Restaurants direkt an den Schleusen.",
+            "hu": "A zsilipeknél bájos kávézók és éttermek találhatók.",
+            "ro": "Există cafenele și restaurante fermecătoare chiar lângă ecluze.",
+            "en": "There are charming cafés and restaurants right by the locks."
+          }
+        },
+        {
+          "name": {
+            "de": "Göta-Kanal Radweg",
+            "hu": "Göta-csatorna kerékpárút",
+            "ro": "Pista de biciclete a Canalului Göta",
+            "en": "Göta Canal Cycle Path"
+          },
+          "coords": [
+            15.0683,
+            58.5399
+          ],
+          "category": "natural-features",
+          "arrive_at": "14:09",
+          "stay_min": 0,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die flache und malerische Fahrt zurück in Richtung Stadt.",
+            "hu": "Élvezd a sík és festői utat vissza a város felé!",
+            "ro": "Bucurați-vă de plimbarea plată și pitorească înapoi spre oraș.",
+            "en": "Enjoy the flat and scenic ride back towards the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Varamobaden Strand",
+            "hu": "Varamobaden strand",
+            "ro": "Plaja Varamobaden",
+            "en": "Varamobaden Beach"
+          },
+          "coords": [
+            14.9815,
+            58.5555
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:59",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.2,
+          "tip_5lang": {
+            "de": "Perfekt für eine erfrischende Pause und vielleicht ein Bad im Vätternsee.",
+            "hu": "Tökéletes egy frissítő szünethez, és talán egy úszáshoz a Vättern-tóban.",
+            "ro": "Perfect pentru o pauză revigorantă și poate o baie în lacul Vättern.",
+            "en": "Perfect for a refreshing break and maybe a swim in Lake Vättern."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrradrückgabe & Abendessen",
+            "hu": "Kerékpár leadása & Vacsora",
+            "ro": "Returnarea bicicletei & Cină",
+            "en": "Bike Return & Dinner"
+          },
+          "coords": [
+            15.0385,
+            58.537
+          ],
+          "category": "gastro",
+          "arrive_at": "17:35",
+          "stay_min": 140,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und belohnen Sie sich mit einem herzhaften Abendessen.",
+            "hu": "Add le a kerékpárt, és jutalmazd meg magad egy kiadós vacsorával!",
+            "ro": "Returnați bicicleta și răsplătiți-vă cu o cină copioasă.",
+            "en": "Return your bike and reward yourself with a hearty dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad beginnt der Tag im Stadtzentrum, bevor Sie sich auf den Weg zum Motormuseum machen. Von dort führt die Route entlang des berühmten Göta-Kanals zur beeindruckenden Schleusentreppe von Borenshult. Nach dem Mittagessen mit Blick auf das Wasser geht es auf dem malerischen Radweg weiter. Der Höhepunkt des Nachmittags ist ein langer, entspannender Aufenthalt am Varamobaden, dem längsten Binnenseestrand Nordeuropas. Schließlich radeln Sie zurück ins Zentrum, um den Tag bei einem wohlverdienten Abendessen ausklingen zu lassen.",
+        "hu": "Kerékpárral a nap a városközpontban kezdődik, mielőtt a Motormúzeum felé vennénk az irányt. Onnan az útvonal a híres Göta-csatorna mentén vezet a lenyűgöző Borenshult-i zsiliprendszerhez. A vízre néző ebéd után a festői kerékpárúton haladunk tovább. A délután fénypontja egy hosszú, pihentető megálló a Varamobaden strandon, Észak-Európa leghosszabb tóparti strandján. Végül visszatekerünk a központba, hogy egy jól megérdemelt vacsorával zárjuk a napot.",
+        "ro": "Pe bicicletă, ziua începe în centrul orașului înainte de a vă îndrepta spre Muzeul Motoarelor. De acolo, traseul vă duce de-a lungul faimosului Canal Göta până la impresionantele scări de ecluze de la Borenshult. După prânzul cu vedere la apă, continuați pe pista pitorească de biciclete. Punctul culminant al după-amiezii este o oprire lungă și relaxantă la Varamobaden, cea mai lungă plajă interioară din Europa de Nord. În cele din urmă, pedalați înapoi în centru pentru a încheia ziua cu o cină binemeritată.",
+        "en": "On two wheels, the day starts in the city center before heading to the Motor Museum. From there, the route takes you along the famous Göta Canal to the impressive Borenshult lock staircase. After lunch with a view of the water, you'll continue along the scenic cycle path. The highlight of the afternoon is a long, relaxing stop at Varamobaden, Northern Europe's longest inland beach. Finally, you'll cycle back to the center to end the day with a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick am Kanal",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie sie am Wasser."
+          },
+          {
+            "name": "Waffeln mit Sahne und Marmelade",
+            "tip": "Eine süße Belohnung in einem der Cafés am Varamobaden."
+          },
+          {
+            "name": "Geräucherter Saibling",
+            "tip": "Eine Spezialität aus dem Vätternsee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a csatornánál",
+            "tip": "Vásárolj helyi termékeket és fogyaszd el a vízparton!"
+          },
+          {
+            "name": "Gofri tejszínhabbal és lekvárral",
+            "tip": "Édes jutalom a Varamobaden egyik kávézójában."
+          },
+          {
+            "name": "Füstölt pisztráng",
+            "tip": "A Vättern-tó specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic pe malul canalului",
+            "tip": "Cumpărați produse locale și bucurați-vă de ele lângă apă."
+          },
+          {
+            "name": "Gofre cu frișcă și gem",
+            "tip": "Un răsfăț dulce la una dintre cafenelele de la Varamobaden."
+          },
+          {
+            "name": "Păstrăv afumat",
+            "tip": "O specialitate din lacul Vättern."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic by the canal",
+            "tip": "Buy some local produce and enjoy it by the water."
+          },
+          {
+            "name": "Waffles with cream and jam",
+            "tip": "A sweet reward at one of the cafés at Varamobaden."
+          },
+          {
+            "name": "Smoked Char",
+            "tip": "A specialty from Lake Vättern."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Varamobaden Strand",
+            "tip": "Finden Sie einen ruhigen Platz im Sand, weit weg vom Hauptbereich.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Radweg am Kanal",
+            "tip": "Halten Sie an einem abgelegenen Ort an und lauschen Sie der Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Borenshult obere Schleuse",
+            "tip": "Ein ruhigerer Ort, um die Aussicht zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Varamobaden strand",
+            "tip": "Keress egy csendes helyet a homokban, távol a fő résztől!",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kerékpárút a csatorna mentén",
+            "tip": "Állj meg egy eldugott helyen, és hallgasd a természet hangjait!",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Borenshult felső zsilip",
+            "tip": "Egy csendesebb hely a kilátás élvezetére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Varamobaden",
+            "tip": "Găsiți un loc liniștit pe nisip, departe de zona principală.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pista de biciclete de pe canal",
+            "tip": "Opriți-vă într-un loc izolat și ascultați natura.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ecluza superioară Borenshult",
+            "tip": "Un loc mai liniștit pentru a admira priveliștea.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Varamobaden Beach",
+            "tip": "Find a quiet spot on the sand away from the main area.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Canal cycle path",
+            "tip": "Stop at a secluded spot and listen to nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Borenshult upper lock",
+            "tip": "A quieter spot to enjoy the view.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Nehmen Sie eine Wasserflasche und Snacks für die Fahrt mit.",
+          "Der Radweg am Kanal ist flach und für alle Fitnesslevel geeignet.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a guminyomást.",
+          "Vigyél magaddal egy palack vizet és rágcsálnivalót az útra.",
+          "A csatorna menti kerékpárút sík és minden edzettségi szintnek megfelel.",
+          "Sisak viselése erősen ajánlott."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Luați o sticlă de apă și gustări pentru drum.",
+          "Pista de biciclete de-a lungul canalului este plată și potrivită pentru toate nivelurile de fitness.",
+          "O cască este foarte recomandată."
+        ],
+        "en": [
+          "Check your tire pressure before you set off.",
+          "Bring a water bottle and snacks for the ride.",
+          "The cycle path along the canal is flat and suitable for all fitness levels.",
+          "A helmet is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 21.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Parken im Zentrum & Stora Torget",
+            "hu": "1. klaszter: Parkolás a központban és Stora Torget",
+            "ro": "Cluster 1: Parcare în centru & Stora Torget",
+            "en": "Cluster 1: Downtown Parking & Stora Torget"
+          },
+          "coords": [
+            15.039,
+            58.5378
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe und beginnen Sie mit einem Spaziergang über den Platz.",
+            "hu": "Parkolj le a közelben, és kezdd egy sétával a téren!",
+            "ro": "Parcați mașina în apropiere și începeți cu o plimbare prin piață.",
+            "en": "Park your car nearby and start with a stroll through the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Motala Motormuseum",
+            "hu": "Motala Motormúzeum",
+            "ro": "Muzeul Auto Motala",
+            "en": "Motala Motor Museum"
+          },
+          "coords": [
+            15.0442,
+            58.5359
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz zum Museum.",
+            "hu": "Rövid séta a tértől a múzeumig.",
+            "ro": "O scurtă plimbare de la piață la muzeu.",
+            "en": "A short walk from the square to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Motala Industrimuseum",
+            "hu": "Motala Ipari Múzeum",
+            "ro": "Muzeul Industrial Motala",
+            "en": "Motala Industry Museum"
+          },
+          "coords": [
+            15.0455,
+            58.5363
+          ],
+          "category": "museums",
+          "arrive_at": "11:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum liegt direkt nebenan, Sie brauchen nicht zum Auto zurückzukehren.",
+            "hu": "A múzeum rögtön mellette van, nem kell visszamenni az autóhoz.",
+            "ro": "Muzeul este chiar alături, nu este nevoie să vă întoarceți la mașină.",
+            "en": "The museum is right next door, no need to return to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Fahrt zur Schleusentreppe von Borenshult",
+            "hu": "2. klaszter: Utazás a Borenshult-i zsiliprendszerhez",
+            "ro": "Cluster 2: Conduceți la Scările de ecluze Borenshult",
+            "en": "Cluster 2: Drive to Borenshult Lock Staircase"
+          },
+          "coords": [
+            15.1115,
+            58.5412
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "12:43",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz und beobachten Sie das faszinierende Schleusenmanöver.",
+            "hu": "Keress egy parkolót, és nézd meg a lenyűgöző zsilipelési manővert!",
+            "ro": "Găsiți un loc de parcare și urmăriți manevra fascinantă a ecluzei.",
+            "en": "Find a parking spot and watch the fascinating lock maneuvering."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Borenshult",
+            "hu": "Ebéd Borenshultban",
+            "ro": "Prânz în Borenshult",
+            "en": "Lunch in Borenshult"
+          },
+          "coords": [
+            15.113,
+            58.541
+          ],
+          "category": "gastro",
+          "arrive_at": "13:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie Ihr Mittagessen mit direktem Blick auf den Kanal.",
+            "hu": "Fogyaszd el az ebédet közvetlen kilátással a csatornára!",
+            "ro": "Bucurați-vă de prânz cu o vedere directă asupra canalului.",
+            "en": "Enjoy your lunch with a direct view of the canal."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Fahrt zum Varamobaden Strand",
+            "hu": "3. klaszter: Utazás a Varamobaden strandra",
+            "ro": "Cluster 3: Conduceți la Plaja Varamobaden",
+            "en": "Cluster 3: Drive to Varamobaden Beach"
+          },
+          "coords": [
+            14.9815,
+            58.5555
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:16",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 13.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Nachmittag an diesem wunderschönen Sandstrand.",
+            "hu": "Töltsd a délutánt ezen a gyönyörű homokos strandon!",
+            "ro": "Petreceți după-amiaza pe această plajă frumoasă cu nisip.",
+            "en": "Spend the afternoon at this beautiful sandy beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen mit Seeblick",
+            "hu": "Vacsora tóparti kilátással",
+            "ro": "Cină cu vedere la lac",
+            "en": "Dinner with Lake View"
+          },
+          "coords": [
+            14.983,
+            58.555
+          ],
+          "category": "gastro",
+          "arrive_at": "17:21",
+          "stay_min": 79,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie den Tag mit einem Abendessen in einem Restaurant am Strand ab.",
+            "hu": "Zárd a napot egy vacsorával a strand egyik éttermében!",
+            "ro": "Încheiați ziua cu o cină la un restaurant de pe plajă.",
+            "en": "End the day with dinner at a restaurant on the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag mit dem Auto ist in drei Cluster aufgeteilt. Sie beginnen im Stadtzentrum, wo Sie nach dem Parken die Museen und den Hauptplatz zu Fuß erkunden. Danach fahren Sie zum zweiten Cluster, den berühmten Schleusen von Borenshult, wo Sie das technische Wunderwerk bestaunen und zu Mittag essen. Der letzte Teil des Tages führt Sie zum weitläufigen Varamobaden-Strand, einem perfekten Ort zum Entspannen und Schwimmen. Der Tag endet dort mit einem Abendessen bei Sonnenuntergang über dem Vätternsee.",
+        "hu": "Az autós nap három klaszterre oszlik. A városközpontban kezdesz, ahol parkolás után gyalogosan fedezed fel a múzeumokat és a főteret. Ezután a második klaszterhez, a híres Borenshult-i zsilipekhez hajtasz, ahol megcsodálhatod a mérnöki csodát és megebédelhetsz. A nap utolsó szakasza a tágas Varamobaden strandra vezet, amely tökéletes hely a pihenésre és úszásra. A nap ott ér véget egy naplementés vacsorával a Vättern-tó felett.",
+        "ro": "Ziua cu mașina este împărțită în trei clustere. Începeți în centrul orașului, unde, după parcare, explorați muzeele și piața principală pe jos. Apoi, conduceți la al doilea cluster, faimoasele ecluze de la Borenshult, unde admirați minunea inginerească și luați prânzul. Ultima parte a zilei vă duce la plaja expansivă Varamobaden, un loc perfect pentru relaxare și înot. Ziua se încheie acolo cu o cină la apus, cu vedere la lacul Vättern.",
+        "en": "The day by car is split into three clusters. You'll start in the city center, exploring the museums and main square on foot after parking. Then, you'll drive to the second cluster, the famous Borenshult locks, to admire the engineering marvel and have lunch. The final leg of the day takes you to the expansive Varamobaden beach, a perfect spot for relaxation and swimming. The day concludes there with a sunset dinner overlooking Lake Vättern."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vättern-Zander",
+            "tip": "Probieren Sie den lokal gefangenen Fisch in einem der Hafenrestaurants."
+          },
+          {
+            "name": "Kanelbullar",
+            "tip": "Eine klassische schwedische Zimtschnecke zum Kaffee."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "Ein offenes Sandwich mit Garnelen, ein schwedischer Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vättern-tavi süllő",
+            "tip": "Kóstold meg a helyben fogott halat az egyik kikötői étteremben!"
+          },
+          {
+            "name": "Kanelbullar",
+            "tip": "Egy klasszikus svéd fahéjas csiga a kávé mellé."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "Nyitott szendvics garnélával, egy svéd klasszikus."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șalău de Vättern",
+            "tip": "Încercați peștele prins local la unul dintre restaurantele din port."
+          },
+          {
+            "name": "Kanelbullar",
+            "tip": "Un rulou suedez clasic cu scorțișoară pentru a însoți cafeaua."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "Un sandviș deschis cu creveți, un clasic suedez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pike-perch from Vättern",
+            "tip": "Try the locally caught fish at one of the harbour restaurants."
+          },
+          {
+            "name": "Kanelbullar",
+            "tip": "A classic Swedish cinnamon bun to go with your coffee."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "An open-faced shrimp sandwich, a Swedish classic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Varamobaden Dünen",
+            "tip": "Ein Spaziergang durch die Dünen bietet Ruhe und eine tolle Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Uferweg bei Borenshult",
+            "tip": "Abseits der Schleusen finden Sie ruhige Plätze am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Charlottenborgs Schlosspark",
+            "tip": "Ein kurzer Abstecher für einen friedlichen Spaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Varamobaden dűnéi",
+            "tip": "Séta a dűnék között nyugalmat és remek kilátást kínál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parti ösvény Borenshultnál",
+            "tip": "A zsilipektől távolabb csendes helyeket találhatsz a víz mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Charlottenborgs kastélypark",
+            "tip": "Egy rövid kitérő egy békés sétáért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dunele Varamobaden",
+            "tip": "O plimbare prin dune oferă liniște și o priveliște minunată.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cărarea de pe mal la Borenshult",
+            "tip": "Departe de ecluze, veți găsi locuri liniștite lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Castelului Charlottenborgs",
+            "tip": "Un scurt ocol pentru o plimbare pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Varamobaden Dunes",
+            "tip": "A walk through the dunes offers tranquility and great views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Shore path at Borenshult",
+            "tip": "Away from the locks, you'll find quiet spots by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Charlottenborgs Castle Park",
+            "tip": "A quick detour for a peaceful stroll.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hafen-Boutiquen",
+            "tip": "Am Hafen von Motala gibt es kleine Läden mit maritimen Geschenken."
+          },
+          {
+            "name": "Farmshops",
+            "tip": "Halten Sie auf dem Land Ausschau nach Hofläden mit lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői butikok",
+            "tip": "A motalai kikötőben kis boltokat találsz tengeri ajándékokkal."
+          },
+          {
+            "name": "Termelői boltok",
+            "tip": "Vidéken keresd a helyi termékeket kínáló gazdasági boltokat!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buticuri din port",
+            "tip": "În portul Motala există mici magazine cu cadouri maritime."
+          },
+          {
+            "name": "Magazine de fermă",
+            "tip": "Fiți atenți la magazinele de la ferme cu produse locale în mediul rural."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbour Boutiques",
+            "tip": "Motala harbour has small shops with maritime gifts."
+          },
+          {
+            "name": "Farm shops",
+            "tip": "Look out for farm shops with local produce in the countryside."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein GPS ist hilfreich für die Navigation zwischen den Clustern.",
+          "Planen Sie genügend Zeit für den Verkehr ein, besonders im Sommer.",
+          "Packen Sie Badesachen für Varamobaden ein!"
+        ],
+        "hu": [
+          "Előre tájékozódj a parkolási lehetőségekről és díjakról.",
+          "GPS hasznos a klaszterek közötti navigációhoz.",
+          "Tervezz elegendő időt a forgalomra, különösen nyáron.",
+          "Csomagolj fürdőruhát a Varamobadenhez!"
+        ],
+        "ro": [
+          "Verificați opțiunile și taxele de parcare în avans.",
+          "Un GPS este util pentru navigarea între clustere.",
+          "Planificați suficient timp pentru trafic, mai ales vara.",
+          "Împachetați costume de baie pentru Varamobaden!"
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A GPS is helpful for navigating between clusters.",
+          "Allow enough time for traffic, especially in the summer.",
+          "Pack swimwear for Varamobaden!"
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 15.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Stora Torget",
+            "hu": "Érkezés a Stora Torget-re",
+            "ro": "Sosire la Stora Torget",
+            "en": "Arrival at Stora Torget"
+          },
+          "coords": [
+            15.0381,
+            58.5375
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Hauptplatz, um Ihr Abenteuer zu beginnen.",
+            "hu": "Menj busszal a főtérre, hogy elkezdődjön a kalandod!",
+            "ro": "Luați un autobuz până în piața principală pentru a vă începe aventura.",
+            "en": "Take a bus to the main square to start your adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Motala Motormuseum",
+            "hu": "Motala Motormúzeum",
+            "ro": "Muzeul Auto Motala",
+            "en": "Motala Motor Museum"
+          },
+          "coords": [
+            15.0442,
+            58.5359
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Platz aus ist es nur ein kurzer Spaziergang.",
+            "hu": "A tértől csak egy rövid séta.",
+            "ro": "Este doar o scurtă plimbare de la piață.",
+            "en": "It's just a short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Schleusentreppe von Borenshult",
+            "hu": "Buszozás a Borenshult-i zsiliprendszerhez",
+            "ro": "Călătorie cu autobuzul la Scările de ecluze Borenshult",
+            "en": "Bus ride to Borenshult Lock Staircase"
+          },
+          "coords": [
+            15.1115,
+            58.5412
+          ],
+          "category": "industrial-heritage",
+          "arrive_at": "11:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 6.9,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Busfahrplan. Die Fahrt bietet einen schönen Blick auf die Landschaft.",
+            "hu": "Ellenőrizd a buszmenetrendet. Az út szép kilátást nyújt a vidékre.",
+            "ro": "Verificați orarul autobuzului. Călătoria oferă o priveliște frumoasă asupra peisajului rural.",
+            "en": "Check the bus schedule. The ride offers a nice view of the countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen & Spaziergang am Kanal",
+            "hu": "Ebéd és séta a csatornánál",
+            "ro": "Prânz și plimbare pe canal",
+            "en": "Lunch & Canal Walk"
+          },
+          "coords": [
+            15.113,
+            58.541
+          ],
+          "category": "gastro",
+          "arrive_at": "12:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich, bevor Sie mit dem Bus zum Strand weiterfahren.",
+            "hu": "Erősítsd meg magad, mielőtt busszal továbbmész a strandra!",
+            "ro": "Luați o masă înainte de a continua cu autobuzul spre plajă.",
+            "en": "Grab a bite to eat before continuing by bus to the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Varamobaden Strand",
+            "hu": "Buszozás a Varamobaden strandra",
+            "ro": "Călătorie cu autobuzul la Plaja Varamobaden",
+            "en": "Bus ride to Varamobaden Beach"
+          },
+          "coords": [
+            14.9815,
+            58.5555
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:41",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Hauptstrand ist gut mit öffentlichen Verkehrsmitteln zu erreichen.",
+            "hu": "A fő strand könnyen megközelíthető tömegközlekedéssel.",
+            "ro": "Plaja principală este ușor accesibilă cu transportul public.",
+            "en": "The main beach is easily accessible by public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum & Abendessen",
+            "hu": "Vissza a központba és vacsora",
+            "ro": "Întoarcere în centru și cină",
+            "en": "Return to Center & Dinner"
+          },
+          "coords": [
+            15.0385,
+            58.537
+          ],
+          "category": "gastro",
+          "arrive_at": "17:11",
+          "stay_min": 79,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück und finden Sie ein schönes Restaurant für das Abendessen.",
+            "hu": "Menj vissza busszal, és keress egy jó éttermet vacsorára!",
+            "ro": "Luați un autobuz înapoi și găsiți un restaurant drăguț pentru cină.",
+            "en": "Take a bus back and find a nice restaurant for dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Motala effizient. Der Tag startet am zentralen Stora Torget. Nach einem kurzen Spaziergang zum Motormuseum nehmen Sie den Bus zu den beeindruckenden Schleusen von Borenshult. Dort verbringen Sie die Mittagszeit. Am Nachmittag bringt Sie ein weiterer Bus zum weitläufigen Varamobaden-Strand, wo Sie sich entspannen und die Natur genießen können. Am Abend kehren Sie bequem mit dem Bus ins Stadtzentrum zurück, um den Tag bei einem gemütlichen Abendessen ausklingen zu lassen.",
+        "hu": "Tömegközlekedéssel hatékonyan fedezheted fel Motalát. A nap a központi Stora Torget-en indul. Egy rövid séta után a Motormúzeumhoz busszal jutsz el a lenyűgöző Borenshult-i zsilipekhez. Ott töltöd az ebédidőt. Délután egy másik busz visz a tágas Varamobaden strandra, ahol pihenhetsz és élvezheted a természetet. Este kényelmesen visszatérhetsz busszal a városközpontba, hogy egy hangulatos vacsorával zárd a napot.",
+        "ro": "Cu transportul public, puteți explora Motala eficient. Ziua începe în piața centrală, Stora Torget. După o scurtă plimbare la Muzeul Motoarelor, luați autobuzul către impresionantele ecluze de la Borenshult. Acolo vă petreceți pauza de prânz. După-amiaza, un alt autobuz vă duce la plaja expansivă Varamobaden, unde vă puteți relaxa și bucura de natură. Seara, vă întoarceți convenabil în centrul orașului cu autobuzul pentru a încheia ziua cu o cină relaxantă.",
+        "en": "Using public transport, you can explore Motala efficiently. The day starts at the central Stora Torget. After a short walk to the Motor Museum, you'll take a bus to the impressive Borenshult locks. You'll spend your lunchtime there. In the afternoon, another bus takes you to the expansive Varamobaden beach for relaxation and nature enjoyment. In the evening, you'll conveniently return to the city center by bus to end the day with a leisurely dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vättern-Zander",
+            "tip": "Probieren Sie den lokal gefangenen Fisch in einem der Hafenrestaurants."
+          },
+          {
+            "name": "Kanelbullar",
+            "tip": "Eine klassische schwedische Zimtschnecke zum Kaffee."
+          },
+          {
+            "name": "Smörgåstårta",
+            "tip": "Probieren Sie diesen herzhaften schwedischen „Sandwich-Kuchen“."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vättern-tavi süllő",
+            "tip": "Kóstold meg a helyben fogott halat az egyik kikötői étteremben!"
+          },
+          {
+            "name": "Kanelbullar",
+            "tip": "Egy klasszikus svéd fahéjas csiga a kávé mellé."
+          },
+          {
+            "name": "Smörgåstårta",
+            "tip": "Kóstold meg ezt a sós svéd „szendvicstortát”!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șalău de Vättern",
+            "tip": "Încercați peștele prins local la unul dintre restaurantele din port."
+          },
+          {
+            "name": "Kanelbullar",
+            "tip": "Un rulou suedez clasic cu scorțișoară pentru a însoți cafeaua."
+          },
+          {
+            "name": "Smörgåstårta",
+            "tip": "Încercați acest „tort-sandviș” suedez sărat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pike-perch from Vättern",
+            "tip": "Try the locally caught fish at one of the harbour restaurants."
+          },
+          {
+            "name": "Kanelbullar",
+            "tip": "A classic Swedish cinnamon bun to go with your coffee."
+          },
+          {
+            "name": "Smörgåstårta",
+            "tip": "Try this savory Swedish 'sandwich cake'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Varamobaden Strand",
+            "tip": "Ein Spaziergang entlang des langen Strandes ist sehr friedlich.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kanalufer bei Borenshult",
+            "tip": "Finden Sie eine Bank und schauen Sie den Booten zu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark (Stadsparken)",
+            "tip": "Ein grüner Rückzugsort im Herzen der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Varamobaden strand",
+            "tip": "Egy séta a hosszú parton nagyon békés.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Csatornapart Borenshultnál",
+            "tip": "Keress egy padot és nézd a hajókat!",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városi park (Stadsparken)",
+            "tip": "Zöld menedék a város szívében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Varamobaden",
+            "tip": "O plimbare de-a lungul plajei lungi este foarte pașnică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul canalului la Borenshult",
+            "tip": "Găsiți o bancă și priviți bărcile.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul orașului (Stadsparken)",
+            "tip": "Un refugiu verde în inima orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Varamobaden Beach",
+            "tip": "A walk along the long beach is very peaceful.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Canal bank at Borenshult",
+            "tip": "Find a bench and watch the boats go by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "City Park (Stadsparken)",
+            "tip": "A green retreat in the heart of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden am Kanal",
+            "tip": "Kaufen Sie Andenken an den Göta-Kanal in Borenshult."
+          },
+          {
+            "name": "Geschäfte in der Innenstadt",
+            "tip": "Erkunden Sie die Geschäfte rund um den Stora Torget."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírboltok a csatornánál",
+            "tip": "Vásárolj Göta-csatorna emléktárgyakat Borenshultban!"
+          },
+          {
+            "name": "Belvárosi üzletek",
+            "tip": "Fedezd fel a Stora Torget körüli boltokat!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri de pe canal",
+            "tip": "Cumpărați suveniruri de la Canalul Göta din Borenshult."
+          },
+          {
+            "name": "Magazine din centrul orașului",
+            "tip": "Explorați magazinele din jurul Stora Torget."
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal souvenir shops",
+            "tip": "Buy Göta Canal memorabilia in Borenshult."
+          },
+          {
+            "name": "Downtown shops",
+            "tip": "Explore the shops around Stora Torget."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu erhalten.",
+          "Beachten Sie die Abfahrtszeiten des letzten Busses, besonders vom Strand.",
+          "Einige Buslinien fahren am Wochenende möglicherweise seltener."
+        ],
+        "hu": [
+          "Vásárolj napijegyet a buszra, hogy pénzt takaríts meg.",
+          "Töltsd le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Figyelj az utolsó busz indulási idejére, különösen a strandról.",
+          "Néhány buszjárat ritkábban közlekedhet hétvégén."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Descărcați aplicația locală de transport public pentru orare în timp real.",
+          "Fiți atenți la orele de plecare ale ultimului autobuz, mai ales de la plajă.",
+          "Unele rute de autobuz pot circula mai rar în weekend."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Download the local public transport app for real-time schedules.",
+          "Be mindful of the last bus departure times, especially from the beach.",
+          "Some bus routes may have less frequent service on weekends."
+        ]
+      }
+    }
+  }
+}

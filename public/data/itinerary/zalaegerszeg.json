@@ -1,0 +1,1324 @@
+{
+  "city_id": "zalaegerszeg",
+  "anchor": {
+    "name": "Deák Ferenc Platz",
+    "coords": [
+      16.8439,
+      46.8417
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Deák-Ferenc-Platz",
+            "hu": "Deák Ferenc tér",
+            "ro": "Piața Deák Ferenc",
+            "en": "Deák Ferenc Square"
+          },
+          "coords": [
+            16.8442,
+            46.842
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Stadtleben.",
+            "hu": "Indítsa a napot egy kávéval a téren, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, observând viața orașului.",
+            "en": "Start your day here with a coffee and watch the city life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Maria Magdalena",
+            "hu": "Mária Magdolna Plébániatemplom",
+            "ro": "Biserica parohială Maria Magdalena",
+            "en": "Mary Magdalene Parish Church"
+          },
+          "coords": [
+            16.8455,
+            46.8425
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Architektur und die beeindruckenden Deckenfresken.",
+            "hu": "Csodálja meg a barokk építészetet és a lenyűgöző mennyezeti freskókat.",
+            "ro": "Admirați arhitectura barocă și frescele impresionante de pe tavan.",
+            "en": "Admire the baroque architecture and the impressive ceiling frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Spitzenhaus (Csipkeház)",
+            "hu": "Csipkeház",
+            "ro": "Casa Dantelarilor (Csipkeház)",
+            "en": "Lace House (Csipkeház)"
+          },
+          "coords": [
+            16.843,
+            46.844
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:21",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein einzigartiges Gebäude, das von der Volkskunst der Region Göcsej inspiriert ist.",
+            "hu": "Egyedi épület, melyet a göcseji népművészet ihletett. Érdemes körbejárni.",
+            "ro": "O clădire unică, inspirată de arta populară din regiunea Göcsej.",
+            "en": "A unique building inspired by the folk art of the Göcsej region."
+          }
+        },
+        {
+          "name": {
+            "de": "Ungarisches Öl- und Gasmuseum",
+            "hu": "Magyar Olaj- és Gázipari Múzeum",
+            "ro": "Muzeul Ungar al Petrolului și Gazelor",
+            "en": "Hungarian Oil and Gas Museum"
+          },
+          "coords": [
+            16.841,
+            46.835
+          ],
+          "category": "museums",
+          "arrive_at": "11:29",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein überraschend interessantes Freilichtmuseum über die Industriegeschichte Ungarns.",
+            "hu": "Meglepően érdekes szabadtéri múzeum Magyarország ipartörténetéről.",
+            "ro": "Un muzeu în aer liber surprinzător de interesant despre istoria industrială a Ungariei.",
+            "en": "A surprisingly interesting open-air museum about Hungary's industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            16.845,
+            46.8415
+          ],
+          "category": "gastro",
+          "arrive_at": "13:27",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Restaurant für authentische ungarische Küche.",
+            "hu": "Keressen egy helyi éttermet az autentikus magyar konyha remekeiért.",
+            "ro": "Încercați un restaurant local pentru bucătărie maghiară autentică.",
+            "en": "Try a local restaurant for some authentic Hungarian cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "TV-Turm Zalaegerszeg",
+            "hu": "Zalaegerszegi TV-torony",
+            "ro": "Turnul TV din Zalaegerszeg",
+            "en": "Zalaegerszeg TV Tower"
+          },
+          "coords": [
+            16.859,
+            46.831
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:07",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Stadt und die umliegende Landschaft.",
+            "hu": "Élvezze a panorámát a városra és a környező tájra. A kávézója is remek.",
+            "ro": "Bucurați-vă de vederea panoramică asupra orașului și a peisajului înconjurător.",
+            "en": "Enjoy the panoramic view of the city and the surrounding countryside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Zalaegerszeg führt Sie vom pulsierenden Herz am Deák-Platz zur spirituellen Ruhe der Maria-Magdalena-Kirche. Am Vormittag entdecken Sie die einzigartige Architektur des Spitzenhauses, bevor Sie in die industrielle Vergangenheit Ungarns im Öl- und Gasmuseum eintauchen. Nach einem herzhaften ungarischen Mittagessen führt Sie ein gemütlicher Spaziergang zum TV-Turm, wo Sie den Tag mit einem atemberaubenden Panoramablick ausklingen lassen.",
+        "hu": "A zalaegerszegi séta a nyüzsgő Deák tértől a Mária Magdolna-templom spirituális nyugalmáig vezet. Délelőtt felfedezheti a Csipkeház egyedi építészetét, majd elmerülhet a magyar ipartörténetben az Olaj- és Gázipari Múzeumban. Egy kiadós magyar ebéd után kényelmes séta vezet a TV-toronyhoz, ahol a napot lélegzetelállító panorámával zárhatja.",
+        "ro": "O plimbare prin Zalaegerszeg vă poartă de la inima vibrantă din Piața Deák la liniștea spirituală a Bisericii Maria Magdalena. Dimineața explorați arhitectura unică a Casei Dantelarilor înainte de a vă cufunda în trecutul industrial al Ungariei la Muzeul Petrolului și Gazelor. După un prânz maghiar copios, o plimbare relaxantă vă duce la Turnul TV, unde încheiați ziua cu o priveliște panoramică uluitoare.",
+        "en": "A walk through Zalaegerszeg takes you from the vibrant heart of Deák Square to the spiritual tranquility of the Mary Magdalene Church. In the morning, explore the unique architecture of the Lace House before delving into Hungary's industrial past at the Oil and Gas Museum. After a hearty Hungarian lunch, a leisurely walk leads you to the TV Tower, where you can end the day with a breathtaking panoramic view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dödölle",
+            "tip": "Probieren Sie dieses lokale Kartoffelgericht, oft mit Zwiebeln und saurer Sahne serviert."
+          },
+          {
+            "name": "Restaurant Kiskakas",
+            "tip": "Bekannt für seine traditionellen ungarischen Gerichte und sein gemütliches Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dödölle",
+            "tip": "Kóstolja meg ezt a helyi burgonyás ételt, gyakran hagymával és tejföllel tálalva."
+          },
+          {
+            "name": "Kiskakas Vendéglő",
+            "tip": "Hagyományos magyar ételeiről és hangulatos környezetéről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dödölle",
+            "tip": "Încercați acest fel de mâncare local din cartofi, adesea servit cu ceapă și smântână."
+          },
+          {
+            "name": "Restaurantul Kiskakas",
+            "tip": "Cunoscut pentru mâncărurile sale tradiționale maghiare și atmosfera sa primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dödölle",
+            "tip": "Try this local potato dish, often served with onions and sour cream."
+          },
+          {
+            "name": "Kiskakas Restaurant",
+            "tip": "Known for its traditional Hungarian dishes and cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gébárti-See",
+            "tip": "Ein friedlicher Ort für einen Spaziergang, etwas außerhalb des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park am TV-Turm",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Aussicht abseits des Trubels.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gébárti-tó",
+            "tip": "Békés hely egy sétához, kicsit távolabb a városközponttól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park a TV-toronynál",
+            "tip": "Keressen egy csendes padot, és élvezze a kilátást a nyüzsgéstől távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Gébárti",
+            "tip": "Un loc pașnic pentru o plimbare, puțin în afara centrului orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de la Turnul TV",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de priveliște departe de agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gébárti Lake",
+            "tip": "A peaceful spot for a walk, just outside the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park at the TV Tower",
+            "tip": "Find a quiet bench and enjoy the view away from the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Suchen Sie nach lokalen Produkten, Honig und handwerklichen Erzeugnissen."
+          },
+          {
+            "name": "Göcsej-Volkskunst",
+            "tip": "In den Souvenirläden finden Sie traditionelle Stickereien und Keramiken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Keressen helyi termékeket, mézet és kézműves árukat."
+          },
+          {
+            "name": "Göcseji népművészet",
+            "tip": "A szuvenírboltokban hagyományos hímzéseket és kerámiákat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale, miere și produse artizanale."
+          },
+          {
+            "name": "Artizanat popular Göcsej",
+            "tip": "Găsiți broderii tradiționale și ceramică în magazinele de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmers' Market",
+            "tip": "Look for local produce, honey, and artisanal products."
+          },
+          {
+            "name": "Göcsej Folk Art",
+            "tip": "Find traditional embroidery and ceramics in the souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum und die Sehenswürdigkeiten gut zu Fuß erreichbar sind.",
+          "Die meisten Museen sind montags geschlossen, planen Sie entsprechend.",
+          "Halten Sie Bargeld für kleinere Einkäufe auf dem Markt bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a belváros és a látnivalók könnyen bejárhatók gyalog.",
+          "A legtöbb múzeum hétfőn zárva tart, tervezzen ennek megfelelően.",
+          "Tartson magánál készpénzt a kisebb piaci vásárlásokhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului și atracțiile sunt ușor de parcurs pe jos.",
+          "Majoritatea muzeelor sunt închise lunea, planificați în consecință.",
+          "Aveți numerar la îndemână pentru cumpărături mici de la piață."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center and its attractions are easily walkable.",
+          "Most museums are closed on Mondays, so plan accordingly.",
+          "Keep some cash handy for small purchases at the market."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Deák-Ferenc-Platz",
+            "hu": "Indulás a Deák Ferenc térről",
+            "ro": "Pornire din Piața Deák Ferenc",
+            "en": "Start at Deák Ferenc Square"
+          },
+          "coords": [
+            16.8442,
+            46.842
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad oder bereiten Sie Ihr eigenes für einen aktiven Tag vor.",
+            "hu": "Béreljen biciklit, vagy készítse elő a sajátját egy aktív napra.",
+            "ro": "Închiriați o bicicletă sau pregătiți-vă propria bicicletă pentru o zi activă.",
+            "en": "Rent a bike or get yours ready for an active day."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Maria Magdalena",
+            "hu": "Mária Magdolna Plébániatemplom",
+            "ro": "Biserica parohială Maria Magdalena",
+            "en": "Mary Magdalene Parish Church"
+          },
+          "coords": [
+            16.8455,
+            46.8425
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:22",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die beeindruckende Barockfassade zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja a lenyűgöző barokk homlokzatot.",
+            "ro": "O oprire scurtă pentru a admira impresionanta fațadă barocă.",
+            "en": "A quick stop to admire the impressive baroque facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Gébárti-See",
+            "hu": "Tekerés a Gébárti-tóhoz",
+            "ro": "Plimbare cu bicicleta la Lacul Gébárti",
+            "en": "Ride to Gébárti Lake"
+          },
+          "coords": [
+            16.818,
+            46.862
+          ],
+          "category": "lake",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt aus der Stadt und umrunden Sie den See auf dem Radweg.",
+            "hu": "Élvezze a városból kivezető utat, és kerülje meg a tavat a kerékpárúton.",
+            "ro": "Bucurați-vă de plimbarea din oraș și înconjurați lacul pe pista de biciclete.",
+            "en": "Enjoy the ride out of the city and circle the lake on the bike path."
+          }
+        },
+        {
+          "name": {
+            "de": "Göcsej-Dorfmuseum",
+            "hu": "Göcseji Falumúzeum",
+            "ro": "Muzeul Satului Göcsej",
+            "en": "Göcsej Village Museum"
+          },
+          "coords": [
+            16.815,
+            46.86
+          ],
+          "category": "museums",
+          "arrive_at": "11:31",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Direkt am See gelegen, bietet dieses Freilichtmuseum Einblicke in das ländliche Leben des 19. Jahrhunderts.",
+            "hu": "A tó partján található skanzen bepillantást enged a 19. századi falusi életbe.",
+            "ro": "Situat chiar lângă lac, acest muzeu în aer liber oferă o perspectivă asupra vieții rurale din secolul al XIX-lea.",
+            "en": "Located right by the lake, this open-air museum offers a glimpse into 19th-century rural life."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am See",
+            "hu": "Ebéd a tónál",
+            "ro": "Prânz la lac",
+            "en": "Lunch at the lake"
+          },
+          "coords": [
+            16.819,
+            46.863
+          ],
+          "category": "gastro",
+          "arrive_at": "13:17",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Einige Restaurants in der Nähe des Sees bieten eine entspannte Atmosphäre.",
+            "hu": "A tó közelében több étterem is kellemes, pihentető környezetet kínál.",
+            "ro": "Unele restaurante de lângă lac oferă o atmosferă relaxantă.",
+            "en": "Some restaurants near the lake offer a relaxed atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum TV-Turm",
+            "hu": "Tekerés a TV-toronyhoz",
+            "ro": "Plimbare cu bicicleta la Turnul TV",
+            "en": "Ride to the TV Tower"
+          },
+          "coords": [
+            16.859,
+            46.831
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:55",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Die Auffahrt ist eine kleine Herausforderung, aber die Aussicht belohnt die Mühe.",
+            "hu": "A felfelé út egy kis kihívás, de a kilátás megéri a fáradságot.",
+            "ro": "Urcușul este o mică provocare, dar priveliștea răsplătește efortul.",
+            "en": "The ride up is a bit of a challenge, but the view rewards the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Azaleen-Tal",
+            "hu": "Azáleás-völgy",
+            "ro": "Valea Azaleelor",
+            "en": "Azalea Valley"
+          },
+          "coords": [
+            16.865,
+            46.828
+          ],
+          "category": "natural features",
+          "arrive_at": "15:46",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besonders im Frühling ein wunderschöner Ort, wenn die Azaleen blühen.",
+            "hu": "Különösen tavasszal gyönyörű, amikor az azáleák virágoznak.",
+            "ro": "Un loc frumos mai ales primăvara, când înfloresc azaleele.",
+            "en": "A beautiful spot, especially in spring when the azaleas are in bloom."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel für eine Entdeckungstour durch Zalaegerszeg und Umgebung. Vom Stadtzentrum aus führt die Route schnell ins Grüne zum Gébárti-See, wo Sie das Göcsej-Dorfmuseum erkunden. Nach einer Mittagspause am Wasser nehmen Sie die sportliche Herausforderung an und radeln zum TV-Turm. Der Lohn ist eine fantastische Aussicht, bevor Sie den Tag im farbenprächtigen Azaleen-Tal ausklingen lassen.",
+        "hu": "Pattanjon nyeregbe Zalaegerszeg és környéke felfedezéséhez! A belvárosból az útvonal gyorsan a zöldbe, a Gébárti-tóhoz vezet, ahol a Göcseji Falumúzeumot is felfedezheti. Egy vízparti ebédszünet után vállalja a sportos kihívást, és tekerjen fel a TV-toronyhoz! A jutalom egy fantasztikus kilátás, mielőtt a napot a színpompás Azáleás-völgyben zárná.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur de descoperire a orașului Zalaegerszeg și a împrejurimilor. Din centrul orașului, traseul duce rapid în zona verde a lacului Gébárti, unde puteți explora Muzeul Satului Göcsej. După o pauză de prânz pe malul apei, acceptați provocarea sportivă și pedalați până la Turnul TV. Recompensa este o priveliște fantastică, înainte de a încheia ziua în colorata Vale a Azaleelor.",
+        "en": "Hop on a bike for a discovery tour of Zalaegerszeg and its surroundings. From the city center, the route quickly leads to the green oasis of Gébárti Lake, where you can explore the Göcsej Village Museum. After a lunch break by the water, take on the athletic challenge and cycle up to the TV Tower. The reward is a fantastic view, before ending the day in the colorful Azalea Valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lángos",
+            "tip": "Der perfekte Snack nach einer Radtour, oft in der Nähe von Seen und Parks zu finden."
+          },
+          {
+            "name": "Tóka Csárda",
+            "tip": "Ein Restaurant am Gébárti-See, ideal für eine entspannte Mahlzeit im Freien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lángos",
+            "tip": "Tökéletes harapnivaló egy biciklitúra után, gyakran megtalálható tavak és parkok közelében."
+          },
+          {
+            "name": "Tóka Csárda",
+            "tip": "Étterem a Gébárti-tónál, ideális egy kellemes szabadtéri étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lángos",
+            "tip": "Gustarea perfectă după o plimbare cu bicicleta, adesea găsită lângă lacuri și parcuri."
+          },
+          {
+            "name": "Tóka Csárda",
+            "tip": "Un restaurant pe malul lacului Gébárti, ideal pentru o masă relaxantă în aer liber."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lángos",
+            "tip": "The perfect snack after a bike ride, often found near lakes and parks."
+          },
+          {
+            "name": "Tóka Csárda",
+            "tip": "A restaurant at Gébárti Lake, ideal for a relaxed outdoor meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Gébárti-Sees",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser, um die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtsplattform TV-Turm",
+            "tip": "Bei klarem Wetter können Sie weit in die Landschaft von Zala blicken.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gébárti-tó partja",
+            "tip": "Keressen egy csendes helyet a vízparton, és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "TV-torony kilátója",
+            "tip": "Tiszta időben messzire ellátni a zalai tájban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Gébárti",
+            "tip": "Găsiți un loc liniștit pe malul apei pentru a vă bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Platforma de observare a Turnului TV",
+            "tip": "Pe vreme senină, puteți vedea departe în peisajul Zala.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Gébárti Lake",
+            "tip": "Find a quiet spot by the water to enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "TV Tower Observation Deck",
+            "tip": "On a clear day, you can see far into the Zala countryside.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Die Region Zala hat einige Weingüter; suchen Sie nach lokalen Sorten in den Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "A Zala borvidéknek van néhány pincészete; keressen helyi fajtákat a boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Regiunea Zala are câteva crame; căutați soiuri locale în magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "For any accessories or quick repairs."
+          },
+          {
+            "name": "Local Wines",
+            "tip": "The Zala region has some wineries; look for local varieties in shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Fahrt zum TV-Turm.",
+          "Einige Wege um den See können unbefestigt sein, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Vigyen magával elegendő vizet, különösen a TV-toronyhoz vezető útra.",
+          "A tó körüli utak némelyike burkolatlan lehet, óvatosan közlekedjen."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Luați suficientă apă, mai ales pentru drumul spre Turnul TV.",
+          "Unele poteci din jurul lacului pot fi neasfaltate, mergeți cu prudență."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Bring plenty of water, especially for the ride to the TV Tower.",
+          "Some paths around the lake may be unpaved, ride carefully."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 11.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Spaziergang im Zentrum",
+            "hu": "Parkolás és séta a központban",
+            "ro": "Parcare și plimbare în centru",
+            "en": "Park and walk in the center"
+          },
+          "coords": [
+            16.8448,
+            46.841
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in einem der zentralen Parkhäuser, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon egy központi parkolóházban, hogy gyalog fedezze fel az első látnivalócsoportot.",
+            "ro": "Parcați într-o parcare centrală pentru a explora primul grup de atracții pe jos.",
+            "en": "Park in one of the central parking garages to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Deák-Ferenc-Platz",
+            "hu": "Deák Ferenc tér",
+            "ro": "Piața Deák Ferenc",
+            "en": "Deák Ferenc Square"
+          },
+          "coords": [
+            16.8442,
+            46.842
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Hauptplatz der Stadt ist der ideale Ausgangspunkt.",
+            "hu": "A város főtere ideális kiindulópont.",
+            "ro": "Piața principală a orașului este punctul de plecare ideal.",
+            "en": "The city's main square is the ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Maria Magdalena",
+            "hu": "Mária Magdolna Plébániatemplom",
+            "ro": "Biserica parohială Maria Magdalena",
+            "en": "Mary Magdalene Parish Church"
+          },
+          "coords": [
+            16.8455,
+            46.8425
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Platz entfernt, ein Meisterwerk des Barock.",
+            "hu": "Csak egy rövid sétára a tértől, a barokk építészet remekműve.",
+            "ro": "La doar o scurtă plimbare de piață, o capodoperă barocă.",
+            "en": "Just a short walk from the square, a baroque masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Seengebiet",
+            "hu": "Autóval a tóvidékre",
+            "ro": "Cu mașina spre zona lacului",
+            "en": "Drive to the lake area"
+          },
+          "coords": [
+            16.816,
+            46.861
+          ],
+          "category": "lake",
+          "arrive_at": "10:45",
+          "stay_min": 15,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Gébárti-See und parken Sie in der Nähe des Dorfmuseums.",
+            "hu": "Vezessen a Gébárti-tóhoz, és parkoljon a falumúzeum közelében.",
+            "ro": "Conduceți spre Lacul Gébárti și parcați lângă Muzeul Satului.",
+            "en": "Drive to Gébárti Lake and park near the Village Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Göcsej-Dorfmuseum",
+            "hu": "Göcseji Falumúzeum",
+            "ro": "Muzeul Satului Göcsej",
+            "en": "Göcsej Village Museum"
+          },
+          "coords": [
+            16.815,
+            46.86
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das weitläufige Freilichtmuseum, das das Leben in der Region zeigt.",
+            "hu": "Fedezze fel a tágas szabadtéri múzeumot, amely a régió életét mutatja be.",
+            "ro": "Explorați vastul muzeu în aer liber care prezintă viața din regiune.",
+            "en": "Explore the expansive open-air museum showcasing life in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Gébárti-See & Mittagessen",
+            "hu": "Séta a Gébárti-tónál és ebéd",
+            "ro": "Plimbare pe malul lacului Gébárti și prânz",
+            "en": "Walk at Gébárti Lake & Lunch"
+          },
+          "coords": [
+            16.818,
+            46.862
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nach dem Museum ein kurzer Spaziergang am Seeufer, gefolgt von einem Mittagessen.",
+            "hu": "A múzeum után egy rövid séta a tóparton, majd ebéd.",
+            "ro": "După muzeu, o scurtă plimbare pe malul lacului, urmată de prânz.",
+            "en": "After the museum, a short walk on the lake shore followed by lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum TV-Turm & Azaleen-Tal",
+            "hu": "Autóval a TV-toronyhoz és az Azáleás-völgybe",
+            "ro": "Cu mașina la Turnul TV și Valea Azaleelor",
+            "en": "Drive to the TV Tower & Azalea Valley"
+          },
+          "coords": [
+            16.859,
+            46.831
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:05",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Der letzte Cluster des Tages. Genießen Sie die Aussicht und einen Spaziergang im Tal.",
+            "hu": "A nap utolsó állomáscsoportja. Élvezze a kilátást és tegyen egy sétát a völgyben.",
+            "ro": "Ultimul grup de opriri al zilei. Bucurați-vă de priveliște și de o plimbare prin vale.",
+            "en": "The last cluster of the day. Enjoy the view and a walk in the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Auto-Tagesausflug kombiniert städtisches Flair mit Naturerlebnissen. Sie beginnen mit einem Spaziergang durch das historische Zentrum von Zalaegerszeg. Anschließend fahren Sie zum Gébárti-See, wo Sie in die ländliche Vergangenheit im Göcsej-Dorfmuseum eintauchen und am Wasser zu Mittag essen. Der Nachmittag ist der Höhe gewidmet: Sie fahren zum TV-Turm für eine spektakuläre Aussicht und beenden den Tag mit einem entspannten Spaziergang im nahegelegenen Azaleen-Tal.",
+        "hu": "Ez az autós napos kirándulás a városi hangulatot ötvözi a természeti élményekkel. A napot Zalaegerszeg történelmi központjában tett sétával kezdi. Ezután a Gébárti-tóhoz hajt, ahol a Göcseji Falumúzeumban elmerülhet a vidéki múltban, és a vízparton ebédelhet. A délután a magasságoké: felautózik a TV-toronyhoz a látványos kilátásért, és a napot egy pihentető sétával zárja a közeli Azáleás-völgyben.",
+        "ro": "Această excursie de o zi cu mașina combină farmecul urban cu experiențe în natură. Începeți cu o plimbare prin centrul istoric al orașului Zalaegerszeg. Apoi, conduceți spre Lacul Gébárti, unde vă veți cufunda în trecutul rural la Muzeul Satului Göcsej și veți lua prânzul pe malul apei. După-amiaza este dedicată înălțimilor: conduceți până la Turnul TV pentru o priveliște spectaculoasă și încheiați ziua cu o plimbare relaxantă în Valea Azaleelor din apropiere.",
+        "en": "This car day trip combines urban flair with nature experiences. You start with a walk through the historic center of Zalaegerszeg. Then, you drive to Gébárti Lake, where you'll immerse yourself in the rural past at the Göcsej Village Museum and have lunch by the water. The afternoon is dedicated to heights: drive up to the TV Tower for a spectacular view and end the day with a relaxing walk in the nearby Azalea Valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gulaschsuppe",
+            "tip": "Ein Klassiker, der in vielen traditionellen Restaurants (Csárda) angeboten wird."
+          },
+          {
+            "name": "Pálos Malom",
+            "tip": "Ein Restaurant mit rustikalem Charme, oft gute lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gulyásleves",
+            "tip": "Klasszikus, amelyet számos hagyományos csárdában kínálnak."
+          },
+          {
+            "name": "Pálos Malom",
+            "tip": "Rusztikus hangulatú étterem, gyakran jó helyi specialitásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de gulaș",
+            "tip": "Un clasic oferit în multe restaurante tradiționale (Csárda)."
+          },
+          {
+            "name": "Pálos Malom",
+            "tip": "Un restaurant cu farmec rustic, adesea cu specialități locale bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goulash Soup",
+            "tip": "A classic offered in many traditional restaurants (Csárda)."
+          },
+          {
+            "name": "Pálos Malom",
+            "tip": "A restaurant with rustic charm, often serving good local specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Arboretum im Azaleen-Tal",
+            "tip": "Ein ruhiger Spaziergang unter Bäumen, abseits der Hauptattraktionen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Angelplätze am Gébárti-See",
+            "tip": "Beobachten Sie die Angler und genießen Sie die Stille am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arborétum az Azáleás-völgyben",
+            "tip": "Csendes séta a fák alatt, távol a fő látnivalóktól.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Horgászhelyek a Gébárti-tónál",
+            "tip": "Figyelje a horgászokat, és élvezze a csendet a vízparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arboretul din Valea Azaleelor",
+            "tip": "O plimbare liniștită sub copaci, departe de atracțiile principale.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Locuri de pescuit la Lacul Gébárti",
+            "tip": "Priviți pescarii și bucurați-vă de liniștea de pe malul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Arboretum in the Azalea Valley",
+            "tip": "A quiet walk under the trees, away from the main attractions.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Fishing spots at Gébárti Lake",
+            "tip": "Watch the fishermen and enjoy the silence by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerkskunst aus dem Dorfmuseum",
+            "tip": "Der Museumsshop bietet oft authentische, handgefertigte Souvenirs."
+          },
+          {
+            "name": "Kürbiskernöl",
+            "tip": "Eine Spezialität der Region, erhältlich in Delikatessengeschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves termékek a Falumúzeumban",
+            "tip": "A múzeumi bolt gyakran kínál autentikus, kézzel készített ajándéktárgyakat."
+          },
+          {
+            "name": "Tökmagolaj",
+            "tip": "A régió specialitása, csemegeboltokban kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat de la Muzeul Satului",
+            "tip": "Magazinul muzeului oferă adesea suveniruri autentice, realizate manual."
+          },
+          {
+            "name": "Ulei de dovleac",
+            "tip": "O specialitate a regiunii, disponibilă în magazinele de delicatese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crafts from the Village Museum",
+            "tip": "The museum shop often offers authentic, handmade souvenirs."
+          },
+          {
+            "name": "Pumpkin Seed Oil",
+            "tip": "A specialty of the region, available in delicatessens."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Möglichkeiten, wenn verfügbar, um den Verkehr im Zentrum zu meiden.",
+          "Überprüfen Sie die Öffnungszeiten der Museen im Voraus, insbesondere des Freilichtmuseums.",
+          "Planen Sie genügend Zeit für die Fahrten zwischen den Clustern ein."
+        ],
+        "hu": [
+          "Használja a P+R parkolókat, ha elérhetők, hogy elkerülje a belvárosi forgalmat.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, különösen a szabadtéri múzeumét.",
+          "Tervezzen elegendő időt a látnivalócsoportok közötti utazásra."
+        ],
+        "ro": [
+          "Folosiți parcările de tip Park and Ride, dacă sunt disponibile, pentru a evita traficul din centru.",
+          "Verificați în avans programul muzeelor, în special al muzeului în aer liber.",
+          "Planificați suficient timp pentru deplasările între grupurile de atracții."
+        ],
+        "en": [
+          "Use Park and Ride facilities if available to avoid city center traffic.",
+          "Check the opening hours of the museums in advance, especially the open-air museum.",
+          "Allow enough time for the drives between the clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof & Spaziergang zum Zentrum",
+            "hu": "Érkezés a buszpályaudvarra és séta a központba",
+            "ro": "Sosire la autogară și plimbare spre centru",
+            "en": "Arrival at the bus station & walk to the center"
+          },
+          "coords": [
+            16.848,
+            46.845
+          ],
+          "category": "transit",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
+            "hu": "Vásároljon napijegyet a helyi tömegközlekedéshez.",
+            "ro": "Cumpărați un abonament de o zi pentru transportul public.",
+            "en": "Purchase a day pass for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Deák-Ferenc-Platz & Pfarrkirche",
+            "hu": "Deák Ferenc tér és Plébániatemplom",
+            "ro": "Piața Deák Ferenc și Biserica Parohială",
+            "en": "Deák Ferenc Square & Parish Church"
+          },
+          "coords": [
+            16.8442,
+            46.842
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Hauptplatz und die angrenzende beeindruckende Kirche zu Fuß.",
+            "hu": "Fedezze fel gyalog a főteret és a szomszédos lenyűgöző templomot.",
+            "ro": "Explorați pe jos piața principală și impresionanta biserică adiacentă.",
+            "en": "Explore the main square and the adjacent impressive church on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Gébárti-See",
+            "hu": "Buszozás a Gébárti-tóhoz",
+            "ro": "Călătorie cu autobuzul la Lacul Gébárti",
+            "en": "Bus ride to Gébárti Lake"
+          },
+          "coords": [
+            16.816,
+            46.861
+          ],
+          "category": "transit",
+          "arrive_at": "10:55",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, der in Richtung des Sees oder des Dorfmuseums fährt.",
+            "hu": "Menjen egy helyi busszal, amely a tó vagy a falumúzeum irányába közlekedik.",
+            "ro": "Luați un autobuz local care merge spre lac sau Muzeul Satului.",
+            "en": "Take a local bus heading towards the lake or the village museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Göcsej-Dorfmuseum & Spaziergang am See",
+            "hu": "Göcseji Falumúzeum és séta a tónál",
+            "ro": "Muzeul Satului Göcsej și plimbare pe malul lacului",
+            "en": "Göcsej Village Museum & Walk at the Lake"
+          },
+          "coords": [
+            16.815,
+            46.86
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 130,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Museumsbesuch mit einem entspannten Spaziergang am Ufer.",
+            "hu": "Kombinálja a múzeumlátogatást egy pihentető sétával a tóparton.",
+            "ro": "Combinați vizita la muzeu cu o plimbare relaxantă pe malul lacului.",
+            "en": "Combine the museum visit with a relaxing stroll along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Bus zurück ins Zentrum",
+            "hu": "Ebéd és busszal vissza a központba",
+            "ro": "Prânz și autobuz înapoi în centru",
+            "en": "Lunch and bus back to the center"
+          },
+          "coords": [
+            16.841,
+            46.835
+          ],
+          "category": "gastro",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen in der Nähe des Sees, nehmen Sie den Bus zurück ins Stadtgebiet.",
+            "hu": "A tó közeli ebéd után szálljon buszra vissza a városba.",
+            "ro": "După prânzul lângă lac, luați autobuzul înapoi în zona orașului.",
+            "en": "After lunch near the lake, take the bus back to the city area."
+          }
+        },
+        {
+          "name": {
+            "de": "Ungarisches Öl- und Gasmuseum",
+            "hu": "Magyar Olaj- és Gázipari Múzeum",
+            "ro": "Muzeul Ungar al Petrolului și Gazelor",
+            "en": "Hungarian Oil and Gas Museum"
+          },
+          "coords": [
+            16.841,
+            46.835
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle ist in der Nähe. Ein faszinierendes Freilichtmuseum.",
+            "hu": "A buszmegálló a közelben van. Lenyűgöző szabadtéri múzeum.",
+            "ro": "Stația de autobuz este în apropiere. Un muzeu fascinant în aer liber.",
+            "en": "The bus stop is nearby. A fascinating open-air museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Zalaegerszeg bequem mit dem Bus. Nach einem Rundgang durch das historische Zentrum bringt Sie ein Bus zum idyllischen Gébárti-See und dem angrenzenden Dorfmuseum. Hier können Sie in die Geschichte eintauchen und die Natur genießen. Nach einer Mittagspause am See fahren Sie zurück in die Stadt, um den Tag mit einem Besuch des einzigartigen Ungarischen Öl- und Gasmuseums abzuschließen, das einen tiefen Einblick in die industrielle Entwicklung des Landes gibt.",
+        "hu": "Fedezze fel Zalaegerszeget kényelmesen, busszal! A történelmi belvárosi séta után egy busz elviszi az idilli Gébárti-tóhoz és a szomszédos falumúzeumhoz. Itt elmerülhet a történelemben és élvezheti a természetet. A tónál elfogyasztott ebéd után visszautazik a városba, hogy a napot a különleges Magyar Olaj- és Gázipari Múzeum meglátogatásával zárja, amely mély betekintést nyújt az ország ipari fejlődésébe.",
+        "ro": "Descoperiți Zalaegerszeg confortabil cu autobuzul. După un tur al centrului istoric, un autobuz vă va duce la idilicul Lac Gébárti și la Muzeul Satului adiacent. Aici vă puteți cufunda în istorie și vă puteți bucura de natură. După o pauză de prânz la lac, vă întoarceți în oraș pentru a încheia ziua cu o vizită la unicul Muzeu Ungar al Petrolului și Gazelor, care oferă o perspectivă profundă asupra dezvoltării industriale a țării.",
+        "en": "Discover Zalaegerszeg comfortably by bus. After a tour of the historic center, a bus will take you to the idyllic Gébárti Lake and the adjacent Village Museum. Here you can immerse yourself in history and enjoy nature. After a lunch break at the lake, you'll travel back to the city to end the day with a visit to the unique Hungarian Oil and Gas Museum, which offers a deep insight into the country's industrial development."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pékáru (Gebäck)",
+            "tip": "Holen Sie sich ein süßes oder salziges Gebäck für die Busfahrt von einer örtlichen Bäckerei."
+          },
+          {
+            "name": "Belga Étterem és Söröző",
+            "tip": "Eine Option im Stadtzentrum mit einer großen Auswahl an Gerichten und Bieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékáru",
+            "tip": "Vegyen egy édes vagy sós péksüteményt a buszútra egy helyi pékségből."
+          },
+          {
+            "name": "Belga Étterem és Söröző",
+            "tip": "Egy lehetőség a belvárosban, széles étel- és sörválasztékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de patiserie",
+            "tip": "Luați un produs de patiserie dulce sau sărat pentru călătoria cu autobuzul de la o brutărie locală."
+          },
+          {
+            "name": "Belga Étterem és Söröző",
+            "tip": "O opțiune în centrul orașului, cu o selecție largă de mâncăruri și beri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pékáru (Pastry)",
+            "tip": "Grab a sweet or savory pastry for the bus ride from a local bakery."
+          },
+          {
+            "name": "Belga Restaurant and Pub",
+            "tip": "An option in the city center with a wide selection of dishes and beers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hintere Bänke im Bus",
+            "tip": "Eine gute Gelegenheit, die vorbeiziehende Landschaft in Ruhe zu betrachten.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Skulpturenpark am Gébárti-See",
+            "tip": "Ein ruhiger Bereich mit Kunstinstallationen, ideal zum Nachdenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hátsó ülések a buszon",
+            "tip": "Jó lehetőség nyugodtan szemlélni az elsuhanó tájat.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Szoborpark a Gébárti-tónál",
+            "tip": "Csendes terület művészeti installációkkal, ideális az elmélkedéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scaunele din spate în autobuz",
+            "tip": "O bună oportunitate de a privi în liniște peisajul.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Parcul de sculpturi de la Lacul Gébárti",
+            "tip": "O zonă liniștită cu instalații de artă, ideală pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Back seats on the bus",
+            "tip": "A good opportunity to quietly watch the passing scenery.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Sculpture Park at Gébárti Lake",
+            "tip": "A quiet area with art installations, ideal for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Für Last-Minute-Souvenirs oder einen schnellen Snack."
+          },
+          {
+            "name": "Göcsej Áruház",
+            "tip": "Ein klassisches Kaufhaus im Zentrum für einen Einblick in den lokalen Handel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Utolsó pillanatos szuvenírekért vagy egy gyors harapnivalóért."
+          },
+          {
+            "name": "Göcsej Áruház",
+            "tip": "Klasszikus áruház a központban, bepillantást enged a helyi kereskedelembe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Pentru suveniruri de ultim moment sau o gustare rapidă."
+          },
+          {
+            "name": "Magazinul Universal Göcsej",
+            "tip": "Un magazin universal clasic în centru pentru o privire asupra comerțului local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "For last-minute souvenirs or a quick snack."
+          },
+          {
+            "name": "Göcsej Department Store",
+            "tip": "A classic department store in the center for a glimpse of local commerce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über die Busfahrpläne online oder an den Haltestellen.",
+          "Geben Sie dem Fahrer ein Zeichen, wenn Sie aussteigen möchten.",
+          "Planen Sie Pufferzeiten für mögliche Verspätungen ein."
+        ],
+        "hu": [
+          "Tájékozódjon a buszmenetrendekről online vagy a megállókban.",
+          "Jelezzen a sofőrnek, ha le szeretne szállni.",
+          "Tervezzen pufferidőt az esetleges késésekre."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor online sau la stații.",
+          "Faceți semn șoferului când doriți să coborâți.",
+          "Planificați timp suplimentar pentru posibile întârzieri."
+        ],
+        "en": [
+          "Check the bus schedules online or at the stops.",
+          "Signal the driver when you want to get off.",
+          "Plan for buffer times for potential delays."
+        ]
+      }
+    }
+  }
+}

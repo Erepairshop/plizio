@@ -1,0 +1,1436 @@
+{
+  "city_id": "switzerland-martigny-cities-v2",
+  "anchor": {
+    "name": "Martigny",
+    "coords": [
+      7.0734,
+      46.1039
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Centrale",
+            "hu": "Place Centrale (Főtér)",
+            "ro": "Place Centrale",
+            "en": "Place Centrale"
+          },
+          "coords": [
+            7.0734,
+            46.1039
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Kaffee in einem der vielen Cafés.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele.",
+            "en": "Start your day with a coffee at one of the many cafés on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Michel",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            7.0745,
+            46.1028
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die modernen Glasfenster, die einen Kontrast zur klassischen Architektur bilden.",
+            "hu": "Figyelje meg a modern ólomüveg ablakokat, melyek kontrasztot alkotnak a klasszikus építészettel.",
+            "ro": "Observați vitraliile moderne care contrastează cu arhitectura clasică.",
+            "en": "Notice the modern stained-glass windows, which contrast with the classic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Amphitheater",
+            "hu": "Római Amfiteátrum",
+            "ro": "Amfiteatrul Roman",
+            "en": "Roman Amphitheater"
+          },
+          "coords": [
+            7.0791,
+            46.1011
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stellen Sie sich die Gladiatorenkämpfe vor, die hier einst stattfanden. Im Sommer gibt es hier noch Veranstaltungen.",
+            "hu": "Képzelje el a gladiátorharcokat, amelyek egykor itt zajlottak. Nyáron még mindig tartanak itt rendezvényeket.",
+            "ro": "Imaginați-vă luptele de gladiatori care aveau loc aici. Vara încă se organizează evenimente.",
+            "en": "Imagine the gladiator fights that once took place here. Events are still held here in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Fondation Pierre Gianadda",
+            "hu": "Pierre Gianadda Alapítvány",
+            "ro": "Fundația Pierre Gianadda",
+            "en": "Pierre Gianadda Foundation"
+          },
+          "coords": [
+            7.0808,
+            46.0985
+          ],
+          "category": "museums",
+          "arrive_at": "11:42",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prüfen Sie vor dem Besuch die aktuellen Ausstellungen, da diese oft Weltklasse sind.",
+            "hu": "Látogatás előtt ellenőrizze az aktuális kiállításokat, mert gyakran világszínvonalúak.",
+            "ro": "Verificați expozițiile curente înainte de vizită, deoarece sunt adesea de clasă mondială.",
+            "en": "Check the current exhibitions before visiting, as they are often world-class."
+          }
+        },
+        {
+          "name": {
+            "de": "Barryland",
+            "hu": "Barryland",
+            "ro": "Barryland",
+            "en": "Barryland"
+          },
+          "coords": [
+            7.0795,
+            46.0975
+          ],
+          "category": "museums",
+          "arrive_at": "13:46",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Fütterungszeiten der Bernhardinerwelpen!",
+            "hu": "Ne hagyja ki a bernáthegyi kutyakölykök etetési idejét!",
+            "ro": "Nu ratați orele de hrănire a cățeilor Saint-Bernard!",
+            "en": "Don't miss the feeding times for the St. Bernard puppies!"
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Bâtiaz",
+            "hu": "Bâtiaz vára",
+            "ro": "Castelul Bâtiaz",
+            "en": "Château de la Bâtiaz"
+          },
+          "coords": [
+            7.0662,
+            46.1032
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:18",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 52,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die Aussicht auf das Rhonetal ist es absolut wert.",
+            "hu": "Az emelkedő meredek, de a kilátás a Rhône-völgyre teljesen megéri.",
+            "ro": "Urcușul este abrupt, dar vederea asupra văii Ronului merită absolut.",
+            "en": "The climb is steep, but the view of the Rhône valley is totally worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Martigny beginnt auf der lebhaften Place Centrale, dem Herzen der Stadt. Von dort aus tauchen Sie in die Geschichte ein, mit einem Besuch der modernen Kirche Saint-Michel und des beeindruckenden römischen Amphitheaters, das von vergangenen Zeiten zeugt. Am Mittag erwartet Sie ein kulturelles Highlight in der Fondation Pierre Gianadda, gefolgt von einem herzerwärmenden Besuch bei den berühmten Bernhardinern in Barryland. Der Nachmittag ist für einen malerischen Aufstieg zum Château de la Bâtiaz reserviert. Die mittelalterliche Festung thront über der Stadt und belohnt Sie mit einer atemberaubenden Aussicht über das Rhonetal und die umliegenden Alpen. Dieser Panoramablick bildet den perfekten Abschluss Ihres Tages in Martigny.",
+        "hu": "Sétája Martignyban a nyüzsgő Place Centrale-on, a város szívében kezdődik. Innen elmerül a történelemben a modern Szent Mihály-templom és a lenyűgöző római amfiteátrum meglátogatásával, amely a letűnt időkről tanúskodik. Délben kulturális fénypont várja a Fondation Pierre Gianadda-ban, majd egy szívmelengető látogatás a híres bernáthegyi kutyáknál a Barrylandben. A délután a festői Château de la Bâtiaz-hoz való feljutásé. A középkori erőd a város fölé magasodik, és lélegzetelállító kilátással jutalmazza a Rhône-völgyre és a környező Alpokra. Ez a panoráma tökéletes lezárása a Martignyban töltött napnak.",
+        "ro": "Plimbarea dvs. prin Martigny începe în vibranta Place Centrale, inima orașului. De acolo, vă veți scufunda în istorie cu o vizită la biserica modernă Saint-Michel și la impresionantul amfiteatru roman, martor al vremurilor trecute. La prânz, vă așteaptă un punct culminant cultural la Fondation Pierre Gianadda, urmat de o vizită emoționantă la faimoșii câini Saint-Bernard la Barryland. După-amiaza este rezervată pentru o urcare pitorească la Château de la Bâtiaz. Fortăreața medievală domină orașul și vă recompensează cu o priveliște uluitoare asupra văii Ronului și a Alpilor din jur. Această panoramă este încheierea perfectă a zilei dvs. în Martigny.",
+        "en": "Your walking tour of Martigny begins in the lively Place Centrale, the heart of the city. From there, you'll delve into history with a visit to the modern Saint-Michel Church and the impressive Roman Amphitheater, a testament to bygone eras. At midday, a cultural highlight awaits at the Fondation Pierre Gianadda, followed by a heartwarming visit to the famous St. Bernard dogs at Barryland. The afternoon is reserved for a scenic climb to the Château de la Bâtiaz. The medieval fortress towers over the city, rewarding you with a breathtaking view of the Rhône valley and the surrounding Alps. This panoramic view provides the perfect conclusion to your day in Martigny."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Raclette",
+            "tip": "Probieren Sie das Original im Le Carnotzet."
+          },
+          {
+            "name": "Walliser Teller",
+            "tip": "Eine Platte mit lokalem Trockenfleisch und Käse, ideal für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Aprikosen aus dem Wallis",
+            "tip": "Suchen Sie nach frischen Aprikosen oder Aprikosenkuchen auf dem Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Raclette",
+            "tip": "Kóstolja meg az eredetit a Le Carnotzet-ben."
+          },
+          {
+            "name": "Wallisi tál",
+            "tip": "Helyi szárított húsokból és sajtokból álló tál, ideális könnyű ebédhez."
+          },
+          {
+            "name": "Wallisi sárgabarack",
+            "tip": "Keressen friss sárgabarackot vagy sárgabarackos süteményt a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Raclette",
+            "tip": "Încercați originalul la Le Carnotzet."
+          },
+          {
+            "name": "Platou valaisan",
+            "tip": "Un plat cu carne uscată locală și brânză, ideal pentru un prânz ușor."
+          },
+          {
+            "name": "Caise din Valais",
+            "tip": "Căutați caise proaspete sau prăjitură cu caise la piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Raclette",
+            "tip": "Try the original at Le Carnotzet."
+          },
+          {
+            "name": "Valaisan platter",
+            "tip": "A plate of local dried meat and cheese, ideal for a light lunch."
+          },
+          {
+            "name": "Valais apricots",
+            "tip": "Look for fresh apricots or apricot tart at the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Dranse",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, der durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skulpturenpark der Fondation Gianadda",
+            "tip": "Ein friedlicher Ort, um Kunst und Natur zu verbinden.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussicht vom Château de la Bâtiaz",
+            "tip": "Der beste Ort für den Sonnenuntergang über dem Tal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Dranse folyó partja",
+            "tip": "Egy csendes séta a városon átfolyó folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Gianadda Alapítvány szoborparkja",
+            "tip": "Békés hely a művészet és a természet összekapcsolására.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Château de la Bâtiaz-ról",
+            "tip": "A legjobb hely a naplemente megcsodálására a völgy felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Dranse",
+            "tip": "O plimbare liniștită de-a lungul râului care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de sculpturi al Fundației Gianadda",
+            "tip": "Un loc pașnic pentru a combina arta și natura.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Priveliștea de la Château de la Bâtiaz",
+            "tip": "Cel mai bun loc pentru apusul soarelui peste vale.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Dranse River",
+            "tip": "A quiet walk along the river that flows through the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gianadda Foundation Sculpture Park",
+            "tip": "A peaceful place to combine art and nature.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from Château de la Bâtiaz",
+            "tip": "The best spot for sunset over the valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Distillerie Morand",
+            "tip": "Kaufen Sie den berühmten Williamine-Birnenschnaps oder andere lokale Spirituosen."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Findet donnerstags auf der Place Centrale statt, ideal für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Morand Szeszfőzde",
+            "tip": "Vásároljon a híres Williamine körtepálinkából vagy más helyi szeszes italokból."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Csütörtökönként a Place Centrale-on, ideális helyi termékek beszerzésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Distileria Morand",
+            "tip": "Cumpărați faimosul rachiu de pere Williamine sau alte băuturi spirtoase locale."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Are loc joia în Place Centrale, ideală pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Morand Distillery",
+            "tip": "Buy the famous Williamine pear brandy or other local spirits."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Held on Thursdays in Place Centrale, great for local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Der Aufstieg zum Schloss ist anstrengend, nehmen Sie Wasser mit.",
+          "Die meisten Sehenswürdigkeiten sind gut zu Fuß erreichbar, folgen Sie einfach den Schildern.",
+          "Planen Sie genügend Zeit für die Fondation Gianadda ein, die Sammlung ist umfangreich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A várhoz való feljutás megerőltető, vigyen magával vizet.",
+          "A legtöbb látnivaló könnyen elérhető gyalog, csak kövesse a táblákat.",
+          "Szánjon elegendő időt a Gianadda Alapítványra, a gyűjtemény hatalmas."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Urcușul la castel este obositor, luați apă cu dumneavoastră.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos, trebuie doar să urmați indicatoarele.",
+          "Planificați suficient timp pentru Fundația Gianadda, colecția este extinsă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "The climb to the castle is strenuous, so bring water.",
+          "Most sights are within easy walking distance; just follow the signs.",
+          "Allow plenty of time for the Fondation Gianadda; the collection is extensive."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Centrale",
+            "hu": "Place Centrale (Főtér)",
+            "ro": "Place Centrale",
+            "en": "Place Centrale"
+          },
+          "coords": [
+            7.0734,
+            46.1039
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Leihen Sie sich ein Fahrrad in der Nähe des Bahnhofs, um Ihre Tour zu beginnen.",
+            "hu": "Béreljen kerékpárt a pályaudvar közelében a túra megkezdéséhez.",
+            "ro": "Închiriați o bicicletă lângă gară pentru a începe turul.",
+            "en": "Rent a bike near the train station to start your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Amphitheater",
+            "hu": "Római Amfiteátrum",
+            "ro": "Amfiteatrul Roman",
+            "en": "Roman Amphitheater"
+          },
+          "coords": [
+            7.0791,
+            46.1011
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad draußen ab und erkunden Sie die antiken Ruinen.",
+            "hu": "Zárja le a kerékpárt kint, és fedezze fel az ókori romokat.",
+            "ro": "Lăsați bicicleta afară și explorați ruinele antice.",
+            "en": "Lock your bike outside and explore the ancient ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Fondation Pierre Gianadda",
+            "hu": "Pierre Gianadda Alapítvány",
+            "ro": "Fundația Pierre Gianadda",
+            "en": "Pierre Gianadda Foundation"
+          },
+          "coords": [
+            7.0808,
+            46.0985
+          ],
+          "category": "museums",
+          "arrive_at": "10:34",
+          "stay_min": 110,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Fahrradständer befindet sich in der Nähe des Eingangs.",
+            "hu": "A kerékpártároló a bejárat közelében található.",
+            "ro": "Suportul pentru biciclete este situat lângă intrare.",
+            "en": "The bike rack is located near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin Semblanet",
+            "hu": "Semblanet malom",
+            "ro": "Moara Semblanet",
+            "en": "Moulin Semblanet"
+          },
+          "coords": [
+            7.0655,
+            46.0955
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:32",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber interessanter Stopp, um ein Stück Industriegeschichte zu sehen.",
+            "hu": "Rövid, de érdekes megálló, hogy megtekintsen egy darabot az ipartörténetből.",
+            "ro": "O oprire scurtă, dar interesantă, pentru a vedea o bucată de istorie industrială.",
+            "en": "A short but interesting stop to see a piece of industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Bâtiaz",
+            "hu": "Bâtiaz vára",
+            "ro": "Castelul Bâtiaz",
+            "en": "Château de la Bâtiaz"
+          },
+          "coords": [
+            7.0662,
+            46.1032
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:08",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Anstieg ist eine Herausforderung, aber für geübte Radfahrer machbar. Oben gibt es eine Taverne.",
+            "hu": "Az emelkedő kihívást jelent, de gyakorlott kerékpárosok számára teljesíthető. Fent egy taverna található.",
+            "ro": "Urcarea este o provocare, dar realizabilă pentru bicicliștii experimentați. Sus există o tavernă.",
+            "en": "The climb is challenging but manageable for experienced cyclists. There's a tavern at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Distillerie Morand",
+            "hu": "Morand Szeszfőzde",
+            "ro": "Distileria Morand",
+            "en": "Morand Distillery"
+          },
+          "coords": [
+            7.0831,
+            46.1092
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:41",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil und probieren Sie den berühmten Williamine.",
+            "hu": "Vegyen részt egy vezetett túrán és kóstolja meg a híres Williamine-t.",
+            "ro": "Participați la un tur ghidat și degustați faimosul Williamine.",
+            "en": "Take a guided tour and sample the famous Williamine."
+          }
+        },
+        {
+          "name": {
+            "de": "Barryland",
+            "hu": "Barryland",
+            "ro": "Barryland",
+            "en": "Barryland"
+          },
+          "coords": [
+            7.0795,
+            46.0975
+          ],
+          "category": "museums",
+          "arrive_at": "16:11",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Ein entspannter Ausklang des Tages mit den freundlichen Hunden.",
+            "hu": "A nap pihentető lezárása a barátságos kutyákkal.",
+            "ro": "O încheiere relaxantă a zilei cu câinii prietenoși.",
+            "en": "A relaxing end to the day with the friendly dogs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden Sie Martigny, beginnend am zentralen Platz und radeln dann zu den antiken römischen Ruinen. Die Route führt Sie weiter zur weltberühmten Fondation Gianadda, wo Kunst und Geschichte zusammentreffen. Nach diesem kulturellen Vormittag entdecken Sie die industrielle Vergangenheit der Region mit einem Stopp bei der historischen Moulin Semblanet, bevor Sie sich der sportlichen Herausforderung stellen: dem Aufstieg zum Château de la Bâtiaz. Der Panoramablick von der Burg ist die Mühe wert. Am Nachmittag rollen Sie zur Distillerie Morand für eine Verkostung lokaler Spirituosen und beenden Ihre Tour mit einem Besuch bei den legendären Bernhardinern in Barryland. Es ist ein Tag voller Kontraste, von antiker Geschichte über Kunst bis hin zu lebendigen Traditionen.",
+        "hu": "Két keréken fedezheti fel Martignyt, a központi tértől indulva, majd az ókori római romokhoz kerekezve. Az útvonal tovább vezet a világhírű Fondation Gianadda-hoz, ahol a művészet és a történelem találkozik. A kulturális délelőtt után felfedezheti a régió ipari múltját a történelmi Moulin Semblanet-nél, mielőtt sportos kihívás elé néz: a Château de la Bâtiaz megmászása. A várból nyíló panoráma megéri a fáradozást. Délután a Distillerie Morand-hoz gurul egy helyi párlatkóstolóra, és a túrát a legendás bernáthegyi kutyák meglátogatásával fejezi be a Barrylandben. Ez egy kontrasztokkal teli nap, az ókori történelemtől a művészeten át az élő hagyományokig.",
+        "ro": "Explorați Martigny pe două roți, pornind din piața centrală și pedalând apoi spre ruinele romane antice. Traseul vă duce mai departe la faimoasa Fondation Gianadda, unde arta și istoria se întâlnesc. După această dimineață culturală, descoperiți trecutul industrial al regiunii cu o oprire la istorica Moulin Semblanet, înainte de a vă confrunta cu provocarea sportivă: urcarea la Château de la Bâtiaz. Panorama de la castel merită efortul. După-amiaza, vă îndreptați spre Distillerie Morand pentru o degustare de băuturi spirtoase locale și încheiați turul cu o vizită la legendarii câini Saint-Bernard la Barryland. Este o zi plină de contraste, de la istorie antică la artă și tradiții vii.",
+        "en": "Explore Martigny on two wheels, starting from the central square and then cycling to the ancient Roman ruins. The route takes you on to the world-famous Fondation Gianadda, where art and history meet. After this cultural morning, you'll discover the region's industrial past with a stop at the historic Moulin Semblanet before taking on the athletic challenge: the climb to Château de la Bâtiaz. The panoramic view from the castle is worth the effort. In the afternoon, you'll roll to the Distillerie Morand for a tasting of local spirits and end your tour with a visit to the legendary St. Bernard dogs at Barryland. It's a day full of contrasts, from ancient history to art and living traditions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fondue",
+            "tip": "Ein Muss in den Alpen, perfekt nach einer Radtour. Versuchen Sie es im La Vache qui Vole."
+          },
+          {
+            "name": "Fendant Wein",
+            "tip": "Der lokale Weißwein passt hervorragend zu Käsegerichten."
+          },
+          {
+            "name": "Cholera",
+            "tip": "Ein herzhafter Walliser Gemüsekuchen, der Energie für den Tag gibt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fondü",
+            "tip": "Kötelező az Alpokban, tökéletes egy kerékpártúra után. Próbálja ki a La Vache qui Vole-ban."
+          },
+          {
+            "name": "Fendant bor",
+            "tip": "A helyi fehérbor kiválóan illik a sajtos ételekhez."
+          },
+          {
+            "name": "Cholera",
+            "tip": "Kiadós wallisi zöldségpite, amely energiát ad a napra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fondue",
+            "tip": "O necesitate în Alpi, perfect după un tur cu bicicleta. Încercați-l la La Vache qui Vole."
+          },
+          {
+            "name": "Vin Fendant",
+            "tip": "Vinul alb local se potrivește excelent cu preparatele din brânză."
+          },
+          {
+            "name": "Cholera",
+            "tip": "O plăcintă consistentă cu legume din Valais, care oferă energie pentru întreaga zi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fondue",
+            "tip": "A must-try in the Alps, perfect after a bike ride. Try it at La Vache qui Vole."
+          },
+          {
+            "name": "Fendant wine",
+            "tip": "The local white wine pairs perfectly with cheese dishes."
+          },
+          {
+            "name": "Cholera",
+            "tip": "A hearty Valaisan vegetable pie that provides energy for the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberge von Martigny",
+            "tip": "Radeln Sie durch die terrassierten Weinberge für eine ruhige Flucht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer der Dranse",
+            "tip": "Ein flacher, einfacher Radweg für eine entspannte Zeit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtsplattform am Schloss",
+            "tip": "Der beste Ort, um durchzuatmen und die Aussicht zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Martigny szőlőültetvényei",
+            "tip": "Kerékpározzon a teraszos szőlőültetvényeken a csendes kikapcsolódásért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Dranse folyó partja",
+            "tip": "Sík, könnyű kerékpárút a pihentető időtöltéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátóterasz a várnál",
+            "tip": "A legjobb hely, hogy levegőt vegyen és élvezze a kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viile din Martigny",
+            "tip": "Pedalați prin podgoriile terasate pentru o evadare liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Dranse",
+            "tip": "O pistă de biciclete plată și ușoară pentru un moment de relaxare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Platforma de observare de la castel",
+            "tip": "Cel mai bun loc pentru a respira adânc și a vă bucura de priveliște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyards of Martigny",
+            "tip": "Cycle through the terraced vineyards for a quiet escape.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Dranse River",
+            "tip": "A flat, easy cycle path for a relaxed time.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewing platform at the castle",
+            "tip": "The best place to catch your breath and enjoy the view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Die Alpenblumen verleihen dem Honig einen einzigartigen Geschmack."
+          },
+          {
+            "name": "Gravuren aus dem Amphitheater",
+            "tip": "Kleine Souvenirs, die an die römische Geschichte der Stadt erinnern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Az alpesi virágok egyedi ízt kölcsönöznek a méznek."
+          },
+          {
+            "name": "Metszetek az amfiteátrumból",
+            "tip": "Kis ajándéktárgyak, amelyek a város római történelmére emlékeztetnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Florile alpine conferă mierii o aromă unică."
+          },
+          {
+            "name": "Gravuri de la amfiteatru",
+            "tip": "Mici suveniruri care amintesc de istoria romană a orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey",
+            "tip": "The alpine flowers give the honey a unique flavor."
+          },
+          {
+            "name": "Engravings from the amphitheater",
+            "tip": "Small souvenirs reminiscent of the city's Roman history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen für den Abstieg vom Schloss.",
+          "Einige Wege können steil sein; eine gute Grundkondition ist von Vorteil.",
+          "Die Stadt ist fahrradfreundlich, aber achten Sie in der Innenstadt auf Fußgänger.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket a várból való leereszkedéshez.",
+          "Néhány út meredek lehet; a jó alapkondíció előnyös.",
+          "A város kerékpárbarát, de a belvárosban figyeljen a gyalogosokra.",
+          "Sisak viselése erősen ajánlott."
+        ],
+        "ro": [
+          "Verificați bicicleta înainte de a pleca, în special frânele pentru coborârea de la castel.",
+          "Unele trasee pot fi abrupte; o condiție fizică de bază este un avantaj.",
+          "Orașul este prietenos cu bicicliștii, dar fiți atenți la pietoni în centrul orașului.",
+          "Cască este puternic recomandată."
+        ],
+        "en": [
+          "Check your bike before setting off, especially the brakes for the descent from the castle.",
+          "Some paths can be steep; a good basic level of fitness is an advantage.",
+          "The city is bike-friendly, but watch out for pedestrians in the city center.",
+          "A helmet is strongly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Place Centrale",
+            "hu": "Place Centrale Parkolóház",
+            "ro": "Parcare Place Centrale",
+            "en": "Place Centrale Parking"
+          },
+          "coords": [
+            7.0725,
+            46.1045
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Von hier aus ist das Stadtzentrum leicht zu Fuß erreichbar.",
+            "hu": "Parkoljon itt a délelőttre. A városközpont innen könnyen megközelíthető gyalog.",
+            "ro": "Parcați aici pentru dimineață. Centrul orașului este ușor accesibil pe jos de aici.",
+            "en": "Park here for the morning. The city center is easily accessible on foot from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Centrale & Altstadt",
+            "hu": "Place Centrale és Óváros",
+            "ro": "Place Centrale și Centrul Vechi",
+            "en": "Place Centrale & Old Town"
+          },
+          "coords": [
+            7.0734,
+            46.1039
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gassen, die vom Hauptplatz abgehen.",
+            "hu": "Fedezze fel a főtérről nyíló sikátorokat.",
+            "ro": "Explorați străduțele care pornesc din piața principală.",
+            "en": "Explore the narrow streets leading off the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Amphitheater",
+            "hu": "Római Amfiteátrum",
+            "ro": "Amfiteatrul Roman",
+            "en": "Roman Amphitheater"
+          },
+          "coords": [
+            7.0791,
+            46.1011
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Stadtzentrum bringt Sie 2000 Jahre in die Vergangenheit.",
+            "hu": "Egy rövid séta a városközpontból 2000 évet repít vissza az időben.",
+            "ro": "O scurtă plimbare din centrul orașului vă duce cu 2000 de ani înapoi în timp.",
+            "en": "A short walk from the city center takes you 2000 years back in time."
+          }
+        },
+        {
+          "name": {
+            "de": "Fondation Pierre Gianadda",
+            "hu": "Pierre Gianadda Alapítvány",
+            "ro": "Fundația Pierre Gianadda",
+            "en": "Pierre Gianadda Foundation"
+          },
+          "coords": [
+            7.0808,
+            46.0985
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museum und nutzen Sie den großen Parkplatz. Ideal für den Mittagscluster.",
+            "hu": "Vezessen a múzeumhoz, és használja a nagy parkolót. Ideális a déli látnivalókhoz.",
+            "ro": "Conduceți la muzeu și folosiți parcarea mare. Ideal pentru grupul de atracții de la prânz.",
+            "en": "Drive to the museum and use its large parking lot. Ideal for the midday cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Barryland",
+            "hu": "Barryland",
+            "ro": "Barryland",
+            "en": "Barryland"
+          },
+          "coords": [
+            7.0795,
+            46.0975
+          ],
+          "category": "museums",
+          "arrive_at": "13:24",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Museum ist nur wenige Schritte von der Fondation Gianadda entfernt.",
+            "hu": "A múzeum csak néhány lépésre van a Gianadda Alapítványtól.",
+            "ro": "Muzeul se află la doar câțiva pași de Fundația Gianadda.",
+            "en": "The museum is just a few steps from the Fondation Gianadda."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Bâtiaz",
+            "hu": "Bâtiaz vára",
+            "ro": "Castelul Bâtiaz",
+            "en": "Château de la Bâtiaz"
+          },
+          "coords": [
+            7.0662,
+            46.1032
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:06",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie den Hügel hinauf und parken Sie in der Nähe des Schlosses. Der letzte Teil ist ein kurzer Spaziergang.",
+            "hu": "Vezessen fel a dombra, és parkoljon a vár közelében. Az utolsó szakasz egy rövid séta.",
+            "ro": "Conduceți pe deal și parcați lângă castel. Ultima parte este o scurtă plimbare.",
+            "en": "Drive up the hill and park near the castle. The last part is a short walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto beginnt bequem im Zentrum von Martigny. Sie parken im Cluster \"Altstadt\" und erkunden zu Fuss die Place Centrale und das nahegelegene römische Amphitheater. Gegen Mittag fahren Sie zum Cluster \"Kultur\", wo Sie Ihr Auto bei der Fondation Gianadda abstellen. Von dort aus besuchen Sie die weltberühmte Kunstsammlung und spazieren dann gemütlich zum Barryland, um die Bernhardiner zu sehen. Am Nachmittag fahren Sie zum letzten Cluster, dem hoch über der Stadt thronenden Château de la Bâtiaz. Nach einer kurzen Fahrt parken Sie und geniessen den atemberaubenden Panoramablick, der Ihren ereignisreichen Tag perfekt abrundet.",
+        "hu": "Autós napja kényelmesen kezdődik Martigny központjában. Az \"Óváros\" klaszterben parkol, és gyalog fedezi fel a Place Centrale-t és a közeli római amfiteátrumot. Dél körül az \"Kultúra\" klaszterhez hajt, ahol a Fondation Gianadda mellett hagyja az autót. Innen meglátogatja a világhírű művészeti gyűjteményt, majd kényelmesen átsétál a Barrylandbe, hogy megnézze a bernáthegyi kutyákat. Délután az utolsó klaszterhez, a város fölé magasodó Château de la Bâtiaz-hoz utazik. Egy rövid vezetés után leparkol, és élvezi a lélegzetelállító panorámát, amely tökéletesen lezárja eseménydús napját.",
+        "ro": "Ziua dvs. cu mașina începe confortabil în centrul orașului Martigny. Parcați în clusterul \"Orașul Vechi\" și explorați pe jos Place Centrale și amfiteatrul roman din apropiere. Spre prânz, conduceți spre clusterul \"Cultură\", unde lăsați mașina la Fondation Gianadda. De acolo, vizitați renumita colecție de artă și apoi vă plimbați agale la Barryland pentru a vedea câinii Saint-Bernard. După-amiaza, călătoriți spre ultimul cluster, Château de la Bâtiaz, care tronează deasupra orașului. După o scurtă călătorie cu mașina, parcați și vă bucurați de panorama uluitoare, care încheie perfect ziua plină de evenimente.",
+        "en": "Your day by car begins comfortably in the center of Martigny. You park in the \"Old Town\" cluster and explore Place Centrale and the nearby Roman Amphitheater on foot. Around noon, you drive to the \"Culture\" cluster, leaving your car at the Fondation Gianadda. From there, you visit the world-renowned art collection and then take a leisurely stroll to Barryland to see the St. Bernard dogs. In the afternoon, you travel to the final cluster, the Château de la Bâtiaz, towering high above the city. After a short drive, you park and enjoy the breathtaking panoramic view, which perfectly rounds off your eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant du Château de Villa",
+            "tip": "Etwas außerhalb, aber berühmt für Raclette aus 5 verschiedenen Käsesorten."
+          },
+          {
+            "name": "Asperges du Valais",
+            "tip": "Im Frühling ist der Walliser Spargel eine Delikatesse."
+          },
+          {
+            "name": "Abricotine",
+            "tip": "Ein starker Aprikosenschnaps, den man nach dem Essen probieren sollte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant du Château de Villa",
+            "tip": "Kicsit kijjebb esik, de híres az 5 különböző sajtból készült Raclette-jéről."
+          },
+          {
+            "name": "Wallisi spárga",
+            "tip": "Tavasszal a wallisi spárga különlegességnek számít."
+          },
+          {
+            "name": "Abricotine",
+            "tip": "Erős sárgabarackpálinka, amit étkezés után érdemes megkóstolni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant du Château de Villa",
+            "tip": "Puțin în afara orașului, dar renumit pentru Raclette din 5 tipuri diferite de brânză."
+          },
+          {
+            "name": "Sparanghel din Valais",
+            "tip": "Primăvara, sparanghelul din Valais este o delicatesă."
+          },
+          {
+            "name": "Abricotine",
+            "tip": "Un rachiu tare de caise de încercat după masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant du Château de Villa",
+            "tip": "A bit outside the city, but famous for Raclette made from 5 different cheeses."
+          },
+          {
+            "name": "Valais Asparagus",
+            "tip": "In spring, Valais asparagus is a delicacy."
+          },
+          {
+            "name": "Abricotine",
+            "tip": "A strong apricot brandy to try after a meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gorges du Durnand",
+            "tip": "Eine kurze Autofahrt entfernt, eine spektakuläre Schlucht mit Holzstegen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lac de Champex",
+            "tip": "Ein alpiner See, ca. 30 Minuten Fahrt, perfekt für einen ruhigen Nachmittag.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang von den Weinbergen",
+            "tip": "Fahren Sie in die Weinberge oberhalb der Stadt für eine friedliche Abendstimmung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Durnand-szurdok",
+            "tip": "Rövid autóútra, látványos szurdok fapallókkal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Champex-tó",
+            "tip": "Alpesi tó, kb. 30 perces autóútra, tökéletes egy csendes délutánhoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a szőlőültetvényekről",
+            "tip": "Menjen fel a város feletti szőlőültetvényekre egy békés esti hangulatért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cheile Durnand",
+            "tip": "La o scurtă călătorie cu mașina, un canion spectaculos cu podețe de lemn.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lacul Champex",
+            "tip": "Un lac alpin la aproximativ 30 de minute cu mașina, perfect pentru o după-amiază liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare din vii",
+            "tip": "Conduceți în viile de deasupra orașului pentru o atmosferă de seară pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gorges du Durnand",
+            "tip": "A short drive away, a spectacular gorge with wooden walkways.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lac de Champex",
+            "tip": "An alpine lake, about a 30-minute drive, perfect for a quiet afternoon.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset from the vineyards",
+            "tip": "Drive into the vineyards above the city for a peaceful evening atmosphere.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käse aus der Region",
+            "tip": "Kaufen Sie direkt bei einer Käserei in einem der umliegenden Dörfer."
+          },
+          {
+            "name": "Holzschnitzereien",
+            "tip": "Ein traditionelles Handwerk der Alpenregion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajt",
+            "tip": "Vásároljon közvetlenül egy sajtüzemben a környező falvak egyikében."
+          },
+          {
+            "name": "Fafaragások",
+            "tip": "Az alpesi régió hagyományos kézműves terméke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză locală",
+            "tip": "Cumpărați direct de la o fabrică de brânzeturi dintr-unul din satele învecinate."
+          },
+          {
+            "name": "Sculpturi în lemn",
+            "tip": "O meșteșug tradițional din regiunea alpină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local cheese",
+            "tip": "Buy directly from a cheese dairy in one of the surrounding villages."
+          },
+          {
+            "name": "Wood carvings",
+            "tip": "A traditional craft of the Alpine region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkgebühren im Stadtzentrum, die recht hoch sein können.",
+          "Die Straßen in den Bergen können eng und kurvenreich sein, fahren Sie vorsichtig.",
+          "Planen Sie Ihre Cluster, um unnötige Fahrten zu vermeiden.",
+          "Ein Navigationssystem ist hilfreich, um die kleinen Straßen zu den Ausflugszielen zu finden."
+        ],
+        "hu": [
+          "Vigyázzon a parkolási díjakra a városközpontban, meglehetősen magasak lehetnek.",
+          "A hegyi utak szűkek és kanyargósak lehetnek, vezessen óvatosan.",
+          "Tervezze meg a klasztereket a felesleges utak elkerülése érdekében.",
+          "Navigációs rendszer hasznos a kirándulóhelyekre vezető kis utak megtalálásához."
+        ],
+        "ro": [
+          "Fiți atenți la taxele de parcare din centrul orașului, care pot fi destul de mari.",
+          "Drumurile de munte pot fi înguste și sinuoase, conduceți cu prudență.",
+          "Planificați-vă clusterele pentru a evita călătoriile inutile.",
+          "Un sistem de navigație este util pentru a găsi drumurile mici către atracții."
+        ],
+        "en": [
+          "Be aware of parking fees in the city center, which can be quite high.",
+          "Mountain roads can be narrow and winding, so drive carefully.",
+          "Plan your clusters to avoid unnecessary driving.",
+          "A navigation system is helpful for finding the small roads to the excursion destinations."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Martigny (Ankunft)",
+            "hu": "Martigny pályaudvar (Érkezés)",
+            "ro": "Gara Martigny (Sosire)",
+            "en": "Martigny Station (Arrival)"
+          },
+          "coords": [
+            7.072,
+            46.107
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel (Zone 10).",
+            "hu": "Vásároljon napijegyet a tömegközlekedésre (10-es zóna).",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public (Zona 10).",
+            "en": "Buy a day pass for public transport (Zone 10)."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Centrale",
+            "hu": "Place Centrale (Főtér)",
+            "ro": "Place Centrale",
+            "en": "Place Centrale"
+          },
+          "coords": [
+            7.0734,
+            46.1039
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof führt Sie direkt ins Herz der Stadt.",
+            "hu": "Rövid sétával a pályaudvarról a város szívébe jut.",
+            "ro": "O scurtă plimbare de la gară vă duce direct în inima orașului.",
+            "en": "A short walk from the station takes you right into the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Amphitheater",
+            "hu": "Római Amfiteátrum",
+            "ro": "Amfiteatrul Roman",
+            "en": "Roman Amphitheater"
+          },
+          "coords": [
+            7.0791,
+            46.1011
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Vom Platz aus leicht zu Fuß erreichbar.",
+            "hu": "A térről könnyen megközelíthető gyalog.",
+            "ro": "Ușor accesibil pe jos din piață.",
+            "en": "Easily accessible on foot from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Fondation Pierre Gianadda",
+            "hu": "Pierre Gianadda Alapítvány",
+            "ro": "Fundația Pierre Gianadda",
+            "en": "Pierre Gianadda Foundation"
+          },
+          "coords": [
+            7.0808,
+            46.0985
+          ],
+          "category": "museums",
+          "arrive_at": "11:57",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus vom Zentrum (Linie 202). Der Bus hält direkt vor dem Museum.",
+            "hu": "Menjen busszal a központból (202-es járat). A busz közvetlenül a múzeum előtt áll meg.",
+            "ro": "Luați autobuzul din centru (linia 202). Autobuzul oprește chiar în fața muzeului.",
+            "en": "Take the bus from the center (Line 202). The bus stops right in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Bâtiaz",
+            "hu": "Bâtiaz vára",
+            "ro": "Castelul Bâtiaz",
+            "en": "Château de la Bâtiaz"
+          },
+          "coords": [
+            7.0662,
+            46.1032
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:59",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum und dann einen anderen Bus (oder den kleinen Touristenzug im Sommer) in Richtung Schloss.",
+            "hu": "Menjen busszal vissza a központba, majd egy másik busszal (vagy nyáron a kis turistavonattal) a vár irányába.",
+            "ro": "Luați un autobuz înapoi în centru și apoi un alt autobuz (sau trenulețul turistic vara) spre castel.",
+            "en": "Take a bus back to the center and then another bus (or the little tourist train in summer) towards the castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt am Bahnhof von Martigny. Nach einem kurzen Spaziergang erreichen Sie den ersten Cluster, die Altstadt, wo Sie die Place Centrale und das römische Amphitheater zu Fuss erkunden. Zur Mittagszeit nehmen Sie einen Bus zum zweiten Cluster: dem Kulturviertel. Dort besuchen Sie die Fondation Gianadda, die bequem mit dem Bus erreichbar ist. Am Nachmittag bringt Sie ein weiterer Bus zum Fusse des Hügels, auf dem das Château de la Bâtiaz thront. Nach einem kurzen Aufstieg geniessen Sie die spektakuläre Aussicht, bevor Sie am späten Nachmittag mit dem Bus zurück zum Bahnhof fahren. Dies ist eine effiziente und entspannte Art, die Highlights von Martigny zu entdecken.",
+        "hu": "Tömegközlekedési túrája a martigny-i pályaudvaron kezdődik. Rövid séta után eléri az első klasztert, az óvárost, ahol gyalogosan fedezi fel a Place Centrale-t és a római amfiteátrumot. Délidőben busszal utazik a második klaszterbe: a kulturális negyedbe. Ott meglátogatja a Fondation Gianadda-t, amely kényelmesen megközelíthető busszal. Délután egy másik busz viszi a domb lábához, amelyen a Château de la Bâtiaz trónol. Rövid emelkedő után élvezheti a látványos kilátást, mielőtt késő délután busszal visszatér a pályaudvarra. Ez egy hatékony és pihentető módja Martigny fénypontjainak felfedezésének.",
+        "ro": "Turul dvs. cu transportul public începe la gara din Martigny. După o scurtă plimbare, ajungeți la primul cluster, orașul vechi, unde explorați pe jos Place Centrale și amfiteatrul roman. La prânz, luați un autobuz către al doilea cluster: cartierul cultural. Acolo vizitați Fondation Gianadda, ușor accesibilă cu autobuzul. După-amiaza, un alt autobuz vă duce la poalele dealului pe care se află Château de la Bâtiaz. După o scurtă urcare, vă bucurați de priveliștea spectaculoasă înainte de a vă întoarce cu autobuzul la gară după-amiaza târziu. Acesta este un mod eficient și relaxant de a descoperi punctele de atracție din Martigny.",
+        "en": "Your public transport tour begins at Martigny train station. After a short walk, you reach the first cluster, the old town, where you explore Place Centrale and the Roman Amphitheater on foot. At noon, you take a bus to the second cluster: the cultural district. There, you visit the Fondation Gianadda, which is conveniently accessible by bus. In the afternoon, another bus takes you to the foot of the hill where the Château de la Bâtiaz is enthroned. After a short climb, you enjoy the spectacular view before taking the bus back to the station in the late afternoon. This is an efficient and relaxed way to discover the highlights of Martigny."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Croûte au fromage",
+            "tip": "Eine Scheibe Brot mit geschmolzenem Käse und Wein, oft mit einem Ei obendrauf."
+          },
+          {
+            "name": "Malakoff",
+            "tip": "Frittierte Käsebällchen, eine Spezialität aus der Nähe des Genfersees."
+          },
+          {
+            "name": "Lokale Biere",
+            "tip": "Probieren Sie ein Bier von der WhiteFrontier Brauerei in Martigny."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Croûte au fromage",
+            "tip": "Egy szelet kenyér olvasztott sajttal és borral, gyakran tojással a tetején."
+          },
+          {
+            "name": "Malakoff",
+            "tip": "Sült sajtgolyók, a Genfi-tó környékének specialitása."
+          },
+          {
+            "name": "Helyi sörök",
+            "tip": "Kóstoljon meg egy sört a martigny-i WhiteFrontier sörfőzdéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Croûte au fromage",
+            "tip": "O felie de pâine cu brânză topită și vin, adesea cu un ou deasupra."
+          },
+          {
+            "name": "Malakoff",
+            "tip": "Gogoși prăjite cu brânză, o specialitate din apropierea Lacului Geneva."
+          },
+          {
+            "name": "Beri locale",
+            "tip": "Încercați o bere de la berăria WhiteFrontier din Martigny."
+          }
+        ],
+        "en": [
+          {
+            "name": "Croûte au fromage",
+            "tip": "A slice of bread with melted cheese and wine, often topped with an egg."
+          },
+          {
+            "name": "Malakoff",
+            "tip": "Fried cheese balls, a specialty from near Lake Geneva."
+          },
+          {
+            "name": "Local beers",
+            "tip": "Try a beer from the WhiteFrontier brewery in Martigny."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bücherei Médiathèque Valais",
+            "tip": "Ein moderner, ruhiger Ort zum Entspannen und Lesen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Weg entlang der Dranse",
+            "tip": "Vom Zentrum aus leicht erreichbar für einen friedlichen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof von Saint-Michel",
+            "tip": "Ein ruhiger Ort neben der Kirche im Stadtzentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Médiathèque Valais Könyvtár",
+            "tip": "Modern, csendes hely a pihenésre és olvasásra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Dranse menti út",
+            "tip": "A központból könnyen elérhető egy békés sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Szent Mihály-templom temetője",
+            "tip": "Csendes hely a templom mellett a városközpontban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca Médiathèque Valais",
+            "tip": "Un loc modern și liniștit pentru a vă relaxa și a citi.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Potecă de-a lungul râului Dranse",
+            "tip": "Ușor accesibil din centru pentru o plimbare pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul bisericii Saint-Michel",
+            "tip": "Un loc liniștit lângă biserica din centrul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Médiathèque Valais Library",
+            "tip": "A modern, quiet place to relax and read.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Path along the Dranse",
+            "tip": "Easily accessible from the center for a peaceful walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Saint-Michel churchyard",
+            "tip": "A quiet spot next to the church in the city center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Confiserie Biner",
+            "tip": "Probieren Sie die 'Pavés de Martigny', eine lokale Schokoladenspezialität."
+          },
+          {
+            "name": "Produkte aus dem Kloster St-Bernard",
+            "tip": "Im Barryland-Shop finden Sie Liköre und andere Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biner Cukrászda",
+            "tip": "Kóstolja meg a 'Pavés de Martigny'-t, egy helyi csokoládékülönlegességet."
+          },
+          {
+            "name": "Termékek a St-Bernard kolostorból",
+            "tip": "A Barryland üzletében likőröket és egyéb termékeket talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cofetăria Biner",
+            "tip": "Încercați 'Pavés de Martigny', o specialitate locală de ciocolată."
+          },
+          {
+            "name": "Produse de la mănăstirea St-Bernard",
+            "tip": "În magazinul Barryland veți găsi lichioruri și alte produse."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biner Confectionery",
+            "tip": "Try the 'Pavés de Martigny', a local chocolate specialty."
+          },
+          {
+            "name": "Products from the St. Bernard Monastery",
+            "tip": "You can find liqueurs and other products in the Barryland shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt.",
+          "Eine Tageskarte ist in der Regel günstiger als Einzeltickets.",
+          "Die Busse sind pünktlich, seien Sie also rechtzeitig an der Haltestelle.",
+          "Der kleine Touristenzug zum Schloss fährt nur in der Hochsaison."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó visszautat.",
+          "A napijegy általában olcsóbb, mint a vonaljegyek.",
+          "A buszok pontosak, ezért legyen időben a megállóban.",
+          "A várhoz közlekedő kis turistavonat csak a főszezonban jár."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie de întoarcere.",
+          "Un bilet de o zi este de obicei mai ieftin decât biletele individuale.",
+          "Autobuzele sunt punctuale, așa că fiți la stație la timp.",
+          "Trenulețul turistic spre castel circulă doar în sezonul de vârf."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially for the last return trip.",
+          "A day pass is usually cheaper than single tickets.",
+          "The buses are punctual, so be at the stop on time.",
+          "The little tourist train to the castle only runs in high season."
+        ]
+      }
+    }
+  }
+}

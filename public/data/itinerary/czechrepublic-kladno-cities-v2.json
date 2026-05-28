@@ -1,0 +1,1508 @@
+{
+  "city_id": "czechrepublic-kladno-cities-v2",
+  "anchor": {
+    "name": "Kladno",
+    "coords": [
+      14.1028,
+      50.1473
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Náměstí Starosty Pavla",
+            "hu": "Érkezés a Fő térre (Náměstí Starosty Pavla)",
+            "ro": "Sosire în Piața Primarului Pavel (Náměstí Starosty Pavla)",
+            "en": "Arrival at Mayor Pavel Square (Náměstí Starosty Pavla)"
+          },
+          "coords": [
+            14.1028,
+            50.1473
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee in einem der lokalen Cafés.",
+            "hu": "Indítsa a napot egy kávéval a tér egyik helyi kávézójában!",
+            "ro": "Începeți ziua aici cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day here with a coffee at one of the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariensäule und Rathaus",
+            "hu": "Mária-oszlop és Városháza",
+            "ro": "Coloana Mariană și Primăria",
+            "en": "Marian Column and Town Hall"
+          },
+          "coords": [
+            14.1025,
+            50.1476
+          ],
+          "category": "monuments",
+          "arrive_at": "09:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Statue und die Architektur des Rathauses.",
+            "hu": "Csodálja meg a barokk szobrot és a városháza építészetét!",
+            "ro": "Admirați statuia barocă și arhitectura primăriei.",
+            "en": "Admire the baroque statue and the architecture of the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Laurentius-Kirche",
+            "hu": "Szent Lőrinc-templom",
+            "ro": "Biserica Sfântul Laurențiu",
+            "en": "Church of St. Lawrence"
+          },
+          "coords": [
+            14.1045,
+            50.1485
+          ],
+          "category": "churches",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Deckenmalerei im Inneren der Kirche.",
+            "hu": "Keresse a lenyűgöző mennyezetfreskót a templom belsejében!",
+            "ro": "Fiți atenți la pictura impresionantă de pe tavanul din interiorul bisericii.",
+            "en": "Look for the impressive ceiling painting inside the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Kladno",
+            "hu": "Kladnói kastély",
+            "ro": "Castelul Kladno",
+            "en": "Kladno Chateau"
+          },
+          "coords": [
+            14.1005,
+            50.1495
+          ],
+          "category": "castles",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Schlosspark ist ideal für einen kurzen, entspannten Spaziergang.",
+            "hu": "A kastélypark ideális egy rövid, pihentető sétához.",
+            "ro": "Parcul castelului este ideal pentru o scurtă plimbare relaxantă.",
+            "en": "The castle park is ideal for a short, relaxing walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            14.1015,
+            50.147
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie die böhmische Küche in einem Restaurant nahe dem Hauptplatz.",
+            "hu": "Kóstolja meg a cseh konyhát egy, a főtérhez közeli étteremben!",
+            "ro": "Încercați bucătăria cehă la un restaurant de lângă piața principală.",
+            "en": "Try Czech cuisine at a restaurant near the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum Mayrau",
+            "hu": "Mayrau Bányászati Múzeum",
+            "ro": "Muzeul Minier Mayrau",
+            "en": "Mayrau Mining Museum"
+          },
+          "coords": [
+            14.138,
+            50.129
+          ],
+          "category": "museums",
+          "arrive_at": "14:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die authentische Stollenatmosphäre zu erleben.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megtapasztalja az autentikus bánya-hangulatot!",
+            "ro": "Participați la un tur ghidat pentru a experimenta atmosfera autentică a minei.",
+            "en": "Take a guided tour to experience the authentic mine atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung im Sítenské-Tal",
+            "hu": "Pihenés a Sítenské-völgyben",
+            "ro": "Relaxare în Valea Sítenské",
+            "en": "Relaxation in the Sítenské Valley"
+          },
+          "coords": [
+            14.095,
+            50.151
+          ],
+          "category": "parks",
+          "arrive_at": "16:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekter Ort, um den Tag ausklingen zu lassen und die Natur zu genießen.",
+            "hu": "Tökéletes hely a nap lezárásához és a természet élvezetéhez.",
+            "ro": "Locul perfect pentru a încheia ziua și a vă bucura de natură.",
+            "en": "The perfect place to end the day and enjoy nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Kladno beginnt am belebten Hauptplatz, wo Sie das Rathaus und die Mariensäule bewundern. Vormittags erkunden Sie das kulturelle Herz der Stadt mit einem Besuch der St.-Laurentius-Kirche und des imposanten Schlosses. Nach einem herzhaften böhmischen Mittagessen tauchen Sie in die Industriegeschichte der Region im Bergbaumuseum Mayrau ein. Den Nachmittag lassen Sie entspannt im grünen Sítenské-Tal ausklingen, einem perfekten Ort, um die Eindrücke des Tages Revue passieren zu lassen und die lokale Atmosphäre zu genießen.",
+        "hu": "A kladnói nap a nyüzsgő főtéren indul, ahol megcsodálhatja a városházát és a Mária-oszlopot. Délelőtt a város kulturális szívét fedezi fel a Szent Lőrinc-templom és az impozáns kastély meglátogatásával. Egy kiadós cseh ebéd után a Mayrau Bányászati Múzeumban merül el a régió ipari történelmében. A délutánt a zöld Sítenské-völgyben zárja, amely tökéletes hely a nap élményeinek feldolgozására és a helyi hangulat élvezetére.",
+        "ro": "Ziua dumneavoastră în Kladno începe în piața principală plină de viață, admirând primăria și coloana mariană. Dimineața, explorați inima culturală a orașului vizitând Biserica Sf. Laurențiu și impunătorul castel. După un prânz boem consistent, vă cufundați în istoria industrială a regiunii la Muzeul Minier Mayrau. Încheiați după-amiaza relaxându-vă în Valea Sítenské, un loc perfect pentru a reflecta asupra impresiilor zilei și a vă bucura de atmosfera locală.",
+        "en": "Your day in Kladno begins at the bustling main square, admiring the Town Hall and Marian Column. In the morning, you'll explore the cultural heart of the city by visiting the St. Lawrence Church and the imposing chateau. After a hearty Bohemian lunch, you'll delve into the region's industrial history at the Mayrau Mining Museum. You'll end the afternoon relaxing in the green Sítenské Valley, a perfect spot to reflect on the day's experiences and soak in the local atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Rinderbraten in Sahnesauce, ein Muss in Böhmen."
+          },
+          {
+            "name": "Vepřo knedlo zelo",
+            "tip": "Schweinebraten mit Knödeln und Kraut, ein herzhafter Klassiker."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Probieren Sie das weltberühmte tschechische Bier direkt von der Quelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Vadas marhaszelet tejszínes mártással, kötelező Csehországban."
+          },
+          {
+            "name": "Vepřo knedlo zelo",
+            "tip": "Sertéssült knédlivel és káposztával, egy kiadós klasszikus."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Kóstolja meg a világhírű cseh sört egyenesen a forrás közeléből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Friptură de vită în sos de smântână, o necesitate în Boemia."
+          },
+          {
+            "name": "Vepřo knedlo zelo",
+            "tip": "Friptură de porc cu găluște și varză, un clasic consistent."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Gustați renumita bere cehă direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Beef sirloin in cream sauce, a must-try in Bohemia."
+          },
+          {
+            "name": "Vepřo knedlo zelo",
+            "tip": "Roast pork with dumplings and cabbage, a hearty classic."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Try the world-famous Czech beer straight from the source."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sítenské údolí",
+            "tip": "Ein ruhiges Tal, ideal für einen Spaziergang und um dem Stadtlärm zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie eine ruhige Bank im Park des Schlosses Kladno.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Teiches",
+            "tip": "Ein stiller Moment an einem der kleinen Teiche im Sítenské-Tal.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sítenské-völgy",
+            "tip": "Csendes völgy, ideális egy sétához és a város zajától való elszakadáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kastélypark",
+            "tip": "Keressen egy csendes padot a kladnói kastély parkjában.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tópart",
+            "tip": "Egy csendes pillanat a Sítenské-völgy egyik kis tavának partján.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Sítenské",
+            "tip": "O vale liniștită, ideală pentru o plimbare și pentru a scăpa de zgomotul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul castelului",
+            "tip": "Găsiți o bancă liniștită în parcul Castelului Kladno.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul iazului",
+            "tip": "Un moment de liniște pe malul unuia dintre micile iazuri din Valea Sítenské.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sítenské Valley",
+            "tip": "A quiet valley, ideal for a walk and escaping the city noise.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chateau Park",
+            "tip": "Find a quiet bench in the park of Kladno Chateau.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pond shore",
+            "tip": "A quiet moment by one of the small ponds in the Sítenské Valley.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach Bauernmärkten für frische Produkte und lokale Spezialitäten."
+          },
+          {
+            "name": "Souvenirläden",
+            "tip": "In der Nähe des Schlosses finden Sie kleine Läden mit handgefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen termelői piacokat friss árukért és helyi különlegességekért."
+          },
+          {
+            "name": "Ajándékboltok",
+            "tip": "A kastély közelében kis boltokat talál kézműves ajándéktárgyakkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețe agricole pentru produse proaspete și specialități locale."
+          },
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Lângă castel veți găsi mici magazine cu suveniruri artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for farmer's markets for fresh produce and local specialties."
+          },
+          {
+            "name": "Souvenir Shops",
+            "tip": "Near the chateau, you'll find small shops with handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel zu Fuß unterwegs sein werden.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie genügend Zeit für das Bergbaumuseum ein; es ist größer als es scheint.",
+          "Prüfen Sie die Öffnungszeiten, insbesondere für das Schloss und das Museum."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog.",
+          "Tervezzen elég időt a Bányászati Múzeumra; nagyobb, mint amilyennek látszik.",
+          "Ellenőrizze a nyitvatartási időket, különösen a kastély és a múzeum esetében."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați suficient timp pentru Muzeul Minier; este mai mare decât pare.",
+          "Verificați orele de program, în special pentru castel și muzeu."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Most central sights are easily reachable on foot.",
+          "Plan enough time for the Mining Museum; it's larger than it seems.",
+          "Check the opening hours, especially for the chateau and the museum."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 11.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Náměstí Starosty Pavla",
+            "hu": "Indulás a Fő térről (Náměstí Starosty Pavla)",
+            "ro": "Pornire din Piața Primarului Pavel (Náměstí Starosty Pavla)",
+            "en": "Start at Mayor Pavel Square (Náměstí Starosty Pavla)"
+          },
+          "coords": [
+            14.1028,
+            50.1473
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den Platz zu Fuß.",
+            "hu": "Zárja le a kerékpárt és fedezze fel a teret gyalog.",
+            "ro": "Parcați bicicleta și explorați piața pe jos.",
+            "en": "Park your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und St.-Laurentius-Kirche",
+            "hu": "Városháza és Szent Lőrinc-templom",
+            "ro": "Primăria și Biserica Sfântul Laurențiu",
+            "en": "Town Hall and Church of St. Lawrence"
+          },
+          "coords": [
+            14.1035,
+            50.1481
+          ],
+          "category": "landmark",
+          "arrive_at": "09:23",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Diese beiden wichtigen Gebäude liegen nur einen kurzen Spaziergang voneinander entfernt.",
+            "hu": "Ez a két fontos épület csak egy rövid sétatávolságra van egymástól.",
+            "ro": "Aceste două clădiri importante sunt la doar o scurtă plimbare una de cealaltă.",
+            "en": "These two important buildings are just a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Schloss Kladno",
+            "hu": "Kerékpárral a Kladnói kastélyhoz",
+            "ro": "Plimbare cu bicicleta la Castelul Kladno",
+            "en": "Ride to Kladno Chateau"
+          },
+          "coords": [
+            14.1005,
+            50.1495
+          ],
+          "category": "castles",
+          "arrive_at": "10:16",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die kurze Fahrt und erkunden Sie den Schlosshof.",
+            "hu": "Élvezze a rövid utat, és fedezze fel a kastély udvarát.",
+            "ro": "Bucurați-vă de scurta plimbare și explorați curtea castelului.",
+            "en": "Enjoy the short ride and explore the chateau's courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause",
+            "hu": "Ebédszünet",
+            "ro": "Pauză de prânz",
+            "en": "Lunch Break"
+          },
+          "coords": [
+            14.101,
+            50.1475
+          ],
+          "category": "gastro",
+          "arrive_at": "11:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt viele gute Restaurants rund um das Zentrum.",
+            "hu": "Sok jó étterem található a központ környékén.",
+            "ro": "Există multe restaurante bune în jurul centrului.",
+            "en": "There are many good restaurants around the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour zum Bergbaumuseum Mayrau",
+            "hu": "Kerékpártúra a Mayrau Bányászati Múzeumhoz",
+            "ro": "Tur cu bicicleta la Muzeul Minier Mayrau",
+            "en": "Bike tour to the Mayrau Mining Museum"
+          },
+          "coords": [
+            14.138,
+            50.129
+          ],
+          "category": "museums",
+          "arrive_at": "13:06",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour führt Sie aus der Stadt hinaus in die Industriegeschichte.",
+            "hu": "A kerékpártúra kivisz a városból az ipari történelembe.",
+            "ro": "Turul cu bicicleta vă duce în afara orașului, în istoria industrială.",
+            "en": "The bike tour takes you out of the city and into industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Sítenské-Tal",
+            "hu": "Kerékpárral a Sítenské-völgybe",
+            "ro": "Plimbare cu bicicleta în Valea Sítenské",
+            "en": "Ride to the Sítenské Valley"
+          },
+          "coords": [
+            14.095,
+            50.151
+          ],
+          "category": "parks",
+          "arrive_at": "15:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 6.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nutzen Sie die Radwege, die durch dieses schöne Tal führen.",
+            "hu": "Használja a gyönyörű völgyön átvezető kerékpárutakat!",
+            "ro": "Folosiți pistele de biciclete care traversează această vale frumoasă.",
+            "en": "Use the bike paths that run through this beautiful valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater Kladno",
+            "hu": "Kladnói Városi Színház",
+            "ro": "Teatrul Municipal Kladno",
+            "en": "Kladno Municipal Theatre"
+          },
+          "coords": [
+            14.099,
+            50.1465
+          ],
+          "category": "theatres",
+          "arrive_at": "16:49",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Blick auf dieses historische Kulturgebäude.",
+            "hu": "Fejezze be a túrát egy pillantással erre a történelmi kulturális épületre!",
+            "ro": "Încheiați turul cu o privire la această clădire culturală istorică.",
+            "en": "End your tour with a look at this historic cultural building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Erkundung am Hauptplatz von Kladno. Am Vormittag radeln Sie zu den wichtigsten Sehenswürdigkeiten im Zentrum, darunter das Schloss und die St.-Laurentius-Kirche. Nach dem Mittagessen führt Sie eine längere Tour zum faszinierenden Bergbaumuseum Mayrau, wo Sie in die Vergangenheit der Region eintauchen. Zum Abschluss des Tages radeln Sie durch das malerische Sítenské-Tal, genießen die frische Luft und beenden Ihre Tour mit einem Blick auf das Stadttheater.",
+        "hu": "Pattanjon nyeregbe, és kezdje a felfedezést Kladno főterén! Délelőtt tekerjen el a központ legfontosabb látnivalóihoz, köztük a kastélyhoz és a Szent Lőrinc-templomhoz. Ebéd után egy hosszabb túra vezet a lenyűgöző Mayrau Bányászati Múzeumhoz, ahol elmerülhet a régió múltjában. A nap végén kerekezzen át a festői Sítenské-völgyön, élvezze a friss levegőt, és fejezze be a túrát a Városi Színház megtekintésével.",
+        "ro": "Urcați-vă pe bicicletă și începeți explorarea din piața principală a orașului Kladno. Dimineața, pedalați spre principalele atracții din centru, inclusiv castelul și Biserica Sf. Laurențiu. După prânz, un tur mai lung vă va duce la fascinantul Muzeu Minier Mayrau, unde veți pătrunde în trecutul regiunii. La sfârșitul zilei, pedalați prin pitoreasca Vale Sítenské, bucurați-vă de aerul curat și încheiați turul cu o privire la Teatrul Municipal.",
+        "en": "Hop on your bike and start your exploration at Kladno's main square. In the morning, you'll cycle to the main sights in the center, including the chateau and St. Lawrence Church. After lunch, a longer tour takes you to the fascinating Mayrau Mining Museum, where you'll delve into the region's past. To end the day, cycle through the scenic Sítenské Valley, enjoy the fresh air, and finish your tour with a look at the Municipal Theatre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Rinderbraten in Sahnesauce, ein Muss in Böhmen."
+          },
+          {
+            "name": "Vepřo knedlo zelo",
+            "tip": "Schweinebraten mit Knödeln und Kraut, ein herzhafter Klassiker."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Probieren Sie das weltberühmte tschechische Bier direkt von der Quelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Vadas marhaszelet tejszínes mártással, kötelező Csehországban."
+          },
+          {
+            "name": "Vepřo knedlo zelo",
+            "tip": "Sertéssült knédlivel és káposztával, egy kiadós klasszikus."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Kóstolja meg a világhírű cseh sört egyenesen a forrás közeléből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Friptură de vită în sos de smântână, o necesitate în Boemia."
+          },
+          {
+            "name": "Vepřo knedlo zelo",
+            "tip": "Friptură de porc cu găluște și varză, un clasic consistent."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Gustați renumita bere cehă direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Beef sirloin in cream sauce, a must-try in Bohemia."
+          },
+          {
+            "name": "Vepřo knedlo zelo",
+            "tip": "Roast pork with dumplings and cabbage, a hearty classic."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Try the world-famous Czech beer straight from the source."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sítenské údolí",
+            "tip": "Ein ruhiges Tal, ideal für einen Spaziergang und um dem Stadtlärm zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie eine ruhige Bank im Park des Schlosses Kladno.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Teiches",
+            "tip": "Ein stiller Moment an einem der kleinen Teiche im Sítenské-Tal.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sítenské-völgy",
+            "tip": "Csendes völgy, ideális egy sétához és a város zajától való elszakadáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kastélypark",
+            "tip": "Keressen egy csendes padot a kladnói kastély parkjában.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tópart",
+            "tip": "Egy csendes pillanat a Sítenské-völgy egyik kis tavának partján.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Sítenské",
+            "tip": "O vale liniștită, ideală pentru o plimbare și pentru a scăpa de zgomotul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul castelului",
+            "tip": "Găsiți o bancă liniștită în parcul Castelului Kladno.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul iazului",
+            "tip": "Un moment de liniște pe malul unuia dintre micile iazuri din Valea Sítenské.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sítenské Valley",
+            "tip": "A quiet valley, ideal for a walk and escaping the city noise.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chateau Park",
+            "tip": "Find a quiet bench in the park of Kladno Chateau.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pond shore",
+            "tip": "A quiet moment by one of the small ponds in the Sítenské Valley.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach Bauernmärkten für frische Produkte und lokale Spezialitäten."
+          },
+          {
+            "name": "Souvenirläden",
+            "tip": "In der Nähe des Schlosses finden Sie kleine Läden mit handgefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen termelői piacokat friss árukért és helyi különlegességekért."
+          },
+          {
+            "name": "Ajándékboltok",
+            "tip": "A kastély közelében kis boltokat talál kézműves ajándéktárgyakkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețe agricole pentru produse proaspete și specialități locale."
+          },
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Lângă castel veți găsi mici magazine cu suveniruri artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for farmer's markets for fresh produce and local specialties."
+          },
+          {
+            "name": "Souvenir Shops",
+            "tip": "Near the chateau, you'll find small shops with handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Einige Straßen im Zentrum können Kopfsteinpflaster haben.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, wenn Sie es abstellen.",
+          "Nehmen Sie eine Wasserflasche mit, besonders für die längere Fahrt zum Museum."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Néhány belvárosi utca macskaköves lehet.",
+          "Mindig gondosan zárja le a kerékpárt, ha leparkolja.",
+          "Vigyen magával vizet, különösen a múzeumhoz vezető hosszabb útra."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Unele străzi din centru pot fi pavate cu piatră cubică.",
+          "Încuiati-vă întotdeauna bicicleta în siguranță când o parcați.",
+          "Luați o sticlă de apă, mai ales pentru drumul mai lung până la muzeu."
+        ],
+        "en": [
+          "Check your bike before you leave.",
+          "Some streets in the center may have cobblestones.",
+          "Always lock your bike securely when you park it.",
+          "Bring a water bottle, especially for the longer ride to the museum."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Parken im Zentrum",
+            "hu": "Érkezés és parkolás a központban",
+            "ro": "Sosire și parcare în centru",
+            "en": "Arrival & Parking in the Center"
+          },
+          "coords": [
+            14.1028,
+            50.1473
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Hauptplatzes und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon a főtér közelében, és fedezze fel az első látnivaló-csoportot gyalog.",
+            "ro": "Parcați lângă piața principală și explorați primul grup de atracții pe jos.",
+            "en": "Park near the main square and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Rathaus und Mariensäule",
+            "hu": "Séta: Városháza és Mária-oszlop",
+            "ro": "Plimbare: Primăria și Coloana Mariană",
+            "en": "Walk: Town Hall and Marian Column"
+          },
+          "coords": [
+            14.1025,
+            50.1476
+          ],
+          "category": "landmark",
+          "arrive_at": "09:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Alles liegt kompakt am Hauptplatz.",
+            "hu": "Minden kompakt módon a főtéren található.",
+            "ro": "Totul este situat compact în piața principală.",
+            "en": "Everything is compactly located on the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: St.-Laurentius-Kirche",
+            "hu": "Séta: Szent Lőrinc-templom",
+            "ro": "Plimbare: Biserica Sfântul Laurențiu",
+            "en": "Walk: Church of St. Lawrence"
+          },
+          "coords": [
+            14.1045,
+            50.1485
+          ],
+          "category": "churches",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz zur wichtigsten Kirche der Stadt.",
+            "hu": "Rövid séta a tértől a város legfontosabb templomáig.",
+            "ro": "O scurtă plimbare din piață până la cea mai importantă biserică a orașului.",
+            "en": "A short walk from the square to the city's most important church."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Schloss Kladno & Park",
+            "hu": "Autóval a Kladnói kastélyhoz és parkhoz",
+            "ro": "Cu mașina la Castelul Kladno și parc",
+            "en": "Drive to Kladno Chateau & Park"
+          },
+          "coords": [
+            14.1005,
+            50.1495
+          ],
+          "category": "castles",
+          "arrive_at": "10:43",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie erneut und genießen Sie das Schloss und das nahegelegene Sítenské-Tal.",
+            "hu": "Parkoljon le újra, és élvezze a kastélyt és a közeli Sítenské-völgyet.",
+            "ro": "Parcați din nou și bucurați-vă de castel și de Valea Sítenské din apropiere.",
+            "en": "Park again and enjoy the chateau and the nearby Sítenské Valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Sítenské-Tal",
+            "hu": "Séta: Sítenské-völgy",
+            "ro": "Plimbare: Valea Sítenské",
+            "en": "Walk: Sítenské Valley"
+          },
+          "coords": [
+            14.095,
+            50.151
+          ],
+          "category": "parks",
+          "arrive_at": "12:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein erfrischender Spaziergang vor dem Mittagessen.",
+            "hu": "Egy frissítő séta ebéd előtt.",
+            "ro": "O plimbare revigorantă înainte de prânz.",
+            "en": "A refreshing walk before lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Bergbaumuseum Mayrau",
+            "hu": "Autóval a Mayrau Bányászati Múzeumhoz",
+            "ro": "Cu mașina la Muzeul Minier Mayrau",
+            "en": "Drive to Mayrau Mining Museum"
+          },
+          "coords": [
+            14.138,
+            50.129
+          ],
+          "category": "museums",
+          "arrive_at": "14:03",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Das Museum liegt außerhalb des Zentrums und ist am besten mit dem Auto erreichbar. Planen Sie ausreichend Zeit ein.",
+            "hu": "A múzeum a központon kívül található, és a legjobban autóval közelíthető meg. Tervezzen elegendő időt.",
+            "ro": "Muzeul este situat în afara centrului și este cel mai bine accesibil cu mașina. Planificați suficient timp.",
+            "en": "The museum is located outside the center and is best reached by car. Plan enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt und Abendessen",
+            "hu": "Visszaút és vacsora",
+            "ro": "Întoarcere și cină",
+            "en": "Return and Dinner"
+          },
+          "coords": [
+            14.1018,
+            50.1471
+          ],
+          "category": "gastro",
+          "arrive_at": "16:03",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum, um den Tag mit einem böhmischen Abendessen abzuschließen.",
+            "hu": "Vezessen vissza a központba, hogy a napot egy cseh vacsorával zárja.",
+            "ro": "Conduceți înapoi în centru pentru a încheia ziua cu o cină boemă.",
+            "en": "Drive back to the center to end the day with a Bohemian dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Zentrum von Kladno parken. Erkunden Sie den historischen Kern mit dem Rathaus und der Kirche zu Fuß. Am Vormittag fahren Sie zum Schloss Kladno, wo Sie das Anwesen und den angrenzenden Park erkunden. Nach dem Mittagessen führt Sie die Reise zum Highlight des Tages, dem Bergbaumuseum Mayrau, das einen tiefen Einblick in die industrielle Seele der Region bietet. Zum Abschluss kehren Sie ins Stadtzentrum zurück, um in einem traditionellen Restaurant die böhmische Küche zu genießen.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját Kladno központjában. Fedezze fel gyalog a történelmi magot a városházával és a templommal. Délelőtt vezessen el a Kladnói kastélyhoz, ahol felfedezheti a birtokot és a szomszédos parkot. Ebéd után az utazás a nap fénypontjához, a Mayrau Bányászati Múzeumhoz vezet, amely mély betekintést nyújt a régió ipari lelkébe. Végül térjen vissza a városközpontba, hogy egy hagyományos étteremben élvezze a cseh konyhát.",
+        "ro": "Începeți ziua parcându-vă mașina în centrul orașului Kladno. Explorați nucleul istoric cu primăria și biserica pe jos. Dimineața, conduceți la Castelul Kladno, unde explorați proprietatea și parcul adiacent. După prânz, călătoria vă duce la punctul culminant al zilei, Muzeul Minier Mayrau, care oferă o perspectivă profundă asupra sufletului industrial al regiunii. La final, reveniți în centrul orașului pentru a savura bucătăria boemă la un restaurant tradițional.",
+        "en": "Start your day by parking your car in the center of Kladno. Explore the historic core with its town hall and church on foot. In the morning, drive to Kladno Chateau, where you'll explore the estate and the adjacent park. After lunch, the journey takes you to the day's highlight, the Mayrau Mining Museum, which offers a deep insight into the region's industrial soul. Finally, return to the city center to enjoy Bohemian cuisine at a traditional restaurant."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Rinderbraten in Sahnesauce, ein Muss in Böhmen."
+          },
+          {
+            "name": "Vepřo knedlo zelo",
+            "tip": "Schweinebraten mit Knödeln und Kraut, ein herzhafter Klassiker."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Probieren Sie das weltberühmte tschechische Bier direkt von der Quelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Vadas marhaszelet tejszínes mártással, kötelező Csehországban."
+          },
+          {
+            "name": "Vepřo knedlo zelo",
+            "tip": "Sertéssült knédlivel és káposztával, egy kiadós klasszikus."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Kóstolja meg a világhírű cseh sört egyenesen a forrás közeléből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Friptură de vită în sos de smântână, o necesitate în Boemia."
+          },
+          {
+            "name": "Vepřo knedlo zelo",
+            "tip": "Friptură de porc cu găluște și varză, un clasic consistent."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Gustați renumita bere cehă direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Beef sirloin in cream sauce, a must-try in Bohemia."
+          },
+          {
+            "name": "Vepřo knedlo zelo",
+            "tip": "Roast pork with dumplings and cabbage, a hearty classic."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Try the world-famous Czech beer straight from the source."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sítenské údolí",
+            "tip": "Ein ruhiges Tal, ideal für einen Spaziergang und um dem Stadtlärm zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie eine ruhige Bank im Park des Schlosses Kladno.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Teiches",
+            "tip": "Ein stiller Moment an einem der kleinen Teiche im Sítenské-Tal.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sítenské-völgy",
+            "tip": "Csendes völgy, ideális egy sétához és a város zajától való elszakadáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kastélypark",
+            "tip": "Keressen egy csendes padot a kladnói kastély parkjában.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tópart",
+            "tip": "Egy csendes pillanat a Sítenské-völgy egyik kis tavának partján.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Sítenské",
+            "tip": "O vale liniștită, ideală pentru o plimbare și pentru a scăpa de zgomotul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul castelului",
+            "tip": "Găsiți o bancă liniștită în parcul Castelului Kladno.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul iazului",
+            "tip": "Un moment de liniște pe malul unuia dintre micile iazuri din Valea Sítenské.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sítenské Valley",
+            "tip": "A quiet valley, ideal for a walk and escaping the city noise.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chateau Park",
+            "tip": "Find a quiet bench in the park of Kladno Chateau.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pond shore",
+            "tip": "A quiet moment by one of the small ponds in the Sítenské Valley.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach Bauernmärkten für frische Produkte und lokale Spezialitäten."
+          },
+          {
+            "name": "Souvenirläden",
+            "tip": "In der Nähe des Schlosses finden Sie kleine Läden mit handgefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen termelői piacokat friss árukért és helyi különlegességekért."
+          },
+          {
+            "name": "Ajándékboltok",
+            "tip": "A kastély közelében kis boltokat talál kézműves ajándéktárgyakkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețe agricole pentru produse proaspete și specialități locale."
+          },
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Lângă castel veți găsi mici magazine cu suveniruri artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for farmer's markets for fresh produce and local specialties."
+          },
+          {
+            "name": "Souvenir Shops",
+            "tip": "Near the chateau, you'll find small shops with handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über Parkmöglichkeiten und -gebühren.",
+          "Planen Sie die Cluster-Walking-Philosophie: Parken und zu Fuß gehen.",
+          "Das Bergbaumuseum liegt außerhalb und erfordert eine eigene Fahrt.",
+          "Verkehr kann zu Stoßzeiten zunehmen; planen Sie entsprechend."
+        ],
+        "hu": [
+          "Előzetesen tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "Tervezzen a „cluster-walking” filozófia szerint: parkoljon és sétáljon.",
+          "A Bányászati Múzeum kívül esik, és külön utazást igényel.",
+          "A forgalom csúcsidőben megnőhet; tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Informați-vă în avans despre opțiunile de parcare și taxe.",
+          "Planificați conform filozofiei cluster-walking: parcați și mergeți pe jos.",
+          "Muzeul Minier este în afara orașului și necesită o călătorie separată.",
+          "Traficul poate crește la orele de vârf; planificați în consecință."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "Plan according to the cluster-walking philosophy: park and walk.",
+          "The Mining Museum is located outside and requires a separate drive.",
+          "Traffic can increase during peak hours; plan accordingly."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Hauptplatz",
+            "hu": "Érkezés a főtérre",
+            "ro": "Sosire în piața principală",
+            "en": "Arrival at the Main Square"
+          },
+          "coords": [
+            14.1028,
+            50.1473
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Hauptplatz ist ein zentraler Knotenpunkt für viele Buslinien.",
+            "hu": "A főtér számos buszjárat központi csomópontja.",
+            "ro": "Piața principală este un nod central pentru multe linii de autobuz.",
+            "en": "The main square is a central hub for many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Rathaus und St.-Laurentius-Kirche",
+            "hu": "Séta: Városháza és Szent Lőrinc-templom",
+            "ro": "Plimbare: Primăria și Biserica Sf. Laurențiu",
+            "en": "Walk: Town Hall and Church of St. Lawrence"
+          },
+          "coords": [
+            14.1038,
+            50.148
+          ],
+          "category": "landmark",
+          "arrive_at": "09:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese Sehenswürdigkeiten sind vom Hauptplatz aus leicht zu Fuß erreichbar.",
+            "hu": "Ezek a látnivalók könnyen elérhetők gyalog a főtérről.",
+            "ro": "Aceste atracții sunt ușor accesibile pe jos din piața principală.",
+            "en": "These sights are easily accessible on foot from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Schloss Kladno",
+            "hu": "Busszal a Kladnói kastélyhoz",
+            "ro": "Cu autobuzul la Castelul Kladno",
+            "en": "Bus to Kladno Chateau"
+          },
+          "coords": [
+            14.1005,
+            50.1495
+          ],
+          "category": "castles",
+          "arrive_at": "10:44",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus für die kurze Fahrt zum Schloss.",
+            "hu": "Vegyen igénybe egy helyi buszt a kastélyhoz vezető rövid útra.",
+            "ro": "Luați un autobuz local pentru scurta călătorie până la castel.",
+            "en": "Take a local bus for the short ride to the chateau."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Schlosses",
+            "hu": "Ebéd a kastély közelében",
+            "ro": "Prânz lângă castel",
+            "en": "Lunch near the chateau"
+          },
+          "coords": [
+            14.1012,
+            50.1488
+          ],
+          "category": "gastro",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt einige charmante Restaurants in der Umgebung des Schlosses.",
+            "hu": "A kastély környékén található néhány bájos étterem.",
+            "ro": "Există câteva restaurante fermecătoare în zona castelului.",
+            "en": "There are some charming restaurants in the area of the chateau."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Bergbaumuseum Mayrau",
+            "hu": "Busszal a Mayrau Bányászati Múzeumhoz",
+            "ro": "Cu autobuzul la Muzeul Minier Mayrau",
+            "en": "Bus to Mayrau Mining Museum"
+          },
+          "coords": [
+            14.138,
+            50.129
+          ],
+          "category": "museums",
+          "arrive_at": "14:04",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Informieren Sie sich über die Busverbindung, da das Museum außerhalb liegt.",
+            "hu": "Tájékozódjon a buszjárattal kapcsolatban, mivel a múzeum a városon kívül van.",
+            "ro": "Verificați legătura de autobuz, deoarece muzeul este situat în afara orașului.",
+            "en": "Check the bus connection as the museum is located outside the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Entspannen im Sítenské-Tal",
+            "hu": "Vissza a pihenéshez a Sítenské-völgybe",
+            "ro": "Înapoi pentru relaxare în Valea Sítenské",
+            "en": "Back to relax in Sítenské Valley"
+          },
+          "coords": [
+            14.095,
+            50.151
+          ],
+          "category": "parks",
+          "arrive_at": "16:28",
+          "stay_min": 70,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer Busfahrt zu diesem friedlichen Park.",
+            "hu": "Zárja a napot egy buszúttal ehhez a békés parkhoz.",
+            "ro": "Încheiați ziua cu o călătorie cu autobuzul până la acest parc liniștit.",
+            "en": "End the day with a bus ride to this peaceful park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Kladnos öffentliches Verkehrsnetz, um die Stadt zu erkunden. Beginnen Sie am Hauptplatz und spazieren Sie zu den nahegelegenen Sehenswürdigkeiten. Nehmen Sie dann einen Bus zum Schloss Kladno, um das Anwesen zu besichtigen. Nach dem Mittagessen bringt Sie ein anderer Bus zum Bergbaumuseum Mayrau, einem wichtigen Ort des industriellen Erbes. Beenden Sie Ihren Erkundungstag mit einer entspannten Zeit im Sítenské-Tal, das ebenfalls mit dem Bus erreichbar ist.",
+        "hu": "Használja Kladno tömegközlekedési hálózatát a város felfedezéséhez. Kezdje a főtéren, és sétáljon el a közeli látnivalókhoz. Ezután szálljon buszra a Kladnói kastélyhoz, hogy megtekintse a birtokot. Ebéd után egy másik busz elviszi Önt a Mayrau Bányászati Múzeumba, az ipari örökség fontos helyszínére. Zárja a felfedezéssel töltött napot egy pihentető időtöltéssel a Sítenské-völgyben, amely szintén busszal érhető el.",
+        "ro": "Folosiți rețeaua de transport public din Kladno pentru a explora orașul. Începeți din piața principală și plimbați-vă la atracțiile din apropiere. Apoi, luați un autobuz până la Castelul Kladno pentru a vizita proprietatea. După prânz, un alt autobuz vă va duce la Muzeul Minier Mayrau, un sit important al patrimoniului industrial. Încheiați-vă ziua de explorare cu un moment de relaxare în Valea Sítenské, accesibilă tot cu autobuzul.",
+        "en": "Use Kladno's public transport network to explore the city. Start at the main square and walk to the nearby attractions. Then, take a bus to Kladno Chateau to visit the estate. After lunch, another bus will take you to the Mayrau Mining Museum, an important site of industrial heritage. End your day of exploration with some relaxing time in the Sítenské Valley, also accessible by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Rinderbraten in Sahnesauce, ein Muss in Böhmen."
+          },
+          {
+            "name": "Vepřo knedlo zelo",
+            "tip": "Schweinebraten mit Knödeln und Kraut, ein herzhafter Klassiker."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Probieren Sie das weltberühmte tschechische Bier direkt von der Quelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Vadas marhaszelet tejszínes mártással, kötelező Csehországban."
+          },
+          {
+            "name": "Vepřo knedlo zelo",
+            "tip": "Sertéssült knédlivel és káposztával, egy kiadós klasszikus."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Kóstolja meg a világhírű cseh sört egyenesen a forrás közeléből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Friptură de vită în sos de smântână, o necesitate în Boemia."
+          },
+          {
+            "name": "Vepřo knedlo zelo",
+            "tip": "Friptură de porc cu găluște și varză, un clasic consistent."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Gustați renumita bere cehă direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Beef sirloin in cream sauce, a must-try in Bohemia."
+          },
+          {
+            "name": "Vepřo knedlo zelo",
+            "tip": "Roast pork with dumplings and cabbage, a hearty classic."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Try the world-famous Czech beer straight from the source."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sítenské údolí",
+            "tip": "Ein ruhiges Tal, ideal für einen Spaziergang und um dem Stadtlärm zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie eine ruhige Bank im Park des Schlosses Kladno.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Teiches",
+            "tip": "Ein stiller Moment an einem der kleinen Teiche im Sítenské-Tal.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sítenské-völgy",
+            "tip": "Csendes völgy, ideális egy sétához és a város zajától való elszakadáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kastélypark",
+            "tip": "Keressen egy csendes padot a kladnói kastély parkjában.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tópart",
+            "tip": "Egy csendes pillanat a Sítenské-völgy egyik kis tavának partján.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Sítenské",
+            "tip": "O vale liniștită, ideală pentru o plimbare și pentru a scăpa de zgomotul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul castelului",
+            "tip": "Găsiți o bancă liniștită în parcul Castelului Kladno.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul iazului",
+            "tip": "Un moment de liniște pe malul unuia dintre micile iazuri din Valea Sítenské.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sítenské Valley",
+            "tip": "A quiet valley, ideal for a walk and escaping the city noise.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chateau Park",
+            "tip": "Find a quiet bench in the park of Kladno Chateau.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pond shore",
+            "tip": "A quiet moment by one of the small ponds in the Sítenské Valley.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach Bauernmärkten für frische Produkte und lokale Spezialitäten."
+          },
+          {
+            "name": "Souvenirläden",
+            "tip": "In der Nähe des Schlosses finden Sie kleine Läden mit handgefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen termelői piacokat friss árukért és helyi különlegességekért."
+          },
+          {
+            "name": "Ajándékboltok",
+            "tip": "A kastély közelében kis boltokat talál kézműves ajándéktárgyakkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețe agricole pentru produse proaspete și specialități locale."
+          },
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Lângă castel veți găsi mici magazine cu suveniruri artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for farmer's markets for fresh produce and local specialties."
+          },
+          {
+            "name": "Souvenir Shops",
+            "tip": "Near the chateau, you'll find small shops with handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere für Fahrten außerhalb des Zentrums.",
+          "Haben Sie etwas Kleingeld für Tickets bereit, falls Sie sie im Bus kaufen.",
+          "Die App für den öffentlichen Nahverkehr kann bei der Routenplanung sehr hilfreich sein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a buszmenetrendeket, különösen a központon kívüli utazásokhoz.",
+          "Legyen Önnél aprópénz a jegyekhez, ha a buszon vásárolja meg őket.",
+          "A tömegközlekedési alkalmazás nagyon hasznos lehet az útvonaltervezésben."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați din timp orarele autobuzelor, mai ales pentru călătoriile în afara centrului.",
+          "Aveți la îndemână mărunțiș pentru bilete în cazul în care le cumpărați din autobuz.",
+          "Aplicația de transport public poate fi foarte utilă în planificarea rutelor."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Check bus schedules in advance, especially for trips outside the center.",
+          "Have some small change ready for tickets if you buy them on the bus.",
+          "The public transport app can be very helpful for route planning."
+        ]
+      }
+    }
+  }
+}

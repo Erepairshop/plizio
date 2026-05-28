@@ -1,0 +1,1164 @@
+{
+  "city_id": "northmacedonia-radovis-cities-v2",
+  "anchor": {
+    "name": "Radowisch",
+    "coords": [
+      22.4678,
+      41.6369
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz Radoviš",
+            "hu": "Radoviš Főtere",
+            "ro": "Piața Centrală Radoviš",
+            "en": "Radoviš Town Square"
+          },
+          "coords": [
+            22.4675,
+            41.6365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag hier mit einem Kaffee und beobachten Sie das lokale Leben.",
+            "hu": "Indítsa a napot egy kávéval, és figyelje a helyi életet.",
+            "ro": "Începeți ziua aici cu o cafea și observați viața locală.",
+            "en": "Start your day here with a coffee and watch the local life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für Alexander den Großen",
+            "hu": "Nagy Sándor Emlékműve",
+            "ro": "Monumentul lui Alexandru cel Mare",
+            "en": "Monument of Alexander the Great"
+          },
+          "coords": [
+            22.4672,
+            41.6368
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:41",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein beliebter Fotopunkt im Herzen der Stadt.",
+            "hu": "Népszerű fotópont a város szívében.",
+            "ro": "Un loc popular pentru fotografii în inima orașului.",
+            "en": "A popular photo spot in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Uhrturm",
+            "hu": "Történelmi Óratorony",
+            "ro": "Turnul cu Ceas Istoric",
+            "en": "Historical Clock Tower"
+          },
+          "coords": [
+            22.468,
+            41.637
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:04",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen von Radoviš, besonders schön bei Sonnenuntergang.",
+            "hu": "Radoviš jelképe, különösen szép naplementekor.",
+            "ro": "Simbolul orașului Radoviš, deosebit de frumos la apus.",
+            "en": "The landmark of Radoviš, especially beautiful at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság Templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Church of the Holy Trinity"
+          },
+          "coords": [
+            22.4669,
+            41.6372
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Ikonen und die friedliche Atmosphäre.",
+            "hu": "Csodálja meg a lenyűgöző ikonokat és a békés légkört.",
+            "ro": "Admirați icoanele impresionante și atmosfera liniștită.",
+            "en": "Admire the impressive icons and the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Aco Karamanov",
+            "hu": "Aco Karamanov Kulturális Központ",
+            "ro": "Centrul Cultural Aco Karamanov",
+            "en": "Aco Karamanov Cultural Center"
+          },
+          "coords": [
+            22.4655,
+            41.638
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über aktuelle Ausstellungen oder Veranstaltungen.",
+            "hu": "Érdeklődjön az aktuális kiállításokról vagy eseményekről.",
+            "ro": "Informați-vă despre expozițiile sau evenimentele curente.",
+            "en": "Check for any current exhibitions or events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am belebten Stadtplatz von Radoviš, dem Herzen der Stadt. Am Vormittag erkunden Sie die unmittelbare Umgebung mit dem Alexander-Denkmal und dem historischen Uhrturm. Gönnen Sie sich ein Mittagessen in einem der traditionellen Restaurants in der Nähe des Platzes. Der Nachmittag ist der Kultur gewidmet, mit einem Besuch der prächtigen Dreifaltigkeitskirche und einem längeren Aufenthalt im Kulturzentrum Aco Karamanov, um in die lokale Kunstszene einzutauchen. Beenden Sie den Tag entspannt in einem Café.",
+        "hu": "Kezdje a sétát Radoviš nyüzsgő főterén, a város szívében. Délelőtt fedezze fel a közvetlen környéket a Nagy Sándor-emlékművel és a történelmi óratoronnyal. Ebédeljen a tér közelében található hagyományos éttermek egyikében. A délután a kultúráé, látogasson el a csodálatos Szentháromság-templomba, majd töltsön több időt az Aco Karamanov Kulturális Központban, elmerülve a helyi művészeti életben. Zárja a napot egy pihentető kávéval egy kávézóban.",
+        "ro": "Începeți turul pietonal în Piața Centrală plină de viață din Radoviš, inima orașului. Dimineața, explorați împrejurimile imediate, inclusiv Monumentul lui Alexandru și Turnul cu Ceas istoric. Bucurați-vă de un prânz la unul dintre restaurantele tradiționale din apropierea pieței. După-amiaza este dedicată culturii, cu o vizită la magnifica Biserică Sfânta Treime și o oprire mai lungă la Centrul Cultural Aco Karamanov pentru a vă cufunda în scena artistică locală. Încheiați ziua relaxându-vă la o cafenea.",
+        "en": "Start your walking tour at the lively Radoviš Town Square, the heart of the city. In the morning, explore the immediate surroundings, including the Monument of Alexander and the Historical Clock Tower. Enjoy lunch at one of the traditional restaurants near the square. The afternoon is dedicated to culture, with a visit to the magnificent Holy Trinity Church and a longer stop at the Aco Karamanov Cultural Center to immerse yourself in the local art scene. End your day relaxing in a café."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavče Gravče",
+            "tip": "Probieren Sie dieses traditionelle mazedonische Gericht aus gebackenen Bohnen."
+          },
+          {
+            "name": "Restaurant Galija",
+            "tip": "Bekannt für seine exzellenten Grillgerichte und lokalen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavče Gravče",
+            "tip": "Kóstolja meg ezt a hagyományos macedón sült bab ételt."
+          },
+          {
+            "name": "Galija Étterem",
+            "tip": "Kiváló grillételeiről és helyi specialitásairól ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavče Gravče",
+            "tip": "Încercați acest fel de mâncare tradițional macedonean cu fasole la cuptor."
+          },
+          {
+            "name": "Restaurant Galija",
+            "tip": "Renumit pentru grătarele excelente și specialitățile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavče Gravče",
+            "tip": "Try this traditional Macedonian baked beans dish."
+          },
+          {
+            "name": "Restaurant Galija",
+            "tip": "Known for its excellent grilled dishes and local specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Fluss",
+            "tip": "Ein ruhiger Ort für einen Spaziergang entlang des Flusses Radoviška Reka.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel über der Stadt",
+            "tip": "Bietet eine schöne Aussicht und einen Moment der Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti park",
+            "tip": "Csendes hely egy sétához a Radoviška Reka folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Város feletti domb",
+            "tip": "Szép kilátást és egy pillanatnyi nyugalmat kínál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de pe râu",
+            "tip": "Un loc liniștit pentru o plimbare de-a lungul râului Radoviška Reka.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul de deasupra orașului",
+            "tip": "Oferă o priveliște frumoasă și un moment de liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Park",
+            "tip": "A quiet place for a stroll along the Radoviška Reka river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hill above the city",
+            "tip": "Offers a nice view and a moment of peace.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, Honig und lokale Handwerksprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, mézet és helyi kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, miere și produse de artizanat locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce, honey, and local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum leicht zu Fuß erkundet werden kann.",
+          "Die meisten Sehenswürdigkeiten sind nah beieinander, was einen entspannten Spaziergang ermöglicht.",
+          "Nehmen Sie sich Zeit für eine Kaffeepause in einem der vielen Cafés am Hauptplatz."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont könnyen bejárható gyalog.",
+          "A legtöbb látnivaló közel van egymáshoz, ami lehetővé teszi a pihentető sétát.",
+          "Szánjon időt egy kávészünetre a főtér számos kávézójának egyikében."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este ușor de explorat pe jos.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă, permițând o plimbare relaxantă.",
+          "Luați-vă timp pentru o pauză de cafea la una dintre numeroasele cafenele din piața principală."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is easily explored on foot.",
+          "Most sights are close to each other, allowing for a relaxed walk.",
+          "Take time for a coffee break in one of the many cafes on the main square."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz Radoviš",
+            "hu": "Radoviš Főtere",
+            "ro": "Piața Centrală Radoviš",
+            "en": "Radoviš Town Square"
+          },
+          "coords": [
+            22.4675,
+            41.6365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe und starten Sie Ihre Erkundungstour.",
+            "hu": "Béreljen kerékpárt a közelben, és kezdje meg a felfedezőutat.",
+            "ro": "Închiriați o bicicletă din apropiere și începeți explorarea.",
+            "en": "Rent a bike nearby and start your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Uhrturm & Dreifaltigkeitskirche",
+            "hu": "Történelmi Óratorony & Szentháromság Templom",
+            "ro": "Turnul cu Ceas & Biserica Sfânta Treime",
+            "en": "Clock Tower & Holy Trinity Church"
+          },
+          "coords": [
+            22.4678,
+            41.6371
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:36",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie diese beiden nahe gelegenen Wahrzeichen zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel gyalog ezt a két közeli nevezetességet.",
+            "ro": "Parcați bicicleta și explorați pe jos aceste două repere apropiate.",
+            "en": "Park your bike and explore these two nearby landmarks on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Flusses",
+            "hu": "Kerékpárút a folyó mentén",
+            "ro": "Plimbare de-a lungul râului",
+            "en": "Ride along the river"
+          },
+          "coords": [
+            22.48,
+            41.64
+          ],
+          "category": "region",
+          "arrive_at": "10:54",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannte Fahrt auf dem Weg aus der Stadt heraus.",
+            "hu": "Élvezze a pihentető utat a városból kifelé vezető úton.",
+            "ro": "Bucurați-vă de o plimbare relaxantă la ieșirea din oraș.",
+            "en": "Enjoy a relaxing ride on the way out of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Inževo-Kloster",
+            "hu": "Inževói Kolostor",
+            "ro": "Mănăstirea Inževo",
+            "en": "Inževo Monastery"
+          },
+          "coords": [
+            22.51,
+            41.65
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:09",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Ein spiritueller Ort mit einer reichen Geschichte. Planen Sie Zeit für die Besichtigung ein.",
+            "hu": "Spirituális hely, gazdag történelemmel. Tervezzen időt a látogatásra.",
+            "ro": "Un loc spiritual cu o istorie bogată. Planificați-vă timp pentru vizită.",
+            "en": "A spiritual place with a rich history. Plan for enough time to visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück im Zentrum zum Mittagessen",
+            "hu": "Vissza a központba ebédelni",
+            "ro": "Înapoi în centru pentru prânz",
+            "en": "Back to the center for lunch"
+          },
+          "coords": [
+            22.4682,
+            41.6367
+          ],
+          "category": "gastro",
+          "arrive_at": "14:07",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Nach der Rückkehr in die Stadt haben Sie sich ein herzhaftes mazedonisches Mittagessen verdient.",
+            "hu": "Miután visszatért a városba, megérdemel egy kiadós macedón ebédet.",
+            "ro": "După întoarcerea în oraș, meritați un prânz macedonean copios.",
+            "en": "After returning to the city, you've earned a hearty Macedonian lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am Stadtplatz, dem idealen Ausgangspunkt. Am Morgen erkunden Sie die zentralen Highlights wie den Uhrturm und die Dreifaltigkeitskirche, bevor Sie eine malerische Fahrt entlang des Flusses Radoviška Reka unternehmen. Das Hauptziel des Tages ist das friedliche Inževo-Kloster, ein Ort der Ruhe außerhalb der Stadt, den Sie gegen Mittag erreichen. Nach der Rückkehr ins Zentrum am frühen Nachmittag belohnen Sie sich mit einem späten, aber wohlverdienten traditionellen Mittagessen. Der Rest des Nachmittags steht zur freien Verfügung, um die Stadt in Ihrem eigenen Tempo weiter zu erkunden oder in einem Café zu entspannen.",
+        "hu": "A kerékpártúra a főtérről indul, amely ideális kiindulópont. Délelőtt felfedezi a központi látnivalókat, mint az Óratornyot és a Szentháromság-templomot, mielőtt egy festői útra indulna a Radoviška Reka folyó mentén. A nap fő célja a békés Inževói kolostor, egy csendes hely a városon kívül, amelyet dél körül ér el. Kora délután, miután visszatért a központba, jutalmazza meg magát egy késői, de megérdemelt hagyományos ebéddel. A délután hátralévő része szabadon felhasználható a város további felfedezésére a saját tempójában, vagy egy kávézóban való pihenésre.",
+        "ro": "Turul cu bicicleta începe din Piața Centrală, punctul de plecare ideal. Dimineața, explorați atracțiile centrale, cum ar fi Turnul cu Ceas și Biserica Sfânta Treime, înainte de a face o plimbare pitorească de-a lungul râului Radoviška Reka. Destinația principală a zilei este liniștita Mănăstire Inževo, un loc de pace în afara orașului, la care ajungeți în jurul prânzului. La începutul după-amiezii, după întoarcerea în centru, recompensați-vă cu un prânz tradițional târziu, dar binemeritat. Restul după-amiezii este la dispoziția dumneavoastră pentru a explora orașul în propriul ritm sau pentru a vă relaxa la o cafenea.",
+        "en": "Your bike tour starts at the Town Square, the ideal starting point. In the morning, you'll explore the central highlights like the Clock Tower and the Holy Trinity Church before taking a scenic ride along the Radoviška Reka river. The main destination of the day is the peaceful Inževo Monastery, a place of tranquility outside the city, which you'll reach around noon. In the early afternoon, after returning to the center, reward yourself with a late but well-deserved traditional lunch. The rest of the afternoon is yours to explore the city further at your own pace or relax in a café."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrilltes Fleisch (Skara)",
+            "tip": "Perfekt zur Stärkung nach einer langen Radtour."
+          },
+          {
+            "name": "Restaurant Loven Dom",
+            "tip": "Ein guter Ort, um lokale Gerichte in einer entspannten Atmosphäre zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett húsok (Skara)",
+            "tip": "Tökéletes feltöltődés egy hosszú kerékpártúra után."
+          },
+          {
+            "name": "Loven Dom Étterem",
+            "tip": "Jó hely a helyi ételek megkóstolására nyugodt légkörben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne la grătar (Skara)",
+            "tip": "Perfect pentru a vă reface energia după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Restaurant Loven Dom",
+            "tip": "Un loc bun pentru a gusta preparate locale într-o atmosferă relaxată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Meat (Skara)",
+            "tip": "Perfect for refueling after a long bike ride."
+          },
+          {
+            "name": "Restaurant Loven Dom",
+            "tip": "A good place to try local dishes in a relaxed atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Inževo-Kloster",
+            "tip": "Die ruhige Umgebung des Klosters ist ideal für eine Pause und Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Radoviška Reka",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser, um sich auszuruhen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Inževói Kolostor",
+            "tip": "A kolostor csendes környezete ideális egy kis pihenésre és elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Radoviška Reka partja",
+            "tip": "Keressen egy csendes helyet a víz mellett a pihenéshez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Inževo",
+            "tip": "Împrejurimile liniștite ale mănăstirii sunt ideale pentru o pauză și reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul râului Radoviška Reka",
+            "tip": "Găsiți un loc liniștit lângă apă pentru a vă odihni.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Inževo Monastery",
+            "tip": "The quiet surroundings of the monastery are ideal for a break and reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the Radoviška Reka",
+            "tip": "Find a quiet spot by the water to rest.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Ideal für einen schnellen Snack wie frisches Obst oder Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Ideális egy gyors harapnivalóhoz, mint például friss gyümölcs vagy péksütemény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Ideal pentru o gustare rapidă, cum ar fi fructe proaspete sau produse de patiserie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Ideal for a quick snack like fresh fruit or pastries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Fahrt zum Kloster.",
+          "Einige Straßen außerhalb der Stadt sind möglicherweise nicht asphaltiert, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Vigyen magával elegendő vizet, különösen a kolostorhoz vezető útra.",
+          "Néhány városon kívüli út nem aszfaltozott, vezessen óvatosan."
+        ],
+        "ro": [
+          "Verificați bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Luați suficientă apă, mai ales pentru drumul spre mănăstire.",
+          "Unele drumuri din afara orașului s-ar putea să nu fie asfaltate, conduceți cu prudență."
+        ],
+        "en": [
+          "Check your bike before leaving, especially the brakes and tires.",
+          "Bring enough water, especially for the ride to the monastery.",
+          "Some roads outside the city may not be paved, ride carefully."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:28",
+      "total_km": 36.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Parken im Stadtzentrum",
+            "hu": "A Klaszter: Parkolás a központban",
+            "ro": "Cluster A: Parcare în centrul orașului",
+            "en": "Cluster A: Park in the City Center"
+          },
+          "coords": [
+            22.4685,
+            41.636
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Finden Sie einen zentralen Parkplatz, um den ersten Teil der Stadt zu Fuß zu erkunden.",
+            "hu": "Keressen egy központi parkolót, hogy gyalog fedezhesse fel a város első részét.",
+            "ro": "Găsiți o parcare centrală pentru a explora prima parte a orașului pe jos.",
+            "en": "Find a central parking spot to explore the first part of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtplatz & Alexander-Denkmal",
+            "hu": "Főtér és Nagy Sándor Emlékmű",
+            "ro": "Piața Centrală & Monumentul lui Alexandru",
+            "en": "Town Square & Alexander's Monument"
+          },
+          "coords": [
+            22.4675,
+            41.6365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie über den Platz und machen Sie Fotos.",
+            "hu": "Sétáljon végig a téren és készítsen fényképeket.",
+            "ro": "Plimbați-vă prin piață și faceți fotografii.",
+            "en": "Stroll through the square and take some photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Uhrturm",
+            "hu": "Történelmi Óratorony",
+            "ro": "Turnul cu Ceas Istoric",
+            "en": "Historical Clock Tower"
+          },
+          "coords": [
+            22.468,
+            41.637
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:06",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz zum Wahrzeichen der Stadt.",
+            "hu": "Rövid séta a tértől a város jelképéig.",
+            "ro": "O scurtă plimbare de la piață la simbolul orașului.",
+            "en": "A short walk from the square to the city's landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság Templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Church of the Holy Trinity"
+          },
+          "coords": [
+            22.4669,
+            41.6372
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die letzte Station im Stadtzentrum, bevor es weitergeht.",
+            "hu": "Az utolsó megálló a városközpontban, mielőtt tovább indulna.",
+            "ro": "Ultima oprire în centrul orașului înainte de a merge mai departe.",
+            "en": "The last stop in the city center before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Podaresh-Kirche",
+            "hu": "B Klaszter: Podaresh Templom",
+            "ro": "Cluster B: Biserica Podaresh",
+            "en": "Cluster B: Podaresh Church"
+          },
+          "coords": [
+            22.56,
+            41.63
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:33",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 10,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Dorf Podaresh, um diese historische Kirche zu besichtigen.",
+            "hu": "Utazzon el Podaresh faluba, hogy megnézze ezt a történelmi templomot.",
+            "ro": "Conduceți până în satul Podaresh pentru a vizita această biserică istorică.",
+            "en": "Drive to the village of Podaresh to visit this historic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem Landgasthof",
+            "hu": "Ebéd egy vidéki fogadóban",
+            "ro": "Prânz la un han rural",
+            "en": "Lunch at a country inn"
+          },
+          "coords": [
+            22.558,
+            41.631
+          ],
+          "category": "gastro",
+          "arrive_at": "12:39",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Genießen Sie authentische Küche in der Nähe der Kirche.",
+            "hu": "Élvezze az autentikus konyhát a templom közelében.",
+            "ro": "Bucurați-vă de bucătăria autentică în apropierea bisericii.",
+            "en": "Enjoy authentic cuisine near the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Smiljanci-Kloster",
+            "hu": "C Klaszter: Smiljanci Kolostor",
+            "ro": "Cluster C: Mănăstirea Smiljanci",
+            "en": "Cluster C: Smiljanci Monastery"
+          },
+          "coords": [
+            22.42,
+            41.61
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:59",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 25,
+          "tip_5lang": {
+            "de": "Eine längere Fahrt zu einem abgelegenen, aber sehr lohnenswerten Kloster.",
+            "hu": "Hosszabb út egy távoli, de nagyon megérő kolostorhoz.",
+            "ro": "O călătorie mai lungă către o mănăstire retrasă, dar care merită vizitată.",
+            "en": "A longer drive to a remote but very worthwhile monastery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto folgt einer Cluster-Strategie für maximale Effizienz. Am Morgen parken Sie im Zentrum von Radoviš (Cluster A) und erkunden zu Fuß den Stadtplatz, das Alexander-Denkmal, den Uhrturm und die Dreifaltigkeitskirche. Gegen Mittag fahren Sie zum nahegelegenen Dorf Podaresh (Cluster B), um die historische Kirche zu besichtigen und in einem ländlichen Gasthof zu Mittag zu essen. Der Nachmittag ist einem längeren Ausflug zum abgeschiedenen Smiljanci-Kloster (Cluster C) gewidmet, einem Ort der Stille und Spiritualität, bevor Sie am späten Nachmittag nach Radoviš zurückkehren.",
+        "hu": "Az autós napja egy klaszter-stratégiát követ a maximális hatékonyság érdekében. Reggel parkoljon le Radoviš központjában (A klaszter), és fedezze fel gyalog a főteret, a Nagy Sándor-emlékművet, az Óratornyot és a Szentháromság-templomot. Dél körül utazzon el a közeli Podaresh faluba (B klaszter), hogy meglátogassa a történelmi templomot és ebédeljen egy vidéki fogadóban. A délutánt egy hosszabb kirándulásnak szenteli a félreeső Smiljanci kolostorhoz (C klaszter), a csend és a spiritualitás helyszínére, mielőtt késő délután visszatérne Radovišba.",
+        "ro": "Ziua dumneavoastră cu mașina urmează o strategie pe clustere pentru eficiență maximă. Dimineața, parcați în centrul orașului Radoviš (Cluster A) și explorați pe jos Piața Centrală, Monumentul lui Alexandru, Turnul cu Ceas și Biserica Sfânta Treime. În jurul prânzului, conduceți până în satul din apropiere, Podaresh (Cluster B), pentru a vizita biserica istorică și a lua prânzul la un han rural. După-amiaza este dedicată unei excursii mai lungi la Mănăstirea retrasă Smiljanci (Cluster C), un loc de liniște și spiritualitate, înainte de a vă întoarce în Radoviš la sfârșitul după-amiezii.",
+        "en": "Your day by car follows a cluster strategy for maximum efficiency. In the morning, park in the center of Radoviš (Cluster A) and explore the Town Square, Alexander's Monument, the Clock Tower, and the Holy Trinity Church on foot. Around noon, drive to the nearby village of Podaresh (Cluster B) to visit the historic church and have lunch at a country inn. The afternoon is dedicated to a longer trip to the secluded Smiljanci Monastery (Cluster C), a place of tranquility and spirituality, before returning to Radoviš in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mazedonischer Salat (Shopska)",
+            "tip": "Frisch und leicht, perfekt als Vorspeise oder Beilage."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Die Region ist für ihre Weine bekannt, probieren Sie eine lokale Sorte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Macedón saláta (Sopszka)",
+            "tip": "Friss és könnyű, tökéletes előételnek vagy köretnek."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "A régió híres borairól, kóstoljon meg egy helyi fajtát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată macedoneană (Shopska)",
+            "tip": "Proaspătă și ușoară, perfectă ca aperitiv sau garnitură."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Regiunea este cunoscută pentru vinurile sale, încercați un soi local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Macedonian Salad (Shopska)",
+            "tip": "Fresh and light, perfect as a starter or side dish."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "The region is known for its wines, try a local variety."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Smiljanci-Kloster",
+            "tip": "Die Abgeschiedenheit dieses Ortes garantiert absolute Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Umgebung von Podaresh",
+            "tip": "Genießen Sie die ländliche Stille nach dem Kirchenbesuch.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smiljanci Kolostor",
+            "tip": "A hely elszigeteltsége garantálja a teljes nyugalmat.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Podaresh környéke",
+            "tip": "Élvezze a vidéki csendet a templomlátogatás után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Smiljanci",
+            "tip": "Izolarea acestui loc garantează liniște absolută.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Împrejurimile satului Podaresh",
+            "tip": "Bucurați-vă de liniștea rurală după vizitarea bisericii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Smiljanci Monastery",
+            "tip": "The seclusion of this place guarantees absolute peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Surroundings of Podaresh",
+            "tip": "Enjoy the rural silence after the church visit.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgemachte Souvenirs",
+            "tip": "Suchen Sie in den Klöstern nach einzigartigen handgefertigten Ikonen oder Holzarbeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített szuvenírek",
+            "tip": "Keressen egyedi, kézzel készített ikonokat vagy fafaragásokat a kolostorokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri artizanale",
+            "tip": "Căutați icoane unice realizate manual sau sculpturi în lemn în mănăstiri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Souvenirs",
+            "tip": "Look for unique handmade icons or woodcrafts at the monasteries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App für die Fahrt zu den abgelegenen Klöstern.",
+          "Parken im Stadtzentrum kann tagsüber schwierig sein, seien Sie geduldig.",
+          "Achten Sie auf die Straßenverhältnisse, besonders auf den Landstraßen."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a távoli kolostorokhoz vezető úton.",
+          "A városközpontban napközben nehéz lehet parkolni, legyen türelmes.",
+          "Figyeljen az útviszonyokra, különösen a vidéki utakon."
+        ],
+        "ro": [
+          "Folosiți o aplicație de navigație pentru a ajunge la mănăstirile îndepărtate.",
+          "Parcarea în centrul orașului poate fi dificilă în timpul zilei, aveți răbdare.",
+          "Fiți atenți la condițiile drumurilor, în special pe drumurile de țară."
+        ],
+        "en": [
+          "Use a navigation app for the drive to the remote monasteries.",
+          "Parking in the city center can be challenging during the day, be patient.",
+          "Pay attention to road conditions, especially on country roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Ankunft am Busbahnhof",
+            "hu": "A Klaszter: Érkezés a buszpályaudvarra",
+            "ro": "Cluster A: Sosire la autogară",
+            "en": "Cluster A: Arrival at the Bus Station"
+          },
+          "coords": [
+            22.47,
+            41.64
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Startpunkt für die Erkundung mit öffentlichen Verkehrsmitteln.",
+            "hu": "A tömegközlekedéssel történő felfedezés kiindulópontja.",
+            "ro": "Punctul de plecare pentru explorarea cu transportul public.",
+            "en": "The starting point for exploring by public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtplatz Radoviš",
+            "hu": "Radoviš Főtere",
+            "ro": "Piața Centrală Radoviš",
+            "en": "Radoviš Town Square"
+          },
+          "coords": [
+            22.4675,
+            41.6365
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:28",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof ins Herz der Stadt.",
+            "hu": "Rövid séta a buszpályaudvartól a város szívébe.",
+            "ro": "O scurtă plimbare de la autogară până în inima orașului.",
+            "en": "A short walk from the bus station to the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Uhrturm & Dreifaltigkeitskirche",
+            "hu": "Történelmi Óratorony & Szentháromság Templom",
+            "ro": "Turnul cu Ceas & Biserica Sfânta Treime",
+            "en": "Clock Tower & Holy Trinity Church"
+          },
+          "coords": [
+            22.4678,
+            41.6371
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:04",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beiden zentralen Sehenswürdigkeiten ausgiebig.",
+            "hu": "Fedezze fel alaposan ezt a két központi látnivalót.",
+            "ro": "Explorați pe larg aceste două atracții centrale.",
+            "en": "Explore these two central sights extensively."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Kulturzentrum Aco Karamanov",
+            "hu": "B Klaszter: Aco Karamanov Kulturális Központ",
+            "ro": "Cluster B: Centrul Cultural Aco Karamanov",
+            "en": "Cluster B: Aco Karamanov Cultural Center"
+          },
+          "coords": [
+            22.4655,
+            41.638
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zu diesem wichtigen Kulturort zu gelangen.",
+            "hu": "Vegyen egy helyi buszt, hogy eljusson ehhez a fontos kulturális helyszínhez.",
+            "ro": "Luați un autobuz local pentru a ajunge la acest important centru cultural.",
+            "en": "Take a local bus to get to this important cultural venue."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause in der Nähe des Kulturzentrums",
+            "hu": "Ebédszünet a Kulturális Központ közelében",
+            "ro": "Pauză de prânz lângă Centrul Cultural",
+            "en": "Lunch break near the Cultural Center"
+          },
+          "coords": [
+            22.465,
+            41.6385
+          ],
+          "category": "gastro",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Es gibt mehrere kleine Restaurants in Gehweite.",
+            "hu": "Sétatávolságra több kis étterem is található.",
+            "ro": "Există mai multe restaurante mici la distanță de mers pe jos.",
+            "en": "There are several small restaurants within walking distance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt am Busbahnhof von Radoviš. Von dort aus gehen Sie ins Zentrum (Cluster A), um den Stadtplatz, den Uhrturm und die Dreifaltigkeitskirche zu erkunden. Am späten Vormittag nehmen Sie einen lokalen Bus zu Cluster B, dem Kulturzentrum Aco Karamanov, wo Sie tief in die lokale Kunst und Geschichte eintauchen können. Nach dem Besuch genießen Sie ein Mittagessen in einem nahegelegenen Restaurant. Der Nachmittag bietet Zeit, zu Fuß zum Busbahnhof zurückzukehren oder die Umgebung des Kulturzentrums weiter zu erkunden, bevor Sie Ihre Rückreise antreten.",
+        "hu": "A tömegközlekedési túra a radoviši buszpályaudvarról indul. Onnan sétáljon be a központba (A klaszter), hogy felfedezze a főteret, az Óratornyot és a Szentháromság-templomot. Késő délelőtt szálljon helyi buszra a B klaszterhez, az Aco Karamanov Kulturális Központhoz, ahol elmerülhet a helyi művészetben és történelemben. A látogatás után ebédeljen egy közeli étteremben. A délután időt kínál arra, hogy visszasétáljon a buszpályaudvarra, vagy tovább fedezze fel a kulturális központ környékét, mielőtt megkezdené a visszaútját.",
+        "ro": "Turul dumneavoastră cu transportul public începe de la autogara din Radoviš. De acolo, mergeți pe jos până în centru (Cluster A) pentru a explora Piața Centrală, Turnul cu Ceas și Biserica Sfânta Treime. Spre sfârșitul dimineții, luați un autobuz local către Cluster B, Centrul Cultural Aco Karamanov, unde vă puteți cufunda în arta și istoria locală. După vizită, bucurați-vă de prânz la un restaurant din apropiere. După-amiaza oferă timp pentru a vă întoarce pe jos la autogară sau pentru a explora mai mult zona din jurul centrului cultural înainte de a vă începe călătoria de întoarcere.",
+        "en": "Your tour by public transport starts at the Radoviš bus station. From there, you'll walk to the center (Cluster A) to explore the Town Square, the Clock Tower, and the Holy Trinity Church. In the late morning, take a local bus to Cluster B, the Aco Karamanov Cultural Center, where you can delve into local art and history. After the visit, enjoy lunch at a nearby restaurant. The afternoon allows time to walk back to the bus station or further explore the area around the cultural center before starting your return journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "Ein herzhaftes Gebäck, perfekt für ein schnelles und günstiges Mittagessen."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein 'Skopsko' oder ein anderes mazedonisches Bier zum Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Kiadós péksütemény, tökéletes egy gyors és olcsó ebédhez."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy 'Skopsko'-t vagy más macedón sört az ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "Un produs de patiserie consistent, perfect pentru un prânz rapid și ieftin."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Încercați o 'Skopsko' sau altă bere macedoneană la masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "A hearty pastry, perfect for a quick and cheap lunch."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a 'Skopsko' or other Macedonian beer with your meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche der Heiligen Dreifaltigkeit",
+            "tip": "Innerhalb der Kirche finden Sie einen Moment der Ruhe und Besinnung.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Eine Seitenstraße",
+            "tip": "Verlassen Sie die Hauptwege und entdecken Sie die ruhigeren Gassen der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szentháromság Templom",
+            "tip": "A templomban egy pillanatnyi csendet és elmélkedést talál.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Egy mellékutca",
+            "tip": "Hagyja el a fő utakat, és fedezze fel a város csendesebb sikátorait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sfânta Treime",
+            "tip": "În interiorul bisericii veți găsi un moment de liniște și reflecție.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "O stradă lăturalnică",
+            "tip": "Părăsiți căile principale și descoperiți aleile mai liniștite ale orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church of the Holy Trinity",
+            "tip": "Inside the church, you will find a moment of peace and reflection.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "A side street",
+            "tip": "Leave the main paths and discover the quieter alleys of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie Snacks, Getränke oder eine Zeitung für Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon rágcsálnivalókat, italokat vagy újságot az utazáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați gustări, băuturi sau un ziar pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy snacks, drinks, or a newspaper for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne, da diese unregelmäßig sein können.",
+          "Haben Sie Kleingeld für die Bustickets bereit.",
+          "Fragen Sie Einheimische nach dem richtigen Bus; sie sind meist sehr hilfsbereit."
+        ],
+        "hu": [
+          "Tájékozódjon előre a buszmenetrendekről, mivel azok rendszertelenek lehetnek.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "Kérdezze meg a helyieket a megfelelő buszról; általában nagyon segítőkészek."
+        ],
+        "ro": [
+          "Informați-vă în avans despre orarele autobuzelor, deoarece acestea pot fi neregulate.",
+          "Pregătiți mărunțiș pentru biletele de autobuz.",
+          "Întrebați localnicii despre autobuzul corect; de obicei sunt foarte de ajutor."
+        ],
+        "en": [
+          "Check bus schedules in advance as they can be irregular.",
+          "Have small change ready for bus tickets.",
+          "Ask locals for the right bus; they are usually very helpful."
+        ]
+      }
+    }
+  }
+}

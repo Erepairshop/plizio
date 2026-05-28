@@ -1,0 +1,1471 @@
+{
+  "city_id": "sanliurfa-cities-v2",
+  "anchor": {
+    "name": "Şanlıurfa",
+    "coords": [
+      38.7969,
+      37.1674
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Balıklıgöl (Teich Abrahams)",
+            "hu": "Balıklıgöl (Ábrahám tava)",
+            "ro": "Balıklıgöl (Iazul lui Avraam)",
+            "en": "Balıklıgöl (Pool of Abraham)"
+          },
+          "coords": [
+            38.7915,
+            37.1518
+          ],
+          "category": "lakes",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie Fischfutter, um die heiligen Karpfen zu füttern – es soll Glück bringen.",
+            "hu": "Vegyél haltápot, és etesd meg a szent pontyokat – állítólag szerencsét hoz.",
+            "ro": "Cumpărați hrană pentru pești pentru a hrăni crapii sacri – se spune că aduce noroc.",
+            "en": "Buy some fish food to feed the sacred carp – it's said to bring good luck."
+          }
+        },
+        {
+          "name": {
+            "de": "Mevlid-i Halil Moschee",
+            "hu": "Mevlid-i Halil Mecset",
+            "ro": "Moscheea Mevlid-i Halil",
+            "en": "Mevlid-i Halil Mosque"
+          },
+          "coords": [
+            38.7908,
+            37.1535
+          ],
+          "category": "churches",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Höhle, in der der Prophet Abraham geboren sein soll, direkt neben der Moschee.",
+            "hu": "Látogass el a barlangba a mecset mellett, ahol a hagyomány szerint Ábrahám próféta született.",
+            "ro": "Vizitați peștera unde se crede că s-a născut profetul Avraam, situată chiar lângă moschee.",
+            "en": "Visit the cave where Prophet Abraham is believed to have been born, located right next to the mosque."
+          }
+        },
+        {
+          "name": {
+            "de": "Gümrük Hanı",
+            "hu": "Gümrük Hanı (Vámkaravánszeráj)",
+            "ro": "Gümrük Hanı (Hanul Vamal)",
+            "en": "Gümrük Hanı (Customs Inn)"
+          },
+          "coords": [
+            38.7895,
+            37.1558
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Setzen Sie sich in den Innenhof, bestellen Sie einen türkischen Tee und beobachten Sie das lokale Leben.",
+            "hu": "Ülj le a belső udvaron, rendelj egy török teát, és figyeld a helyi életet.",
+            "ro": "Așezați-vă în curtea interioară, comandați un ceai turcesc și observați viața locală.",
+            "en": "Sit in the courtyard, order a Turkish tea, and just watch the local life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee von Urfa",
+            "hu": "Urfai Nagymecset",
+            "ro": "Marea Moschee din Urfa",
+            "en": "Grand Mosque of Urfa"
+          },
+          "coords": [
+            38.7883,
+            37.1571
+          ],
+          "category": "churches",
+          "arrive_at": "12:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie den Glockenturm, der ursprünglich Teil einer christlichen Kirche war.",
+            "hu": "Figyeld meg a harangtornyot, amely eredetileg egy keresztény templom része volt.",
+            "ro": "Observați clopotnița, care a fost inițial parte a unei biserici creștine.",
+            "en": "Note the clock tower, which was originally part of a Christian church on this site."
+          }
+        },
+        {
+          "name": {
+            "de": "Urfa-Burg",
+            "hu": "Urfai vár",
+            "ro": "Castelul din Urfa",
+            "en": "Urfa Castle"
+          },
+          "coords": [
+            38.7899,
+            37.1495
+          ],
+          "category": "castles",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber der Panoramablick über die Stadt und Balıklıgöl ist es wert.",
+            "hu": "Meredek a kaptató, de a panorámás kilátás a városra és a Balıklıgölre megéri.",
+            "ro": "Urcușul este abrupt, dar priveliștea panoramică asupra orașului și a Balıklıgöl merită efortul.",
+            "en": "The climb is steep, but the panoramic views of the city and Balıklıgöl are worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Şanlıurfa",
+            "hu": "Şanlıurfa Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Şanlıurfa",
+            "en": "Şanlıurfa Archaeology Museum"
+          },
+          "coords": [
+            38.7865,
+            37.1441
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Göbeklitepe-Exponate, sie sind der Höhepunkt der Sammlung.",
+            "hu": "Koncentrálj a Göbeklitepe kiállítási tárgyakra, ezek a gyűjtemény fénypontjai.",
+            "ro": "Concentrează-te pe exponatele de la Göbeklitepe, sunt punctul culminant al colecției.",
+            "en": "Focus on the Göbeklitepe exhibits; they are the highlight of the collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Haleplibahçe-Mosaikmuseum",
+            "hu": "Haleplibahçe Mozaikmúzeum",
+            "ro": "Muzeul de Mozaic Haleplibahçe",
+            "en": "Haleplibahçe Mosaic Museum"
+          },
+          "coords": [
+            38.7858,
+            37.1448
+          ],
+          "category": "museums",
+          "arrive_at": "17:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht das Orpheus-Mosaik, es ist außergewöhnlich gut erhalten.",
+            "hu": "Ne hagyd ki az Orpheusz-mozaikot, rendkívül jó állapotban maradt fenn.",
+            "ro": "Nu ratați mozaicul lui Orfeu, este excepțional de bine conservat.",
+            "en": "Don't miss the Orpheus mosaic; it's exceptionally well-preserved."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am mystischen Balıklıgöl, dem Teich Abrahams. Spüren Sie die spirituelle Atmosphäre, während Sie durch die angrenzenden Moscheen und Höhlen schlendern. Am Mittag tauchen Sie in das geschäftige Treiben des Gümrük Hanı ein, einem historischen Karawanserei, perfekt für eine Teepause. Der Nachmittag ist der reichen Geschichte der Region gewidmet. Erklimmen Sie die Burg von Urfa für einen atemberaubenden Ausblick, bevor Sie sich in den erstklassigen archäologischen und Mosaikmuseen verlieren, die Artefakte von unschätzbarem Wert beherbergen. Der Tag endet mit einem tiefen Einblick in die Wiege der Zivilisation.",
+        "hu": "Kezdje a napot a misztikus Balıklıgöl-nél, Ábrahám tavánál. Érezze át a spirituális légkört, miközben a szomszédos mecsetekben és barlangokban sétál. Délben merüljön el a Gümrük Hanı, egy történelmi karavánszeráj nyüzsgésében, amely tökéletes egy teára. A délután a régió gazdag történelméről szól. Másszon fel az urfai várba a lélegzetelállító kilátásért, majd merüljön el a világszínvonalú régészeti és mozaikmúzeumokban, amelyek felbecsülhetetlen értékű leleteket őriznek. A nap a civilizáció bölcsőjébe való mély betekintéssel zárul.",
+        "ro": "Începeți ziua la misticul Balıklıgöl, Iazul lui Avraam. Simțiți atmosfera spirituală în timp ce vă plimbați prin moscheile și peșterile adiacente. La prânz, scufundați-vă în agitația din Gümrük Hanı, un caravanserai istoric perfect pentru o pauză de ceai. După-amiaza este dedicată istoriei bogate a regiunii. Urcați la Castelul Urfa pentru vederi uluitoare, înainte de a vă pierde în muzeele de arheologie și mozaic de talie mondială, care adăpostesc artefacte de neprețuit. Ziua se încheie cu o incursiune profundă în leagănul civilizației.",
+        "en": "Start your day at the mystical Balıklıgöl, the Pool of Abraham. Feel the spiritual atmosphere as you stroll through the adjacent mosques and caves. At noon, immerse yourself in the bustling life of Gümrük Hanı, a historic caravanserai perfect for a tea break. The afternoon is dedicated to the region's rich history. Climb Urfa Castle for breathtaking views before losing yourself in the world-class archaeology and mosaic museums, which house priceless artifacts. The day ends with a deep dive into the cradle of civilization."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Urfa Kebap",
+            "tip": "Probieren Sie diesen weniger scharfen, aber unglaublich schmackhaften Kebab in einem der vielen lokalen Restaurants."
+          },
+          {
+            "name": "Ciğer Kebabı (Leberkebab)",
+            "tip": "Für Abenteuerlustige ist dies eine lokale Delikatesse, die oft zum Frühstück gegessen wird."
+          },
+          {
+            "name": "Şıllık Tatlısı",
+            "tip": "Ein einzigartiges Dessert aus Krepp-ähnlichem Teig, gefüllt mit Walnüssen und in Sirup getränkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Urfa Kebap",
+            "tip": "Kóstold meg ezt a kevésbé fűszeres, de hihetetlenül ízletes kebabot a sok helyi étterem egyikében."
+          },
+          {
+            "name": "Ciğer Kebabı (máj-kebab)",
+            "tip": "A kalandvágyóknak ez egy helyi finomság, amit gyakran reggelire esznek."
+          },
+          {
+            "name": "Şıllık Tatlısı",
+            "tip": "Egyedi, palacsintatészta-szerű desszert dióval töltve és szirupba áztatva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Urfa Kebap",
+            "tip": "Încercați acest kebab mai puțin picant, dar incredibil de aromat, la unul dintre multele restaurante locale."
+          },
+          {
+            "name": "Ciğer Kebabı (Kebab de ficat)",
+            "tip": "Pentru cei aventuroși, aceasta este o delicatesă locală, adesea consumată la micul dejun."
+          },
+          {
+            "name": "Şıllık Tatlısı",
+            "tip": "Un desert unic, asemănător clătitelor, umplut cu nuci și însiropat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Urfa Kebap",
+            "tip": "Try this less spicy but incredibly flavorful kebab at one of the many local eateries."
+          },
+          {
+            "name": "Ciğer Kebabı (Liver Kebab)",
+            "tip": "For the adventurous, this is a local delicacy often eaten for breakfast."
+          },
+          {
+            "name": "Şıllık Tatlısı",
+            "tip": "A unique crepe-like dessert filled with walnuts and soaked in syrup."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Balıklıgöl",
+            "tip": "Finden Sie eine ruhige Bank abseits der Menschenmassen, um die spirituelle Ruhe des Ortes aufzusaugen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht von der Urfa-Burg",
+            "tip": "Gehen Sie bei Sonnenuntergang für einen ruhigen Moment und einen spektakulären Blick über die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hof des Gümrük Hanı",
+            "tip": "Am frühen Morgen ist der Hof eine Oase der Ruhe, bevor die Käufer ankommen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Balıklıgöl kertjei",
+            "tip": "Keress egy csendes padot a tömegtől távol, hogy magadba szívd a hely spirituális nyugalmát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az Urfai várból",
+            "tip": "Menj fel naplementekor egy csendes pillanatért és a városra nyíló látványos kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gümrük Hanı udvara",
+            "tip": "Kora reggel az udvar a béke szigete, mielőtt a vásárlók megérkeznek.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Balıklıgöl",
+            "tip": "Găsiți o bancă liniștită departe de mulțime pentru a absorbi pacea spirituală a locului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Castelul Urfa",
+            "tip": "Mergeți la apus pentru un moment de liniște și o priveliște spectaculoasă asupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Gümrük Hanı",
+            "tip": "Dimineața devreme, curtea este o oază de calm înainte de sosirea cumpărătorilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Balıklıgöl Gardens",
+            "tip": "Find a quiet bench away from the main crowds to soak in the spiritual peace of the site.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Urfa Castle Viewpoint",
+            "tip": "Go near sunset for a quiet moment and a spectacular view over the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gümrük Hanı Courtyard",
+            "tip": "Early in the morning, the courtyard is an oasis of calm before the shoppers arrive.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Historischer Basar",
+            "tip": "Verlieren Sie sich in den Gassen und finden Sie alles von Gewürzen bis zu handgefertigten Kupferwaren."
+          },
+          {
+            "name": "Gümrük Hanı",
+            "tip": "Ideal für den Kauf von lokalen Textilien, Schals und traditioneller Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Történelmi bazár",
+            "tip": "Vessz el a sikátorokban, és találj meg mindent a fűszerektől a kézzel készített rézárukig."
+          },
+          {
+            "name": "Gümrük Hanı",
+            "tip": "Ideális helyi textíliák, sálak és hagyományos ruhák vásárlásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul Istoric",
+            "tip": "Pierdeți-vă pe alei și găsiți de toate, de la mirodenii la obiecte de cupru lucrate manual."
+          },
+          {
+            "name": "Gümrük Hanı",
+            "tip": "Ideal pentru a cumpăra textile locale, eșarfe și îmbrăcăminte tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Historic Bazaar",
+            "tip": "Get lost in the alleys and find everything from spices to handmade copper goods."
+          },
+          {
+            "name": "Gümrük Hanı",
+            "tip": "Great for buying local textiles, scarves, and traditional clothing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf unebenem Pflaster laufen werden.",
+          "Kleiden Sie sich bescheiden, besonders wenn Sie Moscheen besuchen (Schultern und Knie bedeckt).",
+          "Trinken Sie viel Wasser, besonders in den heißen Sommermonaten.",
+          "Haben Sie etwas Bargeld für kleine Einkäufe und Trinkgelder dabei."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert sokat fogsz gyalogolni egyenetlen macskakövön.",
+          "Öltözz szerényen, különösen a mecsetek látogatásakor (vállak és térdek takarva).",
+          "Igyál sok vizet, főleg a forró nyári hónapokban.",
+          "Legyen nálad készpénz a kisebb vásárlásokhoz és borravalókhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe pavaj denivelat.",
+          "Îmbrăcați-vă modest, mai ales când vizitați moschei (umerii și genunchii acoperiți).",
+          "Beți multă apă, în special în lunile fierbinți de vară.",
+          "Aveți la voi niște bani lichizi pentru cumpărături mici și bacșișuri."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking a lot on uneven cobblestones.",
+          "Dress modestly, especially when visiting mosques (shoulders and knees covered).",
+          "Stay hydrated by drinking plenty of water, particularly in the hot summer months.",
+          "Carry some cash for small purchases and tips."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum & Mosaikmuseum",
+            "hu": "Régészeti Múzeum és Mozaikmúzeum",
+            "ro": "Muzeul de Arheologie & Muzeul de Mozaic",
+            "en": "Archaeology Museum & Mosaic Museum"
+          },
+          "coords": [
+            38.7865,
+            37.1441
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Planen Sie mindestens 3 Stunden für beide Museen ein; sie sind riesig und voller Schätze.",
+            "hu": "Szánj legalább 3 órát mindkét múzeumra; hatalmasak és tele vannak kincsekkel.",
+            "ro": "Alocați cel puțin 3 ore pentru ambele muzee; sunt vaste și pline de comori.",
+            "en": "Budget at least 3 hours for both museums; they are vast and full of treasures."
+          }
+        },
+        {
+          "name": {
+            "de": "Urfa-Burg",
+            "hu": "Urfai vár",
+            "ro": "Castelul din Urfa",
+            "en": "Urfa Castle"
+          },
+          "coords": [
+            38.7899,
+            37.1495
+          ],
+          "category": "castles",
+          "arrive_at": "12:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Fuße des Hügels ab und machen Sie den Aufstieg zu Fuß.",
+            "hu": "Zárd le a biciklidet a hegy alján, és gyalog mássz fel.",
+            "ro": "Lăsați bicicleta la baza dealului și faceți urcarea pe jos.",
+            "en": "Lock your bike at the bottom of the hill and make the climb on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Balıklıgöl (Teich Abrahams)",
+            "hu": "Balıklıgöl (Ábrahám tava)",
+            "ro": "Balıklıgöl (Iazul lui Avraam)",
+            "en": "Balıklıgöl (Pool of Abraham)"
+          },
+          "coords": [
+            38.7915,
+            37.1518
+          ],
+          "category": "lakes",
+          "arrive_at": "13:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Mittagspause. Viele Restaurants in der Nähe.",
+            "hu": "Nagyszerű hely egy ebédszünetre. Sok étterem van a közelben.",
+            "ro": "Un loc excelent pentru o pauză de prânz. Multe restaurante în apropiere.",
+            "en": "A great spot for a lunch break. Many restaurants are nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Gümrük Hanı",
+            "hu": "Gümrük Hanı",
+            "ro": "Gümrük Hanı",
+            "en": "Gümrük Hanı"
+          },
+          "coords": [
+            38.7895,
+            37.1558
+          ],
+          "category": "historical",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad draußen und genießen Sie einen Kaffee im kühlen Innenhof.",
+            "hu": "Parkold le a biciklidet kint, és élvezz egy kávét a hűvös belső udvaron.",
+            "ro": "Parcați bicicleta afară și savurați o cafea în curtea răcoroasă.",
+            "en": "Park your bike outside and enjoy a coffee in the cool courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Karakoyun-Bachs",
+            "hu": "Biciklizés a Karakoyun-patak mentén",
+            "ro": "Plimbare cu bicicleta de-a lungul pârâului Karakoyun",
+            "en": "Ride along Karakoyun Creek"
+          },
+          "coords": [
+            38.7842,
+            37.1701
+          ],
+          "category": "region",
+          "arrive_at": "15:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt abseits des Stadtverkehrs mit einigen Grünflächen.",
+            "hu": "Kellemes tekerés távol a városi forgalomtól, néhány zöld területtel.",
+            "ro": "O plimbare plăcută departe de traficul orașului, cu câteva spații verzi.",
+            "en": "A pleasant ride away from the city traffic with some green spaces."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Stadtzentrum",
+            "hu": "Vissza a városközpontba",
+            "ro": "Înapoi în centrul orașului",
+            "en": "Return to City Center"
+          },
+          "coords": [
+            38.7969,
+            37.1674
+          ],
+          "category": "city",
+          "arrive_at": "16:55",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour und gönnen Sie sich ein wohlverdientes Abendessen.",
+            "hu": "Fejezd be a biciklitúrát, és jutalmazd meg magad egy jól megérdemelt vacsorával.",
+            "ro": "Încheiați turul cu bicicleta și răsfățați-vă cu o cină binemeritată.",
+            "en": "End your bike tour and treat yourself to a well-deserved dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour bei den beeindruckenden Museums-Zwillingen, dem Archäologie- und Mosaikmuseum. Nach einer tiefen Dosis Geschichte radeln Sie zur Urfa-Burg, um die Aussicht zu genießen. Zur Mittagszeit geht es hinunter zum heiligen Balıklıgöl, wo Sie sich entspannen und die Atmosphäre aufsaugen können. Am Nachmittag fahren Sie zum historischen Gümrük Hanı für eine Kaffeepause, bevor Sie eine entspannte Fahrt entlang des Karakoyun-Bachs unternehmen und dem Trubel der Stadt entfliehen. Die Tour endet wieder im Herzen von Urfa, voller Eindrücke.",
+        "hu": "Kezdje a kerékpártúrát a lenyűgöző ikermúzeumoknál, a Régészeti és Mozaikmúzeumnál. Egy mély történelmi merülés után tekerjen fel az Urfa várához a kilátásért. Ebédidőben irány a szent Balıklıgöl, ahol pihenhet és magába szívhatja a hangulatot. Délután látogasson el a történelmi Gümrük Hanı-ba egy kávészünetre, mielőtt egy nyugodt tekerésre indul a Karakoyun-patak mentén, elmenekülve a város nyüzsgésétől. A túra Urfa szívében ér véget, tele élményekkel.",
+        "ro": "Începeți turul cu bicicleta la impresionantele muzee gemene, cel de Arheologie și cel de Mozaic. După o doză profundă de istorie, pedalați spre Castelul Urfa pentru a admira priveliștea. La prânz, coborâți la sacrul Balıklıgöl pentru a vă relaxa și a absorbi atmosfera. După-amiaza, mergeți la istoricul Gümrük Hanı pentru o pauză de cafea înainte de o plimbare relaxantă de-a lungul pârâului Karakoyun, evadând din agitația orașului. Turul se încheie înapoi în inima Urfei, plin de impresii.",
+        "en": "Start your cycling tour at the impressive twin museums, Archaeology and Mosaic. After a deep dose of history, pedal towards Urfa Castle to take in the views. For lunchtime, head down to the sacred Balıklıgöl to relax and soak up the atmosphere. In the afternoon, visit the historic Gümrük Hanı for a coffee break before a relaxed ride along the Karakoyun Creek, escaping the city bustle. The tour concludes back in the heart of Urfa, full of impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Urfa Kebap",
+            "tip": "Probieren Sie diesen weniger scharfen, aber unglaublich schmackhaften Kebab in einem der vielen lokalen Restaurants."
+          },
+          {
+            "name": "Ciğer Kebabı (Leberkebab)",
+            "tip": "Für Abenteuerlustige ist dies eine lokale Delikatesse, die oft zum Frühstück gegessen wird."
+          },
+          {
+            "name": "Şıllık Tatlısı",
+            "tip": "Ein einzigartiges Dessert aus Krepp-ähnlichem Teig, gefüllt mit Walnüssen und in Sirup getränkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Urfa Kebap",
+            "tip": "Kóstold meg ezt a kevésbé fűszeres, de hihetetlenül ízletes kebabot a sok helyi étterem egyikében."
+          },
+          {
+            "name": "Ciğer Kebabı (máj-kebab)",
+            "tip": "A kalandvágyóknak ez egy helyi finomság, amit gyakran reggelire esznek."
+          },
+          {
+            "name": "Şıllık Tatlısı",
+            "tip": "Egyedi, palacsintatészta-szerű desszert dióval töltve és szirupba áztatva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Urfa Kebap",
+            "tip": "Încercați acest kebab mai puțin picant, dar incredibil de aromat, la unul dintre multele restaurante locale."
+          },
+          {
+            "name": "Ciğer Kebabı (Kebab de ficat)",
+            "tip": "Pentru cei aventuroși, aceasta este o delicatesă locală, adesea consumată la micul dejun."
+          },
+          {
+            "name": "Şıllık Tatlısı",
+            "tip": "Un desert unic, asemănător clătitelor, umplut cu nuci și însiropat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Urfa Kebap",
+            "tip": "Try this less spicy but incredibly flavorful kebab at one of the many local eateries."
+          },
+          {
+            "name": "Ciğer Kebabı (Liver Kebab)",
+            "tip": "For the adventurous, this is a local delicacy often eaten for breakfast."
+          },
+          {
+            "name": "Şıllık Tatlısı",
+            "tip": "A unique crepe-like dessert filled with walnuts and soaked in syrup."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Balıklıgöl",
+            "tip": "Finden Sie eine ruhige Bank abseits der Menschenmassen, um die spirituelle Ruhe des Ortes aufzusaugen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht von der Urfa-Burg",
+            "tip": "Gehen Sie bei Sonnenuntergang für einen ruhigen Moment und einen spektakulären Blick über die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hof des Gümrük Hanı",
+            "tip": "Am frühen Morgen ist der Hof eine Oase der Ruhe, bevor die Käufer ankommen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Balıklıgöl kertjei",
+            "tip": "Keress egy csendes padot a tömegtől távol, hogy magadba szívd a hely spirituális nyugalmát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az Urfai várból",
+            "tip": "Menj fel naplementekor egy csendes pillanatért és a városra nyíló látványos kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gümrük Hanı udvara",
+            "tip": "Kora reggel az udvar a béke szigete, mielőtt a vásárlók megérkeznek.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Balıklıgöl",
+            "tip": "Găsiți o bancă liniștită departe de mulțime pentru a absorbi pacea spirituală a locului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Castelul Urfa",
+            "tip": "Mergeți la apus pentru un moment de liniște și o priveliște spectaculoasă asupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Gümrük Hanı",
+            "tip": "Dimineața devreme, curtea este o oază de calm înainte de sosirea cumpărătorilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Balıklıgöl Gardens",
+            "tip": "Find a quiet bench away from the main crowds to soak in the spiritual peace of the site.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Urfa Castle Viewpoint",
+            "tip": "Go near sunset for a quiet moment and a spectacular view over the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gümrük Hanı Courtyard",
+            "tip": "Early in the morning, the courtyard is an oasis of calm before the shoppers arrive.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Historischer Basar",
+            "tip": "Verlieren Sie sich in den Gassen und finden Sie alles von Gewürzen bis zu handgefertigten Kupferwaren."
+          },
+          {
+            "name": "Gümrük Hanı",
+            "tip": "Ideal für den Kauf von lokalen Textilien, Schals und traditioneller Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Történelmi bazár",
+            "tip": "Vessz el a sikátorokban, és találj meg mindent a fűszerektől a kézzel készített rézárukig."
+          },
+          {
+            "name": "Gümrük Hanı",
+            "tip": "Ideális helyi textíliák, sálak és hagyományos ruhák vásárlásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul Istoric",
+            "tip": "Pierdeți-vă pe alei și găsiți de toate, de la mirodenii la obiecte de cupru lucrate manual."
+          },
+          {
+            "name": "Gümrük Hanı",
+            "tip": "Ideal pentru a cumpăra textile locale, eșarfe și îmbrăcăminte tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Historic Bazaar",
+            "tip": "Get lost in the alleys and find everything from spices to handmade copper goods."
+          },
+          {
+            "name": "Gümrük Hanı",
+            "tip": "Great for buying local textiles, scarves, and traditional clothing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Seien Sie vorsichtig im Stadtverkehr; nicht alle Autofahrer sind an Radfahrer gewöhnt.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad bei Besichtigungen sicher abzustellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a biciklidet.",
+          "Légy óvatos a városi forgalomban; nem minden autós van hozzászokva a kerékpárosokhoz.",
+          "Sisak viselése erősen ajánlott.",
+          "Vigyél magaddal lakatot, hogy biztonságban lezárd a biciklidet a látnivalóknál."
+        ],
+        "ro": [
+          "Verificați bicicleta înainte de a porni.",
+          "Fiți prudenți în traficul urban; nu toți șoferii sunt obișnuiți cu bicicliștii.",
+          "Purtarea căștii este foarte recomandată.",
+          "Luați un lacăt pentru a vă asigura bicicleta în timp ce vizitați obiectivele turistice."
+        ],
+        "en": [
+          "Check your bike before you start.",
+          "Be cautious in city traffic; not all drivers are used to cyclists.",
+          "A helmet is strongly recommended.",
+          "Bring a lock to secure your bike while sightseeing."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 35,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 42.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Göbeklitepe",
+            "hu": "Göbeklitepe",
+            "ro": "Göbeklitepe",
+            "en": "Göbeklitepe"
+          },
+          "coords": [
+            38.9225,
+            37.2233
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 18.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kommen Sie früh am Morgen, um die Menschenmassen und die Mittagshitze zu vermeiden. Die Atmosphäre ist magisch.",
+            "hu": "Érkezz kora reggel, hogy elkerüld a tömeget és a déli hőséget. A hangulat varázslatos.",
+            "ro": "Veniți dimineața devreme pentru a evita mulțimile și căldura de la amiază. Atmosfera este magică.",
+            "en": "Arrive early in the morning to avoid the crowds and the midday heat. The atmosphere is magical."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Şanlıurfa",
+            "hu": "Şanlıurfa Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Şanlıurfa",
+            "en": "Şanlıurfa Archaeology Museum"
+          },
+          "coords": [
+            38.7865,
+            37.1441
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 22.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und besuchen Sie das nahegelegene Mosaikmuseum zu Fuß.",
+            "hu": "Parkolj le itt, és sétálj át a közeli Mozaikmúzeumba.",
+            "ro": "Parcați aici și vizitați Muzeul de Mozaic din apropiere pe jos.",
+            "en": "Park your car here and visit the nearby Mosaic Museum on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Haleplibahçe-Mosaikmuseum",
+            "hu": "Haleplibahçe Mozaikmúzeum",
+            "ro": "Muzeul de Mozaic Haleplibahçe",
+            "en": "Haleplibahçe Mosaic Museum"
+          },
+          "coords": [
+            38.7858,
+            37.1448
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieses Museum ist ein Muss, um die Kunstfertigkeit der römischen Zeit zu verstehen.",
+            "hu": "Ez a múzeum kötelező a római kor művészetének megértéséhez.",
+            "ro": "Acest muzeu este esențial pentru a înțelege măiestria din perioada romană.",
+            "en": "This museum is a must-see to understand the artistry of the Roman era."
+          }
+        },
+        {
+          "name": {
+            "de": "Balıklıgöl (Teich Abrahams)",
+            "hu": "Balıklıgöl (Ábrahám tava)",
+            "ro": "Balıklıgöl (Iazul lui Avraam)",
+            "en": "Balıklıgöl (Pool of Abraham)"
+          },
+          "coords": [
+            38.7915,
+            37.1518
+          ],
+          "category": "lakes",
+          "arrive_at": "15:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz in der Nähe und erkunden Sie den gesamten Komplex zu Fuß.",
+            "hu": "Keress egy parkolót a közelben, és fedezd fel az egész komplexumot gyalog.",
+            "ro": "Găsiți o parcare în apropiere și explorați întregul complex pe jos.",
+            "en": "Find a parking spot nearby and explore the entire complex on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Gümrük Hanı",
+            "hu": "Gümrük Hanı",
+            "ro": "Gümrük Hanı",
+            "en": "Gümrük Hanı"
+          },
+          "coords": [
+            38.7895,
+            37.1558
+          ],
+          "category": "market",
+          "arrive_at": "16:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für eine späte Nachmittagspause mit Tee und zum Einkaufen von Souvenirs.",
+            "hu": "Tökéletes egy késő délutáni teázásra és ajándékvásárlásra.",
+            "ro": "Perfect pentru o pauză de ceai după-amiaza târziu și pentru cumpărături de suveniruri.",
+            "en": "Perfect for a late afternoon tea break and souvenir shopping."
+          }
+        },
+        {
+          "name": {
+            "de": "Mevlid-i Halil Moschee",
+            "hu": "Mevlid-i Halil Mecset",
+            "ro": "Moscheea Mevlid-i Halil",
+            "en": "Mevlid-i Halil Mosque"
+          },
+          "coords": [
+            38.7908,
+            37.1535
+          ],
+          "category": "churches",
+          "arrive_at": "17:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Ort von großer spiritueller Bedeutung, der einen respektvollen Besuch wert ist.",
+            "hu": "Nagy spirituális jelentőségű hely, amely tiszteletteljes látogatást érdemel.",
+            "ro": "Un loc de mare importanță spirituală, merită o vizită respectuoasă.",
+            "en": "A place of great spiritual importance, worth a respectful visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussicht von der Urfa-Burg",
+            "hu": "Kilátás az Urfai várból",
+            "ro": "Vedere de la Castelul Urfa",
+            "en": "Urfa Castle View"
+          },
+          "coords": [
+            38.7899,
+            37.1495
+          ],
+          "category": "viewpoint",
+          "arrive_at": "18:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag hier oben und beobachten Sie den Sonnenuntergang über der Stadt.",
+            "hu": "Fejezd be itt a napot, és nézd a naplementét a város felett.",
+            "ro": "Încheiați ziua aici, urmărind apusul peste oraș.",
+            "en": "End your day up here, watching the sunset over the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer Reise in die ferne Vergangenheit in Göbeklitepe, dem ältesten Tempel der Welt. Nach diesem tiefgreifenden Erlebnis fahren Sie zurück in die Stadt, um in das Museumsviertel einzutauchen. Parken Sie Ihr Auto und erkunden Sie zu Fuß das Archäologische Museum und das Mosaikmuseum. Am Nachmittag fahren Sie zum Herzen von Urfa, dem Balıklıgöl-Komplex. Finden Sie einen Parkplatz und schlendern Sie zwischen dem heiligen Teich, dem geschäftigen Gümrük Hanı und den Moscheen. Der Tag endet mit einem unvergesslichen Sonnenuntergang von der Urfa-Burg aus, die einen Panoramablick über Ihre gesamte Reise bietet.",
+        "hu": "A nap utazással kezdődik a távoli múltba, Göbeklitepe-be, a világ legrégebbi templomába. E mély élmény után térjen vissza a városba, hogy elmerüljön a múzeumi negyedben. Parkolja le az autót, és fedezze fel gyalog a Régészeti Múzeumot és a Mozaikmúzeumot. Délután irány Urfa szíve, a Balıklıgöl komplexum. Keressen egy parkolót, és sétáljon a szent tó, a nyüzsgő Gümrük Hanı és a mecsetek között. A nap egy felejthetetlen naplementével zárul az Urfa várból, ahonnan panorámás kilátás nyílik az egész napi útra.",
+        "ro": "Ziua începe cu o călătorie în trecutul îndepărtat la Göbeklitepe, cel mai vechi templu din lume. După această experiență profundă, conduceți înapoi în oraș pentru a vă cufunda în cartierul muzeelor. Parcați mașina și explorați pe jos Muzeul de Arheologie și Muzeul de Mozaic. După-amiaza, mergeți în inima Urfei, complexul Balıklıgöl. Găsiți un loc de parcare și plimbați-vă între iazul sacru, aglomeratul Gümrük Hanı și moschei. Ziua se încheie cu un apus de neuitat de la Castelul Urfa, oferind o vedere panoramică asupra întregii călătorii.",
+        "en": "The day begins with a journey to the distant past at Göbeklitepe, the world's oldest temple. After this profound experience, drive back to the city to immerse yourself in the museum district. Park your car and explore the Archaeology and Mosaic museums on foot. In the afternoon, head to the heart of Urfa, the Balıklıgöl complex. Find a parking spot and wander between the sacred pool, the bustling Gümrük Hanı, and the mosques. The day concludes with an unforgettable sunset from Urfa Castle, offering a panoramic view of your entire journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Urfa Kebap",
+            "tip": "Probieren Sie diesen weniger scharfen, aber unglaublich schmackhaften Kebab in einem der vielen lokalen Restaurants."
+          },
+          {
+            "name": "Ciğer Kebabı (Leberkebab)",
+            "tip": "Für Abenteuerlustige ist dies eine lokale Delikatesse, die oft zum Frühstück gegessen wird."
+          },
+          {
+            "name": "Şıllık Tatlısı",
+            "tip": "Ein einzigartiges Dessert aus Krepp-ähnlichem Teig, gefüllt mit Walnüssen und in Sirup getränkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Urfa Kebap",
+            "tip": "Kóstold meg ezt a kevésbé fűszeres, de hihetetlenül ízletes kebabot a sok helyi étterem egyikében."
+          },
+          {
+            "name": "Ciğer Kebabı (máj-kebab)",
+            "tip": "A kalandvágyóknak ez egy helyi finomság, amit gyakran reggelire esznek."
+          },
+          {
+            "name": "Şıllık Tatlısı",
+            "tip": "Egyedi, palacsintatészta-szerű desszert dióval töltve és szirupba áztatva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Urfa Kebap",
+            "tip": "Încercați acest kebab mai puțin picant, dar incredibil de aromat, la unul dintre multele restaurante locale."
+          },
+          {
+            "name": "Ciğer Kebabı (Kebab de ficat)",
+            "tip": "Pentru cei aventuroși, aceasta este o delicatesă locală, adesea consumată la micul dejun."
+          },
+          {
+            "name": "Şıllık Tatlısı",
+            "tip": "Un desert unic, asemănător clătitelor, umplut cu nuci și însiropat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Urfa Kebap",
+            "tip": "Try this less spicy but incredibly flavorful kebab at one of the many local eateries."
+          },
+          {
+            "name": "Ciğer Kebabı (Liver Kebab)",
+            "tip": "For the adventurous, this is a local delicacy often eaten for breakfast."
+          },
+          {
+            "name": "Şıllık Tatlısı",
+            "tip": "A unique crepe-like dessert filled with walnuts and soaked in syrup."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Balıklıgöl",
+            "tip": "Finden Sie eine ruhige Bank abseits der Menschenmassen, um die spirituelle Ruhe des Ortes aufzusaugen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht von der Urfa-Burg",
+            "tip": "Gehen Sie bei Sonnenuntergang für einen ruhigen Moment und einen spektakulären Blick über die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Göbeklitepe am frühen Morgen",
+            "tip": "Erleben Sie die Stille dieses 12.000 Jahre alten Ortes, bevor die Busse ankommen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Balıklıgöl kertjei",
+            "tip": "Keress egy csendes padot a tömegtől távol, hogy magadba szívd a hely spirituális nyugalmát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az Urfai várból",
+            "tip": "Menj fel naplementekor egy csendes pillanatért és a városra nyíló látványos kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Göbeklitepe kora reggel",
+            "tip": "Tapasztald meg a 12 000 éves hely csendjét, mielőtt a buszok megérkeznek.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Balıklıgöl",
+            "tip": "Găsiți o bancă liniștită departe de mulțime pentru a absorbi pacea spirituală a locului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Castelul Urfa",
+            "tip": "Mergeți la apus pentru un moment de liniște și o priveliște spectaculoasă asupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Göbeklitepe dimineața devreme",
+            "tip": "Experimentați liniștea acestui sit vechi de 12.000 de ani înainte de sosirea autobuzelor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Balıklıgöl Gardens",
+            "tip": "Find a quiet bench away from the main crowds to soak in the spiritual peace of the site.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Urfa Castle Viewpoint",
+            "tip": "Go near sunset for a quiet moment and a spectacular view over the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Göbeklitepe early morning",
+            "tip": "Experience the silence of this 12,000-year-old site before the buses arrive.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Historischer Basar",
+            "tip": "Verlieren Sie sich in den Gassen und finden Sie alles von Gewürzen bis zu handgefertigten Kupferwaren."
+          },
+          {
+            "name": "Gümrük Hanı",
+            "tip": "Ideal für den Kauf von lokalen Textilien, Schals und traditioneller Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Történelmi bazár",
+            "tip": "Vessz el a sikátorokban, és találj meg mindent a fűszerektől a kézzel készített rézárukig."
+          },
+          {
+            "name": "Gümrük Hanı",
+            "tip": "Ideális helyi textíliák, sálak és hagyományos ruhák vásárlásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul Istoric",
+            "tip": "Pierdeți-vă pe alei și găsiți de toate, de la mirodenii la obiecte de cupru lucrate manual."
+          },
+          {
+            "name": "Gümrük Hanı",
+            "tip": "Ideal pentru a cumpăra textile locale, eșarfe și îmbrăcăminte tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Historic Bazaar",
+            "tip": "Get lost in the alleys and find everything from spices to handmade copper goods."
+          },
+          {
+            "name": "Gümrük Hanı",
+            "tip": "Great for buying local textiles, scarves, and traditional clothing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tanken Sie voll, bevor Sie nach Göbeklitepe aufbrechen.",
+          "Der Verkehr in der Stadt kann chaotisch sein; parken Sie am Stadtrand und gehen Sie zu Fuß.",
+          "Nutzen Sie eine GPS-App zur Navigation.",
+          "Prüfen Sie die Öffnungszeiten von Göbeklitepe im Voraus."
+        ],
+        "hu": [
+          "Tankolj tele, mielőtt Göbeklitepe felé indulsz.",
+          "A városi forgalom kaotikus lehet; parkolj a peremén és sétálj.",
+          "Használj GPS-alkalmazást a navigációhoz.",
+          "Előre ellenőrizd a Göbeklitepe nyitvatartási idejét."
+        ],
+        "ro": [
+          "Alimentați rezervorul înainte de a pleca spre Göbeklitepe.",
+          "Traficul în oraș poate fi haotic; parcați la periferie și mergeți pe jos.",
+          "Utilizați o aplicație GPS pentru navigație.",
+          "Verificați din timp programul de funcționare al Göbeklitepe."
+        ],
+        "en": [
+          "Fill up your fuel tank before heading out to Göbeklitepe.",
+          "City traffic can be chaotic; park on the outskirts and walk.",
+          "Use a GPS app for navigation.",
+          "Check Göbeklitepe's opening hours in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museums-Cluster",
+            "hu": "Múzeumi negyed",
+            "ro": "Grupul de muzee",
+            "en": "Museum Cluster"
+          },
+          "coords": [
+            38.7865,
+            37.1441
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Haltestelle 'Müze Kompleksi'.",
+            "hu": "Menj busszal a 'Müze Kompleksi' megállóig.",
+            "ro": "Luați un autobuz până la stația 'Müze Kompleksi'.",
+            "en": "Take a bus to the 'Müze Kompleksi' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Şanlıurfa",
+            "hu": "Şanlıurfa Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Şanlıurfa",
+            "en": "Şanlıurfa Archaeology Museum"
+          },
+          "coords": [
+            38.7865,
+            37.1441
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um die Göbeklitepe-Funde im Kontext zu sehen.",
+            "hu": "Kezdd itt, hogy kontextusban lásd a Göbeklitepe leleteket.",
+            "ro": "Începeți de aici pentru a vedea descoperirile de la Göbeklitepe în context.",
+            "en": "Start here to see the Göbeklitepe findings in context."
+          }
+        },
+        {
+          "name": {
+            "de": "Haleplibahçe-Mosaikmuseum",
+            "hu": "Haleplibahçe Mozaikmúzeum",
+            "ro": "Muzeul de Mozaic Haleplibahçe",
+            "en": "Haleplibahçe Mosaic Museum"
+          },
+          "coords": [
+            38.7858,
+            37.1448
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Archäologischen Museum entfernt.",
+            "hu": "Csak egy rövid séta a Régészeti Múzeumtól.",
+            "ro": "La doar o scurtă plimbare de Muzeul de Arheologie.",
+            "en": "Just a short walk from the Archaeology Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Balıklıgöl-Cluster",
+            "hu": "Balıklıgöl negyed",
+            "ro": "Grupul Balıklıgöl",
+            "en": "Balıklıgöl Cluster"
+          },
+          "coords": [
+            38.7915,
+            37.1518
+          ],
+          "category": "lakes",
+          "arrive_at": "12:55",
+          "stay_min": 10,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder Dolmuş zur Haltestelle 'Balıklıgöl'.",
+            "hu": "Menj busszal vagy dolmuş-sal a 'Balıklıgöl' megállóig.",
+            "ro": "Luați un autobuz sau dolmuș până la stația 'Balıklıgöl'.",
+            "en": "Take a bus or dolmuş to the 'Balıklıgöl' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Gümrük Hanı & Mittagessen",
+            "hu": "Gümrük Hanı és ebéd",
+            "ro": "Gümrük Hanı & Prânz",
+            "en": "Gümrük Hanı & Lunch"
+          },
+          "coords": [
+            38.7895,
+            37.1558
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Mittagspause in historischem Ambiente.",
+            "hu": "Ideális hely egy ebédszünetre történelmi környezetben.",
+            "ro": "Un loc ideal pentru o pauză de prânz într-un cadru istoric.",
+            "en": "An ideal spot for a lunch break in a historic setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Balıklıgöl & Urfa-Burg",
+            "hu": "Balıklıgöl és Urfai vár",
+            "ro": "Balıklıgöl & Castelul Urfa",
+            "en": "Balıklıgöl & Urfa Castle"
+          },
+          "coords": [
+            38.7905,
+            37.1507
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 155,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Park und erklimmen Sie dann die Burg für die beste Aussicht am Nachmittag.",
+            "hu": "Fedezd fel a parkot, majd mássz fel a várba a legjobb délutáni kilátásért.",
+            "ro": "Explorați parcul și apoi urcați la castel pentru cea mai bună priveliște de după-amiază.",
+            "en": "Explore the park and then climb the castle for the best afternoon views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel von Urfa, um die Hauptattraktionen effizient zu erkunden. Beginnen Sie den Tag mit einer Busfahrt zum Museumsviertel, wo Sie das Archäologische Museum und das Mosaikmuseum zu Fuß erkunden. Nach einer intensiven Geschichtsstunde bringt Sie eine kurze Busfahrt zum spirituellen Zentrum der Stadt. Verbringen Sie den Nachmittag damit, den Balıklıgöl-Komplex zu erkunden: genießen Sie ein Mittagessen im Gümrük Hanı, füttern Sie die Fische im heiligen Teich und erklimmen Sie die Burg von Urfa, um einen Panoramablick zu genießen, bevor Sie den Bus zurück nehmen.",
+        "hu": "Használja Urfa tömegközlekedését a főbb látnivalók hatékony felfedezéséhez. Kezdje a napot egy buszúttal a múzeumi negyedbe, ahol gyalogosan fedezheti fel a Régészeti Múzeumot és a Mozaikmúzeumot. Egy intenzív történelemóra után egy rövid buszút elviszi a város spirituális központjába. Töltse a délutánt a Balıklıgöl komplexum felfedezésével: ebédeljen a Gümrük Hanı-ban, etesse meg a halakat a szent tóban, és másszon fel az Urfa várába a panorámás kilátásért, mielőtt visszaindulna a busszal.",
+        "ro": "Folosiți transportul public din Urfa pentru a explora eficient atracțiile principale. Începeți ziua cu o călătorie cu autobuzul către cartierul muzeelor, unde veți explora pe jos Muzeul de Arheologie și Muzeul de Mozaic. După o lecție intensă de istorie, o scurtă călătorie cu autobuzul vă va duce în centrul spiritual al orașului. Petreceți după-amiaza explorând complexul Balıklıgöl: savurați prânzul la Gümrük Hanı, hrăniți peștii din iazul sacru și urcați la Castelul Urfa pentru vederi panoramice înainte de a lua autobuzul înapoi.",
+        "en": "Use Urfa's public transport to explore the main attractions efficiently. Start the day with a bus ride to the museum district, where you'll explore the Archaeology and Mosaic museums on foot. After an intense history lesson, a short bus ride takes you to the city's spiritual heart. Spend the afternoon exploring the Balıklıgöl complex: enjoy lunch at Gümrük Hanı, feed the fish in the sacred pool, and climb Urfa Castle for panoramic views before catching the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Urfa Kebap",
+            "tip": "Probieren Sie diesen weniger scharfen, aber unglaublich schmackhaften Kebab in einem der vielen lokalen Restaurants."
+          },
+          {
+            "name": "Ciğer Kebabı (Leberkebab)",
+            "tip": "Für Abenteuerlustige ist dies eine lokale Delikatesse, die oft zum Frühstück gegessen wird."
+          },
+          {
+            "name": "Şıllık Tatlısı",
+            "tip": "Ein einzigartiges Dessert aus Krepp-ähnlichem Teig, gefüllt mit Walnüssen und in Sirup getränkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Urfa Kebap",
+            "tip": "Kóstold meg ezt a kevésbé fűszeres, de hihetetlenül ízletes kebabot a sok helyi étterem egyikében."
+          },
+          {
+            "name": "Ciğer Kebabı (máj-kebab)",
+            "tip": "A kalandvágyóknak ez egy helyi finomság, amit gyakran reggelire esznek."
+          },
+          {
+            "name": "Şıllık Tatlısı",
+            "tip": "Egyedi, palacsintatészta-szerű desszert dióval töltve és szirupba áztatva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Urfa Kebap",
+            "tip": "Încercați acest kebab mai puțin picant, dar incredibil de aromat, la unul dintre multele restaurante locale."
+          },
+          {
+            "name": "Ciğer Kebabı (Kebab de ficat)",
+            "tip": "Pentru cei aventuroși, aceasta este o delicatesă locală, adesea consumată la micul dejun."
+          },
+          {
+            "name": "Şıllık Tatlısı",
+            "tip": "Un desert unic, asemănător clătitelor, umplut cu nuci și însiropat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Urfa Kebap",
+            "tip": "Try this less spicy but incredibly flavorful kebab at one of the many local eateries."
+          },
+          {
+            "name": "Ciğer Kebabı (Liver Kebab)",
+            "tip": "For the adventurous, this is a local delicacy often eaten for breakfast."
+          },
+          {
+            "name": "Şıllık Tatlısı",
+            "tip": "A unique crepe-like dessert filled with walnuts and soaked in syrup."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Balıklıgöl",
+            "tip": "Finden Sie eine ruhige Bank abseits der Menschenmassen, um die spirituelle Ruhe des Ortes aufzusaugen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht von der Urfa-Burg",
+            "tip": "Gehen Sie bei Sonnenuntergang für einen ruhigen Moment und einen spektakulären Blick über die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hof des Gümrük Hanı",
+            "tip": "Am frühen Morgen ist der Hof eine Oase der Ruhe, bevor die Käufer ankommen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Balıklıgöl kertjei",
+            "tip": "Keress egy csendes padot a tömegtől távol, hogy magadba szívd a hely spirituális nyugalmát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az Urfai várból",
+            "tip": "Menj fel naplementekor egy csendes pillanatért és a városra nyíló látványos kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gümrük Hanı udvara",
+            "tip": "Kora reggel az udvar a béke szigete, mielőtt a vásárlók megérkeznek.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Balıklıgöl",
+            "tip": "Găsiți o bancă liniștită departe de mulțime pentru a absorbi pacea spirituală a locului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Castelul Urfa",
+            "tip": "Mergeți la apus pentru un moment de liniște și o priveliște spectaculoasă asupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Gümrük Hanı",
+            "tip": "Dimineața devreme, curtea este o oază de calm înainte de sosirea cumpărătorilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Balıklıgöl Gardens",
+            "tip": "Find a quiet bench away from the main crowds to soak in the spiritual peace of the site.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Urfa Castle Viewpoint",
+            "tip": "Go near sunset for a quiet moment and a spectacular view over the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gümrük Hanı Courtyard",
+            "tip": "Early in the morning, the courtyard is an oasis of calm before the shoppers arrive.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Historischer Basar",
+            "tip": "Verlieren Sie sich in den Gassen und finden Sie alles von Gewürzen bis zu handgefertigten Kupferwaren."
+          },
+          {
+            "name": "Gümrük Hanı",
+            "tip": "Ideal für den Kauf von lokalen Textilien, Schals und traditioneller Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Történelmi bazár",
+            "tip": "Vessz el a sikátorokban, és találj meg mindent a fűszerektől a kézzel készített rézárukig."
+          },
+          {
+            "name": "Gümrük Hanı",
+            "tip": "Ideális helyi textíliák, sálak és hagyományos ruhák vásárlásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul Istoric",
+            "tip": "Pierdeți-vă pe alei și găsiți de toate, de la mirodenii la obiecte de cupru lucrate manual."
+          },
+          {
+            "name": "Gümrük Hanı",
+            "tip": "Ideal pentru a cumpăra textile locale, eșarfe și îmbrăcăminte tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Historic Bazaar",
+            "tip": "Get lost in the alleys and find everything from spices to handmade copper goods."
+          },
+          {
+            "name": "Gümrük Hanı",
+            "tip": "Great for buying local textiles, scarves, and traditional clothing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'UrfaKart' für eine einfache Nutzung der öffentlichen Verkehrsmittel.",
+          "Busse können voll sein, seien Sie also auf Stehplätze vorbereitet.",
+          "Die Routen können verwirrend sein; fragen Sie Einheimische oder den Busfahrer um Hilfe.",
+          "Behalten Sie Ihre Sachen in überfüllten Bussen im Auge."
+        ],
+        "hu": [
+          "Vásárolj egy 'UrfaKart'-ot a tömegközlekedés egyszerű használatához.",
+          "A buszok zsúfoltak lehetnek, készülj fel az állóhelyekre.",
+          "Az útvonalak zavarosak lehetnek; kérj segítséget a helyiektől vagy a buszsofőrtől.",
+          "Figyelj az értékeidre a zsúfolt buszokon."
+        ],
+        "ro": [
+          "Cumpărați un 'UrfaKart' pentru a utiliza ușor transportul public.",
+          "Autobuzele pot fi aglomerate, așa că fiți pregătiți să stați în picioare.",
+          "Rutele pot fi confuze; cereți ajutorul localnicilor sau al șoferului de autobuz.",
+          "Fiți cu ochii pe bunurile dvs. în autobuzele aglomerate."
+        ],
+        "en": [
+          "Purchase an 'UrfaKart' for easy use of public transport.",
+          "Buses can be crowded, so be prepared to stand.",
+          "Routes can be confusing; don't hesitate to ask locals or the bus driver for help.",
+          "Keep an eye on your belongings on crowded buses."
+        ]
+      }
+    }
+  }
+}

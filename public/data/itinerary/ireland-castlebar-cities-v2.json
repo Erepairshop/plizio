@@ -1,0 +1,1312 @@
+{
+  "city_id": "ireland-castlebar-cities-v2",
+  "anchor": {
+    "name": "Castlebar",
+    "coords": [
+      -9.296,
+      53.855
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Christ Church",
+            "hu": "Christ Church (Krisztus-templom)",
+            "ro": "Biserica Christ Church",
+            "en": "Christ Church"
+          },
+          "coords": [
+            -9.2972,
+            53.8561
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die schönen Buntglasfenster und die friedliche Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a gyönyörű ólomüveg ablakokat és a békés belső atmoszférát.",
+            "ro": "Observați vitraliile frumoase și atmosfera pașnică din interior.",
+            "en": "Look out for the beautiful stained-glass windows and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Linenhall Kunstzentrum",
+            "hu": "Linenhall Művészeti Központ",
+            "ro": "Centrul de Arte Linenhall",
+            "en": "Linenhall Arts Centre"
+          },
+          "coords": [
+            -9.2981,
+            53.8555
+          ],
+          "category": "cultural centres",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm für lokale Ausstellungen oder eine Theatervorstellung am Abend.",
+            "hu": "Nézze meg a programot helyi kiállításokért vagy egy esti színházi előadásért.",
+            "ro": "Verificați programul pentru expoziții locale sau o piesă de teatru de seară.",
+            "en": "Check the schedule for local exhibitions or an evening theatre performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Jackie-Clarke-Sammlung",
+            "hu": "A Jackie Clarke Gyűjtemény",
+            "ro": "Colecția Jackie Clarke",
+            "en": "The Jackie Clarke Collection"
+          },
+          "coords": [
+            -9.2953,
+            53.8542
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte, konzentrieren Sie sich auf die Proklamationen und persönlichen Briefe.",
+            "hu": "Történelemrajongóknak kötelező, fókuszáljon a kiáltványokra és a személyes levelekre.",
+            "ro": "O vizită obligatorie pentru pasionații de istorie; concentrați-vă pe proclamații și scrisori personale.",
+            "en": "A must-see for history buffs; focus on the proclamations and personal letters."
+          }
+        },
+        {
+          "name": {
+            "de": "Mayo Friedenspark",
+            "hu": "Mayo Béke Park",
+            "ro": "Parcul Păcii Mayo",
+            "en": "Mayo Peace Park"
+          },
+          "coords": [
+            -9.3005,
+            53.8533
+          ],
+          "category": "monuments",
+          "arrive_at": "12:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein besinnlicher Ort. Nehmen Sie sich einen Moment Zeit, um die Inschriften zu lesen.",
+            "hu": "Egy elgondolkodtató hely. Szánjon egy percet a feliratok elolvasására.",
+            "ro": "Un loc solemn. Acordați-vă un moment pentru a citi inscripțiile.",
+            "en": "A solemn place. Take a moment to read the inscriptions and reflect."
+          }
+        },
+        {
+          "name": {
+            "de": "Castlebar Stadtpark",
+            "hu": "Castlebar Városi Park",
+            "ro": "Parcul Orașului Castlebar",
+            "en": "Castlebar Town Park"
+          },
+          "coords": [
+            -9.2901,
+            53.857
+          ],
+          "category": "parks",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für ein Mittagspicknick. Suchen Sie nach den Skulpturen, die im Park verstreut sind.",
+            "hu": "Tökéletes egy ebédpiknikhez. Keresse a parkban elszórt szobrokat.",
+            "ro": "Perfect pentru un picnic la prânz. Căutați sculpturile răspândite prin parc.",
+            "en": "Perfect for a midday picnic. Look for the sculptures scattered around the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Lough Lannagh",
+            "hu": "Lough Lannagh",
+            "ro": "Lough Lannagh",
+            "en": "Lough Lannagh"
+          },
+          "coords": [
+            -9.315,
+            53.858
+          ],
+          "category": "natural features",
+          "arrive_at": "15:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spazierweg um den See ist am späten Nachmittag am schönsten. Überqueren Sie die Fußgängerbrücke.",
+            "hu": "A tó körüli sétaút késő délután a legszebb. Menjen át a gyaloghídon.",
+            "ro": "Plimbarea în jurul lacului este cea mai frumoasă după-amiaza târziu. Traversați pasarela pietonală.",
+            "en": "The walking loop around the lake is most beautiful in the late afternoon. Cross the pedestrian bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Castlebar beginnt mit spiritueller Ruhe in der Christ Church, gefolgt von einem kulturellen Eintauchen im Linenhall Arts Centre. Am Mittag tauchen Sie tief in die irische Geschichte in der Jackie-Clarke-Sammlung ein, bevor Sie im Mayo Peace Park innehalten. Der Nachmittag ist für eine entspannte Zeit im Stadtpark reserviert. Sie beenden den Tag mit einem erfrischenden Spaziergang am malerischen Lough Lannagh, um die natürliche Schönheit der Gegend zu genießen.",
+        "hu": "A castlebari nap a Christ Church spirituális nyugalmával kezdődik, majd a Linenhall Művészeti Központban merül el a kultúrában. Délben mélyen beleássa magát Írország történelmébe a Jackie Clarke Gyűjteményben, mielőtt egy pillanatra megállna a Mayo Béke Parkban. A délután a városi parkban való pihenésre van fenntartva. A napot egy frissítő sétával zárja a festői Lough Lannagh mellett, élvezve a környék természeti szépségét.",
+        "ro": "Ziua dvs. în Castlebar începe cu liniștea spirituală de la Biserica Christ Church, urmată de o imersiune culturală la Centrul de Arte Linenhall. La prânz, aprofundați istoria irlandeză la Colecția Jackie Clarke, înainte de un moment de reflecție la Parcul Păcii Mayo. După-amiaza este rezervată pentru relaxare în Parcul Orașului. Încheiați ziua cu o plimbare revigorantă de-a lungul pitorescului Lough Lannagh, absorbind frumusețea naturală a zonei.",
+        "en": "Your day in Castlebar begins with the spiritual calm of Christ Church, followed by a cultural dip at the Linenhall Arts Centre. At midday, you'll dive deep into Irish history at The Jackie Clarke Collection before a reflective pause at the Mayo Peace Park. The afternoon is reserved for some relaxing time in the Town Park. You'll end the day with a refreshing walk along the scenic Lough Lannagh, soaking in the area's natural beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Irisches Frühstück",
+            "tip": "Beginnen Sie Ihren Tag herzhaft. Probieren Sie das im Café Rua für eine klassische Version."
+          },
+          {
+            "name": "Lamm-Eintopf",
+            "tip": "Ein wärmender und traditioneller Eintopf, perfekt für das Mittag- oder Abendessen. Suchen Sie ihn in Pubs wie Bosh."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ír reggeli",
+            "tip": "Kezdje a napot kiadósan. Próbálja ki a Café Rua-ban a klasszikus változatot."
+          },
+          {
+            "name": "Báránypörkölt",
+            "tip": "Melegítő és hagyományos pörkölt, tökéletes ebédre vagy vacsorára. Keresse a Bosh-hoz hasonló pubokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Micul Dejun Irlandez",
+            "tip": "Începeți ziua consistent. Încercați-l la Café Rua pentru o versiune clasică."
+          },
+          {
+            "name": "Tocăniță de miel",
+            "tip": "O tocană caldă și tradițională, perfectă pentru prânz sau cină. Căutați-o în pub-uri precum Bosh."
+          }
+        ],
+        "en": [
+          {
+            "name": "Irish Breakfast",
+            "tip": "Start your day hearty. Try it at Café Rua for a classic take."
+          },
+          {
+            "name": "Lamb Stew",
+            "tip": "A warming and traditional stew, perfect for lunch or dinner. Look for it in pubs like Bosh."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Lough Lannagh",
+            "tip": "Der Weg um den See ist ruhig und bietet eine schöne Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Nationalmuseums",
+            "tip": "Selbst wenn Sie das Museum nicht besuchen, sind die Gärten ein friedlicher Rückzugsort.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inneres der Christ Church",
+            "tip": "Ein ruhiger Ort zur Besinnung abseits der geschäftigen Straßen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Lough Lannagh körül",
+            "tip": "A tó körüli ösvény csendes és gyönyörű kilátást nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Nemzeti Múzeum kertjei",
+            "tip": "Még ha nem is látogatja meg a múzeumot, a kertek békés menedéket jelentenek.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Christ Church belseje",
+            "tip": "Csendes hely az elmélkedésre a forgalmas utcáktól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare la Lough Lannagh",
+            "tip": "Cărarea din jurul lacului este liniștită și oferă vederi frumoase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Muzeului Național",
+            "tip": "Chiar dacă nu vizitați muzeul, grădinile sunt un refugiu pașnic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Interiorul Bisericii Christ Church",
+            "tip": "Un spațiu liniștit pentru reflecție, departe de străzile aglomerate.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lough Lannagh Walk",
+            "tip": "The path around the lake is quiet and offers beautiful views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "National Museum Gardens",
+            "tip": "Even if you don't visit the museum, its gardens are a peaceful retreat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inside Christ Church",
+            "tip": "A quiet space for reflection away from the busy streets.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Das Linenhall Arts Centre hat oft einen kleinen Laden mit Werken lokaler Künstler."
+          },
+          {
+            "name": "Wollwaren",
+            "tip": "Suchen Sie nach Geschäften, die Aran-Pullover oder irische Wolldecken verkaufen – klassische Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "A Linenhall Művészeti Központban gyakran van egy kis bolt, ahol helyi művészek alkotásait árulják."
+          },
+          {
+            "name": "Gyapjúáruk",
+            "tip": "Keressen olyan boltokat, amelyek Aran-pulóvereket vagy ír gyapjútakarókat árulnak - klasszikus szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Centrul de Arte Linenhall are adesea un mic magazin care vinde lucrări ale artiștilor locali."
+          },
+          {
+            "name": "Bunuri din lână",
+            "tip": "Căutați magazine care vând pulovere Aran sau pături irlandeze de lână – suveniruri clasice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "The Linenhall Arts Centre often has a small shop selling works by local artists."
+          },
+          {
+            "name": "Woollen Goods",
+            "tip": "Look for shops selling Aran sweaters or Irish wool blankets—classic souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da dies ein reiner Rundgang ist.",
+          "Ein leichter Regenmantel ist immer eine gute Idee in Irland, auch an einem sonnigen Tag.",
+          "Castlebar ist kompakt, was das Gehen zur idealen Art macht, die Stadt zu erkunden.",
+          "Nehmen Sie sich Zeit am Lough Lannagh; es ist ein lokaler Favorit zur Entspannung."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel ez egy teljes sétaútvonal.",
+          "Egy könnyű esőkabát mindig jó ötlet Írországban, még napos időben is.",
+          "Castlebar kompakt, így a gyaloglás ideális módja a város felfedezésének.",
+          "Szánjon időt a Lough Lannagh-nál; a helyiek kedvenc pihenőhelye."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece acesta este un tur complet pietonal.",
+          "O haină de ploaie ușoară este întotdeauna o idee bună în Irlanda, chiar și într-o zi însorită.",
+          "Castlebar este compact, ceea ce face ca mersul pe jos să fie modul ideal de a-l explora.",
+          "Nu vă grăbiți la Lough Lannagh; este un favorit local pentru relaxare."
+        ],
+        "en": [
+          "Wear comfortable shoes as this is an all-walking tour.",
+          "A light raincoat is always a good idea in Ireland, even on a sunny day.",
+          "Castlebar is compact, making walking the ideal way to explore.",
+          "Take your time at Lough Lannagh; it's a local favourite for relaxation."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Die Jackie-Clarke-Sammlung",
+            "hu": "A Jackie Clarke Gyűjtemény",
+            "ro": "Colecția Jackie Clarke",
+            "en": "The Jackie Clarke Collection"
+          },
+          "coords": [
+            -9.2953,
+            53.8542
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für dieses faszinierende Museum über die irische Geschichte ein.",
+            "hu": "Tervezzen elegendő időt erre a lenyűgöző múzeumra az ír történelemről.",
+            "ro": "Alocați suficient timp pentru acest muzeu fascinant despre istoria irlandeză.",
+            "en": "Allow plenty of time for this fascinating museum of Irish history."
+          }
+        },
+        {
+          "name": {
+            "de": "Christ Church",
+            "hu": "Christ Church (Krisztus-templom)",
+            "ro": "Biserica Christ Church",
+            "en": "Christ Church"
+          },
+          "coords": [
+            -9.2972,
+            53.8561
+          ],
+          "category": "churches",
+          "arrive_at": "10:43",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Stopp. Das Fahrrad lässt sich leicht in der Nähe abstellen.",
+            "hu": "Rövid, de megéri megállni. A biciklit könnyű a közelben lezárni.",
+            "ro": "O oprire scurtă, dar care merită. Este ușor să vă parcați bicicleta în apropiere.",
+            "en": "A short but worthwhile stop. It's easy to lock up your bike nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Lough Lannagh",
+            "hu": "Lough Lannagh",
+            "ro": "Lough Lannagh",
+            "en": "Lough Lannagh"
+          },
+          "coords": [
+            -9.315,
+            53.858
+          ],
+          "category": "natural features",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren Sie um den See für eine malerische und flache Strecke. Ideal für ein Picknick.",
+            "hu": "Kerékpározzon a tó körül egy festői és sík útvonalon. Ideális piknikezéshez.",
+            "ro": "Mergeți cu bicicleta în jurul lacului pentru un traseu pitoresc și plat. Ideal pentru un picnic.",
+            "en": "Cycle the loop around the lake for a scenic and flat ride. Ideal for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Stadt",
+            "hu": "Ebéd a városban",
+            "ro": "Prânz în oraș",
+            "en": "Lunch in Town"
+          },
+          "coords": [
+            -9.296,
+            53.855
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kehren Sie für ein gemütliches Mittagessen ins Stadtzentrum zurück. Viele Cafés bieten Fahrradständer an.",
+            "hu": "Térjen vissza a városközpontba egy kellemes ebédre. Sok kávézóban van kerékpártároló.",
+            "ro": "Întoarceți-vă în centrul orașului pentru un prânz relaxat. Multe cafenele au suporturi pentru biciclete.",
+            "en": "Head back to the town centre for a leisurely lunch. Many cafes have bike racks."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum für das Landleben",
+            "hu": "Nemzeti Vidéki Élet Múzeuma",
+            "ro": "Muzeul Național al Vieții Rurale",
+            "en": "National Museum of Country Life"
+          },
+          "coords": [
+            -9.2205,
+            53.8652
+          ],
+          "category": "museums",
+          "arrive_at": "14:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour nach Turlough ist angenehm. Das Museum ist erstklassig, planen Sie genügend Zeit ein.",
+            "hu": "A Turlough-ba vezető bicikliút kellemes. A múzeum világszínvonalú, szánjon rá elég időt.",
+            "ro": "Plimbarea cu bicicleta până la Turlough este plăcută. Muzeul este de clasă mondială, alocați-vă timp suficient.",
+            "en": "The cycle out to Turlough is pleasant. The museum is world-class, so allow ample time."
+          }
+        },
+        {
+          "name": {
+            "de": "Turlough Rundturm",
+            "hu": "Turlough-i kerek torony",
+            "ro": "Turnul Rotund Turlough",
+            "en": "Turlough Round Tower"
+          },
+          "coords": [
+            -9.2198,
+            53.8658
+          ],
+          "category": "historical",
+          "arrive_at": "16:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Direkt neben dem Museumsgelände gelegen. Ein beeindruckendes Stück früher irischer Geschichte.",
+            "hu": "Közvetlenül a múzeum területe mellett található. A korai ír történelem lenyűgöző darabja.",
+            "ro": "Situat chiar lângă terenul muzeului. O piesă impresionantă a istoriei irlandeze timpurii.",
+            "en": "Located right beside the museum grounds. An impressive piece of early Irish history."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück nach Castlebar",
+            "hu": "Vissza Castlebarba",
+            "ro": "Înapoi în Castlebar",
+            "en": "Return to Castlebar"
+          },
+          "coords": [
+            -9.296,
+            53.855
+          ],
+          "category": "other",
+          "arrive_at": "17:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt zurück in die Stadt, während der Tag zu Ende geht.",
+            "hu": "Élvezze a visszaútat a városba, ahogy a nap véget ér.",
+            "ro": "Bucurați-vă de plimbarea înapoi în oraș pe măsură ce ziua se încheie.",
+            "en": "Enjoy the ride back into town as the day winds down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt mit Geschichte in der Jackie-Clarke-Sammlung und einem kurzen Halt in der Christ Church. Am Vormittag radeln Sie zum Lough Lannagh für eine malerische Pause am Wasser, bevor Sie für ein wohlverdientes Mittagessen ins Zentrum zurückkehren. Der Nachmittag ist einer längeren Fahrt zum Nationalmuseum für das Landleben in Turlough gewidmet, wo Sie in die ländliche Vergangenheit Irlands eintauchen. Ein kurzer Sprung zum alten Rundturm rundet Ihre Erkundung ab, bevor Sie am Abend nach Castlebar zurückradeln.",
+        "hu": "Kerékpáros kalandja a Jackie Clarke Gyűjtemény történelmével és egy rövid megállóval a Christ Church-nél kezdődik. Délelőtt a Lough Lannagh-hoz teker, egy festői szünetre a vízparton, mielőtt visszatérne a központba egy jól megérdemelt ebédre. A délutánt egy hosszabb útnak szenteli a turlough-i Nemzeti Vidéki Élet Múzeumába, ahol elmerülhet Írország vidéki múltjában. Egy rövid ugrás az ősi kerek toronyhoz teszi teljessé a felfedezést, mielőtt este visszatekerne Castlebarba.",
+        "ro": "Aventura dvs. pe bicicletă începe cu istorie la Colecția Jackie Clarke și o oprire rapidă la Biserica Christ Church. Dimineața pedalați spre Lough Lannagh pentru o pauză pitorească lângă apă, înainte de a vă întoarce în centru pentru un prânz binemeritat. După-amiaza este dedicată unei plimbări mai lungi către Muzeul Național al Vieții Rurale din Turlough, aprofundând trecutul rural al Irlandei. O scurtă vizită la vechiul turn rotund completează explorarea înainte de a pedala înapoi spre Castlebar seara.",
+        "en": "Your cycling adventure starts with history at The Jackie Clarke Collection and a quick stop at Christ Church. The morning sees you pedal to Lough Lannagh for a scenic waterside break before returning to the centre for a well-earned lunch. The afternoon is dedicated to a longer ride out to the National Museum of Country Life in Turlough, immersing you in Ireland's rural past. A quick hop to the ancient round tower completes your exploration before you cycle back to Castlebar in the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar-Snacks",
+            "tip": "Nach einer langen Radtour ist ein herzhafter Snack in einem Pub wie The Castle Inn genau das Richtige."
+          },
+          {
+            "name": "Frischer Fisch",
+            "tip": "Probieren Sie den Fang des Tages in Restaurants wie The Dining Room, die lokale Produkte beziehen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kocsmai falatok",
+            "tip": "Egy hosszú biciklizés után egy kiadós falat a The Castle Inn-hez hasonló pubban pont megfelelő."
+          },
+          {
+            "name": "Friss hal",
+            "tip": "Kóstolja meg a nap fogását a The Dining Room-hoz hasonló éttermekben, amelyek helyi alapanyagokból dolgoznak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustări de pub",
+            "tip": "După o plimbare lungă cu bicicleta, o gustare consistentă la un pub precum The Castle Inn este exact ce trebuie."
+          },
+          {
+            "name": "Pește proaspăt",
+            "tip": "Încercați captura zilei la restaurante precum The Dining Room, care se aprovizionează local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pub Grub",
+            "tip": "After a long cycle, some hearty grub at a pub like The Castle Inn hits the spot."
+          },
+          {
+            "name": "Fresh Fish",
+            "tip": "Try the catch of the day at restaurants like The Dining Room that source locally."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Greenway-Pfade",
+            "tip": "Suchen Sie nach Abschnitten des Great Western Greenway in der Nähe für eine ruhige Radtour.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Ufer des Lough Lannagh",
+            "tip": "Finden Sie eine ruhige Bank am Seeufer, um die Radfahrer und Vögel zu beobachten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Greenway ösvények",
+            "tip": "Keressen a közelben a Great Western Greenway szakaszait egy csendes biciklizéshez.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Lough Lannagh partja",
+            "tip": "Keressen egy csendes padot a tóparton, hogy nézze a kerékpárosokat és a madarakat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trasee Greenway",
+            "tip": "Căutați secțiuni din Great Western Greenway în apropiere pentru o plimbare liniștită cu bicicleta.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Malurile lacului Lough Lannagh",
+            "tip": "Găsiți o bancă liniștită pe malul lacului pentru a privi bicicliștii și păsările.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Greenway Paths",
+            "tip": "Look for sections of the Great Western Greenway nearby for a peaceful cycle.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Lough Lannagh Shores",
+            "tip": "Find a quiet bench along the lake shore to watch the cyclists and birds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "Lokale Fahrradgeschäfte wie West Coast Wheelers haben vielleicht einzigartige Ausrüstung oder lokale Karten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A helyi kerékpárboltokban, mint a West Coast Wheelers, egyedi felszereléseket vagy helyi térképeket találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Magazinele locale de biciclete precum West Coast Wheelers ar putea avea echipamente unice sau hărți locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessories",
+            "tip": "Local bike shops like West Coast Wheelers might have some unique gear or local maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad von einem örtlichen Geschäft, wenn Sie keins haben; sie können Routen empfehlen.",
+          "Die Straßen können eng sein, fahren Sie defensiv.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für die Fahrt nach Turlough.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Béreljen biciklit egy helyi boltból, ha nincs sajátja; tudnak útvonalakat ajánlani.",
+          "Az utak szűkek lehetnek, vezessen védekezően.",
+          "Vigyen vizet és rágcsálnivalót, különösen a Turlough-ba vezető útra.",
+          "A sisak viselése erősen ajánlott."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la un magazin local dacă nu aveți una; ei pot recomanda trasee.",
+          "Drumurile pot fi înguste, conduceți defensiv.",
+          "Luați apă și gustări, în special pentru plimbarea spre Turlough.",
+          "O cască este foarte recomandată."
+        ],
+        "en": [
+          "Rent a bike from a local shop if you don't have one; they can recommend routes.",
+          "The roads can be narrow, so cycle defensively.",
+          "Carry water and snacks, especially for the ride out to Turlough.",
+          "A helmet is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nationalmuseum für das Landleben",
+            "hu": "Nemzeti Vidéki Élet Múzeuma",
+            "ro": "Muzeul Național al Vieții Rurale",
+            "en": "National Museum of Country Life"
+          },
+          "coords": [
+            -9.2205,
+            53.8652
+          ],
+          "category": "museums",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie früh hierher, um den Menschenmassen zu entgehen. Der Parkplatz ist groß. Dies ist Ihr erster Cluster.",
+            "hu": "Érkezzen ide korán, hogy elkerülje a tömeget. A parkoló nagy. Ez az első állomás-csoport.",
+            "ro": "Conduceți aici devreme pentru a evita aglomerația. Parcarea este amplă. Acesta este primul dvs. grup de opriri.",
+            "en": "Drive here early to beat the crowds. Parking is ample. This is your first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Turlough Rundturm",
+            "hu": "Turlough-i kerek torony",
+            "ro": "Turnul Rotund Turlough",
+            "en": "Turlough Round Tower"
+          },
+          "coords": [
+            -9.2198,
+            53.8658
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museumsparkplatz. Ein tolles Fotomotiv.",
+            "hu": "Rövid séta a múzeum parkolójából. Remek fotótéma.",
+            "ro": "O scurtă plimbare de la parcarea muzeului. O oportunitate foto excelentă.",
+            "en": "A short walk from the museum car park. A great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Lough Lannagh",
+            "hu": "Lough Lannagh",
+            "ro": "Lough Lannagh",
+            "en": "Lough Lannagh"
+          },
+          "coords": [
+            -9.315,
+            53.858
+          ],
+          "category": "natural features",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum See für einen Spaziergang vor dem Mittagessen. Es gibt ausgewiesene Parkplätze. Dies ist Ihr zweiter Cluster.",
+            "hu": "Autózzon a tóhoz egy ebéd előtti sétára. Vannak kijelölt parkolók. Ez a második állomás-csoport.",
+            "ro": "Conduceți la lac pentru o plimbare înainte de prânz. Există parcări dedicate. Acesta este al doilea grup de opriri.",
+            "en": "Drive to the lake for a pre-lunch walk. There are dedicated parking areas. This is your second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Stadtmitte",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in Town Centre"
+          },
+          "coords": [
+            -9.296,
+            53.855
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum und finden Sie ein Café. Dies ist Ihr dritter und letzter Cluster.",
+            "hu": "Parkoljon a városközpontban és keressen egy kávézót. Ez a harmadik és utolsó állomás-csoport.",
+            "ro": "Parcați în centrul orașului și găsiți o cafenea. Acesta este al treilea și ultimul grup de opriri.",
+            "en": "Park in the town centre and find a cafe. This is your third and final cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Jackie-Clarke-Sammlung",
+            "hu": "A Jackie Clarke Gyűjtemény",
+            "ro": "Colecția Jackie Clarke",
+            "en": "The Jackie Clarke Collection"
+          },
+          "coords": [
+            -9.2953,
+            53.8542
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Mittagessen aus leicht zu Fuß erreichbar. Lassen Sie Ihr Auto geparkt.",
+            "hu": "Ebéd után könnyen megközelíthető gyalog. Hagyja az autót leparkolva.",
+            "ro": "La câțiva pași de locul unde ați luat prânzul. Lăsați mașina parcată.",
+            "en": "An easy walk from your lunch spot. Leave your car parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Christ Church",
+            "hu": "Christ Church (Krisztus-templom)",
+            "ro": "Biserica Christ Church",
+            "en": "Christ Church"
+          },
+          "coords": [
+            -9.2972,
+            53.8561
+          ],
+          "category": "churches",
+          "arrive_at": "16:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, um den Tag mit einem Moment der Ruhe ausklingen zu lassen.",
+            "hu": "Rövid séta, hogy a napot egy csendes pillanattal zárja.",
+            "ro": "O scurtă plimbare pentru a încheia ziua cu un moment de liniște.",
+            "en": "A short walk to end the day with a moment of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Hotel/Abendessen",
+            "hu": "Vissza a szálláshoz/vacsorához",
+            "ro": "Întoarcere la hotel/cină",
+            "en": "Drive to Hotel/Dinner"
+          },
+          "coords": [
+            -9.296,
+            53.855
+          ],
+          "category": "other",
+          "arrive_at": "17:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kehren Sie zu Ihrem Auto zurück, um Ihre Erkundung von Castlebar abzuschließen.",
+            "hu": "Térjen vissza az autójához, hogy befejezze a castlebari felfedezést.",
+            "ro": "Întoarceți-vă la mașină pentru a încheia explorarea Castlebar.",
+            "en": "Return to your car to conclude your exploration of Castlebar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einer Fahrt zum ersten Cluster in Turlough, wo Sie das Nationalmuseum für das Landleben und den alten Rundturm zu Fuß erkunden. Am Vormittag fahren Sie zu Ihrem zweiten Cluster, dem Lough Lannagh, für einen Spaziergang in der Natur. Am Mittag fahren Sie ins Stadtzentrum von Castlebar, Ihrem letzten Cluster, parken einmal und genießen das Mittagessen. Der Nachmittag wird zu Fuß verbracht, wobei Sie die Jackie-Clarke-Sammlung und die Christ Church besuchen, bevor Sie am späten Nachmittag zu Ihrem Auto zurückkehren.",
+        "hu": "Autós napja egy utazással kezdődik az első állomás-csoporthoz, Turlough-ba, ahol gyalog fedezi fel a Nemzeti Vidéki Élet Múzeumát és az ősi kerek tornyot. Délelőtt a második csoporthoz, a Lough Lannagh-hoz hajt egy természeti sétára. Délben Castlebar városközpontjába, az utolsó csoporthoz utazik, egyszer leparkol, és elfogyasztja az ebédjét. A délutánt gyalog tölti, meglátogatva a Jackie Clarke Gyűjteményt és a Christ Church-öt, mielőtt késő délután visszatérne az autójához.",
+        "ro": "Ziua dvs. cu mașina începe cu o călătorie către primul grup de opriri din Turlough, explorând pe jos Muzeul Național al Vieții Rurale și vechiul turn rotund. Dimineața, conduceți către al doilea grup, Lough Lannagh, pentru o plimbare în natură. La prânz, vă deplasați în centrul orașului Castlebar, ultimul grup, parcați o dată și vă bucurați de prânz. După-amiaza este petrecută pe jos, vizitând Colecția Jackie Clarke și Biserica Christ Church, înainte de a vă întoarce la mașină după-amiaza târziu.",
+        "en": "Your car day starts with a drive to the first cluster at Turlough, exploring the National Museum of Country Life and the ancient round tower on foot. Mid-morning, you'll drive to your second cluster, Lough Lannagh, for a nature walk. At midday, you travel to Castlebar town centre, your final cluster, park once, and enjoy lunch. The afternoon is spent on foot, visiting The Jackie Clarke Collection and Christ Church, before returning to your car in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sonntagsbraten",
+            "tip": "Wenn Sie an einem Sonntag hier sind, ist ein traditioneller Braten in einem Pub wie The Connaught Inn ein Muss."
+          },
+          {
+            "name": "Boxty",
+            "tip": "Suchen Sie nach diesem irischen Kartoffelpfannkuchen in traditionellen Restaurants oder Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasárnapi sült",
+            "tip": "Ha vasárnap van itt, a hagyományos sült a The Connaught Inn-hez hasonló pubban kötelező."
+          },
+          {
+            "name": "Boxty",
+            "tip": "Keresse ezt az ír krumplis palacsintát a hagyományos éttermekben vagy kávézókban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friptura de duminică",
+            "tip": "Dacă sunteți aici într-o duminică, o friptură tradițională la un pub precum The Connaught Inn este obligatorie."
+          },
+          {
+            "name": "Boxty",
+            "tip": "Căutați această clătită irlandeză din cartofi în restaurantele sau cafenelele tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunday Roast",
+            "tip": "If you're here on a Sunday, a traditional roast at a pub like The Connaught Inn is a must."
+          },
+          {
+            "name": "Boxty",
+            "tip": "Look for this Irish potato pancake in traditional restaurants or cafes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt aufs Land",
+            "tip": "Genießen Sie die ruhigen Landstraßen rund um Castlebar.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Museumsgelände Turlough",
+            "tip": "Das Gelände ist weitläufig und friedlich, ideal für einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki autózás",
+            "tip": "Élvezze a csendes vidéki utakat Castlebar környékén.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Turlough múzeumi terület",
+            "tip": "A terület tágas és békés, tökéletes egy csendes sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare la țară",
+            "tip": "Bucurați-vă de drumurile rurale liniștite din jurul Castlebar.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Terenul muzeului Turlough",
+            "tip": "Terenul este extins și pașnic, perfect pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Countryside Drive",
+            "tip": "Enjoy the quiet country roads surrounding Castlebar.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Turlough Museum Grounds",
+            "tip": "The grounds are extensive and peaceful, perfect for a quiet stroll.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf Ihren Fahrten Ausschau nach Hofläden, die frische lokale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Útközben figyelje a tanyasi boltokat, ahol friss helyi termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Fiți atenți la magazinele de fermă care vând produse locale proaspete în timpul plimbărilor dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Keep an eye out for farm shops selling fresh local produce on your drives."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann kostenpflichtig sein, haben Sie Münzen dabei.",
+          "Die Verwendung der Cluster-Methode spart Zeit bei der Parkplatzsuche.",
+          "Überprüfen Sie die Öffnungszeiten des Nationalmuseums im Voraus.",
+          "Ein GPS ist hilfreich, um die ländlichen Orte zu finden."
+        ],
+        "hu": [
+          "A városközponti parkolás díjköteles lehet, legyen Önnél aprópénz.",
+          "A klaszterezési módszerrel időt takaríthat meg a parkolóhely-keresésnél.",
+          "Előre ellenőrizze a Nemzeti Múzeum nyitvatartási idejét.",
+          "GPS hasznos a vidéki helyszínek megtalálásához."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi contra cost, aveți monede la îndemână.",
+          "Utilizarea metodei grupurilor economisește timp la căutarea parcării.",
+          "Verificați orele de deschidere ale Muzeului Național în avans.",
+          "Un GPS este util pentru a naviga către locațiile rurale."
+        ],
+        "en": [
+          "Town centre parking can be paid, so have coins ready.",
+          "Using the cluster method saves time looking for parking.",
+          "Check the National Museum's opening hours in advance.",
+          "A GPS is helpful for navigating to the rural sites."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 14.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtzentrum-Cluster: Christ Church",
+            "hu": "Belvárosi csoport: Christ Church",
+            "ro": "Grupul din centrul orașului: Biserica Christ Church",
+            "en": "Town Centre Cluster: Christ Church"
+          },
+          "coords": [
+            -9.2972,
+            53.8561
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt. Alles ist von hier aus zu Fuß erreichbar.",
+            "hu": "Kezdje a napot a város szívében. Innen minden gyalogosan elérhető.",
+            "ro": "Începeți ziua în inima orașului. Totul este la distanță de mers pe jos de aici.",
+            "en": "Start your day in the heart of the town. Everything is walkable from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Jackie-Clarke-Sammlung",
+            "hu": "A Jackie Clarke Gyűjtemény",
+            "ro": "Colecția Jackie Clarke",
+            "en": "The Jackie Clarke Collection"
+          },
+          "coords": [
+            -9.2953,
+            53.8542
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche. Tauchen Sie tief in die irische Geschichte ein.",
+            "hu": "Rövid séta a templomtól. Merüljön el mélyen az ír történelemben.",
+            "ro": "O scurtă plimbare de la biserică. Pătrundeți adânc în istoria irlandeză.",
+            "en": "A short walk from the church. Delve deep into Irish history."
+          }
+        },
+        {
+          "name": {
+            "de": "Transit nach Turlough",
+            "hu": "Busz Turlough-ba",
+            "ro": "Tranzit către Turlough",
+            "en": "Transit to Turlough"
+          },
+          "coords": [
+            -9.2205,
+            53.8652
+          ],
+          "category": "transit",
+          "arrive_at": "11:50",
+          "stay_min": 0,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum nach Turlough. Überprüfen Sie den Fahrplan der Bus Éireann.",
+            "hu": "Szálljon buszra a városközpontból Turlough-ba. Ellenőrizze a Bus Éireann menetrendjét.",
+            "ro": "Luați un autobuz din centrul orașului spre Turlough. Verificați orarul Bus Éireann.",
+            "en": "Catch a bus from the town centre to Turlough. Check the Bus Éireann schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum für das Landleben",
+            "hu": "Nemzeti Vidéki Élet Múzeuma",
+            "ro": "Muzeul Național al Vieții Rurale",
+            "en": "National Museum of Country Life"
+          },
+          "coords": [
+            -9.2205,
+            53.8652
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie an der Haltestelle des Museums aus. Planen Sie ein Mittagessen im Café des Museums.",
+            "hu": "Szálljon le a múzeum megállójánál. Tervezzen egy ebédet a múzeum kávézójában.",
+            "ro": "Coborâți la stația muzeului. Planificați să luați prânzul la cafeneaua muzeului.",
+            "en": "Get off at the museum stop. Plan to have lunch at the museum's cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Turlough Rundturm",
+            "hu": "Turlough-i kerek torony",
+            "ro": "Turnul Rotund Turlough",
+            "en": "Turlough Round Tower"
+          },
+          "coords": [
+            -9.2198,
+            53.8658
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Museum entfernt, ein Muss, wenn Sie in Turlough sind.",
+            "hu": "Csak egy rövid sétára a múzeumtól, kötelező látnivaló Turlough-ban.",
+            "ro": "La o scurtă plimbare de muzeu, o vizită obligatorie în Turlough.",
+            "en": "Just a short walk from the museum, a must-see while in Turlough."
+          }
+        },
+        {
+          "name": {
+            "de": "Transit zurück nach Castlebar & Spaziergang zum See",
+            "hu": "Busz vissza Castlebarba és séta a tóhoz",
+            "ro": "Tranzit înapoi în Castlebar și plimbare la lac",
+            "en": "Transit back to Castlebar & Lake Walk"
+          },
+          "coords": [
+            -9.315,
+            53.858
+          ],
+          "category": "natural features",
+          "arrive_at": "15:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 6.7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück und steigen Sie in der Nähe von Lough Lannagh aus für einen letzten entspannenden Spaziergang.",
+            "hu": "Szálljon vissza a buszra, és szálljon le a Lough Lannagh közelében egy utolsó pihentető sétára.",
+            "ro": "Luați autobuzul înapoi și coborâți lângă Lough Lannagh pentru o ultimă plimbare relaxantă.",
+            "en": "Take the bus back and get off near Lough Lannagh for a final relaxing walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Transit-Tag beginnt mit einem morgendlichen Spaziergang durch das Stadtzentrum von Castlebar, bei dem Sie die Christ Church und die Jackie-Clarke-Sammlung besuchen. Gegen Mittag nehmen Sie einen Bus nach Turlough, um das beeindruckende Nationalmuseum für das Landleben und den benachbarten Rundturm zu erkunden. Hier können Sie auch zu Mittag essen. Am Nachmittag bringt Sie ein Bus zurück in die Stadt, wo Sie in der Nähe des Lough Lannagh aussteigen, um den Tag mit einem ruhigen Spaziergang am Seeufer ausklingen zu lassen.",
+        "hu": "Tranzitnapja egy reggeli sétával kezdődik Castlebar belvárosában, meglátogatva a Christ Church-öt és a Jackie Clarke Gyűjteményt. Dél körül busszal utazik Turlough-ba, hogy felfedezze a lenyűgöző Nemzeti Vidéki Élet Múzeumát és a szomszédos kerek tornyot, és itt ebédeljen. Délután a busz visszaviszi a városba, ahol a Lough Lannagh közelében száll le, hogy a napot egy békés tóparti sétával zárja.",
+        "ro": "Ziua dvs. de tranzit începe cu o plimbare de dimineață prin centrul orașului Castlebar, vizitând Biserica Christ Church și Colecția Jackie Clarke. Spre prânz, luați un autobuz spre Turlough pentru a explora impresionantul Muzeu Național al Vieții Rurale și turnul rotund adiacent, oprindu-vă aici pentru prânz. După-amiaza, un autobuz vă duce înapoi în oraș, coborând lângă Lough Lannagh pentru a încheia ziua cu o plimbare liniștită pe malul lacului.",
+        "en": "Your transit day starts with a morning walk through Castlebar's town centre, visiting Christ Church and The Jackie Clarke Collection. Around midday, you'll catch a bus to Turlough to explore the impressive National Museum of Country Life and the adjacent round tower, stopping for lunch there. In the afternoon, a bus takes you back to town, dropping you near Lough Lannagh to finish the day with a peaceful lakeside stroll."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Scones mit Marmelade und Sahne",
+            "tip": "Ein perfekter Nachmittagssnack. Genießen Sie ihn im Café des Nationalmuseums."
+          },
+          {
+            "name": "Guinness",
+            "tip": "Kein Besuch ist komplett ohne ein Pint. Probieren Sie es in einem authentischen Pub wie John McHale's."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pogácsa lekvárral és tejszínnel",
+            "tip": "Tökéletes délutáni harapnivaló. Élvezze a Nemzeti Múzeum kávézójában."
+          },
+          {
+            "name": "Guinness",
+            "tip": "Egyetlen látogatás sem teljes egy korsó nélkül. Próbálja ki egy autentikus pubban, mint a John McHale's."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scones cu gem și frișcă",
+            "tip": "O gustare perfectă de după-amiază. Savurați-le la cafeneaua Muzeului Național."
+          },
+          {
+            "name": "Guinness",
+            "tip": "Nicio vizită nu este completă fără o halbă. Încercați-o la un pub autentic precum John McHale's."
+          }
+        ],
+        "en": [
+          {
+            "name": "Scones with Jam and Cream",
+            "tip": "A perfect afternoon snack. Enjoy them at the National Museum's cafe."
+          },
+          {
+            "name": "Guinness",
+            "tip": "No visit is complete without a pint. Try one at an authentic pub like John McHale's."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt",
+            "tip": "Genießen Sie die Aussicht auf die Landschaft vom oberen Deck eines Doppeldeckerbusses.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Mayo Peace Park",
+            "tip": "Wenn Sie im Stadtzentrum Zeit haben, ist dies ein ruhiger Ort zum Innehalten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszút",
+            "tip": "Élvezze a vidéki tájat egy emeletes busz felső szintjéről.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Mayo Béke Park",
+            "tip": "Ha van ideje a városközpontban, ez egy csendes hely a megállásra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul",
+            "tip": "Bucurați-vă de priveliștile rurale de la etajul unui autobuz cu etaj.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Parcul Păcii Mayo",
+            "tip": "Dacă aveți timp în centrul orașului, acesta este un loc liniștit pentru a face o pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus Journey",
+            "tip": "Enjoy the countryside views from the top deck of a double-decker bus.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Mayo Peace Park",
+            "tip": "If you have time in the town centre, this is a quiet spot to pause.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsladen",
+            "tip": "Der Laden im National Museum of Country Life hat eine ausgezeichnete Auswahl an Büchern und Geschenken zum Thema Irland."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt",
+            "tip": "A Nemzeti Vidéki Élet Múzeumának boltjában kiváló választék található ír témájú könyvekből és ajándékokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Magazinul de la Muzeul Național al Vieții Rurale are o selecție excelentă de cărți și cadouri cu tematică irlandeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Shop",
+            "tip": "The shop at the National Museum of Country Life has an excellent selection of Irish-themed books and gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn dies günstiger ist.",
+          "Überprüfen Sie die Fahrpläne für den letzten Bus zurück nach Castlebar von Turlough.",
+          "Haben Sie Bargeld für den Busfahrpreis bereit, falls keine Karten akzeptiert werden.",
+          "Die Bus Éireann App ist nützlich für Echtzeit-Updates."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha olcsóbb.",
+          "Ellenőrizze az utolsó busz menetrendjét Turlough-ból Castlebarba.",
+          "Legyen Önnél készpénz a buszjegyre, ha nem fogadnak el kártyát.",
+          "A Bus Éireann alkalmazás hasznos a valós idejű frissítésekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă este mai rentabil.",
+          "Verificați orarul ultimului autobuz înapoi spre Castlebar din Turlough.",
+          "Aveți numerar pregătit pentru biletul de autobuz, în caz că nu se acceptă carduri.",
+          "Aplicația Bus Éireann este utilă pentru actualizări în timp real."
+        ],
+        "en": [
+          "Buy a day-pass for the bus if it's more economical.",
+          "Check the schedule for the last bus back to Castlebar from Turlough.",
+          "Have cash ready for the bus fare in case cards aren't accepted.",
+          "The Bus Éireann app is useful for real-time updates."
+        ]
+      }
+    }
+  }
+}

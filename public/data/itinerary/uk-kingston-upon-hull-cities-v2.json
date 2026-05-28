@@ -1,0 +1,1345 @@
+{
+  "city_id": "uk-kingston-upon-hull-cities-v2",
+  "anchor": {
+    "name": "Kingston upon Hull",
+    "coords": [
+      -0.3325,
+      53.7443
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 2.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Münster von Hull",
+            "hu": "Hull Minster",
+            "ro": "Catedrala din Hull",
+            "en": "Hull Minster"
+          },
+          "coords": [
+            -0.33,
+            53.744
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf das beeindruckende Westfenster und die 700 Jahre alte Bausubstanz.",
+            "hu": "Figyelje meg a lenyűgöző nyugati ablakot és a 700 éves kőfaragást.",
+            "ro": "Fiți atenți la impresionanta fereastră de vest și la structura veche de 700 de ani.",
+            "en": "Look out for the impressive west window and the 700-year-old stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Wilberforce-Haus",
+            "hu": "Wilberforce-ház",
+            "ro": "Casa Wilberforce",
+            "en": "Wilberforce House"
+          },
+          "coords": [
+            -0.328,
+            53.745
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen über den transatlantischen Sklavenhandel.",
+            "hu": "Koncentráljon a transzatlanti rabszolga-kereskedelemről szóló kiállításokra.",
+            "ro": "Concentrați-vă pe expozițiile despre comerțul transatlantic cu sclavi.",
+            "en": "Focus on the exhibits detailing the transatlantic slave trade."
+          }
+        },
+        {
+          "name": {
+            "de": "Streetlife Museum",
+            "hu": "Streetlife Közlekedési Múzeum",
+            "ro": "Muzeul Streetlife",
+            "en": "Streetlife Museum"
+          },
+          "coords": [
+            -0.327,
+            53.745
+          ],
+          "category": "museums",
+          "arrive_at": "11:23",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Machen Sie eine simulierte Kutschenfahrt für ein authentisches Erlebnis des 19. Jahrhunderts.",
+            "hu": "Tegyen egy szimulált hintóutat egy autentikus 19. századi élményért.",
+            "ro": "Faceți o plimbare simulată cu trăsura pentru o experiență autentică din secolul al XIX-lea.",
+            "en": "Take a simulated carriage ride for an authentic 19th-century experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum Hull",
+            "hu": "Hulli Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Hull",
+            "en": "Hull Maritime Museum"
+          },
+          "coords": [
+            -0.337,
+            53.744
+          ],
+          "category": "museums",
+          "arrive_at": "13:03",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Walfang-Galerie ist ein Muss und zeigt Hulls bedeutende Rolle in der Industrie.",
+            "hu": "A bálnavadászati galéria kötelező látnivaló, bemutatja Hull fontos szerepét az iparágban.",
+            "ro": "Galeria vânătorii de balene este o vizită obligatorie, arătând rolul semnificativ al Hull-ului în industrie.",
+            "en": "The whaling gallery is a must-see, showcasing Hull's significant role in the industry."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferens-Kunstgalerie",
+            "hu": "Ferens Művészeti Galéria",
+            "ro": "Galeria de Artă Ferens",
+            "en": "Ferens Art Gallery"
+          },
+          "coords": [
+            -0.338,
+            53.745
+          ],
+          "category": "museums",
+          "arrive_at": "14:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie nach Pietro Lorenzettis „Christus zwischen den Heiligen Paulus und Petrus“, einem Meisterwerk aus dem 14. Jahrhundert.",
+            "hu": "Keresse Pietro Lorenzetti „Krisztus Szent Pál és Szent Péter között” című 14. századi remekművét.",
+            "ro": "Căutați „Hristos între Sfinții Pavel și Petru” de Pietro Lorenzetti, o capodoperă din secolul al XIV-lea.",
+            "en": "Look for Pietro Lorenzetti's 'Christ between Saints Paul and Peter', a 14th-century masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Hull Marina",
+            "hu": "Hulli kikötő",
+            "ro": "Portul de agrement Hull",
+            "en": "Hull Marina"
+          },
+          "coords": [
+            -0.335,
+            53.739
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für einen Kaffee am späten Nachmittag, während Sie die Boote beobachten.",
+            "hu": "Kiváló hely egy késő délutáni kávéra, miközben a hajókat nézi.",
+            "ro": "Un loc minunat pentru o cafea târzie, privind bărcile.",
+            "en": "A great spot for a late afternoon coffee while watching the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "The Deep",
+            "hu": "The Deep",
+            "ro": "The Deep",
+            "en": "The Deep"
+          },
+          "coords": [
+            -0.327,
+            53.741
+          ],
+          "category": "museums",
+          "arrive_at": "17:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Glastunnel ist der Höhepunkt und bietet eine unglaubliche Unterwasseransicht.",
+            "hu": "Az üvegalagút a csúcspont, hihetetlen víz alatti kilátást nyújt.",
+            "ro": "Tunelul de sticlă este punctul culminant, oferind o vedere subacvatică incredibilă.",
+            "en": "The glass tunnel is the highlight, offering an incredible underwater view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Hull im Schatten des prächtigen Münsters, bevor Sie in das Erbe des Abolitionismus im Wilberforce House eintauchen. Erkunden Sie die reiche Verkehrs- und Seefahrtsgeschichte der Stadt in den Museen am Vormittag. Der Nachmittag ist der Kunst in der Ferens Art Gallery gewidmet, gefolgt von einem entspannten Spaziergang entlang der Marina. Beenden Sie Ihren Tag mit einer Erkundung der Unterwasserwelt im The Deep, einem architektonischen Wunderwerk, das die Skyline der Stadt prägt.",
+        "hu": "Kezdje a napot Hull történelmi szívében, a csodálatos Minster árnyékában, mielőtt elmerülne az abolicionista örökségben a Wilberforce-házban. Fedezze fel a város gazdag közlekedési és tengerészeti múltját a délelőtti múzeumlátogatások során. A délután a művészeté a Ferens Művészeti Galériában, majd egy pihentető séta következik a kikötő mentén. Zárja a napot a The Deep víz alatti világának felfedezésével, egy építészeti csodával, amely meghatározza a város látképét.",
+        "ro": "Începeți ziua în inima istorică a orașului Hull, la umbra impunătoarei Catedrale, înainte de a aprofunda moștenirea aboliționistă la Casa Wilberforce. Explorați bogata istorie a transportului și a navigației orașului în muzeele de la mijlocul dimineții. După-amiaza este dedicată artei la Galeria Ferens, urmată de o plimbare relaxantă de-a lungul portului. Încheiați ziua explorând lumea subacvatică la The Deep, o minune arhitecturală care definește orizontul orașului.",
+        "en": "Start your day in Hull's historic heart under the shadow of the magnificent Minster before delving into abolitionist heritage at Wilberforce House. Explore the city's rich transport and maritime past in the mid-morning museums. The afternoon is for art at the Ferens Art Gallery, followed by a relaxing stroll along the Marina. End your day exploring the underwater world at The Deep, an architectural marvel defining the city's skyline."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein Muss in einer Hafenstadt. Probieren Sie es in einem der traditionellen Läden in der Nähe der Marina."
+          },
+          {
+            "name": "Hull Pattie",
+            "tip": "Eine lokale Spezialität aus Kartoffelpüree und Salbei, frittiert. Ein einzigartiger Snack."
+          },
+          {
+            "name": "The Lion and Key",
+            "tip": "Eine historische Kneipe im alten Stadtteil, die für ihre exzellenten Fischgerichte und ihr Ale bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Kötelező egy kikötővárosban. Próbálja ki az egyik hagyományos boltban a kikötő közelében."
+          },
+          {
+            "name": "Hull Pattie",
+            "tip": "Helyi specialitás, tört burgonyából és zsályából készült, mélyhűtve. Egyedi snack."
+          },
+          {
+            "name": "The Lion and Key",
+            "tip": "Történelmi pub az óvárosban, híres a kiváló halételeiről és söreiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "O necesitate într-un oraș port. Încercați-l la una dintre prăvăliile tradiționale de lângă port."
+          },
+          {
+            "name": "Hull Pattie",
+            "tip": "O specialitate locală din piure de cartofi și salvie, prăjită. O gustare unică."
+          },
+          {
+            "name": "The Lion and Key",
+            "tip": "Un pub istoric din Orașul Vechi, renumit pentru preparatele excelente din pește și berea sa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "A must-try in a port city. Get it from one of the traditional shops near the Marina."
+          },
+          {
+            "name": "Hull Pattie",
+            "tip": "A local delicacy of mashed potato and sage, deep-fried. A unique snack."
+          },
+          {
+            "name": "The Lion and Key",
+            "tip": "A historic pub in the Old Town known for its excellent fish dishes and ale."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Queen's Gardens",
+            "tip": "Ein friedlicher Stadtpark, ideal für eine Pause zwischen den Museumsbesuchen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Fluss Hull",
+            "tip": "Folgen Sie dem Fluss vom Stadtzentrum weg für eine ruhigere Perspektive.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hull Minster am frühen Morgen",
+            "tip": "Besuchen Sie uns kurz nach der Öffnung, um die Stille und das Licht durch die Buntglasfenster zu genießen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Queen's Gardens",
+            "tip": "Békés városi park, ideális egy szünetre a múzeumlátogatások között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Hull folyó mentén",
+            "tip": "Kövesse a folyót a városközponttól távolabb egy csendesebb perspektíváért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hull Minster kora reggel",
+            "tip": "Látogasson el rögtön nyitás után, hogy élvezze a csendet és a festett üvegablakokon átszűrődő fényt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Reginei",
+            "tip": "Un parc urban liniștit, perfect pentru o pauză între vizitele la muzee.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul râului Hull",
+            "tip": "Urmați râul departe de centrul orașului pentru o perspectivă mai liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Catedrala din Hull dimineața devreme",
+            "tip": "Vizitați imediat după deschidere pentru a vă bucura de liniște și de lumina prin vitralii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Queen's Gardens",
+            "tip": "A peaceful city park, perfect for a break between museum visits.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "River Hull Walk",
+            "tip": "Follow the river away from the city centre for a quieter perspective.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hull Minster early morning",
+            "tip": "Visit just after it opens to enjoy the silence and the light through the stained glass.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hepworth's Arcade",
+            "tip": "Eine wunderschöne viktorianische Arkade mit unabhängigen Geschäften und Boutiquen."
+          },
+          {
+            "name": "Trinity Market",
+            "tip": "Ein historischer überdachter Markt mit einer Mischung aus Street Food, frischen Produkten und lokalen Händlern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hepworth's Arcade",
+            "tip": "Gyönyörű viktoriánus árkád független üzletekkel és butikokkal."
+          },
+          {
+            "name": "Trinity Market",
+            "tip": "Történelmi fedett piac, ahol street food, friss termékek és helyi árusok keverednek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hepworth's Arcade",
+            "tip": "O frumoasă arcadă victoriană cu magazine și buticuri independente."
+          },
+          {
+            "name": "Piața Trinity",
+            "tip": "O piață acoperită istorică, cu un amestec de mâncare stradală, produse proaspete și comercianți locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hepworth's Arcade",
+            "tip": "A beautiful Victorian arcade with independent shops and boutiques."
+          },
+          {
+            "name": "Trinity Market",
+            "tip": "A historic indoor market with a mix of street food, fresh produce, and local traders."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Viele der Museen in Hull sind kostenlos, aber überprüfen Sie die Öffnungszeiten im Voraus.",
+          "Die Fußgängerbrücke über den Fluss Hull bietet eine großartige Aussicht auf The Deep und den Fluss.",
+          "Halten Sie Ausschau nach den Gedichten von Philip Larkin, die in den Gehwegen der Stadt eingelassen sind."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "Hull számos múzeuma ingyenes, de előre ellenőrizze a nyitvatartási időt.",
+          "A Hull folyón átívelő gyaloghíd nagyszerű kilátást nyújt a The Deepre és a folyóra.",
+          "Keresse Philip Larkin verseit, amelyeket a város járdáiba ágyaztak."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pietruirea din Orașul Vechi poate fi denivelată.",
+          "Multe dintre muzeele din Hull sunt gratuite, dar verificați orele de deschidere în avans.",
+          "Podul pietonal peste râul Hull oferă vederi minunate ale The Deep și ale râului.",
+          "Fiți atenți la poeziile lui Philip Larkin încorporate în trotuarele orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobbles in the Old Town can be uneven.",
+          "Many of Hull's museums are free, but check opening times in advance.",
+          "The footbridge over the River Hull offers great views of The Deep and the river.",
+          "Look out for Philip Larkin's poems embedded in the city's pavements."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hull Marina",
+            "hu": "Hulli kikötő",
+            "ro": "Portul de agrement Hull",
+            "en": "Hull Marina"
+          },
+          "coords": [
+            -0.335,
+            53.739
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer frischen Meeresbrise und beobachten Sie die Segelboote.",
+            "hu": "Kezdje a napot friss tengeri szellővel, nézze a vitorlásokat.",
+            "ro": "Începeți ziua cu o briză proaspătă de mare, privind iahturile.",
+            "en": "Start your day with a fresh sea breeze, watching the sailing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "The Deep",
+            "hu": "The Deep",
+            "ro": "The Deep",
+            "en": "The Deep"
+          },
+          "coords": [
+            -0.327,
+            53.741
+          ],
+          "category": "museums",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Buchen Sie Ihre Tickets online, um Warteschlangen zu vermeiden, besonders während der Schulferien.",
+            "hu": "Foglaljon jegyet online, hogy elkerülje a sorban állást, különösen az iskolai szünetekben.",
+            "ro": "Rezervați biletele online pentru a evita cozile, mai ales în timpul vacanțelor școlare.",
+            "en": "Book your tickets online to avoid queues, especially during school holidays."
+          }
+        },
+        {
+          "name": {
+            "de": "Streetlife Museum & Wilberforce House",
+            "hu": "Streetlife Múzeum & Wilberforce-ház",
+            "ro": "Muzeul Streetlife & Casa Wilberforce",
+            "en": "Streetlife Museum & Wilberforce House"
+          },
+          "coords": [
+            -0.327,
+            53.745
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Diese beiden Museen liegen nebeneinander und können zusammen besichtigt werden.",
+            "hu": "Ez a két múzeum egymás mellett található, együtt is meglátogathatók.",
+            "ro": "Aceste două muzee sunt adiacente și pot fi vizitate împreună.",
+            "en": "These two museums are adjacent and can be visited together."
+          }
+        },
+        {
+          "name": {
+            "de": "Münster von Hull",
+            "hu": "Hull Minster",
+            "ro": "Catedrala din Hull",
+            "en": "Hull Minster"
+          },
+          "coords": [
+            -0.33,
+            53.744
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort der Ruhe nach dem Trubel der Museen.",
+            "hu": "Nagyszerű hely a nyugalomra a múzeumok nyüzsgése után.",
+            "ro": "Un loc minunat de liniște după agitația muzeelor.",
+            "en": "A great place for some peace and quiet after the bustle of the museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferens-Kunstgalerie",
+            "hu": "Ferens Művészeti Galéria",
+            "ro": "Galeria de Artă Ferens",
+            "en": "Ferens Art Gallery"
+          },
+          "coords": [
+            -0.338,
+            53.745
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Sammlung reicht von altertümlichen Meistern bis hin zu zeitgenössischer britischer Kunst.",
+            "hu": "A gyűjtemény a régi mesterektől a kortárs brit művészetig terjed.",
+            "ro": "Colecția variază de la vechii maeștri la arta britanică contemporană.",
+            "en": "The collection ranges from Old Masters to contemporary British art."
+          }
+        },
+        {
+          "name": {
+            "de": "Humber-Brücke",
+            "hu": "Humber híd",
+            "ro": "Podul Humber",
+            "en": "Humber Bridge"
+          },
+          "coords": [
+            -0.451,
+            53.706
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 10,
+          "tip_5lang": {
+            "de": "Die Fahrt lohnt sich. Gehen oder radeln Sie einen Teil der Brücke für eine spektakuläre Aussicht.",
+            "hu": "Megéri az utat. Sétáljon vagy biciklizzen végig a hídon a látványos kilátásért.",
+            "ro": "Merită drumul. Plimbați-vă sau mergeți cu bicicleta pe o parte a podului pentru vederi spectaculoase.",
+            "en": "It's worth the ride out. Walk or cycle part of the bridge for spectacular views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Yachthafen von Hull und radeln Sie entlang der Küste zu dem beeindruckenden Aquarium The Deep. Nach der Erkundung der Unterwasserwelt fahren Sie ins Herz des Museumsviertels, wo Hulls reiche Geschichte auf Sie wartet. Nach einer kulturellen Pause in der Kathedrale und der Kunstgalerie unternehmen Sie am späten Nachmittag eine längere Fahrt zur majestätischen Humber-Brücke. Schließen Sie Ihren Tag ab, indem Sie den Panoramablick von diesem Meisterwerk der Ingenieurskunst genießen, ein perfekter Abschluss für einen aktiven Tag.",
+        "hu": "Induljon a Hull kikötőből, és tekerjen a vízparton az lenyűgöző The Deep akváriumhoz. A víz alatti világ felfedezése után irány a múzeumi negyed szíve, ahol Hull gazdag történelme várja. A katedrálisban és a művészeti galériában tartott kulturális szünet után egy hosszabb kerékpártúra következik a fenséges Humber hídhoz késő délután. Zárja a napot a mérnöki remekmű panorámájának élvezetével, amely tökéletes lezárása egy aktív napnak.",
+        "ro": "Începeți de la portul de agrement din Hull, pedalând pe malul apei spre impresionantul acvariu The Deep. După explorarea subacvatică, mergeți în inima Cartierului Muzeelor, unde vă așteaptă istoria bogată a orașului Hull. După o pauză culturală la catedrală și la galeria de artă, faceți o plimbare mai lungă cu bicicleta spre maiestuosul Pod Humber la sfârșitul după-amiezii. Încheiați ziua admirând priveliștile panoramice de pe această capodoperă a ingineriei, o concluzie perfectă pentru o zi activă.",
+        "en": "Kick off from Hull's marina, cycling along the waterfront to the impressive The Deep aquarium. After your underwater exploration, head into the heart of the Museum Quarter where Hull's rich history awaits. Following a cultural pause at the minster and art gallery, take a longer late-afternoon ride out to the majestic Humber Bridge. Finish your day by soaking in the panoramic views from this engineering masterpiece, a perfect conclusion to an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Thieving Harry's",
+            "tip": "Ein cooles Café in der Nähe der Marina, perfekt für einen Brunch oder Kaffee vor der Fahrt."
+          },
+          {
+            "name": "Trinity Market Food Court",
+            "tip": "Eine große Auswahl an Street Food aus aller Welt, ideal für ein schnelles und leckeres Mittagessen."
+          },
+          {
+            "name": "The Hope and Anchor Pub, South Ferriby",
+            "tip": "Wenn Sie die Humber-Brücke überqueren, ist dieser Pub auf der anderen Seite für sein Essen bekannt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Thieving Harry's",
+            "tip": "Menő kávézó a kikötő közelében, tökéletes egy brunchhoz vagy kávéhoz tekerés előtt."
+          },
+          {
+            "name": "Trinity Market Food Court",
+            "tip": "Nagy választék a világ street foodjaiból, ideális egy gyors és finom ebédhez."
+          },
+          {
+            "name": "The Hope and Anchor Pub, South Ferriby",
+            "tip": "Ha átkel a Humber hídon, ez a pub a másik oldalon híres az ételeiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Thieving Harry's",
+            "tip": "O cafenea cool lângă port, perfectă pentru un brunch sau o cafea înainte de plimbare."
+          },
+          {
+            "name": "Zona de restaurante a Pieței Trinity",
+            "tip": "O mare varietate de mâncare stradală din întreaga lume, excelentă pentru un prânz rapid și gustos."
+          },
+          {
+            "name": "Pubul The Hope and Anchor, South Ferriby",
+            "tip": "Dacă traversați Podul Humber, acest pub de pe cealaltă parte este renumit pentru mâncarea sa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Thieving Harry's",
+            "tip": "A cool cafe near the marina, perfect for a pre-ride brunch or coffee."
+          },
+          {
+            "name": "Trinity Market Food Court",
+            "tip": "A great variety of street food from around the world, great for a quick and tasty lunch."
+          },
+          {
+            "name": "The Hope and Anchor Pub, South Ferriby",
+            "tip": "If you cycle across the Humber Bridge, this pub on the other side is renowned for its food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Humber Bridge Country Park",
+            "tip": "Ein Naturschutzgebiet am Fuße der Brücke, perfekt für eine ruhige Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Radweg Trans Pennine Trail",
+            "tip": "Ein Teil der Route zur Humber-Brücke verläuft auf diesem ruhigen Weg abseits der Straßen.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "East Park",
+            "tip": "Ein großer viktorianischer Park, etwas weiter entfernt, aber mit dem Fahrrad erreichbar für einen längeren, ruhigen Ausflug.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Humber Bridge Country Park",
+            "tip": "Természetvédelmi terület a híd lábánál, tökéletes egy csendes pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Trans Pennine Trail kerékpárút",
+            "tip": "A Humber hídhoz vezető út egy része ezen a csendes, utaktól távoli ösvényen halad.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "East Park",
+            "tip": "Nagyobb viktoriánus park, kicsit távolabb, de biciklivel elérhető egy hosszabb, csendes kiruccanáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Național Humber Bridge",
+            "tip": "O rezervație naturală la baza podului, perfectă pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Traseul ciclist Trans Pennine Trail",
+            "tip": "O parte din traseul spre Podul Humber se află pe această potecă liniștită, departe de drumuri.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Parcul de Est",
+            "tip": "Un parc victorian mare, puțin mai departe, dar accesibil cu bicicleta pentru o evadare mai lungă și liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Humber Bridge Country Park",
+            "tip": "A nature reserve at the base of the bridge, perfect for a quiet break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Trans Pennine Trail cycle path",
+            "tip": "Part of the route to the Humber Bridge is on this quiet path away from roads.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "East Park",
+            "tip": "A large Victorian park, a bit further out but reachable by bike for a longer, quiet escape.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein gutes Schloss für Ihr Fahrrad mit, da Sie es an mehreren Orten abstellen werden.",
+          "Die Route zur Humber-Brücke ist größtenteils flach, kann aber windig sein.",
+          "Überprüfen Sie die Wettervorhersage; der Wind vom Meer kann die Fahrt anspruchsvoller machen.",
+          "Fahrradverleihstationen sind im Stadtzentrum verfügbar, wenn Sie kein eigenes mitbringen."
+        ],
+        "hu": [
+          "Hozzon magával egy jó lakatot a kerékpárjához, mivel több helyen is le fogja tenni.",
+          "A Humber hídhoz vezető út többnyire sík, de szeles lehet.",
+          "Ellenőrizze az időjárás-előrejelzést; a tenger felőli szél nehezítheti a tekerést.",
+          "Kerékpárkölcsönzők állnak rendelkezésre a városközpontban, ha nem hoz sajátot."
+        ],
+        "ro": [
+          "Aduceți o încuietoare bună pentru bicicletă, deoarece o veți lăsa în mai multe locații.",
+          "Traseul spre Podul Humber este în mare parte plat, dar poate fi vântos.",
+          "Verificați prognoza meteo; vântul de la mare poate face plimbarea mai dificilă.",
+          "Centrele de închiriere de biciclete sunt disponibile în centrul orașului dacă nu vă aduceți propria bicicletă."
+        ],
+        "en": [
+          "Bring a good lock for your bike as you'll be leaving it in multiple locations.",
+          "The route to the Humber Bridge is mostly flat but can be windy.",
+          "Check the weather forecast; the wind from the sea can make the ride more challenging.",
+          "Bike hire stations are available in the city centre if you don't bring your own."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:26",
+      "total_km": 13.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ferens-Kunstgalerie",
+            "hu": "Ferens Művészeti Galéria",
+            "ro": "Galeria de Artă Ferens",
+            "en": "Ferens Art Gallery"
+          },
+          "coords": [
+            -0.338,
+            53.745
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Princes Quay Shopping Centre, es ist nur ein kurzer Spaziergang.",
+            "hu": "Parkoljon a Princes Quay bevásárlóközpontban, csak egy rövid séta.",
+            "ro": "Parcați la centrul comercial Princes Quay, este la o scurtă plimbare.",
+            "en": "Park at the Princes Quay Shopping Centre, it's a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum Hull",
+            "hu": "Hulli Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Hull",
+            "en": "Hull Maritime Museum"
+          },
+          "coords": [
+            -0.337,
+            53.744
+          ],
+          "category": "museums",
+          "arrive_at": "10:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum ist sehr kompakt und informativ, perfekt für einen kurzen, aber lehrreichen Besuch.",
+            "hu": "A múzeum nagyon kompakt és informatív, tökéletes egy rövid, de tanulságos látogatáshoz.",
+            "ro": "Muzeul este foarte compact și informativ, perfect pentru o vizită scurtă, dar educativă.",
+            "en": "The museum is very compact and informative, perfect for a short but educational visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Münster von Hull",
+            "hu": "Hull Minster",
+            "ro": "Catedrala din Hull",
+            "en": "Hull Minster"
+          },
+          "coords": [
+            -0.33,
+            53.744
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie den „Pilgerstein“ in der Nähe des Altars.",
+            "hu": "Keresse a „Zarándokkövet” az oltár közelében.",
+            "ro": "Căutați „Piatra Pelerinului” lângă altar.",
+            "en": "Look for the 'Pilgrim's Stone' near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Wilberforce-Haus & Streetlife Museum",
+            "hu": "Wilberforce-ház & Streetlife Múzeum",
+            "ro": "Casa Wilberforce & Muzeul Streetlife",
+            "en": "Wilberforce House & Streetlife Museum"
+          },
+          "coords": [
+            -0.328,
+            53.745
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie hier mehr Zeit ein, da zwei ausgezeichnete Museen an einem Ort sind.",
+            "hu": "Tervezzen itt több időt, mivel két kiváló múzeum van egy helyen.",
+            "ro": "Planificați mai mult timp aici, deoarece sunt două muzee excelente într-o singură locație.",
+            "en": "Plan for more time here as it's two excellent museums in one spot."
+          }
+        },
+        {
+          "name": {
+            "de": "The Deep",
+            "hu": "The Deep",
+            "ro": "The Deep",
+            "en": "The Deep"
+          },
+          "coords": [
+            -0.327,
+            53.741
+          ],
+          "category": "museums",
+          "arrive_at": "15:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu The Deep und nutzen Sie deren Parkplatz. Es ist der einfachste Weg.",
+            "hu": "Vezessen a The Deephez, és használja a parkolójukat. Ez a legegyszerűbb módja.",
+            "ro": "Conduceți la The Deep și folosiți parcarea lor. Este cel mai simplu mod.",
+            "en": "Drive to The Deep and use their car park. It's the easiest way."
+          }
+        },
+        {
+          "name": {
+            "de": "Hull Marina",
+            "hu": "Hulli kikötő",
+            "ro": "Portul de agrement Hull",
+            "en": "Hull Marina"
+          },
+          "coords": [
+            -0.335,
+            53.739
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie über die Fußgängerbrücke von The Deep, um die Marina zu erreichen.",
+            "hu": "Sétáljon át a gyaloghídon a The Deep-től a kikötő eléréséhez.",
+            "ro": "Traversați podul pietonal de la The Deep pentru a ajunge la portul de agrement.",
+            "en": "Stroll across the footbridge from The Deep to reach the marina."
+          }
+        },
+        {
+          "name": {
+            "de": "Humber-Brücke Aussichtspunkt",
+            "hu": "Humber híd kilátó",
+            "ro": "Punct de belvedere Podul Humber",
+            "en": "Humber Bridge Viewpoint"
+          },
+          "coords": [
+            -0.451,
+            53.706
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "18:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 10,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hessle Foreshore für die klassische Ansicht der Brücke bei Sonnenuntergang.",
+            "hu": "Vezessen a Hessle Foreshore-hoz a híd klasszikus naplementés látványáért.",
+            "ro": "Conduceți spre Hessle Foreshore pentru vederea clasică a podului la apus.",
+            "en": "Drive to Hessle Foreshore for the classic view of the bridge at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Erkundungstour mit dem Auto im kulturellen Herzen von Hull und parken Sie in der Nähe des Museumsviertels. Spazieren Sie durch Kunst, Seefahrtsgeschichte und religiöses Erbe, alles in einem kompakten, historischen Gebiet. Am Nachmittag fahren Sie die kurze Strecke zu The Deep, um in die Unterwasserwelt einzutauchen, bevor Sie über die Fußgängerbrücke zur belebten Marina schlendern. Der Tag endet mit einer Fahrt zur ikonischen Humber-Brücke, um den Sonnenuntergang über diesem Wunderwerk der Technik zu erleben – eine perfekte Mischung aus Stadtkultur und beeindruckender Landschaft.",
+        "hu": "Kezdje autós felfedezését Hull kulturális szívében, parkoljon a múzeumi negyed közelében. Sétáljon végig a művészeten, a tengerészeti történelmen és a vallási örökségen, mindezt egy kompakt, történelmi területen. Délután egy rövid autóút a The Deephez, hogy elmerüljön a víz alatti világban, mielőtt átsétálna a gyaloghídon a nyüzsgő kikötőbe. A nap egy autóúttal zárul az ikonikus Humber hídhoz, hogy megnézze a naplementét ezen a mérnöki csodán – a városi kultúra és a lenyűgöző táj tökéletes keveréke.",
+        "ro": "Începeți explorarea cu mașina în inima culturală a orașului Hull, parcând lângă Cartierul Muzeelor. Plimbați-vă prin artă, istorie maritimă și patrimoniu religios, toate într-o zonă compactă și istorică. După-amiaza, faceți o scurtă călătorie cu mașina la The Deep pentru o imersiune subacvatică înainte de a traversa podul pietonal spre portul de agrement plin de viață. Ziua se încheie cu o plimbare cu mașina până la emblematicul Pod Humber pentru a admira apusul peste această minune a ingineriei - un amestec perfect de cultură urbană și peisaje impresionante.",
+        "en": "Start your car-based exploration in Hull's cultural heart, parking near the Museum Quarter. Walk through art, maritime history, and religious heritage, all within a compact, historic area. In the afternoon, take the short drive to The Deep for an underwater immersion before strolling across the footbridge to the bustling marina. The day concludes with a drive to the iconic Humber Bridge to catch the sunset over this engineering marvel—a perfect mix of city culture and stunning landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Old House",
+            "tip": "Das älteste Wohnhaus von Hull, das in ein Pub umgewandelt wurde und eine große Auswahl an Bieren und traditionellen Gerichten bietet."
+          },
+          {
+            "name": "Humber Fish Co.",
+            "tip": "Ein gehobenes Fischrestaurant in der Marina mit Blick auf das Wasser."
+          },
+          {
+            "name": "The Country Park Inn",
+            "tip": "In der Nähe der Humber-Brücke gelegen, ideal für ein Abendessen mit Aussicht nach Ihrem Besuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Old House",
+            "tip": "Hull legrégebbi lakóháza, amelyet pub-bá alakítottak át, széles sör- és hagyományos ételválasztékkal."
+          },
+          {
+            "name": "Humber Fish Co.",
+            "tip": "Elegáns tengeri étterem a kikötőben, kilátással a vízre."
+          },
+          {
+            "name": "The Country Park Inn",
+            "tip": "A Humber híd közelében található, ideális egy vacsorához a látogatás után, kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Old House",
+            "tip": "Cea mai veche locuință din Hull, transformată în pub, cu o selecție excelentă de beri și mâncăruri tradiționale."
+          },
+          {
+            "name": "Humber Fish Co.",
+            "tip": "Un restaurant de fructe de mare de lux în portul de agrement, cu vedere la apă."
+          },
+          {
+            "name": "The Country Park Inn",
+            "tip": "Situat lângă Podul Humber, ideal pentru o cină cu vedere după vizita dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Old House",
+            "tip": "Hull's oldest domestic dwelling turned into a pub, great selection of beers and traditional food."
+          },
+          {
+            "name": "Humber Fish Co.",
+            "tip": "An upmarket seafood restaurant on the marina with views over the water."
+          },
+          {
+            "name": "The Country Park Inn",
+            "tip": "Located near the Humber Bridge, ideal for a dinner with a view after your visit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hessle Foreshore",
+            "tip": "Gehen Sie entlang der Küste unter der Humber-Brücke spazieren, um die Weite des Bauwerks zu genießen.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "Pearson Park",
+            "tip": "Ein wunderschöner viktorianischer Park, eine kurze Autofahrt vom Zentrum entfernt, mit einem Wintergarten und einem See.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spurn Point",
+            "tip": "Für einen längeren Ausflug (ca. 1 Stunde Fahrt) bietet dieses einzigartige Naturschutzgebiet totale Abgeschiedenheit.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hessle Foreshore",
+            "tip": "Sétáljon a part mentén a Humber híd alatt, hogy értékelje a szerkezet méretét.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "Pearson Park",
+            "tip": "Gyönyörű viktoriánus park, rövid autóútra a központtól, télikerttel és tóval.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spurn Point",
+            "tip": "Egy hosszabb kiránduláshoz (kb. 1 óra autóút) ez az egyedülálló természetvédelmi terület teljes elszigeteltséget kínál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hessle Foreshore",
+            "tip": "Plimbați-vă de-a lungul țărmului sub Podul Humber pentru a aprecia scara structurii.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "Parcul Pearson",
+            "tip": "Un frumos parc victorian la o scurtă distanță cu mașina de centru, cu o seră și un lac.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spurn Point",
+            "tip": "Pentru o excursie mai lungă (aproximativ 1 oră cu mașina), această rezervație naturală unică oferă o izolare totală.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hessle Foreshore",
+            "tip": "Walk along the shore beneath the Humber Bridge to appreciate the scale of the structure.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "Pearson Park",
+            "tip": "A beautiful Victorian park a short drive from the centre, with a conservatory and a lake.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spurn Point",
+            "tip": "For a longer trip (approx 1 hour drive), this unique nature reserve offers total seclusion.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus, insbesondere im Stadtzentrum.",
+          "Planen Sie Ihre Fahrt zur Humber-Brücke so, dass Sie eine Stunde vor Sonnenuntergang ankommen, um das beste Licht zu erhalten.",
+          "Der Verkehr in Hull kann zu Stoßzeiten stark sein, planen Sie also zusätzliche Zeit für Fahrten zwischen den Clustern ein.",
+          "Einige Straßen in der Altstadt sind sehr eng oder für den Verkehr gesperrt, folgen Sie daher den Schildern sorgfältig."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat, különösen a városközpontban.",
+          "Tervezze meg az utat a Humber hídhoz úgy, hogy egy órával napnyugta előtt érkezzen a legjobb fényviszonyokért.",
+          "A forgalom Hullban csúcsidőben sűrű lehet, ezért tervezzen plusz időt a klaszterek közötti utazásokra.",
+          "Az óváros néhány utcája nagyon szűk vagy le van zárva a forgalom elől, ezért gondosan kövesse a táblákat."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele în avans, în special în centrul orașului.",
+          "Planificați-vă călătoria spre Podul Humber pentru a ajunge cu o oră înainte de apus pentru cea mai bună lumină.",
+          "Traficul în Hull poate fi aglomerat la ore de vârf, așa că alocați timp suplimentar pentru călătoriile între grupuri.",
+          "Unele străzi din Orașul Vechi sunt foarte înguste sau închise traficului, așa că urmați cu atenție indicatoarele."
+        ],
+        "en": [
+          "Check parking options and fees in advance, especially in the city centre.",
+          "Time your drive to the Humber Bridge to arrive an hour before sunset for the best light.",
+          "Traffic in Hull can be heavy during peak hours, so allow extra time for drives between clusters.",
+          "Some Old Town streets are very narrow or closed to traffic, so follow signs carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:04",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ferens-Kunstgalerie",
+            "hu": "Ferens Művészeti Galéria",
+            "ro": "Galeria de Artă Ferens",
+            "en": "Ferens Art Gallery"
+          },
+          "coords": [
+            -0.338,
+            53.745
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Paragon Interchange aus ist es nur ein kurzer Spaziergang, der perfekte Ausgangspunkt.",
+            "hu": "A Paragon Interchange-től rövid sétára található, tökéletes kiindulópont.",
+            "ro": "La o scurtă plimbare de Paragon Interchange, este un punct de plecare perfect.",
+            "en": "A short walk from the Paragon Interchange, it's a perfect starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum Hull",
+            "hu": "Hulli Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Hull",
+            "en": "Hull Maritime Museum"
+          },
+          "coords": [
+            -0.337,
+            53.744
+          ],
+          "category": "museums",
+          "arrive_at": "10:44",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt gegenüber dem Queen's Gardens, ein schöner Ort zum Entspannen davor oder danach.",
+            "hu": "A Queen's Gardens-szel szemben található, szép hely a pihenésre előtte vagy utána.",
+            "ro": "Chiar vizavi de Grădinile Reginei, un loc frumos pentru a vă relaxa înainte sau după.",
+            "en": "Just opposite Queen's Gardens, a lovely place to relax before or after."
+          }
+        },
+        {
+          "name": {
+            "de": "Münster von Hull",
+            "hu": "Hull Minster",
+            "ro": "Catedrala din Hull",
+            "en": "Hull Minster"
+          },
+          "coords": [
+            -0.33,
+            53.744
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Überprüfen Sie, ob während Ihres Besuchs Veranstaltungen oder Konzerte stattfinden.",
+            "hu": "Ellenőrizze, hogy vannak-e események vagy koncertek a látogatása során.",
+            "ro": "Verificați dacă există evenimente sau concerte în timpul vizitei dumneavoastră.",
+            "en": "Check if there are any events or concerts on during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Wilberforce-Haus & Streetlife Museum",
+            "hu": "Wilberforce-ház & Streetlife Múzeum",
+            "ro": "Casa Wilberforce & Muzeul Streetlife",
+            "en": "Wilberforce House & Streetlife Museum"
+          },
+          "coords": [
+            -0.328,
+            53.745
+          ],
+          "category": "museums",
+          "arrive_at": "13:43",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in die lokale Geschichte ein; diese Museen sind das Herz von Hulls altem Stadtteil.",
+            "hu": "Merüljön el mélyen a helyi történelemben; ezek a múzeumok Hull óvárosának szívét jelentik.",
+            "ro": "Pătrundeți adânc în istoria locală; aceste muzee sunt inima Orașului Vechi din Hull.",
+            "en": "Go deep into local history; these museums are the heart of Hull's Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "The Deep",
+            "hu": "The Deep",
+            "ro": "The Deep",
+            "en": "The Deep"
+          },
+          "coords": [
+            -0.327,
+            53.741
+          ],
+          "category": "museums",
+          "arrive_at": "16:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum; es ist eine kurze Fahrt und erspart Ihnen den Spaziergang.",
+            "hu": "Menjen busszal a városközpontból; ez egy rövid út, és megspórolja a sétát.",
+            "ro": "Luați un autobuz din centrul orașului; este o călătorie scurtă și vă scutește de plimbare.",
+            "en": "Take a bus from the city centre; it's a short ride and saves you the walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Hull Marina",
+            "hu": "Hulli kikötő",
+            "ro": "Portul de agrement Hull",
+            "en": "Hull Marina"
+          },
+          "coords": [
+            -0.335,
+            53.739
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:59",
+          "stay_min": 30,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag hier mit einem Getränk in einer der vielen Bars mit Blick auf das Wasser.",
+            "hu": "Zárja a napot egy itallal az egyik vízparti bárban.",
+            "ro": "Încheiați ziua aici cu o băutură la unul dintre multele baruri cu vedere la apă.",
+            "en": "End your day here with a drink at one of the many bars overlooking the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Hulls effizientes öffentliches Verkehrsnetz, um Ihren Tag zu beginnen. Beginnen Sie im Stadtzentrum mit einem Spaziergang durch die besten Museen und historischen Stätten. Nachdem Sie in die Kultur der Altstadt eingetaucht sind, nehmen Sie einen kurzen Bus nach The Deep, um ein faszinierendes Unterwassererlebnis zu haben. Der Tag endet mit einem entspannten Spaziergang von The Deep zur Marina, wo Sie die Atmosphäre des Hafens aufsaugen können, bevor Sie einen Bus zurück zu Ihrem Ausgangspunkt nehmen. Diese Reiseroute kombiniert die Bequemlichkeit des Transports mit der Freude am Entdecken zu Fuß.",
+        "hu": "Használja ki Hull hatékony tömegközlekedési hálózatát a nap elindításához. Kezdje a városközpontban, sétáljon végig a legjobb múzeumokon és történelmi helyszíneken. Miután elmerült az óváros kultúrájában, egy rövid buszúttal eljuthat a The Deep lenyűgöző víz alatti élményéhez. A nap egy pihentető sétával zárul a The Deep-től a kikötőig, ahol magába szívhatja a kikötői hangulatot, mielőtt visszabuszozna a kiindulópontjához. Ez az útiterv ötvözi a közlekedés kényelmét a gyalogos felfedezés örömével.",
+        "ro": "Folosiți rețeaua eficientă de transport public din Hull pentru a vă începe ziua. Începeți în centrul orașului cu un grup de atracții pietonale, acoperind cele mai bune muzee și situri istorice. După ce v-ați cufundat în cultura Orașului Vechi, luați un autobuz pe distanță scurtă până la The Deep pentru o experiență subacvatică fascinantă. Ziua se încheie cu o plimbare relaxantă de la The Deep la portul de agrement, unde puteți absorbi atmosfera portuară înainte de a lua un autobuz înapoi la punctul de plecare. Acest itinerar combină confortul transportului în comun cu bucuria explorării pe jos.",
+        "en": "Use Hull's efficient public transport network to kickstart your day. Start in the city centre with a walkable cluster of attractions, covering top museums and historic sites. After immersing yourself in the Old Town's culture, take a short bus ride to The Deep for a mesmerizing underwater experience. The day concludes with a leisurely walk from The Deep to the marina, where you can soak up the harbour atmosphere before catching a bus back to your starting point. This itinerary mixes the convenience of transit with the joy of discovery on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bob Carver's",
+            "tip": "Eine Institution in Hull für Fish and Chips und die berühmte Hull Pattie. In der Nähe des Stadtzentrums."
+          },
+          {
+            "name": "The Minerva",
+            "tip": "Ein klassisches Pub mit Blick auf den Fluss Humber, leicht erreichbar von der Marina."
+          },
+          {
+            "name": "Trinity Market Food Court",
+            "tip": "Leicht zu erreichen mit öffentlichen Verkehrsmitteln, bietet es eine riesige Auswahl für ein schnelles Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bob Carver's",
+            "tip": "Egy intézmény Hullban a fish and chips és a híres Hull Pattie miatt. A városközpont közelében."
+          },
+          {
+            "name": "The Minerva",
+            "tip": "Klasszikus pub, kilátással a Humber folyóra, könnyen megközelíthető a kikötőből."
+          },
+          {
+            "name": "Trinity Market Food Court",
+            "tip": "Könnyen megközelíthető tömegközlekedéssel, hatalmas választékot kínál egy gyors ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bob Carver's",
+            "tip": "O instituție din Hull pentru fish and chips și faimosul Hull Pattie. Aproape de centrul orașului."
+          },
+          {
+            "name": "The Minerva",
+            "tip": "Un pub clasic cu vedere la râul Humber, ușor accesibil din portul de agrement."
+          },
+          {
+            "name": "Zona de restaurante a Pieței Trinity",
+            "tip": "Ușor accesibil cu transportul public, oferă o varietate uriașă pentru un prânz rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bob Carver's",
+            "tip": "A Hull institution for fish and chips and the famous Hull Pattie. Near the city centre."
+          },
+          {
+            "name": "The Minerva",
+            "tip": "A classic pub overlooking the River Humber, easily accessible from the marina."
+          },
+          {
+            "name": "Trinity Market Food Court",
+            "tip": "Easily reached by public transport, it offers a huge variety for a quick lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Walk along Victoria Dock",
+            "tip": "Nach dem Besuch von The Deep gehen Sie entlang des alten Docks für eine ruhige Zeit am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Mary's Church, Lowgate",
+            "tip": "Eine kleinere, aber ebenso schöne Kirche wie das Münster, oft viel ruhiger.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fish Trail",
+            "tip": "Folgen Sie den in den Bürgersteig eingelassenen Fischskulpturen. Eine ruhige, selbstgeführte Tour durch die Altstadt.",
+            "emoji": "🐟"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Victoria dokk mentén",
+            "tip": "A The Deep látogatása után sétáljon végig a régi dokk mentén egy csendes vízparti időtöltésért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Mary's Church, Lowgate",
+            "tip": "Kisebb, de ugyanolyan szép templom, mint a Minster, gyakran sokkal csendesebb.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hal ösvény",
+            "tip": "Kövesse a járdába ágyazott hal-szobrokat. Csendes, önállóan vezetett túra az óvárosban.",
+            "emoji": "🐟"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul Victoria Dock",
+            "tip": "După ce vizitați The Deep, plimbați-vă de-a lungul vechiului doc pentru o perioadă liniștită pe malul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica St. Mary's, Lowgate",
+            "tip": "O biserică mai mică, dar la fel de frumoasă ca și catedrala, adesea mult mai liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Traseul Peștilor",
+            "tip": "Urmați sculpturile de pești încorporate în pavaj. Un tur liniștit, auto-ghidat al Orașului Vechi.",
+            "emoji": "🐟"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along Victoria Dock",
+            "tip": "After visiting The Deep, walk along the old dock for some quiet waterside time.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St Mary's Church, Lowgate",
+            "tip": "A smaller but equally beautiful church to the Minster, often much quieter.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fish Trail",
+            "tip": "Follow the fish sculptures embedded in the pavement. A quiet, self-guided tour of the Old Town.",
+            "emoji": "🐟"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um unbegrenzt zwischen den Zonen fahren zu können.",
+          "Laden Sie die App des örtlichen Busunternehmens herunter, um Fahrpläne in Echtzeit zu erhalten.",
+          "Die Busse können zu Stoßzeiten voll sein, planen Sie also etwas mehr Zeit ein.",
+          "Behalten Sie die Zeit für den letzten Bus zurück vom Hafen im Auge, wenn Sie spät ausgehen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra a korlátlan utazáshoz a zónák között.",
+          "Töltse le a helyi busztársaság alkalmazását a valós idejű menetrendekért.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, ezért tervezzen egy kis plusz időt.",
+          "Tartsa szemmel az utolsó busz idejét a kikötőből, ha későn marad."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru călătorii nelimitate între zone.",
+          "Descărcați aplicația companiei locale de autobuze pentru orare în timp real.",
+          "Autobuzele pot fi aglomerate la ore de vârf, așa că acordați-vă puțin timp suplimentar.",
+          "Fiți atenți la ora ultimului autobuz care se întoarce din port dacă stați până târziu."
+        ],
+        "en": [
+          "Purchase a day rider bus ticket for unlimited travel between zones.",
+          "Download the local bus company's app for real-time timetables.",
+          "Buses can be crowded at peak times, so allow a little extra time.",
+          "Keep an eye on the time for the last bus back from the marina if you're out late."
+        ]
+      }
+    }
+  }
+}

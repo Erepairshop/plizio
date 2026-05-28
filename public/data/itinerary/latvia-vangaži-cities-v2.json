@@ -1,0 +1,1477 @@
+{
+  "city_id": "latvia-vangaži-cities-v2",
+  "anchor": {
+    "name": "Vangaži",
+    "coords": [
+      24.5694,
+      57.1164
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            24.569,
+            57.1166
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag mit einem Kaffee zu beginnen.",
+            "hu": "Tökéletes hely a napkezdéshez egy kávéval.",
+            "ro": "Locul perfect pentru a începe ziua cu o cafea.",
+            "en": "The perfect spot to start your day with a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus und Stadtbibliothek",
+            "hu": "Művelődési Ház és Városi Könyvtár",
+            "ro": "Casa de Cultură și Biblioteca Orășenească",
+            "en": "Culture House and City Library"
+          },
+          "coords": [
+            24.5675,
+            57.1172
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm auf lokale Veranstaltungen oder Ausstellungen.",
+            "hu": "Nézze meg a programot helyi eseményekért vagy kiállításokért.",
+            "ro": "Verificați programul pentru evenimente sau expoziții locale.",
+            "en": "Check the schedule for any local events or exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegsdenkmal",
+            "hu": "Háborús emlékmű",
+            "ro": "Monumentul de Război",
+            "en": "War Memorial"
+          },
+          "coords": [
+            24.566,
+            57.118
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber ergreifender Halt, um der lokalen Geschichte zu gedenken.",
+            "hu": "Egy rövid, de megrendítő megálló a helyi történelem emlékére.",
+            "ro": "O oprire scurtă, dar emoționantă, pentru a comemora istoria locală.",
+            "en": "A short but poignant stop to commemorate local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherische Kirche Vangaži",
+            "hu": "Vangaži evangélikus templom",
+            "ro": "Biserica Luterană din Vangaži",
+            "en": "Vangaži Lutheran Church"
+          },
+          "coords": [
+            24.563,
+            57.12
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einfache, aber elegante Architektur.",
+            "hu": "Csodálja meg az egyszerű, mégis elegáns építészetet.",
+            "ro": "Admirați arhitectura simplă, dar elegantă.",
+            "en": "Admire the simple yet elegant architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause am Gauja-Ufer",
+            "hu": "Ebédszünet a Gauja partján",
+            "ro": "Pauză de prânz pe malul râului Gauja",
+            "en": "Lunch break at the Gauja River Bank"
+          },
+          "coords": [
+            24.55,
+            57.125
+          ],
+          "category": "natural features",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Picknick ist hier sehr zu empfehlen.",
+            "hu": "Nagyon ajánlott itt egy piknik.",
+            "ro": "Un picnic aici este foarte recomandat.",
+            "en": "A picnic here is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldpfade",
+            "hu": "Erdei ösvények",
+            "ro": "Cărări de pădure",
+            "en": "Forest Trails"
+          },
+          "coords": [
+            24.555,
+            57.128
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Atmen Sie tief durch und genießen Sie die frische Waldluft.",
+            "hu": "Lélegezzen mélyeket és élvezze a friss erdei levegőt.",
+            "ro": "Respirați adânc și bucurați-vă de aerul proaspăt de pădure.",
+            "en": "Take a deep breath and enjoy the fresh forest air."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the Center"
+          },
+          "coords": [
+            24.569,
+            57.1166
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Zeit für einen letzten lettischen Snack, bevor Sie gehen.",
+            "hu": "Ideje egy utolsó lett falatnak indulás előtt.",
+            "ro": "Timpul pentru o ultimă gustare letonă înainte de a pleca.",
+            "en": "Time for one last Latvian snack before you leave."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Vangaži beginnt auf dem belebten Zentralplatz. Am Vormittag erkunden Sie das kulturelle Herz der Stadt, vom Kulturhaus bis zur schlichten lutherischen Kirche. Der Nachmittag gehört ganz der Natur: Sie spazieren entlang des malerischen Gauja-Ufers und tauchen in die Stille der umliegenden Waldpfade ein. Zum Abend kehren Sie mit frischen Eindrücken ins Zentrum zurück und lassen den Tag in Ruhe ausklingen.",
+        "hu": "A vangaži nap a nyüzsgő Központi téren kezdődik. Délelőtt a város kulturális szívét fedezi fel, a Művelődési Háztól az egyszerű evangélikus templomig. A délután a természeté: sétáljon a festői Gauja-part mentén, és merüljön el a környező erdei ösvények csendjében. Estére friss benyomásokkal tér vissza a központba, és békében zárja a napot.",
+        "ro": "Ziua dvs. în Vangaži începe în Piața Centrală plină de viață. Dimineața explorați inima culturală a orașului, de la Casa de Cultură la sobra biserică luterană. După-amiaza este dedicată naturii: vă plimbați pe malul pitoresc al râului Gauja și vă cufundați în liniștea potecilor forestiere din jur. Spre seară, vă întoarceți în centru cu impresii proaspete și încheiați ziua în liniște.",
+        "en": "Your day in Vangaži begins in the lively Central Square. In the morning, you'll explore the cultural heart of the town, from the Culture House to the simple Lutheran church. The afternoon is all about nature: you'll stroll along the picturesque Gauja riverbank and immerse yourself in the tranquility of the surrounding forest trails. In the evening, you'll return to the center with fresh impressions and quietly conclude the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Probieren Sie das traditionelle lettische Roggenbrot in einer lokalen Bäckerei."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "Ein süßer oder herzhafter Karotten- und Kartoffelkuchen, ein einzigartiger lokaler Genuss."
+          },
+          {
+            "name": "Birch Sap",
+            "tip": "Ein erfrischendes Getränk, das im Frühling direkt von Birken gezapft wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Kóstolja meg a hagyományos lett rozskenyeret egy helyi pékségben."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "Édes vagy sós sárgarépa- és burgonyapite, egyedülálló helyi finomság."
+          },
+          {
+            "name": "Nyírfanedv",
+            "tip": "Frissítő ital, amelyet tavasszal közvetlenül a nyírfákból csapolnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Încercați pâinea tradițională de secară letonă la o brutărie locală."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "O plăcintă dulce sau sărată cu morcovi și cartofi, o delicatesă locală unică."
+          },
+          {
+            "name": "Sevă de mesteacăn",
+            "tip": "O băutură răcoritoare recoltată direct de la mesteceni primăvara."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rupjmaize",
+            "tip": "Try the traditional Latvian rye bread at a local bakery."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "A sweet or savory carrot and potato pie, a unique local treat."
+          },
+          {
+            "name": "Birch Sap",
+            "tip": "A refreshing drink tapped directly from birch trees in the spring."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gauja-Ufer",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie, wie der Fluss vorbeifließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waldpfade",
+            "tip": "Der perfekte Ort für eine ruhige Meditation in der Natur.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kirchhof",
+            "tip": "Der Friedhof um die Kirche ist ein Ort des Friedens und der Stille.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gauja-part",
+            "tip": "Keressen egy csendes padot, és nézze a folyó áramlását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erdei ösvények",
+            "tip": "Tökéletes hely egy csendes meditációhoz a természetben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "A templom körüli temető a béke és a csend helye.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Gauja",
+            "tip": "Găsiți o bancă liniștită și priviți cum curge râul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cărări de pădure",
+            "tip": "Locul perfect pentru o meditație liniștită în natură.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curtea bisericii",
+            "tip": "Cimitirul din jurul bisericii este un loc de pace și liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gauja River Bank",
+            "tip": "Find a quiet bench and watch the river flow by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Forest Trails",
+            "tip": "The perfect place for a quiet meditation in nature.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Churchyard",
+            "tip": "The graveyard around the church is a place of peace and quiet.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach frischen Beeren, Honig und handgemachtem Brot."
+          },
+          {
+            "name": "Handwerksladen",
+            "tip": "Möglicherweise finden Sie kleine Holzschnitzereien oder gestrickte Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen friss bogyókat, mézet és kézműves kenyeret."
+          },
+          {
+            "name": "Kézműves bolt",
+            "tip": "Talán talál kis fafaragásokat vagy kötött árukat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați fructe de pădure proaspete, miere și pâine de casă."
+          },
+          {
+            "name": "Magazin de artizanat",
+            "tip": "Ați putea găsi mici sculpturi în lemn sau articole tricotate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for fresh berries, honey, and handmade bread."
+          },
+          {
+            "name": "Craft Shop",
+            "tip": "You might find small wooden carvings or knitted goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für die Wanderung im Wald.",
+          "Ein Insektenschutzmittel kann im Sommer in der Nähe des Flusses und im Wald nützlich sein.",
+          "Überprüfen Sie die Öffnungszeiten der Kirche im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Vigyen vizet és rágcsálnivalót, különösen az erdei túrához.",
+          "A szúnyogriasztó hasznos lehet nyáron a folyó közelében és az erdőben.",
+          "Előre ellenőrizze a templom nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați apă și gustări, în special pentru plimbarea prin pădure.",
+          "Un repelent pentru insecte poate fi util vara lângă râu și în pădure.",
+          "Verificați în prealabil orele de deschidere ale bisericii."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring water and snacks, especially for the forest hike part.",
+          "An insect repellent can be useful in summer near the river and in the forest.",
+          "Check the church's opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            24.569,
+            57.1166
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre.",
+            "hu": "Parkolja le a kerékpárt és élvezze a hangulatot.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosferă.",
+            "en": "Park your bike and soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus",
+            "hu": "Művelődési Ház",
+            "ro": "Casa de Cultură",
+            "en": "Culture House"
+          },
+          "coords": [
+            24.5675,
+            57.1172
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die lokale Kultur zu würdigen.",
+            "hu": "Egy gyors megálló a helyi kultúra megbecsülésére.",
+            "ro": "O oprire rapidă pentru a aprecia cultura locală.",
+            "en": "A quick stop to appreciate the local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegsdenkmal",
+            "hu": "Háborús emlékmű",
+            "ro": "Monumentul de Război",
+            "en": "War Memorial"
+          },
+          "coords": [
+            24.566,
+            57.118
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:06",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung auf dem Weg.",
+            "hu": "Egy pillanatnyi elmélkedés útközben.",
+            "ro": "Un moment de reflecție pe traseu.",
+            "en": "A moment of reflection on your route."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherische Kirche Vangaži",
+            "hu": "Vangaži evangélikus templom",
+            "ro": "Biserica Luterană din Vangaži",
+            "en": "Vangaži Lutheran Church"
+          },
+          "coords": [
+            24.563,
+            57.12
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um eine Pause einzulegen und die Ruhe zu genießen.",
+            "hu": "Egy szép hely egy kis szünetre és a csend élvezetére.",
+            "ro": "Un loc frumos pentru a lua o pauză și a vă bucura de liniște.",
+            "en": "A lovely spot to take a break and enjoy the peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Sportzentrum",
+            "hu": "Sportközpont",
+            "ro": "Centrul Sportiv",
+            "en": "Sports Center"
+          },
+          "coords": [
+            24.575,
+            57.115
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:19",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Sehen Sie, wo die lokale Gemeinschaft aktiv wird.",
+            "hu": "Nézze meg, hol sportol a helyi közösség.",
+            "ro": "Vedeți unde comunitatea locală devine activă.",
+            "en": "See where the local community gets active."
+          }
+        },
+        {
+          "name": {
+            "de": "Gauja-Ufer",
+            "hu": "Gauja-part",
+            "ro": "Malul râului Gauja",
+            "en": "Gauja River Bank"
+          },
+          "coords": [
+            24.55,
+            57.125
+          ],
+          "category": "natural features",
+          "arrive_at": "12:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Die Radtour hierher ist die Belohnung. Zeit für ein Picknick.",
+            "hu": "Az ide vezető bicikliút a jutalom. Itt az ideje egy pikniknek.",
+            "ro": "Plimbarea cu bicicleta până aici este recompensa. E timpul pentru un picnic.",
+            "en": "The bike ride here is the reward. Time for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldpfade Erkundung",
+            "hu": "Erdei ösvények felfedezése",
+            "ro": "Explorarea Cărărilor de Pădure",
+            "en": "Forest Trails Exploration"
+          },
+          "coords": [
+            24.555,
+            57.128
+          ],
+          "category": "natural features",
+          "arrive_at": "13:52",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Einige Wege sind möglicherweise besser zu Fuß zu bewältigen, also schließen Sie Ihr Fahrrad an.",
+            "hu": "Néhány ösvényt jobb gyalog bejárni, ezért zárja le a kerékpárját.",
+            "ro": "Unele cărări pot fi mai bune pe jos, așa că legați-vă bicicleta.",
+            "en": "Some trails might be better on foot, so lock up your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausklang am Zentralplatz",
+            "hu": "Levezetés a Központi téren",
+            "ro": "Relaxare în Piața Centrală",
+            "en": "Wind down at Central Square"
+          },
+          "coords": [
+            24.569,
+            57.1166
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:42",
+          "stay_min": 38,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Sie haben es geschafft! Genießen Sie ein wohlverdientes Getränk.",
+            "hu": "Sikerült! Élvezzen egy jól megérdemelt italt.",
+            "ro": "Ați reușit! Bucurați-vă de o băutură binemeritată.",
+            "en": "You made it! Enjoy a well-deserved drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in Vangaži aufs Rad. Der Morgen führt Sie durch das kompakte Zentrum, vorbei an Kulturstätten und Denkmälern. Gegen Mittag machen Sie einen Abstecher zur lutherischen Kirche, bevor Sie sich auf eine längere, belebende Fahrt zum Ufer der Gauja begeben. Der Nachmittag ist dem Genuss der Natur gewidmet, mit einer ausgiebigen Pause am Fluss und einer Erkundung der Waldpfade, bevor Sie zum Abschluss des Tages zurück ins Zentrum radeln.",
+        "hu": "Pattanjon biciklire Vangažiban. A délelőtt a kompakt központon vezet keresztül, kulturális helyszínek és emlékművek mellett. Dél körül tegyen egy kitérőt az evangélikus templomhoz, mielőtt egy hosszabb, élénkítő tekerésre indul a Gauja partjára. A délután a természet élvezetéről szól, egy kiadós pihenővel a folyónál és az erdei ösvények felfedezésével, mielőtt a nap végén visszateker a központba.",
+        "ro": "Urcați-vă pe bicicletă în Vangaži. Dimineața vă poartă prin centrul compact, pe lângă situri culturale și monumente. Pe la prânz, faceți o deviere spre biserica luterană înainte de a porni într-o plimbare mai lungă și revigorantă spre malul râului Gauja. După-amiaza este dedicată savurării naturii, cu o pauză amplă la râu și o explorare a potecilor forestiere, înainte de a pedala înapoi în centru pentru a încheia ziua.",
+        "en": "Hop on your bike in Vangaži. The morning takes you through the compact center, past cultural sites and monuments. Around noon, you'll detour to the Lutheran church before embarking on a longer, invigorating ride to the banks of the Gauja River. The afternoon is dedicated to enjoying nature, with a long break by the river and an exploration of the forest trails, before cycling back to the center to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kvass",
+            "tip": "Ein traditionelles fermentiertes Getränk, perfekt zur Erfrischung nach einer Radtour."
+          },
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Wenn Sie Glück haben, finden Sie ein lokales Restaurant, das frischen Fisch aus der Gauja anbietet."
+          },
+          {
+            "name": "Beeren vom Markt",
+            "tip": "Ein schneller, gesunder und köstlicher Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kvasz",
+            "tip": "Hagyományos erjesztett ital, tökéletes frissítő egy biciklitúra után."
+          },
+          {
+            "name": "Grillezett hal",
+            "tip": "Ha szerencséje van, talál egy helyi éttermet, amely friss halat kínál a Gaujából."
+          },
+          {
+            "name": "Bogyók a piacról",
+            "tip": "Gyors, egészséges és finom útközbeni snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cvas",
+            "tip": "O băutură tradițională fermentată, perfectă pentru a vă reîmprospăta după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Pește la grătar",
+            "tip": "Dacă aveți noroc, găsiți un restaurant local care servește pește proaspăt din râul Gauja."
+          },
+          {
+            "name": "Fructe de pădure de la piață",
+            "tip": "O gustare rapidă, sănătoasă și delicioasă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kvass",
+            "tip": "A traditional fermented beverage, perfect for refreshment after a bike ride."
+          },
+          {
+            "name": "Grilled Fish",
+            "tip": "If you're lucky, find a local eatery serving fresh fish from the Gauja."
+          },
+          {
+            "name": "Berries from the market",
+            "tip": "A quick, healthy, and delicious snack on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang der Gauja",
+            "tip": "Die ruhige Strecke am Flussufer ist an sich schon ein friedliches Erlebnis.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Waldlichtung",
+            "tip": "Halten Sie auf den Waldwegen nach einem offenen, sonnigen Platz für eine Pause Ausschau.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Fluss",
+            "tip": "Planen Sie Ihre Rückkehr so, dass Sie das goldene Licht am Wasser einfangen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tekerés a Gauja mentén",
+            "tip": "A csendes folyóparti szakasz önmagában is egy békés élmény.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rejtett erdei tisztás",
+            "tip": "Keressen egy nyitott, napos helyet egy szünetre az erdei ösvényeken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a folyónál",
+            "tip": "Tervezze úgy a visszautat, hogy elkapja az arany fényt a vízen.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Gauja",
+            "tip": "Traseul liniștit de-a lungul malului râului este o experiență pașnică în sine.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Luminiș ascuns în pădure",
+            "tip": "Pe cărările de pădure, căutați un loc deschis și însorit pentru o pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare la râu",
+            "tip": "Planificați-vă întoarcerea pentru a prinde lumina aurie pe apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ride along the Gauja",
+            "tip": "The quiet stretch along the riverbank is a peaceful experience in itself.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden forest clearing",
+            "tip": "On the forest trails, look for an open, sunny spot for a break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at the river",
+            "tip": "Time your return journey to catch the golden light on the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie lettischen Honig als süßes Souvenir."
+          },
+          {
+            "name": "Fahrradzubehör",
+            "tip": "Vielleicht gibt es einen kleinen Laden für alle Notwendigkeiten, die Sie vergessen haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon lett mézet édes szuvenírként."
+          },
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "Talán van egy kis bolt minden elfelejtett szükséglethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați miere letonă ca suvenir dulce."
+          },
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Poate exista un mic magazin pentru orice necesități pe care le-ați uitat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy some Latvian honey as a sweet souvenir."
+          },
+          {
+            "name": "Bike accessories",
+            "tip": "There might be a small shop for any necessities you forgot."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck und die Bremsen, bevor Sie starten.",
+          "Ein Helm wird für die längeren Strecken außerhalb des Zentrums empfohlen.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Die Wege am Flussufer können nach Regen schlammig sein."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "A központon kívüli hosszabb szakaszokra sisak ajánlott.",
+          "Vigyen magával lakatot, hogy biztonságosan lezárja a kerékpárt a megállóknál.",
+          "A folyóparti ösvények eső után sárosak lehetnek."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope și frânele înainte de a porni.",
+          "O cască este recomandată pentru porțiunile mai lungi în afara centrului.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Cărările de pe malul râului pot fi noroioase după ploaie."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before you start.",
+          "A helmet is recommended for the longer stretches outside the center.",
+          "Bring a lock to secure your bike at the stops.",
+          "The riverbank paths can be muddy after rain."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 8.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Zentralplatz",
+            "hu": "Parkolás a Központi téren",
+            "ro": "Parcare în Piața Centrală",
+            "en": "Parking at Central Square"
+          },
+          "coords": [
+            24.57,
+            57.116
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen guten Parkplatz für den Vormittag. Dies ist Ihr erster Cluster.",
+            "hu": "Keressen egy jó parkolóhelyet a délelőttre. Ez az első állomás-csoport.",
+            "ro": "Găsiți un loc bun de parcare pentru dimineață. Acesta este primul dvs. cluster.",
+            "en": "Find a good parking spot for the morning. This is your first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Kulturhaus & Bibliothek",
+            "hu": "Séta: Művelődési Ház és Könyvtár",
+            "ro": "Plimbare: Casa de Cultură și Biblioteca",
+            "en": "Walk: Culture House & Library"
+          },
+          "coords": [
+            24.5675,
+            57.1172
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus, um die lokale Kulturszene zu entdecken.",
+            "hu": "Egy rövid séta a parkolótól a helyi kulturális élet felfedezéséhez.",
+            "ro": "O scurtă plimbare de la parcare pentru a explora scena culturală locală.",
+            "en": "A short walk from the parking spot to explore the local cultural scene."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Kriegsdenkmal",
+            "hu": "Séta: Háborús emlékmű",
+            "ro": "Plimbare: Monumentul de Război",
+            "en": "Walk: War Memorial"
+          },
+          "coords": [
+            24.566,
+            57.118
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Denkmal ist nur einen Steinwurf vom Kulturhaus entfernt.",
+            "hu": "Az emlékmű csak egy kőhajításnyira van a Művelődési Háztól.",
+            "ro": "Monumentul este la o aruncătură de băț de Casa de Cultură.",
+            "en": "The memorial is just a stone's throw from the culture house."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Kirche & Parken",
+            "hu": "Autóút a templomhoz és parkolás",
+            "ro": "Cu mașina la Biserică și Parcare",
+            "en": "Drive to Church & Park"
+          },
+          "coords": [
+            24.562,
+            57.121
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginn des zweiten Clusters. Parken Sie in der Nähe der Kirche für die nächste Erkundung.",
+            "hu": "A második állomás-csoport kezdete. Parkoljon a templom közelében a következő felfedezéshez.",
+            "ro": "Începutul celui de-al doilea cluster. Parcați lângă biserică pentru următoarea explorare.",
+            "en": "Start of the second cluster. Park near the church for the next exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Gauja-Ufer",
+            "hu": "Séta: Gauja-part",
+            "ro": "Plimbare: Malul râului Gauja",
+            "en": "Walk: Gauja River Bank"
+          },
+          "coords": [
+            24.55,
+            57.125
+          ],
+          "category": "natural features",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang von der Kirche zum Fluss. Zeit für ein Mittagessen im Freien.",
+            "hu": "Egy szép séta a templomtól a folyóig. Ideje egy szabadtéri ebédnek.",
+            "ro": "O plimbare frumoasă de la biserică la râu. Timp pentru un prânz în aer liber.",
+            "en": "A beautiful walk from the church down to the river. Time for an outdoor lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang & Fahrt: Waldpfade",
+            "hu": "Séta és autóút: Erdei ösvények",
+            "ro": "Plimbare și condus: Cărări de pădure",
+            "en": "Walk & Drive: Forest Trails"
+          },
+          "coords": [
+            24.555,
+            57.128
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 85,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Ausgangspunkt der Waldwege für Ihren letzten Halt.",
+            "hu": "Vezessen az erdei ösvények kiindulópontjához az utolsó megállóhoz.",
+            "ro": "Conduceți la începutul cărărilor de pădure pentru ultima oprire.",
+            "en": "Drive to the trailhead of the forest paths for your final stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Vangaži in zwei Clustern. Der Vormittag ist dem städtischen Kern gewidmet: Sie parken zentral und erkunden zu Fuß das Kulturhaus und das Kriegsdenkmal. Am Nachmittag fahren Sie zur lutherischen Kirche, Ihrem zweiten Parkstopp. Von dort aus spazieren Sie zum idyllischen Gauja-Ufer für eine lange Pause und beenden den Tag mit einer kurzen Fahrt und einem Spaziergang auf den ruhigen Waldpfaden.",
+        "hu": "Autóval két klaszterben fedezheti fel Vangažit. A délelőtt a városi magnak van szentelve: központilag parkol, és gyalog fedezi fel a Művelődési Házat és a Háborús emlékművet. Délután az evangélikus templomhoz hajt, a második parkolási ponthoz. Onnan az idilli Gauja-partra sétál egy hosszú szünetre, és a napot egy rövid autóúttal és egy sétával zárja a csendes erdei ösvényeken.",
+        "ro": "Cu mașina, explorați Vangaži în două clustere. Dimineața este dedicată centrului urban: parcați central și explorați pe jos Casa de Cultură și Monumentul de Război. După-amiaza, conduceți la biserica luterană, a doua oprire pentru parcare. De acolo, vă plimbați pe malul idilic al râului Gauja pentru o pauză lungă și încheiați ziua cu o scurtă călătorie cu mașina și o plimbare pe potecile liniștite ale pădurii.",
+        "en": "By car, you'll explore Vangaži in two clusters. The morning is dedicated to the urban core: you park centrally and explore the Culture House and War Memorial on foot. In the afternoon, you drive to the Lutheran church, your second parking stop. From there, you'll walk to the idyllic Gauja riverbank for a long break and end the day with a short drive and a walk on the quiet forest trails."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknickkorb",
+            "tip": "Packen Sie Ihr eigenes Essen ein, um es flexibel am Flussufer zu genießen."
+          },
+          {
+            "name": "Lokales Café",
+            "tip": "Suchen Sie nach einem Café im Zentrum für Kaffee und Kuchen."
+          },
+          {
+            "name": "Šašliks",
+            "tip": "Wenn Sie einen Grillplatz finden, ist dies ein lettischer Favorit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknikkosár",
+            "tip": "Csomagolja be saját ételét, hogy rugalmasan élvezhesse a folyóparton."
+          },
+          {
+            "name": "Helyi kávézó",
+            "tip": "Keressen egy kávézót a központban kávéra és süteményre."
+          },
+          {
+            "name": "Saslik",
+            "tip": "Ha talál egy grillezőhelyet, ez egy lett kedvenc."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coș de picnic",
+            "tip": "Împachetați-vă propria mâncare pentru a vă bucura de ea flexibil pe malul râului."
+          },
+          {
+            "name": "Cafenea locală",
+            "tip": "Căutați o cafenea în centru pentru cafea și prăjituri."
+          },
+          {
+            "name": "Șașlîk",
+            "tip": "Dacă găsiți un loc de grătar, acesta este un favorit leton."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic Basket",
+            "tip": "Pack your own food for flexibility to enjoy by the riverbank."
+          },
+          {
+            "name": "Local Café",
+            "tip": "Look for a café in the center for coffee and cake."
+          },
+          {
+            "name": "Shashlik",
+            "tip": "If you find a grilling spot, this is a Latvian favorite."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gauja-Ufer",
+            "tip": "Der Spaziergang vom Auto zum Fluss ist perfekt, um abzuschalten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt im Wald",
+            "tip": "Finden Sie einen hohen Punkt auf den Wegen für eine weite Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stille in der Kirche",
+            "tip": "Ein paar ruhige Momente im Inneren, bevor Sie weitergehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gauja-part",
+            "tip": "A séta az autótól a folyóig tökéletes a kikapcsolódásra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátópont az erdőben",
+            "tip": "Keressen egy magas pontot az ösvényeken a széles kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Csend a templomban",
+            "tip": "Néhány csendes pillanat bent, mielőtt továbbmegy.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Gauja",
+            "tip": "Plimbarea de la mașină la râu este perfectă pentru a vă deconecta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere în pădure",
+            "tip": "Găsiți un punct înalt pe cărări pentru o priveliște largă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Liniște în biserică",
+            "tip": "Câteva momente de liniște înăuntru înainte de a merge mai departe.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gauja River Bank",
+            "tip": "The walk from the car to the river is perfect for unwinding.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint in the forest",
+            "tip": "Find a high spot on the trails for a wide view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Silence in the church",
+            "tip": "A few quiet moments inside before you move on.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen",
+            "tip": "Halten Sie Ausschau nach Schildern für 'Pašmāju produkti' (hausgemachte Produkte)."
+          },
+          {
+            "name": "Tankstelle",
+            "tip": "Für Last-Minute-Snacks und lettische Schokolade für die Heimfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői bolt",
+            "tip": "Figyelje a 'Pašmāju produkti' (házi termékek) táblákat."
+          },
+          {
+            "name": "Benzinkút",
+            "tip": "Az utolsó pillanatos rágcsálnivalókért és a lett csokoládéért a hazaútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de fermă",
+            "tip": "Fiți atenți la semnele pentru 'Pašmāju produkti' (produse de casă)."
+          },
+          {
+            "name": "Benzinărie",
+            "tip": "Pentru gustări de ultim moment și ciocolată letonă pentru drumul spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm stand",
+            "tip": "Keep an eye out for signs for 'Pašmāju produkti' (home-made products)."
+          },
+          {
+            "name": "Gas station",
+            "tip": "For last-minute snacks and Latvian chocolate for the ride home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vangaži ist klein, das Parken sollte einfach sein, aber respektieren Sie die Anwohner.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen, auch nicht in einer kleinen Stadt.",
+          "Die Straßen zu den Naturgebieten können eng sein, fahren Sie vorsichtig.",
+          "Ein GPS ist nützlich, um die Ausgangspunkte der Wanderwege zu finden."
+        ],
+        "hu": [
+          "Vangaži kicsi, a parkolás valószínűleg könnyű, de tartsa tiszteletben a helyieket.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban, még egy kisvárosban sem.",
+          "A természeti területekhez vezető utak szűkek lehetnek, vezessen óvatosan.",
+          "A GPS hasznos a túraútvonalak kiindulópontjainak megtalálásához."
+        ],
+        "ro": [
+          "Vangaži este mic, parcarea ar trebui să fie ușoară, dar respectați rezidenții.",
+          "Nu lăsați obiecte de valoare la vedere în mașină, chiar și într-un oraș mic.",
+          "Drumurile către zonele naturale pot fi înguste, conduceți cu prudență.",
+          "Un GPS este util pentru a găsi punctele de plecare ale traseelor."
+        ],
+        "en": [
+          "Vangaži is small, parking should be easy but be respectful of residents.",
+          "Don't leave valuables visible in the car, even in a small town.",
+          "Roads to the nature spots can be narrow, drive with care.",
+          "A GPS is useful for finding the trailheads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft: Bushaltestelle Zentrum",
+            "hu": "Érkezés: Központi buszmegálló",
+            "ro": "Sosire: Stația de autobuz Centru",
+            "en": "Arrival: Center Bus Stop"
+          },
+          "coords": [
+            24.571,
+            57.116
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Orientieren Sie sich. Der Zentralplatz ist nur wenige Schritte entfernt.",
+            "hu": "Tájékozódjon. A Központi tér csak néhány lépésre van.",
+            "ro": "Orientați-vă. Piața Centrală este la doar câțiva pași.",
+            "en": "Get your bearings. The Central Square is just steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Zentralplatz & Kulturhaus",
+            "hu": "Séta: Központi tér és Művelődési Ház",
+            "ro": "Plimbare: Piața Centrală și Casa de Cultură",
+            "en": "Walk: Central Square & Culture House"
+          },
+          "coords": [
+            24.568,
+            57.1168
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Fedezze fel az első állomás-csoportot gyalog.",
+            "ro": "Explorați primul cluster pe jos.",
+            "en": "Explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Kriegsdenkmal",
+            "hu": "Séta: Háborús emlékmű",
+            "ro": "Plimbare: Monumentul de Război",
+            "en": "Walk: War Memorial"
+          },
+          "coords": [
+            24.566,
+            57.118
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, bevor Sie zum Bus für den nächsten Cluster gehen.",
+            "hu": "Egy rövid séta, mielőtt a következő állomás-csoporthoz menő buszhoz indul.",
+            "ro": "O scurtă plimbare înainte de a vă îndrepta spre autobuz pentru următorul cluster.",
+            "en": "A quick walk before heading for the bus to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt & Spaziergang zur Kirche",
+            "hu": "Buszút és séta a templomhoz",
+            "ro": "Călătorie cu autobuzul și plimbare la biserică",
+            "en": "Bus Ride & Walk to Church"
+          },
+          "coords": [
+            24.563,
+            57.12
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie so nah wie möglich an der Kirche aus und gehen Sie den Rest.",
+            "hu": "Szálljon le a lehető legközelebb a templomhoz, és sétáljon a maradékot.",
+            "ro": "Coborâți cât mai aproape de biserică și mergeți pe jos restul drumului.",
+            "en": "Get off as close to the church as possible and walk the rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Gauja-Ufer & Mittagessen",
+            "hu": "Séta: Gauja-part és ebéd",
+            "ro": "Plimbare: Malul râului Gauja și prânz",
+            "en": "Walk: Gauja River Bank & Lunch"
+          },
+          "coords": [
+            24.55,
+            57.125
+          ],
+          "category": "natural features",
+          "arrive_at": "12:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang zum Fluss für eine wohlverdiente Pause.",
+            "hu": "Egy pihentető séta a folyóhoz egy jól megérdemelt szünetre.",
+            "ro": "O plimbare relaxantă până la râu pentru o pauză binemeritată.",
+            "en": "A relaxing walk to the river for a well-deserved break."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang & Busfahrt zurück",
+            "hu": "Séta és buszút vissza",
+            "ro": "Plimbare și călătorie cu autobuzul înapoi",
+            "en": "Walk & Bus Ride Back"
+          },
+          "coords": [
+            24.571,
+            57.116
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Gehen Sie zurück zur Bushaltestelle und warten Sie auf Ihre Rückfahrt.",
+            "hu": "Sétáljon vissza a buszmegállóba, és várja a visszautat.",
+            "ro": "Mergeți înapoi la stația de autobuz și așteptați călătoria de întoarcere.",
+            "en": "Walk back to the bus stop and wait for your return ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln in Vangaži beginnt an der zentralen Bushaltestelle. Der erste Cluster, das Stadtzentrum mit Kulturhaus und Denkmal, wird zu Fuß erkundet. Eine kurze Busfahrt bringt Sie dann näher an Ihren zweiten Cluster. Von dort spazieren Sie zur Kirche und weiter zum entspannenden Ufer der Gauja. Nach einer ausgedehnten Mittagspause und Naturgenuss treten Sie den gemütlichen Rückweg zur Bushaltestelle für die Heimfahrt an.",
+        "hu": "A tömegközlekedési napja Vangažiban a központi buszmegállóban kezdődik. Az első klasztert, a városközpontot a Művelődési Házzal és az emlékművel, gyalogosan fedezi fel. Egy rövid buszozás közelebb viszi a második klaszterhez. Onnan a templomhoz sétál, majd tovább a pihentető Gauja-parthoz. Egy kiadós ebédszünet és természetélvezet után kényelmesen visszasétál a buszmegállóba a hazaúthoz.",
+        "ro": "Ziua dvs. cu transportul public în Vangaži începe la stația centrală de autobuz. Primul cluster, centrul orașului cu Casa de Cultură și monumentul, este explorat pe jos. O scurtă călătorie cu autobuzul vă aduce apoi mai aproape de al doilea cluster. De acolo, vă plimbați la biserică și mai departe, pe malul relaxant al râului Gauja. După o pauză de prânz prelungită și bucuria naturii, vă întoarceți pe jos la stația de autobuz pentru călătoria spre casă.",
+        "en": "Your day using public transport in Vangaži starts at the central bus stop. The first cluster, the town center with its Culture House and monument, is explored on foot. A short bus ride then takes you closer to your second cluster. From there, you'll walk to the church and on to the relaxing bank of the Gauja. After an extended lunch break and enjoying nature, you'll take the leisurely way back to the bus stop for your journey home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kioskbäckerei",
+            "tip": "Kaufen Sie Pīrāgi (Speck- und Zwiebelbrötchen) für eine schnelle Mahlzeit."
+          },
+          {
+            "name": "Mitgebrachtes Mittagessen",
+            "tip": "Am zuverlässigsten für einen Tag, der auf Busfahrpläne angewiesen ist."
+          },
+          {
+            "name": "Heißes Getränk aus der Thermoskanne",
+            "tip": "Perfekt für das Warten an der Bushaltestelle an kühleren Tagen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk pékség",
+            "tip": "Vásároljon Pīrāgit (szalonnás-hagymás zsemle) egy gyors étkezéshez."
+          },
+          {
+            "name": "Hozott ebéd",
+            "tip": "A legmegbízhatóbb egy olyan napon, amely a buszmenetrendtől függ."
+          },
+          {
+            "name": "Forró ital termoszban",
+            "tip": "Tökéletes a buszmegállóban való várakozáshoz hűvösebb napokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie de la chioșc",
+            "tip": "Cumpărați Pīrāgi (chifle cu șuncă și ceapă) pentru o masă rapidă."
+          },
+          {
+            "name": "Prânz la pachet",
+            "tip": "Cel mai de încredere pentru o zi care depinde de orarele autobuzelor."
+          },
+          {
+            "name": "Băutură caldă la termos",
+            "tip": "Perfect pentru așteptarea în stația de autobuz în zilele mai răcoroase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk bakery",
+            "tip": "Buy some Pīrāgi (bacon and onion buns) for a quick meal."
+          },
+          {
+            "name": "Packed lunch",
+            "tip": "Most reliable for a day dependent on bus schedules."
+          },
+          {
+            "name": "Hot drink in a thermos",
+            "tip": "Perfect for waiting at the bus stop on cooler days."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfenster-Aussicht",
+            "tip": "Beobachten Sie die vorbeiziehende Landschaft zwischen den Haltestellen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank am Fluss",
+            "tip": "Der Spaziergang von der Bushaltestelle zum Fluss führt Sie direkt zur Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Warten auf den Bus",
+            "tip": "Nutzen Sie die Wartezeit, um die Umgebung auf sich wirken zu lassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Nézze a tájat a megállók között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a folyónál",
+            "tip": "A séta a buszmegállótól a folyóig egyenesen a nyugalomhoz vezet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Várakozás a buszra",
+            "tip": "Használja ki a várakozási időt, hogy magába szívja a környezetet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la geamul autobuzului",
+            "tip": "Priviți peisajul care trece între stații.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bancă lângă râu",
+            "tip": "Plimbarea de la stația de autobuz la râu vă duce direct la liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Așteptând autobuzul",
+            "tip": "Folosiți timpul de așteptare pentru a absorbi împrejurimile.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus window view",
+            "tip": "Watch the landscape go by between stops.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bench by the river",
+            "tip": "The walk from the bus stop to the river leads you straight to tranquility.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Waiting for the bus",
+            "tip": "Use the waiting time to absorb the surroundings.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleiner Laden in der Nähe der Haltestelle",
+            "tip": "Kaufen Sie ein Getränk oder einen Snack für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kisbolt a megálló közelében",
+            "tip": "Vásároljon egy italt vagy snacket az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin mic lângă stație",
+            "tip": "Cumpărați o băutură sau o gustare pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small shop near the stop",
+            "tip": "Buy a drink or a snack for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus. In kleinen Städten fahren Busse möglicherweise nicht oft.",
+          "Haben Sie Kleingeld für das Busticket bereit.",
+          "Laden Sie Ihr Telefon vollständig auf, um sich zu unterhalten, während Sie auf den Bus warten.",
+          "Seien Sie sich der Zeit bewusst, um den letzten Bus zurück nicht zu verpassen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet. Kisvárosokban a buszok ritkán járhatnak.",
+          "Készítsen elő aprópénzt a buszjegyhez.",
+          "Töltse fel teljesen a telefonját, hogy szórakoztassa magát a buszra várva.",
+          "Legyen tisztában az idővel, hogy ne késsen le az utolsó buszról visszafelé."
+        ],
+        "ro": [
+          "Verificați programul autobuzului în avans. În orașele mici, autobuzele pot circula rar.",
+          "Pregătiți bani mărunți pentru biletul de autobuz.",
+          "Încărcați-vă complet telefonul pentru a vă distra în timp ce așteptați autobuzul.",
+          "Fiți conștienți de timp pentru a nu pierde ultimul autobuz înapoi."
+        ],
+        "en": [
+          "Check the bus schedule in advance. In small towns, buses may not run frequently.",
+          "Have small change ready for the bus ticket.",
+          "Fully charge your phone to keep you entertained while waiting for the bus.",
+          "Be mindful of the time so you don't miss the last bus back."
+        ]
+      }
+    }
+  }
+}

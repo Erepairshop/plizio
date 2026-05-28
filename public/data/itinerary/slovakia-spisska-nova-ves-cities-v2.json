@@ -1,0 +1,1248 @@
+{
+  "city_id": "slovakia-spisska-nova-ves-cities-v2",
+  "anchor": {
+    "name": "Spišská Nová Ves",
+    "coords": [
+      20.5614,
+      48.9442
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Linsenförmiger Marktplatz",
+            "hu": "Lencse alakú főtér",
+            "ro": "Piața în formă de lentilă",
+            "en": "Lens-shaped Market Square"
+          },
+          "coords": [
+            20.5614,
+            48.9442
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Rathaus und Provinzhaus",
+            "hu": "Városháza és Tartományi Ház",
+            "ro": "Primăria și Casa Provincială",
+            "en": "Town Hall and Provincial House"
+          },
+          "coords": [
+            20.561,
+            48.944
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:42",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Redoute",
+            "hu": "Redut",
+            "ro": "Reduta",
+            "en": "Redoute"
+          },
+          "coords": [
+            20.563,
+            48.9448
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:31",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Mária Mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of the Virgin Mary"
+          },
+          "coords": [
+            20.5625,
+            48.9439
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Galerie der Zips-Künstler",
+            "hu": "Szepességi Művészek Galériája",
+            "ro": "Galeria Artiștilor din Spiš",
+            "en": "Gallery of Spiš Artists"
+          },
+          "coords": [
+            20.56,
+            48.9435
+          ],
+          "category": "museums",
+          "arrive_at": "11:59",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirche",
+            "hu": "Evangélikus templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Evangelical Church"
+          },
+          "coords": [
+            20.5655,
+            48.9455
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:39",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            20.564,
+            48.945
+          ],
+          "category": "gastro",
+          "arrive_at": "14:37",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem einzigartigen linsenförmigen Marktplatz, dem Herzen von Spišská Nová Ves. Am Vormittag erkunden Sie die historischen Gebäude wie das Rathaus und das Provinzhaus. Besichtigen Sie die monumentale Kirche Mariä Himmelfahrt mit dem höchsten Kirchturm der Slowakei. Nach dem Mittagessen tauchen Sie in die lokale Kunst in der Galerie der Zips-Künstler ein. Beenden Sie Ihren Rundgang mit einem Besuch der eleganten Evangelischen Kirche, einem klassizistischen Juwel.",
+        "hu": "Kezdje a napot az egyedülálló, lencse alakú főtéren, Igló (Spišská Nová Ves) szívében. Délelőtt fedezze fel az olyan történelmi épületeket, mint a Városháza és a Tartományi Ház. Látogassa meg a monumentális Mária Mennybemenetele templomot Szlovákia legmagasabb templomtornyával. Ebéd után merüljön el a helyi művészetben a Szepességi Művészek Galériájában. Sétáját az elegáns, klasszicista evangélikus templomnál fejezze be.",
+        "ro": "Începeți ziua în piața unică în formă de lentilă, inima orașului Spišská Nová Ves. Dimineața, explorați clădirile istorice precum Primăria și Casa Provincială. Vizitați monumentala Biserică a Adormirii Maicii Domnului, cu cel mai înalt turn de biserică din Slovacia. După prânz, cufundați-vă în arta locală la Galeria Artiștilor din Spiš. Încheiați turul cu o vizită la eleganta Biserică Evanghelică, o bijuterie clasicistă.",
+        "en": "Start your day in the unique lens-shaped market square, the heart of Spišská Nová Ves. In the morning, explore the historic buildings like the Town Hall and the Provincial House. Visit the monumental Church of the Assumption with the highest church tower in Slovakia. After lunch, immerse yourself in local art at the Gallery of Spiš Artists. End your tour with a visit to the elegant Evangelical Church, a classicist gem."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Probieren Sie das slowakische Nationalgericht in einem der Restaurants am Platz."
+          },
+          {
+            "name": "Škvarková pomazánka",
+            "tip": "Ein herzhafter Griebenaufstrich, perfekt mit frischem Brot als Vorspeise."
+          },
+          {
+            "name": "Reštaurácia Nostalgia",
+            "tip": "Bekannt für seine traditionelle slowakische und internationale Küche in stilvollem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové halušky (juhtúrós galuska)",
+            "tip": "Kóstolja meg a szlovák nemzeti ételt a főtér egyik éttermében."
+          },
+          {
+            "name": "Škvarková pomazánka (töpörtyűkrém)",
+            "tip": "Kiadós tepertőkrém, friss kenyérrel tökéletes előétel."
+          },
+          {
+            "name": "Nostalgia Étterem",
+            "tip": "Hagyományos szlovák és nemzetközi konyhájáról ismert, stílusos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Încercați mâncarea națională slovacă la unul dintre restaurantele din piață."
+          },
+          {
+            "name": "Škvarková pomazánka",
+            "tip": "O pastă consistentă de jumări, perfectă cu pâine proaspătă ca aperitiv."
+          },
+          {
+            "name": "Restaurant Nostalgia",
+            "tip": "Cunoscut pentru bucătăria sa tradițională slovacă și internațională, într-o ambianță elegantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Try the Slovak national dish at one of the restaurants in the square."
+          },
+          {
+            "name": "Škvarková pomazánka",
+            "tip": "A hearty crackling spread, perfect with fresh bread as an appetizer."
+          },
+          {
+            "name": "Nostalgia Restaurant",
+            "tip": "Known for its traditional Slovak and international cuisine in a stylish setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hof der Evangelischen Kirche",
+            "tip": "Ein ruhiger Ort, um dem Trubel des Platzes zu entkommen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick vom Kirchturm",
+            "tip": "Genießen Sie die Stille und die Aussicht von oben (wenn der Aufstieg möglich ist).",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Evangélikus templom udvara",
+            "tip": "Csendes hely, ahol elmenekülhet a tér nyüzsgése elől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a templomtoronyból",
+            "tip": "Élvezze a csendet és a kilátást fentről (ha a torony látogatható).",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Bisericii Evanghelice",
+            "tip": "Un loc liniștit pentru a evada din agitația pieței.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere din turnul bisericii",
+            "tip": "Bucurați-vă de liniște și de priveliștea de sus (dacă urcarea este posibilă).",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyard of the Evangelical Church",
+            "tip": "A quiet spot to escape the hustle and bustle of the square.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the church tower",
+            "tip": "Enjoy the silence and the view from above (if the climb is available).",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden am Platz",
+            "tip": "Finden Sie lokale Handwerkskunst und Erinnerungsstücke."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach kleinen Märkten in den Seitengassen für frische Produkte und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékboltok a főtéren",
+            "tip": "Keressen helyi kézműves termékeket és emléktárgyakat."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kis piacokat a mellékutcákban friss termékekért és sajtokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri din piață",
+            "tip": "Găsiți obiecte de artizanat locale și suveniruri."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețe mici pe străduțele laterale pentru produse proaspete și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops in the square",
+            "tip": "Find local crafts and memorabilia."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for small markets in the side streets for fresh produce and cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der gesamte Rundgang zu Fuß stattfindet.",
+          "Prüfen Sie die Öffnungszeiten der Galerie und der Kirchen im Voraus.",
+          "Der Aufstieg auf den Kirchturm der Kirche Mariä Himmelfahrt ist ein Muss für die beste Aussicht, aber seien Sie auf viele Stufen vorbereitet.",
+          "Die meisten Sehenswürdigkeiten befinden sich auf oder direkt neben dem Hauptplatz, was die Orientierung sehr einfach macht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az egész túra gyalog zajlik.",
+          "Előre ellenőrizze a galéria és a templomok nyitvatartási idejét.",
+          "A Mária Mennybemenetele templom tornyába való felmászás kötelező a legjobb kilátásért, de készüljön fel a sok lépcsőre.",
+          "A legtöbb látnivaló a főtéren vagy közvetlenül mellette található, ami nagyon megkönnyíti a tájékozódást."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece întregul tur se face pe jos.",
+          "Verificați în prealabil programul de funcționare al galeriei și al bisericilor.",
+          "Urcarea în turnul Bisericii Adormirea Maicii Domnului este obligatorie pentru cea mai bună priveliște, dar fiți pregătiți pentru multe trepte.",
+          "Majoritatea atracțiilor sunt situate în piața principală sau chiar lângă aceasta, ceea ce face orientarea foarte ușoară."
+        ],
+        "en": [
+          "Wear comfortable shoes as the entire tour is on foot.",
+          "Check the opening hours of the gallery and churches in advance.",
+          "Climbing the tower of the Church of the Assumption is a must for the best view, but be prepared for many steps.",
+          "Most sights are located on or right next to the main square, making navigation very easy."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Linsenförmiger Marktplatz",
+            "hu": "Lencse alakú főtér",
+            "ro": "Piața în formă de lentilă",
+            "en": "Lens-shaped Market Square"
+          },
+          "coords": [
+            20.5614,
+            48.9442
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Historisches Zentrum (Rathaus, Provinzhaus, Redoute)",
+            "hu": "Történelmi központ (Városháza, Tartományi Ház, Redut)",
+            "ro": "Centrul istoric (Primărie, Casă Provincială, Redută)",
+            "en": "Historic Center (Town Hall, Provincial House, Redoute)"
+          },
+          "coords": [
+            20.562,
+            48.9445
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:36",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt & Evangelische Kirche",
+            "hu": "Mária Mennybemenetele-templom és Evangélikus templom",
+            "ro": "Biserica Adormirea Maicii Domnului și Biserica Evanghelică",
+            "en": "Church of Assumption & Evangelical Church"
+          },
+          "coords": [
+            20.564,
+            48.9447
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:39",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Galerie der Zips-Künstler",
+            "hu": "Szepességi Művészek Galériája",
+            "ro": "Galeria Artiștilor din Spiš",
+            "en": "Gallery of Spiš Artists"
+          },
+          "coords": [
+            20.56,
+            48.9435
+          ],
+          "category": "museums",
+          "arrive_at": "11:57",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            20.5635,
+            48.945
+          ],
+          "category": "gastro",
+          "arrive_at": "13:28",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Zoo Spišská Nová Ves",
+            "hu": "Iglói Állatkert",
+            "ro": "Zoo Spišská Nová Ves",
+            "en": "Zoo Spišská Nová Ves"
+          },
+          "coords": [
+            20.585,
+            48.948
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:06",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the Center"
+          },
+          "coords": [
+            20.5614,
+            48.9442
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:39",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am linsenförmigen Marktplatz. Erkunden Sie vormittags die historischen Gebäude und die beeindruckenden Kirchen im Zentrum. Nach einer Stärkung in der Kunstgalerie und einem Mittagessen radeln Sie am Nachmittag zum Zoo von Spišská Nová Ves, dem jüngsten Zoo der Slowakei. Genießen Sie die Tiere und die entspannte Atmosphäre, bevor Sie für einen letzten Kaffee oder ein Souvenir ins Stadtzentrum zurückkehren.",
+        "hu": "Kezdje a kerékpártúrát a lencse alakú főtérről. Délelőtt fedezze fel a központ történelmi épületeit és lenyűgöző templomait. Miután elmerült a művészetben a galériában és megebédelt, délután tekerjen el az Iglói Állatkertbe, Szlovákia legfiatalabb állatkertjébe. Élvezze az állatokat és a nyugodt légkört, mielőtt visszatérne a városközpontba egy utolsó kávéra vagy ajándéktárgyért.",
+        "ro": "Începeți turul cu bicicleta din piața în formă de lentilă. Explorați clădirile istorice și bisericile impresionante din centru dimineața. După ce vă cufundați în artă la galerie și luați prânzul, pedalați după-amiaza spre Grădina Zoologică din Spišská Nová Ves, cea mai tânără grădină zoologică din Slovacia. Bucurați-vă de animale și de atmosfera relaxată înainte de a vă întoarce în centrul orașului pentru o ultimă cafea sau un suvenir.",
+        "en": "Start your bike tour from the lens-shaped market square. Explore the historic buildings and impressive churches in the center in the morning. After immersing yourself in art at the gallery and having lunch, cycle to the Spišská Nová Ves Zoo in the afternoon, the youngest zoo in Slovakia. Enjoy the animals and the relaxed atmosphere before returning to the city center for a final coffee or souvenir."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové pirohy",
+            "tip": "Eine weitere slowakische Spezialität, gefüllte Teigtaschen mit Schafskäse."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Probieren Sie das lokale Kräuter-Cola-Getränk, eine erfrischende Alternative."
+          },
+          {
+            "name": "Reštaurácia Zbrojnoš",
+            "tip": "Bietet traditionelle Gerichte in einer rustikalen, gemütlichen Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové pirohy (juhtúrós derelye)",
+            "tip": "Egy másik szlovák specialitás, juhtúróval töltött tészta."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Kóstolja meg a helyi, gyógynövényes kólaitalt, ami egy frissítő alternatíva."
+          },
+          {
+            "name": "Zbrojnoš Étterem",
+            "tip": "Hagyományos ételeket kínál rusztikus, hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové pirohy",
+            "tip": "O altă specialitate slovacă, găluște umplute cu brânză de oaie."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Încercați băutura locală pe bază de plante, o alternativă răcoritoare la cola."
+          },
+          {
+            "name": "Restaurant Zbrojnoš",
+            "tip": "Oferă mâncăruri tradiționale într-un cadru rustic și confortabil."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové pirohy",
+            "tip": "Another Slovak specialty, dumplings filled with sheep cheese."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Try the local herbal cola drink, a refreshing alternative."
+          },
+          {
+            "name": "Zbrojnoš Restaurant",
+            "tip": "Offers traditional dishes in a rustic, cozy setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park beim Zoo",
+            "tip": "Ein schöner Ort für eine Pause nach dem Zoobesuch.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Madaras Park",
+            "tip": "Ein Stadtpark in der Nähe des Zentrums, ideal für eine kurze, ruhige Radtour.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park az Állatkertnél",
+            "tip": "Szép hely egy kis pihenésre az állatkerti látogatás után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Madaras Park",
+            "tip": "Városi park a központ közelében, ideális egy rövid, csendes kerékpártúrához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de lângă Grădina Zoologică",
+            "tip": "Un loc frumos pentru o pauză după vizitarea grădinii zoologice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Madaras",
+            "tip": "Un parc urban aproape de centru, ideal pentru o scurtă plimbare liniștită cu bicicleta.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park near the Zoo",
+            "tip": "A nice place for a break after visiting the zoo.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Madaras Park",
+            "tip": "An urban park near the center, ideal for a short, quiet bike ride.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Entdecken Sie einzigartige, handgefertigte slowakische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha tartozékra vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Fedezzen fel egyedi, kézzel készített szlovák termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Descoperiți produse slovace unice, lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "In case you need accessories or a quick repair."
+          },
+          {
+            "name": "Craft shops",
+            "tip": "Discover unique, handmade Slovak products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in der Stadt, falls Sie keins dabeihaben.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders im Stadtzentrum.",
+          "Die Route zum Zoo hat einige leichte Steigungen, ist aber gut machbar.",
+          "Nutzen Sie die Fahrradwege, wo immer sie verfügbar sind."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a városban, ha nincs sajátja.",
+          "Mindig gondosan zárja le a kerékpárt, különösen a városközpontban.",
+          "Az állatkerthez vezető úton vannak enyhe emelkedők, de jól teljesíthető.",
+          "Használja a kerékpárutakat, ahol csak elérhetők."
+        ],
+        "ro": [
+          "Închiriați o bicicletă din oraș dacă nu aveți una.",
+          "Asigurați-vă întotdeauna bicicleta, mai ales în centrul orașului.",
+          "Traseul către grădina zoologică are câteva pante ușoare, dar este fezabil.",
+          "Folosiți pistele de biciclete oriunde sunt disponibile."
+        ],
+        "en": [
+          "Rent a bike in the city if you don't have one.",
+          "Always lock your bike securely, especially in the city center.",
+          "The route to the zoo has some gentle inclines but is quite manageable.",
+          "Use bike lanes wherever available."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Start am Linsenförmigen Marktplatz",
+            "hu": "Parkolás és indulás a Lencse alakú főtérnél",
+            "ro": "Parcare și start în Piața în formă de lentilă",
+            "en": "Parking and Start at the Lens-shaped Market Square"
+          },
+          "coords": [
+            20.5614,
+            48.9442
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Rathaus, Provinzhaus und Redoute",
+            "hu": "Városháza, Tartományi Ház és Redut",
+            "ro": "Primăria, Casa Provincială și Reduta",
+            "en": "Town Hall, Provincial House and Redoute"
+          },
+          "coords": [
+            20.562,
+            48.9445
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:22",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Mária Mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            20.5625,
+            48.9439
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:24",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Galerie der Zips-Künstler und Mittagessen",
+            "hu": "Szepességi Művészek Galériája és ebéd",
+            "ro": "Galeria Artiștilor din Spiš și prânz",
+            "en": "Gallery of Spiš Artists and Lunch"
+          },
+          "coords": [
+            20.56,
+            48.9435
+          ],
+          "category": "museums",
+          "arrive_at": "11:27",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Zoo Spišská Nová Ves",
+            "hu": "Utazás az Iglói Állatkerthez",
+            "ro": "Călătorie la Grădina Zoologică Spišská Nová Ves",
+            "en": "Drive to Zoo Spišská Nová Ves"
+          },
+          "coords": [
+            20.585,
+            48.948
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:04",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2
+        },
+        {
+          "name": {
+            "de": "Rückfahrt und Ende der Tour",
+            "hu": "Visszautazás és a túra vége",
+            "ro": "Întoarcere și sfârșitul turului",
+            "en": "Return and End of Tour"
+          },
+          "coords": [
+            20.5614,
+            48.9442
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:11",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto in der Nähe des Zentrums und beginnen Sie Ihren Tag zu Fuß am linsenförmigen Marktplatz. Der Vormittag ist der Erkundung des historischen Herzens der Stadt gewidmet: Rathaus, Kirchen und die Kunstgalerie. Nach einem gemütlichen Mittagessen im Zentrum fahren Sie am Nachmittag zum Zoo. Verbringen Sie dort eine entspannte Zeit, bevor Sie die Rückfahrt antreten. Diese Tour kombiniert einen Spaziergang im Stadtkern mit dem Komfort des Autos für weiter entfernte Ziele.",
+        "hu": "Parkolja le autóját a központ közelében, és kezdje a napot egy sétával a lencse alakú főtéren. A délelőtt a város történelmi szívének felfedezésével telik: Városháza, templomok és a művészeti galéria. Egy kellemes belvárosi ebéd után délután autózzon el az állatkertbe. Töltsön ott egy pihentető időt, mielőtt visszaindulna. Ez a túra ötvözi a belvárosi sétát az autó kényelmével a távolabbi célpontok eléréséhez.",
+        "ro": "Parcați mașina lângă centru și începeți ziua pe jos, în piața în formă de lentilă. Dimineața este dedicată explorării inimii istorice a orașului: primărie, biserici și galeria de artă. După un prânz relaxant în centru, conduceți spre grădina zoologică după-amiaza. Petreceți un timp relaxant acolo înainte de a vă întoarce. Acest tur combină o plimbare în centrul orașului cu confortul mașinii pentru destinații mai îndepărtate.",
+        "en": "Park your car near the center and start your day on foot at the lens-shaped market square. The morning is dedicated to exploring the historic heart of the city: town hall, churches, and the art gallery. After a leisurely lunch in the center, drive to the zoo in the afternoon. Spend some relaxing time there before heading back. This tour combines a walk in the city core with the comfort of a car for more distant destinations."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kapustnica",
+            "tip": "Eine traditionelle Sauerkrautsuppe, oft mit Wurst und Pilzen."
+          },
+          {
+            "name": "Spišské párky",
+            "tip": "Probieren Sie die berühmten lokalen Würstchen, ein geschütztes Produkt."
+          },
+          {
+            "name": "Reštaurácia Preveza",
+            "tip": "Etwas außerhalb des Zentrums, gut mit dem Auto erreichbar, bietet eine große Auswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kapustnica (káposztaleves)",
+            "tip": "Hagyományos savanyúkáposzta-leves, gyakran kolbásszal és gombával."
+          },
+          {
+            "name": "Spišské párky (szepesi virsli)",
+            "tip": "Kóstolja meg a híres helyi virslit, ami védett termék."
+          },
+          {
+            "name": "Preveza Étterem",
+            "tip": "Kicsit a központon kívül, autóval jól megközelíthető, széles választékot kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kapustnica",
+            "tip": "O supă tradițională de varză acră, adesea cu cârnați și ciuperci."
+          },
+          {
+            "name": "Spišské párky",
+            "tip": "Încercați celebrii cârnați locali, un produs protejat."
+          },
+          {
+            "name": "Restaurant Preveza",
+            "tip": "Puțin în afara centrului, ușor accesibil cu mașina, oferă o selecție largă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kapustnica",
+            "tip": "A traditional sauerkraut soup, often with sausage and mushrooms."
+          },
+          {
+            "name": "Spišské párky",
+            "tip": "Try the famous local sausages, a protected product."
+          },
+          {
+            "name": "Preveza Restaurant",
+            "tip": "Slightly outside the center, easily accessible by car, offers a wide selection."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Umgebung des Zoos",
+            "tip": "Die Grünflächen rund um den Zoo sind ideal für einen ruhigen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fahrt ins Slowakische Paradies",
+            "tip": "Wenn Sie Zeit haben, ist eine kurze Fahrt zum nahegelegenen Nationalpark eine großartige Option für Ruhe und Natur.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Állatkert környéke",
+            "tip": "Az állatkert körüli zöld területek ideálisak egy csendes sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirándulás a Szlovák Paradicsomba",
+            "tip": "Ha van ideje, egy rövid autóút a közeli nemzeti parkba nagyszerű lehetőség a csendre és a természetre.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Împrejurimile grădinii zoologice",
+            "tip": "Zonele verzi din jurul grădinii zoologice sunt ideale pentru o plimbare liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Excursie în Paradisul Slovac",
+            "tip": "Dacă aveți timp, o scurtă călătorie cu mașina până la parcul național din apropiere este o opțiune excelentă pentru liniște și natură.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zoo surroundings",
+            "tip": "The green areas around the zoo are ideal for a quiet walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Drive to Slovak Paradise",
+            "tip": "If you have time, a short drive to the nearby national park is a great option for peace and nature.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Größere Supermärkte am Stadtrand",
+            "tip": "Nutzen Sie das Auto, um lokale Produkte in größeren Mengen zu kaufen."
+          },
+          {
+            "name": "OC Madaras",
+            "tip": "Ein Einkaufszentrum für eine breitere Auswahl an Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nagyobb szupermarketek a város szélén",
+            "tip": "Használja ki az autót, hogy nagyobb mennyiségben vásároljon helyi termékeket."
+          },
+          {
+            "name": "OC Madaras",
+            "tip": "Bevásárlóközpont a boltok szélesebb választékáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketuri mai mari la periferie",
+            "tip": "Folosiți mașina pentru a cumpăra produse locale în cantități mai mari."
+          },
+          {
+            "name": "OC Madaras",
+            "tip": "Un centru comercial pentru o selecție mai largă de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Larger supermarkets on the outskirts",
+            "tip": "Use the car to buy local products in larger quantities."
+          },
+          {
+            "name": "OC Madaras",
+            "tip": "A shopping center for a wider selection of stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Suchen Sie nach einem bewachten Parkplatz oder Parkhaus im Zentrum für die erste Hälfte des Tages.",
+          "Der Zoo hat einen eigenen Parkplatz.",
+          "Planen Sie die Fahrt zum Zoo außerhalb der Hauptverkehrszeiten, um Staus zu vermeiden.",
+          "Das Auto gibt Ihnen die Flexibilität, auch Ziele außerhalb der Stadt zu besuchen, wie das Slowakische Paradies."
+        ],
+        "hu": [
+          "Keressen egy őrzött parkolót vagy parkolóházat a központban a nap első felére.",
+          "Az állatkertnek saját parkolója van.",
+          "Tervezze az állatkertbe vezető utat a csúcsforgalmon kívüli időszakra, hogy elkerülje a dugókat.",
+          "Az autó rugalmasságot biztosít a városon kívüli célpontok, például a Szlovák Paradicsom meglátogatásához is."
+        ],
+        "ro": [
+          "Căutați o parcare cu plată sau o parcare supraetajată în centru pentru prima jumătate a zilei.",
+          "Grădina zoologică are propria parcare.",
+          "Planificați călătoria la grădina zoologică în afara orelor de vârf pentru a evita aglomerația.",
+          "Mașina vă oferă flexibilitatea de a vizita și destinații din afara orașului, cum ar fi Paradisul Slovac."
+        ],
+        "en": [
+          "Look for a paid parking lot or garage in the center for the first half of the day.",
+          "The zoo has its own parking lot.",
+          "Plan your drive to the zoo outside of peak hours to avoid traffic.",
+          "The car gives you the flexibility to also visit destinations outside the city, like the Slovak Paradise."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft und Start am Linsenförmigen Marktplatz",
+            "hu": "Érkezés és indulás a Lencse alakú főtérről",
+            "ro": "Sosire și start în Piața în formă de lentilă",
+            "en": "Arrival and Start at the Lens-shaped Market Square"
+          },
+          "coords": [
+            20.5614,
+            48.9442
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Rathaus, Provinzhaus, Redoute",
+            "hu": "Séta: Városháza, Tartományi Ház, Redut",
+            "ro": "Plimbare: Primărie, Casă Provincială, Redută",
+            "en": "Walk: Town Hall, Provincial House, Redoute"
+          },
+          "coords": [
+            20.562,
+            48.9445
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:22",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Kirche Mariä Himmelfahrt & Galerie",
+            "hu": "Séta: Mária Mennybemenetele templom és Galéria",
+            "ro": "Plimbare: Biserica Adormirea Maicii Domnului și Galerie",
+            "en": "Walk: Church of the Assumption & Gallery"
+          },
+          "coords": [
+            20.561,
+            48.9437
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            20.5635,
+            48.945
+          ],
+          "category": "gastro",
+          "arrive_at": "12:28",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Zoo Spišská Nová Ves",
+            "hu": "Buszozás az Iglói Állatkerthez",
+            "ro": "Călătorie cu autobuzul la Grădina Zoologică Spišská Nová Ves",
+            "en": "Bus ride to Zoo Spišská Nová Ves"
+          },
+          "coords": [
+            20.585,
+            48.948
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:01",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 3
+        },
+        {
+          "name": {
+            "de": "Busfahrt zurück ins Zentrum",
+            "hu": "Buszozás vissza a központba",
+            "ro": "Călătorie cu autobuzul înapoi în centru",
+            "en": "Bus ride back to the center"
+          },
+          "coords": [
+            20.5614,
+            48.9442
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:14",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 3
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um Spišská Nová Ves zu erkunden. Beginnen Sie Ihren Tag im historischen Zentrum, das Sie bequem zu Fuß erkunden können. Alle wichtigen Sehenswürdigkeiten wie Kirchen, Museen und der Hauptplatz sind in einem Cluster zusammengefasst. Nach dem Mittagessen nehmen Sie einen lokalen Bus zum Zoo. Verbringen Sie einen entspannten Nachmittag mit den Tieren, bevor Sie mit dem Bus ins Zentrum zurückkehren, um den Tag ausklingen zu lassen.",
+        "hu": "Használja a tömegközlekedést Igló felfedezéséhez. Kezdje a napot a történelmi központban, amelyet kényelmesen bejárhat gyalog. Minden fontos látnivaló, mint a templomok, múzeumok és a főtér, egy klaszterben található. Ebéd után szálljon helyi buszra az állatkerthez. Töltsön egy pihentető délutánt az állatokkal, mielőtt busszal visszatérne a központba, hogy lezárja a napot.",
+        "ro": "Folosiți transportul public pentru a explora Spišská Nová Ves. Începeți ziua în centrul istoric, pe care îl puteți explora confortabil pe jos. Toate atracțiile principale, cum ar fi bisericile, muzeele și piața principală, sunt grupate într-un cluster. După prânz, luați un autobuz local spre grădina zoologică. Petreceți o după-amiază relaxantă cu animalele înainte de a vă întoarce în centru cu autobuzul pentru a încheia ziua.",
+        "en": "Use public transport to explore Spišská Nová Ves. Start your day in the historic center, which you can comfortably explore on foot. All major sights like churches, museums, and the main square are grouped in one cluster. After lunch, take a local bus to the zoo. Spend a relaxing afternoon with the animals before returning to the center by bus to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie eine lokale Biermarke in einer der Kneipen."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Auch wenn es eher tschechisch ist, findet man diesen süßen Gebäck-Snack oft auf Märkten."
+          },
+          {
+            "name": "Pizzeria Allegro",
+            "tip": "Eine beliebte Option für eine schnelle und leckere Mahlzeit im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy helyi sörmárkát az egyik kocsmában."
+          },
+          {
+            "name": "Trdelník (kürtőskalács)",
+            "tip": "Bár inkább cseh, ezt az édes süteményt gyakran megtalálja a piacokon."
+          },
+          {
+            "name": "Pizzeria Allegro",
+            "tip": "Népszerű választás egy gyors és finom ételhez a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bere locală",
+            "tip": "Încercați o marcă de bere locală într-unul dintre pub-uri."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Chiar dacă este mai degrabă cehesc, această gustare dulce de patiserie se găsește adesea în piețe."
+          },
+          {
+            "name": "Pizzeria Allegro",
+            "tip": "O opțiune populară pentru o masă rapidă și delicioasă în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local beer",
+            "tip": "Try a local beer brand in one of the pubs."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Even though it's more of a Czech thing, this sweet pastry snack is often found at markets."
+          },
+          {
+            "name": "Pizzeria Allegro",
+            "tip": "A popular option for a quick and tasty meal in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof neben der Kirche",
+            "tip": "Historische Friedhöfe können überraschend ruhige und nachdenkliche Orte sein.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Busfahrt durch die Vororte",
+            "tip": "Beobachten Sie das lokale Leben vom Fenster aus.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető a templom mellett",
+            "tip": "A történelmi temetők meglepően csendes és elgondolkodtató helyek lehetnek.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Buszozás a külvároson keresztül",
+            "tip": "Figyelje a helyi életet az ablakból.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă biserică",
+            "tip": "Cimitirele istorice pot fi locuri surprinzător de liniștite și contemplative.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare cu autobuzul prin suburbii",
+            "tip": "Observați viața locală de la fereastră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery next to the church",
+            "tip": "Historic cemeteries can be surprisingly quiet and contemplative places.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bus ride through the suburbs",
+            "tip": "Observe local life from the window.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Hier finden Sie Zeitungen, Snacks und manchmal auch Fahrkarten."
+          },
+          {
+            "name": "Buchhandlungen",
+            "tip": "Suchen Sie nach Büchern über die Region Zips (Spiš)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Itt újságokat, rágcsálnivalókat és néha jegyeket is talál."
+          },
+          {
+            "name": "Könyvesboltok",
+            "tip": "Keressen könyveket a Szepességről (Spiš)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri din stațiile de autobuz",
+            "tip": "Aici puteți găsi ziare, gustări și uneori bilete."
+          },
+          {
+            "name": "Librării",
+            "tip": "Căutați cărți despre regiunea Spiš."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "You can find newspapers, snacks, and sometimes tickets here."
+          },
+          {
+            "name": "Bookstores",
+            "tip": "Look for books about the Spiš region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die Rückfahrt vom Zoo.",
+          "Die meisten Busse sind modern, aber halten Sie Kleingeld für den Fall bereit, dass Sie ein Ticket beim Fahrer kaufen müssen.",
+          "Die zentralen Sehenswürdigkeiten sind alle zu Fuß erreichbar, sodass Sie den Bus nur für den Ausflug zum Zoo benötigen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az állatkertből való visszaútra.",
+          "A legtöbb busz modern, de tartson magánál aprópénzt arra az esetre, ha a sofőrnél kell jegyet vennie.",
+          "A központi látnivalók mind gyalogosan elérhetők, így a buszra csak az állatkerti kiránduláshoz lesz szüksége."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați programul autobuzului în avans, în special pentru întoarcerea de la grădina zoologică.",
+          "Majoritatea autobuzelor sunt moderne, dar aveți la îndemână mărunțiș în cazul în care trebuie să cumpărați un bilet de la șofer.",
+          "Atracțiile centrale sunt toate la distanță de mers pe jos, așa că veți avea nevoie de autobuz doar pentru excursia la grădina zoologică."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Check the bus schedule in advance, especially for the return trip from the zoo.",
+          "Most buses are modern, but have small change ready in case you need to buy a ticket from the driver.",
+          "The central sights are all within walking distance, so you'll only need the bus for the trip to the zoo."
+        ]
+      }
+    }
+  }
+}

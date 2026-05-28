@@ -1,0 +1,1517 @@
+{
+  "city_id": "greece-sparta-cities-v2",
+  "anchor": {
+    "name": "Sparta",
+    "coords": [
+      22.4303,
+      37.0734
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz von Sparta",
+            "hu": "Spárta központi tere",
+            "ro": "Piața Centrală din Sparta",
+            "en": "Central Square of Sparta"
+          },
+          "coords": [
+            22.4305,
+            37.0751
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
+            "en": "Start your day with a coffee at one of the many cafes on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            22.4288,
+            37.0755
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Mosaike und die archaischen Skulpturen.",
+            "hu": "Fókuszáljon a mozaikokra és az archaikus szobrokra.",
+            "ro": "Concentrați-vă pe mozaicuri și sculpturile arhaice.",
+            "en": "Focus on the mosaics and the archaic sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Leonidas-Statue",
+            "hu": "Leonidász-szobor",
+            "ro": "Statuia lui Leonidas",
+            "en": "Statue of Leonidas"
+          },
+          "coords": [
+            22.4245,
+            37.0801
+          ],
+          "category": "monuments",
+          "arrive_at": "11:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ikonischer Fotospot am Ende der Hauptstraße.",
+            "hu": "Ikonikus fotóhely a főutca végén.",
+            "ro": "Un loc iconic pentru fotografii la capătul străzii principale.",
+            "en": "An iconic photo spot at the end of the main street."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Sparta",
+            "hu": "Antik Spárta",
+            "ro": "Sparta Antică",
+            "en": "Ancient Sparta"
+          },
+          "coords": [
+            22.4239,
+            37.0819
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tragen Sie festes Schuhwerk, das Gelände ist uneben.",
+            "hu": "Viseljen kényelmes cipőt, a terep egyenetlen.",
+            "ro": "Purtați încălțăminte solidă, terenul este accidentat.",
+            "en": "Wear sturdy shoes as the terrain is uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Grab des Leonidas",
+            "hu": "Leonidász sírja",
+            "ro": "Mormântul lui Leonidas",
+            "en": "Tomb of Leonidas"
+          },
+          "coords": [
+            22.426,
+            37.078
+          ],
+          "category": "monuments",
+          "arrive_at": "13:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein Ort der stillen Einkehr und des Gedenkens.",
+            "hu": "A csendes elmélkedés és emlékezés helye.",
+            "ro": "Un loc de reflecție tăcută și comemorare.",
+            "en": "A place for quiet reflection and remembrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Olivenmuseum",
+            "hu": "Olívamúzeum",
+            "ro": "Muzeul Măslinelor",
+            "en": "Museum of the Olive"
+          },
+          "coords": [
+            22.4231,
+            37.0699
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Probieren Sie die verschiedenen Olivenöle im Museumsshop.",
+            "hu": "Kóstolja meg a különböző olívaolajokat a múzeumi boltban.",
+            "ro": "Degustați diferitele uleiuri de măsline la magazinul muzeului.",
+            "en": "Sample the different olive oils in the museum shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum der Artemis Orthia",
+            "hu": "Artemisz Orthia szentélye",
+            "ro": "Sanctuarul lui Artemis Orthia",
+            "en": "Sanctuary of Artemis Orthia"
+          },
+          "coords": [
+            22.429,
+            37.0845
+          ],
+          "category": "historical",
+          "arrive_at": "16:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Stellen Sie sich die spartanischen Rituale vor, die hier stattfanden.",
+            "hu": "Képzelje el a spártai rituálékat, amelyek itt zajlottak.",
+            "ro": "Imaginați-vă ritualurile spartane care aveau loc aici.",
+            "en": "Imagine the Spartan rituals that took place here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem lebhaften Zentralplatz, um die moderne spartanische Atmosphäre zu spüren. Der Vormittag ist der Antike gewidmet, mit einem tiefen Einblick in das Archäologische Museum, gefolgt von einem Besuch der Ruinen des antiken Sparta, wo Geschichte lebendig wird. Am Nachmittag erkunden Sie die kulturelle Bedeutung der Olive im faszinierenden Olivenmuseum. Der Spaziergang führt Sie weiter zu heiligen Stätten und ehrenvollen Monumenten wie dem Grab des Leonidas. Lassen Sie den Tag ausklingen, während Sie durch die Straßen schlendern und über das strenge, aber faszinierende Erbe der Stadt nachdenken.",
+        "hu": "Kezdje a napot a nyüzsgő központi téren, hogy átérezze a modern spártai hangulatot. A délelőtt az ókoré: mélyedjen el a Régészeti Múzeum kincseiben, majd látogasson el az antik Spárta romjaihoz, ahol a történelem megelevenedik. Délután fedezze fel az olajbogyó kulturális jelentőségét az érdekes Olívamúzeumban. Sétája szent helyekhez és tiszteletet parancsoló emlékművekhez vezet, mint például Leonidász sírjához. Zárja a napot a város utcáin sétálva, elgondolkodva a város zord, mégis lenyűgöző örökségén.",
+        "ro": "Începeți ziua în Piața Centrală plină de viață pentru a simți atmosfera spartană modernă. Dimineața este dedicată antichității, cu o incursiune profundă în Muzeul de Arheologie, urmată de o vizită la ruinele Spartei antice, unde istoria prinde viață. După-amiaza, explorați importanța culturală a măslinelor la fascinantul Muzeu al Măslinelor. Plimbarea vă va purta mai departe spre situri sacre și monumente onorabile, cum ar fi Mormântul lui Leonidas. Încheiați ziua plimbându-vă pe străzi, reflectând la moștenirea austeră, dar fascinantă, a orașului.",
+        "en": "Start your day in the bustling Central Square to feel the modern Spartan atmosphere. The morning is dedicated to antiquity, with a deep dive into the Archaeological Museum, followed by a visit to the ruins of ancient Sparta where history comes to life. In the afternoon, explore the cultural significance of the olive at the fascinating Museum of the Olive. Your walk will take you further to sacred sites and honorable monuments like the Tomb of Leonidas. End the day strolling through the streets, reflecting on the city's austere yet fascinating heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kleftiko",
+            "tip": "Langsam gegartes Lammfleisch, das auf der Zunge zergeht."
+          },
+          {
+            "name": "Griechischer Salat mit Feta",
+            "tip": "Ein Klassiker mit lokalen, sonnengereiften Tomaten und Oliven."
+          },
+          {
+            "name": "Diples",
+            "tip": "Ein lokales, frittiertes Gebäck, oft mit Honig und Nüssen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kleftiko",
+            "tip": "Lassan sült bárányhús, ami omlik a szájban."
+          },
+          {
+            "name": "Görög saláta fetával",
+            "tip": "Klasszikus helyi, napérlelte paradicsommal és olajbogyóval."
+          },
+          {
+            "name": "Diples",
+            "tip": "Helyi, sült tésztaféle, gyakran mézzel és dióval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kleftiko",
+            "tip": "Miel gătit lent, care se topește în gură."
+          },
+          {
+            "name": "Salată grecească cu Feta",
+            "tip": "Un clasic cu roșii locale coapte la soare și măsline."
+          },
+          {
+            "name": "Diples",
+            "tip": "Un desert local prăjit, adesea servit cu miere și nuci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kleftiko",
+            "tip": "Slow-cooked lamb that melts in your mouth."
+          },
+          {
+            "name": "Greek Salad with Feta",
+            "tip": "A classic with local, sun-ripened tomatoes and olives."
+          },
+          {
+            "name": "Diples",
+            "tip": "A local fried pastry, often with honey and nuts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel des Menelaion",
+            "tip": "Ein ruhiger Spaziergang mit Panoramablick über das Tal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Olivenhaine um Sparta",
+            "tip": "Finden Sie Ruhe bei einem Spaziergang durch die zeitlosen Haine.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Evrotas",
+            "tip": "Ein friedlicher Ort, um dem Stadtzentrum zu entfliehen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menelaion-hegy",
+            "tip": "Csendes séta, panorámás kilátással a völgyre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Olajfaligetek Spárta körül",
+            "tip": "Találjon nyugalmat egy sétával az időtlen ligetekben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evrotas folyó partja",
+            "tip": "Békés hely, hogy elmeneküljön a városközponttól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Menelaion",
+            "tip": "O plimbare liniștită cu vederi panoramice ale văii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Livezile de măslini din jurul Spartei",
+            "tip": "Găsiți liniștea într-o plimbare prin livezile atemporale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Evrotas",
+            "tip": "Un loc pașnic pentru a scăpa de centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hill of the Menelaion",
+            "tip": "A quiet walk with panoramic views over the valley.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Olive Groves around Sparta",
+            "tip": "Find tranquility on a walk through the timeless groves.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Evrotas River",
+            "tip": "A peaceful spot to escape the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Kaufen Sie preisgekröntes Öl direkt von den Produzenten."
+          },
+          {
+            "name": "Spartanische Souvenirs",
+            "tip": "Suchen Sie nach Repliken von Helmen oder Statuetten in den Souvenirläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásároljon díjnyertes olajat közvetlenül a termelőktől."
+          },
+          {
+            "name": "Spártai szuvenírek",
+            "tip": "Keressen sisakmásolatokat vagy szobrocskákat az ajándékboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați ulei premiat direct de la producători."
+          },
+          {
+            "name": "Suveniruri spartane",
+            "tip": "Căutați replici de coifuri sau statuete în magazinele de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Buy award-winning oil directly from the producers."
+          },
+          {
+            "name": "Spartan Souvenirs",
+            "tip": "Look for replica helmets or statuettes in the gift shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es kann heiß werden.",
+          "Die meisten archäologischen Stätten haben wenig Schatten, also bringen Sie einen Hut und Sonnencreme mit.",
+          "Die Öffnungszeiten der Museen können variieren, überprüfen Sie sie im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot, meleg lehet.",
+          "A legtöbb régészeti lelőhelyen kevés az árnyék, hozzon kalapot és naptejet.",
+          "A múzeumok nyitvatartása változhat, ellenőrizze előre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați o sticlă de apă reutilizabilă; poate fi cald.",
+          "Majoritatea siturilor arheologice au puțină umbră, așa că aduceți o pălărie și cremă de soare.",
+          "Orele de funcționare ale muzeelor pot varia, verificați în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Bring a reusable water bottle; it can get hot.",
+          "Most archaeological sites have little shade, so bring a hat and sunscreen.",
+          "Museum opening hours can vary, check them in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz von Sparta",
+            "hu": "Spárta központi tere",
+            "ro": "Piața Centrală din Sparta",
+            "en": "Central Square of Sparta"
+          },
+          "coords": [
+            22.4305,
+            37.0751
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie einen Kaffee, um den Tag zu beginnen.",
+            "hu": "Parkolja le a biciklit, és élvezzen egy kávét a nap indításaként.",
+            "ro": "Parcați bicicleta și savurați o cafea pentru a începe ziua.",
+            "en": "Park your bike and enjoy a coffee to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            22.4288,
+            37.0755
+          ],
+          "category": "museums",
+          "arrive_at": "09:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad gut ab, bevor Sie das Museum betreten.",
+            "hu": "Zárja le jól a kerékpárt, mielőtt belép a múzeumba.",
+            "ro": "Asigurați-vă bicicleta bine înainte de a intra în muzeu.",
+            "en": "Lock your bike securely before entering the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Leonidas-Statue",
+            "hu": "Leonidász-szobor",
+            "ro": "Statuia lui Leonidas",
+            "en": "Statue of Leonidas"
+          },
+          "coords": [
+            22.4245,
+            37.0801
+          ],
+          "category": "monuments",
+          "arrive_at": "11:07",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für ein schnelles Foto mit Ihrem Fahrrad.",
+            "hu": "Tökéletes hely egy gyors fotóhoz a kerékpárjával.",
+            "ro": "Locul perfect pentru o fotografie rapidă cu bicicleta.",
+            "en": "The perfect spot for a quick photo with your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Sparta",
+            "hu": "Antik Spárta",
+            "ro": "Sparta Antică",
+            "en": "Ancient Sparta"
+          },
+          "coords": [
+            22.4239,
+            37.0819
+          ],
+          "category": "historical",
+          "arrive_at": "11:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufige Anlage, das Fahrrad hilft, die Distanzen zu überbrücken.",
+            "hu": "Fedezze fel a tágas területet, a kerékpár segít a távolságok áthidalásában.",
+            "ro": "Explorați situl extins, bicicleta ajută la acoperirea distanțelor.",
+            "en": "Explore the expansive site, the bike helps cover the distances."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum der Artemis Orthia",
+            "hu": "Artemisz Orthia szentélye",
+            "ro": "Sanctuarul lui Artemis Orthia",
+            "en": "Sanctuary of Artemis Orthia"
+          },
+          "coords": [
+            22.429,
+            37.0845
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher vom Hauptweg, aber die ruhige Atmosphäre ist es wert.",
+            "hu": "Rövid kitérő a fő útvonaltól, de a csendes hangulat megéri.",
+            "ro": "Un scurt ocol de la traseul principal, dar atmosfera liniștită merită.",
+            "en": "A short detour from the main path, but the quiet atmosphere is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Menelaion",
+            "hu": "Menelaion",
+            "ro": "Menelaion",
+            "en": "Menelaion"
+          },
+          "coords": [
+            22.45,
+            37.065
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der Anstieg ist anspruchsvoll, aber die Aussicht ist die beste in der Region.",
+            "hu": "Az emelkedő kihívást jelent, de a kilátás a legjobb a környéken.",
+            "ro": "Urcușul este solicitant, dar priveliștea este cea mai bună din regiune.",
+            "en": "The climb is challenging, but the view is the best in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Olivenmuseum",
+            "hu": "Olívamúzeum",
+            "ro": "Muzeul Măslinelor",
+            "en": "Museum of the Olive"
+          },
+          "coords": [
+            22.4231,
+            37.0699
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Eine willkommene Abwechslung nach der Radtour, um mehr über die lokale Kultur zu erfahren.",
+            "hu": "Üdvözlendő kikapcsolódás a biciklitúra után, hogy többet tudjon meg a helyi kultúráról.",
+            "ro": "O pauză binevenită după turul cu bicicleta pentru a afla mai multe despre cultura locală.",
+            "en": "A welcome break after the bike ride to learn about local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Grab des Leonidas",
+            "hu": "Leonidász sírja",
+            "ro": "Mormântul lui Leonidas",
+            "en": "Tomb of Leonidas"
+          },
+          "coords": [
+            22.426,
+            37.078
+          ],
+          "category": "monuments",
+          "arrive_at": "16:51",
+          "stay_min": 20,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Ein guter Ort, um die Tour zu beenden und über die Geschichte Spartas nachzudenken.",
+            "hu": "Jó hely a túra befejezéséhez és Spárta történelmén való elmélkedéshez.",
+            "ro": "Un loc bun pentru a încheia turul și a reflecta asupra istoriei Spartei.",
+            "en": "A good place to end the tour and reflect on Sparta's history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich am Morgen auf Ihr Fahrrad und starten Sie am Zentralplatz, bevor Sie in die Geschichte im Archäologischen Museum eintauchen. Die Radtour führt Sie mittags zu den ikonischen Stätten des antiken Sparta, einschließlich der Leonidas-Statue und dem Heiligtum der Artemis. Der Nachmittag bringt eine Herausforderung mit dem Anstieg zum Menelaion, belohnt mit einer atemberaubenden Aussicht, gefolgt von einer informativen Pause im Olivenmuseum. Beenden Sie Ihre Tour am Grab des Leonidas und lassen Sie die heroische Vergangenheit der Stadt auf sich wirken.",
+        "hu": "Pattanjon reggel kerékpárra a központi téren, mielőtt elmerülne a történelemben a Régészeti Múzeumban. A déli kerékpártúra az antik Spárta ikonikus helyszíneire vezet, beleértve Leonidász szobrát és Artemisz szentélyét. A délután kihívást tartogat a Menelaion megmászásával, amit lenyűgöző kilátás jutalmaz, majd egy informatív pihenő következik az Olívamúzeumban. Fejezze be a túrát Leonidász sírjánál, és hagyja, hogy átjárja a város hősies múltja.",
+        "ro": "Urcați-vă pe bicicletă dimineața și porniți din Piața Centrală înainte de a vă cufunda în istorie la Muzeul de Arheologie. Turul cu bicicleta de la prânz vă duce la siturile iconice ale Spartei antice, inclusiv Statuia lui Leonidas și Sanctuarul lui Artemis. După-amiaza aduce o provocare cu urcarea la Menelaion, recompensată cu priveliști uluitoare, urmată de o pauză informativă la Muzeul Măslinelor. Încheiați-vă turul la Mormântul lui Leonidas, lăsând trecutul eroic al orașului să vă impresioneze.",
+        "en": "Hop on your bike in the morning and start from the Central Square before diving into history at the Archaeological Museum. The midday bike tour takes you to the iconic sites of ancient Sparta, including the Statue of Leonidas and the Sanctuary of Artemis. The afternoon brings a challenge with the climb to the Menelaion, rewarded with breathtaking views, followed by an informative break at the Museum of the Olive. End your tour at the Tomb of Leonidas, letting the city's heroic past sink in."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souvlaki",
+            "tip": "Ein schneller und leckerer Snack, perfekt für eine Radtour."
+          },
+          {
+            "name": "Frisch gepresster Orangensaft",
+            "tip": "Erfrischung aus den berühmten Orangen der Region Lakonien."
+          },
+          {
+            "name": "Pasteli",
+            "tip": "Ein lokaler Energieriegel aus Sesam und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvlaki",
+            "tip": "Gyors és finom falat, tökéletes egy kerékpártúrához."
+          },
+          {
+            "name": "Frissen facsart narancslé",
+            "tip": "Frissítő Lakónia híres narancsaiból."
+          },
+          {
+            "name": "Pasteli",
+            "tip": "Helyi energiaszelet szezámmagból és mézből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvlaki",
+            "tip": "O gustare rapidă și delicioasă, perfectă pentru un tur cu bicicleta."
+          },
+          {
+            "name": "Suc proaspăt de portocale",
+            "tip": "Răcoritor, făcut din celebrele portocale din Laconia."
+          },
+          {
+            "name": "Pasteli",
+            "tip": "Un baton energizant local din susan și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvlaki",
+            "tip": "A quick and delicious snack, perfect for a bike tour."
+          },
+          {
+            "name": "Freshly squeezed orange juice",
+            "tip": "Refreshment from Laconia's famous oranges."
+          },
+          {
+            "name": "Pasteli",
+            "tip": "A local energy bar made of sesame and honey."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Menelaion",
+            "tip": "Nach dem Aufstieg genießen Sie die Stille und die weite Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fahrt entlang des Flusses Evrotas",
+            "tip": "Eine flache und friedliche Route abseits der Hauptstraßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Ecken im antiken Sparta",
+            "tip": "Finden Sie einen ruhigen Olivenbaum, unter dem Sie sich ausruhen können.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menelaion csúcsa",
+            "tip": "A mászás után élvezze a csendet és a tágas kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kerékpározás az Evrotas folyó mentén",
+            "tip": "Sík és békés útvonal a főutaktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rejtett zugok az antik Spártában",
+            "tip": "Találjon egy csendes olajfát, amely alatt megpihenhet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Menelaion",
+            "tip": "După urcare, bucurați-vă de liniște și de priveliștea panoramică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare pe malul râului Evrotas",
+            "tip": "Un traseu plat și pașnic, departe de drumurile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colțuri ascunse în Sparta Antică",
+            "tip": "Găsiți un măslin liniștit sub care să vă odihniți.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Menelaion",
+            "tip": "After the climb, enjoy the silence and the expansive view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ride along the Evrotas River",
+            "tip": "A flat and peaceful route away from the main roads.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden corners in Ancient Sparta",
+            "tip": "Find a quiet olive tree to rest under.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Der Honig aus den Taygetos-Bergen ist besonders aromatisch."
+          },
+          {
+            "name": "Handgemachte Lederwaren",
+            "tip": "Sandalen oder Gürtel im antiken Stil."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A Taygetosz-hegységből származó méz különösen aromás."
+          },
+          {
+            "name": "Kézzel készített bőráruk",
+            "tip": "Antik stílusú szandálok vagy övek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Mierea din Munții Taygetos este deosebit de aromatică."
+          },
+          {
+            "name": "Articole din piele lucrate manual",
+            "tip": "Sandale sau curele în stil antic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Honey from the Taygetos mountains is particularly aromatic."
+          },
+          {
+            "name": "Handmade leather goods",
+            "tip": "Ancient-style sandals or belts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Bremsen und Reifen, bevor Sie losfahren.",
+          "Ein Helm wird dringend empfohlen, besonders für den Aufstieg zum Menelaion.",
+          "Nehmen Sie ein kleines Schloss mit, um Ihr Fahrrad an den Haltestellen zu sichern.",
+          "Planen Sie Ihre Route, um die heißesten Stunden des Tages zu meiden."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a fékeket és a gumikat.",
+          "Sisak viselése erősen ajánlott, különösen a Menelaion megmászásához.",
+          "Hozzon magával egy kis lakatot, hogy biztosítsa a kerékpárt a megállóknál.",
+          "Tervezze meg az útvonalat, hogy elkerülje a legforróbb nappali órákat."
+        ],
+        "ro": [
+          "Verificați frânele și anvelopele înainte de a porni.",
+          "O cască este puternic recomandată, în special pentru urcarea la Menelaion.",
+          "Luați un lacăt mic pentru a vă asigura bicicleta la opriri.",
+          "Planificați-vă traseul pentru a evita cele mai fierbinți ore ale zilei."
+        ],
+        "en": [
+          "Check your brakes and tires before you set off.",
+          "A helmet is highly recommended, especially for the climb to Menelaion.",
+          "Bring a small lock to secure your bike at the stops.",
+          "Plan your route to avoid the hottest hours of the day."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 19.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz & Archäologisches Museum",
+            "hu": "Központi tér és Régészeti Múzeum",
+            "ro": "Piața Centrală și Muzeul de Arheologie",
+            "en": "Central Square & Archaeological Museum"
+          },
+          "coords": [
+            22.4305,
+            37.0751
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier. Beginnen Sie mit einem Kaffee und besuchen Sie dann das nahe gelegene Museum.",
+            "hu": "Parkoljon itt. Kezdjen egy kávéval, majd látogassa meg a közeli múzeumot.",
+            "ro": "Parcați aici. Începeți cu o cafea, apoi vizitați muzeul din apropiere.",
+            "en": "Park here. Start with a coffee, then visit the nearby museum."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            22.4288,
+            37.0755
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz entfernt.",
+            "hu": "Rövid séta a térről.",
+            "ro": "La o scurtă plimbare de piață.",
+            "en": "A short walk from the square."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Antikes Sparta & Leonidas-Stätten",
+            "hu": "Antik Spárta és Leonidász helyszínek",
+            "ro": "Sparta Antică și siturile lui Leonidas",
+            "en": "Ancient Sparta & Leonidas Sites"
+          },
+          "coords": [
+            22.424,
+            37.081
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Neuer Parkplatz. Erkunden Sie von hier aus die Statue und die Akropolis.",
+            "hu": "Új parkoló. Innen fedezze fel a szobrot és az akropoliszt.",
+            "ro": "Parcare nouă. Explorați statuia și acropola de aici.",
+            "en": "New parking spot. Explore the statue and the acropolis from here."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Leonidas-Statue",
+            "hu": "Leonidász-szobor",
+            "ro": "Statuia lui Leonidas",
+            "en": "Statue of Leonidas"
+          },
+          "coords": [
+            22.4245,
+            37.0801
+          ],
+          "category": "monuments",
+          "arrive_at": "11:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Spaziergang führt Sie direkt zum berühmten Denkmal.",
+            "hu": "A séta egyenesen a híres emlékműhöz vezet.",
+            "ro": "Plimbarea vă duce direct la faimosul monument.",
+            "en": "The walk takes you right to the famous monument."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Grab des Leonidas",
+            "hu": "Leonidász sírja",
+            "ro": "Mormântul lui Leonidas",
+            "en": "Tomb of Leonidas"
+          },
+          "coords": [
+            22.426,
+            37.078
+          ],
+          "category": "monuments",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehen Sie weiter zu den Ruinen, die eine feierliche Atmosphäre haben.",
+            "hu": "Sétáljon tovább a romokhoz, amelyeknek ünnepélyes hangulatuk van.",
+            "ro": "Continuați pe jos spre ruine, care au o atmosferă solemnă.",
+            "en": "Walk on to the ruins, which have a solemn atmosphere."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Menelaion",
+            "hu": "Menelaion",
+            "ro": "Menelaion",
+            "en": "Menelaion"
+          },
+          "coords": [
+            22.45,
+            37.065
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Fahren Sie für den besten Panoramablick aus der Stadt heraus.",
+            "hu": "Vezessen ki a városból a legjobb panorámáért.",
+            "ro": "Conduceți în afara orașului pentru cea mai bună priveliște panoramică.",
+            "en": "Drive out of the city for the best panoramic views."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Olivenmuseum",
+            "hu": "Olívamúzeum",
+            "ro": "Muzeul Măslinelor",
+            "en": "Museum of the Olive"
+          },
+          "coords": [
+            22.4231,
+            37.0699
+          ],
+          "category": "museums",
+          "arrive_at": "15:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit Kultur. Kaufen Sie lokales Olivenöl als Souvenir.",
+            "hu": "Zárja a napot kultúrával. Vásároljon helyi olívaolajat ajándékba.",
+            "ro": "Încheiați ziua cultural. Cumpărați ulei de măsline local ca suvenir.",
+            "en": "End the day with culture. Buy some local olive oil as a souvenir."
+          },
+          "hop_mode": "car"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens parken Sie im Zentrum und erkunden den Platz und das Archäologische Museum zu Fuß. Ein kurzer Autotrip bringt Sie dann in den antiken Kern, wo Sie zwischen der Leonidas-Statue und den Ruinen spazieren. Am Mittag fahren Sie zum Menelaion-Hügel, um die atemberaubende Aussicht zu genießen – ein perfekter Ort für eine Pause. Der Nachmittag ist dem flüssigen Gold Spartas gewidmet. Sie fahren zum Olivenmuseum, um in die Welt der Olivenkultur einzutauchen. Der Tag endet nach diesem letzten Halt, reich an Eindrücken von antiker Größe und moderner Kultur.",
+        "hu": "Reggel parkoljon a központban, és fedezze fel gyalog a teret és a Régészeti Múzeumot. Egy rövid autózás elviszi az antik városrészbe, ahol Leonidász szobra és a romok között sétálhat. Délben hajtson fel a Menelaion-hegyre, hogy élvezze a lélegzetelállító kilátást – tökéletes hely egy pihenőre. A délután Spárta folyékony aranyáról szól. Látogasson el az Olívamúzeumba, hogy elmerüljön az olajbogyó-kultúra világában. A nap ezen utolsó megálló után ér véget, gazdagodva az ókori nagyság és a modern kultúra benyomásaival.",
+        "ro": "Dimineața, parcați în centru și explorați pe jos piața și Muzeul de Arheologie. O scurtă călătorie cu mașina vă duce apoi în nucleul antic, unde vă plimbați între statuia lui Leonidas și ruine. La prânz, conduceți spre dealul Menelaion pentru a vă bucura de priveliștea uluitoare – un loc perfect pentru o pauză. După-amiaza este dedicată aurului lichid al Spartei. Vizitați Muzeul Măslinelor pentru a vă cufunda în lumea culturii măslinelor. Ziua se încheie după această ultimă oprire, bogată în impresii de măreție antică și cultură modernă.",
+        "en": "In the morning, park in the center and explore the square and the Archaeological Museum on foot. A short car trip then takes you to the ancient core, where you can walk between the statue of Leonidas and the ruins. At noon, drive up to the Menelaion hill to enjoy the breathtaking view – a perfect spot for a break. The afternoon is dedicated to Sparta's liquid gold. Visit the Museum of the Olive to immerse yourself in the world of olive culture. The day ends after this final stop, rich with impressions of ancient grandeur and modern culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverne in einem Bergdorf",
+            "tip": "Nutzen Sie das Auto für ein authentisches Essen außerhalb der Stadt."
+          },
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Obwohl im Landesinneren, ist frischer Fisch oft erhältlich."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Probieren Sie einen Wein aus der Region Peloponnes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taverna egy hegyi faluban",
+            "tip": "Használja ki az autót egy autentikus étkezéshez a városon kívül."
+          },
+          {
+            "name": "Grillezett polip",
+            "tip": "Bár a szárazföldön van, gyakran kapható friss hal."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kóstoljon meg egy bort a Peloponnészoszi régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavernă într-un sat de munte",
+            "tip": "Folosiți mașina pentru o masă autentică în afara orașului."
+          },
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Deși este în interior, peștele proaspăt este adesea disponibil."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Încercați un vin din regiunea Peloponez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taverna in a mountain village",
+            "tip": "Use the car for an authentic meal outside the city."
+          },
+          {
+            "name": "Grilled Octopus",
+            "tip": "Although inland, fresh fish is often available."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Try a wine from the Peloponnese region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Menelaion",
+            "tip": "Der perfekte Ort, um dem Trubel zu entkommen und die Landschaft zu bewundern.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fahrt durch die Olivenhaine",
+            "tip": "Eine langsame Fahrt auf den Landstraßen um Sparta.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mystras (Tagesausflug)",
+            "tip": "Wenn Sie Zeit haben, ist die byzantinische Stadt Mystras ein Muss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Menelaionról",
+            "tip": "Tökéletes hely, hogy elkerülje a nyüzsgést és megcsodálja a tájat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Autózás az olajfaligeteken keresztül",
+            "tip": "Lassú autózás a Spárta körüli vidéki utakon.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Misztrász (egész napos kirándulás)",
+            "tip": "Ha van ideje, a bizánci Misztrász városa kihagyhatatlan.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliștea de la Menelaion",
+            "tip": "Locul perfect pentru a scăpa de agitație și a admira peisajul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare cu mașina prin livezile de măslini",
+            "tip": "O plimbare lentă pe drumurile rurale din jurul Spartei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mystras (excursie de o zi)",
+            "tip": "Dacă aveți timp, orașul bizantin Mystras este o vizită obligatorie.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Menelaion",
+            "tip": "The perfect place to escape the hustle and admire the landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Drive through the olive groves",
+            "tip": "A slow drive on the country roads around Sparta.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mystras (day trip)",
+            "tip": "If you have time, the Byzantine town of Mystras is a must-see.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik",
+            "tip": "Suchen Sie nach handgefertigter Keramik im antiken Stil."
+          },
+          {
+            "name": "Orangen und Zitrusfrüchte",
+            "tip": "Kaufen Sie an einem Straßenstand frische Früchte aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia",
+            "tip": "Keressen kézzel készített, antik stílusú kerámiákat."
+          },
+          {
+            "name": "Narancs és citrusfélék",
+            "tip": "Vásároljon friss, helyi gyümölcsöt egy út menti standnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică",
+            "tip": "Căutați ceramică lucrată manual în stil antic."
+          },
+          {
+            "name": "Portocale și citrice",
+            "tip": "Cumpărați fructe proaspete locale de la o tarabă de pe marginea drumului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramics",
+            "tip": "Look for handmade ceramics in an ancient style."
+          },
+          {
+            "name": "Oranges and citrus fruits",
+            "tip": "Buy fresh local fruit from a roadside stand."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Innenstadt kann schwierig sein, nutzen Sie ausgewiesene Parkplätze.",
+          "Achten Sie auf die Straßenverhältnisse, besonders auf kleineren Landstraßen.",
+          "Ein GPS ist nützlich, um die abgelegeneren archäologischen Stätten zu finden.",
+          "Tanken Sie voll, bevor Sie die Stadt für Ausflüge verlassen."
+        ],
+        "hu": [
+          "A belvárosi parkolás nehézkes lehet, használja a kijelölt parkolókat.",
+          "Figyeljen az útviszonyokra, különösen a kisebb vidéki utakon.",
+          "GPS hasznos lehet a távolabbi régészeti lelőhelyek megtalálásához.",
+          "Tankoljon tele, mielőtt elhagyja a várost kirándulni."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă, folosiți parcările desemnate.",
+          "Fiți atenți la condițiile drumului, în special pe drumurile rurale mai mici.",
+          "Un GPS este util pentru a găsi siturile arheologice mai îndepărtate.",
+          "Alimentați complet înainte de a părăsi orașul pentru excursii."
+        ],
+        "en": [
+          "Parking in the city center can be tricky, use designated parking lots.",
+          "Be aware of road conditions, especially on smaller country roads.",
+          "A GPS is useful for finding the more remote archaeological sites.",
+          "Fill up your tank before leaving the city for excursions."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz von Sparta",
+            "hu": "Spárta központi tere",
+            "ro": "Piața Centrală din Sparta",
+            "en": "Central Square of Sparta"
+          },
+          "coords": [
+            22.4305,
+            37.0751
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Finden Sie die nächste Bushaltestelle für Ihre erste Fahrt.",
+            "hu": "Keresse meg a legközelebbi buszmegállót az első úthoz.",
+            "ro": "Găsiți cea mai apropiată stație de autobuz pentru prima călătorie.",
+            "en": "Find the nearest bus stop for your first ride."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Antikes Sparta",
+            "hu": "Antik Spárta",
+            "ro": "Sparta Antică",
+            "en": "Ancient Sparta"
+          },
+          "coords": [
+            22.4239,
+            37.0819
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Steigen Sie in der Nähe der Akropolis aus und beginnen Sie Ihre Erkundung.",
+            "hu": "Szálljon le az akropolisz közelében, és kezdje meg a felfedezést.",
+            "ro": "Coborâți lângă acropolă și începeți explorarea.",
+            "en": "Get off near the Acropolis and start your exploration."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Leonidas-Statue",
+            "hu": "Leonidász-szobor",
+            "ro": "Statuia lui Leonidas",
+            "en": "Statue of Leonidas"
+          },
+          "coords": [
+            22.4245,
+            37.0801
+          ],
+          "category": "monuments",
+          "arrive_at": "11:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von den Hauptruinen entfernt.",
+            "hu": "Rövid séta a fő romoktól.",
+            "ro": "La o scurtă plimbare de ruinele principale.",
+            "en": "A short walk from the main ruins."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            22.4288,
+            37.0755
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum, das Museum ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "Menjen vissza busszal a központba, a múzeum rövid sétára van.",
+            "ro": "Luați autobuzul înapoi în centru, muzeul este la o scurtă plimbare.",
+            "en": "Take the bus back to the center, the museum is a short walk away."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Olivenmuseum",
+            "hu": "Olívamúzeum",
+            "ro": "Muzeul Măslinelor",
+            "en": "Museum of the Olive"
+          },
+          "coords": [
+            22.4231,
+            37.0699
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gehen Sie durch die Stadt zum Olivenmuseum.",
+            "hu": "Sétáljon át a városon az Olívamúzeumhoz.",
+            "ro": "Mergeți pe jos prin oraș până la Muzeul Măslinelor.",
+            "en": "Walk across town to the Museum of the Olive."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Grab des Leonidas",
+            "hu": "Leonidász sírja",
+            "ro": "Mormântul lui Leonidas",
+            "en": "Tomb of Leonidas"
+          },
+          "coords": [
+            22.426,
+            37.078
+          ],
+          "category": "monuments",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein letzter Spaziergang zu diesem wichtigen Monument, bevor Sie den Tag beenden.",
+            "hu": "Egy utolsó séta ehhez a fontos emlékműhöz a nap befejezése előtt.",
+            "ro": "O ultimă plimbare la acest monument important înainte de a încheia ziua.",
+            "en": "A final walk to this important monument before ending the day."
+          },
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer Busfahrt vom Zentrum zu den Ruinen des antiken Sparta, wo Sie den Morgen verbringen. Ein kurzer Spaziergang führt Sie zur berühmten Leonidas-Statue. Mittags bringt Sie ein weiterer Bus zurück ins Herz der Stadt zum Archäologischen Museum. Am Nachmittag spazieren Sie durch die modernen Straßen zum Olivenmuseum, um einen Einblick in die Agrarkultur zu erhalten. Der Tag endet mit einem besinnlichen Spaziergang zum Grab des Leonidas und einer letzten Busfahrt, die Sie mit dem Gefühl für die Dualität von antikem und modernem Sparta zurücklässt.",
+        "hu": "A nap egy buszúttal kezdődik a központból az antik Spárta romjaihoz, ahol a délelőttöt tölti. Egy rövid séta elvezet a híres Leonidász-szoborhoz. Délben egy másik busz visszaviszi a város szívébe, a Régészeti Múzeumba. Délután a modern utcákon átsétálva jut el az Olívamúzeumba, hogy bepillantást nyerjen a mezőgazdasági kultúrába. A nap egy elmélkedő sétával zárul Leonidász sírjához, majd egy utolsó buszúttal, amely az antik és a modern Spárta kettősségének érzésével hagyja Önt.",
+        "ro": "Ziua începe cu o călătorie cu autobuzul din centru spre ruinele Spartei antice, unde vă petreceți dimineața. O scurtă plimbare vă duce la faimoasa statuie a lui Leonidas. La prânz, un alt autobuz vă duce înapoi în inima orașului, la Muzeul de Arheologie. După-amiaza, vă plimbați pe străzile moderne până la Muzeul Măslinelor pentru a vă face o idee despre cultura agricolă. Ziua se încheie cu o plimbare contemplativă la Mormântul lui Leonidas și o ultimă călătorie cu autobuzul, lăsându-vă cu sentimentul dualității dintre Sparta antică și cea modernă.",
+        "en": "The day begins with a bus ride from the center to the ruins of ancient Sparta, where you'll spend the morning. A short walk takes you to the famous statue of Leonidas. At noon, another bus brings you back to the heart of the city to the Archaeological Museum. In the afternoon, you'll stroll through the modern streets to the Museum of the Olive for a glimpse into agricultural culture. The day concludes with a contemplative walk to the Tomb of Leonidas and a final bus ride, leaving you with the feeling of the duality of ancient and modern Sparta."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyros Pita",
+            "tip": "Ein schnelles und sättigendes Mittagessen in der Nähe einer Bushaltestelle."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Probieren Sie eine Spanakopita (Spinatpastete) für unterwegs."
+          },
+          {
+            "name": "Tzatziki mit Brot",
+            "tip": "Ein einfacher, aber köstlicher Snack in einem Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyros pita",
+            "tip": "Gyors és laktató ebéd egy buszmegálló közelében."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Kóstoljon meg egy Spanakopitát (spenótos pitét) útközben."
+          },
+          {
+            "name": "Tzatziki kenyérrel",
+            "tip": "Egyszerű, de finom falat egy kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gyros Pita",
+            "tip": "Un prânz rapid și sățios lângă o stație de autobuz."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Încercați o Spanakopita (plăcintă cu spanac) la pachet."
+          },
+          {
+            "name": "Tzatziki cu pâine",
+            "tip": "O gustare simplă, dar delicioasă la o cafenea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyros Pita",
+            "tip": "A quick and filling lunch near a bus stop."
+          },
+          {
+            "name": "Local bakery",
+            "tip": "Try a spanakopita (spinach pie) on the go."
+          },
+          {
+            "name": "Tzatziki with bread",
+            "tip": "A simple yet delicious snack at a cafe."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sitzen in den Ruinen",
+            "tip": "Finden Sie einen ruhigen Platz in der Akropolis, um die Atmosphäre aufzusaugen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein Park im Stadtzentrum",
+            "tip": "Eine grüne Oase, um sich vom Sightseeing zu erholen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abendlicher Spaziergang",
+            "tip": "Genießen Sie die Ruhe, wenn die Tagesbesucher gegangen sind.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üldögélés a romok között",
+            "tip": "Találjon egy csendes helyet az akropoliszon, hogy magába szívja a hangulatot.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy park a városközpontban",
+            "tip": "Zöld oázis, ahol kipihenheti a városnézést.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Esti séta",
+            "tip": "Élvezze a csendet, miután a nappali látogatók elmentek.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șezând printre ruine",
+            "tip": "Găsiți un loc liniștit în acropolă pentru a absorbi atmosfera.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Un parc în centrul orașului",
+            "tip": "O oază de verdeață pentru a vă odihni de la vizitarea obiectivelor turistice.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare de seară",
+            "tip": "Bucurați-vă de liniște după ce vizitatorii de o zi au plecat.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sitting in the ruins",
+            "tip": "Find a quiet spot in the acropolis to soak up the atmosphere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A park in the city center",
+            "tip": "A green oasis to rest from sightseeing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evening stroll",
+            "tip": "Enjoy the quiet after the day-trippers have left.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentralmarkt",
+            "tip": "Kaufen Sie lokale Produkte und beobachten Sie das tägliche Leben."
+          },
+          {
+            "name": "Museumsshops",
+            "tip": "Finden Sie hochwertige Repliken und Bücher über die Geschichte Spartas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac",
+            "tip": "Vásároljon helyi termékeket és figyelje meg a mindennapi életet."
+          },
+          {
+            "name": "Múzeumi boltok",
+            "tip": "Találjon minőségi másolatokat és könyveket Spárta történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Cumpărați produse locale și observați viața de zi cu zi."
+          },
+          {
+            "name": "Magazinele muzeelor",
+            "tip": "Găsiți replici de înaltă calitate și cărți despre istoria Spartei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "Buy local produce and watch daily life."
+          },
+          {
+            "name": "Museum shops",
+            "tip": "Find high-quality replicas and books about Spartan history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse möglicherweise nicht häufig fahren.",
+          "Haben Sie Kleingeld für Bustickets bereit.",
+          "Fragen Sie Einheimische nach der richtigen Bushaltestelle; nicht alle sind gut ausgeschildert."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha van.",
+          "Előre ellenőrizze a buszmenetrendet, mert a buszok nem biztos, hogy gyakran járnak.",
+          "Legyen Önnél aprópénz a buszjegyekhez.",
+          "Kérdezze meg a helyieket a megfelelő buszmegállóról; nem mindegyik van jól kitáblázva."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil.",
+          "Verificați programul autobuzelor în avans, deoarece este posibil ca acestea să nu circule frecvent.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz.",
+          "Întrebați localnicii despre stația de autobuz corectă; nu toate sunt bine semnalizate."
+        ],
+        "en": [
+          "Buy a daily bus pass if available.",
+          "Check the bus schedule in advance, as services may not be frequent.",
+          "Have small change ready for bus tickets.",
+          "Ask locals for the correct bus stop; not all are well-marked."
+        ]
+      }
+    }
+  }
+}

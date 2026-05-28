@@ -1,0 +1,1258 @@
+{
+  "city_id": "czechrepublic-teplice-cities-v2",
+  "anchor": {
+    "name": "Teplitz",
+    "coords": [
+      13.8245,
+      50.6403
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Krušnohorské divadlo (Erzgebirgstheater)",
+            "hu": "Érchegységi Színház",
+            "ro": "Teatrul Munților Metaliferi",
+            "en": "Krušnohorské Theatre (Ore Mountains Theatre)"
+          },
+          "coords": [
+            13.8288,
+            50.6415
+          ],
+          "category": "theatres",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neobarocke Fassade, auch wenn Sie keine Vorstellung besuchen.",
+            "hu": "Csodálja meg a neobarokk homlokzatot, még ha nem is megy előadásra.",
+            "ro": "Admirați fațada neobarocă, chiar dacă nu mergeți la un spectacol.",
+            "en": "Admire the neo-baroque facade, even if you're not attending a show."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Johannes-der-Täufer-Kirche",
+            "hu": "Keresztelő Szent János templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Church of St. John the Baptist"
+          },
+          "coords": [
+            13.8265,
+            50.6398
+          ],
+          "category": "churches",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den ältesten gotischen Elementen im Inneren.",
+            "hu": "Keresse meg a legrégebbi gótikus elemeket a templom belsejében.",
+            "ro": "Căutați cele mai vechi elemente gotice în interior.",
+            "en": "Look for the oldest Gothic elements inside the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Lázně Beethoven (Beethoven-Bad)",
+            "hu": "Beethoven Gyógyfürdő",
+            "ro": "Băile Beethoven",
+            "en": "Beethoven Spa"
+          },
+          "coords": [
+            13.8251,
+            50.6385
+          ],
+          "category": "landmark",
+          "arrive_at": "10:26",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Probieren Sie das Heilwasser aus einer der öffentlichen Quellen.",
+            "hu": "Kóstolja meg a gyógyvizet a nyilvános források egyikéből.",
+            "ro": "Gustați apa tămăduitoare de la unul dintre izvoarele publice.",
+            "en": "Try the healing water from one of the public springs."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Teplice (Schloss Teplitz)",
+            "hu": "Teplicei kastély",
+            "ro": "Castelul Teplice",
+            "en": "Teplice Castle"
+          },
+          "coords": [
+            13.824,
+            50.638
+          ],
+          "category": "castles",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Das Regionalmuseum im Schloss bietet einen tiefen Einblick in die Geschichte der Region.",
+            "hu": "A kastélyban található regionális múzeum mély betekintést nyújt a régió történelmébe.",
+            "ro": "Muzeul regional din castel oferă o perspectivă profundă asupra istoriei regiunii.",
+            "en": "The regional museum inside the castle offers a deep dive into the area's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossgarten",
+            "hu": "Kastélykert",
+            "ro": "Grădina Castelului",
+            "en": "Castle Garden"
+          },
+          "coords": [
+            13.8225,
+            50.6395
+          ],
+          "category": "parks",
+          "arrive_at": "12:43",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Mittagspicknick am Schwanenteich.",
+            "hu": "Ideális hely egy déli piknikhez a hattyús tónál.",
+            "ro": "Un loc ideal pentru un picnic la prânz lângă iazul cu lebede.",
+            "en": "An ideal spot for a midday picnic by the swan pond."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten Teplice",
+            "hu": "Teplicei Botanikus Kert",
+            "ro": "Grădina Botanică Teplice",
+            "en": "Botanical Garden Teplice"
+          },
+          "coords": [
+            13.818,
+            50.64
+          ],
+          "category": "parks",
+          "arrive_at": "14:06",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die tropischen Gewächshäuser, eine Oase zu jeder Jahreszeit.",
+            "hu": "Ne hagyja ki a trópusi üvegházakat, amelyek minden évszakban oázist jelentenek.",
+            "ro": "Nu ratați serele tropicale, o oază în orice anotimp.",
+            "en": "Don't miss the tropical greenhouses, an oasis in any season."
+          }
+        },
+        {
+          "name": {
+            "de": "Císařské lázně (Kaiserbad)",
+            "hu": "Császári fürdő",
+            "ro": "Băile Imperiale",
+            "en": "Imperial Spa"
+          },
+          "coords": [
+            13.8295,
+            50.6405
+          ],
+          "category": "landmark",
+          "arrive_at": "15:21",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich am Ende des Tages eine entspannende Behandlung.",
+            "hu": "A nap végén kényeztesse magát egy pihentető kezeléssel.",
+            "ro": "La sfârșitul zilei, răsfățați-vă cu un tratament relaxant.",
+            "en": "Treat yourself to a relaxing treatment at the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Teplitz und erkunden Sie das historische Theater und die alte Kirche. Spüren Sie die Atmosphäre der Kurstadt, die schon Beethoven genoss. Am Nachmittag spazieren Sie durch die grünen Oasen der Stadt: den Schlossgarten und den Botanischen Garten. Schließen Sie den Tag mit einem Besuch im prächtigen Kaiserbad ab, einem Symbol für den Glanz der alten Kurtradition.",
+        "hu": "Kezdje a napot Teplice szívében, fedezze fel a történelmi színházat és a régi templomot. Érezze a fürdőváros hangulatát, amelyet már Beethoven is élvezett. Délután sétáljon a város zöld oázisaiban: a kastélykertben és a botanikus kertben. Zárja a napot a pompás Császári fürdő meglátogatásával, amely a régi fürdőhagyomány fényének szimbóluma.",
+        "ro": "Începeți ziua în inima orașului Teplice, explorând teatrul istoric și biserica veche. Simțiți atmosfera orașului balnear de care s-a bucurat Beethoven. După-amiaza, plimbați-vă prin oazele verzi ale orașului: Grădina Castelului și Grădina Botanică. Încheiați ziua cu o vizită la magnificele Băi Imperiale, un simbol al strălucirii vechii tradiții balneare.",
+        "en": "Start your day in the heart of Teplice, exploring the historic theatre and the old church. Feel the spa town atmosphere that Beethoven once enjoyed. In the afternoon, stroll through the city's green oases: the Castle Garden and the Botanical Garden. End your day with a visit to the magnificent Imperial Spa, a symbol of the splendour of the old spa tradition."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Traditionelles böhmisches Gericht in einem der Restaurants am Schlossplatz."
+          },
+          {
+            "name": "Lázeňské oplatky",
+            "tip": "Probieren Sie die warmen, frisch gebackenen Kuroblaten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Hagyományos cseh étel a kastély tér egyik éttermében."
+          },
+          {
+            "name": "Lázeňské oplatky",
+            "tip": "Kóstolja meg a meleg, frissen sütött fürdőostyát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Un fel de mâncare tradițional ceh la unul dintre restaurantele din Piața Castelului."
+          },
+          {
+            "name": "Lázeňské oplatky",
+            "tip": "Încercați napolitanele calde, proaspăt coapte, specifice stațiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "A traditional Czech dish at one of the restaurants in the Castle Square."
+          },
+          {
+            "name": "Lázeňské oplatky",
+            "tip": "Try the warm, freshly baked spa wafers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schwanenteich im Schlossgarten",
+            "tip": "Setzen Sie sich auf eine Bank und beobachten Sie die Schwäne.",
+            "emoji": "🦢"
+          },
+          {
+            "name": "Tropische Gewächshäuser",
+            "tip": "Finden Sie eine ruhige Ecke und genießen Sie die exotische Atmosphäre.",
+            "emoji": "🌴"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hattyús-tó a Kastélykertben",
+            "tip": "Üljön le egy padra, és figyelje a hattyúkat.",
+            "emoji": "🦢"
+          },
+          {
+            "name": "Trópusi üvegházak",
+            "tip": "Keressen egy csendes sarkot, és élvezze az egzotikus hangulatot.",
+            "emoji": "🌴"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Iazul cu lebede din Grădina Castelului",
+            "tip": "Stați pe o bancă și priviți lebedele.",
+            "emoji": "🦢"
+          },
+          {
+            "name": "Serele tropicale",
+            "tip": "Găsiți un colț liniștit și bucurați-vă de atmosfera exotică.",
+            "emoji": "🌴"
+          }
+        ],
+        "en": [
+          {
+            "name": "Swan Pond in the Castle Garden",
+            "tip": "Sit on a bench and watch the swans.",
+            "emoji": "🦢"
+          },
+          {
+            "name": "Tropical Greenhouses",
+            "tip": "Find a quiet corner and enjoy the exotic atmosphere.",
+            "emoji": "🌴"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Becherovka-Likör",
+            "tip": "Ein klassisches tschechisches Souvenir."
+          },
+          {
+            "name": "Böhmisches Glas",
+            "tip": "Halten Sie Ausschau nach kleinen Geschäften, die lokales Kristallglas verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Becherovka likőr",
+            "tip": "Klasszikus cseh ajándéktárgy."
+          },
+          {
+            "name": "Cseh kristály",
+            "tip": "Keressen kis boltokat, amelyek helyi kristályüveget árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lichior Becherovka",
+            "tip": "Un suvenir ceh clasic."
+          },
+          {
+            "name": "Cristal de Boemia",
+            "tip": "Căutați magazine mici care vând cristal local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Becherovka Liqueur",
+            "tip": "A classic Czech souvenir."
+          },
+          {
+            "name": "Bohemian Crystal",
+            "tip": "Look for small shops selling local crystal glass."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf Kopfsteinpflaster unterwegs sein werden.",
+          "Viele Parks und Gärten sind kostenlos zugänglich.",
+          "Vergessen Sie nicht, Bargeld für kleine Cafés und Souvenirläden mitzunehmen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap macskakövön fog sétálni.",
+          "Sok park és kert ingyenesen látogatható.",
+          "Ne felejtsen el készpénzt vinni a kis kávézókhoz és ajándékboltokhoz."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge pe piatră cubică toată ziua.",
+          "Multe parcuri și grădini au intrare liberă.",
+          "Nu uitați să aveți numerar pentru cafenelele mici și magazinele de suveniruri."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking on cobblestones all day.",
+          "Many parks and gardens have free admission.",
+          "Don't forget to bring cash for small cafes and souvenir shops."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Teplice & Schlossgarten",
+            "hu": "Teplicei kastély és Kastélykert",
+            "ro": "Castelul Teplice și Grădina Castelului",
+            "en": "Teplice Castle & Castle Garden"
+          },
+          "coords": [
+            13.823,
+            50.639
+          ],
+          "category": "castles",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie das Schloss und den Garten zu Fuß.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel a kastélyt és a kertet gyalog.",
+            "ro": "Încuiați-vă bicicleta în siguranță și explorați castelul și grădina pe jos.",
+            "en": "Lock your bike securely and explore the castle and garden on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten Teplice",
+            "hu": "Teplicei Botanikus Kert",
+            "ro": "Grădina Botanică Teplice",
+            "en": "Botanical Garden Teplice"
+          },
+          "coords": [
+            13.818,
+            50.64
+          ],
+          "category": "parks",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher, um die exotischen Pflanzen zu bewundern.",
+            "hu": "Egy rövid kitérő az egzotikus növények megcsodálásához.",
+            "ro": "Un scurt ocol pentru a admira plantele exotice.",
+            "en": "A short detour to admire the exotic plants."
+          }
+        },
+        {
+          "name": {
+            "de": "Lázně Beethoven (Beethoven-Bad)",
+            "hu": "Beethoven Gyógyfürdő",
+            "ro": "Băile Beethoven",
+            "en": "Beethoven Spa"
+          },
+          "coords": [
+            13.8251,
+            50.6385
+          ],
+          "category": "landmark",
+          "arrive_at": "12:21",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Füllen Sie Ihre Wasserflasche mit dem berühmten Heilwasser.",
+            "hu": "Töltse meg a vizes palackját a híres gyógyvízzel.",
+            "ro": "Umpleți-vă sticla de apă cu celebra apă tămăduitoare.",
+            "en": "Refill your water bottle with the famous healing water."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            13.827,
+            50.6395
+          ],
+          "category": "gastro",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie nach einem Restaurant mit einem „Zahrádka“ (Garten) im Freien.",
+            "hu": "Keressen egy éttermet, amelynek van „Zahrádka” (kerthelyisége).",
+            "ro": "Căutați un restaurant cu o „Zahrádka” (grădină) în aer liber.",
+            "en": "Look for a restaurant with an outdoor 'Zahrádka' (garden)."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt in Richtung Doubravská hora",
+            "hu": "Kerékpárút a Doubravská hora irányába",
+            "ro": "Plimbare cu bicicleta spre Doubravská hora",
+            "en": "Ride towards Doubravská hora"
+          },
+          "coords": [
+            13.855,
+            50.635
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:53",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf die Stadt, auch wenn Sie nicht bis zum Gipfel fahren.",
+            "hu": "Élvezze a városra nyíló kilátást, még ha nem is megy fel a csúcsra.",
+            "ro": "Bucurați-vă de priveliștea orașului, chiar dacă nu urcați până în vârf.",
+            "en": "Enjoy the view over the city, even if you don't go all the way to the summit."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Kurviertel",
+            "hu": "Visszatérés a fürdőnegyedbe",
+            "ro": "Întoarcere în cartierul balnear",
+            "en": "Return to the Spa Quarter"
+          },
+          "coords": [
+            13.8295,
+            50.6405
+          ],
+          "category": "landmark",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 37,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit Kaffee und Kuchen in einem der eleganten Cafés.",
+            "hu": "Jutalmazza meg magát egy kávéval és süteménnyel az elegáns kávézók egyikében.",
+            "ro": "Recompensați-vă cu o cafea și o prăjitură la una dintre cafenelele elegante.",
+            "en": "Reward yourself with coffee and cake in one of the elegant cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Teplitz auf zwei Rädern. Beginnen Sie am Schloss und seinen Gärten, bevor Sie eine Runde durch den Botanischen Garten drehen. Stärken Sie sich im Stadtzentrum, und machen Sie sich dann auf den Weg, um die Aussicht vom Doubravská hora zu genießen. Beenden Sie Ihre Tour entspannt im historischen Kurviertel.",
+        "hu": "Fedezze fel Teplicét két keréken. Kezdje a kastélynál és a kertjeinél, mielőtt tenne egy kört a botanikus kertben. Erősítse meg magát a városközpontban, majd induljon el, hogy élvezze a Doubravská hora kilátását. Fejezze be a túrát pihenéssel a történelmi fürdőnegyedben.",
+        "ro": "Explorați Teplice pe două roți. Începeți de la castel și grădinile sale înainte de a face o tură prin Grădina Botanică. Luați prânzul în centrul orașului, apoi porniți să admirați priveliștea de pe Doubravská hora. Încheiați turul relaxându-vă în cartierul balnear istoric.",
+        "en": "Explore Teplice on two wheels. Start at the castle and its gardens before taking a spin through the Botanical Garden. Refuel in the city center, then head out to enjoy the views from Doubravská hora. Finish your tour relaxing in the historic spa quarter."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pivní sýr",
+            "tip": "Probieren Sie den Bierkäse mit frischem Brot und Zwiebeln."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Erfrischen Sie sich mit dem tschechischen Kräuter-Cola."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pivní sýr",
+            "tip": "Kóstolja meg a sörsajtot friss kenyérrel és hagymával."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Frissítse fel magát a cseh gyógynövényes kólával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pivní sýr",
+            "tip": "Încercați brânza de bere cu pâine proaspătă și ceapă."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Răcoriți-vă cu Kofola, băutura carbogazoasă cehă din plante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pivní sýr",
+            "tip": "Try the beer cheese with fresh bread and onion."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Refresh yourself with the Czech herbal cola."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Doubravská hora",
+            "tip": "Ein Moment der Ruhe mit Panoramablick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Entlang des Bílina-Flusses",
+            "tip": "Ein ruhiger Radweg abseits des Trubels.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Doubravská hora kilátó",
+            "tip": "Egy pillanatnyi csend panorámás kilátással."
+          },
+          {
+            "name": "A Bílina folyó mentén",
+            "tip": "Egy csendes kerékpárút a nyüzsgéstől távol."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Doubravská hora",
+            "tip": "Un moment de liniște cu o priveliște panoramică."
+          },
+          {
+            "name": "De-a lungul râului Bílina",
+            "tip": "O pistă de biciclete liniștită, departe de agitație."
+          }
+        ],
+        "en": [
+          {
+            "name": "Doubravská hora viewpoint",
+            "tip": "A moment of peace with a panoramic view."
+          },
+          {
+            "name": "Along the Bílina River",
+            "tip": "A quiet cycle path away from the hustle and bustle."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "Es gibt mehrere lokale Geschäfte für eventuelle Reparaturen oder Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "Számos helyi üzlet található esetleges javításokhoz vagy kiegészítőkhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Există mai multe magazine locale pentru eventuale reparații sau accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycling accessories",
+            "tip": "There are several local shops for any repairs or accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Verfügbarkeit von Leihfahrrädern in der Stadt.",
+          "Einige Wege können steil sein, besonders in Richtung Doubravská hora.",
+          "Achten Sie auf Fußgänger in den Kurzonen."
+        ],
+        "hu": [
+          "Ellenőrizze a bérelhető kerékpárok elérhetőségét a városban.",
+          "Néhány út meredek lehet, különösen a Doubravská hora felé.",
+          "Vigyázzon a gyalogosokra a fürdőövezetekben."
+        ],
+        "ro": [
+          "Verificați disponibilitatea bicicletelor de închiriat în oraș.",
+          "Unele trasee pot fi abrupte, în special spre Doubravská hora.",
+          "Fiți atenți la pietoni în zonele balneare."
+        ],
+        "en": [
+          "Check for bike rental availability in the city.",
+          "Some paths can be steep, especially towards Doubravská hora.",
+          "Be mindful of pedestrians in the spa zones."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Doubravská hora",
+            "hu": "Parkoló a Doubravská horánál",
+            "ro": "Parcare la Doubravská hora",
+            "en": "Parking at Doubravská hora"
+          },
+          "coords": [
+            13.858,
+            50.6345
+          ],
+          "category": "natural",
+          "arrive_at": "09:15",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer beeindruckenden Aussicht von oben.",
+            "hu": "Kezdje a napot egy lenyűgöző kilátással fentről.",
+            "ro": "Începeți ziua cu o priveliște impresionantă de sus.",
+            "en": "Start the day with an impressive view from above."
+          }
+        },
+        {
+          "name": {
+            "de": "Doubravská hora (Burgruine & Aussicht)",
+            "hu": "Doubravská hora (várrom és kilátás)",
+            "ro": "Doubravská hora (ruinele castelului și priveliște)",
+            "en": "Doubravská hora (Castle Ruin & View)"
+          },
+          "coords": [
+            13.8595,
+            50.636
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zur Ruine für einen atemberaubenden Panoramablick.",
+            "hu": "Rövid séta a parkolótól a romokig a lélegzetelállító panorámáért.",
+            "ro": "O scurtă plimbare de la parcare la ruine pentru o panoramă uluitoare.",
+            "en": "A short walk from the car park to the ruin for a breathtaking panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Schloss Teplice",
+            "hu": "Parkoló a Teplicei kastélynál",
+            "ro": "Parcare la Castelul Teplice",
+            "en": "Parking at Teplice Castle"
+          },
+          "coords": [
+            13.8245,
+            50.637
+          ],
+          "category": "parking",
+          "arrive_at": "10:45",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon itt a nap hátralévő részére, és fedezze fel a központot gyalog.",
+            "ro": "Parcați aici pentru restul zilei și explorați centrul pe jos.",
+            "en": "Park here for the rest of the day and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Teplice & Museum",
+            "hu": "Teplicei kastély és múzeum",
+            "ro": "Castelul Teplice și Muzeul",
+            "en": "Teplice Castle & Museum"
+          },
+          "coords": [
+            13.824,
+            50.638
+          ],
+          "category": "castles",
+          "arrive_at": "10:55",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsliebhaber.",
+            "hu": "Történelemkedvelőknek kötelező.",
+            "ro": "O vizită obligatorie pentru iubitorii de istorie.",
+            "en": "A must-visit for history lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang durch den Schlossgarten",
+            "hu": "Séta a Kastélykertben",
+            "ro": "Plimbare prin Grădina Castelului",
+            "en": "Stroll through the Castle Garden"
+          },
+          "coords": [
+            13.8225,
+            50.6395
+          ],
+          "category": "parks",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach dem Museumsbesuch in dieser wunderschönen Grünanlage.",
+            "hu": "Pihenjen a múzeumlátogatás után ebben a gyönyörű zöldterületben.",
+            "ro": "Relaxați-vă după vizita la muzeu în acest frumos spațiu verde.",
+            "en": "Relax in this beautiful green space after the museum visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Lázně Beethoven (Beethoven-Bad)",
+            "hu": "Beethoven Gyógyfürdő",
+            "ro": "Băile Beethoven",
+            "en": "Beethoven Spa"
+          },
+          "coords": [
+            13.8251,
+            50.6385
+          ],
+          "category": "landmark",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kombinieren Sie Ihr Mittagessen mit einer kurzen Kurbehandlung oder einem Spaziergang.",
+            "hu": "Kombinálja az ebédet egy rövid gyógykezeléssel vagy sétával.",
+            "ro": "Combinați prânzul cu un scurt tratament balnear sau o plimbare.",
+            "en": "Combine your lunch with a short spa treatment or a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Krušnohorské divadlo & Kurviertel",
+            "hu": "Érchegységi Színház és Fürdőnegyed",
+            "ro": "Teatrul Munților Metaliferi și Cartierul Balnear",
+            "en": "Krušnohorské Theatre & Spa Quarter"
+          },
+          "coords": [
+            13.8288,
+            50.6415
+          ],
+          "category": "theatres",
+          "arrive_at": "15:45",
+          "stay_min": 85,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die eleganten Straßen und bewundern Sie die Architektur.",
+            "hu": "Sétáljon végig az elegáns utcákon és csodálja meg az építészetet.",
+            "ro": "Plimbați-vă pe străzile elegante și admirați arhitectura.",
+            "en": "Stroll through the elegant streets and admire the architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto für maximale Flexibilität. Beginnen Sie mit der atemberaubenden Aussicht vom Doubravská hora. Parken Sie dann im Zentrum und tauchen Sie in die Geschichte im Schloss Teplitz ein. Schlendern Sie durch den Schlossgarten und genießen Sie die Atmosphäre im Kurviertel rund um das Beethoven-Bad, wo Sie auch zu Mittag essen können. Schließen Sie den Tag mit einem Spaziergang durch das elegante Theaterviertel ab.",
+        "hu": "Használja az autót a maximális rugalmasság érdekében. Kezdje a Doubravská hora lélegzetelállító kilátásával. Ezután parkoljon le a központban, és merüljön el a történelemben a Teplicei kastélyban. Sétáljon át a kastélykerten, és élvezze a Beethoven fürdő körüli fürdőnegyed hangulatát, ahol ebédelhet is. Zárja a napot egy sétával az elegáns színházi negyedben.",
+        "ro": "Folosiți mașina pentru flexibilitate maximă. Începeți cu priveliștea uluitoare de pe Doubravská hora. Apoi parcați în centru și cufundați-vă în istorie la Castelul Teplice. Plimbați-vă prin Grădina Castelului și bucurați-vă de atmosfera din cartierul balnear din jurul Băilor Beethoven, unde puteți lua și prânzul. Încheiați ziua cu o plimbare prin elegantul cartier al teatrului.",
+        "en": "Use the car for maximum flexibility. Start with the breathtaking view from Doubravská hora. Then park in the center and immerse yourself in history at Teplice Castle. Stroll through the Castle Garden and enjoy the atmosphere in the spa quarter around the Beethoven Spa, where you can also have lunch. End the day with a walk through the elegant theatre district."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Utopenci",
+            "tip": "Eingelegte Würstchen, ein klassischer tschechischer Pub-Snack."
+          },
+          {
+            "name": "Restaurant Zámecká konírna",
+            "tip": "Stilvolles Essen in der Nähe des Schlosses."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utopenci",
+            "tip": "Pácolt kolbász, egy klasszikus cseh kocsmai snack."
+          },
+          {
+            "name": "Zámecká konírna étterem",
+            "tip": "Stílusos étkezés a kastély közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Utopenci",
+            "tip": "Cârnați murați, o gustare clasică de pub ceh."
+          },
+          {
+            "name": "Restaurant Zámecká konírna",
+            "tip": "Masă elegantă lângă castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Utopenci",
+            "tip": "Pickled sausages, a classic Czech pub snack."
+          },
+          {
+            "name": "Zámecká konírna Restaurant",
+            "tip": "Stylish dining near the castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Doubravská hora",
+            "tip": "Der perfekte Ort, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Ein kurzer, aber lohnender Abstecher für etwas Ruhe und Frieden.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Doubravská hora",
+            "tip": "Tökéletes hely a város nyüzsgéséből való meneküléshez."
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Rövid, de megéri kitérőt tenni egy kis csendért és békéért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Doubravská hora",
+            "tip": "Locul perfect pentru a evada din agitația orașului."
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Un ocol scurt, dar care merită, pentru puțină liniște și pace."
+          }
+        ],
+        "en": [
+          {
+            "name": "Doubravská hora",
+            "tip": "The perfect place to escape the hustle and bustle of the city."
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "A short but worthwhile detour for some peace and quiet."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Handgefertigte Töpferwaren sind ein schönes Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "A kézzel készített kerámiák szép emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Obiectele de ceramică realizate manual sunt un suvenir frumos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local ceramics",
+            "tip": "Handmade pottery makes a beautiful souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren im Voraus. Tageskarten sind oft günstiger.",
+          "Planen Sie genügend Zeit für den Spaziergang vom Parkplatz zu den Sehenswürdigkeiten ein.",
+          "Das Auto ermöglicht auch Ausflüge in die weitere Umgebung, z.B. zum Erzgebirge."
+        ],
+        "hu": [
+          "Ellenőrizze előre a parkolási díjakat. A napijegyek gyakran olcsóbbak.",
+          "Tervezzen elegendő időt a parkolótól a látnivalókig tartó sétára.",
+          "Az autó lehetővé teszi a távolabbi környék, például az Érchegység felfedezését is."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în avans. Biletele de o zi sunt adesea mai ieftine.",
+          "Planificați suficient timp pentru plimbarea de la parcare la atracții.",
+          "Mașina permite, de asemenea, excursii în zona înconjurătoare mai largă, de exemplu la Munții Metaliferi."
+        ],
+        "en": [
+          "Check parking fees in advance. Day tickets are often cheaper.",
+          "Allow enough time for the walk from the car park to the sights.",
+          "The car also allows for trips to the wider surrounding area, e.g., the Ore Mountains."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof Benešovo náměstí",
+            "hu": "Érkezés a Benešovo náměstí buszmegállóba",
+            "ro": "Sosire la stația de autobuz Benešovo náměstí",
+            "en": "Arrival at Benešovo náměstí bus stop"
+          },
+          "coords": [
+            13.83,
+            50.642
+          ],
+          "category": "transit_stop",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public.",
+            "en": "Purchase a day ticket for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Krušnohorské divadlo & St.-Johannes-Kirche",
+            "hu": "Érchegységi Színház és Szent János templom",
+            "ro": "Teatrul Munților Metaliferi și Biserica Sf. Ioan",
+            "en": "Krušnohorské Theatre & St. John's Church"
+          },
+          "coords": [
+            13.8278,
+            50.6408
+          ],
+          "category": "landmark",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch das Herz des alten Teplitz.",
+            "hu": "Séta az óváros szívében.",
+            "ro": "O plimbare prin inima vechiului Teplice.",
+            "en": "A walk through the heart of old Teplice."
+          }
+        },
+        {
+          "name": {
+            "de": "Lázně Beethoven & Císařské lázně",
+            "hu": "Beethoven Gyógyfürdő és Császári fürdő",
+            "ro": "Băile Beethoven și Băile Imperiale",
+            "en": "Beethoven Spa & Imperial Spa"
+          },
+          "coords": [
+            13.8273,
+            50.6395
+          ],
+          "category": "landmark",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die berühmte Kurarchitektur und genießen Sie einen Kaffee.",
+            "hu": "Tapasztalja meg a híres fürdőépítészetet és igyon egy kávét.",
+            "ro": "Experimentați faimoasa arhitectură balneară și savurați o cafea.",
+            "en": "Experience the famous spa architecture and enjoy a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Haltestelle Botanická zahrada",
+            "hu": "Utazás a Botanikus Kert megállóhoz",
+            "ro": "Călătorie spre stația Grădina Botanică",
+            "en": "Trip to Botanická zahrada stop"
+          },
+          "coords": [
+            13.819,
+            50.6405
+          ],
+          "category": "transit_stop",
+          "arrive_at": "12:20",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Vom Stadtzentrum aus bringen Sie mehrere Buslinien hierher.",
+            "hu": "A városközpontból több buszjárat is idehoz.",
+            "ro": "Mai multe linii de autobuz vă aduc aici din centrul orașului.",
+            "en": "Several bus lines bring you here from the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten & Schlossgarten",
+            "hu": "Botanikus Kert és Kastélykert",
+            "ro": "Grădina Botanică și Grădina Castelului",
+            "en": "Botanical Garden & Castle Garden"
+          },
+          "coords": [
+            13.821,
+            50.6398
+          ],
+          "category": "parks",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Mittagspause im Grünen.",
+            "hu": "Tökéletes hely egy ebédszünetre a zöldben.",
+            "ro": "Un loc perfect pentru o pauză de prânz în natură.",
+            "en": "A perfect spot for a lunch break amidst greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Teplice",
+            "hu": "Teplicei kastély",
+            "ro": "Castelul Teplice",
+            "en": "Teplice Castle"
+          },
+          "coords": [
+            13.824,
+            50.638
+          ],
+          "category": "castles",
+          "arrive_at": "14:40",
+          "stay_min": 135,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für das Museum, bevor Sie zurück ins Zentrum schlendern.",
+            "hu": "Szánjon időt a múzeumra, mielőtt visszasétálna a központba.",
+            "ro": "Luați-vă timp pentru muzeu înainte de a vă plimba înapoi în centru.",
+            "en": "Take your time for the museum before strolling back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Teplitz bequem mit öffentlichen Verkehrsmitteln. Starten Sie im historischen Zentrum und erkunden Sie das Theaterviertel und die Kurbäder zu Fuß. Nehmen Sie dann einen Bus zu den wunderschönen Gärten der Stadt für eine entspannte Mittagspause. Der Nachmittag gehört dem beeindruckenden Schloss Teplitz, bevor Sie Ihren Tag ausklingen lassen.",
+        "hu": "Fedezze fel Teplicét kényelmesen a tömegközlekedéssel. Kezdje a történelmi központban, és fedezze fel gyalog a színházi negyedet és a gyógyfürdőket. Ezután üljön buszra a város gyönyörű kertjeihez egy pihentető ebédszünetre. A délután a lenyűgöző Teplicei kastélyé, mielőtt befejezné a napot.",
+        "ro": "Descoperiți Teplice confortabil cu transportul public. Începeți în centrul istoric și explorați cartierul teatrelor și stațiunile balneare pe jos. Apoi luați un autobuz către frumoasele grădini ale orașului pentru o pauză de prânz relaxantă. După-amiaza este dedicată impresionantului Castel Teplice înainte de a încheia ziua.",
+        "en": "Discover Teplice comfortably by public transport. Start in the historic center and explore the theatre district and spas on foot. Then take a bus to the city's beautiful gardens for a relaxing lunch break. The afternoon belongs to the impressive Teplice Castle before you end your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trdelník",
+            "tip": "Ein süßes Gebäck, das oft an Straßenständen verkauft wird."
+          },
+          {
+            "name": "Gulasch",
+            "tip": "Ein herzhaftes Gericht, perfekt nach einem langen Spaziergang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kürtőskalács (Trdelník)",
+            "tip": "Édes sütemény, amelyet gyakran utcai standokon árulnak."
+          },
+          {
+            "name": "Gulyás",
+            "tip": "Kiadós étel, tökéletes egy hosszú séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trdelník",
+            "tip": "Un produs de patiserie dulce, adesea vândut la standurile stradale."
+          },
+          {
+            "name": "Gulaș",
+            "tip": "Un fel de mâncare consistent, perfect după o plimbare lungă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trdelník",
+            "tip": "A sweet pastry often sold at street stalls."
+          },
+          {
+            "name": "Goulash",
+            "tip": "A hearty dish, perfect after a long walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Schlossgarten",
+            "tip": "Ein ruhiger Ort, um das Treiben zu beobachten.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Lesesaal in einem Kurhaus",
+            "tip": "Viele Häuser haben öffentlich zugängliche, ruhige Bereiche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Kastélykertben",
+            "tip": "Csendes hely a nyüzsgés megfigyelésére."
+          },
+          {
+            "name": "Olvasóterem egy gyógyfürdőházban",
+            "tip": "Sok házban vannak nyilvánosan hozzáférhető, csendes területek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Grădina Castelului",
+            "tip": "Un loc liniștit pentru a privi agitația."
+          },
+          {
+            "name": "Sală de lectură într-o casă de tratament",
+            "tip": "Multe clădiri au zone liniștite, accesibile publicului."
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in the Castle Garden",
+            "tip": "A quiet place to watch the world go by."
+          },
+          {
+            "name": "Reading room in a spa house",
+            "tip": "Many houses have publicly accessible, quiet areas."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kräuterliköre",
+            "tip": "Neben Becherovka gibt es viele andere lokale Sorten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógynövénylikőrök",
+            "tip": "A Becherovka mellett sok más helyi fajta is létezik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lichioruri din plante",
+            "tip": "Pe lângă Becherovka, există multe alte sortimente locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herbal liqueurs",
+            "tip": "Besides Becherovka, there are many other local varieties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine Fahrplan-App herunter, um die Buszeiten in Echtzeit zu verfolgen.",
+          "Eine Tageskarte ist die kostengünstigste Option für mehrere Fahrten.",
+          "Beachten Sie, dass am Wochenende und abends seltener Busse fahren."
+        ],
+        "hu": [
+          "Töltsön le egy menetrend-alkalmazást a buszok valós idejű követéséhez.",
+          "A napijegy a legköltséghatékonyabb lehetőség több utazáshoz.",
+          "Vegye figyelembe, hogy a buszok hétvégén és este ritkábban közlekednek."
+        ],
+        "ro": [
+          "Descărcați o aplicație cu orare pentru a urmări în timp real programul autobuzelor.",
+          "Un bilet de o zi este cea mai rentabilă opțiune pentru mai multe călătorii.",
+          "Rețineți că autobuzele circulă mai rar în weekend și seara."
+        ],
+        "en": [
+          "Download a timetable app to track bus times in real-time.",
+          "A day ticket is the most cost-effective option for multiple trips.",
+          "Note that buses run less frequently on weekends and in the evenings."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1329 @@
+{
+  "city_id": "bosniaherzegovina-bugojno-cities-v2",
+  "anchor": {
+    "name": "Bugojno",
+    "coords": [
+      17.4486,
+      44.0556
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum von Bugojno",
+            "hu": "Bugojnói Múzeum",
+            "ro": "Muzeul din Bugojno",
+            "en": "Museum of Bugojno"
+          },
+          "coords": [
+            17.448,
+            44.055
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um die reiche Geschichte der Region zu verstehen.",
+            "hu": "Kezdje itt a napot, hogy megértse a régió gazdag történelmét.",
+            "ro": "Începeți aici pentru a înțelege istoria bogată a regiunii.",
+            "en": "Start here to understand the rich history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Sultan-Ahmed-Moschee",
+            "hu": "Szultán Ahmed Mecset",
+            "ro": "Moscheea Sultan Ahmed",
+            "en": "Sultan Ahmed Mosque"
+          },
+          "coords": [
+            17.451,
+            44.056
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beachten Sie die elegante osmanische Architektur und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg az elegáns oszmán építészetet és a békés légkört.",
+            "ro": "Observați arhitectura otomană elegantă și atmosfera liniștită.",
+            "en": "Note the elegant Ottoman architecture and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Antonius",
+            "hu": "Szent Antal-templom",
+            "ro": "Biserica Sfântul Anton de Padova",
+            "en": "Church of Saint Anthony"
+          },
+          "coords": [
+            17.4495,
+            44.0575
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für katholische Sakralarchitektur in der Region.",
+            "hu": "A katolikus szakrális építészet gyönyörű példája a régióban.",
+            "ro": "Un exemplu frumos de arhitectură sacră catolică în regiune.",
+            "en": "A beautiful example of Catholic sacral architecture in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrbas-Brücke",
+            "hu": "Vrbas-híd",
+            "ro": "Podul peste Vrbas",
+            "en": "Vrbas Bridge"
+          },
+          "coords": [
+            17.4475,
+            44.0545
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für Fotos, besonders am späten Nachmittag.",
+            "hu": "Remek fotóhelyszín, különösen késő délután.",
+            "ro": "Un loc excelent pentru fotografii, mai ales după-amiaza târziu.",
+            "en": "A great spot for photos, especially in the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorski-Park",
+            "hu": "Gorski Park",
+            "ro": "Parcul Gorski",
+            "en": "Gorski Park"
+          },
+          "coords": [
+            17.442,
+            44.059
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach dem Mittagessen in dieser grünen Oase.",
+            "hu": "Ebéd után pihenjen ebben a zöld oázisban.",
+            "ro": "Relaxați-vă în această oază de verdeață după prânz.",
+            "en": "Relax in this green oasis after lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Bugojno beginnt mit einem tiefen Einblick in die lokale Geschichte im Stadtmuseum. Am Vormittag erkunden Sie das spirituelle Herz der Stadt, indem Sie die historische Sultan-Ahmed-Moschee und die Kirche des Heiligen Antonius besuchen. Nach dem Mittagessen überqueren Sie die malerische Vrbas-Brücke, ein perfekter Ort für Fotos. Der Nachmittag endet mit einem entspannten Spaziergang im Gorski-Park, wo Sie die Natur genießen und die Eindrücke des Tages Revue passieren lassen können.",
+        "hu": "Bugojnói napja a helyi történelem megismerésével kezdődik a városi múzeumban. Délelőtt a város spirituális szívét fedezi fel a történelmi Szultán Ahmed Mecset és a Szent Antal-templom meglátogatásával. Ebéd után átsétál a festői Vrbas-hídon, amely tökéletes fotóhelyszín. A délután egy pihentető sétával zárul a Gorski Parkban, ahol élvezheti a természetet és feldolgozhatja a nap élményeit.",
+        "ro": "Ziua dvs. în Bugojno începe cu o incursiune în istoria locală la muzeul orașului. Dimineața explorați inima spirituală a orașului vizitând istorica Moschee Sultan Ahmed și Biserica Sfântul Anton. După prânz, traversați pitorescul pod peste Vrbas, un loc perfect pentru fotografii. După-amiaza se încheie cu o plimbare relaxantă în Parcul Gorski, unde vă puteți bucura de natură și puteți reflecta asupra experiențelor zilei.",
+        "en": "Your day in Bugojno begins with a deep dive into local history at the city museum. In the morning, you'll explore the spiritual heart of the city by visiting the historic Sultan Ahmed Mosque and the Church of Saint Anthony. After lunch, you'll cross the picturesque Vrbas Bridge, a perfect spot for photos. The afternoon concludes with a relaxing walk in Gorski Park, where you can enjoy nature and reflect on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Probieren Sie diese gegrillten Hackfleischröllchen, ein bosnisches Nationalgericht."
+          },
+          {
+            "name": "Burek",
+            "tip": "Ein herzhaftes Gebäck, gefüllt mit Fleisch, Käse oder Spinat, perfekt für einen schnellen Happen."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Eine reichhaltige Hühner- und Gemüsesuppe, die oft als Vorspeise serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Kóstolja meg ezt a grillezett darált húsos ételt, Bosznia nemzeti ételét."
+          },
+          {
+            "name": "Burek",
+            "tip": "Sós péksütemény hússal, sajttal vagy spenóttal töltve, tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Gazdag csirke- és zöldségleves, amelyet gyakran előételként szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Încercați acești mici la grătar, un fel de mâncare național bosniac."
+          },
+          {
+            "name": "Burek",
+            "tip": "O plăcintă savuroasă umplută cu carne, brânză sau spanac, perfectă pentru o gustare rapidă."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "O ciorbă bogată de pui și legume, adesea servită ca aperitiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Try these grilled minced meat rolls, a Bosnian national dish."
+          },
+          {
+            "name": "Burek",
+            "tip": "A savory pastry filled with meat, cheese, or spinach, perfect for a quick bite."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "A rich chicken and vegetable soup, often served as a starter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Vrbas",
+            "tip": "Finden Sie eine ruhige Stelle am Flussufer, um dem Wasser zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gorski-Park",
+            "tip": "Eine Bank im Schatten der Bäume bietet einen friedlichen Rückzugsort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vrbas folyó partja",
+            "tip": "Keressen egy csendes helyet a folyóparton, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gorski Park",
+            "tip": "Egy pad a fák árnyékában békés menedéket nyújt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Vrbas",
+            "tip": "Găsiți un loc liniștit pe malul râului pentru a asculta sunetul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Gorski",
+            "tip": "O bancă la umbra copacilor oferă un refugiu pașnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Vrbas River",
+            "tip": "Find a quiet spot on the riverbank to listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gorski Park",
+            "tip": "A bench in the shade of the trees offers a peaceful retreat.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigten Souvenirs und lokalen Produkten."
+          },
+          {
+            "name": "Kupferwaren",
+            "tip": "Bosnien ist bekannt für seine traditionellen Kupferarbeiten, wie Kaffeekannen und Tabletts."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézzel készített ajándéktárgyakat és helyi termékeket."
+          },
+          {
+            "name": "Rézműves termékek",
+            "tip": "Bosznia híres hagyományos rézműves termékeiről, mint a kávéskannák és tálcák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați suveniruri artizanale și produse locale."
+          },
+          {
+            "name": "Articole din cupru",
+            "tip": "Bosnia este renumită pentru obiectele sale tradiționale din cupru, cum ar fi ibricurile de cafea și tăvile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade souvenirs and local produce."
+          },
+          {
+            "name": "Copper Goods",
+            "tip": "Bosnia is famous for its traditional copper work, like coffee pots and trays."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum leicht zu Fuß zu erkunden ist.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Planen Sie Zeit für eine Kaffeepause in einem der vielen Cafés ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont könnyen bejárható gyalog.",
+          "A legtöbb látnivaló közel van egymáshoz.",
+          "Tervezzen időt egy kávészünetre a számos kávézó egyikében."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este ușor de explorat pe jos.",
+          "Majoritatea atracțiilor turistice sunt apropiate una de cealaltă.",
+          "Planificați timp pentru o pauză de cafea la una dintre numeroasele cafenele."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is easily walkable.",
+          "Most of the main sights are located close to each other.",
+          "Plan for a coffee break in one of the many local cafes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 7.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vrbas-Brücke",
+            "hu": "Vrbas-híd",
+            "ro": "Podul peste Vrbas",
+            "en": "Vrbas Bridge"
+          },
+          "coords": [
+            17.4475,
+            44.0545
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour mit einem Blick auf den Fluss, der die Stadt prägt.",
+            "hu": "Kezdje a kerékpártúrát a várost meghatározó folyó látványával.",
+            "ro": "Începeți turul cu bicicleta cu o priveliște asupra râului care definește orașul.",
+            "en": "Start your bike tour with a view of the river that defines the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Bugojno",
+            "hu": "Bugojnói Múzeum",
+            "ro": "Muzeul din Bugojno",
+            "en": "Museum of Bugojno"
+          },
+          "coords": [
+            17.448,
+            44.055
+          ],
+          "category": "museums",
+          "arrive_at": "09:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und tauchen Sie in die Geschichte ein.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a történelemben.",
+            "ro": "Asigurați-vă bicicleta și scufundați-vă în istorie.",
+            "en": "Lock your bike securely and dive into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Sultan-Ahmed-Moschee",
+            "hu": "Szultán Ahmed Mecset",
+            "ro": "Moscheea Sultan Ahmed",
+            "en": "Sultan Ahmed Mosque"
+          },
+          "coords": [
+            17.451,
+            44.056
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um dieses osmanische Juwel zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja ezt az oszmán gyöngyszemet.",
+            "ro": "O scurtă oprire pentru a admira această bijuterie otomană.",
+            "en": "A quick stop to admire this Ottoman gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorski-Park",
+            "hu": "Gorski Park",
+            "ro": "Parcul Gorski",
+            "en": "Gorski Park"
+          },
+          "coords": [
+            17.442,
+            44.059
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause im Grünen.",
+            "hu": "Tökéletes egy ebédszünethez a zöldben.",
+            "ro": "Perfect pentru o pauză de prânz în mijlocul naturii.",
+            "en": "Perfect for a lunch break amidst greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Nekropole Potočani",
+            "hu": "Potočani nekropolisz",
+            "ro": "Necropola Potočani",
+            "en": "Potočani Necropolis"
+          },
+          "coords": [
+            17.435,
+            44.061
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:03",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Eine faszinierende Fahrt zu den mittelalterlichen Stećci-Grabsteinen.",
+            "hu": "Lenyűgöző utazás a középkori Stećci sírkövekhez.",
+            "ro": "O plimbare fascinantă către mormintele medievale Stećci.",
+            "en": "A fascinating ride to the medieval Stećci tombstones."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajvatovica-Pilgerstätte",
+            "hu": "Ajvatovica zarándokhely",
+            "ro": "Locul de pelerinaj Ajvatovica",
+            "en": "Ajvatovica pilgrimage site"
+          },
+          "coords": [
+            17.578,
+            44.059
+          ],
+          "category": "natural features",
+          "arrive_at": "15:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Die längere Fahrt hierher lohnt sich für die spirituelle Atmosphäre und die Natur.",
+            "hu": "A hosszabb út megéri a spirituális légkör és a természet miatt.",
+            "ro": "Călătoria mai lungă merită pentru atmosfera spirituală și natură.",
+            "en": "The longer ride here is worth it for the spiritual atmosphere and nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und beginnen Sie den Tag an der Vrbas-Brücke. Von dort aus radeln Sie zum Museum, um in die Geschichte einzutauchen, gefolgt von einem Besuch der Sultan-Ahmed-Moschee. Zur Mittagszeit entspannen Sie im Gorski-Park. Am Nachmittag führt Sie Ihre Tour aus der Stadt heraus zur geheimnisvollen Nekropole Potočani mit ihren mittelalterlichen Grabsteinen. Den Abschluss bildet eine längere, aber lohnende Fahrt zur Ajvatovica-Pilgerstätte, einem Ort von großer spiritueller Bedeutung und natürlicher Schönheit.",
+        "hu": "Pattanjon kerékpárra, és kezdje a napot a Vrbas-hídnál. Onnan tekerjen el a múzeumhoz, hogy elmerüljön a történelemben, majd látogasson el a Szultán Ahmed Mecsethez. Délben pihenjen a Gorski Parkban. Délután a túra kivezeti a városból a titokzatos Potočani nekropoliszhoz a középkori sírköveivel. A napot egy hosszabb, de megérő út zárja az Ajvatovica zarándokhelyhez, amely nagy spirituális jelentőséggel és természeti szépséggel bír.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua la podul peste Vrbas. De acolo, pedalați spre muzeu pentru a vă cufunda în istorie, urmat de o vizită la Moscheea Sultan Ahmed. La prânz, relaxați-vă în Parcul Gorski. După-amiaza, turul vă duce în afara orașului, la misterioasa Necropolă Potočani cu pietrele sale funerare medievale. Ziua se încheie cu o plimbare mai lungă, dar plină de satisfacții, la locul de pelerinaj Ajvatovica, un loc de mare importanță spirituală și frumusețe naturală.",
+        "en": "Hop on your bike and start the day at the Vrbas Bridge. From there, cycle to the museum to immerse yourself in history, followed by a visit to the Sultan Ahmed Mosque. At lunchtime, relax in Gorski Park. In the afternoon, your tour takes you out of the city to the mysterious Potočani Necropolis with its medieval tombstones. The day concludes with a longer but rewarding ride to the Ajvatovica pilgrimage site, a place of great spiritual significance and natural beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Probieren Sie diese gegrillten Hackfleischröllchen, ein bosnisches Nationalgericht."
+          },
+          {
+            "name": "Burek",
+            "tip": "Ein herzhaftes Gebäck, gefüllt mit Fleisch, Käse oder Spinat, perfekt für einen schnellen Happen."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Eine reichhaltige Hühner- und Gemüsesuppe, die oft als Vorspeise serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Kóstolja meg ezt a grillezett darált húsos ételt, Bosznia nemzeti ételét."
+          },
+          {
+            "name": "Burek",
+            "tip": "Sós péksütemény hússal, sajttal vagy spenóttal töltve, tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Gazdag csirke- és zöldségleves, amelyet gyakran előételként szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Încercați acești mici la grătar, un fel de mâncare național bosniac."
+          },
+          {
+            "name": "Burek",
+            "tip": "O plăcintă savuroasă umplută cu carne, brânză sau spanac, perfectă pentru o gustare rapidă."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "O ciorbă bogată de pui și legume, adesea servită ca aperitiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Try these grilled minced meat rolls, a Bosnian national dish."
+          },
+          {
+            "name": "Burek",
+            "tip": "A savory pastry filled with meat, cheese, or spinach, perfect for a quick bite."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "A rich chicken and vegetable soup, often served as a starter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Vrbas",
+            "tip": "Finden Sie eine ruhige Stelle am Flussufer, um dem Wasser zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nekropole Potočani",
+            "tip": "Die Stille dieses historischen Ortes ist sehr eindrucksvoll.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vrbas folyó partja",
+            "tip": "Keressen egy csendes helyet a folyóparton, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Potočani nekropolisz",
+            "tip": "Ennek a történelmi helynek a csendje nagyon lenyűgöző.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Vrbas",
+            "tip": "Găsiți un loc liniștit pe malul râului pentru a asculta sunetul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Necropola Potočani",
+            "tip": "Liniștea acestui loc istoric este foarte impresionantă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Vrbas River",
+            "tip": "Find a quiet spot on the riverbank to listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Potočani Necropolis",
+            "tip": "The silence of this historical site is very impressive.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigten Souvenirs und lokalen Produkten."
+          },
+          {
+            "name": "Kupferwaren",
+            "tip": "Bosnien ist bekannt für seine traditionellen Kupferarbeiten, wie Kaffeekannen und Tabletts."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézzel készített ajándéktárgyakat és helyi termékeket."
+          },
+          {
+            "name": "Rézműves termékek",
+            "tip": "Bosznia híres hagyományos rézműves termékeiről, mint a kávéskannák és tálcák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați suveniruri artizanale și produse locale."
+          },
+          {
+            "name": "Articole din cupru",
+            "tip": "Bosnia este renumită pentru obiectele sale tradiționale din cupru, cum ar fi ibricurile de cafea și tăvile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade souvenirs and local produce."
+          },
+          {
+            "name": "Copper Goods",
+            "tip": "Bosnia is famous for its traditional copper work, like coffee pots and trays."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Einige Wege außerhalb der Stadt können uneben sein.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Fahrt nach Ajvatovica."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Néhány út a városon kívül egyenetlen lehet.",
+          "Vigyen magával elegendő vizet, különösen az Ajvatovicába vezető útra."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Unele drumuri din afara orașului pot fi denivelate.",
+          "Luați suficientă apă, mai ales pentru drumul spre Ajvatovica."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Some roads outside the city can be uneven.",
+          "Bring enough water, especially for the ride to Ajvatovica."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 30.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Historisches Zentrum",
+            "hu": "A klaszter: Történelmi központ",
+            "ro": "Cluster A: Centrul Istoric",
+            "en": "Cluster A: Historic Center"
+          },
+          "coords": [
+            17.45,
+            44.0565
+          ],
+          "category": "special",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Zentrums und erkunden Sie die ersten Sehenswürdigkeiten zu Fuß.",
+            "hu": "Parkoljon a központ közelében, és fedezze fel az első látnivalókat gyalog.",
+            "ro": "Parcați lângă centru și explorați primele atracții pe jos.",
+            "en": "Park near the center and explore the first sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sultan-Ahmed-Moschee",
+            "hu": "Szultán Ahmed Mecset",
+            "ro": "Moscheea Sultan Ahmed",
+            "en": "Sultan Ahmed Mosque"
+          },
+          "coords": [
+            17.451,
+            44.056
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Meisterwerk osmanischer Baukunst.",
+            "hu": "Az oszmán építészet remekműve.",
+            "ro": "O capodoperă a arhitecturii otomane.",
+            "en": "A masterpiece of Ottoman architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Antonius",
+            "hu": "Szent Antal-templom",
+            "ro": "Biserica Sfântul Anton de Padova",
+            "en": "Church of Saint Anthony"
+          },
+          "coords": [
+            17.4495,
+            44.0575
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Glasfenster.",
+            "hu": "Csodálja meg a lenyűgöző ólomüveg ablakokat.",
+            "ro": "Admirați vitraliile impresionante.",
+            "en": "Admire the impressive stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Bugojno",
+            "hu": "Bugojnói Múzeum",
+            "ro": "Muzeul din Bugojno",
+            "en": "Museum of Bugojno"
+          },
+          "coords": [
+            17.448,
+            44.055
+          ],
+          "category": "museums",
+          "arrive_at": "10:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss, um die lokale Kultur und Geschichte zu verstehen.",
+            "hu": "Kötelező program a helyi kultúra és történelem megértéséhez.",
+            "ro": "O necesitate pentru a înțelege cultura și istoria locală.",
+            "en": "A must-see to understand the local culture and history."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Natur & Ruhe",
+            "hu": "B klaszter: Természet és csend",
+            "ro": "Cluster B: Natură și Liniște",
+            "en": "Cluster B: Nature & Quiet"
+          },
+          "coords": [
+            17.442,
+            44.059
+          ],
+          "category": "special",
+          "arrive_at": "12:21",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Gorski-Park für einen Mittagsspaziergang.",
+            "hu": "Hajtson a Gorski Parkhoz egy déli sétára.",
+            "ro": "Conduceți spre Parcul Gorski pentru o plimbare de prânz.",
+            "en": "Drive to Gorski Park for a midday walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorski-Park",
+            "hu": "Gorski Park",
+            "ro": "Parcul Gorski",
+            "en": "Gorski Park"
+          },
+          "coords": [
+            17.442,
+            44.059
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Luft und die grüne Umgebung.",
+            "hu": "Élvezze a friss levegőt és a zöld környezetet.",
+            "ro": "Bucurați-vă de aerul proaspăt și de mediul înverzit.",
+            "en": "Enjoy the fresh air and green surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Spirituelles & Panorama",
+            "hu": "C klaszter: Spiritualitás és panoráma",
+            "ro": "Cluster C: Spiritualitate și Panoramă",
+            "en": "Cluster C: Spirituality & Panorama"
+          },
+          "coords": [
+            17.45,
+            44.0
+          ],
+          "category": "special",
+          "arrive_at": "14:31",
+          "stay_min": 0,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 25,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine längere Fahrt zum Berg Kalin, die sich für die Aussicht lohnt.",
+            "hu": "Egy hosszabb út a Kalin-hegyre, ami megéri a kilátásért.",
+            "ro": "O călătorie mai lungă spre Muntele Kalin, care merită pentru priveliște.",
+            "en": "A longer drive to Kalin Mountain, which is worth it for the view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Herzen von Bugojno. Parken Sie Ihr Auto und erkunden Sie zu Fuß die Sultan-Ahmed-Moschee, die Kirche des Heiligen Antonius und das Stadtmuseum. Nach diesem kulturellen Vormittag fahren Sie zum Gorski-Park, dem perfekten Ort für ein Mittagspicknick und einen Spaziergang im Grünen. Der Nachmittag ist einem größeren Ausflug gewidmet: einer Fahrt auf den Berg Kalin. Dort werden Sie mit einer atemberaubenden Aussicht über die gesamte Region belohnt, ein unvergesslicher Abschluss für Ihren Tag.",
+        "hu": "Autós napja Bugojno szívében kezdődik. Parkolja le autóját, és fedezze fel gyalog a Szultán Ahmed Mecsetet, a Szent Antal-templomot és a városi múzeumot. A kulturális délelőtt után hajtson el a Gorski Parkba, amely tökéletes hely egy ebédpiknikhez és egy zöld sétához. A délután egy nagyobb kirándulásé: egy út a Kalin-hegyre. Ott lenyűgöző kilátásban lesz része az egész régióra, ami felejthetetlen lezárása a napnak.",
+        "ro": "Ziua dvs. cu mașina începe în inima orașului Bugojno. Parcați mașina și explorați pe jos Moscheea Sultan Ahmed, Biserica Sfântul Anton și muzeul orașului. După această dimineață culturală, conduceți spre Parcul Gorski, locul perfect pentru un picnic la prânz și o plimbare în natură. După-amiaza este dedicată unei excursii mai mari: o călătorie pe Muntele Kalin. Acolo veți fi răsplătit cu o priveliște uluitoare asupra întregii regiuni, o încheiere de neuitat a zilei.",
+        "en": "Your car day starts in the heart of Bugojno. Park your car and explore the Sultan Ahmed Mosque, the Church of Saint Anthony, and the city museum on foot. After this cultural morning, drive to Gorski Park, the perfect place for a lunch picnic and a walk in the green. The afternoon is dedicated to a bigger excursion: a drive up Kalin Mountain. There you will be rewarded with a breathtaking view over the entire region, an unforgettable end to your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Probieren Sie diese gegrillten Hackfleischröllchen, ein bosnisches Nationalgericht."
+          },
+          {
+            "name": "Burek",
+            "tip": "Ein herzhaftes Gebäck, gefüllt mit Fleisch, Käse oder Spinat, perfekt für einen schnellen Happen."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Eine reichhaltige Hühner- und Gemüsesuppe, die oft als Vorspeise serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Kóstolja meg ezt a grillezett darált húsos ételt, Bosznia nemzeti ételét."
+          },
+          {
+            "name": "Burek",
+            "tip": "Sós péksütemény hússal, sajttal vagy spenóttal töltve, tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Gazdag csirke- és zöldségleves, amelyet gyakran előételként szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Încercați acești mici la grătar, un fel de mâncare național bosniac."
+          },
+          {
+            "name": "Burek",
+            "tip": "O plăcintă savuroasă umplută cu carne, brânză sau spanac, perfectă pentru o gustare rapidă."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "O ciorbă bogată de pui și legume, adesea servită ca aperitiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Try these grilled minced meat rolls, a Bosnian national dish."
+          },
+          {
+            "name": "Burek",
+            "tip": "A savory pastry filled with meat, cheese, or spinach, perfect for a quick bite."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "A rich chicken and vegetable soup, often served as a starter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Berges Kalin",
+            "tip": "Die Stille und die weite Aussicht sind die Fahrt absolut wert.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gorski-Park",
+            "tip": "Finden Sie einen ruhigen Platz abseits der Hauptwege.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kalin-hegy csúcsa",
+            "tip": "A csend és a széles panoráma teljesen megéri az utat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gorski Park",
+            "tip": "Keressen egy csendes helyet a fő utaktól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Muntelui Kalin",
+            "tip": "Liniștea și priveliștea panoramică merită pe deplin călătoria.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Gorski",
+            "tip": "Găsiți un loc liniștit departe de aleile principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Kalin Mountain",
+            "tip": "The silence and the wide view are absolutely worth the drive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gorski Park",
+            "tip": "Find a quiet spot away from the main paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigten Souvenirs und lokalen Produkten."
+          },
+          {
+            "name": "Kupferwaren",
+            "tip": "Bosnien ist bekannt für seine traditionellen Kupferarbeiten, wie Kaffeekannen und Tabletts."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézzel készített ajándéktárgyakat és helyi termékeket."
+          },
+          {
+            "name": "Rézműves termékek",
+            "tip": "Bosznia híres hagyományos rézműves termékeiről, mint a kávéskannák és tálcák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați suveniruri artizanale și produse locale."
+          },
+          {
+            "name": "Articole din cupru",
+            "tip": "Bosnia este renumită pentru obiectele sale tradiționale din cupru, cum ar fi ibricurile de cafea și tăvile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade souvenirs and local produce."
+          },
+          {
+            "name": "Copper Goods",
+            "tip": "Bosnia is famous for its traditional copper work, like coffee pots and trays."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten im Voraus, besonders im Stadtzentrum.",
+          "Ein GPS oder eine Navigations-App ist für die Fahrt zum Berg Kalin unerlässlich.",
+          "Tanken Sie voll, bevor Sie die Stadt verlassen, um die ländlichen Gebiete zu erkunden."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket, különösen a városközpontban.",
+          "GPS vagy navigációs alkalmazás elengedhetetlen a Kalin-hegyre vezető úthoz.",
+          "Töltse tele a tankot, mielőtt elhagyja a várost a vidéki területek felfedezéséhez."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare în avans, mai ales în centrul orașului.",
+          "Un GPS sau o aplicație de navigație este esențială pentru drumul spre Muntele Kalin.",
+          "Faceți plinul înainte de a părăsi orașul pentru a explora zonele rurale."
+        ],
+        "en": [
+          "Check parking options in advance, especially in the city center.",
+          "A GPS or navigation app is essential for the drive to Kalin Mountain.",
+          "Fill up your tank before leaving the city to explore the rural areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Stadtzentrum",
+            "hu": "A klaszter: Városközpont",
+            "ro": "Cluster A: Centrul Orașului",
+            "en": "Cluster A: City Center"
+          },
+          "coords": [
+            17.448,
+            44.055
+          ],
+          "category": "special",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zentralen Platz und beginnen Sie Ihre Erkundung.",
+            "hu": "Menjen busszal a központi térre, és kezdje a felfedezést.",
+            "ro": "Luați un autobuz spre piața centrală și începeți explorarea.",
+            "en": "Take a bus to the central square and start your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Bugojno",
+            "hu": "Bugojnói Múzeum",
+            "ro": "Muzeul din Bugojno",
+            "en": "Museum of Bugojno"
+          },
+          "coords": [
+            17.448,
+            44.055
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt an der Bushaltestelle gelegen, ein perfekter erster Halt.",
+            "hu": "Közvetlenül a buszmegállónál található, tökéletes első megálló.",
+            "ro": "Situat chiar lângă stația de autobuz, o primă oprire perfectă.",
+            "en": "Located right next to the bus stop, a perfect first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Sultan-Ahmed-Moschee",
+            "hu": "Szultán Ahmed Mecset",
+            "ro": "Moscheea Sultan Ahmed",
+            "en": "Sultan Ahmed Mosque"
+          },
+          "coords": [
+            17.451,
+            44.056
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum entfernt.",
+            "hu": "Rövid sétára a múzeumtól.",
+            "ro": "La o scurtă plimbare de muzeu.",
+            "en": "A short walk from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Park und Geschichte",
+            "hu": "B klaszter: Park és történelem",
+            "ro": "Cluster B: Parc și Istorie",
+            "en": "Cluster B: Park and History"
+          },
+          "coords": [
+            17.442,
+            44.059
+          ],
+          "category": "special",
+          "arrive_at": "11:45",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie eine andere Buslinie, um zum Gorski-Park zu gelangen.",
+            "hu": "Menjen egy másik buszjárattal a Gorski Parkhoz.",
+            "ro": "Luați o altă linie de autobuz pentru a ajunge la Parcul Gorski.",
+            "en": "Take another bus line to get to Gorski Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorski-Park",
+            "hu": "Gorski Park",
+            "ro": "Parcul Gorski",
+            "en": "Gorski Park"
+          },
+          "coords": [
+            17.442,
+            44.059
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der ideale Ort für eine Mittagspause.",
+            "hu": "Ideális hely egy ebédszünethez.",
+            "ro": "Locul ideal pentru o pauză de prânz.",
+            "en": "The ideal place for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Nekropole Potočani",
+            "hu": "Potočani nekropolisz",
+            "ro": "Necropola Potočani",
+            "en": "Potočani Necropolis"
+          },
+          "coords": [
+            17.435,
+            44.061
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:16",
+          "stay_min": 30,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang vom Park zu diesem faszinierenden historischen Ort.",
+            "hu": "Séta a parkból ehhez a lenyűgöző történelmi helyhez.",
+            "ro": "O plimbare de la parc la acest loc istoric fascinant.",
+            "en": "A walk from the park to this fascinating historical site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Zentrum von Bugojno, wo Sie das Museum und die Sultan-Ahmed-Moschee zu Fuß erkunden. Am Vormittag bringt Sie ein kurzer Spaziergang zwischen diesen kulturellen Höhepunkten. Gegen Mittag nehmen Sie einen anderen Bus zum Gorski-Park. Dort können Sie zu Mittag essen und sich entspannen. Am Nachmittag spazieren Sie vom Park zur nahegelegenen Nekropole Potočani, um die alten Stećci-Grabsteine zu bewundern, bevor Sie am späten Nachmittag den Bus zurück ins Zentrum nehmen.",
+        "hu": "Tömegközlekedéssel töltött napja Bugojno központjában kezdődik, ahol gyalog fedezi fel a múzeumot és a Szultán Ahmed Mecsetet. A délelőtt egy rövid sétával telik e kulturális csúcspontok között. Dél körül egy másik buszra szállva a Gorski Parkba jut. Ott ebédelhet és pihenhet. Délután a parkból a közeli Potočani nekropoliszhoz sétál, hogy megcsodálja az ősi Stećci sírköveket, mielőtt késő délután visszabuszozna a központba.",
+        "ro": "Ziua dvs. cu transportul public începe în centrul orașului Bugojno, unde explorați pe jos muzeul și Moscheea Sultan Ahmed. Dimineața include o scurtă plimbare între aceste atracții culturale. În jurul prânzului, luați un alt autobuz către Parcul Gorski. Acolo puteți lua prânzul și vă puteți relaxa. După-amiaza, vă plimbați de la parc la apropiata Necropolă Potočani pentru a admira vechile pietre funerare Stećci, înainte de a lua autobuzul înapoi spre centru la sfârșitul după-amiezii.",
+        "en": "Your day on public transport begins in the center of Bugojno, where you'll explore the museum and the Sultan Ahmed Mosque on foot. The morning involves a short walk between these cultural highlights. Around noon, you'll take another bus to Gorski Park. There you can have lunch and relax. In the afternoon, you'll walk from the park to the nearby Potočani Necropolis to admire the ancient Stećci tombstones before taking the bus back to the center in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Probieren Sie diese gegrillten Hackfleischröllchen, ein bosnisches Nationalgericht."
+          },
+          {
+            "name": "Burek",
+            "tip": "Ein herzhaftes Gebäck, gefüllt mit Fleisch, Käse oder Spinat, perfekt für einen schnellen Happen."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Eine reichhaltige Hühner- und Gemüsesuppe, die oft als Vorspeise serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Kóstolja meg ezt a grillezett darált húsos ételt, Bosznia nemzeti ételét."
+          },
+          {
+            "name": "Burek",
+            "tip": "Sós péksütemény hússal, sajttal vagy spenóttal töltve, tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "Gazdag csirke- és zöldségleves, amelyet gyakran előételként szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Încercați acești mici la grătar, un fel de mâncare național bosniac."
+          },
+          {
+            "name": "Burek",
+            "tip": "O plăcintă savuroasă umplută cu carne, brânză sau spanac, perfectă pentru o gustare rapidă."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "O ciorbă bogată de pui și legume, adesea servită ca aperitiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Try these grilled minced meat rolls, a Bosnian national dish."
+          },
+          {
+            "name": "Burek",
+            "tip": "A savory pastry filled with meat, cheese, or spinach, perfect for a quick bite."
+          },
+          {
+            "name": "Begova Čorba",
+            "tip": "A rich chicken and vegetable soup, often served as a starter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Vrbas",
+            "tip": "Finden Sie eine ruhige Stelle am Flussufer, um dem Wasser zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nekropole Potočani",
+            "tip": "Die Stille dieses historischen Ortes ist sehr eindrucksvoll.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vrbas folyó partja",
+            "tip": "Keressen egy csendes helyet a folyóparton, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Potočani nekropolisz",
+            "tip": "Ennek a történelmi helynek a csendje nagyon lenyűgöző.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Vrbas",
+            "tip": "Găsiți un loc liniștit pe malul râului pentru a asculta sunetul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Necropola Potočani",
+            "tip": "Liniștea acestui loc istoric este foarte impresionantă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Vrbas River",
+            "tip": "Find a quiet spot on the riverbank to listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Potočani Necropolis",
+            "tip": "The silence of this historical site is very impressive.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigten Souvenirs und lokalen Produkten."
+          },
+          {
+            "name": "Kupferwaren",
+            "tip": "Bosnien ist bekannt für seine traditionellen Kupferarbeiten, wie Kaffeekannen und Tabletts."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézzel készített ajándéktárgyakat és helyi termékeket."
+          },
+          {
+            "name": "Rézműves termékek",
+            "tip": "Bosznia híres hagyományos rézműves termékeiről, mint a kávéskannák és tálcák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați suveniruri artizanale și produse locale."
+          },
+          {
+            "name": "Articole din cupru",
+            "tip": "Bosnia este renumită pentru obiectele sale tradiționale din cupru, cum ar fi ibricurile de cafea și tăvile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade souvenirs and local produce."
+          },
+          {
+            "name": "Copper Goods",
+            "tip": "Bosnia is famous for its traditional copper work, like coffee pots and trays."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Informieren Sie sich über die Busfahrpläne, da die Frequenzen variieren können.",
+          "Haben Sie Kleingeld für die Bustickets bereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Tájékozódjon a buszmenetrendekről, mivel a járatok sűrűsége változhat.",
+          "Készítsen elő aprópénzt a buszjegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați orarele autobuzelor, deoarece frecvențele pot varia.",
+          "Pregătiți mărunțiș pentru biletele de autobuz."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check the bus schedules, as frequencies can vary.",
+          "Have small change ready for bus tickets."
+        ]
+      }
+    }
+  }
+}

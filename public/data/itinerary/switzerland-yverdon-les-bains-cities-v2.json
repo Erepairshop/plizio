@@ -1,0 +1,1366 @@
+{
+  "city_id": "switzerland-yverdon-les-bains-cities-v2",
+  "anchor": {
+    "name": "Yverdon-les-Bains",
+    "coords": [
+      6.641,
+      46.778
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:55",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pestalozzi-Platz",
+            "hu": "Pestalozzi tér",
+            "ro": "Piața Pestalozzi",
+            "en": "Pestalozzi Square"
+          },
+          "coords": [
+            6.641,
+            46.778
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Indítsa a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafés."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple d'Yverdon",
+            "hu": "Yverdon temploma",
+            "ro": "Templul din Yverdon",
+            "en": "Temple of Yverdon"
+          },
+          "coords": [
+            6.6405,
+            46.7785
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Orgel und die schlichte protestantische Architektur.",
+            "hu": "Figyelje meg a lenyűgöző orgonát és az egyszerű protestáns építészetet!",
+            "ro": "Observați orga impresionantă și arhitectura protestantă sobră.",
+            "en": "Note the impressive organ and the simple Protestant architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss und Museum von Yverdon",
+            "hu": "Yverdon kastélya és múzeuma",
+            "ro": "Castelul și Muzeul din Yverdon",
+            "en": "Yverdon Castle and Museum"
+          },
+          "coords": [
+            6.6415,
+            46.779
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Museum deckt 6000 Jahre Geschichte ab – planen Sie genug Zeit ein.",
+            "hu": "A múzeum 6000 év történelmét öleli fel – tervezzen elég időt a látogatásra!",
+            "ro": "Muzeul acoperă 6000 de ani de istorie – planificați suficient timp.",
+            "en": "The museum covers 6000 years of history – allow plenty of time."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison d'Ailleurs",
+            "hu": "A Máshol Háza",
+            "ro": "Casa de Altundeva",
+            "en": "House of Elsewhere"
+          },
+          "coords": [
+            6.642,
+            46.7783
+          ],
+          "category": "museums",
+          "arrive_at": "12:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Muss für Science-Fiction-Fans. Einzigartiges Museum in Europa.",
+            "hu": "A sci-fi rajongóknak kötelező. Egyedülálló múzeum Európában.",
+            "ro": "O vizită obligatorie pentru fanii science-fiction. Un muzeu unic în Europa.",
+            "en": "A must-see for science fiction fans. A unique museum in Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalzentrum",
+            "hu": "Termálközpont",
+            "ro": "Centrul Termal",
+            "en": "Thermal Center"
+          },
+          "coords": [
+            6.65,
+            46.775
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:07",
+          "stay_min": 210,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Verbringen Sie den Nachmittag entspannt im warmen Thermalwasser.",
+            "hu": "Töltse a délutánt pihenéssel a meleg termálvízben!",
+            "ro": "Petreceți după-amiaza relaxându-vă în apa termală caldă.",
+            "en": "Spend the afternoon relaxing in the warm thermal waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt am belebten Pestalozzi-Platz, dem Herzen der Altstadt. Von dort aus schlendern Sie zum ehrwürdigen Temple d'Yverdon, bevor Sie in die 6000-jährige Geschichte im imposanten Schloss eintauchen. Am Mittag entführt Sie das Maison d'Ailleurs in utopische Welten der Science-Fiction – eine einzigartige Erfahrung. Der Nachmittag steht ganz im Zeichen der Entspannung: Ein Spaziergang führt Sie zum berühmten Thermalzentrum. Hier lassen Sie den Tag im heilenden Wasser ausklingen und tanken neue Energie, während die Sonne langsam untergeht.",
+        "hu": "Sétája a nyüzsgő Pestalozzi téren, az óváros szívében kezdődik. Innen sétáljon át a tiszteletet parancsoló Temple d'Yverdonhoz, mielőtt elmerülne a 6000 éves történelemben a lenyűgöző kastélyban. Délben a Maison d'Ailleurs a sci-fi utópisztikus világaiba repíti – egyedülálló élmény. A délután a pihenésé: egy kellemes séta elvezeti a híres Termálközponthoz. Itt a gyógyító vízben fejezheti be a napot, új energiával feltöltődve, miközben a nap lassan lenyugszik.",
+        "ro": "Turul dumneavoastră pietonal începe în animata Piață Pestalozzi, inima orașului vechi. De acolo, vă plimbați spre venerabilul Templu din Yverdon, înainte de a vă cufunda în 6000 de ani de istorie la impunătorul castel. La prânz, Maison d'Ailleurs vă transportă în lumi utopice ale științifico-fantasticului – o experiență unică. După-amiaza este dedicată relaxării: o plimbare vă duce la faimosul Centru Termal. Aici încheiați ziua în apele vindecătoare, reîncărcându-vă bateriile în timp ce soarele apune lent.",
+        "en": "Your walking tour begins in the lively Pestalozzi Square, the heart of the old town. From there, you'll stroll to the venerable Temple of Yverdon before delving into 6,000 years of history at the imposing castle. At midday, the Maison d'Ailleurs transports you to utopian worlds of science fiction – a unique experience. The afternoon is all about relaxation: a walk takes you to the famous Thermal Center. Here, you'll end the day in the healing waters, recharging as the sun slowly sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Papet Vaudois",
+            "tip": "Ein herzhafter Eintopf aus Lauch und Kartoffeln mit Saucisson. Probieren Sie ihn im Restaurant de la Place."
+          },
+          {
+            "name": "Fisch aus dem See",
+            "tip": "Frische Felchen (Féra) aus dem Neuenburgersee, oft als Filet serviert."
+          },
+          {
+            "name": "Käsefondue",
+            "tip": "Ein Klassiker der Region, perfekt für einen gemütlichen Abend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Papet Vaudois",
+            "tip": "Kiadós póréhagyma- és burgonya-egytálétel kolbásszal. Kóstolja meg a Restaurant de la Place-ban!"
+          },
+          {
+            "name": "Tavi hal",
+            "tip": "Friss maréna (Féra) a Neuchâteli-tóból, gyakran filéként tálalva."
+          },
+          {
+            "name": "Sajtfondü",
+            "tip": "A régió klasszikusa, tökéletes egy hangulatos estéhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Papet Vaudois",
+            "tip": "O tocană consistentă de praz și cartofi cu cârnat Saucisson. Încercați-o la Restaurant de la Place."
+          },
+          {
+            "name": "Pește de lac",
+            "tip": "Féra proaspătă din Lacul Neuchâtel, adesea servită ca file."
+          },
+          {
+            "name": "Fondue de brânză",
+            "tip": "Un clasic al regiunii, perfect pentru o seară confortabilă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Papet Vaudois",
+            "tip": "A hearty leek and potato stew with Saucisson sausage. Try it at Restaurant de la Place."
+          },
+          {
+            "name": "Lake Fish",
+            "tip": "Fresh whitefish (Féra) from Lake Neuchâtel, often served as fillets."
+          },
+          {
+            "name": "Cheese Fondue",
+            "tip": "A classic of the region, perfect for a cozy evening."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Neuenburgersees",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie den Sonnenuntergang über dem Wasser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innenhof des Schlosses",
+            "tip": "Eine Oase der Ruhe im Herzen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang der Thièle",
+            "tip": "Ein friedlicher Weg entlang des Flusses, der durch die Stadt fliesst.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Neuchâteli-tó partja",
+            "tip": "Keressen egy csendes padot, és nézze a naplementét a víz felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A kastély udvara",
+            "tip": "A nyugalom oázisa a város szívében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Thièle mentén",
+            "tip": "Békés ösvény a városon átfolyó folyó mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Lacului Neuchâtel",
+            "tip": "Găsiți o bancă liniștită și priviți apusul peste apă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea castelului",
+            "tip": "O oază de liniște în inima orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Thièle",
+            "tip": "O potecă pașnică de-a lungul râului care traversează orașul.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Lake Neuchâtel",
+            "tip": "Find a quiet bench and watch the sunset over the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Castle Courtyard",
+            "tip": "An oasis of calm in the heart of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the Thièle river",
+            "tip": "A peaceful path along the river that flows through the town.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Dienstag- und Samstagmorgen auf dem Pestalozzi-Platz für lokale Produkte."
+          },
+          {
+            "name": "Museumsshop Maison d'Ailleurs",
+            "tip": "Einzigartige Souvenirs und Bücher für Science-Fiction-Liebhaber."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Minden kedden és szombaton reggel a Pestalozzi téren helyi termékekért."
+          },
+          {
+            "name": "Maison d'Ailleurs múzeumbolt",
+            "tip": "Egyedi ajándéktárgyak és könyvek a sci-fi szerelmeseinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare marți și sâmbătă dimineața în Piața Pestalozzi pentru produse locale."
+          },
+          {
+            "name": "Magazinul muzeului Maison d'Ailleurs",
+            "tip": "Suveniruri și cărți unice pentru iubitorii de science-fiction."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Tuesday and Saturday morning in Pestalozzi Square for local products."
+          },
+          {
+            "name": "Maison d'Ailleurs Museum Shop",
+            "tip": "Unique souvenirs and books for science fiction lovers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Museen sind montags geschlossen, prüfen Sie die Öffnungszeiten im Voraus.",
+          "Nehmen Sie Badekleidung und ein Handtuch für das Thermalzentrum mit.",
+          "Ein Spaziergang am Seeufer am Abend ist sehr zu empfehlen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "A legtöbb múzeum hétfőn zárva tart, ellenőrizze a nyitvatartást előre.",
+          "Vigyen magával fürdőruhát és törölközőt a Termálközpontba.",
+          "Egy esti séta a tóparton erősen ajánlott."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele din orașul vechi pot fi denivelate.",
+          "Majoritatea muzeelor sunt închise lunea, verificați programul în avans.",
+          "Luați cu dumneavoastră un costum de baie și un prosop pentru Centrul Termal.",
+          "O plimbare pe malul lacului seara este foarte recomandată."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most museums are closed on Mondays, so check opening hours in advance.",
+          "Bring swimwear and a towel for the Thermal Center.",
+          "An evening stroll along the lakefront is highly recommended."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 8.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pestalozzi-Platz",
+            "hu": "Pestalozzi tér",
+            "ro": "Piața Pestalozzi",
+            "en": "Pestalozzi Square"
+          },
+          "coords": [
+            6.641,
+            46.778
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Mietfahrrad und starten Sie die Tour im Herzen der Stadt.",
+            "hu": "Vegye át a bérelt kerékpárt, és kezdje a túrát a város szívében!",
+            "ro": "Luați-vă bicicleta închiriată și începeți turul în inima orașului.",
+            "en": "Pick up your rental bike and start the tour in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss und Museum von Yverdon",
+            "hu": "Yverdon kastélya és múzeuma",
+            "ro": "Castelul și Muzeul din Yverdon",
+            "en": "Yverdon Castle and Museum"
+          },
+          "coords": [
+            6.6415,
+            46.779
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schliessen Sie Ihr Fahrrad sicher ab, bevor Sie das Schloss erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a kastélyt!",
+            "ro": "Asigurați-vă bicicleta înainte de a explora castelul.",
+            "en": "Lock your bike securely before exploring the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison d'Ailleurs",
+            "hu": "A Máshol Háza",
+            "ro": "Casa de Altundeva",
+            "en": "House of Elsewhere"
+          },
+          "coords": [
+            6.642,
+            46.7783
+          ],
+          "category": "museums",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Welt der Utopien, eine kurze Fahrt vom Schloss entfernt.",
+            "hu": "Merüljön el az utópiák világában, csak egy rövid útra a kastélytól.",
+            "ro": "Cufundați-vă în lumea utopiilor, la o scurtă plimbare de castel.",
+            "en": "Immerse yourself in the world of utopias, a short ride from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhire von Clendy",
+            "hu": "Clendy menhirek",
+            "ro": "Menhirii din Clendy",
+            "en": "Menhirs of Clendy"
+          },
+          "coords": [
+            6.63,
+            46.768
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein mystischer Ort mit 45 Statuenmenhiren aus der Jungsteinzeit.",
+            "hu": "Misztikus hely 45 neolitikus szobormenhirrel.",
+            "ro": "Un loc mistic cu 45 de statui-menhir din neolitic.",
+            "en": "A mystical site with 45 statue-menhirs from the Neolithic period."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Pro Natura Champ-Pittet",
+            "hu": "Champ-Pittet Pro Natura Központ",
+            "ro": "Centrul Pro Natura Champ-Pittet",
+            "en": "Pro Natura Center Champ-Pittet"
+          },
+          "coords": [
+            6.67,
+            46.785
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Geniessen Sie die Naturpfade und die Aussicht auf die Grande Cariçaie.",
+            "hu": "Élvezze a tanösvényeket és a kilátást a Grande Cariçaie-re.",
+            "ro": "Bucurați-vă de potecile naturale și de priveliștea spre Grande Cariçaie.",
+            "en": "Enjoy the nature trails and the view of the Grande Cariçaie."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalzentrum",
+            "hu": "Termálközpont",
+            "ro": "Centrul Termal",
+            "en": "Thermal Center"
+          },
+          "coords": [
+            6.65,
+            46.775
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:49",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die perfekte Belohnung nach einer langen Radtour.",
+            "hu": "Tökéletes jutalom egy hosszú kerékpártúra után.",
+            "ro": "Recompensa perfectă după o plimbare lungă cu bicicleta.",
+            "en": "The perfect reward after a long bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet im Zentrum am Pestalozzi-Platz. Nach kurzen Besuchen im Schloss und im Maison d'Ailleurs schwingen Sie sich auf den Sattel für eine Fahrt zu den prähistorischen Menhiren von Clendy, einem Ort voller Geheimnisse. Am Mittag radeln Sie durch die malerische Landschaft zum Pro Natura Zentrum Champ-Pittet. Erkunden Sie das grösste Seeuferfeuchtgebiet der Schweiz und geniessen Sie ein Picknick in der Natur. Der Nachmittag bringt Sie schliesslich zum Thermalzentrum, wo Sie Ihre Muskeln im warmen Wasser entspannen und die Erlebnisse des Tages Revue passieren lassen.",
+        "hu": "Kerékpártúrája a központban, a Pestalozzi téren kezdődik. A kastély és a Maison d'Ailleurs rövid meglátogatása után nyeregbe pattan, hogy elbiciklizzen a titokzatos Clendy menhirekhez. Délben a festői tájon keresztül teker a Champ-Pittet Pro Natura Központba. Fedezze fel Svájc legnagyobb tóparti vizesélőhelyét, és piknikezzen a természetben! A délután végül a Termálközpontba vezeti, ahol a meleg vízben ellazíthatja izmait, és felidézheti a nap élményeit.",
+        "ro": "Turul pe bicicletă începe în centru, în Piața Pestalozzi. După vizite scurte la castel și la Maison d'Ailleurs, urcați în șa pentru o plimbare spre preistoricii Menhiri din Clendy, un loc plin de mister. La prânz, pedalați prin peisajul pitoresc până la Centrul Pro Natura Champ-Pittet. Explorați cea mai mare zonă umedă riverană din Elveția și bucurați-vă de un picnic în natură. După-amiaza vă aduce în cele din urmă la Centrul Termal, unde vă puteți relaxa mușchii în apa caldă și puteți rememora experiențele zilei.",
+        "en": "Your bike tour starts in the center at Pestalozzi Square. After brief visits to the castle and the Maison d'Ailleurs, you'll hop on your bike for a ride to the prehistoric Menhirs of Clendy, a place full of mystery. At midday, you'll cycle through the picturesque landscape to the Pro Natura Center Champ-Pittet. Explore Switzerland's largest lakeside wetland and enjoy a picnic in nature. The afternoon finally brings you to the Thermal Center, where you can relax your muscles in the warm water and reflect on the day's adventures."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick am See",
+            "tip": "Kaufen Sie lokale Spezialitäten auf dem Markt und geniessen Sie sie am Ufer des Neuenburgersees."
+          },
+          {
+            "name": "La Table de Mary",
+            "tip": "Ein gehobenes Restaurant für ein besonderes Abendessen nach der Tour."
+          },
+          {
+            "name": "Buvette de Champ-Pittet",
+            "tip": "Ein kleiner Imbiss für eine Stärkung während Ihres Besuchs im Naturzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a tónál",
+            "tip": "Vásároljon helyi különlegességeket a piacon, és fogyassza el őket a Neuchâteli-tó partján!"
+          },
+          {
+            "name": "La Table de Mary",
+            "tip": "Elegáns étterem egy különleges vacsorához a túra után."
+          },
+          {
+            "name": "Buvette de Champ-Pittet",
+            "tip": "Egy kis büfé egy frissítőre a természetvédelmi központ látogatása közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic pe malul lacului",
+            "tip": "Cumpărați specialități locale de la piață și savurați-le pe malul Lacului Neuchâtel."
+          },
+          {
+            "name": "La Table de Mary",
+            "tip": "Un restaurant rafinat pentru o cină specială după tur."
+          },
+          {
+            "name": "Buvette de Champ-Pittet",
+            "tip": "O mică gustare pentru a vă reîmprospăta în timpul vizitei la centrul natural."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic by the lake",
+            "tip": "Buy local specialties at the market and enjoy them on the shores of Lake Neuchâtel."
+          },
+          {
+            "name": "La Table de Mary",
+            "tip": "An upscale restaurant for a special dinner after the tour."
+          },
+          {
+            "name": "Buvette de Champ-Pittet",
+            "tip": "A small snack bar for refreshment during your visit to the nature center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Beobachtungstürme in Champ-Pittet",
+            "tip": "Perfekt für die Vogelbeobachtung und um die Stille der Natur zu geniessen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Menhire von Clendy bei Sonnenuntergang",
+            "tip": "Die Steine haben eine besondere Aura in der Abenddämmerung.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Gärten des Thermalzentrums",
+            "tip": "Ein ruhiger Ort zum Entspannen vor oder nach dem Bad.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Megfigyelőtornyok Champ-Pittet-ben",
+            "tip": "Tökéletes madármegfigyeléshez és a természet csendjének élvezetéhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Clendy menhirek naplementekor",
+            "tip": "A köveknek különleges aurájuk van alkonyatkor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Termálközpont kertjei",
+            "tip": "Csendes hely a pihenésre a fürdőzés előtt vagy után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnurile de observație din Champ-Pittet",
+            "tip": "Perfecte pentru observarea păsărilor și pentru a vă bucura de liniștea naturii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Menhirii din Clendy la apus",
+            "tip": "Pietrele au o aură specială la amurg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Centrului Termal",
+            "tip": "Un loc liniștit pentru a vă relaxa înainte sau după baie.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Observation towers in Champ-Pittet",
+            "tip": "Perfect for bird watching and enjoying the silence of nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Menhirs of Clendy at sunset",
+            "tip": "The stones have a special aura at dusk.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The gardens of the Thermal Center",
+            "tip": "A quiet place to relax before or after your swim.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In der Stadt gibt es mehrere Geschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Kaufen Sie eine Flasche Wein aus der nahen Region Bonvillars als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A városban több bolt is található kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Vásároljon egy üveg bort a közeli Bonvillars régióból emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Există mai multe magazine în oraș pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați o sticlă de vin din regiunea apropiată Bonvillars ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "There are several shops in town for accessories or quick repairs."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Buy a bottle of wine from the nearby Bonvillars region as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad im Voraus, besonders an Wochenenden.",
+          "Die Wege rund um den See sind meist flach und gut für Radfahrer geeignet.",
+          "Nehmen Sie eine Wasserflasche und Snacks mit, da es zwischen den Stopps wenig Verpflegungsmöglichkeiten gibt.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Béreljen kerékpárt előre, különösen hétvégén.",
+          "A tó körüli utak többnyire síkak és jól kerékpározhatók.",
+          "Vigyen magával vizes palackot és rágcsálnivalót, mivel a megállók között kevés az ellátási lehetőség.",
+          "Sisak használata erősen ajánlott."
+        ],
+        "ro": [
+          "Închiriați o bicicletă în avans, mai ales în weekend.",
+          "Traseele din jurul lacului sunt în mare parte plate și potrivite pentru bicicliști.",
+          "Luați cu dumneavoastră o sticlă de apă și gustări, deoarece există puține opțiuni de masă între opriri.",
+          "Purtarea căștii este foarte recomandată."
+        ],
+        "en": [
+          "Rent a bike in advance, especially on weekends.",
+          "The paths around the lake are mostly flat and well-suited for cyclists.",
+          "Bring a water bottle and snacks, as there are few refreshment options between stops.",
+          "A helmet is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pestalozzi-Platz",
+            "hu": "Pestalozzi tér",
+            "ro": "Piața Pestalozzi",
+            "en": "Pestalozzi Square"
+          },
+          "coords": [
+            6.641,
+            46.778
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus des Rathauses (Hôtel de Ville) für den ersten Teil der Tour.",
+            "hu": "Parkoljon a Városháza (Hôtel de Ville) parkolóházában a túra első részére.",
+            "ro": "Parcați în parcarea Primăriei (Hôtel de Ville) pentru prima parte a turului.",
+            "en": "Park in the Hôtel de Ville (Town Hall) car park for the first part of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss und Museum von Yverdon",
+            "hu": "Yverdon kastélya és múzeuma",
+            "ro": "Castelul și Muzeul din Yverdon",
+            "en": "Yverdon Castle and Museum"
+          },
+          "coords": [
+            6.6415,
+            46.779
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus. Das Auto kann im Parkhaus bleiben.",
+            "hu": "Rövid séta a térről. Az autó a parkolóházban maradhat.",
+            "ro": "O scurtă plimbare din piață. Mașina poate rămâne în parcare.",
+            "en": "A short walk from the square. The car can stay in the car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple d'Yverdon",
+            "hu": "Yverdon temploma",
+            "ro": "Templul din Yverdon",
+            "en": "Temple of Yverdon"
+          },
+          "coords": [
+            6.6405,
+            46.7785
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gassen der Altstadt auf dem Weg zum Tempel.",
+            "hu": "Fedezze fel az óváros sikátorait a templom felé vezető úton!",
+            "ro": "Explorați străduțele orașului vechi în drum spre templu.",
+            "en": "Explore the alleyways of the old town on your way to the temple."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Pro Natura Champ-Pittet",
+            "hu": "Champ-Pittet Pro Natura Központ",
+            "ro": "Centrul Pro Natura Champ-Pittet",
+            "en": "Pro Natura Center Champ-Pittet"
+          },
+          "coords": [
+            6.67,
+            46.785
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Naturzentrum. Es gibt dort ausreichend Parkplätze.",
+            "hu": "Vezessen a természetvédelmi központhoz. Van ott elegendő parkolóhely.",
+            "ro": "Conduceți spre centrul natural. Există suficiente locuri de parcare acolo.",
+            "en": "Drive to the nature center. There is ample parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Seeufer Champ-Pittet",
+            "hu": "Champ-Pittet tóparti séta",
+            "ro": "Plimbare pe malul lacului Champ-Pittet",
+            "en": "Champ-Pittet Lakeside Walk"
+          },
+          "coords": [
+            6.672,
+            46.786
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:48",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Spaziergang auf den Holzstegen durch das Reservat.",
+            "hu": "Tegyen egy rövid sétát a rezervátumon átvezető fapallókon!",
+            "ro": "Faceți o scurtă plimbare pe pasarelele de lemn prin rezervație.",
+            "en": "Take a short walk on the wooden walkways through the reserve."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalzentrum",
+            "hu": "Termálközpont",
+            "ro": "Centrul Termal",
+            "en": "Thermal Center"
+          },
+          "coords": [
+            6.65,
+            46.775
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages. Ein grosser Parkplatz steht zur Verfügung.",
+            "hu": "A nap utolsó állomása. Nagy parkoló áll rendelkezésre.",
+            "ro": "Ultima oprire a zilei. O parcare mare este disponibilă.",
+            "en": "The last stop of the day. A large car park is available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt bequem mit dem Auto. Parken Sie im Zentrum und erkunden Sie den ersten Cluster – die historische Altstadt – zu Fuss. Vom Pestalozzi-Platz geht es zum Schloss und zum nahegelegenen Tempel. Am Mittag fahren Sie zum zweiten Cluster am Seeufer. Im Pro Natura Zentrum Champ-Pittet tauchen Sie in die Natur ein und machen einen kurzen Spaziergang auf den Holzstegen, bevor Sie zum Auto zurückkehren. Den krönenden Abschluss bildet der dritte Auto-Stopp: eine kurze Fahrt zum Thermalzentrum, wo Sie den Rest des Nachmittags im wohltuenden Wasser verbringen und die Seele baumeln lassen.",
+        "hu": "A nap kényelmesen, autóval kezdődik. Parkoljon a központban, és fedezze fel gyalog az első klasztert – a történelmi óvárost. A Pestalozzi térről a kastélyhoz és a közeli templomhoz sétálhat. Délben autózzon át a második, tóparti klaszterhez. A Champ-Pittet Pro Natura Központban elmerülhet a természetben, és tehet egy rövid sétát a fapallókon, mielőtt visszatérne az autóhoz. A napot a harmadik autós megálló koronázza meg: egy rövid út a Termálközpontba, ahol a délután hátralévő részét a jótékony hatású vízben töltheti, és kikapcsolódhat.",
+        "ro": "Ziua începe confortabil cu mașina. Parcați în centru și explorați primul grup de obiective – centrul istoric – pe jos. Din Piața Pestalozzi, mergeți la castel și la templul din apropiere. La prânz, conduceți spre al doilea grup de pe malul lacului. La Centrul Pro Natura Champ-Pittet, vă cufundați în natură și faceți o scurtă plimbare pe pasarelele de lemn înainte de a vă întoarce la mașină. Finalul apoteotic este a treia oprire cu mașina: o scurtă călătorie spre Centrul Termal, unde vă petreceți restul după-amiezii în apa binefăcătoare, relaxându-vă complet.",
+        "en": "The day begins comfortably by car. Park in the center and explore the first cluster—the historic old town—on foot. From Pestalozzi Square, head to the castle and the nearby temple. At midday, drive to the second cluster on the lakefront. At the Pro Natura Center Champ-Pittet, immerse yourself in nature and take a short walk on the wooden walkways before returning to your car. The grand finale is the third car stop: a short drive to the Thermal Center, where you'll spend the rest of the afternoon unwinding in the soothing waters."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Restaurant du Château",
+            "tip": "Geniessen Sie ein elegantes Mittagessen im historischen Ambiente des Schlosses."
+          },
+          {
+            "name": "Auberge de la Couronne",
+            "tip": "Traditionelle Schweizer Küche in einem charmanten Gasthof ausserhalb des Zentrums."
+          },
+          {
+            "name": "Restaurant im Thermalzentrum",
+            "tip": "Leichte und gesunde Gerichte, ideal für einen Wellnesstag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Restaurant du Château",
+            "tip": "Fogyasszon el egy elegáns ebédet a kastély történelmi környezetében!"
+          },
+          {
+            "name": "Auberge de la Couronne",
+            "tip": "Hagyományos svájci konyha egy bájos, központon kívüli fogadóban."
+          },
+          {
+            "name": "Étterem a Termálközpontban",
+            "tip": "Könnyű és egészséges ételek, ideális egy wellness naphoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Restaurant du Château",
+            "tip": "Bucurați-vă de un prânz elegant în ambianța istorică a castelului."
+          },
+          {
+            "name": "Auberge de la Couronne",
+            "tip": "Bucătărie tradițională elvețiană într-un han fermecător în afara centrului."
+          },
+          {
+            "name": "Restaurant la Centrul Termal",
+            "tip": "Mâncăruri ușoare și sănătoase, ideale pentru o zi de wellness."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Restaurant du Château",
+            "tip": "Enjoy an elegant lunch in the historic ambiance of the castle."
+          },
+          {
+            "name": "Auberge de la Couronne",
+            "tip": "Traditional Swiss cuisine in a charming inn outside the center."
+          },
+          {
+            "name": "Restaurant at the Thermal Center",
+            "tip": "Light and healthy dishes, ideal for a spa day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt am Mont-de-Chamblon",
+            "tip": "Eine kurze Autofahrt für einen Panoramablick über die Stadt und den See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Menhire von Clendy",
+            "tip": "Ein ruhiger, nachdenklicher Ort abseits des Trubels.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Die Gärten des Schlosses",
+            "tip": "Ein verstecktes Juwel für eine ruhige Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a Mont-de-Chamblon-on",
+            "tip": "Rövid autóút egy panorámás kilátásért a városra és a tóra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Clendy menhirek",
+            "tip": "Csendes, elgondolkodtató hely a nyüzsgéstől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A kastély kertjei",
+            "tip": "Rejtett gyöngyszem egy csendes pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la Mont-de-Chamblon",
+            "tip": "O scurtă călătorie cu mașina pentru o vedere panoramică asupra orașului și lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Menhirii din Clendy",
+            "tip": "Un loc liniștit, contemplativ, departe de agitație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile castelului",
+            "tip": "O bijuterie ascunsă pentru o pauză liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at Mont-de-Chamblon",
+            "tip": "A short drive for a panoramic view over the city and the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Menhirs of Clendy",
+            "tip": "A quiet, contemplative spot away from the hustle and bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The Castle Gardens",
+            "tip": "A hidden gem for a quiet break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Halten Sie Ausschau nach Schildern für 'Vente à la ferme', um Käse und Wein direkt vom Erzeuger zu kaufen."
+          },
+          {
+            "name": "Buchhandlung Payot",
+            "tip": "Eine grosse Auswahl an Büchern, auch über die Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Keresse a 'Vente à la ferme' táblákat, hogy sajtot és bort vásároljon közvetlenül a termelőtől."
+          },
+          {
+            "name": "Payot könyvesbolt",
+            "tip": "Nagy könyvválaszték, a régióról szólókkal is."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă din zonă",
+            "tip": "Căutați indicatoarele 'Vente à la ferme' pentru a cumpăra brânză și vin direct de la producător."
+          },
+          {
+            "name": "Librăria Payot",
+            "tip": "O selecție largă de cărți, inclusiv despre regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "Look for 'Vente à la ferme' signs to buy cheese and wine directly from the producer."
+          },
+          {
+            "name": "Payot Bookstore",
+            "tip": "A large selection of books, including about the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkzonen (blaue und weisse Zonen) und verwenden Sie eine Parkscheibe oder bezahlen Sie am Automaten.",
+          "Die Strassen in der Altstadt sind sehr eng; es ist besser, ausserhalb zu parken und zu Fuss zu gehen.",
+          "Tanken Sie ausserhalb der Autobahnen, da die Preise dort in der Regel niedriger sind.",
+          "Ein GPS ist nützlich, um sich zwischen den verschiedenen Standorten zurechtzufinden."
+        ],
+        "hu": [
+          "Figyeljen a parkolási zónákra (kék és fehér zónák), és használjon parkolótárcsát vagy fizessen az automatánál.",
+          "Az óváros utcái nagyon szűkek; jobb kívül parkolni és gyalogolni.",
+          "Tankoljon az autópályákon kívül, mivel az árak ott általában alacsonyabbak.",
+          "GPS hasznos a különböző helyszínek közötti navigáláshoz."
+        ],
+        "ro": [
+          "Fiți atenți la zonele de parcare (zone albastre și albe) și folosiți un disc de parcare sau plătiți la automat.",
+          "Străzile din orașul vechi sunt foarte înguste; este mai bine să parcați în afara acestuia și să mergeți pe jos.",
+          "Alimentați în afara autostrăzilor, deoarece prețurile sunt de obicei mai mici acolo.",
+          "Un GPS este util pentru a naviga între diferitele locații."
+        ],
+        "en": [
+          "Pay attention to parking zones (blue and white zones) and use a parking disc or pay at the meter.",
+          "The streets in the old town are very narrow; it's better to park outside and walk.",
+          "Refuel off the motorways, as prices are usually lower there.",
+          "A GPS is useful for navigating between the different sites."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:37",
+      "total_km": 4.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pestalozzi-Platz",
+            "hu": "Pestalozzi tér",
+            "ro": "Piața Pestalozzi",
+            "en": "Pestalozzi Square"
+          },
+          "coords": [
+            6.641,
+            46.778
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 27,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus sind es nur wenige Gehminuten ins Zentrum.",
+            "hu": "A pályaudvartól csak néhány perc séta a központ.",
+            "ro": "De la gară, centrul este la doar câteva minute de mers pe jos.",
+            "en": "From the train station, it's just a few minutes' walk to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss und Museum von Yverdon",
+            "hu": "Yverdon kastélya és múzeuma",
+            "ro": "Castelul și Muzeul din Yverdon",
+            "en": "Yverdon Castle and Museum"
+          },
+          "coords": [
+            6.6415,
+            46.779
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Alles im historischen Kern ist leicht zu Fuss erreichbar.",
+            "hu": "A történelmi központban minden könnyen elérhető gyalog.",
+            "ro": "Totul în centrul istoric este ușor accesibil pe jos.",
+            "en": "Everything in the historic core is easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison d'Ailleurs",
+            "hu": "A Máshol Háza",
+            "ro": "Casa de Altundeva",
+            "en": "House of Elsewhere"
+          },
+          "coords": [
+            6.642,
+            46.7783
+          ],
+          "category": "museums",
+          "arrive_at": "11:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Museum liegt gleich um die Ecke vom Schloss.",
+            "hu": "A múzeum a kastély sarkánál található.",
+            "ro": "Muzeul se află chiar după colț de castel.",
+            "en": "The museum is just around the corner from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalzentrum",
+            "hu": "Termálközpont",
+            "ro": "Centrul Termal",
+            "en": "Thermal Center"
+          },
+          "coords": [
+            6.65,
+            46.775
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:48",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus der Linie 601 oder 604, um zum Thermalzentrum zu gelangen.",
+            "hu": "A 601-es vagy 604-es busszal juthat el a Termálközpontba.",
+            "ro": "Luați autobuzul 601 sau 604 pentru a ajunge la Centrul Termal.",
+            "en": "Take bus 601 or 604 to get to the Thermal Center."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhire von Clendy",
+            "hu": "Clendy menhirek",
+            "ro": "Menhirii din Clendy",
+            "en": "Menhirs of Clendy"
+          },
+          "coords": [
+            6.63,
+            46.768
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:13",
+          "stay_min": 55,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Spaziergang vom Thermalzentrum aus. Folgen Sie den Schildern.",
+            "hu": "Egy séta a Termálközponttól. Kövesse a táblákat!",
+            "ro": "O plimbare de la Centrul Termal. Urmați indicatoarele.",
+            "en": "A walk from the Thermal Center. Follow the signs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Anreise erfolgt bequem mit dem Zug. Der erste Cluster, die Altstadt, ist vom Bahnhof aus in wenigen Minuten zu Fuss erreichbar. Erkunden Sie den Pestalozzi-Platz, das Schloss und das Maison d'Ailleurs. Am Mittag nehmen Sie den Bus zum zweiten Cluster. Sie fahren zum Thermalzentrum, wo Sie sich im heilenden Wasser entspannen oder ein leichtes Mittagessen geniessen können. Am Nachmittag unternehmen Sie von dort aus einen Spaziergang zu den mystischen Menhiren von Clendy. Am Ende des Tages bringt Sie der Bus bequem zurück zum Bahnhof.",
+        "hu": "Vonattal kényelmesen megérkezhet. Az első klaszter, az óváros, a pályaudvartól néhány perces sétával elérhető. Fedezze fel a Pestalozzi teret, a kastélyt és a Maison d'Ailleurs-t. Délben busszal utazik a második klaszterhez. Eljut a Termálközpontba, ahol pihenhet a gyógyvízben, vagy elfogyaszthat egy könnyű ebédet. Délután onnan sétáljon el a misztikus Clendy menhirekhez. A nap végén a busz kényelmesen visszaviszi Önt a pályaudvarra.",
+        "ro": "Sosiți confortabil cu trenul. Primul grup de obiective, orașul vechi, este accesibil pe jos în câteva minute de la gară. Explorați Piața Pestalozzi, castelul și Maison d'Ailleurs. La prânz, luați autobuzul spre al doilea grup. Vă îndreptați spre Centrul Termal, unde vă puteți relaxa în apa vindecătoare sau puteți lua un prânz ușor. După-amiaza, faceți o plimbare de acolo până la misticii Menhiri din Clendy. La sfârșitul zilei, autobuzul vă duce confortabil înapoi la gară.",
+        "en": "You arrive comfortably by train. The first cluster, the old town, is a few minutes' walk from the station. Explore Pestalozzi Square, the castle, and the Maison d'Ailleurs. At midday, you'll take the bus to the second cluster. Head to the Thermal Center, where you can relax in the healing waters or have a light lunch. In the afternoon, take a walk from there to the mystical Menhirs of Clendy. At the end of the day, the bus will take you comfortably back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Coop Restaurant Bahnhof",
+            "tip": "Eine schnelle und günstige Option für ein Mittagessen in der Nähe des Bahnhofs."
+          },
+          {
+            "name": "Crêperie de la Thièle",
+            "tip": "Süsse und salzige Crêpes für eine leckere Pause in der Altstadt."
+          },
+          {
+            "name": "Bäckereien",
+            "tip": "Holen Sie sich ein Sandwich oder Gebäck für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coop Étterem a pályaudvaron",
+            "tip": "Gyors és olcsó ebédlehetőség a pályaudvar közelében."
+          },
+          {
+            "name": "Crêperie de la Thièle",
+            "tip": "Édes és sós palacsinták egy finom szünethez az óvárosban."
+          },
+          {
+            "name": "Pékségek",
+            "tip": "Vegyen egy szendvicset vagy péksüteményt útközbenre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Coop la gară",
+            "tip": "O opțiune rapidă și ieftină pentru prânz lângă gară."
+          },
+          {
+            "name": "Crêperie de la Thièle",
+            "tip": "Clătite dulci și sărate pentru o pauză delicioasă în orașul vechi."
+          },
+          {
+            "name": "Brutării",
+            "tip": "Luați un sandviș sau un produs de patiserie pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coop Restaurant at the station",
+            "tip": "A quick and affordable option for lunch near the station."
+          },
+          {
+            "name": "Crêperie de la Thièle",
+            "tip": "Sweet and savory crêpes for a tasty break in the old town."
+          },
+          {
+            "name": "Bakeries",
+            "tip": "Grab a sandwich or pastry to go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bibliothek Yverdon",
+            "tip": "Ein ruhiger Ort zum Lesen und Entspannen, in der Nähe des Schlosses.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang des Canal Oriental",
+            "tip": "Ein friedlicher Weg, der vom Zentrum zum See führt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park am Thermalzentrum",
+            "tip": "Entspannen Sie sich auf einer Bank im Grünen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Yverdoni Könyvtár",
+            "tip": "Csendes hely olvasásra és pihenésre, a kastély közelében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Canal Oriental mentén",
+            "tip": "Békés út, amely a központból a tóhoz vezet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park a Termálközpontnál",
+            "tip": "Pihenjen meg egy padon a zöldben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca din Yverdon",
+            "tip": "Un loc liniștit pentru citit și relaxare, lângă castel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul Canal Oriental",
+            "tip": "O cale pașnică ce duce din centru spre lac.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul de la Centrul Termal",
+            "tip": "Relaxați-vă pe o bancă în verdeață.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Yverdon Library",
+            "tip": "A quiet place to read and relax, near the castle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the Canal Oriental",
+            "tip": "A peaceful path leading from the center to the lake.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park at the Thermal Center",
+            "tip": "Relax on a bench in the greenery.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Rue de la Plaine",
+            "tip": "Die Haupteinkaufsstrasse der Stadt für Kleidung und Souvenirs."
+          },
+          {
+            "name": "Fromagerie Le P'tit Vaudois",
+            "tip": "Kaufen Sie lokalen Käse als Andenken an Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Rue de la Plaine-en",
+            "tip": "A város fő bevásárlóutcája ruhákért és ajándéktárgyakért."
+          },
+          {
+            "name": "Fromagerie Le P'tit Vaudois",
+            "tip": "Vásároljon helyi sajtot utazása emlékéül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe Rue de la Plaine",
+            "tip": "Principala stradă comercială a orașului pentru haine și suveniruri."
+          },
+          {
+            "name": "Fromagerie Le P'tit Vaudois",
+            "tip": "Cumpărați brânză locală ca amintire a călătoriei dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Rue de la Plaine",
+            "tip": "The city's main shopping street for clothes and souvenirs."
+          },
+          {
+            "name": "Fromagerie Le P'tit Vaudois",
+            "tip": "Buy some local cheese as a memento of your trip."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel (Zone 90 Mobilis).",
+          "Prüfen Sie den Busfahrplan im Voraus, insbesondere für die Rückfahrt am Abend.",
+          "Die SBB Mobile App ist nützlich für die Planung von Zug- und Busverbindungen.",
+          "Vom Bahnhof aus ist die Altstadt gut ausgeschildert."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez (Zone 90 Mobilis).",
+          "Ellenőrizze előre a buszmenetrendet, különösen az esti visszautazáshoz.",
+          "Az SBB Mobile alkalmazás hasznos a vonat- és buszjáratok tervezéséhez.",
+          "A pályaudvartól az óváros jól ki van táblázva."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public (zona 90 Mobilis).",
+          "Verificați programul autobuzelor în avans, mai ales pentru călătoria de întoarcere seara.",
+          "Aplicația SBB Mobile este utilă pentru planificarea conexiunilor de tren și autobuz.",
+          "De la gară, orașul vechi este bine semnalizat."
+        ],
+        "en": [
+          "Buy a day pass for public transport (Zone 90 Mobilis).",
+          "Check the bus schedule in advance, especially for the return trip in the evening.",
+          "The SBB Mobile app is useful for planning train and bus connections.",
+          "From the train station, the old town is well signposted."
+        ]
+      }
+    }
+  }
+}

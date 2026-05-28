@@ -1,0 +1,1207 @@
+{
+  "city_id": "netherlands-capelle-aan-den-ijssel-cities-v2",
+  "anchor": {
+    "name": "Capelle aan den IJssel",
+    "coords": [
+      4.5792,
+      51.9292
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorpskerk",
+            "hu": "Falusi templom",
+            "ro": "Biserica satului",
+            "en": "Village Church"
+          },
+          "coords": [
+            4.581,
+            51.928
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die wunderschönen Buntglasfenster aus dem 17. Jahrhundert.",
+            "hu": "Figyelje meg a 17. századi gyönyörű ólomüveg ablakokat.",
+            "ro": "Observați frumoasele vitralii din secolul al XVII-lea.",
+            "en": "Note the beautiful 17th-century stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Van Cappellenhuis",
+            "hu": "Van Cappellen-ház",
+            "ro": "Casa Van Cappellen",
+            "en": "Van Cappellen House"
+          },
+          "coords": [
+            4.58,
+            51.927
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Konzertkalender, oft finden hier klassische Musikabende statt.",
+            "hu": "Nézze meg a koncertnaptárat, gyakran tartanak itt komolyzenei esteket.",
+            "ro": "Verificați calendarul concertelor; serile de muzică clasică sunt adesea organizate aici.",
+            "en": "Check the concert calendar; classical music evenings are often held here."
+          }
+        },
+        {
+          "name": {
+            "de": "Dief- en Duifhuisje",
+            "hu": "Tolvaj- és Galamb-házikó",
+            "ro": "Casa Hoțului și a Porumbelului",
+            "en": "Thief and Dove House"
+          },
+          "coords": [
+            4.579,
+            51.9275
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:56",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das kleinste ehemalige Gefängnis der Niederlande, perfekt für ein schnelles Foto.",
+            "hu": "Hollandia legkisebb egykori börtöne, tökéletes egy gyors fotóhoz.",
+            "ro": "Cea mai mică fostă închisoare din Olanda, perfectă pentru o fotografie rapidă.",
+            "en": "The smallest former prison in the Netherlands, perfect for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am De Koperen Molen",
+            "hu": "Ebéd a De Koperen Molennél",
+            "ro": "Prânz la De Koperen Molen",
+            "en": "Lunch at De Koperen Molen"
+          },
+          "coords": [
+            4.568,
+            51.924
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie Pfannkuchen im Restaurant neben dieser historischen Mühle.",
+            "hu": "Kóstoljon meg palacsintát a történelmi malom melletti étteremben.",
+            "ro": "Savurați clătite la restaurantul de lângă această moară istorică.",
+            "en": "Enjoy some pancakes at the restaurant next to this historic mill."
+          }
+        },
+        {
+          "name": {
+            "de": "Isala Theater",
+            "hu": "Isala Színház",
+            "ro": "Teatrul Isala",
+            "en": "Isala Theater"
+          },
+          "coords": [
+            4.575,
+            51.932
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schauen Sie sich die Architektur an, auch wenn Sie keine Vorstellung besuchen.",
+            "hu": "Nézze meg az épületet, még ha nem is megy előadásra.",
+            "ro": "Admirați arhitectura, chiar dacă nu participați la un spectacol.",
+            "en": "Admire the architecture even if you're not attending a show."
+          }
+        },
+        {
+          "name": {
+            "de": "Slotpark",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            4.585,
+            51.935
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für einen ruhigen Spaziergang am Nachmittag am Wasser.",
+            "hu": "Ideális hely egy csendes délutáni sétához a vízparton.",
+            "ro": "Un loc ideal pentru o plimbare liniștită de după-amiază de-a lungul apei.",
+            "en": "An ideal spot for a quiet afternoon walk along the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Capelle und bewundern Sie die alte Dorpskerk und das elegante Van Cappellenhuis. Nach einem kurzen Blick auf das kuriose Dief- en Duifhuisje führt Sie ein Spaziergang zur Mühle De Koperen Molen für ein herzhaftes Mittagessen. Am Nachmittag erkunden Sie die moderne Seite der Stadt am Isala Theater, bevor Sie im ruhigen Slotpark entspannen und den Tag ausklingen lassen.",
+        "hu": "Kezdje a napot Capelle történelmi szívében, csodálja meg a régi falusi templomot és az elegáns Van Cappellen-házat. Miután vetett egy pillantást a különös Tolvaj- és Galamb-házikóra, sétáljon el a De Koperen Molen malomhoz egy kiadós ebédre. Délután fedezze fel a város modern oldalát az Isala Színháznál, mielőtt a békés Kastélyparkban pihenne a nap végén.",
+        "ro": "Începeți ziua în inima istorică a Capelle, admirând vechea Biserică a satului și eleganta Casă Van Cappellen. După o scurtă privire la curioasa Casă a Hoțului și a Porumbelului, o plimbare vă va duce la moara De Koperen Molen pentru un prânz copios. După-amiaza, explorați latura modernă a orașului la Teatrul Isala înainte de a vă relaxa în liniștitul Parc al Castelului pentru a încheia ziua.",
+        "en": "Start your day in the historical heart of Capelle, admiring the old Village Church and the elegant Van Cappellen House. After a quick look at the curious Thief and Dove House, a walk takes you to the De Koperen Molen mill for a hearty lunch. In the afternoon, explore the city's modern side at the Isala Theater before relaxing in the peaceful Castle Park to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pannenkoeken bij De Koperen Molen",
+            "tip": "Traditionelle holländische Pfannkuchen, süß oder herzhaft."
+          },
+          {
+            "name": "Vis aan de IJssel",
+            "tip": "Frischer Hering oder Kibbeling von einem lokalen Fischstand am Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palacsinta a De Koperen Molennél",
+            "tip": "Hagyományos holland palacsinta, édes vagy sós."
+          },
+          {
+            "name": "Hal az IJssel partján",
+            "tip": "Friss hering vagy kibbeling egy helyi halárustól a folyóparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Clătite la De Koperen Molen",
+            "tip": "Clătite tradiționale olandeze, dulci sau sărate."
+          },
+          {
+            "name": "Pește pe malul IJssel",
+            "tip": "Hering proaspăt sau kibbeling de la o tarabă locală de pește de pe râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pancakes at De Koperen Molen",
+            "tip": "Traditional Dutch pancakes, sweet or savory."
+          },
+          {
+            "name": "Fish on the IJssel",
+            "tip": "Fresh herring or kibbeling from a local fish stand by the river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Slotpark",
+            "tip": "Finden Sie eine Bank am Teich und beobachten Sie die Vögel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Ufer der Hollandsche IJssel",
+            "tip": "Genießen Sie die Ruhe des Flusses abseits des Zentrums.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Keressen egy padot a tónál és figyelje a madarakat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a Hollandsche IJssel partján",
+            "tip": "Élvezze a folyó csendjét a központtól távolabb.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Găsiți o bancă lângă iaz și priviți păsările.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul Hollandsche IJssel",
+            "tip": "Bucurați-vă de liniștea râului departe de centru.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Slotpark",
+            "tip": "Find a bench by the pond and watch the birds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk along the Hollandsche IJssel bank",
+            "tip": "Enjoy the tranquility of the river away from the center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt im Zentrum",
+            "tip": "Kaufen Sie lokalen Käse und frische Stroopwafels."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac a központban",
+            "tip": "Vásároljon helyi sajtot és friss stroopwafelt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din centru",
+            "tip": "Cumpărați brânză locală și stroopwafels proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly market in the center",
+            "tip": "Buy local cheese and fresh stroopwafels."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster im alten Zentrum uneben sein kann.",
+          "Prüfen Sie die Öffnungszeiten, da einige kleinere Attraktionen nur begrenzt geöffnet sind."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő az óvárosban egyenetlen lehet.",
+          "Ellenőrizze a nyitvatartási időket, mivel néhány kisebb látnivaló korlátozottan tart nyitva."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Verificați programul de funcționare, deoarece unele atracții mai mici pot avea program limitat."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old center can be uneven.",
+          "Check opening times, as some smaller attractions may have limited hours."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 19.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Algerabrug Aussichtspunkt",
+            "hu": "Algerabrug kilátópont",
+            "ro": "Punct de observare Algerabrug",
+            "en": "Algerabrug Viewpoint"
+          },
+          "coords": [
+            4.56,
+            51.91
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um den Tag mit Blick auf den Fluss und die Sturmflutwehranlage zu beginnen.",
+            "hu": "Nagyszerű hely a napkezdéshez, kilátással a folyóra és az árvízvédelmi gátra.",
+            "ro": "Un loc minunat pentru a începe ziua cu o vedere asupra râului și a barierei de furtună.",
+            "en": "A great spot to start the day with views of the river and the storm surge barrier."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorpskerk",
+            "hu": "Falusi templom",
+            "ro": "Biserica satului",
+            "en": "Village Church"
+          },
+          "coords": [
+            4.581,
+            51.928
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, um das historische Zentrum zu erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, hogy felfedezhesse a történelmi központot.",
+            "ro": "Asigurați-vă bicicleta pentru a explora centrul istoric.",
+            "en": "Lock your bike securely to explore the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Van Cappellenhuis & Mittagessen",
+            "hu": "Van Cappellen-ház & Ebéd",
+            "ro": "Casa Van Cappellen & Prânz",
+            "en": "Van Cappellen House & Lunch"
+          },
+          "coords": [
+            4.58,
+            51.927
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen in einem der Cafés in der Nähe, bevor Sie weiterfahren.",
+            "hu": "Ebédeljen meg az egyik közeli kávézóban, mielőtt tovább indul.",
+            "ro": "Savurați prânzul la una dintre cafenelele din apropiere înainte de a continua.",
+            "en": "Enjoy lunch at one of the nearby cafes before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "De Koperen Molen",
+            "hu": "A Rézmalom",
+            "ro": "Moara de Cupru",
+            "en": "The Copper Mill"
+          },
+          "coords": [
+            4.568,
+            51.924
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein interessanter Stopp, um mehr über die industrielle Vergangenheit der Region zu erfahren.",
+            "hu": "Érdekes megálló, hogy többet tudjon meg a régió ipari múltjáról.",
+            "ro": "O oprire interesantă pentru a afla despre trecutul industrial al zonei.",
+            "en": "An interesting stop to learn about the area's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Isala Theater",
+            "hu": "Isala Színház",
+            "ro": "Teatrul Isala",
+            "en": "Isala Theater"
+          },
+          "coords": [
+            4.575,
+            51.932
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:51",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von der modernen Architektur dieses Kulturzentrums.",
+            "hu": "Fotózza le ennek a kulturális központnak a modern építészetét.",
+            "ro": "Faceți o fotografie a arhitecturii moderne a acestui centru cultural.",
+            "en": "Take a photo of the modern architecture of this cultural hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Slotpark",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            4.585,
+            51.935
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine kurze Pause und um die Beine nach der Radtour zu strecken.",
+            "hu": "Tökéletes egy rövid szünetre és a lábak kinyújtóztatására a kerékpározás után.",
+            "ro": "Perfect pentru o scurtă pauză și pentru a vă întinde picioarele după plimbarea cu bicicleta.",
+            "en": "Perfect for a short break and to stretch your legs after cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Hitland",
+            "hu": "Kerékpártúra Hitlandbe",
+            "ro": "Plimbare cu bicicleta la Hitland",
+            "en": "Ride to Hitland"
+          },
+          "coords": [
+            4.62,
+            51.945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:58",
+          "stay_min": 141,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 12.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Natur und die weiten Landschaften dieses Erholungsgebiets.",
+            "hu": "Élvezze a természetet és a tágas tájat ebben a rekreációs területben.",
+            "ro": "Bucurați-vă de natură și de peisajele vaste ale acestei zone de agrement.",
+            "en": "Enjoy nature and the wide landscapes of this recreational area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit einer beeindruckenden Aussicht von der Algerabrug. Fahren Sie dann ins historische Zentrum, um die Dorpskerk und das Van Cappellenhuis zu besichtigen, wo Sie zu Mittag essen. Am Nachmittag radeln Sie vorbei an Industriedenkmälern wie De Koperen Molen und moderner Architektur am Isala Theater. Nach einer kurzen Pause im Slotpark unternehmen Sie eine längere Tour in das weitläufige Naturgebiet Hitland, um den Tag in der Natur ausklingen zu lassen.",
+        "hu": "Kezdje a kerékpártúrát lenyűgöző kilátással az Algerabrug hídról. Tekerjen be a történelmi központba, nézze meg a falusi templomot és a Van Cappellen-házat, ahol megebédelhet. Délután elhalad ipari emlékek, mint a De Koperen Molen, és modern építészet, mint az Isala Színház mellett. Egy rövid pihenő után a Kastélyparkban tegyen egy hosszabb túrát a tágas Hitland természetvédelmi területre, hogy a természetben fejezze be a napot.",
+        "ro": "Începeți turul cu bicicleta cu o priveliște impresionantă de pe podul Algerabrug. Apoi pedalați spre centrul istoric pentru a vedea Biserica satului și Casa Van Cappellen, unde veți lua prânzul. După-amiaza, treceți pe lângă monumente industriale precum De Koperen Molen și arhitectura modernă de la Teatrul Isala. După o scurtă pauză în Parcul Castelului, faceți un tur mai lung în vasta zonă naturală Hitland pentru a încheia ziua în natură.",
+        "en": "Start your bike tour with an impressive view from the Algerabrug bridge. Then cycle to the historic center to see the Village Church and Van Cappellen House, where you'll have lunch. In the afternoon, ride past industrial monuments like De Koperen Molen and modern architecture at the Isala Theater. After a short break in Slotpark, take a longer tour into the vast Hitland nature area to end the day surrounded by nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café in der Dorpsstraat",
+            "tip": "Ein Sandwich oder ein Stück Apfelkuchen zur Mittagszeit."
+          },
+          {
+            "name": "Wasserflasche auffüllen",
+            "tip": "Bleiben Sie hydriert, besonders vor der langen Fahrt nach Hitland."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézó a Dorpsstraaton",
+            "tip": "Egy szendvics vagy egy szelet almatorta ebédidőben."
+          },
+          {
+            "name": "Vizes palack feltöltése",
+            "tip": "Maradjon hidratált, különösen a Hitlandbe vezető hosszú út előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea pe Dorpsstraat",
+            "tip": "Un sandviș sau o felie de plăcintă cu mere la prânz."
+          },
+          {
+            "name": "Umpleți sticla cu apă",
+            "tip": "Rămâneți hidratat, mai ales înainte de lunga călătorie spre Hitland."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café on Dorpsstraat",
+            "tip": "A sandwich or a slice of apple pie at lunchtime."
+          },
+          {
+            "name": "Refill water bottle",
+            "tip": "Stay hydrated, especially before the long ride to Hitland."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hitland",
+            "tip": "Finden Sie einen ruhigen Weg und genießen Sie die Stille der Polderlandschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Uferweg entlang der IJssel",
+            "tip": "Eine friedliche Route mit schönen Ausblicken auf das Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hitland",
+            "tip": "Keressen egy csendes ösvényt, és élvezze a polder táj csendjét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parti út az IJssel mentén",
+            "tip": "Békés útvonal, gyönyörű kilátással a vízre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hitland",
+            "tip": "Găsiți o potecă liniștită și bucurați-vă de liniștea peisajului polder.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Traseu pe malul râului IJssel",
+            "tip": "Un traseu pașnic cu vederi frumoase la apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hitland",
+            "tip": "Find a quiet path and enjoy the silence of the polder landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bankside path along the IJssel",
+            "tip": "A peaceful route with beautiful views of the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen",
+            "tip": "Für den Fall, dass Sie einen Ersatzschlauch oder Zubehör benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha pótalkatrészre vagy kiegészítőre lenne szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "În caz că aveți nevoie de o cameră de rezervă sau de accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop",
+            "tip": "In case you need a spare tube or accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut ausgebauten Radwege, achten Sie aber auf andere Radfahrer.",
+          "Eine Windjacke ist auch an sonnigen Tagen empfehlenswert, besonders in den offenen Gebieten wie Hitland."
+        ],
+        "hu": [
+          "Használja a jól kiépített kerékpárutakat, de figyeljen a többi kerékpárosra.",
+          "Széldzseki napos napokon is ajánlott, különösen a nyílt területeken, mint a Hitland."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete bine dezvoltate, dar fiți atenți la ceilalți bicicliști.",
+          "O jachetă de vânt este recomandată chiar și în zilele însorite, mai ales în zonele deschise precum Hitland."
+        ],
+        "en": [
+          "Use the well-developed cycle paths, but be aware of other cyclists.",
+          "A wind jacket is recommended even on sunny days, especially in open areas like Hitland."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 24.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Naturgebiet Hitland (Cluster A)",
+            "hu": "Hitland Természetvédelmi Terület (A csoport)",
+            "ro": "Rezervația Naturală Hitland (Cluster A)",
+            "en": "Hitland Nature Area (Cluster A)"
+          },
+          "coords": [
+            4.62,
+            51.945
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Hauptparkplatz und machen Sie einen belebenden Morgenspaziergang.",
+            "hu": "Parkoljon a fő parkolóban, és tegyen egy élénkítő reggeli sétát.",
+            "ro": "Parcați în parcarea principală și faceți o plimbare revigorantă de dimineață.",
+            "en": "Park at the main entrance and take an invigorating morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt ins Zentrum (Cluster B)",
+            "hu": "Utazás a központba (B csoport)",
+            "ro": "Călătorie spre centru (Cluster B)",
+            "en": "Drive to Center (Cluster B)"
+          },
+          "coords": [
+            4.581,
+            51.928
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:03",
+          "stay_min": 45,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 10.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Dorpskerk; von hier aus erkunden Sie zu Fuß.",
+            "hu": "Parkoljon a Dorpskerk közelében; innen gyalog fedezze fel a környéket.",
+            "ro": "Parcați lângă Dorpskerk; de aici explorați pe jos.",
+            "en": "Park near the Dorpskerk; you'll explore from here on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Van Cappellenhuis & Dief- en Duifhuisje",
+            "hu": "Van Cappellen-ház és Tolvaj-házikó",
+            "ro": "Casa Van Cappellen & Casa Hoțului",
+            "en": "Van Cappellen House & Thief's House"
+          },
+          "coords": [
+            4.58,
+            51.927
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden historischen Stätten liegen nur einen kurzen Spaziergang voneinander entfernt.",
+            "hu": "Ez a két történelmi helyszín csak egy rövid sétára van egymástól.",
+            "ro": "Aceste două situri istorice sunt la o scurtă plimbare una de cealaltă.",
+            "en": "These two historic sites are just a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im historischen Zentrum",
+            "hu": "Ebéd a történelmi központban",
+            "ro": "Prânz în centrul istoric",
+            "en": "Lunch in the historic center"
+          },
+          "coords": [
+            4.579,
+            51.928
+          ],
+          "category": "gastro",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant in der Dorpsstraat für eine authentische Atmosphäre.",
+            "hu": "Válasszon egy éttermet a Dorpsstraaton az autentikus hangulatért.",
+            "ro": "Alegeți un restaurant pe Dorpsstraat pentru o atmosferă autentică.",
+            "en": "Choose a restaurant on Dorpsstraat for an authentic atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Algerabrug (Cluster C)",
+            "hu": "Utazás az Algerabrug-hídhoz (C csoport)",
+            "ro": "Călătorie spre podul Algerabrug (Cluster C)",
+            "en": "Drive to Algerabrug (Cluster C)"
+          },
+          "coords": [
+            4.56,
+            51.91
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:52",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Aussichtspunkt, um die Ingenieurskunst der Brücke zu bewundern.",
+            "hu": "Parkoljon a kilátópontnál, hogy megcsodálhassa a híd mérnöki munkáját.",
+            "ro": "Parcați la punctul de observare pentru a admira ingineria podului.",
+            "en": "Park at the viewpoint to admire the bridge's engineering."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaffee bei De Koperen Molen",
+            "hu": "Kávé a De Koperen Molennél",
+            "ro": "Cafea la De Koperen Molen",
+            "en": "Coffee at De Koperen Molen"
+          },
+          "coords": [
+            4.568,
+            51.924
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:26",
+          "stay_min": 93,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss des Tages bei der historischen Mühle.",
+            "hu": "A nap pihentető lezárása a történelmi malomnál.",
+            "ro": "O încheiere relaxantă a zilei la moara istorică.",
+            "en": "A relaxing end to the day at the historic mill."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit frischer Luft im weitläufigen Naturgebiet Hitland. Fahren Sie dann ins Herz von Capelle, parken Sie Ihr Auto und erkunden Sie zu Fuß das historische Cluster um die Dorpskerk und das Van Cappellenhuis, gefolgt von einem gemütlichen Mittagessen. Am Nachmittag fahren Sie zur imposanten Algerabrug für einen Panoramablick. Beenden Sie Ihre Tour mit einem Spaziergang von der Brücke zur alten Mühle De Koperen Molen für einen Kaffee und einen letzten Blick auf das industrielle Erbe.",
+        "hu": "Kezdje a napot friss levegővel a tágas Hitland természetvédelmi területen. Ezután hajtson be Capelle szívébe, parkolja le az autóját, és fedezze fel gyalog a Dorpskerk és a Van Cappellen-ház körüli történelmi negyedet, majd ebédeljen egy jót. Délután vezessen el a lenyűgöző Algerabrug hídhoz a panorámás kilátásért. Fejezze be a túrát egy sétával a hídtól a régi De Koperen Molen malomig egy kávéra és egy utolsó pillantásra az ipari örökségre.",
+        "ro": "Începeți ziua cu aer curat în vasta rezervație naturală Hitland. Apoi conduceți în inima orașului Capelle, parcați mașina și explorați pe jos grupul istoric din jurul Bisericii satului și a Casei Van Cappellen, urmat de un prânz relaxant. După-amiaza, conduceți la impunătorul pod Algerabrug pentru o vedere panoramică. Încheiați turul cu o plimbare de la pod la vechea moară De Koperen Molen pentru o cafea și o ultimă privire asupra patrimoniului industrial.",
+        "en": "Start the day with fresh air in the vast Hitland nature area. Then drive into the heart of Capelle, park your car, and explore the historic cluster around the Village Church and Van Cappellen House on foot, followed by a leisurely lunch. In the afternoon, drive to the impressive Algerabrug bridge for a panoramic view. End your tour with a walk from the bridge to the old De Koperen Molen mill for a coffee and a final look at the industrial heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant in der Dorpsstraat",
+            "tip": "Probieren Sie ein lokales Gericht in einem der charmanten Restaurants."
+          },
+          {
+            "name": "Bäckerei für einen 'Broodje'",
+            "tip": "Ein typisch holländisches Sandwich für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Dorpsstraaton",
+            "tip": "Kóstoljon meg egy helyi ételt az egyik bájos étteremben."
+          },
+          {
+            "name": "Pékség egy 'Broodje'-ért",
+            "tip": "Tipikus holland szendvics útközbenre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe Dorpsstraat",
+            "tip": "Încercați un fel de mâncare local într-unul dintre restaurantele fermecătoare."
+          },
+          {
+            "name": "Brutărie pentru un 'Broodje'",
+            "tip": "Un sandviș tipic olandez pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant on Dorpsstraat",
+            "tip": "Try a local dish in one of the charming restaurants."
+          },
+          {
+            "name": "Bakery for a 'Broodje'",
+            "tip": "A typical Dutch sandwich to go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hitland Naturgebiet",
+            "tip": "Die Weite der Landschaft bietet viele ruhige Ecken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von der Algerabrug",
+            "tip": "Beobachten Sie die Schiffe, die auf dem Fluss vorbeiziehen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hitland természetvédelmi terület",
+            "tip": "A táj tágassága sok csendes zugot kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az Algerabrugról",
+            "tip": "Nézze a folyón elhaladó hajókat.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Naturală Hitland",
+            "tip": "Vastitatea peisajului oferă multe colțuri liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de pe podul Algerabrug",
+            "tip": "Urmăriți navele care trec pe râu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hitland Nature Area",
+            "tip": "The vastness of the landscape offers many quiet corners.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Algerabrug",
+            "tip": "Watch the ships passing on the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen bei Hitland",
+            "tip": "Suchen Sie nach lokalen Produkten wie Käse oder Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gazdasági bolt Hitland közelében",
+            "tip": "Keressen helyi termékeket, például sajtot vagy mézet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin agricol lângă Hitland",
+            "tip": "Căutați produse locale, cum ar fi brânză sau miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shop near Hitland",
+            "tip": "Look for local produce like cheese or honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie 'Park & Ride'-Möglichkeiten, um das Zentrum stressfrei zu erkunden.",
+          "Achten Sie auf die blauen Zonen, in denen Sie mit einer Parkscheibe für eine begrenzte Zeit kostenlos parken können."
+        ],
+        "hu": [
+          "Használja a 'Park & Ride' lehetőségeket a központ stresszmentes felfedezéséhez.",
+          "Figyeljen a kék zónákra, ahol parkolótárcsával korlátozott ideig ingyenesen parkolhat."
+        ],
+        "ro": [
+          "Folosiți opțiunile 'Park & Ride' pentru a explora centrul fără stres.",
+          "Fiți atenți la zonele albastre unde puteți parca gratuit pentru o perioadă limitată cu un disc de parcare."
+        ],
+        "en": [
+          "Use 'Park & Ride' options to explore the center without stress.",
+          "Pay attention to blue zones where you can park for free for a limited time with a parking disc."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Centrum (Cluster A)",
+            "hu": "Érkezés a központba (A csoport)",
+            "ro": "Sosire în Centru (Cluster A)",
+            "en": "Arrival at Centrum (Cluster A)"
+          },
+          "coords": [
+            4.575,
+            51.932
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Isala Theater, einem zentralen Verkehrsknotenpunkt.",
+            "hu": "Kezdje az Isala Színháznál, egy központi közlekedési csomópontnál.",
+            "ro": "Începeți de la Teatrul Isala, un nod central de transport.",
+            "en": "Start at the Isala Theater, a central transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Slotpark",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            4.585,
+            51.935
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Theater entfernt, ideal für einen ruhigen Start in den Tag.",
+            "hu": "Rövid sétára a színháztól, ideális a nap nyugodt kezdéséhez.",
+            "ro": "La o scurtă plimbare de teatru, ideal pentru un început liniștit de zi.",
+            "en": "A short walk from the theater, ideal for a quiet start to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt ins alte Dorf (Cluster B)",
+            "hu": "Utazás az ófaluba (B csoport)",
+            "ro": "Călătorie spre satul vechi (Cluster B)",
+            "en": "Trip to the Old Village (Cluster B)"
+          },
+          "coords": [
+            4.581,
+            51.928
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zur Haltestelle 'Dorpskerk'.",
+            "hu": "Menjen busszal a 'Dorpskerk' megállóig.",
+            "ro": "Luați autobuzul până la stația 'Dorpskerk'.",
+            "en": "Take the bus to the 'Dorpskerk' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Van Cappellenhuis & Mittagessen",
+            "hu": "Van Cappellen-ház & Ebéd",
+            "ro": "Casa Van Cappellen & Prânz",
+            "en": "Van Cappellen House & Lunch"
+          },
+          "coords": [
+            4.58,
+            51.927
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:07",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Haus und genießen Sie anschließend ein Mittagessen in der Nähe.",
+            "hu": "Fedezze fel a házat, majd ebédeljen a közelben.",
+            "ro": "Explorați casa și apoi bucurați-vă de prânz în apropiere.",
+            "en": "Explore the house and then enjoy lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Mühle (Cluster C)",
+            "hu": "Utazás a malomhoz (C csoport)",
+            "ro": "Călătorie la moară (Cluster C)",
+            "en": "Trip to the Mill (Cluster C)"
+          },
+          "coords": [
+            4.568,
+            51.924
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:03",
+          "stay_min": 50,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein weiterer kurzer Bus-Trip bringt Sie zu diesem historischen Wahrzeichen.",
+            "hu": "Egy újabb rövid buszút visz el ehhez a történelmi nevezetességhez.",
+            "ro": "O altă scurtă călătorie cu autobuzul vă duce la acest punct de reper istoric.",
+            "en": "Another short bus trip takes you to this historic landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Algerabrug",
+            "hu": "Séta az Algerabrug-hídhoz",
+            "ro": "Plimbare la podul Algerabrug",
+            "en": "Walk to Algerabrug"
+          },
+          "coords": [
+            4.56,
+            51.91
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:23",
+          "stay_min": 82,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang zur Brücke für eine tolle Aussicht.",
+            "hu": "Fejezze be a napot egy sétával a hídhoz a nagyszerű kilátásért.",
+            "ro": "Încheiați ziua cu o plimbare la pod pentru o priveliște minunată.",
+            "en": "End the day with a walk to the bridge for a great view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour beginnt mit öffentlichen Verkehrsmitteln am modernen Isala Theater, gefolgt von einem Spaziergang zum ruhigen Slotpark. Nehmen Sie dann einen Bus ins alte Dorfzentrum, um die historische Dorpskerk und das Van Cappellenhuis zu erkunden und zu Mittag zu essen. Am Nachmittag bringt Sie ein weiterer Bus zur alten Mühle De Koperen Molen. Ein letzter Spaziergang führt Sie zur Algerabrug, wo Sie den Tag mit einem weiten Blick über den Fluss ausklingen lassen.",
+        "hu": "A túra a modern Isala Színháznál kezdődik tömegközlekedéssel, majd egy séta következik a békés Kastélyparkba. Ezután busszal utazzon az ófalu központjába, hogy felfedezze a történelmi falusi templomot és a Van Cappellen-házat, majd ebédeljen. Délután egy másik busz viszi el a régi De Koperen Molen malomhoz. Egy utolsó séta vezet az Algerabrug hídhoz, ahol a folyóra nyíló széles kilátással zárul a nap.",
+        "ro": "Turul dumneavoastră începe cu transportul public la modernul Teatru Isala, urmat de o plimbare până la liniștitul Parc al Castelului. Apoi luați un autobuz spre centrul vechi al satului pentru a explora istorica Biserică a satului și Casa Van Cappellen și pentru a lua prânzul. După-amiaza, un alt autobuz vă va duce la vechea moară De Koperen Molen. O ultimă plimbare vă va duce la podul Algerabrug, încheind ziua cu o priveliște vastă asupra râului.",
+        "en": "Your tour starts by public transport at the modern Isala Theater, followed by a walk to the peaceful Slotpark. Then, take a bus to the old village center to explore the historic Village Church and Van Cappellen House, and have lunch. In the afternoon, another bus takes you to the old De Koperen Molen mill. A final walk leads you to the Algerabrug bridge, ending the day with a wide view over the river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro im alten Dorf",
+            "tip": "Ein idealer Ort für ein entspanntes Mittagessen."
+          },
+          {
+            "name": "Snackbar für Frites Speciaal",
+            "tip": "Ein klassischer holländischer Snack für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bisztró az ófaluban",
+            "tip": "Ideális hely egy pihentető ebédhez."
+          },
+          {
+            "name": "Büfé egy Frites Speciaal-ért",
+            "tip": "Klasszikus holland snack útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro în satul vechi",
+            "tip": "Un loc ideal pentru un prânz relaxant."
+          },
+          {
+            "name": "Snack bar pentru Frites Speciaal",
+            "tip": "O gustare olandeză clasică pentru între mese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro in the old village",
+            "tip": "An ideal spot for a relaxing lunch."
+          },
+          {
+            "name": "Snack bar for Frites Speciaal",
+            "tip": "A classic Dutch snack for on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Slotpark am Morgen",
+            "tip": "Genießen Sie die Stille, bevor die Stadt erwacht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Hollandsche IJssel",
+            "tip": "Finden Sie eine Bank und schauen Sie den Booten zu.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark reggel",
+            "tip": "Élvezze a csendet, mielőtt a város felébred.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Hollandsche IJssel partja",
+            "tip": "Keressen egy padot és nézze a hajókat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului dimineața",
+            "tip": "Bucurați-vă de liniște înainte ca orașul să se trezească.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Hollandsche IJssel",
+            "tip": "Găsiți o bancă și priviți bărcile.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Slotpark in the morning",
+            "tip": "Enjoy the quiet before the city wakes up.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Hollandsche IJssel",
+            "tip": "Find a bench and watch the boats.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Stadsplein",
+            "tip": "In der Nähe des Isala Theaters finden Sie eine Auswahl an Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a Stadspleinen",
+            "tip": "Az Isala Színház közelében üzletek széles választékát találja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Stadsplein",
+            "tip": "Veți găsi o selecție de magazine lângă Teatrul Isala."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops at Stadsplein",
+            "tip": "You'll find a selection of shops near the Isala Theater."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte (Dagkaart) für unbegrenzte Fahrten mit Bus und U-Bahn in der Region.",
+          "Verwenden Sie eine ÖPNV-App wie 9292, um Ihre Routen in Echtzeit zu planen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet (Dagkaart) a korlátlan busz- és metróutazáshoz a régióban.",
+          "Használjon egy tömegközlekedési alkalmazást, mint a 9292, hogy valós időben tervezze meg az útvonalait."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi (Dagkaart) pentru călătorii nelimitate cu autobuzul și metroul în regiune.",
+          "Utilizați o aplicație de transport public precum 9292 pentru a vă planifica rutele în timp real."
+        ],
+        "en": [
+          "Buy a day ticket (Dagkaart) for unlimited bus and metro travel in the region.",
+          "Use a public transport app like 9292 to plan your routes in real-time."
+        ]
+      }
+    }
+  }
+}

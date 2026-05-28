@@ -1,0 +1,926 @@
+{
+  "city_id": "finland-kajaani-cities-v2",
+  "anchor": {
+    "name": "Kajaani",
+    "coords": [
+      27.725,
+      64.225
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 1.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Marktplatz",
+          "coords": [
+            27.727,
+            64.225
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Idealer Ort für einen morgendlichen Kaffee.",
+            "hu": "Ideális helyszín egy reggeli kávéhoz.",
+            "ro": "Locul ideal pentru o cafea de dimineață.",
+            "en": "Ideal spot for a morning coffee."
+          }
+        },
+        {
+          "name": "Eino Leino Statue",
+          "coords": [
+            27.726,
+            64.225
+          ],
+          "category": "monuments",
+          "arrive_at": "09:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Denkmal des berühmten finnischen Dichters.",
+            "hu": "A híres finn költő emlékműve.",
+            "ro": "Monumentul celebrului poet finlandez.",
+            "en": "Monument of the famous Finnish poet."
+          }
+        },
+        {
+          "name": "Kunstmuseum Kajaani",
+          "coords": [
+            27.728,
+            64.225
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fokus auf regionale Kunst der Kainuu-Region.",
+            "hu": "A Kainuu régió művészetére fókuszál.",
+            "ro": "Se concentrează pe arta regională din Kainuu.",
+            "en": "Focuses on regional art of the Kainuu area."
+          }
+        },
+        {
+          "name": "Kainuu Museum",
+          "coords": [
+            27.73,
+            64.226
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ausstellung zur Teerproduktion und Holzindustrie.",
+            "hu": "Kátránytermelést és faipart bemutató tárlat.",
+            "ro": "Expoziție despre producția de gudron și industria lemnului.",
+            "en": "Exhibition on tar production and the wood industry."
+          }
+        },
+        {
+          "name": "Burgruine Kajaani",
+          "coords": [
+            27.731,
+            64.228
+          ],
+          "category": "castles",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ruinen der Burg aus dem 17. Jahrhundert auf der Insel.",
+            "hu": "A 17. századi vár romjai a folyó szigetén.",
+            "ro": "Ruinele castelului din secolul al XVII-lea de pe insulă.",
+            "en": "Ruins of the 17th-century castle on the island."
+          }
+        },
+        {
+          "name": "Fluss Kajaani",
+          "coords": [
+            27.735,
+            64.227
+          ],
+          "category": "natural features",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beliebter Ort zum Spazieren entlang der Stromschnellen.",
+            "hu": "Kedvelt sétálóhely a zúgók mentén.",
+            "ro": "Loc popular pentru plimbări de-a lungul cascadelor.",
+            "en": "Popular spot for walking along the rapids."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt zentral am Marktplatz von Kajaani, gefolgt von einem kurzen Stopp an der Eino-Leino-Statue. Am Vormittag tauchen wir im Kunstmuseum in die Kulturszene der Kainuu-Region ein. Nach dem Mittagessen erkunden wir im Kainuu Museum die Geschichte der Teerproduktion. Der Nachmittag gehört der historischen Burgruine Kajaani auf ihrer Insel. Den Ausklang bildet ein Spaziergang entlang des Kajaani-Flusses.",
+        "hu": "A napot Kajaani központi piacán kezdjük, majd az Eino Leino szobor következik. Délelőtt a Művészeti Múzeumban a Kainuu régió alkotásaival ismerkedünk. Ebéd után a Kainuu Múzeum mutatja be a helyi kátrányipar történetét. Délután a folyó szigetén fekvő, 17. századi várromot fedezzük fel. A napot egy nyugodt séta zárja a Kajaani-folyó zúgói mentén.",
+        "ro": "Ziua începe central în Piața Kajaani, urmată de o scurtă oprire la statuia lui Eino Leino. Dimineața explorăm arta regiunii Kainuu la Muzeul de Artă. După prânz, Muzeul Kainuu prezintă istoria producției de gudron. După-amiaza este dedicată ruinelor istorice ale Castelului Kajaani de pe insula sa. Finalul zilei aduce o plimbare relaxantă de-a lungul râului Kajaani.",
+        "en": "The day begins at the central Market Square, followed by a quick stop at the Eino Leino Statue. In the morning, we explore the Kainuu region's art scene at the Art Museum. After lunch, the Kainuu Museum offers insights into the local tar production history. The afternoon is dedicated to the historical Kajaani Castle ruins on their river island. The day concludes with a walk along the Kajaani River."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kainuun rönttönen",
+            "tip": "Süßes Beerengebäck mit Roggenkruste."
+          },
+          {
+            "name": "Lohikeitto",
+            "tip": "Traditionelle cremige Lachssuppe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kainuun rönttönen",
+            "tip": "Édes erdei bogyós péksütemény rozstésztában."
+          },
+          {
+            "name": "Lohikeitto",
+            "tip": "Hagyományos krémes lazacleves."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kainuun rönttönen",
+            "tip": "Patiserie dulce cu fructe de pădure și crustă de secară."
+          },
+          {
+            "name": "Lohikeitto",
+            "tip": "Supă tradițională cremoasă de somon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kainuun rönttönen",
+            "tip": "Sweet berry pastry with a rye crust."
+          },
+          {
+            "name": "Lohikeitto",
+            "tip": "Traditional creamy salmon soup."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer am Kajaani",
+            "tip": "Ruhiger Weg am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kajaani folyópart",
+            "tip": "Csendes ösvény a víz mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Kajaani",
+            "tip": "Cărare liniștită lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kajaani River bank",
+            "tip": "Quiet path along the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz",
+            "tip": "Lokale Handwerkskunst und frische Beeren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piactér",
+            "tip": "Helyi kézműves termékek és friss bogyós gyümölcsök."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața",
+            "tip": "Artizanat local și fructe de pădure proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square",
+            "tip": "Local crafts and fresh berries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Zentrum lässt sich sehr gut zu Fuß erkunden.",
+          "Die Burgruine ist ganzjährig frei zugänglich.",
+          "Warme Kleidung ist auch im Sommer am Wasser empfehlenswert."
+        ],
+        "hu": [
+          "A központ nagyon könnyen bejárható gyalog.",
+          "A várrom egész évben szabadon látogatható.",
+          "Meleg ruházat nyáron is ajánlott a vízparton."
+        ],
+        "ro": [
+          "Centrul orașului se explorează foarte ușor pe jos.",
+          "Ruinele castelului au acces gratuit tot timpul anului.",
+          "Hainele calde sunt recomandate lângă apă, chiar și vara."
+        ],
+        "en": [
+          "The city center is very easy to explore on foot.",
+          "The castle ruins are freely accessible year-round.",
+          "Warm clothing is recommended near the water even in summer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 19.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Marktplatz",
+          "coords": [
+            27.727,
+            64.225
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrradparkplätze am Rand des Platzes verfügbar.",
+            "hu": "Kerékpártárolók a tér szélén találhatók.",
+            "ro": "Parcare pentru biciclete la marginea pieței.",
+            "en": "Bike parking available at the edge of the square."
+          }
+        },
+        {
+          "name": "Burgruine Kajaani",
+          "coords": [
+            27.731,
+            64.228
+          ],
+          "category": "castles",
+          "arrive_at": "09:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Brücke bietet eine gute Sicht auf das Areal.",
+            "hu": "A hídról remek kilátás nyílik a területre.",
+            "ro": "Podul oferă o vedere excelentă asupra zonei.",
+            "en": "The bridge offers a good view of the area."
+          }
+        },
+        {
+          "name": "Kaukametsä Zentrum",
+          "coords": [
+            27.722,
+            64.226
+          ],
+          "category": "cultural centres",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Moderne Architektur und kulturelle Events.",
+            "hu": "Modern építészet és kulturális események.",
+            "ro": "Arhitectură modernă și evenimente culturale.",
+            "en": "Modern architecture and cultural events."
+          }
+        },
+        {
+          "name": "Kirche von Paltaniemi",
+          "coords": [
+            27.671,
+            64.298
+          ],
+          "category": "churches",
+          "arrive_at": "12:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 54,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Historische Holzkirche mit Deckenmalereien.",
+            "hu": "Történelmi fatemplom mennyezetfestményekkel.",
+            "ro": "Biserică istorică din lemn cu picturi pe tavan.",
+            "en": "Historical wooden church with ceiling paintings."
+          }
+        },
+        {
+          "name": "Fluss Kajaani",
+          "coords": [
+            27.735,
+            64.227
+          ],
+          "category": "natural features",
+          "arrive_at": "14:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 54,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Rückkehr in die Stadt am malerischen Flussufer.",
+            "hu": "Visszatérés a városba a festői folyóparton.",
+            "ro": "Întoarcere în oraș de-a lungul râului pitoresc.",
+            "en": "Return to the city along the scenic riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach einem Start am Marktplatz fahren wir zur Burgruine auf der Flussinsel. Von dort geht es kurz zum Kulturzentrum Kaukametsä. Das Highlight des Tages ist die 9 Kilometer lange, malerische Radtour zur historischen Holzkirche von Paltaniemi mit ihren beeindruckenden Wandmalereien. Der Rückweg führt uns entspannt entlang des Kajaani-Flusses in die Stadt zurück.",
+        "hu": "A piactérről indulva a folyami szigeten fekvő várromhoz kerekezünk. Innen röviden a Kaukametsä kulturális központhoz gurulunk. A nap fénypontja a 9 kilométeres, festői bicikliút a történelmi paltaniemi fatemplomhoz, amelynek freskói lenyűgözőek. A visszaút a Kajaani-folyó békés partján vezet a városba.",
+        "ro": "După pornirea din Piață, pedalăm spre ruinele castelului de pe insula râului. De acolo trecem pe la centrul cultural Kaukametsä. Atracția zilei este traseul pitoresc de 9 kilometri cu bicicleta către biserica istorică de lemn din Paltaniemi. Drumul de întoarcere ne poartă relaxant de-a lungul râului Kajaani înapoi în oraș.",
+        "en": "Starting at the Market Square, we cycle to the castle ruins on the river island. From there, we visit the Kaukametsä cultural center. The highlight of the day is the scenic 9-kilometer bike ride to the historical Paltaniemi wooden church with its impressive murals. The return trip takes us leisurely along the Kajaani River back into the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick am Wasser",
+            "tip": "Essen am Ufer des Kajaani-Flusses."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vízparti piknik",
+            "tip": "Étkezés a Kajaani-folyó partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic pe malul apei",
+            "tip": "Masă pe malul râului Kajaani."
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside picnic",
+            "tip": "Eating on the banks of the Kajaani River."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oulujärvi Ufer (Paltaniemi)",
+            "tip": "Weite Sicht über den See.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oulujärvi part (Paltaniemi)",
+            "tip": "Széles kilátás a tóra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Oulujärvi",
+            "tip": "Vedere largă asupra lacului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oulujärvi shore (Paltaniemi)",
+            "tip": "Wide view over the lake.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Roggenbrot als Proviant kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Rozskenyér beszerzése útravalónak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați pâine de secară pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakeries",
+            "tip": "Buy rye bread for provisions."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Weg nach Paltaniemi erfordert eine gute Grundkondition.",
+          "Ausreichend Wasser für die längere Etappe mitnehmen.",
+          "Die Radwege in Finnland sind sehr gut ausgebaut und sicher."
+        ],
+        "hu": [
+          "A Paltaniemibe vezető út jó alaperőnlétet igényel.",
+          "Vigyen elegendő vizet a hosszabb szakaszra.",
+          "A finnországi kerékpárutak nagyon jól kiépítettek és biztonságosak."
+        ],
+        "ro": [
+          "Drumul spre Paltaniemi necesită o condiție fizică de bază.",
+          "Luați suficientă apă pentru etapa mai lungă.",
+          "Pistele de biciclete din Finlanda sunt foarte bine dezvoltate."
+        ],
+        "en": [
+          "The route to Paltaniemi requires good basic fitness.",
+          "Bring enough water for the longer stretch.",
+          "Bike paths in Finland are very well developed and safe."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 20.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Marktplatz",
+          "coords": [
+            27.727,
+            64.225
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das Zentrum zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a központot.",
+            "ro": "Parcați aici pentru a explora centrul pe jos.",
+            "en": "Park here to explore the center on foot."
+          }
+        },
+        {
+          "name": "Kainuu Museum",
+          "coords": [
+            27.73,
+            64.226
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Marktplatz.",
+            "hu": "Rövid séta a piactértől.",
+            "ro": "Scurtă plimbare de la Piață.",
+            "en": "Short walk from the Market Square."
+          }
+        },
+        {
+          "name": "Burgruine Kajaani",
+          "coords": [
+            27.731,
+            64.228
+          ],
+          "category": "castles",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Immer noch im Geh-Cluster des Zentrums.",
+            "hu": "Még mindig a központ sétatávolságán belül.",
+            "ro": "Încă în zona de plimbare a centrului.",
+            "en": "Still within the center's walking cluster."
+          }
+        },
+        {
+          "name": "Kirche von Paltaniemi",
+          "coords": [
+            27.671,
+            64.298
+          ],
+          "category": "churches",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kurze Fahrt nach Norden zur Holzkirche.",
+            "hu": "Rövid autóút északra a fatemplomhoz.",
+            "ro": "Scurtă plimbare cu mașina spre nord, la biserica de lemn.",
+            "en": "Short drive north to the wooden church."
+          }
+        },
+        {
+          "name": "Kaukametsä Zentrum",
+          "coords": [
+            27.722,
+            64.226
+          ],
+          "category": "cultural centres",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Rückkehr ins Stadtgebiet. Parken vor Ort.",
+            "hu": "Visszatérés a városba. Parkolás a helyszínen.",
+            "ro": "Întoarcere în oraș. Parcare la fața locului.",
+            "en": "Return to the city area. Parking on site."
+          }
+        },
+        {
+          "name": "Kunstmuseum Kajaani",
+          "coords": [
+            27.728,
+            64.225
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zentraler Abschluss der Museums-Tour.",
+            "hu": "A múzeumtúra központi zárása.",
+            "ro": "Încheiere centrală a turului muzeelor.",
+            "en": "Central conclusion of the museum tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir parken das Auto zentral am Marktplatz und bilden einen fußläufigen Cluster, um das Kainuu Museum und die nahegelegene Burgruine zu besuchen. Nach dem Mittagessen fahren wir 9 Kilometer in den Norden zur historischen Holzkirche von Paltaniemi. Anschließend kehren wir mit dem Auto ins Kaukametsä Zentrum zurück. Von dort aus schließen wir den Tag mit einem kurzen Fußweg zum Kunstmuseum ab.",
+        "hu": "Az autót a központi piactéren hagyjuk, és gyalogos klasztert alkotva nézzük meg a Kainuu Múzeumot és a közeli várromot. Ebéd után 9 kilométert autózunk északra, a paltaniemi történelmi fatemplomhoz. Ezután visszatérünk a városba, a Kaukametsä kulturális központhoz. A napot egy rövid sétával zárjuk a Művészeti Múzeumnál.",
+        "ro": "Parcăm mașina central la Piață și formăm un grup pietonal pentru a vizita Muzeul Kainuu și ruinele castelului. După prânz, conducem 9 kilometri spre nord, la biserica istorică de lemn din Paltaniemi. Apoi ne întoarcem cu mașina la centrul cultural Kaukametsä. De acolo, încheiem ziua cu o scurtă plimbare până la Muzeul de Artă.",
+        "en": "We park the car centrally at the Market Square and form a walking cluster to visit the Kainuu Museum and the nearby castle ruins. After lunch, we drive 9 kilometers north to the historical Paltaniemi wooden church. We then return to the city by car to the Kaukametsä Center. From there, we conclude the day with a short walk to the Art Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro im Kaukametsä",
+            "tip": "Moderne finnische Snacks nach der Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaukametsä bisztró",
+            "tip": "Modern finn falatok az autóút után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistroul Kaukametsä",
+            "tip": "Gustări finlandeze moderne după drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaukametsä bistro",
+            "tip": "Modern Finnish snacks after the drive."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paltaniemi Friedhof",
+            "tip": "Sehr friedlicher historischer Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paltaniemi temető",
+            "tip": "Nagyon békés, történelmi helyszín.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Paltaniemi",
+            "tip": "Un loc istoric foarte pașnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paltaniemi cemetery",
+            "tip": "Very peaceful historical spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop",
+            "tip": "Lokale Literatur und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Helyi irodalom és kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Literatură locală și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum shop",
+            "tip": "Local literature and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lassen Sie das Auto im Zentrum stehen und laufen Sie kleine Strecken.",
+          "Parken am Marktplatz ist oft zeitlich begrenzt.",
+          "Winterreifen sind in den kälteren Monaten gesetzlich vorgeschrieben."
+        ],
+        "hu": [
+          "Hagyja az autót a központban, és sétáljon a rövid távokon.",
+          "A piactéri parkolás gyakran időhöz kötött.",
+          "A téli hónapokban a téli gumi kötelező."
+        ],
+        "ro": [
+          "Lăsați mașina în centru și mergeți pe jos pe distanțe scurte.",
+          "Parcarea în Piață este adesea limitată în timp.",
+          "Anvelopele de iarnă sunt obligatorii în lunile reci."
+        ],
+        "en": [
+          "Leave the car in the center and walk short distances.",
+          "Parking at the Market Square is often time-limited.",
+          "Winter tires are legally required in the colder months."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 19.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Marktplatz",
+          "coords": [
+            27.727,
+            64.225
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für lokale Busse.",
+            "hu": "A helyi buszok központi csomópontja.",
+            "ro": "Nod central pentru autobuzele locale.",
+            "en": "Central hub for local buses."
+          }
+        },
+        {
+          "name": "Kainuu Museum",
+          "coords": [
+            27.73,
+            64.226
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur 300 Meter Fußweg vom Hauptplatz.",
+            "hu": "Csak 300 méter séta a főtértől.",
+            "ro": "La doar 300 de metri de mers pe jos de piața principală.",
+            "en": "Only a 300-meter walk from the main square."
+          }
+        },
+        {
+          "name": "Burgruine Kajaani",
+          "coords": [
+            27.731,
+            64.228
+          ],
+          "category": "castles",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wir bleiben im Fußgänger-Cluster des Zentrums.",
+            "hu": "A központ gyalogos klaszterében maradunk.",
+            "ro": "Rămânem în grupul pietonal al centrului.",
+            "en": "We stay in the center's pedestrian cluster."
+          }
+        },
+        {
+          "name": "Kirche von Paltaniemi",
+          "coords": [
+            27.671,
+            64.298
+          ],
+          "category": "churches",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 9.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Busverbindung zum historischen Dorf nehmen.",
+            "hu": "Busszal a történelmi faluba.",
+            "ro": "Luați autobuzul spre satul istoric.",
+            "en": "Take the bus connection to the historical village."
+          }
+        },
+        {
+          "name": "Kunstmuseum Kajaani",
+          "coords": [
+            27.728,
+            64.225
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 9.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mit dem Bus zurück ins Zentrum.",
+            "hu": "Busszal vissza a központba.",
+            "ro": "Întoarcere cu autobuzul în centru.",
+            "en": "Bus ride back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen am Marktplatz, dem wichtigsten Busknotenpunkt. Von dort gehen wir zu Fuß im zentralen Cluster zum Kainuu Museum und zur Burgruine. Nach der Erkundung der Stadtmitte nutzen wir den Nahverkehr, um zur 9 Kilometer entfernten Kirche von Paltaniemi zu fahren. Den Abschluss des Tages bildet die Busfahrt zurück ins Zentrum zum Kunstmuseum.",
+        "hu": "A piactéren kezdünk, amely a buszok fő csomópontja. Innen gyalogosan, a központi klaszterben látogatjuk meg a Kainuu Múzeumot és a várromot. A belváros után helyi járattal indulunk a 9 kilométerre fekvő paltaniemi fatemplomhoz. A napot a buszos visszatérés és a Művészeti Múzeum zárja.",
+        "ro": "Începem în Piață, principalul nod de autobuz. De acolo mergem pe jos în clusterul central spre Muzeul Kainuu și ruinele castelului. După explorarea centrului, folosim transportul public pentru a merge la biserica din Paltaniemi, aflată la 9 kilometri. Ziua se încheie cu călătoria cu autobuzul înapoi în centru, la Muzeul de Artă.",
+        "en": "We start at the Market Square, the main bus hub. From there, we walk in the central cluster to the Kainuu Museum and the castle ruins. After exploring the city center, we use local transit to travel to the Paltaniemi church, 9 kilometers away. The day concludes with a bus ride back to the center to visit the Art Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Pekka Heikkinen",
+            "tip": "Bekanntes traditionelles Brot im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pekka Heikkinen pékség",
+            "tip": "Híres hagyományos kenyér a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Pekka Heikkinen",
+            "tip": "Pâine tradițională renumită în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pekka Heikkinen bakery",
+            "tip": "Famous traditional bread in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Grüne Oase neben den Museen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park",
+            "tip": "Zöld oázis a múzeumok mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului",
+            "tip": "Oază verde lângă muzee.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "Green oasis next to the museums.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentrum",
+            "tip": "Souvenirs rund um den Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központ",
+            "tip": "Szuvenírek a piactér környékén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centru",
+            "tip": "Suveniruri în jurul pieței."
+          }
+        ],
+        "en": [
+          {
+            "name": "Center",
+            "tip": "Souvenirs around the Market Square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie vorab die Busfahrpläne nach Paltaniemi.",
+          "Tageskarten für den Bus lohnen sich oft.",
+          "Das Zentrum selbst lässt sich gut zu Fuß bewältigen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a Paltaniemibe induló buszok menetrendjét.",
+          "A napi buszjegy gyakran megéri az árát.",
+          "Maga a központ gyalog is könnyen bejárható."
+        ],
+        "ro": [
+          "Verificați în prealabil orarul autobuzelor spre Paltaniemi.",
+          "Abonamentele de o zi pentru autobuz merită adesea.",
+          "Centrul în sine poate fi parcurs ușor pe jos."
+        ],
+        "en": [
+          "Check the bus schedules to Paltaniemi in advance.",
+          "Day passes for the bus are often worth it.",
+          "The center itself is easy to navigate on foot."
+        ]
+      }
+    }
+  }
+}

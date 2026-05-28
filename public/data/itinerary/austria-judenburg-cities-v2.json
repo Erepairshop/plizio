@@ -1,0 +1,1068 @@
+{
+  "city_id": "austria-judenburg-cities-v2",
+  "anchor": {
+    "name": "Judenburg",
+    "coords": [
+      14.6567,
+      47.1667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz",
+            "hu": "Főtér",
+            "ro": "Piața Principală",
+            "en": "Main Square"
+          },
+          "coords": [
+            14.657,
+            47.169
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés und beobachten Sie das Treiben.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában, és figyelje a város ébredését.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenele și priviți viața orașului.",
+            "en": "Start your day with a coffee at one of the cafés and watch the town come to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Nikolaus",
+            "hu": "Szent Miklós plébániatemplom",
+            "ro": "Biserica parohială Sf. Nicolae",
+            "en": "Parish Church of St. Nicholas"
+          },
+          "coords": [
+            14.6585,
+            47.17
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden gotischen Fresken im Inneren der Kirche.",
+            "hu": "Figyelje meg a lenyűgöző gótikus freskókat a templom belsejében.",
+            "ro": "Fiți atenți la frescele gotice impresionante din interiorul bisericii.",
+            "en": "Look for the impressive Gothic frescoes inside the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtturm Judenburg",
+            "hu": "Judenburgi városi torony",
+            "ro": "Turnul Orașului Judenburg",
+            "en": "Judenburg City Tower"
+          },
+          "coords": [
+            14.6575,
+            47.1695
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Aufstieg wird mit der besten Aussicht über Judenburg und das Murtal belohnt.",
+            "hu": "A mászás jutalma a legjobb kilátás Judenburgra és a Mura-völgyre.",
+            "ro": "Urcarea vă va recompensa cu cea mai bună priveliște asupra Judenburgului și a văii Mur.",
+            "en": "The climb is rewarded with the best view over Judenburg and the Mur valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Planetarium Judenburg",
+            "hu": "Judenburgi Planetárium",
+            "ro": "Planetariul din Judenburg",
+            "en": "Judenburg Planetarium"
+          },
+          "coords": [
+            14.658,
+            47.167
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Vorstellungszeiten im Voraus online, um eine Show nicht zu verpassen.",
+            "hu": "Érdemes előre online ellenőrizni az előadások időpontját, hogy ne maradjon le egyről se.",
+            "ro": "Verificați online programul spectacolelor în avans pentru a nu rata o proiecție.",
+            "en": "Check the show times online in advance to not miss a screening."
+          }
+        },
+        {
+          "name": {
+            "de": "Puch Museum",
+            "hu": "Puch Múzeum",
+            "ro": "Muzeul Puch",
+            "en": "Puch Museum"
+          },
+          "coords": [
+            14.662,
+            47.1715
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Technikbegeisterte. Planen Sie genug Zeit für die Automobil- und Fahrradsammlung ein.",
+            "hu": "A technika szerelmeseinek kötelező. Szánjon elég időt az autó- és kerékpárgyűjteményre.",
+            "ro": "O vizită obligatorie pentru pasionații de tehnologie. Planificați suficient timp pentru colecția de automobile și biciclete.",
+            "en": "A must-see for technology enthusiasts. Allow enough time for the car and bicycle collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesuitenkirche",
+            "hu": "Jezsuita templom",
+            "ro": "Biserica Iezuiților",
+            "en": "Jesuit Church"
+          },
+          "coords": [
+            14.655,
+            47.168
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Finden Sie einen Moment der Ruhe in diesem oft übersehenen barocken Juwel.",
+            "hu": "Találjon egy csendes pillanatot ebben a gyakran figyelmen kívül hagyott barokk gyöngyszemben.",
+            "ro": "Găsiți un moment de liniște în această bijuterie barocă adesea trecută cu vederea.",
+            "en": "Find a moment of peace in this often-overlooked baroque gem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Judenburg beginnt am belebten Hauptplatz. Von dort aus führt ein kurzer Spaziergang zur gotischen Stadtpfarrkirche St. Nikolaus, bevor Sie den Stadtturm für eine atemberaubende Aussicht erklimmen. Am Nachmittag reisen Sie zu den Sternen im Planetarium und tauchen dann in die Technikgeschichte im Puch Museum ein. Den Abschluss bildet ein ruhiger Moment in der barocken Jesuitenkirche. Ein Tag voller Kontraste zwischen Himmel und Erde, Geschichte und Zukunft.",
+        "hu": "Judenburgi napja a nyüzsgő Főtéren kezdődik. Innen egy rövid séta vezet a gótikus Szent Miklós plébániatemplomhoz, mielőtt megmászná a Városi tornyot a lélegzetelállító kilátásért. Délután az Planetáriumban az csillagok közé utazhat, majd elmerülhet a technika történetében a Puch Múzeumban. A napot egy csendes pillanat zárja a barokk Jezsuita templomban. Egy nap tele kontrasztokkal ég és föld, múlt és jövő között.",
+        "ro": "Ziua dvs. în Judenburg începe în animata Piață Principală. De acolo, o scurtă plimbare vă duce la biserica parohială gotică Sf. Nicolae, înainte de a urca în Turnul Orașului pentru o priveliște uluitoare. După-amiaza, călătoriți spre stele la Planetariu și apoi vă scufundați în istoria tehnologiei la Muzeul Puch. Ziua se încheie cu un moment de liniște în biserica barocă a Iezuiților. O zi plină de contraste între cer și pământ, istorie și viitor.",
+        "en": "Your day in Judenburg starts at the bustling Main Square. A short walk takes you to the Gothic Parish Church of St. Nicholas before you climb the City Tower for a breathtaking view. In the afternoon, journey to the stars at the Planetarium, then delve into engineering history at the Puch Museum. The day concludes with a quiet moment in the baroque Jesuit Church. A day of contrasts between heaven and earth, history and future."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Steirisches Wurzelfleisch",
+            "tip": "Ein herzhafter Eintopf, perfekt nach einem langen Spaziergang. Probieren Sie es im Gasthof zur Linde."
+          },
+          {
+            "name": "Zirbenschnaps",
+            "tip": "Ein lokaler Kiefernschnaps, den man in vielen traditionellen Gasthäusern findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stájer gyökérhús (Wurzelfleisch)",
+            "tip": "Egy kiadós egytálétel, tökéletes egy hosszú séta után. Kóstolja meg a Gasthof zur Linde-ben."
+          },
+          {
+            "name": "Cirbolyafenyő pálinka (Zirbenschnaps)",
+            "tip": "Helyi fenyőpálinka, amelyet sok hagyományos vendéglőben megtalál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocăniță de rădăcinoase stiriană (Wurzelfleisch)",
+            "tip": "O tocană consistentă, perfectă după o plimbare lungă. Încercați-o la Gasthof zur Linde."
+          },
+          {
+            "name": "Rachiu de pin (Zirbenschnaps)",
+            "tip": "Un rachiu local din con de pin, găsit în multe hanuri tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Styrian Root-Meat Stew (Wurzelfleisch)",
+            "tip": "A hearty stew, perfect after a long walk. Try it at Gasthof zur Linde."
+          },
+          {
+            "name": "Pine Schnapps (Zirbenschnaps)",
+            "tip": "A local pine cone schnapps found in many traditional inns."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Mur",
+            "tip": "Ein Spaziergang entlang des Flusses Mur bietet eine friedliche Flucht aus der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof der Magdalene-Kirche",
+            "tip": "Ein historischer und ruhiger Ort zum Nachdenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mura folyó partja",
+            "tip": "Egy séta a Mura folyó mentén békés kikapcsolódást nyújt a városból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Magdolna-templom temetője",
+            "tip": "Történelmi és csendes hely az elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Mur",
+            "tip": "O plimbare de-a lungul râului Mur oferă o evadare pașnică din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Bisericii Magdalena",
+            "tip": "Un loc istoric și liniștit pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Mur River",
+            "tip": "A walk along the Mur river offers a peaceful escape from the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Magdalene Church Cemetery",
+            "tip": "A historical and quiet place for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Kaufen Sie lokale Produkte und Handwerk auf dem Wochenmarkt (Termine prüfen)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Vásároljon helyi termékeket és kézműves árukat a heti piacon (ellenőrizze a napokat)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața fermierilor",
+            "tip": "Cumpărați produse locale și artizanat de la piața săptămânală (verificați programul)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmers' Market",
+            "tip": "Shop for local produce and crafts at the weekly market (check for days)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich, es gibt mehrere Brunnen in der Stadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Hasznos lehet egy újratölthető vizes palack, a városban több ivókút is található."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "O sticlă de apă reutilizabilă este utilă, există mai multe fântâni în oraș."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights in the center are easily within walking distance.",
+          "A reusable water bottle is useful; there are several fountains around town."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz",
+            "hu": "Főtér",
+            "ro": "Piața Principală",
+            "en": "Main Square"
+          },
+          "coords": [
+            14.657,
+            47.169
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie die Atmosphäre, bevor die Stadt erwacht.",
+            "hu": "Parkolja le a kerékpárt, és élvezze a hangulatot, mielőtt a város felébred.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosferă înainte ca orașul să se trezească.",
+            "en": "Park your bike and soak in the atmosphere before the town wakes up."
+          }
+        },
+        {
+          "name": {
+            "de": "Puch Museum",
+            "hu": "Puch Múzeum",
+            "ro": "Muzeul Puch",
+            "en": "Puch Museum"
+          },
+          "coords": [
+            14.662,
+            47.1715
+          ],
+          "category": "museums",
+          "arrive_at": "09:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besonders interessant für Radfahrer: Die Ausstellung zur Geschichte der Puch-Fahrräder.",
+            "hu": "Kerékpárosoknak különösen érdekes: a Puch kerékpárok történetét bemutató kiállítás.",
+            "ro": "Deosebit de interesant pentru bicicliști: expoziția despre istoria bicicletelor Puch.",
+            "en": "Especially interesting for cyclists: the exhibition on the history of Puch bicycles."
+          }
+        },
+        {
+          "name": {
+            "de": "Magdalene-Kirche",
+            "hu": "Magdolna-templom",
+            "ro": "Biserica Magdalena",
+            "en": "Magdalene Church"
+          },
+          "coords": [
+            14.651,
+            47.172
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Eine kurze Radtour zu dieser Kirche am Stadtrand, umgeben von einem friedlichen Friedhof.",
+            "hu": "Egy rövid kerékpártúra ehhez a templomhoz a város szélén, melyet egy békés temető vesz körül.",
+            "ro": "O scurtă plimbare cu bicicleta la această biserică de la marginea orașului, înconjurată de un cimitir pașnic.",
+            "en": "A short bike ride to this church on the outskirts, surrounded by a peaceful cemetery."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Nikolaus",
+            "hu": "Szent Miklós plébániatemplom",
+            "ro": "Biserica parohială Sf. Nicolae",
+            "en": "Parish Church of St. Nicholas"
+          },
+          "coords": [
+            14.6585,
+            47.17
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie die gotische Architektur im Herzen der Stadt.",
+            "hu": "Tegye le a kerékpárt, és csodálja meg a gótikus építészetet a város szívében.",
+            "ro": "Lăsați bicicleta și admirați arhitectura gotică din inima orașului.",
+            "en": "Park your bike and admire the Gothic architecture in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtturm & Planetarium",
+            "hu": "Városi torony és Planetárium",
+            "ro": "Turnul Orașului și Planetariul",
+            "en": "City Tower & Planetarium"
+          },
+          "coords": [
+            14.6575,
+            47.1685
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Turmaufstieg mit einer Sternenshow. Beide Attraktionen liegen nah beieinander.",
+            "hu": "Kombinálja a toronymászást egy csillagászati bemutatóval. Mindkét látnivaló közel van egymáshoz.",
+            "ro": "Combinați urcarea în turn cu un spectacol la planetariu. Ambele atracții sunt foarte apropiate.",
+            "en": "Combine the tower climb with a star show. Both attractions are located close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt am Murufer",
+            "hu": "Kerékpározás a Mura partján",
+            "ro": "Plimbare pe malul râului Mur",
+            "en": "Ride along the Mur River"
+          },
+          "coords": [
+            14.65,
+            47.165
+          ],
+          "category": "landmark",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer entspannten Radtour entlang des Murradwegs.",
+            "hu": "Zárja a napot egy pihentető kerékpártúrával a Mura menti kerékpárúton.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă cu bicicleta de-a lungul pistei de biciclete Mur.",
+            "en": "End your day with a relaxing bike ride along the Mur Cycle Path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und starten Sie am Hauptplatz. Die erste Etappe führt Sie zum Puch Museum, einem Paradies für Technikfans. Von dort radeln Sie zur ruhigen Magdalene-Kirche am Stadtrand. Zurück im Zentrum, erkunden Sie die Stadtpfarrkirche, bevor Sie den Stadtturm und das Planetarium für himmlische und irdische Ausblicke besuchen. Eine entspannte Fahrt entlang der Mur rundet Ihren aktiven Tag in Judenburg ab. Eine perfekte Mischung aus Kultur und Natur.",
+        "hu": "Pattanjon nyeregbe, és induljon a Főtérről. Az első szakasz a Puch Múzeumba vezet, amely a technika rajongóinak paradicsoma. Innen tekerjen el a csendes Magdolna-templomhoz a város szélén. Visszatérve a központba, fedezze fel a plébániatemplomot, majd látogasson el a Városi toronyba és a Planetáriumba égi és földi kilátásért. Egy pihentető kerékpározás a Mura mentén zárja aktív napját Judenburgban. A kultúra és a természet tökéletes keveréke.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Principală. Prima etapă vă duce la Muzeul Puch, un paradis pentru pasionații de tehnologie. De acolo, pedalați spre liniștita Biserică Magdalena de la marginea orașului. Înapoi în centru, explorați biserica parohială înainte de a vizita Turnul Orașului și Planetariul pentru priveliști cerești și pământești. O plimbare relaxantă de-a lungul râului Mur încheie ziua activă în Judenburg. Un amestec perfect de cultură și natură.",
+        "en": "Hop on your bike and start at the Main Square. The first leg takes you to the Puch Museum, a paradise for tech fans. From there, cycle to the quiet Magdalene Church on the outskirts. Back in the center, explore the parish church before visiting the City Tower and Planetarium for celestial and terrestrial views. A relaxing ride along the Mur River rounds off your active day in Judenburg. A perfect mix of culture and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthaus auf dem Land",
+            "tip": "Machen Sie eine Pause bei einem Heurigen entlang des Murradwegs für eine Jause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki vendéglő",
+            "tip": "Tartson szünetet egy borozónál a Mura menti kerékpárút mentén egy uzsonnára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Han de țară",
+            "tip": "Faceți o pauză la un Heuriger de-a lungul pistei de biciclete Mur pentru o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Country Inn",
+            "tip": "Take a break at a 'Heuriger' (wine tavern) along the Mur Cycle Path for a snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Murradweg",
+            "tip": "Der Radweg entfernt sich schnell vom Stadtlärm und führt Sie in die Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mura kerékpárút",
+            "tip": "A kerékpárút gyorsan eltávolodik a város zajától, és a természetbe vezet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete Mur",
+            "tip": "Pista de biciclete se îndepărtează rapid de zgomotul orașului și vă duce în natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mur Cycle Path",
+            "tip": "The cycle path quickly takes you away from the city noise and into nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Finden Sie Zubehör oder lokale Radkarten in einem der örtlichen Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Találjon kiegészítőket vagy helyi kerékpáros térképeket az egyik helyi üzletben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Găsiți accesorii sau hărți locale pentru ciclism la unul dintre magazinele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Find accessories or local cycling maps in one of the local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Murradweg ist gut ausgebaut und meist flach, ideal für eine entspannte Tour.",
+          "Schließen Sie Ihr Fahrrad im Stadtzentrum immer gut ab.",
+          "Ein Helm wird für Ihre Sicherheit empfohlen."
+        ],
+        "hu": [
+          "A Mura menti kerékpárút jól kiépített és többnyire sík, ideális egy pihentető túrához.",
+          "A belvárosban mindig gondosan zárja le a kerékpárját.",
+          "A biztonsága érdekében ajánlott a sisak viselése."
+        ],
+        "ro": [
+          "Pista de biciclete Mur este bine dezvoltată și în mare parte plată, ideală pentru un tur relaxant.",
+          "Încuiați-vă întotdeauna bine bicicleta în centrul orașului.",
+          "O cască este recomandată pentru siguranța dumneavoastră."
+        ],
+        "en": [
+          "The Mur Cycle Path is well-maintained and mostly flat, ideal for a relaxed tour.",
+          "Always lock your bike securely in the city center.",
+          "A helmet is recommended for your safety."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Hauptplatz",
+            "hu": "Parkoló a központban és Főtér",
+            "ro": "Parcare centrală și Piața Principală",
+            "en": "Central Parking & Main Square"
+          },
+          "coords": [
+            14.657,
+            47.169
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe des Zentrums und beginnen Sie die Erkundung zu Fuß.",
+            "hu": "Parkolja le autóját a központ közelében, és kezdje a felfedezést gyalog.",
+            "ro": "Parcați mașina lângă centru și începeți explorarea pe jos.",
+            "en": "Park your car near the center and start exploring on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & Stadtturm",
+            "hu": "Plébániatemplom és Városi torony",
+            "ro": "Biserica parohială și Turnul Orașului",
+            "en": "Parish Church & City Tower"
+          },
+          "coords": [
+            14.658,
+            47.1698
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Hauptattraktionen liegen direkt am Hauptplatz und sind leicht zu Fuß erreichbar.",
+            "hu": "Ez a két fő látnivaló közvetlenül a Főtéren található, és könnyen megközelíthető gyalog.",
+            "ro": "Aceste două atracții principale sunt situate chiar în Piața Principală și sunt ușor accesibile pe jos.",
+            "en": "These two main attractions are located right on the main square and are easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Puch Museum & Planetarium",
+            "hu": "Puch Múzeum és Planetárium",
+            "ro": "Muzeul Puch și Planetariul",
+            "en": "Puch Museum & Planetarium"
+          },
+          "coords": [
+            14.66,
+            47.169
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem Cluster und parken Sie. Beide Orte bieten faszinierende Einblicke.",
+            "hu": "Vezessen ehhez a csoporthoz és parkoljon le. Mindkét hely lenyűgöző betekintést nyújt.",
+            "ro": "Conduceți la acest grup de atracții și parcați. Ambele locuri oferă perspective fascinante.",
+            "en": "Drive to this cluster and park. Both places offer fascinating insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Museums",
+            "hu": "Ebéd a múzeum közelében",
+            "ro": "Prânz lângă muzeu",
+            "en": "Lunch near the Museum"
+          },
+          "coords": [
+            14.661,
+            47.17
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Museumsbesuch ist es Zeit für eine stärkende Mahlzeit in einem lokalen Restaurant.",
+            "hu": "A múzeumlátogatás után itt az ideje egy kiadós ebédnek egy helyi étteremben.",
+            "ro": "După vizita la muzeu, este timpul pentru o masă copioasă la un restaurant local.",
+            "en": "After the museum visit, it's time for a hearty meal at a local restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Wetzelsdorf",
+            "hu": "Wetzelsdorfi kastély",
+            "ro": "Castelul Wetzelsdorf",
+            "en": "Wetzelsdorf Castle"
+          },
+          "coords": [
+            14.68,
+            47.16
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Ausflug zu diesem charmanten Schloss am Rande der Stadt. Oft nur von außen zu besichtigen.",
+            "hu": "Egy rövid kirándulás ehhez a bájos kastélyhoz a város szélén. Gyakran csak kívülről látogatható.",
+            "ro": "O scurtă excursie la acest castel fermecător de la marginea orașului. Adesea poate fi vizitat doar la exterior.",
+            "en": "A short trip to this charming castle on the edge of town. Often only viewable from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Schlosspark",
+            "hu": "Séta a kastélyparkban",
+            "ro": "Plimbare în parcul castelului",
+            "en": "Walk in the Castle Park"
+          },
+          "coords": [
+            14.681,
+            47.161
+          ],
+          "category": "landmark",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe des Parks, bevor Sie die Rückfahrt antreten.",
+            "hu": "Élvezze a park csendjét, mielőtt visszaindulna.",
+            "ro": "Bucurați-vă de liniștea parcului înainte de a vă întoarce.",
+            "en": "Enjoy the tranquility of the park before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Judenburg flexibel. Starten Sie im Zentrum, wo Sie den Hauptplatz, die Kirche und den Turm zu Fuß entdecken. Ein kurzer Hop im Auto bringt Sie zum Technik-Cluster mit dem Puch Museum und dem Planetarium für einen ausgedehnten Nachmittagsbesuch. Zum Abschluss des Tages fahren Sie zum Schloss Wetzelsdorf, einem idyllischen Ort etwas außerhalb, der einen perfekten, ruhigen Kontrapunkt zum städtischen Trubel bietet.",
+        "hu": "Autóval rugalmasan fedezheti fel Judenburgot. Kezdje a központban, ahol gyalogosan fedezi fel a Főteret, a templomot és a tornyot. Egy rövid autós ugrás elviszi a technikai központhoz a Puch Múzeummal és a Planetáriummal egy hosszabb délutáni látogatásra. A nap zárásaként vezessen el a Wetzelsdorf kastélyhoz, egy idilli helyre kissé a városon kívül, amely tökéletes, csendes ellenpontot kínál a városi nyüzsgéshez.",
+        "ro": "Cu mașina, explorați Judenburg în mod flexibil. Începeți în centru, unde descoperiți Piața Principală, biserica și turnul pe jos. O scurtă deplasare cu mașina vă duce la clusterul tehnologic cu Muzeul Puch și Planetariul pentru o vizită extinsă după-amiaza. Pentru a încheia ziua, conduceți la Castelul Wetzelsdorf, un loc idilic chiar în afara orașului, care oferă un contrapunct perfect și liniștit la agitația urbană.",
+        "en": "Explore Judenburg flexibly by car. Start in the center, discovering the Main Square, church, and tower on foot. A short hop in the car takes you to the tech cluster with the Puch Museum and Planetarium for an extended afternoon visit. To end the day, drive to Wetzelsdorf Castle, an idyllic spot just outside the town that provides a perfect, quiet counterpoint to the urban hustle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof am Wegesrand",
+            "tip": "Nutzen Sie die Flexibilität des Autos, um ein traditionelles Gasthaus außerhalb des Zentrums zu besuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útmenti fogadó",
+            "tip": "Használja ki az autó rugalmasságát, és látogasson el egy hagyományos fogadóba a központon kívül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Han de la marginea drumului",
+            "tip": "Profitați de flexibilitatea mașinii pentru a vizita un han tradițional în afara centrului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside Inn",
+            "tip": "Use the flexibility of the car to visit a traditional inn outside the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt an der Landstraße",
+            "tip": "Halten Sie auf dem Weg zum Schloss an einem Aussichtspunkt für einen weiten Blick über das Tal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont az országúton",
+            "tip": "Álljon meg a kastély felé vezető úton egy kilátópontnál, ahonnan széles kilátás nyílik a völgyre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere pe drumul național",
+            "tip": "Opriți-vă la un punct de belvedere în drum spre castel pentru o priveliște amplă asupra văii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint on the country road",
+            "tip": "Stop at a viewpoint on the way to the castle for a wide view over the valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen",
+            "tip": "Mit dem Auto erreichen Sie leicht einen Hofladen in der Umgebung für frische, regionale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi bolt",
+            "tip": "Autóval könnyen elérhet egy környékbeli tanyasi boltot friss, regionális termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de la fermă",
+            "tip": "Cu mașina, puteți ajunge cu ușurință la un magazin de la fermă din zonă pentru produse proaspete, regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shop",
+            "tip": "By car, you can easily reach a farm shop in the area for fresh, regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkzonen und -gebühren im Stadtzentrum.",
+          "Die Straßen außerhalb der Stadt sind oft schmal, fahren Sie vorsichtig.",
+          "Ein Navigationssystem ist hilfreich, um die ländlicheren Ziele wie Schloss Wetzelsdorf zu finden."
+        ],
+        "hu": [
+          "Ügyeljen a parkolási zónákra és díjakra a belvárosban.",
+          "A városon kívüli utak gyakran keskenyek, vezessen óvatosan.",
+          "Egy navigációs rendszer hasznos a vidéki célpontok, mint a Wetzelsdorf kastély megtalálásához."
+        ],
+        "ro": [
+          "Fiți atenți la zonele de parcare și la taxele din centrul orașului.",
+          "Drumurile din afara orașului sunt adesea înguste, conduceți cu prudență.",
+          "Un sistem de navigație este util pentru a găsi destinații rurale precum Castelul Wetzelsdorf."
+        ],
+        "en": [
+          "Pay attention to parking zones and fees in the city center.",
+          "The roads outside the city are often narrow, drive carefully.",
+          "A navigation system is helpful for finding rural destinations like Wetzelsdorf Castle."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Hauptplatz",
+            "hu": "Érkezés a Főtérre",
+            "ro": "Sosire în Piața Principală",
+            "en": "Arrival at the Main Square"
+          },
+          "coords": [
+            14.657,
+            47.169
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Hauptplatz ist der zentrale Knotenpunkt für die meisten Stadtbuslinien.",
+            "hu": "A Főtér a legtöbb városi buszjárat központi csomópontja.",
+            "ro": "Piața Principală este nodul central pentru majoritatea liniilor de autobuz urban.",
+            "en": "The Main Square is the central hub for most city bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Rundgang: Stadtpfarrkirche & Jesuitenkirche",
+            "hu": "Séta: Plébániatemplom és Jezsuita templom",
+            "ro": "Tur pietonal: Biserica Parohială și Biserica Iezuiților",
+            "en": "Walking Tour: Parish Church & Jesuit Church"
+          },
+          "coords": [
+            14.658,
+            47.1695
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die beiden wichtigsten Kirchen der Stadt, die nur wenige Gehminuten voneinander entfernt sind.",
+            "hu": "Fedezze fel a város két legfontosabb templomát, amelyek csak néhány perc sétára vannak egymástól.",
+            "ro": "Explorați cele două biserici principale ale orașului, situate la doar câteva minute de mers pe jos una de cealaltă.",
+            "en": "Explore the city's two most important churches, located just a few minutes' walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtturm & Mittagspause",
+            "hu": "Városi torony és ebédszünet",
+            "ro": "Turnul Orașului și Pauza de prânz",
+            "en": "City Tower & Lunch Break"
+          },
+          "coords": [
+            14.6575,
+            47.1695
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für die Aussicht und genießen Sie danach ein Mittagessen in einem der Restaurants am Platz.",
+            "hu": "Mássza meg a tornyot a kilátásért, majd ebédeljen a tér egyik éttermében.",
+            "ro": "Urcați în turn pentru priveliște și apoi bucurați-vă de prânz la unul dintre restaurantele din piață.",
+            "en": "Climb the tower for the view and then enjoy lunch at one of the restaurants in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Puch Museum",
+            "hu": "Buszozás a Puch Múzeumhoz",
+            "ro": "Călătorie cu autobuzul la Muzeul Puch",
+            "en": "Bus ride to the Puch Museum"
+          },
+          "coords": [
+            14.662,
+            47.1715
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum, um bequem zum Museum zu gelangen.",
+            "hu": "Menjen busszal a központból, hogy kényelmesen eljusson a múzeumhoz.",
+            "ro": "Luați un autobuz din centru pentru a ajunge convenabil la muzeu.",
+            "en": "Take a bus from the center to get to the museum conveniently."
+          }
+        },
+        {
+          "name": {
+            "de": "Planetarium Judenburg",
+            "hu": "Judenburgi Planetárium",
+            "ro": "Planetariul din Judenburg",
+            "en": "Judenburg Planetarium"
+          },
+          "coords": [
+            14.658,
+            47.167
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Puch Museum ist es nur ein kurzer Spaziergang zurück in Richtung Zentrum zum Planetarium.",
+            "hu": "A Puch Múzeumtól csak egy rövid séta vissza a központ felé a Planetáriumhoz.",
+            "ro": "De la Muzeul Puch, este doar o scurtă plimbare înapoi spre centru, la Planetariu.",
+            "en": "From the Puch Museum, it's just a short walk back towards the center to the Planetarium."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Judenburg mit öffentlichen Verkehrsmitteln. Beginnen Sie Ihren Tag im Herzen der Stadt, dem Hauptplatz. Ein Spaziergang führt Sie zu den historischen Kirchen und dem Stadtturm. Nach dem Mittagessen bringt Sie ein Bus bequem zum Puch Museum. Den Abschluss bildet ein Besuch im Planetarium, das nur einen kurzen Fußweg entfernt liegt. Dieser Plan kombiniert kurze Spaziergänge in Clustern mit effizienten Busfahrten, um die wichtigsten Sehenswürdigkeiten der Stadt entspannt zu erleben.",
+        "hu": "Fedezze fel Judenburgot tömegközlekedéssel. Kezdje a napot a város szívében, a Főtéren. Egy séta elvezeti a történelmi templomokhoz és a Városi toronyhoz. Ebéd után egy busz kényelmesen elviszi a Puch Múzeumba. A napot a Planetárium látogatása zárja, amely csak egy rövid sétára található. Ez a terv rövid, csoportos sétákat kombinál hatékony buszutakkal, hogy nyugodtan élvezhesse a város legfontosabb látnivalóit.",
+        "ro": "Explorați Judenburg cu transportul public. Începeți ziua în inima orașului, Piața Principală. O plimbare vă duce la bisericile istorice și la Turnul Orașului. După prânz, un autobuz vă duce convenabil la Muzeul Puch. Ziua se încheie cu o vizită la Planetariu, situat la o scurtă plimbare. Acest plan combină plimbări scurte în grupuri cu călătorii eficiente cu autobuzul pentru a experimenta relaxat principalele atracții ale orașului.",
+        "en": "Explore Judenburg using public transport. Start your day in the heart of the city, the Main Square. A walking tour takes you to the historic churches and the City Tower. After lunch, a bus conveniently takes you to the Puch Museum. The day concludes with a visit to the Planetarium, just a short walk away. This plan combines short clustered walks with efficient bus rides to experience the city's main attractions in a relaxed way."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am Busbahnhof",
+            "tip": "Holen Sie sich einen schnellen Snack vor oder nach Ihrer Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a buszpályaudvaron",
+            "tip": "Kapjon be egy gyors harapnivalót a buszozás előtt vagy után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie la autogară",
+            "tip": "Luați o gustare rapidă înainte sau după călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery at the bus station",
+            "tip": "Grab a quick snack before or after your bus ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Auf einer Bank im Park sitzen",
+            "tip": "Nutzen Sie die Wartezeit auf den Bus für eine kurze Pause in einem der kleinen Parks.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üldögélés egy padon a parkban",
+            "tip": "Használja ki a buszra való várakozási időt egy rövid pihenőre az egyik kis parkban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stând pe o bancă în parc",
+            "tip": "Folosiți timpul de așteptare pentru autobuz pentru o scurtă pauză într-unul dintre micile parcuri.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sitting on a park bench",
+            "tip": "Use the waiting time for the bus for a short break in one of the small parks.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Hauptplatz",
+            "tip": "Kaufen Sie Fahrkarten, Postkarten und kleine Souvenirs direkt am zentralen Umsteigepunkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a Főtéren",
+            "tip": "Vásároljon jegyeket, képeslapokat és apró ajándéktárgyakat közvetlenül a központi átszállóponton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc în Piața Principală",
+            "tip": "Cumpărați bilete, cărți poștale și mici suveniruri direct de la punctul central de transfer."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the Main Square",
+            "tip": "Buy tickets, postcards, and small souvenirs right at the central transfer point."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eine Tageskarte für den Stadtbus kann sich lohnen, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders an Wochenenden und Feiertagen.",
+          "Die meisten Busfahrer sind hilfsbereit, wenn Sie nach der richtigen Haltestelle fragen."
+        ],
+        "hu": [
+          "Megérheti napijegyet venni a városi buszra, ha több utazást tervez.",
+          "Előre ellenőrizze a buszmenetrendet, különösen hétvégén és ünnepnapokon.",
+          "A legtöbb buszsofőr segítőkész, ha megkérdezi a megfelelő megállót."
+        ],
+        "ro": [
+          "Un bilet de o zi pentru autobuzul urban poate fi rentabil dacă planificați mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, în special în weekenduri și de sărbători.",
+          "Majoritatea șoferilor de autobuz sunt de ajutor dacă întrebați care este stația corectă."
+        ],
+        "en": [
+          "A day ticket for the city bus can be worthwhile if you plan several trips.",
+          "Check the bus schedule in advance, especially on weekends and holidays.",
+          "Most bus drivers are helpful if you ask for the right stop."
+        ]
+      }
+    }
+  }
+}

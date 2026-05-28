@@ -1,0 +1,1532 @@
+{
+  "city_id": "latvia-balvi-cities-v2",
+  "anchor": {
+    "name": "Balvi",
+    "coords": [
+      57.1353,
+      27.2628
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturzentrum Balvi",
+            "hu": "Balvi Kulturális Központ",
+            "ro": "Centrul Cultural Balvi",
+            "en": "Balvi Culture Centre"
+          },
+          "coords": [
+            27.2645,
+            57.1321
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den lokalen Veranstaltungsplan, vielleicht findet ein Konzert statt.",
+            "hu": "Nézd meg a helyi programajánlót, hátha van egy jó koncert.",
+            "ro": "Verificați programul local de evenimente, s-ar putea să prindeți un concert.",
+            "en": "Check the local event schedule; you might catch a concert."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Balvi",
+            "hu": "Balvi Múzeum",
+            "ro": "Muzeul Balvi",
+            "en": "Balvi Museum"
+          },
+          "coords": [
+            27.2662,
+            57.1335
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen zur Geschichte der Region Lettgallen.",
+            "hu": "Fókuszálj a Latgale régió történelmét bemutató kiállításokra.",
+            "ro": "Concentrează-te pe expozițiile despre istoria regiunii Latgale.",
+            "en": "Focus on the exhibitions detailing the history of the Latgale region."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Partisanen Lettgallens",
+            "hu": "A Latgale-i Partizánok Emlékműve",
+            "ro": "Monumentul Partizanilor din Latgale",
+            "en": "Monument to the Partisans of Latgale"
+          },
+          "coords": [
+            27.2688,
+            57.134
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:45",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein wichtiger Ort, um die Widerstandsgeschichte Lettlands zu verstehen.",
+            "hu": "Fontos hely a lett ellenállás történetének megértéséhez.",
+            "ro": "Un loc important pentru a înțelege istoria rezistenței din Letonia.",
+            "en": "An important spot to understand Latvia's history of resistance."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Balvi",
+            "hu": "Balvi Kastély",
+            "ro": "Conacul Balvi",
+            "en": "Balvi Manor"
+          },
+          "coords": [
+            27.2711,
+            57.1365
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:11",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fragen Sie nach der Geschichte der Familie Goro, den ehemaligen Besitzern.",
+            "hu": "Kérdezz rá a Goro család, a korábbi tulajdonosok történetére.",
+            "ro": "Întrebați despre istoria familiei Goro, foștii proprietari.",
+            "en": "Ask about the history of the Goro family, the former owners."
+          }
+        },
+        {
+          "name": {
+            "de": "Lāča dārzs Park (Bärengarten)",
+            "hu": "Lāča dārzs Park (Medve-kert)",
+            "ro": "Parcul Lāča dārzs (Grădina Ursului)",
+            "en": "Lāča dārzs Park (Bear Garden)"
+          },
+          "coords": [
+            27.27,
+            57.139
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:31",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für ein Mittagspicknick. Es gibt viele Bänke mit schöner Aussicht.",
+            "hu": "Tökéletes egy ebéd-piknikhez. Számos pad található szép kilátással.",
+            "ro": "Perfect pentru un picnic la prânz. Există multe bănci cu priveliști frumoase.",
+            "en": "Perfect for a lunch picnic. There are plenty of benches with nice views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Geburt Christi",
+            "hu": "Krisztus Születése Székesegyház",
+            "ro": "Catedrala Nașterea Domnului",
+            "en": "Cathedral of the Nativity of Christ"
+          },
+          "coords": [
+            27.2595,
+            57.1311
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:19",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die orthodoxe Ikonostase, sie ist besonders kunstvoll.",
+            "hu": "Figyeld meg az ortodox ikonosztázt, különösen művészi.",
+            "ro": "Observați iconostasul ortodox, este deosebit de elaborat.",
+            "en": "Pay attention to the Orthodox iconostasis; it's particularly artistic."
+          }
+        },
+        {
+          "name": {
+            "de": "Balvi-See",
+            "hu": "Balvi-tó",
+            "ro": "Lacul Balvi",
+            "en": "Lake Balvi"
+          },
+          "coords": [
+            27.248,
+            57.13
+          ],
+          "category": "lake",
+          "arrive_at": "16:44",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Finden Sie den kleinen Pier für die beste Aussicht auf den Sonnenuntergang.",
+            "hu": "Keresd meg a kis mólót a legjobb naplementés kilátásért.",
+            "ro": "Găsiți micul debarcader pentru cea mai bună priveliște la apus.",
+            "en": "Find the small pier for the best sunset view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Balvi beginnt mit einem kulturellen Eintauchen in das Herz der Stadt. Der Vormittag ist der Geschichte und Kunst gewidmet, vom Kulturzentrum bis zum Herrenhaus, das von der Vergangenheit der Region erzählt. Am Mittag können Sie sich im charmanten Lāča dārzs Park entspannen, ideal für eine Pause. Am Nachmittag schlendern Sie zur orthodoxen Kathedrale, bevor Sie den Tag mit einem ruhigen Spaziergang am Ufer des Balvi-Sees ausklingen lassen, wo die Natur Lettgallens ihre ganze Schönheit zeigt.",
+        "hu": "A napod Balviban a város szívében, egy kulturális elmélyüléssel kezdődik. A délelőtt a történelemé és a művészeté, a kulturális központtól a régió múltjáról mesélő kastélyig. Délben a bájos Lāča dārzs Parkban pihenhetsz, ami ideális egy szünetre. Délután sétálj el az ortodox katedrálishoz, mielőtt a napot egy békés sétával zárod a Balvi-tó partján, ahol Latgale természetének teljes szépsége megmutatkozik.",
+        "ro": "Ziua ta în Balvi începe cu o imersiune culturală în inima orașului. Dimineața este dedicată istoriei și artei, de la centrul cultural la conacul care povestește despre trecutul regiunii. La prânz, te poți relaxa în fermecătorul parc Lāča dārzs, ideal pentru o pauză. După-amiaza, plimbă-te până la catedrala ortodoxă înainte de a încheia ziua cu o plimbare liniștită pe malul lacului Balvi, unde natura din Latgale își arată toată frumusețea.",
+        "en": "Your day in Balvi begins with a cultural immersion in the heart of the town. The morning is dedicated to history and art, from the culture centre to the manor that tells of the region's past. At midday, relax in the charming Lāča dārzs Park, ideal for a break. In the afternoon, stroll to the Orthodox cathedral before ending the day with a peaceful walk along the shores of Lake Balvi, where the nature of Latgale reveals its full beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Geräucherte Seefische",
+            "tip": "Probieren Sie in einem lokalen Restaurant am Balvi-See geräucherte Maränen oder Barsche."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Das dichte und dunkle lettische Roggenbrot ist eine köstliche Beilage zu jeder Mahlzeit."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "Ein süßer Kuchen aus Roggenteig mit Karotten- und Kartoffelfüllung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Füstölt tavi hal",
+            "tip": "Kóstolj meg füstölt marénát vagy sügért egy helyi étteremben a Balvi-tó mellett."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "A sűrű és sötét lett rozskenyér ízletes kísérője minden étkezésnek."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "Édes pite rozstésztából, sárgarépa- és burgonyatöltelékkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește de lac afumat",
+            "tip": "Încearcă coregon sau biban afumat la un restaurant local de lângă Lacul Balvi."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Pâinea de secară letonă, densă și închisă la culoare, este un acompaniament delicios la orice masă."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "O plăcintă dulce făcută din aluat de secară cu umplutură de morcovi și cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smoked lake fish",
+            "tip": "Try smoked whitefish or perch from a local restaurant near Lake Balvi."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "The dense and dark Latvian rye bread is a delicious side for any meal."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "A sweet pie made of rye dough, with a carrot and potato filling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Balvi-Sees",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die friedliche Atmosphäre des Wassers.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten der Steine",
+            "tip": "Ein meditativer Ort, perfekt für eine ruhige Kontemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lāča dārzs Park",
+            "tip": "Entfliehen Sie in die ruhigeren Ecken des Parks, abseits der Hauptwege.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Balvi-tó partja",
+            "tip": "Keress egy csendes padot, és élvezd a víz békés hangulatát.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kövek kertje",
+            "tip": "Meditatív hely, tökéletes a csendes elmélkedéshez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lāča dārzs Park",
+            "tip": "Menekülj el a park csendesebb zugaiba, távol a fő utaktól.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Lacului Balvi",
+            "tip": "Găsește o bancă liniștită și bucură-te de atmosfera pașnică a apei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina de Piatră",
+            "tip": "Un loc meditativ, perfect pentru contemplare liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Lāča dārzs",
+            "tip": "Evadează în colțurile mai liniștite ale parcului, departe de aleile principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Lake Balvi",
+            "tip": "Find a quiet bench and enjoy the peaceful atmosphere of the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garden of Stones",
+            "tip": "A meditative space, perfect for quiet contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lāča dārzs Park",
+            "tip": "Escape to the quieter corners of the park, away from the main paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigten Leinenprodukten oder Holzschnitzereien."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Ein klassisches baltisches Souvenir. Achten Sie auf zertifizierte Händler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keress kézzel készített lenvászon termékeket vagy fafaragásokat."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Klasszikus balti szuvenír. Keress tanúsítvánnyal rendelkező árusokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Locală",
+            "tip": "Căutați produse artizanale din in sau sculpturi în lemn."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Un suvenir clasic baltic. Căutați vânzători certificați."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade linen products or wood carvings."
+          },
+          {
+            "name": "Amber Jewelry",
+            "tip": "A classic Baltic souvenir. Look for certified vendors."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Prüfen Sie die Öffnungszeiten des Museums und des Herrenhauses im Voraus.",
+          "Ein kleiner Regenschirm ist immer eine gute Idee, das Wetter kann sich schnell ändern."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel a nap nagy részében gyalogolni fogsz.",
+          "Hozz magaddal egy újratölthető vizes palackot.",
+          "Előre ellenőrizd a múzeum és a kastély nyitvatartási idejét.",
+          "Egy kis esernyő mindig jó ötlet, az időjárás gyorsan változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Luați cu voi o sticlă de apă reutilizabilă.",
+          "Verificați în avans orele de program ale muzeului și conacului.",
+          "O umbrelă mică este întotdeauna o idee bună, vremea se poate schimba rapid."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking for most of the day.",
+          "Bring a reusable water bottle.",
+          "Check the opening hours for the museum and manor in advance.",
+          "A small umbrella is always a good idea; the weather can change quickly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 9.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Balvi-See",
+            "hu": "Balvi-tó",
+            "ro": "Lacul Balvi",
+            "en": "Lake Balvi"
+          },
+          "coords": [
+            27.248,
+            57.13
+          ],
+          "category": "lake",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer erfrischenden Runde um den See.",
+            "hu": "Kezdd a napot egy frissítő körrel a tó körül.",
+            "ro": "Începeți ziua cu o tură revigorantă în jurul lacului.",
+            "en": "Start the day with a refreshing ride around the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Garten der Steine",
+            "hu": "Kövek kertje",
+            "ro": "Grădina de piatră",
+            "en": "Garden of Stones"
+          },
+          "coords": [
+            27.255,
+            57.128
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:16",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Halt für eine ruhige Pause.",
+            "hu": "Rövid, de megérő megálló egy csendes pihenőre.",
+            "ro": "O oprire scurtă, dar meritată, pentru o pauză de liniște.",
+            "en": "A short but rewarding stop for a quiet break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Geburt Christi",
+            "hu": "Krisztus Születése Székesegyház",
+            "ro": "Catedrala Nașterea Domnului",
+            "en": "Cathedral of the Nativity of Christ"
+          },
+          "coords": [
+            27.2595,
+            57.1311
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die beeindruckende Architektur zu bewundern.",
+            "hu": "Szánj időt a lenyűgöző építészet megcsodálására.",
+            "ro": "Acordați-vă timp pentru a admira arhitectura impresionantă.",
+            "en": "Take a moment to admire the impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Balvi",
+            "hu": "Balvi Kulturális Központ",
+            "ro": "Centrul Cultural Balvi",
+            "en": "Balvi Culture Centre"
+          },
+          "coords": [
+            27.2645,
+            57.1321
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:53",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schneller Blick auf das moderne Herz von Balvi.",
+            "hu": "Egy gyors pillantás Balvi modern szívére.",
+            "ro": "O privire rapidă la inima modernă a orașului Balvi.",
+            "en": "A quick look at the modern heart of Balvi."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Balvi",
+            "hu": "Balvi Múzeum",
+            "ro": "Muzeul Balvi",
+            "en": "Balvi Museum"
+          },
+          "coords": [
+            27.2662,
+            57.1335
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie in die lokale Geschichte ein.",
+            "hu": "Zárd le biztonságosan a biciklidet, és merülj el a helyi történelemben.",
+            "ro": "Parcați-vă bicicleta în siguranță și scufundați-vă în istoria locală.",
+            "en": "Park your bike securely and dive into the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Partisanen Lettgallens",
+            "hu": "A Latgale-i Partizánok Emlékműve",
+            "ro": "Monumentul Partizanilor din Latgale",
+            "en": "Monument to the Partisans of Latgale"
+          },
+          "coords": [
+            27.2688,
+            57.134
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:00",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Moment des Innehaltens, um über die komplexe Geschichte nachzudenken.",
+            "hu": "Egy pillanatnyi megállás, hogy elgondolkodj a bonyolult történelmen.",
+            "ro": "Un moment de reflecție asupra istoriei complexe.",
+            "en": "A moment of pause to reflect on the complex history."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Balvi",
+            "hu": "Balvi Kastély",
+            "ro": "Conacul Balvi",
+            "en": "Balvi Manor"
+          },
+          "coords": [
+            27.2711,
+            57.1365
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um die Eleganz der alten baltischen Aristokratie zu spüren.",
+            "hu": "Tökéletes hely a régi balti arisztokrácia eleganciájának megérzéséhez.",
+            "ro": "Locul perfect pentru a simți eleganța vechii aristocrații baltice.",
+            "en": "The perfect place to feel the elegance of the old Baltic aristocracy."
+          }
+        },
+        {
+          "name": {
+            "de": "Lāča dārzs Park (Bärengarten)",
+            "hu": "Lāča dārzs Park (Medve-kert)",
+            "ro": "Parcul Lāča dārzs (Grădina Ursului)",
+            "en": "Lāča dārzs Park (Bear Garden)"
+          },
+          "coords": [
+            27.27,
+            57.139
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 95,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannten Zeit in diesem schönen Park.",
+            "hu": "Fejezd be a biciklitúrát egy pihentető időtöltéssel ebben a szép parkban.",
+            "ro": "Încheiați-vă turul cu bicicleta cu un moment de relaxare în acest parc frumos.",
+            "en": "End your bike tour with some relaxing time in this beautiful park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrradtour durch Balvi ist eine Reise durch Natur und Geschichte. Sie beginnen am ruhigen Balvi-See und radeln durch den meditativen Steingarten zur orthodoxen Kathedrale. Der Vormittag führt Sie ins Herz der Stadt zum Kulturzentrum und Museum. Nach einer Mittagspause erkunden Sie das Partisanendenkmal und das prächtige Herrenhaus. Der Tag endet im grünen Lāča dārzs Park, wo Sie die Beine ausstrecken und die Eindrücke des Tages Revue passieren lassen können.",
+        "hu": "A balvi biciklitúrád egy utazás a természetben és a történelemben. A békés Balvi-tónál kezdesz, majd a meditatív Kövek kertjén keresztül tekersz az ortodox katedrálishoz. A délelőtt a város szívébe, a kulturális központba és a múzeumba vezet. Egy ebédszünet után felfedezed a partizán emlékművet és a pompás kastélyt. A nap a zöld Lāča dārzs Parkban ér véget, ahol kinyújtóztathatod a lábaidat és átgondolhatod a nap élményeit.",
+        "ro": "Turul tău cu bicicleta prin Balvi este o călătorie prin natură și istorie. Începi la liniștitul lac Balvi, pedalând prin Grădina de Piatră meditativă spre catedrala ortodoxă. Dimineața te duce în inima orașului, la centrul cultural și muzeu. După o pauză de prânz, explorezi monumentul partizanilor și magnificul conac. Ziua se încheie în verdele parc Lāča dārzs, unde te poți întinde și reflecta la impresiile zilei.",
+        "en": "Your bike tour of Balvi is a journey through nature and history. You start at the serene Lake Balvi, cycling through the meditative Garden of Stones to the Orthodox cathedral. The morning takes you into the heart of the town at the culture centre and museum. After a lunch break, you'll explore the partisan monument and the magnificent manor. The day concludes in the green Lāča dārzs Park, where you can stretch your legs and reflect on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kartoffelpuffer (Kartupeļu pankūkas)",
+            "tip": "Ein herzhafter und sättigender Snack, perfekt für eine Radtour-Pause."
+          },
+          {
+            "name": "Kwas",
+            "tip": "Ein traditionelles, leicht fermentiertes Getränk aus Roggenbrot, sehr erfrischend."
+          },
+          {
+            "name": "Lokales Eis",
+            "tip": "Belohnen Sie sich nach Ihrer Radtour mit einem Eis aus einer örtlichen Konditorei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tócsni (Kartupeļu pankūkas)",
+            "tip": "Szívós és laktató snack, tökéletes egy biciklis szünethez."
+          },
+          {
+            "name": "Kvasz",
+            "tip": "Hagyományos, enyhén erjesztett ital rozskenyérből, nagyon frissítő."
+          },
+          {
+            "name": "Helyi fagylalt",
+            "tip": "Jutalmazd meg magad a biciklitúra után egy fagyival egy helyi cukrászdából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Clătite de cartofi (Kartupeļu pankūkas)",
+            "tip": "O gustare consistentă și sățioasă, perfectă pentru o pauză în timpul turului cu bicicleta."
+          },
+          {
+            "name": "Cvas",
+            "tip": "O băutură tradițională, ușor fermentată, din pâine de secară, foarte răcoritoare."
+          },
+          {
+            "name": "Înghețată locală",
+            "tip": "Recompensează-te cu o înghețată de la o cofetărie locală după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Potato Pancakes (Kartupeļu pankūkas)",
+            "tip": "A hearty and filling snack, perfect for a biking break."
+          },
+          {
+            "name": "Kvass",
+            "tip": "A traditional, lightly fermented drink made from rye bread, very refreshing."
+          },
+          {
+            "name": "Local Ice Cream",
+            "tip": "Reward yourself with an ice cream from a local pastry shop after your ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg um den Balvi-See",
+            "tip": "Der Weg bietet viele ruhige Abschnitte mit direktem Blick auf das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Herrenhaus Park",
+            "tip": "Der Bereich hinter dem Herrenhaus ist oft sehr ruhig und friedlich.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sonnenaufgang am See",
+            "tip": "Wenn Sie früh starten, ist der Sonnenaufgang über dem See ein magischer Moment.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Balvi-tó körül",
+            "tip": "Az út számos csendes szakaszt kínál, közvetlen kilátással a vízre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kastélypark",
+            "tip": "A kastély mögötti terület gyakran nagyon csendes és békés.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Napfelkelte a tónál",
+            "tip": "Ha korán indulsz, a napfelkelte a tó felett varázslatos pillanat.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete din jurul lacului Balvi",
+            "tip": "Traseul oferă multe secțiuni liniștite cu vedere directă la apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Conacului",
+            "tip": "Zona din spatele conacului este adesea foarte tăcută și pașnică.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Răsărit la lac",
+            "tip": "Dacă porniți devreme, răsăritul peste lac este un moment magic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path around Lake Balvi",
+            "tip": "The path offers many quiet sections with direct views of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Manor Park",
+            "tip": "The area behind the manor is often very quiet and peaceful.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sunrise at the lake",
+            "tip": "If you start early, the sunrise over the lake is a magical moment.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäft",
+            "tip": "Falls Sie Zubehör für Ihr Fahrrad benötigen."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "Ein süßes und gesundes Souvenir, das von den Wiesen Lettgallens stammt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportbolt",
+            "tip": "Ha kerékpáros kiegészítőre lenne szükséged."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "Édes és egészséges szuvenír Latgale rétjeiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de sport",
+            "tip": "În caz că aveți nevoie de accesorii pentru bicicletă."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Un suvenir dulce și sănătos, provenit de pe pajiștile din Latgale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports shop",
+            "tip": "In case you need any accessories for your bike."
+          },
+          {
+            "name": "Local Honey",
+            "tip": "A sweet and healthy souvenir, sourced from the meadows of Latgale."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck und die Bremsen, bevor Sie losfahren.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie ein Fahrradschloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Viele Wege rund um den See sind unbefestigt, fahren Sie also vorsichtig."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a guminyomást és a fékeket.",
+          "Sisak viselése erősen ajánlott.",
+          "Hozz magaddal egy biciklizárat, hogy biztonságosan lezárhasd a megállóknál.",
+          "A tó körüli utak nagy része földút, ezért óvatosan vezess."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope și frânele înainte de a porni.",
+          "O cască este foarte recomandată.",
+          "Luați un lacăt de bicicletă pentru a vă asigura bicicleta la opriri.",
+          "Multe dintre potecile din jurul lacului nu sunt asfaltate, așa că mergeți cu prudență."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before you set off.",
+          "A helmet is strongly recommended.",
+          "Bring a bike lock to secure your bike at stops.",
+          "Many of the paths around the lake are unpaved, so ride with care."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 7.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Balvi-See",
+            "hu": "Parkoló a Balvi-tónál",
+            "ro": "Parcare la Lacul Balvi",
+            "en": "Parking at Lake Balvi"
+          },
+          "coords": [
+            27.245,
+            57.129
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier. Das Parken ist in der Regel einfach.",
+            "hu": "Kezdd itt a napot. A parkolás általában egyszerű.",
+            "ro": "Începeți ziua aici. Parcarea este de obicei ușoară.",
+            "en": "Start your day here. Parking is usually easy."
+          }
+        },
+        {
+          "name": {
+            "de": "Balvi-See Spaziergang",
+            "hu": "Séta a Balvi-tónál",
+            "ro": "Plimbare la Lacul Balvi",
+            "en": "Lake Balvi Walk"
+          },
+          "coords": [
+            27.248,
+            57.13
+          ],
+          "category": "lake",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die morgendliche Stille am Wasser.",
+            "hu": "Élvezd a reggeli csendet a vízparton.",
+            "ro": "Bucurați-vă de liniștea dimineții de lângă apă.",
+            "en": "Enjoy the morning quiet by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Garten der Steine",
+            "hu": "Kövek kertje",
+            "ro": "Grădina de piatră",
+            "en": "Garden of Stones"
+          },
+          "coords": [
+            27.255,
+            57.128
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom See entfernt, ein Ort der Ruhe.",
+            "hu": "Rövid séta a tótól, a nyugalom szigete.",
+            "ro": "O scurtă plimbare de la lac, un loc de liniște.",
+            "en": "A short walk from the lake, a place of tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum",
+            "hu": "Parkoló a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "City Centre Parking"
+          },
+          "coords": [
+            27.265,
+            57.1325
+          ],
+          "category": "transport",
+          "arrive_at": "11:30",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den zentralen Cluster von Sehenswürdigkeiten.",
+            "hu": "Parkolj itt a központi látnivalókhoz.",
+            "ro": "Parcați aici pentru grupul central de atracții.",
+            "en": "Park here for the central cluster of sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Balvi",
+            "hu": "Balvi Múzeum",
+            "ro": "Muzeul Balvi",
+            "en": "Balvi Museum"
+          },
+          "coords": [
+            27.2662,
+            57.1335
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ideal, um die Mittagszeit drinnen zu verbringen und etwas über die Gegend zu lernen.",
+            "hu": "Ideális a déli időt bent tölteni és tanulni a környékről.",
+            "ro": "Ideal pentru a petrece amiaza în interior și a învăța despre zonă.",
+            "en": "Ideal for spending midday indoors and learning about the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Geburt Christi",
+            "hu": "Krisztus Születése Székesegyház",
+            "ro": "Catedrala Nașterea Domnului",
+            "en": "Cathedral of the Nativity of Christ"
+          },
+          "coords": [
+            27.2595,
+            57.1311
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum entfernt, bewundern Sie die orthodoxe Architektur.",
+            "hu": "Rövid séta a múzeumtól, csodáld meg az ortodox építészetet.",
+            "ro": "O scurtă plimbare de la muzeu, admirați arhitectura ortodoxă.",
+            "en": "A short walk from the museum, admire the Orthodox architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Balvi und Park",
+            "hu": "Balvi Kastély és Park",
+            "ro": "Conacul și Parcul Balvi",
+            "en": "Balvi Manor and Park"
+          },
+          "coords": [
+            27.2711,
+            57.1365
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 175,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Planen Sie hier mehr Zeit ein, um sowohl das Herrenhaus als auch den Lāča dārzs Park zu erkunden.",
+            "hu": "Tervezz itt több időt, hogy felfedezd a kastélyt és a Lāča dārzs Parkot is.",
+            "ro": "Planificați mai mult timp aici pentru a explora atât conacul, cât și parcul Lāča dārzs.",
+            "en": "Plan more time here to explore both the manor and the Lāča dārzs Park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Balvi ermöglicht es Ihnen, die Sehenswürdigkeiten in Clustern zu erkunden. Beginnen Sie am Balvi-See, wo Sie Ihr Auto parken und einen ruhigen Morgenspaziergang zum Steingarten machen. Fahren Sie dann ins Stadtzentrum, um das Museum und die Kathedrale zu Fuß zu erkunden. Der Nachmittag ist dem prächtigen Herrenhaus Balvi und seinem angrenzenden Park gewidmet, ein perfekter Ort, um den Tag entspannt ausklingen zu lassen und die Geschichte und Natur der Region zu genießen.",
+        "hu": "Az autós napod Balviban lehetővé teszi, hogy a látnivalókat csoportokban fedezd fel. Kezdj a Balvi-tónál, ahol leparkolhatsz és egy békés reggeli sétát tehetsz a Kövek kertjéhez. Ezután hajts be a városközpontba, hogy gyalog fedezd fel a múzeumot és a katedrálist. A délután a csodálatos Balvi kastélyé és a hozzá tartozó parké, tökéletes hely a nap laza befejezéséhez, élvezve a régió történelmét és természetét.",
+        "ro": "Ziua ta cu mașina în Balvi îți permite să explorezi atracțiile în grupuri. Începe la Lacul Balvi, unde parchezi și faci o plimbare liniștită de dimineață până la Grădina de Piatră. Apoi, conduci spre centrul orașului pentru a explora pe jos muzeul și catedrala. După-amiaza este dedicată magnificului Conac Balvi și parcului adiacent, un loc perfect pentru a încheia ziua într-un mod relaxat, bucurându-te de istoria și natura regiunii.",
+        "en": "Your car day in Balvi allows you to explore the sights in clusters. Start at Lake Balvi, parking your car for a peaceful morning walk to the Garden of Stones. Then, drive to the town centre to explore the museum and cathedral on foot. The afternoon is dedicated to the magnificent Balvi Manor and its adjacent park, a perfect place to end the day in a relaxed manner, enjoying the region's history and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant 'Balvu Krogs'",
+            "tip": "Ein fiktives, aber plausibles Restaurant für authentische lettgallische Küche."
+          },
+          {
+            "name": "Graue Erbsen mit Speck (Pelēkie zirņi)",
+            "tip": "Ein Nationalgericht Lettlands, herzhaft und sehr traditionell."
+          },
+          {
+            "name": "Birkensaft (Bērzu sula)",
+            "tip": "Wenn Sie im Frühling hier sind, probieren Sie dieses einzigartige und erfrischende Getränk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'Balvu Krogs' étterem",
+            "tip": "Fiktív, de hihető étterem az autentikus latgale-i konyháért."
+          },
+          {
+            "name": "Szürke borsó szalonnával (Pelēkie zirņi)",
+            "tip": "Lettország nemzeti étele, kiadós és nagyon hagyományos."
+          },
+          {
+            "name": "Nyírfalé (Bērzu sula)",
+            "tip": "Ha tavasszal jársz itt, kóstold meg ezt az egyedi és frissítő italt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant 'Balvu Krogs'",
+            "tip": "Un restaurant fictiv, dar plauzibil, pentru bucătăria autentică din Latgale."
+          },
+          {
+            "name": "Mazăre gri cu slănină (Pelēkie zirņi)",
+            "tip": "Un fel de mâncare național leton, consistent și foarte tradițional."
+          },
+          {
+            "name": "Sevă de mesteacăn (Bērzu sula)",
+            "tip": "Dacă sunteți aici primăvara, încercați această băutură unică și răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant 'Balvu Krogs'",
+            "tip": "A fictional but plausible restaurant for authentic Latgalian cuisine."
+          },
+          {
+            "name": "Grey Peas with Bacon (Pelēkie zirņi)",
+            "tip": "A Latvian national dish, hearty and very traditional."
+          },
+          {
+            "name": "Birch sap (Bērzu sula)",
+            "tip": "If you are here in the spring, try this unique and refreshing drink."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abgelegene Bucht am Balvi-See",
+            "tip": "Fahren Sie ein Stück weiter am See entlang, um einen privaten Platz zu finden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der alte Friedhof",
+            "tip": "Oft ein Ort von historischer Bedeutung und großer Ruhe.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Sonnenuntergang vom Auto aus",
+            "tip": "Finden Sie einen guten Parkplatz mit Blick nach Westen über den See.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elhagyatott öböl a Balvi-tónál",
+            "tip": "Hajts egy kicsit tovább a tó mentén, hogy egy privát helyet találj.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A régi temető",
+            "tip": "Gyakran történelmi jelentőségű és nagy nyugalmat árasztó hely.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Naplemente az autóból",
+            "tip": "Keress egy jó parkolóhelyet nyugati kilátással a tóra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golf izolat la Lacul Balvi",
+            "tip": "Conduceți puțin mai departe de-a lungul lacului pentru a găsi un loc privat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul vechi",
+            "tip": "Adesea un loc de importanță istorică și de mare liniște.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Apus de soare din mașină",
+            "tip": "Găsiți un loc bun de parcare cu vedere spre vest peste lac.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Secluded cove at Lake Balvi",
+            "tip": "Drive a little further along the lake to find a private spot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The old cemetery",
+            "tip": "Often a place of historical significance and great tranquility.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Sunset from the car",
+            "tip": "Find a good parking spot with a westward view over the lake.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt am Straßenrand",
+            "tip": "Halten Sie Ausschau nach kleinen Ständen, die lokale Produkte verkaufen."
+          },
+          {
+            "name": "Leinenwaren",
+            "tip": "Lettland ist bekannt für hochwertiges Leinen. Ein tolles Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útszéli termelői piac",
+            "tip": "Figyeld a helyi termékeket árusító kis standokat."
+          },
+          {
+            "name": "Lenvászon termékek",
+            "tip": "Lettország híres a kiváló minőségű lenvászonról. Nagyszerű szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața fermierilor de la marginea drumului",
+            "tip": "Fiți atenți la micile tarabe care vând produse locale."
+          },
+          {
+            "name": "Articole din in",
+            "tip": "Letonia este renumită pentru inul de înaltă calitate. Un suvenir minunat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside farmer's market",
+            "tip": "Keep an eye out for small stalls selling local produce."
+          },
+          {
+            "name": "Linen goods",
+            "tip": "Latvia is known for high-quality linen. A great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine Offline-Karte herunter, da die Mobilfunkabdeckung lückenhaft sein kann.",
+          "Parken ist in Balvi im Allgemeinen kostenlos, aber achten Sie auf eventuelle Schilder.",
+          "Halten Sie Kleingeld für Parkuhren oder kleine Einkäufe bereit.",
+          "Die Cluster-Walking-Methode spart Ihnen Zeit und Stress bei der Parkplatzsuche."
+        ],
+        "hu": [
+          "Tölts le egy offline térképet, mert a mobil lefedettség hiányos lehet.",
+          "A parkolás Balviban általában ingyenes, de figyelj az esetleges táblákra.",
+          "Tarts magadnál aprópénzt a parkolóórákhoz vagy kisebb vásárlásokhoz.",
+          "A csoportos séta módszerrel időt és stresszt takaríthatsz meg a parkolóhely keresésénél."
+        ],
+        "ro": [
+          "Descărcați o hartă offline, deoarece acoperirea mobilă poate fi discontinuă.",
+          "Parcarea este în general gratuită în Balvi, dar fiți atenți la eventualele semne.",
+          "Păstrați monede pentru automatele de parcare sau cumpărături mici.",
+          "Metoda de plimbare în grup vă economisește timp și stres în găsirea unui loc de parcare."
+        ],
+        "en": [
+          "Download an offline map, as mobile coverage can be patchy.",
+          "Parking is generally free in Balvi, but pay attention to any signs.",
+          "Keep some small change for parking meters or small purchases.",
+          "The cluster-walking method will save you time and stress finding parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszmegálló",
+            "ro": "Autogara Centrală",
+            "en": "Central Bus Stop"
+          },
+          "coords": [
+            27.263,
+            57.1315
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte, um sich flexibel bewegen zu können.",
+            "hu": "Vegyél egy napijegyet a rugalmas közlekedéshez.",
+            "ro": "Cumpărați un bilet de o zi pentru a vă deplasa flexibil.",
+            "en": "Buy a day pass for flexible travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Balvi",
+            "hu": "Balvi Kulturális Központ",
+            "ro": "Centrul Cultural Balvi",
+            "en": "Balvi Culture Centre"
+          },
+          "coords": [
+            27.2645,
+            57.1321
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația de autobuz.",
+            "en": "A short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Balvi",
+            "hu": "Balvi Múzeum",
+            "ro": "Muzeul Balvi",
+            "en": "Balvi Museum"
+          },
+          "coords": [
+            27.2662,
+            57.1335
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Herzstück des ersten Erkundungsclusters.",
+            "hu": "Az első felfedező csoport központi eleme.",
+            "ro": "Piesa centrală a primului grup de explorare.",
+            "en": "The centerpiece of the first exploration cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle am Herrenhaus",
+            "hu": "Buszmegálló a kastélynál",
+            "ro": "Stația de autobuz de la Conac",
+            "en": "Bus Stop at the Manor"
+          },
+          "coords": [
+            27.27,
+            57.135
+          ],
+          "category": "transport",
+          "arrive_at": "12:05",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus für das Herrenhaus und den Park.",
+            "hu": "Szállj le itt a kastélyhoz és a parkhoz.",
+            "ro": "Coborâți aici pentru conac și parc.",
+            "en": "Get off here for the manor and the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Balvi und Lāča dārzs Park",
+            "hu": "Balvi Kastély és Lāča dārzs Park",
+            "ro": "Conacul Balvi și Parcul Lāča dārzs",
+            "en": "Balvi Manor and Lāča dārzs Park"
+          },
+          "coords": [
+            27.2711,
+            57.1365
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für beides, einschließlich einer Mittagspause.",
+            "hu": "Szánj időt mindkettőre, beleértve egy ebédszünetet is.",
+            "ro": "Acordați-vă timp pentru ambele, inclusiv o pauză de prânz.",
+            "en": "Take your time for both, including a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle am See",
+            "hu": "Buszmegálló a tónál",
+            "ro": "Stația de autobuz de la Lac",
+            "en": "Bus Stop at the Lake"
+          },
+          "coords": [
+            27.25,
+            57.13
+          ],
+          "category": "transport",
+          "arrive_at": "15:00",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages. Genießen Sie die Natur, bevor Sie den Bus zurück nehmen.",
+            "hu": "A nap utolsó megállója. Élvezd a természetet, mielőtt visszamész a busszal.",
+            "ro": "Ultima oprire a zilei. Bucurați-vă de natură înainte de a lua autobuzul înapoi.",
+            "en": "The last stop of the day. Enjoy nature before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Balvi effizient in Clustern. Sie beginnen im Zentrum und spazieren vom Busbahnhof zum Kulturzentrum und Museum. Nach diesem historischen Vormittag bringt Sie ein kurzer Bus Sie zum Herrenhaus-Cluster, wo Sie das Anwesen und den angrenzenden Park erkunden. Der letzte Bus bringt Sie zum malerischen Balvi-See, ein perfekter Ort, um den Nachmittag in der Natur zu verbringen, bevor Sie Ihre Rückreise antreten.",
+        "hu": "Tömegközlekedéssel hatékonyan, csoportokban fedezheted fel Balvit. A központban kezdesz, a buszpályaudvartól a kulturális központig és a múzeumig sétálsz. E történelmi délelőtt után egy rövid buszút elvisz a kastélyhoz, ahol felfedezheted az épületet és a szomszédos parkot. Az utolsó busz a festői Balvi-tóhoz visz, amely tökéletes hely a délután természetben való eltöltésére, mielőtt visszaindulnál.",
+        "ro": "Folosind transportul public, explorezi Balvi eficient, în grupuri. Începi din centru, plimbându-te de la autogară la centrul cultural și muzeu. După această dimineață istorică, un scurt autobuz te duce la grupul conacului, unde explorezi proprietatea și parcul adiacent. Ultimul autobuz te duce la pitorescul lac Balvi, un loc perfect pentru a petrece după-amiaza în natură înainte de a te întoarce.",
+        "en": "Using public transit, you'll explore Balvi efficiently in clusters. You start in the center, walking from the bus station to the culture centre and museum. After this historical morning, a short bus ride takes you to the manor cluster, where you'll explore the estate and the adjacent park. The final bus takes you to the scenic Lake Balvi, a perfect spot to spend the afternoon in nature before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pīrāgi",
+            "tip": "Kleine, mit Speck und Zwiebeln gefüllte Brötchen. Ein perfekter Snack für unterwegs."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie eine Flasche von einer lettischen Kleinbrauerei."
+          },
+          {
+            "name": "Roggenbrot-Suppe (Maizes zupa)",
+            "tip": "Ein ungewöhnliches, aber köstliches Dessert aus Roggenbrot, Früchten und Sahne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pīrāgi",
+            "tip": "Kicsi, szalonnával és hagymával töltött zsemlék. Tökéletes úti snack."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstolj meg egy üveggel egy lett kisüzemi sörfőzdéből."
+          },
+          {
+            "name": "Rozskenyérleves (Maizes zupa)",
+            "tip": "Szokatlan, de finom desszert rozskenyérből, gyümölcsökből és tejszínből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pīrāgi",
+            "tip": "Chifle mici umplute cu bacon și ceapă. O gustare perfectă pentru drum."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încearcă o sticlă de la o microberărie letonă."
+          },
+          {
+            "name": "Supă de pâine de secară (Maizes zupa)",
+            "tip": "Un desert neobișnuit, dar delicios, făcut din pâine de secară, fructe și smântână."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pīrāgi",
+            "tip": "Small buns filled with bacon and onion. A perfect on-the-go snack."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a bottle from a Latvian microbrewery."
+          },
+          {
+            "name": "Rye bread soup (Maizes zupa)",
+            "tip": "An unusual but delicious dessert made from rye bread, fruits, and cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Lāča dārzs Park",
+            "tip": "Beobachten Sie das lokale Leben, während Sie auf den Bus warten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Seeufer",
+            "tip": "Gehen Sie ein wenig vom Hauptstrandbereich weg, um mehr Ruhe zu finden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lesen im Bus",
+            "tip": "Die Busfahrten zwischen den Clustern sind eine gute Gelegenheit, ein paar Seiten zu lesen.",
+            "emoji": "📖"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Lāča dārzs Parkban",
+            "tip": "Figyeld a helyi életet, miközben a buszra vársz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a tóparton",
+            "tip": "Menj egy kicsit távolabb a fő strandterülettől a nagyobb nyugalomért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Olvasás a buszon",
+            "tip": "A buszutak a csoportok között jó lehetőséget nyújtanak néhány oldal elolvasására.",
+            "emoji": "📖"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Lāča dārzs",
+            "tip": "Urmăriți viața locală în timp ce așteptați autobuzul.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul lacului",
+            "tip": "Îndepărtați-vă puțin de zona principală a plajei pentru mai multă liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Citit în autobuz",
+            "tip": "Călătoriile cu autobuzul între grupuri sunt o bună ocazie de a citi câteva pagini.",
+            "emoji": "📖"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Lāča dārzs Park",
+            "tip": "Watch the local life go by while waiting for your bus.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lakeside walk",
+            "tip": "Walk a little away from the main beach area to find more quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reading on the bus",
+            "tip": "The bus rides between clusters are a good opportunity to read a few pages.",
+            "emoji": "📖"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie eine Postkarte oder ein kleines Souvenir."
+          },
+          {
+            "name": "Handgefertigte Keramik",
+            "tip": "Halten Sie Ausschau nach einzigartigen Stücken von lokalen Künstlern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vegyél egy képeslapot vagy egy kis szuvenírt."
+          },
+          {
+            "name": "Kézzel készített kerámia",
+            "tip": "Keress egyedi darabokat helyi művészektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați o carte poștală sau un mic suvenir."
+          },
+          {
+            "name": "Ceramică artizanală",
+            "tip": "Căutați piese unice de la artiști locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy a postcard or a small souvenir."
+          },
+          {
+            "name": "Handmade ceramics",
+            "tip": "Look for unique pieces from local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die letzte Fahrt des Tages.",
+          "Eine Tageskarte ist oft günstiger als Einzeltickets.",
+          "Winken Sie dem Busfahrer zu, um sicherzustellen, dass er anhält.",
+          "Planen Sie etwas Pufferzeit ein, da Busse Verspätung haben können."
+        ],
+        "hu": [
+          "Előre ellenőrizd a buszmenetrendet, különösen a nap utolsó járatát.",
+          "A napijegy gyakran olcsóbb, mint az egyedi jegyek.",
+          "Ints a buszsofőrnek, hogy biztosan megálljon.",
+          "Tervezz be némi pufferidőt, mivel a buszok késhetnek."
+        ],
+        "ro": [
+          "Verificați programul autobuzului în avans, mai ales pentru ultima cursă a zilei.",
+          "Un bilet de o zi este adesea mai ieftin decât biletele individuale.",
+          "Faceți semn șoferului de autobuz pentru a vă asigura că oprește.",
+          "Planificați un timp tampon, deoarece autobuzele pot avea întârzieri."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially for the last service of the day.",
+          "A day pass is often cheaper than single tickets.",
+          "Wave at the bus driver to ensure they stop for you.",
+          "Plan for some buffer time, as buses can be delayed."
+        ]
+      }
+    }
+  }
+}

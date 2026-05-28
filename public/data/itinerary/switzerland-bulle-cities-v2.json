@@ -1,0 +1,1524 @@
+{
+  "city_id": "switzerland-bulle-cities-v2",
+  "anchor": {
+    "name": "Bulle",
+    "coords": [
+      7.058,
+      46.617
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Marché",
+            "hu": "Piactér",
+            "ro": "Place du Marché",
+            "en": "Market Square"
+          },
+          "coords": [
+            7.058,
+            46.617
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Indítsa a napot egy kávéval a tér egyik kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bulle",
+            "hu": "Bulle kastély",
+            "ro": "Castelul din Bulle",
+            "en": "Bulle Castle"
+          },
+          "coords": [
+            7.0575,
+            46.618
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die savoyische Architektur und die wechselnden Ausstellungen.",
+            "hu": "Figyelje meg a savoyai építészetet és az időszakos kiállításokat.",
+            "ro": "Observați arhitectura savoyardă și expozițiile temporare.",
+            "en": "Notice the Savoyard architecture and the temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre-aux-Liens",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Saint-Pierre-aux-Liens",
+            "en": "Church of Saint-Pierre-aux-Liens"
+          },
+          "coords": [
+            7.059,
+            46.6175
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Glasfenster und die beeindruckende Orgel.",
+            "hu": "Csodálja meg az üvegablakokat és a lenyűgöző orgonát.",
+            "ro": "Admirați vitraliile și orga impresionantă.",
+            "en": "Admire the stained glass windows and the impressive organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebédszünet az óvárosban",
+            "ro": "Prânz în centrul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            7.0585,
+            46.6165
+          ],
+          "category": "gastro",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Restaurant für ein Fondue moitié-moitié.",
+            "hu": "Kóstoljon meg egy fondue moitié-moitié-t egy helyi étteremben.",
+            "ro": "Încercați un restaurant local pentru un fondue moitié-moitié.",
+            "en": "Try a local restaurant for a fondue moitié-moitié."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée gruérien",
+            "hu": "Gruyère Múzeum",
+            "ro": "Muzeul Gruyère",
+            "en": "Gruyère Museum"
+          },
+          "coords": [
+            7.056,
+            46.619
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss, um die Kultur und Geschichte der Region Gruyère zu verstehen.",
+            "hu": "Kötelező látnivaló Gruyère régió kultúrájának és történelmének megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege cultura și istoria regiunii Gruyère.",
+            "en": "A must-visit to understand the culture and history of the Gruyère region."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Cabalet",
+            "hu": "Cabalet park",
+            "ro": "Parcul Cabalet",
+            "en": "Parc du Cabalet"
+          },
+          "coords": [
+            7.054,
+            46.6145
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort für einen entspannten Nachmittagsspaziergang.",
+            "hu": "Szép hely egy pihentető délutáni sétához.",
+            "ro": "Un loc frumos pentru o plimbare relaxantă de după-amiază.",
+            "en": "A lovely spot for a relaxing afternoon walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue des Abbé Bovet",
+            "hu": "Bovet abbé szobra",
+            "ro": "Statuia abatelui Bovet",
+            "en": "Statue of Abbé Bovet"
+          },
+          "coords": [
+            7.055,
+            46.615
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine Hommage an den berühmten Komponisten und Priester der Region.",
+            "hu": "Tisztelgés a régió híres zeneszerzője és papja előtt.",
+            "ro": "Un omagiu adus celebrului compozitor și preot al regiunii.",
+            "en": "A tribute to the famous composer and priest of the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am belebten Place du Marché. Der Vormittag ist der Erkundung des historischen Herzens von Bulle gewidmet, einschließlich des imposanten Schlosses und der Kirche Saint-Pierre-aux-Liens. Nach einem traditionellen Mittagessen tauchen Sie am Nachmittag in die regionale Kultur im Musée gruérien ein. Beenden Sie den Tag mit einem entspannten Spaziergang durch den Parc du Cabalet und einem Moment der Besinnung bei der Statue von Abbé Bovet.",
+        "hu": "Kezdje a sétát a nyüzsgő Place du Marché téren. A délelőttöt Bulle történelmi szívének felfedezésével töltse, beleértve a lenyűgöző kastélyt és a Saint-Pierre-aux-Liens templomot. Egy hagyományos ebéd után, délután merüljön el a regionális kultúrában a Gruyère Múzeumban. A napot egy pihentető sétával zárja a Cabalet parkban és egy elmélkedő pillanattal Bovet abbé szobránál.",
+        "ro": "Începeți turul pietonal în animata Place du Marché. Dimineața este dedicată explorării inimii istorice a orașului Bulle, inclusiv a impunătorului castel și a bisericii Saint-Pierre-aux-Liens. După un prânz tradițional, după-amiaza vă scufundați în cultura regională la Muzeul Gruyère. Încheiați ziua cu o plimbare relaxantă prin Parcul Cabalet și un moment de reflecție la statuia abatelui Bovet.",
+        "en": "Start your walking tour at the bustling Place du Marché. The morning is dedicated to exploring the historical heart of Bulle, including the imposing castle and the Church of Saint-Pierre-aux-Liens. After a traditional lunch, immerse yourself in regional culture at the Musée gruérien in the afternoon. End your day with a relaxing walk through the Parc du Cabalet and a moment of reflection at the statue of Abbé Bovet."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "Eine Mischung aus Gruyère AOP und Vacherin Fribourgeois AOP, serviert mit Brot und Kartoffeln."
+          },
+          {
+            "name": "Meringues mit Doppelrahm",
+            "tip": "Ein klassisches Dessert aus der Region Gruyère."
+          },
+          {
+            "name": "Cuchaule",
+            "tip": "Ein süßes Safranbrot, das oft zum Frühstück gegessen wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "Gruyère AOP és Vacherin Fribourgeois AOP sajt keveréke, kenyérrel és burgonyával tálalva."
+          },
+          {
+            "name": "Habcsók dupla tejszínnel",
+            "tip": "Klasszikus desszert a Gruyère régióból."
+          },
+          {
+            "name": "Cuchaule",
+            "tip": "Édes sáfrányos kenyér, amelyet gyakran reggelire fogyasztanak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "Un amestec de Gruyère AOP și Vacherin Fribourgeois AOP, servit cu pâine și cartofi."
+          },
+          {
+            "name": "Bezele cu smântână dublă",
+            "tip": "Un desert clasic din regiunea Gruyère."
+          },
+          {
+            "name": "Cuchaule",
+            "tip": "O pâine dulce cu șofran, adesea consumată la micul dejun."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "A mix of Gruyère AOP and Vacherin Fribourgeois AOP cheeses, served with bread and potatoes."
+          },
+          {
+            "name": "Meringues with double cream",
+            "tip": "A classic dessert from the Gruyère region."
+          },
+          {
+            "name": "Cuchaule",
+            "tip": "A sweet saffron bread, often eaten for breakfast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc du Cabalet",
+            "tip": "Eine grüne Oase der Ruhe, ideal für eine Pause vom städtischen Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Trême",
+            "tip": "Ein Spaziergang entlang des kleinen Flusses, der durch die Stadt fließt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kapelle Notre-Dame de Compassion",
+            "tip": "Ein stiller Ort für Gebet und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cabalet park",
+            "tip": "A nyugalom zöld oázisa, ideális a városi nyüzsgésből való kiszakadáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Trême partja",
+            "tip": "Séta a városon átfolyó kis folyó mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Notre-Dame de Compassion kápolna",
+            "tip": "Csendes hely az imádságra és elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Cabalet",
+            "tip": "O oază verde de liniște, ideală pentru o pauză de la agitația urbană.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Trême",
+            "tip": "O plimbare de-a lungul micului râu care traversează orașul.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Capela Notre-Dame de Compassion",
+            "tip": "Un loc tăcut pentru rugăciune și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc du Cabalet",
+            "tip": "A green oasis of tranquility, ideal for a break from the urban hustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Trême",
+            "tip": "A walk along the small river that flows through the town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Chapel of Notre-Dame de Compassion",
+            "tip": "A silent place for prayer and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Donnerstag auf dem Place du Marché, um lokale Produkte zu entdecken."
+          },
+          {
+            "name": "Fromageries",
+            "tip": "Kaufen Sie authentischen Gruyère AOP und andere lokale Käsesorten."
+          },
+          {
+            "name": "Boulangeries",
+            "tip": "Probieren Sie lokale Backwaren wie Cuchaule oder Gâteau du Vully."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Minden csütörtökön a Place du Marché téren, helyi termékekért."
+          },
+          {
+            "name": "Sajtolvasztók",
+            "tip": "Vásároljon eredeti Gruyère AOP-t és más helyi sajtokat."
+          },
+          {
+            "name": "Pékségek",
+            "tip": "Kóstolja meg a helyi pékárukat, mint a Cuchaule vagy a Gâteau du Vully."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare joi în Place du Marché, pentru a descoperi produse locale."
+          },
+          {
+            "name": "Fromageries",
+            "tip": "Cumpărați Gruyère AOP autentic și alte brânzeturi locale."
+          },
+          {
+            "name": "Brutării",
+            "tip": "Încercați produse de patiserie locale, cum ar fi Cuchaule sau Gâteau du Vully."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Thursday in the Place du Marché to discover local products."
+          },
+          {
+            "name": "Cheese Dairies",
+            "tip": "Buy authentic Gruyère AOP and other local cheeses."
+          },
+          {
+            "name": "Bakeries",
+            "tip": "Try local pastries like Cuchaule or Gâteau du Vully."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Überprüfen Sie die Öffnungszeiten des Musée gruérien im Voraus.",
+          "Viele Geschäfte haben über Mittag geschlossen.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Előre ellenőrizze a Gruyère Múzeum nyitvatartási idejét.",
+          "Sok üzlet zárva tart ebédidőben.",
+          "Hozzon magával újratölthető vizes palackot."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați în prealabil orele de deschidere ale Muzeului Gruyère.",
+          "Multe magazine sunt închise la prânz.",
+          "Luați cu dumneavoastră o sticlă de apă reutilizabilă."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Check the opening hours of the Musée gruérien in advance.",
+          "Many shops close for lunch.",
+          "Bring a reusable water bottle."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Place du Marché",
+            "hu": "Kerékpárkölcsönzés és Piactér",
+            "ro": "Închiriere biciclete & Place du Marché",
+            "en": "Bike Rental & Market Square"
+          },
+          "coords": [
+            7.058,
+            46.617
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe des Bahnhofs und radeln Sie zum zentralen Platz.",
+            "hu": "Béreljen kerékpárt az állomás közelében, és tekerjen a központi térre.",
+            "ro": "Închiriați o bicicletă lângă gară și pedalați spre piața centrală.",
+            "en": "Rent a bike near the train station and cycle to the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bulle",
+            "hu": "Bulle kastély",
+            "ro": "Castelul din Bulle",
+            "en": "Bulle Castle"
+          },
+          "coords": [
+            7.0575,
+            46.618
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Eingang ab und erkunden Sie den Schlosshof.",
+            "hu": "Zárja le a kerékpárt a bejáratnál, és fedezze fel a kastély udvarát.",
+            "ro": "Parcați bicicleta la intrare și explorați curtea castelului.",
+            "en": "Park your bike at the entrance and explore the castle courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée gruérien",
+            "hu": "Gruyère Múzeum",
+            "ro": "Muzeul Gruyère",
+            "en": "Gruyère Museum"
+          },
+          "coords": [
+            7.056,
+            46.619
+          ],
+          "category": "museums",
+          "arrive_at": "10:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein; das Museum ist größer als es scheint.",
+            "hu": "Szánjon rá elegendő időt; a múzeum nagyobb, mint amilyennek látszik.",
+            "ro": "Planificați suficient timp; muzeul este mai mare decât pare.",
+            "en": "Plan enough time; the museum is larger than it appears."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Museums",
+            "hu": "Ebédszünet a múzeum közelében",
+            "ro": "Prânz lângă muzeu",
+            "en": "Lunch near the museum"
+          },
+          "coords": [
+            7.0565,
+            46.62
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt mehrere gute Restaurants in Gehweite des Museums.",
+            "hu": "A múzeumtól sétatávolságra több jó étterem is található.",
+            "ro": "Există mai multe restaurante bune la mică distanță de muzeu.",
+            "en": "There are several good restaurants within walking distance of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Cabalet & Ufer der Trême",
+            "hu": "Cabalet park és a Trême partja",
+            "ro": "Parcul Cabalet & Malurile râului Trême",
+            "en": "Parc du Cabalet & Banks of the Trême"
+          },
+          "coords": [
+            7.054,
+            46.6145
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour entlang des Flusses zum Park.",
+            "hu": "Kellemes kerékpártúra a folyó mentén a parkba.",
+            "ro": "O plimbare plăcută cu bicicleta de-a lungul râului până în parc.",
+            "en": "A pleasant bike ride along the river to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum & Kaffeepause",
+            "hu": "Vissza a központba és kávészünet",
+            "ro": "Întoarcere în centru & Pauză de cafea",
+            "en": "Return to center & Coffee break"
+          },
+          "coords": [
+            7.058,
+            46.616
+          ],
+          "category": "gastro",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie ein letztes Stück Kuchen.",
+            "hu": "Adja le a kerékpárt, és élvezzen egy utolsó szelet süteményt.",
+            "ro": "Returnați bicicleta și savurați o ultimă felie de prăjitură.",
+            "en": "Return your bike and enjoy a final piece of cake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel für eine Erkundungstour durch Bulle. Der Vormittag führt Sie vom zentralen Platz zum Schloss und weiter zum faszinierenden Musée gruérien. Nach einem stärkenden Mittagessen radeln Sie am Nachmittag gemütlich zum Parc du Cabalet und entlang des Flusses Trême. Die Tour endet wieder im Stadtzentrum, wo Sie bei Kaffee und Kuchen die Eindrücke des Tages Revue passieren lassen können.",
+        "hu": "Pattanjon nyeregbe, és fedezze fel Bulle-t! A délelőtt a központi tértől a kastélyig, majd tovább a lenyűgöző Gruyère Múzeumig vezet. Egy kiadós ebéd után délután kényelmesen tekerjen el a Cabalet parkba és a Trême folyó mentén. A túra a városközpontban ér véget, ahol kávé és sütemény mellett idézheti fel a nap élményeit.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur de explorare a orașului Bulle. Dimineața vă poartă din piața centrală la castel și apoi la fascinantul Muzeu Gruyère. După un prânz copios, după-amiaza pedalați agale spre Parcul Cabalet și de-a lungul râului Trême. Turul se încheie înapoi în centrul orașului, unde vă puteți bucura de o cafea și o prăjitură rememorând impresiile zilei.",
+        "en": "Hop on a bike for an exploratory tour of Bulle. The morning takes you from the central square to the castle and on to the fascinating Musée gruérien. After a hearty lunch, enjoy a leisurely cycle to the Parc du Cabalet and along the river Trême in the afternoon. The tour ends back in the city center, where you can reflect on the day's impressions over coffee and cake."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "Eine Mischung aus Gruyère AOP und Vacherin Fribourgeois AOP, serviert mit Brot und Kartoffeln."
+          },
+          {
+            "name": "Meringues mit Doppelrahm",
+            "tip": "Ein klassisches Dessert aus der Region Gruyère."
+          },
+          {
+            "name": "Cuchaule",
+            "tip": "Ein süßes Safranbrot, das oft zum Frühstück gegessen wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "Gruyère AOP és Vacherin Fribourgeois AOP sajt keveréke, kenyérrel és burgonyával tálalva."
+          },
+          {
+            "name": "Habcsók dupla tejszínnel",
+            "tip": "Klasszikus desszert a Gruyère régióból."
+          },
+          {
+            "name": "Cuchaule",
+            "tip": "Édes sáfrányos kenyér, amelyet gyakran reggelire fogyasztanak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "Un amestec de Gruyère AOP și Vacherin Fribourgeois AOP, servit cu pâine și cartofi."
+          },
+          {
+            "name": "Bezele cu smântână dublă",
+            "tip": "Un desert clasic din regiunea Gruyère."
+          },
+          {
+            "name": "Cuchaule",
+            "tip": "O pâine dulce cu șofran, adesea consumată la micul dejun."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "A mix of Gruyère AOP and Vacherin Fribourgeois AOP cheeses, served with bread and potatoes."
+          },
+          {
+            "name": "Meringues with double cream",
+            "tip": "A classic dessert from the Gruyère region."
+          },
+          {
+            "name": "Cuchaule",
+            "tip": "A sweet saffron bread, often eaten for breakfast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc du Cabalet",
+            "tip": "Eine grüne Oase der Ruhe, ideal für eine Pause vom städtischen Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Trême",
+            "tip": "Ein Spaziergang entlang des kleinen Flusses, der durch die Stadt fließt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kapelle Notre-Dame de Compassion",
+            "tip": "Ein stiller Ort für Gebet und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cabalet park",
+            "tip": "A nyugalom zöld oázisa, ideális a városi nyüzsgésből való kiszakadáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Trême partja",
+            "tip": "Séta a városon átfolyó kis folyó mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Notre-Dame de Compassion kápolna",
+            "tip": "Csendes hely az imádságra és elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Cabalet",
+            "tip": "O oază verde de liniște, ideală pentru o pauză de la agitația urbană.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Trême",
+            "tip": "O plimbare de-a lungul micului râu care traversează orașul.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Capela Notre-Dame de Compassion",
+            "tip": "Un loc tăcut pentru rugăciune și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc du Cabalet",
+            "tip": "A green oasis of tranquility, ideal for a break from the urban hustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Trême",
+            "tip": "A walk along the small river that flows through the town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Chapel of Notre-Dame de Compassion",
+            "tip": "A silent place for prayer and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Donnerstag auf dem Place du Marché, um lokale Produkte zu entdecken."
+          },
+          {
+            "name": "Fromageries",
+            "tip": "Kaufen Sie authentischen Gruyère AOP und andere lokale Käsesorten."
+          },
+          {
+            "name": "Boulangeries",
+            "tip": "Probieren Sie lokale Backwaren wie Cuchaule oder Gâteau du Vully."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Minden csütörtökön a Place du Marché téren, helyi termékekért."
+          },
+          {
+            "name": "Sajtolvasztók",
+            "tip": "Vásároljon eredeti Gruyère AOP-t és más helyi sajtokat."
+          },
+          {
+            "name": "Pékségek",
+            "tip": "Kóstolja meg a helyi pékárukat, mint a Cuchaule vagy a Gâteau du Vully."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare joi în Place du Marché, pentru a descoperi produse locale."
+          },
+          {
+            "name": "Fromageries",
+            "tip": "Cumpărați Gruyère AOP autentic și alte brânzeturi locale."
+          },
+          {
+            "name": "Brutării",
+            "tip": "Încercați produse de patiserie locale, cum ar fi Cuchaule sau Gâteau du Vully."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Thursday in the Place du Marché to discover local products."
+          },
+          {
+            "name": "Cheese Dairies",
+            "tip": "Buy authentic Gruyère AOP and other local cheeses."
+          },
+          {
+            "name": "Bakeries",
+            "tip": "Try local pastries like Cuchaule or Gâteau du Vully."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Bulle ist relativ flach, aber einige kleine Anstiege sind möglich.",
+          "Schließen Sie Ihr Fahrrad immer gut ab.",
+          "Ein Helm wird empfohlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Bulle viszonylag sík, de kisebb emelkedők előfordulhatnak.",
+          "Mindig zárja le jól a kerékpárt.",
+          "Sisak használata ajánlott."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Bulle este relativ plat, dar sunt posibile câteva urcări mici.",
+          "Asigurați-vă întotdeauna bicicleta corespunzător.",
+          "Se recomandă purtarea căștii."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Bulle is relatively flat, but some small inclines are possible.",
+          "Always lock your bike securely.",
+          "A helmet is recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 20.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Place du Marché",
+            "hu": "Parkoló a központban és Piactér",
+            "ro": "Parcare centrală & Place du Marché",
+            "en": "Central Parking & Market Square"
+          },
+          "coords": [
+            7.0588,
+            46.6165
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in einem der zentralen Parkhäuser und gehen Sie zum Platz.",
+            "hu": "Parkolja le autóját a központi parkolóházak egyikében, és sétáljon a térre.",
+            "ro": "Parcați mașina într-una din parcările centrale și mergeți pe jos până în piață.",
+            "en": "Park your car in one of the central car parks and walk to the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bulle",
+            "hu": "Bulle kastély",
+            "ro": "Castelul din Bulle",
+            "en": "Bulle Castle"
+          },
+          "coords": [
+            7.0575,
+            46.618
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Parkplatz aus ist das Schloss in wenigen Minuten zu Fuß erreichbar.",
+            "hu": "A kastély pár perces sétára van a parkolótól.",
+            "ro": "Castelul se află la câteva minute de mers pe jos de parcare.",
+            "en": "The castle is a short walk from the car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée gruérien",
+            "hu": "Gruyère Múzeum",
+            "ro": "Muzeul Gruyère",
+            "en": "Gruyère Museum"
+          },
+          "coords": [
+            7.056,
+            46.619
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss zum Museum.",
+            "hu": "Rövid séta a kastélytól a múzeumig.",
+            "ro": "O scurtă plimbare de la castel la muzeu.",
+            "en": "A short walk from the castle to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Gruyères & Mittagessen",
+            "hu": "Utazás Gruyères-be és ebéd",
+            "ro": "Călătorie la Gruyères & Prânz",
+            "en": "Drive to Gruyères & Lunch"
+          },
+          "coords": [
+            7.082,
+            46.583
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie in das malerische Dorf Gruyères für ein authentisches Erlebnis und Mittagessen.",
+            "hu": "Autózzon el a festői Gruyères faluba egy autentikus élményért és ebédért.",
+            "ro": "Conduceți spre satul pitoresc Gruyères pentru o experiență autentică și prânz.",
+            "en": "Drive to the picturesque village of Gruyères for an authentic experience and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Gruyères",
+            "hu": "Gruyères kastély",
+            "ro": "Castelul Gruyères",
+            "en": "Gruyères Castle"
+          },
+          "coords": [
+            7.083,
+            46.584
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das berühmte Schloss mit seiner beeindruckenden Kunstsammlung.",
+            "hu": "Fedezze fel a híres kastélyt és lenyűgöző művészeti gyűjteményét.",
+            "ro": "Explorați faimosul castel cu impresionanta sa colecție de artă.",
+            "en": "Explore the famous castle with its impressive art collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Bulle & Parc du Cabalet",
+            "hu": "Visszaút Bulle-ba és Cabalet park",
+            "ro": "Întoarcere la Bulle & Parcul Cabalet",
+            "en": "Return to Bulle & Parc du Cabalet"
+          },
+          "coords": [
+            7.054,
+            46.6145
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Spaziergang im Park von Bulle.",
+            "hu": "Zárja a napot egy pihentető sétával a bulle-i parkban.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă în parcul din Bulle.",
+            "en": "End the day with a relaxing walk in the park in Bulle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos. Parken Sie im Zentrum von Bulle und erkunden Sie den historischen Kern mit Schloss und Museum zu Fuß. Am Mittag fahren Sie in das weltberühmte Dorf Gruyères, wo Sie zu Mittag essen und das prächtige Schloss besichtigen. Der Nachmittag endet mit der Rückkehr nach Bulle für einen erholsamen Spaziergang im Parc du Cabalet, bevor Sie die Heimreise antreten.",
+        "hu": "Használja ki az autó nyújtotta rugalmasságot. Parkoljon le Bulle központjában, és fedezze fel gyalog a történelmi belvárost a kastéllyal és a múzeummal. Délben autózzon el a világhírű Gruyères faluba, ahol megebédelhet és megtekintheti a csodálatos kastélyt. A délután Bulle-ba való visszatéréssel zárul, ahol egy pihentető sétát tehet a Cabalet parkban, mielőtt hazaindulna.",
+        "ro": "Profitați de flexibilitatea mașinii. Parcați în centrul orașului Bulle și explorați pe jos centrul istoric cu castelul și muzeul său. La prânz, conduceți spre faimosul sat Gruyères, unde veți lua masa și veți vizita magnificul castel. După-amiaza se încheie cu întoarcerea la Bulle pentru o plimbare relaxantă în Parcul Cabalet înainte de a pleca spre casă.",
+        "en": "Take advantage of the car's flexibility. Park in the center of Bulle and explore the historic core with its castle and museum on foot. At noon, drive to the world-famous village of Gruyères for lunch and a visit to the magnificent castle. The afternoon ends with a return to Bulle for a relaxing walk in the Parc du Cabalet before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "Eine Mischung aus Gruyère AOP und Vacherin Fribourgeois AOP, serviert mit Brot und Kartoffeln."
+          },
+          {
+            "name": "Meringues mit Doppelrahm",
+            "tip": "Ein klassisches Dessert aus der Region Gruyère."
+          },
+          {
+            "name": "Cuchaule",
+            "tip": "Ein süßes Safranbrot, das oft zum Frühstück gegessen wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "Gruyère AOP és Vacherin Fribourgeois AOP sajt keveréke, kenyérrel és burgonyával tálalva."
+          },
+          {
+            "name": "Habcsók dupla tejszínnel",
+            "tip": "Klasszikus desszert a Gruyère régióból."
+          },
+          {
+            "name": "Cuchaule",
+            "tip": "Édes sáfrányos kenyér, amelyet gyakran reggelire fogyasztanak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "Un amestec de Gruyère AOP și Vacherin Fribourgeois AOP, servit cu pâine și cartofi."
+          },
+          {
+            "name": "Bezele cu smântână dublă",
+            "tip": "Un desert clasic din regiunea Gruyère."
+          },
+          {
+            "name": "Cuchaule",
+            "tip": "O pâine dulce cu șofran, adesea consumată la micul dejun."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "A mix of Gruyère AOP and Vacherin Fribourgeois AOP cheeses, served with bread and potatoes."
+          },
+          {
+            "name": "Meringues with double cream",
+            "tip": "A classic dessert from the Gruyère region."
+          },
+          {
+            "name": "Cuchaule",
+            "tip": "A sweet saffron bread, often eaten for breakfast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc du Cabalet",
+            "tip": "Eine grüne Oase der Ruhe, ideal für eine Pause vom städtischen Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Trême",
+            "tip": "Ein Spaziergang entlang des kleinen Flusses, der durch die Stadt fließt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kapelle Notre-Dame de Compassion",
+            "tip": "Ein stiller Ort für Gebet und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cabalet park",
+            "tip": "A nyugalom zöld oázisa, ideális a városi nyüzsgésből való kiszakadáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Trême partja",
+            "tip": "Séta a városon átfolyó kis folyó mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Notre-Dame de Compassion kápolna",
+            "tip": "Csendes hely az imádságra és elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Cabalet",
+            "tip": "O oază verde de liniște, ideală pentru o pauză de la agitația urbană.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Trême",
+            "tip": "O plimbare de-a lungul micului râu care traversează orașul.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Capela Notre-Dame de Compassion",
+            "tip": "Un loc tăcut pentru rugăciune și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc du Cabalet",
+            "tip": "A green oasis of tranquility, ideal for a break from the urban hustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Trême",
+            "tip": "A walk along the small river that flows through the town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Chapel of Notre-Dame de Compassion",
+            "tip": "A silent place for prayer and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Donnerstag auf dem Place du Marché, um lokale Produkte zu entdecken."
+          },
+          {
+            "name": "Fromageries",
+            "tip": "Kaufen Sie authentischen Gruyère AOP und andere lokale Käsesorten."
+          },
+          {
+            "name": "Boulangeries",
+            "tip": "Probieren Sie lokale Backwaren wie Cuchaule oder Gâteau du Vully."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Minden csütörtökön a Place du Marché téren, helyi termékekért."
+          },
+          {
+            "name": "Sajtolvasztók",
+            "tip": "Vásároljon eredeti Gruyère AOP-t és más helyi sajtokat."
+          },
+          {
+            "name": "Pékségek",
+            "tip": "Kóstolja meg a helyi pékárukat, mint a Cuchaule vagy a Gâteau du Vully."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare joi în Place du Marché, pentru a descoperi produse locale."
+          },
+          {
+            "name": "Fromageries",
+            "tip": "Cumpărați Gruyère AOP autentic și alte brânzeturi locale."
+          },
+          {
+            "name": "Brutării",
+            "tip": "Încercați produse de patiserie locale, cum ar fi Cuchaule sau Gâteau du Vully."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Thursday in the Place du Marché to discover local products."
+          },
+          {
+            "name": "Cheese Dairies",
+            "tip": "Buy authentic Gruyère AOP and other local cheeses."
+          },
+          {
+            "name": "Bakeries",
+            "tip": "Try local pastries like Cuchaule or Gâteau du Vully."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkuhren beachten (oft mit Schweizer Franken oder Apps zu bezahlen).",
+          "Die 'blaue Zone' erlaubt kostenloses Parken für eine begrenzte Zeit mit einer Parkscheibe.",
+          "Der Verkehr in Gruyères kann im Sommer stark sein, planen Sie extra Zeit ein.",
+          "Überprüfen Sie die Tankfüllung, bevor Sie ländliche Gebiete erkunden."
+        ],
+        "hu": [
+          "Figyeljen a parkolóórákra (gyakran svájci frankkal vagy alkalmazással fizethet).",
+          "A 'kék zóna' korlátozott ideig ingyenes parkolást tesz lehetővé parkolótárcsával.",
+          "Nyáron nagy lehet a forgalom Gruyères-ben, tervezzen extra időt.",
+          "Ellenőrizze az üzemanyagszintet, mielőtt vidéki területeket fedezne fel."
+        ],
+        "ro": [
+          "Fiți atenți la parcometre (adesea plătibile cu franci elvețieni sau prin aplicații).",
+          "„Zona albastră” permite parcarea gratuită pentru o perioadă limitată cu un disc de parcare.",
+          "Traficul în Gruyères poate fi aglomerat vara, planificați timp suplimentar.",
+          "Verificați nivelul combustibilului înainte de a explora zonele rurale."
+        ],
+        "en": [
+          "Pay attention to parking meters (often payable with Swiss francs or apps).",
+          "The 'blue zone' allows free parking for a limited time with a parking disc.",
+          "Traffic in Gruyères can be heavy in summer, plan for extra time.",
+          "Check your fuel level before exploring rural areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof & Place du Marché",
+            "hu": "Érkezés a pályaudvarra és Piactér",
+            "ro": "Sosire la gară & Place du Marché",
+            "en": "Arrival at Station & Market Square"
+          },
+          "coords": [
+            7.058,
+            46.617
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Bahnhof Bulle ist der Place du Marché nur einen kurzen Spaziergang entfernt.",
+            "hu": "A Bulle pályaudvartól a Place du Marché csak egy rövid sétára van.",
+            "ro": "De la gara din Bulle, Place du Marché se află la o scurtă plimbare pe jos.",
+            "en": "From Bulle train station, the Place du Marché is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bulle",
+            "hu": "Bulle kastély",
+            "ro": "Castelul din Bulle",
+            "en": "Bulle Castle"
+          },
+          "coords": [
+            7.0575,
+            46.618
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Spaziergang durch die Altstadtgassen zum Schloss.",
+            "hu": "Élvezze a sétát az óváros szűk utcáin a kastély felé.",
+            "ro": "Bucurați-vă de plimbarea pe străduțele centrului vechi spre castel.",
+            "en": "Enjoy the walk through the old town alleys to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre-aux-Liens",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Saint-Pierre-aux-Liens",
+            "en": "Church of Saint-Pierre-aux-Liens"
+          },
+          "coords": [
+            7.059,
+            46.6175
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Hauptkirche der Stadt, ein Ort der Ruhe.",
+            "hu": "A város főtemploma, a nyugalom szigete.",
+            "ro": "Biserica principală a orașului, un loc de liniște.",
+            "en": "The main church of the city, a place of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Musée gruérien & Mittagessen",
+            "hu": "Busszal a Gruyère Múzeumhoz és ebéd",
+            "ro": "Autobuz spre Muzeul Gruyère & Prânz",
+            "en": "Bus to Musée gruérien & Lunch"
+          },
+          "coords": [
+            7.056,
+            46.619
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 160,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus. Im Museumsareal gibt es auch gute Essensmöglichkeiten.",
+            "hu": "Szálljon helyi buszra. A múzeum környékén jó étkezési lehetőségek is vannak.",
+            "ro": "Luați un autobuz local. Există opțiuni bune de luat masa în zona muzeului.",
+            "en": "Take a local bus. There are also good dining options in the museum area."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Parc du Cabalet",
+            "hu": "Busszal a Cabalet parkba",
+            "ro": "Autobuz spre Parcul Cabalet",
+            "en": "Bus to Parc du Cabalet"
+          },
+          "coords": [
+            7.054,
+            46.6145
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Grünen nach dem Museumsbesuch.",
+            "hu": "Pihenjen a zöldben a múzeumlátogatás után.",
+            "ro": "Relaxați-vă în natură după vizita la muzeu.",
+            "en": "Relax in the greenery after the museum visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zurück zum Bahnhof",
+            "hu": "Séta vissza a pályaudvarra",
+            "ro": "Plimbare înapoi la gară",
+            "en": "Walk back to the station"
+          },
+          "coords": [
+            7.06,
+            46.62
+          ],
+          "category": "transport",
+          "arrive_at": "16:45",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter Spaziergang durch die Stadt, um die Atmosphäre aufzusaugen.",
+            "hu": "Egy utolsó séta a városon keresztül, hogy magába szívja a hangulatot.",
+            "ro": "O ultimă plimbare prin oraș pentru a absorbi atmosfera.",
+            "en": "A final walk through the town to soak up the atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bulle lässt sich hervorragend mit öffentlichen Verkehrsmitteln und zu Fuß erkunden. Beginnen Sie am Bahnhof und spazieren Sie durch das historische Zentrum, vorbei am Schloss und der Kirche. Ein lokaler Bus bringt Sie bequem zum Musée gruérien, wo Sie den Mittag verbringen. Am Nachmittag bringt Sie ein weiterer Bus in den Parc du Cabalet zur Entspannung, bevor Sie gemütlich zum Bahnhof zurückschlendern.",
+        "hu": "Bulle kiválóan felfedezhető tömegközlekedéssel és gyalog. Kezdje a pályaudvarnál, és sétáljon végig a történelmi központon, elhaladva a kastély és a templom mellett. Egy helyi busz kényelmesen elviszi a Gruyère Múzeumhoz, ahol a délt töltheti. Délután egy másik busz a Cabalet parkba viszi pihenni, mielőtt kényelmesen visszasétálna a pályaudvarra.",
+        "ro": "Bulle este excelent de explorat cu transportul public și pe jos. Începeți de la gară și plimbați-vă prin centrul istoric, trecând pe lângă castel și biserică. Un autobuz local vă duce confortabil la Muzeul Gruyère, unde vă veți petrece prânzul. După-amiaza, un alt autobuz vă duce la Parcul Cabalet pentru relaxare, înainte de a vă plimba agale înapoi la gară.",
+        "en": "Bulle is excellent to explore by public transport and on foot. Start at the train station and stroll through the historic center, past the castle and the church. A local bus will take you comfortably to the Musée gruérien, where you'll spend midday. In the afternoon, another bus takes you to the Parc du Cabalet for relaxation before you leisurely stroll back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "Eine Mischung aus Gruyère AOP und Vacherin Fribourgeois AOP, serviert mit Brot und Kartoffeln."
+          },
+          {
+            "name": "Meringues mit Doppelrahm",
+            "tip": "Ein klassisches Dessert aus der Region Gruyère."
+          },
+          {
+            "name": "Cuchaule",
+            "tip": "Ein süßes Safranbrot, das oft zum Frühstück gegessen wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "Gruyère AOP és Vacherin Fribourgeois AOP sajt keveréke, kenyérrel és burgonyával tálalva."
+          },
+          {
+            "name": "Habcsók dupla tejszínnel",
+            "tip": "Klasszikus desszert a Gruyère régióból."
+          },
+          {
+            "name": "Cuchaule",
+            "tip": "Édes sáfrányos kenyér, amelyet gyakran reggelire fogyasztanak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "Un amestec de Gruyère AOP și Vacherin Fribourgeois AOP, servit cu pâine și cartofi."
+          },
+          {
+            "name": "Bezele cu smântână dublă",
+            "tip": "Un desert clasic din regiunea Gruyère."
+          },
+          {
+            "name": "Cuchaule",
+            "tip": "O pâine dulce cu șofran, adesea consumată la micul dejun."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fondue moitié-moitié",
+            "tip": "A mix of Gruyère AOP and Vacherin Fribourgeois AOP cheeses, served with bread and potatoes."
+          },
+          {
+            "name": "Meringues with double cream",
+            "tip": "A classic dessert from the Gruyère region."
+          },
+          {
+            "name": "Cuchaule",
+            "tip": "A sweet saffron bread, often eaten for breakfast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc du Cabalet",
+            "tip": "Eine grüne Oase der Ruhe, ideal für eine Pause vom städtischen Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Trême",
+            "tip": "Ein Spaziergang entlang des kleinen Flusses, der durch die Stadt fließt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kapelle Notre-Dame de Compassion",
+            "tip": "Ein stiller Ort für Gebet und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cabalet park",
+            "tip": "A nyugalom zöld oázisa, ideális a városi nyüzsgésből való kiszakadáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Trême partja",
+            "tip": "Séta a városon átfolyó kis folyó mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Notre-Dame de Compassion kápolna",
+            "tip": "Csendes hely az imádságra és elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Cabalet",
+            "tip": "O oază verde de liniște, ideală pentru o pauză de la agitația urbană.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Trême",
+            "tip": "O plimbare de-a lungul micului râu care traversează orașul.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Capela Notre-Dame de Compassion",
+            "tip": "Un loc tăcut pentru rugăciune și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc du Cabalet",
+            "tip": "A green oasis of tranquility, ideal for a break from the urban hustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Trême",
+            "tip": "A walk along the small river that flows through the town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Chapel of Notre-Dame de Compassion",
+            "tip": "A silent place for prayer and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Donnerstag auf dem Place du Marché, um lokale Produkte zu entdecken."
+          },
+          {
+            "name": "Fromageries",
+            "tip": "Kaufen Sie authentischen Gruyère AOP und andere lokale Käsesorten."
+          },
+          {
+            "name": "Boulangeries",
+            "tip": "Probieren Sie lokale Backwaren wie Cuchaule oder Gâteau du Vully."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Minden csütörtökön a Place du Marché téren, helyi termékekért."
+          },
+          {
+            "name": "Sajtolvasztók",
+            "tip": "Vásároljon eredeti Gruyère AOP-t és más helyi sajtokat."
+          },
+          {
+            "name": "Pékségek",
+            "tip": "Kóstolja meg a helyi pékárukat, mint a Cuchaule vagy a Gâteau du Vully."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare joi în Place du Marché, pentru a descoperi produse locale."
+          },
+          {
+            "name": "Fromageries",
+            "tip": "Cumpărați Gruyère AOP autentic și alte brânzeturi locale."
+          },
+          {
+            "name": "Brutării",
+            "tip": "Încercați produse de patiserie locale, cum ar fi Cuchaule sau Gâteau du Vully."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Thursday in the Place du Marché to discover local products."
+          },
+          {
+            "name": "Cheese Dairies",
+            "tip": "Buy authentic Gruyère AOP and other local cheeses."
+          },
+          {
+            "name": "Bakeries",
+            "tip": "Try local pastries like Cuchaule or Gâteau du Vully."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die lokalen Busse (Zone 30 Frimobil).",
+          "Busfahrpläne finden Sie online oder an den Haltestellen.",
+          "Die SBB Mobile App ist nützlich für die Planung von Zug- und Busverbindungen.",
+          "Seien Sie pünktlich, Busse in der Schweiz fahren in der Regel auf die Minute genau ab."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a helyi buszokra (30-as zóna, Frimobil).",
+          "A buszmenetrendeket online vagy a megállókban találja.",
+          "Az SBB Mobile alkalmazás hasznos a vonat- és buszjáratok tervezéséhez.",
+          "Legyen pontos, a svájci buszok általában percre pontosan indulnak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuzele locale (zona 30 Frimobil).",
+          "Orarele autobuzelor pot fi găsite online sau la stații.",
+          "Aplicația SBB Mobile este utilă pentru planificarea conexiunilor de tren și autobuz.",
+          "Fiți punctuali, autobuzele din Elveția pleacă de obicei la minut."
+        ],
+        "en": [
+          "Buy a day pass for the local buses (Zone 30 Frimobil).",
+          "Bus timetables can be found online or at the stops.",
+          "The SBB Mobile app is useful for planning train and bus connections.",
+          "Be on time, buses in Switzerland usually depart exactly on schedule."
+        ]
+      }
+    }
+  }
+}

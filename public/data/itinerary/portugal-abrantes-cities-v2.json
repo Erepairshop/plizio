@@ -1,0 +1,986 @@
+{
+  "city_id": "portugal-abrantes-cities-v2",
+  "anchor": {
+    "name": "Abrantes",
+    "coords": [
+      39.4633,
+      -8.1983
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Jardim da República",
+          "coords": [
+            39.4633,
+            -8.1983
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zentraler Platz mit Schattenplätzen und Cafés.",
+            "hu": "Központi tér árnyékos padokkal és kávézókkal.",
+            "ro": "Piața centrală cu bănci umbrite și cafenele.",
+            "en": "Central square with shaded benches and cafes."
+          }
+        },
+        {
+          "name": "Igreja de São João Baptista",
+          "coords": [
+            39.464,
+            -8.197
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf das detailreiche Portal von 1590.",
+            "hu": "Figyelje meg az 1590-ből származó részletes portált.",
+            "ro": "Observați portalul detaliat din 1590.",
+            "en": "Notice the detailed portal dating back to 1590."
+          }
+        },
+        {
+          "name": "Igreja de São Vicente",
+          "coords": [
+            39.465,
+            -8.196
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gotische Elemente mischen sich mit Manuelinik.",
+            "hu": "Gótikus elemek keverednek a manuelin stílussal.",
+            "ro": "Elementele gotice se combină cu stilul manuelin.",
+            "en": "Gothic elements blend with Manueline style here."
+          }
+        },
+        {
+          "name": "Castelo de Abrantes",
+          "coords": [
+            39.466,
+            -8.195
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Festungsmauern bieten Ausblicke ins Tejo-Tal.",
+            "hu": "Az erődfalakról belátni a Tejo folyó völgyét.",
+            "ro": "Zidurile cetății oferă vederi spre valea râului Tejo.",
+            "en": "The fortress walls offer views into the Tejo valley."
+          }
+        },
+        {
+          "name": "Igreja de Santa Maria do Castelo",
+          "coords": [
+            39.4662,
+            -8.1945
+          ],
+          "category": "museums",
+          "arrive_at": "12:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Pantheon der Almeida-Familie befindet sich hier.",
+            "hu": "Itt található az Almeida család panteonja.",
+            "ro": "Panteonul familiei Almeida se află aici.",
+            "en": "The pantheon of the Almeida family is located here."
+          }
+        },
+        {
+          "name": "Miradouro da Penha de França",
+          "coords": [
+            39.468,
+            -8.19
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:52",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der höchste Aussichtspunkt für Panoramafotos.",
+            "hu": "A legmagasabb kilátópont panorámafotókhoz.",
+            "ro": "Cel mai înalt punct de belvedere pentru fotografii.",
+            "en": "The highest viewpoint for panoramic photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Jardim da República im Herzen von Abrantes. Schlendern Sie durch die Gassen zu den Kirchen São João Baptista und São Vicente. Steigen Sie anschließend zum Castelo de Abrantes hinauf. Besuchen Sie das Museum in der Igreja de Santa Maria auf dem Burggelände. Beenden Sie den Tag am Miradouro da Penha de França mit weitem Blick über das Tal.",
+        "hu": "Kezdje a napot a Jardim da República téren Abrantes központjában. Sétáljon át a São João Baptista és a São Vicente templomokhoz. Kapaszkodjon fel a Castelo de Abrantes erődítményébe, amely uralja a várost. Nézze meg a Santa Maria templomban található múzeumot a vár területén. Zárja a túrát a Miradouro da Penha de França kilátóteraszán.",
+        "ro": "Începeți ziua în Jardim da República, în centrul orașului Abrantes. Plimbați-vă spre bisericile São João Baptista și São Vicente. Urcați la Castelo de Abrantes pentru o panoramă extinsă. Vizitați muzeul din biserica Santa Maria aflat în incinta castelului. Încheiați traseul la punctul de belvedere Miradouro da Penha de França.",
+        "en": "Start your morning at the Jardim da República in central Abrantes. Walk to the historic São João Baptista and São Vicente churches. Climb up to the Castelo de Abrantes for sweeping views. Explore the museum inside the Igreja de Santa Maria within the castle grounds. Finish the afternoon at the Miradouro da Penha de França viewpoint."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Palha de Abrantes",
+            "tip": "Süße Eierspeise, lokale Spezialität in den Bäckereien am Hauptplatz."
+          },
+          {
+            "name": "Migas Ribatejanas",
+            "tip": "Traditionelles Brotgericht mit Knoblauch und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palha de Abrantes",
+            "tip": "Tojásos édesség, helyi specialitás a főtér pékségeiben."
+          },
+          {
+            "name": "Migas Ribatejanas",
+            "tip": "Hagyományos fokhagymás-olívaolajos kenyérétel húsok mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Palha de Abrantes",
+            "tip": "Desert dulce pe bază de ouă, o specialitate în brutăriile centrale."
+          },
+          {
+            "name": "Migas Ribatejanas",
+            "tip": "Mâncare tradițională din pâine cu usturoi și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palha de Abrantes",
+            "tip": "Sweet egg-based dessert, a specialty in the main square bakeries."
+          },
+          {
+            "name": "Migas Ribatejanas",
+            "tip": "Traditional bread dish made with garlic and olive oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Miradouro da Penha de França",
+            "tip": "Aussichtspunkt mit weitem Blick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardim da República",
+            "tip": "Schatten unter alten Bäumen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Miradouro da Penha de França",
+            "tip": "Kilátópont messzire nyúló panorámával.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardim da República",
+            "tip": "Árnyék az öreg fák alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miradouro da Penha de França",
+            "tip": "Punct de belvedere cu vedere extinsă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardim da República",
+            "tip": "Umbră sub copaci seculari.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Miradouro da Penha de França",
+            "tip": "Viewpoint with an extensive panorama.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardim da República",
+            "tip": "Shade beneath old trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Frisches Obst und regionale Produkte am Vormittag."
+          },
+          {
+            "name": "Rua Nossa Senhora da Conceição",
+            "tip": "Kleine Boutiquen und traditionelle Handwerksläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Friss gyümölcs és regionális termékek a délelőtti órákban."
+          },
+          {
+            "name": "Rua Nossa Senhora da Conceição",
+            "tip": "Kis butikok és hagyományos kézműves boltok utcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Fructe proaspete și produse regionale în timpul dimineții."
+          },
+          {
+            "name": "Rua Nossa Senhora da Conceição",
+            "tip": "Mici buticuri și magazine cu artizanat tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Fresh fruit and regional produce during the morning."
+          },
+          {
+            "name": "Rua Nossa Senhora da Conceição",
+            "tip": "Street with small boutiques and traditional craft shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das historische Zentrum liegt auf einem Hügel, bequeme Schuhe sind wichtig.",
+          "Die Burgmauern sind frei zugänglich, das Museum hat jedoch eine Mittagspause.",
+          "Kostenlose Parkplätze finden Sie unterhalb des Burgbergs."
+        ],
+        "hu": [
+          "A történelmi központ egy dombon fekszik, kényelmes cipő elengedhetetlen.",
+          "A várfalak szabadon látogathatók, de a múzeumban ebédszünetet tartanak.",
+          "Ingyenes parkolókat a várhegy alatt lehet találni."
+        ],
+        "ro": [
+          "Centrul istoric este situat pe un deal, încălțămintea comodă este esențială.",
+          "Zidurile cetății sunt deschise publicului, dar muzeul are pauză de prânz.",
+          "Parcări gratuite pot fi găsite sub dealul cetății."
+        ],
+        "en": [
+          "The historic center is set on a hill, making comfortable shoes essential.",
+          "The castle walls are freely accessible, but the museum takes a lunch break.",
+          "Free parking spots can be found below the castle hill."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 7.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Jardim da República",
+          "coords": [
+            39.4633,
+            -8.1983
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Idealer Startpunkt um Fahrräder vorzubereiten.",
+            "hu": "Ideális kiindulópont a kerékpárok felkészítéséhez.",
+            "ro": "Punct de pornire ideal pentru a pregăti bicicletele.",
+            "en": "Ideal starting point to prep the bikes."
+          }
+        },
+        {
+          "name": "Castelo de Abrantes",
+          "coords": [
+            39.466,
+            -8.195
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg zur Burg ist kurz, aber etwas steil.",
+            "hu": "A várba vezető emelkedő rövid, de kissé meredek.",
+            "ro": "Urcarea spre cetate este scurtă, dar ușor abruptă.",
+            "en": "The climb to the castle is short but slightly steep."
+          }
+        },
+        {
+          "name": "Miradouro da Penha de França",
+          "coords": [
+            39.468,
+            -8.19
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Panoramablick auf die Dächer der Altstadt.",
+            "hu": "Panorámakilátás az óváros háztetőire.",
+            "ro": "Vedere panoramică asupra acoperișurilor orașului vechi.",
+            "en": "Panoramic view over the old town roofs."
+          }
+        },
+        {
+          "name": "Ermida de Nossa Senhora da Guia",
+          "coords": [
+            39.458,
+            -8.191
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ruhige Kapelle am Weg in Richtung Flusstal.",
+            "hu": "Csendes kápolna a folyóvölgy felé vezető úton.",
+            "ro": "Capelă liniștită pe drumul spre valea râului.",
+            "en": "Quiet chapel on the way down toward the river valley."
+          }
+        },
+        {
+          "name": "Parque Tejo",
+          "coords": [
+            39.45,
+            -8.2
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:55",
+          "stay_min": 140,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Weitläufiger Park am Ufer des Tejo, ideal für Pausen.",
+            "hu": "Tágas park a Tejo partján, ideális a pihenésre.",
+            "ro": "Parc spațios pe malul râului Tejo, ideal pentru odihnă.",
+            "en": "Spacious park on the Tejo riverbank, perfect for a break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie im Zentrum und nehmen Sie den kurzen Anstieg zum Castelo de Abrantes. Von dort fahren Sie zum Miradouro da Penha de França für weite Blicke über das Tal. Rollen Sie gemütlich bergab zur Ermida de Nossa Senhora da Guia. Beenden Sie die Tour im grünen Parque Tejo direkt am Flussufer.",
+        "hu": "Induljon a központból, és tekerjen fel a Castelo de Abrantes falaihoz. Innen a Miradouro da Penha de França kilátóhoz vezet az út. Guruljon le kényelmes tempóban az Ermida de Nossa Senhora da Guia kápolnához. A túra a zöldellő Parque Tejo területén ér véget közvetlenül a folyóparton.",
+        "ro": "Porniți din centru și urcați scurt spre Castelo de Abrantes. De acolo mergeți la Miradouro da Penha de França. Coborâți relaxat spre capela Ermida de Nossa Senhora da Guia. Încheiați traseul în parcul verde Parque Tejo chiar pe malul râului.",
+        "en": "Start in the center and take the short climb to the Castelo de Abrantes. From there, ride to the Miradouro da Penha de França viewpoint. Roll downhill gently to the Ermida de Nossa Senhora da Guia chapel. End the route in the green Parque Tejo right on the riverbank."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bolo de Mel",
+            "tip": "Honigkuchen als perfekter Energiesnack für Radfahrer."
+          },
+          {
+            "name": "Peixe do Rio",
+            "tip": "Frittierter Flussfisch in den Restaurants am Tejo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bolo de Mel",
+            "tip": "Mézes sütemény, energiadús harapnivaló bringázáshoz."
+          },
+          {
+            "name": "Peixe do Rio",
+            "tip": "Sült folyami hal a Tejo menti éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bolo de Mel",
+            "tip": "Prăjitură cu miere, o gustare energetică pentru bicicliști."
+          },
+          {
+            "name": "Peixe do Rio",
+            "tip": "Pește de râu prăjit, servit în restaurantele de lângă Tejo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bolo de Mel",
+            "tip": "Honey cake, a perfect energy snack for cyclists."
+          },
+          {
+            "name": "Peixe do Rio",
+            "tip": "Fried river fish in the restaurants along the Tejo."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Tejo Ufer",
+            "tip": "Sitzplätze direkt am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ermida de Nossa Senhora da Guia",
+            "tip": "Abgelegener Vorplatz.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Tejo part",
+            "tip": "Ülőhelyek közvetlenül a víz mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ermida de Nossa Senhora da Guia",
+            "tip": "Félreeső előtér.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Parque Tejo",
+            "tip": "Bănci direct la marginea apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ermida de Nossa Senhora da Guia",
+            "tip": "O curte retrasă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque Tejo Riverbank",
+            "tip": "Seating right at the water's edge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ermida de Nossa Senhora da Guia",
+            "tip": "Secluded forecourt.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Altstadt-Bäckereien",
+            "tip": "Lokales Gebäck für ein Picknick im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi pékségek",
+            "tip": "Helyi péksütemények egy parki piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăriile din orașul vechi",
+            "tip": "Produse de patiserie locale pentru un picnic în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old town bakeries",
+            "tip": "Local pastries for a picnic down in the park."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Bremsen sollten für die Abfahrt zum Flusstal gut funktionieren.",
+          "Im Parque Tejo gibt es ausgewiesene Radwege."
+        ],
+        "hu": [
+          "A fékeknek jól kell működniük a folyóvölgybe vezető lejtőn.",
+          "A Parque Tejo területén kijelölt kerékpárutak vannak."
+        ],
+        "ro": [
+          "Frânele trebuie să funcționeze bine pentru coborârea spre valea râului.",
+          "În Parque Tejo există piste de biciclete marcate."
+        ],
+        "en": [
+          "Ensure brakes work well for the descent into the river valley.",
+          "There are designated cycle paths in the Parque Tejo."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Jardim da República",
+          "coords": [
+            39.4633,
+            -8.1983
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das Zentrum zu Fuß zu erkunden.",
+            "hu": "Parkoljon le itt, hogy gyalog fedezze fel a központot.",
+            "ro": "Parcați aici pentru a explora centrul pe jos.",
+            "en": "Park here to explore the center on foot."
+          }
+        },
+        {
+          "name": "Igreja de São João Baptista",
+          "coords": [
+            39.464,
+            -8.197
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spätgotische Architektur nur wenige Gehminuten entfernt.",
+            "hu": "Késő gótikus építészet, csak pár perc sétára.",
+            "ro": "Arhitectură gotică târzie, la doar câteva minute de mers pe jos.",
+            "en": "Late Gothic architecture just a short walk away."
+          }
+        },
+        {
+          "name": "Castelo de Abrantes",
+          "coords": [
+            39.466,
+            -8.195
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kurze Fahrt auf den Hügel, Parkplätze am Burgtor.",
+            "hu": "Rövid út fel a dombra, parkolók a várkapunál.",
+            "ro": "Un drum scurt până pe deal, parcări la poarta castelului.",
+            "en": "Short drive up the hill, parking at the castle gates."
+          }
+        },
+        {
+          "name": "Igreja de Santa Maria do Castelo",
+          "coords": [
+            39.4662,
+            -8.1945
+          ],
+          "category": "museums",
+          "arrive_at": "11:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Befindet sich innerhalb der Burgmauern.",
+            "hu": "Közvetlenül a várfalakon belül található.",
+            "ro": "Situată chiar în interiorul zidurilor cetății.",
+            "en": "Located right inside the castle walls."
+          }
+        },
+        {
+          "name": "Ermida de Nossa Senhora da Guia",
+          "coords": [
+            39.458,
+            -8.191
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt bergab in Richtung Flusstal, kleiner Parkplatz.",
+            "hu": "Lefelé autózás a folyóvölgy felé, kis parkoló.",
+            "ro": "Coborâre spre valea râului, o mică parcare disponibilă.",
+            "en": "Drive downhill toward the river valley, small parking lot."
+          }
+        },
+        {
+          "name": "Parque Tejo",
+          "coords": [
+            39.45,
+            -8.2
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Großer Parkplatz am Fluss für einen entspannten Spaziergang.",
+            "hu": "Nagy folyóparti parkoló egy pihentető sétához.",
+            "ro": "Parcare mare pe râu pentru o plimbare relaxantă.",
+            "en": "Large riverside parking area for a relaxing stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum Jardim da República (Cluster 1) und erkunden Sie die Igreja de São João Baptista zu Fuß. Das Auto bringt Sie danach hinauf zum Castelo de Abrantes (Cluster 2), wo Sie auch das integrierte Museum in der Santa Maria Kirche besuchen. Eine kurze Talfahrt führt zur Ermida de Nossa Senhora da Guia. Beenden Sie den Tag im Parque Tejo (Cluster 3) am Fluss.",
+        "hu": "Parkoljon a Jardim da República közelében (1. klaszter), és sétálva nézze meg a São João Baptista templomot. Kocsival menjen fel a Castelo de Abrantes várához (2. klaszter), ahol a Santa Maria templom múzeuma is található. Rövid ereszkedés után álljon meg az Ermida de Nossa Senhora da Guia kápolnánál. A nap a Parque Tejo (3. klaszter) folyóparti parkjában ér véget.",
+        "ro": "Mergeți la Jardim da República (Cluster 1) și explorați biserica São João Baptista pe jos. Conduceți până la Castelo de Abrantes (Cluster 2) pentru a vizita și muzeul din biserica Santa Maria. O scurtă coborâre cu mașina vă duce la capela Ermida de Nossa Senhora da Guia. Încheiați ziua în Parque Tejo (Cluster 3).",
+        "en": "Drive to the Jardim da República (Cluster 1) and explore the São João Baptista church on foot. The car then takes you up to the Castelo de Abrantes (Cluster 2), where you can also walk to the museum inside the Santa Maria church. A short drive downhill leads to the Ermida de Nossa Senhora da Guia. End the day at the riverside Parque Tejo (Cluster 3)."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tejo Restaurants",
+            "tip": "Nutzen Sie den Wagen, um zu den Lokalen am Flussufer zu fahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tejo menti éttermek",
+            "tip": "Használja az autót, hogy lemenjen a folyóparti vendéglőkbe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante pe Tejo",
+            "tip": "Folosiți mașina pentru a merge la restaurantele de pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tejo Restaurants",
+            "tip": "Use the car to drive down to the riverside eateries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burgmauern",
+            "tip": "Am späten Nachmittag wird es ruhig an der Burg.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várfalak",
+            "tip": "Késő délutánra elcsendesedik a vár környéke.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile cetății",
+            "tip": "După-amiaza târziu este liniște în jurul cetății.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Walls",
+            "tip": "The castle area becomes quiet in the late afternoon.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Weinläden",
+            "tip": "Kaufen Sie ein paar Flaschen Ribatejo-Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Regionális borboltok",
+            "tip": "Vásároljon néhány üveg Ribatejo bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine cu vin regional",
+            "tip": "Cumpărați câteva sticle de vin Ribatejo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional Wine Shops",
+            "tip": "Buy a few bottles of Ribatejo wine to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Teilen Sie die Stadt in Oberstadt und Unterstadt (Fluss), um Wege zu sparen.",
+          "Die Straßen in der Altstadt sind eng, parken Sie besser etwas außerhalb des Kerns."
+        ],
+        "hu": [
+          "Ossza a várost felsővárosra és alsóvárosra (folyópart), így időt spórol.",
+          "Az óváros utcái szűkek, érdemes a szűk magon kívül parkolni."
+        ],
+        "ro": [
+          "Împărțiți orașul în zona de sus și zona de jos (râu) pentru a economisi timp.",
+          "Străzile din centrul istoric sunt înguste, parcați puțin în afara nucleului central."
+        ],
+        "en": [
+          "Divide the town into the upper town and lower town (river) to save driving time.",
+          "Streets in the old town are narrow, so park slightly outside the immediate core."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Jardim da República",
+          "coords": [
+            39.4633,
+            -8.1983
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für lokale Busse.",
+            "hu": "Központi csomópont a helyi buszok számára.",
+            "ro": "Punct central pentru autobuzele locale.",
+            "en": "Central hub for local buses."
+          }
+        },
+        {
+          "name": "Igreja de São Vicente",
+          "coords": [
+            39.465,
+            -8.196
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Hauptplatz.",
+            "hu": "Egy rövid sétára a főtértől.",
+            "ro": "O scurtă plimbare de la piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": "Castelo de Abrantes",
+          "coords": [
+            39.466,
+            -8.195
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bus auf den Burghügel erspart den steilen Aufstieg.",
+            "hu": "A várhegyre közlekedő busz megspórolja a meredek kapaszkodót.",
+            "ro": "Autobuzul spre dealul cetății vă scutește de urcușul abrupt.",
+            "en": "The bus up to the castle hill saves a steep climb."
+          }
+        },
+        {
+          "name": "Miradouro da Penha de França",
+          "coords": [
+            39.468,
+            -8.19
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich um die Ecke der Burg gelegen.",
+            "hu": "Közvetlenül a vár szomszédságában található.",
+            "ro": "Situat chiar după colț de la cetate.",
+            "en": "Located right around the corner from the castle."
+          }
+        },
+        {
+          "name": "Parque Tejo",
+          "coords": [
+            39.45,
+            -8.2
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Lange Busfahrt hinab zum Flussufer, perfekt für den Nachmittag.",
+            "hu": "Hosszabb buszút le a folyópartra, tökéletes délutánra.",
+            "ro": "Un drum mai lung cu autobuzul până la râu, perfect pentru după-amiază.",
+            "en": "Longer bus ride down to the riverside, perfect for the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um vom Jardim da República (Zentrum-Cluster) zunächst die Igreja de São Vicente zu Fuß zu besuchen. Nehmen Sie dann den Bus hinauf zum Castelo de Abrantes, um den Anstieg zu vermeiden. Gehen Sie ein paar Schritte zum Miradouro da Penha de França. Eine weitere Buslinie bringt Sie schließlich hinab ins Tal zum Parque Tejo.",
+        "hu": "A helyi buszállomásról (Jardim da República, 1. klaszter) elsétálhat a São Vicente templomhoz. Utána buszozzon fel a Castelo de Abrantes várához, megspórolva a kaptatót. Tegyen egy rövid sétát a Miradouro da Penha de França kilátóhoz. Végül egy másik buszjárattal ereszkedjen le a folyóhoz, a Parque Tejo zöldjébe.",
+        "ro": "Folosiți autobuzul local din Jardim da República (Cluster 1) și mergeți pe jos spre biserica São Vicente. Apoi, luați autobuzul până la Castelo de Abrantes pentru a evita urcușul. Faceți câțiva pași până la Miradouro da Penha de França. O altă linie de autobuz vă va duce în final jos, în valea râului, la Parque Tejo.",
+        "en": "Use the local bus starting at the Jardim da República (center cluster) to explore the São Vicente church on foot. Catch the bus up to the Castelo de Abrantes to skip the steep walk. Walk over to the Miradouro da Penha de França viewpoint. Finally, take a bus route down into the valley to the Parque Tejo."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Cafés",
+            "tip": "Nutzen Sie die Wartezeit auf den Bus am Hauptplatz für einen Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kávézók",
+            "tip": "Használja ki a buszra várakozást a főtéren egy kávéra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele locale",
+            "tip": "Folosiți timpul de așteptare pentru autobuz în piața principală pentru o cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cafes",
+            "tip": "Use the bus waiting time at the main square for a coffee break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Miradouro da Penha de França",
+            "tip": "Ruhiger Blick auf das Tal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Miradouro da Penha de França",
+            "tip": "Csendes kilátás a völgyre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miradouro da Penha de França",
+            "tip": "Vedere liniștită asupra văii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Miradouro da Penha de França",
+            "tip": "Quiet view over the valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske",
+            "tip": "Schnelle Snacks in der Nähe der Bushaltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok",
+            "tip": "Gyors rágcsálnivalók a buszmegállók közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri",
+            "tip": "Gustări rapide în apropierea stațiilor de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks",
+            "tip": "Quick snacks available near the bus stops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie vorab die Fahrpläne der städtischen Minibusse.",
+          "Sonntags fahren die Busse seltener in die Außenbezirke."
+        ],
+        "hu": [
+          "Előre ellenőrizze a városi minibuszok menetrendjét.",
+          "Vasárnap ritkábban járnak a buszok a külső negyedekbe."
+        ],
+        "ro": [
+          "Verificați în prealabil orarele microbuzelor urbane.",
+          "Duminica, autobuzele circulă mai rar spre periferie."
+        ],
+        "en": [
+          "Check the timetables for the urban minibuses in advance.",
+          "On Sundays, buses run less frequently to the outskirts."
+        ]
+      }
+    }
+  }
+}

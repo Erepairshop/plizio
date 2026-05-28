@@ -1,0 +1,1468 @@
+{
+  "city_id": "poland-tarnow-cities-v2",
+  "anchor": {
+    "name": "Tarnau",
+    "coords": [
+      50.0121,
+      20.9858
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Rynek)",
+            "hu": "Piactér (Rynek)",
+            "ro": "Piața Centrală (Rynek)",
+            "en": "Market Square (Rynek)"
+          },
+          "coords": [
+            50.013,
+            20.9875
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Bürgerhäuser und ihre farbenfrohen Fassaden.",
+            "hu": "Csodálja meg a reneszánsz polgárházakat és azok színes homlokzatát.",
+            "ro": "Admirați casele burgheze renascentiste și fațadele lor colorate.",
+            "en": "Admire the Renaissance townhouses and their colorful facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            50.0132,
+            20.9879
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:42",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Uhr am Turm – sie hat ein ungewöhnliches astronomisches Zifferblatt.",
+            "hu": "Figyelje a torony óráját – egy szokatlan csillagászati számlappal rendelkezik.",
+            "ro": "Observați ceasul de pe turn – are un cadran astronomic neobișnuit.",
+            "en": "Look for the clock on the tower – it has an unusual astronomical dial."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedralbasilika der Geburt der Heiligen Jungfrau Maria",
+            "hu": "Szűz Mária Születése Székesegyház",
+            "ro": "Catedrala Nașterea Sfintei Fecioare Maria",
+            "en": "Cathedral Basilica of the Nativity of the Blessed Virgin Mary"
+          },
+          "coords": [
+            50.014,
+            20.9885
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den monumentalen Grabmälern der Familie Tarnowski, die zu den größten Renaissance-Denkmälern Europas zählen.",
+            "hu": "Keresse meg a Tarnowski család monumentális síremlékeit, amelyek Európa legnagyobb reneszánsz emlékművei közé tartoznak.",
+            "ro": "Căutați mormintele monumentale ale familiei Tarnowski, printre cele mai mari monumente renascentiste din Europa.",
+            "en": "Look for the monumental tombs of the Tarnowski family, among the largest Renaissance monuments in Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Diözesanmuseum",
+            "hu": "Egyházmegyei Múzeum",
+            "ro": "Muzeul Diecezan",
+            "en": "Diocesan Museum"
+          },
+          "coords": [
+            50.0142,
+            20.9889
+          ],
+          "category": "museums",
+          "arrive_at": "11:33",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Sammlung gotischer Kunst, eine der wertvollsten in Polen.",
+            "hu": "Ne hagyja ki a gótikus művészeti gyűjteményt, amely Lengyelország egyik legértékesebbje.",
+            "ro": "Nu ratați colecția de artă gotică, una dintre cele mai valoroase din Polonia.",
+            "en": "Don't miss the collection of Gothic art, one of the most valuable in Poland."
+          }
+        },
+        {
+          "name": {
+            "de": "Bima der Alten Synagoge",
+            "hu": "A Régi Zsinagóga Bimája",
+            "ro": "Bima din Vechea Sinagogă",
+            "en": "Bimah of the Old Synagogue"
+          },
+          "coords": [
+            50.0118,
+            20.9895
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:13",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ergreifendes Denkmal für die einst blühende jüdische Gemeinde von Tarnów.",
+            "hu": "Megrendítő emlékmű Tarnów egykor virágzó zsidó közösségének.",
+            "ro": "Un monument emoționant dedicat comunității evreiești cândva înfloritoare din Tarnów.",
+            "en": "A poignant memorial to Tarnów's once-thriving Jewish community."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnografisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            50.0105,
+            20.985
+          ],
+          "category": "museums",
+          "arrive_at": "13:48",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die weltweit erste und einzige Ausstellung zur Geschichte und Kultur der Roma.",
+            "hu": "Tekintse meg a világ első és egyetlen, a romák történelmével és kultúrájával foglalkozó kiállítását.",
+            "ro": "Vizitați prima și singura expoziție din lume despre istoria și cultura romilor.",
+            "en": "Visit the world's first and only exhibition on the history and culture of the Romani people."
+          }
+        },
+        {
+          "name": {
+            "de": "Strzelecki-Park",
+            "hu": "Strzelecki Park",
+            "ro": "Parcul Strzelecki",
+            "en": "Strzelecki Park"
+          },
+          "coords": [
+            50.009,
+            20.992
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:46",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Finden Sie das Mausoleum von General Bem, einem Helden Polens und Ungarns, das sich auf einer kleinen Insel im Teich befindet.",
+            "hu": "Keresse meg Bem József tábornok, Lengyelország és Magyarország hősének mauzóleumát egy kis szigeten a tó közepén.",
+            "ro": "Găsiți mausoleul generalului Bem, un erou al Poloniei și Ungariei, situat pe o mică insulă în iaz.",
+            "en": "Find the mausoleum of General Bem, a hero of Poland and Hungary, located on a small island in the pond."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Tarnów beginnt auf dem pulsierenden Marktplatz, umgeben von Renaissance-Architektur. Der Vormittag ist der Erkundung des historischen Herzens der Stadt gewidmet, vom prächtigen Rathaus bis zur imposanten Kathedrale. Nach einem tiefen Einblick in die sakrale Kunst im Diözesanmuseum führt Sie der Weg am Nachmittag zu den Spuren der jüdischen Geschichte und in die faszinierende Welt der Roma-Kultur. Der Tag klingt entspannt im grünen Strzelecki-Park aus, wo Geschichte auf Natur trifft.",
+        "hu": "Tarnówi napja a nyüzsgő Piactéren kezdődik, reneszánsz építészet ölelésében. A délelőtt a város történelmi szívének felfedezésével telik, a csodás Városházától a fenséges Székesegyházig. Miután elmélyült a szakrális művészetben az Egyházmegyei Múzeumban, délután a zsidó történelem nyomait és a roma kultúra lenyűgöző világát ismerheti meg. A nap a zöld Strzelecki Parkban zárul, ahol a történelem és a természet találkozik.",
+        "ro": "Ziua dvs. în Tarnów începe în Piața vibrantă a Pieței, înconjurată de arhitectură renascentistă. Dimineața este dedicată explorării inimii istorice a orașului, de la Primăria magnifică la Catedrala impunătoare. După o incursiune în arta sacră la Muzeul Diecezan, după-amiaza vă poartă pe urmele istoriei evreiești și în lumea fascinantă a culturii rome. Ziua se încheie relaxat în verdele Parc Strzelecki, unde istoria întâlnește natura.",
+        "en": "Your day in Tarnów begins in the vibrant Market Square, surrounded by Renaissance architecture. The morning is dedicated to exploring the city's historic heart, from the magnificent Town Hall to the imposing Cathedral. After a deep dive into sacred art at the Diocesan Museum, the afternoon takes you to the traces of Jewish history and into the fascinating world of Romani culture. The day concludes with a relaxing time in the green Strzelecki Park, where history meets nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die traditionellen polnischen Teigtaschen in Restaurants wie 'Stara Łaźnia'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine saure Roggensuppe, die oft in einem Brotlaib serviert wird. Ein Muss!"
+          },
+          {
+            "name": "Kiełbasa tarnowska",
+            "tip": "Suchen Sie nach dieser lokalen Wurstspezialität auf Märkten oder in Metzgereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hagyományos lengyel derelyét olyan éttermekben, mint a 'Stara Łaźnia'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Savanykás rozsleves, gyakran cipóban tálalva. Ezt ki kell próbálni!"
+          },
+          {
+            "name": "Kiełbasa tarnowska",
+            "tip": "Keresse ezt a helyi kolbászkülönlegességet a piacokon vagy hentesüzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele tradiționale poloneze la restaurante precum 'Stara Łaźnia'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O ciorbă acră de secară, adesea servită într-o pâine. Trebuie încercată!"
+          },
+          {
+            "name": "Kiełbasa tarnowska",
+            "tip": "Căutați această specialitate locală de cârnați în piețe sau măcelării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the traditional Polish dumplings at restaurants like 'Stara Łaźnia'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A sour rye soup, often served in a bread bowl. A must-try!"
+          },
+          {
+            "name": "Kiełbasa tarnowska",
+            "tip": "Look for this local sausage specialty in markets or butcher shops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Wątok",
+            "tip": "Ein ruhiger Spaziergang entlang des kleinen Flusses, der durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St.-Martin-Berg",
+            "tip": "Die Ruinen der Burg bieten einen Panoramablick und eine friedliche Atmosphäre außerhalb des Zentrums.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alter Friedhof",
+            "tip": "Ein historischer und stiller Ort mit vielen kunstvollen Gräbern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wątok-patak partja",
+            "tip": "Egy csendes séta a városon átfolyó kis folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Márton-hegy",
+            "tip": "A várromok panorámás kilátást és békés hangulatot kínálnak a központon kívül.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Régi temető",
+            "tip": "Történelmi és csendes hely, tele művészi síremlékekkel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Wątok",
+            "tip": "O plimbare liniștită de-a lungul micului râu care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muntele Sf. Martin",
+            "tip": "Ruinele castelului oferă o vedere panoramică și o atmosferă pașnică în afara centrului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul Vechi",
+            "tip": "Un loc istoric și liniștit, cu multe morminte artistice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Wątok River",
+            "tip": "A quiet walk along the small river that flows through the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Martin's Hill",
+            "tip": "The castle ruins offer a panoramic view and a peaceful atmosphere outside the center.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Old Cemetery",
+            "tip": "A historical and quiet place with many artistic tombs.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Halten Sie Ausschau nach handbemalter Keramik, einem beliebten polnischen Souvenir."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "In den Juweliergeschäften der Altstadt finden Sie wunderschönen Bernsteinschmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keresse a kézzel festett kerámiákat, egy népszerű lengyel szuvenírt."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Találjon gyönyörű borostyán ékszereket az óvárosi ékszerüzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Fiți atenți la ceramica pictată manual, un suvenir polonez popular."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Veți găsi bijuterii frumoase din chihlimbar în magazinele de bijuterii din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pottery",
+            "tip": "Look for hand-painted pottery, a popular Polish souvenir."
+          },
+          {
+            "name": "Amber Jewelry",
+            "tip": "You can find beautiful amber jewelry in the Old Town's jewelry shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt Kopfsteinpflaster hat.",
+          "Die meisten Museen sind montags geschlossen, planen Sie entsprechend.",
+          "Halten Sie immer etwas Bargeld für kleine Einkäufe bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, az Óváros macskaköves.",
+          "A legtöbb múzeum hétfőn zárva tart, tervezzen ennek megfelelően.",
+          "Mindig tartson magánál készpénzt a kisebb vásárlásokhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece orașul vechi are pavaj.",
+          "Majoritatea muzeelor sunt închise lunea, planificați-vă în consecință.",
+          "Păstrați întotdeauna niște numerar pentru achiziții mici."
+        ],
+        "en": [
+          "Wear comfortable shoes as the Old Town is cobblestoned.",
+          "Most museums are closed on Mondays, so plan accordingly.",
+          "Always keep some cash on hand for small purchases."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pałac Sanguszków",
+            "hu": "Sanguszko-palota",
+            "ro": "Palatul Sanguszko",
+            "en": "Sanguszko Palace"
+          },
+          "coords": [
+            50.025,
+            20.96
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Obwohl der Palast nicht für die Öffentlichkeit zugänglich ist, ist der umliegende Park ideal für eine erste Erkundung mit dem Fahrrad.",
+            "hu": "Bár a palota nem látogatható, a környező park ideális egy első, kerékpáros felfedezéshez.",
+            "ro": "Deși palatul nu este deschis publicului, parcul înconjurător este ideal pentru o primă explorare pe bicicletă.",
+            "en": "Although the palace is not open to the public, the surrounding park is ideal for a first exploration by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Strzelecki-Park",
+            "hu": "Strzelecki Park",
+            "ro": "Parcul Strzelecki",
+            "en": "Strzelecki Park"
+          },
+          "coords": [
+            50.009,
+            20.992
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:38",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Perfekter Ort, um das Fahrrad abzustellen und das Mausoleum von General Bem zu Fuß zu erkunden.",
+            "hu": "Tökéletes hely a kerékpár lezárásához és Bem tábornok mauzóleumának gyalogos felfedezéséhez.",
+            "ro": "Locul perfect pentru a parca bicicleta și a explora mausoleul generalului Bem pe jos.",
+            "en": "Perfect spot to lock up the bike and explore General Bem's Mausoleum on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz (Rynek)",
+            "hu": "Piactér (Rynek)",
+            "ro": "Piața Centrală (Rynek)",
+            "en": "Market Square (Rynek)"
+          },
+          "coords": [
+            50.013,
+            20.9875
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:35",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und genießen Sie die Atmosphäre bei einem Kaffee in einem der vielen Cafés.",
+            "hu": "Parkolja le a közelben a kerékpárt, és élvezze a hangulatot egy kávé mellett a sok kávézó egyikében.",
+            "ro": "Parcați bicicleta în apropiere și bucurați-vă de atmosferă la o cafea într-una dintre numeroasele cafenele.",
+            "en": "Park your bike nearby and soak in the atmosphere with a coffee at one of the many cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Kathedrale",
+            "hu": "Városháza és Székesegyház",
+            "ro": "Primăria și Catedrala",
+            "en": "Town Hall & Cathedral"
+          },
+          "coords": [
+            50.0135,
+            20.9882
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:08",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen liegen so nah beieinander, dass man sie am besten zu Fuß erkundet.",
+            "hu": "Ez a két nevezetesség olyan közel van egymáshoz, hogy a legjobb gyalog felfedezni őket.",
+            "ro": "Aceste două repere sunt atât de apropiate încât cel mai bine este să le explorați pe jos.",
+            "en": "These two landmarks are so close together, they are best explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bima der Alten Synagoge",
+            "hu": "A Régi Zsinagóga Bimája",
+            "ro": "Bima din Vechea Sinagogă",
+            "en": "Bimah of the Old Synagogue"
+          },
+          "coords": [
+            50.0118,
+            20.9895
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:43",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz, um innezuhalten und nachzudenken.",
+            "hu": "Egy rövid séta a főtértől, hogy megálljon és elgondolkodjon.",
+            "ro": "O scurtă plimbare din piața principală pentru un moment de reflecție.",
+            "en": "A short walk from the main square for a moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnografisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            50.0105,
+            20.985
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine kurze Radtour vom Zentrum entfernt. Es gibt Fahrradständer vor dem Museum.",
+            "hu": "Egy rövid bicikliút a központtól. A múzeum előtt kerékpártárolók találhatók.",
+            "ro": "O scurtă plimbare cu bicicleta din centru. Există suporturi pentru biciclete în fața muzeului.",
+            "en": "A short bike ride from the center. There are bike racks in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Altstadt",
+            "hu": "Vacsora az Óvárosban",
+            "ro": "Cină în Orașul Vechi",
+            "en": "Dinner in the Old Town"
+          },
+          "coords": [
+            50.013,
+            20.987
+          ],
+          "category": "gastro",
+          "arrive_at": "16:10",
+          "stay_min": 95,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radeln Sie zurück ins Herz der Stadt, um den Tag mit einem köstlichen polnischen Essen ausklingen zu lassen.",
+            "hu": "Tekerjen vissza a város szívébe, hogy egy finom lengyel vacsorával zárja a napot.",
+            "ro": "Pedalați înapoi în inima orașului pentru a încheia ziua cu o masă delicioasă poloneză.",
+            "en": "Cycle back to the heart of the city to end the day with a delicious Polish meal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt am ruhigen Sanguszko-Palast, bevor Sie durch den grünen Strzelecki-Park ins Stadtzentrum radeln. Am Vormittag erkunden Sie das historische Herz rund um den Marktplatz, wobei Sie kurze Strecken zu Fuß zurücklegen. Nach dem Mittagessen und einem Moment der Besinnung an der Bima der Alten Synagoge fahren Sie zum aufschlussreichen Ethnografischen Museum. Der Tag endet mit einer gemütlichen Rückfahrt in die Altstadt für ein wohlverdientes Abendessen.",
+        "hu": "Kerékpáros kalandja a csendes Sanguszko-palotánál kezdődik, mielőtt a zöld Strzelecki Parkon keresztül a városközpontba tekerne. Délelőtt a Piactér körüli történelmi negyedet fedezi fel, rövid szakaszokat gyalog téve meg. Ebéd és a Régi Zsinagóga bimájánál töltött elmélkedés után az érdekes Néprajzi Múzeum felé veszi az irányt. A nap egy kellemes visszatekeréssel zárul az Óvárosba egy jól megérdemelt vacsorára.",
+        "ro": "Aventura pe bicicletă începe la liniștitul Palat Sanguszko, înainte de a pedala prin Parcul verde Strzelecki spre centrul orașului. Dimineața explorați inima istorică din jurul Pieței Centrale, parcurgând distanțe scurte pe jos. După prânz și un moment de reflecție la Bima Vechii Sinagogi, vă îndreptați spre fascinantul Muzeu Etnografic. Ziua se încheie cu o plimbare relaxantă înapoi în Orașul Vechi pentru o cină binemeritată.",
+        "en": "Your cycling adventure begins at the tranquil Sanguszko Palace before you pedal through the green Strzelecki Park to the city center. In the morning, you'll explore the historic heart around the Market Square, covering short distances on foot. After lunch and a moment of reflection at the Bimah of the Old Synagogue, you'll head to the insightful Ethnographic Museum. The day concludes with a leisurely ride back to the Old Town for a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die traditionellen polnischen Teigtaschen in Restaurants wie 'Stara Łaźnia'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine saure Roggensuppe, die oft in einem Brotlaib serviert wird. Ein Muss!"
+          },
+          {
+            "name": "Kiełbasa tarnowska",
+            "tip": "Suchen Sie nach dieser lokalen Wurstspezialität auf Märkten oder in Metzgereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hagyományos lengyel derelyét olyan éttermekben, mint a 'Stara Łaźnia'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Savanykás rozsleves, gyakran cipóban tálalva. Ezt ki kell próbálni!"
+          },
+          {
+            "name": "Kiełbasa tarnowska",
+            "tip": "Keresse ezt a helyi kolbászkülönlegességet a piacokon vagy hentesüzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele tradiționale poloneze la restaurante precum 'Stara Łaźnia'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O ciorbă acră de secară, adesea servită într-o pâine. Trebuie încercată!"
+          },
+          {
+            "name": "Kiełbasa tarnowska",
+            "tip": "Căutați această specialitate locală de cârnați în piețe sau măcelării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the traditional Polish dumplings at restaurants like 'Stara Łaźnia'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A sour rye soup, often served in a bread bowl. A must-try!"
+          },
+          {
+            "name": "Kiełbasa tarnowska",
+            "tip": "Look for this local sausage specialty in markets or butcher shops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Wątok",
+            "tip": "Ein ruhiger Spaziergang entlang des kleinen Flusses, der durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St.-Martin-Berg",
+            "tip": "Die Ruinen der Burg bieten einen Panoramablick und eine friedliche Atmosphäre außerhalb des Zentrums.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alter Friedhof",
+            "tip": "Ein historischer und stiller Ort mit vielen kunstvollen Gräbern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wątok-patak partja",
+            "tip": "Egy csendes séta a városon átfolyó kis folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Márton-hegy",
+            "tip": "A várromok panorámás kilátást és békés hangulatot kínálnak a központon kívül.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Régi temető",
+            "tip": "Történelmi és csendes hely, tele művészi síremlékekkel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Wątok",
+            "tip": "O plimbare liniștită de-a lungul micului râu care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muntele Sf. Martin",
+            "tip": "Ruinele castelului oferă o vedere panoramică și o atmosferă pașnică în afara centrului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul Vechi",
+            "tip": "Un loc istoric și liniștit, cu multe morminte artistice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Wątok River",
+            "tip": "A quiet walk along the small river that flows through the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Martin's Hill",
+            "tip": "The castle ruins offer a panoramic view and a peaceful atmosphere outside the center.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Old Cemetery",
+            "tip": "A historical and quiet place with many artistic tombs.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Halten Sie Ausschau nach handbemalter Keramik, einem beliebten polnischen Souvenir."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "In den Juweliergeschäften der Altstadt finden Sie wunderschönen Bernsteinschmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keresse a kézzel festett kerámiákat, egy népszerű lengyel szuvenírt."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Találjon gyönyörű borostyán ékszereket az óvárosi ékszerüzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Fiți atenți la ceramica pictată manual, un suvenir polonez popular."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Veți găsi bijuterii frumoase din chihlimbar în magazinele de bijuterii din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pottery",
+            "tip": "Look for hand-painted pottery, a popular Polish souvenir."
+          },
+          {
+            "name": "Amber Jewelry",
+            "tip": "You can find beautiful amber jewelry in the Old Town's jewelry shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Wettervorhersage und kleiden Sie sich entsprechend.",
+          "Schließen Sie Ihr Fahrrad immer an einem sicheren Ort ab.",
+          "Es gibt mehrere Fahrradverleihstationen in der Stadt."
+        ],
+        "hu": [
+          "Ellenőrizze az időjárás-előrejelzést és öltözzön rétegesen.",
+          "Mindig zárja le a kerékpárt egy biztonságos helyen.",
+          "Több kerékpárkölcsönző állomás is található a városban."
+        ],
+        "ro": [
+          "Verificați prognoza meteo și îmbrăcați-vă corespunzător.",
+          "Legați-vă întotdeauna bicicleta într-un loc sigur.",
+          "Există mai multe stații de închiriere de biciclete în oraș."
+        ],
+        "en": [
+          "Check the weather forecast and dress in layers.",
+          "Always lock your bike in a secure place.",
+          "There are several bike rental stations in the city."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Parken am Pałac Sanguszków",
+            "hu": "1. klaszter: Parkolás a Sanguszko-palotánál",
+            "ro": "Cluster 1: Parcare la Palatul Sanguszko",
+            "en": "Cluster 1: Park at Sanguszko Palace"
+          },
+          "coords": [
+            50.025,
+            20.96
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag etwas außerhalb. Parken Sie hier und genießen Sie die ruhige Atmosphäre des Anwesens.",
+            "hu": "Kezdje a napot egy kicsit kijjebb. Parkoljon le itt, és élvezze a birtok nyugodt hangulatát.",
+            "ro": "Începeți ziua puțin în afara centrului. Parcați aici și bucurați-vă de atmosfera liniștită a domeniului.",
+            "en": "Start your day slightly outside the center. Park here and enjoy the tranquil atmosphere of the estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Parken am Strzelecki-Park",
+            "hu": "2. klaszter: Parkolás a Strzelecki Parknál",
+            "ro": "Cluster 2: Parcare la Parcul Strzelecki",
+            "en": "Cluster 2: Park at Strzelecki Park"
+          },
+          "coords": [
+            50.009,
+            20.992
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Suchen Sie einen Parkplatz und erkunden Sie den Park und das Bem-Mausoleum.",
+            "hu": "Vezessen a második klaszterhez. Keressen egy parkolóhelyet, és fedezze fel a parkot és a Bem-mauzóleumot.",
+            "ro": "Conduceți la al doilea cluster. Găsiți un loc de parcare și explorați parcul și Mausoleul Bem.",
+            "en": "Drive to the second cluster. Find a parking spot and explore the park and the Bem Mausoleum."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Ethnografischen Museum",
+            "hu": "Séta a Néprajzi Múzeumhoz",
+            "ro": "Plimbare la Muzeul Etnografic",
+            "en": "Walk to the Ethnographic Museum"
+          },
+          "coords": [
+            50.0105,
+            20.985
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Vom Park aus ist es ein kurzer Spaziergang zu diesem einzigartigen Museum. Lassen Sie das Auto stehen.",
+            "hu": "A parkból egy rövid séta vezet ehhez az egyedülálló múzeumhoz. Hagyja az autót.",
+            "ro": "Din parc, este o scurtă plimbare până la acest muzeu unic. Lăsați mașina parcată.",
+            "en": "From the park, it's a short walk to this unique museum. Leave the car parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Parken nahe der Altstadt",
+            "hu": "3. klaszter: Parkolás az Óváros közelében",
+            "ro": "Cluster 3: Parcare lângă Orașul Vechi",
+            "en": "Cluster 3: Park near the Old Town"
+          },
+          "coords": [
+            50.0125,
+            20.984
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:25",
+          "stay_min": 1,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum letzten Cluster. Suchen Sie einen Parkplatz am Rande der Altstadt für den Rest des Tages.",
+            "hu": "Vezessen az utolsó klaszterhez. Keressen egy parkolót az Óváros szélén a nap hátralévő részére.",
+            "ro": "Conduceți la ultimul cluster. Găsiți o parcare la marginea Orașului Vechi pentru restul zilei.",
+            "en": "Drive to the final cluster. Find a parking spot on the edge of the Old Town for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Erkundung der Altstadt: Marktplatz & Rathaus",
+            "hu": "Óváros felfedezése: Piactér és Városháza",
+            "ro": "Explorarea Orașului Vechi: Piața Centrală și Primăria",
+            "en": "Old Town Exploration: Market Square & Town Hall"
+          },
+          "coords": [
+            50.0132,
+            20.9879
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:36",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie zu Fuß in die Atmosphäre ein. Mittagessen in einem der Restaurants am Platz.",
+            "hu": "Merüljön el a hangulatban gyalog. Ebédeljen a téren található éttermek egyikében.",
+            "ro": "Scufundați-vă în atmosferă pe jos. Luați prânzul la unul dintre restaurantele din piață.",
+            "en": "Immerse yourself in the atmosphere on foot. Have lunch at one of the square's restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Kathedrale & Diözesanmuseum",
+            "hu": "Séta a Székesegyházhoz és az Egyházmegyei Múzeumhoz",
+            "ro": "Plimbare la Catedrală și Muzeul Diecezan",
+            "en": "Walk to the Cathedral & Diocesan Museum"
+          },
+          "coords": [
+            50.014,
+            20.9885
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:41",
+          "stay_min": 145,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit den kulturellen Höhepunkten, die nur einen kurzen Spaziergang voneinander entfernt sind.",
+            "hu": "Fejezze be a napot a kulturális csúcspontokkal, amelyek csak egy rövid sétára vannak egymástól.",
+            "ro": "Încheiați-vă ziua cu atracțiile culturale, la doar o scurtă plimbare una de cealaltă.",
+            "en": "End your day with the cultural highlights, just a short walk from each other."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autoreise in Tarnów nutzt Cluster, um das Beste aus der Stadt herauszuholen. Sie beginnen am ruhigen Sanguszko-Palast, bevor Sie zum grünen Strzelecki-Park fahren, wo Sie das Auto abstellen, um den Park und das nahegelegene Ethnographische Museum zu Fuß zu erkunden. Der Nachmittag ist dem historischen Zentrum gewidmet. Sie parken am Rande der Altstadt und entdecken den Marktplatz, das Rathaus und die Kathedrale in einem gemütlichen Spaziergang.",
+        "hu": "Autós utazása Tarnówban klasztereket használ, hogy a legtöbbet hozza ki a városból. A csendes Sanguszko-palotánál kezd, majd a zöld Strzelecki Parkhoz hajt, ahol leparkol, hogy gyalog fedezze fel a parkot és a közeli Néprajzi Múzeumot. A délután a történelmi központé. Az Óváros szélén parkol le, és egy kellemes sétával fedezi fel a Piacteret, a Városházát és a Székesegyházat.",
+        "ro": "Călătoria cu mașina în Tarnów folosește clustere pentru a profita la maximum de oraș. Începeți la liniștitul Palat Sanguszko înainte de a conduce la Parcul verde Strzelecki, unde parcați pentru a explora parcul și Muzeul Etnografic din apropiere pe jos. După-amiaza este dedicată centrului istoric. Parcați la marginea Orașului Vechi și descoperiți Piața Centrală, Primăria și Catedrala într-o plimbare relaxantă.",
+        "en": "Your car journey in Tarnów uses clusters to make the most of the city. You start at the tranquil Sanguszko Palace before driving to the green Strzelecki Park, where you'll park to explore the park and the nearby Ethnographic Museum on foot. The afternoon is dedicated to the historic center. You'll park on the edge of the Old Town and discover the Market Square, Town Hall, and Cathedral on a leisurely walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die traditionellen polnischen Teigtaschen in Restaurants wie 'Stara Łaźnia'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine saure Roggensuppe, die oft in einem Brotlaib serviert wird. Ein Muss!"
+          },
+          {
+            "name": "Kiełbasa tarnowska",
+            "tip": "Suchen Sie nach dieser lokalen Wurstspezialität auf Märkten oder in Metzgereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hagyományos lengyel derelyét olyan éttermekben, mint a 'Stara Łaźnia'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Savanykás rozsleves, gyakran cipóban tálalva. Ezt ki kell próbálni!"
+          },
+          {
+            "name": "Kiełbasa tarnowska",
+            "tip": "Keresse ezt a helyi kolbászkülönlegességet a piacokon vagy hentesüzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele tradiționale poloneze la restaurante precum 'Stara Łaźnia'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O ciorbă acră de secară, adesea servită într-o pâine. Trebuie încercată!"
+          },
+          {
+            "name": "Kiełbasa tarnowska",
+            "tip": "Căutați această specialitate locală de cârnați în piețe sau măcelării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the traditional Polish dumplings at restaurants like 'Stara Łaźnia'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A sour rye soup, often served in a bread bowl. A must-try!"
+          },
+          {
+            "name": "Kiełbasa tarnowska",
+            "tip": "Look for this local sausage specialty in markets or butcher shops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Wątok",
+            "tip": "Ein ruhiger Spaziergang entlang des kleinen Flusses, der durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St.-Martin-Berg",
+            "tip": "Die Ruinen der Burg bieten einen Panoramablick und eine friedliche Atmosphäre außerhalb des Zentrums.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alter Friedhof",
+            "tip": "Ein historischer und stiller Ort mit vielen kunstvollen Gräbern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wątok-patak partja",
+            "tip": "Egy csendes séta a városon átfolyó kis folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Márton-hegy",
+            "tip": "A várromok panorámás kilátást és békés hangulatot kínálnak a központon kívül.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Régi temető",
+            "tip": "Történelmi és csendes hely, tele művészi síremlékekkel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Wątok",
+            "tip": "O plimbare liniștită de-a lungul micului râu care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muntele Sf. Martin",
+            "tip": "Ruinele castelului oferă o vedere panoramică și o atmosferă pașnică în afara centrului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul Vechi",
+            "tip": "Un loc istoric și liniștit, cu multe morminte artistice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Wątok River",
+            "tip": "A quiet walk along the small river that flows through the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Martin's Hill",
+            "tip": "The castle ruins offer a panoramic view and a peaceful atmosphere outside the center.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Old Cemetery",
+            "tip": "A historical and quiet place with many artistic tombs.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Halten Sie Ausschau nach handbemalter Keramik, einem beliebten polnischen Souvenir."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "In den Juweliergeschäften der Altstadt finden Sie wunderschönen Bernsteinschmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keresse a kézzel festett kerámiákat, egy népszerű lengyel szuvenírt."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Találjon gyönyörű borostyán ékszereket az óvárosi ékszerüzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Fiți atenți la ceramica pictată manual, un suvenir polonez popular."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Veți găsi bijuterii frumoase din chihlimbar în magazinele de bijuterii din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pottery",
+            "tip": "Look for hand-painted pottery, a popular Polish souvenir."
+          },
+          {
+            "name": "Amber Jewelry",
+            "tip": "You can find beautiful amber jewelry in the Old Town's jewelry shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Innenstadt kann das Parken schwierig sein; nutzen Sie die ausgewiesenen Parkplätze.",
+          "Beachten Sie die Parkgebühren und -zeiten.",
+          "Ein GPS ist hilfreich, um zwischen den Clustern zu navigieren."
+        ],
+        "hu": [
+          "A belvárosban nehéz lehet parkolni; használja a kijelölt parkolókat.",
+          "Vegye figyelembe a parkolási díjakat és időket.",
+          "GPS hasznos a klaszterek közötti navigációhoz."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în centrul orașului; folosiți parcările desemnate.",
+          "Fiți atenți la taxele și orele de parcare.",
+          "Un GPS este util pentru a naviga între clustere."
+        ],
+        "en": [
+          "Parking can be difficult in the city center; use designated parking areas.",
+          "Be aware of parking fees and timings.",
+          "A GPS is helpful for navigating between clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft am Marktplatz",
+            "hu": "1. klaszter: Érkezés a Piactérre",
+            "ro": "Cluster 1: Sosire în Piața Centrală",
+            "en": "Cluster 1: Arrival at the Market Square"
+          },
+          "coords": [
+            50.013,
+            20.9875
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 1,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Zentrum. Der Marktplatz ist Ihr Ausgangspunkt für den ersten Spaziergang.",
+            "hu": "Buszozzon be a központba. A Piactér az első séta kiindulópontja.",
+            "ro": "Luați un autobuz spre centru. Piața Centrală este punctul de plecare pentru prima plimbare.",
+            "en": "Take a bus to the center. The Market Square is your starting point for the first walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Rathaus und Kathedrale",
+            "hu": "Séta: Városháza és Székesegyház",
+            "ro": "Plimbare: Primăria și Catedrala",
+            "en": "Walk: Town Hall and Cathedral"
+          },
+          "coords": [
+            50.0135,
+            20.9882
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:21",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Herz der Altstadt zu Fuß. Die wichtigsten Sehenswürdigkeiten sind nur wenige Schritte entfernt.",
+            "hu": "Fedezze fel gyalog az Óváros szívét. A fő látnivalók csak néhány lépésre vannak.",
+            "ro": "Explorați inima Orașului Vechi pe jos. Principalele atracții sunt la doar câțiva pași.",
+            "en": "Explore the heart of the Old Town on foot. The main sights are just steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Bima und Diözesanmuseum",
+            "hu": "Séta: Bima és Egyházmegyei Múzeum",
+            "ro": "Plimbare: Bima și Muzeul Diecezan",
+            "en": "Walk: Bimah and Diocesan Museum"
+          },
+          "coords": [
+            50.012,
+            20.989
+          ],
+          "category": "museums",
+          "arrive_at": "10:56",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang fort, um die jüdische Geschichte und die sakrale Kunst zu entdecken.",
+            "hu": "Folytassa sétáját a zsidó történelem és a szakrális művészet felfedezésére.",
+            "ro": "Continuați plimbarea pentru a descoperi istoria evreiască și arta sacră.",
+            "en": "Continue your walk to discover Jewish history and sacred art."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Fahrt zum Ethnografischen Museum",
+            "hu": "2. klaszter: Utazás a Néprajzi Múzeumhoz",
+            "ro": "Cluster 2: Călătorie la Muzeul Etnografic",
+            "en": "Cluster 2: Transit to the Ethnographic Museum"
+          },
+          "coords": [
+            50.0105,
+            20.985
+          ],
+          "category": "museums",
+          "arrive_at": "13:14",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen kurzen Bus für den nächsten Abschnitt. Es ist Zeit, die Kultur der Roma zu erkunden.",
+            "hu": "Vegyen egy rövid buszra a következő szakaszhoz. Itt az ideje felfedezni a roma kultúrát.",
+            "ro": "Luați un autobuz scurt pentru următoarea secțiune. Este timpul să explorați cultura romilor.",
+            "en": "Take a short bus ride for the next leg. It's time to explore the Romani culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Strzelecki-Park",
+            "hu": "Séta a Strzelecki Parkhoz",
+            "ro": "Plimbare la Parcul Strzelecki",
+            "en": "Walk to Strzelecki Park"
+          },
+          "coords": [
+            50.009,
+            20.992
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:04",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang vom Museum zum Park, um den Tag ausklingen zu lassen.",
+            "hu": "Egy pihentető séta a múzeumtól a parkig, hogy lezárja a napot.",
+            "ro": "O plimbare relaxantă de la muzeu la parc pentru a încheia ziua.",
+            "en": "A relaxing walk from the museum to the park to wind down the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt vom Park",
+            "hu": "Visszaút a parkból",
+            "ro": "Întoarcere din parc",
+            "en": "Return from the Park"
+          },
+          "coords": [
+            50.0085,
+            20.9925
+          ],
+          "category": "transit",
+          "arrive_at": "16:49",
+          "stay_min": 50,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "In der Nähe des Parks gibt es Bushaltestellen für Ihre Rückfahrt.",
+            "hu": "A park közelében buszmegállók találhatók a visszaúthoz.",
+            "ro": "Există stații de autobuz lângă parc pentru călătoria de întoarcere.",
+            "en": "There are bus stops near the park for your return journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Tarnów in zwei Clustern. Sie beginnen im Herzen der Altstadt, wo Sie den Marktplatz, das Rathaus und die Kathedrale bequem zu Fuß erreichen. Am Vormittag entdecken Sie auch das jüdische Erbe. Nach dem Mittagessen bringt Sie ein kurzer Bus zum zweiten Cluster: dem Ethnografischen Museum und dem angrenzenden Strzelecki-Park, wo Sie den Nachmittag in Kultur und Natur verbringen.",
+        "hu": "Tömegközlekedéssel két klaszterben fedezi fel Tarnówot. Az Óváros szívében kezd, ahol a Piacteret, a Városházát és a Székesegyházat kényelmesen, gyalog éri el. Délelőtt a zsidó örökséget is felfedezi. Ebéd után egy rövid busz viszi a második klaszterhez: a Néprajzi Múzeumhoz és a szomszédos Strzelecki Parkhoz, ahol a délutánt kultúrával és természettel tölti.",
+        "ro": "Folosind transportul public, explorați Tarnów în două clustere. Începeți în inima Orașului Vechi, unde Piața Centrală, Primăria și Catedrala sunt ușor accesibile pe jos. În timpul dimineții, descoperiți și moștenirea evreiască. După prânz, un autobuz scurt vă duce la al doilea cluster: Muzeul Etnografic și Parcul Strzelecki adiacent, unde vă petreceți după-amiaza între cultură și natură.",
+        "en": "Using public transit, you'll explore Tarnów in two clusters. You start in the heart of the Old Town, where the Market Square, Town Hall, and Cathedral are easily reached on foot. During the morning, you'll also discover the Jewish heritage. After lunch, a short bus ride takes you to the second cluster: the Ethnographic Museum and the adjacent Strzelecki Park, where you'll spend the afternoon immersed in culture and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die traditionellen polnischen Teigtaschen in Restaurants wie 'Stara Łaźnia'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine saure Roggensuppe, die oft in einem Brotlaib serviert wird. Ein Muss!"
+          },
+          {
+            "name": "Kiełbasa tarnowska",
+            "tip": "Suchen Sie nach dieser lokalen Wurstspezialität auf Märkten oder in Metzgereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hagyományos lengyel derelyét olyan éttermekben, mint a 'Stara Łaźnia'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Savanykás rozsleves, gyakran cipóban tálalva. Ezt ki kell próbálni!"
+          },
+          {
+            "name": "Kiełbasa tarnowska",
+            "tip": "Keresse ezt a helyi kolbászkülönlegességet a piacokon vagy hentesüzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele tradiționale poloneze la restaurante precum 'Stara Łaźnia'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O ciorbă acră de secară, adesea servită într-o pâine. Trebuie încercată!"
+          },
+          {
+            "name": "Kiełbasa tarnowska",
+            "tip": "Căutați această specialitate locală de cârnați în piețe sau măcelării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the traditional Polish dumplings at restaurants like 'Stara Łaźnia'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A sour rye soup, often served in a bread bowl. A must-try!"
+          },
+          {
+            "name": "Kiełbasa tarnowska",
+            "tip": "Look for this local sausage specialty in markets or butcher shops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Wątok",
+            "tip": "Ein ruhiger Spaziergang entlang des kleinen Flusses, der durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St.-Martin-Berg",
+            "tip": "Die Ruinen der Burg bieten einen Panoramablick und eine friedliche Atmosphäre außerhalb des Zentrums.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alter Friedhof",
+            "tip": "Ein historischer und stiller Ort mit vielen kunstvollen Gräbern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wątok-patak partja",
+            "tip": "Egy csendes séta a városon átfolyó kis folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Márton-hegy",
+            "tip": "A várromok panorámás kilátást és békés hangulatot kínálnak a központon kívül.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Régi temető",
+            "tip": "Történelmi és csendes hely, tele művészi síremlékekkel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Wątok",
+            "tip": "O plimbare liniștită de-a lungul micului râu care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muntele Sf. Martin",
+            "tip": "Ruinele castelului oferă o vedere panoramică și o atmosferă pașnică în afara centrului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul Vechi",
+            "tip": "Un loc istoric și liniștit, cu multe morminte artistice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Wątok River",
+            "tip": "A quiet walk along the small river that flows through the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Martin's Hill",
+            "tip": "The castle ruins offer a panoramic view and a peaceful atmosphere outside the center.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Old Cemetery",
+            "tip": "A historical and quiet place with many artistic tombs.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Halten Sie Ausschau nach handbemalter Keramik, einem beliebten polnischen Souvenir."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "In den Juweliergeschäften der Altstadt finden Sie wunderschönen Bernsteinschmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keresse a kézzel festett kerámiákat, egy népszerű lengyel szuvenírt."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Találjon gyönyörű borostyán ékszereket az óvárosi ékszerüzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Fiți atenți la ceramica pictată manual, un suvenir polonez popular."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Veți găsi bijuterii frumoase din chihlimbar în magazinele de bijuterii din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pottery",
+            "tip": "Look for hand-painted pottery, a popular Polish souvenir."
+          },
+          {
+            "name": "Amber Jewelry",
+            "tip": "You can find beautiful amber jewelry in the Old Town's jewelry shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu erhalten.",
+          "Busse können zu Stoßzeiten voll sein, planen Sie etwas mehr Zeit ein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, tervezzen egy kis extra időt."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația locală de transport public pentru orare în timp real.",
+          "Autobuzele pot fi aglomerate la ore de vârf, planificați puțin timp suplimentar."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Download the local public transport app for real-time schedules.",
+          "Buses can be crowded during peak hours, so plan for a little extra time."
+        ]
+      }
+    }
+  }
+}

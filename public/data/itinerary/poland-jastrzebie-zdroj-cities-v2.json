@@ -1,0 +1,1319 @@
+{
+  "city_id": "poland-jastrzebie-zdroj-cities-v2",
+  "anchor": {
+    "name": "Jastrzebie-Zdroj",
+    "coords": [
+      18.6019,
+      49.9544
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kurpark (Park Zdrojowy)",
+            "hu": "Gyógypark (Park Zdrojowy)",
+            "ro": "Parcul balnear (Park Zdrojowy)",
+            "en": "Spa Park (Park Zdrojowy)"
+          },
+          "coords": [
+            18.6033,
+            49.9555
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Spaziergang entlang der Hauptallee.",
+            "hu": "Kezdje a napot egy sétával a fő sétányon.",
+            "ro": "Începeți ziua cu o plimbare pe aleea principală.",
+            "en": "Start your day with a stroll along the main avenue."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurhaus (Dom Zdrojowy)",
+            "hu": "Gyógyház (Dom Zdrojowy)",
+            "ro": "Casa balneară (Dom Zdrojowy)",
+            "en": "Spa House (Dom Zdrojowy)"
+          },
+          "coords": [
+            18.6045,
+            49.9561
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieses zentralen Spa-Gebäudes.",
+            "hu": "Csodálja meg ennek a központi gyógyépületnek a történelmi építészetét.",
+            "ro": "Admirați arhitectura istorică a acestei clădiri balneare centrale.",
+            "en": "Admire the historic architecture of this central spa building."
+          }
+        },
+        {
+          "name": {
+            "de": "Trinkhalle (Pijalnia Wód)",
+            "hu": "Ivócsarnok (Pijalnia Wód)",
+            "ro": "Pavilionul cu apă minerală (Pijalnia Wód)",
+            "en": "Pump Room (Pijalnia Wód)"
+          },
+          "coords": [
+            18.604,
+            49.9565
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie das lokale Mineralwasser direkt von der Quelle.",
+            "hu": "Kóstolja meg a helyi ásványvizet egyenesen a forrásból.",
+            "ro": "Încercați apa minerală locală direct de la izvor.",
+            "en": "Try the local mineral water straight from the spring."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie der Stadtgeschichte",
+            "hu": "Várostörténeti Galéria",
+            "ro": "Galeria de Istorie a Orașului",
+            "en": "City History Gallery"
+          },
+          "coords": [
+            18.6015,
+            49.954
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen zur Bergbau- und Spa-Geschichte.",
+            "hu": "Fókuszáljon a bányászat és a fürdőkultúra történetét bemutató kiállításokra.",
+            "ro": "Concentrați-vă pe expozițiile despre istoria minieră și balneară.",
+            "en": "Focus on the exhibitions about the mining and spa history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligsten Herzens Jesu",
+            "hu": "Jézus Legszentebb Szíve templom",
+            "ro": "Biserica Preasfânta Inimă a lui Iisus",
+            "en": "Church of the Most Sacred Heart of Jesus"
+          },
+          "coords": [
+            18.5998,
+            49.953
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Glasfenster und den Hauptaltar.",
+            "hu": "Figyelje meg a lenyűgöző ólomüveg ablakokat és a főoltárt.",
+            "ro": "Observați vitraliile impresionante și altarul principal.",
+            "en": "Pay attention to the impressive stained glass windows and the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Bergleute",
+            "hu": "Bányász-emlékmű",
+            "ro": "Monumentul Minerilor",
+            "en": "Monument to the Miners"
+          },
+          "coords": [
+            18.5985,
+            49.9525
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein ergreifendes Denkmal, das das industrielle Erbe der Stadt ehrt.",
+            "hu": "Egy megindító emlékmű, amely a város ipari öröksége előtt tiszteleg.",
+            "ro": "Un monument emoționant care onorează moștenirea industrială a orașului.",
+            "en": "A poignant monument honoring the city's industrial heritage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im grünen Herzen der Stadt, dem Kurpark. Sie erkunden die historischen Kurgebäude, bevor Sie in die Geschichte der Stadt in der Galerie eintauchen. Am Nachmittag besuchen Sie die Hauptkirche und ehren das Bergbauerbe am Denkmal. Der Tag ist eine Mischung aus entspannender Natur und tiefem kulturellem Einblick.",
+        "hu": "A nap a város zöld szívében, a Gyógyparkban kezdődik. Felfedezi a történelmi fürdőépületeket, mielőtt elmélyülne a város történetében a galériában. Délután meglátogatja a főtemplomot és tiszteleg a bányászati örökség előtt az emlékműnél. A nap a pihentető természet és a mély kulturális betekintés keveréke.",
+        "ro": "Ziua dvs. începe în inima verde a orașului, Parcul Balnear. Explorați clădirile istorice ale stațiunii înainte de a vă cufunda în istoria orașului la galerie. După-amiaza, vizitați biserica principală și onorați moștenirea minieră la monument. Ziua este un amestec de natură relaxantă și o perspectivă culturală profundă.",
+        "en": "Your day starts in the green heart of the city, the Spa Park. You'll explore the historic spa buildings before delving into the city's history at the gallery. In the afternoon, you visit the main church and honor the mining heritage at the monument. The day is a mix of relaxing nature and deep cultural insight."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rolada śląska",
+            "tip": "Schlesisches Rinderroulade, oft mit Klößen und Rotkohl serviert."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine saure Roggenmehlsuppe, ein Muss in der polnischen Küche."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die Variante mit Fleisch oder die süße mit Blaubeeren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rolada śląska",
+            "tip": "Sziléziai marhagöngyöleg, gyakran gombóccal és vöröskáposztával tálalva."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Savanyú rozslisztleves, a lengyel konyha kötelező darabja."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a húsos vagy az édes, áfonyás változatot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rolada śląska",
+            "tip": "Ruladă de vită sileziană, adesea servită cu găluște și varză roșie."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O ciorbă acră de secară, un preparat de neratat în bucătăria poloneză."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Încercați varianta cu carne sau cea dulce cu afine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rolada śląska",
+            "tip": "Silesian beef roulade, often served with dumplings and red cabbage."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A sour rye flour soup, a must-try in Polish cuisine."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Try the version with meat or the sweet one with blueberries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kurpark",
+            "tip": "Finden Sie eine ruhige Bank abseits der Hauptwege.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Seitenschiff der Kirche",
+            "tip": "Ein Moment der Stille im Heiligsten-Herz-Jesu.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógypark",
+            "tip": "Keressen egy csendes padot a főutaktól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A templom mellékhajója",
+            "tip": "Egy csendes pillanat a Jézus Szíve templomban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul balnear",
+            "tip": "Găsiți o bancă liniștită departe de aleile principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Nava laterală a bisericii",
+            "tip": "Un moment de liniște în Biserica Preasfânta Inimă a lui Iisus.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spa Park",
+            "tip": "Find a quiet bench away from the main paths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Side aisle of the church",
+            "tip": "A moment of quiet in the Most Sacred Heart of Jesus Church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Spa-Produkte",
+            "tip": "Suchen Sie nach Seifen und Salzen aus der Region."
+          },
+          {
+            "name": "Bergbau-Souvenirs",
+            "tip": "Kleine Erinnerungsstücke an das industrielle Erbe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi gyógytermékek",
+            "tip": "Keressen helyi készítésű szappanokat és sókat."
+          },
+          {
+            "name": "Bányászati szuvenírek",
+            "tip": "Apró emléktárgyak az ipari örökségről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse balneare locale",
+            "tip": "Căutați săpunuri și săruri din regiune."
+          },
+          {
+            "name": "Suveniruri miniere",
+            "tip": "Mici amintiri ale moștenirii industriale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Spa Products",
+            "tip": "Look for locally made soaps and salts."
+          },
+          {
+            "name": "Mining Souvenirs",
+            "tip": "Small mementos of the industrial heritage."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Prüfen Sie die Öffnungszeiten der Galerie im Voraus.",
+          "Halten Sie eine wiederverwendbare Flasche für das Mineralwasser bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részét gyalog fogja tölteni.",
+          "Előre ellenőrizze a galéria nyitvatartási idejét.",
+          "Tartson magánál egy újratölthető palackot az ásványvízhez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Verificați în prealabil programul de funcționare al galeriei.",
+          "Luați cu dvs. o sticlă reutilizabilă pentru apa minerală."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking for most of the day.",
+          "Check the gallery's opening hours in advance.",
+          "Keep a reusable bottle handy for the mineral water."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kurpark (Park Zdrojowy)",
+            "hu": "Gyógypark (Park Zdrojowy)",
+            "ro": "Parcul balnear (Park Zdrojowy)",
+            "en": "Spa Park (Park Zdrojowy)"
+          },
+          "coords": [
+            18.6033,
+            49.9555
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour mit einer Runde durch den Park.",
+            "hu": "Kezdje a biciklitúrát egy körrel a parkban.",
+            "ro": "Începeți turul cu bicicleta cu o tură prin parc.",
+            "en": "Start your bike tour with a lap around the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurhaus & Trinkhalle",
+            "hu": "Gyógyház és Ivócsarnok",
+            "ro": "Casa balneară & Pavilionul cu apă",
+            "en": "Spa House & Pump Room"
+          },
+          "coords": [
+            18.6045,
+            49.9561
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie diese beiden zentralen Orte.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel ezt a két központi helyszínt.",
+            "ro": "Parcați bicicleta și explorați aceste două situri centrale.",
+            "en": "Park your bike and explore these two central sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligsten Herzens Jesu",
+            "hu": "Jézus Legszentebb Szíve templom",
+            "ro": "Biserica Preasfânta Inimă a lui Iisus",
+            "en": "Church of the Most Sacred Heart of Jesus"
+          },
+          "coords": [
+            18.5998,
+            49.953
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour vom Park zur Hauptkirche der Stadt.",
+            "hu": "Kellemes kerékpárút a parktól a város főtemplomáig.",
+            "ro": "O plimbare plăcută cu bicicleta de la parc la biserica principală a orașului.",
+            "en": "A pleasant bike ride from the park to the city's main church."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie der Stadtgeschichte",
+            "hu": "Várostörténeti Galéria",
+            "ro": "Galeria de Istorie a Orașului",
+            "en": "City History Gallery"
+          },
+          "coords": [
+            18.6015,
+            49.954
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause vom Radfahren.",
+            "hu": "Tökéletes egy déli pihenőre a biciklizésből.",
+            "ro": "Perfect pentru o pauză de prânz de la ciclism.",
+            "en": "Perfect for a midday break from cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Bergleute",
+            "hu": "Bányász-emlékmű",
+            "ro": "Monumentul Minerilor",
+            "en": "Monument to the Miners"
+          },
+          "coords": [
+            18.5985,
+            49.9525
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um über die Geschichte der Region nachzudenken.",
+            "hu": "Egy rövid megálló, hogy elgondolkodjon a régió történelmén.",
+            "ro": "O oprire scurtă pentru a reflecta asupra istoriei regiunii.",
+            "en": "A brief stop to reflect on the region's history."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Barbara-Kirche",
+            "hu": "Szent Borbála-templom",
+            "ro": "Biserica Sf. Barbara",
+            "en": "St. Barbara's Church"
+          },
+          "coords": [
+            18.578,
+            49.965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Diese Kirche ist der Schutzpatronin der Bergleute gewidmet.",
+            "hu": "Ez a templom a bányászok védőszentjének van szentelve.",
+            "ro": "Această biserică este dedicată sfintei patroane a minerilor.",
+            "en": "This church is dedicated to the patron saint of miners."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Kurpark",
+            "hu": "Visszatérés a Gyógyparkba",
+            "ro": "Întoarcere la Parcul Balnear",
+            "en": "Return to Spa Park"
+          },
+          "coords": [
+            18.6033,
+            49.9555
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour dort, wo Sie begonnen haben, und entspannen Sie sich.",
+            "hu": "Fejezze be a túrát ott, ahol elkezdte, és pihenjen.",
+            "ro": "Încheiați turul acolo unde l-ați început și relaxați-vă.",
+            "en": "End your tour where you started and relax."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Jastrzębie-Zdrój auf aktive Weise. Der Tag beginnt im Kurpark und führt Sie zu den wichtigsten Kirchen und dem Bergbau-Denkmal. Ein längerer Halt in der Stadtgeschichtsgalerie bietet eine kulturelle Pause. Die Tour führt Sie auch zur St.-Barbara-Kirche, die eng mit der Bergbautradition verbunden ist, bevor Sie zum entspannten Abschluss in den Park zurückkehren.",
+        "hu": "Kerékpárral aktívan fedezheti fel Jastrzębie-Zdrójt. A nap a Gyógyparkban kezdődik, majd elvezet a legfontosabb templomokhoz és a bányász-emlékműhöz. A Várostörténeti Galériában tartott hosszabb megálló kulturális pihenőt kínál. A túra elviszi Önt a bányászati hagyományokhoz szorosan kapcsolódó Szent Borbála-templomhoz is, mielőtt visszatérne a parkba egy pihentető befejezéshez.",
+        "ro": "Cu bicicleta, explorați Jastrzębie-Zdrój într-un mod activ. Ziua începe în Parcul Balnear și vă duce la principalele biserici și la monumentul minerilor. O oprire mai lungă la Galeria de Istorie a Orașului oferă o pauză culturală. Turul vă duce și la Biserica Sf. Barbara, strâns legată de tradiția minieră, înainte de a vă întoarce în parc pentru o încheiere relaxantă.",
+        "en": "By bike, you explore Jastrzębie-Zdrój in an active way. The day begins in the Spa Park and takes you to the main churches and the miners' monument. A longer stop at the City History Gallery provides a cultural break. The tour also takes you to St. Barbara's Church, closely linked to the mining tradition, before returning to the park for a relaxing finish."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restauracja Dąbrówka",
+            "tip": "Bekannt für ihre traditionelle schlesische Küche."
+          },
+          {
+            "name": "Gościniec Wiślański",
+            "tip": "Bietet herzhafte polnische Gerichte, ideal nach einer Radtour."
+          },
+          {
+            "name": "Kawiarnia Parkowa",
+            "tip": "Für Kaffee und Kuchen im Kurpark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restauracja Dąbrówka",
+            "tip": "Hagyományos sziléziai konyhájáról ismert."
+          },
+          {
+            "name": "Gościniec Wiślański",
+            "tip": "Kiadós lengyel ételeket kínál, ideális egy kerékpártúra után."
+          },
+          {
+            "name": "Kawiarnia Parkowa",
+            "tip": "Kávé és sütemény a Gyógyparkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restauracja Dąbrówka",
+            "tip": "Cunoscut pentru bucătăria sa tradițională sileziană."
+          },
+          {
+            "name": "Gościniec Wiślański",
+            "tip": "Oferă mâncăruri poloneze consistente, ideale după un tur cu bicicleta."
+          },
+          {
+            "name": "Kawiarnia Parkowa",
+            "tip": "Pentru o cafea și o prăjitură în Parcul Balnear."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restauracja Dąbrówka",
+            "tip": "Known for its traditional Silesian cuisine."
+          },
+          {
+            "name": "Gościniec Wiślański",
+            "tip": "Offers hearty Polish dishes, ideal after a bike tour."
+          },
+          {
+            "name": "Kawiarnia Parkowa",
+            "tip": "For coffee and cake in the Spa Park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des kleinen Sees im Park",
+            "tip": "Ein friedlicher Ort zum Ausruhen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof neben der St.-Barbara-Kirche",
+            "tip": "Ein Ort der Stille und des Gedenkens.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A parki kis tó partja",
+            "tip": "Békés hely a pihenésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Szent Borbála-templom melletti temető",
+            "tip": "A csend és az emlékezés helye.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului mic din parc",
+            "tip": "Un loc pașnic pentru odihnă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de lângă Biserica Sf. Barbara",
+            "tip": "Un loc de liniște și comemorare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of the small lake in the park",
+            "tip": "A peaceful place to rest.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery next to St. Barbara's Church",
+            "tip": "A place of silence and remembrance.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach frischen Produkten und handgemachten Waren."
+          },
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Nützlich für eventuelle Reparaturen oder Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen friss termékeket és kézműves árukat."
+          },
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Hasznos lehet esetleges javításokhoz vagy kiegészítőkhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse proaspete și articole de artizanat."
+          },
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Util pentru orice reparații sau accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for fresh produce and handmade goods."
+          },
+          {
+            "name": "Bike Shop",
+            "tip": "Useful for any potential repairs or accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein Fahrradschloss mit, um Ihr Rad an den Haltestellen sicher abzustellen.",
+          "Die Stadt ist relativ flach, aber einige leichte Steigungen sind möglich.",
+          "Tragen Sie einen Helm und achten Sie auf den Verkehr."
+        ],
+        "hu": [
+          "Hozzon magával kerékpárzárat, hogy biztonságosan lezárhassa a kerékpárt a megállóknál.",
+          "A város viszonylag sík, de előfordulhatnak enyhe emelkedők.",
+          "Viseljen sisakot és figyeljen a forgalomra."
+        ],
+        "ro": [
+          "Aduceți un lacăt de bicicletă pentru a vă asigura bicicleta la opriri.",
+          "Orașul este relativ plat, dar sunt posibile unele pante ușoare.",
+          "Purtați cască și fiți atenți la trafic."
+        ],
+        "en": [
+          "Bring a bike lock to secure your bike at the stops.",
+          "The city is relatively flat, but some slight inclines are possible.",
+          "Wear a helmet and be mindful of traffic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 21.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Kohlebergwerk Zofiówka",
+            "hu": "1. klaszter: Zofiówka szénbánya",
+            "ro": "Cluster 1: Mina de cărbune Zofiówka",
+            "en": "Cluster 1: Zofiówka Coal Mine"
+          },
+          "coords": [
+            18.638,
+            49.923
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit dem industriellen Erbe. Parken Sie hier für den ersten Teil des Tages.",
+            "hu": "Kezdje az ipari örökséggel. Parkoljon itt a nap első részére.",
+            "ro": "Începeți cu patrimoniul industrial. Parcați aici pentru prima parte a zilei.",
+            "en": "Start with the industrial heritage. Park here for the first part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Bergleute",
+            "hu": "Bányász-emlékmű",
+            "ro": "Monumentul Minerilor",
+            "en": "Monument to the Miners"
+          },
+          "coords": [
+            18.635,
+            49.9255
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bergwerk zum Denkmal.",
+            "hu": "Rövid séta a bányától az emlékműig.",
+            "ro": "O scurtă plimbare de la mină la monument.",
+            "en": "A short walk from the mine to the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Barbara-Kirche",
+            "hu": "Szent Borbála-templom",
+            "ro": "Biserica Sf. Barbara",
+            "en": "St. Barbara's Church"
+          },
+          "coords": [
+            18.578,
+            49.965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zur Kirche, die den Bergleuten gewidmet ist.",
+            "hu": "Vezessen el a bányászoknak szentelt templomhoz.",
+            "ro": "Conduceți la biserica dedicată minerilor.",
+            "en": "Drive to the church dedicated to the miners."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Kurpark (Park Zdrojowy)",
+            "hu": "2. klaszter: Gyógypark (Park Zdrojowy)",
+            "ro": "Cluster 2: Parcul balnear (Park Zdrojowy)",
+            "en": "Cluster 2: Spa Park (Park Zdrojowy)"
+          },
+          "coords": [
+            18.6033,
+            49.9555
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie für den Rest des Nachmittags und erkunden Sie das Spa-Zentrum.",
+            "hu": "Parkoljon le a délután hátralévő részére, és fedezze fel a fürdőközpontot.",
+            "ro": "Parcați pentru restul după-amiezii și explorați centrul balnear.",
+            "en": "Park for the rest of the afternoon and explore the spa center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurhaus & Trinkhalle",
+            "hu": "Gyógyház és Ivócsarnok",
+            "ro": "Casa balneară & Pavilionul cu apă",
+            "en": "Spa House & Pump Room"
+          },
+          "coords": [
+            18.6045,
+            49.9561
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den Park zu diesen ikonischen Gebäuden.",
+            "hu": "Sétáljon át a parkon ezekhez az ikonikus épületekhez.",
+            "ro": "Plimbați-vă prin parc până la aceste clădiri iconice.",
+            "en": "Stroll through the park to these iconic buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie der Stadtgeschichte",
+            "hu": "Várostörténeti Galéria",
+            "ro": "Galeria de Istorie a Orașului",
+            "en": "City History Gallery"
+          },
+          "coords": [
+            18.6015,
+            49.954
+          ],
+          "category": "museums",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss, um beide Seiten der Stadtgeschichte zu verbinden.",
+            "hu": "Tökéletes befejezés, hogy összekapcsolja a város történetének két oldalát.",
+            "ro": "Finalul perfect pentru a conecta cele două fețe ale istoriei orașului.",
+            "en": "The perfect ending to connect both sides of the city's history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto tauchen Sie tief in das doppelte Erbe von Jastrzębie-Zdrój ein. Der Morgen ist dem Bergbau gewidmet, mit einem Besuch des Bergwerks Zofiówka und der St.-Barbara-Kirche. Am Nachmittag fahren Sie ins Zentrum, parken und erkunden den entspannenden Kurpark und seine historischen Gebäude zu Fuß. Diese Tour verbindet auf perfekte Weise die industrielle Stärke mit der heilenden Ruhe der Stadt.",
+        "hu": "Autóval mélyen elmerülhet Jastrzębie-Zdrój kettős örökségében. A délelőtt a bányászat jegyében telik, a Zofiówka bánya és a Szent Borbála-templom meglátogatásával. Délután a központba hajt, leparkol, és gyalogosan fedezi fel a pihentető Gyógyparkot és történelmi épületeit. Ez a túra tökéletesen ötvözi az ipari erőt a város gyógyító nyugalmával.",
+        "ro": "Cu mașina, pătrundeți adânc în dubla moștenire a orașului Jastrzębie-Zdrój. Dimineața este dedicată mineritului, cu o vizită la mina Zofiówka și la Biserica Sf. Barbara. După-amiaza, conduceți spre centru, parcați și explorați pe jos relaxantul Parc Balnear și clădirile sale istorice. Acest tur combină perfect puterea industrială cu liniștea vindecătoare a orașului.",
+        "en": "By car, you delve deep into the dual heritage of Jastrzębie-Zdrój. The morning is dedicated to mining, with a visit to the Zofiówka mine and St. Barbara's Church. In the afternoon, you drive to the center, park, and explore the relaxing Spa Park and its historic buildings on foot. This tour perfectly combines industrial strength with the city's healing tranquility."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karczma Góralska",
+            "tip": "Ein rustikales Restaurant, das für seine herzhaften Fleischgerichte bekannt ist."
+          },
+          {
+            "name": "Szot Smaży",
+            "tip": "Probieren Sie lokale Fischgerichte, eine überraschende Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karczma Góralska",
+            "tip": "Rusztikus étterem, amely kiadós húsételeiről ismert."
+          },
+          {
+            "name": "Szot Smaży",
+            "tip": "Kóstolja meg a helyi halételeket, egy meglepő specialitást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karczma Góralska",
+            "tip": "Un restaurant rustic cunoscut pentru preparatele sale consistente din carne."
+          },
+          {
+            "name": "Szot Smaży",
+            "tip": "Încercați preparatele locale din pește, o specialitate surprinzătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karczma Góralska",
+            "tip": "A rustic restaurant known for its hearty meat dishes."
+          },
+          {
+            "name": "Szot Smaży",
+            "tip": "Try local fish dishes, a surprising specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt nahe dem Bergwerk",
+            "tip": "Ein Panoramablick über die Industrielandschaft.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rosengarten im Kurpark",
+            "tip": "Ein duftender und friedlicher Rückzugsort.",
+            "emoji": "🌸"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a bánya közelében",
+            "tip": "Panorámás kilátás az ipari tájra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rózsakert a Gyógyparkban",
+            "tip": "Illatos és békés menedék.",
+            "emoji": "🌸"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere lângă mină",
+            "tip": "O vedere panoramică asupra peisajului industrial.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina de trandafiri din Parcul Balnear",
+            "tip": "Un refugiu parfumat și pașnic.",
+            "emoji": "🌸"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint near the mine",
+            "tip": "A panoramic view over the industrial landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rose garden in the Spa Park",
+            "tip": "A fragrant and peaceful retreat.",
+            "emoji": "🌸"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden außerhalb der Stadt",
+            "tip": "Suchen Sie nach frischen landwirtschaftlichen Produkten."
+          },
+          {
+            "name": "Museumsshop der Galerie",
+            "tip": "Bücher und Drucke zur Stadtgeschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok a városon kívül",
+            "tip": "Keressen friss mezőgazdasági termékeket."
+          },
+          {
+            "name": "A galéria múzeumi boltja",
+            "tip": "Könyvek és nyomatok a város történetéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole la periferia orașului",
+            "tip": "Căutați produse agricole proaspete."
+          },
+          {
+            "name": "Magazinul muzeului galeriei",
+            "tip": "Cărți și printuri despre istoria orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops outside the city",
+            "tip": "Look for fresh agricultural products."
+          },
+          {
+            "name": "Gallery's museum shop",
+            "tip": "Books and prints on city history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Parkgebühren im Stadtzentrum ein.",
+          "Die Straßen können während der Stoßzeiten belebt sein.",
+          "Ein GPS ist für die Navigation zwischen den Clustern sehr zu empfehlen."
+        ],
+        "hu": [
+          "Tervezzen a belvárosi parkolási díjakkal.",
+          "Az utak forgalmasak lehetnek csúcsidőben.",
+          "A klaszterek közötti navigációhoz erősen ajánlott a GPS használata."
+        ],
+        "ro": [
+          "Planificați taxele de parcare în centrul orașului.",
+          "Străzile pot fi aglomerate în timpul orelor de vârf.",
+          "Un GPS este foarte recomandat pentru navigarea între clustere."
+        ],
+        "en": [
+          "Plan for parking fees in the city center.",
+          "Roads can be busy during rush hours.",
+          "A GPS is highly recommended for navigating between the clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Hauptkirche & Galerie",
+            "hu": "1. klaszter: Főtemplom és Galéria",
+            "ro": "Cluster 1: Biserica Principală & Galerie",
+            "en": "Cluster 1: Main Church & Gallery"
+          },
+          "coords": [
+            18.5998,
+            49.953
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie am religiösen und historischen Kern, der mit dem Bus leicht erreichbar ist.",
+            "hu": "Kezdje a vallási és történelmi központban, amely busszal könnyen elérhető.",
+            "ro": "Începeți la nucleul religios și istoric, ușor accesibil cu autobuzul.",
+            "en": "Start at the religious and historical core, easily accessible by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie der Stadtgeschichte",
+            "hu": "Várostörténeti Galéria",
+            "ro": "Galeria de Istorie a Orașului",
+            "en": "City History Gallery"
+          },
+          "coords": [
+            18.6015,
+            49.954
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche zum Museum.",
+            "hu": "Rövid séta a templomtól a múzeumig.",
+            "ro": "O scurtă plimbare de la biserică la muzeu.",
+            "en": "A short walk from the church to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Bergleute",
+            "hu": "Bányász-emlékmű",
+            "ro": "Monumentul Minerilor",
+            "en": "Monument to the Miners"
+          },
+          "coords": [
+            18.5985,
+            49.9525
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie den ersten Cluster mit einem Besuch des Denkmals ab.",
+            "hu": "Zárja az első klasztert az emlékmű meglátogatásával.",
+            "ro": "Încheiați primul cluster cu o vizită la monument.",
+            "en": "Conclude the first cluster with a visit to the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Kurpark & Spa-Gebäude",
+            "hu": "2. klaszter: Gyógypark és fürdőépületek",
+            "ro": "Cluster 2: Parcul Balnear & Clădiri Spa",
+            "en": "Cluster 2: Spa Park & Spa Buildings"
+          },
+          "coords": [
+            18.6033,
+            49.9555
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Kurpark für einen entspannten Nachmittag.",
+            "hu": "Menjen busszal a Gyógyparkba egy pihentető délutánra.",
+            "ro": "Luați un autobuz spre Parcul Balnear pentru o după-amiază relaxantă.",
+            "en": "Take a bus to the Spa Park for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurhaus (Dom Zdrojowy)",
+            "hu": "Gyógyház (Dom Zdrojowy)",
+            "ro": "Casa balneară (Dom Zdrojowy)",
+            "en": "Spa House (Dom Zdrojowy)"
+          },
+          "coords": [
+            18.6045,
+            49.9561
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Hauptgebäude des Parks.",
+            "hu": "Fedezze fel a park főépületét.",
+            "ro": "Explorați clădirea principală a parcului.",
+            "en": "Explore the main building of the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Trinkhalle (Pijalnia Wód)",
+            "hu": "Ivócsarnok (Pijalnia Wód)",
+            "ro": "Pavilionul cu apă minerală (Pijalnia Wód)",
+            "en": "Pump Room (Pijalnia Wód)"
+          },
+          "coords": [
+            18.604,
+            49.9565
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie zum Abschluss ein Glas Heilwasser.",
+            "hu": "A végén igyon egy pohár gyógyvizet.",
+            "ro": "Bucurați-vă de un pahar de apă medicinală la final.",
+            "en": "Enjoy a glass of medicinal water to finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erleben Sie Jastrzębie-Zdrój wie ein Einheimischer. Der Tag ist in zwei Cluster aufgeteilt: Zuerst erkunden Sie den historischen Kern um die Hauptkirche und die Galerie zu Fuß. Dann bringt Sie ein Bus in das Spa-Viertel, wo Sie den Nachmittag im Kurpark und seinen eleganten Gebäuden verbringen. Es ist eine effiziente und stressfreie Möglichkeit, die beiden Gesichter der Stadt zu sehen.",
+        "hu": "A tömegközlekedéssel úgy élheti át Jastrzębie-Zdrójt, mint egy helyi. A nap két klaszterre oszlik: először gyalogosan fedezi fel a történelmi központot a főtemplom és a galéria körül. Ezután egy busz elviszi a fürdőnegyedbe, ahol a délutánt a Gyógyparkban és elegáns épületeiben tölti. Ez egy hatékony és stresszmentes módja a város két arcának megismerésének.",
+        "ro": "Folosind transportul public, veți experimenta Jastrzębie-Zdrój ca un localnic. Ziua este împărțită în două clustere: mai întâi, explorați pe jos nucleul istoric din jurul bisericii principale și al galeriei. Apoi, un autobuz vă duce în cartierul balnear, unde petreceți după-amiaza în Parcul Balnear și clădirile sale elegante. Este o modalitate eficientă și fără stres de a vedea cele două fețe ale orașului.",
+        "en": "Using public transit, you'll experience Jastrzębie-Zdrój like a local. The day is split into two clusters: first, you explore the historical core around the main church and gallery on foot. Then, a bus takes you to the spa district, where you'll spend the afternoon in the Spa Park and its elegant buildings. It's an efficient and stress-free way to see the two faces of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Mleczny",
+            "tip": "Eine 'Milchbar' für ein authentisches, preiswertes polnisches Mittagessen."
+          },
+          {
+            "name": "Piekarnia",
+            "tip": "Holen Sie sich ein frisches Gebäck (pączek oder drożdżówka) für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Mleczny",
+            "tip": "Egy 'tejivó' egy autentikus, olcsó lengyel ebédhez."
+          },
+          {
+            "name": "Piekarnia",
+            "tip": "Vegyen egy friss péksüteményt (pączek vagy drożdżówka) útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Mleczny",
+            "tip": "Un 'bar de lapte' pentru un prânz polonez autentic și ieftin."
+          },
+          {
+            "name": "Piekarnia",
+            "tip": "Luați un produs de patiserie proaspăt (pączek sau drożdżówka) pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Mleczny",
+            "tip": "A 'milk bar' for an authentic, inexpensive Polish lunch."
+          },
+          {
+            "name": "Piekarnia",
+            "tip": "Grab a fresh pastry (pączek or drożdżówka) for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leseraum in der Galerie",
+            "tip": "Ein ruhiger Ort, um in Büchern über die Region zu stöbern.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Die hinteren Wege des Kurparks",
+            "tip": "Entfliehen Sie den Menschenmassen und genießen Sie die Natur.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasóterem a galériában",
+            "tip": "Csendes hely, ahol a régióról szóló könyveket böngészheti.",
+            "emoji": "📚"
+          },
+          {
+            "name": "A Gyógypark hátsó ösvényei",
+            "tip": "Meneküljön el a tömeg elől és élvezze a természetet.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sala de lectură din galerie",
+            "tip": "Un loc liniștit pentru a răsfoi cărți despre regiune.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Cărările din spatele Parcului Balnear",
+            "tip": "Evadați de aglomerație și bucurați-vă de natură.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading room in the gallery",
+            "tip": "A quiet place to browse books about the region.",
+            "emoji": "📚"
+          },
+          {
+            "name": "The back paths of the Spa Park",
+            "tip": "Escape the crowds and enjoy nature.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk",
+            "tip": "Kaufen Sie eine Tageskarte für den Bus und lokale Zeitungen."
+          },
+          {
+            "name": "Souvenirstände im Park",
+            "tip": "Kleine Andenken an Ihren Besuch im Spa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk",
+            "tip": "Vásároljon napijegyet a buszra és helyi újságokat."
+          },
+          {
+            "name": "Szuvenírstandok a parkban",
+            "tip": "Apró emléktárgyak a fürdőben tett látogatásáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc",
+            "tip": "Cumpărați un bilet de o zi pentru autobuz și ziare locale."
+          },
+          {
+            "name": "Standuri de suveniruri în parc",
+            "tip": "Mici amintiri ale vizitei dvs. la spa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk",
+            "tip": "Buy a day pass for the bus and local newspapers."
+          },
+          {
+            "name": "Souvenir stalls in the park",
+            "tip": "Small mementos of your visit to the spa."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Haben Sie die Busfahrpläne zur Hand, entweder digital oder in Papierform.",
+          "Seien Sie bereit, zwischen den Bushaltestellen und den Sehenswürdigkeiten etwas zu laufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Legyen kéznél a buszmenetrend, digitálisan vagy papíron.",
+          "Készüljön fel némi gyaloglásra a buszmegállók és a látnivalók között."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru transportul public pentru a economisi bani.",
+          "Aveți la îndemână orarele autobuzelor, fie digital, fie pe hârtie.",
+          "Fiți pregătiți să mergeți puțin pe jos între stațiile de autobuz și atracții."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Have the bus schedules handy, either digitally or on paper.",
+          "Be prepared for some walking between bus stops and the sights."
+        ]
+      }
+    }
+  }
+}

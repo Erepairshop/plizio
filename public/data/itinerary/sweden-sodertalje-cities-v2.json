@@ -1,0 +1,1481 @@
+{
+  "city_id": "sweden-sodertalje-cities-v2",
+  "anchor": {
+    "name": "Södertälje",
+    "coords": [
+      17.6253,
+      59.1955
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saltsjötorget",
+            "hu": "Saltsjötorget",
+            "ro": "Piața Saltsjötorget",
+            "en": "Saltsjötorget Square"
+          },
+          "coords": [
+            17.6261,
+            59.1962
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz und genießen Sie die morgendliche Atmosphäre.",
+            "hu": "Kezdje a napot egy kávéval a tér valamelyik kávézójában, és élvezze a reggeli hangulatot.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață și bucurați-vă de atmosfera de dimineață.",
+            "en": "Start your day with a coffee at one of the square's cafes and enjoy the morning atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Ragnhild Kirche",
+            "hu": "Szent Ragnhild-templom",
+            "ro": "Biserica Sf. Ragnhild",
+            "en": "St. Ragnhild's Church"
+          },
+          "coords": [
+            17.6245,
+            59.1971
+          ],
+          "category": "churches",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Statue von St. Ragnhild, der Schutzpatronin der Stadt.",
+            "hu": "Keresse meg Szent Ragnhild, a város védőszentjének szobrát.",
+            "ro": "Căutați statuia Sf. Ragnhild, sfânta protectoare a orașului.",
+            "en": "Look for the statue of St. Ragnhild, the city's patron saint."
+          }
+        },
+        {
+          "name": {
+            "de": "Maren",
+            "hu": "Maren-tó",
+            "ro": "Lacul Maren",
+            "en": "Lake Maren"
+          },
+          "coords": [
+            17.6285,
+            59.1985
+          ],
+          "category": "natural features",
+          "arrive_at": "10:18",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang entlang der Uferpromenade für eine großartige Aussicht auf die Schleuse.",
+            "hu": "Sétáljon egyet a parti sétányon, ahonnan remek kilátás nyílik a zsilipre.",
+            "ro": "Faceți o plimbare de-a lungul promenadei pentru o priveliște minunată a ecluzei.",
+            "en": "Take a walk along the waterfront promenade for a great view of the canal lock."
+          }
+        },
+        {
+          "name": {
+            "de": "Södertälje-Kanal",
+            "hu": "Södertälje-csatorna",
+            "ro": "Canalul Södertälje",
+            "en": "Södertälje Canal"
+          },
+          "coords": [
+            17.622,
+            59.194
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Versuchen Sie, das Heben der Schleuse für ein großes Schiff zu beobachten – ein beeindruckendes Schauspiel.",
+            "hu": "Próbálja meg elkapni, amint egy nagyobb hajó áthalad a zsilipen – lenyűgöző látvány.",
+            "ro": "Încercați să prindeți momentul când se ridică ecluza pentru o navă mare - un spectacol impresionant.",
+            "en": "Try to catch the lock lifting for a large ship – it's an impressive sight."
+          }
+        },
+        {
+          "name": {
+            "de": "Torekällberget Museum",
+            "hu": "Torekällberget Múzeum",
+            "ro": "Muzeul Torekällberget",
+            "en": "Torekällberget Museum"
+          },
+          "coords": [
+            17.618,
+            59.191
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Tiere auf dem Bauernhof, besonders wenn Sie mit Kindern unterwegs sind. Planen Sie hier Ihr Mittagessen ein.",
+            "hu": "Ne hagyja ki a farmon lévő állatokat, különösen, ha gyerekekkel van. Tervezze ide az ebédjét.",
+            "ro": "Nu ratați animalele de la fermă, mai ales dacă sunteți cu copii. Planificați-vă prânzul aici.",
+            "en": "Don't miss the farm animals, especially if you are with kids. Plan your lunch break here."
+          }
+        },
+        {
+          "name": {
+            "de": "Tom Tits Experiment",
+            "hu": "Tom Tits Kísérleti Múzeum",
+            "ro": "Tom Tits Experiment",
+            "en": "Tom Tits Experiment"
+          },
+          "coords": [
+            17.6295,
+            59.2
+          ],
+          "category": "cultural centres",
+          "arrive_at": "14:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, dieses Museum ist viel größer als es scheint und voller interaktiver Exponate.",
+            "hu": "Szánjon rá elég időt, ez a múzeum sokkal nagyobb, mint amilyennek látszik, és tele van interaktív kiállítási tárgyakkal.",
+            "ro": "Planificați suficient timp, acest muzeu este mult mai mare decât pare și plin de exponate interactive.",
+            "en": "Allow plenty of time, this museum is much larger than it seems and packed with interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Storgatan",
+            "hu": "Storgatan",
+            "ro": "Strada Storgatan",
+            "en": "Storgatan Street"
+          },
+          "coords": [
+            17.6275,
+            59.195
+          ],
+          "category": "promenades",
+          "arrive_at": "17:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kaufen Sie ein paar 'Södertäljekringlor' als süßes Souvenir.",
+            "hu": "Vásároljon pár 'Södertäljekringlor'-t (perecet) édes emlékként.",
+            "ro": "Cumpărați niște 'Södertäljekringlor' (covrigi) ca suvenir dulce.",
+            "en": "Buy some 'Södertäljekringlor' pretzels as a sweet souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Södertälje beginnt am zentralen Saltsjötorget, einem lebhaften Platz, der den Ton für die Erkundung angibt. Von dort aus führt ein kurzer Spaziergang zur historischen St. Ragnhild Kirche, die einen Moment der Ruhe bietet. Der Vormittag setzt sich mit einem Spaziergang entlang des Maren-Sees und des beeindruckenden Södertälje-Kanals fort, wo Sie die industrielle Stärke der Stadt spüren können. Der Mittag ist dem Freilichtmuseum Torekällberget gewidmet. Hier können Sie in die schwedische Geschichte eintauchen, historische Gebäude erkunden und vielleicht sogar Ihr Mittagessen in einer charmanten, altmodischen Umgebung genießen. Der Nachmittag ist für das Highlight der Stadt reserviert: das Tom Tits Experiment. Dieses Wissenschaftszentrum ist ein Paradies für Neugierige jeden Alters und bietet stundenlangen interaktiven Spaß und Lernen. Es ist der perfekte Ort, um den Geist anzuregen. Der Tag endet mit einem entspannten Bummel über die Storgatan, die Haupteinkaufsstraße. Hier können Sie nach lokalen Spezialitäten suchen, wie den berühmten Södertälje-Kringlor, und die entspannte Abendatmosphäre der Stadt aufsaugen, bevor Sie abreisen.",
+        "hu": "Södertälje-i napja a központi Saltsjötorget téren kezdődik, egy nyüzsgő helyen, amely megalapozza a felfedezést. Innen egy rövid séta vezet a történelmi Szent Ragnhild-templomhoz, amely egy pillanatnyi nyugalmat kínál. A délelőtt a Maren-tó és a lenyűgöző Södertälje-csatorna mentén tett sétával folytatódik, ahol átérezheti a város ipari erejét. A déli órák a Torekällberget szabadtéri múzeumé. Itt elmerülhet a svéd történelemben, felfedezheti a történelmi épületeket, és talán még egy bájos, régimódi környezetben is ebédelhet. A délután a város fénypontjának, a Tom Tits Kísérleti Múzeumnak van szentelve. Ez a tudományos központ minden korosztály számára paradicsom, órákon át tartó interaktív szórakozást és tanulást kínálva. Tökéletes hely a szellem felpezsdítésére. A nap a Storgatan-on, a fő bevásárlóutcán tett laza sétával zárul. Itt helyi specialitásokat, például a híres Södertälje-i perecet kereshet, és magába szívhatja a város nyugodt esti hangulatát, mielőtt távozna.",
+        "ro": "Ziua dvs. în Södertälje începe în Piața centrală Saltsjötorget, un loc plin de viață care dă tonul explorării. De acolo, o scurtă plimbare vă duce la istorica Biserică Sf. Ragnhild, oferind un moment de liniște. Dimineața continuă cu o plimbare pe malul lacului Maren și pe impresionantul Canal Södertälje, unde puteți simți puterea industrială a orașului. Amiaza este dedicată muzeului în aer liber Torekällberget. Aici vă puteți cufunda în istoria Suediei, explora clădiri istorice și poate chiar să luați prânzul într-un cadru fermecător, de modă veche. După-amiaza este rezervată pentru atracția principală a orașului: Tom Tits Experiment. Acest centru științific este un paradis pentru curioșii de toate vârstele, oferind ore de distracție și învățare interactivă. Este locul perfect pentru a stimula mintea. Ziua se încheie cu o plimbare relaxantă pe Storgatan, principala stradă comercială. Aici puteți căuta specialități locale, cum ar fi faimoșii covrigi Södertälje-kringlor, și puteți absorbi atmosfera relaxată de seară a orașului înainte de plecare.",
+        "en": "Your day in Södertälje begins at the central Saltsjötorget square, a lively spot that sets the tone for exploration. From there, a short walk takes you to the historic St. Ragnhild's Church, offering a moment of tranquility. The morning continues with a stroll along Lake Maren and the impressive Södertälje Canal, where you can feel the city's industrial might. Midday is dedicated to the Torekällberget open-air museum. Here, you can immerse yourself in Swedish history, explore historic buildings, and perhaps even enjoy lunch in a charming, old-fashioned setting. The afternoon is reserved for the city's highlight: the Tom Tits Experiment. This science center is a paradise for the curious of all ages, providing hours of interactive fun and learning. It's the perfect place to stimulate the mind. The day concludes with a relaxed stroll down Storgatan, the main shopping street. Here you can look for local specialties, like the famous Södertälje-kringlor pretzels, and soak up the city's relaxed evening atmosphere before you depart."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Södertäljekringlor",
+            "tip": "Probieren Sie diese lokalen süßen Brezeln, die Spezialität der Stadt."
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Genießen Sie klassische schwedische Fleischbällchen in einem traditionellen Restaurant wie dem im Torekällberget Museum."
+          },
+          {
+            "name": "Lax",
+            "tip": "Frischer Lachs, auf verschiedene Arten zubereitet, ist in vielen Restaurants am Wasser zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Södertäljekringlor",
+            "tip": "Kóstolja meg ezeket a helyi édes pereceket, a város specialitását."
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Élvezze a klasszikus svéd húsgolyókat egy hagyományos étteremben, mint például a Torekällberget Múzeumban."
+          },
+          {
+            "name": "Lax",
+            "tip": "A friss lazacot, különféle módokon elkészítve, számos vízparti étteremben megtalálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Södertäljekringlor",
+            "tip": "Încercați acești covrigi dulci locali, specialitatea orașului."
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Savurați chiftele suedeze clasice la un restaurant tradițional, cum ar fi cel de la Muzeul Torekällberget."
+          },
+          {
+            "name": "Lax",
+            "tip": "Somonul proaspăt, preparat în diverse moduri, se găsește la multe restaurante de pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Södertäljekringlor",
+            "tip": "Try these local sweet pretzels, the town's specialty."
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Enjoy classic Swedish meatballs at a traditional restaurant like the one in Torekällberget Museum."
+          },
+          {
+            "name": "Lax",
+            "tip": "Fresh salmon, prepared in various ways, can be found at many waterfront restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Maren-Sees",
+            "tip": "Finden Sie eine Bank entlang des Sees für einen ruhigen Moment abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten von Torekällberget",
+            "tip": "Die Gärten rund um die alten Häuser im Museum sind ein friedlicher Rückzugsort.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Södertälje-Kanal",
+            "tip": "Ein ruhiger Spaziergang entlang des Kanals am späten Nachmittag kann sehr entspannend sein.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maren-tó partja",
+            "tip": "Keressen egy padot a tó mentén egy csendes pillanatra a tömegtől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Torekällberget kertjei",
+            "tip": "A múzeum régi házai körüli kertek békés menedéket nyújtanak.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Södertälje-csatorna mentén",
+            "tip": "Egy csendes séta a csatorna mentén késő délután nagyon pihentető lehet.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Maren",
+            "tip": "Găsiți o bancă de-a lungul lacului pentru un moment liniștit departe de mulțime.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile din Torekällberget",
+            "tip": "Grădinile din jurul caselor vechi din muzeu sunt un refugiu pașnic.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe Canalul Södertälje",
+            "tip": "O plimbare liniștită de-a lungul canalului la sfârșitul după-amiezii poate fi foarte relaxantă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Lake Maren",
+            "tip": "Find a bench along the lake for a quiet moment away from the crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Torekällberget",
+            "tip": "The gardens around the old houses in the museum are a peaceful retreat.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Södertälje Canal Walk",
+            "tip": "A quiet walk along the canal in the late afternoon can be very relaxing.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Storgatan",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Museumsshop Torekällberget",
+            "tip": "Finden Sie einzigartiges Handwerk und traditionelle schwedische Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Storgatan",
+            "tip": "A fő bevásárlóutca ismert márkák és helyi üzletek keverékével."
+          },
+          {
+            "name": "Torekällberget Múzeum boltja",
+            "tip": "Találjon egyedi kézműves termékeket és hagyományos svéd ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Storgatan",
+            "tip": "Principala stradă comercială cu un amestec de mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Magazinul Muzeului Torekällberget",
+            "tip": "Găsiți obiecte de artizanat unice și suveniruri tradiționale suedeze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Storgatan",
+            "tip": "The main shopping street with a mix of familiar brands and local shops."
+          },
+          {
+            "name": "Torekällberget Museum Shop",
+            "tip": "Find unique handicrafts and traditional Swedish souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da dieser Rundgang eine beträchtliche Strecke umfasst.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, insbesondere außerhalb der Saison.",
+          "Viele Cafés bieten 'Fika'-Angebote an, eine schwedische Kaffeepause-Tradition.",
+          "Halten Sie Ihre Kamera bereit, Södertälje bietet viele malerische Ausblicke auf das Wasser."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel ez a séta jelentős távolságot tesz meg.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, különösen a főszezonon kívül.",
+          "Sok kávézó kínál 'Fika' ajánlatokat, ami egy svéd kávészünet hagyomány.",
+          "Tartsa készenlétben a fényképezőgépét, Södertälje számos festői vízi kilátást kínál."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece acest tur pe jos acoperă o distanță considerabilă.",
+          "Verificați orele de deschidere ale muzeelor în avans, mai ales în afara sezonului.",
+          "Multe cafenele oferă oferte 'Fika', o tradiție suedeză de pauză de cafea.",
+          "Păstrați camera foto la îndemână, Södertälje are multe priveliști pitorești la apă."
+        ],
+        "en": [
+          "Wear comfortable shoes as this walking tour covers a considerable distance.",
+          "Check museum opening hours in advance, especially outside of the main season.",
+          "Many cafes offer 'Fika' deals, a Swedish coffee break tradition.",
+          "Keep your camera ready, Södertälje has many picturesque water views."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saltsjötorget",
+            "hu": "Saltsjötorget",
+            "ro": "Piața Saltsjötorget",
+            "en": "Saltsjötorget Square"
+          },
+          "coords": [
+            17.6261,
+            59.1962
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Fahrrad und stellen Sie sicher, dass alles für die heutige Fahrt bereit ist.",
+            "hu": "Vegye fel a kerékpárját, és győződjön meg róla, hogy minden készen áll a mai túrára.",
+            "ro": "Luați-vă bicicleta și asigurați-vă că totul este pregătit pentru plimbarea de astăzi.",
+            "en": "Pick up your bike and make sure everything is ready for the day's ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Södertälje-Kanal",
+            "hu": "Södertälje-csatorna",
+            "ro": "Canalul Södertälje",
+            "en": "Södertälje Canal"
+          },
+          "coords": [
+            17.622,
+            59.194
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Radfahren Sie entlang des Kanals. Es gibt spezielle Wege, die großartige Ausblicke bieten.",
+            "hu": "Biciklizzen a csatorna mentén. Külön utak vannak, amelyek nagyszerű kilátást nyújtanak.",
+            "ro": "Mergeți cu bicicleta de-a lungul canalului. Există trasee dedicate care oferă priveliști superbe.",
+            "en": "Cycle along the canal. There are dedicated paths that offer great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Telge Hus Ruinen",
+            "hu": "Telge Hus romjai",
+            "ro": "Ruinele Telge Hus",
+            "en": "Telge Hus Ruins"
+          },
+          "coords": [
+            17.631,
+            59.192
+          ],
+          "category": "castles",
+          "arrive_at": "10:29",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die Überreste der mittelalterlichen Burg zu sehen. Ein schöner, ruhiger Ort.",
+            "hu": "Egy rövid megálló, hogy megnézze a középkori vár maradványait. Szép, csendes hely.",
+            "ro": "O oprire scurtă pentru a vedea rămășițele castelului medieval. Un loc frumos și liniștit.",
+            "en": "A quick stop to see the remains of the medieval castle. A nice, quiet spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Torekällberget Museum",
+            "hu": "Torekällberget Múzeum",
+            "ro": "Muzeul Torekällberget",
+            "en": "Torekällberget Museum"
+          },
+          "coords": [
+            17.618,
+            59.191
+          ],
+          "category": "museums",
+          "arrive_at": "11:14",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und nehmen Sie sich Zeit, dieses große Freilichtmuseum zu erkunden. Ideal für ein Mittagessen.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és szánjon időt ennek a nagy szabadtéri múzeumnak a felfedezésére. Ideális ebédhez.",
+            "ro": "Încuiați-vă bicicleta în siguranță și luați-vă timp să explorați acest mare muzeu în aer liber. Ideal pentru prânz.",
+            "en": "Lock your bike securely and take your time exploring this large open-air museum. Great for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Tom Tits Experiment",
+            "hu": "Tom Tits Kísérleti Múzeum",
+            "ro": "Tom Tits Experiment",
+            "en": "Tom Tits Experiment"
+          },
+          "coords": [
+            17.6295,
+            59.2
+          ],
+          "category": "cultural centres",
+          "arrive_at": "13:29",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der Höhepunkt des Tages für alle, die Wissenschaft und Spaß lieben. Es gibt Fahrradständer in der Nähe des Eingangs.",
+            "hu": "A nap fénypontja mindazok számára, akik szeretik a tudományt és a szórakozást. A bejárat közelében kerékpártárolók találhatók.",
+            "ro": "Punctul culminant al zilei pentru oricine iubește știința și distracția. Există suporturi pentru biciclete lângă intrare.",
+            "en": "The highlight of the day for anyone who loves science and fun. There are bike racks near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Ragnhild Kirche",
+            "hu": "Szent Ragnhild-templom",
+            "ro": "Biserica Sf. Ragnhild",
+            "en": "St. Ragnhild's Church"
+          },
+          "coords": [
+            17.6245,
+            59.1971
+          ],
+          "category": "churches",
+          "arrive_at": "16:08",
+          "stay_min": 30,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung in der ältesten Kirche der Stadt, bevor Sie Ihren Tag ausklingen lassen.",
+            "hu": "Egy pillanatnyi elmélkedés a város legrégebbi templomában, mielőtt befejezné a napot.",
+            "ro": "Un moment de reflecție în cea mai veche biserică din oraș înainte de a încheia ziua.",
+            "en": "A moment of reflection in the city's oldest church before winding down your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Maren",
+            "hu": "Maren-tó",
+            "ro": "Lacul Maren",
+            "en": "Lake Maren"
+          },
+          "coords": [
+            17.6285,
+            59.1985
+          ],
+          "category": "natural features",
+          "arrive_at": "16:44",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannenden Aussicht auf den See.",
+            "hu": "Fejezze be a kerékpártúrát egy pihentető kilátással a tóra.",
+            "ro": "Încheiați-vă turul cu bicicleta cu o priveliște relaxantă asupra lacului.",
+            "en": "End your bike tour with a relaxing view over the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Södertälje startet am Saltsjötorget, wo Sie Ihr Fahrrad abholen. Die erste Etappe führt Sie entlang des beeindruckenden Södertälje-Kanals, einer Lebensader der Stadt. Weiter geht es zu den ruhigen Ruinen von Telge Hus, einem Ort voller Geschichte. Der Vormittag gipfelt im Freilichtmuseum Torekällberget. Nach einer ausgiebigen Erkundung und einem Mittagessen inmitten historischer Kulisse, ist es Zeit für den Höhepunkt des Tages. Am Nachmittag radeln Sie zum Tom Tits Experiment, dem berühmten Wissenschaftszentrum. Hier erwartet Sie eine Welt voller Entdeckungen und interaktivem Spaß. Planen Sie hier genügend Zeit ein. Gegen Ende des Tages führt Sie die Route zurück ins Zentrum zur ehrwürdigen St. Ragnhild Kirche. Zum Abschluss Ihrer Tour genießen Sie die friedliche Atmosphäre am Ufer des Maren-Sees, ein perfekter Ausklang für einen aktiven Tag in Södertälje.",
+        "hu": "Södertälje-i kerékpártúrája a Saltsjötorget téren indul. Az első szakasz a lenyűgöző Södertälje-csatorna mentén vezet. Ezután a csendes Telge Hus romjaihoz teker, egy történelemmel teli helyre. A délelőtt a Torekällberget szabadtéri múzeumban csúcsosodik ki. Egy alapos felfedezés és ebéd után a nap fénypontja következik. Délután a Tom Tits Kísérleti Múzeumhoz, a híres tudományos központhoz kerekezik. Itt a felfedezések és az interaktív szórakozás világa várja. A nap vége felé az útvonal visszavezet a központba, a tiszteletreméltó Szent Ragnhild-templomhoz. A túra lezárásaként élvezze a Maren-tó partjának békés hangulatát, amely tökéletes befejezése egy aktív napnak.",
+        "ro": "Turul dvs. cu bicicleta prin Södertälje începe la Saltsjötorget. Prima etapă vă duce de-a lungul impresionantului Canal Södertälje. Apoi, pedalați spre ruinele liniștite ale Telge Hus, un loc plin de istorie. Dimineața culminează la muzeul în aer liber Torekällberget. După o explorare amănunțită și un prânz într-un cadru istoric, urmează punctul culminant al zilei. După-amiaza, mergeți cu bicicleta la Tom Tits Experiment, renumitul centru științific. O lume a descoperirilor și a distracției interactive vă așteaptă aici. Spre sfârșitul zilei, traseul vă duce înapoi în centru, la venerabila Biserică Sf. Ragnhild. Încheiați turul bucurându-vă de atmosfera pașnică de pe malul lacului Maren, o încheiere perfectă pentru o zi activă.",
+        "en": "Your bike tour of Södertälje kicks off at Saltsjötorget. The first leg takes you along the impressive Södertälje Canal. Next, you'll pedal to the tranquil ruins of Telge Hus, a site steeped in history. The morning culminates at the Torekällberget open-air museum. After a thorough exploration and lunch in a historic setting, it's time for the day's highlight. In the afternoon, you'll cycle to the Tom Tits Experiment, the famous science center. A world of discovery and interactive fun awaits you here. Towards the end of the day, the route takes you back to the center to the venerable St. Ragnhild's Church. To cap off your tour, enjoy the peaceful atmosphere on the shores of Lake Maren, a perfect end to an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Torekällbergets Wärdshus",
+            "tip": "Ein traditionelles Gasthaus im Freilichtmuseum, perfekt für ein herzhaftes schwedisches Mittagessen."
+          },
+          {
+            "name": "Caféer längs Storgatan",
+            "tip": "Ideal für eine 'Fika'-Pause mit Kaffee und 'Södertäljekringlor'."
+          },
+          {
+            "name": "Restauranger vid Maren",
+            "tip": "Genießen Sie ein Abendessen mit Blick auf das Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torekällbergets Wärdshus",
+            "tip": "Hagyományos fogadó a szabadtéri múzeumban, tökéletes egy kiadós svéd ebédhez."
+          },
+          {
+            "name": "Kávézók a Storgatan mentén",
+            "tip": "Ideális egy 'Fika' szünetre kávéval és 'Södertäljekringlor'-ral."
+          },
+          {
+            "name": "Éttermek a Maren tónál",
+            "tip": "Élvezze a vacsorát a vízre néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torekällbergets Wärdshus",
+            "tip": "Un han tradițional în muzeul în aer liber, perfect pentru un prânz suedez consistent."
+          },
+          {
+            "name": "Cafenele de-a lungul Storgatan",
+            "tip": "Ideal pentru o pauză 'Fika' cu cafea și 'Södertäljekringlor'."
+          },
+          {
+            "name": "Restaurante lângă Maren",
+            "tip": "Bucurați-vă de o cină cu vedere la apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torekällbergets Wärdshus",
+            "tip": "A traditional inn within the open-air museum, perfect for a hearty Swedish lunch."
+          },
+          {
+            "name": "Cafes along Storgatan",
+            "tip": "Ideal for a 'Fika' break with coffee and 'Södertäljekringlor'."
+          },
+          {
+            "name": "Restaurants by Maren",
+            "tip": "Enjoy a dinner with a view of the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Telge Hus Ruinen",
+            "tip": "Ein oft übersehener Ort, der Ruhe und eine Verbindung zur Geschichte bietet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Radweg am Kanal",
+            "tip": "Abseits der Hauptstraßen bietet der Radweg entlang des Kanals eine friedliche Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt bei Torekällberget",
+            "tip": "Finden Sie einen ruhigen Platz auf dem Hügel des Museums mit Blick auf die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Telge Hus romjai",
+            "tip": "Gyakran figyelmen kívül hagyott hely, amely nyugalmat és kapcsolatot kínál a történelemmel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kerékpárút a csatorna mentén",
+            "tip": "A főutaktól távol, a csatorna menti kerékpárút békés utazást kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátópont a Torekällberget-nél",
+            "tip": "Keressen egy csendes helyet a múzeum dombján, ahonnan kilátás nyílik a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele Telge Hus",
+            "tip": "Un loc adesea trecut cu vederea, care oferă liniște și o conexiune cu istoria.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pista de biciclete de pe canal",
+            "tip": "Departe de drumurile principale, pista de biciclete de-a lungul canalului oferă o plimbare pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere la Torekällberget",
+            "tip": "Găsiți un loc liniștit pe dealul muzeului cu vedere la oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Telge Hus Ruins",
+            "tip": "An often-overlooked spot that offers tranquility and a connection to history.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Canal cycle path",
+            "tip": "Away from the main roads, the cycle path along the canal offers a peaceful ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint at Torekällberget",
+            "tip": "Find a quiet spot on the museum's hill overlooking the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Mieten Sie ein Fahrrad für den Tag oder kaufen Sie Zubehör in einem der örtlichen Geschäfte."
+          },
+          {
+            "name": "Tom Tits Butik",
+            "tip": "Der Laden des Wissenschaftszentrums ist voll von cleveren Spielzeugen und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Béreljen kerékpárt a napra, vagy vásároljon kiegészítőket az egyik helyi üzletben."
+          },
+          {
+            "name": "Tom Tits Butik",
+            "tip": "A tudományos központ boltja tele van okos játékokkal és ajándéktárgyakkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Închiriați o bicicletă pentru o zi sau cumpărați accesorii de la unul dintre magazinele locale."
+          },
+          {
+            "name": "Tom Tits Butik",
+            "tip": "Magazinul centrului științific este plin de jucării inteligente și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Rent a bike for the day or pick up accessories from one of the local shops."
+          },
+          {
+            "name": "Tom Tits Butik",
+            "tip": "The science center's shop is full of clever toys and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck und die Bremsen, bevor Sie losfahren.",
+          "In Schweden ist das Tragen eines Helms für Radfahrer unter 15 Jahren Pflicht, wird aber allen empfohlen.",
+          "Viele Wege werden mit Fußgängern geteilt, also fahren Sie rücksichtsvoll.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, es gibt Orte, an denen Sie sie auffüllen können."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "Svédországban a 15 év alatti kerékpárosok számára kötelező a sisak viselése, de mindenkinek ajánlott.",
+          "Sok utat gyalogosokkal kell megosztani, ezért vezessen körültekintően.",
+          "Hozzon magával újratölthető vizes palackot, vannak helyek, ahol újratöltheti."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope și frânele înainte de a porni.",
+          "În Suedia, purtarea căștii este obligatorie pentru bicicliștii sub 15 ani, dar este recomandată tuturor.",
+          "Multe trasee sunt comune cu pietonii, așa că mergeți cu considerație.",
+          "Luați o sticlă de apă reutilizabilă, există locuri unde o puteți umple."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before you set off.",
+          "In Sweden, wearing a helmet is mandatory for cyclists under 15, but recommended for all.",
+          "Many paths are shared with pedestrians, so ride with consideration.",
+          "Bring a reusable water bottle, there are places to refill it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Központi Parkoló",
+            "ro": "Parcare Centrală",
+            "en": "Central Parking"
+          },
+          "coords": [
+            17.625,
+            59.195
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in einem der zentralen Parkhäuser für den ersten Teil Ihres Besuchs.",
+            "hu": "Parkolja le autóját az egyik központi parkolóházban a látogatás első részére.",
+            "ro": "Parcați-vă mașina într-una dintre parcările centrale pentru prima parte a vizitei.",
+            "en": "Park your car in one of the central parking garages for the first part of your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Saltsjötorget & Storgatan",
+            "hu": "Saltsjötorget & Storgatan",
+            "ro": "Piața Saltsjötorget & Strada Storgatan",
+            "en": "Saltsjötorget & Storgatan"
+          },
+          "coords": [
+            17.6265,
+            59.1958
+          ],
+          "category": "promenades",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Hauptplatz und die Einkaufsstraße zu Fuß. Ein perfekter Start in den Tag.",
+            "hu": "Fedezze fel gyalog a főteret és a bevásárlóutcát. Tökéletes kezdése a napnak.",
+            "ro": "Explorați piața principală și strada comercială pe jos. Un început perfect de zi.",
+            "en": "Explore the main square and the shopping street on foot. A perfect start to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Ragnhild Kirche",
+            "hu": "Szent Ragnhild-templom",
+            "ro": "Biserica Sf. Ragnhild",
+            "en": "St. Ragnhild's Church"
+          },
+          "coords": [
+            17.6245,
+            59.1971
+          ],
+          "category": "churches",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Platz entfernt, ist diese Kirche ein Muss für Geschichtsinteressierte.",
+            "hu": "Csak egy rövid sétára a tértől, ez a templom kötelező a történelem iránt érdeklődőknek.",
+            "ro": "La doar o scurtă plimbare de piață, această biserică este o necesitate pentru pasionații de istorie.",
+            "en": "Just a short walk from the square, this church is a must-see for history buffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Torekällberget Museum",
+            "hu": "Torekällberget Múzeum",
+            "ro": "Muzeul Torekällberget",
+            "en": "Torekällberget Museum"
+          },
+          "coords": [
+            17.618,
+            59.191
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museum und parken Sie dort. Es gibt ausreichend Parkplätze. Planen Sie Zeit für das Mittagessen hier ein.",
+            "hu": "Vezessen a múzeumhoz, és parkoljon ott. Elegendő parkolóhely van. Tervezzen itt időt az ebédre.",
+            "ro": "Conduceți la muzeu și parcați acolo. Există parcare amplă. Planificați-vă timp pentru prânz aici.",
+            "en": "Drive to the museum and park there. There is ample parking. Plan to have lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Tom Tits Experiment",
+            "hu": "Tom Tits Kísérleti Múzeum",
+            "ro": "Tom Tits Experiment",
+            "en": "Tom Tits Experiment"
+          },
+          "coords": [
+            17.6295,
+            59.2
+          ],
+          "category": "cultural centres",
+          "arrive_at": "13:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Torekällberget. Dieses interaktive Museum ist der Höhepunkt des Nachmittags.",
+            "hu": "Rövid autóútra a Torekällberget-től. Ez az interaktív múzeum a délután fénypontja.",
+            "ro": "O scurtă călătorie cu mașina de la Torekällberget. Acest muzeu interactiv este punctul culminant al după-amiezii.",
+            "en": "A short drive from Torekällberget. This interactive museum is the highlight of the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Marcus Wallenberg Halle",
+            "hu": "Marcus Wallenberg Csarnok",
+            "ro": "Hala Marcus Wallenberg",
+            "en": "Marcus Wallenberg Hall"
+          },
+          "coords": [
+            17.645,
+            59.185
+          ],
+          "category": "museums",
+          "arrive_at": "16:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Für Technik- und Fahrzeugbegeisterte ein Muss. Zeigt die Geschichte von Scania.",
+            "hu": "A technika és a járművek rajongóinak kötelező. A Scania történetét mutatja be.",
+            "ro": "O necesitate pentru pasionații de tehnologie și vehicule. Prezintă istoria Scania.",
+            "en": "A must-see for technology and vehicle enthusiasts. It showcases the history of Scania."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussicht am Södertälje-Kanal",
+            "hu": "Kilátás a Södertälje-csatornánál",
+            "ro": "Vedere la Canalul Södertälje",
+            "en": "Södertälje Canal View"
+          },
+          "coords": [
+            17.643,
+            59.183
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Blick auf den Kanal, in der Nähe der Wallenberg Halle.",
+            "hu": "Fejezze be a napot a csatornára nyíló kilátással, a Wallenberg Csarnok közelében.",
+            "ro": "Încheiați ziua cu o priveliște a canalului, aproape de Hala Wallenberg.",
+            "en": "End your day with a view over the canal, close to the Wallenberg Hall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Södertälje beginnt bequem, indem Sie im Zentrum parken. Der erste Cluster, der zu Fuß erkundet wird, umfasst das lebhafte Saltsjötorget, die Einkaufsmeile Storgatan und die historische St. Ragnhild Kirche. Dieser morgendliche Spaziergang gibt Ihnen ein Gefühl für das Herz der Stadt. Anschließend fahren Sie zum zweiten Cluster: dem Freilichtmuseum Torekällberget. Hier können Sie in die Vergangenheit reisen, durch historische Gebäude schlendern und ein traditionelles schwedisches Mittagessen genießen. Der Nachmittag wird actionreich mit einer kurzen Fahrt zum Tom Tits Experiment, dem berühmten Wissenschaftszentrum. Planen Sie hier mehrere Stunden für interaktiven Spaß ein. Der letzte Teil Ihrer Reise führt Sie zum dritten Cluster, der dem industriellen Erbe gewidmet ist. Sie besuchen die Marcus Wallenberg Halle, um die Geschichte von Scania zu entdecken, und beenden den Tag mit einem letzten, beeindruckenden Blick auf den Södertälje-Kanal, bevor Sie die Heimreise antreten.",
+        "hu": "Södertälje-i autós napja kényelmesen kezdődik a központban való parkolással. Az első, gyalogosan felfedezett klaszter a nyüzsgő Saltsjötorget, a Storgatan bevásárlóutca és a történelmi Szent Ragnhild-templom. Ez a reggeli séta ízelítőt ad a város szívéből. Ezután a második klaszterhez hajt: a Torekällberget szabadtéri múzeumhoz. Itt visszautazhat az időben, sétálhat a történelmi épületek között, és élvezhet egy hagyományos svéd ebédet. A délután akciódús lesz egy rövid autóúttal a Tom Tits Kísérleti Múzeumhoz, a híres tudományos központhoz. Tervezzen itt több órát az interaktív szórakozásra. Utazásának utolsó része a harmadik klaszterhez vezet, amely az ipari örökségnek szentelt. Meglátogatja a Marcus Wallenberg Csarnokot, hogy felfedezze a Scania történetét, és a napot a Södertälje-csatornára nyíló utolsó, lenyűgöző kilátással zárja, mielőtt hazaindul.",
+        "ro": "Ziua dvs. cu mașina în Södertälje începe convenabil prin parcarea în centru. Primul grup, explorat pe jos, include Piața plină de viață Saltsjötorget, strada comercială Storgatan și Biserica istorică Sf. Ragnhild. Această plimbare de dimineață vă oferă o senzație a inimii orașului. Apoi, conduceți la al doilea grup: muzeul în aer liber Torekällberget. Aici puteți călători înapoi în timp, vă puteți plimba printre clădiri istorice și vă puteți bucura de un prânz tradițional suedez. După-amiaza devine plină de acțiune cu o scurtă călătorie cu mașina la Tom Tits Experiment, renumitul centru științific. Planificați câteva ore aici pentru distracție interactivă. Ultima parte a călătoriei vă duce la al treilea grup, dedicat patrimoniului industrial. Vizitați Hala Marcus Wallenberg pentru a descoperi istoria Scania și încheiați ziua cu o ultimă priveliște impresionantă a Canalului Södertälje înainte de a vă întoarce acasă.",
+        "en": "Your car day in Södertälje starts conveniently by parking in the center. The first cluster, explored on foot, includes the lively Saltsjötorget, the Storgatan shopping street, and the historic St. Ragnhild's Church. This morning walk gives you a feel for the heart of the city. Next, you'll drive to the second cluster: the Torekällberget open-air museum. Here you can travel back in time, stroll through historic buildings, and enjoy a traditional Swedish lunch. The afternoon gets action-packed with a short drive to the Tom Tits Experiment, the famous science center. Plan for several hours of interactive fun here. The final part of your journey takes you to the third cluster, dedicated to industrial heritage. You'll visit the Marcus Wallenberg Hall to discover the history of Scania, and end the day with a final, impressive view of the Södertälje Canal before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Barolo",
+            "tip": "Ein beliebtes italienisches Restaurant im Stadtzentrum für ein schönes Abendessen."
+          },
+          {
+            "name": "Södertälje Kringlor",
+            "tip": "Holen Sie sich eine Tüte dieser berühmten Brezeln in einer Bäckerei auf der Storgatan."
+          },
+          {
+            "name": "Mittagessen in Torekällberget",
+            "tip": "Das Restaurant im Museum bietet authentische schwedische Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barolo",
+            "tip": "Népszerű olasz étterem a városközpontban egy kellemes vacsorához."
+          },
+          {
+            "name": "Södertälje Kringlor",
+            "tip": "Vegyen egy zacskóval ezekből a híres perecekből a Storgatan egyik pékségében."
+          },
+          {
+            "name": "Ebéd a Torekällberget-ben",
+            "tip": "A múzeum étterme autentikus svéd ételeket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Barolo",
+            "tip": "Un restaurant italian popular în centrul orașului pentru o cină plăcută."
+          },
+          {
+            "name": "Södertälje Kringlor",
+            "tip": "Luați o pungă din acești faimoși covrigi de la o brutărie de pe Storgatan."
+          },
+          {
+            "name": "Prânz la Torekällberget",
+            "tip": "Restaurantul din muzeu servește mâncăruri suedeze autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Barolo",
+            "tip": "A popular Italian restaurant in the city center for a nice dinner."
+          },
+          {
+            "name": "Södertälje Kringlor",
+            "tip": "Pick up a bag of these famous pretzels from a bakery on Storgatan."
+          },
+          {
+            "name": "Lunch at Torekällberget",
+            "tip": "The restaurant at the museum serves authentic Swedish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Maren",
+            "tip": "Machen Sie nach dem Erkunden des Stadtzentrums eine kurze Pause am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obere Ebenen von Torekällberget",
+            "tip": "Abseits der Hauptgebäude finden Sie ruhige Ecken mit schöner Aussicht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kanal-Aussichtspunkt bei Scania",
+            "tip": "Ein industrieller, aber überraschend ruhiger Ort, um Schiffe zu beobachten.",
+            "emoji": "🚢"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maren partja",
+            "tip": "Tartson egy rövid szünetet a vízparton a városközpont felfedezése után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Torekällberget felső szintjei",
+            "tip": "A főépületektől távolabb csendes sarkokat találhat, ahonnan gyönyörű kilátás nyílik.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Csatorna-kilátó a Scaniánál",
+            "tip": "Ipari, de meglepően csendes hely a hajók figyelésére.",
+            "emoji": "🚢"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Maren",
+            "tip": "Luați o scurtă pauză lângă apă după explorarea centrului orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nivelurile superioare ale Torekällberget",
+            "tip": "Departe de clădirile principale, puteți găsi colțuri liniștite cu priveliști frumoase.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punct de vedere al canalului la Scania",
+            "tip": "Un loc industrial, dar surprinzător de liniștit pentru a privi navele.",
+            "emoji": "🚢"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Maren",
+            "tip": "Take a short break by the water after exploring the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Upper levels of Torekällberget",
+            "tip": "Away from the main buildings, you can find quiet corners with nice views.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Canal viewpoint at Scania",
+            "tip": "An industrial yet surprisingly quiet spot to watch ships.",
+            "emoji": "🚢"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Storgatan",
+            "tip": "Ihre erste Station für alle Einkaufsbedürfnisse."
+          },
+          {
+            "name": "Geschenkeladen im Tom Tits",
+            "tip": "Perfekt für wissenschaftsbezogene Geschenke und Spielzeug."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Storgatan",
+            "tip": "Az első megálló minden vásárlási igényhez."
+          },
+          {
+            "name": "Ajándékbolt a Tom Tits-ben",
+            "tip": "Tökéletes tudományos témájú ajándékokhoz és játékokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Storgatan",
+            "tip": "Prima oprire pentru toate nevoile de cumpărături."
+          },
+          {
+            "name": "Magazinul de cadouri de la Tom Tits",
+            "tip": "Perfect pentru cadouri și jucării legate de știință."
+          }
+        ],
+        "en": [
+          {
+            "name": "Storgatan",
+            "tip": "Your first stop for any shopping needs."
+          },
+          {
+            "name": "Gift shop at Tom Tits",
+            "tip": "Perfect for science-related gifts and toys."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkgebühren und -zeiten, um Strafzettel zu vermeiden.",
+          "Die Straßen im Stadtzentrum können eng sein, fahren Sie also vorsichtig.",
+          "Planen Sie Ihre Route zwischen den Clustern, um den Verkehr zur Hauptverkehrszeit zu vermeiden.",
+          "Ein Auto ermöglicht es Ihnen, auch Sehenswürdigkeiten etwas außerhalb der Stadt zu besuchen, wenn Sie Zeit haben."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat és időket a büntetések elkerülése érdekében.",
+          "A belvárosi utcák szűkek lehetnek, ezért vezessen óvatosan.",
+          "Tervezze meg útvonalát a klaszterek között, hogy elkerülje a csúcsforgalmat.",
+          "Az autó lehetővé teszi, hogy a városon kívüli látnivalókat is meglátogassa, ha van ideje."
+        ],
+        "ro": [
+          "Verificați taxele și orele de parcare pentru a evita amenzile.",
+          "Străzile din centrul orașului pot fi înguste, așa că conduceți cu atenție.",
+          "Planificați-vă traseul între grupuri pentru a evita traficul la orele de vârf.",
+          "O mașină vă permite să vizitați și atracții puțin în afara orașului, dacă aveți timp."
+        ],
+        "en": [
+          "Check parking fees and times to avoid fines.",
+          "City center streets can be narrow, so drive carefully.",
+          "Plan your route between clusters to avoid rush hour traffic.",
+          "A car allows you to also visit sights slightly outside the city if you have time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Södertälje Centrum",
+            "hu": "Södertälje Centrum",
+            "ro": "Södertälje Centrum",
+            "en": "Södertälje Centrum"
+          },
+          "coords": [
+            17.6255,
+            59.1945
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptverkehrsknotenpunkt, wo Sie leicht eine Tageskarte für den Bus kaufen können.",
+            "hu": "Kezdje a fő közlekedési csomópontnál, ahol könnyen vásárolhat napijegyet a buszra.",
+            "ro": "Începeți la principalul nod de transport, de unde puteți cumpăra cu ușurință un bilet de o zi pentru autobuz.",
+            "en": "Start at the main transit hub, where you can easily buy a day pass for the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Saltsjötorget & Storgatan",
+            "hu": "Saltsjötorget & Storgatan",
+            "ro": "Piața Saltsjötorget & Strada Storgatan",
+            "en": "Saltsjötorget & Storgatan"
+          },
+          "coords": [
+            17.6265,
+            59.1958
+          ],
+          "category": "promenades",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof, um das Herz der Stadt zu erkunden.",
+            "hu": "Rövid séta a buszpályaudvartól, hogy felfedezze a város szívét.",
+            "ro": "O scurtă plimbare de la stația de autobuz pentru a explora inima orașului.",
+            "en": "A short walk from the bus station to explore the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Ragnhild Kirche & Maren",
+            "hu": "Szent Ragnhild-templom & Maren-tó",
+            "ro": "Biserica Sf. Ragnhild & Lacul Maren",
+            "en": "St. Ragnhild's Church & Lake Maren"
+          },
+          "coords": [
+            17.626,
+            59.1978
+          ],
+          "category": "churches",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche und genießen Sie anschließend die Aussicht auf den nahegelegenen See.",
+            "hu": "Látogassa meg a templomot, majd élvezze a kilátást a közeli tóra.",
+            "ro": "Vizitați biserica și apoi bucurați-vă de priveliștea lacului din apropiere.",
+            "en": "Visit the church and then enjoy the views of the nearby lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Torekällberget Museum",
+            "hu": "Torekällberget Múzeum",
+            "ro": "Muzeul Torekällberget",
+            "en": "Torekällberget Museum"
+          },
+          "coords": [
+            17.618,
+            59.191
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 130,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Museum. Die Haltestelle befindet sich in der Nähe des Eingangs. Planen Sie hier Ihr Mittagessen.",
+            "hu": "Menjen busszal a múzeumhoz. A megálló a bejárat közelében van. Tervezze ide az ebédjét.",
+            "ro": "Luați un autobuz până la muzeu. Stația este aproape de intrare. Planificați-vă prânzul aici.",
+            "en": "Take a bus to the museum. The stop is near the entrance. Plan your lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Tom Tits Experiment",
+            "hu": "Tom Tits Kísérleti Múzeum",
+            "ro": "Tom Tits Experiment",
+            "en": "Tom Tits Experiment"
+          },
+          "coords": [
+            17.6295,
+            59.2
+          ],
+          "category": "cultural centres",
+          "arrive_at": "14:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt bringt Sie zu diesem fantastischen Wissenschaftszentrum. Verbringen Sie den Rest des Nachmittags hier.",
+            "hu": "Egy újabb rövid buszút visz el ehhez a fantasztikus tudományos központhoz. Töltse itt a délután hátralévő részét.",
+            "ro": "O altă scurtă călătorie cu autobuzul vă va duce la acest fantastic centru științific. Petreceți restul după-amiezii aici.",
+            "en": "Another short bus ride will take you to this fantastic science center. Spend the rest of the afternoon here."
+          }
+        },
+        {
+          "name": {
+            "de": "Södertälje-Kanal",
+            "hu": "Södertälje-csatorna",
+            "ro": "Canalul Södertälje",
+            "en": "Södertälje Canal"
+          },
+          "coords": [
+            17.622,
+            59.194
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:28",
+          "stay_min": 20,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem letzten Blick auf den Kanal, bevor Sie zurück zum Busbahnhof gehen.",
+            "hu": "Fejezze be a napot egy utolsó pillantással a csatornára, mielőtt visszamegy a buszpályaudvarra.",
+            "ro": "Încheiați ziua cu o ultimă privire la canal înainte de a vă întoarce la stația de autobuz.",
+            "en": "End the day with a final look at the canal before walking back to the transit center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln in Södertälje beginnt im Verkehrsknotenpunkt Centrum. Nach dem Kauf einer Tageskarte erkunden Sie zu Fuß das erste Cluster: den zentralen Platz, die Einkaufsstraße Storgatan, die St. Ragnhild Kirche und die Uferpromenade des Maren-Sees. Dies gibt Ihnen einen umfassenden Überblick über das historische Herz der Stadt. Anschließend bringt Sie ein kurzer Busausflug zum zweiten Cluster, dem Freilichtmuseum Torekällberget. Verbringen Sie hier die Mittagszeit, genießen Sie die Geschichte und ein herzhaftes Essen. Am Nachmittag bringt Sie eine weitere Busfahrt zum wissenschaftlichen Höhepunkt der Stadt: dem Tom Tits Experiment. Tauchen Sie ein in eine Welt interaktiver Wunder. Zum Abschluss des Tages bringt Sie ein Bus zurück ins Zentrum, wo Sie einen letzten Spaziergang entlang des beeindruckenden Södertälje-Kanals machen, bevor Sie Ihre Heimreise antreten.",
+        "hu": "Tömegközlekedéssel töltött napja Södertälje-ben a Centrum közlekedési csomópontban kezdődik. Napijegy vásárlása után gyalogosan fedezi fel az első klasztert: a központi teret, a Storgatan bevásárlóutcát, a Szent Ragnhild-templomot és a Maren-tó partját. Ez átfogó képet ad a város történelmi szívéről. Ezután egy rövid buszozás elviszi a második klaszterhez, a Torekällberget szabadtéri múzeumhoz. Töltse itt az ebédszünetet, élvezze a történelmet és egy kiadós ételt. Délután egy másik buszjárattal eljut a város tudományos fénypontjához: a Tom Tits Kísérleti Múzeumhoz. Merüljön el az interaktív csodák világában. A nap zárásaként egy busz visszaviszi a központba, ahol egy utolsó sétát tehet a lenyűgöző Södertälje-csatorna mentén, mielőtt hazaindul.",
+        "ro": "Ziua dvs. cu transportul public în Södertälje începe la nodul de transport Centrum. După ce cumpărați un bilet de o zi, explorați pe jos primul grup: piața centrală, strada comercială Storgatan, Biserica Sf. Ragnhild și malul lacului Maren. Acest lucru vă oferă o imagine cuprinzătoare a inimii istorice a orașului. Apoi, o scurtă călătorie cu autobuzul vă duce la al doilea grup, muzeul în aer liber Torekällberget. Petreceți aici pauza de prânz, bucurându-vă de istorie și o masă consistentă. După-amiaza, un alt autobuz vă duce la punctul culminant științific al orașului: Tom Tits Experiment. Cufundați-vă într-o lume de minuni interactive. La sfârșitul zilei, un autobuz vă duce înapoi în centru pentru o ultimă plimbare de-a lungul impresionantului Canal Södertälje înainte de a pleca acasă.",
+        "en": "Your day using public transit in Södertälje starts at the Centrum transport hub. After getting a day pass, you'll explore the first cluster on foot: the central square, Storgatan shopping street, St. Ragnhild's Church, and the shores of Lake Maren. This gives you a comprehensive overview of the city's historic heart. Then, a short bus trip takes you to the second cluster, the Torekällberget open-air museum. Spend your midday here, enjoying the history and a hearty meal. In the afternoon, another bus ride takes you to the city's scientific highlight: the Tom Tits Experiment. Immerse yourself in a world of interactive wonders. To end the day, a bus takes you back to the center for a final stroll along the impressive Södertälje Canal before you head home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gastronomie in der Markthalle (Saluhall)",
+            "tip": "Probieren Sie verschiedene lokale und internationale Gerichte in der zentralen Markthalle."
+          },
+          {
+            "name": "Bäckerei Konditori Bristol",
+            "tip": "Ein klassischer Ort für Kaffee und die berühmten Södertälje-Brezeln."
+          },
+          {
+            "name": "Vana's Restaurant & Pizzeria",
+            "tip": "Eine gute Option für ein schnelles und leckeres Abendessen in der Nähe des Zentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ételek a Vásárcsarnokban (Saluhall)",
+            "tip": "Kóstoljon meg különféle helyi és nemzetközi ételeket a központi vásárcsarnokban."
+          },
+          {
+            "name": "Konditori Bristol pékség",
+            "tip": "Klasszikus hely egy kávéra és a híres Södertälje perecre."
+          },
+          {
+            "name": "Vana's Étterem & Pizzéria",
+            "tip": "Jó lehetőség egy gyors és finom vacsorára a központ közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mâncare la Hala Pieței (Saluhall)",
+            "tip": "Încercați diverse feluri de mâncare locale și internaționale în hala pieței centrale."
+          },
+          {
+            "name": "Brutăria Konditori Bristol",
+            "tip": "Un loc clasic pentru cafea și faimoșii covrigi Södertälje."
+          },
+          {
+            "name": "Restaurant & Pizzerie Vana's",
+            "tip": "O opțiune bună pentru o cină rapidă și gustoasă aproape de centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Food at the Market Hall (Saluhall)",
+            "tip": "Try various local and international dishes in the central market hall."
+          },
+          {
+            "name": "Konditori Bristol Bakery",
+            "tip": "A classic spot for coffee and the famous Södertälje pretzels."
+          },
+          {
+            "name": "Vana's Restaurant & Pizzeria",
+            "tip": "A good option for a quick and tasty dinner near the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark (Stadsparken)",
+            "tip": "Ein ruhiger Park in der Nähe des Zentrums, ideal für eine kurze Pause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Wanderwege um Torekällberget",
+            "tip": "Erkunden Sie die Waldwege rund um das Museum für einen Moment der Ruhe.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Bibliothek Södertälje",
+            "tip": "Ein warmer und ruhiger Ort, um sich auszuruhen und vielleicht ein Buch zu lesen.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városliget (Stadsparken)",
+            "tip": "Csendes park a központ közelében, ideális egy rövid szünetre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Túraútvonalak a Torekällberget körül",
+            "tip": "Fedezze fel az erdős ösvényeket a múzeum körül egy pillanatnyi békéért.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Södertälje Könyvtár",
+            "tip": "Meleg és csendes hely a pihenésre és talán egy könyv olvasására.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Orașului (Stadsparken)",
+            "tip": "Un parc liniștit lângă centru, ideal pentru o scurtă pauză.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Trasee de drumeții în jurul Torekällberget",
+            "tip": "Explorați potecile împădurite din jurul muzeului pentru un moment de pace.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Biblioteca Södertälje",
+            "tip": "Un loc cald și liniștit pentru a vă odihni și poate a citi o carte.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park (Stadsparken)",
+            "tip": "A quiet park near the center, ideal for a short break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Hiking trails around Torekällberget",
+            "tip": "Explore the wooded paths around the museum for a moment of peace.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Södertälje Library",
+            "tip": "A warm and quiet place to rest and perhaps read a book.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum Telgehuset",
+            "tip": "Ein modernes Einkaufszentrum mit einer Vielzahl von Geschäften im Stadtzentrum."
+          },
+          {
+            "name": "Lokale Kunstgalerien",
+            "tip": "Suchen Sie nach einzigartigen Kunstwerken und Kunsthandwerk von lokalen Künstlern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Telgehuset bevásárlóközpont",
+            "tip": "Modern bevásárlóközpont számos üzlettel a városközpontban."
+          },
+          {
+            "name": "Helyi művészeti galériák",
+            "tip": "Keressen egyedi műalkotásokat és kézműves termékeket helyi művészektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Telgehuset",
+            "tip": "Un centru comercial modern cu o varietate de magazine în centrul orașului."
+          },
+          {
+            "name": "Galerii de artă locale",
+            "tip": "Căutați opere de artă și artizanat unice de la artiști locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Telgehuset Shopping Mall",
+            "tip": "A modern shopping mall with a variety of stores in the city center."
+          },
+          {
+            "name": "Local Art Galleries",
+            "tip": "Look for unique artworks and crafts from local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eine SL Access Card oder die SL-App ist der einfachste Weg, für den Transport zu bezahlen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere wenn Sie planen, spät zurückzukehren.",
+          "Die Busse sind pünktlich, seien Sie also rechtzeitig an der Haltestelle.",
+          "Fragen Sie den Busfahrer, wenn Sie sich bei einer Haltestelle unsicher sind; sie sind normalerweise hilfsbereit."
+        ],
+        "hu": [
+          "Az SL Access kártya vagy az SL alkalmazás a legegyszerűbb módja a közlekedés fizetésének.",
+          "Előre ellenőrizze a buszmenetrendet, különösen, ha későn tervez visszatérni.",
+          "A buszok pontosak, ezért legyen időben a megállóban.",
+          "Kérdezze meg a buszsofőrt, ha bizonytalan egy megállóval kapcsolatban; általában segítőkészek."
+        ],
+        "ro": [
+          "Un card SL Access sau aplicația SL este cel mai simplu mod de a plăti pentru transport.",
+          "Verificați orarele autobuzelor în avans, mai ales dacă intenționați să vă întoarceți târziu.",
+          "Autobuzele sunt punctuale, așa că fiți la stație la timp.",
+          "Întrebați șoferul de autobuz dacă nu sunteți sigur de o stație; de obicei sunt de ajutor."
+        ],
+        "en": [
+          "An SL Access card or the SL app is the easiest way to pay for transport.",
+          "Check bus schedules in advance, especially if you plan to return late.",
+          "Buses are punctual, so be at the stop on time.",
+          "Ask the bus driver if you're unsure about a stop; they are usually helpful."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1492 @@
+{
+  "city_id": "poland-rybnik-cities-v2",
+  "anchor": {
+    "name": "Marktplatz Rybnik",
+    "coords": [
+      18.5461,
+      50.1027
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz und Rathaus",
+            "hu": "Piactér és Városháza",
+            "ro": "Piața Centrală și Primăria",
+            "en": "Market Square and Town Hall"
+          },
+          "coords": [
+            18.5461,
+            50.1027
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee und beobachten Sie das morgendliche Treiben.",
+            "hu": "Kezdje a napot egy kávéval itt, és figyelje a reggeli nyüzsgést.",
+            "ro": "Începeți ziua aici cu o cafea, privind agitația de dimineață.",
+            "en": "Start your day here with a coffee, watching the morning bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Nepomuk-Statue",
+            "hu": "Nepomuki Szent János szobra",
+            "ro": "Statuia Sf. Ioan Nepomuk",
+            "en": "Statue of St. John of Nepomuk"
+          },
+          "coords": [
+            18.5465,
+            50.103
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein schönes Fotomotiv direkt am Rande des Platzes.",
+            "hu": "Egy remek fotótéma közvetlenül a tér szélén.",
+            "ro": "Un subiect fotografic frumos chiar la marginea pieței.",
+            "en": "A beautiful photo opportunity right on the edge of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Piastenschloss",
+            "hu": "Piast-kastély",
+            "ro": "Castelul Piast",
+            "en": "Piast Castle"
+          },
+          "coords": [
+            18.542,
+            50.1015
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:18",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Heute Sitz des Bezirksgerichts, beeindruckende Architektur von außen.",
+            "hu": "Ma a kerületi bíróság székhelye, kívülről lenyűgöző építészettel.",
+            "ro": "Astăzi sediul tribunalului districtual, o arhitectură impresionantă din exterior.",
+            "en": "Today it's the seat of the district court, with impressive architecture from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Antonius",
+            "hu": "Szent Antal-bazilika",
+            "ro": "Bazilica Sf. Anton",
+            "en": "Basilica of St. Anthony"
+          },
+          "coords": [
+            18.549,
+            50.1045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:42",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besteigen Sie die Türme für eine fantastische Aussicht über die Stadt.",
+            "hu": "Másszon fel a tornyokba a városra nyíló fantasztikus kilátásért.",
+            "ro": "Urcați în turnuri pentru o priveliște fantastică asupra orașului.",
+            "en": "Climb the towers for a fantastic view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Orașul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            18.5475,
+            50.1035
+          ],
+          "category": "gastro",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie schlesische Klöße in einem der traditionellen Restaurants.",
+            "hu": "Kóstolja meg a sziléziai gombócokat az egyik hagyományos étteremben.",
+            "ro": "Încercați găluștele sileziene la unul dintre restaurantele tradiționale.",
+            "en": "Try Silesian dumplings in one of the traditional restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Juliusz-Krankenhauskomplex",
+            "hu": "Juliusz Kórházkomplexum",
+            "ro": "Complexul Spitalicesc Juliusz",
+            "en": "Juliusz Hospital Complex"
+          },
+          "coords": [
+            18.54,
+            50.098
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:22",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein architektonisch interessantes Ensemble aus rotem Backstein.",
+            "hu": "Egy építészetileg érdekes vörös téglás épületegyüttes.",
+            "ro": "Un complex arhitectural interesant din cărămidă roșie.",
+            "en": "An architecturally interesting ensemble of red brick."
+          }
+        },
+        {
+          "name": {
+            "de": "Park an der Nacyna",
+            "hu": "Park a Nacyna folyónál",
+            "ro": "Parcul de pe râul Nacyna",
+            "en": "Park on the Nacyna River"
+          },
+          "coords": [
+            18.555,
+            50.1
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:42",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag bei einem entspannten Spaziergang ausklingen zu lassen.",
+            "hu": "A tökéletes hely a nap befejezéséhez egy pihentető sétával.",
+            "ro": "Locul perfect pentru a încheia ziua cu o plimbare relaxantă.",
+            "en": "The perfect place to end the day with a relaxing stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem pulsierenden Marktplatz von Rybnik, umgeben von historischer Architektur. Der Vormittag ist der Erkundung des Stadtzentrums gewidmet, vom Piastenschloss bis zur beeindruckenden Basilika. Nach einem herzhaften schlesischen Mittagessen führt Sie ein Spaziergang zu den architektonischen Juwelen außerhalb des unmittelbaren Zentrums. Der Nachmittag klingt entspannt im grünen Park am Fluss Nacyna aus, wo Sie die Eindrücke des Tages Revue passieren lassen können.",
+        "hu": "Kezdje a napot Rybnik nyüzsgő piacterén, történelmi épületekkel körülvéve. A délelőtt a városközpont felfedezésével telik, a Piast-kastélytól a lenyűgöző bazilikáig. Egy kiadós sziléziai ebéd után egy séta elvezet a központtól kissé távolabb eső építészeti gyöngyszemekhez. A délután pihenéssel zárul a zöld Nacyna folyóparti parkban, ahol átgondolhatja a nap élményeit.",
+        "ro": "Începeți ziua în vibranta Piață a Pieței din Rybnik, înconjurată de arhitectură istorică. Dimineața este dedicată explorării centrului orașului, de la Castelul Piast la impresionanta bazilică. După un prânz silezian consistent, o plimbare vă va duce la bijuteriile arhitecturale din afara centrului imediat. După-amiaza se încheie relaxant în parcul verde de pe râul Nacyna, unde puteți reflecta la impresiile zilei.",
+        "en": "Start your day in Rybnik's vibrant Market Square, surrounded by historic architecture. The morning is dedicated to exploring the city center, from the Piast Castle to the impressive basilica. After a hearty Silesian lunch, a walk will take you to the architectural gems just outside the immediate center. The afternoon concludes relaxing in the green park on the Nacyna River, where you can reflect on the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rolada śląska",
+            "tip": "Traditionelles Rindfleischgericht, oft mit Klößen serviert."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "Eine saure Roggenmehlsuppe, typisch für die Region."
+          },
+          {
+            "name": "Restauracja InoWino",
+            "tip": "Gilt als eines der besten Restaurants der Stadt für moderne schlesische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rolada śląska",
+            "tip": "Hagyományos marhahúsétel, gyakran gombóccal tálalva."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "Savanyú rozslisztleves, a régióra jellemző."
+          },
+          {
+            "name": "Restauracja InoWino",
+            "tip": "A város egyik legjobb éttermének tartják a modern sziléziai konyha terén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rolada śląska",
+            "tip": "Ruladă tradițională de vită, adesea servită cu găluște."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "O supă acră de secară, tipică regiunii."
+          },
+          {
+            "name": "Restauracja InoWino",
+            "tip": "Considerat unul dintre cele mai bune restaurante din oraș pentru bucătăria sileziană modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rolada śląska",
+            "tip": "Traditional beef roulade, often served with dumplings."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "A sour rye flour soup, typical for the region."
+          },
+          {
+            "name": "Restauracja InoWino",
+            "tip": "Considered one of the best restaurants in the city for modern Silesian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park an der Nacyna",
+            "tip": "Spazieren Sie am Flussufer entlang und finden Sie eine ruhige Bank.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof der Basilika",
+            "tip": "Ein friedlicher Ort abseits des Trubels am Marktplatz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Früher Morgen am Marktplatz",
+            "tip": "Erleben Sie den Platz, bevor die Stadt erwacht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park a Nacyna folyónál",
+            "tip": "Sétáljon a folyóparton, és keressen egy csendes padot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bazilika kertje",
+            "tip": "Békés hely a piactéri nyüzsgéstől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kora reggel a Piactéren",
+            "tip": "Tapasztalja meg a teret, mielőtt a város felébred.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de pe râul Nacyna",
+            "tip": "Plimbați-vă de-a lungul malului râului și găsiți o bancă liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Bazilicii",
+            "tip": "Un loc pașnic, departe de agitația din Piața Centrală.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dimineața devreme în Piața Centrală",
+            "tip": "Experimentați piața înainte ca orașul să se trezească.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park on the Nacyna River",
+            "tip": "Stroll along the riverbank and find a quiet bench.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Basilica's churchyard",
+            "tip": "A peaceful spot away from the hustle and bustle of the Market Square.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Early morning at the Market Square",
+            "tip": "Experience the square before the city awakens.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markthalle Rybnik",
+            "tip": "Kaufen Sie frische lokale Produkte und erleben Sie das lokale Leben."
+          },
+          {
+            "name": "Souvenirläden in der Altstadt",
+            "tip": "Suchen Sie nach handgefertigten schlesischen Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rybnik Vásárcsarnok",
+            "tip": "Vásároljon friss helyi termékeket és tapasztalja meg a helyi életet."
+          },
+          {
+            "name": "Ajándékboltok az Óvárosban",
+            "tip": "Keressen kézzel készített sziléziai ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala Pieței Rybnik",
+            "tip": "Cumpărați produse locale proaspete și experimentați viața locală."
+          },
+          {
+            "name": "Magazine de suveniruri în Orașul Vechi",
+            "tip": "Căutați suveniruri sileziene realizate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rybnik Market Hall",
+            "tip": "Buy fresh local produce and experience local life."
+          },
+          {
+            "name": "Souvenir shops in the Old Town",
+            "tip": "Look for handmade Silesian souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das gesamte Zentrum gut zu Fuß erreichbar ist.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind nahe beieinander.",
+          "Planen Sie genügend Zeit für die Basilika ein, besonders wenn Sie die Türme besteigen möchten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az egész központ könnyen bejárható gyalog.",
+          "A legtöbb látnivaló a központban közel van egymáshoz.",
+          "Szánjon elegendő időt a bazilikára, különösen, ha fel akar mászni a tornyokba."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece întregul centru este ușor de explorat pe jos.",
+          "Majoritatea atracțiilor din centru sunt apropiate una de cealaltă.",
+          "Alocați suficient timp pentru bazilică, mai ales dacă doriți să urcați în turnuri."
+        ],
+        "en": [
+          "Wear comfortable shoes as the entire center is easily walkable.",
+          "Most sights in the center are close to each other.",
+          "Allow enough time for the basilica, especially if you want to climb the towers."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz Rybnik",
+            "hu": "Piactér Rybnik",
+            "ro": "Piața Centrală Rybnik",
+            "en": "Rybnik Market Square"
+          },
+          "coords": [
+            18.5461,
+            50.1027
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe und starten Sie Ihre Tour.",
+            "hu": "Béreljen kerékpárt a közelben, és kezdje meg a túrát.",
+            "ro": "Închiriați o bicicletă din apropiere și începeți turul.",
+            "en": "Rent a bike nearby and start your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Piastenschloss",
+            "hu": "Piast-kastély",
+            "ro": "Castelul Piast",
+            "en": "Piast Castle"
+          },
+          "coords": [
+            18.542,
+            50.1015
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:33",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie die Fassade.",
+            "hu": "Parkolja le a kerékpárt és csodálja meg a homlokzatot.",
+            "ro": "Parcați bicicleta și admirați fațada.",
+            "en": "Park your bike and admire the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Antonius",
+            "hu": "Szent Antal-bazilika",
+            "ro": "Bazilica Sf. Anton",
+            "en": "Basilica of St. Anthony"
+          },
+          "coords": [
+            18.549,
+            50.1045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:23",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Muss für jeden Besucher, planen Sie Zeit für den Innenraum ein.",
+            "hu": "Minden látogató számára kötelező, szánjon időt a belső térre.",
+            "ro": "O vizită obligatorie pentru fiecare vizitator, acordați timp pentru interior.",
+            "en": "A must-see for every visitor, allow time for the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Juliusz-Krankenhauskomplex",
+            "hu": "Juliusz Kórházkomplexum",
+            "ro": "Complexul Spitalicesc Juliusz",
+            "en": "Juliusz Hospital Complex"
+          },
+          "coords": [
+            18.54,
+            50.098
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:32",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause, um die beeindruckende Backsteinarchitektur zu fotografieren.",
+            "hu": "Tartson egy rövid szünetet, hogy lefényképezze a lenyűgöző téglaépítészetet.",
+            "ro": "Faceți o scurtă pauză pentru a fotografia arhitectura impresionantă din cărămidă.",
+            "en": "Take a short break to photograph the impressive brick architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergwerk Ignacy",
+            "hu": "Ignacy bánya",
+            "ro": "Mina Ignacy",
+            "en": "Ignacy Mine"
+          },
+          "coords": [
+            18.508,
+            50.085
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:24",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in die industrielle Vergangenheit Schlesiens. Planen Sie hier auch Ihr Mittagessen.",
+            "hu": "Lenyűgöző betekintés Szilézia ipari múltjába. Tervezze ide az ebédjét is.",
+            "ro": "O perspectivă fascinantă asupra trecutului industrial al Sileziei. Planificați-vă și prânzul aici.",
+            "en": "A fascinating insight into Silesia's industrial past. Plan your lunch here as well."
+          }
+        },
+        {
+          "name": {
+            "de": "Park an der Nacyna",
+            "hu": "Park a Nacyna folyónál",
+            "ro": "Parcul de pe râul Nacyna",
+            "en": "Park on the Nacyna River"
+          },
+          "coords": [
+            18.555,
+            50.1
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:18",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 54,
+          "hop_from_prev_km": 8.8,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang des Flusses und genießen Sie die Natur nach der Stadt- und Industrietour.",
+            "hu": "Kerékpározzon a folyó mentén, és élvezze a természetet a városi és ipari túra után.",
+            "ro": "Pedalați de-a lungul râului și bucurați-vă de natură după turul urban și industrial.",
+            "en": "Cycle along the river and enjoy nature after the city and industrial tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Marktplatz",
+            "hu": "Visszatérés a Piactérre",
+            "ro": "Întoarcere la Piața Centrală",
+            "en": "Return to the Market Square"
+          },
+          "coords": [
+            18.5461,
+            50.1027
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:33",
+          "stay_min": 27,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag bei einem wohlverdienten Getränk in einem der Cafés.",
+            "hu": "Zárja a napot egy jól megérdemelt itallal az egyik kávézóban.",
+            "ro": "Încheiați ziua cu o băutură bine meritată la una dintre cafenele.",
+            "en": "End the day with a well-deserved drink at one of the cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Rybnik beginnt im Herzen der Stadt, am Marktplatz. Von dort aus erkunden Sie die historischen Sehenswürdigkeiten des Zentrums. Am späten Vormittag führt Sie die Route zum beeindruckenden Industriekomplex des Bergwerks Ignacy, ein Zeugnis der reichen Bergbaugeschichte der Region. Nach dieser industriellen Erkundung und einem Mittagessen dort, radeln Sie zurück in die Stadt, um den Nachmittag entspannt im Park am Fluss Nacyna zu verbringen.",
+        "hu": "A rybniki kerékpártúra a város szívében, a piactéren kezdődik. Innen fedezi fel a központ történelmi látnivalóit. A késő délelőtt az útvonal az Ignacy bánya lenyűgöző ipari komplexumához vezet, amely a régió gazdag bányászati múltjának tanúja. Az ipari felfedezés és egy ottani ebéd után visszakerékpározik a városba, hogy a délutánt a Nacyna folyó melletti parkban töltse.",
+        "ro": "Turul cu bicicleta prin Rybnik începe în inima orașului, în Piața Centrală. De acolo, veți explora obiectivele istorice din centru. Spre sfârșitul dimineții, traseul vă duce la impresionantul complex industrial al minei Ignacy, o mărturie a bogatei istorii miniere a regiunii. După această explorare industrială și un prânz acolo, veți pedala înapoi în oraș pentru a petrece după-amiaza relaxându-vă în parcul de pe râul Nacyna.",
+        "en": "Your bike tour through Rybnik starts in the heart of the city, at the Market Square. From there, you'll explore the historical sights of the center. In the late morning, the route takes you to the impressive industrial complex of the Ignacy Mine, a testament to the region's rich mining history. After this industrial exploration and lunch there, you'll cycle back into the city to spend the afternoon relaxing in the park on the Nacyna River."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Krupniok",
+            "tip": "Eine schlesische Blutwurst, oft gegrillt oder gebraten."
+          },
+          {
+            "name": "Pierogi śląskie",
+            "tip": "Gefüllte Teigtaschen, eine polnische Spezialität mit regionaler Note."
+          },
+          {
+            "name": "Browar Rybnik",
+            "tip": "Lokale Brauerei mit Restaurant, perfekt für ein Bier nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krupniok",
+            "tip": "Sziléziai véres hurka, gyakran grillezve vagy sütve."
+          },
+          {
+            "name": "Pierogi śląskie",
+            "tip": "Töltött táskák, egy lengyel specialitás regionális csavarral."
+          },
+          {
+            "name": "Browar Rybnik",
+            "tip": "Helyi sörfőzde étteremmel, tökéletes egy sörre a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Krupniok",
+            "tip": "Un cârnat de sânge silezian, adesea la grătar sau prăjit."
+          },
+          {
+            "name": "Pierogi śląskie",
+            "tip": "Găluște umplute, o specialitate poloneză cu o notă regională."
+          },
+          {
+            "name": "Browar Rybnik",
+            "tip": "Berărie locală cu restaurant, perfectă pentru o bere după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Krupniok",
+            "tip": "A Silesian black pudding, often grilled or fried."
+          },
+          {
+            "name": "Pierogi śląskie",
+            "tip": "Filled dumplings, a Polish specialty with a regional twist."
+          },
+          {
+            "name": "Browar Rybnik",
+            "tip": "Local brewery with a restaurant, perfect for a post-bike tour beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg an der Nacyna",
+            "tip": "Ein ruhiger Radweg abseits der Hauptstraßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Förderturm Ignacy",
+            "tip": "Ein Panoramablick über das Industriegelände und die Umgebung.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Seitenstraßen der Altstadt",
+            "tip": "Entdecken Sie charmante, ruhige Gassen abseits des Marktplatzes.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sétány a Nacyna mentén",
+            "tip": "Csendes kerékpárút a főutaktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az Ignacy aknatoronyból",
+            "tip": "Panorámás kilátás az ipari területre és a környékre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Óváros mellékutcái",
+            "tip": "Fedezze fel a bájos, csendes sikátorokat a Piactértől távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de pe malul râului Nacyna",
+            "tip": "O pistă de biciclete liniștită, departe de drumurile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de pe turnul minei Ignacy",
+            "tip": "O vedere panoramică asupra zonei industriale și a împrejurimilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțele laterale din Orașul Vechi",
+            "tip": "Descoperiți alei fermecătoare și liniștite, departe de Piața Centrală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Path along the Nacyna River",
+            "tip": "A quiet cycle path away from the main roads.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Ignacy Mine headframe",
+            "tip": "A panoramic view over the industrial area and its surroundings.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Old Town side streets",
+            "tip": "Discover charming, quiet alleys away from the Market Square.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fokus Mall",
+            "tip": "Für eine größere Auswahl an Geschäften, etwas außerhalb des Zentrums gelegen."
+          },
+          {
+            "name": "Lokale Kunstgalerien",
+            "tip": "Finden Sie einzigartige Kunstwerke von schlesischen Künstlern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fokus Mall",
+            "tip": "Nagyobb üzletválasztékért, kissé a központon kívül található."
+          },
+          {
+            "name": "Helyi művészeti galériák",
+            "tip": "Találjon egyedi műalkotásokat sziléziai művészektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fokus Mall",
+            "tip": "Pentru o selecție mai largă de magazine, situat puțin în afara centrului."
+          },
+          {
+            "name": "Galerii de artă locale",
+            "tip": "Găsiți opere de artă unice de la artiști silezieni."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fokus Mall",
+            "tip": "For a wider selection of shops, located slightly outside the center."
+          },
+          {
+            "name": "Local art galleries",
+            "tip": "Find unique artworks by Silesian artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere vor der längeren Strecke zum Bergwerk.",
+          "Einige Straßen in der Altstadt haben Kopfsteinpflaster, fahren Sie vorsichtig.",
+          "Nehmen Sie ausreichend Wasser für die Tour mit."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a bányához vezető hosszabb út előtt.",
+          "Néhány óvárosi utca macskaköves, vezessen óvatosan.",
+          "Vigyen magával elegendő vizet a túrára."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, mai ales înainte de traseul mai lung spre mină.",
+          "Unele străzi din Orașul Vechi sunt pavate cu piatră cubică, conduceți cu prudență.",
+          "Luați suficientă apă pentru tur."
+        ],
+        "en": [
+          "Check your bike before setting off, especially before the longer stretch to the mine.",
+          "Some Old Town streets are cobblestoned, ride carefully.",
+          "Take enough water for the tour."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Start am Marktplatz",
+            "hu": "Parkolás és indulás a Piactérnél",
+            "ro": "Parcare și start la Piața Centrală",
+            "en": "Parking and Start at the Market Square"
+          },
+          "coords": [
+            18.545,
+            50.1015
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Suchen Sie einen Parkplatz in der Nähe des Zentrums. Der Tag beginnt zu Fuß.",
+            "hu": "Keressen egy parkolót a központ közelében. A nap gyalog kezdődik.",
+            "ro": "Găsiți o parcare lângă centru. Ziua începe pe jos.",
+            "en": "Find a parking spot near the center. The day starts on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz und Rathaus",
+            "hu": "Piactér és Városháza",
+            "ro": "Piața Centrală și Primăria",
+            "en": "Market Square and Town Hall"
+          },
+          "coords": [
+            18.5461,
+            50.1027
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:12",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie den zentralen Platz und das historische Rathaus.",
+            "hu": "Fedezze fel a központi teret és a történelmi városházát.",
+            "ro": "Explorați piața centrală și primăria istorică.",
+            "en": "Explore the central square and the historic town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Antonius",
+            "hu": "Szent Antal-bazilika",
+            "ro": "Bazilica Sf. Anton",
+            "en": "Basilica of St. Anthony"
+          },
+          "coords": [
+            18.549,
+            50.1045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Marktplatz zur höchsten Kirche der Region.",
+            "hu": "Rövid séta a piactérről a régió legmagasabb templomához.",
+            "ro": "O scurtă plimbare din piață până la cea mai înaltă biserică din regiune.",
+            "en": "A short walk from the market square to the tallest church in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Piastenschloss",
+            "hu": "Piast-kastély",
+            "ro": "Castelul Piast",
+            "en": "Piast Castle"
+          },
+          "coords": [
+            18.542,
+            50.1015
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:58",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie zurück über den Platz und entdecken Sie das alte Schloss.",
+            "hu": "Sétáljon vissza a téren, és fedezze fel a régi kastélyt.",
+            "ro": "Traversați înapoi piața și descoperiți vechiul castel.",
+            "en": "Walk back across the square and discover the old castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Bergwerk Ignacy",
+            "hu": "Utazás az Ignacy bányához",
+            "ro": "Călătorie la Mina Ignacy",
+            "en": "Drive to Ignacy Mine"
+          },
+          "coords": [
+            18.508,
+            50.085
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:08",
+          "stay_min": 130,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Nun geht es mit dem Auto zum Industrie-Highlight der Region. Parkplätze sind vorhanden.",
+            "hu": "Most autóval induljon a régió ipari csúcspontjához. Parkolóhelyek rendelkezésre állnak.",
+            "ro": "Acum mergeți cu mașina la atracția industrială a regiunii. Sunt disponibile locuri de parcare.",
+            "en": "Now it's time to drive to the region's industrial highlight. Parking is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Park an der Nacyna",
+            "hu": "Utazás a Nacyna parkhoz",
+            "ro": "Călătorie la Parcul Nacyna",
+            "en": "Drive to the Park on the Nacyna"
+          },
+          "coords": [
+            18.555,
+            50.1
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:39",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 9.2,
+          "tip_5lang": {
+            "de": "Nach der Industriekultur ist es Zeit für etwas Natur zur Entspannung.",
+            "hu": "Az ipari kultúra után itt az ideje egy kis természetnek a pihenéshez.",
+            "ro": "După cultura industrială, este timpul pentru puțină natură și relaxare.",
+            "en": "After the industrial culture, it's time for some nature and relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Park und Ende",
+            "hu": "Séta a parkban és a nap vége",
+            "ro": "Plimbare în parc și încheierea zilei",
+            "en": "Stroll in the park and end of day"
+          },
+          "coords": [
+            18.556,
+            50.1005
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:11",
+          "stay_min": 34,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie einen letzten Spaziergang, bevor Sie Ihre Heim- oder Weiterreise antreten.",
+            "hu": "Élvezze az utolsó sétát, mielőtt hazaindulna vagy továbbutazna.",
+            "ro": "Bucurați-vă de o ultimă plimbare înainte de a vă întoarce acasă sau de a vă continua călătoria.",
+            "en": "Enjoy one last stroll before heading home or continuing your journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Rybnik beginnt mit dem Parken im Stadtzentrum, gefolgt von einem Vormittagsspaziergang zu den wichtigsten Sehenswürdigkeiten wie dem Marktplatz und der Basilika. Gegen Mittag steigen Sie ins Auto und fahren zum Bergwerk Ignacy, einem beeindruckenden Industriedenkmal, wo Sie auch zu Mittag essen können. Der Nachmittag steht im Zeichen der Entspannung: Eine kurze Fahrt bringt Sie zum Park am Fluss Nacyna, dem perfekten Ort, um den Tag in Ruhe ausklingen zu lassen.",
+        "hu": "A rybniki nap a belvárosi parkolással kezdődik, majd egy délelőtti sétával a főbb látnivalókhoz, mint a Piactér és a Bazilika. Dél körül autóba ül, és elhajt az Ignacy bányához, egy lenyűgöző ipari műemlékhez, ahol ebédelni is lehet. A délután a pihenésé: egy rövid autóút a Nacyna folyó melletti parkba vezet, amely tökéletes hely a nap nyugodt befejezéséhez.",
+        "ro": "Ziua dvs. în Rybnik începe cu parcarea în centrul orașului, urmată de o plimbare de dimineață la principalele atracții, cum ar fi Piața Centrală și Bazilica. În jurul prânzului, urcați în mașină și conduceți la Mina Ignacy, un monument industrial impresionant unde puteți lua și prânzul. După-amiaza este dedicată relaxării: o scurtă călătorie cu mașina vă duce la parcul de pe râul Nacyna, locul perfect pentru a încheia ziua în liniște.",
+        "en": "Your day in Rybnik starts with parking in the city center, followed by a morning walk to the main attractions like the Market Square and the Basilica. Around noon, you'll get in the car and drive to the Ignacy Mine, an impressive industrial monument where you can also have lunch. The afternoon is for relaxation: a short drive takes you to the park on the Nacyna River, the perfect place to end the day peacefully."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karminadel",
+            "tip": "Schlesische Frikadellen, ein herzhaftes und beliebtes Gericht."
+          },
+          {
+            "name": "Moczka",
+            "tip": "Ein traditionelles schlesisches Lebkuchen-Dessert, besonders zur Weihnachtszeit."
+          },
+          {
+            "name": "Restauracja Adama",
+            "tip": "Bekannt für seine elegante Atmosphäre und gehobene polnische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karminadel",
+            "tip": "Sziléziai fasírt, kiadós és népszerű étel."
+          },
+          {
+            "name": "Moczka",
+            "tip": "Hagyományos sziléziai mézeskalács desszert, különösen karácsonykor."
+          },
+          {
+            "name": "Restauracja Adama",
+            "tip": "Elegáns légköréről és finom lengyel konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karminadel",
+            "tip": "Chiftele sileziene, un fel de mâncare consistent și popular."
+          },
+          {
+            "name": "Moczka",
+            "tip": "Un desert tradițional silezian din turtă dulce, popular mai ales de Crăciun."
+          },
+          {
+            "name": "Restauracja Adama",
+            "tip": "Cunoscut pentru atmosfera sa elegantă și bucătăria poloneză rafinată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karminadel",
+            "tip": "Silesian meatballs, a hearty and popular dish."
+          },
+          {
+            "name": "Moczka",
+            "tip": "A traditional Silesian gingerbread dessert, especially popular at Christmas."
+          },
+          {
+            "name": "Restauracja Adama",
+            "tip": "Known for its elegant atmosphere and upscale Polish cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rybniker Stausee",
+            "tip": "Eine kurze Autofahrt entfernt, ideal für einen ruhigen Spaziergang am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtsplattform der Basilika",
+            "tip": "Genießen Sie die Stille und den weiten Blick über die Dächer der Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gelände des Juliusz-Krankenhauses",
+            "tip": "Oft überraschend ruhig und gut für einen nachdenklichen Spaziergang.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rybnik-víztározó",
+            "tip": "Rövid autóútra található, ideális egy csendes vízparti sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bazilika kilátóterasza",
+            "tip": "Élvezze a csendet és a város háztetőire nyíló széles kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Juliusz Kórház területe",
+            "tip": "Gyakran meglepően csendes és jó egy elgondolkodtató sétához.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul de acumulare Rybnik",
+            "tip": "La o scurtă călătorie cu mașina, ideal pentru o plimbare liniștită pe malul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Platforma de observare a Bazilicii",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică peste acoperișurile orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Terenul Spitalului Juliusz",
+            "tip": "Adesea surprinzător de liniștit și bun pentru o plimbare contemplativă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rybnik Reservoir",
+            "tip": "A short drive away, ideal for a quiet walk by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Basilica's observation deck",
+            "tip": "Enjoy the silence and the wide view over the city's rooftops.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grounds of the Juliusz Hospital",
+            "tip": "Often surprisingly quiet and good for a contemplative walk.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Plaza Rybnik",
+            "tip": "Einkaufszentrum mit einer Vielzahl von Geschäften und Dienstleistungen."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Informieren Sie sich über die Markttage für frische, lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plaza Rybnik",
+            "tip": "Bevásárlóközpont üzletek és szolgáltatások széles választékával."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Érdeklődjön a piacnapokról a friss, helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaza Rybnik",
+            "tip": "Centru comercial cu o varietate de magazine și servicii."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Interesați-vă de zilele de piață pentru produse locale proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plaza Rybnik",
+            "tip": "Shopping center with a variety of stores and services."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Check for market days to find fresh, local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Cluster-Walking-Strategie: Parken Sie einmal pro Zone und erkunden Sie zu Fuß.",
+          "Die Fahrt zum Bergwerk Ignacy ist lohnend, planen Sie aber genügend Zeit für die Anfahrt und den Besuch ein.",
+          "Verkehr und Parken im Stadtzentrum können zur Stoßzeit schwierig sein."
+        ],
+        "hu": [
+          "Használja a „cluster-walking” stratégiát: parkoljon egyszer zónánként és fedezze fel gyalog.",
+          "Az Ignacy bányához vezető út megéri, de tervezzen elegendő időt az utazásra és a látogatásra.",
+          "A belvárosi közlekedés és parkolás csúcsidőben nehézkes lehet."
+        ],
+        "ro": [
+          "Folosiți strategia „cluster-walking”: parcați o dată pe zonă și explorați pe jos.",
+          "Călătoria la Mina Ignacy merită, dar planificați suficient timp pentru drum și vizită.",
+          "Traficul și parcarea în centrul orașului pot fi dificile la orele de vârf."
+        ],
+        "en": [
+          "Use the cluster-walking strategy: park once per zone and explore on foot.",
+          "The drive to the Ignacy Mine is worthwhile, but plan enough time for the journey and the visit.",
+          "Traffic and parking in the city center can be difficult during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 17.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Marktplatz",
+            "hu": "Érkezés a Piactérre",
+            "ro": "Sosire la Piața Centrală",
+            "en": "Arrival at the Market Square"
+          },
+          "coords": [
+            18.5461,
+            50.1027
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zentralen Platz, um Ihre Tour zu beginnen.",
+            "hu": "Menjen busszal a központi térre a túra megkezdéséhez.",
+            "ro": "Luați un autobuz spre piața centrală pentru a începe turul.",
+            "en": "Take a bus to the central square to start your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Antonius und Piastenschloss",
+            "hu": "Szent Antal-bazilika és Piast-kastély",
+            "ro": "Bazilica Sf. Anton și Castelul Piast",
+            "en": "Basilica of St. Anthony and Piast Castle"
+          },
+          "coords": [
+            18.549,
+            50.1045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese beiden Hauptsehenswürdigkeiten liegen nahe beieinander und sind gut zu Fuß erreichbar.",
+            "hu": "Ez a két fő látnivaló közel van egymáshoz és gyalog könnyen megközelíthető.",
+            "ro": "Aceste două atracții principale sunt apropiate și ușor accesibile pe jos.",
+            "en": "These two main sights are close together and easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Bergwerk Ignacy",
+            "hu": "Buszozás az Ignacy bányához",
+            "ro": "Călătorie cu autobuzul la Mina Ignacy",
+            "en": "Bus ride to Ignacy Mine"
+          },
+          "coords": [
+            18.508,
+            50.085
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:58",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Niewiadom. Inklusive Mittagessen vor Ort.",
+            "hu": "Menjen busszal Niewiadom irányába. Ebédet is tartalmaz a helyszínen.",
+            "ro": "Luați un autobuz spre Niewiadom. Include prânzul la fața locului.",
+            "en": "Take a bus towards Niewiadom. Includes lunch on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Park an der Nacyna",
+            "hu": "Buszozás a Nacyna parkhoz",
+            "ro": "Călătorie cu autobuzul la Parcul Nacyna",
+            "en": "Bus ride to the Park on the Nacyna"
+          },
+          "coords": [
+            18.555,
+            50.1
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:04",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 8.8,
+          "tip_5lang": {
+            "de": "Ein Buswechsel im Zentrum bringt Sie in die Nähe des Flussparks.",
+            "hu": "Egy buszváltás a központban elviszi a folyóparti park közelébe.",
+            "ro": "O schimbare de autobuz în centru vă va duce aproape de parcul de pe râu.",
+            "en": "A bus change in the center will get you close to the river park."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Fluss",
+            "hu": "Séta a folyóparton",
+            "ro": "Plimbare pe malul râului",
+            "en": "Stroll by the river"
+          },
+          "coords": [
+            18.556,
+            50.1005
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:36",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre, bevor Sie den Bus nach Hause nehmen.",
+            "hu": "Élvezze a csendes légkört, mielőtt hazabuszozna.",
+            "ro": "Bucurați-vă de atmosfera liniștită înainte de a lua autobuzul spre casă.",
+            "en": "Enjoy the quiet atmosphere before taking the bus home."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt vom Zentrum",
+            "hu": "Visszaút a központból",
+            "ro": "Întoarcere din centru",
+            "en": "Return journey from the center"
+          },
+          "coords": [
+            18.5461,
+            50.1027
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:06",
+          "stay_min": 34,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Tag endet, wo er begann, bereit für die Abfahrt.",
+            "hu": "A nap ott ér véget, ahol elkezdődött, készen az indulásra.",
+            "ro": "Ziua se încheie acolo unde a început, gata de plecare.",
+            "en": "The day ends where it began, ready for departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Rybnik effizient. Der Tag beginnt mit einer Busfahrt zum Marktplatz, von wo aus Sie das historische Zentrum zu Fuß erkunden. Ein weiterer Bus bringt Sie zum faszinierenden Bergwerk Ignacy, einem Höhepunkt der Industriegeschichte. Nach einem ausgiebigen Besuch dort fahren Sie mit dem Bus zurück in Richtung Stadt, um den Nachmittag im entspannten Park an der Nacyna zu verbringen, bevor Sie Ihre Heimreise antreten.",
+        "hu": "A tömegközlekedéssel hatékonyan fedezheti fel Rybniket. A nap buszozással kezdődik a Piactérre, ahonnan gyalogosan fedezi fel a történelmi központot. Egy másik busz elviszi a lenyűgöző Ignacy bányához, az ipartörténet egyik csúcspontjához. Egy alapos látogatás után busszal tér vissza a város felé, hogy a délutánt a Nacyna melletti pihentető parkban töltse, mielőtt hazaindulna.",
+        "ro": "Explorați eficient Rybnik folosind transportul public. Ziua începe cu o călătorie cu autobuzul până la Piața Centrală, de unde explorați centrul istoric pe jos. Un alt autobuz vă duce la fascinanta Mină Ignacy, un punct culminant al istoriei industriale. După o vizită extinsă acolo, luați autobuzul înapoi spre oraș pentru a petrece după-amiaza în parcul relaxant de pe Nacyna înainte de a vă întoarce acasă.",
+        "en": "Explore Rybnik efficiently using public transport. The day begins with a bus ride to the Market Square, from where you explore the historic center on foot. Another bus takes you to the fascinating Ignacy Mine, a highlight of industrial history. After an extensive visit there, you'll take a bus back towards the city to spend the afternoon in the relaxing park on the Nacyna before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein beliebtes polnisches Streetfood, ein überbackenes Baguette."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Polnischer Käsekuchen, den Sie in vielen Cafés finden."
+          },
+          {
+            "name": "Bar Mleczny 'Smakosz'",
+            "tip": "Eine Milchbar für authentische, günstige polnische Hausmannskost."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Népszerű lengyel street food, egy sült bagett."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Lengyel sajttorta, amelyet sok kávézóban megtalál."
+          },
+          {
+            "name": "Bar Mleczny 'Smakosz'",
+            "tip": "Egy tejbár autentikus, olcsó lengyel házias ételekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Un street food polonez popular, o baghetă gratinată."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Plăcintă cu brânză poloneză, pe care o găsiți în multe cafenele."
+          },
+          {
+            "name": "Bar Mleczny 'Smakosz'",
+            "tip": "Un bar de lapte pentru mâncare poloneză autentică și ieftină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "A popular Polish street food, a baked open-face baguette."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Polish cheesecake, which you can find in many cafes."
+          },
+          {
+            "name": "Bar Mleczny 'Smakosz'",
+            "tip": "A milk bar for authentic, cheap Polish home cooking."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tężnia solankowa",
+            "tip": "Ein Gradierwerk in der Nähe des Parks, atmen Sie die salzige Luft.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lesen auf einer Parkbank",
+            "tip": "Finden Sie eine ruhige Ecke im Park an der Nacyna.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Beobachten Sie das Stadtleben auf dem Weg zwischen den Zielen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tężnia solankowa",
+            "tip": "Egy sólepárló torony a park közelében, lélegezze be a sós levegőt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Olvasás egy padon",
+            "tip": "Keressen egy csendes sarkot a Nacyna melletti parkban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Figyelje a városi életet útközben a célpontok között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tężnia solankowa",
+            "tip": "O instalație de gradare a sării lângă parc, respirați aerul sărat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Citit pe o bancă în parc",
+            "tip": "Găsiți un colț liniștit în parcul de pe Nacyna.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Privind pe geamul autobuzului",
+            "tip": "Observați viața orașului în drum spre destinații.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tężnia solankowa",
+            "tip": "A salt graduation tower near the park, breathe in the salty air.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Reading on a park bench",
+            "tip": "Find a quiet corner in the park on the Nacyna.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "Observe city life on the way between destinations.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Kaufen Sie Tickets und kleine Snacks für Ihre Reise."
+          },
+          {
+            "name": "Buchhandlungen",
+            "tip": "Suchen Sie nach Büchern über die Geschichte Schlesiens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Vásároljon jegyeket és apró harapnivalókat az utazáshoz."
+          },
+          {
+            "name": "Könyvesboltok",
+            "tip": "Keressen könyveket Szilézia történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri din stațiile de autobuz",
+            "tip": "Cumpărați bilete și gustări mici pentru călătoria dvs."
+          },
+          {
+            "name": "Librării",
+            "tip": "Căutați cărți despre istoria Sileziei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "Buy tickets and small snacks for your journey."
+          },
+          {
+            "name": "Bookstores",
+            "tip": "Look for books about the history of Silesia."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Prüfen Sie die Busfahrpläne im Voraus, insbesondere für die Fahrt zum Bergwerk.",
+          "Haben Sie etwas Kleingeld für Tickets parat, falls Sie diese im Bus kaufen müssen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a buszmenetrendet, különösen a bányához vezető útvonalon.",
+          "Tartson magánál aprópénzt a jegyekhez, ha a buszon kell megvennie."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați în avans orarele autobuzelor, în special pentru călătoria la mină.",
+          "Aveți la îndemână mărunțiș pentru bilete, în cazul în care trebuie să le cumpărați din autobuz."
+        ],
+        "en": [
+          "Buy a day ticket for public transport to save money.",
+          "Check bus schedules in advance, especially for the trip to the mine.",
+          "Have some small change ready for tickets if you need to buy them on the bus."
+        ]
+      }
+    }
+  }
+}

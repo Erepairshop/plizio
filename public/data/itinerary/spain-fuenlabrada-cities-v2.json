@@ -1,0 +1,1380 @@
+{
+  "city_id": "spain-fuenlabrada-cities-v2",
+  "anchor": {
+    "name": "Fuenlabrada",
+    "coords": [
+      -3.7944,
+      40.2841
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Alkotmány tér",
+            "ro": "Piața Constituției",
+            "en": "Constitution Square"
+          },
+          "coords": [
+            -3.7944,
+            40.2841
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Kaffee in einer der Bars am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik bárjában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the bars in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Esteban Protomártir",
+            "hu": "Szent István Vértanú templom",
+            "ro": "Biserica Sfântul Ștefan Protomartirul",
+            "en": "Church of Saint Stephen Protomartyr"
+          },
+          "coords": [
+            -3.7935,
+            40.285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die Mischung aus Gotik- und Renaissancestilen.",
+            "hu": "Figyelje meg a gótikus és reneszánsz stílusjegyek keveredését!",
+            "ro": "Observați amestecul de stiluri gotice și renascentiste.",
+            "en": "Notice the mix of Gothic and Renaissance styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Quelle der Treppen",
+            "hu": "Lépcsők szökőkútja",
+            "ro": "Fântâna Scărilor",
+            "en": "Fountain of the Stairs"
+          },
+          "coords": [
+            -3.795,
+            40.283
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein beliebter Treffpunkt für Einheimische und ein toller Ort für Fotos.",
+            "hu": "A helyiek kedvelt találkozóhelye, és remek fotóhelyszín.",
+            "ro": "Un loc de întâlnire popular pentru localnici și un loc grozav pentru fotografii.",
+            "en": "A popular meeting point for locals and a great spot for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstzentrum Tomás y Valiente",
+            "hu": "Tomás y Valiente Művészeti Központ",
+            "ro": "Centrul de Artă Tomás y Valiente",
+            "en": "Tomás y Valiente Art Centre"
+          },
+          "coords": [
+            -3.79,
+            40.282
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Veranstaltungskalender für kostenlose Ausstellungen.",
+            "hu": "Nézze meg a programnaptárt az ingyenes kiállításokért!",
+            "ro": "Verificați calendarul de evenimente pentru expoziții gratuite.",
+            "en": "Check the event calendar for free exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Park de los Estados",
+            "hu": "Államok Parkja",
+            "ro": "Parcul Statelor",
+            "en": "Park of the States"
+          },
+          "coords": [
+            -3.805,
+            40.275
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause im Schatten der Bäume.",
+            "hu": "Tökéletes egy ebédszünetre a fák árnyékában.",
+            "ro": "Perfect pentru o pauză de prânz la umbra copacilor.",
+            "en": "Perfect for a lunch break in the shade of the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "URJC-Campus Fuenlabrada",
+            "hu": "URJC Fuenlabrada Kampusz",
+            "ro": "Campusul URJC Fuenlabrada",
+            "en": "URJC Fuenlabrada Campus"
+          },
+          "coords": [
+            -3.8,
+            40.278
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie die moderne Architektur und das studentische Leben.",
+            "hu": "Figyelje meg a modern építészetet és a diákéletet!",
+            "ro": "Observați arhitectura modernă și viața studențească.",
+            "en": "Observe the modern architecture and student life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Fuenlabrada auf der Plaza de la Constitución, bevor Sie die historische Kirche San Esteban erkunden. Am Vormittag tauchen Sie in die lokale Kultur im Kunstzentrum Tomás y Valiente ein. Nach dem Mittagessen machen Sie einen entspannten Spaziergang durch den Park de los Estados und beenden Ihren Nachmittag mit einem Blick auf die moderne Architektur des URJC-Campus.",
+        "hu": "Kezdje a napot Fuenlabrada szívében, a Plaza de la Constitución téren, mielőtt felfedezné a történelmi Szent István-templomot. Délelőtt merüljön el a helyi kultúrában a Tomás y Valiente Művészeti Központban. Ebéd után tegyen egy pihentető sétát a Park de los Estados parkban, és zárja a délutánt az URJC kampusz modern építészetének megcsodálásával.",
+        "ro": "Începeți ziua în inima orașului Fuenlabrada, în Plaza de la Constitución, înainte de a explora istorica Biserică San Esteban. La prânz, pătrundeți în cultura locală la Centrul de Artă Tomás y Valiente. După prânz, faceți o plimbare relaxantă prin Parcul de los Estados și încheiați după-amiaza admirând arhitectura modernă a campusului URJC.",
+        "en": "Start your day in the heart of Fuenlabrada at Plaza de la Constitución before exploring the historic San Esteban Church. Mid-morning, immerse yourself in local culture at the Tomás y Valiente Art Centre. After lunch, take a relaxing walk through the Park de los Estados and end your afternoon admiring the modern architecture of the URJC campus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "Ein herzhafter Eintopf, perfekt für ein sättigendes Mittagessen."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Ein klassisches Madrider Sandwich, das man probieren muss."
+          },
+          {
+            "name": "Restaurante La Cúpula",
+            "tip": "Bekannt für seine traditionelle spanische Küche mit modernem Touch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "Kiadós egytálétel, tökéletes egy laktató ebédhez."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Klasszikus madridi szendvics, amit muszáj megkóstolni."
+          },
+          {
+            "name": "Restaurante La Cúpula",
+            "tip": "Hagyományos spanyol konyhájáról ismert, modern csavarral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "O tocană consistentă, perfectă pentru un prânz sățios."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Un sandviș clasic din Madrid, care trebuie încercat."
+          },
+          {
+            "name": "Restaurante La Cúpula",
+            "tip": "Cunoscut pentru bucătăria sa tradițională spaniolă cu o notă modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "A hearty stew, perfect for a filling lunch."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "A classic Madrid sandwich that's a must-try."
+          },
+          {
+            "name": "Restaurante La Cúpula",
+            "tip": "Known for its traditional Spanish cuisine with a modern twist."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park de los Estados",
+            "tip": "Finden Sie eine ruhige Bank am See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Kunstzentrums",
+            "tip": "Ein kleiner, friedlicher Ort nach dem Besuch der Ausstellung.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park de los Estados",
+            "tip": "Keressen egy csendes padot a tó mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Művészeti Központ kertjei",
+            "tip": "Egy kis, békés hely a kiállítás megtekintése után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de los Estados",
+            "tip": "Găsiți o bancă liniștită lângă lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Centrului de Artă",
+            "tip": "Un loc mic și liniștit după vizitarea expoziției.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park de los Estados",
+            "tip": "Find a quiet bench by the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of the Art Centre",
+            "tip": "A small, peaceful spot after visiting the exhibition.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle de la Plaza",
+            "tip": "Haupteinkaufsstraße mit einer Mischung aus nationalen Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie die lebhafte Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle de la Plaza",
+            "tip": "Fő bevásárlóutca, nemzeti márkák és helyi üzletek keverékével."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "Vásároljon helyi termékeket és élvezze az élénk hangulatot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle de la Plaza",
+            "tip": "Strada comercială principală cu un amestec de mărci naționale și magazine locale."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "Cumpărați produse locale și bucurați-vă de atmosfera plină de viață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle de la Plaza",
+            "tip": "Main shopping street with a mix of national brands and local shops."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "Shop for local produce and enjoy the lively atmosphere."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt öffentliche Brunnen.",
+          "Die meisten Geschäfte halten eine Siesta, planen Sie Ihren Einkauf entsprechend.",
+          "Genießen Sie ein 'Menú del Día' zum Mittagessen für ein gutes Preis-Leistungs-Verhältnis."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot; vannak nyilvános ivókutak.",
+          "A legtöbb üzlet sziesztát tart, tervezze a vásárlást ennek megfelelően.",
+          "Ebédre válasszon egy 'Menú del Día'-t a jó ár-érték arányért."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Luați o sticlă de apă reutilizabilă; există fântâni publice.",
+          "Majoritatea magazinelor respectă siesta, planificați-vă cumpărăturile în consecință.",
+          "Bucurați-vă de un 'Menú del Día' la prânz pentru un raport calitate-preț excelent."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring a reusable water bottle; there are public fountains.",
+          "Most shops observe a siesta, so plan your shopping accordingly.",
+          "Enjoy a 'Menú del Día' for lunch for great value."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Alkotmány tér",
+            "ro": "Piața Constituției",
+            "en": "Constitution Square"
+          },
+          "coords": [
+            -3.7944,
+            40.2841
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
+            "ro": "Încuiați-vă bicicleta în siguranță înainte de a explora piața.",
+            "en": "Lock your bike securely before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstzentrum Tomás y Valiente",
+            "hu": "Tomás y Valiente Művészeti Központ",
+            "ro": "Centrul de Artă Tomás y Valiente",
+            "en": "Tomás y Valiente Art Centre"
+          },
+          "coords": [
+            -3.79,
+            40.282
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "In der Nähe gibt es oft Fahrradständer.",
+            "hu": "A közelben gyakran vannak kerékpártárolók.",
+            "ro": "Există adesea suporturi pentru biciclete în apropiere.",
+            "en": "There are often bike racks available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei von Belén",
+            "hu": "Betlehemi Remetelak",
+            "ro": "Schitul din Betleem",
+            "en": "Hermitage of Belén"
+          },
+          "coords": [
+            -3.818,
+            40.302
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, der einen kleinen Umweg wert ist.",
+            "hu": "Egy békés hely, ami megér egy kis kitérőt.",
+            "ro": "Un loc liniștit care merită un mic ocol.",
+            "en": "A peaceful spot that's worth the small detour."
+          }
+        },
+        {
+          "name": {
+            "de": "Polvoranca-Park",
+            "hu": "Polvoranca Park",
+            "ro": "Parcul Polvoranca",
+            "en": "Polvoranca Park"
+          },
+          "coords": [
+            -3.82,
+            40.3
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie eine längere Radtour um den See des Parks.",
+            "hu": "Tegyen egy hosszabb kerékpártúrát a park tava körül.",
+            "ro": "Bucurați-vă de o plimbare mai lungă cu bicicleta în jurul lacului parcului.",
+            "en": "Enjoy a longer bike ride around the park's lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Park de los Estados",
+            "hu": "Államok Parkja",
+            "ro": "Parcul Statelor",
+            "en": "Park of the States"
+          },
+          "coords": [
+            -3.805,
+            40.275
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Park verfügt über gute Radwege, die ihn mit anderen Stadtteilen verbinden.",
+            "hu": "A parkban jó kerékpárutak vannak, amelyek összekötik a város más részeivel.",
+            "ro": "Parcul are piste de biciclete bune care îl leagă de alte părți ale orașului.",
+            "en": "The park has good cycle paths connecting it to other parts of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Esteban Protomártir",
+            "hu": "Szent István Vértanú templom",
+            "ro": "Biserica Sfântul Ștefan Protomartirul",
+            "en": "Church of Saint Stephen Protomartyr"
+          },
+          "coords": [
+            -3.7935,
+            40.285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche am späten Nachmittag, wenn das Licht schön ist.",
+            "hu": "Látogassa meg a templomot késő délután, amikor szépek a fények.",
+            "ro": "Vizitați biserica după-amiaza târziu, când lumina este frumoasă.",
+            "en": "Visit the church in the late afternoon when the light is beautiful."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour auf der Plaza de la Constitución und fahren Sie zum modernen Kunstzentrum. Am Vormittag wagen Sie sich weiter nach Norden zur ruhigen Einsiedelei von Belén und zum weitläufigen Polvoranca-Park. Nach dem Mittagessen fahren Sie nach Süden zum Park de los Estados, bevor Sie Ihre Tour mit einem Besuch der historischen Kirche San Esteban im sanften Nachmittagslicht abschließen.",
+        "hu": "Kezdje a kerékpártúrát a Plaza de la Constitución téren, majd tekerjen a modern művészeti központhoz. Délelőtt merészkedjen északabbra a békés Betlehemi Remetelakhoz és a tágas Polvoranca Parkhoz. Ebéd után irány dél, a Park de los Estados, mielőtt a túrát a történelmi Szent István-templom meglátogatásával zárná a lágy délutáni fényben.",
+        "ro": "Începeți turul cu bicicleta din Plaza de la Constitución și pedalați spre centrul de artă modernă. La prânz, aventurați-vă mai la nord spre liniștitul Schit din Belén și vastul Parc Polvoranca. După prânz, îndreptați-vă spre sud, spre Parcul de los Estados, înainte de a încheia turul cu o vizită la istorica Biserică San Esteban în lumina blândă a după-amiezii.",
+        "en": "Start your bike tour from Plaza de la Constitución and pedal to the modern art centre. Mid-morning, venture further north to the peaceful Hermitage of Belén and the expansive Polvoranca Park. After lunch, cycle south to the Park de los Estados before ending your tour with a visit to the historic San Esteban Church in the soft afternoon light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas-Bars",
+            "tip": "Suchen Sie nach Bars abseits der Hauptplätze für authentischere Tapas."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Ein perfekter Energielieferant am Nachmittag."
+          },
+          {
+            "name": "Casa de Pías",
+            "tip": "Ein gemütliches Restaurant, das für seine großzügigen Portionen bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas bárok",
+            "tip": "Keressen a fő terektől távolabb eső bárokat az autentikusabb tapasokért."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Tökéletes délutáni energiafröccs."
+          },
+          {
+            "name": "Casa de Pías",
+            "tip": "Hangulatos étterem, amely bőséges adagjairól ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baruri de tapas",
+            "tip": "Căutați baruri departe de piețele principale pentru tapas mai autentice."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Un energizant perfect pentru după-amiază."
+          },
+          {
+            "name": "Casa de Pías",
+            "tip": "Un restaurant primitor, renumit pentru porțiile sale generoase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas Bars",
+            "tip": "Look for bars away from the main squares for more authentic tapas."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "A perfect afternoon energy boost."
+          },
+          {
+            "name": "Casa de Pías",
+            "tip": "A cozy restaurant known for its generous portions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Sees im Polvoranca-Park",
+            "tip": "Ein großartiger Ort, um die Natur zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Einsiedelei von Belén",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Polvoranca Park tavának partja",
+            "tip": "Nagyszerű hely a természet megfigyelésére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Betlehemi Remetelak",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului din Parcul Polvoranca",
+            "tip": "Un loc excelent pentru a observa natura.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schitul din Betleem",
+            "tip": "Un loc de liniște și contemplare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside at Polvoranca Park",
+            "tip": "A great spot for some nature watching.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hermitage of Belén",
+            "tip": "A place for quiet and contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Es gibt mehrere kleine Fahrradgeschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Lokale Keramik",
+            "tip": "Halten Sie Ausschau nach handgemachter Keramik als einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárüzletek",
+            "tip": "Számos kis kerékpárüzlet található kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keressen kézzel készített kerámiát egyedi szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Există mai multe magazine mici de biciclete pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică lucrată manual ca suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "There are several small bike shops for any accessories or quick repairs."
+          },
+          {
+            "name": "Local Pottery",
+            "tip": "Keep an eye out for handmade pottery as a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fuenlabrada ist relativ flach, aber einige Brücken haben leichte Steigungen.",
+          "Nutzen Sie die Radwege, wo immer sie verfügbar sind.",
+          "Ein gutes Schloss ist unerlässlich, besonders im Stadtzentrum.",
+          "Planen Sie eine Mittagspause im Polvoranca-Park für ein Picknick ein."
+        ],
+        "hu": [
+          "Fuenlabrada viszonylag sík, de néhány híd enyhén emelkedik.",
+          "Használja a kerékpárutakat, ahol csak elérhetők.",
+          "Egy jó lakat elengedhetetlen, különösen a városközpontban.",
+          "Tervezzen egy ebédszünetet piknikkel a Polvoranca Parkban."
+        ],
+        "ro": [
+          "Fuenlabrada este relativ plat, dar unele poduri au pante ușoare.",
+          "Folosiți pistele de biciclete ori de câte ori sunt disponibile.",
+          "O încuietoare bună este esențială, mai ales în centrul orașului.",
+          "Planificați o pauză de prânz pentru un picnic în Parcul Polvoranca."
+        ],
+        "en": [
+          "Fuenlabrada is relatively flat, but some bridges have slight inclines.",
+          "Use the bike lanes wherever they are available.",
+          "A good lock is essential, especially in the city center.",
+          "Plan for a lunch break in Polvoranca Park for a picnic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Polvoranca-Park",
+            "hu": "Polvoranca Park parkoló",
+            "ro": "Parcare Parc Polvoranca",
+            "en": "Polvoranca Park Parking"
+          },
+          "coords": [
+            -3.821,
+            40.301
+          ],
+          "category": "transport",
+          "arrive_at": "09:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den nördlichen Teil des Tages zu erkunden.",
+            "hu": "Parkoljon itt, hogy felfedezze a nap északi részét.",
+            "ro": "Parcați aici pentru a explora partea de nord a zilei.",
+            "en": "Park here to explore the northern part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei von Belén",
+            "hu": "Betlehemi Remetelak",
+            "ro": "Schitul din Betleem",
+            "en": "Hermitage of Belén"
+          },
+          "coords": [
+            -3.818,
+            40.302
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Polvoranca-Park",
+            "hu": "Polvoranca Park",
+            "ro": "Parcul Polvoranca",
+            "en": "Polvoranca Park"
+          },
+          "coords": [
+            -3.82,
+            40.3
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für einen langen Morgenspaziergang.",
+            "hu": "Ideális egy hosszú reggeli sétához.",
+            "ro": "Ideal pentru o plimbare lungă de dimineață.",
+            "en": "Ideal for a long morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum (Nähe Plaza)",
+            "hu": "Központi parkoló (a Plaza közelében)",
+            "ro": "Parcare centrală (lângă Piață)",
+            "en": "Central Parking (near Plaza)"
+          },
+          "coords": [
+            -3.796,
+            40.285
+          ],
+          "category": "transport",
+          "arrive_at": "12:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nutzen Sie eine Tiefgarage für Sicherheit und um der Sonne zu entgehen.",
+            "hu": "Használjon mélygarázst a biztonságért és a nap elkerüléséért.",
+            "ro": "Folosiți o parcare subterană pentru siguranță și pentru a evita soarele.",
+            "en": "Use an underground car park for security and to avoid the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Alkotmány tér",
+            "ro": "Piața Constituției",
+            "en": "Constitution Square"
+          },
+          "coords": [
+            -3.7944,
+            40.2841
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hier finden Sie viele Möglichkeiten für ein Mittagessen.",
+            "hu": "Itt számos ebédlehetőséget talál.",
+            "ro": "Aici veți găsi multe opțiuni pentru prânz.",
+            "en": "You'll find plenty of options for lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Esteban Protomártir",
+            "hu": "Szent István Vértanú templom",
+            "ro": "Biserica Sfântul Ștefan Protomartirul",
+            "en": "Church of Saint Stephen Protomartyr"
+          },
+          "coords": [
+            -3.7935,
+            40.285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hauptanziehungspunkt des historischen Zentrums.",
+            "hu": "A történelmi központ fő látványossága.",
+            "ro": "Atracția principală a centrului istoric.",
+            "en": "The main attraction of the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Park de los Estados",
+            "hu": "Államok Parkja",
+            "ro": "Parcul Statelor",
+            "en": "Park of the States"
+          },
+          "coords": [
+            -3.805,
+            40.275
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang nach dem Mittagessen.",
+            "hu": "Pihentető séta ebéd után.",
+            "ro": "O plimbare relaxantă după prânz.",
+            "en": "A relaxing walk after lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto im Norden und erkunden Sie zu Fuß die ruhige Einsiedelei von Belén und den weitläufigen Polvoranca-Park. Am Mittag fahren Sie ins Stadtzentrum, parken Ihr Auto und entdecken den historischen Kern mit der Plaza de la Constitución und der Kirche San Esteban zu Fuß. Schließen Sie Ihren Tag mit einem entspannenden Spaziergang im Park de los Estados ab, der nur einen kurzen Fußweg vom Zentrum entfernt ist.",
+        "hu": "Kezdje a napot autóval északon, és fedezze fel gyalog a békés Betlehemi Remetelakot és a tágas Polvoranca Parkot. Délben hajtson a városközpontba, parkolja le az autót, és fedezze fel gyalog a történelmi magot a Plaza de la Constituciónnal és a Szent István-templommal. Zárja a napot egy pihentető sétával a Park de los Estadosban, amely csak egy rövid sétára van a központtól.",
+        "ro": "Începeți ziua cu mașina în nord, explorând pe jos liniștitul Schit din Belén și vastul Parc Polvoranca. La prânz, conduceți spre centrul orașului, parcați mașina și descoperiți nucleul istoric pe jos, cu Plaza de la Constitución și Biserica San Esteban. Încheiați ziua cu o plimbare relaxantă în Parcul de los Estados, la o scurtă plimbare de centru.",
+        "en": "Start your day by driving to the north, exploring the peaceful Hermitage of Belén and the expansive Polvoranca Park on foot. For midday, drive to the city center, park your car, and discover the historic core on foot, including Plaza de la Constitución and San Esteban Church. End your day with a relaxing stroll in the Park de los Estados, a short walk from the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Asador",
+            "tip": "Suchen Sie nach einem 'Asador' für exzellentes gegrilltes Fleisch."
+          },
+          {
+            "name": "Tortilla Española",
+            "tip": "Ein Muss in jedem traditionellen Restaurant."
+          },
+          {
+            "name": "Mesón El Cazador",
+            "tip": "Berühmt für seine Wildgerichte und seine rustikale Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Asador",
+            "tip": "Keressen egy 'Asador'-t a kiváló grillezett húsokért."
+          },
+          {
+            "name": "Tortilla Española",
+            "tip": "Minden hagyományos étteremben kötelező."
+          },
+          {
+            "name": "Mesón El Cazador",
+            "tip": "Híres vadhúsételeiről és rusztikus hangulatáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Asador",
+            "tip": "Căutați un 'asador' pentru carne excelentă la grătar."
+          },
+          {
+            "name": "Tortilla Española",
+            "tip": "O necesitate în orice restaurant tradițional."
+          },
+          {
+            "name": "Mesón El Cazador",
+            "tip": "Renumit pentru preparatele sale din vânat și atmosfera rustică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Asador",
+            "tip": "Look for an 'asador' for excellent grilled meats."
+          },
+          {
+            "name": "Tortilla Española",
+            "tip": "A must-have at any traditional restaurant."
+          },
+          {
+            "name": "Mesón El Cazador",
+            "tip": "Famous for its game dishes and rustic atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Polvoranca-Park am frühen Morgen",
+            "tip": "Erleben Sie die Stille, bevor die Menschenmassen kommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innenhof der Kirche San Esteban",
+            "tip": "Ein versteckter, ruhiger Ort im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Polvoranca Park kora reggel",
+            "tip": "Tapasztalja meg a csendet, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szent István-templom belső udvara",
+            "tip": "Egy rejtett, csendes hely a központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Polvoranca dimineața devreme",
+            "tip": "Experimentați liniștea înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea interioară a Bisericii San Esteban",
+            "tip": "Un loc ascuns și liniștit în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Polvoranca Park in the early morning",
+            "tip": "Experience the quiet before the crowds arrive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Inner courtyard of San Esteban Church",
+            "tip": "A hidden, quiet spot in the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Comercial Loranca 2",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand für alles, was Sie brauchen."
+          },
+          {
+            "name": "Lokale Delikatessenläden",
+            "tip": "Kaufen Sie Käse, Schinken und Wein aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centro Comercial Loranca 2",
+            "tip": "Nagy bevásárlóközpont a város szélén, mindenre, amire szüksége lehet."
+          },
+          {
+            "name": "Helyi csemegeboltok",
+            "tip": "Vásároljon helyi sajtot, sonkát és bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centro Comercial Loranca 2",
+            "tip": "Un centru comercial mare la marginea orașului pentru tot ce aveți nevoie."
+          },
+          {
+            "name": "Magazine de delicatese locale",
+            "tip": "Cumpărați brânză, șuncă și vin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centro Comercial Loranca 2",
+            "tip": "A large shopping mall on the outskirts for anything you might need."
+          },
+          {
+            "name": "Local Delicatessens",
+            "tip": "Buy local cheese, ham, and wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann schwierig und teuer sein; nutzen Sie Tiefgaragen.",
+          "Planen Sie Ihre Fahrten außerhalb der morgendlichen und abendlichen Stoßzeiten.",
+          "Ein GPS ist sehr zu empfehlen, um sich in den Vororten zurechtzufinden.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nehéz és drága lehet; használjon mélygarázsokat.",
+          "Tervezze az utazásokat a reggeli és esti csúcsforgalmon kívülre.",
+          "GPS erősen ajánlott a külvárosokban való tájékozódáshoz.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă și costisitoare; folosiți parcările subterane.",
+          "Planificați-vă călătoriile în afara orelor de vârf de dimineață și de seară.",
+          "Un GPS este foarte recomandat pentru a naviga în suburbii.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Parking in the city center can be difficult and expensive; use underground car parks.",
+          "Plan your drives outside of the morning and evening rush hours.",
+          "A GPS is highly recommended for navigating the suburbs.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Station Parque de los Estados",
+            "hu": "Parque de los Estados állomás",
+            "ro": "Stația Parque de los Estados",
+            "en": "Parque de los Estados Station"
+          },
+          "coords": [
+            -3.806,
+            40.276
+          ],
+          "category": "transport",
+          "arrive_at": "09:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, da die MetroSur-Linie 12 gute Verbindungen bietet.",
+            "hu": "Kezdje itt, mivel a MetroSur 12-es vonal jó összeköttetést biztosít.",
+            "ro": "Începeți de aici, deoarece linia 12 MetroSur oferă conexiuni bune.",
+            "en": "Start here as the MetroSur line 12 offers good connections."
+          }
+        },
+        {
+          "name": {
+            "de": "Park de los Estados",
+            "hu": "Államok Parkja",
+            "ro": "Parcul Statelor",
+            "en": "Park of the States"
+          },
+          "coords": [
+            -3.805,
+            40.275
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um den Tag zu beginnen.",
+            "hu": "Szép hely a nap kezdéséhez.",
+            "ro": "Un loc frumos pentru a începe ziua.",
+            "en": "A lovely place to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Station Fuenlabrada Central",
+            "hu": "Fuenlabrada Central állomás",
+            "ro": "Stația Fuenlabrada Central",
+            "en": "Fuenlabrada Central Station"
+          },
+          "coords": [
+            -3.795,
+            40.286
+          ],
+          "category": "transport",
+          "arrive_at": "10:45",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Das Tor zum historischen Zentrum der Stadt.",
+            "hu": "A város történelmi központjának kapuja.",
+            "ro": "Poarta de acces către centrul istoric al orașului.",
+            "en": "The gateway to the city's historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Alkotmány tér",
+            "ro": "Piața Constituției",
+            "en": "Constitution Square"
+          },
+          "coords": [
+            -3.7944,
+            40.2841
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spüren Sie den Puls der Stadt.",
+            "hu": "Érezze a város lüktetését.",
+            "ro": "Simțiți pulsul orașului.",
+            "en": "Feel the pulse of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstzentrum Tomás y Valiente",
+            "hu": "Tomás y Valiente Művészeti Központ",
+            "ro": "Centrul de Artă Tomás y Valiente",
+            "en": "Tomás y Valiente Art Centre"
+          },
+          "coords": [
+            -3.79,
+            40.282
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Kunst- und Kulturliebhaber.",
+            "hu": "A művészet és a kultúra szerelmeseinek kötelező.",
+            "ro": "O necesitate pentru iubitorii de artă și cultură.",
+            "en": "A must-visit for art and culture lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Polvoranca-Park",
+            "hu": "Polvoranca Park",
+            "ro": "Parcul Polvoranca",
+            "en": "Polvoranca Park"
+          },
+          "coords": [
+            -3.82,
+            40.3
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum, um diesen weitläufigen Park zu erreichen.",
+            "hu": "Vegyen buszt a központból, hogy elérje ezt a tágas parkot.",
+            "ro": "Luați un autobuz din centru pentru a ajunge la acest parc vast.",
+            "en": "Take a bus from the center to reach this expansive park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Metro, um Ihre Tour im Park de los Estados zu beginnen. Am Vormittag fahren Sie mit der Metro ins Zentrum, um die Plaza de la Constitución und das nahegelegene Kunstzentrum zu Fuß zu erkunden. Nach dem Mittagessen bringt Sie ein Bus zum weitläufigen Polvoranca-Park, wo Sie den Rest des Nachmittags mit einem Spaziergang oder einer Bootsfahrt auf dem See verbringen können.",
+        "hu": "Használja a metrót a túra megkezdéséhez a Park de los Estados parkban. Délelőtt metróval utazzon a központba, hogy gyalog fedezze fel a Plaza de la Constitución teret és a közeli Művészeti Központot. Ebéd után egy busz elviszi Önt a tágas Polvoranca Parkba, ahol a délután hátralévő részét sétával vagy csónakázással töltheti a tavon.",
+        "ro": "Folosiți metroul pentru a începe turul în Parcul de los Estados. La prânz, luați metroul spre centru pentru a explora pe jos Plaza de la Constitución și Centrul de Artă din apropiere. După prânz, un autobuz vă va duce la vastul Parc Polvoranca, unde puteți petrece restul după-amiezii plimbându-vă sau făcând o plimbare cu barca pe lac.",
+        "en": "Use the metro to start your tour at the Park de los Estados. Mid-morning, take the metro to the center to explore Plaza de la Constitución and the nearby Art Centre on foot. After lunch, a bus will take you to the expansive Polvoranca Park, where you can spend the rest of the afternoon strolling or boating on the lake."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Menú del Día",
+            "tip": "Suchen Sie nach Restaurants in der Nähe von Bürogebäuden für die besten Mittagsmenüs."
+          },
+          {
+            "name": "Empanadas",
+            "tip": "Ein schneller und leckerer Snack für unterwegs."
+          },
+          {
+            "name": "Cervecería La Fuente",
+            "tip": "Ein beliebter Ort bei Einheimischen für Bier und Tapas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menú del Día",
+            "tip": "Keressen éttermeket irodaházak közelében a legjobb ebédmenükért."
+          },
+          {
+            "name": "Empanadas",
+            "tip": "Gyors és ízletes snack útközben."
+          },
+          {
+            "name": "Cervecería La Fuente",
+            "tip": "A helyiek kedvelt helye sörözésre és tapasozásra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Menú del Día",
+            "tip": "Căutați restaurante lângă clădirile de birouri pentru cele mai bune meniuri de prânz."
+          },
+          {
+            "name": "Empanadas",
+            "tip": "O gustare rapidă și delicioasă pentru drum."
+          },
+          {
+            "name": "Cervecería La Fuente",
+            "tip": "Un loc popular printre localnici pentru bere și tapas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menú del Día",
+            "tip": "Look for restaurants near office buildings for the best lunch menus."
+          },
+          {
+            "name": "Empanadas",
+            "tip": "A quick and tasty snack to eat on the go."
+          },
+          {
+            "name": "Cervecería La Fuente",
+            "tip": "A popular spot with locals for beer and tapas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Fahrt mit der MetroSur",
+            "tip": "Die Ringlinie bietet eine überraschend ruhige Möglichkeit, die Vororte zu sehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanischer Garten im Polvoranca-Park",
+            "tip": "Ein friedlicher Abschnitt innerhalb des größeren Parks.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utazás a MetroSur vonalon",
+            "tip": "A körjárat meglepően csendes módot kínál a külvárosok megtekintésére.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanikus kert a Polvoranca Parkban",
+            "tip": "Békés rész a nagyobb parkon belül.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O călătorie cu MetroSur",
+            "tip": "Linia circulară oferă o modalitate surprinzător de liniștită de a vedea suburbiile.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina Botanică din Parcul Polvoranca",
+            "tip": "O secțiune liniștită în cadrul parcului mai mare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A ride on the MetroSur",
+            "tip": "The circular line offers a surprisingly quiet way to see the suburbs.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Botanical Garden in Polvoranca Park",
+            "tip": "A peaceful section within the larger park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenmarkt",
+            "tip": "Informieren Sie sich über die Tage und Orte der wöchentlichen Straßenmärkte."
+          },
+          {
+            "name": "Buchhandlungen in der Nähe des Campus",
+            "tip": "Finden Sie interessante Bücher und Schreibwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai piac",
+            "tip": "Érdeklődjön a heti utcai piacok napjairól és helyszíneiről."
+          },
+          {
+            "name": "Könyvesboltok a kampusz közelében",
+            "tip": "Találjon érdekes könyveket és írószereket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața stradală",
+            "tip": "Verificați zilele și locațiile piețelor stradale săptămânale."
+          },
+          {
+            "name": "Librării lângă campus",
+            "tip": "Găsiți cărți și articole de papetărie interesante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street Market",
+            "tip": "Check for the days and locations of the weekly street markets."
+          },
+          {
+            "name": "Bookshops near the campus",
+            "tip": "Find interesting books and stationery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Tarjeta Multi', um sie mit Fahrten für Metro und Bus aufzuladen.",
+          "Validieren Sie Ihr Ticket immer, wenn Sie ein- oder umsteigen.",
+          "Die App 'Citymapper' oder 'Google Maps' sind sehr nützlich für die Routenplanung.",
+          "Busse fahren möglicherweise seltener als die Metro, planen Sie also entsprechend."
+        ],
+        "hu": [
+          "Vásároljon egy 'Tarjeta Multi' kártyát, amelyet feltölthet metró- és buszutakra.",
+          "Mindig érvényesítse a jegyét, amikor felszáll vagy átszáll.",
+          "A 'Citymapper' vagy a 'Google Maps' alkalmazás nagyon hasznos az útvonaltervezéshez.",
+          "A buszok ritkábban közlekedhetnek, mint a metró, ezért tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Cumpărați un 'Tarjeta Multi' pentru a-l încărca cu călătorii pentru metrou și autobuz.",
+          "Validați-vă întotdeauna biletul la intrare sau la transfer.",
+          "Aplicația 'Citymapper' sau 'Google Maps' este foarte utilă pentru planificarea rutelor.",
+          "Autobuzele pot circula mai rar decât metroul, așa că planificați în consecință."
+        ],
+        "en": [
+          "Buy a 'Tarjeta Multi' card to load with trips for the metro and bus.",
+          "Always validate your ticket when entering or transferring.",
+          "The 'Citymapper' or 'Google Maps' app is very useful for planning routes.",
+          "Buses may run less frequently than the metro, so plan accordingly."
+        ]
+      }
+    }
+  }
+}

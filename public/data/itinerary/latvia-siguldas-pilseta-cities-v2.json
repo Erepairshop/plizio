@@ -1,0 +1,1400 @@
+{
+  "city_id": "latvia-siguldas-pilseta-cities-v2",
+  "anchor": {
+    "name": "Siguldas pilsēta",
+    "coords": [
+      24.8525,
+      57.1539
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Spazierstock-Park",
+            "hu": "Sétabot Park",
+            "ro": "Parcul Bastoanelor",
+            "en": "Walking Stick Park"
+          },
+          "coords": [
+            24.8511,
+            57.1532
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die verschiedenen Designs der Spazierstöcke, jeder ist ein Unikat.",
+            "hu": "Figyelje meg a sétapálcák különböző mintáit, mindegyik egyedi.",
+            "ro": "Observați diversele modele ale bastoanelor, fiecare este unic.",
+            "en": "Look for the different designs on the walking sticks; each one is unique."
+          }
+        },
+        {
+          "name": {
+            "de": "Neues Schloss Sigulda",
+            "hu": "Siguldai Új Kastély",
+            "ro": "Castelul Nou din Sigulda",
+            "en": "Sigulda New Castle"
+          },
+          "coords": [
+            24.853,
+            57.1648
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Schloss beherbergt heute die örtliche Verwaltung, aber die Architektur ist bewundernswert.",
+            "hu": "A kastélyban ma a helyi önkormányzat működik, de az építészete csodálatra méltó.",
+            "ro": "Castelul găzduiește acum administrația locală, dar arhitectura este admirabilă.",
+            "en": "The castle now houses the local administration, but the architecture is admirable."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelalterliche Burgruine",
+            "hu": "Középkori Várrom",
+            "ro": "Ruinele Cetății Medievale",
+            "en": "Medieval Castle Ruins"
+          },
+          "coords": [
+            24.8515,
+            57.1662
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Hauptturm für eine fantastische Aussicht auf das Gauja-Tal.",
+            "hu": "Másszon fel a főtoronyba a Gauja-völgyre nyíló fantasztikus kilátásért.",
+            "ro": "Urcați în turnul principal pentru o priveliște fantastică asupra văii Gauja.",
+            "en": "Climb the main tower for a fantastic view of the Gauja Valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Seilbahn über die Gauja",
+            "hu": "Felvonó a Gauja felett",
+            "ro": "Telecabina peste Gauja",
+            "en": "Cable Car over the Gauja River"
+          },
+          "coords": [
+            24.8488,
+            57.1671
+          ],
+          "category": "natural features",
+          "arrive_at": "13:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Fahrt bietet spektakuläre Ausblicke, besonders im Herbst.",
+            "hu": "Az utazás lenyűgöző kilátást nyújt, különösen ősszel.",
+            "ro": "Călătoria oferă vederi spectaculoase, mai ales toamna.",
+            "en": "The ride offers spectacular views, especially in autumn."
+          }
+        },
+        {
+          "name": {
+            "de": "Gutmannshöhle",
+            "hu": "Gutman-barlang",
+            "ro": "Peștera lui Gutman",
+            "en": "Gutman's Cave"
+          },
+          "coords": [
+            24.8421,
+            57.1685
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die größte Grotte im Baltikum. Suchen Sie nach den alten Inschriften an den Wänden.",
+            "hu": "A Baltikum legnagyobb barlangja. Keresse a régi feliratokat a falakon.",
+            "ro": "Cea mai mare grotă din Baltica. Căutați inscripțiile vechi de pe pereți.",
+            "en": "The largest grotto in the Baltics. Look for the ancient inscriptions on the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Gauja-Brücke",
+            "hu": "Gauja-híd",
+            "ro": "Podul Gauja",
+            "en": "Gauja Bridge"
+          },
+          "coords": [
+            24.84,
+            57.152
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein guter Ort, um Kajakfahrer auf dem Fluss zu beobachten.",
+            "hu": "Jó hely a folyón kajakozók megfigyelésére.",
+            "ro": "Un loc bun pentru a privi caiaciștii de pe râu.",
+            "en": "A good spot to watch kayakers on the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Stadtzentrum",
+            "hu": "Vacsora a városközpontban",
+            "ro": "Cină în centrul orașului",
+            "en": "Dinner in the city center"
+          },
+          "coords": [
+            24.8522,
+            57.1545
+          ],
+          "category": "gastro",
+          "arrive_at": "16:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie lokale lettische Gerichte in einem der gemütlichen Restaurants.",
+            "hu": "Kóstolja meg a helyi lett ételeket az egyik hangulatos étteremben.",
+            "ro": "Încercați mâncăruri locale letone la unul dintre restaurantele primitoare.",
+            "en": "Try local Latvian dishes at one of the cozy restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im einzigartigen Spazierstock-Park, bevor Sie zum historischen Herzen der Stadt aufsteigen, dem Neuen Schloss und den mittelalterlichen Burgruinen. Der Vormittag bietet eine Reise durch die Geschichte mit Panoramablick. Am Nachmittag bringt Sie ein Spaziergang ins Gauja-Tal, wo Sie mit der Seilbahn über den Fluss schweben und die legendäre Gutmannshöhle erkunden. Schließlich führt Sie Ihr Weg über die Gauja-Brücke zurück ins Zentrum, um den Tag bei einem herzhaften Abendessen ausklingen zu lassen.",
+        "hu": "Kezdje a napot az egyedülálló Sétabot Parkban, mielőtt felsétálna a város történelmi szívéhez, az Új Kastélyhoz és a középkori várromokhoz. A délelőtt egy utazás a történelemben, panorámás kilátással. Délután a Gauja-völgybe sétál, ahol a drótkötélpályán átsuhan a folyó felett, és felfedezi a legendás Gutman-barlangot. Végül útja a Gauja-hídon át vezet vissza a központba, hogy egy kiadós vacsorával zárja a napot.",
+        "ro": "Începeți ziua în Parcul Bastoanelor unic, înainte de a urca spre inima istorică a orașului, Castelul Nou și ruinele cetății medievale. Dimineața oferă o călătorie prin istorie cu vederi panoramice. După-amiaza, o plimbare vă duce în Valea Gauja, unde plutiți peste râu cu telecabina și explorați legendara Peșteră a lui Gutman. În cele din urmă, drumul vă duce înapoi în centru peste Podul Gauja pentru a încheia ziua cu o cină copioasă.",
+        "en": "Start your day in the unique Walking Stick Park before ascending to the historic heart of the city, the New Castle and the medieval castle ruins. The morning offers a journey through history with panoramic views. In the afternoon, a walk takes you to the Gauja Valley, where you'll float across the river by cable car and explore the legendary Gutman's Cave. Finally, your path leads back to the center across the Gauja Bridge to end the day with a hearty dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Graue Erbsen mit Speck",
+            "tip": "Ein traditionelles lettisches Gericht, besonders im Winter."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Dunkles Roggenbrot, eine lettische Spezialität."
+          },
+          {
+            "name": "Birkensaft",
+            "tip": "Ein erfrischendes lokales Getränk, das im Frühling gesammelt wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szürke borsó szalonnával",
+            "tip": "Hagyományos lett étel, különösen télen."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Sötét rozskenyér, lett specialitás."
+          },
+          {
+            "name": "Nyírfalé",
+            "tip": "Frissítő helyi ital, amelyet tavasszal gyűjtenek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mazăre gri cu șuncă",
+            "tip": "Un fel de mâncare tradițional leton, mai ales iarna."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Pâine neagră de secară, o specialitate letonă."
+          },
+          {
+            "name": "Sevă de mesteacăn",
+            "tip": "O băutură locală răcoritoare, recoltată primăvara."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grey peas with bacon",
+            "tip": "A traditional Latvian dish, especially in winter."
+          },
+          {
+            "name": "Rupjmaize",
+            "tip": "Dark rye bread, a Latvian specialty."
+          },
+          {
+            "name": "Birch sap",
+            "tip": "A refreshing local drink collected in spring."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Gauja",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer, um die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Krimulda-Herrenhaus Gärten",
+            "tip": "Die Gärten des Herrenhauses sind oft weniger überlaufen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang von der Burgruine",
+            "tip": "Ein perfekter Ort, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gauja partja",
+            "tip": "Keressen egy csendes helyet a folyóparton, és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Krimuldai udvarház kertje",
+            "tip": "Az udvarház kertjei gyakran kevésbé zsúfoltak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a várromoktól",
+            "tip": "Tökéletes hely a nap befejezéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Gauja",
+            "tip": "Găsiți un loc liniștit pe malul râului pentru a vă bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Conacului Krimulda",
+            "tip": "Grădinile conacului sunt adesea mai puțin aglomerate.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare de la ruinele cetății",
+            "tip": "Un loc perfect pentru a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Gauja River",
+            "tip": "Find a quiet spot on the riverbank to enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Krimulda Manor Gardens",
+            "tip": "The gardens of the manor are often less crowded.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset from the castle ruins",
+            "tip": "A perfect spot to end the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach Bernstein-Schmuck und Leinenprodukten."
+          },
+          {
+            "name": "Sigulda Spazierstock",
+            "tip": "Ein klassisches Souvenir aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen borostyán ékszereket és lenvászon termékeket."
+          },
+          {
+            "name": "Siguldai sétabot",
+            "tip": "Klasszikus szuvenír a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați bijuterii din chihlimbar și produse din in."
+          },
+          {
+            "name": "Bastonul de Sigulda",
+            "tip": "Un suvenir clasic din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local craft shops",
+            "tip": "Look for amber jewelry and linen products."
+          },
+          {
+            "name": "Sigulda walking stick",
+            "tip": "A classic souvenir from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Gelände hügelig sein kann.",
+          "Nehmen Sie Wasser mit, besonders für den Weg zur Gutmannshöhle.",
+          "Die meisten Wege sind gut ausgeschildert, eine Karte ist dennoch hilfreich.",
+          "Planen Sie genügend Zeit für die Burgruinen ein, es gibt viel zu entdecken."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a terep dombos lehet.",
+          "Vigyen magával vizet, különösen a Gutman-barlanghoz vezető útra.",
+          "A legtöbb ösvény jól ki van táblázva, de egy térkép mégis hasznos lehet.",
+          "Szánjon elegendő időt a várromokra, sok a felfedeznivaló."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece terenul poate fi deluros.",
+          "Luați apă cu voi, mai ales pentru drumul spre Peștera lui Gutman.",
+          "Majoritatea potecilor sunt bine marcate, dar o hartă este totuși utilă.",
+          "Alocați suficient timp pentru ruinele castelului, sunt multe de explorat."
+        ],
+        "en": [
+          "Wear comfortable shoes as the terrain can be hilly.",
+          "Bring water, especially for the walk to Gutman's Cave.",
+          "Most paths are well-marked, but a map is still helpful.",
+          "Allow plenty of time for the castle ruins; there's a lot to explore."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Neues Schloss Sigulda & Burgruine",
+            "hu": "Siguldai Új Kastély és Várrom",
+            "ro": "Castelul Nou și Ruinele Cetății din Sigulda",
+            "en": "Sigulda New Castle & Castle Ruins"
+          },
+          "coords": [
+            24.852,
+            57.1655
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie beide historischen Stätten zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel mindkét történelmi helyet gyalog.",
+            "ro": "Parcați bicicleta și explorați ambele situri istorice pe jos.",
+            "en": "Park your bike and explore both historic sites on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Gutmannshöhle",
+            "hu": "Gutman-barlang",
+            "ro": "Peștera lui Gutman",
+            "en": "Gutman's Cave"
+          },
+          "coords": [
+            24.8421,
+            57.1685
+          ],
+          "category": "natural features",
+          "arrive_at": "11:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Weg hinunter zur Höhle kann steil sein, seien Sie vorsichtig mit dem Fahrrad.",
+            "hu": "A barlanghoz levezető út meredek lehet, legyen óvatos a kerékpárral.",
+            "ro": "Calea spre peșteră poate fi abruptă, fiți precauți cu bicicleta.",
+            "en": "The path down to the cave can be steep, be careful with your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Krimulda-Herrenhaus",
+            "hu": "Krimuldai udvarház",
+            "ro": "Conacul Krimulda",
+            "en": "Krimulda Manor"
+          },
+          "coords": [
+            24.83,
+            57.171
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Mittagspause mit Blick über das Tal.",
+            "hu": "Szép hely egy ebédszünetre, kilátással a völgyre.",
+            "ro": "Un loc frumos pentru o pauză de prânz cu vedere la vale.",
+            "en": "A beautiful place for a lunch break with a view over the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Gauja-Brücke",
+            "hu": "Gauja-híd",
+            "ro": "Podul Gauja",
+            "en": "Gauja Bridge"
+          },
+          "coords": [
+            24.84,
+            57.152
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:34",
+          "stay_min": 20,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke und genießen Sie die Aussicht auf den Fluss.",
+            "hu": "Keresztül a hídon, élvezze a folyóra nyíló kilátást.",
+            "ro": "Traversați podul și bucurați-vă de priveliștea asupra râului.",
+            "en": "Cross the bridge and enjoy the view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Bobbahn Sigulda",
+            "hu": "Siguldai Bobpálya",
+            "ro": "Pista de bob Sigulda",
+            "en": "Sigulda Bobsleigh Track"
+          },
+          "coords": [
+            24.838,
+            57.147
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Im Sommer kann man mit einem 'Sommerbob' die Bahn hinunterfahren.",
+            "hu": "Nyáron egy 'nyári bobbal' lehet lecsúszni a pályán.",
+            "ro": "Vara, puteți coborî pe pistă cu un 'bob de vară'.",
+            "en": "In summer, you can go down the track with a 'summer bob'."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausklang im Spazierstock-Park",
+            "hu": "Levezetés a Sétabot Parkban",
+            "ro": "Relaxare în Parcul Bastoanelor",
+            "en": "Relaxing in the Walking Stick Park"
+          },
+          "coords": [
+            24.8511,
+            57.1532
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein entspannter Ort, um die Erlebnisse des Tages Revue passieren zu lassen.",
+            "hu": "Pihentető hely a nap élményeinek áttekintésére.",
+            "ro": "Un loc relaxant pentru a rememora experiențele zilei.",
+            "en": "A relaxing place to reflect on the day's experiences."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie bei den historischen Juwelen Siguldas, dem Schloss und der Burgruine. Von dort aus radeln Sie durch den Wald zur mystischen Gutmannshöhle. Am Mittag erklimmen Sie den Hügel zum Krimulda-Herrenhaus für eine wohlverdiente Pause. Nachmittags geht es bergab über die Gauja-Brücke und dann mit einem Adrenalinkick die Bobbahn hinunter. Beenden Sie Ihre sportliche Tour entspannt im Spazierstock-Park im Herzen der Stadt.",
+        "hu": "Pattanjon kerékpárra, és induljon Sigulda történelmi gyöngyszemeihez, a kastélyhoz és a várromhoz. Innen tekerjen át az erdőn a misztikus Gutman-barlanghoz. Délben másszon fel a dombra a Krimulda udvarházhoz egy jól megérdemelt pihenőre. Délután lefelé vezet az út a Gauja-hídon át, majd egy adrenalinlöket következik a bobpályán. Zárja sportos túráját pihenéssel a város szívében található Sétabot Parkban.",
+        "ro": "Urcați-vă pe bicicletă și porniți spre bijuteriile istorice ale Siguldei, castelul și ruinele cetății. De acolo, pedalați prin pădure până la mistica Peșteră a lui Gutman. La prânz, urcați dealul spre Conacul Krimulda pentru o pauză binemeritată. După-amiaza, coborâți peste Podul Gauja și apoi simțiți adrenalina pe pista de bob. Încheiați-vă turul sportiv relaxându-vă în Parcul Bastoanelor din inima orașului.",
+        "en": "Get on your bike and start at Sigulda's historical jewels, the castle and the castle ruins. From there, cycle through the forest to the mystical Gutman's Cave. At noon, climb the hill to Krimulda Manor for a well-deserved break. In the afternoon, it's downhill across the Gauja Bridge and then an adrenaline rush on the bobsleigh track. End your sporty tour with a relaxing time in the Walking Stick Park in the heart of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kvass",
+            "tip": "Ein fermentiertes, leicht alkoholisches Getränk, perfekt nach einer Radtour."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "Ein süßer oder herzhafter Karotten- und Kartoffelkuchen."
+          },
+          {
+            "name": "Restaurant im Krimulda-Herrenhaus",
+            "tip": "Bietet oft saisonale und lokale Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kvasz",
+            "tip": "Erjesztett, enyhén alkoholos ital, tökéletes egy kerékpártúra után."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "Édes vagy sós sárgarépa- és burgonyapite."
+          },
+          {
+            "name": "Étterem a Krimulda udvarházban",
+            "tip": "Gyakran kínál szezonális és helyi ételeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cvas",
+            "tip": "O băutură fermentată, ușor alcoolizată, perfectă după o tură cu bicicleta."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "O plăcintă dulce sau sărată cu morcovi și cartofi."
+          },
+          {
+            "name": "Restaurant la Conacul Krimulda",
+            "tip": "Oferă adesea mâncăruri de sezon și locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kvass",
+            "tip": "A fermented, slightly alcoholic beverage, perfect after a bike ride."
+          },
+          {
+            "name": "Sklandrausis",
+            "tip": "A sweet or savory carrot and potato pie."
+          },
+          {
+            "name": "Restaurant at Krimulda Manor",
+            "tip": "Often offers seasonal and local dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang der Gauja",
+            "tip": "Es gibt ruhige Abschnitte entlang des Flusses, ideal für eine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtsplattformen",
+            "tip": "Suchen Sie nach weniger bekannten Aussichtspunkten für einen Moment der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Gauja mentén",
+            "tip": "A folyó mentén csendes szakaszok találhatók, ideálisak egy pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátóteraszok",
+            "tip": "Keressen kevésbé ismert kilátópontokat egy csendes pillanatért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Gauja",
+            "tip": "Există secțiuni liniștite de-a lungul râului, ideale pentru o pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Platforme de observare",
+            "tip": "Căutați puncte de belvedere mai puțin cunoscute pentru un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle path along the Gauja River",
+            "tip": "There are quiet sections along the river, ideal for a break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewing platforms",
+            "tip": "Look for lesser-known viewpoints for a moment of peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig vom lokalen Imker",
+            "tip": "Die Wiesen um Sigulda liefern ausgezeichneten Honig."
+          },
+          {
+            "name": "Souvenirs an der Bobbahn",
+            "tip": "Einzigartige Andenken für Adrenalin-Junkies."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Méz helyi méhésztől",
+            "tip": "A Sigulda körüli rétek kiváló mézet adnak."
+          },
+          {
+            "name": "Szuvenírek a bobpályánál",
+            "tip": "Egyedi emléktárgyak az adrenalin-függőknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de la apicultorii locali",
+            "tip": "Pajiștile din jurul Siguldei oferă o miere excelentă."
+          },
+          {
+            "name": "Suveniruri la pista de bob",
+            "tip": "Amintiri unice pentru pasionații de adrenalină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Honey from a local beekeeper",
+            "tip": "The meadows around Sigulda provide excellent honey."
+          },
+          {
+            "name": "Souvenirs at the bobsleigh track",
+            "tip": "Unique mementos for adrenaline junkies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads, bevor Sie losfahren; einige Wege sind anspruchsvoll.",
+          "Ein Helm wird dringend empfohlen.",
+          "Viele Wege sind Mehrzweckwege, achten Sie auf Wanderer.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Sehenswürdigkeiten sicher abzustellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát; egyes utak kihívást jelentenek.",
+          "Sisak használata erősen ajánlott.",
+          "Sok ösvény többcélú, figyeljen a túrázókra.",
+          "Vigyen magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a látnivalóknál."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni; unele trasee sunt solicitante.",
+          "Casca este puternic recomandată.",
+          "Multe poteci sunt multifuncționale, aveți grijă la drumeți.",
+          "Luați un lacăt pentru a vă asigura bicicleta la obiectivele turistice."
+        ],
+        "en": [
+          "Check the condition of your bike before you go; some trails are demanding.",
+          "A helmet is strongly recommended.",
+          "Many paths are multi-purpose, watch out for hikers.",
+          "Bring a lock to secure your bike at the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Schlosskomplex",
+            "hu": "Parkoló a kastélykomplexumnál",
+            "ro": "Parcare la complexul castelului",
+            "en": "Parking at the Castle Complex"
+          },
+          "coords": [
+            24.854,
+            57.164
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Dies ist Ihr erster Cluster. Parken Sie hier und erkunden Sie die Umgebung zu Fuß.",
+            "hu": "Ez az első klaszter. Parkoljon le itt, és fedezze fel a környéket gyalog.",
+            "ro": "Acesta este primul dvs. cluster. Parcați aici și explorați zona pe jos.",
+            "en": "This is your first cluster. Park here and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Neues Schloss Sigulda",
+            "hu": "Siguldai Új Kastély",
+            "ro": "Castelul Nou din Sigulda",
+            "en": "Sigulda New Castle"
+          },
+          "coords": [
+            24.853,
+            57.1648
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:17",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die neugotische Architektur des Schlosses.",
+            "hu": "Élvezze a kastély neogótikus építészetét.",
+            "ro": "Bucurați-vă de arhitectura neogotică a castelului.",
+            "en": "Enjoy the neo-Gothic architecture of the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelalterliche Burgruine",
+            "hu": "Középkori Várrom",
+            "ro": "Ruinele Cetății Medievale",
+            "en": "Medieval Castle Ruins"
+          },
+          "coords": [
+            24.8515,
+            57.1662
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Ausblick von den Mauern ist die kurze Wanderung wert.",
+            "hu": "A falakról nyíló kilátás megéri a rövid sétát.",
+            "ro": "Priveliștea de pe ziduri merită scurta plimbare.",
+            "en": "The view from the walls is worth the short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz bei der Gutmannshöhle",
+            "hu": "Parkoló a Gutman-barlangnál",
+            "ro": "Parcare la Peștera lui Gutman",
+            "en": "Parking at Gutman's Cave"
+          },
+          "coords": [
+            24.841,
+            57.169
+          ],
+          "category": "natural features",
+          "arrive_at": "12:08",
+          "stay_min": 5,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zweiter Cluster. Von hier aus erkunden Sie das Gauja-Ufer.",
+            "hu": "Második klaszter. Innen fedezze fel a Gauja partját.",
+            "ro": "Al doilea cluster. De aici, explorați malul râului Gauja.",
+            "en": "Second cluster. From here, explore the Gauja riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Gutmannshöhle",
+            "hu": "Gutman-barlang",
+            "ro": "Peștera lui Gutman",
+            "en": "Gutman's Cave"
+          },
+          "coords": [
+            24.8421,
+            57.1685
+          ],
+          "category": "natural features",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die Legenden zu lesen, die mit der Höhle verbunden sind.",
+            "hu": "Szánjon időt a barlanghoz kapcsolódó legendák elolvasására.",
+            "ro": "Luați-vă timp să citiți legendele asociate cu peștera.",
+            "en": "Take your time to read the legends associated with the cave."
+          }
+        },
+        {
+          "name": {
+            "de": "Bobbahn Sigulda",
+            "hu": "Siguldai Bobpálya",
+            "ro": "Pista de bob Sigulda",
+            "en": "Sigulda Bobsleigh Track"
+          },
+          "coords": [
+            24.838,
+            57.147
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:01",
+          "stay_min": 120,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Prüfen Sie im Voraus die Öffnungszeiten für Touristenfahrten.",
+            "hu": "Előzetesen ellenőrizze a turista menetek nyitvatartási idejét.",
+            "ro": "Verificați în avans programul pentru cursele turistice.",
+            "en": "Check the opening times for tourist rides in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag mit dem Auto am Schlosskomplex von Sigulda. Nach dem Parken erkunden Sie zu Fuß das prächtige Neue Schloss und die historischen Burgruinen. Am späten Vormittag fahren Sie zum nächsten Cluster, der Gutmannshöhle, wo Sie nach einem kurzen Spaziergang die beeindruckende Grotte erreichen und am Fluss zu Mittag essen. Der Nachmittag ist dem Adrenalin gewidmet: Eine kurze Fahrt bringt Sie zur Bobbahn für ein unvergessliches Erlebnis, bevor Sie die Rückreise antreten.",
+        "hu": "Kezdje a napot autóval a siguldai kastélykomplexumnál. Parkolás után fedezze fel gyalog a csodálatos Új Kastélyt és a történelmi várromokat. Késő délelőtt vezessen a következő klaszterhez, a Gutman-barlanghoz, ahol egy rövid séta után eléri a lenyűgöző barlangot és megebédel a folyóparton. A délután az adrenaliné: egy rövid autózás a bobpályához vezet egy felejthetetlen élményért, mielőtt visszaindulna.",
+        "ro": "Începeți ziua cu mașina la complexul castelului din Sigulda. După parcare, explorați pe jos magnificul Castel Nou și ruinele istorice ale cetății. Spre sfârșitul dimineții, conduceți spre următorul cluster, Peștera lui Gutman, unde ajungeți la grota impresionantă după o scurtă plimbare și luați prânzul pe malul râului. După-amiaza este dedicată adrenalinei: o scurtă călătorie cu mașina vă duce la pista de bob pentru o experiență de neuitat înainte de a vă întoarce.",
+        "en": "Start your day by car at the Sigulda castle complex. After parking, explore the magnificent New Castle and the historic castle ruins on foot. In the late morning, drive to the next cluster, Gutman's Cave, where a short walk takes you to the impressive grotto for lunch by the river. The afternoon is dedicated to adrenaline: a short drive takes you to the bobsleigh track for an unforgettable experience before you head back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick am Gauja-Fluss",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie ein Mittagessen in der Natur."
+          },
+          {
+            "name": "Šašliks",
+            "tip": "Gegrillte Fleischspieße, ein beliebter Snack in der Region."
+          },
+          {
+            "name": "Kārums",
+            "tip": "Ein Quarkriegel, der perfekte süße Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a Gauja folyónál",
+            "tip": "Vásároljon helyi termékeket, és ebédeljen a természetben."
+          },
+          {
+            "name": "Saslik",
+            "tip": "Grillezett húsnyárs, népszerű harapnivaló a régióban."
+          },
+          {
+            "name": "Kārums",
+            "tip": "Túrószelet, a tökéletes édes snack útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic pe malul râului Gauja",
+            "tip": "Cumpărați produse locale și bucurați-vă de un prânz în natură."
+          },
+          {
+            "name": "Șașlâc",
+            "tip": "Frigărui de carne la grătar, o gustare populară în regiune."
+          },
+          {
+            "name": "Kārums",
+            "tip": "Un baton de brânză de vaci, gustarea dulce perfectă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic by the Gauja River",
+            "tip": "Buy local produce and enjoy lunch in nature."
+          },
+          {
+            "name": "Shashlik",
+            "tip": "Grilled meat skewers, a popular snack in the region."
+          },
+          {
+            "name": "Kārums",
+            "tip": "A curd snack, the perfect sweet treat on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Krimulda-Herrenhaus Park",
+            "tip": "Eine kurze Autofahrt entfernt, bietet der Park eine ruhige Atmosphäre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wanderwege im Gauja-Nationalpark",
+            "tip": "Parken Sie das Auto und machen Sie einen kurzen Spaziergang auf einem der vielen Wege.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krimulda udvarház parkja",
+            "tip": "Egy rövid autóútra található, a park csendes légkört kínál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Túraútvonalak a Gauja Nemzeti Parkban",
+            "tip": "Parkolja le az autót, és tegyen egy rövid sétát a sok ösvény egyikén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Conacului Krimulda",
+            "tip": "La o scurtă distanță cu mașina, parcul oferă o atmosferă liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Trasee de drumeție în Parcul Național Gauja",
+            "tip": "Parcați mașina și faceți o scurtă plimbare pe una dintre numeroasele poteci.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Krimulda Manor Park",
+            "tip": "A short drive away, the park offers a peaceful atmosphere.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hiking trails in Gauja National Park",
+            "tip": "Park the car and take a short walk on one of the many trails.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt in Sigulda",
+            "tip": "Suchen Sie nach frischen Produkten und lokalen Spezialitäten."
+          },
+          {
+            "name": "Handgefertigte Holzarbeiten",
+            "tip": "Die Region ist bekannt für ihre Holzschnitzereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac Siguldában",
+            "tip": "Keressen friss termékeket és helyi specialitásokat."
+          },
+          {
+            "name": "Kézzel készített famunkák",
+            "tip": "A régió fafaragásairól ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Sigulda",
+            "tip": "Căutați produse proaspete și specialități locale."
+          },
+          {
+            "name": "Artizanat din lemn",
+            "tip": "Regiunea este cunoscută pentru sculpturile sale în lemn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market in Sigulda",
+            "tip": "Look for fresh produce and local specialties."
+          },
+          {
+            "name": "Handmade wooden crafts",
+            "tip": "The region is known for its wood carvings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkgebühren an den beliebten Sehenswürdigkeiten.",
+          "Die Straßen im Gauja-Nationalpark können eng und kurvig sein.",
+          "Planen Sie Ihre Route im Voraus, da der Mobilfunkempfang lückenhaft sein kann.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch abgelegenere Orte zu besuchen."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra a népszerű látnivalóknál.",
+          "A Gauja Nemzeti Park útjai szűkek és kanyargósak lehetnek.",
+          "Tervezze meg előre az útvonalat, mivel a mobil lefedettség hiányos lehet.",
+          "Az autó rugalmasságot ad a távolabbi helyek meglátogatásához is."
+        ],
+        "ro": [
+          "Fiți atenți la taxele de parcare la obiectivele turistice populare.",
+          "Drumurile din Parcul Național Gauja pot fi înguste și șerpuite.",
+          "Planificați-vă ruta în avans, deoarece semnalul mobil poate fi slab.",
+          "O mașină vă oferă flexibilitatea de a vizita și locuri mai îndepărtate."
+        ],
+        "en": [
+          "Be aware of parking fees at popular sights.",
+          "The roads in Gauja National Park can be narrow and winding.",
+          "Plan your route in advance as mobile reception can be patchy.",
+          "A car gives you the flexibility to visit more remote places."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Sigulda (Ankunft)",
+            "hu": "Sigulda buszpályaudvar (Érkezés)",
+            "ro": "Autogara Sigulda (Sosire)",
+            "en": "Sigulda Bus Station (Arrival)"
+          },
+          "coords": [
+            24.856,
+            57.153
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Informieren Sie sich hier über die lokalen Buslinien für Ihren Tag.",
+            "hu": "Itt tájékozódjon a helyi buszjáratokról a napjára.",
+            "ro": "Informați-vă aici despre liniile locale de autobuz pentru ziua dvs.",
+            "en": "Get information about local bus routes for your day here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spazierstock-Park",
+            "hu": "Sétabot Park",
+            "ro": "Parcul Bastoanelor",
+            "en": "Walking Stick Park"
+          },
+          "coords": [
+            24.8511,
+            57.1532
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof, um den Tag zu beginnen.",
+            "hu": "Egy rövid séta a buszpályaudvartól a nap kezdéséhez.",
+            "ro": "O scurtă plimbare de la autogară pentru a începe ziua.",
+            "en": "A short walk from the bus station to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Neues Schloss & Burgruine",
+            "hu": "Új Kastély és Várrom",
+            "ro": "Castelul Nou și Ruinele Cetății",
+            "en": "New Castle & Castle Ruins"
+          },
+          "coords": [
+            24.852,
+            57.1655
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:33",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Hauptattraktionen liegen nahe beieinander und sind leicht zu Fuß erreichbar.",
+            "hu": "Ez a két fő látnivaló közel van egymáshoz és könnyen megközelíthető gyalog.",
+            "ro": "Aceste două atracții principale sunt apropiate și ușor accesibile pe jos.",
+            "en": "These two main attractions are close to each other and easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle bei der Seilbahn",
+            "hu": "Buszmegálló a felvonónál",
+            "ro": "Stația de autobuz de la telecabină",
+            "en": "Bus stop at the Cable Car"
+          },
+          "coords": [
+            24.848,
+            57.167
+          ],
+          "category": "transport",
+          "arrive_at": "12:53",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus, um ins Tal zu gelangen und die Beine zu schonen.",
+            "hu": "Menjen busszal a völgybe, hogy kímélje a lábát.",
+            "ro": "Luați autobuzul pentru a ajunge în vale și a vă odihni picioarele.",
+            "en": "Take the bus to get down to the valley and save your legs."
+          }
+        },
+        {
+          "name": {
+            "de": "Gutmannshöhle",
+            "hu": "Gutman-barlang",
+            "ro": "Peștera lui Gutman",
+            "en": "Gutman's Cave"
+          },
+          "coords": [
+            24.8421,
+            57.1685
+          ],
+          "category": "natural features",
+          "arrive_at": "13:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von der Haltestelle ist es ein kurzer Spaziergang zur Höhle.",
+            "hu": "A megállótól rövid séta vezet a barlanghoz.",
+            "ro": "De la stație este o scurtă plimbare până la peșteră.",
+            "en": "It's a short walk from the bus stop to the cave."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Stadtzentrum",
+            "hu": "Visszatérés a városközpontba",
+            "ro": "Întoarcere în centrul orașului",
+            "en": "Return to the city center"
+          },
+          "coords": [
+            24.8522,
+            57.1545
+          ],
+          "category": "gastro",
+          "arrive_at": "15:53",
+          "stay_min": 120,
+          "hop_from_prev_min": 65,
+          "hop_from_prev_km": 2.7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum für ein spätes Mittagessen oder ein frühes Abendessen.",
+            "hu": "Menjen busszal vissza a központba egy késői ebédre vagy korai vacsorára.",
+            "ro": "Luați un autobuz înapoi în centru pentru un prânz târziu sau o cină devreme.",
+            "en": "Take a bus back to the center for a late lunch or an early dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Busbahnhof, von wo aus Sie zu Fuß den Spazierstock-Park und den historischen Schlosskomplex erkunden. Am Vormittag erleben Sie die Geschichte Siguldas hautnah. Zur Mittagszeit nehmen Sie einen Bus hinunter ins Tal, um die berühmte Gutmannshöhle zu besuchen. Ein weiterer Bus bringt Sie am Nachmittag bequem zurück ins Stadtzentrum, wo Sie den Tag in einem der lokalen Restaurants ausklingen lassen können.",
+        "hu": "A nap a buszpályaudvaron kezdődik, ahonnan gyalogosan fedezi fel a Sétabot Parkot és a történelmi kastélykomplexumot. Délelőtt testközelből éli át Sigulda történelmét. Ebédidőben busszal jut le a völgybe, hogy meglátogassa a híres Gutman-barlangot. Délután egy másik busz kényelmesen visszaviszi a városközpontba, ahol a helyi éttermek egyikében zárhatja a napot.",
+        "ro": "Ziua dvs. începe la autogară, de unde explorați pe jos Parcul Bastoanelor și complexul istoric al castelului. Dimineața, experimentați istoria Siguldei de aproape. La prânz, luați un autobuz în vale pentru a vizita faimoasa Peșteră a lui Gutman. Un alt autobuz vă duce confortabil înapoi în centrul orașului după-amiaza, unde puteți încheia ziua la unul dintre restaurantele locale.",
+        "en": "Your day begins at the bus station, from where you'll explore the Walking Stick Park and the historic castle complex on foot. In the morning, you'll experience Sigulda's history up close. At lunchtime, you'll take a bus down to the valley to visit the famous Gutman's Cave. Another bus will conveniently take you back to the city center in the afternoon, where you can end the day at one of the local restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cafés im Stadtzentrum",
+            "tip": "Perfekt für eine Kaffeepause, bevor Sie den Bus nehmen."
+          },
+          {
+            "name": "Pīrāgi",
+            "tip": "Kleine mit Speck und Zwiebeln gefüllte Teigtaschen, ideal für unterwegs."
+          },
+          {
+            "name": "Lettisches Bier",
+            "tip": "Probieren Sie eine lokale Brauerei, um den Tag abzurunden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézók a városközpontban",
+            "tip": "Tökéletes egy kávészünetre, mielőtt buszra szállna."
+          },
+          {
+            "name": "Pīrāgi",
+            "tip": "Szalonnával és hagymával töltött kis táskák, ideális útközben."
+          },
+          {
+            "name": "Lett sör",
+            "tip": "Kóstoljon meg egy helyi főzdét a nap lezárásaként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele în centrul orașului",
+            "tip": "Perfect pentru o pauză de cafea înainte de a lua autobuzul."
+          },
+          {
+            "name": "Pīrāgi",
+            "tip": "Găluște mici umplute cu șuncă și ceapă, ideale pentru drum."
+          },
+          {
+            "name": "Bere letonă",
+            "tip": "Încercați o bere locală pentru a încheia ziua."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cafes in the city center",
+            "tip": "Perfect for a coffee break before taking the bus."
+          },
+          {
+            "name": "Pīrāgi",
+            "tip": "Small pastries filled with bacon and onion, ideal for on the go."
+          },
+          {
+            "name": "Latvian beer",
+            "tip": "Try a local brewery to round off the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick von der Seilbahnstation",
+            "tip": "Auch ohne Fahrt bietet die Station einen tollen, ruhigen Ausblick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof neben der alten Kirche",
+            "tip": "Ein Ort der Stille und Geschichte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a felvonó állomásáról",
+            "tip": "Utazás nélkül is remek, csendes kilátást nyújt az állomás.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Temető a régi templom mellett",
+            "tip": "A csend és a történelem helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la stația de telecabină",
+            "tip": "Chiar și fără o călătorie, stația oferă o priveliște superbă și liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de lângă biserica veche",
+            "tip": "Un loc de liniște și istorie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the cable car station",
+            "tip": "Even without a ride, the station offers a great, quiet view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery next to the old church",
+            "tip": "A place of silence and history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen an der Burgruine",
+            "tip": "Bietet eine gute Auswahl an historischen Andenken."
+          },
+          {
+            "name": "Lokale Supermärkte",
+            "tip": "Kaufen Sie lettische Schokolade und Snacks für zu Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírbolt a várromnál",
+            "tip": "Jó választékot kínál történelmi emléktárgyakból."
+          },
+          {
+            "name": "Helyi szupermarketek",
+            "tip": "Vásároljon lett csokoládét és rágcsálnivalókat otthonra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri la ruinele cetății",
+            "tip": "Oferă o selecție bună de suveniruri istorice."
+          },
+          {
+            "name": "Supermarketuri locale",
+            "tip": "Cumpărați ciocolată și gustări letone pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop at the castle ruins",
+            "tip": "Offers a good selection of historical mementos."
+          },
+          {
+            "name": "Local supermarkets",
+            "tip": "Buy Latvian chocolate and snacks to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse nicht sehr häufig fahren.",
+          "Die meisten Sehenswürdigkeiten erfordern nach der Busfahrt noch einen kurzen Spaziergang.",
+          "Haben Sie Kleingeld für Bustickets bereit, falls Kartenzahlung nicht möglich ist."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Előre ellenőrizze a buszmenetrendet, mivel a buszok nem túl sűrűn járnak.",
+          "A legtöbb látnivaló a buszozás után még egy rövid sétát igényel.",
+          "Legyen nálad aprópénz a buszjegyekhez, ha a kártyás fizetés nem lehetséges."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, deoarece acestea nu circulă foarte frecvent.",
+          "Majoritatea atracțiilor necesită o scurtă plimbare după călătoria cu autobuzul.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz, în cazul în care plata cu cardul nu este posibilă."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making several trips.",
+          "Check the bus schedule in advance, as buses may not run very frequently.",
+          "Most sights still require a short walk after the bus ride.",
+          "Have small change ready for bus tickets in case card payment is not possible."
+        ]
+      }
+    }
+  }
+}

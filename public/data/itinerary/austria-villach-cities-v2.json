@@ -1,0 +1,1431 @@
+{
+  "city_id": "austria-villach-cities-v2",
+  "anchor": {
+    "name": "Villach",
+    "coords": [
+      13.8558,
+      46.6111
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz",
+            "hu": "Főtér",
+            "ro": "Piața Principală",
+            "en": "Main Square"
+          },
+          "coords": [
+            13.8462,
+            46.6145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der vielen Cafés und beobachten Sie das Treiben.",
+            "hu": "Indítsa a napot egy kávéval a számos kávézó egyikében, és figyelje a város ébredését.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele și priviți agitația orașului.",
+            "en": "Start your day with a coffee at one of the many cafes and watch the city life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Jakob",
+            "hu": "Szent Jakab-plébániatemplom",
+            "ro": "Biserica parohială Sf. Iacob",
+            "en": "Parish Church of St. James"
+          },
+          "coords": [
+            13.8455,
+            46.6138
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine atemberaubende Aussicht über die Dächer von Villach.",
+            "hu": "Másszon fel a toronyba a lélegzetelállító kilátásért Villach háztetői felett.",
+            "ro": "Urcați în turn pentru o priveliște uluitoare asupra acoperișurilor din Villach.",
+            "en": "Climb the tower for a breathtaking view over the rooftops of Villach."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Villach",
+            "hu": "Villachi Városi Múzeum",
+            "ro": "Muzeul Municipal Villach",
+            "en": "Villach City Museum"
+          },
+          "coords": [
+            13.8441,
+            46.6152
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte Villachs, von der Römerzeit bis zur Gegenwart.",
+            "hu": "Fedezze fel Villach gazdag történelmét, a római kortól napjainkig.",
+            "ro": "Descoperiți istoria bogată a Villachului, din timpurile romane până în prezent.",
+            "en": "Discover the rich history of Villach, from Roman times to the present day."
+          }
+        },
+        {
+          "name": {
+            "de": "Draupromenade",
+            "hu": "Dráva-sétány",
+            "ro": "Promenada Drava",
+            "en": "Drava Promenade"
+          },
+          "coords": [
+            13.8488,
+            46.6125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für einen entspannten Mittagsspaziergang und ein Mittagessen am Flussufer.",
+            "hu": "Ideális hely egy pihentető ebéd utáni sétához és egy ebédhez a folyóparton.",
+            "ro": "Un loc ideal pentru o plimbare relaxantă de prânz și un prânz pe malul râului.",
+            "en": "An ideal spot for a relaxing lunch walk and a meal by the riverside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Fahrzeuggeschichte",
+            "hu": "Járműtörténeti Múzeum",
+            "ro": "Muzeul Istoriei Vehiculelor",
+            "en": "Museum of Vehicle History"
+          },
+          "coords": [
+            13.8321,
+            46.6167
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein Muss für alle Auto- und Motorrad-Enthusiasten mit Exponaten aus über 70 Jahren.",
+            "hu": "Kötelező látnivaló az autók és motorkerékpárok szerelmeseinek, több mint 70 év kiállítási tárgyaival.",
+            "ro": "O vizită obligatorie pentru toți pasionații de mașini și motociclete, cu exponate de peste 70 de ani.",
+            "en": "A must-see for all car and motorcycle enthusiasts, with exhibits spanning over 70 years."
+          }
+        },
+        {
+          "name": {
+            "de": "Schillerpark",
+            "hu": "Schiller-park",
+            "ro": "Parcul Schiller",
+            "en": "Schiller Park"
+          },
+          "coords": [
+            13.8405,
+            46.6085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Finden Sie die Schiller-Statue und genießen Sie die ruhige Atmosphäre dieser grünen Oase.",
+            "hu": "Keresse meg Schiller szobrát, és élvezze a zöld oázis csendes hangulatát.",
+            "ro": "Găsiți statuia lui Schiller și bucurați-vă de atmosfera liniștită a acestei oaze de verdeață.",
+            "en": "Find the Schiller statue and enjoy the peaceful atmosphere of this green oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Relief von Kärnten",
+            "hu": "Karintia-dombormű",
+            "ro": "Relieful Carintiei",
+            "en": "Relief of Carinthia"
+          },
+          "coords": [
+            13.8415,
+            46.608
+          ],
+          "category": "museums",
+          "arrive_at": "16:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie Europas größte Landschaftsplastik und planen Sie Ihren nächsten Ausflug in Kärnten.",
+            "hu": "Csodálja meg Európa legnagyobb tájplasztikáját és tervezze meg következő karintiai kirándulását.",
+            "ro": "Admirați cea mai mare sculptură peisagistică din Europa și planificați-vă următoarea excursie în Carintia.",
+            "en": "Admire Europe's largest landscape sculpture and plan your next trip in Carinthia."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am belebten Hauptplatz, dem Herzen von Villach. Spüren Sie die Geschichte bei einem Besuch der Stadtpfarrkirche St. Jakob und erklimmen Sie deren Turm. Am Vormittag tauchen Sie im Stadtmuseum tief in die lokale Vergangenheit ein. Nach einem Spaziergang entlang der Drau und einem entspannten Mittagessen geht es zu technischen Wundern im Fahrzeugmuseum. Am Nachmittag finden Sie Ruhe im Schillerpark, bevor Sie den Tag mit dem beeindruckenden Kärnten-Relief abschließen, das Ihnen die ganze Region zu Füßen legt.",
+        "hu": "Kezdje a napot Villach szívében, a nyüzsgő Főtéren. Érezze a történelem szellemét a Szent Jakab-plébániatemplomban, és másszon fel a tornyába. Délelőtt merüljön el a helyi múltban a Városi Múzeumban. A Dráva-parti séta és egy kellemes ebéd után a Járműmúzeum technikai csodái várják. Délután pihenjen a Schiller-parkban, majd zárja a napot a lenyűgöző Karintia-domborművel, amely az egész régiót a lábai elé tárja.",
+        "ro": "Începeți ziua în inima orașului Villach, în Piața Principală plină de viață. Simțiți istoria vizitând Biserica Parohială Sf. Iacob și urcând în turnul ei. Dimineața, aprofundați trecutul local la Muzeul Municipal. După o plimbare de-a lungul Drava și un prânz relaxant, explorați minunile tehnice la Muzeul Vehiculelor. După-amiaza, găsiți liniștea în Parcul Schiller înainte de a încheia ziua cu impresionantul Relief al Carintiei, care așterne întreaga regiune la picioarele dumneavoastră.",
+        "en": "Start your day in the heart of Villach at the bustling Main Square. Feel the history with a visit to St. James' Parish Church and climb its tower. In the morning, delve deep into the local past at the City Museum. After a stroll along the Drava promenade and a relaxing lunch, head to the technical wonders at the Vehicle Museum. In the afternoon, find peace in Schiller Park before ending the day with the impressive Relief of Carinthia, which lays the entire region at your feet."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kärntner Kasnudeln",
+            "tip": "Probieren Sie diese traditionellen Teigtaschen mit Topfenfüllung, ein Muss in Kärnten."
+          },
+          {
+            "name": "Gailtaler Speck",
+            "tip": "Genießen Sie diesen luftgetrockneten Schinken, oft auf einer Jausenplatte serviert."
+          },
+          {
+            "name": "Villacher Bier",
+            "tip": "Ein kühles, lokales Bier ist die perfekte Erfrischung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karintiai túrós tészta (Kasnudeln)",
+            "tip": "Kóstolja meg ezt a hagyományos, túróval töltött tésztát, ami Karintia kihagyhatatlan étele."
+          },
+          {
+            "name": "Gailtali szalonna",
+            "tip": "Élvezze ezt a levegőn szárított sonkát, amelyet gyakran uzsonnás tálon szolgálnak fel."
+          },
+          {
+            "name": "Villachi sör",
+            "tip": "Egy hűvös, helyi sör tökéletes frissítő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Găluște cu brânză din Carintia (Kasnudeln)",
+            "tip": "Încercați aceste găluște tradiționale umplute cu brânză de vaci, o specialitate obligatorie în Carintia."
+          },
+          {
+            "name": "Șuncă din Gailtal",
+            "tip": "Savurați această șuncă uscată la aer, adesea servită pe un platou de gustări."
+          },
+          {
+            "name": "Berea Villacher",
+            "tip": "O bere locală rece este răcorirea perfectă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carinthian Cheese Noodles (Kasnudeln)",
+            "tip": "Try these traditional dumplings filled with curd cheese, a must-eat in Carinthia."
+          },
+          {
+            "name": "Gailtal Bacon",
+            "tip": "Enjoy this air-dried ham, often served on a snack platter."
+          },
+          {
+            "name": "Villacher Beer",
+            "tip": "A cold, local beer is the perfect refreshment."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Draupromenade",
+            "tip": "Ein Spaziergang am Flussufer beruhigt die Seele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schillerpark",
+            "tip": "Eine grüne Oase der Ruhe mitten in der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Warmbad Villach",
+            "tip": "Entspannen Sie in den Thermalquellen etwas außerhalb des Zentrums.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dráva-sétány",
+            "tip": "Egy séta a folyóparton megnyugtatja a lelket.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schiller-park",
+            "tip": "A nyugalom zöld oázisa a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Warmbad Villach",
+            "tip": "Pihenjen a termálforrásokban, kissé a központon kívül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Drava",
+            "tip": "O plimbare pe malul râului calmează sufletul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Schiller",
+            "tip": "O oază verde de liniște în mijlocul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Warmbad Villach",
+            "tip": "Relaxați-vă în izvoarele termale situate puțin în afara centrului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drava Promenade",
+            "tip": "A walk along the riverbank soothes the soul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schiller Park",
+            "tip": "A green oasis of calm in the middle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Warmbad Villach",
+            "tip": "Relax in the thermal springs just outside the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie den Markt am Burgplatz für lokale Produkte und Handwerk."
+          },
+          {
+            "name": "Kärntner Heimatwerk",
+            "tip": "Finden Sie authentische Trachten und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el a Burgplatzon található piacra helyi termékekért és kézműves árukért."
+          },
+          {
+            "name": "Karintiai Népművészeti Bolt",
+            "tip": "Találjon itt autentikus népviseletet és szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați piața din Burgplatz pentru produse locale și artizanat."
+          },
+          {
+            "name": "Magazin de artizanat carintian",
+            "tip": "Găsiți costume tradiționale autentice și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the market at Burgplatz for local products and crafts."
+          },
+          {
+            "name": "Carinthian Craft Store",
+            "tip": "Find authentic traditional costumes and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Villachs Innenstadt ist kompakt und sehr fußgängerfreundlich.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, besonders außerhalb der Hauptsaison."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Villach belvárosa kompakt és nagyon gyalogosbarát.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, különösen a főszezonon kívül."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi pe picioare toată ziua.",
+          "Centrul orașului Villach este compact și foarte prietenos cu pietonii.",
+          "Verificați în avans orele de deschidere ale muzeelor, mai ales în afara sezonului de vârf."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "Villach's city center is compact and very pedestrian-friendly.",
+          "Check the opening hours of the museums in advance, especially outside the main season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz & Start",
+            "hu": "Főtér és Indulás",
+            "ro": "Piața Principală și Start",
+            "en": "Main Square & Start"
+          },
+          "coords": [
+            13.8462,
+            46.6145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Fahrrad und starten Sie die Tour im Herzen der Stadt.",
+            "hu": "Vegye fel a kerékpárját, és kezdje a túrát a város szívében.",
+            "ro": "Luați-vă bicicleta și începeți turul în inima orașului.",
+            "en": "Get your bike and start the tour in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Jakob",
+            "hu": "Szent Jakab-plébániatemplom",
+            "ro": "Biserica parohială Sf. Iacob",
+            "en": "Parish Church of St. James"
+          },
+          "coords": [
+            13.8455,
+            46.6138
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie den Kirchturm besteigen.",
+            "hu": "Biztonságosan zárja le a kerékpárt, mielőtt felmenne a templomtoronyba.",
+            "ro": "Parcați-vă bicicleta în siguranță înainte de a urca în turnul bisericii.",
+            "en": "Securely park your bike before climbing the church tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Draupromenade",
+            "hu": "Dráva-sétány",
+            "ro": "Promenada Drava",
+            "en": "Drava Promenade"
+          },
+          "coords": [
+            13.8488,
+            46.6125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:07",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie eine leichte Fahrt entlang des Flusses auf dem Drauradweg.",
+            "hu": "Élvezze a könnyed tekerést a folyó mentén a Dráva kerékpárúton.",
+            "ro": "Bucurați-vă de o plimbare ușoară de-a lungul râului pe pista de biciclete Drava.",
+            "en": "Enjoy an easy ride along the river on the Drava cycle path."
+          }
+        },
+        {
+          "name": {
+            "de": "Warmbad Villach",
+            "hu": "Warmbad Villach",
+            "ro": "Warmbad Villach",
+            "en": "Warmbad Villach"
+          },
+          "coords": [
+            13.845,
+            46.589
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:47",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für ein Bad im Thermalwasser oder einen Spaziergang im Kurpark.",
+            "hu": "Szánjon időt egy fürdőzésre a termálvízben vagy egy sétára a gyógyparkban.",
+            "ro": "Luați-vă timp pentru o baie în apa termală sau o plimbare în parcul spa.",
+            "en": "Take time for a dip in the thermal water or a walk in the spa park."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Fahrzeuggeschichte",
+            "hu": "Járműtörténeti Múzeum",
+            "ro": "Muzeul Istoriei Vehiculelor",
+            "en": "Museum of Vehicle History"
+          },
+          "coords": [
+            13.8321,
+            46.6167
+          ],
+          "category": "museums",
+          "arrive_at": "14:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nach der Entspannung geht es zu den PS-starken Klassikern. Ein interessanter Kontrast!",
+            "hu": "A pihenés után jöhetnek a lóerős klasszikusok. Érdekes kontraszt!",
+            "ro": "După relaxare, este timpul pentru clasicii puternici. Un contrast interesant!",
+            "en": "After relaxing, it's time for the high-horsepower classics. An interesting contrast!"
+          }
+        },
+        {
+          "name": {
+            "de": "Schillerpark",
+            "hu": "Schiller-park",
+            "ro": "Parcul Schiller",
+            "en": "Schiller Park"
+          },
+          "coords": [
+            13.8405,
+            46.6085
+          ],
+          "arrive_at": "16:02",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "category": "parks/promenades/beaches",
+          "tip_5lang": {
+            "de": "Eine letzte Pause im Grünen, bevor Sie die Räder zurückgeben.",
+            "hu": "Egy utolsó pihenő a zöldben, mielőtt visszaviszi a kerékpárokat.",
+            "ro": "O ultimă pauză în verdeață înainte de a returna bicicletele.",
+            "en": "One last break in the green before returning the bikes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich am Hauptplatz aufs Rad und beginnen Sie den Tag mit Kultur an der Stadtpfarrkirche. Rollen Sie gemütlich entlang der Draupromenade und genießen Sie die Flussbrise. Das Vormittagsziel ist Warmbad Villach, wo eine lange, entspannende Pause in den Thermalquellen auf Sie wartet. Gestärkt radeln Sie am Nachmittag zurück Richtung Zentrum zum Fahrzeugmuseum, um automobile Schätze zu bestaunen. Beenden Sie die Tour mit einer ruhigen Minute im Schillerpark, bevor Sie Ihren Drahtesel abgeben.",
+        "hu": "Pattanjon kerékpárra a Főtéren, és kezdje a napot kultúrával a plébániatemplomnál. Guruljon kényelmesen a Dráva-sétányon, élvezve a folyó szellőjét. A délelőtti cél Warmbad Villach, ahol egy hosszú, pihentető szünet vár a termálfürdőben. Feltöltődve tekerjen vissza a központ felé a Járműmúzeumhoz, hogy megcsodálja az autóipari kincseket. A túrát egy csendes perccel zárja a Schiller-parkban, mielőtt leadná a kerékpárt.",
+        "ro": "Urcați-vă pe bicicletă în Piața Principală și începeți ziua cu cultură la biserica parohială. Plimbați-vă agale de-a lungul promenadei Drava, bucurându-vă de briza râului. Destinația de dimineață este Warmbad Villach, unde vă așteaptă o pauză lungă și relaxantă în izvoarele termale. Revigorat, pedalați înapoi spre centru după-amiaza la Muzeul Vehiculelor pentru a admira comorile auto. Încheiați turul cu un moment de liniște în Parcul Schiller înainte de a preda bicicleta.",
+        "en": "Hop on your bike in the Main Square and start the day with culture at the parish church. Casually roll along the Drava promenade, enjoying the river breeze. The morning destination is Warmbad Villach, where a long, relaxing break in the thermal springs awaits. Refreshed, cycle back towards the center in the afternoon to the Vehicle Museum to admire automotive treasures. End the tour with a quiet moment in Schiller Park before returning your bike."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kärntner Reindling",
+            "tip": "Ein süßer Hefekuchen mit Zimt und Rosinen, perfekt für eine Kaffeepause."
+          },
+          {
+            "name": "Gasthof am Fluss",
+            "tip": "Suchen Sie ein Restaurant an der Drau für ein Mittagessen mit Aussicht."
+          },
+          {
+            "name": "Eis-Salon",
+            "tip": "Belohnen Sie sich nach der Radtour mit einem handgemachten Eis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karintiai kalács (Reindling)",
+            "tip": "Édes, élesztős sütemény fahéjjal és mazsolával, tökéletes egy kávészünethez."
+          },
+          {
+            "name": "Vendéglő a folyónál",
+            "tip": "Keressen egy éttermet a Dráva mentén egy kilátással egybekötött ebédhez."
+          },
+          {
+            "name": "Fagylaltozó",
+            "tip": "Jutalmazza meg magát a kerékpártúra után egy kézműves fagylalttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cozonac carintian (Reindling)",
+            "tip": "O prăjitură dulce cu drojdie, scorțișoară și stafide, perfectă pentru o pauză de cafea."
+          },
+          {
+            "name": "Restaurant pe râu",
+            "tip": "Căutați un restaurant pe Drava pentru un prânz cu priveliște."
+          },
+          {
+            "name": "Gelaterie",
+            "tip": "Recompensați-vă cu o înghețată artizanală după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carinthian Cake (Reindling)",
+            "tip": "A sweet yeast cake with cinnamon and raisins, perfect for a coffee break."
+          },
+          {
+            "name": "Riverside Inn",
+            "tip": "Look for a restaurant on the Drava for lunch with a view."
+          },
+          {
+            "name": "Ice Cream Parlor",
+            "tip": "Reward yourself with a handmade ice cream after the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Drauradweg",
+            "tip": "Das gleichmäßige Treten entlang des Wassers ist meditativ.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kurpark Warmbad",
+            "tip": "Ein weitläufiger Park zum Spazieren und Durchatmen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von einer der Draubrücken",
+            "tip": "Halten Sie kurz an und genießen Sie die Perspektive.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dráva kerékpárút",
+            "tip": "Az egyenletes tekerés a víz mentén meditatív hatású.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Warmbadi gyógypark",
+            "tip": "Tágas park sétához és feltöltődéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás az egyik Dráva-hídról",
+            "tip": "Álljon meg egy pillanatra, és élvezze a perspektívát.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete Drava",
+            "tip": "Pedalatul constant de-a lungul apei este meditativ.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul balnear Warmbad",
+            "tip": "Un parc vast pentru plimbări și o gură de aer proaspăt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe unul dintre podurile Drava",
+            "tip": "Opriți-vă pentru o clipă și bucurați-vă de perspectivă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drava Cycle Path",
+            "tip": "The steady pedaling along the water is meditative.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Warmbad Spa Park",
+            "tip": "A spacious park for walking and taking a deep breath.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from one of the Drava bridges",
+            "tip": "Stop for a moment and enjoy the perspective.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Kaufen Sie lokales Zubehör oder ein Trikot als Andenken."
+          },
+          {
+            "name": "Bauernmarkt",
+            "tip": "Füllen Sie Ihren Rucksack mit regionalen Snacks für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Vásároljon helyi kiegészítőket vagy egy mezt emlékként."
+          },
+          {
+            "name": "Termelői piac",
+            "tip": "Töltse meg a hátizsákját helyi finomságokkal az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Cumpărați accesorii locale sau un tricou ca suvenir."
+          },
+          {
+            "name": "Piața agricolă",
+            "tip": "Umpleți-vă rucsacul cu gustări regionale pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Buy local accessories or a jersey as a souvenir."
+          },
+          {
+            "name": "Farmers' Market",
+            "tip": "Fill your backpack with regional snacks for the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Drauradweg ist meist flach und für alle Fitnesslevel geeignet.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an Touristenattraktionen.",
+          "Nehmen Sie ausreichend Wasser und Sonnenschutz mit."
+        ],
+        "hu": [
+          "A Dráva kerékpárút többnyire sík és minden edzettségi szintnek megfelel.",
+          "Mindig gondosan zárja le a kerékpárt, különösen a turisztikai látványosságoknál.",
+          "Vigyen magával elegendő vizet és naptejet."
+        ],
+        "ro": [
+          "Pista de biciclete Drava este în mare parte plată și potrivită pentru toate nivelurile de fitness.",
+          "Încuiati-vă întotdeauna bicicleta, mai ales la atracțiile turistice.",
+          "Luați suficientă apă și protecție solară."
+        ],
+        "en": [
+          "The Drava cycle path is mostly flat and suitable for all fitness levels.",
+          "Always lock your bike securely, especially at tourist attractions.",
+          "Bring enough water and sun protection."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 28.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Zentrum & Hauptplatz",
+            "hu": "Belvárosi parkolóház és Főtér",
+            "ro": "Parcare Centru & Piața Principală",
+            "en": "City Center Parking & Main Square"
+          },
+          "coords": [
+            13.8475,
+            46.6155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zentral, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon a központban, hogy gyalog fedezhesse fel az első látnivalócsoportot.",
+            "ro": "Parcați central pentru a explora primul grup de atracții pe jos.",
+            "en": "Park centrally to explore the first cluster of sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Jakob",
+            "hu": "Szent Jakab-plébániatemplom",
+            "ro": "Biserica parohială Sf. Iacob",
+            "en": "Parish Church of St. James"
+          },
+          "coords": [
+            13.8455,
+            46.6138
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid séta a Főtértől.",
+            "ro": "La doar o scurtă plimbare de Piața Principală.",
+            "en": "Just a short walk from the Main Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Villach",
+            "hu": "Villachi Városi Múzeum",
+            "ro": "Muzeul Municipal Villach",
+            "en": "Villach City Museum"
+          },
+          "coords": [
+            13.8441,
+            46.6152
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Stadt, in der Sie gerade parken.",
+            "hu": "Tudjon meg többet a városról, ahol éppen parkol.",
+            "ro": "Aflați mai multe despre orașul în care tocmai ați parcat.",
+            "en": "Learn more about the city you are currently parked in."
+          }
+        },
+        {
+          "name": {
+            "de": "Villacher Alpenstraße Aussichtspunkt",
+            "hu": "Villachi alpesi út kilátópont",
+            "ro": "Punct de belvedere Drumul Alpin Villach",
+            "en": "Villach Alpine Road Viewpoint"
+          },
+          "coords": [
+            13.754,
+            46.59
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die Fahrt hinauf ist ein Erlebnis! Genießen Sie die spektakuläre Aussicht auf die Seen und Berge.",
+            "hu": "Már az út felfelé is egy élmény! Élvezze a tavakra és hegyekre nyíló látványos kilátást.",
+            "ro": "Drumul până sus este o experiență în sine! Bucurați-vă de priveliștea spectaculoasă asupra lacurilor și munților.",
+            "en": "The drive up is an experience! Enjoy the spectacular views of the lakes and mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Warmbad Villach",
+            "hu": "Ebéd Warmbad Villachban",
+            "ro": "Prânz în Warmbad Villach",
+            "en": "Lunch in Warmbad Villach"
+          },
+          "coords": [
+            13.845,
+            46.589
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Verbinden Sie die Rückfahrt mit einem kulinarischen Stopp im Kurort.",
+            "hu": "Kösse össze a visszaútat egy kulináris megállóval a gyógyüdülőhelyen.",
+            "ro": "Combinați drumul de întoarcere cu o oprire culinară în stațiunea balneară.",
+            "en": "Combine the return journey with a culinary stop at the spa resort."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Fahrzeuggeschichte",
+            "hu": "Járműtörténeti Múzeum",
+            "ro": "Muzeul Istoriei Vehiculelor",
+            "en": "Museum of Vehicle History"
+          },
+          "coords": [
+            13.8321,
+            46.6167
+          ],
+          "arrive_at": "14:55",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "car",
+          "category": "museums",
+          "tip_5lang": {
+            "de": "Parken Sie direkt am Museum und tauchen Sie ein in die Welt der Motoren.",
+            "hu": "Parkoljon közvetlenül a múzeumnál, és merüljön el a motorok világában.",
+            "ro": "Parcați direct la muzeu și scufundați-vă în lumea motoarelor.",
+            "en": "Park right at the museum and immerse yourself in the world of engines."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie den historischen Kern von Villach zu Fuß: den Hauptplatz, die Stadtpfarrkirche und das Stadtmuseum. Am Vormittag erwartet Sie ein Höhepunkt: die Fahrt auf der Villacher Alpenstraße mit ihren unvergesslichen Panoramen. Auf dem Rückweg legen Sie einen Mittagsstopp im eleganten Warmbad ein. Der Nachmittag gehört dann ganz der Technik und dem Design im Museum der Fahrzeuggeschichte, wo Sie den Tag zwischen glänzendem Chrom ausklingen lassen.",
+        "hu": "Parkolja le autóját a központban, és fedezze fel gyalog Villach történelmi magját: a Főteret, a plébániatemplomot és a Városi Múzeumot. Délelőtt egy fénypont várja: az utazás a Villachi alpesi úton, felejthetetlen panorámáival. Visszafelé tartson ebédszünetet az elegáns Warmbadban. A délután a technikáé és a dizájné a Járműtörténeti Múzeumban, ahol a csillogó krómok között zárhatja a napot.",
+        "ro": "Parcați mașina în centru și explorați pe jos nucleul istoric al orașului Villach: Piața Principală, biserica parohială și Muzeul Municipal. Dimineața vă așteaptă un punct culminant: drumul pe Șoseaua Alpină Villach cu panoramele sale de neuitat. La întoarcere, faceți o oprire pentru prânz în elegantul Warmbad. După-amiaza este dedicată tehnologiei și designului la Muzeul Istoriei Vehiculelor, unde puteți încheia ziua printre cromuri strălucitoare.",
+        "en": "Park your car in the center and explore Villach's historic core on foot: the Main Square, the parish church, and the City Museum. A highlight awaits you in the morning: the drive on the Villach Alpine Road with its unforgettable panoramas. On the way back, make a lunch stop in the elegant Warmbad. The afternoon is dedicated to technology and design at the Museum of Vehicle History, where you can end the day among shiny chrome."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Almgasthof",
+            "tip": "Suchen Sie eine Hütte an der Alpenstraße für eine zünftige Jause."
+          },
+          {
+            "name": "Kärntner Kasnudeln",
+            "tip": "Ein Muss in jedem traditionellen Restaurant in der Region."
+          },
+          {
+            "name": "Villacher Torte",
+            "tip": "Eine lokale Kuchenspezialität als süßer Abschluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hegyi vendéglő",
+            "tip": "Keressen egy kunyhót az alpesi úton egy kiadós uzsonnához."
+          },
+          {
+            "name": "Karintiai túrós tészta",
+            "tip": "Kötelező minden hagyományos étteremben a régióban."
+          },
+          {
+            "name": "Villachi torta",
+            "tip": "Helyi tortakülönlegesség édes befejezésként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Han alpin",
+            "tip": "Căutați o cabană pe drumul alpin pentru o gustare consistentă."
+          },
+          {
+            "name": "Găluște cu brânză din Carintia",
+            "tip": "O necesitate în orice restaurant tradițional din regiune."
+          },
+          {
+            "name": "Tort Villach",
+            "tip": "O specialitate locală de prăjituri pentru un final dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alpine Inn",
+            "tip": "Look for a hut on the Alpine Road for a hearty snack."
+          },
+          {
+            "name": "Carinthian Cheese Noodles",
+            "tip": "A must in any traditional restaurant in the region."
+          },
+          {
+            "name": "Villach Cake",
+            "tip": "A local cake specialty for a sweet finish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtsplattformen an der Alpenstraße",
+            "tip": "Die Stille der Berge ist überwältigend.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Kurpark Warmbad",
+            "tip": "Ein Spaziergang durch die gepflegten Anlagen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Am Ufer eines der nahen Seen (Faaker See, Ossiacher See)",
+            "tip": "Nur eine kurze Autofahrt entfernt für absolute Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátóteraszok az alpesi úton",
+            "tip": "A hegyek csendje lenyűgöző.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Warmbadi gyógypark",
+            "tip": "Séta a gondozott parkban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A közeli tavak partján (Faaki-tó, Ossiachi-tó)",
+            "tip": "Csak egy rövid autóútra a teljes nyugalomért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platforme de observare pe drumul alpin",
+            "tip": "Liniștea munților este copleșitoare.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Parcul balnear Warmbad",
+            "tip": "O plimbare prin grădinile îngrijite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pe malul unuia dintre lacurile din apropiere (Lacul Faak, Lacul Ossiach)",
+            "tip": "La doar o scurtă călătorie cu mașina pentru o liniște absolută.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewing platforms on the Alpine Road",
+            "tip": "The silence of the mountains is overwhelming.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Warmbad Spa Park",
+            "tip": "A walk through the well-kept grounds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "On the shore of one of the nearby lakes (Lake Faak, Lake Ossiach)",
+            "tip": "Just a short drive away for absolute tranquility.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "ATRIO Villach",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand für alles, was man braucht."
+          },
+          {
+            "name": "Souvenirs an der Alpenstraße",
+            "tip": "Kaufen Sie ein Andenken mit Bergpanorama."
+          }
+        ],
+        "hu": [
+          {
+            "name": "ATRIO Villach",
+            "tip": "Egy nagy bevásárlóközpont a város szélén mindenre, amire szüksége lehet."
+          },
+          {
+            "name": "Szuvenírek az alpesi úton",
+            "tip": "Vásároljon egy hegyi panorámás emléktárgyat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "ATRIO Villach",
+            "tip": "Un centru comercial mare la marginea orașului pentru tot ce aveți nevoie."
+          },
+          {
+            "name": "Suveniruri pe drumul alpin",
+            "tip": "Cumpărați un suvenir cu panoramă montană."
+          }
+        ],
+        "en": [
+          {
+            "name": "ATRIO Villach",
+            "tip": "A large shopping center on the outskirts for everything you might need."
+          },
+          {
+            "name": "Souvenirs on the Alpine Road",
+            "tip": "Buy a souvenir with a mountain view."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Öffnungszeiten und eventuelle Mautgebühren für die Villacher Alpenstraße.",
+          "Parkhäuser im Zentrum sind oft die bequemste, wenn auch nicht die billigste Option.",
+          "Planen Sie genügend Zeit für die Fahrt in den Bergen ein, die Straßen sind kurvig."
+        ],
+        "hu": [
+          "Ellenőrizze a Villachi alpesi út nyitvatartási idejét és az esetleges útdíjakat.",
+          "A belvárosi parkolóházak gyakran a legkényelmesebbek, bár nem a legolcsóbbak.",
+          "Tervezzen elegendő időt a hegyi vezetésre, az utak kanyargósak."
+        ],
+        "ro": [
+          "Verificați programul de funcționare și eventualele taxe de drum pentru Șoseaua Alpină Villach.",
+          "Parcările din centru sunt adesea cea mai convenabilă opțiune, deși nu cea mai ieftină.",
+          "Planificați suficient timp pentru condusul în munți, drumurile sunt sinuoase."
+        ],
+        "en": [
+          "Check the opening times and any toll fees for the Villach Alpine Road.",
+          "Parking garages in the center are often the most convenient, though not the cheapest, option.",
+          "Allow enough time for driving in the mountains; the roads are winding."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Villach Hauptbahnhof & Hauptplatz",
+            "hu": "Villachi főpályaudvar és Főtér",
+            "ro": "Gara Centrală Villach & Piața Principală",
+            "en": "Villach Main Station & Main Square"
+          },
+          "coords": [
+            13.8462,
+            46.6145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Bahnhof sind es nur wenige Gehminuten zum Hauptplatz, dem Startpunkt.",
+            "hu": "A pályaudvartól csak pár perc séta a Főtér, a kiindulópont.",
+            "ro": "De la gară sunt doar câteva minute de mers pe jos până în Piața Principală, punctul de plecare.",
+            "en": "It's just a few minutes' walk from the train station to the Main Square, our starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Jakob",
+            "hu": "Szent Jakab-plébániatemplom",
+            "ro": "Biserica parohială Sf. Iacob",
+            "en": "Parish Church of St. James"
+          },
+          "coords": [
+            13.8455,
+            46.6138
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Altstadtgassen führt Sie zur Kirche.",
+            "hu": "Egy rövid séta az óváros sikátorain keresztül elvezet a templomhoz.",
+            "ro": "O scurtă plimbare pe străduțele orașului vechi vă duce la biserică.",
+            "en": "A short walk through the old town alleys leads you to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Draupromenade",
+            "hu": "Dráva-sétány",
+            "ro": "Promenada Drava",
+            "en": "Drava Promenade"
+          },
+          "coords": [
+            13.8488,
+            46.6125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre am Fluss, bevor Sie den Bus nehmen.",
+            "hu": "Élvezze a folyóparti hangulatot, mielőtt buszra szállna.",
+            "ro": "Bucurați-vă de atmosfera de pe malul râului înainte de a lua autobuzul.",
+            "en": "Enjoy the riverside atmosphere before taking the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Warmbad Villach",
+            "hu": "Warmbad Villach",
+            "ro": "Warmbad Villach",
+            "en": "Warmbad Villach"
+          },
+          "coords": [
+            13.845,
+            46.589
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mehrere Buslinien verbinden das Zentrum mit dem Kurort. Ideal für eine längere Mittagspause.",
+            "hu": "Több buszjárat köti össze a központot a gyógyfürdővel. Ideális egy hosszabb ebédszünetre.",
+            "ro": "Mai multe linii de autobuz leagă centrul de stațiunea balneară. Ideal pentru o pauză de prânz mai lungă.",
+            "en": "Several bus lines connect the center with the spa resort. Ideal for a longer lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Fahrzeuggeschichte",
+            "hu": "Járműtörténeti Múzeum",
+            "ro": "Muzeul Istoriei Vehiculelor",
+            "en": "Museum of Vehicle History"
+          },
+          "coords": [
+            13.8321,
+            46.6167
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück Richtung Westen der Stadt.",
+            "hu": "Menjen busszal vissza a város nyugati része felé.",
+            "ro": "Luați un autobuz înapoi spre partea de vest a orașului.",
+            "en": "Take a bus back towards the west of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Hauptplatz/Bahnhof",
+            "hu": "Vissza a Főtérre/Pályaudvarra",
+            "ro": "Înapoi la Piața Principală/Gară",
+            "en": "Back to the Main Square/Station"
+          },
+          "coords": [
+            13.8462,
+            46.6145
+          ],
+          "arrive_at": "17:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "category": "squares/old-town",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag bei einem Eis am Hauptplatz, bevor Sie die Heimreise antreten.",
+            "hu": "Zárja a napot egy fagyival a Főtéren, mielőtt hazaindulna.",
+            "ro": "Încheiați ziua cu o înghețată în Piața Principală înainte de a pleca spre casă.",
+            "en": "End the day with an ice cream on the Main Square before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Hauptbahnhof und spazieren Sie zum Hauptplatz, dem pulsierenden Zentrum. Nach der Besichtigung der Stadtpfarrkirche schlendern Sie zur Draupromenade. Am Vormittag nehmen Sie den Bus nach Warmbad für eine ausgiebige, entspannende Pause inklusive Mittagessen. Am Nachmittag bringt Sie ein anderer Bus zum Museum der Fahrzeuggeschichte, einem Paradies für Technikfans. Der Tag endet, wo er begann: mit einem entspannten Spaziergang zurück zum Bahnhof, mit vielen neuen Eindrücken im Gepäck.",
+        "hu": "Induljon a főpályaudvartól, és sétáljon el a nyüzsgő Főtérre. A plébániatemplom megtekintése után andalogjon a Dráva-sétányra. Délelőtt szálljon buszra Warmbad felé egy kiadós, pihentető szünetre, ebéddel egybekötve. Délután egy másik busz elviszi a Járműtörténeti Múzeumba, a technika szerelmeseinek paradicsomába. A nap ott ér véget, ahol elkezdődött: egy kellemes sétával vissza a pályaudvarra, sok új élménnyel a zsebében.",
+        "ro": "Începeți de la Gara Centrală și plimbați-vă până la Piața Principală, centrul vibrant. După vizitarea bisericii parohiale, plimbați-vă pe promenada Drava. Dimineața, luați autobuzul spre Warmbad pentru o pauză lungă și relaxantă, inclusiv prânzul. După-amiaza, un alt autobuz vă va duce la Muzeul Istoriei Vehiculelor, un paradis pentru pasionații de tehnologie. Ziua se încheie acolo unde a început: cu o plimbare relaxantă înapoi la gară, cu multe impresii noi.",
+        "en": "Start at the main train station and walk to the Main Square, the vibrant center. After visiting the parish church, stroll along the Drava promenade. In the morning, take the bus to Warmbad for a long, relaxing break, including lunch. In the afternoon, another bus will take you to the Museum of Vehicle History, a paradise for technology enthusiasts. The day ends where it began: with a relaxing walk back to the station, full of new impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Imbiss am Bahnhof",
+            "tip": "Schnappen Sie sich eine schnelle Wurst für den ersten Hunger."
+          },
+          {
+            "name": "Restaurant in Warmbad",
+            "tip": "Genießen Sie ein gehobenes Mittagessen im Kurort."
+          },
+          {
+            "name": "Bäckerei im Zentrum",
+            "tip": "Probieren Sie Kärntner Reindling für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfé a pályaudvarnál",
+            "tip": "Kapjon be egy gyors virslit az első éhségre."
+          },
+          {
+            "name": "Étterem Warmbadban",
+            "tip": "Élvezzen egy elegáns ebédet a gyógyüdülőhelyen."
+          },
+          {
+            "name": "Pékség a központban",
+            "tip": "Kóstolja meg a karintiai kalácsot útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Luați un cârnat rapid pentru prima foame."
+          },
+          {
+            "name": "Restaurant în Warmbad",
+            "tip": "Bucurați-vă de un prânz rafinat în stațiunea balneară."
+          },
+          {
+            "name": "Brutărie în centru",
+            "tip": "Încercați cozonacul carintian pentru o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snack bar at the station",
+            "tip": "Grab a quick sausage for the first hunger pangs."
+          },
+          {
+            "name": "Restaurant in Warmbad",
+            "tip": "Enjoy an upscale lunch at the spa resort."
+          },
+          {
+            "name": "Bakery in the center",
+            "tip": "Try a Carinthian Reindling cake for a snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kurpark Warmbad",
+            "tip": "Die Gärten des Kurorts sind perfekt für einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Drauufer",
+            "tip": "Suchen Sie sich eine Bank und schauen Sie dem Wasser zu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine ruhige Seitengasse in der Altstadt",
+            "tip": "Entfliehen Sie dem Trubel des Hauptplatzes.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Warmbadi gyógypark",
+            "tip": "A gyógyüdülőhely kertjei tökéletesek egy csendes sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dráva-part",
+            "tip": "Keressen egy padot, és nézze a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendes mellékutca az óvárosban",
+            "tip": "Meneküljön el a Főtér nyüzsgésétől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul balnear Warmbad",
+            "tip": "Grădinile stațiunii sunt perfecte pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul Dravei",
+            "tip": "Găsiți o bancă și priviți apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O străduță liniștită în orașul vechi",
+            "tip": "Evadați din agitația Pieței Principale.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Warmbad Spa Park",
+            "tip": "The gardens of the spa resort are perfect for a quiet walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Drava riverbank",
+            "tip": "Find a bench and watch the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet side street in the old town",
+            "tip": "Escape the hustle and bustle of the main square.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Hauptplatz",
+            "tip": "Stöbern Sie nach Souvenirs und lokalen Produkten."
+          },
+          {
+            "name": "Bahnhofs-Kiosk",
+            "tip": "Kaufen Sie eine Zeitung oder einen Snack für die Rückfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Főtéren",
+            "tip": "Böngésszen szuvenírek és helyi termékek között."
+          },
+          {
+            "name": "Pályaudvari kioszk",
+            "tip": "Vásároljon újságot vagy harapnivalót a visszaútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Piața Principală",
+            "tip": "Căutați suveniruri și produse locale."
+          },
+          {
+            "name": "Chioșc la gară",
+            "tip": "Cumpărați un ziar sau o gustare pentru călătoria de întoarcere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on the Main Square",
+            "tip": "Browse for souvenirs and local products."
+          },
+          {
+            "name": "Station kiosk",
+            "tip": "Buy a newspaper or a snack for the return journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Laden Sie die Fahrplan-App herunter, um die Buszeiten in Echtzeit zu verfolgen.",
+          "Achten Sie auf die letzte Busverbindung zurück ins Zentrum, besonders am Abend."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Töltse le a menetrend-alkalmazást a buszok valós idejű követéséhez.",
+          "Figyeljen az utolsó buszjáratra vissza a központba, különösen este."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați aplicația cu orare pentru a urmări orele de autobuz în timp real.",
+          "Fiți atenți la ultima legătură de autobuz înapoi spre centru, mai ales seara."
+        ],
+        "en": [
+          "Buy a day ticket for public transport to save money.",
+          "Download the timetable app to track bus times in real time.",
+          "Pay attention to the last bus connection back to the center, especially in the evening."
+        ]
+      }
+    }
+  }
+}

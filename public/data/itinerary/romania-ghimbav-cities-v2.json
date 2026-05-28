@@ -1,0 +1,1220 @@
+{
+  "city_id": "romania-ghimbav-cities-v2",
+  "anchor": {
+    "name": "Weidenbach",
+    "coords": [
+      25.5,
+      45.65
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Ghimbav",
+            "hu": "Vidombáki városháza",
+            "ro": "Primăria Ghimbav",
+            "en": "Ghimbav Town Hall"
+          },
+          "coords": [
+            25.501,
+            45.651
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um die lokale sächsische Architektur zu bewundern.",
+            "hu": "Kezdje itt a napot, és csodálja meg a helyi szász építészetet.",
+            "ro": "Începeți turul de aici pentru a admira arhitectura locală săsească.",
+            "en": "Start your tour here to admire the local Saxon architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmonument",
+            "hu": "Hősök emlékműve",
+            "ro": "Monumentul Eroilor",
+            "en": "Heroes' Monument"
+          },
+          "coords": [
+            25.502,
+            45.652
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung über die lokale Geschichte.",
+            "hu": "Egy pillanatnyi elmélyedés a helyi történelemben.",
+            "ro": "Un moment de reflecție asupra istoriei locale.",
+            "en": "A moment of reflection on the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirchenburg",
+            "hu": "Evangélikus erődtemplom",
+            "ro": "Biserica Fortificată Evanghelică",
+            "en": "Evangelical Fortified Church"
+          },
+          "coords": [
+            25.504,
+            45.653
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Wehrmauern, die zum Schutz vor Invasionen dienten.",
+            "hu": "Fedezze fel a védőfalakat, amelyek az inváziók ellen védtek.",
+            "ro": "Explorați zidurile de apărare care protejau împotriva invaziilor.",
+            "en": "Explore the defensive walls that protected against invasions."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitskirche",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Holy Trinity Church"
+          },
+          "coords": [
+            25.503,
+            45.654
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die orthodoxen Ikonen und die friedliche Atmosphäre.",
+            "hu": "Figyelje meg az ortodox ikonokat és a békés légkört.",
+            "ro": "Observați icoanele ortodoxe și atmosfera liniștită.",
+            "en": "Notice the Orthodox icons and the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Ghimbav-Park",
+            "hu": "Vidombák Park",
+            "ro": "Parcul Ghimbav",
+            "en": "Ghimbav Park"
+          },
+          "coords": [
+            25.508,
+            45.658
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick-Mittagessen und eine Pause im Grünen.",
+            "hu": "Ideális hely egy piknikebédhez és egy kis zöldövezeti pihenőhöz.",
+            "ro": "Un loc ideal pentru un prânz la picnic și o pauză în natură.",
+            "en": "An ideal spot for a picnic lunch and a break in the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Ghimbav-Flussufer",
+            "hu": "Vidombák-folyó partja",
+            "ro": "Malul râului Ghimbav",
+            "en": "Ghimbav Riverside"
+          },
+          "coords": [
+            25.495,
+            45.665
+          ],
+          "category": "natural features",
+          "arrive_at": "14:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang am Ende des Tages, um die Natur zu genießen.",
+            "hu": "Egy pihentető séta a nap végén, hogy élvezze a természetet.",
+            "ro": "O plimbare relaxantă la sfârșitul zilei pentru a vă bucura de natură.",
+            "en": "A relaxing walk at the end of the day to enjoy nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Weidenbach (Ghimbav) beginnt am historischen Rathaus, einem Zeugnis der sächsischen Vergangenheit. Nach einem kurzen Gedenken am Heldenmonument tauchen Sie in die mittelalterliche Welt der evangelischen Kirchenburg ein. Am Mittag finden Sie Ruhe in der orthodoxen Dreifaltigkeitskirche, bevor Sie sich im Ghimbav-Park bei einem gemütlichen Picknick entspannen. Der Nachmittag klingt mit einem friedlichen Spaziergang entlang des Ghimbav-Flusses aus, wo Sie die Ruhe der Natur auf sich wirken lassen können.",
+        "hu": "Vidombáki sétája a történelmi Városházánál kezdődik, amely a szász múlt tanúja. A Hősök emlékművénél tett rövid megemlékezés után merüljön el az evangélikus erődtemplom középkori világában. Délben a Szentháromság ortodox templomban talál nyugalmat, mielőtt a Vidombák Parkban egy kellemes piknikkel pihenne. A délutánt a Vidombák-folyó menti békés sétával zárja, ahol élvezheti a természet csendjét.",
+        "ro": "Plimbarea dvs. prin Ghimbav începe la Primăria istorică, o mărturie a trecutului săsesc. După un scurt omagiu la Monumentul Eroilor, vă cufundați în lumea medievală a Bisericii Fortificate Evanghelice. La prânz, găsiți liniște în Biserica Ortodoxă Sfânta Treime înainte de a vă relaxa cu un picnic în Parcul Ghimbav. După-amiaza se încheie cu o plimbare liniștită de-a lungul râului Ghimbav, lăsând calmul naturii să vă învăluie.",
+        "en": "Your walking tour of Ghimbav (Weidenbach) starts at the historic Town Hall, a testament to its Saxon past. After a brief tribute at the Heroes' Monument, delve into the medieval world of the Evangelical Fortified Church. At noon, find tranquility in the Holy Trinity Orthodox Church before relaxing with a pleasant picnic in Ghimbav Park. The afternoon concludes with a peaceful walk along the Ghimbav River, letting the calm of nature wash over you."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Probieren Sie diese traditionelle Kuttelsuppe, ein Klassiker der rumänischen Küche."
+          },
+          {
+            "name": "Mici mit Senf",
+            "tip": "Gegrillte Hackfleischröllchen, ein beliebtes Streetfood, perfekt für einen schnellen Imbiss."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein köstliches Dessert aus gebratenem oder gekochtem Käse, serviert mit Sauerrahm und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pacalleves (Ciorbă de burtă)",
+            "tip": "Kóstolja meg ezt a hagyományos pacallevest, a román konyha klasszikusát."
+          },
+          {
+            "name": "Mics mustárral",
+            "tip": "Grillezett darált hús tekercsek, népszerű street food, tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Finom, sült vagy főtt túrós desszert, tejföllel és lekvárral tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Încercați această ciorbă tradițională, un clasic al bucătăriei românești."
+          },
+          {
+            "name": "Mici cu muștar",
+            "tip": "Rulouri de carne tocată la grătar, un street-food popular, perfect pentru o gustare rapidă."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert delicios din brânză prăjită sau fiartă, servit cu smântână și gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă de burtă (Tripe soup)",
+            "tip": "Try this traditional tripe soup, a classic of Romanian cuisine."
+          },
+          {
+            "name": "Mici with mustard",
+            "tip": "Grilled minced meat rolls, a popular street food, perfect for a quick snack."
+          },
+          {
+            "name": "Papanași",
+            "tip": "A delicious dessert of fried or boiled cheese, served with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ghimbav-Flussufer",
+            "tip": "Ein ruhiger Ort, um dem Stadtlärm zu entfliehen und dem Rauschen des Wassers zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof der Kirchenburg",
+            "tip": "Ein Ort der Stille und des Nachdenkens, umgeben von alten Mauern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ghimbav-Park am Morgen",
+            "tip": "Genießen Sie die morgendliche Stille, bevor die Stadt erwacht.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidombák-folyó partja",
+            "tip": "Csendes hely, ahol elmenekülhet a város zajától és hallgathatja a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az erődtemplom temetője",
+            "tip": "A csend és az elmélkedés helye, régi falakkal körülvéve.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vidombák Park reggel",
+            "tip": "Élvezze a reggeli csendet, mielőtt a város felébred.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Ghimbav",
+            "tip": "Un loc liniștit pentru a evada din zgomotul orașului și a asculta susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Bisericii Fortificate",
+            "tip": "Un loc de tăcere și contemplare, înconjurat de ziduri vechi.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Ghimbav dimineața",
+            "tip": "Bucurați-vă de liniștea dimineții înainte ca orașul să se trezească.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ghimbav Riverside",
+            "tip": "A quiet place to escape the city noise and listen to the sound of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fortified Church Cemetery",
+            "tip": "A place of silence and contemplation, surrounded by ancient walls.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ghimbav Park in the morning",
+            "tip": "Enjoy the morning silence before the city wakes up.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten wie Honig, Käse oder handgefertigten Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket, mint a méz, sajt vagy kézzel készített textíliák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale precum miere, brânzeturi sau textile artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local products like honey, cheese, or handmade textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf Kopfsteinpflaster unterwegs sein werden.",
+          "Nehmen Sie Wasser mit, besonders an warmen Tagen.",
+          "Prüfen Sie die Öffnungszeiten der Kirchenburg im Voraus.",
+          "Ein kleines Picknick im Park ist eine tolle Alternative zum Restaurantbesuch."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap macskakövön fog sétálni.",
+          "Vigyen magával vizet, különösen meleg napokon.",
+          "Előre ellenőrizze az erődtemplom nyitvatartási idejét.",
+          "Egy kis piknik a parkban remek alternatívája lehet az éttermi ebédnek."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe pavaj toată ziua.",
+          "Luați apă cu dumneavoastră, mai ales în zilele călduroase.",
+          "Verificați în prealabil programul de vizitare al Bisericii Fortificate.",
+          "Un mic picnic în parc este o alternativă excelentă la un prânz la restaurant."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking on cobblestones all day.",
+          "Bring water with you, especially on warm days.",
+          "Check the opening hours of the Fortified Church in advance.",
+          "A small picnic in the park is a great alternative to eating at a restaurant."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Zentrum",
+            "hu": "Városháza és központ",
+            "ro": "Primăria și centrul",
+            "en": "Town Hall and Center"
+          },
+          "coords": [
+            25.501,
+            45.651
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie den zentralen Platz.",
+            "hu": "Zárja le a biciklit és fedezze fel a központi teret.",
+            "ro": "Încuiați bicicleta și explorați piața centrală.",
+            "en": "Lock up your bike and explore the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirchenburg",
+            "hu": "Evangélikus erődtemplom",
+            "ro": "Biserica Fortificată Evanghelică",
+            "en": "Evangelical Fortified Church"
+          },
+          "coords": [
+            25.504,
+            45.653
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Fahrradfahren hier ist einfach und die Burg ist ein Muss.",
+            "hu": "A biciklizés itt könnyű, a vár pedig kötelező látnivaló.",
+            "ro": "Mersul pe bicicletă aici este ușor, iar cetatea este o vizită obligatorie.",
+            "en": "Biking here is easy and the fortress is a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "IAR Brașov",
+            "hu": "IAR Brassó",
+            "ro": "IAR Brașov",
+            "en": "IAR Brașov"
+          },
+          "coords": [
+            25.525,
+            45.66
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:53",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf die rumänische Luftfahrtgeschichte.",
+            "hu": "Vessen egy pillantást a román repüléstörténetre.",
+            "ro": "Aruncați o privire la istoria aviației române.",
+            "en": "Take a look at the history of Romanian aviation."
+          }
+        },
+        {
+          "name": {
+            "de": "Flughafen Brașov-Ghimbav",
+            "hu": "Brassó-Vidombák Repülőtér",
+            "ro": "Aeroportul Brașov-Ghimbav",
+            "en": "Brașov-Ghimbav Airport"
+          },
+          "coords": [
+            25.535,
+            45.7
+          ],
+          "category": "landmark",
+          "arrive_at": "11:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sehen Sie sich den modernen Flughafen an, der die Region verbindet.",
+            "hu": "Nézze meg a modern repülőteret, amely összeköti a régiót.",
+            "ro": "Vedeți aeroportul modern care conectează regiunea.",
+            "en": "See the modern airport that connects the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Ghimbav-Fluss",
+            "hu": "Vidombák-folyó",
+            "ro": "Râul Ghimbav",
+            "en": "Ghimbav River"
+          },
+          "coords": [
+            25.495,
+            45.665
+          ],
+          "category": "natural features",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Mittagspause am Wasser.",
+            "hu": "Szép hely egy vízparti ebédszünethez.",
+            "ro": "Un loc frumos pentru o pauză de prânz pe malul apei.",
+            "en": "A beautiful spot for a lunch break by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Ghimbav-Park",
+            "hu": "Vidombák Park",
+            "ro": "Parcul Ghimbav",
+            "en": "Ghimbav Park"
+          },
+          "coords": [
+            25.508,
+            45.658
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannten Zeit im Park.",
+            "hu": "Fejezze be a biciklitúrát egy pihentető időtöltéssel a parkban.",
+            "ro": "Încheiați turul cu bicicleta cu un moment de relaxare în parc.",
+            "en": "End your bike tour with some relaxing time in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine Tour durch Ghimbav. Vom Zentrum aus radeln Sie zur imposanten Kirchenburg, einem Höhepunkt der sächsischen Geschichte. Die Route führt Sie dann weiter zur IAR Brașov und dem neuen Flughafen, die die industrielle und moderne Seite der Stadt zeigen. Zur Mittagszeit erreichen Sie das Ufer des Ghimbav-Flusses für eine erfrischende Pause. Der letzte Abschnitt Ihrer Tour führt Sie durch den Ghimbav-Park, wo Sie den Tag gemütlich ausklingen lassen können, bevor Sie ins Zentrum zurückkehren.",
+        "hu": "Pattanjon biciklire egy vidombáki túrához! A központból tekerjen el a lenyűgöző erődtemplomhoz, a szász történelem csúcspontjához. Az útvonal ezután tovább vezet az IAR Brassóhoz és az új repülőtérhez, amelyek a város ipari és modern oldalát mutatják be. Délben érkezik a Vidombák-folyó partjára egy frissítő szünetre. A túra utolsó szakasza a Vidombák Parkon keresztül vezet, ahol kényelmesen lezárhatja a napot, mielőtt visszatér a központba.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur al Ghimbavului. Din centru, pedalați spre impunătoarea Biserică Fortificată, un punct culminant al istoriei săsești. Traseul vă duce apoi mai departe spre IAR Brașov și noul aeroport, prezentând latura industrială și modernă a orașului. La prânz, ajungeți pe malul râului Ghimbav pentru o pauză revigorantă. Ultima parte a turului vă poartă prin Parcul Ghimbav, unde puteți încheia ziua într-un mod relaxant înainte de a vă întoarce în centru.",
+        "en": "Get on your bike for a tour of Ghimbav. From the center, cycle to the impressive Fortified Church, a highlight of Saxon history. The route then takes you further to IAR Brașov and the new airport, showcasing the city's industrial and modern side. At noon, you'll reach the banks of the Ghimbav River for a refreshing break. The final leg of your tour takes you through Ghimbav Park, where you can leisurely end the day before returning to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi",
+            "tip": "Ein warmer, mit Salz oder Mohn bestreuter Brezel, ideal als Snack für unterwegs."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Ein herzhafter Kuchen mit Käsefüllung, der Energie für die Radtour gibt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perec (Covrigi)",
+            "tip": "Meleg, sós vagy mákos perec, ideális útközbeni harapnivaló."
+          },
+          {
+            "name": "Túrós pite (Plăcintă cu brânză)",
+            "tip": "Sós, túrós sütemény, amely energiát ad a kerékpártúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi",
+            "tip": "Un covrig cald, presărat cu sare sau mac, ideal ca gustare pe drum."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "O plăcintă sărată cu umplutură de brânză, care oferă energie pentru turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi (Pretzel)",
+            "tip": "A warm pretzel sprinkled with salt or poppy seeds, ideal as a snack on the go."
+          },
+          {
+            "name": "Plăcintă cu brânză (Cheese pie)",
+            "tip": "A savory pie with a cheese filling, providing energy for the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Ghimbav-Fluss",
+            "tip": "Folgen Sie dem Fluss für eine friedliche Fahrt abseits der Straßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seitenstraßen im alten Zentrum",
+            "tip": "Entdecken Sie ruhige Ecken und traditionelle sächsische Häuser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Vidombák-folyó mentén",
+            "tip": "Kövesse a folyót egy békés tekeréshez az utaktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mellékutcák az óvárosban",
+            "tip": "Fedezzen fel csendes zugokat és hagyományos szász házakat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Ghimbav",
+            "tip": "Urmați râul pentru o plimbare liniștită, departe de drumuri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străduțele laterale din centrul vechi",
+            "tip": "Descoperiți colțuri liniștite și case tradiționale săsești.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Ghimbav River",
+            "tip": "Follow the river for a peaceful ride away from the roads.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Side streets in the old center",
+            "tip": "Discover quiet corners and traditional Saxon houses.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha kiegészítőre vagy gyors javításra lenne szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop",
+            "tip": "In case you need accessories or a quick repair."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltepunkten sicher abzustellen.",
+          "Ghimbav ist relativ flach, aber einige kleine Steigungen sind möglich.",
+          "Planen Sie genügend Zeit für Fotostopps ein, besonders an der Kirchenburg."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Vigyen magával lakatot, hogy biztonságosan lezárhassa a biciklit a megállóknál.",
+          "Vidombák viszonylag sík, de néhány kisebb emelkedő előfordulhat.",
+          "Tervezzen elegendő időt a fotómegállókra, különösen az erődtemplomnál."
+        ],
+        "ro": [
+          "Verificați bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Luați un lacăt pentru a vă asigura bicicleta la punctele de oprire.",
+          "Ghimbavul este relativ plat, dar sunt posibile câteva urcări ușoare.",
+          "Planificați suficient timp pentru opriri foto, în special la Biserica Fortificată."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Bring a lock to secure your bike at the stops.",
+          "Ghimbav is relatively flat, but some small climbs are possible.",
+          "Plan enough time for photo stops, especially at the Fortified Church."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum (Parkplatz)",
+            "hu": "1. klaszter: Történelmi központ (Parkoló)",
+            "ro": "Cluster 1: Centrul Istoric (Parcare)",
+            "en": "Cluster 1: Historic Center (Parking)"
+          },
+          "coords": [
+            25.5,
+            45.65
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier. Die nächsten Stopps sind zu Fuß erreichbar.",
+            "hu": "Parkoljon itt. A következő megállók gyalogosan elérhetők.",
+            "ro": "Parcați aici. Următoarele opriri sunt accesibile pe jos.",
+            "en": "Park here. The next stops are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Heldenmonument",
+            "hu": "Városháza és Hősök emlékműve",
+            "ro": "Primăria și Monumentul Eroilor",
+            "en": "Town Hall and Heroes' Monument"
+          },
+          "coords": [
+            25.501,
+            45.651
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum Herzen der Stadt.",
+            "hu": "Rövid séta a parkolótól a város szívébe.",
+            "ro": "O scurtă plimbare de la parcare până în inima orașului.",
+            "en": "A short walk from the parking lot to the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirchenburg",
+            "hu": "Evangélikus erődtemplom",
+            "ro": "Biserica Fortificată Evanghelică",
+            "en": "Evangelical Fortified Church"
+          },
+          "coords": [
+            25.504,
+            45.653
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Hauptattraktion, nehmen Sie sich Zeit für die Besichtigung.",
+            "hu": "A fő látványosság, szánjon időt a megtekintésére.",
+            "ro": "Atracția principală, acordați-vă timp pentru a o vizita.",
+            "en": "The main attraction, take your time to visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Moderne & Industrie (Parkplatz Flughafen)",
+            "hu": "2. klaszter: Modernitás és ipar (Repülőtéri parkoló)",
+            "ro": "Cluster 2: Modern și Industrial (Parcare Aeroport)",
+            "en": "Cluster 2: Modern & Industrial (Airport Parking)"
+          },
+          "coords": [
+            25.535,
+            45.7
+          ],
+          "category": "landmark",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt zum Flughafen. Von hier aus sehen Sie auch die IAR-Werke.",
+            "hu": "Utazás a repülőtérre. Innen láthatja az IAR gyárat is.",
+            "ro": "Călătorie spre aeroport. De aici puteți vedea și uzina IAR.",
+            "en": "Drive to the airport. From here you can also see the IAR plant."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Natur & Erholung (Parkplatz am Fluss)",
+            "hu": "3. klaszter: Természet és pihenés (Parkoló a folyónál)",
+            "ro": "Cluster 3: Natură și Relaxare (Parcare lângă râu)",
+            "en": "Cluster 3: Nature & Relaxation (Riverside Parking)"
+          },
+          "coords": [
+            25.495,
+            45.665
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zeit für die Mittagspause und einen Spaziergang am Ghimbav-Fluss.",
+            "hu": "Ideje egy ebédszünetnek és egy sétának a Vidombák-folyó mentén.",
+            "ro": "Timpul pentru o pauză de prânz și o plimbare pe malul râului Ghimbav.",
+            "en": "Time for a lunch break and a walk along the Ghimbav River."
+          }
+        },
+        {
+          "name": {
+            "de": "Ghimbav-Park",
+            "hu": "Vidombák Park",
+            "ro": "Parcul Ghimbav",
+            "en": "Ghimbav Park"
+          },
+          "coords": [
+            25.508,
+            45.658
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Fluss zum Park, um den Tag ausklingen zu lassen.",
+            "hu": "Rövid séta a folyótól a parkig, hogy lezárja a napot.",
+            "ro": "O scurtă plimbare de la râu la parc pentru a încheia ziua.",
+            "en": "A short walk from the river to the park to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Ghimbav ist in drei Cluster aufgeteilt. Sie beginnen im historischen Zentrum, parken Ihr Auto und erkunden zu Fuß das Rathaus und die beeindruckende Kirchenburg. Danach fahren Sie zum zweiten Cluster, dem modernen Flughafen, von wo aus Sie einen Einblick in die Luftfahrtindustrie bei IAR Brașov bekommen. Der dritte und letzte Cluster führt Sie zur Natur: Sie parken am Ghimbav-Fluss für eine ausgiebige Mittagspause und einen Spaziergang, der Sie schließlich in den Stadtpark führt, um den Tag entspannt abzuschließen.",
+        "hu": "Az autós napja Vidombákon három klaszterre oszlik. A történelmi központban kezdi, leparkolja az autót, és gyalog fedezi fel a Városházát és a lenyűgöző erődtemplomot. Ezután a második klaszterhez, a modern repülőtérhez hajt, ahonnan bepillantást nyerhet az IAR Brassó repülőgépiparába. A harmadik és egyben utolsó klaszter a természetbe vezet: a Vidombák-folyónál parkol le egy kiadós ebédszünetre és egy sétára, amely végül a városi parkba vezeti, hogy pihentetően zárja a napot.",
+        "ro": "Ziua dumneavoastră cu mașina în Ghimbav este împărțită în trei clustere. Începeți în centrul istoric, parcați mașina și explorați pe jos Primăria și impresionanta Biserică Fortificată. Apoi, conduceți spre al doilea cluster, aeroportul modern, de unde puteți arunca o privire asupra industriei aeronautice la IAR Brașov. Al treilea și ultimul cluster vă duce în natură: parcați lângă râul Ghimbav pentru o pauză de prânz prelungită și o plimbare care vă va duce în final în parcul orașului pentru a încheia ziua într-un mod relaxant.",
+        "en": "Your car day in Ghimbav is divided into three clusters. You start in the historic center, park your car, and explore the Town Hall and the impressive Fortified Church on foot. Afterwards, you drive to the second cluster, the modern airport, where you can get a glimpse of the aviation industry at IAR Brașov. The third and final cluster takes you to nature: you park by the Ghimbav River for a long lunch break and a walk that finally leads you to the city park to end the day in a relaxing way."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Stadtrand",
+            "tip": "Suchen Sie nach einem Restaurant mit Parkplatz für ein entspanntes Mittagessen."
+          },
+          {
+            "name": "Bulz ciobănesc",
+            "tip": "Ein traditionelles Hirtengericht aus Polenta, Käse und oft Speck, sehr sättigend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városszéli étterem",
+            "tip": "Keressen egy parkolóval rendelkező éttermet egy nyugodt ebédhez."
+          },
+          {
+            "name": "Juhász puliszka (Bulz ciobănesc)",
+            "tip": "Hagyományos pásztorétel puliszkából, sajtból és gyakran szalonnából, nagyon laktató."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la periferie",
+            "tip": "Căutați un restaurant cu parcare pentru un prânz relaxant."
+          },
+          {
+            "name": "Bulz ciobănesc",
+            "tip": "Un preparat tradițional ciobănesc din mămăligă, brânză și adesea slănină, foarte sățios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant on the outskirts",
+            "tip": "Look for a restaurant with parking for a relaxed lunch."
+          },
+          {
+            "name": "Bulz ciobănesc (Shepherd's polenta)",
+            "tip": "A traditional shepherd's dish of polenta, cheese, and often bacon, very filling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt nahe des Flughafens",
+            "tip": "Finden Sie einen ruhigen Ort, um die startenden und landenden Flugzeuge zu beobachten.",
+            "emoji": "✈️"
+          },
+          {
+            "name": "Parkbank am Ghimbav-Fluss",
+            "tip": "Der perfekte Ort, um nach dem Mittagessen die Stille zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a repülőtér közelében",
+            "tip": "Találjon egy csendes helyet, ahonnan megfigyelheti a fel- és leszálló repülőgépeket.",
+            "emoji": "✈️"
+          },
+          {
+            "name": "Pad a Vidombák-folyó partján",
+            "tip": "Tökéletes hely az ebéd utáni csend élvezetére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere lângă aeroport",
+            "tip": "Găsiți un loc liniștit pentru a privi avioanele decolând și aterizând.",
+            "emoji": "✈️"
+          },
+          {
+            "name": "Bancă pe malul râului Ghimbav",
+            "tip": "Locul perfect pentru a vă bucura de liniște după prânz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint near the airport",
+            "tip": "Find a quiet spot to watch the planes take off and land.",
+            "emoji": "✈️"
+          },
+          {
+            "name": "Bench on the Ghimbav riverside",
+            "tip": "The perfect place to enjoy the silence after lunch.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen in der Umgebung",
+            "tip": "Halten Sie Ausschau nach Hofläden, die frische, regionale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői bolt a környéken",
+            "tip": "Keresse a termelői boltokat, ahol friss, helyi termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de fermă în zonă",
+            "tip": "Fiți atenți la magazinele de fermă care vând produse proaspete, locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shop in the area",
+            "tip": "Keep an eye out for farm shops selling fresh, local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um die Parkplätze der einzelnen Cluster zu finden.",
+          "Die Straßen können eng sein, fahren Sie vorsichtig.",
+          "Planen Sie die Fahrt zwischen den Clustern außerhalb der Stoßzeiten, wenn möglich.",
+          "Vergessen Sie nicht, das Auto abzuschließen und keine Wertsachen sichtbar zu lassen."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást az egyes klaszterek parkolóinak megtalálásához.",
+          "Az utcák szűkek lehetnek, vezessen óvatosan.",
+          "Ha lehetséges, a klaszterek közötti utazást a csúcsforgalmon kívüli időpontra időzítse.",
+          "Ne felejtse el bezárni az autót, és ne hagyjon értékeket látható helyen."
+        ],
+        "ro": [
+          "Folosiți o aplicație de navigație pentru a găsi parcările pentru fiecare cluster.",
+          "Străzile pot fi înguste, conduceți cu prudență.",
+          "Planificați călătoria între clustere în afara orelor de vârf, dacă este posibil.",
+          "Nu uitați să încuiați mașina și să nu lăsați obiecte de valoare la vedere."
+        ],
+        "en": [
+          "Use a navigation app to find the parking lots for each cluster.",
+          "The streets can be narrow, drive carefully.",
+          "Plan the drive between clusters outside of peak hours if possible.",
+          "Don't forget to lock the car and leave no valuables visible."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 5.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Zentrum (Bushaltestelle)",
+            "hu": "1. klaszter: Központ (Buszmegálló)",
+            "ro": "Cluster 1: Centru (Stație de autobuz)",
+            "en": "Cluster 1: Center (Bus Stop)"
+          },
+          "coords": [
+            25.501,
+            45.651
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie an der zentralen Bushaltestelle. Die nächsten Stopps sind zu Fuß erreichbar.",
+            "hu": "Induljon a központi buszmegállótól. A következő megállók gyalogosan elérhetők.",
+            "ro": "Începeți de la stația centrală de autobuz. Următoarele opriri sunt accesibile pe jos.",
+            "en": "Start at the central bus station. The next stops are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirchenburg & Dreifaltigkeitskirche",
+            "hu": "Evangélikus erődtemplom és Szentháromság-templom",
+            "ro": "Biserica Fortificată Evanghelică și Biserica Sfânta Treime",
+            "en": "Evangelical Fortified Church & Holy Trinity Church"
+          },
+          "coords": [
+            25.504,
+            45.653
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:21",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch der beiden wichtigsten Kirchen der Stadt.",
+            "hu": "Kombinálja a város két legfontosabb templomának meglátogatását.",
+            "ro": "Combinați vizita la cele mai importante două biserici din oraș.",
+            "en": "Combine the visit to the two most important churches in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Park & Fluss (Bushaltestelle)",
+            "hu": "2. klaszter: Park és folyó (Buszmegálló)",
+            "ro": "Cluster 2: Parc și Râu (Stație de autobuz)",
+            "en": "Cluster 2: Park & River (Bus Stop)"
+          },
+          "coords": [
+            25.51,
+            45.659
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Park. Zeit für Mittagessen und einen Spaziergang.",
+            "hu": "Menjen busszal a parkba. Ideje ebédelni és sétálni egyet.",
+            "ro": "Luați un autobuz spre parc. Timp pentru prânz și o plimbare.",
+            "en": "Take a bus to the park. Time for lunch and a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Ghimbav-Flussufer",
+            "hu": "Vidombák-folyó partja",
+            "ro": "Malul râului Ghimbav",
+            "en": "Ghimbav Riverside"
+          },
+          "coords": [
+            25.495,
+            45.665
+          ],
+          "category": "natural features",
+          "arrive_at": "13:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park zum ruhigen Flussufer.",
+            "hu": "Rövid séta a parktól a csendes folyópartig.",
+            "ro": "O scurtă plimbare de la parc la malul liniștit al râului.",
+            "en": "A short walk from the park to the quiet riverside."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Înapoi în centru",
+            "en": "Back to the center"
+          },
+          "coords": [
+            25.501,
+            45.651
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum für einen Kaffee oder Souvenirs.",
+            "hu": "Menjen busszal vissza a központba egy kávéra vagy szuvenírekért.",
+            "ro": "Luați autobuzul înapoi în centru pentru o cafea sau suveniruri.",
+            "en": "Take the bus back to the center for a coffee or souvenirs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Ghimbav in zwei Clustern. Sie starten im Zentrum und spazieren zur Kirchenburg und der orthodoxen Kirche. Nach dieser historischen Erkundung nehmen Sie einen Bus zum zweiten Cluster: dem Ghimbav-Park. Hier machen Sie eine ausgedehnte Mittagspause und spazieren zum nahegelegenen Flussufer. Am Nachmittag bringt Sie ein Bus zurück ins Zentrum, wo Sie den Tag bei einem Kaffee ausklingen lassen oder nach lokalen Andenken stöbern können.",
+        "hu": "Tömegközlekedéssel két klaszterben fedezi fel Vidombákot. A központban kezd, és elsétál az erődtemplomhoz és az ortodox templomhoz. E történelmi felfedezés után busszal utazik a második klaszterhez: a Vidombák Parkhoz. Itt tart egy hosszabb ebédszünetet és sétál a közeli folyópartra. Délután egy busz visszaviszi a központba, ahol egy kávé mellett zárhatja a napot, vagy helyi emléktárgyak után nézhet.",
+        "ro": "Explorați Ghimbavul în două clustere folosind transportul public. Începeți în centru și vă plimbați la Biserica Fortificată și la biserica ortodoxă. După această explorare istorică, luați un autobuz către al doilea cluster: Parcul Ghimbav. Aici, luați o pauză de prânz prelungită și faceți o plimbare până la malul râului din apropiere. După-amiaza, un autobuz vă duce înapoi în centru, unde puteți încheia ziua cu o cafea sau căutând suveniruri locale.",
+        "en": "Explore Ghimbav in two clusters using public transport. You start in the center and walk to the Fortified Church and the Orthodox church. After this historical exploration, you take a bus to the second cluster: Ghimbav Park. Here, you take an extended lunch break and stroll to the nearby riverside. In the afternoon, a bus takes you back to the center, where you can end the day with a coffee or browse for local souvenirs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei im Zentrum",
+            "tip": "Holen Sie sich frisches Gebäck für Ihr Picknick im Park."
+          },
+          {
+            "name": "Café am Hauptplatz",
+            "tip": "Perfekt für eine Pause am Nachmittag, bevor Sie die Rückfahrt antreten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a központban",
+            "tip": "Szerezzen be friss péksüteményt a parki piknikhez."
+          },
+          {
+            "name": "Kávézó a főtéren",
+            "tip": "Tökéletes egy délutáni szünetre, mielőtt visszaindulna."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie în centru",
+            "tip": "Luați produse de patiserie proaspete pentru picnicul în parc."
+          },
+          {
+            "name": "Cafenea în piața principală",
+            "tip": "Perfectă pentru o pauză de după-amiază înainte de a pleca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in the center",
+            "tip": "Get some fresh pastries for your picnic in the park."
+          },
+          {
+            "name": "Café in the main square",
+            "tip": "Perfect for an afternoon break before you head back."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Ecke im Ghimbav-Park",
+            "tip": "Finden Sie eine Bank abseits der Hauptwege, um ein Buch zu lesen oder zu entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csendes sarok a Vidombák Parkban",
+            "tip": "Keressen egy padot a fő utaktól távolabb, hogy olvasson vagy pihenjen.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un colț liniștit în Parcul Ghimbav",
+            "tip": "Găsiți o bancă departe de aleile principale pentru a citi o carte sau a vă relaxa.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet corner in Ghimbav Park",
+            "tip": "Find a bench away from the main paths to read a book or relax.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Läden im Zentrum",
+            "tip": "Stöbern Sie nach handgemachten Souvenirs oder lokalen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis boltok a központban",
+            "tip": "Böngésszen kézzel készített ajándéktárgyak vagy helyi specialitások között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici magazine în centru",
+            "tip": "Căutați suveniruri artizanale sau specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small shops in the center",
+            "tip": "Browse for handmade souvenirs or local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn dies günstiger ist.",
+          "Informieren Sie sich über die Busfahrpläne, um Wartezeiten zu minimieren.",
+          "Haben Sie Kleingeld für die Tickets dabei.",
+          "Nicht alle Haltestellen werden angesagt, verfolgen Sie die Route auf einer Karte."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha az olcsóbb.",
+          "Tájékozódjon a buszmenetrendekről a várakozási idők minimalizálása érdekében.",
+          "Legyen Önnél aprópénz a jegyekhez.",
+          "Nem minden megállót mondanak be, kövesse az útvonalat egy térképen."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă este mai ieftin.",
+          "Informați-vă despre orarele autobuzelor pentru a minimiza timpii de așteptare.",
+          "Aveți la dumneavoastră bani mărunți pentru bilete.",
+          "Nu toate stațiile sunt anunțate, urmăriți traseul pe o hartă."
+        ],
+        "en": [
+          "Buy a day pass for the bus if it's cheaper.",
+          "Check the bus schedules to minimize waiting times.",
+          "Have small change with you for the tickets.",
+          "Not all stops are announced, follow the route on a map."
+        ]
+      }
+    }
+  }
+}

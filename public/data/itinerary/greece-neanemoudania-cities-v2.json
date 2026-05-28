@@ -1,0 +1,1460 @@
+{
+  "city_id": "greece-neanemoudania-cities-v2",
+  "anchor": {
+    "name": "Nea Moudania",
+    "coords": [
+      23.2833,
+      40.2333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Platz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            23.2825,
+            40.234
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der vielen Cafés und beobachten Sie das lokale Leben.",
+            "hu": "Indítsa a napot egy kávéval a számos kávézó egyikében, és figyelje a helyi életet.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele și observați viața locală.",
+            "en": "Start your day with a coffee at one of the many cafes and watch the local life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Bithynisches Volkskundemuseum",
+            "hu": "Bithüniai Folklórmúzeum",
+            "ro": "Muzeul de Folclor din Bitinia",
+            "en": "Bithynian Folklore Museum"
+          },
+          "coords": [
+            23.2818,
+            40.2355
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der griechischen Flüchtlinge aus Bithynien in Anatolien.",
+            "hu": "Ismerje meg az anatóliai Bithüniából származó görög menekültek történetét.",
+            "ro": "Descoperiți istoria refugiaților greci din Bitinia, Anatolia.",
+            "en": "Discover the history of the Greek refugees from Bithynia in Anatolia."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Panagia Korifini",
+            "hu": "Panagia Korifini templom",
+            "ro": "Biserica Panagia Korifini",
+            "en": "Panagia Korifini Church"
+          },
+          "coords": [
+            23.2855,
+            40.2365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht auf das Meer von der Hügelspitze, auf der die Kirche steht.",
+            "hu": "Élvezze a lélegzetelállító tengeri kilátást a dombtetőről, ahol a templom áll.",
+            "ro": "Bucurați-vă de priveliștea uluitoare la mare de pe dealul unde se află biserica.",
+            "en": "Enjoy the breathtaking view of the sea from the hilltop where the church stands."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischereimuseum",
+            "hu": "Halászati Múzeum",
+            "ro": "Muzeul Pescuitului",
+            "en": "Fishing Museum"
+          },
+          "coords": [
+            23.281,
+            40.231
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lernen Sie die traditionellen Fischereimethoden der Region kennen.",
+            "hu": "Ismerje meg a régió hagyományos halászati módszereit.",
+            "ro": "Aflați despre metodele tradiționale de pescuit din regiune.",
+            "en": "Learn about the traditional fishing methods of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina von Nea Moudania",
+            "hu": "Nea Moudania kikötője",
+            "ro": "Portul de agrement Nea Moudania",
+            "en": "Nea Moudania Marina"
+          },
+          "coords": [
+            23.2795,
+            40.23
+          ],
+          "category": "port",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen in einer der Fischtavernen mit Blick auf die Boote.",
+            "hu": "Ideális egy ebédre a haltavernáinak egyikében, kilátással a hajókra.",
+            "ro": "Ideal pentru prânz la una dintre tavernele pescărești cu vedere la bărci.",
+            "en": "Ideal for lunch at one of the fish taverns overlooking the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Nea Moudania",
+            "hu": "Nea Moudania strandja",
+            "ro": "Plaja Nea Moudania",
+            "en": "Nea Moudania Beach"
+          },
+          "coords": [
+            23.277,
+            40.229
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie am Sandstrand oder nehmen Sie ein Bad im klaren Wasser.",
+            "hu": "Pihenjen a homokos tengerparton, vagy ússzon egyet a tiszta vízben.",
+            "ro": "Relaxați-vă pe plaja cu nisip sau faceți o baie în apa cristalină.",
+            "en": "Relax on the sandy beach or take a dip in the clear waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichttheater",
+            "hu": "Szabadtéri Színház",
+            "ro": "Teatrul în aer liber",
+            "en": "Open-Air Theatre"
+          },
+          "coords": [
+            23.288,
+            40.238
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan für Abendveranstaltungen während des Sommerfestivals.",
+            "hu": "Nézze meg az esti előadások programját a nyári fesztivál alatt.",
+            "ro": "Verificați programul pentru evenimente de seară în timpul festivalului de vară.",
+            "en": "Check the schedule for evening performances during the summer festival."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am belebten Zentralplatz, dem Herzen der Stadt. Am Vormittag tauchen Sie in die lokale Kultur ein, indem Sie das Volkskundemuseum und die hochgelegene Kirche Panagia Korifini besuchen. Der Mittag ist der maritimen Seele von Nea Moudania gewidmet, mit einem Besuch des Fischereimuseums und einem Mittagessen am Hafen. Der Nachmittag steht ganz im Zeichen der Entspannung am breiten Sandstrand, bevor Sie den Tag mit einem Blick auf das beeindruckende Freilichttheater ausklingen lassen.",
+        "hu": "A nap a nyüzsgő Központi téren, a város szívében kezdődik. Délelőtt elmerül a helyi kultúrában a Folklórmúzeum és a dombtetőn álló Panagia Korifini templom meglátogatásával. Az ebédidő Nea Moudania tengeri lelkét ünnepli a Halászati Múzeumban tett látogatással és egy kikötői ebéddel. A délután a széles homokos tengerparton való pihenésé, mielőtt a napot a lenyűgöző Szabadtéri Színház megtekintésével zárná.",
+        "ro": "Ziua începe în Piața Centrală plină de viață, inima orașului. Dimineața vă scufundați în cultura locală vizitând Muzeul de Folclor și biserica Panagia Korifini de pe deal. Prânzul este dedicat sufletului maritim al Nea Moudania, cu o vizită la Muzeul Pescuitului și un prânz în port. După-amiaza este pentru relaxare pe plaja largă cu nisip, înainte de a încheia ziua cu o privire la impresionantul Teatru în aer liber.",
+        "en": "Your day starts at the bustling Central Square, the heart of the city. In the morning, you'll delve into the local culture by visiting the Folklore Museum and the hilltop Panagia Korifini Church. Lunchtime is dedicated to Nea Moudania's maritime soul, with a visit to the Fishing Museum and lunch at the marina. The afternoon is all about relaxation on the wide sandy beach before you end the day with a look at the impressive Open-Air Theatre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frische Sardinen",
+            "tip": "Probieren Sie gegrillte Sardinen, eine lokale Spezialität, in einer der Tavernen am Hafen."
+          },
+          {
+            "name": "Griechischer Salat (Choriatiki)",
+            "tip": "Ein Muss mit lokalem Feta-Käse und Olivenöl."
+          },
+          {
+            "name": "Oktopus in Essig",
+            "tip": "Eine köstliche Meeresfrüchte-Vorspeise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss szardínia",
+            "tip": "Kóstolja meg a grillezett szardíniát, egy helyi specialitást, a kikötői tavernák egyikében."
+          },
+          {
+            "name": "Görög saláta (Choriatiki)",
+            "tip": "Kötelező helyi feta sajttal és olívaolajjal."
+          },
+          {
+            "name": "Ecetes polip",
+            "tip": "Ízletes tenger gyümölcsei előétel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sardine proaspete",
+            "tip": "Încercați sardine la grătar, o specialitate locală, la una dintre tavernele din port."
+          },
+          {
+            "name": "Salată grecească (Choriatiki)",
+            "tip": "O necesitate cu brânză feta locală și ulei de măsline."
+          },
+          {
+            "name": "Caracatiță în oțet",
+            "tip": "Un aperitiv delicios cu fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Sardines",
+            "tip": "Try grilled sardines, a local specialty, at one of the taverns by the marina."
+          },
+          {
+            "name": "Greek Salad (Choriatiki)",
+            "tip": "A must-try with local feta cheese and olive oil."
+          },
+          {
+            "name": "Octopus in Vinegar",
+            "tip": "A delicious seafood appetizer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Strand",
+            "tip": "Finden Sie einen ruhigen Platz am Strand, um den Sonnenuntergang über dem Meer zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hügel der Panagia Korifini",
+            "tip": "Abseits der Gottesdienstzeiten bietet der Kirchhügel eine friedliche Atmosphäre und eine tolle Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Ende der Marina",
+            "tip": "Gehen Sie bis zum Ende der Mole für einen ruhigen Blick zurück auf die Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a tengerparton",
+            "tip": "Keressen egy csendes helyet a tengerparton, hogy megnézze a naplementét a tenger felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panagia Korifini dombja",
+            "tip": "Istentiszteleti időn kívül a templomdomb békés légkört és nagyszerű kilátást kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a kikötő végén",
+            "tip": "Sétáljon el a móló végéig egy csendes kilátásért a városra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus la plajă",
+            "tip": "Găsiți un loc liniștit pe plajă pentru a privi apusul peste mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dealul Panagia Korifini",
+            "tip": "În afara orelor de slujbă, dealul bisericii oferă o atmosferă pașnică și o priveliște minunată.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare la capătul portului",
+            "tip": "Mergeți la capătul digului pentru o priveliște liniștită asupra orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at the Beach",
+            "tip": "Find a quiet spot on the beach to watch the sunset over the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panagia Korifini Hill",
+            "tip": "Outside of service times, the church hill offers a peaceful atmosphere and a great view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk at the end of the marina",
+            "tip": "Walk to the end of the pier for a quiet view back at the town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie lokales Olivenöl, Honig und Oliven auf dem Wochenmarkt."
+          },
+          {
+            "name": "Souvenirläden an der Promenade",
+            "tip": "Finden Sie handgefertigte Keramik und andere lokale Handwerksprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi olívaolajat, mézet és olajbogyót a heti piacon."
+          },
+          {
+            "name": "Ajándékboltok a sétányon",
+            "tip": "Találjon kézzel készített kerámiákat és más helyi kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați ulei de măsline local, miere și măsline de la piața săptămânală."
+          },
+          {
+            "name": "Magazine de suveniruri pe promenadă",
+            "tip": "Găsiți ceramică artizanală și alte produse de artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy local olive oil, honey, and olives at the weekly market."
+          },
+          {
+            "name": "Souvenir Shops on the Promenade",
+            "tip": "Find handmade ceramics and other local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Sonnencreme und einen Hut mit, besonders für die Zeit am Strand.",
+          "Halten Sie Bargeld für kleine Einkäufe auf dem Markt bereit.",
+          "Die meisten Tavernen öffnen für das Mittagessen gegen 13:00 Uhr."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Hozzon magával naptejet és kalapot, különösen a tengerparton töltött időre.",
+          "Készítsen elő készpénzt a piaci apróbb vásárlásokhoz.",
+          "A legtöbb taverna 13:00 körül nyit ebédre."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Luați cu voi cremă de soare și o pălărie, mai ales pentru timpul petrecut pe plajă.",
+          "Aveți la îndemână numerar pentru cumpărături mici în piață.",
+          "Majoritatea tavernelor deschid pentru prânz în jurul orei 13:00."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring sunscreen and a hat, especially for your time at the beach.",
+          "Keep some cash handy for small purchases at the market.",
+          "Most taverns open for lunch around 1:00 PM."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina von Nea Moudania",
+            "hu": "Nea Moudania kikötője",
+            "ro": "Portul de agrement Nea Moudania",
+            "en": "Nea Moudania Marina"
+          },
+          "coords": [
+            23.2795,
+            40.23
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie hier, um Ihr Fahrrad zu mieten und die frische Meeresbrise zu genießen.",
+            "hu": "Induljon innen, béreljen kerékpárt, és élvezze a friss tengeri szellőt.",
+            "ro": "Începeți de aici pentru a închiria o bicicletă și a vă bucura de briza mării.",
+            "en": "Start here to rent your bike and enjoy the fresh sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Nea Moudania",
+            "hu": "Nea Moudania strandja",
+            "ro": "Plaja Nea Moudania",
+            "en": "Nea Moudania Beach"
+          },
+          "coords": [
+            23.277,
+            40.229
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie die Promenade entlang und machen Sie eine Pause für ein kurzes Bad.",
+            "hu": "Tekerjen végig a sétányon, és álljon meg egy rövid fürdőzésre.",
+            "ro": "Mergeți pe promenadă și opriți-vă pentru o baie rapidă.",
+            "en": "Cycle along the promenade and take a break for a quick swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischereimuseum",
+            "hu": "Halászati Múzeum",
+            "ro": "Muzeul Pescuitului",
+            "en": "Fishing Museum"
+          },
+          "coords": [
+            23.281,
+            40.231
+          ],
+          "category": "museums",
+          "arrive_at": "11:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher vom Strand, um mehr über das maritime Erbe zu erfahren.",
+            "hu": "Egy rövid kitérő a strandról, hogy többet tudjon meg a tengeri örökségről.",
+            "ro": "Un scurt ocol de la plajă pentru a afla mai multe despre patrimoniul maritim.",
+            "en": "A quick detour from the beach to learn about the maritime heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentraler Platz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            23.2825,
+            40.234
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie ein gemütliches Mittagessen in einem der Restaurants am Platz.",
+            "hu": "Parkolja le a kerékpárt, és élvezzen egy kellemes ebédet a tér egyik éttermében.",
+            "ro": "Parcați bicicleta și bucurați-vă de un prânz relaxat la unul dintre restaurantele din piață.",
+            "en": "Park your bike and enjoy a leisurely lunch at one of the square's restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Panagia Korifini",
+            "hu": "Panagia Korifini templom",
+            "ro": "Biserica Panagia Korifini",
+            "en": "Panagia Korifini Church"
+          },
+          "coords": [
+            23.2855,
+            40.2365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Fahrt bergauf lohnt sich für die spektakuläre Aussicht.",
+            "hu": "A hegyre való feltekerés megéri a látványos kilátásért.",
+            "ro": "Urcarea dealului merită pentru priveliștea spectaculoasă.",
+            "en": "The uphill ride is worth it for the spectacular views."
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichttheater",
+            "hu": "Szabadtéri Színház",
+            "ro": "Teatrul în aer liber",
+            "en": "Open-Air Theatre"
+          },
+          "coords": [
+            23.288,
+            40.238
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:29",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour hier und entspannen Sie sich auf den Stufen mit Blick auf die Stadt und das Meer.",
+            "hu": "Fejezze be itt a kerékpártúrát, és pihenjen a lépcsőkön, gyönyörködve a városra és a tengerre nyíló kilátásban.",
+            "ro": "Încheiați turul cu bicicleta aici și relaxați-vă pe trepte, admirând vederea spre oraș și mare.",
+            "en": "End your bike tour here and relax on the steps with a view over the town and sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet an der Marina, wo Sie die Meeresluft einatmen. Der Morgen führt Sie entlang der Küste zum Strand und zum Fischereimuseum. Mittags radeln Sie ins Zentrum zum Hauptplatz für ein wohlverdientes Mittagessen. Der Nachmittag wird anspruchsvoller mit einer Fahrt hinauf zur Panagia Korifini Kirche, belohnt durch eine fantastische Aussicht, bevor Sie den Tag am Freilichttheater ausklingen lassen, einem perfekten Ort zum Entspannen.",
+        "hu": "A kerékpártúra a kikötőből indul, ahol belélegezheti a tengeri levegőt. A délelőtt a tengerpart mentén vezet a strandhoz és a Halászati Múzeumhoz. Ebédidőben a központba teker, a főtérre, egy jól megérdemelt ebédre. A délután kihívást jelent a Panagia Korifini templomhoz való feltekeréssel, amelyet fantasztikus kilátás jutalmaz, mielőtt a napot a Szabadtéri Színháznál fejezné be, amely tökéletes hely a pihenésre.",
+        "ro": "Turul cu bicicleta începe din port, unde inspirați aerul mării. Dimineața vă duce de-a lungul coastei la plajă și la Muzeul Pescuitului. La prânz, pedalați spre centru, în piața principală, pentru un prânz binemeritat. După-amiaza devine mai provocatoare cu o urcare la Biserica Panagia Korifini, recompensată cu o priveliște fantastică, înainte de a încheia ziua la Teatrul în aer liber, un loc perfect pentru relaxare.",
+        "en": "Your bike tour starts at the marina, taking in the sea air. The morning leads you along the coast to the beach and the Fishing Museum. At noon, you'll cycle into the center to the main square for a well-deserved lunch. The afternoon gets more challenging with a ride up to Panagia Korifini Church, rewarded with a fantastic view, before ending the day at the Open-Air Theatre, a perfect spot to relax."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Frisch aus dem Meer und perfekt nach einer Radtour."
+          },
+          {
+            "name": "Souvlaki Pita",
+            "tip": "Ein schneller und leckerer Snack, den man leicht am Platz findet."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Der berühmte griechische Eiskaffee für eine erfrischende Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett polip",
+            "tip": "Frissen a tengerből, tökéletes egy kerékpártúra után."
+          },
+          {
+            "name": "Souvlaki Pita",
+            "tip": "Gyors és finom harapnivaló, amelyet könnyű megtalálni a téren."
+          },
+          {
+            "name": "Frappé",
+            "tip": "A híres görög jegeskávé egy frissítő szünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Proaspătă din mare și perfectă după un tur cu bicicleta."
+          },
+          {
+            "name": "Souvlaki Pita",
+            "tip": "O gustare rapidă și delicioasă, ușor de găsit în piață."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Faimoasa cafea cu gheață grecească pentru o pauză răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Octopus",
+            "tip": "Fresh from the sea and perfect after a bike ride."
+          },
+          {
+            "name": "Souvlaki Pita",
+            "tip": "A quick and delicious snack, easy to find around the square."
+          },
+          {
+            "name": "Frappé",
+            "tip": "The famous Greek iced coffee for a refreshing break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Versteckte Buchten",
+            "tip": "Fragen Sie Einheimische nach kleinen, ruhigen Buchten abseits des Hauptstrandes.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Olivenhaine",
+            "tip": "Machen Sie eine Pause im Schatten eines Olivenhains am Stadtrand.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Theater",
+            "tip": "Der Blick vom obersten Rang des Freilichttheaters ist oft sehr friedlich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rejtett öblök",
+            "tip": "Kérdezze meg a helyieket a fő strandtól távol eső kis, csendes öblökről.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Olajfaligetek",
+            "tip": "Tartson szünetet egy olajfaliget árnyékában a város szélén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a színházból",
+            "tip": "A Szabadtéri Színház legfelső sorából nyíló kilátás gyakran nagyon békés.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golfuri ascunse",
+            "tip": "Întrebați localnicii despre golfurile mici și liniștite, departe de plaja principală.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Livezi de măslini",
+            "tip": "Faceți o pauză la umbra unei livezi de măslini la marginea orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliștea de la teatru",
+            "tip": "Priveliștea de pe rândul de sus al teatrului în aer liber este adesea foarte pașnică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hidden Coves",
+            "tip": "Ask locals about small, quiet coves away from the main beach.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Olive Groves",
+            "tip": "Take a break in the shade of an olive grove on the outskirts of town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Theatre",
+            "tip": "The view from the top tier of the open-air theatre is often very peaceful.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Finden Sie Zubehör oder ein lokales Trikot als Andenken."
+          },
+          {
+            "name": "Getrocknete Kräuter",
+            "tip": "Kaufen Sie Oregano und andere Kräuter vom lokalen Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Találjon kiegészítőket vagy egy helyi mezt emlékként."
+          },
+          {
+            "name": "Szárított fűszernövények",
+            "tip": "Vásároljon oregánót és más fűszernövényeket a helyi piacról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Găsiți accesorii sau un tricou local ca suvenir."
+          },
+          {
+            "name": "Ierburi uscate",
+            "tip": "Cumpărați oregano și alte ierburi de la piața locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Find accessories or a local jersey as a souvenir."
+          },
+          {
+            "name": "Dried Herbs",
+            "tip": "Buy some oregano and other herbs from the local market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit guter Gangschaltung für den Anstieg zur Kirche.",
+          "Tragen Sie einen Helm und bringen Sie viel Wasser mit.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen.",
+          "Die Küstenpromenade ist ideal für eine entspannte Fahrt."
+        ],
+        "hu": [
+          "Béreljen jó sebességváltóval rendelkező kerékpárt a templomhoz való emelkedőhöz.",
+          "Viseljen sisakot és hozzon magával sok vizet.",
+          "Mindig zárja le jól a kerékpárt, amikor leparkolja.",
+          "A tengerparti sétány ideális egy laza tekeréshez."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze bune pentru urcarea la biserică.",
+          "Purtați cască și aduceți multă apă.",
+          "Încuiati întotdeauna bicicleta bine când o parcați.",
+          "Promenada de coastă este ideală pentru o plimbare relaxantă."
+        ],
+        "en": [
+          "Rent a bike with good gears for the climb to the church.",
+          "Wear a helmet and bring plenty of water.",
+          "Always lock your bike securely when you park it.",
+          "The coastal promenade is great for a relaxed ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz nahe Zentraler Platz",
+            "hu": "Parkoló a Központi tér közelében",
+            "ro": "Parcare lângă Piața Centrală",
+            "en": "Parking near Central Square"
+          },
+          "coords": [
+            23.284,
+            40.2345
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Teil der Stadt zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a város első részét.",
+            "ro": "Parcați aici pentru a explora prima parte a orașului pe jos.",
+            "en": "Park here to explore the first cluster of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentraler Platz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            23.2825,
+            40.234
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum lebhaften Zentrum.",
+            "hu": "Rövid séta a parkolótól a nyüzsgő központig.",
+            "ro": "O scurtă plimbare de la parcare la centrul plin de viață.",
+            "en": "A short walk from the parking spot to the lively center."
+          }
+        },
+        {
+          "name": {
+            "de": "Bithynisches Volkskundemuseum",
+            "hu": "Bithüniai Folklórmúzeum",
+            "ro": "Muzeul de Folclor din Bitinia",
+            "en": "Bithynian Folklore Museum"
+          },
+          "coords": [
+            23.2818,
+            40.2355
+          ],
+          "category": "museums",
+          "arrive_at": "09:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Straßen zum Museum, um die lokale Geschichte zu entdecken.",
+            "hu": "Sétáljon végig az utcákon a múzeumhoz, hogy felfedezze a helyi történelmet.",
+            "ro": "Plimbați-vă pe străzi până la muzeu pentru a descoperi istoria locală.",
+            "en": "Stroll through the streets to the museum to discover local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Panagia Korifini",
+            "hu": "Panagia Korifini templom",
+            "ro": "Biserica Panagia Korifini",
+            "en": "Panagia Korifini Church"
+          },
+          "coords": [
+            23.2855,
+            40.2365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang bergauf belohnt mit einer herrlichen Aussicht.",
+            "hu": "A hegyre vezető séta csodálatos kilátással jutalmaz.",
+            "ro": "Plimbarea la deal vă recompensează cu o priveliște magnifică.",
+            "en": "The walk uphill is rewarded with a magnificent view."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz an der Marina",
+            "hu": "Parkoló a kikötőnél",
+            "ro": "Parcare la portul de agrement",
+            "en": "Parking at the Marina"
+          },
+          "coords": [
+            23.279,
+            40.2305
+          ],
+          "category": "transport",
+          "arrive_at": "12:07",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Küstencluster. Mittagessen in einer Fischtaverne hier.",
+            "hu": "Vezessen a tengerparti zónába. Ebédeljen itt egy haltavernában.",
+            "ro": "Conduceți spre zona de coastă. Luați prânzul la o tavernă pescărească aici.",
+            "en": "Drive to the coastal cluster. Have lunch at a fish tavern here."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Nea Moudania",
+            "hu": "Nea Moudania strandja",
+            "ro": "Plaja Nea Moudania",
+            "en": "Nea Moudania Beach"
+          },
+          "coords": [
+            23.277,
+            40.229
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:42",
+          "stay_min": 240,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen ein kurzer Spaziergang zum Strand für einen entspannten Nachmittag.",
+            "hu": "Ebéd után egy rövid séta a strandra egy pihentető délutánért.",
+            "ro": "După prânz, o scurtă plimbare până la plajă pentru o după-amiază relaxantă.",
+            "en": "After lunch, a short walk to the beach for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie beginnen den Tag, indem Sie Ihr Auto im Zentrum parken. Der Vormittag ist ein Spaziergang durch das Herz von Nea Moudania, vom Hauptplatz über das Museum bis zur Panagia Korifini Kirche. Danach fahren Sie zum Küstenbereich. Der Nachmittag gehört ganz dem Meer: ein ausgiebiges Mittagessen in einer Hafentaverne, gefolgt von stundenlanger Entspannung am Sandstrand.",
+        "hu": "A napot azzal kezdi, hogy leparkolja autóját a központban. A délelőtt egy séta Nea Moudania szívében, a főtértől a múzeumon át a Panagia Korifini templomig. Ezután a tengerparti részre hajt. A délután a tengeré: egy kiadós ebéd egy kikötői tavernában, majd órákig tartó pihenés a homokos tengerparton.",
+        "ro": "Începeți ziua parcând mașina în centru. Dimineața este o plimbare prin inima Nea Moudania, de la piața principală la muzeu și la Biserica Panagia Korifini. Apoi, conduceți spre zona de coastă. După-amiaza este dedicată mării: un prânz copios la o tavernă din port, urmat de ore de relaxare pe plaja cu nisip.",
+        "en": "You start the day by parking your car in the center. The morning is a walking tour through the heart of Nea Moudania, from the main square to the museum and up to Panagia Korifini Church. Afterwards, you drive to the coastal cluster. The afternoon is all about the sea: a hearty lunch at a port tavern, followed by hours of relaxation on the sandy beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meeresfrüchte-Platte",
+            "tip": "Eine großartige Möglichkeit, eine Vielzahl von frischem Fang zu probieren."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "Ein klassisches griechisches Gericht, perfekt für ein sättigendes Mittagessen."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Probieren Sie einen Weißwein aus der Region Chalkidiki."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei tál",
+            "tip": "Nagyszerű módja a friss fogások széles választékának megkóstolására."
+          },
+          {
+            "name": "Muszaka",
+            "tip": "Klasszikus görög étel, tökéletes egy laktató ebédhez."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kóstoljon meg egy fehérbort a Halkidiki régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platou cu fructe de mare",
+            "tip": "O modalitate excelentă de a încerca o varietate de capturi proaspete."
+          },
+          {
+            "name": "Musaca",
+            "tip": "Un fel de mâncare grecesc clasic, perfect pentru un prânz sățios."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Încercați un vin alb din regiunea Halkidiki."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Platter",
+            "tip": "A great way to sample a variety of fresh catches."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "A classic Greek dish, perfect for a filling lunch."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Try a white wine from the Halkidiki region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nördliches Ende des Strandes",
+            "tip": "Gehen Sie weiter am Strand entlang, um ruhigere Abschnitte zu finden.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kirchhof der Panagia Korifini",
+            "tip": "Ein friedlicher Ort, um die Aussicht zu genießen, wenn keine Gottesdienste stattfinden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen am Hafen",
+            "tip": "Beobachten Sie die Fischerboote, die früh am Morgen auslaufen.",
+            "emoji": "⚓"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A strand északi vége",
+            "tip": "Sétáljon tovább a tengerparton, hogy csendesebb szakaszokat találjon.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panagia Korifini templomkertje",
+            "tip": "Békés hely a kilátás élvezetére, amikor nincsenek istentiszteletek.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a kikötőben",
+            "tip": "Nézze a kora reggel induló halászhajókat.",
+            "emoji": "⚓"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capătul nordic al plajei",
+            "tip": "Mergeți mai departe pe plajă pentru a găsi secțiuni mai liniștite.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea bisericii Panagia Korifini",
+            "tip": "Un loc pașnic pentru a vă bucura de priveliște atunci când nu sunt slujbe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme în port",
+            "tip": "Urmăriți bărcile de pescuit plecând dimineața devreme.",
+            "emoji": "⚓"
+          }
+        ],
+        "en": [
+          {
+            "name": "North end of the beach",
+            "tip": "Walk further down the beach to find quieter sections.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panagia Korifini churchyard",
+            "tip": "A peaceful spot to enjoy the view when no services are held.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning at the marina",
+            "tip": "Watch the fishing boats head out early in the morning.",
+            "emoji": "⚓"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramikwerkstätten",
+            "tip": "Suchen Sie nach einzigartigen, handbemalten Keramikwaren."
+          },
+          {
+            "name": "Geschäfte für Olivenholzprodukte",
+            "tip": "Finden Sie schöne Schneidebretter oder Utensilien aus lokalem Olivenholz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia műhelyek",
+            "tip": "Keressen egyedi, kézzel festett kerámia tárgyakat."
+          },
+          {
+            "name": "Olajfa termékeket árusító boltok",
+            "tip": "Találjon gyönyörű vágódeszkákat vagy eszközöket helyi olajfából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ateliere de ceramică",
+            "tip": "Căutați obiecte unice de ceramică pictate manual."
+          },
+          {
+            "name": "Magazine de produse din lemn de măslin",
+            "tip": "Găsiți tocătoare frumoase sau ustensile din lemn de măslin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramic Workshops",
+            "tip": "Look for unique, hand-painted pottery."
+          },
+          {
+            "name": "Olive Wood Product Shops",
+            "tip": "Find beautiful cutting boards or utensils made from local olive wood."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Sommer schwierig sein, suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Achten Sie auf Einbahnstraßen im Stadtzentrum.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen.",
+          "Die Küstenstraße bietet eine schöne Fahrt, kann aber belebt sein."
+        ],
+        "hu": [
+          "A parkolás nyáron nehézkes lehet, keressen kijelölt parkolóhelyeket.",
+          "Vigyázzon az egyirányú utcákra a városközpontban.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "A tengerparti út szép, de forgalmas lehet."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă vara, căutați parcări amenajate.",
+          "Fiți atenți la străzile cu sens unic din centrul orașului.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Drumul de coastă oferă o plimbare frumoasă, dar poate fi aglomerat."
+        ],
+        "en": [
+          "Parking can be difficult in the summer, look for designated parking areas.",
+          "Be aware of one-way streets in the town center.",
+          "Don't leave valuables visible in the car.",
+          "The coastal road offers a scenic drive but can be busy."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Platz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            23.2825,
+            40.234
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, leicht erreichbar von der Hauptbushaltestelle.",
+            "hu": "Kezdje a napot a város szívében, amely könnyen megközelíthető a fő buszmegállótól.",
+            "ro": "Începeți ziua în inima orașului, ușor accesibilă de la stația principală de autobuz.",
+            "en": "Start your day in the heart of the city, easily accessible from the main bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Panagia Korifini",
+            "hu": "Panagia Korifini templom",
+            "ro": "Biserica Panagia Korifini",
+            "en": "Panagia Korifini Church"
+          },
+          "coords": [
+            23.2855,
+            40.2365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein erfrischender Morgenspaziergang den Hügel hinauf zur Kirche.",
+            "hu": "Egy frissítő reggeli séta fel a dombra a templomhoz.",
+            "ro": "O plimbare revigorantă de dimineață pe deal până la biserică.",
+            "en": "A refreshing morning walk up the hill to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Bithynisches Volkskundemuseum",
+            "hu": "Bithüniai Folklórmúzeum",
+            "ro": "Muzeul de Folclor din Bitinia",
+            "en": "Bithynian Folklore Museum"
+          },
+          "coords": [
+            23.2818,
+            40.2355
+          ],
+          "category": "museums",
+          "arrive_at": "10:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie zurück ins Stadtzentrum, um dieses interessante Museum zu besuchen.",
+            "hu": "Sétáljon vissza a városközpontba, hogy meglátogassa ezt az érdekes múzeumot.",
+            "ro": "Mergeți înapoi în centrul orașului pentru a vizita acest muzeu interesant.",
+            "en": "Walk back towards the town center to visit this interesting museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina von Nea Moudania",
+            "hu": "Nea Moudania kikötője",
+            "ro": "Portul de agrement Nea Moudania",
+            "en": "Nea Moudania Marina"
+          },
+          "coords": [
+            23.2795,
+            40.23
+          ],
+          "category": "port",
+          "arrive_at": "12:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Hafen für ein Mittagessen am Meer.",
+            "hu": "Menjen helyi busszal a kikötőbe egy tengerparti ebédre.",
+            "ro": "Luați un autobuz local spre port pentru un prânz pe malul mării.",
+            "en": "Take a local bus to the marina for lunch by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischereimuseum",
+            "hu": "Halászati Múzeum",
+            "ro": "Muzeul Pescuitului",
+            "en": "Fishing Museum"
+          },
+          "coords": [
+            23.281,
+            40.231
+          ],
+          "category": "museums",
+          "arrive_at": "13:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von den Tavernen am Hafen entfernt.",
+            "hu": "Csak egy rövid sétára a kikötői tavernaktól.",
+            "ro": "La doar o scurtă plimbare de tavernele din port.",
+            "en": "Just a short walk from the marina's taverns."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Nea Moudania",
+            "hu": "Nea Moudania strandja",
+            "ro": "Plaja Nea Moudania",
+            "en": "Nea Moudania Beach"
+          },
+          "coords": [
+            23.277,
+            40.229
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:54",
+          "stay_min": 165,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie den Tag mit Entspannung am nahegelegenen Strand ab.",
+            "hu": "Zárja a napot pihenéssel a közeli tengerparton.",
+            "ro": "Încheiați ziua relaxându-vă pe plaja din apropiere.",
+            "en": "End the day by relaxing on the nearby beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour beginnt am Zentralplatz, dem ersten von Ihnen zu Fuß erkundeten Cluster, der Sie zur Panagia Korifini und zum Museum führt. Um die Mittagszeit nehmen Sie einen Bus zum zweiten Cluster, dem Hafenbereich. Dort genießen Sie ein Mittagessen mit Meeresbrise, besuchen das Fischereimuseum und verbringen den Rest des Nachmittags entspannt am weitläufigen Strand.",
+        "hu": "A túra a Központi téren kezdődik, az első gyalogosan felfedezett zónában, amely elvezeti Önt a Panagia Korifinihez és a múzeumhoz. Ebédidőben busszal utazik a második zónába, a kikötő területére. Ott élvezheti az ebédet a tengeri szellővel, meglátogathatja a Halászati Múzeumot, és a délután hátralévő részét a tágas tengerparton pihenve töltheti.",
+        "ro": "Turul începe din Piața Centrală, primul grup de obiective explorat pe jos, care vă duce la Panagia Korifini și la muzeu. La prânz, luați un autobuz spre al doilea grup, zona portului. Acolo, vă bucurați de un prânz cu briză marină, vizitați Muzeul Pescuitului și petreceți restul după-amiezii relaxându-vă pe plaja întinsă.",
+        "en": "Your tour begins at the Central Square, the first cluster you'll explore on foot, taking you to Panagia Korifini and the museum. Around noon, you'll take a bus to the second cluster, the port area. There, you'll enjoy lunch with a sea breeze, visit the Fishing Museum, and spend the rest of the afternoon relaxing on the expansive beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyros Pita",
+            "tip": "Ein schnelles, günstiges und leckeres Mittagessen."
+          },
+          {
+            "name": "Gebackener Feta-Käse",
+            "tip": "Probieren Sie Feta mit Honig und Sesam, eine köstliche Vorspeise."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "Ein starker lokaler Schnaps, der oft mit Meeresfrüchte-Meze serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyros Pita",
+            "tip": "Gyors, olcsó és finom ebéd."
+          },
+          {
+            "name": "Sült feta sajt",
+            "tip": "Kóstolja meg a mézes-szezámos fetát, egy finom előételt."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "Erős helyi pálinka, amelyet gyakran tenger gyümölcsei meze-vel szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gyros Pita",
+            "tip": "Un prânz rapid, ieftin și delicios."
+          },
+          {
+            "name": "Brânză Feta la cuptor",
+            "tip": "Încercați feta cu miere și susan, un aperitiv delicios."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "O băutură spirtoasă locală puternică, adesea servită cu meze de fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyros Pita",
+            "tip": "A quick, cheap, and delicious lunch."
+          },
+          {
+            "name": "Baked Feta Cheese",
+            "tip": "Try feta with honey and sesame, a delicious appetizer."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "A strong local spirit often served with seafood meze."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Stadt",
+            "tip": "Beobachten Sie das lokale Leben vom Fenster des Busses aus.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bank im Kirchhof",
+            "tip": "Setzen Sie sich auf eine Bank im Hof der Panagia Korifini und genießen Sie die Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang der Mole",
+            "tip": "Ein Spaziergang auf der Mole des Hafens bietet eine tolle Perspektive.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a városon keresztül",
+            "tip": "Figyelje a helyi életet a busz ablakából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Pad a templomkertben",
+            "tip": "Üljön le egy padra a Panagia Korifini udvarán, és élvezze a csendet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a mólón",
+            "tip": "A kikötő mólóján tett séta nagyszerű perspektívát kínál.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu autobuzul prin oraș",
+            "tip": "Observați viața locală de la fereastra autobuzului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bancă în curtea bisericii",
+            "tip": "Stați pe o bancă în curtea bisericii Panagia Korifini și bucurați-vă de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare de-a lungul digului",
+            "tip": "O plimbare pe digul portului oferă o perspectivă grozavă.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through town",
+            "tip": "Observe local life from the bus window.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bench in the churchyard",
+            "tip": "Sit on a bench in the courtyard of Panagia Korifini and enjoy the quiet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the pier",
+            "tip": "A walk on the port's pier offers a great perspective.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk (Periptero)",
+            "tip": "Kaufen Sie ein kaltes Getränk oder einen Snack für die Busfahrt."
+          },
+          {
+            "name": "Bäckereien",
+            "tip": "Probieren Sie lokale Backwaren wie Spanakopita (Spinatpastete)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk (Periptero)",
+            "tip": "Vásároljon egy hideg italt vagy harapnivalót a buszútra."
+          },
+          {
+            "name": "Pékségek",
+            "tip": "Kóstoljon meg helyi pékárukat, mint például a Spanakopita (spenótos pite)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc (Periptero)",
+            "tip": "Cumpărați o băutură rece sau o gustare pentru călătoria cu autobuzul."
+          },
+          {
+            "name": "Brutării",
+            "tip": "Încercați produse de patiserie locale precum Spanakopita (plăcintă cu spanac)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk (Periptero)",
+            "tip": "Buy a cold drink or a snack for the bus ride."
+          },
+          {
+            "name": "Bakeries",
+            "tip": "Try local pastries like Spanakopita (spinach pie)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Informieren Sie sich über die Busfahrpläne, da diese variieren können.",
+          "Geben Sie dem Fahrer ein Zeichen, wenn Sie an einer Haltestelle aussteigen möchten.",
+          "Validieren Sie Ihr Ticket beim Einsteigen in den Bus."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Tájékozódjon a buszmenetrendekről, mivel azok változhatnak.",
+          "Jelezzen a sofőrnek, ha egy megállónál le akar szállni.",
+          "Érvényesítse a jegyét a buszra való felszálláskor."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați orarele autobuzelor, deoarece acestea pot varia.",
+          "Semnalizați șoferului când doriți să coborâți la o stație.",
+          "Validați biletul la urcarea în autobuz."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making multiple trips.",
+          "Check the bus schedules, as they can vary.",
+          "Signal the driver when you want to get off at a stop.",
+          "Validate your ticket when you board the bus."
+        ]
+      }
+    }
+  }
+}

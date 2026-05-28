@@ -1,0 +1,1596 @@
+{
+  "city_id": "greece-mykonos-town-cities-v2",
+  "anchor": {
+    "name": "Mykonos Stadt",
+    "coords": [
+      25.3333,
+      37.45
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 2.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Manto Mavrogenous Platz",
+            "hu": "Manto Mavrogenous tér",
+            "ro": "Piața Manto Mavrogenous",
+            "en": "Manto Mavrogenous Square"
+          },
+          "coords": [
+            25.3291,
+            37.4482
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee und beobachten Sie die Fischerboote.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a halászhajókat.",
+            "ro": "Începeți ziua cu o cafea și priviți bărcile pescarilor.",
+            "en": "Start your day with a coffee while watching the fishing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Matoyianni-Straße",
+            "hu": "Matoyianni utca",
+            "ro": "Strada Matoyianni",
+            "en": "Matoyianni Street"
+          },
+          "coords": [
+            25.3283,
+            37.4471
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:39",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ideal für den Schaufensterbummel am Morgen, bevor die Gassen voll werden.",
+            "hu": "Ideális reggeli kirakatnézegetéshez, mielőtt az utcák megtelnek.",
+            "ro": "Ideal pentru a privi vitrinele dimineața, înainte ca aleile să se aglomereze.",
+            "en": "Perfect for window shopping in the morning before the alleys get crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Ägäisches Schifffahrtsmuseum",
+            "hu": "Égei-tengeri Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Egeean",
+            "en": "Aegean Maritime Museum"
+          },
+          "coords": [
+            25.3275,
+            37.4455
+          ],
+          "category": "museums",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kleines, aber feines Museum, das die reiche Seefahrtsgeschichte der Insel beleuchtet.",
+            "hu": "Kicsi, de lenyűgöző múzeum, mely bemutatja a sziget gazdag tengerészeti történelmét.",
+            "ro": "Un muzeu mic, dar fascinant, care evidențiază bogata istorie maritimă a insulei.",
+            "en": "A small but fascinating museum highlighting the island's rich maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kato Mili Windmühlen",
+            "hu": "Kato Mili szélmalmok",
+            "ro": "Morile de vânt Kato Mili",
+            "en": "Kato Mili Windmills"
+          },
+          "coords": [
+            25.325,
+            37.445
+          ],
+          "category": "historical",
+          "arrive_at": "11:39",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der klassische Fotospot. Das Licht ist am Vormittag besonders schön.",
+            "hu": "A klasszikus fotóhelyszín. A fények délelőtt különösen szépek.",
+            "ro": "Locul clasic pentru fotografii. Lumina este deosebit de frumoasă dimineața.",
+            "en": "The classic photo spot. The light is especially beautiful in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Klein-Venedig",
+            "hu": "Ebéd Kis Velencében",
+            "ro": "Prânz în Mica Veneție",
+            "en": "Lunch in Little Venice"
+          },
+          "coords": [
+            25.3262,
+            37.4463
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie frische Meeresfrüchte mit direktem Blick auf das Wasser.",
+            "hu": "Élvezze a friss tengeri ételeket közvetlenül a vízparton.",
+            "ro": "Savurați fructe de mare proaspete cu o priveliște directă la apă.",
+            "en": "Enjoy fresh seafood with a direct view of the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagia Paraportiani",
+            "hu": "Panagia Paraportiani templom",
+            "ro": "Biserica Panagia Paraportiani",
+            "en": "Church of Panagia Paraportiani"
+          },
+          "coords": [
+            25.327,
+            37.447
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:59",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine der meistfotografierten Kirchen der Welt. Ihre asymmetrische Form ist einzigartig.",
+            "hu": "A világ egyik legtöbbet fotózott temploma. Aszimmetrikus formája egyedülálló.",
+            "ro": "Una dintre cele mai fotografiate biserici din lume. Forma sa asimetrică este unică.",
+            "en": "One of the most photographed churches in the world. Its asymmetrical shape is unique."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Mykonos",
+            "hu": "Mykonoszi Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Mykonos",
+            "en": "Archaeological Museum of Mykonos"
+          },
+          "coords": [
+            25.331,
+            37.451
+          ],
+          "category": "museums",
+          "arrive_at": "14:53",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie Artefakte von der nahegelegenen Insel Delos, dem Geburtsort von Apollo.",
+            "hu": "Fedezze fel a közeli Delos szigetéről származó leleteket, Apollón szülőhelyéről.",
+            "ro": "Descoperiți artefacte de pe insula învecinată Delos, locul de naștere al lui Apollo.",
+            "en": "Discover artifacts from the nearby island of Delos, the birthplace of Apollo."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang in Klein-Venedig",
+            "hu": "Naplemente Kis Velencében",
+            "ro": "Apus de soare în Mica Veneție",
+            "en": "Sunset in Little Venice"
+          },
+          "coords": [
+            25.3258,
+            37.4465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:59",
+          "stay_min": 84,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Finden Sie eine Bar am Wasser und genießen Sie den berühmten Mykonos-Sonnenuntergang.",
+            "hu": "Keressen egy bárt a vízparton, és élvezze a híres mykonoszi naplementét.",
+            "ro": "Găsiți un bar pe malul apei și bucurați-vă de celebrul apus de soare din Mykonos.",
+            "en": "Find a waterfront bar and enjoy the famous Mykonos sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Mykonos-Stadt ist wie ein Eintauchen in ein Labyrinth aus weiß getünchten Häusern und blauen Türen. Beginnen Sie am alten Hafen, schlendern Sie durch die berühmte Matoyianni-Straße und lassen Sie sich von den Boutiquen verzaubern. Am Mittag locken die Windmühlen und Klein-Venedig mit Postkartenmotiven. Verbringen Sie den Nachmittag damit, die einzigartige Architektur der Panagia Paraportiani und die antiken Schätze im Archäologischen Museum zu bewundern. Der Abend gehört dem Sonnenuntergang. Suchen Sie sich einen Platz in einer Bar in Klein-Venedig und sehen Sie zu, wie die Sonne im Ägäischen Meer versinkt – ein unvergesslicher Abschluss eines perfekten Tages.",
+        "hu": "Egy séta Mykonos városában olyan, mintha egy fehérre meszelt házakból és kék ajtókból álló labirintusba merülnénk. Kezdje a régi kikötőnél, sétáljon végig a híres Matoyianni utcán, és hagyja, hogy elvarázsolják a butikok. Délben a szélmalmok és Kis Velence képeslapra illő látványt nyújtanak. Töltse a délutánt a Panagia Paraportiani egyedi építészetének és a Régészeti Múzeum ókori kincseinek megcsodálásával. Az este a naplementéé. Keressen egy helyet egy bárban Kis Velencében, és nézze, ahogy a nap az Égei-tengerbe süllyed – egy felejthetetlen befejezése egy tökéletes napnak.",
+        "ro": "O plimbare prin orașul Mykonos este ca o scufundare într-un labirint de case văruite în alb și uși albastre. Începeți din portul vechi, plimbați-vă pe faimoasa stradă Matoyianni și lăsați-vă fermecați de buticuri. La prânz, morile de vânt și Mica Veneție vă atrag cu priveliști de carte poștală. Petreceți după-amiaza admirând arhitectura unică a bisericii Panagia Paraportiani și comorile antice de la Muzeul Arheologic. Seara este dedicată apusului. Găsiți un loc la un bar din Mica Veneție și priviți cum soarele apune în Marea Egee – un final de neuitat pentru o zi perfectă.",
+        "en": "A walk through Mykonos Town is like diving into a labyrinth of whitewashed houses and blue doors. Start at the old port, stroll down the famous Matoyianni Street, and be enchanted by the boutiques. At noon, the windmills and Little Venice attract with postcard-perfect views. Spend the afternoon admiring the unique architecture of Panagia Paraportiani and the ancient treasures in the Archaeological Museum. The evening belongs to the sunset. Find a spot at a bar in Little Venice and watch the sun sink into the Aegean Sea – an unforgettable end to a perfect day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Koprostasi Taverna",
+            "tip": "Probieren Sie den frischen Tintenfisch und genießen Sie den Blick auf das Meer."
+          },
+          {
+            "name": "Kastro's Bar",
+            "tip": "Berühmt für seine Cocktails bei Sonnenuntergang direkt in Klein-Venedig."
+          },
+          {
+            "name": "Sakis Grill House",
+            "tip": "Für ein schnelles und leckeres Gyros oder Souvlaki im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Koprostasi Taverna",
+            "tip": "Kóstolja meg a friss tintahalat, és élvezze a tengerre nyíló kilátást."
+          },
+          {
+            "name": "Kastro's Bar",
+            "tip": "Híres a naplementés koktéljairól közvetlenül Kis Velencében."
+          },
+          {
+            "name": "Sakis Grill House",
+            "tip": "Egy gyors és finom gyrosért vagy souvlakiért a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Koprostasi Taverna",
+            "tip": "Încercați caracatița proaspătă și bucurați-vă de vederea la mare."
+          },
+          {
+            "name": "Kastro's Bar",
+            "tip": "Renumit pentru cocktailurile sale la apus, chiar în Mica Veneție."
+          },
+          {
+            "name": "Sakis Grill House",
+            "tip": "Pentru un gyros sau souvlaki rapid și delicios în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Koprostasi Taverna",
+            "tip": "Try the fresh octopus and enjoy the sea view."
+          },
+          {
+            "name": "Kastro's Bar",
+            "tip": "Famous for its sunset cocktails right in Little Venice."
+          },
+          {
+            "name": "Sakis Grill House",
+            "tip": "For a quick and delicious gyro or souvlaki in the heart of town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kato Mili Windmühlen bei Sonnenaufgang",
+            "tip": "Erleben Sie die Windmühlen in absoluter Stille, bevor die Stadt erwacht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Gassen hinter der Panagia Paraportiani",
+            "tip": "Verlieren Sie sich in den ruhigen, blumengeschmückten Wegen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ein Platz am alten Hafen am späten Nachmittag",
+            "tip": "Beobachten Sie das Kommen und Gehen der Boote in entspannter Atmosphäre.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kato Mili szélmalmok napkeltekor",
+            "tip": "Tapasztalja meg a szélmalmokat teljes csendben, mielőtt a város felébred.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett sikátorok a Panagia Paraportiani mögött",
+            "tip": "Vesszen el a csendes, virágokkal díszített utakon.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy hely a régi kikötőben késő délután",
+            "tip": "Figyelje a hajók jövés-menését nyugodt légkörben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Morile de vânt Kato Mili la răsărit",
+            "tip": "Experimentați morile de vânt în liniște absolută, înainte ca orașul să se trezească.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aleile ascunse din spatele bisericii Panagia Paraportiani",
+            "tip": "Pierdeți-vă pe cărările liniștite, decorate cu flori.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Un loc în portul vechi după-amiaza târziu",
+            "tip": "Priviți du-te-vino-ul bărcilor într-o atmosferă relaxată.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kato Mili Windmills at sunrise",
+            "tip": "Experience the windmills in absolute silence before the town wakes up.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden alleys behind Panagia Paraportiani",
+            "tip": "Get lost in the quiet, flower-adorned pathways.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A spot at the Old Port in the late afternoon",
+            "tip": "Watch the boats come and go in a relaxed atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Matoyianni-Straße",
+            "tip": "Die Hauptschlagader für Luxus-Shopping, Schmuck und Designer-Boutiquen."
+          },
+          {
+            "name": "Kunstgalerien in der Altstadt",
+            "tip": "Entdecken Sie lokale und internationale Künstler in den zahlreichen kleinen Galerien."
+          },
+          {
+            "name": "Souvenirläden am Hafen",
+            "tip": "Hier finden Sie handgemachte Sandalen, Olivenölprodukte und klassische Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Matoyianni utca",
+            "tip": "A luxusvásárlás, ékszerek és dizájner butikok fő artériája."
+          },
+          {
+            "name": "Művészeti galériák az óvárosban",
+            "tip": "Fedezze fel a helyi és nemzetközi művészeket a számos kis galériában."
+          },
+          {
+            "name": "Ajándékboltok a kikötőben",
+            "tip": "Itt kézzel készített szandálokat, olívaolaj-termékeket és klasszikus ajándéktárgyakat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Matoyianni",
+            "tip": "Artera principală pentru cumpărături de lux, bijuterii și buticuri de designer."
+          },
+          {
+            "name": "Galerii de artă în orașul vechi",
+            "tip": "Descoperiți artiști locali și internaționali în numeroasele galerii mici."
+          },
+          {
+            "name": "Magazine de suveniruri în port",
+            "tip": "Aici veți găsi sandale lucrate manual, produse din ulei de măsline și suveniruri clasice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Matoyianni Street",
+            "tip": "The main artery for luxury shopping, jewelry, and designer boutiques."
+          },
+          {
+            "name": "Art Galleries in the Old Town",
+            "tip": "Discover local and international artists in the numerous small galleries."
+          },
+          {
+            "name": "Souvenir shops at the port",
+            "tip": "Here you will find handmade sandals, olive oil products, and classic souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, das Kopfsteinpflaster ist uneben.",
+          "Verlieren Sie sich absichtlich in den Gassen; so entdecken Sie die schönsten Ecken.",
+          "Trinken Sie viel Wasser, besonders in den Sommermonaten.",
+          "Respektieren Sie die Privatsphäre der Anwohner und fotografieren Sie nicht in private Höfe."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakő egyenetlen.",
+          "Tévedjen el szándékosan a sikátorokban; így fedezi fel a legszebb zugokat.",
+          "Igyon sok vizet, különösen a nyári hónapokban.",
+          "Tartsa tiszteletben a lakosok magánéletét, és ne fotózzon be a magánudvarokba."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, pavajul este denivelat.",
+          "Rătăciți-vă intenționat pe alei; așa veți descoperi cele mai frumoase colțuri.",
+          "Beți multă apă, mai ales în lunile de vară.",
+          "Respectați intimitatea localnicilor și nu fotografiați în curțile private."
+        ],
+        "en": [
+          "Wear comfortable shoes; the cobblestones are uneven.",
+          "Get lost in the alleys on purpose; it's the best way to discover the most beautiful corners.",
+          "Drink plenty of water, especially during the summer months.",
+          "Respect the privacy of residents and do not photograph into private courtyards."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih am Hafen",
+            "hu": "Kerékpárkölcsönző a kikötőben",
+            "ro": "Închiriere de biciclete în port",
+            "en": "Bike Rental at the Port"
+          },
+          "coords": [
+            25.33,
+            37.45
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad für den Tag, um die Küste außerhalb der Stadt zu erkunden.",
+            "hu": "Béreljen kerékpárt egy napra, hogy felfedezze a városon kívüli partvonalat.",
+            "ro": "Închiriați o bicicletă pentru o zi pentru a explora coasta din afara orașului.",
+            "en": "Rent a bike for the day to explore the coastline outside the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Leuchtturm von Armenistis",
+            "hu": "Utazás az Armenistis világítótoronyhoz",
+            "ro": "Plimbare la Farul Armenistis",
+            "en": "Ride to Armenistis Lighthouse"
+          },
+          "coords": [
+            25.3167,
+            37.4833
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Eine anspruchsvolle, aber lohnende Fahrt mit fantastischer Aussicht.",
+            "hu": "Kihívást jelentő, de hálás út fantasztikus kilátással.",
+            "ro": "O plimbare provocatoare, dar plină de satisfacții, cu vederi fantastice.",
+            "en": "A challenging but rewarding ride with fantastic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Mykonos",
+            "hu": "Mykonoszi Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Mykonos",
+            "en": "Archaeological Museum of Mykonos"
+          },
+          "coords": [
+            25.331,
+            37.451
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie ein in die antike Geschichte.",
+            "hu": "Parkolja le a kerékpárt, és merüljön el az ókori történelemben.",
+            "ro": "Parcați bicicleta și scufundați-vă în istoria antică.",
+            "en": "Park your bike and dive into ancient history."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang durch die Matoyianni-Straße",
+            "hu": "Séta a Matoyianni utcán",
+            "ro": "Plimbare pe Strada Matoyianni",
+            "en": "Stroll down Matoyianni Street"
+          },
+          "coords": [
+            25.3283,
+            37.4471
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie das Fahrrad ab und erkunden Sie das Labyrinth zu Fuß.",
+            "hu": "Tegye le a biciklit, és fedezze fel a labirintust gyalog.",
+            "ro": "Lăsați bicicleta și explorați labirintul pe jos.",
+            "en": "Leave the bike and explore the labyrinth on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            25.3278,
+            37.446
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Finden Sie eine traditionelle Taverne in einer ruhigen Seitengasse.",
+            "hu": "Keressen egy hagyományos tavernát egy csendes mellékutcában.",
+            "ro": "Găsiți o tavernă tradițională pe o alee laterală liniștită.",
+            "en": "Find a traditional taverna in a quiet side alley."
+          }
+        },
+        {
+          "name": {
+            "de": "Klein-Venedig & Windmühlen",
+            "hu": "Kis Velence & Szélmalmok",
+            "ro": "Mica Veneție & Morile de vânt",
+            "en": "Little Venice & Windmills"
+          },
+          "coords": [
+            25.3255,
+            37.4458
+          ],
+          "category": "historical",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für Fotos am Nachmittag.",
+            "hu": "Tökéletes hely a délutáni fotózáshoz.",
+            "ro": "Locul perfect pentru fotografii de după-amiază.",
+            "en": "The perfect spot for afternoon photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückgabe des Fahrrads & Sonnenuntergang",
+            "hu": "Kerékpár leadása és naplemente",
+            "ro": "Returnarea bicicletei & Apus de soare",
+            "en": "Bike Return & Sunset"
+          },
+          "coords": [
+            25.33,
+            37.45
+          ],
+          "category": "transport",
+          "arrive_at": "15:55",
+          "stay_min": 110,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Geben Sie das Fahrrad zurück und genießen Sie den Sonnenuntergang von einer Bar am Hafen aus.",
+            "hu": "Adja le a kerékpárt, és élvezze a naplementét egy kikötői bárból.",
+            "ro": "Returnați bicicleta și bucurați-vă de apusul de soare de la un bar din port.",
+            "en": "Return the bike and enjoy the sunset from a bar at the port."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Mykonos auf zwei Rädern. Mieten Sie morgens ein Fahrrad am Hafen und machen Sie sich auf den Weg zum Armenistis-Leuchtturm für atemberaubende Ausblicke. Auf dem Rückweg halten Sie am Archäologischen Museum. Stellen Sie Ihr Fahrrad ab und tauchen Sie zu Fuß in das Labyrinth der Altstadt ein, essen Sie in einer versteckten Taverne zu Mittag und bewundern Sie die berühmten Windmühlen und Klein-Venedig. Geben Sie Ihr Fahrrad am späten Nachmittag zurück und belohnen Sie sich mit einem Cocktail bei Sonnenuntergang am Hafen.",
+        "hu": "Fedezze fel Mykonost két keréken. Reggel béreljen kerékpárt a kikötőben, és induljon el az Armenistis világítótoronyhoz a lélegzetelállító kilátásért. Visszafelé álljon meg a Régészeti Múzeumnál. Tegye le a kerékpárt, és merüljön el gyalog az óváros labirintusában, ebédeljen egy rejtett tavernán, és csodálja meg a híres szélmalmokat és Kis Velencét. Késő délután adja le a kerékpárt, és jutalmazza meg magát egy naplementés koktéllal a kikötőben.",
+        "ro": "Explorați Mykonos pe două roți. Închiriați o bicicletă dimineața din port și porniți spre Farul Armenistis pentru priveliști uluitoare. La întoarcere, opriți-vă la Muzeul Arheologic. Lăsați bicicleta și scufundați-vă pe jos în labirintul orașului vechi, luați prânzul la o tavernă ascunsă și admirați faimoasele mori de vânt și Mica Veneție. Returnați bicicleta după-amiaza târziu și răsplătiți-vă cu un cocktail la apus în port.",
+        "en": "Explore Mykonos on two wheels. Rent a bike at the port in the morning and head to the Armenistis Lighthouse for breathtaking views. On the way back, stop at the Archaeological Museum. Park your bike and dive into the labyrinth of the old town on foot, have lunch at a hidden taverna, and admire the famous windmills and Little Venice. Return your bike in the late afternoon and reward yourself with a sunset cocktail at the port."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Jimmy's Gyros",
+            "tip": "Ein Muss für ein schnelles, authentisches Gyros nach einer langen Radtour."
+          },
+          {
+            "name": "Katerina's Bar & Restaurant",
+            "tip": "In Klein-Venedig, perfekt für einen Drink oder eine Mahlzeit mit Wellenrauschen."
+          },
+          {
+            "name": "Popolo",
+            "tip": "Für einen stärkenden Kaffee und ein leichtes Frühstück vor der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jimmy's Gyros",
+            "tip": "Kötelező egy gyors, autentikus gyrosra egy hosszú kerékpártúra után."
+          },
+          {
+            "name": "Katerina's Bar & Restaurant",
+            "tip": "Kis Velencében, tökéletes egy italra vagy étkezésre a hullámok hangja mellett."
+          },
+          {
+            "name": "Popolo",
+            "tip": "Egy erősítő kávéra és könnyű reggelire a kerékpártúra előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jimmy's Gyros",
+            "tip": "O necesitate pentru un gyros rapid și autentic după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Katerina's Bar & Restaurant",
+            "tip": "În Mica Veneție, perfect pentru o băutură sau o masă cu sunetul valurilor."
+          },
+          {
+            "name": "Popolo",
+            "tip": "Pentru o cafea revigorantă și un mic dejun ușor înainte de turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jimmy's Gyros",
+            "tip": "A must for a quick, authentic gyro after a long bike ride."
+          },
+          {
+            "name": "Katerina's Bar & Restaurant",
+            "tip": "In Little Venice, perfect for a drink or meal with the sound of the waves."
+          },
+          {
+            "name": "Popolo",
+            "tip": "For a revitalizing coffee and a light breakfast before the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Armenistis-Leuchtturm",
+            "tip": "Die Fahrt dorthin ist ruhig und die Aussicht auf die Ägäis ist unschlagbar.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agia Anna Strand",
+            "tip": "Ein kleiner, ruhiger Strand in der Nähe der Stadt für eine kurze Pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick von der Anhöhe über der Stadt",
+            "tip": "Halten Sie auf dem Rückweg vom Leuchtturm an für ein tolles Panorama.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Armenistis világítótorony",
+            "tip": "Az odavezető út csendes, és az Égei-tengerre nyíló kilátás verhetetlen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agia Anna strand",
+            "tip": "Egy kicsi, csendes strand a város közelében egy rövid szünetre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a város feletti dombról",
+            "tip": "Álljon meg a világítótoronytól visszafelé jövet egy nagyszerű panorámáért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Farul Armenistis",
+            "tip": "Drumul până acolo este liniștit, iar priveliștea asupra Mării Egee este de neegalat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja Agia Anna",
+            "tip": "O plajă mică și liniștită lângă oraș pentru o scurtă pauză.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de pe dealul de deasupra orașului",
+            "tip": "Opriți-vă pe drumul de întoarcere de la far pentru o panoramă superbă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Armenistis Lighthouse",
+            "tip": "The ride there is quiet and the view of the Aegean is unbeatable.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agia Anna Beach",
+            "tip": "A small, quiet beach near the town for a short break.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the hill above the town",
+            "tip": "Stop on the way back from the lighthouse for a great panorama.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Icarus Sandalen",
+            "tip": "Finden Sie handgefertigte Ledersandalen, ein klassisches griechisches Souvenir."
+          },
+          {
+            "name": "Griechische Designer in der Matoyianni-Straße",
+            "tip": "Entdecken Sie einzigartige Mode und Schmuck von lokalen Talenten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Icarus szandálok",
+            "tip": "Találjon kézzel készített bőrszandálokat, egy klasszikus görög ajándéktárgyat."
+          },
+          {
+            "name": "Görög tervezők a Matoyianni utcán",
+            "tip": "Fedezze fel a helyi tehetségek egyedi divatját és ékszereit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandale Icarus",
+            "tip": "Găsiți sandale din piele lucrate manual, un suvenir grecesc clasic."
+          },
+          {
+            "name": "Designeri greci pe strada Matoyianni",
+            "tip": "Descoperiți modă și bijuterii unice de la talente locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Icarus Sandals",
+            "tip": "Find handmade leather sandals, a classic Greek souvenir."
+          },
+          {
+            "name": "Greek designers on Matoyianni Street",
+            "tip": "Discover unique fashion and jewelry from local talents."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Radfahren im Zentrum von Mykonos-Stadt ist aufgrund der engen Gassen und Menschenmengen nicht zu empfehlen. Nutzen Sie das Fahrrad für Ausflüge außerhalb.",
+          "Tragen Sie einen Helm und seien Sie auf hügeliges Gelände vorbereitet.",
+          "Nehmen Sie ausreichend Wasser für Ihre Tour mit.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "A kerékpározás Mykonos város központjában a szűk utcák és a tömeg miatt nem ajánlott. Használja a kerékpárt a városon kívüli kirándulásokhoz.",
+          "Viseljen sisakot, és készüljön fel a dombos terepre.",
+          "Vigyen magával elegendő vizet a túrára.",
+          "Mindig zárja le jól a kerékpárt, ha leteszi."
+        ],
+        "ro": [
+          "Ciclismul în centrul orașului Mykonos nu este recomandat din cauza aleilor înguste și a mulțimilor. Folosiți bicicleta pentru excursii în afara orașului.",
+          "Purtați cască și fiți pregătiți pentru teren deluros.",
+          "Luați suficientă apă cu dumneavoastră pentru tur.",
+          "Încuietăți întotdeauna bine bicicleta când o parcați."
+        ],
+        "en": [
+          "Cycling in the center of Mykonos Town is not recommended due to narrow alleys and crowds. Use the bike for trips outside the town.",
+          "Wear a helmet and be prepared for hilly terrain.",
+          "Take enough water with you for your tour.",
+          "Always lock your bike securely when you park it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:22",
+      "total_km": 17.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Alten Hafen & Manto Mavrogenous Platz",
+            "hu": "Parkolás a Régi Kikötőnél & Manto Mavrogenous tér",
+            "ro": "Parcare la Portul Vechi & Piața Manto Mavrogenous",
+            "en": "Parking at the Old Port & Manto Mavrogenous Square"
+          },
+          "coords": [
+            25.3291,
+            37.4482
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und beginnen Sie Ihre Erkundungstour zu Fuß.",
+            "hu": "Parkolja le az autót, és kezdje a felfedezőutat gyalog.",
+            "ro": "Parcați mașina și începeți turul de explorare pe jos.",
+            "en": "Park your car and start your exploration on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Matoyianni-Straße",
+            "hu": "Matoyianni utca",
+            "ro": "Strada Matoyianni",
+            "en": "Matoyianni Street"
+          },
+          "coords": [
+            25.3283,
+            37.4471
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:39",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen Morgenbummel.",
+            "hu": "Tökéletes hely egy reggeli sétához.",
+            "ro": "Locul perfect pentru o plimbare de dimineață.",
+            "en": "The perfect place for a morning stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagia Paraportiani & Klein-Venedig",
+            "hu": "Panagia Paraportiani & Kis Velence",
+            "ro": "Panagia Paraportiani & Mica Veneție",
+            "en": "Panagia Paraportiani & Little Venice"
+          },
+          "coords": [
+            25.3265,
+            37.4468
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:37",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die berühmte Kirche und die angrenzenden Uferbars.",
+            "hu": "Fedezze fel a híres templomot és a szomszédos parti bárokat.",
+            "ro": "Explorați faimoasa biserică și barurile de pe malul apei.",
+            "en": "Explore the famous church and the adjacent waterfront bars."
+          }
+        },
+        {
+          "name": {
+            "de": "Kato Mili Windmühlen",
+            "hu": "Kato Mili szélmalmok",
+            "ro": "Morile de vânt Kato Mili",
+            "en": "Kato Mili Windmills"
+          },
+          "coords": [
+            25.325,
+            37.445
+          ],
+          "category": "historical",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang für einen ikonischen Blick auf Mykonos.",
+            "hu": "Egy rövid séta egy ikonikus mykonoszi kilátásért.",
+            "ro": "O scurtă plimbare pentru o priveliște iconică a insulei Mykonos.",
+            "en": "A short walk for an iconic view of Mykonos."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Strand von Ornos & Mittagessen",
+            "hu": "Utazás az Ornos strandra és ebéd",
+            "ro": "Călătorie la Plaja Ornos & Prânz",
+            "en": "Drive to Ornos Beach & Lunch"
+          },
+          "coords": [
+            25.323,
+            37.425
+          ],
+          "category": "gastro",
+          "arrive_at": "13:01",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zu einem der beliebtesten Strände für ein entspanntes Mittagessen am Meer.",
+            "hu": "Vezessen el az egyik legnépszerűbb strandra egy nyugodt tengerparti ebédért.",
+            "ro": "Conduceți până la una dintre cele mai populare plaje pentru un prânz relaxant la malul mării.",
+            "en": "Drive to one of the most popular beaches for a relaxed lunch by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Ano Mera & Kloster Panagia Tourliani",
+            "hu": "Utazás Ano Merába & Panagia Tourliani kolostor",
+            "ro": "Călătorie la Ano Mera & Mănăstirea Panagia Tourliani",
+            "en": "Drive to Ano Mera & Panagia Tourliani Monastery"
+          },
+          "coords": [
+            25.391,
+            37.448
+          ],
+          "category": "historical",
+          "arrive_at": "15:26",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das traditionelle Inselinnere und besuchen Sie das historische Kloster.",
+            "hu": "Fedezze fel a sziget hagyományos belső részét, és látogassa meg a történelmi kolostort.",
+            "ro": "Descoperiți interiorul tradițional al insulei și vizitați mănăstirea istorică.",
+            "en": "Discover the traditional interior of the island and visit the historic monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Mykonos",
+            "hu": "Mykonoszi Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Mykonos",
+            "en": "Archaeological Museum of Mykonos"
+          },
+          "coords": [
+            25.331,
+            37.451
+          ],
+          "category": "museums",
+          "arrive_at": "16:51",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Ein letzter kultureller Stopp vor dem Abend.",
+            "hu": "Egy utolsó kulturális megálló este előtt.",
+            "ro": "O ultimă oprire culturală înainte de seară.",
+            "en": "A final cultural stop before the evening."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Hafen",
+            "hu": "Vacsora a kikötőben",
+            "ro": "Cină în port",
+            "en": "Dinner at the Port"
+          },
+          "coords": [
+            25.3295,
+            37.4485
+          ],
+          "category": "gastro",
+          "arrive_at": "17:51",
+          "stay_min": 61,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Abendessen in einer Taverne mit Blick auf die Boote.",
+            "hu": "Zárja a napot egy vacsorával egy tavernán, kilátással a hajókra.",
+            "ro": "Încheiați ziua cu o cină la o tavernă cu vedere la bărci.",
+            "en": "End the day with dinner at a taverna overlooking the boats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um Mykonos-Stadt und das Umland zu erkunden. Parken Sie am Morgen und erkunden Sie das Labyrinth der Altstadt zu Fuß. Entdecken Sie die Windmühlen und Klein-Venedig. Mittags fahren Sie zum entspannten Ornos Strand. Am Nachmittag geht es ins Inselinnere nach Ano Mera, um das traditionelle Griechenland zu erleben. Beenden Sie den Tag mit einem kulturellen Besuch im Archäologischen Museum und einem Abendessen am alten Hafen, während die Lichter der Stadt angehen.",
+        "hu": "Használja ki az autó rugalmasságát Mykonos városának és környékének felfedezéséhez. Parkoljon le reggel, és fedezze fel gyalog az óváros labirintusát. Fedezze fel a szélmalmokat és Kis Velencét. Délben vezessen el a pihentető Ornos strandra. Délután irány a sziget belseje, Ano Mera, hogy megtapasztalja a hagyományos Görögországot. Zárja a napot egy kulturális látogatással a Régészeti Múzeumban és egy vacsorával a régi kikötőben, miközben a város fényei felgyulladnak.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a explora orașul Mykonos și împrejurimile. Parcați dimineața și explorați labirintul orașului vechi pe jos. Descoperiți morile de vânt și Mica Veneție. La prânz, conduceți până la relaxanta plajă Ornos. După-amiaza, mergeți în interiorul insulei, la Ano Mera, pentru a experimenta Grecia tradițională. Încheiați ziua cu o vizită culturală la Muzeul Arheologic și o cină în portul vechi, în timp ce luminile orașului se aprind.",
+        "en": "Use the flexibility of the car to explore Mykonos Town and its surroundings. Park in the morning and explore the labyrinth of the old town on foot. Discover the windmills and Little Venice. At noon, drive to the relaxing Ornos Beach. In the afternoon, head inland to Ano Mera to experience traditional Greece. End the day with a cultural visit to the Archaeological Museum and dinner at the old port as the city lights turn on."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kiki's Tavern (Agios Sostis)",
+            "tip": "Legendär, ohne Strom, oft mit langer Schlange. Ein echtes Erlebnis, wenn Sie Zeit haben."
+          },
+          {
+            "name": "To Maereio",
+            "tip": "Ein kleines, familiengeführtes Restaurant in der Stadt mit authentischer griechischer Küche."
+          },
+          {
+            "name": "Alemagou Beach Bar (Ftelia)",
+            "tip": "Bohemian-Chic-Atmosphäre mit exzellentem Essen und Cocktails, eine kurze Autofahrt entfernt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kiki's Tavern (Agios Sostis)",
+            "tip": "Legendás, áram nélkül, gyakran hosszú sorral. Igazi élmény, ha van ideje."
+          },
+          {
+            "name": "To Maereio",
+            "tip": "Egy kis, családi vezetésű étterem a városban, autentikus görög konyhával."
+          },
+          {
+            "name": "Alemagou Beach Bar (Ftelia)",
+            "tip": "Bohém-sikkes hangulat kiváló ételekkel és koktélokkal, egy rövid autóútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kiki's Tavern (Agios Sostis)",
+            "tip": "Legendar, fără electricitate, adesea cu coadă lungă. O experiență autentică dacă aveți timp."
+          },
+          {
+            "name": "To Maereio",
+            "tip": "Un mic restaurant de familie în oraș, cu bucătărie grecească autentică."
+          },
+          {
+            "name": "Alemagou Beach Bar (Ftelia)",
+            "tip": "Atmosferă boem-șic cu mâncare și cocktailuri excelente, la o scurtă călătorie cu mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiki's Tavern (Agios Sostis)",
+            "tip": "Legendary, no electricity, often with a long queue. A real experience if you have time."
+          },
+          {
+            "name": "To Maereio",
+            "tip": "A small, family-run restaurant in town with authentic Greek cuisine."
+          },
+          {
+            "name": "Alemagou Beach Bar (Ftelia)",
+            "tip": "Bohemian-chic atmosphere with excellent food and cocktails, a short drive away."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ano Mera Dorfplatz",
+            "tip": "Erleben Sie das langsame Tempo des mykonischen Landlebens.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kapari Strand",
+            "tip": "Ein versteckter, nicht organisierter Strand in der Nähe von Agios Ioannis für absolute Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang vom Auto aus an der Küstenstraße",
+            "tip": "Finden Sie einen Aussichtspunkt und genießen Sie das Spektakel in Privatsphäre.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ano Mera falu tere",
+            "tip": "Tapasztalja meg a mykonosi vidéki élet lassú tempóját.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kapari strand",
+            "tip": "Egy rejtett, nem szervezett strand Agios Ioannis közelében az abszolút nyugalomért.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente az autóból a parti úton",
+            "tip": "Keressen egy kilátópontot, és élvezze a látványt magányában.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața satului Ano Mera",
+            "tip": "Experimentați ritmul lent al vieții rurale din Mykonos.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja Kapari",
+            "tip": "O plajă ascunsă, neorganizată, lângă Agios Ioannis, pentru liniște absolută.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare din mașină pe drumul de coastă",
+            "tip": "Găsiți un punct de belvedere și bucurați-vă de spectacol în intimitate.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ano Mera village square",
+            "tip": "Experience the slow pace of Mykonian rural life.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kapari Beach",
+            "tip": "A hidden, unorganized beach near Agios Ioannis for absolute tranquility.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset from the car on the coast road",
+            "tip": "Find a viewpoint and enjoy the spectacle in privacy.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte in Ano Mera",
+            "tip": "Kaufen Sie lokalen Honig, Käse und Wein direkt von den Erzeugern."
+          },
+          {
+            "name": "Mykonos Farmers",
+            "tip": "Ein Geschäft, das Bio-Produkte von der Insel anbietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek Ano Merában",
+            "tip": "Vásároljon helyi mézet, sajtot és bort közvetlenül a termelőktől."
+          },
+          {
+            "name": "Mykonos Farmers",
+            "tip": "Egy üzlet, amely bio termékeket kínál a szigetről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale în Ano Mera",
+            "tip": "Cumpărați miere locală, brânză și vin direct de la producători."
+          },
+          {
+            "name": "Mykonos Farmers",
+            "tip": "Un magazin care oferă produse organice de pe insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local products in Ano Mera",
+            "tip": "Buy local honey, cheese, and wine directly from the producers."
+          },
+          {
+            "name": "Mykonos Farmers",
+            "tip": "A shop offering organic products from the island."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in Mykonos-Stadt ist im Sommer extrem schwierig. Nutzen Sie die öffentlichen Parkplätze am Stadtrand.",
+          "Die Straßen sind eng und kurvig; fahren Sie vorsichtig.",
+          "Ein kleines Auto ist für die Insel besser geeignet als ein großes.",
+          "Achten Sie auf Roller und Quads, die oft schnell fahren."
+        ],
+        "hu": [
+          "A parkolás Mykonos városában nyáron rendkívül nehéz. Használja a város szélén lévő nyilvános parkolókat.",
+          "Az utak szűkek és kanyargósak; vezessen óvatosan.",
+          "Egy kis autó alkalmasabb a szigetre, mint egy nagy.",
+          "Vigyázzon a robogókra és quadokra, amelyek gyakran gyorsan hajtanak."
+        ],
+        "ro": [
+          "Parcarea în orașul Mykonos este extrem de dificilă vara. Folosiți parcările publice de la periferia orașului.",
+          "Drumurile sunt înguste și sinuoase; conduceți cu prudență.",
+          "O mașină mică este mai potrivită pentru insulă decât una mare.",
+          "Fiți atenți la scutere și ATV-uri, care adesea merg cu viteză."
+        ],
+        "en": [
+          "Parking in Mykonos Town is extremely difficult in summer. Use the public parking lots on the outskirts.",
+          "The roads are narrow and winding; drive carefully.",
+          "A small car is more suitable for the island than a large one.",
+          "Watch out for scooters and ATVs, which often drive fast."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 2.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Busbahnhof Fabrika",
+            "hu": "Indulás a Fabrika buszpályaudvarról",
+            "ro": "Pornire de la stația de autobuz Fabrika",
+            "en": "Start at Fabrika Bus Station"
+          },
+          "coords": [
+            25.326,
+            37.443
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der südliche Hauptbusbahnhof, von dem aus Sie Ihren Spaziergang beginnen.",
+            "hu": "A déli fő buszpályaudvar, ahonnan a séta indul.",
+            "ro": "Principala stație de autobuz din sud, de unde vă începeți plimbarea.",
+            "en": "The main southern bus station from where you start your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kato Mili Windmühlen",
+            "hu": "Kato Mili szélmalmok",
+            "ro": "Morile de vânt Kato Mili",
+            "en": "Kato Mili Windmills"
+          },
+          "coords": [
+            25.325,
+            37.445
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof zu diesem Wahrzeichen.",
+            "hu": "Egy rövid séta a buszpályaudvartól ehhez a nevezetességhez.",
+            "ro": "O scurtă plimbare de la stația de autobuz la acest punct de reper.",
+            "en": "A short walk from the bus station to this landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Klein-Venedig & Panagia Paraportiani",
+            "hu": "Kis Velence & Panagia Paraportiani",
+            "ro": "Mica Veneție & Panagia Paraportiani",
+            "en": "Little Venice & Panagia Paraportiani"
+          },
+          "coords": [
+            25.3265,
+            37.4468
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:59",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerische Küste und die berühmte Kirche.",
+            "hu": "Fedezze fel a festői tengerpartot és a híres templomot.",
+            "ro": "Explorați coasta pitorească și faimoasa biserică.",
+            "en": "Explore the picturesque coastline and the famous church."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Shopping in der Matoyianni-Straße",
+            "hu": "Ebéd és vásárlás a Matoyianni utcán",
+            "ro": "Prânz și cumpărături pe Strada Matoyianni",
+            "en": "Lunch and Shopping on Matoyianni Street"
+          },
+          "coords": [
+            25.3283,
+            37.4471
+          ],
+          "category": "gastro",
+          "arrive_at": "11:07",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Finden Sie eine Taverne und stöbern Sie anschließend in den Boutiquen.",
+            "hu": "Keressen egy tavernát, majd nézelődjön a butikokban.",
+            "ro": "Găsiți o tavernă și apoi răsfoiți buticurile.",
+            "en": "Find a taverna and then browse the boutiques."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Alten Hafen (Archäologisches Museum)",
+            "hu": "Busz a Régi Kikötőhöz (Régészeti Múzeum)",
+            "ro": "Autobuz spre Portul Vechi (Muzeul Arheologic)",
+            "en": "Bus to the Old Port (Archaeological Museum)"
+          },
+          "coords": [
+            25.331,
+            37.451
+          ],
+          "category": "museums",
+          "arrive_at": "13:17",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus vom Busbahnhof Fabrika zum nördlichen Busbahnhof.",
+            "hu": "Menjen busszal a Fabrika buszpályaudvarról az északi buszpályaudvarra.",
+            "ro": "Luați autobuzul de la stația Fabrika la stația de nord.",
+            "en": "Take the bus from Fabrika station to the northern bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Manto Mavrogenous Platz",
+            "hu": "Manto Mavrogenous tér",
+            "ro": "Piața Manto Mavrogenous",
+            "en": "Manto Mavrogenous Square"
+          },
+          "coords": [
+            25.3291,
+            37.4482
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:02",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Nachmittag am Hafen.",
+            "hu": "Pihenjen délután a kikötőben.",
+            "ro": "Relaxați-vă în port după-amiaza.",
+            "en": "Relax at the port in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Cocktail zum Sonnenuntergang am Hafen",
+            "hu": "Naplementés koktél a kikötőben",
+            "ro": "Cocktail la apus în port",
+            "en": "Sunset Cocktail at the Port"
+          },
+          "coords": [
+            25.328,
+            37.449
+          ],
+          "category": "gastro",
+          "arrive_at": "15:42",
+          "stay_min": 118,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag stilvoll, bevor Sie den Bus zurück nehmen.",
+            "hu": "Zárja a napot stílusosan, mielőtt visszamenne a buszhoz.",
+            "ro": "Încheiați ziua în stil înainte de a lua autobuzul înapoi.",
+            "en": "End the day in style before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mykonos-Stadt lässt sich hervorragend mit dem Bus und zu Fuß erkunden. Beginnen Sie am südlichen Busbahnhof Fabrika und spazieren Sie zu den Windmühlen und nach Klein-Venedig. Tauchen Sie in das Labyrinth der Altstadt ein, essen Sie zu Mittag und shoppen Sie. Am Nachmittag nehmen Sie den Bus zum Alten Hafen, um das Archäologische Museum zu besuchen. Lassen Sie den Tag mit einem Cocktail zum Sonnenuntergang am Hafen ausklingen, bevor Sie den Bus zurück zu Ihrer Unterkunft nehmen.",
+        "hu": "Mykonos városa kiválóan felfedezhető busszal és gyalog. Kezdje a déli Fabrika buszpályaudvaron, és sétáljon el a szélmalmokhoz és Kis Velencébe. Merüljön el az óváros labirintusában, ebédeljen és vásároljon. Délután szálljon buszra a Régi Kikötőhöz, hogy meglátogassa a Régészeti Múzeumot. Zárja a napot egy naplementés koktéllal a kikötőben, mielőtt visszatérne a szállására busszal.",
+        "ro": "Orașul Mykonos poate fi explorat excelent cu autobuzul și pe jos. Începeți de la stația de autobuz sudică Fabrika și plimbați-vă până la morile de vânt și Mica Veneție. Scufundați-vă în labirintul orașului vechi, luați prânzul și faceți cumpărături. După-amiaza, luați autobuzul spre Portul Vechi pentru a vizita Muzeul Arheologic. Încheiați ziua cu un cocktail la apus în port, înainte de a lua autobuzul înapoi la cazare.",
+        "en": "Mykonos Town is great to explore by bus and on foot. Start at the southern Fabrika bus station and walk to the windmills and Little Venice. Dive into the labyrinth of the old town, have lunch, and do some shopping. In the afternoon, take the bus to the Old Port to visit the Archaeological Museum. End the day with a sunset cocktail at the port before taking the bus back to your accommodation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Niko's Taverna",
+            "tip": "Ein beliebter und belebter Ort in der Nähe des Hafens für klassische griechische Gerichte."
+          },
+          {
+            "name": "Pepper Mykonos",
+            "tip": "Stilvolles Souvlaki und mehr in einer kleinen, charmanten Gasse."
+          },
+          {
+            "name": "I-Scream",
+            "tip": "Das beste Eis der Stadt für eine süße Abkühlung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Niko's Taverna",
+            "tip": "Népszerű és forgalmas hely a kikötő közelében, klasszikus görög ételekkel."
+          },
+          {
+            "name": "Pepper Mykonos",
+            "tip": "Stílusos souvlaki és még sok más egy kicsi, bájos sikátorban."
+          },
+          {
+            "name": "I-Scream",
+            "tip": "A város legjobb fagylaltja egy édes hűsítőért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Niko's Taverna",
+            "tip": "Un loc popular și aglomerat lângă port pentru mâncăruri grecești clasice."
+          },
+          {
+            "name": "Pepper Mykonos",
+            "tip": "Souvlaki elegant și multe altele pe o alee mică și fermecătoare."
+          },
+          {
+            "name": "I-Scream",
+            "tip": "Cea mai bună înghețată din oraș pentru o răcorire dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Niko's Taverna",
+            "tip": "A popular and busy spot near the port for classic Greek dishes."
+          },
+          {
+            "name": "Pepper Mykonos",
+            "tip": "Stylish souvlaki and more in a small, charming alley."
+          },
+          {
+            "name": "I-Scream",
+            "tip": "The best ice cream in town for a sweet cool-down."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten des Ägäischen Schifffahrtsmuseums",
+            "tip": "Eine kleine, grüne Oase der Ruhe mitten in der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Gassen am frühen Morgen",
+            "tip": "Erleben Sie die Stadt, bevor die Menschenmassen eintreffen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein Felsen hinter Klein-Venedig",
+            "tip": "Klettern Sie ein wenig für eine private Aussicht auf den Sonnenuntergang.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Égei-tengeri Tengerészeti Múzeum kertje",
+            "tip": "Egy kicsi, zöld oázis a nyugalom szigetén a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A sikátorok kora reggel",
+            "tip": "Tapasztalja meg a várost, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy szikla Kis Velence mögött",
+            "tip": "Másszon egy kicsit egy privát naplementés kilátásért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Muzeului Maritim Egeean",
+            "tip": "O mică oază verde de liniște în mijlocul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aleile dimineața devreme",
+            "tip": "Experimentați orașul înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O stâncă în spatele Micii Veneții",
+            "tip": "Urcați puțin pentru o priveliște privată la apus.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aegean Maritime Museum Garden",
+            "tip": "A small, green oasis of tranquility in the middle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The alleys in the early morning",
+            "tip": "Experience the city before the crowds arrive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A rock behind Little Venice",
+            "tip": "Climb a little for a private sunset view.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dew Concept Store",
+            "tip": "Ein kuratierter Laden mit griechischer Mode, Keramik und Designobjekten."
+          },
+          {
+            "name": "Nammos Village",
+            "tip": "Wenn Sie Luxusmarken suchen, nehmen Sie den Bus zu diesem exklusiven Einkaufszentrum am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dew Concept Store",
+            "tip": "Egy kurátori üzlet görög divattal, kerámiával és dizájntárgyakkal."
+          },
+          {
+            "name": "Nammos Village",
+            "tip": "Ha luxusmárkákat keres, szálljon buszra ehhez az exkluzív tengerparti bevásárlóközponthoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dew Concept Store",
+            "tip": "Un magazin select cu modă grecească, ceramică și obiecte de design."
+          },
+          {
+            "name": "Nammos Village",
+            "tip": "Dacă sunteți în căutarea mărcilor de lux, luați autobuzul spre acest centru comercial exclusivist de pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dew Concept Store",
+            "tip": "A curated store with Greek fashion, ceramics, and design objects."
+          },
+          {
+            "name": "Nammos Village",
+            "tip": "If you are looking for luxury brands, take the bus to this exclusive beachside shopping center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busse können im Sommer sehr voll werden, planen Sie also etwas mehr Zeit ein.",
+          "Kaufen Sie Ihre Tickets im Voraus an den Kiosken an den Hauptbahnhöfen.",
+          "Der Busfahrplan kann sich ändern, überprüfen Sie die aktuellen Zeiten online oder an den Haltestellen.",
+          "Die beiden Hauptbusbahnhöfe (Fabrika und Alter Hafen) bedienen unterschiedliche Routen."
+        ],
+        "hu": [
+          "A buszok nyáron nagyon zsúfoltak lehetnek, ezért tervezzen egy kis extra időt.",
+          "Vásárolja meg a jegyeket előre a főpályaudvarokon lévő kioszkokban.",
+          "A buszmenetrend változhat, ellenőrizze az aktuális időpontokat online vagy a megállókban.",
+          "A két fő buszpályaudvar (Fabrika és a Régi Kikötő) különböző útvonalakat szolgál ki."
+        ],
+        "ro": [
+          "Autobuzele pot fi foarte aglomerate vara, așa că planificați-vă puțin timp suplimentar.",
+          "Cumpărați biletele în avans de la chioșcurile din stațiile principale.",
+          "Orarul autobuzelor se poate schimba, verificați orele actuale online sau la stații.",
+          "Cele două stații principale de autobuz (Fabrika și Portul Vechi) deservesc rute diferite."
+        ],
+        "en": [
+          "Buses can get very crowded in the summer, so allow some extra time.",
+          "Buy your tickets in advance at the kiosks at the main stations.",
+          "The bus schedule can change, check the current times online or at the stops.",
+          "The two main bus stations (Fabrika and Old Port) serve different routes."
+        ]
+      }
+    }
+  }
+}

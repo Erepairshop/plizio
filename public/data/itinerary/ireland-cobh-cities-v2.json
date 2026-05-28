@@ -1,0 +1,1447 @@
+{
+  "city_id": "ireland-cobh-cities-v2",
+  "anchor": {
+    "name": "Cobh",
+    "coords": [
+      -8.297,
+      51.851
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kennedy Park",
+            "hu": "Kennedy Park",
+            "ro": "Parcul Kennedy",
+            "en": "Kennedy Park"
+          },
+          "coords": [
+            -8.3001,
+            51.8512
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag entspannt mit Blick auf das Wasser.",
+            "hu": "Kezdje a napot egy pihentető sétával a vízparton.",
+            "ro": "Începeți ziua relaxat cu o priveliște spre apă.",
+            "en": "Start your day with a relaxing view of the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Titanic Memorial Garden",
+            "hu": "Titanic Emlékkert",
+            "ro": "Grădina Memorială Titanic",
+            "en": "Titanic Memorial Garden"
+          },
+          "coords": [
+            -8.2975,
+            51.8495
+          ],
+          "category": "parks",
+          "arrive_at": "10:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein ergreifender Ort, der zum Nachdenken über die Geschichte der Titanic anregt.",
+            "hu": "Egy megindító hely, amely a Titanic történetére emlékeztet.",
+            "ro": "Un loc emoționant care te invită să reflectezi la istoria Titanicului.",
+            "en": "A poignant spot for reflection on the Titanic's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Lusitania-Denkmal",
+            "hu": "Lusitania emlékmű",
+            "ro": "Memorialul Lusitania",
+            "en": "Lusitania Memorial"
+          },
+          "coords": [
+            -8.2965,
+            51.8505
+          ],
+          "category": "monuments",
+          "arrive_at": "10:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um dieses wichtige Stück Geschichte zu würdigen.",
+            "hu": "Szánjon egy percet e fontos történelmi esemény tiszteletére.",
+            "ro": "Luați-vă un moment pentru a onora această bucată importantă de istorie.",
+            "en": "Take a moment to appreciate this important piece of history."
+          }
+        },
+        {
+          "name": {
+            "de": "Cobh Heritage Centre",
+            "hu": "Cobh Örökségközpont",
+            "ro": "Centrul de Patrimoniu Cobh",
+            "en": "Cobh Heritage Centre"
+          },
+          "coords": [
+            -8.303,
+            51.852
+          ],
+          "category": "museums",
+          "arrive_at": "11:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Auswanderungsgeschichte Irlands an genau dem Ort, von dem aus viele ihre Reise antraten.",
+            "hu": "Ismerje meg Írország kivándorlási történelmét pontosan ott, ahonnan sokan útnak indultak.",
+            "ro": "Explorați istoria emigrării irlandeze chiar în locul de unde mulți și-au început călătoria.",
+            "en": "Explore Ireland's emigration story right from where many journeys began."
+          }
+        },
+        {
+          "name": {
+            "de": "Titanic Experience Cobh",
+            "hu": "Titanic Élményközpont Cobh",
+            "ro": "Titanic Experience Cobh",
+            "en": "Titanic Experience Cobh"
+          },
+          "coords": [
+            -8.293,
+            51.85
+          ],
+          "category": "museums",
+          "arrive_at": "13:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Buchen Sie Ihre Tickets im Voraus, besonders in der Hochsaison.",
+            "hu": "Foglalja le jegyeit előre, különösen a főszezonban.",
+            "ro": "Rezervați-vă biletele în avans, mai ales în sezonul de vârf.",
+            "en": "Book your tickets in advance, especially during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Deck of Cards Häuser",
+            "hu": "Kártyapakli házak",
+            "ro": "Casele „Pachetul de cărți”",
+            "en": "The Deck of Cards"
+          },
+          "coords": [
+            -8.295,
+            51.854
+          ],
+          "category": "landmark",
+          "arrive_at": "15:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der steile Aufstieg lohnt sich für das ikonische Foto mit der Kathedrale im Hintergrund.",
+            "hu": "A meredek kaptató megéri az ikonikus fotóért, a háttérben a katedrálissal.",
+            "ro": "Urcarea abruptă merită pentru fotografia iconică cu catedrala în fundal.",
+            "en": "The steep climb is worth it for the iconic photo with the cathedral in the background."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Colman-Kathedrale",
+            "hu": "Szent Colman-katedrális",
+            "ro": "Catedrala Sf. Colman",
+            "en": "St. Colman's Cathedral"
+          },
+          "coords": [
+            -8.294,
+            51.853
+          ],
+          "category": "churches",
+          "arrive_at": "15:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Achten Sie auf das Läuten des Carillons, das einzige in Irland dieser Art.",
+            "hu": "Hallgassa meg a harangjátékot, amely egyedülálló Írországban.",
+            "ro": "Ascultați sunetul carillonului, singurul de acest fel din Irlanda.",
+            "en": "Listen for the carillon bells, the only one of its kind in Ireland."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Kennedy Park mit Blick auf den Hafen. Am Vormittag tauchen Sie in die Seefahrtsgeschichte von Cobh ein und besuchen die Denkmäler der Titanic und der Lusitania. Mittags erkunden Sie die bewegenden Geschichten im Heritage Centre und der Titanic Experience. Am Nachmittag steigen Sie zur berühmten „Deck of Cards“-Häuserreihe und der majestätischen St.-Colman-Kathedrale hinauf, die einen atemberaubenden Ausblick bietet. Schließen Sie den Tag mit einem wohlverdienten Abendessen in einem der gemütlichen Pubs am Wasser ab.",
+        "hu": "Kezdje a napot a Kennedy Parkban, a kikötőre nyíló kilátással. A délelőtt folyamán merüljön el Cobh tengerészeti történelmében a Titanic és a Lusitania emlékműveinél. Délben fedezze fel a megindító történeteket az Örökségközpontban és a Titanic Élményközpontban. Délután másszon fel a híres „Kártyapakli” házsorhoz és a fenséges Szent Colman-katedrálishoz, ahonnan lenyűgöző a kilátás. Zárja a napot egy jól megérdemelt vacsorával az egyik hangulatos vízparti pubban.",
+        "ro": "Începeți ziua în Parcul Kennedy, admirând portul. Dimineața, scufundați-vă în istoria maritimă a orașului Cobh la memorialele Titanic și Lusitania. La prânz, explorați poveștile emoționante de la Centrul de Patrimoniu și Titanic Experience. După-amiaza, urcați la faimosul șir de case „Pachetul de cărți” și la maiestuoasa Catedrală Sf. Colman pentru priveliști uimitoare. Încheiați ziua cu o cină binemeritată la unul dintre pub-urile primitoare de pe malul apei.",
+        "en": "Start your day at Kennedy Park overlooking the harbor. In the morning, immerse yourself in Cobh's maritime history at the Titanic and Lusitania memorials. At midday, explore the moving stories at the Heritage Centre and Titanic Experience. In the afternoon, ascend to the famous 'Deck of Cards' houses and the majestic St. Colman's Cathedral for stunning views. End your day with a well-deserved dinner at a cozy waterfront pub."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Quays Bar and Restaurant",
+            "tip": "Probieren Sie den Seafood Chowder, eine lokale Spezialität."
+          },
+          {
+            "name": "The Titanic Bar and Grill",
+            "tip": "Genießen Sie klassische Fish and Chips mit Blick auf den Hafen."
+          },
+          {
+            "name": "Jacob's Ladder at the WatersEdge Hotel",
+            "tip": "Eine gehobenere Option mit fantastischem Blick auf das Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Quays Bar and Restaurant",
+            "tip": "Kóstolja meg a tenger gyümölcsei levest (Seafood Chowder), egy helyi különlegességet."
+          },
+          {
+            "name": "The Titanic Bar and Grill",
+            "tip": "Fogyasszon egy klasszikus Fish and Chips-et a kikötőre néző kilátással."
+          },
+          {
+            "name": "Jacob's Ladder at the WatersEdge Hotel",
+            "tip": "Egy elegánsabb választás fantasztikus vízi panorámával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Quays Bar and Restaurant",
+            "tip": "Încercați supa de fructe de mare (Seafood Chowder), o specialitate locală."
+          },
+          {
+            "name": "The Titanic Bar and Grill",
+            "tip": "Savurați un fish and chips clasic cu vedere la port."
+          },
+          {
+            "name": "Jacob's Ladder at the WatersEdge Hotel",
+            "tip": "O opțiune mai rafinată, cu o priveliște fantastică asupra apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Quays Bar and Restaurant",
+            "tip": "Try the Seafood Chowder, a local specialty."
+          },
+          {
+            "name": "The Titanic Bar and Grill",
+            "tip": "Enjoy classic fish and chips with a view of the harbor."
+          },
+          {
+            "name": "Jacob's Ladder at the WatersEdge Hotel",
+            "tip": "A more upscale option with fantastic water views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bänke im Kennedy Park",
+            "tip": "Ein ruhiger Ort, um die ein- und ausfahrenden Schiffe zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der obere Weg bei Deck of Cards",
+            "tip": "Abseits der Menschenmassen bietet dieser Ort eine friedliche Perspektive.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Five Foot Way Path",
+            "tip": "Ein Spaziergang entlang dieses weniger bekannten Weges bietet Ruhe und schöne Aussichten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Padok a Kennedy Parkban",
+            "tip": "Egy csendes hely a be- és kihajózó hajók figyelésére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Kártyapakli házak feletti út",
+            "tip": "A tömegtől távol, ez a hely békés perspektívát kínál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Five Foot Way ösvény",
+            "tip": "Séta ezen a kevésbé ismert útvonalon nyugalmat és gyönyörű kilátást nyújt.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băncile din Parcul Kennedy",
+            "tip": "Un loc liniștit pentru a privi vapoarele intrând și ieșind din port.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Calea superioară de la Deck of Cards",
+            "tip": "Departe de mulțime, acest loc oferă o perspectivă pașnică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Potecă Five Foot Way",
+            "tip": "O plimbare pe această potecă mai puțin cunoscută oferă liniște și priveliști frumoase.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Benches in Kennedy Park",
+            "tip": "A quiet spot to watch the ships come and go.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The upper road by Deck of Cards",
+            "tip": "Away from the crowds, offering a peaceful perspective.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Five Foot Way Path",
+            "tip": "A stroll along this lesser-known path offers tranquility and lovely views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Christy's Irish Gifts",
+            "tip": "Eine große Auswahl an traditionellen irischen Souvenirs und Wollwaren."
+          },
+          {
+            "name": "Tregan Craft Centre",
+            "tip": "Finden Sie einzigartige, handgefertigte Artikel von lokalen Künstlern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Christy's Irish Gifts",
+            "tip": "Hagyományos ír ajándéktárgyak és gyapjútermékek széles választéka."
+          },
+          {
+            "name": "Tregan Craft Centre",
+            "tip": "Találjon egyedi, kézzel készített tárgyakat helyi művészektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Christy's Irish Gifts",
+            "tip": "O selecție largă de suveniruri tradiționale irlandeze și articole din lână."
+          },
+          {
+            "name": "Centrul de Artizanat Tregan",
+            "tip": "Găsiți articole unice, realizate manual, de la artiști locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Christy's Irish Gifts",
+            "tip": "A wide selection of traditional Irish souvenirs and woolen goods."
+          },
+          {
+            "name": "Tregan Craft Centre",
+            "tip": "Find unique, handcrafted items from local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen von Cobh sehr steil sind.",
+          "Überprüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Das Wetter in Irland kann sich schnell ändern, packen Sie also eine Regenjacke ein.",
+          "Viele Geschäfte und Pubs befinden sich entlang der Hauptstraße am Wasser."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, Cobh utcái nagyon meredekek.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "Az írországi időjárás gyorsan változhat, ezért csomagoljon esőkabátot.",
+          "Sok üzlet és pub található a vízparti főút mentén."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile din Cobh sunt foarte abrupte.",
+          "Verificați în avans orele de funcționare ale muzeelor.",
+          "Vremea în Irlanda se poate schimba rapid, așa că luați o geacă de ploaie.",
+          "Multe magazine și pub-uri sunt situate de-a lungul străzii principale de pe malul apei."
+        ],
+        "en": [
+          "Wear comfortable shoes as Cobh's streets are very steep.",
+          "Check museum opening times in advance.",
+          "The weather in Ireland can change quickly, so pack a raincoat.",
+          "Many shops and pubs are located along the main waterfront street."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cobh Heritage Centre",
+            "hu": "Cobh Örökségközpont",
+            "ro": "Centrul de Patrimoniu Cobh",
+            "en": "Cobh Heritage Centre"
+          },
+          "coords": [
+            -8.303,
+            51.852
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um einen Überblick über die reiche Geschichte der Stadt zu bekommen.",
+            "hu": "Kezdje itt, hogy áttekintést kapjon a város gazdag történelméről.",
+            "ro": "Începeți aici pentru a obține o imagine de ansamblu asupra istoriei bogate a orașului.",
+            "en": "Start here to get an overview of the town's rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kennedy Park",
+            "hu": "Kennedy Park",
+            "ro": "Parcul Kennedy",
+            "en": "Kennedy Park"
+          },
+          "coords": [
+            -8.3001,
+            51.8512
+          ],
+          "category": "parks",
+          "arrive_at": "10:52",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und machen Sie einen kurzen Spaziergang am Wasser.",
+            "hu": "Zárja le a kerékpárt és tegyen egy rövid sétát a vízparton.",
+            "ro": "Parcați bicicleta și faceți o scurtă plimbare pe malul apei.",
+            "en": "Park your bike and take a short stroll along the waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Titanic Experience Cobh",
+            "hu": "Titanic Élményközpont Cobh",
+            "ro": "Titanic Experience Cobh",
+            "en": "Titanic Experience Cobh"
+          },
+          "coords": [
+            -8.293,
+            51.85
+          ],
+          "category": "museums",
+          "arrive_at": "11:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine fesselnde Erfahrung, die Sie in die Zeit der Titanic zurückversetzt.",
+            "hu": "Magával ragadó élmény, amely visszarepít a Titanic korába.",
+            "ro": "O experiență captivantă care vă transportă înapoi în timp, în epoca Titanicului.",
+            "en": "A captivating experience that takes you back to the Titanic era."
+          }
+        },
+        {
+          "name": {
+            "de": "Lusitania-Denkmal & Titanic Garten",
+            "hu": "Lusitania Emlékmű és Titanic Kert",
+            "ro": "Memorialul Lusitania și Grădina Titanic",
+            "en": "Lusitania Memorial & Titanic Garden"
+          },
+          "coords": [
+            -8.297,
+            51.85
+          ],
+          "category": "monuments",
+          "arrive_at": "13:26",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zwei wichtige Gedenkstätten, die nahe beieinander liegen.",
+            "hu": "Két fontos emlékmű, amelyek közel vannak egymáshoz.",
+            "ro": "Două memoriale importante situate aproape unul de celălalt.",
+            "en": "Two important memorials located close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Colman-Kathedrale",
+            "hu": "Szent Colman-katedrális",
+            "ro": "Catedrala Sf. Colman",
+            "en": "St. Colman's Cathedral"
+          },
+          "coords": [
+            -8.294,
+            51.853
+          ],
+          "category": "churches",
+          "arrive_at": "14:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bereiten Sie sich auf einen steilen Anstieg vor, aber die Aussicht und die Architektur sind es wert.",
+            "hu": "Készüljön fel egy meredek emelkedőre, de a kilátás és az építészet megéri.",
+            "ro": "Pregătiți-vă pentru o urcare abruptă, dar priveliștea și arhitectura merită.",
+            "en": "Be prepared for a steep climb, but the views and architecture are worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Deck of Cards Häuser",
+            "hu": "Kártyapakli házak",
+            "ro": "Casele „Pachetul de cărți”",
+            "en": "The Deck of Cards"
+          },
+          "coords": [
+            -8.295,
+            51.854
+          ],
+          "category": "landmark",
+          "arrive_at": "15:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Finden Sie den besten Fotopunkt von unten auf der Straße.",
+            "hu": "Találja meg a legjobb fotópontot az utca aljáról.",
+            "ro": "Găsiți cel mai bun loc pentru fotografii de jos, de pe stradă.",
+            "en": "Find the best photo spot from down the street."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie am Morgen entlang der Küste und beginnen Sie mit der reichen Geschichte im Heritage Centre. Machen Sie eine Pause im Kennedy Park, bevor Sie in der Titanic Experience in die Vergangenheit eintauchen. Nach dem Mittagessen besuchen Sie die ergreifenden Denkmäler am Wasser. Am Nachmittag stellen Sie sich der Herausforderung und radeln den steilen Hügel zur St. Colman's Cathedral und den berühmten „Deck of Cards“-Häusern hinauf, wo Sie mit einer spektakulären Aussicht belohnt werden.",
+        "hu": "Reggel tekerjen végig a part mentén, kezdve a gazdag történelemmel az Örökségközpontban. Tartson szünetet a Kennedy Parkban, mielőtt elmerülne a múltban a Titanic Élményközpontban. Ebéd után látogassa meg a megindító vízparti emlékműveket. Délután vállalja a kihívást, és tekerjen fel a meredek dombra a Szent Colman-katedrálishoz és a híres „Kártyapakli” házakhoz, ahol látványos kilátásban lesz része.",
+        "ro": "Dimineața, pedalați de-a lungul coastei, începând cu istoria bogată de la Centrul de Patrimoniu. Faceți o pauză în Parcul Kennedy înainte de a vă cufunda în trecut la Titanic Experience. După prânz, vizitați memorialele emoționante de pe malul apei. După-amiaza, acceptați provocarea și urcați pe dealul abrupt până la Catedrala Sf. Colman și faimoasele case „Pachetul de cărți” pentru o recompensă cu priveliști spectaculoase.",
+        "en": "In the morning, cycle along the waterfront, starting with the rich history at the Heritage Centre. Take a break at Kennedy Park before delving into the past at the Titanic Experience. After lunch, visit the poignant memorials by the water. In the afternoon, take on the challenge and cycle up the steep hill to St. Colman's Cathedral and the famous 'Deck of Cards' houses for a spectacular scenic reward."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seasalt Cafe",
+            "tip": "Perfekt für einen schnellen Kaffee und einen leichten Snack."
+          },
+          {
+            "name": "The Rob Roy Bar",
+            "tip": "Ein traditioneller Pub, ideal für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Gilbert's Restaurant",
+            "tip": "Bietet moderne irische Küche aus lokalen Zutaten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Seasalt Cafe",
+            "tip": "Tökéletes egy gyors kávéra és egy könnyű harapnivalóra."
+          },
+          {
+            "name": "The Rob Roy Bar",
+            "tip": "Hagyományos pub, ideális egy kiadós ebédhez."
+          },
+          {
+            "name": "Gilbert's Restaurant",
+            "tip": "Modern ír konyhát kínál helyi alapanyagokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Seasalt Cafe",
+            "tip": "Perfect pentru o cafea rapidă și o gustare ușoară."
+          },
+          {
+            "name": "The Rob Roy Bar",
+            "tip": "Un pub tradițional, ideal pentru un prânz copios."
+          },
+          {
+            "name": "Gilbert's Restaurant",
+            "tip": "Oferă bucătărie irlandeză modernă cu ingrediente locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seasalt Cafe",
+            "tip": "Perfect for a quick coffee and a light snack."
+          },
+          {
+            "name": "The Rob Roy Bar",
+            "tip": "A traditional pub, great for a hearty lunch."
+          },
+          {
+            "name": "Gilbert's Restaurant",
+            "tip": "Offers modern Irish cuisine with local ingredients."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Spitze des Hügels bei St. Colman's",
+            "tip": "Genießen Sie die Ruhe und den Panoramablick über den Hafen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Whitepoint Beach",
+            "tip": "Eine kurze Radtour entfernt, ein friedlicher Ort, um dem Trubel zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von der West View (Straße)",
+            "tip": "Ein ruhiger Aussichtspunkt, um die bunten Häuser zu bewundern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Szent Colman-katedrális melletti domb teteje",
+            "tip": "Élvezze a csendet és a panorámás kilátást a kikötőre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Whitepoint strand",
+            "tip": "Rövid biciklizésre található, egy békés hely a nyüzsgés elől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a West View utcáról",
+            "tip": "Egy csendes kilátópont a színes házak megcsodálására.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful dealului de la Sf. Colman",
+            "tip": "Bucurați-vă de liniște și de vederea panoramică asupra portului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaja Whitepoint",
+            "tip": "La o scurtă plimbare cu bicicleta, un loc pașnic pentru a scăpa de agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de pe West View (stradă)",
+            "tip": "Un punct de belvedere liniștit pentru a admira casele colorate.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The top of the hill by St. Colman's",
+            "tip": "Enjoy the quiet and the panoramic view over the harbor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Whitepoint Beach",
+            "tip": "A short cycle away, a peaceful spot to escape the bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from West View (street)",
+            "tip": "A quiet vantage point to admire the colorful houses.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cobh Farmers Market",
+            "tip": "Wenn Sie an einem Freitag hier sind, finden Sie hier lokale Produkte und Kunsthandwerk."
+          },
+          {
+            "name": "The Irish Shop",
+            "tip": "Bietet eine Vielzahl von irischen Geschenken und Kleidungsstücken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cobh-i termelői piac",
+            "tip": "Ha pénteken jár itt, helyi termékeket és kézműves árukat talál."
+          },
+          {
+            "name": "The Irish Shop",
+            "tip": "Ír ajándékok és ruházati cikkek széles választékát kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Agricolă din Cobh",
+            "tip": "Dacă sunteți aici într-o vineri, veți găsi produse locale și artizanat."
+          },
+          {
+            "name": "The Irish Shop",
+            "tip": "Oferă o varietate de cadouri și articole de îmbrăcăminte irlandeze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cobh Farmers Market",
+            "tip": "If you're here on a Friday, find local produce and crafts."
+          },
+          {
+            "name": "The Irish Shop",
+            "tip": "Offers a variety of Irish gifts and apparel."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Seien Sie auf die steilen Hügel vorbereitet; ein E-Bike könnte eine gute Option sein.",
+          "Schließen Sie Ihr Fahrrad an den dafür vorgesehenen Ständern sicher ab.",
+          "Planen Sie Ihre Route, um die verkehrsreichsten Straßen zu vermeiden.",
+          "Nehmen Sie Wasser mit, besonders für den Aufstieg zur Kathedrale."
+        ],
+        "hu": [
+          "Készüljön fel a meredek dombokra; egy e-bicikli jó választás lehet.",
+          "Biztonságosan zárja le a kerékpárt a kijelölt tárolókban.",
+          "Tervezze meg az útvonalat, hogy elkerülje a legforgalmasabb utakat.",
+          "Vigyen magával vizet, különösen a katedrálishoz való emelkedőhöz."
+        ],
+        "ro": [
+          "Fiți pregătit pentru dealurile abrupte; o bicicletă electrică ar putea fi o opțiune bună.",
+          "Asigurați-vă bicicleta în siguranță la suporturile desemnate.",
+          "Planificați-vă traseul pentru a evita cele mai aglomerate străzi.",
+          "Luați apă cu dvs., mai ales pentru urcarea la catedrală."
+        ],
+        "en": [
+          "Be prepared for the steep hills; an e-bike might be a good option.",
+          "Lock your bike securely at designated racks.",
+          "Plan your route to avoid the busiest streets.",
+          "Bring water, especially for the climb to the cathedral."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 10.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spike Island Fähranleger",
+            "hu": "Spike-szigeti komp kikötő",
+            "ro": "Terminalul de feribot Spike Island",
+            "en": "Spike Island Ferry Terminal"
+          },
+          "coords": [
+            -8.292,
+            51.85
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 240,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Stadt und nehmen Sie die Fähre. Die Tour dauert mehrere Stunden.",
+            "hu": "Parkolja le az autót a városban, és szálljon kompra. A túra több órát vesz igénybe.",
+            "ro": "Parcați mașina în oraș și luați feribotul. Turul durează câteva ore.",
+            "en": "Park your car in town and take the ferry. The tour takes several hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum von Cobh",
+            "hu": "Ebéd Cobh központjában",
+            "ro": "Prânz în centrul orașului Cobh",
+            "en": "Lunch in Cobh Centre"
+          },
+          "coords": [
+            -8.295,
+            51.851
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach der Rückkehr von Spike Island, stärken Sie sich in einem der vielen Restaurants.",
+            "hu": "Miután visszatért a Spike-szigetről, erősítse meg magát az egyik étteremben.",
+            "ro": "După întoarcerea de pe Insula Spike, reîncărcați-vă bateriile la unul dintre multele restaurante.",
+            "en": "After returning from Spike Island, refuel at one of the many restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Titanic Experience & Heritage Centre Cluster",
+            "hu": "Titanic Élményközpont és Örökségközpont Csoport",
+            "ro": "Clusterul Titanic Experience și Centrul de Patrimoniu",
+            "en": "Titanic Experience & Heritage Centre Cluster"
+          },
+          "coords": [
+            -8.298,
+            51.851
+          ],
+          "category": "museums",
+          "arrive_at": "14:32",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie einmal und besuchen Sie beide Museen zu Fuß, da sie nahe beieinander liegen.",
+            "hu": "Parkoljon le egyszer, és látogassa meg mindkét múzeumot gyalog, mivel közel vannak egymáshoz.",
+            "ro": "Parcați o dată și vizitați ambele muzee pe jos, deoarece sunt aproape.",
+            "en": "Park once and visit both museums on foot as they are close together."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz bei St. Colman's",
+            "hu": "Parkoló a Szent Colman-katedrálisnál",
+            "ro": "Parcare la Catedrala Sf. Colman",
+            "en": "St. Colman's Cathedral Car Park"
+          },
+          "coords": [
+            -8.2945,
+            51.8535
+          ],
+          "category": "landmark",
+          "arrive_at": "16:35",
+          "stay_min": 10,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hügel, um den steilen Aufstieg zu vermeiden. Parkplätze sind begrenzt.",
+            "hu": "Hajtson fel a dombra, hogy elkerülje a meredek emelkedőt. A parkolóhelyek korlátozottak.",
+            "ro": "Conduceți până pe deal pentru a evita urcarea abruptă. Locurile de parcare sunt limitate.",
+            "en": "Drive up the hill to avoid the steep walk. Parking is limited."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Colman-Kathedrale",
+            "hu": "Szent Colman-katedrális",
+            "ro": "Catedrala Sf. Colman",
+            "en": "St. Colman's Cathedral"
+          },
+          "coords": [
+            -8.294,
+            51.853
+          ],
+          "category": "churches",
+          "arrive_at": "16:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur und die Aussicht.",
+            "hu": "Csodálja meg a neogótikus építészetet és a kilátást.",
+            "ro": "Admirați arhitectura neogotică și priveliștea.",
+            "en": "Admire the neo-Gothic architecture and the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Deck of Cards Fotopunkt",
+            "hu": "Kártyapakli Fotópont",
+            "ro": "Punct foto Deck of Cards",
+            "en": "Deck of Cards Photo Spot"
+          },
+          "coords": [
+            -8.295,
+            51.854
+          ],
+          "category": "landmark",
+          "arrive_at": "17:48",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kathedrale für die klassische Cobh-Postkarte.",
+            "hu": "Rövid séta a katedrálistól a klasszikus cobh-i képeslapfotóért.",
+            "ro": "O scurtă plimbare de la catedrală pentru fotografia clasică de carte poștală din Cobh.",
+            "en": "A short walk from the cathedral for that classic Cobh postcard shot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Abenteuer am Morgen mit einer Fahrt zum Fähranleger für Spike Island, einer historischen Festung und einem ehemaligen Gefängnis. Nach Ihrer Rückkehr am Mittag parken Sie im Zentrum und genießen ein Mittagessen. Am Nachmittag erkunden Sie zu Fuß das maritime Cluster mit der Titanic Experience und dem Heritage Centre. Später fahren Sie den Hügel hinauf zur St. Colman's Cathedral, parken dort und spazieren zum berühmten „Deck of Cards“-Aussichtspunkt, um den Tag mit einem ikonischen Blick ausklingen zu lassen.",
+        "hu": "Kezdje a kalandot reggel egy utazással a Spike-szigeti komp kikötőjébe, egy történelmi erődhöz és egykori börtönhöz. Délben, miután visszatért, parkoljon le a központban és ebédeljen. Délután fedezze fel gyalog a tengerészeti központot a Titanic Élményközponttal és az Örökségközponttal. Később hajtson fel a dombra a Szent Colman-katedrálishoz, parkoljon le, és sétáljon el a híres „Kártyapakli” kilátóponthoz, hogy egy ikonikus látvánnyal zárja a napot.",
+        "ro": "Începeți aventura dimineața cu o călătorie cu mașina până la terminalul de feribot pentru Insula Spike, o fortăreață istorică și o fostă închisoare. La prânz, la întoarcere, parcați în centru și bucurați-vă de prânz. După-amiaza, explorați pe jos clusterul maritim, inclusiv Titanic Experience și Centrul de Patrimoniu. Mai târziu, urcați cu mașina pe deal până la Catedrala Sf. Colman, parcați și plimbați-vă până la faimosul punct de vedere „Pachetul de cărți” pentru a încheia ziua cu o priveliște iconică.",
+        "en": "Start your adventure in the morning by driving to the ferry terminal for Spike Island, a historic fortress and former prison. Upon your return at midday, park in the centre and enjoy lunch. In the afternoon, explore the maritime cluster on foot, including the Titanic Experience and Heritage Centre. Later, drive up the hill to St. Colman's Cathedral, park, and stroll to the famous 'Deck of Cards' viewpoint to end the day with an iconic view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Commodore Hotel",
+            "tip": "Bietet traditionelle Gerichte in einem historischen Ambiente."
+          },
+          {
+            "name": "Titanic Sea Salt",
+            "tip": "Ein kleines, charmantes Café für eine Kaffeepause."
+          },
+          {
+            "name": "The Roaring Donkey",
+            "tip": "Ein authentischer irischer Pub etwas außerhalb des Zentrums, eine kurze Autofahrt entfernt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Commodore Hotel",
+            "tip": "Hagyományos ételeket kínál történelmi környezetben."
+          },
+          {
+            "name": "Titanic Sea Salt",
+            "tip": "Egy apró, bájos kávézó egy kávészünetre."
+          },
+          {
+            "name": "The Roaring Donkey",
+            "tip": "Autentikus ír pub kissé a központon kívül, rövid autóútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Commodore Hotel",
+            "tip": "Servește mâncăruri tradiționale într-un cadru istoric."
+          },
+          {
+            "name": "Titanic Sea Salt",
+            "tip": "O cafenea mică și fermecătoare pentru o pauză de cafea."
+          },
+          {
+            "name": "The Roaring Donkey",
+            "tip": "Un pub irlandez autentic, puțin în afara centrului, la o scurtă călătorie cu mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Commodore Hotel",
+            "tip": "Serving traditional meals in a historic setting."
+          },
+          {
+            "name": "Titanic Sea Salt",
+            "tip": "A small, charming cafe for a coffee break."
+          },
+          {
+            "name": "The Roaring Donkey",
+            "tip": "An authentic Irish pub slightly out of the centre, a short drive away."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Gärten auf Spike Island",
+            "tip": "Finden Sie einen ruhigen Winkel, um die Geschichte und die Aussicht zu genießen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Der Friedhof von Old Church",
+            "tip": "Ein historischer und friedlicher Ort, eine kurze Autofahrt entfernt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick von der Anlegestelle in Rushbrooke",
+            "tip": "Fahren Sie ein kleines Stück die Küste entlang für einen anderen Blick auf Cobh.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Spike-sziget kertjei",
+            "tip": "Találjon egy csendes zugot, hogy élvezze a történelmet és a kilátást.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az Old Church temetője",
+            "tip": "Történelmi és békés hely, rövid autóútra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a rushbrooke-i mólóról",
+            "tip": "Vezessen egy kicsit a part mentén egy másik nézőpontért Cobh-ra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile de pe Insula Spike",
+            "tip": "Găsiți un colț liniștit pentru a vă bucura de istorie și de priveliște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul Bisericii Vechi",
+            "tip": "Un loc istoric și pașnic, la o scurtă distanță cu mașina.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de la debarcaderul din Rushbrooke",
+            "tip": "Conduceți puțin de-a lungul coastei pentru o perspectivă diferită asupra orașului Cobh.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The gardens on Spike Island",
+            "tip": "Find a quiet corner to enjoy the history and the views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Old Church Cemetery",
+            "tip": "A historic and peaceful spot a short drive away.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from Rushbrooke Pier",
+            "tip": "Drive a little down the coast for a different perspective on Cobh.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Spike Island Gift Shop",
+            "tip": "Einzigartige Souvenirs im Zusammenhang mit der Geschichte der Insel."
+          },
+          {
+            "name": "Cobh's Waterfront Shops",
+            "tip": "Stöbern Sie nach Kunsthandwerk und Geschenken, nachdem Sie Ihr Auto geparkt haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spike-szigeti ajándékbolt",
+            "tip": "Egyedi ajándéktárgyak a sziget történelmével kapcsolatban."
+          },
+          {
+            "name": "Cobh vízparti üzletei",
+            "tip": "Böngésszen kézműves termékek és ajándékok között, miután leparkolta az autót."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri Spike Island",
+            "tip": "Suveniruri unice legate de istoria insulei."
+          },
+          {
+            "name": "Magazinele de pe faleza din Cobh",
+            "tip": "Căutați obiecte de artizanat și cadouri după ce parcați mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spike Island Gift Shop",
+            "tip": "Unique souvenirs related to the island's history."
+          },
+          {
+            "name": "Cobh's Waterfront Shops",
+            "tip": "Browse for crafts and gifts after parking your car."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie die Fähre nach Spike Island und die Tickets im Voraus, da sie schnell ausverkauft sein können.",
+          "Die Parkplätze im Zentrum von Cobh, besonders in der Nähe der Touristenattraktionen, sind begrenzt und oft gebührenpflichtig.",
+          "Planen Sie zusätzliche Zeit für die Parkplatzsuche ein, besonders in der Hochsaison.",
+          "Beachten Sie die engen und steilen Straßen beim Fahren in der Stadt."
+        ],
+        "hu": [
+          "Foglalja le előre a kompot és a jegyeket a Spike-szigetre, mert hamar elkelhetnek.",
+          "A parkolóhelyek Cobh központjában, különösen a turisztikai látványosságok közelében, korlátozottak és gyakran fizetősek.",
+          "Tervezzen plusz időt a parkolóhely keresésére, különösen a főszezonban.",
+          "Vezetés közben figyeljen a szűk és meredek utakra a városban."
+        ],
+        "ro": [
+          "Rezervați feribotul și biletele pentru Insula Spike în avans, deoarece se pot epuiza rapid.",
+          "Parcarea în centrul orașului Cobh, în special în apropierea atracțiilor turistice, este limitată și adesea cu plată.",
+          "Planificați timp suplimentar pentru găsirea unui loc de parcare, mai ales în sezonul de vârf.",
+          "Fiți atenți la străzile înguste și abrupte când conduceți prin oraș."
+        ],
+        "en": [
+          "Book the Spike Island ferry and tickets well in advance as they can sell out.",
+          "Parking in Cobh centre, especially near the tourist spots, is limited and often paid.",
+          "Allow extra time for finding a parking space, particularly during peak season.",
+          "Be mindful of narrow and steep streets when driving in town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Cobh & Heritage Centre",
+            "hu": "Cobh vasútállomás és Örökségközpont",
+            "ro": "Gara Cobh și Centrul de Patrimoniu",
+            "en": "Cobh Train Station & Heritage Centre"
+          },
+          "coords": [
+            -8.303,
+            51.852
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich direkt im Bahnhofsgebäude, ein perfekter Startpunkt.",
+            "hu": "A múzeum közvetlenül a vasútállomás épületében található, tökéletes kiindulópont.",
+            "ro": "Muzeul este situat chiar în clădirea gării, un punct de plecare perfect.",
+            "en": "The museum is located right in the train station building, a perfect starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Kennedy Park & Hafenfront",
+            "hu": "Kennedy Park és kikötő",
+            "ro": "Parcul Kennedy și faleza",
+            "en": "Kennedy Park & Waterfront"
+          },
+          "coords": [
+            -8.3001,
+            51.8512
+          ],
+          "category": "parks",
+          "arrive_at": "10:52",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof, um die maritime Atmosphäre aufzusaugen.",
+            "hu": "Rövid séta az állomástól, hogy magába szívja a tengeri hangulatot.",
+            "ro": "O scurtă plimbare de la gară pentru a absorbi atmosfera maritimă.",
+            "en": "A short walk from the station to soak in the maritime atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Titanic Experience & Denkmäler",
+            "hu": "Titanic Élményközpont és Emlékművek",
+            "ro": "Titanic Experience și Memoriale",
+            "en": "Titanic Experience & Memorials"
+          },
+          "coords": [
+            -8.294,
+            51.85
+          ],
+          "category": "museums",
+          "arrive_at": "11:47",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie das Museum und die nahegelegenen Gedenkstätten in einem Rundgang.",
+            "hu": "Látogassa meg a múzeumot és a közeli emlékműveket egyetlen sétával.",
+            "ro": "Vizitați muzeul și memorialele din apropiere într-un singur tur pietonal.",
+            "en": "Visit the museum and the nearby memorials in one walking loop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle für den Hügel",
+            "hu": "Buszmegálló a dombhoz",
+            "ro": "Stația de autobuz pentru deal",
+            "en": "Bus Stop for the Hill"
+          },
+          "coords": [
+            -8.295,
+            51.851
+          ],
+          "category": "landmark",
+          "arrive_at": "14:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um den steilsten Teil des Aufstiegs zu vermeiden.",
+            "hu": "Menjen helyi busszal, hogy elkerülje az emelkedő legmeredekebb részét.",
+            "ro": "Luați un autobuz local pentru a evita cea mai abruptă parte a urcării.",
+            "en": "Take a local bus to avoid the steepest part of the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Colman-Kathedrale",
+            "hu": "Szent Colman-katedrális",
+            "ro": "Catedrala Sf. Colman",
+            "en": "St. Colman's Cathedral"
+          },
+          "coords": [
+            -8.294,
+            51.853
+          ],
+          "category": "churches",
+          "arrive_at": "14:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die majestätische Präsenz und die Aussicht von oben.",
+            "hu": "Élvezze a fenséges jelenlétet és a fentről nyíló kilátást.",
+            "ro": "Bucurați-vă de prezența maiestuoasă și de priveliștea de sus.",
+            "en": "Enjoy the majestic presence and the view from the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Deck of Cards & Abstieg",
+            "hu": "Kártyapakli és leereszkedés",
+            "ro": "Deck of Cards și coborâre",
+            "en": "Deck of Cards & Descent"
+          },
+          "coords": [
+            -8.295,
+            51.854
+          ],
+          "category": "landmark",
+          "arrive_at": "15:36",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie Ihr Foto und genießen Sie den gemütlichen Spaziergang bergab zurück ins Zentrum.",
+            "hu": "Készítse el a fotót, majd élvezze a kényelmes sétát lefelé a központba.",
+            "ro": "Faceți-vă fotografia și bucurați-vă de plimbarea relaxantă la vale înapoi spre centru.",
+            "en": "Take your photo and enjoy the leisurely walk downhill back to the centre."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Bahnhof, wo Sie direkt in das Heritage Centre eintauchen. Am Vormittag erkunden Sie zu Fuß das Hafenviertel, den Kennedy Park und die ergreifenden Titanic-Gedenkstätten. Nach dem Mittagessen nehmen Sie einen Bus, um den steilen Hügel zu erklimmen. Oben angekommen, besichtigen Sie die prächtige St. Colman's Cathedral. Am späten Nachmittag spazieren Sie zum „Deck of Cards“-Fotomotiv und schlendern dann gemütlich den Hügel hinunter, um Ihren Zug zurück zu erwischen.",
+        "hu": "A nap a vasútállomáson kezdődik, ahol rögtön elmerülhet az Örökségközpontban. A délelőtt folyamán gyalog fedezze fel a kikötő negyedét, a Kennedy Parkot és a megindító Titanic-emlékműveket. Ebéd után szálljon buszra, hogy feljusson a meredek dombra. A csúcson tekintse meg a csodálatos Szent Colman-katedrálist. Késő délután sétáljon el a „Kártyapakli” fotóponthoz, majd kényelmesen sétáljon le a dombról, hogy elérje a visszainduló vonatot.",
+        "ro": "Ziua dvs. începe la gară, unde vă puteți scufunda direct în Centrul de Patrimoniu. În timpul dimineții, explorați pe jos zona portuară, Parcul Kennedy și memorialele emoționante ale Titanicului. După prânz, luați un autobuz pentru a urca pe dealul abrupt. Odată ajunși sus, vizitați magnifica Catedrală Sf. Colman. Spre sfârșitul după-amiezii, faceți o plimbare până la punctul foto „Pachetul de cărți” și apoi coborâți agale dealul pentru a prinde trenul de întoarcere.",
+        "en": "Your day starts at the train station, diving straight into the Heritage Centre. During the morning, explore the waterfront cluster on foot, including Kennedy Park and the poignant Titanic memorials. After lunch, take a bus to conquer the steep hill. At the top, visit the magnificent St. Colman's Cathedral. In the late afternoon, stroll to the 'Deck of Cards' photo spot, then wander leisurely downhill to catch your train back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Coffee Stop",
+            "tip": "Ideal für einen Kaffee vor oder nach der Zugfahrt."
+          },
+          {
+            "name": "The Titanic Bar and Grill",
+            "tip": "Zentral gelegen für ein Mittagessen zwischen den Museen."
+          },
+          {
+            "name": "The Bellavista Hotel",
+            "tip": "Genießen Sie ein Abendessen mit Aussicht, bevor Sie die Stadt verlassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Coffee Stop",
+            "tip": "Ideális egy kávéra a vonatút előtt vagy után."
+          },
+          {
+            "name": "The Titanic Bar and Grill",
+            "tip": "Központi fekvésű egy ebédhez a múzeumok között."
+          },
+          {
+            "name": "The Bellavista Hotel",
+            "tip": "Élvezze a vacsorát kilátással, mielőtt elhagyja a várost."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Coffee Stop",
+            "tip": "Ideal pentru o cafea înainte sau după călătoria cu trenul."
+          },
+          {
+            "name": "The Titanic Bar and Grill",
+            "tip": "Situat central pentru un prânz între muzee."
+          },
+          {
+            "name": "The Bellavista Hotel",
+            "tip": "Bucurați-vă de o cină cu priveliște înainte de a părăsi orașul."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Coffee Stop",
+            "tip": "Ideal for a coffee before or after your train journey."
+          },
+          {
+            "name": "The Titanic Bar and Grill",
+            "tip": "Centrally located for lunch between museums."
+          },
+          {
+            "name": "The Bellavista Hotel",
+            "tip": "Enjoy dinner with a view before leaving town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank am Bahnhof",
+            "tip": "Beobachten Sie das Kommen und Gehen in ruhiger Atmosphäre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Der Innenraum der St. Colman's Kathedrale",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Promenade am Abend",
+            "tip": "Nachdem die Tagesausflügler weg sind, ist es hier sehr friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a vasútállomáson",
+            "tip": "Figyelje a jövés-menést nyugodt légkörben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Szent Colman-katedrális beltere",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A parti sétány este",
+            "tip": "Miután a napközbeni kirándulók elmentek, itt nagyon békés.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă la gară",
+            "tip": "Urmăriți forfota într-o atmosferă liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Interiorul Catedralei Sf. Colman",
+            "tip": "Un loc de liniște și contemplare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Promenada de seară",
+            "tip": "După plecarea excursioniștilor de o zi, este foarte pașnic aici.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench at the train station",
+            "tip": "Watch the comings and goings in a calm atmosphere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Inside St. Colman's Cathedral",
+            "tip": "A place of silence and contemplation.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The promenade in the evening",
+            "tip": "After the day-trippers have left, it's very peaceful here.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschenkeladen im Heritage Centre",
+            "tip": "Kaufen Sie Souvenirs direkt am Anfang oder Ende Ihrer Reise."
+          },
+          {
+            "name": "Casement Square Shops",
+            "tip": "Kleine Boutiquen und Geschäfte im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt az Örökségközpontban",
+            "tip": "Vásároljon ajándéktárgyakat közvetlenül az utazás elején vagy végén."
+          },
+          {
+            "name": "Casement Square üzletei",
+            "tip": "Kis butikok és boltok a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri de la Centrul de Patrimoniu",
+            "tip": "Cumpărați suveniruri chiar la începutul sau la sfârșitul călătoriei."
+          },
+          {
+            "name": "Magazinele din Piața Casement",
+            "tip": "Mici buticuri și magazine în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gift Shop at the Heritage Centre",
+            "tip": "Buy souvenirs right at the start or end of your trip."
+          },
+          {
+            "name": "Casement Square Shops",
+            "tip": "Small boutiques and stores in the heart of town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zugfahrplan von und nach Cork sorgfältig.",
+          "Eine Leap Card kann für Bus- und Zugfahrten in der Region nützlich sein.",
+          "Die Buslinien in Cobh sind nicht sehr häufig, planen Sie also Wartezeiten ein.",
+          "Die meisten Attraktionen am Wasser sind leicht zu Fuß vom Bahnhof aus zu erreichen."
+        ],
+        "hu": [
+          "Gondosan ellenőrizze a Corkból induló és oda érkező vonatok menetrendjét.",
+          "A Leap Card hasznos lehet a busz- és vonatutakhoz a régióban.",
+          "A cobh-i buszjáratok nem túl sűrűk, ezért tervezzen várakozási idővel.",
+          "A legtöbb vízparti látványosság könnyen megközelíthető gyalog a vasútállomástól."
+        ],
+        "ro": [
+          "Verificați cu atenție orarul trenurilor din și spre Cork.",
+          "Un card Leap poate fi util pentru călătoriile cu autobuzul și trenul în regiune.",
+          "Serviciile de autobuz din Cobh nu sunt foarte frecvente, așa că planificați timpi de așteptare.",
+          "Majoritatea atracțiilor de pe malul apei sunt la o distanță de mers pe jos de gară."
+        ],
+        "en": [
+          "Check the train schedule to and from Cork carefully.",
+          "A Leap Card can be useful for bus and train travel in the region.",
+          "Bus services within Cobh are not very frequent, so plan for some waiting time.",
+          "Most waterfront attractions are within easy walking distance of the train station."
+        ]
+      }
+    }
+  }
+}

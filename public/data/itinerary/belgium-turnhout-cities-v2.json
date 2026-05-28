@@ -1,0 +1,1556 @@
+{
+  "city_id": "belgium-turnhout-cities-v2",
+  "anchor": {
+    "name": "Turnhout",
+    "coords": [
+      4.9447,
+      51.3225
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Grote Markt",
+            "hu": "Grote Markt (Fő tér)",
+            "ro": "Grote Markt (Piața Mare)",
+            "en": "Grote Markt (Main Square)"
+          },
+          "coords": [
+            4.9447,
+            51.3225
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér valamelyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
+            "en": "Start your day with a coffee at one of the many cafés lining the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Pieterskerk",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sfântul Petru",
+            "en": "St. Peter's Church"
+          },
+          "coords": [
+            4.9455,
+            51.3235
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Kanzel und die barocken Beichtstühle.",
+            "hu": "Figyelje meg a lenyűgöző szószéket és a barokk gyóntatószékeket.",
+            "ro": "Fiți atenți la amvonul impresionant și la confesionalele baroce.",
+            "en": "Look out for the impressive pulpit and the baroque confessionals."
+          }
+        },
+        {
+          "name": {
+            "de": "Begijnhof",
+            "hu": "Beginaház",
+            "ro": "Begijnhof (Beguinage)",
+            "en": "Begijnhof (Beguinage)"
+          },
+          "coords": [
+            4.942,
+            51.324
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:18",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Stille dieses UNESCO-Weltkulturerbes.",
+            "hu": "Élvezze a csendet ebben az UNESCO Világörökségi helyszínen.",
+            "ro": "Bucurați-vă de liniștea acestui sit din patrimoniul mondial UNESCO.",
+            "en": "Enjoy the tranquility of this UNESCO World Heritage site."
+          }
+        },
+        {
+          "name": {
+            "de": "Taxandriamuseum",
+            "hu": "Taxandria Múzeum",
+            "ro": "Muzeul Taxandria",
+            "en": "Taxandriamuseum"
+          },
+          "coords": [
+            4.943,
+            51.322
+          ],
+          "category": "museums",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt, um die lokale Geschichte und Archäologie der Region Kempen zu entdecken.",
+            "hu": "Tökéletes hely a Kempen régió helyi történelmének és régészetének felfedezésére.",
+            "ro": "Perfect pentru a descoperi istoria locală și arheologia regiunii Kempen.",
+            "en": "Perfect for discovering the local history and archaeology of the Kempen region."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationaal Museum van de Speelkaart",
+            "hu": "Nemzeti Játékkártya Múzeum",
+            "ro": "Muzeul Național al Cărților de Joc",
+            "en": "National Museum of Playing Cards"
+          },
+          "coords": [
+            4.9415,
+            51.3228
+          ],
+          "category": "museums",
+          "arrive_at": "12:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Vorführung der historischen Druckpressen.",
+            "hu": "Ne hagyja ki a történelmi nyomdagépek bemutatóját.",
+            "ro": "Nu ratați demonstrația cu presele de tipar istorice.",
+            "en": "Don't miss the demonstration of the historical printing presses."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasteel van de Hertogen van Brabant",
+            "hu": "Brabanti Hercegek Kastélya",
+            "ro": "Castelul Ducilor de Brabant",
+            "en": "Castle of the Dukes of Brabant"
+          },
+          "coords": [
+            4.948,
+            51.32
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Obwohl es heute ein Gerichtsgebäude ist, ist die Fassade beeindruckend.",
+            "hu": "Bár ma bírósági épület, a homlokzata lenyűgöző.",
+            "ro": "Deși astăzi este o instanță judecătorească, fațada este impresionantă.",
+            "en": "Although it's a courthouse today, the facade is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadspark",
+            "hu": "Városi Park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            4.951,
+            51.321
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um den Tag ausklingen zu lassen und die Natur zu genießen.",
+            "hu": "Szép hely a nap lezárásához és a természet élvezetéhez.",
+            "ro": "Un loc frumos pentru a încheia ziua și a vă bucura de natură.",
+            "en": "A beautiful spot to end the day and enjoy some nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am belebten Grote Markt, dem Herzen der Stadt. Nach der Erkundung der historischen Kirchen und des ruhigen Beginenhofs am Vormittag tauchen Sie am Mittag in die einzigartige Geschichte der Spielkarten und der Region ein. Der Nachmittag ist einem Spaziergang zum imposanten Schloss und einem entspannenden Abschluss im grünen Stadspark gewidmet, der einen perfekten Ausgleich zwischen Kultur und Natur bietet.",
+        "hu": "Kezdje a gyalogtúrát a nyüzsgő Grote Markton, a város szívében. Délelőtt, miután felfedezte a történelmi templomokat és a csendes beginaházat, délben merüljön el a játékkártyák és a régió egyedi történetében. A délután a fenséges kastélyhoz vezető sétáról és a zöldellő Városi Parkban való pihentető befejezésről szól, tökéletes egyensúlyt teremtve a kultúra és a természet között.",
+        "ro": "Începeți turul pietonal în animata Grote Markt, inima orașului. După explorarea bisericilor istorice și a liniștitului Begijnhof dimineața, la prânz pătrundeți în istoria unică a cărților de joc și a regiunii. După-amiaza este dedicată unei plimbări spre castelul impunător și unei încheieri relaxante în parcul verde al orașului, oferind un echilibru perfect între cultură și natură.",
+        "en": "Start your walking tour at the bustling Grote Markt, the heart of the city. After exploring the historic churches and the quiet Beguinage in the morning, dive into the unique history of playing cards and the region at midday. The afternoon is dedicated to a stroll to the imposing castle and a relaxing finish in the green City Park, offering a perfect balance of culture and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Turnhouts Troefke",
+            "tip": "Probieren Sie dieses lokale Bier, das oft in den örtlichen Bars erhältlich ist."
+          },
+          {
+            "name": "Belgische Pommes",
+            "tip": "Ein Muss in jeder belgischen Stadt. Suchen Sie nach einer traditionellen 'Fritkot'."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "Ein herzhafter flämischer Rindfleischeintopf, perfekt für ein sättigendes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Turnhouts Troefke",
+            "tip": "Kóstolja meg ezt a helyi sört, amelyet gyakran kínálnak a helyi bárokban."
+          },
+          {
+            "name": "Belga hasábburgonya",
+            "tip": "Minden belga városban kötelező. Keressen egy hagyományos 'Fritkot'-ot."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "Egy kiadós flamand marharagu, tökéletes egy laktató ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnhouts Troefke",
+            "tip": "Încercați această bere locală, adesea disponibilă în barurile locale."
+          },
+          {
+            "name": "Cartofi prăjiți belgieni",
+            "tip": "O necesitate în orice oraș belgian. Căutați un 'Fritkot' tradițional."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "O tocană flamandă de vită consistentă, perfectă pentru un prânz sățios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Turnhouts Troefke",
+            "tip": "Try this local beer, often available in the local bars."
+          },
+          {
+            "name": "Belgian Fries",
+            "tip": "A must-try in any Belgian city. Look for a traditional 'Fritkot'."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "A hearty Flemish beef stew, perfect for a filling lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Begijnhof",
+            "tip": "Ein Ort der Stille und des Friedens, perfekt für eine Pause vom Stadttrubel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stadspark",
+            "tip": "Finden Sie eine Bank am Teich und beobachten Sie die Enten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofpoort",
+            "tip": "Ein ruhiger Durchgang in der Nähe des Schlosses, ideal für ein Foto ohne Menschenmassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beginaház",
+            "tip": "A csend és a béke helye, tökéletes egy kis szünetre a város nyüzsgésétől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Keressen egy padot a tónál, és nézze a kacsákat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofpoort",
+            "tip": "Egy csendes átjáró a kastély közelében, ideális egy tömeg nélküli fotóhoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Begijnhof",
+            "tip": "Un loc de liniște și pace, perfect pentru o pauză de la agitația orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Orașului",
+            "tip": "Găsiți o bancă lângă iaz și priviți rațele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofpoort",
+            "tip": "Un pasaj liniștit lângă castel, ideal pentru o fotografie fără mulțime.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Begijnhof",
+            "tip": "A place of silence and peace, perfect for a break from the city bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "City Park",
+            "tip": "Find a bench by the pond and watch the ducks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofpoort",
+            "tip": "A quiet passage near the castle, ideal for a crowd-free photo.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gasthuisstraat",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Spielkarten-Shop",
+            "tip": "Im Museumsshop finden Sie einzigartige Kartenspiele als Souvenir."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Markttag dort sind, probieren Sie lokale Produkte und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthuisstraat",
+            "tip": "A fő bevásárlóutca ismert márkák és helyi üzletek keverékével."
+          },
+          {
+            "name": "Játékkártya-bolt",
+            "tip": "A múzeumi boltban egyedi kártyapaklikat talál szuvenírként."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Ha piacnapon jár ott, kóstoljon helyi termékeket és sajtokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthuisstraat",
+            "tip": "Principala stradă comercială cu un amestec de mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Magazin de cărți de joc",
+            "tip": "La magazinul muzeului veți găsi pachete unice de cărți ca suvenir."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți acolo într-o zi de piață, încercați produse locale și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthuisstraat",
+            "tip": "The main shopping street with a mix of well-known brands and local shops."
+          },
+          {
+            "name": "Playing Card Shop",
+            "tip": "At the museum shop, you'll find unique decks of cards as a souvenir."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "If you're there on a market day, sample some local produce and cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und sehr gut zu Fuß erreichbar ist.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander, so dass Sie sich Zeit lassen und die Atmosphäre genießen können.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont kompakt és nagyon jól bejárható gyalog.",
+          "A legtöbb látnivaló közel van egymáshoz, így nem kell sietnie, élvezheti a hangulatot.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mivel az változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este compact și foarte ușor de parcurs pe jos.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă, permițându-vă să vă luați timp și să vă bucurați de atmosferă.",
+          "Verificați în avans orele de deschidere ale muzeelor, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is compact and very walkable.",
+          "Most sights are close to each other, allowing you to take your time and enjoy the atmosphere.",
+          "Check the opening hours for the museums in advance as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 5.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Grote Markt",
+            "hu": "Grote Markt (Fő tér)",
+            "ro": "Grote Markt (Piața Mare)",
+            "en": "Grote Markt (Main Square)"
+          },
+          "coords": [
+            4.9447,
+            51.3225
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie den Platz zu Fuß.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel a teret gyalog.",
+            "ro": "Încuiați-vă bicicleta în siguranță și explorați piața pe jos.",
+            "en": "Lock your bike securely and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Begijnhof",
+            "hu": "Beginaház",
+            "ro": "Begijnhof (Beguinage)",
+            "en": "Begijnhof (Beguinage)"
+          },
+          "coords": [
+            4.942,
+            51.324
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bitte schieben Sie Ihr Fahrrad im Inneren des Beginenhofs, um die Ruhe zu wahren.",
+            "hu": "Kérjük, tolja a kerékpárját a beginaház területén a csend megőrzése érdekében.",
+            "ro": "Vă rugăm să împingeți bicicleta în interiorul Begijnhof-ului pentru a păstra liniștea.",
+            "en": "Please walk your bike inside the Beguinage to preserve the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Pieterskerk",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sfântul Petru",
+            "en": "St. Peter's Church"
+          },
+          "coords": [
+            4.9455,
+            51.3235
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrradständer finden Sie in der Nähe des Haupteingangs.",
+            "hu": "Kerékpártárolókat a főbejárat közelében talál.",
+            "ro": "Veți găsi suporturi pentru biciclete lângă intrarea principală.",
+            "en": "You'll find bike racks near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Taxandriamuseum & Nationaal Museum van de Speelkaart",
+            "hu": "Taxandria és Nemzeti Játékkártya Múzeum",
+            "ro": "Muzeul Taxandria & Muzeul Național al Cărților de Joc",
+            "en": "Taxandriamuseum & National Museum of Playing Cards"
+          },
+          "coords": [
+            4.9422,
+            51.3224
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die beiden Museen liegen nahe beieinander. Planen Sie einen längeren Stopp ein.",
+            "hu": "A két múzeum közel van egymáshoz. Tervezzen egy hosszabb megállót.",
+            "ro": "Cele două muzee sunt apropiate. Planificați o oprire mai lungă.",
+            "en": "The two museums are close to each other. Plan for one longer stop."
+          }
+        },
+        {
+          "name": {
+            "de": "De Warande",
+            "hu": "De Warande kulturális központ",
+            "ro": "Centrul Cultural De Warande",
+            "en": "De Warande Cultural Centre"
+          },
+          "coords": [
+            4.949,
+            51.325
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:31",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm auf kostenlose Ausstellungen im Foyer.",
+            "hu": "Nézze meg a programot, hátha van ingyenes kiállítás az előcsarnokban.",
+            "ro": "Verificați programul pentru expoziții gratuite în foaier.",
+            "en": "Check the program for any free exhibitions in the foyer."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadspark",
+            "hu": "Városi Park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            4.951,
+            51.321
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Fahren Sie entlang der Parkwege.",
+            "hu": "Tökéletes egy ebédszünetre. Tekerjen végig a park útjain.",
+            "ro": "Perfect pentru o pauză de prânz. Pedalați pe aleile parcului.",
+            "en": "Perfect for a lunch break. Cycle along the park paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasteel van de Hertogen van Brabant",
+            "hu": "Brabanti Hercegek Kastélya",
+            "ro": "Castelul Ducilor de Brabant",
+            "en": "Castle of the Dukes of Brabant"
+          },
+          "coords": [
+            4.948,
+            51.32
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:02",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Fotostopp, um die Architektur zu bewundern.",
+            "hu": "Egy gyors fotómegálló, hogy megcsodálja az építészetet.",
+            "ro": "O scurtă oprire pentru fotografii pentru a admira arhitectura.",
+            "en": "A quick photo stop to admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschiedsgetränk am Grote Markt",
+            "hu": "Búcsúital a Fő téren",
+            "ro": "Băutură de rămas bun în Grote Markt",
+            "en": "Farewell Drink at Grote Markt"
+          },
+          "coords": [
+            4.9447,
+            51.3225
+          ],
+          "category": "gastro",
+          "arrive_at": "15:38",
+          "stay_min": 57,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kehren Sie zum Hauptplatz zurück, um Ihre Radtour bei einem Drink ausklingen zu lassen.",
+            "hu": "Térjen vissza a főtérre, hogy egy ital mellett fejezze be a kerékpártúrát.",
+            "ro": "Întoarceți-vă în piața principală pentru a încheia turul cu bicicleta cu o băutură.",
+            "en": "Return to the main square to finish your bike tour with a drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine Tour durch Turnhouts Highlights. Der Morgen führt Sie vom zentralen Grote Markt zum friedlichen Beginenhof und den historischen Kirchen. Am Mittag erwartet Sie eine doppelte Dosis Kultur in den berühmten Museen der Stadt. Der Nachmittag bietet eine entspannte Fahrt durch das grüne Herz der Stadt mit Stopps im Kulturzentrum De Warande, dem Stadspark und dem Schloss, bevor Sie zum Grote Markt zurückkehren.",
+        "hu": "Pattanjon kerékpárra, és fedezze fel Turnhout legjavát. A délelőtt a központi Grote Marktról a békés beginaházhoz és a történelmi templomokhoz vezet. Délben dupla adag kultúra vár a város híres múzeumaiban. A délután egy laza tekerést kínál a város zöld szívében, megállókkal a De Warande kulturális központban, a Városi Parkban és a kastélynál, mielőtt visszatérne a Fő térre.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur al atracțiilor din Turnhout. Dimineața vă poartă de la Grote Markt central la liniștitul Begijnhof și bisericile istorice. La prânz, vă așteaptă o doză dublă de cultură la faimoasele muzee ale orașului. După-amiaza oferă o plimbare relaxată prin inima verde a orașului, cu opriri la centrul cultural De Warande, Parcul Orașului și castel, înainte de a vă întoarce în Grote Markt.",
+        "en": "Hop on your bike for a tour of Turnhout's highlights. The morning takes you from the central Grote Markt to the peaceful Beguinage and historic churches. At midday, a double dose of culture awaits at the city's famous museums. The afternoon offers a relaxed ride through the city's green heart with stops at the De Warande cultural centre, the City Park, and the castle, before returning to the Grote Markt."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Turnhouts Troefke",
+            "tip": "Probieren Sie dieses lokale Bier, das oft in den örtlichen Bars erhältlich ist."
+          },
+          {
+            "name": "Belgische Pommes",
+            "tip": "Ein Muss in jeder belgischen Stadt. Suchen Sie nach einer traditionellen 'Fritkot'."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "Ein herzhafter flämischer Rindfleischeintopf, perfekt für ein sättigendes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Turnhouts Troefke",
+            "tip": "Kóstolja meg ezt a helyi sört, amelyet gyakran kínálnak a helyi bárokban."
+          },
+          {
+            "name": "Belga hasábburgonya",
+            "tip": "Minden belga városban kötelező. Keressen egy hagyományos 'Fritkot'-ot."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "Egy kiadós flamand marharagu, tökéletes egy laktató ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnhouts Troefke",
+            "tip": "Încercați această bere locală, adesea disponibilă în barurile locale."
+          },
+          {
+            "name": "Cartofi prăjiți belgieni",
+            "tip": "O necesitate în orice oraș belgian. Căutați un 'Fritkot' tradițional."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "O tocană flamandă de vită consistentă, perfectă pentru un prânz sățios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Turnhouts Troefke",
+            "tip": "Try this local beer, often available in the local bars."
+          },
+          {
+            "name": "Belgian Fries",
+            "tip": "A must-try in any Belgian city. Look for a traditional 'Fritkot'."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "A hearty Flemish beef stew, perfect for a filling lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Begijnhof",
+            "tip": "Ein Ort der Stille und des Friedens, perfekt für eine Pause vom Stadttrubel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stadspark",
+            "tip": "Finden Sie eine Bank am Teich und beobachten Sie die Enten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofpoort",
+            "tip": "Ein ruhiger Durchgang in der Nähe des Schlosses, ideal für ein Foto ohne Menschenmassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beginaház",
+            "tip": "A csend és a béke helye, tökéletes egy kis szünetre a város nyüzsgésétől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Keressen egy padot a tónál, és nézze a kacsákat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofpoort",
+            "tip": "Egy csendes átjáró a kastély közelében, ideális egy tömeg nélküli fotóhoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Begijnhof",
+            "tip": "Un loc de liniște și pace, perfect pentru o pauză de la agitația orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Orașului",
+            "tip": "Găsiți o bancă lângă iaz și priviți rațele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofpoort",
+            "tip": "Un pasaj liniștit lângă castel, ideal pentru o fotografie fără mulțime.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Begijnhof",
+            "tip": "A place of silence and peace, perfect for a break from the city bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "City Park",
+            "tip": "Find a bench by the pond and watch the ducks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofpoort",
+            "tip": "A quiet passage near the castle, ideal for a crowd-free photo.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gasthuisstraat",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Spielkarten-Shop",
+            "tip": "Im Museumsshop finden Sie einzigartige Kartenspiele als Souvenir."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Markttag dort sind, probieren Sie lokale Produkte und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthuisstraat",
+            "tip": "A fő bevásárlóutca ismert márkák és helyi üzletek keverékével."
+          },
+          {
+            "name": "Játékkártya-bolt",
+            "tip": "A múzeumi boltban egyedi kártyapaklikat talál szuvenírként."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Ha piacnapon jár ott, kóstoljon helyi termékeket és sajtokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthuisstraat",
+            "tip": "Principala stradă comercială cu un amestec de mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Magazin de cărți de joc",
+            "tip": "La magazinul muzeului veți găsi pachete unice de cărți ca suvenir."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți acolo într-o zi de piață, încercați produse locale și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthuisstraat",
+            "tip": "The main shopping street with a mix of well-known brands and local shops."
+          },
+          {
+            "name": "Playing Card Shop",
+            "tip": "At the museum shop, you'll find unique decks of cards as a souvenir."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "If you're there on a market day, sample some local produce and cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die vielen fahrradfreundlichen Wege der Stadt.",
+          "Achten Sie auf Einbahnstraßen im Stadtzentrum, die manchmal auch für Fahrräder gelten.",
+          "Ein gutes Schloss ist unerlässlich, besonders an belebten Orten wie dem Grote Markt."
+        ],
+        "hu": [
+          "Használja ki a város számos kerékpárbarát útját.",
+          "Figyeljen az egyirányú utcákra a városközpontban, amelyek néha a kerékpárosokra is vonatkoznak.",
+          "Egy jó lakat elengedhetetlen, különösen a forgalmas helyeken, mint a Grote Markt."
+        ],
+        "ro": [
+          "Profitați de numeroasele piste de biciclete ale orașului.",
+          "Fiți atenți la străzile cu sens unic din centrul orașului, care uneori se aplică și bicicletelor.",
+          "O încuietoare bună este esențială, mai ales în locuri aglomerate precum Grote Markt."
+        ],
+        "en": [
+          "Take advantage of the city's many bike-friendly paths.",
+          "Be mindful of one-way streets in the city center, which sometimes also apply to bikes.",
+          "A good lock is essential, especially in busy areas like the Grote Markt."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum (z.B. Parking Muylenberg)",
+            "hu": "Parkoló a központban (pl. Parking Muylenberg)",
+            "ro": "Parcare centrală (ex. Parking Muylenberg)",
+            "en": "City Center Parking (e.g., Parking Muylenberg)"
+          },
+          "coords": [
+            4.94,
+            51.325
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Von hier aus ist das Zentrum leicht zu Fuß erreichbar.",
+            "hu": "Parkoljon le itt a délelőttre. A központ innen könnyen elérhető gyalog.",
+            "ro": "Parcați aici pentru dimineață. Centrul este ușor accesibil pe jos de aici.",
+            "en": "Park here for the morning. The center is easily walkable from this point."
+          }
+        },
+        {
+          "name": {
+            "de": "Begijnhof & Sint-Pieterskerk",
+            "hu": "Beginaház és Szent Péter-templom",
+            "ro": "Begijnhof și Biserica Sf. Petru",
+            "en": "Beguinage & St. Peter's Church"
+          },
+          "coords": [
+            4.942,
+            51.324
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden UNESCO-Stätten liegen nebeneinander und bieten einen ruhigen Start in den Tag.",
+            "hu": "Ez a két UNESCO helyszín egymás mellett fekszik, és csendes napkezdést kínál.",
+            "ro": "Aceste două situri UNESCO sunt adiacente și oferă un început liniștit de zi.",
+            "en": "These two UNESCO sites are next to each other, offering a peaceful start to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Markt & Museen",
+            "hu": "Grote Markt és a Múzeumok",
+            "ro": "Grote Markt și Muzeele",
+            "en": "Grote Markt & Museums"
+          },
+          "coords": [
+            4.9447,
+            51.3225
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Hauptplatz, essen Sie zu Mittag und besuchen Sie dann das Spielkarten- oder Taxandriamuseum.",
+            "hu": "Fedezze fel a főteret, ebédeljen meg, majd látogasson el a Játékkártya- vagy a Taxandria Múzeumba.",
+            "ro": "Explorați piața principală, luați prânzul și apoi vizitați Muzeul Cărților de Joc sau Taxandria.",
+            "en": "Explore the main square, have lunch, and then visit the Playing Card or Taxandria Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Stadspark",
+            "hu": "Utazás a Városi Parkhoz",
+            "ro": "Călătorie spre Parcul Orașului",
+            "en": "Drive to the City Park"
+          },
+          "coords": [
+            4.951,
+            51.321
+          ],
+          "category": "transport",
+          "arrive_at": "14:15",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nehmen Sie das Auto für den zweiten Teil des Tages. Es gibt normalerweise genügend Parkplätze am Park.",
+            "hu": "Vegye igénybe az autót a nap második felében. A parknál általában van elég parkolóhely.",
+            "ro": "Luați mașina pentru a doua parte a zilei. De obicei, există suficient spațiu de parcare la parc.",
+            "en": "Take the car for the second part of the day. There's usually ample parking at the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadspark",
+            "hu": "Városi Park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            4.951,
+            51.321
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang durch den Park.",
+            "hu": "Tegyen egy pihentető sétát a parkban.",
+            "ro": "Faceți o plimbare relaxantă prin parc.",
+            "en": "Take a relaxing stroll through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasteel van de Hertogen van Brabant",
+            "hu": "Brabanti Hercegek Kastélya",
+            "ro": "Castelul Ducilor de Brabant",
+            "en": "Castle of the Dukes of Brabant"
+          },
+          "coords": [
+            4.948,
+            51.32
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:44",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park aus, um die beeindruckende Fassade zu sehen.",
+            "hu": "Egy rövid séta a parkból, hogy megnézze a lenyűgöző homlokzatot.",
+            "ro": "O scurtă plimbare de la parc pentru a vedea fațada impresionantă.",
+            "en": "A short walk from the park to see the impressive facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser auto-optimierte Tag teilt Turnhout in zwei Cluster. Parken Sie morgens im Zentrum und erkunden Sie den historischen Kern mit dem Beginenhof, der Kirche, dem Markt und den Museen zu Fuß. Nach dem Mittagessen fahren Sie zum zweiten Cluster. Parken Sie am Stadspark und genießen Sie einen entspannten Nachmittag im Grünen und bewundern Sie das nahegelegene Schloss, alles bequem zu Fuß erreichbar.",
+        "hu": "Ez az autóra optimalizált nap két részre osztja Turnhoutot. Délelőtt parkoljon le a központban, és fedezze fel gyalog a történelmi magot: a beginaházat, a templomot, a piacot és a múzeumokat. Ebéd után autózzon át a második zónába. Parkoljon a Városi Parknál, és élvezze a pihentető délutánt a zöldben, megcsodálva a közeli kastélyt – mindezt kényelmes sétatávolságra.",
+        "ro": "Această zi optimizată pentru mașină împarte Turnhout în două clustere. Dimineața, parcați în centru și explorați pe jos nucleul istoric: Begijnhof, biserica, piața și muzeele. După prânz, conduceți spre al doilea cluster. Parcați la Parcul Orașului și bucurați-vă de o după-amiază relaxantă în natură, admirând castelul din apropiere, totul la o distanță de mers pe jos.",
+        "en": "This car-optimized day divides Turnhout into two clusters. In the morning, park centrally and explore the historic core on foot, including the Beguinage, church, market, and museums. After lunch, drive to the second cluster. Park at the City Park and enjoy a relaxed afternoon in the green, admiring the nearby castle, all within easy walking distance."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Turnhouts Troefke",
+            "tip": "Probieren Sie dieses lokale Bier, das oft in den örtlichen Bars erhältlich ist."
+          },
+          {
+            "name": "Belgische Pommes",
+            "tip": "Ein Muss in jeder belgischen Stadt. Suchen Sie nach einer traditionellen 'Fritkot'."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "Ein herzhafter flämischer Rindfleischeintopf, perfekt für ein sättigendes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Turnhouts Troefke",
+            "tip": "Kóstolja meg ezt a helyi sört, amelyet gyakran kínálnak a helyi bárokban."
+          },
+          {
+            "name": "Belga hasábburgonya",
+            "tip": "Minden belga városban kötelező. Keressen egy hagyományos 'Fritkot'-ot."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "Egy kiadós flamand marharagu, tökéletes egy laktató ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnhouts Troefke",
+            "tip": "Încercați această bere locală, adesea disponibilă în barurile locale."
+          },
+          {
+            "name": "Cartofi prăjiți belgieni",
+            "tip": "O necesitate în orice oraș belgian. Căutați un 'Fritkot' tradițional."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "O tocană flamandă de vită consistentă, perfectă pentru un prânz sățios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Turnhouts Troefke",
+            "tip": "Try this local beer, often available in the local bars."
+          },
+          {
+            "name": "Belgian Fries",
+            "tip": "A must-try in any Belgian city. Look for a traditional 'Fritkot'."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "A hearty Flemish beef stew, perfect for a filling lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Begijnhof",
+            "tip": "Ein Ort der Stille und des Friedens, perfekt für eine Pause vom Stadttrubel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stadspark",
+            "tip": "Finden Sie eine Bank am Teich und beobachten Sie die Enten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofpoort",
+            "tip": "Ein ruhiger Durchgang in der Nähe des Schlosses, ideal für ein Foto ohne Menschenmassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beginaház",
+            "tip": "A csend és a béke helye, tökéletes egy kis szünetre a város nyüzsgésétől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Keressen egy padot a tónál, és nézze a kacsákat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofpoort",
+            "tip": "Egy csendes átjáró a kastély közelében, ideális egy tömeg nélküli fotóhoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Begijnhof",
+            "tip": "Un loc de liniște și pace, perfect pentru o pauză de la agitația orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Orașului",
+            "tip": "Găsiți o bancă lângă iaz și priviți rațele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofpoort",
+            "tip": "Un pasaj liniștit lângă castel, ideal pentru o fotografie fără mulțime.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Begijnhof",
+            "tip": "A place of silence and peace, perfect for a break from the city bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "City Park",
+            "tip": "Find a bench by the pond and watch the ducks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofpoort",
+            "tip": "A quiet passage near the castle, ideal for a crowd-free photo.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gasthuisstraat",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Spielkarten-Shop",
+            "tip": "Im Museumsshop finden Sie einzigartige Kartenspiele als Souvenir."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Markttag dort sind, probieren Sie lokale Produkte und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthuisstraat",
+            "tip": "A fő bevásárlóutca ismert márkák és helyi üzletek keverékével."
+          },
+          {
+            "name": "Játékkártya-bolt",
+            "tip": "A múzeumi boltban egyedi kártyapaklikat talál szuvenírként."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Ha piacnapon jár ott, kóstoljon helyi termékeket és sajtokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthuisstraat",
+            "tip": "Principala stradă comercială cu un amestec de mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Magazin de cărți de joc",
+            "tip": "La magazinul muzeului veți găsi pachete unice de cărți ca suvenir."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți acolo într-o zi de piață, încercați produse locale și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthuisstraat",
+            "tip": "The main shopping street with a mix of well-known brands and local shops."
+          },
+          {
+            "name": "Playing Card Shop",
+            "tip": "At the museum shop, you'll find unique decks of cards as a souvenir."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "If you're there on a market day, sample some local produce and cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die öffentlichen Parkhäuser, da das Parken auf der Straße zeitlich begrenzt sein kann.",
+          "Achten Sie auf die blaue Zone, die eine Parkscheibe erfordert.",
+          "Die Entfernungen zwischen den beiden Clustern sind kurz, die Fahrt dauert nur wenige Minuten."
+        ],
+        "hu": [
+          "Használja a nyilvános parkolóházakat, mivel az utcai parkolás időben korlátozott lehet.",
+          "Figyeljen a kék zónára, ahol parkolótárcsa szükséges.",
+          "A két zóna közötti távolság rövid, az út csak néhány percet vesz igénybe."
+        ],
+        "ro": [
+          "Utilizați parcările publice, deoarece parcarea pe stradă poate fi limitată în timp.",
+          "Fiți atenți la zona albastră, care necesită un disc de parcare.",
+          "Distanțele dintre cele două clustere sunt scurte, călătoria durează doar câteva minute."
+        ],
+        "en": [
+          "Use public parking garages, as street parking can be time-limited.",
+          "Pay attention to the 'blue zone' which requires a parking disc.",
+          "The distances between the two clusters are short, the drive only takes a few minutes."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Grote Markt",
+            "hu": "Érkezés a Grote Marktra",
+            "ro": "Sosire la Grote Markt",
+            "en": "Arrival at Grote Markt"
+          },
+          "coords": [
+            4.9447,
+            51.3225
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Viele Buslinien halten hier. Kaufen Sie eine Tageskarte für Flexibilität.",
+            "hu": "Számos buszjárat megáll itt. Vegyen napijegyet a rugalmasság érdekében.",
+            "ro": "Multe linii de autobuz opresc aici. Cumpărați un bilet de o zi pentru flexibilitate.",
+            "en": "Many bus lines stop here. Buy a day pass for flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Markt & Sint-Pieterskerk",
+            "hu": "Grote Markt és Szent Péter-templom",
+            "ro": "Grote Markt și Biserica Sf. Petru",
+            "en": "Grote Markt & St. Peter's Church"
+          },
+          "coords": [
+            4.945,
+            51.323
+          ],
+          "category": "historical",
+          "arrive_at": "09:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und die angrenzende Kirche.",
+            "hu": "Fedezze fel a teret és a szomszédos templomot.",
+            "ro": "Explorați piața și biserica adiacentă.",
+            "en": "Explore the square and the adjacent church."
+          }
+        },
+        {
+          "name": {
+            "de": "Begijnhof & Museen",
+            "hu": "Beginaház és a Múzeumok",
+            "ro": "Begijnhof și Muzeele",
+            "en": "Beguinage & Museums"
+          },
+          "coords": [
+            4.9418,
+            51.3234
+          ],
+          "category": "museums",
+          "arrive_at": "10:48",
+          "stay_min": 150,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie zu diesem kulturellen Cluster. Genießen Sie die Ruhe des Beginenhofs vor dem Museumsbesuch.",
+            "hu": "Egy rövid séta elvezeti ehhez a kulturális zónához. Élvezze a beginaház csendjét a múzeumlátogatás előtt.",
+            "ro": "O scurtă plimbare vă duce la acest cluster cultural. Bucurați-vă de liniștea Begijnhof-ului înainte de a vizita muzeele.",
+            "en": "A short walk takes you to this cultural cluster. Enjoy the quiet of the Beguinage before the museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Stadspark",
+            "hu": "Buszozás a Városi Parkhoz",
+            "ro": "Călătorie cu autobuzul spre Parcul Orașului",
+            "en": "Bus ride to the City Park"
+          },
+          "coords": [
+            4.949,
+            51.325
+          ],
+          "category": "transport",
+          "arrive_at": "14:03",
+          "stay_min": 5,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum (Haltestelle nahe 'de Merodelei') in Richtung Park.",
+            "hu": "Szálljon buszra a központból (a 'de Merodelei' közelében lévő megállóból) a park irányába.",
+            "ro": "Luați un autobuz din centru (stația de lângă 'de Merodelei') spre parc.",
+            "en": "Take a bus from the center (stop near 'de Merodelei') towards the park."
+          }
+        },
+        {
+          "name": {
+            "de": "De Warande & Stadspark",
+            "hu": "De Warande és a Városi Park",
+            "ro": "De Warande și Parcul Orașului",
+            "en": "De Warande & City Park"
+          },
+          "coords": [
+            4.95,
+            51.323
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:08",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie in der Nähe des Kulturzentrums aus und spazieren Sie von dort in den Park.",
+            "hu": "Szálljon le a kulturális központ közelében, és sétáljon onnan a parkba.",
+            "ro": "Coborâți lângă centrul cultural și plimbați-vă de acolo în parc.",
+            "en": "Get off near the cultural centre and walk from there into the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasteel van de Hertogen van Brabant",
+            "hu": "Brabanti Hercegek Kastélya",
+            "ro": "Castelul Ducilor de Brabant",
+            "en": "Castle of the Dukes of Brabant"
+          },
+          "coords": [
+            4.948,
+            51.32
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:45",
+          "stay_min": 46,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Blick auf dieses historische Gebäude, bevor Sie den Bus zurück nehmen.",
+            "hu": "Fejezze be a túrát ennek a történelmi épületnek a megtekintésével, mielőtt visszaszállna a buszra.",
+            "ro": "Încheiați turul cu o privire la această clădire istorică înainte de a lua autobuzul înapoi.",
+            "en": "End your tour with a view of this historic building before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Turnhout mit öffentlichen Verkehrsmitteln. Der Tag beginnt mit einer Erkundung des zentralen Clusters zu Fuß, einschließlich des Grote Markts, der Kirche, des Beginenhofs und der Museen. Am Nachmittag bringt Sie eine kurze Busfahrt zum zweiten Cluster, wo Sie das Kulturzentrum De Warande, den Stadspark und das Schloss erkunden können – eine effiziente und entspannte Art, die Stadt zu erleben.",
+        "hu": "Fedezze fel Turnhoutot tömegközlekedéssel. A nap a központi zóna gyalogos felfedezésével kezdődik, beleértve a Grote Marktot, a templomot, a beginaházat és a múzeumokat. Délután egy rövid buszút elviszi a második zónába, ahol felfedezheti a De Warande kulturális központot, a Városi Parkot és a kastélyt – hatékony és pihentető módja a város megismerésének.",
+        "ro": "Descoperiți Turnhout cu transportul public. Ziua începe cu o explorare pe jos a clusterului central, incluzând Grote Markt, biserica, Begijnhof și muzeele. După-amiaza, o scurtă călătorie cu autobuzul vă duce la al doilea cluster, unde puteți explora centrul cultural De Warande, Parcul Orașului și castelul - un mod eficient și relaxant de a experimenta orașul.",
+        "en": "Discover Turnhout using public transport. The day begins by exploring the central cluster on foot, including the Grote Markt, church, Beguinage, and museums. In the afternoon, a short bus ride takes you to the second cluster, where you can explore the De Warande cultural centre, the City Park, and the castle - an efficient and relaxed way to experience the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Turnhouts Troefke",
+            "tip": "Probieren Sie dieses lokale Bier, das oft in den örtlichen Bars erhältlich ist."
+          },
+          {
+            "name": "Belgische Pommes",
+            "tip": "Ein Muss in jeder belgischen Stadt. Suchen Sie nach einer traditionellen 'Fritkot'."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "Ein herzhafter flämischer Rindfleischeintopf, perfekt für ein sättigendes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Turnhouts Troefke",
+            "tip": "Kóstolja meg ezt a helyi sört, amelyet gyakran kínálnak a helyi bárokban."
+          },
+          {
+            "name": "Belga hasábburgonya",
+            "tip": "Minden belga városban kötelező. Keressen egy hagyományos 'Fritkot'-ot."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "Egy kiadós flamand marharagu, tökéletes egy laktató ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnhouts Troefke",
+            "tip": "Încercați această bere locală, adesea disponibilă în barurile locale."
+          },
+          {
+            "name": "Cartofi prăjiți belgieni",
+            "tip": "O necesitate în orice oraș belgian. Căutați un 'Fritkot' tradițional."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "O tocană flamandă de vită consistentă, perfectă pentru un prânz sățios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Turnhouts Troefke",
+            "tip": "Try this local beer, often available in the local bars."
+          },
+          {
+            "name": "Belgian Fries",
+            "tip": "A must-try in any Belgian city. Look for a traditional 'Fritkot'."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "A hearty Flemish beef stew, perfect for a filling lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Begijnhof",
+            "tip": "Ein Ort der Stille und des Friedens, perfekt für eine Pause vom Stadttrubel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stadspark",
+            "tip": "Finden Sie eine Bank am Teich und beobachten Sie die Enten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofpoort",
+            "tip": "Ein ruhiger Durchgang in der Nähe des Schlosses, ideal für ein Foto ohne Menschenmassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beginaház",
+            "tip": "A csend és a béke helye, tökéletes egy kis szünetre a város nyüzsgésétől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Keressen egy padot a tónál, és nézze a kacsákat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofpoort",
+            "tip": "Egy csendes átjáró a kastély közelében, ideális egy tömeg nélküli fotóhoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Begijnhof",
+            "tip": "Un loc de liniște și pace, perfect pentru o pauză de la agitația orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Orașului",
+            "tip": "Găsiți o bancă lângă iaz și priviți rațele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofpoort",
+            "tip": "Un pasaj liniștit lângă castel, ideal pentru o fotografie fără mulțime.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Begijnhof",
+            "tip": "A place of silence and peace, perfect for a break from the city bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "City Park",
+            "tip": "Find a bench by the pond and watch the ducks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hofpoort",
+            "tip": "A quiet passage near the castle, ideal for a crowd-free photo.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gasthuisstraat",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Spielkarten-Shop",
+            "tip": "Im Museumsshop finden Sie einzigartige Kartenspiele als Souvenir."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Markttag dort sind, probieren Sie lokale Produkte und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthuisstraat",
+            "tip": "A fő bevásárlóutca ismert márkák és helyi üzletek keverékével."
+          },
+          {
+            "name": "Játékkártya-bolt",
+            "tip": "A múzeumi boltban egyedi kártyapaklikat talál szuvenírként."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Ha piacnapon jár ott, kóstoljon helyi termékeket és sajtokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthuisstraat",
+            "tip": "Principala stradă comercială cu un amestec de mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Magazin de cărți de joc",
+            "tip": "La magazinul muzeului veți găsi pachete unice de cărți ca suvenir."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți acolo într-o zi de piață, încercați produse locale și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthuisstraat",
+            "tip": "The main shopping street with a mix of well-known brands and local shops."
+          },
+          {
+            "name": "Playing Card Shop",
+            "tip": "At the museum shop, you'll find unique decks of cards as a souvenir."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "If you're there on a market day, sample some local produce and cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eine Tageskarte für den Bus ist oft günstiger als Einzelfahrscheine.",
+          "Die App der belgischen Verkehrsbetriebe De Lijn ist nützlich für die Planung von Routen und den Kauf von Tickets.",
+          "Beachten Sie, dass die Busfrequenzen abends und am Wochenende geringer sein können."
+        ],
+        "hu": [
+          "A busz napijegy gyakran olcsóbb, mint az egyedi jegyek.",
+          "A De Lijn belga közlekedési vállalat alkalmazása hasznos az útvonaltervezéshez és a jegyvásárláshoz.",
+          "Vegye figyelembe, hogy a buszjáratok sűrűsége este és hétvégén csökkenhet."
+        ],
+        "ro": [
+          "Un bilet de o zi pentru autobuz este adesea mai ieftin decât biletele individuale.",
+          "Aplicația companiei belgiene de transport De Lijn este utilă pentru planificarea rutelor și achiziționarea biletelor.",
+          "Rețineți că frecvența autobuzelor poate fi mai mică seara și în weekend."
+        ],
+        "en": [
+          "A day pass for the bus is often cheaper than single tickets.",
+          "The app for the Belgian transport company De Lijn is useful for planning routes and buying tickets.",
+          "Be aware that bus frequencies might be lower in the evenings and on weekends."
+        ]
+      }
+    }
+  }
+}

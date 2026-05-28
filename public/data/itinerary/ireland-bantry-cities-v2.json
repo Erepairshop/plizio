@@ -1,0 +1,1274 @@
+{
+  "city_id": "ireland-bantry-cities-v2",
+  "anchor": {
+    "name": "Bantry",
+    "coords": [
+      -9.4526,
+      51.6845
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wolfe Tone Square",
+            "hu": "Wolfe Tone tér",
+            "ro": "Piața Wolfe Tone",
+            "en": "Wolfe Tone Square"
+          },
+          "coords": [
+            -9.453,
+            51.683
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "St.-Brendan-Kirche",
+            "hu": "Szent Brendan-templom",
+            "ro": "Biserica Sf. Brendan",
+            "en": "St. Brendan's Church"
+          },
+          "coords": [
+            -9.455,
+            51.6825
+          ],
+          "category": "churches",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Französische Armada-Ausstellung",
+            "hu": "Francia Armada Kiállítás",
+            "ro": "Expoziția Armada Franceză",
+            "en": "French Armada Exhibition"
+          },
+          "coords": [
+            -9.458,
+            51.678
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6
+        },
+        {
+          "name": {
+            "de": "Bantry House & Gärten",
+            "hu": "Bantry-ház és kertek",
+            "ro": "Casa și Grădinile Bantry",
+            "en": "Bantry House & Gardens"
+          },
+          "coords": [
+            -9.459,
+            51.677
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:47",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Bantry Bay",
+            "hu": "Ebédszünet a Bantry-öbölben",
+            "ro": "Pauză de prânz în golful Bantry",
+            "en": "Lunch Break at Bantry Bay"
+          },
+          "coords": [
+            -9.454,
+            51.684
+          ],
+          "category": "gastro",
+          "arrive_at": "14:12",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Beicin Loop Walk",
+            "hu": "Beicin körtúra",
+            "ro": "Plimbarea Beicin Loop",
+            "en": "Beicin Loop Walk"
+          },
+          "coords": [
+            -9.445,
+            51.6855
+          ],
+          "category": "promenades",
+          "arrive_at": "16:02",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Wolfe Tone Square, dem Herzen von Bantry. Am Vormittag erkunden Sie die nahegelegene St.-Brendan-Kirche und die faszinierende Armada-Ausstellung. Der Mittag ist ganz dem prächtigen Bantry House und seinen Gärten gewidmet, wo Sie Stunden verbringen können. Am Nachmittag genießen Sie ein spätes Mittagessen mit Blick auf die Bucht und unternehmen dann den erfrischenden Beicin Loop Walk. Der Abend klingt bei einem gemütlichen Abendessen aus, bei dem Sie die lokalen Meeresfrüchte probieren.",
+        "hu": "Kezdje a napot a Wolfe Tone téren, Bantry szívében. A délelőttöt a közeli Szent Brendan-templom és a lenyűgöző Armada Kiállítás felfedezésével töltse. Az ebédidő a csodálatos Bantry-házé és kertjeié, ahol órákat tölthet. Délután élvezzen egy késői ebédet az öbölre néző kilátással, majd tegyen egy frissítő sétát a Beicin körtúrán. Az estét egy kellemes vacsorával zárja, megkóstolva a helyi tengeri herkentyűket.",
+        "ro": "Începeți ziua în Piața Wolfe Tone, inima orașului Bantry. Dimineața explorați Biserica Sf. Brendan din apropiere și fascinanta Expoziție Armada. Amiaza este dedicată somptuoasei Case Bantry și grădinilor sale, unde puteți petrece ore întregi. După-amiaza, savurați un prânz târziu cu vedere la golf, apoi faceți o plimbare revigorantă pe Beicin Loop Walk. Seara se încheie cu o cină relaxantă, gustând fructele de mare locale.",
+        "en": "Start your day at Wolfe Tone Square, the heart of Bantry. The morning is for exploring the nearby St. Brendan's Church and the fascinating Armada Exhibition. Midday is dedicated to the magnificent Bantry House and its gardens, where you can spend hours. In the afternoon, enjoy a late lunch overlooking the bay, then take the refreshing Beicin Loop Walk. The evening concludes with a leisurely dinner, sampling the local seafood."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish Kitchen",
+            "tip": "Probieren Sie den frischesten Fang des Tages, oft direkt von den lokalen Booten."
+          },
+          {
+            "name": "The Brick Oven",
+            "tip": "Bekannt für seine exzellente Meeresfrüchte-Pizza und die gemütliche Atmosphäre."
+          },
+          {
+            "name": "O'Connor's Seafood Restaurant",
+            "tip": "Ein Muss für Liebhaber von Meeresfrüchtesuppe und Austern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish Kitchen",
+            "tip": "Kóstolja meg a nap legfrissebb fogását, gyakran egyenesen a helyi halászhajókról."
+          },
+          {
+            "name": "The Brick Oven",
+            "tip": "Kiváló tenger gyümölcsei pizzájáról és hangulatos légköréről ismert."
+          },
+          {
+            "name": "O'Connor's Seafood Restaurant",
+            "tip": "Kötelező hely a tenger gyümölcsei leves és az osztriga kedvelőinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish Kitchen",
+            "tip": "Încercați cea mai proaspătă captură a zilei, adesea direct de pe bărcile locale."
+          },
+          {
+            "name": "The Brick Oven",
+            "tip": "Renumit pentru pizza sa excelentă cu fructe de mare și atmosfera primitoare."
+          },
+          {
+            "name": "O'Connor's Seafood Restaurant",
+            "tip": "Un loc de neratat pentru iubitorii de ciorbă de fructe de mare și stridii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Kitchen",
+            "tip": "Try the freshest catch of the day, often straight from the local boats."
+          },
+          {
+            "name": "The Brick Oven",
+            "tip": "Known for its excellent seafood pizza and cozy atmosphere."
+          },
+          {
+            "name": "O'Connor's Seafood Restaurant",
+            "tip": "A must-visit for seafood chowder and oyster lovers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Bantry House",
+            "tip": "Finden Sie eine ruhige Bank mit Blick auf die Bucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beicin Loop Walk",
+            "tip": "Die ruhigere Seite des Hafens bietet herrliche Ausblicke und Frieden.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang über der Bantry Bay",
+            "tip": "Ein klassischer, aber unschlagbarer Moment der Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bantry-ház kertjei",
+            "tip": "Keressen egy csendes padot, ahonnan kilátás nyílik az öbölre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beicin körtúra",
+            "tip": "A kikötő csendesebb oldala gyönyörű kilátást és békét kínál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a Bantry-öböl felett",
+            "tip": "Klasszikus, de verhetetlen pillanata a nyugalomnak.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Casei Bantry",
+            "tip": "Găsiți o bancă liniștită cu vedere la golf.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbarea Beicin Loop",
+            "tip": "Partea mai liniștită a portului oferă vederi superbe și pace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare peste golful Bantry",
+            "tip": "Un moment clasic, dar imbatabil de liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bantry House Gardens",
+            "tip": "Find a quiet bench overlooking the bay.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Beicin Loop Walk",
+            "tip": "The quieter side of the harbour offers lovely views and peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset over Bantry Bay",
+            "tip": "A classic but unbeatable moment of tranquility.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bantry Market",
+            "tip": "Freitags findet hier ein lebhafter Markt mit lokalen Produkten und Kunsthandwerk statt."
+          },
+          {
+            "name": "The Craft Shop",
+            "tip": "Ein großartiger Ort, um handgefertigte irische Geschenke und Souvenirs zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bantry piac",
+            "tip": "Péntekenként nyüzsgő piac helyi termékekkel és kézműves árukkal."
+          },
+          {
+            "name": "The Craft Shop",
+            "tip": "Nagyszerű hely kézzel készített ír ajándékok és szuvenírek vásárlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Bantry",
+            "tip": "În zilele de vineri, o piață vibrantă cu produse locale și artizanat."
+          },
+          {
+            "name": "The Craft Shop",
+            "tip": "Un loc excelent pentru a găsi cadouri și suveniruri irlandeze lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bantry Market",
+            "tip": "On Fridays, a vibrant market with local produce and crafts."
+          },
+          {
+            "name": "The Craft Shop",
+            "tip": "A great place to find handmade Irish gifts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Prüfen Sie die Öffnungszeiten von Bantry House im Voraus, da diese saisonal variieren.",
+          "Eine leichte Regenjacke ist in Irland immer eine gute Idee, auch an sonnigen Tagen.",
+          "Nehmen Sie sich Zeit für die Aussicht auf die Bucht, sie ist das Highlight der Stadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskaköves utcák egyenetlenek lehetnek.",
+          "Előre ellenőrizze a Bantry-ház nyitvatartási idejét, mivel az szezonálisan változhat.",
+          "Egy könnyű esőkabát mindig jó ötlet Írországban, még napos napokon is.",
+          "Szánjon időt az öbölre nyíló kilátásra, ez a város fénypontja."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat.",
+          "Verificați programul de funcționare al Casei Bantry în avans, deoarece acesta variază sezonier.",
+          "O geacă de ploaie subțire este întotdeauna o idee bună în Irlanda, chiar și în zilele însorite.",
+          "Luați-vă timp pentru a admira priveliștea golfului, este punctul culminant al orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Check the opening hours for Bantry House in advance as they can be seasonal.",
+          "A light raincoat is always a good idea in Ireland, even on sunny days.",
+          "Take your time to enjoy the views of the bay; it's the town's highlight."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Wolfe Tone Square",
+            "hu": "Kerékpárbérlés és Wolfe Tone tér",
+            "ro": "Închiriere biciclete & Piața Wolfe Tone",
+            "en": "Bike Rental & Wolfe Tone Square"
+          },
+          "coords": [
+            -9.453,
+            51.683
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Bantry House & Gärten",
+            "hu": "Bantry-ház és kertek",
+            "ro": "Casa și Grădinile Bantry",
+            "en": "Bantry House & Gardens"
+          },
+          "coords": [
+            -9.459,
+            51.677
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:46",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name": {
+            "de": "Französische Armada-Ausstellung",
+            "hu": "Francia Armada Kiállítás",
+            "ro": "Expoziția Armada Franceză",
+            "en": "French Armada Exhibition"
+          },
+          "coords": [
+            -9.458,
+            51.678
+          ],
+          "category": "museums",
+          "arrive_at": "11:28",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Hafen",
+            "hu": "Ebédszünet a kikötőben",
+            "ro": "Pauză de prânz în port",
+            "en": "Lunch at the Harbour"
+          },
+          "coords": [
+            -9.452,
+            51.6845
+          ],
+          "category": "gastro",
+          "arrive_at": "12:38",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.3
+        },
+        {
+          "name": {
+            "de": "Radtour auf dem Beicin Loop",
+            "hu": "Kerékpártúra a Beicin körtúrán",
+            "ro": "Tur cu bicicleta pe Beicin Loop",
+            "en": "Cycle the Beicin Loop"
+          },
+          "coords": [
+            -9.445,
+            51.6855
+          ],
+          "category": "promenades",
+          "arrive_at": "14:08",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5
+        },
+        {
+          "name": {
+            "de": "Entspannung an der Bantry Bay",
+            "hu": "Pihenés a Bantry-öböl partján",
+            "ro": "Relaxare la Golful Bantry",
+            "en": "Relax at Bantry Bay"
+          },
+          "coords": [
+            -9.465,
+            51.688
+          ],
+          "category": "natural features",
+          "arrive_at": "15:48",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Radtag in Bantry beginnt mit der Abholung Ihres Fahrrads in der Nähe des Wolfe Tone Square. Am Vormittag radeln Sie zum Bantry House und der nahegelegenen Armada-Ausstellung. Nach einem stärkenden Mittagessen am Hafen umrunden Sie am Nachmittag den malerischen Beicin Loop. Der späte Nachmittag ist der Entspannung an der Bantry Bay gewidmet, wo Sie die Meeresbrise genießen, bevor Sie Ihr Fahrrad zurückgeben und den Abend in einem der gemütlichen Pubs ausklingen lassen.",
+        "hu": "A kerékpáros nap Bantryben a bicikli átvételével kezdődik a Wolfe Tone tér közelében. Délelőtt tekerjen el a Bantry-házhoz és a közeli Armada Kiállításhoz. Egy kiadós kikötői ebéd után délután kerülje meg a festői Beicin körtúrát. A késő délutánt a Bantry-öbölben való pihenéssel töltse, élvezve a tengeri szellőt, mielőtt leadná a kerékpárt, és egy hangulatos pubban zárná az estét.",
+        "ro": "O zi cu bicicleta în Bantry începe cu ridicarea bicicletei lângă Piața Wolfe Tone. Dimineața pedalați spre Casa Bantry și Expoziția Armada din apropiere. După un prânz consistent în port, după-amiaza parcurgeți pitorescul Beicin Loop. Sfârșitul după-amiezii este dedicat relaxării în Golful Bantry, bucurându-vă de briza mării, înainte de a returna bicicleta și a încheia seara într-unul dintre pub-urile primitoare.",
+        "en": "A cycling day in Bantry starts with picking up your bike near Wolfe Tone Square. In the morning, you'll cycle to Bantry House and the nearby Armada Exhibition. After a hearty lunch at the harbour, the afternoon is for circling the scenic Beicin Loop. The late afternoon is for relaxing by Bantry Bay, enjoying the sea breeze, before returning your bike and finishing the evening in one of the cozy pubs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Snug",
+            "tip": "Ein traditioneller Pub, perfekt für ein Pint und ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "The Maritime Hotel",
+            "tip": "Bietet eine gehobenere Bar-Food-Option mit großartiger Aussicht."
+          },
+          {
+            "name": "Organico Cafe",
+            "tip": "Ideal für ein gesundes, leichtes Mittagessen oder einen Kaffee und Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Snug",
+            "tip": "Hagyományos pub, tökéletes egy korsó sörre és egy kiadós ebédre."
+          },
+          {
+            "name": "The Maritime Hotel",
+            "tip": "Elegánsabb bárétterem opció, nagyszerű kilátással."
+          },
+          {
+            "name": "Organico Cafe",
+            "tip": "Ideális egy egészséges, könnyű ebédhez vagy egy kávéhoz és süteményhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Snug",
+            "tip": "Un pub tradițional, perfect pentru o halbă de bere și un prânz consistent."
+          },
+          {
+            "name": "The Maritime Hotel",
+            "tip": "Oferă o opțiune de masă mai elegantă la bar, cu vederi minunate."
+          },
+          {
+            "name": "Organico Cafe",
+            "tip": "Ideal pentru un prânz sănătos, ușor sau o cafea și o prăjitură."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Snug",
+            "tip": "A traditional pub, perfect for a pint and a hearty lunch."
+          },
+          {
+            "name": "The Maritime Hotel",
+            "tip": "Offers a more upscale bar food option with great views."
+          },
+          {
+            "name": "Organico Cafe",
+            "tip": "Ideal for a healthy, light lunch or a coffee and cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bank am Beicin Loop",
+            "tip": "Halten Sie für einen Moment der Stille an und beobachten Sie die Boote.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof der St.-Brendan-Kirche",
+            "tip": "Ein friedlicher, historischer Ort zum Nachdenken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abgelegener Teil der Bantry Bay",
+            "tip": "Fahren Sie ein Stück weiter für einen ruhigen Platz am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a Beicin körtúrán",
+            "tip": "Álljon meg egy csendes pillanatra, és nézze a csónakokat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Brendan-templom temetője",
+            "tip": "Békés, történelmi hely az elmélkedésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Bantry-öböl egy eldugott része",
+            "tip": "Tekerjen kicsit távolabb egy csendes vízparti helyért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă pe Beicin Loop",
+            "tip": "Opriți-vă pentru un moment de liniște și priviți bărcile.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Bisericii Sf. Brendan",
+            "tip": "Un loc pașnic, istoric, pentru reflecție.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Porțiune retrasă a Golfului Bantry",
+            "tip": "Pedalați puțin mai departe pentru un loc liniștit lângă apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bench on the Beicin Loop",
+            "tip": "Stop for a moment of quiet and watch the boats.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Brendan's Churchyard",
+            "tip": "A peaceful, historic spot for reflection.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Secluded part of Bantry Bay",
+            "tip": "Cycle a bit further for a quiet spot by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bantry Bicycle Shop",
+            "tip": "Neben dem Verleih gibt es auch Zubehör und lokale Ratschläge."
+          },
+          {
+            "name": "The Bantry Bookstore",
+            "tip": "Ein charmanter Laden für ein Buch über die lokale Geschichte oder irische Autoren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bantry kerékpárbolt",
+            "tip": "A bérlés mellett kiegészítőket és helyi tanácsokat is kínálnak."
+          },
+          {
+            "name": "The Bantry Bookstore",
+            "tip": "Bájos bolt, ahol a helytörténetről vagy ír szerzőkről szóló könyvet vásárolhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de biciclete Bantry",
+            "tip": "Pe lângă închiriere, au și accesorii și sfaturi locale."
+          },
+          {
+            "name": "The Bantry Bookstore",
+            "tip": "Un magazin fermecător pentru o carte despre istoria locală sau autori irlandezi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bantry Bicycle Shop",
+            "tip": "Besides rentals, they also have accessories and local advice."
+          },
+          {
+            "name": "The Bantry Bookstore",
+            "tip": "A charming shop to pick up a book on local history or Irish authors."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Ihr Fahrrad im Sommer im Voraus.",
+          "Einige Straßen können eng sein, fahren Sie vorsichtig.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für längere Touren entlang der Bucht.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Nyáron foglalja le előre a kerékpárját.",
+          "Néhány út szűk lehet, vezessen óvatosan.",
+          "Vigyen magával vizet és harapnivalót, különösen a hosszabb öböl menti túrákhoz.",
+          "Mindig zárja le a kerékpárját, amikor leparkolja."
+        ],
+        "ro": [
+          "Rezervați-vă bicicleta în avans în timpul verii.",
+          "Unele drumuri pot fi înguste, conduceți cu prudență.",
+          "Luați apă și gustări, mai ales pentru plimbări mai lungi de-a lungul golfului.",
+          "Încuietăți întotdeauna bicicleta când o parcați."
+        ],
+        "en": [
+          "Book your bike in advance during the summer.",
+          "Some roads can be narrow, cycle with care.",
+          "Bring water and snacks, especially for longer rides along the bay.",
+          "Always lock your bike when you leave it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 16.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken & Wolfe Tone Square",
+            "hu": "Parkolás és Wolfe Tone tér",
+            "ro": "Parcare & Piața Wolfe Tone",
+            "en": "Parking & Wolfe Tone Square"
+          },
+          "coords": [
+            -9.453,
+            51.683
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "St.-Brendan-Kirche",
+            "hu": "Szent Brendan-templom",
+            "ro": "Biserica Sf. Brendan",
+            "en": "St. Brendan's Church"
+          },
+          "coords": [
+            -9.455,
+            51.6825
+          ],
+          "category": "churches",
+          "arrive_at": "09:35",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Bantry House",
+            "hu": "Utazás a Bantry-házhoz",
+            "ro": "Condus spre Casa Bantry",
+            "en": "Drive to Bantry House"
+          },
+          "coords": [
+            -9.459,
+            51.677
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:20",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Aussicht",
+            "hu": "Ebéd kilátással",
+            "ro": "Prânz cu vedere",
+            "en": "Lunch with a View"
+          },
+          "coords": [
+            -9.454,
+            51.684
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Whiddy Island Fähre",
+            "hu": "Utazás a Whiddy-szigeti komphoz",
+            "ro": "Condus la feribotul spre Insula Whiddy",
+            "en": "Drive to Whiddy Island Ferry"
+          },
+          "coords": [
+            -9.45,
+            51.688
+          ],
+          "category": "port",
+          "arrive_at": "14:30",
+          "stay_min": 15,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0
+        },
+        {
+          "name": {
+            "de": "Erkundung von Whiddy Island",
+            "hu": "A Whiddy-sziget felfedezése",
+            "ro": "Explorarea Insulei Whiddy",
+            "en": "Exploring Whiddy Island"
+          },
+          "coords": [
+            -9.5,
+            51.7
+          ],
+          "category": "island",
+          "arrive_at": "15:05",
+          "stay_min": 180,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 13.0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit dem Parken im Zentrum von Bantry, um den Wolfe Tone Square und die St.-Brendan-Kirche zu Fuß zu erkunden. Am Vormittag fahren Sie zum prächtigen Bantry House für eine ausführliche Besichtigung und genießen anschließend ein Mittagessen in der Nähe. Der Nachmittag ist einem Abenteuer gewidmet: Sie fahren zum Fähranleger und setzen nach Whiddy Island über. Verbringen Sie den Rest des Tages mit der Erkundung der ruhigen Insel, bevor Sie zum Festland zurückkehren und den Tag ausklingen lassen.",
+        "hu": "Az autós nap Bantry központjában való parkolással kezdődik, hogy gyalog fedezze fel a Wolfe Tone teret és a Szent Brendan-templomot. Délelőtt autózzon el a csodálatos Bantry-házhoz egy alapos látogatásra, majd ebédeljen a közelben. A délután egy kalandé: hajtson el a kompkikötőbe, és keljen át a Whiddy-szigetre. Töltse a nap hátralévő részét a csendes sziget felfedezésével, mielőtt visszatérne a szárazföldre, és lezárná a napot.",
+        "ro": "Ziua cu mașina începe parcând în centrul orașului Bantry pentru a explora pe jos Piața Wolfe Tone și Biserica Sf. Brendan. Dimineața conduceți spre magnifica Casă Bantry pentru o vizită extinsă, apoi savurați prânzul în apropiere. După-amiaza este dedicată unei aventuri: conduceți la debarcader și traversați cu feribotul pe Insula Whiddy. Petreceți restul zilei explorând insula liniștită înainte de a vă întoarce pe continent pentru a încheia ziua.",
+        "en": "Your car day starts by parking in the centre of Bantry to explore Wolfe Tone Square and St. Brendan's Church on foot. In the morning, you'll drive to the magnificent Bantry House for an extensive visit, then enjoy lunch nearby. The afternoon is dedicated to an adventure: drive to the ferry pier and cross over to Whiddy Island. Spend the rest of the day exploring the tranquil island before returning to the mainland to round off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Bank House",
+            "tip": "Bietet traditionelle irische Gerichte in einer entspannten Umgebung."
+          },
+          {
+            "name": "The Quays",
+            "tip": "Genießen Sie frische Meeresfrüchte direkt am Wasser, bevor Sie zur Fähre gehen."
+          },
+          {
+            "name": "Whiddy Island's Bank House Pub",
+            "tip": "Das einzige Pub auf der Insel, ein einzigartiges Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Bank House",
+            "tip": "Hagyományos ír ételeket kínál laza környezetben."
+          },
+          {
+            "name": "The Quays",
+            "tip": "Élvezze a friss tenger gyümölcseit közvetlenül a vízparton, mielőtt a komphoz menne."
+          },
+          {
+            "name": "Whiddy Island's Bank House Pub",
+            "tip": "Az egyetlen kocsma a szigeten, egyedülálló élmény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Bank House",
+            "tip": "Servește mâncăruri tradiționale irlandeze într-un cadru relaxat."
+          },
+          {
+            "name": "The Quays",
+            "tip": "Bucurați-vă de fructe de mare proaspete chiar lângă apă înainte de a merge la feribot."
+          },
+          {
+            "name": "Bank House Pub de pe Insula Whiddy",
+            "tip": "Singurul pub de pe insulă, o experiență unică."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Bank House",
+            "tip": "Serves traditional Irish fare in a relaxed setting."
+          },
+          {
+            "name": "The Quays",
+            "tip": "Enjoy fresh seafood right on the water before heading for the ferry."
+          },
+          {
+            "name": "Whiddy Island's Bank House Pub",
+            "tip": "The only pub on the island, a unique experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Whiddy Island",
+            "tip": "Die gesamte Insel ist ein Hort der Ruhe und des Friedens.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Aussichtspunkt auf der 'Goat's Path'",
+            "tip": "Eine kurze Fahrt von Bantry entfernt für atemberaubende Ausblicke.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang durch die Gärten des Bantry House",
+            "tip": "Verlieren Sie sich in der Schönheit und Stille der angelegten Gärten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Whiddy-sziget",
+            "tip": "Az egész sziget a nyugalom és a béke menedéke.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Kilátó a 'Goat's Path'-en",
+            "tip": "Rövid autóútra Bantrytől, lélegzetelállító kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Bantry-ház kertjeiben",
+            "tip": "Vesszen el a parkosított kertek szépségében és csendjében.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Whiddy",
+            "tip": "Întreaga insulă este un paradis de calm și pace.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Punct de belvedere pe 'Goat's Path'",
+            "tip": "La o scurtă distanță cu mașina de Bantry pentru vederi uluitoare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare prin grădinile Casei Bantry",
+            "tip": "Pierdeți-vă în frumusețea și liniștea grădinilor amenajate.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Whiddy Island",
+            "tip": "The entire island is a haven of calm and peace.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Viewpoint on the 'Goat's Path'",
+            "tip": "A short drive from Bantry for breathtaking views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stroll through Bantry House Gardens",
+            "tip": "Lose yourself in the beauty and silence of the landscaped gardens.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Manning's Emporium",
+            "tip": "Ein Feinkostladen etwas außerhalb der Stadt, ideal für lokale Leckereien."
+          },
+          {
+            "name": "Quills Woollen Market",
+            "tip": "Perfekt für einen klassischen Aran-Pullover als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Manning's Emporium",
+            "tip": "Delikátbolt a városon kívül, ideális helyi finomságok beszerzésére."
+          },
+          {
+            "name": "Quills Woollen Market",
+            "tip": "Tökéletes hely egy klasszikus Aran pulóver beszerzésére szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Manning's Emporium",
+            "tip": "O delicatesă chiar în afara orașului, ideală pentru produse locale."
+          },
+          {
+            "name": "Quills Woollen Market",
+            "tip": "Perfect pentru a cumpăra un pulover clasic Aran ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Manning's Emporium",
+            "tip": "A delicatessen just outside town, ideal for local treats."
+          },
+          {
+            "name": "Quills Woollen Market",
+            "tip": "Perfect for buying a classic Aran sweater as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fährplan nach Whiddy Island im Voraus.",
+          "Parken im Stadtzentrum kann freitags (Markttag) schwierig sein.",
+          "Die Straßen auf der Beara-Halbinsel sind sehr eng, fahren Sie langsam und vorsichtig.",
+          "Tanken Sie, bevor Sie sich auf ländliche Erkundungstouren begeben."
+        ],
+        "hu": [
+          "Előre ellenőrizze a Whiddy-szigeti komp menetrendjét.",
+          "A városközpontban való parkolás pénteken (piacnapon) nehézkes lehet.",
+          "A Beara-félsziget útjai nagyon szűkek, vezessen lassan és óvatosan.",
+          "Tankoljon, mielőtt vidéki felfedezőútra indulna."
+        ],
+        "ro": [
+          "Verificați în avans programul feribotului spre Insula Whiddy.",
+          "Parcarea în centrul orașului poate fi dificilă vinerea (zi de piață).",
+          "Drumurile din Peninsula Beara sunt foarte înguste, conduceți încet și cu atenție.",
+          "Alimentați cu combustibil înainte de a porni în explorări rurale."
+        ],
+        "en": [
+          "Check the ferry schedule to Whiddy Island in advance.",
+          "Parking in the town centre can be difficult on Fridays (market day).",
+          "The roads on the Beara Peninsula are very narrow, drive slowly and with care.",
+          "Fill up on fuel before heading out on rural explorations."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Wolfe Tone Square",
+            "hu": "Érkezés és Wolfe Tone tér",
+            "ro": "Sosire & Piața Wolfe Tone",
+            "en": "Arrival & Wolfe Tone Square"
+          },
+          "coords": [
+            -9.453,
+            51.683
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Bantry House & Armada-Ausstellung",
+            "hu": "Bantry-ház és Armada Kiállítás",
+            "ro": "Casa Bantry & Expoziția Armada",
+            "en": "Bantry House & Armada Exhibition"
+          },
+          "coords": [
+            -9.459,
+            51.677
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:55",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the Town Centre"
+          },
+          "coords": [
+            -9.454,
+            51.684
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7
+        },
+        {
+          "name": {
+            "de": "Fähre nach Whiddy Island",
+            "hu": "Komp a Whiddy-szigetre",
+            "ro": "Feribot spre Insula Whiddy",
+            "en": "Ferry to Whiddy Island"
+          },
+          "coords": [
+            -9.45,
+            51.688
+          ],
+          "category": "port",
+          "arrive_at": "13:45",
+          "stay_min": 10,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Wanderung auf Whiddy Island",
+            "hu": "Túra a Whiddy-szigeten",
+            "ro": "Drumeție pe Insula Whiddy",
+            "en": "Hike on Whiddy Island"
+          },
+          "coords": [
+            -9.5,
+            51.7
+          ],
+          "category": "island",
+          "arrive_at": "14:15",
+          "stay_min": 210,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 12.5
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt mit einem Spaziergang vom zentralen Busbahnhof zum Wolfe Tone Square. Der Vormittag ist dem Bantry House und der Armada-Ausstellung gewidmet, die beide zu Fuß erreichbar sind. Nach einem Mittagessen in der Stadt spazieren Sie am Nachmittag zum Fähranleger. Der Höhepunkt des Tages ist die Überfahrt nach Whiddy Island, wo Sie Stunden mit Wandern und Genießen der Stille verbringen, bevor Sie die letzte Fähre zurück zum Festland nehmen.",
+        "hu": "A tömegközlekedéssel töltött nap a központi buszpályaudvartól a Wolfe Tone térig tartó sétával kezdődik. A délelőtt a gyalogosan is elérhető Bantry-házé és az Armada Kiállításé. A városi ebéd után délután sétáljon el a kompkikötőbe. A nap fénypontja a Whiddy-szigetre való átkelés, ahol órákat tölthet túrázással és a csend élvezetével, mielőtt az utolsó komppal visszatérne a szárazföldre.",
+        "ro": "Ziua dumneavoastră cu transportul public începe cu o plimbare de la autogara centrală la Piața Wolfe Tone. Dimineața este dedicată Casei Bantry și Expoziției Armada, ambele accesibile pe jos. După prânz în oraș, după-amiaza vă plimbați până la debarcader. Punctul culminant al zilei este traversarea cu feribotul pe Insula Whiddy, unde petreceți ore întregi făcând drumeții și bucurându-vă de liniște înainte de a lua ultimul feribot înapoi pe continent.",
+        "en": "Your day on public transport begins with a walk from the central bus stop to Wolfe Tone Square. The morning is dedicated to Bantry House and the Armada Exhibition, both within walking distance. After lunch in town, the afternoon involves a walk to the ferry pier. The highlight of the day is crossing to Whiddy Island, where you'll spend hours hiking and enjoying the tranquility before catching the last ferry back to the mainland."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Box of Frogs",
+            "tip": "Ein beliebtes Café für einen schnellen Kaffee oder ein Sandwich."
+          },
+          {
+            "name": "Ma Murphy's",
+            "tip": "Erleben Sie ein authentisches Pub-Gefühl mit freundlichen Einheimischen."
+          },
+          {
+            "name": "The Mariner",
+            "tip": "Gute Option für ein zuverlässiges und leckeres Abendessen nach der Rückkehr von der Insel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Box of Frogs",
+            "tip": "Népszerű kávézó egy gyors kávéra vagy szendvicsre."
+          },
+          {
+            "name": "Ma Murphy's",
+            "tip": "Élvezze az autentikus pub-hangulatot barátságos helyiekkel."
+          },
+          {
+            "name": "The Mariner",
+            "tip": "Jó lehetőség egy megbízható és finom vacsorára a szigetről való visszatérés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Box of Frogs",
+            "tip": "O cafenea populară pentru o cafea rapidă sau un sandviș."
+          },
+          {
+            "name": "Ma Murphy's",
+            "tip": "Experimentați o atmosferă autentică de pub cu localnici prietenoși."
+          },
+          {
+            "name": "The Mariner",
+            "tip": "O opțiune bună pentru o cină de încredere și gustoasă după întoarcerea de pe insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Box of Frogs",
+            "tip": "A popular cafe for a quick coffee or sandwich."
+          },
+          {
+            "name": "Ma Murphy's",
+            "tip": "Experience an authentic pub feel with friendly locals."
+          },
+          {
+            "name": "The Mariner",
+            "tip": "Good option for a reliable and tasty dinner after returning from the island."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spazierwege auf Whiddy Island",
+            "tip": "Fernab von allem, nur Sie und die Natur.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "St.-Brendan-Friedhof",
+            "tip": "Ein ruhiger Ort, um über die Geschichte nachzudenken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Fährfahrt selbst",
+            "tip": "Die Überfahrt bietet eine friedliche Perspektive auf Bantry und die Bucht.",
+            "emoji": "🚤"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Túraútvonalak a Whiddy-szigeten",
+            "tip": "Távol mindentől, csak te és a természet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Szent Brendan temető",
+            "tip": "Csendes hely a történelemről való elmélkedésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Maga a kompút",
+            "tip": "Az átkelés békés perspektívát nyújt Bantryre és az öbölre.",
+            "emoji": "🚤"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trasee de drumeție pe Insula Whiddy",
+            "tip": "Departe de tot, doar tu și natura.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cimitirul Sf. Brendan",
+            "tip": "Un loc liniștit pentru a reflecta asupra istoriei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Călătoria cu feribotul în sine",
+            "tip": "Traversarea oferă o perspectivă pașnică asupra Bantry și a golfului.",
+            "emoji": "🚤"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hiking trails on Whiddy Island",
+            "tip": "Away from it all, just you and nature.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "St. Brendan's Graveyard",
+            "tip": "A quiet place to reflect on history.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The ferry ride itself",
+            "tip": "The crossing provides a peaceful perspective on Bantry and the bay.",
+            "emoji": "🚤"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bantry Tourist Office",
+            "tip": "Hier finden Sie Karten, Broschüren und einige lokale Souvenirs."
+          },
+          {
+            "name": "SuperValu",
+            "tip": "Besorgen Sie sich Proviant für Ihre Wanderung auf Whiddy Island."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bantry Turisztikai Iroda",
+            "tip": "Térképeket, brosúrákat és néhány helyi szuvenírt találhat."
+          },
+          {
+            "name": "SuperValu",
+            "tip": "Szerezzen be ellátmányt a Whiddy-szigeti túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Oficiul de Turism Bantry",
+            "tip": "Găsiți hărți, broșuri și câteva suveniruri locale."
+          },
+          {
+            "name": "SuperValu",
+            "tip": "Aprovizionați-vă pentru drumeția pe Insula Whiddy."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bantry Tourist Office",
+            "tip": "Find maps, leaflets, and some local souvenirs."
+          },
+          {
+            "name": "SuperValu",
+            "tip": "Stock up on provisions for your hike on Whiddy Island."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Busfahrpläne von und nach Bantry, da die Verbindungen begrenzt sein können.",
+          "Informieren Sie sich unbedingt über die letzte Fähre von Whiddy Island zurück.",
+          "Bargeld ist für die Fähre und das Pub auf der Insel nützlich.",
+          "Gutes Schuhwerk ist für die Wanderungen auf Whiddy Island unerlässlich."
+        ],
+        "hu": [
+          "Ellenőrizze a Bantrybe és Bantryből induló buszmenetrendeket, mivel a járatok korlátozottak lehetnek.",
+          "Győződjön meg róla, hogy tudja, mikor indul az utolsó komp Whiddy-szigetről vissza.",
+          "Készpénz hasznos lehet a komphoz és a szigeti pubhoz.",
+          "Jó lábbeli elengedhetetlen a Whiddy-szigeti túrákhoz."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor spre și dinspre Bantry, deoarece serviciile pot fi limitate.",
+          "Asigurați-vă că verificați ora ultimului feribot de întoarcere de pe Insula Whiddy.",
+          "Banii cash sunt utili pentru feribot și pentru pub-ul de pe insulă.",
+          "Încălțămintea bună este esențială pentru drumețiile pe Insula Whiddy."
+        ],
+        "en": [
+          "Check bus timetables to and from Bantry as services can be limited.",
+          "Be sure to check the time of the last ferry back from Whiddy Island.",
+          "Cash is useful for the ferry and the pub on the island.",
+          "Good footwear is essential for the hikes on Whiddy Island."
+        ]
+      }
+    }
+  }
+}

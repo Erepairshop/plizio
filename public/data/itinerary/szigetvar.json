@@ -1,0 +1,1244 @@
+{
+  "city_id": "szigetvar",
+  "anchor": {
+    "name": "Inselburg",
+    "coords": [
+      17.7981,
+      46.0494
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zrínyi-Platz",
+            "hu": "Zrínyi tér",
+            "ro": "Piața Zrínyi",
+            "en": "Zrínyi Square"
+          },
+          "coords": [
+            17.7985,
+            46.049
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafés."
+          }
+        },
+        {
+          "name": {
+            "de": "Ali-Pascha-Moschee",
+            "hu": "Ali Pasa Dzsámija",
+            "ro": "Moscheea lui Ali Pașa",
+            "en": "Ali Pasha Mosque"
+          },
+          "coords": [
+            17.801,
+            46.0485
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die einzigartige Mischung aus osmanischer und christlicher Architektur.",
+            "hu": "Figyelje meg az oszmán és a keresztény építészet egyedi keveredését!",
+            "ro": "Observați amestecul unic de arhitectură otomană și creștină.",
+            "en": "Notice the unique blend of Ottoman and Christian architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Szigetvár",
+            "hu": "Szigetvári vár",
+            "ro": "Cetatea Szigetvár",
+            "en": "Szigetvár Castle"
+          },
+          "coords": [
+            17.7995,
+            46.0505
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die Heldengeschichte von Zrínyi zu hören.",
+            "hu": "Vegyen részt egy tárlatvezetésen, hogy hallja Zrínyi hősies történetét!",
+            "ro": "Participați la un tur ghidat pentru a auzi povestea eroică a lui Zrínyi.",
+            "en": "Join a guided tour to hear the heroic story of Zrínyi."
+          }
+        },
+        {
+          "name": {
+            "de": "Miklós-Zrínyi-Museum",
+            "hu": "Zrínyi Miklós Múzeum",
+            "ro": "Muzeul Miklós Zrínyi",
+            "en": "Miklós Zrínyi Museum"
+          },
+          "coords": [
+            17.799,
+            46.05
+          ],
+          "category": "museums",
+          "arrive_at": "11:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich in der Burg, planen Sie also keine zusätzliche Gehzeit ein.",
+            "hu": "A múzeum a várban található, így ne számoljon extra sétával.",
+            "ro": "Muzeul este situat în interiorul castelului, deci nu este nevoie de timp suplimentar de mers pe jos.",
+            "en": "The museum is located within the castle, so don't budget extra walking time."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermal- und Heilbad",
+            "hu": "Gyógy- és Termálfürdő",
+            "ro": "Băile Termale și Medicinale",
+            "en": "Thermal and Spa Bath"
+          },
+          "coords": [
+            17.805,
+            46.046
+          ],
+          "category": "natural features",
+          "arrive_at": "13:49",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für eine entspannende Pause am Nachmittag. Bringen Sie Badekleidung mit!",
+            "hu": "Tökéletes egy pihentető délutáni szünetre. Hozzon fürdőruhát!",
+            "ro": "Perfect pentru o pauză relaxantă de după-amiază. Aduceți costumul de baie!",
+            "en": "Perfect for a relaxing afternoon break. Bring your swimwear!"
+          }
+        },
+        {
+          "name": {
+            "de": "Musikpavillon",
+            "hu": "Zenepavilon",
+            "ro": "Pavilionul Muzical",
+            "en": "Music Pavilion"
+          },
+          "coords": [
+            17.798,
+            46.0488
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:29",
+          "stay_min": 17,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um den Tag ausklingen zu lassen, oft mit lokaler Musik.",
+            "hu": "Egy szép hely a nap befejezéséhez, gyakran helyi zenével.",
+            "ro": "Un loc frumos pentru a încheia ziua, adesea cu muzică locală.",
+            "en": "A lovely spot to wind down the day, often with local music."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem historischen Zrínyi-Platz, dem Herzen von Szigetvár. Am Vormittag erkunden Sie die osmanische Vergangenheit in der Ali-Pascha-Moschee, bevor Sie die heldenhaften Mauern der Burg Szigetvár und das darin befindliche Museum erobern. Der Nachmittag ist der Entspannung gewidmet: Ein langer Spaziergang führt Sie zum Thermalbad, wo Sie sich im Heilwasser erholen. Schließen Sie den Tag mit einem friedlichen Moment am Musikpavillon ab und genießen Sie die Atmosphäre der Stadt.",
+        "hu": "Kezdje a napot a történelmi Zrínyi téren, Szigetvár szívében. A délelőtt folyamán fedezze fel a város oszmán múltját az Ali Pasa Dzsámiban, majd vegye be a szigetvári vár hősies falait és a benne rejlő múzeumot. A délután a pihenésé: egy hosszabb séta a Gyógy- és Termálfürdőbe vezet, ahol feltöltődhet a gyógyvízben. Zárja a napot egy békés pillanattal a Zenepavilonnál, élvezve a város hangulatát.",
+        "ro": "Începeți ziua în Piața istorică Zrínyi, inima orașului Szigetvár. Dimineața explorați trecutul otoman la Moscheea lui Ali Pașa, înainte de a cuceri zidurile eroice ale Cetății Szigetvár și muzeul din interior. După-amiaza este dedicată relaxării: o plimbare mai lungă vă va duce la băile termale, unde vă puteți reîncărca în apa medicinală. Încheiați ziua cu un moment de liniște la Pavilionul Muzical, bucurându-vă de atmosfera orașului.",
+        "en": "Start your day in the historic Zrínyi Square, the heart of Szigetvár. In the morning, explore the Ottoman past at the Ali Pasha Mosque before conquering the heroic walls of Szigetvár Castle and its museum within. The afternoon is for relaxation: a longer walk takes you to the Thermal Bath to recharge in its healing waters. End the day with a peaceful moment at the Music Pavilion, soaking in the town's atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gulaschsuppe",
+            "tip": "Probieren Sie eine herzhafte Gulaschsuppe in einem traditionellen Csárda."
+          },
+          {
+            "name": "Langos",
+            "tip": "Ein Muss als Snack, am besten frisch und mit Knoblauch, saurer Sahne und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gulyásleves",
+            "tip": "Kóstoljon meg egy kiadós gulyáslevest egy hagyományos csárdában."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Kötelező harapnivaló, a legjobb frissen, fokhagymával, tejföllel és sajttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de gulaș",
+            "tip": "Încercați o supă de gulaș consistentă la o csárda tradițională."
+          },
+          {
+            "name": "Langos",
+            "tip": "O gustare obligatorie, cel mai bun proaspăt cu usturoi, smântână și brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goulash Soup",
+            "tip": "Try a hearty goulash soup at a traditional Csárda restaurant."
+          },
+          {
+            "name": "Lángos",
+            "tip": "A must-try snack, best served fresh with garlic, sour cream, and cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Almás-Bachs",
+            "tip": "Ein ruhiger Spaziergang entlang des Baches, der durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Burggraben",
+            "tip": "Finden Sie eine ruhige Bank im ehemaligen Graben, der jetzt ein Park ist.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Almás-patak partja",
+            "tip": "Egy csendes séta a városon átfolyó patak mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Várárok",
+            "tip": "Keressen egy csendes padot a várárokban, ami ma már parkként funkcionál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul pârâului Almás",
+            "tip": "O plimbare liniștită de-a lungul pârâului care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Șanțul cetății",
+            "tip": "Găsiți o bancă liniștită în fostul șanț, acum un parc.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Almás stream",
+            "tip": "A quiet walk along the stream that flows through the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Moat",
+            "tip": "Find a quiet bench in the former moat, which is now a park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie Paprika und andere ungarische Spezialitäten auf dem Stadtmarkt."
+          },
+          {
+            "name": "Burg-Souvenirs",
+            "tip": "Im Museumsshop finden Sie Bücher und Andenken zur Belagerung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon paprikát és más magyar különlegességeket a városi piacon."
+          },
+          {
+            "name": "Vár-szuvenírek",
+            "tip": "A múzeum boltjában könyveket és emléktárgyakat talál az ostromról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați boia și alte specialități maghiare din piața orașului."
+          },
+          {
+            "name": "Suveniruri de la castel",
+            "tip": "În magazinul muzeului veți găsi cărți și suveniruri despre asediu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy paprika and other Hungarian specialties at the town market."
+          },
+          {
+            "name": "Castle Souvenirs",
+            "tip": "Find books and mementos about the siege in the museum shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie genügend Zeit für das Thermalbad ein, es ist größer als es aussieht.",
+          "Prüfen Sie die Öffnungszeiten des Museums, da diese saisonal variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakő egyenetlen lehet.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Tervezzen elég időt a fürdőre, nagyobb, mint amilyennek látszik.",
+          "Ellenőrizze a múzeum nyitvatartási idejét, mert szezonálisan változhat."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul poate fi denivelat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați suficient timp pentru băile termale, sunt mai mari decât par.",
+          "Verificați programul de funcționare al muzeului, deoarece acesta poate varia în funcție de sezon."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Most sights in the center are within easy walking distance.",
+          "Allow plenty of time for the thermal bath; it's bigger than it looks.",
+          "Check the museum's opening hours as they can vary seasonally."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 6.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zrínyi-Platz",
+            "hu": "Zrínyi tér",
+            "ro": "Piața Zrínyi",
+            "en": "Zrínyi Square"
+          },
+          "coords": [
+            17.7985,
+            46.049
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad oder bringen Sie Ihr eigenes mit, um die Stadt zu erkunden.",
+            "hu": "Béreljen kerékpárt, vagy hozza a sajátját a város felfedezéséhez.",
+            "ro": "Închiriați o bicicletă sau aduceți-vă propria pentru a explora orașul.",
+            "en": "Rent a bike or bring your own to explore the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Szigetvár & Museum",
+            "hu": "Szigetvári vár és Múzeum",
+            "ro": "Cetatea și Muzeul Szigetvár",
+            "en": "Szigetvár Castle & Museum"
+          },
+          "coords": [
+            17.7995,
+            46.0505
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:22",
+          "stay_min": 150,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die große Burganlage betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a tágas vár területére.",
+            "ro": "Legați-vă bicicleta în siguranță înainte de a intra în complexul mare al castelului.",
+            "en": "Lock your bike securely before entering the large castle complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermal- und Heilbad",
+            "hu": "Gyógy- és Termálfürdő",
+            "ro": "Băile Termale și Medicinale",
+            "en": "Thermal and Spa Bath"
+          },
+          "coords": [
+            17.805,
+            46.046
+          ],
+          "category": "natural features",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine erfrischende Pause nach der Radtour. Das Bad hat Fahrradständer.",
+            "hu": "Egy frissítő szünet a biciklizés után. A fürdőben van kerékpártároló.",
+            "ro": "O pauză răcoritoare după plimbarea cu bicicleta. Băile au suporturi pentru biciclete.",
+            "en": "A refreshing break after the bike ride. The bath has bike racks."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Ungarisch-Türkischen Freundschaft",
+            "hu": "Magyar-Török Barátság Park",
+            "ro": "Parcul Prieteniei Maghiare-Turce",
+            "en": "Park of Hungarian-Turkish Friendship"
+          },
+          "coords": [
+            17.815,
+            46.055
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Park liegt etwas außerhalb, ist aber eine einfache und flache Radtour.",
+            "hu": "A park kissé kiesik a központból, de egy könnyű, sík kerékpárúttal elérhető.",
+            "ro": "Parcul este puțin în afara centrului, dar este o plimbare cu bicicleta ușoară și plată.",
+            "en": "The park is a bit out of the way, but it's an easy and flat bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Ali-Pascha-Moschee",
+            "hu": "Ali Pasa Dzsámija",
+            "ro": "Moscheea lui Ali Pașa",
+            "en": "Ali Pasha Mosque"
+          },
+          "coords": [
+            17.801,
+            46.0485
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:27",
+          "stay_min": 24,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem letzten historischen Halt, bevor Sie zum Platz zurückkehren.",
+            "hu": "Fejezze be a túrát egy utolsó történelmi megállóval, mielőtt visszatér a térre.",
+            "ro": "Încheiați turul cu o ultimă oprire istorică înainte de a vă întoarce în piață.",
+            "en": "Finish your tour with one last historical stop before heading back to the square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie am Zrínyi-Platz. Der Vormittag gehört ganz der Geschichte: Radeln Sie zur mächtigen Burg und tauchen Sie tief in die Vergangenheit ein. Mittags lockt das Thermalbad zur Erholung der müden Muskeln. Am Nachmittag führt Sie eine längere, aber lohnende Radtour zum Park der Ungarisch-Türkischen Freundschaft, einem Symbol der Versöhnung. Beenden Sie den Tag mit einem Besuch der Ali-Pascha-Moschee, bevor Sie zurück ins Zentrum rollen.",
+        "hu": "Pattanjon nyeregbe, és induljon a Zrínyi térről! A délelőtt a történelemé: tekerjen el a hatalmas várhoz, és merüljön el a múltban. Délben a termálfürdő csábít a fáradt izmok pihentetésére. Délután egy hosszabb, de megérő biciklitúra vezet a Magyar-Török Barátság Parkba, a megbékélés szimbólumához. Zárja a napot az Ali Pasa Dzsámi meglátogatásával, mielőtt visszagurul a központba.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Zrínyi. Dimineața este dedicată istoriei: pedalați până la impunătoarea cetate și scufundați-vă în trecut. La prânz, băile termale vă invită să vă relaxați mușchii obosiți. După-amiaza, o plimbare mai lungă, dar plină de satisfacții, cu bicicleta vă duce la Parcul Prieteniei Maghiare-Turce, un simbol al reconcilierii. Încheiați ziua cu o vizită la Moscheea lui Ali Pașa înainte de a vă întoarce în centru.",
+        "en": "Hop on your bike and start from Zrínyi Square. The morning is all about history: cycle to the mighty castle and dive deep into the past. At noon, the thermal bath offers a chance to relax tired muscles. In the afternoon, a longer but rewarding bike ride takes you to the Park of Hungarian-Turkish Friendship, a symbol of reconciliation. End the day with a visit to the Ali Pasha Mosque before rolling back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pörkölt",
+            "tip": "Ein ungarischer Eintopf, perfekt zur Stärkung nach einer Radtour."
+          },
+          {
+            "name": "Somlói Galuska",
+            "tip": "Gönnen Sie sich dieses reichhaltige Biskuit-Dessert als Belohnung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pörkölt",
+            "tip": "Egy magyar pörkölt, tökéletes feltöltődés egy kerékpártúra után."
+          },
+          {
+            "name": "Somlói Galuska",
+            "tip": "Jutalmazza meg magát ezzel a gazdag piskóta desszerttel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pörkölt (tocăniță)",
+            "tip": "O tocăniță maghiară, perfectă pentru a vă reface energia după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Somlói Galuska",
+            "tip": "Răsfățați-vă cu acest desert bogat de pandișpan ca recompensă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pörkölt (Stew)",
+            "tip": "A Hungarian stew, perfect for refueling after a bike ride."
+          },
+          {
+            "name": "Somlói Galuska",
+            "tip": "Treat yourself to this rich sponge cake dessert as a reward."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park der Freundschaft",
+            "tip": "Der Park selbst ist ein Ort der Ruhe und des Nachdenkens.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Radweg außerhalb der Stadt",
+            "tip": "Genießen Sie die Stille der Landschaft auf dem Weg zum Park.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barátság Park",
+            "tip": "Maga a park a béke és az elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Városon kívüli kerékpárút",
+            "tip": "Élvezze a vidék csendjét a park felé vezető úton.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Prieteniei",
+            "tip": "Parcul în sine este un loc de pace și reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pista de biciclete din afara orașului",
+            "tip": "Bucurați-vă de liniștea peisajului rural în drum spre parc.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Friendship Park",
+            "tip": "The park itself is a place of peace and reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bike path outside town",
+            "tip": "Enjoy the silence of the countryside on the way to the park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "In lokalen Geschäften finden Sie möglicherweise grundlegendes Fahrradzubehör."
+          },
+          {
+            "name": "Honig aus der Region",
+            "tip": "Suchen Sie auf dem Markt nach lokal produziertem Akazienhonig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A helyi boltokban találhat alapvető kerékpár-kiegészítőket."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "Keressen helyben termelt akácmézet a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Este posibil să găsiți accesorii de bază pentru biciclete în magazinele locale."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Căutați miere de salcâm produsă local la piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Accessories",
+            "tip": "You might find basic cycling accessories in local shops."
+          },
+          {
+            "name": "Local Honey",
+            "tip": "Look for locally produced acacia honey at the market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Die Stadt ist größtenteils flach, aber einige Straßen können eng sein.",
+          "Einige Sehenswürdigkeiten liegen außerhalb des Zentrums, planen Sie also die Routen.",
+          "Nehmen Sie viel Wasser mit, besonders im Sommer."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a keréknyomást.",
+          "A város többnyire sík, de néhány utca szűk lehet.",
+          "Néhány látnivaló a központon kívül esik, ezért tervezze meg az útvonalakat.",
+          "Vigyen magával sok vizet, különösen nyáron."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a porni.",
+          "Orașul este în mare parte plat, dar unele străzi pot fi înguste.",
+          "Unele atracții sunt în afara centrului, așa că planificați-vă rutele.",
+          "Luați multă apă, mai ales vara."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "The town is mostly flat, but some streets can be narrow.",
+          "Some sights are outside the center, so plan the routes.",
+          "Bring plenty of water, especially in summer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Szigetvár Zentrum",
+            "hu": "Szigetvár Központ Klaszter",
+            "ro": "Cluster Centru Szigetvár",
+            "en": "Szigetvár Center Cluster"
+          },
+          "coords": [
+            17.7998,
+            46.0508
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Burg für diesen Cluster.",
+            "hu": "Parkoljon a vár közelében ehhez a klaszterhez.",
+            "ro": "Parcați lângă castel pentru acest cluster.",
+            "en": "Park near the castle for this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Szigetvár & Museum",
+            "hu": "Szigetvári vár és Múzeum",
+            "ro": "Cetatea și Muzeul Szigetvár",
+            "en": "Szigetvár Castle & Museum"
+          },
+          "coords": [
+            17.7995,
+            46.0505
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:12",
+          "stay_min": 150,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die gesamte Anlage zu Fuß.",
+            "hu": "Fedezze fel az egész komplexumot gyalog.",
+            "ro": "Explorați întregul complex pe jos.",
+            "en": "Explore the entire complex on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Zrínyi-Platz",
+            "hu": "Zrínyi tér",
+            "ro": "Piața Zrínyi",
+            "en": "Zrínyi Square"
+          },
+          "coords": [
+            17.7985,
+            46.049
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:46",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Burg zum Mittagessen.",
+            "hu": "Egy rövid séta a vártól az ebédhez.",
+            "ro": "O scurtă plimbare de la castel pentru prânz.",
+            "en": "A short walk from the castle for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Wallfahrtskirche Turbék",
+            "hu": "Turbéki kegytemplom",
+            "ro": "Biserica de pelerinaj din Turbék",
+            "en": "Turbék Pilgrimage Church"
+          },
+          "coords": [
+            17.83,
+            46.065
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zu diesem spirituellen Ort außerhalb der Stadt.",
+            "hu": "Egy rövid autóút ehhez a városon kívüli spirituális helyhez.",
+            "ro": "O scurtă călătorie cu mașina către acest loc spiritual din afara orașului.",
+            "en": "A short drive to this spiritual site outside the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Ungarisch-Türkischen Freundschaft",
+            "hu": "Magyar-Török Barátság Park",
+            "ro": "Parcul Prieteniei Maghiare-Turce",
+            "en": "Park of Hungarian-Turkish Friendship"
+          },
+          "coords": [
+            17.815,
+            46.055
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein weiterer kurzer Sprung mit dem Auto. Parkmöglichkeiten sind vorhanden.",
+            "hu": "Egy újabb rövid ugrás autóval. Parkolási lehetőség biztosított.",
+            "ro": "O altă scurtă deplasare cu mașina. Parcarea este disponibilă.",
+            "en": "Another short hop by car. Parking is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermal- und Heilbad",
+            "hu": "Gyógy- és Termálfürdő",
+            "ro": "Băile Termale și Medicinale",
+            "en": "Thermal and Spa Bath"
+          },
+          "coords": [
+            17.805,
+            46.046
+          ],
+          "category": "natural features",
+          "arrive_at": "15:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto am Park stehen und gehen Sie zum Bad.",
+            "hu": "Hagyja az autót a parknál, és sétáljon át a fürdőbe.",
+            "ro": "Lăsați mașina la parc și mergeți pe jos la băi.",
+            "en": "Leave the car at the park and walk to the bath."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um Szigetvár und seine Umgebung effizient zu erkunden. Parken Sie im Zentrum und widmen Sie den Vormittag dem historischen Herzen der Stadt: der Burg, dem Museum und dem Zrínyi-Platz. Nach dem Mittagessen fahren Sie nach Turbék, um die ruhige Atmosphäre der Wallfahrtskirche zu erleben. Der nächste Halt ist der Park der Ungarisch-Türkischen Freundschaft, ein Ort des Nachdenkens. Beenden Sie den Tag mit einer wohlverdienten Entspannung im Thermalbad, das nur einen kurzen Spaziergang vom Park entfernt ist.",
+        "hu": "Használja autóját Szigetvár és környéke hatékony felfedezéséhez. Parkoljon a központban, és szentelje a délelőttöt a város történelmi szívének: a várnak, a múzeumnak és a Zrínyi térnek. Ebéd után vezessen át Turbékba, hogy megtapasztalja a kegytemplom békés légkörét. A következő megálló a Magyar-Török Barátság Park, az elmélkedés helye. Zárja a napot egy jól megérdemelt pihenéssel a Gyógyfürdőben, amely csak egy rövid sétára van a parktól.",
+        "ro": "Folosiți mașina pentru a explora eficient Szigetvár și împrejurimile sale. Parcați în centru și dedicați dimineața inimii istorice a orașului: cetatea, muzeul și Piața Zrínyi. După prânz, conduceți la Turbék pentru a experimenta atmosfera liniștită a bisericii de pelerinaj. Următoarea oprire este Parcul Prieteniei Maghiare-Turce, un loc de reflecție. Încheiați ziua cu o relaxare binemeritată la băile termale, la o scurtă plimbare de parc.",
+        "en": "Use your car to efficiently explore Szigetvár and its surroundings. Park in the center and dedicate the morning to the city's historic heart: the castle, museum, and Zrínyi Square. After lunch, drive to Turbék to experience the peaceful atmosphere of the pilgrimage church. The next stop is the Park of Hungarian-Turkish Friendship, a place for reflection. End the day with a well-deserved relaxation at the Thermal Bath, just a short walk from the park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant an der Landstraße",
+            "tip": "Halten Sie Ausschau nach Csárdas außerhalb der Stadt für authentische Gerichte."
+          },
+          {
+            "name": "Kürtőskalács (Baumstriezel)",
+            "tip": "Ein süßer Genuss, den man oft auf Festivals oder Märkten findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Országúti étterem",
+            "tip": "Keressen a városon kívüli csárdákat az autentikus ételekért."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Édes finomság, gyakran fesztiválokon vagy piacokon található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la drum",
+            "tip": "Căutați csárda-uri în afara orașului pentru mâncăruri autentice."
+          },
+          {
+            "name": "Kürtőskalács (Cozonac secuiesc)",
+            "tip": "Un deliciu dulce adesea găsit la festivaluri sau piețe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside Restaurant",
+            "tip": "Look for Csárdas outside the city for authentic dishes."
+          },
+          {
+            "name": "Kürtőskalács (Chimney Cake)",
+            "tip": "A sweet treat often found at festivals or markets."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche von Turbék",
+            "tip": "Ein Ort der Stille und Spiritualität, abseits des städtischen Trubels.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Landschaft um Szigetvár",
+            "tip": "Genießen Sie die Aussicht auf die flache ungarische Tiefebene während der Fahrt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Turbéki templom",
+            "tip": "A csend és a spiritualitás helye, távol a város zajától.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Szigetvár környéki táj",
+            "tip": "Élvezze a magyar Alföld sík vidékének látványát vezetés közben.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica din Turbék",
+            "tip": "Un loc de liniște și spiritualitate, departe de agitația orașului.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Peisajul din jurul Szigetvár",
+            "tip": "Bucurați-vă de priveliștea câmpiei maghiare plate în timp ce conduceți.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church of Turbék",
+            "tip": "A place of silence and spirituality, away from the city bustle.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Countryside around Szigetvár",
+            "tip": "Enjoy the views of the flat Hungarian plain while driving.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein aus der Region Villány",
+            "tip": "In Supermärkten oder Weinfachgeschäften erhältlich."
+          },
+          {
+            "name": "Handgefertigte Keramik",
+            "tip": "Halten Sie auf Märkten Ausschau nach lokaler Töpferware."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villányi bor",
+            "tip": "Szupermarketekben vagy borboltokban kapható."
+          },
+          {
+            "name": "Kézműves kerámia",
+            "tip": "Keressen helyi fazekas termékeket a piacokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin din regiunea Villány",
+            "tip": "Disponibil în supermarketuri sau magazine specializate în vinuri."
+          },
+          {
+            "name": "Ceramică artizanală",
+            "tip": "Căutați obiecte de olărit locale în piețe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine from the Villány region",
+            "tip": "Available in supermarkets or specialized wine shops."
+          },
+          {
+            "name": "Handmade Pottery",
+            "tip": "Look for local pottery at markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein GPS ist nützlich, um die Standorte außerhalb der Stadt zu finden.",
+          "Kombinieren Sie Fahren mit kurzen Spaziergängen für das beste Erlebnis.",
+          "Tanken Sie, bevor Sie die Stadt verlassen, wenn Sie weitere Ausflüge planen."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "A GPS hasznos a városon kívüli helyszínek megtalálásához.",
+          "A legjobb élmény érdekében kombinálja a vezetést rövid sétákkal.",
+          "Tankoljon, mielőtt elhagyja a várost, ha további utakat tervez."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele în avans.",
+          "Un GPS este util pentru a găsi locațiile din afara orașului.",
+          "Combinați condusul cu plimbări scurte pentru cea mai bună experiență.",
+          "Alimentați înainte de a părăsi orașul dacă plănuiți excursii mai lungi."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A GPS is useful for finding the locations outside the town.",
+          "Combine driving with short walks for the best experience.",
+          "Fill up your tank before leaving the city if you plan further trips."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zrínyi-Platz",
+            "hu": "Zrínyi tér",
+            "ro": "Piața Zrínyi",
+            "en": "Zrínyi Square"
+          },
+          "coords": [
+            17.7985,
+            46.049
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptplatz, der von vielen Buslinien bedient wird.",
+            "hu": "Kezdje a főtéren, amelyet számos buszjárat érint.",
+            "ro": "Începeți din piața principală, deservită de multe linii de autobuz.",
+            "en": "Start at the main square, which is served by many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Szigetvár & Museum",
+            "hu": "Szigetvári vár és Múzeum",
+            "ro": "Cetatea și Muzeul Szigetvár",
+            "en": "Szigetvár Castle & Museum"
+          },
+          "coords": [
+            17.7995,
+            46.0505
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:25",
+          "stay_min": 160,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Platz aus ein kurzer Spaziergang.",
+            "hu": "A térről egy rövid séta.",
+            "ro": "O scurtă plimbare din piață.",
+            "en": "A short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermal- und Heilbad",
+            "hu": "Gyógy- és Termálfürdő",
+            "ro": "Băile Termale și Medicinale",
+            "en": "Thermal and Spa Bath"
+          },
+          "coords": [
+            17.805,
+            46.046
+          ],
+          "category": "natural features",
+          "arrive_at": "12:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus vom Zentrum zum Bad.",
+            "hu": "Vegyen egy helyi buszt a központból a fürdőbe.",
+            "ro": "Luați un autobuz local din centru către băi.",
+            "en": "Take a local bus from the center to the bath."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Ungarisch-Türkischen Freundschaft",
+            "hu": "Magyar-Török Barátság Park",
+            "ro": "Parcul Prieteniei Maghiare-Turce",
+            "en": "Park of Hungarian-Turkish Friendship"
+          },
+          "coords": [
+            17.815,
+            46.055
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Möglicherweise müssen Sie umsteigen, um den Park zu erreichen.",
+            "hu": "Lehet, hogy át kell szállnia a park eléréséhez.",
+            "ro": "S-ar putea să fie nevoie să schimbați autobuzul pentru a ajunge la parc.",
+            "en": "You may need to change buses to reach the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Ali-Pascha-Moschee",
+            "hu": "Ali Pasa Dzsámija",
+            "ro": "Moscheea lui Ali Pașa",
+            "en": "Ali Pasha Mosque"
+          },
+          "coords": [
+            17.801,
+            46.0485
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie von der Bushaltestelle im Zentrum zur Moschee.",
+            "hu": "Sétáljon a központi buszmegállótól a dzsámihoz.",
+            "ro": "Mergeți pe jos de la stația de autobuz din centru la moschee.",
+            "en": "Walk from the central bus stop to the mosque."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Szigetvár mit dem lokalen Busnetz. Starten Sie im Herzen der Stadt, dem Zrínyi-Platz, und spazieren Sie zur Burg für einen ausgiebigen Vormittag. Nehmen Sie anschließend den Bus zum Thermalbad, um sich zu entspannen und neue Energie zu tanken. Am Nachmittag bringt Sie ein weiterer Bus zum Park der Freundschaft. Beenden Sie Ihre Tour mit einem Spaziergang zur Ali-Pascha-Moschee, nachdem Sie mit dem Bus ins Zentrum zurückgekehrt sind.",
+        "hu": "Fedezze fel Szigetvárt a helyi buszhálózattal. Induljon a város szívéből, a Zrínyi térről, és sétáljon el a várhoz egy kiadós délelőtti programra. Ezután szálljon buszra a gyógyfürdőhöz, hogy pihenjen és feltöltődjön. Délután egy másik busz elviszi a Barátság Parkba. A túrát az Ali Pasa Dzsámihoz tett sétával fejezze be, miután busszal visszatért a központba.",
+        "ro": "Descoperiți Szigetvár folosind rețeaua locală de autobuze. Începeți din inima orașului, Piața Zrínyi, și plimbați-vă până la castel pentru o dimineață plină. Apoi, luați autobuzul către băile termale pentru a vă relaxa și a vă reîncărca. După-amiaza, un alt autobuz vă va duce la Parcul Prieteniei. Încheiați turul cu o plimbare la Moscheea lui Ali Pașa după ce v-ați întors în centru cu autobuzul.",
+        "en": "Discover Szigetvár using the local bus network. Start in the heart of the city, Zrínyi Square, and walk to the castle for a full morning of exploration. Then, take a bus to the thermal bath to relax and recharge. In the afternoon, another bus will take you to the Friendship Park. Finish your tour with a walk to the Ali Pasha Mosque after returning to the center by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei",
+            "tip": "Kaufen Sie Gebäck für die Busfahrt in einer lokalen Bäckerei."
+          },
+          {
+            "name": "Eisdiele",
+            "tip": "Ein Eis ist eine perfekte Erfrischung zwischen den Busfahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség",
+            "tip": "Vásároljon péksüteményt a buszútra egy helyi pékségben."
+          },
+          {
+            "name": "Fagylaltozó",
+            "tip": "Egy fagylalt tökéletes frissítő a buszozások között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie",
+            "tip": "Cumpărați produse de patiserie pentru călătoria cu autobuzul de la o brutărie locală."
+          },
+          {
+            "name": "Gelaterie",
+            "tip": "O înghețată este o gustare perfectă între călătoriile cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery",
+            "tip": "Buy some pastries for the bus ride from a local bakery."
+          },
+          {
+            "name": "Ice Cream Parlor",
+            "tip": "An ice cream is a perfect refreshment between bus rides."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Vororte",
+            "tip": "Beobachten Sie das tägliche Leben aus dem Fenster des Busses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Warten auf den Bus",
+            "tip": "Nutzen Sie die Wartezeit, um die Umgebung zu beobachten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a külvárosban",
+            "tip": "Figyelje a mindennapi életet a busz ablakából.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Várakozás a buszra",
+            "tip": "Használja ki a várakozási időt a környezet megfigyelésére.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin suburbii",
+            "tip": "Observați viața de zi cu zi pe fereastra autobuzului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Așteptând autobuzul",
+            "tip": "Folosiți timpul de așteptare pentru a observa împrejurimile.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the suburbs",
+            "tip": "Observe the daily life from the bus window.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waiting for the bus",
+            "tip": "Use the waiting time to observe your surroundings.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk",
+            "tip": "Kaufen Sie Fahrkarten und Snacks in den Kiosken in der Nähe der Haltestellen."
+          },
+          {
+            "name": "Souvenirladen im Zentrum",
+            "tip": "Kaufen Sie Ihre Andenken, bevor Sie den letzten Bus nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk",
+            "tip": "Vásároljon jegyeket és rágcsálnivalókat a megállók közelében lévő kioszkokban."
+          },
+          {
+            "name": "Szuvenírbolt a központban",
+            "tip": "Vásárolja meg az emléktárgyakat, mielőtt felszáll az utolsó buszra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc",
+            "tip": "Cumpărați bilete și gustări de la chioșcurile de lângă stații."
+          },
+          {
+            "name": "Magazin de suveniruri în centru",
+            "tip": "Cumpărați-vă suvenirurile înainte de a lua ultimul autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk",
+            "tip": "Buy tickets and snacks at the kiosks near the stops."
+          },
+          {
+            "name": "Souvenir shop in the center",
+            "tip": "Buy your souvenirs before you take the last bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders am Wochenende.",
+          "Haben Sie Kleingeld für die Fahrkarten dabei.",
+          "Die Busse können im Sommer überfüllt sein, planen Sie also etwas mehr Zeit ein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha elérhető.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén.",
+          "Legyen Önnél aprópénz a jegyekhez.",
+          "A buszok nyáron zsúfoltak lehetnek, ezért tervezzen egy kis extra időt."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Aveți la dumneavoastră mărunțiș pentru bilete.",
+          "Autobuzele pot fi aglomerate vara, așa că alocați puțin timp suplimentar."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "Have small change ready for tickets.",
+          "Buses can be crowded in summer, so allow some extra time."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1428 @@
+{
+  "city_id": "greece-katerini-cities-v2",
+  "anchor": {
+    "name": "Katerini",
+    "coords": [
+      22.5061,
+      40.2696
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Eleftherias Platz",
+            "hu": "Eleftherias tér",
+            "ro": "Piața Eleftherias",
+            "en": "Eleftherias Square"
+          },
+          "coords": [
+            22.506,
+            40.2705
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der vielen Cafés rund um den Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér körüli számos kávézó egyikében!",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din jurul pieței.",
+            "en": "Start your day with a coffee at one of the many cafes surrounding the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Katerini Fußgängerzone",
+            "hu": "Katerini sétálóutca",
+            "ro": "Zona Pietonală Katerini",
+            "en": "Katerini Pedestrian Zone"
+          },
+          "coords": [
+            22.5075,
+            40.2715
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:33",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ideal für einen Morgenspaziergang und zum Stöbern in den lokalen Geschäften.",
+            "hu": "Ideális egy reggeli sétához és a helyi üzletek felfedezéséhez.",
+            "ro": "Ideal pentru o plimbare de dimineață și pentru a explora magazinele locale.",
+            "en": "Perfect for a morning stroll and browsing the local shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Hl. Katharina Kirche",
+            "hu": "Szent Katalin-templom",
+            "ro": "Biserica Sfânta Ecaterina",
+            "en": "St. Catherine's Church"
+          },
+          "coords": [
+            22.509,
+            40.269
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden Ikonen und die friedliche Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző ikonokat és a békés belső hangulatot.",
+            "ro": "Observați icoanele impresionante și atmosfera pașnică din interior.",
+            "en": "Note the impressive icons and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agia Paraskevi",
+            "hu": "Agia Paraskevi-templom",
+            "ro": "Biserica Agia Paraskevi",
+            "en": "Agia Paraskevi Church"
+          },
+          "coords": [
+            22.511,
+            40.272
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eine kleinere, aber ebenso charmante Kirche, die einen Besuch wert ist.",
+            "hu": "Egy kisebb, de ugyanolyan bájos templom, amit érdemes meglátogatni.",
+            "ro": "O biserică mai mică, dar la fel de fermecătoare, care merită vizitată.",
+            "en": "A smaller but equally charming church that's worth a visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Folklore Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            22.502,
+            40.268
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die Exponate zum Leben in Makedonien zu erkunden.",
+            "hu": "Szánjon elég időt a macedóniai életről szóló kiállítási tárgyak felfedezésére.",
+            "ro": "Planificați-vă suficient timp pentru a explora exponatele despre viața din Macedonia.",
+            "en": "Allow enough time to explore the exhibits on life in Macedonia."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            22.504,
+            40.27
+          ],
+          "category": "gastro",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie eine lokale Taverne für authentische griechische Gerichte.",
+            "hu": "Próbáljon ki egy helyi tavernát az autentikus görög ételekért.",
+            "ro": "Încercați o tavernă locală pentru mâncăruri grecești autentice.",
+            "en": "Try a local taverna for authentic Greek dishes."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark von Katerini",
+            "hu": "Katerini városi park",
+            "ro": "Parcul Municipal Katerini",
+            "en": "Katerini City Park"
+          },
+          "coords": [
+            22.515,
+            40.265
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen entspannten Nachmittagsspaziergang.",
+            "hu": "Tökéletes hely egy pihentető délutáni sétához.",
+            "ro": "Locul perfect pentru o plimbare relaxantă de după-amiază.",
+            "en": "The perfect spot for a relaxing afternoon walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Katerini beginnt am lebhaften Eleftherias-Platz und führt Sie durch die charmante Fußgängerzone. Am Vormittag erkunden Sie die spirituelle Seite der Stadt mit Besuchen der Katharinen- und Agia-Paraskevi-Kirchen. Nach einem tiefen Einblick in die lokale Kultur im Folkloremuseum genießen Sie ein authentisches griechisches Mittagessen. Der Nachmittag klingt entspannt im grünen Stadtpark aus, wo Sie die Eindrücke des Tages Revue passieren lassen können.",
+        "hu": "A nap Kateriniben a nyüzsgő Eleftherias téren kezdődik, majd a bájos sétálóutcán keresztül folytatódik. Délelőtt felfedezi a város spirituális oldalát a Szent Katalin és Agia Paraskevi templomok meglátogatásával. Miután a Néprajzi Múzeumban mély betekintést nyert a helyi kultúrába, egy autentikus görög ebédet fogyaszthat el. A délután pihentetően zárul a zöld városi parkban, ahol átgondolhatja a nap élményeit.",
+        "ro": "Ziua dvs. în Katerini începe în Piața plină de viață Eleftherias și vă poartă prin zona pietonală fermecătoare. Dimineața, explorați latura spirituală a orașului cu vizite la Bisericile Sfânta Ecaterina și Agia Paraskevi. După o incursiune profundă în cultura locală la Muzeul de Folclor, savurați un prânz grecesc autentic. După-amiaza se încheie relaxant în parcul verde al orașului, unde puteți reflecta la impresiile zilei.",
+        "en": "Your day in Katerini begins at the lively Eleftherias Square, leading you through the charming pedestrian zone. In the morning, you'll explore the spiritual side of the city with visits to St. Catherine's and Agia Paraskevi Churches. After a deep dive into local culture at the Folklore Museum, enjoy an authentic Greek lunch. The afternoon concludes with a relaxing time in the green city park, where you can reflect on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souvlaki",
+            "tip": "Probieren Sie das klassische griechische gegrillte Fleisch am Spieß in einer lokalen Psistaria."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "Ein süßes oder herzhaftes Gebäck, perfekt zum Frühstück oder als Snack."
+          },
+          {
+            "name": "Mezedes",
+            "tip": "Bestellen Sie eine Auswahl kleiner Gerichte, um verschiedene Geschmäcker der Region zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvlaki",
+            "tip": "Kóstolja meg a klasszikus görög grillezett húsnyársat egy helyi psistariában."
+          },
+          {
+            "name": "Bugáca",
+            "tip": "Édes vagy sós péksütemény, tökéletes reggelire vagy uzsonnára."
+          },
+          {
+            "name": "Mezedes",
+            "tip": "Rendeljen egy válogatást kis ételekből, hogy megkóstolja a régió különböző ízeit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvlaki",
+            "tip": "Încercați clasicul frigărui de carne la grătar grecesc la o psistaria locală."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "O patiserie dulce sau sărată, perfectă pentru micul dejun sau ca gustare."
+          },
+          {
+            "name": "Mezedes",
+            "tip": "Comandați o selecție de mici feluri de mâncare pentru a gusta diverse arome ale regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvlaki",
+            "tip": "Try the classic Greek grilled meat on a skewer at a local psistaria."
+          },
+          {
+            "name": "Bougatsa",
+            "tip": "A sweet or savory pastry, perfect for breakfast or a snack."
+          },
+          {
+            "name": "Mezedes",
+            "tip": "Order a selection of small dishes to sample various flavors of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur mitten in der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innenhof einer Kirche",
+            "tip": "Die Kirchenhöfe bieten oft eine Oase der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Park",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Templom udvara",
+            "tip": "A templomudvarok gyakran a nyugalom szigetei.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Municipal",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură în mijlocul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea unei biserici",
+            "tip": "Curțile bisericilor oferă adesea o oază de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "Find a quiet bench and enjoy nature in the middle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church Courtyard",
+            "tip": "The church courtyards often provide an oasis of calm.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fußgängerzone (Megalou Alexandrou)",
+            "tip": "Hier finden Sie eine Mischung aus lokalen Boutiquen und bekannten Marken."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach dem städtischen Markt für frische Produkte, Olivenöl und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sétálóutca (Megalou Alexandrou)",
+            "tip": "Itt helyi butikok és ismert márkák keverékét találja."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keresse a városi piacot friss termékekért, olívaolajért és mézért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona Pietonală (Megalou Alexandrou)",
+            "tip": "Aici veți găsi un amestec de buticuri locale și mărci cunoscute."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piața municipală pentru produse proaspete, ulei de măsline și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pedestrian Zone (Megalou Alexandrou)",
+            "tip": "You'll find a mix of local boutiques and well-known brands here."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for the municipal market for fresh produce, olive oil, and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt öffentliche Brunnen.",
+          "Viele kleinere Geschäfte schließen möglicherweise am frühen Nachmittag für eine Siesta.",
+          "Respektieren Sie die Kleiderordnung beim Betreten von Kirchen (Schultern und Knie bedeckt)."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében gyalogolni fog.",
+          "Hozzon magával újratölthető vizes palackot; vannak nyilvános kutak.",
+          "Sok kisebb üzlet bezárhat kora délután egy szieszta erejéig.",
+          "Tartsa tiszteletben az öltözködési szabályokat a templomokba való belépéskor (vállak és térdek takarva)."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Luați cu dvs. o sticlă de apă reutilizabilă; există fântâni publice.",
+          "Multe magazine mici se pot închide la începutul după-amiezii pentru o siestă.",
+          "Respectați codul vestimentar la intrarea în biserici (umerii și genunchii acoperiți)."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking for most of the day.",
+          "Bring a reusable water bottle; there are public fountains.",
+          "Many smaller shops may close in the early afternoon for a siesta.",
+          "Respect the dress code when entering churches (shoulders and knees covered)."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Eleftherias Platz",
+            "hu": "Eleftherias tér",
+            "ro": "Piața Eleftherias",
+            "en": "Eleftherias Square"
+          },
+          "coords": [
+            22.506,
+            40.2705
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt, um sich mit der Stadt vertraut zu machen.",
+            "hu": "Jó kiindulópont a várossal való ismerkedéshez.",
+            "ro": "Un bun punct de plecare pentru a vă familiariza cu orașul.",
+            "en": "A great starting point to get your bearings in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Katerini Fußgängerzone",
+            "hu": "Katerini sétálóutca",
+            "ro": "Zona Pietonală Katerini",
+            "en": "Katerini Pedestrian Zone"
+          },
+          "coords": [
+            22.5075,
+            40.2715
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:23",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad hier, um die Atmosphäre zu genießen.",
+            "hu": "Tolja a biciklit, hogy élvezze a hangulatot.",
+            "ro": "Împingeți bicicleta aici pentru a vă bucura de atmosferă.",
+            "en": "Walk your bike here to soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Folklore Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            22.502,
+            40.268
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a múzeumba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în muzeu.",
+            "en": "Lock your bike securely before entering the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Hl. Katharina Kirche",
+            "hu": "Szent Katalin-templom",
+            "ro": "Biserica Sfânta Ecaterina",
+            "en": "St. Catherine's Church"
+          },
+          "coords": [
+            22.509,
+            40.269
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die Schutzpatronin der Stadt hat hier eine wunderschöne Kirche.",
+            "hu": "A város védőszentjének gyönyörű temploma van itt.",
+            "ro": "Sfânta patroană a orașului are o biserică frumoasă aici.",
+            "en": "The city's patron saint has a beautiful church here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            22.51,
+            40.272
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Suchen Sie eine Taverne etwas abseits der Hauptstraßen.",
+            "hu": "Keressen egy tavernát a főutcáktól kicsit távolabb.",
+            "ro": "Căutați o tavernă puțin mai departe de străzile principale.",
+            "en": "Look for a taverna slightly off the main streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark von Katerini",
+            "hu": "Katerini városi park",
+            "ro": "Parcul Municipal Katerini",
+            "en": "Katerini City Park"
+          },
+          "coords": [
+            22.515,
+            40.265
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie auf den Wegen und genießen Sie die grüne Oase.",
+            "hu": "Kerékpározzon az ösvényeken, és élvezze a zöld oázist.",
+            "ro": "Plimbați-vă cu bicicleta pe alei și bucurați-vă de oaza de verdeață.",
+            "en": "Cycle through the paths and enjoy the green oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Küste (Paralia)",
+            "hu": "Kerékpárút a partra (Paralia)",
+            "ro": "Plimbare cu bicicleta spre coastă (Paralia)",
+            "en": "Ride to the Coast (Paralia)"
+          },
+          "coords": [
+            22.585,
+            40.267
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresbrise und den Blick auf den Olymp.",
+            "hu": "Élvezze a tengeri szellőt és az Olimposzra nyíló kilátást.",
+            "ro": "Bucurați-vă de briza mării și de vederea spre Muntele Olimp.",
+            "en": "Enjoy the sea breeze and the view of Mount Olympus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie am Eleftherias-Platz, dem Herzen von Katerini. Die Vormittagstour führt Sie durch die belebte Fußgängerzone zum Kulturerbe im Folkloremuseum und der Katharinenkirche. Nach einem stärkenden Mittagessen radeln Sie zum Stadtpark für eine grüne Pause. Der Höhepunkt des Nachmittags ist die erfrischende Fahrt zur Küste von Paralia, wo Sie die Meeresluft und die Aussicht genießen, bevor Sie in die Stadt zurückkehren.",
+        "hu": "Pattanjon biciklire, és induljon az Eleftherias térről, Katerini szívéből. A délelőtti túra a nyüzsgő sétálóutcán keresztül a Néprajzi Múzeum és a Szent Katalin-templom kulturális örökségéhez vezet. Egy kiadós ebéd után tekerjen el a városi parkba egy zöld szünetre. A délután fénypontja a frissítő út Paralia partjára, ahol élvezheti a tengeri levegőt és a kilátást, mielőtt visszatérne a városba.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Eleftherias, inima orașului Katerini. Turul de dimineață vă poartă prin zona pietonală plină de viață către patrimoniul cultural de la Muzeul de Folclor și Biserica Sfânta Ecaterina. După un prânz copios, pedalați spre parcul orașului pentru o pauză verde. Punctul culminant al după-amiezii este plimbarea revigorantă spre coasta Paraliei, unde vă bucurați de aerul mării și de priveliște înainte de a vă întoarce în oraș.",
+        "en": "Hop on your bike and start from Eleftherias Square, the heart of Katerini. The morning tour takes you through the bustling pedestrian zone to the cultural heritage at the Folklore Museum and St. Catherine's Church. After a hearty lunch, you'll cycle to the city park for a green break. The highlight of the afternoon is the refreshing ride to the coast of Paralia, where you can enjoy the sea air and views before heading back to the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyros Pita",
+            "tip": "Ein schneller, leckerer und sättigender Snack für unterwegs."
+          },
+          {
+            "name": "Frischer Fisch in Paralia",
+            "tip": "Wenn Sie an der Küste sind, sollten Sie den Fang des Tages probieren."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Der berühmte griechische Eiskaffee für eine erfrischende Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyros pite",
+            "tip": "Gyors, finom és laktató harapnivaló útközben."
+          },
+          {
+            "name": "Friss hal Paraliában",
+            "tip": "Ha a parton van, kóstolja meg a nap fogását."
+          },
+          {
+            "name": "Frappé",
+            "tip": "A híres görög jegeskávé egy frissítő szünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gyros Pita",
+            "tip": "O gustare rapidă, delicioasă și sățioasă pentru drum."
+          },
+          {
+            "name": "Pește proaspăt în Paralia",
+            "tip": "Dacă ajungeți pe coastă, încercați captura zilei."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Faimoasa cafea cu gheață grecească pentru o pauză răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyros Pita",
+            "tip": "A quick, delicious, and filling snack for on the go."
+          },
+          {
+            "name": "Fresh Fish in Paralia",
+            "tip": "When you're at the coast, be sure to try the catch of the day."
+          },
+          {
+            "name": "Frappé",
+            "tip": "The famous Greek iced coffee for a refreshing break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Paralia",
+            "tip": "Suchen Sie sich am Nachmittag ein ruhiges Plätzchen am Strand.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stadtpark am Morgen",
+            "tip": "Früh am Tag ist der Park besonders friedlich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paralia strandja",
+            "tip": "Keressen egy csendes helyet a tengerparton délután.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Városi Park reggel",
+            "tip": "A nap elején a park különösen békés.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja din Paralia",
+            "tip": "Găsiți un loc liniștit pe plajă după-amiaza.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Municipal dimineața",
+            "tip": "La începutul zilei, parcul este deosebit de liniștit.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach of Paralia",
+            "tip": "Find a quiet spot on the beach in the afternoon.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "City Park in the morning",
+            "tip": "Early in the day, the park is especially peaceful.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Möglicherweise benötigen Sie Zubehör; es gibt mehrere Geschäfte in der Stadt."
+          },
+          {
+            "name": "Souvenirläden in Paralia",
+            "tip": "Finden Sie Muscheln, lokale Handwerkskunst und Andenken an das Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Lehet, hogy szüksége lesz kiegészítőkre; több üzlet is van a városban."
+          },
+          {
+            "name": "Ajándékboltok Paraliában",
+            "tip": "Találjon kagylókat, helyi kézműves termékeket és tengeri emléktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "S-ar putea să aveți nevoie de accesorii; există mai multe magazine în oraș."
+          },
+          {
+            "name": "Magazine de suveniruri în Paralia",
+            "tip": "Găsiți scoici, artizanat local și suveniruri de la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "You might need some accessories; there are several shops in town."
+          },
+          {
+            "name": "Souvenir shops in Paralia",
+            "tip": "Find shells, local crafts, and seaside mementos."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen und Reifen.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, wenn Sie am Abend fahren.",
+          "Achten Sie auf den Verkehr, besonders außerhalb der ausgewiesenen Radwege.",
+          "Ein gutes Schloss ist unerlässlich, um Ihr Fahrrad sicher abzustellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "Viseljen sisakot, és használjon lámpákat, ha este teker.",
+          "Vigyázzon a forgalomra, különösen a kijelölt kerékpárutakon kívül.",
+          "Egy jó lakat elengedhetetlen a kerékpár biztonságos lezárásához."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Purtați cască și folosiți lumini dacă pedalați seara.",
+          "Fiți atenți la trafic, mai ales în afara pistelor de biciclete desemnate.",
+          "Un lacăt bun este esențial pentru a vă securiza bicicleta."
+        ],
+        "en": [
+          "Check your bike before you set off, especially the brakes and tires.",
+          "Wear a helmet and use lights if you're cycling in the evening.",
+          "Be mindful of traffic, especially outside of designated bike lanes.",
+          "A good lock is essential for leaving your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 72.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Eleftherias Platz & Zentrum",
+            "hu": "Eleftherias tér és központ",
+            "ro": "Piața Eleftherias & Centru",
+            "en": "Eleftherias Square & Center"
+          },
+          "coords": [
+            22.506,
+            40.2705
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in einem nahegelegenen Parkhaus für den ersten Teil Ihrer Erkundung.",
+            "hu": "Parkolja le autóját egy közeli parkolóházban a felfedezés első részéhez.",
+            "ro": "Parcați mașina într-o parcare din apropiere pentru prima parte a explorării.",
+            "en": "Park your car in a nearby parking garage for the first part of your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Folklore Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            22.502,
+            40.268
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz durch die belebten Straßen.",
+            "hu": "Rövid séta a főtérről a nyüzsgő utcákon keresztül.",
+            "ro": "O scurtă plimbare de la piața principală pe străzile aglomerate.",
+            "en": "A short walk from the main square through the busy streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Berg Olymp",
+            "hu": "Kilátó az Olümposz-hegy felé",
+            "ro": "Punct de belvedere spre Muntele Olimp",
+            "en": "Mount Olympus Viewpoint"
+          },
+          "coords": [
+            22.41,
+            40.15
+          ],
+          "category": "mountain",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 25,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Litochoro, dem Tor zum Olymp, für eine atemberaubende Aussicht.",
+            "hu": "Vezessen Litochoróba, az Olimposz kapujába, a lélegzetelállító kilátásért.",
+            "ro": "Conduceți spre Litochoro, poarta de acces către Muntele Olimp, pentru o priveliște uluitoare.",
+            "en": "Drive towards Litochoro, the gateway to Olympus, for a breathtaking view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Litochoro",
+            "hu": "Ebéd Litochoróban",
+            "ro": "Prânz în Litochoro",
+            "en": "Lunch in Litochoro"
+          },
+          "coords": [
+            22.498,
+            40.105
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie traditionelle makedonische Küche mit Blick auf die Berge.",
+            "hu": "Élvezze a hagyományos macedón konyhát a hegyekre nyíló kilátással.",
+            "ro": "Bucurați-vă de bucătăria tradițională macedoneană cu vedere la munți.",
+            "en": "Enjoy traditional Macedonian cuisine with a view of the mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Platamon",
+            "hu": "Platamonaszi vár",
+            "ro": "Castelul Platamon",
+            "en": "Platamon Castle"
+          },
+          "coords": [
+            22.593,
+            39.993
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:10",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 45,
+          "tip_5lang": {
+            "de": "Eine beeindruckende Kreuzritterburg mit Panoramablick auf die Ägäis.",
+            "hu": "Lenyűgöző keresztes lovagvár, panorámás kilátással az Égei-tengerre.",
+            "ro": "Un castel cruciat impresionant, cu vedere panoramică la Marea Egee.",
+            "en": "An impressive Crusader castle with panoramic views of the Aegean Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Strand von Platamon",
+            "hu": "Séta a platamoni tengerparton",
+            "ro": "Plimbare pe plaja din Platamon",
+            "en": "Walk on Platamon Beach"
+          },
+          "coords": [
+            22.598,
+            39.99
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:55",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach dem Burgbesuch am Strand unterhalb der Festung.",
+            "hu": "Pihenjen a vár látogatása után az erőd alatti tengerparton.",
+            "ro": "Relaxați-vă după vizitarea castelului pe plaja de sub fortăreață.",
+            "en": "Relax after the castle visit on the beach below the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Katerini",
+            "hu": "Visszatérés Katerinibe",
+            "ro": "Întoarcere în Katerini",
+            "en": "Return to Katerini"
+          },
+          "coords": [
+            22.5061,
+            40.2696
+          ],
+          "category": "travel",
+          "arrive_at": "18:15",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Planen Sie Zeit für den Abendverkehr bei der Rückkehr in die Stadt ein.",
+            "hu": "Számoljon az esti forgalommal a városba való visszatéréskor.",
+            "ro": "Planificați timp pentru traficul de seară la întoarcerea în oraș.",
+            "en": "Plan for evening traffic when returning to the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Zentrum von Katerini, wo Sie zu Fuß die Highlights erkunden. Dann geht die Fahrt Richtung Süden zum mythischen Berg Olymp, wo Sie in Litochoro eine fantastische Aussicht und ein traditionelles Mittagessen genießen. Der Nachmittag ist einem historischen Höhepunkt gewidmet: der beeindruckenden Burg Platamon an der Küste. Ein entspannter Spaziergang am Strand rundet den Ausflug ab, bevor Sie mit unvergesslichen Eindrücken nach Katerini zurückkehren.",
+        "hu": "Autós napja Katerini központjában kezdődik, ahol gyalog fedezi fel a nevezetességeket. Ezután dél felé veszi az irányt a mitikus Olümposz-hegy felé, ahol Litochoróban fantasztikus kilátás és hagyományos ebéd várja. A délután egy történelmi fénypontnak van szentelve: a lenyűgöző Platamonaszi várnak a tengerparton. Egy pihentető tengerparti séta zárja a kirándulást, mielőtt felejthetetlen élményekkel térne vissza Katerinibe.",
+        "ro": "Ziua cu mașina începe în centrul orașului Katerini, unde explorați punctele de atracție pe jos. Apoi, călătoria continuă spre sud, spre miticul Munte Olimp, unde vă bucurați de o priveliște fantastică și de un prânz tradițional în Litochoro. După-amiaza este dedicată unui punct culminant istoric: impresionantul Castel Platamon de pe coastă. O plimbare relaxantă pe plajă completează excursia înainte de a vă întoarce la Katerini cu impresii de neuitat.",
+        "en": "Your car day starts in the center of Katerini, where you'll explore the highlights on foot. Then, the journey heads south towards the mythical Mount Olympus, where you'll enjoy fantastic views and a traditional lunch in Litochoro. The afternoon is dedicated to a historical highlight: the impressive Platamon Castle on the coast. A relaxing beach walk rounds off the trip before you return to Katerini with unforgettable memories."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ziege am Spieß",
+            "tip": "Eine Spezialität in den Bergtavernen rund um den Olymp."
+          },
+          {
+            "name": "Meeresfrüchte-Kritharoto",
+            "tip": "Probieren Sie dieses griechische Orzo-Nudelgericht mit Meeresfrüchten in einer Küstentaverne."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "Ein starker lokaler Schnaps, der oft mit Mezedes serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kecske nyárson",
+            "tip": "Különlegesség az Olimposz körüli hegyi tavernákban."
+          },
+          {
+            "name": "Tenger gyümölcsei Kritharoto",
+            "tip": "Kóstolja meg ezt a görög orzo tésztaételt tenger gyümölcseivel egy tengerparti tavernában."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "Erős helyi párlat, amelyet gyakran mezedes-szel szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capră la proțap",
+            "tip": "O specialitate în tavernele montane din jurul Olimpului."
+          },
+          {
+            "name": "Kritharoto cu fructe de mare",
+            "tip": "Încercați acest fel de mâncare grecesc cu paste orzo și fructe de mare la o tavernă de pe coastă."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "O băutură spirtoasă locală puternică, adesea servită cu mezedes."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goat on the spit",
+            "tip": "A specialty in the mountain tavernas around Olympus."
+          },
+          {
+            "name": "Seafood Kritharoto",
+            "tip": "Try this Greek orzo pasta dish with seafood at a coastal taverna."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "A strong local spirit, often served with mezedes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Enipeas-Schlucht, Litochoro",
+            "tip": "Ein kurzer Spaziergang entlang des Flusses bietet Ruhe und Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang von Platamon",
+            "tip": "Beobachten Sie, wie die Sonne über dem Meer oder hinter dem Olymp untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Enipeas-szurdok, Litochoro",
+            "tip": "Egy rövid séta a folyó mentén nyugalmat és természetet kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente Platamonban",
+            "tip": "Nézze, ahogy a nap a tenger felett vagy az Olimposz mögött lenyugszik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cheile Enipeas, Litochoro",
+            "tip": "O scurtă plimbare de-a lungul râului oferă liniște și natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare la Platamon",
+            "tip": "Priviți cum soarele apune peste mare sau în spatele Muntelui Olimp.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Enipeas Gorge, Litochoro",
+            "tip": "A short walk along the river offers peace and nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset from Platamon",
+            "tip": "Watch the sun set over the sea or behind Mount Olympus.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kräuter vom Olymp",
+            "tip": "Kaufen Sie aromatischen Oregano und Bergtee in Litochoro."
+          },
+          {
+            "name": "Handwerkskunst in Platamon",
+            "tip": "In den Geschäften rund um die Burg finden Sie lokale Keramik und Schmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógynövények az Olimposzról",
+            "tip": "Vásároljon aromás oregánót és hegyi teát Litochoróban."
+          },
+          {
+            "name": "Kézműves termékek Platamonban",
+            "tip": "A vár körüli üzletekben helyi kerámiákat és ékszereket talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ierburi de pe Olimp",
+            "tip": "Cumpărați oregano aromat și ceai de munte din Litochoro."
+          },
+          {
+            "name": "Artizanat în Platamon",
+            "tip": "În magazinele din jurul castelului veți găsi ceramică și bijuterii locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herbs from Olympus",
+            "tip": "Buy aromatic oregano and mountain tea in Litochoro."
+          },
+          {
+            "name": "Crafts in Platamon",
+            "tip": "Find local pottery and jewelry in the shops around the castle."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Auto genug Benzin für die Bergstraßen hat.",
+          "Parken kann in Litochoro und Platamon während der Hochsaison schwierig sein; seien Sie geduldig.",
+          "Die Straßen zum Olymp können eng und kurvig sein; fahren Sie vorsichtig.",
+          "Überprüfen Sie die Öffnungszeiten der Burg Platamon im Voraus, da diese saisonal variieren können."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy van elég üzemanyag az autójában a hegyi utakra.",
+          "A parkolás Litochoróban és Platamonban a főszezonban nehézkes lehet; legyen türelmes.",
+          "Az Olimposzhoz vezető utak szűkek és kanyargósak lehetnek; vezessen óvatosan.",
+          "Előre ellenőrizze a Platamonaszi vár nyitvatartási idejét, mivel az szezonálisan változhat."
+        ],
+        "ro": [
+          "Asigurați-vă că mașina dvs. are suficient combustibil pentru drumurile de munte.",
+          "Parcarea poate fi dificilă în Litochoro și Platamon în timpul sezonului de vârf; aveți răbdare.",
+          "Drumurile spre Olimp pot fi înguste și șerpuite; conduceți cu prudență.",
+          "Verificați în avans programul de funcționare al Castelului Platamon, deoarece acesta poate varia sezonier."
+        ],
+        "en": [
+          "Make sure your car has enough fuel for the mountain roads.",
+          "Parking can be difficult in Litochoro and Platamon during peak season; be patient.",
+          "The roads to Olympus can be narrow and winding; drive carefully.",
+          "Check the opening hours for Platamon Castle in advance as they can vary seasonally."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof Katerini",
+            "hu": "Érkezés a katerini buszpályaudvarra",
+            "ro": "Sosire la autogara Katerini",
+            "en": "Arrival at Katerini Bus Station"
+          },
+          "coords": [
+            22.501,
+            40.275
+          ],
+          "category": "travel",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten im Stadtnetz.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz a városi hálózaton.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate în rețeaua urbană.",
+            "en": "Buy a day pass for unlimited travel on the city network."
+          }
+        },
+        {
+          "name": {
+            "de": "Eleftherias Platz",
+            "hu": "Eleftherias tér",
+            "ro": "Piața Eleftherias",
+            "en": "Eleftherias Square"
+          },
+          "coords": [
+            22.506,
+            40.2705
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der zentrale Knotenpunkt, von dem aus viele Buslinien starten.",
+            "hu": "A központi csomópont, ahonnan sok buszjárat indul.",
+            "ro": "Nodul central de unde pleacă multe linii de autobuz.",
+            "en": "The central hub from where many bus lines depart."
+          }
+        },
+        {
+          "name": {
+            "de": "Folklore Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            22.502,
+            40.268
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Platz aus leicht zu Fuß erreichbar.",
+            "hu": "A térről könnyen elérhető gyalog.",
+            "ro": "Ușor accesibil pe jos din piață.",
+            "en": "Easily reachable on foot from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Stadt",
+            "hu": "Ebéd a városban",
+            "ro": "Prânz în oraș",
+            "en": "Lunch in the city"
+          },
+          "coords": [
+            22.505,
+            40.272
+          ],
+          "category": "gastro",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Es gibt viele Möglichkeiten rund um die Fußgängerzone.",
+            "hu": "Számos lehetőség van a sétálóutca környékén.",
+            "ro": "Există multe opțiuni în jurul zonei pietonale.",
+            "en": "There are many options around the pedestrian area."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Paralia Katerinis",
+            "hu": "Busz Paralia Katerinisbe",
+            "ro": "Autobuz spre Paralia Katerinis",
+            "en": "Bus to Paralia Katerinis"
+          },
+          "coords": [
+            22.585,
+            40.267
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Die Busse fahren regelmäßig vom Stadtzentrum zum Strand.",
+            "hu": "A buszok rendszeresen közlekednek a városközpontból a strandra.",
+            "ro": "Autobuzele circulă regulat din centrul orașului spre plajă.",
+            "en": "Buses run regularly from the city center to the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang an der Promenade & Kaffee",
+            "hu": "Séta a sétányon és kávé",
+            "ro": "Plimbare pe promenadă și cafea",
+            "en": "Walk on the promenade & coffee"
+          },
+          "coords": [
+            22.59,
+            40.265
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre des Ferienortes bei einem Kaffee am Meer.",
+            "hu": "Élvezze az üdülőhely hangulatát egy kávé mellett a tengerparton.",
+            "ro": "Bucurați-vă de atmosfera stațiunii cu o cafea lângă mare.",
+            "en": "Enjoy the resort atmosphere with a coffee by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Entdeckungsreise mit öffentlichen Verkehrsmitteln startet am zentralen Busbahnhof. Von dort aus erkunden Sie das Herz Katerinis rund um den Eleftherias-Platz und das Folkloremuseum zu Fuß. Nach einem gemütlichen Mittagessen in der Stadt nehmen Sie den Bus für den zweiten Teil Ihres Abenteuers: einen entspannten Nachmittag am Strand von Paralia. Genießen Sie die Sonne, das Meer und einen Spaziergang entlang der Promenade, bevor der Bus Sie zurück ins Zentrum bringt.",
+        "hu": "Tömegközlekedési felfedezőútja a központi buszpályaudvarról indul. Innen gyalogosan fedezi fel Katerini szívét az Eleftherias tér és a Néprajzi Múzeum környékén. Egy kellemes városi ebéd után busszal indul kalandjának második részére: egy pihentető délutánra Paralia strandján. Élvezze a napot, a tengert és egy sétát a sétányon, mielőtt a busz visszaviszi a központba.",
+        "ro": "Călătoria dvs. de descoperire cu transportul public începe de la autogara centrală. De acolo, explorați inima orașului Katerini pe jos, în jurul Pieței Eleftherias și a Muzeului de Folclor. După un prânz relaxat în oraș, luați autobuzul pentru a doua parte a aventurii: o după-amiază relaxantă pe plaja din Paralia. Bucurați-vă de soare, de mare și de o plimbare pe promenadă înainte ca autobuzul să vă ducă înapoi în centru.",
+        "en": "Your journey of discovery by public transport starts at the central bus station. From there, you'll explore the heart of Katerini on foot around Eleftherias Square and the Folklore Museum. After a leisurely lunch in the city, you'll take the bus for the second part of your adventure: a relaxing afternoon on the beach of Paralia. Enjoy the sun, the sea, and a stroll along the promenade before the bus takes you back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Eine Delikatesse, die Sie in den Fischtavernen von Paralia probieren müssen."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Fragen Sie nach Weinen aus der Region Pieria."
+          },
+          {
+            "name": "Koulouri",
+            "tip": "Ein mit Sesam bestreuter Brotring, ein beliebter Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett polip",
+            "tip": "Finomság, amit meg kell kóstolnia Paralia haltavernáiban."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "Kérjen borokat Pieria régiójából."
+          },
+          {
+            "name": "Koulouri",
+            "tip": "Szezámmal szórt kenyérkarika, népszerű úti snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "O delicatesă pe care trebuie să o încercați la tavernele de pește din Paralia."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Întrebați de vinuri din regiunea Pieria."
+          },
+          {
+            "name": "Koulouri",
+            "tip": "Un inel de pâine cu susan, o gustare populară pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Octopus",
+            "tip": "A delicacy you must try at the fish tavernas in Paralia."
+          },
+          {
+            "name": "Local Wines",
+            "tip": "Ask for wines from the Pieria region."
+          },
+          {
+            "name": "Koulouri",
+            "tip": "A sesame-covered bread ring, a popular on-the-go snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ende des Strandes von Paralia",
+            "tip": "Gehen Sie weiter am Strand entlang, um den Menschenmassen zu entkommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eine ruhige Seitenstraße",
+            "tip": "Verlassen Sie die Hauptstraßen für einen Moment der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paralia strandjának vége",
+            "tip": "Sétáljon tovább a tengerparton, hogy elkerülje a tömeget.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy csendes mellékutca",
+            "tip": "Hagyja el a főutcákat egy pillanatnyi békéért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capătul plajei din Paralia",
+            "tip": "Mergeți mai departe de-a lungul plajei pentru a scăpa de aglomerație.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O stradă laterală liniștită",
+            "tip": "Părăsiți străzile principale pentru un moment de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Far end of Paralia beach",
+            "tip": "Walk further down the beach to escape the crowds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A quiet side street",
+            "tip": "Leave the main streets for a moment of peace.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in Paralia",
+            "tip": "Hier finden Sie alles von Strandmode bis zu Souvenirs."
+          },
+          {
+            "name": "Kiosk (Periptero)",
+            "tip": "Kaufen Sie Getränke, Snacks und Bustickets in diesen praktischen kleinen Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek Paraliában",
+            "tip": "Itt mindent megtalál a stranddivattól az ajándéktárgyakig."
+          },
+          {
+            "name": "Kioszk (Periptero)",
+            "tip": "Vásároljon italokat, rágcsálnivalókat és buszjegyeket ezekben a praktikus kis boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Paralia",
+            "tip": "Aici veți găsi de toate, de la modă de plajă la suveniruri."
+          },
+          {
+            "name": "Chioșc (Periptero)",
+            "tip": "Cumpărați băuturi, gustări și bilete de autobuz de la aceste mici magazine convenabile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops in Paralia",
+            "tip": "You'll find everything from beach fashion to souvenirs here."
+          },
+          {
+            "name": "Kiosk (Periptero)",
+            "tip": "Buy drinks, snacks, and bus tickets at these convenient little shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über die Busfahrpläne, insbesondere für die letzte Rückfahrt von Paralia.",
+          "Validieren Sie Ihr Ticket beim Einsteigen in den Bus.",
+          "Busse können in der Hochsaison voll sein, planen Sie also etwas mehr Zeit ein.",
+          "Fragen Sie die Einheimischen oder den Busfahrer, wenn Sie sich über eine Haltestelle unsicher sind."
+        ],
+        "hu": [
+          "Tájékozódjon a buszmenetrendekről, különösen az utolsó Paraliából visszainduló járatról.",
+          "Érvényesítse a jegyét a buszra szálláskor.",
+          "A buszok a főszezonban zsúfoltak lehetnek, ezért tervezzen egy kis plusz időt.",
+          "Kérdezze meg a helyieket vagy a buszsofőrt, ha bizonytalan egy megállóval kapcsolatban."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor, în special pentru ultima călătorie de întoarcere din Paralia.",
+          "Validați biletul la urcarea în autobuz.",
+          "Autobuzele pot fi aglomerate în timpul sezonului de vârf, așa că planificați-vă puțin timp suplimentar.",
+          "Întrebați localnicii sau șoferul de autobuz dacă nu sunteți sigur de o stație."
+        ],
+        "en": [
+          "Check the bus schedules, especially for the last return trip from Paralia.",
+          "Validate your ticket when you board the bus.",
+          "Buses can be crowded during peak season, so allow some extra time.",
+          "Ask locals or the bus driver if you are unsure about a stop."
+        ]
+      }
+    }
+  }
+}

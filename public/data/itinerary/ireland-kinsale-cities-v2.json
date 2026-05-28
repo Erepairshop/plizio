@@ -1,0 +1,1325 @@
+{
+  "city_id": "ireland-kinsale-cities-v2",
+  "anchor": {
+    "name": "Kinsale",
+    "coords": [
+      -8.52,
+      51.706
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Markthaus",
+            "hu": "Piac-ház (Városháza)",
+            "ro": "Casa Pieței",
+            "en": "Market House"
+          },
+          "coords": [
+            -8.5236,
+            51.7053
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "St. Multose Kirche",
+            "hu": "Szent Multose templom",
+            "ro": "Biserica Sf. Multose",
+            "en": "St. Multose Church"
+          },
+          "coords": [
+            -8.524,
+            51.706
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Desmond Castle",
+            "hu": "Desmond kastély",
+            "ro": "Castelul Desmond",
+            "en": "Desmond Castle"
+          },
+          "coords": [
+            -8.528,
+            51.705
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Hafen von Kinsale & Mittagessen",
+            "hu": "Kinsale kikötője és ebéd",
+            "ro": "Portul Kinsale și prânz",
+            "en": "Kinsale Harbour & Lunch"
+          },
+          "coords": [
+            -8.52,
+            51.704
+          ],
+          "category": "port",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8
+        },
+        {
+          "name": {
+            "de": "Scilly Walk",
+            "hu": "Scilly-sétány",
+            "ro": "Promenada Scilly",
+            "en": "Scilly Walk"
+          },
+          "coords": [
+            -8.513,
+            51.701
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2
+        },
+        {
+          "name": {
+            "de": "Charles Fort",
+            "hu": "Charles-erőd",
+            "ro": "Fortul Charles",
+            "en": "Charles Fort"
+          },
+          "coords": [
+            -8.5,
+            51.697
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:05",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "stay_min_total": 110
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Kinsale, wo mittelalterliche Kirchen und Weintürme Geschichten aus vergangenen Zeiten erzählen. Spüren Sie die Geschichte unter Ihren Füßen, während Sie durch die engen Gassen schlendern. Am Mittag lockt der Duft von frischen Meeresfrüchten aus den Restaurants am Hafen, wo farbenfrohe Boote sanft im Wasser schaukeln. Genießen Sie ein Mittagessen mit Blick auf das Meer. Der Nachmittag ist für einen malerischen Spaziergang entlang des Scilly Walk reserviert, der Sie zum majestätischen Charles Fort führt. Die Aussicht von den Festungsmauern ist atemberaubend. Beenden Sie den Tag, indem Sie den Sonnenuntergang über dem Hafen beobachten, ein perfekter Abschluss für einen Tag voller Entdeckungen in Irlands Gourmet-Hauptstadt.",
+        "hu": "Kezdje a napot Kinsale történelmi szívében, ahol középkori templomok és bástyák mesélnek a múltról. Érezze a történelmet a lába alatt, miközben a szűk utcákon sétál. Délben a friss tenger gyümölcseinek illata csalogat a kikötői éttermekből, ahol színes csónakok ringatóznak a vízen. Ebédeljen a tengerre néző kilátással. A délután a festői Scilly Walk sétányon vezet végig, amely a fenséges Charles-erődhöz visz. A kilátás a bástyákról lélegzetelállító. Zárja a napot a naplemente megcsodálásával a kikötő felett, ami tökéletes befejezése egy felfedezésekkel teli napnak Írország ínyenc fővárosában.",
+        "ro": "Începeți ziua în inima istorică a orașului Kinsale, unde bisericile medievale și turnurile de vinuri spun povești din vremuri trecute. Simțiți istoria sub picioare în timp ce vă plimbați pe străzile înguste. La prânz, parfumul fructelor de mare proaspete vă atrage de la restaurantele din port, unde bărcile colorate se leagănă ușor pe apă. Savurați un prânz cu vedere la mare. După-amiaza este rezervată unei plimbări pitorești de-a lungul Scilly Walk, care vă duce la maiestuosul Fort Charles. Priveliștile de pe metereze sunt uluitoare. Încheiați ziua urmărind apusul peste port, o concluzie perfectă pentru o zi de explorare în capitala gourmet a Irlandei.",
+        "en": "Start your day in the historic heart of Kinsale, where medieval churches and wine towers tell tales of times gone by. Feel the history beneath your feet as you wander the narrow streets. By midday, the scent of fresh seafood lures you from the harbourside restaurants, where colourful boats bob gently on the water. Enjoy a lunch with a view of the sea. The afternoon is reserved for a scenic stroll along the Scilly Walk, leading you to the majestic Charles Fort. The views from the battlements are breathtaking. End your day watching the sunset over the harbour, a perfect conclusion to a day of exploration in Ireland's gourmet capital."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fishy Fishy",
+            "tip": "Berühmt für seine frischen Meeresfrüchte, direkt am Wasser gelegen."
+          },
+          {
+            "name": "The Bulman Bar",
+            "tip": "Ein traditioneller Pub mit ausgezeichnetem Essen und Blick auf den Hafen."
+          },
+          {
+            "name": "Max's",
+            "tip": "Ein intimes Restaurant, das für seine exquisite irische Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fishy Fishy",
+            "tip": "Híres friss tengeri ételeiről, közvetlenül a vízparton található."
+          },
+          {
+            "name": "The Bulman Bar",
+            "tip": "Hagyományos pub kiváló ételekkel és kilátással a kikötőre."
+          },
+          {
+            "name": "Max's",
+            "tip": "Intim étterem, amely a kifinomult ír konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fishy Fishy",
+            "tip": "Renumit pentru fructele de mare proaspete, situat chiar pe malul apei."
+          },
+          {
+            "name": "The Bulman Bar",
+            "tip": "Un pub tradițional cu mâncare excelentă și vedere la port."
+          },
+          {
+            "name": "Max's",
+            "tip": "Un restaurant intim, cunoscut pentru bucătăria irlandeză rafinată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fishy Fishy",
+            "tip": "Famous for its fresh seafood, located right on the waterfront."
+          },
+          {
+            "name": "The Bulman Bar",
+            "tip": "A traditional pub with excellent food and views of the harbour."
+          },
+          {
+            "name": "Max's",
+            "tip": "An intimate restaurant known for its exquisite Irish cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Scilly Walk",
+            "tip": "Ein friedlicher Spaziergang am Wasser entlang mit herrlicher Aussicht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "James Fort",
+            "tip": "Weniger überlaufen als Charles Fort, bietet es eine ruhige Alternative mit toller Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Summercove",
+            "tip": "Ein malerisches Dorf in der Nähe von Charles Fort, perfekt für einen ruhigen Moment.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scilly-sétány",
+            "tip": "Békés séta a víz mentén, gyönyörű kilátással.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "James-erőd",
+            "tip": "Kevésbé zsúfolt, mint a Charles-erőd, csendes alternatívát kínál nagyszerű kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Summercove",
+            "tip": "Festői falu a Charles-erőd közelében, tökéletes egy csendes pillanatra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Scilly",
+            "tip": "O plimbare liniștită de-a lungul apei, cu priveliști superbe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Fortul James",
+            "tip": "Mai puțin aglomerat decât Fortul Charles, oferă o alternativă liniștită cu priveliști grozave.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Summercove",
+            "tip": "Un sat pitoresc lângă Fortul Charles, perfect pentru un moment de liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Scilly Walk",
+            "tip": "A peaceful walk along the water's edge with lovely views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "James Fort",
+            "tip": "Less crowded than Charles Fort, offering a quiet alternative with great views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Summercove",
+            "tip": "A picturesque village near Charles Fort, perfect for a quiet moment.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kinsale's Art Galleries",
+            "tip": "Entdecken Sie lokale Künstler in den vielen Galerien der Stadt."
+          },
+          {
+            "name": "The Giles Norman Gallery",
+            "tip": "Atemberaubende Schwarz-Weiß-Fotografien der irischen Landschaft."
+          },
+          {
+            "name": "Granny's Bottom Drawer",
+            "tip": "Ein schöner Laden für irisches Leinen, Strickwaren und Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kinsale művészeti galériái",
+            "tip": "Fedezze fel a helyi művészeket a város számos galériájában."
+          },
+          {
+            "name": "The Giles Norman Galéria",
+            "tip": "Lenyűgöző fekete-fehér fotók az ír tájról."
+          },
+          {
+            "name": "Granny's Bottom Drawer",
+            "tip": "Egy kedves üzlet ír vászon, kötöttáru és ajándékok számára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeriile de Artă din Kinsale",
+            "tip": "Descoperiți artiștii locali în numeroasele galerii ale orașului."
+          },
+          {
+            "name": "Galeria Giles Norman",
+            "tip": "Fotografii alb-negru uimitoare ale peisajului irlandez."
+          },
+          {
+            "name": "Granny's Bottom Drawer",
+            "tip": "Un magazin minunat pentru lenjerie irlandeză, tricotaje și cadouri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kinsale's Art Galleries",
+            "tip": "Discover local artists in the town's many galleries."
+          },
+          {
+            "name": "The Giles Norman Gallery",
+            "tip": "Stunning black and white photographs of the Irish landscape."
+          },
+          {
+            "name": "Granny's Bottom Drawer",
+            "tip": "A lovely shop for Irish linen, knitwear, and gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen von Kinsale hügelig und gepflastert sein können.",
+          "Buchen Sie Restaurants im Voraus, besonders an Wochenenden.",
+          "Der Scilly Walk kann bei Flut nass sein, überprüfen Sie die Gezeiten.",
+          "Vergessen Sie Ihre Kamera nicht, die farbenfrohen Straßen sind sehr fotogen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, Kinsale utcái dombosak és macskakövesek lehetnek.",
+          "Foglaljon asztalt előre az éttermekben, különösen hétvégén.",
+          "A Scilly-sétány dagálykor vizes lehet, ellenőrizze az árapályt.",
+          "Ne felejtse otthon a fényképezőgépét, a színes utcák nagyon fotogének."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, străzile din Kinsale pot fi deluroase și pavate.",
+          "Rezervați restaurantele în avans, mai ales în weekend.",
+          "Promenada Scilly poate fi umedă la flux, verificați mareele.",
+          "Nu uitați aparatul foto, străzile colorate sunt foarte fotogenice."
+        ],
+        "en": [
+          "Wear comfortable shoes as Kinsale's streets can be hilly and cobbled.",
+          "Book restaurants in advance, especially on weekends.",
+          "The Scilly Walk can be wet at high tide, check the tide times.",
+          "Don't forget your camera; the colourful streets are very photogenic."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 25.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start",
+            "hu": "Kerékpárkölcsönzés és indulás",
+            "ro": "Închiriere biciclete & Start",
+            "en": "Bike Rental & Start"
+          },
+          "coords": [
+            -8.525,
+            51.705
+          ],
+          "category": "shopping",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Charles Fort",
+            "hu": "Charles-erőd",
+            "ro": "Fortul Charles",
+            "en": "Charles Fort"
+          },
+          "coords": [
+            -8.5,
+            51.697
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Summercove",
+            "hu": "Ebéd Summercove-ban",
+            "ro": "Prânz în Summercove",
+            "en": "Lunch in Summercove"
+          },
+          "coords": [
+            -8.498,
+            51.699
+          ],
+          "category": "gastro",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name": {
+            "de": "Old Head of Kinsale",
+            "hu": "Old Head of Kinsale",
+            "ro": "Old Head of Kinsale",
+            "en": "Old Head of Kinsale"
+          },
+          "coords": [
+            -8.535,
+            51.616
+          ],
+          "category": "natural features",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 10.0
+        },
+        {
+          "name": {
+            "de": "James Fort",
+            "hu": "James-erőd",
+            "ro": "Fortul James",
+            "en": "James Fort"
+          },
+          "coords": [
+            -8.508,
+            51.694
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:56",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 10.0
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Kinsale",
+            "hu": "Visszatérés Kinsale-be",
+            "ro": "Întoarcere în Kinsale",
+            "en": "Return to Kinsale"
+          },
+          "coords": [
+            -8.523,
+            51.705
+          ],
+          "category": "port",
+          "arrive_at": "17:08",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "stay_min_total": 90
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihr Abenteuer in Kinsale mit einer Fahrt zum beeindruckenden Charles Fort, wo Geschichte und Meerblick aufeinandertreffen. Die Küstenbrise begleitet Sie auf Ihrem Weg. Gönnen Sie sich ein Mittagessen in einem charmanten Pub in Summercove, bevor Sie die Herausforderung annehmen und zum dramatischen Old Head of Kinsale radeln. Die Klippen und die wilde Landschaft sind die Anstrengung wert. Auf dem Rückweg erkunden Sie das ruhigere James Fort, das einen anderen Blickwinkel auf die Hafeneinfahrt bietet. Beenden Sie Ihre Radtour mit einem wohlverdienten Getränk in einem der lebhaften Pubs von Kinsale und lassen Sie die Eindrücke des Tages auf sich wirken.",
+        "hu": "Pattanjon nyeregbe, és kezdje kalandját Kinsale-ben egy tekeréssel a lenyűgöző Charles-erődhöz, ahol a történelem és a tengeri kilátás találkozik. A parti szellő elkíséri útján. Ebédeljen egy hangulatos pubban Summercove-ban, mielőtt vállalkozik a kihívásra, és elbiciklizik a drámai Old Head of Kinsale-hez. A sziklák és a vad táj megéri a fáradságot. Visszafelé fedezze fel a csendesebb James-erődöt, amely más szemszögből mutatja be a kikötő bejáratát. Zárja a kerékpártúrát egy jól megérdemelt itallal Kinsale egyik nyüzsgő pubjában, és élvezze a nap élményeit.",
+        "ro": "Urcați-vă în șa și începeți aventura în Kinsale cu o plimbare cu bicicleta până la impresionantul Fort Charles, unde istoria și priveliștile la mare se întâlnesc. Briza de coastă vă va însoți pe drum. Bucurați-vă de un prânz la un pub fermecător din Summercove înainte de a accepta provocarea de a pedala până la dramaticul Old Head of Kinsale. Stâncile și peisajul sălbatic merită efortul. Pe drumul de întoarcere, explorați mai liniștitul Fort James, care oferă o perspectivă diferită asupra intrării în port. Încheiați turul cu bicicleta cu o băutură binemeritată la unul dintre pub-urile pline de viață din Kinsale, reflectând la experiențele zilei.",
+        "en": "Hop on your bike and start your adventure in Kinsale with a ride to the impressive Charles Fort, where history and sea views collide. The coastal breeze will accompany you on your way. Enjoy lunch at a charming pub in Summercove before taking on the challenge of cycling to the dramatic Old Head of Kinsale. The cliffs and wild scenery are worth the effort. On your way back, explore the quieter James Fort, which offers a different perspective of the harbour entrance. End your bike tour with a well-deserved drink in one of Kinsale's lively pubs, reflecting on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Bulman Bar",
+            "tip": "Perfekter Zwischenstopp für ein Mittagessen in Summercove mit Meerblick."
+          },
+          {
+            "name": "The Spaniard Inn",
+            "tip": "Ein historischer Pub mit großartiger Atmosphäre, ideal für ein Getränk nach der Tour."
+          },
+          {
+            "name": "Poet's Corner",
+            "tip": "Ein gemütliches Café für Kaffee und Kuchen, um Energie zu tanken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Bulman Bar",
+            "tip": "Tökéletes megálló egy ebédre Summercove-ban, tengeri kilátással."
+          },
+          {
+            "name": "The Spaniard Inn",
+            "tip": "Történelmi pub nagyszerű hangulattal, ideális egy italra a túra után."
+          },
+          {
+            "name": "Poet's Corner",
+            "tip": "Hangulatos kávézó egy kávéra és süteményre, hogy feltöltődjön energiával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Bulman Bar",
+            "tip": "O oprire perfectă pentru prânz în Summercove, cu vedere la mare."
+          },
+          {
+            "name": "The Spaniard Inn",
+            "tip": "Un pub istoric cu o atmosferă grozavă, ideal pentru o băutură după tur."
+          },
+          {
+            "name": "Poet's Corner",
+            "tip": "O cafenea primitoare pentru o cafea și o prăjitură pentru a vă reîncărca."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Bulman Bar",
+            "tip": "A perfect stop for lunch in Summercove with sea views."
+          },
+          {
+            "name": "The Spaniard Inn",
+            "tip": "A historic pub with a great atmosphere, ideal for a post-tour drink."
+          },
+          {
+            "name": "Poet's Corner",
+            "tip": "A cozy café for coffee and cake to refuel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Old Head Signal Tower",
+            "tip": "Genießen Sie die Ruhe und die weite Aussicht vom Old Head.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dock Beach",
+            "tip": "Ein kleiner, geschützter Strand, ideal für eine kurze Pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Garretstown Beach",
+            "tip": "Ein größerer Strand etwas weiter entfernt, perfekt für einen langen Spaziergang am Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Old Head kilátótorony",
+            "tip": "Élvezze a csendet és a végtelen kilátást az Old Head-ről.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dock Beach",
+            "tip": "Kicsi, védett strand, ideális egy rövid szünetre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Garretstown Beach",
+            "tip": "Nagyobb strand egy kicsit távolabb, tökéletes egy hosszú tengerparti sétához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul de semnalizare Old Head",
+            "tip": "Bucurați-vă de liniște și de priveliștile vaste de la Old Head.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja Dock",
+            "tip": "O plajă mică și adăpostită, ideală pentru o scurtă pauză.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaja Garretstown",
+            "tip": "O plajă mai mare, puțin mai departe, perfectă pentru o plimbare lungă pe malul mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Head Signal Tower",
+            "tip": "Enjoy the tranquility and vast views from the Old Head.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dock Beach",
+            "tip": "A small, sheltered beach, ideal for a short break.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Garretstown Beach",
+            "tip": "A larger beach a bit further afield, perfect for a long seaside walk.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wild Atlantic Sports",
+            "tip": "Ausrüstung und Zubehör für Ihr nächstes Outdoor-Abenteuer."
+          },
+          {
+            "name": "Kinsale Farmers Market",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie hier lokale Produkte und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wild Atlantic Sports",
+            "tip": "Felszerelés és kiegészítők a következő szabadtéri kalandhoz."
+          },
+          {
+            "name": "Kinsale termelői piac",
+            "tip": "Ha piacnapon van itt, helyi termékeket és kézműves árukat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wild Atlantic Sports",
+            "tip": "Echipamente și accesorii pentru următoarea aventură în aer liber."
+          },
+          {
+            "name": "Piața fermierilor din Kinsale",
+            "tip": "Dacă sunteți aici într-o zi de piață, veți găsi produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wild Atlantic Sports",
+            "tip": "Gear and accessories for your next outdoor adventure."
+          },
+          {
+            "name": "Kinsale Farmers Market",
+            "tip": "If you're here on a market day, find local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zum Old Head kann schmal und hügelig sein, seien Sie vorsichtig.",
+          "Tragen Sie einen Helm und gut sichtbare Kleidung.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für die längeren Abschnitte.",
+          "Einige Abschnitte können bei starkem Wind eine Herausforderung sein."
+        ],
+        "hu": [
+          "Az Old Head-hez vezető út szűk és dombos lehet, legyen óvatos.",
+          "Viseljen sisakot és jól látható ruházatot.",
+          "Vigyen magával vizet és harapnivalót, különösen a hosszabb szakaszokra.",
+          "Néhány szakasz kihívást jelenthet erős szélben."
+        ],
+        "ro": [
+          "Drumul spre Old Head poate fi îngust și deluros, fiți precauți.",
+          "Purtați cască și haine vizibile.",
+          "Luați apă și gustări, mai ales pentru porțiunile mai lungi.",
+          "Unele porțiuni pot fi dificile în condiții de vânt puternic."
+        ],
+        "en": [
+          "The road to the Old Head can be narrow and hilly, be cautious.",
+          "Wear a helmet and high-visibility clothing.",
+          "Bring water and snacks, especially for the longer stretches.",
+          "Some sections can be challenging in strong winds."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 28.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken & Altstadt-Cluster",
+            "hu": "Parkolás és Óvárosi klaszter",
+            "ro": "Parcare și clusterul Orașul Vechi",
+            "en": "Parking & Old Town Cluster"
+          },
+          "coords": [
+            -8.526,
+            51.706
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "St. Multose Kirche",
+            "hu": "Szent Multose templom",
+            "ro": "Biserica Sf. Multose",
+            "en": "St. Multose Church"
+          },
+          "coords": [
+            -8.524,
+            51.706
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Desmond Castle",
+            "hu": "Desmond kastély",
+            "ro": "Castelul Desmond",
+            "en": "Desmond Castle"
+          },
+          "coords": [
+            -8.528,
+            51.705
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Charles Fort Cluster",
+            "hu": "Utazás a Charles-erőd klaszterhez",
+            "ro": "Călătorie spre clusterul Fort Charles",
+            "en": "Drive to Charles Fort Cluster"
+          },
+          "coords": [
+            -8.501,
+            51.698
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Summercove",
+            "hu": "Ebéd Summercove-ban",
+            "ro": "Prânz în Summercove",
+            "en": "Lunch in Summercove"
+          },
+          "coords": [
+            -8.498,
+            51.699
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Old Head of Kinsale",
+            "hu": "Utazás az Old Head of Kinsale-hez",
+            "ro": "Călătorie spre Old Head of Kinsale",
+            "en": "Drive to Old Head of Kinsale"
+          },
+          "coords": [
+            -8.535,
+            51.616
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0
+        },
+        {
+          "name": {
+            "de": "Fahrt zum James Fort",
+            "hu": "Utazás a James-erődhöz",
+            "ro": "Călătorie spre Fortul James",
+            "en": "Drive to James Fort"
+          },
+          "coords": [
+            -8.508,
+            51.694
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:05",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "stay_min_total": 90
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Zentrum von Kinsale parken und den historischen Kern zu Fuß erkunden. Spazieren Sie von der St. Multose Kirche zum Desmond Castle. Fahren Sie mittags zum Charles Fort, genießen Sie die Aussicht und ein Mittagessen im nahegelegenen Summercove. Der Nachmittag steht im Zeichen einer dramatischen Fahrt zum Old Head of Kinsale. Wandern Sie entlang der Klippen und spüren Sie die Kraft des Atlantiks. Zum Abschluss des Tages fahren Sie zum James Fort, um den Sonnenuntergang über dem Hafen zu erleben – eine perfekte Mischung aus Fahren und Erkunden.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját Kinsale központjában, és gyalog fedezi fel a történelmi magot. Sétáljon el a Szent Multose templomtól a Desmond kastélyig. Délben vezessen el a Charles-erődhöz, élvezze a kilátást és ebédeljen a közeli Summercove-ban. A délután a drámai Old Head of Kinsale-hez vezető autózásé. Sétáljon a sziklák mentén, és érezze az Atlanti-óceán erejét. A nap végén vezessen el a James-erődhöz, hogy megnézze a naplementét a kikötő felett – a vezetés és a felfedezés tökéletes keveréke.",
+        "ro": "Începeți ziua parcând mașina în centrul Kinsale și explorând nucleul istoric pe jos. Plimbați-vă de la Biserica Sf. Multose la Castelul Desmond. La prânz, conduceți spre Fortul Charles pentru priveliști și luați masa în apropiere, la Summercove. După-amiaza este dedicată unei plimbări dramatice cu mașina spre Old Head of Kinsale. Plimbați-vă de-a lungul stâncilor și simțiți puterea Atlanticului. Încheiați ziua conducând spre Fortul James pentru a privi apusul peste port, un amestec perfect de condus și explorare.",
+        "en": "Start your day by parking in central Kinsale and exploring the historic core on foot. Wander from St. Multose Church to Desmond Castle. At midday, drive to the Charles Fort cluster for commanding views and lunch in nearby Summercove. The afternoon is for a dramatic drive to the Old Head of Kinsale. Hike along the cliffs and feel the power of the Atlantic. End the day with a drive to James Fort to catch the sunset over the harbour, a perfect blend of driving and discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Man Friday",
+            "tip": "Eines der bekanntesten Restaurants in Kinsale, bekannt für Steaks und Meeresfrüchte."
+          },
+          {
+            "name": "The Black Pig",
+            "tip": "Eine trendige Weinbar mit Tapas-Stil Gerichten, ideal für den Abend."
+          },
+          {
+            "name": "Dino's Family Restaurant",
+            "tip": "Klassisches Fish and Chips, ein Muss in einer irischen Hafenstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Man Friday",
+            "tip": "Kinsale egyik legismertebb étterme, steakjeiről és tengeri ételeiről híres."
+          },
+          {
+            "name": "The Black Pig",
+            "tip": "Divatos borbár tapas-stílusú ételekkel, ideális estére."
+          },
+          {
+            "name": "Dino's Family Restaurant",
+            "tip": "Klasszikus fish and chips, kötelező egy ír kikötővárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Man Friday",
+            "tip": "Unul dintre cele mai renumite restaurante din Kinsale, cunoscut pentru fripturi și fructe de mare."
+          },
+          {
+            "name": "The Black Pig",
+            "tip": "Un wine bar la modă, cu preparate în stil tapas, ideal pentru seară."
+          },
+          {
+            "name": "Dino's Family Restaurant",
+            "tip": "Clasicul fish and chips, o necesitate într-un oraș portuar irlandez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Man Friday",
+            "tip": "One of Kinsale's most renowned restaurants, famous for steaks and seafood."
+          },
+          {
+            "name": "The Black Pig",
+            "tip": "A trendy wine bar with tapas-style dishes, ideal for the evening."
+          },
+          {
+            "name": "Dino's Family Restaurant",
+            "tip": "Classic fish and chips, a must-try in an Irish harbour town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ringfinnan Garden of Remembrance",
+            "tip": "Ein ruhiger, nachdenklicher Ort zum Gedenken an die Feuerwehrleute von 9/11.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sandycove Island",
+            "tip": "Beobachten Sie die Schwimmer, die die Insel umrunden, von einem ruhigen Ort am Ufer aus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt auf dem Compass Hill",
+            "tip": "Eine kurze Fahrt für eine fantastische Aussicht über die Stadt und den Hafen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ringfinnan Emlékkert",
+            "tip": "Csendes, elgondolkodtató hely a 9/11-es tűzoltók emlékére.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sandycove-sziget",
+            "tip": "Nézze a sziget körül úszókat egy csendes helyről a parton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátó a Compass Hill-en",
+            "tip": "Rövid autóút egy fantasztikus kilátásért a városra és a kikötőre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Comemorativă Ringfinnan",
+            "tip": "Un loc liniștit și contemplativ care comemorează pompierii de la 9/11.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Insula Sandycove",
+            "tip": "Urmăriți înotătorii care înconjoară insula dintr-un loc liniștit de pe mal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere Compass Hill",
+            "tip": "O scurtă călătorie cu mașina pentru o priveliște fantastică asupra orașului și portului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ringfinnan Garden of Remembrance",
+            "tip": "A quiet, contemplative spot commemorating the 9/11 firefighters.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sandycove Island",
+            "tip": "Watch the swimmers circle the island from a quiet spot on the shore.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Compass Hill Viewpoint",
+            "tip": "A short drive for a fantastic view over the town and harbour.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kinsale Crystal",
+            "tip": "Beobachten Sie Meister bei der Arbeit, wie sie wunderschönes Kristallglas von Hand schleifen."
+          },
+          {
+            "name": "Bookstór",
+            "tip": "Ein unabhängiger Buchladen mit einer großartigen Auswahl an irischer Literatur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kinsale Crystal",
+            "tip": "Nézze meg a mestereket munka közben, amint gyönyörű kristályüveget csiszolnak kézzel."
+          },
+          {
+            "name": "Bookstór",
+            "tip": "Független könyvesbolt, nagyszerű ír irodalmi választékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kinsale Crystal",
+            "tip": "Urmăriți maeștrii artizani la lucru, tăind manual cristal superb."
+          },
+          {
+            "name": "Bookstór",
+            "tip": "O librărie independentă cu o selecție excelentă de literatură irlandeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kinsale Crystal",
+            "tip": "Watch master craftsmen at work hand-cutting beautiful crystal."
+          },
+          {
+            "name": "Bookstór",
+            "tip": "An independent bookshop with a great selection of Irish literature."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum von Kinsale schwierig sein, besonders im Sommer. Nutzen Sie ausgewiesene Parkplätze.",
+          "Die Straßen zum Old Head sind eng und kurvenreich, fahren Sie vorsichtig.",
+          "Überprüfen Sie die Öffnungszeiten der Sehenswürdigkeiten, da diese saisonal variieren können.",
+          "Die Cluster-Walking-Philosophie funktioniert am besten – parken und erkunden."
+        ],
+        "hu": [
+          "A parkolás nehéz lehet Kinsale központjában, különösen nyáron. Használja a kijelölt parkolókat.",
+          "Az Old Head-hez vezető utak szűkek és kanyargósak, vezessen óvatosan.",
+          "Ellenőrizze a látnivalók nyitvatartási idejét, mivel az szezonálisan változhat.",
+          "A klaszter-séta filozófia működik a legjobban – parkoljon és fedezze fel."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în centrul orașului Kinsale, mai ales vara. Folosiți parcările desemnate.",
+          "Drumurile spre Old Head sunt înguste și sinuoase, conduceți cu prudență.",
+          "Verificați orele de deschidere ale atracțiilor, deoarece acestea pot varia sezonier.",
+          "Filozofia plimbării în clustere funcționează cel mai bine - parcați și explorați."
+        ],
+        "en": [
+          "Parking can be tricky in Kinsale town centre, especially in summer. Use designated car parks.",
+          "The roads to the Old Head are narrow and winding; drive with care.",
+          "Check opening times for attractions as they can be seasonal.",
+          "The cluster-walking philosophy works best - park and explore."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 8.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtzentrum-Cluster",
+            "hu": "Városközpont klaszter",
+            "ro": "Clusterul centrului orașului",
+            "en": "Town Centre Cluster"
+          },
+          "coords": [
+            -8.5236,
+            51.7053
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "St. Multose Kirche",
+            "hu": "Szent Multose templom",
+            "ro": "Biserica Sf. Multose",
+            "en": "St. Multose Church"
+          },
+          "coords": [
+            -8.524,
+            51.706
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Desmond Castle & Mittagessen",
+            "hu": "Desmond kastély és ebéd",
+            "ro": "Castelul Desmond și prânz",
+            "en": "Desmond Castle & Lunch"
+          },
+          "coords": [
+            -8.528,
+            51.705
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:55",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Bus zum Charles Fort Cluster",
+            "hu": "Busz a Charles-erőd klaszterhez",
+            "ro": "Autobuz spre clusterul Fort Charles",
+            "en": "Bus to Charles Fort Cluster"
+          },
+          "coords": [
+            -8.5,
+            51.697
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5
+        },
+        {
+          "name": {
+            "de": "Scilly Walk",
+            "hu": "Scilly-sétány",
+            "ro": "Promenada Scilly",
+            "en": "Scilly Walk"
+          },
+          "coords": [
+            -8.513,
+            51.701
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2
+        },
+        {
+          "name": {
+            "de": "Bus zurück ins Zentrum",
+            "hu": "Busz vissza a központba",
+            "ro": "Autobuz înapoi în centru",
+            "en": "Bus back to Centre"
+          },
+          "coords": [
+            -8.523,
+            51.705
+          ],
+          "category": "port",
+          "arrive_at": "16:20",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "stay_min_total": 105
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Erkundung im Zentrum von Kinsale, wo die Hauptattraktionen zu Fuß erreichbar sind. Nehmen Sie sich Zeit für die Geschichte und genießen Sie ein gemütliches Mittagessen. Am Nachmittag bringt Sie ein lokaler Bus in die Nähe von Charles Fort. Genießen Sie den Panoramablick und spazieren Sie anschließend einen Teil des malerischen Scilly Walk zurück in Richtung Stadt. Der Bus bringt Sie am Ende des Tages bequem zurück, was Ihnen eine entspannte Möglichkeit gibt, sowohl die Stadt als auch ihre beeindruckende Küstenfestung zu erleben.",
+        "hu": "Kezdje a felfedezést Kinsale központjában, ahol a főbb látnivalók gyalogosan elérhetők. Merüljön el a történelemben, majd ebédeljen egy kellemeset. Délután egy helyi busz elviszi Önt a Charles-erőd közelébe. Élvezze a panorámát, majd sétáljon vissza a festői Scilly Walk egy részén a város felé. A nap végén a busz kényelmesen visszaviszi, így nyugodtan megtapasztalhatja a várost és a lenyűgöző tengerparti erődöt is.",
+        "ro": "Începeți explorarea în centrul orașului Kinsale, unde principalele atracții sunt la distanță de mers pe jos. Pătrundeți în istorie și bucurați-vă de un prânz pe îndelete. După-amiaza, un autobuz local vă va duce în apropierea Fortului Charles. Bucurați-vă de priveliștile panoramice și apoi plimbați-vă pe o porțiune din pitoreasca promenadă Scilly Walk înapoi spre oraș. Autobuzul vă va aduce confortabil înapoi la sfârșitul zilei, oferindu-vă un mod relaxat de a experimenta atât orașul, cât și fortăreața sa de coastă impresionantă.",
+        "en": "Begin your exploration in central Kinsale where the main attractions are within easy walking distance. Soak up the history and enjoy a leisurely lunch. In the afternoon, a local bus will take you near Charles Fort. Enjoy the panoramic views, then stroll a portion of the scenic Scilly Walk back towards town. The bus will conveniently return you at the end of the day, giving you a relaxed way to experience both the town and its impressive coastal fortress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Lemon Leaf Cafe",
+            "tip": "Ein großartiger Ort für ein leichtes Mittagessen oder Kaffee und Kuchen im Stadtzentrum."
+          },
+          {
+            "name": "Mother Hubbards",
+            "tip": "Beliebt bei Einheimischen für herzhafte Frühstücke und Mittagessen."
+          },
+          {
+            "name": "The Silent Bishop",
+            "tip": "Ein gemütlicher Pub, um den Tag mit einem lokalen Bier ausklingen zu lassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Lemon Leaf Cafe",
+            "tip": "Nagyszerű hely egy könnyű ebédre vagy kávéra és süteményre a városközpontban."
+          },
+          {
+            "name": "Mother Hubbards",
+            "tip": "A helyiek körében népszerű kiadós reggelik és ebédek miatt."
+          },
+          {
+            "name": "The Silent Bishop",
+            "tip": "Hangulatos pub, ahol egy helyi sörrel zárhatja a napot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Lemon Leaf Cafe",
+            "tip": "Un loc minunat pentru un prânz ușor sau o cafea și o prăjitură în centrul orașului."
+          },
+          {
+            "name": "Mother Hubbards",
+            "tip": "Popular printre localnici pentru micul dejun și prânzurile copioase."
+          },
+          {
+            "name": "The Silent Bishop",
+            "tip": "Un pub primitor pentru a încheia ziua cu o bere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Lemon Leaf Cafe",
+            "tip": "A great spot for a light lunch or coffee and cake in the town centre."
+          },
+          {
+            "name": "Mother Hubbards",
+            "tip": "Popular with locals for hearty breakfasts and lunches."
+          },
+          {
+            "name": "The Silent Bishop",
+            "tip": "A cozy pub to end the day with a local beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kinsale Library",
+            "tip": "Ein ruhiger Ort, um eine Pause einzulegen und in einem Buch zu schmökern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "St. John the Baptist Church",
+            "tip": "Eine weniger besuchte, aber schöne Kirche für einen Moment der Besinnung.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Bank am Scilly Walk",
+            "tip": "Finden Sie eine Bank und beobachten Sie einfach die Boote im Hafen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kinsale Könyvtár",
+            "tip": "Csendes hely egy szünetre és egy könyv olvasására."
+          },
+          {
+            "name": "Keresztelő Szent János templom",
+            "tip": "Kevésbé látogatott, de szép templom egy pillanatnyi elmélkedéshez.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Pad a Scilly-sétányon",
+            "tip": "Keressen egy padot, és csak nézze a csónakokat a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca Kinsale",
+            "tip": "Un loc liniștit pentru a lua o pauză și a răsfoi o carte."
+          },
+          {
+            "name": "Biserica Sfântul Ioan Botezătorul",
+            "tip": "O biserică mai puțin vizitată, dar frumoasă, pentru un moment de reflecție."
+          },
+          {
+            "name": "O bancă pe Scilly Walk",
+            "tip": "Găsiți o bancă și priviți bărcile din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kinsale Library",
+            "tip": "A quiet spot to take a break and browse a book.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "St. John the Baptist Church",
+            "tip": "A less-visited but beautiful church for a moment of reflection.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Bench on the Scilly Walk",
+            "tip": "Find a bench and just watch the boats in the harbour.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kinsale Mead Co.",
+            "tip": "Probieren und kaufen Sie lokal hergestellten Met, ein einzigartiges irisches Getränk."
+          },
+          {
+            "name": "The Old Presbytery",
+            "tip": "Ein Geschäft voller einzigartiger Geschenke, Schmuck und Haushaltswaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kinsale Mead Co.",
+            "tip": "Kóstoljon és vásároljon helyben készített mézsört, egy egyedülálló ír italt."
+          },
+          {
+            "name": "The Old Presbytery",
+            "tip": "Egy üzlet tele egyedi ajándékokkal, ékszerekkel és lakberendezési tárgyakkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kinsale Mead Co.",
+            "tip": "Degustați și cumpărați mied produs local, o băutură irlandeză unică."
+          },
+          {
+            "name": "The Old Presbytery",
+            "tip": "Un magazin plin de cadouri unice, bijuterii și articole pentru casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kinsale Mead Co.",
+            "tip": "Taste and buy locally made mead, a unique Irish drink."
+          },
+          {
+            "name": "The Old Presbytery",
+            "tip": "A shop full of unique gifts, jewellery and homewares."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse möglicherweise nicht sehr häufig fahren.",
+          "Kaufen Sie eine Tageskarte, wenn diese für die von Ihnen geplanten Fahrten günstiger ist.",
+          "Die Bushaltestelle für Charles Fort befindet sich möglicherweise nicht direkt am Eingang, seien Sie also auf einen kurzen Spaziergang vorbereitet.",
+          "Laden Sie eine Offline-Karte herunter, um sich in den zu Fuß gehenden Clustern zurechtzufinden."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, mivel a buszok nem biztos, hogy túl gyakran járnak.",
+          "Vásároljon napijegyet, ha az olcsóbb a tervezett utazásokhoz.",
+          "A Charles-erőd buszmegállója nem biztos, hogy közvetlenül a bejáratnál van, így készüljön fel egy rövid sétára.",
+          "Töltsön le egy offline térképet a gyalogos klaszterekben való navigáláshoz."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, deoarece s-ar putea să nu circule foarte frecvent.",
+          "Cumpărați un bilet de o zi dacă este mai ieftin pentru călătoriile pe care le planificați.",
+          "Stația de autobuz pentru Fortul Charles s-ar putea să nu fie chiar la intrare, așa că fiți pregătiți pentru o scurtă plimbare.",
+          "Descărcați o hartă offline pentru a naviga în clusterele de mers pe jos."
+        ],
+        "en": [
+          "Check the bus schedule in advance as services may not be very frequent.",
+          "Buy a day pass if it's cheaper for the journeys you plan to take.",
+          "The bus stop for Charles Fort may not be right at the entrance, so be prepared for a short walk.",
+          "Download an offline map to help navigate within the walking clusters."
+        ]
+      }
+    }
+  }
+}

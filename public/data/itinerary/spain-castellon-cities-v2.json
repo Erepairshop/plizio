@@ -1,0 +1,990 @@
+{
+  "city_id": "spain-castellon-cities-v2",
+  "anchor": {
+    "name": "Castellón de la Plana",
+    "coords": [
+      -0.0377,
+      39.986
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Plaza Mayor",
+          "coords": [
+            -0.0377,
+            39.9859
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Startpunkt für die Altstadt.",
+            "hu": "Tökéletes kiindulópont az óváros felfedezéséhez.",
+            "ro": "Punctul perfect de plecare pentru a explora centrul vechi.",
+            "en": "The perfect starting point to explore the old town."
+          }
+        },
+        {
+          "name": "El Fadrí",
+          "coords": [
+            -0.0375,
+            39.9861
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Glockenturm für eine tolle Aussicht.",
+            "hu": "Másszon fel a harangtoronyba a nagyszerű kilátásért.",
+            "ro": "Urcați în turnul clopotniței pentru o priveliște excelentă.",
+            "en": "Climb the bell tower for a great view."
+          }
+        },
+        {
+          "name": "Konkathedrale Santa María",
+          "coords": [
+            -0.0372,
+            39.9863
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur.",
+            "hu": "Csodálja meg a gótikus építészetet.",
+            "ro": "Admirați arhitectura gotică impresionantă.",
+            "en": "Admire the impressive Gothic architecture."
+          }
+        },
+        {
+          "name": "Lonja del Cáñamo",
+          "coords": [
+            -0.0368,
+            39.9855
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Historische Hanfbörse mit barocker Fassade.",
+            "hu": "Történelmi kenderbörze barokk homlokzattal.",
+            "ro": "Fosta bursă de cânepă cu o fațadă barocă.",
+            "en": "Historical hemp exchange with a Baroque facade."
+          }
+        },
+        {
+          "name": "Museum der Schönen Künste",
+          "coords": [
+            -0.0401,
+            39.9892
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kostenfreier Eintritt zu regionaler Kunst.",
+            "hu": "Ingyenes belépés a regionális művészeti gyűjteménybe.",
+            "ro": "Intrare gratuită pentru a vedea arta regională.",
+            "en": "Free entry to view regional art collections."
+          }
+        },
+        {
+          "name": "Ribalta-Park",
+          "coords": [
+            -0.0461,
+            39.9865
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie unter alten Bäumen.",
+            "hu": "Pihenjen meg az öreg fák árnyékában.",
+            "ro": "Relaxați-vă la umbra copacilor seculari.",
+            "en": "Relax under the shade of ancient trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Altstadt an der Plaza Mayor, wo Geschichte auf modernes Leben trifft. Der Vormittag steht ganz im Zeichen der Architektur mit dem markanten El Fadrí und der Konkathedrale. Mittags schlendern Sie zur Lonja del Cáñamo und tauchen im Museum der Schönen Künste in die Kultur ein. Am späten Nachmittag bietet der idyllische Ribalta-Park die perfekte Kulisse zum Entspannen.",
+        "hu": "Kezdje a napot az óváros szívében, a Plaza Mayoron, ahol a történelem és a modern élet találkozik. A délelőttöt az építészetnek szenteljük az ikonikus El Fadrí és a társkatedrális felfedezésével. Délben sétáljon el a Lonja del Cáñamo épületéhez, majd merüljön el a kultúrában a Szépművészeti Múzeumban. A késő délutánt a festői Ribalta-parkban töltheti pihenéssel.",
+        "ro": "Începeți ziua în inima centrului vechi, în Plaza Mayor, unde istoria se împletește cu viața modernă. Dimineața este dedicată arhitecturii, explorând emblematicul El Fadrí și concatedrala. La prânz, plimbați-vă până la Lonja del Cáñamo și descoperiți arta la Muzeul de Arte Frumoase. După-amiaza târziu vă puteți relaxa în frumosul Parc Ribalta.",
+        "en": "Start your day in the heart of the old town at Plaza Mayor, where history meets modern life. The morning is dedicated to architecture, exploring the iconic El Fadrí and the Co-Cathedral. Midday, stroll to the Lonja del Cáñamo and immerse yourself in culture at the Museum of Fine Arts. Late afternoon offers the perfect setting to relax in the scenic Ribalta Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz a banda",
+            "tip": "Traditionelles Reisgericht, ideal für ein spätes Mittagessen."
+          },
+          {
+            "name": "Ximo de Castellón",
+            "tip": "Frittiertes, gefülltes Brötchen – ein herzhafter lokaler Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz a banda",
+            "tip": "Hagyományos rizses egytálétel, tökéletes késői ebédre."
+          },
+          {
+            "name": "Ximo de Castellón",
+            "tip": "Olajban sült, töltött zsemle – kiadós helyi nassolnivaló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz a banda",
+            "tip": "Un preparat tradițional din orez, ideal pentru un prânz târziu."
+          },
+          {
+            "name": "Ximo de Castellón",
+            "tip": "Chiflă umplută și prăjită – o gustare locală sățioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz a banda",
+            "tip": "Traditional rice dish, perfect for a late lunch."
+          },
+          {
+            "name": "Ximo de Castellón",
+            "tip": "Fried, stuffed bread roll – a hearty local snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Teich im Ribalta-Park",
+            "tip": "Ein ruhiger Ort, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tó a Ribalta-parkban",
+            "tip": "Csendes hely, ahol elmenekülhet a város zajától.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Iazul din Parcul Ribalta",
+            "tip": "Un loc liniștit pentru a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pond in Ribalta Park",
+            "tip": "A quiet spot to escape the hustle and bustle of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Central",
+            "tip": "Frische lokale Produkte und authentische Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Central",
+            "tip": "Friss helyi termékek és autentikus hangulat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Central",
+            "tip": "Produse locale proaspete și o atmosferă autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Central",
+            "tip": "Fresh local produce and an authentic atmosphere."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist sehr fußgängerfreundlich.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die meisten Museen sind montags geschlossen.",
+          "Mittagessen wird hier typischerweise erst ab 14 Uhr serviert."
+        ],
+        "hu": [
+          "Az óváros rendkívül gyalogosbarát.",
+          "Viseljen kényelmes cipőt a macskaköves utcákon.",
+          "A legtöbb múzeum hétfőnként zárva tart.",
+          "Az ebédet itt általában csak 14 óra után szolgálják fel."
+        ],
+        "ro": [
+          "Centrul vechi este foarte prietenos cu pietonii.",
+          "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+          "Majoritatea muzeelor sunt închise lunea.",
+          "Prânzul este servit de obicei abia după ora 14:00."
+        ],
+        "en": [
+          "The old town is very pedestrian-friendly.",
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Most museums are closed on Mondays.",
+          "Lunch is typically not served until 2:00 PM here."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Plaza Mayor",
+          "coords": [
+            -0.0377,
+            39.9859
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad hier für einen kurzen Altstadtrundgang.",
+            "hu": "Parkolja le a biciklit egy rövid óvárosi sétához.",
+            "ro": "Parcați bicicleta aici pentru o scurtă plimbare prin centru.",
+            "en": "Park your bike here for a short walk around the old town."
+          }
+        },
+        {
+          "name": "Basilika Mare de Déu de Lledó",
+          "coords": [
+            -0.0264,
+            39.9972
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Wunderschöne von Gärten umgebene Basilika.",
+            "hu": "Gyönyörű bazilika, amelyet kertek vesznek körül.",
+            "ro": "O bazilică frumoasă înconjurată de grădini.",
+            "en": "Beautiful basilica surrounded by gardens."
+          }
+        },
+        {
+          "name": "Museum der Schönen Künste",
+          "coords": [
+            -0.0401,
+            39.9892
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Moderne Architektur und interessante Ausstellungen.",
+            "hu": "Modern építészet és érdekes kiállítások.",
+            "ro": "Arhitectură modernă și expoziții interesante.",
+            "en": "Modern architecture and interesting exhibitions."
+          }
+        },
+        {
+          "name": "Ribalta-Park",
+          "coords": [
+            -0.0461,
+            39.9865
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ideal für eine kurze Pause im Grünen.",
+            "hu": "Ideális egy rövid pihenőre a zöldben.",
+            "ro": "Ideal pentru o scurtă pauză în natură.",
+            "en": "Ideal for a short break in the greenery."
+          }
+        },
+        {
+          "name": "Planetarium von Castellón",
+          "coords": [
+            0.0152,
+            39.9791
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 130,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrt zum Hafenviertel El Grao; besuchen Sie das Planetarium.",
+            "hu": "Tekerjen el az El Grao kikötőnegyedbe a planetáriumhoz.",
+            "ro": "Pedalați spre portul El Grao și vizitați planetariul.",
+            "en": "Ride to the El Grao port district to visit the planetarium."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Castellón dynamisch mit dem Fahrrad. Starten Sie an der Plaza Mayor und radeln Sie dann hinaus zur friedlichen Basilika Lledó. Zurück in der Stadt erwartet Sie das Museum der Schönen Künste, gefolgt von einer Erholungspause im Ribalta-Park. Am Nachmittag führt Sie eine längere Etappe hinab an die Küste ins Hafenviertel, wo das Planetarium als perfekter Abschluss wartet.",
+        "hu": "Fedezze fel Castellónt dinamikusan, kerékpárral. Induljon a Plaza Mayorról, majd tekerjen ki a békés Lledó bazilikához. Visszatérve a városba várja a Szépművészeti Múzeum, majd egy kis pihenés a Ribalta-parkban. Délután egy hosszabb szakasz vezet le a partra, a kikötőnegyedbe, ahol a planetárium nyújtja a tökéletes befejezést.",
+        "ro": "Explorați Castellón în mod dinamic, pe bicicletă. Porniți din Plaza Mayor și pedalați până la liniștita Bazilică Lledó. Întoarceți-vă în oraș pentru a vizita Muzeul de Arte Frumoase, urmat de o pauză în Parcul Ribalta. După-amiaza, o plimbare mai lungă vă duce pe coastă, în cartierul portului, unde planetariul oferă un final perfect.",
+        "en": "Explore Castellón dynamically by bike. Start at Plaza Mayor and cycle out to the peaceful Lledó Basilica. Back in the city, the Museum of Fine Arts awaits, followed by a rest in Ribalta Park. In the afternoon, a longer stretch takes you down to the coast to the port district, where the planetarium provides a perfect finish."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meeresfrüchte im Hafen",
+            "tip": "Probieren Sie frischen Fisch in einem der Restaurants am El Grao."
+          },
+          {
+            "name": "Bocadillo de calamares",
+            "tip": "Tintenfisch-Sandwich für den schnellen Hunger auf dem Rad."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei a kikötőben",
+            "tip": "Kóstolja meg a friss halat az El Grao egyik éttermében."
+          },
+          {
+            "name": "Bocadillo de calamares",
+            "tip": "Tintahalas szendvics gyors ebédnek biciklizés közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fructe de mare în port",
+            "tip": "Încercați pește proaspăt într-unul dintre restaurantele din El Grao."
+          },
+          {
+            "name": "Bocadillo de calamares",
+            "tip": "Sandviș cu calamar, perfect pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood at the port",
+            "tip": "Try fresh fish at one of the restaurants in El Grao."
+          },
+          {
+            "name": "Bocadillo de calamares",
+            "tip": "Squid sandwich for a quick bite on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Pinar",
+            "tip": "Ideal für einen entspannten Spaziergang nach dem Planetarium.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pinar strand",
+            "tip": "Ideális egy pihentető sétára a planetárium után.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Pinar",
+            "tip": "Ideală pentru o plimbare relaxantă după vizita la planetariu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pinar Beach",
+            "tip": "Ideal for a relaxing walk after visiting the planetarium.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt von El Grao",
+            "tip": "Lokale Produkte direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Grao piaca",
+            "tip": "Helyi termékek közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din El Grao",
+            "tip": "Produse locale chiar în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "El Grao Market",
+            "tip": "Local produce right at the port."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Castellón verfügt über ein sehr gutes Radwegenetz.",
+          "Achten Sie auf Fußgänger in den Parks.",
+          "Die Fahrt zum Hafen ist meist flach und angenehm.",
+          "Schließen Sie Ihr Fahrrad immer sicher an."
+        ],
+        "hu": [
+          "Castellón kiváló kerékpárút-hálózattal rendelkezik.",
+          "Vigyázzon a gyalogosokra a parkokban.",
+          "A kikötőbe vezető út nagyrészt sík és kellemes.",
+          "Mindig biztonságosan zárja le a kerékpárját."
+        ],
+        "ro": [
+          "Castellón are o rețea excelentă de piste pentru biciclete.",
+          "Atenție la pietoni în parcuri.",
+          "Drumul spre port este plat și plăcut.",
+          "Asigurați-vă întotdeauna bicicleta cu un lacăt solid."
+        ],
+        "en": [
+          "Castellón has an excellent network of bike paths.",
+          "Watch out for pedestrians in the parks.",
+          "The ride to the port is mostly flat and pleasant.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Plaza Mayor",
+          "coords": [
+            -0.0377,
+            39.9859
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und beginnen Sie Ihren Rundgang.",
+            "hu": "Parkoljon le a központban, és kezdje meg a sétát.",
+            "ro": "Parcați în centru și începeți turul pietonal.",
+            "en": "Park in the center and start your walking tour."
+          }
+        },
+        {
+          "name": "El Fadrí",
+          "coords": [
+            -0.0375,
+            39.9861
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt; nur wenige Schritte entfernt.",
+            "hu": "A város jelképe; csak néhány lépésre.",
+            "ro": "Simbolul orașului; la doar câțiva pași distanță.",
+            "en": "The city's landmark; just a few steps away."
+          }
+        },
+        {
+          "name": "Konkathedrale Santa María",
+          "coords": [
+            -0.0372,
+            39.9863
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich neben dem Turm; sehenswerter Innenraum.",
+            "hu": "Közvetlenül a torony mellett; érdemes megnézni a belső teret.",
+            "ro": "Chiar lângă turn; interiorul merită vizitat.",
+            "en": "Right next to the tower; the interior is worth seeing."
+          }
+        },
+        {
+          "name": "Museum der Schönen Künste",
+          "coords": [
+            -0.0401,
+            39.9892
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beeindruckendes Gebäude mit Keramik-Sammlung.",
+            "hu": "Lenyűgöző épület kerámiagyűjteménnyel.",
+            "ro": "Clădire impresionantă cu o colecție de ceramică.",
+            "en": "Impressive building with a ceramics collection."
+          }
+        },
+        {
+          "name": "Basilika Mare de Déu de Lledó",
+          "coords": [
+            -0.0264,
+            39.9972
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kurze Fahrt zur Basilika am Stadtrand.",
+            "hu": "Rövid autóút a város szélén található bazilikához.",
+            "ro": "O scurtă plimbare cu mașina până la bazilica de la periferie.",
+            "en": "A short drive to the basilica on the outskirts."
+          }
+        },
+        {
+          "name": "Planetarium von Castellón",
+          "coords": [
+            0.0152,
+            39.9791
+          ],
+          "category": "museums",
+          "arrive_at": "15:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag am Meer in El Grao.",
+            "hu": "Zárja a napot a tengerparton, El Grao negyedben.",
+            "ro": "Încheiați ziua pe litoral, în cartierul El Grao.",
+            "en": "End the day by the sea in the El Grao district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um verschiedene Stadtteile effizient zu verbinden. Der Vormittag ist als Fußweg im historischen Zentrum geplant: Sie parken einmal und erkunden Plaza Mayor, El Fadrí, die Konkathedrale und das Museum. Am Nachmittag fahren Sie zur etwas außerhalb gelegenen Basilika von Lledó und schließlich an die Küste nach El Grao, wo das Planetarium direkt am Meer wartet.",
+        "hu": "Használja autóját a különböző városrészek kényelmes összekötésére. A délelőtt egy gyalogos séta a történelmi központban: egyszer parkol le, majd felfedezi a Plaza Mayort, az El Fadrít, a katedrálist és a múzeumot. Délután autózzon el a külső kerületben lévő Lledó bazilikához, majd végül a tengerparti El Grao negyedbe, a planetáriumhoz.",
+        "ro": "Folosiți mașina pentru a conecta eficient diferitele zone ale orașului. Dimineața este planificată ca un tur pietonal în centrul istoric: parcați o dată și explorați Plaza Mayor, El Fadrí, concatedrala și muzeul. După-amiaza conduceți către bazilica Lledó de la periferie și, în cele din urmă, pe coastă, în El Grao, unde vă așteaptă planetariul.",
+        "en": "Use the car to efficiently connect different parts of the city. The morning is planned as a walking tour in the historical center: park once and explore Plaza Mayor, El Fadrí, the Co-Cathedral, and the museum. In the afternoon, drive to the Lledó Basilica on the outskirts, and finally to the coast in El Grao, where the planetarium awaits."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fideuà",
+            "tip": "Eine lokale Nudel-Paella, besonders gut am Hafen."
+          },
+          {
+            "name": "Coca de tomate",
+            "tip": "Herzhaftes Tomatengebäck aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fideuà",
+            "tip": "Helyi tésztás paella, különösen finom a kikötőben."
+          },
+          {
+            "name": "Coca de tomate",
+            "tip": "Sós paradicsomos péksütemény a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fideuà",
+            "tip": "O paella locală cu tăiței, foarte bună în port."
+          },
+          {
+            "name": "Coca de tomate",
+            "tip": "Produse de patiserie sărate cu roșii, specifice zonei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fideuà",
+            "tip": "A local noodle paella, especially good at the port."
+          },
+          {
+            "name": "Coca de tomate",
+            "tip": "Savory tomato pastry from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strandpromenade El Grao",
+            "tip": "Der perfekte Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Grao tengerparti sétány",
+            "tip": "Tökéletes hely a naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleza din El Grao",
+            "tip": "Locul perfect pentru apusul soarelui.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "El Grao Beach Promenade",
+            "tip": "The perfect place for the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Salera Einkaufszentrum",
+            "tip": "Großes Shoppingcenter mit Parkmöglichkeiten auf dem Weg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Salera bevásárlóközpont",
+            "tip": "Nagy pláza parkolási lehetőséggel az út mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Salera",
+            "tip": "Un mall mare, cu parcare, situat pe traseu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salera Shopping Center",
+            "tip": "Large mall with parking on the way."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Tiefgaragen im Zentrum, um lange Fußwege zu vermeiden.",
+          "In El Grao gibt es meist ausreichend kostenlose Parkplätze.",
+          "Achten Sie auf blaue Zonen (gebührenpflichtig) beim Parken auf der Straße.",
+          "Die Fahrt zur Küste dauert etwa 15 Minuten."
+        ],
+        "hu": [
+          "Használja a mélygarázsokat a központban, hogy elkerülje a hosszú gyaloglást.",
+          "El Grao negyedben általában van elég ingyenes parkolóhely.",
+          "Figyeljen a kék zónákra (fizetős) az utcai parkolásnál.",
+          "Az út a partra körülbelül 15 percet vesz igénybe."
+        ],
+        "ro": [
+          "Folosiți parcările subterane din centru pentru a evita mersul pe jos prelungit.",
+          "În El Grao există de obicei suficiente locuri de parcare gratuite.",
+          "Atenție la zonele albastre (cu plată) atunci când parcați pe stradă.",
+          "Călătoria spre coastă durează aproximativ 15 minute."
+        ],
+        "en": [
+          "Use underground parking in the center to avoid long walks.",
+          "There is usually plenty of free parking in El Grao.",
+          "Watch out for blue zones (paid) when parking on the street.",
+          "The drive to the coast takes about 15 minutes."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Ribalta-Park",
+          "coords": [
+            -0.0461,
+            39.9865
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Hauptbahnhof direkt in diesen wunderschönen Park.",
+            "hu": "A főpályaudvarról közvetlenül ebbe a gyönyörű parkba érkezik.",
+            "ro": "De la gara principală ajungeți direct în acest parc frumos.",
+            "en": "From the main train station right into this beautiful park."
+          }
+        },
+        {
+          "name": "Plaza Mayor",
+          "coords": [
+            -0.0377,
+            39.9859
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang ins Zentrum.",
+            "hu": "Rövid séta a központba.",
+            "ro": "O scurtă plimbare spre centru.",
+            "en": "Short walk to the center."
+          }
+        },
+        {
+          "name": "El Fadrí",
+          "coords": [
+            -0.0375,
+            39.9861
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben dem Platz.",
+            "hu": "Közvetlenül a tér mellett.",
+            "ro": "Chiar lângă piață.",
+            "en": "Right next to the square."
+          }
+        },
+        {
+          "name": "Museum der Schönen Künste",
+          "coords": [
+            -0.0401,
+            39.9892
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Turmbesuch ein wenig Kunst und Kultur.",
+            "hu": "A torony meglátogatása után egy kis művészet és kultúra.",
+            "ro": "După vizitarea turnului, puțină artă și cultură.",
+            "en": "After visiting the tower, a bit of art and culture."
+          }
+        },
+        {
+          "name": "Planetarium von Castellón",
+          "coords": [
+            0.0152,
+            39.9791
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 125,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Tram (TRAM) nach El Grao.",
+            "hu": "Szálljon fel a villamosra (TRAM) El Grao felé.",
+            "ro": "Luați tramvaiul (TRAM) spre El Grao.",
+            "en": "Take the tram (TRAM) to El Grao."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag ist in zwei große Cluster unterteilt. Sie beginnen am Bahnhof, spazieren entspannt durch den Ribalta-Park ins Zentrum und erkunden das historische Herz der Stadt rund um die Plaza Mayor und das Museum zu Fuß. Am frühen Nachmittag nutzen Sie dann die hochmoderne TRAM (Oberleitungsbus), die Sie schnell und bequem direkt in das maritime Viertel El Grao zum Planetarium bringt.",
+        "hu": "A nap két fő részre oszlik. A vasútállomáson kezd, nyugodtan átsétál a Ribalta-parkon a központba, és gyalog fedezi fel a Plaza Mayor környékét, valamint a múzeumot. Kora délután felszáll a modern TRAM (trolibusz) járatra, amely gyorsan és kényelmesen egyenesen a tengerparti El Grao negyedbe, a planetáriumhoz viszi.",
+        "ro": "Ziua este împărțită în două zone principale. Începeți la gară, vă plimbați prin Parcul Ribalta spre centru și explorați pietonal inima istorică a orașului din jurul Plaza Mayor și muzeul. La începutul după-amiezii folosiți sistemul modern TRAM (troleibuz), care vă duce rapid și confortabil direct în cartierul maritim El Grao, la planetariu.",
+        "en": "The day is divided into two main clusters. Start at the train station, take a relaxed walk through Ribalta Park to the center, and explore the historic heart around Plaza Mayor and the museum on foot. In the early afternoon, take the modern TRAM (trolleybus), which quickly and comfortably takes you straight to the maritime district of El Grao to the planetarium."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas in der Altstadt",
+            "tip": "Viele kleine Bars rund um die Plaza Santa Clara."
+          },
+          {
+            "name": "Churros",
+            "tip": "Ein süßer Snack in den Cafés der Innenstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas az óvárosban",
+            "tip": "Számos kis bár a Plaza Santa Clara körül."
+          },
+          {
+            "name": "Churros",
+            "tip": "Édes finomság a belvárosi kávézókban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas în centrul vechi",
+            "tip": "Multe baruri mici în jurul Plaza Santa Clara."
+          },
+          {
+            "name": "Churros",
+            "tip": "O gustare dulce în cafenelele din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas in the old town",
+            "tip": "Many small bars around Plaza Santa Clara."
+          },
+          {
+            "name": "Churros",
+            "tip": "A sweet snack in the downtown cafes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque del Pinar",
+            "tip": "Ein Pinienwald in Meeresnähe für einen entspannten Abschluss.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque del Pinar",
+            "tip": "Fenyőerdő a tenger közelében egy pihentető lezáráshoz.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque del Pinar",
+            "tip": "O pădure de pini lângă mare pentru un final relaxant.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque del Pinar",
+            "tip": "A pine forest near the sea for a relaxing finish.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Enmedio",
+            "tip": "Zentrale Einkaufsstraße mit zahlreichen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Enmedio",
+            "tip": "Központi bevásárlóutca számos butikkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Enmedio",
+            "tip": "Strada comercială centrală cu numeroase buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Enmedio",
+            "tip": "Central shopping street with numerous boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das TRAM-System ist ein Elektrobus und verbindet Zentrum mit Hafen.",
+          "Fahrkarten können direkt beim Fahrer gekauft werden.",
+          "Die Busse fahren sehr regelmäßig, etwa alle 15 Minuten.",
+          "Die Innenstadt lässt sich am besten zu Fuß erobern."
+        ],
+        "hu": [
+          "A TRAM rendszer valójában egy trolibusz, amely a központot köti össze a kikötővel.",
+          "Jegyeket közvetlenül a sofőrnél lehet vásárolni.",
+          "A buszok nagyon gyakran, körülbelül 15 percenként járnak.",
+          "A belvárost a legjobb gyalog felfedezni."
+        ],
+        "ro": [
+          "Sistemul TRAM este un troleibuz care conectează centrul de port.",
+          "Biletele pot fi cumpărate direct de la șofer.",
+          "Autobuzele circulă foarte regulat, cam la fiecare 15 minute.",
+          "Centrul orașului este cel mai bine de explorat pe jos."
+        ],
+        "en": [
+          "The TRAM system is actually an electric bus connecting the center and port.",
+          "Tickets can be purchased directly from the driver.",
+          "Buses run very regularly, about every 15 minutes.",
+          "The city center is best explored on foot."
+        ]
+      }
+    }
+  }
+}

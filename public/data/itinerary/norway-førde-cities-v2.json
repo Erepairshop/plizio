@@ -1,0 +1,1116 @@
+{
+  "city_id": "norway-førde-cities-v2",
+  "anchor": {
+    "name": "Førde",
+    "coords": [
+      5.85,
+      61.45
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Førde Stadtzentrum & Førdehuset",
+            "hu": "Førde városközpont és Førdehuset",
+            "ro": "Centrul orașului Førde & Førdehuset",
+            "en": "Førde Town Center & Førdehuset"
+          },
+          "coords": [
+            5.851,
+            61.452
+          ],
+          "category": "theatres",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm des Kulturzentrums, vielleicht gibt es eine interessante Ausstellung.",
+            "hu": "Nézze meg a kulturális központ programját, hátha van egy érdekes kiállítás.",
+            "ro": "Verificați programul centrului cultural, s-ar putea să fie o expoziție interesantă.",
+            "en": "Check the cultural center's program; there might be an interesting exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Førde kyrkje",
+            "hu": "Førde-templom",
+            "ro": "Biserica din Førde",
+            "en": "Førde Church"
+          },
+          "coords": [
+            5.855,
+            61.453
+          ],
+          "category": "churches",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die einzigartige moderne Architektur und die Buntglasfenster.",
+            "hu": "Figyelje meg az egyedi modern építészetet és a festett üvegablakokat.",
+            "ro": "Observați arhitectura modernă unică și vitraliile.",
+            "en": "Note the unique modern architecture and the stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Sogn og Fjordane Kunstmuseum",
+            "hu": "Sogn og Fjordane Művészeti Múzeum",
+            "ro": "Muzeul de Artă Sogn og Fjordane",
+            "en": "Sogn og Fjordane Art Museum"
+          },
+          "coords": [
+            5.848,
+            61.454
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Sammlung regionaler Kunst, um die lokale Kultur zu verstehen.",
+            "hu": "Koncentráljon a regionális művészeti gyűjteményre, hogy megértse a helyi kultúrát.",
+            "ro": "Concentrează-te pe colecția de artă regională pentru a înțelege cultura locală.",
+            "en": "Focus on the regional art collection to understand the local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Flusses Jølstra",
+            "hu": "Ebéd a Jølstra folyó közelében",
+            "ro": "Prânz lângă râul Jølstra",
+            "en": "Lunch near the river Jølstra"
+          },
+          "coords": [
+            5.847,
+            61.452
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie ein Café mit Blick auf den Fluss für eine entspannte Mahlzeit.",
+            "hu": "Válasszon egy folyóra néző kávézót egy pihentető ebédhez.",
+            "ro": "Alegeți o cafenea cu vedere la râu pentru o masă relaxantă.",
+            "en": "Pick a cafe with a river view for a relaxing meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunnfjord Museum",
+            "hu": "Sunnfjord Múzeum",
+            "ro": "Muzeul Sunnfjord",
+            "en": "Sunnfjord Museum"
+          },
+          "coords": [
+            5.83,
+            61.44
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Freilichtausstellung mit den historischen Gebäuden.",
+            "hu": "Szánjon időt a szabadtéri kiállításra a történelmi épületekkel.",
+            "ro": "Acordă-ți timp pentru expoziția în aer liber cu clădirile istorice.",
+            "en": "Take your time for the open-air exhibition with the historical buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Flussufer",
+            "hu": "Séta a folyóparton",
+            "ro": "Plimbare pe malul râului",
+            "en": "Riverside Stroll"
+          },
+          "coords": [
+            5.845,
+            61.45
+          ],
+          "category": "natural features",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag ausklingen zu lassen und die Landschaft zu genießen.",
+            "hu": "Tökéletes hely a nap lezárásához és a táj élvezetéhez.",
+            "ro": "Locul perfect pentru a încheia ziua și a te bucura de peisaj.",
+            "en": "The perfect spot to wind down the day and enjoy the scenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Førde beginnt mit einem kulturellen Eintauchen in das Førdehuset und die moderne Architektur der Kirche. Am Mittag erkunden Sie die Kunst der Region im Sogn og Fjordane Kunstmuseum. Der Nachmittag ist dem Freilichtmuseum Sunnfjord gewidmet, das einen Einblick in das ländliche Leben Norwegens bietet. Der Tag endet mit einem entspannenden Spaziergang entlang des Flusses Jølstra, der die Ruhe der norwegischen Natur widerspiegelt.",
+        "hu": "A nap Førdében kulturális elmélyüléssel kezdődik a Førdehusetben és a templom modern építészetének megcsodálásával. Délben a régió művészetét fedezi fel a Sogn og Fjordane Művészeti Múzeumban. A délután a Sunnfjord szabadtéri múzeumé, amely bepillantást enged a norvég vidéki életbe. A nap egy pihentető sétával zárul a Jølstra folyó mentén, amely a norvég természet nyugalmát tükrözi.",
+        "ro": "Ziua ta în Førde începe cu o imersiune culturală la Førdehuset și arhitectura modernă a bisericii. La prânz, explorezi arta regiunii la Muzeul de Artă Sogn og Fjordane. După-amiaza este dedicată Muzeului în aer liber Sunnfjord, care oferă o privire asupra vieții rurale norvegiene. Ziua se încheie cu o plimbare relaxantă de-a lungul râului Jølstra, reflectând liniștea naturii norvegiene.",
+        "en": "Your day in Førde begins with a cultural immersion at Førdehuset and the modern architecture of the church. At midday, you'll explore the region's art at the Sogn og Fjordane Art Museum. The afternoon is dedicated to the Sunnfjord open-air museum, offering a glimpse into Norwegian rural life. The day concludes with a relaxing stroll along the river Jølstra, reflecting the tranquility of Norwegian nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Raspeballer",
+            "tip": "Ein traditionelles norwegisches Kartoffelknödelgericht, oft mit gesalzenem Fleisch serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Raspeballer",
+            "tip": "Hagyományos norvég burgonyagombóc, gyakran sózott hússal tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Raspeballer",
+            "tip": "Un fel de mâncare tradițional norvegian din găluște de cartofi, adesea servit cu carne sărată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Raspeballer",
+            "tip": "A traditional Norwegian potato dumpling dish, often served with salted meat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Jølstra-Flusses",
+            "tip": "Finden Sie eine ruhige Bank am Fluss, um die Strömung zu beobachten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Jølstra folyó partja",
+            "tip": "Keressen egy csendes padot a folyó mellett, és nézze a vizet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Jølstra",
+            "tip": "Găsiți o bancă liniștită lângă râu pentru a privi curentul.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the river Jølstra",
+            "tip": "Find a quiet bench by the river to watch the current.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie in den örtlichen Geschäften nach Wollprodukten und Holzarbeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen gyapjútermékeket és fafaragásokat a helyi boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați produse din lână și sculpturi în lemn în magazinele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local handicrafts",
+            "tip": "Look for woolen products and wood carvings in the local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich.",
+          "Die meisten Orte akzeptieren Kreditkarten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Egy újrafelhasználható vizes palack hasznos.",
+          "A legtöbb helyen elfogadják a bankkártyát."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "O sticlă de apă reutilizabilă este utilă.",
+          "Majoritatea locurilor acceptă carduri de credit."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "A reusable water bottle is useful.",
+          "Most places accept credit cards."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sogn og Fjordane Kunstmuseum",
+            "hu": "Sogn og Fjordane Művészeti Múzeum",
+            "ro": "Muzeul de Artă Sogn og Fjordane",
+            "en": "Sogn og Fjordane Art Museum"
+          },
+          "coords": [
+            5.848,
+            61.454
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit Kunst, um sich inspirieren zu lassen.",
+            "hu": "Kezdje a napot művészettel, hogy inspirációt merítsen.",
+            "ro": "Începeți-vă ziua cu artă pentru a vă inspira.",
+            "en": "Start your day with art to get inspired."
+          }
+        },
+        {
+          "name": {
+            "de": "Førde kyrkje",
+            "hu": "Førde-templom",
+            "ro": "Biserica din Førde",
+            "en": "Førde Church"
+          },
+          "coords": [
+            5.855,
+            61.453
+          ],
+          "category": "churches",
+          "arrive_at": "10:36",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die moderne skandinavische Kirchenarchitektur zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja a modern skandináv templomépítészetet.",
+            "ro": "O oprire scurtă pentru a admira arhitectura modernă a bisericilor scandinave.",
+            "en": "A brief stop to admire modern Scandinavian church architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunnfjord Museum",
+            "hu": "Sunnfjord Múzeum",
+            "ro": "Muzeul Sunnfjord",
+            "en": "Sunnfjord Museum"
+          },
+          "coords": [
+            5.83,
+            61.44
+          ],
+          "category": "museums",
+          "arrive_at": "11:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie die historischen Gebäude.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel a történelmi épületeket.",
+            "ro": "Legați-vă bicicleta în siguranță și explorați clădirile istorice.",
+            "en": "Lock your bike securely and explore the historic buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause",
+            "hu": "Ebédszünet",
+            "ro": "Pauza de masa",
+            "en": "Lunch Break"
+          },
+          "coords": [
+            5.832,
+            61.442
+          ],
+          "category": "gastro",
+          "arrive_at": "13:01",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein Picknick auf dem Museumsgelände, wenn das Wetter es zulässt.",
+            "hu": "Piknikezzen a múzeum területén, ha az időjárás engedi.",
+            "ro": "Bucurați-vă de un picnic pe terenul muzeului dacă vremea permite.",
+            "en": "Enjoy a picnic on the museum grounds if the weather is good."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt in Richtung Angedalen",
+            "hu": "Kerékpározás Angedalen irányába",
+            "ro": "Plimbare cu bicicleta spre Angedalen",
+            "en": "Ride towards Angedalen"
+          },
+          "coords": [
+            5.9,
+            61.46
+          ],
+          "category": "natural features",
+          "arrive_at": "14:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die malerische Fahrt durch das Tal und atmen Sie die frische Luft.",
+            "hu": "Élvezze a festői utat a völgyön keresztül, és szívja be a friss levegőt.",
+            "ro": "Bucurați-vă de peisajul pitoresc prin vale și respirați aer curat.",
+            "en": "Enjoy the scenic ride through the valley and breathe in the fresh air."
+          }
+        },
+        {
+          "name": {
+            "de": "Huldefossen Wasserfall",
+            "hu": "Huldefossen-vízesés",
+            "ro": "Cascada Huldefossen",
+            "en": "Huldefossen Waterfall"
+          },
+          "coords": [
+            5.78,
+            61.41
+          ],
+          "category": "natural features",
+          "arrive_at": "16:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der beeindruckende Wasserfall ist ein Muss und ein großartiger Ort für Fotos.",
+            "hu": "A lenyűgöző vízesés kötelező látnivaló és remek fotóhelyszín.",
+            "ro": "Cascada impresionantă este o vizită obligatorie și un loc minunat pentru fotografii.",
+            "en": "The impressive waterfall is a must-see and a great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to Center"
+          },
+          "coords": [
+            5.85,
+            61.45
+          ],
+          "category": "other",
+          "arrive_at": "17:31",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem Kaffee oder Abendessen in einem der Restaurants im Zentrum.",
+            "hu": "Jutalmazza meg magát egy kávéval vagy vacsorával a központ egyik éttermében.",
+            "ro": "Recompensați-vă cu o cafea sau o cină la unul dintre restaurantele din centru.",
+            "en": "Reward yourself with a coffee or dinner at one of the central restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit Kultur im Kunstmuseum und der Kirche von Førde. Mittags tauchen Sie im Sunnfjord Museum in die Geschichte ein, bevor Sie eine malerische Fahrt ins Angedalen-Tal unternehmen. Der Höhepunkt des Nachmittags ist der mächtige Huldefossen-Wasserfall. Sie kehren ins Zentrum zurück, erfüllt von den Eindrücken der Kunst und der kraftvollen Natur der Region.",
+        "hu": "Kerékpártúrája kultúrával kezdődik a Førde-i művészeti múzeumban és a templomnál. Délben elmerül a történelemben a Sunnfjord Múzeumban, majd egy festői tekerés következik az Angedalen-völgybe. A délután csúcspontja a hatalmas Huldefossen-vízesés. A nap végén visszatér a központba, feltöltődve a régió művészetének és erőteljes természetének benyomásaival.",
+        "ro": "Turul tău cu bicicleta începe cu cultură la Muzeul de Artă și la biserica din Førde. La prânz, te scufunzi în istorie la Muzeul Sunnfjord, înainte de o plimbare pitorească spre valea Angedalen. Punctul culminant al după-amiezii este cascada puternică Huldefossen. Te întorci în centru plin de impresiile artei și naturii puternice a regiunii.",
+        "en": "Your bike tour starts with culture at Førde's art museum and church. At noon, you'll dive into history at the Sunnfjord Museum before a scenic ride into the Angedalen valley. The afternoon's highlight is the powerful Huldefossen waterfall. You return to the center filled with impressions of the region's art and powerful nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lachs",
+            "tip": "Probieren Sie frisch geräucherten oder gegrillten Lachs aus den örtlichen Gewässern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lazac",
+            "tip": "Kóstoljon frissen füstölt vagy grillezett lazacot a helyi vizekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Somon",
+            "tip": "Încercați somon proaspăt afumat sau la grătar din apele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salmon",
+            "tip": "Try freshly smoked or grilled salmon from the local waters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Angedalen-Tal",
+            "tip": "Halten Sie während Ihrer Radtour an einem ruhigen Ort an, um die Stille zu genießen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Angedalen-völgy",
+            "tip": "Álljon meg egy csendes helyen a kerékpártúra során, és élvezze a csendet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Angedalen",
+            "tip": "Opriți-vă într-un loc liniștit în timpul turului cu bicicleta pentru a vă bucura de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Angedalen Valley",
+            "tip": "Stop at a quiet spot during your bike ride to enjoy the silence.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Outdoor-Ausrüstung",
+            "tip": "Førde ist ein idealer Ort, um hochwertige norwegische Outdoor-Kleidung zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Túrafelszerelés",
+            "tip": "Førde ideális hely minőségi norvég túraruházat vásárlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Echipament outdoor",
+            "tip": "Førde este un loc ideal pentru a cumpăra îmbrăcăminte outdoor norvegiană de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Outdoor gear",
+            "tip": "Førde is an ideal place to buy high-quality Norwegian outdoor clothing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Nehmen Sie wasserdichte Kleidung mit, das Wetter kann sich schnell ändern.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Vigyen magával vízálló ruházatot, az időjárás gyorsan változhat.",
+          "Sisak viselése erősen ajánlott."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Luați haine impermeabile, vremea se poate schimba rapid.",
+          "O cască este foarte recomandată."
+        ],
+        "en": [
+          "Check your bike before setting off.",
+          "Bring waterproof clothing, the weather can change quickly.",
+          "A helmet is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 42.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Førde Zentrum",
+            "hu": "1. klaszter: Førde központ",
+            "ro": "Cluster 1: Centrul Førde",
+            "en": "Cluster 1: Førde Center"
+          },
+          "coords": [
+            5.85,
+            61.452
+          ],
+          "category": "other",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zentral und erkunden Sie die ersten Stationen zu Fuß.",
+            "hu": "Parkoljon a központban, és fedezze fel az első állomásokat gyalog.",
+            "ro": "Parcați în centru și explorați primele opriri pe jos.",
+            "en": "Park centrally and explore the first stops on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sogn og Fjordane Kunstmuseum",
+            "hu": "Sogn og Fjordane Művészeti Múzeum",
+            "ro": "Muzeul de Artă Sogn og Fjordane",
+            "en": "Sogn og Fjordane Art Museum"
+          },
+          "coords": [
+            5.848,
+            61.454
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum liegt nur einen kurzen Spaziergang vom Hauptparkplatz entfernt.",
+            "hu": "A múzeum csak egy rövid sétára van a fő parkolótól.",
+            "ro": "Muzeul este la o scurtă plimbare de parcarea principală.",
+            "en": "The museum is a short walk from the main parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Førde kyrkje",
+            "hu": "Førde-templom",
+            "ro": "Biserica din Førde",
+            "en": "Førde Church"
+          },
+          "coords": [
+            5.855,
+            61.453
+          ],
+          "category": "churches",
+          "arrive_at": "10:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das Stadtzentrum zur markanten Kirche.",
+            "hu": "Sétáljon át a városközponton a jellegzetes templomhoz.",
+            "ro": "Plimbați-vă prin centrul orașului până la biserica distinctivă.",
+            "en": "Stroll through the town center to the distinctive church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Huldefossen & Sunnfjord",
+            "hu": "2. klaszter: Huldefossen és Sunnfjord",
+            "ro": "Cluster 2: Huldefossen & Sunnfjord",
+            "en": "Cluster 2: Huldefossen & Sunnfjord"
+          },
+          "coords": [
+            5.78,
+            61.41
+          ],
+          "category": "natural features",
+          "arrive_at": "11:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt bringt Sie zu einem der beeindruckendsten Wasserfälle Norwegens.",
+            "hu": "Egy rövid autóút Norvégia egyik leglenyűgözőbb vízeséséhez visz.",
+            "ro": "O scurtă călătorie cu mașina vă duce la una dintre cele mai impresionante cascade din Norvegia.",
+            "en": "A short drive takes you to one of Norway's most impressive waterfalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunnfjord Museum",
+            "hu": "Sunnfjord Múzeum",
+            "ro": "Muzeul Sunnfjord",
+            "en": "Sunnfjord Museum"
+          },
+          "coords": [
+            5.83,
+            61.44
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Hier können Sie auch zu Mittag essen, bevor Sie die historischen Gebäude erkunden.",
+            "hu": "Itt ebédelhet is, mielőtt felfedezné a történelmi épületeket.",
+            "ro": "Puteți lua și prânzul aici înainte de a explora clădirile istorice.",
+            "en": "You can also have lunch here before exploring the historic buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Aussichtspunkt Hafstadfjellet/Piksvarden",
+            "hu": "3. klaszter: Hafstadfjellet/Piksvarden kilátó",
+            "ro": "Cluster 3: Punct de vedere Hafstadfjellet/Piksvarden",
+            "en": "Cluster 3: Hafstadfjellet/Piksvarden Viewpoint"
+          },
+          "coords": [
+            5.88,
+            61.43
+          ],
+          "category": "natural features",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 20.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächstgelegenen Parkplatz und machen Sie eine kurze Wanderung für eine atemberaubende Aussicht.",
+            "hu": "Hajtson a legközelebbi parkolóhoz, és tegyen egy rövid túrát a lélegzetelállító kilátásért.",
+            "ro": "Conduceți până la cea mai apropiată parcare și faceți o scurtă drumeție pentru o priveliște uluitoare.",
+            "en": "Drive to the nearest parking spot and take a short hike for a breathtaking view."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in Førde",
+            "hu": "Vacsora Førdében",
+            "ro": "Cină în Førde",
+            "en": "Dinner in Førde"
+          },
+          "coords": [
+            5.85,
+            61.45
+          ],
+          "category": "gastro",
+          "arrive_at": "17:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie ins Zentrum zurück, um den Tag bei einem gemütlichen Abendessen ausklingen zu lassen.",
+            "hu": "Térjen vissza a központba, hogy egy kellemes vacsorával zárja a napot.",
+            "ro": "Întoarceți-vă în centru pentru a încheia ziua cu o cină relaxantă.",
+            "en": "Return to the center to end the day with a leisurely dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Førde ist dem Stadtzentrum gewidmet, das Sie zu Fuß erkunden. Danach fahren Sie zum beeindruckenden Huldefossen-Wasserfall. Gegen Mittag erreichen Sie das Sunnfjord Museum, wo Sie in die Geschichte der Region eintauchen. Der Nachmittag führt Sie hoch hinaus zu einem Aussichtspunkt am Hafstadfjellet für Panoramablicke, bevor Sie für ein wohlverdientes Abendessen nach Førde zurückkehren.",
+        "hu": "A délelőtt Førde központjában telik, amelyet gyalogosan fedezhet fel. Ezután elautózik a lenyűgöző Huldefossen-vízeséshez. Dél körül érkezik a Sunnfjord Múzeumba, ahol elmerülhet a régió történelmében. A délután magasra visz, a Hafstadfjellet egyik kilátópontjához, ahonnan panorámás kilátás nyílik, mielőtt visszatérne Førdébe egy jól megérdemelt vacsorára.",
+        "ro": "Dimineața în Førde este dedicată centrului orașului, explorat pe jos. Apoi, conduceți spre impresionanta cascadă Huldefossen. Pe la prânz, ajungeți la Muzeul Sunnfjord pentru a vă cufunda în istoria regiunii. După-amiaza vă duce la înălțime, la un punct de belvedere de pe Hafstadfjellet pentru vederi panoramice, înainte de a reveni în Førde pentru o cină binemeritată.",
+        "en": "The morning in Førde is dedicated to the town center, explored on foot. Afterwards, you drive to the impressive Huldefossen waterfall. Around noon, you arrive at the Sunnfjord Museum to immerse yourself in the region's history. The afternoon takes you high up to a viewpoint on Hafstadfjellet for panoramic views, before returning to Førde for a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiskesuppe",
+            "tip": "Eine cremige Fischsuppe, perfekt nach einem Tag in der Natur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiskesuppe",
+            "tip": "Krémes halleves, tökéletes egy természetben töltött nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiskesuppe",
+            "tip": "O supă cremă de pește, perfectă după o zi în natură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiskesuppe",
+            "tip": "A creamy fish soup, perfect after a day outdoors."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafstadfjellet Aussicht",
+            "tip": "Die Stille auf dem Berg mit Blick auf das Tal ist unbezahlbar.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Hafstadfjelletről",
+            "tip": "A hegy csendje a völgyre néző kilátással megfizethetetlen.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de pe Hafstadfjellet",
+            "tip": "Liniștea de pe munte cu vedere la vale este neprețuită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hafstadfjellet View",
+            "tip": "The silence on the mountain overlooking the valley is priceless.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Suchen Sie nach lokalen Bauernhöfen, die Käse oder andere Produkte direkt verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "Keressen helyi farmokat, amelyek sajtot vagy más termékeket árulnak közvetlenül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă",
+            "tip": "Căutați ferme locale care vând brânză sau alte produse direct."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Look for local farms selling cheese or other products directly."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Planen Sie zusätzliche Zeit für Fotostopps ein.",
+          "Die Straßen in den Tälern können eng sein, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "Tervezzen plusz időt a fotómegállókra.",
+          "A völgyekben az utak szűkek lehetnek, vezessen óvatosan."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele în avans.",
+          "Planificați timp suplimentar pentru opriri foto.",
+          "Drumurile din văi pot fi înguste, conduceți cu atenție."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "Plan extra time for photo stops.",
+          "Roads in the valleys can be narrow, drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Førde Zentrum zu Fuß",
+            "hu": "1. klaszter: Førde központ gyalog",
+            "ro": "Cluster 1: Centrul Førde pe jos",
+            "en": "Cluster 1: Førde Center on Foot"
+          },
+          "coords": [
+            5.851,
+            61.452
+          ],
+          "category": "theatres",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Busbahnhof und erkunden Sie die Umgebung.",
+            "hu": "Kezdje a központi buszpályaudvarnál, és fedezze fel a környéket.",
+            "ro": "Începeți de la autogara centrală și explorați zona înconjurătoare.",
+            "en": "Start at the central bus station and explore the surrounding area."
+          }
+        },
+        {
+          "name": {
+            "de": "Sogn og Fjordane Kunstmuseum",
+            "hu": "Sogn og Fjordane Művészeti Múzeum",
+            "ro": "Muzeul de Artă Sogn og Fjordane",
+            "en": "Sogn og Fjordane Art Museum"
+          },
+          "coords": [
+            5.848,
+            61.454
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Førdehuset.",
+            "hu": "Rövid séta a Førdehuset-től.",
+            "ro": "O scurtă plimbare de la Førdehuset.",
+            "en": "A short walk from Førdehuset."
+          }
+        },
+        {
+          "name": {
+            "de": "Førde kyrkje",
+            "hu": "Førde-templom",
+            "ro": "Biserica din Førde",
+            "en": "Førde Church"
+          },
+          "coords": [
+            5.855,
+            61.453
+          ],
+          "category": "churches",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein weiteres leicht zu Fuß erreichbares Wahrzeichen im Zentrum.",
+            "hu": "Egy másik könnyen megközelíthető nevezetesség a központban.",
+            "ro": "Un alt punct de reper ușor accesibil pe jos în centru.",
+            "en": "Another easily walkable landmark in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Bus zum Sunnfjord Museum",
+            "hu": "2. klaszter: Busszal a Sunnfjord Múzeumhoz",
+            "ro": "Cluster 2: Autobuz către Muzeul Sunnfjord",
+            "en": "Cluster 2: Bus to Sunnfjord Museum"
+          },
+          "coords": [
+            5.83,
+            61.44
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Museum. Prüfen Sie den Fahrplan im Voraus.",
+            "hu": "Menjen helyi busszal a múzeumhoz. Előre ellenőrizze a menetrendet.",
+            "ro": "Luați un autobuz local spre muzeu. Verificați orarul în avans.",
+            "en": "Take a local bus to the museum. Check the schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen auf dem Museumsgelände",
+            "hu": "Ebéd a múzeum területén",
+            "ro": "Prânz la muzeu",
+            "en": "Lunch at the museum grounds"
+          },
+          "coords": [
+            5.831,
+            61.441
+          ],
+          "category": "gastro",
+          "arrive_at": "14:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museumscafé bietet oft lokale Spezialitäten an.",
+            "hu": "A múzeumi kávézó gyakran kínál helyi specialitásokat.",
+            "ro": "Cafeneaua muzeului oferă adesea specialități locale.",
+            "en": "The museum cafe often offers local specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Bus zum Huldefossen",
+            "hu": "3. klaszter: Busszal a Huldefossenhez",
+            "ro": "Cluster 3: Autobuz spre Huldefossen",
+            "en": "Cluster 3: Bus to Huldefossen"
+          },
+          "coords": [
+            5.78,
+            61.41
+          ],
+          "category": "natural features",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Einige Buslinien halten in der Nähe des Wasserfalls. Ein kurzer Spaziergang ist erforderlich.",
+            "hu": "Néhány buszjárat megáll a vízesés közelében. Egy rövid séta szükséges.",
+            "ro": "Unele linii de autobuz opresc lângă cascadă. Este necesară o scurtă plimbare.",
+            "en": "Some bus lines stop near the waterfall. A short walk is required."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Førde, wo Sie die kulturellen Sehenswürdigkeiten zu Fuß erkunden. Am Mittag nehmen Sie den Bus zum Sunnfjord Museum, um in die Vergangenheit einzutauchen. Der Nachmittag steht im Zeichen der Natur, mit einer Busfahrt und einem kurzen Spaziergang zum spektakulären Huldefossen-Wasserfall. Der Tag zeigt, wie gut sich in Førde Kultur und Natur mit öffentlichen Verkehrsmitteln verbinden lassen.",
+        "hu": "A nap Førde szívében kezdődik, ahol gyalogosan fedezi fel a kulturális látnivalókat. Délben busszal utazik a Sunnfjord Múzeumba, hogy elmerüljön a múltban. A délután a természet jegyében telik, egy buszúttal és egy rövid sétával a látványos Huldefossen-vízeséshez. A nap megmutatja, milyen jól összekapcsolható a kultúra és a természet Førdében a tömegközlekedéssel.",
+        "ro": "Ziua ta începe în inima orașului Førde, explorând atracțiile culturale pe jos. La prânz, iei autobuzul spre Muzeul Sunnfjord pentru o incursiune în trecut. După-amiaza este despre natură, cu o călătorie cu autobuzul și o scurtă plimbare până la spectaculoasa cascadă Huldefossen. Ziua demonstrează cât de bine se pot combina cultura și natura în Førde folosind transportul public.",
+        "en": "Your day starts in the heart of Førde, exploring the cultural sights on foot. At noon, you take the bus to the Sunnfjord Museum for a dive into the past. The afternoon is all about nature, with a bus trip and a short walk to the spectacular Huldefossen waterfall. The day demonstrates how well culture and nature can be combined in Førde using public transport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Skillingsbolle",
+            "tip": "Eine norwegische Zimtschnecke, perfekt für eine Kaffeepause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Skillingsbolle",
+            "tip": "Norvég fahéjas csiga, tökéletes egy kávészünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Skillingsbolle",
+            "tip": "O ruladă cu scorțișoară norvegiană, perfectă pentru o pauză de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Skillingsbolle",
+            "tip": "A Norwegian cinnamon bun, perfect for a coffee break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wanderweg zum Huldefossen",
+            "tip": "Der Weg zum Wasserfall ist oft ruhig und von Natur umgeben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Túraútvonal a Huldefossenhez",
+            "tip": "A vízeséshez vezető út gyakran csendes és természettel körülvett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă spre Huldefossen",
+            "tip": "Calea spre cascadă este adesea liniștită și înconjurată de natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hike to Huldefossen",
+            "tip": "The path to the waterfall is often quiet and surrounded by nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt-Spezialitäten",
+            "tip": "Kaufen Sie norwegische Schokolade und Snacks in einem lokalen Supermarkt als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarket különlegességek",
+            "tip": "Vásároljon norvég csokoládét és rágcsálnivalókat egy helyi szupermarketben szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specialități de supermarket",
+            "tip": "Cumpărați ciocolată norvegiană și gustări de la un supermarket local ca suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarket specialties",
+            "tip": "Buy Norwegian chocolate and snacks at a local supermarket for souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Laden Sie die lokale ÖPNV-App herunter.",
+          "Die Busse fahren auf dem Land möglicherweise nicht so häufig, planen Sie also voraus."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Töltse le a helyi tömegközlekedési alkalmazást.",
+          "A buszok vidéken ritkábban közlekedhetnek, ezért tervezzen előre."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Descărcați aplicația locală de transport public.",
+          "Autobuzele pot circula mai rar în zonele rurale, așa că planificați din timp."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan multiple trips.",
+          "Download the local public transport app.",
+          "Buses might be less frequent in rural areas, so plan ahead."
+        ]
+      }
+    }
+  }
+}

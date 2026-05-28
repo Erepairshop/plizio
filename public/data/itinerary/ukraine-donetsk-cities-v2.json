@@ -1,0 +1,1566 @@
+{
+  "city_id": "ukraine-donetsk-cities-v2",
+  "anchor": {
+    "name": "Donezk",
+    "coords": [
+      37.8028,
+      48.0159
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Artema-Straße",
+            "hu": "Artema utca",
+            "ro": "Strada Artema",
+            "en": "Artema Street"
+          },
+          "coords": [
+            37.8028,
+            48.0159
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag hier mit einem Kaffee und beobachten Sie das Stadtleben.",
+            "hu": "Indítsa a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, privind viața orașului.",
+            "en": "Start your day here with a coffee and watch the city life."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilige Verklärungskathedrale",
+            "hu": "Szent Színeváltozás-székesegyház",
+            "ro": "Catedrala Schimbarea la Față",
+            "en": "Holy Transfiguration Cathedral"
+          },
+          "coords": [
+            37.805,
+            48.017
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die goldenen Kuppeln und die reiche Innenausstattung.",
+            "hu": "Figyelje meg az arany kupolákat és a gazdag belső díszítést.",
+            "ro": "Fiți atenți la cupolele aurii și la decorațiunile interioare bogate.",
+            "en": "Pay attention to the golden domes and the rich interior decoration."
+          }
+        },
+        {
+          "name": {
+            "de": "Opern- und Balletttheater",
+            "hu": "Opera- és Balettszínház",
+            "ro": "Teatrul de Operă și Balet",
+            "en": "Opera and Ballet Theatre"
+          },
+          "coords": [
+            37.801,
+            48.02
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Auch wenn Sie keine Vorstellung besuchen, ist die Architektur des Gebäudes sehenswert.",
+            "hu": "Még ha nem is megy előadásra, az épület építészete megér egy pillantást.",
+            "ro": "Chiar dacă nu mergeți la un spectacol, arhitectura clădirii merită văzută.",
+            "en": "Even if you don't attend a performance, the building's architecture is worth seeing."
+          }
+        },
+        {
+          "name": {
+            "de": "Donezker Kunstmuseum",
+            "hu": "Donyecki Szépművészeti Múzeum",
+            "ro": "Muzeul de Artă din Donețk",
+            "en": "Donetsk Art Museum"
+          },
+          "coords": [
+            37.798,
+            48.021
+          ],
+          "category": "museums",
+          "arrive_at": "11:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Sammlung ukrainischer und russischer Kunst.",
+            "hu": "Fókuszáljon az ukrán és orosz művészeti gyűjteményre.",
+            "ro": "Concentrați-vă pe colecția de artă ucraineană și rusă.",
+            "en": "Focus on the collection of Ukrainian and Russian art."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der geschmiedeten Figuren",
+            "hu": "Kovácsolt Figurák Parkja",
+            "ro": "Parcul Figurilor Forjate",
+            "en": "Park of Forged Figures"
+          },
+          "coords": [
+            37.8,
+            48.022
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Einzigartige Fotomotive! Jede Skulptur ist ein von lokalen Schmieden geschaffenes Kunstwerk.",
+            "hu": "Egyedi fotótéma! Minden szobor helyi kovácsok műalkotása.",
+            "ro": "Oportunități foto unice! Fiecare sculptură este o operă de artă creată de fierari locali.",
+            "en": "Unique photo opportunities! Each sculpture is a work of art created by local blacksmiths."
+          }
+        },
+        {
+          "name": {
+            "de": "Scherbakow-Park",
+            "hu": "Scserbakov Park",
+            "ro": "Parcul Șcerbakov",
+            "en": "Shcherbakov Park"
+          },
+          "coords": [
+            37.808,
+            48.005
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:58",
+          "stay_min": 90,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Ideal für eine Pause am Nachmittag. Mieten Sie ein Boot auf dem See.",
+            "hu": "Ideális egy délutáni pihenőre. Béreljen csónakot a tavon.",
+            "ro": "Ideal pentru o pauză de după-amiază. Închiriați o barcă pe lac.",
+            "en": "Ideal for an afternoon break. Rent a boat on the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalmius-Uferpromenade",
+            "hu": "Kalmius folyóparti sétány",
+            "ro": "Promenada de pe malul râului Kalmius",
+            "en": "Kalmius River Embankment"
+          },
+          "coords": [
+            37.82,
+            48.015
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 37,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag ausklingen zu lassen und den Sonnenuntergang zu beobachten.",
+            "hu": "Tökéletes hely a nap lezárásához és a naplemente megcsodálásához.",
+            "ro": "Locul perfect pentru a încheia ziua și a privi apusul.",
+            "en": "The perfect place to end the day and watch the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Donezk beginnt auf der belebten Artema-Straße, dem Herz der Stadt. Am Vormittag erkunden Sie das geistliche und kulturelle Zentrum mit der prächtigen Verklärungskathedrale und dem klassischen Opernhaus. Der Mittag ist der Kunst gewidmet: Zuerst im Kunstmuseum, dann unter freiem Himmel im einzigartigen Park der geschmiedeten Figuren. Am Nachmittag entspannen Sie im weitläufigen Scherbakow-Park, bevor Sie den Abend mit einem ruhigen Spaziergang entlang der Kalmius-Uferpromenade ausklingen lassen.",
+        "hu": "Donyecki napja a nyüzsgő Artema utcán, a város szívében kezdődik. Délelőtt a spirituális és kulturális központot fedezi fel a pompás Színeváltozás-székesegyházzal és a klasszikus Operaházzal. A dél a művészeté: először a Szépművészeti Múzeumban, majd a szabad ég alatt az egyedülálló Kovácsolt Figurák Parkjában. Délután a tágas Scserbakov Parkban pihen, mielőtt az estét egy csendes sétával zárja a Kalmius folyóparti sétányon.",
+        "ro": "Ziua dumneavoastră în Donețk începe pe animata stradă Artema, inima orașului. Dimineața explorați centrul spiritual și cultural cu magnifica Catedrală a Schimbării la Față și clădirea clasică a Operei. Prânzul este dedicat artei: mai întâi la Muzeul de Artă, apoi în aer liber în unicul Parc al Figurilor Forjate. După-amiaza vă relaxați în vastul Parc Șcerbakov, înainte de a încheia seara cu o plimbare liniștită de-a lungul promenadei de pe malul râului Kalmius.",
+        "en": "Your day in Donetsk begins on the bustling Artema Street, the heart of the city. In the morning, you'll explore the spiritual and cultural center with the magnificent Transfiguration Cathedral and the classic Opera House. Noon is dedicated to art: first at the Art Museum, then outdoors in the unique Park of Forged Figures. In the afternoon, you relax in the expansive Shcherbakov Park before ending the evening with a quiet stroll along the Kalmius River Embankment."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Varenyky",
+            "tip": "Probieren Sie die traditionellen ukrainischen Teigtaschen mit Kartoffel- oder Kirschfüllung."
+          },
+          {
+            "name": "Borschtsch",
+            "tip": "Ein Muss in der Ukraine. Genießen Sie die rote Rüben-Suppe mit einem Klecks saurer Sahne."
+          },
+          {
+            "name": "Chicken Kyiv",
+            "tip": "Ein Klassiker: Hähnchenbrust gefüllt mit Kräuterbutter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Varenyiki",
+            "tip": "Kóstolja meg a hagyományos ukrán derelyét burgonyás vagy meggyes töltelékkel."
+          },
+          {
+            "name": "Borscs",
+            "tip": "Ukrajnában kötelező. Élvezze a céklalevest egy kanál tejföllel."
+          },
+          {
+            "name": "Kijevi csirkemell",
+            "tip": "Klasszikus: fűszervajjal töltött csirkemell."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Varenyky",
+            "tip": "Încercați colțunașii tradiționali ucraineni cu umplutură de cartofi sau vișine."
+          },
+          {
+            "name": "Borș",
+            "tip": "O necesitate în Ucraina. Savurați supa de sfeclă roșie cu o lingură de smântână."
+          },
+          {
+            "name": "Pui Kiev",
+            "tip": "Un clasic: piept de pui umplut cu unt aromatizat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Varenyky",
+            "tip": "Try the traditional Ukrainian dumplings with potato or cherry filling."
+          },
+          {
+            "name": "Borscht",
+            "tip": "A must-try in Ukraine. Enjoy the beetroot soup with a dollop of sour cream."
+          },
+          {
+            "name": "Chicken Kyiv",
+            "tip": "A classic: chicken breast filled with herb butter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Scherbakow-Park",
+            "tip": "Finden Sie eine ruhige Bank am See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kalmius-Uferpromenade",
+            "tip": "Perfekt für einen Abendspaziergang bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Botanischer Garten Donezk",
+            "tip": "Ein friedlicher Ort außerhalb des Zentrums, wenn Sie mehr Zeit haben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scserbakov Park",
+            "tip": "Keressen egy csendes padot a tó mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kalmius folyóparti sétány",
+            "tip": "Tökéletes egy esti sétához naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Donyecki Botanikus Kert",
+            "tip": "Békés hely a központon kívül, ha több ideje van.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Șcerbakov",
+            "tip": "Găsiți o bancă liniștită lângă lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Promenada Kalmius",
+            "tip": "Perfectă pentru o plimbare de seară la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Botanică din Donețk",
+            "tip": "Un loc pașnic în afara centrului, dacă aveți mai mult timp.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shcherbakov Park",
+            "tip": "Find a quiet bench by the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kalmius Embankment",
+            "tip": "Perfect for an evening stroll at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Donetsk Botanical Garden",
+            "tip": "A peaceful spot outside the center if you have more time.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Artema-Straße",
+            "tip": "Die Hauptader für Markengeschäfte und Boutiquen."
+          },
+          {
+            "name": "Krytyi Rynok (Markthalle)",
+            "tip": "Erleben Sie das lokale Flair und kaufen Sie frische Produkte oder Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Artema utca",
+            "tip": "A márkás üzletek és butikok fő ütőere."
+          },
+          {
+            "name": "Kritij Rinok (Fedett Piac)",
+            "tip": "Tapasztalja meg a helyi hangulatot, és vásároljon friss termékeket vagy ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Artema",
+            "tip": "Principala arteră pentru magazine de marcă și buticuri."
+          },
+          {
+            "name": "Krytyi Rynok (Piața Acoperită)",
+            "tip": "Experimentați atmosfera locală și cumpărați produse proaspete sau suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artema Street",
+            "tip": "The main artery for brand stores and boutiques."
+          },
+          {
+            "name": "Krytyi Rynok (Covered Market)",
+            "tip": "Experience the local flair and buy fresh produce or souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten zentralen Sehenswürdigkeiten sind leicht zu Fuß erreichbar.",
+          "Planen Sie für das Kunstmuseum genügend Zeit ein, es ist größer als es scheint.",
+          "Behalten Sie eine Karte oder eine Navigations-App bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog.",
+          "Szánjon elég időt a Szépművészeti Múzeumra, nagyobb, mint amilyennek látszik.",
+          "Tartson kéznél egy térképet vagy egy navigációs alkalmazást."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Majoritatea atracțiilor centrale sunt ușor accesibile pe jos.",
+          "Planificați suficient timp pentru Muzeul de Artă, este mai mare decât pare.",
+          "Aveți la îndemână o hartă sau o aplicație de navigație."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Most central sights are easily reachable on foot.",
+          "Allow plenty of time for the Art Museum; it's larger than it looks.",
+          "Keep a map or navigation app handy."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Artema-Straße",
+            "hu": "Artema utca",
+            "ro": "Strada Artema",
+            "en": "Artema Street"
+          },
+          "coords": [
+            37.8028,
+            48.0159
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour auf der Hauptstraße der Stadt.",
+            "hu": "Indítsa a kerékpártúrát a város főutcáján.",
+            "ro": "Începeți turul cu bicicleta pe strada principală a orașului.",
+            "en": "Start your bike tour on the city's main street."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der geschmiedeten Figuren",
+            "hu": "Kovácsolt Figurák Parkja",
+            "ro": "Parcul Figurilor Forjate",
+            "en": "Park of Forged Figures"
+          },
+          "coords": [
+            37.8,
+            48.022
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und spazieren Sie durch diese einzigartige Open-Air-Galerie.",
+            "hu": "Tegye le a biciklit, és sétáljon végig ezen az egyedülálló szabadtéri galérián.",
+            "ro": "Lăsați bicicleta și plimbați-vă prin această galerie unică în aer liber.",
+            "en": "Park your bike and stroll through this unique open-air gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Donbass Arena",
+            "hu": "Donbasz Aréna",
+            "ro": "Donbas Arena",
+            "en": "Donbass Arena"
+          },
+          "coords": [
+            37.81,
+            48.0215
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:46",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Stück moderner Architektur, umrunden Sie es mit dem Rad.",
+            "hu": "A modern építészet lenyűgöző darabja, kerülje meg kerékpárral.",
+            "ro": "O piesă impresionantă de arhitectură modernă, înconjurați-o cu bicicleta.",
+            "en": "An impressive piece of modern architecture, circle it by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalmius-Uferpromenade",
+            "hu": "Kalmius folyóparti sétány",
+            "ro": "Promenada de pe malul râului Kalmius",
+            "en": "Kalmius River Embankment"
+          },
+          "coords": [
+            37.82,
+            48.015
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannte Fahrt entlang des Flusses. Ideal für eine Mittagspause.",
+            "hu": "Élvezze a pihentető tekerést a folyó mentén. Ideális egy ebédszünethez.",
+            "ro": "Bucurați-vă de o plimbare relaxantă de-a lungul râului. Ideal pentru o pauză de prânz.",
+            "en": "Enjoy a relaxing ride along the river. Ideal for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilige Verklärungskathedrale",
+            "hu": "Szent Színeváltozás-székesegyház",
+            "ro": "Catedrala Schimbarea la Față",
+            "en": "Holy Transfiguration Cathedral"
+          },
+          "coords": [
+            37.805,
+            48.017
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:03",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und nehmen Sie sich Zeit, die spirituelle Atmosphäre zu spüren.",
+            "hu": "Zárja le a kerékpárt, és szánjon időt a spirituális légkör átérzésére.",
+            "ro": "Legați-vă bicicleta și acordați-vă timp pentru a simți atmosfera spirituală.",
+            "en": "Lock your bike and take time to feel the spiritual atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Scherbakow-Park",
+            "hu": "Scserbakov Park",
+            "ro": "Parcul Șcerbakov",
+            "en": "Shcherbakov Park"
+          },
+          "coords": [
+            37.808,
+            48.005
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:11",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der größte Park der Stadt. Perfekt für eine lange Pause und um die Natur zu genießen.",
+            "hu": "A város legnagyobb parkja. Tökéletes egy hosszú pihenőre és a természet élvezetére.",
+            "ro": "Cel mai mare parc din oraș. Perfect pentru o pauză lungă și pentru a vă bucura de natură.",
+            "en": "The largest park in the city. Perfect for a long break and enjoying nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Opern- und Balletttheater",
+            "hu": "Opera- és Balettszínház",
+            "ro": "Teatrul de Operă și Balet",
+            "en": "Opera and Ballet Theatre"
+          },
+          "coords": [
+            37.801,
+            48.02
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:41",
+          "stay_min": 42,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Blick auf das beleuchtete Theater bei Einbruch der Dämmerung.",
+            "hu": "Fejezze be a túrát a kivilágított színház látványával szürkületkor.",
+            "ro": "Încheiați turul cu o priveliște a teatrului iluminat la amurg.",
+            "en": "End your tour with a view of the illuminated theatre at dusk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Donezk startet auf der zentralen Artema-Straße. Am Vormittag radeln Sie zum Park der geschmiedeten Figuren und weiter zur modernen Donbass Arena. Zur Mittagszeit genießen Sie eine entspannte Fahrt entlang der Kalmius-Promenade. Am Nachmittag führt Sie Ihre Route zum geistlichen Herz der Stadt, der Verklärungskathedrale, gefolgt von einer ausgedehnten Erholungspause im weitläufigen Scherbakow-Park. Sie beenden den Tag mit einem kulturellen Höhepunkt am eleganten Opernhaus.",
+        "hu": "Donyecki kerékpártúrája a központi Artema utcán kezdődik. Délelőtt a Kovácsolt Figurák Parkjához, majd tovább a modern Donbasz Arénához teker. Délidőben egy pihentető utat élvezhet a Kalmius sétány mentén. Délután az útvonal a város spirituális szívéhez, a Színeváltozás-székesegyházhoz vezet, amit egy kiadós pihenő követ a tágas Scserbakov Parkban. A napot egy kulturális fényponttal zárja az elegáns Operaháznál.",
+        "ro": "Turul dumneavoastră cu bicicleta prin Donețk începe pe strada centrală Artema. Dimineața pedalați spre Parcul Figurilor Forjate și mai departe spre moderna Donbas Arena. La prânz, bucurați-vă de o plimbare relaxantă de-a lungul promenadei Kalmius. După-amiaza, traseul vă duce spre inima spirituală a orașului, Catedrala Schimbarea la Față, urmată de o pauză lungă de relaxare în vastul Parc Șcerbakov. Încheiați ziua cu un punct culminant cultural la eleganta Operă.",
+        "en": "Your bike tour through Donetsk starts on the central Artema Street. In the morning, you'll cycle to the Park of Forged Figures and on to the modern Donbass Arena. At noon, enjoy a relaxing ride along the Kalmius Embankment. In the afternoon, your route takes you to the spiritual heart of the city, the Transfiguration Cathedral, followed by an extended recreational break in the spacious Shcherbakov Park. You end the day with a cultural highlight at the elegant Opera House."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schaschlik",
+            "tip": "Gegrillte Fleischspieße, perfekt für ein schnelles Mittagessen im Park."
+          },
+          {
+            "name": "Okroschka",
+            "tip": "Eine erfrischende kalte Suppe, ideal an warmen Tagen."
+          },
+          {
+            "name": "Pampuschki",
+            "tip": "Knoblauchbrötchen, die oft zu Borschtsch serviert werden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saslik",
+            "tip": "Grillezett húsnyárs, tökéletes egy gyors ebédhez a parkban."
+          },
+          {
+            "name": "Okroska",
+            "tip": "Frissítő hideg leves, ideális meleg napokon."
+          },
+          {
+            "name": "Pampuski",
+            "tip": "Fokhagymás zsemle, amelyet gyakran szolgálnak fel borscshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șașlîk",
+            "tip": "Frigărui de carne la grătar, perfecte pentru un prânz rapid în parc."
+          },
+          {
+            "name": "Okroshka",
+            "tip": "O supă rece răcoritoare, ideală în zilele calde."
+          },
+          {
+            "name": "Pampushky",
+            "tip": "Chifle cu usturoi servite adesea cu borș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shashlik",
+            "tip": "Grilled meat skewers, perfect for a quick lunch in the park."
+          },
+          {
+            "name": "Okroshka",
+            "tip": "A refreshing cold soup, ideal on warm days."
+          },
+          {
+            "name": "Pampushky",
+            "tip": "Garlic bread rolls often served with borscht."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lenin-Komsomol-Park",
+            "tip": "Ein weiterer großer Park in der Nähe der Donbass Arena.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kalmius-Flussufer",
+            "tip": "Suchen Sie sich ein ruhiges Plätzchen abseits der Hauptpromenade.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rosengarten im Scherbakow-Park",
+            "tip": "Ein duftender und farbenfroher Ort der Ruhe.",
+            "emoji": "🌹"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lenin Komszomol Park",
+            "tip": "Egy másik nagy park a Donbasz Aréna közelében.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kalmius folyópart",
+            "tip": "Keressen egy csendes helyet a fő sétánytól távolabb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rózsakert a Scserbakov Parkban",
+            "tip": "Illatos és színes, békés hely.",
+            "emoji": "🌹"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Lenin Komsomol",
+            "tip": "Un alt parc mare lângă Donbas Arena.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul râului Kalmius",
+            "tip": "Găsiți un loc liniștit departe de promenada principală.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina de trandafiri din Parcul Șcerbakov",
+            "tip": "Un loc parfumat și colorat de liniște.",
+            "emoji": "🌹"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lenin Komsomol Park",
+            "tip": "Another large park near the Donbass Arena.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kalmius riverbank",
+            "tip": "Find a quiet spot away from the main promenade.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rose garden in Shcherbakov Park",
+            "tip": "A fragrant and colorful place of tranquility.",
+            "emoji": "🌹"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Donetsk City Einkaufszentrum",
+            "tip": "Ein großes Einkaufszentrum für alles, was Sie brauchen."
+          },
+          {
+            "name": "Lokale Kunsthandwerkerstände",
+            "tip": "Halten Sie in den Parks Ausschau nach Ständen, die handgemachte Souvenirs verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Donyeck City bevásárlóközpont",
+            "tip": "Nagy bevásárlóközpont mindenre, amire szüksége lehet."
+          },
+          {
+            "name": "Helyi kézműves standok",
+            "tip": "Keresse a parkokban a kézzel készített ajándéktárgyakat árusító standokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Donetsk City",
+            "tip": "Un centru comercial mare pentru tot ce aveți nevoie."
+          },
+          {
+            "name": "Standuri de artizanat local",
+            "tip": "Căutați în parcuri standuri care vând suveniruri lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Donetsk City Shopping Mall",
+            "tip": "A large shopping mall for everything you might need."
+          },
+          {
+            "name": "Local artisan stalls",
+            "tip": "Look out for stalls in the parks selling handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Donezk hat einige Hügel, seien Sie auf Steigungen vorbereitet.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad sicher abzustellen.",
+          "Eine Flasche Wasser ist bei einer Radtour unerlässlich."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt.",
+          "Donyeckben vannak dombok, készüljön fel az emelkedőkre.",
+          "Hozzon magával egy jó lakatot a kerékpár biztonságos lezárásához.",
+          "Egy üveg víz elengedhetetlen a kerékpártúrán."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Donețk are câteva dealuri, fiți pregătiți pentru urcușuri.",
+          "Luați un lacăt bun pentru a vă asigura bicicleta.",
+          "O sticlă de apă este esențială într-un tur cu bicicleta."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Donetsk has some hills, be prepared for inclines.",
+          "Bring a good lock to secure your bike.",
+          "A bottle of water is essential on a bike tour."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 11.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Opernhaus",
+            "hu": "Parkoló az Operaháznál",
+            "ro": "Parcare la Opera",
+            "en": "Parking at the Opera House"
+          },
+          "coords": [
+            37.8015,
+            48.0205
+          ],
+          "category": "parking",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Teil der Stadt zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a város első részét.",
+            "ro": "Parcați aici pentru a explora prima parte a orașului pe jos.",
+            "en": "Park here to explore the first part of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Opern- und Balletttheater",
+            "hu": "Opera- és Balettszínház",
+            "ro": "Teatrul de Operă și Balet",
+            "en": "Opera and Ballet Theatre"
+          },
+          "coords": [
+            37.801,
+            48.02
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassizistische Fassade.",
+            "hu": "Csodálja meg a klasszicista homlokzatot.",
+            "ro": "Admirați fațada neoclasică.",
+            "en": "Admire the neoclassical facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der geschmiedeten Figuren",
+            "hu": "Kovácsolt Figurák Parkja",
+            "ro": "Parcul Figurilor Forjate",
+            "en": "Park of Forged Figures"
+          },
+          "coords": [
+            37.8,
+            48.022
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:33",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Jede Figur erzählt eine andere Geschichte.",
+            "hu": "Minden figura más történetet mesél el.",
+            "ro": "Fiecare figură spune o altă poveste.",
+            "en": "Each figure tells a different story."
+          }
+        },
+        {
+          "name": {
+            "de": "Artema-Straße",
+            "hu": "Artema utca",
+            "ro": "Strada Artema",
+            "en": "Artema Street"
+          },
+          "coords": [
+            37.8028,
+            48.0159
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:31",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zeit für einen ausgedehnten Spaziergang und eine Mittagspause.",
+            "hu": "Ideje egy hosszabb sétának és egy ebédszünetnek.",
+            "ro": "Timp pentru o plimbare extinsă și o pauză de prânz.",
+            "en": "Time for an extended stroll and a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilige Verklärungskathedrale",
+            "hu": "Szent Színeváltozás-székesegyház",
+            "ro": "Catedrala Schimbarea la Față",
+            "en": "Holy Transfiguration Cathedral"
+          },
+          "coords": [
+            37.805,
+            48.017
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe im geschäftigen Stadtzentrum.",
+            "hu": "A nyugalom szigete a nyüzsgő városközpontban.",
+            "ro": "Un loc de liniște în centrul aglomerat al orașului.",
+            "en": "A place of tranquility in the busy city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Donbass Arena",
+            "hu": "Utazás a Donbasz Arénához",
+            "ro": "Călătorie spre Donbas Arena",
+            "en": "Drive to Donbass Arena"
+          },
+          "coords": [
+            37.81,
+            48.0215
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 4.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und erkunden Sie das Stadiongelände.",
+            "hu": "Parkoljon a közelben, és fedezze fel a stadion területét.",
+            "ro": "Parcați în apropiere și explorați zona stadionului.",
+            "en": "Park nearby and explore the stadium grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Scherbakow-Park",
+            "hu": "Utazás a Scserbakov Parkba",
+            "ro": "Călătorie spre Parcul Șcerbakov",
+            "en": "Drive to Shcherbakov Park"
+          },
+          "coords": [
+            37.808,
+            48.005
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:27",
+          "stay_min": 120,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Rest des Nachmittags in dieser grünen Oase.",
+            "hu": "Töltse a délután hátralévő részét ebben a zöld oázisban.",
+            "ro": "Petreceți restul după-amiezii în această oază de verdeață.",
+            "en": "Spend the rest of the afternoon in this green oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Kalmius-Ufer",
+            "hu": "Vacsora a Kalmius-parton",
+            "ro": "Cină pe malul râului Kalmius",
+            "en": "Dinner at the Kalmius Embankment"
+          },
+          "coords": [
+            37.82,
+            48.015
+          ],
+          "category": "gastro",
+          "arrive_at": "16:27",
+          "stay_min": 81,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Einige Restaurants hier bieten einen schönen Blick auf den Fluss.",
+            "hu": "Néhány itteni étterem szép kilátást nyújt a folyóra.",
+            "ro": "Unele restaurante de aici oferă o priveliște frumoasă asupra râului.",
+            "en": "Some restaurants here offer a beautiful view of the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit dem Auto im Kulturcluster von Donezk. Sie parken am Opernhaus und erkunden zu Fuß das Theater, den Park der geschmiedeten Figuren und die belebte Artema-Straße, wo Sie zu Mittag essen. Die nahegelegene Kathedrale rundet den Vormittag ab. Am Nachmittag fahren Sie zum ersten Mal und besuchen die beeindruckende Donbass Arena. Eine zweite kurze Fahrt bringt Sie zum weitläufigen Scherbakow-Park, wo Sie sich entspannen und den Tag bei einem Abendessen in der Nähe des Kalmius-Flusses ausklingen lassen.",
+        "hu": "Napja autóval kezdődik Donyeck kulturális negyedében. Az Operaháznál parkol, és gyalog fedezi fel a színházat, a Kovácsolt Figurák Parkját és a nyüzsgő Artema utcát, ahol megebédel. A közeli székesegyház teszi teljessé a délelőttöt. Délután először a lenyűgöző Donbasz Arénához hajt. Egy második rövid út a tágas Scserbakov Parkba viszi, ahol pihenhet, és a napot egy vacsorával zárhatja a Kalmius folyó közelében.",
+        "ro": "Ziua dvs. începe cu mașina în grupul cultural din Donețk. Parcați la Operă și explorați pe jos teatrul, Parcul Figurilor Forjate și animata stradă Artema, unde luați prânzul. Catedrala din apropiere completează dimineața. După-amiaza, conduceți pentru prima dată pentru a vizita impresionanta Donbas Arena. O a doua călătorie scurtă vă duce la vastul Parc Șcerbakov, unde vă relaxați și încheiați ziua cu o cină lângă râul Kalmius.",
+        "en": "Your day begins by car in the cultural cluster of Donetsk. You park at the Opera House and explore the theatre, the Park of Forged Figures, and the bustling Artema Street on foot, where you'll have lunch. The nearby cathedral completes the morning. In the afternoon, you'll take your first drive to visit the impressive Donbass Arena. A second short drive takes you to the expansive Shcherbakov Park, where you can relax and end the day with dinner near the Kalmius River."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Deruny",
+            "tip": "Ukrainische Kartoffelpuffer, oft mit saurer Sahne serviert."
+          },
+          {
+            "name": "Kwas",
+            "tip": "Ein traditionelles, leicht fermentiertes Getränk aus Brot."
+          },
+          {
+            "name": "Restaurant 'Pushkin'",
+            "tip": "Ein bekanntes Restaurant für ein gehobenes ukrainisches Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Deruni",
+            "tip": "Ukrán krumplilángos, gyakran tejföllel tálalva."
+          },
+          {
+            "name": "Kvasz",
+            "tip": "Hagyományos, enyhén erjesztett kenyérből készült ital."
+          },
+          {
+            "name": "Puskin étterem",
+            "tip": "Ismert étterem egy elegáns ukrán vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Deruny",
+            "tip": "Clătite ucrainene din cartofi, adesea servite cu smântână."
+          },
+          {
+            "name": "Cvas",
+            "tip": "O băutură tradițională, ușor fermentată, făcută din pâine."
+          },
+          {
+            "name": "Restaurantul 'Pushkin'",
+            "tip": "Un restaurant renumit pentru o cină ucraineană rafinată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Deruny",
+            "tip": "Ukrainian potato pancakes, often served with sour cream."
+          },
+          {
+            "name": "Kvass",
+            "tip": "A traditional, lightly fermented beverage made from bread."
+          },
+          {
+            "name": "Restaurant 'Pushkin'",
+            "tip": "A well-known restaurant for an upscale Ukrainian dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des ersten Stadtteichs",
+            "tip": "Ein ruhiger Bereich im Scherbakow-Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park am Kulturpalast Metallurg",
+            "tip": "Ein kleinerer, oft übersehener Park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Frühmorgens an der Kathedrale",
+            "tip": "Erleben Sie die Stille, bevor die Stadt erwacht.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az első városi tó partja",
+            "tip": "Csendes terület a Scserbakov Parkban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park a Metallurg Kultúrpalotánál",
+            "tip": "Kisebb, gyakran figyelmen kívül hagyott park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggel a székesegyháznál",
+            "tip": "Tapasztalja meg a csendet, mielőtt a város felébred.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul primului lac al orașului",
+            "tip": "O zonă liniștită în Parcul Șcerbakov.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de lângă Palatul Culturii Metalurg",
+            "tip": "Un parc mai mic, adesea trecut cu vederea.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dis-de-dimineață la catedrală",
+            "tip": "Experimentați liniștea înainte ca orașul să se trezească.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the First City Pond",
+            "tip": "A quiet area within Shcherbakov Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park at the Metallurg Palace of Culture",
+            "tip": "A smaller, often overlooked park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Early morning at the Cathedral",
+            "tip": "Experience the silence before the city awakens.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boulevard Pushkina",
+            "tip": "Eine weitere elegante Straße mit Geschäften und Cafés."
+          },
+          {
+            "name": "Souvenirladen im Kunstmuseum",
+            "tip": "Finden Sie Kunstdrucke und handwerkliche Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Puskin körút",
+            "tip": "Egy másik elegáns utca üzletekkel és kávézókkal."
+          },
+          {
+            "name": "Ajándékbolt a Művészeti Múzeumban",
+            "tip": "Keressen művészeti nyomatokat és kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulevardul Pushkina",
+            "tip": "O altă stradă elegantă cu magazine și cafenele."
+          },
+          {
+            "name": "Magazin de suveniruri la Muzeul de Artă",
+            "tip": "Găsiți reproduceri de artă și produse artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pushkina Boulevard",
+            "tip": "Another elegant street with shops and cafes."
+          },
+          {
+            "name": "Souvenir shop at the Art Museum",
+            "tip": "Find art prints and artisan products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-Apps, um freie Plätze zu finden.",
+          "Der Verkehr kann zur Stoßzeit stark sein, planen Sie entsprechend.",
+          "Das Auto ermöglicht es Ihnen, auch Sehenswürdigkeiten etwas außerhalb zu erreichen.",
+          "Überprüfen Sie die Parkregeln sorgfältig, um Strafzettel zu vermeiden."
+        ],
+        "hu": [
+          "Használjon parkolóalkalmazásokat szabad helyek kereséséhez.",
+          "A forgalom csúcsidőben erős lehet, tervezzen ennek megfelelően.",
+          "Az autó lehetővé teszi, hogy kissé távolabbi látnivalókat is elérjen.",
+          "Gondosan ellenőrizze a parkolási szabályokat a büntetések elkerülése érdekében."
+        ],
+        "ro": [
+          "Folosiți aplicații de parcare pentru a găsi locuri libere.",
+          "Traficul poate fi aglomerat la orele de vârf, planificați în consecință.",
+          "Mașina vă permite să ajungeți și la obiective turistice puțin mai îndepărtate.",
+          "Verificați cu atenție regulile de parcare pentru a evita amenzile."
+        ],
+        "en": [
+          "Use parking apps to find available spots.",
+          "Traffic can be heavy during rush hour, so plan accordingly.",
+          "The car allows you to reach sights slightly further out.",
+          "Check parking regulations carefully to avoid fines."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 10.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Haltestelle 'Universität'",
+            "hu": "Érkezés az 'Egyetem' megállóhoz",
+            "ro": "Sosire la stația 'Universitate'",
+            "en": "Arrival at 'University' Stop"
+          },
+          "coords": [
+            37.8025,
+            48.014
+          ],
+          "category": "transit_stop",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Von hier aus beginnt Ihr Rundgang durch das Zentrum.",
+            "hu": "Innen indul a központi séta.",
+            "ro": "De aici începe turul dumneavoastră prin centru.",
+            "en": "Your tour of the center starts from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Artema-Straße",
+            "hu": "Artema utca",
+            "ro": "Strada Artema",
+            "en": "Artema Street"
+          },
+          "coords": [
+            37.8028,
+            48.0159
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spüren Sie den Puls der Stadt auf ihrer Hauptschlagader.",
+            "hu": "Érezze a város lüktetését a fő ütőerén.",
+            "ro": "Simțiți pulsul orașului pe artera sa principală.",
+            "en": "Feel the pulse of the city on its main artery."
+          }
+        },
+        {
+          "name": {
+            "de": "Opern- und Balletttheater",
+            "hu": "Opera- és Balettszínház",
+            "ro": "Teatrul de Operă și Balet",
+            "en": "Opera and Ballet Theatre"
+          },
+          "coords": [
+            37.801,
+            48.02
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein klassisches Fotomotiv in Donezk.",
+            "hu": "Klasszikus fotótéma Donyeckben.",
+            "ro": "Un motiv fotografic clasic în Donețk.",
+            "en": "A classic photo opportunity in Donetsk."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Kathedrale",
+            "hu": "Utazás a Székesegyházhoz",
+            "ro": "Călătorie spre Catedrală",
+            "en": "Trip to the Cathedral"
+          },
+          "coords": [
+            37.805,
+            48.017
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Trolleybus für die kurze Strecke.",
+            "hu": "Vegyen igénybe egy trolibuszt a rövid távra.",
+            "ro": "Luați un troleibuz pentru distanța scurtă.",
+            "en": "Take a trolleybus for the short distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Donezker Kunstmuseum",
+            "hu": "Donyecki Szépművészeti Múzeum",
+            "ro": "Muzeul de Artă din Donețk",
+            "en": "Donetsk Art Museum"
+          },
+          "coords": [
+            37.798,
+            48.021
+          ],
+          "category": "museums",
+          "arrive_at": "12:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie hier Ihre Mittagspause ein; es gibt Cafés in der Nähe.",
+            "hu": "Tervezze ide az ebédszünetet; a közelben vannak kávézók.",
+            "ro": "Planificați-vă pauza de prânz aici; există cafenele în apropiere.",
+            "en": "Plan your lunch break here; there are cafes nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Donbass Arena",
+            "hu": "Utazás a Donbasz Arénához",
+            "ro": "Călătorie spre Donbas Arena",
+            "en": "Trip to Donbass Arena"
+          },
+          "coords": [
+            37.81,
+            48.0215
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:08",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Das moderne Wahrzeichen der Stadt ist mit dem Bus gut erreichbar.",
+            "hu": "A város modern jelképe busszal könnyen megközelíthető.",
+            "ro": "Simbolul modern al orașului este ușor accesibil cu autobuzul.",
+            "en": "The city's modern landmark is easily accessible by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der geschmiedeten Figuren",
+            "hu": "Kovácsolt Figurák Parkja",
+            "ro": "Parcul Figurilor Forjate",
+            "en": "Park of Forged Figures"
+          },
+          "coords": [
+            37.8,
+            48.022
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:04",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Stadion entfernt.",
+            "hu": "Rövid séta a stadiontól.",
+            "ro": "La o scurtă plimbare de stadion.",
+            "en": "A short walk from the stadium."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Scherbakow-Park",
+            "hu": "Utazás a Scserbakov Parkba",
+            "ro": "Călătorie spre Parcul Șcerbakov",
+            "en": "Trip to Shcherbakov Park"
+          },
+          "coords": [
+            37.808,
+            48.005
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag im Grünen.",
+            "hu": "Zárja a napot a zöldben.",
+            "ro": "Încheiați ziua în mijlocul naturii.",
+            "en": "End the day surrounded by green."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln startet im Herzen von Donezk auf der Artema-Straße. Ein kurzer Spaziergang führt Sie zum Opernhaus. Anschließend bringt Sie ein Trolleybus zur prächtigen Kathedrale und zum nahegelegenen Kunstmuseum, wo Sie den Vormittag verbringen. Am Nachmittag bringt Sie ein Bus zur modernen Donbass Arena und zum fantasievollen Park der geschmiedeten Figuren. Eine letzte Fahrt führt Sie in den weitläufigen Scherbakow-Park, wo Sie den Tag in ruhiger Atmosphäre ausklingen lassen.",
+        "hu": "Tömegközlekedési túrája Donyeck szívében, az Artema utcán indul. Egy rövid séta elvezeti az Operaházhoz. Ezután egy trolibusz viszi a pompás székesegyházhoz és a közeli Művészeti Múzeumhoz, ahol a délelőttöt tölti. Délután egy busz viszi a modern Donbasz Arénához és a fantáziadús Kovácsolt Figurák Parkjához. Az utolsó út a tágas Scserbakov Parkba vezet, ahol csendes légkörben zárhatja a napot.",
+        "ro": "Turul dumneavoastră cu transportul public începe în inima Donețkului, pe strada Artema. O scurtă plimbare vă duce la Operă. Apoi, un troleibuz vă transportă la magnifica catedrală și la Muzeul de Artă din apropiere, unde vă petreceți dimineața. După-amiaza, un autobuz vă duce la moderna Donbas Arena și la imaginativul Parc al Figurilor Forjate. O ultimă călătorie vă duce la vastul Parc Șcerbakov, unde puteți încheia ziua într-o atmosferă liniștită.",
+        "en": "Your public transport tour starts in the heart of Donetsk on Artema Street. A short walk takes you to the Opera House. Then, a trolleybus transports you to the magnificent cathedral and the nearby Art Museum, where you'll spend the morning. In the afternoon, a bus takes you to the modern Donbass Arena and the imaginative Park of Forged Figures. A final ride takes you to the expansive Shcherbakov Park, where you can end the day in a peaceful atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Holubtsi",
+            "tip": "Mit Fleisch und Reis gefüllte Kohlrouladen."
+          },
+          {
+            "name": "Banosh",
+            "tip": "Ein traditionelles Gericht aus Maisgrieß, ähnlich der Polenta."
+          },
+          {
+            "name": "Piroggen",
+            "tip": "Gebackene oder frittierte Teigtaschen mit herzhafter Füllung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Holubci",
+            "tip": "Hússal és rizzsel töltött káposztatekercs."
+          },
+          {
+            "name": "Banos",
+            "tip": "Kukoricadarából készült hagyományos étel, hasonló a puliszkához."
+          },
+          {
+            "name": "Pirog",
+            "tip": "Sült vagy rántott tésztabatyu sós töltelékkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Holubtsi",
+            "tip": "Sarmale umplute cu carne și orez."
+          },
+          {
+            "name": "Banoș",
+            "tip": "Un fel de mâncare tradițional din mălai, asemănător cu mămăliga."
+          },
+          {
+            "name": "Pirogi",
+            "tip": "Găluște coapte sau prăjite cu umplutură sărată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Holubtsi",
+            "tip": "Cabbage rolls stuffed with meat and rice."
+          },
+          {
+            "name": "Banosh",
+            "tip": "A traditional dish made of corn grits, similar to polenta."
+          },
+          {
+            "name": "Pirozhki",
+            "tip": "Baked or fried buns with savory fillings."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park des Kulturpalastes",
+            "tip": "Ein kleiner Park, ideal für eine kurze Pause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Obere Alleen im Scherbakow-Park",
+            "tip": "Weniger frequentiert und sehr friedlich.",
+            "emoji": "🚶‍♀️"
+          },
+          {
+            "name": "Kirchhof der Kathedrale",
+            "tip": "Ein stiller Ort der Besinnung.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kultúrpalota Parkja",
+            "tip": "Kis park, ideális egy rövid szünetre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Felső sétányok a Scserbakov Parkban",
+            "tip": "Kevésbé látogatott és nagyon békés.",
+            "emoji": "🚶‍♀️"
+          },
+          {
+            "name": "A székesegyház kertje",
+            "tip": "A csendes elmélkedés helye.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Palatului Culturii",
+            "tip": "Un parc mic, ideal pentru o scurtă pauză.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Aleile superioare din Parcul Șcerbakov",
+            "tip": "Mai puțin frecventate și foarte pașnice.",
+            "emoji": "🚶‍♀️"
+          },
+          {
+            "name": "Curtea bisericii catedralei",
+            "tip": "Un loc tăcut de contemplare.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palace of Culture Park",
+            "tip": "A small park, ideal for a short break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Upper alleys in Shcherbakov Park",
+            "tip": "Less frequented and very peaceful.",
+            "emoji": "🚶‍♀️"
+          },
+          {
+            "name": "Cathedral churchyard",
+            "tip": "A quiet place for contemplation.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Universitetskaya Straße",
+            "tip": "Viele kleine Geschäfte und Buchläden."
+          },
+          {
+            "name": "Markt in der Nähe des Bahnhofs",
+            "tip": "Ein geschäftiger Markt mit allem von Kleidung bis Lebensmitteln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Univerzityetszka utca",
+            "tip": "Sok kis üzlet és könyvesbolt."
+          },
+          {
+            "name": "Piac a pályaudvar közelében",
+            "tip": "Nyüzsgő piac, ahol a ruháktól az élelmiszerekig mindent megtalál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Universitetskaya",
+            "tip": "Multe magazine mici și librării."
+          },
+          {
+            "name": "Piața de lângă gară",
+            "tip": "O piață aglomerată cu de toate, de la haine la mâncare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Universitetskaya Street",
+            "tip": "Many small shops and bookstores."
+          },
+          {
+            "name": "Market near the railway station",
+            "tip": "A bustling market with everything from clothes to food."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel.",
+          "Die Routen können sich ändern, überprüfen Sie die aktuellen Fahrpläne.",
+          "Halten Sie Kleingeld für die Tickets bereit.",
+          "Fragen Sie Einheimische nach der richtigen Bus- oder Trolleybuslinie, sie helfen gerne."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez.",
+          "Az útvonalak változhatnak, ellenőrizze az aktuális menetrendet.",
+          "Tartson aprópénzt a jegyekhez.",
+          "Kérdezze meg a helyieket a megfelelő busz- vagy trolibusz-vonalról, szívesen segítenek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public.",
+          "Rutele se pot schimba, verificați orarele actuale.",
+          "Aveți bani mărunți pregătiți pentru bilete.",
+          "Întrebați localnicii despre linia corectă de autobuz sau troleibuz, vă vor ajuta cu plăcere."
+        ],
+        "en": [
+          "Buy a day pass for public transport.",
+          "Routes can change, so check the current schedules.",
+          "Keep small change ready for tickets.",
+          "Ask locals for the right bus or trolleybus line; they are happy to help."
+        ]
+      }
+    }
+  }
+}

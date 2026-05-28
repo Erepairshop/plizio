@@ -1,0 +1,1348 @@
+{
+  "city_id": "portugal-trofa-cities-v2",
+  "anchor": {
+    "name": "Trofa",
+    "coords": [
+      -8.5667,
+      41.3333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Beginn am Fórum Trofa XXI",
+            "hu": "Indulás a Fórum Trofa XXI-től",
+            "ro": "Început la Fórum Trofa XXI",
+            "en": "Start at Fórum Trofa XXI"
+          },
+          "coords": [
+            -8.5641,
+            41.3345
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine interessante Ausstellung.",
+            "hu": "Nézze meg a programot, hátha van egy érdekes kiállítás.",
+            "ro": "Verificați programul, s-ar putea să fie o expoziție interesantă.",
+            "en": "Check the schedule, there might be an interesting exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz da Trofa",
+            "hu": "Trofa főtemploma",
+            "ro": "Biserica Matriz din Trofa",
+            "en": "Mother Church of Trofa"
+          },
+          "coords": [
+            -8.5612,
+            41.3358
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Buntglasfenster.",
+            "hu": "Figyelje meg a lenyűgöző ólomüveg ablakokat.",
+            "ro": "Observați vitraliile impresionante.",
+            "en": "Pay attention to the impressive stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ao Ferroviário",
+            "hu": "Vasutas emlékmű",
+            "ro": "Monumentul Feroviarului",
+            "en": "Monument to the Railway Worker"
+          },
+          "coords": [
+            -8.5585,
+            41.3369
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein toller Ort für ein Foto, das die industrielle Vergangenheit der Stadt ehrt.",
+            "hu": "Nagyszerű fotóhelyszín, amely a város ipari múltja előtt tiszteleg.",
+            "ro": "Un loc excelent pentru o fotografie care onorează trecutul industrial al orașului.",
+            "en": "A great spot for a photo, honoring the town's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiga Estação da Trofa",
+            "hu": "Régi Trofa állomás",
+            "ro": "Fosta Gara din Trofa",
+            "en": "Old Trofa Station"
+          },
+          "coords": [
+            -8.559,
+            41.332
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stellen Sie sich die geschäftige Atmosphäre der alten Eisenbahnzeiten vor.",
+            "hu": "Képzelje el a régi vasúti idők nyüzsgő hangulatát.",
+            "ro": "Imaginați-vă atmosfera aglomerată a vechilor vremuri feroviare.",
+            "en": "Imagine the bustling atmosphere of the old railway days."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Flusses",
+            "hu": "Ebéd a folyó közelében",
+            "ro": "Prânz lângă râu",
+            "en": "Lunch near the river"
+          },
+          "coords": [
+            -8.568,
+            41.33
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch in einem der lokalen Restaurants.",
+            "hu": "Kóstoljon meg egy friss halételt az egyik helyi étteremben.",
+            "ro": "Încercați pește proaspăt la unul dintre restaurantele locale.",
+            "en": "Try some fresh fish at one of the local restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque das Nações",
+            "hu": "Parque das Nações",
+            "ro": "Parcul Națiunilor",
+            "en": "Park of Nations"
+          },
+          "coords": [
+            -8.57,
+            41.328
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für einen entspannten Spaziergang am Nachmittag.",
+            "hu": "Ideális hely egy pihentető délutáni sétához.",
+            "ro": "Un loc ideal pentru o plimbare relaxantă de după-amiază.",
+            "en": "An ideal place for a relaxing afternoon stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im kulturellen Herzen der Stadt, dem Fórum Trofa XXI. Schlendern Sie zur Hauptkirche und bewundern Sie die lokale Architektur und das Eisenbahnerdenkmal, das die Geschichte der Stadt würdigt. Nach einem Einblick in das industrielle Erbe am alten Bahnhof genießen Sie ein gemütliches Mittagessen am Fluss. Der Nachmittag ist für einen entspannten Spaziergang im Parque das Nações reserviert, wo Sie die Ruhe und die Natur genießen können, bevor Ihr Tag zu Ende geht.",
+        "hu": "Kezdje a napot a város kulturális szívében, a Fórum Trofa XXI-nél. Sétáljon el a főtemplomhoz, csodálja meg a helyi építészetet és a város történelmét idéző vasutas emlékművet. Miután bepillantást nyert a régi állomás ipari örökségébe, fogyasszon el egy kellemes ebédet a folyóparton. A délutánt a Parque das Nações parkban töltse egy pihentető sétával, élvezve a nyugalmat és a természetet, mielőtt a nap véget ér.",
+        "ro": "Începeți ziua în inima culturală a orașului, Fórum Trofa XXI. Plimbați-vă spre biserica principală și admirați arhitectura locală și monumentul feroviar, care celebrează istoria orașului. După o incursiune în patrimoniul industrial la vechea gară, bucurați-vă de un prânz pe îndelete lângă râu. După-amiaza este rezervată unei plimbări relaxante în Parque das Nações, savurând liniștea și natura înainte de încheierea zilei.",
+        "en": "Start your day in the cultural heart of the city, Fórum Trofa XXI. Stroll to the main church and admire the local architecture and the railway monument celebrating the town's history. After a glimpse into the industrial heritage at the old station, enjoy a leisurely lunch by the river. The afternoon is reserved for a relaxing walk in Parque das Nações, soaking up the tranquility and nature before your day concludes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Francesinha",
+            "tip": "Ein herzhaftes Sandwich aus Porto, das man auch hier findet."
+          },
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Ein klassisches portugiesisches Kabeljaugericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Francesinha",
+            "tip": "Egy kiadós portói szendvics, amely itt is megtalálható."
+          },
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Klasszikus portugál tőkehal étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Francesinha",
+            "tip": "Un sandviș consistent din Porto, disponibil și aici."
+          },
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Un preparat clasic portughez din cod."
+          }
+        ],
+        "en": [
+          {
+            "name": "Francesinha",
+            "tip": "A hearty sandwich from Porto, also found here."
+          },
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "A classic Portuguese codfish dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Ave-Flusses",
+            "tip": "Ein ruhiger Ort, um dem Wasser beim Fließen zuzusehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela de Nossa Senhora de Fátima",
+            "tip": "Eine kleine Kapelle für einen Moment der Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Ave folyó partja",
+            "tip": "Csendes hely, ahol nézheti a víz folyását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela de Nossa Senhora de Fátima",
+            "tip": "Egy kis kápolna egy pillanatnyi elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Ave",
+            "tip": "Un loc liniștit pentru a privi apa curgând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela de Nossa Senhora de Fátima",
+            "tip": "O mică capelă pentru un moment de reculegere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the River Ave",
+            "tip": "A quiet spot to watch the water flow.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chapel of Our Lady of Fátima",
+            "tip": "A small chapel for a moment of reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und handwerklichen Erzeugnissen."
+          },
+          {
+            "name": "Geschäfte im Stadtzentrum",
+            "tip": "Stöbern Sie nach Souvenirs und lokalen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat."
+          },
+          {
+            "name": "Belvárosi üzletek",
+            "tip": "Böngésszen szuvenírek és helyi különlegességek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și de artizanat."
+          },
+          {
+            "name": "Magazine din centrul orașului",
+            "tip": "Răsfoiți pentru suveniruri și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and artisan crafts."
+          },
+          {
+            "name": "Downtown Shops",
+            "tip": "Browse for souvenirs and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Prüfen Sie die Öffnungszeiten der Kirchen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Előre ellenőrizze a templomok nyitvatartását."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Luați o sticlă de apă reutilizabilă.",
+          "Verificați în avans orele de program ale bisericilor."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Bring a reusable water bottle.",
+          "Check the opening hours of the churches in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Parque das Nações",
+            "hu": "Indulás a Parque das Nações-ből",
+            "ro": "Start din Parque das Nações",
+            "en": "Start at Parque das Nações"
+          },
+          "coords": [
+            -8.57,
+            41.328
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die morgendliche Frische am Flussufer.",
+            "hu": "Élvezze a reggeli frissességet a folyóparton.",
+            "ro": "Bucurați-vă de prospețimea dimineții pe malul râului.",
+            "en": "Enjoy the morning freshness on the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte da Lousado",
+            "hu": "Lousado híd",
+            "ro": "Podul Lousado",
+            "en": "Lousado Bridge"
+          },
+          "coords": [
+            -8.545,
+            41.32
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:05",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine historische Brücke mit einer schönen Aussicht auf die Umgebung.",
+            "hu": "Történelmi híd, ahonnan szép kilátás nyílik a környékre.",
+            "ro": "Un pod istoric cu o priveliște frumoasă asupra împrejurimilor.",
+            "en": "A historic bridge with a beautiful view of the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiga Estação da Trofa",
+            "hu": "Régi Trofa állomás",
+            "ro": "Fosta Gara din Trofa",
+            "en": "Old Trofa Station"
+          },
+          "coords": [
+            -8.559,
+            41.332
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste der Eisenbahngeschichte der Stadt.",
+            "hu": "Fedezze fel a város vasúttörténeti maradványait.",
+            "ro": "Descoperiți vestigiile istoriei feroviare a orașului.",
+            "en": "Discover the remnants of the town's railway history."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz da Trofa & Mittagessen",
+            "hu": "Trofa főtemploma és ebéd",
+            "ro": "Biserica Matriz din Trofa & Prânz",
+            "en": "Mother Church of Trofa & Lunch"
+          },
+          "coords": [
+            -8.5612,
+            41.3358
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Kirche und essen Sie dann in einem der nahegelegenen Restaurants zu Mittag.",
+            "hu": "Nézze meg a templomot, majd ebédeljen az egyik közeli étteremben.",
+            "ro": "Vizitați biserica și apoi luați prânzul la unul dintre restaurantele din apropiere.",
+            "en": "Visit the church and then have lunch at one of the nearby restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela de Nossa Senhora de Fátima",
+            "hu": "Fatima Miasszonyunk kápolna",
+            "ro": "Capela Doamnei Noastre din Fátima",
+            "en": "Chapel of Our Lady of Fátima"
+          },
+          "coords": [
+            -8.575,
+            41.345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine ruhige Kapelle, perfekt für eine kurze Pause.",
+            "hu": "Egy csendes kápolna, tökéletes egy rövid pihenőre.",
+            "ro": "O capelă liniștită, perfectă pentru o scurtă pauză.",
+            "en": "A peaceful chapel, perfect for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Alvarelhos",
+            "hu": "Castro de Alvarelhos",
+            "ro": "Castro de Alvarelhos",
+            "en": "Castro de Alvarelhos"
+          },
+          "coords": [
+            -8.55,
+            41.36
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Hügel, um diese alte Festung und ihre Aussicht zu sehen.",
+            "hu": "Másszon fel a dombra, hogy megnézze ezt az ősi erődöt és a kilátást.",
+            "ro": "Urcați pe deal pentru a vedea această fortăreață antică și priveliștea sa.",
+            "en": "Climb the hill to see this ancient fort and its views."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the Center"
+          },
+          "coords": [
+            -8.5667,
+            41.3333
+          ],
+          "category": "other",
+          "arrive_at": "16:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem Kaffee in einem der zentralen Cafés.",
+            "hu": "Zárja a napot egy kávéval az egyik központi kávézóban.",
+            "ro": "Încheiați-vă ziua cu o cafea la una dintre cafenelele centrale.",
+            "en": "End your day with a coffee at one of the central cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Parque das Nações und fahren Sie entlang des Flusses zur historischen Ponte da Lousado. Erkunden Sie das Eisenbahnerbe der Stadt, bevor Sie im Zentrum die Hauptkirche besichtigen und zu Mittag essen. Am Nachmittag radeln Sie zur ruhigen Capela de Nossa Senhora de Fátima und dann hinauf zum alten Castro de Alvarelhos für eine Dosis Geschichte und eine tolle Aussicht. Kehren Sie ins Zentrum zurück, um den Tag entspannt ausklingen zu lassen.",
+        "hu": "Kezdje a kerékpártúrát a Parque das Nações-nél, tekerjen a folyó mentén a történelmi Ponte da Lousado hídhoz. Fedezze fel a város vasúti örökségét, mielőtt megnézi a főtemplomot és ebédel a központban. Délután kerékpározzon el a békés Capela de Nossa Senhora de Fátima kápolnához, majd fel az ősi Castro de Alvarelhos-hoz egy adag történelemért és a nagyszerű kilátásért. Térjen vissza a központba, hogy pihentetően zárja a napot.",
+        "ro": "Începeți turul cu bicicleta de la Parque das Nações, pedalând de-a lungul râului până la istoricul pod Ponte da Lousado. Explorați moștenirea feroviară a orașului înainte de a vizita biserica principală și de a lua prânzul în centru. După-amiaza, pedalați spre liniștita Capela de Nossa Senhora de Fátima, apoi urcați la vechiul Castro de Alvarelhos pentru o doză de istorie și priveliști minunate. Întoarceți-vă în centru pentru a încheia ziua într-un mod relaxat.",
+        "en": "Start your bike tour at Parque das Nações, riding along the river to the historic Ponte da Lousado. Explore the city's railway heritage before visiting the main church and having lunch in the center. In the afternoon, cycle to the peaceful Chapel of Our Lady of Fátima, then up to the ancient Castro de Alvarelhos for a dose of history and great views. Return to the center to end the day in a relaxed manner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caldo Verde",
+            "tip": "Eine traditionelle portugiesische Suppe, ideal zur Stärkung."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Ein Muss als Dessert oder zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caldo Verde",
+            "tip": "Hagyományos portugál leves, ideális feltöltődéshez."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Kötelező desszertként vagy kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caldo Verde",
+            "tip": "O supă tradițională portugheză, ideală pentru a vă reîncărca bateriile."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "O necesitate ca desert sau cu cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caldo Verde",
+            "tip": "A traditional Portuguese soup, perfect for refueling."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "A must-try for dessert or with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Ave-Fluss",
+            "tip": "Genießen Sie die ruhige Fahrt entlang des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel des Castro de Alvarelhos",
+            "tip": "Oben angekommen, genießen Sie die Stille und die weite Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút az Ave folyó mentén",
+            "tip": "Élvezze a csendes tekerést a víz mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castro de Alvarelhos dombja",
+            "tip": "A csúcson élvezze a csendet és a panorámát.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul râului Ave",
+            "tip": "Bucurați-vă de plimbarea liniștită de-a lungul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Castro de Alvarelhos",
+            "tip": "Odată ajuns în vârf, bucurați-vă de liniște și de priveliștea panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path on the River Ave",
+            "tip": "Enjoy the quiet ride along the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hill of Castro de Alvarelhos",
+            "tip": "Once at the top, enjoy the silence and the wide view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für eventuelle schnelle Reparaturen oder Zubehör."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Holen Sie sich Energie mit lokalen Backwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Gyors javításokhoz vagy kiegészítőkhöz."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Tankoljon energiát helyi pékáruval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru reparații rapide sau accesorii."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Luați o gustare energizantă de la produsele de patiserie locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "For any quick repairs or accessories."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Fuel up with some local pastries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad immer gut ab.",
+          "Tragen Sie einen Helm.",
+          "Einige Anstiege können anspruchsvoll sein, seien Sie vorbereitet."
+        ],
+        "hu": [
+          "Mindig zárja le a kerékpárját.",
+          "Viseljen sisakot.",
+          "Néhány emelkedő kihívást jelenthet, legyen felkészülve."
+        ],
+        "ro": [
+          "Asigurați-vă întotdeauna bicicleta.",
+          "Purtați cască.",
+          "Unele urcări pot fi solicitante, fiți pregătit."
+        ],
+        "en": [
+          "Always lock your bike securely.",
+          "Wear a helmet.",
+          "Some climbs can be challenging, be prepared."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 21.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Castro de Alvarelhos",
+            "hu": "A klaszter: Castro de Alvarelhos",
+            "ro": "Cluster A: Castro de Alvarelhos",
+            "en": "Cluster A: Castro de Alvarelhos"
+          },
+          "coords": [
+            -8.55,
+            41.36
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und erklimmen Sie den Hügel für eine Reise in die Vergangenheit.",
+            "hu": "Parkoljon a közelben, és másszon fel a dombra egy múltbeli utazáshoz.",
+            "ro": "Parcați în apropiere și urcați pe deal pentru o călătorie înapoi în timp.",
+            "en": "Park nearby and climb the hill for a trip back in time."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster A: Capela de Nossa Senhora de Fátima",
+            "hu": "A klaszter: Fatima Miasszonyunk kápolna",
+            "ro": "Cluster A: Capela Doamnei Noastre din Fátima",
+            "en": "Cluster A: Chapel of Our Lady of Fátima"
+          },
+          "coords": [
+            -8.575,
+            41.345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt für einen Moment der Ruhe.",
+            "hu": "Rövid megálló egy pillanatnyi békéért.",
+            "ro": "O oprire scurtă pentru un moment de liniște.",
+            "en": "A short stop for a moment of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Igreja Matriz & Mittagessen",
+            "hu": "B klaszter: Főtemplom és ebéd",
+            "ro": "Cluster B: Biserica Matriz & Prânz",
+            "en": "Cluster B: Mother Church & Lunch"
+          },
+          "coords": [
+            -8.5612,
+            41.3358
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und erkunden Sie die Kirche, bevor Sie zu Mittag essen.",
+            "hu": "Parkoljon a központban, fedezze fel a templomot ebéd előtt.",
+            "ro": "Parcați în centru și explorați biserica înainte de a lua prânzul.",
+            "en": "Park in the center and explore the church before having lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Monumento ao Ferroviário",
+            "hu": "B klaszter: Vasutas emlékmű",
+            "ro": "Cluster B: Monumentul Feroviarului",
+            "en": "Cluster B: Monument to the Railway Worker"
+          },
+          "coords": [
+            -8.5585,
+            41.3369
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Mittagessen zum Denkmal.",
+            "hu": "Rövid séta az ebédtől az emlékműig.",
+            "ro": "O scurtă plimbare de la prânz la monument.",
+            "en": "A short walk from lunch to the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Fórum Trofa XXI",
+            "hu": "B klaszter: Fórum Trofa XXI",
+            "ro": "Cluster B: Fórum Trofa XXI",
+            "en": "Cluster B: Fórum Trofa XXI"
+          },
+          "coords": [
+            -8.5641,
+            41.3345
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie sich die moderne Architektur dieses Kulturzentrums an.",
+            "hu": "Tekintse meg a kulturális központ modern építészetét.",
+            "ro": "Vedeți arhitectura modernă a acestui centru cultural.",
+            "en": "See the modern architecture of this cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Ponte da Lousado",
+            "hu": "C klaszter: Lousado híd",
+            "ro": "Cluster C: Podul Lousado",
+            "en": "Cluster C: Lousado Bridge"
+          },
+          "coords": [
+            -8.545,
+            41.32
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zur Brücke für einen anderen Blickwinkel auf die Region.",
+            "hu": "Hajtson a hídhoz, hogy más szemszögből lássa a régiót.",
+            "ro": "Conduceți la pod pentru o perspectivă diferită asupra regiunii.",
+            "en": "Drive to the bridge for a different perspective of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Antiga Estação da Trofa",
+            "hu": "C klaszter: Régi Trofa állomás",
+            "ro": "Cluster C: Fosta Gara din Trofa",
+            "en": "Cluster C: Old Trofa Station"
+          },
+          "coords": [
+            -8.559,
+            41.332
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom vorherigen Halt, um mehr Geschichte zu entdecken.",
+            "hu": "Rövid séta az előző megállótól további történelmi felfedezésekért.",
+            "ro": "O scurtă plimbare de la oprirea anterioară pentru a descoperi mai multă istorie.",
+            "en": "A short walk from the previous stop to discover more history."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Parque das Nações",
+            "hu": "C klaszter: Parque das Nações",
+            "ro": "Cluster C: Parque das Nações",
+            "en": "Cluster C: Park of Nations"
+          },
+          "coords": [
+            -8.57,
+            41.328
+          ],
+          "stay_min": 55,
+          "arrive_at": "17:15",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "category": "parks/promenades/beaches",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannenden Spaziergang im Park.",
+            "hu": "Zárja a napot egy pihentető sétával a parkban.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă în parc.",
+            "en": "End the day with a relaxing walk in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die weiter entfernten Orte erkunden. Beginnen Sie beim alten Castro de Alvarelhos, um einen Panoramablick zu genießen. Fahren Sie dann zur ruhigen Kapelle, bevor Sie ins Zentrum zum Mittagessen und zur Erkundung des Kirchen- und Denkmalclusters aufbrechen. Nach einem Spaziergang zum Kulturzentrum fahren Sie zum südlichen Cluster, um die historische Brücke und den alten Bahnhof zu besichtigen. Beenden Sie Ihren Tag im ruhigen Parque das Nações.",
+        "hu": "Az autóval a távolabbi helyeket is felfedezheti. Kezdje az ősi Castro de Alvarelhosnál a panorámás kilátásért. Ezután hajtson el a békés kápolnához, mielőtt a központba indul ebédelni és felfedezni a templom és emlékmű körüli klasztert. A kulturális központhoz tett séta után vezessen a déli klaszterhez a történelmi híd és a régi állomás megtekintéséhez. Fejezze be a napot a nyugodt Parque das Nações parkban.",
+        "ro": "Mașina vă permite să explorați siturile mai îndepărtate. Începeți la vechiul Castro de Alvarelhos pentru priveliști panoramice. Conduceți la capela liniștită înainte de a vă îndrepta spre centru pentru prânz și pentru a explora grupul de biserici și monumente. După o plimbare la centrul cultural, conduceți spre grupul sudic pentru a vedea podul istoric și vechea gară. Încheiați ziua în liniștitul Parque das Nações.",
+        "en": "The car allows you to explore the more distant sites. Start at the ancient Castro de Alvarelhos for panoramic views. Drive to the peaceful chapel before heading to the center for lunch and to explore the church and monument cluster. After a walk to the cultural forum, drive to the southern cluster to see the historic bridge and old station. End your day at the tranquil Parque das Nações."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cozido à Portuguesa",
+            "tip": "Ein herzhafter Eintopf, perfekt nach einem langen Tag."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Probieren Sie den lokalen jungen Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cozido à Portuguesa",
+            "tip": "Kiadós egytálétel, tökéletes egy hosszú nap után."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Kóstolja meg a helyi zöldbort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cozido à Portuguesa",
+            "tip": "O tocană consistentă, perfectă după o zi lungă."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Încercați vinul verde local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cozido à Portuguesa",
+            "tip": "A hearty stew, perfect after a long day."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Try the local 'green wine'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Castro de Alvarelhos",
+            "tip": "Ein weiter Blick über die Landschaft.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang im Parque das Nações",
+            "tip": "Ein friedlicher Abschluss des Tages.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Castro de Alvarelhosról",
+            "tip": "Tágas kilátás a vidékre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Parque das Nações-ben",
+            "tip": "A nap békés lezárása.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Castro de Alvarelhos",
+            "tip": "O priveliște vastă asupra peisajului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare în Parque das Nações",
+            "tip": "Un final de zi pașnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Castro de Alvarelhos",
+            "tip": "A vast view over the countryside.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stroll in Parque das Nações",
+            "tip": "A peaceful end to the day.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingüter in der Umgebung",
+            "tip": "Kaufen Sie eine Flasche Vinho Verde direkt vom Erzeuger."
+          },
+          {
+            "name": "Kunsthandwerksläden",
+            "tip": "Suchen Sie nach einzigartigen, handgefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Környékbeli borászatok",
+            "tip": "Vásároljon egy üveg Vinho Verde-t közvetlenül a termelőtől."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen egyedi, kézzel készített szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame din zonă",
+            "tip": "Cumpărați o sticlă de Vinho Verde direct de la producător."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați suveniruri unice, realizate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wineries in the area",
+            "tip": "Buy a bottle of Vinho Verde directly from the producer."
+          },
+          {
+            "name": "Craft shops",
+            "tip": "Look for unique, handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Parkplätze im Voraus, besonders im Zentrum.",
+          "Achten Sie auf Mautstraßen in der Region.",
+          "Ein GPS ist sehr zu empfehlen."
+        ],
+        "hu": [
+          "Tervezze meg előre a parkolást, különösen a központban.",
+          "Figyeljen a fizetős utakra a régióban.",
+          "GPS használata erősen ajánlott."
+        ],
+        "ro": [
+          "Planificați parcarea în avans, mai ales în centru.",
+          "Fiți atenți la drumurile cu taxă din regiune.",
+          "Un GPS este foarte recomandat."
+        ],
+        "en": [
+          "Plan for parking in advance, especially in the center.",
+          "Be aware of toll roads in the region.",
+          "A GPS is highly recommended."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Start am Bahnhof Trofa",
+            "hu": "A klaszter: Indulás a Trofa állomásról",
+            "ro": "Cluster A: Start la Gara Trofa",
+            "en": "Cluster A: Start at Trofa Station"
+          },
+          "coords": [
+            -8.559,
+            41.332
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie dort, wo die Eisenbahngeschichte der Stadt lebendig wird.",
+            "hu": "Kezdje ott, ahol a város vasúttörténete megelevenedik.",
+            "ro": "Începeți de unde prinde viață istoria feroviară a orașului.",
+            "en": "Start where the town's railway history comes alive."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster A: Monumento ao Ferroviário",
+            "hu": "A klaszter: Vasutas emlékmű",
+            "ro": "Cluster A: Monumentul Feroviarului",
+            "en": "Cluster A: Monument to the Railway Worker"
+          },
+          "coords": [
+            -8.5585,
+            41.3369
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof zum Denkmal.",
+            "hu": "Rövid séta az állomástól az emlékműig.",
+            "ro": "O scurtă plimbare de la gară la monument.",
+            "en": "A short walk from the station to the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster A: Igreja Matriz da Trofa",
+            "hu": "A klaszter: Trofa főtemploma",
+            "ro": "Cluster A: Biserica Matriz din Trofa",
+            "en": "Cluster A: Mother Church of Trofa"
+          },
+          "coords": [
+            -8.5612,
+            41.3358
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das religiöse Zentrum der Stadt.",
+            "hu": "Fedezze fel a város vallási központját.",
+            "ro": "Explorați centrul religios al orașului.",
+            "en": "Explore the religious heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Fahrt zum Parque das Nações & Mittagessen",
+            "hu": "B klaszter: Utazás a Parque das Nações-be és ebéd",
+            "ro": "Cluster B: Călătorie la Parque das Nações & Prânz",
+            "en": "Cluster B: Ride to Parque das Nações & Lunch"
+          },
+          "coords": [
+            -8.57,
+            41.328
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Park und essen Sie in der Nähe zu Mittag.",
+            "hu": "Menjen busszal a parkba és ebédeljen a közelben.",
+            "ro": "Luați un autobuz spre parc și luați prânzul în apropiere.",
+            "en": "Take a bus to the park and have lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Ponte da Lousado",
+            "hu": "B klaszter: Lousado híd",
+            "ro": "Cluster B: Podul Lousado",
+            "en": "Cluster B: Lousado Bridge"
+          },
+          "coords": [
+            -8.545,
+            41.32
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Spazieren Sie über die Brücke, um eine malerische Aussicht zu genießen.",
+            "hu": "Sétáljon át a hídon a festői kilátásért.",
+            "ro": "Plimbați-vă peste pod pentru vederi pitorești.",
+            "en": "Walk across the bridge for picturesque views."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Fahrt zum Fórum Trofa XXI",
+            "hu": "C klaszter: Utazás a Fórum Trofa XXI-hez",
+            "ro": "Cluster C: Călătorie la Fórum Trofa XXI",
+            "en": "Cluster C: Ride to Fórum Trofa XXI"
+          },
+          "coords": [
+            -8.5641,
+            41.3345
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit etwas Kultur.",
+            "hu": "Zárja a napot egy kis kultúrával.",
+            "ro": "Încheiați ziua cu puțină cultură.",
+            "en": "End your day with some culture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um Trofa zu entdecken. Beginnen Sie Ihren Tag am historischen Bahnhof und erkunden Sie das zentrale Cluster mit seinem Denkmal und der Kirche zu Fuß. Nehmen Sie dann einen Bus zum südlichen Teil der Stadt für ein Mittagessen am Fluss und einen Spaziergang im Parque das Nações. Ein weiterer Bus bringt Sie zur Ponte da Lousado, bevor Sie zum kulturellen Abschluss im Fórum Trofa XXI ins Zentrum zurückkehren.",
+        "hu": "Használja a tömegközlekedést Trofa felfedezéséhez. Kezdje a napot a történelmi állomásnál, és fedezze fel gyalog a központi klasztert az emlékművel és a templommal. Ezután buszozzon a város déli részébe egy folyóparti ebédre és egy sétára a Parque das Nações-ben. Egy másik busz elviszi a Ponte da Lousado hídhoz, mielőtt visszatérne a központba egy kulturális programra a Fórum Trofa XXI-ben.",
+        "ro": "Folosiți transportul public pentru a descoperi Trofa. Începeți ziua la gara istorică și explorați pe jos grupul central cu monumentul și biserica sa. Apoi, luați un autobuz spre partea de sud a orașului pentru un prânz lângă râu și o plimbare în Parque das Nações. Un alt autobuz vă va duce la Ponte da Lousado înainte de a vă întoarce în centru pentru o încheiere culturală la Fórum Trofa XXI.",
+        "en": "Use public transport to discover Trofa. Start your day at the historic station and explore the central cluster with its monument and church on foot. Then, take a bus to the southern part of the city for lunch by the river and a walk in Parque das Nações. Another bus will take you to Ponte da Lousado before returning to the center for a cultural finish at Fórum Trofa XXI."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana",
+            "tip": "Ein einfaches, aber leckeres Schweinefleisch-Sandwich."
+          },
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "Gegrillte Sardinen, besonders im Sommer eine Delikatesse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana",
+            "tip": "Egyszerű, de ízletes sertéshúsos szendvics."
+          },
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "Grillezett szardínia, különösen nyáron csemege."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș simplu, dar delicios, cu carne de porc."
+          },
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "Sardine la grătar, o delicatesă mai ales vara."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana",
+            "tip": "A simple but delicious pork sandwich."
+          },
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "Grilled sardines, a delicacy especially in summer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Parque das Nações",
+            "tip": "Setzen Sie sich und genießen Sie die friedliche Atmosphäre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang des Ave-Flusses",
+            "tip": "Das Geräusch des Wassers ist sehr beruhigend.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Parque das Nações-ben",
+            "tip": "Üljön le és élvezze a békés hangulatot.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta az Ave folyó mentén",
+            "tip": "A víz hangja nagyon megnyugtató.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parque das Nações",
+            "tip": "Stați jos și bucurați-vă de atmosfera pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Ave",
+            "tip": "Sunetul apei este foarte liniștitor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Parque das Nações",
+            "tip": "Sit and enjoy the peaceful atmosphere.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the River Ave",
+            "tip": "The sound of the water is very calming.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske am Bahnhof",
+            "tip": "Für einen schnellen Snack oder eine Zeitung."
+          },
+          {
+            "name": "Lokale Geschäfte im Zentrum",
+            "tip": "Unterstützen Sie die lokale Wirtschaft und finden Sie einzigartige Artikel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bódék az állomáson",
+            "tip": "Egy gyors harapnivalóért vagy újságért."
+          },
+          {
+            "name": "Helyi boltok a központban",
+            "tip": "Támogassa a helyi gazdaságot és találjon egyedi termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la gară",
+            "tip": "Pentru o gustare rapidă sau un ziar."
+          },
+          {
+            "name": "Magazine locale din centru",
+            "tip": "Sprijiniți economia locală și găsiți articole unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at the station",
+            "tip": "For a quick snack or a newspaper."
+          },
+          {
+            "name": "Local shops in the center",
+            "tip": "Support the local economy and find unique items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Überprüfen Sie die Busfahrpläne online.",
+          "Haben Sie etwas Kleingeld für Tickets parat."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Ellenőrizze a buszmenetrendeket online.",
+          "Legyen Önnél aprópénz a jegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați online orarele autobuzelor.",
+          "Aveți la îndemână mărunțiș pentru bilete."
+        ],
+        "en": [
+          "Buy a day pass for unlimited rides.",
+          "Check bus schedules online.",
+          "Have some small change ready for tickets."
+        ]
+      }
+    }
+  }
+}

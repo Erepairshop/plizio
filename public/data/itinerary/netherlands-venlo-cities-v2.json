@@ -1,0 +1,1340 @@
+{
+  "city_id": "netherlands-venlo-cities-v2",
+  "anchor": {
+    "name": "Venlo",
+    "coords": [
+      51.37,
+      6.168
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadhuis Venlo",
+            "hu": "Venlói Városháza",
+            "ro": "Primăria din Venlo",
+            "en": "Venlo City Hall"
+          },
+          "coords": [
+            6.1695,
+            51.3702
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissanc-Architektur und die Details der Fassade.",
+            "hu": "Csodálja meg a reneszánsz építészetet és a homlokzat részleteit.",
+            "ro": "Admirați arhitectura renascentistă și detaliile fațadei.",
+            "en": "Admire the Renaissance architecture and the details of the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Jodenstraat",
+            "hu": "Jodenstraat (Zsidó utca)",
+            "ro": "Jodenstraat",
+            "en": "Jodenstraat"
+          },
+          "coords": [
+            6.1705,
+            51.3711
+          ],
+          "category": "old-town",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kleinen Boutiquen und historischen Häuser in dieser charmanten Straße.",
+            "hu": "Fedezze fel a kis butikokat és a történelmi házakat ebben a bájos utcában.",
+            "ro": "Descoperiți micile buticuri și casele istorice de pe această stradă fermecătoare.",
+            "en": "Discover the small boutiques and historic houses on this charming street."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Martinuskerk",
+            "hu": "Szent Martin-templom",
+            "ro": "Biserica Sf. Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            6.1715,
+            51.369
+          ],
+          "category": "churches",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie nach der Statue des Schwarzen Christus von dplyr und dem beeindruckenden Glockenspiel.",
+            "hu": "Keresse meg a Fekete Krisztus szobrát és a lenyűgöző harangjátékot.",
+            "ro": "Căutați statuia Cristosului Negru din dplyr și impresionantul carillon.",
+            "en": "Look for the statue of the Black Christ of dplyr and the impressive carillon."
+          }
+        },
+        {
+          "name": {
+            "de": "Maasboulevard",
+            "hu": "Maas-sétány",
+            "ro": "Promenada Maas",
+            "en": "Maasboulevard"
+          },
+          "coords": [
+            6.163,
+            51.3715
+          ],
+          "category": "promenades",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen in einem der Cafés mit Blick auf den Fluss.",
+            "hu": "Ebédeljen a folyóra néző kávézók egyikében.",
+            "ro": "Savurați prânzul la una dintre cafenelele cu vedere la râu.",
+            "en": "Enjoy lunch at one of the cafes overlooking the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Limburgs Museum",
+            "hu": "Limburgi Múzeum",
+            "ro": "Muzeul Limburgs",
+            "en": "Limburgs Museum"
+          },
+          "coords": [
+            6.174,
+            51.367
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die interaktiven Ausstellungen sind besonders für Familien mit Kindern geeignet.",
+            "hu": "Az interaktív kiállítások különösen alkalmasak a gyermekes családok számára.",
+            "ro": "Expozițiile interactive sunt potrivite în special pentru familiile cu copii.",
+            "en": "The interactive exhibits are especially suitable for families with children."
+          }
+        },
+        {
+          "name": {
+            "de": "Julianapark",
+            "hu": "Julianna park",
+            "ro": "Parcul Juliana",
+            "en": "Julianapark"
+          },
+          "coords": [
+            6.165,
+            51.365
+          ],
+          "category": "parks",
+          "arrive_at": "15:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Pause, mit einem Streichelzoo und viel Grün.",
+            "hu": "Tökéletes hely a pihenésre, állatsimogatóval és sok zöldterülettel.",
+            "ro": "Un loc perfect pentru o pauză, cu o grădină zoologică și multă verdeață.",
+            "en": "A perfect place for a break, with a petting zoo and lots of greenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Venlo beginnt am historischen Stadhuis, dem Herz der Stadt. Am Vormittag schlendern Sie durch die Jodenstraat und zur Sint-Martinuskerk, um die lokale Geschichte aufzusaugen. Mittags entspannen Sie am Maasboulevard, genießen die Aussicht und ein leckeres Mittagessen. Am Nachmittag tauchen Sie im Limburgs Museum in die Kultur der Region ein. Den Tag lassen Sie gemütlich im grünen Julianapark ausklingen und reflektieren die vielen Eindrücke dieser charmanten Stadt an der Maas.",
+        "hu": "A venlói nap a történelmi Városházánál, a város szívében kezdődik. Délelőtt a Jodenstraaton és a Szent Martin-templomnál sétálva szívja magába a helyi történelmet. Délben a Maas-sétányon pihenhet, élvezheti a kilátást és egy finom ebédet. Délután a Limburgi Múzeumban merül el a régió kultúrájában. A napot a zöld Julianna parkban fejezi be, elmélkedve a Maas-parti bájos város számos benyomásán.",
+        "ro": "Ziua dvs. în Venlo începe la istorica Stadhuis, inima orașului. Dimineața, vă plimbați pe Jodenstraat și la Biserica Sf. Martin pentru a absorbi istoria locală. La prânz, vă relaxați pe Maasboulevard, bucurându-vă de priveliște și de un prânz delicios. După-amiaza, vă scufundați în cultura regiunii la Muzeul Limburgs. Încheiați ziua într-un mod relaxant în verdele Parc Juliana, reflectând la numeroasele impresii ale acestui oraș fermecător de pe malul Meusei.",
+        "en": "Your day in Venlo begins at the historic Stadhuis, the heart of the city. In the morning, you'll stroll through Jodenstraat and to St. Martin's Church to soak up the local history. At noon, you'll relax on the Maasboulevard, enjoying the view and a delicious lunch. In the afternoon, immerse yourself in the region's culture at the Limburgs Museum. You'll end the day leisurely in the green Julianapark, reflecting on the many impressions of this charming city on the Meuse."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Limburgse vlaai",
+            "tip": "Probieren Sie diesen traditionellen Obstkuchen in einer örtlichen Bäckerei."
+          },
+          {
+            "name": "Mosterdsoep",
+            "tip": "Eine cremige Senfsuppe, eine lokale Spezialität."
+          },
+          {
+            "name": "Brouwerij de Klep",
+            "tip": "Ein großartiger Ort für lokale Biere und herzhafte Speisen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Limburgi vlaai",
+            "tip": "Kóstolja meg ezt a hagyományos gyümölcsös pitét egy helyi pékségben."
+          },
+          {
+            "name": "Mustárleves",
+            "tip": "Krémes mustárleves, helyi különlegesség."
+          },
+          {
+            "name": "Brouwerij de Klep",
+            "tip": "Remek hely a helyi sörök és kiadós ételek megkóstolásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Limburgse vlaai",
+            "tip": "Încercați această plăcintă tradițională cu fructe la o brutărie locală."
+          },
+          {
+            "name": "Mosterdsoep",
+            "tip": "O supă cremoasă de muștar, o specialitate locală."
+          },
+          {
+            "name": "Brouwerij de Klep",
+            "tip": "Un loc minunat pentru beri locale și mâncăruri consistente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Limburgse vlaai",
+            "tip": "Try this traditional fruit tart at a local bakery."
+          },
+          {
+            "name": "Mosterdsoep",
+            "tip": "A creamy mustard soup, a local specialty."
+          },
+          {
+            "name": "Brouwerij de Klep",
+            "tip": "A great spot for local beers and hearty food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Julianapark",
+            "tip": "Finden Sie eine ruhige Bank am Teich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer der Maas",
+            "tip": "Ein Spaziergang entlang des Flusses am frühen Morgen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Klostergarten in Steyl",
+            "tip": "Ein Ort der Stille und Besinnung, etwas außerhalb der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Julianna park",
+            "tip": "Keressen egy csendes padot a tó mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Maas partja",
+            "tip": "Séta a folyó mentén kora reggel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A steyli kolostorkert",
+            "tip": "A csend és az elmélkedés helye, kissé a városon kívül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Juliana",
+            "tip": "Găsiți o bancă liniștită lângă iaz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul râului Meuse",
+            "tip": "O plimbare de-a lungul râului dimineața devreme.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina mănăstirii din Steyl",
+            "tip": "Un loc de liniște și contemplare, puțin în afara orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Julianapark",
+            "tip": "Find a quiet bench by the pond.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Meuse",
+            "tip": "A walk along the river in the early morning.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Monastery garden in Steyl",
+            "tip": "A place of silence and contemplation, just outside the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Am Samstag auf dem Nolensplein für lokale Produkte und Spezialitäten."
+          },
+          {
+            "name": "Jodenstraat & Gasthuisstraat",
+            "tip": "Bekannt für ihre einzigartigen Boutiquen und Fachgeschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Szombaton a Nolenspleinen helyi termékekért és különlegességekért."
+          },
+          {
+            "name": "Jodenstraat és Gasthuisstraat",
+            "tip": "Egyedi butikjairól és szaküzleteiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Sâmbăta pe Nolensplein pentru produse locale și specialități."
+          },
+          {
+            "name": "Jodenstraat & Gasthuisstraat",
+            "tip": "Cunoscute pentru buticurile lor unice și magazinele de specialitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "On Saturday at Nolensplein for local produce and specialties."
+          },
+          {
+            "name": "Jodenstraat & Gasthuisstraat",
+            "tip": "Known for their unique boutiques and specialty shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und sehr gut zu Fuß erreichbar ist.",
+          "Die meisten Sehenswürdigkeiten sind nah beieinander, was einen entspannten Rundgang ermöglicht.",
+          "Halten Sie Ausschau nach den vielen Terrassen für eine Kaffeepause.",
+          "Ein Abstecher in die kleineren Gassen abseits der Hauptstraßen lohnt sich immer."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont kompakt és nagyon gyalogosbarát.",
+          "A legtöbb látnivaló közel van egymáshoz, ami lehetővé teszi a nyugodt sétát.",
+          "Figyeljen a számos teraszra egy kávészünethez.",
+          "Mindig megéri letérni a főutcákról a kisebb sikátorokba."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este compact și foarte prietenos cu pietonii.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă, permițând un tur relaxat.",
+          "Fiți atenți la numeroasele terase pentru o pauză de cafea.",
+          "Merită întotdeauna să vă abateți pe aleile mai mici de pe străzile principale."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is compact and very walkable.",
+          "Most sights are close to each other, allowing for a relaxed tour.",
+          "Look out for the many terraces for a coffee break.",
+          "A detour into the smaller alleys off the main streets is always worthwhile."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Maasboulevard",
+            "hu": "Maas-sétány",
+            "ro": "Promenada Maas",
+            "en": "Maasboulevard"
+          },
+          "coords": [
+            6.163,
+            51.3715
+          ],
+          "category": "promenades",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einer frischen Brise und einem Blick auf den Fluss.",
+            "hu": "Kezdje a napot friss szellővel és a folyóra nyíló kilátással.",
+            "ro": "Începeți ziua cu o briză proaspătă și o vedere la râu.",
+            "en": "Start the day with a fresh breeze and a view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadhuis und Marktplatz",
+            "hu": "Városháza és Piactér",
+            "ro": "Primăria și Piața",
+            "en": "City Hall and Market Square"
+          },
+          "coords": [
+            6.1695,
+            51.3702
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den belebten Platz zu Fuß.",
+            "hu": "Tegye le a biciklit, és fedezze fel gyalog a nyüzsgő teret.",
+            "ro": "Parcați bicicleta și explorați piața aglomerată pe jos.",
+            "en": "Park your bike and explore the bustling square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Limburgs Museum",
+            "hu": "Limburgi Múzeum",
+            "ro": "Muzeul Limburgs",
+            "en": "Limburgs Museum"
+          },
+          "coords": [
+            6.174,
+            51.367
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer direkt vor dem Museum.",
+            "hu": "A múzeum előtt közvetlenül vannak kerékpártárolók.",
+            "ro": "Există suporturi pentru biciclete chiar în fața muzeului.",
+            "en": "There are bike racks right in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Julianapark",
+            "hu": "Julianna park",
+            "ro": "Parcul Juliana",
+            "en": "Julianapark"
+          },
+          "coords": [
+            6.165,
+            51.365
+          ],
+          "category": "parks",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick-Mittagessen. Es gibt viele Radwege im und um den Park.",
+            "hu": "Ideális egy piknikebédhez. A parkban és környékén számos kerékpárút található.",
+            "ro": "Ideal pentru un prânz la picnic. Există multe piste de biciclete în și în jurul parcului.",
+            "en": "Ideal for a picnic lunch. There are many bike paths in and around the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosarium Venlo",
+            "hu": "Venlói Rózsakert",
+            "ro": "Rozariul din Venlo",
+            "en": "Rosarium Venlo"
+          },
+          "coords": [
+            6.178,
+            51.375
+          ],
+          "category": "parks",
+          "arrive_at": "15:25",
+          "stay_min": 65,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie es während der Blütezeit (Juni-August) für die schönste Aussicht.",
+            "hu": "Látogasson el virágzáskor (június-augusztus) a legszebb látványért.",
+            "ro": "Vizitați în timpul sezonului de înflorire (iunie-august) pentru cea mai frumoasă priveliște.",
+            "en": "Visit during the blooming season (June-August) for the most beautiful views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour in Venlo startet am malerischen Maasboulevard. Am Vormittag radeln Sie ins Herz der Stadt zum Stadhuis und zum Marktplatz, bevor Sie im Limburgs Museum tief in die Kultur eintauchen. Zur Mittagszeit erwartet Sie der Julianapark für eine entspannte Pause im Grünen, vielleicht mit einem Picknick. Der Nachmittag führt Sie durch die Stadt zum duftenden Rosarium, einem perfekten Ort, um die Farbenpracht zu genießen. Schließlich radeln Sie gemütlich zurück und lassen den Tag ausklingen.",
+        "hu": "A venlói kerékpártúra a festői Maas-sétányon kezdődik. Délelőtt a város szívébe, a Városházához és a Piactérre teker, mielőtt a Limburgi Múzeumban mélyen elmerülne a kultúrában. Délben a Julianna park várja egy nyugodt pihenőre a zöldben, talán egy piknikkel. A délután a városon keresztül az illatos Rózsakertbe vezet, amely tökéletes hely a színpompás látvány élvezetére. Végül kényelmesen visszateker, és lezárja a napot.",
+        "ro": "Turul dvs. cu bicicleta în Venlo începe pe pitorescul Maasboulevard. Dimineața, pedalați în inima orașului, la Primărie și în Piață, înainte de a vă adânci în cultură la Muzeul Limburgs. La prânz, Parcul Juliana vă așteaptă pentru o pauză relaxantă în verdeață, poate cu un picnic. După-amiaza vă duce prin oraș la Rozariul parfumat, un loc perfect pentru a vă bucura de splendoarea culorilor. În cele din urmă, pedalați înapoi pe îndelete și încheiați ziua.",
+        "en": "Your bike tour in Venlo starts on the picturesque Maasboulevard. In the morning, you'll cycle into the heart of the city to the City Hall and Market Square before delving deep into culture at the Limburgs Museum. At noon, Julianapark awaits you for a relaxing break in the green, perhaps with a picnic. The afternoon takes you through the city to the fragrant Rosarium, a perfect place to enjoy the splendor of colors. Finally, you'll cycle back leisurely and end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Take 5",
+            "tip": "Ein beliebter Ort für Sandwiches und leichte Mittagessen."
+          },
+          {
+            "name": "Grenswerk Eetcafé",
+            "tip": "Gute Atmosphäre und leckeres Essen neben dem Musik-Veranstaltungsort."
+          },
+          {
+            "name": "IJssalon Fantastico",
+            "tip": "Belohnen Sie sich nach der Radtour mit einem handwerklichen Eis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Take 5",
+            "tip": "Népszerű hely szendvicsekhez és könnyű ebédekhez."
+          },
+          {
+            "name": "Grenswerk Eetcafé",
+            "tip": "Jó hangulat és finom ételek a zenei helyszín mellett."
+          },
+          {
+            "name": "IJssalon Fantastico",
+            "tip": "Jutalmazza meg magát egy kézműves fagyival a biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Take 5",
+            "tip": "Un loc popular pentru sandvișuri și prânzuri ușoare."
+          },
+          {
+            "name": "Grenswerk Eetcafé",
+            "tip": "Atmosferă bună și mâncare gustoasă lângă sala de concerte."
+          },
+          {
+            "name": "IJssalon Fantastico",
+            "tip": "Recompensați-vă cu o înghețată artizanală după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Take 5",
+            "tip": "A popular spot for sandwiches and light lunches."
+          },
+          {
+            "name": "Grenswerk Eetcafé",
+            "tip": "Good atmosphere and tasty food next to the music venue."
+          },
+          {
+            "name": "IJssalon Fantastico",
+            "tip": "Reward yourself with an artisanal ice cream after the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosarium",
+            "tip": "Finden Sie eine Bank zwischen den Rosen und genießen Sie den Duft.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Radweg entlang der Maas",
+            "tip": "Außerhalb des Zentrums wird der Weg ruhiger.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arboretum de Groote Heide",
+            "tip": "Ein größerer Waldpark südlich der Stadt, ideal für eine längere, ruhige Radtour.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsakert",
+            "tip": "Keressen egy padot a rózsák között, és élvezze az illatot.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Kerékpárút a Maas mentén",
+            "tip": "A központon kívül az út csendesebbé válik.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arboretum de Groote Heide",
+            "tip": "Nagyobb erdőpark a várostól délre, ideális egy hosszabb, csendes kerékpártúrához.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rozariul",
+            "tip": "Găsiți o bancă printre trandafiri și bucurați-vă de parfum.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Pista de biciclete de-a lungul râului Meuse",
+            "tip": "În afara centrului, poteca devine mai liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arboretum de Groote Heide",
+            "tip": "Un parc forestier mai mare la sud de oraș, ideal pentru o plimbare mai lungă și liniștită cu bicicleta.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rosarium",
+            "tip": "Find a bench among the roses and enjoy the fragrance.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Bike path along the Meuse",
+            "tip": "Outside the center, the path becomes quieter.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arboretum de Groote Heide",
+            "tip": "A larger forest park south of the city, ideal for a longer, quiet bike ride.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Venlo hat mehrere gute Fahrradgeschäfte für Zubehör oder Reparaturen."
+          },
+          {
+            "name": "2 Brüder",
+            "tip": "Ein riesiger Supermarkt, der bei deutschen Besuchern sehr beliebt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Venloban több jó kerékpárbolt is található kiegészítőkért vagy javításokért."
+          },
+          {
+            "name": "2 Brüder",
+            "tip": "Hatalmas szupermarket, amely nagyon népszerű a német látogatók körében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Venlo are mai multe magazine bune de biciclete pentru accesorii sau reparații."
+          },
+          {
+            "name": "2 Brüder",
+            "tip": "Un supermarket uriaș, foarte popular printre vizitatorii germani."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "Venlo has several good bike shops for accessories or repairs."
+          },
+          {
+            "name": "2 Brüder",
+            "tip": "A huge supermarket very popular with German visitors."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Venlo ist sehr fahrradfreundlich, nutzen Sie die gut ausgebauten Radwege.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders im Stadtzentrum.",
+          "Achten Sie auf die 'Fietstraaten' (Fahrradstraßen), wo Radfahrer Vorrang haben.",
+          "Eine Radtour entlang der Maas bietet wunderschöne Ausblicke und eine flache Strecke."
+        ],
+        "hu": [
+          "Venlo nagyon biciklibarát, használja ki a jól kiépített kerékpárutakat.",
+          "Mindig jól zárja le a kerékpárját, különösen a városközpontban.",
+          "Figyeljen a 'Fietstraaten'-re (kerékpárutakra), ahol a kerékpárosoknak elsőbbségük van.",
+          "A Maas menti kerékpártúra gyönyörű kilátást és sík terepet kínál."
+        ],
+        "ro": [
+          "Venlo este foarte prietenos cu bicicletele, folosiți pistele de biciclete bine dezvoltate.",
+          "Legați-vă întotdeauna bicicleta bine, mai ales în centrul orașului.",
+          "Fiți atenți la 'Fietstraaten' (străzi pentru biciclete), unde bicicliștii au prioritate.",
+          "Un tur cu bicicleta de-a lungul râului Meuse oferă priveliști frumoase și un traseu plat."
+        ],
+        "en": [
+          "Venlo is very bike-friendly, take advantage of the well-developed cycle paths.",
+          "Always lock your bike securely, especially in the city center.",
+          "Pay attention to the 'Fietstraaten' (bicycle streets), where cyclists have priority.",
+          "A bike tour along the Meuse offers beautiful views and a flat route."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 12.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Klosterdorf Steyl",
+            "hu": "Steyl kolostorfalu",
+            "ro": "Satul mănăstiresc Steyl",
+            "en": "Monastery Village Steyl"
+          },
+          "coords": [
+            6.145,
+            51.335
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und erkunden Sie die drei verschiedenen Klöster und Gärten zu Fuß.",
+            "hu": "Parkolja le az autót, és fedezze fel gyalog a három különböző kolostort és kertet.",
+            "ro": "Parcați mașina și explorați pe jos cele trei mănăstiri și grădini diferite.",
+            "en": "Park your car and explore the three different monasteries and gardens on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Missiemuseum Steyl",
+            "hu": "Steyli Missziós Múzeum",
+            "ro": "Muzeul Misionar Steyl",
+            "en": "Mission Museum Steyl"
+          },
+          "coords": [
+            6.146,
+            51.336
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Parken am Maasboulevard",
+            "hu": "Parkolás a Maas-sétánynál",
+            "ro": "Parcare la Maasboulevard",
+            "en": "Parking at Maasboulevard"
+          },
+          "coords": [
+            6.1625,
+            51.372
+          ],
+          "category": "transport",
+          "arrive_at": "12:35",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang am Maasboulevard",
+            "hu": "Ebéd és séta a Maas-sétányon",
+            "ro": "Prânz și plimbare pe Maasboulevard",
+            "en": "Lunch and stroll on Maasboulevard"
+          },
+          "coords": [
+            6.163,
+            51.3715
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Stadhuis und Altstadt",
+            "hu": "Városháza és Óváros",
+            "ro": "Primăria și Centrul Vechi",
+            "en": "City Hall and Old Town"
+          },
+          "coords": [
+            6.1695,
+            51.3702
+          ],
+          "category": "old-town",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Museum van Bommel van Dam",
+            "hu": "Van Bommel van Dam Múzeum",
+            "ro": "Muzeul van Bommel van Dam",
+            "en": "Museum van Bommel van Dam"
+          },
+          "coords": [
+            6.175,
+            51.366
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer kurzen Fahrt zum spirituellen Klosterdorf Steyl. Parken Sie Ihr Auto und erkunden Sie diesen einzigartigen Ort zu Fuß. Am späten Vormittag fahren Sie zurück ins Zentrum von Venlo und parken am Maasboulevard für das Mittagessen und einen Spaziergang am Fluss. Am Nachmittag entdecken Sie, ebenfalls zu Fuß vom Parkplatz aus, das historische Herz der Stadt rund um das Stadhuis. Der Tag endet mit einer kurzen Fahrt zum Museum van Bommel van Dam, um moderne Kunst zu genießen, bevor Sie die Heimreise antreten.",
+        "hu": "A nap egy rövid autóúttal kezdődik a spirituális Steyl kolostorfaluhoz. Parkolja le autóját, és fedezze fel gyalog ezt az egyedülálló helyet. Késő délelőtt visszautazik Venlo központjába, és leparkol a Maas-sétánynál ebédelni és sétálni a folyóparton. Délután, szintén a parkolóból gyalogosan, felfedezi a város történelmi szívét a Városháza körül. A nap a Van Bommel van Dam Múzeumhoz tett rövid autóúttal zárul, ahol modern művészetet élvezhet, mielőtt hazaindulna.",
+        "ro": "Ziua dvs. începe cu o scurtă călătorie cu mașina spre satul mănăstiresc spiritual Steyl. Parcați mașina și explorați acest loc unic pe jos. Spre sfârșitul dimineții, vă întoarceți în centrul orașului Venlo și parcați pe Maasboulevard pentru prânz și o plimbare pe malul râului. După-amiaza, descoperiți, tot pe jos de la parcare, inima istorică a orașului în jurul Primăriei. Ziua se încheie cu o scurtă călătorie cu mașina la Muzeul van Bommel van Dam pentru a vă bucura de artă modernă înainte de a vă întoarce acasă.",
+        "en": "Your day begins with a short drive to the spiritual monastery village of Steyl. Park your car and explore this unique place on foot. In the late morning, you drive back to the center of Venlo and park at the Maasboulevard for lunch and a stroll along the river. In the afternoon, also on foot from the parking lot, you discover the historic heart of the city around the City Hall. The day ends with a short drive to the Museum van Bommel van Dam to enjoy modern art before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Valuas",
+            "tip": "Für ein gehobenes kulinarisches Erlebnis mit Michelin-Stern."
+          },
+          {
+            "name": "Brasserie de Witte",
+            "tip": "Klassische Gerichte in einem stilvollen Ambiente im Zentrum."
+          },
+          {
+            "name": "Eetcafé de Brök",
+            "tip": "Gemütliches und zwangloses Restaurant mit einer guten Auswahl an Bieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Valuas",
+            "tip": "Michelin-csillagos, felső kategóriás kulináris élményért."
+          },
+          {
+            "name": "Brasserie de Witte",
+            "tip": "Klasszikus ételek stílusos környezetben a központban."
+          },
+          {
+            "name": "Eetcafé de Brök",
+            "tip": "Hangulatos és laza étterem, jó sörválasztékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Valuas",
+            "tip": "Pentru o experiență culinară de lux, cu stea Michelin."
+          },
+          {
+            "name": "Brasserie de Witte",
+            "tip": "Mâncăruri clasice într-un cadru elegant în centru."
+          },
+          {
+            "name": "Eetcafé de Brök",
+            "tip": "Restaurant confortabil și informal, cu o selecție bună de beri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Valuas",
+            "tip": "For an upscale dining experience with a Michelin star."
+          },
+          {
+            "name": "Brasserie de Witte",
+            "tip": "Classic dishes in a stylish setting in the center."
+          },
+          {
+            "name": "Eetcafé de Brök",
+            "tip": "Cozy and casual restaurant with a good selection of beers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten Jochumhof, Steyl",
+            "tip": "Ein friedlicher Garten neben den Klöstern.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Maas-Fähre",
+            "tip": "Eine kurze, ruhige Überfahrt bietet eine andere Perspektive auf die Stadt.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Aussichtspunkt Kasteel Holtmühle",
+            "tip": "Etwas außerhalb gelegen, bietet es einen schönen Blick auf das Schloss und die Gärten.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jochumhof Botanikus Kert, Steyl",
+            "tip": "Békés kert a kolostorok mellett.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Maas-komp",
+            "tip": "Egy rövid, csendes átkelés más perspektívát nyújt a városra.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Kasteel Holtmühle kilátópont",
+            "tip": "Kissé kívül esik, szép kilátást nyújt a kastélyra és a kertekre.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică Jochumhof, Steyl",
+            "tip": "O grădină pașnică lângă mănăstiri.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Feribotul Meuse",
+            "tip": "O traversare scurtă și liniștită oferă o perspectivă diferită asupra orașului.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Punct de belvedere Kasteel Holtmühle",
+            "tip": "Situat puțin în afara orașului, oferă o priveliște frumoasă asupra castelului și grădinilor.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jochumhof Botanical Garden, Steyl",
+            "tip": "A peaceful garden next to the monasteries.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Meuse Ferry",
+            "tip": "A short, quiet crossing offers a different perspective of the city.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Kasteel Holtmühle viewpoint",
+            "tip": "Located just outside, it offers a beautiful view of the castle and gardens.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trefcenter Venlo",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand für alles, was man braucht."
+          },
+          {
+            "name": "Klosterläden in Steyl",
+            "tip": "Verkaufen religiöse Artefakte, Bücher und handgemachte Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trefcenter Venlo",
+            "tip": "Nagy bevásárlóközpont a város szélén mindenre, amire szüksége lehet."
+          },
+          {
+            "name": "Kolostorboltok Steylben",
+            "tip": "Vallási tárgyakat, könyveket és kézzel készített termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trefcenter Venlo",
+            "tip": "Un centru comercial mare la marginea orașului pentru tot ce aveți nevoie."
+          },
+          {
+            "name": "Magazinele mănăstirii din Steyl",
+            "tip": "Vând artefacte religioase, cărți și produse artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trefcenter Venlo",
+            "tip": "A large shopping center on the outskirts for everything you need."
+          },
+          {
+            "name": "Monastery shops in Steyl",
+            "tip": "Selling religious artifacts, books, and handmade products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus. Parkhäuser sind oft die beste Option.",
+          "Planen Sie genügend Zeit für den Verkehr ein, besonders an Einkaufstagen wie Samstagen.",
+          "Die 'Cluster-Walking'-Methode spart Zeit und Parkgebühren: Parken Sie einmal und erkunden Sie einen Bereich zu Fuß.",
+          "Ein Ausflug in die nahegelegenen Nationalparks De Maasduinen oder De Groote Peel ist ebenfalls eine gute Option für einen Tag."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat. A parkolóházak gyakran a legjobb megoldást jelentik.",
+          "Tervezzen elegendő időt a forgalomra, különösen a bevásárlónapokon, például szombaton.",
+          "A „csoportos séta” módszer időt és parkolási díjat takarít meg: parkoljon le egyszer, és fedezze fel a területet gyalog.",
+          "A közeli De Maasduinen vagy De Groote Peel nemzeti parkokba tett kirándulás szintén jó lehetőség egy napra."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele în avans. Parcajele multietajate sunt adesea cea mai bună opțiune.",
+          "Planificați suficient timp pentru trafic, în special în zilele de cumpărături, cum ar fi sâmbăta.",
+          "Metoda 'mers pe jos în grup' economisește timp și taxe de parcare: parcați o dată și explorați o zonă pe jos.",
+          "O excursie la parcurile naționale din apropiere, De Maasduinen sau De Groote Peel, este, de asemenea, o opțiune bună pentru o zi."
+        ],
+        "en": [
+          "Check parking options and fees in advance. Multi-story car parks are often the best option.",
+          "Allow enough time for traffic, especially on shopping days like Saturdays.",
+          "The 'cluster-walking' method saves time and parking fees: park once and explore an area on foot.",
+          "A trip to the nearby national parks De Maasduinen or De Groote Peel is also a great option for a day."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Venlo",
+            "hu": "Érkezés a venlói vasútállomásra",
+            "ro": "Sosire la Gara Venlo",
+            "en": "Arrival at Venlo Station"
+          },
+          "coords": [
+            6.175,
+            51.3665
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Limburgs Museum",
+            "hu": "Limburgi Múzeum",
+            "ro": "Muzeul Limburgs",
+            "en": "Limburgs Museum"
+          },
+          "coords": [
+            6.174,
+            51.367
+          ],
+          "category": "museums",
+          "arrive_at": "09:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Stadhuis und Altstadt",
+            "hu": "Városháza és Óváros",
+            "ro": "Primăria și Centrul Vechi",
+            "en": "City Hall and Old Town"
+          },
+          "coords": [
+            6.1695,
+            51.3702
+          ],
+          "category": "old-town",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Maasboulevard",
+            "hu": "Ebéd a Maas-sétányon",
+            "ro": "Prânz pe Maasboulevard",
+            "en": "Lunch at Maasboulevard"
+          },
+          "coords": [
+            6.163,
+            51.3715
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Klosterdorf Steyl",
+            "hu": "Utazás Steyl kolostorfaluba",
+            "ro": "Călătorie spre Satul mănăstiresc Steyl",
+            "en": "Trip to Monastery Village Steyl"
+          },
+          "coords": [
+            6.145,
+            51.335
+          ],
+          "category": "historical",
+          "arrive_at": "14:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Grenswerk",
+            "hu": "Grenswerk",
+            "ro": "Grenswerk",
+            "en": "Grenswerk"
+          },
+          "coords": [
+            6.1755,
+            51.3655
+          ],
+          "category": "cultural centres",
+          "arrive_at": "17:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm für ein Abendkonzert oder eine Veranstaltung.",
+            "hu": "Nézze meg a programot egy esti koncertért vagy eseményért.",
+            "ro": "Verificați programul pentru un concert sau eveniment de seară.",
+            "en": "Check the schedule for an evening concert or event."
+          },
+          "hop_mode": "transit"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln startet am Bahnhof Venlo. Beginnen Sie mit einem Spaziergang zum nahegelegenen Limburgs Museum. Vormittags erkunden Sie die Altstadt und das Stadhuis, bevor Sie am Maasboulevard zu Mittag essen. Am Nachmittag nehmen Sie den Bus zum ruhigen Klosterdorf Steyl, einem Ort der Besinnung und Geschichte. Nach Ihrer Rückkehr ins Zentrum können Sie den Tag im Kulturzentrum Grenswerk ausklingen lassen, das sich praktischerweise wieder in der Nähe des Bahnhofs befindet.",
+        "hu": "A tömegközlekedési túra a venlói vasútállomáson kezdődik. Kezdje egy sétával a közeli Limburgi Múzeumba. Délelőtt fedezze fel az Óvárost és a Városházát, mielőtt megebédelne a Maas-sétányon. Délután busszal utazzon a csendes Steyl kolostorfaluba, az elmélkedés és a történelem helyszínére. Miután visszatért a központba, a napot a Grenswerk kulturális központban zárhatja, amely kényelmesen, ismét a vasútállomás közelében található.",
+        "ro": "Turul dvs. cu transportul public începe la Gara Venlo. Începeți cu o plimbare la Muzeul Limburgs din apropiere. Dimineața, explorați Centrul Vechi și Primăria înainte de a lua prânzul pe Maasboulevard. După-amiaza, luați autobuzul spre liniștitul sat mănăstiresc Steyl, un loc de contemplație și istorie. La întoarcerea în centru, puteți încheia ziua la centrul cultural Grenswerk, situat convenabil din nou lângă gară.",
+        "en": "Your public transport tour starts at Venlo Station. Begin with a walk to the nearby Limburgs Museum. In the morning, explore the Old Town and the City Hall before having lunch on the Maasboulevard. In the afternoon, take the bus to the tranquil monastery village of Steyl, a place of contemplation and history. Upon returning to the center, you can end the day at the Grenswerk cultural center, conveniently located near the station again."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stationshuiskamer",
+            "tip": "Praktisch für einen Kaffee und einen Snack direkt am Bahnhof."
+          },
+          {
+            "name": "Foodhall MOUT",
+            "tip": "Eine Sammlung von Street-Food-Ständen, ideal für eine abwechslungsreiche Mahlzeit."
+          },
+          {
+            "name": "Bij de Buren",
+            "tip": "Ein beliebtes Restaurant mit einer schönen Terrasse im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stationshuiskamer",
+            "tip": "Praktikus egy kávéra és egy snackre közvetlenül az állomáson."
+          },
+          {
+            "name": "Foodhall MOUT",
+            "tip": "Street food standok gyűjteménye, ideális egy változatos étkezéshez."
+          },
+          {
+            "name": "Bij de Buren",
+            "tip": "Népszerű étterem szép terasszal a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stationshuiskamer",
+            "tip": "Practic pentru o cafea și o gustare chiar la gară."
+          },
+          {
+            "name": "Foodhall MOUT",
+            "tip": "O colecție de standuri de mâncare stradală, ideală pentru o masă variată."
+          },
+          {
+            "name": "Bij de Buren",
+            "tip": "Un restaurant popular cu o terasă frumoasă în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stationshuiskamer",
+            "tip": "Convenient for a coffee and a snack right at the station."
+          },
+          {
+            "name": "Foodhall MOUT",
+            "tip": "A collection of street food stalls, ideal for a varied meal."
+          },
+          {
+            "name": "Bij de Buren",
+            "tip": "A popular restaurant with a nice terrace in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lesegarten der Stadtbibliothek",
+            "tip": "Ein verstecktes Juwel der Ruhe im Stadtzentrum.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Wilhelminapark",
+            "tip": "Ein weiterer schöner, oft übersehener Park für eine ruhige Pause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Busfahrt durch die Landschaft",
+            "tip": "Die Fahrt nach Steyl führt durch ländliche Gebiete und bietet eine entspannende Aussicht.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Könyvtár olvasókertje",
+            "tip": "A nyugalom rejtett gyöngyszeme a városközpontban.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Wilhelminapark",
+            "tip": "Egy másik szép, gyakran figyelmen kívül hagyott park egy csendes pihenőhöz.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Buszozás a vidéken",
+            "tip": "A Steylbe vezető út vidéki területeken halad keresztül, és pihentető kilátást nyújt.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de lectură a Bibliotecii Orășenești",
+            "tip": "O bijuterie ascunsă de liniște în centrul orașului.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Parcul Wilhelmina",
+            "tip": "Un alt parc frumos, adesea trecut cu vederea, pentru o pauză liniștită.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Călătorie cu autobuzul prin peisajul rural",
+            "tip": "Drumul spre Steyl trece prin zone rurale și oferă o priveliște relaxantă.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Library Reading Garden",
+            "tip": "A hidden gem of tranquility in the city center.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Wilhelminapark",
+            "tip": "Another beautiful, often overlooked park for a quiet break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Bus ride through the countryside",
+            "tip": "The drive to Steyl passes through rural areas, offering a relaxing view.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Maasboulevard Geschäfte",
+            "tip": "Eine Mischung aus großen Marken und kleineren Läden direkt am Wasser."
+          },
+          {
+            "name": "Vleesstraat",
+            "tip": "Die Haupteinkaufsstraße von Venlo mit einer großen Auswahl an Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maas-sétány üzletei",
+            "tip": "Nagy márkák és kisebb boltok keveréke közvetlenül a vízparton."
+          },
+          {
+            "name": "Vleesstraat",
+            "tip": "Venlo fő bevásárlóutcája, széles üzletválasztékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe Maasboulevard",
+            "tip": "Un amestec de mărci mari și magazine mai mici chiar pe malul apei."
+          },
+          {
+            "name": "Vleesstraat",
+            "tip": "Principala stradă comercială din Venlo, cu o mare varietate de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maasboulevard shops",
+            "tip": "A mix of big brands and smaller shops right on the waterfront."
+          },
+          {
+            "name": "Vleesstraat",
+            "tip": "Venlo's main shopping street with a wide variety of stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine OV-chipkaart oder eine Tageskarte für eine kostengünstige Nutzung der öffentlichen Verkehrsmittel.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders für die Fahrt nach Steyl.",
+          "Die meisten Busse in den Niederlanden sind bargeldlos, stellen Sie sicher, dass Sie eine Karte zum Bezahlen haben.",
+          "Vom Bahnhof aus ist das Stadtzentrum leicht zu Fuß erreichbar, was den Beginn und das Ende der Tour sehr bequem macht."
+        ],
+        "hu": [
+          "Vásároljon OV-chipkaartot vagy napijegyet a tömegközlekedés költséghatékony használatához.",
+          "Előre ellenőrizze a buszmenetrendeket, különösen a Steylbe tartó úthoz.",
+          "A legtöbb holland busz készpénzmentes, győződjön meg róla, hogy van kártyája a fizetéshez.",
+          "A vasútállomásról a városközpont könnyen elérhető gyalog, ami nagyon kényelmessé teszi a túra kezdetét és végét."
+        ],
+        "ro": [
+          "Cumpărați un OV-chipkaart sau un bilet de o zi pentru o utilizare eficientă a transportului public.",
+          "Verificați din timp orarele autobuzelor, în special pentru călătoria spre Steyl.",
+          "Majoritatea autobuzelor din Olanda nu acceptă numerar, asigurați-vă că aveți un card pentru plată.",
+          "De la gară, centrul orașului este ușor accesibil pe jos, ceea ce face începutul și sfârșitul turului foarte convenabile."
+        ],
+        "en": [
+          "Buy an OV-chipkaart or a day ticket for cost-effective use of public transport.",
+          "Check the bus schedules in advance, especially for the trip to Steyl.",
+          "Most buses in the Netherlands are cashless, make sure you have a card to pay.",
+          "From the train station, the city center is easily accessible on foot, making the start and end of the tour very convenient."
+        ]
+      }
+    }
+  }
+}

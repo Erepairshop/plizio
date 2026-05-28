@@ -1,0 +1,1493 @@
+{
+  "city_id": "croatia-slavonski-brod-cities-v2",
+  "anchor": {
+    "name": "Slavonski Brod",
+    "coords": [
+      18.0116,
+      45.1631
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ivana Brlić-Mažuranić Platz",
+            "hu": "Ivana Brlić-Mažuranić tér",
+            "ro": "Piața Ivana Brlić-Mažuranić",
+            "en": "Ivana Brlić-Mažuranić Square"
+          },
+          "coords": [
+            18.0142,
+            45.1578
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a téren található számos kávézó egyikében.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
+            "en": "Start your day with a coffee at one of the many cafés lining the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Familie Brlić",
+            "hu": "Brlić Család Háza",
+            "ro": "Casa Familiei Brlić",
+            "en": "Brlić Family House"
+          },
+          "coords": [
+            18.0148,
+            45.1575
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die architektonischen Details der Fassade dieses historischen Hauses.",
+            "hu": "Figyelje meg ennek a történelmi háznak a homlokzatának építészeti részleteit.",
+            "ro": "Observați detaliile arhitecturale ale fațadei acestei case istorice.",
+            "en": "Pay attention to the architectural details on the facade of this historic house."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            18.0166,
+            45.1565
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Innenhof des Klosters ist eine Oase der Ruhe.",
+            "hu": "A kolostor belső udvara a nyugalom oázisa.",
+            "ro": "Curtea interioară a mănăstirii este o oază de liniște.",
+            "en": "The inner courtyard of the monastery is an oasis of tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Brod",
+            "hu": "Brodi vár",
+            "ro": "Cetatea Brod",
+            "en": "Brod Fortress"
+          },
+          "coords": [
+            18.0061,
+            45.1581
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die riesigen Dimensionen dieser Vauban-Festung zu erkunden.",
+            "hu": "Szánjon időt e Vauban-típusú erőd hatalmas méreteinek felfedezésére.",
+            "ro": "Acordați-vă timp pentru a explora dimensiunile vaste ale acestei fortărețe de tip Vauban.",
+            "en": "Take your time to explore the vast dimensions of this Vauban-type fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Brod-Posavina",
+            "hu": "Brod-Posavina Múzeum",
+            "ro": "Muzeul regiunii Brod-Posavina",
+            "en": "Museum of Brod-Posavina"
+          },
+          "coords": [
+            18.0082,
+            45.1585
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die archäologische Abteilung zeigt Funde aus der Römerzeit.",
+            "hu": "A régészeti osztály a római korból származó leleteket mutatja be.",
+            "ro": "Secția arheologică prezintă artefacte din perioada romană.",
+            "en": "The archaeological department displays finds from the Roman era."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Stephan",
+            "hu": "Szent István templom",
+            "ro": "Biserica Sfântul Ștefan",
+            "en": "Church of St. Stephen"
+          },
+          "coords": [
+            18.019,
+            45.1545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beachten Sie die modernen Glasfenster, die einen Kontrast zur älteren Struktur bilden.",
+            "hu": "Figyelje meg a modern ólomüveg ablakokat, amelyek kontrasztot alkotnak a régebbi szerkezettel.",
+            "ro": "Observați vitraliile moderne care contrastează cu structura mai veche.",
+            "en": "Notice the modern stained-glass windows that contrast with the older structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Sava-Promenade",
+            "hu": "Száva-sétány",
+            "ro": "Promenada de pe malul râului Sava",
+            "en": "Sava Promenade"
+          },
+          "coords": [
+            18.016,
+            45.155
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag bei einem Spaziergang entlang des Flusses ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap befejezéséhez egy folyóparti sétával.",
+            "ro": "Locul perfect pentru a încheia ziua cu o plimbare de-a lungul râului.",
+            "en": "The perfect place to end the day with a stroll along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag beginnt am lebhaften Ivana Brlić-Mažuranić Platz und führt zum historischen Haus der Brlić-Familie und dem ruhigen Franziskanerkloster. Am Mittag tauchen Sie in die Militärgeschichte der Festung Brod ein, gefolgt von den archäologischen Schätzen im Museum der Brod-Posavina. Der Nachmittag wird entspannter mit einem Besuch der St.-Stephans-Kirche. Der Tag endet mit einem ausgedehnten Spaziergang entlang der malerischen Sava-Promenade, wo Sie die Abendstimmung am Fluss genießen.",
+        "hu": "A délelőtt az élettel teli Ivana Brlić-Mažuranić téren indul, majd a történelmi Brlić-házhoz és a csendes ferences kolostorhoz vezet. Délben elmerülhet a brodi vár katonai történelmében, majd a Brod-Posavina Múzeum régészeti kincseit fedezheti fel. A délután lazább programot kínál a Szent István-templom meglátogatásával. A nap egy hosszú sétával zárul a festői Száva-sétányon, ahol élvezheti az esti hangulatot a folyóparton.",
+        "ro": "Dimineața începe în vibranta Piață Ivana Brlić-Mažuranić și continuă cu vizite la casa istorică a familiei Brlić și la liniștita Mănăstire Franciscană. La prânz, vă veți cufunda în istoria militară la Cetatea Brod, urmată de comorile arheologice de la Muzeul Brod-Posavina. După-amiaza este mai relaxantă, cu o vizită la Biserica Sfântul Ștefan. Ziua se încheie cu o plimbare lungă pe pitoreasca promenadă de pe malul Savei, bucurându-vă de atmosfera de seară de lângă râu.",
+        "en": "The morning starts at the lively Ivana Brlić-Mažuranić Square, leading to the historic Brlić Family House and the tranquil Franciscan Monastery. At midday, immerse yourself in military history at the Brod Fortress, followed by the archaeological treasures in the Museum of Brod-Posavina. The afternoon is more relaxed with a visit to St. Stephen's Church. The day concludes with a long stroll along the scenic Sava Promenade, enjoying the evening atmosphere by the river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "Ein würziger Fischeintopf, eine Spezialität der Region. Probieren Sie ihn im Restaurant 'Uno'."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Eine berühmte kroatische Paprikawurst. Kaufen Sie sie auf dem lokalen Markt."
+          },
+          {
+            "name": "Flussfisch",
+            "tip": "Frisch gegrillter Fisch aus der Save, serviert in vielen Restaurants an der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "Fűszeres halpaprikás, a régió specialitása. Kóstolja meg az 'Uno' étteremben."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Híres horvát paprikás kolbász. Vásárolja meg a helyi piacon."
+          },
+          {
+            "name": "Folyami hal",
+            "tip": "Frissen grillezett hal a Szávából, amelyet számos sétány menti étteremben szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "O tocană de pește picantă, o specialitate a regiunii. Încercați-o la restaurantul 'Uno'."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Un cârnat croat celebru, cu boia. Cumpărați-l de la piața locală."
+          },
+          {
+            "name": "Pește de râu",
+            "tip": "Pește proaspăt la grătar din râul Sava, servit la multe restaurante de pe promenadă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "A spicy fish stew, a specialty of the region. Try it at restaurant 'Uno'."
+          },
+          {
+            "name": "Kulen",
+            "tip": "A famous Croatian paprika sausage. Buy it at the local market."
+          },
+          {
+            "name": "River fish",
+            "tip": "Freshly grilled fish from the Sava river, served in many restaurants along the promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sava-Promenade am Abend",
+            "tip": "Finden Sie eine Bank und beobachten Sie den Sonnenuntergang über dem Fluss.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innenhof des Franziskanerklosters",
+            "tip": "Ein versteckter, ruhiger Ort mitten in der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Innerhalb der Festungsmauern",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Ecken mit Blick auf die alten Bastionen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Száva-sétány este",
+            "tip": "Keressen egy padot, és nézze a naplementét a folyó felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A ferences kolostor udvara",
+            "tip": "Egy rejtett, csendes hely a város közepén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az erőd falain belül",
+            "tip": "A fő utaktól távol csendes sarkokat talál, ahonnan kilátás nyílik a régi bástyákra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Sava seara",
+            "tip": "Găsiți o bancă și priviți apusul peste râu.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea mănăstirii franciscane",
+            "tip": "Un loc ascuns și liniștit în mijlocul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "În interiorul zidurilor cetății",
+            "tip": "Departe de căile principale, veți găsi colțuri liniștite cu vedere la vechile bastioane.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sava Promenade in the evening",
+            "tip": "Find a bench and watch the sunset over the river.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of the Franciscan Monastery",
+            "tip": "A hidden, quiet spot in the middle of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Inside the fortress walls",
+            "tip": "Away from the main paths, you'll find quiet corners with views of the old bastions.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stadtmarkt",
+            "tip": "Kaufen Sie lokale Produkte, Honig und den berühmten Kulen."
+          },
+          {
+            "name": "Souvenirladen in der Festung",
+            "tip": "Finden Sie handgefertigte Souvenirs mit Bezug zur Geschichte der Festung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi piac",
+            "tip": "Vásároljon helyi termékeket, mézet és a híres kulent."
+          },
+          {
+            "name": "Ajándékbolt az erődben",
+            "tip": "Találjon kézzel készített ajándéktárgyakat, amelyek az erőd történetéhez kapcsolódnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața orașului",
+            "tip": "Cumpărați produse locale, miere și celebrul kulen."
+          },
+          {
+            "name": "Magazin de suveniruri din cetate",
+            "tip": "Găsiți suveniruri artizanale legate de istoria cetății."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Market",
+            "tip": "Shop for local produce, honey, and the famous kulen."
+          },
+          {
+            "name": "Fortress Souvenir Shop",
+            "tip": "Find handmade souvenirs related to the fortress's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, planen Sie also einen gemütlichen Tag ein.",
+          "Einige Museen könnten montags geschlossen sein, überprüfen Sie die Öffnungszeiten im Voraus.",
+          "Halten Sie Bargeld für kleinere Einkäufe auf dem Markt bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek az óvárosban egyenetlenek lehetnek.",
+          "A legtöbb látnivaló gyalogosan elérhető, ezért tervezzen egy kényelmes napot.",
+          "Néhány múzeum hétfőn zárva tarthat, ezért előre ellenőrizze a nyitvatartási időt.",
+          "Készítsen készpénzt a piacon történő kisebb vásárlásokhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor sunt accesibile pe jos, așa că planificați o zi relaxantă.",
+          "Unele muzee pot fi închise lunea, verificați programul în avans.",
+          "Aveți la dumneavoastră numerar pentru cumpărături mici la piață."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights are within walking distance, so plan for a leisurely day.",
+          "Some museums might be closed on Mondays, check their opening hours in advance.",
+          "Keep some cash handy for small purchases at the market."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 6.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ivana Brlić-Mažuranić Platz",
+            "hu": "Ivana Brlić-Mažuranić tér",
+            "ro": "Piața Ivana Brlić-Mažuranić",
+            "en": "Ivana Brlić-Mažuranić Square"
+          },
+          "coords": [
+            18.0142,
+            45.1578
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, amíg felfedezi a teret.",
+            "ro": "Asigurați-vă bicicleta în timp ce explorați piața.",
+            "en": "Lock your bike securely while exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            18.0166,
+            45.1565
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:34",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die kurze Fahrt vom Hauptplatz zum Kloster.",
+            "hu": "Élvezze a rövid utat a főtértől a kolostorig.",
+            "ro": "Bucurați-vă de scurta plimbare cu bicicleta de la piața principală la mănăstire.",
+            "en": "Enjoy the short ride from the main square to the monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Brod",
+            "hu": "Brodi vár",
+            "ro": "Cetatea Brod",
+            "en": "Brod Fortress"
+          },
+          "coords": [
+            18.0061,
+            45.1581
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Das Fahrradfahren auf den Wällen ist nicht gestattet, aber es gibt genügend Abstellplätze.",
+            "hu": "A sáncokon nem szabad kerékpározni, de rengeteg kerékpártároló van.",
+            "ro": "Mersul pe bicicletă pe metereze nu este permis, dar există suficiente locuri de parcare.",
+            "en": "Cycling on the ramparts is not allowed, but there are plenty of bike racks."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Brod-Posavina",
+            "hu": "Brod-Posavina Múzeum",
+            "ro": "Muzeul regiunii Brod-Posavina",
+            "en": "Museum of Brod-Posavina"
+          },
+          "coords": [
+            18.0082,
+            45.1585
+          ],
+          "category": "museums",
+          "arrive_at": "11:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch der Festung direkt mit dem Museum, das sich in unmittelbarer Nähe befindet.",
+            "hu": "Kombinálja a várlátogatást közvetlenül a közeli múzeummal.",
+            "ro": "Combinați vizita la cetate direct cu muzeul, care este situat în imediata apropiere.",
+            "en": "Combine the fortress visit directly with the museum, located very close by."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der ersten Lokomotive",
+            "hu": "Az első mozdony emlékműve",
+            "ro": "Monumentul primei locomotive",
+            "en": "Monument to the first locomotive"
+          },
+          "coords": [
+            18.025,
+            45.161
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Fotostopp, um die industrielle Vergangenheit der Stadt zu würdigen.",
+            "hu": "Egy gyors fotómegálló, hogy tisztelegjünk a város ipari múltja előtt.",
+            "ro": "O scurtă oprire pentru fotografii pentru a onora trecutul industrial al orașului.",
+            "en": "A quick photo stop to appreciate the city's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Stephan",
+            "hu": "Szent István templom",
+            "ro": "Biserica Sfântul Ștefan",
+            "en": "Church of St. Stephen"
+          },
+          "coords": [
+            18.019,
+            45.1545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:38",
+          "stay_min": 30,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt durch ruhigere Straßen zu dieser Kirche.",
+            "hu": "Kellemes utazás csendesebb utcákon keresztül ehhez a templomhoz.",
+            "ro": "O plimbare plăcută pe străzi mai liniștite până la această biserică.",
+            "en": "A pleasant ride through quieter streets to reach this church."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Familie Brlić",
+            "hu": "Brlić Család Háza",
+            "ro": "Casa Familiei Brlić",
+            "en": "Brlić Family House"
+          },
+          "coords": [
+            18.0148,
+            45.1575
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Radfahren Sie zurück ins Zentrum, um das Haus der berühmten Schriftstellerin zu sehen.",
+            "hu": "Kerékpározzon vissza a központba, hogy megnézze a híres írónő házát.",
+            "ro": "Întoarceți-vă cu bicicleta în centru pentru a vedea casa faimoasei scriitoare.",
+            "en": "Cycle back towards the center to see the house of the famous writer."
+          }
+        },
+        {
+          "name": {
+            "de": "Sava-Promenade",
+            "hu": "Száva-sétány",
+            "ro": "Promenada de pe malul râului Sava",
+            "en": "Sava Promenade"
+          },
+          "coords": [
+            18.016,
+            45.155
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:57",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Die Promenade ist ideal für eine lange, entspannte Radtour am Nachmittag.",
+            "hu": "A sétány ideális egy hosszú, pihentető délutáni kerékpártúrához.",
+            "ro": "Promenada este ideală pentru o plimbare lungă și relaxantă cu bicicleta după-amiaza.",
+            "en": "The promenade is ideal for a long, relaxing afternoon bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag auf zwei Rädern beginnt am zentralen Platz, bevor eine kurze Fahrt zum Franziskanerkloster führt. Am Vormittag erkunden Sie die gewaltige Festung Brod und das darin befindliche Museum. Nach dem Mittagessen führt die Route zum Denkmal der ersten Lokomotive und zur St.-Stephans-Kirche, die die industrielle und sakrale Seite der Stadt zeigen. Der Nachmittag klingt mit einer entspannten Fahrt zurück ins Zentrum zum Brlić-Haus und einer ausgedehnten Tour entlang der Sava-Promenade aus.",
+        "hu": "A kétkeréken töltött nap a központi téren kezdődik, mielőtt egy rövid út a ferences kolostorhoz vezetne. Délelőtt felfedezheti a hatalmas Brodi várat és a benne található múzeumot. Ebéd után az útvonal az első mozdony emlékművéhez és a Szent István-templomhoz vezet, amelyek a város ipari és szakrális oldalát mutatják be. A délután egy laza visszaúttal zárul a központba a Brlić-házhoz, majd egy hosszú túrával a Száva-sétány mentén.",
+        "ro": "Ziua pe două roți începe în piața centrală, înainte de o scurtă plimbare la Mănăstirea Franciscană. În cursul dimineții, explorați impunătoarea Cetate Brod și muzeul său. După prânz, traseul duce la Monumentul primei locomotive și la Biserica Sf. Ștefan, arătând latura industrială și sacră a orașului. După-amiaza se încheie cu o plimbare relaxată înapoi în centru, la Casa Brlić, și un tur extins de-a lungul promenadei de pe malul Savei.",
+        "en": "The day on two wheels starts at the central square before a short ride to the Franciscan Monastery. In the morning, you'll explore the massive Brod Fortress and its museum. After lunch, the route takes you to the monument of the first locomotive and St. Stephen's Church, showcasing the city's industrial and sacred sides. The afternoon concludes with a relaxed ride back to the center to the Brlić House and an extended tour along the Sava Promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "Ein würziger Fischeintopf, eine Spezialität der Region. Probieren Sie ihn im Restaurant 'Uno'."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Eine berühmte kroatische Paprikawurst. Kaufen Sie sie auf dem lokalen Markt."
+          },
+          {
+            "name": "Flussfisch",
+            "tip": "Frisch gegrillter Fisch aus der Save, serviert in vielen Restaurants an der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "Fűszeres halpaprikás, a régió specialitása. Kóstolja meg az 'Uno' étteremben."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Híres horvát paprikás kolbász. Vásárolja meg a helyi piacon."
+          },
+          {
+            "name": "Folyami hal",
+            "tip": "Frissen grillezett hal a Szávából, amelyet számos sétány menti étteremben szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "O tocană de pește picantă, o specialitate a regiunii. Încercați-o la restaurantul 'Uno'."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Un cârnat croat celebru, cu boia. Cumpărați-l de la piața locală."
+          },
+          {
+            "name": "Pește de râu",
+            "tip": "Pește proaspăt la grătar din râul Sava, servit la multe restaurante de pe promenadă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "A spicy fish stew, a specialty of the region. Try it at restaurant 'Uno'."
+          },
+          {
+            "name": "Kulen",
+            "tip": "A famous Croatian paprika sausage. Buy it at the local market."
+          },
+          {
+            "name": "River fish",
+            "tip": "Freshly grilled fish from the Sava river, served in many restaurants along the promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sava-Promenade am Abend",
+            "tip": "Finden Sie eine Bank und beobachten Sie den Sonnenuntergang über dem Fluss.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innenhof des Franziskanerklosters",
+            "tip": "Ein versteckter, ruhiger Ort mitten in der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Innerhalb der Festungsmauern",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Ecken mit Blick auf die alten Bastionen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Száva-sétány este",
+            "tip": "Keressen egy padot, és nézze a naplementét a folyó felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A ferences kolostor udvara",
+            "tip": "Egy rejtett, csendes hely a város közepén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az erőd falain belül",
+            "tip": "A fő utaktól távol csendes sarkokat talál, ahonnan kilátás nyílik a régi bástyákra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Sava seara",
+            "tip": "Găsiți o bancă și priviți apusul peste râu.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea mănăstirii franciscane",
+            "tip": "Un loc ascuns și liniștit în mijlocul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "În interiorul zidurilor cetății",
+            "tip": "Departe de căile principale, veți găsi colțuri liniștite cu vedere la vechile bastioane.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sava Promenade in the evening",
+            "tip": "Find a bench and watch the sunset over the river.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of the Franciscan Monastery",
+            "tip": "A hidden, quiet spot in the middle of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Inside the fortress walls",
+            "tip": "Away from the main paths, you'll find quiet corners with views of the old bastions.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stadtmarkt",
+            "tip": "Kaufen Sie lokale Produkte, Honig und den berühmten Kulen."
+          },
+          {
+            "name": "Souvenirladen in der Festung",
+            "tip": "Finden Sie handgefertigte Souvenirs mit Bezug zur Geschichte der Festung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi piac",
+            "tip": "Vásároljon helyi termékeket, mézet és a híres kulent."
+          },
+          {
+            "name": "Ajándékbolt az erődben",
+            "tip": "Találjon kézzel készített ajándéktárgyakat, amelyek az erőd történetéhez kapcsolódnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața orașului",
+            "tip": "Cumpărați produse locale, miere și celebrul kulen."
+          },
+          {
+            "name": "Magazin de suveniruri din cetate",
+            "tip": "Găsiți suveniruri artizanale legate de istoria cetății."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Market",
+            "tip": "Shop for local produce, honey, and the famous kulen."
+          },
+          {
+            "name": "Fortress Souvenir Shop",
+            "tip": "Find handmade souvenirs related to the fortress's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen und Reifen.",
+          "Die Sava-Promenade hat einen ausgezeichneten Radweg.",
+          "Achten Sie in der Innenstadt auf Fußgänger.",
+          "Ein Fahrradschloss ist unerlässlich, wenn Sie Sehenswürdigkeiten besuchen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "A Száva-sétányon kiváló kerékpárút található.",
+          "A belvárosban figyeljen a gyalogosokra.",
+          "A kerékpárzár elengedhetetlen a látnivalók megtekintésekor."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Promenada Sava are o pistă de biciclete excelentă.",
+          "Fiți atenți la pietoni în centrul orașului.",
+          "Un lacăt pentru bicicletă este esențial atunci când vizitați obiectivele turistice."
+        ],
+        "en": [
+          "Check your bike before you set off, especially the brakes and tires.",
+          "The Sava Promenade has an excellent bike path.",
+          "Be mindful of pedestrians in the city center.",
+          "A bike lock is essential when you're visiting sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Ivana Brlić-Mažuranić Platz",
+            "hu": "Központ Klaszter: Ivana Brlić-Mažuranić tér",
+            "ro": "Cluster Centru: Piața Ivana Brlić-Mažuranić",
+            "en": "Center Cluster: Ivana Brlić-Mažuranić Square"
+          },
+          "coords": [
+            18.0142,
+            45.1578
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie Ihren Rundgang hier.",
+            "hu": "Parkoljon a közelben, és itt kezdje a sétát.",
+            "ro": "Parcați în apropiere și începeți turul pietonal de aici.",
+            "en": "Park nearby and start your walking tour here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Franziskanerkloster",
+            "hu": "Központ Klaszter: Ferences kolostor",
+            "ro": "Cluster Centru: Mănăstirea Franciscană",
+            "en": "Center Cluster: Franciscan Monastery"
+          },
+          "coords": [
+            18.0166,
+            45.1565
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz zu diesem spirituellen Ort.",
+            "hu": "Egy rövid séta a főtértől ehhez a spirituális helyhez.",
+            "ro": "O scurtă plimbare de la piața principală la acest loc spiritual.",
+            "en": "A short walk from the main square to this spiritual place."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Festung: Festung Brod",
+            "hu": "Erőd Klaszter: Brodi vár",
+            "ro": "Cluster Cetate: Cetatea Brod",
+            "en": "Fortress Cluster: Brod Fortress"
+          },
+          "coords": [
+            18.0061,
+            45.1581
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:23",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum großen Parkplatz der Festung. Von hier aus erkunden Sie zu Fuß.",
+            "hu": "Hajtson az erőd nagy parkolójához. Innen gyalogosan fedezze fel a környéket.",
+            "ro": "Conduceți până la parcarea mare a cetății. Explorați pe jos de aici.",
+            "en": "Drive to the large fortress parking lot. Explore on foot from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Festung: Museum der Brod-Posavina",
+            "hu": "Erőd Klaszter: Brod-Posavina Múzeum",
+            "ro": "Cluster Cetate: Muzeul regiunii Brod-Posavina",
+            "en": "Fortress Cluster: Museum of Brod-Posavina"
+          },
+          "coords": [
+            18.0082,
+            45.1585
+          ],
+          "category": "museums",
+          "arrive_at": "11:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich praktischerweise direkt neben der Festung.",
+            "hu": "A múzeum kényelmesen, közvetlenül az erőd mellett található.",
+            "ro": "Muzeul este situat convenabil, chiar lângă cetate.",
+            "en": "The museum is conveniently located right next to the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Uferpromenade: Kirche St. Stephan",
+            "hu": "Folyóparti Klaszter: Szent István templom",
+            "ro": "Cluster Promenadă: Biserica Sfântul Ștefan",
+            "en": "Waterfront Cluster: Church of St. Stephen"
+          },
+          "coords": [
+            18.019,
+            45.1545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:48",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Flusses und besuchen Sie diese Kirche, bevor Sie spazieren gehen.",
+            "hu": "Parkoljon a folyó közelében, és látogassa meg ezt a templomot séta előtt.",
+            "ro": "Parcați lângă râu și vizitați această biserică înainte de plimbare.",
+            "en": "Park near the river and visit this church before your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Uferpromenade: Sava-Promenade",
+            "hu": "Folyóparti Klaszter: Száva-sétány",
+            "ro": "Cluster Promenadă: Promenada de pe malul râului Sava",
+            "en": "Waterfront Cluster: Sava Promenade"
+          },
+          "coords": [
+            18.016,
+            45.155
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:29",
+          "stay_min": 180,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem langen, entspannten Spaziergang und vielleicht einem Abendessen am Fluss.",
+            "hu": "Zárja a napot egy hosszú, pihentető sétával és esetleg egy folyóparti vacsorával.",
+            "ro": "Încheiați ziua cu o plimbare lungă și relaxantă și poate o cină lângă râu.",
+            "en": "End the day with a long, relaxing walk and perhaps dinner by the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Autotag ist in drei Cluster unterteilt. Am Morgen erkunden Sie zu Fuß das Stadtzentrum rund um den Hauptplatz und das Franziskanerkloster. Mittags fahren Sie zur imposanten Festung Brod, wo Sie nach dem Parken die Festung und das nahegelegene Museum zu Fuß entdecken. Am Nachmittag fahren Sie zum letzten Cluster an der Sava, parken erneut und genießen einen Spaziergang zur St.-Stephans-Kirche und entlang der weitläufigen Flusspromenade, die den perfekten Abschluss des Tages bildet.",
+        "hu": "Ez az autós nap három klaszterre oszlik. Reggel gyalogosan fedezi fel a városközpontot a főtér és a ferences kolostor körül. Délben az impozáns Brodi várhoz hajt, ahol parkolás után gyalogosan fedezi fel az erődöt és a közeli múzeumot. Délután az utolsó klaszterhez, a Száva partjára hajt, újra parkol, és élvezi a sétát a Szent István-templomhoz és a tágas folyóparti sétányon, amely tökéletes lezárása a napnak.",
+        "ro": "Această zi cu mașina este împărțită în trei clustere. Dimineața, explorați pe jos centrul orașului în jurul pieței principale și a Mănăstirii Franciscane. La prânz, conduceți la impunătoarea Cetate Brod, unde, după parcare, descoperiți cetatea și muzeul din apropiere pe jos. După-amiaza, conduceți la ultimul cluster de pe malul Savei, parcați din nou și bucurați-vă de o plimbare la Biserica Sf. Ștefan și de-a lungul promenadei extinse de pe malul râului, care oferă o încheiere perfectă a zilei.",
+        "en": "This car-based day is divided into three clusters. In the morning, you'll explore the city center on foot, around the main square and the Franciscan Monastery. At noon, you drive to the imposing Brod Fortress, where after parking, you'll discover the fortress and the nearby museum on foot. In the afternoon, you drive to the final cluster on the Sava River, park again, and enjoy a walk to St. Stephen's Church and along the expansive river promenade, providing a perfect end to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "Ein würziger Fischeintopf, eine Spezialität der Region. Probieren Sie ihn im Restaurant 'Uno'."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Eine berühmte kroatische Paprikawurst. Kaufen Sie sie auf dem lokalen Markt."
+          },
+          {
+            "name": "Flussfisch",
+            "tip": "Frisch gegrillter Fisch aus der Save, serviert in vielen Restaurants an der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "Fűszeres halpaprikás, a régió specialitása. Kóstolja meg az 'Uno' étteremben."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Híres horvát paprikás kolbász. Vásárolja meg a helyi piacon."
+          },
+          {
+            "name": "Folyami hal",
+            "tip": "Frissen grillezett hal a Szávából, amelyet számos sétány menti étteremben szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "O tocană de pește picantă, o specialitate a regiunii. Încercați-o la restaurantul 'Uno'."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Un cârnat croat celebru, cu boia. Cumpărați-l de la piața locală."
+          },
+          {
+            "name": "Pește de râu",
+            "tip": "Pește proaspăt la grătar din râul Sava, servit la multe restaurante de pe promenadă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "A spicy fish stew, a specialty of the region. Try it at restaurant 'Uno'."
+          },
+          {
+            "name": "Kulen",
+            "tip": "A famous Croatian paprika sausage. Buy it at the local market."
+          },
+          {
+            "name": "River fish",
+            "tip": "Freshly grilled fish from the Sava river, served in many restaurants along the promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sava-Promenade am Abend",
+            "tip": "Finden Sie eine Bank und beobachten Sie den Sonnenuntergang über dem Fluss.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innenhof des Franziskanerklosters",
+            "tip": "Ein versteckter, ruhiger Ort mitten in der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Innerhalb der Festungsmauern",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Ecken mit Blick auf die alten Bastionen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Száva-sétány este",
+            "tip": "Keressen egy padot, és nézze a naplementét a folyó felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A ferences kolostor udvara",
+            "tip": "Egy rejtett, csendes hely a város közepén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az erőd falain belül",
+            "tip": "A fő utaktól távol csendes sarkokat talál, ahonnan kilátás nyílik a régi bástyákra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Sava seara",
+            "tip": "Găsiți o bancă și priviți apusul peste râu.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea mănăstirii franciscane",
+            "tip": "Un loc ascuns și liniștit în mijlocul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "În interiorul zidurilor cetății",
+            "tip": "Departe de căile principale, veți găsi colțuri liniștite cu vedere la vechile bastioane.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sava Promenade in the evening",
+            "tip": "Find a bench and watch the sunset over the river.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of the Franciscan Monastery",
+            "tip": "A hidden, quiet spot in the middle of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Inside the fortress walls",
+            "tip": "Away from the main paths, you'll find quiet corners with views of the old bastions.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stadtmarkt",
+            "tip": "Kaufen Sie lokale Produkte, Honig und den berühmten Kulen."
+          },
+          {
+            "name": "Souvenirladen in der Festung",
+            "tip": "Finden Sie handgefertigte Souvenirs mit Bezug zur Geschichte der Festung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi piac",
+            "tip": "Vásároljon helyi termékeket, mézet és a híres kulent."
+          },
+          {
+            "name": "Ajándékbolt az erődben",
+            "tip": "Találjon kézzel készített ajándéktárgyakat, amelyek az erőd történetéhez kapcsolódnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața orașului",
+            "tip": "Cumpărați produse locale, miere și celebrul kulen."
+          },
+          {
+            "name": "Magazin de suveniruri din cetate",
+            "tip": "Găsiți suveniruri artizanale legate de istoria cetății."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Market",
+            "tip": "Shop for local produce, honey, and the famous kulen."
+          },
+          {
+            "name": "Fortress Souvenir Shop",
+            "tip": "Find handmade souvenirs related to the fortress's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum schwierig sein; nutzen Sie ausgewiesene Parkplätze.",
+          "Die Cluster-Walking-Methode spart Zeit und Parkgebühren.",
+          "Planen Sie genügend Zeit für den Verkehr zwischen den Clustern ein, besonders am Nachmittag.",
+          "Ein GPS ist hilfreich, um die Parkplätze in der Nähe der Cluster zu finden."
+        ],
+        "hu": [
+          "A parkolás nehézkes lehet a városközpontban; használja a kijelölt parkolókat.",
+          "A klaszteres séta módszer időt és parkolási díjakat takarít meg.",
+          "Tervezzen elegendő időt a klaszterek közötti forgalomra, különösen délután.",
+          "GPS hasznos lehet a klaszterek közelében lévő parkolók megtalálásához."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în centrul orașului; folosiți parcările desemnate.",
+          "Metoda de plimbare în cluster economisește timp și taxe de parcare.",
+          "Planificați suficient timp pentru traficul dintre clustere, mai ales după-amiaza.",
+          "Un GPS este util pentru a găsi parcările din apropierea clusterelor."
+        ],
+        "en": [
+          "Parking can be challenging in the city center; use designated parking lots.",
+          "The cluster-walking method saves time and parking fees.",
+          "Allow enough time for traffic between clusters, especially in the afternoon.",
+          "A GPS is helpful for finding the parking spots near the clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zone Zentrum: Ivana Brlić-Mažuranić Platz",
+            "hu": "Központi Zóna: Ivana Brlić-Mažuranić tér",
+            "ro": "Zona Centru: Piața Ivana Brlić-Mažuranić",
+            "en": "Center Zone: Ivana Brlić-Mažuranić Square"
+          },
+          "coords": [
+            18.0142,
+            45.1578
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die meisten Buslinien halten in der Nähe. Steigen Sie hier aus, um den Tag zu beginnen.",
+            "hu": "A legtöbb buszjárat a közelben áll meg. Itt szálljon le, hogy elkezdje a napot.",
+            "ro": "Majoritatea liniilor de autobuz opresc în apropiere. Coborâți aici pentru a începe ziua.",
+            "en": "Most bus lines stop nearby. Get off here to start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Zone Zentrum: Haus der Familie Brlić",
+            "hu": "Központi Zóna: Brlić Család Háza",
+            "ro": "Zona Centru: Casa Familiei Brlić",
+            "en": "Center Zone: Brlić Family House"
+          },
+          "coords": [
+            18.0148,
+            45.1575
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf vom Platz entfernt, leicht zu Fuß erreichbar.",
+            "hu": "Csak egy kőhajításnyira a tértől, könnyen megközelíthető gyalog.",
+            "ro": "La o aruncătură de băț de piață, ușor accesibil pe jos.",
+            "en": "Just a stone's throw from the square, easily reachable on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Zone Festung: Festung Brod",
+            "hu": "Erőd Zóna: Brodi vár",
+            "ro": "Zona Cetate: Cetatea Brod",
+            "en": "Fortress Zone: Brod Fortress"
+          },
+          "coords": [
+            18.0061,
+            45.1581
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Festung. Die Haltestelle ist nur wenige Gehminuten entfernt.",
+            "hu": "Vegyen egy buszt az erőd felé. A megálló csak néhány perc sétára van.",
+            "ro": "Luați un autobuz spre cetate. Stația este la câteva minute de mers pe jos.",
+            "en": "Take a bus towards the fortress. The stop is a few minutes' walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Zone Festung: Museum der Brod-Posavina",
+            "hu": "Erőd Zóna: Brod-Posavina Múzeum",
+            "ro": "Zona Cetate: Muzeul regiunii Brod-Posavina",
+            "en": "Fortress Zone: Museum of Brod-Posavina"
+          },
+          "coords": [
+            18.0082,
+            45.1585
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach der Erkundung der Festung ist das Museum der nächste logische Halt in dieser Zone.",
+            "hu": "Az erőd felfedezése után a múzeum a következő logikus megálló ebben a zónában.",
+            "ro": "După explorarea cetății, muzeul este următoarea oprire logică în această zonă.",
+            "en": "After exploring the fortress, the museum is the next logical stop in this zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Zone Uferpromenade: Sava-Promenade",
+            "hu": "Folyóparti Zóna: Száva-sétány",
+            "ro": "Zona Promenadă: Promenada de pe malul râului Sava",
+            "en": "Waterfront Zone: Sava Promenade"
+          },
+          "coords": [
+            18.016,
+            45.155
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der Sie in die Nähe des Flusses bringt, und beginnen Sie Ihren Spaziergang.",
+            "hu": "Vegyen egy buszt, amely a folyó közelébe visz, és kezdje meg a sétát.",
+            "ro": "Luați un autobuz care vă duce lângă râu și începeți plimbarea.",
+            "en": "Take a bus that gets you close to the river and start your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Zone Uferpromenade: Franziskanerkloster",
+            "hu": "Folyóparti Zóna: Ferences kolostor",
+            "ro": "Zona Promenadă: Mănăstirea Franciscană",
+            "en": "Waterfront Zone: Franciscan Monastery"
+          },
+          "coords": [
+            18.0166,
+            45.1565
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Kloster liegt am Rande der Promenade und ist ein schöner Abschluss des Tages.",
+            "hu": "A kolostor a sétány szélén fekszik, és szép lezárása a napnak.",
+            "ro": "Mănăstirea este situată la marginea promenadei și este o modalitate plăcută de a încheia ziua.",
+            "en": "The monastery is located at the edge of the promenade and is a nice way to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Slavonski Brod in Zonen. Der Vormittag ist dem Zentrum gewidmet, mit einem Spaziergang vom Hauptplatz zum Brlić-Haus. Eine kurze Busfahrt bringt Sie mittags zur Festungszone, wo Sie die Festung und das Museum erkunden. Am Nachmittag bringt Sie ein weiterer Bus zur Uferpromenade, wo ein langer Spaziergang entlang der Sava und ein Besuch des nahegelegenen Franziskanerklosters den Tag abrunden. Diese Methode ermöglicht es Ihnen, größere Entfernungen bequem zu überbrücken und die einzelnen Bereiche intensiv zu Fuß zu erleben.",
+        "hu": "Tömegközlekedéssel zónákban fedezheti fel Slavonski Brodot. A délelőtt a központé, egy sétával a főtértől a Brlić-házig. Egy rövid buszozás után délben az erőd zónájába érkezik, ahol felfedezheti az erődöt és a múzeumot. Délután egy másik busz a folyóparti sétányhoz viszi, ahol egy hosszú séta a Száva mentén és a közeli ferences kolostor meglátogatása zárja a napot. Ez a módszer lehetővé teszi a nagyobb távolságok kényelmes áthidalását és az egyes területek intenzív gyalogos felfedezését.",
+        "ro": "Folosind transportul public, explorați Slavonski Brod în zone. Dimineața este dedicată centrului, cu o plimbare de la piața principală la Casa Brlić. O scurtă călătorie cu autobuzul vă duce la prânz în zona cetății, unde explorați fortăreața și muzeul. După-amiaza, un alt autobuz vă duce la promenada de pe malul apei, unde o plimbare lungă de-a lungul Savei și o vizită la Mănăstirea Franciscană din apropiere încheie ziua. Această metodă vă permite să acoperiți distanțe mai mari confortabil și să experimentați intensiv fiecare zonă pe jos.",
+        "en": "Using public transit, you'll explore Slavonski Brod in zones. The morning is dedicated to the center, with a walk from the main square to the Brlić House. a short bus ride takes you to the fortress zone at noon, where you'll explore the fortress and museum. In the afternoon, another bus takes you to the waterfront, where a long walk along the Sava and a visit to the nearby Franciscan Monastery complete the day. This method allows you to comfortably cover larger distances and experience each area intensively on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "Ein würziger Fischeintopf, eine Spezialität der Region. Probieren Sie ihn im Restaurant 'Uno'."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Eine berühmte kroatische Paprikawurst. Kaufen Sie sie auf dem lokalen Markt."
+          },
+          {
+            "name": "Flussfisch",
+            "tip": "Frisch gegrillter Fisch aus der Save, serviert in vielen Restaurants an der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "Fűszeres halpaprikás, a régió specialitása. Kóstolja meg az 'Uno' étteremben."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Híres horvát paprikás kolbász. Vásárolja meg a helyi piacon."
+          },
+          {
+            "name": "Folyami hal",
+            "tip": "Frissen grillezett hal a Szávából, amelyet számos sétány menti étteremben szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "O tocană de pește picantă, o specialitate a regiunii. Încercați-o la restaurantul 'Uno'."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Un cârnat croat celebru, cu boia. Cumpărați-l de la piața locală."
+          },
+          {
+            "name": "Pește de râu",
+            "tip": "Pește proaspăt la grătar din râul Sava, servit la multe restaurante de pe promenadă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiš paprikaš",
+            "tip": "A spicy fish stew, a specialty of the region. Try it at restaurant 'Uno'."
+          },
+          {
+            "name": "Kulen",
+            "tip": "A famous Croatian paprika sausage. Buy it at the local market."
+          },
+          {
+            "name": "River fish",
+            "tip": "Freshly grilled fish from the Sava river, served in many restaurants along the promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sava-Promenade am Abend",
+            "tip": "Finden Sie eine Bank und beobachten Sie den Sonnenuntergang über dem Fluss.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innenhof des Franziskanerklosters",
+            "tip": "Ein versteckter, ruhiger Ort mitten in der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Innerhalb der Festungsmauern",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Ecken mit Blick auf die alten Bastionen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Száva-sétány este",
+            "tip": "Keressen egy padot, és nézze a naplementét a folyó felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A ferences kolostor udvara",
+            "tip": "Egy rejtett, csendes hely a város közepén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az erőd falain belül",
+            "tip": "A fő utaktól távol csendes sarkokat talál, ahonnan kilátás nyílik a régi bástyákra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Sava seara",
+            "tip": "Găsiți o bancă și priviți apusul peste râu.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea mănăstirii franciscane",
+            "tip": "Un loc ascuns și liniștit în mijlocul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "În interiorul zidurilor cetății",
+            "tip": "Departe de căile principale, veți găsi colțuri liniștite cu vedere la vechile bastioane.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sava Promenade in the evening",
+            "tip": "Find a bench and watch the sunset over the river.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of the Franciscan Monastery",
+            "tip": "A hidden, quiet spot in the middle of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Inside the fortress walls",
+            "tip": "Away from the main paths, you'll find quiet corners with views of the old bastions.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stadtmarkt",
+            "tip": "Kaufen Sie lokale Produkte, Honig und den berühmten Kulen."
+          },
+          {
+            "name": "Souvenirladen in der Festung",
+            "tip": "Finden Sie handgefertigte Souvenirs mit Bezug zur Geschichte der Festung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi piac",
+            "tip": "Vásároljon helyi termékeket, mézet és a híres kulent."
+          },
+          {
+            "name": "Ajándékbolt az erődben",
+            "tip": "Találjon kézzel készített ajándéktárgyakat, amelyek az erőd történetéhez kapcsolódnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața orașului",
+            "tip": "Cumpărați produse locale, miere și celebrul kulen."
+          },
+          {
+            "name": "Magazin de suveniruri din cetate",
+            "tip": "Găsiți suveniruri artizanale legate de istoria cetății."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Market",
+            "tip": "Shop for local produce, honey, and the famous kulen."
+          },
+          {
+            "name": "Fortress Souvenir Shop",
+            "tip": "Find handmade souvenirs related to the fortress's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Informieren Sie sich über die Busfahrpläne, da die Frequenzen variieren können.",
+          "Halten Sie sich an den Haltestellen bereit, da die Busse pünktlich sind.",
+          "Die meisten Fahrer sind hilfsbereit, wenn Sie nach dem richtigen Ausstieg fragen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Tájékozódjon a buszmenetrendekről, mivel a járatok sűrűsége változhat.",
+          "Legyen készen a megállókban, mivel a buszok pontosak.",
+          "A legtöbb sofőr segítőkész, ha a megfelelő megállót kérdezi."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați orarele autobuzelor, deoarece frecvențele pot varia.",
+          "Fiți gata la stații, deoarece autobuzele sunt punctuale.",
+          "Majoritatea șoferilor sunt de ajutor dacă întrebați despre stația corectă."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check the bus schedules as frequencies can vary.",
+          "Be ready at the stops as buses tend to be on time.",
+          "Most drivers are helpful if you ask about the right stop to get off."
+        ]
+      }
+    }
+  }
+}

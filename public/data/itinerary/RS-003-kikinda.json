@@ -1,0 +1,1348 @@
+{
+  "city_id": "RS-003-kikinda",
+  "anchor": {
+    "name": "Kikinda",
+    "coords": [
+      20.465,
+      45.8244
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Kikinda",
+            "hu": "Nagykikindai Városháza",
+            "ro": "Primăria din Kikinda",
+            "en": "Kikinda Town Hall"
+          },
+          "coords": [
+            20.465,
+            45.8244
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die neobarocke Fassade und das Wappen der Stadt.",
+            "hu": "Csodálja meg a neobarokk homlokzatot és a város címerét.",
+            "ro": "Admirați fațada neobarocă și stema orașului.",
+            "en": "Admire the neo-baroque facade and the city's coat of arms."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurie-Gebäude",
+            "hu": "Kúria épülete",
+            "ro": "Clădirea Curiei",
+            "en": "The Curia Building"
+          },
+          "coords": [
+            20.4645,
+            45.825
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:38",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies war der ehemalige Sitz des Bezirks Großkikinda.",
+            "hu": "Ez volt a Nagykikindai kerület egykori székhelye.",
+            "ro": "Acesta a fost fostul sediu al districtului Kikinda Mare.",
+            "en": "This was the former seat of the District of Velika Kikinda."
+          }
+        },
+        {
+          "name": {
+            "de": "Generala Drapšina Straße",
+            "hu": "Generala Drapšina utca",
+            "ro": "Strada Generala Drapšina",
+            "en": "Generala Drapšina Street"
+          },
+          "coords": [
+            20.468,
+            45.8255
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:06",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bekannt als eine der schönsten Straßen der Welt wegen ihrer Baumkronen.",
+            "hu": "A világ egyik legszebb utcájaként ismert a fák alkotta lombkoronája miatt.",
+            "ro": "Cunoscută drept una dintre cele mai frumoase străzi din lume datorită boltei de copaci.",
+            "en": "Known as one of the world's most beautiful streets due to its tree canopy."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            20.466,
+            45.826
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Ikonostase von Teodor Ilić Češljar.",
+            "hu": "Figyelje meg Teodor Ilić Češljar lenyűgöző ikonosztázát.",
+            "ro": "Observați iconostasul impresionant realizat de Teodor Ilić Češljar.",
+            "en": "Look for the impressive iconostasis painted by Teodor Ilić Češljar."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Kikinda",
+            "hu": "Nagykikindai Nemzeti Múzeum",
+            "ro": "Muzeul Național din Kikinda",
+            "en": "National Museum of Kikinda"
+          },
+          "coords": [
+            20.463,
+            45.827
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht das authentische Skelett eines Mammuts namens 'Kika'.",
+            "hu": "Ne hagyja ki a 'Kika' nevű mamut autentikus csontvázát.",
+            "ro": "Nu ratați scheletul autentic al unui mamut numit 'Kika'.",
+            "en": "Don't miss the authentic skeleton of a mammoth named 'Kika'."
+          }
+        },
+        {
+          "name": {
+            "de": "Suvača (Rossmühle)",
+            "hu": "Suvača (Szárazmalom)",
+            "ro": "Suvača (Moara uscată)",
+            "en": "Suvača (Dry Mill)"
+          },
+          "coords": [
+            20.455,
+            45.821
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine der wenigen erhaltenen pferdegetriebenen Mühlen in Europa.",
+            "hu": "Az egyik kevés fennmaradt, lóval hajtott malom Európában.",
+            "ro": "Una dintre puținele mori cu tracțiune animală păstrate în Europa.",
+            "en": "One of the few preserved horse-powered mills in Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Bleder-Park",
+            "hu": "Bledi-park",
+            "ro": "Parcul Bleder",
+            "en": "Bleder Park"
+          },
+          "coords": [
+            20.472,
+            45.829
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um sich zu entspannen und die Skulpturen des Terra-Symposiums zu sehen.",
+            "hu": "Kellemes hely a pihenésre, ahol a Terra szimpózium szobrai is láthatók.",
+            "ro": "Un loc frumos pentru a vă relaxa și a vedea sculpturile de la simpozionul Terra.",
+            "en": "A lovely place to relax and see sculptures from the Terra symposium."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Kikinda, am Rathausplatz, wo die Geschichte in der Architektur widerhallt. Spazieren Sie durch die berühmte Generala Drapšina Straße, deren Blätterdach eine natürliche Kathedrale bildet. Nach dem Mittagessen tauchen Sie im Nationalmuseum in die Tiefen der Zeit ein und treffen auf das Mammut Kika. Zum Abschluss Ihres Tages lassen Sie die Seele im Bleder-Park baumeln, umgeben von einzigartiger Terrakotta-Kunst. Es ist ein Spaziergang durch Kultur, Geschichte und Natur.",
+        "hu": "Kezdje a napot Nagykikinda szívében, a Városháza téren, ahol a történelem visszhangzik az építészetben. Sétáljon végig a híres Generala Drapšina utcán, melynek lombkoronája természetes katedrálist alkot. Ebéd után merüljön el az idő mélységeiben a Nemzeti Múzeumban, és találkozzon Kikával, a mamuttal. A nap zárásaként pihenjen meg a Bledi-parkban, egyedi terrakotta műalkotásokkal körülvéve. Ez egy séta a kultúrán, történelmen és természeten át.",
+        "ro": "Începeți ziua în inima Kikindei, în piața Primăriei, unde istoria răsună în arhitectură. Plimbați-vă pe faimoasa stradă Generala Drapšina, al cărei baldachin de frunze formează o catedrală naturală. După prânz, scufundați-vă în adâncurile timpului la Muzeul Național pentru a o întâlni pe mamutul Kika. Încheiați ziua relaxându-vă în Parcul Bleder, înconjurat de artă unică din teracotă. Este o plimbare prin cultură, istorie și natură.",
+        "en": "Start your day in the heart of Kikinda, at the Town Hall square, where history echoes in the architecture. Stroll down the famous Generala Drapšina street, its canopy of leaves forming a natural cathedral. After lunch, delve into the depths of time at the National Museum to meet Kika the mammoth. Conclude your day by relaxing in Bleder Park, surrounded by unique terracotta art. It's a walk through culture, history, and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Banatski doručak",
+            "tip": "Probieren Sie ein traditionelles Banater Frühstück mit lokalem Käse und Wurst."
+          },
+          {
+            "name": "Riblji paprikaš",
+            "tip": "Ein würziger Fischeintopf, der in der Region sehr beliebt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bánáti reggeli",
+            "tip": "Kóstoljon meg egy hagyományos bánáti reggelit helyi sajttal és kolbásszal."
+          },
+          {
+            "name": "Halpaprikás",
+            "tip": "A régióban népszerű, fűszeres halétel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Micul dejun bănățean",
+            "tip": "Încercați un mic dejun tradițional bănățean cu brânzeturi și mezeluri locale."
+          },
+          {
+            "name": "Papricaș de pește",
+            "tip": "O tocană de pește picantă, foarte populară în regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Banat Breakfast",
+            "tip": "Try a traditional Banat breakfast with local cheese and cured meats."
+          },
+          {
+            "name": "Fish Paprikash",
+            "tip": "A spicy fish stew, very popular in the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bleder-Park",
+            "tip": "Finden Sie eine ruhige Bank unter den Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Alten Sees",
+            "tip": "Ein Spaziergang am Abend am nahegelegenen Staro Jezero.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bledi-park",
+            "tip": "Keressen egy csendes padot a fák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az Öreg-tó partja",
+            "tip": "Esti séta a közeli Staro Jezero (Öreg-tó) partján.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Bleder",
+            "tip": "Găsiți o bancă liniștită sub copaci.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul Lacului Vechi",
+            "tip": "O plimbare de seară pe malul lacului Staro Jezero din apropiere.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bleder Park",
+            "tip": "Find a quiet bench under the trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Shore of the Old Lake",
+            "tip": "An evening walk along the nearby Staro Jezero (Old Lake).",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und hausgemachten Käse auf dem Hauptmarkt."
+          },
+          {
+            "name": "Terra Atelier Shop",
+            "tip": "Kaufen Sie eine einzigartige Terrakotta-Skulptur als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és házi készítésű sajtot a főpiacon."
+          },
+          {
+            "name": "Terra Műterem boltja",
+            "tip": "Vásároljon egyedi terrakotta szobrot emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și brânză de casă din piața principală."
+          },
+          {
+            "name": "Magazinul Atelierului Terra",
+            "tip": "Achiziționați o sculptură unică din teracotă ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and homemade cheese at the main market."
+          },
+          {
+            "name": "Terra Atelier Shop",
+            "tip": "Purchase a unique terracotta sculpture as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Halten Sie Ausschau nach den Waldohreulen, die im Winter in den Bäumen im Stadtzentrum nisten.",
+          "Viele Cafés bieten Sitzgelegenheiten im Freien, ideal für eine Pause."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Télen keresse a városközpont fáiban fészkelő erdei fülesbaglyokat.",
+          "Sok kávézó kínál szabadtéri ülőhelyeket, amelyek ideálisak egy kis pihenésre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Fiți atenți la ciufii de pădure care iernează în copacii din centrul orașului.",
+          "Multe cafenele oferă terase, ideale pentru o pauză."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Look out for the long-eared owls that roost in the city center trees during winter.",
+          "Many cafes offer outdoor seating, perfect for taking a break."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Suvača (Rossmühle)",
+            "hu": "Suvača (Szárazmalom)",
+            "ro": "Suvača (Moara uscată)",
+            "en": "Suvača (Dry Mill)"
+          },
+          "coords": [
+            20.455,
+            45.821
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein faszinierender Start, um die industrielle Vergangenheit der Region zu verstehen.",
+            "hu": "Lenyűgöző kezdet a régió ipari múltjának megértéséhez.",
+            "ro": "Un început fascinant pentru a înțelege trecutul industrial al regiunii.",
+            "en": "A fascinating start to understand the region's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Kikinda",
+            "hu": "Nagykikindai Városháza",
+            "ro": "Primăria din Kikinda",
+            "en": "Kikinda Town Hall"
+          },
+          "coords": [
+            20.465,
+            45.8244
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und spazieren Sie über den zentralen Platz.",
+            "hu": "Parkolja le a biciklit, és sétáljon egyet a központi téren.",
+            "ro": "Parcați bicicleta și faceți o plimbare prin piața centrală.",
+            "en": "Park your bike and take a stroll around the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            20.466,
+            45.826
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:36",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die spirituelle Atmosphäre dieses orthodoxen Juwels zu genießen.",
+            "hu": "Egy rövid megálló, hogy magába szívja ennek az ortodox gyöngyszemnek a spirituális hangulatát.",
+            "ro": "O oprire scurtă pentru a absorbi atmosfera spirituală a acestei bijuterii ortodoxe.",
+            "en": "A quick stop to absorb the spiritual atmosphere of this Orthodox gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Kikinda",
+            "hu": "Nagykikindai Nemzeti Múzeum",
+            "ro": "Muzeul Național din Kikinda",
+            "en": "National Museum of Kikinda"
+          },
+          "coords": [
+            20.463,
+            45.827
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für Kika, das Mammut, und die archäologischen Ausstellungen ein.",
+            "hu": "Tervezzen elég időt Kikára, a mamutra és a régészeti kiállításokra.",
+            "ro": "Planificați suficient timp pentru Kika, mamutul, și expozițiile arheologice.",
+            "en": "Plan enough time for Kika the mammoth and the archaeological exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Atelier Terra",
+            "hu": "Terra Műterem",
+            "ro": "Atelierul Terra",
+            "en": "Atelier Terra"
+          },
+          "coords": [
+            20.459,
+            45.828
+          ],
+          "category": "museums",
+          "arrive_at": "12:44",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sehen Sie, wo die berühmten Terrakotta-Skulpturen der Stadt entstehen.",
+            "hu": "Nézze meg, hol készülnek a város híres terrakotta szobrai.",
+            "ro": "Vedeți unde sunt create faimoasele sculpturi din teracotă ale orașului.",
+            "en": "See where the city's famous terracotta sculptures are created."
+          }
+        },
+        {
+          "name": {
+            "de": "Bleder-Park",
+            "hu": "Bledi-park",
+            "ro": "Parcul Bleder",
+            "en": "Bleder Park"
+          },
+          "coords": [
+            20.472,
+            45.829
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick oder eine entspannte Radtour durch den Park.",
+            "hu": "Tökéletes egy piknikhez vagy egy pihentető biciklitúrához a parkon keresztül.",
+            "ro": "Perfect pentru un picnic sau o plimbare relaxantă cu bicicleta prin parc.",
+            "en": "Perfect for a picnic or a relaxing cycle through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Generala Drapšina Straße",
+            "hu": "Generala Drapšina utca",
+            "ro": "Strada Generala Drapšina",
+            "en": "Generala Drapšina Street"
+          },
+          "coords": [
+            20.468,
+            45.8255
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einer Fahrt unter dem grünen Tunnel dieser Allee.",
+            "hu": "Fejezze be a túrát egy biciklizéssel ezen fasor zöld alagútja alatt.",
+            "ro": "Încheiați turul cu o plimbare pe sub tunelul verde al acestui bulevard.",
+            "en": "End your tour with a ride under the green tunnel of this avenue."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und entdecken Sie Kikindas Schätze, beginnend mit der historischen Rossmühle. Radeln Sie ins Zentrum, um die lebhafte Atmosphäre rund um das Rathaus zu erleben. Der Vormittag gehört der Kultur: Besuchen Sie die St.-Nikolaus-Kirche und das Nationalmuseum. Nachmittags erkunden Sie das kreative Atelier Terra, bevor Sie sich im Bleder-Park entspannen. Die letzte Etappe führt Sie durch die malerische Generala Drapšina Straße. Eine Tour, die Industrieerbe, Kunst und Natur verbindet.",
+        "hu": "Pattanjon biciklire, és fedezze fel Nagykikinda kincseit, kezdve a történelmi Szárazmalommal. Tekerjen be a központba, hogy megtapasztalja a Városháza körüli élénk hangulatot. A délelőtt a kultúráé: látogasson el a Szent Miklós-templomba és a Nemzeti Múzeumba. Délután fedezze fel a kreatív Terra Műtermet, mielőtt a Bledi-parkban pihenne. Az utolsó szakasz a festői Generala Drapšina utcán vezet keresztül. Ez a túra ötvözi az ipari örökséget, a művészetet és a természetet.",
+        "ro": "Urcați-vă pe bicicletă și descoperiți comorile Kikindei, începând cu moara istorică. Pedalați spre centru pentru a experimenta atmosfera vibrantă din jurul Primăriei. Dimineața este dedicată culturii: vizitați Biserica Sfântul Nicolae și Muzeul Național. După-amiaza, explorați creativul Atelier Terra înainte de a vă relaxa în Parcul Bleder. Ultima etapă vă poartă pe strada pitorească Generala Drapšina. Un tur care combină patrimoniul industrial, arta și natura.",
+        "en": "Hop on your bike and discover Kikinda's treasures, starting with the historic dry mill. Cycle into the center to experience the vibrant atmosphere around the Town Hall. The morning is for culture: visit Saint Nicholas Church and the National Museum. In the afternoon, explore the creative Atelier Terra before relaxing in Bleder Park. The final leg takes you through the picturesque Generala Drapšina street. A tour combining industrial heritage, art, and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ludaš-Kuchen",
+            "tip": "Ein lokales Gebäck, perfekt für einen Energieschub."
+          },
+          {
+            "name": "Grillteller",
+            "tip": "Viele Restaurants bieten ausgezeichnete serbische Grillgerichte an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lúdas-sütemény",
+            "tip": "Helyi sütemény, tökéletes energiafröccs."
+          },
+          {
+            "name": "Grilltál",
+            "tip": "Számos étterem kínál kiváló szerb grillételeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prăjitura Ludaš",
+            "tip": "O prăjitură locală, perfectă pentru un plus de energie."
+          },
+          {
+            "name": "Platou la grătar",
+            "tip": "Multe restaurante oferă excelente preparate sârbești la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ludaš Cake",
+            "tip": "A local pastry, perfect for an energy boost."
+          },
+          {
+            "name": "Grilled meat platter",
+            "tip": "Many restaurants offer excellent Serbian grilled dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Skulpturenpark Terra",
+            "tip": "Einige der größeren Skulpturen befinden sich in einem ruhigen Park außerhalb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Am Stadtrand",
+            "tip": "Eine kurze Radtour aus der Stadt hinaus für die Ruhe der Puszta.",
+            "emoji": "🚴"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Terra Szoborpark",
+            "tip": "Néhány nagyobb szobor egy csendes, külső parkban található.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A város szélén",
+            "tip": "Egy rövid biciklitúra a városból a puszta csendjéért.",
+            "emoji": "🚴"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de sculpturi Terra",
+            "tip": "Unele dintre sculpturile mai mari sunt situate într-un parc liniștit la periferie.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "La marginea orașului",
+            "tip": "O scurtă plimbare cu bicicleta în afara orașului pentru liniștea din pusta.",
+            "emoji": "🚴"
+          }
+        ],
+        "en": [
+          {
+            "name": "Terra Sculpture Park",
+            "tip": "Some of the larger sculptures are located in a quiet park outside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Outskirts of town",
+            "tip": "A short bike ride out of the city for the tranquility of the puszta.",
+            "emoji": "🚴"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Lokale Honigverkäufer",
+            "tip": "Suchen Sie nach Verkäufern von hausgemachtem Honig aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha tartozékra vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Helyi méhészek",
+            "tip": "Keressen helyi termelőket, akik házi mézet árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          },
+          {
+            "name": "Vânzători locali de miere",
+            "tip": "Căutați vânzători de miere de casă din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "In case you need any accessories or a quick fix."
+          },
+          {
+            "name": "Local Honey Sellers",
+            "tip": "Look for vendors selling homemade honey from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Kikinda ist flach, was das Radfahren sehr einfach macht.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Nagykikinda sík, ami nagyon megkönnyíti a kerékpározást.",
+          "Mindig zárja le jól a kerékpárját, amikor leparkol."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a porni.",
+          "Kikinda este plată, ceea ce face ciclismul foarte ușor.",
+          "Asigurați-vă întotdeauna bicicleta corespunzător când o parcați."
+        ],
+        "en": [
+          "Check your tire pressure before you start.",
+          "Kikinda is flat, which makes for very easy cycling.",
+          "Always lock your bike securely when leaving it unattended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Suvača (Rossmühle)",
+            "hu": "Suvača (Szárazmalom)",
+            "ro": "Suvača (Moara uscată)",
+            "en": "Suvača (Dry Mill)"
+          },
+          "coords": [
+            20.455,
+            45.821
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe. Dieses einzigartige Denkmal ist der perfekte erste Halt.",
+            "hu": "Parkoljon a közelben. Ez az egyedülálló műemlék tökéletes első megálló.",
+            "ro": "Parcați în apropiere. Acest monument unic este prima oprire perfectă.",
+            "en": "Park nearby. This unique monument is the perfect first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Stadtzentrum",
+            "hu": "Klaszter: Városközpont",
+            "ro": "Cluster: Centrul orașului",
+            "en": "Cluster: City Center"
+          },
+          "coords": [
+            20.465,
+            45.8244
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zentral und erkunden Sie die nächsten Haltestellen zu Fuß.",
+            "hu": "Parkoljon a központban, és fedezze fel a következő megállókat gyalog.",
+            "ro": "Parcați central și explorați următoarele opriri pe jos.",
+            "en": "Park centrally and explore the next few stops on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Kurie",
+            "hu": "Városháza és Kúria",
+            "ro": "Primăria și Curia",
+            "en": "Town Hall & Curia"
+          },
+          "coords": [
+            20.4647,
+            45.8247
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zwei architektonische Juwelen direkt nebeneinander am Hauptplatz.",
+            "hu": "Két építészeti gyöngyszem egymás mellett a főtéren.",
+            "ro": "Două bijuterii arhitecturale chiar una lângă alta în piața principală.",
+            "en": "Two architectural gems right next to each other on the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            20.466,
+            45.826
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:02",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.25,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz zu diesem spirituellen Zentrum.",
+            "hu": "Egy rövid séta a tértől ehhez a spirituális központhoz.",
+            "ro": "O scurtă plimbare din piață până la acest centru spiritual.",
+            "en": "A short walk from the square to this spiritual center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Museumsviertel",
+            "hu": "Klaszter: Múzeumi negyed",
+            "ro": "Cluster: Cartierul Muzeelor",
+            "en": "Cluster: Museum Quarter"
+          },
+          "coords": [
+            20.463,
+            45.827
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museumskomplex. Hier gibt es Parkmöglichkeiten.",
+            "hu": "Vezessen a múzeumi komplexumhoz. Itt van parkolási lehetőség.",
+            "ro": "Conduceți la complexul muzeal. Există parcare disponibilă aici.",
+            "en": "Drive to the museum complex. Parking is available here."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum & Atelier Terra",
+            "hu": "Nemzeti Múzeum és Terra Műterem",
+            "ro": "Muzeul Național și Atelierul Terra",
+            "en": "National Museum & Atelier Terra"
+          },
+          "coords": [
+            20.461,
+            45.8275
+          ],
+          "category": "museums",
+          "arrive_at": "11:42",
+          "stay_min": 150,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch des Mammuts mit der modernen Kunst der Terrakotta.",
+            "hu": "Kombinálja a mamut megtekintését a modern terrakotta művészettel.",
+            "ro": "Combinați vizita la mamut cu arta modernă a teracotei.",
+            "en": "Combine the visit to the mammoth with the modern art of terracotta."
+          }
+        },
+        {
+          "name": {
+            "de": "Bleder-Park",
+            "hu": "Bledi-park",
+            "ro": "Parcul Bleder",
+            "en": "Bleder Park"
+          },
+          "coords": [
+            20.472,
+            45.829
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap nyugodt befejezéséhez.",
+            "ro": "Locul perfect pentru a încheia ziua într-un mod relaxat.",
+            "en": "The perfect spot to end the day in a relaxed manner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um Kikindas Vielfalt zu erleben. Beginnen Sie beim technischen Wunder der Suvača-Mühle. Parken Sie dann im Zentrum und erkunden Sie den historischen Kern mit Rathaus und Kirche zu Fuß. Ein kurzer Sprung mit dem Auto bringt Sie zum Museumsviertel, wo das prähistorische Mammut auf zeitgenössische Kunst trifft. Den Abschluss bildet eine entspannte Zeit im grünen Bleder-Park. Diese Tour verbindet entfernte Sehenswürdigkeiten mühelos.",
+        "hu": "Használja ki az autó rugalmasságát Nagykikinda sokszínűségének felfedezéséhez. Kezdjen a Suvača malom műszaki csodájánál. Ezután parkoljon le a központban, és fedezze fel gyalog a történelmi magot a Városházával és a templommal. Egy rövid autózás elviszi a múzeumi negyedbe, ahol az őskori mamut találkozik a kortárs művészettel. A napot egy pihentető időtöltés zárja a zöld Bledi-parkban. Ez a túra könnyedén összeköti a távolabbi látnivalókat.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a experimenta diversitatea Kikindei. Începeți cu minunea tehnică a morii Suvača. Apoi parcați în centru și explorați nucleul istoric pe jos, cu Primăria și biserica. O scurtă călătorie cu mașina vă duce în cartierul muzeelor, unde mamutul preistoric întâlnește arta contemporană. Încheiați cu un moment de relaxare în verdele Parc Bleder. Acest tur conectează fără efort atracțiile îndepărtate.",
+        "en": "Use the flexibility of the car to experience Kikinda's diversity. Start at the technical marvel of the Suvača mill. Then, park in the center and explore the historic core with its Town Hall and church on foot. A short car hop takes you to the museum quarter, where the prehistoric mammoth meets contemporary art. Conclude with some relaxing time in the green Bleder Park. This tour connects distant sights effortlessly."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant an der Straße",
+            "tip": "Fahren Sie zu einem 'Salaš' (traditionelles Bauernhaus-Restaurant) außerhalb der Stadt für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "Ein herzhafter Käsekuchen, den man in jeder Bäckerei findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Út menti étterem",
+            "tip": "Vezessen ki egy 'szállásra' (hagyományos tanya-étterem) a város mellett egy autentikus élményért."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "Sós túrós pite, minden pékségben megtalálható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la drum",
+            "tip": "Conduceți la un 'salaš' (restaurant tradițional la fermă) în afara orașului pentru o experiență autentică."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "O plăcintă sărată cu brânză, găsită în orice brutărie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside Restaurant",
+            "tip": "Drive to a 'salaš' (traditional farmhouse restaurant) outside the city for an authentic experience."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "A savory cheese pie found in any bakery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mokrin",
+            "tip": "Machen Sie einen kurzen Ausflug in das nahegelegene Dorf Mokrin, bekannt für seine ruhige Atmosphäre.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "Felder des Banats",
+            "tip": "Halten Sie am Straßenrand an, um die Weite der umliegenden Agrarlandschaft zu genießen.",
+            "emoji": "🌾"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mokrin (Homokrév)",
+            "tip": "Tegyen egy rövid kirándulást a közeli Homokrévre, amely csendes hangulatáról ismert.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "Bánáti mezők",
+            "tip": "Álljon meg az út szélén, hogy élvezze a környező mezőgazdasági táj tágasságát.",
+            "emoji": "🌾"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mokrin",
+            "tip": "Faceți o scurtă excursie în satul din apropiere, Mokrin, cunoscut pentru atmosfera sa liniștită.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "Câmpiile Banatului",
+            "tip": "Opriți-vă pe marginea drumului pentru a vă bucura de vastitatea peisajului agricol înconjurător.",
+            "emoji": "🌾"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mokrin",
+            "tip": "Take a short drive to the nearby village of Mokrin, known for its quiet atmosphere.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "Fields of Banat",
+            "tip": "Pull over on the side of the road to enjoy the vastness of the surrounding agricultural landscape.",
+            "emoji": "🌾"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Suchen Sie nach Bauernhöfen, die lokale Produkte direkt verkaufen."
+          },
+          {
+            "name": "Weingüter",
+            "tip": "In der Region gibt es mehrere kleine Weingüter; eine Flasche lokaler Wein ist ein tolles Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "Keressen olyan gazdaságokat, amelyek közvetlenül értékesítenek helyi termékeket."
+          },
+          {
+            "name": "Borászatok",
+            "tip": "A régióban több kis borászat is található; egy üveg helyi bor remek ajándék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Căutați ferme care vând produse locale direct."
+          },
+          {
+            "name": "Crame",
+            "tip": "Există mai multe crame mici în regiune; o sticlă de vin local este un suvenir excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Look for farms selling local produce directly."
+          },
+          {
+            "name": "Wineries",
+            "tip": "There are several small wineries in the region; a bottle of local wine is a great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Parkstopps im Voraus, besonders im Stadtzentrum.",
+          "Achten Sie auf Radfahrer, die sich die Straße teilen.",
+          "Ein GPS ist hilfreich, um die Außenbezirke zu navigieren."
+        ],
+        "hu": [
+          "Tervezze meg előre a parkolási megállókat, különösen a városközpontban.",
+          "Vigyázzon a kerékpárosokra, akikkel megosztja az utat.",
+          "A GPS hasznos a külvárosokban való navigáláshoz."
+        ],
+        "ro": [
+          "Planificați-vă opririle de parcare în avans, în special în centrul orașului.",
+          "Fiți atenți la bicicliștii care împart drumul cu dvs.",
+          "Un GPS este util pentru a naviga în zonele periferice."
+        ],
+        "en": [
+          "Plan your parking stops in advance, especially in the city center.",
+          "Be mindful of cyclists sharing the road.",
+          "A GPS is helpful for navigating the outskirts."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster: Stadtzentrum",
+            "hu": "Klaszter: Városközpont",
+            "ro": "Cluster: Centrul orașului",
+            "en": "Cluster: City Center"
+          },
+          "coords": [
+            20.465,
+            45.8244
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Hauptplatz, dem Ausgangspunkt Ihrer Erkundung.",
+            "hu": "Menjen busszal a főtérre, a felfedezés kiindulópontjára.",
+            "ro": "Luați un autobuz până în piața principală, punctul de plecare al explorării dumneavoastră.",
+            "en": "Take a bus to the main square, the starting point of your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Generala Drapšina",
+            "hu": "Városháza és Generala Drapšina utca",
+            "ro": "Primăria și Strada Generala Drapšina",
+            "en": "Town Hall & Generala Drapšina St"
+          },
+          "coords": [
+            20.4665,
+            45.825
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:12",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und die berühmte Allee, bevor Sie weitergehen.",
+            "hu": "Fedezze fel a teret és a híres fasort, mielőtt továbbmenne.",
+            "ro": "Explorați piața și faimosul bulevard înainte de a merge mai departe.",
+            "en": "Explore the square and the famous avenue before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            20.466,
+            45.826
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Zentrum entfernt, ist diese Kirche ein Muss.",
+            "hu": "Rövid sétára a központtól, ez a templom kihagyhatatlan.",
+            "ro": "La o scurtă plimbare de centru, această biserică este o necesitate.",
+            "en": "A short walk from the center, this church is a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Museen & Mühle",
+            "hu": "Klaszter: Múzeumok és Malom",
+            "ro": "Cluster: Muzee și Moară",
+            "en": "Cluster: Museums & Mill"
+          },
+          "coords": [
+            20.46,
+            45.8275
+          ],
+          "category": "museums",
+          "arrive_at": "11:07",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zur nächsten Haltestelle, die die Museen und die Mühle bedient.",
+            "hu": "Menjen busszal a következő megállóhoz, amely a múzeumokat és a malmot szolgálja ki.",
+            "ro": "Luați autobuzul până la următoarea stație care deservește muzeele și moara.",
+            "en": "Take the bus to the next stop that serves the museums and the mill."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum & Atelier Terra",
+            "hu": "Nemzeti Múzeum és Terra Műterem",
+            "ro": "Muzeul Național și Atelierul Terra",
+            "en": "National Museum & Atelier Terra"
+          },
+          "coords": [
+            20.461,
+            45.8275
+          ],
+          "category": "museums",
+          "arrive_at": "11:09",
+          "stay_min": 160,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte und Kunst, die Kikinda ausmachen.",
+            "hu": "Merüljön el a Nagykikindát meghatározó történelemben és művészetben.",
+            "ro": "Cufundați-vă în istoria și arta care definesc Kikinda.",
+            "en": "Immerse yourself in the history and art that define Kikinda."
+          }
+        },
+        {
+          "name": {
+            "de": "Suvača (Rossmühle)",
+            "hu": "Suvača (Szárazmalom)",
+            "ro": "Suvača (Moara uscată)",
+            "en": "Suvača (Dry Mill)"
+          },
+          "coords": [
+            20.455,
+            45.821
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein letzter Bus bringt Sie zu diesem einzigartigen Industrieerbe.",
+            "hu": "Az utolsó busz elviszi Önt ehhez az egyedülálló ipari örökséghez.",
+            "ro": "Un ultim autobuz vă va duce la acest patrimoniu industrial unic.",
+            "en": "A final bus ride will take you to this unique industrial heritage site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Kikinda mit den öffentlichen Verkehrsmitteln, eine entspannte Art zu reisen. Beginnen Sie im belebten Zentrum und schlendern Sie durch die historischen Straßen. Eine kurze Busfahrt bringt Sie dann zu den kulturellen Höhepunkten der Stadt, dem Nationalmuseum und dem kreativen Atelier Terra. Der Tag endet mit einer weiteren kurzen Fahrt zur faszinierenden Suvača-Mühle. Diese Route maximiert Ihre Zeit an den Sehenswürdigkeiten und minimiert den Fußweg zwischen den Clustern.",
+        "hu": "Fedezze fel Nagykikindát tömegközlekedéssel, ami egy pihentető utazási mód. Kezdjen a nyüzsgő központban, és sétáljon végig a történelmi utcákon. Egy rövid buszozás elviszi a város kulturális fénypontjaihoz, a Nemzeti Múzeumhoz és a kreatív Terra Műteremhez. A nap egy újabb rövid utazással zárul a lenyűgöző Suvača malomhoz. Ez az útvonal maximalizálja a látnivalóknál töltött időt, és minimalizálja a klaszterek közötti gyaloglást.",
+        "ro": "Explorați Kikinda cu transportul public, un mod relaxant de a călători. Începeți în centrul plin de viață și plimbați-vă pe străzile istorice. O scurtă călătorie cu autobuzul vă va duce apoi la punctele culturale de atracție ale orașului, Muzeul Național și creativul Atelier Terra. Ziua se încheie cu o altă călătorie scurtă la fascinanta moară Suvača. Acest traseu maximizează timpul petrecut la obiective și minimizează mersul pe jos între clustere.",
+        "en": "Explore Kikinda using public transit, a relaxing way to travel. Start in the bustling center, strolling through the historic streets. A short bus ride then takes you to the city's cultural highlights, the National Museum and the creative Atelier Terra. The day ends with another short trip to the fascinating Suvača mill. This route maximizes your time at the sights and minimizes walking between clusters."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pekara (Bäckerei)",
+            "tip": "Holen Sie sich ein Burek oder ein anderes Gebäck für ein schnelles Mittagessen unterwegs."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Besuchen Sie eine traditionelle Kafana in der Nähe einer Bushaltestelle für ein authentisches Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pekara (Pékség)",
+            "tip": "Vegyen egy bureket vagy más péksüteményt egy gyors ebédhez útközben."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Látogasson el egy hagyományos kafanába egy buszmegálló közelében egy autentikus vacsoráért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pekara (Brutărie)",
+            "tip": "Luați un burek sau alt produs de patiserie pentru un prânz rapid din mers."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Vizitați o kafana tradițională lângă o stație de autobuz pentru o cină autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pekara (Bakery)",
+            "tip": "Grab a burek or other pastry for a quick lunch on the go."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Visit a traditional kafana near a bus stop for an authentic dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof",
+            "tip": "Der alte Friedhof der Stadt ist ein Ort der Ruhe und Geschichte.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Fensterplatz im Bus",
+            "tip": "Beobachten Sie das Stadtleben, während Sie von einem Ort zum anderen fahren.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető",
+            "tip": "A város régi temetője a béke és a történelem helye.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Ablak melletti ülés a buszon",
+            "tip": "Figyelje a városi életet, miközben egyik helyről a másikra utazik.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitir",
+            "tip": "Vechiul cimitir al orașului este un loc de pace și istorie.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Loc la geam în autobuz",
+            "tip": "Priviți viața orașului în timp ce călătoriți dintr-un loc în altul.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery",
+            "tip": "The city's old cemetery is a place of peace and history.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Window seat on the bus",
+            "tip": "Watch the city life go by as you travel from one place to another.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske",
+            "tip": "Kleine Kioske in der Nähe von Bushaltestellen verkaufen Snacks, Getränke und manchmal auch Souvenirs."
+          },
+          {
+            "name": "Buchhandlungen",
+            "tip": "Finden Sie ein Buch über die lokale Geschichte oder eine Postkarte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok",
+            "tip": "A buszmegállók közelében lévő kis kioszkokban rágcsálnivalókat, italokat és néha ajándéktárgyakat árulnak."
+          },
+          {
+            "name": "Könyvesboltok",
+            "tip": "Keressen egy könyvet a helyi történelemről vagy egy képeslapot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri",
+            "tip": "Micile chioșcuri de lângă stațiile de autobuz vând gustări, băuturi și uneori suveniruri."
+          },
+          {
+            "name": "Librării",
+            "tip": "Găsiți o carte despre istoria locală sau o carte poștală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks",
+            "tip": "Small kiosks near bus stops sell snacks, drinks, and sometimes souvenirs."
+          },
+          {
+            "name": "Bookstores",
+            "tip": "Find a book on local history or a postcard."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse möglicherweise nicht häufig fahren.",
+          "Haben Sie Kleingeld für die Tickets dabei."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha elérhető.",
+          "Ellenőrizze előre a buszmenetrendet, mivel a járatok ritkán közlekedhetnek.",
+          "Legyen aprópénze a jegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil.",
+          "Verificați programul autobuzelor în avans, deoarece s-ar putea să nu circule frecvent.",
+          "Aveți bani mărunți la îndemână pentru bilete."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available.",
+          "Check the bus schedule in advance, as services might not be frequent.",
+          "Have some small change handy for tickets."
+        ]
+      }
+    }
+  }
+}

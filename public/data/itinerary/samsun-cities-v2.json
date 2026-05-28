@@ -1,0 +1,1236 @@
+{
+  "city_id": "samsun-cities-v2",
+  "anchor": {
+    "name": "Samsun",
+    "coords": [
+      36.33,
+      41.2867
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saathane-Platz",
+            "hu": "Saathane tér",
+            "ro": "Piața Saathane",
+            "en": "Saathane Square"
+          },
+          "coords": [
+            36.3335,
+            41.2901
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem türkischen Tee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy török teával a tér egyik kávézójában.",
+            "ro": "Începeți ziua cu un ceai turcesc la una dintre cafenelele din piață.",
+            "en": "Start your day with a Turkish tea at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Samsun",
+            "hu": "Samsun Városi Múzeum",
+            "ro": "Muzeul Orașului Samsun",
+            "en": "Samsun City Museum"
+          },
+          "coords": [
+            36.3311,
+            41.2895
+          ],
+          "category": "museums",
+          "arrive_at": "10:06",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die ethnografische Sammlung, um das lokale Erbe zu verstehen.",
+            "hu": "Fókuszáljon a néprajzi gyűjteményre, hogy megértse a helyi örökséget.",
+            "ro": "Concentrați-vă pe colecția etnografică pentru a înțelege patrimoniul local.",
+            "en": "Focus on the ethnographic collection to understand the local heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehrenmonument (Onur Anıtı)",
+            "hu": "Becsület-emlékmű (Onur Anıtı)",
+            "ro": "Monumentul de Onoare (Onur Anıtı)",
+            "en": "Monument of Honor (Onur Anıtı)"
+          },
+          "coords": [
+            36.3258,
+            41.2888
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:56",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um die Bedeutung von Samsun in der modernen türkischen Geschichte zu würdigen.",
+            "hu": "Tökéletes hely, hogy megemlékezzen Samsun szerepéről a modern török történelemben.",
+            "ro": "Locul perfect pentru a aprecia importanța Samsunului în istoria modernă a Turciei.",
+            "en": "The perfect spot to appreciate Samsun's importance in modern Turkish history."
+          }
+        },
+        {
+          "name": {
+            "de": "Batı Park",
+            "hu": "Batı Park",
+            "ro": "Parcul Batı",
+            "en": "Batı Park"
+          },
+          "coords": [
+            36.295,
+            41.3005
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:53",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Mittagspicknick mit Blick auf das Schwarze Meer.",
+            "hu": "Remek hely egy ebédpiknikhez a Fekete-tengerre néző kilátással.",
+            "ro": "Un loc excelent pentru un picnic la prânz cu vedere la Marea Neagră.",
+            "en": "A great place for a lunch picnic overlooking the Black Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Bandırma-Fähre-Museum",
+            "hu": "Bandırma Komp Múzeum",
+            "ro": "Muzeul Fregata Bandırma",
+            "en": "Bandırma Ferry Museum"
+          },
+          "coords": [
+            36.2915,
+            41.3021
+          ],
+          "category": "museums",
+          "arrive_at": "14:16",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Deck und die Kabinen, um sich Atatürks Reise vorzustellen.",
+            "hu": "Fedezze fel a fedélzetet és a kabinokat, hogy elképzelje Atatürk utazását.",
+            "ro": "Explorați puntea și cabinele pentru a vă imagina călătoria lui Atatürk.",
+            "en": "Explore the deck and cabins to imagine Atatürk's journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Amisos-Hügel",
+            "hu": "Amisos-hegy",
+            "ro": "Dealul Amisos",
+            "en": "Amisos Hill"
+          },
+          "coords": [
+            36.2822,
+            41.3094
+          ],
+          "category": "natural features",
+          "arrive_at": "16:08",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bleiben Sie für den Sonnenuntergang, die Aussicht über die Stadt und das Meer ist spektakulär.",
+            "hu": "Maradjon naplementéig, a kilátás a városra és a tengerre lenyűgöző.",
+            "ro": "Rămâneți pentru apus; priveliștea asupra orașului și a mării este spectaculoasă.",
+            "en": "Stay for the sunset; the view over the city and sea is spectacular."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Samsun beginnt am historischen Saathane-Platz, dem pulsierenden Herzen der Altstadt. Nach einem Einblick in die lokale Kultur im Stadtmuseum zollen Sie dem Onur Anıtı Respekt, einem Symbol des türkischen Unabhängigkeitskampfes. Der Nachmittag führt Sie in den Westen, wo der weitläufige Batı Park zur Entspannung einlädt. Im Park entdecken Sie das Bandırma-Fähre-Museum, ein entscheidendes Stück Geschichte. Zum Abschluss steigen Sie auf den Amisos-Hügel, um einen atemberaubenden Panoramablick bei Sonnenuntergang zu genießen.",
+        "hu": "Samsuni napja a történelmi Saathane téren, az óváros lüktető szívében kezdődik. Miután a Városi Múzeumban bepillantást nyert a helyi kultúrába, tiszteletét teszi az Onur Anıtı emlékműnél, a török függetlenségi harc szimbólumánál. A délután nyugatra vezeti, ahol a tágas Batı Park hívogat pihenésre. A parkban felfedezi a Bandırma Komp Múzeumot, a történelem egy fontos darabját. Végül felkapaszkodik az Amisos-hegyre, hogy naplementekor gyönyörködjön a lélegzetelállító panorámában.",
+        "ro": "Ziua dvs. în Samsun începe în Piața istorică Saathane, inima vibrantă a orașului vechi. După o incursiune în cultura locală la Muzeul Orașului, aduceți un omagiu la Onur Anıtı, un simbol al luptei turce pentru independență. După-amiaza vă duce spre vest, unde Parcul Batı vă invită la relaxare. În parc, descoperiți Muzeul Fregata Bandırma, o piesă crucială de istorie. Încheiați ziua urcând pe Dealul Amisos pentru o priveliște panoramică uluitoare la apus.",
+        "en": "Your day in Samsun begins at the historic Saathane Square, the vibrant heart of the old town. After a glimpse into local culture at the City Museum, you'll pay respects at the Onur Anıtı, a symbol of the Turkish struggle for independence. The afternoon takes you west, where the expansive Batı Park invites relaxation. Within the park, you'll discover the Bandırma Ferry Museum, a crucial piece of history. You'll conclude by ascending Amisos Hill for a breathtaking panoramic view at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Samsun Pidesi",
+            "tip": "Ein lokales Fladenbrot, oft mit Hackfleisch oder Käse gefüllt. Probieren Sie es bei 'Gülhan Pide Salonu'."
+          },
+          {
+            "name": "Frischer Fisch aus dem Schwarzen Meer",
+            "tip": "Besonders im Herbst ist der Fisch köstlich. Restaurants am Hafen bieten den besten Fang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Samsuni Pide",
+            "tip": "Helyi lepénykenyér, gyakran darált hússal vagy sajttal töltve. Kóstolja meg a 'Gülhan Pide Salonu'-ban."
+          },
+          {
+            "name": "Friss fekete-tengeri hal",
+            "tip": "Különösen ősszel ízletes. A kikötői éttermek kínálják a legjobb fogást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pide de Samsun",
+            "tip": "O pâine plată locală, adesea umplută cu carne tocată sau brânză. Încercați-o la 'Gülhan Pide Salonu'."
+          },
+          {
+            "name": "Pește proaspăt de la Marea Neagră",
+            "tip": "Peștele este delicios, mai ales toamna. Restaurantele din port oferă cea mai bună captură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Samsun Pide",
+            "tip": "A local flatbread, often filled with minced meat or cheese. Try it at 'Gülhan Pide Salonu'."
+          },
+          {
+            "name": "Fresh Black Sea Fish",
+            "tip": "The fish is delicious, especially in autumn. Restaurants by the harbor offer the best catch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Amisos-Hügel",
+            "tip": "Der beste Ort für einen Panoramablick auf den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Batı Park",
+            "tip": "Finden Sie eine ruhige Bank am Meer und beobachten Sie die Wellen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Amisos-hegy",
+            "tip": "A legjobb hely a panorámás naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Batı Park",
+            "tip": "Keressen egy csendes padot a tengerparton, és nézze a hullámokat.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Amisos",
+            "tip": "Cel mai bun loc pentru o vedere panoramică la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Batı",
+            "tip": "Găsiți o bancă liniștită lângă mare și priviți valurile.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Amisos Hill",
+            "tip": "The best spot for a panoramic sunset view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Batı Park",
+            "tip": "Find a quiet bench by the sea and watch the waves.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mecidiye Çarşısı",
+            "tip": "Ein traditioneller Basar in der Nähe des Saathane-Platzes, ideal für lokale Handwerksprodukte und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mecidiye Çarşısı",
+            "tip": "Hagyományos bazár a Saathane tér közelében, ideális helyi kézműves termékek és szuvenírek vásárlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mecidiye Çarșısı",
+            "tip": "Un bazar tradițional lângă Piața Saathane, perfect pentru meșteșuguri locale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mecidiye Çarşısı",
+            "tip": "A traditional bazaar near Saathane Square, perfect for local crafts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Halten Sie Wasser bereit, besonders in den Sommermonaten.",
+          "Die Route ist meist flach, mit Ausnahme des Aufstiegs zum Amisos-Hügel."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Vigyen magával vizet, különösen a nyári hónapokban.",
+          "Az útvonal többnyire sík, kivéve az Amisos-hegyre való feljutást."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Aveți apă la îndemână, mai ales în lunile de vară.",
+          "Traseul este în mare parte plat, cu excepția urcării pe Dealul Amisos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Keep water handy, especially during summer months.",
+          "The route is mostly flat, except for the ascent to Amisos Hill."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saathane-Platz",
+            "hu": "Saathane tér",
+            "ro": "Piața Saathane",
+            "en": "Saathane Square"
+          },
+          "coords": [
+            36.3335,
+            41.2901
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie die Atmosphäre des historischen Zentrums.",
+            "hu": "Parkolja le a kerékpárt, és élvezze a történelmi központ hangulatát.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosfera centrului istoric.",
+            "en": "Park your bike and soak in the atmosphere of the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehrenmonument (Onur Anıtı)",
+            "hu": "Becsület-emlékmű (Onur Anıtı)",
+            "ro": "Monumentul de Onoare (Onur Anıtı)",
+            "en": "Monument of Honor (Onur Anıtı)"
+          },
+          "coords": [
+            36.3258,
+            41.2888
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:55",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eine kurze, aber wichtige Pause, um über die türkische Geschichte nachzudenken.",
+            "hu": "Egy rövid, de fontos megálló a török történelem elmélkedéséhez.",
+            "ro": "O oprire scurtă, dar importantă, pentru a reflecta asupra istoriei turce.",
+            "en": "A short but important stop to reflect on Turkish history."
+          }
+        },
+        {
+          "name": {
+            "de": "Batı Park",
+            "hu": "Batı Park",
+            "ro": "Parcul Batı",
+            "en": "Batı Park"
+          },
+          "coords": [
+            36.295,
+            41.3005
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine gemütliche Radtour entlang der Küste.",
+            "hu": "Tökéletes egy kellemes tengerparti kerékpártúrához.",
+            "ro": "Perfect pentru o plimbare relaxantă cu bicicleta de-a lungul coastei.",
+            "en": "Perfect for a leisurely bike ride along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Amisos-Hügel",
+            "hu": "Amisos-hegy",
+            "ro": "Dealul Amisos",
+            "en": "Amisos Hill"
+          },
+          "coords": [
+            36.2822,
+            41.3094
+          ],
+          "category": "natural features",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der Anstieg ist die Belohnung wert. Es gibt eine Seilbahn, wenn Sie das Rad unten lassen.",
+            "hu": "A kaptató megéri a fáradságot. Van felvonó, ha lent hagyja a biciklit.",
+            "ro": "Urcarea merită efortul. Există o telecabină dacă lăsați bicicleta jos.",
+            "en": "The climb is worth the reward. There's a cable car if you leave the bike below."
+          }
+        },
+        {
+          "name": {
+            "de": "Fener-Strand",
+            "hu": "Fener strand",
+            "ro": "Plaja Fener",
+            "en": "Fener Beach"
+          },
+          "coords": [
+            36.355,
+            41.325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:54",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 54,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Nach der langen Fahrt der ideale Ort zum Entspannen und Schwimmen.",
+            "hu": "A hosszú út után ideális hely a pihenésre és úszásra.",
+            "ro": "Locul ideal pentru a vă relaxa și a înota după lunga plimbare.",
+            "en": "The ideal place to relax and swim after the long ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Bandırma-Fähre-Museum",
+            "hu": "Bandırma Komp Múzeum",
+            "ro": "Muzeul Fregata Bandırma",
+            "en": "Bandırma Ferry Museum"
+          },
+          "coords": [
+            36.2915,
+            41.3021
+          ],
+          "category": "museums",
+          "arrive_at": "16:35",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 6.7,
+          "tip_5lang": {
+            "de": "Ein würdiger Abschluss, der Geschichte und die Meeresbrise verbindet.",
+            "hu": "Méltó befejezés, amely ötvözi a történelmet és a tengeri szellőt.",
+            "ro": "Un final demn, combinând istoria și briza mării.",
+            "en": "A worthy finale, combining history and the sea breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in den Sattel und beginnen Sie Ihre Tour am Saathane-Platz. Radeln Sie zum Onur Anıtı, bevor Sie die Küstenpromenade im Batı Park genießen. Ein anspruchsvollerer Anstieg führt Sie zum Amisos-Hügel mit seiner grandiosen Aussicht. Danach durchqueren Sie die Stadt zum entspannten Fener-Strand im Osten. Die Rückfahrt führt Sie zum historischen Bandırma-Fähre-Museum, wo Sie den Tag ausklingen lassen.",
+        "hu": "Pattanjon nyeregbe, és kezdje a túrát a Saathane téren. Tekerjen el az Onur Anıtı emlékműhöz, mielőtt élvezné a Batı Park tengerparti sétányát. Egy kihívást jelentő emelkedő vezet az Amisos-hegyre, ahonnan csodás kilátás nyílik. Ezután átszeli a várost a keleti, pihentető Fener strand felé. A visszaút a történelmi Bandırma Komp Múzeumhoz vezet, ahol lezárhatja a napot.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul din Piața Saathane. Pedalați spre Onur Anıtı înainte de a vă bucura de promenada de pe coastă în Parcul Batı. O urcare mai solicitantă vă duce pe Dealul Amisos, cu priveliștea sa magnifică. Apoi, traversați orașul spre relaxanta Plajă Fener din est. Drumul de întoarcere vă duce la istoricul Muzeu Fregata Bandırma, unde vă puteți încheia ziua.",
+        "en": "Hop on your bike and start your tour at Saathane Square. Cycle to the Onur Anıtı before enjoying the coastal promenade in Batı Park. A more challenging climb takes you to Amisos Hill with its magnificent view. Afterwards, cross the city to the relaxing Fener Beach in the east. The return journey takes you to the historic Bandırma Ferry Museum, where you can end your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Samsun Pidesi",
+            "tip": "Die perfekte Stärkung nach einer Radtour. Leicht und lecker."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Ein erfrischendes Joghurtgetränk, ideal zur Rehydrierung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Samsuni Pide",
+            "tip": "Tökéletes feltöltődés egy kerékpártúra után. Könnyű és finom."
+          },
+          {
+            "name": "Ayran",
+            "tip": "Frissítő joghurtital, ideális a hidratáláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pide de Samsun",
+            "tip": "Energizantul perfect după o tură cu bicicleta. Ușor și delicios."
+          },
+          {
+            "name": "Ayran",
+            "tip": "O băutură răcoritoare din iaurt, ideală pentru rehidratare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Samsun Pide",
+            "tip": "The perfect fuel after a bike ride. Light and delicious."
+          },
+          {
+            "name": "Ayran",
+            "tip": "A refreshing yogurt drink, ideal for rehydration."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fener-Strand",
+            "tip": "Abseits des Zentrums ist dieser Strand ruhiger und ideal zum Entspannen.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Amisos-Hügel",
+            "tip": "Finden Sie einen ruhigen Platz abseits der Seilbahnstation.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fener strand",
+            "tip": "A központtól távolabb ez a strand csendesebb és ideális a pihenésre.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Amisos-hegy",
+            "tip": "Keressen egy csendes helyet a felvonóállomástól távolabb.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Fener",
+            "tip": "Departe de centru, această plajă este mai liniștită și ideală pentru relaxare.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Dealul Amisos",
+            "tip": "Găsiți un loc liniștit departe de stația de telecabină.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fener Beach",
+            "tip": "Away from the center, this beach is quieter and ideal for relaxing.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Amisos Hill",
+            "tip": "Find a quiet spot away from the cable car station.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradläden",
+            "tip": "Für den Fall, dass Sie Zubehör oder eine schnelle Reparatur benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Ha kiegészítőre vagy gyors javításra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "În cazul în care aveți nevoie de accesorii sau de o reparație rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bike Shops",
+            "tip": "In case you need any accessories or a quick repair."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die ausgedehnten Radwege entlang der Küste.",
+          "Der Verkehr in der Innenstadt kann hektisch sein, fahren Sie vorsichtig.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Használja a kiterjedt tengerparti kerékpárutakat.",
+          "A belvárosi forgalom hektikus lehet, vezessen óvatosan.",
+          "A sisak használata erősen ajánlott."
+        ],
+        "ro": [
+          "Folosiți pistele extinse pentru biciclete de-a lungul coastei.",
+          "Traficul în centrul orașului poate fi agitat, conduceți cu prudență.",
+          "Cască este foarte recomandată."
+        ],
+        "en": [
+          "Use the extensive bike paths along the coast.",
+          "Traffic in the city center can be hectic, ride carefully.",
+          "A helmet is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 21.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Amazonen-Dorf",
+            "hu": "Amazon Falu",
+            "ro": "Satul Amazoanelor",
+            "en": "Amazon Village"
+          },
+          "coords": [
+            36.275,
+            41.315
+          ],
+          "category": "historical",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ein einzigartiger Einblick in die Legenden der Region. Gut für einen frühen Start.",
+            "hu": "Egyedülálló betekintés a régió legendáiba. Jó egy korai kezdéshez.",
+            "ro": "O perspectivă unică asupra legendelor regiunii. Bun pentru un început de zi devreme.",
+            "en": "A unique insight into the region's legends. Good for an early start."
+          }
+        },
+        {
+          "name": {
+            "de": "Amisos-Hügel",
+            "hu": "Amisos-hegy",
+            "ro": "Dealul Amisos",
+            "en": "Amisos Hill"
+          },
+          "coords": [
+            36.2822,
+            41.3094
+          ],
+          "category": "natural features",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz und gehen Sie das letzte Stück für die beste Aussicht.",
+            "hu": "Hajtson a parkolóig, és sétáljon az utolsó szakaszon a legjobb kilátásért.",
+            "ro": "Conduceți până la parcare și mergeți pe jos ultima bucată pentru cea mai bună priveliște.",
+            "en": "Drive to the parking area and walk the final bit for the best views."
+          }
+        },
+        {
+          "name": {
+            "de": "Batı Park & Bandırma Fähre",
+            "hu": "Batı Park és Bandırma Komp",
+            "ro": "Parcul Batı și Fregata Bandırma",
+            "en": "Batı Park & Bandırma Ferry"
+          },
+          "coords": [
+            36.295,
+            41.3005
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier. Erkunden Sie den Park und das Museum zu Fuß.",
+            "hu": "Parkoljon itt. Fedezze fel a parkot és a múzeumot gyalog.",
+            "ro": "Parcați aici. Explorați parcul și muzeul pe jos.",
+            "en": "Park here. Explore the park and the museum on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Saathane-Platz",
+            "hu": "Saathane tér",
+            "ro": "Piața Saathane",
+            "en": "Saathane Square"
+          },
+          "coords": [
+            36.3335,
+            41.2901
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:20",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz und tauchen Sie ein in die Atmosphäre der Altstadt.",
+            "hu": "Keressen egy parkolóhelyet, és merüljön el az óváros hangulatában.",
+            "ro": "Găsiți un loc de parcare și cufundați-vă în atmosfera orașului vechi.",
+            "en": "Find a parking spot and immerse yourself in the old town atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Samsun",
+            "hu": "Samsun Városi Múzeum",
+            "ro": "Muzeul Orașului Samsun",
+            "en": "Samsun City Museum"
+          },
+          "coords": [
+            36.3311,
+            41.2895
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Saathane-Platz aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a Saathane térről.",
+            "ro": "Ușor de ajuns pe jos din Piața Saathane.",
+            "en": "An easy walk from Saathane Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehrenmonument (Onur Anıtı)",
+            "hu": "Becsület-emlékmű (Onur Anıtı)",
+            "ro": "Monumentul de Onoare (Onur Anıtı)",
+            "en": "Monument of Honor (Onur Anıtı)"
+          },
+          "coords": [
+            36.3258,
+            41.2888
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:30",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum, um den zentralen Cluster abzuschließen.",
+            "hu": "Egy rövid séta a múzeumtól, hogy befejezze a központi klasztert.",
+            "ro": "O scurtă plimbare de la muzeu pentru a finaliza clusterul central.",
+            "en": "A short walk from the museum to complete the central cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Fener-Strand",
+            "hu": "Fener strand",
+            "ro": "Plaja Fener",
+            "en": "Fener Beach"
+          },
+          "coords": [
+            36.355,
+            41.325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages am östlichen Strand.",
+            "hu": "Pihentető befejezése a napnak a keleti strandon.",
+            "ro": "Un final relaxant al zilei la plaja estică.",
+            "en": "A relaxing end to the day at the eastern beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einer Reise in die Mythologie im Amazonen-Dorf. Fahren Sie dann zum Amisos-Hügel für eine atemberaubende Aussicht. Der nächste große Stopp ist der Batı-Park, wo Sie parken, um den Park und das Bandırma-Fähre-Museum zu Fuß zu erkunden. Am Nachmittag fahren Sie ins Stadtzentrum. Parken Sie erneut und erkunden Sie den Saathane-Platz, das Stadtmuseum und das Onur Anıtı zu Fuß. Beenden Sie den Tag mit einer entspannten Fahrt zum Fener-Strand.",
+        "hu": "Autós napja egy mitológiai utazással kezdődik az Amazon Faluban. Ezután hajtson az Amisos-hegyre a lélegzetelállító kilátásért. A következő nagy megálló a Batı Park, ahol leparkol, hogy gyalog fedezze fel a parkot és a Bandırma Komp Múzeumot. Délután a városközpontba hajt. Parkoljon le újra, és fedezze fel gyalog a Saathane teret, a Városi Múzeumot és az Onur Anıtı-t. A napot egy pihentető autózással zárja a Fener strandhoz.",
+        "ro": "Ziua dvs. cu mașina începe cu o călătorie în mitologie la Satul Amazoanelor. Apoi conduceți spre Dealul Amisos pentru o priveliște uluitoare. Următoarea oprire majoră este Parcul Batı, unde parcați pentru a explora parcul și Muzeul Fregata Bandırma pe jos. După-amiaza, conduceți în centrul orașului. Parcați din nou și explorați Piața Saathane, Muzeul Orașului și Onur Anıtı pe jos. Încheiați ziua cu o plimbare relaxantă cu mașina până la Plaja Fener.",
+        "en": "Your car day begins with a journey into mythology at the Amazon Village. Then drive to Amisos Hill for a breathtaking view. The next major stop is Batı Park, where you'll park to explore the park and the Bandırma Ferry Museum on foot. In the afternoon, drive to the city center. Park again and explore Saathane Square, the City Museum, and the Onur Anıtı on foot. End the day with a relaxing drive to Fener Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Terme Pidesi",
+            "tip": "Eine weitere regionale Pide-Variante, die es wert ist, probiert zu werden."
+          },
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Perfekt für ein Abendessen mit Meerblick nach einem langen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Terme Pide",
+            "tip": "Egy másik regionális pide-változat, amit érdemes megkóstolni."
+          },
+          {
+            "name": "Grillezett hal",
+            "tip": "Tökéletes vacsora tengerre néző kilátással egy hosszú nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pide de Terme",
+            "tip": "O altă variantă regională de pide care merită încercată."
+          },
+          {
+            "name": "Pește la grătar",
+            "tip": "Perfect pentru o cină cu vedere la mare după o zi lungă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Terme Pide",
+            "tip": "Another regional pide variation worth trying."
+          },
+          {
+            "name": "Grilled Fish",
+            "tip": "Perfect for a seaside dinner after a long day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Amisos-Hügel am Morgen",
+            "tip": "Weniger überlaufen als am Abend, bietet eine friedliche Aussicht.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Spaziergang am Fener-Strand",
+            "tip": "Der Klang der Wellen ist sehr beruhigend.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Amisos-hegy reggel",
+            "tip": "Kevésbé zsúfolt, mint este, békés kilátást nyújt.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Séta a Fener strandon",
+            "tip": "A hullámok zaja nagyon megnyugtató.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Amisos dimineața",
+            "tip": "Mai puțin aglomerat decât seara, oferă o priveliște pașnică.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Plimbare pe Plaja Fener",
+            "tip": "Sunetul valurilor este foarte calmant.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Amisos Hill in the morning",
+            "tip": "Less crowded than in the evening, offering a peaceful view.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Walk on Fener Beach",
+            "tip": "The sound of the waves is very calming.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piazza AVM",
+            "tip": "Ein modernes Einkaufszentrum für alles, was Sie vielleicht vergessen haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza AVM",
+            "tip": "Modern bevásárlóközpont mindenre, amit esetleg elfelejtett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza AVM",
+            "tip": "Un centru comercial modern pentru orice ați fi putut uita."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza AVM",
+            "tip": "A modern shopping mall for anything you might have forgotten."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Stadtzentrum eine Herausforderung sein; nutzen Sie ausgewiesene Parkhäuser.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, insbesondere während der Stoßzeiten.",
+          "Das Auto gibt Ihnen die Flexibilität, auch weiter entfernte Orte wie das Amazonen-Dorf zu besuchen."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a belvárosban; használja a kijelölt parkolóházakat.",
+          "Tervezzen plusz időt a forgalomra, különösen csúcsidőben.",
+          "Az autó rugalmasságot ad a távolabbi helyek, például az Amazon Falu meglátogatásához is."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centrul orașului; folosiți parcările desemnate.",
+          "Planificați timp suplimentar pentru trafic, în special în orele de vârf.",
+          "Mașina vă oferă flexibilitatea de a vizita locuri mai îndepărtate, cum ar fi Satul Amazoanelor."
+        ],
+        "en": [
+          "Parking can be a challenge in the city center; use designated parking garages.",
+          "Plan extra time for traffic, especially during peak hours.",
+          "The car gives you the flexibility to visit more distant places like the Amazon Village."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 11.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saathane-Platz",
+            "hu": "Saathane tér",
+            "ro": "Piața Saathane",
+            "en": "Saathane Square"
+          },
+          "coords": [
+            36.3335,
+            41.2901
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 45,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahn (Samsun Tramvay) bis zur Haltestelle Meydan.",
+            "hu": "Menjen a villamossal (Samsun Tramvay) a Meydan megállóig.",
+            "ro": "Luați tramvaiul (Samsun Tramvay) până la stația Meydan.",
+            "en": "Take the tram (Samsun Tramvay) to the Meydan stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Samsun",
+            "hu": "Samsun Városi Múzeum",
+            "ro": "Muzeul Orașului Samsun",
+            "en": "Samsun City Museum"
+          },
+          "coords": [
+            36.3311,
+            41.2895
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus.",
+            "hu": "Egy rövid séta a térről.",
+            "ro": "O scurtă plimbare din piață.",
+            "en": "A short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehrenmonument (Onur Anıtı)",
+            "hu": "Becsület-emlékmű (Onur Anıtı)",
+            "ro": "Monumentul de Onoare (Onur Anıtı)",
+            "en": "Monument of Honor (Onur Anıtı)"
+          },
+          "coords": [
+            36.3258,
+            41.2888
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:55",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vervollständigen Sie Ihren Spaziergang durch das Zentrum mit diesem ikonischen Denkmal.",
+            "hu": "Fejezze be a központi sétát ezzel az ikonikus emlékművel.",
+            "ro": "Completați-vă plimbarea prin centru la acest monument iconic.",
+            "en": "Complete your walk through the center at this iconic monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Batı Park",
+            "hu": "Batı Park",
+            "ro": "Parcul Batı",
+            "en": "Batı Park"
+          },
+          "coords": [
+            36.295,
+            41.3005
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder die Straßenbahn westwärts bis zur Haltestelle Baruthane.",
+            "hu": "Menjen busszal vagy villamossal nyugat felé a Baruthane megállóig.",
+            "ro": "Luați un autobuz sau tramvaiul spre vest până la stația Baruthane.",
+            "en": "Take a bus or the tram westward to the Baruthane stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bandırma-Fähre-Museum",
+            "hu": "Bandırma Komp Múzeum",
+            "ro": "Muzeul Fregata Bandırma",
+            "en": "Bandırma Ferry Museum"
+          },
+          "coords": [
+            36.2915,
+            41.3021
+          ],
+          "category": "museums",
+          "arrive_at": "14:13",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im Park und ist leicht zu Fuß erreichbar.",
+            "hu": "A múzeum a parkban található, könnyen megközelíthető gyalog.",
+            "ro": "Muzeul este situat în parc, ușor de accesat pe jos.",
+            "en": "The museum is located within the park, an easy walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Amisos-Hügel",
+            "hu": "Amisos-hegy",
+            "ro": "Dealul Amisos",
+            "en": "Amisos Hill"
+          },
+          "coords": [
+            36.2822,
+            41.3094
+          ],
+          "category": "natural features",
+          "arrive_at": "16:00",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Seilbahn vom Batı Park zum Gipfel für die beste Erfahrung.",
+            "hu": "Menjen a felvonóval a Batı Parkból a csúcsra a legjobb élményért.",
+            "ro": "Luați telecabina din Parcul Batı până în vârf pentru cea mai bună experiență.",
+            "en": "Take the cable car from Batı Park to the top for the best experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen von Samsun. Nehmen Sie die Straßenbahn zum Saathane-Platz und erkunden Sie das historische Zentrum, einschließlich des Stadtmuseums und des Onur Anıtı, zu Fuß. Ein Bus oder eine Straßenbahn bringt Sie dann nach Westen in den Batı Park. Schlendern Sie durch den Park zum Bandırma-Fähre-Museum. Zum Abschluss bietet die Seilbahn vom Park aus eine bequeme und malerische Fahrt auf den Amisos-Hügel, um den Tag mit einer spektakulären Aussicht zu beenden.",
+        "hu": "Tömegközlekedési napja Samsun szívében kezdődik. Villamossal menjen a Saathane térre, és fedezze fel gyalog a történelmi központot, beleértve a Városi Múzeumot és az Onur Anıtı-t. Ezután egy busz vagy villamos nyugatra viszi a Batı Parkba. Sétáljon át a parkon a Bandırma Komp Múzeumhoz. Végül a parkból induló felvonó kényelmes és festői utat kínál az Amisos-hegyre, hogy a napot egy látványos kilátással zárja.",
+        "ro": "Ziua dvs. cu transportul public începe în inima Samsunului. Luați tramvaiul până în Piața Saathane și explorați centrul istoric pe jos, inclusiv Muzeul Orașului și Onur Anıtı. Un autobuz sau tramvai vă va duce apoi spre vest, în Parcul Batı. Plimbați-vă prin parc până la Muzeul Fregata Bandırma. În final, telecabina din parc oferă o călătorie convenabilă și pitorească spre Dealul Amisos pentru a încheia ziua cu o priveliște spectaculoasă.",
+        "en": "Your public transport day begins in the heart of Samsun. Take the tram to Saathane Square and explore the historic center on foot, including the City Museum and Onur Anıtı. A bus or tram will then take you west to Batı Park. Stroll through the park to the Bandırma Ferry Museum. Finally, the cable car from the park offers a convenient and scenic ride up Amisos Hill to end the day with a spectacular view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Simit",
+            "tip": "Ein Sesamkringel, perfekt als schneller Snack zwischen den Fahrten."
+          },
+          {
+            "name": "Lokale Restaurants in der Nähe von Straßenbahnhaltestellen",
+            "tip": "Viele gute und günstige Optionen sind leicht erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Simit",
+            "tip": "Szezámmagos perec, tökéletes gyors snack az utazások között."
+          },
+          {
+            "name": "Helyi éttermek a villamosmegállók közelében",
+            "tip": "Sok jó és olcsó lehetőség könnyen elérhető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Simit",
+            "tip": "Un covrig cu susan, perfect ca o gustare rapidă între călătorii."
+          },
+          {
+            "name": "Restaurante locale lângă stațiile de tramvai",
+            "tip": "Multe opțiuni bune și accesibile sunt ușor de găsit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Simit",
+            "tip": "A sesame ring, perfect as a quick snack between rides."
+          },
+          {
+            "name": "Local eateries near tram stops",
+            "tip": "Many good and affordable options are easily accessible."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt mit der Seilbahn",
+            "tip": "Eine ruhige Fahrt über die Stadt mit toller Aussicht.",
+            "emoji": "🚠"
+          },
+          {
+            "name": "Spaziergang im Batı Park",
+            "tip": "Weitläufig genug, um einen ruhigen Ort zu finden.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Felvonózás",
+            "tip": "Csendes utazás a város felett, remek kilátással.",
+            "emoji": "🚠"
+          },
+          {
+            "name": "Séta a Batı Parkban",
+            "tip": "Elég tágas ahhoz, hogy csendes helyet találjon.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu telecabina",
+            "tip": "O călătorie liniștită deasupra orașului cu priveliști minunate.",
+            "emoji": "🚠"
+          },
+          {
+            "name": "Plimbare în Parcul Batı",
+            "tip": "Suficient de vast pentru a găsi un loc liniștit.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cable Car Ride",
+            "tip": "A quiet journey above the city with great views.",
+            "emoji": "🚠"
+          },
+          {
+            "name": "Stroll in Batı Park",
+            "tip": "Vast enough to find a quiet spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte entlang der İstiklal Caddesi",
+            "tip": "Die Haupteinkaufsstraße ist mit der Straßenbahn leicht zu erreichen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok az İstiklal Caddesi mentén",
+            "tip": "A fő bevásárlóutca könnyen megközelíthető villamossal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de-a lungul Bulevardului İstiklal",
+            "tip": "Strada principală de cumpărături este ușor accesibilă cu tramvaiul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops along İstiklal Avenue",
+            "tip": "The main shopping street is easily accessible by tram."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Samkart' für eine einfache Nutzung der öffentlichen Verkehrsmittel.",
+          "Überprüfen Sie die Fahrpläne im Voraus, besonders für Busse.",
+          "Die Straßenbahn ist der schnellste Weg, um die Küste entlang zu fahren."
+        ],
+        "hu": [
+          "Vásároljon 'Samkart'-ot a tömegközlekedés egyszerű használatához.",
+          "Ellenőrizze előre a menetrendeket, különösen a buszok esetében.",
+          "A villamos a leggyorsabb módja a tengerpart menti közlekedésnek."
+        ],
+        "ro": [
+          "Cumpărați un 'Samkart' pentru utilizarea ușoară a transportului public.",
+          "Verificați orarele în avans, în special pentru autobuze.",
+          "Tramvaiul este cel mai rapid mod de a călători de-a lungul coastei."
+        ],
+        "en": [
+          "Purchase a 'Samkart' for easy use of public transport.",
+          "Check schedules in advance, especially for buses.",
+          "The tram is the fastest way to travel along the coast."
+        ]
+      }
+    }
+  }
+}

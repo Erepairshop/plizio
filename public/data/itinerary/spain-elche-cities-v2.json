@@ -1,0 +1,1608 @@
+{
+  "city_id": "spain-elche-cities-v2",
+  "anchor": {
+    "name": "Elche",
+    "coords": [
+      38.2622,
+      -0.6993
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:47",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Palacio de Altamira | Altamira-palota | Palatul Altamira | Altamira Palace",
+          "coords": [
+            38.2657,
+            -0.701
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Innenhof zuerst ansehen; morgens ist das Licht am besten.",
+            "hu": "Az udvar reggel a legszebb, és kevés a tömeg.",
+            "ro": "Curtea arată cel mai bine dimineața, înainte de aglomerație.",
+            "en": "See the courtyard first; morning light is best here."
+          }
+        },
+        {
+          "name": "Torre de la Calahorra | Calahorra-torony | Turnul Calahorra | Calahorra Tower",
+          "coords": [
+            38.2669,
+            -0.6987
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Blick vom Turm reicht, dann weiter zur Basilika.",
+            "hu": "Elég egy rövid megálló, aztán irány a bazilika.",
+            "ro": "Oprire scurtă e suficientă, apoi mergi spre bazilică.",
+            "en": "A short stop is enough before the basilica."
+          }
+        },
+        {
+          "name": "Basílica de Santa María | Santa María-bazilika | Bazilica Santa María | Basilica of Saint Mary",
+          "coords": [
+            38.2674,
+            -0.699
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Leise bleiben; die Fassade wirkt am späten Vormittag am stärksten.",
+            "hu": "Maradj csendben; késő délelőtt a homlokzat a legszebb.",
+            "ro": "Păstrează liniștea; fațada prinde bine la final de dimineață.",
+            "en": "Keep it quiet; the facade shines late in the morning."
+          }
+        },
+        {
+          "name": "Museo de la Festa | Fiesta-múzeum | Muzeul Festa | Festival Museum",
+          "coords": [
+            38.2665,
+            -0.6984
+          ],
+          "category": "museums",
+          "arrive_at": "12:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kombiniere es mit Santa María, sie liegen fast nebeneinander.",
+            "hu": "Összeköthető a Santa María-val, alig kell sétálni.",
+            "ro": "Îl poți combina cu Santa María; sunt foarte aproape.",
+            "en": "Pair it with Santa María; the walk is tiny."
+          }
+        },
+        {
+          "name": "Parque Municipal | Városi park | Parcul Municipal | Municipal Park",
+          "coords": [
+            38.2649,
+            -0.6926
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Mittags die schattigen Bänke am Wasser nehmen.",
+            "hu": "Délben a víz melletti árnyékos padokat keresd.",
+            "ro": "La prânz, caută băncile umbrite de lângă apă.",
+            "en": "At noon, choose the shady benches by the water."
+          }
+        },
+        {
+          "name": "Huerto del Cura | Cura-kert | Grădina Huerto del Cura | Huerto del Cura Garden",
+          "coords": [
+            38.2682,
+            -0.6939
+          ],
+          "category": "natural features",
+          "arrive_at": "15:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Für Fotos die Palmen von der Seite aufnehmen, nicht frontal.",
+            "hu": "Fotóhoz oldalról vedd a pálmákat, ne szemből.",
+            "ro": "Pentru poze, surprinde palmierii din lateral.",
+            "en": "Shoot the palms from the side, not straight on."
+          }
+        },
+        {
+          "name": "Palmeral de Elche | Elchei pálmaliget | Palmeraul din Elche | Elche Palm Grove",
+          "coords": [
+            38.2608,
+            -0.6944
+          ],
+          "category": "natural features",
+          "arrive_at": "17:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spät nachmittags kommen die Schattenlinien am besten.",
+            "hu": "Késő délután a legszebbek az árnyékcsíkok.",
+            "ro": "După-amiaza târziu, umbrele sunt cele mai frumoase.",
+            "en": "Late afternoon gives the best shadow patterns."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Altamira, Calahorra und Santa María liegen kompakt zusammen. Mittags verbindet das Festa-Museum die Altstadt mit dem grünen Herz der Stadt. Am Nachmittag führen Parque Municipal, Huerto del Cura und das Palmeral in den Schatten. Am Abend bleibt Zeit für ruhige Palmenfotos im warmen Licht.",
+        "hu": "Reggel: Altamira, a Calahorra-torony és a Santa María egy rövid körben elérhető. Délben a Festa Múzeum után jön a város zöld magja. Délután a Parque Municipal, a Huerto del Cura és a Palmeral ad árnyékot. Estére maradnak a csendes pálmák és a lágy fény.",
+        "ro": "Dimineața: Altamira, turnul Calahorra și Santa María sunt foarte apropiate. La prânz, Museo de la Festa leagă centrul vechi de inima verde a orașului. După-amiaza mergi prin Parque Municipal, Huerto del Cura și Palmeral. Seara prinde lumina caldă printre palmieri.",
+        "en": "Morning: Altamira, Calahorra, and Santa María sit in one compact loop. Midday: the Festa Museum bridges the old town and the city's green core. Afternoon: Parque Municipal, Huerto del Cura, and the Palmeral bring shade and texture. Evening: stay for soft light and quiet palm shots."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz con costra - La Finca",
+            "tip": "Für arroz con costra am besten mittags reservieren."
+          },
+          {
+            "name": "Coca amb tonyna - La Taberna del Cura",
+            "tip": "Gute Wahl für lokale Vorspeisen und Palmherzen."
+          },
+          {
+            "name": "Salazones - Restaurante La Glorieta",
+            "tip": "Probier Reisgerichte und salazones."
+          },
+          {
+            "name": "Tapas - Els Capellans",
+            "tip": "Solide Tapas nach dem Altstadtrundgang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz con costra - La Finca",
+            "tip": "Az arroz con costra miatt ebédre foglalj."
+          },
+          {
+            "name": "Coca amb tonyna - La Taberna del Cura",
+            "tip": "Helyi előételekhez és pálmaszívhez jó."
+          },
+          {
+            "name": "Salazones - Restaurante La Glorieta",
+            "tip": "Rizses fogások és salazones."
+          },
+          {
+            "name": "Tapas - Els Capellans",
+            "tip": "Jó tapas az óváros után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz con costra - La Finca",
+            "tip": "Rezervă la prânz pentru arroz con costra."
+          },
+          {
+            "name": "Coca amb tonyna - La Taberna del Cura",
+            "tip": "Bun pentru aperitive locale și inimi de palmier."
+          },
+          {
+            "name": "Salazones - Restaurante La Glorieta",
+            "tip": "Orez și salazones."
+          },
+          {
+            "name": "Tapas - Els Capellans",
+            "tip": "Tapas bune după centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz con costra - La Finca",
+            "tip": "Book lunch for arroz con costra."
+          },
+          {
+            "name": "Coca amb tonyna - La Taberna del Cura",
+            "tip": "Good for local starters and palm hearts."
+          },
+          {
+            "name": "Salazones - Restaurante La Glorieta",
+            "tip": "Rice dishes and salazones shine here."
+          },
+          {
+            "name": "Tapas - Els Capellans",
+            "tip": "Solid tapas after the old-town loop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palmeral de Elche",
+            "tip": "Spätes Licht macht die Palmenlinien grafisch.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Huerto del Cura",
+            "tip": "Ruhige Bänke und viel Schatten für eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parque Municipal",
+            "tip": "Am Wasser leicht spazieren und den Tag auslaufen lassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Torre de la Calahorra",
+            "tip": "Kleine Dachblicke bei Goldlicht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elchei pálmaliget",
+            "tip": "Késő fényben a pálmasorok a legszebbek.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Huerto del Cura",
+            "tip": "Csendes padok és sok árnyék egy rövid megállóhoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Városi park",
+            "tip": "Víz mellett könnyű sétával zárd a napot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Calahorra-torony",
+            "tip": "Aranyórában szép tetővonalak nyílnak.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Palmeraul din Elche",
+            "tip": "Lumina târzie face rândurile de palmieri foarte grafice.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Huerto del Cura",
+            "tip": "Bănci liniștite și multă umbră pentru pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Municipal",
+            "tip": "Plimbare ușoară pe lângă apă, în ritm domol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Turnul Calahorra",
+            "tip": "La ora de aur apar acoperișuri foarte fotogenice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Elche Palm Grove",
+            "tip": "Late light makes the palm rows look graphic.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Huerto del Cura",
+            "tip": "Quiet benches and deep shade for a reset.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Municipal Park",
+            "tip": "Easy waterside wandering to end the day softly.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Calahorra Tower",
+            "tip": "Golden hour brings clean rooftop views.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Central",
+            "tip": "Frische Früchte, Käse und Salazones fürs Picknick."
+          },
+          {
+            "name": "Dátiles de Elche",
+            "tip": "Eine kleine Schachtel ist das beste Mitbringsel."
+          },
+          {
+            "name": "Alpargatas",
+            "tip": "Leichte Espadrilles sind ein echter Elche-Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Central",
+            "tip": "Friss gyümölcs, sajt és salazones egy piknikhez."
+          },
+          {
+            "name": "Dátiles de Elche",
+            "tip": "Kis dobozban is jól utazik, jó ajándék."
+          },
+          {
+            "name": "Alpargatas",
+            "tip": "Az espadrilles itt valódi helyi klasszikus."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Central",
+            "tip": "Fructe, brânzeturi și salazones pentru picnic."
+          },
+          {
+            "name": "Dátiles de Elche",
+            "tip": "O cutie mică e un suvenir excelent."
+          },
+          {
+            "name": "Alpargatas",
+            "tip": "Espadrilele sunt un clasic local autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Central",
+            "tip": "Fresh fruit, cheese, and salazones for a picnic."
+          },
+          {
+            "name": "Dátiles de Elche",
+            "tip": "A small box travels well and makes a good gift."
+          },
+          {
+            "name": "Alpargatas",
+            "tip": "Espadrilles are a true local classic here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Starte früh, damit du die Altstadt vor der Mittagshitze schaffst.",
+          "Die Wege sind kurz, aber der Schatten unter Palmen macht den Unterschied.",
+          "Für die Mittagspause ist ein Museum oder ein Innenhof ideal.",
+          "Später am Tag im Palmeral bleiben; das Licht wird dort besser."
+        ],
+        "hu": [
+          "Indulj korán, így az óvárost még a déli hőség előtt végigjárod.",
+          "A távok rövidek, de a pálmák árnyéka sokat számít.",
+          "Ebédszünetre egy múzeum vagy belső udvar a legjobb.",
+          "Később maradj a Palmeral környékén, ott szebb a fény."
+        ],
+        "ro": [
+          "Pornește devreme ca să vezi centrul vechi înainte de căldura amiezii.",
+          "Distanțele sunt scurte, dar umbra palmierilor ajută mult.",
+          "Pentru pauza de prânz, un muzeu sau o curte interioară e ideală.",
+          "Mai târziu rămâi la Palmeral; lumina devine mai bună acolo."
+        ],
+        "en": [
+          "Start early so you clear the old town before the midday heat.",
+          "The walks are short, but palm shade makes a big difference.",
+          "For lunch, a museum or inner courtyard works best.",
+          "Stay in the Palmeral later in the day; the light improves there."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Palacio de Altamira | Altamira-palota | Palatul Altamira | Altamira Palace",
+          "coords": [
+            38.2657,
+            -0.701
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Innenhof zuerst ansehen; morgens ist das Licht am besten.",
+            "hu": "Az udvar reggel a legszebb, és kevés a tömeg.",
+            "ro": "Curtea arată cel mai bine dimineața, înainte de aglomerație.",
+            "en": "See the courtyard first; morning light is best here."
+          }
+        },
+        {
+          "name": "Torre de la Calahorra | Calahorra-torony | Turnul Calahorra | Calahorra Tower",
+          "coords": [
+            38.2669,
+            -0.6987
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Blick vom Turm reicht, dann weiter zur Basilika.",
+            "hu": "Elég egy rövid megálló, aztán irány a bazilika.",
+            "ro": "Oprire scurtă e suficientă, apoi mergi spre bazilică.",
+            "en": "A short stop is enough before the basilica."
+          }
+        },
+        {
+          "name": "Basílica de Santa María | Santa María-bazilika | Bazilica Santa María | Basilica of Saint Mary",
+          "coords": [
+            38.2674,
+            -0.699
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Leise bleiben; die Fassade wirkt am späten Vormittag am stärksten.",
+            "hu": "Maradj csendben; késő délelőtt a homlokzat a legszebb.",
+            "ro": "Păstrează liniștea; fațada prinde bine la final de dimineață.",
+            "en": "Keep it quiet; the facade shines late in the morning."
+          }
+        },
+        {
+          "name": "Museo de la Festa | Fiesta-múzeum | Muzeul Festa | Festival Museum",
+          "coords": [
+            38.2665,
+            -0.6984
+          ],
+          "category": "museums",
+          "arrive_at": "12:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kombiniere es mit Santa María, sie liegen fast nebeneinander.",
+            "hu": "Összeköthető a Santa María-val, alig kell sétálni.",
+            "ro": "Îl poți combina cu Santa María; sunt foarte aproape.",
+            "en": "Pair it with Santa María; the walk is tiny."
+          }
+        },
+        {
+          "name": "Parque Municipal | Városi park | Parcul Municipal | Municipal Park",
+          "coords": [
+            38.2649,
+            -0.6926
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Mittags die schattigen Bänke am Wasser nehmen.",
+            "hu": "Délben a víz melletti árnyékos padokat keresd.",
+            "ro": "La prânz, caută băncile umbrite de lângă apă.",
+            "en": "At noon, choose the shady benches by the water."
+          }
+        },
+        {
+          "name": "Huerto del Cura | Cura-kert | Grădina Huerto del Cura | Huerto del Cura Garden",
+          "coords": [
+            38.2682,
+            -0.6939
+          ],
+          "category": "natural features",
+          "arrive_at": "15:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Für Fotos die Palmen von der Seite aufnehmen, nicht frontal.",
+            "hu": "Fotóhoz oldalról vedd a pálmákat, ne szemből.",
+            "ro": "Pentru poze, surprinde palmierii din lateral.",
+            "en": "Shoot the palms from the side, not straight on."
+          }
+        },
+        {
+          "name": "Palmeral de Elche | Elchei pálmaliget | Palmeraul din Elche | Elche Palm Grove",
+          "coords": [
+            38.2608,
+            -0.6944
+          ],
+          "category": "natural features",
+          "arrive_at": "16:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spät nachmittags kommen die Schattenlinien am besten.",
+            "hu": "Késő délután a legszebbek az árnyékcsíkok.",
+            "ro": "După-amiaza târziu, umbrele sunt cele mai frumoase.",
+            "en": "Late afternoon gives the best shadow patterns."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Mit dem Rad rollst du schnell durch das kompakte Zentrum zwischen Altamira und Santa María. Mittags bleibt Zeit für das Festa-Museum und die schattigen Achsen des Parks. Am Nachmittag führen dich ruhige, kurze Etappen ins Huerto del Cura und weiter ins Palmeral. Abends ist das letzte Licht perfekt für langsame Fotos.",
+        "hu": "Reggel: bringával gyorsan bejárható a kompakt központ Altamira és Santa María között. Délben jön a Festa Múzeum és a park árnyékos útvonalai. Délután rövid, nyugodt szakaszok vezetnek a Huerto del Curába és tovább a Palmeralhoz. Estére marad a lassú fotózás a legszebb fényben.",
+        "ro": "Dimineața: cu bicicleta traversezi ușor centrul compact dintre Altamira și Santa María. La prânz ai timp pentru Museo de la Festa și aleile umbrite din parc. După-amiaza, etapele scurte te duc la Huerto del Cura și apoi în Palmeral. Seara prinde bine pentru poze lente, în lumină moale.",
+        "en": "Morning: the bike makes the compact center between Altamira and Santa María easy. Midday leaves time for the Festa Museum and the park's shady lanes. Afternoon brings short, calm legs to Huerto del Cura and then the Palmeral. Evening is perfect for slow photos in soft light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz con costra - La Finca",
+            "tip": "Für arroz con costra am besten mittags reservieren."
+          },
+          {
+            "name": "Coca amb tonyna - La Taberna del Cura",
+            "tip": "Gute Wahl für lokale Vorspeisen und Palmherzen."
+          },
+          {
+            "name": "Salazones - Restaurante La Glorieta",
+            "tip": "Probier Reisgerichte und salazones."
+          },
+          {
+            "name": "Tapas - Els Capellans",
+            "tip": "Solide Tapas nach dem Altstadtrundgang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz con costra - La Finca",
+            "tip": "Az arroz con costra miatt ebédre foglalj."
+          },
+          {
+            "name": "Coca amb tonyna - La Taberna del Cura",
+            "tip": "Helyi előételekhez és pálmaszívhez jó."
+          },
+          {
+            "name": "Salazones - Restaurante La Glorieta",
+            "tip": "Rizses fogások és salazones."
+          },
+          {
+            "name": "Tapas - Els Capellans",
+            "tip": "Jó tapas az óváros után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz con costra - La Finca",
+            "tip": "Rezervă la prânz pentru arroz con costra."
+          },
+          {
+            "name": "Coca amb tonyna - La Taberna del Cura",
+            "tip": "Bun pentru aperitive locale și inimi de palmier."
+          },
+          {
+            "name": "Salazones - Restaurante La Glorieta",
+            "tip": "Orez și salazones."
+          },
+          {
+            "name": "Tapas - Els Capellans",
+            "tip": "Tapas bune după centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz con costra - La Finca",
+            "tip": "Book lunch for arroz con costra."
+          },
+          {
+            "name": "Coca amb tonyna - La Taberna del Cura",
+            "tip": "Good for local starters and palm hearts."
+          },
+          {
+            "name": "Salazones - Restaurante La Glorieta",
+            "tip": "Rice dishes and salazones shine here."
+          },
+          {
+            "name": "Tapas - Els Capellans",
+            "tip": "Solid tapas after the old-town loop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palmeral de Elche",
+            "tip": "Spätes Licht macht die Palmenlinien grafisch.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Huerto del Cura",
+            "tip": "Ruhige Bänke und viel Schatten für eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parque Municipal",
+            "tip": "Am Wasser leicht spazieren und den Tag auslaufen lassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Torre de la Calahorra",
+            "tip": "Kleine Dachblicke bei Goldlicht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elchei pálmaliget",
+            "tip": "Késő fényben a pálmasorok a legszebbek.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Huerto del Cura",
+            "tip": "Csendes padok és sok árnyék egy rövid megállóhoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Városi park",
+            "tip": "Víz mellett könnyű sétával zárd a napot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Calahorra-torony",
+            "tip": "Aranyórában szép tetővonalak nyílnak.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Palmeraul din Elche",
+            "tip": "Lumina târzie face rândurile de palmieri foarte grafice.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Huerto del Cura",
+            "tip": "Bănci liniștite și multă umbră pentru pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Municipal",
+            "tip": "Plimbare ușoară pe lângă apă, în ritm domol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Turnul Calahorra",
+            "tip": "La ora de aur apar acoperișuri foarte fotogenice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Elche Palm Grove",
+            "tip": "Late light makes the palm rows look graphic.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Huerto del Cura",
+            "tip": "Quiet benches and deep shade for a reset.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Municipal Park",
+            "tip": "Easy waterside wandering to end the day softly.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Calahorra Tower",
+            "tip": "Golden hour brings clean rooftop views.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Central",
+            "tip": "Frische Früchte, Käse und Salazones fürs Picknick."
+          },
+          {
+            "name": "Dátiles de Elche",
+            "tip": "Eine kleine Schachtel ist das beste Mitbringsel."
+          },
+          {
+            "name": "Alpargatas",
+            "tip": "Leichte Espadrilles sind ein echter Elche-Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Central",
+            "tip": "Friss gyümölcs, sajt és salazones egy piknikhez."
+          },
+          {
+            "name": "Dátiles de Elche",
+            "tip": "Kis dobozban is jól utazik, jó ajándék."
+          },
+          {
+            "name": "Alpargatas",
+            "tip": "Az espadrilles itt valódi helyi klasszikus."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Central",
+            "tip": "Fructe, brânzeturi și salazones pentru picnic."
+          },
+          {
+            "name": "Dátiles de Elche",
+            "tip": "O cutie mică e un suvenir excelent."
+          },
+          {
+            "name": "Alpargatas",
+            "tip": "Espadrilele sunt un clasic local autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Central",
+            "tip": "Fresh fruit, cheese, and salazones for a picnic."
+          },
+          {
+            "name": "Dátiles de Elche",
+            "tip": "A small box travels well and makes a good gift."
+          },
+          {
+            "name": "Alpargatas",
+            "tip": "Espadrilles are a true local classic here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mit dem Rad sparst du Zeit, aber die schönsten Stellen liegen oft nur wenige Minuten auseinander.",
+          "Plane kurze Pausen im Schatten ein, sonst wird die Mittagsrunde zäh.",
+          "Zwischen Park und Palmeral lohnt es sich, bewusst langsam zu fahren.",
+          "Schloss, Kirche und Museum funktionieren hier gut als kompakter Block."
+        ],
+        "hu": [
+          "Biciklivel időt nyersz, de a legjobb pontok csak pár percre vannak egymástól.",
+          "Tervezz árnyékos pihenőket, különben a déli szakasz fárasztó lesz.",
+          "A park és a Palmeral között érdemes lassabban gurulni.",
+          "A palota, a bazilika és a múzeum jól összeáll egy tömör blokká."
+        ],
+        "ro": [
+          "Cu bicicleta câștigi timp, dar locurile bune sunt la câteva minute distanță.",
+          "Pauzele la umbră contează, altfel traseul de la prânz devine greu.",
+          "Între parc și Palmeral merită să mergi mai încet.",
+          "Palatul, bazilica și muzeul se leagă bine într-un bloc compact."
+        ],
+        "en": [
+          "The bike saves time, but the best spots are often only minutes apart.",
+          "Plan shade breaks or the midday stretch gets tiring fast.",
+          "Between the park and the Palmeral, it pays to ride slowly.",
+          "The palace, basilica, and museum work well as a tight block."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:21",
+      "total_km": 4.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Palacio de Altamira | Altamira-palota | Palatul Altamira | Altamira Palace",
+          "coords": [
+            38.2657,
+            -0.701
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parke im Altstadtbereich und geh den Rest zu Fuß.",
+            "hu": "Parkolj az óváros szélén, a többit gyalog oldd meg.",
+            "ro": "Parchează la marginea centrului vechi și mergi pe jos.",
+            "en": "Park by the old town and walk the rest."
+          }
+        },
+        {
+          "name": "Torre de la Calahorra | Calahorra-torony | Turnul Calahorra | Calahorra Tower",
+          "coords": [
+            38.2669,
+            -0.6987
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Fußweg zwischen diesen zwei Punkten ist kaum der Rede wert.",
+            "hu": "A két pont között alig van érdemi sétatáv.",
+            "ro": "Între aceste două puncte mergi foarte puțin pe jos.",
+            "en": "The walk between these two points is barely anything."
+          }
+        },
+        {
+          "name": "Basílica de Santa María | Santa María-bazilika | Bazilica Santa María | Basilica of Saint Mary",
+          "coords": [
+            38.2674,
+            -0.699
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Mach die kurze Strecke zu Fuß, nicht mit dem Auto.",
+            "hu": "Ezt a rövid szakaszt inkább gyalog tedd meg.",
+            "ro": "Parcurge acest segment scurt pe jos, nu cu mașina.",
+            "en": "Do this short leg on foot, not by car."
+          }
+        },
+        {
+          "name": "Museo de la Festa | Fiesta-múzeum | Muzeul Festa | Festival Museum",
+          "coords": [
+            38.2665,
+            -0.6984
+          ],
+          "category": "museums",
+          "arrive_at": "12:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Altstadt ist hier kompakt genug für eine echte Fußschleife.",
+            "hu": "Az óváros itt elég kompakt egy normális gyalogkörhöz.",
+            "ro": "Centrul vechi e suficient de compact pentru un tur pe jos.",
+            "en": "The old town is compact enough for a proper walking loop."
+          }
+        },
+        {
+          "name": "Parque Municipal | Városi park | Parcul Municipal | Municipal Park",
+          "coords": [
+            38.2649,
+            -0.6926
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Hier einmal parken und den Rest der Cluster zu Fuß machen.",
+            "hu": "Itt parkolj le egyszer, és a blokk többi részét sétáld végig.",
+            "ro": "Aici oprește o singură dată și continuă clusterul pe jos.",
+            "en": "Park once here and finish the cluster on foot."
+          }
+        },
+        {
+          "name": "Huerto del Cura | Cura-kert | Grădina Huerto del Cura | Huerto del Cura Garden",
+          "coords": [
+            38.2682,
+            -0.6939
+          ],
+          "category": "natural features",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das ist der beste Ort für eine ruhige Fußrunde nach dem Parken.",
+            "hu": "Ez a legjobb hely egy nyugodt gyalogkörre parkolás után.",
+            "ro": "Acesta e locul ideal pentru o plimbare liniștită după parcare.",
+            "en": "This is the best spot for a calm walking loop after parking."
+          }
+        },
+        {
+          "name": "Museo del Palmeral | Palmeral-múzeum | Muzeul Palmeralului | Palm Grove Museum",
+          "coords": [
+            38.2628,
+            -0.6902
+          ],
+          "category": "museums",
+          "arrive_at": "16:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Sprung zum nächsten Cluster lohnt sich erst, wenn du es zu Fuß erkundest.",
+            "hu": "A következő blokk csak akkor jó, ha ott már gyalog fedezed fel.",
+            "ro": "Următorul cluster merită doar dacă îl explorezi pe jos.",
+            "en": "The next cluster only pays off if you explore it on foot."
+          }
+        },
+        {
+          "name": "Palmeral de Elche | Elchei pálmaliget | Palmeraul din Elche | Elche Palm Grove",
+          "coords": [
+            38.2608,
+            -0.6944
+          ],
+          "category": "natural features",
+          "arrive_at": "18:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Abends parken und die letzten Meter durch das Grün laufen.",
+            "hu": "Estére parkolj, és az utolsó métereket zöldben sétáld meg.",
+            "ro": "Seara parchează și mergi ultimii metri prin verdeață.",
+            "en": "At nightfall, park and walk the last meters through the green."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Altstadt-Cluster mit Altamira, Calahorra, Santa María und Festa. Mittags einmal parken, dann zu Parque Municipal und Huerto del Cura zu Fuß. Am Nachmittag zum Palm-Museum und in den Hain weiterfahren. Abends lohnt sich das letzte Cluster für ruhige Lichtfotos.",
+        "hu": "Reggel: az Altamira, Calahorra, Santa María és Festa blokkot érdemes egyben végigjárni. Délben egyszer parkolsz, utána a Parque Municipal és a Huerto del Cura már gyalog jön. Délután a Pálmamúzeum és a liget következik. Estére maradnak a csendes, szép fények.",
+        "ro": "Dimineața: faci blocul Altamira, Calahorra, Santa María și Festa dintr-o singură buclă. La prânz parchezi o dată, apoi mergi pe jos la Parque Municipal și Huerto del Cura. După-amiaza continui spre muzeul palmierilor și apoi în palmier. Seara merită ultimul cluster pentru lumină bună.",
+        "en": "Morning: do the Altamira, Calahorra, Santa María, and Festa block as one loop. Midday: park once, then walk to Parque Municipal and Huerto del Cura. Afternoon: continue to the Palm Museum and then the grove. Evening: the final cluster is best for calm, soft-light photos."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz con costra - La Finca",
+            "tip": "Für arroz con costra am besten mittags reservieren."
+          },
+          {
+            "name": "Coca amb tonyna - La Taberna del Cura",
+            "tip": "Gute Wahl für lokale Vorspeisen und Palmherzen."
+          },
+          {
+            "name": "Salazones - Restaurante La Glorieta",
+            "tip": "Probier Reisgerichte und salazones."
+          },
+          {
+            "name": "Tapas - Els Capellans",
+            "tip": "Solide Tapas nach dem Altstadtrundgang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz con costra - La Finca",
+            "tip": "Az arroz con costra miatt ebédre foglalj."
+          },
+          {
+            "name": "Coca amb tonyna - La Taberna del Cura",
+            "tip": "Helyi előételekhez és pálmaszívhez jó."
+          },
+          {
+            "name": "Salazones - Restaurante La Glorieta",
+            "tip": "Rizses fogások és salazones."
+          },
+          {
+            "name": "Tapas - Els Capellans",
+            "tip": "Jó tapas az óváros után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz con costra - La Finca",
+            "tip": "Rezervă la prânz pentru arroz con costra."
+          },
+          {
+            "name": "Coca amb tonyna - La Taberna del Cura",
+            "tip": "Bun pentru aperitive locale și inimi de palmier."
+          },
+          {
+            "name": "Salazones - Restaurante La Glorieta",
+            "tip": "Orez și salazones."
+          },
+          {
+            "name": "Tapas - Els Capellans",
+            "tip": "Tapas bune după centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz con costra - La Finca",
+            "tip": "Book lunch for arroz con costra."
+          },
+          {
+            "name": "Coca amb tonyna - La Taberna del Cura",
+            "tip": "Good for local starters and palm hearts."
+          },
+          {
+            "name": "Salazones - Restaurante La Glorieta",
+            "tip": "Rice dishes and salazones shine here."
+          },
+          {
+            "name": "Tapas - Els Capellans",
+            "tip": "Solid tapas after the old-town loop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palmeral de Elche",
+            "tip": "Spätes Licht macht die Palmenlinien grafisch.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Huerto del Cura",
+            "tip": "Ruhige Bänke und viel Schatten für eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parque Municipal",
+            "tip": "Am Wasser leicht spazieren und den Tag auslaufen lassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Torre de la Calahorra",
+            "tip": "Kleine Dachblicke bei Goldlicht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elchei pálmaliget",
+            "tip": "Késő fényben a pálmasorok a legszebbek.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Huerto del Cura",
+            "tip": "Csendes padok és sok árnyék egy rövid megállóhoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Városi park",
+            "tip": "Víz mellett könnyű sétával zárd a napot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Calahorra-torony",
+            "tip": "Aranyórában szép tetővonalak nyílnak.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Palmeraul din Elche",
+            "tip": "Lumina târzie face rândurile de palmieri foarte grafice.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Huerto del Cura",
+            "tip": "Bănci liniștite și multă umbră pentru pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Municipal",
+            "tip": "Plimbare ușoară pe lângă apă, în ritm domol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Turnul Calahorra",
+            "tip": "La ora de aur apar acoperișuri foarte fotogenice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Elche Palm Grove",
+            "tip": "Late light makes the palm rows look graphic.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Huerto del Cura",
+            "tip": "Quiet benches and deep shade for a reset.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Municipal Park",
+            "tip": "Easy waterside wandering to end the day softly.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Calahorra Tower",
+            "tip": "Golden hour brings clean rooftop views.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Central",
+            "tip": "Frische Früchte, Käse und Salazones fürs Picknick."
+          },
+          {
+            "name": "Dátiles de Elche",
+            "tip": "Eine kleine Schachtel ist das beste Mitbringsel."
+          },
+          {
+            "name": "Alpargatas",
+            "tip": "Leichte Espadrilles sind ein echter Elche-Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Central",
+            "tip": "Friss gyümölcs, sajt és salazones egy piknikhez."
+          },
+          {
+            "name": "Dátiles de Elche",
+            "tip": "Kis dobozban is jól utazik, jó ajándék."
+          },
+          {
+            "name": "Alpargatas",
+            "tip": "Az espadrilles itt valódi helyi klasszikus."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Central",
+            "tip": "Fructe, brânzeturi și salazones pentru picnic."
+          },
+          {
+            "name": "Dátiles de Elche",
+            "tip": "O cutie mică e un suvenir excelent."
+          },
+          {
+            "name": "Alpargatas",
+            "tip": "Espadrilele sunt un clasic local autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Central",
+            "tip": "Fresh fruit, cheese, and salazones for a picnic."
+          },
+          {
+            "name": "Dátiles de Elche",
+            "tip": "A small box travels well and makes a good gift."
+          },
+          {
+            "name": "Alpargatas",
+            "tip": "Espadrilles are a true local classic here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parke nur einmal pro Cluster und laufe die kurzen Verbindungen zu Fuß.",
+          "Die Einbahnstraßen der Altstadt sind weniger angenehm als der Fußweg.",
+          "Die Route funktioniert am besten als kleine, ruhige Fußschleifen.",
+          "Halte das letzte Cluster nicht zu früh für Fotos am Abend zurück."
+        ],
+        "hu": [
+          "Blokkonként csak egyszer parkolj, a rövid összeköttetéseket gyalog tedd meg.",
+          "Az óvárosi egyirányú utcák kevésbé kellemesek, mint a séta.",
+          "A legjobb eredmény itt a kis, nyugodt gyalogkörökből jön.",
+          "A legutolsó blokkot ne hagyd túl korán, estére szebb lesz a fény."
+        ],
+        "ro": [
+          "Parchează o singură dată pe cluster și mergi pe jos între punctele apropiate.",
+          "Străzile cu sens unic din centru sunt mai neplăcute decât mersul pe jos.",
+          "Traseul merge cel mai bine ca șir de mici bucle pietonale.",
+          "Nu lăsa ultimul cluster prea devreme; lumina de seară e mai bună."
+        ],
+        "en": [
+          "Park once per cluster and walk the short links between sights.",
+          "The old-town one-way streets are less pleasant than the footpaths.",
+          "This route works best as a set of calm walking loops.",
+          "Do not finish the last cluster too early; evening light is better."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "20:27",
+      "total_km": 4.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Palacio de Altamira | Altamira-palota | Palatul Altamira | Altamira Palace",
+          "coords": [
+            38.2657,
+            -0.701
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mit Bus oder zu Fuß in den Altstadtkern, dann bleibt alles dicht beieinander.",
+            "hu": "Busszal vagy gyalog menj be az óvárosba, onnantól minden közel lesz.",
+            "ro": "Intră cu autobuzul sau pe jos în centru, apoi totul rămâne aproape.",
+            "en": "Use the bus or walk into the old town, then everything stays close."
+          }
+        },
+        {
+          "name": "Torre de la Calahorra | Calahorra-torony | Turnul Calahorra | Calahorra Tower",
+          "coords": [
+            38.2669,
+            -0.6987
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zwischen den inneren Stopps reicht ein kurzer Fußweg.",
+            "hu": "A belső megállók között elég egy rövid séta.",
+            "ro": "Între opririle din centru ajunge o plimbare scurtă.",
+            "en": "Between inner-city stops, a short walk is enough."
+          }
+        },
+        {
+          "name": "Basílica de Santa María | Santa María-bazilika | Bazilica Santa María | Basilica of Saint Mary",
+          "coords": [
+            38.2674,
+            -0.699
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Strecke ist klein genug, um sie ohne weiteres Umsteigen zu laufen.",
+            "hu": "Ez a távolság még simán átsétálható átszállás nélkül.",
+            "ro": "Distanța e suficient de mică pentru a merge fără alt schimb.",
+            "en": "The distance is small enough to walk without another transfer."
+          }
+        },
+        {
+          "name": "Museo de la Festa | Fiesta-múzeum | Muzeul Festa | Festival Museum",
+          "coords": [
+            38.2665,
+            -0.6984
+          ],
+          "category": "museums",
+          "arrive_at": "12:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nutze den Block als eine einzige Altstadt-Karte in Echtzeit.",
+            "hu": "Ezt a blokkot egyetlen élő óvárosi körként kezeld.",
+            "ro": "Tratează blocul ca pe o singură hartă vie a centrului.",
+            "en": "Treat this block like one live map of the old town."
+          }
+        },
+        {
+          "name": "Parque Municipal | Városi park | Parcul Municipal | Municipal Park",
+          "coords": [
+            38.2649,
+            -0.6926
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Die Fahrt hierher lohnt sich, weil der Rest dann entspannt zu Fuß geht.",
+            "hu": "Az út ide megéri, mert utána minden laza sétává válik.",
+            "ro": "Drumul până aici merită, fiindcă restul devine o plimbare relaxată.",
+            "en": "The ride here pays off, because the rest turns into an easy walk."
+          }
+        },
+        {
+          "name": "Huerto del Cura | Cura-kert | Grădina Huerto del Cura | Huerto del Cura Garden",
+          "coords": [
+            38.2682,
+            -0.6939
+          ],
+          "category": "natural features",
+          "arrive_at": "15:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zwischen Park und Garten liegt nur ein kurzer Fußlink.",
+            "hu": "A park és a kert között csak egy rövid gyalogos link van.",
+            "ro": "Între parc și grădină e doar o scurtă legătură pe jos.",
+            "en": "Between the park and the garden, it is just a short foot link."
+          }
+        },
+        {
+          "name": "Museo del Palmeral | Palmeral-múzeum | Muzeul Palmeralului | Palm Grove Museum",
+          "coords": [
+            38.2628,
+            -0.6902
+          ],
+          "category": "museums",
+          "arrive_at": "16:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Für den nächsten Bezirk nimm die Linie, dann geh den Rest.",
+            "hu": "A következő negyedhez a vonalat használd, aztán gyalogolj.",
+            "ro": "Pentru cartierul următor ia transportul, apoi mergi pe jos.",
+            "en": "Take transit for the next district, then walk the rest."
+          }
+        },
+        {
+          "name": "Palmeral de Elche | Elchei pálmaliget | Palmeraul din Elche | Elche Palm Grove",
+          "coords": [
+            38.2608,
+            -0.6944
+          ],
+          "category": "natural features",
+          "arrive_at": "18:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die letzte Verbindung ist kurz genug für einen ruhigen Ausstieg.",
+            "hu": "Az utolsó kapcsolat elég rövid egy nyugodt lezáráshoz.",
+            "ro": "Ultima legătură e suficient de scurtă pentru un final liniștit.",
+            "en": "The last link is short enough for a calm finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Nimm eine Linie in den Altstadtkern und bleib dort im dichten Cluster. Mittags verbindet der nächste kurze Wechsel Park, Huerto del Cura und die grünen Wege. Am Nachmittag fährst du zum Palm-Museum und läufst dann durch das Palmeral. Abends ist die Rückfahrt entspannt, weil nur noch ein letzter kurzer Block offen bleibt.",
+        "hu": "Reggel: menj be egy járattal az óvárosba, és maradj a sűrűn összerakott blokkban. Délben a következő rövid váltás összeköti a parkot, a Huerto del Curát és a zöld sétányokat. Délután jön a Pálmamúzeum, utána pedig a Palmeral. Estére már csak egy utolsó rövid blokk marad, így nyugodt a visszaút.",
+        "ro": "Dimineața: intri cu o linie în centrul vechi și rămâi în clusterul dens de acolo. La prânz, un schimb scurt leagă parcul, Huerto del Cura și aleile verzi. După-amiaza mergi la muzeul palmierilor și apoi prin Palmeral. Seara, întoarcerea e relaxată, fiindcă mai rămâne doar un singur bloc scurt.",
+        "en": "Morning: take transit into the old town and stay inside the tight cluster. Midday: one short transfer links the park, Huerto del Cura, and the green lanes. Afternoon: head to the Palm Museum and then through the Palmeral. Evening return is easy because only one short block is left."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz con costra - La Finca",
+            "tip": "Für arroz con costra am besten mittags reservieren."
+          },
+          {
+            "name": "Coca amb tonyna - La Taberna del Cura",
+            "tip": "Gute Wahl für lokale Vorspeisen und Palmherzen."
+          },
+          {
+            "name": "Salazones - Restaurante La Glorieta",
+            "tip": "Probier Reisgerichte und salazones."
+          },
+          {
+            "name": "Tapas - Els Capellans",
+            "tip": "Solide Tapas nach dem Altstadtrundgang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz con costra - La Finca",
+            "tip": "Az arroz con costra miatt ebédre foglalj."
+          },
+          {
+            "name": "Coca amb tonyna - La Taberna del Cura",
+            "tip": "Helyi előételekhez és pálmaszívhez jó."
+          },
+          {
+            "name": "Salazones - Restaurante La Glorieta",
+            "tip": "Rizses fogások és salazones."
+          },
+          {
+            "name": "Tapas - Els Capellans",
+            "tip": "Jó tapas az óváros után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz con costra - La Finca",
+            "tip": "Rezervă la prânz pentru arroz con costra."
+          },
+          {
+            "name": "Coca amb tonyna - La Taberna del Cura",
+            "tip": "Bun pentru aperitive locale și inimi de palmier."
+          },
+          {
+            "name": "Salazones - Restaurante La Glorieta",
+            "tip": "Orez și salazones."
+          },
+          {
+            "name": "Tapas - Els Capellans",
+            "tip": "Tapas bune după centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz con costra - La Finca",
+            "tip": "Book lunch for arroz con costra."
+          },
+          {
+            "name": "Coca amb tonyna - La Taberna del Cura",
+            "tip": "Good for local starters and palm hearts."
+          },
+          {
+            "name": "Salazones - Restaurante La Glorieta",
+            "tip": "Rice dishes and salazones shine here."
+          },
+          {
+            "name": "Tapas - Els Capellans",
+            "tip": "Solid tapas after the old-town loop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palmeral de Elche",
+            "tip": "Spätes Licht macht die Palmenlinien grafisch.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Huerto del Cura",
+            "tip": "Ruhige Bänke und viel Schatten für eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parque Municipal",
+            "tip": "Am Wasser leicht spazieren und den Tag auslaufen lassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Torre de la Calahorra",
+            "tip": "Kleine Dachblicke bei Goldlicht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elchei pálmaliget",
+            "tip": "Késő fényben a pálmasorok a legszebbek.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Huerto del Cura",
+            "tip": "Csendes padok és sok árnyék egy rövid megállóhoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Városi park",
+            "tip": "Víz mellett könnyű sétával zárd a napot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Calahorra-torony",
+            "tip": "Aranyórában szép tetővonalak nyílnak.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Palmeraul din Elche",
+            "tip": "Lumina târzie face rândurile de palmieri foarte grafice.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Huerto del Cura",
+            "tip": "Bănci liniștite și multă umbră pentru pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Municipal",
+            "tip": "Plimbare ușoară pe lângă apă, în ritm domol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Turnul Calahorra",
+            "tip": "La ora de aur apar acoperișuri foarte fotogenice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Elche Palm Grove",
+            "tip": "Late light makes the palm rows look graphic.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Huerto del Cura",
+            "tip": "Quiet benches and deep shade for a reset.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Municipal Park",
+            "tip": "Easy waterside wandering to end the day softly.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Calahorra Tower",
+            "tip": "Golden hour brings clean rooftop views.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Central",
+            "tip": "Frische Früchte, Käse und Salazones fürs Picknick."
+          },
+          {
+            "name": "Dátiles de Elche",
+            "tip": "Eine kleine Schachtel ist das beste Mitbringsel."
+          },
+          {
+            "name": "Alpargatas",
+            "tip": "Leichte Espadrilles sind ein echter Elche-Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Central",
+            "tip": "Friss gyümölcs, sajt és salazones egy piknikhez."
+          },
+          {
+            "name": "Dátiles de Elche",
+            "tip": "Kis dobozban is jól utazik, jó ajándék."
+          },
+          {
+            "name": "Alpargatas",
+            "tip": "Az espadrilles itt valódi helyi klasszikus."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Central",
+            "tip": "Fructe, brânzeturi și salazones pentru picnic."
+          },
+          {
+            "name": "Dátiles de Elche",
+            "tip": "O cutie mică e un suvenir excelent."
+          },
+          {
+            "name": "Alpargatas",
+            "tip": "Espadrilele sunt un clasic local autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Central",
+            "tip": "Fresh fruit, cheese, and salazones for a picnic."
+          },
+          {
+            "name": "Dátiles de Elche",
+            "tip": "A small box travels well and makes a good gift."
+          },
+          {
+            "name": "Alpargatas",
+            "tip": "Espadrilles are a true local classic here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutze den ÖPNV nur für die Clusterwechsel, dann geh den Block zu Fuß.",
+          "Prüfe die Rückfahrt am Nachmittag, damit du nicht hetzt.",
+          "Altstadt und Grüngürtel lassen sich gut in zwei bis drei Fahrten abbilden.",
+          "Wenn du eine Verbindung verpasst, bleib einfach im selben Cluster länger."
+        ],
+        "hu": [
+          "Az átszállásokat csak a blokkok között használd, a blokkot gyalog járd be.",
+          "Délután ellenőrizd a visszautat, hogy ne kelljen sietni.",
+          "Az óváros és a zöld zóna két-három menetben jól összerakható.",
+          "Ha lemaradsz egy járatról, maradj még ugyanabban a blokkban."
+        ],
+        "ro": [
+          "Folosește transportul doar între clustere, apoi mergi pe jos în interiorul lor.",
+          "Verifică întoarcerea după-amiază ca să nu grăbești finalul.",
+          "Centrul vechi și zona verde merg bine în două sau trei curse.",
+          "Dacă pierzi o legătură, rămâi mai mult în același cluster."
+        ],
+        "en": [
+          "Use transit only between clusters, then walk within each block.",
+          "Check the return schedule in the afternoon so you do not rush.",
+          "The old town and green belt fit nicely into two or three rides.",
+          "If you miss a connection, just stay longer in the same cluster."
+        ]
+      }
+    }
+  }
+}

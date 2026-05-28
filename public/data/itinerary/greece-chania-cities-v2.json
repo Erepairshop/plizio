@@ -1,0 +1,1460 @@
+{
+  "city_id": "greece-chania-cities-v2",
+  "anchor": {
+    "name": "Chania",
+    "coords": [
+      24.018,
+      35.5138
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Städtische Markthalle von Chania",
+            "hu": "Chania városi vásárcsarnoka",
+            "ro": "Piața Municipală din Chania",
+            "en": "Municipal Market of Chania"
+          },
+          "coords": [
+            24.0201,
+            35.513
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie den lokalen Graviera-Käse und Thymianhonig von den Ständen im Inneren.",
+            "hu": "Kóstolja meg a helyi graviera sajtot és a kakukkfűmézet a benti standoknál.",
+            "ro": "Încercați brânza locală Graviera și mierea de cimbru de la tarabele din interior.",
+            "en": "Try the local Graviera cheese and thyme honey from the stalls inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Chania",
+            "hu": "Chania óvárosa",
+            "ro": "Orașul vechi din Chania",
+            "en": "Old Town of Chania"
+          },
+          "coords": [
+            24.0185,
+            35.5155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verirren Sie sich in den engen Gassen; hier finden Sie die besten familiengeführten Tavernen.",
+            "hu": "Tévedjen el a szűk sikátorokban; a legjobb családi tavernákat itt találja.",
+            "ro": "Rătăciți-vă pe aleile înguste; aici veți găsi cele mai bune taverne de familie.",
+            "en": "Get lost in the narrow alleys; it's where you'll find the best family-run taverns."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianischer Hafen",
+            "hu": "Velencei kikötő",
+            "ro": "Portul Venețian",
+            "en": "Venetian Harbour"
+          },
+          "coords": [
+            24.0178,
+            35.5175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Am besten am späten Nachmittag besuchen, wenn das Licht weich ist und die Boote zurückkehren.",
+            "hu": "A legjobb késő délután meglátogatni, amikor a fények lágyak és a hajók visszatérnek.",
+            "ro": "Cel mai bun moment pentru vizită este după-amiaza târziu, când lumina este blândă și bărcile se întorc.",
+            "en": "Best visited in the late afternoon when the light is soft and boats are returning."
+          }
+        },
+        {
+          "name": {
+            "de": "Hassan-Pascha-Moschee",
+            "hu": "Hasszán pasa mecsetje",
+            "ro": "Moscheea Hassan Pașa",
+            "en": "Hassan Pasha Mosque"
+          },
+          "coords": [
+            24.0192,
+            35.5178
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dient oft als Kunstaustellungsraum. Prüfen Sie den Eingang auf aktuelle Ausstellungen.",
+            "hu": "Gyakran művészeti kiállítótérként szolgál. Ellenőrizze a bejáratnál az aktuális kiállításokat.",
+            "ro": "Adesea servește drept spațiu pentru expoziții de artă. Verificați la intrare expozițiile curente.",
+            "en": "Often serves as an art exhibition space. Check the entrance for current displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Chania",
+            "hu": "Chaniai világítótorony",
+            "ro": "Farul din Chania",
+            "en": "Lighthouse of Chania"
+          },
+          "coords": [
+            24.018,
+            35.5198
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang entlang der Mole ist windig. Bringen Sie eine leichte Jacke mit, auch im Sommer.",
+            "hu": "A mólón szeles az idő. Hozzon magával egy könnyű dzsekit, még nyáron is.",
+            "ro": "Plimbarea de-a lungul digului este vântoasă. Aduceți o jachetă subțire, chiar și vara.",
+            "en": "The walk along the mole is windy. Bring a light jacket, even in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Firka Festung & Schifffahrtsmuseum",
+            "hu": "Firka erőd és Tengerészeti Múzeum",
+            "ro": "Fortăreața Firka și Muzeul Maritim",
+            "en": "Firka Fortress & Maritime Museum"
+          },
+          "coords": [
+            24.015,
+            35.518
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:12",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Festung bietet den besten Panoramablick auf den Leuchtturm und den Hafen.",
+            "hu": "Az erődből nyílik a legjobb panoráma a világítótoronyra és a kikötőre.",
+            "ro": "Fortăreața oferă cea mai bună vedere panoramică asupra farului și portului.",
+            "en": "The fortress offers the best panoramic view of the lighthouse and harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Chania",
+            "hu": "Chaniai Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Chania",
+            "en": "Archaeological Museum of Chania"
+          },
+          "coords": [
+            24.016,
+            35.515
+          ],
+          "category": "museums",
+          "arrive_at": "16:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das neue Museumsgebäude selbst ist ein architektonisches Highlight. Verpassen Sie nicht die minoischen Artefakte.",
+            "hu": "Az új múzeumépület önmagában is építészeti remekmű. Ne hagyja ki a minószi leleteket.",
+            "ro": "Noua clădire a muzeului este o bijuterie arhitecturală. Nu ratați artefactele minoice.",
+            "en": "The new museum building itself is an architectural highlight. Don't miss the Minoan artifacts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Chania, auf dem lebhaften Städtischen Markt, wo die Einheimischen einkaufen. Tauchen Sie ein in die Aromen und Gerüche Kretas. Schlendern Sie anschließend durch die labyrinthischen Gassen der Altstadt, entdecken Sie versteckte Innenhöfe und venezianische Herrenhäuser. Der Mittag führt Sie zum malerischen Venezianischen Hafen. Spüren Sie die Meeresbrise, während Sie zur ikonischen Hassan-Pascha-Moschee spazieren. Nehmen Sie sich am Nachmittag Zeit für einen langen Spaziergang zur Spitze des Leuchtturms, um eine atemberaubende Aussicht zu genießen. Beenden Sie Ihre Erkundung in der Firka-Festung, in der sich das Schifffahrtsmuseum befindet, und vertiefen Sie sich im neuen Archäologischen Museum in die minoische Vergangenheit.",
+        "hu": "Kezdje a napot Chania szívében, a nyüzsgő Városi Vásárcsarnokban, ahol a helyiek is vásárolnak. Merüljön el Kréta ízeiben és illataiban. Ezután sétáljon végig az Óváros labirintusszerű sikátorain, fedezze fel a rejtett udvarokat és velencei kúriákat. Az ebédidő a festői Velencei kikötőhöz vezeti. Érezze a tengeri szellőt, miközben az ikonikus Hasszán pasa mecsethez sétál. Délután szánjon időt egy hosszú sétára a világítótorony csúcsáig a lélegzetelállító kilátásért. Fejezze be a felfedezést a Firka erődben, amely a Tengerészeti Múzeumnak ad otthont, majd merüljön el a minószi múltban az új Régészeti Múzeumban.",
+        "ro": "Începeți ziua în inima orașului Chania, la Piața Municipală plină de viață, unde localnicii își fac cumpărăturile. Cufundați-vă în aromele și mirosurile Cretei. Apoi, plimbați-vă pe aleile labirintice ale Orașului Vechi, descoperind curți ascunse și conace venețiene. Prânzul vă aduce în pitorescul Port Venețian. Simțiți briza mării în timp ce vă plimbați spre iconica Moschee Hassan Pașa. După-amiaza, faceți o plimbare lungă până în vârful farului pentru vederi uimitoare. Încheiați explorarea la Fortăreața Firka, care găzduiește Muzeul Maritim, și aprofundați trecutul minoic la noul Muzeu de Arheologie.",
+        "en": "Start your day in the heart of Chania at the bustling Municipal Market, where locals shop. Immerse yourself in the flavors and scents of Crete. Then, wander through the labyrinthine alleys of the Old Town, discovering hidden courtyards and Venetian mansions. Lunchtime brings you to the picturesque Venetian Harbour. Feel the sea breeze as you stroll to the iconic Hassan Pasha Mosque. In the afternoon, take the long walk to the tip of the Lighthouse for stunning views. Finish your exploration at the Firka Fortress, home to the Maritime Museum, and delve into the Minoan past at the new Archaeological Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dakos Salat",
+            "tip": "Ein kretischer Klassiker mit Gerstenzwieback, Tomaten und Mizithra-Käse. Perfekt für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Frisch aus dem Ägäischen Meer, am besten in einer Taverne am Hafen genossen."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Kleine Käse- oder Kräuterpasteten, ein köstlicher lokaler Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dakos saláta",
+            "tip": "Krétai klasszikus árpakétszersülttel, paradicsommal és mizithra sajttal. Tökéletes könnyű ebéd."
+          },
+          {
+            "name": "Grillezett polip",
+            "tip": "Frissen az Égei-tengerből, a legjobb egy kikötői tavernában."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Kis sajtos vagy zöldfűszeres piték, egy finom helyi snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată Dakos",
+            "tip": "Un clasic cretan cu pesmet de orz, roșii și brânză Mizithra. Perfect pentru un prânz ușor."
+          },
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Proaspătă din Marea Egee, cel mai bine savurată la o tavernă din port."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Mici plăcinte cu brânză sau ierburi, o gustare locală delicioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dakos Salad",
+            "tip": "A Cretan classic with barley rusk, tomatoes, and Mizithra cheese. Perfect for a light lunch."
+          },
+          {
+            "name": "Grilled Octopus",
+            "tip": "Fresh from the Aegean, best enjoyed at a harbour-side taverna."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Small cheese or herb pies, a delicious local snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Leuchtturm",
+            "tip": "Der Spaziergang ist es wert für die goldene Stunde.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Gassen von Splantzia",
+            "tip": "Ein ruhigeres Viertel abseits der Touristenmassen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Versteckte Innenhöfe",
+            "tip": "Halten Sie Ausschau nach offenen Türen, die zu friedlichen Innenhöfen führen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a világítótoronynál",
+            "tip": "Megéri a sétát az arany óráért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Splantzia sikátorai",
+            "tip": "Csendesebb negyed a turistaforgatagtól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rejtett udvarok",
+            "tip": "Keresse a nyitott ajtókat, amelyek békés belső udvarokba vezetnek.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la Far",
+            "tip": "Plimbarea merită pentru ora de aur.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aleile din Splantzia",
+            "tip": "Un cartier mai liniștit, departe de mulțimile de turiști.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curți interioare ascunse",
+            "tip": "Fiți atenți la ușile deschise care duc spre curți interioare pașnice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at the Lighthouse",
+            "tip": "The walk is worth it for the golden hour view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alleys of Splantzia",
+            "tip": "A quieter neighborhood away from the main tourist crowds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hidden Courtyards",
+            "tip": "Look for open doors that lead into peaceful inner courtyards.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lederwaren in der 'Lederstraße'",
+            "tip": "Finden Sie handgefertigte Sandalen und Taschen in der Skridlof Straße."
+          },
+          {
+            "name": "Kretische Keramik",
+            "tip": "Suchen Sie nach Werkstätten in den Seitenstraßen der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bőráruk a 'Bőr utcában'",
+            "tip": "Kézzel készített szandálokat és táskákat talál a Skridlof utcában."
+          },
+          {
+            "name": "Krétai kerámia",
+            "tip": "Keressen műhelyeket az Óváros mellékutcáiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole din piele pe 'Strada Pielii'",
+            "tip": "Găsiți sandale și genți lucrate manual pe strada Skridlof."
+          },
+          {
+            "name": "Ceramică cretană",
+            "tip": "Căutați ateliere pe străduțele lăturalnice ale Orașului Vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leather goods on 'Leather Street'",
+            "tip": "Find handmade sandals and bags on Skridlof Street."
+          },
+          {
+            "name": "Cretan Pottery",
+            "tip": "Look for workshops in the backstreets of the Old Town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, das Kopfsteinpflaster kann uneben sein.",
+          "Beginnen Sie früh, um die Menschenmassen und die Mittagshitze zu vermeiden.",
+          "Nehmen Sie immer Wasser mit, besonders im Sommer.",
+          "Die meisten Geschäfte schließen am Nachmittag für eine Siesta, planen Sie entsprechend."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakő egyenetlen lehet.",
+          "Kezdje korán, hogy elkerülje a tömeget és a déli hőséget.",
+          "Mindig vigyen magával vizet, különösen nyáron.",
+          "A legtöbb üzlet délután bezár egy sziesztára, tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, pavelele pot fi denivelate.",
+          "Începeți devreme pentru a evita mulțimile și căldura de la amiază.",
+          "Luați mereu apă cu dvs., mai ales vara.",
+          "Majoritatea magazinelor închid după-amiaza pentru o siestă, planificați-vă în consecință."
+        ],
+        "en": [
+          "Wear comfortable shoes; the cobblestones can be uneven.",
+          "Start early to beat the crowds and the midday heat.",
+          "Always carry water, especially in the summer.",
+          "Most shops close in the afternoon for a siesta, so plan accordingly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Städtische Markthalle von Chania",
+            "hu": "Chania városi vásárcsarnoka",
+            "ro": "Piața Municipală din Chania",
+            "en": "Municipal Market of Chania"
+          },
+          "coords": [
+            24.0201,
+            35.513
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad draußen ab und genießen Sie die Atmosphäre im Inneren.",
+            "hu": "Zárja le a kerékpárt kint, és élvezze a benti hangulatot.",
+            "ro": "Legați-vă bicicleta afară și bucurați-vă de atmosfera din interior.",
+            "en": "Lock your bike outside and enjoy the atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Chania",
+            "hu": "Chania óvárosa",
+            "ro": "Orașul vechi din Chania",
+            "en": "Old Town of Chania"
+          },
+          "coords": [
+            24.0185,
+            35.5155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad in den engsten Gassen, um Fußgänger nicht zu stören.",
+            "hu": "Tolja a kerékpárt a legszűkebb sikátorokban, hogy ne zavarja a gyalogosokat.",
+            "ro": "Împingeți bicicleta pe cele mai înguste alei pentru a nu deranja pietonii.",
+            "en": "Walk your bike in the narrowest alleys to be respectful of pedestrians."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianischer Hafen",
+            "hu": "Velencei kikötő",
+            "ro": "Portul Venețian",
+            "en": "Venetian Harbour"
+          },
+          "coords": [
+            24.0178,
+            35.5175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Uferpromenade ist ideal für eine gemütliche Radtour.",
+            "hu": "A vízparti sétány ideális egy kellemes biciklizéshez.",
+            "ro": "Promenada de la malul mării este ideală pentru o plimbare relaxantă cu bicicleta.",
+            "en": "The waterfront promenade is perfect for a leisurely bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Firka Festung & Schifffahrtsmuseum",
+            "hu": "Firka erőd és Tengerészeti Múzeum",
+            "ro": "Fortăreața Firka și Muzeul Maritim",
+            "en": "Firka Fortress & Maritime Museum"
+          },
+          "coords": [
+            24.015,
+            35.518
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:58",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Hier gibt es Fahrradständer. Erkunden Sie die Festung und das Museum in Ruhe.",
+            "hu": "Itt talál kerékpártárolókat. Fedezze fel nyugodtan az erődöt és a múzeumot.",
+            "ro": "Există parcări pentru biciclete aici. Explorați fortăreața și muzeul pe îndelete.",
+            "en": "There are bike racks available here. Explore the fortress and museum at your leisure."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Chania",
+            "hu": "Chaniai világítótorony",
+            "ro": "Farul din Chania",
+            "en": "Lighthouse of Chania"
+          },
+          "coords": [
+            24.018,
+            35.5198
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren auf der Mole ist nicht erlaubt; gehen Sie das letzte Stück zu Fuß.",
+            "hu": "A mólón nem szabad kerékpározni; az utolsó szakaszt tegye meg gyalog.",
+            "ro": "Mersul pe bicicletă nu este permis pe dig; parcurgeți ultima porțiune pe jos.",
+            "en": "Cycling is not permitted on the mole; walk the final stretch."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Chania",
+            "hu": "Chaniai Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie din Chania",
+            "en": "Archaeological Museum of Chania"
+          },
+          "coords": [
+            24.016,
+            35.515
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um der Nachmittagshitze zu entfliehen und etwas über die Geschichte zu lernen.",
+            "hu": "Remek hely a délutáni hőség elől való menekülésre és a történelem megismerésére.",
+            "ro": "Un loc excelent pentru a scăpa de căldura de după-amiază și a învăța despre istorie.",
+            "en": "A great place to escape the afternoon heat and learn about history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und beginnen Sie den Tag auf dem Städtischen Markt. Nachdem Sie die lokalen Produkte bewundert haben, radeln Sie in die Altstadt – schieben Sie Ihr Rad durch die engsten Gassen. Fahren Sie weiter zur Uferpromenade des Venezianischen Hafens für eine erfrischende Tour. Parken Sie Ihr Rad und erkunden Sie die beeindruckende Firka-Festung und das darin befindliche Schifffahrtsmuseum. Am Nachmittag spazieren Sie die Mole entlang zum berühmten Leuchtturm. Schließen Sie den Tag mit einem Kulturbesuch im modernen Archäologischen Museum ab, einem perfekten Kontrast zu den alten Steinen der Stadt.",
+        "hu": "Pattanjon biciklire, és kezdje a napot a Városi Vásárcsarnokban. Miután megcsodálta a helyi termékeket, tekerjen be az Óvárosba – a legszűkebb sikátorokban tolja a biciklit. Haladjon tovább a Velencei kikötő vízparti sétányára egy frissítő körútra. Parkolja le a kerékpárt, és fedezze fel a lenyűgöző Firka erődöt és a benne található Tengerészeti Múzeumot. Délután sétáljon végig a mólón a híres világítótoronyhoz. Zárja a napot egy kulturális látogatással a modern Régészeti Múzeumban, amely tökéletes kontrasztot alkot a város ősi köveivel.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua la Piața Municipală. După ce ați admirat produsele locale, pedalați spre Orașul Vechi – împingând bicicleta pe cele mai înguste alei. Continuați spre promenada de la malul mării a Portului Venețian pentru un tur revigorant. Parcați bicicleta și explorați impunătoarea Fortăreață Firka și Muzeul Maritim din interior. După-amiaza, plimbați-vă de-a lungul digului până la faimosul Far. Încheiați ziua cu o vizită culturală la modernul Muzeu de Arheologie, un contrast perfect cu pietrele antice ale orașului.",
+        "en": "Hop on your bike and start the day at the Municipal Market. After admiring the local produce, cycle into the Old Town—walking your bike through the narrowest alleys. Continue to the Venetian Harbour's waterfront for a refreshing tour. Park your bike and explore the impressive Firka Fortress and the Maritime Museum within. In the afternoon, take a walk along the mole to the famous Lighthouse. End the day with a cultural visit to the modern Archaeological Museum, a perfect contrast to the city's ancient stones."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dakos Salat",
+            "tip": "Ein kretischer Klassiker mit Gerstenzwieback, Tomaten und Mizithra-Käse. Perfekt für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Frisch aus dem Ägäischen Meer, am besten in einer Taverne am Hafen genossen."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Kleine Käse- oder Kräuterpasteten, ein köstlicher lokaler Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dakos saláta",
+            "tip": "Krétai klasszikus árpakétszersülttel, paradicsommal és mizithra sajttal. Tökéletes könnyű ebéd."
+          },
+          {
+            "name": "Grillezett polip",
+            "tip": "Frissen az Égei-tengerből, a legjobb egy kikötői tavernában."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Kis sajtos vagy zöldfűszeres piték, egy finom helyi snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată Dakos",
+            "tip": "Un clasic cretan cu pesmet de orz, roșii și brânză Mizithra. Perfect pentru un prânz ușor."
+          },
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Proaspătă din Marea Egee, cel mai bine savurată la o tavernă din port."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Mici plăcinte cu brânză sau ierburi, o gustare locală delicioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dakos Salad",
+            "tip": "A Cretan classic with barley rusk, tomatoes, and Mizithra cheese. Perfect for a light lunch."
+          },
+          {
+            "name": "Grilled Octopus",
+            "tip": "Fresh from the Aegean, best enjoyed at a harbour-side taverna."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Small cheese or herb pies, a delicious local snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Leuchtturm",
+            "tip": "Der Spaziergang ist es wert für die goldene Stunde.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Gassen von Splantzia",
+            "tip": "Ein ruhigeres Viertel abseits der Touristenmassen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Versteckte Innenhöfe",
+            "tip": "Halten Sie Ausschau nach offenen Türen, die zu friedlichen Innenhöfen führen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a világítótoronynál",
+            "tip": "Megéri a sétát az arany óráért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Splantzia sikátorai",
+            "tip": "Csendesebb negyed a turistaforgatagtól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rejtett udvarok",
+            "tip": "Keresse a nyitott ajtókat, amelyek békés belső udvarokba vezetnek.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la Far",
+            "tip": "Plimbarea merită pentru ora de aur.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aleile din Splantzia",
+            "tip": "Un cartier mai liniștit, departe de mulțimile de turiști.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curți interioare ascunse",
+            "tip": "Fiți atenți la ușile deschise care duc spre curți interioare pașnice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at the Lighthouse",
+            "tip": "The walk is worth it for the golden hour view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alleys of Splantzia",
+            "tip": "A quieter neighborhood away from the main tourist crowds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hidden Courtyards",
+            "tip": "Look for open doors that lead into peaceful inner courtyards.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lederwaren in der 'Lederstraße'",
+            "tip": "Finden Sie handgefertigte Sandalen und Taschen in der Skridlof Straße."
+          },
+          {
+            "name": "Kretische Keramik",
+            "tip": "Suchen Sie nach Werkstätten in den Seitenstraßen der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bőráruk a 'Bőr utcában'",
+            "tip": "Kézzel készített szandálokat és táskákat talál a Skridlof utcában."
+          },
+          {
+            "name": "Krétai kerámia",
+            "tip": "Keressen műhelyeket az Óváros mellékutcáiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole din piele pe 'Strada Pielii'",
+            "tip": "Găsiți sandale și genți lucrate manual pe strada Skridlof."
+          },
+          {
+            "name": "Ceramică cretană",
+            "tip": "Căutați ateliere pe străduțele lăturalnice ale Orașului Vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leather goods on 'Leather Street'",
+            "tip": "Find handmade sandals and bags on Skridlof Street."
+          },
+          {
+            "name": "Cretan Pottery",
+            "tip": "Look for workshops in the backstreets of the Old Town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen, bevor Sie losfahren.",
+          "Ein Helm wird dringend empfohlen.",
+          "Schließen Sie Ihr Fahrrad immer an einem festen Gegenstand ab.",
+          "Achten Sie auf Fußgänger, besonders in den belebten Gegenden."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a fékeket.",
+          "Sisak viselése erősen ajánlott.",
+          "Mindig zárja le a kerékpárt egy szilárd tárgyhoz.",
+          "Vigyázzon a gyalogosokra, különösen a forgalmas területeken."
+        ],
+        "ro": [
+          "Verificați-vă frânele înainte de a porni.",
+          "Purtarea căștii este foarte recomandată.",
+          "Legați-vă întotdeauna bicicleta de un obiect fix.",
+          "Fiți atenți la pietoni, mai ales în zonele aglomerate."
+        ],
+        "en": [
+          "Check your brakes before you set off.",
+          "A helmet is highly recommended.",
+          "Always lock your bike to a fixed object.",
+          "Be mindful of pedestrians, especially in the busy areas."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Städtischen Markt",
+            "hu": "Parkolás a Városi Vásárcsarnoknál",
+            "ro": "Parcare la Piața Municipală",
+            "en": "Parking at the Municipal Market"
+          },
+          "coords": [
+            24.0208,
+            35.5125
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kommen Sie früh an, um einen Parkplatz zu finden. Dies ist Ihr erster Cluster-Hub.",
+            "hu": "Érkezzen korán, hogy parkolóhelyet találjon. Ez az első központi csomópontja.",
+            "ro": "Ajungeți devreme pentru a găsi un loc de parcare. Acesta este primul dvs. hub de cluster.",
+            "en": "Arrive early to find a parking spot. This is your first cluster hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtische Markthalle von Chania",
+            "hu": "Chania városi vásárcsarnoka",
+            "ro": "Piața Municipală din Chania",
+            "en": "Municipal Market of Chania"
+          },
+          "coords": [
+            24.0201,
+            35.513
+          ],
+          "category": "market",
+          "arrive_at": "09:12",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie Ihre Einkäufe im Auto und erkunden Sie die Gegend unbeschwert.",
+            "hu": "Hagyja a vásárolt dolgokat az autóban, és fedezze fel a környéket gondtalanul.",
+            "ro": "Lăsați cumpărăturile în mașină și explorați zona fără griji.",
+            "en": "Leave your shopping in the car and explore the area unburdened."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Chania (Östlicher Teil)",
+            "hu": "Chania óvárosa (keleti rész)",
+            "ro": "Orașul vechi din Chania (Partea de Est)",
+            "en": "Old Town of Chania (Eastern Part)"
+          },
+          "coords": [
+            24.0185,
+            35.5155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gassen von Splantzia zu Fuß von der Markthalle aus.",
+            "hu": "Fedezze fel Splantzia sikátorait gyalog a vásárcsarnoktól.",
+            "ro": "Explorați aleile din Splantzia pe jos de la Piață.",
+            "en": "Explore the alleys of Splantzia on foot from the Market."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken am Talos-Platz (Hafen)",
+            "hu": "Parkolás a Talos téren (Kikötő)",
+            "ro": "Parcare în Piața Talos (Port)",
+            "en": "Parking at Talos Square (Harbour)"
+          },
+          "coords": [
+            24.013,
+            35.517
+          ],
+          "category": "transport",
+          "arrive_at": "11:45",
+          "stay_min": 0,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ihr zweiter Hub. Von hier aus ist der gesamte westliche Hafen zu Fuß erreichbar.",
+            "hu": "A második központja. Innen az egész nyugati kikötő gyalogosan elérhető.",
+            "ro": "Al doilea hub al dumneavoastră. Întregul port vestic este accesibil pe jos de aici.",
+            "en": "Your second hub. The entire western harbour is walkable from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Firka Festung & Schifffahrtsmuseum",
+            "hu": "Firka erőd és Tengerészeti Múzeum",
+            "ro": "Fortăreața Firka și Muzeul Maritim",
+            "en": "Firka Fortress & Maritime Museum"
+          },
+          "coords": [
+            24.015,
+            35.518
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:49",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht, bevor Sie das Museum besuchen.",
+            "hu": "Élvezze a kilátást, mielőtt bemegy a múzeumba.",
+            "ro": "Bucurați-vă de priveliște înainte de a intra în muzeu.",
+            "en": "Enjoy the view before you head into the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianischer Hafen & Leuchtturm-Spaziergang",
+            "hu": "Velencei kikötő és séta a világítótoronyhoz",
+            "ro": "Portul Venețian și plimbare la Far",
+            "en": "Venetian Harbour & Lighthouse walk"
+          },
+          "coords": [
+            24.0178,
+            35.5175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:24",
+          "stay_min": 140,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Uferpromenade, essen Sie zu Mittag und gehen Sie dann zur Mole.",
+            "hu": "Sétáljon végig a vízparton, ebédeljen meg, majd induljon a mólóhoz.",
+            "ro": "Plimbați-vă de-a lungul malului, luați prânzul, apoi mergeți spre dig.",
+            "en": "Stroll along the waterfront, have lunch, and then head for the mole."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie in der Nähe des Städtischen Marktes parken, Ihrem ersten Zentrum. Erkunden Sie den Markt und die östlichen Gassen der Altstadt zu Fuß. Kehren Sie dann zum Auto zurück für eine kurze Fahrt zum Talos-Platz, Ihrem zweiten Zentrum für den Tag. Von hier aus ist der gesamte westliche Teil des Hafens ein Fußgängerparadies. Besuchen Sie die imposante Firka-Festung und das Schifffahrtsmuseum. Verbringen Sie den Nachmittag mit einem Spaziergang entlang des venezianischen Hafens, genießen Sie ein Mittagessen am Meer und machen Sie den unvergesslichen Spaziergang zur Spitze des Leuchtturms für einen Panoramablick auf die Stadt und das Meer.",
+        "hu": "Kezdje a napot a Városi Vásárcsarnok közelében parkolva, ez az első központja. Fedezze fel gyalog a piacot és az Óváros keleti sikátorait. Ezután térjen vissza az autóhoz egy rövid útra a Talos térig, a nap második központjáig. Innen a kikötő egész nyugati része gyalogos paradicsom. Látogassa meg a lenyűgöző Firka erődöt és a Tengerészeti Múzeumot. Töltse a délutánt a velencei kikötő mentén sétálva, ebédeljen a tengerparton, és tegye meg a felejthetetlen sétát a világítótorony csúcsára a városra és a tengerre nyíló panorámáért.",
+        "ro": "Începeți ziua parcând lângă Piața Municipală, primul dvs. centru. Explorați piața și aleile estice ale Orașului Vechi pe jos. Apoi, reveniți la mașină pentru o scurtă călătorie spre Piața Talos, al doilea centru al zilei. De aici, întreaga parte vestică a portului este un paradis pietonal. Vizitați impunătoarea Fortăreață Firka și Muzeul Maritim. Petreceți după-amiaza plimbându-vă de-a lungul portului venețian, savurând prânzul la malul mării și făcând plimbarea memorabilă până în vârful farului pentru vederi panoramice ale orașului și mării.",
+        "en": "Start your day by parking near the Municipal Market, your first hub. Explore the market and the eastern alleys of the Old Town on foot. Then, return to the car for a short drive to Talos Square, your second hub for the day. From here, the entire western part of the harbour is a pedestrian's paradise. Visit the imposing Firka Fortress and the Maritime Museum. Spend the afternoon strolling along the Venetian Harbour, enjoying a seaside lunch, and taking the memorable walk to the tip of the lighthouse for panoramic views of the city and sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dakos Salat",
+            "tip": "Ein kretischer Klassiker mit Gerstenzwieback, Tomaten und Mizithra-Käse. Perfekt für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Frisch aus dem Ägäischen Meer, am besten in einer Taverne am Hafen genossen."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Kleine Käse- oder Kräuterpasteten, ein köstlicher lokaler Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dakos saláta",
+            "tip": "Krétai klasszikus árpakétszersülttel, paradicsommal és mizithra sajttal. Tökéletes könnyű ebéd."
+          },
+          {
+            "name": "Grillezett polip",
+            "tip": "Frissen az Égei-tengerből, a legjobb egy kikötői tavernában."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Kis sajtos vagy zöldfűszeres piték, egy finom helyi snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată Dakos",
+            "tip": "Un clasic cretan cu pesmet de orz, roșii și brânză Mizithra. Perfect pentru un prânz ușor."
+          },
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Proaspătă din Marea Egee, cel mai bine savurată la o tavernă din port."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Mici plăcinte cu brânză sau ierburi, o gustare locală delicioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dakos Salad",
+            "tip": "A Cretan classic with barley rusk, tomatoes, and Mizithra cheese. Perfect for a light lunch."
+          },
+          {
+            "name": "Grilled Octopus",
+            "tip": "Fresh from the Aegean, best enjoyed at a harbour-side taverna."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Small cheese or herb pies, a delicious local snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Leuchtturm",
+            "tip": "Der Spaziergang ist es wert für die goldene Stunde.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Gassen von Splantzia",
+            "tip": "Ein ruhigeres Viertel abseits der Touristenmassen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Versteckte Innenhöfe",
+            "tip": "Halten Sie Ausschau nach offenen Türen, die zu friedlichen Innenhöfen führen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a világítótoronynál",
+            "tip": "Megéri a sétát az arany óráért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Splantzia sikátorai",
+            "tip": "Csendesebb negyed a turistaforgatagtól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rejtett udvarok",
+            "tip": "Keresse a nyitott ajtókat, amelyek békés belső udvarokba vezetnek.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la Far",
+            "tip": "Plimbarea merită pentru ora de aur.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aleile din Splantzia",
+            "tip": "Un cartier mai liniștit, departe de mulțimile de turiști.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curți interioare ascunse",
+            "tip": "Fiți atenți la ușile deschise care duc spre curți interioare pașnice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at the Lighthouse",
+            "tip": "The walk is worth it for the golden hour view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alleys of Splantzia",
+            "tip": "A quieter neighborhood away from the main tourist crowds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hidden Courtyards",
+            "tip": "Look for open doors that lead into peaceful inner courtyards.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lederwaren in der 'Lederstraße'",
+            "tip": "Finden Sie handgefertigte Sandalen und Taschen in der Skridlof Straße."
+          },
+          {
+            "name": "Kretische Keramik",
+            "tip": "Suchen Sie nach Werkstätten in den Seitenstraßen der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bőráruk a 'Bőr utcában'",
+            "tip": "Kézzel készített szandálokat és táskákat talál a Skridlof utcában."
+          },
+          {
+            "name": "Krétai kerámia",
+            "tip": "Keressen műhelyeket az Óváros mellékutcáiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole din piele pe 'Strada Pielii'",
+            "tip": "Găsiți sandale și genți lucrate manual pe strada Skridlof."
+          },
+          {
+            "name": "Ceramică cretană",
+            "tip": "Căutați ateliere pe străduțele lăturalnice ale Orașului Vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leather goods on 'Leather Street'",
+            "tip": "Find handmade sandals and bags on Skridlof Street."
+          },
+          {
+            "name": "Cretan Pottery",
+            "tip": "Look for workshops in the backstreets of the Old Town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in der Altstadt ist extrem schwierig und oft verboten. Nutzen Sie ausgewiesene Parkplätze am Rand.",
+          "Achten Sie auf Einbahnstraßen und Fußgängerzonen.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen.",
+          "Die Straßen können eng sein, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Az Óvárosban parkolni rendkívül nehéz és gyakran tilos. Használja a kijelölt parkolókat a szélén.",
+          "Figyeljen az egyirányú utcákra és a sétálóövezetekre.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "Az utak szűkek lehetnek, vezessen óvatosan."
+        ],
+        "ro": [
+          "Parcarea în Orașul Vechi este extrem de dificilă și adesea interzisă. Folosiți parcările desemnate de la periferie.",
+          "Fiți atenți la străzile cu sens unic și la zonele pietonale.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Străzile pot fi înguste, conduceți cu prudență."
+        ],
+        "en": [
+          "Parking in the Old Town is extremely difficult and often prohibited. Use designated car parks on the outskirts.",
+          "Pay attention to one-way streets and pedestrian zones.",
+          "Do not leave valuables visible in the car.",
+          "Streets can be narrow, drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof am Marktplatz",
+            "hu": "Érkezés a buszmegállóba a Piactérnél",
+            "ro": "Sosire la stația de autobuz de la Piață",
+            "en": "Arrival at Market Square Bus Stop"
+          },
+          "coords": [
+            24.0205,
+            35.5128
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Dies ist ein Hauptknotenpunkt für Stadtbusse. Kaufen Sie hier Ihre Tageskarte.",
+            "hu": "Ez a városi buszok egyik fő csomópontja. Itt vegye meg a napijegyét.",
+            "ro": "Acesta este un nod principal pentru autobuzele urbane. Cumpărați-vă biletul de o zi de aici.",
+            "en": "This is a main hub for city buses. Buy your day pass here."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtische Markthalle & Altstadt (Ost)",
+            "hu": "Városi Vásárcsarnok és Óváros (Kelet)",
+            "ro": "Piața Municipală și Orașul Vechi (Est)",
+            "en": "Municipal Market & Old Town (East)"
+          },
+          "coords": [
+            24.019,
+            35.5145
+          ],
+          "category": "market",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den ersten Cluster zu Fuß: den Markt und die umliegenden Gassen.",
+            "hu": "Fedezze fel gyalog az első klasztert: a piacot és a környező sikátorokat.",
+            "ro": "Explorați primul cluster pe jos: piața și aleile din jur.",
+            "en": "Explore the first cluster on foot: the market and its surrounding alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Hafen",
+            "hu": "Buszozás a kikötőbe",
+            "ro": "Călătorie cu autobuzul spre port",
+            "en": "Bus ride to the Harbour"
+          },
+          "coords": [
+            24.0145,
+            35.517
+          ],
+          "category": "transport",
+          "arrive_at": "11:35",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Marktplatz in Richtung Westen zum Hafenviertel.",
+            "hu": "Szálljon fel egy buszra a Piactérről nyugat felé a kikötő negyedbe.",
+            "ro": "Luați un autobuz din Piața Pieței spre vest, spre cartierul portuar.",
+            "en": "Take a bus from the Market Square heading west to the harbour district."
+          }
+        },
+        {
+          "name": {
+            "de": "Firka Festung & Schifffahrtsmuseum",
+            "hu": "Firka erőd és Tengerészeti Múzeum",
+            "ro": "Fortăreața Firka și Muzeul Maritim",
+            "en": "Firka Fortress & Maritime Museum"
+          },
+          "coords": [
+            24.015,
+            35.518
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von der Bushaltestelle aus ist es nur ein kurzer Spaziergang zur Festung.",
+            "hu": "A buszmegállótól csak egy rövid séta az erőd.",
+            "ro": "De la stația de autobuz, este doar o scurtă plimbare până la fortăreață.",
+            "en": "It's a short walk from the bus stop to the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianischer Hafen & Mittagessen",
+            "hu": "Velencei kikötő és ebéd",
+            "ro": "Portul Venețian și prânz",
+            "en": "Venetian Harbour & Lunch"
+          },
+          "coords": [
+            24.0178,
+            35.5175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie eine Taverne für ein gemütliches Mittagessen mit Blick auf das Wasser.",
+            "hu": "Keressen egy tavernát egy kellemes ebédhez, kilátással a vízre.",
+            "ro": "Găsiți o tavernă pentru un prânz relaxant cu vedere la apă.",
+            "en": "Find a taverna for a leisurely lunch overlooking the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Leuchtturm",
+            "hu": "Séta a világítótoronyhoz",
+            "ro": "Plimbare la Far",
+            "en": "Walk to the Lighthouse"
+          },
+          "coords": [
+            24.018,
+            35.5198
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:06",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der lange Spaziergang entlang der Mole ist der Höhepunkt des Nachmittags.",
+            "hu": "A hosszú séta a mólón a délután fénypontja.",
+            "ro": "Plimbarea lungă de-a lungul digului este punctul culminant al după-amiezii.",
+            "en": "The long walk along the mole is the highlight of the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Chanias effizientes Bussystem. Beginnen Sie am Marktplatz, erkunden Sie den Markt und die Altstadt zu Fuß. Nehmen Sie dann einen kurzen Bus zum Hafen. Steigen Sie aus und gehen Sie zur Firka-Festung, Ihrem Tor zum westlichen Hafen. Verbringen Sie den Rest des Tages damit, diesen Bereich zu erkunden, genießen Sie ein Mittagessen am Hafen und machen Sie den ikonischen Spaziergang zum Leuchtturm. Diese Route kombiniert die Bequemlichkeit des Transports mit ausgedehnten, eindringlichen Spaziergängen durch die schönsten Gegenden der Stadt.",
+        "hu": "Használja ki Chania hatékony buszrendszerét. Kezdje a Piactéren, fedezze fel gyalog a piacot és az óvárost. Ezután szálljon fel egy rövid buszra a kikötőbe. Szálljon le, és sétáljon a Firka erődhöz, a nyugati kikötő kapujához. Töltse a nap hátralévő részét ennek a területnek a felfedezésével, ebédeljen a kikötőben, és tegye meg az ikonikus sétát a világítótoronyhoz. Ez az útvonal ötvözi a közlekedés kényelmét a kiterjedt, magával ragadó sétákkal a város legszebb részein.",
+        "ro": "Folosiți sistemul eficient de autobuze din Chania. Începeți din Piața Pieței, explorând piața și Orașul Vechi pe jos. Apoi, luați un autobuz pe o distanță scurtă până la port. Coborâți și mergeți la Fortăreața Firka, poarta dvs. de acces spre portul vestic. Petreceți restul zilei explorând această zonă, bucurându-vă de prânz la port și făcând plimbarea iconică până la Far. Acest traseu combină comoditatea transportului cu plimbări extinse și captivante prin cele mai frumoase zone ale orașului.",
+        "en": "Utilize Chania's efficient bus system. Start at the Market Square, exploring the market and Old Town on foot. Then, take a short bus ride to the harbour. Alight and walk to the Firka Fortress, your gateway to the western harbour. Spend the rest of the day exploring this area, enjoying lunch by the port, and taking the iconic walk to the lighthouse. This route combines the convenience of transit with extensive, immersive walks through the city's most beautiful areas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dakos Salat",
+            "tip": "Ein kretischer Klassiker mit Gerstenzwieback, Tomaten und Mizithra-Käse. Perfekt für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Frisch aus dem Ägäischen Meer, am besten in einer Taverne am Hafen genossen."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Kleine Käse- oder Kräuterpasteten, ein köstlicher lokaler Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dakos saláta",
+            "tip": "Krétai klasszikus árpakétszersülttel, paradicsommal és mizithra sajttal. Tökéletes könnyű ebéd."
+          },
+          {
+            "name": "Grillezett polip",
+            "tip": "Frissen az Égei-tengerből, a legjobb egy kikötői tavernában."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Kis sajtos vagy zöldfűszeres piték, egy finom helyi snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată Dakos",
+            "tip": "Un clasic cretan cu pesmet de orz, roșii și brânză Mizithra. Perfect pentru un prânz ușor."
+          },
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Proaspătă din Marea Egee, cel mai bine savurată la o tavernă din port."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Mici plăcinte cu brânză sau ierburi, o gustare locală delicioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dakos Salad",
+            "tip": "A Cretan classic with barley rusk, tomatoes, and Mizithra cheese. Perfect for a light lunch."
+          },
+          {
+            "name": "Grilled Octopus",
+            "tip": "Fresh from the Aegean, best enjoyed at a harbour-side taverna."
+          },
+          {
+            "name": "Kalitsounia",
+            "tip": "Small cheese or herb pies, a delicious local snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Leuchtturm",
+            "tip": "Der Spaziergang ist es wert für die goldene Stunde.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Gassen von Splantzia",
+            "tip": "Ein ruhigeres Viertel abseits der Touristenmassen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Versteckte Innenhöfe",
+            "tip": "Halten Sie Ausschau nach offenen Türen, die zu friedlichen Innenhöfen führen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a világítótoronynál",
+            "tip": "Megéri a sétát az arany óráért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Splantzia sikátorai",
+            "tip": "Csendesebb negyed a turistaforgatagtól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rejtett udvarok",
+            "tip": "Keresse a nyitott ajtókat, amelyek békés belső udvarokba vezetnek.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la Far",
+            "tip": "Plimbarea merită pentru ora de aur.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aleile din Splantzia",
+            "tip": "Un cartier mai liniștit, departe de mulțimile de turiști.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curți interioare ascunse",
+            "tip": "Fiți atenți la ușile deschise care duc spre curți interioare pașnice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at the Lighthouse",
+            "tip": "The walk is worth it for the golden hour view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alleys of Splantzia",
+            "tip": "A quieter neighborhood away from the main tourist crowds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hidden Courtyards",
+            "tip": "Look for open doors that lead into peaceful inner courtyards.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lederwaren in der 'Lederstraße'",
+            "tip": "Finden Sie handgefertigte Sandalen und Taschen in der Skridlof Straße."
+          },
+          {
+            "name": "Kretische Keramik",
+            "tip": "Suchen Sie nach Werkstätten in den Seitenstraßen der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bőráruk a 'Bőr utcában'",
+            "tip": "Kézzel készített szandálokat és táskákat talál a Skridlof utcában."
+          },
+          {
+            "name": "Krétai kerámia",
+            "tip": "Keressen műhelyeket az Óváros mellékutcáiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole din piele pe 'Strada Pielii'",
+            "tip": "Găsiți sandale și genți lucrate manual pe strada Skridlof."
+          },
+          {
+            "name": "Ceramică cretană",
+            "tip": "Căutați ateliere pe străduțele lăturalnice ale Orașului Vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leather goods on 'Leather Street'",
+            "tip": "Find handmade sandals and bags on Skridlof Street."
+          },
+          {
+            "name": "Cretan Pottery",
+            "tip": "Look for workshops in the backstreets of the Old Town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eine Tageskarte ist oft günstiger als Einzeltickets.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders am Abend.",
+          "Die Busse können in der Hochsaison überfüllt sein.",
+          "Halten Sie Kleingeld für Tickets bereit, wenn Sie an Bord kaufen."
+        ],
+        "hu": [
+          "A napijegy gyakran olcsóbb, mint az egyedi jegyek.",
+          "Előre ellenőrizze a buszmenetrendet, különösen este.",
+          "A buszok zsúfoltak lehetnek a főszezonban.",
+          "Készítsen elő aprópénzt a jegyekhez, ha a fedélzeten vásárol."
+        ],
+        "ro": [
+          "Un abonament de o zi este adesea mai ieftin decât biletele individuale.",
+          "Verificați programul autobuzelor în avans, mai ales seara.",
+          "Autobuzele pot fi aglomerate în sezonul de vârf.",
+          "Pregătiți mărunțiș pentru bilete dacă cumpărați la bord."
+        ],
+        "en": [
+          "A day pass is often cheaper than single tickets.",
+          "Check the bus schedule in advance, especially for the evening.",
+          "Buses can be crowded during peak season.",
+          "Have small change ready for tickets if buying on board."
+        ]
+      }
+    }
+  }
+}

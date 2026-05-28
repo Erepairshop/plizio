@@ -1,0 +1,1469 @@
+{
+  "city_id": "austria-st-veit-an-der-glan-cities-v2",
+  "anchor": {
+    "name": "St. Veit an der Glan",
+    "coords": [
+      14.3619,
+      46.7686
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz & Schüsselbrunnen",
+            "hu": "Főtér és Schüsselbrunnen díszkút",
+            "ro": "Piața Principală și Fântâna Schüsselbrunnen",
+            "en": "Main Square & Schüsselbrunnen Fountain"
+          },
+          "coords": [
+            14.3615,
+            46.7688
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a téren található egyik kávézóban.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the cafés on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            14.3619,
+            46.7692
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Fassade und den Arkadenhof.",
+            "hu": "Csodálja meg a lenyűgöző homlokzatot és az árkádos udvart.",
+            "ro": "Admirați fațada impresionantă și curtea cu arcade.",
+            "en": "Admire the impressive facade and the arcaded courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Pestsäule",
+            "hu": "Pestisoszlop",
+            "ro": "Coloana Ciumei",
+            "en": "Plague Column"
+          },
+          "coords": [
+            14.3625,
+            46.7685
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:24",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung an diesem historischen Denkmal.",
+            "hu": "Egy pillanatnyi elcsendesedés ennél a történelmi emlékműnél.",
+            "ro": "Un moment de reflecție la acest monument istoric.",
+            "en": "A moment of reflection at this historic monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Veit",
+            "hu": "Szent Vitus plébániatemplom",
+            "ro": "Biserica parohială Sf. Vitus",
+            "en": "Parish Church of St. Vitus"
+          },
+          "coords": [
+            14.3633,
+            46.7681
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:43",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die spätgotische Architektur und die wertvollen Glasfenster.",
+            "hu": "Figyelje meg a késő gótikus építészetet és az értékes üvegablakokat.",
+            "ro": "Observați arhitectura gotică târzie și vitraliile valoroase.",
+            "en": "Note the late Gothic architecture and the valuable stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Herzogsburg & Museum für Stadtgeschichte",
+            "hu": "Hercegi vár és Várostörténeti Múzeum",
+            "ro": "Castelul Ducal și Muzeul de Istorie a Orașului",
+            "en": "Ducal Castle & Museum of City History"
+          },
+          "coords": [
+            14.3595,
+            46.7675
+          ],
+          "category": "museums",
+          "arrive_at": "11:43",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit ein, die Verkehrsmittelausstellung ist besonders interessant.",
+            "hu": "Tervezzen elég időt, a közlekedési kiállítás különösen érdekes.",
+            "ro": "Planificați suficient timp, expoziția de transport este deosebit de interesantă.",
+            "en": "Allow plenty of time, the transportation exhibit is especially interesting."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelalterliche Stadtmauer",
+            "hu": "Középkori városfal",
+            "ro": "Zidul medieval al orașului",
+            "en": "Medieval City Wall"
+          },
+          "coords": [
+            14.3575,
+            46.77
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang entlang der erhaltenen Teile der Mauer bietet tolle Fotomotive.",
+            "hu": "Séta a fal megmaradt részei mentén remek fotózási lehetőségeket kínál.",
+            "ro": "O plimbare de-a lungul părților conservate ale zidului oferă oportunități excelente pentru fotografii.",
+            "en": "A walk along the preserved parts of the wall offers great photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Frauenstein",
+            "hu": "Frauenstein kastély",
+            "ro": "Castelul Frauenstein",
+            "en": "Frauenstein Castle"
+          },
+          "coords": [
+            14.3942,
+            46.7915
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:23",
+          "stay_min": 70,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die romantische Atmosphäre und die Aussicht.",
+            "hu": "A kapaszkodó megéri a romantikus hangulatért és a kilátásért.",
+            "ro": "Urcușul merită pentru atmosfera romantică și priveliște.",
+            "en": "The climb is worth it for the romantic atmosphere and the view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem lebhaften Hauptplatz von St. Veit, dem Herzen der Stadt. Am Vormittag erkunden Sie die historischen Gebäude im Zentrum, darunter das prächtige Rathaus und die Stadtpfarrkirche. Nach dem Mittagessen tauchen Sie in der Herzogsburg in die Stadtgeschichte ein. Der Nachmittag ist einem Spaziergang entlang der alten Stadtmauern und einem Ausflug zur märchenhaften Burg Frauenstein gewidmet, die einen perfekten Abschluss für einen Tag voller Entdeckungen bietet.",
+        "hu": "Kezdje a napot St. Veit nyüzsgő főterén, a város szívében. Délelőtt fedezze fel a központ történelmi épületeit, köztük a csodálatos Városházát és a plébániatemplomot. Ebéd után merüljön el a város történelmében a Hercegi várban. A délután a régi városfalak menti sétáról és a mesebeli Frauenstein kastélyhoz tett kirándulásról szól, amely tökéletes lezárása egy felfedezésekkel teli napnak.",
+        "ro": "Începeți ziua în vibranta Piață Principală din St. Veit, inima orașului. Dimineața explorați clădirile istorice din centru, inclusiv Primăria magnifică și Biserica Parohială. După prânz, aprofundați istoria orașului la Castelul Ducal. După-amiaza este dedicată unei plimbări de-a lungul vechilor ziduri ale orașului și unei excursii la Castelul de basm Frauenstein, care oferă o încheiere perfectă pentru o zi plină de descoperiri.",
+        "en": "Start your day in the vibrant Main Square of St. Veit, the heart of the city. In the morning, explore the historic buildings in the center, including the magnificent Town Hall and the Parish Church. After lunch, delve into the city's history at the Ducal Castle. The afternoon is dedicated to a walk along the old city walls and a trip to the fairytale-like Frauenstein Castle, providing a perfect end to a day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kärntner Kasnudeln",
+            "tip": "Probieren Sie diese lokalen Teigtaschen in einem der traditionellen Gasthäuser."
+          },
+          {
+            "name": "Reindling",
+            "tip": "Ein süßer Hefekuchen, perfekt zum Kaffee am Nachmittag."
+          },
+          {
+            "name": "Gasthof zum Weißen Wolf",
+            "tip": "Bekannt für seine authentische Kärntner Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karintiai sajtos tészta (Kasnudeln)",
+            "tip": "Kóstolja meg ezt a helyi specialitást az egyik hagyományos vendéglőben."
+          },
+          {
+            "name": "Reindling",
+            "tip": "Édes kelt tészta, tökéletes a délutáni kávé mellé."
+          },
+          {
+            "name": "Gasthof zum Weißen Wolf",
+            "tip": "Híres az autentikus karintiai konyhájáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kärntner Kasnudeln (Găluște cu brânză)",
+            "tip": "Încercați aceste găluște locale la unul dintre hanurile tradiționale."
+          },
+          {
+            "name": "Reindling",
+            "tip": "O prăjitură dulce cu drojdie, perfectă pentru cafeaua de după-amiază."
+          },
+          {
+            "name": "Gasthof zum Weißen Wolf",
+            "tip": "Renumit pentru bucătăria sa autentică carintiană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carinthian Cheese Noodles (Kasnudeln)",
+            "tip": "Try these local dumplings in one of the traditional inns."
+          },
+          {
+            "name": "Reindling",
+            "tip": "A sweet yeast cake, perfect for an afternoon coffee."
+          },
+          {
+            "name": "Gasthof zum Weißen Wolf",
+            "tip": "Known for its authentic Carinthian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang an der Glan",
+            "tip": "Ein ruhiger Weg entlang des Flusses, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Burgruine Frauenstein",
+            "tip": "Abseits der Hauptwege bietet die Ruine eine friedliche, historische Atmosphäre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hof der Herzogsburg",
+            "tip": "Ein stiller Ort im Herzen der Stadt, um kurz innezuhalten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Glan folyó mentén",
+            "tip": "Csendes ösvény a folyóparton, hogy elmeneküljön a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Frauenstein várromja",
+            "tip": "A fő utaktól távolabb a rom békés, történelmi hangulatot áraszt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Hercegi vár udvara",
+            "tip": "Egy csendes hely a város szívében egy rövid pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Glan",
+            "tip": "O potecă liniștită de-a lungul râului pentru a evada din agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ruinele castelului Frauenstein",
+            "tip": "Departe de căile principale, ruina oferă o atmosferă pașnică, istorică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curtea Castelului Ducal",
+            "tip": "Un loc liniștit în inima orașului pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Glan river",
+            "tip": "A quiet path along the river to escape the hustle and bustle of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Frauenstein Castle Ruins",
+            "tip": "Away from the main paths, the ruins offer a peaceful, historic atmosphere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Courtyard of the Ducal Castle",
+            "tip": "A quiet spot in the heart of the city for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Finden Sie lokale Produkte und Handwerkskunst auf dem Wochenmarkt (Termine prüfen)."
+          },
+          {
+            "name": "St. Veiter Stadtgucker",
+            "tip": "Ein lokaler Likör als einzigartiges Souvenir."
+          },
+          {
+            "name": "Geschäfte am Hauptplatz",
+            "tip": "Kleine Boutiquen und Läden rund um den Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat a heti piacon (ellenőrizze a napokat)."
+          },
+          {
+            "name": "St. Veiter Stadtgucker",
+            "tip": "Helyi likőr, ami egyedi szuvenír."
+          },
+          {
+            "name": "Üzletek a Főtéren",
+            "tip": "Kis butikok és boltok a főtér körül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Găsiți produse locale și artizanat la piața săptămânală (verificați programul)."
+          },
+          {
+            "name": "St. Veiter Stadtgucker",
+            "tip": "Un lichior local ca suvenir unic."
+          },
+          {
+            "name": "Magazine în Piața Principală",
+            "tip": "Buticuri mici și magazine în jurul pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Find local produce and crafts at the weekly market (check for dates)."
+          },
+          {
+            "name": "St. Veiter Stadtgucker",
+            "tip": "A local liqueur as a unique souvenir."
+          },
+          {
+            "name": "Shops at the Main Square",
+            "tip": "Small boutiques and shops around the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum viele Kopfsteinpflasterstraßen hat.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie sich Zeit für eine Pause in einem der vielen Cafés.",
+          "Der Weg nach Frauenstein ist ein schöner, aber ansteigender Spaziergang."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a belvárosban sok a macskaköves utca.",
+          "A központi látnivalók többsége könnyen elérhető gyalog.",
+          "Szánjon időt egy pihenőre a számos kávézó egyikében.",
+          "Az út Frauensteinbe egy szép, de emelkedő séta."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului are multe străzi pavate.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Luați-vă timp pentru o pauză la una dintre numeroasele cafenele.",
+          "Drumul spre Frauenstein este o plimbare frumoasă, dar în urcare."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center has many cobblestone streets.",
+          "Most sights in the center are easily reachable on foot.",
+          "Take time for a break in one of the many cafés.",
+          "The path to Frauenstein is a beautiful but uphill walk."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz & Rathaus",
+            "hu": "Főtér és Városháza",
+            "ro": "Piața Principală și Primăria",
+            "en": "Main Square & Town Hall"
+          },
+          "coords": [
+            14.3619,
+            46.7692
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad ab und erkunden Sie den Platz und das Rathaus zu Fuß.",
+            "hu": "Parkolja le a biciklit, és fedezze fel a teret és a városházát gyalog.",
+            "ro": "Parcați bicicleta și explorați piața și primăria pe jos.",
+            "en": "Park your bike and explore the square and the town hall on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & Pestsäule",
+            "hu": "Plébániatemplom és Pestisoszlop",
+            "ro": "Biserica Parohială și Coloana Ciumei",
+            "en": "Parish Church & Plague Column"
+          },
+          "coords": [
+            14.3633,
+            46.7681
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:58",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Zwei wichtige historische Stätten, die nahe beieinander liegen.",
+            "hu": "Két fontos történelmi helyszín, közel egymáshoz.",
+            "ro": "Două situri istorice importante, situate aproape unul de celălalt.",
+            "en": "Two important historical sites located close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Herzogsburg & Museum für Stadtgeschichte",
+            "hu": "Hercegi vár és Várostörténeti Múzeum",
+            "ro": "Castelul Ducal și Muzeul de Istorie a Orașului",
+            "en": "Ducal Castle & Museum of City History"
+          },
+          "coords": [
+            14.3595,
+            46.7675
+          ],
+          "category": "museums",
+          "arrive_at": "10:54",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Hier gibt es sichere Fahrradständer, um das Museum unbesorgt zu besuchen.",
+            "hu": "Biztonságos kerékpártárolók állnak rendelkezésre, hogy gondtalanul látogathassa a múzeumot.",
+            "ro": "Există suporturi sigure pentru biciclete pentru a vizita muzeul fără griji.",
+            "en": "There are secure bike racks to visit the museum without worry."
+          }
+        },
+        {
+          "name": {
+            "de": "Entlang der Stadtmauer",
+            "hu": "A városfal mentén",
+            "ro": "De-a lungul zidului orașului",
+            "en": "Along the City Wall"
+          },
+          "coords": [
+            14.3575,
+            46.77
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:02",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Folgen Sie dem Verlauf der alten Mauer für eine schnelle Runde um das Zentrum.",
+            "hu": "Kövesse a régi fal vonalát egy gyors körre a központ körül.",
+            "ro": "Urmați traseul vechiului zid pentru un tur rapid în jurul centrului.",
+            "en": "Follow the course of the old wall for a quick loop around the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Frauenstein",
+            "hu": "Frauenstein kastély",
+            "ro": "Castelul Frauenstein",
+            "en": "Frauenstein Castle"
+          },
+          "coords": [
+            14.3942,
+            46.7915
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:57",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour hierher ist anspruchsvoll, aber die Aussicht ist die Belohnung.",
+            "hu": "A biciklitúra ide kihívást jelent, de a kilátás a jutalom.",
+            "ro": "Plimbarea cu bicicleta până aici este solicitantă, dar priveliștea este recompensa.",
+            "en": "The bike ride here is challenging, but the view is the reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Hauptplatz",
+            "hu": "Vissza a Főtérre",
+            "ro": "Înapoi în Piața Principală",
+            "en": "Back to the Main Square"
+          },
+          "coords": [
+            14.3619,
+            46.7686
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:02",
+          "stay_min": 20,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Abfahrt und beenden Sie den Tag bei einem Eis am Platz.",
+            "hu": "Élvezze a lejtmenetet, és fejezze be a napot egy fagyival a téren.",
+            "ro": "Bucurați-vă de coborâre și încheiați ziua cu o înghețată în piață.",
+            "en": "Enjoy the ride down and end the day with an ice cream in the square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine Erkundung von St. Veit und Umgebung. Der Vormittag gehört dem historischen Zentrum, das Sie bequem mit dem Rad durchqueren, mit Stopps an der Kirche und dem Museum. Nach dem Mittagessen führt eine anspruchsvollere Route Sie aus der Stadt hinaus zum romantischen Schloss Frauenstein. Genießen Sie die atemberaubende Landschaft und die frische Luft. Der Nachmittag klingt mit einer entspannten Rückfahrt zum Hauptplatz aus, wo Sie Ihre Tour begonnen haben.",
+        "hu": "Pattanjon biciklire, hogy felfedezze St. Veit-et és környékét. A délelőtt a történelmi központé, amelyet kényelmesen bejárhat kerékpárral, megállva a templomnál és a múzeumnál. Ebéd után egy nagyobb kihívást jelentő útvonal vezet ki a városból a romantikus Frauenstein kastélyhoz. Élvezze a lélegzetelállító tájat és a friss levegőt. A délután egy laza visszaúttal zárul a főtérre, ahol a túrát kezdte.",
+        "ro": "Urcați-vă pe bicicletă pentru a explora St. Veit și împrejurimile. Dimineața este dedicată centrului istoric, pe care îl puteți traversa confortabil pe bicicletă, cu opriri la biserică și muzeu. După prânz, un traseu mai provocator vă duce în afara orașului, la romanticul Castel Frauenstein. Bucurați-vă de peisajul uluitor și de aerul curat. După-amiaza se încheie cu o plimbare relaxantă înapoi în Piața Principală, de unde ați început turul.",
+        "en": "Get on your bike to explore St. Veit and its surroundings. The morning is for the historic center, which you can comfortably cycle through, with stops at the church and museum. After lunch, a more challenging route takes you out of the city to the romantic Frauenstein Castle. Enjoy the breathtaking scenery and fresh air. The afternoon ends with a relaxed ride back to the Main Square where you started your tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kärntner Kasnudeln",
+            "tip": "Eine stärkende Mahlzeit nach einer Radtour."
+          },
+          {
+            "name": "Apfelsaft aus der Region",
+            "tip": "Erfrischend und natürlich, von lokalen Bauernhöfen."
+          },
+          {
+            "name": "Biergasthof seit 1567",
+            "tip": "Ein kühles Bier und herzhafte Speisen in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karintiai sajtos tészta (Kasnudeln)",
+            "tip": "Erősítő étel egy biciklitúra után."
+          },
+          {
+            "name": "Helyi almalé",
+            "tip": "Frissítő és természetes, helyi gazdaságokból."
+          },
+          {
+            "name": "Söröző 1567 óta",
+            "tip": "Egy hűs sör és kiadós ételek történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kärntner Kasnudeln",
+            "tip": "O masă consistentă după un tur cu bicicleta."
+          },
+          {
+            "name": "Suc de mere regional",
+            "tip": "Răcoritor și natural, de la fermele locale."
+          },
+          {
+            "name": "Berărie din 1567",
+            "tip": "O bere rece și mâncăruri consistente într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carinthian Cheese Noodles (Kasnudeln)",
+            "tip": "A hearty meal after a bike ride."
+          },
+          {
+            "name": "Regional apple juice",
+            "tip": "Refreshing and natural, from local farms."
+          },
+          {
+            "name": "Beer Inn since 1567",
+            "tip": "A cold beer and hearty food in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg an der Glan",
+            "tip": "Folgen Sie dem Fluss für eine ruhige und flache Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt bei Frauenstein",
+            "tip": "Ein perfekter Ort für eine Pause mit Panoramablick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park am Schleiferplatz",
+            "tip": "Eine kleine grüne Oase für eine kurze Rast.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Glan mentén",
+            "tip": "Kövesse a folyót egy csendes és sík úton."
+          },
+          {
+            "name": "Kilátópont Frauensteinnél",
+            "tip": "Tökéletes hely egy panorámás pihenőhöz."
+          },
+          {
+            "name": "Park a Schleiferplatzon",
+            "tip": "Egy kis zöld oázis egy rövid pihenőre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Glan",
+            "tip": "Urmați râul pentru o plimbare liniștită și plată."
+          },
+          {
+            "name": "Punct de belvedere lângă Frauenstein",
+            "tip": "Un loc perfect pentru o pauză cu vedere panoramică."
+          },
+          {
+            "name": "Parcul din Schleiferplatz",
+            "tip": "O mică oază de verdeață pentru un scurt popas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Glan",
+            "tip": "Follow the river for a quiet and flat ride."
+          },
+          {
+            "name": "Viewpoint near Frauenstein",
+            "tip": "A perfect spot for a break with a panoramic view."
+          },
+          {
+            "name": "Park at Schleiferplatz",
+            "tip": "A small green oasis for a short rest."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für eventuell benötigtes Zubehör oder eine schnelle Reparatur."
+          },
+          {
+            "name": "Bauernmarkt",
+            "tip": "Kaufen Sie Snacks für die Tour direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Szükséges kiegészítőkért vagy egy gyors javításért."
+          },
+          {
+            "name": "Termelői piac",
+            "tip": "Vásároljon harapnivalót a túrára közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru accesorii necesare sau o reparație rapidă."
+          },
+          {
+            "name": "Piața agricolă",
+            "tip": "Cumpărați gustări pentru tur direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "For any needed accessories or a quick repair."
+          },
+          {
+            "name": "Farmers' market",
+            "tip": "Buy snacks for the tour directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein Fahrradschloss mit, um Ihr Rad sicher abzustellen.",
+          "Die Strecke nach Frauenstein hat einige Steigungen, seien Sie darauf vorbereitet.",
+          "Achten Sie im Stadtzentrum auf Fußgänger.",
+          "Eine Wasserflasche und kleine Snacks sind für die längere Tour empfehlenswert."
+        ],
+        "hu": [
+          "Hozzon magával kerékpárzárat a bicikli biztonságos lezárásához.",
+          "A Frauensteinbe vezető úton vannak emelkedők, készüljön fel rá.",
+          "A belvárosban figyeljen a gyalogosokra.",
+          "A hosszabb túrára ajánlott egy vizes palack és némi harapnivaló."
+        ],
+        "ro": [
+          "Luați un lacăt pentru a vă asigura bicicleta.",
+          "Traseul spre Frauenstein are câteva urcușuri, fiți pregătiți.",
+          "Fiți atenți la pietoni în centrul orașului.",
+          "O sticlă de apă și gustări mici sunt recomandate pentru turul mai lung."
+        ],
+        "en": [
+          "Bring a bike lock to secure your bike.",
+          "The route to Frauenstein has some inclines, be prepared.",
+          "Watch out for pedestrians in the city center.",
+          "A water bottle and small snacks are recommended for the longer tour."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken & Hauptplatz",
+            "hu": "Parkolás és Főtér",
+            "ro": "Parcare și Piața Principală",
+            "en": "Parking & Main Square"
+          },
+          "coords": [
+            14.3615,
+            46.7688
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einer der Tiefgaragen und beginnen Sie den Spaziergang durch das Zentrum.",
+            "hu": "Parkoljon egy mélygarázsban, és kezdje a sétát a központban.",
+            "ro": "Parcați într-o parcare subterană și începeți plimbarea prin centru.",
+            "en": "Park in an underground garage and start your walk through the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Schüsselbrunnen",
+            "hu": "Városháza és Schüsselbrunnen kút",
+            "ro": "Primăria și Fântâna Schüsselbrunnen",
+            "en": "Town Hall & Schüsselbrunnen Fountain"
+          },
+          "coords": [
+            14.3619,
+            46.7692
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieser erste Cluster-Spaziergang führt Sie zu den Highlights am Hauptplatz.",
+            "hu": "Ez az első séta a Főtér legfontosabb látnivalóihoz vezet.",
+            "ro": "Această primă plimbare în cluster vă duce la atracțiile principale din Piața Principală.",
+            "en": "This first cluster walk takes you to the highlights of the Main Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Veit",
+            "hu": "Szent Vitus plébániatemplom",
+            "ro": "Biserica parohială Sf. Vitus",
+            "en": "Parish Church of St. Vitus"
+          },
+          "coords": [
+            14.3633,
+            46.7681
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:24",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Pestsäule zur beeindruckenden Kirche.",
+            "hu": "Rövid séta a pestisoszlopától a lenyűgöző templomig.",
+            "ro": "O scurtă plimbare de la Coloana Ciumei la biserica impresionantă.",
+            "en": "A short walk from the Plague Column to the impressive church."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Schloss Frauenstein",
+            "hu": "Utazás a Frauenstein kastélyhoz",
+            "ro": "Drumul spre Castelul Frauenstein",
+            "en": "Drive to Frauenstein Castle"
+          },
+          "coords": [
+            14.3942,
+            46.7915
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:27",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Genießen Sie die kurze Fahrt durch die Kärntner Landschaft zum Schloss.",
+            "hu": "Élvezze a rövid utat a karintiai tájon a kastélyig.",
+            "ro": "Bucurați-vă de scurta călătorie prin peisajul carintian până la castel.",
+            "en": "Enjoy the short drive through the Carinthian landscape to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Herzogsburg & Museum",
+            "hu": "Hercegi vár és Múzeum",
+            "ro": "Castelul Ducal și Muzeul",
+            "en": "Ducal Castle & Museum"
+          },
+          "coords": [
+            14.3595,
+            46.7675
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zurück in der Stadt, parken Sie erneut und tauchen Sie in die Geschichte ein.",
+            "hu": "Visszatérve a városba, parkoljon le újra, és merüljön el a történelemben.",
+            "ro": "Înapoi în oraș, parcați din nou și aprofundați istoria.",
+            "en": "Back in the city, park again and dive into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang an der Stadtmauer",
+            "hu": "Séta a városfalnál",
+            "ro": "Plimbare la zidul orașului",
+            "en": "Walk at the City Wall"
+          },
+          "coords": [
+            14.3575,
+            46.77
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:53",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter kurzer Spaziergang, um die befestigte Vergangenheit der Stadt zu sehen.",
+            "hu": "Egy utolsó rövid séta, hogy megnézze a város erődített múltját.",
+            "ro": "O ultimă scurtă plimbare pentru a vedea trecutul fortificat al orașului.",
+            "en": "One last short walk to see the city's fortified past."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie St. Veit flexibel. Parken Sie im Zentrum und entdecken Sie den ersten Cluster aus Hauptplatz, Rathaus und Kirche zu Fuß. Am Vormittag fahren Sie zum märchenhaften Schloss Frauenstein für eine ausgiebige Erkundung und Mittagspause. Nachmittags kehren Sie in die Stadt zurück, um den zweiten Cluster zu besuchen: die Herzogsburg mit ihrem Museum. Ein kurzer Spaziergang entlang der Stadtmauer rundet den Tag ab, bevor Sie die Heimreise antreten.",
+        "hu": "Autóval rugalmasan fedezheti fel St. Veit-et. Parkoljon a központban, és gyalogosan fedezze fel az első látnivalócsoportot: a főteret, a városházát és a templomot. Délelőtt utazzon el a mesebeli Frauenstein kastélyhoz egy alapos felfedezésre és ebédszünetre. Délután térjen vissza a városba, hogy meglátogassa a második látnivalócsoportot: a Hercegi várat és múzeumát. Egy rövid séta a városfal mentén zárja a napot, mielőtt hazaindulna.",
+        "ro": "Cu mașina, explorați St. Veit în mod flexibil. Parcați în centru și descoperiți pe jos primul cluster de atracții: Piața Principală, Primăria și biserica. Dimineața, conduceți la Castelul de basm Frauenstein pentru o explorare amănunțită și o pauză de prânz. După-amiaza, reveniți în oraș pentru a vizita al doilea cluster: Castelul Ducal cu muzeul său. O scurtă plimbare de-a lungul zidului orașului încheie ziua înainte de a vă întoarce acasă.",
+        "en": "Explore St. Veit flexibly by car. Park in the center and discover the first cluster of sights on foot: the main square, town hall, and church. In the morning, drive to the fairytale-like Frauenstein Castle for an extensive exploration and lunch break. In the afternoon, return to the city to visit the second cluster: the Ducal Castle with its museum. A short walk along the city wall rounds off the day before you head home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Landgasthof in der Nähe von Frauenstein",
+            "tip": "Verbinden Sie den Ausflug mit einem Mittagessen in einem authentischen Gasthof."
+          },
+          {
+            "name": "Kärntner Jause",
+            "tip": "Eine deftige Brotzeit mit Speck und Käse, ideal für unterwegs."
+          },
+          {
+            "name": "Eis-Greissler",
+            "tip": "Für eine süße Abkühlung nach dem Stadtspaziergang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki fogadó Frauenstein közelében",
+            "tip": "Kösse össze a kirándulást egy ebéddel egy autentikus fogadóban."
+          },
+          {
+            "name": "Karintiai uzsonna (Jause)",
+            "tip": "Kiadós étkezés szalonnával és sajttal, ideális útközben."
+          },
+          {
+            "name": "Eis-Greissler",
+            "tip": "Egy édes hűsítő a városi séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Han de țară lângă Frauenstein",
+            "tip": "Combinați excursia cu un prânz la un han autentic."
+          },
+          {
+            "name": "Gustare carintiană (Jause)",
+            "tip": "O gustare consistentă cu slănină și brânză, ideală pentru drum."
+          },
+          {
+            "name": "Eis-Greissler",
+            "tip": "Pentru o răcorire dulce după plimbarea prin oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Country inn near Frauenstein",
+            "tip": "Combine the trip with lunch at an authentic inn."
+          },
+          {
+            "name": "Carinthian snack (Jause)",
+            "tip": "A hearty snack with bacon and cheese, ideal for the road."
+          },
+          {
+            "name": "Eis-Greissler",
+            "tip": "For a sweet cool-down after the city walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Umgebung von Schloss Frauenstein",
+            "tip": "Die Wälder und Wiesen rund um das Schloss sind perfekt für einen ruhigen Moment.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht von der B94",
+            "tip": "Auf dem Weg von oder nach St. Veit gibt es schöne Ausblicke auf die Landschaft.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Friedhof bei der Stadtpfarrkirche",
+            "tip": "Ein überraschend friedlicher und gepflegter Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Frauenstein kastély környéke",
+            "tip": "A kastély körüli erdők és rétek tökéletesek egy csendes pillanathoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a B94-es útról",
+            "tip": "St. Veit felé vagy onnan elvezető úton szép kilátás nyílik a tájra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Temető a plébániatemplomnál",
+            "tip": "Meglepően békés és gondozott hely."
+          },
+          {
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Împrejurimile Castelului Frauenstein",
+            "tip": "Pădurile și pajiștile din jurul castelului sunt perfecte pentru un moment de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de pe B94",
+            "tip": "Pe drumul spre sau dinspre St. Veit, există priveliști frumoase ale peisajului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul de lângă Biserica Parohială",
+            "tip": "Un loc surprinzător de pașnic și bine întreținut.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Surroundings of Frauenstein Castle",
+            "tip": "The forests and meadows around the castle are perfect for a quiet moment.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the B94 road",
+            "tip": "On the way to or from St. Veit, there are beautiful views of the landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cemetery at the Parish Church",
+            "tip": "A surprisingly peaceful and well-kept place.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden entlang der Landstraßen",
+            "tip": "Kaufen Sie frische, regionale Produkte direkt vom Bauernhof."
+          },
+          {
+            "name": "Souvenirshop in der Herzogsburg",
+            "tip": "Finden Sie einzigartige Geschenke mit Bezug zur Stadtgeschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok az országutak mentén",
+            "tip": "Vásároljon friss, regionális termékeket közvetlenül a gazdaságból."
+          },
+          {
+            "name": "Ajándékbolt a Hercegi várban",
+            "tip": "Találjon egyedi, a város történetéhez kapcsolódó ajándékokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la ferme de-a lungul drumurilor de țară",
+            "tip": "Cumpărați produse proaspete, regionale, direct de la fermă."
+          },
+          {
+            "name": "Magazin de suveniruri în Castelul Ducal",
+            "tip": "Găsiți cadouri unice legate de istoria orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops along the country roads",
+            "tip": "Buy fresh, regional products directly from the farm."
+          },
+          {
+            "name": "Souvenir shop in the Ducal Castle",
+            "tip": "Find unique gifts related to the city's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Das Auto ermöglicht es, auch weiter entfernte Sehenswürdigkeiten wie Burgen und Seen in der Umgebung zu besuchen.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen in den Ortschaften.",
+          "Ein Navigationsgerät oder eine Karten-App ist hilfreich."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "Az autó lehetővé teszi a távolabbi látnivalók, például a környékbeli várak és tavak meglátogatását is.",
+          "Figyeljen a sebességkorlátozásokra a településeken.",
+          "Hasznos egy navigációs eszköz vagy térképalkalmazás."
+        ],
+        "ro": [
+          "Verificați dinainte opțiunile de parcare și taxele.",
+          "Mașina vă permite să vizitați și atracții mai îndepărtate, cum ar fi castelele și lacurile din zonă.",
+          "Fiți atenți la limitele de viteză în localități.",
+          "Un dispozitiv de navigare sau o aplicație de hărți este utilă."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "The car allows you to visit more distant sights such as castles and lakes in the area.",
+          "Pay attention to speed limits in the towns.",
+          "A navigation device or map app is helpful."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Hauptplatz-Cluster",
+            "hu": "Érkezés és Főtér környéke",
+            "ro": "Sosire și clusterul Piața Principală",
+            "en": "Arrival & Main Square Cluster"
+          },
+          "coords": [
+            14.3615,
+            46.7688
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Bahnhof sind es nur wenige Gehminuten zum Hauptplatz.",
+            "hu": "A vasútállomástól csak pár perc séta a főtér.",
+            "ro": "De la gară sunt doar câteva minute de mers pe jos până în Piața Principală.",
+            "en": "It's just a few minutes' walk from the train station to the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Stadtpfarrkirche",
+            "hu": "Városháza és plébániatemplom",
+            "ro": "Primăria și Biserica Parohială",
+            "en": "Town Hall & Parish Church"
+          },
+          "coords": [
+            14.3626,
+            46.7687
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beiden zentralen Wahrzeichen zu Fuß.",
+            "hu": "Fedezze fel ezt a két központi nevezetességet gyalog.",
+            "ro": "Explorați pe jos aceste două repere centrale.",
+            "en": "Explore these two central landmarks on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Herzogsburg & Museum",
+            "hu": "Hercegi vár és Múzeum",
+            "ro": "Castelul Ducal și Muzeul",
+            "en": "Ducal Castle & Museum"
+          },
+          "coords": [
+            14.3595,
+            46.7675
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch die Gassen führt Sie zur Burg.",
+            "hu": "A szűk utcákon keresztül jut el a várhoz.",
+            "ro": "O plimbare pe străduțe vă duce la castel.",
+            "en": "A walk through the alleys takes you to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt Richtung Frauenstein",
+            "hu": "Buszozás Frauenstein felé",
+            "ro": "Călătorie cu autobuzul spre Frauenstein",
+            "en": "Bus ride towards Frauenstein"
+          },
+          "coords": [
+            14.385,
+            46.785
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen regionalen Bus und steigen Sie in der Nähe des Schlosses aus.",
+            "hu": "Szálljon fel egy regionális buszra, és szálljon le a kastély közelében.",
+            "ro": "Luați un autobuz regional și coborâți lângă castel.",
+            "en": "Take a regional bus and get off near the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Frauenstein",
+            "hu": "Frauenstein kastély",
+            "ro": "Castelul Frauenstein",
+            "en": "Frauenstein Castle"
+          },
+          "coords": [
+            14.3942,
+            46.7915
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Fußweg von der Haltestelle zur Burg ist ein schöner Spaziergang.",
+            "hu": "A megállótól a várig tartó séta egy kellemes út.",
+            "ro": "Plimbarea de la stație la castel este una plăcută.",
+            "en": "The walk from the bus stop to the castle is a pleasant one."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Visszaút a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the center"
+          },
+          "coords": [
+            14.3619,
+            46.7686
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück und genießen Sie einen letzten Kaffee am Hauptplatz.",
+            "hu": "Menjen busszal vissza, és igyon meg egy utolsó kávét a főtéren.",
+            "ro": "Luați autobuzul înapoi și savurați o ultimă cafea în Piața Principală.",
+            "en": "Take the bus back and enjoy a final coffee on the main square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie St. Veit entspannt mit öffentlichen Verkehrsmitteln. Beginnen Sie Ihren Tag mit einem Spaziergang durch den zentralen Cluster, der alle wichtigen Sehenswürdigkeiten rund um den Hauptplatz umfasst. Nach dem Mittagessen bringt Sie ein kurzer Bus-Hop zu Ihrem zweiten Cluster: dem romantischen Schloss Frauenstein. Erkunden Sie die Burg und ihre Umgebung zu Fuß. Eine weitere Busfahrt bringt Sie am späten Nachmittag zurück ins Zentrum, wo Sie den Tag ausklingen lassen können.",
+        "hu": "Fedezze fel St. Veit-et nyugodtan tömegközlekedéssel. Kezdje a napot egy sétával a központi látnivalócsoportban, amely a főtér körüli összes fontos nevezetességet magában foglalja. Ebéd után egy rövid buszozás elviszi a második látnivalócsoporthoz: a romantikus Frauenstein kastélyhoz. Fedezze fel a várat és környékét gyalog. Egy másik buszjárattal késő délután visszatérhet a központba, ahol lezárhatja a napot.",
+        "ro": "Explorați St. Veit relaxat cu transportul public. Începeți ziua cu o plimbare prin clusterul central, care include toate atracțiile importante din jurul Pieței Principale. După prânz, un scurt salt cu autobuzul vă duce la al doilea cluster: romanticul Castel Frauenstein. Explorați castelul și împrejurimile sale pe jos. O altă călătorie cu autobuzul vă aduce înapoi în centru după-amiaza târziu, unde puteți încheia ziua.",
+        "en": "Explore St. Veit in a relaxed way using public transport. Start your day with a walk through the central cluster, which includes all the important sights around the main square. After lunch, a short bus hop takes you to your second cluster: the romantic Frauenstein Castle. Explore the castle and its surroundings on foot. Another bus ride will bring you back to the center in the late afternoon, where you can end your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am Hauptplatz",
+            "tip": "Ein schneller und leckerer Snack für den Start in den Tag."
+          },
+          {
+            "name": "Kärntner Reindling",
+            "tip": "Suchen Sie nach diesem traditionellen Kuchen in den örtlichen Konditoreien."
+          },
+          {
+            "name": "Würstelstand",
+            "tip": "Für eine schnelle und authentische Stärkung zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a Főtéren",
+            "tip": "Gyors és finom harapnivaló a napkezdéshez."
+          },
+          {
+            "name": "Karintiai Reindling",
+            "tip": "Keresse ezt a hagyományos süteményt a helyi cukrászdákban."
+          },
+          {
+            "name": "Virsli stand",
+            "tip": "Egy gyors és autentikus erősítésre közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie în Piața Principală",
+            "tip": "O gustare rapidă și delicioasă pentru a începe ziua."
+          },
+          {
+            "name": "Kärntner Reindling",
+            "tip": "Căutați această prăjitură tradițională în cofetăriile locale."
+          },
+          {
+            "name": "Stand de cârnați",
+            "tip": "Pentru o gustare rapidă și autentică între mese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery on the Main Square",
+            "tip": "A quick and delicious snack to start the day."
+          },
+          {
+            "name": "Carinthian Reindling",
+            "tip": "Look for this traditional cake in the local pastry shops."
+          },
+          {
+            "name": "Sausage stand",
+            "tip": "For a quick and authentic bite in between."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leseecke im Stadtpark",
+            "tip": "Ein ruhiger Ort, um auf den Bus zu warten oder ein Buch zu lesen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wanderweg um Frauenstein",
+            "tip": "Entfliehen Sie den Menschenmassen auf den Wegen rund um die Burg.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchplatz am Abend",
+            "tip": "Nachdem die meisten Touristen weg sind, ist der Platz sehr friedlich.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasósarok a városi parkban",
+            "tip": "Csendes hely a buszra várva vagy olvasgatva."
+          },
+          {
+            "name": "Túraútvonal Frauenstein körül",
+            "tip": "Meneküljön el a tömeg elől a vár körüli ösvényeken."
+          },
+          {
+            "name": "Templomtér este",
+            "tip": "Miután a legtöbb turista elment, a tér nagyon békés."
+          },
+          {
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colț de lectură în parcul orașului",
+            "tip": "Un loc liniștit pentru a aștepta autobuzul sau a citi o carte."
+          },
+          {
+            "name": "Potecă de drumeție în jurul Frauenstein",
+            "tip": "Evadați de mulțime pe potecile din jurul castelului."
+          },
+          {
+            "name": "Piața bisericii seara",
+            "tip": "După plecarea majorității turiștilor, piața este foarte pașnică."
+          },
+          {
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading corner in the city park",
+            "tip": "A quiet place to wait for the bus or read a book."
+          },
+          {
+            "name": "Hiking trail around Frauenstein",
+            "tip": "Escape the crowds on the paths around the castle."
+          },
+          {
+            "name": "Church square in the evening",
+            "tip": "After most tourists have left, the square is very peaceful."
+          },
+          {
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trafik (Tabakladen)",
+            "tip": "Hier können Sie Bustickets und oft auch regionale Zeitungen kaufen."
+          },
+          {
+            "name": "Kleine Läden in den Seitengassen",
+            "tip": "Entdecken Sie versteckte Geschäfte abseits des Hauptplatzes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trafik (Dohánybolt)",
+            "tip": "Itt buszjegyet és gyakran regionális újságokat is vásárolhat."
+          },
+          {
+            "name": "Kis boltok a mellékutcákban",
+            "tip": "Fedezzen fel rejtett üzleteket a főtértől távolabb."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trafik (magazin de tutun)",
+            "tip": "Aici puteți cumpăra bilete de autobuz și adesea ziare regionale."
+          },
+          {
+            "name": "Magazine mici pe străduțele laterale",
+            "tip": "Descoperiți magazine ascunse departe de piața principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trafik (Tobacconist)",
+            "tip": "You can buy bus tickets and often regional newspapers here."
+          },
+          {
+            "name": "Small shops in the side streets",
+            "tip": "Discover hidden shops away from the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich vorab über die Busfahrpläne, besonders für die Rückfahrt von Frauenstein.",
+          "Eine Tageskarte kann günstiger sein als Einzeltickets.",
+          "Seien Sie pünktlich an der Haltestelle, besonders bei weniger frequentierten Linien.",
+          "Nicht alle Busse sind barrierefrei, prüfen Sie dies bei Bedarf."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszmenetrendekről, különösen a Frauensteinből való visszautazáshoz.",
+          "Egy napijegy olcsóbb lehet, mint a vonaljegyek.",
+          "Legyen pontosan a megállóban, különösen a ritkábban közlekedő járatok esetében.",
+          "Nem minden busz akadálymentesített, szükség esetén ellenőrizze ezt."
+        ],
+        "ro": [
+          "Informați-vă în prealabil despre orarele autobuzelor, în special pentru călătoria de întoarcere de la Frauenstein.",
+          "Un bilet de o zi poate fi mai ieftin decât biletele individuale.",
+          "Fiți punctuali la stație, mai ales pentru liniile mai puțin frecvente.",
+          "Nu toate autobuzele sunt accesibile persoanelor cu dizabilități, verificați dacă este necesar."
+        ],
+        "en": [
+          "Find out about the bus schedules in advance, especially for the return trip from Frauenstein.",
+          "A day ticket can be cheaper than single tickets.",
+          "Be at the bus stop on time, especially for less frequent lines.",
+          "Not all buses are barrier-free, check this if necessary."
+        ]
+      }
+    }
+  }
+}

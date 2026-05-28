@@ -1,0 +1,1508 @@
+{
+  "city_id": "spain-parla-cities-v2",
+  "anchor": {
+    "name": "Parla",
+    "coords": [
+      -3.7719,
+      40.2369
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Alkotmány tér",
+            "ro": "Plaza de la Constitución",
+            "en": "Constitution Square"
+          },
+          "coords": [
+            -3.7731,
+            40.2355
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee in einem der örtlichen Cafés.",
+            "hu": "Kezdje a napot egy kávéval a helyi kávézók egyikében.",
+            "ro": "Începeți-vă ziua aici cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day here with a coffee at one of the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Nuestra Señora de la Asunción",
+            "hu": "Nuestra Señora de la Asunción templom",
+            "ro": "Biserica Nuestra Señora de la Asunción",
+            "en": "Church of Nuestra Señora de la Asunción"
+          },
+          "coords": [
+            -3.7745,
+            40.2361
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie den barocken Altaraufsatz im Inneren.",
+            "hu": "Figyelje meg a barokk oltárképet a templom belsejében.",
+            "ro": "Observați altarul baroc din interior.",
+            "en": "Note the Baroque altarpiece inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei der Soledad",
+            "hu": "Soledad remetelak",
+            "ro": "Schitul Soledad",
+            "en": "Hermitage of Solitude"
+          },
+          "coords": [
+            -3.7788,
+            40.2372
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe, etwas abseits des Hauptplatzes.",
+            "hu": "Egy csendes hely, kissé távolabb a főtértől.",
+            "ro": "Un loc de liniște, puțin retras față de piața principală.",
+            "en": "A place of peace, slightly away from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus",
+            "hu": "Kultúrház",
+            "ro": "Casa de Cultură",
+            "en": "House of Culture"
+          },
+          "coords": [
+            -3.7699,
+            40.2381
+          ],
+          "category": "theatres/cultural-centres",
+          "arrive_at": "11:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Veranstaltungsplan für lokale Ausstellungen oder Aufführungen.",
+            "hu": "Nézze meg a programot helyi kiállításokért vagy előadásokért.",
+            "ro": "Verificați programul pentru expoziții sau spectacole locale.",
+            "en": "Check the schedule for local exhibitions or performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de las Comunidades de España",
+            "hu": "Spanyol Közösségek Parkja",
+            "ro": "Parcul Comunităților din Spania",
+            "en": "Park of the Communities of Spain"
+          },
+          "coords": [
+            -3.7712,
+            40.2485
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:39",
+          "stay_min": 120,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagspicknick. Der Park hat große Grünflächen.",
+            "hu": "Ideális egy ebédpiknikhez. A park nagy zöld területekkel rendelkezik.",
+            "ro": "Ideal pentru un picnic la prânz. Parcul are zone verzi extinse.",
+            "en": "Ideal for a lunch picnic. The park has large green areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Boulevard von Parla",
+            "hu": "Parlai körút",
+            "ro": "Bulevardul din Parla",
+            "en": "Boulevard of Parla"
+          },
+          "coords": [
+            -3.7651,
+            40.2325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 2.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang am Nachmittag, gesäumt von Geschäften und Cafés.",
+            "hu": "Egy kellemes délutáni séta, üzletekkel és kávézókkal szegélyezve.",
+            "ro": "O plimbare plăcută după-amiaza, mărginită de magazine și cafenele.",
+            "en": "A nice afternoon stroll, lined with shops and cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten und Bonsai-Museum",
+            "hu": "Botanikus Kert és Bonszai Múzeum",
+            "ro": "Grădina Botanică și Muzeul Bonsai",
+            "en": "Botanical Garden and Bonsai Museum"
+          },
+          "coords": [
+            -3.785,
+            40.23
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine beeindruckende Sammlung. Nehmen Sie sich Zeit, die komplizierten Details zu bewundern.",
+            "hu": "Lenyűgöző gyűjtemény. Szánjon időt a bonyolult részletek megcsodálására.",
+            "ro": "O colecție impresionantă. Luați-vă timp pentru a admira detaliile complexe.",
+            "en": "An impressive collection. Take your time to admire the intricate details."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Parla beginnt am belebten Plaza de la Constitución, dem Herz der Stadt. Von dort aus erkunden Sie das reiche religiöse Erbe, beginnend mit der Hauptkirche und der ruhigen Ermita de la Soledad, die einen Einblick in die lokale Geschichte und Architektur bieten. Am Mittag tauchen Sie in die lokale Kultur im Kulturhaus ein, gefolgt von einer entspannenden Pause im weitläufigen Parque de las Comunidades, perfekt für ein Picknick. Der Nachmittag ist einem gemütlichen Spaziergang entlang des von Geschäften gesäumten Boulevards gewidmet, der zu einem einzigartigen botanischen Erlebnis im Bonsai-Museum führt und einen ruhigen Abschluss Ihres Tages darstellt.",
+        "hu": "Parlai napja a nyüzsgő Plaza de la Constitución-on, a város szívében kezdődik. Innen felfedezheti a gazdag vallási örökséget, kezdve a főtemplommal és a békés Ermita de la Soledad-dal, betekintést nyerve a helyi történelembe és építészetbe. Délben elmerülhet a helyi kultúrában a Kultúrházban, majd egy pihentető szünetet tarthat a tágas Parque de las Comunidades-ban, amely tökéletes egy piknikhez. A délután egy kellemes sétával telik a boltokkal szegélyezett körúton, amely egy egyedülálló botanikai élményhez vezet a Bonszai Múzeumban, nyugodt lezárást biztosítva a napnak.",
+        "ro": "Ziua dvs. în Parla începe în vibranta Plaza de la Constitución, inima orașului. De acolo, explorați bogata moștenire religioasă, începând cu biserica principală și liniștitul schit Ermita de la Soledad, oferind o privire asupra istoriei și arhitecturii locale. La prânz, vă veți cufunda în cultura locală la Casa de Cultură, urmată de o pauză relaxantă în vastul Parque de las Comunidades, perfect pentru un picnic. După-amiaza este dedicată unei plimbări agale pe bulevardul plin de magazine, care duce la o experiență botanică unică la Muzeul Bonsai, încheind ziua într-o notă de liniște.",
+        "en": "Your day in Parla begins at the bustling Plaza de la Constitución, the heart of the town. From there, explore the rich religious heritage starting with the main church and the tranquil Ermita de la Soledad, offering a glimpse into local history and architecture. At midday, immerse yourself in local culture at the House of Culture, followed by a relaxing break in the expansive Parque de las Comunidades, perfect for a picnic. The afternoon is dedicated to a leisurely stroll along the shop-lined boulevard, leading to a unique botanical experience at the Bonsai Museum, providing a serene end to your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "Ein herzhafter Kichererbseneintopf, perfekt für ein sättigendes Mittagessen."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Ein klassisches Madrider Sandwich, das man in vielen Bars findet."
+          },
+          {
+            "name": "Restaurante La Casona de Parla",
+            "tip": "Bekannt für seine traditionelle spanische Küche in einer gemütlichen Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "Kiadós csicseriborsó-pörkölt, tökéletes egy laktató ebédhez."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Klasszikus madridi szendvics, amelyet sok bárban megtalál."
+          },
+          {
+            "name": "Restaurante La Casona de Parla",
+            "tip": "Hagyományos spanyol konyhájáról ismert, hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "O tocană consistentă de năut, perfectă pentru un prânz sățios."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Un sandviș clasic madrilen, găsit în multe baruri."
+          },
+          {
+            "name": "Restaurante La Casona de Parla",
+            "tip": "Cunoscut pentru bucătăria sa tradițională spaniolă într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "A hearty chickpea stew, perfect for a filling lunch."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "A classic Madrid sandwich, found in many local bars."
+          },
+          {
+            "name": "Restaurante La Casona de Parla",
+            "tip": "Known for its traditional Spanish cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardín Botánico",
+            "tip": "Finden Sie eine ruhige Bank zwischen den Miniaturbäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ermita de la Soledad",
+            "tip": "Ein stiller Ort für Besinnung und Gebet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque de las Comunidades",
+            "tip": "Suchen Sie sich einen Platz am See für einen friedlichen Moment.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus Kert",
+            "tip": "Találjon egy csendes padot a miniatűr fák között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ermita de la Soledad",
+            "tip": "Csendes hely az elmélkedésre és az imára.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque de las Comunidades",
+            "tip": "Keressen egy helyet a tó mellett egy békés pillanatra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Găsiți o bancă liniștită printre copacii miniaturali.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ermita de la Soledad",
+            "tip": "Un loc tăcut pentru reflecție și rugăciune.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque de las Comunidades",
+            "tip": "Găsiți un loc lângă lac pentru un moment de pace.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "Find a quiet bench among the miniature trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ermita de la Soledad",
+            "tip": "A silent place for reflection and prayer.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque de las Comunidades",
+            "tip": "Find a spot by the lake for a peaceful moment.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Halten Sie Ausschau nach lokalen Märkten für frische Produkte und Kunsthandwerk."
+          },
+          {
+            "name": "Bulevar de Parla",
+            "tip": "Bietet eine Mischung aus nationalen Markengeschäften und kleinen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keresse a helyi piacokat friss termékekért és kézműves termékekért."
+          },
+          {
+            "name": "Parlai körút",
+            "tip": "Nemzeti márkaboltok és kis butikok keverékét kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele locale pentru produse proaspete și meșteșuguri."
+          },
+          {
+            "name": "Bulevardul din Parla",
+            "tip": "Oferă un amestec de magazine de marcă națională și buticuri mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look out for local markets for fresh produce and artisan crafts."
+          },
+          {
+            "name": "Boulevard of Parla",
+            "tip": "Offers a mix of national brand stores and small boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders an heißen Tagen.",
+          "Die meisten Geschäfte sind während der Siesta am Nachmittag geschlossen.",
+          "Ein leichtes Mittagessen wird empfohlen, um am Nachmittag aktiv zu bleiben."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Vigyen magával vizet, különösen a forró napokon.",
+          "A legtöbb üzlet délutáni szieszta idején zárva tart.",
+          "Könnyű ebéd ajánlott, hogy délután is aktív maradjon."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Luați apă cu voi, mai ales în zilele călduroase.",
+          "Majoritatea magazinelor sunt închise în timpul siestei de după-amiază.",
+          "Se recomandă un prânz ușor pentru a rămâne activ după-amiaza."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Carry water with you, especially on hot days.",
+          "Most shops close for a siesta in the afternoon.",
+          "A light lunch is recommended to stay active in the afternoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Alkotmány tér",
+            "ro": "Plaza de la Constitución",
+            "en": "Constitution Square"
+          },
+          "coords": [
+            -3.7731,
+            40.2355
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
+            "en": "Lock your bike securely before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Nuestra Señora de la Asunción",
+            "hu": "Nuestra Señora de la Asunción templom",
+            "ro": "Biserica Nuestra Señora de la Asunción",
+            "en": "Church of Nuestra Señora de la Asunción"
+          },
+          "coords": [
+            -3.7745,
+            40.2361
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die beeindruckende Fassade zu bewundern.",
+            "hu": "Egy rövid megálló a lenyűgöző homlokzat megcsodálására.",
+            "ro": "O oprire scurtă pentru a admira fațada impresionantă.",
+            "en": "A quick stop to admire the impressive facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei der Soledad",
+            "hu": "Soledad remetelak",
+            "ro": "Schitul Soledad",
+            "en": "Hermitage of Solitude"
+          },
+          "coords": [
+            -3.7788,
+            40.2372
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre abseits der belebteren Straßen.",
+            "hu": "Élvezze a csendes légkört a forgalmasabb utcáktól távol.",
+            "ro": "Bucurați-vă de atmosfera liniștită, departe de străzile mai aglomerate.",
+            "en": "Enjoy the quiet atmosphere away from the busier streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus",
+            "hu": "Kultúrház",
+            "ro": "Casa de Cultură",
+            "en": "House of Culture"
+          },
+          "coords": [
+            -3.7699,
+            40.2381
+          ],
+          "category": "theatres/cultural-centres",
+          "arrive_at": "10:36",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um lokale Kunst und Kultur kennenzulernen.",
+            "hu": "Nagyszerű hely a helyi művészet és kultúra megismerésére.",
+            "ro": "Un loc minunat pentru a experimenta arta și cultura locală.",
+            "en": "A great place to experience local art and culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de las Comunidades de España",
+            "hu": "Spanyol Közösségek Parkja",
+            "ro": "Parcul Comunităților din Spania",
+            "en": "Park of the Communities of Spain"
+          },
+          "coords": [
+            -3.7712,
+            40.2485
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie um den See herum und machen Sie eine lange Mittagspause.",
+            "hu": "Kerülje meg a tavat és tartson egy hosszú ebédszünetet.",
+            "ro": "Plimbați-vă cu bicicleta în jurul lacului și luați o pauză lungă de prânz.",
+            "en": "Cycle around the lake and take a long lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten und Bonsai-Museum",
+            "hu": "Botanikus Kert és Bonszai Múzeum",
+            "ro": "Grădina Botanică și Muzeul Bonsai",
+            "en": "Botanical Garden and Bonsai Museum"
+          },
+          "coords": [
+            -3.785,
+            40.23
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie diesen einzigartigen Garten zu Fuß.",
+            "hu": "Parkolja le a kerékpárját, és fedezze fel ezt az egyedülálló kertet gyalog.",
+            "ro": "Parcați bicicleta și explorați pe jos această grădină unică.",
+            "en": "Park your bike and explore this unique garden on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Boulevard von Parla",
+            "hu": "Parlai körút",
+            "ro": "Bulevardul din Parla",
+            "en": "Boulevard of Parla"
+          },
+          "coords": [
+            -3.7651,
+            40.2325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannten Fahrt und einem Kaffee.",
+            "hu": "Fejezze be a kerékpártúrát egy pihentető tekeréssel és egy kávéval.",
+            "ro": "Încheiați-vă turul cu bicicleta cu o plimbare relaxantă și o cafea.",
+            "en": "End your bike tour with a relaxing ride and a coffee."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Parla beginnt am zentralen Platz, von wo aus Sie schnell zu den historischen Kirchen gelangen. Der Morgen ist eine Mischung aus kulturellem Sightseeing und gemütlichem Radeln durch die alten Straßen. Gegen Mittag fahren Sie zum Kulturhaus und machen sich dann auf den Weg zum weitläufigen Parque de las Comunidades, wo Sie eine lange Pause einlegen und am See zu Mittag essen können. Am Nachmittag fahren Sie durch ruhigere Gegenden zum einzigartigen Bonsai-Museum, einem wahren versteckten Juwel. Die Tour endet mit einer entspannten Fahrt entlang des Hauptboulevards, wo Sie die lokale Atmosphäre aufsaugen können.",
+        "hu": "Parlai kerékpártúrája a központi téren kezdődik, ahonnan gyorsan elérheti a történelmi templomokat. A délelőtt a kulturális látnivalók és a régi utcákon való kellemes kerékpározás keveréke. Dél felé a Kultúrházhoz teker, majd a tágas Parque de las Comunidades felé veszi az irányt egy hosszú szünetre és tóparti ebédre. A délután folyamán csendesebb környékeken keresztül jut el az egyedülálló Bonszai Múzeumhoz, egy igazi rejtett gyöngyszemhez. A túra a fő körúton tett pihentető tekeréssel ér véget, ahol magába szívhatja a helyi hangulatot.",
+        "ro": "Turul dvs. cu bicicleta prin Parla începe din piața centrală, de unde ajungeți rapid la bisericile istorice. Dimineața este un amestec de vizitare culturală și pedalat lejer pe străzile vechi. Spre prânz, vă îndreptați spre Casa de Cultură, apoi spre vastul Parque de las Comunidades pentru o pauză lungă și prânz lângă lac. După-amiaza vă poartă prin cartiere mai liniștite până la unicul Muzeu Bonsai, o adevărată bijuterie ascunsă. Turul se încheie cu o plimbare relaxantă pe bulevardul principal, absorbind atmosfera locală.",
+        "en": "Your bike tour of Parla starts at the central square, from where you can quickly reach the historic churches. The morning is a mix of cultural sightseeing and leisurely cycling through the old streets. Towards midday, you'll head to the House of Culture, then make your way to the expansive Parque de las Comunidades for a long break and lunch by the lake. The afternoon takes you through quieter neighbourhoods to the unique Bonsai Museum, a true hidden gem. The tour concludes with a relaxed ride along the main boulevard, soaking up the local atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas",
+            "tip": "Probieren Sie eine Auswahl an kleinen Gerichten in verschiedenen Bars."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Ein klassischer spanischer Snack für einen Energieschub am Nachmittag."
+          },
+          {
+            "name": "Cervecería El Templo",
+            "tip": "Eine beliebte lokale Bar für ein kühles Bier und Tapas nach der Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas",
+            "tip": "Kóstoljon meg különféle kis ételeket a különböző bárokban."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Klasszikus spanyol snack egy délutáni energiafröccsért."
+          },
+          {
+            "name": "Cervecería El Templo",
+            "tip": "Népszerű helyi bár egy hideg sörre és tapasra a tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas",
+            "tip": "Încercați o varietate de platouri mici în diferite baruri."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "O gustare spaniolă clasică pentru un plus de energie după-amiaza."
+          },
+          {
+            "name": "Cervecería El Templo",
+            "tip": "Un bar local popular pentru o bere rece și tapas după plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas",
+            "tip": "Try a variety of small dishes at different bars."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "A classic Spanish snack for an afternoon energy boost."
+          },
+          {
+            "name": "Cervecería El Templo",
+            "tip": "A popular local spot for a cold beer and tapas after your ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardín Botánico",
+            "tip": "Die Stille unter den Bonsai-Bäumen ist sehr friedlich.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Sees im Parque de las Comunidades",
+            "tip": "Ein perfekter Ort zum Entspannen und Beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine ruhige Seitenstraße",
+            "tip": "Fahren Sie abseits der Hauptrouten, um das echte lokale Leben zu entdecken.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus Kert",
+            "tip": "A bonszai fák közötti csend nagyon békés.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A tó partja a Parque de las Comunidades-ben",
+            "tip": "Tökéletes hely a pihenésre és a nézelődésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendes mellékutca",
+            "tip": "Térjen le a fő útvonalakról, hogy felfedezze az igazi helyi életet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Liniștea printre arborii bonsai este foarte pașnică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul lacului din Parque de las Comunidades",
+            "tip": "Un loc perfect pentru a vă relaxa și a privi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O stradă laterală liniștită",
+            "tip": "Deviați de la rutele principale pentru a descoperi viața locală autentică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "The silence among the bonsai trees is very peaceful.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lakeside at Parque de las Comunidades",
+            "tip": "A perfect spot to relax and observe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet side street",
+            "tip": "Veer off the main routes to discover the real local life.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Suchen Sie nach lokalen Geschäften für Zubehör oder Souvenirs."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie Gebäck für einen Snack unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Keressen helyi boltokat kiegészítőkért vagy szuvenírekért."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon süteményt útközbeni harapnivalóként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Căutați magazine locale pentru accesorii sau suveniruri."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați produse de patiserie pentru o gustare pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Look for local shops for accessories or souvenirs."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Buy some pastries for a snack on the go."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen zu sichern.",
+          "Nutzen Sie wenn möglich Radwege.",
+          "Planen Sie Ihre Route im Voraus, aber seien Sie flexibel."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Vigyen magával lakatot a kerékpár lezárásához a megállóknál.",
+          "Használja a kerékpárutakat, ahol lehetséges.",
+          "Tervezze meg előre az útvonalat, de legyen rugalmas."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Folosiți pistele de biciclete acolo unde sunt disponibile.",
+          "Planificați-vă traseul în avans, dar fiți flexibil."
+        ],
+        "en": [
+          "Check your tire pressure before you leave.",
+          "Bring a lock to secure your bike at stops.",
+          "Use bike lanes where available.",
+          "Plan your route in advance, but be flexible."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:47",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum",
+            "hu": "Parkoló a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            -3.7725,
+            40.2345
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das historische Zentrum zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a történelmi központot.",
+            "ro": "Parcați aici pentru a explora centrul istoric pe jos.",
+            "en": "Park here to explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Alkotmány tér",
+            "ro": "Plaza de la Constitución",
+            "en": "Constitution Square"
+          },
+          "coords": [
+            -3.7731,
+            40.2355
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Morgenstimmung auf dem Hauptplatz der Stadt.",
+            "hu": "Élvezze a reggeli hangulatot a város főterén.",
+            "ro": "Bucurați-vă de atmosfera de dimineață în piața principală a orașului.",
+            "en": "Enjoy the morning atmosphere in the town's main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Nuestra Señora de la Asunción",
+            "hu": "Nuestra Señora de la Asunción templom",
+            "ro": "Biserica Nuestra Señora de la Asunción",
+            "en": "Church of Nuestra Señora de la Asunción"
+          },
+          "coords": [
+            -3.7745,
+            40.2361
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz entfernt, bewundern Sie die Architektur.",
+            "hu": "Rövid séta a térről, csodálja meg az építészetet.",
+            "ro": "O scurtă plimbare din piață, admirați arhitectura.",
+            "en": "A short walk from the square, admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de las Comunidades de España",
+            "hu": "Spanyol Közösségek Parkja",
+            "ro": "Parcul Comunităților din Spania",
+            "en": "Park of the Communities of Spain"
+          },
+          "coords": [
+            -3.7712,
+            40.2485
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:51",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park für eine lange Mittagspause. Es gibt genügend Parkplätze.",
+            "hu": "Vezessen a parkba egy hosszú ebédszünetre. Elegendő parkolóhely van.",
+            "ro": "Conduceți până la parc pentru o pauză lungă de prânz. Există parcare amplă.",
+            "en": "Drive to the park for a long lunch break. There is ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus",
+            "hu": "Kultúrház",
+            "ro": "Casa de Cultură",
+            "en": "House of Culture"
+          },
+          "coords": [
+            -3.7699,
+            40.2381
+          ],
+          "category": "theatres/cultural-centres",
+          "arrive_at": "13:08",
+          "stay_min": 70,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum und parken Sie in der Nähe, um das Kulturzentrum zu besuchen.",
+            "hu": "Vezessen vissza a központba, és parkoljon a közelben a kulturális központ meglátogatásához.",
+            "ro": "Conduceți înapoi spre centru și parcați în apropiere pentru a vizita centrul cultural.",
+            "en": "Drive back towards the center and park nearby to visit the cultural hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten und Bonsai-Museum",
+            "hu": "Botanikus Kert és Bonszai Múzeum",
+            "ro": "Grădina Botanică și Muzeul Bonsai",
+            "en": "Botanical Garden and Bonsai Museum"
+          },
+          "coords": [
+            -3.785,
+            40.23
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages. Ein ruhiger Ort, um sich zu entspannen.",
+            "hu": "A nap utolsó állomása. Egy békés hely a kikapcsolódásra.",
+            "ro": "Ultima oprire a zilei. Un loc liniștit pentru a vă relaxa.",
+            "en": "The last main stop of the day. A peaceful place to unwind."
+          }
+        },
+        {
+          "name": {
+            "de": "Boulevard von Parla",
+            "hu": "Parlai körút",
+            "ro": "Bulevardul din Parla",
+            "en": "Boulevard of Parla"
+          },
+          "coords": [
+            -3.7651,
+            40.2325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 37,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Gartens und spazieren Sie zum Boulevard für einen Kaffee.",
+            "hu": "Parkoljon a kert közelében, és sétáljon el a körútra egy kávéra.",
+            "ro": "Parcați lângă grădină și faceți o plimbare până la bulevard pentru o cafea.",
+            "en": "Park near the garden and take a walk to the boulevard for a coffee."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie Parla effizient erkunden. Beginnen Sie mit dem Parken im Zentrum, um den historischen Kern zu Fuß zu entdecken, einschließlich des Hauptplatzes und der Kirchen. Dies bildet Ihren ersten 'Geh-Cluster'. Anschließend fahren Sie zum Parque de las Comunidades, einem idealen Ort für eine lange Mittagspause. Am Nachmittag fahren Sie zum Kulturhaus und dann zum faszinierenden Bonsai-Museum, das den letzten großen Halt des Tages darstellt. Dieser Ansatz minimiert die Parkplatzsuche und maximiert die Zeit, die Sie an jedem Ort verbringen.",
+        "hu": "Autóval hatékonyan fedezheti fel Parlát. Kezdje a parkolással a központban, hogy gyalogosan fedezze fel a történelmi magot, beleértve a főteret és a templomokat. Ez alkotja az első „séta-klasztert”. Ezután vezessen a Parque de las Comunidades-be, amely ideális hely egy hosszú ebédszünetre. Délután látogasson el a Kultúrházhoz, majd a lenyűgöző Bonszai Múzeumhoz, amely a nap utolsó fő megállója. Ez a megközelítés minimalizálja a parkolóhely-keresést és maximalizálja az egyes helyszíneken eltöltött időt.",
+        "ro": "Cu mașina, puteți explora Parla eficient. Începeți prin a parca în centru pentru a descoperi nucleul istoric pe jos, inclusiv piața principală și bisericile. Acesta formează primul dvs. 'cluster de mers'. Apoi, conduceți la Parque de las Comunidades, un loc ideal pentru o pauză lungă de prânz. După-amiaza, vizitați Casa de Cultură și apoi fascinantul Muzeu Bonsai, care este ultima oprire majoră a zilei. Această abordare minimizează căutarea parcării și maximizează timpul petrecut la fiecare locație.",
+        "en": "With a car, you can explore Parla efficiently. Start by parking in the center to discover the historic core on foot, including the main square and churches. This forms your first 'walking cluster'. Then, drive to Parque de las Comunidades, an ideal spot for a long lunch break. In the afternoon, visit the House of Culture and then the fascinating Bonsai Museum, which is the last major stop of the day. This approach minimizes parking searches and maximizes your time at each location."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante El Almendro",
+            "tip": "Probieren Sie die Fleischgerichte vom Grill, leicht mit dem Auto erreichbar."
+          },
+          {
+            "name": "Mesón Gallego",
+            "tip": "Bekannt für seine Meeresfrüchte und die galicische Küche."
+          },
+          {
+            "name": "Churrería Chocolatería",
+            "tip": "Fahren Sie zu einer lokalen Churrería für einen süßen Genuss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante El Almendro",
+            "tip": "Kóstolja meg a grillezett húsételeket, autóval könnyen megközelíthető."
+          },
+          {
+            "name": "Mesón Gallego",
+            "tip": "Tenger gyümölcseiről és galíciai konyhájáról ismert."
+          },
+          {
+            "name": "Churrería Chocolatería",
+            "tip": "Vezessen el egy helyi churreríába egy édes finomságért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante El Almendro",
+            "tip": "Încercați preparatele din carne la grătar, ușor accesibile cu mașina."
+          },
+          {
+            "name": "Mesón Gallego",
+            "tip": "Renumit pentru fructele de mare și bucătăria galiciană."
+          },
+          {
+            "name": "Churrería Chocolatería",
+            "tip": "Conduceți la o churrería locală pentru un deliciu dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante El Almendro",
+            "tip": "Try their grilled meat dishes, easily accessible by car."
+          },
+          {
+            "name": "Mesón Gallego",
+            "tip": "Known for its seafood and Galician cuisine."
+          },
+          {
+            "name": "Churrería Chocolatería",
+            "tip": "Drive to a local churrería for a sweet treat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de las Comunidades",
+            "tip": "Finden Sie einen ruhigen Platz abseits der Hauptwege.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardín Botánico",
+            "tip": "Der perfekte Ort, um dem Stadtlärm zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt außerhalb der Stadt",
+            "tip": "Fahren Sie zu einem nahegelegenen Hügel für einen Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de las Comunidades",
+            "tip": "Keressen egy csendes helyet a fő ösvényektől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Tökéletes hely a város zajától való elmenekülésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Városon kívüli kilátó",
+            "tip": "Vezessen egy közeli dombra a panorámás kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque de las Comunidades",
+            "tip": "Găsiți un loc liniștit departe de potecile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Locul perfect pentru a evada de zgomotul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere în afara orașului",
+            "tip": "Conduceți spre un deal din apropiere pentru o vedere panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque de las Comunidades",
+            "tip": "Find a quiet spot away from the main paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "The perfect place to escape the city noise.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint outside the city",
+            "tip": "Drive to a nearby hill for a panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum Parla Natura",
+            "tip": "Ein Einkaufszentrum am Stadtrand, leicht mit dem Auto erreichbar."
+          },
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Suchen Sie nach einzigartigen Souvenirs im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parla Natura bevásárlóközpont",
+            "tip": "A város szélén található bevásárlóközpont, autóval könnyen megközelíthető."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen egyedi szuveníreket a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Parla Natura",
+            "tip": "Un centru comercial la marginea orașului, ușor accesibil cu mașina."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați suveniruri unice în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Parla Natura Shopping Center",
+            "tip": "A shopping center on the outskirts, easily accessible by car."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for unique souvenirs in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie GPS für eine einfache Navigation.",
+          "Achten Sie auf Parkbeschränkungen im Stadtzentrum.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch nahe gelegene Sehenswürdigkeiten zu erkunden.",
+          "Planen Sie Ihre Fahrten außerhalb der Stoßzeiten."
+        ],
+        "hu": [
+          "Használjon GPS-t az egyszerű navigációhoz.",
+          "Ügyeljen a parkolási korlátozásokra a városközpontban.",
+          "Az autó rugalmasságot biztosít a közeli látnivalók felfedezéséhez is.",
+          "Tervezze meg az utazásokat a csúcsforgalmon kívül."
+        ],
+        "ro": [
+          "Utilizați GPS pentru o navigație ușoară.",
+          "Fiți atenți la restricțiile de parcare în centrul orașului.",
+          "O mașină vă oferă flexibilitatea de a explora și atracțiile din apropiere.",
+          "Planificați-vă călătoriile în afara orelor de vârf."
+        ],
+        "en": [
+          "Use GPS for easy navigation.",
+          "Be aware of parking restrictions in the city center.",
+          "A car gives you the flexibility to explore nearby attractions as well.",
+          "Plan your drives outside of peak traffic hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de la Constitución (Bushaltestelle)",
+            "hu": "Plaza de la Constitución (buszmegálló)",
+            "ro": "Plaza de la Constitución (stație de autobuz)",
+            "en": "Plaza de la Constitución (Bus Stop)"
+          },
+          "coords": [
+            -3.7731,
+            40.2355
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Hauptplatz, um Ihren Tag zu beginnen.",
+            "hu": "Vegyen egy buszt a főtérre a nap kezdéséhez.",
+            "ro": "Luați un autobuz până în piața principală pentru a vă începe ziua.",
+            "en": "Take a bus to the main square to start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Nuestra Señora de la Asunción",
+            "hu": "Nuestra Señora de la Asunción templom",
+            "ro": "Biserica Nuestra Señora de la Asunción",
+            "en": "Church of Nuestra Señora de la Asunción"
+          },
+          "coords": [
+            -3.7745,
+            40.2361
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Platz aus erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a térről.",
+            "ro": "Ușor accesibil pe jos din piață.",
+            "en": "Easily walkable from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de la Soledad",
+            "hu": "Soledad remetelak",
+            "ro": "Schitul Soledad",
+            "en": "Hermitage of Solitude"
+          },
+          "coords": [
+            -3.7788,
+            40.2372
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:38",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang durch das historische Zentrum fort.",
+            "hu": "Folytassa sétáját a történelmi központban.",
+            "ro": "Continuați plimbarea prin centrul istoric.",
+            "en": "Continue your walk through the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de las Comunidades (Bushaltestelle)",
+            "hu": "Parque de las Comunidades (buszmegálló)",
+            "ro": "Parque de las Comunidades (stație de autobuz)",
+            "en": "Parque de las Comunidades (Bus Stop)"
+          },
+          "coords": [
+            -3.7712,
+            40.2485
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Park für ein Picknick und eine Pause.",
+            "hu": "Vegyen egy buszt a parkba egy piknikre és egy kis pihenésre.",
+            "ro": "Luați un autobuz spre parc pentru un picnic și o pauză.",
+            "en": "Take a bus to the park for a picnic and a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus (Bushaltestelle)",
+            "hu": "Kultúrház (buszmegálló)",
+            "ro": "Casa de Cultură (stație de autobuz)",
+            "en": "House of Culture (Bus Stop)"
+          },
+          "coords": [
+            -3.7699,
+            40.2381
+          ],
+          "category": "theatres/cultural-centres",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt bringt Sie zurück ins kulturelle Zentrum der Stadt.",
+            "hu": "Egy rövid buszút visszaviszi Önt a város kulturális központjába.",
+            "ro": "O scurtă călătorie cu autobuzul vă duce înapoi în centrul cultural al orașului.",
+            "en": "A short bus ride takes you back to the city's cultural hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten (Bushaltestelle)",
+            "hu": "Botanikus Kert (buszmegálló)",
+            "ro": "Grădina Botanică (stație de autobuz)",
+            "en": "Botanical Garden (Bus Stop)"
+          },
+          "coords": [
+            -3.785,
+            40.23
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 65,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Besuch des einzigartigen Bonsai-Gartens.",
+            "hu": "Fejezze be a napot az egyedülálló Bonszai Kert meglátogatásával.",
+            "ro": "Încheiați ziua cu o vizită la grădina unică de bonsai.",
+            "en": "End your day with a visit to the unique bonsai garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln von Parla können Sie die Stadt wie ein Einheimischer erleben. Beginnen Sie Ihren Tag mit einer Busfahrt zum Plaza de la Constitución. Von dort aus ist das historische Zentrum mit seinen Kirchen leicht zu Fuß erreichbar. Am Mittag bringt Sie ein weiterer Bus zum Parque de las Comunidades, einem perfekten Ort zum Entspannen. Am Nachmittag nutzen Sie den Bus, um das Kulturhaus und schließlich das ruhige Bonsai-Museum zu erreichen, wodurch Sie verschiedene Stadtteile ohne Parkplatzsorgen erkunden können.",
+        "hu": "Parla tömegközlekedésével úgy élheti át a várost, mint egy helyi. Kezdje a napot egy buszúttal a Plaza de la Constitución-ra. Innen a történelmi központ és templomai könnyen megközelíthetők gyalog. Délben egy másik busz elviszi a Parque de las Comunidades-be, amely tökéletes hely a pihenésre. Délután a busz segítségével eljuthat a Kultúrházhoz és végül a békés Bonszai Múzeumhoz, lehetővé téve a különböző városrészek felfedezését parkolási gondok nélkül.",
+        "ro": "Folosind transportul public din Parla, puteți experimenta orașul ca un localnic. Începeți ziua cu o călătorie cu autobuzul până la Plaza de la Constitución. De acolo, centrul istoric cu bisericile sale este ușor de explorat pe jos. La prânz, un alt autobuz vă va duce la Parque de las Comunidades, un loc perfect pentru relaxare. După-amiaza, folosiți autobuzul pentru a ajunge la Casa de Cultură și în final la liniștitul Muzeu Bonsai, permițându-vă să explorați diferite cartiere fără grija parcării.",
+        "en": "Using Parla's public transport allows you to experience the city like a local. Start your day with a bus ride to Plaza de la Constitución. From there, the historic center with its churches is easily walkable. At midday, another bus will take you to Parque de las Comunidades, a perfect spot for relaxation. In the afternoon, use the bus to get to the House of Culture and finally the tranquil Bonsai Museum, allowing you to explore different neighborhoods without the hassle of parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Menú del Día",
+            "tip": "Suchen Sie nach Restaurants in der Nähe von Bushaltestellen, die ein günstiges Tagesmenü anbieten."
+          },
+          {
+            "name": "Empanadas",
+            "tip": "Ein schneller und einfacher Snack, den Sie unterwegs essen können."
+          },
+          {
+            "name": "Bar de Barrio",
+            "tip": "Besuchen Sie eine Nachbarschaftsbar für ein authentisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menú del Día",
+            "tip": "Keressen éttermeket a buszmegállók közelében, amelyek olcsó napi menüt kínálnak."
+          },
+          {
+            "name": "Empanadas",
+            "tip": "Gyors és egyszerű snack, amelyet útközben is megehet."
+          },
+          {
+            "name": "Bar de Barrio",
+            "tip": "Látogasson el egy környékbeli bárba egy autentikus élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Menú del Día",
+            "tip": "Căutați restaurante lângă stațiile de autobuz care oferă un meniu al zilei la prețuri accesibile."
+          },
+          {
+            "name": "Empanadas",
+            "tip": "O gustare rapidă și ușoară de mâncat pe drum."
+          },
+          {
+            "name": "Bar de Barrio",
+            "tip": "Vizitați un bar de cartier pentru o experiență autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menú del Día",
+            "tip": "Look for restaurants near bus stops offering an affordable daily menu."
+          },
+          {
+            "name": "Empanadas",
+            "tip": "A quick and easy snack to eat on the go."
+          },
+          {
+            "name": "Bar de Barrio",
+            "tip": "Visit a neighborhood bar for an authentic experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Während der Busfahrt",
+            "tip": "Schauen Sie aus dem Fenster und beobachten Sie das tägliche Leben.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank im Parque de las Comunidades",
+            "tip": "Entspannen Sie sich nach Ihrer Busfahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardín Botánico",
+            "tip": "Ein friedlicher Abschluss des Tages.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A buszút során",
+            "tip": "Nézzen ki az ablakon és figyelje a mindennapi életet.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a Parque de las Comunidades-ben",
+            "tip": "Pihenjen a buszút után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Békés lezárása a napnak.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "În timpul călătoriei cu autobuzul",
+            "tip": "Priviți pe geam și observați viața de zi cu zi.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în Parque de las Comunidades",
+            "tip": "Relaxați-vă după călătoria cu autobuzul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "O încheiere pașnică a zilei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "During the bus ride",
+            "tip": "Look out the window and observe the daily life.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in Parque de las Comunidades",
+            "tip": "Relax after your bus journey.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "A peaceful end to the day.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe von Haltestellen",
+            "tip": "Entdecken Sie kleine Geschäfte, während Sie auf Ihren Bus warten."
+          },
+          {
+            "name": "Kiosk",
+            "tip": "Kaufen Sie ein Magazin oder einen Snack für Ihre Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a megállók közelében",
+            "tip": "Fedezzen fel kis boltokat, miközben a buszra vár."
+          },
+          {
+            "name": "Kioszk",
+            "tip": "Vásároljon egy magazint vagy egy snacket az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă stații",
+            "tip": "Descoperiți magazine mici în timp ce așteptați autobuzul."
+          },
+          {
+            "name": "Chioșc",
+            "tip": "Cumpărați o revistă sau o gustare pentru călătoria dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near stops",
+            "tip": "Discover small shops while waiting for your bus."
+          },
+          {
+            "name": "Kiosk",
+            "tip": "Buy a magazine or a snack for your ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die lokale ÖPNV-App für Fahrpläne in Echtzeit herunter.",
+          "Beachten Sie die Stoßzeiten.",
+          "Halten Sie Ihr Ticket bereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Vegye figyelembe a csúcsforgalmi időszakokat.",
+          "Tartsa készenlétben a jegyét."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația locală de transport public pentru orare în timp real.",
+          "Fiți conștienți de orele de vârf.",
+          "Păstrați biletul la îndemână."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Download the local public transport app for real-time schedules.",
+          "Be mindful of peak hours.",
+          "Keep your ticket ready."
+        ]
+      }
+    }
+  }
+}

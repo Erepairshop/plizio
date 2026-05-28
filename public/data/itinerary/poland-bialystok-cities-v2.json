@@ -1,0 +1,1532 @@
+{
+  "city_id": "poland-bialystok-cities-v2",
+  "anchor": {
+    "name": "Bialystok",
+    "coords": [
+      23.1688,
+      53.1325
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Planty-Park",
+            "hu": "Planty Park",
+            "ro": "Parcul Planty",
+            "en": "Planty Park"
+          },
+          "coords": [
+            23.1645,
+            53.1298
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem erfrischenden Spaziergang und bewundern Sie die Skulptur „Wäscherinnen“.",
+            "hu": "Kezdje a napot egy frissítő sétával és csodálja meg a „Mosónők” szoborcsoportot.",
+            "ro": "Începeți ziua cu o plimbare revigorantă și admirați sculptura „Spălătoresele”.",
+            "en": "Start your day with a refreshing walk and admire the 'Laundresses' sculpture."
+          }
+        },
+        {
+          "name": {
+            "de": "Branicki-Palast",
+            "hu": "Branicki-palota",
+            "ro": "Palatul Branicki",
+            "en": "Branicki Palace"
+          },
+          "coords": [
+            23.16,
+            53.1315
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Gärten; der französische Garten ist besonders beeindruckend.",
+            "hu": "Szánjon időt a kertre is; a francia kert különösen lenyűgöző.",
+            "ro": "Acordați timp și grădinilor; grădina franceză este deosebit de impresionantă.",
+            "en": "Take time for the gardens; the French garden is particularly impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Himmelfahrt-Kathedrale",
+            "hu": "Mária Mennybemenetele-katedrális",
+            "ro": "Catedrala Adormirea Maicii Domnului",
+            "en": "Cathedral Basilica of the Assumption"
+          },
+          "coords": [
+            23.1661,
+            53.134
+          ],
+          "category": "churches",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die neugotische Fassade und die prächtigen Buntglasfenster.",
+            "hu": "Figyelje meg a neogótikus homlokzatot és a csodálatos ólomüveg ablakokat.",
+            "ro": "Observați fațada neogotică și vitraliile splendide.",
+            "en": "Pay attention to the neo-Gothic facade and the magnificent stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            23.1648,
+            53.1352
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Modell des barocken Białystok ist ein Muss, um die Stadtentwicklung zu verstehen.",
+            "hu": "A barokk Białystok makettje kihagyhatatlan a város fejlődésének megértéséhez.",
+            "ro": "Macheta Białystokului baroc este esențială pentru a înțelege dezvoltarea orașului.",
+            "en": "The model of baroque Białystok is a must-see to understand the city's development."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kathedrale",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            23.1585,
+            53.1355
+          ],
+          "category": "churches",
+          "arrive_at": "15:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Atmosphäre dieser wichtigen orthodoxen Kirche.",
+            "hu": "Élje át ennek a fontos ortodox templomnak a spirituális atmoszféráját.",
+            "ro": "Experimentați atmosfera spirituală a acestei importante biserici ortodoxe.",
+            "en": "Experience the spiritual atmosphere of this important Orthodox church."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Großen Synagoge",
+            "hu": "Nagy Zsinagóga Emlékműve",
+            "ro": "Monumentul Marii Sinagogi",
+            "en": "Great Synagogue Monument"
+          },
+          "coords": [
+            23.1599,
+            53.138
+          ],
+          "category": "monuments",
+          "arrive_at": "16:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung an diesem Denkmal für die jüdische Gemeinde von Białystok.",
+            "hu": "Egy pillanatnyi megemlékezés a białystoki zsidó közösség emlékművénél.",
+            "ro": "Un moment de reculegere la acest monument dedicat comunității evreiești din Białystok.",
+            "en": "A moment of reflection at this monument to Białystok's Jewish community."
+          }
+        },
+        {
+          "name": {
+            "de": "Podlasie-Oper und Philharmonie",
+            "hu": "Podlasiei Opera és Filharmónia",
+            "ro": "Opera și Filarmonica Podlasie",
+            "en": "Podlasie Opera and Philharmonic"
+          },
+          "coords": [
+            23.1711,
+            53.1385
+          ],
+          "category": "theatres",
+          "arrive_at": "17:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur und den Dachgarten, auch wenn Sie keine Vorstellung besuchen.",
+            "hu": "Csodálja meg a modern építészetet és a tetőkertet, még ha nem is megy előadásra.",
+            "ro": "Admirați arhitectura modernă și grădina de pe acoperiș, chiar dacă nu mergeți la un spectacol.",
+            "en": "Admire the modern architecture and the rooftop garden, even if you're not attending a show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt im grünen Herzen der Stadt, dem Planty-Park. Am Vormittag erkunden Sie das prächtige Branicki-Palais, das „Versailles des Nordens“. Nach dem Mittagessen tauchen Sie in die Geschichte ein, mit Besuchen der Kathedrale und des Historischen Museums, die das reiche Erbe Białystoks offenbaren. Der späte Nachmittag ist der Besinnung gewidmet, an der St.-Nikolaus-Kathedrale und dem Synagogen-Denkmal. Der Tag endet mit einem Blick auf die moderne Kultur im beeindruckenden Opernhaus, ein perfekter Abschluss für einen Tag voller Entdeckungen.",
+        "hu": "Sétája a város zöld szívében, a Planty Parkban kezdődik. A délelőttöt a csodálatos Branicki-palota, „Észak Versailles-a” felfedezésével tölti. Ebéd után elmerül a történelemben a katedrális és a Történeti Múzeum meglátogatásával, amelyek feltárják Białystok gazdag örökségét. A késő délután az elmélkedésé a Szent Miklós-székesegyháznál és a zsinagóga emlékművénél. A nap a modern kultúrára vetett pillantással zárul a lenyűgöző operaházban, tökéletes befejezése egy felfedezésekkel teli napnak.",
+        "ro": "Plimbarea dvs. începe în inima verde a orașului, Parcul Planty. Dimineața explorați magnificul Palat Branicki, „Versailles-ul Nordului”. După prânz, vă scufundați în istorie cu vizite la catedrală și la Muzeul de Istorie, care dezvăluie bogata moștenire a Białystokului. După-amiaza târziu este dedicată reflecției la Catedrala Sf. Nicolae și la monumentul sinagogii. Ziua se încheie cu o privire asupra culturii moderne la impresionanta clădire a operei, o încheiere perfectă pentru o zi plină de descoperiri.",
+        "en": "Your walking tour begins in the green heart of the city, Planty Park. In the morning, you'll explore the magnificent Branicki Palace, the 'Versailles of the North.' After lunch, you'll dive into history with visits to the cathedral and the Historical Museum, revealing Białystok's rich heritage. The late afternoon is for reflection at St. Nicholas Cathedral and the synagogue monument. The day concludes with a glimpse of modern culture at the impressive opera house, a perfect end to a day of discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kartacze",
+            "tip": "Herzhafte Kartoffelklöße, gefüllt mit Fleisch – ein Muss in Podlasie."
+          },
+          {
+            "name": "Babka ziemniaczana",
+            "tip": "Ein schmackhafter Kartoffelkuchen, oft mit Speck und Zwiebeln serviert."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "Ein traditioneller Baumkuchen, der über offenem Feuer gebacken wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kartacze",
+            "tip": "Hússal töltött, kiadós burgonyagombóc – kötelező Podlasiében."
+          },
+          {
+            "name": "Babka ziemniaczana",
+            "tip": "Ízletes burgonyapite, gyakran szalonnával és hagymával tálalva."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "Hagyományos kürtőskalács, amelyet nyílt tűzön sütnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kartacze",
+            "tip": "Găluște copioase din cartofi umplute cu carne - un deliciu în Podlasia."
+          },
+          {
+            "name": "Babka ziemniaczana",
+            "tip": "O prăjitură gustoasă de cartofi, adesea servită cu slănină și ceapă."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "Un cozonac secuiesc tradițional, copt pe foc deschis."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kartacze",
+            "tip": "Hearty potato dumplings filled with meat—a must-try in Podlasie."
+          },
+          {
+            "name": "Babka ziemniaczana",
+            "tip": "A savory potato cake, often served with bacon and onions."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "A traditional tree cake baked over an open fire."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Branicki-Palastes",
+            "tip": "Finden Sie eine ruhige Bank im französischen oder englischen Garten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Biała-Flusses",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses, besonders am späten Nachmittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dachgarten der Oper",
+            "tip": "Ein überraschend ruhiger Ort mit toller Aussicht auf die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Branicki-palota kertjei",
+            "tip": "Találjon egy csendes padot a francia vagy angol kertben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biała folyó partja",
+            "tip": "Békés séta a folyó mentén, különösen késő délután.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Operaház tetőkertje",
+            "tip": "Meglepően csendes hely, nagyszerű kilátással a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Branicki",
+            "tip": "Găsiți o bancă liniștită în grădina franceză sau engleză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Biała",
+            "tip": "O plimbare liniștită de-a lungul râului, mai ales după-amiaza târziu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina de pe acoperișul Operei",
+            "tip": "Un loc surprinzător de liniștit cu vederi minunate ale orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Branicki Palace Gardens",
+            "tip": "Find a quiet bench in the French or English style gardens.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Biała River",
+            "tip": "A peaceful walk along the river, especially in the late afternoon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Opera Rooftop Garden",
+            "tip": "A surprisingly quiet spot with great views of the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lipowa Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen Boutiquen und bekannten Marken."
+          },
+          {
+            "name": "Rynek Kościuszki",
+            "tip": "Souvenirstände und Kunsthandwerk rund um den Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lipowa utca",
+            "tip": "A fő bevásárlóutca helyi butikok és ismert márkák keverékével."
+          },
+          {
+            "name": "Kościuszko piac",
+            "tip": "Ajándékboltok és kézműves termékek a főtér körül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Lipowa",
+            "tip": "Principala stradă comercială cu un amestec de buticuri locale și mărci cunoscute."
+          },
+          {
+            "name": "Piața Kościuszki",
+            "tip": "Standuri de suveniruri și artizanat în jurul pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lipowa Street",
+            "tip": "The main shopping street with a mix of local boutiques and known brands."
+          },
+          {
+            "name": "Kościuszko Market Square",
+            "tip": "Souvenir stalls and handicrafts around the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können.",
+          "Einige Kirchen verlangen möglicherweise, dass Schultern und Knie bedeckt sind."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mert az változhat.",
+          "Néhány templomban megkövetelhetik a váll és a térd eltakarását."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Verificați în avans orele de deschidere ale muzeelor, deoarece acestea pot varia.",
+          "Unele biserici pot solicita acoperirea umerilor și a genunchilor."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Most central sights are easily within walking distance.",
+          "Check museum opening times in advance as they can vary.",
+          "Some churches may require shoulders and knees to be covered."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Podlasie-Oper und Philharmonie",
+            "hu": "Podlasiei Opera és Filharmónia",
+            "ro": "Opera și Filarmonica Podlasie",
+            "en": "Podlasie Opera and Philharmonic"
+          },
+          "coords": [
+            23.1711,
+            53.1385
+          ],
+          "category": "theatres",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie hier, um die moderne Seite der Stadt zu sehen und den Dachgarten zu genießen.",
+            "hu": "Kezdje itt, hogy lássa a város modern oldalát és élvezze a tetőkertet.",
+            "ro": "Începeți aici pentru a vedea partea modernă a orașului și a vă bucura de grădina de pe acoperiș.",
+            "en": "Start here to see the city's modern side and enjoy the rooftop garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Großen Synagoge",
+            "hu": "Nagy Zsinagóga Emlékműve",
+            "ro": "Monumentul Marii Sinagogi",
+            "en": "Great Synagogue Monument"
+          },
+          "coords": [
+            23.1599,
+            53.138
+          ],
+          "category": "monuments",
+          "arrive_at": "09:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze, aber wichtige Pause, um der Geschichte der Stadt zu gedenken.",
+            "hu": "Egy rövid, de fontos megálló a város történelmére való emlékezéshez.",
+            "ro": "O oprire scurtă, dar importantă pentru a comemora istoria orașului.",
+            "en": "A short but important stop to commemorate the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kathedrale",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            23.1585,
+            53.1355
+          ],
+          "category": "churches",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die goldenen Kuppeln sind schon von weitem ein schöner Anblick.",
+            "hu": "Az arany kupolák már messziről is gyönyörű látványt nyújtanak.",
+            "ro": "Cupolele aurii sunt o priveliște frumoasă de la distanță.",
+            "en": "The golden domes are a beautiful sight from a distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            23.1648,
+            53.1352
+          ],
+          "category": "museums",
+          "arrive_at": "10:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine längere Pause, um mehr über die Region zu erfahren.",
+            "hu": "Tökéletes egy hosszabb szünetre, hogy többet tudjon meg a régióról.",
+            "ro": "Perfect pentru o pauză mai lungă pentru a afla mai multe despre regiune.",
+            "en": "Perfect for a longer break to learn about the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Himmelfahrt-Kathedrale",
+            "hu": "Mária Mennybemenetele-katedrális",
+            "ro": "Catedrala Adormirea Maicii Domnului",
+            "en": "Cathedral Basilica of the Assumption"
+          },
+          "coords": [
+            23.1661,
+            53.134
+          ],
+          "category": "churches",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Kontrast zwischen dem alten und dem neuen Teil der Kirche ist faszinierend.",
+            "hu": "A templom régi és új része közötti kontraszt lenyűgöző.",
+            "ro": "Contrastul dintre partea veche și cea nouă a bisericii este fascinant.",
+            "en": "The contrast between the old and new parts of the church is fascinating."
+          }
+        },
+        {
+          "name": {
+            "de": "Branicki-Palast",
+            "hu": "Branicki-palota",
+            "ro": "Palatul Branicki",
+            "en": "Branicki Palace"
+          },
+          "coords": [
+            23.16,
+            53.1315
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Rad durch die weitläufigen Gärten, um das ganze Ausmaß zu erfassen.",
+            "hu": "Biciklizzen át a tágas kerteken, hogy felmérje a teljes méretét.",
+            "ro": "Mergeți cu bicicleta prin grădinile întinse pentru a aprecia întreaga scară.",
+            "en": "Cycle through the expansive gardens to appreciate the full scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Planty-Park",
+            "hu": "Planty Park",
+            "ro": "Parcul Planty",
+            "en": "Planty Park"
+          },
+          "coords": [
+            23.1645,
+            53.1298
+          ],
+          "category": "parks",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Pause am Nachmittag im Schatten der Bäume.",
+            "hu": "Ideális hely egy délutáni pihenőre a fák árnyékában.",
+            "ro": "Un loc ideal pentru o pauză de după-amiază la umbra copacilor.",
+            "en": "An ideal spot for an afternoon break in the shade of the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Armeemuseum",
+            "hu": "Hadtörténeti Múzeum",
+            "ro": "Muzeul Armatei",
+            "en": "Army Museum"
+          },
+          "coords": [
+            23.17,
+            53.128
+          ],
+          "category": "museums",
+          "arrive_at": "17:03",
+          "stay_min": 1,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein interessanter Abstecher für Militärgeschichtsfans zum Abschluss der Tour.",
+            "hu": "Érdekes kitérő a hadtörténelem rajongóinak a túra végén.",
+            "ro": "Un ocol interesant pentru fanii istoriei militare la sfârșitul turului.",
+            "en": "An interesting detour for military history fans to end the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am modernen Opernhaus und führt Sie schnell zu historischen Stätten wie dem Synagogen-Denkmal und der orthodoxen Kathedrale. Am Vormittag nehmen Sie sich Zeit für das Historische Museum, um in die Vergangenheit der Region einzutauchen. Gegen Mittag bewundern Sie die imposante Mariä-Himmelfahrt-Kathedrale, bevor Sie zum Höhepunkt des Tages, dem Branicki-Palast, radeln. Der Nachmittag lädt zu einer entspannten Pause im Planty-Park ein. Ein letzter Abstecher zum Armeemuseum rundet Ihren ereignisreichen Tag auf zwei Rädern ab.",
+        "hu": "Kerékpártúrája a modern Operaháznál kezdődik, és gyorsan elvezeti Önt olyan történelmi helyszínekhez, mint a Zsinagóga emlékműve és az ortodox katedrális. Délelőtt szánjon időt a Történeti Múzeumra, hogy elmerüljön a régió múltjában. Dél körül megcsodálhatja az impozáns Mária Mennybemenetele-katedrálist, mielőtt a nap fénypontjához, a Branicki-palotához teker. A délután egy pihentető szünetre hív a Planty Parkban. Egy utolsó kitérő a Hadtörténeti Múzeumba teszi teljessé az eseménydús, két keréken töltött napot.",
+        "ro": "Turul dvs. cu bicicleta începe la Opera modernă și vă duce rapid la situri istorice precum Monumentul Sinagogii și catedrala ortodoxă. Dimineața, acordați-vă timp pentru Muzeul de Istorie pentru a vă cufunda în trecutul regiunii. În jurul prânzului, admirați impunătoarea Catedrală a Adormirii Maicii Domnului înainte de a pedala spre punctul culminant al zilei, Palatul Branicki. După-amiaza invită la o pauză relaxantă în Parcul Planty. Un ultim ocol la Muzeul Armatei completează ziua dvs. plină de evenimente pe două roți.",
+        "en": "Your bike tour starts at the modern Opera House, quickly leading you to historic sites like the Synagogue Monument and the Orthodox Cathedral. In the morning, take time for the Historical Museum to delve into the region's past. Around noon, admire the imposing Cathedral Basilica before cycling to the day's highlight, the Branicki Palace. The afternoon invites a relaxing break in Planty Park. A final detour to the Army Museum completes your eventful day on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kartacze",
+            "tip": "Herzhafte Kartoffelklöße, gefüllt mit Fleisch – ein Muss in Podlasie."
+          },
+          {
+            "name": "Babka ziemniaczana",
+            "tip": "Ein schmackhafter Kartoffelkuchen, oft mit Speck und Zwiebeln serviert."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "Ein traditioneller Baumkuchen, der über offenem Feuer gebacken wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kartacze",
+            "tip": "Hússal töltött, kiadós burgonyagombóc – kötelező Podlasiében."
+          },
+          {
+            "name": "Babka ziemniaczana",
+            "tip": "Ízletes burgonyapite, gyakran szalonnával és hagymával tálalva."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "Hagyományos kürtőskalács, amelyet nyílt tűzön sütnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kartacze",
+            "tip": "Găluște copioase din cartofi umplute cu carne - un deliciu în Podlasia."
+          },
+          {
+            "name": "Babka ziemniaczana",
+            "tip": "O prăjitură gustoasă de cartofi, adesea servită cu slănină și ceapă."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "Un cozonac secuiesc tradițional, copt pe foc deschis."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kartacze",
+            "tip": "Hearty potato dumplings filled with meat—a must-try in Podlasie."
+          },
+          {
+            "name": "Babka ziemniaczana",
+            "tip": "A savory potato cake, often served with bacon and onions."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "A traditional tree cake baked over an open fire."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Branicki-Palastes",
+            "tip": "Finden Sie eine ruhige Bank im französischen oder englischen Garten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Biała-Flusses",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses, besonders am späten Nachmittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dachgarten der Oper",
+            "tip": "Ein überraschend ruhiger Ort mit toller Aussicht auf die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Branicki-palota kertjei",
+            "tip": "Találjon egy csendes padot a francia vagy angol kertben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biała folyó partja",
+            "tip": "Békés séta a folyó mentén, különösen késő délután.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Operaház tetőkertje",
+            "tip": "Meglepően csendes hely, nagyszerű kilátással a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Branicki",
+            "tip": "Găsiți o bancă liniștită în grădina franceză sau engleză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Biała",
+            "tip": "O plimbare liniștită de-a lungul râului, mai ales după-amiaza târziu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina de pe acoperișul Operei",
+            "tip": "Un loc surprinzător de liniștit cu vederi minunate ale orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Branicki Palace Gardens",
+            "tip": "Find a quiet bench in the French or English style gardens.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Biała River",
+            "tip": "A peaceful walk along the river, especially in the late afternoon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Opera Rooftop Garden",
+            "tip": "A surprisingly quiet spot with great views of the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lipowa Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen Boutiquen und bekannten Marken."
+          },
+          {
+            "name": "Rynek Kościuszki",
+            "tip": "Souvenirstände und Kunsthandwerk rund um den Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lipowa utca",
+            "tip": "A fő bevásárlóutca helyi butikok és ismert márkák keverékével."
+          },
+          {
+            "name": "Kościuszko piac",
+            "tip": "Ajándékboltok és kézműves termékek a főtér körül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Lipowa",
+            "tip": "Principala stradă comercială cu un amestec de buticuri locale și mărci cunoscute."
+          },
+          {
+            "name": "Piața Kościuszki",
+            "tip": "Standuri de suveniruri și artizanat în jurul pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lipowa Street",
+            "tip": "The main shopping street with a mix of local boutiques and known brands."
+          },
+          {
+            "name": "Kościuszko Market Square",
+            "tip": "Souvenir stalls and handicrafts around the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Fahrradverleihsysteme der Stadt.",
+          "Achten Sie auf Radwege, aber seien Sie auch auf Straßen mit Autoverkehr vorbereitet.",
+          "Ein Schloss ist unerlässlich, um Ihr Fahrrad bei Besichtigungen sicher abzustellen.",
+          "Planen Sie Ihre Route im Voraus, um unnötige Steigungen zu vermeiden."
+        ],
+        "hu": [
+          "Használja a városi kerékpárkölcsönző rendszereket.",
+          "Figyeljen a kerékpárutakra, de készüljön fel az autós forgalommal közös utakra is.",
+          "A lakat elengedhetetlen a kerékpár biztonságos lezárásához a látogatások során.",
+          "Tervezze meg előre az útvonalat a felesleges emelkedők elkerülése érdekében."
+        ],
+        "ro": [
+          "Folosiți sistemele de închiriere de biciclete ale orașului.",
+          "Fiți atenți la pistele de biciclete, dar fiți pregătiți și pentru drumurile cu trafic auto.",
+          "Un lacăt este esențial pentru a vă asigura bicicleta în timpul vizitelor.",
+          "Planificați-vă traseul în avans pentru a evita pantele inutile."
+        ],
+        "en": [
+          "Use the city's bike rental systems.",
+          "Look for bike lanes, but be prepared for roads shared with car traffic.",
+          "A lock is essential to secure your bike while sightseeing.",
+          "Plan your route in advance to avoid unnecessary hills."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Podlasie-Oper und Philharmonie",
+            "hu": "Podlasiei Opera és Filharmónia",
+            "ro": "Opera și Filarmonica Podlasie",
+            "en": "Podlasie Opera and Philharmonic"
+          },
+          "coords": [
+            23.1711,
+            53.1385
+          ],
+          "category": "theatres",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe. Von hier aus beginnt Ihr erster Spaziergang.",
+            "hu": "Parkoljon a közelben. Innen indul az első séta.",
+            "ro": "Parcați în apropiere. Prima dvs. plimbare pe jos începe de aici.",
+            "en": "Park nearby. Your first walking cluster starts from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Armeemuseum",
+            "hu": "Hadtörténeti Múzeum",
+            "ro": "Muzeul Armatei",
+            "en": "Army Museum"
+          },
+          "coords": [
+            23.17,
+            53.128
+          ],
+          "category": "museums",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Opernhaus. Faszinierende Ausstellungen für Geschichtsinteressierte.",
+            "hu": "Rövid séta az Operaháztól. Lenyűgöző kiállítások a történelem iránt érdeklődőknek.",
+            "ro": "La o scurtă plimbare de Operă. Expoziții fascinante pentru pasionații de istorie.",
+            "en": "A short walk from the Opera. Fascinating exhibits for history buffs."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kathedrale",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            23.1585,
+            53.1355
+          ],
+          "category": "churches",
+          "arrive_at": "11:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Suchen Sie einen Parkplatz für die nächste Erkundung zu Fuß.",
+            "hu": "Vezessen a következő csoporthoz. Keressen parkolót a következő gyalogos felfedezéshez.",
+            "ro": "Conduceți spre următorul cluster. Găsiți un loc de parcare pentru următoarea explorare pe jos.",
+            "en": "Drive to the next cluster. Find a parking spot for the next walking exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            23.1648,
+            53.1352
+          ],
+          "category": "museums",
+          "arrive_at": "12:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom orthodoxen Dom aus leicht zu Fuß erreichbar. Ideal für die Mittagszeit.",
+            "hu": "Könnyen elérhető gyalog az ortodox székesegyháztól. Ideális ebédidőben.",
+            "ro": "Ușor de ajuns pe jos de la catedrala ortodoxă. Ideal pentru ora prânzului.",
+            "en": "An easy walk from the Orthodox Cathedral. Ideal for the midday hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Großen Synagoge",
+            "hu": "Nagy Zsinagóga Emlékműve",
+            "ro": "Monumentul Marii Sinagogi",
+            "en": "Great Synagogue Monument"
+          },
+          "coords": [
+            23.1599,
+            53.138
+          ],
+          "category": "monuments",
+          "arrive_at": "14:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, nachdenklicher Spaziergang vom Museum aus.",
+            "hu": "Egy rövid, elgondolkodtató séta a múzeumtól.",
+            "ro": "O scurtă plimbare reflexivă de la muzeu.",
+            "en": "A short, reflective walk from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Branicki-Palast",
+            "hu": "Branicki-palota",
+            "ro": "Palatul Branicki",
+            "en": "Branicki Palace"
+          },
+          "coords": [
+            23.16,
+            53.1315
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der Höhepunkt des Tages. Parken Sie und nehmen Sie sich Zeit für das Schloss und die Gärten.",
+            "hu": "A nap fénypontja. Parkoljon le és szánjon időt a kastélyra és a kertekre.",
+            "ro": "Punctul culminant al zilei. Parcați și acordați-vă timp pentru palat și grădini.",
+            "en": "The highlight of the day. Park and take your time for the palace and the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Planty-Park",
+            "hu": "Planty Park",
+            "ro": "Parcul Planty",
+            "en": "Planty Park"
+          },
+          "coords": [
+            23.1645,
+            53.1298
+          ],
+          "category": "parks",
+          "arrive_at": "16:47",
+          "stay_min": 1,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang zum Abschluss des Tages, direkt neben dem Palast.",
+            "hu": "Egy pihentető séta a nap végén, közvetlenül a palota mellett.",
+            "ro": "O plimbare relaxantă pentru a încheia ziua, chiar lângă palat.",
+            "en": "A relaxing walk to end the day, right next to the palace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour nutzt Cluster-Walking: Fahren Sie zu einem Bereich und erkunden Sie ihn zu Fuß. Starten Sie am Opernhaus (Cluster 1) und spazieren Sie zum Armeemuseum. Fahren Sie dann zum zweiten Cluster, wo Sie die orthodoxe Kathedrale, das Historische Museum und das Synagogen-Denkmal zu Fuß erkunden. Der Nachmittag ist für den prächtigen Branicki-Palast reserviert (Cluster 3). Nach der Erkundung des Palastes und seiner Gärten beenden Sie den Tag mit einem entspannten Spaziergang durch den angrenzenden Planty-Park. Diese Methode kombiniert den Komfort des Autos mit dem Vergnügen des Entdeckens zu Fuß.",
+        "hu": "Autós túrája a „cluster-walking” módszert alkalmazza: vezessen egy területre, majd fedezze fel gyalog. Kezdjen az Operaháznál (1. csoport), és sétáljon el a Hadtörténeti Múzeumba. Ezután vezessen a második csoporthoz, ahol gyalogosan fedezi fel az ortodox katedrálist, a Történeti Múzeumot és a Zsinagóga emlékművét. A délután a csodálatos Branicki-palotának van szentelve (3. csoport). A palota és kertjeinek felfedezése után a napot egy pihentető sétával zárja a szomszédos Planty Parkban. Ez a módszer ötvözi az autó kényelmét a gyalogos felfedezés örömével.",
+        "ro": "Turul dvs. cu mașina folosește metoda „cluster-walking”: conduceți într-o zonă, apoi explorați-o pe jos. Începeți la Operă (clusterul 1) și plimbați-vă la Muzeul Armatei. Apoi conduceți la al doilea cluster, unde explorați pe jos Catedrala Ortodoxă, Muzeul de Istorie și Monumentul Sinagogii. După-amiaza este rezervată magnificului Palat Branicki (clusterul 3). După explorarea palatului și a grădinilor sale, încheiați ziua cu o plimbare relaxantă prin Parcul Planty adiacent. Această metodă combină confortul mașinii cu plăcerea explorării pe jos.",
+        "en": "Your car tour uses 'cluster-walking': drive to an area, then explore on foot. Start at the Opera House (cluster 1) and walk to the Army Museum. Then, drive to the second cluster to explore the Orthodox Cathedral, Historical Museum, and Synagogue Monument on foot. The afternoon is reserved for the magnificent Branicki Palace (cluster 3). After exploring the palace and its gardens, end your day with a relaxing stroll through the adjacent Planty Park. This method combines the convenience of a car with the joy of discovery on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kartacze",
+            "tip": "Herzhafte Kartoffelklöße, gefüllt mit Fleisch – ein Muss in Podlasie."
+          },
+          {
+            "name": "Babka ziemniaczana",
+            "tip": "Ein schmackhafter Kartoffelkuchen, oft mit Speck und Zwiebeln serviert."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "Ein traditioneller Baumkuchen, der über offenem Feuer gebacken wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kartacze",
+            "tip": "Hússal töltött, kiadós burgonyagombóc – kötelező Podlasiében."
+          },
+          {
+            "name": "Babka ziemniaczana",
+            "tip": "Ízletes burgonyapite, gyakran szalonnával és hagymával tálalva."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "Hagyományos kürtőskalács, amelyet nyílt tűzön sütnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kartacze",
+            "tip": "Găluște copioase din cartofi umplute cu carne - un deliciu în Podlasia."
+          },
+          {
+            "name": "Babka ziemniaczana",
+            "tip": "O prăjitură gustoasă de cartofi, adesea servită cu slănină și ceapă."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "Un cozonac secuiesc tradițional, copt pe foc deschis."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kartacze",
+            "tip": "Hearty potato dumplings filled with meat—a must-try in Podlasie."
+          },
+          {
+            "name": "Babka ziemniaczana",
+            "tip": "A savory potato cake, often served with bacon and onions."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "A traditional tree cake baked over an open fire."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Branicki-Palastes",
+            "tip": "Finden Sie eine ruhige Bank im französischen oder englischen Garten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Biała-Flusses",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses, besonders am späten Nachmittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dachgarten der Oper",
+            "tip": "Ein überraschend ruhiger Ort mit toller Aussicht auf die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Branicki-palota kertjei",
+            "tip": "Találjon egy csendes padot a francia vagy angol kertben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biała folyó partja",
+            "tip": "Békés séta a folyó mentén, különösen késő délután.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Operaház tetőkertje",
+            "tip": "Meglepően csendes hely, nagyszerű kilátással a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Branicki",
+            "tip": "Găsiți o bancă liniștită în grădina franceză sau engleză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Biała",
+            "tip": "O plimbare liniștită de-a lungul râului, mai ales după-amiaza târziu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina de pe acoperișul Operei",
+            "tip": "Un loc surprinzător de liniștit cu vederi minunate ale orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Branicki Palace Gardens",
+            "tip": "Find a quiet bench in the French or English style gardens.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Biała River",
+            "tip": "A peaceful walk along the river, especially in the late afternoon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Opera Rooftop Garden",
+            "tip": "A surprisingly quiet spot with great views of the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lipowa Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen Boutiquen und bekannten Marken."
+          },
+          {
+            "name": "Rynek Kościuszki",
+            "tip": "Souvenirstände und Kunsthandwerk rund um den Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lipowa utca",
+            "tip": "A fő bevásárlóutca helyi butikok és ismert márkák keverékével."
+          },
+          {
+            "name": "Kościuszko piac",
+            "tip": "Ajándékboltok és kézműves termékek a főtér körül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Lipowa",
+            "tip": "Principala stradă comercială cu un amestec de buticuri locale și mărci cunoscute."
+          },
+          {
+            "name": "Piața Kościuszki",
+            "tip": "Standuri de suveniruri și artizanat în jurul pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lipowa Street",
+            "tip": "The main shopping street with a mix of local boutiques and known brands."
+          },
+          {
+            "name": "Kościuszko Market Square",
+            "tip": "Souvenir stalls and handicrafts around the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Suchen Sie nach bewachten oder ausgewiesenen Parkplätzen, besonders im Stadtzentrum.",
+          "Planen Sie die Parkkosten in Ihr Budget ein.",
+          "Vermeiden Sie das Fahren im Zentrum während der Stoßzeiten.",
+          "Ein Navigationssystem ist hilfreich, um sich in der Stadt zurechtzufinden."
+        ],
+        "hu": [
+          "Keressen őrzött vagy kijelölt parkolókat, különösen a városközpontban.",
+          "Tervezze be a parkolási költségeket a költségvetésébe.",
+          "Kerülje a központban való vezetést csúcsidőben.",
+          "A navigációs rendszer segít a városban való tájékozódásban."
+        ],
+        "ro": [
+          "Căutați parcări păzite sau desemnate, mai ales în centrul orașului.",
+          "Includeți costurile de parcare în bugetul dvs.",
+          "Evitați să conduceți în centru în timpul orelor de vârf.",
+          "Un sistem de navigație este util pentru a vă orienta în oraș."
+        ],
+        "en": [
+          "Look for guarded or designated parking lots, especially in the city center.",
+          "Factor parking costs into your budget.",
+          "Avoid driving in the center during rush hours.",
+          "A GPS is helpful for navigating the city."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Branicki-Palast",
+            "hu": "Branicki-palota",
+            "ro": "Palatul Branicki",
+            "en": "Branicki Palace"
+          },
+          "coords": [
+            23.16,
+            53.1315
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Palast. Beginnen Sie Ihren Tag mit dem prächtigsten Anblick der Stadt.",
+            "hu": "Menjen busszal a palotához. Kezdje a napot a város legpompásabb látványával.",
+            "ro": "Luați un autobuz spre palat. Începeți ziua cu cea mai splendidă priveliște a orașului.",
+            "en": "Take a bus to the Palace. Start your day with the city's most magnificent sight."
+          }
+        },
+        {
+          "name": {
+            "de": "Planty-Park",
+            "hu": "Planty Park",
+            "ro": "Parcul Planty",
+            "en": "Planty Park"
+          },
+          "coords": [
+            23.1645,
+            53.1298
+          ],
+          "category": "parks",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Palast entfernt, perfekt für eine Pause am Vormittag.",
+            "hu": "Rövid séta a palotától, tökéletes egy délelőtti pihenőre.",
+            "ro": "La o scurtă plimbare de palat, perfect pentru o pauză de dimineață.",
+            "en": "A short walk from the palace, perfect for a mid-morning break."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Himmelfahrt-Kathedrale",
+            "hu": "Mária Mennybemenetele-katedrális",
+            "ro": "Catedrala Adormirea Maicii Domnului",
+            "en": "Cathedral Basilica of the Assumption"
+          },
+          "coords": [
+            23.1661,
+            53.134
+          ],
+          "category": "churches",
+          "arrive_at": "12:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang zu dieser beeindruckenden Doppelkirche fort.",
+            "hu": "Folytassa sétáját ehhez a lenyűgöző kettős templomhoz.",
+            "ro": "Continuați-vă plimbarea spre această biserică dublă impresionantă.",
+            "en": "Continue your walk to this impressive dual-church."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kathedrale",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            23.1585,
+            53.1355
+          ],
+          "category": "churches",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum nächsten Cluster, um die orthodoxe Kultur zu erleben.",
+            "hu": "Menjen busszal a következő csoporthoz, hogy megismerje az ortodox kultúrát.",
+            "ro": "Luați un autobuz spre următorul cluster pentru a experimenta cultura ortodoxă.",
+            "en": "Take a bus to the next cluster to experience the Orthodox culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            23.1648,
+            53.1352
+          ],
+          "category": "museums",
+          "arrive_at": "14:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Dom aus leicht zu Fuß erreichbar. Vertiefen Sie Ihr Wissen über die Stadt.",
+            "hu": "Könnyen megközelíthető a székesegyháztól. Mélyítse el tudását a városról.",
+            "ro": "Ușor accesibil de la catedrală. Aprofundați-vă cunoștințele despre oraș.",
+            "en": "Easily walkable from the cathedral. Deepen your knowledge of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Podlasie-Oper und Philharmonie",
+            "hu": "Podlasiei Opera és Filharmónia",
+            "ro": "Opera și Filarmonica Podlasie",
+            "en": "Podlasie Opera and Philharmonic"
+          },
+          "coords": [
+            23.1711,
+            53.1385
+          ],
+          "category": "theatres",
+          "arrive_at": "16:10",
+          "stay_min": 1,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Schließen Sie den Tag mit einer kurzen Busfahrt zu diesem modernen Wahrzeichen ab.",
+            "hu": "Zárja a napot egy rövid buszúttal ehhez a modern nevezetességhez.",
+            "ro": "Încheiați ziua cu o scurtă călătorie cu autobuzul la acest reper modern.",
+            "en": "Conclude the day with a short bus ride to this modern landmark."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln maximiert die Zeit durch Cluster-Walking. Sie starten mit einer Busfahrt zum Branicki-Palast (Cluster 1) und erkunden den Palast, den Planty-Park und die Kathedrale zu Fuß. Am Nachmittag bringt Sie ein Bus zum zweiten Cluster, wo Sie die orthodoxe Kathedrale und das Historische Museum entdecken. Eine letzte kurze Fahrt führt Sie zum Opernhaus, dem modernen Abschluss eines Tages, der das Beste aus beiden Welten vereint: die Effizienz des Transports und die Freude am Spazierengehen.",
+        "hu": "A tömegközlekedési túra a „cluster-walking” segítségével maximalizálja az időt. A Branicki-palotához (1. csoport) busszal indul, majd gyalog fedezi fel a palotát, a Planty Parkot és a katedrálist. Délután egy busz viszi a második csoporthoz, ahol felfedezi az ortodox katedrálist és a Történeti Múzeumot. Egy utolsó rövid utazás vezet az Operaházhoz, amely modern lezárása egy olyan napnak, amely a két világ legjobbját ötvözi: a közlekedés hatékonyságát és a séta örömét.",
+        "ro": "Turul dvs. cu transportul public maximizează timpul prin „cluster-walking”. Începeți cu o călătorie cu autobuzul la Palatul Branicki (clusterul 1), explorând pe jos palatul, Parcul Planty și catedrala. După-amiaza, un autobuz vă duce la al doilea cluster pentru a descoperi Catedrala Ortodoxă și Muzeul de Istorie. O ultimă călătorie scurtă vă duce la Operă, încheierea modernă a unei zile care combină ce e mai bun din ambele lumi: eficiența transportului și bucuria plimbării.",
+        "en": "Your public transit tour maximizes time using cluster-walking. You start with a bus ride to Branicki Palace (cluster 1), exploring the palace, Planty Park, and the cathedral on foot. In the afternoon, a bus takes you to the second cluster to discover the Orthodox Cathedral and the Historical Museum. A final short ride takes you to the Opera House, the modern conclusion to a day that combines the best of both worlds: transport efficiency and the joy of walking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kartacze",
+            "tip": "Herzhafte Kartoffelklöße, gefüllt mit Fleisch – ein Muss in Podlasie."
+          },
+          {
+            "name": "Babka ziemniaczana",
+            "tip": "Ein schmackhafter Kartoffelkuchen, oft mit Speck und Zwiebeln serviert."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "Ein traditioneller Baumkuchen, der über offenem Feuer gebacken wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kartacze",
+            "tip": "Hússal töltött, kiadós burgonyagombóc – kötelező Podlasiében."
+          },
+          {
+            "name": "Babka ziemniaczana",
+            "tip": "Ízletes burgonyapite, gyakran szalonnával és hagymával tálalva."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "Hagyományos kürtőskalács, amelyet nyílt tűzön sütnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kartacze",
+            "tip": "Găluște copioase din cartofi umplute cu carne - un deliciu în Podlasia."
+          },
+          {
+            "name": "Babka ziemniaczana",
+            "tip": "O prăjitură gustoasă de cartofi, adesea servită cu slănină și ceapă."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "Un cozonac secuiesc tradițional, copt pe foc deschis."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kartacze",
+            "tip": "Hearty potato dumplings filled with meat—a must-try in Podlasie."
+          },
+          {
+            "name": "Babka ziemniaczana",
+            "tip": "A savory potato cake, often served with bacon and onions."
+          },
+          {
+            "name": "Sękacz",
+            "tip": "A traditional tree cake baked over an open fire."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Branicki-Palastes",
+            "tip": "Finden Sie eine ruhige Bank im französischen oder englischen Garten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Biała-Flusses",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses, besonders am späten Nachmittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dachgarten der Oper",
+            "tip": "Ein überraschend ruhiger Ort mit toller Aussicht auf die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Branicki-palota kertjei",
+            "tip": "Találjon egy csendes padot a francia vagy angol kertben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biała folyó partja",
+            "tip": "Békés séta a folyó mentén, különösen késő délután.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Operaház tetőkertje",
+            "tip": "Meglepően csendes hely, nagyszerű kilátással a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Branicki",
+            "tip": "Găsiți o bancă liniștită în grădina franceză sau engleză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Biała",
+            "tip": "O plimbare liniștită de-a lungul râului, mai ales după-amiaza târziu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina de pe acoperișul Operei",
+            "tip": "Un loc surprinzător de liniștit cu vederi minunate ale orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Branicki Palace Gardens",
+            "tip": "Find a quiet bench in the French or English style gardens.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Biała River",
+            "tip": "A peaceful walk along the river, especially in the late afternoon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Opera Rooftop Garden",
+            "tip": "A surprisingly quiet spot with great views of the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lipowa Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen Boutiquen und bekannten Marken."
+          },
+          {
+            "name": "Rynek Kościuszki",
+            "tip": "Souvenirstände und Kunsthandwerk rund um den Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lipowa utca",
+            "tip": "A fő bevásárlóutca helyi butikok és ismert márkák keverékével."
+          },
+          {
+            "name": "Kościuszko piac",
+            "tip": "Ajándékboltok és kézműves termékek a főtér körül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Lipowa",
+            "tip": "Principala stradă comercială cu un amestec de buticuri locale și mărci cunoscute."
+          },
+          {
+            "name": "Piața Kościuszki",
+            "tip": "Standuri de suveniruri și artizanat în jurul pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lipowa Street",
+            "tip": "The main shopping street with a mix of local boutiques and known brands."
+          },
+          {
+            "name": "Kościuszko Market Square",
+            "tip": "Souvenir stalls and handicrafts around the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie eine App für den öffentlichen Nahverkehr herunter, um Routen und Fahrpläne in Echtzeit zu sehen.",
+          "Busse sind das Hauptverkehrsmittel; machen Sie sich mit den wichtigsten Linien vertraut.",
+          "Beachten Sie, dass die Fahrkarten vor dem Einsteigen oder direkt im Bus entwertet werden müssen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltsön le egy tömegközlekedési alkalmazást a valós idejű útvonalakhoz és menetrendekhez.",
+          "A buszok a fő közlekedési eszközök; ismerkedjen meg a főbb vonalakkal.",
+          "Ne feledje, hogy a jegyeket felszállás előtt vagy közvetlenül a buszon kell érvényesíteni."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați o aplicație de transport public pentru rute și orare în timp real.",
+          "Autobuzele sunt principalul mijloc de transport; familiarizați-vă cu liniile principale.",
+          "Rețineți că biletele trebuie validate înainte de îmbarcare sau direct în autobuz."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Download a public transport app for real-time routes and schedules.",
+          "Buses are the main mode of transit; familiarize yourself with the key lines.",
+          "Note that tickets must be validated before boarding or right on the bus."
+        ]
+      }
+    }
+  }
+}

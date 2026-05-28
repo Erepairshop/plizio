@@ -1,0 +1,1508 @@
+{
+  "city_id": "austria-krems-cities-v2",
+  "anchor": {
+    "name": "Krems an der Donau",
+    "coords": [
+      15.5989,
+      48.4111
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Alter Markt",
+            "hu": "Városháza és Régi Piac",
+            "ro": "Primăria și Piața Veche",
+            "en": "Town Hall and Old Market"
+          },
+          "coords": [
+            15.6048,
+            48.4105
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Erker aus dem 16. Jahrhundert, ein perfekter Fotopunkt.",
+            "hu": "Csodálja meg a 16. századi zárkélyt, tökéletes fotóhelyszín.",
+            "ro": "Admirați bovindoul din secolul al XVI-lea, un loc perfect pentru fotografii.",
+            "en": "Admire the 16th-century bay window, a perfect photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Veit",
+            "hu": "Szent Vitus plébániatemplom",
+            "ro": "Biserica parohială Sf. Vitus",
+            "en": "Parish Church of St. Veit"
+          },
+          "coords": [
+            15.6061,
+            48.4112
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Deckenfresken von Martin Johann Schmidt.",
+            "hu": "Figyelje meg Martin Johann Schmidt lenyűgöző mennyezeti freskóit.",
+            "ro": "Observați frescele impresionante de pe tavan, realizate de Martin Johann Schmidt.",
+            "en": "Look for the impressive ceiling frescoes by Martin Johann Schmidt."
+          }
+        },
+        {
+          "name": {
+            "de": "Gozzoburg",
+            "hu": "Gozzoburg",
+            "ro": "Gozzoburg",
+            "en": "Gozzoburg"
+          },
+          "coords": [
+            15.6099,
+            48.4125
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eines der bedeutendsten mittelalterlichen Stadtwohnhäuser Österreichs. Buchen Sie eine Führung.",
+            "hu": "Ausztria egyik legfontosabb középkori városi lakóháza. Foglaljon vezetett túrát.",
+            "ro": "Una dintre cele mai importante reședințe urbane medievale din Austria. Rezervați un tur ghidat.",
+            "en": "One of Austria's most important medieval urban residences. Book a guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Dominikanerkloster",
+            "hu": "Domonkos kolostor",
+            "ro": "Mănăstirea Dominicană",
+            "en": "Dominican Monastery"
+          },
+          "coords": [
+            15.6045,
+            48.4091
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Heute beherbergt es das Weinstadtmuseum. Ideal für eine Pause und etwas Weingeschichte.",
+            "hu": "Ma a Bormúzeumnak ad otthont. Ideális egy kis pihenőre és a bortörténelem megismerésére.",
+            "ro": "Astăzi găzduiește Muzeul Vinului. Ideal pentru o pauză și puțină istorie a vinului.",
+            "en": "Today it houses the Wine City Museum. Ideal for a break and some wine history."
+          }
+        },
+        {
+          "name": {
+            "de": "Steiner Tor",
+            "hu": "Steiner Kapu",
+            "ro": "Poarta Steiner",
+            "en": "Steiner Tor"
+          },
+          "coords": [
+            15.5975,
+            48.4116
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:35",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen von Krems und das einzige erhaltene von vier mittelalterlichen Stadttoren.",
+            "hu": "Krems jelképe és az egyetlen megmaradt a négy középkori városkapu közül.",
+            "ro": "Simbolul orașului Krems și singura poartă medievală a orașului care s-a păstrat.",
+            "en": "The landmark of Krems and the only surviving of four medieval city gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthalle Krems",
+            "hu": "Kremsi Műcsarnok",
+            "ro": "Kunsthalle Krems",
+            "en": "Kunsthalle Krems"
+          },
+          "coords": [
+            15.5958,
+            48.4119
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fokus auf zeitgenössische Kunst. Überprüfen Sie die aktuellen Ausstellungen online.",
+            "hu": "A kortárs művészetre összpontosít. Ellenőrizze az aktuális kiállításokat online.",
+            "ro": "Se concentrează pe artă contemporană. Verificați expozițiile curente online.",
+            "en": "Focuses on contemporary art. Check the current exhibitions online."
+          }
+        },
+        {
+          "name": {
+            "de": "Karikaturmuseum Krems",
+            "hu": "Kremsi Karikatúramúzeum",
+            "ro": "Muzeul Caricaturii Krems",
+            "en": "Caricature Museum Krems"
+          },
+          "coords": [
+            15.5952,
+            48.4122
+          ],
+          "category": "museums",
+          "arrive_at": "16:05",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Einzigartig in Österreich, gewidmet der satirischen Kunst. Oft sehr unterhaltsam!",
+            "hu": "Egyedülálló Ausztriában, a szatirikus művészetnek szentelve. Gyakran nagyon szórakoztató!",
+            "ro": "Unic în Austria, dedicat artei satirice. Adesea foarte distractiv!",
+            "en": "Unique in Austria, dedicated to satirical art. Often very entertaining!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Altstadt, am Alten Markt. Schlendern Sie durch die Gassen zur imposanten Pfarrkirche und entdecken Sie die mittelalterliche Gozzoburg. Nach dem Mittagessen in einem der charmanten Heurigen führt Sie Ihr Spaziergang zum Wahrzeichen, dem Steiner Tor. Der Nachmittag gehört der Kunst in der Kunstmeile, wo die Kunsthalle und das humorvolle Karikaturmuseum auf Sie warten. Ein perfekter Tag, um die Essenz von Krems zu Fuß zu erleben.",
+        "hu": "Kezdje a napot az óváros szívében, a Régi Piacon. Sétáljon végig a sikátorokon az impozáns plébániatemplomig, és fedezze fel a középkori Gozzoburgot. Egy bájos Heurigenben elköltött ebéd után a séta a város jelképéhez, a Steiner Kapuhoz vezet. A délután a művészeté a Művészeti Mérföldön, ahol a Műcsarnok és a humoros Karikatúramúzeum várja. Tökéletes nap Krems esszenciájának gyalogos felfedezéséhez.",
+        "ro": "Începeți ziua în inima orașului vechi, în Piața Veche. Plimbați-vă pe străduțe până la impunătoarea biserică parohială și descoperiți fortăreața medievală Gozzoburg. După prânz la una dintre fermecătoarele taverne „Heuriger”, plimbarea vă duce la simbolul orașului, Poarta Steiner. După-amiaza este dedicată artei pe Mila de Artă, unde vă așteaptă Kunsthalle și amuzantul Muzeu al Caricaturii. O zi perfectă pentru a experimenta esența orașului Krems la pas.",
+        "en": "Start your day in the heart of the old town at the Old Market. Stroll through the alleys to the imposing parish church and discover the medieval Gozzoburg. After lunch at a charming 'Heuriger' tavern, your walk takes you to the landmark Steiner Tor. The afternoon belongs to art on the Art Mile, where the Kunsthalle and the humorous Caricature Museum await. A perfect day to experience the essence of Krems on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wachauer Marillenknödel",
+            "tip": "Probieren Sie diese süßen Aprikosenknödel, eine lokale Spezialität."
+          },
+          {
+            "name": "Grüner Veltliner",
+            "tip": "Genießen Sie ein Glas des berühmten lokalen Weißweins in einem Heurigen."
+          },
+          {
+            "name": "Gasthaus Jell",
+            "tip": "Bekannt für seine traditionelle österreichische Küche und gemütliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wachau-i sárgabarackgombóc",
+            "tip": "Kóstolja meg ezt az édes sárgabarackgombócot, egy helyi különlegességet."
+          },
+          {
+            "name": "Zöld veltelini",
+            "tip": "Fogyasszon el egy pohárral a híres helyi fehérborból egy Heurigenben."
+          },
+          {
+            "name": "Gasthaus Jell",
+            "tip": "Hagyományos osztrák konyhájáról és hangulatos légköréről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Găluște cu caise din Wachau",
+            "tip": "Încercați aceste găluște dulci cu caise, o specialitate locală."
+          },
+          {
+            "name": "Grüner Veltliner",
+            "tip": "Savurați un pahar din faimosul vin alb local la o tavernă Heuriger."
+          },
+          {
+            "name": "Gasthaus Jell",
+            "tip": "Renumit pentru bucătăria sa tradițională austriacă și atmosfera primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wachau Apricot Dumplings",
+            "tip": "Try these sweet apricot dumplings, a local specialty."
+          },
+          {
+            "name": "Grüner Veltliner",
+            "tip": "Enjoy a glass of the famous local white wine at a Heuriger tavern."
+          },
+          {
+            "name": "Gasthaus Jell",
+            "tip": "Known for its traditional Austrian cuisine and cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang der Donau",
+            "tip": "Ein ruhiger Spaziergang am Flussufer bietet eine entspannende Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dominikanerkirche",
+            "tip": "Finden Sie einen Moment der Stille in diesem historischen Gebäude.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Weinberge über Krems",
+            "tip": "Ein kurzer Aufstieg für einen atemberaubenden Blick über die Dächer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Duna mentén",
+            "tip": "Egy csendes séta a folyóparton pihentető kikapcsolódást nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Domonkos templom",
+            "tip": "Találjon egy csendes pillanatot ebben a történelmi épületben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Szőlőhegyek Krems felett",
+            "tip": "Egy rövid emelkedő a tetők feletti lélegzetelállító kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul Dunării",
+            "tip": "O plimbare liniștită pe malul fluviului oferă o pauză relaxantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Dominicană",
+            "tip": "Găsiți un moment de liniște în această clădire istorică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Viile de deasupra Krems",
+            "tip": "O scurtă urcare pentru o priveliște uluitoare peste acoperișuri.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Danube",
+            "tip": "A quiet walk along the riverbank offers a relaxing break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dominican Church",
+            "tip": "Find a moment of silence in this historic building.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vineyards above Krems",
+            "tip": "A short climb for a breathtaking view over the rooftops.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Obere Landstraße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen Geschäften und bekannten Marken."
+          },
+          {
+            "name": "Marillenprodukte",
+            "tip": "Suchen Sie nach Marmeladen, Likören und anderen Produkten aus der berühmten Wachauer Marille."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Obere Landstraße",
+            "tip": "A fő bevásárlóutca helyi üzletek és ismert márkák keverékével."
+          },
+          {
+            "name": "Sárgabarack termékek",
+            "tip": "Keressen lekvárokat, likőröket és más termékeket a híres wachaui sárgabarackból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Obere Landstraße",
+            "tip": "Principala stradă comercială cu un amestec de magazine locale și mărci cunoscute."
+          },
+          {
+            "name": "Produse din caise",
+            "tip": "Căutați gemuri, lichioruri și alte produse din faimoasele caise de Wachau."
+          }
+        ],
+        "en": [
+          {
+            "name": "Obere Landstraße",
+            "tip": "The main shopping street with a mix of local shops and well-known brands."
+          },
+          {
+            "name": "Apricot Products",
+            "tip": "Look for jams, liqueurs, and other products made from the famous Wachau apricot."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt Kopfsteinpflaster hat.",
+          "Viele Heurigen öffnen erst am späten Nachmittag; planen Sie Ihr Mittagessen entsprechend.",
+          "Vergessen Sie Ihre Kamera nicht, die Ausblicke auf die Donau und die Weinberge sind wunderschön.",
+          "Einige kleinere Museen haben möglicherweise eingeschränkte Öffnungszeiten, überprüfen Sie diese im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskaköves.",
+          "Sok Heurigen csak késő délután nyit ki; tervezze az ebédjét ennek megfelelően.",
+          "Ne felejtse otthon a fényképezőgépét, a Dunára és a szőlőhegyekre nyíló kilátás gyönyörű.",
+          "Néhány kisebb múzeum nyitvatartása korlátozott lehet, ellenőrizze előre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul vechi are piatră cubică.",
+          "Multe taverne Heuriger se deschid doar după-amiaza târziu; planificați-vă prânzul în consecință.",
+          "Nu uitați aparatul foto, priveliștile Dunării și ale viilor sunt superbe.",
+          "Unele muzee mai mici pot avea program redus, verificați în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town has cobblestones.",
+          "Many Heuriger taverns only open in the late afternoon; plan your lunch accordingly.",
+          "Don't forget your camera, the views of the Danube and the vineyards are beautiful.",
+          "Some smaller museums may have limited opening hours, check them in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Steiner Tor",
+            "hu": "Steiner Kapu",
+            "ro": "Poarta Steiner",
+            "en": "Steiner Tor"
+          },
+          "coords": [
+            15.5975,
+            48.4116
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour am Wahrzeichen, das den Eingang zur historischen Landstraße markiert.",
+            "hu": "Kezdje a túrát a jelképnél, amely a történelmi országút bejáratát jelöli.",
+            "ro": "Începeți turul la acest simbol care marchează intrarea pe drumul istoric.",
+            "en": "Start your tour at the landmark that marks the entrance to the historic road."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthalle & Karikaturmuseum",
+            "hu": "Műcsarnok és Karikatúramúzeum",
+            "ro": "Kunsthalle și Muzeul Caricaturii",
+            "en": "Kunsthalle & Caricature Museum"
+          },
+          "coords": [
+            15.5955,
+            48.412
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie für ein paar Stunden in die Kunst ein.",
+            "hu": "Parkolja le a kerékpárt, és merüljön el a művészetben néhány órára.",
+            "ro": "Parcați bicicleta și scufundați-vă în artă pentru câteva ore.",
+            "en": "Park your bike and immerse yourself in art for a couple of hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Dominikanerkloster",
+            "hu": "Domonkos kolostor",
+            "ro": "Mănăstirea Dominicană",
+            "en": "Dominican Monastery"
+          },
+          "coords": [
+            15.6045,
+            48.4091
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radeln Sie in die Altstadt und entdecken Sie die Weingeschichte der Region.",
+            "hu": "Tekerjen be az óvárosba, és fedezze fel a régió bortörténetét.",
+            "ro": "Pedalați în orașul vechi și descoperiți istoria vinului din regiune.",
+            "en": "Cycle into the old town and discover the wine history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Veit",
+            "hu": "Szent Vitus plébániatemplom",
+            "ro": "Biserica parohială Sf. Vitus",
+            "en": "Parish Church of St. Veit"
+          },
+          "coords": [
+            15.6061,
+            48.4112
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber steiler Anstieg zur Kirche wird mit einer beeindruckenden Architektur belohnt.",
+            "hu": "Egy rövid, de meredek emelkedő a templomhoz, melyet lenyűgöző építészet jutalmaz.",
+            "ro": "O urcare scurtă, dar abruptă, spre biserică este răsplătită cu o arhitectură impresionantă.",
+            "en": "A short but steep climb to the church is rewarded with impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour entlang der Donau",
+            "hu": "Kerékpártúra a Duna mentén",
+            "ro": "Tur cu bicicleta de-a lungul Dunării",
+            "en": "Bike ride along the Danube"
+          },
+          "coords": [
+            15.58,
+            48.405
+          ],
+          "category": "region",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Donauradweg Richtung Westen für malerische Ausblicke auf die Weinberge.",
+            "hu": "Kövesse a Duna menti kerékpárutat nyugat felé a szőlőültetvények festői látványáért.",
+            "ro": "Urmați pista de biciclete a Dunării spre vest pentru priveliști pitorești ale podgoriilor.",
+            "en": "Follow the Danube cycle path westwards for picturesque views of the vineyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Gozzoburg",
+            "hu": "Gozzoburg",
+            "ro": "Gozzoburg",
+            "en": "Gozzoburg"
+          },
+          "coords": [
+            15.6099,
+            48.4125
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:15",
+          "stay_min": 55,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Abstecher in die hohe mittelalterliche Geschichte der Stadt.",
+            "hu": "Fejezze be a túrát egy kitérővel a város magas középkori történelmébe.",
+            "ro": "Încheiați-vă turul cu o incursiune în istoria medievală a orașului.",
+            "en": "End your tour with a dive into the city's high medieval history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Krems und die Wachau auf zwei Rädern. Starten Sie am Steiner Tor und radeln Sie zur Kunstmeile für eine Dosis Kultur. Weiter geht es in die Altstadt zum Weinstadtmuseum und zur Pfarrkirche. Der Höhepunkt ist eine entspannte Fahrt entlang des Donauradwegs, vorbei an Weinbergen und Aprikosenhainen. Schließen Sie den Tag mit einem Besuch der historischen Gozzoburg ab, bevor Sie in einem Heurigen einkehren.",
+        "hu": "Fedezze fel Kremst és a Wachaut két keréken. Induljon a Steiner Kaputól, és tekerjen a Művészeti Mérföldre egy adag kultúráért. Folytassa útját az óvárosba a Bormúzeumhoz és a plébániatemplomhoz. A csúcspont egy laza tekerés a Duna menti kerékpárúton, szőlőültetvények és sárgabarack-ligetek mellett. Zárja a napot a történelmi Gozzoburg meglátogatásával, mielőtt betérne egy Heurigenbe.",
+        "ro": "Descoperiți Krems și Wachau pe două roți. Începeți de la Poarta Steiner și pedalați spre Mila de Artă pentru o doză de cultură. Continuați în orașul vechi la Muzeul Vinului și la biserica parohială. Punctul culminant este o plimbare relaxată pe pista de biciclete a Dunării, pe lângă podgorii și livezi de caiși. Încheiați ziua cu o vizită la istorica Gozzoburg înainte de a vă opri la o tavernă Heuriger.",
+        "en": "Discover Krems and the Wachau on two wheels. Start at the Steiner Tor and cycle to the Art Mile for a dose of culture. Continue into the old town to the Wine Museum and the parish church. The highlight is a relaxed ride along the Danube cycle path, past vineyards and apricot groves. End the day with a visit to the historic Gozzoburg before stopping at a Heuriger tavern."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heuriger",
+            "tip": "Ein Muss für Radfahrer. Parken Sie Ihr Fahrrad und genießen Sie Wein und eine Jause."
+          },
+          {
+            "name": "Marillensaft",
+            "tip": "Ein erfrischender, alkoholfreier Durstlöscher aus lokalen Aprikosen."
+          },
+          {
+            "name": "Hofbräu am Steinertor",
+            "tip": "Gute Lage und deftige Kost, um die Energiereserven aufzufüllen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heuriger",
+            "tip": "Kerékpárosoknak kötelező. Parkolja le a kerékpárt, és élvezze a bort és a harapnivalót."
+          },
+          {
+            "name": "Sárgabaracklé",
+            "tip": "Frissítő, alkoholmentes szomjoltó helyi sárgabarackból."
+          },
+          {
+            "name": "Hofbräu am Steinertor",
+            "tip": "Jó elhelyezkedés és kiadós ételek az energiatartalékok feltöltéséhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuriger",
+            "tip": "O necesitate pentru bicicliști. Parcați bicicleta și bucurați-vă de vin și o gustare."
+          },
+          {
+            "name": "Suc de caise",
+            "tip": "O băutură răcoritoare, non-alcoolică, din caise locale."
+          },
+          {
+            "name": "Hofbräu am Steinertor",
+            "tip": "Locație bună și mâncare consistentă pentru a reface rezervele de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heuriger",
+            "tip": "A must for cyclists. Park your bike and enjoy wine and a snack."
+          },
+          {
+            "name": "Apricot juice",
+            "tip": "A refreshing, non-alcoholic thirst quencher made from local apricots."
+          },
+          {
+            "name": "Hofbräu am Steinertor",
+            "tip": "Good location and hearty food to replenish energy reserves."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Donauradweg",
+            "tip": "Die Abschnitte außerhalb der Stadt sind besonders friedlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von den Weinbergen",
+            "tip": "Halten Sie an und genießen Sie die Stille und die Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Klostergarten im Dominikanerkloster",
+            "tip": "Ein versteckter, ruhiger Ort mitten in der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duna menti kerékpárút",
+            "tip": "A városon kívüli szakaszok különösen békések.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a szőlőhegyekről",
+            "tip": "Álljon meg, és élvezze a csendet és a kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kolostorkert a Domonkos kolostorban",
+            "tip": "Egy rejtett, csendes hely a város közepén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete a Dunării",
+            "tip": "Secțiunile din afara orașului sunt deosebit de pașnice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere din vii",
+            "tip": "Opriți-vă și bucurați-vă de liniște și de priveliște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina mănăstirii Dominicane",
+            "tip": "Un loc ascuns și liniștit în mijlocul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Danube Cycle Path",
+            "tip": "The sections outside the city are particularly peaceful.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the vineyards",
+            "tip": "Stop and enjoy the silence and the view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Monastery garden at the Dominican Monastery",
+            "tip": "A hidden, quiet place in the middle of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ab-Hof-Verkauf bei Winzern",
+            "tip": "Kaufen Sie Wein direkt vom Erzeuger entlang des Radwegs."
+          },
+          {
+            "name": "Wachauer Goldhauben",
+            "tip": "Handgefertigte traditionelle Kopfbedeckungen als einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vásárlás a borászoknál",
+            "tip": "Vásároljon bort közvetlenül a termelőtől a kerékpárút mentén."
+          },
+          {
+            "name": "Wachaui aranyfőkötő",
+            "tip": "Kézzel készített hagyományos fejdísz, mint egyedi szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare directă de la producători",
+            "tip": "Cumpărați vin direct de la producător de-a lungul pistei de biciclete."
+          },
+          {
+            "name": "Bonete aurii din Wachau",
+            "tip": "Accesorii tradiționale pentru cap, lucrate manual, ca suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm gate sales at wineries",
+            "tip": "Buy wine directly from the producer along the cycle path."
+          },
+          {
+            "name": "Wachau Gold Bonnets",
+            "tip": "Handmade traditional headdresses as a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Donauradweg ist meist flach, aber einige Abschnitte in die Weinberge können steil sein.",
+          "Nehmen Sie genügend Wasser mit, besonders an warmen Tagen.",
+          "Ein Fahrradschloss ist unerlässlich, um Ihr Rad bei Besichtigungen sicher abzustellen.",
+          "Viele Radverleihe bieten auch E-Bikes an, was die Hügel erleichtert."
+        ],
+        "hu": [
+          "A Duna menti kerékpárút többnyire sík, de néhány szakasz a szőlőhegyekbe meredek lehet.",
+          "Vigyen magával elegendő vizet, különösen meleg napokon.",
+          "A kerékpárzár elengedhetetlen a kerékpár biztonságos leállításához a látogatások során.",
+          "Sok kerékpárkölcsönző kínál e-bike-ot is, ami megkönnyíti a dombokon való közlekedést."
+        ],
+        "ro": [
+          "Pista de biciclete a Dunării este în mare parte plată, dar unele secțiuni în vii pot fi abrupte.",
+          "Luați suficientă apă, mai ales în zilele calde.",
+          "Un lacăt pentru bicicletă este esențial pentru a vă asigura bicicleta în timpul vizitelor.",
+          "Multe centre de închiriere de biciclete oferă și E-bikes, ceea ce face dealurile mai ușor de urcat."
+        ],
+        "en": [
+          "The Danube cycle path is mostly flat, but some sections into the vineyards can be steep.",
+          "Bring enough water, especially on warm days.",
+          "A bike lock is essential to park your bike safely during sightseeing.",
+          "Many bike rentals also offer e-bikes, which makes the hills easier."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Kunstmeile",
+            "hu": "Művészeti Mérföld Parkolóház",
+            "ro": "Parcarea Kunstmeile",
+            "en": "Art Mile Parking Garage"
+          },
+          "coords": [
+            15.5948,
+            48.4125
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier. Die Museen sind nur wenige Schritte entfernt.",
+            "hu": "Kezdje itt. A múzeumok csak néhány lépésre vannak.",
+            "ro": "Începeți aici. Muzeele sunt la doar câțiva pași.",
+            "en": "Start here. The museums are just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Karikaturmuseum Krems",
+            "hu": "Kremsi Karikatúramúzeum",
+            "ro": "Muzeul Caricaturii Krems",
+            "en": "Caricature Museum Krems"
+          },
+          "coords": [
+            15.5952,
+            48.4122
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit Humor und satirischer Kunst.",
+            "hu": "Kezdje a napot humorral és szatirikus művészettel.",
+            "ro": "Începeți ziua cu umor și artă satirică.",
+            "en": "Start the day with humor and satirical art."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthalle Krems",
+            "hu": "Kremsi Műcsarnok",
+            "ro": "Kunsthalle Krems",
+            "en": "Kunsthalle Krems"
+          },
+          "coords": [
+            15.5958,
+            48.4119
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt nebenan, entdecken Sie zeitgenössische Kunst von Weltrang.",
+            "hu": "Közvetlenül mellette, fedezze fel a világszínvonalú kortárs művészetet.",
+            "ro": "Chiar alături, descoperiți artă contemporană de talie mondială.",
+            "en": "Right next door, discover world-class contemporary art."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Steiner Landstraße",
+            "hu": "Parkoló a Steiner Landstraßén",
+            "ro": "Parcare pe Steiner Landstraße",
+            "en": "Parking at Steiner Landstraße"
+          },
+          "coords": [
+            15.598,
+            48.411
+          ],
+          "category": "transport",
+          "arrive_at": "12:30",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das Steiner Tor und die Umgebung zu erkunden.",
+            "hu": "Parkoljon itt, hogy felfedezze a Steiner Kaput és környékét.",
+            "ro": "Parcați aici pentru a explora Poarta Steiner și împrejurimile.",
+            "en": "Park here to explore the Steiner Tor and its surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Steiner Tor",
+            "hu": "Steiner Kapu",
+            "ro": "Poarta Steiner",
+            "en": "Steiner Tor"
+          },
+          "coords": [
+            15.5975,
+            48.4116
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie Fotos und genießen Sie ein Mittagessen in einem der nahegelegenen Restaurants.",
+            "hu": "Készítsen fotókat, és ebédeljen az egyik közeli étteremben.",
+            "ro": "Faceți fotografii și bucurați-vă de prânz la unul dintre restaurantele din apropiere.",
+            "en": "Take photos and enjoy lunch at one of the nearby restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkgarage am Campus",
+            "hu": "Parkolóház a Kampuszon",
+            "ro": "Parcare la Campus",
+            "en": "Parking garage at the Campus"
+          },
+          "coords": [
+            15.608,
+            48.4095
+          ],
+          "category": "transport",
+          "arrive_at": "14:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Der beste Ausgangspunkt für die Erkundung der oberen Altstadt.",
+            "hu": "A legjobb kiindulópont a felső óváros felfedezéséhez.",
+            "ro": "Cel mai bun punct de plecare pentru a explora partea superioară a orașului vechi.",
+            "en": "The best starting point for exploring the upper old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Gozzoburg & Pfarrkirche",
+            "hu": "Gozzoburg és Plébániatemplom",
+            "ro": "Gozzoburg și Biserica Parohială",
+            "en": "Gozzoburg & Parish Church"
+          },
+          "coords": [
+            15.608,
+            48.4115
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beiden Highlights und schlendern Sie dann durch die Gassen zum Rathaus.",
+            "hu": "Fedezze fel ezt a két nevezetességet, majd sétáljon végig a sikátorokon a Városházáig.",
+            "ro": "Explorați aceste două atracții și apoi plimbați-vă pe străduțe până la Primărie.",
+            "en": "Explore these two highlights and then stroll through the alleys to the Town Hall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um bequem zwischen den drei Hauptclustern von Krems zu wechseln. Beginnen Sie Ihren Tag im Kunstcluster mit dem Karikaturmuseum und der Kunsthalle. Fahren Sie dann zum Steiner Tor für ein Mittagessen und einen Fotostopp. Der Nachmittag ist für die historische Oberstadt reserviert. Parken Sie am Campus und erkunden Sie zu Fuß die Gozzoburg, die Pfarrkirche und die charmanten Gassen rund um das Rathaus. Diese Route minimiert Parkplatzsorgen und maximiert das Erlebnis.",
+        "hu": "Használja az autót, hogy kényelmesen közlekedjen Krems három fő klasztere között. Kezdje a napot a Művészeti Klaszterben a Karikatúramúzeummal és a Műcsarnokkal. Ezután hajtson a Steiner Kapuhoz egy ebédre és egy fotómegállóra. A délután a történelmi felsővárosé. Parkoljon a Kampuszon, és fedezze fel gyalog a Gozzoburgot, a plébániatemplomot és a Városháza körüli bájos sikátorokat. Ez az útvonal minimalizálja a parkolási gondokat és maximalizálja az élményt.",
+        "ro": "Folosiți mașina pentru a vă deplasa convenabil între cele trei grupuri principale de atracții din Krems. Începeți ziua în grupul de artă cu Muzeul Caricaturii și Kunsthalle. Apoi, conduceți la Poarta Steiner pentru prânz și o oprire foto. După-amiaza este rezervată pentru orașul vechi istoric. Parcați la Campus și explorați pe jos Gozzoburg, biserica parohială și străduțele fermecătoare din jurul Primăriei. Acest traseu minimizează grijile legate de parcare și maximizează experiența.",
+        "en": "Use the car to conveniently move between the three main clusters of Krems. Start your day in the art cluster with the Caricature Museum and the Kunsthalle. Then drive to the Steiner Tor for lunch and a photo stop. The afternoon is reserved for the historic upper old town. Park at the Campus and explore Gozzoburg, the parish church, and the charming alleys around the Town Hall on foot. This route minimizes parking worries and maximizes the experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heurigen in den Weinbergen",
+            "tip": "Fahren Sie am Abend zu einem Heurigen in den umliegenden Weinbergen für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Mohnzelten",
+            "tip": "Eine lokale Mohnspezialität, die man in Bäckereien findet."
+          },
+          {
+            "name": "Restaurant SALZHAUS",
+            "tip": "Moderne Küche in historischem Ambiente am Ufer der Donau."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heurigen a szőlőhegyeken",
+            "tip": "Este vezessen el egy Heurigenbe a környező szőlőhegyekben egy autentikus élményért."
+          },
+          {
+            "name": "Mákos sütemény (Mohnzelten)",
+            "tip": "Helyi mákos specialitás, amelyet a pékségekben talál."
+          },
+          {
+            "name": "SALZHAUS Étterem",
+            "tip": "Modern konyha történelmi környezetben a Duna partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuriger în vii",
+            "tip": "Seara, conduceți la un Heuriger în viile din jur pentru o experiență autentică."
+          },
+          {
+            "name": "Mohnzelten",
+            "tip": "O specialitate locală cu mac, găsită în brutării."
+          },
+          {
+            "name": "Restaurant SALZHAUS",
+            "tip": "Bucătărie modernă într-un cadru istoric pe malul Dunării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heuriger in the vineyards",
+            "tip": "In the evening, drive to a Heuriger in the surrounding vineyards for an authentic experience."
+          },
+          {
+            "name": "Mohnzelten (poppy seed pastry)",
+            "tip": "A local poppy seed specialty found in bakeries."
+          },
+          {
+            "name": "Restaurant SALZHAUS",
+            "tip": "Modern cuisine in a historic setting on the banks of the Danube."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt auf der Ruine Dürnstein",
+            "tip": "Eine kurze Autofahrt von Krems entfernt, bietet einen ikonischen Blick auf die Wachau.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Donauufer",
+            "tip": "Parken Sie und machen Sie einen Spaziergang entlang des Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piaristenkirche",
+            "tip": "Eine oft übersehene, aber sehr ruhige und schöne Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a dürnsteini várromnál",
+            "tip": "Kremstől rövid autóútra található, ikonikus kilátást nyújt a Wachaura.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Duna-part",
+            "tip": "Parkoljon le, és sétáljon egyet a folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piarista templom",
+            "tip": "Gyakran figyelmen kívül hagyott, de nagyon csendes és szép templom.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la ruinele Dürnstein",
+            "tip": "La o scurtă călătorie cu mașina de Krems, oferă o vedere iconică a regiunii Wachau.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul Dunării",
+            "tip": "Parcați și faceți o plimbare de-a lungul fluviului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Piariștilor",
+            "tip": "O biserică adesea trecută cu vederea, dar foarte liniștită și frumoasă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at Dürnstein Castle Ruins",
+            "tip": "A short drive from Krems, offering an iconic view of the Wachau valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Danube riverbank",
+            "tip": "Park your car and take a walk along the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piarist Church",
+            "tip": "An often overlooked but very quiet and beautiful church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein-Shopping ab Hof",
+            "tip": "Nutzen Sie das Auto, um Weine direkt von den Winzern der Region zu kaufen."
+          },
+          {
+            "name": "Bäckerei Schmidl",
+            "tip": "Berühmt für ihr 'Wachauer Laberl', ein spezielles Brot. Ein tolles Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borvásárlás a pincészeteknél",
+            "tip": "Használja az autót, hogy bort vásároljon közvetlenül a régió borászaitól."
+          },
+          {
+            "name": "Schmidl Pékség",
+            "tip": "Híres a 'Wachauer Laberl' nevű különleges kenyeréről. Nagyszerű ajándék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cumpărături de vin de la producători",
+            "tip": "Folosiți mașina pentru a cumpăra vinuri direct de la producătorii din regiune."
+          },
+          {
+            "name": "Brutăria Schmidl",
+            "tip": "Faimoasă pentru 'Wachauer Laberl', o pâine specială. Un suvenir grozav."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine shopping from the winery",
+            "tip": "Use the car to buy wines directly from the region's winemakers."
+          },
+          {
+            "name": "Schmidl Bakery",
+            "tip": "Famous for its 'Wachauer Laberl', a special bread. A great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Altstadt ist schwierig und teuer. Nutzen Sie die ausgewiesenen Parkhäuser an der Peripherie.",
+          "Achten Sie auf die Kurzparkzonen (blaue Linien).",
+          "Die Straßen in der Wachau sind schmal und kurvenreich, fahren Sie vorsichtig.",
+          "Planen Sie Zeit für spontane Stopps bei schönen Aussichtspunkten ein."
+        ],
+        "hu": [
+          "A parkolás az óvárosban nehéz és drága. Használja a kijelölt parkolóházakat a periférián.",
+          "Figyeljen a rövid távú parkolási zónákra (kék vonalak).",
+          "A wachaui utak keskenyek és kanyargósak, vezessen óvatosan.",
+          "Tervezzen időt spontán megállókra a szép kilátópontoknál."
+        ],
+        "ro": [
+          "Parcarea în centrul vechi este dificilă și scumpă. Folosiți parcările desemnate de la periferie.",
+          "Fiți atenți la zonele de parcare pe termen scurt (linii albastre).",
+          "Drumurile din Wachau sunt înguste și șerpuite, conduceți cu prudență.",
+          "Planificați timp pentru opriri spontane la punctele de belvedere frumoase."
+        ],
+        "en": [
+          "Parking in the old town is difficult and expensive. Use the designated parking garages on the periphery.",
+          "Pay attention to the short-term parking zones (blue lines).",
+          "The roads in the Wachau valley are narrow and winding, drive carefully.",
+          "Plan time for spontaneous stops at beautiful viewpoints."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Krems",
+            "hu": "Krems vasútállomás",
+            "ro": "Gara Krems",
+            "en": "Krems Train Station"
+          },
+          "coords": [
+            15.6133,
+            48.4055
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus WL1 Richtung Stein/Donau.",
+            "hu": "Menjen a WL1 busszal Stein/Donau irányába.",
+            "ro": "Luați autobuzul WL1 spre Stein/Donau.",
+            "en": "Take the WL1 bus towards Stein/Donau."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Kunstmeile/Steinertor",
+            "hu": "Kunstmeile/Steinertor megálló",
+            "ro": "Stația Kunstmeile/Steinertor",
+            "en": "Kunstmeile/Steinertor Stop"
+          },
+          "coords": [
+            15.5966,
+            48.4118
+          ],
+          "category": "transport",
+          "arrive_at": "09:25",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der erste Cluster: Museen und das berühmte Tor.",
+            "hu": "Az első klaszter: múzeumok és a híres kapu.",
+            "ro": "Primul grup: muzee și faimoasa poartă.",
+            "en": "The first cluster: museums and the famous gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthalle & Karikaturmuseum",
+            "hu": "Műcsarnok és Karikatúramúzeum",
+            "ro": "Kunsthalle și Muzeul Caricaturii",
+            "en": "Kunsthalle & Caricature Museum"
+          },
+          "coords": [
+            15.5955,
+            48.412
+          ],
+          "category": "museums",
+          "arrive_at": "09:30",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie beide Museen, die direkt nebeneinander liegen.",
+            "hu": "Fedezze fel mindkét múzeumot, amelyek közvetlenül egymás mellett találhatók.",
+            "ro": "Explorați ambele muzee, care sunt situate chiar unul lângă celălalt.",
+            "en": "Explore both museums, which are located right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Steiner Tor",
+            "hu": "Steiner Kapu",
+            "ro": "Poarta Steiner",
+            "en": "Steiner Tor"
+          },
+          "coords": [
+            15.5975,
+            48.4116
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:05",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie zum Wahrzeichen der Stadt für ein paar Fotos.",
+            "hu": "Sétáljon el a város jelképéhez néhány fotóért.",
+            "ro": "Plimbați-vă până la simbolul orașului pentru câteva fotografii.",
+            "en": "Walk to the city's landmark for a few photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Theaterplatz",
+            "hu": "Theaterplatz megálló",
+            "ro": "Stația Theaterplatz",
+            "en": "Theaterplatz Stop"
+          },
+          "coords": [
+            15.6062,
+            48.4087
+          ],
+          "category": "transport",
+          "arrive_at": "12:50",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Von hier aus beginnt Ihr Spaziergang durch die Altstadt. Zeit für ein Mittagessen.",
+            "hu": "Innen indul a séta az óvárosban. Itt az ideje ebédelni.",
+            "ro": "De aici începe plimbarea prin orașul vechi. Timp pentru prânz.",
+            "en": "Your walk through the old town starts from here. Time for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Dominikanerkloster",
+            "hu": "Városháza és Domonkos kolostor",
+            "ro": "Primăria și Mănăstirea Dominicană",
+            "en": "Town Hall & Dominican Monastery"
+          },
+          "coords": [
+            15.6047,
+            48.4098
+          ],
+          "category": "historical",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie das Mittagessen und erkunden Sie dann das Weinstadtmuseum.",
+            "hu": "Ebédeljen, majd fedezze fel a Bormúzeumot.",
+            "ro": "Bucurați-vă de prânz și apoi explorați Muzeul Vinului.",
+            "en": "Enjoy lunch and then explore the Wine City Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Gozzoburg & Pfarrkirche",
+            "hu": "Gozzoburg és Plébániatemplom",
+            "ro": "Gozzoburg și Biserica Parohială",
+            "en": "Gozzoburg & Parish Church"
+          },
+          "coords": [
+            15.608,
+            48.4115
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 135,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der letzte Spaziergang des Tages führt Sie zu den historischen Juwelen der Oberstadt.",
+            "hu": "A nap utolsó sétája a felsőváros történelmi ékköveihez vezet.",
+            "ro": "Ultima plimbare a zilei vă duce la bijuteriile istorice din orașul de sus.",
+            "en": "The last walk of the day takes you to the historical gems of the upper town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Krems ist mit öffentlichen Verkehrsmitteln gut zu erkunden. Nehmen Sie den Bus vom Bahnhof, um den Kunstcluster rund um das Steiner Tor zu erreichen. Nach einem Vormittag voller Kunst und Geschichte bringt Sie ein weiterer Bus ins Zentrum der Altstadt. Verbringen Sie den Nachmittag damit, die historischen Gebäude, Kirchen und Plätze zu Fuß zu erkunden. Dieses Cluster-Hopping mit dem Bus ist effizient und ermöglicht es Ihnen, das Beste aus Ihrem Tagesausflug zu machen.",
+        "hu": "Krems tömegközlekedéssel könnyen felfedezhető. Menjen busszal a pályaudvarról a Steiner Kapu körüli Művészeti Klaszterhez. Egy művészettel és történelemmel teli délelőtt után egy másik busz viszi az óváros központjába. Töltse a délutánt a történelmi épületek, templomok és terek gyalogos felfedezésével. Ez a klaszter-ugrálás busszal hatékony, és lehetővé teszi, hogy a legtöbbet hozza ki az egynapos kirándulásból.",
+        "ro": "Krems este ușor de explorat cu transportul public. Luați autobuzul de la gară pentru a ajunge la grupul de artă din jurul Porții Steiner. După o dimineață plină de artă și istorie, un alt autobuz vă va duce în centrul orașului vechi. Petreceți după-amiaza explorând clădirile istorice, bisericile și piețele pe jos. Acest salt între grupuri cu autobuzul este eficient și vă permite să profitați la maximum de excursia de o zi.",
+        "en": "Krems is easy to explore by public transport. Take the bus from the train station to reach the art cluster around the Steiner Tor. After a morning of art and history, another bus will take you to the center of the old town. Spend the afternoon exploring the historic buildings, churches, and squares on foot. This cluster-hopping by bus is efficient and allows you to make the most of your day trip."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wachauer Laberl",
+            "tip": "Ein Muss. Kaufen Sie dieses knusprige Brötchen in einer Bäckerei für einen schnellen Snack."
+          },
+          {
+            "name": "Markt am Pfarrplatz",
+            "tip": "Probieren Sie lokale Produkte auf dem Bauernmarkt (falls Markttag ist)."
+          },
+          {
+            "name": "Wellenspiel",
+            "tip": "Restaurant mit herrlicher Aussicht auf die Donau, in der Nähe der Schiffsanlegestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wachaui zsemle (Wachauer Laberl)",
+            "tip": "Kötelező. Vegyen egy ropogós zsemlét egy pékségben egy gyors harapnivalóért."
+          },
+          {
+            "name": "Piac a Pfarrplatzon",
+            "tip": "Kóstolja meg a helyi termékeket a termelői piacon (ha piacnap van)."
+          },
+          {
+            "name": "Wellenspiel",
+            "tip": "Étterem csodálatos kilátással a Dunára, a hajóállomás közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiflă Wachauer Laberl",
+            "tip": "O necesitate. Cumpărați această chiflă crocantă de la o brutărie pentru o gustare rapidă."
+          },
+          {
+            "name": "Piața de la Pfarrplatz",
+            "tip": "Gustați produse locale la piața fermierilor (dacă este zi de piață)."
+          },
+          {
+            "name": "Wellenspiel",
+            "tip": "Restaurant cu o priveliște magnifică asupra Dunării, lângă debarcader."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wachauer Laberl",
+            "tip": "A must-try. Buy this crispy bread roll at a bakery for a quick snack."
+          },
+          {
+            "name": "Market at Pfarrplatz",
+            "tip": "Try local products at the farmers' market (if it's market day)."
+          },
+          {
+            "name": "Wellenspiel",
+            "tip": "Restaurant with a magnificent view of the Danube, near the boat landing stage."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Eine grüne Oase in der Nähe des Bahnhofs für eine Pause vor der Abreise.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedhof in Stein",
+            "tip": "Ein historischer und sehr friedlicher Ort mit schöner Aussicht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Schifffahrt auf der Donau",
+            "tip": "Wenn die Zeit reicht, ist eine kurze Bootsfahrt der ultimative Weg zur Entspannung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park",
+            "tip": "Zöld oázis a pályaudvar közelében egy kis pihenőre indulás előtt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Steini temető",
+            "tip": "Történelmi és nagyon békés hely, szép kilátással.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hajókázás a Dunán",
+            "tip": "Ha az idő engedi, egy rövid hajókirándulás a pihenés végső módja.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului",
+            "tip": "O oază de verdeață lângă gară pentru o pauză înainte de plecare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul din Stein",
+            "tip": "Un loc istoric și foarte pașnic, cu o priveliște frumoasă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Croazieră pe Dunăre",
+            "tip": "Dacă timpul permite, o scurtă plimbare cu barca este modul suprem de relaxare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "A green oasis near the train station for a break before departure.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cemetery in Stein",
+            "tip": "A historic and very peaceful place with a beautiful view.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Boat trip on the Danube",
+            "tip": "If time allows, a short boat trip is the ultimate way to relax.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Steiner Landstraße",
+            "tip": "Kleine, unabhängige Geschäfte mit einzigartigen Fundstücken."
+          },
+          {
+            "name": "Wein-Vinotheken",
+            "tip": "Viele Geschäfte bieten eine große Auswahl an Weinen aus der Wachau zum Kauf an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a Steiner Landstraßén",
+            "tip": "Kicsi, független üzletek egyedi leletekkel."
+          },
+          {
+            "name": "Borboltok",
+            "tip": "Sok üzlet kínál széles választékban wachaui borokat vásárlásra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe Steiner Landstraße",
+            "tip": "Mici magazine independente cu descoperiri unice."
+          },
+          {
+            "name": "Vinoteci",
+            "tip": "Multe magazine oferă o selecție largă de vinuri din Wachau de cumpărat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Steiner Landstraße",
+            "tip": "Small, independent shops with unique finds."
+          },
+          {
+            "name": "Wine shops",
+            "tip": "Many shops offer a wide selection of Wachau wines for purchase."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, das ist günstiger als Einzeltickets.",
+          "Die Buslinie WL1 verbindet die wichtigsten Sehenswürdigkeiten.",
+          "Überprüfen Sie den Busfahrplan, besonders am Wochenende und am Abend.",
+          "Die meisten Haltestellen sind deutlich gekennzeichnet, aber eine App für den öffentlichen Verkehr kann hilfreich sein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, olcsóbb, mint az egyedi jegyek.",
+          "A WL1 buszjárat összeköti a legfontosabb látnivalókat.",
+          "Ellenőrizze a buszmenetrendet, különösen hétvégén és este.",
+          "A legtöbb megálló jól van jelölve, de egy tömegközlekedési alkalmazás hasznos lehet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, este mai ieftin decât biletele individuale.",
+          "Linia de autobuz WL1 conectează principalele atracții.",
+          "Verificați orarul autobuzelor, mai ales în weekend și seara.",
+          "Majoritatea stațiilor sunt clar marcate, dar o aplicație de transport public poate fi utilă."
+        ],
+        "en": [
+          "Buy a day ticket for the bus, it's cheaper than single tickets.",
+          "The WL1 bus line connects the main sights.",
+          "Check the bus schedule, especially on weekends and in the evening.",
+          "Most stops are clearly marked, but a public transport app can be helpful."
+        ]
+      }
+    }
+  }
+}

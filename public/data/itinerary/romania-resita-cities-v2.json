@@ -1,0 +1,1212 @@
+{
+  "city_id": "romania-resita-cities-v2",
+  "anchor": {
+    "name": "Reschitza",
+    "coords": [
+      45.3005,
+      21.8897
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tricolorului-Park",
+            "hu": "Tricolorului park",
+            "ro": "Parcul Tricolorului",
+            "en": "Tricolorului Park"
+          },
+          "coords": [
+            21.8915,
+            45.3012
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee von einem der Kioske im Park.",
+            "hu": "Kezdje a napot egy kávéval a park egyik kioszkjából.",
+            "ro": "Începeți ziua cu o cafea de la unul dintre chioșcurile din parc.",
+            "en": "Start your day with a coffee from one of the kiosks in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Reschitza",
+            "hu": "Resicabányai Városháza",
+            "ro": "Primăria Reșița",
+            "en": "Reșița City Hall"
+          },
+          "coords": [
+            21.89,
+            45.2998
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:15",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Achten Sie auf die Architektur aus der Zwischenkriegszeit.",
+            "hu": "Figyelje meg a két világháború közötti időszak építészetét.",
+            "ro": "Observați arhitectura clădirii, specifică perioadei interbelice.",
+            "en": "Pay attention to the inter-war period architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "West-Theater",
+            "hu": "Nyugati Színház",
+            "ro": "Teatrul de Vest",
+            "en": "West Theatre"
+          },
+          "coords": [
+            21.8885,
+            45.3025
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:50",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine Abendvorstellung.",
+            "hu": "Nézze meg a műsort, hátha van esti előadás.",
+            "ro": "Verificați programul; poate prindeți un spectacol de seară.",
+            "en": "Check the schedule; you might catch an evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Banater Bergmuseum",
+            "hu": "Bánsági Hegyvidéki Múzeum",
+            "ro": "Muzeul Banatului Montan",
+            "en": "Banat Montan Museum"
+          },
+          "coords": [
+            21.884,
+            45.306
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Fokus auf die Exponate zur industriellen Geschichte der Region.",
+            "hu": "Koncentráljon a régió ipari történelmét bemutató kiállítási tárgyakra.",
+            "ro": "Concentrează-te pe exponatele legate de istoria industrială a regiunii.",
+            "en": "Focus on the exhibits related to the industrial history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Dampflokmuseum",
+            "hu": "Gőzmozdony Múzeum",
+            "ro": "Muzeul de Locomotive cu Abur",
+            "en": "Steam Locomotive Museum"
+          },
+          "coords": [
+            21.8815,
+            45.308
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_4lang": {
+            "de": "Ein Muss für Technikbegeisterte. Die ausgestellten Lokomotiven sind beeindruckend.",
+            "hu": "A technika szerelmeseinek kötelező. A kiállított mozdonyok lenyűgözőek.",
+            "ro": "O vizită obligatorie pentru pasionații de tehnică. Locomotivele expuse sunt impresionante.",
+            "en": "A must-see for technology enthusiasts. The displayed locomotives are impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Kreuz auf dem Golului-Hügel",
+            "hu": "Kereszt a Golului-hegyen",
+            "ro": "Crucea de pe Dealul Golului",
+            "en": "Cross on Golului Hill"
+          },
+          "coords": [
+            21.905,
+            45.302
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:20",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Der Aufstieg lohnt sich für die Panoramaaussicht über die Stadt.",
+            "hu": "Megéri felmenni a városra nyíló panorámáért.",
+            "ro": "Urcușul merită efortul pentru vederea panoramică asupra orașului.",
+            "en": "The climb is worth it for the panoramic view over the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Tag zu Fuß durch Reschitza beginnt im grünen Herzen, dem Tricolorului-Park. Von dort aus erkunden Sie das administrative und kulturelle Zentrum. Am Nachmittag tauchen Sie in die reiche Industriegeschichte in den beiden einzigartigen Museen ein, bevor Sie den Tag mit einem weiten Blick vom Golului-Hügel abschließen.",
+        "hu": "Egy gyalogos nap Resicabányán a város zöld szívében, a Tricolorului parkban kezdődik. Innen felfedezheti az adminisztratív és kulturális központot. Délután elmerülhet a gazdag ipartörténetben a két egyedülálló múzeumban, mielőtt a napot a Golului-hegyről nyíló pazar kilátással zárja.",
+        "ro": "O zi pe jos prin Reșița începe în inima sa verde, Parcul Tricolorului. De acolo, explorați centrul administrativ și cultural. După-amiaza, pătrundeți în istoria industrială bogată la cele două muzee unice, înainte de a încheia ziua cu o priveliște vastă de pe Dealul Golului.",
+        "en": "A day on foot through Reșița begins in its green heart, Tricolorului Park. From there, you'll explore the administrative and cultural center. In the afternoon, delve into the rich industrial history at the two unique museums before concluding the day with a sweeping view from Golului Hill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Eine traditionelle rumänische Kuttelsuppe, oft in lokalen Restaurants serviert."
+          },
+          {
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen, ein beliebtes rumänisches Streetfood."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csorba",
+            "tip": "Hagyományos román pacalleves, gyakran kínálják a helyi éttermekben."
+          },
+          {
+            "name": "Mics",
+            "tip": "Grillezett darált hús tekercsek, népszerű román utcai étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "O supă tradițională românească, adesea servită în restaurantele locale."
+          },
+          {
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar, o mâncare stradală populară în România."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "A traditional Romanian tripe soup, often served in local restaurants."
+          },
+          {
+            "name": "Mici",
+            "tip": "Grilled minced meat rolls, a popular Romanian street food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Bârzava-Flusses",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, der durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Golului-Hügel bei Sonnenuntergang",
+            "tip": "Der beste Ort, um die Stadt in goldenes Licht getaucht zu sehen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Berzava-folyó partja",
+            "tip": "Egy csendes séta a városon átfolyó folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Golului-hegy naplementekor",
+            "tip": "A legjobb hely, hogy arany fényben úszva lássuk a várost.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Bârzava",
+            "tip": "O plimbare liniștită de-a lungul râului care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Golului la apus",
+            "tip": "Cel mai bun loc pentru a vedea orașul scăldat în lumina aurie.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Bârzava River",
+            "tip": "A quiet walk along the river that flows through the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Golului Hill at sunset",
+            "tip": "The best place to see the city bathed in golden light.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und handgefertigten Waren auf dem zentralen Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat a központi piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și articole de artizanat în piața centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and handcrafted goods at the central market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Tag viel Laufen beinhaltet.",
+          "Nehmen Sie eine Flasche Wasser mit, besonders für den Aufstieg zum Kreuz.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap sok gyaloglással jár.",
+          "Vigyen magával egy üveg vizet, különösen a kereszthez való feljutáshoz.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece ziua implică mult mers pe jos.",
+          "Luați o sticlă cu apă, mai ales pentru urcușul la cruce.",
+          "Verificați în avans programul de funcționare al muzeelor."
+        ],
+        "en": [
+          "Wear comfortable shoes as the day involves a lot of walking.",
+          "Bring a bottle of water, especially for the climb to the cross.",
+          "Check the opening hours of the museums in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Reschitza Süd",
+            "hu": "Resicabánya Déli Pályaudvar",
+            "ro": "Gara Reșița Sud",
+            "en": "Reșița South Railway Station"
+          },
+          "coords": [
+            21.888,
+            45.29
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Startpunkt, um die industrielle Atmosphäre der Stadt zu spüren.",
+            "hu": "Kezdje itt, hogy átérezze a város ipari hangulatát.",
+            "ro": "Punct de plecare pentru a simți atmosfera industrială a orașului.",
+            "en": "Starting point to feel the industrial atmosphere of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Reschitza",
+            "hu": "Resicabányai Állatkert",
+            "ro": "Grădina Zoologică Reșița",
+            "en": "Reșița Zoo"
+          },
+          "coords": [
+            21.895,
+            45.285
+          ],
+          "category": "animal habitat",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Ein schöner Abstecher, besonders für Familien.",
+            "hu": "Szép kitérő, különösen családoknak.",
+            "ro": "O deviere plăcută, mai ales pentru familii.",
+            "en": "A nice detour, especially for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Tricolorului-Park",
+            "hu": "Tricolorului park",
+            "ro": "Parcul Tricolorului",
+            "en": "Tricolorului Park"
+          },
+          "coords": [
+            21.8915,
+            45.3012
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:40",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Perfekt für eine kurze Pause und Mittagessen.",
+            "hu": "Tökéletes egy rövid pihenőre és ebédre.",
+            "ro": "Perfect pentru o scurtă pauză și prânz.",
+            "en": "Perfect for a short break and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Reschitza",
+            "hu": "Resicabányai Városháza",
+            "ro": "Primăria Reșița",
+            "en": "Reșița City Hall"
+          },
+          "coords": [
+            21.89,
+            45.2998
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:15",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Ein schnelles Foto vom architektonischen Wahrzeichen der Stadt.",
+            "hu": "Egy gyors fotó a város építészeti jelképéről.",
+            "ro": "O fotografie rapidă a reperului arhitectural al orașului.",
+            "en": "A quick photo of the city's architectural landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Dampflokmuseum",
+            "hu": "Gőzmozdony Múzeum",
+            "ro": "Muzeul de Locomotive cu Abur",
+            "en": "Steam Locomotive Museum"
+          },
+          "coords": [
+            21.8815,
+            45.308
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie ein in die Welt der Giganten aus Stahl.",
+            "hu": "Parkolja le a kerékpárt, és merüljön el az acélóriások világában.",
+            "ro": "Parcați bicicleta și scufundați-vă în lumea giganților de oțel.",
+            "en": "Park your bike and immerse yourself in the world of steel giants."
+          }
+        },
+        {
+          "name": {
+            "de": "Banater Bergmuseum",
+            "hu": "Bánsági Hegyvidéki Múzeum",
+            "ro": "Muzeul Banatului Montan",
+            "en": "Banat Montan Museum"
+          },
+          "coords": [
+            21.884,
+            45.306
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Ergänzt das Lokomotivmuseum perfekt mit breiterem historischen Kontext.",
+            "hu": "Tökéletesen kiegészíti a Mozdonymúzeumot szélesebb történelmi kontextussal.",
+            "ro": "Completează perfect Muzeul de Locomotive cu un context istoric mai larg.",
+            "en": "Perfectly complements the Locomotive Museum with broader historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Kreuz auf dem Golului-Hügel",
+            "hu": "Kereszt a Golului-hegyen",
+            "ro": "Crucea de pe Dealul Golului",
+            "en": "Cross on Golului Hill"
+          },
+          "coords": [
+            21.905,
+            45.302
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:00",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_4lang": {
+            "de": "Die letzte Anstrengung des Tages wird mit einer unvergesslichen Aussicht belohnt.",
+            "hu": "A nap utolsó erőfeszítését felejthetetlen kilátás jutalmazza.",
+            "ro": "Ultimul efort al zilei este răsplătit cu o priveliște de neuitat.",
+            "en": "The last effort of the day is rewarded with an unforgettable view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour durch Reschitza verbindet Natur, Industrie und Kultur. Vom südlichen Bahnhof geht es zum Zoo, dann ins Zentrum für eine Pause. Der Nachmittag ist der Industriegeschichte in den Museen gewidmet, gekrönt von der sportlichen Herausforderung und dem Panoramablick vom Golului-Hügel.",
+        "hu": "A resicabányai kerékpártúra összeköti a természetet, az ipart és a kultúrát. A déli pályaudvartól az állatkertbe, majd a központba vezet az út egy pihenőre. A délután az ipartörténeté a múzeumokban, melyet a sportos kihívás és a Golului-hegy panorámája koronáz meg.",
+        "ro": "Turul cu bicicleta prin Reșița combină natura, industria și cultura. De la Gara de Sud se merge la Zoo, apoi în centru pentru o pauză. După-amiaza este dedicată istoriei industriale în muzee, încununată de provocarea sportivă și vederea panoramică de pe Dealul Golului.",
+        "en": "The bike tour through Reșița combines nature, industry, and culture. From the southern station, you'll head to the zoo, then to the center for a break. The afternoon is dedicated to industrial history in the museums, crowned by the athletic challenge and panoramic view from Golului Hill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Ein herzhafter Kuchen mit Käse gefüllt, ideal für eine schnelle Stärkung."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "Ein pflanzlicher Brotaufstrich aus Auberginen und Paprika."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajtos pite",
+            "tip": "Sós, sajttal töltött pite, ideális egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Zakuszka",
+            "tip": "Padlizsánból és paprikából készült zöldségkrém."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "O plăcintă sărată umplută cu brânză, ideală pentru o gustare rapidă."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "O pastă de legume tartinabilă din vinete și ardei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "A savory pie filled with cheese, ideal for a quick snack."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "A vegetable spread made from eggplants and peppers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zoo Reschitza",
+            "tip": "Beobachten Sie die Tiere in einer ruhigen Umgebung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Abendstimmung am Golului-Hügel",
+            "tip": "Genießen Sie die Stille, nachdem die meisten Tagesbesucher gegangen sind.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Resicabányai Állatkert",
+            "tip": "Figyelje az állatokat csendes környezetben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Esti hangulat a Golului-hegyen",
+            "tip": "Élvezze a csendet, miután a legtöbb nappali látogató elment.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Zoologică Reșița",
+            "tip": "Observați animalele într-un mediu liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Atmosferă de seară pe Dealul Golului",
+            "tip": "Bucurați-vă de liniște după plecarea majorității vizitatorilor de o zi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reșița Zoo",
+            "tip": "Observe the animals in a quiet environment.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Evening atmosphere on Golului Hill",
+            "tip": "Enjoy the silence after most day visitors have left.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden in der Nähe der Museen",
+            "tip": "Finden Sie thematische Andenken an die Industriegeschichte der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékboltok a múzeumok közelében",
+            "tip": "Találjon tematikus emléktárgyakat a város ipari történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri lângă muzee",
+            "tip": "Găsiți suveniruri tematice legate de istoria industrială a orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops near the museums",
+            "tip": "Find themed souvenirs of the city's industrial history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad an den Haltestellen gut ab.",
+          "Der Aufstieg zum Golului-Hügel ist anspruchsvoll, aber machbar.",
+          "Ein kleiner Rucksack für Wasser und Snacks ist empfehlenswert."
+        ],
+        "hu": [
+          "Zárja le jól a kerékpárját a megállóknál.",
+          "A Golului-hegyre való feljutás kihívást jelent, de teljesíthető.",
+          "Ajánlott egy kis hátizsák víznek és harapnivalóknak."
+        ],
+        "ro": [
+          "Asigurați-vă bine bicicleta la opriri.",
+          "Urcușul pe Dealul Golului este solicitant, dar realizabil.",
+          "Se recomandă un rucsac mic pentru apă și gustări."
+        ],
+        "en": [
+          "Lock your bike securely at the stops.",
+          "The climb to Golului Hill is challenging but doable.",
+          "A small backpack for water and snacks is recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kreuz auf dem Golului-Hügel",
+            "hu": "Kereszt a Golului-hegyen",
+            "ro": "Crucea de pe Dealul Golului",
+            "en": "Cross on Golului Hill"
+          },
+          "coords": [
+            21.905,
+            45.302
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Beginnen Sie mit der besten Aussicht. Parken Sie in der Nähe des Hügels.",
+            "hu": "Kezdje a legjobb kilátással. Parkoljon a hegy közelében.",
+            "ro": "Începeți cu cea mai bună priveliște. Parcați în apropierea dealului.",
+            "en": "Start with the best view. Park near the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Reschitza",
+            "hu": "Resicabányai Állatkert",
+            "ro": "Grădina Zoologică Reșița",
+            "en": "Reșița Zoo"
+          },
+          "coords": [
+            21.895,
+            45.285
+          ],
+          "category": "animal habitat",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_4lang": {
+            "de": "Ein schöner Vormittag inmitten der Natur.",
+            "hu": "Egy szép délelőtt a természet közepén.",
+            "ro": "O dimineață plăcută în mijlocul naturii.",
+            "en": "A pleasant morning surrounded by nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Dampflokmuseum",
+            "hu": "Gőzmozdony Múzeum",
+            "ro": "Muzeul de Locomotive cu Abur",
+            "en": "Steam Locomotive Museum"
+          },
+          "coords": [
+            21.8815,
+            45.308
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "tip_4lang": {
+            "de": "Cluster 1, Parken Sie hier für beide Museen.",
+            "hu": "1. klaszter: Parkoljon itt mindkét múzeumhoz.",
+            "ro": "Cluster 1, parcați aici pentru ambele muzee.",
+            "en": "Cluster 1, park here for both museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Banater Bergmuseum",
+            "hu": "Bánsági Hegyvidéki Múzeum",
+            "ro": "Muzeul Banatului Montan",
+            "en": "Banat Montan Museum"
+          },
+          "coords": [
+            21.884,
+            45.306
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Lokomotivmuseum.",
+            "hu": "Rövid séta a Mozdonymúzeumtól.",
+            "ro": "O scurtă plimbare de la Muzeul de Locomotive.",
+            "en": "A short walk from the Locomotive Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Tricolorului-Park",
+            "hu": "Tricolorului park",
+            "ro": "Parcul Tricolorului",
+            "en": "Tricolorului Park"
+          },
+          "coords": [
+            21.8915,
+            45.3012
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Cluster 2, parken Sie und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "2. klaszter: Parkoljon le, és fedezze fel gyalog a központot.",
+            "ro": "Cluster 2, parcați și explorați centrul pe jos.",
+            "en": "Cluster 2, park and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Reschitza",
+            "hu": "Resicabányai Városháza",
+            "ro": "Primăria Reșița",
+            "en": "Reșița City Hall"
+          },
+          "coords": [
+            21.89,
+            45.2998
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:40",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Beenden Sie den Tag im Herzen der Stadt.",
+            "hu": "Zárja a napot a város szívében.",
+            "ro": "Încheiați ziua în inima orașului.",
+            "en": "End the day in the heart of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Reschitza in Clustern. Sie beginnen mit Panoramablicken und Natur, bevor Sie zum Industrie-Cluster mit seinen beeindruckenden Museen fahren. Der Tag endet im Stadtzentrum, wo Sie nach dem Parken die zentrale Atmosphäre bei einem gemütlichen Spaziergang genießen.",
+        "hu": "Autóval klaszterekben fedezheti fel Resicabányát. A panorámával és a természettel kezdi, mielőtt az ipari klaszterhez hajtana a lenyűgöző múzeumokkal. A nap a városközpontban ér véget, ahol parkolás után egy kellemes sétával élvezheti a központi hangulatot.",
+        "ro": "Cu mașina, explorați Reșița în clustere. Începeți cu priveliști panoramice și natură, înainte de a vă deplasa la clusterul industrial cu muzeele sale impresionante. Ziua se încheie în centrul orașului, unde, după ce parcați, vă bucurați de atmosfera centrală într-o plimbare relaxantă.",
+        "en": "By car, you'll explore Reșița in clusters. You start with panoramic views and nature before heading to the industrial cluster with its impressive museums. The day concludes in the city center, where you can park and enjoy the central atmosphere with a leisurely walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Virșli",
+            "tip": "Würzige, dünne Würstchen, eine Spezialität der Region Banat."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein berühmtes rumänisches Dessert: frittierte Teigbällchen mit saurer Sahne und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Virsli",
+            "tip": "Fűszeres, vékony kolbászkák, a Bánság specialitása."
+          },
+          {
+            "name": "Papanas",
+            "tip": "Híres román desszert: fánkok tejföllel és lekvárral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Virșli",
+            "tip": "Cârnați subțiri și picanți, o specialitate din regiunea Banatului."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert românesc faimos: gogoși prăjite cu smântână și dulceață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Virșli",
+            "tip": "Spicy, thin sausages, a specialty of the Banat region."
+          },
+          {
+            "name": "Papanași",
+            "tip": "A famous Romanian dessert: fried doughnuts with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt durch die umliegenden Hügel",
+            "tip": "Genießen Sie die Landschaft außerhalb der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank im Tricolorului-Park",
+            "tip": "Ein Moment der Ruhe im geschäftigen Stadtzentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a környező dombokon",
+            "tip": "Élvezze a városon kívüli tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a Tricolorului parkban",
+            "tip": "Egy pillanatnyi nyugalom a nyüzsgő városközpontban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O plimbare cu mașina prin dealurile înconjurătoare",
+            "tip": "Bucurați-vă de peisajul din afara orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în Parcul Tricolorului",
+            "tip": "Un moment de liniște în centrul aglomerat al orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A drive through the surrounding hills",
+            "tip": "Enjoy the scenery outside the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in Tricolorului Park",
+            "tip": "A moment of peace in the bustling city center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerkerstände",
+            "tip": "Achten Sie auf Stände, die traditionelle Töpferwaren aus dem Banat verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves standok",
+            "tip": "Keresse a hagyományos bánsági kerámiát árusító standokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Standuri de artizanat",
+            "tip": "Căutați standuri care vând ceramică tradițională din Banat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artisan stalls",
+            "tip": "Look for stalls selling traditional pottery from the Banat region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-Apps, um freie Plätze in den Clustern zu finden.",
+          "Planen Sie genügend Zeit für den Verkehr zwischen den Clustern ein.",
+          "Das Auto gibt Ihnen die Flexibilität, auch Orte etwas außerhalb zu besuchen."
+        ],
+        "hu": [
+          "Használjon parkolási alkalmazásokat, hogy szabad helyeket találjon a klaszterekben.",
+          "Tervezzen elegendő időt a klaszterek közötti forgalomra.",
+          "Az autó rugalmasságot ad, hogy kissé távolabbi helyeket is meglátogasson."
+        ],
+        "ro": [
+          "Folosiți aplicații de parcare pentru a găsi locuri disponibile în clustere.",
+          "Planificați suficient timp pentru traficul dintre clustere.",
+          "Mașina vă oferă flexibilitatea de a vizita și locuri puțin mai îndepărtate."
+        ],
+        "en": [
+          "Use parking apps to find available spots in the clusters.",
+          "Plan enough time for traffic between clusters.",
+          "The car gives you the flexibility to visit places slightly further out."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 7.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tricolorului-Park",
+            "hu": "Tricolorului park",
+            "ro": "Parcul Tricolorului",
+            "en": "Tricolorului Park"
+          },
+          "coords": [
+            21.8915,
+            45.3012
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Cluster 1: Beginnen Sie im Zentrum, das gut mit Bussen erreichbar ist.",
+            "hu": "1. klaszter: Kezdje a központban, amely busszal jól megközelíthető.",
+            "ro": "Cluster 1: Începeți în centru, care este bine deservit de autobuze.",
+            "en": "Cluster 1: Start in the center, which is well-served by buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Reschitza",
+            "hu": "Resicabányai Városháza",
+            "ro": "Primăria Reșița",
+            "en": "Reșița City Hall"
+          },
+          "coords": [
+            21.89,
+            45.2998
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:45",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Park.",
+            "hu": "Rövid séta a parktól.",
+            "ro": "O scurtă plimbare de la parc.",
+            "en": "A short walk from the park."
+          }
+        },
+        {
+          "name": {
+            "de": "West-Theater",
+            "hu": "Nyugati Színház",
+            "ro": "Teatrul de Vest",
+            "en": "West Theatre"
+          },
+          "coords": [
+            21.8885,
+            45.3025
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:15",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Vervollständigen Sie den Spaziergang durch das Zentrum.",
+            "hu": "Tegye teljessé a központi sétát.",
+            "ro": "Completați plimbarea prin centrul orașului.",
+            "en": "Complete the walk through the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Dampflokmuseum",
+            "hu": "Gőzmozdony Múzeum",
+            "ro": "Muzeul de Locomotive cu Abur",
+            "en": "Steam Locomotive Museum"
+          },
+          "coords": [
+            21.8815,
+            45.308
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Cluster 2: Nehmen Sie einen Bus zum Museumsviertel.",
+            "hu": "2. klaszter: Menjen busszal a múzeumi negyedbe.",
+            "ro": "Cluster 2: Luați un autobuz spre cartierul muzeelor.",
+            "en": "Cluster 2: Take a bus to the museum district."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Reschitza Süd",
+            "hu": "Resicabánya Déli Pályaudvar",
+            "ro": "Gara Reșița Sud",
+            "en": "Reșița South Railway Station"
+          },
+          "coords": [
+            21.888,
+            45.29
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3.5,
+          "tip_4lang": {
+            "de": "Beenden Sie die Tour mit einem Gefühl für die Eisenbahngeschichte der Stadt.",
+            "hu": "Zárja a túrát a város vasúttörténetének megismerésével.",
+            "ro": "Încheiați turul cu o senzație a istoriei feroviare a orașului.",
+            "en": "End the tour with a feel for the city's railway history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erleben Sie Reschitza authentisch. Sie starten im zentralen Cluster, das zu Fuß erkundet wird. Ein Bus bringt Sie dann zum Industrie-Cluster, dem Herz der Stadtgeschichte. Eine weitere Fahrt führt Sie zum südlichen Bahnhof und rundet den Tag mit einem Blick auf die industrielle Vergangenheit ab.",
+        "hu": "A tömegközlekedéssel autentikusan élheti át Resicabányát. A központi, gyalogosan felfedezhető klaszterben kezd. Egy busz elviszi az ipari klaszterhez, a város történelmének szívébe. Egy másik utazás a déli pályaudvarra vezet, és a napot az ipari múltra való visszatekintéssel zárja.",
+        "ro": "Cu transportul public, experimentați Reșița în mod autentic. Începeți în clusterul central, explorat pe jos. Un autobuz vă duce apoi la clusterul industrial, inima istoriei orașului. O altă călătorie vă duce la Gara de Sud, încheind ziua cu o privire asupra trecutului industrial.",
+        "en": "Using public transport, you'll experience Reșița authentically. You start in the central cluster, explored on foot. A bus then takes you to the industrial cluster, the heart of the city's history. Another ride takes you to the southern railway station, rounding off the day with a look at the industrial past."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi",
+            "tip": "Warme, salzige Brezeln, die an vielen Straßenecken verkauft werden."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Kohlrouladen gefüllt mit Fleisch und Reis, ein Nationalgericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perec",
+            "tip": "Meleg, sós perecek, amelyeket sok utcasarkon árulnak."
+          },
+          {
+            "name": "Szarma",
+            "tip": "Töltött káposzta, hússal és rizzsel töltve, nemzeti étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi",
+            "tip": "Covrigi calzi și sărați, vânduți la multe colțuri de stradă."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Rulouri de varză umplute cu carne și orez, un fel de mâncare național."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi",
+            "tip": "Warm, salty pretzels sold on many street corners."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Cabbage rolls filled with meat and rice, a national dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fensterplatz im Bus",
+            "tip": "Beobachten Sie das Stadtleben aus der Ferne.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Fluss Bârzava",
+            "tip": "Finden Sie einen ruhigen Abschnitt in der Nähe einer Bushaltestelle.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ablak melletti hely a buszon",
+            "tip": "Figyelje a városi életet távolról.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a Berzava folyó partján",
+            "tip": "Találjon egy csendes szakaszt egy buszmegálló közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc la geam în autobuz",
+            "tip": "Observați viața orașului de la distanță.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul râului Bârzava",
+            "tip": "Găsiți o secțiune liniștită lângă o stație de autobuz.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Window seat on the bus",
+            "tip": "Observe the city life from a distance.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk along the Bârzava river",
+            "tip": "Find a quiet section near a bus stop.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Geschäfte im Stadtzentrum",
+            "tip": "Unterstützen Sie lokale Händler, indem Sie in den kleinen Läden rund um den Tricolorului-Park einkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis üzletek a belvárosban",
+            "tip": "Támogassa a helyi kereskedőket a Tricolorului park körüli kis üzletekben való vásárlással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici magazine în centrul orașului",
+            "tip": "Susțineți comercianții locali cumpărând din micile magazine din jurul Parcului Tricolorului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small shops in the city center",
+            "tip": "Support local traders by shopping in the small stores around Tricolorului Park."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel.",
+          "Informieren Sie sich über die Buslinien, die die Cluster verbinden.",
+          "Haben Sie etwas Kleingeld für Tickets bereit, falls Sie sie direkt im Bus kaufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez.",
+          "Tájékozódjon a klasztereket összekötő buszjáratokról.",
+          "Legyen Önnél aprópénz a jegyekhez, ha közvetlenül a buszon vásárolja meg őket."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public.",
+          "Informați-vă despre liniile de autobuz care leagă clusterele.",
+          "Aveți la îndemână mărunțiș pentru bilete, în caz că le cumpărați direct din autobuz."
+        ],
+        "en": [
+          "Buy a day pass for public transport.",
+          "Find out about the bus lines connecting the clusters.",
+          "Have some small change ready for tickets if you buy them directly on the bus."
+        ]
+      }
+    }
+  }
+}

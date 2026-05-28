@@ -1,0 +1,1256 @@
+{
+  "city_id": "austria-braunau-am-inn-cities-v2",
+  "anchor": {
+    "name": "Braunau am Inn",
+    "coords": [
+      13.0347,
+      48.2583
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 2.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz",
+            "hu": "Város Főtere",
+            "ro": "Piața Centrală",
+            "en": "Town Square"
+          },
+          "coords": [
+            13.035,
+            48.2585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bunten gotischen und barocken Bürgerhäuser.",
+            "hu": "Csodálja meg a színes gótikus és barokk polgárházakat.",
+            "ro": "Admirați casele gotice și baroce colorate ale burghezilor.",
+            "en": "Admire the colorful Gothic and Baroque townhouses."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            13.0345,
+            48.2586
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf das Wappen und die kunstvolle Fassade.",
+            "hu": "Figyelje meg a címert és a művészien díszített homlokzatot.",
+            "ro": "Fiți atenți la stema și fațada artistică.",
+            "en": "Look for the coat of arms and the ornate facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischerbrunnen",
+            "hu": "Halász-kút",
+            "ro": "Fântâna Pescarului",
+            "en": "Fisherman's Fountain"
+          },
+          "coords": [
+            13.0352,
+            48.2583
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:10",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein beliebter Fotopunkt im Herzen des Platzes.",
+            "hu": "Népszerű fotópont a tér szívében.",
+            "ro": "Un loc popular pentru fotografii în inima pieței.",
+            "en": "A popular photo spot in the heart of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Stephan",
+            "hu": "Szent István plébániatemplom",
+            "ro": "Biserica Parohială Sf. Ștefan",
+            "en": "St. Stephen's Parish Church"
+          },
+          "coords": [
+            13.0365,
+            48.2588
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm für eine fantastische Aussicht über die Stadt.",
+            "hu": "Menjen fel a toronyba a városra nyíló fantasztikus kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște fantastică asupra orașului.",
+            "en": "Climb the tower for a fantastic view over the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Herzogsburg & Bezirksmuseum",
+            "hu": "Hercegi Vár és Kerületi Múzeum",
+            "ro": "Castelul Ducal și Muzeul Districtual",
+            "en": "Ducal Castle & District Museum"
+          },
+          "coords": [
+            13.033,
+            48.2595
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Geschichte der Region, von der Urzeit bis heute.",
+            "hu": "Fedezze fel a régió történelmét az őskortól napjainkig.",
+            "ro": "Explorați istoria regiunii, din preistorie până în prezent.",
+            "en": "Explore the region's history, from prehistoric times to today."
+          }
+        },
+        {
+          "name": {
+            "de": "Mahnstein gegen Krieg und Faschismus",
+            "hu": "Háború és Fasizmus Elleni Emlékkő",
+            "ro": "Piatra Memorială Împotriva Războiului și Fascismului",
+            "en": "Memorial Stone Against War and Fascism"
+          },
+          "coords": [
+            13.0328,
+            48.2592
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:40",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Ort des Nachdenkens über die dunkle Vergangenheit Europas.",
+            "hu": "Az elgondolkodás helye Európa sötét múltjáról.",
+            "ro": "Un loc de reflecție asupra trecutului întunecat al Europei.",
+            "en": "A place for reflection on Europe's dark past."
+          }
+        },
+        {
+          "name": {
+            "de": "Vorderbad",
+            "hu": "Vorderbad (Régi fürdő)",
+            "ro": "Vorderbad (Baia veche)",
+            "en": "Vorderbad (Old Bathhouse)"
+          },
+          "coords": [
+            13.0358,
+            48.2575
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein einzigartiges Museum in einem der ältesten Badehäuser Österreichs.",
+            "hu": "Egyedülálló múzeum Ausztria egyik legrégebbi fürdőházában.",
+            "ro": "Un muzeu unic într-una dintre cele mai vechi case de baie din Austria.",
+            "en": "A unique museum in one of Austria's oldest bathhouses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Braunau beginnt am lebhaften Stadtplatz, umgeben von prächtigen historischen Gebäuden. Der Vormittag ist der Erkundung des gotischen Herzens der Stadt gewidmet, mit einem Besuch der imposanten Stadtpfarrkirche. Nach einem tiefen Einblick in die Regionalgeschichte im Museum in der Herzogsburg am Mittag, führt Sie der Nachmittag zu Orten der Besinnung und in die einzigartige Atmosphäre des alten Vorderbad-Museums. Den Abend können Sie bei einem Spaziergang am Innufer ausklingen lassen.",
+        "hu": "A braunaui nap a nyüzsgő főtéren kezdődik, csodás történelmi épületekkel körülvéve. A délelőtt a város gótikus szívének felfedezésével telik, beleértve a lenyűgöző plébániatemplomot is. Ebéd után a Hercegi Vár múzeumában elmerülhet a helytörténetben, majd a délután az elmélkedésé és a Vorderbad múzeum egyedi atmoszférájáé. Az estét egy kellemes sétával zárhatja az Inn folyó partján.",
+        "ro": "Ziua dvs. în Braunau începe în vibranta piață centrală, înconjurată de clădiri istorice magnifice. Dimineața este dedicată explorării inimii gotice a orașului, cu o vizită la impunătoarea biserică parohială. După o incursiune în istoria regională la muzeul din Castelul Ducal la prânz, după-amiaza vă duce la locuri de reflecție și în atmosfera unică a vechiului muzeu Vorderbad. Seara se poate încheia cu o plimbare relaxantă pe malul râului Inn.",
+        "en": "Your day in Braunau begins at the lively town square, surrounded by magnificent historic buildings. The morning is dedicated to exploring the town's Gothic heart, with a visit to the imposing parish church. After a deep dive into regional history at the Ducal Castle museum at noon, the afternoon takes you to places of reflection and into the unique atmosphere of the old Vorderbad museum. You can end the evening with a relaxing stroll along the Inn riverbank."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Innviertler Knödel",
+            "tip": "Probieren Sie diese regionalen Knödel in einem traditionellen Gasthaus."
+          },
+          {
+            "name": "Tafelspitz",
+            "tip": "Ein klassisches österreichisches Rindfleischgericht, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Kein Österreich-Besuch ohne einen warmen Apfelstrudel mit Vanillesauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Innviertleri gombóc",
+            "tip": "Kóstolja meg ezt a regionális gombóckülönlegességet egy hagyományos vendéglőben."
+          },
+          {
+            "name": "Tafelspitz",
+            "tip": "Klasszikus osztrák marhahúsétel, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Almás rétes",
+            "tip": "Nincs ausztriai látogatás egy meleg, vaníliaszósszal tálalt almás rétes nélkül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Găluște din Innviertel",
+            "tip": "Încercați aceste găluște regionale într-un han tradițional."
+          },
+          {
+            "name": "Tafelspitz",
+            "tip": "Un fel de mâncare clasic austriac din carne de vită, perfect după o plimbare lungă."
+          },
+          {
+            "name": "Strudel cu mere",
+            "tip": "Nicio vizită în Austria nu este completă fără un strudel cald cu mere și sos de vanilie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Innviertel Dumplings",
+            "tip": "Try these regional dumplings in a traditional guesthouse."
+          },
+          {
+            "name": "Tafelspitz",
+            "tip": "A classic Austrian boiled beef dish, perfect after a long walk."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "No visit to Austria is complete without a warm apple strudel with vanilla sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innufer",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses bietet eine entspannende Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof Braunau",
+            "tip": "Ein Ort der Stille und Geschichte, abseits des Trubels.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kirchenbank in St. Stephan",
+            "tip": "Finden Sie einen Moment der Ruhe im kühlen Inneren der Kirche.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Inn folyó partja",
+            "tip": "Egy csendes séta a folyó mentén pihentető kikapcsolódást nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Braunaui temető",
+            "tip": "A csend és a történelem helye, távol a nyüzsgéstől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pad a Szent István-templomban",
+            "tip": "Találjon egy csendes pillanatot a templom hűvös belsejében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Inn",
+            "tip": "O plimbare liniștită de-a lungul râului oferă o pauză relaxantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul din Braunau",
+            "tip": "Un loc de liniște și istorie, departe de agitație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bancă în Biserica Sf. Ștefan",
+            "tip": "Găsiți un moment de liniște în interiorul răcoros al bisericii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Inn Riverbank",
+            "tip": "A quiet walk along the river offers a relaxing break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Braunau Cemetery",
+            "tip": "A place of silence and history, away from the hustle and bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pew in St. Stephen's",
+            "tip": "Find a moment of peace in the cool interior of the church.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Freitag hier sind, finden Sie lokale Produkte und Handwerk."
+          },
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach kleinen Geschäften, die traditionelle Souvenirs und Kunsthandwerk aus dem Innviertel verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Ha pénteken jár itt, helyi termékeket és kézműves árukat talál."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kis üzleteket, amelyek hagyományos Innviertel-i ajándéktárgyakat és kézműves termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți aici într-o vineri, veți găsi produse locale și artizanat."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați magazine mici care vând suveniruri tradiționale și artizanat din regiunea Innviertel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "If you're here on a Friday, you'll find local produce and crafts."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for small shops selling traditional souvenirs and crafts from the Innviertel region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster ermüdend sein kann.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Nehmen Sie sich Zeit für einen Kaffee in einem der Cafés am Stadtplatz."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő fárasztó lehet.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "Szánjon időt egy kávéra a főtéri kávézók egyikében."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi obositor.",
+          "Verificați în avans orele de deschidere ale muzeelor.",
+          "Luați-vă timp pentru o cafea la una dintre cafenelele din piața centrală."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the cobblestones can be tiring.",
+          "Check the opening hours of the museums in advance.",
+          "Take time for a coffee at one of the cafés on the town square."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 3.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz",
+            "hu": "Város Főtere",
+            "ro": "Piața Centrală",
+            "en": "Town Square"
+          },
+          "coords": [
+            13.035,
+            48.2585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad ab und erkunden Sie den Platz zu Fuß.",
+            "hu": "Zárja le a biciklit és fedezze fel a teret gyalog.",
+            "ro": "Încuiați-vă bicicleta și explorați piața pe jos.",
+            "en": "Lock up your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Stephan",
+            "hu": "Szent István plébániatemplom",
+            "ro": "Biserica Parohială Sf. Ștefan",
+            "en": "St. Stephen's Parish Church"
+          },
+          "coords": [
+            13.0365,
+            48.2588
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Kirchturm ist weithin sichtbar und ein guter Orientierungspunkt.",
+            "hu": "A templomtorony messziről látható és jó tájékozódási pont.",
+            "ro": "Turnul bisericii este vizibil de la distanță și un bun punct de orientare.",
+            "en": "The church tower is visible from afar and a good landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Vorderbad",
+            "hu": "Vorderbad (Régi fürdő)",
+            "ro": "Vorderbad (Baia veche)",
+            "en": "Vorderbad (Old Bathhouse)"
+          },
+          "coords": [
+            13.0358,
+            48.2575
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für dieses faszinierende Museum ein.",
+            "hu": "Szánjon elegendő időt erre a lenyűgöző múzeumra.",
+            "ro": "Planificați suficient timp pentru acest muzeu fascinant.",
+            "en": "Allow plenty of time for this fascinating museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Herzogsburg & Bezirksmuseum",
+            "hu": "Hercegi Vár és Kerületi Múzeum",
+            "ro": "Castelul Ducal și Muzeul Districtual",
+            "en": "Ducal Castle & District Museum"
+          },
+          "coords": [
+            13.033,
+            48.2595
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die Burg liegt direkt am malerischen Innufer-Radweg.",
+            "hu": "A vár közvetlenül a festői Inn-parti kerékpárút mellett fekszik.",
+            "ro": "Castelul este situat direct pe pitoreasca pistă de biciclete de pe malul Innului.",
+            "en": "The castle is located right on the picturesque Inn riverbank cycle path."
+          }
+        },
+        {
+          "name": {
+            "de": "Mahnstein gegen Krieg und Faschismus",
+            "hu": "Háború és Fasizmus Elleni Emlékkő",
+            "ro": "Piatra Memorială Împotriva Războiului și Fascismului",
+            "en": "Memorial Stone Against War and Fascism"
+          },
+          "coords": [
+            13.0328,
+            48.2592
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:30",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber wichtiger Halt auf Ihrer Tour.",
+            "hu": "Egy rövid, de fontos megálló a túra során.",
+            "ro": "O oprire scurtă, dar importantă, în turul dumneavoastră.",
+            "en": "A short but important stop on your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmdenkmal",
+            "hu": "Palm-emlékmű",
+            "ro": "Monumentul Palm",
+            "en": "Palm Monument"
+          },
+          "coords": [
+            13.032,
+            48.2589
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:50",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erinnert an den Nürnberger Buchhändler Johann Philipp Palm.",
+            "hu": "A nürnbergi könyvkereskedő, Johann Philipp Palm emlékére.",
+            "ro": "Comemorează librarul din Nürnberg, Johann Philipp Palm.",
+            "en": "Commemorates the Nuremberg bookseller Johann Philipp Palm."
+          }
+        },
+        {
+          "name": {
+            "de": "Radeln am Innufer",
+            "hu": "Biciklizés az Inn partján",
+            "ro": "Plimbare cu bicicleta pe malul Innului",
+            "en": "Cycling on the Inn riverbank"
+          },
+          "coords": [
+            13.03,
+            48.26
+          ],
+          "category": "nature",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die flache und malerische Strecke entlang des Flusses.",
+            "hu": "Élvezze a sík és festői szakaszt a folyó mentén.",
+            "ro": "Bucurați-vă de traseul plat și pitoresc de-a lungul râului.",
+            "en": "Enjoy the flat and scenic route along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Braunau schnell und flexibel. Starten Sie am Stadtplatz, bevor Sie zur Stadtpfarrkirche radeln. Am Vormittag entdecken Sie die einzigartigen Museen Vorderbad und Herzogsburg. Nach dem Mittagessen und einem besinnlichen Moment am Mahnstein, führt Sie der Nachmittag auf den wunderschönen Radweg entlang des Inns, wo Sie die Natur und die Ruhe genießen können, bevor Sie in die Stadt zurückkehren.",
+        "hu": "Kerékpárral gyorsan és rugalmasan fedezheti fel Braunaut. Induljon a főtérről, majd tekerjen el a plébániatemplomhoz. Délelőtt fedezze fel az egyedülálló Vorderbad és Herzogsburg múzeumokat. Ebéd és az emlékkőnél tett elgondolkodó pillanat után a délután a gyönyörű Inn-parti kerékpárútra vezet, ahol élvezheti a természetet és a nyugalmat, mielőtt visszatérne a városba.",
+        "ro": "Cu bicicleta, explorați Braunau rapid și flexibil. Începeți din piața centrală înainte de a pedala spre biserica parohială. Dimineața, descoperiți muzeele unice Vorderbad și Herzogsburg. După prânz și un moment de reculegere la piatra memorială, după-amiaza vă duce pe frumoasa pistă de biciclete de-a lungul râului Inn, unde vă puteți bucura de natură și liniște înainte de a vă întoarce în oraș.",
+        "en": "By bike, you can explore Braunau quickly and flexibly. Start at the town square before cycling to the parish church. In the morning, discover the unique Vorderbad and Herzogsburg museums. After lunch and a moment of reflection at the memorial stone, the afternoon takes you to the beautiful cycle path along the Inn river, where you can enjoy nature and tranquility before returning to the town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthaus zum Schiff",
+            "tip": "Traditionelle österreichische Küche direkt am Innufer."
+          },
+          {
+            "name": "Radler",
+            "tip": "Das perfekte Getränk für eine Pause auf Ihrer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthaus zum Schiff",
+            "tip": "Hagyományos osztrák konyha közvetlenül az Inn partján."
+          },
+          {
+            "name": "Radler",
+            "tip": "A tökéletes ital egy szünethez a kerékpártúrán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthaus zum Schiff",
+            "tip": "Bucătărie tradițională austriacă chiar pe malul Innului."
+          },
+          {
+            "name": "Radler",
+            "tip": "Băutura perfectă pentru o pauză în timpul turului cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthaus zum Schiff",
+            "tip": "Traditional Austrian cuisine right on the banks of the Inn."
+          },
+          {
+            "name": "Radler",
+            "tip": "The perfect drink for a break on your bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innufer-Radweg",
+            "tip": "Finden Sie eine Bank und beobachten Sie das fließende Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park bei der Herzogsburg",
+            "tip": "Eine kleine grüne Oase im Herzen der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Inn-parti kerékpárút",
+            "tip": "Keressen egy padot és nézze a hömpölygő vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park a Hercegi Várnál",
+            "tip": "Egy kis zöld oázis a város szívében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul Innului",
+            "tip": "Găsiți o bancă și priviți apa curgătoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de lângă Castelul Ducal",
+            "tip": "O mică oază de verdeață în inima orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Inn riverbank cycle path",
+            "tip": "Find a bench and watch the flowing water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park at the Ducal Castle",
+            "tip": "A small green oasis in the heart of the town.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Bauernladen",
+            "tip": "Suchen Sie nach lokalen Spezialitäten wie Honig oder Schnaps als Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha tartozékra vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Termelői bolt",
+            "tip": "Keressen helyi különlegességeket, mint a méz vagy a pálinka, ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau o reparație rapidă."
+          },
+          {
+            "name": "Magazin agricol",
+            "tip": "Căutați specialități locale precum miere sau rachiu ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop",
+            "tip": "In case you need accessories or a quick repair."
+          },
+          {
+            "name": "Farm shop",
+            "tip": "Look for local specialties like honey or schnapps as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Inn-Radweg ist sehr beliebt, achten Sie auf andere Radfahrer und Fußgänger.",
+          "Die Altstadt hat Kopfsteinpflaster, fahren Sie vorsichtig.",
+          "Vergessen Sie nicht, ein Schloss für Ihr Fahrrad mitzubringen."
+        ],
+        "hu": [
+          "Az Inn-parti kerékpárút nagyon népszerű, figyeljen a többi kerékpárosra és gyalogosra.",
+          "Az óvárosban macskakő van, vezessen óvatosan.",
+          "Ne felejtsen el lakatot vinni a kerékpárjához."
+        ],
+        "ro": [
+          "Pista de biciclete de pe malul Innului este foarte populară, fiți atenți la alți bicicliști și pietoni.",
+          "Centrul vechi are pavaj, conduceți cu prudență.",
+          "Nu uitați să aduceți un lacăt pentru bicicletă."
+        ],
+        "en": [
+          "The Inn cycle path is very popular, watch out for other cyclists and pedestrians.",
+          "The old town has cobblestones, ride carefully.",
+          "Don't forget to bring a lock for your bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 1.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare Centrală",
+            "en": "Central Car Park"
+          },
+          "coords": [
+            13.037,
+            48.257
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Tag, die Altstadt ist komplett zu Fuß erreichbar.",
+            "hu": "Parkoljon le itt egész napra, az óváros teljesen gyalogosan bejárható.",
+            "ro": "Parcați aici pentru întreaga zi, centrul vechi este complet accesibil pe jos.",
+            "en": "Park here for the day; the old town is completely accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtplatz & Rathaus",
+            "hu": "Főtér és Városháza",
+            "ro": "Piața Centrală și Primăria",
+            "en": "Town Square & Town Hall"
+          },
+          "coords": [
+            13.035,
+            48.2585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Spaziergang im Herzen der historischen Altstadt.",
+            "hu": "Kezdje a sétát a történelmi óváros szívében.",
+            "ro": "Începeți plimbarea în inima centrului istoric.",
+            "en": "Start your walk in the heart of the historic old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Stephan",
+            "hu": "Szent István plébániatemplom",
+            "ro": "Biserica Parohială Sf. Ștefan",
+            "en": "St. Stephen's Parish Church"
+          },
+          "coords": [
+            13.0365,
+            48.2588
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der beeindruckende 87 Meter hohe Turm dominiert die Stadtsilhouette.",
+            "hu": "A lenyűgöző, 87 méter magas torony uralja a város sziluettjét.",
+            "ro": "Impresionantul turn de 87 de metri domină silueta orașului.",
+            "en": "The impressive 87-meter-high tower dominates the town's skyline."
+          }
+        },
+        {
+          "name": {
+            "de": "Vorderbad",
+            "hu": "Vorderbad (Régi fürdő)",
+            "ro": "Vorderbad (Baia veche)",
+            "en": "Vorderbad (Old Bathhouse)"
+          },
+          "coords": [
+            13.0358,
+            48.2575
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die mittelalterliche Bade- und Medizingeschichte.",
+            "hu": "Merüljön el a középkori fürdőzés és orvoslás történetében.",
+            "ro": "Cufundați-vă în istoria băilor și a medicinei medievale.",
+            "en": "Immerse yourself in the history of medieval bathing and medicine."
+          }
+        },
+        {
+          "name": {
+            "de": "Herzogsburg & Bezirksmuseum",
+            "hu": "Hercegi Vár és Kerületi Múzeum",
+            "ro": "Castelul Ducal și Muzeul Districtual",
+            "en": "Ducal Castle & District Museum"
+          },
+          "coords": [
+            13.033,
+            48.2595
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Spaziergang hierher führt Sie durch charmante Gassen.",
+            "hu": "Az ide vezető séta hangulatos sikátorokon keresztül vezet.",
+            "ro": "O plimbare până aici vă va purta pe alei fermecătoare.",
+            "en": "A walk here takes you through charming alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Mahnstein & Innufer",
+            "hu": "Emlékkő és az Inn partja",
+            "ro": "Piatra Memorială și malul Innului",
+            "en": "Memorial Stone & Inn Riverbank"
+          },
+          "coords": [
+            13.0328,
+            48.2592
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch des Mahnsteins mit einem entspannenden Spaziergang am Fluss.",
+            "hu": "Kösse össze az emlékkő meglátogatását egy pihentető sétával a folyóparton.",
+            "ro": "Combinați vizita la piatra memorială cu o plimbare relaxantă pe malul râului.",
+            "en": "Combine the visit to the memorial stone with a relaxing walk on the riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Für Autofahrer ist Braunau ideal: Parken Sie Ihr Auto im Zentrum und erkunden Sie alles zu Fuß. Der Tag beginnt mit einem Spaziergang über den historischen Stadtplatz. Der Vormittag ist den kulturellen Highlights gewidmet: der Stadtpfarrkirche und dem einzigartigen Vorderbad-Museum. Nach dem Mittagessen schlendern Sie zur Herzogsburg, um in die Geschichte einzutauchen, und beenden den Tag mit einem nachdenklichen Moment am Mahnstein und einem Blick auf den Inn.",
+        "hu": "Az autósok számára Braunau ideális: parkolja le autóját a központban, és fedezzen fel mindent gyalog. A nap a történelmi főtéren tett sétával kezdődik. A délelőtt a kulturális látnivalóké: a plébániatemplomé és az egyedülálló Vorderbad múzeumé. Ebéd után sétáljon el a Hercegi Várhoz, hogy elmerüljön a történelemben, és a napot egy elgondolkodtató pillanattal zárja az emlékkőnél és egy pillantással az Inn folyóra.",
+        "ro": "Pentru șoferi, Braunau este ideal: parcați mașina în centru și explorați totul pe jos. Ziua începe cu o plimbare prin piața istorică a orașului. Dimineața este dedicată punctelor de atracție culturală: biserica parohială și muzeul unic Vorderbad. După prânz, plimbați-vă la Castelul Ducal pentru a vă cufunda în istorie și încheiați ziua cu un moment de reflecție la piatra memorială și o privire la râul Inn.",
+        "en": "For drivers, Braunau is ideal: park your car in the center and explore everything on foot. The day begins with a walk through the historic town square. The morning is dedicated to cultural highlights: the parish church and the unique Vorderbad museum. After lunch, stroll to the Ducal Castle to immerse yourself in history and end the day with a reflective moment at the memorial stone and a view of the Inn river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof Wirt z'Ach",
+            "tip": "Etwas außerhalb gelegen, aber die Fahrt für authentische, hochwertige Küche wert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof Wirt z'Ach",
+            "tip": "Kicsit kijjebb esik, de megéri az utat az autentikus, minőségi konyháért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthof Wirt z'Ach",
+            "tip": "Situat puțin în afara orașului, dar merită drumul pentru bucătăria autentică și de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof Wirt z'Ach",
+            "tip": "Located a bit outside, but worth the drive for authentic, high-quality cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick von der Innbrücke",
+            "tip": "Genießen Sie die Aussicht auf die Stadt und das bayerische Ufer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás az Inn-hídról",
+            "tip": "Élvezze a városra és a bajor partra nyíló kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de pe podul Inn",
+            "tip": "Bucurați-vă de priveliștea orașului și a malului bavarez.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Inn bridge",
+            "tip": "Enjoy the view of the town and the Bavarian bank.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Produkte",
+            "tip": "Nutzen Sie das Auto, um in Hofläden im Umland Spezialitäten einzukaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Használja ki az autót, hogy a környékbeli termelői boltokban vásároljon különlegességeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse regionale",
+            "tip": "Folosiți mașina pentru a cumpăra specialități de la magazinele fermelor din jur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional Products",
+            "tip": "Use the car to buy specialties from farm shops in the surrounding area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Suchen Sie nach einem Tagesparkplatz, um Gebühren zu sparen.",
+          "Die Altstadt ist eine Fußgängerzone; das Auto ist hier keine Hilfe.",
+          "Beachten Sie die Parkregelungen und eventuelle Kurzparkzonen."
+        ],
+        "hu": [
+          "Keressen egy egész napos parkolót, hogy spóroljon a díjakon.",
+          "Az óváros sétálóövezet; az autó itt nem segítség.",
+          "Vegye figyelembe a parkolási szabályokat és az esetleges rövid távú parkolási zónákat."
+        ],
+        "ro": [
+          "Căutați o parcare de o zi pentru a economisi taxe.",
+          "Centrul vechi este o zonă pietonală; mașina nu vă ajută aici.",
+          "Respectați regulile de parcare și posibilele zone de parcare pe termen scurt."
+        ],
+        "en": [
+          "Look for a day parking lot to save on fees.",
+          "The old town is a pedestrian zone; the car is no help here.",
+          "Pay attention to parking regulations and any short-term parking zones."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Braunau",
+            "hu": "Braunau buszpályaudvar",
+            "ro": "Autogara Braunau",
+            "en": "Braunau Bus Station"
+          },
+          "coords": [
+            13.04,
+            48.256
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der zentrale Knotenpunkt für alle regionalen Buslinien. Von hier aus ist die Altstadt nur wenige Gehminuten entfernt.",
+            "hu": "Az összes regionális buszjárat központi csomópontja. Innen az óváros csak néhány perc sétára van.",
+            "ro": "Nodul central pentru toate liniile de autobuz regionale. De aici, centrul vechi este la doar câteva minute de mers pe jos.",
+            "en": "The central hub for all regional bus lines. From here, the old town is just a few minutes' walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Vorderbad",
+            "hu": "Vorderbad (Régi fürdő)",
+            "ro": "Vorderbad (Baia veche)",
+            "en": "Vorderbad (Old Bathhouse)"
+          },
+          "coords": [
+            13.0358,
+            48.2575
+          ],
+          "category": "museums",
+          "arrive_at": "09:30",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ihr erster Halt ist eines der faszinierendsten Museen der Stadt.",
+            "hu": "Az első megálló a város egyik leglenyűgözőbb múzeuma.",
+            "ro": "Prima oprire este unul dintre cele mai fascinante muzee ale orașului.",
+            "en": "Your first stop is one of the city's most fascinating museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtplatz",
+            "hu": "Város Főtere",
+            "ro": "Piața Centrală",
+            "en": "Town Square"
+          },
+          "coords": [
+            13.035,
+            48.2585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die Atmosphäre des zentralen Treffpunkts von Braunau.",
+            "hu": "Tapasztalja meg Braunau központi találkozóhelyének hangulatát.",
+            "ro": "Experimentați atmosfera punctului central de întâlnire din Braunau.",
+            "en": "Experience the atmosphere of Braunau's central meeting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Stephan",
+            "hu": "Szent István plébániatemplom",
+            "ro": "Biserica Parohială Sf. Ștefan",
+            "en": "St. Stephen's Parish Church"
+          },
+          "coords": [
+            13.0365,
+            48.2588
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der Spätgotik und ein Muss für jeden Besucher.",
+            "hu": "A késő gótika mesterműve, minden látogató számára kötelező.",
+            "ro": "O capodoperă a goticului târziu și o necesitate pentru fiecare vizitator.",
+            "en": "A masterpiece of late Gothic architecture and a must-see for every visitor."
+          }
+        },
+        {
+          "name": {
+            "de": "Herzogsburg & Bezirksmuseum",
+            "hu": "Hercegi Vár és Kerületi Múzeum",
+            "ro": "Castelul Ducal și Muzeul Districtual",
+            "en": "Ducal Castle & District Museum"
+          },
+          "coords": [
+            13.033,
+            48.2595
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen erwartet Sie eine Reise in die Vergangenheit der Region.",
+            "hu": "Ebéd után utazás vár Önre a régió múltjába.",
+            "ro": "După prânz, vă așteaptă o călătorie în trecutul regiunii.",
+            "en": "After lunch, a journey into the region's past awaits you."
+          }
+        },
+        {
+          "name": {
+            "de": "Mahnstein & Palmdenkmal",
+            "hu": "Emlékkő és Palm-emlékmű",
+            "ro": "Piatra Memorială și Monumentul Palm",
+            "en": "Memorial Stone & Palm Monument"
+          },
+          "coords": [
+            13.0328,
+            48.2592
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zwei wichtige Denkmäler, die zum Nachdenken anregen.",
+            "hu": "Két fontos emlékmű, amelyek elgondolkodtatnak.",
+            "ro": "Două monumente importante care invită la reflecție.",
+            "en": "Two important monuments that invite reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Anreise mit dem Bus führt Sie direkt ins Herz des Geschehens. Vom Busbahnhof aus ist es nur ein kurzer Spaziergang zu den Hauptattraktionen. Beginnen Sie mit dem faszinierenden Vorderbad-Museum, bevor Sie das pulsierende Leben am Stadtplatz erleben. Der Nachmittag steht im Zeichen der Geschichte, mit Besuchen in der gotischen Kirche und der Herzogsburg. Ein Spaziergang zu den Denkmälern am Innufer rundet Ihren Tag ab, bevor Sie den Bus zurück nehmen.",
+        "hu": "A buszos érkezés közvetlenül az események sűrűjébe viszi. A buszpályaudvartól csak egy rövid séta a fő látnivalókig. Kezdje a lenyűgöző Vorderbad múzeummal, mielőtt megtapasztalná a nyüzsgő életet a főtéren. A délután a történelem jegyében telik, a gótikus templom és a Hercegi Vár meglátogatásával. Az Inn-parti emlékművekhez tett séta zárja a napot, mielőtt visszaindulna a busszal.",
+        "ro": "Sosirea cu autobuzul vă duce direct în inima acțiunii. De la autogară, atracțiile principale sunt la o scurtă plimbare. Începeți cu fascinantul muzeu Vorderbad înainte de a experimenta viața vibrantă din piața centrală. După-amiaza este dedicată istoriei, cu vizite la biserica gotică și la Castelul Ducal. O plimbare la monumentele de pe malul Innului încheie ziua înainte de a lua autobuzul înapoi.",
+        "en": "Your arrival by bus takes you right into the heart of the action. From the bus station, it's just a short walk to the main attractions. Start with the fascinating Vorderbad museum before experiencing the vibrant life on the town square. The afternoon is dedicated to history, with visits to the Gothic church and the Ducal Castle. A walk to the monuments on the Inn riverbank rounds off your day before you take the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei-Café",
+            "tip": "Stärken Sie sich mit einem Kaffee und einem Stück Kuchen, bevor Sie die Stadt erkunden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség-kávézó",
+            "tip": "Erősítse meg magát egy kávéval és egy szelet süteménnyel a város felfedezése előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie-Cafenea",
+            "tip": "Întăriți-vă cu o cafea și o felie de prăjitură înainte de a explora orașul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery-Café",
+            "tip": "Fortify yourself with a coffee and a piece of cake before exploring the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leseecke in der Stadtbibliothek",
+            "tip": "Eine unerwartete Oase der Ruhe, falls Sie eine Pause brauchen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasósarok a városi könyvtárban",
+            "tip": "Egy váratlan béke-sziget, ha szünetre van szüksége.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colț de lectură la biblioteca orașului",
+            "tip": "O oază neașteptată de liniște dacă aveți nevoie de o pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading corner in the town library",
+            "tip": "An unexpected oasis of calm if you need a break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Für eine Zeitung oder ein schnelles Getränk für die Rückfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Újságért vagy egy gyors italért a visszaútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Pentru un ziar sau o băutură rapidă pentru călătoria de întoarcere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "For a newspaper or a quick drink for the return journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich vorab über die Busfahrpläne, besonders für die letzte Rückfahrt.",
+          "Eine Tageskarte kann günstiger sein als Einzelfahrscheine.",
+          "Beachten Sie, dass die Altstadt von Braunau sehr kompakt ist und alles leicht zu Fuß erreichbar ist."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszmenetrendekről, különösen az utolsó visszaindulásról.",
+          "Egy napijegy olcsóbb lehet, mint a vonaljegyek.",
+          "Vegye figyelembe, hogy Braunau óvárosa nagyon kompakt, és minden könnyen elérhető gyalog."
+        ],
+        "ro": [
+          "Informați-vă în prealabil despre orarele autobuzelor, în special pentru ultima călătorie de întoarcere.",
+          "Un bilet de o zi poate fi mai ieftin decât biletele individuale.",
+          "Rețineți că centrul vechi al orașului Braunau este foarte compact și totul este ușor accesibil pe jos."
+        ],
+        "en": [
+          "Find out about the bus schedules in advance, especially for the last return trip.",
+          "A day ticket can be cheaper than single tickets.",
+          "Note that Braunau's old town is very compact and everything is easily accessible on foot."
+        ]
+      }
+    }
+  }
+}

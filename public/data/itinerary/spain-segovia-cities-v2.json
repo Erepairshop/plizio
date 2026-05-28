@@ -1,0 +1,1221 @@
+{
+  "city_id": "spain-segovia-cities-v2",
+  "anchor": {
+    "name": "Segovia",
+    "coords": [
+      40.9429,
+      -4.1088
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Aquädukt von Segovia",
+            "hu": "Segovia vízvezetéke",
+            "ro": "Apeductul din Segovia",
+            "en": "Aqueduct of Segovia"
+          },
+          "coords": [
+            40.9477,
+            -4.1175
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Gehen Sie die Treppe hinauf für eine tolle Aussicht von oben.",
+            "hu": "Menj fel a lépcsőn a tetejéről nyíló remek kilátásért.",
+            "ro": "Urcați scările pentru o priveliște superbă de sus.",
+            "en": "Climb the stairs for a great view from the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de los Picos",
+            "hu": "Casa de los Picos",
+            "ro": "Casa de los Picos",
+            "en": "Casa de los Picos"
+          },
+          "coords": [
+            40.9495,
+            -4.1201
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die einzigartige Fassade mit über 600 Granitspitzen.",
+            "hu": "Figyeld meg az egyedülálló homlokzatot, amelyet több mint 600 gránitcsúcs díszít.",
+            "ro": "Observați fațada unică cu peste 600 de vârfuri de granit.",
+            "en": "Notice the unique facade with over 600 granite peaks."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel (La Judería)",
+            "hu": "Zsidó negyed (La Judería)",
+            "ro": "Cartierul Evreiesc (La Judería)",
+            "en": "Jewish Quarter (La Judería)"
+          },
+          "coords": [
+            40.9501,
+            -4.125
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Verirren Sie sich in den engen Gassen und entdecken Sie versteckte Innenhöfe.",
+            "hu": "Tévedj el a szűk utcákon, és fedezz fel rejtett udvarokat.",
+            "ro": "Rătăciți-vă pe străduțele înguste pentru a descoperi curți ascunse.",
+            "en": "Get lost in the narrow streets to discover hidden courtyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Segovia",
+            "hu": "Segoviai székesegyház",
+            "ro": "Catedrala din Segovia",
+            "en": "Segovia Cathedral"
+          },
+          "coords": [
+            40.9503,
+            -4.1258
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie am späten Nachmittag, um das goldene Licht durch die Buntglasfenster zu sehen.",
+            "hu": "Látogass el késő délután, hogy lásd az ólomüveg ablakokon átsütő arany fényt.",
+            "ro": "Vizitați după-amiaza târziu pentru a vedea lumina aurie prin vitralii.",
+            "en": "Visit in the late afternoon to see the golden light through the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Alcázar von Segovia",
+            "hu": "Segoviai Alcázar",
+            "ro": "Alcázar din Segovia",
+            "en": "Alcázar of Segovia"
+          },
+          "coords": [
+            40.9525,
+            -4.1322
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm für eine atemberaubende Aussicht, es lohnt sich.",
+            "hu": "Mássz fel a toronyba a lélegzetelállító kilátásért; megéri a fáradságot.",
+            "ro": "Urcați în turn pentru priveliști uluitoare; merită efortul.",
+            "en": "Climb the tower for breathtaking views; it's worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer von Segovia",
+            "hu": "Segovia városfala",
+            "ro": "Zidurile orașului Segovia",
+            "en": "City Walls of Segovia"
+          },
+          "coords": [
+            40.9488,
+            -4.13
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Spaziergang entlang der Mauern am späten Nachmittag bietet eine schöne Perspektive auf die Stadt.",
+            "hu": "Sétálj végig a falakon késő délután, hogy gyönyörű perspektívából lásd a várost.",
+            "ro": "O plimbare de-a lungul zidurilor după-amiaza târziu oferă o perspectivă frumoasă asupra orașului.",
+            "en": "A late afternoon walk along the walls offers a beautiful perspective of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Vera Cruz",
+            "hu": "Vera Cruz templom",
+            "ro": "Biserica Vera Cruz",
+            "en": "Church of Vera Cruz"
+          },
+          "coords": [
+            40.9554,
+            -4.1294
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die einzigartige zwölfeckige Form, die vom Heiligen Grab inspiriert ist.",
+            "hu": "Figyeld meg az egyedülálló tizenkétszögletű formát, amelyet a Szent Sír inspirált.",
+            "ro": "Observați forma unică dodecagonală, inspirată de Sfântul Mormânt.",
+            "en": "Note the unique twelve-sided shape, inspired by the Holy Sepulchre."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am beeindruckenden römischen Aquädukt. Schlendern Sie durch die Altstadt, vorbei an der Casa de los Picos, um zur prächtigen Kathedrale zu gelangen. Erkunden Sie am Nachmittag den märchenhaften Alcázar, bevor Sie entlang der alten Stadtmauern spazieren. Beenden Sie Ihren Tag mit einem Besuch der geheimnisvollen Kirche Vera Cruz.",
+        "hu": "Kezdje a napot a lenyűgöző római vízvezetéknél. Sétáljon át az óvároson a Casa de los Picos mellett, hogy elérje a csodálatos katedrálist. Délután fedezze fel a mesebeli Alcázart, mielőtt sétál egyet az ősi városfalak mentén. A napot a titokzatos Vera Cruz templom meglátogatásával zárja.",
+        "ro": "Începeți ziua la impresionantul apeduct roman. Plimbați-vă prin orașul vechi, trecând pe lângă Casa de los Picos, pentru a ajunge la magnifica catedrală. După-amiaza, explorați Alcázarul de basm înainte de o plimbare de-a lungul zidurilor vechi ale orașului. Încheiați ziua cu o vizită la misterioasa Biserică Vera Cruz.",
+        "en": "Start your day at the impressive Roman Aqueduct. Wander through the old town, past the Casa de los Picos, to reach the magnificent Cathedral. In the afternoon, explore the fairy-tale Alcázar before taking a walk along the ancient city walls. End your day with a visit to the mysterious Church of Vera Cruz."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cochinillo Asado (Spanferkel)",
+            "tip": "Probieren Sie es im Mesón de Cándido, einem Restaurant mit jahrhundertealter Tradition."
+          },
+          {
+            "name": "Judiones de La Granja",
+            "tip": "Ein herzhafter Bohneneintopf, perfekt für ein kühleres Wetter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cochinillo Asado (Sült malac)",
+            "tip": "Kóstolja meg a Mesón de Cándido-ban, egy évszázados hagyományokkal rendelkező étteremben."
+          },
+          {
+            "name": "Judiones de La Granja",
+            "tip": "Kiadós babgulyás, tökéletes hűvösebb időben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cochinillo Asado (Purceluș de lapte fript)",
+            "tip": "Încercați-l la Mesón de Cándido, un restaurant cu o tradiție de secole."
+          },
+          {
+            "name": "Judiones de La Granja",
+            "tip": "O tocană de fasole consistentă, perfectă pentru o vreme mai răcoroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cochinillo Asado (Roast Suckling Pig)",
+            "tip": "Try it at Mesón de Cándido, a restaurant with centuries of tradition."
+          },
+          {
+            "name": "Judiones de La Granja",
+            "tip": "A hearty bean stew, perfect for cooler weather."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Alcázar",
+            "tip": "Finden Sie eine ruhige Ecke in den formellen Gärten unterhalb der Festung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Eresma",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses mit Blick auf den Alcázar.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Alcázar kertjei",
+            "tip": "Keressen egy csendes zugot az erőd alatti szabályos kertekben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az Eresma folyó partja",
+            "tip": "Békés séta a folyó mentén, kilátással az Alcázarra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Alcázarului",
+            "tip": "Găsiți un colț liniștit în grădinile formale de sub fortăreață.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Eresma",
+            "tip": "O plimbare pașnică de-a lungul râului cu vedere la Alcázar.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of the Alcázar",
+            "tip": "Find a quiet corner in the formal gardens below the fortress.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the River Eresma",
+            "tip": "A peaceful walk along the river with views of the Alcázar.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kunsthandwerk aus Segovia",
+            "tip": "Suchen Sie nach Keramik und Lederwaren in den Geschäften rund um die Plaza Mayor."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Segoviai kézműves termékek",
+            "tip": "Keressen kerámiát és bőrárukat a Plaza Mayor körüli üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat din Segovia",
+            "tip": "Căutați ceramică și articole din piele în magazinele din jurul Plaza Mayor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Segovian Crafts",
+            "tip": "Look for ceramics and leather goods in the shops around Plaza Mayor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen der Altstadt aus Kopfsteinpflaster bestehen und hügelig sind.",
+          "Kaufen Sie eine kombinierte Eintrittskarte, falls verfügbar, um Zeit und Geld zu sparen.",
+          "Viele Geschäfte halten eine Siesta; planen Sie Ihre Einkäufe für den Vormittag oder späten Nachmittag."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros utcái macskakövesek és dombosak.",
+          "Vásároljon kombinált jegyet, ha van ilyen, hogy időt és pénzt takarítson meg.",
+          "Sok üzlet sziesztát tart; tervezze a vásárlást délelőttre vagy késő délutánra."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece străzile din orașul vechi sunt pietruite și deluroase.",
+          "Cumpărați un bilet de intrare combinat, dacă este disponibil, pentru a economisi timp și bani.",
+          "Multe magazine țin siesta; planificați-vă cumpărăturile pentru dimineață sau după-amiaza târziu."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town streets are cobblestoned and hilly.",
+          "Buy a combined entrance ticket if available to save time and money.",
+          "Many shops close for a siesta; plan your shopping for the morning or late afternoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aquädukt von Segovia",
+            "hu": "Segovia vízvezetéke",
+            "ro": "Apeductul din Segovia",
+            "en": "Aqueduct of Segovia"
+          },
+          "coords": [
+            40.9477,
+            -4.1175
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihre Tour und füllen Sie Ihre Wasserflasche an einem der nahegelegenen Brunnen.",
+            "hu": "Kezdje itt a túrát, és töltse fel a vizes palackját a közeli kutak egyikénél.",
+            "ro": "Începeți-vă turul aici și umpleți-vă sticla de apă la una dintre fântânile din apropiere.",
+            "en": "Start your tour here and fill up your water bottle at one of the nearby fountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Segovia",
+            "hu": "Segoviai székesegyház",
+            "ro": "Catedrala din Segovia",
+            "en": "Segovia Cathedral"
+          },
+          "coords": [
+            40.9503,
+            -4.1258
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und genießen Sie die kühle Atmosphäre im Inneren.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és élvezze a hűvös belső teret.",
+            "ro": "Legați-vă bicicleta în siguranță și bucurați-vă de atmosfera răcoroasă din interior.",
+            "en": "Lock your bike securely and enjoy the cool atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Alcázar von Segovia",
+            "hu": "Segoviai Alcázar",
+            "ro": "Alcázar din Segovia",
+            "en": "Alcázar of Segovia"
+          },
+          "coords": [
+            40.9525,
+            -4.1322
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:54",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Weg zum Alcázar bietet eine schöne Abfahrt. Bereiten Sie sich auf den Rückweg vor!",
+            "hu": "Az Alcázarhoz vezető út egy kellemes lejtő. Készülj fel a visszaútra!",
+            "ro": "Drumul spre Alcázar este o coborâre plăcută. Pregătiți-vă pentru urcarea la întoarcere!",
+            "en": "The ride to the Alcázar is a nice downhill slope. Be prepared for the climb back!"
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Santa María del Parral",
+            "hu": "Santa María del Parral kolostor",
+            "ro": "Mănăstirea Santa María del Parral",
+            "en": "Monastery of Santa María del Parral"
+          },
+          "coords": [
+            40.9546,
+            -4.1274
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:39",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für eine Pause, abseits der Haupttouristenpfade.",
+            "hu": "Egy csendes hely egy kis szünetre, távol a fő turistaútvonalaktól.",
+            "ro": "Un loc liniștit pentru o pauză, departe de principalele trasee turistice.",
+            "en": "A quiet spot for a break, away from the main tourist trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Vera Cruz",
+            "hu": "Vera Cruz templom",
+            "ro": "Biserica Vera Cruz",
+            "en": "Church of Vera Cruz"
+          },
+          "coords": [
+            40.9554,
+            -4.1294
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Von hier aus haben Sie einen einzigartigen Blick auf den Alcázar.",
+            "hu": "Innen egyedülálló kilátás nyílik az Alcázarra.",
+            "ro": "De aici aveți o perspectivă unică asupra Alcázarului.",
+            "en": "You get a unique viewpoint of the Alcázar from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Mirador de la Pradera de San Marcos",
+            "hu": "Mirador de la Pradera de San Marcos kilátó",
+            "ro": "Punct de vedere Mirador de la Pradera de San Marcos",
+            "en": "Mirador de la Pradera de San Marcos Viewpoint"
+          },
+          "coords": [
+            40.9548,
+            -4.1345
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:33",
+          "stay_min": 150,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für das klassische Foto des Alcázar, besonders bei Sonnenuntergang.",
+            "hu": "A tökéletes hely az Alcázar klasszikus fotójához, különösen naplementekor.",
+            "ro": "Locul perfect pentru fotografia clasică a Alcázarului, mai ales la apus.",
+            "en": "The perfect spot for that classic photo of the Alcázar, especially at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Aquädukt und radeln Sie bergauf zur Kathedrale. Genießen Sie die Fahrt hinunter zum Alcázar und überqueren Sie dann den Fluss, um das ruhige Kloster El Parral und die Kirche Vera Cruz zu erkunden. Am Nachmittag radeln Sie zum berühmten Mirador de San Marcos für den besten Blick auf das Schloss. Es ist eine Tour, die Geschichte und atemberaubende Landschaften perfekt verbindet.",
+        "hu": "Induljon a vízvezetéktől, és tekerjen fel a katedrálishoz. Élvezze a lejtőt az Alcázarig, majd keljen át a folyón, hogy felfedezze a csendes El Parral kolostort és a Vera Cruz templomot. Délután tekerjen el a híres Mirador de San Marcoshoz a legjobb kastélykilátásért. Ez a túra tökéletesen ötvözi a történelmet és a lenyűgöző tájakat.",
+        "ro": "Începeți de la Apeduct și pedalați în sus spre Catedrală. Bucurați-vă de coborârea spre Alcázar, apoi traversați râul pentru a explora liniștita mănăstire El Parral și biserica Vera Cruz. După-amiaza, pedalați spre faimosul Mirador de San Marcos pentru cea mai bună priveliște a castelului. Este un tur care îmbină perfect istoria și peisajele uimitoare.",
+        "en": "Start at the Aqueduct and pedal uphill to the Cathedral. Enjoy the ride down to the Alcázar, then cross the river to explore the tranquil El Parral Monastery and Vera Cruz Church. In the afternoon, cycle to the famous Mirador de San Marcos for the best castle view. It's a tour that perfectly blends history and stunning landscapes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ponche Segoviano",
+            "tip": "Ein traditioneller Kuchen, den Sie in jeder Konditorei finden."
+          },
+          {
+            "name": "Chorizo de Cantimpalos",
+            "tip": "Eine lokale Wurst, die Sie auf einem Sandwich oder als Tapa genießen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ponche Segoviano",
+            "tip": "Hagyományos sütemény, amelyet minden cukrászdában megtalálhat."
+          },
+          {
+            "name": "Chorizo de Cantimpalos",
+            "tip": "Helyi kolbász, amelyet szendvicsen vagy tapasként is fogyaszthat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ponche Segoviano",
+            "tip": "O prăjitură tradițională pe care o veți găsi în orice patiserie."
+          },
+          {
+            "name": "Chorizo de Cantimpalos",
+            "tip": "Un cârnat local de savurat într-un sandviș sau ca tapa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ponche Segoviano",
+            "tip": "A traditional cake you'll find in any pastry shop."
+          },
+          {
+            "name": "Chorizo de Cantimpalos",
+            "tip": "A local sausage to enjoy in a sandwich or as a tapa."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof der Juden",
+            "tip": "Ein ruhiger, historischer Ort mit Blick auf die Stadtmauern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park Alameda del Parral",
+            "tip": "Entspannen Sie sich im Schatten der Bäume nach dem Besuch des Klosters.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zsidó temető",
+            "tip": "Egy csendes, történelmi hely a városfalakra néző kilátással.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Alameda del Parral park",
+            "tip": "Pihenjen a fák árnyékában a kolostor látogatása után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Evreiesc",
+            "tip": "Un loc liniștit, istoric, cu vedere la zidurile orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Alameda del Parral",
+            "tip": "Relaxați-vă la umbra copacilor după vizitarea mănăstirii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jewish Cemetery",
+            "tip": "A quiet, historic spot with views of the city walls.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Alameda del Parral Park",
+            "tip": "Relax in the shade of the trees after visiting the monastery.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Lebensmittel",
+            "tip": "Kaufen Sie Käse und Wurst auf dem Mercado Municipal La Albuera."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi élelmiszerek",
+            "tip": "Vásároljon sajtot és kolbászt a Mercado Municipal La Albuera piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse alimentare locale",
+            "tip": "Cumpărați brânzeturi și mezeluri de la Mercado Municipal La Albuera."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Foods",
+            "tip": "Buy cheese and sausages at the Mercado Municipal La Albuera."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Segovia ist hügelig; ein E-Bike könnte eine gute Option sein.",
+          "Sperren Sie Ihr Fahrrad immer an, auch für kurze Stopps.",
+          "Nutzen Sie die Radwege entlang des Flusses für eine flache und landschaftlich reizvolle Fahrt."
+        ],
+        "hu": [
+          "Segovia dombos; egy e-bike jó választás lehet.",
+          "Mindig zárja le a kerékpárt, még rövid megállókra is.",
+          "Használja a folyó menti kerékpárutakat egy sík és festői útvonalért."
+        ],
+        "ro": [
+          "Segovia este deluroasă; o bicicletă electrică ar putea fi o opțiune bună.",
+          "Încuietoarea-ți bicicleta întotdeauna, chiar și pentru opriri scurte.",
+          "Folosiți pistele de biciclete de-a lungul râului pentru o plimbare plată și pitorească."
+        ],
+        "en": [
+          "Segovia is hilly; an e-bike might be a good option.",
+          "Always lock your bike, even for short stops.",
+          "Use the bike paths along the river for a flat and scenic ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 8.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Aquädukt",
+            "hu": "Parkoló a vízvezetéknél",
+            "ro": "Parcare la Apeduct",
+            "en": "Parking at the Aqueduct"
+          },
+          "coords": [
+            40.947,
+            -4.116
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Rundgang.",
+            "hu": "Parkoljon itt, és innen induljon a séta.",
+            "ro": "Parcați aici și începeți turul pietonal.",
+            "en": "Park here and start your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquädukt von Segovia",
+            "hu": "Segovia vízvezetéke",
+            "ro": "Apeductul din Segovia",
+            "en": "Aqueduct of Segovia"
+          },
+          "coords": [
+            40.9477,
+            -4.1175
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Beginn Ihres ersten Spaziergang-Clusters.",
+            "hu": "Az első séta-klaszter kezdete.",
+            "ro": "Începutul primului dvs. grup de mers pe jos.",
+            "en": "The start of your first walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Segovia & Plaza Mayor",
+            "hu": "Segoviai székesegyház és Plaza Mayor",
+            "ro": "Catedrala din Segovia & Plaza Mayor",
+            "en": "Segovia Cathedral & Plaza Mayor"
+          },
+          "coords": [
+            40.9503,
+            -4.1258
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Kathedrale und genießen Sie einen Kaffee auf dem Hauptplatz.",
+            "hu": "Szánjon időt a katedrálisra, és igyon meg egy kávét a főtéren.",
+            "ro": "Luați-vă timp pentru catedrală și savurați o cafea în piața principală.",
+            "en": "Take your time for the cathedral and enjoy a coffee in the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Alcázar von Segovia",
+            "hu": "Segoviai Alcázar",
+            "ro": "Alcázar din Segovia",
+            "en": "Alcázar of Segovia"
+          },
+          "coords": [
+            40.9525,
+            -4.1322
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:05",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz des Alcázar für Ihren zweiten Cluster.",
+            "hu": "Hajtson az Alcázar parkolójába a második klaszterhez.",
+            "ro": "Conduceți spre parcarea Alcázar pentru al doilea grup de obiective.",
+            "en": "Drive to the Alcázar parking for your second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Mirador de la Pradera de San Marcos",
+            "hu": "Mirador de la Pradera de San Marcos kilátó",
+            "ro": "Punct de vedere Mirador de la Pradera de San Marcos",
+            "en": "Mirador de la Pradera de San Marcos Viewpoint"
+          },
+          "coords": [
+            40.9548,
+            -4.1345
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:15",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Alcázar für die beste Aussicht.",
+            "hu": "Egy rövid séta az Alcázartól a legjobb kilátásért.",
+            "ro": "O scurtă plimbare de la Alcázar pentru cea mai bună priveliște.",
+            "en": "A short walk from the Alcázar for the best view."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Vera Cruz & Kloster El Parral",
+            "hu": "Vera Cruz templom és El Parral kolostor",
+            "ro": "Biserica Vera Cruz & Mănăstirea El Parral",
+            "en": "Church of Vera Cruz & El Parral Monastery"
+          },
+          "coords": [
+            40.9554,
+            -4.1294
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:25",
+          "stay_min": 130,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Der letzte Cluster des Tages. Parken Sie zwischen den beiden Stätten.",
+            "hu": "A nap utolsó klasztere. Parkoljon a két helyszín között.",
+            "ro": "Ultimul grup de obiective al zilei. Parcați între cele două situri.",
+            "en": "The last cluster of the day. Park between the two sites."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit dem Parken in der Nähe des Aquädukts und erkunden Sie die Altstadt und die Kathedrale zu Fuß. Am Mittag fahren Sie zum Alcázar, dem zweiten Höhepunkt. Nach der Erkundung des Schlosses und dem Genießen der Aussicht fahren Sie zu Ihrem letzten Cluster, um die geheimnisvolle Kirche Vera Cruz und das ruhige Kloster El Parral zu besuchen. Diese Route optimiert das Parken und minimiert den Stress.",
+        "hu": "Kezdje a parkolással a vízvezeték közelében, és fedezze fel gyalog az óvárost és a katedrálist. Délben vezessen az Alcázarhoz, a második fő látványossághoz. Miután felfedezte a kastélyt és élvezte a kilátást, hajtson az utolsó klaszterhez, a titokzatos Vera Cruz templomhoz és a csendes El Parral kolostorhoz. Ez az útvonal optimalizálja a parkolást és minimalizálja a stresszt.",
+        "ro": "Începeți prin a parca lângă Apeduct și explorați pe jos orașul vechi și catedrala. La amiază, conduceți spre Alcázar, al doilea punct culminant. După ce ați explorat castelul și v-ați bucurat de priveliști, conduceți spre ultimul grup de obiective pentru a vizita misterioasa Biserică Vera Cruz și liniștita Mănăstire El Parral. Acest traseu optimizează parcarea și minimizează stresul.",
+        "en": "Start by parking near the Aqueduct and explore the old town and Cathedral on foot. At midday, drive to the Alcázar, the second highlight. After exploring the castle and enjoying the views, drive to your final cluster to visit the mysterious Vera Cruz Church and the tranquil El Parral Monastery. This route optimizes parking and minimizes stress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Forelle auf segovianische Art",
+            "tip": "Ein einfach zubereitetes, aber köstliches Fischgericht."
+          },
+          {
+            "name": "Dessert: Florones",
+            "tip": "Knusprige, blumenförmige frittierte Teilchen, oft mit Puderzucker bestreut."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Segoviai stílusú pisztráng",
+            "tip": "Egyszerűen elkészített, de finom halétel."
+          },
+          {
+            "name": "Desszert: Florones",
+            "tip": "Ropogós, virág alakú sült tészta, gyakran porcukorral meghintve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Păstrăv în stil segovian",
+            "tip": "Un fel de mâncare de pește simplu preparat, dar delicios."
+          },
+          {
+            "name": "Desert: Florones",
+            "tip": "Gogoși crocante, în formă de floare, adesea presărate cu zahăr pudră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Segovian-style Trout",
+            "tip": "A simply prepared but delicious fish dish."
+          },
+          {
+            "name": "Dessert: Florones",
+            "tip": "Crispy, flower-shaped fried pastries, often dusted with powdered sugar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zamarramala",
+            "tip": "Fahren Sie in dieses nahegelegene Dorf für einen atemberaubenden Panoramablick auf Segovia.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten von La Granja",
+            "tip": "Wenn Sie Zeit haben, ist eine kurze Fahrt zu den königlichen Gärten sehr lohnenswert.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zamarramala",
+            "tip": "Vezessen el ebbe a közeli faluba, ahonnan lenyűgöző panoráma nyílik Segoviára.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "La Granja kertjei",
+            "tip": "Ha van ideje, egy rövid autóút a királyi kertekhez nagyon is megéri.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zamarramala",
+            "tip": "Conduceți până la acest sat din apropiere pentru o vedere panoramică uluitoare a Segoviei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile La Granja",
+            "tip": "Dacă aveți timp, o scurtă călătorie cu mașina la grădinile regale merită din plin.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zamarramala",
+            "tip": "Drive to this nearby village for a stunning panoramic view of Segovia.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of La Granja",
+            "tip": "If you have time, a short drive to the royal gardens is very rewarding.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein aus der Region",
+            "tip": "Suchen Sie nach Weinen aus der nahegelegenen Region Ribera del Duero."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Keressen borokat a közeli Ribera del Duero régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Căutați vinuri din regiunea apropiată Ribera del Duero."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "Look for wines from the nearby Ribera del Duero region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Innenstadt ist schwierig und teuer. Nutzen Sie die ausgewiesenen Parkplätze am Stadtrand.",
+          "Achten Sie auf Einbahnstraßen und Fußgängerzonen im historischen Zentrum.",
+          "Ein Auto ermöglicht es Ihnen, leicht Aussichtspunkte außerhalb des Zentrums zu erreichen."
+        ],
+        "hu": [
+          "A belvárosi parkolás nehéz és drága. Használja a kijelölt parkolókat a város szélén.",
+          "Vigyázzon az egyirányú utcákra és a sétálóövezetekre a történelmi központban.",
+          "Az autó lehetővé teszi, hogy könnyen elérje a központon kívüli kilátópontokat."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este dificilă și scumpă. Folosiți parcările desemnate la periferie.",
+          "Fiți atenți la străzile cu sens unic și zonele pietonale din centrul istoric.",
+          "O mașină vă permite să ajungeți ușor la punctele de belvedere din afara centrului."
+        ],
+        "en": [
+          "Parking downtown is difficult and expensive. Use the designated car parks on the outskirts.",
+          "Be aware of one-way streets and pedestrian zones in the historic center.",
+          "A car allows you to easily reach viewpoints outside the center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Segovia",
+            "hu": "Segovia buszpályaudvar",
+            "ro": "Autogara Segovia",
+            "en": "Segovia Bus Station"
+          },
+          "coords": [
+            40.9445,
+            -4.1195
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, wo die meisten Stadtbusse ankommen.",
+            "hu": "Kezdje a napot itt, ahova a legtöbb városi busz érkezik.",
+            "ro": "Începeți-vă ziua aici, unde sosesc majoritatea autobuzelor urbane.",
+            "en": "Start your day here, where most city buses arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquädukt von Segovia",
+            "hu": "Segovia vízvezetéke",
+            "ro": "Apeductul din Segovia",
+            "en": "Aqueduct of Segovia"
+          },
+          "coords": [
+            40.9477,
+            -4.1175
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof aus.",
+            "hu": "Egy rövid séta a buszpályaudvartól.",
+            "ro": "O scurtă plimbare de la stația de autobuz.",
+            "en": "A short walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale & Jüdisches Viertel",
+            "hu": "Katedrális és zsidó negyed",
+            "ro": "Catedrala și Cartierul Evreiesc",
+            "en": "Cathedral & Jewish Quarter"
+          },
+          "coords": [
+            40.9503,
+            -4.1258
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses ganze Viertel zu Fuß, es ist kompakt und faszinierend.",
+            "hu": "Fedezze fel gyalog ezt az egész negyedet, kompakt és lenyűgöző.",
+            "ro": "Explorați întregul cartier pe jos; este compact și fascinant.",
+            "en": "Explore this whole quarter on foot; it's compact and fascinating."
+          }
+        },
+        {
+          "name": {
+            "de": "Alcázar von Segovia",
+            "hu": "Segoviai Alcázar",
+            "ro": "Alcázar din Segovia",
+            "en": "Alcázar of Segovia"
+          },
+          "coords": [
+            40.9525,
+            -4.1322
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus von der Plaza Mayor, um den Hügel zu vermeiden.",
+            "hu": "Menjen busszal a Plaza Mayortól, hogy elkerülje a dombot.",
+            "ro": "Luați un autobuz din Plaza Mayor pentru a evita dealul.",
+            "en": "Take a bus from Plaza Mayor to avoid the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Vera Cruz",
+            "hu": "Vera Cruz templom",
+            "ro": "Biserica Vera Cruz",
+            "en": "Church of Vera Cruz"
+          },
+          "coords": [
+            40.9554,
+            -4.1294
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt bringt Sie zu diesem einzigartigen Tempel.",
+            "hu": "Egy újabb rövid buszút visz el ehhez az egyedülálló templomhoz.",
+            "ro": "O altă călătorie scurtă cu autobuzul vă va duce la acest templu unic.",
+            "en": "Another short bus ride will take you to this unique temple."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Aquädukt-Bereich",
+            "hu": "Vissza a vízvezetékhez",
+            "ro": "Întoarcere în zona Apeductului",
+            "en": "Return to Aqueduct Area"
+          },
+          "coords": [
+            40.9477,
+            -4.1175
+          ],
+          "category": "transport",
+          "arrive_at": "16:30",
+          "stay_min": 55,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie zurück und genießen Sie die abendliche Atmosphäre für Souvenirs oder ein frühes Abendessen.",
+            "hu": "Sétáljon vissza, és élvezze az esti hangulatot, vásároljon szuvenírt vagy vacsorázzon korán.",
+            "ro": "Plimbați-vă înapoi, bucurându-vă de atmosfera de seară pentru suveniruri sau o cină devreme.",
+            "en": "Stroll back, enjoying the evening atmosphere for souvenirs or an early dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Busbahnhof und gehen Sie zum Aquädukt. Erkunden Sie den ersten Cluster, der die Kathedrale und das jüdische Viertel umfasst. Nehmen Sie einen Bus zum zweiten Cluster, dem Alcázar. Ein weiterer Bus bringt Sie zu Ihrem letzten Halt, der Kirche Vera Cruz. Schlendern Sie am Ende des Tages zurück zum Stadtzentrum, um die Reise abzurunden. Diese Methode ist ideal, um die Hügel der Stadt mühelos zu überwinden.",
+        "hu": "Kezdje a buszpályaudvaron, és sétáljon a vízvezetékhez. Fedezze fel az első klasztert, amely magában foglalja a katedrálist és a zsidó negyedet. Szálljon buszra a második klaszterhez, az Alcázarhoz. Egy másik busz elviszi az utolsó megállóhoz, a Vera Cruz templomhoz. A nap végén sétáljon vissza a városközpontba, hogy teljes legyen a kör. Ez a módszer ideális a város dombjainak könnyed leküzdésére.",
+        "ro": "Începeți la stația de autobuz și mergeți pe jos până la Apeduct. Explorați primul grup, inclusiv catedrala și cartierul evreiesc. Luați un autobuz către al doilea grup, Alcázar. Un alt autobuz vă va duce la ultima oprire, Biserica Vera Cruz. La sfârșitul zilei, plimbați-vă înapoi în centrul orașului pentru a încheia călătoria. Această metodă este ideală pentru a naviga fără efort pe dealurile orașului.",
+        "en": "Start at the bus station and walk to the Aqueduct. Explore the first cluster including the cathedral and Jewish quarter. Take a bus to the second cluster, the Alcázar. Another bus takes you to your final stop, the Vera Cruz Church. At the end of the day, stroll back to the city center to complete the journey. This method is ideal for navigating the city's hills effortlessly."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas-Tour",
+            "tip": "Hüpfen Sie von Bar zu Bar in der Nähe der Plaza Mayor und probieren Sie verschiedene kleine Gerichte."
+          },
+          {
+            "name": "Sopa Castellana",
+            "tip": "Eine traditionelle Knoblauchsuppe, besonders wärmend an einem kühlen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas túra",
+            "tip": "Járja be a bárokat a Plaza Mayor közelében, és kóstoljon meg különféle kis ételeket."
+          },
+          {
+            "name": "Sopa Castellana",
+            "tip": "Hagyományos fokhagymaleves, különösen melegítő egy hűvös napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turul tapasurilor",
+            "tip": "Săriți din bar în bar lângă Plaza Mayor, gustând diverse feluri de mâncare mici."
+          },
+          {
+            "name": "Sopa Castellana",
+            "tip": "O supă tradițională de usturoi, deosebit de încălzitoare într-o zi răcoroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas Tour",
+            "tip": "Hop from bar to bar near Plaza Mayor, sampling different small dishes."
+          },
+          {
+            "name": "Sopa Castellana",
+            "tip": "A traditional garlic soup, especially warming on a cool day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Huertos de la Hontanilla",
+            "tip": "Städtische Gärten unterhalb des Alcázar, ein schöner, ruhiger Ort.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht vom Postigo del Consuelo",
+            "tip": "Ein weniger überfüllter Aussichtspunkt auf die Stadtmauern und das Aquädukt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Huertos de la Hontanilla",
+            "tip": "Városi kertek az Alcázar alatt, egy szép, csendes hely.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Postigo del Consuelótól",
+            "tip": "Kevésbé zsúfolt kilátó a városfalakra és a vízvezetékre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Huertos de la Hontanilla",
+            "tip": "Grădini urbane sub Alcázar, un loc minunat și liniștit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Postigo del Consuelo",
+            "tip": "Un punct de vedere mai puțin aglomerat al zidurilor orașului și al apeductului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Huertos de la Hontanilla",
+            "tip": "Urban gardens below the Alcázar, a lovely quiet spot.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Postigo del Consuelo",
+            "tip": "A less crowded viewpoint of the city walls and aqueduct.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Süßigkeiten von Nonnen",
+            "tip": "Kaufen Sie handgemachte Süßigkeiten direkt von den Klöstern, wie dem Convento de San Antonio el Real."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Apácák által készített édességek",
+            "tip": "Vásároljon kézzel készített édességeket közvetlenül a kolostorokból, mint például a Convento de San Antonio el Real."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dulciuri făcute de călugărițe",
+            "tip": "Cumpărați dulciuri făcute manual direct de la mănăstiri, cum ar fi Convento de San Antonio el Real."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sweets made by Nuns",
+            "tip": "Buy handmade sweets directly from the convents, like the Convento de San Antonio el Real."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine wiederaufladbare Buskarte für ein besseres Preis-Leistungs-Verhältnis.",
+          "Die Busfahrpläne finden Sie an jeder Haltestelle, aber die Frequenz kann am Wochenende geringer sein.",
+          "Validieren Sie Ihr Ticket immer beim Einsteigen in den Bus."
+        ],
+        "hu": [
+          "Vásároljon újratölthető buszkártyát a jobb ár-érték arány érdekében.",
+          "A buszmenetrendeket minden megállóban megtalálja, de a járatok ritkábbak lehetnek hétvégén.",
+          "Mindig érvényesítse a jegyét a buszra szálláskor."
+        ],
+        "ro": [
+          "Cumpărați un card de autobuz reîncărcabil pentru o valoare mai bună.",
+          "Orarele autobuzelor sunt afișate în fiecare stație, dar frecvența poate fi redusă în weekend.",
+          "Validați-vă întotdeauna biletul la urcarea în autobuz."
+        ],
+        "en": [
+          "Buy a rechargeable bus card for better value.",
+          "Bus schedules are posted at each stop, but frequency can be lower on weekends.",
+          "Always validate your ticket when you board the bus."
+        ]
+      }
+    }
+  }
+}

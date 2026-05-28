@@ -1,0 +1,1508 @@
+{
+  "city_id": "mor",
+  "anchor": {
+    "name": "Mór",
+    "coords": [
+      18.2,
+      47.3667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Mór",
+            "hu": "Móri Városháza",
+            "ro": "Primăria din Mór",
+            "en": "Town Hall of Mór"
+          },
+          "coords": [
+            18.2045,
+            47.3775
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, am Szent István Platz.",
+            "hu": "Kezdje a napot a város szívében, a Szent István téren.",
+            "ro": "Începeți ziua în inima orașului, în Piața Szent István.",
+            "en": "Start your day in the heart of the town, at Szent István Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapuzinerkirche und Kloster",
+            "hu": "Kapucinus templom és kolostor",
+            "ro": "Biserica și Mănăstirea Capucinilor",
+            "en": "Capuchin Church and Monastery"
+          },
+          "coords": [
+            18.2038,
+            47.3781
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Barockarchitektur und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a lenyűgöző barokk építészetet és a csendes atmoszférát.",
+            "ro": "Admirați arhitectura barocă impresionantă și atmosfera liniștită.",
+            "en": "Admire the impressive Baroque architecture and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Weltkriegsdenkmal",
+            "hu": "Világháborús emlékmű",
+            "ro": "Monumentul Războiului Mondial",
+            "en": "World War Memorial"
+          },
+          "coords": [
+            18.2041,
+            47.3779
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:25",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung auf die lokale Geschichte.",
+            "hu": "Egy pillanatnyi elmélyedés a helyi történelemben.",
+            "ro": "Un moment de reflecție asupra istoriei locale.",
+            "en": "A moment of reflection on the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mőrer Weinmuseum",
+            "hu": "Móri Bormúzeum",
+            "ro": "Muzeul Vinului din Mór",
+            "en": "Mór Wine Museum"
+          },
+          "coords": [
+            18.2011,
+            47.3792
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die berühmte Weinbautradition der Region, insbesondere den Ezerjó.",
+            "hu": "Tudjon meg mindent a régió híres borászati hagyományairól, különösen az Ezerjóról.",
+            "ro": "Aflați totul despre faimoasa tradiție viticolă a regiunii, în special despre vinul Ezerjó.",
+            "en": "Learn all about the region's famous winemaking tradition, especially the Ezerjó grape."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Lamberg",
+            "hu": "Lamberg-kastély",
+            "ro": "Castelul Lamberg",
+            "en": "Lamberg Castle"
+          },
+          "coords": [
+            18.2078,
+            47.3811
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Schloss beherbergt eine Bibliothek und ein Kulturzentrum. Überprüfen Sie die Öffnungszeiten.",
+            "hu": "A kastély könyvtárnak és kulturális központnak ad otthont. Ellenőrizze a nyitvatartást.",
+            "ro": "Castelul găzduiește o bibliotecă și un centru cultural. Verificați programul de funcționare.",
+            "en": "The castle houses a library and a cultural center. Check for opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossgarten",
+            "hu": "Kastélypark",
+            "ro": "Grădina Castelului",
+            "en": "Castle Garden"
+          },
+          "coords": [
+            18.2085,
+            47.3805
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:16",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang nach dem Schlossbesuch.",
+            "hu": "Tökéletes hely egy pihentető sétához a kastélylátogatás után.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă după vizitarea castelului.",
+            "en": "A perfect spot for a relaxing walk after visiting the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Bozsoki Weinkeller",
+            "hu": "Bozsoki Pince",
+            "ro": "Crama Bozsoki",
+            "en": "Bozsoki Wine Cellar"
+          },
+          "coords": [
+            18.2155,
+            47.3751
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:41",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer authentischen Weinprobe. Probieren Sie unbedingt den Móri Ezerjó.",
+            "hu": "Zárja a napot egy autentikus borkóstolóval. Feltétlenül kóstolja meg a Móri Ezerjót.",
+            "ro": "Încheiați ziua cu o degustare de vinuri autentică. Asigurați-vă că încercați Móri Ezerjó.",
+            "en": "End your day with an authentic wine tasting. Be sure to try the Móri Ezerjó."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Mór beginnt am belebten Szent István Platz. Am Vormittag erkunden Sie das barocke Herz der Stadt, einschließlich der Kapuzinerkirche und des Weinmuseums, das die Ezerjó-Tradition feiert. Nach dem Mittagessen spazieren Sie zum prächtigen Lamberg-Schloss und entspannen im angrenzenden Park. Der Nachmittag ist für die berühmten Weinkeller reserviert, wo Sie den Tag mit einem Glas lokalen Weins ausklingen lassen.",
+        "hu": "Móri napja a nyüzsgő Szent István téren kezdődik. A délelőttöt a város barokk szívének felfedezésével tölti, beleértve a kapucinus templomot és a bormúzeumot, amely az Ezerjó hagyományát ünnepli. Ebéd után sétáljon el a csodálatos Lamberg-kastélyhoz, majd pihenjen a szomszédos parkban. A délután a híres borospincéké, ahol egy pohár helyi borral zárhatja a napot.",
+        "ro": "Ziua dumneavoastră în Mór începe în animata Piață Szent István. Dimineața explorați inima barocă a orașului, inclusiv Biserica Capucinilor și Muzeul Vinului, care celebrează tradiția Ezerjó. După prânz, faceți o plimbare până la magnificul Castel Lamberg și relaxați-vă în parcul adiacent. După-amiaza este rezervată faimoaselor crame, unde puteți încheia ziua cu un pahar de vin local.",
+        "en": "Your day in Mór begins in the bustling Szent István Square. In the morning, you'll explore the baroque heart of the town, including the Capuchin Church and the Wine Museum celebrating the Ezerjó tradition. After lunch, stroll to the magnificent Lamberg Castle and relax in the adjacent park. The afternoon is reserved for the famous wine cellars, where you'll end the day with a glass of local wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Móri Ezerjó Wein",
+            "tip": "Der Stolz der Region, ein trockener Weißwein mit einzigartigem Charakter."
+          },
+          {
+            "name": "Hétrét",
+            "tip": "Ein lokaler Strudel, oft mit süßen oder herzhaften Füllungen."
+          },
+          {
+            "name": "Fogathajtó Étterem",
+            "tip": "Traditionelle ungarische Küche in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Móri Ezerjó bor",
+            "tip": "A régió büszkesége, egyedi karakterű száraz fehérbor."
+          },
+          {
+            "name": "Hétrét",
+            "tip": "Helyi rétes specialitás, édes vagy sós töltelékkel."
+          },
+          {
+            "name": "Fogathajtó Étterem",
+            "tip": "Hagyományos magyar konyha, hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Móri Ezerjó",
+            "tip": "Mândria regiunii, un vin alb sec cu un caracter unic."
+          },
+          {
+            "name": "Hétrét",
+            "tip": "Un ștrudel local, adesea cu umpluturi dulci sau sărate."
+          },
+          {
+            "name": "Restaurantul Fogathajtó",
+            "tip": "Bucătărie tradițională maghiară într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Móri Ezerjó Wine",
+            "tip": "The pride of the region, a dry white wine with a unique character."
+          },
+          {
+            "name": "Hétrét",
+            "tip": "A local strudel, often with sweet or savory fillings."
+          },
+          {
+            "name": "Fogathajtó Restaurant",
+            "tip": "Traditional Hungarian cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossgarten",
+            "tip": "Ein ruhiger Spaziergang unter alten Bäumen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Móri-vízfolyás",
+            "tip": "Finden Sie eine ruhige Bank am Bach.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Weinberge am Stadtrand",
+            "tip": "Ein Spaziergang durch die Weinreben bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Csendes séta az öreg fák alatt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Móri-vízfolyás partja",
+            "tip": "Keressen egy csendes padot a patak mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szőlőhegyek a város szélén",
+            "tip": "Séta a szőlőtőkék között naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Castelului",
+            "tip": "O plimbare liniștită pe sub copaci bătrâni.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul pârâului Móri",
+            "tip": "Găsiți o bancă liniștită lângă pârâu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viile de la marginea orașului",
+            "tip": "O plimbare printre viile la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Garden",
+            "tip": "A quiet walk under old trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of the Móri stream",
+            "tip": "Find a quiet bench by the stream.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vineyards on the outskirts",
+            "tip": "A walk through the vines at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weinkeller",
+            "tip": "Kaufen Sie eine Flasche Ezerjó direkt vom Erzeuger."
+          },
+          {
+            "name": "Handwerkermarkt",
+            "tip": "Suchen Sie nach lokalen Produkten und Souvenirs auf dem Hauptplatz (an Markttagen)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borospincék",
+            "tip": "Vásároljon egy üveg Ezerjót közvetlenül a termelőtől."
+          },
+          {
+            "name": "Kézműves piac",
+            "tip": "Keressen helyi termékeket és ajándéktárgyakat a főtéren (piacnapokon)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame locale",
+            "tip": "Cumpărați o sticlă de Ezerjó direct de la producător."
+          },
+          {
+            "name": "Târg de artizanat",
+            "tip": "Căutați produse locale și suveniruri în piața principală (în zilele de târg)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine Cellars",
+            "tip": "Buy a bottle of Ezerjó directly from the producer."
+          },
+          {
+            "name": "Artisan Market",
+            "tip": "Look for local products and souvenirs in the main square (on market days)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf Kopfsteinpflaster unterwegs sein werden.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum liegen sehr nah beieinander.",
+          "Planen Sie für das Mittagessen in einem der traditionellen Restaurants rund um den Hauptplatz Zeit ein.",
+          "Fragen Sie im Weinmuseum nach Empfehlungen für eine Weinprobe am Nachmittag."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap macskakövön fog sétálni.",
+          "A belvárosi látnivalók többsége nagyon közel van egymáshoz.",
+          "Tervezzen időt az ebédre a főtér körüli hagyományos éttermek egyikében.",
+          "Kérjen ajánlást a bormúzeumban a délutáni borkóstolóhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe piatră cubică toată ziua.",
+          "Majoritatea atracțiilor din centrul orașului sunt foarte apropiate.",
+          "Planificați timp pentru prânz la unul dintre restaurantele tradiționale din jurul pieței principale.",
+          "Cereți recomandări la Muzeul Vinului pentru o degustare de vinuri după-amiaza."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking on cobblestones all day.",
+          "Most of the sights in the city center are very close to each other.",
+          "Plan for lunch at one of the traditional restaurants around the main square.",
+          "Ask for recommendations at the Wine Museum for an afternoon wine tasting."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Mór",
+            "hu": "Móri Városháza",
+            "ro": "Primăria din Mór",
+            "en": "Town Hall of Mór"
+          },
+          "coords": [
+            18.2045,
+            47.3775
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie die Atmosphäre des Szent István Platzes.",
+            "hu": "Parkolja le a kerékpárt, és élvezze a Szent István tér hangulatát.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosfera din Piața Szent István.",
+            "en": "Park your bike and enjoy the atmosphere of Szent István Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapuzinerkirche und Kloster",
+            "hu": "Kapucinus templom és kolostor",
+            "ro": "Biserica și Mănăstirea Capucinilor",
+            "en": "Capuchin Church and Monastery"
+          },
+          "coords": [
+            18.2038,
+            47.3781
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:32",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die barocke Fassade zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja a barokk homlokzatot.",
+            "ro": "O scurtă oprire pentru a admira fațada barocă.",
+            "en": "A short stop to admire the baroque facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Lamberg und Schlossgarten",
+            "hu": "Lamberg-kastély és Kastélypark",
+            "ro": "Castelul Lamberg și Grădina Castelului",
+            "en": "Lamberg Castle and Castle Garden"
+          },
+          "coords": [
+            18.2078,
+            47.3811
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:08",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, um das Schloss und den umliegenden Park zu erkunden.",
+            "hu": "Szánjon időt a kastély és a környező park felfedezésére.",
+            "ro": "Luați-vă timp pentru a explora castelul și parcul înconjurător.",
+            "en": "Take your time to explore the castle and its surrounding park."
+          }
+        },
+        {
+          "name": {
+            "de": "Mőrer Weinmuseum",
+            "hu": "Móri Bormúzeum",
+            "ro": "Muzeul Vinului din Mór",
+            "en": "Mór Wine Museum"
+          },
+          "coords": [
+            18.2011,
+            47.3792
+          ],
+          "category": "museums",
+          "arrive_at": "12:14",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie ein in die Geschichte des Weins.",
+            "hu": "Zárja le biztonságosan a kerékpárt, és merüljön el a borászat történelmében.",
+            "ro": "Asigurați-vă bicicleta și scufundați-vă în istoria vinului.",
+            "en": "Secure your bike and dive into the history of wine."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Pál Teleki",
+            "hu": "Teleki Pál szobra",
+            "ro": "Statuia lui Pál Teleki",
+            "en": "Statue of Pál Teleki"
+          },
+          "coords": [
+            18.1995,
+            47.3785
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:46",
+          "stay_min": 10,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Fotostopp bei der Statue dieser umstrittenen historischen Figur.",
+            "hu": "Egy gyors fotómegálló az ellentmondásos történelmi személyiség szobránál.",
+            "ro": "O oprire foto rapidă la statuia acestei figuri istorice controversate.",
+            "en": "A quick photo stop at the statue of this controversial historical figure."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt durch die Weinberge",
+            "hu": "Kerékpártúra a szőlőhegyeken",
+            "ro": "Plimbare cu bicicleta prin vii",
+            "en": "Ride through the Vineyards"
+          },
+          "coords": [
+            18.225,
+            47.37
+          ],
+          "category": "region",
+          "arrive_at": "14:11",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die malerische Landschaft und die frische Luft auf den Wegen zwischen den Weinreben.",
+            "hu": "Élvezze a festői tájat és a friss levegőt a szőlőtőkék közötti utakon.",
+            "ro": "Bucurați-vă de peisajul pitoresc și de aerul curat pe potecile dintre vii.",
+            "en": "Enjoy the scenic landscape and fresh air on the paths between the vines."
+          }
+        },
+        {
+          "name": {
+            "de": "Bozsoki Weinkeller",
+            "hu": "Bozsoki Pince",
+            "ro": "Crama Bozsoki",
+            "en": "Bozsoki Wine Cellar"
+          },
+          "coords": [
+            18.2155,
+            47.3751
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:31",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Eine wohlverdiente Pause mit einer Weinprobe, um die lokalen Aromen zu entdecken.",
+            "hu": "Jól megérdemelt pihenő egy borkóstolóval a helyi ízek felfedezéséhez.",
+            "ro": "O pauză binemeritată cu o degustare de vinuri pentru a descoperi aromele locale.",
+            "en": "A well-deserved break with a wine tasting to discover the local flavors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad für eine Tour durch Mór. Beginnen Sie im Zentrum und radeln Sie dann zum Lamberg-Schloss. Nach einem ausgiebigen Besuch und einer Pause im Park geht es weiter zum Weinmuseum. Am Nachmittag führt Sie eine malerische Route durch die Weinberge, die den perfekten Auftakt für eine Weinprobe in einem traditionellen Keller bildet, um Ihren erlebnisreichen Tag abzuschließen.",
+        "hu": "Pattanjon kerékpárra egy móri túrához. Induljon a központból, majd tekerjen el a Lamberg-kastélyhoz. Egy alapos látogatás és a parkban való pihenés után irány a bormúzeum. Délután egy festői útvonal vezet a szőlőhegyeken keresztül, amely tökéletes bevezetést nyújt egy hagyományos pincében tartott borkóstolóhoz, hogy lezárja az eseménydús napot.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur al orașului Mór. Porniți din centru, apoi pedalați spre Castelul Lamberg. După o vizită amănunțită și o pauză în parc, îndreptați-vă spre Muzeul Vinului. După-amiaza, un traseu pitoresc vă va purta prin vii, oferind preludiul perfect pentru o degustare de vinuri la o cramă tradițională pentru a încheia ziua plină de evenimente.",
+        "en": "Hop on your bike for a tour of Mór. Start in the center, then cycle to Lamberg Castle. After a thorough visit and a break in the park, head to the Wine Museum. In the afternoon, a scenic route will take you through the vineyards, providing the perfect prelude to a wine tasting at a traditional cellar to cap off your eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Móri Ezerjó Wein",
+            "tip": "Der Stolz der Region, ein trockener Weißwein mit einzigartigem Charakter."
+          },
+          {
+            "name": "Hétrét",
+            "tip": "Ein lokaler Strudel, oft mit süßen oder herzhaften Füllungen."
+          },
+          {
+            "name": "Fogathajtó Étterem",
+            "tip": "Traditionelle ungarische Küche in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Móri Ezerjó bor",
+            "tip": "A régió büszkesége, egyedi karakterű száraz fehérbor."
+          },
+          {
+            "name": "Hétrét",
+            "tip": "Helyi rétes specialitás, édes vagy sós töltelékkel."
+          },
+          {
+            "name": "Fogathajtó Étterem",
+            "tip": "Hagyományos magyar konyha, hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Móri Ezerjó",
+            "tip": "Mândria regiunii, un vin alb sec cu un caracter unic."
+          },
+          {
+            "name": "Hétrét",
+            "tip": "Un ștrudel local, adesea cu umpluturi dulci sau sărate."
+          },
+          {
+            "name": "Restaurantul Fogathajtó",
+            "tip": "Bucătărie tradițională maghiară într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Móri Ezerjó Wine",
+            "tip": "The pride of the region, a dry white wine with a unique character."
+          },
+          {
+            "name": "Hétrét",
+            "tip": "A local strudel, often with sweet or savory fillings."
+          },
+          {
+            "name": "Fogathajtó Restaurant",
+            "tip": "Traditional Hungarian cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossgarten",
+            "tip": "Ein ruhiger Spaziergang unter alten Bäumen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Móri-vízfolyás",
+            "tip": "Finden Sie eine ruhige Bank am Bach.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Weinberge am Stadtrand",
+            "tip": "Ein Spaziergang durch die Weinreben bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Csendes séta az öreg fák alatt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Móri-vízfolyás partja",
+            "tip": "Keressen egy csendes padot a patak mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szőlőhegyek a város szélén",
+            "tip": "Séta a szőlőtőkék között naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Castelului",
+            "tip": "O plimbare liniștită pe sub copaci bătrâni.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul pârâului Móri",
+            "tip": "Găsiți o bancă liniștită lângă pârâu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viile de la marginea orașului",
+            "tip": "O plimbare printre viile la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Garden",
+            "tip": "A quiet walk under old trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of the Móri stream",
+            "tip": "Find a quiet bench by the stream.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vineyards on the outskirts",
+            "tip": "A walk through the vines at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weinkeller",
+            "tip": "Kaufen Sie eine Flasche Ezerjó direkt vom Erzeuger."
+          },
+          {
+            "name": "Handwerkermarkt",
+            "tip": "Suchen Sie nach lokalen Produkten und Souvenirs auf dem Hauptplatz (an Markttagen)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borospincék",
+            "tip": "Vásároljon egy üveg Ezerjót közvetlenül a termelőtől."
+          },
+          {
+            "name": "Kézműves piac",
+            "tip": "Keressen helyi termékeket és ajándéktárgyakat a főtéren (piacnapokon)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame locale",
+            "tip": "Cumpărați o sticlă de Ezerjó direct de la producător."
+          },
+          {
+            "name": "Târg de artizanat",
+            "tip": "Căutați produse locale și suveniruri în piața principală (în zilele de târg)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine Cellars",
+            "tip": "Buy a bottle of Ezerjó directly from the producer."
+          },
+          {
+            "name": "Artisan Market",
+            "tip": "Look for local products and souvenirs in the main square (on market days)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mór und seine Umgebung sind hügelig, seien Sie also auf einige Anstiege vorbereitet.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders im Stadtzentrum.",
+          "Viele Weingüter am Stadtrand sind mit dem Fahrrad erreichbar.",
+          "Nehmen Sie viel Wasser mit, besonders für die Fahrt durch die Weinberge am Nachmittag."
+        ],
+        "hu": [
+          "Mór és környéke dombos, így készüljön fel néhány emelkedőre.",
+          "Mindig zárja le jól a kerékpárját, különösen a városközpontban.",
+          "Sok, a város szélén található borászat elérhető kerékpárral.",
+          "Vigyen magával sok vizet, különösen a délutáni, szőlőhegyeken átvezető túrára."
+        ],
+        "ro": [
+          "Mór și împrejurimile sale sunt deluroase, așa că fiți pregătiți pentru câteva urcări.",
+          "Asigurați-vă întotdeauna bicicleta, mai ales în centrul orașului.",
+          "Multe crame de la marginea orașului sunt accesibile cu bicicleta.",
+          "Luați multă apă cu dumneavoastră, mai ales pentru plimbarea prin vii după-amiaza."
+        ],
+        "en": [
+          "Mór and its surroundings are hilly, so be prepared for some climbs.",
+          "Always lock your bike securely, especially in the town center.",
+          "Many wineries on the outskirts are accessible by bike.",
+          "Bring plenty of water, especially for the ride through the vineyards in the afternoon."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 11.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Schloss Lamberg",
+            "hu": "Parkoló a Lamberg-kastélynál",
+            "ro": "Parcare la Castelul Lamberg",
+            "en": "Parking at Lamberg Castle"
+          },
+          "coords": [
+            18.2075,
+            47.3815
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier. Parken Sie das Auto und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Kezdje a napot itt. Parkolja le az autót, és fedezze fel az első látnivalócsoportot gyalog.",
+            "ro": "Începeți ziua aici. Parcați mașina și explorați primul grup de atracții pe jos.",
+            "en": "Start your day here. Park the car and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Lamberg",
+            "hu": "Lamberg-kastély",
+            "ro": "Castelul Lamberg",
+            "en": "Lamberg Castle"
+          },
+          "coords": [
+            18.2078,
+            47.3811
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:12",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie das prächtige Schlossgebäude und seine Ausstellungen.",
+            "hu": "Fedezze fel a csodálatos kastélyépületet és kiállításait.",
+            "ro": "Explorați magnifica clădire a castelului și expozițiile sale.",
+            "en": "Explore the magnificent castle building and its exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossgarten",
+            "hu": "Kastélypark",
+            "ro": "Grădina Castelului",
+            "en": "Castle Garden"
+          },
+          "coords": [
+            18.2085,
+            47.3805
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:36",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang durch den wunderschönen Park.",
+            "hu": "Tegyen egy pihentető sétát a gyönyörű parkban.",
+            "ro": "Faceți o plimbare relaxantă prin parcul frumos.",
+            "en": "Take a relaxing stroll through the beautiful park."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum",
+            "hu": "Parkoló a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "Parking in the City Center"
+          },
+          "coords": [
+            18.205,
+            47.377
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:51",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Parken Sie hier für den Rest des Nachmittags.",
+            "hu": "Hajtson a második látnivalócsoporthoz. Parkoljon itt a délután hátralévő részére.",
+            "ro": "Conduceți spre al doilea grup de atracții. Parcați aici pentru restul după-amiezii.",
+            "en": "Drive to the second cluster. Park here for the rest of the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Kapuzinerkirche",
+            "hu": "Városháza és Kapucinus templom",
+            "ro": "Primăria și Biserica Capucinilor",
+            "en": "Town Hall and Capuchin Church"
+          },
+          "coords": [
+            18.2045,
+            47.3775
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:54",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Hauptplatz und die angrenzende Kirche. Hier finden Sie auch Restaurants für das Mittagessen.",
+            "hu": "Fedezze fel a főteret és a szomszédos templomot. Itt éttermeket is talál az ebédhez.",
+            "ro": "Explorați piața principală și biserica adiacentă. Aici veți găsi și restaurante pentru prânz.",
+            "en": "Explore the main square and the adjacent church. You'll also find restaurants for lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mőrer Weinmuseum",
+            "hu": "Móri Bormúzeum",
+            "ro": "Muzeul Vinului din Mór",
+            "en": "Mór Wine Museum"
+          },
+          "coords": [
+            18.2011,
+            47.3792
+          ],
+          "category": "museums",
+          "arrive_at": "12:59",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Muss, um die lokale Weinkultur vor der Weinprobe zu verstehen.",
+            "hu": "Kötelező program, hogy megértse a helyi borkultúrát a borkóstolás előtt.",
+            "ro": "O vizită obligatorie pentru a înțelege cultura locală a vinului înainte de degustare.",
+            "en": "A must-visit to understand the local wine culture before the tasting."
+          }
+        },
+        {
+          "name": {
+            "de": "Weingut in den Weinbergen (z.B. Bozsoki)",
+            "hu": "Borászat a szőlőhegyeken (pl. Bozsoki)",
+            "ro": "Cramă în vii (ex. Bozsoki)",
+            "en": "Winery in the Vineyards (e.g., Bozsoki)"
+          },
+          "coords": [
+            18.24,
+            47.365
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Fahren Sie aus der Stadt hinaus zu einem Weingut für eine ausgiebige Probe und einen entspannten Ausklang des Tages.",
+            "hu": "Hajtson ki a városból egy borászathoz egy kiadós kóstolóra és a nap pihentető lezárására.",
+            "ro": "Conduceți în afara orașului la o cramă pentru o degustare amplă și un final relaxant al zilei.",
+            "en": "Drive out of town to a winery for an extensive tasting and a relaxing end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Mór in Clustern. Parken Sie zuerst am Lamberg-Schloss, um das Schloss und seinen Garten zu Fuß zu entdecken. Am späten Vormittag fahren Sie ins Zentrum, parken erneut und erkunden den Hauptplatz und das Weinmuseum. Der Höhepunkt des Nachmittags ist eine kurze Fahrt in die umliegenden Weinberge zu einem Weingut, wo Sie die berühmten lokalen Weine direkt an der Quelle verkosten können.",
+        "hu": "Autóval Mórt látnivalócsoportokban fedezi fel. Először parkoljon a Lamberg-kastélynál, hogy gyalogosan fedezze fel a kastélyt és a parkját. Késő délelőtt hajtson be a központba, parkoljon le újra, és fedezze fel a főteret és a bormúzeumot. A délután csúcspontja egy rövid autózás a környező szőlőhegyekbe egy borászathoz, ahol közvetlenül a forrásnál kóstolhatja meg a híres helyi borokat.",
+        "ro": "Cu mașina, explorați Mór în grupuri de atracții. Mai întâi, parcați la Castelul Lamberg pentru a explora castelul și grădina sa pe jos. Spre sfârșitul dimineții, conduceți spre centru, parcați din nou și explorați piața principală și Muzeul Vinului. Punctul culminant al după-amiezii este o scurtă călătorie cu mașina spre viile înconjurătoare la o cramă, unde puteți degusta faimoasele vinuri locale direct de la sursă.",
+        "en": "By car, you'll explore Mór in clusters. First, park at Lamberg Castle to discover the castle and its garden on foot. In the late morning, drive to the center, park again, and explore the main square and the Wine Museum. The highlight of the afternoon is a short drive into the surrounding vineyards to a winery, where you can taste the famous local wines right at the source."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Móri Ezerjó Wein",
+            "tip": "Der Stolz der Region, ein trockener Weißwein mit einzigartigem Charakter."
+          },
+          {
+            "name": "Hétrét",
+            "tip": "Ein lokaler Strudel, oft mit süßen oder herzhaften Füllungen."
+          },
+          {
+            "name": "Fogathajtó Étterem",
+            "tip": "Traditionelle ungarische Küche in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Móri Ezerjó bor",
+            "tip": "A régió büszkesége, egyedi karakterű száraz fehérbor."
+          },
+          {
+            "name": "Hétrét",
+            "tip": "Helyi rétes specialitás, édes vagy sós töltelékkel."
+          },
+          {
+            "name": "Fogathajtó Étterem",
+            "tip": "Hagyományos magyar konyha, hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Móri Ezerjó",
+            "tip": "Mândria regiunii, un vin alb sec cu un caracter unic."
+          },
+          {
+            "name": "Hétrét",
+            "tip": "Un ștrudel local, adesea cu umpluturi dulci sau sărate."
+          },
+          {
+            "name": "Restaurantul Fogathajtó",
+            "tip": "Bucătărie tradițională maghiară într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Móri Ezerjó Wine",
+            "tip": "The pride of the region, a dry white wine with a unique character."
+          },
+          {
+            "name": "Hétrét",
+            "tip": "A local strudel, often with sweet or savory fillings."
+          },
+          {
+            "name": "Fogathajtó Restaurant",
+            "tip": "Traditional Hungarian cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossgarten",
+            "tip": "Ein ruhiger Spaziergang unter alten Bäumen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Móri-vízfolyás",
+            "tip": "Finden Sie eine ruhige Bank am Bach.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Weinberge am Stadtrand",
+            "tip": "Ein Spaziergang durch die Weinreben bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Csendes séta az öreg fák alatt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Móri-vízfolyás partja",
+            "tip": "Keressen egy csendes padot a patak mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szőlőhegyek a város szélén",
+            "tip": "Séta a szőlőtőkék között naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Castelului",
+            "tip": "O plimbare liniștită pe sub copaci bătrâni.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul pârâului Móri",
+            "tip": "Găsiți o bancă liniștită lângă pârâu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viile de la marginea orașului",
+            "tip": "O plimbare printre viile la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Garden",
+            "tip": "A quiet walk under old trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of the Móri stream",
+            "tip": "Find a quiet bench by the stream.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vineyards on the outskirts",
+            "tip": "A walk through the vines at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weinkeller",
+            "tip": "Kaufen Sie eine Flasche Ezerjó direkt vom Erzeuger."
+          },
+          {
+            "name": "Handwerkermarkt",
+            "tip": "Suchen Sie nach lokalen Produkten und Souvenirs auf dem Hauptplatz (an Markttagen)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borospincék",
+            "tip": "Vásároljon egy üveg Ezerjót közvetlenül a termelőtől."
+          },
+          {
+            "name": "Kézműves piac",
+            "tip": "Keressen helyi termékeket és ajándéktárgyakat a főtéren (piacnapokon)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame locale",
+            "tip": "Cumpărați o sticlă de Ezerjó direct de la producător."
+          },
+          {
+            "name": "Târg de artizanat",
+            "tip": "Căutați produse locale și suveniruri în piața principală (în zilele de târg)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine Cellars",
+            "tip": "Buy a bottle of Ezerjó directly from the producer."
+          },
+          {
+            "name": "Artisan Market",
+            "tip": "Look for local products and souvenirs in the main square (on market days)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Walk-Strategie, um Parkprobleme zu vermeiden.",
+          "Achten Sie auf Parkgebühren im Stadtzentrum.",
+          "Der Fahrer sollte bei der Weinprobe verantwortungsbewusst sein. Viele Weingüter verkaufen Wein zum Mitnehmen.",
+          "Die Straßen zu den Weinbergen können eng sein, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Használja a 'parkolj és sétálj' stratégiát a parkolási problémák elkerülése érdekében.",
+          "Figyeljen a parkolási díjakra a városközpontban.",
+          "A sofőr legyen felelősségteljes a borkóstolás során. Sok borászat árul elvitelre is bort.",
+          "A szőlőhegyekhez vezető utak szűkek lehetnek, vezessen óvatosan."
+        ],
+        "ro": [
+          "Folosiți strategia 'parchează și mergi pe jos' pentru a evita problemele de parcare.",
+          "Fiți atenți la taxele de parcare din centrul orașului.",
+          "Șoferul ar trebui să fie responsabil în timpul degustării de vinuri. Multe crame vând vin la pachet.",
+          "Drumurile spre vii pot fi înguste, conduceți cu prudență."
+        ],
+        "en": [
+          "Use the park-and-walk strategy to avoid parking issues.",
+          "Be mindful of parking fees in the city center.",
+          "The driver should be responsible during the wine tasting. Many wineries sell wine to take away.",
+          "The roads to the vineyards can be narrow, drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrum (Bushaltestelle Szent István tér)",
+            "hu": "Központ (Szent István téri buszmegálló)",
+            "ro": "Centru (stația de autobuz Piața Szent István)",
+            "en": "Center (Szent István Square bus stop)"
+          },
+          "coords": [
+            18.2048,
+            47.3773
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Busknotenpunkt und erkunden Sie das Stadtzentrum zu Fuß.",
+            "hu": "Kezdje a központi buszmegállónál, és fedezze fel a városközpontot gyalog.",
+            "ro": "Începeți de la nodul central de autobuz și explorați centrul orașului pe jos.",
+            "en": "Start at the central bus hub and explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Kapuzinerkirche",
+            "hu": "Városháza és Kapucinus templom",
+            "ro": "Primăria și Biserica Capucinilor",
+            "en": "Town Hall and Capuchin Church"
+          },
+          "coords": [
+            18.2045,
+            47.3775
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:13",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Hauptplatz und die Kirche sind nur wenige Schritte von der Haltestelle entfernt.",
+            "hu": "A főtér és a templom csak pár lépésre van a megállótól.",
+            "ro": "Piața principală și biserica sunt la doar câțiva pași de stație.",
+            "en": "The main square and church are just a few steps from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Mőrer Weinmuseum",
+            "hu": "Móri Bormúzeum",
+            "ro": "Muzeul Vinului din Mór",
+            "en": "Mór Wine Museum"
+          },
+          "coords": [
+            18.2011,
+            47.3792
+          ],
+          "category": "museums",
+          "arrive_at": "10:08",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz zum Museum.",
+            "hu": "Egy rövid séta a főtértől a múzeumig.",
+            "ro": "O scurtă plimbare de la piața principală la muzeu.",
+            "en": "A short walk from the main square to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle am Schloss Lamberg",
+            "hu": "Buszmegálló a Lamberg-kastélynál",
+            "ro": "Stația de autobuz de la Castelul Lamberg",
+            "en": "Bus stop at Lamberg Castle"
+          },
+          "coords": [
+            18.208,
+            47.382
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:03",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zum Schlosscluster zu gelangen.",
+            "hu": "Menjen helyi busszal a kastélyhoz.",
+            "ro": "Luați un autobuz local pentru a ajunge la grupul de atracții de la castel.",
+            "en": "Take a local bus to get to the castle cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Lamberg und Schlossgarten",
+            "hu": "Lamberg-kastély és Kastélypark",
+            "ro": "Castelul Lamberg și Grădina Castelului",
+            "en": "Lamberg Castle and Castle Garden"
+          },
+          "coords": [
+            18.2078,
+            47.3811
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:06",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genug Zeit für den Schlossbesuch, ein Mittagessen in der Nähe und einen Spaziergang im Park.",
+            "hu": "Elég idő a kastélylátogatásra, egy közeli ebédre és egy sétára a parkban.",
+            "ro": "Timp suficient pentru vizitarea castelului, un prânz în apropiere și o plimbare în parc.",
+            "en": "Enough time for the castle visit, lunch nearby, and a walk in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Bozsoki Weinkeller",
+            "hu": "Bozsoki Pince",
+            "ro": "Crama Bozsoki",
+            "en": "Bozsoki Wine Cellar"
+          },
+          "coords": [
+            18.2155,
+            47.3751
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:11",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Bus oder ein längerer Spaziergang bringt Sie zu den Weinkellern am Rande des Zentrums.",
+            "hu": "Egy busz vagy egy hosszabb séta elviszi a központ szélén található borospincékhez.",
+            "ro": "Un autobuz sau o plimbare mai lungă vă va duce la cramele de la marginea centrului.",
+            "en": "A bus or a longer walk will take you to the wine cellars on the edge of the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Mór effizient. Beginnen Sie im Zentrum und besichtigen Sie den Hauptplatz und das Weinmuseum zu Fuß. Ein kurzer Bus bringt Sie dann zum Lamberg-Schloss, wo Sie den frühen Nachmittag verbringen. Den Abschluss bildet eine weitere kurze Fahrt oder ein Spaziergang zu einem der berühmten Weinkeller, um den Tag mit einer Verkostung ausklingen zu lassen.",
+        "hu": "Tömegközlekedéssel hatékonyan fedezheti fel Mórt. Kezdje a központban, és gyalogosan nézze meg a főteret és a bormúzeumot. Ezután egy rövid buszozás elviszi a Lamberg-kastélyhoz, ahol a kora délutánt tölti. A napot egy másik rövid utazás vagy séta zárja a híres borospincék egyikéhez, ahol egy kóstolóval fejezheti be a napot.",
+        "ro": "Folosind transportul public, explorați Mór eficient. Începeți din centru și vizitați pe jos piața principală și Muzeul Vinului. Apoi, un scurt drum cu autobuzul vă va duce la Castelul Lamberg, unde veți petrece începutul după-amiezii. Ziua se încheie cu o altă călătorie scurtă sau o plimbare până la una dintre faimoasele crame pentru a încheia ziua cu o degustare.",
+        "en": "Using public transport, you'll explore Mór efficiently. Start in the center, visiting the main square and Wine Museum on foot. A short bus ride then takes you to Lamberg Castle, where you'll spend the early afternoon. The day concludes with another short journey or walk to one of the famous wine cellars to finish the day with a tasting."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Móri Ezerjó Wein",
+            "tip": "Der Stolz der Region, ein trockener Weißwein mit einzigartigem Charakter."
+          },
+          {
+            "name": "Hétrét",
+            "tip": "Ein lokaler Strudel, oft mit süßen oder herzhaften Füllungen."
+          },
+          {
+            "name": "Fogathajtó Étterem",
+            "tip": "Traditionelle ungarische Küche in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Móri Ezerjó bor",
+            "tip": "A régió büszkesége, egyedi karakterű száraz fehérbor."
+          },
+          {
+            "name": "Hétrét",
+            "tip": "Helyi rétes specialitás, édes vagy sós töltelékkel."
+          },
+          {
+            "name": "Fogathajtó Étterem",
+            "tip": "Hagyományos magyar konyha, hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Móri Ezerjó",
+            "tip": "Mândria regiunii, un vin alb sec cu un caracter unic."
+          },
+          {
+            "name": "Hétrét",
+            "tip": "Un ștrudel local, adesea cu umpluturi dulci sau sărate."
+          },
+          {
+            "name": "Restaurantul Fogathajtó",
+            "tip": "Bucătărie tradițională maghiară într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Móri Ezerjó Wine",
+            "tip": "The pride of the region, a dry white wine with a unique character."
+          },
+          {
+            "name": "Hétrét",
+            "tip": "A local strudel, often with sweet or savory fillings."
+          },
+          {
+            "name": "Fogathajtó Restaurant",
+            "tip": "Traditional Hungarian cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossgarten",
+            "tip": "Ein ruhiger Spaziergang unter alten Bäumen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Móri-vízfolyás",
+            "tip": "Finden Sie eine ruhige Bank am Bach.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Weinberge am Stadtrand",
+            "tip": "Ein Spaziergang durch die Weinreben bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Csendes séta az öreg fák alatt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Móri-vízfolyás partja",
+            "tip": "Keressen egy csendes padot a patak mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szőlőhegyek a város szélén",
+            "tip": "Séta a szőlőtőkék között naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Castelului",
+            "tip": "O plimbare liniștită pe sub copaci bătrâni.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul pârâului Móri",
+            "tip": "Găsiți o bancă liniștită lângă pârâu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viile de la marginea orașului",
+            "tip": "O plimbare printre viile la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Garden",
+            "tip": "A quiet walk under old trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of the Móri stream",
+            "tip": "Find a quiet bench by the stream.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vineyards on the outskirts",
+            "tip": "A walk through the vines at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weinkeller",
+            "tip": "Kaufen Sie eine Flasche Ezerjó direkt vom Erzeuger."
+          },
+          {
+            "name": "Handwerkermarkt",
+            "tip": "Suchen Sie nach lokalen Produkten und Souvenirs auf dem Hauptplatz (an Markttagen)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borospincék",
+            "tip": "Vásároljon egy üveg Ezerjót közvetlenül a termelőtől."
+          },
+          {
+            "name": "Kézműves piac",
+            "tip": "Keressen helyi termékeket és ajándéktárgyakat a főtéren (piacnapokon)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame locale",
+            "tip": "Cumpărați o sticlă de Ezerjó direct de la producător."
+          },
+          {
+            "name": "Târg de artizanat",
+            "tip": "Căutați produse locale și suveniruri în piața principală (în zilele de târg)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine Cellars",
+            "tip": "Buy a bottle of Ezerjó directly from the producer."
+          },
+          {
+            "name": "Artisan Market",
+            "tip": "Look for local products and souvenirs in the main square (on market days)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse in kleineren Städten seltener fahren.",
+          "Die meisten Busse fahren vom Szent István tér ab.",
+          "Einige Weinkeller sind möglicherweise nicht direkt mit öffentlichen Verkehrsmitteln erreichbar, planen Sie einen kurzen Spaziergang ein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, mivel a kisebb városokban ritkábban járnak a buszok.",
+          "A legtöbb busz a Szent István térről indul.",
+          "Néhány borospince nem érhető el közvetlenül tömegközlekedéssel, tervezzen be egy rövid sétát."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, deoarece autobuzele circulă mai rar în orașele mici.",
+          "Majoritatea autobuzelor pleacă din Piața Szent István.",
+          "Este posibil ca unele crame să nu fie direct accesibile cu transportul public, planificați o scurtă plimbare."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check the bus schedule in advance, as buses may run less frequently in smaller towns.",
+          "Most buses depart from Szent István Square.",
+          "Some wine cellars may not be directly accessible by public transport, plan for a short walk."
+        ]
+      }
+    }
+  }
+}

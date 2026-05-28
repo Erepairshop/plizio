@@ -1,0 +1,1484 @@
+{
+  "city_id": "uk-brighton-cities-v2",
+  "anchor": {
+    "name": "Brighton",
+    "coords": [
+      -0.1372,
+      50.8225
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "North Laine",
+            "hu": "North Laine",
+            "ro": "North Laine",
+            "en": "North Laine"
+          },
+          "coords": [
+            -0.139,
+            50.827
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die unabhängigen Boutiquen und genießen Sie einen Kaffee in einem der vielen Cafés.",
+            "hu": "Fedezd fel a független butikokat és igyál egy kávét a számos kávézó egyikében.",
+            "ro": "Explorați buticurile independente și savurați o cafea la una dintre numeroasele cafenele.",
+            "en": "Explore the independent boutiques and grab a coffee at one of the many cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Königlicher Pavillon",
+            "hu": "Királyi pavilon",
+            "ro": "Royal Pavilion",
+            "en": "Royal Pavilion"
+          },
+          "coords": [
+            -0.136,
+            50.824
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Buchen Sie Tickets online, um Warteschlangen zu vermeiden. Die opulenten Innenräume sind ein Muss.",
+            "hu": "Foglalj jegyet online, hogy elkerüld a sort. A pazar belső tereket látni kell.",
+            "ro": "Rezervați biletele online pentru a evita cozile. Interioarele opulente sunt de neratat.",
+            "en": "Book tickets online to avoid queues. The opulent interiors are a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Brighton Museum & Kunstgalerie",
+            "hu": "Brightoni Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Brighton",
+            "en": "Brighton Museum & Art Gallery"
+          },
+          "coords": [
+            -0.136,
+            50.825
+          ],
+          "category": "museums",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Eintritt ist frei! Perfekt, um lokale Geschichte und vielseitige Kunst zu entdecken.",
+            "hu": "A belépés ingyenes! Tökéletes a helyi történelem és a változatos művészet felfedezésére.",
+            "ro": "Intrarea este gratuită! Perfect pentru a descoperi istoria locală și arta eclectică.",
+            "en": "Admission is free! Perfect for discovering local history and eclectic art."
+          }
+        },
+        {
+          "name": {
+            "de": "The Lanes",
+            "hu": "The Lanes",
+            "ro": "The Lanes",
+            "en": "The Lanes"
+          },
+          "coords": [
+            -0.142,
+            50.821
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:07",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen voller Antiquitätenläden. Ideal für ein Mittagessen.",
+            "hu": "Vessz el az antik boltokkal teli szűk sikátorokban. Ideális ebédhelyszín.",
+            "ro": "Rătăciți-vă pe aleile înguste pline de magazine de antichități. Ideal pentru prânz.",
+            "en": "Get lost in the narrow alleyways full of antique shops. Ideal for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Brighton Palace Pier",
+            "hu": "Brighton Palace Pier",
+            "ro": "Digul Palatului Brighton",
+            "en": "Brighton Palace Pier"
+          },
+          "coords": [
+            -0.138,
+            50.817
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie die traditionellen Donuts und genießen Sie die Aussicht auf die Küste.",
+            "hu": "Kóstold meg a hagyományos fánkot és élvezd a kilátást a partra.",
+            "ro": "Încercați gogoșile tradiționale și bucurați-vă de vederea spre coastă.",
+            "en": "Try the traditional donuts and enjoy the views of the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "British Airways i360",
+            "hu": "British Airways i360",
+            "ro": "British Airways i360",
+            "en": "British Airways i360"
+          },
+          "coords": [
+            -0.148,
+            50.821
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:26",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Für die beste Aussicht bei Sonnenuntergang besuchen. Es gibt eine Bar an Bord!",
+            "hu": "A legjobb kilátásért naplementekor látogass el ide. A fedélzeten bár is található!",
+            "ro": "Vizitați la apus pentru cea mai bună priveliște. Există un bar la bord!",
+            "en": "Visit at sunset for the best views. There's a bar on board!"
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Meer",
+            "hu": "Vacsora a tengerparton",
+            "ro": "Cină pe malul mării",
+            "en": "Dinner by the Sea"
+          },
+          "coords": [
+            -0.15,
+            50.82
+          ],
+          "category": "gastro",
+          "arrive_at": "17:26",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant unter den Bögen für frische Meeresfrüchte und eine tolle Atmosphäre.",
+            "hu": "Válassz egy éttermet az árkádok alatt friss tengeri ételekhez és remek hangulathoz.",
+            "ro": "Alegeți un restaurant sub arcade pentru fructe de mare proaspete și o atmosferă minunată.",
+            "en": "Choose a restaurant under the arches for fresh seafood and a great atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im unkonventionellen North Laine und schlendern Sie durch die einzigartigen Geschäfte. Am Vormittag tauchen Sie in den königlichen Prunk des Royal Pavilion ein, gefolgt von einem Kulturbesuch im Brighton Museum. Verbringen Sie den Nachmittag damit, sich in den historischen Lanes zu verlieren, bevor Sie die klassische britische Küste am Brighton Palace Pier erleben. Beenden Sie den Tag mit einem atemberaubenden 360-Grad-Blick vom i360 bei Sonnenuntergang und einem köstlichen Abendessen am Meer.",
+        "hu": "Kezdje a napot a bohém North Laine negyedben, egyedi üzletei között barangolva. Délelőtt merüljön el a Királyi Pavilon fejedelmi pompájában, majd kulturális feltöltődésként látogasson el a Brightoni Múzeumba. Délután vesszen el a történelmi The Lanes sikátoraiban, mielőtt megtapasztalná a klasszikus brit tengerparti hangulatot a Brighton Palace Pieren. Zárja a napot egy lélegzetelállító 360 fokos panorámával az i360 toronyból naplementekor, majd egy finom tengerparti vacsorával.",
+        "ro": "Începeți ziua în boemul North Laine, plimbându-vă printre magazinele sale unice. Dimineața, scufundați-vă în splendoarea regală a Pavilionului Regal, urmată de o doză de cultură la Muzeul Brighton. Petreceți după-amiaza rătăcindu-vă pe aleile istorice din The Lanes, înainte de a experimenta clasica stațiune britanică la Digul Palatului Brighton. Încheiați ziua cu o priveliște uluitoare de 360 de grade de la i360 la apus, urmată de o cină delicioasă pe malul mării.",
+        "en": "Start your day in the bohemian North Laine, wandering through its unique shops. In the morning, immerse yourself in the regal splendour of the Royal Pavilion, followed by a cultural fix at the Brighton Museum. Spend the afternoon getting lost in the historic Lanes before experiencing the classic British seaside at Brighton Palace Pier. End the day with a stunning 360-degree view from the i360 at sunset, followed by a delicious dinner by the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein Muss am Meer! Genießen Sie es am Strand, aber passen Sie auf die Möwen auf."
+          },
+          {
+            "name": "Brighton Gin",
+            "tip": "Probieren Sie den lokal destillierten Gin in einer der vielen Bars in The Lanes."
+          },
+          {
+            "name": "Veganes Essen",
+            "tip": "Brighton ist berühmt für seine vegane Szene. Probieren Sie ein pflanzliches Gericht in North Laine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Kötelező a tengerparton! Fogyaszd a strandon, de vigyázz a sirályokkal."
+          },
+          {
+            "name": "Brightoni gin",
+            "tip": "Kóstold meg a helyben párolt gint a The Lanes egyik bárjában."
+          },
+          {
+            "name": "Vegán ételek",
+            "tip": "Brighton híres a vegán kínálatáról. Próbálj ki egy növényi alapú fogást a North Laine-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "O necesitate pe malul mării! Savurați-l pe plajă, dar aveți grijă la pescăruși."
+          },
+          {
+            "name": "Gin de Brighton",
+            "tip": "Încercați ginul distilat local la unul dintre numeroasele baruri din The Lanes."
+          },
+          {
+            "name": "Mâncare vegană",
+            "tip": "Brighton este renumit pentru scena sa vegană. Încercați un fel de mâncare pe bază de plante în North Laine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "A must-have by the seaside! Enjoy it on the beach, but watch out for the seagulls."
+          },
+          {
+            "name": "Brighton Gin",
+            "tip": "Try the locally distilled gin in one of the many bars in The Lanes."
+          },
+          {
+            "name": "Vegan Food",
+            "tip": "Brighton is famous for its vegan scene. Try a plant-based dish in North Laine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brighton Beach (entfernt vom Pier)",
+            "tip": "Gehen Sie ein Stück vom Pier weg, um einen ruhigeren Ort zum Entspannen zu finden.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pavilion Gardens",
+            "tip": "Ein ruhiger Ort, um die einzigartige Architektur des Pavillons zu bewundern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Peter's Church",
+            "tip": "Finden Sie einen Moment der Ruhe in dieser beeindruckenden neugotischen Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brightoni strand (a mólótól távolabb)",
+            "tip": "Sétálj távolabb a mólótól egy csendesebb, pihentető helyért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pavilon kertek",
+            "tip": "Békés hely a Pavilon egyedi építészetének megcsodálására.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Péter-templom",
+            "tip": "Találj egy csendes pillanatot ebben a lenyűgöző neogótikus templomban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Brighton (departe de dig)",
+            "tip": "Mergeți mai departe de dig pentru un loc mai liniștit de relaxare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Pavilionului",
+            "tip": "Un loc liniștit pentru a admira arhitectura unică a Pavilionului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Sf. Petru",
+            "tip": "Găsiți un moment de liniște în această impresionantă biserică neogotică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Brighton Beach (away from the pier)",
+            "tip": "Walk away from the pier for a quieter spot to relax.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pavilion Gardens",
+            "tip": "A peaceful spot to admire the Pavilion's unique architecture.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Peter's Church",
+            "tip": "Find a moment of peace inside this impressive Neo-Gothic church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Lanes",
+            "tip": "Perfekt für Schmuck, Antiquitäten und einzigartige Geschenke."
+          },
+          {
+            "name": "North Laine",
+            "tip": "Ein Paradies für unabhängige Mode, Vintage-Kleidung und skurrile Haushaltswaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Lanes",
+            "tip": "Tökéletes ékszerek, régiségek és egyedi ajándékok vásárlásához."
+          },
+          {
+            "name": "North Laine",
+            "tip": "A független divat, a vintage ruhák és a furcsa háztartási cikkek paradicsoma."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Lanes",
+            "tip": "Perfect pentru bijuterii, antichități și cadouri unice."
+          },
+          {
+            "name": "North Laine",
+            "tip": "Un paradis pentru modă independentă, haine vintage și articole de uz casnic excentrice."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Lanes",
+            "tip": "Perfect for jewellery, antiques, and unique gifts."
+          },
+          {
+            "name": "North Laine",
+            "tip": "A haven for independent fashion, vintage clothing, and quirky homewares."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Strand aus Kieseln besteht.",
+          "Der Wind kann stark sein, bringen Sie eine Jacke mit.",
+          "Buchen Sie Attraktionen wie den i360 im Voraus, um Geld zu sparen.",
+          "Hüten Sie sich vor den Möwen, sie sind dafür bekannt, Essen zu stehlen!"
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, a strand kavicsos.",
+          "A szél erős lehet, hozz magaddal dzsekit.",
+          "Foglalj előre jegyet az olyan látnivalókhoz, mint az i360, hogy spórolj.",
+          "Vigyázz a sirályokkal, híresek arról, hogy ételt lopnak!"
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, plaja este cu pietriș.",
+          "Vântul poate fi puternic, aduceți o jachetă.",
+          "Rezervați atracțiile precum i360 în avans pentru a economisi bani.",
+          "Atenție la pescăruși, sunt cunoscuți pentru că fură mâncare!"
+        ],
+        "en": [
+          "Wear comfortable shoes as the beach is pebbly.",
+          "The wind can be strong, so bring a jacket.",
+          "Book attractions like the i360 in advance to save money.",
+          "Beware of the seagulls, they are notorious for stealing food!"
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St Peter's Church",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "St Peter's Church"
+          },
+          "coords": [
+            -0.136,
+            50.83
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Oft als 'Brightons Kathedrale' bezeichnet, bewundern Sie die neugotische Architektur.",
+            "hu": "Gyakran 'Brighton katedrálisának' is nevezik, csodáld meg a neogótikus építészetet.",
+            "ro": "Adesea numită 'Catedrala din Brighton', admirați arhitectura neogotică.",
+            "en": "Often called 'Brighton's Cathedral', admire the Neo-Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "North Laine",
+            "hu": "North Laine",
+            "ro": "North Laine",
+            "en": "North Laine"
+          },
+          "coords": [
+            -0.139,
+            50.827
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die Gassen voller unabhängiger Geschäfte zu Fuß.",
+            "hu": "Zárd le a biciklidet és fedezd fel gyalog a független boltokkal teli sikátorokat.",
+            "ro": "Legați-vă bicicleta și explorați pe jos aleile pline de magazine independente.",
+            "en": "Lock up your bike and explore the lanes full of independent shops on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Königlicher Pavillon",
+            "hu": "Királyi pavilon",
+            "ro": "Royal Pavilion",
+            "en": "Royal Pavilion"
+          },
+          "coords": [
+            -0.136,
+            50.824
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein fantastischer Fototermin von außen, besonders mit einem Fahrrad im Vordergrund!",
+            "hu": "Fantasztikus fotólehetőség kívülről, különösen egy biciklivel az előtérben!",
+            "ro": "O oportunitate foto fantastică din exterior, mai ales cu o bicicletă în prim-plan!",
+            "en": "A fantastic photo opportunity from the outside, especially with a bike in the foreground!"
+          }
+        },
+        {
+          "name": {
+            "de": "Brighton Palace Pier",
+            "hu": "Brighton Palace Pier",
+            "ro": "Digul Palatului Brighton",
+            "en": "Brighton Palace Pier"
+          },
+          "coords": [
+            -0.138,
+            50.817
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radfahren auf dem Pier ist nicht erlaubt, aber es gibt Abstellplätze in der Nähe. Perfekt für die Mittagspause.",
+            "hu": "A mólón nem szabad biciklizni, de a közelben vannak tárolók. Tökéletes ebédszünetre.",
+            "ro": "Ciclismul nu este permis pe dig, dar există locuri de parcare în apropiere. Perfect pentru o pauză de prânz.",
+            "en": "Cycling isn't allowed on the pier, but there are racks nearby. Perfect for a lunch stop."
+          }
+        },
+        {
+          "name": {
+            "de": "British Airways i360",
+            "hu": "British Airways i360",
+            "ro": "British Airways i360",
+            "en": "British Airways i360"
+          },
+          "coords": [
+            -0.148,
+            50.821
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:51",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie die Küste entlang, um dorthin zu gelangen, und genießen Sie die Meeresbrise.",
+            "hu": "Tekerj végig a parton, hogy odaérj, és élvezd a tengeri szellőt.",
+            "ro": "Pedalați de-a lungul litoralului pentru a ajunge acolo, bucurându-vă de briza mării.",
+            "en": "Cycle along the seafront to get there, enjoying the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Brighton Marina",
+            "hu": "Brighton Marina",
+            "ro": "Portul de agrement Brighton",
+            "en": "Brighton Marina"
+          },
+          "coords": [
+            -0.075,
+            50.814
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:01",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt entlang der Küstenradwege. Erkunden Sie die Geschäfte und Cafés.",
+            "hu": "Kellemes tekerés a parti kerékpárúton. Fedezd fel az üzleteket és kávézókat.",
+            "ro": "O plimbare plăcută pe pistele de biciclete de pe faleză. Explorați magazinele și cafenelele.",
+            "en": "A pleasant ride along the seafront cycle lanes. Explore the shops and cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Ride back to Centre"
+          },
+          "coords": [
+            -0.14,
+            50.822
+          ],
+          "category": "gastro",
+          "arrive_at": "17:01",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum und belohnen Sie sich mit einem wohlverdienten Abendessen in The Lanes.",
+            "hu": "Tekerj vissza a központba, és jutalmazd meg magad egy jól megérdemelt vacsorával a The Lanes-ben.",
+            "ro": "Pedalați înapoi în centru și răsplătiți-vă cu o cină binemeritată în The Lanes.",
+            "en": "Ride back to the centre and reward yourself with a well-deserved dinner in The Lanes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag bei St. Peter, bevor Sie in das geschäftige North Laine eintauchen. Am Vormittag bewundern Sie den Royal Pavilion und radeln dann zum Brighton Palace Pier für eine Mittagspause mit Meerblick. Am Nachmittag erleben Sie die Küste aus der Vogelperspektive vom i360 aus und unternehmen dann eine längere Fahrt zur Brighton Marina. Beenden Sie Ihren Tag mit einer entspannten Rückfahrt ins Stadtzentrum, bereit für ein Abendessen.",
+        "hu": "Kezdje a biciklis napot a Szent Péter-templomnál, mielőtt belevetné magát a nyüzsgő North Laine-be. Délelőtt csodálja meg a Királyi Pavilont, majd tekerjen a Brighton Palace Pier-hez egy tengerparti ebédszünetre. Délután madártávlatból is megtekintheti a partot az i360-ról, majd egy hosszabb túrát tehet a Brighton Marinába. Zárja a napot egy kellemes visszatekeréssel a városközpontba, készen egy vacsorára.",
+        "ro": "Începeți-vă ziua pe bicicletă la Sf. Petru înainte de a vă aventura în agitatul North Laine. Dimineața, admirați Pavilionul Regal, apoi pedalați până la Digul Palatului Brighton pentru o pauză de prânz cu vedere la mare. După-amiaza, admirați coasta de la înălțime de la i360, apoi faceți o plimbare mai lungă până la Portul de agrement Brighton. Încheiați ziua cu o plimbare relaxantă înapoi în centrul orașului, gata pentru cină.",
+        "en": "Kick off your cycling day at St. Peter's before diving into the bustling North Laine. In the morning, admire the Royal Pavilion, then cycle to Brighton Palace Pier for a seaside lunch break. In the afternoon, get a bird's-eye view of the coast from the i360, then take a longer ride to Brighton Marina. End your day with a leisurely cycle back to the city centre, ready for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein Muss am Meer! Genießen Sie es am Strand, aber passen Sie auf die Möwen auf."
+          },
+          {
+            "name": "Cider",
+            "tip": "Probieren Sie einen lokalen Apfelwein in einem Pub-Garten."
+          },
+          {
+            "name": "Eiscreme",
+            "tip": "Belohnen Sie sich nach einer langen Fahrt mit einer Kugel Eiscreme."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Kötelező a tengerparton! Fogyaszd a strandon, de vigyázz a sirályokkal."
+          },
+          {
+            "name": "Cider",
+            "tip": "Kóstolj meg egy helyi cidert egy kocsma kertjében."
+          },
+          {
+            "name": "Fagylalt",
+            "tip": "Jutalmazd meg magad egy gombóc fagyival egy hosszú tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "O necesitate pe malul mării! Savurați-l pe plajă, dar aveți grijă la pescăruși."
+          },
+          {
+            "name": "Cidru",
+            "tip": "Încercați un cidru local într-o grădină de pub."
+          },
+          {
+            "name": "Înghețată",
+            "tip": "Recompensați-vă cu o cupă de înghețată după o plimbare lungă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "A must-have by the seaside! Enjoy it on the beach, but watch out for the seagulls."
+          },
+          {
+            "name": "Cider",
+            "tip": "Try a local cider in a pub garden."
+          },
+          {
+            "name": "Ice Cream",
+            "tip": "Reward yourself with a scoop of ice cream after a long ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hove Lawns",
+            "tip": "Radfahren Sie westlich des i360 zu den ruhigeren Hove Lawns.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Undercliff Walk",
+            "tip": "Ein dramatischer Radweg östlich der Marina, unter den Klippen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Preston Park",
+            "tip": "Brightons größter Park, ideal für eine entspannte Radtour abseits der Touristenmassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hove Lawns",
+            "tip": "Tekerj nyugatra az i360-tól a csendesebb Hove Lawns-hoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Undercliff Walk",
+            "tip": "Drámai kerékpárút a Marinától keletre, a sziklák alatt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Preston Park",
+            "tip": "Brighton legnagyobb parkja, ideális egy laza tekeréshez a turistáktól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hove Lawns",
+            "tip": "Pedalați la vest de i360 spre mai liniștitele Hove Lawns.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Undercliff Walk",
+            "tip": "O pistă de biciclete dramatică la est de portul de agrement, sub stânci.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Preston",
+            "tip": "Cel mai mare parc din Brighton, perfect pentru o plimbare relaxantă cu bicicleta departe de aglomerație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hove Lawns",
+            "tip": "Cycle west of the i360 for the quieter Hove Lawns.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Undercliff Walk",
+            "tip": "A dramatic cycle path east of the Marina, beneath the cliffs.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Preston Park",
+            "tip": "Brighton's largest park, perfect for a relaxed cycle away from the crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Snooper's Paradise",
+            "tip": "Ein riesiger Indoor-Flohmarkt in North Laine, ideal für Vintage-Funde."
+          },
+          {
+            "name": "The Open Market",
+            "tip": "Ein lebhafter Markt mit lokalen Produkten, Streetfood und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Snooper's Paradise",
+            "tip": "Hatalmas beltéri bolhapiac a North Laine-ben, ideális vintage kincsekhez."
+          },
+          {
+            "name": "The Open Market",
+            "tip": "Élénk piac helyi termékekkel, street fooddal és kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Snooper's Paradise",
+            "tip": "O piață de vechituri interioară uriașă în North Laine, excelentă pentru descoperiri vintage."
+          },
+          {
+            "name": "The Open Market",
+            "tip": "O piață plină de viață cu produse locale, mâncare stradală și meșteșuguri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snooper's Paradise",
+            "tip": "A huge indoor flea market in North Laine, great for vintage finds."
+          },
+          {
+            "name": "The Open Market",
+            "tip": "A vibrant market with local produce, street food, and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die ausgewiesenen Radwege entlang der Küste.",
+          "Nehmen Sie ein gutes Schloss für Ihr Fahrrad mit.",
+          "Achten Sie auf Fußgänger, besonders in belebten Gegenden.",
+          "Der Wind kann eine Herausforderung sein, seien Sie vorbereitet."
+        ],
+        "hu": [
+          "Használd a kijelölt kerékpárutakat a part mentén.",
+          "Hozz magaddal egy jó lakatot a biciklidhez.",
+          "Vigyázz a gyalogosokra, különösen a forgalmas területeken.",
+          "A szél kihívást jelenthet, készülj fel rá."
+        ],
+        "ro": [
+          "Utilizați pistele de biciclete desemnate de-a lungul litoralului.",
+          "Aduceți un lacăt bun pentru bicicleta dvs.",
+          "Atenție la pietoni, mai ales în zonele aglomerate.",
+          "Vântul poate fi o provocare, fiți pregătiți."
+        ],
+        "en": [
+          "Use the designated cycle lanes along the seafront.",
+          "Bring a good lock for your bike.",
+          "Be mindful of pedestrians, especially in busy areas.",
+          "The wind can be a challenge, be prepared."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 10.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Parken: Pavilion & Museum Cluster",
+            "hu": "Érkezés és parkolás: Pavilion & Múzeum körzet",
+            "ro": "Sosire și parcare: Cluster Pavilion & Muzeu",
+            "en": "Arrive & Park: Pavilion & Museum Cluster"
+          },
+          "coords": [
+            -0.137,
+            50.826
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_mode": "car",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im The Lanes Car Park. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "Parkolj a The Lanes parkolóházban. Innen minden gyalogosan elérhető.",
+            "ro": "Parcați în parcarea The Lanes. Totul este la distanță de mers pe jos de aici.",
+            "en": "Park at The Lanes Car Park. Everything is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Königlicher Pavillon",
+            "hu": "Királyi pavilon",
+            "ro": "Royal Pavilion",
+            "en": "Royal Pavilion"
+          },
+          "coords": [
+            -0.136,
+            50.824
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:17",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit dem ikonischsten Wahrzeichen Brightons.",
+            "hu": "Kezdje a napot Brighton legikonikusabb nevezetességével.",
+            "ro": "Începeți ziua cu cel mai iconic punct de reper din Brighton.",
+            "en": "Start your day with Brighton's most iconic landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Brighton Museum & Kunstgalerie",
+            "hu": "Brightoni Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Brighton",
+            "en": "Brighton Museum & Art Gallery"
+          },
+          "coords": [
+            -0.136,
+            50.825
+          ],
+          "category": "museums",
+          "arrive_at": "10:49",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben dem Pavillon gelegen, ideal für einen nahtlosen Übergang.",
+            "hu": "Közvetlenül a Pavilon mellett található, ideális a zökkenőmentes átmenethez.",
+            "ro": "Situat chiar lângă Pavilion, ideal pentru o tranziție fără probleme.",
+            "en": "Located right next to the Pavilion, perfect for a seamless transition."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt & Parken: Seafront Cluster",
+            "hu": "Autózás és parkolás: Tengerparti körzet",
+            "ro": "Conducere și parcare: Clusterul de pe faleză",
+            "en": "Drive & Park: Seafront Cluster"
+          },
+          "coords": [
+            -0.145,
+            50.819
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:09",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Churchill Square Car Park. Genießen Sie ein Mittagessen mit Meerblick.",
+            "hu": "Vezess a Churchill Square parkolóházba. Élvezz egy ebédet tengeri kilátással.",
+            "ro": "Conduceți spre parcarea Churchill Square. Bucurați-vă de un prânz cu vedere la mare.",
+            "en": "Drive to the Churchill Square Car Park. Enjoy a lunch with a sea view."
+          }
+        },
+        {
+          "name": {
+            "de": "Brighton Palace Pier & i360",
+            "hu": "Brighton Palace Pier & i360",
+            "ro": "Digul Palatului Brighton & i360",
+            "en": "Brighton Palace Pier & i360"
+          },
+          "coords": [
+            -0.14,
+            50.818
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:14",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie vom Parkplatz aus zu diesen beiden ikonischen Attraktionen am Meer.",
+            "hu": "Sétálj a parkolóból ehhez a két ikonikus tengerparti látványossághoz.",
+            "ro": "De la parcare, mergeți pe jos la aceste două atracții iconice de pe faleză.",
+            "en": "Walk from the car park to these two iconic seafront attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Brighton Marina",
+            "hu": "Autózás a Brighton Marinához",
+            "ro": "Conducere spre Portul de agrement Brighton",
+            "en": "Drive to Brighton Marina"
+          },
+          "coords": [
+            -0.075,
+            50.814
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:44",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Eine malerische Fahrt entlang der Küste zum Abschluss des Tages. Genießen Sie hier Ihr Abendessen.",
+            "hu": "Festői autózás a part mentén a nap lezárásaként. Vacsorázzon itt.",
+            "ro": "O plimbare pitorească de-a lungul coastei pentru a încheia ziua. Bucurați-vă de cină aici.",
+            "en": "A scenic drive along the coast to end the day. Enjoy your dinner here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie im Stadtzentrum und erkunden Sie den Royal Pavilion und das Museum zu Fuß. Am Nachmittag fahren Sie zur Küste, parken erneut und genießen den Pier und die Aussicht vom i360. Beenden Sie Ihren Tag mit einer kurzen Fahrt zur Brighton Marina, wo Sie eine andere Atmosphäre und viele Restaurants finden.",
+        "hu": "Parkolj a városközpontban, és fedezd fel gyalog a Királyi Pavilont és a múzeumot. Délután vezess le a tengerpartra, parkolj le újra, és élvezd a mólót és a kilátást az i360-ról. A napot egy rövid autózással zárd a Brighton Marinánál, ahol más hangulat és számos étterem vár.",
+        "ro": "Parcați în centrul orașului pentru a explora pe jos Pavilionul Regal și muzeul. După-amiaza, conduceți spre faleză, parcați din nou și bucurați-vă de dig și de priveliștea de la i360. Încheiați ziua cu o scurtă plimbare cu mașina până la Portul de agrement Brighton pentru o atmosferă diferită și o mulțime de opțiuni de luat masa.",
+        "en": "Park in the city centre cluster to explore the Royal Pavilion and Museum on foot. In the afternoon, drive to the seafront, park again, and enjoy the pier and the views from the i360. End your day with a short drive to Brighton Marina for a different atmosphere and plenty of dining options."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Salt Room",
+            "tip": "Ein gehobenes Fischrestaurant mit Blick auf den West Pier."
+          },
+          {
+            "name": "The Gingerman",
+            "tip": "Eines der besten Restaurants in Brighton, ideal für ein besonderes Abendessen."
+          },
+          {
+            "name": "Marina Restaurants",
+            "tip": "Eine große Auswahl an Kettenrestaurants mit zuverlässiger Qualität und Aussicht auf die Yachten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Salt Room",
+            "tip": "Elegáns tengeri étterem a West Pier-re néző kilátással."
+          },
+          {
+            "name": "The Gingerman",
+            "tip": "Brighton egyik legjobb étterme, ideális egy különleges vacsorához."
+          },
+          {
+            "name": "Marina éttermek",
+            "tip": "Nagy választék láncéttermekből, megbízható minőséggel és kilátással a jachtokra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Salt Room",
+            "tip": "Un restaurant de fructe de mare de lux cu vedere la West Pier."
+          },
+          {
+            "name": "The Gingerman",
+            "tip": "Unul dintre cele mai bune restaurante din Brighton, ideal pentru o cină specială."
+          },
+          {
+            "name": "Restaurantele din port",
+            "tip": "O selecție largă de lanțuri de restaurante cu calitate fiabilă și vedere la iahturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Salt Room",
+            "tip": "An upscale seafood restaurant with views of the West Pier."
+          },
+          {
+            "name": "The Gingerman",
+            "tip": "One of Brighton's top-rated restaurants, ideal for a special dinner."
+          },
+          {
+            "name": "Marina Restaurants",
+            "tip": "A wide selection of chain restaurants with reliable quality and views of the yachts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Queen's Park",
+            "tip": "Ein wunderschöner, ruhiger Park abseits der Touristenpfade, eine kurze Autofahrt vom Zentrum entfernt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hove Beach",
+            "tip": "Fahren Sie ein wenig weiter westlich nach Hove für breitere, ruhigere Strände.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stanmer Park",
+            "tip": "Ein großes Anwesen am Stadtrand, perfekt für einen langen Spaziergang, wenn Sie Zeit haben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Queen's Park",
+            "tip": "Gyönyörű, csendes park a turistautaktól távol, rövid autóútra a központtól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hove Beach",
+            "tip": "Vezess egy kicsit nyugatabbra Hove-ba a szélesebb, csendesebb strandokért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stanmer Park",
+            "tip": "Nagy birtok a város szélén, tökéletes egy hosszú sétához, ha van időd.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Queen's",
+            "tip": "Un parc frumos și liniștit, departe de traseele turistice, la o scurtă distanță cu mașina de centru.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja Hove",
+            "tip": "Conduceți puțin mai la vest spre Hove pentru plaje mai largi și mai liniștite.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Stanmer",
+            "tip": "O proprietate mare la marginea orașului, perfectă pentru o plimbare lungă dacă aveți timp.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Queen's Park",
+            "tip": "A beautiful, quiet park off the beaten track, a short drive from the centre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hove Beach",
+            "tip": "Drive a little further west to Hove for wider, quieter beaches.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stanmer Park",
+            "tip": "A large estate on the edge of the city, perfect for a long walk if you have time.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Churchill Square",
+            "tip": "Brightons Haupteinkaufszentrum mit allen bekannten Marken."
+          },
+          {
+            "name": "Marina Market",
+            "tip": "Am Wochenende findet hier oft ein Markt statt, auf dem Kunsthandwerk und lokale Produkte verkauft werden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Churchill Square",
+            "tip": "Brighton fő bevásárlóközpontja az összes ismert márkával."
+          },
+          {
+            "name": "Marina Market",
+            "tip": "Hétvégén gyakran tartanak itt piacot, ahol kézműves termékeket és helyi árukat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Churchill Square",
+            "tip": "Principalul centru comercial din Brighton cu toate mărcile cunoscute."
+          },
+          {
+            "name": "Piața din port",
+            "tip": "Adesea găzduiește o piață în weekend, unde se vând produse artizanale și locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Churchill Square",
+            "tip": "Brighton's main shopping centre with all the high-street brands."
+          },
+          {
+            "name": "Marina Market",
+            "tip": "Often hosts a market at weekends, selling crafts and local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in Brighton ist teuer und kann schwierig sein. Nutzen Sie Park & Ride, wenn möglich.",
+          "Laden Sie eine Park-App herunter, um das Bezahlen zu erleichtern.",
+          "Der Verkehr kann im Sommer und an Wochenenden stark sein, planen Sie also zusätzliche Zeit ein.",
+          "Achten Sie auf Busspuren und Radfahrer."
+        ],
+        "hu": [
+          "A parkolás Brightonban drága és nehézkes lehet. Használja a Park & Ride lehetőséget, ha lehetséges.",
+          "Töltsön le egy parkolási alkalmazást a könnyebb fizetés érdekében.",
+          "Nyáron és hétvégén nagy lehet a forgalom, tervezzen plusz idővel.",
+          "Vigyázz a buszsávokra és a kerékpárosokra."
+        ],
+        "ro": [
+          "Parcarea în Brighton este scumpă și poate fi dificilă. Folosiți Park & Ride dacă este posibil.",
+          "Descărcați o aplicație de parcare pentru a facilita plata.",
+          "Traficul poate fi intens în timpul verii și în weekend, așa că acordați timp suplimentar.",
+          "Atenție la benzile de autobuz și la bicicliști."
+        ],
+        "en": [
+          "Parking in Brighton is expensive and can be difficult. Use Park & Ride if possible.",
+          "Download a parking app to make payment easier.",
+          "Traffic can be heavy during summer and weekends, so allow extra time.",
+          "Be aware of bus lanes and cyclists."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 8.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft: Old Steine Bushaltestelle",
+            "hu": "Érkezés: Old Steine buszmegálló",
+            "ro": "Sosire: Stația de autobuz Old Steine",
+            "en": "Arrive: Old Steine Bus Stop"
+          },
+          "coords": [
+            -0.137,
+            50.821
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein zentraler Knotenpunkt, von dem aus Sie Ihren Tag beginnen können. Kaufen Sie hier eine Tageskarte.",
+            "hu": "Központi csomópont, ahonnan elindíthatod a napodat. Vegyél itt napijegyet.",
+            "ro": "Un nod central de unde vă puteți începe ziua. Cumpărați un bilet de o zi de aici.",
+            "en": "A central hub to start your day from. Buy a day rider ticket here."
+          }
+        },
+        {
+          "name": {
+            "de": "Königlicher Pavillon & Gärten",
+            "hu": "Királyi pavilon és kertek",
+            "ro": "Pavilionul Regal și Grădinile",
+            "en": "Royal Pavilion & Gardens"
+          },
+          "coords": [
+            -0.136,
+            50.824
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:12",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle. Genießen Sie die Gärten, bevor Sie hineingehen.",
+            "hu": "Rövid séta a buszmegállótól. Élvezd a kerteket, mielőtt bemész.",
+            "ro": "La o scurtă plimbare de stația de autobuz. Bucurați-vă de grădini înainte de a intra.",
+            "en": "A short walk from the bus stop. Enjoy the gardens before heading inside."
+          }
+        },
+        {
+          "name": {
+            "de": "The Lanes & Mittagessen",
+            "hu": "The Lanes és ebéd",
+            "ro": "The Lanes & Prânz",
+            "en": "The Lanes & Lunch"
+          },
+          "coords": [
+            -0.142,
+            50.821
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:50",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Geschäfte und finden Sie einen gemütlichen Ort für Ihr Mittagessen.",
+            "hu": "Fedezd fel az üzleteket, és találj egy hangulatos helyet az ebédhez.",
+            "ro": "Explorați magazinele și găsiți un loc confortabil pentru prânz.",
+            "en": "Explore the shops and find a cozy spot for your lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Brighton Palace Pier",
+            "hu": "Brighton Palace Pier",
+            "ro": "Digul Palatului Brighton",
+            "en": "Brighton Palace Pier"
+          },
+          "coords": [
+            -0.138,
+            50.817
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:58",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie hinunter zur Küste, um die klassische Pier-Erfahrung zu genießen.",
+            "hu": "Sétálj le a partra a klasszikus móló élményért.",
+            "ro": "Mergeți pe jos până la faleză pentru experiența clasică de pe dig.",
+            "en": "Walk down to the seafront for the classic pier experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zur Brighton Marina",
+            "hu": "Buszozás a Brighton Marinához",
+            "ro": "Călătorie cu autobuzul spre Portul de agrement Brighton",
+            "en": "Bus to Brighton Marina"
+          },
+          "coords": [
+            -0.075,
+            50.814
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:43",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus 7 von der Haltestelle Sea Life Centre. Genießen Sie die Aussicht auf die Küste.",
+            "hu": "Szállj fel a 7-es buszra a Sea Life Centre megállónál. Élvezd a kilátást a partra.",
+            "ro": "Luați autobuzul 7 de la stația Sea Life Centre. Bucurați-vă de priveliștile de coastă.",
+            "en": "Take the number 7 bus from the Sea Life Centre stop. Enjoy the coastal views."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zurück ins Zentrum & Abendessen",
+            "hu": "Busz vissza a központba és vacsora",
+            "ro": "Autobuz înapoi în centru și cină",
+            "en": "Bus to Centre & Dinner"
+          },
+          "coords": [
+            -0.139,
+            50.827
+          ],
+          "category": "gastro",
+          "arrive_at": "16:43",
+          "stay_min": 65,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück nach North Laine für eine große Auswahl an Abendrestaurants.",
+            "hu": "Utazz vissza a North Laine-be a vacsoraéttermek széles választékáért.",
+            "ro": "Luați autobuzul înapoi în North Laine pentru o selecție excelentă de restaurante pentru cină.",
+            "en": "Take a bus back to North Laine for a great choice of dinner restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Brighton, am Old Steine. Erkunden Sie den Pavillon und The Lanes zu Fuß. Am Nachmittag bringt Sie ein kurzer Bus Sie zur Brighton Marina. Kehren Sie am Abend mit dem Bus ins Zentrum zurück, um das pulsierende Nachtleben von North Laine zu erleben.",
+        "hu": "Kezdje a napot Brighton szívében, az Old Steine-nál. Fedezze fel gyalog a Pavilont és a The Lanes-t. Délután egy rövid buszút elviszi a Brighton Marinába. Este térjen vissza busszal a központba, hogy megtapasztalja a North Laine nyüzsgő éjszakai életét.",
+        "ro": "Începeți ziua în inima orașului Brighton, la Old Steine. Explorați pe jos Pavilionul și The Lanes. După-amiaza, o scurtă călătorie cu autobuzul vă va duce la Portul de agrement Brighton. Întoarceți-vă în centru cu autobuzul seara pentru viața de noapte vibrantă din North Laine.",
+        "en": "Start your day in the heart of Brighton at Old Steine. Explore the Pavilion and The Lanes on foot. In the afternoon, a short bus ride will take you to Brighton Marina. Return to the centre by bus in the evening for the vibrant nightlife of North Laine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Street Food Market",
+            "tip": "Suchen Sie nach Pop-up-Märkten in der Nähe von The Level oder dem Open Market."
+          },
+          {
+            "name": "Pub Roast",
+            "tip": "Wenn Sie an einem Sonntag hier sind, ist ein traditioneller Sunday Roast ein Muss."
+          },
+          {
+            "name": "Cream Tea",
+            "tip": "Genießen Sie Scones mit Clotted Cream und Marmelade in einem der vielen Teestuben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Street Food piac",
+            "tip": "Keress pop-up piacokat a The Level vagy az Open Market közelében."
+          },
+          {
+            "name": "Sült egy kocsmában",
+            "tip": "Ha vasárnap jársz itt, a hagyományos Sunday Roast kötelező."
+          },
+          {
+            "name": "Tejszínhabos tea",
+            "tip": "Élvezd a pogácsát sűrített tejszínnel és lekvárral az egyik teázóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de mâncare stradală",
+            "tip": "Căutați piețe pop-up lângă The Level sau The Open Market."
+          },
+          {
+            "name": "Friptură la pub",
+            "tip": "Dacă sunteți aici într-o duminică, o friptură tradițională de duminică este obligatorie."
+          },
+          {
+            "name": "Ceai cu frișcă",
+            "tip": "Bucurați-vă de scones cu frișcă și gem la una dintre numeroasele ceainării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street Food Market",
+            "tip": "Look for pop-up markets near The Level or the Open Market."
+          },
+          {
+            "name": "Pub Roast",
+            "tip": "If you're here on a Sunday, a traditional Sunday Roast is a must."
+          },
+          {
+            "name": "Cream Tea",
+            "tip": "Enjoy scones with clotted cream and jam in one of the many tea rooms."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kemp Town",
+            "tip": "Nehmen Sie einen Bus in dieses elegante Viertel für eine ruhigere, dorfähnliche Atmosphäre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Setzen Sie sich nach vorne für eine großartige Aussicht und eine kurze Pause vom Laufen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Brighton-Bibliothek",
+            "tip": "Eine moderne und ruhige Oase im Herzen von North Laine.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kemp Town",
+            "tip": "Buszozz el ebbe az elegáns negyedbe egy csendesebb, falusias hangulatért.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Ülj előre a nagyszerű kilátásért és egy rövid pihenőért a gyaloglás után.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Brightoni Könyvtár",
+            "tip": "Modern és csendes oázis a North Laine szívében.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kemp Town",
+            "tip": "Luați un autobuz spre acest cartier elegant pentru o atmosferă mai liniștită, asemănătoare unui sat.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Stați în față pentru o priveliște minunată și o scurtă pauză de la mersul pe jos.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Biblioteca din Brighton",
+            "tip": "O oază modernă și liniștită în inima North Laine.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kemp Town",
+            "tip": "Take a bus to this elegant neighbourhood for a quieter, village-like feel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Top deck of a double-decker bus",
+            "tip": "Sit at the front for a great view and a quick break from walking.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Brighton Library",
+            "tip": "A modern and quiet oasis in the heart of North Laine.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Lanes",
+            "tip": "Perfekt für Schmuck, Antiquitäten und einzigartige Geschenke."
+          },
+          {
+            "name": "North Laine",
+            "tip": "Ein Paradies für unabhängige Mode, Vintage-Kleidung und skurrile Haushaltswaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Lanes",
+            "tip": "Tökéletes ékszerek, régiségek és egyedi ajándékok vásárlásához."
+          },
+          {
+            "name": "North Laine",
+            "tip": "A független divat, a vintage ruhák és a furcsa háztartási cikkek paradicsoma."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Lanes",
+            "tip": "Perfect pentru bijuterii, antichități și cadouri unice."
+          },
+          {
+            "name": "North Laine",
+            "tip": "Un paradis pentru modă independentă, haine vintage și articole de uz casnic excentrice."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Lanes",
+            "tip": "Perfect for jewellery, antiques, and unique gifts."
+          },
+          {
+            "name": "North Laine",
+            "tip": "A haven for independent fashion, vintage clothing, and quirky homewares."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'DayRider'-Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die App von Brighton & Hove Buses herunter, um Live-Zeiten und Routenplanung zu erhalten.",
+          "Die Busse können in Stoßzeiten voll sein.",
+          "Haben Sie Ihre Karte oder Ihr Handy zum kontaktlosen Bezahlen bereit."
+        ],
+        "hu": [
+          "Vegyél egy 'DayRider' napijegyet a korlátlan utazáshoz.",
+          "Töltsd le a Brighton & Hove Buses alkalmazást az élő menetrendért és útvonaltervezésért.",
+          "A buszok csúcsidőben zsúfoltak lehetnek.",
+          "Legyen kéznél a kártyád vagy a telefonod az érintésmentes fizetéshez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi 'DayRider' pentru călătorii nelimitate.",
+          "Descărcați aplicația Brighton & Hove Buses pentru timpi live și planificare a călătoriei.",
+          "Autobuzele pot fi aglomerate la orele de vârf.",
+          "Aveți cardul sau telefonul pregătit pentru plata contactless."
+        ],
+        "en": [
+          "Buy a 'DayRider' day ticket for unlimited travel.",
+          "Download the Brighton & Hove Buses app for live times and journey planning.",
+          "Buses can be crowded during peak hours.",
+          "Have your card or phone ready for contactless payment."
+        ]
+      }
+    }
+  }
+}

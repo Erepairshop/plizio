@@ -1,0 +1,1388 @@
+{
+  "city_id": "slovakia-povazska-bystrica-cities-v2",
+  "anchor": {
+    "name": "Považská Bystrica",
+    "coords": [
+      18.448,
+      49.1156
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mariä-Heimsuchung-Kirche",
+            "hu": "Sarlós Boldogasszony-templom",
+            "ro": "Biserica Vizita Fecioarei Maria",
+            "en": "Church of the Visitation of the Virgin Mary"
+          },
+          "coords": [
+            18.4448,
+            49.1172
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die barocke Innenausstattung und die beeindruckende Orgel.",
+            "hu": "Figyelje meg a barokk belső teret és a lenyűgöző orgonát.",
+            "ro": "Observați interiorul baroc și orga impresionantă.",
+            "en": "Note the Baroque interior and the impressive organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            18.448,
+            49.119
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine kurze Pause im Grünen, direkt im Stadtzentrum.",
+            "hu": "Ideális hely egy rövid pihenőre a zöldben, közvetlenül a városközpontban.",
+            "ro": "Un loc ideal pentru o scurtă pauză în natură, chiar în centrul orașului.",
+            "en": "An ideal spot for a short break in the green, right in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie Považie",
+            "hu": "Považie Galéria",
+            "ro": "Galeria Považie",
+            "en": "Považie Gallery"
+          },
+          "coords": [
+            18.4435,
+            49.1145
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentriert sich auf slowakische Kunst des 20. und 21. Jahrhunderts. Überprüfen Sie die aktuellen Ausstellungen.",
+            "hu": "A 20. és 21. századi szlovák művészetre összpontosít. Ellenőrizze az aktuális kiállításokat.",
+            "ro": "Se concentrează pe arta slovacă din secolele XX și XXI. Verificați expozițiile curente.",
+            "en": "Focuses on Slovak art of the 20th and 21st centuries. Check the current exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunnen am Kino Mier",
+            "hu": "Szökőkút a Mier mozinál",
+            "ro": "Fântâna de la Cinematograful Mier",
+            "en": "Fountain at the Mier Cinema"
+          },
+          "coords": [
+            18.442,
+            49.1158
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein beliebter Treffpunkt und ein schönes Fotomotiv, besonders am Abend.",
+            "hu": "Népszerű találkozóhely és szép fotótéma, különösen este.",
+            "ro": "Un punct de întâlnire popular și un subiect frumos pentru fotografii, mai ales seara.",
+            "en": "A popular meeting point and a nice photo subject, especially in the evening."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Orlové",
+            "hu": "Orlové kastély",
+            "ro": "Conacul Orlové",
+            "en": "Orlové Manor House"
+          },
+          "coords": [
+            18.468,
+            49.125
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Heute ein Hotel, aber der Park und das Äußere sind einen Spaziergang wert. Bewundern Sie die Renaissance-Architektur.",
+            "hu": "Ma szálloda, de a park és a külső megér egy sétát. Csodálja meg a reneszánsz építészetet.",
+            "ro": "Astăzi este un hotel, dar parcul și exteriorul merită o plimbare. Admirați arhitectura renascentistă.",
+            "en": "Now a hotel, but the park and exterior are worth a walk. Admire the Renaissance architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg",
+            "hu": "Kálvária-hegy",
+            "ro": "Calvarul",
+            "en": "Calvary Hill"
+          },
+          "coords": [
+            18.437,
+            49.121
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, steiler Aufstieg, der mit einer fantastischen Aussicht über die Stadt belohnt wird.",
+            "hu": "Egy rövid, meredek emelkedő, amely fantasztikus kilátással jutalmaz a városra.",
+            "ro": "O urcare scurtă și abruptă, recompensată cu o priveliște fantastică asupra orașului.",
+            "en": "A short, steep climb rewarded with a fantastic view over the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Považská Bystrica mit einem Besuch der Mariä-Heimsuchung-Kirche. Schlendern Sie anschließend durch den Stadtpark. Am Mittag tauchen Sie in der Galerie Považie in die slowakische Kunst ein, gefolgt von einer kurzen Rast am Brunnen. Am Nachmittag unternehmen Sie einen längeren Spaziergang zum Herrenhaus Orlové. Beenden Sie den Tag mit dem Aufstieg zum Kalvarienberg, um den Sonnenuntergang über der Stadt zu genießen.",
+        "hu": "Kezdje a napot Vágbeszterce szívében a Sarlós Boldogasszony-templom meglátogatásával. Ezután sétáljon át a Városi Parkon. Délben merüljön el a szlovák művészetben a Považie Galériában, majd pihenjen egyet a szökőkútnál. Délután tegyen egy hosszabb sétát az Orlové kastélyhoz. A napot a Kálvária-hegy megmászásával zárja, ahonnan megcsodálhatja a naplementét a város felett.",
+        "ro": "Începeți ziua în inima orașului Považská Bystrica cu o vizită la Biserica Vizita Fecioarei Maria. Apoi, plimbați-vă prin Parcul Orașului. La prânz, scufundați-vă în arta slovacă la Galeria Považie, urmată de o scurtă pauză la fântână. După-amiaza, faceți o plimbare mai lungă până la Conacul Orlové. Încheiați ziua urcând pe Dealul Calvarului pentru a vă bucura de apusul peste oraș.",
+        "en": "Start your day in the heart of Považská Bystrica with a visit to the Church of the Visitation. Then, stroll through the City Park. At noon, immerse yourself in Slovak art at the Považie Gallery, followed by a short break at the fountain. In the afternoon, take a longer walk to the Orlové Manor House. End the day by climbing Calvary Hill to enjoy the sunset over the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Das Nationalgericht der Slowakei, eine Art Kartoffelknödel mit Schafskäse und Speck."
+          },
+          {
+            "name": "Restauracia Kastiel",
+            "tip": "Speisen Sie im historischen Ambiente des Herrenhauses Orlové."
+          },
+          {
+            "name": "Pivovar Bystričan",
+            "tip": "Lokale Brauerei mit einer guten Auswahl an Bieren und deftigen Speisen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové halušky (Juhtúrós galuska)",
+            "tip": "Szlovákia nemzeti étele, juhtúróval és szalonnával készült burgonyagombóc."
+          },
+          {
+            "name": "Kastiel Étterem",
+            "tip": "Étkezzen az Orlové kastély történelmi környezetében."
+          },
+          {
+            "name": "Bystričan Sörfőzde",
+            "tip": "Helyi sörfőzde jó sörválasztékkal és kiadós ételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Mâncarea națională a Slovaciei, un tip de găluște de cartofi cu brânză de oaie și slănină."
+          },
+          {
+            "name": "Restaurantul Kastiel",
+            "tip": "Luați masa în ambianța istorică a Conacului Orlové."
+          },
+          {
+            "name": "Berăria Bystričan",
+            "tip": "Berărie locală cu o selecție bună de beri și mâncăruri consistente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "The national dish of Slovakia, a type of potato dumpling with sheep cheese and bacon."
+          },
+          {
+            "name": "Kastiel Restaurant",
+            "tip": "Dine in the historic ambiance of the Orlové Manor House."
+          },
+          {
+            "name": "Bystričan Brewery",
+            "tip": "Local brewery with a good selection of beers and hearty food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kalvarienberg bei Sonnenuntergang",
+            "tip": "Der beste Ort, um die Ruhe und die Aussicht zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang im Park des Herrenhauses Orlové",
+            "tip": "Ein friedlicher Ort abseits des Stadtzentrums.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Flusses Waag",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kálvária-hegy naplementekor",
+            "tip": "A legjobb hely a csend és a kilátás élvezetére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta az Orlové kastély parkjában",
+            "tip": "Békés hely a városközponttól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Vág folyó partja",
+            "tip": "Keressen egy csendes padot, és nézze a vizet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Calvarului la apus",
+            "tip": "Cel mai bun loc pentru a vă bucura de liniște și de priveliște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare în parcul Conacului Orlové",
+            "tip": "Un loc liniștit, departe de centrul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul râului Váh",
+            "tip": "Găsiți o bancă liniștită și priviți apa.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Calvary Hill at sunset",
+            "tip": "The best place to enjoy the quiet and the view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk in the park of Orlové Manor",
+            "tip": "A peaceful spot away from the city center.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Váh River",
+            "tip": "Find a quiet bench and watch the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach Märkten im Stadtzentrum für frische Produkte und lokale Spezialitäten."
+          },
+          {
+            "name": "Souvenirläden",
+            "tip": "In der Nähe der Hauptsehenswürdigkeiten finden Sie kleine Läden mit traditionellem slowakischem Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen piacokat a városközpontban friss termékekért és helyi specialitásokért."
+          },
+          {
+            "name": "Szuvenírboltok",
+            "tip": "A fő látnivalók közelében kis boltokat talál hagyományos szlovák kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețe în centrul orașului pentru produse proaspete și specialități locale."
+          },
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Lângă principalele atracții veți găsi mici magazine cu artizanat tradițional slovac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for markets in the city center for fresh produce and local specialties."
+          },
+          {
+            "name": "Souvenir Shops",
+            "tip": "Near the main attractions, you'll find small shops with traditional Slovak crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden, besonders beim Aufstieg zum Kalvarienberg.",
+          "Nehmen Sie eine Wasserflasche mit, besonders für den längeren Spaziergang am Nachmittag.",
+          "Überprüfen Sie die Öffnungszeiten der Galerie Považie im Voraus.",
+          "Die meisten Orte im Stadtzentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni, különösen a Kálvária-hegyre való feljutáskor.",
+          "Vigyen magával egy üveg vizet, különösen a hosszabb délutáni sétára.",
+          "Előre ellenőrizze a Považie Galéria nyitvatartási idejét.",
+          "A városközpont legtöbb helye könnyen megközelíthető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos, mai ales la urcarea pe Dealul Calvarului.",
+          "Luați cu voi o sticlă de apă, mai ales pentru plimbarea mai lungă de după-amiază.",
+          "Verificați în avans programul de funcționare al Galeriei Považie.",
+          "Majoritatea locurilor din centrul orașului sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot, especially for the climb to Calvary Hill.",
+          "Bring a water bottle, especially for the longer afternoon walk.",
+          "Check the opening hours of the Považie Gallery in advance.",
+          "Most places in the city center are easily accessible on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 19.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Herrenhaus Orlové",
+            "hu": "Orlové kastély",
+            "ro": "Conacul Orlové",
+            "en": "Orlové Manor House"
+          },
+          "coords": [
+            18.468,
+            49.125
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Startpunkt, um sich aufzuwärmen. Der Park ist ideal für eine erste Erkundung.",
+            "hu": "Jó kiindulópont a bemelegítéshez. A park ideális az első felfedezéshez.",
+            "ro": "Un bun punct de plecare pentru a vă încălzi. Parcul este ideal pentru o primă explorare.",
+            "en": "A good starting point to warm up. The park is ideal for a first exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Heimsuchung-Kirche",
+            "hu": "Sarlós Boldogasszony-templom",
+            "ro": "Biserica Vizita Fecioarei Maria",
+            "en": "Church of the Visitation of the Virgin Mary"
+          },
+          "coords": [
+            18.4448,
+            49.1172
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und nehmen Sie sich Zeit für das Innere der Kirche.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és szánjon időt a templom belsejére.",
+            "ro": "Asigurați-vă bicicleta și acordați-vă timp pentru a explora interiorul bisericii.",
+            "en": "Secure your bike and take time to explore the church's interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            18.445,
+            49.116
+          ],
+          "category": "gastro",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Probieren Sie eine lokale Spezialität in einem der Restaurants rund um den Hauptplatz.",
+            "hu": "Kóstoljon meg egy helyi specialitást a főtér körüli éttermek egyikében.",
+            "ro": "Încercați o specialitate locală la unul dintre restaurantele din jurul pieței principale.",
+            "en": "Try a local specialty at one of the restaurants around the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Manínska-Schlucht",
+            "hu": "Manin-szurdok",
+            "ro": "Cheile Manínska",
+            "en": "Manínska Gorge"
+          },
+          "coords": [
+            18.528,
+            49.15
+          ],
+          "category": "natural features",
+          "arrive_at": "13:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour zur Schlucht ist anspruchsvoll, aber die Landschaft ist die Mühe wert. Schieben Sie das Rad durch die engsten Stellen.",
+            "hu": "A kerékpártúra a szurdokhoz kihívást jelent, de a táj megéri a fáradozást. Tolja a kerékpárt a legszűkebb részeken.",
+            "ro": "Plimbarea cu bicicleta până la chei este solicitantă, dar peisajul merită efortul. Împingeți bicicleta prin cele mai înguste locuri.",
+            "en": "The bike ride to the gorge is challenging, but the scenery is worth the effort. Push the bike through the narrowest parts."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Považie (Ruinen)",
+            "hu": "Vágbeszterce vára (romok)",
+            "ro": "Cetatea Považie (ruine)",
+            "en": "Považie Castle (ruins)"
+          },
+          "coords": [
+            18.43,
+            49.135
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Rad am Fuße des Hügels und steigen Sie für eine atemberaubende Aussicht auf.",
+            "hu": "Hagyja a kerékpárt a hegy lábánál, és másszon fel a lélegzetelállító kilátásért.",
+            "ro": "Lăsați bicicleta la poalele dealului și urcați pentru o priveliște uluitoare.",
+            "en": "Leave your bike at the foot of the hill and climb up for a breathtaking view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit einer Fahrt zum eleganten Herrenhaus Orlové. Von dort geht es zurück ins Stadtzentrum zur historischen Mariä-Heimsuchung-Kirche und zum Mittagessen. Der Nachmittag ist ein Abenteuer: eine anspruchsvolle, aber lohnende Fahrt zur spektakulären Manínska-Schlucht. Auf dem Rückweg halten Sie an den Ruinen der Burg Považie, um den Tag mit einem Panoramablick über das Waagtal ausklingen zu lassen.",
+        "hu": "Kezdje a kerékpártúrát egy tekeréssel az elegáns Orlové kastélyhoz. Onnan vissza a városközpontba a történelmi Sarlós Boldogasszony-templomhoz és egy ebédre. A délután egy kaland: egy kihívást jelentő, de annál inkább megérő út a látványos Manin-szurdokhoz. Visszafelé álljon meg Vágbeszterce várának romjainál, hogy a Vág-völgyre nyíló panorámával zárja a napot.",
+        "ro": "Începeți turul cu bicicleta cu o plimbare până la elegantul Conac Orlové. De acolo, întoarceți-vă în centrul orașului la istorica Biserică a Vizitării Fecioarei Maria și pentru prânz. După-amiaza este o aventură: o plimbare provocatoare, dar plină de satisfacții, către spectaculoasele Chei Manínska. La întoarcere, opriți-vă la ruinele Cetății Považie pentru a încheia ziua cu o vedere panoramică asupra văii râului Váh.",
+        "en": "Start your bike tour with a ride to the elegant Orlové Manor House. From there, head back to the city center to the historic Church of the Visitation and for lunch. The afternoon is an adventure: a challenging but rewarding ride to the spectacular Manínska Gorge. On the way back, stop at the ruins of Považie Castle to end the day with a panoramic view over the Váh valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Energiereicher Snack",
+            "tip": "Nehmen Sie Müsliriegel oder Obst für die Fahrt zur Manínska-Schlucht mit."
+          },
+          {
+            "name": "Restauracia Hofer",
+            "tip": "Ein guter Ort für ein stärkendes Mittagessen, bevor es in die Natur geht."
+          },
+          {
+            "name": "Kofola vom Fass",
+            "tip": "Probieren Sie das slowakische Kräuter-Cola als erfrischendes Getränk nach der Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Energiadús snack",
+            "tip": "Vigyen magával müzliszeletet vagy gyümölcsöt a Manin-szurdokhoz vezető útra."
+          },
+          {
+            "name": "Hofer Étterem",
+            "tip": "Jó hely egy kiadós ebédre, mielőtt kimozdulna a természetbe."
+          },
+          {
+            "name": "Csapolt Kofola",
+            "tip": "Kóstolja meg a szlovák gyógynövényes kólát frissítő italként a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustare energizantă",
+            "tip": "Luați batoane de cereale sau fructe pentru drumul spre Cheile Manínska."
+          },
+          {
+            "name": "Restaurantul Hofer",
+            "tip": "Un loc bun pentru un prânz consistent înainte de a ieși în natură."
+          },
+          {
+            "name": "Kofola la halbă",
+            "tip": "Încercați cola slovacă pe bază de plante ca băutură răcoritoare după tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Energy-rich snack",
+            "tip": "Bring cereal bars or fruit for the ride to the Manínska Gorge."
+          },
+          {
+            "name": "Hofer Restaurant",
+            "tip": "A good place for a hearty lunch before heading out into nature."
+          },
+          {
+            "name": "Draught Kofola",
+            "tip": "Try the Slovak herbal cola as a refreshing drink after the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "In der Manínska-Schlucht",
+            "tip": "Finden Sie einen ruhigen Platz und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht von der Burg Považie",
+            "tip": "Ein perfekter Ort, um den Sonnenuntergang über dem Tal zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Entlang des Flusses Waag",
+            "tip": "Die Radwege entlang des Flusses bieten ruhige Abschnitte.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Manin-szurdokban",
+            "tip": "Keressen egy csendes helyet, és hallgassa a természet hangjait.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Vágbesztercei várból",
+            "tip": "Tökéletes hely a naplemente megcsodálására a völgy felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Vág folyó mentén",
+            "tip": "A folyó menti kerékpárutak csendes szakaszokat kínálnak.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "În Cheile Manínska",
+            "tip": "Găsiți un loc liniștit și ascultați sunetele naturii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Cetatea Považie",
+            "tip": "Un loc perfect pentru a privi apusul peste vale.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "De-a lungul râului Váh",
+            "tip": "Pistele de biciclete de-a lungul râului oferă secțiuni liniștite.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "In the Manínska Gorge",
+            "tip": "Find a quiet spot and listen to the sounds of nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Považie Castle",
+            "tip": "A perfect place to watch the sunset over the valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Along the Váh River",
+            "tip": "The bike paths along the river offer quiet sections.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Ausrüstung benötigen, gibt es einige Geschäfte im Stadtzentrum."
+          },
+          {
+            "name": "Lokale Produkte",
+            "tip": "Kaufen Sie Honig oder Käse von lokalen Produzenten als Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha felszerelésre van szüksége, a városközpontban talál néhány boltot."
+          },
+          {
+            "name": "Helyi termékek",
+            "tip": "Vásároljon mézet vagy sajtot helyi termelőktől szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Dacă aveți nevoie de echipament, există câteva magazine în centrul orașului."
+          },
+          {
+            "name": "Produse locale",
+            "tip": "Cumpărați miere sau brânză de la producătorii locali ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "If you need any gear, there are a few shops in the city center."
+          },
+          {
+            "name": "Local Products",
+            "tip": "Buy honey or cheese from local producers as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Ein Helm ist sehr zu empfehlen, besonders auf den Straßen außerhalb der Stadt.",
+          "Die Strecke zur Manínska-Schlucht hat einige Steigungen. Seien Sie vorbereitet.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad sicher abzustellen, während Sie Sehenswürdigkeiten besichtigen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "A sisak erősen ajánlott, különösen a városon kívüli utakon.",
+          "A Manin-szurdokhoz vezető úton vannak emelkedők. Készüljön fel.",
+          "Vigyen magával egy jó lakatot, hogy biztonságosan lezárhassa a kerékpárt a látnivalók megtekintése közben."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "O cască este foarte recomandată, mai ales pe drumurile din afara orașului.",
+          "Traseul către Cheile Manínska are câteva pante. Fiți pregătiți.",
+          "Luați un lacăt bun pentru a vă asigura bicicleta în timp ce vizitați obiectivele turistice."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "A helmet is highly recommended, especially on the roads outside the city.",
+          "The route to the Manínska Gorge has some climbs. Be prepared.",
+          "Bring a good lock to secure your bike while you're sightseeing."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 31.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Manínska-Schlucht",
+            "hu": "Manin-szurdok",
+            "ro": "Cheile Manínska",
+            "en": "Manínska Gorge"
+          },
+          "coords": [
+            18.528,
+            49.15
+          ],
+          "category": "natural features",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie früh los, um die Menschenmassen zu vermeiden. Parken Sie am Eingang und erkunden Sie die engste Schlucht der Slowakei zu Fuß.",
+            "hu": "Induljon korán, hogy elkerülje a tömeget. Parkoljon a bejáratnál, és fedezze fel gyalog Szlovákia legszűkebb szurdokát.",
+            "ro": "Plecați devreme pentru a evita aglomerația. Parcați la intrare și explorați cele mai înguste chei din Slovacia pe jos.",
+            "en": "Leave early to avoid the crowds. Park at the entrance and explore Slovakia's narrowest gorge on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Považie (Ruinen)",
+            "hu": "Vágbeszterce vára (romok)",
+            "ro": "Cetatea Považie (ruine)",
+            "en": "Považie Castle (ruins)"
+          },
+          "coords": [
+            18.43,
+            49.135
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer, steiler Aufstieg vom Parkplatz, der mit einer fantastischen Aussicht belohnt wird.",
+            "hu": "Rövid, meredek séta a parkolóból, melyet fantasztikus kilátás jutalmaz.",
+            "ro": "O scurtă urcare abruptă de la parcare, recompensată cu o priveliște fantastică.",
+            "en": "A short, steep walk up from the parking lot, rewarded with a fantastic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Herrenhaus Orlové",
+            "hu": "Ebéd az Orlové kastélyban",
+            "ro": "Prânz la Conacul Orlové",
+            "en": "Lunch at Orlové Manor House"
+          },
+          "coords": [
+            18.468,
+            49.125
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages. Genießen Sie ein Mittagessen im historischen Ambiente.",
+            "hu": "Parkoljon le itt a nap hátralévő részére. Élvezze az ebédet a történelmi környezetben.",
+            "ro": "Parcați aici pentru restul zilei. Bucurați-vă de un prânz în ambianța istorică.",
+            "en": "Park here for the rest of the day. Enjoy lunch in the historic ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Heimsuchung-Kirche",
+            "hu": "Sarlós Boldogasszony-templom",
+            "ro": "Biserica Vizita Fecioarei Maria",
+            "en": "Church of the Visitation of the Virgin Mary"
+          },
+          "coords": [
+            18.4448,
+            49.1172
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Herrenhaus ins Stadtzentrum.",
+            "hu": "Kellemes séta a kastélytól a városközpontba.",
+            "ro": "O plimbare plăcută de la conac până în centrul orașului.",
+            "en": "A pleasant walk from the manor house to the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie Považie",
+            "hu": "Považie Galéria",
+            "ro": "Galeria Považie",
+            "en": "Považie Gallery"
+          },
+          "coords": [
+            18.4435,
+            49.1145
+          ],
+          "category": "museums",
+          "arrive_at": "15:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche. Perfekt, um den Nachmittag im Trockenen zu verbringen.",
+            "hu": "Rövid séta a templomtól. Tökéletes a délután beltéri eltöltéséhez.",
+            "ro": "O scurtă plimbare de la biserică. Perfect pentru a petrece după-amiaza în interior.",
+            "en": "A short walk from the church. Perfect for spending the afternoon indoors."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Stadtpark",
+            "hu": "Séta a Városi Parkban",
+            "ro": "Plimbare în Parcul Orașului",
+            "en": "Walk in the City Park"
+          },
+          "coords": [
+            18.448,
+            49.119
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Ausklang des Tages, bevor Sie zurück zum Auto gehen.",
+            "hu": "Pihentető befejezése a napnak, mielőtt visszamenne az autóhoz.",
+            "ro": "O încheiere relaxantă a zilei înainte de a vă întoarce la mașină.",
+            "en": "A relaxing end to the day before heading back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit einem Ausflug in die Natur zur atemberaubenden Manínska-Schlucht. Fahren Sie dann weiter zu den historischen Ruinen der Burg Považie für einen Panoramablick. Zum Mittag parken Sie am Herrenhaus Orlové, wo Sie speisen und den Rest des Tages das Stadtzentrum zu Fuß erkunden. Besuchen Sie die Kirche und die Kunstgalerie, bevor Sie den Tag mit einem ruhigen Spaziergang im Stadtpark ausklingen lassen.",
+        "hu": "Kezdje a napot egy természeti kirándulással a lélegzetelállító Manin-szurdokhoz. Ezután hajtson tovább a történelmi Vágbesztercei vár romjaihoz egy panorámás kilátásért. Ebédre parkoljon le az Orlové kastélynál, ahol étkezhet, majd a nap hátralévő részében gyalog fedezheti fel a városközpontot. Látogassa meg a templomot és a művészeti galériát, mielőtt egy csendes sétával zárja a napot a Városi Parkban.",
+        "ro": "Începeți ziua cu o excursie în natură la uimitoarele Chei Manínska. Apoi, conduceți mai departe spre ruinele istorice ale Cetății Považie pentru o vedere panoramică. La prânz, parcați la Conacul Orlové, unde puteți lua masa și explora centrul orașului pe jos pentru restul zilei. Vizitați biserica și galeria de artă înainte de a încheia ziua cu o plimbare liniștită în Parcul Orașului.",
+        "en": "Start the day with a trip into nature to the stunning Manínska Gorge. Then drive on to the historic ruins of Považie Castle for a panoramic view. For lunch, park at the Orlové Manor House, where you can dine and explore the city center on foot for the rest of the day. Visit the church and the art gallery before ending the day with a quiet walk in the City Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restauracia Kastiel",
+            "tip": "Ein Muss für ein elegantes Mittagessen in historischer Umgebung."
+          },
+          {
+            "name": "Parené buchty",
+            "tip": "Süße Dampfnudeln, oft mit Marmelade gefüllt und mit Mohn bestreut - ein perfekter süßer Snack."
+          },
+          {
+            "name": "Lokale Käsereien",
+            "tip": "Halten Sie Ausschau nach 'Salaš'-Schildern für frischen Schafskäse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastiel Étterem",
+            "tip": "Kötelező egy elegáns ebédhez történelmi környezetben."
+          },
+          {
+            "name": "Parené buchty (Gőzgombóc)",
+            "tip": "Édes gőzgombóc, gyakran lekvárral töltve és mákkal megszórva - tökéletes édes snack."
+          },
+          {
+            "name": "Helyi sajtkészítők",
+            "tip": "Keresse a 'Salaš' táblákat a friss juhtúróért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Kastiel",
+            "tip": "O necesitate pentru un prânz elegant într-un cadru istoric."
+          },
+          {
+            "name": "Parené buchty",
+            "tip": "Găluște dulci la abur, adesea umplute cu gem și presărate cu mac - o gustare dulce perfectă."
+          },
+          {
+            "name": "Brânzării locale",
+            "tip": "Căutați semnele 'Salaš' pentru brânză proaspătă de oaie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kastiel Restaurant",
+            "tip": "A must for an elegant lunch in a historic setting."
+          },
+          {
+            "name": "Parené buchty",
+            "tip": "Sweet steamed buns, often filled with jam and sprinkled with poppy seeds - a perfect sweet snack."
+          },
+          {
+            "name": "Local Cheese Dairies",
+            "tip": "Look for 'Salaš' signs for fresh sheep cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wanderwege in der Manínska-Schlucht",
+            "tip": "Abseits des Hauptweges finden Sie absolute Stille.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Spitze der Burg Považie",
+            "tip": "Weit weg vom Stadtlärm, nur der Wind und die Aussicht.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Am Kalvarienberg",
+            "tip": "Auch wenn er nicht auf der Route liegt, ist er mit dem Auto schnell erreichbar für eine ruhige Minute.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Túraútvonalak a Manin-szurdokban",
+            "tip": "A fő ösvénytől távolabb abszolút csendet talál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Vágbesztercei vár csúcsa",
+            "tip": "Távol a város zajától, csak a szél és a kilátás.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "A Kálvária-hegyen",
+            "tip": "Bár nincs az útvonalon, autóval gyorsan elérhető egy csendes percre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trasee de drumeție în Cheile Manínska",
+            "tip": "Departe de poteca principală, veți găsi liniște absolută.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vârful Cetății Považie",
+            "tip": "Departe de zgomotul orașului, doar vântul și priveliștea.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Pe Dealul Calvarului",
+            "tip": "Chiar dacă nu este pe traseu, este rapid accesibil cu mașina pentru un minut de liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hiking trails in the Manínska Gorge",
+            "tip": "Away from the main path, you will find absolute silence.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The top of Považie Castle",
+            "tip": "Far from the city noise, just the wind and the view.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "On Calvary Hill",
+            "tip": "Even if it's not on the route, it's quickly accessible by car for a quiet minute.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Auf dem Weg zu den Sehenswürdigkeiten außerhalb der Stadt finden Sie oft kleine Stände mit lokalen Produkten."
+          },
+          {
+            "name": "Handwerkskunst",
+            "tip": "Suchen Sie in der Stadt nach 'ÚĽUV'-Läden für authentisches slowakisches Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "A városon kívüli látnivalók felé vezető úton gyakran talál kis standokat helyi termékekkel."
+          },
+          {
+            "name": "Kézművesség",
+            "tip": "Keressen 'ÚĽUV' boltokat a városban autentikus szlovák kézműves termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă",
+            "tip": "În drum spre atracțiile din afara orașului, veți găsi adesea mici tarabe cu produse locale."
+          },
+          {
+            "name": "Artizanat",
+            "tip": "Căutați magazine 'ÚĽUV' în oraș pentru artizanat slovac autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "On the way to the sights outside the city, you will often find small stalls with local products."
+          },
+          {
+            "name": "Craftsmanship",
+            "tip": "Look for 'ÚĽUV' shops in the city for authentic Slovak handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tanken Sie voll, bevor Sie die Stadt verlassen, besonders wenn Sie in die ländlichen Gebiete fahren.",
+          "Parken kann im Stadtzentrum schwierig sein. Nutzen Sie den Parkplatz am Herrenhaus Orlové als Basis.",
+          "Gutes Schuhwerk ist für die Erkundung der Burgruine und der Schlucht unerlässlich.",
+          "Haben Sie etwas Bargeld dabei, da nicht alle kleinen Läden oder Parkplätze Karten akzeptieren."
+        ],
+        "hu": [
+          "Tankoljon tele, mielőtt elhagyja a várost, különösen, ha vidéki területekre megy.",
+          "A parkolás nehézkes lehet a városközpontban. Használja az Orlové kastély parkolóját bázisként.",
+          "A várrom és a szurdok felfedezéséhez elengedhetetlen a jó lábbeli.",
+          "Legyen Önnél némi készpénz, mivel nem minden kis üzlet vagy parkoló fogad el kártyát."
+        ],
+        "ro": [
+          "Faceți plinul înainte de a părăsi orașul, mai ales dacă mergeți în zonele rurale.",
+          "Parcarea poate fi dificilă în centrul orașului. Folosiți parcarea de la Conacul Orlové ca bază.",
+          "Încălțămintea bună este esențială pentru explorarea ruinelor cetății și a cheilor.",
+          "Aveți la dumneavoastră niște numerar, deoarece nu toate magazinele mici sau parcările acceptă carduri."
+        ],
+        "en": [
+          "Fill up with gas before leaving the city, especially if you are heading into rural areas.",
+          "Parking can be difficult in the city center. Use the parking lot at the Orlové Manor House as a base.",
+          "Good footwear is essential for exploring the castle ruins and the gorge.",
+          "Have some cash with you, as not all small shops or parking lots accept cards."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Herrenhaus Orlové",
+            "hu": "Orlové kastély",
+            "ro": "Conacul Orlové",
+            "en": "Orlové Manor House"
+          },
+          "coords": [
+            18.468,
+            49.125
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum nach Orlové. Es ist der erste Cluster Ihres Tages.",
+            "hu": "Menjen busszal a központból Orlovéba. Ez a nap első klasztere.",
+            "ro": "Luați un autobuz din centru spre Orlové. Este primul grup de obiective al zilei.",
+            "en": "Take a bus from the center to Orlové. It's the first cluster of your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg",
+            "hu": "Kálvária-hegy",
+            "ro": "Calvarul",
+            "en": "Calvary Hill"
+          },
+          "coords": [
+            18.437,
+            49.121
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Herrenhaus, bevor Sie den Bus zurück ins Zentrum nehmen.",
+            "hu": "Rövid séta a kastélytól, mielőtt visszamenne busszal a központba.",
+            "ro": "O scurtă plimbare de la conac înainte de a lua autobuzul înapoi spre centru.",
+            "en": "A short walk from the manor house before taking the bus back to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Heimsuchung-Kirche",
+            "hu": "Sarlós Boldogasszony-templom",
+            "ro": "Biserica Vizita Fecioarei Maria",
+            "en": "Church of the Visitation of the Virgin Mary"
+          },
+          "coords": [
+            18.4448,
+            49.1172
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ins Stadtzentrum. Die Kirche ist der erste Halt in diesem Cluster.",
+            "hu": "Menjen busszal vissza a városközpontba. A templom az első megálló ebben a klaszterben.",
+            "ro": "Luați autobuzul înapoi în centrul orașului. Biserica este prima oprire în acest grup de obiective.",
+            "en": "Take the bus back to the city center. The church is the first stop in this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie Považie & Mittagessen",
+            "hu": "Považie Galéria és Ebéd",
+            "ro": "Galeria Považie & Prânz",
+            "en": "Považie Gallery & Lunch"
+          },
+          "coords": [
+            18.4435,
+            49.1145
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbinden Sie Kunstgenuss mit einem Mittagessen in einem der nahegelegenen Restaurants.",
+            "hu": "Kösse össze a művészeti élményt egy ebéddel a közeli éttermek egyikében.",
+            "ro": "Combinați plăcerea artei cu un prânz la unul dintre restaurantele din apropiere.",
+            "en": "Combine art appreciation with lunch at one of the nearby restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            18.448,
+            49.119
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 85,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages für einen entspannten Spaziergang. Von hier aus können Sie leicht Ihren Bus für die Abreise erreichen.",
+            "hu": "A nap utolsó állomása egy pihentető sétára. Innen könnyen elérheti az induló buszát.",
+            "ro": "Ultima oprire a zilei pentru o plimbare relaxantă. De aici puteți ajunge cu ușurință la autobuzul de plecare.",
+            "en": "The last stop of the day for a relaxing walk. From here you can easily reach your bus for departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um den Tag am Herrenhaus Orlové und dem nahegelegenen Kalvarienberg zu beginnen. Fahren Sie dann mit dem Bus zurück ins Herz der Stadt. Dort erkunden Sie zu Fuß die Kirche und die Kunstgalerie, wo Sie auch zu Mittag essen. Beenden Sie Ihren Ausflug mit einem ausgedehnten, entspannten Spaziergang durch den Stadtpark, bevor Sie Ihre Heimreise antreten.",
+        "hu": "Használja a tömegközlekedést, hogy a napot az Orlové kastélynál és a közeli Kálvária-hegynél kezdje. Ezután utazzon vissza busszal a város szívébe. Ott gyalog fedezze fel a templomot és a művészeti galériát, ahol ebédelni is fog. Fejezze be a kirándulást egy hosszas, pihentető sétával a Városi Parkban, mielőtt hazaindulna.",
+        "ro": "Folosiți transportul public pentru a începe ziua la Conacul Orlové și la Dealul Calvarului din apropiere. Apoi, luați autobuzul înapoi în inima orașului. Acolo, explorați pe jos biserica și galeria de artă, unde veți lua și prânzul. Încheiați excursia cu o plimbare lungă și relaxantă prin Parcul Orașului înainte de a vă întoarce acasă.",
+        "en": "Use public transport to start the day at the Orlové Manor House and the nearby Calvary Hill. Then take the bus back to the heart of the city. There, explore the church and art gallery on foot, where you will also have lunch. End your trip with a long, relaxing walk through the City Park before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Gebäck",
+            "tip": "Kaufen Sie sich in einer Bäckerei nahe einer Bushaltestelle etwas für unterwegs."
+          },
+          {
+            "name": "Tagesmenü (denné menu)",
+            "tip": "Viele Restaurants bieten mittags günstige 2-Gänge-Menüs an."
+          },
+          {
+            "name": "Zmrzlina",
+            "tip": "Ein Eis zur Belohnung nach einem Spaziergang im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi péksütemény",
+            "tip": "Vásároljon valamit útközben egy buszmegálló melletti pékségben."
+          },
+          {
+            "name": "Napi menü (denné menu)",
+            "tip": "Sok étterem kínál délben olcsó kétfogásos menüt."
+          },
+          {
+            "name": "Zmrzlina (fagylalt)",
+            "tip": "Egy fagylalt jutalomként a parki séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de patiserie locale",
+            "tip": "Cumpărați ceva de drum de la o brutărie de lângă o stație de autobuz."
+          },
+          {
+            "name": "Meniul zilei (denné menu)",
+            "tip": "Multe restaurante oferă meniuri ieftine cu 2 feluri la prânz."
+          },
+          {
+            "name": "Zmrzlina (înghețată)",
+            "tip": "O înghețată ca recompensă după o plimbare în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local pastry",
+            "tip": "Buy something for the road from a bakery near a bus stop."
+          },
+          {
+            "name": "Daily menu (denné menu)",
+            "tip": "Many restaurants offer cheap 2-course menus at lunchtime."
+          },
+          {
+            "name": "Zmrzlina (ice cream)",
+            "tip": "An ice cream as a reward after a walk in the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Ecke im Stadtpark",
+            "tip": "Abseits der Hauptwege finden Sie Bänke zum Entspannen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Die Stille in der Kirche",
+            "tip": "Nehmen Sie sich einen Moment Zeit, um die friedliche Atmosphäre zu genießen.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Blick vom Kalvarienberg",
+            "tip": "Ein kurzer Moment der Ruhe mit Weitblick.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes sarok a Városi Parkban",
+            "tip": "A főutaktól távolabb padokat talál a pihenéshez.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A csend a templomban",
+            "tip": "Szánjon egy percet a békés légkör élvezetére.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Kilátás a Kálvária-hegyről",
+            "tip": "Egy rövid, csendes pillanat a távolba nézve.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un colț liniștit în Parcul Orașului",
+            "tip": "Departe de aleile principale, veți găsi bănci pentru relaxare.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Liniștea din biserică",
+            "tip": "Acordați-vă un moment pentru a vă bucura de atmosfera pașnică.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Vedere de pe Dealul Calvarului",
+            "tip": "Un scurt moment de liniște cu o priveliște largă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet corner in the City Park",
+            "tip": "Away from the main paths, you will find benches to relax on.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The silence in the church",
+            "tip": "Take a moment to enjoy the peaceful atmosphere.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "View from Calvary Hill",
+            "tip": "A brief moment of peace with a wide view.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk an der Bushaltestelle",
+            "tip": "Kaufen Sie Tickets, Zeitungen oder einen schnellen Snack."
+          },
+          {
+            "name": "Buchhandlung im Zentrum",
+            "tip": "Finden Sie ein Buch über die Region oder eine Postkarte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszmegállóban",
+            "tip": "Vásároljon jegyeket, újságokat vagy egy gyors snacket."
+          },
+          {
+            "name": "Könyvesbolt a központban",
+            "tip": "Találjon egy könyvet a régióról vagy egy képeslapot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la stația de autobuz",
+            "tip": "Cumpărați bilete, ziare sau o gustare rapidă."
+          },
+          {
+            "name": "Librărie în centru",
+            "tip": "Găsiți o carte despre regiune sau o carte poștală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus stop",
+            "tip": "Buy tickets, newspapers or a quick snack."
+          },
+          {
+            "name": "Bookstore in the center",
+            "tip": "Find a book about the region or a postcard."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, das ist in der Regel am günstigsten.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die letzte Rückfahrt.",
+          "Halten Sie Kleingeld für die Tickets bereit, falls Sie sie direkt beim Fahrer kaufen.",
+          "Die meisten Busse sind modern, aber seien Sie zu Stoßzeiten auf Gedränge vorbereitet."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, általában ez a legolcsóbb.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó járatot.",
+          "Készítsen elő aprópénzt a jegyekhez, ha közvetlenül a sofőrnél vásárol.",
+          "A legtöbb busz modern, de csúcsidőben készüljön fel a tömegre."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, de obicei este cel mai ieftin.",
+          "Verificați programul autobuzelor în avans, mai ales pentru ultima călătorie de întoarcere.",
+          "Pregătiți mărunțiș pentru bilete dacă le cumpărați direct de la șofer.",
+          "Majoritatea autobuzelor sunt moderne, dar fiți pregătiți pentru aglomerație la orele de vârf."
+        ],
+        "en": [
+          "Buy a day ticket for the bus, this is usually the cheapest.",
+          "Check the bus schedule in advance, especially for the last return trip.",
+          "Have small change ready for the tickets if you buy them directly from the driver.",
+          "Most buses are modern, but be prepared for crowds during peak hours."
+        ]
+      }
+    }
+  }
+}

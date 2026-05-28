@@ -1,0 +1,1404 @@
+{
+  "city_id": "greece-agios-kirykos-cities-v2",
+  "anchor": {
+    "name": "Agios Kirykos",
+    "coords": [
+      26.2833,
+      37.6167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Heldenplatz",
+            "hu": "Hősök tere",
+            "ro": "Piața Eroilor",
+            "en": "Heroes' Square"
+          },
+          "coords": [
+            26.2935,
+            37.6145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der lokalen Kafenions.",
+            "hu": "Indítsa a napot egy kávéval a helyi kávézók egyikében.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day with a coffee at one of the local kafenions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Kirykos",
+            "hu": "Agios Kirykos-templom",
+            "ro": "Biserica Agios Kirykos",
+            "en": "Agios Kirykos Church"
+          },
+          "coords": [
+            26.2942,
+            37.615
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Ikonostase und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a lenyűgöző ikonosztázt és a békés légkört.",
+            "ro": "Admirați iconostasul impresionant și atmosfera liniștită.",
+            "en": "Admire the impressive iconostasis and the serene atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskunde- und Geschichtsmuseum",
+            "hu": "Néprajzi és Történeti Múzeum",
+            "ro": "Muzeul de Folclor și Istorie",
+            "en": "Folklore and History Museum"
+          },
+          "coords": [
+            26.293,
+            37.614
+          ],
+          "category": "museums",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie Artefakte aus dem täglichen Leben und der reichen Geschichte der Insel.",
+            "hu": "Fedezze fel a sziget mindennapi életéből és gazdag történelméből származó tárgyakat.",
+            "ro": "Descoperiți artefacte din viața de zi cu zi și istoria bogată a insulei.",
+            "en": "Discover artifacts from daily life and the island's rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Agios Kirykos",
+            "hu": "Agios Kirykos kikötője",
+            "ro": "Portul din Agios Kirykos",
+            "en": "Port of Agios Kirykos"
+          },
+          "coords": [
+            26.2965,
+            37.6118
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie die ankommenden und abfahrenden Fischerboote und Fähren.",
+            "hu": "Nézze a be- és kifutó halászhajókat és kompokat.",
+            "ro": "Urmăriți bărcile de pescuit și feriboturile care sosesc și pleacă.",
+            "en": "Watch the fishing boats and ferries coming and going."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            26.2958,
+            37.6125
+          ],
+          "category": "museums",
+          "arrive_at": "12:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsliebhaber, mit Funden aus der antiken Siedlung Therma.",
+            "hu": "Kötelező a történelem kedvelőinek, az ókori Therma település leleteivel.",
+            "ro": "O vizită obligatorie pentru iubitorii de istorie, cu descoperiri din așezarea antică Therma.",
+            "en": "A must-see for history lovers, with finds from the ancient settlement of Therma."
+          }
+        },
+        {
+          "name": {
+            "de": "Lefkada-Strand",
+            "hu": "Lefkada strand",
+            "ro": "Plaja Lefkada",
+            "en": "Lefkada Beach"
+          },
+          "coords": [
+            26.289,
+            37.618
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:37",
+          "stay_min": 180,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie am Kieselstrand und genießen Sie das kristallklare Wasser.",
+            "hu": "Pihenjen a kavicsos tengerparton és élvezze a kristálytiszta vizet.",
+            "ro": "Relaxați-vă pe plaja cu pietriș și bucurați-vă de apa cristalină.",
+            "en": "Relax on the pebble beach and enjoy the crystal-clear water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang auf dem lebhaften Heldenplatz. Tauchen Sie in die lokale Kultur ein, indem Sie die nahegelegene Agios-Kirykos-Kirche und das Volkskundemuseum besuchen. Am Mittag schlendern Sie zum Hafen, beobachten das Treiben und besuchen das Archäologische Museum. Verbringen Sie den Nachmittag entspannt am Lefkada-Strand, genießen Sie die Sonne und das Meer. Schließen Sie den Tag mit einem Abendessen in einer Taverne am Meer ab und genießen Sie die friedliche Atmosphäre der Insel.",
+        "hu": "Kezdje sétáját a nyüzsgő Hősök terén. Merüljön el a helyi kultúrában a közeli Agios Kirykos-templom és a Néprajzi Múzeum meglátogatásával. Délben sétáljon le a kikötőbe, nézze a forgatagot, majd látogasson el a Régészeti Múzeumba. A délutánt pihenéssel töltse a Lefkada strandon, élvezve a napot és a tengert. Zárja a napot egy tengerparti tavernában elköltött vacsorával, élvezve a sziget békés hangulatát.",
+        "ro": "Începeți plimbarea în vibranta Piață a Eroilor. Pătrundeți în cultura locală vizitând Biserica Agios Kirykos și Muzeul de Folclor din apropiere. La prânz, plimbați-vă până în port, urmăriți agitația și vizitați Muzeul de Arheologie. Petreceți după-amiaza relaxându-vă pe plaja Lefkada, bucurându-vă de soare și mare. Încheiați ziua cu o cină la o tavernă pe malul mării, savurând atmosfera liniștită a insulei.",
+        "en": "Start your walking tour at the vibrant Heroes' Square. Delve into the local culture by visiting the nearby Agios Kirykos Church and the Folklore Museum. At midday, stroll down to the port, watch the hustle and bustle, and visit the Archaeological Museum. Spend the afternoon relaxing at Lefkada Beach, soaking up the sun and the sea. End the day with dinner at a seaside taverna, enjoying the island's peaceful atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch in einer Hafentaverne",
+            "tip": "Probieren Sie den Fang des Tages, oft direkt von den örtlichen Fischern gekauft."
+          },
+          {
+            "name": "Kathoura",
+            "tip": "Ein lokaler Ziegenkäse, der oft in Salaten oder als Vorspeise serviert wird."
+          },
+          {
+            "name": "Soufiko",
+            "tip": "Ein traditionelles ikarisches Gemüsegericht, langsam in Olivenöl gekocht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss hal egy kikötői tavernában",
+            "tip": "Kóstolja meg a nap fogását, amelyet gyakran közvetlenül a helyi halászoktól vásárolnak."
+          },
+          {
+            "name": "Kathoura",
+            "tip": "Helyi kecskesajt, amelyet gyakran salátákban vagy előételként szolgálnak fel."
+          },
+          {
+            "name": "Soufiko",
+            "tip": "Hagyományos ikariai zöldségétel, lassan olívaolajban főzve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt la o tavernă din port",
+            "tip": "Încercați captura zilei, adesea cumpărată direct de la pescarii locali."
+          },
+          {
+            "name": "Kathoura",
+            "tip": "O brânză locală de capră, adesea servită în salate sau ca aperitiv."
+          },
+          {
+            "name": "Soufiko",
+            "tip": "Un fel de mâncare tradițional din Ikaria cu legume, gătit lent în ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh fish at a port taverna",
+            "tip": "Try the catch of the day, often bought directly from local fishermen."
+          },
+          {
+            "name": "Kathoura",
+            "tip": "A local goat cheese, often served in salads or as an appetizer."
+          },
+          {
+            "name": "Soufiko",
+            "tip": "A traditional Ikarian vegetable dish, slow-cooked in olive oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lefkada-Strand am späten Nachmittag",
+            "tip": "Wenn die Menschenmassen nachlassen, wird es zu einem perfekten Ort der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Gassen oberhalb des Hafens",
+            "tip": "Verirren Sie sich in den ruhigen, engen Gassen und entdecken Sie versteckte Ecken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirche Panagia Raos",
+            "tip": "Ein friedlicher Ort für einen Moment der Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lefkada strand késő délután",
+            "tip": "Amikor a tömeg elvonul, tökéletes csendes hellyé válik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A kikötő feletti sikátorok",
+            "tip": "Tévedjen el a csendes, szűk utcácskákban, és fedezzen fel rejtett zugokat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Panagia Raos-templom",
+            "tip": "Békés hely egy pillanatnyi elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Lefkada după-amiaza târziu",
+            "tip": "Pe măsură ce mulțimea se dispersează, devine un loc perfect pentru liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțele de deasupra portului",
+            "tip": "Pierdeți-vă pe aleile înguste și liniștite pentru a descoperi colțuri ascunse.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Panagia Raos",
+            "tip": "Un loc pașnic pentru un moment de reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lefkada Beach in the late afternoon",
+            "tip": "As the crowds thin out, it becomes a perfect spot for tranquility.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The alleys above the port",
+            "tip": "Get lost in the quiet, narrow alleyways to discover hidden corners.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Panagia Raos Church",
+            "tip": "A peaceful spot for a moment of reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Ikaria ist berühmt für seinen einzigartigen, dicken Thymianhonig."
+          },
+          {
+            "name": "Keramik",
+            "tip": "Handgefertigte Töpferwaren mit traditionellen Designs."
+          },
+          {
+            "name": "Ikarischer Wein",
+            "tip": "Kaufen Sie eine Flasche des starken, lokalen Weins als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Ikaria híres egyedülálló, sűrű kakukkfűmézéről."
+          },
+          {
+            "name": "Kerámia",
+            "tip": "Kézzel készített agyagedények hagyományos mintákkal."
+          },
+          {
+            "name": "Ikariai bor",
+            "tip": "Vásároljon egy üveg erős, helyi bort emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Ikaria este renumită pentru mierea sa unică și densă de cimbru."
+          },
+          {
+            "name": "Ceramică",
+            "tip": "Obiecte de olărit lucrate manual cu modele tradiționale."
+          },
+          {
+            "name": "Vin de Ikaria",
+            "tip": "Cumpărați o sticlă de vin local puternic ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Ikaria is famous for its unique, thick thyme honey."
+          },
+          {
+            "name": "Ceramics",
+            "tip": "Handmade pottery with traditional designs."
+          },
+          {
+            "name": "Ikarian Wine",
+            "tip": "Buy a bottle of the strong, local wine as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen und Wege uneben sein können.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Ein Hut und Sonnencreme sind unerlässlich.",
+          "Die meisten Geschäfte haben während der Mittagszeit für eine Siesta geschlossen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az utcák és ösvények egyenetlenek lehetnek.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban.",
+          "A kalap és a naptej elengedhetetlen.",
+          "A legtöbb üzlet délben szieszta idejére bezár."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile și cărările pot fi denivelate.",
+          "Luați multă apă, mai ales în lunile de vară.",
+          "O pălărie și cremă de protecție solară sunt esențiale.",
+          "Majoritatea magazinelor sunt închise la prânz pentru siestă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets and paths can be uneven.",
+          "Bring plenty of water, especially during the summer months.",
+          "A hat and sunscreen are essential.",
+          "Most shops close during midday for a siesta."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 6.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Heldenplatz",
+            "hu": "Hősök tere",
+            "ro": "Piața Eroilor",
+            "en": "Heroes' Square"
+          },
+          "coords": [
+            26.2935,
+            37.6145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die morgendliche Atmosphäre des Platzes.",
+            "hu": "Parkolja le a kerékpárt, és élvezze a tér reggeli hangulatát.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosfera de dimineață a pieței.",
+            "en": "Park your bike and enjoy the morning atmosphere of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Agios Kirykos",
+            "hu": "Agios Kirykos kikötője",
+            "ro": "Portul din Agios Kirykos",
+            "en": "Port of Agios Kirykos"
+          },
+          "coords": [
+            26.2965,
+            37.6118
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt entlang der Küste führt Sie direkt zum geschäftigen Hafen.",
+            "hu": "Egy kellemes tekerés a part mentén egyenesen a nyüzsgő kikötőbe vezet.",
+            "ro": "O plimbare plăcută pe coastă vă va duce direct în portul aglomerat.",
+            "en": "A pleasant ride along the coast will take you right to the bustling port."
+          }
+        },
+        {
+          "name": {
+            "de": "Lefkada-Strand",
+            "hu": "Lefkada strand",
+            "ro": "Plaja Lefkada",
+            "en": "Lefkada Beach"
+          },
+          "coords": [
+            26.289,
+            37.618
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine erfrischende Pause und ein kurzes Bad im Meer.",
+            "hu": "Tökéletes egy frissítő szünetre és egy rövid úszásra a tengerben.",
+            "ro": "Perfect pentru o pauză răcoritoare și o baie rapidă în mare.",
+            "en": "Perfect for a refreshing break and a quick swim in the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalquellen von Therma",
+            "hu": "Therma hőforrásai",
+            "ro": "Izvoarele termale din Therma",
+            "en": "Thermal Springs of Therma"
+          },
+          "coords": [
+            26.3133,
+            37.61
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:09",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour lohnt sich für die heilenden, radioaktiven Wasser. Ein einzigartiges Erlebnis!",
+            "hu": "Megéri a biciklizést a gyógyító, radioaktív vizekért. Egyedülálló élmény!",
+            "ro": "Merită să pedalați pentru apele radioactive vindecătoare. O experiență unică!",
+            "en": "The bike ride is worth it for the healing, radioactive waters. A unique experience!"
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            26.2958,
+            37.6125
+          ],
+          "category": "museums",
+          "arrive_at": "14:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Tour mit einer Dosis Geschichte ab.",
+            "hu": "Zárja a túrát egy adag történelemmel.",
+            "ro": "Încheiați turul cu o doză de istorie.",
+            "en": "End your tour with a dose of history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Heldenplatz und fahren Sie zum Hafen. Genießen Sie eine Pause am Lefkada-Strand, bevor Sie die längere Strecke zu den berühmten Thermalquellen von Therma in Angriff nehmen. Das heilende Wasser ist die Mühe wert. Auf dem Rückweg halten Sie am Archäologischen Museum, um in die antike Vergangenheit der Insel einzutauchen. Der Tag verbindet körperliche Aktivität mit Entspannung und Kultur.",
+        "hu": "Kezdje kerékpártúráját a Hősök teréről, majd tekerjen le a kikötőbe. Élvezzen egy szünetet a Lefkada strandon, mielőtt nekivág a hosszabb útnak a híres thermai hőforrásokhoz. A gyógyító víz megéri a fáradságot. Visszafelé álljon meg a Régészeti Múzeumnál, hogy elmerüljön a sziget ókori múltjában. A nap a fizikai aktivitást pihenéssel és kultúrával ötvözi.",
+        "ro": "Începeți turul pe bicicletă din Piața Eroilor și mergeți spre port. Bucurați-vă de o pauză pe plaja Lefkada înainte de a aborda traseul mai lung către faimoasele izvoare termale din Therma. Apa vindecătoare merită efortul. La întoarcere, opriți-vă la Muzeul de Arheologie pentru a explora trecutul antic al insulei. Ziua îmbină activitatea fizică cu relaxarea și cultura.",
+        "en": "Start your bike tour from Heroes' Square and ride down to the port. Enjoy a break at Lefkada Beach before tackling the longer route to the famous thermal springs of Therma. The healing waters are worth the effort. On your way back, stop at the Archaeological Museum to delve into the island's ancient past. The day combines physical activity with relaxation and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Tanken Sie Energie mit einem 'Tiropita' (Käsekuchen) oder 'Spanakopita' (Spinatkuchen)."
+          },
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Eine klassische griechische Delikatesse, die Sie in den meisten Tavernen finden."
+          },
+          {
+            "name": "Ikarischer Salat",
+            "tip": "Ein herzhafter Salat mit lokalen Gemüsesorten, Käse und einem leichten Dressing."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Töltődjön fel energiával egy 'tiropitával' (sajtos pite) vagy 'spanakopitával' (spenótos pite)."
+          },
+          {
+            "name": "Grillezett polip",
+            "tip": "Klasszikus görög finomság, amelyet a legtöbb tavernában megtalál."
+          },
+          {
+            "name": "Ikariai saláta",
+            "tip": "Ki-dús saláta helyi zöldségekből, sajtból és könnyű öntettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Realimentați-vă cu o 'tiropita' (plăcintă cu brânză) sau 'spanakopita' (plăcintă cu spanac)."
+          },
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "O delicatesă grecească clasică pe care o veți găsi în majoritatea tavernelor."
+          },
+          {
+            "name": "Salată Ikariană",
+            "tip": "O salată consistentă cu legume locale, brânză și un dressing ușor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Fuel up with a 'tiropita' (cheese pie) or 'spanakopita' (spinach pie)."
+          },
+          {
+            "name": "Grilled Octopus",
+            "tip": "A classic Greek delicacy you'll find at most tavernas."
+          },
+          {
+            "name": "Ikarian Salad",
+            "tip": "A hearty salad with local greens, cheese, and a light dressing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pause am Strand von Therma",
+            "tip": "Nach dem Bad in den Quellen ist der nahegelegene Strand oft sehr ruhig.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirche Panagia Raos",
+            "tip": "Ein kurzer Abstecher für einen Moment der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am Hafen",
+            "tip": "Finden Sie einen Platz und beobachten Sie, wie die Sonne hinter den Hügeln verschwindet.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pihenő a Therma strandon",
+            "tip": "A forrásokban való fürdés után a közeli strand gyakran nagyon csendes.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Panagia Raos-templom",
+            "tip": "Egy rövid kitérő egy pillanatnyi békéért.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a kikötőben",
+            "tip": "Keressen egy helyet, és nézze, ahogy a nap eltűnik a dombok mögött.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pauză pe plaja din Therma",
+            "tip": "După o baie în izvoare, plaja din apropiere este adesea foarte liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Panagia Raos",
+            "tip": "Un scurt ocol pentru un moment de pace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare în port",
+            "tip": "Găsiți un loc și priviți soarele apunând după dealuri.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Break at Therma beach",
+            "tip": "After soaking in the springs, the nearby beach is often very quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Panagia Raos Church",
+            "tip": "A quick detour for a moment of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset at the port",
+            "tip": "Find a spot and watch the sun dip behind the hills.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kräuter und Gewürze",
+            "tip": "Nehmen Sie getrockneten Oregano oder andere aromatische Kräuter mit nach Hause."
+          },
+          {
+            "name": "Olivenöl",
+            "tip": "Das flüssige Gold Griechenlands, direkt von lokalen Produzenten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógynövények és fűszerek",
+            "tip": "Vigyen haza szárított oregánót vagy más aromás gyógynövényeket."
+          },
+          {
+            "name": "Olívaolaj",
+            "tip": "Görögország folyékony aranya, közvetlenül a helyi termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ierburi și condimente",
+            "tip": "Luați acasă oregano uscat sau alte ierburi aromatice."
+          },
+          {
+            "name": "Ulei de măsline",
+            "tip": "Aurul lichid al Greciei, direct de la producătorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herbs and Spices",
+            "tip": "Take home some dried oregano or other aromatic herbs."
+          },
+          {
+            "name": "Olive Oil",
+            "tip": "The liquid gold of Greece, direct from local producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in gutem Zustand.",
+          "Einige Straßen können steil sein, seien Sie also auf Anstiege vorbereitet.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, wenn Sie spät unterwegs sind.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Béreljen jó állapotú kerékpárt.",
+          "Néhány út meredek lehet, készüljön fel az emelkedőkre.",
+          "Viseljen sisakot és használjon lámpát, ha későn van úton.",
+          "Mindig zárja le a kerékpárt, amikor leparkolja."
+        ],
+        "ro": [
+          "Închiriați o bicicletă în stare bună.",
+          "Unele drumuri pot fi abrupte, așa că fiți pregătit pentru urcări.",
+          "Purtați cască și folosiți lumini dacă circulați târziu.",
+          "Încuiați întotdeauna bicicleta când o parcați."
+        ],
+        "en": [
+          "Rent a bike in good condition.",
+          "Some roads can be steep, so be prepared for climbs.",
+          "Wear a helmet and use lights if you're out late.",
+          "Always lock your bike when you leave it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Thermalquellen von Therma",
+            "hu": "Therma hőforrásai",
+            "ro": "Izvoarele termale din Therma",
+            "en": "Thermal Springs of Therma"
+          },
+          "coords": [
+            26.3133,
+            37.61
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:18",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie direkt zu den Quellen und beginnen Sie den Tag mit einem therapeutischen Bad.",
+            "hu": "Vezessen közvetlenül a forrásokhoz, és kezdje a napot egy terápiás fürdővel.",
+            "ro": "Conduceți direct la izvoare și începeți ziua cu o baie terapeutică.",
+            "en": "Drive directly to the springs and start the day with a therapeutic soak."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenplatz",
+            "hu": "Hősök tere",
+            "ro": "Piața Eroilor",
+            "en": "Heroes' Square"
+          },
+          "coords": [
+            26.2935,
+            37.6145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und erkunden Sie das Stadtzentrum zu Fuß.",
+            "hu": "Parkolja le az autót, és fedezze fel a városközpontot gyalog.",
+            "ro": "Parcați mașina și explorați centrul orașului pe jos.",
+            "en": "Park your car and explore the town center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskunde- und Geschichtsmuseum",
+            "hu": "Néprajzi és Történeti Múzeum",
+            "ro": "Muzeul de Folclor și Istorie",
+            "en": "Folklore and History Museum"
+          },
+          "coords": [
+            26.293,
+            37.614
+          ],
+          "category": "museums",
+          "arrive_at": "12:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus, um in die lokale Geschichte einzutauchen.",
+            "hu": "Egy rövid séta a térről, hogy elmerüljön a helyi történelemben.",
+            "ro": "O scurtă plimbare din piață pentru a aprofunda istoria locală.",
+            "en": "A short walk from the square to dive into local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Agios Kirykos",
+            "hu": "Agios Kirykos kikötője",
+            "ro": "Portul din Agios Kirykos",
+            "en": "Port of Agios Kirykos"
+          },
+          "coords": [
+            26.2965,
+            37.6118
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie zum Hafen, um die maritime Atmosphäre zu genießen und vielleicht zu Mittag zu essen.",
+            "hu": "Sétáljon le a kikötőbe, hogy élvezze a tengeri hangulatot, és esetleg megebédeljen.",
+            "ro": "Plimbați-vă până la port pentru a vă bucura de atmosfera maritimă și poate pentru a lua prânzul.",
+            "en": "Stroll down to the port to enjoy the maritime atmosphere and perhaps have lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            26.2958,
+            37.6125
+          ],
+          "category": "museums",
+          "arrive_at": "14:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum liegt günstig in der Nähe des Hafens.",
+            "hu": "A múzeum kényelmesen, a kikötő közelében található.",
+            "ro": "Muzeul este situat convenabil lângă port.",
+            "en": "The museum is conveniently located near the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Lefkada-Strand",
+            "hu": "Lefkada strand",
+            "ro": "Plaja Lefkada",
+            "en": "Lefkada Beach"
+          },
+          "coords": [
+            26.289,
+            37.618
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Strand, um den Tag mit Schwimmen und Entspannung ausklingen zu lassen.",
+            "hu": "Vezessen le a strandra, hogy úszással és pihenéssel zárja a napot.",
+            "ro": "Conduceți la plajă pentru a încheia ziua cu înot și relaxare.",
+            "en": "Drive to the beach to end the day with a swim and relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag entspannt in den Thermalquellen von Therma. Fahren Sie dann ins Zentrum von Agios Kirykos, parken Sie Ihr Auto und erkunden Sie den Heldenplatz und das nahegelegene Volkskundemuseum zu Fuß. Spazieren Sie zum Mittagessen zum Hafen und besuchen Sie anschließend das Archäologische Museum. Schließen Sie Ihren Tag mit einer kurzen Fahrt zum Lefkada-Strand ab, wo Sie sich entspannen und die Sonne genießen können.",
+        "hu": "Kezdje a napot pihentetően a Therma hőforrásaiban. Ezután hajtson be Agios Kirykos központjába, parkolja le autóját, és fedezze fel gyalog a Hősök terét és a közeli Néprajzi Múzeumot. Sétáljon le ebédelni a kikötőbe, majd látogasson el a Régészeti Múzeumba. Zárja a napot egy rövid autózással a Lefkada strandra, ahol pihenhet és élvezheti a napot.",
+        "ro": "Începeți ziua relaxându-vă la izvoarele termale din Therma. Apoi, conduceți spre centrul orașului Agios Kirykos, parcați mașina și explorați pe jos Piața Eroilor și Muzeul de Folclor din apropiere. Plimbați-vă până la port pentru prânz, apoi vizitați Muzeul de Arheologie. Încheiați ziua cu o scurtă călătorie cu mașina până la plaja Lefkada pentru relaxare și soare.",
+        "en": "Start your day with relaxation at the Thermal Springs of Therma. Then, drive into the center of Agios Kirykos, park your car, and explore Heroes' Square and the nearby Folklore Museum on foot. Stroll down to the port for lunch, followed by a visit to the Archaeological Museum. End your day with a short drive to Lefkada Beach for some relaxation and sun."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverne in Therma",
+            "tip": "Nach dem Bad gibt es nichts Besseres als eine lokale Mahlzeit in einer der Tavernen von Therma."
+          },
+          {
+            "name": "Meeresfrüchte-Pasta",
+            "tip": "Eine köstliche Kombination aus italienischem Einfluss und frischen griechischen Meeresfrüchten."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Probieren Sie den starken, charakteristischen Wein von Ikaria."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taverna Thermában",
+            "tip": "A fürdőzés után nincs is jobb, mint egy helyi étel a thermai tavernák egyikében."
+          },
+          {
+            "name": "Tenger gyümölcsei tészta",
+            "tip": "Az olasz hatás és a friss görög tenger gyümölcseinek ízletes kombinációja."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kóstolja meg Ikaria erős, jellegzetes borát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavernă în Therma",
+            "tip": "După baie, nimic nu se compară cu o masă locală la una dintre tavernele din Therma."
+          },
+          {
+            "name": "Paste cu fructe de mare",
+            "tip": "O combinație delicioasă de influență italiană și fructe de mare proaspete grecești."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Gustați vinul puternic și distinctiv din Ikaria."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taverna in Therma",
+            "tip": "After your soak, there's nothing better than a local meal at one of Therma's tavernas."
+          },
+          {
+            "name": "Seafood Pasta",
+            "tip": "A delicious combination of Italian influence and fresh Greek seafood."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Try the strong, distinctive wine of Ikaria."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang der Küste",
+            "tip": "Die Fahrt zwischen den Orten bietet atemberaubende Ausblicke auf das Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kirche Panagia Raos",
+            "tip": "Ein ruhiger Halt, um die Architektur und die Stille zu genießen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein versteckter Strand",
+            "tip": "Fragen Sie Einheimische nach kleinen, abgelegenen Stränden in der Nähe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a part mentén",
+            "tip": "A helyszínek közötti út lélegzetelállító kilátást nyújt a tengerre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panagia Raos-templom",
+            "tip": "Egy csendes megálló, hogy élvezze az építészetet és a csendet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy rejtett strand",
+            "tip": "Kérdezze meg a helyieket a közeli kis, eldugott strandokról.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de coastă",
+            "tip": "Călătoria între locații oferă priveliști uluitoare ale mării.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biserica Panagia Raos",
+            "tip": "O oprire liniștită pentru a admira arhitectura și liniștea.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O plajă ascunsă",
+            "tip": "Întrebați localnicii despre plajele mici și retrase din apropiere.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive along the coast",
+            "tip": "The drive between locations offers stunning sea views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panagia Raos Church",
+            "tip": "A quiet stop to admire the architecture and silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A hidden beach",
+            "tip": "Ask a local for small, secluded beaches nearby.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenstände",
+            "tip": "Halten Sie Ausschau nach Ständen, die lokale Produkte wie Oliven, Feigen und Honig verkaufen."
+          },
+          {
+            "name": "Kunsthandwerksläden",
+            "tip": "In Agios Kirykos finden Sie Geschäfte mit einzigartigen, handgefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útszéli standok",
+            "tip": "Figyelje azokat a standokat, amelyek helyi termékeket, például olajbogyót, fügét és mézet árulnak."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Agios Kirykosban egyedi, kézzel készített ajándéktárgyakat árusító üzleteket talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe la marginea drumului",
+            "tip": "Fiți atenți la tarabele care vând produse locale precum măsline, smochine și miere."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "În Agios Kirykos veți găsi magazine cu suveniruri unice, lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside stalls",
+            "tip": "Look out for stalls selling local produce like olives, figs, and honey."
+          },
+          {
+            "name": "Artisan shops",
+            "tip": "You'll find shops in Agios Kirykos with unique, handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum schwierig sein, seien Sie geduldig.",
+          "Die Straßen auf der Insel können eng und kurvenreich sein, fahren Sie vorsichtig.",
+          "Ein kleineres Auto ist für die Erkundung der Insel besser geeignet.",
+          "Achten Sie auf Ziegen auf der Straße!"
+        ],
+        "hu": [
+          "A parkolás nehézkes lehet a városközpontban, legyen türelmes.",
+          "A sziget útjai szűkek és kanyargósak lehetnek, vezessen óvatosan.",
+          "Egy kisebb autó alkalmasabb a sziget felfedezésére.",
+          "Vigyázzon a kecskékre az úton!"
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în centrul orașului, aveți răbdare.",
+          "Drumurile de pe insulă pot fi înguste și șerpuite, conduceți cu prudență.",
+          "O mașină mai mică este mai potrivită pentru a explora insula.",
+          "Atenție la caprele de pe drum!"
+        ],
+        "en": [
+          "Parking can be difficult in the town center, be patient.",
+          "The island roads can be narrow and winding, drive carefully.",
+          "A smaller car is better for exploring the island.",
+          "Watch out for goats on the road!"
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Heldenplatz",
+            "hu": "Hősök tere",
+            "ro": "Piața Eroilor",
+            "en": "Heroes' Square"
+          },
+          "coords": [
+            26.2935,
+            37.6145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hauptbusbahnhof ist nur einen kurzen Spaziergang vom Platz entfernt.",
+            "hu": "A fő buszpályaudvar csak egy rövid sétára van a tértől.",
+            "ro": "Stația principală de autobuz este la o scurtă plimbare de piață.",
+            "en": "The main bus station is a short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Agios Kirykos",
+            "hu": "Agios Kirykos kikötője",
+            "ro": "Portul din Agios Kirykos",
+            "en": "Port of Agios Kirykos"
+          },
+          "coords": [
+            26.2965,
+            37.6118
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie zum Hafen, dem Herzen der Stadt.",
+            "hu": "Sétáljon le a kikötőbe, a város szívébe.",
+            "ro": "Plimbați-vă până în port, inima orașului.",
+            "en": "Stroll down to the port, the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            26.2958,
+            37.6125
+          ],
+          "category": "museums",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Schätze, die nur wenige Schritte entfernt sind.",
+            "hu": "Fedezze fel az ókori kincseket, amelyek csak néhány lépésre vannak.",
+            "ro": "Explorați comorile antice la doar câțiva pași distanță.",
+            "en": "Explore the ancient treasures just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalquellen von Therma",
+            "hu": "Therma hőforrásai",
+            "ro": "Izvoarele termale din Therma",
+            "en": "Thermal Springs of Therma"
+          },
+          "coords": [
+            26.3133,
+            37.61
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:33",
+          "stay_min": 120,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Bus nach Therma. Prüfen Sie den Fahrplan im Voraus.",
+            "hu": "Menjen a helyi busszal Thermába. Ellenőrizze előre a menetrendet.",
+            "ro": "Luați autobuzul local spre Therma. Verificați orarul în avans.",
+            "en": "Take the local bus to Therma. Check the schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Lefkada-Strand",
+            "hu": "Lefkada strand",
+            "ro": "Plaja Lefkada",
+            "en": "Lefkada Beach"
+          },
+          "coords": [
+            26.289,
+            37.618
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:03",
+          "stay_min": 130,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ins Zentrum und gehen Sie zum Strand, um sich abzukühlen.",
+            "hu": "Menjen vissza busszal a központba, és sétáljon le a strandra egy hűsítőre.",
+            "ro": "Luați autobuzul înapoi în centru și mergeți pe jos până la plajă pentru a vă răcori.",
+            "en": "Take the bus back to the center and walk to the beach to cool off."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie das Zentrum von Agios Kirykos zu Fuß, beginnend am Heldenplatz und weiter zum Hafen und dem Archäologischen Museum. Nehmen Sie am Mittag den Bus zu den Thermalquellen von Therma für ein einzigartiges Badeerlebnis. Kehren Sie am Nachmittag mit dem Bus zurück und verbringen Sie den Rest des Tages entspannt am Lefkada-Strand, bevor Sie den Abend in der Stadt genießen.",
+        "hu": "Fedezze fel Agios Kirykos központját gyalog, a Hősök terétől indulva a kikötőig és a Régészeti Múzeumig. Délben szálljon buszra a thermai hőforrásokhoz egy egyedülálló fürdőélményért. Délután térjen vissza busszal, és töltse a nap hátralévő részét pihenéssel a Lefkada strandon, mielőtt este élvezné a városi életet.",
+        "ro": "Explorați pe jos centrul orașului Agios Kirykos, începând din Piața Eroilor și continuând spre port și Muzeul de Arheologie. La prânz, luați autobuzul către izvoarele termale din Therma pentru o experiență unică de îmbăiere. Întoarceți-vă cu autobuzul după-amiaza și petreceți restul zilei relaxându-vă pe plaja Lefkada înainte de a vă bucura de o seară în oraș.",
+        "en": "Explore the center of Agios Kirykos on foot, starting from Heroes' Square and continuing to the port and the Archaeological Museum. At noon, take the bus to the thermal springs of Therma for a unique bathing experience. Return by bus in the afternoon and spend the rest of the day relaxing at Lefkada Beach before enjoying an evening in town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyros-Imbiss",
+            "tip": "Ein schneller, leckerer und günstiger Happen für unterwegs."
+          },
+          {
+            "name": "Griechischer Salat",
+            "tip": "Immer eine gute Wahl, frisch und voller Geschmack."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Der ikonische griechische Eiskaffee, perfekt für eine Nachmittagspause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyros büfé",
+            "tip": "Gyors, finom és olcsó falat útközben."
+          },
+          {
+            "name": "Görög saláta",
+            "tip": "Mindig jó választás, friss és ízletes."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Az ikonikus görög jegeskávé, tökéletes egy délutáni szünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc de Gyros",
+            "tip": "O gustare rapidă, delicioasă și ieftină pentru drum."
+          },
+          {
+            "name": "Salată grecească",
+            "tip": "Întotdeauna o alegere bună, proaspătă și plină de aromă."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Cafeaua cu gheață iconică a Greciei, perfectă pentru o pauză de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyros stand",
+            "tip": "A quick, delicious, and cheap bite on the go."
+          },
+          {
+            "name": "Greek Salad",
+            "tip": "Always a good choice, fresh and full of flavor."
+          },
+          {
+            "name": "Frappé",
+            "tip": "The iconic Greek iced coffee, perfect for an afternoon break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt aus dem Fenster",
+            "tip": "Beobachten Sie die vorbeiziehende Landschaft der Insel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine ruhige Bank am Hafen",
+            "tip": "Perfekt, um das Kommen und Gehen der Boote zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Kirche Agios Kirykos am Morgen",
+            "tip": "Besuchen Sie sie vor den Menschenmassen für einen Moment der Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás az ablakból",
+            "tip": "Nézze a sziget elhaladó táját.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendes pad a kikötőben",
+            "tip": "Tökéletes a hajók jövés-menésének figyelésére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az Agios Kirykos-templom reggel",
+            "tip": "Látogassa meg a tömeg előtt egy csendes pillanatért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Privind pe geamul autobuzului",
+            "tip": "Urmăriți peisajul insulei care trece pe lângă dumneavoastră.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă liniștită în port",
+            "tip": "Perfect pentru a privi bărcile venind și plecând.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biserica Agios Kirykos dimineața",
+            "tip": "Vizitați-o înainte de mulțime pentru un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Watching from the bus window",
+            "tip": "Observe the island's landscape passing by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet bench at the port",
+            "tip": "Perfect for watching the boats come and go.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Agios Kirykos Church in the morning",
+            "tip": "Visit before the crowds for a moment of silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten",
+            "tip": "Senden Sie Grüße von der Insel der Langlebigkeit."
+          },
+          {
+            "name": "Lokale Spirituosen",
+            "tip": "Probieren Sie Tsipouro oder Ouzo aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok",
+            "tip": "Küldjön üdvözletet a hosszú élet szigetéről."
+          },
+          {
+            "name": "Helyi szeszes italok",
+            "tip": "Kóstolja meg a regionális Tsipourót vagy Ouzót."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărți poștale",
+            "tip": "Trimiteți salutări de pe insula longevității."
+          },
+          {
+            "name": "Băuturi spirtoase locale",
+            "tip": "Încercați Tsipouro sau Ouzo din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards",
+            "tip": "Send greetings from the island of longevity."
+          },
+          {
+            "name": "Local spirits",
+            "tip": "Try some regional Tsipouro or Ouzo."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über die Busfahrpläne, da sie möglicherweise nicht häufig verkehren.",
+          "Haben Sie Kleingeld für Bustickets dabei.",
+          "Die Busse können in der Hochsaison überfüllt sein.",
+          "Bestätigen Sie die letzte Busverbindung zurück nach Agios Kirykos."
+        ],
+        "hu": [
+          "Tájékozódjon a buszmenetrendekről, mivel lehet, hogy nem járnak sűrűn.",
+          "Legyen nálad aprópénz a buszjegyekhez.",
+          "A buszok zsúfoltak lehetnek a főszezonban.",
+          "Erősítse meg az utolsó buszjáratot vissza Agios Kirykosba."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor, deoarece s-ar putea să nu fie frecvente.",
+          "Aveți bani mărunți pentru biletele de autobuz.",
+          "Autobuzele pot fi aglomerate în sezonul de vârf.",
+          "Confirmați ultimul autobuz înapoi spre Agios Kirykos."
+        ],
+        "en": [
+          "Check bus schedules as they may not be frequent.",
+          "Have small change ready for bus tickets.",
+          "Buses can be crowded during peak season.",
+          "Confirm the last bus back to Agios Kirykos."
+        ]
+      }
+    }
+  }
+}

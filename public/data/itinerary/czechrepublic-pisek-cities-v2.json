@@ -1,0 +1,1468 @@
+{
+  "city_id": "czechrepublic-pisek-cities-v2",
+  "anchor": {
+    "name": "Pisek",
+    "coords": [
+      49.3088,
+      14.1475
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Großer Platz",
+            "hu": "Fő tér",
+            "ro": "Piața Mare",
+            "en": "Main Square"
+          },
+          "coords": [
+            14.1475,
+            49.3088
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das städtische Leben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, privind viața orașului.",
+            "en": "Start your day here with a coffee and watch the city life."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Písek",
+            "hu": "Píseki Városháza",
+            "ro": "Primăria Písek",
+            "en": "Písek Town Hall"
+          },
+          "coords": [
+            14.1479,
+            49.3092
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Fassade und den Uhrturm.",
+            "hu": "Csodálja meg a barokk homlokzatot és az óratornyot.",
+            "ro": "Admirați fațada barocă și turnul cu ceas.",
+            "en": "Admire the baroque facade and the clock tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Virgin Mary"
+          },
+          "coords": [
+            14.1488,
+            49.3095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem gotischen Interieur und der beeindruckenden Akustik.",
+            "hu": "Keresse a gótikus belső teret és élvezze a lenyűgöző akusztikát.",
+            "ro": "Căutați interiorul gotic și acustica impresionantă.",
+            "en": "Look for the Gothic interior and the impressive acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Písek",
+            "hu": "Píseki vár",
+            "ro": "Castelul Písek",
+            "en": "Písek Castle"
+          },
+          "coords": [
+            14.1465,
+            49.3075
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beherbergt heute das Prácheň-Museum, perfekt für einen tiefen Einblick in die Regionalgeschichte.",
+            "hu": "Ma a Prácheň Múzeumnak ad otthont, amely betekintést nyújt a régió történelmébe.",
+            "ro": "Găzduiește Muzeul Prácheň, perfect pentru o incursiune în istoria regională.",
+            "en": "Today it houses the Prácheň Museum, perfect for a deep dive into regional history."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinerne Brücke",
+            "hu": "Kőhíd",
+            "ro": "Podul de Piatră",
+            "en": "Stone Bridge"
+          },
+          "coords": [
+            14.145,
+            49.3072
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die älteste erhaltene Brücke in der Tschechischen Republik. Machen Sie Fotos bei Sonnenuntergang!",
+            "hu": "Csehország legrégebbi fennmaradt hídja. Készítsen fotókat naplementekor!",
+            "ro": "Cel mai vechi pod conservat din Republica Cehă. Faceți fotografii la apus!",
+            "en": "The oldest preserved bridge in the Czech Republic. Take photos at sunset!"
+          }
+        },
+        {
+          "name": {
+            "de": "Mälzerei (Sladovna)",
+            "hu": "Malátaház (Sladovna)",
+            "ro": "Malțeria (Sladovna)",
+            "en": "Malthouse (Sladovna)"
+          },
+          "coords": [
+            14.1482,
+            49.3065
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein interaktives Familienzentrum in einer ehemaligen Brauerei. Ideal für Kinder.",
+            "hu": "Interaktív családi központ egy egykori sörfőzdében. Ideális gyerekekkel.",
+            "ro": "Un centru interactiv pentru familii într-o fostă fabrică de bere. Ideal pentru copii.",
+            "en": "An interactive family center in a former brewery. Ideal for children."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Wasserkraftwerk",
+            "hu": "Városi vízerőmű",
+            "ro": "Hidrocentrala Municipală",
+            "en": "Municipal Hydroelectric Power Plant"
+          },
+          "coords": [
+            14.1442,
+            49.305
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:29",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein faszinierendes technisches Denkmal, das immer noch in Betrieb ist.",
+            "hu": "Lenyűgöző műszaki emlék, amely még mindig működik.",
+            "ro": "Un monument tehnic fascinant care este încă în funcțiune.",
+            "en": "A fascinating technical monument that is still in operation."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacký-Anlagen",
+            "hu": "Palacký park",
+            "ro": "Parcul Palacký",
+            "en": "Palacký Gardens"
+          },
+          "coords": [
+            14.152,
+            49.308
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie am Fluss Otava und genießen Sie die ruhige Atmosphäre.",
+            "hu": "Pihenjen az Otava folyó partján, és élvezze a nyugodt légkört.",
+            "ro": "Relaxați-vă pe malul râului Otava și bucurați-vă de atmosfera liniștită.",
+            "en": "Relax by the Otava River and enjoy the peaceful atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Písek beginnt auf dem belebten Großen Platz. Am Vormittag erkunden Sie das historische Herz der Stadt, einschließlich der ältesten Brücke Tschechiens und der gotischen Burg. Nach dem Mittagessen tauchen Sie in die interaktive Welt der Sladovna ein. Der Nachmittag ist der Entspannung gewidmet, mit einem Spaziergang entlang des Flusses Otava und einem Besuch des historischen Kraftwerks. Am Abend genießen Sie die böhmische Küche in einem der traditionellen Restaurants der Stadt.",
+        "hu": "Píseki napja a nyüzsgő Fő téren kezdődik. A délelőtt folyamán felfedezi a város történelmi szívét, beleértve Csehország legrégebbi hídját és a gótikus várat. Ebéd után elmerül a Sladovna interaktív világában. A délután a pihenésé, egy sétával az Otava folyó mentén és a történelmi erőmű megtekintésével. Este élvezze a cseh konyha remekeit a város egyik hagyományos éttermében.",
+        "ro": "Ziua dvs. în Písek începe în Piața Mare plină de viață. Dimineața explorați inima istorică a orașului, inclusiv cel mai vechi pod din Cehia și castelul gotic. După prânz, vă scufundați în lumea interactivă a Sladovna. După-amiaza este dedicată relaxării, cu o plimbare de-a lungul râului Otava și o vizită la hidrocentrala istorică. Seara, savurați bucătăria cehă la unul dintre restaurantele tradiționale ale orașului.",
+        "en": "Your day in Písek begins in the bustling Main Square. In the morning, you'll explore the historical heart of the city, including the Czech Republic's oldest bridge and the Gothic castle. After lunch, immerse yourself in the interactive world of Sladovna. The afternoon is dedicated to relaxation, with a walk along the Otava River and a visit to the historic power plant. In the evening, enjoy Bohemian cuisine at one of the city's traditional restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "U Reinerů",
+            "tip": "Probieren Sie die traditionelle 'Svíčková', Lendenbraten in Sahnesoße."
+          },
+          {
+            "name": "Pivovar Písek",
+            "tip": "Lokales Bier direkt von der Quelle und herzhafte böhmische Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "U Reinerů",
+            "tip": "Kóstolja meg a hagyományos 'Svíčková'-t, a vadasmarhát tejszínes mártással."
+          },
+          {
+            "name": "Pivovar Písek",
+            "tip": "Helyi sör közvetlenül a forrásból és kiadós cseh ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "U Reinerů",
+            "tip": "Încercați tradiționalul 'Svíčková', mușchi de vită în sos de smântână."
+          },
+          {
+            "name": "Pivovar Písek",
+            "tip": "Bere locală direct de la sursă și mâncăruri consistente din Boemia."
+          }
+        ],
+        "en": [
+          {
+            "name": "U Reinerů",
+            "tip": "Try the traditional 'Svíčková', sirloin in cream sauce."
+          },
+          {
+            "name": "Pivovar Písek",
+            "tip": "Local beer straight from the source and hearty Bohemian dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palacký-Anlagen",
+            "tip": "Finden Sie eine Bank am Flussufer und genießen Sie die Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Insel in der Otava",
+            "tip": "Eine kleine, ruhige Insel, perfekt für eine kurze Flucht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht von der Steinernen Brücke",
+            "tip": "Bei Sonnenaufgang ist die Brücke fast leer und magisch.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palacký park",
+            "tip": "Keressen egy padot a folyóparton, és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sziget az Otava folyón",
+            "tip": "Egy apró, békés sziget, tökéletes egy rövid kikapcsolódáshoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Kőhídról",
+            "tip": "Napkeltekor a híd szinte üres és varázslatos.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Palacký",
+            "tip": "Găsiți o bancă pe malul râului și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Insula de pe râul Otava",
+            "tip": "O mică insulă liniștită, perfectă pentru o scurtă evadare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe Podul de Piatră",
+            "tip": "La răsărit, podul este aproape gol și magic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palacký Gardens",
+            "tip": "Find a bench by the riverside and enjoy the quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Island on the Otava River",
+            "tip": "A small, peaceful island perfect for a short escape.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Stone Bridge",
+            "tip": "At sunrise, the bridge is almost empty and magical.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Geschäfte am Großen Platz",
+            "tip": "Finden Sie handgefertigte Souvenirs und böhmisches Kristall."
+          },
+          {
+            "name": "Bauernmarkt (wenn verfügbar)",
+            "tip": "Kaufen Sie lokale Produkte wie Honig, Käse und Wurstwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi üzletek a Fő téren",
+            "tip": "Keressen kézzel készített szuveníreket és cseh kristályt."
+          },
+          {
+            "name": "Termelői piac (ha van)",
+            "tip": "Vásároljon helyi termékeket, mint méz, sajt és kolbász."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale în Piața Mare",
+            "tip": "Găsiți suveniruri artizanale și cristal de Boemia."
+          },
+          {
+            "name": "Piața fermierilor (dacă este disponibilă)",
+            "tip": "Cumpărați produse locale precum miere, brânză și mezeluri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local shops on the Main Square",
+            "tip": "Find handmade souvenirs and Bohemian crystal."
+          },
+          {
+            "name": "Farmers' Market (if available)",
+            "tip": "Buy local products like honey, cheese, and sausages."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie zusätzliche Zeit für das Prácheň-Museum in der Burg ein, es ist sehr umfangreich.",
+          "Ein Spaziergang entlang des Flusses am späten Nachmittag bietet wunderbare Fotomotive."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A központ legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Tervezzen plusz időt a várban található Prácheň Múzeumra, nagyon kiterjedt.",
+          "Egy késő délutáni séta a folyó mentén csodálatos fotótémákat kínál."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați timp suplimentar pentru Muzeul Prácheň din castel, este foarte cuprinzător.",
+          "O plimbare de-a lungul râului la sfârșitul după-amiezii oferă oportunități minunate de fotografiere."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights in the center are within easy walking distance.",
+          "Plan extra time for the Prácheň Museum inside the castle; it's quite extensive.",
+          "A late afternoon walk along the river offers wonderful photo opportunities."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Großer Platz",
+            "hu": "Fő tér",
+            "ro": "Piața Mare",
+            "en": "Main Square"
+          },
+          "coords": [
+            14.1475,
+            49.3088
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Überblick über die Altstadt, bevor Sie in die Pedale treten.",
+            "hu": "Kezdje a napot a Fő téren, mielőtt nyeregbe pattan.",
+            "ro": "Începeți cu o privire de ansamblu asupra centrului vechi înainte de a pedala.",
+            "en": "Start with an overview of the old town before you start pedaling."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinerne Brücke",
+            "hu": "Kőhíd",
+            "ro": "Podul de Piatră",
+            "en": "Stone Bridge"
+          },
+          "coords": [
+            14.145,
+            49.3072
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke und genießen Sie die Aussicht auf den Fluss Otava.",
+            "hu": "Keljen át a hídon, és élvezze az Otava folyóra nyíló kilátást.",
+            "ro": "Traversați podul și bucurați-vă de vederea asupra râului Otava.",
+            "en": "Cross the bridge and enjoy the view of the Otava River."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Písek",
+            "hu": "Píseki vár",
+            "ro": "Castelul Písek",
+            "en": "Písek Castle"
+          },
+          "coords": [
+            14.1465,
+            49.3075
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie das Museum im Inneren.",
+            "hu": "Zárja le a kerékpárját, és fedezze fel a benne található múzeumot.",
+            "ro": "Legați-vă bicicleta și explorați muzeul din interior.",
+            "en": "Lock up your bike and explore the museum inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Wasserkraftwerk",
+            "hu": "Városi vízerőmű",
+            "ro": "Hidrocentrala Municipală",
+            "en": "Municipal Hydroelectric Power Plant"
+          },
+          "coords": [
+            14.1442,
+            49.305
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Radtour flussabwärts zu diesem technischen Wunderwerk.",
+            "hu": "Egy rövid biciklitúra a folyón lefelé ehhez a műszaki csodához.",
+            "ro": "O scurtă plimbare cu bicicleta în aval spre această minune tehnică.",
+            "en": "A short bike ride downstream to this technical marvel."
+          }
+        },
+        {
+          "name": {
+            "de": "Putim-Tor",
+            "hu": "Putimi kapu",
+            "ro": "Poarta Putim",
+            "en": "Putim Gate"
+          },
+          "coords": [
+            14.144,
+            49.307
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:21",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eines der erhaltenen Tore der mittelalterlichen Stadtbefestigung.",
+            "hu": "A középkori városfal egyik fennmaradt kapuja.",
+            "ro": "Una dintre porțile conservate ale fortificațiilor medievale ale orașului.",
+            "en": "One of the preserved gates of the medieval city fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacký-Anlagen",
+            "hu": "Palacký park",
+            "ro": "Parcul Palacký",
+            "en": "Palacký Gardens"
+          },
+          "coords": [
+            14.152,
+            49.308
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Fahren Sie den Radweg entlang des Flusses.",
+            "hu": "Tökéletes egy ebédszünethez. Tekerjen a folyó menti kerékpárúton.",
+            "ro": "Perfect pentru o pauză de prânz. Pedalați pe pista de biciclete de-a lungul râului.",
+            "en": "Perfect for a lunch break. Ride the bike path along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Wenzels-Kirche",
+            "hu": "Szent Vencel-templom",
+            "ro": "Biserica Sfântul Venceslau",
+            "en": "St. Wenceslas Church"
+          },
+          "coords": [
+            14.155,
+            49.311
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:21",
+          "stay_min": 199,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine etwas längere Radtour zu dieser schönen Kirche am Stadtrand.",
+            "hu": "Egy kicsit hosszabb biciklitúra ehhez a szép templomhoz a város szélén.",
+            "ro": "O plimbare puțin mai lungă cu bicicleta până la această biserică frumoasă de la marginea orașului.",
+            "en": "A slightly longer bike ride to this beautiful church on the outskirts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Písek auf zwei Rädern. Ihr Vormittag führt Sie über die historische Steinerne Brücke zur Burg und weiter zu technischen Denkmälern. Genießen Sie die Flexibilität, die Ihnen das Fahrrad bietet. Nach dem Mittagessen in den Palacký-Anlagen radeln Sie durch die grünen Zonen der Stadt. Die Tour endet an der ruhigen St.-Wenzels-Kirche, von wo aus Sie einen letzten Blick auf Písek werfen können, bevor Sie den Abend ausklingen lassen.",
+        "hu": "Fedezze fel Píseket két keréken. A délelőtt a történelmi Kőhídon át a várhoz, majd tovább a műszaki emlékekhez vezet. Élvezze a kerékpár nyújtotta rugalmasságot. Ebéd után a Palacký parkban pihenhet, majd a város zöld területein tekerhet. A túra a csendes Szent Vencel-templomnál ér véget, ahonnan még egy utolsó pillantást vethet Písekre, mielőtt lezárja az estét.",
+        "ro": "Descoperiți Písek pe două roți. Dimineața vă poartă peste istoricul Pod de Piatră spre castel și mai departe spre monumentele tehnice. Bucurați-vă de flexibilitatea oferită de bicicletă. După prânzul în Parcul Palacký, pedalați prin zonele verzi ale orașului. Turul se încheie la liniștita Biserică Sf. Venceslau, de unde puteți arunca o ultimă privire asupra Písekului înainte de a încheia seara.",
+        "en": "Discover Písek on two wheels. Your morning takes you across the historic Stone Bridge to the castle and on to technical monuments. Enjoy the flexibility that the bicycle offers. After lunch in the Palacký Gardens, you'll cycle through the city's green zones. The tour ends at the peaceful St. Wenceslas Church, where you can take one last look at Písek before ending the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "U Reinerů",
+            "tip": "Probieren Sie die traditionelle 'Svíčková', Lendenbraten in Sahnesoße."
+          },
+          {
+            "name": "Pivovar Písek",
+            "tip": "Lokales Bier direkt von der Quelle und herzhafte böhmische Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "U Reinerů",
+            "tip": "Kóstolja meg a hagyományos 'Svíčková'-t, a vadasmarhát tejszínes mártással."
+          },
+          {
+            "name": "Pivovar Písek",
+            "tip": "Helyi sör közvetlenül a forrásból és kiadós cseh ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "U Reinerů",
+            "tip": "Încercați tradiționalul 'Svíčková', mușchi de vită în sos de smântână."
+          },
+          {
+            "name": "Pivovar Písek",
+            "tip": "Bere locală direct de la sursă și mâncăruri consistente din Boemia."
+          }
+        ],
+        "en": [
+          {
+            "name": "U Reinerů",
+            "tip": "Try the traditional 'Svíčková', sirloin in cream sauce."
+          },
+          {
+            "name": "Pivovar Písek",
+            "tip": "Local beer straight from the source and hearty Bohemian dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palacký-Anlagen",
+            "tip": "Finden Sie eine Bank am Flussufer und genießen Sie die Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Insel in der Otava",
+            "tip": "Eine kleine, ruhige Insel, perfekt für eine kurze Flucht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht von der Steinernen Brücke",
+            "tip": "Bei Sonnenaufgang ist die Brücke fast leer und magisch.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palacký park",
+            "tip": "Keressen egy padot a folyóparton, és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sziget az Otava folyón",
+            "tip": "Egy apró, békés sziget, tökéletes egy rövid kikapcsolódáshoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Kőhídról",
+            "tip": "Napkeltekor a híd szinte üres és varázslatos.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Palacký",
+            "tip": "Găsiți o bancă pe malul râului și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Insula de pe râul Otava",
+            "tip": "O mică insulă liniștită, perfectă pentru o scurtă evadare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe Podul de Piatră",
+            "tip": "La răsărit, podul este aproape gol și magic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palacký Gardens",
+            "tip": "Find a bench by the riverside and enjoy the quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Island on the Otava River",
+            "tip": "A small, peaceful island perfect for a short escape.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Stone Bridge",
+            "tip": "At sunrise, the bridge is almost empty and magical.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Geschäfte am Großen Platz",
+            "tip": "Finden Sie handgefertigte Souvenirs und böhmisches Kristall."
+          },
+          {
+            "name": "Bauernmarkt (wenn verfügbar)",
+            "tip": "Kaufen Sie lokale Produkte wie Honig, Käse und Wurstwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi üzletek a Fő téren",
+            "tip": "Keressen kézzel készített szuveníreket és cseh kristályt."
+          },
+          {
+            "name": "Termelői piac (ha van)",
+            "tip": "Vásároljon helyi termékeket, mint méz, sajt és kolbász."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale în Piața Mare",
+            "tip": "Găsiți suveniruri artizanale și cristal de Boemia."
+          },
+          {
+            "name": "Piața fermierilor (dacă este disponibilă)",
+            "tip": "Cumpărați produse locale precum miere, brânză și mezeluri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local shops on the Main Square",
+            "tip": "Find handmade souvenirs and Bohemian crystal."
+          },
+          {
+            "name": "Farmers' Market (if available)",
+            "tip": "Buy local products like honey, cheese, and sausages."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Fahrradwege entlang des Flusses, sie sind gut ausgebaut.",
+          "Ein gutes Schloss ist unerlässlich, besonders wenn Sie Sehenswürdigkeiten besuchen.",
+          "Die Stadt ist relativ flach, was das Radfahren angenehm macht.",
+          "Nehmen Sie Wasser mit, besonders für die längere Fahrt zur St.-Wenzels-Kirche."
+        ],
+        "hu": [
+          "Ellenőrizze a folyó menti kerékpárutakat, jól kiépítettek.",
+          "Egy jó lakat elengedhetetlen, különösen a látnivalók megtekintésekor.",
+          "A város viszonylag sík, ami kellemessé teszi a kerékpározást.",
+          "Vigyen magával vizet, különösen a Szent Vencel-templomhoz vezető hosszabb útra."
+        ],
+        "ro": [
+          "Verificați pistele de biciclete de-a lungul râului, sunt bine dezvoltate.",
+          "Un lacăt bun este esențial, mai ales atunci când vizitați obiectivele turistice.",
+          "Orașul este relativ plat, ceea ce face ciclismul plăcut.",
+          "Luați apă cu dvs., mai ales pentru drumul mai lung către Biserica Sf. Venceslau."
+        ],
+        "en": [
+          "Check the bike paths along the river; they are well-maintained.",
+          "A good lock is essential, especially when visiting sights.",
+          "The city is relatively flat, which makes for pleasant cycling.",
+          "Bring water, especially for the longer ride to St. Wenceslas Church."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 15.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Altstadt (Cluster A)",
+            "hu": "Parkoló, Óváros (A csoport)",
+            "ro": "Parcare Centrul Vechi (Grup A)",
+            "en": "Old Town Parking (Cluster A)"
+          },
+          "coords": [
+            14.15,
+            49.3095
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Teil der Stadt zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel a város első részét gyalog.",
+            "ro": "Parcați aici și explorați prima parte a orașului pe jos.",
+            "en": "Park here and explore the first part of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Platz",
+            "hu": "Fő tér",
+            "ro": "Piața Mare",
+            "en": "Main Square"
+          },
+          "coords": [
+            14.1475,
+            49.3088
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der lebendige Mittelpunkt von Písek.",
+            "hu": "Písek nyüzsgő központja.",
+            "ro": "Centrul plin de viață al orașului Písek.",
+            "en": "The vibrant center of Písek."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Szűz Mária Születése templom",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Virgin Mary"
+          },
+          "coords": [
+            14.1488,
+            49.3095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie den hohen Turm, der die Stadtsilhouette prägt.",
+            "hu": "Csodálja meg a magas tornyot, amely meghatározza a város sziluettjét.",
+            "ro": "Admirați turnul înalt care domină silueta orașului.",
+            "en": "Admire the tall tower that defines the city skyline."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Písek & Steinerne Brücke",
+            "hu": "Píseki vár és Kőhíd",
+            "ro": "Castelul Písek și Podul de Piatră",
+            "en": "Písek Castle & Stone Bridge"
+          },
+          "coords": [
+            14.146,
+            49.3073
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch der Burg mit einem Spaziergang über die historische Brücke.",
+            "hu": "Kombinálja a várlátogatást egy sétával a történelmi hídon.",
+            "ro": "Combinați vizita la castel cu o plimbare pe podul istoric.",
+            "en": "Combine the castle visit with a walk across the historic bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Mälzerei (Sladovna) (Cluster B)",
+            "hu": "Malátaház (Sladovna) (B csoport)",
+            "ro": "Malțeria (Sladovna) (Grup B)",
+            "en": "Malthouse (Sladovna) (Cluster B)"
+          },
+          "coords": [
+            14.1482,
+            49.3065
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster und parken Sie in der Nähe. Ein Spaß für die ganze Familie.",
+            "hu": "Vezessen a következő csoporthoz, és parkoljon a közelben. Szórakozás az egész családnak.",
+            "ro": "Conduceți la următorul grup și parcați în apropiere. Distracție pentru întreaga familie.",
+            "en": "Drive to the next cluster and park nearby. Fun for the whole family."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Wasserkraftwerk",
+            "hu": "Városi vízerőmű",
+            "ro": "Hidrocentrala Municipală",
+            "en": "Municipal Hydroelectric Power Plant"
+          },
+          "coords": [
+            14.1442,
+            49.305
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:03",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Sladovna, um dieses technische Denkmal zu sehen.",
+            "hu": "Egy rövid séta a Sladovnától, hogy megnézze ezt a műszaki emléket.",
+            "ro": "O scurtă plimbare de la Sladovna pentru a vedea acest monument tehnic.",
+            "en": "A short walk from the Sladovna to see this technical monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Písecké Hory Park (Cluster C)",
+            "hu": "Písecké Hory Park (C csoport)",
+            "ro": "Parcul Písecké Hory (Grup C)",
+            "en": "Písecké Hory Park (Cluster C)"
+          },
+          "coords": [
+            14.185,
+            49.315
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 136,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt in die nahen Wälder für einen entspannten Nachmittagsspaziergang.",
+            "hu": "Egy rövid autóút a közeli erdőkbe egy pihentető délutáni sétáért.",
+            "ro": "O scurtă călătorie cu mașina spre pădurile din apropiere pentru o plimbare relaxantă de după-amiază.",
+            "en": "A short drive to the nearby forests for a relaxing afternoon walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Freiheit, Píseks Zentrum und die umliegende Natur zu kombinieren. Am Morgen parken Sie zentral und erkunden den historischen Kern zu Fuß: vom Großen Platz über die Burg bis zur Steinernen Brücke. Mittags fahren Sie zum zweiten Cluster, der Sladovna, die Spaß für alle Altersgruppen bietet. Der Nachmittag gehört der Natur, mit einer Fahrt in den Písecké Hory Park, wo Sie wandern und die Aussicht genießen können, bevor Sie für das Abendessen in die Stadt zurückkehren.",
+        "hu": "Az autó szabadságot ad, hogy összekapcsolja Písek központját a környező természettel. Reggel parkoljon le a központban, és fedezze fel gyalog a történelmi magot: a Fő tértől a váron át a Kőhídig. Délben vezessen a második csoporthoz, a Sladovnához, amely minden korosztálynak szórakozást nyújt. A délután a természeté, egy kirándulással a Písecké Hory Parkba, ahol túrázhat és élvezheti a kilátást, mielőtt visszatérne a városba vacsorázni.",
+        "ro": "Cu mașina, aveți libertatea de a combina centrul orașului Písek cu natura înconjurătoare. Dimineața, parcați central și explorați nucleul istoric pe jos: de la Piața Mare, la castel și Podul de Piatră. La prânz, conduceți spre al doilea grup, Sladovna, care oferă distracție pentru toate vârstele. După-amiaza este dedicată naturii, cu o excursie în Parcul Písecké Hory, unde puteți face drumeții și admira priveliștea înainte de a vă întoarce în oraș pentru cină.",
+        "en": "By car, you have the freedom to combine Písek's center with the surrounding nature. In the morning, park centrally and explore the historic core on foot: from the Main Square to the castle and the Stone Bridge. At noon, drive to the second cluster, the Sladovna, which offers fun for all ages. The afternoon is for nature, with a trip to the Písecké Hory Park for hiking and views, before returning to the city for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "U Reinerů",
+            "tip": "Probieren Sie die traditionelle 'Svíčková', Lendenbraten in Sahnesoße."
+          },
+          {
+            "name": "Pivovar Písek",
+            "tip": "Lokales Bier direkt von der Quelle und herzhafte böhmische Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "U Reinerů",
+            "tip": "Kóstolja meg a hagyományos 'Svíčková'-t, a vadasmarhát tejszínes mártással."
+          },
+          {
+            "name": "Pivovar Písek",
+            "tip": "Helyi sör közvetlenül a forrásból és kiadós cseh ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "U Reinerů",
+            "tip": "Încercați tradiționalul 'Svíčková', mușchi de vită în sos de smântână."
+          },
+          {
+            "name": "Pivovar Písek",
+            "tip": "Bere locală direct de la sursă și mâncăruri consistente din Boemia."
+          }
+        ],
+        "en": [
+          {
+            "name": "U Reinerů",
+            "tip": "Try the traditional 'Svíčková', sirloin in cream sauce."
+          },
+          {
+            "name": "Pivovar Písek",
+            "tip": "Local beer straight from the source and hearty Bohemian dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Písecké Hory Park",
+            "tip": "Wanderwege und ruhige Plätze im Wald.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Otava Flusses",
+            "tip": "Ein Spaziergang abseits des Zentrums.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt Jarník",
+            "tip": "Ein Turm im Písecké Hory mit weitem Blick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Písecké Hory Park",
+            "tip": "Túraútvonalak és csendes helyek az erdőben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Otava folyó partja",
+            "tip": "Séta a központtól távolabb.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jarník kilátó",
+            "tip": "Egy torony a Písecké Hory-ban, csodás kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Písecké Hory",
+            "tip": "Trasee de drumeție și locuri liniștite în pădure.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Otava",
+            "tip": "O plimbare departe de centru.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Turnul de observație Jarník",
+            "tip": "Un turn în Písecké Hory cu vederi ample.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Písecké Hory Park",
+            "tip": "Hiking trails and quiet spots in the forest.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Otava River",
+            "tip": "A walk away from the center.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jarník Lookout Tower",
+            "tip": "A tower in the Písecké Hory with wide views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Geschäfte am Großen Platz",
+            "tip": "Finden Sie handgefertigte Souvenirs und böhmisches Kristall."
+          },
+          {
+            "name": "Bauernmarkt (wenn verfügbar)",
+            "tip": "Kaufen Sie lokale Produkte wie Honig, Käse und Wurstwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi üzletek a Fő téren",
+            "tip": "Keressen kézzel készített szuveníreket és cseh kristályt."
+          },
+          {
+            "name": "Termelői piac (ha van)",
+            "tip": "Vásároljon helyi termékeket, mint méz, sajt és kolbász."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale în Piața Mare",
+            "tip": "Găsiți suveniruri artizanale și cristal de Boemia."
+          },
+          {
+            "name": "Piața fermierilor (dacă este disponibilă)",
+            "tip": "Cumpărați produse locale precum miere, brânză și mezeluri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local shops on the Main Square",
+            "tip": "Find handmade souvenirs and Bohemian crystal."
+          },
+          {
+            "name": "Farmers' Market (if available)",
+            "tip": "Buy local products like honey, cheese, and sausages."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über Parkmöglichkeiten und -gebühren in der Innenstadt.",
+          "Die Cluster-Strategie spart Zeit und Parkplatzsuche.",
+          "Planen Sie genügend Zeit für die Fahrt in den Písecké Hory Park ein.",
+          "Ein Navigationsgerät ist hilfreich, um die Parkplätze in der Nähe der Cluster zu finden."
+        ],
+        "hu": [
+          "Tájékozódjon előre a belvárosi parkolási lehetőségekről és díjakról.",
+          "A csoportosítási stratégia időt és parkolóhely-keresést takarít meg.",
+          "Tervezzen elegendő időt a Písecké Hory Parkba való utazáshoz.",
+          "Egy navigációs eszköz segít megtalálni a parkolókat a csoportok közelében."
+        ],
+        "ro": [
+          "Informați-vă în prealabil despre opțiunile de parcare și taxele din centrul orașului.",
+          "Strategia de grupare economisește timp și căutarea unui loc de parcare.",
+          "Planificați suficient timp pentru călătoria către Parcul Písecké Hory.",
+          "Un dispozitiv de navigație este util pentru a găsi parcările din apropierea grupurilor."
+        ],
+        "en": [
+          "Find out about parking options and fees in the city center in advance.",
+          "The cluster strategy saves time and parking searches.",
+          "Allow enough time for the drive to Písecké Hory Park.",
+          "A navigation device is helpful for finding parking lots near the clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Haltestelle Großer Platz (Cluster A)",
+            "hu": "Megálló, Fő tér (A csoport)",
+            "ro": "Stația Piața Mare (Grup A)",
+            "en": "Main Square Stop (Cluster A)"
+          },
+          "coords": [
+            14.1475,
+            49.3088
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum und beginnen Sie Ihre Erkundung.",
+            "hu": "Buszozzon be a központba, és kezdje meg a felfedezést.",
+            "ro": "Luați un autobuz spre centru și începeți explorarea.",
+            "en": "Take a bus to the center and start your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Kirche Mariä Geburt",
+            "hu": "Városháza és Szűz Mária Születése templom",
+            "ro": "Primăria și Biserica Nașterea Maicii Domnului",
+            "en": "Town Hall & Church of the Nativity"
+          },
+          "coords": [
+            14.1483,
+            49.3093
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden wichtigen Sehenswürdigkeiten liegen direkt nebeneinander.",
+            "hu": "Ez a két fontos látnivaló közvetlenül egymás mellett található.",
+            "ro": "Aceste două obiective importante sunt situate chiar unul lângă celălalt.",
+            "en": "These two important sights are located right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Písek",
+            "hu": "Píseki vár",
+            "ro": "Castelul Písek",
+            "en": "Písek Castle"
+          },
+          "coords": [
+            14.1465,
+            49.3075
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche zur historischen Festung der Stadt.",
+            "hu": "Rövid séta a templomtól a város történelmi erődjéig.",
+            "ro": "O scurtă plimbare de la biserică la fortăreața istorică a orașului.",
+            "en": "A short walk from the church to the city's historic fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinerne Brücke",
+            "hu": "Kőhíd",
+            "ro": "Podul de Piatră",
+            "en": "Stone Bridge"
+          },
+          "coords": [
+            14.145,
+            49.3072
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:43",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht das Wahrzeichen von Písek, nur wenige Schritte von der Burg entfernt.",
+            "hu": "Ne hagyja ki Písek jelképét, csak pár lépésre a vártól.",
+            "ro": "Nu ratați emblema orașului Písek, la doar câțiva pași de castel.",
+            "en": "Don't miss Písek's landmark, just a few steps from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Palackého sady (Cluster B)",
+            "hu": "Megálló, Palacký park (B csoport)",
+            "ro": "Stația Parcul Palacký (Grup B)",
+            "en": "Palacký Gardens Stop (Cluster B)"
+          },
+          "coords": [
+            14.152,
+            49.308
+          ],
+          "category": "transport",
+          "arrive_at": "12:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Stadtpark für eine entspannte Mittagspause.",
+            "hu": "Buszozzon el a városi parkba egy pihentető ebédszünetre.",
+            "ro": "Luați un autobuz către parcul orașului pentru o pauză de prânz relaxantă.",
+            "en": "Take a bus to the city park for a relaxing lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Wenzels-Kirche",
+            "hu": "Szent Vencel-templom",
+            "ro": "Biserica Sfântul Venceslau",
+            "en": "St. Wenceslas Church"
+          },
+          "coords": [
+            14.155,
+            49.311
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:02",
+          "stay_min": 223,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.35,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park zu dieser etwas abgelegenen, aber schönen Kirche.",
+            "hu": "Rövid séta a parktól ehhez a kissé távoli, de gyönyörű templomhoz.",
+            "ro": "O scurtă plimbare din parc până la această biserică oarecum retrasă, dar frumoasă.",
+            "en": "A short walk from the park to this somewhat remote but beautiful church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Písek bequem mit öffentlichen Verkehrsmitteln. Beginnen Sie im historischen Zentrum, das Sie nach einer kurzen Busfahrt erreichen. Hier erkunden Sie den ersten Cluster aus Plätzen, Kirchen und der berühmten Brücke zu Fuß. Mittags bringt Sie ein weiterer Bus in die Nähe der Palacký-Anlagen, ideal für eine Pause im Grünen. Von dort aus ist es nur ein kurzer Spaziergang zu Ihrem letzten Halt, der St.-Wenzels-Kirche, bevor Sie den Bus zurücknehmen.",
+        "hu": "Fedezze fel Píseket kényelmesen a tömegközlekedéssel. Kezdje a történelmi központban, amelyet egy rövid buszozás után ér el. Itt gyalogosan fedezi fel az első látnivaló-csoportot, tereket, templomokat és a híres hidat. Délben egy másik busz elviszi a Palacký park közelébe, amely ideális egy zöldövezeti pihenőhöz. Onnan már csak egy rövid séta az utolsó megálló, a Szent Vencel-templom, mielőtt visszabuszozna.",
+        "ro": "Explorați Písek confortabil cu transportul public. Începeți în centrul istoric, la care ajungeți după o scurtă călătorie cu autobuzul. Aici veți explora pe jos primul grup de piețe, biserici și faimosul pod. La prânz, un alt autobuz vă va duce în apropierea Parcului Palacký, ideal pentru o pauză în natură. De acolo, este doar o scurtă plimbare până la ultima oprire, Biserica Sf. Venceslau, înainte de a lua autobuzul înapoi.",
+        "en": "Explore Písek comfortably using public transport. Start in the historic center, which you'll reach after a short bus ride. Here, you'll explore the first cluster of squares, churches, and the famous bridge on foot. At noon, another bus will take you near the Palacký Gardens, ideal for a green break. From there, it's just a short walk to your final stop, St. Wenceslas Church, before you take the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "U Reinerů",
+            "tip": "Probieren Sie die traditionelle 'Svíčková', Lendenbraten in Sahnesoße."
+          },
+          {
+            "name": "Pivovar Písek",
+            "tip": "Lokales Bier direkt von der Quelle und herzhafte böhmische Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "U Reinerů",
+            "tip": "Kóstolja meg a hagyományos 'Svíčková'-t, a vadasmarhát tejszínes mártással."
+          },
+          {
+            "name": "Pivovar Písek",
+            "tip": "Helyi sör közvetlenül a forrásból és kiadós cseh ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "U Reinerů",
+            "tip": "Încercați tradiționalul 'Svíčková', mușchi de vită în sos de smântână."
+          },
+          {
+            "name": "Pivovar Písek",
+            "tip": "Bere locală direct de la sursă și mâncăruri consistente din Boemia."
+          }
+        ],
+        "en": [
+          {
+            "name": "U Reinerů",
+            "tip": "Try the traditional 'Svíčková', sirloin in cream sauce."
+          },
+          {
+            "name": "Pivovar Písek",
+            "tip": "Local beer straight from the source and hearty Bohemian dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palacký-Anlagen",
+            "tip": "Finden Sie eine Bank am Flussufer und genießen Sie die Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Insel in der Otava",
+            "tip": "Eine kleine, ruhige Insel, perfekt für eine kurze Flucht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht von der Steinernen Brücke",
+            "tip": "Bei Sonnenaufgang ist die Brücke fast leer und magisch.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palacký park",
+            "tip": "Keressen egy padot a folyóparton, és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sziget az Otava folyón",
+            "tip": "Egy apró, békés sziget, tökéletes egy rövid kikapcsolódáshoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Kőhídról",
+            "tip": "Napkeltekor a híd szinte üres és varázslatos.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Palacký",
+            "tip": "Găsiți o bancă pe malul râului și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Insula de pe râul Otava",
+            "tip": "O mică insulă liniștită, perfectă pentru o scurtă evadare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe Podul de Piatră",
+            "tip": "La răsărit, podul este aproape gol și magic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palacký Gardens",
+            "tip": "Find a bench by the riverside and enjoy the quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Island on the Otava River",
+            "tip": "A small, peaceful island perfect for a short escape.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Stone Bridge",
+            "tip": "At sunrise, the bridge is almost empty and magical.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Geschäfte am Großen Platz",
+            "tip": "Finden Sie handgefertigte Souvenirs und böhmisches Kristall."
+          },
+          {
+            "name": "Bauernmarkt (wenn verfügbar)",
+            "tip": "Kaufen Sie lokale Produkte wie Honig, Käse und Wurstwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi üzletek a Fő téren",
+            "tip": "Keressen kézzel készített szuveníreket és cseh kristályt."
+          },
+          {
+            "name": "Termelői piac (ha van)",
+            "tip": "Vásároljon helyi termékeket, mint méz, sajt és kolbász."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale în Piața Mare",
+            "tip": "Găsiți suveniruri artizanale și cristal de Boemia."
+          },
+          {
+            "name": "Piața fermierilor (dacă este disponibilă)",
+            "tip": "Cumpărați produse locale precum miere, brânză și mezeluri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local shops on the Main Square",
+            "tip": "Find handmade souvenirs and Bohemian crystal."
+          },
+          {
+            "name": "Farmers' Market (if available)",
+            "tip": "Buy local products like honey, cheese, and sausages."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die Rückfahrt am Abend.",
+          "Die Haltestellen sind in der Regel gut ausgeschildert.",
+          "Beachten Sie, dass die Busse am Wochenende möglicherweise seltener fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, különösen az esti visszautazáshoz.",
+          "A megállók általában jól ki vannak táblázva.",
+          "Vegye figyelembe, hogy a buszok hétvégén ritkábban közlekedhetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați în prealabil orarul autobuzelor, în special pentru călătoria de întoarcere seara.",
+          "Stațiile sunt de obicei bine semnalizate.",
+          "Rețineți că autobuzele pot circula mai rar în weekend."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Check the bus schedule in advance, especially for the return trip in the evening.",
+          "The stops are usually well-signposted.",
+          "Be aware that buses may run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

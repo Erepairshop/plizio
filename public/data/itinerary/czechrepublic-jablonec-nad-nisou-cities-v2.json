@@ -1,0 +1,1460 @@
+{
+  "city_id": "czechrepublic-jablonec-nad-nisou-cities-v2",
+  "anchor": {
+    "name": "Gablonz an der Neiße",
+    "coords": [
+      50.7243,
+      15.1711
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Neues Rathaus",
+            "hu": "Új Városháza",
+            "ro": "Primăria Nouă",
+            "en": "New Town Hall"
+          },
+          "coords": [
+            15.169,
+            50.724
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bestaunen Sie die funktionalistische Architektur und den Paternosteraufzug.",
+            "hu": "Csodálja meg a funkcionalista építészetet és a páternoszter liftet!",
+            "ro": "Admirați arhitectura funcționalistă și liftul paternoster.",
+            "en": "Admire the functionalist architecture and the paternoster lift."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            15.171,
+            50.722
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:41",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Heute eine Bibliothek, aber immer noch ein schönes Beispiel für Jugendstil.",
+            "hu": "Ma könyvtárként működik, de még mindig gyönyörű szecessziós példa.",
+            "ro": "Astăzi este o bibliotecă, dar încă un exemplu frumos de Art Nouveau.",
+            "en": "Today it's a library, but still a beautiful example of Art Nouveau."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Glas und Schmuck",
+            "hu": "Üveg- és Ékszermúzeum",
+            "ro": "Muzeul Sticlei și Bijuteriilor",
+            "en": "Museum of Glass and Jewellery"
+          },
+          "coords": [
+            15.174,
+            50.726
+          ],
+          "category": "museums",
+          "arrive_at": "10:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die beeindruckende Sammlung böhmischen Glases ein.",
+            "hu": "Szánjon elég időt a cseh üveg lenyűgöző gyűjteményére.",
+            "ro": "Planificați suficient timp pentru impresionanta colecție de sticlă de Boemia.",
+            "en": "Plan enough time for the impressive collection of Bohemian glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Herz-Jesu-Kirche",
+            "hu": "Jézus Szíve-templom",
+            "ro": "Biserica Inima lui Isus",
+            "en": "Church of the Sacred Heart"
+          },
+          "coords": [
+            15.166,
+            50.727
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der sakralen Architektur des frühen 20. Jahrhunderts.",
+            "hu": "A 20. század eleji szakrális építészet mesterműve.",
+            "ro": "O capodoperă a arhitecturii sacre de la începutul secolului al XX-lea.",
+            "en": "A masterpiece of early 20th-century sacred architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Anna-Kirche",
+            "hu": "Szent Anna-templom",
+            "ro": "Biserica Sfânta Ana",
+            "en": "St. Ann's Church"
+          },
+          "coords": [
+            15.172,
+            50.72
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:27",
+          "stay_min": 30,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die älteste Steinkirche der Stadt, ein barockes Juwel.",
+            "hu": "A város legrégebbi kőtemploma, egy barokk ékszerdoboz.",
+            "ro": "Cea mai veche biserică de piatră din oraș, o bijuterie barocă.",
+            "en": "The oldest stone church in the city, a baroque jewel."
+          }
+        },
+        {
+          "name": {
+            "de": "Talsperre Mšeno",
+            "hu": "Mšeno-víztározó",
+            "ro": "Barajul Mšeno",
+            "en": "Mšeno Dam"
+          },
+          "coords": [
+            15.178,
+            50.732
+          ],
+          "category": "natural features",
+          "arrive_at": "14:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang. Im Sommer kann man hier auch baden.",
+            "hu": "Tökéletes egy pihentető sétához. Nyáron úszni is lehet.",
+            "ro": "Perfect pentru o plimbare relaxantă. Vara, puteți înota aici.",
+            "en": "Perfect for a relaxing walk. You can also swim here in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsturm Petřín",
+            "hu": "Petřín-kilátó",
+            "ro": "Turnul de observație Petřín",
+            "en": "Petřín Lookout Tower"
+          },
+          "coords": [
+            15.158,
+            50.73
+          ],
+          "category": "natural features",
+          "arrive_at": "16:51",
+          "stay_min": 84,
+          "hop_from_prev_min": 54,
+          "hop_from_prev_km": 2.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick über die Stadt und das Isergebirge.",
+            "hu": "Megéri a fáradságot felmászni a városra és a Jizera-hegységre nyíló panorámáért.",
+            "ro": "Urcarea merită pentru vederea panoramică asupra orașului și a Munților Jizera.",
+            "en": "The climb is worth it for the panoramic view over the city and the Jizera Mountains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt am funktionalistischen Neuen Rathaus und führt Sie durch das historische Herz von Jablonec. Am Vormittag erkunden Sie das weltberühmte Museum für Glas und Schmuck, das die Seele der Stadt offenbart. Nach dem Mittagessen entdecken Sie die sakralen Schätze der Stadt, wie die Herz-Jesu-Kirche, bevor Sie am Nachmittag die Natur an der Mšeno-Talsperre genießen. Den Abschluss bildet der Aufstieg zum Petřín-Aussichtsturm, der Sie mit einer atemberaubenden Aussicht belohnt und einen unvergesslichen Tag abrundet.",
+        "hu": "Sétája a funkcionalista Új Városházánál kezdődik, és Jablonec történelmi szívén vezet keresztül. Délelőtt fedezze fel a világhírű Üveg- és Ékszermúzeumot, amely a város lelkét tárja fel. Ebéd után ismerje meg a város szakrális kincseit, mint a Jézus Szíve-templomot, majd délután élvezze a természetet a Mšeno-víztározónál. A napot a Petřín-kilátó megmászása zárja, amely lélegzetelállító kilátással jutalmazza, és felejthetetlenné teszi a napot.",
+        "ro": "Plimbarea dvs. începe la Primăria Nouă funcționalistă și vă poartă prin inima istorică a orașului Jablonec. Dimineața, explorați renumitul Muzeu al Sticlei și Bijuteriilor, care dezvăluie sufletul orașului. După prânz, descoperiți comorile sacre ale orașului, cum ar fi Biserica Inima lui Isus, înainte de a vă bucura de natură la barajul Mšeno după-amiaza. Ziua se încheie cu urcarea la Turnul de Observație Petřín, care vă recompensează cu o priveliște uluitoare și completează o zi de neuitat.",
+        "en": "Your walk begins at the functionalist New Town Hall and takes you through the historical heart of Jablonec. In the morning, you'll explore the world-famous Museum of Glass and Jewellery, revealing the city's soul. After lunch, discover the city's sacred treasures, like the Church of the Sacred Heart, before enjoying nature at the Mšeno Dam in the afternoon. The day concludes with a climb up the Petřín Lookout Tower, rewarding you with a breathtaking view and rounding off an unforgettable day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bramboráky",
+            "tip": "Probieren Sie diese knusprigen Kartoffelpuffer, ein klassischer tschechischer Snack."
+          },
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Ein herzhaftes Rinderfilet in Sahnesauce mit Knödeln, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Restaurace U Zeleného Stromu",
+            "tip": "Traditionelle tschechische Küche in einem gemütlichen Ambiente im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bramboráky",
+            "tip": "Kóstolja meg ezeket a ropogós burgonyalepényeket, egy klasszikus cseh harapnivalót."
+          },
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Ki adós bélszín tejszínes mártásban, gombóccal, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Restaurace U Zeleného Stromu",
+            "tip": "Hagyományos cseh konyha egy hangulatos helyen a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bramboráky",
+            "tip": "Încercați aceste clătite crocante de cartofi, o gustare cehă clasică."
+          },
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "O pulpă de vită consistentă în sos de smântână cu găluște, perfectă după o plimbare lungă."
+          },
+          {
+            "name": "Restaurace U Zeleného Stromu",
+            "tip": "Bucătărie tradițională cehă într-o atmosferă primitoare în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bramboráky",
+            "tip": "Try these crispy potato pancakes, a classic Czech snack."
+          },
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "A hearty beef sirloin in cream sauce with dumplings, perfect after a long walk."
+          },
+          {
+            "name": "Restaurace U Zeleného Stromu",
+            "tip": "Traditional Czech cuisine in a cozy atmosphere in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg an der Talsperre Mšeno",
+            "tip": "Ein ruhiger Spaziergang entlang des Wassers, um die Gedanken schweifen zu lassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park am Stadttheater",
+            "tip": "Eine kleine grüne Oase im Herzen der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Petřín-Turm",
+            "tip": "Genießen Sie die Stille und den weiten Blick über die Landschaft.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Mšeno-víztározó partján",
+            "tip": "Egy csendes séta a víz mentén, hogy kitisztítsa a gondolatait.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park a Városi Színháznál",
+            "tip": "Egy kis zöld oázis a város szívében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Petřín-toronyból",
+            "tip": "Élvezze a csendet és a tájra nyíló széles kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calea de pe malul barajului Mšeno",
+            "tip": "O plimbare liniștită de-a lungul apei pentru a vă limpezi gândurile.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de la Teatrul Municipal",
+            "tip": "O mică oază verde în inima orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Turnul Petřín",
+            "tip": "Bucurați-vă de liniște și de priveliștea largă asupra peisajului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Path along the Mšeno Dam",
+            "tip": "A quiet walk along the water to clear your thoughts.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park at the Municipal Theatre",
+            "tip": "A small green oasis in the heart of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Petřín Tower",
+            "tip": "Enjoy the silence and the wide view over the landscape.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Glasperlen",
+            "tip": "Kaufen Sie einzigartige Glasperlen oder Schmuck direkt aus der Region."
+          },
+          {
+            "name": "Becherovka",
+            "tip": "Ein berühmter tschechischer Kräuterlikör, ein tolles Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üveggyöngyök",
+            "tip": "Vásároljon egyedi üveggyöngyöket vagy ékszereket közvetlenül a régióból."
+          },
+          {
+            "name": "Becherovka",
+            "tip": "Egy híres cseh gyógynövénylikőr, remek ajándéktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mărgele de sticlă",
+            "tip": "Cumpărați mărgele de sticlă unice sau bijuterii direct din regiune."
+          },
+          {
+            "name": "Becherovka",
+            "tip": "Un faimos lichior de ierburi ceh, un suvenir excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Glass Beads",
+            "tip": "Buy unique glass beads or jewellery directly from the region."
+          },
+          {
+            "name": "Becherovka",
+            "tip": "A famous Czech herbal liqueur, a great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum einige Hügel hat.",
+          "Die meisten Museen und Geschäfte sind montags geschlossen.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt mehrere Brunnen in der Stadt.",
+          "Einige kleinere Geschäfte akzeptieren möglicherweise keine Kreditkarten, also halten Sie etwas Bargeld bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpontban vannak emelkedők.",
+          "A legtöbb múzeum és üzlet hétfőn zárva tart.",
+          "Hozzon magával újratölthető vizes palackot; a városban több ivókút is található.",
+          "Néhány kisebb üzlet nem fogad el bankkártyát, ezért legyen Önnél némi készpénz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului are câteva dealuri.",
+          "Majoritatea muzeelor și magazinelor sunt închise lunea.",
+          "Luați o sticlă de apă reutilizabilă; există mai multe fântâni în oraș.",
+          "Unele magazine mai mici s-ar putea să nu accepte carduri de credit, așa că aveți la îndemână niște numerar."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center has some hills.",
+          "Most museums and shops are closed on Mondays.",
+          "Bring a reusable water bottle; there are several fountains in the city.",
+          "Some smaller shops may not accept credit cards, so have some cash handy."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Neues Rathaus",
+            "hu": "Új Városháza",
+            "ro": "Primăria Nouă",
+            "en": "New Town Hall"
+          },
+          "coords": [
+            15.169,
+            50.724
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie das beeindruckende Gebäude erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, amíg felfedezi a lenyűgöző épületet.",
+            "ro": "Legați-vă bicicleta în siguranță în timp ce explorați clădirea impresionantă.",
+            "en": "Lock your bike securely while you explore the impressive building."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Glas und Schmuck",
+            "hu": "Üveg- és Ékszermúzeum",
+            "ro": "Muzeul Sticlei și Bijuteriilor",
+            "en": "Museum of Glass and Jewellery"
+          },
+          "coords": [
+            15.174,
+            50.726
+          ],
+          "category": "museums",
+          "arrive_at": "09:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Muss für jeden Besucher, um die Handwerkskunst der Region zu verstehen.",
+            "hu": "Minden látogatónak kötelező, hogy megértse a régió kézművességét.",
+            "ro": "O vizită obligatorie pentru orice vizitator pentru a înțelege meșteșugul regiunii.",
+            "en": "A must-see for any visitor to understand the region's craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater Jablonec",
+            "hu": "Jabloneci Városi Színház",
+            "ro": "Teatrul Municipal Jablonec",
+            "en": "Jablonec Municipal Theatre"
+          },
+          "coords": [
+            15.17,
+            50.721
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:24",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Jugendstil-Fassade dieses Kulturzentrums.",
+            "hu": "Csodálja meg ennek a kulturális központnak az elegáns szecessziós homlokzatát.",
+            "ro": "Admirați fațada elegantă Art Nouveau a acestui centru cultural.",
+            "en": "Admire the elegant Art Nouveau facade of this cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Talsperre Mšeno",
+            "hu": "Mšeno-víztározó",
+            "ro": "Barajul Mšeno",
+            "en": "Mšeno Dam"
+          },
+          "coords": [
+            15.178,
+            50.732
+          ],
+          "category": "natural features",
+          "arrive_at": "11:57",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause. Fahren Sie eine Runde um den See.",
+            "hu": "Ideális egy ebédszünetre. Tegyen egy kört a tó körül.",
+            "ro": "Ideal pentru o pauză de prânz. Faceți o tură în jurul lacului.",
+            "en": "Ideal for a lunch break. Ride a lap around the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsturm Petřín",
+            "hu": "Petřín-kilátó",
+            "ro": "Turnul de observație Petřín",
+            "en": "Petřín Lookout Tower"
+          },
+          "coords": [
+            15.158,
+            50.73
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg ist anspruchsvoll, aber die Aussicht ist die Belohnung.",
+            "hu": "Az emelkedő kihívást jelent, de a kilátás a jutalom.",
+            "ro": "Urcușul este solicitant, dar priveliștea este recompensa.",
+            "en": "The climb is challenging, but the view is the reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Herz-Jesu-Kirche",
+            "hu": "Jézus Szíve-templom",
+            "ro": "Biserica Inima lui Isus",
+            "en": "Church of the Sacred Heart"
+          },
+          "coords": [
+            15.166,
+            50.727
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein letzter Halt, um die moderne Sakralarchitektur zu bewundern.",
+            "hu": "Egy utolsó megálló, hogy megcsodálja a modern szakrális építészetet.",
+            "ro": "O ultimă oprire pentru a admira arhitectura sacră modernă.",
+            "en": "A final stop to admire the modern sacred architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Neuen Rathaus und radeln Sie zum Glasmuseum. Nach dieser kulturellen Vertiefung führt Sie Ihre Route zur Talsperre Mšeno, dem perfekten Ort für eine ausgedehnte Mittagspause und eine Runde um den See. Am Nachmittag nehmen Sie die Herausforderung an und erklimmen den Petřín-Hügel zum Aussichtsturm. Belohnt mit einer fantastischen Aussicht, rollen Sie zurück ins Zentrum, um den Tag mit einem Besuch der beeindruckenden Herz-Jesu-Kirche abzuschließen.",
+        "hu": "Kezdje a kerékpártúrát az Új Városházánál, és tekerjen az Üvegmúzeumhoz. A kulturális elmélyülés után az útvonal a Mšeno-víztározóhoz vezet, amely tökéletes hely egy kiadós ebédszünetre és egy tó körüli tekerésre. Délután vállalja a kihívást, és mássza meg a Petřín-hegyet a kilátóhoz. Fantasztikus kilátással megjutalmazva guruljon vissza a központba, hogy a napot a lenyűgöző Jézus Szíve-templom meglátogatásával zárja.",
+        "ro": "Începeți turul cu bicicleta de la Primăria Nouă și pedalați spre Muzeul Sticlei. După această imersiune culturală, traseul vă duce la barajul Mšeno, locul perfect pentru o pauză de prânz prelungită și o tură în jurul lacului. După-amiaza, acceptați provocarea și urcați pe dealul Petřín până la turnul de observație. Recompensat cu o priveliște fantastică, coborâți înapoi în centru pentru a încheia ziua cu o vizită la impresionanta Biserică a Inimii lui Isus.",
+        "en": "Start your bike tour at the New Town Hall and cycle to the Glass Museum. After this cultural immersion, your route takes you to the Mšeno Dam, the perfect spot for an extended lunch break and a lap around the lake. In the afternoon, take on the challenge and climb Petřín Hill to the lookout tower. Rewarded with a fantastic view, you'll roll back to the center to end the day with a visit to the impressive Church of the Sacred Heart."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Klobása",
+            "tip": "Eine gegrillte Wurst, schnell und lecker für unterwegs."
+          },
+          {
+            "name": "Pivní sýr",
+            "tip": "Ein marinierter Käse, der hervorragend zu einem kühlen tschechischen Bier passt."
+          },
+          {
+            "name": "Radegastovna",
+            "tip": "Eine beliebte lokale Kneipe, ideal für ein Bier und einen Snack nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Klobása",
+            "tip": "Grillezett kolbász, gyors és finom útközben."
+          },
+          {
+            "name": "Pivní sýr",
+            "tip": "Pácolt sajt, amely kiválóan illik egy hideg cseh sörhöz."
+          },
+          {
+            "name": "Radegastovna",
+            "tip": "Népszerű helyi kocsma, ideális egy sörre és egy harapnivalóra a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Klobása",
+            "tip": "Un cârnat la grătar, rapid și delicios pentru drum."
+          },
+          {
+            "name": "Pivní sýr",
+            "tip": "O brânză marinată care se potrivește excelent cu o bere cehă rece."
+          },
+          {
+            "name": "Radegastovna",
+            "tip": "O tavernă locală populară, ideală pentru o bere și o gustare după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Klobása",
+            "tip": "A grilled sausage, quick and delicious for on the go."
+          },
+          {
+            "name": "Pivní sýr",
+            "tip": "A marinated cheese that goes excellently with a cold Czech beer."
+          },
+          {
+            "name": "Radegastovna",
+            "tip": "A popular local pub, ideal for a beer and a snack after the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg um die Talsperre Mšeno",
+            "tip": "Genießen Sie die Ruhe des Wassers und der umliegenden Wälder.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der Gipfel des Petřín",
+            "tip": "Nach dem Aufstieg ein perfekter Ort, um durchzuatmen und die Aussicht zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hinterhof der St.-Anna-Kirche",
+            "tip": "Ein versteckter, friedlicher Ort abseits der Hauptstraßen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Mšeno-víztározó körül",
+            "tip": "Élvezze a víz és a környező erdők csendjét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Petřín csúcsa",
+            "tip": "A mászás után tökéletes hely a lélegzetvételre és a kilátás élvezetére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Szent Anna-templom hátsó udvara",
+            "tip": "Egy rejtett, békés hely a főutcáktól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete în jurul barajului Mšeno",
+            "tip": "Bucurați-vă de liniștea apei și a pădurilor înconjurătoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vârful Petřín",
+            "tip": "După urcare, un loc perfect pentru a respira și a vă bucura de priveliște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea din spatele Bisericii Sf. Ana",
+            "tip": "Un loc ascuns și liniștit, departe de străzile principale.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle path around the Mšeno Dam",
+            "tip": "Enjoy the tranquility of the water and the surrounding forests.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The summit of Petřín",
+            "tip": "After the climb, a perfect place to catch your breath and enjoy the view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Backyard of St. Ann's Church",
+            "tip": "A hidden, peaceful spot away from the main streets.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Jablonecká bižuterie",
+            "tip": "Finden Sie einzigartigen Modeschmuck, für den die Stadt berühmt ist."
+          },
+          {
+            "name": "Lokale Handwerkermärkte",
+            "tip": "Halten Sie Ausschau nach saisonalen Märkten mit lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jabloneci bizsu",
+            "tip": "Találjon egyedi divatékszereket, amelyekről a város híres."
+          },
+          {
+            "name": "Helyi kézműves piacok",
+            "tip": "Keresse a szezonális piacokat helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii de modă Jablonec",
+            "tip": "Găsiți bijuterii de modă unice pentru care orașul este renumit."
+          },
+          {
+            "name": "Piețe de artizanat locale",
+            "tip": "Fiți atenți la piețele de sezon cu produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jablonec costume jewellery",
+            "tip": "Find unique costume jewellery for which the city is famous."
+          },
+          {
+            "name": "Local artisan markets",
+            "tip": "Look out for seasonal markets with local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Jablonec ist hügelig; ein E-Bike könnte eine gute Option sein.",
+          "Prüfen Sie den Reifendruck, bevor Sie starten.",
+          "Nutzen Sie die markierten Radwege, besonders außerhalb des Zentrums.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Jablonec dombos; egy e-bike jó választás lehet.",
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Használja a kijelölt kerékpárutakat, különösen a központon kívül.",
+          "Sisak használata erősen ajánlott."
+        ],
+        "ro": [
+          "Jablonec este deluros; o bicicletă electrică ar putea fi o opțiune bună.",
+          "Verificați presiunea anvelopelor înainte de a porni.",
+          "Folosiți pistele de biciclete marcate, în special în afara centrului.",
+          "O cască este foarte recomandată."
+        ],
+        "en": [
+          "Jablonec is hilly; an e-bike could be a good option.",
+          "Check your tire pressure before you start.",
+          "Use the marked cycle paths, especially outside the center.",
+          "A helmet is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Start: Parken am Stadtzentrum",
+            "hu": "Klaszter kezdete: Parkolás a városközpontban",
+            "ro": "Start cluster: Parcare în centrul orașului",
+            "en": "Cluster Start: Parking in the City Center"
+          },
+          "coords": [
+            15.17,
+            50.725
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie einen Parkplatz in der Nähe des Neuen Rathauses.",
+            "hu": "Keressen parkolóhelyet az Új Városháza közelében.",
+            "ro": "Căutați un loc de parcare lângă Primăria Nouă.",
+            "en": "Look for a parking spot near the New Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Neues Rathaus",
+            "hu": "Új Városháza",
+            "ro": "Primăria Nouă",
+            "en": "New Town Hall"
+          },
+          "coords": [
+            15.169,
+            50.724
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:12",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum Startpunkt Ihrer Tour.",
+            "hu": "Rövid séta a parkolótól a túra kiindulópontjához.",
+            "ro": "O scurtă plimbare de la parcare la punctul de start al turului.",
+            "en": "A short walk from the parking lot to the starting point of your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Glas und Schmuck",
+            "hu": "Üveg- és Ékszermúzeum",
+            "ro": "Muzeul Sticlei și Bijuteriilor",
+            "en": "Museum of Glass and Jewellery"
+          },
+          "coords": [
+            15.174,
+            50.726
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Highlight der Stadt, nur wenige Gehminuten entfernt.",
+            "hu": "A város fénypontja, csak néhány perc sétára.",
+            "ro": "Punctul culminant al orașului, la doar câteva minute de mers pe jos.",
+            "en": "The highlight of the city, just a few minutes' walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Talsperre Mšeno",
+            "hu": "Mšeno-víztározó",
+            "ro": "Barajul Mšeno",
+            "en": "Mšeno Dam"
+          },
+          "coords": [
+            15.178,
+            50.732
+          ],
+          "category": "natural features",
+          "arrive_at": "11:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum See für einen entspannten Mittagsspaziergang. Parkplätze sind vorhanden.",
+            "hu": "Vezessen a tóhoz egy pihentető ebéd utáni sétára. Parkolóhelyek rendelkezésre állnak.",
+            "ro": "Conduceți până la lac pentru o plimbare relaxantă de prânz. Parcarea este disponibilă.",
+            "en": "Drive to the lake for a relaxing lunch walk. Parking is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsturm Petřín",
+            "hu": "Petřín-kilátó",
+            "ro": "Turnul de observație Petřín",
+            "en": "Petřín Lookout Tower"
+          },
+          "coords": [
+            15.158,
+            50.73
+          ],
+          "category": "natural features",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die kurze Fahrt zum Turm erspart Ihnen einen langen Fußmarsch.",
+            "hu": "A rövid autóút a toronyhoz megkíméli Önt a hosszú gyaloglástól.",
+            "ro": "Drumul scurt cu mașina până la turn vă scutește de o plimbare lungă.",
+            "en": "The short drive to the tower saves you a long walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Herz-Jesu-Kirche",
+            "hu": "Jézus Szíve-templom",
+            "ro": "Biserica Inima lui Isus",
+            "en": "Church of the Sacred Heart"
+          },
+          "coords": [
+            15.166,
+            50.727
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:20",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Turms und spazieren Sie zur Kirche.",
+            "hu": "Parkoljon a torony közelében és sétáljon el a templomhoz.",
+            "ro": "Parcați lângă turn și mergeți pe jos până la biserică.",
+            "en": "Park near the tower and walk to the church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie parken Ihr Auto im Zentrum und erkunden den ersten Cluster zu Fuß: das Neue Rathaus und das faszinierende Glas- und Schmuckmuseum. Nach diesem kulturellen Vormittag fahren Sie zum zweiten Cluster, der Talsperre Mšeno, ideal für die Mittagspause und einen Spaziergang. Am Nachmittag bringt Sie eine kurze Fahrt zum dritten Cluster, dem Petřín-Hügel. Sie genießen die Aussicht vom Turm und spazieren von dort gemütlich zur Herz-Jesu-Kirche, um den Tag mit einem architektonischen Highlight abzuschließen.",
+        "hu": "Autóját a központban parkolja le, és gyalog fedezi fel az első klasztert: az Új Városházát és a lenyűgöző Üveg- és Ékszermúzeumot. A kulturális délelőtt után a második klaszterhez, a Mšeno-víztározóhoz hajt, amely ideális az ebédszünethez és egy sétához. Délután egy rövid autóút viszi a harmadik klaszterhez, a Petřín-hegyhez. Élvezi a kilátást a toronyból, majd onnan kényelmesen elsétál a Jézus Szíve-templomhoz, hogy a napot egy építészeti fényponttal zárja.",
+        "ro": "Vă parcați mașina în centru și explorați primul cluster pe jos: Primăria Nouă și fascinantul Muzeu al Sticlei și Bijuteriilor. După această dimineață culturală, conduceți spre al doilea cluster, barajul Mšeno, ideal pentru o pauză de prânz și o plimbare. După-amiaza, o scurtă călătorie cu mașina vă duce la al treilea cluster, dealul Petřín. Vă bucurați de priveliștea din turn și de acolo mergeți pe jos până la Biserica Inima lui Isus, pentru a încheia ziua cu un punct culminant arhitectural.",
+        "en": "You park your car in the center and explore the first cluster on foot: the New Town Hall and the fascinating Museum of Glass and Jewellery. After this cultural morning, you drive to the second cluster, the Mšeno Dam, ideal for a lunch break and a walk. In the afternoon, a short drive takes you to the third cluster, Petřín Hill. You enjoy the view from the tower and from there, take a leisurely walk to the Church of the Sacred Heart to end the day with an architectural highlight."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurace Petřín",
+            "tip": "Ein Restaurant mit toller Aussicht in der Nähe des Aussichtsturms."
+          },
+          {
+            "name": "Kyselica",
+            "tip": "Eine traditionelle Sauerkrautsuppe, besonders wärmend an kühleren Tagen."
+          },
+          {
+            "name": "Jablonecký koláč",
+            "tip": "Ein lokaler Kuchen, den man in vielen Bäckereien findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurace Petřín",
+            "tip": "Egy étterem nagyszerű kilátással a kilátó közelében."
+          },
+          {
+            "name": "Kyselica",
+            "tip": "Hagyományos savanyúkáposzta-leves, különösen melegítő a hűvösebb napokon."
+          },
+          {
+            "name": "Jablonecký koláč",
+            "tip": "Helyi sütemény, amelyet sok pékségben megtalálhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurace Petřín",
+            "tip": "Un restaurant cu o priveliște minunată lângă turnul de observație."
+          },
+          {
+            "name": "Kyselica",
+            "tip": "O supă tradițională de varză acră, deosebit de încălzitoare în zilele mai reci."
+          },
+          {
+            "name": "Jablonecký koláč",
+            "tip": "O prăjitură locală pe care o puteți găsi în multe brutării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurace Petřín",
+            "tip": "A restaurant with a great view near the lookout tower."
+          },
+          {
+            "name": "Kyselica",
+            "tip": "A traditional sauerkraut soup, especially warming on cooler days."
+          },
+          {
+            "name": "Jablonecký koláč",
+            "tip": "A local cake that you can find in many bakeries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Petřín",
+            "tip": "Fahren Sie hoch und genießen Sie die Ruhe fernab des Stadtzentrums.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang um die Talsperre",
+            "tip": "Parken Sie das Auto und genießen Sie die Natur am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof bei der St.-Anna-Kirche",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Petřín-hegyről",
+            "tip": "Hajtson fel és élvezze a csendet a városközponttól távol.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a víztározó körül",
+            "tip": "Parkolja le az autót és élvezze a természetet a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Temető a Szent Anna-templomnál",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliștea de pe Petřín",
+            "tip": "Conduceți până sus și bucurați-vă de liniște, departe de centrul orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare în jurul barajului",
+            "tip": "Parcați mașina și bucurați-vă de natură lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de lângă Biserica Sf. Ana",
+            "tip": "Un loc de liniște și contemplare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Petřín",
+            "tip": "Drive up and enjoy the peace and quiet away from the city center.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk around the dam",
+            "tip": "Park the car and enjoy nature by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery at St. Ann's Church",
+            "tip": "A place of silence and contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kristalllüster",
+            "tip": "Wenn Sie Platz im Auto haben, ist ein böhmischer Kristalllüster ein luxuriöses Souvenir."
+          },
+          {
+            "name": "Regionale Delikatessen",
+            "tip": "Nutzen Sie das Auto, um in Hofläden außerhalb des Zentrums einzukaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kristálycsillár",
+            "tip": "Ha van hely az autóban, egy cseh kristálycsillár luxus ajándéktárgy."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Használja ki az autót, hogy a központon kívüli termelői boltokban vásároljon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Candelabru de cristal",
+            "tip": "Dacă aveți loc în mașină, un candelabru de cristal de Boemia este un suvenir de lux."
+          },
+          {
+            "name": "Delicatese regionale",
+            "tip": "Folosiți mașina pentru a face cumpărături la magazinele fermelor din afara centrului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crystal chandelier",
+            "tip": "If you have space in the car, a Bohemian crystal chandelier is a luxurious souvenir."
+          },
+          {
+            "name": "Regional delicacies",
+            "tip": "Use the car to shop at farm stores outside the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren im Voraus; einige Bereiche sind teuer.",
+          "Achten Sie auf Parkverbotszonen, besonders im Stadtzentrum.",
+          "Ein Navigationssystem ist hilfreich, um die verschiedenen Cluster zu finden.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási díjakról; egyes területek drágák lehetnek.",
+          "Figyeljen a parkolási tilalmi zónákra, különösen a városközpontban.",
+          "Navigációs rendszer segít megtalálni a különböző klasztereket.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în avans; unele zone sunt scumpe.",
+          "Fiți atenți la zonele cu parcare interzisă, în special în centrul orașului.",
+          "Un sistem de navigație este util pentru a găsi diferitele clustere.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Check parking fees in advance; some areas are expensive.",
+          "Pay attention to no-parking zones, especially in the city center.",
+          "A navigation system is helpful for finding the different clusters.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof (Cluster Zentrum)",
+            "hu": "Érkezés a buszpályaudvarra (Központ klaszter)",
+            "ro": "Sosire la autogară (Cluster Centru)",
+            "en": "Arrival at the Bus Station (Center Cluster)"
+          },
+          "coords": [
+            15.168,
+            50.723
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public.",
+            "en": "Buy a day pass for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Neues Rathaus",
+            "hu": "Új Városháza",
+            "ro": "Primăria Nouă",
+            "en": "New Town Hall"
+          },
+          "coords": [
+            15.169,
+            50.724
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Startpunkt Ihrer Erkundung, nur wenige Schritte von der Haltestelle entfernt.",
+            "hu": "A felfedezés kiindulópontja, csak néhány lépésre a megállótól.",
+            "ro": "Punctul de plecare al explorării dvs., la doar câțiva pași de stație.",
+            "en": "The starting point of your exploration, just a few steps from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Glas und Schmuck",
+            "hu": "Üveg- és Ékszermúzeum",
+            "ro": "Muzeul Sticlei și Bijuteriilor",
+            "en": "Museum of Glass and Jewellery"
+          },
+          "coords": [
+            15.174,
+            50.726
+          ],
+          "category": "museums",
+          "arrive_at": "09:43",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die glitzernde Welt des böhmischen Glases.",
+            "hu": "Merüljön el a cseh üveg csillogó világában.",
+            "ro": "Scufundați-vă în lumea strălucitoare a sticlei de Boemia.",
+            "en": "Immerse yourself in the sparkling world of Bohemian glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Talsperre Mšeno (Cluster Natur)",
+            "hu": "Mšeno-víztározó (Természet klaszter)",
+            "ro": "Barajul Mšeno (Cluster Natură)",
+            "en": "Mšeno Dam (Nature Cluster)"
+          },
+          "coords": [
+            15.178,
+            50.732
+          ],
+          "category": "natural features",
+          "arrive_at": "12:03",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Talsperre. Die Haltestelle ist direkt am Wasser.",
+            "hu": "Menjen busszal a víztározóhoz. A megálló közvetlenül a vízparton van.",
+            "ro": "Luați un autobuz până la baraj. Stația este chiar lângă apă.",
+            "en": "Take a bus to the dam. The stop is right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsturm Petřín",
+            "hu": "Petřín-kilátó",
+            "ro": "Turnul de observație Petřín",
+            "en": "Petřín Lookout Tower"
+          },
+          "coords": [
+            15.158,
+            50.73
+          ],
+          "category": "natural features",
+          "arrive_at": "14:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein weiterer Bus bringt Sie in die Nähe des Hügels. Ein kurzer Spaziergang führt zum Turm.",
+            "hu": "Egy másik busz elviszi a hegy közelébe. Egy rövid séta vezet a toronyhoz.",
+            "ro": "Un alt autobuz vă duce aproape de deal. O scurtă plimbare duce la turn.",
+            "en": "Another bus takes you near the hill. A short walk leads to the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Herz-Jesu-Kirche",
+            "hu": "Jézus Szíve-templom",
+            "ro": "Biserica Inima lui Isus",
+            "en": "Church of the Sacred Heart"
+          },
+          "coords": [
+            15.166,
+            50.727
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:36",
+          "stay_min": 89,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Petřín aus können Sie bequem zur Kirche hinunter spazieren.",
+            "hu": "A Petřín-hegyről kényelmesen lesétálhat a templomhoz.",
+            "ro": "De la Petřín, puteți merge pe jos cu ușurință până la biserică.",
+            "en": "From Petřín, you can easily walk down to the church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit einer Tageskarte beginnen Sie Ihre Tour im Zentrum von Jablonec, wo Sie das Rathaus und das Glasmuseum zu Fuß erkunden. Am Mittag bringt Sie ein Bus bequem zur Talsperre Mšeno, wo Sie die Natur und Ihre Mittagspause genießen. Ein weiterer Bus bringt Sie am Nachmittag zum Petřín-Hügel für eine spektakuläre Aussicht. Von dort aus spazieren Sie bergab zur Herz-Jesu-Kirche, bevor Sie mit dem Bus zurück zum Ausgangspunkt fahren.",
+        "hu": "Napijeggyel kezdi a túrát Jablonec központjában, ahol gyalog fedezi fel a városházát és az üvegmúzeumot. Délben egy busz kényelmesen elviszi a Mšeno-víztározóhoz, ahol élvezheti a természetet és az ebédszünetet. Délután egy másik busz viszi a Petřín-hegyre a látványos kilátásért. Onnan sétáljon lefelé a Jézus Szíve-templomhoz, mielőtt busszal visszatérne a kiindulópontra.",
+        "ro": "Cu un bilet de o zi, începeți turul în centrul orașului Jablonec, unde explorați primăria și muzeul sticlei pe jos. La prânz, un autobuz vă duce confortabil la barajul Mšeno, unde vă bucurați de natură și de pauza de prânz. Un alt autobuz vă duce după-amiaza pe dealul Petřín pentru o priveliște spectaculoasă. De acolo, mergeți pe jos în jos până la Biserica Inima lui Isus înainte de a lua autobuzul înapoi la punctul de plecare.",
+        "en": "With a day pass, you start your tour in the center of Jablonec, exploring the town hall and glass museum on foot. At noon, a bus takes you comfortably to the Mšeno Dam, where you can enjoy nature and your lunch break. Another bus takes you to Petřín Hill in the afternoon for a spectacular view. From there, you walk downhill to the Church of the Sacred Heart before taking the bus back to your starting point."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Párek v rohlíku",
+            "tip": "Der tschechische Hotdog, ein schneller und beliebter Snack."
+          },
+          {
+            "name": "U Medvidku",
+            "tip": "Ein Restaurant, das oft auf Buslinien liegt und gute tschechische Kost bietet."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Ein süßes Gebäck, das oft an Ständen in der Nähe von Touristenattraktionen verkauft wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Párek v rohlíku",
+            "tip": "A cseh hot dog, egy gyors és népszerű harapnivaló."
+          },
+          {
+            "name": "U Medvidku",
+            "tip": "Egy étterem, amely gyakran található buszútvonalakon és jó cseh ételeket kínál."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Édes sütemény, amelyet gyakran árulnak a turisztikai látványosságok közelében lévő standokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Párek v rohlíku",
+            "tip": "Hot dog-ul ceh, o gustare rapidă și populară."
+          },
+          {
+            "name": "U Medvidku",
+            "tip": "Un restaurant situat adesea pe rutele de autobuz, care oferă mâncare cehă bună."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Un produs de patiserie dulce, vândut adesea la standuri din apropierea atracțiilor turistice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Párek v rohlíku",
+            "tip": "The Czech hot dog, a quick and popular snack."
+          },
+          {
+            "name": "U Medvidku",
+            "tip": "A restaurant often located on bus routes offering good Czech food."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "A sweet pastry often sold at stalls near tourist attractions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Bänke am Petřín",
+            "tip": "Nach dem Aussteigen aus dem Bus finden Sie hier ruhige Plätze mit Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eine ruhige Bucht an der Talsperre",
+            "tip": "Gehen Sie ein Stück vom Hauptweg weg und finden Sie einen friedlichen Ort am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof des Stadttheaters",
+            "tip": "Eine kurze Pause vom Trubel des Stadtzentrums.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Felső padok a Petřín-hegyen",
+            "tip": "Miután leszállt a buszról, talál csendes helyeket kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy csendes öböl a víztározónál",
+            "tip": "Menjen egy kicsit távolabb a fő úttól, és találjon egy békés helyet a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Városi Színház udvara",
+            "tip": "Rövid szünet a városközpont nyüzsgésétől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băncile superioare de pe Petřín",
+            "tip": "După ce coborâți din autobuz, veți găsi locuri liniștite cu priveliște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Un golf liniștit la baraj",
+            "tip": "Îndepărtați-vă puțin de poteca principală și găsiți un loc pașnic lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Teatrului Municipal",
+            "tip": "O scurtă pauză de la agitația centrului orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper benches on Petřín",
+            "tip": "After getting off the bus, you'll find quiet spots with a view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A quiet bay at the dam",
+            "tip": "Walk a little away from the main path and find a peaceful spot by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the Municipal Theatre",
+            "tip": "A short break from the hustle and bustle of the city center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs am Busbahnhof",
+            "tip": "Hier finden Sie oft eine Auswahl an typischen Souvenirs für eine schnelle Mitbringsel."
+          },
+          {
+            "name": "Kleine Läden in den Gassen",
+            "tip": "Beim Spaziergang durch die Cluster finden Sie charmante kleine Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak a buszpályaudvaron",
+            "tip": "Itt gyakran talál egy választékot tipikus ajándéktárgyakból egy gyors szuvenírért."
+          },
+          {
+            "name": "Kis üzletek a sikátorokban",
+            "tip": "A klasztereken való séta során bájos kis üzleteket talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la autogară",
+            "tip": "Aici găsiți adesea o selecție de suveniruri tipice pentru un cadou rapid."
+          },
+          {
+            "name": "Magazine mici pe alei",
+            "tip": "Plimbându-vă prin clustere, veți găsi magazine mici și fermecătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at the bus station",
+            "tip": "You can often find a selection of typical souvenirs for a quick gift."
+          },
+          {
+            "name": "Small shops in the alleys",
+            "tip": "Walking through the clusters, you will find charming little shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die offizielle App für den öffentlichen Nahverkehr herunter, um Fahrpläne und Routen zu sehen.",
+          "Eine Tageskarte ist in der Regel günstiger als mehrere Einzelfahrscheine.",
+          "Achten Sie auf die letzte Busverbindung des Tages, besonders von den äußeren Sehenswürdigkeiten.",
+          "Validieren Sie Ihr Ticket bei jeder Fahrt, um Strafen zu vermeiden."
+        ],
+        "hu": [
+          "Töltse le a hivatalos tömegközlekedési alkalmazást a menetrendek és útvonalak megtekintéséhez.",
+          "A napijegy általában olcsóbb, mint több vonaljegy.",
+          "Figyeljen a nap utolsó buszjáratára, különösen a külső látványosságoktól.",
+          "Érvényesítse a jegyét minden utazáskor, hogy elkerülje a büntetéseket."
+        ],
+        "ro": [
+          "Descărcați aplicația oficială de transport public pentru a vedea orarele și rutele.",
+          "Un bilet de o zi este de obicei mai ieftin decât mai multe bilete individuale.",
+          "Fiți atenți la ultima legătură de autobuz a zilei, în special de la atracțiile exterioare.",
+          "Validați biletul la fiecare călătorie pentru a evita amenzile."
+        ],
+        "en": [
+          "Download the official public transport app to see schedules and routes.",
+          "A day ticket is usually cheaper than several single tickets.",
+          "Pay attention to the last bus connection of the day, especially from the outer sights.",
+          "Validate your ticket on every ride to avoid fines."
+        ]
+      }
+    }
+  }
+}

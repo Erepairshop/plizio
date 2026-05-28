@@ -1,0 +1,1460 @@
+{
+  "city_id": "norway-mo-i-rana-cities-v2",
+  "anchor": {
+    "name": "Mo i Rana",
+    "coords": [
+      14.14,
+      66.31
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Moholmen (Altstadt)",
+            "hu": "Moholmen (Óváros)",
+            "ro": "Moholmen (Orașul vechi)",
+            "en": "Moholmen (Old Town)"
+          },
+          "coords": [
+            14.138,
+            66.31
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee und genießen Sie die Holzhäuser am Fjord.",
+            "hu": "Kezdje a napot egy kávéval, és gyönyörködjön a fjord melletti faházakban.",
+            "ro": "Începeți ziua cu o cafea aici, admirând casele de lemn de pe malul fiordului.",
+            "en": "Start with a coffee here and enjoy the wooden houses by the fjord."
+          }
+        },
+        {
+          "name": {
+            "de": "Havmannen",
+            "hu": "Havmannen (Tengeri Ember szobor)",
+            "ro": "Havmannen (Statuia Omului Mării)",
+            "en": "Havmannen (The Man from the Sea)"
+          },
+          "coords": [
+            14.135,
+            66.312
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekter Fotopunkt bei Ebbe und Flut. Die Granitskulptur ist ein Wahrzeichen.",
+            "hu": "Tökéletes fotóhelyszín apálykor és dagálykor is. A gránitszobor a város jelképe.",
+            "ro": "Loc perfect pentru fotografii atât la flux, cât și la reflux. Sculptura de granit este un simbol.",
+            "en": "Perfect photo spot at both low and high tide. The granite sculpture is a landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Rana Museum",
+            "hu": "Rana Múzeum",
+            "ro": "Muzeul Rana",
+            "en": "Rana Museum"
+          },
+          "coords": [
+            14.142,
+            66.314
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen zur lokalen Industrie- und Kulturgeschichte.",
+            "hu": "Fókuszáljon a helyi ipar- és kultúrtörténeti kiállításokra.",
+            "ro": "Concentrați-vă pe expozițiile despre istoria industrială și culturală locală.",
+            "en": "Focus on the exhibits about local industrial and cultural history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            14.144,
+            66.313
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Restaurant für arktische Spezialitäten wie Rentier oder Lachs.",
+            "hu": "Próbáljon ki egy helyi éttermet, ahol sarkvidéki specialitásokat, például rénszarvast vagy lazacot kínálnak.",
+            "ro": "Încercați un restaurant local pentru specialități arctice, cum ar fi carnea de ren sau somonul.",
+            "en": "Try a local restaurant for Arctic specialties like reindeer or salmon."
+          }
+        },
+        {
+          "name": {
+            "de": "Mo Kirche",
+            "hu": "Mo templom",
+            "ro": "Biserica Mo",
+            "en": "Mo Church"
+          },
+          "coords": [
+            14.145,
+            66.311
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die einzigartige Holzarchitektur und die friedliche Atmosphäre im Inneren.",
+            "hu": "Figyelje meg az egyedi faépítészetet és a békés belső hangulatot.",
+            "ro": "Observați arhitectura unică din lemn și atmosfera liniștită din interior.",
+            "en": "Note the unique wooden architecture and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Vitensenter Nordland",
+            "hu": "Nordland Tudományos Központ",
+            "ro": "Centrul de Știință Nordland",
+            "en": "Nordland Science Center"
+          },
+          "coords": [
+            14.15,
+            66.315
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für Familien. Die interaktiven Ausstellungen machen Wissenschaft spannend.",
+            "hu": "Ideális családoknak. Az interaktív kiállítások érdekessé teszik a tudományt.",
+            "ro": "Ideal pentru familii. Expozițiile interactive fac știința captivantă.",
+            "en": "Great for families. The interactive exhibits make science exciting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Mo i Rana beginnt im historischen Viertel Moholmen, wo alte Holzhäuser den Charme der Fjordstadt ausmachen. Am Vormittag spazieren Sie entlang des Wassers zur berühmten Havmannen-Statue und tauchen anschließend im Rana Museum in die lokale Geschichte ein. Nach einem stärkenden Mittagessen mit arktischen Aromen besuchen Sie die architektonisch interessante Mo Kirche. Der Nachmittag ist der Wissenschaft gewidmet, mit einem Besuch im interaktiven Vitensenter Nordland, der Spaß für alle Altersgruppen verspricht. Ein entspannter Spaziergang schließt den Tag ab.",
+        "hu": "A nap Mo i Ranában a történelmi Moholmen negyedben kezdődik, ahol régi faházak adják a fjordváros varázsát. Délelőtt a vízparton sétálva eljut a híres Havmannen-szoborhoz, majd a Rana Múzeumban elmerül a helyi történelemben. Egy sarkvidéki ízekkel teli ebéd után megtekinti az építészetileg érdekes Mo templomot. A délután a tudományé, egy látogatással az interaktív Vitensenter Nordlandban, amely minden korosztály számára szórakozást ígér. Egy pihentető séta zárja a napot.",
+        "ro": "Ziua dvs. în Mo i Rana începe în cartierul istoric Moholmen, unde casele vechi din lemn definesc farmecul orașului de la fiord. Dimineața vă plimbați pe malul apei până la faimoasa statuie Havmannen, apoi vă cufundați în istoria locală la Muzeul Rana. După un prânz revigorant cu arome arctice, vizitați Biserica Mo, interesantă din punct de vedere arhitectural. După-amiaza este dedicată științei, cu o vizită la interactivul Centru de Știință Nordland, care promite distracție pentru toate vârstele. O plimbare relaxantă încheie ziua.",
+        "en": "Your day in Mo i Rana begins in the historic Moholmen district, where old wooden houses define the charm of the fjord city. In the morning, you'll stroll along the water to the famous Havmannen statue, then delve into local history at the Rana Museum. After a hearty lunch with Arctic flavors, you'll visit the architecturally interesting Mo Church. The afternoon is dedicated to science with a visit to the interactive Nordland Science Center, promising fun for all ages. A relaxing walk concludes the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rentiersteak",
+            "tip": "Ein Muss in Nordnorwegen, oft mit Preiselbeersauce serviert."
+          },
+          {
+            "name": "Lachs",
+            "tip": "Probieren Sie ihn geräuchert, gegrillt oder als Teil eines 'Smørbrød'."
+          },
+          {
+            "name": "Moltebeeren",
+            "tip": "Eine lokale Delikatesse, oft als Dessert mit Sahne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rénszarvas steak",
+            "tip": "Észak-Norvégiában kötelező, gyakran vörösáfonya-szósszal tálalják."
+          },
+          {
+            "name": "Lazac",
+            "tip": "Kóstolja meg füstölve, grillezve vagy egy 'Smørbrød' részeként."
+          },
+          {
+            "name": "Hamvas szeder (Molte)",
+            "tip": "Helyi finomság, gyakran tejszínnel desszertként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friptură de ren",
+            "tip": "O necesitate în nordul Norvegiei, adesea servită cu sos de merișoare."
+          },
+          {
+            "name": "Somon",
+            "tip": "Încercați-l afumat, la grătar sau ca parte a unui 'Smørbrød'."
+          },
+          {
+            "name": "Mure pitice (Cloudberries)",
+            "tip": "O delicatesă locală, adesea ca desert cu frișcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Reindeer Steak",
+            "tip": "A must-try in Northern Norway, often served with lingonberry sauce."
+          },
+          {
+            "name": "Salmon",
+            "tip": "Try it smoked, grilled, or as part of a 'Smørbrød' sandwich."
+          },
+          {
+            "name": "Cloudberries",
+            "tip": "A local delicacy, often enjoyed as a dessert with cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Ranfjord",
+            "tip": "Finden Sie eine ruhige Bank entlang des Fjords, um die Aussicht zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mo Kirche",
+            "tip": "Der Innenraum der Kirche ist ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bibliothek Mo i Rana",
+            "tip": "Ein warmer und ruhiger Ort, um sich mit einem Buch zurückzuziehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Ranfjord partján",
+            "tip": "Keressen egy csendes padot a fjord mentén, hogy élvezze a kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mo templom",
+            "tip": "A templom belseje a csend és az elmélyülés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mo i Rana Könyvtár",
+            "tip": "Meleg és csendes hely, ahol elvonulhat egy könyvvel.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul fiordului Rana",
+            "tip": "Găsiți o bancă liniștită de-a lungul fiordului pentru a admira priveliștea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Mo",
+            "tip": "Interiorul bisericii este un loc de liniște și contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Biblioteca din Mo i Rana",
+            "tip": "Un loc cald și liniștit pentru a vă retrage cu o carte.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stroll along the Ranfjord",
+            "tip": "Find a quiet bench along the fjord to enjoy the view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mo Church",
+            "tip": "The interior of the church is a place of silence and contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mo i Rana Library",
+            "tip": "A warm and quiet place to retreat with a book.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach Wollprodukten und handgefertigtem Schmuck."
+          },
+          {
+            "name": "AMFI Meyer",
+            "tip": "Das wichtigste Einkaufszentrum für eine größere Auswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen gyapjútermékeket és kézzel készített ékszereket."
+          },
+          {
+            "name": "AMFI Meyer",
+            "tip": "A fő bevásárlóközpont a szélesebb választékért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați produse din lână și bijuterii realizate manual."
+          },
+          {
+            "name": "AMFI Meyer",
+            "tip": "Principalul centru comercial pentru o selecție mai largă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for woolen products and handmade jewelry."
+          },
+          {
+            "name": "AMFI Meyer",
+            "tip": "The main shopping center for a wider selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sind.",
+          "Eine wasserdichte Jacke ist immer eine gute Idee, auch an sonnigen Tagen.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Die meisten Orte im Stadtzentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Egy vízálló dzseki mindig jó ötlet, még napos időben is.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "A belváros legtöbb helye könnyen megközelíthető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi pe picioare toată ziua.",
+          "O jachetă impermeabilă este întotdeauna o idee bună, chiar și în zilele însorite.",
+          "Verificați în avans orele de deschidere ale muzeelor.",
+          "Majoritatea locurilor din centrul orașului sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet all day.",
+          "A waterproof jacket is always a good idea, even on sunny days.",
+          "Check the opening hours of museums in advance.",
+          "Most places in the city center are easily within walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start",
+            "hu": "Kerékpárkölcsönzés és indulás",
+            "ro": "Închiriere biciclete și start",
+            "en": "Bike Rental & Start"
+          },
+          "coords": [
+            14.141,
+            66.316
+          ],
+          "category": "service",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe des Stadtzentrums, um den Tag zu beginnen.",
+            "hu": "Béreljen kerékpárt a városközpont közelében a nap megkezdéséhez.",
+            "ro": "Închiriați o bicicletă lângă centrul orașului pentru a începe ziua.",
+            "en": "Rent a bike near the city center to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Moholmen & Havmannen",
+            "hu": "Moholmen és Havmannen",
+            "ro": "Moholmen și Havmannen",
+            "en": "Moholmen & Havmannen"
+          },
+          "coords": [
+            14.136,
+            66.311
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie durch die Altstadt und halten Sie an der Skulptur für ein Foto.",
+            "hu": "Tekerjen át az óvároson, és álljon meg egy fotóra a szobornál.",
+            "ro": "Pedalați prin orașul vechi și opriți-vă la sculptură pentru o fotografie.",
+            "en": "Cycle through the old town and stop at the sculpture for a photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Rana Museum",
+            "hu": "Rana Múzeum",
+            "ro": "Muzeul Rana",
+            "en": "Rana Museum"
+          },
+          "coords": [
+            14.142,
+            66.314
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a múzeumot.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora muzeul.",
+            "en": "Lock your bike securely before exploring the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mo Kirche",
+            "hu": "Mo templom",
+            "ro": "Biserica Mo",
+            "en": "Mo Church"
+          },
+          "coords": [
+            14.145,
+            66.311
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die Holzarchitektur zu bewundern.",
+            "hu": "Rövid megálló a faépítészet megcsodálására.",
+            "ro": "O scurtă oprire pentru a admira arhitectura din lemn.",
+            "en": "A quick stop to admire the wooden architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Flusses Ranelva",
+            "hu": "Kerékpártúra a Ranelva folyó mentén",
+            "ro": "Tur cu bicicleta de-a lungul râului Ranelva",
+            "en": "Ride along the Ranelva River"
+          },
+          "coords": [
+            14.2,
+            66.32
+          ],
+          "category": "natural features",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Natur und machen Sie ein Picknick am Flussufer.",
+            "hu": "Élvezze a természetet és piknikezzen a folyóparton.",
+            "ro": "Bucurați-vă de natură și faceți un picnic pe malul râului.",
+            "en": "Enjoy the scenery and have a picnic by the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Vitensenter Nordland",
+            "hu": "Nordland Tudományos Központ",
+            "ro": "Centrul de Știință Nordland",
+            "en": "Nordland Science Center"
+          },
+          "coords": [
+            14.15,
+            66.315
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein unterhaltsamer und lehrreicher Abschluss des Tages, bevor Sie das Fahrrad zurückgeben.",
+            "hu": "Szórakoztató és tanulságos befejezése a napnak, mielőtt visszavinné a kerékpárt.",
+            "ro": "Un final de zi distractiv și educativ înainte de a returna bicicleta.",
+            "en": "A fun and educational end to the day before returning the bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf ein Fahrrad und erkunden Sie Mo i Rana auf zwei Rädern. Nach der Abholung Ihres Fahrrads führt die erste Etappe Sie durch die charmante Altstadt von Moholmen und zur ikonischen Havmannen-Statue. Vormittags besuchen Sie das Rana Museum und die Mo Kirche, beides leicht mit dem Fahrrad zu erreichen. Zur Mittagszeit entfliehen Sie dem Trubel und genießen eine malerische Fahrt entlang des Flusses Ranelva, perfekt für ein Picknick. Der Nachmittag bringt Sie zurück ins Zentrum zum Vitensenter Nordland für eine Dosis interaktiver Wissenschaft, bevor Sie den Tag beenden.",
+        "hu": "Pattanjon kerékpárra, és fedezze fel Mo i Ranát két keréken! A kerékpár átvétele után az első szakasz a bájos Moholmen óvároson és az ikonikus Havmannen-szobron vezet keresztül. Délelőtt meglátogatja a Rana Múzeumot és a Mo templomot, mindkettő könnyen elérhető biciklivel. Ebédidőben elmenekül a nyüzsgés elől, és egy festői utat tesz a Ranelva folyó mentén, amely tökéletes egy piknikhez. A délután visszaviszi a központba a Vitensenter Nordlandba egy adag interaktív tudományért, mielőtt befejezné a napot.",
+        "ro": "Urcați-vă pe bicicletă și explorați Mo i Rana pe două roți. După ce vă ridicați bicicleta, prima etapă vă duce prin fermecătorul oraș vechi Moholmen și la iconica statuie Havmannen. Dimineața vizitați Muzeul Rana și Biserica Mo, ambele ușor accesibile cu bicicleta. La prânz, evadați din agitație și bucurați-vă de o plimbare pitorească de-a lungul râului Ranelva, perfectă pentru un picnic. După-amiaza vă aduce înapoi în centru la Centrul de Știință Nordland pentru o doză de știință interactivă înainte de a încheia ziua.",
+        "en": "Hop on a bike and explore Mo i Rana on two wheels. After picking up your bike, the first leg takes you through the charming old town of Moholmen and to the iconic Havmannen statue. In the morning, you'll visit the Rana Museum and Mo Church, both easily accessible by bike. At lunchtime, escape the bustle and enjoy a scenic ride along the Ranelva River, perfect for a picnic. The afternoon brings you back to the center for a dose of interactive science at the Nordland Science Center before you end your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischsuppe (Fiskesuppe)",
+            "tip": "Eine wärmende und herzhafte Mahlzeit, perfekt nach einer Radtour."
+          },
+          {
+            "name": "Waffeln mit Brunost",
+            "tip": "Ein klassischer norwegischer Snack, süß und herzhaft zugleich."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Suchen Sie nach Bieren von Mikrobrauereien aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászlé (Fiskesuppe)",
+            "tip": "Melegítő és kiadós étel, tökéletes egy kerékpártúra után."
+          },
+          {
+            "name": "Gofri barna sajttal (Brunost)",
+            "tip": "Klasszikus norvég snack, egyszerre édes és sós."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Keressen a régió mikrosörfőzdéinek söreiből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de pește (Fiskesuppe)",
+            "tip": "O masă caldă și consistentă, perfectă după o tură cu bicicleta."
+          },
+          {
+            "name": "Vafe cu brânză maro (Brunost)",
+            "tip": "O gustare norvegiană clasică, dulce și sărată în același timp."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Căutați beri de la microberăriile din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Soup (Fiskesuppe)",
+            "tip": "A warming and hearty meal, perfect after a bike ride."
+          },
+          {
+            "name": "Waffles with Brown Cheese (Brunost)",
+            "tip": "A classic Norwegian snack, both sweet and savory."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Look for beers from microbreweries in the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Ranelva",
+            "tip": "Ein ruhiger Ort, um dem Stadtlärm zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt auf der Radroute",
+            "tip": "Halten Sie an einem erhöhten Punkt für einen Panoramablick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park in der Nähe der Kirche",
+            "tip": "Ein kleiner, friedlicher Park für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Ranelva partja",
+            "tip": "Csendes hely a város zajától távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátópont a kerékpárúton",
+            "tip": "Álljon meg egy magasabb ponton a panorámás kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park a templom közelében",
+            "tip": "Kicsi, békés park egy rövid pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Ranelva",
+            "tip": "Un loc liniștit pentru a scăpa de zgomotul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere pe traseul de biciclete",
+            "tip": "Opriți-vă într-un punct înalt pentru o vedere panoramică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc lângă biserică",
+            "tip": "Un parc mic și pașnic pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Ranelva River",
+            "tip": "A quiet spot to escape the city noise.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint on the bike route",
+            "tip": "Stop at an elevated point for a panoramic view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park near the church",
+            "tip": "A small, peaceful park for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Für Outdoor-Ausrüstung und norwegische Marken."
+          },
+          {
+            "name": "Supermarkt",
+            "tip": "Kaufen Sie Snacks und Getränke für Ihre Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Kültéri felszerelésekért és norvég márkákért."
+          },
+          {
+            "name": "Szupermarket",
+            "tip": "Vásároljon rágcsálnivalókat és italokat a kerékpártúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "Pentru echipament outdoor și mărci norvegiene."
+          },
+          {
+            "name": "Supermarket",
+            "tip": "Cumpărați gustări și băuturi pentru turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports Shops",
+            "tip": "For outdoor gear and Norwegian brands."
+          },
+          {
+            "name": "Supermarket",
+            "tip": "Buy snacks and drinks for your bike tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und wetterfeste Kleidung.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Planen Sie Ihre Route im Voraus, aber seien Sie flexibel.",
+          "Schließen Sie Ihr Fahrrad immer an, wenn Sie es unbeaufsichtigt lassen."
+        ],
+        "hu": [
+          "Viseljen sisakot és időjárásálló ruházatot.",
+          "Vigyen magával újratölthető vizes palackot.",
+          "Tervezze meg előre az útvonalat, de legyen rugalmas.",
+          "Mindig zárja le a kerékpárt, ha felügyelet nélkül hagyja."
+        ],
+        "ro": [
+          "Purtați cască și haine rezistente la intemperii.",
+          "Luați cu voi o sticlă de apă reutilizabilă.",
+          "Planificați-vă traseul în avans, dar fiți flexibil.",
+          "Încuiati întotdeauna bicicleta când o lăsați nesupravegheată."
+        ],
+        "en": [
+          "Wear a helmet and weather-appropriate clothing.",
+          "Bring a reusable water bottle.",
+          "Plan your route in advance, but be flexible.",
+          "Always lock your bike when leaving it unattended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 52.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start & Parken im Zentrum",
+            "hu": "Indulás és parkolás a központban",
+            "ro": "Start și parcare în centru",
+            "en": "Start & Park in the Center"
+          },
+          "coords": [
+            14.143,
+            66.315
+          ],
+          "category": "service",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen zentralen Parkplatz, um den ersten Teil des Tages zu Fuß zu erkunden.",
+            "hu": "Keressen egy központi parkolót, hogy a nap első részét gyalog fedezze fel.",
+            "ro": "Găsiți o parcare centrală pentru a explora prima parte a zilei pe jos.",
+            "en": "Find a central parking spot to explore the first part of the day on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Moholmen & Havmannen",
+            "hu": "Moholmen és Havmannen",
+            "ro": "Moholmen și Havmannen",
+            "en": "Moholmen & Havmannen"
+          },
+          "coords": [
+            14.136,
+            66.311
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Parkplatz zum alten Viertel und zur berühmten Statue.",
+            "hu": "Sétáljon a parkolóból az óvárosba és a híres szoborhoz.",
+            "ro": "Plimbați-vă de la parcare la cartierul vechi și la faimoasa statuie.",
+            "en": "Walk from the parking lot to the old district and the famous statue."
+          }
+        },
+        {
+          "name": {
+            "de": "Rana Museum",
+            "hu": "Rana Múzeum",
+            "ro": "Muzeul Rana",
+            "en": "Rana Museum"
+          },
+          "coords": [
+            14.142,
+            66.314
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Fjord zum Museum für eine Dosis Kultur.",
+            "hu": "Rövid séta a fjordtól a múzeumig egy adag kultúráért.",
+            "ro": "O scurtă plimbare de la fiord la muzeu pentru o doză de cultură.",
+            "en": "A short walk from the fjord to the museum for a dose of culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mo Kirche",
+            "hu": "Mo templom",
+            "ro": "Biserica Mo",
+            "en": "Mo Church"
+          },
+          "coords": [
+            14.145,
+            66.311
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt im Stadtzentrum, bevor Sie zu den Höhlen aufbrechen.",
+            "hu": "Az utolsó megálló a városközpontban, mielőtt a barlangok felé indul.",
+            "ro": "Ultima oprire în centrul orașului înainte de a porni spre peșteri.",
+            "en": "The last stop in the city center before heading out to the caves."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Grønligrotta",
+            "hu": "Utazás a Grønligrotta barlanghoz",
+            "ro": "Drumul spre peștera Grønligrotta",
+            "en": "Drive to Grønligrotta Cave"
+          },
+          "coords": [
+            14.55,
+            66.42
+          ],
+          "category": "natural features",
+          "arrive_at": "12:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 25.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um das Innere der Marmorhöhle zu erkunden. Buchen Sie im Voraus!",
+            "hu": "Vegyen részt egy vezetett túrán a márványbarlang belsejének felfedezéséhez. Foglaljon előre!",
+            "ro": "Participați la un tur ghidat pentru a explora interiorul peșterii de marmură. Rezervați în avans!",
+            "en": "Join a guided tour to explore the inside of the marble cave. Book in advance!"
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe der Höhlen",
+            "hu": "Ebéd a barlangok közelében",
+            "ro": "Prânz lângă peșteri",
+            "en": "Lunch near the caves"
+          },
+          "coords": [
+            14.54,
+            66.418
+          ],
+          "category": "gastro",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Einige Cafés in der Nähe bieten einfache, aber leckere norwegische Hausmannskost.",
+            "hu": "A közeli kávézók egyszerű, de finom norvég házias ételeket kínálnak.",
+            "ro": "Câteva cafenele din apropiere oferă mâncare norvegiană simplă, dar gustoasă.",
+            "en": "Some nearby cafes offer simple but tasty Norwegian home cooking."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zurück & Vitensenter",
+            "hu": "Visszaút és a Tudományos Központ",
+            "ro": "Întoarcere și Centrul de Știință",
+            "en": "Drive back & Science Center"
+          },
+          "coords": [
+            14.15,
+            66.315
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 26.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein letzter Halt im Wissenschaftszentrum, wenn die Zeit es erlaubt.",
+            "hu": "Egy utolsó megálló a tudományos központban, ha az idő engedi.",
+            "ro": "O ultimă oprire la centrul de știință, dacă timpul permite.",
+            "en": "A final stop at the science center if time permits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag kombiniert das städtische Herz von Mo i Rana mit atemberaubender Natur. Parken Sie morgens im Zentrum und erkunden Sie zu Fuß die historische Altstadt Moholmen, die Havmannen-Statue und das Rana Museum. Nach einem kurzen Besuch in der Mo Kirche steigen Sie ins Auto und fahren zur Grønligrotta, einer faszinierenden Marmorhöhle. Nach einer Führung und einem Mittagessen in der Natur kehren Sie am späten Nachmittag in die Stadt zurück. Je nach Zeit und Energie können Sie den Tag mit einem kurzen Besuch im Vitensenter Nordland ausklingen lassen.",
+        "hu": "Az autós napja Mo i Rana városi szívét ötvözi a lélegzetelállító természettel. Reggel parkoljon le a központban, és fedezze fel gyalog a történelmi Moholmen óvárost, a Havmannen-szobrot és a Rana Múzeumot. A Mo templom rövid megtekintése után autóba ül, és elhajt a Grønligrotta lenyűgöző márványbarlangjához. Egy vezetett túra és egy természetközeli ebéd után késő délután visszatér a városba. Időtől és energiától függően a napot a Vitensenter Nordland rövid meglátogatásával zárhatja.",
+        "ro": "Ziua dvs. cu mașina combină inima urbană a orașului Mo i Rana cu natura uluitoare. Parcați în centru dimineața și explorați pe jos centrul istoric Moholmen, statuia Havmannen și Muzeul Rana. După o scurtă vizită la Biserica Mo, urcați în mașină și conduceți spre Grønligrotta, o peșteră fascinantă de marmură. După un tur ghidat și un prânz în natură, vă întoarceți în oraș după-amiaza târziu. În funcție de timp și energie, puteți încheia ziua cu o scurtă vizită la Centrul de Știință Nordland.",
+        "en": "Your car day combines the urban heart of Mo i Rana with breathtaking nature. Park in the center in the morning and explore the historic Moholmen old town, the Havmannen statue, and the Rana Museum on foot. After a brief visit to Mo Church, you'll get in the car and drive to Grønligrotta, a fascinating marble cave. After a guided tour and lunch surrounded by nature, you'll return to the city in the late afternoon. Depending on time and energy, you can end the day with a quick visit to the Nordland Science Center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Elch-Burger",
+            "tip": "Eine herzhafte Mahlzeit, die Sie in Restaurants außerhalb der Stadt finden können."
+          },
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "Genießen Sie dies im Café in der Nähe der Höhlen."
+          },
+          {
+            "name": "Getrockneter Fisch (Tørrfisk)",
+            "tip": "Ein traditioneller Snack, den man in lokalen Geschäften kaufen kann."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jávorszarvas-burger",
+            "tip": "Kiadós étel, amelyet a városon kívüli éttermekben találhat."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "Élvezze a barlangok melletti kávézóban."
+          },
+          {
+            "name": "Szárított hal (Tørrfisk)",
+            "tip": "Hagyományos snack, amelyet helyi boltokban vásárolhat meg."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burger de elan",
+            "tip": "O masă consistentă pe care o puteți găsi la restaurantele din afara orașului."
+          },
+          {
+            "name": "Cafea și prăjitură",
+            "tip": "Savurați-le la cafeneaua de lângă peșteri."
+          },
+          {
+            "name": "Pește uscat (Tørrfisk)",
+            "tip": "O gustare tradițională pe care o puteți cumpăra din magazinele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moose Burger",
+            "tip": "A hearty meal you can find at restaurants outside the city."
+          },
+          {
+            "name": "Coffee and Cake",
+            "tip": "Enjoy this at the cafe near the caves."
+          },
+          {
+            "name": "Dried Fish (Tørrfisk)",
+            "tip": "A traditional snack you can buy in local shops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Inneres der Grønligrotta",
+            "tip": "Erleben Sie die Stille und die uralte Atmosphäre tief unter der Erde.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt auf dem Weg",
+            "tip": "Halten Sie an einem sicheren Ort an, um die Landschaft zu fotografieren.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Langvatnet-Sees",
+            "tip": "Ein kurzer Abstecher für einen Moment der Ruhe am Wasser.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Grønligrotta belseje",
+            "tip": "Tapasztalja meg a csendet és az ősi légkört mélyen a föld alatt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátópont az úton",
+            "tip": "Álljon meg egy biztonságos helyen, hogy lefényképezze a tájat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Langvatnet-tó partja",
+            "tip": "Rövid kitérő egy pillanatnyi békéért a víz mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Interiorul peșterii Grønligrotta",
+            "tip": "Experimentați liniștea și atmosfera antică adânc sub pământ.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere pe drum",
+            "tip": "Opriți într-un loc sigur pentru a fotografia peisajul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul lacului Langvatnet",
+            "tip": "Un scurt ocol pentru un moment de liniște lângă apă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Inside Grønligrotta Cave",
+            "tip": "Experience the silence and ancient atmosphere deep underground.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint on the road",
+            "tip": "Pull over at a safe spot to photograph the landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Shore of Lake Langvatnet",
+            "tip": "A short detour for a moment of peace by the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Höhlen-Souvenirshop",
+            "tip": "Kaufen Sie Mineralien und themenbezogene Andenken."
+          },
+          {
+            "name": "Hofläden",
+            "tip": "Achten Sie auf Schilder, die lokale Produkte wie Käse oder Wurst verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barlangi ajándékbolt",
+            "tip": "Vásároljon ásványokat és tematikus emléktárgyakat."
+          },
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Figyelje a táblákat, amelyek helyi termékeket, például sajtot vagy kolbászt árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri al peșterii",
+            "tip": "Cumpărați minerale și suveniruri tematice."
+          },
+          {
+            "name": "Magazine de la fermă",
+            "tip": "Fiți atenți la indicatoarele care vând produse locale, cum ar fi brânză sau cârnați."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cave Souvenir Shop",
+            "tip": "Buy minerals and themed souvenirs."
+          },
+          {
+            "name": "Farm Shops",
+            "tip": "Look for signs selling local products like cheese or sausages."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Höhlentouren unbedingt im Voraus, besonders im Sommer.",
+          "Tanken Sie Ihr Auto voll, bevor Sie die Stadt verlassen.",
+          "Die Straßen zu den Höhlen können eng sein; fahren Sie vorsichtig.",
+          "Prüfen Sie die Wettervorhersage, da sich die Bedingungen in den Bergen schnell ändern können."
+        ],
+        "hu": [
+          "A barlangtúrákat feltétlenül foglalja le előre, különösen nyáron.",
+          "Töltse tele az autóját, mielőtt elhagyja a várost.",
+          "A barlangokhoz vezető utak szűkek lehetnek; vezessen óvatosan.",
+          "Ellenőrizze az időjárás-előrejelzést, mivel a hegyekben a körülmények gyorsan változhatnak."
+        ],
+        "ro": [
+          "Asigurați-vă că rezervați tururile la peșteră în avans, mai ales vara.",
+          "Faceți plinul mașinii înainte de a părăsi orașul.",
+          "Drumurile spre peșteri pot fi înguste; conduceți cu prudență.",
+          "Verificați prognoza meteo, deoarece condițiile se pot schimba rapid la munte."
+        ],
+        "en": [
+          "Be sure to book cave tours in advance, especially in summer.",
+          "Fill up your car with gas before leaving the city.",
+          "The roads to the caves can be narrow; drive carefully.",
+          "Check the weather forecast as conditions can change quickly in the mountains."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 42.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Busbahnhof",
+            "hu": "Indulás a buszpályaudvarról",
+            "ro": "Start de la autogară",
+            "en": "Start at the Bus Terminal"
+          },
+          "coords": [
+            14.148,
+            66.317
+          ],
+          "category": "service",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für Flexibilität.",
+            "hu": "Vásároljon napijegyet a rugalmasság érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru flexibilitate.",
+            "en": "Buy a day pass for flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Moholmen & Havmannen",
+            "hu": "Moholmen és Havmannen",
+            "ro": "Moholmen și Havmannen",
+            "en": "Moholmen & Havmannen"
+          },
+          "coords": [
+            14.136,
+            66.311
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof, um den Tag am Wasser zu beginnen.",
+            "hu": "Rövid séta a buszpályaudvartól, hogy a vízparton kezdje a napot.",
+            "ro": "O scurtă plimbare de la autogară pentru a începe ziua pe malul apei.",
+            "en": "A short walk from the bus terminal to start the day by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Rana Museum & Mo Kirche",
+            "hu": "Rana Múzeum és Mo templom",
+            "ro": "Muzeul Rana și Biserica Mo",
+            "en": "Rana Museum & Mo Church"
+          },
+          "coords": [
+            14.143,
+            66.313
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie diese beiden nahe gelegenen Sehenswürdigkeiten zusammen.",
+            "hu": "Látogassa meg ezt a két közeli látnivalót együtt.",
+            "ro": "Vizitați împreună aceste două atracții din apropiere.",
+            "en": "Visit these two nearby attractions together."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt Richtung Grønligrotta",
+            "hu": "Buszozás a Grønligrotta felé",
+            "ro": "Călătorie cu autobuzul spre Grønligrotta",
+            "en": "Bus ride towards Grønligrotta"
+          },
+          "coords": [
+            14.5,
+            66.4
+          ],
+          "category": "service",
+          "arrive_at": "13:30",
+          "stay_min": 0,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 20.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht während der Fahrt. Steigen Sie an der Haltestelle 'Grønli' aus.",
+            "hu": "Élvezze a kilátást az utazás során. Szálljon le a 'Grønli' megállónál.",
+            "ro": "Bucurați-vă de priveliște în timpul călătoriei. Coborâți la stația 'Grønli'.",
+            "en": "Enjoy the views during the ride. Get off at the 'Grønli' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang und Aussicht",
+            "hu": "Séta és kilátás",
+            "ro": "Plimbare și priveliște",
+            "en": "Walk and View"
+          },
+          "coords": [
+            14.52,
+            66.41
+          ],
+          "category": "natural features",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von der Bushaltestelle aus können Sie einen Spaziergang in die Natur unternehmen. Die Höhle selbst ist zu Fuß schwer erreichbar.",
+            "hu": "A buszmegállótól tehet egy sétát a természetben. Maga a barlang gyalog nehezen megközelíthető.",
+            "ro": "De la stația de autobuz puteți face o plimbare în natură. Peștera în sine este greu accesibilă pe jos.",
+            "en": "From the bus stop, you can take a walk into nature. The cave itself is hard to reach on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt und Vitensenter",
+            "hu": "Visszaút és Tudományos Központ",
+            "ro": "Întoarcere și Centrul de Știință",
+            "en": "Return trip and Science Center"
+          },
+          "coords": [
+            14.15,
+            66.315
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 65,
+          "hop_from_prev_km": 20.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit interaktiven Exponaten, bevor Sie den letzten Bus nehmen.",
+            "hu": "Zárja a napot interaktív kiállításokkal, mielőtt felszáll az utolsó buszra.",
+            "ro": "Încheiați ziua cu exponate interactive înainte de a lua ultimul autobuz.",
+            "en": "End the day with interactive exhibits before catching the last bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Mo i Rana und seine Umgebung mit öffentlichen Verkehrsmitteln. Der Morgen ist dem Stadtzentrum gewidmet: Ein Spaziergang führt Sie von Moholmen zum Rana Museum und zur Kirche. Gegen Mittag nehmen Sie einen Bus, der Sie aus der Stadt hinaus in die spektakuläre Landschaft in Richtung der Höhlenregion führt. Obwohl die Höhlen selbst schwer zu erreichen sind, bietet die Gegend um die Bushaltestelle wunderbare Spaziergänge und Ausblicke. Nach der Rückkehr in die Stadt am Nachmittag bleibt noch Zeit für das Vitensenter Nordland, einen unterhaltsamen Abschluss Ihres Erkundungstages.",
+        "hu": "Fedezze fel Mo i Ranát és környékét tömegközlekedéssel. A délelőtt a városközponté: egy séta elvezeti Önt Moholmenből a Rana Múzeumba és a templomhoz. Dél körül busszal hagyja el a várost a barlangvidék felé vezető látványos tájra. Bár maguk a barlangok nehezen megközelíthetőek, a buszmegálló környéke csodálatos sétákat és kilátást kínál. Délután, miután visszatért a városba, még marad idő a Vitensenter Nordlandra, amely szórakoztató befejezése a felfedező napnak.",
+        "ro": "Descoperiți Mo i Rana și împrejurimile sale folosind transportul public. Dimineața este dedicată centrului orașului: o plimbare vă duce de la Moholmen la Muzeul Rana și la biserică. În jurul prânzului, luați un autobuz care vă scoate din oraș spre peisajul spectaculos din direcția regiunii peșterilor. Deși peșterile în sine sunt greu accesibile, zona din jurul stației de autobuz oferă plimbări și priveliști minunate. După întoarcerea în oraș după-amiaza, mai rămâne timp pentru Centrul de Știință Nordland, o încheiere distractivă a zilei de explorare.",
+        "en": "Discover Mo i Rana and its surroundings using public transport. The morning is dedicated to the city center: a walk takes you from Moholmen to the Rana Museum and the church. Around noon, you'll take a bus out of the city into the spectacular landscape towards the cave region. Although the caves themselves are hard to reach, the area around the bus stop offers wonderful walks and views. After returning to the city in the afternoon, there's still time for the Nordland Science Center, a fun end to your day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lunchpaket",
+            "tip": "Bereiten Sie ein Sandwich für den Ausflug aufs Land vor."
+          },
+          {
+            "name": "Pølse (Hotdog)",
+            "tip": "Ein schneller und beliebter Snack von einem Kiosk in der Stadt."
+          },
+          {
+            "name": "Skillingsbolle (Zimtschnecke)",
+            "tip": "Perfekt zu einem Kaffee am Busbahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csomagolt ebéd",
+            "tip": "Készítsen szendvicset a vidéki kirándulásra."
+          },
+          {
+            "name": "Pølse (Hot dog)",
+            "tip": "Gyors és népszerű harapnivaló egy városi kioszkból."
+          },
+          {
+            "name": "Skillingsbolle (Fahéjas csiga)",
+            "tip": "Tökéletes egy kávé mellé a buszpályaudvaron."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pachet de prânz",
+            "tip": "Pregătiți un sandviș pentru excursia la țară."
+          },
+          {
+            "name": "Pølse (Hotdog)",
+            "tip": "O gustare rapidă și populară de la un chioșc din oraș."
+          },
+          {
+            "name": "Skillingsbolle (Rulou cu scorțișoară)",
+            "tip": "Perfect cu o cafea la autogară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Packed Lunch",
+            "tip": "Prepare a sandwich for the trip to the countryside."
+          },
+          {
+            "name": "Pølse (Hotdog)",
+            "tip": "A quick and popular snack from a kiosk in town."
+          },
+          {
+            "name": "Skillingsbolle (Cinnamon Bun)",
+            "tip": "Perfect with a coffee at the bus terminal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fensterplatz im Bus",
+            "tip": "Beobachten Sie die vorbeiziehende Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spazierweg bei Grønli",
+            "tip": "Genießen Sie die Ruhe der norwegischen Natur.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Leseecke im Museum",
+            "tip": "Machen Sie eine Pause vom Sightseeing.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ablak melletti ülés a buszon",
+            "tip": "Figyelje az elsuhanó tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sétaút Grønli közelében",
+            "tip": "Élvezze a norvég természet csendjét.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olvasósarok a múzeumban",
+            "tip": "Tartson szünetet a városnézésben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc la fereastră în autobuz",
+            "tip": "Priviți peisajul care trece.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Potecă de plimbare lângă Grønli",
+            "tip": "Bucurați-vă de liniștea naturii norvegiene.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Colț de lectură la muzeu",
+            "tip": "Luați o pauză de la vizitarea obiectivelor turistice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Window seat on the bus",
+            "tip": "Watch the landscape pass by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walking path near Grønli",
+            "tip": "Enjoy the quiet of the Norwegian nature.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Reading corner in the museum",
+            "tip": "Take a break from sightseeing.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Für Last-Minute-Snacks und Zeitschriften."
+          },
+          {
+            "name": "Buchhandlung im Zentrum",
+            "tip": "Finden Sie Bücher über die lokale Geschichte oder norwegische Sagen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Utolsó pillanatos rágcsálnivalókért és magazinokért."
+          },
+          {
+            "name": "Könyvesbolt a központban",
+            "tip": "Keressen könyveket a helyi történelemről vagy norvég mondákról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Pentru gustări și reviste de ultim moment."
+          },
+          {
+            "name": "Librărie în centru",
+            "tip": "Găsiți cărți despre istoria locală sau legende norvegiene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus terminal",
+            "tip": "For last-minute snacks and magazines."
+          },
+          {
+            "name": "Bookstore in the center",
+            "tip": "Find books about local history or Norwegian sagas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt.",
+          "Haben Sie etwas Bargeld für den Fall, dass Kartenzahlung im Bus nicht möglich ist.",
+          "Laden Sie Offline-Karten herunter, da die Mobilfunkabdeckung außerhalb der Stadt lückenhaft sein kann.",
+          "Seien Sie an der Bushaltestelle pünktlich."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó visszautat.",
+          "Legyen Önnél némi készpénz arra az esetre, ha a buszon nem lehet kártyával fizetni.",
+          "Töltsön le offline térképeket, mivel a mobil lefedettség a városon kívül hiányos lehet.",
+          "Legyen pontos a buszmegállóban."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie de întoarcere.",
+          "Aveți niște numerar în caz că plata cu cardul nu este posibilă în autobuz.",
+          "Descărcați hărți offline, deoarece acoperirea mobilă poate fi slabă în afara orașului.",
+          "Fiți punctuali la stația de autobuz."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially for the last return trip.",
+          "Have some cash in case card payment is not available on the bus.",
+          "Download offline maps, as mobile coverage can be patchy outside the city.",
+          "Be on time at the bus stop."
+        ]
+      }
+    }
+  }
+}

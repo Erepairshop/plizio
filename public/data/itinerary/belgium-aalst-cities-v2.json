@@ -1,0 +1,1103 @@
+{
+  "city_id": "belgium-aalst-cities-v2",
+  "anchor": {
+    "name": "Aalst",
+    "coords": [
+      4.0355,
+      50.9374
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Grote Markt",
+          "coords": [
+            4.0385,
+            50.938
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf das Borstbeeld von Dirk Martens.",
+            "hu": "Keresse meg Dirk Martens szobrát a téren.",
+            "ro": "Căutați statuia lui Dirk Martens în piață.",
+            "en": "Look for the statue of Dirk Martens on the square."
+          }
+        },
+        {
+          "name": "Dirk Martensbeeld",
+          "coords": [
+            4.0387,
+            50.938
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Denkmal des ersten Buchdruckers der südlichen Niederlande.",
+            "hu": "A déli németalföld első könyvnyomtatójának emlékműve.",
+            "ro": "Monumentul primului tipograf din Țările de Jos de Sud.",
+            "en": "Monument to the first book printer of the Southern Netherlands."
+          }
+        },
+        {
+          "name": "Belfort van Aalst",
+          "coords": [
+            4.039,
+            50.9382
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der UNESCO-geschützte Turm stammt aus dem 15. Jahrhundert.",
+            "hu": "Az UNESCO-védett torony a 15. századból származik.",
+            "ro": "Turnul protejat de UNESCO datează din secolul al XV-lea.",
+            "en": "The UNESCO-protected tower dates back to the 15th century."
+          }
+        },
+        {
+          "name": "Sint-Martinuskerk",
+          "coords": [
+            4.041,
+            50.938
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gotische Kirche mit einem Gemälde von Rubens.",
+            "hu": "Gótikus templom egy eredeti Rubens-festménnyel.",
+            "ro": "Biserică gotică care găzduiește o pictură de Rubens.",
+            "en": "Gothic church housing an original painting by Rubens."
+          }
+        },
+        {
+          "name": "'t Gasthuys",
+          "coords": [
+            4.036,
+            50.936
+          ],
+          "category": "museums",
+          "arrive_at": "12:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stadtmuseum zur Karnevalstradition und Geschichte.",
+            "hu": "Városi múzeum a karnevál hagyományairól és a történelemről.",
+            "ro": "Muzeul orașului axat pe tradiția carnavalului.",
+            "en": "City museum focusing on carnival traditions and history."
+          }
+        },
+        {
+          "name": "Stadspark Aalst",
+          "coords": [
+            4.034,
+            50.928
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein 1915 angelegter Park mit Teichen und Waldwegen.",
+            "hu": "Egy 1915-ben kialakított park tavakkal és erdei utakkal.",
+            "ro": "Un parc din 1915 cu iazuri și cărări împădurite.",
+            "en": "A park established in 1915 with ponds and wooded paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Grote Markt mit dem UNESCO-Belfried aus dem 15. Jahrhundert. Erforschen Sie die Ursprünge des Buchdrucks beim Dirk Martens Monument. Mittags bietet die Sint-Martinuskerk gotische Architektur und ein Rubens-Gemälde. Nachmittags führt das Museum 't Gasthuys durch die Karnevalsgeschichte, gefolgt von einem entspannten Spaziergang im Stadspark.",
+        "hu": "Kezdje a napot a Grote Markton, ahol a 15. századi harangtorony áll. Nézze meg Dirk Martens, az első könyvnyomtató szobrát. Délben a gótikus Sint-Martinuskerk lenyűgöző Rubens-festménye várja. Délután a 't Gasthuys múzeumban ismerheti meg a híres karnevált, majd a Stadspark fái alatt pihenhet.",
+        "ro": "Începeți la Grote Markt cu clopotnița UNESCO din secolul al XV-lea. Explorați originile tiparului la statuia lui Dirk Martens. La prânz, biserica Sint-Martinus expune o pictură de Rubens. După-amiaza, muzeul 't Gasthuys prezintă istoria carnavalului, urmat de o plimbare liniștită în Stadspark.",
+        "en": "Start at the Grote Markt with the 15th-century UNESCO belfry. Learn about the origins of printing at the Dirk Martens statue. Midday, the Sint-Martinuskerk offers Gothic architecture and a Rubens painting. In the afternoon, dive into carnival history at 't Gasthuys museum, ending with a relaxing walk in the Stadspark."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aalsterse vlaai",
+            "tip": "Lokaler Gewürzkuchen in Bäckereien nahe der Sint-Martinuskerk."
+          },
+          {
+            "name": "Ondineke Bier",
+            "tip": "Probieren Sie dieses lokale Bier in einer Brasserie am Grote Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aalsterse vlaai",
+            "tip": "Helyi fűszeres pite a Sint-Martinuskerk körüli pékségekben."
+          },
+          {
+            "name": "Ondineke sör",
+            "tip": "Kóstolja meg ezt a helyi sört a Grote Markt egyik sörözőjében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aalsterse vlaai",
+            "tip": "Plăcintă locală condimentată la brutăriile de lângă biserica Sint-Martinus."
+          },
+          {
+            "name": "Bere Ondineke",
+            "tip": "Încercați această bere locală la o braserie din Grote Markt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aalsterse vlaai",
+            "tip": "Local spiced pie found in bakeries near the Sint-Martinuskerk."
+          },
+          {
+            "name": "Ondineke Beer",
+            "tip": "Try this local beer at a brasserie on the Grote Markt."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadspark Teich",
+            "tip": "Setzen Sie sich auf eine Bank am Wasser im 1915 angelegten Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Belfried Innenhof",
+            "tip": "Ein ruhiger historischer Ort mitten im Zentrum.",
+            "emoji": "🏛️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadspark tó",
+            "tip": "Üljön le egy padra a víz mellett az 1915-ben épült parkban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Harangtorony udvara",
+            "tip": "Csendes történelmi tér a központ forgatagában.",
+            "emoji": "🏛️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Iazul Stadspark",
+            "tip": "Așezați-vă pe o bancă lângă apă în parcul creat în 1915.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Clopotniței",
+            "tip": "Un loc istoric liniștit chiar în centrul orașului.",
+            "emoji": "🏛️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadspark Pond",
+            "tip": "Sit on a bench by the water in the park built in 1915.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Belfry Courtyard",
+            "tip": "A quiet historical spot right in the middle of the center.",
+            "emoji": "🏛️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kattestraat",
+            "tip": "Die Haupteinkaufsstraße für Mode und Boutiquen."
+          },
+          {
+            "name": "Donnerstagsmarkt",
+            "tip": "Lokaler Wochenmarkt auf dem Grote Markt mit frischen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kattestraat",
+            "tip": "A város fő bevásárlóutcája butikokkal és divatüzletekkel."
+          },
+          {
+            "name": "Csütörtöki piac",
+            "tip": "Heti piac a Grote Markton friss helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kattestraat",
+            "tip": "Principala stradă comercială pentru modă și buticuri."
+          },
+          {
+            "name": "Piața de joi",
+            "tip": "Piața săptămânală din Grote Markt cu produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kattestraat",
+            "tip": "The main shopping street for fashion and boutiques."
+          },
+          {
+            "name": "Thursday Market",
+            "tip": "Weekly local market on the Grote Markt selling fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Zentrum von Aalst ist kompakt und gut zu Fuß erkundbar.",
+          "Achten Sie auf Radfahrer in den engen Gassen um den Markt.",
+          "Das Museum 't Gasthuys ist montags geschlossen.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster im historischen Zentrum."
+        ],
+        "hu": [
+          "Aalst központja kompakt, könnyen bejárható gyalog.",
+          "Figyeljen a kerékpárosokra a piac körüli szűk utcákban.",
+          "A 't Gasthuys múzeum hétfőnként zárva tart.",
+          "Viseljen kényelmes cipőt a történelmi központ macskaköves utcáihoz."
+        ],
+        "ro": [
+          "Centrul orașului Aalst este compact și ușor de explorat pe jos.",
+          "Atenție la bicicliști pe străzile înguste din jurul pieței.",
+          "Muzeul 't Gasthuys este închis lunea.",
+          "Purtați încălțăminte confortabilă pentru străzile pietruite din centrul istoric."
+        ],
+        "en": [
+          "Aalst's center is compact and very walkable.",
+          "Watch out for cyclists in the narrow streets around the market.",
+          "The 't Gasthuys museum is closed on Mondays.",
+          "Wear comfortable shoes for the cobblestones in the historic center."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Statieplein",
+          "coords": [
+            4.043,
+            50.941
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Bahnhofsplatz zeigt typische Architektur des 19. Jahrhunderts.",
+            "hu": "Az állomás tér tipikus 19. századi építészetet mutat be.",
+            "ro": "Piața gării prezintă arhitectura tipică a secolului al XIX-lea.",
+            "en": "The station square features typical 19th-century architecture."
+          }
+        },
+        {
+          "name": "Netwerk Aalst",
+          "coords": [
+            4.044,
+            50.936
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Zentrum für zeitgenössische Kunst nahe dem Fluss Dender.",
+            "hu": "Kortárs művészeti központ a Dender folyó közelében.",
+            "ro": "Centru de artă contemporană lângă râul Dender.",
+            "en": "Contemporary art center near the Dender river."
+          }
+        },
+        {
+          "name": "Grote Markt",
+          "coords": [
+            4.0385,
+            50.938
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das historische Zentrum, ideal für eine Kaffeepause.",
+            "hu": "A történelmi központ, ideális egy kávészünetre.",
+            "ro": "Centrul istoric, ideal pentru o pauză de cafea.",
+            "en": "The historic center, perfect for a coffee break."
+          }
+        },
+        {
+          "name": "Sint-Martinuskerk",
+          "coords": [
+            4.041,
+            50.938
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Gothische Pracht, Fahrradabstellplätze in der Nähe.",
+            "hu": "Gótikus pompa, kerékpártárolók a közelben.",
+            "ro": "Splendoare gotică, parcare de biciclete în apropiere.",
+            "en": "Gothic splendor, bicycle parking nearby."
+          }
+        },
+        {
+          "name": "'t Gasthuys",
+          "coords": [
+            4.036,
+            50.936
+          ],
+          "category": "museums",
+          "arrive_at": "12:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kulturmuseum mit gut zugänglichem Hofraum.",
+            "hu": "Kulturális múzeum könnyen megközelíthető udvarral.",
+            "ro": "Muzeu cultural cu curte interioară accesibilă.",
+            "en": "Cultural museum with an easily accessible courtyard."
+          }
+        },
+        {
+          "name": "Stadspark Aalst",
+          "coords": [
+            4.034,
+            50.928
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine entspannte Fahrt auf den Waldwegen.",
+            "hu": "Tökéletes egy pihentető tekeréshez az erdei utakon.",
+            "ro": "Perfect pentru o plimbare relaxantă pe cărările împădurite.",
+            "en": "Perfect for a relaxing ride on the wooded paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am historischen Statieplein und radeln Sie zum Netwerk Aalst am Flussufer der Dender. Mittags besuchen Sie den zentralen Grote Markt und die nahegelegene Sint-Martinuskerk. Nachmittags erkunden Sie die Geschichte im 't Gasthuys, bevor Sie den Tag mit einer entspannten Fahrt durch den Stadspark abschließen.",
+        "hu": "Kezdje a történelmi Statieplein-nél, majd tekerjen a Dender folyó partján fekvő Netwerk Aalsthoz. Délben látogassa meg a központi Grote Marktot és a Sint-Martinuskerket. Délután ismerje meg a történelmet a 't Gasthuysban, végül zárja a napot egy kellemes gurulással a Stadsparkban.",
+        "ro": "Începeți la istorica Statieplein și mergeți cu bicicleta la Netwerk Aalst pe malul râului Dender. La prânz, vizitați Grote Markt și biserica Sint-Martinus. După-amiaza, explorați istoria la 't Gasthuys, înainte de a încheia ziua cu o plimbare prin Stadspark.",
+        "en": "Start at the historic Statieplein and bike to Netwerk Aalst along the Dender riverbanks. Midday, visit the central Grote Markt and the nearby Sint-Martinuskerk. In the afternoon, explore history at 't Gasthuys before ending the day with a relaxing ride through the Stadspark."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pommes Frites am Bahnhof",
+            "tip": "Holen Sie sich belgische Pommes in der Nähe des Statieplein."
+          },
+          {
+            "name": "Bier-Café",
+            "tip": "Probieren Sie ein belgisches Ale im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült krumpli az állomásnál",
+            "tip": "Vegyen igazi belga sült krumplit a Statieplein közelében."
+          },
+          {
+            "name": "Söröző",
+            "tip": "Kóstoljon meg egy belga ale-t a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartofi prăjiți la gară",
+            "tip": "Luați cartofi prăjiți belgieni lângă Statieplein."
+          },
+          {
+            "name": "Cafenea cu bere",
+            "tip": "Încercați un ale belgian în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fries at the Station",
+            "tip": "Grab some Belgian fries near the Statieplein."
+          },
+          {
+            "name": "Beer Café",
+            "tip": "Try a Belgian ale in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dender Ufer",
+            "tip": "Radeln Sie am Fluss Dender entlang für eine ruhige Pause.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Stadspark Wiesen",
+            "tip": "Legen Sie sich mit dem Fahrrad ins Gras.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dender partja",
+            "tip": "Tekerjen a Dender folyó mentén egy csendes szünetért.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Stadspark rétjei",
+            "tip": "Feküdjön le a fűbe a kerékpár mellé.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Dender",
+            "tip": "Mergeți cu bicicleta de-a lungul râului Dender pentru o pauză liniștită.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Pajiștile Stadspark",
+            "tip": "Întindeți-vă pe iarbă cu bicicleta alături.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dender Banks",
+            "tip": "Bike along the Dender river for a quiet break.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Stadspark Meadows",
+            "tip": "Lie in the grass with your bike nearby.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Lokale Radshops entlang der Hauptverkehrsadern."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie süße Snacks für die Fahrt im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárüzletek",
+            "tip": "Helyi kerékpárboltok a fő útvonalak mentén."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vegyen édes falatokat az útra a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Magazine locale de biciclete de-a lungul arterelor principale."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați gustări dulci pentru plimbare din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Local bike shops along the main thoroughfares."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Buy sweet snacks for the ride in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Aalst ist fahrradfreundlich, aber achten Sie auf das Kopfsteinpflaster.",
+          "Nutzen Sie die Radwege entlang der Dender.",
+          "Schließen Sie Ihr Fahrrad immer gut an, besonders am Bahnhof."
+        ],
+        "hu": [
+          "Aalst kerékpárbarát, de vigyázzon a macskaköves utakon.",
+          "Használja a Dender folyó menti kerékpárutakat.",
+          "Mindig zárja le jól a kerékpárját, különösen az állomásnál."
+        ],
+        "ro": [
+          "Aalst este prietenos cu bicicliștii, dar aveți grijă pe străzile pietruite.",
+          "Folosiți pistele de biciclete de-a lungul râului Dender.",
+          "Legați întotdeauna bine bicicleta, mai ales la gară."
+        ],
+        "en": [
+          "Aalst is bike-friendly, but watch out for the cobblestones.",
+          "Use the bike paths along the Dender river.",
+          "Always lock your bike securely, especially at the station."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 5.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Keizershallen",
+          "coords": [
+            4.047,
+            50.939
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Veranstaltungshalle, parken Sie hier in der Nähe.",
+            "hu": "Rendezvényközpont, itt könnyen tud parkolni.",
+            "ro": "Sală de evenimente, parcați în apropiere aici.",
+            "en": "Event hall, park your car nearby here."
+          }
+        },
+        {
+          "name": "Statieplein",
+          "coords": [
+            4.043,
+            50.941
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spaziergang zum Bahnhofsplatz mit 19. Jhd. Architektur.",
+            "hu": "Séta az állomástérhez, csodálja meg a 19. századi építészetet.",
+            "ro": "Plimbare până la piața gării cu arhitectură din secolul al XIX-lea.",
+            "en": "Walk to the station square featuring 19th-century architecture."
+          }
+        },
+        {
+          "name": "Grote Markt",
+          "coords": [
+            4.0385,
+            50.938
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz nahe dem Zentrum.",
+            "hu": "Vezessen a központ közeli parkolóhoz.",
+            "ro": "Conduceți spre o parcare din apropierea centrului.",
+            "en": "Drive to a parking lot near the center."
+          }
+        },
+        {
+          "name": "Belfort van Aalst",
+          "coords": [
+            4.039,
+            50.9382
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Belfried ist nur einen kurzen Fußweg vom Markt entfernt.",
+            "hu": "A harangtorony csak egy rövid sétára van a piactértől.",
+            "ro": "Clopotnița este la doar o scurtă plimbare de piață.",
+            "en": "The belfry is just a short walk from the market."
+          }
+        },
+        {
+          "name": "Sint-Martinuskerk",
+          "coords": [
+            4.041,
+            50.938
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie weiter zur Kirche mit dem Rubens-Gemälde.",
+            "hu": "Sétáljon tovább a templomhoz, ahol a Rubens-festmény található.",
+            "ro": "Continuați pe jos până la biserica cu pictura de Rubens.",
+            "en": "Continue walking to the church featuring the Rubens painting."
+          }
+        },
+        {
+          "name": "'t Gasthuys",
+          "coords": [
+            4.036,
+            50.936
+          ],
+          "category": "museums",
+          "arrive_at": "13:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nutzen Sie das Auto zum südlichen Museums-Cluster.",
+            "hu": "Használja az autót a déli múzeumi negyedbe való eljutáshoz.",
+            "ro": "Folosiți mașina pentru a ajunge în zona muzeală de sud.",
+            "en": "Use the car to reach the southern museum cluster."
+          }
+        },
+        {
+          "name": "Stadspark Aalst",
+          "coords": [
+            4.034,
+            50.928
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Museum in den Park.",
+            "hu": "Egy kellemes séta a múzeumtól a parkba.",
+            "ro": "O plimbare plăcută de la muzeu până în parc.",
+            "en": "A pleasant walk from the museum to the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour durch Aalst verbindet drei Hauptcluster. Sie beginnen am Bahnhofsviertel bei den Keizershallen und spazieren zum Statieplein. Fahren Sie dann ins Zentrum zum Grote Markt, wo Sie den Belfried und die Sint-Martinuskerk zu Fuß erkunden. Nachmittags fahren Sie zum südlichen Cluster für das 't Gasthuys Museum und einen Spaziergang im Stadspark.",
+        "hu": "Az autós túra három fő klasztert köt össze. Kezdje az állomás környékén a Keizershallennél, és sétáljon el a Statiepleinig. Ezután vezessen a központba, ahol gyalog fedezheti fel a Grote Marktot, a harangtornyot és a Sint-Martinuskerket. Délután autózzon a déli részhez a 't Gasthuys múzeumhoz és a Stadsparkhoz.",
+        "ro": "Turul cu mașina combină trei grupuri principale. Începeți la zona gării de la Keizershallen și mergeți spre Statieplein. Apoi, conduceți în centru la Grote Markt, explorând clopotnița și biserica Sint-Martinus pe jos. După-amiaza, conduceți spre zona de sud pentru muzeul 't Gasthuys și o plimbare în Stadspark.",
+        "en": "Your driving tour through Aalst connects three main clusters. Start at the station area near Keizershallen and walk to Statieplein. Then drive to the central Grote Markt, exploring the belfry and Sint-Martinuskerk on foot. In the afternoon, drive to the southern cluster for the 't Gasthuys museum and a walk in the Stadspark."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brasserie am Markt",
+            "tip": "Ideal für ein Mittagessen zwischen den Clustern."
+          },
+          {
+            "name": "Regionale Spezialitäten",
+            "tip": "Probieren Sie Aalsterse vlaai als Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brasserie a piacon",
+            "tip": "Ideális egy ebédre a klaszterek közötti szünetben."
+          },
+          {
+            "name": "Regionális specialitások",
+            "tip": "Próbálja ki az Aalsterse vlaait desszertként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Braserie la piață",
+            "tip": "Ideal pentru un prânz între explorarea zonelor."
+          },
+          {
+            "name": "Specialități regionale",
+            "tip": "Încercați Aalsterse vlaai ca desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Brasserie",
+            "tip": "Ideal for a lunch break between exploring clusters."
+          },
+          {
+            "name": "Regional Specialties",
+            "tip": "Try Aalsterse vlaai for dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadspark Wälder",
+            "tip": "Am Nachmittag sehr ruhig, leicht zu Fuß vom Parkplatz erreichbar.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadspark erdői",
+            "tip": "Délután nagyon csendes, könnyen elérhető a parkolótól.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurile Stadspark",
+            "tip": "Foarte liniștite după-amiaza, ușor accesibile de la parcare.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadspark Woods",
+            "tip": "Very quiet in the afternoon, easily accessible from the parking area.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentrale Boutiquen",
+            "tip": "Gut von den städtischen Parkplätzen aus erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi butikok",
+            "tip": "Könnyen megközelíthető a városi parkolókból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buticuri centrale",
+            "tip": "Ușor accesibile de la parcările municipale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Boutiques",
+            "tip": "Easily accessible from the municipal parking lots."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser am Rand der Fußgängerzone im Zentrum.",
+          "Lassen Sie das Auto stehen, während Sie die zentralen Sehenswürdigkeiten besichtigen.",
+          "Parken am Stadspark ist meist problemlos."
+        ],
+        "hu": [
+          "Használja a központ sétálóutcájának szélén lévő parkolóházakat.",
+          "Hagyja az autót a parkolóban, amíg gyalogosan megnézi a központi látnivalókat.",
+          "A Stadspark melletti parkolás általában problémamentes."
+        ],
+        "ro": [
+          "Folosiți parcările cu plată de la marginea zonei pietonale din centru.",
+          "Lăsați mașina parcată în timp ce vizitați atracțiile centrale pe jos.",
+          "Parcarea la Stadspark este de obicei fără probleme."
+        ],
+        "en": [
+          "Use the parking garages on the edge of the pedestrian zone in the center.",
+          "Leave the car parked while visiting the central attractions on foot.",
+          "Parking at the Stadspark is usually hassle-free."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Statieplein",
+          "coords": [
+            4.043,
+            50.941
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Ankunftspunkt mit Bus und Zug.",
+            "hu": "Az érkezési pont busszal és vonattal.",
+            "ro": "Punctul de sosire cu autobuzul și trenul.",
+            "en": "The arrival point by bus and train."
+          }
+        },
+        {
+          "name": "Grote Markt",
+          "coords": [
+            4.0385,
+            50.938
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt, Start der Fußgängertour.",
+            "hu": "Központi csomópont, a gyalogos túra kezdete.",
+            "ro": "Nod central, începutul turului pietonal.",
+            "en": "Central hub, start of the walking tour."
+          }
+        },
+        {
+          "name": "Belfort van Aalst",
+          "coords": [
+            4.039,
+            50.9382
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben dem Grote Markt, perfekt zu Fuß.",
+            "hu": "Közvetlenül a Grote Markt mellett, gyalogosan tökéletes.",
+            "ro": "Chiar lângă Grote Markt, perfect de ajuns pe jos.",
+            "en": "Right next to the Grote Markt, perfect on foot."
+          }
+        },
+        {
+          "name": "Sint-Martinuskerk",
+          "coords": [
+            4.041,
+            50.938
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Belfried.",
+            "hu": "Egy rövid sétára a harangtoronytól.",
+            "ro": "O scurtă plimbare de la clopotniță.",
+            "en": "A short walk from the belfry."
+          }
+        },
+        {
+          "name": "'t Gasthuys",
+          "coords": [
+            4.036,
+            50.936
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bus in Richtung des südlichen Stadtteils.",
+            "hu": "Busz a déli városrész irányába.",
+            "ro": "Autobuz spre partea de sud a orașului.",
+            "en": "Bus towards the southern part of the city."
+          }
+        },
+        {
+          "name": "Stadspark Aalst",
+          "coords": [
+            4.034,
+            50.928
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Fußweg vom Museum entfernt.",
+            "hu": "Csak egy rövid sétára a múzeumtól.",
+            "ro": "La doar o scurtă plimbare de la muzeu.",
+            "en": "Just a short walk from the museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Hauptbahnhof (Statieplein) und nehmen Sie den Bus zum historischen Zentrum am Grote Markt. Erkunden Sie dort den Belfried und die Sint-Martinuskerk bequem zu Fuß. Eine weitere kurze Busfahrt bringt Sie nachmittags zum Museum 't Gasthuys. Von dort aus ist es nur ein entspannter Spaziergang zum Stadspark, wo Sie den Tag ausklingen lassen.",
+        "hu": "Kezdje a főállomásnál (Statieplein), majd busszal jusson el a történelmi Grote Marktra. Ott gyalogosan kényelmesen bejárhatja a harangtornyot és a Sint-Martinuskerket. Délután egy újabb rövid buszút viszi a 't Gasthuys múzeumhoz. Onnan egy pihentető séta vezet a Stadsparkhoz a nap lezárásaként.",
+        "ro": "Începeți la gara principală (Statieplein) și luați autobuzul spre centrul istoric la Grote Markt. Explorați clopotnița și biserica Sint-Martinus pe jos. O altă scurtă călătorie cu autobuzul vă duce după-amiaza la muzeul 't Gasthuys. De acolo, este o plimbare relaxantă până la Stadspark.",
+        "en": "Start at the main train station (Statieplein) and take a bus to the historical Grote Markt. Explore the belfry and Sint-Martinuskerk comfortably on foot. Another short bus ride takes you to the 't Gasthuys museum in the afternoon. From there, it's a relaxing walk to the Stadspark to end your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bahnhofs-Café",
+            "tip": "Schneller Kaffee vor Beginn der Tour."
+          },
+          {
+            "name": "Lokale Brasserie",
+            "tip": "Mittagessen in der Nähe der Haltestelle Grote Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomás kávézója",
+            "tip": "Gyors kávé a túra kezdete előtt."
+          },
+          {
+            "name": "Helyi söröző",
+            "tip": "Ebéd a Grote Markt megálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea la gară",
+            "tip": "O cafea rapidă înainte de începerea turului."
+          },
+          {
+            "name": "Braserie locală",
+            "tip": "Prânz în apropierea stației Grote Markt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Café",
+            "tip": "A quick coffee before starting the tour."
+          },
+          {
+            "name": "Local Brasserie",
+            "tip": "Lunch near the Grote Markt bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sitzplätze am Fluss",
+            "tip": "Warten Sie auf den Bus am Wasser.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ülőhelyek a folyónál",
+            "tip": "Várja a buszt a víz mellett.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci pe râu",
+            "tip": "Așteptați autobuzul lângă apă.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "River seating",
+            "tip": "Wait for your bus by the water.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte im Zentrum",
+            "tip": "Nutzen Sie die Fußgängerzone nahe der zentralen Haltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi üzletek",
+            "tip": "Használja ki a központi megállóhoz közeli sétálóutcát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în centru",
+            "tip": "Profitați de zona pietonală din apropierea stației centrale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central shops",
+            "tip": "Take advantage of the pedestrian zone near the central stop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für das De Lijn Busnetzwerk.",
+          "Die Entfernungen zwischen Zentrum und Stadspark lassen sich auch zu Fuß bewältigen, falls der Bus Verspätung hat."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a De Lijn buszhálózatra.",
+          "A központ és a Stadspark közötti távolság gyalog is megtehető, ha késne a busz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru rețeaua de autobuze De Lijn.",
+          "Distanțele dintre centru și Stadspark pot fi parcurse și pe jos dacă autobuzul întârzie."
+        ],
+        "en": [
+          "Buy a day pass for the De Lijn bus network.",
+          "The distances between the center and Stadspark can also be walked if the bus is delayed."
+        ]
+      }
+    }
+  }
+}

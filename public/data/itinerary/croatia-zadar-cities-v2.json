@@ -1,310 +1,316 @@
 {
   "city_id": "croatia-zadar-cities-v2",
   "anchor": {
-    "name": "Sea Organ",
+    "name": "Zadar",
     "coords": [
-      15.2201,
-      44.1172
+      15.2298,
+      44.1194
     ]
   },
   "modes": {
     "walk": {
       "mode": "walk",
-      "speed_kmh": 3.0,
+      "speed_kmh": 4,
       "start": "09:00",
-      "end_estimate": "17:30",
-      "total_km": 3.5,
-      "stop_count": 8,
+      "end_estimate": "17:15",
+      "total_km": 2.2,
+      "stop_count": 6,
       "stops": [
         {
-          "name": {
-            "de": "Landtor",
-            "hu": "Szárazföldi kapu",
-            "ro": "Poarta de pe uscat",
-            "en": "Land Gate"
-          },
+          "name": "Landtor",
           "coords": [
-            15.2314,
-            44.1122
+            15.2285,
+            44.112
           ],
-          "category": "historical",
-          "arrive_at": "09:10",
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
           "stay_min": 25,
-          "hop_from_prev_min": 10,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Relief des geflügelten Markuslöwen.",
+            "hu": "Csodálja meg a szárnyas oroszlánt, Velence jelképét a kapun.",
+            "ro": "Admirați relieful cu leul înaripat al Sfântului Marcu.",
+            "en": "Admire the relief of the winged Lion of St. Mark."
+          }
+        },
+        {
+          "name": "Platz der fünf Brunnen",
+          "coords": [
+            15.228,
+            44.113
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Venezianisches Tor mit dem Markuslöwen.",
-            "hu": "Velencei kapu a szárnyas oroszlánnal.",
-            "ro": "Poartă venețiană cu leul Sfântului Marcu.",
-            "en": "Venetian gate featuring the Winged Lion."
+            "de": "Der benachbarte Park bietet eine tolle Aussicht.",
+            "hu": "A szomszédos parkból remek kilátás nyílik a városfalra.",
+            "ro": "Parcul din apropiere oferă o priveliște excelentă.",
+            "en": "The neighboring park offers a great view of the walls."
           }
         },
         {
-          "name": {
-            "de": "Platz der fünf Brunnen",
-            "hu": "Öt kút tere",
-            "ro": "Piața celor cinci fântâni",
-            "en": "Five Wells Square"
-          },
-          "coords": [
-            15.2297,
-            44.1128
-          ],
-          "category": "square",
-          "arrive_at": "09:45",
-          "stay_min": 30,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Historische Zisterne zur Wasserversorgung.",
-            "hu": "Történelmi víztározó rendszer.",
-            "ro": "Cisternă istorică pentru alimentarea cu apă.",
-            "en": "Historic cistern system for water supply."
-          }
-        },
-        {
-          "name": {
-            "de": "Kirche St. Donatus",
-            "hu": "Szent Donát-templom",
-            "ro": "Biserica Sfântul Donat",
-            "en": "Church of St. Donatus"
-          },
-          "coords": [
-            15.2242,
-            44.1158
-          ],
-          "category": "religious",
-          "arrive_at": "10:35",
-          "stay_min": 45,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 0.6,
-          "tip_5lang": {
-            "de": "Das Wahrzeichen von Zadar aus dem 9. Jh.",
-            "hu": "Zadar 9. századi jelképe.",
-            "ro": "Simbolul orașului Zadar din secolul IX.",
-            "en": "The iconic 9th-century symbol of Zadar."
-          }
-        },
-        {
-          "name": {
-            "de": "Römisches Forum",
-            "hu": "Római fórum",
-            "ro": "Forumul Roman",
-            "en": "Roman Forum"
-          },
+          "name": "Römisches Forum",
           "coords": [
             15.2245,
+            44.1158
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:05",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen den antiken Säulenresten.",
+            "hu": "Sétáljon az ókori római oszlopok és romok között.",
+            "ro": "Plimbați-vă printre ruinele coloanelor antice.",
+            "en": "Stroll among the ancient Roman column ruins."
+          }
+        },
+        {
+          "name": "Kirche St. Donatus",
+          "coords": [
+            15.2243,
             44.1155
           ],
-          "category": "historical",
-          "arrive_at": "11:25",
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
           "stay_min": 40,
+          "hop_mode": "walk",
           "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Das größte Forum an der östlichen Adria.",
-            "hu": "Az Adriai-tenger keleti partjának legnagyobb fóruma.",
-            "ro": "Cel mai mare forum de pe coasta estică a Adriaticii.",
-            "en": "The largest forum on the eastern Adriatic coast."
+            "de": "Achten Sie auf die außergewöhnliche Akustik im Inneren.",
+            "hu": "Figyelje meg a kerek templom kiváló akusztikáját.",
+            "ro": "Observați acustica extraordinară din interior.",
+            "en": "Notice the exceptional acoustics inside the rotunda."
           }
         },
         {
-          "name": {
-            "de": "Kathedrale St. Anastasia",
-            "hu": "Szent Anasztázia-székesegyház",
-            "ro": "Catedrala Sfânta Anastasia",
-            "en": "Cathedral of St. Anastasia"
-          },
+          "name": "Kathedrale St. Anastasia",
           "coords": [
-            15.2248,
+            15.2238,
             44.1162
           ],
-          "category": "cathedral",
-          "arrive_at": "12:15",
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
           "stay_min": 45,
+          "hop_mode": "walk",
           "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Größte Kirche Dalmatiens.",
-            "hu": "Dalmácia legnagyobb temploma.",
-            "ro": "Cea mai mare biserică din Dalmația.",
-            "en": "The largest church in Dalmatia."
+            "de": "Der Glockenturm bietet den besten Panoramablick.",
+            "hu": "A harangtoronyból nyílik a legjobb panoráma a városra.",
+            "ro": "Turnul clopotniță oferă cea mai bună vedere panoramică.",
+            "en": "The bell tower offers the best panoramic view."
           }
         },
         {
-          "name": {
-            "de": "Kalelarga",
-            "hu": "Kalelarga",
-            "ro": "Kalelarga",
-            "en": "Kalelarga"
-          },
+          "name": "Meeresorgel",
           "coords": [
-            15.2265,
-            44.1152
+            15.2198,
+            44.118
           ],
-          "category": "square",
-          "arrive_at": "13:45",
-          "stay_min": 30,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Die Hauptstraße und das Wohnzimmer der Stadt.",
-            "hu": "A város főutcája és 'nappalija'.",
-            "ro": "Principala stradă și 'sufrageria' orașului.",
-            "en": "The main street and 'living room' of the city."
-          }
-        },
-        {
-          "name": {
-            "de": "Meeresorgel",
-            "hu": "Tengeri orgona",
-            "ro": "Orga mării",
-            "en": "Sea Organ"
-          },
-          "coords": [
-            15.2201,
-            44.1172
-          ],
-          "category": "landmark",
-          "arrive_at": "14:45",
+          "category": "natural features",
+          "arrive_at": "12:30",
           "stay_min": 60,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Hören Sie den Gesang der Wellen.",
-            "hu": "Hallgassa meg a hullámok énekét.",
-            "ro": "Ascultați cântecul valurilor.",
-            "en": "Listen to the singing of the waves."
-          }
-        },
-        {
-          "name": {
-            "de": "Gruß an die Sonne",
-            "hu": "A Nap köszöntése",
-            "ro": "Salutul Soarelui",
-            "en": "Sun Salutation"
-          },
-          "coords": [
-            15.2195,
-            44.1175
-          ],
-          "category": "landmark",
-          "arrive_at": "16:15",
-          "stay_min": 45,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.1,
-          "tip_5lang": {
-            "de": "Lichtspiel bei Sonnenuntergang.",
-            "hu": "Fényjáték naplementekor.",
-            "ro": "Spectacol de lumini la apus.",
-            "en": "Light show at sunset."
+            "de": "Lauschen Sie der Musik, die von den Wellen erzeugt wird.",
+            "hu": "Hallgassa a tenger hullámai által komponált zenét.",
+            "ro": "Ascultați muzica generată de valurile mării.",
+            "en": "Listen to the music generated by the ocean waves."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Entdecken Sie Zadar zu Fuß, angefangen beim venezianischen Landtor. Spazieren Sie über den Platz der fünf Brunnen zum römischen Forum und der St. Donatus Kirche. Nach einem Bummel über die Kalelarga genießen Sie die magischen Klänge der Meeresorgel und das Lichtspiel am Gruß an die Sonne zum Sonnenuntergang.",
-        "hu": "Fedezze fel Zadart gyalogosan, a velencei Szárazföldi kaputól indulva. Sétáljon át az Öt kút terén a római fórumhoz és a Szent Donát-templomhoz. A Kalelargán tett séta után élvezze a Tengeri Orgona varázslatos hangjait és a Nap Köszöntése fényinstallációt naplementekor.",
-        "ro": "Descoperiți Zadarul la pas, începând de la Poarta de pe uscat venețiană. Plimbați-vă prin Piața celor cinci fântâni către forumul roman și Biserica Sf. Donat. După o plimbare pe Kalelarga, bucurați-vă de sunetele magice ale Orgii mării și de spectacolul de lumini la Salutul Soarelui la apus.",
-        "en": "Explore Zadar on foot, starting at the Venetian Land Gate. Walk through Five Wells Square to the Roman Forum and St. Donatus Church. After a stroll down Kalelarga, enjoy the magical sounds of the Sea Organ and the light show at the Sun Salutation at sunset."
+        "de": "Der Morgen beginnt mit den historischen Stadtmauer-Toren, bevor es in die Altstadt geht. Mittags erkunden Sie die beeindruckenden römischen Ruinen und mittelalterlichen Kirchen rund um das Forum. Am Nachmittag lassen Sie den Tag an der Promenade ausklingen, wo die Wellen die Meeresorgel spielen. Zadar bietet einen kompakten und wunderschönen historischen Kern.",
+        "hu": "A délelőtt a történelmi városkapunál és a kutak terénél indul. Délben a római fórum ókori romjait és a környező középkori templomokat fedezzük fel. Délután a híres tengerparti sétányon pihenünk, ahol a Tengeri Orgonát hallgathatjuk. Zadar óvárosa gyalogosan a legélvezetesebb.",
+        "ro": "Dimineața începe la porțile istorice ale orașului, înainte de a intra în centrul vechi. La prânz explorați ruinele romane și bisericile medievale din jurul Forumului. După-amiaza vă relaxați pe faleză, unde valurile cântă la Orga Mării. Zadar are un nucleu istoric compact și minunat.",
+        "en": "The morning begins at the historic city gates before entering the old town. Midday is spent exploring the impressive Roman ruins and medieval churches around the Forum. In the afternoon, unwind on the promenade listening to the Sea Organ played by the waves. Zadar is perfectly explored on foot."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Pet Bunara",
-            "tip": "Slow Food mit Fokus auf regionale Zutaten."
+            "name": "Maraschino Likör",
+            "tip": "Probieren Sie den traditionellen Kirschlikör der Region."
+          },
+          {
+            "name": "Crni Rižot",
+            "tip": "Schwarzes Risotto mit Tintenfisch in den Konobas der Altstadt."
+          },
+          {
+            "name": "Paški Sir",
+            "tip": "Käse von der Insel Pag, oft als Vorspeise serviert."
           }
         ],
         "hu": [
           {
-            "name": "Konoba Skoblar",
-            "tip": "A város legrégebbi étterme kiváló hallal."
+            "name": "Maraschino likőr",
+            "tip": "Kóstolja meg Zadar híres cseresznyelikőrjét."
+          },
+          {
+            "name": "Crni Rižot",
+            "tip": "Fekete rizottó tintahallal, igazi dalmát specialitás."
+          },
+          {
+            "name": "Pagi sajt",
+            "tip": "A közeli Pag szigetéről származó híres juhsajt."
           }
         ],
         "ro": [
           {
-            "name": "Foša",
-            "tip": "Restaurant de lux situat chiar lângă Poarta de pe uscat."
+            "name": "Lichior Maraschino",
+            "tip": "Încercați tradiționalul lichior de cireșe din zonă."
+          },
+          {
+            "name": "Crni Rižot",
+            "tip": "Risotto negru cu sepie în tavernele din orașul vechi."
+          },
+          {
+            "name": "Paški Sir",
+            "tip": "Brânză de pe insula Pag, servită adesea ca aperitiv."
           }
         ],
         "en": [
           {
-            "name": "Bruschetta",
-            "tip": "Mediterranean flavors in the heart of the Old Town."
+            "name": "Maraschino Liqueur",
+            "tip": "Taste the traditional cherry liqueur of the region."
+          },
+          {
+            "name": "Crni Rižot",
+            "tip": "Black risotto with cuttlefish in the old town's konobas."
+          },
+          {
+            "name": "Paški Sir",
+            "tip": "Cheese from the island of Pag, often served as a starter."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Königin-Jelena-Madijevka-Park",
-            "tip": "Der älteste öffentliche Park Dalmatiens.",
-            "emoji": "🌳"
+            "name": "Gruß an die Sonne",
+            "tip": "Spektakuläre Lichtshow zum Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park der Königin Jelena Madijevka",
+            "tip": "Ruhige Oase über der Stadtmauer.",
+            "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "Vlagyimir Nazor park",
-            "tip": "Békés zöld oázis a városfalak tövében.",
-            "emoji": "🧘"
+            "name": "Napköszöntő",
+            "tip": "Látványos fényjáték naplemente után.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jelena Madijevka Királyné Parkja",
+            "tip": "Csendes oázis a városfalak tetején.",
+            "emoji": "🍃"
           }
         ],
         "ro": [
           {
-            "name": "Faleza Zadarska Riva",
-            "tip": "Plimbare liniștită departe de orgă.",
+            "name": "Salutul Soarelui",
+            "tip": "Spectacol de lumini la apus.",
             "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Regina Jelena Madijevka",
+            "tip": "Oază de liniște deasupra zidurilor orașului.",
+            "emoji": "🍃"
           }
         ],
         "en": [
           {
-            "name": "Sf. Krševan Church area",
-            "tip": "Quiet alleys in the northern Old Town.",
-            "emoji": "🌿"
+            "name": "Greeting to the Sun",
+            "tip": "Spectacular light show at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Queen Jelena Madijevka Park",
+            "tip": "Quiet oasis above the city walls.",
+            "emoji": "🍃"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
+            "name": "Kalelarga",
+            "tip": "Die Hauptstraße für Boutiquen und Souvenirs."
+          },
+          {
             "name": "Zadar Markt",
-            "tip": "Probieren Sie den berühmten Pager Käse."
+            "tip": "Frisches Obst, Gemüse und lokales Olivenöl."
           }
         ],
         "hu": [
           {
-            "name": "Maraschino bolt",
-            "tip": "Vásároljon eredeti zadari meggylikőrt."
+            "name": "Kalelarga",
+            "tip": "A főutca, tele butikokkal és szuvenírboltokkal."
+          },
+          {
+            "name": "Zadari piac",
+            "tip": "Friss zöldség, gyümölcs és helyi olívaolaj."
           }
         ],
         "ro": [
           {
-            "name": "City Galleria",
-            "tip": "Centru comercial modern cu produse locale."
+            "name": "Kalelarga",
+            "tip": "Strada principală pentru buticuri și suveniruri."
+          },
+          {
+            "name": "Piața Zadar",
+            "tip": "Fructe și legume proaspete, plus ulei de măsline."
           }
         ],
         "en": [
           {
-            "name": "Traditional Lace shop",
-            "tip": "Intricate Pag lace available in boutiques."
+            "name": "Kalelarga",
+            "tip": "The main street for boutiques and souvenirs."
+          },
+          {
+            "name": "Zadar Market",
+            "tip": "Fresh fruits, vegetables, and local olive oil."
           }
         ]
       },
       "tips": {
         "de": [
-          "Alfred Hitchcock nannte den Sonnenuntergang hier den schönsten der Welt.",
-          "Klettern Sie auf den Turm der Anastasia-Kathedrale."
+          "Die Altstadt ist komplett autofrei.",
+          "Bequemes Schuhwerk ist für die Pflastersteine empfohlen.",
+          "Besuchen Sie die Meeresorgel am besten bei etwas Wind.",
+          "Der Glockenturm ist zur Mittagszeit oft am vollsten."
         ],
         "hu": [
-          "Alfred Hitchcock szerint itt a legszebb a naplemente a világon.",
-          "Másszon fel a Szent Anasztázia-székesegyház tornyába."
+          "Az óváros teljesen autómentes övezet.",
+          "Kényelmes cipő javasolt a kövezett utcákhoz.",
+          "A Tengeri Orgonát szelesebb időben érdemes felkeresni.",
+          "A harangtorony dél körül a legforgalmasabb."
         ],
         "ro": [
-          "Alfred Hitchcock a numit apusul de aici cel mai frumos din lume.",
-          "Urcați în turnul catedralei Sfânta Anastasia."
+          "Centrul vechi este complet pietonal.",
+          "Încălțămintea confortabilă este recomandată pentru pavaj.",
+          "Vizitați Orga Mării când bate puțin vântul.",
+          "Turnul cu ceas este cel mai aglomerat la prânz."
         ],
         "en": [
-          "Alfred Hitchcock called the sunset here the most beautiful in the world.",
-          "Climb the tower of St. Anastasia Cathedral for a bird's eye view."
+          "The old town is completely car-free.",
+          "Comfortable shoes are recommended for the cobblestones.",
+          "Visit the Sea Organ when it's slightly windy.",
+          "The bell tower is most crowded around noon."
         ]
       }
     },
@@ -312,230 +318,254 @@
       "mode": "bike",
       "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "17:00",
-      "total_km": 14.0,
-      "stop_count": 6,
+      "end_estimate": "15:45",
+      "total_km": 6.5,
+      "stop_count": 5,
       "stops": [
         {
-          "name": {
-            "de": "Puntamika Leuchtturm",
-            "hu": "Puntamika világítótorony",
-            "ro": "Farul Puntamika",
-            "en": "Puntamika Lighthouse"
-          },
+          "name": "Platz der fünf Brunnen",
           "coords": [
-            15.2052,
-            44.1322
+            15.228,
+            44.113
           ],
-          "category": "landmark",
-          "arrive_at": "09:15",
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
           "stay_min": 25,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Ruhiger Punkt mit Blick auf den Zadar-Kanal.",
-            "hu": "Csendes pont kilátással a Zadar-csatornára.",
-            "ro": "Punct liniștit cu vedere spre canalul Zadar.",
-            "en": "Quiet spot with a view of the Zadar Channel."
+            "de": "Starten Sie hier, Fahrräder können in der Nähe geparkt werden.",
+            "hu": "Induljon innen, a kerékpárok a közelben lezárhatók.",
+            "ro": "Începeți aici, bicicletele pot fi parcate în apropiere.",
+            "en": "Start here, bikes can be parked nearby."
           }
         },
         {
-          "name": {
-            "de": "Borik Strand",
-            "hu": "Borik strand",
-            "ro": "Plaja Borik",
-            "en": "Borik Beach"
-          },
+          "name": "Museum für antikes Glas",
           "coords": [
-            15.2085,
-            44.1386
+            15.229,
+            44.1145
           ],
-          "category": "beach",
-          "arrive_at": "09:55",
-          "stay_min": 90,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
           "tip_5lang": {
-            "de": "Beliebter Kieselstrand mit Pinien.",
-            "hu": "Népszerű kavicsos strand fenyőfákkal.",
-            "ro": "Plajă populară cu pietriș și pini.",
-            "en": "Popular pebble beach with pine trees."
+            "de": "Sehen Sie römische Glaskunst in einem schönen Palast.",
+            "hu": "Nézze meg a római üvegművészetet egy gyönyörű palotában.",
+            "ro": "Vedeți arta sticlei romane într-un palat frumos.",
+            "en": "See Roman glass art in a beautiful palace."
           }
         },
         {
-          "name": {
-            "de": "Diklo Promenade",
-            "hu": "Diklo sétány",
-            "ro": "Promenada Diklo",
-            "en": "Diklo Promenade"
-          },
+          "name": "Römisches Forum",
           "coords": [
-            15.1882,
-            44.1539
+            15.2245,
+            44.1158
           ],
-          "category": "square",
-          "arrive_at": "11:55",
-          "stay_min": 40,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 4.0,
+          "category": "squares/old-town",
+          "arrive_at": "11:05",
+          "stay_min": 35,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
           "tip_5lang": {
-            "de": "Lange Strecke entlang der Villen von Diklo.",
-            "hu": "Hosszú szakasz a diklói villák mentén.",
-            "ro": "Traseu lung de-a lungul vilelor din Diklo.",
-            "en": "Long stretch along the villas of Diklo."
+            "de": "Das Herz der historischen Altstadt.",
+            "hu": "A történelmi óváros szíve.",
+            "ro": "Inima centrului istoric.",
+            "en": "The heart of the historic old town."
           }
         },
         {
-          "name": {
-            "de": "Kožino Pinienwald",
-            "hu": "Kožinói fenyőerdő",
-            "ro": "Pădurea de pini Kožino",
-            "en": "Kožino Pine Forest"
-          },
+          "name": "Meeresorgel",
           "coords": [
-            15.1584,
-            44.1722
+            15.2198,
+            44.118
           ],
-          "category": "park",
-          "arrive_at": "13:00",
-          "stay_min": 60,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 3.5,
+          "category": "natural features",
+          "arrive_at": "11:50",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
           "tip_5lang": {
-            "de": "Schattiger Weg ideal für Radfahrer.",
-            "hu": "Árnyas út, ideális kerékpárosoknak.",
-            "ro": "Potecă umbrită ideală pentru bicicliști.",
-            "en": "Shaded path ideal for cyclists."
+            "de": "Eine schöne Fahrt entlang der Uferpromenade.",
+            "hu": "Kellemes tekerés a tengerparti sétányon.",
+            "ro": "O plimbare plăcută de-a lungul promenadei.",
+            "en": "A pleasant ride along the waterfront promenade."
           }
         },
         {
-          "name": {
-            "de": "Nin Altstadt",
-            "hu": "Nin óvárosa",
-            "ro": "Orașul vechi Nin",
-            "en": "Nin Old Town"
-          },
+          "name": "Gruß an die Sonne",
           "coords": [
-            15.1764,
-            44.2428
+            15.2195,
+            44.1182
           ],
-          "category": "historical",
-          "arrive_at": "15:00",
-          "stay_min": 90,
-          "hop_from_prev_min": 60,
-          "hop_from_prev_km": 12.0,
+          "category": "monuments/statues",
+          "arrive_at": "12:40",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Besuchen Sie die kleinste Kathedrale der Welt.",
-            "hu": "Látogassa meg a világ legkisebb katedrálisát.",
-            "ro": "Vizitați cea mai mică catedrală din lume.",
-            "en": "Visit the world's smallest cathedral."
+            "de": "Direkt neben der Orgel, perfekt für ein Foto.",
+            "hu": "Közvetlenül az orgona mellett, tökéletes fotótéma.",
+            "ro": "Chiar lângă orgă, perfect pentru o fotografie.",
+            "en": "Right next to the organ, perfect for a photo."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Radeln Sie entlang der Küste nördlich von Zadar. Entdecken Sie den Leuchtturm Puntamika und den Strand Borik. Die Route führt Sie durch Diklo und Kožino bis zur historischen Königsstadt Nin, die auf einer kleinen Insel liegt.",
-        "hu": "Tekerjen végig a part mentén Zadartól északra. Fedezze fel a Puntamika világítótornyot és a Borik strandot. Az út Diklón és Kožinón keresztül vezet a történelmi királyi városba, Ninbe, amely egy apró szigeten fekszik.",
-        "ro": "Pedalați de-a lungul coastei la nord de Zadar. Descoperiți farul Puntamika și plaja Borik. Traseul vă duce prin Diklo și Kožino până la orașul regal istoric Nin, situat pe o insulă mică.",
-        "en": "Cycle along the coast north of Zadar. Discover the Puntamika Lighthouse and Borik Beach. The route takes you through Diklo and Kožino to the historic royal town of Nin, situated on a tiny island."
+        "de": "Auf zwei Rädern erkunden Sie Zadar am entspanntesten. Von den historischen Plätzen im Zentrum radeln Sie mühelos zum einzigartigen Glasmuseum. Danach fahren Sie gemütlich an der Promenade entlang bis zur Spitze der Halbinsel, wo Meeresorgel und Sonnen-Monument warten. Die flache Strecke ist ideal für Freizeitradler.",
+        "hu": "Két keréken a leglazább Zadar felfedezése. A központi történelmi terektől könnyedén áttekerhet az egyedülálló Üvegmúzeumhoz. Ezután kényelmesen végighaladhat a sétányon a félsziget csücskéig, a Tengeri Orgonáig. A sík terep ideális szabadidős kerékpárosoknak.",
+        "ro": "Pe două roți, explorarea orașului Zadar este foarte relaxantă. De la piețele istorice din centru pedalați ușor către Muzeul Sticlei. Apoi mergeți pe faleză până în vârful peninsulei, unde vă așteaptă Orga Mării. Traseul plat este ideal pentru bicicliști.",
+        "en": "Exploring Zadar on two wheels is very relaxed. From the historic squares in the center, you pedal easily to the unique Glass Museum. Then ride comfortably along the promenade to the tip of the peninsula, where the Sea Organ awaits. The flat route is ideal for leisure cyclists."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Gostionica Sokol",
-            "tip": "Probieren Sie Šokol, das gepökelte Fleisch aus Nin."
+            "name": "Fischmarkt",
+            "tip": "Holen Sie sich frische Snacks auf dem Markt."
+          },
+          {
+            "name": "Buzara",
+            "tip": "Muscheln in Weißwein-Knoblauch-Sauce."
           }
         ],
         "hu": [
           {
-            "name": "Restaurant Niko",
-            "tip": "Híres halétterem Puntamikában."
+            "name": "Halpiac",
+            "tip": "Vegyen friss harapnivalót a piacon."
+          },
+          {
+            "name": "Buzara",
+            "tip": "Kagyló fehérboros-fokhagymás szószban."
           }
         ],
         "ro": [
           {
-            "name": "Konoba Branimir",
-            "tip": "Mâncare tradițională în centrul orașului Nin."
+            "name": "Piața de pește",
+            "tip": "Luați gustări proaspete de la piață."
+          },
+          {
+            "name": "Buzara",
+            "tip": "Scoici în sos de vin alb și usturoi."
           }
         ],
         "en": [
           {
-            "name": "Beach Bar Bamboo",
-            "tip": "Cool drinks with a view at Puntamika."
+            "name": "Fish Market",
+            "tip": "Grab fresh snacks at the market."
+          },
+          {
+            "name": "Buzara",
+            "tip": "Mussels in a white wine and garlic sauce."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Saline Nin",
-            "tip": "Beobachten Sie Vögel in den Salzpfannen.",
-            "emoji": "🦢"
+            "name": "Kolovare Strand",
+            "tip": "Kurze Radtour zum nahen Stadtstrand.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Sfinga Park",
+            "tip": "Entdecken Sie Zadars Sphinx mit dem Rad.",
+            "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Királyné strandja (Kraljičina)",
-            "tip": "Hosszú homokos part Nin mellett.",
-            "emoji": "🧘"
+            "name": "Kolovare strand",
+            "tip": "Rövid tekerés a közeli városi strandra.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Szfinx park",
+            "tip": "Fedezze fel Zadar szfinxét kerékpárral.",
+            "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Biserica Sfântul Nicolae",
-            "tip": "Capelă izolată pe un deal lângă Nin.",
-            "emoji": "🌄"
+            "name": "Plaja Kolovare",
+            "tip": "O scurtă plimbare cu bicicleta până la plaja orașului.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Parcul Sfinx",
+            "tip": "Descoperiți sfinxul din Zadar cu bicicleta.",
+            "emoji": "🏞️"
           }
         ],
         "en": [
           {
-            "name": "Kožino bays",
-            "tip": "Quiet rocky spots for a swim.",
-            "emoji": "🌊"
+            "name": "Kolovare Beach",
+            "tip": "Short bike ride to the nearby city beach.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Sphinx Park",
+            "tip": "Discover Zadar's sphinx by bike.",
+            "emoji": "🏞️"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Salzmuseum Nin",
-            "tip": "Kaufen Sie handgeschöpftes Meersalz."
+            "name": "Lokale Bäckereien",
+            "tip": "Perfekt für einen schnellen Snack unterwegs."
           }
         ],
         "hu": [
           {
-            "name": "Diklói helyi piac",
-            "tip": "Friss gyümölcs és zöldség."
+            "name": "Helyi pékségek",
+            "tip": "Tökéletes egy gyors harapnivalóhoz útközben."
           }
         ],
         "ro": [
           {
-            "name": "Nin souvenir shops",
-            "tip": "Traditional ceramics."
+            "name": "Brutării locale",
+            "tip": "Perfect pentru o gustare rapidă pe drum."
           }
         ],
         "en": [
           {
-            "name": "Flower of Salt",
-            "tip": "The premium salt product from Nin."
+            "name": "Local bakeries",
+            "tip": "Perfect for a quick snack on the go."
           }
         ]
       },
       "tips": {
         "de": [
-          "Die Strecke nach Nin ist überwiegend flach.",
-          "Die Küstenstraße nach Diklo hat im Sommer viel Verkehr."
+          "In den engen Altstadtgassen oft absteigen.",
+          "Die Promenade (Riva) ist ideal zum Radfahren.",
+          "Fahrräder immer gut abschließen.",
+          "Achten Sie auf Fußgänger in der Altstadt."
         ],
         "hu": [
-          "A Ninbe vezető út nagyjából sík.",
-          "A Diklóba vezető parti út nyáron forgalmas."
+          "A szűk óvárosi utcákban gyakran le kell szállni.",
+          "A tengerparti sétány (Riva) ideális kerékpározáshoz.",
+          "Mindig zárja le jól a kerékpárt.",
+          "Figyeljen a gyalogosokra az óvárosban."
         ],
         "ro": [
-          "Traseul spre Nin este predominant plat.",
-          "Drumul de coastă spre Diklo are trafic intens vara."
+          "Descălecați des pe străduțele înguste din centrul vechi.",
+          "Promenada (Riva) este ideală pentru ciclism.",
+          "Încuiați-vă întotdeauna bine bicicleta.",
+          "Atenție la pietoni în centrul vechi."
         ],
         "en": [
-          "The path to Nin is mostly flat.",
-          "The coastal road to Diklo can be busy in summer."
+          "You often need to dismount in the narrow old town alleys.",
+          "The promenade (Riva) is ideal for cycling.",
+          "Always lock your bike securely.",
+          "Watch out for pedestrians in the old town."
         ]
       }
     },
@@ -543,230 +573,234 @@
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "18:45",
-      "total_km": 75.0,
-      "stop_count": 8,
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 5,
       "stops": [
         {
-          "name": {
-            "de": "Hafen Gaženica",
-            "hu": "Gaženica kikötő",
-            "ro": "Portul Gaženica",
-            "en": "Gaženica Port"
-          },
+          "name": "Landtor",
           "coords": [
-            15.2652,
-            44.0911
+            15.2285,
+            44.112
           ],
-          "category": "port",
-          "arrive_at": "09:15",
-          "stay_min": 40,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 5.0,
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Moderner Kreuzfahrthafen von Zadar.",
-            "hu": "Zadar modern tengeri kikötője.",
-            "ro": "Portul modern de croazieră din Zadar.",
-            "en": "Zadar's modern cruise port."
+            "de": "Parken Sie außerhalb der Stadtmauer (Cluster 1).",
+            "hu": "Parkoljon a városfalon kívül (1. zóna).",
+            "ro": "Parcați în afara zidurilor orașului (Cluster 1).",
+            "en": "Park outside the city walls (Cluster 1)."
           }
         },
         {
-          "name": {
-            "de": "Biograd na Moru",
-            "hu": "Biograd na Moru",
-            "ro": "Biograd na Moru",
-            "en": "Biograd na Moru"
-          },
+          "name": "Platz der fünf Brunnen",
           "coords": [
-            15.4435,
-            43.9389
+            15.228,
+            44.113
           ],
-          "category": "historical",
-          "arrive_at": "10:30",
-          "stay_min": 90,
-          "hop_from_prev_min": 35,
-          "hop_from_prev_km": 28.0,
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Die ehemalige Krönungsstadt kroatischer Könige.",
-            "hu": "A horvát királyok egykori koronázóvárosa.",
-            "ro": "Fosta cetate de încoronare a regilor croați.",
-            "en": "Former coronation city of Croatian kings."
+            "de": "Nur ein kurzer Fußweg vom Landtor entfernt.",
+            "hu": "Csak egy rövid sétára a szárazföldi kaputól.",
+            "ro": "La doar o scurtă plimbare de Poarta Terestră.",
+            "en": "Just a short walk from the Land Gate."
           }
         },
         {
-          "name": {
-            "de": "Vrana-See (Aussichtspunkt)",
-            "hu": "Vrana-tó kilátó",
-            "ro": "Belvederea Lacul Vrana",
-            "en": "Lake Vrana Viewpoint"
-          },
+          "name": "Römisches Forum",
           "coords": [
-            15.5484,
-            43.8822
+            15.2245,
+            44.1158
           ],
-          "category": "viewpoint",
-          "arrive_at": "12:30",
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
           "stay_min": 45,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 15.0,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
           "tip_5lang": {
-            "de": "Blick über den See und das Meer gleichzeitig.",
-            "hu": "Egyszerre látható a tó és a tenger.",
-            "ro": "Vedere asupra lacului și mării simultan.",
-            "en": "View of the lake and the sea at the same time."
+            "de": "Das Zentrum der Altstadt, Fußgängerzone.",
+            "hu": "Az óváros központja, sétálóutca.",
+            "ro": "Centrul orașului vechi, zonă pietonală.",
+            "en": "The center of the old town, pedestrian zone."
           }
         },
         {
-          "name": {
-            "de": "Maškovića Han",
-            "hu": "Maškovića Han",
-            "ro": "Maškovića Han",
-            "en": "Maškovića Han"
-          },
+          "name": "Meeresorgel",
           "coords": [
-            15.5611,
-            43.9452
+            15.2198,
+            44.118
           ],
-          "category": "historical",
-          "arrive_at": "13:45",
-          "stay_min": 60,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 12.0,
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
           "tip_5lang": {
-            "de": "Das westlichste Denkmal osmanischer Architektur.",
-            "hu": "Az oszmán építészet legnyugatibb emlékműve.",
-            "ro": "Cel mai vestic monument al arhitecturii otomane.",
-            "en": "The westernmost monument of Ottoman architecture."
+            "de": "Am Ende der Halbinsel, zurück zum Auto ist es ein Spaziergang.",
+            "hu": "A félsziget végén, vissza az autóhoz egy kis séta.",
+            "ro": "La capătul peninsulei, întoarcerea la mașină e o plimbare.",
+            "en": "At the end of the peninsula, back to the car is a walk."
           }
         },
         {
-          "name": {
-            "de": "Benkovac Festung",
-            "hu": "Benkovac vára",
-            "ro": "Cetatea Benkovac",
-            "en": "Benkovac Fortress"
-          },
+          "name": "Museum für antikes Glas",
           "coords": [
-            15.6582,
-            44.0352
+            15.229,
+            44.1145
           ],
-          "category": "historical",
-          "arrive_at": "15:30",
-          "stay_min": 60,
-          "hop_from_prev_min": 45,
-          "hop_from_prev_km": 15.0,
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
           "tip_5lang": {
-            "de": "Historische Festung Kličevica in der Nähe.",
-            "hu": "A közeli Kličevica történelmi vára.",
-            "ro": "Cetatea istorică Kličevica din apropiere.",
-            "en": "Historical Kličevica fortress nearby."
+            "de": "Fahrt zu einem anderen Parkplatz (Cluster 2) nach dem Mittagessen.",
+            "hu": "Ebéd után vezessen egy másik parkolóhoz (2. zóna).",
+            "ro": "Conduceți spre o altă parcare (Cluster 2) după prânz.",
+            "en": "Drive to another parking area (Cluster 2) after lunch."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Erkunden Sie das Hinterland und die Küste von Zadar. Besuchen Sie den modernen Hafen Gaženica, die Königsstadt Biograd und genießen Sie den Blick vom Vrana-See. Entdecken Sie die osmanische Geschichte im Maškovića Han und die Festungen von Benkovac.",
-        "hu": "Fedezze fel Zadar hátországát és partvidékét. Látogassa meg a modern Gaženica kikötőt, a királyi Biogradot, és élvezze a kilátást a Vrana-tóról. Fedezze fel az oszmán történelmet a Maškovića Hanban és Benkovac várait.",
-        "ro": "Explorați interiorul și coasta Zadarului. Vizitați portul modern Gaženica, orașul regal Biograd și bucurați-vă de vederea de la Lacul Vrana. Descoperiți istoria otomană la Maškovića Han și cetățile din Benkovac.",
-        "en": "Explore the hinterland and coast of Zadar. Visit the modern Gaženica port, the royal town of Biograd, and enjoy the views from Lake Vrana. Discover Ottoman history at Maškovića Han and the fortresses of Benkovac."
+        "de": "Nutzen Sie das Auto strategisch: Parken Sie am Rand der Altstadt und erkunden Sie die historischen Tore und Plätze zu Fuß in einem Rutsch. Mittags geht es durch die Gassen zum Forum und zur Küste. Für weiter entfernte Museen oder den Hafen wechseln Sie den Parkplatz, um Kräfte zu sparen.",
+        "hu": "Használja stratégiailag az autót: parkoljon az óváros szélén, és fedezze fel a történelmi kapukat és tereket gyalogosan egy lendülettel. Délben a sikátorokon át a Fórumhoz és a parthoz ér. A távolabbi múzeumokhoz váltson parkolót.",
+        "ro": "Folosiți mașina strategic: parcați la marginea orașului vechi și explorați porțile și piețele istorice pe jos. La prânz mergeți pe străduțe către Forum și coastă. Pentru muzee mai îndepărtate schimbați parcarea.",
+        "en": "Use the car strategically: park at the edge of the old town and explore the historic gates and squares on foot in one go. Midday takes you through the alleys to the Forum and the coast. For museums further away, move the car to save energy."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Konoba Kamen",
-            "tip": "Hervorragendes Grillfleisch im Hinterland."
+            "name": "Fischrestaurant",
+            "tip": "Gute Lokale mit Parkmöglichkeiten etwas außerhalb."
+          },
+          {
+            "name": "Fritule",
+            "tip": "Süße Krapfen, ideal als Dessert."
           }
         ],
         "hu": [
           {
-            "name": "Restaurant Maškovića Han",
-            "tip": "Egyél egy középkori karavánszeráj udvarán."
+            "name": "Halétterem",
+            "tip": "Jó helyek parkolóval kicsit kijjebb."
+          },
+          {
+            "name": "Fritule",
+            "tip": "Édes fánkocskák, ideális desszert."
           }
         ],
         "ro": [
           {
-            "name": "Pizzeria Duff",
-            "tip": "Cea mai bună pizza din Biograd."
+            "name": "Restaurant pescăresc",
+            "tip": "Localuri bune cu parcare ceva mai la margine."
+          },
+          {
+            "name": "Fritule",
+            "tip": "Gogoși dulci, ideale ca desert."
           }
         ],
         "en": [
           {
-            "name": "Local wineries",
-            "tip": "Try wines from Ravni Kotari region."
+            "name": "Seafood Restaurant",
+            "tip": "Good places with parking slightly outside."
+          },
+          {
+            "name": "Fritule",
+            "tip": "Sweet fritters, ideal as dessert."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Nationalpark Kornaten Bootstour",
-            "tip": "Startet oft in Biograd.",
-            "emoji": "⛵"
+            "name": "Puntamika Leuchtturm",
+            "tip": "Toller Blick auf Zadar, gut mit Auto erreichbar.",
+            "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Vrana-tó madárrezervátum",
-            "tip": "Csendes megfigyelőhelyek.",
-            "emoji": "🦆"
+            "name": "Puntamika világítótorony",
+            "tip": "Remek kilátás Zadarra, kocsival jól elérhető.",
+            "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Kličevica erőd romjai",
-            "tip": "Elhagyatott vár a természetben.",
-            "emoji": "🧘"
+            "name": "Farul Puntamika",
+            "tip": "Vedere excelentă spre Zadar, accesibil cu mașina.",
+            "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Biograd pine park",
-            "tip": "Shady walk near the sea.",
-            "emoji": "🌲"
+            "name": "Puntamika Lighthouse",
+            "tip": "Great view of Zadar, easily reachable by car.",
+            "emoji": "🌅"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Benkovac Bauernmarkt",
-            "tip": "Jeden 10. des Monats, ein Erlebnis!"
+            "name": "Supernova Zentrum",
+            "tip": "Großes Einkaufszentrum am Stadtrand mit Parkhaus."
           }
         ],
         "hu": [
           {
-            "name": "Helyi borok",
-            "tip": "Vásároljon közvetlenül a zadari pincészetekből."
+            "name": "Supernova Center",
+            "tip": "Nagy bevásárlóközpont a külvárosban parkolóházzal."
           }
         ],
         "ro": [
           {
-            "name": "Biograd waterfront market",
-            "tip": "Produse artizanale dalmate."
+            "name": "Centrul Supernova",
+            "tip": "Mall mare la periferie cu parcare."
           }
         ],
         "en": [
           {
-            "name": "Olive oil from Ravni Kotari",
-            "tip": "High quality artisanal oil."
+            "name": "Supernova Center",
+            "tip": "Large shopping mall on the outskirts with parking."
           }
         ]
       },
       "tips": {
         "de": [
-          "Der Markt in Benkovac ist ein Highlight dalmatinischer Tradition.",
-          "Der Aussichtspunkt Kamenjak bietet den besten Blick auf den See."
+          "Die Altstadt ist eine Fußgängerzone, parken Sie außerhalb.",
+          "Parkplätze am Hafen sind oft schnell belegt.",
+          "Achten Sie auf die Parkzonen und bezahlen Sie rechtzeitig.",
+          "Ein Auto ist ideal, um die Strände außerhalb zu besuchen."
         ],
         "hu": [
-          "A benkováci piac a dalmát hagyományok fénypontja.",
-          "A Kamenjak kilátó kínálja a legjobb rálátást a tóra."
+          "Az óváros sétálóutca, parkoljon kívül.",
+          "A kikötői parkolók hamar megtelnek.",
+          "Figyeljen a parkolási zónákra és fizessen időben.",
+          "Az autó ideális a városon kívüli strandok felkereséséhez."
         ],
         "ro": [
-          "Târgul din Benkovac este un punct culminant al tradiției dalmate.",
-          "Belvederea Kamenjak oferă cea mai bună vedere asupra lacului."
+          "Centrul vechi e zonă pietonală, parcați afară.",
+          "Parcările din port se ocupă adesea rapid.",
+          "Atenție la zonele de parcare și plătiți la timp.",
+          "Mașina este ideală pentru a vizita plajele din afara orașului."
         ],
         "en": [
-          "The Benkovac market is a highlight of Dalmatian tradition.",
-          "The Kamenjak viewpoint offers the best view of the lake."
+          "The old town is a pedestrian zone, park outside.",
+          "Parking spots at the harbor fill up quickly.",
+          "Pay attention to parking zones and pay on time.",
+          "A car is ideal for visiting beaches outside the city."
         ]
       }
     },
@@ -774,230 +808,253 @@
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "17:15",
-      "total_km": 9.0,
+      "end_estimate": "16:45",
+      "total_km": 4.5,
       "stop_count": 6,
       "stops": [
         {
-          "name": {
-            "de": "Zadar Busbahnhof (Liburnija)",
-            "hu": "Zadar autóbusz-állomás",
-            "ro": "Autogara Zadar",
-            "en": "Zadar Bus Station"
-          },
+          "name": "Landtor",
           "coords": [
-            15.2417,
-            44.1052
+            15.2285,
+            44.112
           ],
-          "category": "historical",
-          "arrive_at": "09:15",
-          "stay_min": 30,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Zentraler Knotenpunkt für alle Stadtlinien.",
-            "hu": "Az összes városi járat központi csomópontja.",
-            "ro": "Nod central pentru toate liniile urbane.",
-            "en": "Central hub for all city bus lines."
+            "de": "Guter Startpunkt, viele Busse halten in der Nähe.",
+            "hu": "Jó kiindulópont, sok busz áll meg a közelben.",
+            "ro": "Punct bun de plecare, multe autobuze opresc în apropiere.",
+            "en": "Good starting point, many buses stop nearby."
           }
         },
         {
-          "name": {
-            "de": "Museum für antikes Glas",
-            "hu": "Ókori Üvegmúzeum",
-            "ro": "Muzeul Sticlei Antice",
-            "en": "Museum of Ancient Glass"
-          },
+          "name": "Platz der fünf Brunnen",
           "coords": [
-            15.2289,
-            44.1147
+            15.228,
+            44.113
           ],
-          "category": "museum",
-          "arrive_at": "10:15",
-          "stay_min": 75,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Einzigartige Sammlung in einem Palast.",
-            "hu": "Egyedülálló gyűjtemény egy palotában.",
-            "ro": "Colecție unică situată într-un palat.",
-            "en": "Unique collection housed in a palace."
-          }
-        },
-        {
-          "name": {
-            "de": "Kirche St. Chrysogonus",
-            "hu": "Szent Krševan-templom",
-            "ro": "Biserica Sfântul Crisogon",
-            "en": "Church of St. Chrysogonus"
-          },
-          "coords": [
-            15.2258,
-            44.1167
-          ],
-          "category": "religious",
-          "arrive_at": "11:45",
-          "stay_min": 45,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Meisterwerk der Romanik in Zadar.",
-            "hu": "A román stílus remekműve Zadarban.",
-            "ro": "Capodoperă a stilului romanic în Zadar.",
-            "en": "A masterpiece of Romanesque style in Zadar."
-          }
-        },
-        {
-          "name": {
-            "de": "Archäologisches Museum Zadar",
-            "hu": "Zadari Régészeti Múzeum",
-            "ro": "Muzeul de Arheologie Zadar",
-            "en": "Archaeological Museum Zadar"
-          },
-          "coords": [
-            15.2245,
-            44.1152
-          ],
-          "category": "museum",
-          "arrive_at": "13:00",
-          "stay_min": 80,
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 25,
+          "hop_mode": "walk",
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Entdecken Sie die liburnische und römische Zeit.",
-            "hu": "Fedezze fel a liburn és római korszakot.",
-            "ro": "Descoperiți perioadele liburnă și romană.",
-            "en": "Discover the Liburnian and Roman periods."
+            "de": "Beginnen Sie Ihren Altstadtspaziergang hier.",
+            "hu": "Kezdje itt az óvárosi sétát.",
+            "ro": "Începeți plimbarea prin centrul vechi aici.",
+            "en": "Start your old town walk here."
           }
         },
         {
-          "name": {
-            "de": "Kolovare Strand",
-            "hu": "Kolovare strand",
-            "ro": "Plaja Kolovare",
-            "en": "Kolovare Beach"
-          },
+          "name": "Römisches Forum",
           "coords": [
-            15.2352,
-            44.1064
+            15.2245,
+            44.1158
           ],
-          "category": "beach",
-          "arrive_at": "15:00",
-          "stay_min": 90,
-          "hop_from_prev_min": 40,
-          "hop_from_prev_km": 2.0,
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
           "tip_5lang": {
-            "de": "Der Stadtstrand mit der Blauen Flagge.",
-            "hu": "A város Kék zászlós strandja.",
-            "ro": "Plaja orașului cu Steag Albastru.",
-            "en": "The main city beach with Blue Flag status."
+            "de": "Zentral in der autofreien Zone gelegen.",
+            "hu": "Központban, az autómentes övezetben.",
+            "ro": "Situat central în zona fără mașini.",
+            "en": "Centrally located in the car-free zone."
+          }
+        },
+        {
+          "name": "Kirche St. Donatus",
+          "coords": [
+            15.2243,
+            44.1155
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt am Forum, sehr kurze Wege.",
+            "hu": "Közvetlenül a fórumon, nagyon rövid táv.",
+            "ro": "Chiar la Forum, distanță foarte scurtă.",
+            "en": "Right at the Forum, very short distance."
+          }
+        },
+        {
+          "name": "Meeresorgel",
+          "coords": [
+            15.2198,
+            44.118
+          ],
+          "category": "natural features",
+          "arrive_at": "12:05",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang ans Ende der Halbinsel.",
+            "hu": "Egy kellemes séta a félsziget végére.",
+            "ro": "O plimbare plăcută până la capătul peninsulei.",
+            "en": "A nice walk to the end of the peninsula."
+          }
+        },
+        {
+          "name": "Museum für antikes Glas",
+          "coords": [
+            15.229,
+            44.1145
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück Richtung Festland.",
+            "hu": "Vigyen egy buszt vissza a szárazföld felé.",
+            "ro": "Luați un autobuz înapoi spre continent.",
+            "en": "Take a bus back towards the mainland."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Entdecken Sie Zadar mit den Stadtbussen. Starten Sie am Busbahnhof, besuchen Sie das Glasmuseum und die romanischen Kirchen der Altstadt. Nach einem Besuch im Archäologischen Museum können Sie am zentrumsnahen Kolovare-Strand baden gehen.",
-        "hu": "Fedezze fel Zadart városi buszokkal. Kezdjen az autóbusz-állomáson, látogassa meg az Üvegmúzeumot és az óváros román stílusú templomait. A Régészeti Múzeum után mártózzon meg a közeli Kolovare strandon.",
-        "ro": "Explorați Zadarul cu autobuzele urbane. Începeți la autogară, vizitați Muzeul Sticlei și bisericile romanice din orașul vechi. După Muzeul de Arheologie, puteți merge la plajă la Kolovare, aproape de centru.",
-        "en": "Explore Zadar using city buses. Start at the bus station, visit the Glass Museum and the Romanesque churches of the Old Town. After the Archaeological Museum, take a dip at the nearby Kolovare Beach."
+        "de": "Die Altstadt von Zadar ist kompakt. Fahren Sie mit dem Bus bis zum Landtor und erkunden Sie den gesamten historischen Kern (Forum, Kirchen) zu Fuß. Nach einer Pause an der Meeresorgel können Sie für weiter entfernte Ziele bequem wieder auf die städtischen Busse umsteigen.",
+        "hu": "Zadar óvárosa kompakt. Menjen busszal a szárazföldi kapuig, és gyalog járja be a történelmi magot (Fórum, templomok). A Tengeri Orgonánál tartott pihenő után a távolabbi célokhoz könnyedén újra felszállhat a városi buszokra.",
+        "ro": "Centrul vechi e compact. Mergeți cu autobuzul până la Poarta Terestră și explorați nucleul istoric (Forum, biserici) pe jos. După o pauză la Orga Mării, pentru destinații mai îndepărtate puteți lua din nou autobuzele urbane.",
+        "en": "Zadar's old town is compact. Take the bus to the Land Gate and explore the entire historic core (Forum, churches) on foot. After a break at the Sea Organ, you can easily hop back on city buses for destinations further out."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Bistro Gourmet Kalelarga",
-            "tip": "Feine Patisserie und Gebäck."
+            "name": "Burek",
+            "tip": "Herzhafter Snack vom Bäcker für zwischendurch."
+          },
+          {
+            "name": "Fischgerichte",
+            "tip": "In den kleinen Gassen nahe der Bushaltestellen."
           }
         ],
         "hu": [
           {
-            "name": "Grill Mrak",
-            "tip": "Helyi húsételek a buszállomás közelében."
+            "name": "Burek",
+            "tip": "Sós pékáru útközbeni falatozáshoz."
+          },
+          {
+            "name": "Halételek",
+            "tip": "A buszmegállók közeli kis utcákban."
           }
         ],
         "ro": [
           {
-            "name": "Proto Food & More",
-            "tip": "Mâncare modernă în centrul istoric."
+            "name": "Burek",
+            "tip": "Gustare sărată de la brutărie pentru drum."
+          },
+          {
+            "name": "Preparate din pește",
+            "tip": "În străduțele din apropierea stațiilor de autobuz."
           }
         ],
         "en": [
           {
-            "name": "Pašta & Svašta",
-            "tip": "Fresh homemade pasta at reasonable prices."
+            "name": "Burek",
+            "tip": "Savory pastry from a bakery for a quick snack."
+          },
+          {
+            "name": "Fish Dishes",
+            "tip": "In the small alleys near the bus stops."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Park Kapetanski",
-            "tip": "Ruhige Terrasse oberhalb des Hafens.",
-            "emoji": "🧘"
+            "name": "Riva Promenade",
+            "tip": "Suchen Sie sich eine ruhige Bank am Wasser.",
+            "emoji": "🌊"
           }
         ],
         "hu": [
           {
-            "name": "Szent Marija kolostor kertje",
-            "tip": "Békés belső udvar.",
-            "emoji": "🌿"
+            "name": "Riva sétány",
+            "tip": "Keressen egy csendes padot a vízparton.",
+            "emoji": "🌊"
           }
         ],
         "ro": [
           {
-            "name": "Marea faleză",
-            "tip": "Plimbare lungă la malul mării.",
-            "emoji": "🌅"
+            "name": "Promenada Riva",
+            "tip": "Găsiți o bancă liniștită pe malul apei.",
+            "emoji": "🌊"
           }
         ],
         "en": [
           {
-            "name": "Five Wells Park",
-            "tip": "Greenery right next to the historic wells.",
-            "emoji": "🌳"
+            "name": "Riva Promenade",
+            "tip": "Find a quiet bench by the water.",
+            "emoji": "🌊"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Supernova Zadar",
-            "tip": "Größtes Einkaufszentrum der Region."
+            "name": "Zadar Altstadt",
+            "tip": "Kleine Boutiquen sind überall verstreut."
           }
         ],
         "hu": [
           {
-            "name": "Zadarka Souvenirs",
-            "tip": "Helyi művészek munkái."
+            "name": "Zadar óvárosa",
+            "tip": "Kis butikok mindenfelé elszórva."
           }
         ],
         "ro": [
           {
-            "name": "Piața de pește",
-            "tip": "Pește proaspăt în fiecare dimineață."
+            "name": "Centrul vechi Zadar",
+            "tip": "Mici buticuri sunt presărate peste tot."
           }
         ],
         "en": [
           {
-            "name": "Figurines and Glass",
-            "tip": "Replica glass items at the museum shop."
+            "name": "Zadar Old Town",
+            "tip": "Small boutiques are scattered everywhere."
           }
         ]
       },
       "tips": {
         "de": [
-          "Laden Sie die Liburnija App für Fahrpläne herunter.",
-          "Einzelfahrscheine sind beim Fahrer teurer."
+          "Tickets für den Bus können beim Fahrer gekauft werden.",
+          "Die Busse fahren regelmäßig vom Busbahnhof in die Stadt.",
+          "Die Halbinsel ist fast vollständig autofrei.",
+          "Planen Sie etwas Wartezeit bei den Bussen ein."
         ],
         "hu": [
-          "Töltse le a Liburnija alkalmazást a menetrendekhez.",
-          "A sofőrnél váltott jegy drágább."
+          "A buszjegy a sofőrnél is megvásárolható.",
+          "A buszok rendszeresen indulnak a pályaudvarról a városba.",
+          "A félsziget majdnem teljesen autómentes.",
+          "Számoljon némi várakozási idővel a buszoknál."
         ],
         "ro": [
-          "Descărcați aplicația Liburnija pentru orare.",
-          "Biletele cumpărate de la șofer sunt mai scumpe."
+          "Biletele de autobuz se pot cumpăra de la șofer.",
+          "Autobuzele circulă regulat de la autogară spre oraș.",
+          "Peninsula este aproape complet pietonală.",
+          "Alocați ceva timp de așteptare pentru autobuze."
         ],
         "en": [
-          "Download the Liburnija app for bus schedules.",
-          "Tickets are cheaper if bought at newsstands."
+          "Bus tickets can be purchased from the driver.",
+          "Buses run regularly from the main station to the city.",
+          "The peninsula is almost entirely car-free.",
+          "Allow some waiting time for the buses."
         ]
       }
     }

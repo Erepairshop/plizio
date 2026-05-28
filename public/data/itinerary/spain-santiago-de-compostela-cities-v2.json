@@ -1,0 +1,1476 @@
+{
+  "city_id": "spain-santiago-de-compostela-cities-v2",
+  "anchor": {
+    "name": "Santiago de Compostela",
+    "coords": [
+      -8.5448,
+      42.8782
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Praza do Obradoiro",
+            "hu": "Obradoiro tér",
+            "ro": "Piața Obradoiro",
+            "en": "Obradoiro Square"
+          },
+          "coords": [
+            -8.5448,
+            42.8782
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kommen Sie am frühen Morgen, um die Fassaden im besten Licht und mit weniger Menschenmassen zu sehen.",
+            "hu": "Jöjjön kora reggel, hogy a homlokzatokat a legjobb fényben és kevesebb tömegben lássa.",
+            "ro": "Veniți dimineața devreme pentru a vedea fațadele în cea mai bună lumină și cu mai puțină aglomerație.",
+            "en": "Arrive early in the morning to see the facades in the best light and with fewer crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Santiago de Compostela",
+            "hu": "Santiago de Compostela-i katedrális",
+            "ro": "Catedrala din Santiago de Compostela",
+            "en": "Cathedral of Santiago de Compostela"
+          },
+          "coords": [
+            -8.5444,
+            42.8804
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht das Botafumeiro-Schwingen, wenn es stattfindet; überprüfen Sie den Zeitplan im Voraus.",
+            "hu": "Ne hagyja ki a Botafumeiro (óriás füstölő) lengetését, ha épp akkor tartják; ellenőrizze előre a menetrendet.",
+            "ro": "Nu ratați pendularea Botafumeiro dacă are loc; verificați programul în avans.",
+            "en": "Don't miss the Botafumeiro swing if it's happening; check the schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster San Martiño Pinario",
+            "hu": "San Martiño Pinario kolostor",
+            "ro": "Mănăstirea San Martiño Pinario",
+            "en": "Monastery of San Martiño Pinario"
+          },
+          "coords": [
+            -8.5448,
+            42.8821
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besichtigen Sie den beeindruckenden barocken Altar und den Chorgestühl aus Walnussholz.",
+            "hu": "Tekintse meg a lenyűgöző barokk oltárt és a diófából készült kórusüléseket.",
+            "ro": "Vizitați altarul baroc impresionant și stranele corului din lemn de nuc.",
+            "en": "Visit the impressive baroque altarpiece and the walnut choir stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado de Abastos",
+            "hu": "Abastos piac",
+            "ro": "Piața de Abastos",
+            "en": "Abastos Market"
+          },
+          "coords": [
+            -8.5404,
+            42.8804
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie frische Meeresfrüchte in einer der kleinen Bars im Markt – sie kochen, was Sie kaufen.",
+            "hu": "Kóstoljon friss tengeri herkentyűket a piac egyik kis bárjában – megfőzik, amit vásárol.",
+            "ro": "Încercați fructe de mare proaspete la unul dintre micile baruri din piață – gătesc ceea ce cumpărați.",
+            "en": "Try fresh seafood at one of the small bars inside the market—they'll cook what you buy."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des galicischen Volkes",
+            "hu": "Galíciai Nép Múzeuma",
+            "ro": "Muzeul Poporului Galician",
+            "en": "Museum of the Galician People"
+          },
+          "coords": [
+            -8.5392,
+            42.8827
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die dreifache Wendeltreppe ist ein architektonisches Wunder und ein Muss für ein Foto.",
+            "hu": "A háromágú csigalépcső egy építészeti csoda és egy kötelező fotótéma.",
+            "ro": "Scara triplă în spirală este o minune arhitecturală și un loc obligatoriu pentru fotografii.",
+            "en": "The triple spiral staircase is an architectural marvel and a must-see for a photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque da Alameda",
+            "hu": "Alameda Park",
+            "ro": "Parcul Alameda",
+            "en": "Alameda Park"
+          },
+          "coords": [
+            -8.5495,
+            42.8767
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie die 'Dos Marías'-Statue für ein ikonisches Foto mit der Kathedrale im Hintergrund.",
+            "hu": "Keresse meg a 'Dos Marías' szobrot egy ikonikus fotóért a katedrálissal a háttérben.",
+            "ro": "Căutați statuia 'Dos Marías' pentru o fotografie emblematică cu catedrala pe fundal.",
+            "en": "Find the 'Dos Marías' statue for an iconic photo with the cathedral in the background."
+          }
+        },
+        {
+          "name": {
+            "de": "Hostal de los Reyes Católicos",
+            "hu": "Hostal de los Reyes Católicos",
+            "ro": "Hostal de los Reyes Católicos",
+            "en": "Hostal de los Reyes Católicos"
+          },
+          "coords": [
+            -8.5458,
+            42.8811
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Obwohl es ein Luxushotel ist, können Sie die öffentlichen Bereiche und die vier Innenhöfe besichtigen.",
+            "hu": "Bár luxusszálloda, a közös helyiségeket és a négy belső udvart meg lehet látogatni.",
+            "ro": "Deși este un hotel de lux, puteți vizita zonele publice și cele patru curți interioare.",
+            "en": "Although it's a luxury hotel, you can visit the public areas and the four courtyards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Santiago, der Praza do Obradoiro, wo Sie die beeindruckende Kathedrale bewundern. Am Vormittag tauchen Sie in die heilige Atmosphäre der Kathedrale und des nahegelegenen Klosters San Martiño Pinario ein und entdecken Schätze der religiösen Kunst. Der Mittag führt Sie zum lebhaften Mercado de Abastos. Hier erleben Sie die lokale Kultur und genießen ein Mittagessen mit frischen galicischen Produkten, eine wahre Freude für die Sinne. Am Nachmittag erkunden Sie im Museum des galicischen Volkes die reiche Geschichte der Region, bevor Sie im ruhigen Alameda-Park entspannen, der einen postkartenreifen Blick auf die Altstadt bietet. Der Abend klingt mit einem Blick auf die platereske Fassade des Hostal de los Reyes Católicos aus, ein perfekter Abschluss eines Tages voller Geschichte und Kultur.",
+        "hu": "A nap Santiago szívében, a Praza do Obradoiro téren kezdődik, ahol a lenyűgöző katedrálist csodálhatja meg. A délelőtt folyamán elmerülhet a katedrális és a közeli San Martiño Pinario kolostor szent hangulatában, felfedezve a vallási művészet kincseit. Délben a nyüzsgő Mercado de Abastos piacra vezeti az útja. Itt megtapasztalhatja a helyi kultúrát és élvezhet egy ebédet friss galíciai termékekből, ami igazi élvezet az érzékeknek. Délután a Galíciai Nép Múzeumában elmélyülhet a régió gazdag történelmében, majd a csendes Alameda Parkban pihenhet, ahonnan képeslapra illő kilátás nyílik az óvárosra. Az estét a Hostal de los Reyes Católicos platereszk homlokzatának megtekintésével zárja, tökéletes befejezése egy történelemmel és kultúrával teli napnak.",
+        "ro": "Ziua începe în inima orașului Santiago, Praza do Obradoiro, admirând catedrala impunătoare. Dimineața vă scufundați în atmosfera sacră a catedralei și a mănăstirii San Martiño Pinario din apropiere, descoperind comori ale artei religioase. La prânz, vă îndreptați spre vibranta Piață de Abastos. Aici experimentați cultura locală și vă bucurați de un prânz cu produse proaspete din Galicia, o adevărată încântare pentru simțuri. După-amiaza explorați istoria bogată a regiunii la Muzeul Poporului Galician, înainte de a vă relaxa în liniștitul Parc Alameda, care oferă o vedere de carte poștală asupra orașului vechi. Seara se încheie cu o privire la fațada platerescă a Hostal de los Reyes Católicos, o încheiere perfectă a unei zile pline de istorie și cultură.",
+        "en": "Your day begins in the heart of Santiago, Praza do Obradoiro, admiring the imposing cathedral. In the morning, you'll delve into the sacred atmosphere of the cathedral and the nearby Monastery of San Martiño Pinario, discovering treasures of religious art. Midday takes you to the vibrant Mercado de Abastos. Here, you'll experience local culture and enjoy a lunch of fresh Galician produce, a true delight for the senses. In the afternoon, explore the region's rich history at the Museum of the Galician People before relaxing in the tranquil Alameda Park, which offers a picture-postcard view of the old town. The evening concludes with a look at the plateresque facade of the Hostal de los Reyes Católicos, a perfect end to a day steeped in history and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pulpo a la Gallega",
+            "tip": "Tintenfisch nach galicischer Art, serviert mit Paprika und Kartoffeln. Ein Muss!"
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Ein traditioneller Mandelkuchen, oft mit dem Kreuz des Heiligen Jakobus verziert."
+          },
+          {
+            "name": "Pimientos de Padrón",
+            "tip": "Kleine grüne Paprika, gebraten und mit grobem Salz bestreut. Manche sind scharf, manche nicht!"
+          },
+          {
+            "name": "Albariño Wein",
+            "tip": "Ein frischer Weißwein aus der Region, der perfekt zu Meeresfrüchten passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pulpo a la Gallega",
+            "tip": "Galíciai stílusú polip, paprikával és burgonyával tálalva. Ezt muszáj megkóstolni!"
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Hagyományos mandulatorta, gyakran Szent Jakab keresztjével díszítve."
+          },
+          {
+            "name": "Pimientos de Padrón",
+            "tip": "Kis zöld paprikák, sütve és durva sóval megszórva. Néhány csípős, néhány nem!"
+          },
+          {
+            "name": "Albariño bor",
+            "tip": "A régió friss fehérbora, amely tökéletesen illik a tenger gyümölcseihez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pulpo a la Gallega",
+            "tip": "Caracatiță în stil galician, servită cu boia și cartofi. O delicatesă obligatorie!"
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "O prăjitură tradițională cu migdale, adesea decorată cu crucea Sfântului Iacob."
+          },
+          {
+            "name": "Pimientos de Padrón",
+            "tip": "Ardei verzi mici, prăjiți și presărați cu sare grunjoasă. Unii sunt iuți, alții nu!"
+          },
+          {
+            "name": "Vin Albariño",
+            "tip": "Un vin alb proaspăt din regiune, care se potrivește perfect cu fructele de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pulpo a la Gallega",
+            "tip": "Galician-style octopus, served with paprika and potatoes. A must-try!"
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "A traditional almond cake, often decorated with the Cross of Saint James."
+          },
+          {
+            "name": "Pimientos de Padrón",
+            "tip": "Small green peppers, fried and sprinkled with coarse salt. Some are hot, some are not!"
+          },
+          {
+            "name": "Albariño Wine",
+            "tip": "A crisp white wine from the region that pairs perfectly with seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque da Alameda",
+            "tip": "Finden Sie eine ruhige Bank mit Blick auf die Kathedrale für einen Moment der Besinnung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Klosters San Lorenzo",
+            "tip": "Ein verstecktes Juwel mit wunderschönen Buchsbaumgärten, perfekt für eine ruhige Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dachterrasse der Kathedrale",
+            "tip": "Bietet eine ruhige Perspektive auf die Stadt, weg von den Menschenmassen unten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alameda Park",
+            "tip": "Keressen egy csendes padot, ahonnan kilátás nyílik a katedrálisra egy pillanatnyi elmélkedéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "San Lorenzo kolostor kertjei",
+            "tip": "Rejtett gyöngyszem gyönyörű puszpángkertekkel, tökéletes egy csendes pihenőhöz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A katedrális tetőterasza",
+            "tip": "Nyugodt perspektívát kínál a városra, távol az alanti tömegtől.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Alameda",
+            "tip": "Găsiți o bancă liniștită cu vedere la catedrală pentru un moment de reflecție.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Mănăstirii San Lorenzo",
+            "tip": "O bijuterie ascunsă cu grădini frumoase de cimișir, perfectă pentru o pauză liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Terasa de pe acoperișul Catedralei",
+            "tip": "Oferă o perspectivă senină asupra orașului, departe de mulțimea de jos.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alameda Park",
+            "tip": "Find a quiet bench overlooking the cathedral for a moment of reflection.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of San Lorenzo Monastery",
+            "tip": "A hidden gem with beautiful boxwood gardens, perfect for a quiet break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Rooftop Terrace",
+            "tip": "Offers a serene perspective of the city, away from the crowds below.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rúa do Vilar & Rúa Nova",
+            "tip": "Traditionelle Straßen mit Arkaden, voll von Geschäften, die Azabache (Gagat) Schmuck und Souvenirs verkaufen."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Kaufen Sie lokale Käsesorten wie Tetilla, Wurst und galicische Weine direkt von den Erzeugern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rúa do Vilar & Rúa Nova",
+            "tip": "Hagyományos, árkádos utcák, tele azabache (gagát) ékszereket és szuveníreket árusító boltokkal."
+          },
+          {
+            "name": "Abastos piac",
+            "tip": "Vásároljon helyi sajtokat, mint a Tetilla, felvágottakat és galíciai borokat közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rúa do Vilar & Rúa Nova",
+            "tip": "Străzi tradiționale cu arcade, pline de magazine care vând bijuterii din azabache (jet) și suveniruri."
+          },
+          {
+            "name": "Piața de Abastos",
+            "tip": "Cumpărați brânzeturi locale precum Tetilla, mezeluri și vinuri galiciene direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rúa do Vilar & Rúa Nova",
+            "tip": "Traditional streets with arcades, full of shops selling azabache (jet) jewelry and souvenirs."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Buy local cheeses like Tetilla, cured meats, and Galician wines directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt gepflastert ist und einige Hügel hat.",
+          "Verlieren Sie sich in den engen Gassen rund um die Kathedrale; es ist der beste Weg, versteckte Plätze zu entdecken.",
+          "Viele Geschäfte schließen zur Mittagszeit für eine Siesta, planen Sie Ihren Einkauf entsprechend.",
+          "Das Pilgerbüro ist ein interessanter Ort, um die Emotionen der ankommenden Pilger zu beobachten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskaköves és vannak emelkedői.",
+          "Tévedjen el a katedrális körüli szűk sikátorokban; ez a legjobb módja a rejtett terek felfedezésének.",
+          "Sok üzlet bezár délben sziesztára, tervezze meg a vásárlást ennek megfelelően.",
+          "A Zarándokiroda érdekes hely a beérkező zarándokok érzelmeinek megfigyelésére."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece orașul vechi este pavat și are câteva dealuri.",
+          "Rătăciți-vă pe aleile înguste din jurul catedralei; este cel mai bun mod de a descoperi piețe ascunse.",
+          "Multe magazine închid la prânz pentru siestă, planificați-vă cumpărăturile în consecință.",
+          "Biroul Pelerinilor este un loc interesant pentru a observa emoțiile pelerinilor care sosesc."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town is cobbled and has some hills.",
+          "Get lost in the narrow alleys around the cathedral; it's the best way to discover hidden squares.",
+          "Many shops close for a siesta at midday, so plan your shopping accordingly.",
+          "The Pilgrim's Office is an interesting place to watch the emotions of arriving pilgrims."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque da Alameda",
+            "hu": "Alameda Park",
+            "ro": "Parcul Alameda",
+            "en": "Alameda Park"
+          },
+          "coords": [
+            -8.5495,
+            42.8767
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einer leichten Radtour durch den Park und genießen Sie die Morgenstimmung.",
+            "hu": "Kezdje a napot egy könnyű biciklitúrával a parkban, élvezve a reggeli hangulatot.",
+            "ro": "Începeți ziua cu o plimbare ușoară cu bicicleta prin parc, bucurându-vă de atmosfera de dimineață.",
+            "en": "Start the day with a gentle bike ride through the park, enjoying the morning atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Praza do Obradoiro",
+            "hu": "Obradoiro tér",
+            "ro": "Piața Obradoiro",
+            "en": "Obradoiro Square"
+          },
+          "coords": [
+            -8.5448,
+            42.8782
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und betreten Sie den Platz zu Fuß, um seine Größe zu schätzen.",
+            "hu": "Zárja le a biciklit a közelben, és sétáljon be a térre, hogy igazán átérezze a méreteit.",
+            "ro": "Parcați bicicleta în apropiere și intrați în piață pe jos pentru a-i aprecia măreția.",
+            "en": "Park your bike nearby and enter the square on foot to appreciate its grandeur."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Santiago de Compostela",
+            "hu": "Santiago de Compostela-i katedrális",
+            "ro": "Catedrala din Santiago de Compostela",
+            "en": "Cathedral of Santiago de Compostela"
+          },
+          "coords": [
+            -8.5444,
+            42.8804
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die verschiedenen Kapellen und das Museum im Inneren zu erkunden.",
+            "hu": "Tervezzen elegendő időt a különböző kápolnák és a belső múzeum felfedezésére.",
+            "ro": "Alocați suficient timp pentru a explora diversele capele și muzeul din interior.",
+            "en": "Allow enough time to explore the various chapels and the museum inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado de Abastos",
+            "hu": "Abastos piac",
+            "ro": "Piața de Abastos",
+            "en": "Abastos Market"
+          },
+          "coords": [
+            -8.5404,
+            42.8804
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein authentisches Mittagessen. Viele Stände bieten zubereitete Tapas an.",
+            "hu": "Ideális hely egy autentikus ebédhez. Sok stand kínál kész tapasokat.",
+            "ro": "Un loc ideal pentru un prânz autentic. Multe tarabe oferă tapas gata preparate.",
+            "en": "An ideal spot for an authentic lunch. Many stalls offer prepared tapas."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des galicischen Volkes",
+            "hu": "Galíciai Nép Múzeuma",
+            "ro": "Muzeul Poporului Galician",
+            "en": "Museum of the Galician People"
+          },
+          "coords": [
+            -8.5392,
+            42.8827
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museum und erkunden Sie dann das umliegende Viertel San Pedro zu Fuß.",
+            "hu": "Tekerjen el a múzeumhoz, majd fedezze fel gyalog a környező San Pedro negyedet.",
+            "ro": "Mergeți cu bicicleta la muzeu, apoi explorați pe jos cartierul înconjurător San Pedro.",
+            "en": "Cycle to the museum, then explore the surrounding San Pedro neighborhood on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr entlang des Flusses Sarela",
+            "hu": "Visszaút a Sarela folyó mentén",
+            "ro": "Întoarcere de-a lungul râului Sarela",
+            "en": "Return along the Sarela River"
+          },
+          "coords": [
+            -8.5583,
+            42.8795
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie eine malerische Fahrt auf den Wegen entlang des Flusses, eine grüne Oase in der Stadt.",
+            "hu": "Élvezze a festői utat a folyó menti ösvényeken, egy zöld oázis a városban.",
+            "ro": "Bucurați-vă de o plimbare pitorească pe potecile de-a lungul râului, o oază de verdeață în oraș.",
+            "en": "Enjoy a scenic ride on the paths along the river, a green oasis in the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit einer erfrischenden Runde durch den Alameda-Park. Von dort radeln Sie zum monumentalen Praza do Obradoiro, dem spirituellen Herzen der Stadt. Nachdem Sie die Kathedrale besichtigt haben, geht es weiter zum belebten Mercado de Abastos. Dort legen Sie eine wohlverdiente Mittagspause ein und probieren lokale Köstlichkeiten. Am Nachmittag besuchen Sie das Museum des galicischen Volkes, um mehr über die Kultur der Region zu erfahren. Den Abschluss des Tages bildet eine entspannte Fahrt entlang des Flusses Sarela, die Ihnen eine andere, grünere Seite von Santiago zeigt.",
+        "hu": "A kerékpártúra egy frissítő körrel kezdődik az Alameda Parkban. Innen a monumentális Praza do Obradoiro térre teker, a város spirituális szívébe. A katedrális megtekintése után a nyüzsgő Mercado de Abastos felé veszi az irányt. Ott egy jól megérdemelt ebédszünetet tart, és helyi finomságokat kóstol. Délután meglátogatja a Galíciai Nép Múzeumát, hogy többet tudjon meg a régió kultúrájáról. A napot egy pihentető tekerés zárja a Sarela folyó mentén, amely Santiago egy másik, zöldebb oldalát mutatja meg.",
+        "ro": "Turul cu bicicleta începe cu o plimbare revigorantă prin Parcul Alameda. De acolo, pedalați spre monumentala Praza do Obradoiro, inima spirituală a orașului. După ce ați vizitat catedrala, vă îndreptați spre animata Piață de Abastos. Acolo, luați o pauză de prânz binemeritată și gustați delicatese locale. După-amiaza, vizitați Muzeul Poporului Galician pentru a afla mai multe despre cultura regiunii. Ziua se încheie cu o plimbare relaxantă de-a lungul râului Sarela, arătându-vă o altă față, mai verde, a orașului Santiago.",
+        "en": "Your bike tour starts with a refreshing ride through Alameda Park. From there, you'll cycle to the monumental Praza do Obradoiro, the city's spiritual heart. After visiting the cathedral, you'll head to the bustling Mercado de Abastos. There, you'll take a well-deserved lunch break and sample local delicacies. In the afternoon, you'll visit the Museum of the Galician People to learn about the region's culture. The day concludes with a relaxing ride along the Sarela River, showing you a different, greener side of Santiago."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Empanada Gallega",
+            "tip": "Eine herzhafte Pastete, gefüllt mit Thunfisch, Fleisch oder Meeresfrüchten, perfekt für einen schnellen Bissen."
+          },
+          {
+            "name": "Käseplatte",
+            "tip": "Probieren Sie eine Auswahl lokaler Käsesorten wie Tetilla und Arzúa-Ulloa."
+          },
+          {
+            "name": "Sidra (Apfelwein)",
+            "tip": "In einigen traditionellen Bars wird galicischer Apfelwein direkt aus dem Fass serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Empanada Gallega",
+            "tip": "Sós pite, tonhallal, hússal vagy tenger gyümölcseivel töltve, tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Sajttál",
+            "tip": "Kóstoljon meg egy válogatást a helyi sajtokból, mint a Tetilla és az Arzúa-Ulloa."
+          },
+          {
+            "name": "Sidra (almabor)",
+            "tip": "Néhány hagyományos bárban a galíciai almabort közvetlenül a hordóból szolgálják fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Empanada Gallega",
+            "tip": "O plăcintă savuroasă umplută cu ton, carne sau fructe de mare, perfectă pentru o gustare rapidă."
+          },
+          {
+            "name": "Platou de brânzeturi",
+            "tip": "Încercați o selecție de brânzeturi locale precum Tetilla și Arzúa-Ulloa."
+          },
+          {
+            "name": "Sidra (cidru)",
+            "tip": "În unele baruri tradiționale, cidrul galician este servit direct din butoi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Empanada Gallega",
+            "tip": "A savory pie filled with tuna, meat, or seafood, perfect for a quick bite."
+          },
+          {
+            "name": "Cheese Platter",
+            "tip": "Try a selection of local cheeses like Tetilla and Arzúa-Ulloa."
+          },
+          {
+            "name": "Sidra (Cider)",
+            "tip": "Some traditional bars serve Galician cider poured directly from the barrel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Monte Pedroso",
+            "tip": "Für eine anspruchsvollere Radtour, die mit einem Panoramablick auf die Stadt belohnt wird.",
+            "emoji": "🚵"
+          },
+          {
+            "name": "Parque de Bonaval",
+            "tip": "Ein ruhiger Park neben dem Museum, mit einem alten Friedhof und schönem Blick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Pazo de Raxoi",
+            "tip": "Ein oft übersehener, friedlicher Ort direkt am Hauptplatz.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monte Pedroso",
+            "tip": "Egy kihívást jelentő biciklitúráért, melyet a város panorámás kilátása jutalmaz.",
+            "emoji": "🚵"
+          },
+          {
+            "name": "Bonaval Park",
+            "tip": "Csendes park a múzeum mellett, régi temetővel és szép kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pazo de Raxoi kertjei",
+            "tip": "Gyakran figyelmen kívül hagyott, békés hely közvetlenül a főtér mellett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monte Pedroso",
+            "tip": "Pentru o plimbare cu bicicleta mai provocatoare, recompensată cu o vedere panoramică a orașului.",
+            "emoji": "🚵"
+          },
+          {
+            "name": "Parcul Bonaval",
+            "tip": "Un parc liniștit lângă muzeu, cu un cimitir vechi și priveliști frumoase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Pazo de Raxoi",
+            "tip": "Un loc liniștit, adesea trecut cu vederea, chiar lângă piața principală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monte Pedroso",
+            "tip": "For a more challenging bike ride rewarded with panoramic views of the city.",
+            "emoji": "🚵"
+          },
+          {
+            "name": "Bonaval Park",
+            "tip": "A quiet park next to the museum, with an old cemetery and nice views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Pazo de Raxoi",
+            "tip": "An often-overlooked peaceful spot right off the main square.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In der Nähe der Universität gibt es mehrere Geschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "In der Rúa do Franco finden Sie handgefertigte Keramik und Lederwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Az egyetem közelében több bolt is található kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "A Rúa do Franco utcán kézzel készített kerámiákat és bőrárukat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Există mai multe magazine lângă universitate pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Pe Rúa do Franco veți găsi ceramică și articole din piele lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "There are several shops near the university for accessories or quick repairs."
+          },
+          {
+            "name": "Local artisan shops",
+            "tip": "On Rúa do Franco, you'll find handmade ceramics and leather goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist hügelig und gepflastert; ein Mountainbike oder ein E-Bike ist besser geeignet als ein Rennrad.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders auf den belebten Plätzen.",
+          "Nutzen Sie die Radwege entlang der Flüsse für eine angenehmere Fahrt.",
+          "Einige Straßen in der Altstadt sind reine Fußgängerzonen, steigen Sie dort ab und schieben Sie Ihr Rad."
+        ],
+        "hu": [
+          "Az óváros dombos és macskaköves; egy mountain bike vagy e-bike jobban megfelel, mint egy versenybicikli.",
+          "Mindig zárja le jól a kerékpárt, különösen a forgalmas tereken.",
+          "Használja a folyók menti kerékpárutakat a kellemesebb tekerés érdekében.",
+          "Néhány utca az óvárosban csak gyalogos zóna, ott szálljon le és tolja a biciklit."
+        ],
+        "ro": [
+          "Orașul vechi este deluros și pavat; o bicicletă de munte sau o bicicletă electrică este mai potrivită decât una de curse.",
+          "Legați-vă întotdeauna bine bicicleta, mai ales în piețele aglomerate.",
+          "Folosiți pistele de biciclete de-a lungul râurilor pentru o plimbare mai plăcută.",
+          "Unele străzi din orașul vechi sunt pietonale, descălecați și împingeți bicicleta acolo."
+        ],
+        "en": [
+          "The old town is hilly and cobbled; a mountain bike or e-bike is more suitable than a road bike.",
+          "Always lock your bike securely, especially in the busy squares.",
+          "Use the cycle paths along the rivers for a more pleasant ride.",
+          "Some streets in the old town are pedestrian-only, dismount and walk your bike there."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Alameda Park",
+            "hu": "Parkolás az Alameda Parknál",
+            "ro": "Parcare la Parcul Alameda",
+            "en": "Parking at Alameda Park"
+          },
+          "coords": [
+            -8.5495,
+            42.8767
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie einen Parkplatz in der Umgebung des Parks, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Keressen parkolóhelyet a park környékén, hogy gyalogosan fedezze fel az első látnivaló-csoportot.",
+            "ro": "Găsiți un loc de parcare în jurul parcului pentru a explora primul grup de atracții pe jos.",
+            "en": "Find a parking spot around the park to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque da Alameda & Aussicht",
+            "hu": "Alameda Park és kilátás",
+            "ro": "Parcul Alameda și priveliștea",
+            "en": "Alameda Park & Viewpoint"
+          },
+          "coords": [
+            -8.5485,
+            42.877
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den klassischen Blick auf die Kathedrale von der Promenade 'Paseo da Ferradura'.",
+            "hu": "Élvezze a katedrális klasszikus látványát a 'Paseo da Ferradura' sétányról.",
+            "ro": "Bucurați-vă de vederea clasică a catedralei de pe promenada 'Paseo da Ferradura'.",
+            "en": "Enjoy the classic view of the cathedral from the 'Paseo da Ferradura' promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus Praza de Galicia",
+            "hu": "Praza de Galicia parkolóház",
+            "ro": "Parcarea subterană Praza de Galicia",
+            "en": "Praza de Galicia Underground Parking"
+          },
+          "coords": [
+            -8.5427,
+            42.8762
+          ],
+          "category": "transport",
+          "arrive_at": "10:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den historischen Kern zu erkunden. Es ist ein kurzer Spaziergang zum Obradoiro-Platz.",
+            "hu": "Parkoljon itt a történelmi központ felfedezéséhez. Rövid sétára van az Obradoiro tértől.",
+            "ro": "Parcați aici pentru a explora centrul istoric. Este la o scurtă plimbare de Piața Obradoiro.",
+            "en": "Park here to explore the historic core. It's a short walk to Obradoiro Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale & Praza do Obradoiro",
+            "hu": "Katedrális és Obradoiro tér",
+            "ro": "Catedrala și Piața Obradoiro",
+            "en": "Cathedral & Obradoiro Square"
+          },
+          "coords": [
+            -8.5448,
+            42.8782
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Kathedrale, das Museum und die umliegenden historischen Gebäude.",
+            "hu": "Szánjon időt a katedrálisra, a múzeumra és a környező történelmi épületekre.",
+            "ro": "Acordați-vă timp pentru catedrală, muzeu și clădirile istorice din jur.",
+            "en": "Take your time for the cathedral, museum, and the surrounding historic buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken am Mercado de Abastos",
+            "hu": "Parkolás az Abastos piacnál",
+            "ro": "Parcare la Piața de Abastos",
+            "en": "Parking near Mercado de Abastos"
+          },
+          "coords": [
+            -8.5404,
+            42.8804
+          ],
+          "category": "transport",
+          "arrive_at": "14:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Das Parken kann schwierig sein; suchen Sie nach einem öffentlichen Parkplatz.",
+            "hu": "Hajtson át a következő látnivaló-csoporthoz. A parkolás nehézkes lehet; keressen egy nyilvános parkolót.",
+            "ro": "Conduceți spre următorul grup de atracții. Parcarea poate fi dificilă; căutați o parcare publică.",
+            "en": "Drive to the next cluster. Parking can be tricky; look for a public car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado de Abastos & Museum",
+            "hu": "Abastos Piac és Múzeum",
+            "ro": "Piața de Abastos și Muzeul",
+            "en": "Abastos Market & Museum"
+          },
+          "coords": [
+            -8.5398,
+            42.8815
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Marktbesuch mit dem nahegelegenen Museum des galicischen Volkes für einen Nachmittag voller Kultur.",
+            "hu": "Kombinálja a piac látogatását a közeli Galíciai Nép Múzeumával egy kultúrával teli délutánért.",
+            "ro": "Combinați vizita la piață cu Muzeul Poporului Galician din apropiere pentru o după-amiază culturală.",
+            "en": "Combine the market visit with the nearby Museum of the Galician People for a cultural afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto beginnt am Alameda-Park, wo Sie einen ersten Blick auf die Skyline der Stadt werfen. Nach einem Spaziergang fahren Sie zum Zentrum und parken in der Nähe der Praza de Galicia. Von dort aus erkunden Sie den monumentalen Kern zu Fuß: die Kathedrale, den Obradoiro-Platz und die historischen Gebäude. Zum Mittagessen und für den Nachmittag fahren Sie zum nächsten Cluster um den Mercado de Abastos. Dort tauchen Sie in das Marktleben ein, genießen ein authentisches Essen und besuchen anschließend das Museum des galicischen Volkes. Diese Cluster-Strategie ermöglicht es Ihnen, weite Strecken bequem zurückzulegen und die wichtigsten Bereiche intensiv zu Fuß zu erleben.",
+        "hu": "Az autós napja az Alameda Parknál kezdődik, ahol először megpillanthatja a város sziluettjét. Egy séta után a központba hajt, és a Praza de Galicia közelében parkol. Innen gyalogosan fedezi fel a monumentális központot: a katedrálist, az Obradoiro teret és a történelmi épületeket. Ebédre és a délutánra a következő látnivaló-csoporthoz, a Mercado de Abastos környékére hajt. Ott elmerül a piaci életben, elfogyaszt egy autentikus ebédet, majd meglátogatja a Galíciai Nép Múzeumát. Ez a klaszter-stratégia lehetővé teszi, hogy a nagyobb távolságokat kényelmesen tegye meg, és a legfontosabb területeket intenzíven, gyalogosan élvezze.",
+        "ro": "Ziua cu mașina începe la Parcul Alameda, unde aveți o primă vedere a liniei orizontului orașului. După o plimbare, conduceți spre centru și parcați lângă Praza de Galicia. De acolo, explorați nucleul monumental pe jos: catedrala, Piața Obradoiro și clădirile istorice. Pentru prânz și după-amiază, conduceți spre următorul cluster din jurul Pieței de Abastos. Acolo, vă scufundați în viața pieței, savurați o masă autentică și apoi vizitați Muzeul Poporului Galician. Această strategie de clustere vă permite să parcurgeți distanțe mari confortabil și să experimentați intensiv zonele cheie pe jos.",
+        "en": "Your day by car begins at Alameda Park, where you get a first glimpse of the city's skyline. After a walk, you drive to the center and park near Praza de Galicia. From there, you explore the monumental core on foot: the cathedral, Obradoiro Square, and the historic buildings. For lunch and the afternoon, you drive to the next cluster around Mercado de Abastos. There, you immerse yourself in the market life, enjoy an authentic meal, and then visit the Museum of the Galician People. This cluster strategy allows you to cover long distances comfortably and experience the key areas intensively on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Dezaseis",
+            "tip": "Bekannt für traditionelle galicische Küche in einem rustikalen Steingebäude."
+          },
+          {
+            "name": "A Horta d'Obradoiro",
+            "tip": "Bietet moderne galicische Küche mit Zutaten aus dem eigenen Garten."
+          },
+          {
+            "name": "Markt-Bars",
+            "tip": "Die authentischste Erfahrung: Kaufen Sie frische Meeresfrüchte und lassen Sie sie in einer der Bars zubereiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante Dezaseis",
+            "tip": "Hagyományos galíciai konyhájáról ismert egy rusztikus kőépületben."
+          },
+          {
+            "name": "A Horta d'Obradoiro",
+            "tip": "Modern galíciai konyhát kínál saját kertjükből származó alapanyagokból."
+          },
+          {
+            "name": "Piaci bárok",
+            "tip": "A legautentikusabb élmény: vegyen friss tenger gyümölcseit, és készíttesse el az egyik bárban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Dezaseis",
+            "tip": "Renumit pentru bucătăria tradițională galiciană într-o clădire rustică din piatră."
+          },
+          {
+            "name": "A Horta d'Obradoiro",
+            "tip": "Oferă bucătărie galiciană modernă cu ingrediente din propria grădină."
+          },
+          {
+            "name": "Barurile din piață",
+            "tip": "Cea mai autentică experiență: cumpărați fructe de mare proaspete și lăsați-le să fie gătite la unul dintre baruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante Dezaseis",
+            "tip": "Known for traditional Galician cuisine in a rustic stone building."
+          },
+          {
+            "name": "A Horta d'Obradoiro",
+            "tip": "Offers modern Galician cuisine with ingredients from their own garden."
+          },
+          {
+            "name": "Market Bars",
+            "tip": "The most authentic experience: buy fresh seafood and have it cooked at one of the bars."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Monte do Gozo",
+            "tip": "Eine kurze Autofahrt entfernt, bietet dieser Hügel einen Panoramablick auf die Stadt und ist der erste Anblick der Kathedrale für Pilger.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Parque de Carlomagno",
+            "tip": "Ein ruhiger, moderner Park in der Nähe des Museums, ideal für eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Fluss Sar",
+            "tip": "Fahren Sie zu den Außenbezirken für einen friedlichen Spaziergang entlang des Flusses.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monte do Gozo",
+            "tip": "Rövid autóútra található ez a hegy, ahonnan panorámás kilátás nyílik a városra, és a zarándokok innen pillantják meg először a katedrálist.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Carlomagno Park",
+            "tip": "Csendes, modern park a múzeum közelében, ideális egy pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Sar folyó mentén",
+            "tip": "Hajtson ki a külvárosba egy békés sétáért a folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monte do Gozo",
+            "tip": "La o scurtă călătorie cu mașina, acest deal oferă o vedere panoramică a orașului și este prima priveliște a catedralei pentru pelerini.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Parcul Carlomagno",
+            "tip": "Un parc modern și liniștit, aproape de muzeu, ideal pentru o pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul râului Sar",
+            "tip": "Conduceți la periferie pentru o plimbare liniștită de-a lungul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monte do Gozo",
+            "tip": "A short drive away, this hill offers panoramic views of the city and is the first sight of the cathedral for pilgrims.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Carlomagno Park",
+            "tip": "A quiet, modern park near the museum, ideal for a break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the Sar River",
+            "tip": "Drive to the outskirts for a peaceful walk along the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Comercial As Cancelas",
+            "tip": "Ein modernes Einkaufszentrum am Stadtrand für bekannte Marken und einen Food Court."
+          },
+          {
+            "name": "Sargadelos Keramik",
+            "tip": "Kaufen Sie die berühmte blau-weiße Keramik Galiciens als hochwertiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centro Comercial As Cancelas",
+            "tip": "Modern bevásárlóközpont a város szélén ismert márkákért és ételudvarért."
+          },
+          {
+            "name": "Sargadelos kerámia",
+            "tip": "Vásárolja meg Galícia híres kék-fehér kerámiáját minőségi szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centro Comercial As Cancelas",
+            "tip": "Un centru comercial modern la marginea orașului pentru mărci cunoscute și o zonă de restaurante."
+          },
+          {
+            "name": "Ceramică Sargadelos",
+            "tip": "Cumpărați celebra ceramică albastră și albă din Galicia ca suvenir de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centro Comercial As Cancelas",
+            "tip": "A modern shopping mall on the outskirts for familiar brands and a food court."
+          },
+          {
+            "name": "Sargadelos Pottery",
+            "tip": "Buy the famous blue and white pottery of Galicia as a high-quality souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Altstadt ist nahezu unmöglich. Nutzen Sie die ausgewiesenen Tiefgaragen.",
+          "Planen Sie zusätzliche Zeit für den Verkehr und die Parkplatzsuche ein.",
+          "Ein kleines Auto ist in den engen Straßen der Außenbezirke von Vorteil.",
+          "Achten Sie auf die ZTL-Zonen (verkehrsberuhigte Bereiche), in die nur Anwohner fahren dürfen."
+        ],
+        "hu": [
+          "Az óvárosban parkolni szinte lehetetlen. Használja a kijelölt mélygarázsokat.",
+          "Tervezzen plusz időt a forgalomra és a parkolóhely keresésére.",
+          "Egy kis autó előnyös a külvárosok szűk utcáin.",
+          "Figyeljen a ZTL zónákra (korlátozott forgalmú területek), ahova csak a lakosok hajthatnak be."
+        ],
+        "ro": [
+          "Parcarea în orașul vechi este aproape imposibilă. Folosiți parcările subterane desemnate.",
+          "Planificați timp suplimentar pentru trafic și căutarea unui loc de parcare.",
+          "O mașină mică este avantajoasă pe străzile înguste din suburbii.",
+          "Fiți atenți la zonele ZTL (zone cu trafic limitat) unde doar rezidenții au voie să conducă."
+        ],
+        "en": [
+          "Parking in the old town is nearly impossible. Use the designated underground car parks.",
+          "Plan for extra time for traffic and finding parking.",
+          "A small car is advantageous in the narrow streets of the outskirts.",
+          "Be aware of ZTL zones (limited traffic zones) where only residents are allowed to drive."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Praza de Galicia",
+            "hu": "Érkezés a Praza de Galicia térre",
+            "ro": "Sosire în Praza de Galicia",
+            "en": "Arrival at Praza de Galicia"
+          },
+          "coords": [
+            -8.5427,
+            42.8762
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Viele Buslinien halten hier. Es ist der perfekte Ausgangspunkt für den historischen Kern.",
+            "hu": "Sok buszjárat megáll itt. Tökéletes kiindulópont a történelmi központ felfedezéséhez.",
+            "ro": "Multe linii de autobuz opresc aici. Este punctul de plecare perfect pentru centrul istoric.",
+            "en": "Many bus lines stop here. It's the perfect starting point for the historic core."
+          }
+        },
+        {
+          "name": {
+            "de": "Praza do Obradoiro & Kathedrale",
+            "hu": "Obradoiro tér és katedrális",
+            "ro": "Piața Obradoiro și Catedrala",
+            "en": "Obradoiro Square & Cathedral"
+          },
+          "coords": [
+            -8.5448,
+            42.8782
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang hier und saugen Sie die Atmosphäre des berühmtesten Platzes auf.",
+            "hu": "Kezdje itt a sétát, és szívja magába a leghíresebb tér hangulatát.",
+            "ro": "Începeți turul pe jos de aici și absorbiți atmosfera celei mai faimoase piețe.",
+            "en": "Start your walking tour here and soak in the atmosphere of the most famous square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster San Martiño Pinario",
+            "hu": "San Martiño Pinario kolostor",
+            "ro": "Mănăstirea San Martiño Pinario",
+            "en": "Monastery of San Martiño Pinario"
+          },
+          "coords": [
+            -8.5448,
+            42.8821
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kathedrale entfernt, oft weniger überlaufen.",
+            "hu": "Rövid sétára a katedrálistól, gyakran kevésbé zsúfolt.",
+            "ro": "La o scurtă plimbare de catedrală, adesea mai puțin aglomerat.",
+            "en": "A short walk from the cathedral, often less crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Mercado de Abastos",
+            "hu": "Busz az Abastos piachoz",
+            "ro": "Autobuz spre Piața de Abastos",
+            "en": "Bus to Mercado de Abastos"
+          },
+          "coords": [
+            -8.5404,
+            42.8804
+          ],
+          "category": "transport",
+          "arrive_at": "12:50",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zum nächsten Cluster für Ihr Mittagessen zu gelangen.",
+            "hu": "Vegyen egy helyi buszt, hogy eljusson a következő látnivaló-csoporthoz az ebédhez.",
+            "ro": "Luați un autobuz local pentru a ajunge la următorul cluster pentru prânz.",
+            "en": "Take a local bus to get to the next cluster for your lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen & Museum des galicischen Volkes",
+            "hu": "Ebéd és a Galíciai Nép Múzeuma",
+            "ro": "Prânz și Muzeul Poporului Galician",
+            "en": "Lunch & Museum of the Galician People"
+          },
+          "coords": [
+            -8.5392,
+            42.8827
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Markt und das nahe gelegene Museum zu Fuß.",
+            "hu": "Fedezze fel gyalog a piacot és a közeli múzeumot.",
+            "ro": "Explorați piața și muzeul din apropiere pe jos.",
+            "en": "Explore the market and the nearby museum on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Alameda Park",
+            "hu": "Busz az Alameda Parkba",
+            "ro": "Autobuz spre Parcul Alameda",
+            "en": "Bus to Alameda Park"
+          },
+          "coords": [
+            -8.5495,
+            42.8767
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 95,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer entspannten Zeit im Park und genießen Sie die Aussicht, bevor Sie den Bus zurück nehmen.",
+            "hu": "Zárja a napot egy pihentető időtöltéssel a parkban, élvezve a kilátást, mielőtt visszaindulna a busszal.",
+            "ro": "Încheiați ziua cu un moment de relaxare în parc, bucurându-vă de priveliște înainte de a lua autobuzul înapoi.",
+            "en": "End the day with some relaxing time in the park, enjoying the views before taking a bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus erreichen Sie bequem die Praza de Galicia, den Ausgangspunkt Ihres Stadtrundgangs. Der Vormittag gehört dem historischen Zentrum, das Sie zu Fuß erkunden: die Kathedrale, der Obradoiro-Platz und das Kloster San Martiño Pinario. Zur Mittagszeit bringt Sie ein kurzer Bus-Hop zum Mercado de Abastos. Dort stärken Sie sich und besuchen anschließend das Museum des galicischen Volkes. Den Nachmittag lassen Sie im Alameda-Park ausklingen, den Sie ebenfalls bequem mit dem Bus erreichen, und genießen von dort den Panoramablick auf die Stadt, die Sie gerade erkundet haben.",
+        "hu": "Busszal kényelmesen elérheti a Praza de Galicia teret, a városnéző séta kiindulópontját. A délelőtt a történelmi központé, amelyet gyalogosan fedez fel: a katedrális, az Obradoiro tér és a San Martiño Pinario kolostor. Délidőben egy rövid buszozás elviszi a Mercado de Abastos piacra. Ott erőt gyűjt, majd meglátogatja a Galíciai Nép Múzeumát. A délutánt az Alameda Parkban zárja, amelyet szintén kényelmesen elér busszal, és onnan élvezi a panorámás kilátást a városra, amelyet éppen felfedezett.",
+        "ro": "Cu autobuzul, ajungeți confortabil în Praza de Galicia, punctul de plecare al turului dumneavoastră pietonal. Dimineața este dedicată centrului istoric, pe care îl explorați pe jos: catedrala, Piața Obradoiro și Mănăstirea San Martiño Pinario. La prânz, un scurt salt cu autobuzul vă duce la Piața de Abastos. Acolo vă refaceți forțele și apoi vizitați Muzeul Poporului Galician. Încheiați după-amiaza în Parcul Alameda, la care ajungeți tot confortabil cu autobuzul, și bucurați-vă de vederea panoramică asupra orașului pe care tocmai l-ați explorat.",
+        "en": "By bus, you'll comfortably reach Praza de Galicia, the starting point of your city walk. The morning is dedicated to the historic center, which you'll explore on foot: the cathedral, Obradoiro Square, and the Monastery of San Martiño Pinario. At lunchtime, a short bus hop takes you to the Mercado de Abastos. There, you'll refuel and then visit the Museum of the Galician People. You'll end the afternoon in Alameda Park, also easily reached by bus, enjoying the panoramic view of the city you've just explored."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillos",
+            "tip": "Frisch belegte Baguettes vom Markt sind ein perfektes, unkompliziertes Mittagessen."
+          },
+          {
+            "name": "Caldo Gallego",
+            "tip": "Eine herzhafte Suppe mit Gemüse, Bohnen und oft Fleisch, ideal an kühleren Tagen."
+          },
+          {
+            "name": "Fillos",
+            "tip": "Dünne Crêpes, die süß oder herzhaft gefüllt sein können. Eine lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillók",
+            "tip": "A piacon kapható frissen készített szendvicsek tökéletes, egyszerű ebédet jelentenek."
+          },
+          {
+            "name": "Caldo Gallego",
+            "tip": "Kiadós leves zöldségekkel, babbal és gyakran hússal, ideális hűvösebb napokon."
+          },
+          {
+            "name": "Fillos",
+            "tip": "Vékony palacsinta, amely lehet édes vagy sós töltelékkel. Helyi specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillos",
+            "tip": "Sandvișuri proaspăt făcute de la piață sunt un prânz perfect și necomplicat."
+          },
+          {
+            "name": "Caldo Gallego",
+            "tip": "O supă consistentă cu legume, fasole și adesea carne, ideală în zilele mai răcoroase."
+          },
+          {
+            "name": "Fillos",
+            "tip": "Clătite subțiri care pot fi umplute cu ceva dulce sau sărat. O specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillos",
+            "tip": "Freshly made sandwiches from the market are a perfect, uncomplicated lunch."
+          },
+          {
+            "name": "Caldo Gallego",
+            "tip": "A hearty soup with greens, beans, and often meat, ideal on a cooler day."
+          },
+          {
+            "name": "Fillos",
+            "tip": "Thin crêpes that can be filled with sweet or savory ingredients. A local specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster San Francisco",
+            "tip": "Etwas abseits der Hauptrouten, bietet dieses Kloster eine Oase der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Flusses Sar",
+            "tip": "Einige Buslinien fahren in die Nähe des Flusses für einen friedlichen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Collegiata de Santa María la Real de Sar",
+            "tip": "Eine romanische Kirche etwas außerhalb des Zentrums, erreichbar mit dem Bus, bekannt für ihre geneigten Säulen.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Francisco kolostor",
+            "tip": "Kicsit távolabb a fő útvonalaktól, ez a kolostor a béke szigetét kínálja.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sar folyó partja",
+            "tip": "Néhány buszjárat a folyó közelébe visz egy békés sétáért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Collegiata de Santa María la Real de Sar",
+            "tip": "Román stílusú templom kicsit a központon kívül, busszal elérhető, ferde oszlopairól ismert.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea San Francisco",
+            "tip": "Puțin în afara rutelor principale, această mănăstire oferă o oază de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malurile râului Sar",
+            "tip": "Unele linii de autobuz ajung aproape de râu pentru o plimbare liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Collegiata de Santa María la Real de Sar",
+            "tip": "O biserică romanică puțin în afara centrului, accesibilă cu autobuzul, cunoscută pentru coloanele sale înclinate.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Convent of San Francisco",
+            "tip": "Slightly off the main routes, this convent offers an oasis of calm.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the River Sar",
+            "tip": "Some bus lines go near the river for a peaceful walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Collegiate Church of Santa María la Real de Sar",
+            "tip": "A Romanesque church just outside the center, reachable by bus, known for its inclined pillars.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rúa do Preguntoiro",
+            "tip": "Eine belebte Einkaufsstraße, die von der Altstadt ausgeht und leicht mit dem Bus zu erreichen ist."
+          },
+          {
+            "name": "Pilger-Souvenirs",
+            "tip": "Rund um die Kathedrale finden Sie unzählige Läden, die Jakobsmuscheln und andere Andenken verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rúa do Preguntoiro",
+            "tip": "Forgalmas bevásárlóutca, amely az óvárosból indul és busszal könnyen megközelíthető."
+          },
+          {
+            "name": "Zarándok-szuvenírek",
+            "tip": "A katedrális körül számtalan bolt található, ahol fésűkagylókat és egyéb emléktárgyakat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rúa do Preguntoiro",
+            "tip": "O stradă comercială aglomerată care pornește din orașul vechi și este ușor accesibilă cu autobuzul."
+          },
+          {
+            "name": "Suveniruri pentru pelerini",
+            "tip": "În jurul catedralei veți găsi nenumărate magazine care vând scoici Saint James și alte suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rúa do Preguntoiro",
+            "tip": "A bustling shopping street leading from the old town, easily reachable by bus."
+          },
+          {
+            "name": "Pilgrim Souvenirs",
+            "tip": "Around the cathedral, you'll find countless shops selling scallop shells and other keepsakes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine wiederaufladbare Buskarte (Bonobús) für günstigere Fahrten.",
+          "Die meisten Busse haben eine Digitalanzeige für die nächste Haltestelle.",
+          "Laden Sie die offizielle Bus-App herunter, um Echtzeit-Fahrpläne zu erhalten.",
+          "Zu Stoßzeiten können die Busse voll sein, planen Sie entsprechend."
+        ],
+        "hu": [
+          "Vásároljon újratölthető buszkártyát (Bonobús) az olcsóbb utazásokhoz.",
+          "A legtöbb buszon van digitális kijelző a következő megállóhoz.",
+          "Töltse le a hivatalos buszalkalmazást a valós idejű menetrendekért.",
+          "Csúcsidőben a buszok tele lehetnek, tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Cumpărați un card de autobuz reîncărcabil (Bonobús) pentru călătorii mai ieftine.",
+          "Majoritatea autobuzelor au un afișaj digital pentru următoarea stație.",
+          "Descărcați aplicația oficială a autobuzelor pentru orare în timp real.",
+          "Autobuzele pot fi aglomerate la orele de vârf, planificați în consecință."
+        ],
+        "en": [
+          "Buy a rechargeable bus card (Bonobús) for cheaper fares.",
+          "Most buses have a digital display for the next stop.",
+          "Download the official bus app for real-time schedules.",
+          "Buses can be crowded during peak hours, so plan accordingly."
+        ]
+      }
+    }
+  }
+}

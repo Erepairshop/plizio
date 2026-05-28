@@ -1,0 +1,1278 @@
+{
+  "city_id": "romania-mizil-cities-v2",
+  "anchor": {
+    "name": "Mizil",
+    "coords": [
+      26.43,
+      45
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Mizil",
+            "hu": "Mizil Városháza",
+            "ro": "Primăria Mizil",
+            "en": "Mizil Town Hall"
+          },
+          "coords": [
+            26.4315,
+            45.0005
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im administrativen Herzen der Stadt.",
+            "hu": "Kezdje a napot a város adminisztratív szívében.",
+            "ro": "Începeți ziua în inima administrativă a orașului.",
+            "en": "Start your day in the administrative heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldendenkmal",
+            "hu": "Hősök Emlékműve",
+            "ro": "Monumentul Eroilor",
+            "en": "Heroes' Monument"
+          },
+          "coords": [
+            26.433,
+            45.0015
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung auf die lokale Geschichte.",
+            "hu": "Egy pillanatnyi megemlékezés a helyi történelemről.",
+            "ro": "Un moment de reflecție asupra istoriei locale.",
+            "en": "A moment of reflection on local history."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            26.4355,
+            45.003
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die byzantinischen Einflüsse in der Architektur.",
+            "hu": "Figyelje meg a bizánci hatásokat az építészetben.",
+            "ro": "Observați influențele bizantine în arhitectură.",
+            "en": "Observe the Byzantine influences in the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Johannes-Kirche",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sfântul Ioan",
+            "en": "St. John's Church"
+          },
+          "coords": [
+            26.434,
+            44.999
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kleineres, aber ebenso charmantes Gotteshaus.",
+            "hu": "Egy kisebb, de ugyanolyan bájos imaház.",
+            "ro": "Un lăcaș de cult mai mic, dar la fel de fermecător.",
+            "en": "A smaller but equally charming place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus",
+            "hu": "Kultúrház",
+            "ro": "Casa de Cultură",
+            "en": "House of Culture"
+          },
+          "coords": [
+            26.429,
+            44.998
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:46",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob lokale Veranstaltungen oder Ausstellungen stattfinden.",
+            "hu": "Nézze meg, vannak-e helyi események vagy kiállítások.",
+            "ro": "Verificați dacă au loc evenimente sau expoziții locale.",
+            "en": "Check if there are any local events or exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Mizil",
+            "hu": "Mizil Vasútállomás",
+            "ro": "Gara Mizil",
+            "en": "Mizil Train Station"
+          },
+          "coords": [
+            26.442,
+            45.008
+          ],
+          "category": "historical",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Stellen Sie sich die geschäftige Vergangenheit dieses Verkehrsknotenpunkts vor.",
+            "hu": "Képzelje el e közlekedési csomópont nyüzsgő múltját.",
+            "ro": "Imaginați-vă trecutul plin de viață al acestui nod de transport.",
+            "en": "Imagine the bustling past of this transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Mizil",
+            "hu": "Mizil Városi Park",
+            "ro": "Parcul Orașului Mizil",
+            "en": "Mizil City Park"
+          },
+          "coords": [
+            26.425,
+            45.0025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine entspannte Pause am Nachmittag.",
+            "hu": "Tökéletes hely egy pihentető délutáni szünethez.",
+            "ro": "Un loc perfect pentru o pauză relaxantă de după-amiază.",
+            "en": "A perfect spot for a relaxing afternoon break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang im Herzen von Mizil am Rathaus und dem Heldendenkmal, wo die Geschichte der Stadt spürbar wird. Am Vormittag erkunden Sie die spirituelle Seite mit Besuchen der orthodoxen Kirchen, die Ruhe und architektonische Schönheit ausstrahlen. Der Mittag führt Sie zum historischen Bahnhof, einem Zeugen vergangener Zeiten. Schließen Sie den Tag mit einem gemütlichen Spaziergang und einer wohlverdienten Pause im Stadtpark ab, der grünen Lunge der Stadt, bevor Sie sich mit lokalen Spezialitäten stärken.",
+        "hu": "Kezdje a sétát Mizil szívében, a Városházánál és a Hősök Emlékművénél, ahol a város történelme kézzelfogható. A délelőtt folyamán fedezze fel a spirituális oldalt az ortodox templomok meglátogatásával, melyek nyugalmat és építészeti szépséget sugároznak. Délben a történelmi vasútállomás felé veszi az irányt, amely a múlt tanúja. A napot egy kellemes sétával és egy jól megérdemelt pihenővel zárja a Városi Parkban, a város zöld tüdejében, mielőtt helyi specialitásokkal frissítené fel magát.",
+        "ro": "Începeți turul pietonal în inima Mizilului, la Primărie și Monumentul Eroilor, unde istoria orașului devine palpabilă. Dimineața, explorați latura spirituală vizitând bisericile ortodoxe, care emană liniște și frumusețe arhitecturală. La prânz, vă îndreptați spre gara istorică, un martor al timpurilor trecute. Încheiați ziua cu o plimbare agale și o pauză binemeritată în Parcul Orașului, plămânul verde al urbei, înainte de a vă bucura de specialitățile locale.",
+        "en": "Start your walking tour in the heart of Mizil at the Town Hall and the Heroes' Monument, where the town's history becomes palpable. In the morning, explore the spiritual side by visiting the Orthodox churches, which exude tranquility and architectural beauty. At noon, head to the historic train station, a witness to times gone by. Conclude the day with a leisurely stroll and a well-deserved break in the City Park, the town's green lung, before enjoying local specialties."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sarmale",
+            "tip": "Kohlrouladen nach rumänischer Art, serviert mit Mămăligă (Polenta)."
+          },
+          {
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen, ein beliebtes Streetfood."
+          },
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Eine traditionelle Kuttelsuppe, oft mit Sauerrahm und Chili serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sarmale",
+            "tip": "Román stílusú töltött káposzta, mămăligă-val (puliszkával) tálalva."
+          },
+          {
+            "name": "Mici",
+            "tip": "Grillezett fasírtrolád, népszerű street food."
+          },
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Hagyományos pacalleves, gyakran tejföllel és csilivel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sarmale",
+            "tip": "Sărmăluțe în foi de varză, servite cu mămăliguță."
+          },
+          {
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar, un preparat popular de tip street-food."
+          },
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "O supă tradițională, adesea servită cu smântână și ardei iute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sarmale",
+            "tip": "Romanian-style cabbage rolls, served with mămăligă (polenta)."
+          },
+          {
+            "name": "Mici",
+            "tip": "Grilled minced meat rolls, a popular street food."
+          },
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "A traditional tripe soup, often served with sour cream and chili."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark Mizil",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innenhof der St.-Nikolaus-Kirche",
+            "tip": "Ein friedlicher Ort für einen Moment der Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mizil Városi Park",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Miklós-templom udvara",
+            "tip": "Békés hely egy csendes pillanathoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Orașului Mizil",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Bisericii Sfântul Nicolae",
+            "tip": "Un loc pașnic pentru un moment de reculegere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mizil City Park",
+            "tip": "Find a quiet bench and enjoy nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of St. Nicholas Church",
+            "tip": "A peaceful place for a moment of silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach frischen Produkten und handgemachten Waren von lokalen Bauern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen friss termékeket és kézzel készített árukat a helyi gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse proaspete și articole artizanale de la fermierii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for fresh produce and handmade goods from local farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Nehmen Sie eine Wasserflasche mit, besonders an warmen Tagen.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Prüfen Sie die Öffnungszeiten der Kirchen vor Ihrem Besuch."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részét gyalog fogja tölteni.",
+          "Vigyen magával egy üveg vizet, különösen meleg napokon.",
+          "A legtöbb látnivaló közel van egymáshoz.",
+          "Látogatás előtt ellenőrizze a templomok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Luați o sticlă de apă, mai ales în zilele călduroase.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă.",
+          "Verificați programul bisericilor înainte de vizită."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking for most of the day.",
+          "Bring a water bottle, especially on warm days.",
+          "Most of the attractions are close to each other.",
+          "Check the opening hours of the churches before your visit."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:11",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Mizil",
+            "hu": "Mizil Városháza",
+            "ro": "Primăria Mizil",
+            "en": "Mizil Town Hall"
+          },
+          "coords": [
+            26.4315,
+            45.0005
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt Ihrer Radtour, um einen ersten Eindruck zu bekommen.",
+            "hu": "A kerékpártúra kiindulópontja, hogy első benyomást szerezzen.",
+            "ro": "Punctul de plecare al turului pe bicicletă pentru o primă impresie.",
+            "en": "The starting point of your bike tour to get a first impression."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldendenkmal",
+            "hu": "Hősök Emlékműve",
+            "ro": "Monumentul Eroilor",
+            "en": "Heroes' Monument"
+          },
+          "coords": [
+            26.433,
+            45.0015
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um dem historischen Erbe zu gedenken.",
+            "hu": "Rövid megálló a történelmi örökség előtti tisztelgéshez.",
+            "ro": "O scurtă oprire pentru a comemora moștenirea istorică.",
+            "en": "A brief stop to commemorate the historical heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            26.4355,
+            45.003
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und nehmen Sie sich Zeit für das Innere.",
+            "hu": "Zárja le a kerékpárt, és szánjon időt a belső tér megtekintésére.",
+            "ro": "Legați-vă bicicleta și acordați-vă timp pentru a explora interiorul.",
+            "en": "Lock up your bike and take some time to explore the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtbibliothek",
+            "hu": "Városi Könyvtár",
+            "ro": "Biblioteca Orășenească",
+            "en": "City Library"
+          },
+          "coords": [
+            26.428,
+            45.0
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Blick auf das literarische Zentrum der Stadt.",
+            "hu": "Rövid betekintés a város irodalmi központjába.",
+            "ro": "O privire rapidă asupra centrului literar al orașului.",
+            "en": "A quick look at the city's literary center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus",
+            "hu": "Kultúrház",
+            "ro": "Casa de Cultură",
+            "en": "House of Culture"
+          },
+          "coords": [
+            26.429,
+            44.998
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:08",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das kulturelle Herzstück, oft Schauplatz lokaler Aufführungen.",
+            "hu": "A kulturális központ, gyakran helyi előadások helyszíne.",
+            "ro": "Inima culturală, adesea scena spectacolelor locale.",
+            "en": "The cultural heart, often the stage for local performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Mizil",
+            "hu": "Mizil Vasútállomás",
+            "ro": "Gara Mizil",
+            "en": "Mizil Train Station"
+          },
+          "coords": [
+            26.442,
+            45.008
+          ],
+          "category": "historical",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein längerer Halt, um die Architektur dieses historischen Gebäudes zu würdigen.",
+            "hu": "Hosszabb megálló e történelmi épület építészetének méltatására.",
+            "ro": "O oprire mai lungă pentru a aprecia arhitectura acestei clădiri istorice.",
+            "en": "A longer stop to appreciate the architecture of this historic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Mizil",
+            "hu": "Mizil Városi Park",
+            "ro": "Parcul Orașului Mizil",
+            "en": "Mizil City Park"
+          },
+          "coords": [
+            26.425,
+            45.0025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Radeln Sie durch den Park oder entspannen Sie sich auf dem Gras.",
+            "hu": "Kerékpározzon át a parkon, vagy pihenjen a fűben.",
+            "ro": "Pedalați prin parc sau relaxați-vă pe iarbă.",
+            "en": "Cycle through the park or relax on the grass."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour am Rathaus, dem pulsierenden Zentrum von Mizil. Eine kurze Fahrt führt Sie zu historischen und spirituellen Orten, die die Identität der Stadt prägen. Am Mittag erreichen Sie den Bahnhof, ein architektonisches Juwel, bevor Sie zum kulturellen Kern der Stadt weiterradeln. Der Nachmittag ist für eine entspannte Fahrt und eine Pause im Stadtpark reserviert, wo Sie die frische Luft genießen können, bevor Sie den Tag ausklingen lassen.",
+        "hu": "Pattanjon nyeregbe, és kezdje a túrát a Városházánál, Mizil lüktető központjában. Egy rövid út elvezeti a város identitását formáló történelmi és spirituális helyekhez. Délben eléri a vasútállomást, egy építészeti gyöngyszemet, mielőtt tovább tekeregne a város kulturális magja felé. A délután egy laza tekerésre és egy pihenőre van fenntartva a Városi Parkban, ahol élvezheti a friss levegőt, mielőtt lezárná a napot.",
+        "ro": "Urcați-vă în șa și începeți turul de la Primărie, centrul vibrant al Mizilului. O scurtă pedalare vă va duce la locuri istorice și spirituale care modelează identitatea orașului. La prânz, ajungeți la gară, o bijuterie arhitecturală, înainte de a continua spre nucleul cultural al orașului. După-amiaza este rezervată pentru o plimbare relaxantă și o pauză în Parcul Orașului, unde vă puteți bucura de aer curat înainte de a încheia ziua.",
+        "en": "Get on your bike and start your tour at the Town Hall, the vibrant center of Mizil. A short ride will take you to historical and spiritual sites that shape the city's identity. At noon, you'll reach the train station, an architectural gem, before continuing to the city's cultural core. The afternoon is reserved for a relaxed ride and a break in the City Park, where you can enjoy the fresh air before ending the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Ein herzhafter Kuchen mit Käse, perfekt für eine schnelle Stärkung."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "Ein Gemüseaufstrich aus Auberginen und Paprika, köstlich auf frischem Brot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Sós, túrós pite, tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "Padlizsánból és paprikából készült zöldségkrém, finom friss kenyérrel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "O gustare sărată, perfectă pentru o pauză rapidă."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "O pastă de legume din vinete și ardei, delicioasă pe pâine proaspătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "A savory pie with cheese, perfect for a quick snack."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "A vegetable spread made from eggplants and peppers, delicious on fresh bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Baches",
+            "tip": "Suchen Sie einen ruhigen Platz entlang eines lokalen Baches.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark Mizil",
+            "tip": "Ideal für eine Radpause im Schatten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Patakpart",
+            "tip": "Keressen egy csendes helyet egy helyi patak mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mizil Városi Park",
+            "tip": "Ideális egy árnyékos kerékpáros pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul pârâului",
+            "tip": "Găsiți un loc liniștit de-a lungul unui pârâu local.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Orașului Mizil",
+            "tip": "Ideal pentru o pauză de bicicletă la umbră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Creek bank",
+            "tip": "Find a quiet spot along a local creek.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mizil City Park",
+            "tip": "Ideal for a cycling break in the shade.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Halten Sie Ausschau nach kleinen Läden, die traditionelle Töpferwaren oder Textilien verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keresse a hagyományos kerámiákat vagy textíliákat árusító kis boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați mici magazine care vând ceramică tradițională sau textile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local craft shops",
+            "tip": "Look for small shops selling traditional pottery or textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Die Stadt ist relativ flach, was das Radfahren erleichtert.",
+          "Achten Sie auf den Verkehr, besonders im Stadtzentrum."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt.",
+          "Vigyen magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a megállóknál.",
+          "A város viszonylag sík, ami megkönnyíti a kerékpározást.",
+          "Vigyázzon a forgalomra, különösen a városközpontban."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Orașul este relativ plat, ceea ce face ciclismul ușor.",
+          "Fiți atenți la trafic, în special în centrul orașului."
+        ],
+        "en": [
+          "Check your bike before you leave.",
+          "Bring a lock to secure your bike at the stops.",
+          "The city is relatively flat, which makes cycling easy.",
+          "Be aware of the traffic, especially in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Mizil (Cluster A)",
+            "hu": "Mizil Vasútállomás (A klaszter)",
+            "ro": "Gara Mizil (Cluster A)",
+            "en": "Mizil Train Station (Cluster A)"
+          },
+          "coords": [
+            26.442,
+            45.008
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihre Erkundung des historischen Viertels.",
+            "hu": "Parkoljon itt, és kezdje meg a történelmi negyed felfedezését.",
+            "ro": "Parcați aici și începeți explorarea zonei istorice.",
+            "en": "Park here and start your exploration of the historical area."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            26.4355,
+            45.003
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof zu diesem spirituellen Zentrum.",
+            "hu": "Rövid séta a vasútállomástól ehhez a spirituális központhoz.",
+            "ro": "O scurtă plimbare de la gară la acest centru spiritual.",
+            "en": "A short walk from the train station to this spiritual center."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Mizil (Cluster B)",
+            "hu": "Mizil Városháza (B klaszter)",
+            "ro": "Primăria Mizil (Cluster B)",
+            "en": "Mizil Town Hall (Cluster B)"
+          },
+          "coords": [
+            26.4315,
+            45.0005
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Stadtzentrum, parken Sie erneut und erkunden Sie den Hauptplatz.",
+            "hu": "Vezessen a városközpontba, parkoljon le újra, és fedezze fel a főteret.",
+            "ro": "Conduceți în centrul orașului, parcați din nou și explorați piața principală.",
+            "en": "Drive to the city center, park again, and explore the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldendenkmal",
+            "hu": "Hősök Emlékműve",
+            "ro": "Monumentul Eroilor",
+            "en": "Heroes' Monument"
+          },
+          "coords": [
+            26.433,
+            45.0015
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:58",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Schritte vom Rathaus entfernt.",
+            "hu": "Csak néhány lépésre a Városházától.",
+            "ro": "La doar câțiva pași de Primărie.",
+            "en": "Just a few steps from the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus",
+            "hu": "Kultúrház",
+            "ro": "Casa de Cultură",
+            "en": "House of Culture"
+          },
+          "coords": [
+            26.429,
+            44.998
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:23",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang im Stadtzentrum hier.",
+            "hu": "Fejezze be a belvárosi sétát itt.",
+            "ro": "Încheiați plimbarea prin centrul orașului aici.",
+            "en": "Finish your walk through the city center here."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Mizil",
+            "hu": "Mizil Városi Park",
+            "ro": "Parcul Orașului Mizil",
+            "en": "Mizil City Park"
+          },
+          "coords": [
+            26.425,
+            45.0025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park für einen entspannten Nachmittag.",
+            "hu": "Vezessen a parkba egy pihentető délutánért.",
+            "ro": "Conduceți la parc pentru o după-amiază relaxantă.",
+            "en": "Drive to the park for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um Mizil in Clustern zu erkunden. Beginnen Sie am Bahnhof und spazieren Sie zu den nahegelegenen Kirchen. Fahren Sie dann ins Zentrum, um das Rathaus und die kulturellen Einrichtungen zu Fuß zu entdecken. Der Vormittag ist der Erkundung des städtischen Kerns gewidmet, der eine Mischung aus Geschichte und lokalem Leben bietet. Beenden Sie Ihren Tag mit einer kurzen Fahrt zum Stadtpark, wo Sie sich nach den Erkundungen des Vormittags entspannen können.",
+        "hu": "Használja ki az autó rugalmasságát, hogy Mizilt klaszterekben fedezze fel. Kezdje a vasútállomásnál, és sétáljon el a közeli templomokhoz. Ezután vezessen a központba, hogy gyalog fedezze fel a Városházát és a kulturális intézményeket. A délelőtt a városi mag felfedezésének van szentelve, amely a történelem és a helyi élet keverékét kínálja. A napot egy rövid autózással zárja a Városi Parkba, ahol a délelőtti felfedezések után pihenhet.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a explora Mizilul în clustere. Începeți de la gară și plimbați-vă la bisericile din apropiere. Apoi, conduceți spre centru pentru a descoperi Primăria și instituțiile culturale la pas. Dimineața este dedicată explorării nucleului urban, care oferă un amestec de istorie și viață locală. Încheiați ziua cu o scurtă călătorie cu mașina până la Parcul Orașului, unde vă puteți relaxa după explorările de dimineață.",
+        "en": "Use the flexibility of the car to explore Mizil in clusters. Start at the train station and walk to the nearby churches. Then drive to the center to discover the Town Hall and cultural institutions on foot. The morning is dedicated to exploring the urban core, which offers a mix of history and local life. End your day with a short drive to the City Park, where you can relax after the morning's explorations."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Park",
+            "tip": "Suchen Sie ein Restaurant mit Blick auf den Stadtpark für ein entspanntes Mittagessen."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Probieren Sie Covrigi, einen rumänischen Brezel-ähnlichen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a parknál",
+            "tip": "Keressen egy éttermet, amely a Városi Parkra néz egy kellemes ebédhez."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Kóstolja meg a Covrigi-t, egy román perechez hasonló snacket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant lângă parc",
+            "tip": "Căutați un restaurant cu vedere la Parcul Orașului pentru un prânz relaxant."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Încercați Covrigi, o gustare asemănătoare covrigilor românești."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant by the park",
+            "tip": "Look for a restaurant overlooking the City Park for a relaxing lunch."
+          },
+          {
+            "name": "Local bakery",
+            "tip": "Try Covrigi, a Romanian pretzel-like snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Picknick im Stadtpark",
+            "tip": "Packen Sie einen Korb und genießen Sie eine Mahlzeit im Freien.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Früher Morgen am Bahnhof",
+            "tip": "Erleben Sie die Ruhe des Ortes, bevor die Züge ankommen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a Városi Parkban",
+            "tip": "Csomagoljon egy kosarat, és élvezze az ebédet a szabadban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggel a vasútállomáson",
+            "tip": "Tapasztalja meg a hely nyugalmát, mielőtt a vonatok megérkeznek.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic în Parcul Orașului",
+            "tip": "Împachetați un coș și bucurați-vă de o masă în aer liber.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dimineața devreme la gară",
+            "tip": "Experimentați liniștea locului înainte de sosirea trenurilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic in the City Park",
+            "tip": "Pack a basket and enjoy a meal outdoors.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Early morning at the train station",
+            "tip": "Experience the tranquility of the place before the trains arrive.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingut in der Nähe",
+            "tip": "Die Region ist für ihren Wein bekannt. Besuchen Sie ein Weingut für eine Verkostung und zum Kauf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Közeli borászat",
+            "tip": "A régió a borairól ismert. Látogasson el egy borászatba kóstolóra és vásárlásra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cramă din apropiere",
+            "tip": "Regiunea este cunoscută pentru vinul său. Vizitați o cramă pentru o degustare și cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nearby winery",
+            "tip": "The region is known for its wine. Visit a winery for a tasting and to buy some."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkmöglichkeiten sind im Zentrum möglicherweise begrenzt.",
+          "Planen Sie Ihre Route zwischen den Clustern im Voraus.",
+          "Ein Auto ermöglicht es Ihnen, auch nahegelegene Weingüter zu besuchen.",
+          "Achten Sie auf Einbahnstraßen im Stadtzentrum."
+        ],
+        "hu": [
+          "A parkolási lehetőségek korlátozottak lehetnek a központban.",
+          "Tervezze meg előre az útvonalat a klaszterek között.",
+          "Az autó lehetővé teszi a közeli borászatok meglátogatását is.",
+          "Vigyázzon az egyirányú utcákra a városközpontban."
+        ],
+        "ro": [
+          "Parcarea poate fi limitată în centru.",
+          "Planificați-vă traseul între clustere în avans.",
+          "O mașină vă permite să vizitați și cramele din apropiere.",
+          "Fiți atenți la străzile cu sens unic din centrul orașului."
+        ],
+        "en": [
+          "Parking may be limited in the center.",
+          "Plan your route between clusters in advance.",
+          "A car allows you to visit nearby wineries as well.",
+          "Pay attention to one-way streets in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Mizil (Cluster A)",
+            "hu": "Mizil Városháza (A klaszter)",
+            "ro": "Primăria Mizil (Cluster A)",
+            "en": "Mizil Town Hall (Cluster A)"
+          },
+          "coords": [
+            26.4315,
+            45.0005
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum und beginnen Sie hier Ihren Spaziergang.",
+            "hu": "Buszozzon be a központba, és itt kezdje a sétát.",
+            "ro": "Luați un autobuz spre centru și începeți plimbarea de aici.",
+            "en": "Take a bus to the center and start your walk here."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldendenkmal",
+            "hu": "Hősök Emlékműve",
+            "ro": "Monumentul Eroilor",
+            "en": "Heroes' Monument"
+          },
+          "coords": [
+            26.433,
+            45.0015
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus.",
+            "hu": "Rövid séta a Városházától.",
+            "ro": "O scurtă plimbare de la Primărie.",
+            "en": "A short walk from the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Johannes-Kirche",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sfântul Ioan",
+            "en": "St. John's Church"
+          },
+          "coords": [
+            26.434,
+            44.999
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang zu diesem ruhigen Ort fort.",
+            "hu": "Folytassa sétáját ehhez a békés helyhez.",
+            "ro": "Continuați plimbarea spre acest loc liniștit.",
+            "en": "Continue your walk to this peaceful place."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Mizil (Cluster B)",
+            "hu": "Mizil Vasútállomás (B klaszter)",
+            "ro": "Gara Mizil (Cluster B)",
+            "en": "Mizil Train Station (Cluster B)"
+          },
+          "coords": [
+            26.442,
+            45.008
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Bahnhof, dem nächsten Erkundungscluster.",
+            "hu": "Buszozzon a vasútállomásra, a következő felfedező klaszterhez.",
+            "ro": "Luați un autobuz până la gară, următorul cluster de explorare.",
+            "en": "Take a bus to the train station, the next exploration cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            26.4355,
+            45.003
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a vasútállomástól.",
+            "ro": "Ușor accesibil pe jos de la gară.",
+            "en": "Easily accessible on foot from the train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Mizil",
+            "hu": "Mizil Városi Park",
+            "ro": "Parcul Orașului Mizil",
+            "en": "Mizil City Park"
+          },
+          "coords": [
+            26.425,
+            45.0025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine letzte Busfahrt zum Park für einen entspannten Abschluss.",
+            "hu": "Egy utolsó buszozás a parkba egy pihentető befejezéshez.",
+            "ro": "O ultimă călătorie cu autobuzul până la parc pentru o încheiere relaxantă.",
+            "en": "A final bus ride to the park for a relaxing conclusion."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Mizil effizient mit öffentlichen Verkehrsmitteln, die Sie zwischen den Hauptinteressensgebieten transportieren. Beginnen Sie Ihren Tag im Stadtzentrum, wo Sie die wichtigsten Sehenswürdigkeiten zu Fuß erreichen können. Am Vormittag tauchen Sie in die lokale Atmosphäre ein. Ein Bus bringt Sie dann zum historischen Bahnhof, von wo aus Sie einen weiteren Teil der Stadt erkunden. Der Nachmittag steht im Zeichen der Entspannung im Stadtpark, der ebenfalls leicht mit dem Bus zu erreichen ist, und bietet einen grünen Abschluss Ihres Tages.",
+        "hu": "Fedezze fel Mizilt hatékonyan a tömegközlekedéssel, amely a főbb érdeklődési területek között szállítja. Kezdje a napot a városközpontban, ahol gyalogosan elérheti a főbb látnivalókat. A délelőtt folyamán merüljön el a helyi hangulatban. Egy busz elviszi a történelmi vasútállomásra, ahonnan a város egy másik részét fedezheti fel. A délután a Városi Parkban való pihenés jegyében telik, amely szintén könnyen megközelíthető busszal, és zöld lezárást kínál a napnak.",
+        "ro": "Explorați Mizilul eficient folosind transportul public pentru a vă deplasa între principalele zone de interes. Începeți ziua în centrul orașului, unde puteți ajunge pe jos la principalele atracții. Dimineața, cufundați-vă în atmosfera locală. Un autobuz vă va duce apoi la gara istorică, de unde puteți explora o altă parte a orașului. După-amiaza este dedicată relaxării în Parcul Orașului, ușor accesibil cu autobuzul, oferind o încheiere verde a zilei dumneavoastră.",
+        "en": "Explore Mizil efficiently using public transport to move between the main areas of interest. Start your day in the city center, where you can reach the main attractions on foot. In the morning, immerse yourself in the local atmosphere. A bus will then take you to the historic train station, from where you can explore another part of the city. The afternoon is dedicated to relaxing in the City Park, also easily accessible by bus, offering a green end to your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gogoși",
+            "tip": "Probieren Sie diese rumänischen Donuts, oft mit Puderzucker bestreut."
+          },
+          {
+            "name": "Ciorbă rădăuțeană",
+            "tip": "Eine Hühnersuppe, die mit Sahne und Knoblauch verfeinert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gogoși",
+            "tip": "Kóstolja meg ezeket a román fánkokat, gyakran porcukorral megszórva."
+          },
+          {
+            "name": "Ciorbă rădăuțeană",
+            "tip": "Tejföllel és fokhagymával ízesített csirkeleves."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gogoși",
+            "tip": "Încercați aceste gogoși românești, adesea pudrate cu zahăr."
+          },
+          {
+            "name": "Ciorbă rădăuțeană",
+            "tip": "O supă de pui îmbogățită cu smântână și usturoi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gogoși",
+            "tip": "Try these Romanian doughnuts, often dusted with powdered sugar."
+          },
+          {
+            "name": "Ciorbă rădăuțeană",
+            "tip": "A chicken soup enriched with cream and garlic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Fahrt durch die Außenbezirke",
+            "tip": "Beobachten Sie das alltägliche Leben vom Busfenster aus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank im Stadtpark",
+            "tip": "Der perfekte Ort, um auf den nächsten Bus zu warten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utazás a külvárosokon keresztül",
+            "tip": "Figyelje a mindennapi életet a busz ablakából.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a Városi Parkban",
+            "tip": "Tökéletes hely a következő buszra való várakozáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O călătorie prin suburbii",
+            "tip": "Observați viața de zi cu zi de la fereastra autobuzului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în Parcul Orașului",
+            "tip": "Locul perfect pentru a aștepta următorul autobuz.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A ride through the suburbs",
+            "tip": "Observe everyday life from the bus window.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in the City Park",
+            "tip": "The perfect place to wait for the next bus.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie Snacks und Getränke für Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon rágcsálnivalókat és italokat az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați gustări și băuturi pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy snacks and drinks for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Informieren Sie sich im Voraus über die Busfahrpläne.",
+          "Haben Sie Kleingeld für Tickets bereit, falls Sie im Bus kaufen.",
+          "Die Busse können zu Stoßzeiten voll sein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Előre tájékozódjon a buszmenetrendekről.",
+          "Készítsen elő aprópénzt a jegyekhez, ha a buszon vásárol.",
+          "A buszok csúcsidőben zsúfoltak lehetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați dinainte orarele autobuzelor.",
+          "Pregătiți bani mărunți pentru bilete dacă le cumpărați din autobuz.",
+          "Autobuzele pot fi aglomerate la orele de vârf."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Check the bus schedules in advance.",
+          "Have small change ready for tickets if buying on the bus.",
+          "Buses can be crowded during peak hours."
+        ]
+      }
+    }
+  }
+}

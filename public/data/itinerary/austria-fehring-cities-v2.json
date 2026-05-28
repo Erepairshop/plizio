@@ -1,0 +1,1188 @@
+{
+  "city_id": "austria-fehring-cities-v2",
+  "anchor": {
+    "name": "Fehring",
+    "coords": [
+      16.0125,
+      46.9456
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Fehring und Hauptplatz",
+            "hu": "Fehringi Városháza és Főtér",
+            "ro": "Primăria și Piața Principală Fehring",
+            "en": "Fehring Town Hall and Main Square"
+          },
+          "coords": [
+            16.0125,
+            46.9456
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a téren található egyik kávézóban.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the cafés in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche hl. Nikolaus",
+            "hu": "Szent Miklós plébániatemplom",
+            "ro": "Biserica parohială Sf. Nicolae",
+            "en": "Parish Church of St. Nicholas"
+          },
+          "coords": [
+            16.0133,
+            46.9449
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die barocken Details und die beeindruckende Orgel.",
+            "hu": "Figyelje meg a barokk részleteket és a lenyűgöző orgonát.",
+            "ro": "Observați detaliile baroce și orga impresionantă.",
+            "en": "Look for the baroque details and the impressive organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Gerberhaus",
+            "hu": "Gerberhaus (Cserzőház)",
+            "ro": "Casa Gerber (Tăbăcăria)",
+            "en": "Gerberhaus (Tanner's House)"
+          },
+          "coords": [
+            16.0119,
+            46.9445
+          ],
+          "category": "museums",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Museum zeigt die lokale Geschichte und das Handwerk der Region.",
+            "hu": "A múzeum a helyi történelmet és a régió kézművességét mutatja be.",
+            "ro": "Muzeul prezintă istoria locală și meșteșugurile din regiune.",
+            "en": "The museum displays local history and the region's crafts."
+          }
+        },
+        {
+          "name": {
+            "de": "Fehringer Tabor",
+            "hu": "Fehringi Tábor (erődítmény)",
+            "ro": "Taborul din Fehring",
+            "en": "Fehring Tabor (Fortification)"
+          },
+          "coords": [
+            16.0118,
+            46.9462
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Mauern dieser einzigartigen Kirchenfestung.",
+            "hu": "Fedezze fel ennek az egyedülálló erődtemplomnak a régi falait.",
+            "ro": "Explorați zidurile vechi ale acestei fortărețe bisericești unice.",
+            "en": "Explore the ancient walls of this unique church fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosegger-Park",
+            "hu": "Rosegger-Park",
+            "ro": "Parcul Rosegger",
+            "en": "Rosegger Park"
+          },
+          "coords": [
+            16.0145,
+            46.9465
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Mittagspause oder einen entspannten Spaziergang.",
+            "hu": "Ideális hely egy ebédszünetre vagy egy pihentető sétára.",
+            "ro": "Un loc ideal pentru o pauză de prânz sau o plimbare relaxantă.",
+            "en": "An ideal spot for a lunch break or a relaxing stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegerdenkmal",
+            "hu": "Hősi Emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            16.0135,
+            46.9458
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:12",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung an diesem Denkmal im Herzen der Stadt.",
+            "hu": "Egy pillanatnyi elcsendesedés a város szívében álló emlékműnél.",
+            "ro": "Un moment de reculegere la acest monument din inima orașului.",
+            "en": "A moment of reflection at this monument in the heart of the town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am lebhaften Hauptplatz von Fehring. Am Vormittag erkunden Sie das sakrale Erbe in der Pfarrkirche und die Handwerksgeschichte im Gerberhaus. Der Nachmittag steht im Zeichen der Geschichte am imposanten Tabor und der Entspannung im grünen Rosegger-Park. Ein kurzer Halt am Kriegerdenkmal rundet Ihren Tag ab, bevor Sie in einem lokalen Gasthaus einkehren.",
+        "hu": "Kezdje a sétát Fehring nyüzsgő főterén. A délelőtt folyamán fedezze fel a plébániatemplom szakrális örökségét és a Gerberhaus kézműves történelmét. A délután a lenyűgöző Tabor erődjének történelméről és a zöld Rosegger-Parkban való kikapcsolódásról szól. Egy rövid megálló a Hősi Emlékműnél zárja a napot, mielőtt betérne egy helyi vendéglőbe.",
+        "ro": "Începeți plimbarea în piața principală plină de viață din Fehring. Dimineața, explorați moștenirea sacră la biserica parohială și istoria meșteșugurilor la Gerberhaus. După-amiaza este dedicată istoriei la impunătorul Tabor și relaxării în parcul verde Rosegger. O scurtă oprire la Monumentul Eroilor încheie ziua înainte de a vă opri la un han local.",
+        "en": "Start your walk in Fehring's lively main square. In the morning, explore the sacred heritage at the parish church and the craft history at the Gerberhaus. The afternoon is dedicated to history at the imposing Tabor and relaxation in the green Rosegger Park. A brief stop at the War Memorial completes your day before you settle in at a local inn."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthaus Töglhofer",
+            "tip": "Probieren Sie das klassische steirische Backhendl oder das Kürbiskernöl auf dem Salat."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Töglhofer Vendéglő",
+            "tip": "Kóstolja meg a klasszikus stájer rántott csirkét vagy a salátát tökmagolajjal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthaus Töglhofer",
+            "tip": "Încercați clasicul pui prăjit stirian (Backhendl) sau uleiul de dovleac pe salată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthaus Töglhofer",
+            "tip": "Try the classic Styrian fried chicken (Backhendl) or the pumpkin seed oil on your salad."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Raab",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, etwas außerhalb des Zentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rosegger-Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rába-part",
+            "tip": "Egy csendes séta a folyó mentén, kissé a központon kívül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rosegger-Park",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Raab",
+            "tip": "O plimbare liniștită de-a lungul râului, puțin în afara centrului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Rosegger",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Raab river",
+            "tip": "A quiet walk along the river, just outside the center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rosegger Park",
+            "tip": "Find a quiet bench and enjoy the nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Kaufen Sie lokales Kürbiskernöl und andere regionale Spezialitäten (oft freitags)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Vásároljon helyi tökmagolajat és más regionális különlegességeket (gyakran péntekenként)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața fermierilor",
+            "tip": "Cumpărați ulei de dovleac local și alte specialități regionale (adesea vinerea)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmers' Market",
+            "tip": "Buy local pumpkin seed oil and other regional specialties (often on Fridays)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und leicht zu Fuß zu erkunden ist.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Planen Sie eine Pause in einem der Cafés am Hauptplatz ein.",
+          "Prüfen Sie die Öffnungszeiten des Gerberhaus-Museums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont kompakt és könnyen bejárható gyalog.",
+          "A legtöbb látnivaló közel van egymáshoz.",
+          "Tervezzen be egy pihenőt a főtéri kávézók egyikében.",
+          "Előre ellenőrizze a Gerberhaus múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece centrul orașului este compact și ușor de explorat pe jos.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă.",
+          "Planificați o pauză la una dintre cafenelele din piața principală.",
+          "Verificați în avans programul de funcționare al muzeului Gerberhaus."
+        ],
+        "en": [
+          "Wear comfortable shoes as the town center is compact and easily explored on foot.",
+          "Most sights are located close to each other.",
+          "Plan for a break at one of the cafés on the main square.",
+          "Check the opening hours for the Gerberhaus museum in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Fehring",
+            "hu": "Fehringi vasútállomás",
+            "ro": "Gara Fehring",
+            "en": "Fehring Train Station"
+          },
+          "coords": [
+            16.018,
+            46.943
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt Ihrer Tour, oft ein guter Ort, um Leihfahrräder zu finden.",
+            "hu": "A túra kiindulópontja, gyakran jó hely a bérelhető kerékpárok megtalálásához.",
+            "ro": "Punctul de plecare al turului dvs., adesea un loc bun pentru a găsi biciclete de închiriat.",
+            "en": "Starting point of your tour, often a good place to find rental bikes."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Fehring",
+            "hu": "Fehringi Városháza",
+            "ro": "Primăria Fehring",
+            "en": "Fehring Town Hall"
+          },
+          "coords": [
+            16.0125,
+            46.9456
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:34",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre des Hauptplatzes.",
+            "hu": "Parkolja le a kerékpárját, és élvezze a főtér hangulatát.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosfera din piața principală.",
+            "en": "Park your bike and soak in the atmosphere of the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche hl. Nikolaus",
+            "hu": "Szent Miklós plébániatemplom",
+            "ro": "Biserica parohială Sf. Nicolae",
+            "en": "Parish Church of St. Nicholas"
+          },
+          "coords": [
+            16.0133,
+            46.9449
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:01",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur eine kurze Fahrt vom Platz entfernt, ein Ort der Ruhe.",
+            "hu": "Csak egy rövid útra a tértől, a nyugalom szigete.",
+            "ro": "La doar o scurtă plimbare cu bicicleta de piață, un loc de liniște.",
+            "en": "Just a short ride from the square, a place of tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Fehringer Tabor",
+            "hu": "Fehringi Tábor",
+            "ro": "Taborul din Fehring",
+            "en": "Fehring Tabor"
+          },
+          "coords": [
+            16.0118,
+            46.9462
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:44",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Anhöhe ist mit dem Fahrrad leicht zu erreichen und bietet einen tollen Ausblick.",
+            "hu": "A domb könnyen megközelíthető kerékpárral és nagyszerű kilátást nyújt.",
+            "ro": "Dealul este ușor accesibil cu bicicleta și oferă o priveliște minunată.",
+            "en": "The small hill is easily reachable by bike and offers a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosegger-Park",
+            "hu": "Rosegger-Park",
+            "ro": "Parcul Rosegger",
+            "en": "Rosegger Park"
+          },
+          "coords": [
+            16.0145,
+            46.9465
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:06",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekt für eine ausgedehnte Mittagspause im Grünen.",
+            "hu": "Tökéletes egy hosszabb ebédszünetre a zöldben.",
+            "ro": "Perfect pentru o pauză de prânz prelungită în natură.",
+            "en": "Perfect for an extended lunch break amidst the green."
+          }
+        },
+        {
+          "name": {
+            "de": "Kellergasse am Kuruzzenkogel",
+            "hu": "Pinceutca a Kuruzzenkogelen",
+            "ro": "Aleea Pivnițelor de pe Kuruzzenkogel",
+            "en": "Cellar Lane on Kuruzzenkogel"
+          },
+          "coords": [
+            16.025,
+            46.955
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:57",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich für die Aussicht und die einzigartigen Weinkeller. Vielleicht probieren Sie einen lokalen Wein?",
+            "hu": "Megéri a kaptató a kilátásért és az egyedi borospincékért. Talán megkóstol egy helyi bort?",
+            "ro": "Urcușul merită pentru priveliște și pivnițele de vin unice. Poate încercați un vin local?",
+            "en": "The climb is worth it for the view and the unique wine cellars. Maybe try a local wine?"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich am Bahnhof auf den Sattel und radeln Sie ins Herz von Fehring. Der Vormittag führt Sie zu den historischen und sakralen Schätzen der Stadt. Nach einer Pause im Rosegger-Park am Mittag wartet am Nachmittag die malerische Kellergasse am Kuruzzenkogel auf Sie – ein perfektes Ziel für eine Radtour mit lohnender Aussicht und regionalem Flair.",
+        "hu": "Pattanjon nyeregbe az állomáson, és tekerjen be Fehring szívébe. A délelőtt a város történelmi és szakrális kincseihez vezet. A Rosegger-Parkban tartott déli pihenő után délután a festői Pinceutca várja a Kuruzzenkogelen – tökéletes célpont egy kerékpártúrához, amely jutalmazó kilátással és regionális hangulattal kecsegtet.",
+        "ro": "Urcați-vă pe bicicletă la gară și pedalați spre inima orașului Fehring. Dimineața vă poartă spre comorile istorice și sacre ale orașului. După o pauză la prânz în Parcul Rosegger, după-amiaza vă așteaptă pitoreasca Alee a Pivnițelor de pe Kuruzzenkogel – o destinație perfectă pentru un tur cu bicicleta, cu priveliști pline de satisfacții și farmec regional.",
+        "en": "Hop on your bike at the train station and pedal into the heart of Fehring. The morning takes you to the historical and sacred treasures of the town. After a midday break in Rosegger Park, the picturesque Cellar Lane on Kuruzzenkogel awaits you in the afternoon—a perfect destination for a bike tour with rewarding views and regional flair."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buschenschank",
+            "tip": "Entlang der Radwege, besonders in Richtung Kuruzzenkogel, finden Sie Heurige für eine Jause und ein Glas Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buschenschank (borozó)",
+            "tip": "A kerékpárutak mentén, különösen a Kuruzzenkogel felé, talál borozókat egy uzsonnára és egy pohár borra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buschenschank (tavernă de vin)",
+            "tip": "De-a lungul pistelor de biciclete, în special spre Kuruzzenkogel, veți găsi taverne pentru o gustare și un pahar de vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buschenschank (wine tavern)",
+            "tip": "Along the bike paths, especially towards Kuruzzenkogel, you'll find taverns for a snack and a glass of wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kuruzzenkogel",
+            "tip": "Genießen Sie die Ruhe und die weite Aussicht über das Raabtal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Radweg an der Raab",
+            "tip": "Folgen Sie dem Fluss für eine entspannte Fahrt abseits der Straßen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kuruzzenkogel",
+            "tip": "Élvezze a csendet és a Rába-völgyre nyíló széles kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kerékpárút a Rába mentén",
+            "tip": "Kövesse a folyót egy pihentető tekeréshez az utaktól távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kuruzzenkogel",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică asupra văii Raab.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pista de biciclete de-a lungul Raab",
+            "tip": "Urmați râul pentru o plimbare relaxantă departe de drumuri.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kuruzzenkogel",
+            "tip": "Enjoy the tranquility and the wide view over the Raab valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bike path along the Raab",
+            "tip": "Follow the river for a relaxing ride away from the roads.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ab-Hof-Verkauf",
+            "tip": "Achten Sie auf Schilder für Wein- und Kürbiskernölverkauf direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői árusítás",
+            "tip": "Keresse a bort és tökmagolajat kínáló táblákat közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare direct de la fermă",
+            "tip": "Fiți atenți la indicatoarele pentru vânzarea de vin și ulei de dovleac direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm gate sales",
+            "tip": "Look for signs for wine and pumpkin seed oil sales directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Region ist hügelig, ein E-Bike kann vorteilhaft sein.",
+          "Nehmen Sie genügend Wasser mit, besonders für den Anstieg zum Kuruzzenkogel.",
+          "Viele Wege sind asphaltiert, aber seien Sie auf Schotterabschnitte vorbereitet.",
+          "Ein Fahrradschloss ist für die Stopps in der Stadt unerlässlich."
+        ],
+        "hu": [
+          "A régió dombos, egy e-bike előnyös lehet.",
+          "Vigyen magával elegendő vizet, különösen a Kuruzzenkogelre való emelkedőhöz.",
+          "Sok út aszfaltozott, de készüljön fel murvás szakaszokra is.",
+          "A városi megállókhoz elengedhetetlen egy kerékpárzár."
+        ],
+        "ro": [
+          "Regiunea este deluroasă, o bicicletă electrică poate fi avantajoasă.",
+          "Luați suficientă apă, mai ales pentru urcarea pe Kuruzzenkogel.",
+          "Multe drumuri sunt asfaltate, dar fiți pregătiți pentru porțiuni cu pietriș.",
+          "O încuietoare pentru bicicletă este esențială pentru opririle în oraș."
+        ],
+        "en": [
+          "The region is hilly, an e-bike can be advantageous.",
+          "Bring enough water, especially for the climb to Kuruzzenkogel.",
+          "Many paths are paved, but be prepared for some gravel sections.",
+          "A bike lock is essential for stops in the town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 7.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kellergasse am Kuruzzenkogel",
+            "hu": "Pinceutca a Kuruzzenkogelen",
+            "ro": "Aleea Pivnițelor de pe Kuruzzenkogel",
+            "en": "Cellar Lane on Kuruzzenkogel"
+          },
+          "coords": [
+            16.025,
+            46.955
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Panoramablick über die Region. Parken Sie oben und spazieren Sie die Gasse entlang.",
+            "hu": "Kezdje a napot a régióra nyíló panorámával. Parkoljon fent és sétáljon végig az utcán.",
+            "ro": "Începeți cu o vedere panoramică asupra regiunii. Parcați în vârf și plimbați-vă pe alee.",
+            "en": "Start with a panoramic view of the region. Park at the top and stroll down the lane."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum Fehring",
+            "hu": "Fehring Központi Parkoló",
+            "ro": "Parcare Centru Fehring",
+            "en": "Fehring Center Parking"
+          },
+          "coords": [
+            16.0138,
+            46.9468
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:05",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Auto hier für den Rest des Tages ab und erkunden Sie die Stadt zu Fuß.",
+            "hu": "Hagyja itt az autóját a nap hátralévő részére, és fedezze fel a várost gyalog.",
+            "ro": "Lăsați mașina aici pentru restul zilei și explorați orașul pe jos.",
+            "en": "Leave your car here for the rest of the day and explore the town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Fehring",
+            "hu": "Fehringi Városháza",
+            "ro": "Primăria Fehring",
+            "en": "Fehring Town Hall"
+          },
+          "coords": [
+            16.0125,
+            46.9456
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:14",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Hauptplatz ist der perfekte Ausgangspunkt für Ihren Stadtrundgang.",
+            "hu": "A főtér tökéletes kiindulópont a városnéző sétához.",
+            "ro": "Piața principală este punctul de plecare perfect pentru turul orașului.",
+            "en": "The main square is the perfect starting point for your town walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche hl. Nikolaus",
+            "hu": "Szent Miklós plébániatemplom",
+            "ro": "Biserica parohială Sf. Nicolae",
+            "en": "Parish Church of St. Nicholas"
+          },
+          "coords": [
+            16.0133,
+            46.9449
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:42",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus zu diesem architektonischen Juwel.",
+            "hu": "Egy rövid séta a városházától ehhez az építészeti gyöngyszemhez.",
+            "ro": "O scurtă plimbare de la primărie la această bijuterie arhitecturală.",
+            "en": "A short walk from the town hall to this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Gerberhaus",
+            "hu": "Gerberhaus",
+            "ro": "Casa Gerber",
+            "en": "Gerberhaus"
+          },
+          "coords": [
+            16.0119,
+            46.9445
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die lokale Geschichte.",
+            "hu": "Merüljön el a helyi történelemben.",
+            "ro": "Scufundați-vă în istoria locală.",
+            "en": "Immerse yourself in local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Fehringer Tabor",
+            "hu": "Fehringi Tábor",
+            "ro": "Taborul din Fehring",
+            "en": "Fehring Tabor"
+          },
+          "coords": [
+            16.0118,
+            46.9462
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Spaziergang zur Festung ist kurz und führt durch charmante Gassen.",
+            "hu": "Az erődhöz vezető séta rövid és hangulatos sikátorokon vezet keresztül.",
+            "ro": "Plimbarea până la fortăreață este scurtă și trece pe alei fermecătoare.",
+            "en": "The walk to the fortress is short and leads through charming alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosegger-Park",
+            "hu": "Rosegger-Park",
+            "ro": "Parcul Rosegger",
+            "en": "Rosegger Park"
+          },
+          "coords": [
+            16.0145,
+            46.9465
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:34",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss Ihres Rundgangs, bevor Sie zum Auto zurückkehren.",
+            "hu": "A séta nyugodt befejezése, mielőtt visszatérne az autóhoz.",
+            "ro": "O încheiere relaxantă a turului dvs. înainte de a vă întoarce la mașină.",
+            "en": "A relaxing end to your walking tour before returning to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum Kuruzzenkogel für eine atemberaubende Aussicht. Parken Sie dann im Zentrum von Fehring und erkunden Sie den historischen Kern zu Fuß: vom Rathaus über die Pfarrkirche und das Gerberhaus bis zum alten Tabor. Der Nachmittag bietet Zeit für einen entspannten Spaziergang im Rosegger-Park, bevor Sie Ihre Heimreise antreten.",
+        "hu": "Reggel hajtson fel a Kuruzzenkogelre a lélegzetelállító kilátásért. Ezután parkoljon le Fehring központjában, és fedezze fel gyalog a történelmi belvárost: a Városházától a plébániatemplomon és a Gerberhauson át a régi Táborig. A délután időt kínál egy pihentető sétára a Rosegger-Parkban, mielőtt hazaindulna.",
+        "ro": "Dimineața, conduceți spre Kuruzzenkogel pentru o priveliște uluitoare. Apoi parcați în centrul orașului Fehring și explorați centrul istoric pe jos: de la primărie la biserica parohială, Gerberhaus și vechiul Tabor. După-amiaza oferă timp pentru o plimbare relaxantă în Parcul Rosegger înainte de a vă întoarce acasă.",
+        "en": "In the morning, drive to the Kuruzzenkogel for a breathtaking view. Then park in the center of Fehring and explore the historic core on foot: from the town hall to the parish church, the Gerberhaus, and the old Tabor. The afternoon offers time for a relaxing walk in the Rosegger Park before you head home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Landgasthof Hotel Rois",
+            "tip": "Ein etwas gehobeneres Restaurant, ideal für ein ausgiebiges Mittagessen nach dem Stadtrundgang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Landgasthof Hotel Rois",
+            "tip": "Egy kissé elegánsabb étterem, ideális egy bőséges ebédhez a városnézés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Landgasthof Hotel Rois",
+            "tip": "Un restaurant puțin mai elegant, ideal pentru un prânz copios după turul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Landgasthof Hotel Rois",
+            "tip": "A slightly more upscale restaurant, ideal for a hearty lunch after the city tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtsplattform Kuruzzenkogel",
+            "tip": "Der beste Ort für einen weiten Blick und einen ruhigen Start in den Tag.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innerer Hof des Tabor",
+            "tip": "Finden Sie einen Moment der Stille innerhalb der alten Festungsmauern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kuruzzenkogel kilátó",
+            "tip": "A legjobb hely a széles kilátásért és a nap nyugodt kezdéséért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Tábor belső udvara",
+            "tip": "Találjon egy csendes pillanatot a régi erődfalak között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platforma de observare Kuruzzenkogel",
+            "tip": "Cel mai bun loc pentru o priveliște largă și un început liniștit al zilei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea interioară a Taborului",
+            "tip": "Găsiți un moment de liniște între zidurile vechii cetăți.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kuruzzenkogel observation deck",
+            "tip": "The best place for a wide view and a quiet start to the day.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Inner courtyard of the Tabor",
+            "tip": "Find a moment of silence within the old fortress walls.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Auf dem Weg zum oder vom Kuruzzenkogel finden Sie oft Schilder für den Verkauf von Wein, Schnaps oder Kernöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gazdaságok boltjai a környéken",
+            "tip": "A Kuruzzenkogel felé vezető úton gyakran találhatók bor, pálinka vagy tökmagolaj árusítására utaló táblák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor din zonă",
+            "tip": "Pe drumul spre sau de la Kuruzzenkogel veți găsi adesea indicatoare pentru vânzarea de vin, rachiu sau ulei de dovleac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "On the way to or from Kuruzzenkogel, you will often find signs for the sale of wine, schnapps or pumpkin seed oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten im Zentrum im Voraus, besonders an Markttagen.",
+          "Die Straßen um Fehring sind malerisch, fahren Sie langsam und genießen Sie die Landschaft.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch weiter entfernte Weingüter oder Buschenschänken zu besuchen.",
+          "Kombinieren Sie den Besuch mit einem Ausflug zur nahegelegenen Riegersburg."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket a központban, különösen a piaci napokon.",
+          "Fehring környékén festői utak vezetnek, vezessen lassan és élvezze a tájat.",
+          "Az autó rugalmasságot ad, hogy távolabbi borászatokat vagy borozókat is meglátogasson.",
+          "Kombinálja a látogatást egy kirándulással a közeli Riegersburgba."
+        ],
+        "ro": [
+          "Verificați dinainte opțiunile de parcare în centru, mai ales în zilele de piață.",
+          "Drumurile din jurul Fehring sunt pitorești, conduceți încet și bucurați-vă de peisaj.",
+          "O mașină vă oferă flexibilitatea de a vizita crame sau taverne mai îndepărtate.",
+          "Combinați vizita cu o excursie la castelul Riegersburg din apropiere."
+        ],
+        "en": [
+          "Check parking options in the center in advance, especially on market days.",
+          "The roads around Fehring are picturesque, drive slowly and enjoy the scenery.",
+          "A car gives you the flexibility to visit more distant wineries or taverns.",
+          "Combine the visit with a trip to the nearby Riegersburg castle."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 1.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Fehring Hauptplatz (Bus)",
+            "hu": "Érkezés Fehring Főtér (busz)",
+            "ro": "Sosire Piața Principală Fehring (Autobuz)",
+            "en": "Arrival Fehring Main Square (Bus)"
+          },
+          "coords": [
+            16.0125,
+            46.9456
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die meisten Regionalbusse halten hier. Informieren Sie sich über den Fahrplan für die Rückfahrt.",
+            "hu": "A legtöbb helyközi busz itt áll meg. Tájékozódjon a visszautazás menetrendjéről.",
+            "ro": "Majoritatea autobuzelor regionale opresc aici. Verificați orarul pentru călătoria de întoarcere.",
+            "en": "Most regional buses stop here. Check the schedule for your return trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche hl. Nikolaus",
+            "hu": "Szent Miklós plébániatemplom",
+            "ro": "Biserica parohială Sf. Nicolae",
+            "en": "Parish Church of St. Nicholas"
+          },
+          "coords": [
+            16.0133,
+            46.9449
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:29",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Hauptplatz aus in wenigen Schritten erreichbar.",
+            "hu": "A főtérről néhány lépéssel elérhető.",
+            "ro": "Accesibil la câțiva pași de piața principală.",
+            "en": "Reachable in a few steps from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Gerberhaus",
+            "hu": "Gerberhaus",
+            "ro": "Casa Gerber",
+            "en": "Gerberhaus"
+          },
+          "coords": [
+            16.0119,
+            46.9445
+          ],
+          "category": "museums",
+          "arrive_at": "10:17",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch die Gassen führt Sie direkt zum Museum.",
+            "hu": "Egy séta a sikátorokon keresztül egyenesen a múzeumhoz vezet.",
+            "ro": "O plimbare pe alei vă duce direct la muzeu.",
+            "en": "A stroll through the alleys leads you directly to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Fehringer Tabor",
+            "hu": "Fehringi Tábor",
+            "ro": "Taborul din Fehring",
+            "en": "Fehring Tabor"
+          },
+          "coords": [
+            16.0118,
+            46.9462
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Aufstieg zur Festung ist kurz und wird mit Geschichte belohnt.",
+            "hu": "Az erődhöz való feljutás rövid, és történelemmel jutalmaz.",
+            "ro": "Urcușul spre fortăreață este scurt și veți fi răsplătit cu istorie.",
+            "en": "The climb to the fortress is short and rewards you with history."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosegger-Park",
+            "hu": "Rosegger-Park",
+            "ro": "Parcul Rosegger",
+            "en": "Rosegger Park"
+          },
+          "coords": [
+            16.0145,
+            46.9465
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:31",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach dem Mittagessen in dieser grünen Oase.",
+            "hu": "Pihenjen ebéd után ebben a zöld oázisban.",
+            "ro": "Relaxați-vă după prânz în această oază de verdeață.",
+            "en": "Relax after lunch in this green oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Abfahrt Fehring Hauptplatz (Bus)",
+            "hu": "Indulás Fehring Főtér (busz)",
+            "ro": "Plecare Piața Principală Fehring (Autobuz)",
+            "en": "Departure Fehring Main Square (Bus)"
+          },
+          "coords": [
+            16.0125,
+            46.9456
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:51",
+          "stay_min": 29,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für einen letzten Kaffee, bevor Ihr Bus abfährt.",
+            "hu": "Szánjon időt egy utolsó kávéra, mielőtt a busza indul.",
+            "ro": "Luați-vă timp pentru o ultimă cafea înainte de plecarea autobuzului.",
+            "en": "Take time for one last coffee before your bus departs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus erreichen Sie bequem das Zentrum von Fehring. Von dort aus ist alles Wichtige zu Fuß erreichbar. Der Vormittag ist der Erkundung der Kirche, des Museums und des historischen Tabors gewidmet. Nach einem Mittagessen in der Stadt können Sie am Nachmittag im Rosegger-Park entspannen, bevor Sie am Hauptplatz wieder den Bus für die Heimfahrt besteigen.",
+        "hu": "Busszal kényelmesen elérheti Fehring központját. Onnan minden fontos látnivaló gyalogosan elérhető. A délelőtt a templom, a múzeum és a történelmi Tábor felfedezésének van szentelve. A városban elköltött ebéd után délután a Rosegger-Parkban pihenhet, mielőtt a főtéren ismét buszra szállna a hazaúthoz.",
+        "ro": "Cu autobuzul puteți ajunge convenabil în centrul orașului Fehring. De acolo, tot ce este important se află la distanță de mers pe jos. Dimineața este dedicată explorării bisericii, muzeului și Taborului istoric. După prânz în oraș, după-amiaza vă puteți relaxa în Parcul Rosegger înainte de a lua din nou autobuzul din piața principală pentru a vă întoarce acasă.",
+        "en": "You can easily reach the center of Fehring by bus. From there, everything important is within walking distance. The morning is dedicated to exploring the church, the museum, and the historic Tabor. After lunch in town, you can relax in the Rosegger Park in the afternoon before taking the bus back home from the main square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café am Hauptplatz",
+            "tip": "Ideal für eine schnelle Jause oder einen Kaffee zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézó a főtéren",
+            "tip": "Ideális egy gyors uzsonnára vagy egy kávéra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea în Piața Principală",
+            "tip": "Ideal pentru o gustare rapidă sau o cafea între vizite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café on the main square",
+            "tip": "Ideal for a quick snack or a coffee in between."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchhof",
+            "tip": "Der Friedhof um die Pfarrkirche ist oft ein Ort der Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank im Rossegger-Park",
+            "tip": "Lesen Sie ein Buch oder beobachten Sie einfach die Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templomkert",
+            "tip": "A plébániatemplom körüli temető gyakran a csend helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad a Rossegger-Parkban",
+            "tip": "Olvasson egy könyvet, vagy egyszerűen csak figyelje a természetet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul bisericii",
+            "tip": "Cimitirul din jurul bisericii parohiale este adesea un loc de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă în Parcul Rossegger",
+            "tip": "Citiți o carte sau pur și simplu priviți natura.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Churchyard",
+            "tip": "The cemetery around the parish church is often a place of silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench in Rossegger Park",
+            "tip": "Read a book or just watch nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Kaufen Sie Gebäck oder Brot als Proviant für den Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Vásároljon péksüteményt vagy kenyeret útravalónak a napra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Cumpărați produse de patiserie sau pâine ca provizii pentru ziua respectivă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakery",
+            "tip": "Buy pastries or bread as provisions for the day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Verbindungen am Wochenende oder abends seltener sein können.",
+          "Eine Tageskarte für den Regionalbus kann günstiger sein als Einzeltickets.",
+          "Alle wichtigen Sehenswürdigkeiten in Fehring sind vom Hauptplatz aus leicht zu Fuß erreichbar.",
+          "Packen Sie einen Regenschirm ein, da das Wetter schnell wechseln kann."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mivel a járatok ritkábbak lehetnek hétvégén vagy este.",
+          "A regionális buszra szóló napijegy olcsóbb lehet, mint a vonaljegyek.",
+          "Fehring minden fontos látnivalója könnyen elérhető gyalog a főtérről.",
+          "Csomagoljon esernyőt, mivel az időjárás gyorsan változhat."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece conexiunile pot fi mai puțin frecvente în weekend sau seara.",
+          "Un bilet de o zi pentru autobuzul regional poate fi mai ieftin decât biletele individuale.",
+          "Toate atracțiile importante din Fehring sunt ușor accesibile pe jos din piața principală.",
+          "Împachetați o umbrelă, deoarece vremea se poate schimba rapid."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as connections can be less frequent on weekends or in the evening.",
+          "A day ticket for the regional bus can be cheaper than single tickets.",
+          "All major sights in Fehring are easily accessible on foot from the main square.",
+          "Pack an umbrella as the weather can change quickly."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1291 @@
+{
+  "city_id": "slovenia-izola-cities-v2",
+  "anchor": {
+    "name": "Izola",
+    "coords": [
+      13.66,
+      45.539
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Manzioli-Platz",
+            "hu": "Manzioli tér",
+            "ro": "Piața Manzioli",
+            "en": "Manzioli Square"
+          },
+          "coords": [
+            13.6595,
+            45.5398
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Kaffee in einem der charmanten Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
+            "ro": "Începeți cu o cafea la una dintre cafenelele fermecătoare din piață.",
+            "en": "Start with a coffee at one of the charming cafes on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Besenghi degli Ughi Palast",
+            "hu": "Besenghi degli Ughi-palota",
+            "ro": "Palatul Besenghi degli Ughi",
+            "en": "Besenghi degli Ughi Palace"
+          },
+          "coords": [
+            13.659,
+            45.5395
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spätbarocke Fassade, ein Meisterwerk der venezianischen Architektur.",
+            "hu": "Csodálja meg a késő barokk homlokzatot, a velencei építészet remekművét.",
+            "ro": "Admirați fațada barocă târzie, o capodoperă a arhitecturii venețiene.",
+            "en": "Admire the late Baroque facade, a masterpiece of Venetian architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Maurus",
+            "hu": "Szent Maurus templom",
+            "ro": "Biserica Sf. Maurus",
+            "en": "Church of St. Maurus"
+          },
+          "coords": [
+            13.658,
+            45.5405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Glockenturm und genießen Sie den besten Panoramablick auf die Stadt.",
+            "hu": "Menjen fel a harangtoronyba a város legjobb panorámájáért.",
+            "ro": "Urcați în clopotniță pentru cea mai bună vedere panoramică a orașului.",
+            "en": "Climb the bell tower for the best panoramic view of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Izola",
+            "hu": "Izolai kikötő",
+            "ro": "Portul Izola",
+            "en": "Port of Izola"
+          },
+          "coords": [
+            13.661,
+            45.541
+          ],
+          "category": "port",
+          "arrive_at": "11:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischer bei der Arbeit und genießen Sie die authentische maritime Atmosphäre.",
+            "hu": "Figyelje a halászokat munka közben, és élvezze az autentikus tengeri hangulatot.",
+            "ro": "Priviți pescarii la lucru și bucurați-vă de atmosfera maritimă autentică.",
+            "en": "Watch the fishermen at work and enjoy the authentic maritime atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm-Park (Svetilnik)",
+            "hu": "Világítótorony Park (Svetilnik)",
+            "ro": "Parcul Farului (Svetilnik)",
+            "en": "Lighthouse Park (Svetilnik)"
+          },
+          "coords": [
+            13.656,
+            45.543
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Mittagspicknick und ein erfrischendes Bad im Meer.",
+            "hu": "Tökéletes hely egy déli piknikhez és egy frissítő úszáshoz a tengerben.",
+            "ro": "Locul perfect pentru un picnic la prânz și o baie răcoritoare în mare.",
+            "en": "A perfect spot for a midday picnic and a refreshing swim in the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Simon's Bay Archäologischer Park",
+            "hu": "Simon-öböl Régészeti Park",
+            "ro": "Parcul Arheologic Golful Simon",
+            "en": "Simon's Bay Archaeological Park"
+          },
+          "coords": [
+            13.645,
+            45.535
+          ],
+          "category": "historical",
+          "arrive_at": "14:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste einer römischen Villa und tauchen Sie in die antike Geschichte ein.",
+            "hu": "Fedezze fel egy római villa maradványait és merüljön el az ókori történelemben.",
+            "ro": "Explorați vestigiile unei vile romane și pătrundeți în istoria antică.",
+            "en": "Explore the remains of a Roman villa and delve into ancient history."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Manzioli-Platz",
+            "hu": "Vacsora a Manzioli téren",
+            "ro": "Cină în Piața Manzioli",
+            "en": "Dinner at Manzioli Square"
+          },
+          "coords": [
+            13.6595,
+            45.5398
+          ],
+          "category": "gastro",
+          "arrive_at": "16:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich frische Meeresfrüchte in einem der Restaurants und lassen Sie den Tag ausklingen.",
+            "hu": "Kényeztesse magát friss tengeri ételekkel az egyik étteremben, és zárja a napot.",
+            "ro": "Răsfățați-vă cu fructe de mare proaspete la unul dintre restaurante pentru a încheia ziua.",
+            "en": "Treat yourself to fresh seafood at one of the restaurants to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Izola, dem Manzioli-Platz, umgeben von venezianischer Architektur. Der Vormittag ist der Erkundung der engen Gassen der Altstadt gewidmet, die Sie zur majestätischen Kirche St. Maurus und zum lebhaften Hafen führen. Am Nachmittag entspannen Sie am Strand von Svetilnik, bevor Sie in die römische Vergangenheit im Archäologischen Park Simon's Bay eintauchen. Lassen Sie den Abend bei einem köstlichen Abendessen mit Meeresfrüchten ausklingen, während Sie die mediterrane Brise genießen.",
+        "hu": "Kezdje a napot Izola szívében, a velencei építészettel körülvett Manzioli téren. A délelőttöt az óváros szűk utcáinak felfedezésével töltse, eljutva a fenséges Szent Maurus templomhoz és a nyüzsgő kikötőbe. Délután pihenjen a Svetilnik strandján, mielőtt elmerülne a Simon-öböl régészeti parkjának római kori múltjában. Zárja az estét egy finom tengeri vacsorával, élvezve a mediterrán szellőt.",
+        "ro": "Începeți ziua în inima Izolei, Piața Manzioli, înconjurată de arhitectură venețiană. Dimineața este dedicată explorării străduțelor înguste din orașul vechi, ajungând la maiestuoasa Biserică Sf. Maurus și la portul plin de viață. După-amiaza, relaxați-vă pe plaja Svetilnik înainte de a explora trecutul roman la Parcul Arheologic Golful Simon. Încheiați seara cu o cină delicioasă cu fructe de mare, bucurându-vă de briza mediteraneană.",
+        "en": "Start your day in the heart of Izola, Manzioli Square, surrounded by Venetian architecture. The morning is for exploring the narrow streets of the old town, leading you to the majestic Church of St. Maurus and the lively port. In the afternoon, relax at Svetilnik beach before delving into the Roman past at Simon's Bay Archaeological Park. End the evening with a delicious seafood dinner, enjoying the Mediterranean breeze."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischsuppe (Ribja juha)",
+            "tip": "Probieren Sie die lokale Spezialität in der 'Gostilna Ribič' am Hafen."
+          },
+          {
+            "name": "Gegrillter Calamari",
+            "tip": "Frisch aus der Adria, ein Muss für jeden Besucher."
+          },
+          {
+            "name": "Malvasia Wein",
+            "tip": "Ein lokaler Weißwein, der perfekt zu Fischgerichten passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászlé (Ribja juha)",
+            "tip": "Kóstolja meg ezt a helyi specialitást a kikötőben található 'Gostilna Ribič'-ben."
+          },
+          {
+            "name": "Grillezett tintahal",
+            "tip": "Frissen az Adriai-tengerből, minden látogatónak kötelező."
+          },
+          {
+            "name": "Malvasia bor",
+            "tip": "Helyi fehérbor, amely tökéletesen illik a halételekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de pește (Ribja juha)",
+            "tip": "Încercați specialitatea locală la 'Gostilna Ribič' lângă port."
+          },
+          {
+            "name": "Calamari la grătar",
+            "tip": "Proaspeți din Marea Adriatică, un deliciu obligatoriu pentru orice vizitator."
+          },
+          {
+            "name": "Vin Malvasia",
+            "tip": "Un vin alb local care se potrivește perfect cu preparatele din pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Soup (Ribja juha)",
+            "tip": "Try the local specialty at 'Gostilna Ribič' by the port."
+          },
+          {
+            "name": "Grilled Calamari",
+            "tip": "Fresh from the Adriatic, a must-try for any visitor."
+          },
+          {
+            "name": "Malvasia Wine",
+            "tip": "A local white wine that pairs perfectly with fish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leuchtturm-Park bei Sonnenuntergang",
+            "tip": "Der friedlichste Ort, um das Ende des Tages zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Gassen der Altstadt",
+            "tip": "Verlieren Sie sich in den ruhigen, engen Gassen abseits der Hauptwege.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Simon's Bay am frühen Morgen",
+            "tip": "Genießen Sie die Ruhe des Strandes, bevor die Menschenmassen ankommen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Világítótorony Park naplementekor",
+            "tip": "A legbékésebb hely a naplemente megcsodálásához.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az óváros rejtett sikátorai",
+            "tip": "Vesszen el a csendes, szűk utcácskákban a fő útvonalaktól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Simon-öböl kora reggel",
+            "tip": "Élvezze a strand csendjét, mielőtt a tömeg megérkezik.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Farului la apus",
+            "tip": "Cel mai liniștit loc pentru a privi sfârșitul zilei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțele ascunse din orașul vechi",
+            "tip": "Pierdeți-vă pe aleile înguste și liniștite, departe de căile principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Golful Simon dimineața devreme",
+            "tip": "Bucurați-vă de liniștea plajei înainte de sosirea mulțimilor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lighthouse Park at sunset",
+            "tip": "The most peaceful spot to watch the day end.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden alleys of the Old Town",
+            "tip": "Get lost in the quiet, narrow streets away from the main paths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Simon's Bay in the early morning",
+            "tip": "Enjoy the tranquility of the beach before the crowds arrive.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie lokales Olivenöl, Salz und handgemachte Souvenirs."
+          },
+          {
+            "name": "Kunstgalerien",
+            "tip": "Entdecken Sie Werke lokaler Künstler in den kleinen Galerien der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi olívaolajat, sót és kézzel készített ajándéktárgyakat."
+          },
+          {
+            "name": "Művészeti galériák",
+            "tip": "Fedezze fel a helyi művészek alkotásait az óváros kis galériáiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați ulei de măsline local, sare și suveniruri artizanale."
+          },
+          {
+            "name": "Galerii de artă",
+            "tip": "Descoperiți lucrările artiștilor locali în micile galerii din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy local olive oil, salt, and handmade souvenirs."
+          },
+          {
+            "name": "Art Galleries",
+            "tip": "Discover works by local artists in the small galleries of the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt Kopfsteinpflaster hat.",
+          "Vergessen Sie Ihre Badesachen nicht für ein Bad am Svetilnik-Strand.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, also nehmen Sie sich Zeit und genießen Sie den Spaziergang.",
+          "Probieren Sie unbedingt den lokalen Wein Malvasia."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskaköves.",
+          "Ne felejtse otthon a fürdőruháját a Svetilnik strandon való úszáshoz.",
+          "A legtöbb látnivaló gyalogosan elérhető, ezért szánjon rá időt és élvezze a sétát.",
+          "Feltétlenül kóstolja meg a helyi Malvasia bort."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece orașul vechi are pavele.",
+          "Nu uitați costumul de baie pentru o baie la plaja Svetilnik.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos, așa că luați-vă timp și bucurați-vă de plimbare.",
+          "Asigurați-vă că încercați vinul local Malvasia."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town has cobblestone streets.",
+          "Don't forget your swimwear for a dip at Svetilnik beach.",
+          "Most sights are within walking distance, so take your time and enjoy the stroll.",
+          "Be sure to try the local Malvasia wine."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Manzioli-Platz & Hafen",
+            "hu": "Manzioli tér és kikötő",
+            "ro": "Piața Manzioli și Port",
+            "en": "Manzioli Square & Port"
+          },
+          "coords": [
+            13.66,
+            45.54
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie die unmittelbare Umgebung zu Fuß.",
+            "hu": "Zárja le a biciklit és fedezze fel a környéket gyalog.",
+            "ro": "Legați-vă bicicleta și explorați zona imediată pe jos.",
+            "en": "Lock up your bike and explore the immediate area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm-Park (Svetilnik)",
+            "hu": "Világítótorony Park (Svetilnik)",
+            "ro": "Parcul Farului (Svetilnik)",
+            "en": "Lighthouse Park (Svetilnik)"
+          },
+          "coords": [
+            13.656,
+            45.543
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:56",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp für eine tolle Aussicht auf das Meer in Richtung Italien.",
+            "hu": "Rövid megálló a tengerre nyíló remek kilátásért Olaszország felé.",
+            "ro": "O oprire scurtă pentru o priveliște superbă asupra mării spre Italia.",
+            "en": "A quick stop for a great view over the sea towards Italy."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Küste nach Simon's Bay",
+            "hu": "Kerékpározás a tengerparton a Simon-öböl felé",
+            "ro": "Plimbare cu bicicleta pe coastă spre Golful Simon",
+            "en": "Ride along the coast to Simon's Bay"
+          },
+          "coords": [
+            13.648,
+            45.536
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresbrise und die Aussicht. Nehmen Sie sich Zeit für ein Bad.",
+            "hu": "Élvezze a tengeri szellőt és a kilátást. Szánjon időt egy fürdőzésre.",
+            "ro": "Bucurați-vă de briza mării și de priveliște. Faceți o baie.",
+            "en": "Enjoy the sea breeze and the view. Take time for a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Parenzana-Weg",
+            "hu": "Parenzana út",
+            "ro": "Traseul Parenzana",
+            "en": "Parenzana Path"
+          },
+          "coords": [
+            13.665,
+            45.525
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:38",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie ein Stück ins Landesinnere auf dieser historischen Eisenbahnstrecke. Ideal für ein Picknick.",
+            "hu": "Tegyen egy kitérőt a szárazföld belseje felé ezen a történelmi vasútvonalon. Ideális piknikezéshez.",
+            "ro": "Mergeți puțin în interior pe această linie ferată istorică. Ideal pentru un picnic.",
+            "en": "Ride a bit inland on this historic railway track. Ideal for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Maurus",
+            "hu": "Szent Maurus templom",
+            "ro": "Biserica Sf. Maurus",
+            "en": "Church of St. Maurus"
+          },
+          "coords": [
+            13.658,
+            45.5405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Der Anstieg ist steil, aber die Aussicht vom Glockenturm belohnt die Mühe.",
+            "hu": "Az emelkedő meredek, de a harangtoronyból nyíló kilátás megéri a fáradságot.",
+            "ro": "Urcușul este abrupt, dar vederea din clopotniță merită efortul.",
+            "en": "The climb is steep, but the view from the bell tower is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Hafen",
+            "hu": "Vacsora a kikötőben",
+            "ro": "Cină în port",
+            "en": "Dinner at the Port"
+          },
+          "coords": [
+            13.661,
+            45.541
+          ],
+          "category": "gastro",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit frischem Fisch direkt am Wasser.",
+            "hu": "Zárja a kerékpártúrát egy friss hallal közvetlenül a vízparton.",
+            "ro": "Încheiați turul cu bicicleta cu pește proaspăt chiar lângă apă.",
+            "en": "End your bike tour with fresh fish right by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour im Herzen von Izola. Die Route führt Sie entlang der malerischen Küste, vorbei am Leuchtturm zum beliebten Strand in Simon's Bay. Am Nachmittag erkunden Sie ein Stück der berühmten Parenzana, einer ehemaligen Bahnstrecke, die sich perfekt für Radfahrer eignet. Zum Abschluss kehren Sie in die Altstadt zurück, um den Ausblick von der Kirche St. Maurus zu genießen und den Tag bei einem Abendessen am Hafen ausklingen zu lassen.",
+        "hu": "Pattanjon nyeregbe, és kezdje a túrát Izola szívében. Az útvonal a festői tengerpart mentén vezet, elhaladva a világítótorony mellett a népszerű Simon-öböl strandjáig. Délután fedezze fel a híres Parenzana egy szakaszát, egy egykori vasútvonalat, amely tökéletes kerékpárosok számára. Végül térjen vissza az óvárosba, hogy megcsodálja a kilátást a Szent Maurus templomból, és egy kikötői vacsorával zárja a napot.",
+        "ro": "Urcați pe bicicletă și începeți turul în inima Izolei. Traseul vă duce de-a lungul coastei pitorești, pe lângă far, până la populara plajă din Golful Simon. După-amiaza, explorați o porțiune din faimoasa Parenzana, o fostă linie de cale ferată perfectă pentru bicicliști. La final, reveniți în orașul vechi pentru a admira priveliștea de la Biserica Sf. Maurus și încheiați ziua cu o cină în port.",
+        "en": "Hop on your bike and start your tour in the heart of Izola. The route takes you along the scenic coast, past the lighthouse to the popular beach at Simon's Bay. In the afternoon, explore a section of the famous Parenzana, a former railway line perfect for cyclists. Finally, return to the old town to admire the view from the Church of St. Maurus and end the day with dinner at the port."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sardinen mit Polenta",
+            "tip": "Eine einfache, aber köstliche lokale Spezialität."
+          },
+          {
+            "name": "Eisdiele am Hafen",
+            "tip": "Gönnen Sie sich nach der Radtour ein hausgemachtes Eis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szardínia polentával",
+            "tip": "Egyszerű, de finom helyi specialitás."
+          },
+          {
+            "name": "Fagylaltozó a kikötőben",
+            "tip": "Kényeztesse magát egy házi fagylalttal a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sardine cu mămăligă",
+            "tip": "O specialitate locală simplă, dar delicioasă."
+          },
+          {
+            "name": "Înghețată în port",
+            "tip": "Răsfățați-vă cu o înghețată de casă după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sardines with polenta",
+            "tip": "A simple but delicious local specialty."
+          },
+          {
+            "name": "Ice cream parlor at the port",
+            "tip": "Treat yourself to a homemade ice cream after the bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parenzana-Tunnel",
+            "tip": "Halten Sie in den kühlen, ruhigen Tunneln der alten Bahnstrecke an.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von Strunjan",
+            "tip": "Wenn Sie die Parenzana weiterfahren, haben Sie einen fantastischen Blick auf die Salinen von Strunjan.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parenzana-alagút",
+            "tip": "Álljon meg a régi vasútvonal hűvös, csendes alagútjaiban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás Strunjanról",
+            "tip": "Ha tovább halad a Parenzanán, fantasztikus kilátás nyílik a strunjani sólepárlókra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tunelul Parenzana",
+            "tip": "Opriți-vă în tunelurile răcoroase și liniștite ale vechii căi ferate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere din Strunjan",
+            "tip": "Dacă continuați pe Parenzana, veți avea o priveliște fantastică asupra salinelor din Strunjan.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parenzana Tunnel",
+            "tip": "Stop in the cool, quiet tunnels of the old railway line.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Strunjan",
+            "tip": "If you continue on the Parenzana, you'll get a fantastic view of the Strunjan salt pans.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für Zubehör oder schnelle Reparaturen gibt es in der Stadt einige kleine Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Kiegészítőkért vagy gyors javításokért van néhány kis bolt a városban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru accesorii sau reparații rapide, există câteva magazine mici în oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "For accessories or quick repairs, there are a few small shops in town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in einem der lokalen Geschäfte, wenn Sie keins dabeihaben.",
+          "Die Parenzana ist meist flach, aber einige Abschnitte können Schotter haben.",
+          "Nehmen Sie viel Wasser mit, besonders im Sommer.",
+          "Ein Helm wird empfohlen."
+        ],
+        "hu": [
+          "Béreljen kerékpárt az egyik helyi üzletben, ha nincs sajátja.",
+          "A Parenzana többnyire sík, de egyes szakaszokon lehet murvás.",
+          "Vigyen magával sok vizet, különösen nyáron.",
+          "Sisak viselése ajánlott."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la unul dintre magazinele locale dacă nu aveți una.",
+          "Parenzana este în mare parte plată, dar unele secțiuni pot avea pietriș.",
+          "Luați multă apă, mai ales vara.",
+          "Se recomandă casca de protecție."
+        ],
+        "en": [
+          "Rent a bike from one of the local shops if you don't have one.",
+          "The Parenzana is mostly flat, but some sections can have gravel.",
+          "Bring plenty of water, especially in summer.",
+          "A helmet is recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 18.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken & Cluster Altstadt",
+            "hu": "Parkolás és Óváros Klaszter",
+            "ro": "Parcare și Cluster Orașul Vechi",
+            "en": "Parking & Old Town Cluster"
+          },
+          "coords": [
+            13.663,
+            45.538
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Parkplatz am Hafen. Von hier ist alles zu Fuß erreichbar.",
+            "hu": "Parkoljon a kikötő melletti nagy parkolóban. Innen minden gyalogosan elérhető.",
+            "ro": "Parcați în parcarea mare de lângă port. Totul este la distanță de mers pe jos de aici.",
+            "en": "Park in the large car park by the harbour. Everything is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Manzioli-Platz & Paläste",
+            "hu": "Manzioli tér és paloták",
+            "ro": "Piața Manzioli și Palate",
+            "en": "Manzioli Square & Palaces"
+          },
+          "coords": [
+            13.6595,
+            45.5398
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre, bevor Sie die nahe gelegenen Paläste erkunden.",
+            "hu": "Élvezze a hangulatot, mielőtt felfedezné a közeli palotákat.",
+            "ro": "Bucurați-vă de atmosferă înainte de a explora palatele din apropiere.",
+            "en": "Soak in the atmosphere before exploring the nearby palaces."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Maurus",
+            "hu": "Szent Maurus templom",
+            "ro": "Biserica Sf. Maurus",
+            "en": "Church of St. Maurus"
+          },
+          "coords": [
+            13.658,
+            45.5405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang hinauf durch die Gassen ist Teil des Erlebnisses.",
+            "hu": "A sikátorokon felfelé vezető séta az élmény része.",
+            "ro": "Plimbarea pe străduțe face parte din experiență.",
+            "en": "The walk up through the alleys is part of the experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Simon's Bay & Archäologie",
+            "hu": "Simon-öböl és Régészet Klaszter",
+            "ro": "Cluster Golful Simon și Arheologie",
+            "en": "Simon's Bay & Archeology Cluster"
+          },
+          "coords": [
+            13.645,
+            45.535
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und verbringen Sie Zeit am Strand und im Archäologischen Park.",
+            "hu": "Parkoljon le itt, és töltsön időt a strandon és a régészeti parkban.",
+            "ro": "Parcați aici și petreceți timp la plajă și în parcul arheologic.",
+            "en": "Park here and spend time at the beach and the archaeological park."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Strunjan",
+            "hu": "Autózás Strunjanba",
+            "ro": "Călătorie cu mașina spre Strunjan",
+            "en": "Drive to Strunjan"
+          },
+          "coords": [
+            13.61,
+            45.528
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Ausflug zum nahegelegenen Strunjan Naturpark mit seinen Klippen.",
+            "hu": "Tegyen egy rövid kirándulást a közeli Strunjan Natúrparkba és annak szikláihoz.",
+            "ro": "Faceți o excursie scurtă la Parcul Natural Strunjan, cu stâncile sale.",
+            "en": "Take a short trip to the nearby Strunjan Nature Park with its cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in Izola",
+            "hu": "Vacsora Izolában",
+            "ro": "Cină în Izola",
+            "en": "Dinner in Izola"
+          },
+          "coords": [
+            13.661,
+            45.541
+          ],
+          "category": "gastro",
+          "arrive_at": "16:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in die Stadt und genießen Sie den Abend in einem Restaurant Ihrer Wahl.",
+            "hu": "Hajtson vissza a városba, és élvezze az estét egy tetszőleges étteremben.",
+            "ro": "Conduceți înapoi în oraș și bucurați-vă de seară la un restaurant la alegere.",
+            "en": "Drive back to town and enjoy the evening at a restaurant of your choice."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um Izola und seine Umgebung zu erkunden. Parken Sie morgens im Zentrum und erkunden Sie die Altstadt zu Fuß. Mittags fahren Sie zur Simon's Bay, um am Strand zu entspannen und die römischen Ruinen zu besichtigen. Am Nachmittag ermöglicht Ihnen das Auto einen Ausflug zu den beeindruckenden Klippen von Strunjan. Kehren Sie für ein entspanntes Abendessen nach Izola zurück und lassen Sie den Tag Revue passieren.",
+        "hu": "Használja ki az autó rugalmasságát Izola és környéke felfedezéséhez. Reggel parkoljon a központban, és fedezze fel gyalog az óvárost. Délben hajtson el a Simon-öbölbe, hogy pihenjen a tengerparton és megnézze a római kori romokat. Délután az autóval kirándulást tehet a lenyűgöző strunjani sziklákhoz. Térjen vissza Izolába egy kellemes vacsorára, hogy áttekintse a napot.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a explora Izola și împrejurimile sale. Parcați în centru dimineața și explorați orașul vechi pe jos. La prânz, conduceți spre Golful Simon pentru a vă relaxa pe plajă și a vizita ruinele romane. După-amiaza, mașina vă permite o excursie la impresionantele stânci din Strunjan. Întoarceți-vă la Izola pentru o cină relaxantă și recapitulați ziua.",
+        "en": "Use the flexibility of the car to explore Izola and its surroundings. Park in the center in the morning and explore the old town on foot. At noon, drive to Simon's Bay to relax on the beach and visit the Roman ruins. In the afternoon, the car allows for a trip to the impressive cliffs of Strunjan. Return to Izola for a relaxed dinner to review the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba in den Hügeln",
+            "tip": "Fahren Sie zu einer ländlichen 'Konoba' für authentische istrische Küche."
+          },
+          {
+            "name": "Frischer Fischmarkt",
+            "tip": "Kaufen Sie frischen Fisch, wenn Sie eine Unterkunft mit Küche haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba a dombokon",
+            "tip": "Hajtson el egy vidéki 'konobába' az autentikus isztriai konyháért."
+          },
+          {
+            "name": "Friss halpiac",
+            "tip": "Vásároljon friss halat, ha van konyhával rendelkező szállása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba în dealuri",
+            "tip": "Conduceți la o 'konoba' rurală pentru bucătărie istriană autentică."
+          },
+          {
+            "name": "Piața de pește proaspăt",
+            "tip": "Cumpărați pește proaspăt dacă aveți cazare cu bucătărie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba in the hills",
+            "tip": "Drive to a rural 'konoba' for authentic Istrian cuisine."
+          },
+          {
+            "name": "Fresh fish market",
+            "tip": "Buy fresh fish if you have accommodation with a kitchen."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere Aussichtspunkt",
+            "tip": "Ein kurzer Autostopp oberhalb von Izola für eine Postkartenansicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Salinen von Sečovlje",
+            "tip": "Eine etwas längere Fahrt, aber ein einzigartiges und ruhiges Naturerlebnis.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvedere kilátó",
+            "tip": "Rövid autós megálló Izola felett egy képeslapra illő kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sečovljei sólepárló",
+            "tip": "Kicsit hosszabb út, de egyedi és csendes természeti élmény.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Belvedere",
+            "tip": "O oprire scurtă cu mașina deasupra Izolei pentru o vedere de carte poștală.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Salinele din Sečovlje",
+            "tip": "O călătorie puțin mai lungă, dar o experiență naturală unică și liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvedere Viewpoint",
+            "tip": "A short car stop above Izola for a postcard view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sečovlje Salt Pans",
+            "tip": "A slightly longer drive, but a unique and peaceful nature experience.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingüter im Hinterland",
+            "tip": "Nutzen Sie das Auto, um lokale Weingüter zu besuchen und Malvasia direkt vom Erzeuger zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borászatok a hátországban",
+            "tip": "Használja ki az autót, hogy meglátogasson helyi borászatokat és vásároljon Malvasiát közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame din hinterland",
+            "tip": "Folosiți mașina pentru a vizita cramele locale și a cumpăra Malvasia direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wineries in the hinterland",
+            "tip": "Use the car to visit local wineries and buy Malvasia directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Sommer teuer und schwierig sein. Nutzen Sie die großen, ausgeschilderten Parkplätze.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen, besonders in den kleinen Dörfern.",
+          "Ein GPS ist hilfreich für die Erkundung des Hinterlandes.",
+          "Kombinieren Sie Ihren Besuch mit einem Abstecher nach Piran oder Koper."
+        ],
+        "hu": [
+          "A parkolás nyáron drága és nehézkes lehet. Használja a nagy, kijelölt parkolókat.",
+          "Tartsa be a sebességkorlátozásokat, különösen a kis falvakban.",
+          "A hátország felfedezéséhez hasznos a GPS.",
+          "Kombinálja látogatását egy kirándulással Piranba vagy Koperbe."
+        ],
+        "ro": [
+          "Parcarea poate fi scumpă și dificilă vara. Folosiți parcările mari, semnalizate.",
+          "Respectați limitele de viteză, în special în satele mici.",
+          "Un GPS este util pentru explorarea hinterlandului.",
+          "Combinați vizita cu o excursie la Piran sau Koper."
+        ],
+        "en": [
+          "Parking can be expensive and difficult in the summer. Use the large, designated car parks.",
+          "Respect the speed limits, especially in the small villages.",
+          "A GPS is helpful for exploring the hinterland.",
+          "Combine your visit with a trip to Piran or Koper."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Bus nach Simon's Bay",
+            "hu": "Érkezés és busz a Simon-öbölbe",
+            "ro": "Sosire și autobuz spre Golful Simon",
+            "en": "Arrival & Bus to Simon's Bay"
+          },
+          "coords": [
+            13.658,
+            45.533
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie vom Busbahnhof den lokalen Bus (Linie 1), der Sie in die Nähe des Archäologischen Parks bringt.",
+            "hu": "A buszpályaudvarról menjen a helyi busszal (1-es vonal), amely a régészeti park közelébe visz.",
+            "ro": "De la autogară, luați autobuzul local (linia 1) care vă duce aproape de parcul arheologic.",
+            "en": "From the bus station, take the local bus (Line 1) that gets you close to the archaeological park."
+          }
+        },
+        {
+          "name": {
+            "de": "Simon's Bay Archäologischer Park",
+            "hu": "Simon-öböl Régészeti Park",
+            "ro": "Parcul Arheologic Golful Simon",
+            "en": "Simon's Bay Archaeological Park"
+          },
+          "coords": [
+            13.645,
+            45.535
+          ],
+          "category": "historical",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie am äußersten Punkt und arbeiten Sie sich zurück ins Zentrum.",
+            "hu": "Kezdje a legtávolabbi ponton, és haladjon vissza a központ felé.",
+            "ro": "Începeți de la cel mai îndepărtat punct și mergeți înapoi spre centru.",
+            "en": "Start at the furthest point and work your way back to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang entlang der Promenade",
+            "hu": "Séta a promenádon",
+            "ro": "Plimbare pe promenadă",
+            "en": "Stroll along the Promenade"
+          },
+          "coords": [
+            13.655,
+            45.538
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang von der Bucht in die Altstadt ist wunderschön und bietet tolle Fotomotive.",
+            "hu": "Az öbölből az óvárosba vezető séta gyönyörű és remek fotózási lehetőségeket kínál.",
+            "ro": "Plimbarea de la golf la orașul vechi este frumoasă și oferă oportunități excelente pentru fotografii.",
+            "en": "The walk from the bay to the old town is beautiful and offers great photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen & Mittagessen",
+            "hu": "Kikötő és ebéd",
+            "ro": "Port și prânz",
+            "en": "Harbour & Lunch"
+          },
+          "coords": [
+            13.661,
+            45.541
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein Restaurant mit Blick auf die Boote.",
+            "hu": "Keressen egy éttermet, ahonnan kilátás nyílik a hajókra.",
+            "ro": "Găsiți un restaurant cu vedere la bărci.",
+            "en": "Find a restaurant with a view of the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt-Cluster: Manzioli & Kirche",
+            "hu": "Óváros Klaszter: Manzioli és templom",
+            "ro": "Cluster Orașul Vechi: Manzioli și Biserică",
+            "en": "Old Town Cluster: Manzioli & Church"
+          },
+          "coords": [
+            13.659,
+            45.54
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Rest der Altstadt, einschließlich des Platzes und der Kirche.",
+            "hu": "Fedezze fel az óváros többi részét, beleértve a teret és a templomot.",
+            "ro": "Explorați restul orașului vechi, inclusiv piața și biserica.",
+            "en": "Explore the rest of the old town, including the square and church."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm-Park (Svetilnik)",
+            "hu": "Világítótorony Park (Svetilnik)",
+            "ro": "Parcul Farului (Svetilnik)",
+            "en": "Lighthouse Park (Svetilnik)"
+          },
+          "coords": [
+            13.656,
+            45.543
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag ausklingen zu lassen, bevor Sie zum Busbahnhof zurückkehren.",
+            "hu": "Tökéletes hely a nap lezárására, mielőtt visszatérne a buszpályaudvarra.",
+            "ro": "Locul perfect pentru a încheia ziua înainte de a vă întoarce la autogară.",
+            "en": "The perfect place to end the day before heading back to the bus station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Plan nutzt den lokalen Bus, um die Entfernung zu überbrücken, und setzt dann auf das Gehen. Nehmen Sie den Bus zur Simon's Bay, um Ihre Erkundung bei den römischen Ruinen zu beginnen. Von dort aus führt Sie ein malerischer Spaziergang entlang der Küste zurück ins Zentrum, wo Sie den Hafen und die Altstadt erkunden. Der Nachmittag ist für die ruhigen Plätze reserviert, die in den engen Gassen und am Leuchtturm-Park zu finden sind, bevor es Zeit ist, den Bus nach Hause zu nehmen.",
+        "hu": "Ez a terv a helyi buszt használja a távolság áthidalására, majd a gyaloglásra támaszkodik. Buszozzon el a Simon-öbölbe, hogy a római romoknál kezdje a felfedezést. Onnan egy festői tengerparti séta vezet vissza a központba, ahol felfedezheti a kikötőt és az óvárost. A délután a szűk utcákban és a Világítótorony Parkban található csendes helyeké, mielőtt ideje lenne hazabuszozni.",
+        "ro": "Acest plan folosește autobuzul local pentru a acoperi distanța și apoi se bazează pe mersul pe jos. Luați autobuzul spre Golful Simon pentru a începe explorarea la ruinele romane. De acolo, o plimbare pitorească de-a lungul coastei vă duce înapoi în centru, unde explorați portul și orașul vechi. După-amiaza este rezervată locurilor liniștite găsite pe străduțele înguste și în Parcul Farului înainte de a lua autobuzul spre casă.",
+        "en": "This plan uses the local bus to cover distance and then relies on walking. Take the bus to Simon's Bay to start your exploration at the Roman ruins. From there, a scenic walk along the coast leads you back to the center, where you'll explore the port and the old town. The afternoon is reserved for the quiet spots found in the narrow alleys and at the Lighthouse Park before it's time to catch the bus home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "Ein schneller und leckerer Snack, den man in Bäckereien in der Nähe des Busbahnhofs findet."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie eine Flasche 'Laško' oder 'Union' in einer Bar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Gyors és finom harapnivaló, amelyet a buszpályaudvar közelében lévő pékségekben talál."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy üveg 'Laško'-t vagy 'Union'-t egy bárban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "O gustare rapidă și delicioasă găsită în brutăriile de lângă autogară."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încercați o sticlă de 'Laško' sau 'Union' la un bar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "A quick and delicious snack found in bakeries near the bus station."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a bottle of 'Laško' or 'Union' at a bar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof bei der Kirche St. Maurus",
+            "tip": "Ein überraschend friedlicher Ort mit alter Geschichte und schöner Aussicht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Die Bänke am Ende des Hafens",
+            "tip": "Setzen Sie sich und beobachten Sie, wie die Fischerboote kommen und gehen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Szent Maurus templom melletti temető",
+            "tip": "Meglepően békés hely, régi történelemmel és szép kilátással.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A kikötő végén lévő padok",
+            "tip": "Üljön le és nézze a halászhajók jövés-menését.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă Biserica Sf. Maurus",
+            "tip": "Un loc surprinzător de pașnic, cu istorie veche și o priveliște frumoasă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Băncile de la capătul portului",
+            "tip": "Stați jos și priviți bărcile de pescuit venind și plecând.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery by the Church of St. Maurus",
+            "tip": "A surprisingly peaceful place with old history and a beautiful view.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The benches at the end of the harbour",
+            "tip": "Sit and watch the fishing boats come and go.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie Postkarten oder ein kaltes Getränk für die Rückfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon képeslapot vagy egy hideg italt a visszaútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați vederi sau o băutură rece pentru călătoria de întoarcere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy postcards or a cold drink for the return journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket, wenn Sie vorhaben, den Bus mehrmals zu benutzen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders am Wochenende.",
+          "Izola ist sehr gut zu Fuß erreichbar; der Bus ist am nützlichsten, um den ersten oder letzten Teil der Reise abzukürzen.",
+          "Die meisten Busse sind modern und klimatisiert."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, ha többször is tervezi használni a buszt.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén.",
+          "Izola nagyon jól bejárható gyalog; a busz leginkább az utazás első vagy utolsó szakaszának lerövidítésére hasznos.",
+          "A legtöbb busz modern és légkondicionált."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi dacă intenționați să folosiți autobuzul de mai multe ori.",
+          "Verificați programul autobuzelor în avans, în special în weekend.",
+          "Izola este foarte accesibilă pe jos; autobuzul este cel mai util pentru a scurta prima sau ultima parte a călătoriei.",
+          "Majoritatea autobuzelor sunt moderne și au aer condiționat."
+        ],
+        "en": [
+          "Buy a day ticket if you plan to use the bus multiple times.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "Izola is very walkable; the bus is most useful for shortening the first or last leg of the journey.",
+          "Most buses are modern and air-conditioned."
+        ]
+      }
+    }
+  }
+}

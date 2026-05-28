@@ -1,0 +1,1476 @@
+{
+  "city_id": "norway-kongsberg-cities-v2",
+  "anchor": {
+    "name": "Kongsberg",
+    "coords": [
+      9.64,
+      59.66
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kongsberg Kirche",
+            "hu": "Kongsbergi templom",
+            "ro": "Biserica Kongsberg",
+            "en": "Kongsberg Church"
+          },
+          "coords": [
+            9.6478,
+            59.6665
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die opulente Barock-Innenausstattung, die in starkem Kontrast zur schlichten Außenseite steht.",
+            "hu": "Csodálja meg a pazar barokk belső teret, amely éles kontrasztban áll a templom egyszerű külsejével.",
+            "ro": "Admirați interiorul baroc opulent, care contrastează puternic cu exteriorul sobru al bisericii.",
+            "en": "Admire the opulent baroque interior, which stands in stark contrast to the church's plain exterior."
+          }
+        },
+        {
+          "name": {
+            "de": "Norwegisches Bergwerksmuseum",
+            "hu": "Norvég Bányászati Múzeum",
+            "ro": "Muzeul Minier Norvegian",
+            "en": "Norwegian Mining Museum"
+          },
+          "coords": [
+            9.6445,
+            59.6678
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die beeindruckende Silber- und Münzsammlung im Keller.",
+            "hu": "Ne hagyja ki a pincében található lenyűgöző ezüst- és érmegyűjteményt.",
+            "ro": "Nu ratați colecția impresionantă de argint și monede de la subsol.",
+            "en": "Don't miss the impressive silver and coin collection in the basement."
+          }
+        },
+        {
+          "name": {
+            "de": "Kronene i Håvet",
+            "hu": "Kronene i Håvet (Királyi Monogramok)",
+            "ro": "Kronene i Håvet (Monograme Regale)",
+            "en": "Kronene i Håvet (Royal Monograms)"
+          },
+          "coords": [
+            9.638,
+            59.6705
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergauf, der mit einer einzigartigen königlichen Geschichte und schöner Aussicht belohnt wird.",
+            "hu": "Egy rövid, emelkedős séta, amelyet egyedülálló királyi történelem és gyönyörű kilátás jutalmaz.",
+            "ro": "O scurtă plimbare la deal, recompensată cu o istorie regală unică și vederi frumoase.",
+            "en": "A short uphill walk rewarded with a unique piece of royal history and nice views."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            9.646,
+            59.665
+          ],
+          "category": "gastro",
+          "arrive_at": "13:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Gericht in einem der Restaurants rund um den Kirketorget.",
+            "hu": "Kóstoljon meg egy helyi fogást a Kirketorget körüli éttermek egyikében.",
+            "ro": "Încercați un preparat local la unul dintre restaurantele din jurul pieței Kirketorget.",
+            "en": "Try a local dish at one of the restaurants around the Kirketorget square."
+          }
+        },
+        {
+          "name": {
+            "de": "Lågfossen Wasserfall",
+            "hu": "Lågfossen-vízesés",
+            "ro": "Cascada Lågfossen",
+            "en": "Lågfossen Waterfall"
+          },
+          "coords": [
+            9.654,
+            59.659
+          ],
+          "category": "natural features",
+          "arrive_at": "14:51",
+          "stay_min": 45,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der beste Blick bietet sich von der Nybroa-Brücke. Im Frühling ist der Wasserfall am beeindruckendsten.",
+            "hu": "A legjobb kilátás a Nybroa hídról nyílik. A vízesés tavasszal a leglátványosabb.",
+            "ro": "Cea mai bună priveliște este de pe podul Nybroa. Cascada este cea mai impresionantă primăvara.",
+            "en": "The best view is from the Nybroa bridge. The waterfall is most impressive in the spring."
+          }
+        },
+        {
+          "name": {
+            "de": "Funkelia",
+            "hu": "Funkelia",
+            "ro": "Funkelia",
+            "en": "Funkelia"
+          },
+          "coords": [
+            9.613,
+            59.673
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:06",
+          "stay_min": 59,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort für einen entspannten Spaziergang am Nachmittag mit gut markierten Wegen.",
+            "hu": "Kellemes hely egy pihentető délutáni sétához, jól jelzett ösvényekkel.",
+            "ro": "Un loc minunat pentru o plimbare relaxantă de după-amiază, cu trasee bine marcate.",
+            "en": "A lovely area for a relaxing afternoon walk, with well-marked trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung des historischen Herzens von Kongsberg. Am Morgen besichtigen Sie die prächtige Kongsberger Kirche und tauchen im Norwegischen Bergbaumuseum in die reiche Geschichte des Silberbergbaus ein. Ein kurzer Spaziergang führt Sie zu den in Fels gehauenen königlichen Monogrammen bei Kronene i Håvet. \nGenießen Sie zur Mittagszeit ein herzhaftes norwegisches Essen in einem der gemütlichen Restaurants im Stadtzentrum. Tanken Sie Energie für einen Nachmittag voller Entdeckungen.\nAm Nachmittag wandern Sie entlang des Flusses zum beeindruckenden Lågfossen-Wasserfall und genießen die Kraft der Natur. Die Gischt und das Rauschen bieten eine erfrischende Pause von der Stadt.\nSchließen Sie Ihren Tag mit einem friedlichen Spaziergang durch die grünen Pfade von Funkelia ab. Es ist der perfekte Ort, um über die silberne Vergangenheit der Stadt und ihre natürliche Schönheit nachzudenken, bevor Sie den Tag beenden.",
+        "hu": "Kezdje a napot Kongsberg történelmi szívének felfedezésével. Délelőtt nézze meg a csodálatos Kongsbergi templomot, majd merüljön el az ezüstbányászat gazdag történelmében a Norvég Bányászati Múzeumban. Egy rövid sétával eljuthat a sziklába vésett királyi monogramokhoz a Kronene i Håvetnél.\nEbédidőben élvezzen egy kiadós norvég ételt a belváros egyik hangulatos éttermében. Töltődjön fel energiával a délutáni felfedezésekhez.\nDélután sétáljon a folyó mentén a lenyűgöző Lågfossen-vízeséshez, és élvezze a természet erejét. A vízpermet és a morajlás frissítő szünetet nyújt a városi forgatag után.\nZárja a napot egy békés sétával Funkelia zöld ösvényein. Ez a tökéletes hely, hogy elgondolkodjon a város ezüst múltján és természeti szépségén, mielőtt befejezné a napot.",
+        "ro": "Începeți ziua explorând inima istorică a orașului Kongsberg. Dimineața, vizitați magnifica Biserică Kongsberg și pătrundeți în istoria bogată a mineritului de argint la Muzeul Minier Norvegian. O scurtă plimbare vă duce la monogramele regale sculptate în stâncă la Kronene i Håvet.\nLa prânz, savurați o masă norvegiană copioasă la unul dintre restaurantele primitoare din centrul orașului. Reîncărcați-vă bateriile pentru o după-amiază de explorare.\nDupă-amiaza, plimbați-vă de-a lungul râului până la impresionanta cascadă Lågfossen, bucurându-vă de puterea naturii. Stropii și vuietul oferă o pauză răcoritoare de la oraș.\nÎncheiați ziua cu o plimbare liniștită pe cărările verzi din Funkelia. Este locul perfect pentru a reflecta asupra trecutului de argint al orașului și a frumuseții sale naturale înainte de a încheia ziua.",
+        "en": "Start your day by exploring the historic heart of Kongsberg. In the morning, visit the magnificent Kongsberg Church and delve into the rich silver mining history at the Norwegian Mining Museum. A short walk takes you to the royal monograms carved in rock at Kronene i Håvet.\nAt lunchtime, enjoy a hearty Norwegian meal at one of the cozy restaurants in the city center. Refuel your energy for an afternoon of exploration.\nIn the afternoon, wander along the river to the impressive Lågfossen waterfall, enjoying the power of nature. The spray and the roar offer a refreshing break from the town.\nConclude your day with a peaceful stroll through the green trails of Funkelia. It's the perfect place to reflect on the city's silver past and its natural beauty before calling it a day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fårikål",
+            "tip": "Norwegens Nationalgericht, ein herzhafter Lammeintopf mit Kohl. Suchen Sie danach in traditionellen Restaurants."
+          },
+          {
+            "name": "Kjøttkaker",
+            "tip": "Norwegische Fleischbällchen, oft mit Soße, Kartoffeln und Preiselbeermarmelade serviert."
+          },
+          {
+            "name": "Lokales Silber-Bier",
+            "tip": "Probieren Sie ein Bier von einer lokalen Brauerei, das oft einen Bezug zur Bergbaugeschichte hat."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fårikål",
+            "tip": "Norvégia nemzeti étele, egy kiadós bárányragu káposztával. Keresse a hagyományos éttermekben."
+          },
+          {
+            "name": "Kjøttkaker",
+            "tip": "Norvég húsgombócok, gyakran mártással, burgonyával és vörösáfonya lekvárral tálalva."
+          },
+          {
+            "name": "Helyi 'Ezüst' Sör",
+            "tip": "Kóstoljon meg egy sört egy helyi sörfőzdéből, amely gyakran kapcsolódik a bányászati történelemhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fårikål",
+            "tip": "Mâncarea națională a Norvegiei, o tocană consistentă de miel cu varză. Căutați-o în restaurantele tradiționale."
+          },
+          {
+            "name": "Kjøttkaker",
+            "tip": "Chiftele norvegiene, adesea servite cu sos, cartofi și gem de merișoare."
+          },
+          {
+            "name": "Berea locală 'de argint'",
+            "tip": "Încercați o bere de la o fabrică locală, adesea cu o legătură cu istoria minieră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fårikål",
+            "tip": "Norway's national dish, a hearty lamb and cabbage stew. Look for it in traditional eateries."
+          },
+          {
+            "name": "Kjøttkaker",
+            "tip": "Norwegian meatballs, often served with gravy, potatoes, and lingonberry jam."
+          },
+          {
+            "name": "Local 'Silver' Beer",
+            "tip": "Try a beer from a local brewery, often with a nod to the mining history."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Lågen",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses, weg vom Stadtzentrum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Funkelia Waldwege",
+            "tip": "Verlieren Sie sich auf den ruhigen Pfaden dieses weitläufigen Erholungsgebiets.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bänke bei der Kirche",
+            "tip": "Sitzen Sie auf einer Bank im ruhigen Gelände um die Kongsberger Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Lågen folyó partján",
+            "tip": "Egy békés séta a folyó mentén, távol a városközponttól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Funkelia erdei ösvények",
+            "tip": "Vesszen el ennek a tágas üdülőterületnek a csendes ösvényein.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Padok a templomnál",
+            "tip": "Üljön le egy padra a Kongsbergi templom körüli csendes területen.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Lågen",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cărările din pădurea Funkelia",
+            "tip": "Pierdeți-vă pe cărările liniștite ale acestei zone recreative extinse.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bănci lângă biserică",
+            "tip": "Stați pe o bancă în terenul liniștit din jurul Bisericii Kongsberg.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lågen Riverside Walk",
+            "tip": "A peaceful walk along the river, away from the town center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Funkelia Forest Trails",
+            "tip": "Get lost in the quiet paths of this vast recreational area.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Benches by the Church",
+            "tip": "Sit on a bench in the tranquil grounds surrounding Kongsberg Church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Silberschmuck",
+            "tip": "Ein Muss. Suchen Sie nach einzigartigen Stücken, die von der lokalen Bergbaugeschichte inspiriert sind."
+          },
+          {
+            "name": "Norwegische Strickwaren",
+            "tip": "Kaufen Sie einen warmen, traditionellen norwegischen Pullover oder Accessoires."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ezüst ékszerek",
+            "tip": "Kötelező vétel. Keressen egyedi, a helyi bányászat által inspirált darabokat."
+          },
+          {
+            "name": "Norvég kötöttáruk",
+            "tip": "Vásároljon egy meleg, hagyományos norvég pulóvert vagy kiegészítőket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii de argint",
+            "tip": "O achiziție obligatorie. Căutați piese unice inspirate de istoria minieră locală."
+          },
+          {
+            "name": "Tricotaje norvegiene",
+            "tip": "Cumpărați un pulover norvegian tradițional călduros sau accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silver Jewelry",
+            "tip": "A must-buy. Look for unique pieces inspired by the local mining history."
+          },
+          {
+            "name": "Norwegian Knitwear",
+            "tip": "Shop for a warm, traditional Norwegian sweater or accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Tag viel Laufen beinhaltet.",
+          "Überprüfen Sie die Öffnungszeiten des Bergbaumuseums im Voraus.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Der Spaziergang zu Kronene i Håvet ist steil, aber kurz.",
+          "Eine Regenjacke ist in Norwegen immer eine gute Idee, auch an sonnigen Tagen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert a nap sok sétával jár.",
+          "Előre ellenőrizze a Bányászati Múzeum nyitvatartási idejét.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "A séta a Kronene i Håvet-hez meredek, de rövid.",
+          "Egy esőkabát mindig jó ötlet Norvégiában, még napos időben is."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece ziua implică mult mers pe jos.",
+          "Verificați în avans orele de funcționare ale Muzeului Minier.",
+          "Aduceți o sticlă de apă reutilizabilă.",
+          "Plimbarea până la Kronene i Håvet este abruptă, dar scurtă.",
+          "O geacă de ploaie este întotdeauna o idee bună în Norvegia, chiar și în zilele insorite."
+        ],
+        "en": [
+          "Wear comfortable shoes as the day involves a lot of walking.",
+          "Check the opening hours for the Mining Museum in advance.",
+          "Bring a reusable water bottle.",
+          "The walk to Kronene i Håvet is steep but short.",
+          "A rain jacket is always a good idea in Norway, even on sunny days."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 20.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Start am Labromuseene",
+            "hu": "Parkolás és indulás a Labromuseene-nél",
+            "ro": "Parcare și start la Muzeele Labro",
+            "en": "Park and Start at Labromuseene"
+          },
+          "coords": [
+            9.663,
+            59.63
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Dieses Cluster von Museen ist ein großartiger Ausgangspunkt mit ausreichend Parkplätzen.",
+            "hu": "Ez a múzeumi klaszter remek kiindulópont, bőséges parkolóval.",
+            "ro": "Acest grup de muzee este un punct de plecare excelent, cu parcare amplă.",
+            "en": "This cluster of museums is a great starting point with ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Lågfossen Wasserfall",
+            "hu": "Lågfossen-vízesés",
+            "ro": "Cascada Lågfossen",
+            "en": "Lågfossen Waterfall"
+          },
+          "coords": [
+            9.654,
+            59.659
+          ],
+          "category": "natural features",
+          "arrive_at": "10:38",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und gehen Sie zur Nybroa-Brücke für die beste Aussicht.",
+            "hu": "Parkoljon a közelben, és sétáljon a Nybroa hídhoz a legjobb kilátásért.",
+            "ro": "Parcați în apropiere și mergeți pe jos până la podul Nybroa pentru cea mai bună priveliște.",
+            "en": "Park nearby and walk to the Nybroa bridge for the best viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt und Parken im Stadtzentrum",
+            "hu": "Utazás és parkolás a központban",
+            "ro": "Conduceți și parcați în centrul orașului",
+            "en": "Drive and Park in City Center"
+          },
+          "coords": [
+            9.647,
+            59.666
+          ],
+          "category": "gastro",
+          "arrive_at": "11:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie einen zentralen Parkplatz, um das Stadtzentrum zu Fuß zu erkunden. Zeit für ein Mittagessen.",
+            "hu": "Keressen egy központi parkolót, hogy gyalog fedezze fel a városközpontot. Itt az ebédidő.",
+            "ro": "Găsiți o parcare centrală pentru a explora centrul orașului pe jos. Timp pentru prânz.",
+            "en": "Find a central parking spot to explore the city center on foot. Time for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kongsberg Kirche",
+            "hu": "Kongsbergi templom",
+            "ro": "Biserica Kongsberg",
+            "en": "Kongsberg Church"
+          },
+          "coords": [
+            9.6478,
+            59.6665
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Mittagessen. Das schlichte Äußere verbirgt ein reiches Inneres.",
+            "hu": "Rövid séta az ebédtől. Az egyszerű külső gazdag belsőt rejt.",
+            "ro": "O scurtă plimbare de la locul de prânz. Exteriorul simplu ascunde un interior bogat.",
+            "en": "A short walk from your lunch spot. The plain exterior hides a rich interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Norwegisches Bergwerksmuseum",
+            "hu": "Norvég Bányászati Múzeum",
+            "ro": "Muzeul Minier Norvegian",
+            "en": "Norwegian Mining Museum"
+          },
+          "coords": [
+            9.6445,
+            59.6678
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hauptanziehungspunkt der Stadt. Planen Sie genügend Zeit für die Exponate ein.",
+            "hu": "A város fő attrakciója. Szánjon elég időt a kiállításokra.",
+            "ro": "Atracția principală a orașului. Planificați suficient timp pentru exponate.",
+            "en": "The town's main attraction. Allow plenty of time for the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zu den Silberminen",
+            "hu": "Utazás az Ezüstbányákhoz",
+            "ro": "Conduceți la Minele de Argint",
+            "en": "Drive to the Silver Mines"
+          },
+          "coords": [
+            9.59,
+            59.68
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die Hauptattraktion! Die Fahrt ist Teil des Erlebnisses. Buchen Sie die Grubenfahrt im Voraus.",
+            "hu": "A fő attrakció! Az utazás az élmény része. Foglalja le a bányavonatot előre.",
+            "ro": "Atracția principală! Drumul face parte din experiență. Rezervați în avans trenul minier.",
+            "en": "The main event! The drive is part of the experience. Book the mine train tour in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kronene i Håvet",
+            "hu": "Kronene i Håvet",
+            "ro": "Kronene i Håvet",
+            "en": "Kronene i Håvet"
+          },
+          "coords": [
+            9.638,
+            59.6705
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:42",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Spaziergang in der Nähe der Minen, um den Tag abzuschließen.",
+            "hu": "Egy rövid, de hálás séta a bányák közelében a nap lezárásaként.",
+            "ro": "O plimbare scurtă, dar plină de satisfacții, lângă mine, pentru a încheia ziua.",
+            "en": "A short but rewarding walk near the mines to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Auto-Abenteuer bei den Labromuseene, wo Sie bequem parken und in die lokale Geschichte eintauchen können. Von dort aus ist es eine kurze Fahrt zum tosenden Lågfossen-Wasserfall, einem perfekten Fotostopp.\nZur Mittagszeit fahren Sie ins Stadtzentrum. Parken Sie Ihr Auto und erkunden Sie den historischen Kern zu Fuß. Nach einem stärkenden Mittagessen schlendern Sie zur berühmten Kongsberger Kirche und zum faszinierenden Norwegischen Bergbaumuseum, dem Herzstück der Stadtgeschichte.\nDer Höhepunkt des Nachmittags ist die Fahrt aus der Stadt zu den historischen Silberminen. Dieses eindringliche Erlebnis führt Sie tief unter die Erde mit dem Grubenzug und enthüllt die Quelle von Kongsbergs Reichtum.\nZum Abschluss des Tages machen Sie einen kurzen Spaziergang in der Nähe der Minen zum Kronene i Håvet, um die in Stein gemeißelten königlichen Monogramme zu sehen. Es ist ein ruhiger Abschluss eines Tages voller Entdeckungen, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Kezdje autós kalandját a Labromuseene-nél, ahol kényelmesen parkolhat és elmerülhet a helyi történelemben. Innen rövid autóút vezet a dübörgő Lågfossen-vízeséshez, amely tökéletes fotómegálló.\nEbédidőben hajtson a városközpontba. Parkolja le az autót, és fedezze fel gyalog a történelmi magot. Egy kiadós ebéd után sétáljon el a híres Kongsbergi templomhoz és a lenyűgöző Norvég Bányászati Múzeumhoz, a város történelmének szívéhez.\nA délután fénypontja az utazás a városból a történelmi Ezüstbányákhoz. Ez a magával ragadó élmény a bányavonattal mélyen a föld alá visz, felfedve Kongsberg gazdagságának forrását.\nA nap lezárásaként tegyen egy rövid sétát a bányák közelében a Kronene i Håvet-hez, hogy megnézze a kőbe vésett királyi monogramokat. Ez egy békés befejezése a felfedezésekkel teli napnak, mielőtt visszatérne az autójához.",
+        "ro": "Începeți aventura cu mașina la Muzeele Labro, unde puteți parca convenabil și pătrunde în istoria locală. De acolo, este o scurtă călătorie cu mașina până la zgomotoasa cascadă Lågfossen, o oprire perfectă pentru fotografii.\nLa prânz, conduceți în centrul orașului. Parcați mașina și explorați nucleul istoric pe jos. După un prânz consistent, plimbați-vă până la renumita Biserică Kongsberg și fascinantul Muzeu Minier Norvegian, piesa centrală a istoriei orașului.\nPunctul culminant al după-amiezii este călătoria cu mașina în afara orașului, la istoricele Mine de Argint. Această experiență captivantă vă duce în adâncul pământului cu trenul minier, dezvăluind sursa bogăției din Kongsberg.\nPentru a încheia ziua, faceți o scurtă plimbare lângă mine până la Kronene i Håvet pentru a vedea monogramele regale sculptate în piatră. Este un final liniștit pentru o zi plină de descoperiri, înainte de a vă întoarce la mașină.",
+        "en": "Start your car adventure at Labromuseene, where you can park conveniently and dive into local history. From there, it's a short drive to the roaring Lågfossen waterfall, a perfect photo stop.\nAt midday, drive to the city center. Park your car and explore the historic core on foot. After a refueling lunch, stroll to the famous Kongsberg Church and the fascinating Norwegian Mining Museum, the centerpiece of the town's history.\nThe highlight of the afternoon is the drive out of town to the historic Silver Mines. This immersive experience takes you deep underground on the mine train, revealing the source of Kongsberg's wealth.\nTo finish the day, take a short walk near the mines to Kronene i Håvet to see the royal monograms carved in stone. It's a peaceful end to a day of discovery before heading back to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørbrød",
+            "tip": "Offene Sandwiches, perfekt für ein schnelles und leckeres Mittagessen im Stadtzentrum."
+          },
+          {
+            "name": "Wildgerichte",
+            "tip": "Suchen Sie nach Restaurants außerhalb der Stadt, die lokale Wildgerichte wie Elch oder Rentier servieren."
+          },
+          {
+            "name": "Kongsberg-Kake",
+            "tip": "Ein lokaler Kuchen, den man in Bäckereien für einen süßen Genuss findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørbrød",
+            "tip": "Nyitott szendvicsek, tökéletesek egy gyors és finom ebédhez a városközpontban."
+          },
+          {
+            "name": "Vadhús ételek",
+            "tip": "Keressen a városon kívüli éttermeket, amelyek helyi vadhúsokat, például jávorszarvast vagy rénszarvast szolgálnak fel."
+          },
+          {
+            "name": "Kongsberg-Kake",
+            "tip": "Egy helyi sütemény, amelyet a pékségekben találhat egy édes élvezetért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørbrød",
+            "tip": "Sandvișuri deschise, perfecte pentru un prânz rapid și delicios în centrul orașului."
+          },
+          {
+            "name": "Mâncăruri din vânat",
+            "tip": "Căutați restaurante în afara orașului care servesc vânat local, cum ar fi elan sau ren."
+          },
+          {
+            "name": "Kongsberg-Kake",
+            "tip": "O prăjitură locală găsită în brutării pentru un deliciu dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørbrød",
+            "tip": "Open-faced sandwiches, perfect for a quick and delicious lunch in the city center."
+          },
+          {
+            "name": "Game Meats",
+            "tip": "Look for restaurants outside the city that serve local game like moose or reindeer."
+          },
+          {
+            "name": "Kongsberg-Kake",
+            "tip": "A local cake found in bakeries for a sweet treat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Technologiepark",
+            "tip": "Fahren Sie zum Technologiepark für einen Panoramablick über die Stadt und das Tal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Umgebung der Silberminen",
+            "tip": "Nach der Tour bietet die ruhige Waldlandschaft rund um die Minen einen friedlichen Rückzugsort.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Funkelia Erholungsgebiet",
+            "tip": "Ein weitläufiges Gebiet, perfekt für eine ruhige Fahrt oder einen kurzen Spaziergang in der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Technológiai Parkból",
+            "tip": "Hajtson fel a Technológiai Parkhoz, ahonnan panorámás kilátás nyílik a városra és a völgyre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az Ezüstbányák környéke",
+            "tip": "A túra után a bányákat körülvevő csendes erdő békés menedéket nyújt.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Funkelia üdülőterület",
+            "tip": "Egy hatalmas terület, amely tökéletes egy csendes autózáshoz vagy egy rövid sétához a természetben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Parcul Tehnologic",
+            "tip": "Conduceți până la Parcul Tehnologic pentru o vedere panoramică asupra orașului și a văii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Împrejurimile Minelor de Argint",
+            "tip": "După tur, peisajul forestier liniștit din jurul minelor oferă un refugiu pașnic.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Zona de recreere Funkelia",
+            "tip": "O zonă vastă, perfectă pentru o plimbare liniștită cu mașina sau o scurtă plimbare în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Technology Park",
+            "tip": "Drive up to the Technology Park for a panoramic view of the city and valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The Silver Mines Surroundings",
+            "tip": "After the tour, the quiet forest landscape around the mines offers a peaceful retreat.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Funkelia Recreational Area",
+            "tip": "A vast area perfect for a quiet drive or a short walk in nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf Ihren Fahrten Ausschau nach Hofläden, die lokale Produkte und Kunsthandwerk verkaufen."
+          },
+          {
+            "name": "Kongsberg-Glas",
+            "tip": "Suchen Sie nach lokal hergestelltem Glas, einem weiteren historischen Handwerk der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmboltok",
+            "tip": "Autózás közben figyelje a helyi termékeket és kézműves termékeket árusító farmboltokat."
+          },
+          {
+            "name": "Kongsbergi üveg",
+            "tip": "Keressen helyben készült üvegárut, a régió egy másik történelmi kézműves termékét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Fiți atenți la magazinele de fermă care vând produse locale și artizanat în timpul călătoriilor dvs."
+          },
+          {
+            "name": "Sticlă de Kongsberg",
+            "tip": "Căutați sticlărie fabricată local, o altă meșteșug istoric al zonei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Look out for farm shops selling local produce and crafts on your drives."
+          },
+          {
+            "name": "Kongsberg Glass",
+            "tip": "Look for locally made glassware, another historic craft of the area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie die Tour zu den Silberminen lange im Voraus, besonders in der Hochsaison.",
+          "Tanken Sie, bevor Sie die Stadt verlassen, da Tankstellen außerhalb selten sein können.",
+          "Parken im Stadtzentrum ist kostenpflichtig.",
+          "Nehmen Sie eine warme Jacke für die Minentour mit, da es dort unten kalt ist.",
+          "Verwenden Sie eine GPS-App, um sich auf den Landstraßen zurechtzufinden."
+        ],
+        "hu": [
+          "Foglalja le az Ezüstbányák túrát jó előre, különösen a főszezonban.",
+          "Tankoljon, mielőtt elhagyja a várost, mert a benzinkutak ritkák lehetnek a külterületeken.",
+          "A parkolás a városközpontban fizetős.",
+          "Vigyen magával meleg kabátot a bányatúrára, mert lent hideg van.",
+          "Használjon GPS-alkalmazást a vidéki utakon való navigáláshoz."
+        ],
+        "ro": [
+          "Rezervați turul la Minele de Argint cu mult timp în avans, mai ales în sezonul de vârf.",
+          "Alimentați cu combustibil înainte de a părăsi orașul, deoarece benzinăriile pot fi rare în afara acestuia.",
+          "Parcarea în centrul orașului este contra cost.",
+          "Luați o geacă groasă pentru turul minei, deoarece este frig jos.",
+          "Utilizați o aplicație GPS pentru a naviga pe drumurile rurale."
+        ],
+        "en": [
+          "Book the Silver Mines tour well in advance, especially in high season.",
+          "Fuel up before leaving the town, as gas stations can be sparse outside it.",
+          "Parking in the city center is paid.",
+          "Bring a warm jacket for the mine tour, as it's cold down there.",
+          "Use a GPS app for navigating the country roads."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Technologiepark",
+            "hu": "Indulás a Technológiai Parktól",
+            "ro": "Start la Parcul Tehnologic",
+            "en": "Start at the Technology Park"
+          },
+          "coords": [
+            9.63,
+            59.678
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier für einen Panoramablick und eine einfache Abfahrt in die Stadt.",
+            "hu": "Induljon innen a panorámás kilátásért és egy könnyű lejtőzésért a városba.",
+            "ro": "Începeți de aici pentru o vedere panoramică și o coborâre ușoară în oraș.",
+            "en": "Start here for a panoramic view and an easy downhill ride into town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kongsberg Kirche",
+            "hu": "Kongsbergi templom",
+            "ro": "Biserica Kongsberg",
+            "en": "Kongsberg Church"
+          },
+          "coords": [
+            9.6478,
+            59.6665
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und nehmen Sie sich Zeit, das beeindruckende Innere zu bewundern.",
+            "hu": "Zárja le a kerékpárját, és szánjon időt a lenyűgöző belső tér megcsodálására.",
+            "ro": "Legați-vă bicicleta și admirați interiorul impresionant.",
+            "en": "Lock up your bike and take time to admire the impressive interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Norwegisches Bergwerksmuseum",
+            "hu": "Norvég Bányászati Múzeum",
+            "ro": "Muzeul Minier Norvegian",
+            "en": "Norwegian Mining Museum"
+          },
+          "coords": [
+            9.6445,
+            59.6678
+          ],
+          "category": "museums",
+          "arrive_at": "10:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Muss. Der Fahrradständer befindet sich in der Nähe des Eingangs.",
+            "hu": "Kötelező látnivaló. A kerékpártároló a bejárat közelében található.",
+            "ro": "O vizită obligatorie. Suportul pentru biciclete este lângă intrare.",
+            "en": "A must-visit. The bike rack is near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Fahrt zum Lågfossen",
+            "hu": "Ebéd és tekerés a Lågfossen-hez",
+            "ro": "Prânz și plimbare cu bicicleta la Lågfossen",
+            "en": "Lunch and ride to Lågfossen"
+          },
+          "coords": [
+            9.654,
+            59.659
+          ],
+          "category": "gastro",
+          "arrive_at": "12:54",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen und machen Sie dann eine malerische Fahrt entlang des Flusses zum Wasserfall.",
+            "hu": "Ebédeljen meg, majd tegyen egy festői utat a folyó mentén a vízeséshez.",
+            "ro": "Luați prânzul, apoi faceți o plimbare pitorească de-a lungul râului până la cascadă.",
+            "en": "Enjoy lunch, then take a scenic ride along the river to the waterfall."
+          }
+        },
+        {
+          "name": {
+            "de": "Labromuseene",
+            "hu": "Labromuseene",
+            "ro": "Muzeele Labro",
+            "en": "Labromuseene"
+          },
+          "coords": [
+            9.663,
+            59.63
+          ],
+          "category": "museums",
+          "arrive_at": "14:54",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine längere, aber meist flache Fahrt. Erkunden Sie die verschiedenen Museen an diesem Standort.",
+            "hu": "Hosszabb, de többnyire sík út. Fedezze fel a különböző múzeumokat ezen a helyen.",
+            "ro": "O plimbare mai lungă, dar în mare parte plată. Explorați diversele muzee din această locație.",
+            "en": "A longer but mostly flat ride. Explore the various museums at this site."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Ride back to the center"
+          },
+          "coords": [
+            9.646,
+            59.665
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:29",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einer entspannten Fahrt zurück ins Herz der Stadt für einen Kaffee.",
+            "hu": "Fejezze be a túrát egy laza tekeréssel vissza a város szívébe egy kávéra.",
+            "ro": "Încheiați turul cu o plimbare relaxată înapoi în inima orașului pentru o cafea.",
+            "en": "End your tour with a relaxed ride back to the heart of the city for a coffee."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit einer Abfahrt vom Technologiepark und genießen Sie die Aussicht. Ihr erstes Hauptziel ist die majestätische Kongsberger Kirche. Nach einem kurzen Halt geht es weiter zum Norwegischen Bergbaumuseum, um in die silberne Vergangenheit der Stadt einzutauchen.\nZur Mittagszeit stärken Sie sich in einem Restaurant im Stadtzentrum, bevor Sie eine malerische Fahrt entlang des Flusses zum Lågfossen-Wasserfall unternehmen. Spüren Sie die erfrischende Gischt des Wassers, während Sie eine Pause einlegen.\nAm Nachmittag steht eine längere, aber lohnende Fahrt zu den Labromuseene an. Diese Sammlung von Museen bietet einen faszinierenden Einblick in die industrielle und kulturelle Geschichte der Region.\nSchließen Sie den Tag mit einer gemütlichen Rückfahrt ins Stadtzentrum ab. Belohnen Sie sich mit einem Kaffee oder einem Gebäck in einem örtlichen Café und denken Sie über Ihr Radabenteuer in Kongsberg nach.",
+        "hu": "Kezdje a kerékpártúrát a Technológiai Parkból leereszkedve, élvezve a kilátást. Az első fő megálló a fenséges Kongsbergi templom. Egy rövid pihenő után irány a Norvég Bányászati Múzeum, hogy elmerüljön a város ezüst múltjában.\nEbédidőben erősítse meg magát egy belvárosi étteremben, mielőtt egy festői útra indul a folyó mentén a Lågfossen-vízeséshez. Érezze a víz frissítő permetét, miközben szünetet tart.\nA délután egy hosszabb, de annál kifizetődőbb tekerést tartogat a Labromuseene-hez. Ez a múzeumgyűjtemény lenyűgöző betekintést nyújt a régió ipari és kulturális történelmébe.\nZárja a napot egy kellemes visszatekeréssel a városközpontba. Jutalmazza meg magát egy kávéval vagy süteménnyel egy helyi kávézóban, és idézze fel kongsbergi kerékpáros kalandját.",
+        "ro": "Începeți turul pe bicicletă cu o coborâre de la Parcul Tehnologic, bucurându-vă de priveliști. Prima oprire majoră este majestuoasa Biserică Kongsberg. După o scurtă oprire, mergeți la Muzeul Minier Norvegian pentru a pătrunde în trecutul de argint al orașului.\nLa prânz, realimentați-vă la un restaurant din centrul orașului înainte de a face o plimbare pitorească de-a lungul râului până la cascada Lågfossen. Simțiți stropii răcoritori ai apei în timp ce faceți o pauză.\nDupă-amiaza implică o plimbare mai lungă, dar plină de satisfacții, către Muzeele Labro. Această colecție de muzee oferă o perspectivă fascinantă asupra istoriei industriale și culturale a regiunii.\nÎncheiați ziua cu o plimbare relaxată înapoi în centrul orașului. Recompensați-vă cu o cafea sau un produs de patiserie la o cafenea locală, reflectând la aventura dvs. pe două roți în Kongsberg.",
+        "en": "Start your bike tour with a downhill ride from the Technology Park, enjoying the views. Your first major stop is the majestic Kongsberg Church. After a short stop, head to the Norwegian Mining Museum to delve into the town's silver past.\nAt lunchtime, refuel at a city center restaurant before taking a scenic ride along the river to Lågfossen waterfall. Feel the refreshing spray of the water as you take a break.\nThe afternoon involves a longer but rewarding ride to Labromuseene. This collection of museums offers a fascinating insight into the region's industrial and cultural history.\nConclude the day with a gentle ride back to the city center. Reward yourself with a coffee or a pastry at a local café, reflecting on your two-wheeled adventure in Kongsberg."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Waffeln mit Brunost",
+            "tip": "Ein klassischer norwegischer Snack. Perfekt für einen Energieschub am Nachmittag."
+          },
+          {
+            "name": "Fischsuppe",
+            "tip": "Eine cremige und wärmende Suppe, ideal für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Halten Sie für 'Skillingsboller' (Zimtschnecken) an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gofri barna sajttal (Brunost)",
+            "tip": "Klasszikus norvég harapnivaló. Tökéletes egy délutáni energiafröccshöz."
+          },
+          {
+            "name": "Halleves",
+            "tip": "Krémes és melegítő leves, ideális egy könnyű ebédhez."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Álljon meg egy 'Skillingsboller'-re (fahéjas csiga)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vafe cu Brunost",
+            "tip": "O gustare norvegiană clasică. Perfectă pentru un impuls de energie după-amiaza."
+          },
+          {
+            "name": "Supă de pește",
+            "tip": "O supă cremoasă și încălzitoare, ideală pentru un prânz ușor."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Opriți-vă pentru 'Skillingsboller' (rulouri cu scorțișoară)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Waffles with Brunost",
+            "tip": "A classic Norwegian snack. Perfect for an afternoon energy boost."
+          },
+          {
+            "name": "Fish Soup",
+            "tip": "A creamy and warming soup, ideal for a light lunch."
+          },
+          {
+            "name": "Local Bakery",
+            "tip": "Stop for 'Skillingsboller' (cinnamon buns)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Fluss",
+            "tip": "Die Wege entlang des Flusses Lågen sind oft ruhig und bieten schöne Landschaften.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Funkelia",
+            "tip": "Machen Sie einen Abstecher in dieses Gebiet für ein Netz von ruhigen Wegen, die sich hervorragend zum Radfahren eignen.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Blick von Kronene i Håvet",
+            "tip": "Stellen Sie Ihr Fahrrad ab und machen Sie den kurzen Aufstieg für eine friedliche Aussicht.",
+            "emoji": "🌄"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti kerékpárút",
+            "tip": "A Lågen folyó menti ösvények gyakran csendesek és gyönyörű tájat kínálnak.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Funkelia",
+            "tip": "Tegyen egy kitérőt ebbe a területbe a csendes ösvények hálózatáért, amelyek kiválóan alkalmasak kerékpározásra.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kilátás a Kronene i Håvet-től",
+            "tip": "Tegye le a kerékpárt, és tegye meg a rövid emelkedőt a békés kilátásért.",
+            "emoji": "🌄"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul râului",
+            "tip": "Cărările de-a lungul râului Lågen sunt adesea liniștite și oferă peisaje frumoase.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Funkelia",
+            "tip": "Faceți un ocol în această zonă pentru o rețea de trasee liniștite, excelente pentru ciclism.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Vedere de la Kronene i Håvet",
+            "tip": "Lăsați bicicleta și faceți o scurtă urcare pentru o priveliște liniștită.",
+            "emoji": "🌄"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside Bike Path",
+            "tip": "The paths along the Lågen river are often quiet and offer beautiful scenery.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Funkelia",
+            "tip": "Take a detour into this area for a network of quiet trails excellent for cycling.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "View from Kronene i Håvet",
+            "tip": "Park your bike and make the short climb for a peaceful view.",
+            "emoji": "🌄"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Kongsberg ist eine aktive Stadt, finden Sie hier hochwertige Outdoor-Ausrüstung."
+          },
+          {
+            "name": "Silberschmuck",
+            "tip": "Ein leichtes und wertvolles Souvenir, das man leicht mit dem Fahrrad transportieren kann."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Kongsberg egy aktív város, találjon itt minőségi outdoor felszerelést."
+          },
+          {
+            "name": "Ezüst ékszerek",
+            "tip": "Könnyű és értékes szuvenír, amelyet könnyű kerékpárral szállítani."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "Kongsberg este un oraș activ, găsiți aici echipament de exterior de înaltă calitate."
+          },
+          {
+            "name": "Bijuterii de argint",
+            "tip": "Un suvenir ușor și prețios, ușor de transportat pe bicicletă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports Shops",
+            "tip": "Kongsberg is an active town, find high-quality outdoor gear here."
+          },
+          {
+            "name": "Silver Jewelry",
+            "tip": "A light and precious souvenir that is easy to transport by bike."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit guter Gangschaltung, da es einige Hügel gibt.",
+          "Tragen Sie einen Helm und seien Sie auf den Straßen vorsichtig.",
+          "Nehmen Sie ein zuverlässiges Fahrradschloss für Museumsbesuche mit.",
+          "Prüfen Sie die Wettervorhersage und kleiden Sie sich in Schichten.",
+          "Die meisten Wege sind gut gepflegt, aber seien Sie auf Schotterabschnitte vorbereitet."
+        ],
+        "hu": [
+          "Béreljen jó váltóval rendelkező kerékpárt, mert vannak emelkedők.",
+          "Viseljen sisakot, és legyen óvatos az utakon.",
+          "Hozzon magával megbízható kerékpárzárat a múzeumlátogatásokhoz.",
+          "Ellenőrizze az időjárás-előrejelzést, és öltözzön rétegesen.",
+          "A legtöbb út jól karbantartott, de készüljön fel murvás szakaszokra."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze bune, deoarece există unele dealuri.",
+          "Purtați cască și fiți atenți pe drumuri.",
+          "Aduceți un lacăt de bicicletă fiabil pentru vizitele la muzee.",
+          "Verificați prognoza meteo și îmbrăcați-vă în straturi.",
+          "Majoritatea cărărilor sunt bine întreținute, dar fiți pregătiți pentru porțiuni cu pietriș."
+        ],
+        "en": [
+          "Rent a bike with good gears, as there are some hills.",
+          "Wear a helmet and be cautious on the roads.",
+          "Bring a reliable bike lock for museum visits.",
+          "Check the weather forecast and dress in layers.",
+          "Most paths are well-maintained, but be prepared for some gravel sections."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Bahnhof, Bus zum Stadtzentrum",
+            "hu": "Indulás az állomásról, busz a központba",
+            "ro": "Start de la gară, autobuz spre centru",
+            "en": "Start at station, bus to city center"
+          },
+          "coords": [
+            9.651,
+            59.668
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+            "en": "Buy a day pass for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Kongsberg Kirche",
+            "hu": "Kongsbergi templom",
+            "ro": "Biserica Kongsberg",
+            "en": "Kongsberg Church"
+          },
+          "coords": [
+            9.6478,
+            59.6665
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Bushaltestelle ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "A buszmegálló csak egy rövid séta.",
+            "ro": "Stația de autobuz este la o scurtă plimbare.",
+            "en": "The bus stop is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Norwegisches Bergwerksmuseum",
+            "hu": "Norvég Bányászati Múzeum",
+            "ro": "Muzeul Minier Norvegian",
+            "en": "Norwegian Mining Museum"
+          },
+          "coords": [
+            9.6445,
+            59.6678
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang von der Kirche aus. Das ist Ihr erster Wandercluster.",
+            "hu": "Könnyű séta a templomtól. Ez az első gyalogos klaszter.",
+            "ro": "O plimbare ușoară de la biserică. Acesta este primul dvs. grup de mers pe jos.",
+            "en": "An easy walk from the church. This is your first walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Bus zu den Silberminen",
+            "hu": "Ebéd és busz az Ezüstbányákhoz",
+            "ro": "Prânz și autobuz la Minele de Argint",
+            "en": "Lunch and bus to the Silver Mines"
+          },
+          "coords": [
+            9.646,
+            59.665
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Essen Sie zu Mittag, bevor Sie den Bus für die längere Fahrt zu den Minen nehmen.",
+            "hu": "Ebédeljen, mielőtt buszra szállna a bányákhoz vezető hosszabb útra.",
+            "ro": "Luați prânzul înainte de a lua autobuzul pentru călătoria mai lungă la mine.",
+            "en": "Have lunch before catching the bus for the longer journey to the mines."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Silberminen",
+            "hu": "Az Ezüstbányák",
+            "ro": "Minele de Argint",
+            "en": "The Silver Mines"
+          },
+          "coords": [
+            9.59,
+            59.68
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:58",
+          "stay_min": 150,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Überprüfen Sie den Busfahrplan für die Rückfahrt, da die Busse selten fahren. Buchen Sie die Minentour!",
+            "hu": "Ellenőrizze a buszmenetrendet a visszaútra, mert a járatok ritkák. Foglalja le a bányatúrát!",
+            "ro": "Verificați orarul autobuzului pentru întoarcere, deoarece cursele pot fi rare. Rezervați turul minei!",
+            "en": "Check the bus schedule for the return trip as services can be infrequent. Book the mine tour!"
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zurück und Spaziergang am Fluss",
+            "hu": "Busz vissza és séta a folyóparton",
+            "ro": "Autobuz înapoi și plimbare pe râu",
+            "en": "Bus back and river walk"
+          },
+          "coords": [
+            9.654,
+            59.659
+          ],
+          "category": "natural features",
+          "arrive_at": "16:56",
+          "stay_min": 68,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nach der Rückkehr ins Zentrum machen Sie einen entspannenden Spaziergang zum Lågfossen-Wasserfall.",
+            "hu": "Miután visszatért a központba, tegyen egy pihentető sétát a Lågfossen-vízeséshez.",
+            "ro": "După ce vă întoarceți în centru, faceți o plimbare relaxantă la cascada Lågfossen.",
+            "en": "After returning to the center, take a relaxing walk to Lågfossen waterfall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Reise am Bahnhof von Kongsberg und nehmen Sie einen Bus ins Herz der Stadt. Der erste Wandercluster umfasst die beeindruckende Kongsberger Kirche und einen kurzen Spaziergang zum faszinierenden Norwegischen Bergbaumuseum, um mehr über die reiche Geschichte zu erfahren.\nStärken Sie sich nach Ihren morgendlichen Erkundungen mit einem Mittagessen im Stadtzentrum. Genießen Sie die lokale Küche, bevor Sie sich auf den Weg zum nächsten Ziel machen und zum zweiten Cluster des Tages übergehen.\nAm Nachmittag nehmen Sie einen Bus aus der Stadt zu den weltberühmten Silberminen. Diese längere Fahrt führt Sie zu einem unvergesslichen unterirdischen Abenteuer, dem Höhepunkt jedes Besuchs in Kongsberg.\nNach der Rückkehr mit dem Bus ins Stadtzentrum lassen Sie den Tag mit einem friedlichen Spaziergang entlang des Flusses zum Lågfossen-Wasserfall ausklingen. Das Rauschen des Wassers ist der perfekte Abschluss für Ihren erlebnisreichen Tag mit öffentlichen Verkehrsmitteln.",
+        "hu": "Kezdje utazását a kongsbergi vasútállomáson, és szálljon buszra a város szívébe. Az első gyalogos klaszter a lenyűgöző Kongsbergi templomot és egy rövid sétát foglal magában a lenyűgöző Norvég Bányászati Múzeumhoz, hogy megismerje a gazdag történelmet.\nA délelőtti felfedezések után ebédeljen a városközpontban. Élvezze a helyi konyhát, mielőtt elindul a következő úti céljához, áttérve a nap második klaszterére.\nDélután szálljon buszra a városból a világhírű Ezüstbányákhoz. Ez a hosszabb utazás egy felejthetetlen földalatti kalandhoz vezet, amely minden kongsbergi látogatás fénypontja.\nMiután busszal visszatért a központba, zárja a napot egy békés sétával a folyó mentén a Lågfossen-vízeséshez. A víz zúgása tökéletes befejezése az eseménydús, tömegközlekedéssel töltött napnak.",
+        "ro": "Începeți călătoria de la gara din Kongsberg, luând un autobuz spre inima orașului. Primul grup de mers pe jos include impresionanta Biserică Kongsberg și o scurtă plimbare până la fascinantul Muzeu Minier Norvegian pentru a afla despre istoria bogată.\nDupă explorările de dimineață, luați prânzul în centrul orașului. Bucurați-vă de bucătăria locală înainte de a vă îndrepta spre următoarea destinație, trecând la al doilea grup al zilei.\nDupă-amiaza, luați un autobuz din oraș către faimoasele Mine de Argint. Această călătorie mai lungă vă duce la o aventură subterană de neuitat, punctul culminant al oricărei vizite la Kongsberg.\nLa întoarcerea cu autobuzul în centru, încheiați ziua cu o plimbare liniștită de-a lungul râului până la cascada Lågfossen. Sunetul apei este finalul perfect pentru ziua dvs. plină de evenimente cu transportul public.",
+        "en": "Start your journey from Kongsberg station, taking a bus into the heart of the city. The first walking cluster includes the impressive Kongsberg Church and a short stroll to the fascinating Norwegian Mining Museum to learn about the rich history.\nAfter your morning explorations, refuel with lunch in the city center. Enjoy the local cuisine before heading to your next destination, transitioning to the second cluster of the day.\nIn the afternoon, catch a bus out of town to the world-famous Silver Mines. This longer journey takes you to an unforgettable underground adventure, the highlight of any Kongsberg visit.\nUpon returning to the center by bus, wind down your day with a peaceful walk along the river to Lågfossen waterfall. The sound of the rushing water provides the perfect end to your eventful day on public transit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Ein Hotdog in einem Kartoffelfladenbrot. Ein schneller und authentischer norwegischer Snack."
+          },
+          {
+            "name": "Supermarkt-Mittagessen",
+            "tip": "Sparen Sie Geld, indem Sie sich ein Mittagessen in einem Supermarkt holen und es im Freien genießen."
+          },
+          {
+            "name": "Café-Stopp",
+            "tip": "Wärmen Sie sich zwischen den Busfahrten mit einem heißen Kaffee und einem Gebäck auf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Virsli burgonyás lepényben. Gyors és autentikus norvég harapnivaló."
+          },
+          {
+            "name": "Szupermarket ebéd",
+            "tip": "Spóroljon pénzt azzal, hogy ebédet vásárol egy szupermarketben, és a szabadban fogyasztja el."
+          },
+          {
+            "name": "Kávészünet",
+            "tip": "Melegedjen fel egy forró kávéval és egy süteménnyel a buszozások között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Un hotdog într-o lipie de cartofi. O gustare rapidă și autentică norvegiană."
+          },
+          {
+            "name": "Prânz de la supermarket",
+            "tip": "Economisiți bani luând prânzul de la un supermarket și bucurându-vă de el în aer liber."
+          },
+          {
+            "name": "Oprire la cafenea",
+            "tip": "Încălziți-vă cu o cafea fierbinte și un produs de patiserie între călătoriile cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "A hot dog in a potato flatbread. A quick and authentic Norwegian snack."
+          },
+          {
+            "name": "Supermarket Lunch",
+            "tip": "Save money by grabbing lunch from a supermarket and enjoying it outdoors."
+          },
+          {
+            "name": "Café stop",
+            "tip": "Warm up with a hot coffee and a pastry between bus rides."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt aufs Land",
+            "tip": "Genießen Sie die wechselnde Landschaft vom Busfenster aus auf dem Weg zu den Minen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kirchengarten",
+            "tip": "Der Bereich um die Kirche ist oft ruhig und friedlich.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Obere Stadtteile",
+            "tip": "Gehen Sie von einer Bushaltestelle etwas bergauf, um ruhigere Wohnstraßen zu finden.",
+            "emoji": "🏡"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás vidékre",
+            "tip": "Élvezze a változó tájat a busz ablakából a bányák felé menet.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "A templom körüli terület gyakran csendes és békés.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Felső városrészek",
+            "tip": "Sétáljon egy kicsit felfelé egy buszmegállótól, hogy csendesebb lakóutcákat találjon.",
+            "emoji": "🏡"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul la țară",
+            "tip": "Bucurați-vă de peisajul schimbător de la fereastra autobuzului în drum spre mine.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Grădina bisericii",
+            "tip": "Zona din jurul bisericii este adesea tăcută și pașnică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cartierele superioare",
+            "tip": "Mergeți puțin la deal de la o stație de autobuz pentru a găsi străzi rezidențiale mai liniștite.",
+            "emoji": "🏡"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride to the countryside",
+            "tip": "Enjoy the changing scenery from the bus window on your way to the mines.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Church grounds",
+            "tip": "The area around the church is often quiet and peaceful.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Upper neighborhoods",
+            "tip": "Walk a bit uphill from a bus stop to find quieter residential streets.",
+            "emoji": "🏡"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschenkeladen im Museum",
+            "tip": "Die besten Souvenirs finden Sie oft in den Geschenkeläden der Silberminen und des Bergbaumuseums."
+          },
+          {
+            "name": "Stortorvet Einkaufszentrum",
+            "tip": "Ein modernes Einkaufszentrum in der Nähe einer Bushaltestelle für alle Ihre Bedürfnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi ajándékbolt",
+            "tip": "A legjobb szuveníreket gyakran az Ezüstbányák és a Bányászati Múzeum ajándékboltjaiban találja."
+          },
+          {
+            "name": "Stortorvet bevásárlóközpont",
+            "tip": "Modern bevásárlóközpont egy buszmegálló közelében, minden igényt kielégítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri al muzeului",
+            "tip": "Adesea găsiți cele mai bune suveniruri la magazinele de cadouri ale Minelor de Argint și ale Muzeului Minier."
+          },
+          {
+            "name": "Centrul comercial Stortorvet",
+            "tip": "Un centru comercial modern, aproape de o stație de autobuz, pentru toate nevoile dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Gift Shop",
+            "tip": "You'll often find the best souvenirs at the gift shops of the Silver Mines and the Mining Museum."
+          },
+          {
+            "name": "Stortorvet Shopping Centre",
+            "tip": "A modern shopping mall close to a bus stop for any of your needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die lokale ÖPNV-App für Echtzeit-Fahrpläne herunter.",
+          "Überprüfen Sie den Fahrplan für den letzten Bus zurück ins Zentrum, besonders von den Silberminen aus.",
+          "Eine Tageskarte ist normalerweise günstiger als Einzeltickets.",
+          "Halten Sie beim Warten auf den Bus die Hand hoch, um dem Fahrer zu signalisieren.",
+          "Seien Sie pünktlich, die Busse fahren oft genau nach Fahrplan ab."
+        ],
+        "hu": [
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Ellenőrizze az utolsó busz menetrendjét vissza a központba, különösen az Ezüstbányáktól.",
+          "A napijegy általában olcsóbb, mint a különálló jegyek.",
+          "Intsen a buszra várva, hogy jelezze a sofőrnek a megállási szándékot.",
+          "Legyen pontos, a buszok gyakran pontosan a menetrend szerint indulnak."
+        ],
+        "ro": [
+          "Descărcați aplicația locală de transport public pentru orare în timp real.",
+          "Verificați orarul ultimului autobuz înapoi în centru, în special de la Minele de Argint.",
+          "Un bilet de o zi este de obicei mai ieftin decât biletele individuale.",
+          "Faceți semn șoferului când așteptați autobuzul.",
+          "Fiți punctuali, autobuzele pleacă adesea exact la timp."
+        ],
+        "en": [
+          "Download the local public transport app for real-time schedules.",
+          "Check the schedule for the last bus back to the center, especially from the Silver Mines.",
+          "A day pass is usually cheaper than single tickets.",
+          "Wave at the bus when you are waiting to signal the driver to stop.",
+          "Be on time, buses often leave exactly on schedule."
+        ]
+      }
+    }
+  }
+}

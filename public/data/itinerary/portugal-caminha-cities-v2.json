@@ -1,0 +1,1212 @@
+{
+  "city_id": "portugal-caminha-cities-v2",
+  "anchor": {
+    "name": "Caminha",
+    "coords": [
+      -8.8333,
+      41.8833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praça Conselheiro Silva Torres (Terreiro)",
+            "hu": "Conselheiro Silva Torres tér (Terreiro)",
+            "ro": "Piața Conselheiro Silva Torres (Terreiro)",
+            "en": "Conselheiro Silva Torres Square (Terreiro)"
+          },
+          "coords": [
+            -8.8378,
+            41.8765
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie den Renaissance-Brunnen Chafariz in der Mitte.",
+            "hu": "Csodálja meg a tér közepén álló reneszánsz Chafariz-kutat.",
+            "ro": "Admirați fântâna renascentistă Chafariz din centru.",
+            "en": "Admire the Renaissance Chafariz fountain in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm (Torre do Relógio)",
+            "hu": "Óratorony (Torre do Relógio)",
+            "ro": "Turnul cu Ceas (Torre do Relógio)",
+            "en": "Clock Tower (Torre do Relógio)"
+          },
+          "coords": [
+            -8.8385,
+            41.8768
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies war das Haupttor der alten Stadtmauern.",
+            "hu": "Ez volt a régi városfalak főkapuja.",
+            "ro": "Aceasta a fost poarta principală a vechilor ziduri ale orașului.",
+            "en": "This was the main gate of the old town walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Caminha (Igreja Matriz)",
+            "hu": "Caminhai főtemplom (Igreja Matriz)",
+            "ro": "Biserica Matrice din Caminha (Igreja Matriz)",
+            "en": "Main Church of Caminha (Igreja Matriz)"
+          },
+          "coords": [
+            -8.8392,
+            41.8775
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die Mischung aus Gotik und Renaissance-Architektur.",
+            "hu": "Figyelje meg a gótikus és reneszánsz építészet keveredését.",
+            "ro": "Observați amestecul de arhitectură gotică și renascentistă.",
+            "en": "Note the mix of Gothic and Renaissance architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mündung des Flusses Minho (Foz do Rio Minho)",
+            "hu": "A Minho folyó torkolata (Foz do Rio Minho)",
+            "ro": "Gura de vărsare a râului Minho (Foz do Rio Minho)",
+            "en": "Mouth of the Minho River (Foz do Rio Minho)"
+          },
+          "coords": [
+            -8.852,
+            41.88
+          ],
+          "category": "natural features",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Mittagessen mit Blick auf Spanien auf der anderen Seite.",
+            "hu": "Remek hely egy ebédhez, kilátással a túlparti Spanyolországra.",
+            "ro": "Un loc minunat pentru prânz, cu vedere spre Spania pe malul celălalt.",
+            "en": "A great spot for lunch with a view of Spain on the other side."
+          }
+        },
+        {
+          "name": {
+            "de": "Mauern von Caminha (Muralhas)",
+            "hu": "Caminha falai (Muralhas)",
+            "ro": "Zidurile din Caminha (Muralhas)",
+            "en": "Walls of Caminha (Muralhas)"
+          },
+          "coords": [
+            -8.838,
+            41.875
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Überreste der alten Befestigungsanlagen der Stadt.",
+            "hu": "Sétáljon végig a város régi erődítményeinek maradványai mentén.",
+            "ro": "Plimbați-vă de-a lungul rămășițelor vechilor fortificații ale orașului.",
+            "en": "Walk along the remnants of the town's old fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Santo Antão (Miradouro)",
+            "hu": "Santo Antão kilátó (Miradouro)",
+            "ro": "Punctul de belvedere Santo Antão (Miradouro)",
+            "en": "Santo Antão Viewpoint (Miradouro)"
+          },
+          "coords": [
+            -8.82,
+            41.875
+          ],
+          "category": "natural features",
+          "arrive_at": "16:00",
+          "stay_min": 65,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick auf den Fluss und das Meer.",
+            "hu": "Megéri a fáradságot felmenni a folyóra és a tengerre nyíló panorámáért.",
+            "ro": "Urcarea merită efortul pentru vederea panoramică asupra râului și a mării.",
+            "en": "Worth the climb for the panoramic view of the river and sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem Hauptplatz von Caminha, dem Herzen der Stadt. Nach der Erkundung der historischen Türme und Kirchen führt Sie ein gemütlicher Spaziergang zur Mündung des Flusses Minho, wo Sie zu Mittag essen. Am Nachmittag entdecken Sie die alten Stadtmauern, bevor Sie zum Aussichtspunkt Santo Antão hinaufsteigen. Beenden Sie den Tag mit einem entspannten Abendessen und genießen Sie die lokalen Aromen.",
+        "hu": "Kezdje a napot Caminha főterén, a város szívében. A történelmi tornyok és templomok felfedezése után egy kellemes séta elvezeti a Minho folyó torkolatához ebédelni. Délután fedezze fel a régi városfalakat, mielőtt felkapaszkodna a Santo Antão kilátóhoz. Zárja a napot egy laza vacsorával, élvezve a helyi ízeket.",
+        "ro": "Începeți ziua în piața principală din Caminha, inima orașului. După ce explorați turnurile și bisericile istorice, o plimbare relaxantă vă va duce la gura râului Minho pentru prânz. După-amiaza, descoperiți vechile ziduri ale orașului înainte de a urca la punctul de belvedere Santo Antão. Încheiați ziua cu o cină relaxată, savurând aromele locale.",
+        "en": "Start your day in Caminha's main square, the heart of the town. After exploring the historic towers and churches, a pleasant walk takes you to the mouth of the Minho River for lunch. In the afternoon, discover the old town walls before climbing up to the Santo Antão viewpoint. End your day with a relaxed dinner, enjoying the local flavors."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz de Sarrabulho",
+            "tip": "Ein herzhaftes Reisgericht mit Schweinefleisch, typisch für die Region Minho."
+          },
+          {
+            "name": "Frischer Fisch vom Grill",
+            "tip": "Genießen Sie den Fang des Tages in einem Restaurant am Flussufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz de Sarrabulho",
+            "tip": "Kiadós rizsétel sertéshússal, a Minho régió jellegzetessége."
+          },
+          {
+            "name": "Grillezett friss hal",
+            "tip": "Élvezze a nap fogását egy folyóparti étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz de Sarrabulho",
+            "tip": "Un fel de mâncare consistent cu orez și carne de porc, specific regiunii Minho."
+          },
+          {
+            "name": "Pește proaspăt la grătar",
+            "tip": "Savurați captura zilei la un restaurant de pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz de Sarrabulho",
+            "tip": "A hearty rice dish with pork, typical of the Minho region."
+          },
+          {
+            "name": "Grilled Fresh Fish",
+            "tip": "Enjoy the catch of the day at a riverside restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Foz do Rio Minho",
+            "tip": "Finden Sie einen ruhigen Platz, um die Boote und die Aussicht auf Spanien zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Miradouro de Santo Antão",
+            "tip": "Ein friedlicher Ort am späten Nachmittag, wenn die Menschenmassen nachlassen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Foz do Rio Minho",
+            "tip": "Keressen egy csendes helyet a hajók és a spanyol part látványának figyelésére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Miradouro de Santo Antão",
+            "tip": "Békés hely a késő délutáni órákban, amikor a tömeg már alábbhagy.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Foz do Rio Minho",
+            "tip": "Găsiți un loc liniștit pentru a privi bărcile și vederea spre Spania.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Miradouro de Santo Antão",
+            "tip": "Un loc pașnic după-amiaza târziu, când mulțimile se răresc.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Foz do Rio Minho",
+            "tip": "Find a quiet spot to watch the boats and the view of Spain.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Miradouro de Santo Antão",
+            "tip": "A peaceful place in the late afternoon as the crowds thin out.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Mittwoch hier sind, verpassen Sie nicht den Markt für lokale Produkte und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Ha szerdán jár itt, ne hagyja ki a helyi termékeket és kézműves árukat kínáló piacot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți aici într-o zi de miercuri, nu ratați piața pentru produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "If you're here on a Wednesday, don't miss the market for local produce and handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Zentrum Kopfsteinpflaster hat.",
+          "Nehmen Sie Wasser für den Aufstieg zum Miradouro mit.",
+          "Viele Geschäfte schließen zur Mittagszeit, also planen Sie entsprechend."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a központ macskaköves.",
+          "Vigyen vizet a Miradouróhoz való feljutáshoz.",
+          "Sok üzlet bezár ebédidőben, tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece centrul este pavat cu piatră cubică.",
+          "Luați apă pentru urcarea la Miradouro.",
+          "Multe magazine se închid la prânz, așa că planificați-vă în consecință."
+        ],
+        "en": [
+          "Wear comfortable shoes as the center is cobblestoned.",
+          "Bring water for the climb to the Miradouro.",
+          "Many shops close for lunch, so plan accordingly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praça Conselheiro Silva Torres",
+            "hu": "Conselheiro Silva Torres tér",
+            "ro": "Piața Conselheiro Silva Torres",
+            "en": "Conselheiro Silva Torres Square"
+          },
+          "coords": [
+            -8.8378,
+            41.8765
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie einen Kaffee in einem der Cafés am Platz.",
+            "hu": "Tegye le a biciklit, és igyon meg egy kávét a tér egyik kávézójában.",
+            "ro": "Parcați bicicleta și savurați o cafea la una dintre cafenelele din piață.",
+            "en": "Park your bike and enjoy a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Caminha (Igreja Matriz)",
+            "hu": "Caminhai főtemplom (Igreja Matriz)",
+            "ro": "Biserica Matrice din Caminha (Igreja Matriz)",
+            "en": "Main Church of Caminha (Igreja Matriz)"
+          },
+          "coords": [
+            -8.8392,
+            41.8775
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich Zeit, das Innere zu erkunden.",
+            "hu": "Zárja le a közelben a kerékpárt, és szánjon időt a belső tér felfedezésére.",
+            "ro": "Legați bicicleta în apropiere și acordați-vă timp pentru a explora interiorul.",
+            "en": "Lock your bike nearby and take time to explore the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Foz do Rio Minho",
+            "hu": "A Minho folyó torkolata",
+            "ro": "Gura de vărsare a râului Minho",
+            "en": "Mouth of the Minho River"
+          },
+          "coords": [
+            -8.852,
+            41.88
+          ],
+          "category": "natural features",
+          "arrive_at": "10:42",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner, flacher Radweg führt entlang des Flusses.",
+            "hu": "Egy szép, sík kerékpárút vezet a folyó mentén.",
+            "ro": "O pistă de biciclete frumoasă și plată duce de-a lungul râului.",
+            "en": "A lovely, flat cycle path leads along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Moledo",
+            "hu": "Moledo strand",
+            "ro": "Plaja Moledo",
+            "en": "Moledo Beach"
+          },
+          "coords": [
+            -8.885,
+            41.854
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:51",
+          "stay_min": 180,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein langer Strand, ideal für ein Mittagessen und ein erfrischendes Bad im Atlantik.",
+            "hu": "Hosszú strand, ideális ebédhez és egy frissítő fürdőzéshez az Atlanti-óceánban.",
+            "ro": "O plajă lungă, ideală pentru prânz și o baie răcoritoare în Atlantic.",
+            "en": "A long beach, perfect for having lunch and a refreshing swim in the Atlantic."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte da Ínsua",
+            "hu": "Ínsua erőd",
+            "ro": "Fortul Ínsua",
+            "en": "Ínsua Fort"
+          },
+          "coords": [
+            -8.889,
+            41.859
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Fort liegt auf einer Insel. Genießen Sie die Aussicht vom Strand aus.",
+            "hu": "Az erőd egy szigeten található. Élvezze a kilátást a strandról.",
+            "ro": "Fortul este pe o insulă. Bucurați-vă de priveliștea de pe plajă.",
+            "en": "The fort is on an island. Enjoy the view from the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Santo Antão",
+            "hu": "Santo Antão kilátó",
+            "ro": "Punctul de belvedere Santo Antão",
+            "en": "Santo Antão Viewpoint"
+          },
+          "coords": [
+            -8.82,
+            41.875
+          ],
+          "category": "natural features",
+          "arrive_at": "16:55",
+          "stay_min": 95,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein anspruchsvoller Anstieg mit dem Fahrrad, aber der Sonnenuntergang ist die Belohnung.",
+            "hu": "Kihívást jelentő emelkedő kerékpárral, de a naplemente a jutalom.",
+            "ro": "O urcare provocatoare cu bicicleta, dar apusul este recompensa.",
+            "en": "A challenging climb by bike, but the sunset is the reward."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im Herzen von Caminha und führt Sie schnell zum malerischen Flussufer. Von dort aus radeln Sie nach Süden zum berühmten Strand von Moledo, wo ein langer Mittagsaufenthalt geplant ist. Nach der Erkundung der Küste und des Ínsua-Forts geht es landeinwärts zum Aussichtspunkt Santo Antão, um einen spektakulären Sonnenuntergang zu erleben. Der Abend klingt bei einem wohlverdienten Abendessen im historischen Zentrum aus.",
+        "hu": "A kerékpártúra Caminha szívéből indul, és gyorsan a festői folyóparthoz vezet. Innen dél felé teker a híres Moledo strandhoz, ahol egy hosszú ebédszünetet tervez. A part és az Ínsua erőd felfedezése után a szárazföld belseje felé veszi az irányt a Santo Antão kilátóhoz egy látványos naplementéért. Az estét egy jól megérdemelt vacsorával zárja a történelmi központban.",
+        "ro": "Turul pe bicicletă începe în inima orașului Caminha, ducându-vă rapid pe malul pitoresc al râului. De acolo, pedalați spre sud, spre renumita plajă Moledo, unde este programată o pauză lungă de prânz. După explorarea coastei și a Fortului Ínsua, vă îndreptați spre interior, spre punctul de belvedere Santo Antão, pentru un apus de soare spectaculos. Seara se încheie cu o cină binemeritată în centrul istoric.",
+        "en": "Your bike tour starts in the heart of Caminha, quickly leading you to the scenic riverfront. From there, you'll pedal south to the famous Moledo beach, where a long lunch break is scheduled. After exploring the coast and the Ínsua Fort, head inland to the Santo Antão viewpoint for a spectacular sunset. The evening concludes with a well-deserved dinner back in the historic center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillte Sardinen",
+            "tip": "An den Strandrestaurants in Moledo ein absolutes Muss."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Probieren Sie den leichten, spritzigen lokalen Wein, perfekt zu Meeresfrüchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett szardínia",
+            "tip": "A Moledo-i tengerparti éttermekben kötelező."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Kóstolja meg a könnyű, pezsgő helyi bort, amely tökéletes a tenger gyümölcseihez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sardine la grătar",
+            "tip": "O necesitate la restaurantele de pe plajă din Moledo."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Încercați vinul local ușor și spumant, perfect cu fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Sardines",
+            "tip": "An absolute must at the beach restaurants in Moledo."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Try the light, sparkling local wine, perfect with seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pinienwald von Camarido",
+            "tip": "Ein kühler, ruhiger Ort zwischen Caminha und Moledo, ideal für eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Praia de Moledo am späten Nachmittag",
+            "tip": "Die Menschenmassen verschwinden und hinterlassen nur das Rauschen der Wellen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Camarido fenyőerdő",
+            "tip": "Hűvös, csendes hely Caminha és Moledo között, ideális egy pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Praia de Moledo késő délután",
+            "tip": "A tömeg eltűnik, csak a hullámok zaja marad.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de pini Camarido",
+            "tip": "Un loc răcoros și liniștit între Caminha și Moledo, perfect pentru o pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja Moledo după-amiaza târziu",
+            "tip": "Mulțimile dispar, lăsând în urmă doar sunetul valurilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Camarido Pine Forest",
+            "tip": "A cool, quiet spot between Caminha and Moledo, perfect for a break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Praia de Moledo in the late afternoon",
+            "tip": "The crowds disappear, leaving only the sound of the waves.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Töpferei",
+            "tip": "Halten Sie Ausschau nach handgefertigter Keramik, einem traditionellen Handwerk der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi fazekasság",
+            "tip": "Keresse a kézzel készített kerámiákat, a régió hagyományos mesterségét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică lucrată manual, o meserie tradițională a regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pottery",
+            "tip": "Look out for handmade ceramics, a traditional craft of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Bremsen vor dem Anstieg zum Miradouro.",
+          "Einige Küstenstraßen können windig sein.",
+          "Schließen Sie Ihr Fahrrad immer gut ab."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket, mielőtt felmenne a Miradouróhoz.",
+          "Néhány tengerparti út szeles lehet.",
+          "Mindig zárja le jól a kerékpárját."
+        ],
+        "ro": [
+          "Verificați frânele înainte de a urca la Miradouro.",
+          "Unele drumuri de coastă pot fi vântoase.",
+          "Asigurați-vă întotdeauna bicicleta corespunzător."
+        ],
+        "en": [
+          "Check your brakes before the ascent to the Miradouro.",
+          "Some coastal roads can be windy.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 18.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken & Altstadt-Cluster",
+            "hu": "Parkolás és Óváros Klaszter",
+            "ro": "Parcare & Cluster Centrul Vechi",
+            "en": "Parking & Old Town Cluster"
+          },
+          "coords": [
+            -8.837,
+            41.876
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Zentrums für den ersten Rundgang.",
+            "hu": "Parkoljon a központ közelében az első gyalogtúrához.",
+            "ro": "Parcați lângă centru pentru primul tur pietonal.",
+            "en": "Park near the center for the first walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Praça Conselheiro Silva Torres",
+            "hu": "Conselheiro Silva Torres tér",
+            "ro": "Piața Conselheiro Silva Torres",
+            "en": "Conselheiro Silva Torres Square"
+          },
+          "coords": [
+            -8.8378,
+            41.8765
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der zentrale Treffpunkt der Stadt.",
+            "hu": "A város központi találkozóhelye.",
+            "ro": "Punctul central de întâlnire al orașului.",
+            "en": "The central meeting point of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm & Mauern",
+            "hu": "Óratorony és falak",
+            "ro": "Turnul cu Ceas & Ziduri",
+            "en": "Clock Tower & Walls"
+          },
+          "coords": [
+            -8.8385,
+            41.8768
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der mittelalterlichen Verteidigungsanlagen.",
+            "hu": "Fedezze fel a középkori erődítmények maradványait.",
+            "ro": "Explorați rămășițele fortificațiilor medievale.",
+            "en": "Explore the remnants of the medieval defenses."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Aussichtspunkt-Cluster",
+            "hu": "Autózás a Kilátó Klaszterhez",
+            "ro": "Condus la Clusterul Belvedere",
+            "en": "Drive to Viewpoint Cluster"
+          },
+          "coords": [
+            -8.82,
+            41.875
+          ],
+          "category": "natural features",
+          "arrive_at": "10:45",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt bergauf für eine atemberaubende Aussicht.",
+            "hu": "Rövid autózás felfelé a lélegzetelállító kilátásért.",
+            "ro": "O scurtă călătorie cu mașina la deal pentru o priveliște uimitoare.",
+            "en": "A short uphill drive for a stunning view."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro de Santo Antão",
+            "hu": "Santo Antão kilátó",
+            "ro": "Punctul de belvedere Santo Antão",
+            "en": "Santo Antão Viewpoint"
+          },
+          "coords": [
+            -8.819,
+            41.875
+          ],
+          "category": "natural features",
+          "arrive_at": "10:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der beste Panoramablick über die Mündung des Minho.",
+            "hu": "A legjobb panoráma a Minho torkolatára.",
+            "ro": "Cea mai bună vedere panoramică asupra estuarului Minho.",
+            "en": "The best panoramic view over the Minho estuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Strand-Cluster",
+            "hu": "Autózás a Strand Klaszterhez",
+            "ro": "Condus la Clusterul Plajă",
+            "en": "Drive to Beach Cluster"
+          },
+          "coords": [
+            -8.885,
+            41.854
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:50",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 11.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie die Küste entlang zur Entspannung am Meer.",
+            "hu": "Vezessen a part mentén a tengerparti pihenéshez.",
+            "ro": "Conduceți de-a lungul coastei pentru relaxare pe malul mării.",
+            "en": "Drive down the coast for seaside relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Moledo & Mittagessen",
+            "hu": "Moledo strand és ebéd",
+            "ro": "Plaja Moledo & Prânz",
+            "en": "Moledo Beach & Lunch"
+          },
+          "coords": [
+            -8.886,
+            41.855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 375,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen langen Nachmittag am Strand, inklusive Mittagessen und Blick auf das Forte da Ínsua.",
+            "hu": "Élvezze a hosszú délutánt a strandon, ebéddel és kilátással a Forte da Ínsua erődre.",
+            "ro": "Bucurați-vă de o după-amiază lungă pe plajă, incluzând prânzul și priveliștea spre Fortul Ínsua.",
+            "en": "Enjoy a long afternoon at the beach, including lunch and views of Forte da Ínsua."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit der Erkundung des historischen Kerns von Caminha zu Fuß, nachdem Sie Ihr Auto geparkt haben. Ein kurzer Ausflug mit dem Auto führt Sie dann zum Miradouro de Santo Antão für einen atemberaubenden Blick. Der größte Teil des Tages ist für den Strand von Moledo reserviert: Fahren Sie dorthin, parken Sie und genießen Sie einen langen Nachmittag mit Mittagessen, Entspannung am Meer und dem Blick auf das ferne Fort. Am Abend kehren Sie ins Zentrum von Caminha zurück.",
+        "hu": "Kezdje a napot Caminha történelmi központjának gyalogos felfedezésével, miután leparkolta az autót. Ezután egy rövid autós kitérő elviszi a Miradouro de Santo Antão kilátóhoz egy lenyűgöző látványért. A nap nagy részét a Moledo strandra szánja: vezessen oda, parkoljon le, és élvezze a hosszú délutánt ebéddel, tengerparti pihenéssel és a távoli erőd látványával. Este térjen vissza Caminha központjába.",
+        "ro": "Începeți explorând nucleul istoric al orașului Caminha pe jos după ce parcați mașina. O scurtă călătorie cu mașina vă duce apoi la Miradouro de Santo Antão pentru o priveliște uluitoare. Cea mai mare parte a zilei este rezervată plajei Moledo: conduceți până acolo, parcați și bucurați-vă de o după-amiază lungă cu prânz, relaxare pe malul mării și priveliștea fortului îndepărtat. Seara vă întoarceți în centrul orașului Caminha.",
+        "en": "Start by exploring Caminha's historic core on foot after parking your car. A short car trip then takes you to Miradouro de Santo Antão for a stunning view. The bulk of the day is reserved for Moledo beach: drive there, park, and enjoy a long afternoon with lunch, seaside relaxation, and the view of the distant fort. In the evening, return to the center of Caminha."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante O Palma",
+            "tip": "Bekannt für ausgezeichnete Meeresfrüchte in Moledo."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Probieren Sie Portugals Nationalgericht in einer der vielen Zubereitungsarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante O Palma",
+            "tip": "Kiváló tengeri ételeiről ismert Moledóban."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Kóstolja meg Portugália nemzeti ételét a számos elkészítési mód egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante O Palma",
+            "tip": "Renumit pentru fructele de mare excelente din Moledo."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Încercați mâncarea națională a Portugaliei într-una dintre numeroasele sale variante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante O Palma",
+            "tip": "Known for excellent seafood in Moledo."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Try Portugal's national dish in one of its many preparations."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer bei Foz do Minho",
+            "tip": "Fahren Sie langsam am Fluss entlang und halten Sie für die Aussicht an.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang in Moledo",
+            "tip": "Beenden Sie Ihren Tag am Strand mit Blick auf die untergehende Sonne hinter dem Fort.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyópart a Foz do Minhónál",
+            "tip": "Vezessen lassan a folyó mentén, és álljon meg a kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente Moledóban",
+            "tip": "Zárja a napot a strandon, figyelve a naplementét az erőd mögött.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului la Foz do Minho",
+            "tip": "Conduceți încet de-a lungul râului și opriți pentru priveliște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare în Moledo",
+            "tip": "Încheiați-vă ziua pe plajă, privind soarele apunând în spatele fortului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverfront at Foz do Minho",
+            "tip": "Drive slowly along the river and stop for the views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at Moledo",
+            "tip": "End your beach day watching the sun set behind the fort.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Weine",
+            "tip": "Kaufen Sie eine Flasche Vinho Verde direkt aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Vásároljon egy üveg Vinho Verde bort közvetlenül a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri regionale",
+            "tip": "Cumpărați o sticlă de Vinho Verde direct din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional Wines",
+            "tip": "Buy a bottle of Vinho Verde directly from its home region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze können im Sommer knapp sein, besonders in Strandnähe.",
+          "Planen Sie Zeit für den Verkehr ein, wenn Sie zwischen den Orten wechseln.",
+          "Die Straßen zum Miradouro sind eng und kurvenreich."
+        ],
+        "hu": [
+          "A parkolóhelyek nyáron szűkösek lehetnek, különösen a strand közelében.",
+          "Tervezzen időt a forgalomra a helyszínek közötti váltáskor.",
+          "A Miradourohoz vezető utak szűkek és kanyargósak."
+        ],
+        "ro": [
+          "Parcarea poate fi limitată în timpul verii, în special lângă plajă.",
+          "Acordați timp pentru trafic la deplasarea între clustere.",
+          "Drumurile spre Miradouro sunt înguste și sinuoase."
+        ],
+        "en": [
+          "Parking can be scarce in summer, especially near the beach.",
+          "Allow time for traffic when moving between clusters.",
+          "The roads to the Miradouro are narrow and winding."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 6.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Altstadt-Cluster",
+            "hu": "Érkezés és Óváros Klaszter",
+            "ro": "Sosire & Cluster Centrul Vechi",
+            "en": "Arrival & Old Town Cluster"
+          },
+          "coords": [
+            -8.837,
+            41.876
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie an der zentralen Bushaltestelle aus und erkunden Sie die Altstadt.",
+            "hu": "Szálljon le a központi buszmegállónál, és fedezze fel az óvárost.",
+            "ro": "Coborâți la stația centrală de autobuz și explorați centrul vechi.",
+            "en": "Get off at the central bus stop and explore the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Praça, Uhrturm & Kirche",
+            "hu": "Tér, Óratorony és Templom",
+            "ro": "Piață, Turn cu Ceas & Biserică",
+            "en": "Square, Clock Tower & Church"
+          },
+          "coords": [
+            -8.838,
+            41.877
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese drei Hauptsehenswürdigkeiten liegen alle nur wenige Schritte voneinander entfernt.",
+            "hu": "Ez a három fő látnivaló mindössze pár lépésre van egymástól.",
+            "ro": "Aceste trei atracții principale sunt la câțiva pași una de cealaltă.",
+            "en": "These three main sights are all within a few steps of each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Strand-Cluster",
+            "hu": "Busz a Strand Klaszterhez",
+            "ro": "Autobuz spre Clusterul Plajă",
+            "en": "Bus to Beach Cluster"
+          },
+          "coords": [
+            -8.885,
+            41.854
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, der entlang der Küste nach Moledo fährt.",
+            "hu": "Vegyen egy helyi buszt, amely a part mentén Moledóba megy.",
+            "ro": "Luați un autobuz local care merge de-a lungul coastei spre Moledo.",
+            "en": "Take a local bus that runs along the coast to Moledo."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Moledo & Mittagessen",
+            "hu": "Moledo strand és ebéd",
+            "ro": "Plaja Moledo & Prânz",
+            "en": "Moledo Beach & Lunch"
+          },
+          "coords": [
+            -8.886,
+            41.855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie in der Nähe des Strandes aus und suchen Sie sich einen Platz zum Mittagessen.",
+            "hu": "Szálljon le a strand közelében, és keressen egy helyet az ebédhez.",
+            "ro": "Coborâți lângă plajă și găsiți un loc pentru prânz.",
+            "en": "Get off near the beach and find a spot for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Foz do Rio Minho",
+            "hu": "A Minho folyó torkolata",
+            "ro": "Gura de vărsare a râului Minho",
+            "en": "Mouth of the Minho River"
+          },
+          "coords": [
+            -8.852,
+            41.88
+          ],
+          "category": "natural features",
+          "arrive_at": "16:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang vom Strand zur Flussmündung, bevor Sie den Bus zurück nehmen.",
+            "hu": "Sétáljon egyet a strandtól a folyótorkolatig, mielőtt visszaindulna a busszal.",
+            "ro": "Faceți o plimbare de la plajă la gura râului înainte de a lua autobuzul înapoi.",
+            "en": "Take a walk from the beach to the river mouth before catching the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um zwischen den beiden Hauptbereichen von Caminha zu wechseln. Beginnen Sie im historischen Zentrum, das Sie bequem zu Fuß erkunden können. Am späten Vormittag bringt Sie ein Bus zum Küstencluster, wo Sie den größten Teil des Tages am Strand von Moledo verbringen. Ein Spaziergang zur Flussmündung rundet Ihren Küstenbesuch ab, bevor Sie den Bus zurück ins Zentrum nehmen.",
+        "hu": "Használja a helyi buszt a két fő Caminha-i terület közötti közlekedéshez. Kezdje a történelmi központban, amelyet könnyen bejárhat gyalog. Késő délelőtt egy busz elviszi a tengerparti klaszterhez, ahol a nap nagy részét a Moledo strandon tölti. Egy séta a folyótorkolathoz teszi teljessé a tengerparti látogatást, mielőtt visszabuszozna a központba.",
+        "ro": "Folosiți autobuzul local pentru a naviga între cele două zone principale din Caminha. Începeți în centrul istoric, ușor de explorat pe jos. Spre sfârșitul dimineții, un autobuz vă va duce la clusterul de coastă, unde veți petrece cea mai mare parte a zilei pe plaja Moledo. O plimbare până la gura râului completează vizita pe coastă înainte de a lua autobuzul înapoi în centru.",
+        "en": "Use the local bus to navigate between Caminha's two main areas. Start in the historic center, easily explored on foot. In the late morning, a bus will take you to the coastal cluster, where you'll spend most of the day at Moledo beach. A walk to the river mouth completes your coastal visit before you catch the bus back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastel de Nata",
+            "tip": "Genießen Sie dieses berühmte portugiesische Gebäck in einer lokalen Bäckerei."
+          },
+          {
+            "name": "Meeresfrüchte-Reis (Arroz de Marisco)",
+            "tip": "Ein klassisches Gericht, das man am besten am Meer genießt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastel de Nata",
+            "tip": "Élvezze ezt a híres portugál süteményt egy helyi pékségben."
+          },
+          {
+            "name": "Tenger gyümölcsei rizs (Arroz de Marisco)",
+            "tip": "Klasszikus étel, amelyet a legjobb a tenger mellett élvezni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastel de Nata",
+            "tip": "Savurați acest faimos produs de patiserie portughez la o brutărie locală."
+          },
+          {
+            "name": "Orez cu fructe de mare (Arroz de Marisco)",
+            "tip": "Un fel de mâncare clasic, cel mai bine savurat lângă mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastel de Nata",
+            "tip": "Enjoy this famous Portuguese pastry at a local bakery."
+          },
+          {
+            "name": "Seafood Rice (Arroz de Marisco)",
+            "tip": "A classic dish best enjoyed by the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferpromenade in Caminha",
+            "tip": "Ein ruhiger Spaziergang am Flussufer am Morgen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nördliches Ende von Praia de Moledo",
+            "tip": "Normalerweise ruhiger und weniger überlaufen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti sétány Caminhában",
+            "tip": "Csendes reggeli séta a folyóparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Praia de Moledo északi vége",
+            "tip": "Általában csendesebb és kevésbé zsúfolt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe malul râului în Caminha",
+            "tip": "O plimbare liniștită de dimineață de-a lungul malului râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capătul de nord al plajei Moledo",
+            "tip": "De obicei mai liniștit și mai puțin aglomerat.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverfront promenade in Caminha",
+            "tip": "A quiet morning walk along the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "North end of Praia de Moledo",
+            "tip": "Usually quieter and less crowded.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kunsthandwerk aus der Region",
+            "tip": "Suchen Sie in den kleinen Läden im Zentrum nach Stickereien und Holzarbeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen hímzéseket és fafaragásokat a központ kis üzleteiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați broderii și obiecte din lemn în micile magazine din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local handicrafts",
+            "tip": "Look for embroidery and woodwork in the small shops in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne, da sie nicht sehr häufig fahren.",
+          "Kaufen Sie ein Tagesticket, wenn es verfügbar ist.",
+          "Die Haltestellen sind nicht immer deutlich gekennzeichnet."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, mert nem járnak túl sűrűn.",
+          "Vásároljon napijegyet, ha elérhető.",
+          "A megállók nem mindig vannak egyértelműen megjelölve."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor în avans, deoarece acestea pot fi rare.",
+          "Cumpărați un bilet de o zi dacă este disponibil.",
+          "Stațiile nu sunt întotdeauna marcate clar."
+        ],
+        "en": [
+          "Check bus schedules in advance as they can be infrequent.",
+          "Buy a day pass if available.",
+          "Stops are not always clearly marked."
+        ]
+      }
+    }
+  }
+}

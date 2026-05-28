@@ -1,0 +1,1424 @@
+{
+  "city_id": "iceland-kopavogur-cities-v2",
+  "anchor": {
+    "name": "Kópavogur",
+    "coords": [
+      64.1111,
+      -21.9056
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kópavogskirkja",
+            "hu": "Kópavogskirkja",
+            "ro": "Biserica Kópavogskirkja",
+            "en": "Kópavogskirkja Church"
+          },
+          "coords": [
+            -21.912,
+            64.1132
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige wellenförmige Architektur und den Panoramablick.",
+            "hu": "Csodálja meg az egyedi, hullámzó építészetet és a panorámás kilátást.",
+            "ro": "Admirați arhitectura unică, ondulată, și priveliștea panoramică.",
+            "en": "Admire the unique wave-like architecture and the panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Gerðarsafn Kópavogur Kunstmuseum",
+            "hu": "Gerðarsafn Kópavogur Művészeti Múzeum",
+            "ro": "Muzeul de Artă Gerðarsafn Kópavogur",
+            "en": "Gerðarsafn Kópavogur Art Museum"
+          },
+          "coords": [
+            -21.9105,
+            64.1141
+          ],
+          "category": "museums",
+          "arrive_at": "09:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Werke von Gerður Helgadóttir, der Namensgeberin des Museums.",
+            "hu": "Fókuszáljon a múzeum névadójának, Gerður Helgadóttirnak a műveire.",
+            "ro": "Concentrați-vă pe lucrările lui Gerður Helgadóttir, cea care dă numele muzeului.",
+            "en": "Focus on the works of Gerður Helgadóttir, the museum's namesake."
+          }
+        },
+        {
+          "name": {
+            "de": "Salurinn Konzertsaal",
+            "hu": "Salurinn koncertterem",
+            "ro": "Sala de concerte Salurinn",
+            "en": "Salurinn Concert Hall"
+          },
+          "coords": [
+            -21.9098,
+            64.1145
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob während Ihres Besuchs eine kurze Mittagsmatinee stattfindet.",
+            "hu": "Nézze meg, hátha van egy rövid déli matiné az ott-tartózkodása alatt.",
+            "ro": "Verificați dacă există un matineu scurt la prânz în timpul vizitei dvs.",
+            "en": "Check if there's a short lunchtime matinee during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturkundemuseum Kópavogur",
+            "hu": "Kópavoguri Természettudományi Múzeum",
+            "ro": "Muzeul de Istorie Naturală din Kópavogur",
+            "en": "Kópavogur Natural History Museum"
+          },
+          "coords": [
+            -21.908,
+            64.115
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ideal für Familien, mit interaktiven Ausstellungen zur isländischen Fauna.",
+            "hu": "Családoknak ideális, interaktív kiállításokkal az izlandi állatvilágról.",
+            "ro": "Ideal pentru familii, cu exponate interactive despre fauna islandeză.",
+            "en": "Great for families, with interactive exhibits on Icelandic fauna."
+          }
+        },
+        {
+          "name": {
+            "de": "Geothermalbad Sundlaug Kópavogs",
+            "hu": "Sundlaug Kópavogs geotermikus fürdő",
+            "ro": "Piscina geotermală Sundlaug Kópavogs",
+            "en": "Sundlaug Kópavogs Geothermal Pool"
+          },
+          "coords": [
+            -21.895,
+            64.11
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Probieren Sie die verschiedenen Hot Pots mit unterschiedlichen Temperaturen aus.",
+            "hu": "Próbálja ki a különböző hőmérsékletű forróvizes medencéket (Hot Pot).",
+            "ro": "Încercați diferitele 'hot pots' (bazine cu apă fierbinte) cu temperaturi variate.",
+            "en": "Try out the different 'hot pots' with varying temperatures."
+          }
+        },
+        {
+          "name": {
+            "de": "Hügel Borgarholt",
+            "hu": "Borgarholt-domb",
+            "ro": "Dealul Borgarholt",
+            "en": "Borgarholt Hill"
+          },
+          "coords": [
+            -21.913,
+            64.112
+          ],
+          "category": "natural features",
+          "arrive_at": "17:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Der beste Ort in der Stadt für einen Panoramablick bei Sonnenuntergang über Reykjavík.",
+            "hu": "A város legjobb helye egy naplementés panorámakilátáshoz Reykjavíkra.",
+            "ro": "Cel mai bun loc din oraș pentru o vedere panoramică la apus asupra Reykjavíkului.",
+            "en": "The best spot in town for a panoramic sunset view over Reykjavík."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Kópavogur beginnt mit architektonischer Schönheit an der Kópavogskirkja. Der Vormittag ist der Kultur gewidmet, mit Besuchen im Kunstmuseum Gerðarsafn und im Naturkundemuseum, unterbrochen von einem kurzen Stopp in der Konzertsaal Salurinn. Nach einem Mittagessen verbringen Sie den Nachmittag entspannt im geothermischen Bad Sundlaug Kópavogs, einem authentischen isländischen Erlebnis. Der Tag endet auf dem Borgarholt-Hügel, wo Sie einen atemberaubenden Blick auf die Hauptstadtregion genießen, während die Sonne untergeht.",
+        "hu": "A nap Kópavogurban a Kópavogskirkja építészeti szépségével indul. A délelőtt a kultúráé, a Gerðarsafn művészeti múzeum és a Természettudományi Múzeum meglátogatásával, melyet a Salurinn koncertterem rövid megállója szakít meg. Ebéd után a délutánt a Sundlaug Kópavogs geotermikus fürdőben tölti pihenéssel, egy autentikus izlandi élménnyel. A nap a Borgarholt-dombon ér véget, ahonnan lélegzetelállító kilátás nyílik a fővárosi régióra naplemente idején.",
+        "ro": "Ziua dvs. în Kópavogur începe cu frumusețea arhitecturală de la Kópavogskirkja. Dimineața este dedicată culturii, cu vizite la muzeul de artă Gerðarsafn și Muzeul de Istorie Naturală, întrerupte de o scurtă oprire la sala de concerte Salurinn. După prânz, petreceți după-amiaza relaxându-vă la piscina geotermală Sundlaug Kópavogs, o experiență islandeză autentică. Ziua se încheie pe dealul Borgarholt, bucurându-vă de o priveliște uluitoare asupra regiunii capitalei în timp ce soarele apune.",
+        "en": "Your day in Kópavogur begins with architectural beauty at Kópavogskirkja. The morning is dedicated to culture, with visits to Gerðarsafn art museum and the Natural History Museum, broken up by a brief stop at Salurinn concert hall. After lunch, you spend the afternoon relaxing at the Sundlaug Kópavogs geothermal pool, an authentic Icelandic experience. The day concludes atop Borgarholt hill, enjoying a stunning view over the capital region as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kjötsúpa (Lammfleischsuppe)",
+            "tip": "Ein herzhaftes, traditionelles Gericht, perfekt nach einem Spaziergang. Suchen Sie nach Cafés in der Nähe der Schwimmbäder."
+          },
+          {
+            "name": "Plokkfiskur (Fischeintopf)",
+            "tip": "Ein cremiger, beruhigender Eintopf. Probieren Sie ihn im Restaurant Tveir Vitar für eine authentische Version."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Probieren Sie zum Nachtisch oder als Snack einen authentischen isländischen Skyr, der viel reichhaltiger ist als Exportversionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kjötsúpa (Bárányhúsleves)",
+            "tip": "Kiadós, hagyományos étel, tökéletes egy séta után. Keressen kávézókat az uszodák közelében."
+          },
+          {
+            "name": "Plokkfiskur (Halragu)",
+            "tip": "Krémes, melengető ragu. Kóstolja meg a Tveir Vitar étteremben az autentikus változatért."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Desszertként vagy snackként kóstoljon meg egy autentikus izlandi skyrt, sokkal gazdagabb, mint az export változatok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kjötsúpa (Supă de miel)",
+            "tip": "Un fel de mâncare consistent, tradițional, perfect după o plimbare. Căutați cafenele lângă piscine."
+          },
+          {
+            "name": "Plokkfiskur (Tocăniță de pește)",
+            "tip": "O tocăniță cremoasă și reconfortantă. Încercați-o la restaurantul Tveir Vitar pentru o versiune autentică."
+          },
+          {
+            "name": "Skyr",
+            "tip": "Pentru desert sau o gustare, încercați un Skyr islandez autentic, mult mai bogat decât versiunile de export."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kjötsúpa (Lamb soup)",
+            "tip": "A hearty, traditional dish perfect after a walk. Look for cafes near the swimming pools."
+          },
+          {
+            "name": "Plokkfiskur (Fish stew)",
+            "tip": "A creamy, comforting stew. Try it at Tveir Vitar restaurant for an authentic version."
+          },
+          {
+            "name": "Skyr",
+            "tip": "For dessert or a snack, try an authentic Icelandic skyr, much richer than export versions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel Borgarholt",
+            "tip": "Der beste Ort für einen ruhigen Moment mit weitem Blick über die Stadt und die Bucht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fossvogur-Tal",
+            "tip": "Ein friedlicher Spaziergang entlang des Tals bietet eine Pause vom Stadtleben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sauna im Sundlaug Kópavogs",
+            "tip": "Nach dem Schwimmen ist die Sauna ein perfekter Ort zum Entspannen in aller Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borgarholt-domb",
+            "tip": "A legjobb hely egy csendes pillanatra, ahonnan széles kilátás nyílik a városra és az öbölre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fossvogur-völgy",
+            "tip": "Egy békés séta a völgy mentén kikapcsolódást nyújt a városi életből.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szauna a Sundlaug Kópavogsban",
+            "tip": "Úszás után a szauna tökéletes hely a csendes pihenésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Borgarholt",
+            "tip": "Cel mai bun loc pentru un moment de liniște cu o priveliște vastă asupra orașului și golfului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Valea Fossvogur",
+            "tip": "O plimbare liniștită de-a lungul văii oferă o pauză de la viața orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sauna la Sundlaug Kópavogs",
+            "tip": "După înot, sauna este un loc perfect pentru a vă relaxa în liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Borgarholt Hill",
+            "tip": "The best spot for a quiet moment with a wide view over the city and bay.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fossvogur Valley",
+            "tip": "A peaceful walk along the valley offers a break from city life.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sauna at Sundlaug Kópavogs",
+            "tip": "After your swim, the sauna is a perfect place to relax in silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Smáralind Einkaufszentrum",
+            "tip": "Islands größtes Einkaufszentrum mit einer Mischung aus lokalen und internationalen Marken."
+          },
+          {
+            "name": "Hamraborg Bereich",
+            "tip": "Entdecken Sie kleinere, unabhängige Geschäfte und Boutiquen rund um das Kulturzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smáralind bevásárlóközpont",
+            "tip": "Izland legnagyobb bevásárlóközpontja helyi és nemzetközi márkák keverékével."
+          },
+          {
+            "name": "Hamraborg negyed",
+            "tip": "Fedezze fel a kulturális központ körüli kisebb, független üzleteket és butikokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Smáralind",
+            "tip": "Cel mai mare mall din Islanda, cu un amestec de mărci locale și internaționale."
+          },
+          {
+            "name": "Zona Hamraborg",
+            "tip": "Explorați magazine mai mici, independente și buticuri în jurul centrului cultural."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smáralind Shopping Mall",
+            "tip": "Iceland's largest shopping mall with a mix of local and international brands."
+          },
+          {
+            "name": "Hamraborg area",
+            "tip": "Explore smaller, independent shops and boutiques around the cultural hub."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme, wasserdichte Schuhe, da das Wetter schnell umschlagen kann.",
+          "Bringen Sie Badekleidung und ein Handtuch für das geothermische Bad mit, obwohl man sie auch mieten kann.",
+          "Die meisten Orte akzeptieren Kreditkarten, aber es ist gut, etwas isländische Kronen für kleine Einkäufe dabei zu haben.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da sie saisonal variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes, vízálló cipőt, mivel az időjárás gyorsan változhat.",
+          "Hozzon magával fürdőruhát és törölközőt a geotermikus fürdőhöz, bár bérelni is lehet.",
+          "A legtöbb helyen elfogadnak bankkártyát, de jó, ha van Önnél némi izlandi korona kisebb vásárlásokhoz.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mert szezonálisan változhat."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili și impermeabili, deoarece vremea se poate schimba rapid.",
+          "Aduceți un costum de baie și un prosop pentru piscina geotermală, deși pot fi și închiriate.",
+          "Majoritatea locurilor acceptă carduri de credit, dar este bine să aveți niște coroane islandeze pentru cumpărături mici.",
+          "Verificați în avans orele de funcționare ale muzeelor, deoarece acestea pot varia în funcție de sezon."
+        ],
+        "en": [
+          "Wear comfortable, waterproof shoes as the weather can change quickly.",
+          "Bring a swimsuit and towel for the geothermal pool, although they can be rented.",
+          "Most places accept credit cards, but it's good to have some Icelandic króna for small purchases.",
+          "Check museum opening hours in advance, as they can vary seasonally."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hügel Borgarholt",
+            "hu": "Borgarholt-domb",
+            "ro": "Dealul Borgarholt",
+            "en": "Borgarholt Hill"
+          },
+          "coords": [
+            -21.913,
+            64.112
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer Aussicht, um sich zu orientieren.",
+            "hu": "Kezdje a napot egy kilátással, hogy tájékozódjon.",
+            "ro": "Începeți ziua cu o priveliște pentru a vă orienta.",
+            "en": "Start your day with a view to get your bearings."
+          }
+        },
+        {
+          "name": {
+            "de": "Kópavogskirkja",
+            "hu": "Kópavogskirkja",
+            "ro": "Biserica Kópavogskirkja",
+            "en": "Kópavogskirkja Church"
+          },
+          "coords": [
+            -21.912,
+            64.1132
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Radfahren den Hügel hinauf gibt Ihnen ein Erfolgserlebnis, bevor Sie die Architektur bewundern.",
+            "hu": "A dombra feltekerni sikerélményt ad, mielőtt megcsodálná az építészetet.",
+            "ro": "Urcarea dealului cu bicicleta vă va da un sentiment de împlinire înainte de a admira arhitectura.",
+            "en": "Cycling up the hill gives you a sense of accomplishment before admiring the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Gerðarsafn Kópavogur Kunstmuseum",
+            "hu": "Gerðarsafn Kópavogur Művészeti Múzeum",
+            "ro": "Muzeul de Artă Gerðarsafn Kópavogur",
+            "en": "Gerðarsafn Kópavogur Art Museum"
+          },
+          "coords": [
+            -21.9105,
+            64.1141
+          ],
+          "category": "museums",
+          "arrive_at": "10:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie für eine Weile in die isländische Kunst ein.",
+            "hu": "Parkolja le a biciklit, és merüljön el egy időre az izlandi művészetben.",
+            "ro": "Parcați bicicleta și scufundați-vă în arta islandeză pentru o vreme.",
+            "en": "Park your bike and immerse yourself in Icelandic art for a while."
+          }
+        },
+        {
+          "name": {
+            "de": "Geothermalbad Sundlaug Kópavogs",
+            "hu": "Sundlaug Kópavogs geotermikus fürdő",
+            "ro": "Piscina geotermală Sundlaug Kópavogs",
+            "en": "Sundlaug Kópavogs Geothermal Pool"
+          },
+          "coords": [
+            -21.895,
+            64.11
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:57",
+          "stay_min": 180,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Bad in den Hot Pots ist die perfekte Belohnung für die Muskeln nach dem Radfahren.",
+            "hu": "Egy fürdő a forróvizes medencékben tökéletes jutalom az izmoknak a biciklizés után.",
+            "ro": "O baie în 'hot pots' este recompensa perfectă pentru mușchi după mersul pe bicicletă.",
+            "en": "A soak in the hot pots is the perfect reward for your muscles after cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Einkaufszentrum Smáralind",
+            "hu": "Smáralind bevásárlóközpont",
+            "ro": "Centrul comercial Smáralind",
+            "en": "Smáralind Shopping Mall"
+          },
+          "coords": [
+            -21.888,
+            64.099
+          ],
+          "category": "historical",
+          "arrive_at": "15:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein guter Ort, um sich aufzuwärmen und einen Kaffee zu trinken, bevor es weitergeht.",
+            "hu": "Jó hely a felmelegedésre és egy kávéra, mielőtt tovább indulna.",
+            "ro": "Un loc bun pentru a vă încălzi și a bea o cafea înainte de a continua.",
+            "en": "A good place to warm up and have a coffee before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturgebiet Hjallar",
+            "hu": "Hjallar természetvédelmi terület",
+            "ro": "Rezervația naturală Hjallar",
+            "en": "Hjallar natural area"
+          },
+          "coords": [
+            -21.86,
+            64.105
+          ],
+          "category": "natural features",
+          "arrive_at": "16:41",
+          "stay_min": 30,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannten Fahrt durch dieses grüne Gebiet.",
+            "hu": "Fejezze be a kerékpártúrát egy pihentető tekeréssel ezen a zöld területen.",
+            "ro": "Încheiați turul cu bicicleta cu o plimbare relaxantă prin această zonă verde.",
+            "en": "End your bike tour with a relaxing ride through this green area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Kópavogur beginnt aktiv mit einem Aufstieg zum Borgarholt-Hügel für eine tolle Aussicht. Von dort rollen Sie zur ikonischen Kópavogskirkja und dem nahegelegenen Kunstmuseum Gerðarsafn. Der Höhepunkt des Tages ist eine lange, entspannende Pause im geothermischen Bad Sundlaug Kópavogs, perfekt um die Muskeln zu lockern. Am Nachmittag machen Sie einen kurzen Einkaufsstopp im Smáralind, bevor Sie den Tag mit einer sanften Fahrt durch das Naturgebiet Hjallar ausklingen lassen.",
+        "hu": "Kerékpártúrája Kópavogurban aktívan kezdődik a Borgarholt-dombra való feljutással a remek kilátásért. Onnan legurul az ikonikus Kópavogskirkjához és a közeli Gerðarsafn művészeti múzeumhoz. A nap csúcspontja egy hosszú, pihentető szünet a Sundlaug Kópavogs geotermikus fürdőben, ami tökéletes az izmok lazítására. Délután egy rövid vásárlási megállót tesz a Smáralindban, mielőtt a napot egy kellemes tekeréssel zárja a Hjallar természetvédelmi területen.",
+        "ro": "Turul dvs. cu bicicleta prin Kópavogur începe activ cu o urcare pe dealul Borgarholt pentru o priveliște minunată. De acolo, coborâți spre iconica Kópavogskirkja și muzeul de artă Gerðarsafn din apropiere. Punctul culminant al zilei este o pauză lungă și relaxantă la piscina geotermală Sundlaug Kópavogs, perfectă pentru a vă destinde mușchii. După-amiaza, faceți o scurtă oprire pentru cumpărături la Smáralind înainte de a încheia ziua cu o plimbare lină prin zona naturală Hjallar.",
+        "en": "Your bike tour of Kópavogur starts actively with a climb up Borgarholt hill for a great view. From there, you'll roll down to the iconic Kópavogskirkja and the nearby Gerðarsafn art museum. The highlight of the day is a long, relaxing break at the Sundlaug Kópavogs geothermal pool, perfect for soothing your muscles. In the afternoon, you'll make a quick shopping stop at Smáralind before ending the day with a gentle ride through the Hjallar natural area."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pylsa (Hotdog)",
+            "tip": "Schnappen Sie sich einen berühmten isländischen Hotdog von einem Stand in der Nähe von Smáralind für einen schnellen Energiekick."
+          },
+          {
+            "name": "Fisch und Chips",
+            "tip": "Nach dem Schwimmen ist eine Portion Fish and Chips vom Imbiss nebenan ein Klassiker."
+          },
+          {
+            "name": "Kleina (isländischer Donut)",
+            "tip": "Ein verdrehter, frittierter Teig, ideal zu einer Tasse Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pylsa (Hot dog)",
+            "tip": "Kapjon be egy híres izlandi hot dogot a Smáralind melletti bódéból egy gyors energialöketért."
+          },
+          {
+            "name": "Fish and chips",
+            "tip": "Úszás után egy adag fish and chips a szomszédos büféből klasszikus választás."
+          },
+          {
+            "name": "Kleina (izlandi fánk)",
+            "tip": "Csavart, sült tészta, ideális egy csésze kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pylsa (Hotdog)",
+            "tip": "Luați un faimos hotdog islandez de la un stand de lângă Smáralind pentru o doză rapidă de energie."
+          },
+          {
+            "name": "Pește și cartofi prăjiți",
+            "tip": "După înot, o porție de pește și cartofi prăjiți de la localul de alături este un clasic."
+          },
+          {
+            "name": "Kleina (gogoașă islandeză)",
+            "tip": "Un aluat răsucit și prăjit, ideal cu o ceașcă de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pylsa (Hot dog)",
+            "tip": "Grab a famous Icelandic hot dog from a stand near Smáralind for a quick energy boost."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "After your swim, a portion of fish and chips from the takeaway next door is a classic."
+          },
+          {
+            "name": "Kleina (Icelandic doughnut)",
+            "tip": "A twisted, deep-fried pastry, great with a cup of coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küste bei Kársnes",
+            "tip": "Ein ruhiger Radweg entlang der Küste mit Blick auf Reykjavík.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hjallar-Teiche",
+            "tip": "Halten Sie an den Teichen im Hjallar-Gebiet an, um Vögel zu beobachten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Borgarholt",
+            "tip": "Genießen Sie die Stille am Morgen, bevor die Stadt erwacht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kársnes-part",
+            "tip": "Egy csendes kerékpárút a part mentén, kilátással Reykjavíkra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hjallar tavak",
+            "tip": "Álljon meg a tavaknál a Hjallar területén madármegfigyelésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Borgarholtról",
+            "tip": "Élvezze a reggeli csendet, mielőtt a város felébred.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coasta Kársnes",
+            "tip": "O pistă de biciclete liniștită de-a lungul coastei cu vedere la Reykjavík.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Iazurile Hjallar",
+            "tip": "Opriți-vă la iazurile din zona Hjallar pentru a observa păsările.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliștea de pe Borgarholt",
+            "tip": "Bucurați-vă de liniștea dimineții înainte ca orașul să se trezească.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kársnes coast",
+            "tip": "A quiet cycle path along the coast with views of Reykjavík.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hjallar ponds",
+            "tip": "Stop by the ponds in the Hjallar area for some bird watching.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Borgarholt",
+            "tip": "Enjoy the quiet of the morning before the city wakes up.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Smáralind Einkaufszentrum",
+            "tip": "Hier finden Sie alles, von Outdoor-Ausrüstung bis hin zu isländischem Design."
+          },
+          {
+            "name": "Lokale Supermärkte",
+            "tip": "Kaufen Sie isländische Snacks wie Harðfiskur (Trockenfisch) oder Schokolade mit Lakritz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smáralind bevásárlóközpont",
+            "tip": "Mindent megtalál a túrafelszereléstől az izlandi dizájnig."
+          },
+          {
+            "name": "Helyi szupermarketek",
+            "tip": "Vásároljon izlandi rágcsálnivalókat, mint a Harðfiskur (szárított hal) vagy az édesgyökérrel töltött csokoládé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Smáralind",
+            "tip": "Găsiți totul, de la echipament de exterior la design islandez."
+          },
+          {
+            "name": "Supermarketuri locale",
+            "tip": "Cumpărați gustări islandeze precum Harðfiskur (pește uscat) sau ciocolată cu lemn dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smáralind Shopping Mall",
+            "tip": "Find everything from outdoor gear to Icelandic design."
+          },
+          {
+            "name": "Local Supermarkets",
+            "tip": "Stock up on Icelandic snacks like Harðfiskur (dried fish) or chocolate with licorice."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit guter Gangschaltung für die Hügel.",
+          "Tragen Sie einen Helm und winddichte Kleidung.",
+          "Nutzen Sie die ausgedehnten Radwege der Stadt, um dem Verkehr auszuweichen.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch für kurze Stopps."
+        ],
+        "hu": [
+          "Béreljen jó sebességváltóval rendelkező kerékpárt a dombokhoz.",
+          "Viseljen sisakot és szélálló ruházatot.",
+          "Használja a város kiterjedt kerékpárútjait a forgalom elkerülése érdekében.",
+          "Mindig zárja le a kerékpárját, még rövid megállókra is."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze bune pentru dealuri.",
+          "Purtați cască și îmbrăcăminte rezistentă la vânt.",
+          "Folosiți pistele de biciclete extinse ale orașului pentru a evita traficul.",
+          "Încuietăți întotdeauna bicicleta, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Rent a bike with good gears for the hills.",
+          "Wear a helmet and windproof clothing.",
+          "Use the city's extensive cycle paths to avoid traffic.",
+          "Always lock your bike, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturviertel Hamraborg",
+            "hu": "Hamraborg kulturális negyed",
+            "ro": "Districtul cultural Hamraborg",
+            "en": "Hamraborg Cultural Cluster"
+          },
+          "coords": [
+            -21.912,
+            64.1132
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier Ihr Auto für den Vormittag. Das Parken ist in der Regel leicht zu finden.",
+            "hu": "Parkolja le itt az autóját a délelőttre. Általában könnyű parkolóhelyet találni.",
+            "ro": "Parcați mașina aici pentru dimineață. Parcarea este de obicei ușor de găsit.",
+            "en": "Park your car here for the morning. Parking is usually easy to find."
+          }
+        },
+        {
+          "name": {
+            "de": "Kópavogskirkja",
+            "hu": "Kópavogskirkja",
+            "ro": "Biserica Kópavogskirkja",
+            "en": "Kópavogskirkja Church"
+          },
+          "coords": [
+            -21.912,
+            64.1132
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus. Genießen Sie die Aussicht von der Spitze des Hügels.",
+            "hu": "Rövid séta a parkolótól. Élvezze a kilátást a domb tetejéről.",
+            "ro": "O scurtă plimbare de la parcare. Bucurați-vă de priveliștea din vârful dealului.",
+            "en": "A short walk from where you parked. Enjoy the view from the top of the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Gerðarsafn Kópavogur Kunstmuseum",
+            "hu": "Gerðarsafn Kópavogur Művészeti Múzeum",
+            "ro": "Muzeul de Artă Gerðarsafn Kópavogur",
+            "en": "Gerðarsafn Kópavogur Art Museum"
+          },
+          "coords": [
+            -21.9105,
+            64.1141
+          ],
+          "category": "museums",
+          "arrive_at": "09:49",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich die Straße runter von der Kirche, ein einfacher Spaziergang.",
+            "hu": "Az utca végén a templomtól, egy könnyű séta.",
+            "ro": "Chiar la capătul străzii de la biserică, o plimbare ușoară.",
+            "en": "Just down the street from the church, an easy walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Salurinn Konzertsaal",
+            "hu": "Salurinn koncertterem",
+            "ro": "Sala de concerte Salurinn",
+            "en": "Salurinn Concert Hall"
+          },
+          "coords": [
+            -21.9098,
+            64.1145
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:21",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick hinein, um die renommierte Akustik zu sehen.",
+            "hu": "Pillantson be, hogy lássa a híres akusztikát.",
+            "ro": "Aruncați o privire înăuntru pentru a vedea acustica renumită.",
+            "en": "Pop in for a look at its renowned acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Geothermalbad Sundlaug Kópavogs",
+            "hu": "Sundlaug Kópavogs geotermikus fürdő",
+            "ro": "Piscina geotermală Sundlaug Kópavogs",
+            "en": "Sundlaug Kópavogs Geothermal Pool"
+          },
+          "coords": [
+            -21.895,
+            64.11
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:51",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Pool. Es gibt genügend Parkplätze. Ein Muss für ein isländisches Erlebnis.",
+            "hu": "Vezessen el a fürdőhöz. Rengeteg parkolóhely van. Kötelező az izlandi élményhez.",
+            "ro": "Conduceți până la piscină. Există parcare amplă. O necesitate pentru o experiență islandeză.",
+            "en": "Drive to the pool cluster. There is ample parking. A must-do for an Icelandic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Einkaufszentrum Smáralind",
+            "hu": "Smáralind bevásárlóközpont",
+            "ro": "Centrul comercial Smáralind",
+            "en": "Smáralind Shopping Mall"
+          },
+          "coords": [
+            -21.888,
+            64.099
+          ],
+          "category": "historical",
+          "arrive_at": "15:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 13.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit etwas Shopping oder einem frühen Abendessen in Islands größtem Einkaufszentrum.",
+            "hu": "Zárja a napot egy kis vásárlással vagy egy korai vacsorával Izland legnagyobb bevásárlóközpontjában.",
+            "ro": "Încheiați ziua cu niște cumpărături sau o cină devreme la cel mai mare mall din Islanda.",
+            "en": "End the day with some shopping or an early dinner at Iceland's largest mall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Kópavogur ist auf Effizienz ausgelegt. Beginnen Sie im Kulturcluster Hamraborg, wo Sie parken und zu Fuß die Kópavogskirkja, das Gerðarsafn Museum und den Salurinn Konzertsaal erkunden. Nach diesem kulturellen Vormittag fahren Sie eine kurze Strecke zum Sundlaug Kópavogs, um in das isländische Badeerlebnis einzutauchen und zu Mittag zu essen. Der Nachmittag ist für einen ausgedehnten Besuch im Smáralind Einkaufszentrum reserviert, wo Sie einkaufen, einen Film sehen oder in einem der vielen Restaurants essen können, bevor Sie den Tag beenden.",
+        "hu": "Autós napja Kópavogurban a hatékonyságra összpontosít. Kezdjen a Hamraborg kulturális központban, ahol leparkol, majd gyalog felfedezi a Kópavogskirkját, a Gerðarsafn Múzeumot és a Salurinn Koncerttermet. A kulturális délelőtt után egy rövid autóúttal eljut a Sundlaug Kópavogs fürdőbe, hogy elmerüljön az izlandi fürdőélményben és megebédeljen. A délután a Smáralind bevásárlóközpontban tett hosszabb látogatásra van fenntartva, ahol vásárolhat, megnézhet egy filmet, vagy ehet a számos étterem egyikében, mielőtt befejezi a napot.",
+        "ro": "Ziua dvs. cu mașina în Kópavogur este concepută pentru eficiență. Începeți în clusterul cultural Hamraborg, unde parcați și explorați pe jos Kópavogskirkja, Muzeul Gerðarsafn și Sala de Concerte Salurinn. După această dimineață culturală, faceți o scurtă călătorie cu mașina până la Sundlaug Kópavogs pentru o imersiune în experiența balneară islandeză și pentru prânz. După-amiaza este rezervată unei vizite extinse la centrul comercial Smáralind, unde puteți face cumpărături, viziona un film sau mânca la unul dintre multele restaurante înainte de a încheia ziua.",
+        "en": "Your car day in Kópavogur is designed for efficiency. Start at the Hamraborg cultural cluster, where you'll park and explore Kópavogskirkja, Gerðarsafn Museum, and Salurinn Concert Hall on foot. After this cultural morning, take a short drive to Sundlaug Kópavogs for an immersive Icelandic pool experience and lunch. The afternoon is reserved for an extended visit to Smáralind shopping mall, where you can shop, catch a movie, or dine at one of its many restaurants before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Food Court im Smáralind",
+            "tip": "Eine große Auswahl an internationalen und lokalen Speisen, für jeden etwas."
+          },
+          {
+            "name": "Bakarameistarinn",
+            "tip": "Eine berühmte Bäckereikette. Holen Sie sich Gebäck oder ein Sandwich für eine schnelle Mahlzeit."
+          },
+          {
+            "name": "Isländisches Craft Beer",
+            "tip": "Suchen Sie nach einer Bar in der Nähe von Smáralind, die lokales Bier anbietet, um den Tag ausklingen zu lassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smáralind ételudvar",
+            "tip": "Nemzetközi és helyi ételek széles választéka, mindenki talál valamit."
+          },
+          {
+            "name": "Bakarameistarinn",
+            "tip": "Híres pékséglánc. Vegyen péksüteményt vagy szendvicset egy gyors étkezéshez."
+          },
+          {
+            "name": "Izlandi kézműves sör",
+            "tip": "Keressen egy bárt a Smáralind közelében, ahol helyi sört kínálnak a nap lezárásaként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Food Court la Smáralind",
+            "tip": "O mare varietate de opțiuni culinare internaționale și locale, ceva pentru toată lumea."
+          },
+          {
+            "name": "Bakarameistarinn",
+            "tip": "Un lanț de brutării faimos. Luați produse de patiserie sau un sandviș pentru o masă rapidă."
+          },
+          {
+            "name": "Bere artizanală islandeză",
+            "tip": "Căutați un bar lângă Smáralind care servește bere locală pentru a încheia ziua."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smáralind Food Court",
+            "tip": "A wide variety of international and local food options, something for everyone."
+          },
+          {
+            "name": "Bakarameistarinn",
+            "tip": "A famous bakery chain. Grab some pastries or a sandwich for a quick meal."
+          },
+          {
+            "name": "Icelandic Craft Beer",
+            "tip": "Find a bar near Smáralind that serves local beer to finish the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick vom Borgarholt",
+            "tip": "Fahren Sie für einen Moment der Ruhe vor oder nach dem Besuch des Kulturzentrums auf den Gipfel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Elliðaárdalur-Tal",
+            "tip": "Ein kurzer Abstecher mit dem Auto führt Sie in dieses ruhige Tal, das sich wie eine andere Welt anfühlt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Unterwasserrutschen im Sundlaug Kópavogs",
+            "tip": "Obwohl es nicht leise ist, ist es ein Moment purer, unbeschwerter Freude.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Borgarholtról",
+            "tip": "Vezessen fel a csúcsra egy csendes pillanatra a kulturális központ meglátogatása előtt vagy után.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Elliðaárdalur-völgy",
+            "tip": "Egy rövid autós kitérővel eljuthat ebbe a csendes völgybe, amely egy másik világnak tűnik.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Sundlaug Kópavogs vízicsúszdái",
+            "tip": "Bár nem csendes, ez a tiszta, gondtalan öröm pillanata.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliștea de pe Borgarholt",
+            "tip": "Conduceți până în vârf pentru un moment de liniște înainte sau după vizitarea clusterului cultural.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Valea Elliðaárdalur",
+            "tip": "Un scurt ocol cu mașina vă duce în această vale liniștită care se simte ca o altă lume.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Toboganele acvatice de la Sundlaug Kópavogs",
+            "tip": "Deși nu este liniștit, este un moment de bucurie pură și lipsită de griji.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Borgarholt",
+            "tip": "Drive to the top for a moment of peace before or after visiting the cultural cluster.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Elliðaárdalur Valley",
+            "tip": "A short detour by car takes you to this quiet valley that feels a world away.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The water slides at Sundlaug Kópavogs",
+            "tip": "While not quiet, it is a moment of pure, carefree joy.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Smáralind Einkaufszentrum",
+            "tip": "Der One-Stop-Shop für alles, was Sie brauchen, von Souvenirs bis hin zu High-End-Mode."
+          },
+          {
+            "name": "Bonus Supermarkt",
+            "tip": "Halten Sie in einem Bonus-Laden (achten Sie auf das rosa Schwein) an, um isländische Lebensmittel zu günstigen Preisen zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smáralind bevásárlóközpont",
+            "tip": "Az egyablakos ügyintézés helye mindenre, amire szüksége lehet, a szuvenírektől a csúcskategóriás divatig."
+          },
+          {
+            "name": "Bonus szupermarket",
+            "tip": "Álljon meg egy Bonus üzletben (keresse a rózsaszín malacot), hogy kedvező áron vásároljon izlandi élelmiszereket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Smáralind",
+            "tip": "Magazinul unic pentru tot ce aveți nevoie, de la suveniruri la modă de lux."
+          },
+          {
+            "name": "Supermarketul Bonus",
+            "tip": "Opriți-vă la un magazin Bonus (căutați porcul roz) pentru a cumpăra produse alimentare islandeze la prețuri avantajoase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smáralind Shopping Mall",
+            "tip": "The one-stop-shop for anything you need, from souvenirs to high-end fashion."
+          },
+          {
+            "name": "Bonus Supermarket",
+            "tip": "Stop at a Bonus store (look for the pink pig) to stock up on Icelandic groceries at good prices."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Beachten Sie die Parkvorschriften; einige Bereiche erfordern eine Parkscheibe.",
+          "Die Benzinpreise sind in Island hoch, also planen Sie Ihre Fahrten effizient.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen, die streng durchgesetzt werden.",
+          "Die Straßenverhältnisse können sich schnell ändern, insbesondere außerhalb der Hauptstraßen."
+        ],
+        "hu": [
+          "Vegye figyelembe a parkolási szabályokat; egyes területeken parkolótárcsa szükséges.",
+          "Az üzemanyagárak magasak Izlandon, ezért tervezze meg hatékonyan az utazásait.",
+          "Ügyeljen a sebességkorlátozásokra, amelyeket szigorúan betartatnak.",
+          "Az útviszonyok gyorsan változhatnak, különösen a főutakon kívül."
+        ],
+        "ro": [
+          "Fiți atenți la regulile de parcare; unele zone necesită un disc de parcare.",
+          "Prețurile la benzină sunt ridicate în Islanda, așa că planificați-vă călătoriile eficient.",
+          "Respectați limitele de viteză, care sunt strict aplicate.",
+          "Condițiile drumurilor se pot schimba rapid, în special în afara drumurilor principale."
+        ],
+        "en": [
+          "Be aware of parking regulations; some areas require a parking disc.",
+          "Gas prices are high in Iceland, so plan your drives efficiently.",
+          "Pay attention to speed limits, which are strictly enforced.",
+          "Road conditions can change quickly, especially off the main roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Hamraborg",
+            "hu": "Hamraborg buszmegálló",
+            "ro": "Stația de autobuz Hamraborg",
+            "en": "Hamraborg bus stop"
+          },
+          "coords": [
+            -21.9085,
+            64.113
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, im Herzen von Kópavogur. Kaufen Sie eine Tageskarte für das Strætó-Bussystem.",
+            "hu": "Kezdje itt, Kópavogur szívében. Vegyen egy napijegyet a Strætó buszrendszerre.",
+            "ro": "Începeți aici, în inima orașului Kópavogur. Cumpărați un abonament de o zi pentru sistemul de autobuze Strætó.",
+            "en": "Start here, in the heart of Kópavogur. Purchase a day pass for the Strætó bus system."
+          }
+        },
+        {
+          "name": {
+            "de": "Kópavogskirkja",
+            "hu": "Kópavogskirkja",
+            "ro": "Biserica Kópavogskirkja",
+            "en": "Kópavogskirkja Church"
+          },
+          "coords": [
+            -21.912,
+            64.1132
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:18",
+          "stay_min": 35,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang den Hügel hinauf von der Bushaltestelle.",
+            "hu": "Rövid séta felfelé a dombon a buszmegállótól.",
+            "ro": "O scurtă plimbare pe deal de la stația de autobuz.",
+            "en": "A short walk up the hill from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Gerðarsafn Kópavogur Kunstmuseum",
+            "hu": "Gerðarsafn Kópavogur Művészeti Múzeum",
+            "ro": "Muzeul de Artă Gerðarsafn Kópavogur",
+            "en": "Gerðarsafn Kópavogur Art Museum"
+          },
+          "coords": [
+            -21.9105,
+            64.1141
+          ],
+          "category": "museums",
+          "arrive_at": "09:57",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieser Cluster von Sehenswürdigkeiten ist leicht zu Fuß zu erreichen.",
+            "hu": "Ez a látnivalócsoport könnyen bejárható gyalog.",
+            "ro": "Acest grup de atracții este ușor de explorat pe jos.",
+            "en": "This cluster of sights is easily walkable."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Sundlaug Kópavogs",
+            "hu": "Sundlaug Kópavogs buszmegálló",
+            "ro": "Stația de autobuz Sundlaug Kópavogs",
+            "en": "Sundlaug Kópavogs bus stop"
+          },
+          "coords": [
+            -21.895,
+            64.1105
+          ],
+          "category": "historical",
+          "arrive_at": "11:43",
+          "stay_min": 5,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus von Hamraborg hierher. Die Fahrt ist kurz.",
+            "hu": "Menjen busszal Hamraborgból ide. Az út rövid.",
+            "ro": "Luați un autobuz de la Hamraborg până aici. Călătoria este scurtă.",
+            "en": "Take a bus from Hamraborg here. The ride is short."
+          }
+        },
+        {
+          "name": {
+            "de": "Geothermalbad Sundlaug Kópavogs",
+            "hu": "Sundlaug Kópavogs geotermikus fürdő",
+            "ro": "Piscina geotermală Sundlaug Kópavogs",
+            "en": "Sundlaug Kópavogs Geothermal Pool"
+          },
+          "coords": [
+            -21.895,
+            64.11
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:49",
+          "stay_min": 180,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Pool liegt direkt neben der Bushaltestelle. Genießen Sie ein langes Bad und ein Mittagessen.",
+            "hu": "A fürdő közvetlenül a buszmegálló mellett van. Élvezzen egy hosszú fürdőzést és egy ebédet.",
+            "ro": "Piscina este chiar lângă stația de autobuz. Bucurați-vă de o baie lungă și de prânz.",
+            "en": "The pool is right next to the bus stop. Enjoy a long soak and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Einkaufszentrum Smáralind",
+            "hu": "Smáralind bevásárlóközpont",
+            "ro": "Centrul comercial Smáralind",
+            "en": "Smáralind Shopping Mall"
+          },
+          "coords": [
+            -21.888,
+            64.099
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen weiteren Bus zum größten Einkaufszentrum Islands für den letzten Teil Ihres Tages.",
+            "hu": "Menjen egy másik busszal Izland legnagyobb bevásárlóközpontjába a nap utolsó részére.",
+            "ro": "Luați un alt autobuz spre cel mai mare mall din Islanda pentru ultima parte a zilei.",
+            "en": "Take another bus to Iceland's largest mall for the final part of your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Strætó-Bus lässt sich Kópavogur leicht erkunden. Beginnen Sie im Zentrum von Hamraborg, wo Sie zu Fuß den ersten Kulturcluster mit der Kópavogskirkja und dem Gerðarsafn Museum erkunden. Anschließend bringt Sie eine kurze Busfahrt zu Ihrem zweiten Ziel: dem geothermischen Pool Sundlaug Kópavogs. Hier können Sie sich entspannen und zu Mittag essen. Eine letzte Busfahrt bringt Sie am Nachmittag zum riesigen Smáralind-Einkaufszentrum, einem perfekten Ort, um den Tag mit Shopping oder einem Snack ausklingen zu lassen, bevor Sie mit dem Bus zurückfahren.",
+        "hu": "A Strætó busszal könnyedén felfedezheti Kópavogurt. Kezdjen Hamraborg központjában, ahol gyalogosan fedezi fel az első kulturális központot, a Kópavogskirkját és a Gerðarsafn Múzeumot. Ezután egy rövid buszozás elviszi a második célponthoz: a Sundlaug Kópavogs geotermikus fürdőhöz. Itt pihenhet és ebédelhet. Egy utolsó buszút viszi délután a hatalmas Smáralind bevásárlóközpontba, ami tökéletes hely a nap lezárására egy kis vásárlással vagy uzsonnával, mielőtt visszabuszozna.",
+        "ro": "Explorarea Kópavogur este ușoară cu autobuzul Strætó. Începeți în centrul Hamraborg, unde veți explora pe jos primul cluster cultural, inclusiv Kópavogskirkja și Muzeul Gerðarsafn. Apoi, o scurtă călătorie cu autobuzul vă duce la a doua destinație: piscina geotermală Sundlaug Kópavogs. Aici vă puteți relaxa și lua prânzul. O ultimă călătorie cu autobuzul după-amiaza vă duce la imensul centru comercial Smáralind, un loc perfect pentru a încheia ziua cu cumpărături sau o gustare înainte de a lua autobuzul înapoi.",
+        "en": "Exploring Kópavogur is easy with the Strætó bus. Start in the central Hamraborg area, where you'll explore the first cultural cluster on foot, including Kópavogskirkja and Gerðarsafn Museum. Then, a short bus ride takes you to your second cluster: the Sundlaug Kópavogs geothermal pool. Here you can relax and have lunch. A final bus trip in the afternoon takes you to the giant Smáralind shopping mall, a perfect place to end the day with some shopping or a snack before bussing back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bæjarins Beztu Pylsur (berühmter Hotdog-Stand)",
+            "tip": "Auch wenn er in Reykjavík beheimatet ist, halten Sie Ausschau nach lokalen Hotdog-Ständen für eine ähnliche Erfahrung."
+          },
+          {
+            "name": "Suppe in einem Brotlaib",
+            "tip": "In Cafés in der Nähe der Bushaltestellen gibt es oft herzhafte Suppen, die in einem essbaren Laib serviert werden."
+          },
+          {
+            "name": "Prins Póló (Schokoriegel)",
+            "tip": "Ein klassischer isländischer Schokoriegel, den man in jedem Supermarkt für einen schnellen Zuckerschub bekommt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bæjarins Beztu Pylsur (híres hot dog stand)",
+            "tip": "Bár Reykjavíkban található, keresse a helyi hot dog standokat egy hasonló élményért."
+          },
+          {
+            "name": "Leves kenyérben",
+            "tip": "A buszmegállók melletti kávézókban gyakran kínálnak kiadós leveseket ehető cipóban tálalva."
+          },
+          {
+            "name": "Prins Póló (csokoládészelet)",
+            "tip": "Klasszikus izlandi csokoládészelet, minden szupermarketben kapható egy gyors cukorlöketért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bæjarins Beztu Pylsur (faimosul stand de hotdog)",
+            "tip": "Deși originalul este în Reykjavík, căutați standuri locale de hotdog pentru o experiență similară."
+          },
+          {
+            "name": "Supă în pâine",
+            "tip": "Cafenelele de lângă stațiile de autobuz servesc adesea supe consistente servite într-o pâine comestibilă."
+          },
+          {
+            "name": "Prins Póló (baton de ciocolată)",
+            "tip": "Un baton de ciocolată islandez clasic, disponibil la orice supermarket pentru o doză rapidă de zahăr."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bæjarins Beztu Pylsur (famous hot dog stand)",
+            "tip": "While native to Reykjavík, look for local hot dog stands for a similar experience."
+          },
+          {
+            "name": "Soup in a bread bowl",
+            "tip": "Cafes near the bus hubs often serve hearty soups served in an edible bowl."
+          },
+          {
+            "name": "Prins Póló (chocolate bar)",
+            "tip": "A classic Icelandic chocolate bar available at any supermarket for a quick sugar rush."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberdeck eines Doppeldeckerbusses",
+            "tip": "Finden Sie einen ruhigen Sitzplatz im Oberdeck und beobachten Sie, wie die Stadt an Ihnen vorbeizieht.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bibliothek von Kópavogur",
+            "tip": "In der Nähe des Hamraborg-Knotenpunkts gelegen, ist es ein warmer, ruhiger Ort zum Ausruhen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang um den See in Smáralind",
+            "tip": "Machen Sie einen kurzen Spaziergang um den künstlichen See außerhalb des Einkaufszentrums.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Keressen egy csendes helyet a felső szinten, és nézze, ahogy a város elsuhan.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kópavoguri Könyvtár",
+            "tip": "A Hamraborg csomópont közelében található, meleg, csendes hely a pihenésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Smáralind-tó körül",
+            "tip": "Tegyen egy rövid sétát a bevásárlóközpont melletti mesterséges tó körül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz etajat",
+            "tip": "Găsiți un loc liniștit la etaj și priviți cum trece orașul.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Biblioteca Kópavogur",
+            "tip": "Situată lângă nodul Hamraborg, este un loc cald și liniștit pentru a vă odihni.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare în jurul lacului de la Smáralind",
+            "tip": "Faceți o scurtă plimbare în jurul lacului artificial din afara mall-ului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of a double-decker bus",
+            "tip": "Find a quiet seat on the top deck and watch the city go by.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kópavogur Library",
+            "tip": "Located near the Hamraborg hub, it's a warm, quiet place to rest.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk around the lake at Smáralind",
+            "tip": "Take a short walk around the artificial lake outside the mall.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Smáralind Einkaufszentrum",
+            "tip": "Leicht mit dem Bus zu erreichen und bietet eine riesige Auswahl an Geschäften."
+          },
+          {
+            "name": "Handwerksmärkte in Hamraborg",
+            "tip": "Überprüfen Sie lokale Auflistungen auf Pop-up-Märkte in der Nähe des Kulturzentrums, insbesondere an Wochenenden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smáralind bevásárlóközpont",
+            "tip": "Könnyen megközelíthető busszal, és hatalmas üzletválasztékot kínál."
+          },
+          {
+            "name": "Kézműves piacok Hamraborgban",
+            "tip": "Nézze meg a helyi hirdetéseket a kulturális központ közelében felbukkanó piacokról, különösen hétvégén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Smáralind",
+            "tip": "Ușor accesibil cu autobuzul și oferă o selecție uriașă de magazine."
+          },
+          {
+            "name": "Târguri de artizanat în Hamraborg",
+            "tip": "Verificați listele locale pentru piețe pop-up lângă centrul cultural, în special în weekend."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smáralind Shopping Mall",
+            "tip": "Easily accessible by bus and offers a huge selection of stores."
+          },
+          {
+            "name": "Craft markets in Hamraborg",
+            "tip": "Check local listings for pop-up markets near the cultural hub, especially on weekends."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die Strætó-App herunter, um Routen zu planen und Tickets zu kaufen.",
+          "Die Busse fahren nicht immer pünktlich, planen Sie also etwas Pufferzeit ein.",
+          "Winken Sie dem Bus zu, um ihm zu signalisieren, dass er anhalten soll; sie halten nicht automatisch an jeder Haltestelle.",
+          "Eine Tageskarte ist in der Regel günstiger, wenn Sie mehr als zwei Fahrten planen."
+        ],
+        "hu": [
+          "Töltse le a Strætó alkalmazást az útvonaltervezéshez és a jegyvásárláshoz.",
+          "A buszok nem mindig pontosak, ezért tervezzen némi pufferidőt.",
+          "Intsen a busznak, hogy jelezze, hogy meg akar állni; nem állnak meg automatikusan minden megállóban.",
+          "A napijegy általában olcsóbb, ha több mint két utazást tervez."
+        ],
+        "ro": [
+          "Descărcați aplicația Strætó pentru a planifica rutele și a cumpăra bilete.",
+          "Autobuzele nu circulă întotdeauna la timp, așa că lăsați-vă timp suplimentar.",
+          "Faceți semn autobuzului pentru a-i semnala să oprească; nu opresc automat la fiecare stație.",
+          "Un abonament de o zi este de obicei mai ieftin dacă plănuiți mai mult de două călătorii."
+        ],
+        "en": [
+          "Download the Strætó app to plan routes and buy tickets.",
+          "Buses are not always on time, so plan for some buffer time.",
+          "Wave at the bus to signal for it to stop; they don't automatically stop at every stop.",
+          "A day pass is usually cheaper if you plan on making more than two trips."
+        ]
+      }
+    }
+  }
+}

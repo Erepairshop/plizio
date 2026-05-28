@@ -1,0 +1,1534 @@
+{
+  "city_id": "austria-hall-in-tirol-cities-v2",
+  "anchor": {
+    "name": "Hall in Tirol",
+    "coords": [
+      11.5069,
+      47.2817
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Oberer Stadtplatz",
+            "hu": "Felső Főtér",
+            "ro": "Piața Superioară a Orașului",
+            "en": "Upper Town Square"
+          },
+          "coords": [
+            11.5075,
+            47.2815
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Bewundern Sie die bunten Fassaden und das gut erhaltene mittelalterliche Ensemble.",
+            "hu": "Csodálja meg a színes homlokzatokat és a jól megőrzött középkori épületegyüttest.",
+            "ro": "Admirați fațadele colorate și ansamblul medieval bine conservat.",
+            "en": "Admire the colorful facades and the well-preserved medieval ensemble."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Hall",
+            "hu": "Városháza",
+            "ro": "Primăria Hall",
+            "en": "Hall Town Hall"
+          },
+          "coords": [
+            11.5072,
+            47.2814
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:37",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Achten Sie auf die Reliefs am Erker, die die Verbindung der Stadt zum Salzbergbau zeigen.",
+            "hu": "Keresse a domborműveket az erkélyen, amelyek a város sóbányászattal való kapcsolatát ábrázolják.",
+            "ro": "Observați basoreliefurile de pe bovindou, care ilustrează legătura orașului cu mineritul de sare.",
+            "en": "Look for the reliefs on the bay window showing the town's connection to salt mining."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Nikolaus",
+            "hu": "Szent Miklós plébániatemplom",
+            "ro": "Biserica parohială Sf. Nicolae",
+            "en": "Parish Church of St. Nicholas"
+          },
+          "coords": [
+            11.508,
+            47.282
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Die gotische Kirche beherbergt auch eine kleine Kapelle, die der Heiligen Magdalena gewidmet ist.",
+            "hu": "A gótikus templom egy kis kápolnát is rejt, amelyet Szent Magdalénának szenteltek.",
+            "ro": "Biserica gotică adăpostește și o mică capelă dedicată Sfintei Magdalena.",
+            "en": "The Gothic church also houses a small chapel dedicated to Saint Magdalene."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesuitenkirche",
+            "hu": "Jezsuita templom",
+            "ro": "Biserica Iezuiților",
+            "en": "Jesuit Church"
+          },
+          "coords": [
+            11.5088,
+            47.2816
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:49",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Eine beeindruckende Barockkirche mit einer prachtvollen Innenausstattung.",
+            "hu": "Lenyűgöző barokk templom, pazar belső díszítéssel.",
+            "ro": "O biserică barocă impresionantă, cu un interior somptuos.",
+            "en": "An impressive Baroque church with a magnificent interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum Hall",
+            "hu": "Hall-i Bányászati Múzeum",
+            "ro": "Muzeul Minier Hall",
+            "en": "Hall Mining Museum"
+          },
+          "coords": [
+            11.5065,
+            47.281
+          ],
+          "category": "museums",
+          "arrive_at": "11:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Ein Nachbau eines Salzstollens, der die harte Arbeit der Bergleute erlebbar macht. Ideal für Familien.",
+            "hu": "Egy sóbánya-járat másolata, amely bemutatja a bányászok kemény munkáját. Ideális családoknak.",
+            "ro": "O replică a unei galerii de sare care aduce la viață munca grea a minerilor. Ideal pentru familii.",
+            "en": "A replica of a salt mine gallery that brings the hard work of miners to life. Ideal for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Hasegg & Münzerturm",
+            "hu": "Hasegg vára és a Pénzverde-torony",
+            "ro": "Castelul Hasegg și Turnul Monetăriei",
+            "en": "Hasegg Castle & Mint Tower"
+          },
+          "coords": [
+            11.5045,
+            47.2795
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_4lang": {
+            "de": "Steigen Sie auf den Turm für eine fantastische Aussicht und erfahren Sie, wie hier der erste Taler (und Dollar) geprägt wurde.",
+            "hu": "Másszon fel a toronyba a fantasztikus kilátásért, és tudja meg, hogyan verték itt az első tallért (és dollárt).",
+            "ro": "Urcați în turn pentru o priveliște fantastică și aflați cum a fost bătut aici primul taler (și dolar).",
+            "en": "Climb the tower for a fantastic view and learn how the first Thaler (and Dollar) was minted here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Orașul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            11.507,
+            47.2812
+          ],
+          "category": "gastro",
+          "arrive_at": "14:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Probieren Sie Tiroler Gröstl in einem der traditionellen Gasthäuser.",
+            "hu": "Kóstolja meg a tiroli Gröstl-t egy hagyományos vendéglőben.",
+            "ro": "Încercați Tiroler Gröstl la una dintre tavernele tradiționale.",
+            "en": "Try Tiroler Gröstl in one of the traditional inns."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Hall beginnt auf dem belebten Oberen Stadtplatz, dem Herzen der größten Altstadt Westösterreichs. Sie schlendern durch die Gassen, vorbei am historischen Rathaus zu den prächtigen Kirchen, die von der reichen Geschichte der Stadt zeugen. Der Vormittag ist eine Reise durch Gotik und Barock. Am Mittag tauchen Sie tief in die Salzgeschichte der Stadt im Bergbaumuseum ein. Nach diesem unterirdischen Abenteuer erklimmen Sie den berühmten Münzerturm der Burg Hasegg, wo der Vorfahre des Dollars geprägt wurde, und genießen die spektakuläre Aussicht über das Inntal. Der Nachmittag klingt bei einem herzhaften Tiroler Mahl in einem der gemütlichen Gasthäuser der Altstadt aus. Zum Abschluss spazieren Sie gemütlich am Inn entlang und lassen die Eindrücke dieser historischen Stadt auf sich wirken, bevor der Abend anbricht.",
+        "hu": "A halli nap a nyüzsgő Felső Főtéren kezdődik, Nyugat-Ausztria legnagyobb óvárosának szívében. A sikátorokon keresztül sétálva, a történelmi Városháza mellett elhaladva jut el a csodálatos templomokhoz, amelyek a város gazdag történelméről tanúskodnak. A délelőtt egy utazás a gótika és a barokk világában. Délben mélyen elmerül a város sóbányászati múltjában a Bányászati Múzeumban. E földalatti kaland után megmássza a híres Hasegg vár Pénzverde-tornyát, ahol a dollár ősét verték, és élvezi a látványos kilátást az Inn-völgyre. A délután egy kiadós tiroli étellel zárul az óváros egyik hangulatos vendéglőjében. Végül egy kellemes sétát tesz az Inn folyó partján, és hagyja, hogy a történelmi város benyomásai hassanak önre, mielőtt leszáll az este.",
+        "ro": "Ziua dumneavoastră în Hall începe în vibranta Piață Superioară, inima celui mai mare oraș vechi din vestul Austriei. Vă plimbați pe alei, pe lângă primăria istorică, spre bisericile magnifice care stau mărturie istoriei bogate a orașului. Dimineața este o călătorie prin gotic și baroc. La prânz, vă scufundați adânc în istoria sării a orașului la Muzeul Minier. După această aventură subterană, urcați în faimosul Turn al Monetăriei de la Castelul Hasegg, unde a fost bătut strămoșul dolarului, și vă bucurați de priveliștea spectaculoasă asupra văii Inn. După-amiaza se încheie cu o masă tiroleză copioasă la una dintre tavernele primitoare din orașul vechi. În cele din urmă, faceți o plimbare relaxantă de-a lungul râului Inn, lăsând impresiile acestui oraș istoric să vă pătrundă înainte de lăsarea serii.",
+        "en": "Your day in Hall begins in the bustling Upper Town Square, the heart of Western Austria's largest old town. You'll stroll through the alleys, past the historic Town Hall to the magnificent churches that testify to the city's rich history. The morning is a journey through Gothic and Baroque architecture. At noon, you'll delve deep into the city's salt history at the Mining Museum. After this underground adventure, you'll climb the famous Mint Tower of Hasegg Castle, where the ancestor of the Dollar was minted, and enjoy the spectacular view over the Inn Valley. The afternoon concludes with a hearty Tyrolean meal in one of the cozy inns in the old town. Finally, take a leisurely walk along the Inn River, letting the impressions of this historic city sink in before evening falls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "Ein herzhaftes Pfannengericht aus Kartoffeln, Fleisch und Zwiebeln, oft mit einem Spiegelei serviert."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "In Brühe oder mit Salat servierte Käseknödel."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein klassisches österreichisches Dessert, das man nicht verpassen sollte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tiroli Gröstl",
+            "tip": "Kiadós serpenyős étel burgonyából, húsból és hagymából, gyakran tükörtojással tálalva."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Sajtgombóc levesben vagy salátával tálalva."
+          },
+          {
+            "name": "Almás rétes",
+            "tip": "Klasszikus osztrák desszert, amit nem szabad kihagyni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "Un fel de mâncare consistent la tigaie, cu cartofi, carne și ceapă, adesea servit cu un ou ochi."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Găluște cu brânză servite în supă sau cu salată."
+          },
+          {
+            "name": "Ștrudel cu mere",
+            "tip": "Un desert austriac clasic de neratat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "A hearty pan-fried dish of potatoes, meat, and onions, often topped with a fried egg."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Cheese dumplings served in broth or with a salad."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "A classic Austrian dessert you shouldn't miss."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Inn",
+            "tip": "Ein ruhiger Weg entlang des Flusses, perfekt um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Magdalenenkapelle",
+            "tip": "Eine kleine, oft übersehene Kapelle, die einen Moment der Stille bietet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bänke im Stadtpark",
+            "tip": "Finden Sie eine ruhige Ecke im kleinen Park nahe der Burg.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta az Inn partján",
+            "tip": "Csendes ösvény a folyó mentén, tökéletes a városi nyüzsgés elől való meneküléshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Magdaléna-kápolna",
+            "tip": "Egy apró, gyakran figyelmen kívül hagyott kápolna, amely a csend egy pillanatát kínálja.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Padok a városi parkban",
+            "tip": "Találjon egy csendes sarkot a vár melletti kis parkban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul Innului",
+            "tip": "O potecă liniștită de-a lungul râului, perfectă pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela Magdalena",
+            "tip": "O capelă mică, adesea trecută cu vederea, care oferă un moment de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bănci în Parcul Orașului",
+            "tip": "Găsiți un colț liniștit în micul parc de lângă castel.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Inn River",
+            "tip": "A quiet path along the river, perfect for escaping the hustle and bustle of the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Magdalene Chapel",
+            "tip": "A small, often overlooked chapel offering a moment of silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Benches in the City Park",
+            "tip": "Find a quiet corner in the small park near the castle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Haller Taler",
+            "tip": "Kaufen Sie eine Nachbildung des historischen Talers aus der Münze Hall."
+          },
+          {
+            "name": "Speck und Käse",
+            "tip": "Tiroler Spezialitäten von den lokalen Märkten oder Feinkostläden."
+          },
+          {
+            "name": "Handgemachte Seifen",
+            "tip": "Die Salinen-Tradition lebt in lokalen Seifenmanufakturen weiter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halli tallér",
+            "tip": "Vásároljon egy másolatot a történelmi tallérról a halli pénzverdéből."
+          },
+          {
+            "name": "Szalonna és sajt",
+            "tip": "Tiroli specialitások a helyi piacokról vagy csemegeboltokból."
+          },
+          {
+            "name": "Kézzel készített szappanok",
+            "tip": "A sófőzés hagyománya a helyi szappankészítő műhelyekben él tovább."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Talerul din Hall",
+            "tip": "Cumpărați o replică a talerului istoric de la monetăria din Hall."
+          },
+          {
+            "name": "Slănină și brânză",
+            "tip": "Specialități tiroleze de la piețele locale sau delicatese."
+          },
+          {
+            "name": "Săpunuri artizanale",
+            "tip": "Tradiția salină continuă în atelierele locale de săpun."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hall Thaler",
+            "tip": "Buy a replica of the historic Thaler from the Hall Mint."
+          },
+          {
+            "name": "Bacon and Cheese",
+            "tip": "Tyrolean specialties from the local markets or delicatessens."
+          },
+          {
+            "name": "Handmade Soaps",
+            "tip": "The saltworks tradition lives on in local soap manufactories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt aus Kopfsteinpflaster besteht.",
+          "Die Hall-Wattens Card bietet freien Eintritt zu vielen Sehenswürdigkeiten, einschließlich des Bergbaumuseums und des Münzerturms.",
+          "Verlieren Sie sich absichtlich in den kleineren Gassen abseits des Hauptplatzes, um versteckte Innenhöfe zu entdecken.",
+          "Überprüfen Sie die Öffnungszeiten der Museen und Kirchen im Voraus, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskaköves.",
+          "A Hall-Wattens kártya ingyenes belépést biztosít számos látnivalóhoz, beleértve a Bányászati Múzeumot és a Pénzverde-tornyot.",
+          "Szándékosan tévedjen el a főtértől távolabb eső kisebb sikátorokban, hogy rejtett udvarokat fedezzen fel.",
+          "Előre ellenőrizze a múzeumok és templomok nyitvatartási idejét, mivel az változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece orașul vechi este pavat cu piatră cubică.",
+          "Cardul Hall-Wattens oferă intrare gratuită la multe atracții, inclusiv la Muzeul Minier și la Turnul Monetăriei.",
+          "Pierdeți-vă intenționat pe aleile mai mici, departe de piața principală, pentru a descoperi curți ascunse.",
+          "Verificați în avans orele de deschidere ale muzeelor și bisericilor, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town is cobblestoned.",
+          "The Hall-Wattens Card offers free admission to many attractions, including the Mining Museum and the Mint Tower.",
+          "Intentionally get lost in the smaller alleys off the main square to discover hidden courtyards.",
+          "Check the opening hours of museums and churches in advance as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Oberer Stadtplatz",
+            "hu": "Felső Főtér",
+            "ro": "Piața Superioară a Orașului",
+            "en": "Upper Town Square"
+          },
+          "coords": [
+            11.5075,
+            47.2815
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und erkunden Sie den Platz zu Fuß.",
+            "hu": "Parkolja le a biciklit a közelben, és fedezze fel a teret gyalog.",
+            "ro": "Parcați bicicleta în apropiere și explorați piața pe jos.",
+            "en": "Park your bike nearby and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Nikolaus & Magdalenenkapelle",
+            "hu": "Szent Miklós plébániatemplom és Magdaléna-kápolna",
+            "ro": "Biserica parohială Sf. Nicolae și Capela Magdalena",
+            "en": "Parish Church of St. Nicholas & Magdalene Chapel"
+          },
+          "coords": [
+            11.508,
+            47.282
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Zwei wichtige Sakralbauten, die nahe beieinander liegen.",
+            "hu": "Két fontos egyházi épület, amelyek közel helyezkednek el egymáshoz.",
+            "ro": "Două clădiri sacre importante situate una lângă alta.",
+            "en": "Two important sacred buildings located close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesuitenkirche",
+            "hu": "Jezsuita templom",
+            "ro": "Biserica Iezuiților",
+            "en": "Jesuit Church"
+          },
+          "coords": [
+            11.5088,
+            47.2816
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:24",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Bewundern Sie die opulente Barockfassade.",
+            "hu": "Csodálja meg a pazar barokk homlokzatot.",
+            "ro": "Admirați fațada barocă opulentă.",
+            "en": "Admire the opulent baroque facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Hasegg & Münzerturm",
+            "hu": "Hasegg vára és a Pénzverde-torony",
+            "ro": "Castelul Hasegg și Turnul Monetăriei",
+            "en": "Hasegg Castle & Mint Tower"
+          },
+          "coords": [
+            11.5045,
+            47.2795
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Ein Muss für Geschichtsinteressierte und Fotografen. Schließen Sie Ihr Rad am Fuße des Hügels an.",
+            "hu": "Kötelező a történelem iránt érdeklődőknek és a fotósoknak. Zárja le a biciklit a domb alján.",
+            "ro": "O vizită obligatorie pentru pasionații de istorie și fotografi. Legați-vă bicicleta la poalele dealului.",
+            "en": "A must-visit for history buffs and photographers. Lock your bike at the bottom of the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum Hall",
+            "hu": "Hall-i Bányászati Múzeum",
+            "ro": "Muzeul Minier Hall",
+            "en": "Hall Mining Museum"
+          },
+          "coords": [
+            11.5065,
+            47.281
+          ],
+          "category": "museums",
+          "arrive_at": "12:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Stellen Sie Ihr Rad ab und tauchen Sie in die Welt des 'weißen Goldes' ein.",
+            "hu": "Tegye le a biciklit, és merüljön el a 'fehér arany' világában.",
+            "ro": "Lăsați bicicleta și scufundați-vă în lumea 'aurului alb'.",
+            "en": "Park your bike and immerse yourself in the world of 'white gold'."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt am Inn",
+            "hu": "Kerékpározás az Inn mentén",
+            "ro": "Plimbare cu bicicleta pe malul Innului",
+            "en": "Ride along the Inn River"
+          },
+          "coords": [
+            11.515,
+            47.278
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.8,
+          "tip_4lang": {
+            "de": "Genießen Sie eine entspannte Fahrt auf dem Inntal-Radweg mit Blick auf die Berge.",
+            "hu": "Élvezze a pihentető kerékpározást az Inn-völgyi kerékpárúton, kilátással a hegyekre.",
+            "ro": "Bucurați-vă de o plimbare relaxantă pe pista de biciclete din Valea Innului, cu vedere la munți.",
+            "en": "Enjoy a relaxing ride on the Inn Valley Cycle Path with views of the mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen & Entspannung",
+            "hu": "Késői ebéd és pihenés",
+            "ro": "Prânz târziu și relaxare",
+            "en": "Late Lunch & Relaxation"
+          },
+          "coords": [
+            11.5078,
+            47.2805
+          ],
+          "category": "gastro",
+          "arrive_at": "15:09",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Kehren Sie in die Altstadt zurück und belohnen Sie sich mit Tiroler Köstlichkeiten.",
+            "hu": "Térjen vissza az óvárosba, és jutalmazza meg magát tiroli finomságokkal.",
+            "ro": "Întoarceți-vă în orașul vechi și răsplătiți-vă cu delicatese tiroleze.",
+            "en": "Return to the old town and reward yourself with Tyrolean delicacies."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Hall auf zwei Ebenen: Zuerst die kompakte, historische Altstadt und danach die weitläufige Natur am Inn. Sie beginnen im Herzen der Stadt am Oberen Stadtplatz und klappern die wichtigsten Kirchen und das Rathaus ab, wobei Sie Ihr Rad an zentralen Punkten abstellen. Gegen Mittag führt Sie Ihre Route zur imposanten Burg Hasegg mit dem Münzerturm. Nach der Erkundung der Münzgeschichte und einem Abstecher ins Bergbaumuseum schwingen Sie sich wieder in den Sattel. Der Nachmittag gehört dem Inntal-Radweg. Sie radeln entlang des grünen Flussufers, genießen die frische Luft und die alpine Kulisse. Zum Abschluss kehren Sie für ein wohlverdientes spätes Mittagessen in die Altstadt zurück, voller Eindrücke von Kultur und Natur.",
+        "hu": "Kerékpárral két szinten fedezheti fel Hallt: először a kompakt, történelmi óvárost, majd az Inn menti tágas természetet. A város szívében, a Felső Főtéren kezdi a túrát, és végigjárja a legfontosabb templomokat és a Városházát, a kerékpárt központi helyeken letéve. Dél körül az útvonal a lenyűgöző Hasegg várhoz és a Pénzverde-toronyhoz vezet. A pénzverés történetének felfedezése és a Bányászati Múzeumban tett kitérő után ismét nyeregbe pattan. A délután az Inn-völgyi kerékpárúté. A zöld folyópart mentén kerékpározik, élvezi a friss levegőt és az alpesi tájat. Végül visszatér az óvárosba egy jól megérdemelt késői ebédre, tele kulturális és természeti élményekkel.",
+        "ro": "Cu bicicleta, explorați Hall pe două niveluri: mai întâi orașul vechi compact și istoric, apoi natura vastă de-a lungul râului Inn. Începeți în inima orașului, în Piața Superioară, și vizitați principalele biserici și primăria, lăsându-vă bicicleta în puncte centrale. Spre prânz, traseul vă duce la impunătorul Castel Hasegg cu Turnul Monetăriei. După ce explorați istoria monetăriei și faceți o vizită la Muzeul Minier, vă urcați din nou pe bicicletă. După-amiaza este dedicată pistei de biciclete din Valea Innului. Pedalați de-a lungul malului verde al râului, bucurându-vă de aerul proaspăt și de peisajul alpin. La final, vă întoarceți în orașul vechi pentru un prânz târziu binemeritat, plin de impresii culturale și naturale.",
+        "en": "By bike, you'll explore Hall on two levels: first, the compact, historic old town, and then the expansive nature along the Inn River. You start in the heart of the city at the Upper Town Square, visiting the main churches and the Town Hall, leaving your bike at central points. Around noon, your route takes you to the imposing Hasegg Castle with its Mint Tower. After exploring the history of minting and a detour to the Mining Museum, you get back in the saddle. The afternoon belongs to the Inn Valley Cycle Path. You'll cycle along the green riverbank, enjoying the fresh air and the alpine scenery. Finally, you return to the old town for a well-deserved late lunch, full of cultural and natural impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "Ein herzhaftes Pfannengericht aus Kartoffeln, Fleisch und Zwiebeln, oft mit einem Spiegelei serviert."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "In Brühe oder mit Salat servierte Käseknödel."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein klassisches österreichisches Dessert, das man nicht verpassen sollte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tiroli Gröstl",
+            "tip": "Kiadós serpenyős étel burgonyából, húsból és hagymából, gyakran tükörtojással tálalva."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Sajtgombóc levesben vagy salátával tálalva."
+          },
+          {
+            "name": "Almás rétes",
+            "tip": "Klasszikus osztrák desszert, amit nem szabad kihagyni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "Un fel de mâncare consistent la tigaie, cu cartofi, carne și ceapă, adesea servit cu un ou ochi."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Găluște cu brânză servite în supă sau cu salată."
+          },
+          {
+            "name": "Ștrudel cu mere",
+            "tip": "Un desert austriac clasic de neratat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "A hearty pan-fried dish of potatoes, meat, and onions, often topped with a fried egg."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Cheese dumplings served in broth or with a salad."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "A classic Austrian dessert you shouldn't miss."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Inntal-Radweg",
+            "tip": "Die ruhigen Abschnitte des Radwegs bieten eine friedliche Flucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stiftsgarten",
+            "tip": "Ein versteckter Garten, der zur Kontemplation einlädt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick von der Burg Hasegg",
+            "tip": "Oben auf dem Turm, über den Dächern, finden Sie einen Moment der Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Inn-völgyi kerékpárút",
+            "tip": "A kerékpárút csendes szakaszai békés menedéket nyújtanak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apátsági kert",
+            "tip": "Egy rejtett kert, amely elmélkedésre hív.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Hasegg várból",
+            "tip": "A torony tetején, a háztetők felett, egy pillanatnyi nyugalmat talál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete din Valea Innului",
+            "tip": "Secțiunile liniștite ale pistei de biciclete oferă o evadare pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Mănăstirii",
+            "tip": "O grădină ascunsă care invită la contemplație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de la Castelul Hasegg",
+            "tip": "În vârful turnului, deasupra acoperișurilor, veți găsi un moment de liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Inn Valley Cycle Path",
+            "tip": "The quiet sections of the cycle path offer a peaceful escape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Abbey Garden",
+            "tip": "A hidden garden that invites contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from Hasegg Castle",
+            "tip": "At the top of the tower, above the rooftops, you'll find a moment of peace.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Haller Taler",
+            "tip": "Kaufen Sie eine Nachbildung des historischen Talers aus der Münze Hall."
+          },
+          {
+            "name": "Regionale Bauernprodukte",
+            "tip": "Auf dem wöchentlichen Bauernmarkt finden Sie lokale Köstlichkeiten."
+          },
+          {
+            "name": "Tiroler Edelbrände",
+            "tip": "Ein Schnaps aus einer lokalen Brennerei als authentisches Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halli tallér",
+            "tip": "Vásároljon egy másolatot a történelmi tallérról a halli pénzverdéből."
+          },
+          {
+            "name": "Helyi termelői termékek",
+            "tip": "A heti termelői piacon helyi finomságokat talál."
+          },
+          {
+            "name": "Tiroli nemes pálinkák",
+            "tip": "Egy helyi főzdéből származó pálinka, mint autentikus ajándék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Talerul din Hall",
+            "tip": "Cumpărați o replică a talerului istoric de la monetăria din Hall."
+          },
+          {
+            "name": "Produse agricole regionale",
+            "tip": "La piața agricolă săptămânală veți găsi delicatese locale."
+          },
+          {
+            "name": "Rachiu tirolez nobil",
+            "tip": "Un rachiu de la o distilerie locală ca suvenir autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hall Thaler",
+            "tip": "Buy a replica of the historic Thaler from the Hall Mint."
+          },
+          {
+            "name": "Regional Farm Products",
+            "tip": "Find local delicacies at the weekly farmers' market."
+          },
+          {
+            "name": "Tyrolean Schnapps",
+            "tip": "A schnapps from a local distillery as an authentic souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads, bevor Sie losfahren.",
+          "Einige Gassen in der Altstadt sind sehr eng; es ist oft besser, abzusteigen und zu schieben.",
+          "Der Inntal-Radweg ist größtenteils flach und für alle Fitnesslevel geeignet.",
+          "Nehmen Sie eine Wasserflasche und einen kleinen Snack für die Radtour mit."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát.",
+          "Az óváros néhány sikátora nagyon szűk; gyakran jobb leszállni és tolni a biciklit.",
+          "Az Inn-völgyi kerékpárút nagyrészt sík és minden edzettségi szintnek megfelel.",
+          "Vigyen magával egy vizes palackot és egy kis harapnivalót a kerékpártúrára."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni.",
+          "Unele alei din orașul vechi sunt foarte înguste; adesea este mai bine să descălecați și să împingeți.",
+          "Pista de biciclete din Valea Innului este în mare parte plată și potrivită pentru toate nivelurile de fitness.",
+          "Luați o sticlă de apă și o mică gustare pentru plimbarea cu bicicleta."
+        ],
+        "en": [
+          "Check the condition of your bike before you set off.",
+          "Some alleys in the old town are very narrow; it's often better to dismount and push.",
+          "The Inn Valley Cycle Path is mostly flat and suitable for all fitness levels.",
+          "Bring a water bottle and a small snack for the bike ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 1.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft und Parken (Altstadtgarage)",
+            "hu": "Érkezés és parkolás (Altstadtgarage)",
+            "ro": "Sosire și parcare (Altstadtgarage)",
+            "en": "Arrival and Parking (Old Town Garage)"
+          },
+          "coords": [
+            11.505,
+            47.28
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Parken Sie zentral und erkunden Sie die gesamte Altstadt zu Fuß. Das ist der einzige Autostopp des Tages.",
+            "hu": "Parkoljon központi helyen, és fedezze fel az egész óvárost gyalog. Ez az egyetlen autós megálló a nap folyamán.",
+            "ro": "Parcați central și explorați întregul oraș vechi pe jos. Aceasta este singura oprire cu mașina din zi.",
+            "en": "Park centrally and explore the entire old town on foot. This is the only car stop of the day."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Burg Hasegg & Münzerturm",
+            "hu": "Hasegg vára és a Pénzverde-torony",
+            "ro": "Castelul Hasegg și Turnul Monetăriei",
+            "en": "Hasegg Castle & Mint Tower"
+          },
+          "coords": [
+            11.5045,
+            47.2795
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Ihr erster Halt ist gleich neben der Garage. Beginnen Sie mit dem Highlight der Stadtgeschichte.",
+            "hu": "Az első megálló rögtön a garázs mellett van. Kezdje a város történelmének fénypontjával.",
+            "ro": "Prima oprire este chiar lângă garaj. Începeți cu punctul culminant al istoriei orașului.",
+            "en": "Your first stop is right next to the garage. Start with the highlight of the city's history."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Oberen Stadtplatz",
+            "hu": "Séta a Felső Főtérre",
+            "ro": "Plimbare spre Piața Superioară",
+            "en": "Walk to the Upper Town Square"
+          },
+          "coords": [
+            11.5075,
+            47.2815
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Schlendern Sie durch die Gassen und nehmen Sie die Atmosphäre auf. Besichtigen Sie Rathaus und Jesuitenkirche.",
+            "hu": "Sétáljon végig a sikátorokon, és szívja magába a hangulatot. Látogassa meg a Városházát és a Jezsuita templomot.",
+            "ro": "Plimbați-vă pe alei și absorbiți atmosfera. Vizitați Primăria și Biserica Iezuiților.",
+            "en": "Stroll through the alleys and soak up the atmosphere. Visit the Town Hall and the Jesuit Church."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum Hall",
+            "hu": "Hall-i Bányászati Múzeum",
+            "ro": "Muzeul Minier Hall",
+            "en": "Hall Mining Museum"
+          },
+          "coords": [
+            11.5065,
+            47.281
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Vertiefen Sie Ihr Wissen über die Salzgewinnung, die den Reichtum der Stadt begründete.",
+            "hu": "Mélyítse el tudását a sóbányászatról, amely a város gazdagságát megalapozta.",
+            "ro": "Aprofundați-vă cunoștințele despre extragerea sării, care a stat la baza bogăției orașului.",
+            "en": "Deepen your knowledge of salt mining, which founded the city's wealth."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Mittagessen und St. Nikolaus Kirche",
+            "hu": "Ebéd és Szent Miklós templom",
+            "ro": "Prânz și Biserica Sf. Nicolae",
+            "en": "Lunch and St. Nicholas Church"
+          },
+          "coords": [
+            11.508,
+            47.282
+          ],
+          "category": "gastro",
+          "arrive_at": "13:21",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Genießen Sie ein Mittagessen und besichtigen Sie danach die größte gotische Hallenkirche Tirols.",
+            "hu": "Ebédeljen meg, majd tekintse meg Tirol legnagyobb gótikus csarnoktemplomát.",
+            "ro": "Bucurați-vă de prânz și apoi vizitați cea mai mare biserică-hală gotică din Tirol.",
+            "en": "Enjoy lunch and then visit the largest Gothic hall church in Tyrol."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Freie Zeit & Rückkehr zum Auto",
+            "hu": "Szabadidő és visszatérés az autóhoz",
+            "ro": "Timp liber și întoarcere la mașină",
+            "en": "Free Time & Return to Car"
+          },
+          "coords": [
+            11.5055,
+            47.2805
+          ],
+          "category": "shopping",
+          "arrive_at": "15:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Nutzen Sie die letzte Stunde für einen Kaffee, Souvenirs oder einen letzten Spaziergang am Inn.",
+            "hu": "Használja ki az utolsó órát egy kávéra, ajándéktárgyak vásárlására vagy egy utolsó sétára az Inn partján.",
+            "ro": "Folosiți ultima oră pentru o cafea, suveniruri sau o ultimă plimbare pe malul Innului.",
+            "en": "Use the last hour for a coffee, souvenirs, or a final walk along the Inn."
+          },
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto in Hall ist auf maximale Bequemlichkeit und Erkundung zu Fuß ausgelegt. Sie fahren direkt in die Altstadtgarage, parken Ihr Auto für den Tag und beginnen Ihre Tour. Der erste Stopp ist die majestätische Burg Hasegg mit dem Münzerturm, direkt um die Ecke. Von dort aus schlendern Sie in das Herz der Altstadt, zum Oberen Stadtplatz, und genießen die historische Atmosphäre. Am Mittag steht das Bergbaumuseum auf dem Programm, um in die salzige Vergangenheit Halls einzutauchen. Nach einem ausgiebigen Mittagessen in einem traditionellen Gasthaus besichtigen Sie die imposante Pfarrkirche St. Nikolaus. Der Nachmittag bietet freie Zeit zum Einkaufen oder für einen entspannten Kaffee, bevor Sie gemütlich zu Ihrem Auto zurückkehren, voller Eindrücke von einem Tag, an dem Sie nur einmal parken mussten.",
+        "hu": "Az autós nap Hallban a maximális kényelemre és a gyalogos felfedezésre összpontosít. Közvetlenül az Altstadtgarage-ba hajt, leparkolja az autót egész napra, és elkezdi a túrát. Az első megálló a fenséges Hasegg vár a Pénzverde-toronnyal, rögtön a sarkon. Onnan az óváros szívébe, a Felső Főtérre sétál, és élvezi a történelmi hangulatot. Délben a Bányászati Múzeum következik, hogy elmerüljön Hall sós múltjában. Egy kiadós ebéd után egy hagyományos vendéglőben megtekinti a lenyűgöző Szent Miklós plébániatemplomot. A délután szabadidőt kínál vásárlásra vagy egy pihentető kávéra, mielőtt kényelmesen visszatérne az autójához, tele élményekkel egy olyan nap után, amikor csak egyszer kellett parkolnia.",
+        "ro": "Ziua dumneavoastră cu mașina în Hall este concepută pentru confort maxim și explorare pe jos. Conduceți direct la garajul din orașul vechi (Altstadtgarage), parcați mașina pentru întreaga zi și începeți turul. Prima oprire este la maiestuosul Castel Hasegg cu Turnul Monetăriei, chiar la colț. De acolo, vă plimbați în inima orașului vechi, în Piața Superioară, bucurându-vă de atmosfera istorică. La prânz, programul include Muzeul Minier pentru a vă scufunda în trecutul sărat al Hallului. După un prânz copios la un han tradițional, vizitați impunătoarea Biserică parohială Sf. Nicolae. După-amiaza oferă timp liber pentru cumpărături sau o cafea relaxantă înainte de a vă întoarce pe îndelete la mașină, plini de impresiile unei zile în care ați parcat o singură dată.",
+        "en": "Your day by car in Hall is designed for maximum convenience and exploration on foot. You drive directly to the Old Town Garage (Altstadtgarage), park your car for the day, and begin your tour. The first stop is the majestic Hasegg Castle with its Mint Tower, right around the corner. From there, you stroll into the heart of the old town, to the Upper Town Square, enjoying the historical atmosphere. At noon, the Mining Museum is on the agenda to delve into Hall's salty past. After a hearty lunch at a traditional inn, you visit the impressive Parish Church of St. Nicholas. The afternoon offers free time for shopping or a relaxing coffee before you leisurely return to your car, full of impressions from a day where you only had to park once."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "Ein herzhaftes Pfannengericht aus Kartoffeln, Fleisch und Zwiebeln, oft mit einem Spiegelei serviert."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "In Brühe oder mit Salat servierte Käseknödel."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein klassisches österreichisches Dessert, das man nicht verpassen sollte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tiroli Gröstl",
+            "tip": "Kiadós serpenyős étel burgonyából, húsból és hagymából, gyakran tükörtojással tálalva."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Sajtgombóc levesben vagy salátával tálalva."
+          },
+          {
+            "name": "Almás rétes",
+            "tip": "Klasszikus osztrák desszert, amit nem szabad kihagyni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "Un fel de mâncare consistent la tigaie, cu cartofi, carne și ceapă, adesea servit cu un ou ochi."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Găluște cu brânză servite în supă sau cu salată."
+          },
+          {
+            "name": "Ștrudel cu mere",
+            "tip": "Un desert austriac clasic de neratat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "A hearty pan-fried dish of potatoes, meat, and onions, often topped with a fried egg."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Cheese dumplings served in broth or with a salad."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "A classic Austrian dessert you shouldn't miss."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Inn",
+            "tip": "Ein ruhiger Weg entlang des Flusses, perfekt um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Magdalenenkapelle",
+            "tip": "Eine kleine, oft übersehene Kapelle, die einen Moment der Stille bietet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Versteckte Innenhöfe",
+            "tip": "Halten Sie die Augen offen nach Toren, die zu ruhigen, privaten Innenhöfen führen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta az Inn partján",
+            "tip": "Csendes ösvény a folyó mentén, tökéletes a városi nyüzsgés elől való meneküléshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Magdaléna-kápolna",
+            "tip": "Egy apró, gyakran figyelmen kívül hagyott kápolna, amely a csend egy pillanatát kínálja.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rejtett udvarok",
+            "tip": "Tartsa nyitva a szemét a kapukra, amelyek csendes, privát udvarokba vezetnek.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul Innului",
+            "tip": "O potecă liniștită de-a lungul râului, perfectă pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela Magdalena",
+            "tip": "O capelă mică, adesea trecută cu vederea, care oferă un moment de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curți interioare ascunse",
+            "tip": "Fiți atenți la porțile care duc spre curți interioare liniștite și private.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Inn River",
+            "tip": "A quiet path along the river, perfect for escaping the hustle and bustle of the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Magdalene Chapel",
+            "tip": "A small, often overlooked chapel offering a moment of silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hidden Courtyards",
+            "tip": "Keep an eye out for gates leading to quiet, private courtyards.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Haller Taler",
+            "tip": "Kaufen Sie eine Nachbildung des historischen Talers aus der Münze Hall."
+          },
+          {
+            "name": "Speck und Käse",
+            "tip": "Tiroler Spezialitäten von den lokalen Märkten oder Feinkostläden."
+          },
+          {
+            "name": "Radieschen-Schnaps",
+            "tip": "Eine lokale Kuriosität und ein einzigartiges Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halli tallér",
+            "tip": "Vásároljon egy másolatot a történelmi tallérról a halli pénzverdéből."
+          },
+          {
+            "name": "Szalonna és sajt",
+            "tip": "Tiroli specialitások a helyi piacokról vagy csemegeboltokból."
+          },
+          {
+            "name": "Retek pálinka",
+            "tip": "Helyi kuriózum és egyedi ajándék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Talerul din Hall",
+            "tip": "Cumpărați o replică a talerului istoric de la monetăria din Hall."
+          },
+          {
+            "name": "Slănină și brânză",
+            "tip": "Specialități tiroleze de la piețele locale sau delicatese."
+          },
+          {
+            "name": "Rachiu de ridiche",
+            "tip": "O curiozitate locală și un suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hall Thaler",
+            "tip": "Buy a replica of the historic Thaler from the Hall Mint."
+          },
+          {
+            "name": "Bacon and Cheese",
+            "tip": "Tyrolean specialties from the local markets or delicatessens."
+          },
+          {
+            "name": "Radish Schnapps",
+            "tip": "A local curiosity and a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadtgarage ist die beste Option für zentrales Parken, kann aber an Wochenenden voll sein.",
+          "Einmal geparkt, brauchen Sie Ihr Auto für den Rest des Tages nicht mehr.",
+          "Tragen Sie bequeme Schuhe, auch wenn Sie mit dem Auto anreisen, da Sie viel laufen werden.",
+          "Kombinieren Sie Ihren Besuch in Hall mit einer Fahrt in die nahegelegenen Swarovski Kristallwelten in Wattens."
+        ],
+        "hu": [
+          "Az Altstadtgarage a legjobb lehetőség a központi parkolásra, de hétvégén zsúfolt lehet.",
+          "Miután leparkolt, a nap hátralévő részében már nem lesz szüksége az autójára.",
+          "Viseljen kényelmes cipőt, még ha autóval is érkezik, mert sokat fog gyalogolni.",
+          "Kombinálja a halli látogatást egy kirándulással a közeli Swarovski Kristályvilágokba, Wattens-be."
+        ],
+        "ro": [
+          "Garajul din orașul vechi (Altstadtgarage) este cea mai bună opțiune pentru parcare centrală, dar poate fi aglomerat în weekend.",
+          "Odată parcat, nu veți mai avea nevoie de mașină pentru restul zilei.",
+          "Purtați încălțăminte confortabilă, chiar dacă veniți cu mașina, deoarece veți merge mult pe jos.",
+          "Combinați vizita în Hall cu o excursie la apropiatele Lumi de Cristal Swarovski din Wattens."
+        ],
+        "en": [
+          "The Old Town Garage (Altstadtgarage) is the best option for central parking, but it can be busy on weekends.",
+          "Once parked, you won't need your car for the rest of the day.",
+          "Wear comfortable shoes even if you arrive by car, as you'll be doing a lot of walking.",
+          "Combine your visit to Hall with a trip to the nearby Swarovski Crystal Worlds in Wattens."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 1.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Hall",
+            "hu": "Érkezés a halli pályaudvarra",
+            "ro": "Sosire la Gara Hall",
+            "en": "Arrival at Hall Train Station"
+          },
+          "coords": [
+            11.503,
+            47.278
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Hall ist von Innsbruck aus leicht mit dem Zug oder Bus zu erreichen. Vom Bahnhof aus ist die Altstadt nur einen kurzen Spaziergang entfernt.",
+            "hu": "Hall könnyen elérhető vonattal vagy busszal Innsbruckból. A pályaudvartól az óváros csak egy rövid sétára van.",
+            "ro": "Hall este ușor accesibil cu trenul sau autobuzul din Innsbruck. Orașul vechi este la o scurtă plimbare de gară.",
+            "en": "Hall is easily accessible by train or bus from Innsbruck. The old town is a short walk from the station."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Burg Hasegg & Münzerturm",
+            "hu": "Hasegg vára és a Pénzverde-torony",
+            "ro": "Castelul Hasegg și Turnul Monetăriei",
+            "en": "Hasegg Castle & Mint Tower"
+          },
+          "coords": [
+            11.5045,
+            47.2795
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihren Rundgang am Wahrzeichen der Stadt.",
+            "hu": "Kezdje a túrát a város jelképénél.",
+            "ro": "Începeți turul la emblema orașului.",
+            "en": "Start your tour at the city's landmark."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Oberer Stadtplatz & Rathaus",
+            "hu": "Felső Főtér és Városháza",
+            "ro": "Piața Superioară și Primăria",
+            "en": "Upper Town Square & Town Hall"
+          },
+          "coords": [
+            11.5075,
+            47.2815
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:53",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Das pulsierende Zentrum von Hall. Genießen Sie das Ambiente.",
+            "hu": "Hall pulzáló központja. Élvezze a hangulatot.",
+            "ro": "Centrul vibrant al Hall-ului. Bucurați-vă de ambianță.",
+            "en": "The vibrant center of Hall. Enjoy the ambiance."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum Hall",
+            "hu": "Hall-i Bányászati Múzeum",
+            "ro": "Muzeul Minier Hall",
+            "en": "Hall Mining Museum"
+          },
+          "coords": [
+            11.5065,
+            47.281
+          ],
+          "category": "museums",
+          "arrive_at": "11:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Ein interaktives Erlebnis, das die Geschichte des Salzes zum Leben erweckt.",
+            "hu": "Interaktív élmény, amely életre kelti a só történetét.",
+            "ro": "O experiență interactivă care aduce la viață istoria sării.",
+            "en": "An interactive experience that brings the history of salt to life."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Kirchenviertel",
+            "hu": "Ebéd és a templomnegyed",
+            "ro": "Prânz și cartierul bisericilor",
+            "en": "Lunch and Church Quarter"
+          },
+          "coords": [
+            11.5082,
+            47.2818
+          ],
+          "category": "gastro",
+          "arrive_at": "13:24",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Stärken Sie sich und besuchen Sie danach die Pfarrkirche St. Nikolaus und die Jesuitenkirche.",
+            "hu": "Erősítse meg magát, majd látogasson el a Szent Miklós plébániatemplomba és a Jezsuita templomba.",
+            "ro": "Întăriți-vă și apoi vizitați Biserica parohială Sf. Nicolae și Biserica Iezuiților.",
+            "en": "Strengthen yourself and then visit the Parish Church of St. Nicholas and the Jesuit Church."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Letzter Spaziergang und Abreise",
+            "hu": "Utolsó séta és indulás",
+            "ro": "Ultima plimbare și plecare",
+            "en": "Final Stroll and Departure"
+          },
+          "coords": [
+            11.504,
+            47.2785
+          ],
+          "category": "transport",
+          "arrive_at": "15:32",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Genießen Sie einen letzten Blick auf die Stadt auf dem Weg zurück zum Bahnhof.",
+            "hu": "Vessen egy utolsó pillantást a városra a pályaudvar felé vezető úton.",
+            "ro": "Aruncați o ultimă privire asupra orașului în drum spre gară.",
+            "en": "Enjoy one last look at the city on your way back to the station."
+          },
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Anreise mit öffentlichen Verkehrsmitteln ist unkompliziert. Vom Bahnhof Hall in Tirol spazieren Sie direkt zur Burg Hasegg, dem idealen Ausgangspunkt. Hier tauchen Sie in die Münzgeschichte ein, bevor Sie sich auf den Weg zum Oberen Stadtplatz machen, dem lebendigen Zentrum. Der Vormittag vergeht mit der Erkundung der Gassen und Plätze. Mittags lockt das Bergbaumuseum mit seiner faszinierenden Untertagewelt. Nach einem stärkenden Mittagessen in einem der vielen Gasthäuser widmen Sie sich den prachtvollen Kirchen der Stadt, St. Nikolaus und der Jesuitenkirche. Am späten Nachmittag schlendern Sie gemütlich durch die Gassen zurück zum Bahnhof, mit dem guten Gefühl, eine der schönsten Städte Tirols umweltfreundlich entdeckt zu haben.",
+        "hu": "A tömegközlekedéssel való érkezés egyszerű. A halli pályaudvarról közvetlenül a Hasegg várhoz sétálhat, amely ideális kiindulópont. Itt elmerülhet a pénzverés történetében, mielőtt a nyüzsgő központ, a Felső Főtér felé venné az irányt. A délelőtt a sikátorok és terek felfedezésével telik. Délben a Bányászati Múzeum vonzza lenyűgöző földalatti világával. Egy kiadós ebéd után a sok vendéglő egyikében a város csodálatos templomainak, a Szent Miklósnak és a Jezsuita templomnak szenteli magát. Késő délután kényelmesen visszasétál a sikátorokon keresztül a pályaudvarra, azzal a jó érzéssel, hogy Tirol egyik legszebb városát környezetbarát módon fedezte fel.",
+        "ro": "Sosirea dumneavoastră cu transportul public este simplă. De la gara din Hall in Tirol, mergeți direct la Castelul Hasegg, punctul de plecare ideal. Aici vă cufundați în istoria monetăriei înainte de a vă îndrepta spre Piața Superioară, centrul plin de viață. Dimineața trece explorând aleile și piețele. La prânz, Muzeul Minier atrage cu lumea sa subterană fascinantă. După un prânz consistent la una dintre numeroasele taverne, vă dedicați magnificelor biserici ale orașului, Sf. Nicolae și Biserica Iezuiților. Spre seară, vă plimbați pe îndelete pe alei înapoi la gară, cu sentimentul plăcut de a fi descoperit unul dintre cele mai frumoase orașe din Tirol într-un mod ecologic.",
+        "en": "Your arrival by public transport is straightforward. From the Hall in Tirol train station, you walk directly to Hasegg Castle, the ideal starting point. Here you can delve into the history of minting before heading to the Upper Town Square, the lively center. The morning is spent exploring the alleys and squares. At noon, the Mining Museum beckons with its fascinating underground world. After a hearty lunch in one of the many inns, you dedicate yourself to the city's magnificent churches, St. Nicholas and the Jesuit Church. In the late afternoon, you stroll leisurely through the alleys back to the station, with the good feeling of having discovered one of Tyrol's most beautiful cities in an environmentally friendly way."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "Ein herzhaftes Pfannengericht aus Kartoffeln, Fleisch und Zwiebeln, oft mit einem Spiegelei serviert."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "In Brühe oder mit Salat servierte Käseknödel."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein klassisches österreichisches Dessert, das man nicht verpassen sollte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tiroli Gröstl",
+            "tip": "Kiadós serpenyős étel burgonyából, húsból és hagymából, gyakran tükörtojással tálalva."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Sajtgombóc levesben vagy salátával tálalva."
+          },
+          {
+            "name": "Almás rétes",
+            "tip": "Klasszikus osztrák desszert, amit nem szabad kihagyni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "Un fel de mâncare consistent la tigaie, cu cartofi, carne și ceapă, adesea servit cu un ou ochi."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Găluște cu brânză servite în supă sau cu salată."
+          },
+          {
+            "name": "Ștrudel cu mere",
+            "tip": "Un desert austriac clasic de neratat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tiroler Gröstl",
+            "tip": "A hearty pan-fried dish of potatoes, meat, and onions, often topped with a fried egg."
+          },
+          {
+            "name": "Kaspressknödel",
+            "tip": "Cheese dumplings served in broth or with a salad."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "A classic Austrian dessert you shouldn't miss."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Inn",
+            "tip": "Ein ruhiger Weg entlang des Flusses, perfekt um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Magdalenenkapelle",
+            "tip": "Eine kleine, oft übersehene Kapelle, die einen Moment der Stille bietet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bänke im Stadtpark",
+            "tip": "Finden Sie eine ruhige Ecke im kleinen Park nahe der Burg.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta az Inn partján",
+            "tip": "Csendes ösvény a folyó mentén, tökéletes a városi nyüzsgés elől való meneküléshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Magdaléna-kápolna",
+            "tip": "Egy apró, gyakran figyelmen kívül hagyott kápolna, amely a csend egy pillanatát kínálja.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Padok a városi parkban",
+            "tip": "Találjon egy csendes sarkot a vár melletti kis parkban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul Innului",
+            "tip": "O potecă liniștită de-a lungul râului, perfectă pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela Magdalena",
+            "tip": "O capelă mică, adesea trecută cu vederea, care oferă un moment de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bănci în Parcul Orașului",
+            "tip": "Găsiți un colț liniștit în micul parc de lângă castel.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Inn River",
+            "tip": "A quiet path along the river, perfect for escaping the hustle and bustle of the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Magdalene Chapel",
+            "tip": "A small, often overlooked chapel offering a moment of silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Benches in the City Park",
+            "tip": "Find a quiet corner in the small park near the castle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Haller Taler",
+            "tip": "Kaufen Sie eine Nachbildung des historischen Talers aus der Münze Hall."
+          },
+          {
+            "name": "Speck und Käse",
+            "tip": "Tiroler Spezialitäten von den lokalen Märkten oder Feinkostläden."
+          },
+          {
+            "name": "Handgemachte Seifen",
+            "tip": "Die Salinen-Tradition lebt in lokalen Seifenmanufakturen weiter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halli tallér",
+            "tip": "Vásároljon egy másolatot a történelmi tallérról a halli pénzverdéből."
+          },
+          {
+            "name": "Szalonna és sajt",
+            "tip": "Tiroli specialitások a helyi piacokról vagy csemegeboltokból."
+          },
+          {
+            "name": "Kézzel készített szappanok",
+            "tip": "A sófőzés hagyománya a helyi szappankészítő műhelyekben él tovább."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Talerul din Hall",
+            "tip": "Cumpărați o replică a talerului istoric de la monetăria din Hall."
+          },
+          {
+            "name": "Slănină și brânză",
+            "tip": "Specialități tiroleze de la piețele locale sau delicatese."
+          },
+          {
+            "name": "Săpunuri artizanale",
+            "tip": "Tradiția salină continuă în atelierele locale de săpun."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hall Thaler",
+            "tip": "Buy a replica of the historic Thaler from the Hall Mint."
+          },
+          {
+            "name": "Bacon and Cheese",
+            "tip": "Tyrolean specialties from the local markets or delicatessens."
+          },
+          {
+            "name": "Handmade Soaps",
+            "tip": "The saltworks tradition lives on in local soap manufactories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für die öffentlichen Verkehrsmittel der Region, wenn Sie von Innsbruck oder Umgebung anreisen.",
+          "Die Züge und Busse verkehren regelmäßig, aber überprüfen Sie den Fahrplan für Ihre Rückfahrt.",
+          "Die gesamte Altstadt ist eine Fußgängerzone und lässt sich am besten zu Fuß erkunden.",
+          "Die Hall-Wattens Card ist auch für Nutzer öffentlicher Verkehrsmittel sehr zu empfehlen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a régió tömegközlekedési eszközeire, ha Innsbruckból vagy a környékről érkezik.",
+          "A vonatok és buszok rendszeresen közlekednek, de ellenőrizze a menetrendet a visszaútra.",
+          "Az egész óváros sétálóövezet, és a legjobban gyalog fedezhető fel.",
+          "A Hall-Wattens kártya a tömegközlekedést használók számára is erősen ajánlott."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public regional dacă veniți din Innsbruck sau din împrejurimi.",
+          "Trenurile și autobuzele circulă regulat, dar verificați orarul pentru călătoria de întoarcere.",
+          "Întregul oraș vechi este o zonă pietonală și cel mai bine se explorează pe jos.",
+          "Cardul Hall-Wattens este, de asemenea, foarte recomandat pentru utilizatorii de transport public."
+        ],
+        "en": [
+          "Buy a day ticket for the region's public transport if you are coming from Innsbruck or the surrounding area.",
+          "Trains and buses run regularly, but check the schedule for your return journey.",
+          "The entire old town is a pedestrian zone and is best explored on foot.",
+          "The Hall-Wattens Card is also highly recommended for public transport users."
+        ]
+      }
+    }
+  }
+}

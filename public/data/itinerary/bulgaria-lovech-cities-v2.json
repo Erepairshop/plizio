@@ -1,0 +1,1340 @@
+{
+  "city_id": "bulgaria-lovech-cities-v2",
+  "anchor": {
+    "name": "Lowetsch",
+    "coords": [
+      24.7167,
+      43.1333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Viertel Varosha",
+            "hu": "Varosa negyed",
+            "ro": "Cartierul Varosha",
+            "en": "Varosha Quarter"
+          },
+          "coords": [
+            24.7145,
+            43.1319
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 55,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen mit ihren einzigartigen Häusern aus der Wiedergeburtszeit.",
+            "hu": "Vesszen el a szűk macskaköves utcácskákban a bolgár újjászületés korabeli házak között.",
+            "ro": "Pierdeți-vă pe străduțele înguste cu case unice din perioada Renașterii Naționale.",
+            "en": "Get lost in the narrow cobblestone streets with their unique National Revival houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasil-Lewski-Denkmal",
+            "hu": "Vaszil Levszki emlékmű",
+            "ro": "Monumentul Vasil Levski",
+            "en": "Vasil Levski Monument"
+          },
+          "coords": [
+            24.7168,
+            43.134
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein wichtiger Ort, der dem Nationalhelden Bulgariens gewidmet ist. Kurz innehalten.",
+            "hu": "Bulgária nemzeti hősének szentelt fontos hely. Álljon meg egy pillanatra tisztelegni.",
+            "ro": "Un loc important dedicat eroului național al Bulgariei. Opriți-vă pentru un moment de reculegere.",
+            "en": "An important spot dedicated to Bulgaria's national hero. Pause for a moment of respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Nedelja",
+            "hu": "Szent Nedelja templom",
+            "ro": "Biserica Sfânta Nedelya",
+            "en": "St. Nedelya Church"
+          },
+          "coords": [
+            24.7138,
+            43.1315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:18",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Wandmalereien im Inneren dieser historischen Kirche.",
+            "hu": "Figyelje meg a lenyűgöző falfestményeket ebben a történelmi templomban.",
+            "ro": "Observați picturile murale impresionante din interiorul acestei biserici istorice.",
+            "en": "Pay attention to the impressive murals inside this historic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedeckte Brücke",
+            "hu": "Fedett híd",
+            "ro": "Podul Acoperit",
+            "en": "The Covered Bridge"
+          },
+          "coords": [
+            24.715,
+            43.1328
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:04",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stöbern Sie in den kleinen Läden auf der Brücke – ein einzigartiges Erlebnis.",
+            "hu": "Böngésszen a hídon található kis üzletekben – egyedülálló élmény.",
+            "ro": "Răsfoiți micile magazine de pe pod - o experiență unică.",
+            "en": "Browse the small shops located right on the bridge – a unique experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasil-Lewski-Museum",
+            "hu": "Vaszil Levszki Múzeum",
+            "ro": "Muzeul Vasil Levski",
+            "en": "Vasil Levski Museum"
+          },
+          "coords": [
+            24.7135,
+            43.1311
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um mehr über das Leben des „Apostels der Freiheit“ zu erfahren.",
+            "hu": "Szánjon elég időt arra, hogy többet megtudjon a „Szabadság Apostolának” életéről.",
+            "ro": "Planificați suficient timp pentru a afla despre viața „Apostolului Libertății”.",
+            "en": "Plan enough time to learn about the life of the 'Apostle of Freedom'."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Hisarja",
+            "hu": "Hisarya erőd",
+            "ro": "Cetatea Hisarya",
+            "en": "Hisarya Fortress"
+          },
+          "coords": [
+            24.7179,
+            43.1352
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tragen Sie festes Schuhwerk für den Aufstieg. Die Aussicht von oben ist die Mühe wert.",
+            "hu": "Viseljen kényelmes cipőt a mászáshoz. A fentről nyíló kilátás megéri a fáradságot.",
+            "ro": "Purtați încălțăminte rezistentă pentru urcare. Priveliștea de sus merită efortul.",
+            "en": "Wear sturdy shoes for the climb. The view from the top is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Stratesh-Park",
+            "hu": "Sztrates park",
+            "ro": "Parcul Stratesh",
+            "en": "Stratesh Park"
+          },
+          "coords": [
+            24.725,
+            43.134
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 105,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen entspannten Spaziergang am späten Nachmittag.",
+            "hu": "Tökéletes hely egy pihentető késő délutáni sétához.",
+            "ro": "Locul perfect pentru o plimbare relaxantă la sfârșitul după-amiezii.",
+            "en": "The perfect spot for a relaxing late afternoon walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Viertel Varosha, wo die Zeit stehen geblieben zu sein scheint. Nach einem Vormittag voller Geschichte im Wasil-Lewski-Museum und einem Spaziergang über die einzigartige Gedeckte Brücke steigen Sie zur Festung Hisarja auf. Der Nachmittag gehört der Entspannung im Stratesh-Park, bevor Sie den Tag bei einem traditionellen Abendessen ausklingen lassen.",
+        "hu": "Kezdje a napot a történelmi Varosa negyedben, ahol mintha megállt volna az idő. A Vaszil Levszki Múzeumban töltött történelmi délelőtt és az egyedülálló Fedett hídon tett séta után másszon fel a Hisarya erődhöz. A délután a pihenésé a Sztrates parkban, mielőtt egy hagyományos vacsorával zárja a napot.",
+        "ro": "Începeți ziua în cartierul istoric Varosha, unde timpul pare să fi stat în loc. După o dimineață plină de istorie la Muzeul Vasil Levski și o plimbare peste Podul Acoperit unic, urcați la Cetatea Hisarya. După-amiaza este dedicată relaxării în Parcul Stratesh înainte de a încheia ziua cu o cină tradițională.",
+        "en": "Start your day in the historic Varosha quarter, where time seems to stand still. After a morning of history at the Vasil Levski Museum and a walk across the unique Covered Bridge, climb up to the Hisarya Fortress. The afternoon is for relaxing in Stratesh Park before ending the day with a traditional dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lovech-Fladenbrot (Parvoleta)",
+            "tip": "Probieren Sie dieses lokale Fladenbrot, oft mit Käse oder Kräutern gefüllt."
+          },
+          {
+            "name": "Restaurant 'Drakata'",
+            "tip": "Ein bekanntes Restaurant mit Blick auf den Fluss, das traditionelle bulgarische Küche serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lovecsi lepény (Parvoleta)",
+            "tip": "Kóstolja meg ezt a helyi lepényt, gyakran sajttal vagy fűszernövényekkel töltve."
+          },
+          {
+            "name": "„Drakata” étterem",
+            "tip": "Jól ismert étterem, kilátással a folyóra, hagyományos bolgár ételeket szolgál fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lipie Lovech (Parvoleta)",
+            "tip": "Încercați această lipie locală, adesea umplută cu brânză sau ierburi."
+          },
+          {
+            "name": "Restaurant 'Drakata'",
+            "tip": "Un restaurant renumit cu vedere la râu, care servește bucătărie tradițională bulgară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lovech Flatbread (Parvoleta)",
+            "tip": "Try this local flatbread, often filled with cheese or herbs."
+          },
+          {
+            "name": "Restaurant 'Drakata'",
+            "tip": "A well-known restaurant with a view of the river, serving traditional Bulgarian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Ossam-Flusses",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer und beobachten Sie das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gipfel der Festung Hisarja",
+            "tip": "Am späten Nachmittag, wenn die meisten Touristen weg sind, hat man hier eine friedliche Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oszam folyó partja",
+            "tip": "Keressen egy csendes padot a folyóparton, és nézze a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hisarya erőd csúcsa",
+            "tip": "Késő délután, amikor a legtöbb turista már elment, békés kilátás nyílik innen.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Osam",
+            "tip": "Găsiți o bancă liniștită pe malul râului și priviți apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vârful Cetății Hisarya",
+            "tip": "Spre sfârșitul după-amiezii, când majoritatea turiștilor au plecat, oferă o priveliște pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Osam River",
+            "tip": "Find a quiet bench by the riverbank and watch the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Top of Hisarya Fortress",
+            "tip": "Late in the afternoon when most tourists are gone, it offers a peaceful view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte auf der Gedeckten Brücke",
+            "tip": "Einzigartige handgefertigte Souvenirs und lokale Produkte."
+          },
+          {
+            "name": "Töpfereien in Varosha",
+            "tip": "Halten Sie Ausschau nach Werkstätten, die traditionelle bulgarische Keramik verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a Fedett hídon",
+            "tip": "Egyedi kézműves ajándéktárgyak és helyi termékek."
+          },
+          {
+            "name": "Fazekasműhelyek Varosában",
+            "tip": "Keresse a hagyományos bolgár kerámiát árusító műhelyeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe Podul Acoperit",
+            "tip": "Suveniruri unice realizate manual și produse locale."
+          },
+          {
+            "name": "Ateliere de olărit în Varosha",
+            "tip": "Căutați ateliere care vând ceramică tradițională bulgară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on the Covered Bridge",
+            "tip": "Unique handmade souvenirs and local products."
+          },
+          {
+            "name": "Pottery workshops in Varosha",
+            "tip": "Look for workshops selling traditional Bulgarian pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in Varosha uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander, was Lowetsch ideal für einen Rundgang macht.",
+          "Nehmen Sie Wasser mit, besonders für den Aufstieg zur Festung.",
+          "Einige kleinere Museen und Geschäfte akzeptieren möglicherweise nur Bargeld."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő Varosában egyenetlen lehet.",
+          "A legtöbb látnivaló közel van egymáshoz, így Lovecs ideális egy gyalogtúrához.",
+          "Vigyen magával vizet, különösen az erődhöz való feljutáshoz.",
+          "Néhány kisebb múzeum és üzlet csak készpénzt fogad el."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul din Varosha poate fi denivelat.",
+          "Majoritatea atracțiilor sunt apropiate, făcând Lovech ideal pentru un tur pe jos.",
+          "Luați apă cu dumneavoastră, mai ales pentru urcarea la cetate.",
+          "Unele muzee și magazine mai mici pot accepta doar numerar."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in Varosha can be uneven.",
+          "Most sights are close to each other, making Lovech ideal for a walking tour.",
+          "Bring water with you, especially for the climb to the fortress.",
+          "Some smaller museums and shops may only accept cash."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stratesh-Park",
+            "hu": "Sztrates park",
+            "ro": "Parcul Stratesh",
+            "en": "Stratesh Park"
+          },
+          "coords": [
+            24.725,
+            43.134
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer leichten Radtour durch den Park, um aufzuwachen.",
+            "hu": "Kezdje a napot egy könnyű biciklizéssel a parkban, hogy felébredjen.",
+            "ro": "Începeți ziua cu o plimbare ușoară cu bicicleta prin parc pentru a vă trezi.",
+            "en": "Start the day with a light bike ride through the park to wake up."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Hisarja",
+            "hu": "Hisarya erőd",
+            "ro": "Cetatea Hisarya",
+            "en": "Hisarya Fortress"
+          },
+          "coords": [
+            24.7179,
+            43.1352
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:19",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Fuße des Hügels ab und gehen Sie den Rest zu Fuß. Der Weg ist steil.",
+            "hu": "Zárja le a biciklit a hegy lábánál, és sétáljon fel. Az út meredek.",
+            "ro": "Lăsați bicicleta la baza dealului și urcați pe jos. Calea este abruptă.",
+            "en": "Lock your bike at the bottom of the hill and walk the rest. The path is steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasil-Lewski-Denkmal",
+            "hu": "Vaszil Levszki emlékmű",
+            "ro": "Monumentul Vasil Levski",
+            "en": "Vasil Levski Monument"
+          },
+          "coords": [
+            24.7168,
+            43.134
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:45",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Denkmal befindet sich direkt auf dem Weg von der Festung in die Altstadt.",
+            "hu": "Az emlékmű pont az erődből az óvárosba vezető úton található.",
+            "ro": "Monumentul este chiar în drumul de la cetate spre orașul vechi.",
+            "en": "The monument is right on the way from the fortress to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Varosha",
+            "hu": "Varosa negyed",
+            "ro": "Cartierul Varosha",
+            "en": "Varosha Quarter"
+          },
+          "coords": [
+            24.7145,
+            43.1319
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:03",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad durch die engen Gassen, um die Atmosphäre besser aufzunehmen.",
+            "hu": "Tolja a biciklit a szűk utcákon, hogy jobban átérezze a hangulatot.",
+            "ro": "Împingeți bicicleta pe străduțele înguste pentru a absorbi mai bine atmosfera.",
+            "en": "Push your bike through the narrow streets to better absorb the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasil-Lewski-Museum",
+            "hu": "Vaszil Levszki Múzeum",
+            "ro": "Muzeul Vasil Levski",
+            "en": "Vasil Levski Museum"
+          },
+          "coords": [
+            24.7135,
+            43.1311
+          ],
+          "category": "museums",
+          "arrive_at": "12:56",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein guter Ort für eine längere Pause am Mittag, um der Hitze zu entkommen.",
+            "hu": "Jó hely egy hosszabb déli pihenőre, hogy elkerülje a hőséget.",
+            "ro": "Un loc bun pentru o pauză mai lungă la amiază pentru a scăpa de căldură.",
+            "en": "A good place for a longer break at noon to escape the heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Nedelja",
+            "hu": "Szent Nedelja templom",
+            "ro": "Biserica Sfânta Nedelya",
+            "en": "St. Nedelya Church"
+          },
+          "coords": [
+            24.7138,
+            43.1315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:38",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Halt im Herzen von Varosha.",
+            "hu": "Egy rövid, de megérő megálló Varosa szívében.",
+            "ro": "O oprire scurtă, dar care merită, în inima Varoshei.",
+            "en": "A short but worthwhile stop in the heart of Varosha."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedeckte Brücke",
+            "hu": "Fedett híd",
+            "ro": "Podul Acoperit",
+            "en": "The Covered Bridge"
+          },
+          "coords": [
+            24.715,
+            43.1328
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:21",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke und genießen Sie die Aussicht von der anderen Seite des Flusses.",
+            "hu": "Menjen át a hídon, és élvezze a kilátást a folyó másik oldaláról.",
+            "ro": "Traversați podul și bucurați-vă de priveliștea de pe cealaltă parte a râului.",
+            "en": "Cross the bridge and enjoy the view from the other side of the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie aktiv in den Tag mit einer Radtour durch den Stratesh-Park. Von dort aus geht es zur beeindruckenden Festung Hisarja. Den Rest des Tages verbringen Sie damit, das historische Herz von Lowetsch zu erkunden: das Varosha-Viertel, Museen und die berühmte Gedeckte Brücke. Eine Radtour entlang des Flusses rundet den Tag perfekt ab.",
+        "hu": "Kezdje aktívan a napot egy biciklitúrával a Sztrates parkban. Onnan irány a lenyűgöző Hisarya erőd. A nap hátralévő részét Lovecs történelmi szívének felfedezésével tölti: a Varosa negyed, múzeumok és a híres Fedett híd. Egy folyóparti biciklizés tökéletesen lezárja a napot.",
+        "ro": "Începeți ziua activ cu o plimbare cu bicicleta prin Parcul Stratesh. De acolo, mergeți la impresionanta Cetate Hisarya. Petreceți restul zilei explorând inima istorică a Lovechului: cartierul Varosha, muzeele și faimosul Pod Acoperit. O plimbare cu bicicleta de-a lungul râului încheie perfect ziua.",
+        "en": "Start the day actively with a bike ride through Stratesh Park. From there, head to the impressive Hisarya Fortress. Spend the rest of the day exploring the historical heart of Lovech: the Varosha quarter, museums, and the famous Covered Bridge. A bike ride along the river perfectly rounds off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Shopska-Salat",
+            "tip": "Ein erfrischender bulgarischer Salat, perfekt für eine leichte Mahlzeit am Mittag."
+          },
+          {
+            "name": "Mehana (traditionelle Taverne)",
+            "tip": "Suchen Sie nach einer 'Mehana' in Varosha für ein authentisches kulinarisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sopszka saláta",
+            "tip": "Egy frissítő bolgár saláta, tökéletes egy könnyű ebédhez."
+          },
+          {
+            "name": "Mehana (hagyományos taverna)",
+            "tip": "Keressen egy „Mehana”-t Varosában az autentikus kulináris élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată Shopska",
+            "tip": "O salată bulgărească răcoritoare, perfectă pentru o masă ușoară la prânz."
+          },
+          {
+            "name": "Mehana (tavernă tradițională)",
+            "tip": "Căutați o 'Mehana' în Varosha pentru o experiență culinară autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopska Salad",
+            "tip": "A refreshing Bulgarian salad, perfect for a light lunch."
+          },
+          {
+            "name": "Mehana (traditional tavern)",
+            "tip": "Look for a 'Mehana' in Varosha for an authentic culinary experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang des Ossam",
+            "tip": "Eine friedliche Route abseits des Stadtzentrums.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Zoo im Stratesh-Park",
+            "tip": "Ein ruhiger Bereich im Park, ideal für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút az Oszam mentén",
+            "tip": "Békés útvonal a városközponttól távol.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Állatkert a Sztrates parkban",
+            "tip": "Csendes rész a parkban, ideális egy szünetre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Osam",
+            "tip": "Un traseu pașnic departe de centrul orașului.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Grădina Zoologică din Parcul Stratesh",
+            "tip": "O zonă liniștită în parc, ideală pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Osam river",
+            "tip": "A peaceful route away from the city center.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Zoo in Stratesh Park",
+            "tip": "A quiet area within the park, ideal for a break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Die Region ist bekannt für ihren hochwertigen Honig."
+          },
+          {
+            "name": "Handgeschnitzte Holzartikel",
+            "tip": "Souvenirs, die die Handwerkskunst der Region widerspiegeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A régió híres a kiváló minőségű mézéről."
+          },
+          {
+            "name": "Kézzel faragott fatárgyak",
+            "tip": "Ajándéktárgyak, amelyek a régió kézművességét tükrözik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Regiunea este cunoscută pentru mierea sa de înaltă calitate."
+          },
+          {
+            "name": "Articole din lemn sculptate manual",
+            "tip": "Suveniruri care reflectă meșteșugul regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "The region is known for its high-quality honey."
+          },
+          {
+            "name": "Hand-carved wooden items",
+            "tip": "Souvenirs that reflect the craftsmanship of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Einige Straßen in der Altstadt sind für Radfahrer möglicherweise eine Herausforderung. Seien Sie vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer an, wenn Sie es unbeaufsichtigt lassen.",
+          "Die Hügel können anspruchsvoll sein, aber die Abfahrten machen Spaß."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Néhány óvárosi utca kihívást jelenthet a bicikliseknek. Legyen óvatos.",
+          "Mindig zárja le a kerékpárt, ha felügyelet nélkül hagyja.",
+          "A dombok megterhelőek lehetnek, de a lejtők szórakoztatóak."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a porni.",
+          "Unele străzi din orașul vechi pot fi provocatoare pentru bicicliști. Fiți prudenți.",
+          "Legați întotdeauna bicicleta când o lăsați nesupravegheată.",
+          "Dealurile pot fi solicitante, dar coborârile sunt distractive."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Some streets in the old town can be challenging for cyclists. Be careful.",
+          "Always lock your bike when leaving it unattended.",
+          "The hills can be demanding, but the descents are fun."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 42.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dewetaschka-Höhle",
+            "hu": "Devetaska-barlang",
+            "ro": "Peștera Devetashka",
+            "en": "Devetashka Cave"
+          },
+          "coords": [
+            24.88,
+            43.235
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 115,
+          "hop_mode": "car",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie früh los, um die Menschenmassen zu vermeiden. Die Höhle ist morgens am beeindruckendsten.",
+            "hu": "Induljon korán, hogy elkerülje a tömeget. A barlang reggel a leglenyűgözőbb.",
+            "ro": "Plecați devreme pentru a evita aglomerația. Peștera este cea mai impresionantă dimineața.",
+            "en": "Leave early to avoid the crowds. The cave is most impressive in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Varosha (Parken)",
+            "hu": "Varosa negyed (Parkolás)",
+            "ro": "Cartierul Varosha (Parcare)",
+            "en": "Varosha Quarter (Parking)"
+          },
+          "coords": [
+            24.714,
+            43.131
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:40",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 21.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto am Rande des Viertels und erkunden Sie den Rest zu Fuß.",
+            "hu": "Parkolja le az autót a negyed szélén, a többit pedig fedezze fel gyalog.",
+            "ro": "Parcați mașina la marginea cartierului și explorați restul pe jos.",
+            "en": "Park your car on the edge of the quarter and explore the rest on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedeckte Brücke",
+            "hu": "Fedett híd",
+            "ro": "Podul Acoperit",
+            "en": "The Covered Bridge"
+          },
+          "coords": [
+            24.715,
+            43.1328
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:11",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Mittagspause und den Kauf von Souvenirs.",
+            "hu": "Tökéletes hely egy ebédszünetre és ajándéktárgyak vásárlására.",
+            "ro": "Un loc perfect pentru o pauză de prânz și cumpărături de suveniruri.",
+            "en": "A perfect spot for a lunch break and souvenir shopping."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasil-Lewski-Museum",
+            "hu": "Vaszil Levszki Múzeum",
+            "ro": "Muzeul Vasil Levski",
+            "en": "Vasil Levski Museum"
+          },
+          "coords": [
+            24.7135,
+            43.1311
+          ],
+          "category": "museums",
+          "arrive_at": "13:47",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Varosha-Viertel aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a Varosa negyedből.",
+            "ro": "Ușor accesibil pe jos din cartierul Varosha.",
+            "en": "Easily reachable on foot from the Varosha quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Hisarja (Parken)",
+            "hu": "Hisarya erőd (Parkolás)",
+            "ro": "Cetatea Hisarya (Parcare)",
+            "en": "Hisarya Fortress (Parking)"
+          },
+          "coords": [
+            24.717,
+            43.1345
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:02",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz unterhalb der Festung und gehen Sie das letzte Stück.",
+            "hu": "Hajtson az erőd alatti parkolóba, és tegye meg az utolsó szakaszt gyalog.",
+            "ro": "Conduceți până la parcarea de sub cetate și parcurgeți ultima porțiune pe jos.",
+            "en": "Drive to the parking area below the fortress and walk the final stretch."
+          }
+        },
+        {
+          "name": {
+            "de": "Stratesh-Park",
+            "hu": "Sztrates park",
+            "ro": "Parcul Stratesh",
+            "en": "Stratesh Park"
+          },
+          "coords": [
+            24.725,
+            43.134
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:47",
+          "stay_min": 78,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Schließen Sie den Tag mit einem entspannten Spaziergang ab, bevor Sie die Stadt verlassen.",
+            "hu": "Zárja a napot egy pihentető sétával, mielőtt elhagyja a várost.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă înainte de a părăsi orașul.",
+            "en": "End the day with a relaxing walk before you leave the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Abenteuer mit einem Ausflug zur beeindruckenden Dewetaschka-Höhle. Nach diesem Naturwunder fahren Sie ins Herz von Lowetsch. Parken Sie im Varosha-Viertel und erkunden Sie die Gassen, die Gedeckte Brücke und Museen zu Fuß. Am Nachmittag fahren Sie zur Festung Hisarja für eine atemberaubende Aussicht und beenden den Tag im ruhigen Stratesh-Park.",
+        "hu": "Kezdje a kalandot egy kirándulással a lenyűgöző Devetaska-barlanghoz. E természeti csoda után hajtson Lovecs szívébe. Parkoljon a Varosa negyedben, és fedezze fel gyalog az utcácskákat, a Fedett hidat és a múzeumokat. Délután hajtson fel a Hisarya erődhöz a lélegzetelállító kilátásért, és fejezze be a napot a békés Sztrates parkban.",
+        "ro": "Începeți aventura cu o excursie la impresionanta Peșteră Devetashka. După această minune naturală, conduceți spre inima Lovechului. Parcați în cartierul Varosha și explorați pe jos aleile, Podul Acoperit și muzeele. După-amiaza, conduceți la Cetatea Hisarya pentru o priveliște uluitoare și încheiați ziua în liniștitul Parc Stratesh.",
+        "en": "Start your adventure with a trip to the impressive Devetashka Cave. After this natural wonder, drive to the heart of Lovech. Park in the Varosha quarter and explore the alleys, the Covered Bridge, and museums on foot. In the afternoon, drive to Hisarya Fortress for a breathtaking view and end the day in the peaceful Stratesh Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kavarma",
+            "tip": "Ein herzhafter bulgarischer Eintopf, der in einem Tontopf serviert wird. Perfekt nach einem langen Tag."
+          },
+          {
+            "name": "Restaurant in einem Dorf in der Nähe der Höhle",
+            "tip": "Suchen Sie nach einem kleinen, lokalen Restaurant für ein authentisches Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kavarma",
+            "tip": "Kiadós bolgár egytálétel, agyagedényben tálalva. Tökéletes egy hosszú nap után."
+          },
+          {
+            "name": "Étterem egy faluban a barlang közelében",
+            "tip": "Keressen egy kis, helyi éttermet egy autentikus ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kavarma",
+            "tip": "O tocană bulgărească consistentă, servită într-un vas de lut. Perfectă după o zi lungă."
+          },
+          {
+            "name": "Restaurant într-un sat de lângă peșteră",
+            "tip": "Căutați un mic restaurant local pentru un prânz autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kavarma",
+            "tip": "A hearty Bulgarian stew served in a clay pot. Perfect after a long day."
+          },
+          {
+            "name": "Restaurant in a village near the cave",
+            "tip": "Look for a small, local restaurant for an authentic lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Das Innere der Dewetaschka-Höhle",
+            "tip": "Trotz ihrer Größe kann die Höhle ein sehr ruhiger und spiritueller Ort sein.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussichtspunkt in der Nähe der Festung",
+            "tip": "Finden Sie einen Platz abseits der Hauptwege für einen ungestörten Blick über die Stadt.",
+            "emoji": "🌄"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Devetaska-barlang belseje",
+            "tip": "Mérete ellenére a barlang nagyon csendes és spirituális hely lehet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátópont az erőd közelében",
+            "tip": "Keressen egy helyet a fő ösvényektől távol, ahonnan zavartalan kilátás nyílik a városra.",
+            "emoji": "🌄"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Interiorul Peșterii Devetashka",
+            "tip": "În ciuda dimensiunii sale, peștera poate fi un loc foarte liniștit și spiritual.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punct de belvedere lângă cetate",
+            "tip": "Găsiți un loc departe de potecile principale pentru o vedere neîntreruptă asupra orașului.",
+            "emoji": "🌄"
+          }
+        ],
+        "en": [
+          {
+            "name": "Inside Devetashka Cave",
+            "tip": "Despite its size, the cave can be a very quiet and spiritual place.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Viewpoint near the fortress",
+            "tip": "Find a spot away from the main paths for an undisturbed view over the city.",
+            "emoji": "🌄"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rosenölprodukte",
+            "tip": "Bulgarien ist berühmt für sein Rosenöl. Ein tolles Mitbringsel."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Fragen Sie in den Geschäften nach Weinen aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsaolaj termékek",
+            "tip": "Bulgária híres a rózsaolajáról. Nagyszerű ajándék."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "Érdeklődjön a boltokban a régió borairól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse cu ulei de trandafir",
+            "tip": "Bulgaria este renumită pentru uleiul său de trandafir. Un suvenir minunat."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Întrebați în magazine despre vinurile din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose oil products",
+            "tip": "Bulgaria is famous for its rose oil. A great souvenir."
+          },
+          {
+            "name": "Local wines",
+            "tip": "Ask in the shops for wines from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten der Dewetaschka-Höhle im Voraus.",
+          "Parken in der Nähe von Varosha kann schwierig sein, seien Sie geduldig.",
+          "Ein GPS ist für die Fahrt zur Höhle sehr zu empfehlen.",
+          "Halten Sie Kleingeld für Parkgebühren bereit."
+        ],
+        "hu": [
+          "Előre ellenőrizze a Devetaska-barlang nyitvatartási idejét.",
+          "A parkolás Varosa közelében nehézkes lehet, legyen türelmes.",
+          "A barlanghoz vezető úthoz erősen ajánlott a GPS.",
+          "Tartson aprópénzt a parkolási díjakhoz."
+        ],
+        "ro": [
+          "Verificați în avans programul de funcționare al Peșterii Devetashka.",
+          "Parcarea în apropierea Varoshei poate fi dificilă, aveți răbdare.",
+          "Un GPS este foarte recomandat pentru drumul către peșteră.",
+          "Pregătiți monede pentru taxele de parcare."
+        ],
+        "en": [
+          "Check the opening hours of Devetashka Cave in advance.",
+          "Parking near Varosha can be difficult, be patient.",
+          "A GPS is highly recommended for the drive to the cave.",
+          "Keep small change ready for parking fees."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszpályaudvar",
+            "ro": "Autogara Centrală",
+            "en": "Central Bus Station"
+          },
+          "coords": [
+            24.71,
+            43.138
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Varosha-Viertel. Kaufen Sie eine Tageskarte für Flexibilität.",
+            "hu": "Vegyen buszt a Varosa negyedbe. Vegyen napijegyet a rugalmasság érdekében.",
+            "ro": "Luați un autobuz spre cartierul Varosha. Cumpărați un bilet de o zi pentru flexibilitate.",
+            "en": "Take a bus to the Varosha quarter. Buy a day pass for flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Varosha",
+            "hu": "Varosa negyed",
+            "ro": "Cartierul Varosha",
+            "en": "Varosha Quarter"
+          },
+          "coords": [
+            24.7145,
+            43.1319
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:33",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle ist nur wenige Gehminuten vom Herzen des alten Viertels entfernt.",
+            "hu": "A buszmegálló csak néhány perces sétára van az óváros szívétől.",
+            "ro": "Stația de autobuz este la doar câteva minute de mers pe jos de inima cartierului vechi.",
+            "en": "The bus stop is just a few minutes' walk from the heart of the old quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedeckte Brücke",
+            "hu": "Fedett híd",
+            "ro": "Podul Acoperit",
+            "en": "The Covered Bridge"
+          },
+          "coords": [
+            24.715,
+            43.1328
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:39",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie von Varosha direkt zur Brücke.",
+            "hu": "Sétáljon Varosából egyenesen a hídhoz.",
+            "ro": "Plimbați-vă de la Varosha direct la pod.",
+            "en": "Stroll from Varosha directly to the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasil-Lewski-Museum",
+            "hu": "Vaszil Levszki Múzeum",
+            "ro": "Muzeul Vasil Levski",
+            "en": "Vasil Levski Museum"
+          },
+          "coords": [
+            24.7135,
+            43.1311
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um die Mittagszeit drinnen zu verbringen.",
+            "hu": "Tökéletes hely a déli idő beltéri eltöltésére.",
+            "ro": "Locul perfect pentru a petrece timpul de prânz în interior.",
+            "en": "The perfect place to spend the midday hours indoors."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Hisarja",
+            "hu": "Hisarya erőd",
+            "ro": "Cetatea Hisarya",
+            "en": "Hisarya Fortress"
+          },
+          "coords": [
+            24.7179,
+            43.1352
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:31",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der Sie näher an den Hügel bringt, um den Aufstieg zu verkürzen.",
+            "hu": "Vegyen egy buszt, amely közelebb visz a hegyhez, hogy lerövidítse a mászást.",
+            "ro": "Luați un autobuz care vă aduce mai aproape de deal pentru a scurta urcarea.",
+            "en": "Take a bus that brings you closer to the hill to shorten the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Stratesh-Park",
+            "hu": "Sztrates park",
+            "ro": "Parcul Stratesh",
+            "en": "Stratesh Park"
+          },
+          "coords": [
+            24.725,
+            43.134
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 105,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um den Tag ausklingen zu lassen, bevor Sie den Bus zurück nehmen.",
+            "hu": "Szép hely a nap befejezéséhez, mielőtt visszaindulna a busszal.",
+            "ro": "Un loc frumos pentru a încheia ziua înainte de a lua autobuzul înapoi.",
+            "en": "A lovely place to wind down the day before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das öffentliche Verkehrsnetz von Lowetsch, um die Stadt zu erkunden. Beginnen Sie im historischen Varosha-Viertel, das Sie bequem mit dem Bus erreichen. Nach der Erkundung der Gassen und der Gedeckten Brücke zu Fuß bringt Sie ein weiterer Bus zur Festung Hisarja. Beenden Sie Ihren Tag mit einem entspannten Spaziergang im Stratesh-Park, der ebenfalls gut an das Busnetz angebunden ist.",
+        "hu": "Használja Lovecs tömegközlekedési hálózatát a város felfedezéséhez. Kezdje a történelmi Varosa negyedben, amely busszal könnyen megközelíthető. Miután gyalog felfedezte az utcácskákat és a Fedett hidat, egy másik busz elviszi a Hisarya erődhöz. Fejezze be a napot egy pihentető sétával a Sztrates parkban, amely szintén jó buszösszeköttetéssel rendelkezik.",
+        "ro": "Folosiți rețeaua de transport public din Lovech pentru a explora orașul. Începeți în cartierul istoric Varosha, ușor accesibil cu autobuzul. După ce explorați pe jos aleile și Podul Acoperit, un alt autobuz vă va duce la Cetatea Hisarya. Încheiați ziua cu o plimbare relaxantă în Parcul Stratesh, de asemenea bine conectat la rețeaua de autobuze.",
+        "en": "Use Lovech's public transport network to explore the city. Start in the historic Varosha quarter, easily reached by bus. After exploring the alleys and the Covered Bridge on foot, another bus will take you to Hisarya Fortress. End your day with a relaxing walk in Stratesh Park, also well-connected by the bus network."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Banitsa",
+            "tip": "Ein köstliches bulgarisches Gebäck, ideal für einen schnellen Snack zwischendurch."
+          },
+          {
+            "name": "Lokale Cafés",
+            "tip": "Probieren Sie einen starken bulgarischen Kaffee in einem der Cafés in Varosha."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Banica",
+            "tip": "Finom bolgár péksütemény, ideális egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Helyi kávézók",
+            "tip": "Kóstoljon meg egy erős bolgár kávét Varosa egyik kávézójában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Banitsa",
+            "tip": "Un produs de patiserie bulgăresc delicios, ideal pentru o gustare rapidă."
+          },
+          {
+            "name": "Cafenele locale",
+            "tip": "Încercați o cafea bulgărească tare la una dintre cafenelele din Varosha."
+          }
+        ],
+        "en": [
+          {
+            "name": "Banitsa",
+            "tip": "A delicious Bulgarian pastry, ideal for a quick snack on the go."
+          },
+          {
+            "name": "Local cafes",
+            "tip": "Try a strong Bulgarian coffee at one of the cafes in Varosha."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Bänke im Stratesh-Park",
+            "tip": "Bietet eine ruhige Aussicht über die Stadt, abseits der Hauptwege.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirche St. Nedelja am Vormittag",
+            "tip": "Besuchen Sie die Kirche früh, um die Stille und die Fresken zu genießen.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Felső padok a Sztrates parkban",
+            "tip": "Csendes kilátást nyújt a városra, távol a fő ösvényektől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Nedelja templom délelőtt",
+            "tip": "Látogassa meg a templomot korán, hogy élvezze a csendet és a freskókat.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băncile superioare din Parcul Stratesh",
+            "tip": "Oferă o priveliște liniștită asupra orașului, departe de aleile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Sfânta Nedelya dimineața",
+            "tip": "Vizitați biserica devreme pentru a vă bucura de liniște și de fresce.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper benches in Stratesh Park",
+            "tip": "Offers a quiet view over the city, away from the main paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Nedelya Church in the morning",
+            "tip": "Visit the church early to enjoy the silence and the frescoes.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marteniza (im Frühling)",
+            "tip": "Wenn Sie im März hier sind, kaufen Sie eine dieser rot-weißen Quasten als Glücksbringer."
+          },
+          {
+            "name": "Bulgarische Gewürze",
+            "tip": "Suchen Sie auf lokalen Märkten nach Gewürzen wie 'Scharena Sol' (Buntes Salz)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Martenica (tavasszal)",
+            "tip": "Ha márciusban jár itt, vegyen egy ilyen piros-fehér bojtot szerencsehozóként."
+          },
+          {
+            "name": "Bolgár fűszerek",
+            "tip": "Keressen fűszereket a helyi piacokon, mint például a „Sarena Szol” (Színes só)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mărțișor (primăvara)",
+            "tip": "Dacă sunteți aici în martie, cumpărați unul dintre acești ciucuri roșii și albi ca talisman norocos."
+          },
+          {
+            "name": "Condimente bulgărești",
+            "tip": "Căutați în piețele locale condimente precum 'Sharena Sol' (Sare colorată)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Martenitsa (in Spring)",
+            "tip": "If you're here in March, buy one of these red and white tassels for good luck."
+          },
+          {
+            "name": "Bulgarian spices",
+            "tip": "Look for spices like 'Sharena Sol' (Colorful Salt) in local markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fragen Sie Einheimische nach der richtigen Buslinie; die Fahrpläne können verwirrend sein.",
+          "Haben Sie den Fahrpreis passend parat oder kaufen Sie Tickets im Voraus.",
+          "Busse fahren möglicherweise nicht sehr häufig, planen Sie also Ihre Rückfahrt.",
+          "Achten Sie auf die letzte Busverbindung des Tages, besonders aus den Außenbezirken."
+        ],
+        "hu": [
+          "Kérdezze meg a helyieket a megfelelő buszjáratról; a menetrendek zavaróak lehetnek.",
+          "Legyen nálad pontos összeg a jegyhez, vagy vegyél jegyet előre.",
+          "A buszok nem feltétlenül közlekednek túl gyakran, ezért tervezze meg a visszautat.",
+          "Figyeljen a nap utolsó buszjáratára, különösen a külvárosokból."
+        ],
+        "ro": [
+          "Întrebați localnicii despre linia corectă de autobuz; orarele pot fi confuze.",
+          "Aveți pregătită suma exactă pentru bilet sau cumpărați bilete în avans.",
+          "Autobuzele s-ar putea să nu circule foarte frecvent, așa că planificați-vă călătoria de întoarcere.",
+          "Fiți atenți la ultima cursă de autobuz a zilei, mai ales din zonele periferice."
+        ],
+        "en": [
+          "Ask locals for the correct bus line; the schedules can be confusing.",
+          "Have the exact fare ready or buy tickets in advance.",
+          "Buses may not run very frequently, so plan your return trip.",
+          "Be aware of the last bus of the day, especially from the outskirts."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1212 @@
+{
+  "city_id": "netherlands-veenendaal-cities-v2",
+  "anchor": {
+    "name": "Veenendaal",
+    "coords": [
+      5.553,
+      52.025
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Thoomesplein",
+            "hu": "Thoomesplein tér",
+            "ro": "Piața Thoomesplein",
+            "en": "Thoomesplein Square"
+          },
+          "coords": [
+            5.553,
+            52.025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag hier mit einem Kaffee und beobachten Sie das städtische Treiben.",
+            "hu": "Indítsa a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, observând agitația orașului.",
+            "en": "Start your day here with a coffee and watch the town life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "De Oude Kerk",
+            "hu": "Oude Kerk (Régi templom)",
+            "ro": "Biserica Veche (De Oude Kerk)",
+            "en": "The Old Church (De Oude Kerk)"
+          },
+          "coords": [
+            5.5535,
+            52.0255
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Museum Veenendaal",
+            "hu": "Veenendaal Múzeum",
+            "ro": "Muzeul Veenendaal",
+            "en": "Museum Veenendaal"
+          },
+          "coords": [
+            5.554,
+            52.026
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "De Cultuurfabriek",
+            "hu": "De Cultuurfabriek (Kultúrgyár)",
+            "ro": "Fabrica de Cultură (De Cultuurfabriek)",
+            "en": "The Culture Factory (De Cultuurfabriek)"
+          },
+          "coords": [
+            5.552,
+            52.024
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine interessante Ausstellung oder Veranstaltung.",
+            "hu": "Ebéd után nézzen be, hátha van egy érdekes kiállítás vagy esemény.",
+            "ro": "Verificați programul; s-ar putea să găsiți o expoziție sau un eveniment interesant.",
+            "en": "Check the schedule, you might catch an interesting exhibition or event."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadspark",
+            "hu": "Városi park",
+            "ro": "Parcul Orașului",
+            "en": "City Park (Stadspark)"
+          },
+          "coords": [
+            5.56,
+            52.028
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name": {
+            "de": "Windkorenmolen De Vriendschap",
+            "hu": "De Vriendschap szélmalom",
+            "ro": "Moara de vânt De Vriendschap",
+            "en": "De Vriendschap Windmill"
+          },
+          "coords": [
+            5.548,
+            52.023
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:55",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Kaufen Sie im Mühlenladen frisch gemahlenes Mehl als Souvenir.",
+            "hu": "Vásároljon frissen őrölt lisztet az ajándékboltban.",
+            "ro": "Cumpărați făină proaspăt măcinată de la magazinul morii ca suvenir.",
+            "en": "Buy some freshly ground flour from the mill's shop as a souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt am belebten Thoomesplein und führt Sie durch das historische Herz von Veenendaal. Am Vormittag erkunden Sie die Oude Kerk und die lokale Geschichte im Museum Veenendaal. Nach dem Mittagessen in der Nähe der Cultuurfabriek bietet der Stadspark eine grüne Oase zur Entspannung. Der Tag endet mit einem Besuch der malerischen Windmühle De Vriendschap, einem Symbol des niederländischen Erbes.",
+        "hu": "A séta Veenendaal történelmi szívében, a nyüzsgő Thoomesplein téren kezdődik. Délelőtt felfedezheti az Oude Kerk templomot és a helyi történelmet a Veenendaal Múzeumban. A Cultuurfabriek közelében elköltött ebéd után a Stadspark zöld oázisa nyújt kikapcsolódást. A napot a holland örökség jelképének számító, festői De Vriendschap szélmalomnál zárja.",
+        "ro": "Turul pietonal începe în inima istorică a orașului Veenendaal, în vibranta Piață Thoomesplein. Dimineața explorați Biserica Veche și istoria locală la Muzeul Veenendaal. După prânzul lângă Fabrica de Cultură, Parcul Orașului oferă o oază de verdeață pentru relaxare. Ziua se încheie cu o vizită la pitoreasca moară de vânt De Vriendschap, un simbol al moștenirii olandeze.",
+        "en": "Your walking tour starts in the historic heart of Veenendaal at the bustling Thoomesplein. The morning is for exploring the Old Church and local history at Museum Veenendaal. After lunch near the Culture Factory, the Stadspark provides a green oasis for relaxation. The day concludes with a visit to the picturesque De Vriendschap windmill, a symbol of Dutch heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Probieren Sie eine frische, warme Stroopwafel von einem Marktstand."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kleine, flauschige Pfannkuchen, oft mit Puderzucker und Butter serviert."
+          },
+          {
+            "name": "Haring",
+            "tip": "Ein roher Hering, serviert mit Zwiebeln und Gurken, eine echte niederländische Delikatesse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stroopwafel",
+            "tip": "Kóstoljon meg egy friss, meleg stroopwafelt egy piaci standnál."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Apró, puha palacsinták, általában porcukorral és vajjal tálalva."
+          },
+          {
+            "name": "Haring",
+            "tip": "Nyers hering hagymával és uborkával, igazi holland finomság."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Încercați o stroopwafel proaspătă și caldă de la o tarabă din piață."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Clătite mici și pufoase, adesea servite cu zahăr pudră și unt."
+          },
+          {
+            "name": "Haring",
+            "tip": "Hering crud servit cu ceapă și castraveți, o adevărată delicatesă olandeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Try a fresh, warm stroopwafel from a market stall."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Small, fluffy pancakes, often served with powdered sugar and butter."
+          },
+          {
+            "name": "Haring",
+            "tip": "Raw herring served with onions and pickles, a true Dutch delicacy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadspark",
+            "tip": "Finden Sie eine ruhige Bank am Teich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Grift",
+            "tip": "Ein Spaziergang entlang des kleinen Kanals, der durch die Stadt fließt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadspark",
+            "tip": "Keressen egy csendes padot a tó mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grift-csatorna partja",
+            "tip": "Sétáljon a városon átfolyó kis csatorna mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Orașului",
+            "tip": "Găsiți o bancă liniștită lângă iaz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile canalului Grift",
+            "tip": "O plimbare de-a lungul micului canal care traversează orașul.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadspark",
+            "tip": "Find a quiet bench by the pond.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Grift",
+            "tip": "A stroll along the small canal flowing through the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hoofdstraat",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie den Markt für lokale Produkte, Käse und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hoofdstraat",
+            "tip": "A fő bevásárlóutca ismert márkák és helyi üzletek keverékével."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el a piacra helyi termékekért, sajtokért és ajándéktárgyakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hoofdstraat",
+            "tip": "Principala stradă comercială cu un amestec de mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați piața pentru produse locale, brânză și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hoofdstraat",
+            "tip": "The main shopping street with a mix of well-known brands and local shops."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the market for local produce, cheese, and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Prüfen Sie die Öffnungszeiten des Museums und der Mühle im Voraus.",
+          "Viele Cafés im Zentrum bieten kostenloses WLAN an."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Előre ellenőrizze a múzeum és a malom nyitvatartási idejét.",
+          "Sok belvárosi kávézó kínál ingyenes Wi-Fi-t."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați în avans programul de funcționare al muzeului și al morii.",
+          "Multe cafenele din centru oferă Wi-Fi gratuit."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet all day.",
+          "Check the opening hours for the museum and the mill in advance.",
+          "Many cafes in the center offer free Wi-Fi."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Thoomesplein",
+            "hu": "Thoomesplein tér",
+            "ro": "Piața Thoomesplein",
+            "en": "Thoomesplein Square"
+          },
+          "coords": [
+            5.553,
+            52.025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "De Cultuurfabriek",
+            "hu": "De Cultuurfabriek",
+            "ro": "Fabrica de Cultură",
+            "en": "The Culture Factory"
+          },
+          "coords": [
+            5.552,
+            52.024
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:33",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Windkorenmolen De Vriendschap",
+            "hu": "De Vriendschap szélmalom",
+            "ro": "Moara de vânt De Vriendschap",
+            "en": "De Vriendschap Windmill"
+          },
+          "coords": [
+            5.548,
+            52.023
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:09",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name": {
+            "de": "Stadspark",
+            "hu": "Városi park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            5.56,
+            52.028
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:11",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0
+        },
+        {
+          "name": {
+            "de": "Julianakerk",
+            "hu": "Julianakerk templom",
+            "ro": "Biserica Juliana",
+            "en": "Julianakerk Church"
+          },
+          "coords": [
+            5.55,
+            52.03
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:19",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3
+        },
+        {
+          "name": {
+            "de": "Museum Veenendaal",
+            "hu": "Veenendaal Múzeum",
+            "ro": "Muzeul Veenendaal",
+            "en": "Museum Veenendaal"
+          },
+          "coords": [
+            5.554,
+            52.026
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause, bevor Sie in die Geschichte eintauchen.",
+            "hu": "Tökéletes egy ebédszünetre, mielőtt elmerülne a történelemben.",
+            "ro": "Ideal pentru o pauză de prânz înainte de a vă cufunda în istorie.",
+            "en": "Perfect for a lunch break before delving into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kwintelooijen",
+            "hu": "Kwintelooijen természetvédelmi terület",
+            "ro": "Rezervația naturală Kwintelooijen",
+            "en": "Kwintelooijen Nature Area"
+          },
+          "coords": [
+            5.6,
+            52.015
+          ],
+          "category": "natural features",
+          "arrive_at": "15:35",
+          "stay_min": 105,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Ein schöner Kontrast zur Stadt. Nehmen Sie sich Zeit für einen Spaziergang zum Aussichtspunkt.",
+            "hu": "Szép kontraszt a városhoz képest. Szánjon időt egy sétára a kilátóponthoz.",
+            "ro": "Un contrast frumos cu orașul. Faceți-vă timp pentru o plimbare până la punctul de belvedere.",
+            "en": "A beautiful contrast to the city. Take your time for a walk to the viewpoint."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet städtische Highlights mit der umliegenden Natur. Der Morgen konzentriert sich auf das Zentrum mit der Mühle und dem Park. Nach dem Mittagessen und einem Museumsbesuch führt die Route Sie aus der Stadt hinaus in das Erholungsgebiet Kwintelooijen, wo Sie den Nachmittag mit atemberaubender Aussicht und frischer Luft verbringen können, bevor Sie in die Stadt zurückkehren.",
+        "hu": "Ez a kerékpártúra összeköti a városi látnivalókat a környező természettel. A délelőtt a központra, a malomra és a parkra összpontosít. Ebéd és múzeumlátogatás után az útvonal kivisz a városból a Kwintelooijen üdülőterületre, ahol a délutánt lélegzetelállító kilátással és friss levegőn töltheti, mielőtt visszatérne a városba.",
+        "ro": "Acest tur cu bicicleta combină atracțiile urbane cu natura înconjurătoare. Dimineața se concentrează pe centru, cu moara și parcul. După prânz și o vizită la muzeu, traseul vă duce în afara orașului, în zona de agrement Kwintelooijen, unde puteți petrece după-amiaza bucurându-vă de priveliști uimitoare și aer curat înainte de a vă întoarce în oraș.",
+        "en": "This bike tour combines urban highlights with surrounding nature. The morning focuses on the center with the windmill and park. After lunch and a museum visit, the route takes you out of the city to the Kwintelooijen recreational area, where you can spend the afternoon enjoying stunning views and fresh air before returning to the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Appeltaart",
+            "tip": "Ein Stück holländischer Apfelkuchen mit Schlagsahne ist der perfekte Energieschub."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Frittierte Fischstücke, oft mit Knoblauchsauce oder Remoulade serviert."
+          },
+          {
+            "name": "Kaas",
+            "tip": "Besuchen Sie einen Käseladen und probieren Sie lokalen Gouda oder Edamer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Appeltaart",
+            "tip": "Egy szelet holland almáspite tejszínhabbal tökéletes energialöket."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Sült haldarabok, gyakran fokhagymaszósszal vagy remuláddal tálalva."
+          },
+          {
+            "name": "Sajt",
+            "tip": "Látogasson el egy sajtboltba, és kóstoljon helyi goudát vagy edámit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Appeltaart",
+            "tip": "O felie de plăcintă olandeză cu mere și frișcă este impulsul perfect de energie."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Bucăți de pește prăjit, adesea servite cu sos de usturoi sau remoulade."
+          },
+          {
+            "name": "Brânză",
+            "tip": "Vizitați un magazin de brânzeturi și degustați Gouda sau Edam local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Appeltaart",
+            "tip": "A slice of Dutch apple pie with whipped cream is the perfect energy boost."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Fried chunks of fish, often served with garlic sauce or remoulade."
+          },
+          {
+            "name": "Cheese (Kaas)",
+            "tip": "Visit a cheese shop and try some local Gouda or Edam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kwintelooijen",
+            "tip": "Der höchste Punkt bietet eine weite Aussicht über die Region.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stadspark",
+            "tip": "Ideal für eine Pause im Grünen zwischen den Stadtetappen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kwintelooijen",
+            "tip": "A legmagasabb pontjáról széles kilátás nyílik a régióra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stadspark",
+            "tip": "Ideális egy zöld pihenőre a városi szakaszok között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kwintelooijen",
+            "tip": "Punctul cel mai înalt oferă o panoramă vastă asupra regiunii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Orașului",
+            "tip": "Ideal pentru o pauză în natură între etapele urbane.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kwintelooijen",
+            "tip": "The highest point offers a wide view over the region.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stadspark",
+            "tip": "Ideal for a green break between city stages.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "In den Niederlanden finden Sie innovative und stilvolle Fahrradaccessoires."
+          },
+          {
+            "name": "Lokale Kunsthandwerker",
+            "tip": "Halten Sie in kleineren Straßen Ausschau nach Geschäften, die lokales Handwerk verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "Hollandiában innovatív és stílusos kerékpár-kiegészítőket találhat."
+          },
+          {
+            "name": "Helyi kézművesek",
+            "tip": "A kisebb utcákban keresse a helyi kézműves termékeket árusító boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "În Olanda puteți găsi accesorii pentru biciclete inovatoare și elegante."
+          },
+          {
+            "name": "Artizani locali",
+            "tip": "Căutați magazine care vând produse artizanale locale pe străzile mai mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessories",
+            "tip": "In the Netherlands, you can find innovative and stylish bicycle accessories."
+          },
+          {
+            "name": "Local artisans",
+            "tip": "Look for shops selling local crafts on smaller streets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein gut gewartetes Fahrrad.",
+          "Achten Sie auf die Fahrradwege und die örtlichen Verkehrsregeln.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch bei kurzen Stopps."
+        ],
+        "hu": [
+          "Béreljen egy jól karbantartott kerékpárt.",
+          "Ügyeljen a kerékpárutakra és a helyi közlekedési szabályokra.",
+          "Mindig zárja le a kerékpárját, még rövid megállók esetén is."
+        ],
+        "ro": [
+          "Închiriați o bicicletă bine întreținută.",
+          "Fiți atenți la pistele de biciclete și la regulile locale de circulație.",
+          "Încuiati întotdeauna bicicleta, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Rent a well-maintained bicycle.",
+          "Pay attention to the bike paths and local traffic rules.",
+          "Always lock your bike, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Parkhaus",
+            "hu": "Központi klaszter: Parkolóház",
+            "ro": "Cluster Centru: Parcare",
+            "en": "Center Cluster: Parking"
+          },
+          "coords": [
+            5.551,
+            52.0245
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Thoomesplein",
+            "hu": "Thoomesplein tér",
+            "ro": "Piața Thoomesplein",
+            "en": "Thoomesplein Square"
+          },
+          "coords": [
+            5.553,
+            52.025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "De Oude Kerk",
+            "hu": "Oude Kerk (Régi templom)",
+            "ro": "Biserica Veche",
+            "en": "The Old Church"
+          },
+          "coords": [
+            5.5535,
+            52.0255
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Museum Veenendaal",
+            "hu": "Veenendaal Múzeum",
+            "ro": "Muzeul Veenendaal",
+            "en": "Museum Veenendaal"
+          },
+          "coords": [
+            5.554,
+            52.026
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die reiche Textil- und Zigarrengeschichte der Stadt zu entdecken.",
+            "hu": "Szánjon időt a város gazdag textil- és szivar-történetének felfedezésére.",
+            "ro": "Luați-vă timp pentru a explora bogata istorie textilă și a trabucurilor din oraș.",
+            "en": "Take your time to explore the city's rich history of textiles and cigars."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Natur: Kwintelooijen",
+            "hu": "Természeti klaszter: Kwintelooijen",
+            "ro": "Cluster Natură: Kwintelooijen",
+            "en": "Nature Cluster: Kwintelooijen"
+          },
+          "coords": [
+            5.6,
+            52.015
+          ],
+          "category": "natural features",
+          "arrive_at": "13:15",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0
+        },
+        {
+          "name": {
+            "de": "Cluster Mühle: Windkorenmolen De Vriendschap",
+            "hu": "Malom klaszter: De Vriendschap szélmalom",
+            "ro": "Cluster Moară: Moara De Vriendschap",
+            "en": "Mill Cluster: De Vriendschap Windmill"
+          },
+          "coords": [
+            5.548,
+            52.023
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:20",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein perfekter Abschluss des Tages, um das goldene Licht auf den Flügeln der Mühle zu sehen.",
+            "hu": "Tökéletes befejezése a napnak, ahogy az arany fények megcsillannak a malom lapátjain.",
+            "ro": "Un final perfect pentru o zi, surprinzând lumina aurie pe aripile morii.",
+            "en": "A perfect end to the day, catching the golden light on the mill's sails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Veenendaal und Umgebung in bequemen Clustern. Sie parken im Zentrum und entdecken zu Fuß das historische Herz mit dem Thoomesplein, der Kirche und dem Museum. Nach dem Mittagessen fahren Sie ins nahegelegene Naturschutzgebiet Kwintelooijen für einen ausgedehnten Spaziergang. Der Tag endet bei der Windmühle De Vriendschap, einem weiteren kurzen Halt, bevor Sie den Tag ausklingen lassen.",
+        "hu": "Autóval kényelmes klaszterekben fedezheti fel Veenendaalt és környékét. A központban parkolva gyalogosan járhatja be a történelmi belvárost a Thoomesplein térrel, a templommal és a múzeummal. Ebéd után a közeli Kwintelooijen természetvédelmi területre hajt, ahol egy hosszabb sétát tehet. A nap a De Vriendschap szélmalomnál ér véget, egy újabb rövid megállóval, mielőtt lezárná a napot.",
+        "ro": "Cu mașina, explorați Veenendaal și împrejurimile în grupuri convenabile. Parcați în centru și descoperiți pe jos inima istorică, cu Piața Thoomesplein, biserica și muzeul. După prânz, conduceți spre rezervația naturală din apropiere, Kwintelooijen, pentru o plimbare extinsă. Ziua se încheie la moara de vânt De Vriendschap, o altă oprire scurtă înainte de a încheia ziua.",
+        "en": "By car, you explore Veenendaal and its surroundings in convenient clusters. You'll park in the center and discover the historic heart on foot, including Thoomesplein, the church, and the museum. After lunch, you drive to the nearby Kwintelooijen nature reserve for an extended walk. The day concludes at the De Vriendschap windmill, another short stop before you call it a day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pannenkoekenhuis",
+            "tip": "Besuchen Sie ein Pfannkuchenhaus für eine herzhafte oder süße Mahlzeit."
+          },
+          {
+            "name": "Friet met satésaus",
+            "tip": "Pommes Frites mit einer würzigen Erdnusssauce, ein beliebter niederländischer Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pannenkoekenhuis",
+            "tip": "Látogasson el egy palacsintázóba egy sós vagy édes fogásért."
+          },
+          {
+            "name": "Friet met satésaus",
+            "tip": "Sült krumpli fűszeres mogyorószósszal, egy népszerű holland snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pannenkoekenhuis",
+            "tip": "Vizitați o casă de clătite pentru o masă sărată sau dulce."
+          },
+          {
+            "name": "Friet met satésaus",
+            "tip": "Cartofi prăjiți cu un sos picant de arahide, o gustare populară olandeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pannenkoekenhuis",
+            "tip": "Visit a pancake house for a savory or sweet meal."
+          },
+          {
+            "name": "Friet met satésaus",
+            "tip": "Fries with a spicy peanut sauce, a popular Dutch snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kwintelooijen",
+            "tip": "Fernab vom Stadtlärm, ideal für eine lange Wanderung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Julianapark",
+            "tip": "Ein kleinerer, ruhiger Park im Norden der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kwintelooijen",
+            "tip": "Távol a város zajától, ideális egy hosszú túrához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Julianapark",
+            "tip": "Egy kisebb, csendes park a város északi részén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kwintelooijen",
+            "tip": "Departe de zgomotul orașului, ideal pentru o drumeție lungă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Juliana",
+            "tip": "Un parc mai mic și liniștit în nordul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kwintelooijen",
+            "tip": "Away from the city noise, ideal for a long hike.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Julianapark",
+            "tip": "A smaller, quiet park in the north of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Möbelgeschäfte",
+            "tip": "Die Region ist bekannt für ihre vielen großen Möbelhäuser am Stadtrand."
+          },
+          {
+            "name": "Delikatessenläden",
+            "tip": "Kaufen Sie holländischen Käse, Wurst und andere Spezialitäten für zu Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bútorboltok",
+            "tip": "A régió ismert a város szélén található nagy bútoráruházairól."
+          },
+          {
+            "name": "Csemegeboltok",
+            "tip": "Vásároljon holland sajtot, kolbászt és más különlegességeket hazavitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de mobilă",
+            "tip": "Regiunea este cunoscută pentru numeroasele sale magazine mari de mobilă de la periferia orașului."
+          },
+          {
+            "name": "Delicatese",
+            "tip": "Cumpărați brânză olandeză, cârnați și alte specialități pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Furniture stores",
+            "tip": "The region is known for its many large furniture stores on the outskirts of the city."
+          },
+          {
+            "name": "Delicatessen shops",
+            "tip": "Buy Dutch cheese, sausages, and other specialties to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Ride-Möglichkeiten, wenn verfügbar.",
+          "Achten Sie auf Radfahrer, die immer Vorrang haben.",
+          "Planen Sie Ihre Route im Voraus, um Staus zu vermeiden."
+        ],
+        "hu": [
+          "Használja a P+R parkolókat, ha elérhetők.",
+          "Vigyázzon a kerékpárosokra, akiknek mindig elsőbbségük van.",
+          "Tervezze meg előre az útvonalat a forgalmi dugók elkerülése érdekében."
+        ],
+        "ro": [
+          "Utilizați facilitățile Park and Ride, dacă sunt disponibile.",
+          "Fiți atenți la bicicliști, care au întotdeauna prioritate.",
+          "Planificați-vă ruta în avans pentru a evita ambuteiajele."
+        ],
+        "en": [
+          "Use Park and Ride facilities if available.",
+          "Watch out for cyclists, who always have priority.",
+          "Plan your route in advance to avoid traffic jams."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Bushaltestelle Markt",
+            "hu": "Központi klaszter: Piac buszmegálló",
+            "ro": "Cluster Centru: Stația de autobuz Piața",
+            "en": "Center Cluster: Market Bus Stop"
+          },
+          "coords": [
+            5.5532,
+            52.0252
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Thoomesplein & De Oude Kerk",
+            "hu": "Thoomesplein és Oude Kerk",
+            "ro": "Piața Thoomesplein & Biserica Veche",
+            "en": "Thoomesplein & The Old Church"
+          },
+          "coords": [
+            5.5535,
+            52.0255
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "De Cultuurfabriek",
+            "hu": "De Cultuurfabriek",
+            "ro": "Fabrica de Cultură",
+            "en": "The Culture Factory"
+          },
+          "coords": [
+            5.552,
+            52.024
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Cluster Park: Stadspark",
+            "hu": "Park klaszter: Városi park",
+            "ro": "Cluster Parc: Parcul Orașului",
+            "en": "Park Cluster: Stadspark"
+          },
+          "coords": [
+            5.56,
+            52.028
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5
+        },
+        {
+          "name": {
+            "de": "Cluster Nord: Julianakerk",
+            "hu": "Északi klaszter: Julianakerk",
+            "ro": "Cluster Nord: Biserica Juliana",
+            "en": "North Cluster: Julianakerk"
+          },
+          "coords": [
+            5.55,
+            52.03
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:55",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur und die ruhige Atmosphäre dieser Kirche.",
+            "hu": "Csodálja meg a templom modern építészetét és nyugodt légkörét.",
+            "ro": "Admirați arhitectura modernă și atmosfera liniștită a acestei biserici.",
+            "en": "Admire the modern architecture and serene atmosphere of this church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln navigieren Sie effizient zwischen den Stadtteilen. Der Vormittag ist dem zentralen Cluster gewidmet, wo Sie die wichtigsten Sehenswürdigkeiten zu Fuß erreichen. Nach dem Mittagessen bringt Sie ein Bus zum Stadspark für eine ausgedehnte Pause im Grünen. Ein weiterer Bus bringt Sie am Nachmittag zum nördlichen Teil der Stadt, um die Julianakerk zu besichtigen, bevor Sie ins Zentrum zurückkehren.",
+        "hu": "Tömegközlekedéssel hatékonyan navigálhat a városrészek között. A délelőtt a központi klaszteré, ahol gyalogosan érheti el a főbb látnivalókat. Ebéd után egy busz viszi a Stadsparkba egy hosszabb zöld pihenőre. Délután egy másik buszjárattal juthat el a város északi részébe, hogy megnézze a Julianakerk templomot, mielőtt visszatérne a központba.",
+        "ro": "Folosind transportul public, navigați eficient între cartiere. Dimineața este dedicată clusterului central, unde puteți ajunge la principalele atracții pe jos. După prânz, un autobuz vă duce la Stadspark pentru o pauză extinsă în natură. Un alt autobuz vă va duce în partea de nord a orașului după-amiaza pentru a vizita Biserica Juliana înainte de a vă întoarce în centru.",
+        "en": "Using public transport, you navigate efficiently between districts. The morning is dedicated to the central cluster, where you can reach the main attractions on foot. After lunch, a bus takes you to the Stadspark for an extended green break. Another bus takes you to the northern part of the city in the afternoon to visit the Julianakerk before returning to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Broodje",
+            "tip": "Ein typisch holländisches Sandwich, reichlich belegt, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Vlaai",
+            "tip": "Ein süßer Kuchen, ursprünglich aus Limburg, aber in vielen Bäckereien erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Broodje",
+            "tip": "Egy tipikus, gazdagon megrakott holland szendvics, tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Vlaai",
+            "tip": "Édes pite, eredetileg Limburgból, de sok pékségben kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Broodje",
+            "tip": "Un sandviș tipic olandez, bogat umplut, perfect pentru un prânz rapid."
+          },
+          {
+            "name": "Vlaai",
+            "tip": "O plăcintă dulce, originară din Limburg, dar disponibilă în multe brutării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Broodje",
+            "tip": "A typical Dutch sandwich, generously filled, perfect for a quick lunch."
+          },
+          {
+            "name": "Vlaai",
+            "tip": "A sweet pie, originally from Limburg, but available in many bakeries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lesesaal in De Cultuurfabriek",
+            "tip": "Ein ruhiger Ort, um ein Buch zu lesen oder einfach nur zu entspannen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein Spaziergang durch das Wohngebiet bei der Julianakerk",
+            "tip": "Erleben Sie das alltägliche niederländische Leben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasóterem a De Cultuurfabriekben",
+            "tip": "Csendes hely egy könyv olvasásához vagy csak pihenéshez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Julianakerk környéki lakónegyedben",
+            "tip": "Tapasztalja meg a mindennapi holland életet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sala de lectură din De Cultuurfabriek",
+            "tip": "Un loc liniștit pentru a citi o carte sau pur și simplu pentru a vă relaxa.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O plimbare prin zona rezidențială de lângă Biserica Juliana",
+            "tip": "Experimentați viața de zi cu zi olandeză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading room in De Cultuurfabriek",
+            "tip": "A quiet place to read a book or just relax.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A walk through the residential area near Julianakerk",
+            "tip": "Experience everyday Dutch life.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Passage & Corridor",
+            "tip": "Zwei überdachte Einkaufszentren, ideal bei schlechtem Wetter."
+          },
+          {
+            "name": "Käseladen van der Vorm",
+            "tip": "Ein bekannter lokaler Laden für eine große Auswahl an holländischem Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Passage & Corridor",
+            "tip": "Két fedett bevásárlóközpont, ideális rossz idő esetén."
+          },
+          {
+            "name": "Van der Vorm sajtbolt",
+            "tip": "Egy ismert helyi bolt, ahol holland sajtok nagy választékát találja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Passage & Corridor",
+            "tip": "Două centre comerciale acoperite, ideale pe vreme rea."
+          },
+          {
+            "name": "Magazinul de brânzeturi Van der Vorm",
+            "tip": "Un magazin local renumit pentru o selecție largă de brânzeturi olandeze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Passage & Corridor",
+            "tip": "Two covered shopping centers, ideal for bad weather."
+          },
+          {
+            "name": "Van der Vorm Cheese Shop",
+            "tip": "A well-known local shop for a wide selection of Dutch cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Verwenden Sie eine App für öffentliche Verkehrsmittel, um Ihre Route in Echtzeit zu planen.",
+          "Beachten Sie, dass Busse möglicherweise nicht immer pünktlich sind."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Használjon tömegközlekedési alkalmazást az útvonal valós idejű tervezéséhez.",
+          "Vegye figyelembe, hogy a buszok nem mindig pontosak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Utilizați o aplicație de transport public pentru a vă planifica ruta în timp real.",
+          "Rețineți că autobuzele s-ar putea să nu fie întotdeauna la timp."
+        ],
+        "en": [
+          "Buy a day ticket for unlimited travel.",
+          "Use a public transport app to plan your route in real time.",
+          "Note that buses may not always be on time."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1447 @@
+{
+  "city_id": "ireland-donegal-cities-v2",
+  "anchor": {
+    "name": "Donegal",
+    "coords": [
+      -8.11,
+      54.652
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "The Diamond",
+            "hu": "The Diamond tér",
+            "ro": "Piața The Diamond",
+            "en": "The Diamond"
+          },
+          "coords": [
+            -8.1105,
+            54.6538
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der zentrale Punkt der Stadt, ideal für einen Kaffee am Morgen und um das Treiben zu beobachten.",
+            "hu": "A város központi pontja, ideális egy reggeli kávéhoz és a nyüzsgés megfigyeléséhez.",
+            "ro": "Punctul central al orașului, ideal pentru o cafea de dimineață și pentru a observa agitația.",
+            "en": "The central hub of the town, perfect for a morning coffee and people-watching."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patricks Kirche der Vier Meister",
+            "hu": "Szent Patrik és a Négy Mester temploma",
+            "ro": "Biserica Sf. Patrick a Celor Patru Maeștri",
+            "en": "St. Patrick's Church of the Four Masters"
+          },
+          "coords": [
+            -8.109,
+            54.6545
+          ],
+          "category": "churches",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Buntglasfenster, die die Geschichte der Region darstellen.",
+            "hu": "Csodálja meg a lenyűgöző ólomüveg ablakokat, amelyek a régió történelmét ábrázolják.",
+            "ro": "Admirați vitraliile impresionante care înfățișează istoria regiunii.",
+            "en": "Admire the impressive stained-glass windows depicting the region's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Donegal Castle",
+            "hu": "Donegal kastély",
+            "ro": "Castelul Donegal",
+            "en": "Donegal Castle"
+          },
+          "coords": [
+            -8.1115,
+            54.6535
+          ],
+          "category": "castles",
+          "arrive_at": "10:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die restaurierten Räume und die Geschichte des O'Donnell-Clans zu entdecken.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy felfedezze a felújított szobákat és az O'Donnell klán történetét.",
+            "ro": "Participați la un tur ghidat pentru a descoperi camerele restaurate și istoria clanului O'Donnell.",
+            "en": "Take a guided tour to fully appreciate the restored rooms and the history of the O'Donnell clan."
+          }
+        },
+        {
+          "name": {
+            "de": "Donegal Abbey",
+            "hu": "Donegal apátság",
+            "ro": "Abația Donegal",
+            "en": "Donegal Abbey"
+          },
+          "coords": [
+            -8.112,
+            54.65
+          ],
+          "category": "historical",
+          "arrive_at": "12:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Die Ruinen sind bei Sonnenuntergang besonders malerisch. Ein ruhiger Ort zum Nachdenken.",
+            "hu": "A romok naplementekor különösen festőiek. Csendes hely az elmélkedésre.",
+            "ro": "Ruinele sunt deosebit de pitorești la apus. Un loc liniștit pentru reflecție.",
+            "en": "The ruins are especially picturesque at sunset. A quiet spot for reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Donegal Railway Heritage Centre",
+            "hu": "Donegal Vasúti Örökségközpont",
+            "ro": "Centrul de Patrimoniu Feroviar Donegal",
+            "en": "Donegal Railway Heritage Centre"
+          },
+          "coords": [
+            -8.1065,
+            54.655
+          ],
+          "category": "museums",
+          "arrive_at": "13:19",
+          "stay_min": 70,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ideal für Familien. Probieren Sie den Zugsimulator aus für ein interaktives Erlebnis.",
+            "hu": "Családok számára ideális. Próbálja ki a vonatszimulátort egy interaktív élményért.",
+            "ro": "Ideal pentru familii. Încercați simulatorul de tren pentru o experiență interactivă.",
+            "en": "Great for families. Try the train simulator for an interactive experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Donegal Bay Waterbus",
+            "hu": "Donegal-öböl vízi busz",
+            "ro": "Waterbus-ul din Golful Donegal",
+            "en": "Donegal Bay Waterbus"
+          },
+          "coords": [
+            -8.1155,
+            54.6505
+          ],
+          "category": "natural features",
+          "arrive_at": "14:49",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Buchen Sie im Voraus, besonders im Sommer. Halten Sie Ausschau nach Robben!",
+            "hu": "Foglaljon előre, különösen nyáron. Figyelje a fókákat!",
+            "ro": "Rezervați în avans, mai ales vara. Fiți cu ochii pe foci!",
+            "en": "Book in advance, especially in summer. Keep an eye out for the seal colony!"
+          }
+        },
+        {
+          "name": {
+            "de": "O'Donnells Fort",
+            "hu": "O'Donnell erőd",
+            "ro": "Fortul O'Donnell",
+            "en": "O'Donnell's Fort"
+          },
+          "coords": [
+            -8.113,
+            54.651
+          ],
+          "category": "historical",
+          "arrive_at": "17:19",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Obwohl es sich um Ruinen handelt, bietet es einen Einblick in die militärische Vergangenheit der Region.",
+            "hu": "Bár csak romok, betekintést nyújt a régió katonai múltjába.",
+            "ro": "Deși sunt ruine, oferă o perspectivă asupra trecutului militar al regiunii.",
+            "en": "Though largely ruins, it offers a glimpse into the area's military past."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Donegal, The Diamond, bevor Sie die spirituelle Ruhe der St. Patrick's Church erleben. Tauchen Sie mittags in die Geschichte im Donegal Castle und der nahegelegenen Abtei ein. Der Nachmittag ist der Erkundung des Eisenbahnerbes der Stadt und einer unvergesslichen Bootsfahrt auf der Bucht gewidmet. Beenden Sie Ihren Spaziergang mit einem kurzen Blick auf die Überreste von O'Donnell's Fort und genießen Sie ein herzhaftes Abendessen.",
+        "hu": "Kezdje a napot Donegal szívében, a The Diamond téren, mielőtt megtapasztalná a Szent Patrik-templom spirituális nyugalmát. Délben merüljön el a történelemben a Donegal kastélyban és a közeli apátságban. A délután a város vasúti örökségének felfedezésével és egy felejthetetlen hajókirándulással telik az öbölben. Sétáját az O'Donnell erőd maradványainak rövid megtekintésével zárja, majd élvezzen egy kiadós vacsorát.",
+        "ro": "Începeți ziua în inima orașului Donegal, The Diamond, înainte de a experimenta liniștea spirituală a Bisericii Sf. Patrick. La prânz, pătrundeți în istorie la Castelul Donegal și la abația din apropiere. După-amiaza este dedicată explorării patrimoniului feroviar al orașului și unei plimbări de neuitat cu barca în golf. Încheiați plimbarea cu o scurtă privire la rămășițele Fortului O'Donnell și bucurați-vă de o cină copioasă.",
+        "en": "Start your day in the heart of Donegal, The Diamond, before taking in the spiritual calm of St. Patrick's Church. At midday, immerse yourself in history at Donegal Castle and the nearby Abbey. The afternoon is for exploring the town's railway heritage and an unforgettable boat trip on the bay. End your walking tour with a brief look at the remains of O'Donnell's Fort before enjoying a hearty dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seafood Chowder",
+            "tip": "Probieren Sie eine cremige Schüssel in einem Pub in der Nähe des Hafens."
+          },
+          {
+            "name": "Irish Stew",
+            "tip": "Ein klassisches, wärmendes Gericht, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Frischer Lachs aus der Bucht",
+            "tip": "Lokal gefangen und köstlich zubereitet in den meisten Restaurants."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei Chowder",
+            "tip": "Kóstoljon meg egy krémes tállevest egy kikötő közeli pubban."
+          },
+          {
+            "name": "Ír pörkölt",
+            "tip": "Klasszikus, melengető étel, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Friss lazac az öbölből",
+            "tip": "Helyben fogott és ízletesen elkészítve a legtöbb étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de fructe de mare",
+            "tip": "Încercați un bol cremos la un pub de lângă port."
+          },
+          {
+            "name": "Tocăniță irlandeză",
+            "tip": "Un fel de mâncare clasic, încălzitor, perfect după o plimbare lungă."
+          },
+          {
+            "name": "Somon proaspăt din golf",
+            "tip": "Capturat local și preparat delicios în majoritatea restaurantelor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Chowder",
+            "tip": "Try a creamy bowl at a pub near the harbour."
+          },
+          {
+            "name": "Irish Stew",
+            "tip": "A classic, warming dish perfect after a long walk."
+          },
+          {
+            "name": "Fresh Donegal Bay Salmon",
+            "tip": "Locally caught and deliciously prepared in most restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Eske",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses, der durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ruinen der Donegal Abbey",
+            "tip": "Ein ruhiger, historischer Ort mit Blick auf die Bucht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang über der Donegal Bay",
+            "tip": "Finden Sie einen Platz am Pier, um die spektakulären Farben zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eske folyó partja",
+            "tip": "Békés séta a városon átfolyó folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Donegal apátság romjai",
+            "tip": "Csendes, történelmi hely, kilátással az öbölre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a Donegal-öböl felett",
+            "tip": "Keressen egy helyet a mólón, és nézze a látványos színeket.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Eske",
+            "tip": "O plimbare liniștită de-a lungul râului care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ruinele Abației Donegal",
+            "tip": "Un loc istoric liniștit, cu vedere la golf.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare peste Golful Donegal",
+            "tip": "Găsiți un loc pe dig pentru a privi culorile spectaculoase.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the River Eske",
+            "tip": "A peaceful stroll along the river that runs through the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Donegal Abbey Ruins",
+            "tip": "A quiet, historic spot overlooking the bay.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset over Donegal Bay",
+            "tip": "Find a spot on the pier to watch the spectacular colours.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Donegal Tweed",
+            "tip": "Suchen Sie nach handgewebten Schals, Mützen oder Jacken in den Geschäften rund um The Diamond."
+          },
+          {
+            "name": "Handgefertigter Schmuck",
+            "tip": "Lokale Kunsthandwerker verkaufen einzigartige Stücke, die von keltischen Designs inspiriert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Donegal tweed",
+            "tip": "Keressen kézzel szőtt sálakat, sapkákat vagy zakókat a The Diamond körüli üzletekben."
+          },
+          {
+            "name": "Kézműves ékszerek",
+            "tip": "Helyi kézművesek árulnak egyedi, kelta minták által ihletett darabokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tweed de Donegal",
+            "tip": "Căutați eșarfe, șepci sau jachete țesute manual în magazinele din jurul The Diamond."
+          },
+          {
+            "name": "Bijuterii artizanale",
+            "tip": "Meșterii locali vând piese unice inspirate de designurile celtice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Donegal Tweed",
+            "tip": "Look for handwoven scarves, caps, or jackets in the shops around The Diamond."
+          },
+          {
+            "name": "Handmade Jewellery",
+            "tip": "Local artisans sell unique pieces inspired by Celtic designs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Eine leichte Regenjacke ist immer eine gute Idee, auch an sonnigen Tagen.",
+          "Prüfen Sie den Fahrplan des Waterbus im Voraus, da er sich je nach Gezeiten und Wetter ändern kann.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander, was Donegal zu einer idealen Wanderstadt macht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek.",
+          "Egy könnyű esőkabát mindig jó ötlet, még napos időben is.",
+          "Ellenőrizze előre a vízi busz menetrendjét, mert az az árapály és az időjárás függvényében változhat.",
+          "A legtöbb látnivaló közel van egymáshoz, így Donegal ideális gyalogos város."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pietrele pot fi denivelate.",
+          "O geacă subțire de ploaie este întotdeauna o idee bună, chiar și în zilele însorite.",
+          "Verificați programul Waterbus în avans, deoarece se poate schimba în funcție de maree și vreme.",
+          "Majoritatea atracțiilor sunt apropiate, făcând din Donegal un oraș ideal pentru plimbări."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "A light waterproof jacket is always a good idea, even on a sunny day.",
+          "Check the Waterbus schedule in advance as it can change depending on tides and weather.",
+          "Most attractions are located close to each other, making Donegal a perfect walking town."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "The Diamond",
+            "hu": "The Diamond tér",
+            "ro": "Piața The Diamond",
+            "en": "The Diamond"
+          },
+          "coords": [
+            -8.1105,
+            54.6538
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Fahrrad und genießen Sie einen Kaffee, bevor Sie losfahren.",
+            "hu": "Vegye át a kerékpárt, és igyon egy kávét, mielőtt elindul.",
+            "ro": "Luați-vă bicicleta și savurați o cafea înainte de a porni la drum.",
+            "en": "Pick up your bike and enjoy a coffee before you set off."
+          }
+        },
+        {
+          "name": {
+            "de": "Donegal Castle",
+            "hu": "Donegal kastély",
+            "ro": "Castelul Donegal",
+            "en": "Donegal Castle"
+          },
+          "coords": [
+            -8.1115,
+            54.6535
+          ],
+          "category": "castles",
+          "arrive_at": "09:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad draußen und erkunden Sie dieses restaurierte Juwel.",
+            "hu": "Parkolja le a kerékpárt kint, és fedezze fel ezt a felújított gyöngyszemet.",
+            "ro": "Parcați bicicleta afară și explorați această bijuterie restaurată.",
+            "en": "Park your bike outside and explore this restored gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Donegal Abbey",
+            "hu": "Donegal apátság",
+            "ro": "Abația Donegal",
+            "en": "Donegal Abbey"
+          },
+          "coords": [
+            -8.112,
+            54.65
+          ],
+          "category": "historical",
+          "arrive_at": "10:54",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Schloss entfernt, bieten die Ruinen einen friedlichen Kontrast.",
+            "hu": "Rövid biciklizésre a kastélytól, a romok békés kontrasztot kínálnak.",
+            "ro": "O scurtă plimbare cu bicicleta de la castel, ruinele oferă un contrast pașnic.",
+            "en": "A short ride from the castle, the ruins offer a peaceful contrast."
+          }
+        },
+        {
+          "name": {
+            "de": "Donegal Bay Waterbus Pier",
+            "hu": "Donegal-öböl vízi busz móló",
+            "ro": "Debarcaderul Waterbus din Golful Donegal",
+            "en": "Donegal Bay Waterbus Pier"
+          },
+          "coords": [
+            -8.1155,
+            54.6505
+          ],
+          "category": "port",
+          "arrive_at": "11:53",
+          "stay_min": 120,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie an Bord gehen. Die Tour ist eine großartige Pause vom Radfahren.",
+            "hu": "Zárja le biztonságosan a kerékpárt, mielőtt felszáll a hajóra. A túra remek pihenés a biciklizés után.",
+            "ro": "Asigurați-vă bicicleta înainte de a vă îmbarca. Turul este o pauză excelentă de la ciclism.",
+            "en": "Lock your bike securely before you board. The tour is a great break from cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Donegal Railway Heritage Centre",
+            "hu": "Donegal Vasúti Örökségközpont",
+            "ro": "Centrul de Patrimoniu Feroviar Donegal",
+            "en": "Donegal Railway Heritage Centre"
+          },
+          "coords": [
+            -8.1065,
+            54.655
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Fahren Sie vom Hafen ins Landesinnere, um die faszinierende Eisenbahngeschichte der Region zu entdecken.",
+            "hu": "Tekerjen a kikötőtől a szárazföld belseje felé, hogy felfedezze a régió lenyűgöző vasúttörténetét.",
+            "ro": "Pedalați în interior de la port pentru a descoperi istoria feroviară fascinantă a regiunii.",
+            "en": "Cycle inland from the harbour to discover the region's fascinating railway history."
+          }
+        },
+        {
+          "name": {
+            "de": "Rundfahrt um den äußeren Ring",
+            "hu": "Külső körút",
+            "ro": "Tur circular pe inelul exterior",
+            "en": "Outer Ring Scenic Ride"
+          },
+          "coords": [
+            -8.13,
+            54.66
+          ],
+          "category": "natural features",
+          "arrive_at": "15:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Eine längere Fahrt, um die Landschaft außerhalb der Stadt zu genießen.",
+            "hu": "Egy hosszabb út, hogy élvezze a városon kívüli tájat.",
+            "ro": "O plimbare mai lungă pentru a vă bucura de peisajul de dincolo de oraș.",
+            "en": "A longer ride to appreciate the countryside just outside the town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich am Morgen auf Ihr Fahrrad und erkunden Sie Donegals historisches Herz, vom Schloss bis zur Abtei. Genießen Sie zu Mittag eine erfrischende Bootsfahrt auf der Bucht, eine willkommene Pause für Ihre Beine. Am Nachmittag entdecken Sie die Eisenbahngeschichte, bevor Sie eine malerische Runde durch die wunderschöne Landschaft außerhalb der Stadt drehen. Schließen Sie den Tag mit dem Gefühl ab, sowohl die Kultur als auch die Natur von Donegal erlebt zu haben.",
+        "hu": "Pattanjon reggel biciklire, és fedezze fel Donegal történelmi szívét, a kastélytól az apátságig. Délben élvezzen egy frissítő hajókirándulást az öbölben, ami kellemes pihenést nyújt a lábainak. Délután fedezze fel a vasúttörténetet, mielőtt egy festői kört tenne a városon kívüli gyönyörű tájon. Zárja a napot azzal az érzéssel, hogy Donegal kultúráját és természetét egyaránt megtapasztalta.",
+        "ro": "Urcați-vă pe bicicletă dimineața și explorați inima istorică a Donegalului, de la castel la abație. La prânz, bucurați-vă de o excursie răcoritoare cu barca în golf, o pauză binevenită pentru picioare. După-amiaza, descoperiți istoria căilor ferate înainte de a face un tur pitoresc prin frumoasa zonă rurală din afara orașului. Încheiați ziua simțind că ați experimentat atât cultura, cât și natura din Donegal.",
+        "en": "Hop on your bike in the morning to explore Donegal's historic heart, from the castle to the abbey. At midday, enjoy a refreshing boat trip on the bay, a welcome rest for your legs. In the afternoon, discover the railway history before taking a scenic loop through the beautiful countryside just outside of town. End the day feeling you've experienced both the culture and nature of Donegal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein schnelles und leckeres Essen, das Sie am Pier genießen können."
+          },
+          {
+            "name": "Lokales Craft Beer",
+            "tip": "Belohnen Sie sich nach Ihrer Radtour mit einem Pint aus einer lokalen Brauerei."
+          },
+          {
+            "name": "Scones mit Marmelade und Sahne",
+            "tip": "Ein perfekter Nachmittagssnack in einem der vielen Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Gyors és ízletes ebéd, amit a mólón fogyaszthat el."
+          },
+          {
+            "name": "Helyi kézműves sör",
+            "tip": "Jutalmazza meg magát a kerékpártúra után egy korsóval egy helyi sörfőzdéből."
+          },
+          {
+            "name": "Scone lekvárral és tejszínnel",
+            "tip": "Tökéletes uzsonna az egyik kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește cu cartofi prăjiți",
+            "tip": "O masă rapidă și delicioasă de savurat pe dig."
+          },
+          {
+            "name": "Bere artizanală locală",
+            "tip": "Recompensați-vă cu o halbă de la o berărie locală după turul cu bicicleta."
+          },
+          {
+            "name": "Scones cu gem și frișcă",
+            "tip": "O gustare perfectă de după-amiază la una dintre numeroasele cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "A quick and delicious meal to enjoy by the pier."
+          },
+          {
+            "name": "Local Craft Beer",
+            "tip": "Reward yourself with a pint from a local brewery after your cycle."
+          },
+          {
+            "name": "Scones with Jam and Cream",
+            "tip": "A perfect afternoon pick-me-up at one of the many cafes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Eske",
+            "tip": "Eine sanfte Radtour abseits der Hauptstraßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt auf der Küstenstraße",
+            "tip": "Halten Sie an, um den Panoramablick auf die Bucht zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Donegal Abbey",
+            "tip": "Schließen Sie Ihr Fahrrad an und genießen Sie die Stille der Ruinen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eske folyó partja",
+            "tip": "Könnyed kerékpározás a főutaktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátópont a parti úton",
+            "tip": "Álljon meg, hogy megcsodálja az öböl panorámáját.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Donegal apátság",
+            "tip": "Zárja le a biciklit és élvezze a romok csendjét.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Eske",
+            "tip": "O plimbare ușoară cu bicicleta, departe de drumurile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere pe drumul de coastă",
+            "tip": "Opriți-vă pentru a admira priveliștea panoramică a golfului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Abația Donegal",
+            "tip": "Legați-vă bicicleta și bucurați-vă de liniștea ruinelor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the River Eske",
+            "tip": "A gentle cycle away from the main roads.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint on the coastal road",
+            "tip": "Stop to take in the panoramic views of the bay.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Donegal Abbey",
+            "tip": "Lock up your bike and enjoy the quiet of the ruins.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wollwaren aus Donegal",
+            "tip": "Suchen Sie nach authentischen Aran-Pullovern oder Decken, einem perfekten Souvenir."
+          },
+          {
+            "name": "Lokale Kunstgalerien",
+            "tip": "Entdecken Sie Gemälde und Drucke, die von der Landschaft Donegals inspiriert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Donegali gyapjúáruk",
+            "tip": "Keressen autentikus Aran-pulóvereket vagy takarókat, tökéletes szuvenír."
+          },
+          {
+            "name": "Helyi művészeti galériák",
+            "tip": "Fedezzen fel Donegal táj ihlette festményeket és nyomatokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole din lână de Donegal",
+            "tip": "Căutați pulovere sau pături Aran autentice, un suvenir perfect."
+          },
+          {
+            "name": "Galerii de artă locale",
+            "tip": "Descoperiți picturi și gravuri inspirate de peisajul din Donegal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Donegal Woollens",
+            "tip": "Look for authentic Aran sweaters or blankets, a perfect souvenir."
+          },
+          {
+            "name": "Local Art Galleries",
+            "tip": "Discover paintings and prints inspired by the Donegal landscape."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad von einem örtlichen Geschäft für die besten Routentipps.",
+          "Donegal hat einige Hügel, seien Sie also auf ein paar Anstiege vorbereitet.",
+          "Tragen Sie einen Helm und gut sichtbare Kleidung.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Sehenswürdigkeiten sicher abzustellen."
+        ],
+        "hu": [
+          "Béreljen kerékpárt egy helyi üzletben a legjobb útvonal-tippekért.",
+          "Donegalban vannak dombok, így készüljön fel néhány emelkedőre.",
+          "Viseljen sisakot és jól látható ruházatot.",
+          "Hozzon magával egy lakatot, hogy biztonságosan lezárhassa a kerékpárt a látnivalóknál."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la un magazin local pentru cele mai bune sfaturi de traseu.",
+          "Donegal are câteva dealuri, așa că fiți pregătiți pentru câteva urcări.",
+          "Purtați cască și haine cu vizibilitate ridicată.",
+          "Luați un lacăt pentru a vă asigura bicicleta la atracții."
+        ],
+        "en": [
+          "Rent a bike from a local shop for the best route advice.",
+          "Donegal has some hills, so be prepared for a few climbs.",
+          "Wear a helmet and high-visibility clothing.",
+          "Carry a lock to secure your bike at attractions."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 27.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Lough Eske",
+            "hu": "A klaszter: Lough Eske",
+            "ro": "Cluster A: Lough Eske",
+            "en": "Cluster A: Lough Eske"
+          },
+          "coords": [
+            -8.05,
+            54.7
+          ],
+          "category": "lake",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer malerischen Fahrt. Parken Sie und machen Sie einen Spaziergang am Seeufer.",
+            "hu": "Kezdje a napot egy festői autózással. Parkoljon le, és tegyen egy sétát a tó partján.",
+            "ro": "Începeți ziua cu o plimbare pitorească cu mașina. Parcați și faceți o plimbare pe malul lacului.",
+            "en": "Start your day with a scenic drive. Park and take a walk along the lough shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Wald von Ardnamona",
+            "hu": "Ardnamona erdei séta",
+            "ro": "Plimbare prin pădurea Ardnamona",
+            "en": "Ardnamona Wood Walk"
+          },
+          "coords": [
+            -8.055,
+            54.705
+          ],
+          "category": "forest",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptparkplatz des Sees entfernt. Ein magischer, moosbewachsener Wald.",
+            "hu": "Rövid séta a tó fő parkolójától. Varázslatos, mohás erdő.",
+            "ro": "O scurtă plimbare de la parcarea principală a lacului. O pădure magică, acoperită de mușchi.",
+            "en": "A short walk from the main lough parking area. A magical, moss-covered woodland."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Donegal Town Centre",
+            "hu": "B klaszter: Donegal városközpont",
+            "ro": "Cluster B: Centrul orașului Donegal",
+            "en": "Cluster B: Donegal Town Centre"
+          },
+          "coords": [
+            -8.1105,
+            54.6538
+          ],
+          "category": "squares",
+          "arrive_at": "12:01",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 14,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto für den Rest des Nachmittags und erkunden Sie die Stadt zu Fuß.",
+            "hu": "Parkolja le az autót a délután hátralévő részére, és fedezze fel a várost gyalog.",
+            "ro": "Parcați mașina pentru restul după-amiezii și explorați orașul pe jos.",
+            "en": "Park your car for the rest of the afternoon and explore the town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Donegal Castle",
+            "hu": "Donegal kastély",
+            "ro": "Castelul Donegal",
+            "en": "Donegal Castle"
+          },
+          "coords": [
+            -8.1115,
+            54.6535
+          ],
+          "category": "castles",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss, nur wenige Schritte vom Diamond entfernt. Planen Sie genügend Zeit für die Tour ein.",
+            "hu": "Kötelező látnivaló, csak pár lépésre a Diamond tértől. Szánjon elég időt a túrára.",
+            "ro": "O vizită obligatorie, la doar câțiva pași de The Diamond. Alocați suficient timp pentru tur.",
+            "en": "A must-see, just a few steps from The Diamond. Allow plenty of time for the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Donegal Abbey & Pier",
+            "hu": "Donegal apátság és móló",
+            "ro": "Abația și digul Donegal",
+            "en": "Donegal Abbey & Pier"
+          },
+          "coords": [
+            -8.112,
+            54.65
+          ],
+          "category": "historical",
+          "arrive_at": "14:13",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie vom Schloss hinunter, um die Ruinen zu sehen und die Meeresbrise am Pier zu genießen.",
+            "hu": "Sétáljon le a kastélytól, hogy megnézze a romokat, és élvezze a tengeri szellőt a mólónál.",
+            "ro": "Plimbați-vă de la castel pentru a vedea ruinele și a vă bucura de briza mării la dig.",
+            "en": "Stroll down from the castle to see the ruins and enjoy the sea breeze at the pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Zentrum von Donegal",
+            "hu": "Vacsora Donegal központjában",
+            "ro": "Cină în centrul orașului Donegal",
+            "en": "Dinner in Donegal Centre"
+          },
+          "coords": [
+            -8.11,
+            54.653
+          ],
+          "category": "gastro",
+          "arrive_at": "15:18",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einer köstlichen Mahlzeit, bevor Sie zu Ihrem Auto zurückkehren.",
+            "hu": "Zárja a napot egy finom étkezéssel, mielőtt visszatérne az autójához.",
+            "ro": "Încheiați ziua cu o masă delicioasă înainte de a vă întoarce la mașină.",
+            "en": "End your day with a delicious meal before heading back to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einer friedlichen Fahrt zum atemberaubenden Lough Eske, wo Sie die Natur bei einem Spaziergang am See und im Wald genießen. Am Mittag fahren Sie zurück ins geschäftige Zentrum von Donegal. Parken Sie Ihr Auto und tauchen Sie zu Fuß in die Geschichte ein, erkunden Sie das mächtige Schloss und die stimmungsvollen Abteiruinen. Der Nachmittag ist einem gemütlichen Spaziergang und einem frühen Abendessen in der Stadt gewidmet, das die Schönheit der Landschaft mit dem Charme der Stadt verbindet.",
+        "hu": "Autós napja egy békés utazással kezdődik a lenyűgöző Lough Eske-hez, ahol egy tóparti és erdei sétával élvezheti a természetet. Délben visszautazik Donegal nyüzsgő központjába. Parkolja le autóját, és merüljön el gyalog a történelemben, felfedezve a hatalmas kastélyt és a hangulatos apátsági romokat. A délután egy kényelmes sétával és egy korai vacsorával telik a városban, ötvözve a vidék szépségét a városi bájjal.",
+        "ro": "Ziua dvs. cu mașina începe cu o plimbare liniștită spre uimitorul Lough Eske, unde vă bucurați de natură cu o plimbare pe malul lacului și prin pădure. La prânz, vă întoarceți în centrul aglomerat al orașului Donegal. Parcați mașina și pătrundeți în istorie pe jos, explorând castelul impunător și ruinele atmosferice ale abației. După-amiaza este dedicată unei plimbări relaxante și unei cine timpurii în oraș, combinând frumusețea peisajului rural cu farmecul urban.",
+        "en": "Your car day begins with a peaceful drive to the stunning Lough Eske, embracing nature with a loughside and woodland walk. At midday, you'll drive back to the bustling centre of Donegal Town. Park your car and immerse yourself in history on foot, exploring the mighty castle and the atmospheric abbey ruins. The afternoon is for a leisurely stroll and an early dinner in town, blending countryside beauty with town charm."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sonntagsbraten in einem Landpub",
+            "tip": "Wenn Sie an einem Sonntag hier sind, suchen Sie nach einem Pub in der Nähe von Lough Eske."
+          },
+          {
+            "name": "Geräucherter Lachs",
+            "tip": "Probieren Sie lokal geräucherten Lachs, eine Delikatesse aus Donegal."
+          },
+          {
+            "name": "Boxty",
+            "tip": "Ein traditioneller irischer Kartoffelpfannkuchen, serviert in vielen Restaurants."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasárnapi sült egy vidéki pubban",
+            "tip": "Ha vasárnap látogat ide, keressen egy pubot Lough Eske közelében."
+          },
+          {
+            "name": "Füstölt lazac",
+            "tip": "Kóstolja meg a helyben füstölt lazacot, egy donegali finomságot."
+          },
+          {
+            "name": "Boxty",
+            "tip": "Hagyományos ír burgonyalepény, amelyet sok étteremben szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friptură de duminică la un pub de la țară",
+            "tip": "Dacă vizitați într-o duminică, căutați un pub lângă Lough Eske."
+          },
+          {
+            "name": "Somon afumat",
+            "tip": "Încercați somonul afumat local, o delicatesă din Donegal."
+          },
+          {
+            "name": "Boxty",
+            "tip": "O clătită tradițională irlandeză din cartofi, servită în multe restaurante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunday Roast at a country pub",
+            "tip": "If visiting on a Sunday, look for a pub near Lough Eske."
+          },
+          {
+            "name": "Smoked Salmon",
+            "tip": "Try locally smoked salmon, a Donegal delicacy."
+          },
+          {
+            "name": "Boxty",
+            "tip": "A traditional Irish potato pancake, served in many restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lough Eske",
+            "tip": "Sehr friedlich am frühen Morgen, bevor die Menschenmassen ankommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein versteckter Garten im Schlossgelände",
+            "tip": "Suchen Sie nach einem ruhigen Platz innerhalb der Schlossmauern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt auf der Fahrt von Lough Eske",
+            "tip": "Halten Sie an einem sicheren Ort an, um die Aussicht zurück zur Bucht zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lough Eske",
+            "tip": "Nagyon békés kora reggel, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett kert a kastély területén",
+            "tip": "Keressen egy csendes zugot a kastély falain belül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátó a Lough Eske-ből vezető úton",
+            "tip": "Álljon meg egy biztonságos helyen, hogy megcsodálja a kilátást az öbölre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lough Eske",
+            "tip": "Foarte liniștit dimineața devreme, înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O grădină ascunsă în incinta castelului",
+            "tip": "Căutați un loc liniștit în interiorul zidurilor castelului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere pe drumul de la Lough Eske",
+            "tip": "Opriți într-un loc sigur pentru a admira priveliștea spre golf.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lough Eske",
+            "tip": "Very peaceful in the early morning before the crowds arrive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A hidden garden in the castle grounds",
+            "tip": "Look for a quiet spot within the castle walls.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint on the drive from Lough Eske",
+            "tip": "Pull over in a safe spot to admire the view back towards the bay.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Donegal Craft Village",
+            "tip": "Eine kurze Autofahrt von der Stadt entfernt finden Sie eine Ansammlung von Kunsthandwerkerateliers."
+          },
+          {
+            "name": "The Donegal Shop",
+            "tip": "Ein One-Stop-Shop für alle Arten von irischen Souvenirs und Geschenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Donegal kézműves falu",
+            "tip": "Rövid autóútra a várostól található egy kézműves műhelyekből álló csoport."
+          },
+          {
+            "name": "The Donegal Shop",
+            "tip": "Egy hely, ahol mindenféle ír szuvenírt és ajándékot megtalál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Satul meșteșugăresc Donegal",
+            "tip": "La o scurtă distanță cu mașina de oraș, veți găsi un grup de ateliere de artizani."
+          },
+          {
+            "name": "Magazinul Donegal",
+            "tip": "Un magazin unic pentru tot felul de suveniruri și cadouri irlandeze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Donegal Craft Village",
+            "tip": "A short drive out of town, you'll find a collection of artisan studios."
+          },
+          {
+            "name": "The Donegal Shop",
+            "tip": "A one-stop-shop for all manner of Irish souvenirs and gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann im Sommer eine Herausforderung sein. Seien Sie geduldig oder nutzen Sie ausgewiesene Parkplätze.",
+          "Die Straßen um Lough Eske sind eng und kurvenreich, fahren Sie also vorsichtig.",
+          "Ein Auto gibt Ihnen die Freiheit, die wunderschöne Landschaft außerhalb der Stadtgrenzen zu erkunden.",
+          "Achten Sie auf Schafe auf der Straße in ländlicheren Gebieten."
+        ],
+        "hu": [
+          "A parkolás a városközpontban kihívást jelenthet nyáron. Legyen türelmes, vagy használja a kijelölt parkolókat.",
+          "A Lough Eske körüli utak keskenyek és kanyargósak, vezessen óvatosan.",
+          "Az autó szabadságot ad, hogy felfedezze a gyönyörű tájat a város határain túl.",
+          "Vigyázzon a juhokra az úton a vidéki területeken."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi o provocare vara. Aveți răbdare sau folosiți parcările desemnate.",
+          "Drumurile din jurul Lough Eske sunt înguste și șerpuite, așa că conduceți cu prudență.",
+          "O mașină vă oferă libertatea de a explora peisajul frumos din afara limitelor orașului.",
+          "Atenție la oi pe drum în zonele mai rurale."
+        ],
+        "en": [
+          "Parking in the town centre can be challenging in summer. Be patient or use designated car parks.",
+          "The roads around Lough Eske are narrow and winding, so drive with care.",
+          "A car gives you the freedom to explore the beautiful countryside outside the town limits.",
+          "Watch out for sheep on the road in more rural areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Donegal Town Centre",
+            "hu": "A klaszter: Donegal városközpont",
+            "ro": "Cluster A: Centrul orașului Donegal",
+            "en": "Cluster A: Donegal Town Centre"
+          },
+          "coords": [
+            -8.1105,
+            54.6538
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am The Diamond, dem wichtigsten Knotenpunkt für lokale Busse.",
+            "hu": "Kezdje a The Diamond téren, a helyi buszok fő csomópontjánál.",
+            "ro": "Începeți de la The Diamond, principalul nod pentru autobuzele locale.",
+            "en": "Start at The Diamond, the main hub for local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Donegal Castle",
+            "hu": "Donegal kastély",
+            "ro": "Castelul Donegal",
+            "en": "Donegal Castle"
+          },
+          "coords": [
+            -8.1115,
+            54.6535
+          ],
+          "category": "castles",
+          "arrive_at": "09:29",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang vom Busknotenpunkt. Erkunden Sie die reiche Geschichte.",
+            "hu": "Könnyű séta a buszmegállótól. Fedezze fel a gazdag történelmet.",
+            "ro": "O plimbare ușoară de la stația de autobuz. Explorați istoria bogată.",
+            "en": "An easy walk from the bus hub. Explore the rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patricks Kirche der Vier Meister",
+            "hu": "Szent Patrik és a Négy Mester temploma",
+            "ro": "Biserica Sf. Patrick a Celor Patru Maeștri",
+            "en": "St. Patrick's Church of the Four Masters"
+          },
+          "coords": [
+            -8.109,
+            54.6545
+          ],
+          "category": "churches",
+          "arrive_at": "10:57",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehen Sie zurück durch The Diamond, um diese wunderschöne Kirche zu besuchen.",
+            "hu": "Sétáljon vissza a The Diamond téren keresztül, hogy meglátogassa ezt a gyönyörű templomot.",
+            "ro": "Mergeți înapoi prin The Diamond pentru a vizita această biserică frumoasă.",
+            "en": "Walk back through The Diamond to visit this beautiful church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Pier & Bay",
+            "hu": "B klaszter: Móló és öböl",
+            "ro": "Cluster B: Dig și golf",
+            "en": "Cluster B: Pier & Bay"
+          },
+          "coords": [
+            -8.1155,
+            54.6505
+          ],
+          "category": "port",
+          "arrive_at": "12:05",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus oder ein Taxi für die kurze Fahrt zum Pier für die Waterbus-Tour.",
+            "hu": "Vegyen egy helyi buszt vagy taxit a rövid útra a mólóhoz a vízi busz túrához.",
+            "ro": "Luați un autobuz local sau un taxi pentru scurta călătorie până la debarcader pentru turul cu Waterbus.",
+            "en": "Take a local bus or taxi for the short trip to the pier for the Waterbus tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Donegal Abbey",
+            "hu": "Donegal apátság",
+            "ro": "Abația Donegal",
+            "en": "Donegal Abbey"
+          },
+          "coords": [
+            -8.112,
+            54.65
+          ],
+          "category": "historical",
+          "arrive_at": "14:13",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nach Ihrer Bootstour sind die Ruinen nur einen kurzen Spaziergang vom Pier entfernt.",
+            "hu": "A hajótúra után a romok csak egy rövid sétára vannak a mólótól.",
+            "ro": "După turul cu barca, ruinele se află la o scurtă plimbare de debarcader.",
+            "en": "After your boat tour, the ruins are just a short walk from the pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum The Diamond",
+            "hu": "Vissza a The Diamond térre",
+            "ro": "Înapoi la The Diamond",
+            "en": "Return to The Diamond"
+          },
+          "coords": [
+            -8.1105,
+            54.6538
+          ],
+          "category": "gastro",
+          "arrive_at": "15:19",
+          "stay_min": 110,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum für ein spätes Mittagessen oder einen frühen Abendessen.",
+            "hu": "Menjen busszal vissza a központba egy késői ebédre vagy korai vacsorára.",
+            "ro": "Luați un autobuz înapoi în centru pentru un prânz târziu sau o cină devreme.",
+            "en": "Take a bus back to the centre for a late lunch or early dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt mit der Erkundung des zu Fuß erreichbaren Zentrums von Donegal, einschließlich des Schlosses und der Kirche. Nehmen Sie mittags einen Bus zum Pier für eine aufregende Fahrt mit dem Waterbus, eine perfekte Möglichkeit, die Bucht zu sehen. Nach der Tour erkunden Sie die nahegelegenen Abteiruinen zu Fuß, bevor Sie mit dem Bus zurück ins Stadtzentrum fahren, um ein wohlverdientes Essen zu genießen. Dieser Plan maximiert Ihre Zeit und minimiert das Gehen über weite Strecken.",
+        "hu": "Tömegközlekedési napja Donegal gyalogosan bejárható központjának felfedezésével kezdődik, beleértve a kastélyt és a templomot. Délben szálljon buszra a mólóhoz egy izgalmas vízi buszos utazásra, amely tökéletes módja az öböl megtekintésének. A túra után fedezze fel gyalog a közeli apátsági romokat, mielőtt busszal visszatérne a városközpontba egy jól megérdemelt étkezésre. Ez a terv maximalizálja az idejét és minimalizálja a hosszú sétákat.",
+        "ro": "Ziua dvs. cu transportul public începe prin explorarea centrului pietonal al orașului Donegal, inclusiv castelul și biserica. La prânz, luați un autobuz spre debarcader pentru o excursie captivantă cu Waterbus, o modalitate perfectă de a vedea golful. După tur, explorați pe jos ruinele abației din apropiere, înainte de a lua un autobuz înapoi în centrul orașului pentru o masă binemeritată. Acest plan vă maximizează timpul și minimizează mersul pe jos pe distanțe lungi.",
+        "en": "Your transit day starts by exploring Donegal's walkable town centre, including the castle and church. At midday, catch a bus to the pier for a thrilling Waterbus trip, a perfect way to see the bay. After the tour, explore the nearby abbey ruins on foot before catching a bus back to the town centre for a well-deserved meal. This plan maximizes your time and minimizes long-distance walking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frisches Sandwich aus einem Delikatessengeschäft",
+            "tip": "Ein schnelles und einfaches Mittagessen, das Sie zwischen den Besichtigungen genießen können."
+          },
+          {
+            "name": "Carvery-Mittagessen in einem Hotel",
+            "tip": "Viele Hotels im Zentrum bieten ein herzhaftes Mittagsbuffet an."
+          },
+          {
+            "name": "Tasse Tee und Gebäck",
+            "tip": "Machen Sie eine Pause in einem der gemütlichen Cafés am The Diamond."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss szendvics egy deliből",
+            "tip": "Gyors és egyszerű ebéd, amelyet a látnivalók között fogyaszthat el."
+          },
+          {
+            "name": "Szeletelt húsos ebéd egy szállodában",
+            "tip": "Sok központi szálloda kínál bőséges svédasztalos ebédet."
+          },
+          {
+            "name": "Egy csésze tea és sütemény",
+            "tip": "Tartson szünetet a The Diamond egyik hangulatos kávézójában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș proaspăt de la o delicatesă",
+            "tip": "Un prânz rapid și ușor de savurat între vizite."
+          },
+          {
+            "name": "Prânz Carvery la un hotel",
+            "tip": "Multe hoteluri din centru oferă un prânz consistent tip bufet."
+          },
+          {
+            "name": "O ceașcă de ceai și o prăjitură",
+            "tip": "Faceți o pauză la una dintre cafenelele primitoare de pe The Diamond."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh sandwich from a deli",
+            "tip": "A quick and easy lunch to have between sightseeing."
+          },
+          {
+            "name": "Carvery lunch at a hotel",
+            "tip": "Many central hotels offer a hearty buffet-style lunch."
+          },
+          {
+            "name": "Cup of tea and a pastry",
+            "tip": "Take a break in one of the cosy cafes on The Diamond."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Auf dem Oberdeck des Waterbus",
+            "tip": "Genießen Sie die Brise und die weite Aussicht auf die Bucht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eine Bank am Fluss Eske",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt für einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof von St. Patrick's",
+            "tip": "Ein überraschend ruhiger Ort mitten in der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A vízi busz felső fedélzetén",
+            "tip": "Élvezze a szellőt és a tágas kilátást az öbölre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy pad az Eske folyó partján",
+            "tip": "Rövid séta a központtól egy csendes pillanatért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Szent Patrik-templom temetője",
+            "tip": "Meglepően csendes hely a város közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pe puntea superioară a Waterbus-ului",
+            "tip": "Bucurați-vă de briză și de priveliștile ample ale golfului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O bancă pe malul râului Eske",
+            "tip": "O scurtă plimbare din centru pentru un moment de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Bisericii Sf. Patrick",
+            "tip": "Un loc surprinzător de liniștit chiar în centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "On the top deck of the Waterbus",
+            "tip": "Enjoy the breeze and the wide-open views of the bay.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A bench by the River Eske",
+            "tip": "A short walk from the centre for a moment of peace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Patrick's Churchyard",
+            "tip": "A surprisingly quiet spot right in the middle of town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am The Diamond",
+            "tip": "Durchsuchen Sie die Geschäfte nach lokalen Handwerksprodukten, während Sie auf Ihren Bus warten."
+          },
+          {
+            "name": "Buchhandlung",
+            "tip": "Kaufen Sie ein Buch über irische Geschichte oder Folklore."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a The Diamond téren",
+            "tip": "Böngésszen a helyi kézműves termékek között, amíg a buszra vár."
+          },
+          {
+            "name": "Könyvesbolt",
+            "tip": "Vásároljon egy könyvet az ír történelemről vagy folklórról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe The Diamond",
+            "tip": "Răsfoiți magazinele de artizanat local în timp ce așteptați autobuzul."
+          },
+          {
+            "name": "Librărie",
+            "tip": "Luați o carte despre istoria sau folclorul irlandez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on The Diamond",
+            "tip": "Browse the shops for local crafts while waiting for your bus."
+          },
+          {
+            "name": "Bookshop",
+            "tip": "Pick up a book on Irish history or folklore."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Holen Sie sich einen lokalen Busfahrplan vom Tourismusbüro oder online.",
+          "Haben Sie Kleingeld für die Busfahrpreise dabei, obwohl einige möglicherweise kontaktlose Zahlungen akzeptieren.",
+          "Busse in ländlichen Gebieten fahren möglicherweise nicht häufig, planen Sie also entsprechend.",
+          "Die Kombination von kurzen Busfahrten mit Spaziergängen ist eine großartige Möglichkeit, Donegal zu sehen."
+        ],
+        "hu": [
+          "Szerezzen be egy helyi buszmenetrendet a turisztikai irodából vagy online.",
+          "Legyen aprópénz a buszjegyekhez, bár néhány helyen elfogadhatnak érintés nélküli fizetést is.",
+          "A vidéki területeken közlekedő buszok ritkábban járhatnak, ezért tervezzen ennek megfelelően.",
+          "A rövid buszutak és a séták kombinálása remek módja Donegal megtekintésének."
+        ],
+        "ro": [
+          "Obțineți un orar al autobuzelor locale de la biroul de turism sau online.",
+          "Aveți la îndemână bani mărunți pentru biletele de autobuz, deși unele pot accepta plăți contactless.",
+          "Autobuzele din zonele rurale pot circula mai rar, așa că planificați-vă în consecință.",
+          "Combinarea călătoriilor scurte cu autobuzul și a plimbărilor pe jos este o modalitate excelentă de a vedea Donegal."
+        ],
+        "en": [
+          "Get a local bus timetable from the tourist office or online.",
+          "Have small change ready for bus fares, although some may accept contactless payments.",
+          "Buses in rural areas may not be frequent, so plan accordingly.",
+          "Combining short bus journeys with walking is a great way to see Donegal."
+        ]
+      }
+    }
+  }
+}

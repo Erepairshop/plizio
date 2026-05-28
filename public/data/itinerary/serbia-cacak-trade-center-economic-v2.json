@@ -1,0 +1,1412 @@
+{
+  "city_id": "serbia-cacak-trade-center-economic-v2",
+  "anchor": {
+    "name": "Handelszentrum Čačak",
+    "coords": [
+      20.3547,
+      43.8925
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:04",
+      "total_km": 2.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Christi Himmelfahrt",
+            "hu": "Krisztus Mennybemenetele templom",
+            "ro": "Biserica Înălțarea Domnului",
+            "en": "Church of the Ascension of Christ"
+          },
+          "coords": [
+            20.3477,
+            43.8922
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden Fresken und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a lenyűgöző freskókat és a csendes légkört.",
+            "ro": "Observați frescele impresionante și atmosfera liniștită.",
+            "en": "Note the impressive frescoes and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Čačak",
+            "hu": "Čačaki Nemzeti Múzeum",
+            "ro": "Muzeul Național din Čačak",
+            "en": "National Museum of Čačak"
+          },
+          "coords": [
+            20.3485,
+            43.8931
+          ],
+          "category": "museums",
+          "arrive_at": "09:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die archäologische Abteilung, um die römische Vergangenheit zu sehen.",
+            "hu": "Koncentráljon a régészeti részlegre, hogy megismerje a római múltat.",
+            "ro": "Concentrați-vă pe secția de arheologie pentru a vedea trecutul roman.",
+            "en": "Focus on the archaeological department to see the Roman past."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstgalerie Nadežda Petrović",
+            "hu": "Nadežda Petrović Művészeti Galéria",
+            "ro": "Galeria de Artă Nadežda Petrović",
+            "en": "Art Gallery Nadežda Petrović"
+          },
+          "coords": [
+            20.3495,
+            43.8915
+          ],
+          "category": "museums",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Liebhaber der serbischen Kunst des 20. Jahrhunderts.",
+            "hu": "A 20. századi szerb művészet kedvelőinek kötelező.",
+            "ro": "O vizită obligatorie pentru iubitorii de artă sârbă din secolul XX.",
+            "en": "A must-see for lovers of 20th-century Serbian art."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Thermen",
+            "hu": "Római fürdők",
+            "ro": "Termele Romane",
+            "en": "Roman Thermae"
+          },
+          "coords": [
+            20.346,
+            43.891
+          ],
+          "category": "museums",
+          "arrive_at": "13:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stellen Sie sich das tägliche Leben im alten Rom an diesem gut erhaltenen Ort vor.",
+            "hu": "Képzelje el a mindennapi életet az ókori Rómában ezen a jól megőrzött helyen.",
+            "ro": "Imaginați-vă viața de zi cu zi în Roma antică la acest sit bine conservat.",
+            "en": "Imagine daily life in ancient Rome at this well-preserved site."
+          }
+        },
+        {
+          "name": {
+            "de": "Bezirkshauptmannschaft Gebäude",
+            "hu": "Járási Hivatal épülete",
+            "ro": "Clădirea Prefecturii Districtului",
+            "en": "District Office Building"
+          },
+          "coords": [
+            20.3505,
+            43.8928
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur, ein schönes Beispiel für den serbisch-byzantinischen Stil.",
+            "hu": "Csodálja meg az építészetet, a szerb-bizánci stílus szép példáját.",
+            "ro": "Admirați arhitectura, un exemplu frumos al stilului sârbo-bizantin.",
+            "en": "Admire the architecture, a fine example of the Serbo-Byzantine style."
+          }
+        },
+        {
+          "name": {
+            "de": "Tanasko Rajić Denkmal",
+            "hu": "Tanasko Rajić-emlékmű",
+            "ro": "Monumentul lui Tanasko Rajić",
+            "en": "Tanasko Rajić Monument"
+          },
+          "coords": [
+            20.3515,
+            43.894
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:43",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein wichtiger Ort, um über die serbische Geschichte und ihre Helden nachzudenken.",
+            "hu": "Fontos hely a szerb történelem és hősei feletti elmélkedéshez.",
+            "ro": "Un loc important pentru a reflecta asupra istoriei sârbe și a eroilor săi.",
+            "en": "An important spot to reflect on Serbian history and its heroes."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Jugend",
+            "hu": "Ifjúsági Park",
+            "ro": "Parcul Tineretului",
+            "en": "Youth Park"
+          },
+          "coords": [
+            20.355,
+            43.889
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine Pause am Nachmittag, beliebt bei Einheimischen.",
+            "hu": "Remek hely egy délutáni pihenőre, a helyiek körében népszerű.",
+            "ro": "Un loc minunat pentru o pauză de după-amiază, popular printre localnici.",
+            "en": "A great place for an afternoon break, popular with locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Morava Flussufer",
+            "hu": "Morava folyópart",
+            "ro": "Malul râului Morava",
+            "en": "Morava Riverbank"
+          },
+          "coords": [
+            20.36,
+            43.895
+          ],
+          "category": "natural features",
+          "arrive_at": "16:39",
+          "stay_min": 55,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang bei Sonnenuntergang für die beste Aussicht.",
+            "hu": "Sétáljon naplementekor a legjobb kilátásért.",
+            "ro": "Bucurați-vă de o plimbare la apus pentru cele mai bune priveliști.",
+            "en": "Enjoy a stroll at sunset for the best views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Čačak bei der Kirche Christi Himmelfahrt. Tauchen Sie mittags in die reiche Geschichte und Kunst ein, indem Sie das Nationalmuseum, die Nadežda Petrović Galerie und die antiken römischen Thermen besuchen. Am Nachmittag bewundern Sie architektonische Juwelen wie das Bezirkshauptmannschaftsgebäude und das Tanasko Rajić Denkmal. Beenden Sie Ihren Tag mit einer entspannenden Pause im Park der Jugend und einem malerischen Spaziergang am Ufer der Morava.",
+        "hu": "Kezdje a napot Čačak szívében, a Krisztus Mennybemenetele templomnál. Délben merüljön el a gazdag történelemben és művészetben a Nemzeti Múzeumban, a Nadežda Petrović Galériában és az ókori római fürdőknél. Délután csodálja meg az építészeti gyöngyszemeket, mint a Járási Hivatal épületét és a Tanasko Rajić-emlékművet. Zárja a napot egy pihentető szünettel az Ifjúsági Parkban és egy festői sétával a Morava folyó partján.",
+        "ro": "Începeți ziua în inima orașului Čačak, la Biserica Înălțarea Domnului. La prânz, scufundați-vă în istoria și arta bogată vizitând Muzeul Național, Galeria Nadežda Petrović și vechile Terme Romane. După-amiaza, admirați bijuterii arhitecturale precum Clădirea Prefecturii și Monumentul lui Tanasko Rajić. Încheiați ziua cu o pauză relaxantă în Parcul Tineretului și o plimbare pitorească de-a lungul malului râului Morava.",
+        "en": "Start your day in the heart of Čačak at the Church of the Ascension of Christ. At noon, dive into the rich history and art by visiting the National Museum, the Nadežda Petrović Gallery, and the ancient Roman Thermae. In the afternoon, admire architectural gems like the District Office Building and the Tanasko Rajić Monument. End your day with a relaxing break in the Youth Park and a scenic walk along the Morava riverbank."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Komplet lepinja",
+            "tip": "Ein herzhaftes lokales Frühstück, das Sie den ganzen Tag über sättigt."
+          },
+          {
+            "name": "Pečenje",
+            "tip": "Am Spieß gebratenes Schweine- oder Lammfleisch, eine serbische Spezialität."
+          },
+          {
+            "name": "Restoran Ater",
+            "tip": "Bietet traditionelle serbische Küche in einem gemütlichen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Komplet lepinja",
+            "tip": "Kiadós helyi reggeli, amely egész napra jóllakat."
+          },
+          {
+            "name": "Pečenje",
+            "tip": "Nyárson sült disznó- vagy bárányhús, egy szerb specialitás."
+          },
+          {
+            "name": "Ater Étterem",
+            "tip": "Hagyományos szerb ételeket kínál hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Komplet lepinja",
+            "tip": "Un mic dejun local consistent care vă va sătura pentru întreaga zi."
+          },
+          {
+            "name": "Pečenje",
+            "tip": "Carne de porc sau miel la proțap, o specialitate sârbească."
+          },
+          {
+            "name": "Restaurantul Ater",
+            "tip": "Oferă bucătărie tradițională sârbească într-un cadru primitor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Komplet lepinja",
+            "tip": "A hearty local breakfast that will keep you full all day."
+          },
+          {
+            "name": "Pečenje",
+            "tip": "Spit-roasted pork or lamb, a Serbian specialty."
+          },
+          {
+            "name": "Ater Restaurant",
+            "tip": "Offers traditional Serbian cuisine in a cozy setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Morava Flussufer",
+            "tip": "Ein ruhiger Spaziergang am Abend, um dem Stadtlärm zu entfliehen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Park der Jugend",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das Leben vor Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Morava folyópart",
+            "tip": "Egy csendes esti séta, hogy elmeneküljön a város zajától.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ifjúsági Park",
+            "tip": "Keressen egy csendes padot, és figyelje a helyi életet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Morava",
+            "tip": "O plimbare liniștită de seară pentru a scăpa de zgomotul orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Tineretului",
+            "tip": "Găsiți o bancă liniștită și priviți viața locală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Morava Riverbank",
+            "tip": "A quiet evening walk to escape the city noise.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Youth Park",
+            "tip": "Find a quiet bench and watch local life go by.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Grüner Markt (Zelena pijaca)",
+            "tip": "Kaufen Sie frische lokale Produkte, Käse und hausgemachten Rakija."
+          },
+          {
+            "name": "Souvenirläden in der Hauptstraße",
+            "tip": "Finden Sie traditionelle serbische Handwerkskunst und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zöld Piac (Zelena pijaca)",
+            "tip": "Vásároljon friss helyi termékeket, sajtot és házi pálinkát (rakija)."
+          },
+          {
+            "name": "Szuvírboltok a főutcán",
+            "tip": "Találjon hagyományos szerb kézműves termékeket és ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Verde (Zelena pijaca)",
+            "tip": "Cumpărați produse locale proaspete, brânză și rakija de casă."
+          },
+          {
+            "name": "Magazine de suveniruri pe strada principală",
+            "tip": "Găsiți meșteșuguri și suveniruri tradiționale sârbești."
+          }
+        ],
+        "en": [
+          {
+            "name": "Green Market (Zelena pijaca)",
+            "tip": "Shop for fresh local produce, cheese, and homemade rakija."
+          },
+          {
+            "name": "Souvenir shops on the main street",
+            "tip": "Find traditional Serbian crafts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Vigyen magával újratölthető vizes palackot.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați cu voi o sticlă de apă reutilizabilă.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Verificați în avans orele de funcționare ale muzeelor."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring a reusable water bottle.",
+          "Most city center sights are within easy walking distance.",
+          "Check museum opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 4.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Tanasko Rajić Denkmal",
+            "hu": "Tanasko Rajić-emlékmű",
+            "ro": "Monumentul lui Tanasko Rajić",
+            "en": "Tanasko Rajić Monument"
+          },
+          "coords": [
+            20.3515,
+            43.894
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein schneller Halt, um einem Nationalhelden zu huldigen.",
+            "hu": "Egy gyors megálló, hogy tisztelegjen egy nemzeti hős előtt.",
+            "ro": "O oprire rapidă pentru a aduce un omagiu unui erou național.",
+            "en": "A quick stop to pay homage to a national hero."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Christi Himmelfahrt",
+            "hu": "Krisztus Mennybemenetele templom",
+            "ro": "Biserica Înălțarea Domnului",
+            "en": "Church of the Ascension of Christ"
+          },
+          "coords": [
+            20.3477,
+            43.8922
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die spirituelle Kunst im Inneren bewundern.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt megcsodálná a spirituális művészetet.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra pentru a admira arta spirituală.",
+            "en": "Lock your bike securely before stepping inside to admire the spiritual art."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Čačak",
+            "hu": "Čačaki Nemzeti Múzeum",
+            "ro": "Muzeul Național din Čačak",
+            "en": "National Museum of Čačak"
+          },
+          "coords": [
+            20.3485,
+            43.8931
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine großartige Möglichkeit, ein oder zwei Stunden zu verbringen, um mehr über die Region zu erfahren.",
+            "hu": "Nagyszerű módja annak, hogy egy-két órát a régió megismerésével töltsön.",
+            "ro": "O modalitate excelentă de a petrece o oră sau două învățând despre regiune.",
+            "en": "A great way to spend an hour or two learning about the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Thermen",
+            "hu": "Római fürdők",
+            "ro": "Termele Romane",
+            "en": "Roman Thermae"
+          },
+          "coords": [
+            20.346,
+            43.891
+          ],
+          "category": "museums",
+          "arrive_at": "11:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Leicht mit dem Fahrrad erreichbar und ein faszinierender Einblick in die Vergangenheit.",
+            "hu": "Könnyen elérhető kerékpárral, és lenyűgöző bepillantást nyújt a múltba.",
+            "ro": "Ușor accesibil cu bicicleta și o privire fascinantă în trecut.",
+            "en": "Easily reachable by bike and a fascinating glimpse into the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstgalerie Nadežda Petrović",
+            "hu": "Nadežda Petrović Művészeti Galéria",
+            "ro": "Galeria de Artă Nadežda Petrović",
+            "en": "Art Gallery Nadežda Petrović"
+          },
+          "coords": [
+            20.3495,
+            43.8915
+          ],
+          "category": "museums",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie ein in die Welt einer der berühmtesten Künstlerinnen Serbiens.",
+            "hu": "Parkolja le a kerékpárt, és merüljön el Szerbia egyik leghíresebb művészének világában.",
+            "ro": "Parcați bicicleta și scufundați-vă în lumea uneia dintre cele mai faimoase artiste din Serbia.",
+            "en": "Park your bike and immerse yourself in the world of one of Serbia's most famous artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Jugend",
+            "hu": "Ifjúsági Park",
+            "ro": "Parcul Tineretului",
+            "en": "Youth Park"
+          },
+          "coords": [
+            20.355,
+            43.889
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Radtour durch den Park, bevor Sie für eine Pause anhalten.",
+            "hu": "Tegyen egy kört a parkban biciklivel, mielőtt megállna pihenni.",
+            "ro": "Faceți o tură cu bicicleta prin parc înainte de a vă opri pentru o pauză.",
+            "en": "Take a ride through the park before stopping for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Morava Flussufer",
+            "hu": "Morava folyópart",
+            "ro": "Malul râului Morava",
+            "en": "Morava Riverbank"
+          },
+          "coords": [
+            20.36,
+            43.895
+          ],
+          "category": "natural features",
+          "arrive_at": "15:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Radweg entlang des Flusses ist perfekt für eine entspannte Fahrt.",
+            "hu": "A folyó menti kerékpárút tökéletes egy nyugodt tekeréshez.",
+            "ro": "Pista de biciclete de-a lungul râului este perfectă pentru o plimbare relaxantă.",
+            "en": "The bike path along the river is perfect for a relaxing ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Bezirkshauptmannschaft Gebäude",
+            "hu": "Járási Hivatal épülete",
+            "ro": "Clădirea Prefecturii Districtului",
+            "en": "District Office Building"
+          },
+          "coords": [
+            20.3505,
+            43.8928
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:46",
+          "stay_min": 18,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein letzter Fotostopp, um die beeindruckende Architektur zu würdigen.",
+            "hu": "Egy utolsó fotómegálló, hogy megcsodálja a lenyűgöző építészetet.",
+            "ro": "O ultimă oprire foto pentru a aprecia arhitectura impresionantă.",
+            "en": "One last photo stop to appreciate the impressive architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Tanasko Rajić Denkmal und fahren Sie zum historischen Kern. Am Vormittag erkunden Sie die Kirche, das Nationalmuseum und die römischen Thermen. Nach dem Mittagessen besuchen Sie die Kunstgalerie Nadežda Petrović. Am Nachmittag genießen Sie eine entspannte Fahrt durch den Park der Jugend und entlang des malerischen Morava-Flussufers, bevor Sie zum beeindruckenden Bezirkshauptmannschaftsgebäude zurückkehren.",
+        "hu": "Kezdje a kerékpártúrát a Tanasko Rajić-emlékműnél, majd tekerjen a történelmi központ felé. Délelőtt fedezze fel a templomot, a Nemzeti Múzeumot és a római fürdőket. Ebéd után látogasson el a Nadežda Petrović Művészeti Galériába. Délután élvezze a nyugodt biciklizést az Ifjúsági Parkon keresztül és a festői Morava folyópart mentén, mielőtt visszatérne a lenyűgöző Járási Hivatal épületéhez.",
+        "ro": "Începeți turul cu bicicleta de la Monumentul lui Tanasko Rajić și îndreptați-vă spre nucleul istoric. Dimineața, explorați biserica, Muzeul Național și termele romane. După prânz, vizitați Galeria de Artă Nadežda Petrović. După-amiaza, bucurați-vă de o plimbare relaxantă prin Parcul Tineretului și de-a lungul pitorescului mal al râului Morava, înainte de a vă întoarce la impunătoarea Clădire a Prefecturii.",
+        "en": "Start your bike tour at the Tanasko Rajić Monument and head towards the historic core. In the morning, explore the church, the National Museum, and the Roman Thermae. After lunch, visit the Nadežda Petrović Art Gallery. In the afternoon, enjoy a relaxed ride through the Youth Park and along the scenic Morava riverbank before returning to the impressive District Office Building."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kajmak",
+            "tip": "Ein cremiges Milchprodukt, köstlich auf frischem Brot."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "Ein traditioneller Blätterteig mit Käse und Eiern, perfekt für einen schnellen Bissen."
+          },
+          {
+            "name": "Restoran Brown",
+            "tip": "Ein guter Ort für eine Pause mit moderner und traditioneller Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kajmak",
+            "tip": "Krémes tejtermék, finom friss kenyérrel."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "Hagyományos pite sajttal és tojással, tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Brown Étterem",
+            "tip": "Jó hely egy pihenőre, modern és hagyományos ételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kajmak",
+            "tip": "Un produs lactat cremos, delicios pe pâine proaspătă."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "O plăcintă tradițională cu brânză și ouă, perfectă pentru o gustare rapidă."
+          },
+          {
+            "name": "Restaurantul Brown",
+            "tip": "Un loc bun pentru o pauză, cu bucătărie modernă și tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kajmak",
+            "tip": "A creamy dairy product, delicious on fresh bread."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "A traditional pastry with cheese and eggs, perfect for a quick bite."
+          },
+          {
+            "name": "Brown Restaurant",
+            "tip": "A good spot for a break, with modern and traditional dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang des Morava-Flusses",
+            "tip": "Die Bewegung und die Naturgeräusche sind sehr beruhigend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Ecken im Park der Jugend",
+            "tip": "Abseits der Hauptwege finden Sie friedliche Plätze.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpározás a Morava folyó mentén",
+            "tip": "A mozgás és a természet hangjai nagyon megnyugtatóak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rejtett zugok az Ifjúsági Parkban",
+            "tip": "A fő utaktól távol békés helyeket találhat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu bicicleta de-a lungul râului Morava",
+            "tip": "Mișcarea și sunetele naturii sunt foarte liniștitoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colțuri ascunse în Parcul Tineretului",
+            "tip": "Departe de cărările principale, veți găsi locuri pașnice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ride along the Morava River",
+            "tip": "The movement and the sounds of nature are very calming.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden corners in the Youth Park",
+            "tip": "You can find peaceful spots away from the main paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Suchen Sie nach handgefertigter Keramik und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de artizanat",
+            "tip": "Căutați ceramică și textile lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local artisan shops",
+            "tip": "Look for handmade pottery and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Zustand des Fahrrads, bevor Sie losfahren.",
+          "Nehmen Sie ein Schloss mit, um das Fahrrad an den Haltestellen zu sichern.",
+          "Die Stadt ist relativ flach und daher gut zum Radfahren geeignet.",
+          "Achten Sie auf den Verkehr, besonders im Stadtzentrum."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát.",
+          "Vigyen magával lakatot a kerékpár lezárásához a megállóknál.",
+          "A város viszonylag sík, így kiválóan alkalmas kerékpározásra.",
+          "Vigyázzon a forgalomra, különösen a belvárosban."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni.",
+          "Luați un lacăt pentru a asigura bicicleta la opriri.",
+          "Orașul este relativ plat, ceea ce îl face bun pentru ciclism.",
+          "Fiți atenți la trafic, în special în centrul orașului."
+        ],
+        "en": [
+          "Check the condition of the bike before you start.",
+          "Bring a lock to secure the bike at stops.",
+          "The city is relatively flat, making it good for cycling.",
+          "Be mindful of traffic, especially in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 3.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Christi Himmelfahrt",
+            "hu": "Krisztus Mennybemenetele templom",
+            "ro": "Biserica Înălțarea Domnului",
+            "en": "Church of the Ascension of Christ"
+          },
+          "coords": [
+            20.3477,
+            43.8922
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum, dies ist Ihr erster Halt im historischen Kern.",
+            "hu": "Parkoljon a városközpontban, ez az első megálló a történelmi magban.",
+            "ro": "Parcați în centrul orașului, aceasta este prima dvs. oprire în nucleul istoric.",
+            "en": "Park in the city center, this is your first stop in the historic core."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Thermen",
+            "hu": "Római fürdők",
+            "ro": "Termele Romane",
+            "en": "Roman Thermae"
+          },
+          "coords": [
+            20.346,
+            43.891
+          ],
+          "category": "museums",
+          "arrive_at": "09:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche entfernt, lassen Sie das Auto geparkt.",
+            "hu": "Rövid séta a templomtól, hagyja az autót leparkolva.",
+            "ro": "O scurtă plimbare de la biserică, lăsați mașina parcată.",
+            "en": "A short walk from the church, leave the car parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Čačak",
+            "hu": "Čačaki Nemzeti Múzeum",
+            "ro": "Muzeul Național din Čačak",
+            "en": "National Museum of Čačak"
+          },
+          "coords": [
+            20.3485,
+            43.8931
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren historischen Spaziergang fort und entdecken Sie die Schätze der Region.",
+            "hu": "Folytassa a történelmi sétát, és fedezze fel a régió kincseit.",
+            "ro": "Continuați plimbarea istorică și descoperiți comorile regiunii.",
+            "en": "Continue your historical walk and discover the region's treasures."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstgalerie Nadežda Petrović",
+            "hu": "Nadežda Petrović Művészeti Galéria",
+            "ro": "Galeria de Artă Nadežda Petrović",
+            "en": "Art Gallery Nadežda Petrović"
+          },
+          "coords": [
+            20.3495,
+            43.8915
+          ],
+          "category": "museums",
+          "arrive_at": "12:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Museums-Cluster-Spaziergang mit moderner Kunst.",
+            "hu": "Zárja a múzeumi klaszter sétát modern művészettel.",
+            "ro": "Încheiați-vă plimbarea prin clusterul de muzee cu artă modernă.",
+            "en": "End your museum cluster walk with modern art."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Jugend",
+            "hu": "Ifjúsági Park",
+            "ro": "Parcul Tineretului",
+            "en": "Youth Park"
+          },
+          "coords": [
+            20.355,
+            43.889
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem Park und finden Sie einen neuen Parkplatz für den Erholungscluster.",
+            "hu": "Vezessen ehhez a parkhoz, és keressen egy új parkolóhelyet a rekreációs klaszterhez.",
+            "ro": "Conduceți la acest parc și găsiți un nou loc de parcare pentru clusterul de agrement.",
+            "en": "Drive to this park and find a new parking spot for the recreation cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Tanasko Rajić Denkmal",
+            "hu": "Tanasko Rajić-emlékmű",
+            "ro": "Monumentul lui Tanasko Rajić",
+            "en": "Tanasko Rajić Monument"
+          },
+          "coords": [
+            20.3515,
+            43.894
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:23",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park entfernt, eine Hommage an die lokale Geschichte.",
+            "hu": "Rövid séta a parktól, tiszteletadás a helyi történelemnek.",
+            "ro": "O scurtă plimbare de la parc, un omagiu adus istoriei locale.",
+            "en": "A short walk from the park, an homage to local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Morava Flussufer",
+            "hu": "Morava folyópart",
+            "ro": "Malul râului Morava",
+            "en": "Morava Riverbank"
+          },
+          "coords": [
+            20.36,
+            43.895
+          ],
+          "category": "natural features",
+          "arrive_at": "15:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang im zweiten Cluster mit einer friedlichen Zeit am Fluss.",
+            "hu": "Zárja a második klaszterben tett sétát egy békés időtöltéssel a folyónál.",
+            "ro": "Încheiați-vă plimbarea din al doilea cluster cu un moment de liniște lângă râu.",
+            "en": "End your walk in the second cluster with some peaceful time by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Bezirkshauptmannschaft Gebäude",
+            "hu": "Járási Hivatal épülete",
+            "ro": "Clădirea Prefecturii Districtului",
+            "en": "District Office Building"
+          },
+          "coords": [
+            20.3505,
+            43.8928
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:05",
+          "stay_min": 16,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter Blick auf dieses architektonische Meisterwerk, bevor Sie zum Auto zurückkehren.",
+            "hu": "Egy utolsó pillantás erre az építészeti remekműre, mielőtt visszatérne az autóhoz.",
+            "ro": "O ultimă privire la această capodoperă arhitecturală înainte de a vă întoarce la mașină.",
+            "en": "A final look at this architectural masterpiece before heading back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto im Zentrum und beginnen Sie Ihren Tag im historischen Cluster, beginnend mit der Kirche Christi Himmelfahrt. Erkunden Sie zu Fuß die römischen Thermen, das Nationalmuseum und die Kunstgalerie. Am Nachmittag fahren Sie zum zweiten Cluster, dem Erholungsgebiet. Parken Sie erneut und genießen Sie einen Spaziergang durch den Park der Jugend, zum Tanasko Rajić Denkmal und entlang des Morava-Flussufers. Der Tag endet mit einem letzten Blick auf das Bezirkshauptmannschaftsgebäude.",
+        "hu": "Parkolja le autóját a központban, és kezdje a napot a történelmi klaszterben, a Krisztus Mennybemenetele templommal. Fedezze fel gyalog a római fürdőket, a Nemzeti Múzeumot és a művészeti galériát. Délután vezessen át a második klaszterbe, a rekreációs területre. Parkoljon le újra, és élvezze a sétát az Ifjúsági Parkon keresztül, a Tanasko Rajić-emlékműhöz és a Morava folyó partján. A nap a Járási Hivatal épületének utolsó megtekintésével zárul.",
+        "ro": "Parcați mașina în centru și începeți ziua în clusterul istoric, pornind de la Biserica Înălțarea Domnului. Explorați pe jos termele romane, Muzeul Național și galeria de artă. După-amiaza, conduceți la al doilea cluster, zona de agrement. Parcați din nou și bucurați-vă de o plimbare prin Parcul Tineretului, la Monumentul lui Tanasko Rajić și de-a lungul malului râului Morava. Ziua se încheie cu o ultimă privire la Clădirea Prefecturii.",
+        "en": "Park your car in the center and start your day in the historic cluster, beginning with the Church of the Ascension. Explore the Roman Thermae, National Museum, and art gallery on foot. In the afternoon, drive to the second cluster, the recreational area. Park again and enjoy a walk through the Youth Park, to the Tanasko Rajić Monument, and along the Morava riverbank. The day concludes with a final look at the District Office Building."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Šljivovica (Pflaumenschnaps)",
+            "tip": "Probieren Sie den berühmten lokalen Brandy, aber seien Sie vorsichtig!"
+          },
+          {
+            "name": "Restoran Proleće",
+            "tip": "Ein traditionelles Restaurant, ideal für ein herzhaftes Mittagessen zwischen den Clustern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Šljivovica (szilvapálinka)",
+            "tip": "Kóstolja meg a híres helyi pálinkát, de csak óvatosan!"
+          },
+          {
+            "name": "Proleće Étterem",
+            "tip": "Hagyományos étterem, ideális egy kiadós ebédhez a klaszterek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șljivovița (rachiu de prune)",
+            "tip": "Încercați faimosul rachiu local, dar fiți prudenți!"
+          },
+          {
+            "name": "Restaurantul Proleće",
+            "tip": "Un restaurant tradițional, perfect pentru un prânz copios între clustere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Šljivovica (plum brandy)",
+            "tip": "Try the famous local brandy, but be careful!"
+          },
+          {
+            "name": "Proleće Restaurant",
+            "tip": "A traditional restaurant, perfect for a hearty lunch between clusters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank am Morava-Flussufer",
+            "tip": "Der perfekte Ort, um nach einem Tag voller Entdeckungen zur Ruhe zu kommen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Morava folyó partján",
+            "tip": "Tökéletes hely a pihenésre egy felfedezéssel teli nap után.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă pe malul râului Morava",
+            "tip": "Locul perfect pentru a vă relaxa după o zi de explorare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench on the Morava riverbank",
+            "tip": "The perfect spot to unwind after a day of exploring.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käse und Wurstwaren von lokalen Produzenten",
+            "tip": "Suchen Sie nach kleinen Läden außerhalb des Zentrums für authentische Aromen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajt és felvágottak helyi termelőktől",
+            "tip": "Keressen kis boltokat a központon kívül az autentikus ízekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânzeturi și mezeluri de la producătorii locali",
+            "tip": "Căutați magazine mici în afara centrului pentru arome autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese and cured meats from local producers",
+            "tip": "Look for small shops outside the center for authentic flavors."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann kostenpflichtig sein.",
+          "Planen Sie Ihre Route zwischen den Clustern, um Zeit zu sparen.",
+          "Das Auto gibt Ihnen die Flexibilität, auch nahegelegene Sehenswürdigkeiten außerhalb der Stadt zu besuchen (nicht in diesem Plan enthalten).",
+          "Beachten Sie die örtlichen Verkehrsregeln."
+        ],
+        "hu": [
+          "A belvárosi parkolás fizetős lehet.",
+          "Tervezze meg az útvonalat a klaszterek között, hogy időt takarítson meg.",
+          "Az autó rugalmasságot ad a városon kívüli közeli látnivalók meglátogatásához is (ebben a tervben nem szerepel).",
+          "Vegye figyelembe a helyi közlekedési szabályokat."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi contra cost.",
+          "Planificați-vă ruta între clustere pentru a economisi timp.",
+          "Mașina vă oferă flexibilitatea de a vizita și atracții din apropiere, în afara orașului (neincluse în acest plan).",
+          "Respectați regulile de circulație locale."
+        ],
+        "en": [
+          "Parking in the city center may require payment.",
+          "Plan your route between clusters to save time.",
+          "The car gives you the flexibility to visit nearby attractions outside the city (not included in this plan).",
+          "Be aware of local traffic regulations."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:22",
+      "total_km": 2.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Bezirkshauptmannschaft Gebäude",
+            "hu": "Járási Hivatal épülete",
+            "ro": "Clădirea Prefecturii Districtului",
+            "en": "District Office Building"
+          },
+          "coords": [
+            20.3505,
+            43.8928
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Busbahnhof, dieses Gebäude ist ein kurzer Spaziergang entfernt.",
+            "hu": "Kezdje a központi buszpályaudvarnál, ez az épület rövid sétára van.",
+            "ro": "Începeți de la autogara centrală, această clădire este la o scurtă plimbare.",
+            "en": "Start from the central bus station, this building is a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Christi Himmelfahrt",
+            "hu": "Krisztus Mennybemenetele templom",
+            "ro": "Biserica Înălțarea Domnului",
+            "en": "Church of the Ascension of Christ"
+          },
+          "coords": [
+            20.3477,
+            43.8922
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang, um Ihren ersten Cluster-Spaziergang zu beginnen.",
+            "hu": "Könnyű séta az első klaszter-séta megkezdéséhez.",
+            "ro": "O plimbare ușoară pentru a începe primul dvs. tur pietonal în cluster.",
+            "en": "An easy stroll to begin your first cluster walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum Čačak",
+            "hu": "Čačaki Nemzeti Múzeum",
+            "ro": "Muzeul Național din Čačak",
+            "en": "National Museum of Čačak"
+          },
+          "coords": [
+            20.3485,
+            43.8931
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich um die Ecke der Kirche, sehr praktisch.",
+            "hu": "A templom sarkánál, nagyon kényelmes.",
+            "ro": "Chiar la colțul bisericii, foarte convenabil.",
+            "en": "Just around the corner from the church, very convenient."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstgalerie Nadežda Petrović",
+            "hu": "Nadežda Petrović Művészeti Galéria",
+            "ro": "Galeria de Artă Nadežda Petrović",
+            "en": "Art Gallery Nadežda Petrović"
+          },
+          "coords": [
+            20.3495,
+            43.8915
+          ],
+          "category": "museums",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein weiterer kurzer Spaziergang, um Ihre Dosis Kultur zu vervollständigen.",
+            "hu": "Még egy rövid séta, hogy teljes legyen a kulturális adagja.",
+            "ro": "Încă o scurtă plimbare pentru a vă completa doza de cultură.",
+            "en": "Another short walk to complete your dose of culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Thermen",
+            "hu": "Római fürdők",
+            "ro": "Termele Romane",
+            "en": "Roman Thermae"
+          },
+          "coords": [
+            20.346,
+            43.891
+          ],
+          "category": "museums",
+          "arrive_at": "13:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den historischen Cluster-Spaziergang hier, bevor Sie einen Bus nehmen.",
+            "hu": "Itt fejezze be a történelmi klaszter sétát, mielőtt buszra szállna.",
+            "ro": "Încheiați plimbarea prin clusterul istoric aici înainte de a lua un autobuz.",
+            "en": "Finish the historical cluster walk here before catching a bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Jugend",
+            "hu": "Ifjúsági Park",
+            "ro": "Parcul Tineretului",
+            "en": "Youth Park"
+          },
+          "coords": [
+            20.355,
+            43.889
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Park. Steigen Sie aus und beginnen Sie Ihren zweiten Cluster-Spaziergang.",
+            "hu": "Szálljon helyi buszra a parkhoz. Szálljon le, és kezdje meg a második klaszter-sétát.",
+            "ro": "Luați un autobuz local spre parc. Coborâți și începeți al doilea tur pietonal în cluster.",
+            "en": "Take a local bus to the park. Get off and start your second cluster walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Morava Flussufer",
+            "hu": "Morava folyópart",
+            "ro": "Malul râului Morava",
+            "en": "Morava Riverbank"
+          },
+          "coords": [
+            20.36,
+            43.895
+          ],
+          "category": "natural features",
+          "arrive_at": "16:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Park zum Fluss, perfekt am späten Nachmittag.",
+            "hu": "Kellemes séta a parktól a folyóig, tökéletes késő délutánra.",
+            "ro": "O plimbare plăcută de la parc la râu, perfectă pentru după-amiaza târzie.",
+            "en": "A pleasant walk from the park to the river, perfect for the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Tanasko Rajić Denkmal",
+            "hu": "Tanasko Rajić-emlékmű",
+            "ro": "Monumentul lui Tanasko Rajić",
+            "en": "Tanasko Rajić Monument"
+          },
+          "coords": [
+            20.3515,
+            43.894
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr letzter Halt, bevor Sie zum Busbahnhof zurückkehren.",
+            "hu": "Az utolsó megálló, mielőtt visszatérne a buszpályaudvarra.",
+            "ro": "Ultima dvs. oprire înainte de a vă întoarce la autogară.",
+            "en": "Your final stop before heading back to the bus station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Zentrum von Čačak und erkunden Sie den ersten Cluster zu Fuß: das Bezirkshauptmannschaftsgebäude, die Kirche, Museen und römische Thermen. Am Nachmittag nehmen Sie einen Bus zum zweiten Cluster. Dort genießen Sie eine entspannende Zeit im Park der Jugend, am Morava-Flussufer und am Tanasko Rajić Denkmal, bevor Sie mit dem Bus ins Zentrum zurückkehren.",
+        "hu": "Kezdje a napot Čačak központjában, és fedezze fel az első klasztert gyalog: a Járási Hivatal épületét, a templomot, a múzeumokat és a római fürdőket. Délután szálljon buszra a második klaszterhez. Ott élvezze a pihentető időt az Ifjúsági Parkban, a Morava folyó partján és a Tanasko Rajić-emlékműnél, mielőtt busszal visszatérne a központba.",
+        "ro": "Începeți ziua în centrul orașului Čačak, explorând primul cluster pe jos: Clădirea Prefecturii, biserica, muzeele și termele romane. După-amiaza, luați un autobuz către al doilea cluster. Acolo, bucurați-vă de un moment de relaxare în Parcul Tineretului, pe malul râului Morava și la Monumentul lui Tanasko Rajić, înainte de a vă întoarce în centru cu autobuzul.",
+        "en": "Start your day in the center of Čačak, exploring the first cluster on foot: the District Office Building, the church, museums, and Roman thermae. In the afternoon, take a bus to the second cluster. There, enjoy some relaxing time in the Youth Park, the Morava riverbank, and at the Tanasko Rajić Monument before returning to the center by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "Ein beliebtes Gebäck, das Sie in Bäckereien (pekara) in der ganzen Stadt finden."
+          },
+          {
+            "name": "Sarajevski ćevap",
+            "tip": "Eine andere Variante von Ćevapi, die Sie probieren sollten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Népszerű péksütemény, amelyet a város pékségeiben (pekara) talál."
+          },
+          {
+            "name": "Sarajevski ćevap",
+            "tip": "A Ćevapi egy másik változata, amelyet érdemes megkóstolni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "O patiserie populară pe care o veți găsi în brutăriile (pekara) din tot orașul."
+          },
+          {
+            "name": "Sarajevski ćevap",
+            "tip": "O altă variantă de Ćevapi pe care ar trebui să o încercați."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "A popular pastry you'll find in bakeries (pekara) all over the city."
+          },
+          {
+            "name": "Sarajevski ćevap",
+            "tip": "A different variation of Ćevapi that you should try."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Inneres der Kirche Christi Himmelfahrt",
+            "tip": "Ein Moment der Stille und Besinnung abseits der Hektik.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krisztus Mennybemenetele templom belseje",
+            "tip": "A csend és az elmélkedés pillanata a nyüzsgéstől távol.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Interiorul Bisericii Înălțarea Domnului",
+            "tip": "Un moment de liniște și reflecție departe de agitație.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Inside the Church of the Ascension of Christ",
+            "tip": "A moment of silence and reflection away from the hustle.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Kioske",
+            "tip": "Ideal für den Kauf von Bustickets, Snacks und Getränken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis kioszkok",
+            "tip": "Ideális buszjegyek, rágcsálnivalók és italok vásárlásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri mici",
+            "tip": "Ideale pentru a cumpăra bilete de autobuz, gustări și băuturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small kiosks",
+            "tip": "Ideal for buying bus tickets, snacks, and drinks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar.",
+          "Fragen Sie Einheimische nach der richtigen Buslinie, wenn Sie unsicher sind.",
+          "Die meisten Busse akzeptieren Bargeld, aber es ist gut, Kleingeld zu haben.",
+          "Behalten Sie den Busfahrplan im Auge, besonders am Abend."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha elérhető.",
+          "Kérdezze meg a helyieket a megfelelő buszjáratról, ha bizonytalan.",
+          "A legtöbb busz elfogad készpénzt, de jó, ha van aprópénz.",
+          "Tartsa szemmel a buszmenetrendet, különösen este."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil.",
+          "Întrebați localnicii despre linia de autobuz corectă dacă nu sunteți sigur.",
+          "Majoritatea autobuzelor acceptă numerar, dar este bine să aveți bani mărunți.",
+          "Fiți atenți la orarul autobuzelor, mai ales seara."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available.",
+          "Ask locals for the correct bus line if you are unsure.",
+          "Most buses accept cash, but it's good to have small change.",
+          "Keep an eye on the bus schedule, especially in the evening."
+        ]
+      }
+    }
+  }
+}

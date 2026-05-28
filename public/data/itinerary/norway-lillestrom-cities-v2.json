@@ -1,0 +1,1086 @@
+{
+  "city_id": "norway-lillestrom-cities-v2",
+  "anchor": {
+    "name": "Lillestrøm",
+    "coords": [
+      11.04,
+      59.95
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 2.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Stortorget Platz",
+            "hu": "Stortorget tér",
+            "ro": "Piața Stortorget",
+            "en": "Stortorget Square"
+          },
+          "coords": [
+            11.0475,
+            59.9552
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie das Treiben vom Café Fuser am Rande des Platzes aus.",
+            "hu": "Figyelje a helyi életet a tér szélén található Fuser kávézóból.",
+            "ro": "Urmăriți agitația locală de la cafeneaua Fuser de la marginea pieței.",
+            "en": "Watch the local life unfold from the Fuser café on the edge of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Voldgata Straße",
+            "hu": "Voldgata utca",
+            "ro": "Strada Voldgata",
+            "en": "Voldgata Street"
+          },
+          "coords": [
+            11.0451,
+            59.9565
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die gut erhaltenen Holzhäuser, die typisch für die Region sind.",
+            "hu": "Keresse a jó állapotban megőrzött, régióra jellemző faházakat.",
+            "ro": "Căutați casele de lemn bine conservate, tipice regiunii.",
+            "en": "Look for the well-preserved wooden houses typical of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Lillestrøm Kirche",
+            "hu": "Lillestrømi templom",
+            "ro": "Biserica din Lillestrøm",
+            "en": "Lillestrøm Church"
+          },
+          "coords": [
+            11.0501,
+            59.9573
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der minimalistische Innenraum ist ein perfekter Ort für eine ruhige Einkehr.",
+            "hu": "A minimalista belső tér tökéletes hely egy csendes elmélyüléshez.",
+            "ro": "Interiorul minimalist este un loc perfect pentru reflecție liniștită.",
+            "en": "The minimalist interior is a perfect spot for quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Lillestrøm Kulturzentrum",
+            "hu": "Lillestrømi Kulturális Központ",
+            "ro": "Centrul Cultural Lillestrøm",
+            "en": "Lillestrøm Culture Centre"
+          },
+          "coords": [
+            11.0538,
+            59.9541
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm auf lokale Konzerte oder Ausstellungen.",
+            "hu": "Nézze meg a programot, hátha van egy helyi koncert vagy kiállítás.",
+            "ro": "Verificați programul pentru concerte sau expoziții locale.",
+            "en": "Check the schedule for any local concerts or exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebédszünet",
+            "ro": "Pauză de prânz",
+            "en": "Lunch Break"
+          },
+          "coords": [
+            11.0515,
+            59.9535
+          ],
+          "category": "gastro",
+          "arrive_at": "11:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie das Ristorante Mirchi für authentische italienische Küche.",
+            "hu": "Próbálja ki a Ristorante Mirchi éttermet egy autentikus olasz ebédért.",
+            "ro": "Încercați Ristorante Mirchi pentru o bucătărie italiană autentică.",
+            "en": "Try Ristorante Mirchi for some authentic Italian cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "NITJA Kunstzentrum",
+            "hu": "NITJA Művészeti Központ",
+            "ro": "Centrul de Artă NITJA",
+            "en": "NITJA Art Centre"
+          },
+          "coords": [
+            11.0559,
+            59.9529
+          ],
+          "category": "museums",
+          "arrive_at": "12:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Wechselausstellungen zeigen oft die Spitze der norwegischen Gegenwartskunst.",
+            "hu": "Az időszakos kiállítások gyakran a kortárs norvég művészet élvonalát mutatják be.",
+            "ro": "Expozițiile temporare prezintă adesea vârful de lance al artei contemporane norvegiene.",
+            "en": "The temporary exhibitions often feature the cutting edge of Norwegian contemporary art."
+          }
+        },
+        {
+          "name": {
+            "de": "Nebbenes",
+            "hu": "Nebbenes",
+            "ro": "Nebbenes",
+            "en": "Nebbenes"
+          },
+          "coords": [
+            11.0601,
+            59.9605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein beliebter Bade- und Erholungsort der Einheimischen.",
+            "hu": "A helyiek kedvelt fürdőző- és pihenőhelye.",
+            "ro": "Un loc popular pentru scăldat și recreere printre localnici.",
+            "en": "A popular bathing and recreation spot for the locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Fetveien Promenade",
+            "hu": "Fetveien sétány",
+            "ro": "Promenada Fetveien",
+            "en": "Fetveien Promenade"
+          },
+          "coords": [
+            11.0633,
+            59.9551
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Spaziergang am Flussufer, um den Tag ausklingen zu lassen.",
+            "hu": "Ideális folyóparti séta a nap lezárásaként.",
+            "ro": "O plimbare ideală pe malul râului pentru a încheia ziua.",
+            "en": "An ideal riverside walk to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Lillestrøm beginnt am lebhaften Stortorget, dem Herzen der Stadt. Von dort aus schlendern Sie durch die historischen Holzhausstraßen zur ruhigen Lillestrøm Kirche. Am Nachmittag tauchen Sie in die moderne Kunst im NITJA ein, bevor Sie am Flussufer entlang spazieren. Der Abend klingt bei einem entspannten Spaziergang entlang der Fetveien Promenade aus, wo die Natur der Stadt ganz nah ist.",
+        "hu": "A nap Lillestrøm nyüzsgő főterén, a Stortorgeten kezdődik. Innen a történelmi faházak között sétálva jut el a csendes lillestrømi templomhoz. Délután merüljön el a NITJA modern művészetében, majd tegyen egy sétát a folyóparton. Az estét egy pihentető sétával zárja a Fetveien sétányon, ahol a városi természet karnyújtásnyira van.",
+        "ro": "Ziua dvs. în Lillestrøm începe în vibranta Piață Stortorget, inima orașului. De acolo, vă plimbați pe străzile cu case istorice din lemn până la liniștita Biserică Lillestrøm. După-amiaza, vă cufundați în arta modernă la NITJA înainte de o plimbare pe malul râului. Seara se încheie cu o plimbare relaxantă de-a lungul Promenadei Fetveien, unde natura orașului este la îndemână.",
+        "en": "Your day in Lillestrøm starts at the vibrant Stortorget square, the heart of the city. From there, you'll stroll through historic streets with wooden houses to the serene Lillestrøm Church. In the afternoon, immerse yourself in modern art at NITJA before taking a walk along the river. The evening concludes with a relaxing stroll along the Fetveien Promenade, where the city's nature is within easy reach."
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Die meisten zentralen Sehenswürdigkeiten sind leicht zu Fuß erreichbar.",
+          "Ein Regenschirm ist in Norwegen immer eine gute Idee, auch im Sommer.",
+          "Nehmen Sie sich Zeit für eine Kaffeepause in einem der vielen gemütlichen Cafés."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében gyalogolni fog.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog.",
+          "Egy esernyő Norvégiában mindig jó ötlet, még nyáron is.",
+          "Szánjon időt egy kávészünetre a sok hangulatos kávézó egyikében."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos în cea mai mare parte a zilei.",
+          "Majoritatea atracțiilor centrale sunt ușor accesibile pe jos.",
+          "O umbrelă este întotdeauna o idee bună în Norvegia, chiar și vara.",
+          "Acordați-vă timp pentru o pauză de cafea la una dintre multele cafenele primitoare."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking for most of the day.",
+          "Most central attractions are within easy walking distance.",
+          "An umbrella is always a good idea in Norway, even in summer.",
+          "Take time for a coffee break in one of the many cozy cafes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 10.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Stortorget Platz",
+            "hu": "Stortorget tér",
+            "ro": "Piața Stortorget",
+            "en": "Stortorget Square"
+          },
+          "coords": [
+            11.0475,
+            59.9552
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekter Ausgangspunkt, um die Stadt mit dem Fahrrad zu erkunden.",
+            "hu": "Tökéletes kiindulópont a város kerékpáros felfedezéséhez.",
+            "ro": "Punct de plecare perfect pentru a explora orașul pe bicicletă.",
+            "en": "A perfect starting point to explore the city by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Lillestrøm Kirche",
+            "hu": "Lillestrømi templom",
+            "ro": "Biserica din Lillestrøm",
+            "en": "Lillestrøm Church"
+          },
+          "coords": [
+            11.0501,
+            59.9573
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:34",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Stille im Inneren.",
+            "hu": "Zárja le a kerékpárt és élvezze a csendet odabent.",
+            "ro": "Parcați bicicleta și bucurați-vă de liniștea din interior.",
+            "en": "Park your bike and enjoy the silence inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Åråsen Stadion",
+            "hu": "Åråsen Stadion",
+            "ro": "Stadionul Åråsen",
+            "en": "Åråsen Stadium"
+          },
+          "coords": [
+            11.0251,
+            59.9625
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:19",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Heimat des Lillestrøm SK. Ein Muss für Fußballfans.",
+            "hu": "A Lillestrøm SK otthona. Kötelező a focirajongóknak.",
+            "ro": "Casa echipei Lillestrøm SK. O vizită obligatorie pentru fanii fotbalului.",
+            "en": "Home of the Lillestrøm SK football club. A must-see for football fans."
+          }
+        },
+        {
+          "name": {
+            "de": "Norges Varemesse",
+            "hu": "Norges Varemesse kiállítási központ",
+            "ro": "Centrul Expozițional Norges Varemesse",
+            "en": "Norges Varemesse Exhibition Centre"
+          },
+          "coords": [
+            11.0508,
+            59.9471
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:01",
+          "stay_min": 20,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schauen Sie nach, ob während Ihres Besuchs eine interessante Messe stattfindet.",
+            "hu": "Nézze meg, nincs-e valamilyen érdekes vásár a látogatása alatt.",
+            "ro": "Verificați dacă are loc vreun târg interesant în timpul vizitei dumneavoastră.",
+            "en": "Check if there's an interesting trade fair during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebédszünet",
+            "ro": "Pauză de prânz",
+            "en": "Lunch Break"
+          },
+          "coords": [
+            11.0515,
+            59.9535
+          ],
+          "category": "gastro",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stärken Sie sich im 'Sultan' mit türkischen Spezialitäten.",
+            "hu": "Erősítsen a 'Sultan' étteremben török specialitásokkal.",
+            "ro": "Întăriți-vă cu specialități turcești la 'Sultan'.",
+            "en": "Recharge with some Turkish specialties at 'Sultan'."
+          }
+        },
+        {
+          "name": {
+            "de": "NITJA Kunstzentrum",
+            "hu": "NITJA Művészeti Központ",
+            "ro": "Centrul de Artă NITJA",
+            "en": "NITJA Art Centre"
+          },
+          "coords": [
+            11.0559,
+            59.9529
+          ],
+          "category": "museums",
+          "arrive_at": "12:53",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein architektonisches Juwel, das moderne Kunst beherbergt.",
+            "hu": "Építészeti gyöngyszem, amely modern művészetnek ad otthont.",
+            "ro": "O bijuterie arhitecturală care găzduiește artă modernă.",
+            "en": "An architectural gem housing modern art."
+          }
+        },
+        {
+          "name": {
+            "de": "Nebbenes",
+            "hu": "Nebbenes",
+            "ro": "Nebbenes",
+            "en": "Nebbenes"
+          },
+          "coords": [
+            11.0601,
+            59.9605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine kurze Pause und um die Füße im Wasser abzukühlen.",
+            "hu": "Tökéletes egy rövid pihenőre, és hogy lehűtse a lábát a vízben.",
+            "ro": "Perfect pentru o pauză scurtă și pentru a vă răcori picioarele în apă.",
+            "en": "Perfect for a short break and to cool your feet in the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Fetveien Promenade",
+            "hu": "Fetveien sétány",
+            "ro": "Promenada Fetveien",
+            "en": "Fetveien Promenade"
+          },
+          "coords": [
+            11.0633,
+            59.9551
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:39",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour entlang des Flusses ist besonders am späten Nachmittag schön.",
+            "hu": "A folyó menti kerékpártúra különösen szép késő délután.",
+            "ro": "Plimbarea cu bicicleta de-a lungul râului este deosebit de frumoasă după-amiaza târziu.",
+            "en": "The bike ride along the river is especially beautiful in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Stortorget. Die Tour führt Sie vorbei an der Kirche zum Åråsen Stadion, einem Heiligtum für Fußballfans. Nach einer Stippvisite bei der Norges Varemesse geht es zum Mittagessen. Der Nachmittag gehört der Kunst im NITJA und der Entspannung am Wasser in Nebbenes, bevor Sie den Tag mit einer gemütlichen Fahrt entlang der Fetveien Promenade ausklingen lassen.",
+        "hu": "Pattanjon kerékpárra a Stortorgeten. A túra a templom mellett elhaladva az Åråsen Stadionhoz vezet, amely a futballrajongók szentélye. A Norges Varemesse rövid megtekintése után ebéd következik. A délután a NITJA művészetéé és a Nebbenes vízparti pihenéséé, mielőtt egy kellemes tekeréssel zárná a napot a Fetveien sétányon.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Stortorget. Turul vă duce pe lângă biserică la Stadionul Åråsen, un sanctuar pentru fanii fotbalului. După o scurtă vizită la Norges Varemesse, este timpul pentru prânz. După-amiaza este dedicată artei la NITJA și relaxării pe malul apei la Nebbenes, înainte de a încheia ziua cu o plimbare plăcută de-a lungul Promenadei Fetveien.",
+        "en": "Hop on your bike and start at Stortorget square. The tour takes you past the church to Åråsen Stadium, a sanctuary for football fans. After a brief visit to Norges Varemesse, it's time for lunch. The afternoon is for art at NITJA and relaxing by the water at Nebbenes, before ending the day with a pleasant ride along the Fetveien Promenade."
+      },
+      "tips": {
+        "de": [
+          "Lillestrøm ist relativ flach und daher ideal zum Radfahren.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an belebten Orten.",
+          "Viele Wege entlang des Flusses sind für Radfahrer und Fußgänger gemeinsam.",
+          "Ein Helm wird für Ihre Sicherheit dringend empfohlen."
+        ],
+        "hu": [
+          "Lillestrøm viszonylag sík, ezért ideális a kerékpározáshoz.",
+          "Mindig gondosan zárja le a kerékpárt, különösen forgalmas helyeken.",
+          "Sok folyóparti út közös a kerékpárosok és a gyalogosok számára.",
+          "A bukósisak használata erősen ajánlott a biztonsága érdekében."
+        ],
+        "ro": [
+          "Lillestrøm este relativ plat și, prin urmare, ideal pentru ciclism.",
+          "Încuietăți întotdeauna bine bicicleta, mai ales în locurile aglomerate.",
+          "Multe cărări de-a lungul râului sunt comune pentru bicicliști și pietoni.",
+          "O cască este puternic recomandată pentru siguranța dumneavoastră."
+        ],
+        "en": [
+          "Lillestrøm is relatively flat, making it ideal for cycling.",
+          "Always lock your bike securely, especially in busy areas.",
+          "Many paths along the river are shared between cyclists and pedestrians.",
+          "A helmet is strongly recommended for your safety."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 21.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft in Cluster A: Lillestrøm Zentrum",
+            "hu": "Érkezés az A zónába: Lillestrøm központ",
+            "ro": "Sosire în Cluster A: Centrul Lillestrøm",
+            "en": "Arrival at Cluster A: Lillestrøm Center"
+          },
+          "coords": [
+            11.0538,
+            59.9541
+          ],
+          "category": "cluster_start",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Kulturzentrums, um den ersten Cluster zu erkunden.",
+            "hu": "Parkoljon a Kulturális Központ közelében az első zóna felfedezéséhez.",
+            "ro": "Parcați lângă Centrul Cultural pentru a explora primul cluster.",
+            "en": "Park near the Culture Centre to explore the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Stortorget & Voldgata",
+            "hu": "Stortorget és Voldgata",
+            "ro": "Piața Stortorget și Strada Voldgata",
+            "en": "Stortorget & Voldgata"
+          },
+          "coords": [
+            11.0475,
+            59.9552
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Hauptplatz und die angrenzende historische Straße zu Fuß.",
+            "hu": "Fedezze fel gyalog a főteret és a szomszédos történelmi utcát.",
+            "ro": "Explorați piața principală și strada istorică adiacentă pe jos.",
+            "en": "Explore the main square and the adjacent historic street on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Lillestrøm Kirche & Kulturzentrum",
+            "hu": "Lillestrømi templom és Kulturális Központ",
+            "ro": "Biserica și Centrul Cultural Lillestrøm",
+            "en": "Lillestrøm Church & Culture Centre"
+          },
+          "coords": [
+            11.0501,
+            59.9573
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:18",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Orte liegen nahe beieinander und sind leicht zu Fuß erreichbar.",
+            "hu": "Ez a két hely közel van egymáshoz, gyalog könnyen megközelíthető.",
+            "ro": "Aceste două locații sunt apropiate și ușor de accesat pe jos.",
+            "en": "These two locations are close to each other and easy to reach on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "NITJA Kunstzentrum",
+            "hu": "NITJA Művészeti Központ",
+            "ro": "Centrul de Artă NITJA",
+            "en": "NITJA Art Centre"
+          },
+          "coords": [
+            11.0559,
+            59.9529
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang durch das Zentrum mit einem Besuch dieses modernen Museums.",
+            "hu": "Zárja a belvárosi sétát a modern múzeum meglátogatásával.",
+            "ro": "Încheiați plimbarea prin centru cu o vizită la acest muzeu modern.",
+            "en": "End your walk through the center with a visit to this modern museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Cluster B: Fetsund Lenser",
+            "hu": "Utazás a B zónába: Fetsund Lenser",
+            "ro": "Călătorie spre Cluster B: Fetsund Lenser",
+            "en": "Drive to Cluster B: Fetsund Lenser"
+          },
+          "coords": [
+            11.168,
+            59.925
+          ],
+          "category": "museums",
+          "arrive_at": "13:09",
+          "stay_min": 120,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 9.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein faszinierendes Freilichtmuseum über die Geschichte der Flößerei. Planen Sie Zeit für das Mittagessen hier ein.",
+            "hu": "Lenyűgöző szabadtéri múzeum a faúsztatás történetéről. Tervezzen itt egy ebédet is.",
+            "ro": "Un muzeu fascinant în aer liber despre istoria plutăritului. Planificați-vă prânzul aici.",
+            "en": "A fascinating open-air museum about the history of timber floating. Plan to have lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Cluster C: Åråsen Stadion",
+            "hu": "Utazás a C zónába: Åråsen Stadion",
+            "ro": "Călătorie spre Cluster C: Stadionul Åråsen",
+            "en": "Drive to Cluster C: Åråsen Stadium"
+          },
+          "coords": [
+            11.0251,
+            59.9625
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:37",
+          "stay_min": 30,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 10.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Fotostopp am Stadion des lokalen Fußballvereins.",
+            "hu": "Tartson egy rövid fotómegállót a helyi focicsapat stadionjánál.",
+            "ro": "Faceți o scurtă oprire pentru fotografii la stadionul clubului local de fotbal.",
+            "en": "Make a quick photo stop at the local football club's stadium."
+          }
+        },
+        {
+          "name": {
+            "de": "Nebbenes & Flussufer",
+            "hu": "Nebbenes és a folyópart",
+            "ro": "Nebbenes și malul râului",
+            "en": "Nebbenes & Riverside"
+          },
+          "coords": [
+            11.0601,
+            59.9605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und machen Sie einen entspannten Spaziergang, um den Tag ausklingen zu lassen.",
+            "hu": "Parkoljon a közelben, és tegyen egy pihentető sétát a nap lezárásaként.",
+            "ro": "Parcați în apropiere și faceți o plimbare relaxantă pentru a încheia ziua.",
+            "en": "Park nearby and take a relaxing walk to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag nutzt Cluster für ein optimales Erlebnis. Sie parken im Zentrum von Lillestrøm und erkunden zu Fuß den Stortorget, die Kirche und das NITJA Kunstzentrum. Am Mittag fahren Sie zum einzigartigen Flößereimuseum Fetsund Lenser. Der Nachmittag führt Sie zum Åråsen Stadion und endet mit einem ruhigen Spaziergang am Nebbenes-Flussufer, nachdem Sie Ihr Auto ein letztes Mal geparkt haben.",
+        "hu": "Az autós nap klasztereket használ az optimális élmény érdekében. Parkoljon Lillestrøm központjában, és fedezze fel gyalog a Stortorgetet, a templomot és a NITJA Művészeti Központot. Délben vezessen el az egyedülálló Fetsund Lenser faúsztató múzeumhoz. A délután az Åråsen Stadionhoz vezet, és egy csendes sétával zárul a Nebbenes folyópartján, miután utoljára leparkolta az autót.",
+        "ro": "Ziua dvs. cu mașina folosește clustere pentru o experiență optimă. Parcați în centrul orașului Lillestrøm și explorați pe jos Piața Stortorget, biserica și Centrul de Artă NITJA. La prânz, conduceți la muzeul unic de plutărit Fetsund Lenser. După-amiaza vă duce la Stadionul Åråsen și se încheie cu o plimbare liniștită pe malul râului Nebbenes, după ce ați parcat mașina pentru ultima dată.",
+        "en": "Your car day uses clusters for an optimal experience. Park in the center of Lillestrøm and explore Stortorget square, the church, and the NITJA Art Centre on foot. At midday, drive to the unique Fetsund Lenser timber-floating museum. The afternoon takes you to Åråsen Stadium and ends with a quiet walk on the Nebbenes riverside after parking your car for the final time."
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren können im Zentrum anfallen.",
+          "Die Cluster-Walking-Methode spart Zeit bei der Parkplatzsuche.",
+          "Fetsund Lenser ist ein Highlight und die kurze Fahrt wert.",
+          "Überprüfen Sie die Öffnungszeiten der Museen, insbesondere von Fetsund Lenser."
+        ],
+        "hu": [
+          "A központban parkolási díjak merülhetnek fel.",
+          "A klaszteres gyaloglás módszerével időt takaríthat meg a parkolóhely-kereséssel.",
+          "A Fetsund Lenser egy kiemelt látnivaló, megéri a rövid utat.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, különösen a Fetsund Lenserét."
+        ],
+        "ro": [
+          "Se pot aplica taxe de parcare în centru.",
+          "Metoda de plimbare în cluster economisește timp la căutarea unui loc de parcare.",
+          "Fetsund Lenser este un punct culminant și merită scurta călătorie cu mașina.",
+          "Verificați orele de deschidere ale muzeelor, în special Fetsund Lenser."
+        ],
+        "en": [
+          "Parking fees may apply in the center.",
+          "The cluster-walking method saves time on finding parking spots.",
+          "Fetsund Lenser is a highlight and well worth the short drive.",
+          "Check the opening hours of the museums, especially Fetsund Lenser."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft in Cluster A: Lillestrøm Bahnhof",
+            "hu": "Érkezés az A zónába: Lillestrøm állomás",
+            "ro": "Sosire în Cluster A: Gara Lillestrøm",
+            "en": "Arrival at Cluster A: Lillestrøm Station"
+          },
+          "coords": [
+            11.0498,
+            59.9531
+          ],
+          "category": "cluster_start",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag direkt am Verkehrsknotenpunkt der Stadt.",
+            "hu": "Kezdje a napot közvetlenül a város közlekedési csomópontjánál.",
+            "ro": "Începeți-vă ziua chiar de la nodul de transport al orașului.",
+            "en": "Start your day right at the city's transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Stortorget & Voldgata",
+            "hu": "Stortorget és Voldgata",
+            "ro": "Piața Stortorget și Strada Voldgata",
+            "en": "Stortorget & Voldgata"
+          },
+          "coords": [
+            11.0475,
+            59.9552
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof führt Sie ins Herz der Stadt.",
+            "hu": "Egy rövid séta az állomástól a város szívébe vezet.",
+            "ro": "O scurtă plimbare de la gară vă duce în inima orașului.",
+            "en": "A short walk from the station takes you to the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Lillestrøm Kirche & Kulturzentrum",
+            "hu": "Lillestrømi templom és Kulturális Központ",
+            "ro": "Biserica și Centrul Cultural Lillestrøm",
+            "en": "Lillestrøm Church & Culture Centre"
+          },
+          "coords": [
+            11.0501,
+            59.9573
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:18",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieser Teil des Zentrums lässt sich am besten zu Fuß erkunden.",
+            "hu": "A központnak ezt a részét a legjobb gyalog felfedezni.",
+            "ro": "Această parte a centrului este cel mai bine explorată pe jos.",
+            "en": "This part of the center is best explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "NITJA Kunstzentrum",
+            "hu": "NITJA Művészeti Központ",
+            "ro": "Centrul de Artă NITJA",
+            "en": "NITJA Art Centre"
+          },
+          "coords": [
+            11.0559,
+            59.9529
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum ist der letzte Halt in diesem zentralen Rundgang.",
+            "hu": "A múzeum az utolsó állomás ezen a központi sétán.",
+            "ro": "Muzeul este ultima oprire în acest tur pietonal central.",
+            "en": "The museum is the final stop on this central walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Cluster B: Fetsund Lenser",
+            "hu": "Utazás a B zónába: Fetsund Lenser",
+            "ro": "Călătorie spre Cluster B: Fetsund Lenser",
+            "en": "Trip to Cluster B: Fetsund Lenser"
+          },
+          "coords": [
+            11.168,
+            59.925
+          ],
+          "category": "museums",
+          "arrive_at": "13:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Zug nach Fetsund. Das Museum ist vom Bahnhof aus zu Fuß erreichbar.",
+            "hu": "Vonatozzon Fetsundba. A múzeum sétatávolságra van az állomástól.",
+            "ro": "Luați trenul spre Fetsund. Muzeul se află la distanță de mers pe jos de gară.",
+            "en": "Take the train to Fetsund. The museum is within walking distance of the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Cluster C: Nebbenes",
+            "hu": "Utazás a C zónába: Nebbenes",
+            "ro": "Călătorie spre Cluster C: Nebbenes",
+            "en": "Trip to Cluster C: Nebbenes"
+          },
+          "coords": [
+            11.0601,
+            59.9605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein lokaler Bus bringt Sie von Lillestrøm Zentrum in die Nähe dieses Erholungsgebiets.",
+            "hu": "Helyi busszal juthat el Lillestrøm központjából a pihenőövezet közelébe.",
+            "ro": "Un autobuz local vă va duce din centrul Lillestrøm aproape de această zonă de recreere.",
+            "en": "A local bus will take you from Lillestrøm center close to this recreational area."
+          }
+        },
+        {
+          "name": {
+            "de": "Fetveien Promenade",
+            "hu": "Fetveien sétány",
+            "ro": "Promenada Fetveien",
+            "en": "Fetveien Promenade"
+          },
+          "coords": [
+            11.0633,
+            59.9551
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:03",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busstopp führt Sie zu dieser malerischen Promenade.",
+            "hu": "A buszmegállótól egy rövid sétával elérhető ez a festői sétány.",
+            "ro": "O scurtă plimbare de la stația de autobuz vă va duce la această promenadă pitorească.",
+            "en": "A short walk from the bus stop will take you to this scenic promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Lillestrøm effizient. Nach einem Spaziergang durch das Zentrum (Cluster A) bringt Sie der Zug zum beeindruckenden Fetsund Lenser Museum (Cluster B). Zurück in Lillestrøm nehmen Sie einen Bus zum Nebbenes (Cluster C), wo Sie den Tag mit einem Spaziergang am Flussufer abschließen. Diese Route kombiniert städtische Kultur mit einzigartigen lokalen Erlebnissen.",
+        "hu": "Tömegközlekedéssel hatékonyan fedezheti fel Lillestrømet. A központon (A zóna) keresztüli séta után a vonat elviszi a lenyűgöző Fetsund Lenser Múzeumba (B zóna). Visszatérve Lillestrømbe, busszal juthat el Nebbenesbe (C zóna), ahol a napot egy folyóparti sétával zárhatja. Ez az útvonal ötvözi a városi kultúrát az egyedi helyi élményekkel.",
+        "ro": "Explorați eficient Lillestrøm folosind transportul public. După o plimbare prin centru (Cluster A), trenul vă va duce la impresionantul Muzeu Fetsund Lenser (Cluster B). Înapoi în Lillestrøm, luați un autobuz spre Nebbenes (Cluster C), unde veți încheia ziua cu o plimbare pe malul râului. Acest traseu combină cultura urbană cu experiențe locale unice.",
+        "en": "Efficiently explore Lillestrøm using public transport. After a walk through the center (Cluster A), the train takes you to the impressive Fetsund Lenser Museum (Cluster B). Back in Lillestrøm, a bus takes you to Nebbenes (Cluster C), where you'll end the day with a riverside walk. This route combines urban culture with unique local experiences."
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel für das beste Preis-Leistungs-Verhältnis.",
+          "Überprüfen Sie die Fahrpläne für Züge und Busse im Voraus, insbesondere für Fetsund.",
+          "Die Ruter-App ist sehr nützlich für die Planung von Fahrten in Echtzeit.",
+          "Die Bahnhöfe und Bushaltestellen sind in der Regel gut ausgeschildert."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez a legjobb ár-érték arány érdekében.",
+          "Előre ellenőrizze a vonatok és buszok menetrendjét, különösen Fetsund felé.",
+          "A Ruter alkalmazás nagyon hasznos az utazások valós idejű tervezéséhez.",
+          "A vasútállomások és buszmegállók általában jól ki vannak táblázva."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru cel mai bun raport calitate-preț.",
+          "Verificați din timp orarele trenurilor și autobuzelor, în special pentru Fetsund.",
+          "Aplicația Ruter este foarte utilă pentru planificarea călătoriilor în timp real.",
+          "Gările și stațiile de autobuz sunt de obicei bine semnalizate."
+        ],
+        "en": [
+          "Purchase a day pass for public transport for the best value.",
+          "Check train and bus schedules in advance, especially for Fetsund.",
+          "The Ruter app is very useful for planning journeys in real-time.",
+          "Train stations and bus stops are generally well-signposted."
+        ]
+      }
+    }
+  },
+  "gastro_picks": {
+    "de": [
+      {
+        "name": "Fetsund Lenser Kafe",
+        "tip": "Traditionelle norwegische Waffeln mit einer Tasse Kaffee nach dem Museumsbesuch."
+      },
+      {
+        "name": "Casa Mia",
+        "tip": "Ein beliebtes Restaurant im Zentrum, bekannt für seine Pizza und gemütliche Atmosphäre."
+      },
+      {
+        "name": "Lokalmatbutikken",
+        "tip": "Kaufen Sie lokale Käsesorten und geräucherten Lachs für ein Picknick am Fluss."
+      }
+    ],
+    "hu": [
+      {
+        "name": "Fetsund Lenser Kafe",
+        "tip": "Hagyományos norvég gofri egy csésze kávéval a múzeumlátogatás után."
+      },
+      {
+        "name": "Casa Mia",
+        "tip": "Népszerű étterem a központban, pizzájáról és hangulatos légköréről ismert."
+      },
+      {
+        "name": "Lokalmatbutikken",
+        "tip": "Vásároljon helyi sajtokat és füstölt lazacot egy folyóparti piknikhez."
+      }
+    ],
+    "ro": [
+      {
+        "name": "Fetsund Lenser Kafe",
+        "tip": "Vafe tradiționale norvegiene cu o ceașcă de cafea după vizitarea muzeului."
+      },
+      {
+        "name": "Casa Mia",
+        "tip": "Un restaurant popular în centru, cunoscut pentru pizza și atmosfera sa primitoare."
+      },
+      {
+        "name": "Lokalmatbutikken",
+        "tip": "Cumpărați brânzeturi locale și somon afumat pentru un picnic pe malul râului."
+      }
+    ],
+    "en": [
+      {
+        "name": "Fetsund Lenser Kafe",
+        "tip": "Traditional Norwegian waffles with a cup of coffee after visiting the museum."
+      },
+      {
+        "name": "Casa Mia",
+        "tip": "A popular restaurant in the center, known for its pizza and cozy atmosphere."
+      },
+      {
+        "name": "Lokalmatbutikken",
+        "tip": "Buy local cheeses and smoked salmon for a riverside picnic."
+      }
+    ]
+  },
+  "quiet_picks": {
+    "de": [
+      {
+        "name": "Nebbenes Badeplatz",
+        "tip": "Ein ruhiger Ort am Wasser, um die Seele baumeln zu lassen, besonders außerhalb der Badesaison.",
+        "emoji": "🧘"
+      },
+      {
+        "name": "Spaziergang am Nitelva",
+        "tip": "Die Uferpromenade bietet viele ruhige Bänke mit Blick auf den Fluss.",
+        "emoji": "🏞️"
+      },
+      {
+        "name": "Inneres der Lillestrøm Kirche",
+        "tip": "Ein Ort der Stille und Kontemplation mitten in der Stadt.",
+        "emoji": "🍃"
+      }
+    ],
+    "hu": [
+      {
+        "name": "Nebbenes fürdőhely",
+        "tip": "Csendes hely a vízparton a kikapcsolódásra, különösen a fürdőszezonon kívül.",
+        "emoji": "🧘"
+      },
+      {
+        "name": "Séta a Nitelva folyó mentén",
+        "tip": "A parti sétányon sok csendes pad található, kilátással a folyóra.",
+        "emoji": "🏞️"
+      },
+      {
+        "name": "Lillestrømi templom belseje",
+        "tip": "A csend és az elmélyülés helye a város közepén.",
+        "emoji": "🍃"
+      }
+    ],
+    "ro": [
+      {
+        "name": "Zona de scăldat Nebbenes",
+        "tip": "Un loc liniștit lângă apă pentru a vă relaxa, mai ales în afara sezonului de scăldat.",
+        "emoji": "🧘"
+      },
+      {
+        "name": "Plimbare pe malul râului Nitelva",
+        "tip": "Promenada de pe malul apei oferă multe bănci liniștite cu vedere la râu.",
+        "emoji": "🏞️"
+      },
+      {
+        "name": "Interiorul Bisericii Lillestrøm",
+        "tip": "Un loc de liniște și contemplare în mijlocul orașului.",
+        "emoji": "🍃"
+      }
+    ],
+    "en": [
+      {
+        "name": "Nebbenes bathing spot",
+        "tip": "A quiet place by the water to relax your mind, especially outside the bathing season.",
+        "emoji": "🧘"
+      },
+      {
+        "name": "Walk along the Nitelva River",
+        "tip": "The riverside promenade offers many quiet benches with a view of the river.",
+        "emoji": "🏞️"
+      },
+      {
+        "name": "Inside Lillestrøm Church",
+        "tip": "A place of silence and contemplation in the middle of the city.",
+        "emoji": "🍃"
+      }
+    ]
+  },
+  "shopping_picks": {
+    "de": [
+      {
+        "name": "Lillestrøm Torv",
+        "tip": "Ein modernes Einkaufszentrum direkt im Zentrum mit einer Vielzahl von Geschäften."
+      },
+      {
+        "name": "Voldgata",
+        "tip": "Entlang dieser charmanten Straße finden Sie kleinere, unabhängige Boutiquen und Geschäfte."
+      },
+      {
+        "name": "Markttage am Stortorget",
+        "tip": "Informieren Sie sich über die Markttage, um lokale Produkte und Handwerk zu entdecken."
+      }
+    ],
+    "hu": [
+      {
+        "name": "Lillestrøm Torv",
+        "tip": "Modern bevásárlóközpont a központban, üzletek széles választékával."
+      },
+      {
+        "name": "Voldgata",
+        "tip": "Ezen a bájos utcán kisebb, független butikokat és üzleteket talál."
+      },
+      {
+        "name": "Piaci napok a Stortorgeten",
+        "tip": "Érdeklődjön a piaci napokról, hogy helyi termékeket és kézműves árukat fedezzen fel."
+      }
+    ],
+    "ro": [
+      {
+        "name": "Lillestrøm Torv",
+        "tip": "Un centru comercial modern chiar în centru, cu o varietate de magazine."
+      },
+      {
+        "name": "Voldgata",
+        "tip": "De-a lungul acestei străzi fermecătoare veți găsi buticuri și magazine mai mici, independente."
+      },
+      {
+        "name": "Zilele de piață în Stortorget",
+        "tip": "Interesați-vă de zilele de piață pentru a descoperi produse locale și artizanat."
+      }
+    ],
+    "en": [
+      {
+        "name": "Lillestrøm Torv",
+        "tip": "A modern shopping center right in the center with a variety of shops."
+      },
+      {
+        "name": "Voldgata",
+        "tip": "Along this charming street, you will find smaller, independent boutiques and shops."
+      },
+      {
+        "name": "Market days at Stortorget",
+        "tip": "Inquire about market days to discover local products and crafts."
+      }
+    ]
+  }
+}

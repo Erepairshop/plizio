@@ -1,0 +1,1508 @@
+{
+  "city_id": "szekszard",
+  "anchor": {
+    "name": "Szekszárd",
+    "coords": [
+      18.7,
+      46.35
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Garay-Platz",
+            "hu": "Garay tér",
+            "ro": "Piața Garay",
+            "en": "Garay Square"
+          },
+          "coords": [
+            18.705,
+            46.352
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Treiben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a tér nyüzsgését.",
+            "ro": "Începeți ziua aici cu o cafea, observând forfota locală.",
+            "en": "Start your day here with a coffee and watch the local bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "König-Béla-Platz",
+            "hu": "Béla király tér",
+            "ro": "Piața Regele Béla",
+            "en": "King Béla Square"
+          },
+          "coords": [
+            18.706,
+            46.354
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:43",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies ist das historische Herz der Stadt, umgeben von wichtigen Gebäuden.",
+            "hu": "Ez a város történelmi szíve, fontos épületekkel körülvéve.",
+            "ro": "Aceasta este inima istorică a orașului, înconjurată de clădiri importante.",
+            "en": "This is the historical heart of the city, surrounded by important buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Komitatshaus",
+            "hu": "Megyeháza",
+            "ro": "Casa Comitatului",
+            "en": "County Hall"
+          },
+          "coords": [
+            18.707,
+            46.3545
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Architektur und den beeindruckenden Innenhof.",
+            "hu": "Csodálja meg a neoklasszicista építészetet és a lenyűgöző belső udvart.",
+            "ro": "Admirați arhitectura neoclasică și curtea interioară impresionantă.",
+            "en": "Admire the neoclassical architecture and the impressive inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Mór-Wosinsky-Museum",
+            "hu": "Wosinsky Mór Megyei Múzeum",
+            "ro": "Muzeul Județean Wosinsky Mór",
+            "en": "Wosinsky Mór County Museum"
+          },
+          "coords": [
+            18.708,
+            46.356
+          ],
+          "category": "museums",
+          "arrive_at": "11:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die faszinierenden archäologischen Sammlungen ein.",
+            "hu": "Szánjon elég időt a lenyűgöző régészeti gyűjteményekre.",
+            "ro": "Planificați suficient timp pentru fascinantele colecții arheologice.",
+            "en": "Plan enough time for the fascinating archaeological collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinmuseum",
+            "hu": "Bor Múzeum",
+            "ro": "Muzeul Vinului",
+            "en": "Wine Museum"
+          },
+          "coords": [
+            18.698,
+            46.351
+          ],
+          "category": "museums",
+          "arrive_at": "12:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss, um die lokale Weinkultur zu verstehen. Eine Verkostung ist sehr zu empfehlen.",
+            "hu": "Kötelező program a helyi borkultúra megértéséhez. A kóstolót erősen ajánljuk.",
+            "ro": "O oprire obligatorie pentru a înțelege cultura locală a vinului. O degustare este foarte recomandată.",
+            "en": "A must-visit to understand the local wine culture. A tasting is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Mihály-Babits-Gedenkhaus",
+            "hu": "Babits Mihály Emlékház",
+            "ro": "Casa Memorială Mihály Babits",
+            "en": "Mihály Babits Memorial House"
+          },
+          "coords": [
+            18.695,
+            46.358
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben und Werk eines der größten ungarischen Dichter des 20. Jahrhunderts.",
+            "hu": "Ismerje meg a 20. század egyik legnagyobb magyar költőjének életét és munkásságát.",
+            "ro": "Descoperiți viața și opera unuia dintre cei mai mari poeți maghiari din secolul XX.",
+            "en": "Discover the life and work of one of the greatest 20th-century Hungarian poets."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarien-Aussichtsturm",
+            "hu": "Kálvária-kilátó",
+            "ro": "Turnul de belvedere Calvaria",
+            "en": "Calvary Lookout Tower"
+          },
+          "coords": [
+            18.702,
+            46.36
+          ],
+          "category": "natural features",
+          "arrive_at": "15:41",
+          "stay_min": 64,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick über die Stadt und die Weinberge.",
+            "hu": "A panorámás kilátásért a városra és a szőlőültetvényekre megéri a kaptatót.",
+            "ro": "Urcușul merită efortul pentru vederea panoramică asupra orașului și a podgoriilor.",
+            "en": "The climb is worth it for the panoramic view over the city and the vineyards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Szekszárd beginnt auf den belebten Plätzen Garay und Béla Király, dem historischen Kern der Stadt. Hier spüren Sie die Geschichte, während Sie die Fassade des neoklassizistischen Komitatshauses bewundern. Der Vormittag ist der Kultur gewidmet, mit einem tiefen Einblick in die reiche Vergangenheit der Region im Wosinsky Mór Museum. Nach dem Mittagessen tauchen Sie in die Welt des Weins im Weinmuseum ein, ein wesentlicher Bestandteil der Identität von Szekszárd. Der Nachmittag führt Sie auf die Spuren des berühmten Dichters Mihály Babits in seinem ehemaligen Wohnhaus. Den Abschluss bildet der Aufstieg zum Kalvarien-Aussichtsturm, von wo aus Sie einen atemberaubenden Blick über die Stadt und die sanften Hügel der Weinregion genießen, während die Sonne untergeht.",
+        "hu": "Szekszárdi napja a város történelmi magjában, a nyüzsgő Garay és Béla király tereken kezdődik. Itt átérezheti a történelem szellemét, miközben megcsodálja a neoklasszicista Megyeháza homlokzatát. A délelőtt a kultúráé, mélyreható betekintést nyerhet a régió gazdag múltjába a Wosinsky Mór Múzeumban. Ebéd után elmerülhet a bor világában a Bor Múzeumban, amely Szekszárd identitásának elengedhetetlen része. A délután a híres költő, Babits Mihály nyomába ered egykori lakóházában. A napot a Kálvária-kilátó megmászása zárja, ahonnan lélegzetelállító kilátás nyílik a városra és a borvidék lankáira, miközben a nap lenyugszik.",
+        "ro": "Ziua dvs. în Szekszárd începe în piețele pline de viață Garay și Regele Béla, nucleul istoric al orașului. Aici, simțiți istoria în timp ce admirați fațada neoclasică a Casei Comitatului. Dimineața este dedicată culturii, cu o incursiune profundă în trecutul bogat al regiunii la Muzeul Wosinsky Mór. După prânz, vă veți cufunda în lumea vinului la Muzeul Vinului, o parte esențială a identității Szekszárdului. După-amiaza vă poartă pe urmele celebrului poet Mihály Babits la fosta sa reședință. Ziua se încheie cu o urcare la Turnul de belvedere Calvaria, de unde vă puteți bucura de o priveliște uluitoare asupra orașului și a dealurilor domoale ale regiunii viticole la apus.",
+        "en": "Your day in Szekszárd begins in the bustling Garay and King Béla Squares, the city's historic core. Feel the history here as you admire the neoclassical facade of the County Hall. The morning is dedicated to culture, with a deep dive into the region's rich past at the Wosinsky Mór Museum. After lunch, immerse yourself in the world of wine at the Wine Museum, an essential part of Szekszárd's identity. The afternoon takes you into the footsteps of the famous poet Mihály Babits at his former residence. The day concludes with a climb to the Calvary Lookout Tower, where you can enjoy a breathtaking view over the city and the rolling hills of the wine region as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Szekszárdi Bikavér (Stierblut)",
+            "tip": "Probieren Sie diese kräftige Rotwein-Cuvée, das Flaggschiff der Region."
+          },
+          {
+            "name": "Halászlé (Fischsuppe)",
+            "tip": "Eine würzige, mit Paprika gewürzte Fischsuppe, oft mit Fisch aus der nahegelegenen Donau."
+          },
+          {
+            "name": "Aranykulacs Kisvendéglő",
+            "tip": "Ein traditionelles Restaurant, das für seine authentische ungarische Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szekszárdi Bikavér",
+            "tip": "Kóstolja meg ezt az erőteljes vörös cuvée-t, a régió zászlóshajóját."
+          },
+          {
+            "name": "Halászlé",
+            "tip": "Fűszeres, paprikás halászlé, gyakran a közeli Dunából származó halból."
+          },
+          {
+            "name": "Aranykulacs Kisvendéglő",
+            "tip": "Hagyományos étterem, amely autentikus magyar konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Szekszárdi Bikavér (Sânge de Taur)",
+            "tip": "Încercați acest cupaj de vin roșu corpolent, emblema regiunii."
+          },
+          {
+            "name": "Halászlé (Supă de pescar)",
+            "tip": "O supă de pește picantă, cu boia, adesea făcută cu pește din Dunărea din apropiere."
+          },
+          {
+            "name": "Aranykulacs Kisvendéglő",
+            "tip": "Un restaurant tradițional cunoscut pentru bucătăria sa maghiară autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Szekszárd Bull's Blood (Bikavér)",
+            "tip": "Try this robust red wine cuvée, the region's flagship."
+          },
+          {
+            "name": "Fisherman's Soup (Halászlé)",
+            "tip": "A spicy, paprika-infused fish soup, often made with fish from the nearby Danube."
+          },
+          {
+            "name": "Aranykulacs Kisvendéglő",
+            "tip": "A traditional restaurant known for its authentic Hungarian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang durch die Weinberge",
+            "tip": "Finden Sie Ruhe auf den Wegen, die die Stadt umgeben, besonders am späten Nachmittag.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "Babits Gedenkhaus Garten",
+            "tip": "Ein friedlicher Ort, um nach dem Museumsbesuch zu verweilen und nachzudenken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Kalvarienberg",
+            "tip": "Der perfekte Ort, um den Sonnenuntergang über der pannonischen Tiefebene zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a szőlőhegyen",
+            "tip": "Találjon nyugalmat a várost körülvevő ösvényeken, különösen késő délután.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "Babits Emlékház kertje",
+            "tip": "Békés hely a múzeumlátogatás utáni elidőzésre és elmélkedésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Kálváriáról",
+            "tip": "Tökéletes hely a naplemente megfigyelésére a Pannon-síkság felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare prin podgorii",
+            "tip": "Găsiți liniștea pe potecile din jurul orașului, mai ales după-amiaza târziu.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "Grădina Casei Memoriale Babits",
+            "tip": "Un loc pașnic pentru a zăbovi și a reflecta după vizitarea muzeului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliștea de pe Dealul Calvaria",
+            "tip": "Locul perfect pentru a privi apusul peste Câmpia Panonică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk in the vineyards",
+            "tip": "Find tranquility on the paths surrounding the city, especially in the late afternoon.",
+            "emoji": "🍇"
+          },
+          {
+            "name": "Babits Memorial House Garden",
+            "tip": "A peaceful spot to linger and reflect after visiting the museum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Calvary Hill",
+            "tip": "The perfect place to watch the sunset over the Pannonian Plain.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weinkeller (Borozó)",
+            "tip": "Kaufen Sie eine Flasche Szekszárdi Bikavér oder Kadarka direkt vom Erzeuger."
+          },
+          {
+            "name": "Paprika aus Kalocsa",
+            "tip": "Obwohl es nicht aus Szekszárd stammt, ist Paprika aus der nahen Region ein großartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borospincék (Borozó)",
+            "tip": "Vásároljon egy üveg Szekszárdi Bikavért vagy Kadarkát közvetlenül a termelőtől."
+          },
+          {
+            "name": "Kalocsai paprika",
+            "tip": "Bár nem szekszárdi, a közeli régióból származó paprika nagyszerű szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame locale (Borozó)",
+            "tip": "Cumpărați o sticlă de Szekszárdi Bikavér sau Kadarka direct de la producător."
+          },
+          {
+            "name": "Boia de Kalocsa",
+            "tip": "Deși nu este din Szekszárd, boiaua din regiunea apropiată este un suvenir excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine Cellars (Borozó)",
+            "tip": "Buy a bottle of Szekszárdi Bikavér or Kadarka directly from the producer."
+          },
+          {
+            "name": "Paprika from Kalocsa",
+            "tip": "Although not from Szekszárd, paprika from the nearby region is a great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum und die Hügel am besten zu Fuß erkundet werden.",
+          "Die meisten Sehenswürdigkeiten im Zentrum liegen nahe beieinander.",
+          "Planen Sie einen steilen, aber kurzen Aufstieg zum Kalvarien-Aussichtsturm ein.",
+          "Viele Weinkeller sind nur nachmittags geöffnet, prüfen Sie die Öffnungszeiten im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpontot és a dombokat a legjobb gyalog felfedezni.",
+          "A legtöbb központi látnivaló közel van egymáshoz.",
+          "Számítson egy meredek, de rövid emelkedőre a Kálvária-kilátóhoz.",
+          "Sok borospince csak délután tart nyitva, ellenőrizze előre a nyitvatartási időt."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului și dealurile sunt cel mai bine explorate pe jos.",
+          "Majoritatea atracțiilor din centru sunt aproape una de cealaltă.",
+          "Așteptați-vă la o urcare abruptă, dar scurtă, până la Turnul de belvedere Calvaria.",
+          "Multe crame sunt deschise doar după-amiaza, verificați programul în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center and hills are best explored on foot.",
+          "Most central sights are within close walking distance of each other.",
+          "Plan for a steep but short climb to the Calvary Lookout Tower.",
+          "Many wine cellars only open in the afternoon, check their hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 11.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Garay-Platz",
+            "hu": "Garay tér",
+            "ro": "Piața Garay",
+            "en": "Garay Square"
+          },
+          "coords": [
+            18.705,
+            46.352
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und genießen Sie einen Kaffee in einem der Cafés am Platz.",
+            "hu": "Zárja le a kerékpárt, és élvezzen egy kávét a tér egyik kávézójában.",
+            "ro": "Legați-vă bicicleta și savurați o cafea la una dintre cafenelele din piață.",
+            "en": "Lock up your bike and enjoy a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "König-Béla-Platz & Komitatshaus",
+            "hu": "Béla király tér és Megyeháza",
+            "ro": "Piața Regele Béla și Casa Comitatului",
+            "en": "King Béla Square & County Hall"
+          },
+          "coords": [
+            18.7065,
+            46.3542
+          ],
+          "category": "historical",
+          "arrive_at": "09:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die beeindruckende Architektur des historischen Zentrums zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja a történelmi központ lenyűgöző építészetét.",
+            "ro": "O oprire scurtă pentru a admira arhitectura impresionantă a centrului istoric.",
+            "en": "A quick stop to admire the impressive architecture of the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Lamm-Brunnen",
+            "hu": "Bárányos-kút",
+            "ro": "Fântâna Mielului",
+            "en": "Lamb's Well"
+          },
+          "coords": [
+            18.708,
+            46.35
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:19",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein charmantes, kleines Denkmal, perfekt für ein schnelles Foto.",
+            "hu": "Egy bájos kis emlékmű, tökéletes egy gyors fotóhoz.",
+            "ro": "Un monument mic și fermecător, perfect pentru o fotografie rapidă.",
+            "en": "A charming little monument, perfect for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Mór-Wosinsky-Museum",
+            "hu": "Wosinsky Mór Megyei Múzeum",
+            "ro": "Muzeul Județean Wosinsky Mór",
+            "en": "Wosinsky Mór County Museum"
+          },
+          "coords": [
+            18.708,
+            46.356
+          ],
+          "category": "museums",
+          "arrive_at": "10:42",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie ein in die Archäologie der Region.",
+            "hu": "Biztonságosan helyezze el a kerékpárt, és merüljön el a régió régészetében.",
+            "ro": "Parcați-vă bicicleta în siguranță și cufundați-vă în arheologia regiunii.",
+            "en": "Park your bike securely and delve into the region's archaeology."
+          }
+        },
+        {
+          "name": {
+            "de": "Mihály-Babits-Gedenkhaus",
+            "hu": "Babits Mihály Emlékház",
+            "ro": "Casa Memorială Mihály Babits",
+            "en": "Mihály Babits Memorial House"
+          },
+          "coords": [
+            18.695,
+            46.358
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg mit dem Fahrrad ist eine kleine Herausforderung, aber das Haus ist es wert.",
+            "hu": "A kerékpáros emelkedő egy kis kihívás, de a ház megéri.",
+            "ro": "Urcușul cu bicicleta este o mică provocare, dar casa merită efortul.",
+            "en": "The climb by bike is a small challenge, but the house is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarien-Aussichtsturm",
+            "hu": "Kálvária-kilátó",
+            "ro": "Turnul de belvedere Calvaria",
+            "en": "Calvary Lookout Tower"
+          },
+          "coords": [
+            18.702,
+            46.36
+          ],
+          "category": "natural features",
+          "arrive_at": "13:39",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad unten stehen und steigen Sie die Stufen für eine spektakuläre Aussicht hinauf.",
+            "hu": "Hagyja lent a kerékpárt, és másszon fel a lépcsőn a látványos kilátásért.",
+            "ro": "Lăsați bicicleta jos și urcați treptele pentru o priveliște spectaculoasă.",
+            "en": "Leave your bike at the bottom and climb the steps for a spectacular view."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinmuseum",
+            "hu": "Bor Múzeum",
+            "ro": "Muzeul Vinului",
+            "en": "Wine Museum"
+          },
+          "coords": [
+            18.698,
+            46.351
+          ],
+          "category": "museums",
+          "arrive_at": "14:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nach der Radtour ist es Zeit, sich mit einer Weinprobe zu belohnen.",
+            "hu": "A kerékpártúra után itt az ideje, hogy megjutalmazza magát egy borkóstolóval.",
+            "ro": "După turul cu bicicleta, este timpul să vă răsplătiți cu o degustare de vin.",
+            "en": "After the bike tour, it's time to reward yourself with a wine tasting."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Stadtzentrum",
+            "hu": "Vacsora a belvárosban",
+            "ro": "Cină în centrul orașului",
+            "en": "Dinner in the City Center"
+          },
+          "coords": [
+            18.7055,
+            46.3525
+          ],
+          "category": "gastro",
+          "arrive_at": "15:58",
+          "stay_min": 77,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem herzhaften ungarischen Essen in der Nähe des Garay-Platzes.",
+            "hu": "Zárja a napot egy kiadós magyar vacsorával a Garay tér közelében.",
+            "ro": "Încheiați ziua cu o masă maghiară copioasă lângă Piața Garay.",
+            "en": "End your day with a hearty Hungarian meal near Garay Square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel für eine Erkundungstour durch Szekszárd. Der Tag beginnt im Herzen der Stadt, an den Plätzen Garay und Béla Király. Mit dem Fahrrad geht es flott weiter zu kleinen Juwelen wie dem Lamm-Brunnen und dann zum kulturellen Höhepunkt im Wosinsky Mór Museum. Der Vormittag gipfelt in einem anspruchsvollen, aber lohnenden Anstieg zum Babits-Gedenkhaus. Nach einer wohlverdienten Mittagspause erobern Sie den Kalvarienberg für eine atemberaubende Panoramaaussicht. Der Nachmittag steht ganz im Zeichen des Weins: Sie rollen hinunter zum Weinmuseum für eine lehrreiche Verkostung, bevor Sie den Tag bei einem traditionellen Abendessen im Stadtzentrum ausklingen lassen.",
+        "hu": "Pattanjon nyeregbe Szekszárd felfedezéséhez! A nap a város szívében, a Garay és Béla király tereken indul. Kerékpárral gyorsan eljuthat olyan kis ékkövekhez, mint a Bárányos-kút, majd a kulturális csúcspontot jelentő Wosinsky Mór Múzeumhoz. A délelőtt egy kihívást jelentő, de hálás emelkedővel csúcsosodik ki a Babits Emlékházhoz. A jól megérdemelt ebédszünet után meghódítja a Kálvária-hegyet a lélegzetelállító panorámáért. A délután a bor jegyében telik: legurul a Bor Múzeumhoz egy tanulságos kóstolóra, mielőtt egy hagyományos belvárosi vacsorával zárná a napot.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur de explorare a Szekszárdului. Ziua începe în inima orașului, în piețele Garay și Regele Béla. Cu bicicleta, ajungeți rapid la mici bijuterii precum Fântâna Mielului și apoi la punctul culminant cultural, Muzeul Wosinsky Mór. Dimineața se încheie cu o urcare provocatoare, dar plină de satisfacții, la Casa Memorială Babits. După o pauză de prânz binemeritată, cuceriți Dealul Calvaria pentru o priveliște panoramică uluitoare. După-amiaza este dedicată vinului: coborâți la Muzeul Vinului pentru o degustare educativă, înainte de a încheia ziua cu o cină tradițională în centrul orașului.",
+        "en": "Hop on your bike for an exploratory tour of Szekszárd. The day starts in the heart of the city, at Garay and King Béla Squares. The bike allows for quick trips to little gems like the Lamb's Well, and then to the cultural highlight at the Wosinsky Mór Museum. The morning culminates in a challenging but rewarding climb to the Babits Memorial House. After a well-deserved lunch break, you'll conquer Calvary Hill for a breathtaking panoramic view. The afternoon is all about wine: you'll roll down to the Wine Museum for an educational tasting before ending the day with a traditional dinner in the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Szekszárdi Kadarka",
+            "tip": "Probieren Sie diese leichtere, würzige Rotweinsorte, die typisch für die Region ist."
+          },
+          {
+            "name": "Pogácsa",
+            "tip": "Ein herzhaftes Gebäck, perfekt als Snack für eine Radtour."
+          },
+          {
+            "name": "Szász Söröző és Étterem",
+            "tip": "Ein beliebter Ort für Radfahrer, um sich mit einem großen Teller Gulasch zu stärken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szekszárdi Kadarka",
+            "tip": "Kóstolja meg ezt a könnyedebb, fűszeres vörösbort, amely a régió jellegzetessége."
+          },
+          {
+            "name": "Pogácsa",
+            "tip": "Kiadós péksütemény, tökéletes harapnivaló egy kerékpártúrához."
+          },
+          {
+            "name": "Szász Söröző és Étterem",
+            "tip": "Népszerű hely a kerékpárosok körében, ahol egy nagy tányér gulyással erősíthetnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kadarka de Szekszárd",
+            "tip": "Încercați acest soi de vin roșu mai ușor și picant, specific regiunii."
+          },
+          {
+            "name": "Pogácsa",
+            "tip": "Un produs de patiserie sărat, perfect ca gustare în timpul unui tur cu bicicleta."
+          },
+          {
+            "name": "Szász Söröző és Étterem",
+            "tip": "Un loc popular pentru bicicliști pentru a se reface cu o porție generoasă de gulaș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Szekszárd Kadarka",
+            "tip": "Try this lighter, spicy red wine variety, typical of the region."
+          },
+          {
+            "name": "Pogácsa",
+            "tip": "A savory pastry, perfect as a snack for a bike tour."
+          },
+          {
+            "name": "Szász Söröző és Étterem",
+            "tip": "A popular spot for cyclists to refuel with a large plate of goulash."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang des Séd-Bachs",
+            "tip": "Folgen Sie dem Bach für eine ruhige Fahrt abseits der Hauptstraßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Kalvarienberg",
+            "tip": "Nach dem Aufstieg ist die ruhige Aussicht die beste Belohnung.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein Glas Wein in einem kleinen Keller",
+            "tip": "Suchen Sie einen kleinen, familiengeführten Weinkeller für eine persönliche und ruhige Verkostung.",
+            "emoji": "🍷"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Séd-patak mentén",
+            "tip": "Kövesse a patakot egy csendes tekerésért a főutaktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Kálváriáról",
+            "tip": "A mászás után a csendes kilátás a legjobb jutalom.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy pohár bor egy kis pincében",
+            "tip": "Keressen egy kis, családi borászatot egy személyes és csendes kóstolóért.",
+            "emoji": "🍷"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul pârâului Séd",
+            "tip": "Urmați pârâul pentru o plimbare liniștită, departe de drumurile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliștea de pe Dealul Calvaria",
+            "tip": "După urcare, priveliștea liniștită este cea mai bună recompensă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Un pahar de vin într-o cramă mică",
+            "tip": "Căutați o cramă mică, de familie, pentru o degustare personală și liniștită.",
+            "emoji": "🍷"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Séd stream",
+            "tip": "Follow the stream for a quiet ride away from the main roads.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Calvary Hill",
+            "tip": "After the climb, the quiet view is the best reward.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A glass of wine in a small cellar",
+            "tip": "Look for a small, family-run winery for a personal and quiet tasting.",
+            "emoji": "🍷"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weine",
+            "tip": "Kaufen Sie direkt bei den Weingütern, die Sie auf Ihrer Tour sehen."
+          },
+          {
+            "name": "Fahrrad-Zubehör",
+            "tip": "In der Stadt gibt es einige Geschäfte für den Fall, dass Sie etwas für Ihr Fahrrad benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Vásároljon közvetlenül a pincészetekből, amelyeket a túra során lát."
+          },
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A városban van néhány üzlet, ha szüksége lenne valamire a kerékpárjához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Cumpărați direct de la cramele pe care le vedeți în turul dumneavoastră."
+          },
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Există câteva magazine în oraș în caz că aveți nevoie de ceva pentru bicicletă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wines",
+            "tip": "Buy directly from the wineries you see on your tour."
+          },
+          {
+            "name": "Bike Accessories",
+            "tip": "There are a few shops in town in case you need anything for your bike."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Szekszárd hat einige Hügel, seien Sie also auf Anstiege vorbereitet, besonders zum Aussichtsturm.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an belebten Orten.",
+          "Nehmen Sie viel Wasser mit, besonders an warmen Tagen.",
+          "Kombinieren Sie Ihre Radtour nicht mit übermäßigem Weinkonsum; planen Sie Verkostungen am Ende des Tages."
+        ],
+        "hu": [
+          "Szekszárdon vannak dombok, így készüljön emelkedőkre, különösen a kilátó felé.",
+          "Mindig gondosan zárja le a kerékpárt, különösen a forgalmas helyeken.",
+          "Vigyen magával sok vizet, főleg meleg napokon.",
+          "Ne kombinálja a kerékpártúrát túlzott borfogyasztással; a kóstolókat a nap végére tervezze."
+        ],
+        "ro": [
+          "Szekszárd are câteva dealuri, așa că fiți pregătiți pentru urcări, mai ales spre turnul de belvedere.",
+          "Legați-vă întotdeauna bine bicicleta, mai ales în locurile aglomerate.",
+          "Luați multă apă cu dumneavoastră, mai ales în zilele călduroase.",
+          "Nu combinați turul cu bicicleta cu consumul excesiv de vin; planificați degustările la sfârșitul zilei."
+        ],
+        "en": [
+          "Szekszárd has some hills, so be prepared for climbs, especially towards the lookout tower.",
+          "Always lock your bike securely, especially in busy areas.",
+          "Bring plenty of water, especially on warm days.",
+          "Don't combine your bike tour with excessive wine tasting; plan tastings for the end of the day."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken im Stadtzentrum (Cluster A)",
+            "hu": "Parkolás a belvárosban (A klaszter)",
+            "ro": "Parcare în centrul orașului (Cluster A)",
+            "en": "Parking in the City Center (Cluster A)"
+          },
+          "coords": [
+            18.704,
+            46.351
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie das historische Zentrum zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel gyalog a történelmi központot.",
+            "ro": "Parcați aici și explorați centrul istoric pe jos.",
+            "en": "Park here and explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Garay-Platz und König-Béla-Platz",
+            "hu": "Garay tér és Béla király tér",
+            "ro": "Piața Garay și Piața Regele Béla",
+            "en": "Garay Square and King Béla Square"
+          },
+          "coords": [
+            18.7055,
+            46.353
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie zwischen den beiden Hauptplätzen und genießen Sie die Atmosphäre.",
+            "hu": "Sétáljon a két fő tér között, és élvezze a hangulatot.",
+            "ro": "Plimbați-vă între cele două piețe principale și bucurați-vă de atmosferă.",
+            "en": "Stroll between the two main squares and soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Komitatshaus und Mór-Wosinsky-Museum",
+            "hu": "Megyeháza és Wosinsky Mór Múzeum",
+            "ro": "Casa Comitatului și Muzeul Wosinsky Mór",
+            "en": "County Hall and Wosinsky Mór Museum"
+          },
+          "coords": [
+            18.7075,
+            46.355
+          ],
+          "category": "historical",
+          "arrive_at": "10:06",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch des prächtigen Gebäudes mit dem faszinierenden Museum nebenan.",
+            "hu": "Kombinálja a csodálatos épület megtekintését a mellette lévő lenyűgöző múzeummal.",
+            "ro": "Combinați vizita la clădirea splendidă cu muzeul fascinant de alături.",
+            "en": "Combine the visit to the splendid building with the fascinating museum next door."
+          }
+        },
+        {
+          "name": {
+            "de": "Hügel-Cluster (Cluster B)",
+            "hu": "Hegyi klaszter (B klaszter)",
+            "ro": "Clusterul de pe deal (Cluster B)",
+            "en": "Hillside Cluster (Cluster B)"
+          },
+          "coords": [
+            18.696,
+            46.359
+          ],
+          "category": "transport",
+          "arrive_at": "12:30",
+          "stay_min": 0,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem Parkplatz, um die Sehenswürdigkeiten auf dem Hügel zu erreichen.",
+            "hu": "Hajtson ehhez a parkolóhoz, hogy elérje a domboldali látnivalókat.",
+            "ro": "Conduceți până la această parcare pentru a ajunge la atracțiile de pe deal.",
+            "en": "Drive to this parking spot to access the hillside sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Mihály-Babits-Gedenkhaus und Kalvarien-Aussichtsturm",
+            "hu": "Babits Mihály Emlékház és Kálvária-kilátó",
+            "ro": "Casa Memorială Mihály Babits și Turnul de belvedere Calvaria",
+            "en": "Mihály Babits Memorial House and Calvary Lookout Tower"
+          },
+          "coords": [
+            18.698,
+            46.3595
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Haus des Dichters und steigen Sie dann zum Turm für eine großartige Aussicht auf.",
+            "hu": "Fedezze fel a költő házát, majd másszon fel a toronyba a nagyszerű kilátásért.",
+            "ro": "Explorați casa poetului și apoi urcați la turn pentru o priveliște magnifică.",
+            "en": "Explore the poet's house and then climb the tower for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinprobe in einem Keller (Cluster C)",
+            "hu": "Borkóstoló egy pincészetben (C klaszter)",
+            "ro": "Degustare de vin la o cramă (Cluster C)",
+            "en": "Wine Tasting at a Cellar (Cluster C)"
+          },
+          "coords": [
+            18.69,
+            46.345
+          ],
+          "category": "gastro",
+          "arrive_at": "15:00",
+          "stay_min": 155,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie in das Weinviertel, parken Sie und genießen Sie eine entspannte Verkostung zum Abschluss des Tages.",
+            "hu": "Hajtson a borvidékre, parkoljon le, és élvezzen egy pihentető kóstolót a nap lezárásaként.",
+            "ro": "Conduceți în regiunea viticolă, parcați și bucurați-vă de o degustare relaxantă pentru a încheia ziua.",
+            "en": "Drive to the wine district, park, and enjoy a relaxing tasting session to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Szekszárd ist auf Effizienz ausgelegt. Sie parken im Zentrum und erkunden den ersten Cluster zu Fuß: die historischen Plätze und das beeindruckende Komitatshaus. Anschließend besuchen Sie das Wosinsky Mór Museum. Am Mittag fahren Sie zum zweiten Cluster auf dem Hügel, um das Babits-Gedenkhaus zu besichtigen und die Panoramaaussicht vom Kalvarien-Turm zu genießen, alles bequem zu Fuß erreichbar. Der Nachmittag gehört ganz dem Wein. Eine kurze Fahrt bringt Sie in die Weinberge, wo Sie im dritten Cluster parken, um an einer ausgiebigen Verkostung teilzunehmen und die Seele der Region zu schmecken. Dieser Ansatz minimiert die Parkplatzsuche und maximiert Ihr Erlebnis.",
+        "hu": "Szekszárdi autós napja a hatékonyságra összpontosít. A központban parkolva gyalogosan fedezi fel az első klasztert: a történelmi tereket és a lenyűgöző Megyeházát, majd a Wosinsky Mór Múzeumot. Délben felautózik a második, hegyi klaszterhez, hogy megnézze a Babits Emlékházat és élvezze a panorámát a Kálvária-kilátóból, mindezt kényelmes sétatávolságra. A délután a boré. Egy rövid autóút a szőlőhegyekre viszi, ahol a harmadik klaszterben parkolva egy kiadós borkóstolón vehet részt, megízlelve a régió lelkét. Ez a megközelítés minimalizálja a parkolóhely-keresést és maximalizálja az élményt.",
+        "ro": "Ziua dvs. cu mașina în Szekszárd este concepută pentru eficiență. Parcați în centru și explorați primul cluster pe jos: piețele istorice și impunătoarea Casă a Comitatului, urmate de Muzeul Wosinsky Mór. La prânz, conduceți către al doilea cluster de pe deal pentru a vizita Casa Memorială Babits și pentru a vă bucura de panorama de la Turnul Calvaria, toate la o distanță de mers pe jos. După-amiaza este dedicată vinului. O scurtă călătorie cu mașina vă duce în podgorii, unde parcați în al treilea cluster pentru o degustare pe îndelete, savurând sufletul regiunii. Această abordare minimizează căutarea parcării și maximizează experiența.",
+        "en": "Your car day in Szekszárd is designed for efficiency. You'll park in the center and explore the first cluster on foot: the historic squares and the impressive County Hall, followed by the Wosinsky Mór Museum. At midday, you drive to the second cluster on the hill to visit the Babits Memorial House and enjoy the panoramic view from the Calvary Tower, all within easy walking distance. The afternoon belongs to wine. A short drive takes you to the vineyards, where you park in the third cluster for an extensive tasting session, savoring the soul of the region. This approach minimizes parking hassles and maximizes your experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tanyacsárda (Bauernhof-Restaurant)",
+            "tip": "Suchen Sie nach einem Restaurant etwas außerhalb der Stadt für ein authentisches, rustikales Erlebnis."
+          },
+          {
+            "name": "Szekszárdi Borvidék",
+            "tip": "Planen Sie ein Mittagessen in einem der Weingüter, die auch Speisen anbieten."
+          },
+          {
+            "name": "Pörkölt (Gulasch)",
+            "tip": "Ein herzhafter Fleischeintopf, der perfekt zu einem Glas Bikavér passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyacsárda",
+            "tip": "Keressen egy, a városon kissé kívül eső éttermet egy autentikus, rusztikus élményért."
+          },
+          {
+            "name": "Szekszárdi Borvidék",
+            "tip": "Tervezzen ebédet az egyik olyan pincészetben, amely ételeket is kínál."
+          },
+          {
+            "name": "Pörkölt",
+            "tip": "Kiadós húsétel, amely tökéletesen illik egy pohár Bikavérhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tanyacsárda (Restaurant la fermă)",
+            "tip": "Căutați un restaurant chiar în afara orașului pentru o experiență autentică, rustică."
+          },
+          {
+            "name": "Regiunea viticolă Szekszárd",
+            "tip": "Planificați prânzul la una dintre cramele care oferă și mâncare."
+          },
+          {
+            "name": "Pörkölt (Tocăniță)",
+            "tip": "O tocăniță de carne consistentă, care se potrivește perfect cu un pahar de Bikavér."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tanyacsárda (Farmstead Restaurant)",
+            "tip": "Look for a restaurant just outside the city for an authentic, rustic experience."
+          },
+          {
+            "name": "Szekszárd Wine Region",
+            "tip": "Plan a lunch at one of the wineries that also offer food."
+          },
+          {
+            "name": "Pörkölt (Stew)",
+            "tip": "A hearty meat stew that pairs perfectly with a glass of Bikavér."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt durch die Weinberge",
+            "tip": "Genießen Sie die ruhige Landschaft, während Sie zwischen den Wein-Clustern fahren.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Gemenci-Wald",
+            "tip": "Wenn Sie Zeit haben, machen Sie einen Abstecher in dieses riesige Auwaldgebiet in der Nähe.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sonnenuntergang von den Hügeln",
+            "tip": "Finden Sie einen Platz in den Weinbergen, um den Tag mit einem spektakulären Blick zu beenden.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a szőlőhegyeken",
+            "tip": "Élvezze a csendes tájat, miközben a boros klaszterek között halad.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Gemenci-erdő",
+            "tip": "Ha van ideje, tegyen egy kitérőt ebbe a hatalmas, közeli ártéri erdőbe.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Naplemente a dombokról",
+            "tip": "Keressen egy helyet a szőlőhegyeken, hogy egy látványos kilátással zárja a napot.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu mașina prin podgorii",
+            "tip": "Bucurați-vă de peisajul liniștit în timp ce conduceți între clusterele de vin.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Pădurea Gemenc",
+            "tip": "Dacă aveți timp, faceți un ocol spre această zonă vastă de pădure inundabilă din apropiere.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Apus de soare de pe dealuri",
+            "tip": "Găsiți un loc în podgorii pentru a încheia ziua cu o priveliște spectaculoasă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive through the vineyards",
+            "tip": "Enjoy the quiet scenery as you drive between the wine clusters.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Gemenc Forest",
+            "tip": "If you have time, take a detour to this vast floodplain forest nearby.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sunset from the hills",
+            "tip": "Find a spot in the vineyards to end the day with a spectacular view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein direkt vom Weingut",
+            "tip": "Kaufen Sie Kisten Ihres Lieblingsweins nach der Verkostung."
+          },
+          {
+            "name": "Handwerksprodukte vom Bauernmarkt",
+            "tip": "Halten Sie Ausschau nach lokalen Märkten für Honig, Marmeladen und andere Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bor közvetlenül a pincészettől",
+            "tip": "Vásároljon kartonnal a kedvenc borából a kóstoló után."
+          },
+          {
+            "name": "Kézműves termékek a termelői piacról",
+            "tip": "Keresse a helyi piacokat mézért, lekvárokért és egyéb termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin direct de la cramă",
+            "tip": "Cumpărați cutii cu vinul preferat după degustare."
+          },
+          {
+            "name": "Produse artizanale de la piața fermierilor",
+            "tip": "Fiți atenți la piețele locale pentru miere, gemuri și alte produse."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine directly from the winery",
+            "tip": "Buy cases of your favorite wine after the tasting."
+          },
+          {
+            "name": "Artisanal products from the farmers' market",
+            "tip": "Look out for local markets for honey, jams, and other products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum kann an Markttagen schwierig sein; kommen Sie früh.",
+          "Legen Sie einen Fahrer fest, wenn Sie Weinproben planen.",
+          "Die Straßen in den Weinbergen können eng und kurvenreich sein, fahren Sie vorsichtig.",
+          "Überprüfen Sie die Öffnungszeiten der Weingüter, da viele eine Voranmeldung erfordern."
+        ],
+        "hu": [
+          "A központi parkolás nehézkes lehet piacnapokon; érkezzen korán.",
+          "Jelöljön ki egy sofőrt, ha borkóstolót tervez.",
+          "A szőlőhegyi utak szűkek és kanyargósak lehetnek, vezessen óvatosan.",
+          "Ellenőrizze a pincészetek nyitvatartását, mivel sok helyen előzetes bejelentkezés szükséges."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi dificilă în zilele de piață; ajungeți devreme.",
+          "Desemnați un șofer dacă planificați degustări de vin.",
+          "Drumurile din podgorii pot fi înguste și sinuoase, conduceți cu prudență.",
+          "Verificați programul cramelor, deoarece multe necesită programare prealabilă."
+        ],
+        "en": [
+          "Parking in the center can be difficult on market days; arrive early.",
+          "Designate a driver if you plan on wine tasting.",
+          "The roads in the vineyards can be narrow and winding, drive carefully.",
+          "Check the opening hours of wineries, as many require advance booking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof (Cluster A)",
+            "hu": "Érkezés a buszpályaudvarra (A klaszter)",
+            "ro": "Sosire la autogară (Cluster A)",
+            "en": "Arrival at the Bus Station (Cluster A)"
+          },
+          "coords": [
+            18.709,
+            46.351
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Von hier aus ist das Stadtzentrum nur einen kurzen Spaziergang entfernt.",
+            "hu": "Innen a városközpont csak egy rövid sétára van.",
+            "ro": "De aici, centrul orașului este la o scurtă plimbare.",
+            "en": "The city center is a short walk from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Garay-Platz und Béla-Király-Platz",
+            "hu": "Garay tér és Béla király tér",
+            "ro": "Piața Garay și Piața Regele Béla",
+            "en": "Garay Square and King Béla Square"
+          },
+          "coords": [
+            18.7055,
+            46.353
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung im Herzen der Stadt.",
+            "hu": "Kezdje a felfedezést a város szívében.",
+            "ro": "Începeți explorarea în inima orașului.",
+            "en": "Start your exploration in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Mór-Wosinsky-Museum",
+            "hu": "Wosinsky Mór Megyei Múzeum",
+            "ro": "Muzeul Județean Wosinsky Mór",
+            "en": "Wosinsky Mór County Museum"
+          },
+          "coords": [
+            18.708,
+            46.356
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz entfernt, aber ein tiefer Einblick in die Geschichte.",
+            "hu": "Rövid séta a tértől, de mély betekintés a történelembe.",
+            "ro": "O scurtă plimbare din piață, dar o incursiune profundă în istorie.",
+            "en": "A short walk from the square, but a deep dive into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Hügel-Cluster (Cluster B)",
+            "hu": "Utazás a hegyi klaszterhez (B klaszter)",
+            "ro": "Călătorie spre clusterul de pe deal (Cluster B)",
+            "en": "Trip to the Hillside Cluster (Cluster B)"
+          },
+          "coords": [
+            18.697,
+            46.3585
+          ],
+          "category": "transport",
+          "arrive_at": "12:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um den Anstieg zu vermeiden.",
+            "hu": "Vegyünk egy helyi buszt, hogy elkerüljük az emelkedőt.",
+            "ro": "Luați un autobuz local pentru a evita urcușul.",
+            "en": "Take a local bus to avoid the uphill climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarien-Aussichtsturm",
+            "hu": "Kálvária-kilátó",
+            "ro": "Turnul de belvedere Calvaria",
+            "en": "Calvary Lookout Tower"
+          },
+          "coords": [
+            18.702,
+            46.36
+          ],
+          "category": "natural features",
+          "arrive_at": "12:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht, nachdem der Bus Sie den größten Teil des Weges nach oben gebracht hat.",
+            "hu": "Élvezze a kilátást, miután a busz felvitte az út nagy részén.",
+            "ro": "Bucurați-vă de priveliște după ce autobuzul v-a dus cea mai mare parte a drumului.",
+            "en": "Enjoy the view after the bus has taken you most of the way up."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinmuseum und Verkostung",
+            "hu": "Bor Múzeum és kóstoló",
+            "ro": "Muzeul Vinului și degustare",
+            "en": "Wine Museum and Tasting"
+          },
+          "coords": [
+            18.698,
+            46.351
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 255,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Tal und widmen Sie den Rest des Nachmittags dem Wein.",
+            "hu": "Menjen vissza busszal a völgybe, és szentelje a délután hátralévő részét a bornak.",
+            "ro": "Luați autobuzul înapoi în vale și dedicați restul după-amiezii vinului.",
+            "en": "Take the bus back down to the valley and dedicate the rest of the afternoon to wine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln entdecken Sie Szekszárd entspannt. Vom Busbahnhof aus spazieren Sie zum ersten Cluster, dem historischen Zentrum, und besichtigen die Plätze und das Wosinsky-Museum. Gegen Mittag nehmen Sie einen Bus zum zweiten Cluster auf dem Hügel. So sparen Sie sich den anstrengenden Aufstieg und können die Aussicht vom Kalvarienberg frisch genießen. Anschließend bringt Sie ein weiterer Bus zurück ins Tal, direkt zum Weinmuseum. Hier können Sie den Rest des Nachmittags verbringen, die Weinkultur erkunden und verschiedene Sorten verkosten, ohne sich um das Fahren sorgen zu müssen. Es ist der perfekte Weg, um Kultur und Genuss zu verbinden.",
+        "hu": "Tömegközlekedéssel Szekszárdot nyugodtan fedezheti fel. A buszpályaudvartól az első klaszterhez, a történelmi központhoz sétál, megtekintve a tereket és a Wosinsky Múzeumot. Dél körül busszal jut el a második, hegyi klaszterhez. Így megspórolja a fárasztó emelkedőt, és frissen élvezheti a Kálváriáról nyíló kilátást. Ezután egy másik busz visszaviszi a völgybe, egyenesen a Bor Múzeumhoz. Itt töltheti a délután hátralévő részét, felfedezve a borkultúrát és kóstolva a különböző fajtákat, anélkül, hogy a vezetés miatt kellene aggódnia. Ez a tökéletes módja a kultúra és az élvezet ötvözésének.",
+        "ro": "Cu transportul public, veți descoperi Szekszárdul într-un mod relaxat. De la autogară, mergeți pe jos până la primul cluster, centrul istoric, vizitând piețele și Muzeul Wosinsky. În jurul prânzului, luați un autobuz către al doilea cluster, pe deal. Acest lucru vă scutește de urcarea obositoare și vă permite să vă bucurați de priveliștea de pe Calvaria în stare proaspătă. Apoi, un alt autobuz vă duce înapoi în vale, direct la Muzeul Vinului. Aici vă puteți petrece restul după-amiezii explorând cultura vinului și degustând diferite soiuri, fără a vă face griji cu privire la condus. Este modul perfect de a combina cultura și plăcerea.",
+        "en": "Using public transport, you'll discover Szekszárd in a relaxed way. From the bus station, you walk to the first cluster, the historic center, visiting the squares and the Wosinsky Museum. Around noon, you take a bus to the second cluster on the hill. This saves you the strenuous climb and allows you to enjoy the view from Calvary Hill feeling fresh. Afterwards, another bus takes you back down to the valley, directly to the Wine Museum. Here you can spend the rest of the afternoon exploring the wine culture and tasting different varieties without worrying about driving. It's the perfect way to combine culture and pleasure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lángos",
+            "tip": "Ein ungarischer Klassiker für den schnellen Hunger, oft in der Nähe von Busbahnhöfen erhältlich."
+          },
+          {
+            "name": "Weinbar im Zentrum",
+            "tip": "Nach Ihrer Tour können Sie verschiedene Weine glasweise probieren."
+          },
+          {
+            "name": "Íz-Tár-Ház",
+            "tip": "Ein modernes Restaurant in der Nähe des Zentrums, das leicht zu Fuß erreichbar ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lángos",
+            "tip": "Magyar klasszikus a gyors éhség csillapítására, gyakran kapható a buszpályaudvarok közelében."
+          },
+          {
+            "name": "Belvárosi borbár",
+            "tip": "A túra után poharanként kóstolhat különböző borokat."
+          },
+          {
+            "name": "Íz-Tár-Ház",
+            "tip": "Modern étterem a központ közelében, könnyen megközelíthető gyalog."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lángos",
+            "tip": "Un clasic maghiar pentru o gustare rapidă, adesea disponibil lângă autogări."
+          },
+          {
+            "name": "Bar de vinuri în centru",
+            "tip": "După tur, puteți degusta diferite vinuri la pahar."
+          },
+          {
+            "name": "Íz-Tár-Ház",
+            "tip": "Un restaurant modern lângă centru, ușor accesibil pe jos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lángos",
+            "tip": "A Hungarian classic for a quick bite, often available near bus stations."
+          },
+          {
+            "name": "Wine bar in the center",
+            "tip": "After your tour, you can sample different wines by the glass."
+          },
+          {
+            "name": "Íz-Tár-Ház",
+            "tip": "A modern restaurant near the center, easily accessible on foot."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Genießen Sie die wechselnde Landschaft, während Sie zwischen den Clustern fahren.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Park in der Nähe des Weinmuseums",
+            "tip": "Machen Sie eine Pause im Grünen, bevor oder nachdem Sie die Weinwelt erkunden.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Spaziergang am Abend",
+            "tip": "Nachdem die Tagesbesucher gegangen sind, ist das Zentrum wunderbar ruhig.",
+            "emoji": "🌙"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Élvezze a változó tájat, miközben a klaszterek között utazik.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Park a Bor Múzeum közelében",
+            "tip": "Tartson egy szünetet a zöldben, mielőtt vagy miután felfedezi a borok világát.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Esti séta",
+            "tip": "Miután a napközbeni látogatók elmentek, a központ csodálatosan csendes.",
+            "emoji": "🌙"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliștea de la fereastra autobuzului",
+            "tip": "Bucurați-vă de peisajul în schimbare în timp ce călătoriți între clustere.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Parc lângă Muzeul Vinului",
+            "tip": "Luați o pauză în verdeață înainte sau după explorarea lumii vinului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Plimbare de seară",
+            "tip": "După plecarea vizitatorilor de o zi, centrul este minunat de liniștit.",
+            "emoji": "🌙"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the bus window",
+            "tip": "Enjoy the changing scenery as you travel between clusters.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Park near the Wine Museum",
+            "tip": "Take a break in the green space before or after exploring the world of wine.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Evening stroll",
+            "tip": "After the day-trippers have left, the center is wonderfully quiet.",
+            "emoji": "🌙"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markthalle",
+            "tip": "In der Nähe des Busbahnhofs finden Sie oft eine Markthalle mit lokalen Produkten."
+          },
+          {
+            "name": "Weingeschäfte im Zentrum",
+            "tip": "Kaufen Sie eine Flasche als Souvenir, Sie müssen sie nicht den ganzen Tag tragen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vásárcsarnok",
+            "tip": "A buszpályaudvar közelében gyakran található vásárcsarnok helyi termékekkel."
+          },
+          {
+            "name": "Belvárosi borboltok",
+            "tip": "Vásároljon egy üveggel szuvenírként, nem kell egész nap cipelnie."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața agroalimentară",
+            "tip": "Lângă autogară veți găsi adesea o piață cu produse locale."
+          },
+          {
+            "name": "Magazine de vinuri în centru",
+            "tip": "Cumpărați o sticlă ca suvenir, nu trebuie să o cărați toată ziua."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Hall",
+            "tip": "Near the bus station, you'll often find a market hall with local produce."
+          },
+          {
+            "name": "Wine shops in the center",
+            "tip": "Buy a bottle as a souvenir, you don't have to carry it all day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, das ist oft günstiger als Einzeltickets.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die letzte Rückfahrt.",
+          "Seien Sie flexibel; manchmal ist ein kurzer Spaziergang schneller als auf den nächsten Bus zu warten.",
+          "Laden Sie die lokale ÖPNV-App herunter, falls verfügbar."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ez gyakran olcsóbb, mint az egyedi jegyek.",
+          "Ellenőrizze előre a buszmenetrendet, különösen az utolsó járatot.",
+          "Legyen rugalmas; néha egy rövid séta gyorsabb, mint a következő buszra várni.",
+          "Töltse le a helyi tömegközlekedési alkalmazást, ha van."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, este adesea mai ieftin decât biletele individuale.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie de întoarcere.",
+          "Fiți flexibil; uneori o scurtă plimbare este mai rapidă decât așteptarea următorului autobuz.",
+          "Descărcați aplicația locală de transport public, dacă este disponibilă."
+        ],
+        "en": [
+          "Buy a day pass for the bus, it's often cheaper than single tickets.",
+          "Check the bus schedule in advance, especially for the last return trip.",
+          "Be flexible; sometimes a short walk is faster than waiting for the next bus.",
+          "Download the local public transport app if available."
+        ]
+      }
+    }
+  }
+}

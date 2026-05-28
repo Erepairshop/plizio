@@ -1,0 +1,1436 @@
+{
+  "city_id": "poland-jaworzno-cities-v2",
+  "anchor": {
+    "name": "Jaworzno",
+    "coords": [
+      19.2736,
+      50.205
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Rynek)",
+            "hu": "Piactér (Rynek)",
+            "ro": "Piața Centrală (Rynek)",
+            "en": "Market Square (Rynek)"
+          },
+          "coords": [
+            19.274,
+            50.2055
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Stadtleben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea și priviți viața orașului.",
+            "en": "Start your day here with a coffee and watch the city life."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Bergleute",
+            "hu": "Bányászok Emlékműve",
+            "ro": "Monumentul Minerilor",
+            "en": "Monument of the Miners"
+          },
+          "coords": [
+            19.275,
+            50.206
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein wichtiges Symbol für die industrielle Geschichte der Stadt.",
+            "hu": "A város ipari történelmének fontos szimbóluma.",
+            "ro": "Un simbol important al istoriei industriale a orașului.",
+            "en": "An important symbol of the city's industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollegiatkirche St. Adalbert",
+            "hu": "Szent Adalbert társszékesegyház",
+            "ro": "Biserica Colegială Sf. Adalbert",
+            "en": "Collegiate Church of St. Adalbert"
+          },
+          "coords": [
+            19.2725,
+            50.2045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und die ruhige Atmosphäre im Inneren.",
+            "hu": "Csodálja meg az építészetet és a belső tér békés hangulatát.",
+            "ro": "Admirați arhitectura și atmosfera liniștită din interior.",
+            "en": "Admire the architecture and the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Jaworzno",
+            "hu": "Jaworznói Városi Múzeum",
+            "ro": "Muzeul Municipal Jaworzno",
+            "en": "City Museum of Jaworzno"
+          },
+          "coords": [
+            19.276,
+            50.203
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in die lokale Geschichte und Kultur ein.",
+            "hu": "Merüljön el a helyi történelemben és kultúrában.",
+            "ro": "Aprofundați istoria și cultura locală.",
+            "en": "Take a deep dive into the local history and culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Gródek",
+            "hu": "Gródek Park",
+            "ro": "Parcul Gródek",
+            "en": "Park Gródek"
+          },
+          "coords": [
+            19.29,
+            50.225
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bekannt als die 'polnischen Malediven', ein Muss für atemberaubende Ausblicke.",
+            "hu": "A „lengyel Maldív-szigetekként” ismert hely, kihagyhatatlan a lélegzetelállító kilátásért.",
+            "ro": "Cunoscut ca 'Maldivele poloneze', un loc de neratat pentru priveliști uimitoare.",
+            "en": "Known as the 'Polish Maldives,' a must-see for breathtaking views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Jaworzno",
+            "hu": "Jaworznói Kulturális Központ",
+            "ro": "Centrul Cultural Jaworzno",
+            "en": "Cultural Centre of Jaworzno"
+          },
+          "coords": [
+            19.271,
+            50.207
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:52",
+          "stay_min": 3,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm auf Abendveranstaltungen oder Konzerte.",
+            "hu": "Nézze meg az esti előadások vagy koncertek programját.",
+            "ro": "Verificați programul pentru evenimente de seară sau concerte.",
+            "en": "Check the schedule for any evening events or concerts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Jaworzno beginnt am lebhaften Marktplatz, dem Herzen der Stadt. Am Vormittag erkunden Sie die reiche Bergbaugeschichte am Denkmal und finden Ruhe in der Kollegiatkirche St. Adalbert. Nach dem Mittagessen, das Sie in einem lokalen Restaurant einnehmen, tauchen Sie im Stadtmuseum tief in die Vergangenheit ein. Der Nachmittag ist einem langen Spaziergang zum atemberaubenden Park Gródek gewidmet, der für seine türkisblauen Seen bekannt ist und einen perfekten Abschluss für Ihren Erkundungstag bildet.",
+        "hu": "Sétája Jaworznóban a nyüzsgő Piactéren, a város szívében kezdődik. A délelőtt folyamán a Bányász Emlékműnél megismeri a gazdag bányászmúltat, majd a Szent Adalbert-templomban lel nyugalmat. Ebéd után, amelyet egy helyi étteremben fogyaszt el, a Városi Múzeumban mélyed el a múltban. A délután egy hosszú sétát tartogat a lélegzetelállító Gródek Parkhoz, amely türkizkék tavairól híres, tökéletes lezárása a felfedező napnak.",
+        "ro": "Plimbarea dvs. prin Jaworzno începe în Piața Centrală vibrantă, inima orașului. În cursul dimineții, explorați bogata istorie minieră la monument și găsiți liniște la Biserica Colegială Sf. Adalbert. După prânz la un restaurant local, vă adânciți în trecut la Muzeul Municipal. După-amiaza este dedicată unei plimbări lungi către uimitorul Parc Gródek, renumit pentru lacurile sale turcoaz, oferind o încheiere perfectă pentru ziua de explorare.",
+        "en": "Your walking tour of Jaworzno begins at the vibrant Market Square, the city's heart. The morning is spent exploring the rich mining history at the monument and finding peace in the Collegiate Church of St. Adalbert. After lunch at a local restaurant, you'll delve deep into the past at the City Museum. The afternoon is dedicated to a long walk to the stunning Park Gródek, renowned for its turquoise lakes, providing a perfect end to your day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi Śląskie",
+            "tip": "Probieren Sie diese schlesischen Teigtaschen, oft mit Fleisch oder Kartoffeln und Käse gefüllt."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine traditionelle saure Roggensuppe, ein herzhaftes und authentisches polnisches Gericht."
+          },
+          {
+            "name": "Restauracja Pasaż",
+            "tip": "Bekannt für ihre traditionelle polnische Küche in einer gemütlichen Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi Śląskie",
+            "tip": "Kóstolja meg ezeket a sziléziai gombócokat, gyakran hússal vagy burgonyával és sajttal töltve."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Hagyományos savanyú rozsleves, egy kiadós és autentikus lengyel étel."
+          },
+          {
+            "name": "Restauracja Pasaż",
+            "tip": "Hagyományos lengyel konyhájáról ismert, hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi Śląskie",
+            "tip": "Încercați aceste găluște sileziene, adesea umplute cu carne sau cartofi și brânză."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă tradițională de secară acră, un fel de mâncare consistent și autentic polonez."
+          },
+          {
+            "name": "Restauracja Pasaż",
+            "tip": "Cunoscut pentru bucătăria sa tradițională poloneză într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi Śląskie",
+            "tip": "Try these Silesian dumplings, often filled with meat or potatoes and cheese."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A traditional sour rye soup, a hearty and authentic Polish dish."
+          },
+          {
+            "name": "Restauracja Pasaż",
+            "tip": "Known for its traditional Polish cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Gródek",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser und genießen Sie die 'polnischen Malediven'.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sosina See",
+            "tip": "Ein größerer See, perfekt für einen ruhigen Spaziergang am Ufer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Geosfera Jaworzno",
+            "tip": "Ein ruhiger Ort, um die einzigartige Geologie und Flora zu entdecken.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gródek Park",
+            "tip": "Keressen egy csendes helyet a víz mellett, és élvezze a „lengyel Maldív-szigeteket”.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sosina-tó",
+            "tip": "Egy nagyobb tó, tökéletes egy csendes sétához a parton.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Geosfera Jaworzno",
+            "tip": "Csendes hely az egyedülálló geológia és növényvilág felfedezéséhez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Gródek",
+            "tip": "Găsiți un loc liniștit lângă apă și bucurați-vă de 'Maldivele poloneze'.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lacul Sosina",
+            "tip": "Un lac mai mare, perfect pentru o plimbare liniștită de-a lungul malului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Geosfera Jaworzno",
+            "tip": "Un loc liniștit pentru a explora geologia și flora unică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park Gródek",
+            "tip": "Find a quiet spot by the water and enjoy the 'Polish Maldives'.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sosina Lake",
+            "tip": "A larger lake, perfect for a peaceful walk along the shore.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Geosfera Jaworzno",
+            "tip": "A tranquil place to explore unique geology and flora.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt am Rynek",
+            "tip": "Halten Sie Ausschau nach saisonalen Märkten für lokale Produkte und Handwerk."
+          },
+          {
+            "name": "Souvenirs im Museumsshop",
+            "tip": "Der Shop im Stadtmuseum bietet oft einzigartige, historisch inspirierte Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac a Ryneken",
+            "tip": "Keresse a szezonális piacokat helyi termékekért és kézműves árukért."
+          },
+          {
+            "name": "Ajándéktárgyak a múzeumi boltban",
+            "tip": "A Városi Múzeum boltja gyakran kínál egyedi, történelmi ihletésű ajándékokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală de la Rynek",
+            "tip": "Căutați piețele sezoniere pentru produse locale și meșteșuguri."
+          },
+          {
+            "name": "Suveniruri la magazinul muzeului",
+            "tip": "Magazinul de la Muzeul Municipal oferă adesea cadouri unice, de inspirație istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market at Rynek",
+            "tip": "Look for seasonal markets for local produce and crafts."
+          },
+          {
+            "name": "Souvenirs at the Museum Shop",
+            "tip": "The City Museum shop often has unique, historically inspired gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden, besonders zum Park Gródek.",
+          "Nehmen Sie Wasser und Snacks mit, vor allem für den längeren Spaziergang am Nachmittag.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Das Licht am späten Nachmittag im Park Gródek ist fantastisch für Fotos."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni, különösen a Gródek Parkhoz.",
+          "Vigyen magával vizet és harapnivalót, főleg a délutáni hosszabb sétára.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "A késő délutáni fények a Gródek Parkban fantasztikusak a fotózáshoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult, mai ales până la Parcul Gródek.",
+          "Luați apă și gustări, în special pentru plimbarea mai lungă de după-amiază.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "Lumina de la sfârșitul după-amiezii în Parcul Gródek este fantastică pentru fotografii."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking, especially to Park Gródek.",
+          "Bring water and snacks, particularly for the longer afternoon walk.",
+          "Check the museum's opening hours in advance.",
+          "The late afternoon light at Park Gródek is fantastic for photos."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 19.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Rynek)",
+            "hu": "Piactér (Rynek)",
+            "ro": "Piața Centrală (Rynek)",
+            "en": "Market Square (Rynek)"
+          },
+          "coords": [
+            19.274,
+            50.2055
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und genießen Sie die Atmosphäre des Platzes.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és élvezze a tér hangulatát.",
+            "ro": "Asigurați-vă bicicleta și bucurați-vă de atmosfera pieței.",
+            "en": "Lock your bike securely and enjoy the square's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollegiatkirche St. Adalbert",
+            "hu": "Szent Adalbert társszékesegyház",
+            "ro": "Biserica Colegială Sf. Adalbert",
+            "en": "Collegiate Church of St. Adalbert"
+          },
+          "coords": [
+            19.2725,
+            50.2045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:34",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Marktplatz entfernt, perfekt für eine besinnliche Pause.",
+            "hu": "Rövid biciklizésre a Piactértől, tökéletes egy elmélyült szünetre.",
+            "ro": "La o scurtă plimbare cu bicicleta de Piața Centrală, perfect pentru o pauză contemplativă.",
+            "en": "A short ride from the market square, perfect for a contemplative pause."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Jaworzno",
+            "hu": "Jaworznói Városi Múzeum",
+            "ro": "Muzeul Municipal Jaworzno",
+            "en": "City Museum of Jaworzno"
+          },
+          "coords": [
+            19.276,
+            50.203
+          ],
+          "category": "museums",
+          "arrive_at": "10:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, das Fahrrad kann sicher in der Nähe abgestellt werden.",
+            "hu": "Tervezzen elég időt, a kerékpárt biztonságosan le lehet tenni a közelben.",
+            "ro": "Planificați suficient timp, bicicleta poate fi lăsată în siguranță în apropiere.",
+            "en": "Plan enough time; the bike can be parked securely nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Geosfera Jaworzno",
+            "hu": "Geosfera Jaworzno",
+            "ro": "Geosfera Jaworzno",
+            "en": "Geosfera Jaworzno"
+          },
+          "coords": [
+            19.295,
+            50.228
+          ],
+          "category": "natural features",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein interessanter botanischer Garten in einem ehemaligen Steinbruch.",
+            "hu": "Érdekes botanikus kert egy egykori kőbányában.",
+            "ro": "O grădină botanică interesantă într-o fostă carieră.",
+            "en": "An interesting botanical garden set in a former quarry."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Gródek",
+            "hu": "Gródek Park",
+            "ro": "Parcul Gródek",
+            "en": "Park Gródek"
+          },
+          "coords": [
+            19.29,
+            50.225
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Verbringen Sie hier Ihre Mittagspause, die Aussicht ist es wert.",
+            "hu": "Töltse itt az ebédszünetét, a kilátás megéri.",
+            "ro": "Petreceți pauza de prânz aici, priveliștea merită.",
+            "en": "Spend your lunch break here; the views are worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Sosina See",
+            "hu": "Sosina-tó",
+            "ro": "Lacul Sosina",
+            "en": "Sosina Lake"
+          },
+          "coords": [
+            19.215,
+            50.22
+          ],
+          "category": "lake",
+          "arrive_at": "14:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine längere, aber lohnende Fahrt. Perfekt zum Entspannen am Nachmittag.",
+            "hu": "Hosszabb, de megéri az utat. Tökéletes a délutáni pihenéshez.",
+            "ro": "O plimbare mai lungă, dar care merită. Perfect pentru relaxare după-amiaza.",
+            "en": "A longer but rewarding ride. Perfect for relaxing in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Marktplatz",
+            "hu": "Vissza a Piactérre",
+            "ro": "Înapoi la Piața Centrală",
+            "en": "Return to Market Square"
+          },
+          "coords": [
+            19.274,
+            50.2055
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:03",
+          "stay_min": 2,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour, wo sie begann, und genießen Sie ein wohlverdientes Abendessen.",
+            "hu": "Fejezze be a kerékpártúrát ott, ahol elkezdte, és élvezze a jól megérdemelt vacsorát.",
+            "ro": "Încheiați turul cu bicicleta acolo unde a început și bucurați-vă de o cină binemeritată.",
+            "en": "End your bike tour where it started and enjoy a well-deserved dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern beginnt Ihr Tag in Jaworzno auf dem zentralen Marktplatz. Von dort aus radeln Sie zu den kulturellen Höhepunkten der Stadt, der Kollegiatkirche und dem Museum. Am Mittag führt Sie Ihre Route aus der Stadt heraus zu den einzigartigen Landschaften der Geosfera und des Parks Gródek. Der Nachmittag ist für eine längere, erfrischende Fahrt zum Sosina-See reserviert, wo Sie sich entspannen können, bevor Sie zum Abschluss des Tages zurück ins Zentrum radeln.",
+        "hu": "Két keréken a nap Jaworzno központi Piacterén kezdődik. Innen a város kulturális nevezetességeihez, a társszékesegyházhoz és a múzeumhoz kerekezik. Délben az útvonal kivezeti a városból a Geosfera és a Gródek Park egyedi tájaira. A délutánt egy hosszabb, frissítő tekerésnek szenteljük a Sosina-tóhoz, ahol pihenhet, mielőtt a nap lezárásaként visszatér a központba.",
+        "ro": "Pe două roți, ziua dvs. în Jaworzno începe în Piața Centrală. De acolo, pedalați către punctele culturale de atracție ale orașului, Biserica Colegială și muzeul. La prânz, traseul vă duce în afara orașului, către peisajele unice ale Geosferei și Parcului Gródek. După-amiaza este rezervată unei plimbări mai lungi și revigorante la Lacul Sosina, unde vă puteți relaxa înainte de a reveni în centru pentru a încheia ziua.",
+        "en": "On two wheels, your day in Jaworzno starts at the central Market Square. From there, you'll cycle to the city's cultural highlights, the Collegiate Church and the museum. At midday, your route takes you out of the city to the unique landscapes of Geosfera and Park Gródek. The afternoon is reserved for a longer, refreshing ride to Sosina Lake, where you can relax before cycling back to the center to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kiełbasa Śląska",
+            "tip": "Eine herzhafte schlesische Wurst, perfekt für einen stärkenden Imbiss."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Gönnen Sie sich einen dieser köstlichen polnischen Donuts als süße Belohnung."
+          },
+          {
+            "name": "Restauracja Szyb Maciej",
+            "tip": "Etwas außerhalb, aber eine Radtour wert für sein einzigartiges Ambiente und Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kiełbasa Śląska",
+            "tip": "Kiadós sziléziai kolbász, tökéletes egy energiát adó harapnivalóhoz."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Kényeztesse magát egy ilyen finom lengyel fánkkal édes jutalomként."
+          },
+          {
+            "name": "Restauracja Szyb Maciej",
+            "tip": "Kicsit kijjebb esik, de megér egy biciklitúrát az egyedi hangulatáért és ételeiért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kiełbasa Śląska",
+            "tip": "Un cârnat silezian consistent, perfect pentru o gustare energizantă."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Răsfățați-vă cu una dintre aceste delicioase gogoși poloneze ca o recompensă dulce."
+          },
+          {
+            "name": "Restauracja Szyb Maciej",
+            "tip": "Puțin mai departe, dar merită o plimbare cu bicicleta pentru atmosfera sa unică și mâncare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiełbasa Śląska",
+            "tip": "A hearty Silesian sausage, perfect for an energizing snack."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Treat yourself to one of these delicious Polish doughnuts as a sweet reward."
+          },
+          {
+            "name": "Restauracja Szyb Maciej",
+            "tip": "A bit of a ride out of town, but worth the trip for its unique setting and food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Sosina-Sees",
+            "tip": "Der beste Ort für Ruhe und Frieden nach einer langen Radtour.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Wege im Park Gródek",
+            "tip": "Erkunden Sie die weniger begangenen Pfade für eine ruhige Auszeit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Geosfera",
+            "tip": "Genießen Sie die Ruhe zwischen den Pflanzen und Felsen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sosina-tó partja",
+            "tip": "A legjobb hely a csendre és békére egy hosszú biciklizés után.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett ösvények a Gródek Parkban",
+            "tip": "Fedezze fel a kevésbé járt utakat egy csendes kikapcsolódásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Geosfera",
+            "tip": "Élvezze a csendet a növények és sziklák között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Sosina",
+            "tip": "Cel mai bun loc pentru pace și liniște după o plimbare lungă cu bicicleta.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cărări ascunse în Parcul Gródek",
+            "tip": "Explorați potecile mai puțin circulate pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Geosfera",
+            "tip": "Bucurați-vă de liniștea dintre plante și stânci.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Sosina Lake",
+            "tip": "The best place for peace and quiet after a long bike ride.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden paths in Park Gródek",
+            "tip": "Explore the less-traveled paths for a quiet escape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Geosfera",
+            "tip": "Enjoy the tranquility among the plants and rocks.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Fragen Sie nach lokalen Radkarten oder Zubehör."
+          },
+          {
+            "name": "Kioske am See",
+            "tip": "Kaufen Sie Erfrischungen und kleine Snacks am Sosina-See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Érdeklődjön helyi kerékpáros térképekről vagy kiegészítőkről."
+          },
+          {
+            "name": "Kioszkok a tónál",
+            "tip": "Vásároljon frissítőket és apró harapnivalókat a Sosina-tónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Întrebați despre hărți locale pentru ciclism sau accesorii."
+          },
+          {
+            "name": "Chioșcuri lângă lac",
+            "tip": "Cumpărați băuturi răcoritoare și mici gustări la Lacul Sosina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Ask for local cycling maps or accessories."
+          },
+          {
+            "name": "Lakeside Kiosks",
+            "tip": "Buy refreshments and small snacks by Sosina Lake."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist, besonders für die längere Fahrt zum See.",
+          "Nehmen Sie ein zuverlässiges Schloss mit, um Ihr Fahrrad in der Stadt zu sichern.",
+          "Prüfen Sie die Wettervorhersage; einige Wege können nach Regen rutschig sein.",
+          "Polen hat einige spezielle Verkehrsregeln für Radfahrer, informieren Sie sich kurz darüber."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy a kerékpárja jó állapotban van, különösen a tóhoz vezető hosszabb útra.",
+          "Vigyen magával egy megbízható lakatot, hogy lezárja a kerékpárt a városban.",
+          "Ellenőrizze az időjárás-előrejelzést; néhány ösvény csúszós lehet eső után.",
+          "Lengyelországban vannak speciális közlekedési szabályok a kerékpárosokra, tájékozódjon róluk röviden."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este în stare bună, mai ales pentru drumul mai lung până la lac.",
+          "Luați un lacăt de încredere pentru a vă asigura bicicleta în oraș.",
+          "Verificați prognoza meteo; unele poteci pot fi alunecoase după ploaie.",
+          "Polonia are câteva reguli de circulație specifice pentru bicicliști, informați-vă pe scurt despre ele."
+        ],
+        "en": [
+          "Ensure your bike is in good condition, especially for the longer ride to the lake.",
+          "Bring a reliable lock to secure your bike in the city.",
+          "Check the weather forecast; some paths can be slippery after rain.",
+          "Poland has some specific traffic rules for cyclists, briefly inform yourself about them."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 19.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Marktplatz",
+            "hu": "Parkoló a Piactérnél",
+            "ro": "Parcare la Piața Centrală",
+            "en": "Parking near Market Square"
+          },
+          "coords": [
+            19.2755,
+            50.2065
+          ],
+          "category": "parking",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag, das Zentrum ist leicht zu Fuß erreichbar.",
+            "hu": "Parkoljon itt a délelőttre, a központ könnyen bejárható gyalog.",
+            "ro": "Parcați aici pentru dimineață, centrul este ușor de explorat pe jos.",
+            "en": "Park here for the morning; the city center is easily walkable."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz & Denkmal der Bergleute",
+            "hu": "Piactér és Bányászok Emlékműve",
+            "ro": "Piața Centrală și Monumentul Minerilor",
+            "en": "Market Square & Miners' Monument"
+          },
+          "coords": [
+            19.2745,
+            50.2058
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und das nahe gelegene Denkmal zu Fuß.",
+            "hu": "Fedezze fel a teret és a közeli emlékművet gyalog.",
+            "ro": "Explorați piața și monumentul din apropiere pe jos.",
+            "en": "Explore the square and the nearby monument on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollegiatkirche St. Adalbert",
+            "hu": "Szent Adalbert társszékesegyház",
+            "ro": "Biserica Colegială Sf. Adalbert",
+            "en": "Collegiate Church of St. Adalbert"
+          },
+          "coords": [
+            19.2725,
+            50.2045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus.",
+            "hu": "Rövid séta a térről.",
+            "ro": "O scurtă plimbare de la piață.",
+            "en": "A short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Gródek (Parkplatz)",
+            "hu": "Gródek Park (Parkoló)",
+            "ro": "Parcul Gródek (Parcare)",
+            "en": "Park Gródek (Parking)"
+          },
+          "coords": [
+            19.291,
+            50.226
+          ],
+          "category": "parking",
+          "arrive_at": "11:05",
+          "stay_min": 5,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Von hier aus erkunden Sie den Park.",
+            "hu": "Vezessen a következő csoporthoz. Innen fedezze fel a parkot.",
+            "ro": "Conduceți la următorul cluster. De aici explorați parcul.",
+            "en": "Drive to the next cluster. You'll explore the park from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Erkundung des Parks Gródek & Geosfera",
+            "hu": "Gródek Park és Geosfera felfedezése",
+            "ro": "Explorarea Parcului Gródek & Geosfera",
+            "en": "Exploring Park Gródek & Geosfera"
+          },
+          "coords": [
+            19.29,
+            50.225
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:13",
+          "stay_min": 150,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die 'polnischen Malediven' und den botanischen Garten.",
+            "hu": "Szánjon időt a „lengyel Maldív-szigetekre” és a botanikus kertre.",
+            "ro": "Luați-vă timp pentru 'Maldivele poloneze' și grădina botanică.",
+            "en": "Take your time for the 'Polish Maldives' and the botanical garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Sosina See",
+            "hu": "Sosina-tó",
+            "ro": "Lacul Sosina",
+            "en": "Sosina Lake"
+          },
+          "coords": [
+            19.215,
+            50.22
+          ],
+          "category": "lake",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 13.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die letzte Fahrt des Tages führt Sie zu diesem großen See zur Entspannung am Nachmittag.",
+            "hu": "A nap utolsó útja ehhez a nagy tóhoz vezet a délutáni kikapcsolódásra.",
+            "ro": "Ultima călătorie a zilei vă duce la acest lac mare pentru relaxare de după-amiază.",
+            "en": "The final drive of the day takes you to this large lake for afternoon relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto beginnt im Zentrum von Jaworzno, wo Sie parken und den historischen Kern zu Fuß erkunden. Am Vormittag spazieren Sie vom Marktplatz zur Kirche. Nach diesem städtischen Cluster fahren Sie zum Naturcluster Park Gródek und Geosfera, wo Sie die einzigartige Landschaft genießen und zu Mittag essen. Der letzte Teil Ihrer Reise führt Sie zum weitläufigen Sosina-See, einem perfekten Ort, um den Nachmittag entspannt ausklingen zu lassen, bevor Sie die Heimreise antreten.",
+        "hu": "Autós napja Jaworzno központjában kezdődik, ahol leparkol, és gyalog fedezi fel a történelmi magot. Délelőtt a Piactérről a templomhoz sétál. E városi klaszter után a Gródek Park és a Geosfera természeti klaszteréhez hajt, ahol élvezi az egyedi tájat és megebédel. Útja utolsó szakasza a tágas Sosina-tóhoz vezet, amely tökéletes hely a délutáni pihenéshez, mielőtt hazaindulna.",
+        "ro": "Ziua dvs. cu mașina începe în centrul orașului Jaworzno, unde parcați și explorați nucleul istoric pe jos. Dimineața vă plimbați de la Piața Centrală la biserică. După acest cluster urban, conduceți către clusterul natural format din Parcul Gródek și Geosfera, unde vă bucurați de peisajul unic și luați prânzul. Ultima parte a călătoriei vă duce la vastul Lac Sosina, un loc perfect pentru a încheia după-amiaza într-un mod relaxant înainte de a vă întoarce acasă.",
+        "en": "Your day by car starts in the center of Jaworzno, where you'll park and explore the historic core on foot. The morning involves walking from the Market Square to the church. After this urban cluster, you drive to the natural cluster of Park Gródek and Geosfera, enjoying the unique landscape and having lunch. The final leg of your journey takes you to the expansive Sosina Lake, a perfect spot to wind down the afternoon before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Barszcz",
+            "tip": "Eine Rote-Bete-Suppe, die oft mit kleinen Teigtaschen (uszka) serviert wird."
+          },
+          {
+            "name": "Karczma w Dębowym Gaju",
+            "tip": "Ein rustikales Gasthaus, ideal für ein herzhaftes polnisches Mittagessen zwischen Ihren Fahrten."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Kohlrouladen gefüllt mit Fleisch und Reis, ein Klassiker der polnischen Hausmannskost."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barszcz",
+            "tip": "Céklaleves, amelyet gyakran kis gombócokkal (uszka) tálalnak."
+          },
+          {
+            "name": "Karczma w Dębowym Gaju",
+            "tip": "Rusztikus fogadó, ideális egy kiadós lengyel ebédhez a vezetések között."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Hússal és rizzsel töltött káposztatekercs, a lengyel házias konyha klasszikusa."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Barszcz",
+            "tip": "O supă de sfeclă roșie, adesea servită cu găluște mici (uszka)."
+          },
+          {
+            "name": "Karczma w Dębowym Gaju",
+            "tip": "Un han rustic, ideal pentru un prânz polonez consistent între drumuri."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Sarmale umplute cu carne și orez, un clasic al bucătăriei poloneze de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Barszcz",
+            "tip": "A beetroot soup, often served with small dumplings (uszka)."
+          },
+          {
+            "name": "Karczma w Dębowym Gaju",
+            "tip": "A rustic inn, ideal for a hearty Polish lunch between your drives."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Cabbage rolls stuffed with meat and rice, a Polish comfort food classic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Picknick am Sosina-See",
+            "tip": "Bringen Sie eine Decke mit und genießen Sie die Ruhe am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkte im Park Gródek",
+            "tip": "Suchen Sie nach den höchsten Punkten für eine spektakuläre und ruhige Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Früher Morgen am Marktplatz",
+            "tip": "Erleben Sie den Platz, bevor die Menschenmassen eintreffen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a Sosina-tónál",
+            "tip": "Hozzon egy takarót, és élvezze a csendet a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátópontok a Gródek Parkban",
+            "tip": "Keresse a legmagasabb pontokat a látványos és csendes kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kora reggel a Piactéren",
+            "tip": "Tapasztalja meg a teret, mielőtt a tömeg megérkezik.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic la Lacul Sosina",
+            "tip": "Aduceți o pătură și bucurați-vă de liniștea de lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Puncte de belvedere în Parcul Gródek",
+            "tip": "Căutați cele mai înalte puncte pentru o priveliște spectaculoasă și liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dimineața devreme în Piața Centrală",
+            "tip": "Experimentați piața înainte de sosirea mulțimilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic by Sosina Lake",
+            "tip": "Bring a blanket and enjoy the tranquility by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoints in Park Gródek",
+            "tip": "Seek out the highest points for a spectacular and quiet view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Early morning at the Market Square",
+            "tip": "Experience the square before the crowds arrive.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Achten Sie auf Schilder für 'sprzedaż bezpośrednia' (Direktverkauf) für frische Produkte."
+          },
+          {
+            "name": "Galerie Galena",
+            "tip": "Ein modernes Einkaufszentrum für alles, was Sie vielleicht vergessen haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok a környéken",
+            "tip": "Keresse a 'sprzedaż bezpośrednia' (közvetlen értékesítés) táblákat a friss termékekért."
+          },
+          {
+            "name": "Galeria Galena",
+            "tip": "Modern bevásárlóközpont mindenre, amit esetleg elfelejtett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole locale",
+            "tip": "Fiți atenți la indicatoarele 'sprzedaż bezpośrednia' (vânzare directă) pentru produse proaspete."
+          },
+          {
+            "name": "Galeria Galena",
+            "tip": "Un centru comercial modern pentru orice ați fi putut uita."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local farm stands",
+            "tip": "Look for signs for 'sprzedaż bezpośrednia' (direct sale) for fresh produce."
+          },
+          {
+            "name": "Galeria Galena",
+            "tip": "A modern shopping mall for anything you might have forgotten."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkmöglichkeiten und -gebühren im Voraus, besonders im Stadtzentrum.",
+          "Ein GPS ist unerlässlich, um zwischen den verschiedenen Standorten zu navigieren.",
+          "Planen Sie etwas Pufferzeit für den Verkehr ein, insbesondere am späten Nachmittag.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen, wenn Sie parken."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat, különösen a városközpontban.",
+          "A GPS elengedhetetlen a különböző helyszínek közötti navigáláshoz.",
+          "Tervezzen némi pufferidőt a forgalomra, különösen késő délután.",
+          "Ne hagyjon értékeket látható helyen az autóban, amikor parkol."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele în avans, mai ales în centrul orașului.",
+          "Un GPS este esențial pentru a naviga între diferitele locații.",
+          "Planificați un timp tampon pentru trafic, în special după-amiaza târziu.",
+          "Nu lăsați obiecte de valoare la vedere în mașină când parcați."
+        ],
+        "en": [
+          "Check parking options and fees in advance, especially in the city center.",
+          "A GPS is essential for navigating between the different sites.",
+          "Plan for some buffer time for traffic, particularly in the late afternoon.",
+          "Don't leave valuables visible in the car when parked."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 11.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Marktplatz (Haltestelle: Jaworzno Centrum)",
+            "hu": "Érkezés a Piactérre (Megálló: Jaworzno Centrum)",
+            "ro": "Sosire la Piața Centrală (Stația: Jaworzno Centrum)",
+            "en": "Arrival at Market Square (Stop: Jaworzno Centrum)"
+          },
+          "coords": [
+            19.274,
+            50.2055
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 5,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der zentrale Knotenpunkt, von dem aus Sie Ihren Stadtrundgang beginnen.",
+            "hu": "A központi csomópont, ahonnan a városnéző sétát kezdi.",
+            "ro": "Nodul central de unde începeți turul pe jos al orașului.",
+            "en": "The central hub from which to start your city walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollegiatkirche & Stadtmuseum",
+            "hu": "Társszékesegyház és Városi Múzeum",
+            "ro": "Biserica Colegială și Muzeul Municipal",
+            "en": "Collegiate Church & City Museum"
+          },
+          "coords": [
+            19.2743,
+            50.2038
+          ],
+          "category": "cluster",
+          "arrive_at": "09:23",
+          "stay_min": 140,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beiden nahe gelegenen Sehenswürdigkeiten zu Fuß.",
+            "hu": "Fedezze fel ezt a két közeli látnivalót gyalog.",
+            "ro": "Explorați aceste două atracții apropiate pe jos.",
+            "en": "Explore these two nearby attractions on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ankunft am Park Gródek (Haltestelle: Pieczyska Centrum Nurkowe)",
+            "hu": "Érkezés a Gródek Parkhoz (Megálló: Pieczyska Centrum Nurkowe)",
+            "ro": "Sosire la Parcul Gródek (Stația: Pieczyska Centrum Nurkowe)",
+            "en": "Arrival at Park Gródek (Stop: Pieczyska Centrum Nurkowe)"
+          },
+          "coords": [
+            19.292,
+            50.224
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:23",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zu diesem Naturjuwel. Planen Sie Zeit für einen Spaziergang ein.",
+            "hu": "Vegyen buszt ehhez a természeti gyöngyszemhez. Tervezzen időt egy sétára.",
+            "ro": "Luați un autobuz către această bijuterie naturală. Planificați timp pentru o plimbare.",
+            "en": "Take a bus to this natural gem. Plan for some walking time."
+          }
+        },
+        {
+          "name": {
+            "de": "Ankunft am Sosina See (Haltestelle: Sosina Plaża)",
+            "hu": "Érkezés a Sosina-tóhoz (Megálló: Sosina Plaża)",
+            "ro": "Sosire la Lacul Sosina (Stația: Sosina Plaża)",
+            "en": "Arrival at Sosina Lake (Stop: Sosina Plaża)"
+          },
+          "coords": [
+            19.218,
+            50.221
+          ],
+          "category": "lake",
+          "arrive_at": "15:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ihr letzter Transit-Sprung für einen entspannten Nachmittag am Seeufer.",
+            "hu": "Az utolsó buszos út egy pihentető délutánhoz a tóparton.",
+            "ro": "Ultimul salt cu transportul public pentru o după-amiază relaxantă pe malul lacului.",
+            "en": "Your final transit hop for a relaxing afternoon by the lakeside."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to Center"
+          },
+          "coords": [
+            19.274,
+            50.2055
+          ],
+          "category": "transit_hub",
+          "arrive_at": "17:18",
+          "stay_min": 2,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Stadtzentrum für das Abendessen.",
+            "hu": "Utazzon vissza a városközpontba vacsorázni.",
+            "ro": "Întoarceți-vă în centrul orașului pentru cină.",
+            "en": "Head back to the city center for dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln navigieren Sie mühelos durch Jaworzno. Der Vormittag ist dem zentralen Cluster gewidmet, wo Sie vom Busbahnhof aus zu Fuß die Kirche und das Museum erreichen. Nach dem Mittagessen bringt Sie ein Bus zu den atemberaubenden 'polnischen Malediven' im Park Gródek. Der letzte Ausflug des Tages führt Sie mit dem Bus zum großen Sosina-See, wo Sie den Nachmittag verbringen, bevor Sie für den Abend ins Zentrum zurückkehren. Diese Route kombiniert städtische Erkundungen mit weitläufigen Naturerlebnissen.",
+        "hu": "Tömegközlekedéssel könnyedén navigálhat Jaworznóban. A délelőtt a központi klaszternek van szentelve, ahol a buszpályaudvarról gyalogosan elérheti a templomot és a múzeumot. Ebéd után egy busz elviszi a lenyűgöző „lengyel Maldív-szigetekre” a Gródek Parkban. A nap utolsó kirándulása busszal a nagy Sosina-tóhoz vezet, ahol a délutánt tölti, mielőtt estére visszatér a központba. Ez az útvonal a városi felfedezést kiterjedt természeti élményekkel ötvözi.",
+        "ro": "Folosind transportul public, navigați prin Jaworzno fără efort. Dimineața este dedicată clusterului central, unde ajungeți pe jos la biserică și muzeu de la autogară. După prânz, un autobuz vă duce la uimitoarele 'Maldive poloneze' din Parcul Gródek. Ultima excursie a zilei vă duce cu autobuzul la marele Lac Sosina, unde vă petreceți după-amiaza înainte de a vă întoarce în centru pentru seară. Acest traseu combină explorarea urbană cu experiențe extinse în natură.",
+        "en": "Using public transit, you'll navigate Jaworzno with ease. The morning is dedicated to the central cluster, walking from the bus hub to the church and museum. After lunch, a bus takes you to the stunning 'Polish Maldives' at Park Gródek. The final trip of the day is a bus ride to the large Sosina Lake, where you'll spend the afternoon before returning to the center for the evening. This route blends urban exploration with expansive natural escapes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein beliebtes polnisches Streetfood, im Grunde ein offenes Sandwich. Perfekt für unterwegs."
+          },
+          {
+            "name": "Bistro u Przyjaciół",
+            "tip": "Ein beliebter Ort in der Nähe von Bushaltestellen für eine schnelle und leckere Mahlzeit."
+          },
+          {
+            "name": "Kompott",
+            "tip": "Ein traditionelles, nicht-alkoholisches Getränk aus Früchten. Sehr erfrischend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Népszerű lengyel street food, lényegében egy nyitott szendvics. Tökéletes útközben."
+          },
+          {
+            "name": "Bistro u Przyjaciół",
+            "tip": "Népszerű hely a buszmegállók közelében egy gyors és finom étkezéshez."
+          },
+          {
+            "name": "Kompót",
+            "tip": "Hagyományos, alkoholmentes gyümölcsital. Nagyon frissítő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "O mâncare stradală poloneză populară, în esență un sandviș deschis. Perfect pentru a mânca din mers."
+          },
+          {
+            "name": "Bistro u Przyjaciół",
+            "tip": "Un loc popular lângă stațiile de autobuz pentru o masă rapidă și gustoasă."
+          },
+          {
+            "name": "Compot",
+            "tip": "O băutură tradițională, non-alcoolică, făcută din fructe. Foarte răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "A popular Polish street food, essentially an open-faced sandwich. Perfect for on-the-go."
+          },
+          {
+            "name": "Bistro u Przyjaciół",
+            "tip": "A popular spot near bus stops for a quick and tasty meal."
+          },
+          {
+            "name": "Kompot",
+            "tip": "A traditional non-alcoholic beverage made from fruit. Very refreshing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Busfahrt",
+            "tip": "Genießen Sie die Aussicht auf die Landschaft zwischen den Haltestellen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bank im Park Gródek",
+            "tip": "Finden Sie eine Bank abseits der Hauptwege und genießen Sie die Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Sosina-See",
+            "tip": "Entfliehen Sie dem Trubel bei einem Spaziergang am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes buszút",
+            "tip": "Élvezze a táj látványát a megállók között.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Pad a Gródek Parkban",
+            "tip": "Keressen egy padot a fő ösvényektől távol, és élvezze a csendet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Sosina-tónál",
+            "tip": "Meneküljön el a nyüzsgés elől egy sétával a vízparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O călătorie liniștită cu autobuzul",
+            "tip": "Bucurați-vă de peisajul rural dintre stații.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în Parcul Gródek",
+            "tip": "Găsiți o bancă departe de potecile principale și bucurați-vă de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul lacului Sosina",
+            "tip": "Evadați din agitație cu o plimbare pe malul apei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet bus ride",
+            "tip": "Enjoy the views of the countryside between stops.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in Park Gródek",
+            "tip": "Find a bench away from the main paths and enjoy the silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A walk by Sosina Lake",
+            "tip": "Escape the hustle with a walk by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Läden in der Nähe von Haltestellen",
+            "tip": "Lokale Geschäfte bieten oft authentischere Souvenirs als große Zentren."
+          },
+          {
+            "name": "Markttag",
+            "tip": "Wenn Sie an einem Markttag dort sind, nutzen Sie die Gelegenheit, um lokale Produkte zu durchstöbern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis boltok a megállók közelében",
+            "tip": "A helyi üzletek gyakran kínálnak autentikusabb ajándéktárgyakat, mint a nagy központok."
+          },
+          {
+            "name": "Piacnap",
+            "tip": "Ha piacnapon van ott, használja ki az alkalmat a helyi termékek böngészésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici magazine lângă stații",
+            "tip": "Magazinele locale oferă adesea suveniruri mai autentice decât centrele mari."
+          },
+          {
+            "name": "Ziua de piață",
+            "tip": "Dacă sunteți acolo într-o zi de piață, profitați de ocazie pentru a răsfoi produsele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small shops near stops",
+            "tip": "Local shops often offer more authentic souvenirs than large centers."
+          },
+          {
+            "name": "Market Day",
+            "tip": "If you're there on a market day, take the opportunity to browse local goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Laden Sie eine lokale Nahverkehrs-App herunter oder verwenden Sie Online-Karten, um Routen zu planen.",
+          "Beachten Sie die Busfahrpläne, insbesondere für die letzte Rückfahrt vom See.",
+          "Halten Sie etwas Kleingeld für Tickets bereit, falls Sie diese beim Fahrer kaufen müssen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Töltsön le egy helyi közlekedési alkalmazást vagy használjon online térképeket az útvonalak tervezéséhez.",
+          "Figyeljen a buszmenetrendekre, különösen az utolsó visszajáratra a tótól.",
+          "Tartson magánál aprópénzt a jegyekhez, ha a sofőrnél kell megvennie őket."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați o aplicație locală de transport public sau utilizați hărți online pentru a planifica rutele.",
+          "Fiți atenți la orarele autobuzelor, în special pentru ultima cursă de întoarcere de la lac.",
+          "Păstrați niște mărunțiș pentru bilete în cazul în care trebuie să le cumpărați de la șofer."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Download a local transit app or use online maps to plan routes.",
+          "Be aware of bus schedules, especially for the last return trip from the lake.",
+          "Keep some small change for tickets in case you need to buy from the driver."
+        ]
+      }
+    }
+  }
+}

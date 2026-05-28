@@ -1,0 +1,1493 @@
+{
+  "city_id": "uk-colchester-cities-v2",
+  "anchor": {
+    "name": "Colchester",
+    "coords": [
+      51.8917,
+      0.903
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Römische Mauer",
+            "hu": "Római fal",
+            "ro": "Zidul Roman",
+            "en": "Roman Wall"
+          },
+          "coords": [
+            0.898,
+            51.887
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Beginnen Sie am Balkerne Tor, dem größten erhaltenen römischen Tor in Großbritannien.",
+            "hu": "Kezdje a Balkerne kapunál, Britannia legnagyobb fennmaradt római kapujánál.",
+            "ro": "Începeți de la Poarta Balkerne, cea mai mare poartă romană supraviețuitoare din Marea Britanie.",
+            "en": "Start at the Balkerne Gate, the largest surviving Roman gateway in Britain."
+          }
+        },
+        {
+          "name": {
+            "de": "Holländisches Viertel",
+            "hu": "Holland negyed",
+            "ro": "Cartierul Olandez",
+            "en": "Dutch Quarter"
+          },
+          "coords": [
+            0.901,
+            51.89
+          ],
+          "category": "squares",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Bewundern Sie die farbenfrohen Häuser, die von protestantischen Webern aus Flandern erbaut wurden.",
+            "hu": "Csodálja meg a flamand protestáns takácsok által épített színes házakat.",
+            "ro": "Admirați casele colorate construite de țesătorii protestanți din Flandra.",
+            "en": "Admire the colourful houses built by Protestant weavers from Flanders."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Botolph's Priory",
+            "hu": "Szt. Botolph perjelség",
+            "ro": "Prioratul St. Botolph",
+            "en": "St Botolph's Priory"
+          },
+          "coords": [
+            0.899,
+            51.886
+          ],
+          "category": "churches",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Die beeindruckenden Ruinen der ersten Augustiner-Priorei Englands.",
+            "hu": "Anglia első ágoston-rendi perjelségének lenyűgöző romjai.",
+            "ro": "Ruinele impresionante ale primului priorat augustinian din Anglia.",
+            "en": "The impressive ruins of England's first Augustinian priory."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Colchester",
+            "hu": "Colchesteri vár",
+            "ro": "Castelul Colchester",
+            "en": "Colchester Castle"
+          },
+          "coords": [
+            0.903,
+            51.891
+          ],
+          "category": "castles",
+          "arrive_at": "11:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Das größte normannische Bergfried, das in Europa gebaut wurde. Erkunden Sie das Museum im Inneren.",
+            "hu": "Európa legnagyobb normann donjonja. Fedezze fel a benne lévő múzeumot.",
+            "ro": "Cel mai mare donjon normand construit vreodată în Europa. Explorați muzeul din interior.",
+            "en": "The largest Norman keep ever built in Europe. Explore the museum inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Hollytrees Museum",
+            "hu": "Hollytrees Múzeum",
+            "ro": "Muzeul Hollytrees",
+            "en": "Hollytrees Museum"
+          },
+          "coords": [
+            0.904,
+            51.891
+          ],
+          "category": "museums",
+          "arrive_at": "13:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Erfahren Sie mehr über das häusliche Leben und die Kindheit in den letzten 300 Jahren.",
+            "hu": "Ismerje meg az elmúlt 300 év otthoni életét és gyermekkori emlékeit.",
+            "ro": "Aflați despre viața domestică și copilăria de-a lungul ultimilor 300 de ani.",
+            "en": "Learn about domestic life and childhood over the last 300 years."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturhistorisches Museum",
+            "hu": "Természettudományi Múzeum",
+            "ro": "Muzeul de Istorie Naturală",
+            "en": "Natural History Museum"
+          },
+          "coords": [
+            0.905,
+            51.89
+          ],
+          "category": "museums",
+          "arrive_at": "14:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "In einer ehemaligen Kirche untergebracht, entdecken Sie die lokale Tierwelt von der Eiszeit bis heute.",
+            "hu": "Egy egykori templomban található, fedezze fel a helyi élővilágot a jégkorszaktól napjainkig.",
+            "ro": "Găzduit într-o fostă biserică, descoperiți fauna locală de la Epoca de Gheață până astăzi.",
+            "en": "Housed in a former church, discover local wildlife from the Ice Age to today."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Várpark",
+            "ro": "Parcul Castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            0.906,
+            51.893
+          ],
+          "category": "parks",
+          "arrive_at": "15:24",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Ein wunderschöner viktorianischer Park, perfekt für einen Spaziergang entlang des Flusses Colne.",
+            "hu": "Egy gyönyörű viktoriánus park, tökéletes egy sétához a Colne folyó mentén.",
+            "ro": "Un parc victorian frumos, perfect pentru o plimbare de-a lungul râului Colne.",
+            "en": "A beautiful Victorian park, perfect for a stroll along the River Colne."
+          }
+        },
+        {
+          "name": {
+            "de": "Jumbo Wasserturm",
+            "hu": "Jumbo víztorony",
+            "ro": "Turnul de apă Jumbo",
+            "en": "Jumbo Water Tower"
+          },
+          "coords": [
+            0.895,
+            51.889
+          ],
+          "category": "monuments",
+          "arrive_at": "17:24",
+          "stay_min": 21,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Beenden Sie den Tag mit dem Blick auf dieses ikonische viktorianische Wahrzeichen.",
+            "hu": "Zárja a napot ennek az ikonikus viktoriánus mérföldkőnek a látványával.",
+            "ro": "Încheiați-vă ziua admirând acest reper iconic victorian.",
+            "en": "End your day with a view of this iconic Victorian landmark."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Colchester beginnt mit einer Reise in die römische Vergangenheit an der antiken Mauer. Am Vormittag erkunden Sie das mittelalterliche Erbe der Stadt im Holländischen Viertel und den Ruinen von St. Botolph. Der Nachmittag ist der normannischen Macht im Colchester Castle und den Museen im Schlosspark gewidmet. Der Tag endet mit einem entspannten Spaziergang durch den viktorianischen Park und einem Blick auf den berühmten Jumbo-Wasserturm.",
+        "hu": "Colchesteri napja a római múltba való utazással kezdődik az ókori falnál. A délelőtt a város középkori örökségének felfedezésével telik a Holland negyedben és a St. Botolph romjainál. A délután a normann hatalomé a Colchesteri várban és a Várpark múzeumaiban. A nap egy pihentető sétával zárul a viktoriánus parkban, megcsodálva a híres Jumbo víztornyot.",
+        "ro": "Ziua dvs. în Colchester începe cu o călătorie în trecutul roman la zidul antic. Dimineața explorați moștenirea medievală a orașului în Cartierul Olandez și la ruinele St. Botolph. După-amiaza este dedicată puterii normande la Castelul Colchester și muzeelor din Parcul Castelului. Ziua se încheie cu o plimbare relaxantă prin parcul victorian și o priveliște a faimosului Turn de Apă Jumbo.",
+        "en": "Your day in Colchester begins with a journey into the Roman past at the ancient wall. The morning is for exploring the city's medieval heritage in the Dutch Quarter and St. Botolph's ruins. The afternoon is dedicated to Norman power at Colchester Castle and the museums within Castle Park. The day concludes with a relaxing stroll through the Victorian park and a view of the famous Jumbo Water Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Colchester Austern",
+            "tip": "Probieren Sie die berühmten 'Native Oysters', eine lokale Delikatesse seit der Römerzeit."
+          },
+          {
+            "name": "Tiptree Marmelade",
+            "tip": "Genießen Sie Scones mit Marmelade von Wilkin & Sons, die lokal hergestellt wird."
+          },
+          {
+            "name": "The Church St Tavern",
+            "tip": "Ein modernes europäisches Restaurant in der Nähe des Holländischen Viertels."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Colchesteri osztriga",
+            "tip": "Kóstolja meg a híres 'Native Oysters'-t, egy helyi csemegét a római idők óta."
+          },
+          {
+            "name": "Tiptree lekvár",
+            "tip": "Élvezze a pogácsát a helyben készült Wilkin & Sons lekvárjával."
+          },
+          {
+            "name": "The Church St Tavern",
+            "tip": "Modern európai étterem a Holland negyed közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stridiile Colchester",
+            "tip": "Încercați renumitele 'Native Oysters', o delicatesă locală încă din vremea romanilor."
+          },
+          {
+            "name": "Gem de Tiptree",
+            "tip": "Savurați scones cu gem de la Wilkin & Sons, produs local."
+          },
+          {
+            "name": "The Church St Tavern",
+            "tip": "Un restaurant european modern, aproape de Cartierul Olandez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Colchester Oysters",
+            "tip": "Try the famous 'Native Oysters', a local delicacy since Roman times."
+          },
+          {
+            "name": "Tiptree Jam",
+            "tip": "Enjoy scones with jam from Wilkin & Sons, produced locally."
+          },
+          {
+            "name": "The Church St Tavern",
+            "tip": "A modern European restaurant near the Dutch Quarter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Castle Park Gärten",
+            "tip": "Finden Sie eine ruhige Bank in den preisgekrönten Gärten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Flussuferweg Colne",
+            "tip": "Ein friedlicher Spaziergang abseits der belebten Innenstadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inneres der St. Botolph's Priory",
+            "tip": "Sitzen Sie in den Ruinen und genießen Sie die Stille der Geschichte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várpark kertjei",
+            "tip": "Keressen egy csendes padot a díjnyertes kertekben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colne folyóparti ösvény",
+            "tip": "Békés séta távol a nyüzsgő városközponttól.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szt. Botolph perjelség belseje",
+            "tip": "Üljön le a romok között, és élvezze a történelem csendjét.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile din Castle Park",
+            "tip": "Găsiți o bancă liniștită în grădinile premiate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poteca de pe malul râului Colne",
+            "tip": "O plimbare pașnică, departe de centrul aglomerat al orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Interiorul Prioratului St. Botolph",
+            "tip": "Stați printre ruine și bucurați-vă de liniștea istoriei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park Gardens",
+            "tip": "Find a quiet bench within the award-winning gardens.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "River Colne Path",
+            "tip": "A peaceful walk away from the busy town centre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Botolph's Priory Interior",
+            "tip": "Sit within the ruins and enjoy the silence of history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sir Isaac's Walk",
+            "tip": "Eine charmante Gasse mit unabhängigen Boutiquen und Geschäften."
+          },
+          {
+            "name": "Red Lion Books",
+            "tip": "Ein unabhängiger Buchladen, der für sein kuratiertes Sortiment bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sir Isaac's Walk",
+            "tip": "Bájos sikátor független butikokkal és üzletekkel."
+          },
+          {
+            "name": "Red Lion Books",
+            "tip": "Független könyvesbolt, amely a válogatott kínálatáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sir Isaac's Walk",
+            "tip": "O alee fermecătoare cu buticuri și magazine independente."
+          },
+          {
+            "name": "Red Lion Books",
+            "tip": "O librărie independentă cunoscută pentru selecția sa curată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sir Isaac's Walk",
+            "tip": "A charming alley with independent boutiques and shops."
+          },
+          {
+            "name": "Red Lion Books",
+            "tip": "An independent bookshop known for its curated selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum Kopfsteinpflasterstraßen hat.",
+          "Die meisten Museen sind kostenlos, Spenden sind jedoch willkommen.",
+          "Prüfen Sie die Öffnungszeiten des Schlosses im Voraus, da es saisonal variieren kann.",
+          "Der Schlosspark ist der perfekte Ort für ein Picknick-Mittagessen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont macskaköves utcákkal rendelkezik.",
+          "A legtöbb múzeum ingyenes, de az adományokat szívesen fogadják.",
+          "Ellenőrizze a vár nyitvatartási idejét előre, mivel szezonálisan változhat.",
+          "A Várpark tökéletes hely egy piknik ebédhez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului are străzi pavate.",
+          "Majoritatea muzeelor sunt gratuite, dar donațiile sunt binevenite.",
+          "Verificați programul de funcționare al castelului în avans, deoarece poate varia sezonier.",
+          "Parcul Castelului este locul perfect pentru un prânz la picnic."
+        ],
+        "en": [
+          "Wear comfortable shoes as the town centre has cobbled streets.",
+          "Most museums are free, but donations are welcome.",
+          "Check castle opening times in advance as they can be seasonal.",
+          "Castle Park is the perfect spot for a picnic lunch."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Jumbo Wasserturm",
+            "hu": "Jumbo víztorony",
+            "ro": "Turnul de apă Jumbo",
+            "en": "Jumbo Water Tower"
+          },
+          "coords": [
+            0.895,
+            51.889
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.6,
+          "tip_4lang": {
+            "de": "Starten Sie mit einem Wahrzeichen, das von den Einheimischen liebevoll 'Jumbo' genannt wird.",
+            "hu": "Kezdje a napot egy olyan nevezetességnél, amit a helyiek szeretettel 'Jumbónak' hívnak.",
+            "ro": "Începeți cu un punct de reper poreclit cu afecțiune „Jumbo” de către localnici.",
+            "en": "Start with a landmark affectionately nicknamed 'Jumbo' by locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Mauer",
+            "hu": "Római fal",
+            "ro": "Zidul Roman",
+            "en": "Roman Wall"
+          },
+          "coords": [
+            0.898,
+            51.887
+          ],
+          "category": "monuments",
+          "arrive_at": "09:39",
+          "stay_min": 30,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Radeln Sie entlang von Abschnitten der ältesten Stadtmauer Großbritanniens.",
+            "hu": "Biciklizzen végig Britannia legrégebbi városfalának szakaszain.",
+            "ro": "Pedalați de-a lungul secțiunilor celui mai vechi zid de oraș din Marea Britanie.",
+            "en": "Cycle alongside sections of Britain's oldest town wall."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Botolph's Priory",
+            "hu": "Szt. Botolph perjelség",
+            "ro": "Prioratul St. Botolph",
+            "en": "St Botolph's Priory"
+          },
+          "coords": [
+            0.899,
+            51.886
+          ],
+          "category": "churches",
+          "arrive_at": "10:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Legen Sie eine Pause bei diesen stimmungsvollen normannischen Ruinen ein.",
+            "hu": "Tartson egy kis szünetet ezeknél a hangulatos normann romoknál.",
+            "ro": "Faceți o pauză la aceste ruine normande pline de atmosferă.",
+            "en": "Take a break at these atmospheric Norman ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Firstsite",
+            "hu": "Firstsite",
+            "ro": "Firstsite",
+            "en": "Firstsite"
+          },
+          "coords": [
+            0.908,
+            51.887
+          ],
+          "category": "theatres",
+          "arrive_at": "10:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Besuchen Sie diese moderne Kunstgalerie mit ihrem markanten goldenen Gebäude.",
+            "hu": "Nézze meg ezt a modern művészeti galériát a feltűnő arany épületével.",
+            "ro": "Vizitați această galerie de artă modernă cu clădirea sa aurie distinctivă.",
+            "en": "Check out this modern art gallery with its distinctive golden building."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Colchester",
+            "hu": "Colchesteri vár",
+            "ro": "Castelul Colchester",
+            "en": "Colchester Castle"
+          },
+          "coords": [
+            0.903,
+            51.891
+          ],
+          "category": "castles",
+          "arrive_at": "12:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und tauchen Sie tief in die römische und normannische Geschichte ein.",
+            "hu": "Zárja le a biciklijét, és merüljön el mélyen a római és normann történelemben.",
+            "ro": "Legați-vă bicicleta și scufundați-vă adânc în istoria romană și normandă.",
+            "en": "Lock up your bike and dive deep into Roman and Norman history."
+          }
+        },
+        {
+          "name": {
+            "de": "Holländisches Viertel",
+            "hu": "Holland negyed",
+            "ro": "Cartierul Olandez",
+            "en": "Dutch Quarter"
+          },
+          "coords": [
+            0.901,
+            51.89
+          ],
+          "category": "squares",
+          "arrive_at": "13:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Radeln Sie durch die engen Gassen, in denen einst flämische Flüchtlinge lebten.",
+            "hu": "Biciklizzen át a szűk sikátorokon, ahol egykor flamand menekültek éltek.",
+            "ro": "Pedalați pe străduțele înguste care au adăpostit odată refugiați flamanzi.",
+            "en": "Cycle through the narrow lanes that once housed Flemish refugees."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Várpark",
+            "ro": "Parcul Castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            0.906,
+            51.893
+          ],
+          "category": "parks",
+          "arrive_at": "14:48",
+          "stay_min": 142,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.6,
+          "tip_4lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannten Zeit in diesem weitläufigen Park.",
+            "hu": "Fejezze be a kerékpártúrát egy pihentető időtöltéssel ebben a tágas parkban.",
+            "ro": "Încheiați-vă turul cu bicicleta cu o perioadă de relaxare în acest parc întins.",
+            "en": "Finish your cycle tour with some relaxing time in this expansive park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Colchester beginnt am ikonischen Jumbo-Wasserturm und führt Sie entlang der alten römischen Mauern. Am Vormittag halten Sie an den historischen Ruinen von St. Botolph, bevor Sie die moderne Kunst bei Firstsite bewundern. Der Nachmittag steht im Zeichen der Geschichte im Colchester Castle und dem charmanten Holländischen Viertel. Schließlich entspannen Sie sich und beenden den Tag im weitläufigen Schlosspark.",
+        "hu": "Colchesteri kerékpártúrája az ikonikus Jumbo víztoronynál kezdődik, majd az ókori római falak mentén halad. Délelőtt megáll a történelmi St. Botolph romjainál, mielőtt megcsodálná a modern művészetet a Firstsite-ban. A délután a történelemé a Colchesteri várban és a bájos Holland negyedben. Végül pihenjen és fejezze be a napot a tágas Várparkban.",
+        "ro": "Turul dvs. cu bicicleta prin Colchester începe la emblematicul Turn de Apă Jumbo și vă duce de-a lungul vechilor ziduri romane. Dimineața, opriți-vă la ruinele istorice ale St. Botolph înainte de a admira arta modernă la Firstsite. După-amiaza este pentru istorie la Castelul Colchester și în fermecătorul Cartier Olandez. În cele din urmă, relaxați-vă și încheiați ziua în vastul Parc al Castelului.",
+        "en": "Your Colchester cycle tour starts at the iconic Jumbo Water Tower and takes you along the ancient Roman walls. In the morning, you'll stop at the historic ruins of St. Botolph's before admiring modern art at Firstsite. The afternoon is for history at Colchester Castle and the charming Dutch Quarter. Finally, relax and end your day in the expansive Castle Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Colchester Austern",
+            "tip": "Probieren Sie die berühmten 'Native Oysters', eine lokale Delikatesse seit der Römerzeit."
+          },
+          {
+            "name": "Tiptree Marmelade",
+            "tip": "Genießen Sie Scones mit Marmelade von Wilkin & Sons, die lokal hergestellt wird."
+          },
+          {
+            "name": "The Church St Tavern",
+            "tip": "Ein modernes europäisches Restaurant in der Nähe des Holländischen Viertels."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Colchesteri osztriga",
+            "tip": "Kóstolja meg a híres 'Native Oysters'-t, egy helyi csemegét a római idők óta."
+          },
+          {
+            "name": "Tiptree lekvár",
+            "tip": "Élvezze a pogácsát a helyben készült Wilkin & Sons lekvárjával."
+          },
+          {
+            "name": "The Church St Tavern",
+            "tip": "Modern európai étterem a Holland negyed közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stridiile Colchester",
+            "tip": "Încercați renumitele 'Native Oysters', o delicatesă locală încă din vremea romanilor."
+          },
+          {
+            "name": "Gem de Tiptree",
+            "tip": "Savurați scones cu gem de la Wilkin & Sons, produs local."
+          },
+          {
+            "name": "The Church St Tavern",
+            "tip": "Un restaurant european modern, aproape de Cartierul Olandez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Colchester Oysters",
+            "tip": "Try the famous 'Native Oysters', a local delicacy since Roman times."
+          },
+          {
+            "name": "Tiptree Jam",
+            "tip": "Enjoy scones with jam from Wilkin & Sons, produced locally."
+          },
+          {
+            "name": "The Church St Tavern",
+            "tip": "A modern European restaurant near the Dutch Quarter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Castle Park Gärten",
+            "tip": "Finden Sie eine ruhige Bank in den preisgekrönten Gärten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Flussuferweg Colne",
+            "tip": "Ein friedlicher Spaziergang abseits der belebten Innenstadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inneres der St. Botolph's Priory",
+            "tip": "Sitzen Sie in den Ruinen und genießen Sie die Stille der Geschichte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várpark kertjei",
+            "tip": "Keressen egy csendes padot a díjnyertes kertekben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colne folyóparti ösvény",
+            "tip": "Békés séta távol a nyüzsgő városközponttól.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szt. Botolph perjelség belseje",
+            "tip": "Üljön le a romok között, és élvezze a történelem csendjét.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile din Castle Park",
+            "tip": "Găsiți o bancă liniștită în grădinile premiate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poteca de pe malul râului Colne",
+            "tip": "O plimbare pașnică, departe de centrul aglomerat al orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Interiorul Prioratului St. Botolph",
+            "tip": "Stați printre ruine și bucurați-vă de liniștea istoriei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park Gardens",
+            "tip": "Find a quiet bench within the award-winning gardens.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "River Colne Path",
+            "tip": "A peaceful walk away from the busy town centre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Botolph's Priory Interior",
+            "tip": "Sit within the ruins and enjoy the silence of history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sir Isaac's Walk",
+            "tip": "Eine charmante Gasse mit unabhängigen Boutiquen und Geschäften."
+          },
+          {
+            "name": "Red Lion Books",
+            "tip": "Ein unabhängiger Buchladen, der für sein kuratiertes Sortiment bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sir Isaac's Walk",
+            "tip": "Bájos sikátor független butikokkal és üzletekkel."
+          },
+          {
+            "name": "Red Lion Books",
+            "tip": "Független könyvesbolt, amely a válogatott kínálatáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sir Isaac's Walk",
+            "tip": "O alee fermecătoare cu buticuri și magazine independente."
+          },
+          {
+            "name": "Red Lion Books",
+            "tip": "O librărie independentă cunoscută pentru selecția sa curată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sir Isaac's Walk",
+            "tip": "A charming alley with independent boutiques and shops."
+          },
+          {
+            "name": "Red Lion Books",
+            "tip": "An independent bookshop known for its curated selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege entlang des Flusses Colne für eine landschaftlich reizvolle Route.",
+          "Schließen Sie Ihr Fahrrad an den vorgesehenen Ständern an den Hauptattraktionen sicher ab.",
+          "Einige Straßen im Zentrum sind eng; seien Sie vorsichtig im Verkehr.",
+          "Nehmen Sie eine Wasserflasche und Snacks mit, besonders für die Zeit im Park."
+        ],
+        "hu": [
+          "Használja a Colne folyó menti kerékpárutakat egy festői útvonalhoz.",
+          "Zárja le biztonságosan a kerékpárját a főbb látnivalóknál kijelölt tárolókban.",
+          "Néhány belvárosi utca szűk; legyen óvatos a forgalomban.",
+          "Vigyen magával vizes palackot és harapnivalót, különösen a parkban töltött időre."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete de-a lungul râului Colne pentru un traseu pitoresc.",
+          "Asigurați-vă bicicleta în rastelurile desemnate la atracțiile principale.",
+          "Unele străzi din centru sunt înguste; fiți prudenți în trafic.",
+          "Luați o sticlă de apă și gustări, mai ales pentru timpul petrecut în parc."
+        ],
+        "en": [
+          "Use the cycle paths along the River Colne for a scenic route.",
+          "Lock your bike securely at designated racks at major attractions.",
+          "Some central streets are narrow; be cautious with traffic.",
+          "Bring a water bottle and snacks, especially for your time in the park."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Priory Street",
+            "hu": "Priory Street parkoló",
+            "ro": "Parcarea Priory Street",
+            "en": "Priory Street Car Park"
+          },
+          "coords": [
+            0.907,
+            51.887
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Parken Sie hier, um den südlichen Cluster der Sehenswürdigkeiten zu erkunden.",
+            "hu": "Parkoljon itt a déli látnivalócsoport felfedezéséhez.",
+            "ro": "Parcați aici pentru a explora grupul sudic de atracții.",
+            "en": "Park here to explore the southern cluster of sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Firstsite",
+            "hu": "Firstsite",
+            "ro": "Firstsite",
+            "en": "Firstsite"
+          },
+          "coords": [
+            0.908,
+            51.887
+          ],
+          "category": "theatres",
+          "arrive_at": "09:22",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Beginnen Sie mit einem Hauch moderner Kultur in diesem preisgekrönten Gebäude.",
+            "hu": "Kezdje a napot egy kis modern kultúrával ebben a díjnyertes épületben.",
+            "ro": "Începeți cu o doză de cultură modernă în această clădire premiată.",
+            "en": "Start with a dose of modern culture at this award-winning building."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Botolph's Priory",
+            "hu": "Szt. Botolph perjelség",
+            "ro": "Prioratul St. Botolph",
+            "en": "St Botolph's Priory"
+          },
+          "coords": [
+            0.899,
+            51.886
+          ],
+          "category": "churches",
+          "arrive_at": "10:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang führt Sie zu diesen beeindruckenden historischen Ruinen.",
+            "hu": "Egy rövid séta elvezeti Önt ezekhez a lenyűgöző történelmi romokhoz.",
+            "ro": "O scurtă plimbare vă duce la aceste ruine istorice impresionante.",
+            "en": "A short walk takes you to these impressive historic ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Schlosspark",
+            "hu": "Várpark parkoló",
+            "ro": "Parcarea Castle Park",
+            "en": "Castle Park Car Park"
+          },
+          "coords": [
+            0.905,
+            51.893
+          ],
+          "category": "transport",
+          "arrive_at": "11:04",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Fahren Sie zum Hauptcluster und parken Sie für den Rest des Nachmittags.",
+            "hu": "Vezessen a fő látnivalócsoporthoz, és parkoljon le a délután hátralévő részére.",
+            "ro": "Conduceți spre grupul principal de atracții și parcați pentru restul după-amiezii.",
+            "en": "Drive to the main cluster and park for the rest of the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Colchester",
+            "hu": "Colchesteri vár",
+            "ro": "Castelul Colchester",
+            "en": "Colchester Castle"
+          },
+          "coords": [
+            0.903,
+            51.891
+          ],
+          "category": "castles",
+          "arrive_at": "11:16",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Nehmen Sie sich Zeit für das riesige Bergfried und das Museum im Inneren.",
+            "hu": "Szánjon időt a hatalmas donjonra és a benne lévő múzeumra.",
+            "ro": "Luați-vă timp pentru donjonul masiv și muzeul din interior.",
+            "en": "Take your time with the massive keep and the museum inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark & Museen",
+            "hu": "Várpark és múzeumok",
+            "ro": "Parcul Castelului & Muzee",
+            "en": "Castle Park & Museums"
+          },
+          "coords": [
+            0.906,
+            51.893
+          ],
+          "category": "parks",
+          "arrive_at": "13:21",
+          "stay_min": 249,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Spazieren Sie nach dem Mittagessen durch den Park und besuchen Sie das Hollytrees und das Naturhistorische Museum.",
+            "hu": "Ebéd után sétáljon át a parkon, és látogassa meg a Hollytrees és a Természettudományi Múzeumot.",
+            "ro": "După prânz, plimbați-vă prin parc și vizitați Muzeul Hollytrees și Muzeul de Istorie Naturală.",
+            "en": "After lunch, wander through the park and visit the Hollytrees and Natural History Museums."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Colchester ist in zwei Cluster aufgeteilt. Sie beginnen im Süden, parken und spazieren zu den modernen und alten Ruinen von Firstsite und St. Botolph's. Am späten Vormittag fahren Sie zum Hauptcluster am Schlosspark. Dort verbringen Sie den Rest des Tages damit, zu Fuß das mächtige Schloss Colchester zu erkunden, im Park zu Mittag zu essen und die nahegelegenen Museen zu besuchen, ohne das Auto erneut bewegen zu müssen.",
+        "hu": "Colchesteri autós napja két részre oszlik. Délen kezd, leparkol, és elsétál a Firstsite és a St. Botolph modern és ősi romjaihoz. Késő délelőtt áthajt a Várpark melletti fő látnivalócsoporthoz. A nap hátralévő részét ott tölti, gyalogosan felfedezve a hatalmas Colchesteri várat, megebédelve a parkban, és meglátogatva a közeli múzeumokat anélkül, hogy újra autóba kellene ülnie.",
+        "ro": "Ziua dvs. cu mașina în Colchester este împărțită în două grupuri. Începeți în sud, parcând și plimbându-vă la ruinele moderne și antice de la Firstsite și St. Botolph. Spre sfârșitul dimineții, conduceți spre grupul principal de lângă Castle Park. Acolo, petreceți restul zilei explorând pe jos puternicul Castel Colchester, luând prânzul în parc și vizitând muzeele din apropiere, totul fără a mai muta mașina.",
+        "en": "Your car day in Colchester is split into two clusters. You start in the south, parking and walking to the modern and ancient ruins of Firstsite and St. Botolph's. In the late morning, you'll drive to the main cluster by Castle Park. There, you'll spend the rest of the day exploring the mighty Colchester Castle on foot, having lunch in the park, and visiting the nearby museums, all without moving the car again."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Colchester Austern",
+            "tip": "Probieren Sie die berühmten 'Native Oysters', eine lokale Delikatesse seit der Römerzeit."
+          },
+          {
+            "name": "Tiptree Marmelade",
+            "tip": "Genießen Sie Scones mit Marmelade von Wilkin & Sons, die lokal hergestellt wird."
+          },
+          {
+            "name": "The Church St Tavern",
+            "tip": "Ein modernes europäisches Restaurant in der Nähe des Holländischen Viertels."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Colchesteri osztriga",
+            "tip": "Kóstolja meg a híres 'Native Oysters'-t, egy helyi csemegét a római idők óta."
+          },
+          {
+            "name": "Tiptree lekvár",
+            "tip": "Élvezze a pogácsát a helyben készült Wilkin & Sons lekvárjával."
+          },
+          {
+            "name": "The Church St Tavern",
+            "tip": "Modern európai étterem a Holland negyed közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stridiile Colchester",
+            "tip": "Încercați renumitele 'Native Oysters', o delicatesă locală încă din vremea romanilor."
+          },
+          {
+            "name": "Gem de Tiptree",
+            "tip": "Savurați scones cu gem de la Wilkin & Sons, produs local."
+          },
+          {
+            "name": "The Church St Tavern",
+            "tip": "Un restaurant european modern, aproape de Cartierul Olandez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Colchester Oysters",
+            "tip": "Try the famous 'Native Oysters', a local delicacy since Roman times."
+          },
+          {
+            "name": "Tiptree Jam",
+            "tip": "Enjoy scones with jam from Wilkin & Sons, produced locally."
+          },
+          {
+            "name": "The Church St Tavern",
+            "tip": "A modern European restaurant near the Dutch Quarter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Castle Park Gärten",
+            "tip": "Finden Sie eine ruhige Bank in den preisgekrönten Gärten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Flussuferweg Colne",
+            "tip": "Ein friedlicher Spaziergang abseits der belebten Innenstadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inneres der St. Botolph's Priory",
+            "tip": "Sitzen Sie in den Ruinen und genießen Sie die Stille der Geschichte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várpark kertjei",
+            "tip": "Keressen egy csendes padot a díjnyertes kertekben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colne folyóparti ösvény",
+            "tip": "Békés séta távol a nyüzsgő városközponttól.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szt. Botolph perjelség belseje",
+            "tip": "Üljön le a romok között, és élvezze a történelem csendjét.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile din Castle Park",
+            "tip": "Găsiți o bancă liniștită în grădinile premiate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poteca de pe malul râului Colne",
+            "tip": "O plimbare pașnică, departe de centrul aglomerat al orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Interiorul Prioratului St. Botolph",
+            "tip": "Stați printre ruine și bucurați-vă de liniștea istoriei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park Gardens",
+            "tip": "Find a quiet bench within the award-winning gardens.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "River Colne Path",
+            "tip": "A peaceful walk away from the busy town centre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Botolph's Priory Interior",
+            "tip": "Sit within the ruins and enjoy the silence of history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sir Isaac's Walk",
+            "tip": "Eine charmante Gasse mit unabhängigen Boutiquen und Geschäften."
+          },
+          {
+            "name": "Red Lion Books",
+            "tip": "Ein unabhängiger Buchladen, der für sein kuratiertes Sortiment bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sir Isaac's Walk",
+            "tip": "Bájos sikátor független butikokkal és üzletekkel."
+          },
+          {
+            "name": "Red Lion Books",
+            "tip": "Független könyvesbolt, amely a válogatott kínálatáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sir Isaac's Walk",
+            "tip": "O alee fermecătoare cu buticuri și magazine independente."
+          },
+          {
+            "name": "Red Lion Books",
+            "tip": "O librărie independentă cunoscută pentru selecția sa curată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sir Isaac's Walk",
+            "tip": "A charming alley with independent boutiques and shops."
+          },
+          {
+            "name": "Red Lion Books",
+            "tip": "An independent bookshop known for its curated selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Ride-Dienste, um Verkehr und Parkgebühren im Zentrum zu vermeiden.",
+          "Parkgebühren können mit Münzen oder über eine App bezahlt werden; prüfen Sie die Beschilderung.",
+          "Das Fahren im Stadtzentrum kann aufgrund von Einbahnstraßen schwierig sein.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "Használja a Park and Ride szolgáltatásokat a belvárosi forgalom és parkolási díjak elkerülése érdekében.",
+          "A parkolási díjakat érmével vagy alkalmazáson keresztül lehet fizetni; ellenőrizze a táblákat.",
+          "A belvárosi vezetés bonyolult lehet az egyirányú utcák miatt.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban."
+        ],
+        "ro": [
+          "Folosiți serviciile Park and Ride pentru a evita traficul și taxele de parcare din centru.",
+          "Taxele de parcare pot fi plătite cu monede sau printr-o aplicație; verificați indicatoarele.",
+          "Conducerea în centrul orașului poate fi dificilă din cauza sistemului de sensuri unice.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Use the Park and Ride services to avoid central traffic and parking fees.",
+          "Parking charges can be paid by coin or via an app; check the signage.",
+          "Driving in the town centre can be tricky due to one-way systems.",
+          "Don't leave valuables on display in your car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Head Street",
+            "hu": "Head Street buszmegálló",
+            "ro": "Stația de autobuz Head Street",
+            "en": "Head Street Bus Stop"
+          },
+          "coords": [
+            0.898,
+            51.888
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Kommen Sie im Herzen des Einkaufs- und Theaterviertels an.",
+            "hu": "Érkezzen a bevásárló- és színházi negyed szívébe.",
+            "ro": "Sosiți în inima districtului comercial și de teatru.",
+            "en": "Arrive in the heart of the shopping and theatre district."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercury Theatre",
+            "hu": "Mercury Színház",
+            "ro": "Teatrul Mercury",
+            "en": "Mercury Theatre"
+          },
+          "coords": [
+            0.897,
+            51.886
+          ],
+          "category": "theatres",
+          "arrive_at": "09:22",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Bewundern Sie die moderne Architektur dieses kürzlich renovierten Theaters.",
+            "hu": "Csodálja meg ennek a nemrég felújított színháznak a modern építészetét.",
+            "ro": "Admirați arhitectura modernă a acestui teatru recent renovat.",
+            "en": "Admire the modern architecture of this recently refurbished theatre."
+          }
+        },
+        {
+          "name": {
+            "de": "Holländisches Viertel",
+            "hu": "Holland negyed",
+            "ro": "Cartierul Olandez",
+            "en": "Dutch Quarter"
+          },
+          "coords": [
+            0.901,
+            51.89
+          ],
+          "category": "squares",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Schlendern Sie durch die malerischen Straßen zum historischen Kern der Stadt.",
+            "hu": "Sétáljon végig a festői utcákon a város történelmi magja felé.",
+            "ro": "Plimbați-vă pe străzile pitorești spre nucleul istoric al orașului.",
+            "en": "Wander through the picturesque streets towards the town's historic core."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Castle Park",
+            "hu": "Várpark buszmegálló",
+            "ro": "Stația de autobuz Castle Park",
+            "en": "Castle Park Bus Stop"
+          },
+          "coords": [
+            0.904,
+            51.892
+          ],
+          "category": "transport",
+          "arrive_at": "10:43",
+          "stay_min": 5,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nehmen Sie einen kurzen Bus zum Hauptanziehungspunkt der Stadt.",
+            "hu": "Menjen egy rövid buszúttal a város fő látványosságához.",
+            "ro": "Luați un autobuz pe o distanță scurtă până la atracția principală a orașului.",
+            "en": "Take a short bus hop to the town's main attraction cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Colchester",
+            "hu": "Colchesteri vár",
+            "ro": "Castelul Colchester",
+            "en": "Colchester Castle"
+          },
+          "coords": [
+            0.903,
+            51.891
+          ],
+          "category": "castles",
+          "arrive_at": "10:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Verbringen Sie den Großteil des Tages damit, dieses riesige Denkmal zu erkunden.",
+            "hu": "Töltse a nap nagy részét ennek a hatalmas műemléknek a felfedezésével.",
+            "ro": "Petreceți cea mai mare parte a zilei explorând acest monument masiv.",
+            "en": "Spend the bulk of your day exploring this massive monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Várpark",
+            "ro": "Parcul Castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            0.906,
+            51.893
+          ],
+          "category": "parks",
+          "arrive_at": "12:55",
+          "stay_min": 280,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Genießen Sie nach dem Schlossbesuch ein Picknick, einen Spaziergang am Fluss und die Museen im Park.",
+            "hu": "A várlátogatás után élvezze a pikniket, a folyóparti sétát és a parkban található múzeumokat.",
+            "ro": "După vizita la castel, bucurați-vă de un picnic, o plimbare pe râu și muzeele din parc.",
+            "en": "After the castle, enjoy a picnic, a river walk, and the museums within the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im geschäftigen Zentrum von Colchester. Sie erkunden zu Fuß das Theaterviertel und das historische Holländische Viertel. Eine kurze Busfahrt bringt Sie dann zum Hauptcluster der Sehenswürdigkeiten rund um das Schloss. Dort verbringen Sie den Rest des Tages im Schloss Colchester und dem riesigen Schlosspark, alles zu Fuß erreichbar, bevor Sie von einer nahegelegenen Haltestelle wieder abfahren.",
+        "hu": "Tömegközlekedéssel töltött napja Colchester nyüzsgő központjában kezdődik. Gyalogosan fedezi fel a színházi negyedet és a történelmi Holland negyedet. Egy rövid buszút elviszi a vár körüli fő látnivalókhoz. A nap hátralévő részét a Colchesteri várban és a hatalmas Várparkban tölti, mindent gyalogosan elérve, mielőtt egy közeli megállóból elindulna haza.",
+        "ro": "Ziua dvs. cu transportul public începe în centrul plin de viață al orașului Colchester. Explorați pe jos districtul teatrelor și istoricul Cartier Olandez. O scurtă călătorie cu autobuzul vă duce apoi la principalul grup de atracții din jurul castelului. Acolo, petreceți restul zilei la Castelul Colchester și în vastul Parc al Castelului, toate la distanță de mers pe jos, înainte de a pleca de la o stație din apropiere.",
+        "en": "Your public transport day starts in Colchester's bustling centre. You'll explore the theatre district and the historic Dutch Quarter on foot. A short bus ride then takes you to the main cluster of attractions around the castle. There, you'll spend the rest of the day at Colchester Castle and the huge Castle Park, all within walking distance, before departing from a nearby stop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Colchester Austern",
+            "tip": "Probieren Sie die berühmten 'Native Oysters', eine lokale Delikatesse seit der Römerzeit."
+          },
+          {
+            "name": "Tiptree Marmelade",
+            "tip": "Genießen Sie Scones mit Marmelade von Wilkin & Sons, die lokal hergestellt wird."
+          },
+          {
+            "name": "The Church St Tavern",
+            "tip": "Ein modernes europäisches Restaurant in der Nähe des Holländischen Viertels."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Colchesteri osztriga",
+            "tip": "Kóstolja meg a híres 'Native Oysters'-t, egy helyi csemegét a római idők óta."
+          },
+          {
+            "name": "Tiptree lekvár",
+            "tip": "Élvezze a pogácsát a helyben készült Wilkin & Sons lekvárjával."
+          },
+          {
+            "name": "The Church St Tavern",
+            "tip": "Modern európai étterem a Holland negyed közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stridiile Colchester",
+            "tip": "Încercați renumitele 'Native Oysters', o delicatesă locală încă din vremea romanilor."
+          },
+          {
+            "name": "Gem de Tiptree",
+            "tip": "Savurați scones cu gem de la Wilkin & Sons, produs local."
+          },
+          {
+            "name": "The Church St Tavern",
+            "tip": "Un restaurant european modern, aproape de Cartierul Olandez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Colchester Oysters",
+            "tip": "Try the famous 'Native Oysters', a local delicacy since Roman times."
+          },
+          {
+            "name": "Tiptree Jam",
+            "tip": "Enjoy scones with jam from Wilkin & Sons, produced locally."
+          },
+          {
+            "name": "The Church St Tavern",
+            "tip": "A modern European restaurant near the Dutch Quarter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Castle Park Gärten",
+            "tip": "Finden Sie eine ruhige Bank in den preisgekrönten Gärten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Flussuferweg Colne",
+            "tip": "Ein friedlicher Spaziergang abseits der belebten Innenstadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inneres der St. Botolph's Priory",
+            "tip": "Sitzen Sie in den Ruinen und genießen Sie die Stille der Geschichte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várpark kertjei",
+            "tip": "Keressen egy csendes padot a díjnyertes kertekben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colne folyóparti ösvény",
+            "tip": "Békés séta távol a nyüzsgő városközponttól.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szt. Botolph perjelség belseje",
+            "tip": "Üljön le a romok között, és élvezze a történelem csendjét.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile din Castle Park",
+            "tip": "Găsiți o bancă liniștită în grădinile premiate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poteca de pe malul râului Colne",
+            "tip": "O plimbare pașnică, departe de centrul aglomerat al orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Interiorul Prioratului St. Botolph",
+            "tip": "Stați printre ruine și bucurați-vă de liniștea istoriei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park Gardens",
+            "tip": "Find a quiet bench within the award-winning gardens.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "River Colne Path",
+            "tip": "A peaceful walk away from the busy town centre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Botolph's Priory Interior",
+            "tip": "Sit within the ruins and enjoy the silence of history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sir Isaac's Walk",
+            "tip": "Eine charmante Gasse mit unabhängigen Boutiquen und Geschäften."
+          },
+          {
+            "name": "Red Lion Books",
+            "tip": "Ein unabhängiger Buchladen, der für sein kuratiertes Sortiment bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sir Isaac's Walk",
+            "tip": "Bájos sikátor független butikokkal és üzletekkel."
+          },
+          {
+            "name": "Red Lion Books",
+            "tip": "Független könyvesbolt, amely a válogatott kínálatáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sir Isaac's Walk",
+            "tip": "O alee fermecătoare cu buticuri și magazine independente."
+          },
+          {
+            "name": "Red Lion Books",
+            "tip": "O librărie independentă cunoscută pentru selecția sa curată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sir Isaac's Walk",
+            "tip": "A charming alley with independent boutiques and shops."
+          },
+          {
+            "name": "Red Lion Books",
+            "tip": "An independent bookshop known for its curated selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Busfahrten.",
+          "Bus-Apps können Live-Tracking von Bussen zur einfachen Planung bieten.",
+          "Die meisten Busse sind barrierefrei, aber zu Stoßzeiten kann es voll werden.",
+          "Halten Sie Ausschau nach Ihrer Haltestelle; nicht alle werden automatisch angekündigt."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan buszozáshoz.",
+          "A buszos alkalmazások élő buszkövetést biztosíthatnak a könnyű tervezés érdekében.",
+          "A legtöbb busz akadálymentesített, de csúcsidőben zsúfoltak lehetnek.",
+          "Figyelje a megállóját; nem mindegyiket jelentik be automatikusan."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzul.",
+          "Aplicațiile de autobuz pot oferi urmărirea în timp real a autobuzelor pentru o planificare ușoară.",
+          "Majoritatea autobuzelor sunt accesibile, dar pot fi aglomerate la orele de vârf.",
+          "Fiți atenți la stația dvs.; nu toate sunt anunțate automat."
+        ],
+        "en": [
+          "Purchase a day rider ticket for unlimited bus travel.",
+          "Bus apps can offer live tracking of buses for easy planning.",
+          "Most buses are accessible, but can get crowded at peak times.",
+          "Keep an eye out for your stop; not all are announced automatically."
+        ]
+      }
+    }
+  }
+}

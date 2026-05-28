@@ -1,0 +1,1263 @@
+{
+  "city_id": "spain-huelva-cities-v2",
+  "anchor": {
+    "name": "Huelva",
+    "coords": [
+      -6.9447,
+      37.2614
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale La Merced",
+            "hu": "La Merced katedrális",
+            "ro": "Catedrala La Merced",
+            "en": "La Merced Cathedral"
+          },
+          "coords": [
+            -6.9488,
+            37.2635
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Fassade und das ruhige Innere.",
+            "hu": "Csodálja meg a barokk homlokzatot és a békés belső teret.",
+            "ro": "Admirați fațada barocă și interiorul liniștit.",
+            "en": "Admire the baroque facade and the tranquil interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro",
+            "hu": "San Pedro-templom",
+            "ro": "Biserica San Pedro",
+            "en": "San Pedro Church"
+          },
+          "coords": [
+            -6.953,
+            37.2608
+          ],
+          "category": "religious",
+          "arrive_at": "10:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Die älteste Kirche der Stadt, ein Mix aus Gotik und Mudéjar-Stil.",
+            "hu": "A város legrégebbi temploma, a gótikus és a mudéjar stílus keveréke.",
+            "ro": "Cea mai veche biserică din oraș, un amestec de stil gotic și mudéjar.",
+            "en": "The oldest church in the city, a mix of Gothic and Mudéjar styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Huelva",
+            "hu": "Huelva Múzeum",
+            "ro": "Muzeul din Huelva",
+            "en": "Museum of Huelva"
+          },
+          "coords": [
+            -6.9425,
+            37.2662
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die archäologische Abteilung mit tartessischen Artefakten.",
+            "hu": "Fókuszáljon a régészeti részlegre, ahol tartesszoszi leletek láthatók.",
+            "ro": "Concentrați-vă pe secțiunea arheologică cu artefacte tartessiene.",
+            "en": "Focus on the archaeology section featuring Tartessian artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Colón",
+            "hu": "Casa Colón",
+            "ro": "Casa Colón",
+            "en": "Casa Colón"
+          },
+          "coords": [
+            -6.9458,
+            37.2601
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:09",
+          "stay_min": 90,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm, vielleicht gibt es eine kostenlose Ausstellung in den Hallen.",
+            "hu": "Nézze meg a programot, lehet, hogy ingyenes kiállítás van a termekben.",
+            "ro": "Verificați programul, s-ar putea să existe o expoziție gratuită în săli.",
+            "en": "Check the schedule; there might be a free exhibition inside the halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Muelle del Tinto",
+            "hu": "Muelle del Tinto (Ércrakodó)",
+            "ro": "Muelle del Tinto",
+            "en": "Muelle del Tinto"
+          },
+          "coords": [
+            -6.9535,
+            37.2525
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Der beste Ort für einen Spaziergang bei Sonnenuntergang mit industriellem Charme.",
+            "hu": "A legjobb hely egy naplementés sétához, ipari bájjal fűszerezve.",
+            "ro": "Cel mai bun loc pentru o plimbare la apus, cu farmec industrial.",
+            "en": "The best spot for a sunset walk with an industrial charm."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für den Entdeckungsglauben",
+            "hu": "A Felfedezés Hitének Emlékműve",
+            "ro": "Monumentul Credinței Descoperitoare",
+            "en": "Monument to the Discovery Faith"
+          },
+          "coords": [
+            -6.958,
+            37.245
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:21",
+          "stay_min": 54,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gehen Sie um das massive Denkmal herum, um die Details zu würdigen.",
+            "hu": "Sétálja körbe a masszív emlékművet, hogy értékelni tudja a részleteket.",
+            "ro": "Înconjurați monumentul masiv pentru a aprecia detaliile.",
+            "en": "Walk around the massive monument to appreciate the details."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der Kathedrale La Merced und tauchen Sie in die religiöse Geschichte Huelvas ein, gefolgt von der ältesten Kirche der Stadt, San Pedro. Mittags erkunden Sie die reiche Vergangenheit der Region im Museum von Huelva, bevor Sie im historischen Casa Colón eine kulturelle Pause einlegen. Am Nachmittag erleben Sie das industrielle Erbe am Muelle del Tinto. Beenden Sie Ihren Tag am imposanten Monumento a la Fe Descubridora und genießen Sie die Aussicht auf den Zusammenfluss der Flüsse.",
+        "hu": "Kezdje a napot a La Merced katedrálisnál, elmerülve Huelva vallási történelmében, majd folytassa a város legrégebbi templomával, a San Pedróval. Délben fedezze fel a régió gazdag múltját a Huelva Múzeumban, mielőtt kulturális szünetet tartana a történelmi Casa Colónban. Délután tapasztalja meg az ipari örökséget a Muelle del Tintónál. Zárja a napot a lenyűgöző Felfedezés Hitének Emlékművénél, élvezve a folyók találkozásának látványát.",
+        "ro": "Începeți ziua la Catedrala La Merced, cufundându-vă în istoria religioasă a orașului Huelva, urmată de cea mai veche biserică din oraș, San Pedro. La amiază, explorați trecutul bogat al regiunii la Muzeul din Huelva înainte de a lua o pauză culturală la istorica Casa Colón. După-amiaza, experimentați patrimoniul industrial la Muelle del Tinto. Încheiați ziua la impunătorul Monument al Credinței Descoperitoare, bucurându-vă de priveliștea confluenței râurilor.",
+        "en": "Start your day at La Merced Cathedral, delving into Huelva's religious history, followed by the city's oldest church, San Pedro. At noon, explore the region's rich past at the Museum of Huelva before taking a cultural break at the historic Casa Colón. In the afternoon, experience the industrial heritage at Muelle del Tinto. End your day at the imposing Monument to the Discovery Faith, enjoying the views at the river confluence."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gambas Blancas de Huelva",
+            "tip": "Probieren Sie die berühmten weißen Garnelen, am besten einfach gegrillt."
+          },
+          {
+            "name": "Jamón de Jabugo",
+            "tip": "Kosten Sie den weltberühmten Schinken aus der Region."
+          },
+          {
+            "name": "Pescaito frito",
+            "tip": "Genießen Sie eine Auswahl an gebratenem frischem Fisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Huelvai fehér garnéla",
+            "tip": "Kóstolja meg a híres fehér garnélát, lehetőleg egyszerűen grillezve."
+          },
+          {
+            "name": "Jabugo sonka",
+            "tip": "Ízlelje meg a világhírű sonkát a régióból."
+          },
+          {
+            "name": "Sült halválogatás",
+            "tip": "Élvezze a friss, sült halakból álló válogatást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Creveți albi de Huelva",
+            "tip": "Încercați faimoșii creveți albi, de preferință la grătar."
+          },
+          {
+            "name": "Jambon de Jabugo",
+            "tip": "Gustați jambonul de renume mondial din regiune."
+          },
+          {
+            "name": "Pescaito frito",
+            "tip": "Bucurați-vă de un sortiment de pește proaspăt prăjit."
+          }
+        ],
+        "en": [
+          {
+            "name": "White Prawns of Huelva",
+            "tip": "Try the famous white prawns, best enjoyed simply grilled."
+          },
+          {
+            "name": "Jabugo Ham",
+            "tip": "Taste the world-renowned ham from the region."
+          },
+          {
+            "name": "Pescaito frito",
+            "tip": "Enjoy an assortment of fried fresh fish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Muelle del Tinto",
+            "tip": "Der lange Steg über dem Wasser ist bei Sonnenuntergang besonders friedlich.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque Moret",
+            "tip": "Ein großer Stadtpark, ideal für eine Pause im Grünen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Muelle del Tintón",
+            "tip": "A víz fölé nyúló hosszú stég különösen békés naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Moret Park",
+            "tip": "Egy nagy városi park, ideális egy zöld szünethez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe Muelle del Tinto",
+            "tip": "Digul lung deasupra apei este deosebit de pașnic la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Moret",
+            "tip": "Un parc urban mare, ideal pentru o pauză în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stroll on Muelle del Tinto",
+            "tip": "The long pier over the water is especially peaceful at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Moret Park",
+            "tip": "A large urban park, perfect for a break in the green.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado del Carmen",
+            "tip": "Ein lebhafter Markt, um lokale Produkte und Meeresfrüchte zu sehen und zu kaufen."
+          },
+          {
+            "name": "Calle Concepción",
+            "tip": "Die Haupteinkaufsstraße der Stadt mit bekannten Marken und kleinen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carmen Piac",
+            "tip": "Élénk piac, ahol helyi termékeket és tenger gyümölcseit nézhet és vásárolhat."
+          },
+          {
+            "name": "Concepción utca",
+            "tip": "A város fő bevásárlóutcája ismert márkákkal és kis butikokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Carmen",
+            "tip": "O piață plină de viață pentru a vedea și a cumpăra produse locale și fructe de mare."
+          },
+          {
+            "name": "Calle Concepción",
+            "tip": "Strada principală de cumpărături a orașului, cu mărci cunoscute și buticuri mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carmen Market",
+            "tip": "A bustling market to see and buy local produce and seafood."
+          },
+          {
+            "name": "Calle Concepción",
+            "tip": "The city's main shopping street with known brands and small boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und gut zu Fuß erreichbar ist.",
+          "Planen Sie eine Siesta-Pause am Nachmittag ein, da viele Geschäfte schließen.",
+          "Nehmen Sie eine Wasserflasche mit, besonders in den Sommermonaten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont kompakt és gyalogosan jól bejárható.",
+          "Tervezzen egy szieszta szünetet délutánra, mivel sok üzlet bezár.",
+          "Vigyen magával egy vizes palackot, különösen a nyári hónapokban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este compact și ușor de parcurs pe jos.",
+          "Planificați o pauză de siestă după-amiaza, deoarece multe magazine se închid.",
+          "Luați cu dvs. o sticlă de apă, mai ales în lunile de vară."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is compact and very walkable.",
+          "Plan for a siesta break in the afternoon, as many shops close.",
+          "Carry a water bottle, especially during the summer months."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa Colón",
+            "hu": "Casa Colón",
+            "ro": "Casa Colón",
+            "en": "Casa Colón"
+          },
+          "coords": [
+            -6.9458,
+            37.2601
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein großartiger Startpunkt, um die Architektur des 19. Jahrhunderts zu bewundern.",
+            "hu": "Nagyszerű kiindulópont a 19. századi építészet megcsodálásához.",
+            "ro": "Un punct de plecare excelent pentru a admira arhitectura secolului al XIX-lea.",
+            "en": "A great starting point to admire the 19th-century architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale La Merced",
+            "hu": "La Merced katedrális",
+            "ro": "Catedrala La Merced",
+            "en": "La Merced Cathedral"
+          },
+          "coords": [
+            -6.9488,
+            37.2635
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nur eine kurze Radtour von der Casa Colón entfernt.",
+            "hu": "Csak egy rövid bicikliútra a Casa Colóntól.",
+            "ro": "La o scurtă plimbare cu bicicleta de Casa Colón.",
+            "en": "Just a short bike ride away from Casa Colón."
+          }
+        },
+        {
+          "name": {
+            "de": "Muelle del Tinto",
+            "hu": "Muelle del Tinto (Ércrakodó)",
+            "ro": "Muelle del Tinto",
+            "en": "Muelle del Tinto"
+          },
+          "coords": [
+            -6.9535,
+            37.2525
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:34",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Rad über den Steg und genießen Sie die Brise.",
+            "hu": "Tekerjen végig a stégen és élvezze a szellőt.",
+            "ro": "Pedalați de-a lungul digului și bucurați-vă de briză.",
+            "en": "Cycle along the pier and enjoy the breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für den Entdeckungsglauben",
+            "hu": "A Felfedezés Hitének Emlékműve",
+            "ro": "Monumentul Credinței Descoperitoare",
+            "en": "Monument to the Discovery Faith"
+          },
+          "coords": [
+            -6.958,
+            37.245
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:27",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein guter Ort für eine kurze Pause und ein paar Fotos.",
+            "hu": "Jó hely egy rövid pihenőre és néhány fotó készítésére.",
+            "ro": "Un loc bun pentru o scurtă pauză și câteva fotografii.",
+            "en": "A good spot for a short break and some photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Marismas del Odiel",
+            "hu": "Marismas del Odiel (Sós mocsarak)",
+            "ro": "Mlaștinile Odiel",
+            "en": "Marismas del Odiel"
+          },
+          "coords": [
+            -6.925,
+            37.22
+          ],
+          "category": "natural features",
+          "arrive_at": "12:21",
+          "stay_min": 120,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein Fernglas mit, um die Flamingos zu beobachten.",
+            "hu": "Hozzon magával távcsövet a flamingók megfigyeléséhez.",
+            "ro": "Luați un binoclu pentru a observa flamingo.",
+            "en": "Bring binoculars to spot the flamingos."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario de la Cinta",
+            "hu": "Santuario de la Cinta",
+            "ro": "Sanctuarul din La Cinta",
+            "en": "Santuario de la Cinta"
+          },
+          "coords": [
+            -6.938,
+            37.275
+          ],
+          "category": "religious",
+          "arrive_at": "15:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 6.9,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die Aussicht und die spirituelle Atmosphäre.",
+            "hu": "Megéri felmenni a kilátásért és a spirituális légkörért.",
+            "ro": "Urcușul merită pentru priveliște și atmosfera spirituală.",
+            "en": "The climb is worth it for the views and the spiritual atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Huelva",
+            "hu": "Huelva Múzeum",
+            "ro": "Muzeul din Huelva",
+            "en": "Museum of Huelva"
+          },
+          "coords": [
+            -6.9425,
+            37.2662
+          ],
+          "arrive_at": "16:03",
+          "stay_min": 89,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3,
+          "category": "museum",
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss des Tages, um tiefer in die Geschichte einzutauchen.",
+            "hu": "Szép befejezése a napnak, hogy mélyebben elmerüljön a történelemben.",
+            "ro": "Un final frumos de zi pentru a aprofunda istoria.",
+            "en": "A nice end to the day to delve deeper into history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie bei der prächtigen Casa Colón. Eine kurze Fahrt führt Sie zur Kathedrale La Merced, bevor Sie die Meeresbrise am industriellen Muelle del Tinto spüren. Am Mittag radeln Sie zum beeindruckenden Kolumbus-Denkmal und tauchen dann in die Natur der Marismas del Odiel ein, einem Paradies für Vögel. Erklimmen Sie am Nachmittag den Hügel zum Santuario de la Cinta für eine atemberaubende Aussicht. Beenden Sie Ihre Tour mit einer Dosis Geschichte im Museum von Huelva.",
+        "hu": "Pattanjon biciklire, és induljon a csodálatos Casa Colóntól. Egy rövid tekerés után eljut a La Merced katedrálishoz, mielőtt megérezné a tengeri szellőt az ipari Muelle del Tintónál. Délben tekerjen el a lenyűgöző Kolumbusz-emlékműhöz, majd merüljön el a madárparadicsomként ismert Marismas del Odiel természetében. Délután mássza meg a dombot a Santuario de la Cintához a lélegzetelállító kilátásért. Zárja a túrát egy adag történelemmel a Huelva Múzeumban.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la magnifica Casa Colón. O scurtă plimbare vă duce la Catedrala La Merced înainte de a simți briza mării la industrialul Muelle del Tinto. La amiază, pedalați spre impresionantul monument al lui Columb și apoi scufundați-vă în natura din Marismas del Odiel, un paradis al păsărilor. După-amiaza, urcați dealul spre Sanctuarul din La Cinta pentru o priveliște uluitoare. Încheiați turul cu o doză de istorie la Muzeul din Huelva.",
+        "en": "Hop on your bike and start at the magnificent Casa Colón. A short ride takes you to La Merced Cathedral before feeling the sea breeze at the industrial Muelle del Tinto. At noon, cycle to the impressive Columbus monument and then immerse yourself in the nature of Marismas del Odiel, a bird paradise. In the afternoon, climb the hill to the Santuario de la Cinta for a breathtaking view. End your tour with a dose of history at the Museum of Huelva."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chocos Fritos",
+            "tip": "Probieren Sie den frittierten Tintenfisch, eine lokale Spezialität."
+          },
+          {
+            "name": "Atún de Almadraba",
+            "tip": "Wenn Saison ist, verpassen Sie nicht den Thunfisch."
+          },
+          {
+            "name": "Restaurante Acanthum",
+            "tip": "Für ein gehobenes kulinarisches Erlebnis mit lokalen Zutaten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült tintahal (Chocos Fritos)",
+            "tip": "Kóstolja meg a sült tintahalat, egy helyi specialitást."
+          },
+          {
+            "name": "Almadraba tonhal",
+            "tip": "Ha szezonja van, ne hagyja ki a tonhalat."
+          },
+          {
+            "name": "Acanthum Étterem",
+            "tip": "Egy exkluzív kulináris élményért helyi alapanyagokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chocos Fritos",
+            "tip": "Încercați sepia prăjită, o specialitate locală."
+          },
+          {
+            "name": "Ton de Almadraba",
+            "tip": "Dacă este în sezon, nu ratați tonul."
+          },
+          {
+            "name": "Restaurant Acanthum",
+            "tip": "Pentru o experiență culinară de lux cu ingrediente locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chocos Fritos (Fried Cuttlefish)",
+            "tip": "Try the fried cuttlefish, a local specialty."
+          },
+          {
+            "name": "Almadraba Tuna",
+            "tip": "If in season, don't miss the tuna."
+          },
+          {
+            "name": "Acanthum Restaurant",
+            "tip": "For an upscale dining experience with local ingredients."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marismas del Odiel",
+            "tip": "Finden Sie einen ruhigen Beobachtungspunkt und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardines del Muelle",
+            "tip": "Entspannen Sie in den Gärten in der Nähe des Tinto-Piers.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marismas del Odiel",
+            "tip": "Keressen egy csendes megfigyelőpontot, és hallgassa a természet hangjait.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Muelle kertek",
+            "tip": "Pihenjen a Tinto-stég közelében lévő kertekben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marismas del Odiel",
+            "tip": "Găsiți un punct de observație liniștit și ascultați sunetele naturii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile Muelle",
+            "tip": "Relaxați-vă în grădinile de lângă digul Tinto.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marismas del Odiel",
+            "tip": "Find a quiet observation spot and listen to the sounds of nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Muelle Gardens",
+            "tip": "Relax in the gardens near the Tinto Pier.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Suchen Sie nach handbemalter Keramik, die typisch für Andalusien ist."
+          },
+          {
+            "name": "Wein aus dem Condado de Huelva",
+            "tip": "Kaufen Sie eine Flasche lokalen Weißwein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keressen kézzel festett kerámiákat, amelyek jellemzőek Andalúziára."
+          },
+          {
+            "name": "Condado de Huelva bor",
+            "tip": "Vásároljon egy üveg helyi fehérbort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică pictată manual, tipică pentru Andaluzia."
+          },
+          {
+            "name": "Vin din Condado de Huelva",
+            "tip": "Cumpărați o sticlă de vin alb local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Ceramics",
+            "tip": "Look for hand-painted ceramics, typical of Andalusia."
+          },
+          {
+            "name": "Wine from Condado de Huelva",
+            "tip": "Buy a bottle of local white wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads, bevor Sie losfahren.",
+          "Nutzen Sie die Radwege entlang des Flusses.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát.",
+          "Használja a folyó menti kerékpárutakat.",
+          "Mindig zárja le jól a kerékpárt, amikor leparkolja."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni.",
+          "Folosiți pistele de biciclete de-a lungul râului.",
+          "Încuietăți întotdeauna bicicleta corespunzător când o parcați."
+        ],
+        "en": [
+          "Check your bike's condition before you start.",
+          "Use the cycle paths along the river.",
+          "Always lock your bike securely when you park it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 19.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Santuario de la Cinta",
+            "hu": "A csoport: Santuario de la Cinta",
+            "ro": "Cluster A: Sanctuarul din La Cinta",
+            "en": "Cluster A: Santuario de la Cinta"
+          },
+          "coords": [
+            -6.938,
+            37.275
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und genießen Sie die Panoramaaussicht über die Stadt.",
+            "hu": "Parkoljon itt, és élvezze a városra nyíló panorámát.",
+            "ro": "Parcați aici și bucurați-vă de vederea panoramică asupra orașului.",
+            "en": "Park here and enjoy the panoramic view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Kathedrale La Merced",
+            "hu": "B csoport: La Merced katedrális",
+            "ro": "Cluster B: Catedrala La Merced",
+            "en": "Cluster B: La Merced Cathedral"
+          },
+          "coords": [
+            -6.9488,
+            37.2635
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz in der Nähe und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Keressen egy közeli parkolót, és fedezze fel a központot gyalog.",
+            "ro": "Găsiți o parcare în apropiere și explorați centrul pe jos.",
+            "en": "Find a nearby parking spot and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Kirche San Pedro",
+            "hu": "B csoport: San Pedro-templom",
+            "ro": "Cluster B: Biserica San Pedro",
+            "en": "Cluster B: San Pedro Church"
+          },
+          "coords": [
+            -6.953,
+            37.2608
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kathedrale durch die Altstadt.",
+            "hu": "Rövid séta a katedrálistól az óvároson keresztül.",
+            "ro": "O scurtă plimbare de la catedrală prin centrul vechi.",
+            "en": "A short walk from the cathedral through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Marismas del Odiel",
+            "hu": "C csoport: Marismas del Odiel",
+            "ro": "Cluster C: Mlaștinile Odiel",
+            "en": "Cluster C: Marismas del Odiel"
+          },
+          "coords": [
+            -6.925,
+            37.22
+          ],
+          "category": "natural features",
+          "arrive_at": "12:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Besucherzentrum, um Karten und Informationen zu erhalten.",
+            "hu": "Hajtson el a látogatóközponthoz térképekért és információkért.",
+            "ro": "Conduceți la centrul de vizitatori pentru hărți și informații.",
+            "en": "Drive to the visitor center for maps and information."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster D: Muelle del Tinto",
+            "hu": "D csoport: Muelle del Tinto",
+            "ro": "Cluster D: Muelle del Tinto",
+            "en": "Cluster D: Muelle del Tinto"
+          },
+          "coords": [
+            -6.9535,
+            37.2525
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Anfang des Piers und gehen Sie bis zum Ende.",
+            "hu": "Parkoljon a stég elején, és sétáljon el a végéig.",
+            "ro": "Parcați la începutul digului și mergeți până la capăt.",
+            "en": "Park at the start of the pier and walk to the end."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster D: Denkmal für den Entdeckungsglauben",
+            "hu": "D csoport: A Felfedezés Hitének Emlékműve",
+            "ro": "Cluster D: Monumentul Credinței Descoperitoare",
+            "en": "Cluster D: Monument to the Discovery Faith"
+          },
+          "coords": [
+            -6.958,
+            37.245
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:05",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag ausklingen zu lassen und den Sonnenuntergang zu beobachten.",
+            "hu": "Tökéletes hely a nap lezárására és a naplemente megtekintésére.",
+            "ro": "Locul perfect pentru a încheia ziua și a privi apusul.",
+            "en": "The perfect place to end the day and watch the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto am Santuario de la Cinta, um einen atemberaubenden Blick über Huelva zu genießen. Fahren Sie dann ins Stadtzentrum, parken Sie und erkunden Sie zu Fuß die Kathedrale La Merced und die Kirche San Pedro. Am Mittag fahren Sie in das ruhige Naturschutzgebiet Marismas del Odiel. Am Nachmittag fahren Sie zum Hafen, um das industrielle Erbe des Muelle del Tinto zu erleben. Schließen Sie Ihren Tag mit einem kurzen Spaziergang zum imposanten Kolumbus-Denkmal ab, um den Sonnenuntergang zu genießen.",
+        "hu": "Kezdje a napot autóval a Santuario de la Cintánál, hogy gyönyörködhessen Huelva lélegzetelállító látványában. Ezután hajtson be a városközpontba, parkoljon le, és fedezze fel gyalog a La Merced katedrálist és a San Pedro templomot. Délben hajtson ki a nyugodt Marismas del Odiel természetvédelmi területre. Délután vezessen a kikötőbe, hogy megtapasztalja a Muelle del Tinto ipari örökségét. Zárja a napot egy rövid sétával a lenyűgöző Kolumbusz-emlékműhöz, hogy élvezze a naplementét.",
+        "ro": "Începeți ziua cu mașina la Sanctuarul din La Cinta pentru o priveliște uluitoare asupra orașului Huelva. Apoi, conduceți în centrul orașului, parcați și explorați pe jos Catedrala La Merced și Biserica San Pedro. La prânz, mergeți cu mașina la rezervația naturală liniștită Marismas del Odiel. După-amiaza, conduceți spre port pentru a experimenta moștenirea industrială a Muelle del Tinto. Încheiați ziua cu o scurtă plimbare până la impunătorul monument al lui Columb pentru a vă bucura de apus.",
+        "en": "Start your day by car at the Santuario de la Cinta for a breathtaking view over Huelva. Then, drive to the city center, park, and explore La Merced Cathedral and San Pedro Church on foot. At noon, drive out to the tranquil Marismas del Odiel nature reserve. In the afternoon, head to the port to experience the industrial heritage of Muelle del Tinto. Conclude your day with a short walk to the imposing Columbus monument to enjoy the sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Ciquitrake",
+            "tip": "Modern interpretierte andalusische Küche in der Nähe des Zentrums."
+          },
+          {
+            "name": "Bar Tapería El Abuelo",
+            "tip": "Authentische Tapas in einer lebhaften Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ciquitrake Étterem",
+            "tip": "Modern módon értelmezett andalúz konyha a központ közelében."
+          },
+          {
+            "name": "El Abuelo Tapas Bár",
+            "tip": "Autentikus tapasok élénk légkörben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Ciquitrake",
+            "tip": "Bucătărie andaluză interpretată modern, aproape de centru."
+          },
+          {
+            "name": "Bar Tapería El Abuelo",
+            "tip": "Tapas autentice într-o atmosferă plină de viață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciquitrake Restaurant",
+            "tip": "Modernly interpreted Andalusian cuisine near the center."
+          },
+          {
+            "name": "El Abuelo Tapería Bar",
+            "tip": "Authentic tapas in a lively atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt am Santuario de la Cinta",
+            "tip": "Beginnen Sie den Tag mit Stille und einer weiten Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wanderwege in den Marismas del Odiel",
+            "tip": "Finden Sie absolute Ruhe abseits der Hauptwege.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a Santuario de la Cintánál",
+            "tip": "Kezdje a napot csenddel és tágas kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Túraútvonalak a Marismas del Odielben",
+            "tip": "Találjon abszolút nyugalmat a fő utaktól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la Sanctuarul din La Cinta",
+            "tip": "Începeți ziua în liniște cu o priveliște vastă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Trasee de drumeție în Marismas del Odiel",
+            "tip": "Găsiți liniște absolută departe de potecile principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at Santuario de la Cinta",
+            "tip": "Start the day with silence and a vast view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hiking trails in Marismas del Odiel",
+            "tip": "Find absolute peace away from the main paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Productos de la Sierra",
+            "tip": "Kaufen Sie handwerkliche Produkte aus den Bergen von Huelva, wie Käse oder Wurstwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hegyvidéki termékek",
+            "tip": "Vásároljon kézműves termékeket Huelva hegyeiből, például sajtot vagy felvágottakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse din Sierra",
+            "tip": "Cumpărați produse artizanale din munții Huelva, cum ar fi brânzeturi sau mezeluri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Products from the Sierra",
+            "tip": "Buy artisanal products from the Huelva mountains, like cheese or cured meats."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Möglichkeiten, um das Stadtzentrum zu entlasten.",
+          "Achten Sie auf die Parkgebühren im Zentrum.",
+          "Planen Sie Ihre Fahrten außerhalb der Stoßzeiten, um Verkehr zu vermeiden."
+        ],
+        "hu": [
+          "Használja a P+R lehetőségeket a városközpont tehermentesítésére.",
+          "Figyeljen a parkolási díjakra a központban.",
+          "Tervezze az utazásokat a csúcsidőn kívülre a forgalom elkerülése érdekében."
+        ],
+        "ro": [
+          "Folosiți opțiunile de parcare Park and Ride pentru a decongestiona centrul orașului.",
+          "Fiți atenți la taxele de parcare din centru.",
+          "Planificați-vă călătoriile în afara orelor de vârf pentru a evita traficul."
+        ],
+        "en": [
+          "Use Park and Ride options to decongest the city center.",
+          "Be mindful of parking fees in the center.",
+          "Plan your drives outside of peak hours to avoid traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 8.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Casa Colón",
+            "hu": "A csoport: Casa Colón",
+            "ro": "Cluster A: Casa Colón",
+            "en": "Cluster A: Casa Colón"
+          },
+          "coords": [
+            -6.9458,
+            37.2601
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Plaza del Punto, von wo aus es nur ein kurzer Spaziergang ist.",
+            "hu": "Menjen busszal a Plaza del Puntóig, ahonnan csak egy rövid séta.",
+            "ro": "Luați un autobuz până la Plaza del Punto, de unde este o scurtă plimbare.",
+            "en": "Take a bus to Plaza del Punto, from where it's a short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster A: Museum von Huelva",
+            "hu": "A csoport: Huelva Múzeum",
+            "ro": "Cluster A: Muzeul din Huelva",
+            "en": "Cluster A: Museum of Huelva"
+          },
+          "coords": [
+            -6.9425,
+            37.2662
+          ],
+          "category": "museum",
+          "arrive_at": "09:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Casa Colón aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a Casa Colóntól.",
+            "ro": "Ușor de accesat pe jos de la Casa Colón.",
+            "en": "Easily walkable from Casa Colón."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Muelle del Tinto",
+            "hu": "B csoport: Muelle del Tinto",
+            "ro": "Cluster B: Muelle del Tinto",
+            "en": "Cluster B: Muelle del Tinto"
+          },
+          "coords": [
+            -6.9535,
+            37.2525
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Hafenviertel.",
+            "hu": "Menjen busszal a kikötő negyed felé.",
+            "ro": "Luați un autobuz spre zona portuară.",
+            "en": "Take a bus towards the port district."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Denkmal für den Entdeckungsglauben",
+            "hu": "B csoport: A Felfedezés Hitének Emlékműve",
+            "ro": "Cluster B: Monumentul Credinței Descoperitoare",
+            "en": "Cluster B: Monument to the Discovery Faith"
+          },
+          "coords": [
+            -6.958,
+            37.245
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang entlang der Promenade vom Pier aus.",
+            "hu": "Kellemes séta a sétányon a stégtől.",
+            "ro": "O plimbare plăcută de-a lungul promenadei de la dig.",
+            "en": "A pleasant walk along the promenade from the pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Kathedrale La Merced",
+            "hu": "C csoport: La Merced katedrális",
+            "ro": "Cluster C: Catedrala La Merced",
+            "en": "Cluster C: La Merced Cathedral"
+          },
+          "coords": [
+            -6.9488,
+            37.2635
+          ],
+          "category": "religious",
+          "arrive_at": "14:50",
+          "stay_min": 94,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 3.4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Stadtzentrum für Ihren letzten Halt.",
+            "hu": "Menjen busszal vissza a városközpontba az utolsó megállóhoz.",
+            "ro": "Luați un autobuz înapoi în centrul orașului pentru ultima oprire.",
+            "en": "Take a bus back to the city center for your final stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel für einen entspannten Tag. Beginnen Sie in der Nähe der Casa Colón und spazieren Sie zum Museum von Huelva, um in die lokale Kultur einzutauchen. Nehmen Sie mittags einen Bus zum Hafenviertel. Erkunden Sie zu Fuß den industriellen Muelle del Tinto und das nahegelegene Kolumbus-Denkmal. Am Nachmittag bringt Sie ein weiterer Bus zurück ins Herz der Stadt, um den Tag mit einem Besuch der ruhigen Kathedrale La Merced abzuschließen und die Erlebnisse Revue passieren zu lassen.",
+        "hu": "Használja a tömegközlekedést egy pihentető naphoz. Kezdjen a Casa Colón közelében, és sétáljon el a Huelva Múzeumba, hogy elmerüljön a helyi kultúrában. Délben szálljon buszra a kikötő negyedbe. Fedezze fel gyalog az ipari Muelle del Tintót és a közeli Kolumbusz-emlékművet. Délután egy másik busz visszaviszi a város szívébe, hogy a napot a békés La Merced katedrális meglátogatásával zárja, átgondolva az élményeket.",
+        "ro": "Folosiți transportul public pentru o zi relaxantă. Începeți lângă Casa Colón și mergeți pe jos la Muzeul din Huelva pentru o imersiune culturală locală. La prânz, luați un autobuz spre zona portuară. Explorați pe jos industrialul Muelle del Tinto și monumentul lui Columb din apropiere. După-amiaza, un alt autobuz vă va duce înapoi în inima orașului pentru a încheia ziua cu o vizită la liniștita Catedrală La Merced, reflectând asupra experiențelor.",
+        "en": "Use public transport for a relaxed day. Start near Casa Colón and walk to the Museum of Huelva for a local cultural immersion. At noon, take a bus to the port district. Explore the industrial Muelle del Tinto and the nearby Columbus Monument on foot. In the afternoon, another bus will take you back to the heart of the city to end the day with a visit to the peaceful La Merced Cathedral, reflecting on the experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bodeguita Zafiro",
+            "tip": "Eine ausgezeichnete Wahl für eine Vielzahl von Tapas und lokalen Weinen."
+          },
+          {
+            "name": "La Cantina",
+            "tip": "Bekannt für seine Meeresfrüchte-Tapas direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bodeguita Zafiro",
+            "tip": "Kiváló választás különféle tapasokhoz és helyi borokhoz."
+          },
+          {
+            "name": "La Cantina",
+            "tip": "A kikötőben található, tenger gyümölcsei tapasairól ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bodeguita Zafiro",
+            "tip": "O alegere excelentă pentru o varietate de tapas și vinuri locale."
+          },
+          {
+            "name": "La Cantina",
+            "tip": "Cunoscut pentru tapas-urile sale cu fructe de mare, chiar în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bodeguita Zafiro",
+            "tip": "An excellent choice for a variety of tapas and local wines."
+          },
+          {
+            "name": "La Cantina",
+            "tip": "Known for its seafood tapas right by the port."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo de la Ría",
+            "tip": "Ein ruhiger Weg entlang des Flusses, ideal für einen nachdenklichen Spaziergang.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaza de las Monjas",
+            "tip": "Setzen Sie sich auf eine Bank und beobachten Sie das Treiben aus der Ferne.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo de la Ría",
+            "tip": "Csendes út a folyó mentén, ideális egy elgondolkodtató sétához.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaza de las Monjas",
+            "tip": "Üljön le egy padra, és nézze a nyüzsgést távolról.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo de la Ría",
+            "tip": "O alee liniștită de-a lungul râului, perfectă pentru o plimbare contemplativă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaza de las Monjas",
+            "tip": "Așezați-vă pe o bancă și priviți agitația de la distanță.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo de la Ría",
+            "tip": "A quiet path along the river, perfect for a contemplative walk.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaza de las Monjas",
+            "tip": "Sit on a bench and watch the hustle and bustle from a distance.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Conservas de pescado",
+            "tip": "Kaufen Sie hochwertige Fischkonserven als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konzervált hal",
+            "tip": "Vásároljon kiváló minőségű halkonzervet szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Conserve de pește",
+            "tip": "Cumpărați conserve de pește de înaltă calitate ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Canned fish",
+            "tip": "Buy high-quality canned fish as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu erhalten.",
+          "Beachten Sie, dass die Busfrequenzen am späten Abend und an Sonntagen reduziert sein können."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Vegye figyelembe, hogy a buszjáratok sűrűsége késő este és vasárnap csökkenhet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Descărcați aplicația locală de transport public pentru orare în timp real.",
+          "Rețineți că frecvența autobuzelor poate fi redusă seara târziu și duminica."
+        ],
+        "en": [
+          "Buy a daily bus pass to save money.",
+          "Download the local public transport app for real-time schedules.",
+          "Be aware that bus frequencies may be reduced late at night and on Sundays."
+        ]
+      }
+    }
+  }
+}

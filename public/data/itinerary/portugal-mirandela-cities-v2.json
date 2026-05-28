@@ -1,0 +1,1636 @@
+{
+  "city_id": "portugal-mirandela-cities-v2",
+  "anchor": {
+    "name": "Mirandela",
+    "coords": [
+      -7.1867,
+      41.4861
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Palast der Távoras",
+            "hu": "Távoras-palota",
+            "ro": "Palatul Távoras",
+            "en": "Palace of the Távoras"
+          },
+          "coords": [
+            -7.1845,
+            41.4865
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Fassade und stellen Sie sich die Macht dieser einst einflussreichen Familie vor.",
+            "hu": "Csodálja meg a barokk homlokzatot, és képzelje el ennek az egykor befolyásos családnak a hatalmát.",
+            "ro": "Admirați fațada barocă și imaginați-vă puterea acestei familii influente de odinioară.",
+            "en": "Admire the baroque facade and imagine the power of this once-influential family."
+          }
+        },
+        {
+          "name": {
+            "de": "Garten Dr. José de Almeida",
+            "hu": "Dr. José de Almeida kert",
+            "ro": "Grădina Dr. José de Almeida",
+            "en": "Dr. José de Almeida Garden"
+          },
+          "coords": [
+            -7.1838,
+            41.4859
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:14",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um sich kurz auszuruhen und die Einheimischen beim Boulespiel zu beobachten.",
+            "hu": "Egy szép hely egy rövid pihenőre, és megfigyelni, hogyan játszanak a helyiek petanque-ot.",
+            "ro": "Un loc plăcut pentru o scurtă odihnă și pentru a privi localnicii jucând petanc.",
+            "en": "A lovely spot for a short rest and to watch the locals play boules."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Brücke (Ponte Velha)",
+            "hu": "Régi híd (Ponte Velha)",
+            "ro": "Podul Vechi (Ponte Velha)",
+            "en": "Old Bridge (Ponte Velha)"
+          },
+          "coords": [
+            -7.181,
+            41.4862
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die beste Aussicht auf die Brücke hat man vom Flussufer aus. Perfekt für ein klassisches Foto von Mirandela.",
+            "hu": "A legjobb kilátás a hídra a folyópartról nyílik. Tökéletes egy klasszikus mirandelai fotóhoz.",
+            "ro": "Cea mai bună priveliște a podului este de pe malul râului. Perfect pentru o fotografie clasică a Mirandelei.",
+            "en": "The best view of the bridge is from the riverbank. Perfect for a classic photo of Mirandela."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Oliven und Olivenöl",
+            "hu": "Olajbogyó és Olívaolaj Múzeum",
+            "ro": "Muzeul Măslinelor și Uleiului de Măsline",
+            "en": "Museum of the Olive and Olive Oil"
+          },
+          "coords": [
+            -7.1805,
+            41.4871
+          ],
+          "category": "museums",
+          "arrive_at": "11:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Ölverkostung teil. Der Unterschied zwischen den Sorten ist überraschend.",
+            "hu": "Vegyen részt egy olajkóstolón. A fajták közötti különbség meglepő.",
+            "ro": "Participați la o degustare de ulei. Diferența dintre soiuri este surprinzătoare.",
+            "en": "Participate in an oil tasting session. The difference between the varieties is surprising."
+          }
+        },
+        {
+          "name": {
+            "de": "Reichspark (Parque do Império)",
+            "hu": "Birodalmi Park (Parque do Império)",
+            "ro": "Parcul Imperial (Parque do Império)",
+            "en": "Empire Park (Parque do Império)"
+          },
+          "coords": [
+            -7.182,
+            41.4885
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick mit lokalen Produkten, die Sie auf dem Markt gekauft haben.",
+            "hu": "Ideális hely egy piknikhez a piacon vásárolt helyi termékekből.",
+            "ro": "Un loc ideal pentru un picnic cu produse locale cumpărate de la piață.",
+            "en": "An ideal place for a picnic with local products bought from the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Benedikt",
+            "hu": "Szent Benedek-templom",
+            "ro": "Biserica Sfântul Benedict",
+            "en": "Church of Saint Benedict"
+          },
+          "coords": [
+            -7.1849,
+            41.486
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die kunstvollen Holzschnitzereien im Inneren der Kirche.",
+            "hu": "Figyelje meg a templom belsejében található díszes fafaragásokat.",
+            "ro": "Observați sculpturile elaborate în lemn din interiorul bisericii.",
+            "en": "Pay attention to the ornate wood carvings inside the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum Unserer Lieben Frau von Amparo",
+            "hu": "Nossa Senhora do Amparo szentély",
+            "ro": "Sanctuarul Doamnei Noastre de Amparo",
+            "en": "Sanctuary of Our Lady of Amparo"
+          },
+          "coords": [
+            -7.195,
+            41.484
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die Panoramasicht über die Stadt und den Fluss Tua ist die Mühe wert.",
+            "hu": "Meredek az emelkedő, de a panorámás kilátás a városra és a Tua folyóra megéri a fáradságot.",
+            "ro": "Urcușul este abrupt, dar vederea panoramică asupra orașului și a râului Tua merită efortul.",
+            "en": "The climb is steep, but the panoramic view over the city and the Tua river is worth the effort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Mirandela und erkunden Sie das historische Zentrum rund um den Palast der Távoras. Spüren Sie die Geschichte in den alten Steinen und genießen Sie die Ruhe im nahegelegenen Garten. Am Vormittag überqueren Sie die ikonische Ponte Velha, um die andere Seite des Flusses Tua zu entdecken. Tauchen Sie im Olivenölmuseum in die lokale Kultur ein, eine der wichtigsten Industrien der Region. Gönnen Sie sich am Nachmittag einen entspannten Spaziergang durch den Parque do Império, bevor Sie zur spirituellen Seite der Stadt aufsteigen. Beenden Sie Ihren Tag mit dem Aufstieg zum Heiligtum Unserer Lieben Frau von Amparo. Die atemberaubende Aussicht bei Sonnenuntergang wird eine unvergessliche Belohnung für Ihre Wanderung sein und bietet einen perfekten Abschluss für Ihren Tag in Mirandela.",
+        "hu": "Kezdje a napot Mirandela szívében, a Távoras-palota körüli történelmi központ felfedezésével. Érezze a történelmet a régi kövekben, és élvezze a nyugalmat a közeli kertben. A délelőtt folyamán keljen át az ikonikus Ponte Velha hídon, hogy felfedezze a Tua folyó másik oldalát. Merüljön el a helyi kultúrában az olívaolaj múzeumban, amely a régió egyik legfontosabb iparága. Délután tegyen egy pihentető sétát a Parque do Império parkban, mielőtt a város spirituális oldala felé veszi az irányt. A napot a Nossa Senhora do Amparo szentélyhez való felkapaszkodással zárja. A naplementekor nyíló lélegzetelállító kilátás felejthetetlen jutalom lesz a sétáért, és tökéletes lezárása a mirandelai napnak.",
+        "ro": "Începeți ziua în inima Mirandelei, explorând centrul istoric din jurul Palatului Távoras. Simțiți istoria în pietrele vechi și bucurați-vă de liniștea din grădina din apropiere. Dimineața, traversați emblematicul Ponte Velha pentru a descoperi cealaltă parte a râului Tua. Pătrundeți în cultura locală la Muzeul Uleiului de Măsline, una dintre cele mai importante industrii din regiune. După-amiaza, bucurați-vă de o plimbare relaxantă prin Parque do Império înainte de a urca spre latura spirituală a orașului. Încheiați-vă ziua cu urcarea la Sanctuarul Doamnei Noastre de Amparo. Priveliștea uluitoare la apus va fi o recompensă de neuitat pentru plimbarea dumneavoastră, oferind o încheiere perfectă a zilei în Mirandela.",
+        "en": "Start your day in the heart of Mirandela, exploring the historic center around the Palace of the Távoras. Feel the history in the old stones and enjoy the tranquility in the nearby garden. In the morning, cross the iconic Ponte Velha to discover the other side of the Tua River. Immerse yourself in the local culture at the Olive Oil Museum, one of the region's most important industries. In the afternoon, enjoy a relaxing stroll through the Parque do Império before ascending to the spiritual side of the city. End your day with the climb to the Sanctuary of Our Lady of Amparo. The breathtaking sunset view will be an unforgettable reward for your walk, providing a perfect conclusion to your day in Mirandela."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Alheira de Mirandela",
+            "tip": "Probieren Sie diese berühmte geräucherte Wurst, die traditionell gegrillt und mit einem Spiegelei serviert wird. Ein Muss!"
+          },
+          {
+            "name": "Posta à Mirandesa",
+            "tip": "Ein dickes, saftiges Kalbssteak, perfekt gegrillt. Ein Fest für Fleischliebhaber."
+          },
+          {
+            "name": "Azeite de Trás-os-Montes",
+            "tip": "Das lokale Olivenöl ist von außergewöhnlicher Qualität. Genießen Sie es einfach mit frischem Brot."
+          },
+          {
+            "name": "Restaurante O Távora",
+            "tip": "Ein eleganter Ort, um authentische regionale Gerichte in der Nähe des historischen Palastes zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alheira de Mirandela",
+            "tip": "Kóstolja meg ezt a híres füstölt kolbászt, amelyet hagyományosan grillezve, tükörtojással tálalnak. Kihagyhatatlan!"
+          },
+          {
+            "name": "Posta à Mirandesa",
+            "tip": "Vastag, szaftos borjúszelet, tökéletesen grillezve. A húsimádók ünnepe."
+          },
+          {
+            "name": "Azeite de Trás-os-Montes",
+            "tip": "A helyi olívaolaj kivételes minőségű. Élvezze egyszerűen friss kenyérrel."
+          },
+          {
+            "name": "Restaurante O Távora",
+            "tip": "Elegáns hely, ahol autentikus regionális ételeket kóstolhat a történelmi palota közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alheira de Mirandela",
+            "tip": "Încercați acest cârnat afumat faimos, servit tradițional la grătar cu un ou ochi. O delicatesă obligatorie!"
+          },
+          {
+            "name": "Posta à Mirandesa",
+            "tip": "O friptură de vițel groasă și suculentă, gătită perfect la grătar. Un festin pentru iubitorii de carne."
+          },
+          {
+            "name": "Azeite de Trás-os-Montes",
+            "tip": "Uleiul de măsline local este de o calitate excepțională. Savurați-l pur și simplu cu pâine proaspătă."
+          },
+          {
+            "name": "Restaurante O Távora",
+            "tip": "Un loc elegant pentru a încerca preparate regionale autentice, aproape de palatul istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alheira de Mirandela",
+            "tip": "Try this famous smoked sausage, traditionally grilled and served with a fried egg. A must-try delicacy!"
+          },
+          {
+            "name": "Posta à Mirandesa",
+            "tip": "A thick, juicy veal steak, grilled to perfection. A feast for meat lovers."
+          },
+          {
+            "name": "Azeite de Trás-os-Montes",
+            "tip": "The local olive oil is of exceptional quality. Enjoy it simply with fresh bread."
+          },
+          {
+            "name": "Restaurante O Távora",
+            "tip": "An elegant place to taste authentic regional dishes near the historic palace."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Tua",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer und beobachten Sie das sanfte Fließen des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardim do Dr. José de Almeida",
+            "tip": "Ein kleiner, oft übersehener Garten, perfekt für eine ruhige Pause im Schatten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt am Heiligtum",
+            "tip": "Nach dem Trubel des Aufstiegs bietet der Bereich um die Kapelle Momente der Stille und eine atemberaubende Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tua folyó partja",
+            "tip": "Keressen egy csendes padot a folyóparton, és figyelje a víz lassú áramlását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dr. José de Almeida kert",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott kert, tökéletes egy csendes pihenőre az árnyékban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátó a szentélynél",
+            "tip": "A nyüzsgő emelkedő után a kápolna körüli terület a csend pillanatait és lélegzetelállító kilátást kínál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Tua",
+            "tip": "Găsiți o bancă liniștită pe malul râului și priviți cum apa curge lin.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Dr. José de Almeida",
+            "tip": "O grădină mică, adesea trecută cu vederea, perfectă pentru o pauză liniștită la umbră.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere la Sanctuar",
+            "tip": "După agitația urcușului, zona din jurul capelei oferă momente de liniște și o priveliște uluitoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Tua River",
+            "tip": "Find a quiet bench along the riverbank and watch the gentle flow of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dr. José de Almeida Garden",
+            "tip": "A small, often overlooked garden, perfect for a quiet break in the shade.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint at the Sanctuary",
+            "tip": "After the bustle of the climb, the area around the chapel offers moments of silence and a breathtaking view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Kaufen Sie eine Flasche des preisgekrönten Azeite de Trás-os-Montes direkt von den Herstellern oder in lokalen Geschäften."
+          },
+          {
+            "name": "Alheira und andere Würste",
+            "tip": "Nehmen Sie ein Stück des kulinarischen Erbes von Mirandela mit nach Hause. Suchen Sie nach handwerklichen Metzgern."
+          },
+          {
+            "name": "Kunsthandwerk aus der Region",
+            "tip": "Halten Sie Ausschau nach Keramik und Holzarbeiten, die die Traditionen von Trás-os-Montes widerspiegeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásároljon egy üveg díjnyertes Azeite de Trás-os-Montes olajat közvetlenül a termelőktől vagy a helyi boltokban."
+          },
+          {
+            "name": "Alheira és más kolbászok",
+            "tip": "Vigyen haza egy darabot Mirandela kulináris örökségéből. Keressen kézműves henteseket."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keresse a Trás-os-Montes hagyományait tükröző kerámiákat és fatermékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați o sticlă de Azeite de Trás-os-Montes premiat direct de la producători sau din magazinele locale."
+          },
+          {
+            "name": "Alheira și alți cârnați",
+            "tip": "Luați acasă o bucată din moștenirea culinară a Mirandelei. Căutați măcelării artizanale."
+          },
+          {
+            "name": "Artizanat regional",
+            "tip": "Fiți atenți la ceramica și obiectele din lemn care reflectă tradițiile din Trás-os-Montes."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Buy a bottle of the award-winning Azeite de Trás-os-Montes directly from producers or in local shops."
+          },
+          {
+            "name": "Alheira and other sausages",
+            "tip": "Take a piece of Mirandela's culinary heritage home with you. Look for artisanal butchers."
+          },
+          {
+            "name": "Regional Handicrafts",
+            "tip": "Look out for ceramics and woodwork that reflect the traditions of Trás-os-Montes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Aufstieg zum Heiligtum steil ist.",
+          "Beginnen Sie Ihren Tag früh, um die Hitze des Nachmittags zu vermeiden, besonders im Sommer.",
+          "Nehmen Sie eine Wasserflasche mit, um hydriert zu bleiben.",
+          "Planen Sie Ihr Mittagessen rund um die Verkostung von Alheira ein, um das volle lokale Erlebnis zu bekommen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a szentélyhez vezető út meredek.",
+          "Kezdje a napot korán, hogy elkerülje a délutáni hőséget, különösen nyáron.",
+          "Vigyen magával egy vizes palackot, hogy hidratált maradjon.",
+          "Tervezze az ebédjét az Alheira kóstolása köré, hogy teljes legyen a helyi élmény."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece urcușul spre sanctuar este abrupt.",
+          "Începeți ziua devreme pentru a evita căldura de la amiază, mai ales vara.",
+          "Luați cu dumneavoastră o sticlă de apă pentru a rămâne hidratat.",
+          "Planificați-vă prânzul în jurul degustării de Alheira pentru o experiență locală completă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the climb to the sanctuary is steep.",
+          "Start your day early to avoid the afternoon heat, especially in summer.",
+          "Bring a water bottle to stay hydrated.",
+          "Plan your lunch around tasting Alheira to get the full local experience."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof von Mirandela",
+            "hu": "Mirandela vasútállomás",
+            "ro": "Gara din Mirandela",
+            "en": "Mirandela Railway Station"
+          },
+          "coords": [
+            -7.178,
+            41.491
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie sich die geschäftige Atmosphäre der alten Tua-Linie vor. Ein nostalgischer Start in den Tag.",
+            "hu": "Képzelje el a régi Tua-vasútvonal nyüzsgő hangulatát. Nosztalgikus kezdése a napnak.",
+            "ro": "Imaginați-vă atmosfera plină de viață a vechii linii Tua. Un început nostalgic de zi.",
+            "en": "Imagine the bustling atmosphere of the old Tua line. A nostalgic start to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Reichspark (Parque do Império)",
+            "hu": "Birodalmi Park (Parque do Império)",
+            "ro": "Parcul Imperial (Parque do Império)",
+            "en": "Empire Park (Parque do Império)"
+          },
+          "coords": [
+            -7.182,
+            41.4885
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause am Flussufer, bevor Sie ins Stadtzentrum radeln.",
+            "hu": "Tartson egy rövid szünetet a folyóparton, mielőtt a városközpontba teker.",
+            "ro": "Faceți o scurtă pauză pe malul râului înainte de a pedala spre centrul orașului.",
+            "en": "Take a short break on the riverbank before cycling into the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Oliven und Olivenöl",
+            "hu": "Olajbogyó és Olívaolaj Múzeum",
+            "ro": "Muzeul Măslinelor și Uleiului de Măsline",
+            "en": "Museum of the Olive and Olive Oil"
+          },
+          "coords": [
+            -7.1805,
+            41.4871
+          ],
+          "category": "museums",
+          "arrive_at": "10:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Hier erfahren Sie alles über die 'flüssige Gold' der Region. Die Verkostung ist ein Muss.",
+            "hu": "Tudjon meg mindent a régió 'folyékony aranyáról'. A kóstoló kihagyhatatlan.",
+            "ro": "Aflați totul despre 'aurul lichid' al regiunii. Degustarea este obligatorie.",
+            "en": "Learn all about the region's 'liquid gold'. The tasting is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Brücke (Ponte Velha)",
+            "hu": "Régi híd (Ponte Velha)",
+            "ro": "Podul Vechi (Ponte Velha)",
+            "en": "Old Bridge (Ponte Velha)"
+          },
+          "coords": [
+            -7.181,
+            41.4862
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:46",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine mittelalterliche Brücke, die nur für Fußgänger und Radfahrer zugänglich ist. Genießen Sie die autofreie Überfahrt.",
+            "hu": "Egy középkori híd, amely csak gyalogosok és kerékpárosok számára nyitott. Élvezze az autómentes átkelést.",
+            "ro": "Un pod medieval deschis doar pietonilor și bicicliștilor. Bucurați-vă de traversarea fără mașini.",
+            "en": "A medieval bridge open only to pedestrians and cyclists. Enjoy the car-free crossing."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Távoras",
+            "hu": "Távoras-palota",
+            "ro": "Palatul Távoras",
+            "en": "Palace of the Távoras"
+          },
+          "coords": [
+            -7.1845,
+            41.4865
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:12",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Heute das Rathaus. Ein beeindruckendes Beispiel barocker Zivilarchitektur.",
+            "hu": "Ma a városháza. A barokk polgári építészet lenyűgöző példája.",
+            "ro": "Astăzi este primăria. Un exemplu impresionant de arhitectură civilă barocă.",
+            "en": "Today, it's the city hall. An impressive example of baroque civil architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Benedikt",
+            "hu": "Szent Benedek-templom",
+            "ro": "Biserica Sfântul Benedict",
+            "en": "Church of Saint Benedict"
+          },
+          "coords": [
+            -7.1849,
+            41.486
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:04",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kleine Kirche mit einem überraschend kunstvollen Innenraum. Ein Moment der Ruhe.",
+            "hu": "Egy kis templom meglepően díszes belsővel. A nyugalom egy pillanata.",
+            "ro": "O biserică mică, cu un interior surprinzător de elaborat. Un moment de liniște.",
+            "en": "A small church with a surprisingly ornate interior. A moment of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Garten Dr. José de Almeida",
+            "hu": "Dr. José de Almeida kert",
+            "ro": "Grădina Dr. José de Almeida",
+            "en": "Dr. José de Almeida Garden"
+          },
+          "coords": [
+            -7.1838,
+            41.4859
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Viele Bänke und schattige Plätze.",
+            "hu": "Tökéletes egy ebédszünetre. Sok pad és árnyékos hely.",
+            "ro": "Perfect pentru o pauză de prânz. Multe bănci și locuri umbroase.",
+            "en": "Perfect for a lunch break. Plenty of benches and shady spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum Unserer Lieben Frau von Amparo",
+            "hu": "Nossa Senhora do Amparo szentély",
+            "ro": "Sanctuarul Doamnei Noastre de Amparo",
+            "en": "Sanctuary of Our Lady of Amparo"
+          },
+          "coords": [
+            -7.195,
+            41.484
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:30",
+          "stay_min": 78,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 9.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour hier hoch ist anspruchsvoll. Benutzen Sie einen niedrigen Gang oder schieben Sie das Rad das letzte Stück. Die Aussicht ist es wert!",
+            "hu": "Az ide vezető kerékpárút kihívást jelent. Használjon alacsony sebességfokozatot, vagy tolja a kerékpárt az utolsó szakaszon. A kilátás megéri!",
+            "ro": "Urcarea cu bicicleta aici este solicitantă. Folosiți o viteză mică sau împingeți bicicleta pe ultima porțiune. Priveliștea merită!",
+            "en": "The bike ride up here is challenging. Use a low gear or push the bike the last stretch. The view is worth it!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit einem Hauch von Nostalgie am alten Bahnhof, bevor Sie am Flussufer entlang zum Parque do Império radeln. Tauchen Sie am Vormittag in die Welt des Olivenöls ein, dem flüssigen Gold der Region, und überqueren Sie anschließend die historische Ponte Velha. Das Mittagessen findet im Herzen der Altstadt statt, wo Sie den Palast der Távoras und die ruhige Kirche des Heiligen Benedikt erkunden. Nehmen Sie sich Zeit für eine Pause im schattigen Jardim Dr. José de Almeida. Der Nachmittag ist für die sportliche Herausforderung reserviert: die Radtour hinauf zum Heiligtum Unserer Lieben Frau von Amparo. Der anspruchsvolle Aufstieg wird mit einem spektakulären Panoramablick belohnt, der einen unvergesslichen Abschluss Ihrer Radtour durch Mirandela bildet.",
+        "hu": "Kezdje a kerékpártúrát egy csipetnyi nosztalgiával a régi vasútállomáson, mielőtt a folyópart mentén a Parque do Império felé teker. Délelőtt merüljön el az olívaolaj világában, a régió folyékony aranyában, majd keljen át a történelmi Ponte Velha hídon. Az ebédet az óváros szívében töltse, ahol felfedezheti a Távoras-palotát és a csendes Szent Benedek-templomot. Szánjon időt egy pihenőre az árnyas Jardim Dr. José de Almeida kertben. A délután a sportos kihívásé: a kerékpártúra a Nossa Senhora do Amparo szentélyhez. A kihívást jelentő emelkedőt egy látványos panorámás kilátás jutalmazza, amely felejthetetlen lezárása lesz a mirandelai kerékpártúrának.",
+        "ro": "Începeți turul pe bicicletă cu o notă de nostalgie la vechea gară, înainte de a pedala de-a lungul malului râului spre Parque do Império. Dimineața, pătrundeți în lumea uleiului de măsline, aurul lichid al regiunii, apoi traversați istoricul Ponte Velha. Prânzul este în inima orașului vechi, unde explorați Palatul Távoras și liniștita Biserică a Sfântului Benedict. Luați-vă timp pentru o pauză în umbroasa Grădină Dr. José de Almeida. După-amiaza este rezervată provocării atletice: urcarea pe bicicletă la Sanctuarul Doamnei Noastre de Amparo. Urcarea solicitantă va fi răsplătită cu o priveliște panoramică spectaculoasă, oferind o concluzie memorabilă turului dumneavoastră pe bicicletă prin Mirandela.",
+        "en": "Start your bike tour with a touch of nostalgia at the old railway station before cycling along the riverbank to Parque do Império. In the morning, delve into the world of olive oil, the region's liquid gold, then cross the historic Ponte Velha. Lunch is in the heart of the old town, exploring the Palace of the Távoras and the quiet Church of Saint Benedict. Take time for a break in the shady Dr. José de Almeida Garden. The afternoon is reserved for the athletic challenge: the bike ride up to the Sanctuary of Our Lady of Amparo. The demanding climb will be rewarded with a spectacular panoramic view, providing a memorable conclusion to your bike tour of Mirandela."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Alheira de Mirandela",
+            "tip": "Probieren Sie diese berühmte geräucherte Wurst, die traditionell gegrillt und mit einem Spiegelei serviert wird. Ein Muss!"
+          },
+          {
+            "name": "Posta à Mirandesa",
+            "tip": "Ein dickes, saftiges Kalbssteak, perfekt gegrillt. Ein Fest für Fleischliebhaber."
+          },
+          {
+            "name": "Azeite de Trás-os-Montes",
+            "tip": "Das lokale Olivenöl ist von außergewöhnlicher Qualität. Genießen Sie es einfach mit frischem Brot."
+          },
+          {
+            "name": "Restaurante O Távora",
+            "tip": "Ein eleganter Ort, um authentische regionale Gerichte in der Nähe des historischen Palastes zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alheira de Mirandela",
+            "tip": "Kóstolja meg ezt a híres füstölt kolbászt, amelyet hagyományosan grillezve, tükörtojással tálalnak. Kihagyhatatlan!"
+          },
+          {
+            "name": "Posta à Mirandesa",
+            "tip": "Vastag, szaftos borjúszelet, tökéletesen grillezve. A húsimádók ünnepe."
+          },
+          {
+            "name": "Azeite de Trás-os-Montes",
+            "tip": "A helyi olívaolaj kivételes minőségű. Élvezze egyszerűen friss kenyérrel."
+          },
+          {
+            "name": "Restaurante O Távora",
+            "tip": "Elegáns hely, ahol autentikus regionális ételeket kóstolhat a történelmi palota közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alheira de Mirandela",
+            "tip": "Încercați acest cârnat afumat faimos, servit tradițional la grătar cu un ou ochi. O delicatesă obligatorie!"
+          },
+          {
+            "name": "Posta à Mirandesa",
+            "tip": "O friptură de vițel groasă și suculentă, gătită perfect la grătar. Un festin pentru iubitorii de carne."
+          },
+          {
+            "name": "Azeite de Trás-os-Montes",
+            "tip": "Uleiul de măsline local este de o calitate excepțională. Savurați-l pur și simplu cu pâine proaspătă."
+          },
+          {
+            "name": "Restaurante O Távora",
+            "tip": "Un loc elegant pentru a încerca preparate regionale autentice, aproape de palatul istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alheira de Mirandela",
+            "tip": "Try this famous smoked sausage, traditionally grilled and served with a fried egg. A must-try delicacy!"
+          },
+          {
+            "name": "Posta à Mirandesa",
+            "tip": "A thick, juicy veal steak, grilled to perfection. A feast for meat lovers."
+          },
+          {
+            "name": "Azeite de Trás-os-Montes",
+            "tip": "The local olive oil is of exceptional quality. Enjoy it simply with fresh bread."
+          },
+          {
+            "name": "Restaurante O Távora",
+            "tip": "An elegant place to taste authentic regional dishes near the historic palace."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Tua",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer und beobachten Sie das sanfte Fließen des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardim do Dr. José de Almeida",
+            "tip": "Ein kleiner, oft übersehener Garten, perfekt für eine ruhige Pause im Schatten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt am Heiligtum",
+            "tip": "Nach dem Trubel des Aufstiegs bietet der Bereich um die Kapelle Momente der Stille und eine atemberaubende Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tua folyó partja",
+            "tip": "Keressen egy csendes padot a folyóparton, és figyelje a víz lassú áramlását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dr. José de Almeida kert",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott kert, tökéletes egy csendes pihenőre az árnyékban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátó a szentélynél",
+            "tip": "A nyüzsgő emelkedő után a kápolna körüli terület a csend pillanatait és lélegzetelállító kilátást kínál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Tua",
+            "tip": "Găsiți o bancă liniștită pe malul râului și priviți cum apa curge lin.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Dr. José de Almeida",
+            "tip": "O grădină mică, adesea trecută cu vederea, perfectă pentru o pauză liniștită la umbră.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere la Sanctuar",
+            "tip": "După agitația urcușului, zona din jurul capelei oferă momente de liniște și o priveliște uluitoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Tua River",
+            "tip": "Find a quiet bench along the riverbank and watch the gentle flow of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dr. José de Almeida Garden",
+            "tip": "A small, often overlooked garden, perfect for a quiet break in the shade.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint at the Sanctuary",
+            "tip": "After the bustle of the climb, the area around the chapel offers moments of silence and a breathtaking view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Kaufen Sie eine Flasche des preisgekrönten Azeite de Trás-os-Montes direkt von den Herstellern oder in lokalen Geschäften."
+          },
+          {
+            "name": "Alheira und andere Würste",
+            "tip": "Nehmen Sie ein Stück des kulinarischen Erbes von Mirandela mit nach Hause. Suchen Sie nach handwerklichen Metzgern."
+          },
+          {
+            "name": "Kunsthandwerk aus der Region",
+            "tip": "Halten Sie Ausschau nach Keramik und Holzarbeiten, die die Traditionen von Trás-os-Montes widerspiegeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásároljon egy üveg díjnyertes Azeite de Trás-os-Montes olajat közvetlenül a termelőktől vagy a helyi boltokban."
+          },
+          {
+            "name": "Alheira és más kolbászok",
+            "tip": "Vigyen haza egy darabot Mirandela kulináris örökségéből. Keressen kézműves henteseket."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keresse a Trás-os-Montes hagyományait tükröző kerámiákat és fatermékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați o sticlă de Azeite de Trás-os-Montes premiat direct de la producători sau din magazinele locale."
+          },
+          {
+            "name": "Alheira și alți cârnați",
+            "tip": "Luați acasă o bucată din moștenirea culinară a Mirandelei. Căutați măcelării artizanale."
+          },
+          {
+            "name": "Artizanat regional",
+            "tip": "Fiți atenți la ceramica și obiectele din lemn care reflectă tradițiile din Trás-os-Montes."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Buy a bottle of the award-winning Azeite de Trás-os-Montes directly from producers or in local shops."
+          },
+          {
+            "name": "Alheira and other sausages",
+            "tip": "Take a piece of Mirandela's culinary heritage home with you. Look for artisanal butchers."
+          },
+          {
+            "name": "Regional Handicrafts",
+            "tip": "Look out for ceramics and woodwork that reflect the traditions of Trás-os-Montes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen für die Abfahrt vom Heiligtum.",
+          "Einige Straßen in der Altstadt können eng und gepflastert sein, fahren Sie also vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen.",
+          "Die Radtour zum Heiligtum ist anspruchsvoll. Wenn Sie kein erfahrener Radfahrer sind, sollten Sie stattdessen ein Taxi nehmen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket a szentélyből való leereszkedéshez.",
+          "Az óváros egyes utcái szűkek és macskakövesek lehetnek, ezért óvatosan közlekedjen.",
+          "Mindig zárja le a kerékpárját, amikor leparkol.",
+          "A szentélyhez vezető kerékpárút kihívást jelent. Ha nem tapasztalt kerékpáros, fontolja meg inkább a taxit."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele pentru coborârea de la sanctuar.",
+          "Unele străzi din orașul vechi pot fi înguste și pavate, așa că pedalați cu prudență.",
+          "Încuiati-vă întotdeauna bicicleta atunci când o parcați.",
+          "Urcarea cu bicicleta la sanctuar este solicitantă. Dacă nu sunteți un ciclist experimentat, luați în considerare un taxi."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes for the descent from the sanctuary.",
+          "Some streets in the old town can be narrow and cobbled, so ride with caution.",
+          "Always lock your bike when you park it.",
+          "The bike ride to the sanctuary is demanding. If you are not an experienced cyclist, consider taking a taxi instead."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 15.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Heiligtum Unserer Lieben Frau von Amparo",
+            "hu": "Nossa Senhora do Amparo szentély",
+            "ro": "Sanctuarul Doamnei Noastre de Amparo",
+            "en": "Sanctuary of Our Lady of Amparo"
+          },
+          "coords": [
+            -7.195,
+            41.484
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie morgens hierher, um die beste Aussicht und weniger Menschenmassen zu genießen. Es gibt genügend Parkplätze.",
+            "hu": "Hajtson fel ide reggel a legjobb kilátásért és a kevesebb tömegért. Van elég parkolóhely.",
+            "ro": "Conduceți aici dimineața pentru cea mai bună priveliște și mai puțină aglomerație. Există parcare amplă.",
+            "en": "Drive up here in the morning for the best views and fewer crowds. There is ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof von Mirandela",
+            "hu": "Mirandela vasútállomás",
+            "ro": "Gara din Mirandela",
+            "en": "Mirandela Railway Station"
+          },
+          "coords": [
+            -7.178,
+            41.491
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Spaziergang am Fluss. Ein interessanter Ort, um die industrielle Vergangenheit der Stadt zu sehen.",
+            "hu": "Parkoljon le itt, és kezdje a sétát a folyó mentén. Érdekes hely a város ipari múltjának megtekintéséhez.",
+            "ro": "Parcați aici și începeți plimbarea pe malul râului. Un loc interesant pentru a vedea trecutul industrial al orașului.",
+            "en": "Park here and start your riverside walk. An interesting spot to see the city's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Oliven und Olivenöl",
+            "hu": "Olajbogyó és Olívaolaj Múzeum",
+            "ro": "Muzeul Măslinelor și Uleiului de Măsline",
+            "en": "Museum of the Olive and Olive Oil"
+          },
+          "coords": [
+            -7.1805,
+            41.4871
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof aus. Planen Sie genügend Zeit für die Verkostung ein.",
+            "hu": "Rövid séta a vasútállomástól. Tervezzen elég időt a kóstolásra.",
+            "ro": "O scurtă plimbare de la gară. Planificați suficient timp pentru degustare.",
+            "en": "A short walk from the railway station. Plan enough time for the tasting."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Brücke (Ponte Velha)",
+            "hu": "Régi híd (Ponte Velha)",
+            "ro": "Podul Vechi (Ponte Velha)",
+            "en": "Old Bridge (Ponte Velha)"
+          },
+          "coords": [
+            -7.181,
+            41.4862
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:57",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke zu Fuß, um den zweiten Cluster Ihrer Tour zu erreichen.",
+            "hu": "Gyalog keljen át a hídon, hogy elérje a túra második klaszterét.",
+            "ro": "Traversați podul pe jos pentru a ajunge la al doilea grup de atracții al turului.",
+            "en": "Cross the bridge on foot to reach the second cluster of your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Távoras",
+            "hu": "Távoras-palota",
+            "ro": "Palatul Távoras",
+            "en": "Palace of the Távoras"
+          },
+          "coords": [
+            -7.1845,
+            41.4865
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 10,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Stadtzentrum und finden Sie einen Parkplatz. Der Palast ist der Ausgangspunkt für Ihren Nachmittagsspaziergang.",
+            "hu": "Hajtson a városközpontba, és keressen parkolóhelyet. A palota a délutáni séta kiindulópontja.",
+            "ro": "Conduceți spre centrul orașului și găsiți un loc de parcare. Palatul este punctul de plecare pentru plimbarea de după-amiază.",
+            "en": "Drive to the city center and find parking. The palace is the starting point for your afternoon walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardim do Dr. José de Almeida",
+            "hu": "Dr. José de Almeida kert",
+            "ro": "Grădina Dr. José de Almeida",
+            "en": "Dr. José de Almeida Garden"
+          },
+          "coords": [
+            -7.1838,
+            41.4859
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang vom Palast aus. Ein idealer Ort, um den Tag ausklingen zu lassen.",
+            "hu": "Egy pihentető séta a palotától. Ideális hely a nap befejezéséhez.",
+            "ro": "O plimbare relaxantă de la palat. Un loc ideal pentru a încheia ziua.",
+            "en": "A relaxing walk from the palace. An ideal place to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt zum Heiligtum Unserer Lieben Frau von Amparo, um die herrliche Morgenstimmung und die Aussicht zu genießen. Dies ist Ihr erster Cluster. Fahren Sie dann zum zweiten Cluster am Flussufer, parken Sie in der Nähe des alten Bahnhofs und erkunden Sie zu Fuß das Olivenölmuseum und die berühmte Ponte Velha. Diese Gegend ist perfekt für einen Spaziergang am Vormittag. Am Nachmittag fahren Sie zum dritten Cluster, dem historischen Herzen von Mirandela. Parken Sie Ihr Auto und entdecken Sie den majestätischen Palast der Távoras. Beenden Sie Ihren Tag mit einem gemütlichen Spaziergang zum Jardim do Dr. José de Almeida, wo Sie die lokale Atmosphäre aufsaugen können, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Kezdje a napot egy autózással a Nossa Senhora do Amparo szentélyhez, hogy élvezze a csodálatos reggeli hangulatot és a kilátást. Ez az első klaszter. Ezután hajtson a második klaszterhez a folyóparton, parkoljon le a régi vasútállomás közelében, és fedezze fel gyalog az olívaolaj múzeumot és a híres Ponte Velha hidat. Ez a terület tökéletes egy délelőtti sétához. Délután hajtson a harmadik klaszterhez, Mirandela történelmi szívéhez. Parkolja le az autóját, és fedezze fel a fenséges Távoras-palotát. A napot egy kellemes sétával zárja a Jardim do Dr. José de Almeida kertben, ahol magába szívhatja a helyi hangulatot, mielőtt visszatér az autójához.",
+        "ro": "Începeți ziua conducând până la Sanctuarul Doamnei Noastre de Amparo pentru a vă bucura de atmosfera magnifică de dimineață și de priveliște. Acesta este primul dumneavoastră grup de atracții. Apoi, conduceți la al doilea grup de pe malul râului, parcați lângă vechea gară și explorați pe jos Muzeul Uleiului de Măsline și faimosul Ponte Velha. Această zonă este perfectă pentru o plimbare de dimineață. După-amiaza, conduceți la al treilea grup, inima istorică a Mirandelei. Parcați mașina și descoperiți maiestuosul Palat Távoras. Încheiați-vă ziua cu o plimbare relaxantă la Grădina Dr. José de Almeida, unde puteți absorbi atmosfera locală înainte de a vă întoarce la mașină.",
+        "en": "Start your day by driving up to the Sanctuary of Our Lady of Amparo to enjoy the magnificent morning atmosphere and views. This is your first cluster. Then, drive to the second cluster on the riverside, park near the old railway station, and explore the Olive Oil Museum and the famous Ponte Velha on foot. This area is perfect for a mid-morning stroll. In the afternoon, drive to the third cluster, the historic heart of Mirandela. Park your car and discover the majestic Palace of the Távoras. End your day with a leisurely walk to the Dr. José de Almeida Garden, where you can soak up the local atmosphere before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Alheira de Mirandela",
+            "tip": "Probieren Sie diese berühmte geräucherte Wurst, die traditionell gegrillt und mit einem Spiegelei serviert wird. Ein Muss!"
+          },
+          {
+            "name": "Posta à Mirandesa",
+            "tip": "Ein dickes, saftiges Kalbssteak, perfekt gegrillt. Ein Fest für Fleischliebhaber."
+          },
+          {
+            "name": "Azeite de Trás-os-Montes",
+            "tip": "Das lokale Olivenöl ist von außergewöhnlicher Qualität. Genießen Sie es einfach mit frischem Brot."
+          },
+          {
+            "name": "Restaurante O Távora",
+            "tip": "Ein eleganter Ort, um authentische regionale Gerichte in der Nähe des historischen Palastes zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alheira de Mirandela",
+            "tip": "Kóstolja meg ezt a híres füstölt kolbászt, amelyet hagyományosan grillezve, tükörtojással tálalnak. Kihagyhatatlan!"
+          },
+          {
+            "name": "Posta à Mirandesa",
+            "tip": "Vastag, szaftos borjúszelet, tökéletesen grillezve. A húsimádók ünnepe."
+          },
+          {
+            "name": "Azeite de Trás-os-Montes",
+            "tip": "A helyi olívaolaj kivételes minőségű. Élvezze egyszerűen friss kenyérrel."
+          },
+          {
+            "name": "Restaurante O Távora",
+            "tip": "Elegáns hely, ahol autentikus regionális ételeket kóstolhat a történelmi palota közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alheira de Mirandela",
+            "tip": "Încercați acest cârnat afumat faimos, servit tradițional la grătar cu un ou ochi. O delicatesă obligatorie!"
+          },
+          {
+            "name": "Posta à Mirandesa",
+            "tip": "O friptură de vițel groasă și suculentă, gătită perfect la grătar. Un festin pentru iubitorii de carne."
+          },
+          {
+            "name": "Azeite de Trás-os-Montes",
+            "tip": "Uleiul de măsline local este de o calitate excepțională. Savurați-l pur și simplu cu pâine proaspătă."
+          },
+          {
+            "name": "Restaurante O Távora",
+            "tip": "Un loc elegant pentru a încerca preparate regionale autentice, aproape de palatul istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alheira de Mirandela",
+            "tip": "Try this famous smoked sausage, traditionally grilled and served with a fried egg. A must-try delicacy!"
+          },
+          {
+            "name": "Posta à Mirandesa",
+            "tip": "A thick, juicy veal steak, grilled to perfection. A feast for meat lovers."
+          },
+          {
+            "name": "Azeite de Trás-os-Montes",
+            "tip": "The local olive oil is of exceptional quality. Enjoy it simply with fresh bread."
+          },
+          {
+            "name": "Restaurante O Távora",
+            "tip": "An elegant place to taste authentic regional dishes near the historic palace."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Tua",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer und beobachten Sie das sanfte Fließen des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardim do Dr. José de Almeida",
+            "tip": "Ein kleiner, oft übersehener Garten, perfekt für eine ruhige Pause im Schatten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt am Heiligtum",
+            "tip": "Nach dem Trubel des Aufstiegs bietet der Bereich um die Kapelle Momente der Stille und eine atemberaubende Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tua folyó partja",
+            "tip": "Keressen egy csendes padot a folyóparton, és figyelje a víz lassú áramlását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dr. José de Almeida kert",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott kert, tökéletes egy csendes pihenőre az árnyékban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátó a szentélynél",
+            "tip": "A nyüzsgő emelkedő után a kápolna körüli terület a csend pillanatait és lélegzetelállító kilátást kínál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Tua",
+            "tip": "Găsiți o bancă liniștită pe malul râului și priviți cum apa curge lin.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Dr. José de Almeida",
+            "tip": "O grădină mică, adesea trecută cu vederea, perfectă pentru o pauză liniștită la umbră.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere la Sanctuar",
+            "tip": "După agitația urcușului, zona din jurul capelei oferă momente de liniște și o priveliște uluitoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Tua River",
+            "tip": "Find a quiet bench along the riverbank and watch the gentle flow of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dr. José de Almeida Garden",
+            "tip": "A small, often overlooked garden, perfect for a quiet break in the shade.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint at the Sanctuary",
+            "tip": "After the bustle of the climb, the area around the chapel offers moments of silence and a breathtaking view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Kaufen Sie eine Flasche des preisgekrönten Azeite de Trás-os-Montes direkt von den Herstellern oder in lokalen Geschäften."
+          },
+          {
+            "name": "Alheira und andere Würste",
+            "tip": "Nehmen Sie ein Stück des kulinarischen Erbes von Mirandela mit nach Hause. Suchen Sie nach handwerklichen Metzgern."
+          },
+          {
+            "name": "Kunsthandwerk aus der Region",
+            "tip": "Halten Sie Ausschau nach Keramik und Holzarbeiten, die die Traditionen von Trás-os-Montes widerspiegeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásároljon egy üveg díjnyertes Azeite de Trás-os-Montes olajat közvetlenül a termelőktől vagy a helyi boltokban."
+          },
+          {
+            "name": "Alheira és más kolbászok",
+            "tip": "Vigyen haza egy darabot Mirandela kulináris örökségéből. Keressen kézműves henteseket."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keresse a Trás-os-Montes hagyományait tükröző kerámiákat és fatermékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați o sticlă de Azeite de Trás-os-Montes premiat direct de la producători sau din magazinele locale."
+          },
+          {
+            "name": "Alheira și alți cârnați",
+            "tip": "Luați acasă o bucată din moștenirea culinară a Mirandelei. Căutați măcelării artizanale."
+          },
+          {
+            "name": "Artizanat regional",
+            "tip": "Fiți atenți la ceramica și obiectele din lemn care reflectă tradițiile din Trás-os-Montes."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Buy a bottle of the award-winning Azeite de Trás-os-Montes directly from producers or in local shops."
+          },
+          {
+            "name": "Alheira and other sausages",
+            "tip": "Take a piece of Mirandela's culinary heritage home with you. Look for artisanal butchers."
+          },
+          {
+            "name": "Regional Handicrafts",
+            "tip": "Look out for ceramics and woodwork that reflect the traditions of Trás-os-Montes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann tagsüber eine Herausforderung sein. Suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Die Cluster-Strategie spart Ihnen Zeit und Parkgebühren.",
+          "Überprüfen Sie die Öffnungszeiten des Olivenölmuseums, bevor Sie losfahren.",
+          "Respektieren Sie die Einbahnstraßen im historischen Zentrum."
+        ],
+        "hu": [
+          "A városközpontban napközben nehéz lehet parkolni. Keressen kijelölt parkolókat.",
+          "A klaszter-stratégia időt és parkolási díjakat takarít meg Önnek.",
+          "Indulás előtt ellenőrizze az olívaolaj múzeum nyitvatartási idejét.",
+          "Tartsa tiszteletben az egyirányú utcákat a történelmi központban."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi o provocare în timpul zilei. Căutați parcări desemnate.",
+          "Strategia de grupare vă economisește timp și taxe de parcare.",
+          "Verificați programul de funcționare al Muzeului Uleiului de Măsline înainte de a pleca.",
+          "Respectați străzile cu sens unic din centrul istoric."
+        ],
+        "en": [
+          "Parking in the city center can be challenging during the day. Look for designated car parks.",
+          "The cluster strategy saves you time and parking fees.",
+          "Check the opening hours of the Olive Oil Museum before you go.",
+          "Respect the one-way streets in the historic center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palast der Távoras",
+            "hu": "Távoras-palota",
+            "ro": "Palatul Távoras",
+            "en": "Palace of the Távoras"
+          },
+          "coords": [
+            -7.1845,
+            41.4865
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptplatz, der leicht mit dem Bus zu erreichen ist. Der Palast ist unübersehbar.",
+            "hu": "Kezdje a főtéren, amely busszal könnyen megközelíthető. A palotát nem lehet eltéveszteni.",
+            "ro": "Începeți din piața principală, ușor accesibilă cu autobuzul. Palatul nu poate fi ratat.",
+            "en": "Start at the main square, easily reachable by bus. The palace is unmissable."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Benedikt",
+            "hu": "Szent Benedek-templom",
+            "ro": "Biserica Sfântul Benedict",
+            "en": "Church of Saint Benedict"
+          },
+          "coords": [
+            -7.1849,
+            41.486
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf vom Palast entfernt. Erkunden Sie diesen ersten Cluster zu Fuß.",
+            "hu": "Csak egy kőhajításnyira a palotától. Fedezze fel ezt az első klasztert gyalog.",
+            "ro": "La o aruncătură de băț de palat. Explorați acest prim grup de atracții pe jos.",
+            "en": "Just a stone's throw from the palace. Explore this first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Brücke (Ponte Velha)",
+            "hu": "Régi híd (Ponte Velha)",
+            "ro": "Podul Vechi (Ponte Velha)",
+            "en": "Old Bridge (Ponte Velha)"
+          },
+          "coords": [
+            -7.181,
+            41.4862
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Stadtzentrum zur Brücke.",
+            "hu": "Kellemes séta a városközpontból a hídhoz.",
+            "ro": "O plimbare plăcută din centrul orașului până la pod.",
+            "en": "A pleasant walk from the city center to the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Oliven und Olivenöl",
+            "hu": "Olajbogyó és Olívaolaj Múzeum",
+            "ro": "Muzeul Măslinelor și Uleiului de Măsline",
+            "en": "Museum of the Olive and Olive Oil"
+          },
+          "coords": [
+            -7.1805,
+            41.4871
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach der Brücke links. Ein Muss für jeden Besucher der Region.",
+            "hu": "A híd után balra. A régió minden látogatójának kötelező.",
+            "ro": "La stânga după pod. O vizită obligatorie pentru oricine vizitează regiunea.",
+            "en": "To the left after the bridge. A must-see for anyone visiting the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum Unserer Lieben Frau von Amparo",
+            "hu": "Nossa Senhora do Amparo szentély",
+            "ro": "Sanctuarul Doamnei Noastre de Amparo",
+            "en": "Sanctuary of Our Lady of Amparo"
+          },
+          "coords": [
+            -7.195,
+            41.484
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum. Überprüfen Sie den Fahrplan im Voraus, da die Busse möglicherweise nicht häufig fahren.",
+            "hu": "Vegyen buszt a városközpontból. Előre ellenőrizze a menetrendet, mert a buszok nem biztos, hogy gyakran járnak.",
+            "ro": "Luați un autobuz din centrul orașului. Verificați orarul în avans, deoarece este posibil ca autobuzele să nu circule frecvent.",
+            "en": "Take a bus from the city center. Check the schedule in advance as buses may not be frequent."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque do Império",
+            "hu": "Birodalmi Park (Parque do Império)",
+            "ro": "Parcul Imperial (Parque do Império)",
+            "en": "Empire Park (Parque do Império)"
+          },
+          "coords": [
+            -7.182,
+            41.4885
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach der Rückkehr vom Heiligtum spazieren Sie zum Park, um sich am Flussufer zu entspannen.",
+            "hu": "Miután visszatért a szentélyből, sétáljon el a parkba, hogy pihenjen a folyóparton.",
+            "ro": "După ce vă întoarceți de la sanctuar, faceți o plimbare până la parc pentru a vă relaxa pe malul râului.",
+            "en": "After returning from the sanctuary, stroll to the park to relax by the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im ersten Cluster, dem Herzen von Mirandela. Fahren Sie mit dem Bus zum Hauptplatz und erkunden Sie zu Fuß den Palast der Távoras und die umliegenden historischen Stätten. Ein kurzer Spaziergang führt Sie über die Alte Brücke, wo der zweite Cluster mit dem Olivenölmuseum auf Sie wartet. Am Nachmittag nehmen Sie den Bus für den einzigen großen Transit-Sprung des Tages: hinauf zum Heiligtum Unserer Lieben Frau von Amparo. Genießen Sie die himmlische Aussicht. Nach Ihrer Rückkehr ins Zentrum können Sie den Tag mit einem entspannten Spaziergang zum Parque do Império am Flussufer ausklingen lassen, bevor Sie einen Bus zurück zu Ihrer Unterkunft nehmen.",
+        "hu": "A nap az első klaszterben, Mirandela szívében kezdődik. Menjen busszal a főtérre, és fedezze fel gyalog a Távoras-palotát és a környező történelmi helyszíneket. Egy rövid séta elvezeti a Régi Hídhoz, ahol a második klaszter várja az olívaolaj múzeummal. Délután szálljon buszra a nap egyetlen nagy közlekedési ugrásához: fel a Nossa Senhora do Amparo szentélyhez. Élvezze az égi kilátást. Miután visszatért a központba, a napot egy pihentető sétával zárhatja a folyóparti Parque do Império parkban, mielőtt busszal visszamenne a szállására.",
+        "ro": "Ziua dumneavoastră începe în primul grup, inima Mirandelei. Luați un autobuz până în piața principală și explorați pe jos Palatul Távoras și siturile istorice din jur. O scurtă plimbare vă duce peste Podul Vechi, unde vă așteaptă al doilea grup cu Muzeul Uleiului de Măsline. După-amiaza, luați autobuzul pentru singurul salt major de tranzit al zilei: sus la Sanctuarul Doamnei Noastre de Amparo. Bucurați-vă de priveliștile cerești. La întoarcerea în centru, încheiați ziua cu o plimbare relaxantă la Parque do Império de pe malul râului, înainte de a lua un autobuz înapoi la cazare.",
+        "en": "Your day starts in the first cluster, the heart of Mirandela. Take a bus to the main square and explore the Palace of the Távoras and surrounding historic sites on foot. A short walk takes you across the Old Bridge where the second cluster awaits, featuring the Olive Oil Museum. In the afternoon, take the bus for the day's only major transit hop: up to the Sanctuary of Our Lady of Amparo. Enjoy the celestial views. Upon returning to the center, conclude your day with a relaxing stroll to the riverside Parque do Império before catching a bus back to your accommodation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Alheira de Mirandela",
+            "tip": "Probieren Sie diese berühmte geräucherte Wurst, die traditionell gegrillt und mit einem Spiegelei serviert wird. Ein Muss!"
+          },
+          {
+            "name": "Posta à Mirandesa",
+            "tip": "Ein dickes, saftiges Kalbssteak, perfekt gegrillt. Ein Fest für Fleischliebhaber."
+          },
+          {
+            "name": "Azeite de Trás-os-Montes",
+            "tip": "Das lokale Olivenöl ist von außergewöhnlicher Qualität. Genießen Sie es einfach mit frischem Brot."
+          },
+          {
+            "name": "Restaurante O Távora",
+            "tip": "Ein eleganter Ort, um authentische regionale Gerichte in der Nähe des historischen Palastes zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alheira de Mirandela",
+            "tip": "Kóstolja meg ezt a híres füstölt kolbászt, amelyet hagyományosan grillezve, tükörtojással tálalnak. Kihagyhatatlan!"
+          },
+          {
+            "name": "Posta à Mirandesa",
+            "tip": "Vastag, szaftos borjúszelet, tökéletesen grillezve. A húsimádók ünnepe."
+          },
+          {
+            "name": "Azeite de Trás-os-Montes",
+            "tip": "A helyi olívaolaj kivételes minőségű. Élvezze egyszerűen friss kenyérrel."
+          },
+          {
+            "name": "Restaurante O Távora",
+            "tip": "Elegáns hely, ahol autentikus regionális ételeket kóstolhat a történelmi palota közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alheira de Mirandela",
+            "tip": "Încercați acest cârnat afumat faimos, servit tradițional la grătar cu un ou ochi. O delicatesă obligatorie!"
+          },
+          {
+            "name": "Posta à Mirandesa",
+            "tip": "O friptură de vițel groasă și suculentă, gătită perfect la grătar. Un festin pentru iubitorii de carne."
+          },
+          {
+            "name": "Azeite de Trás-os-Montes",
+            "tip": "Uleiul de măsline local este de o calitate excepțională. Savurați-l pur și simplu cu pâine proaspătă."
+          },
+          {
+            "name": "Restaurante O Távora",
+            "tip": "Un loc elegant pentru a încerca preparate regionale autentice, aproape de palatul istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alheira de Mirandela",
+            "tip": "Try this famous smoked sausage, traditionally grilled and served with a fried egg. A must-try delicacy!"
+          },
+          {
+            "name": "Posta à Mirandesa",
+            "tip": "A thick, juicy veal steak, grilled to perfection. A feast for meat lovers."
+          },
+          {
+            "name": "Azeite de Trás-os-Montes",
+            "tip": "The local olive oil is of exceptional quality. Enjoy it simply with fresh bread."
+          },
+          {
+            "name": "Restaurante O Távora",
+            "tip": "An elegant place to taste authentic regional dishes near the historic palace."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Tua",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer und beobachten Sie das sanfte Fließen des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardim do Dr. José de Almeida",
+            "tip": "Ein kleiner, oft übersehener Garten, perfekt für eine ruhige Pause im Schatten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt am Heiligtum",
+            "tip": "Nach dem Trubel des Aufstiegs bietet der Bereich um die Kapelle Momente der Stille und eine atemberaubende Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tua folyó partja",
+            "tip": "Keressen egy csendes padot a folyóparton, és figyelje a víz lassú áramlását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dr. José de Almeida kert",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott kert, tökéletes egy csendes pihenőre az árnyékban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátó a szentélynél",
+            "tip": "A nyüzsgő emelkedő után a kápolna körüli terület a csend pillanatait és lélegzetelállító kilátást kínál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Tua",
+            "tip": "Găsiți o bancă liniștită pe malul râului și priviți cum apa curge lin.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Dr. José de Almeida",
+            "tip": "O grădină mică, adesea trecută cu vederea, perfectă pentru o pauză liniștită la umbră.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere la Sanctuar",
+            "tip": "După agitația urcușului, zona din jurul capelei oferă momente de liniște și o priveliște uluitoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Tua River",
+            "tip": "Find a quiet bench along the riverbank and watch the gentle flow of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dr. José de Almeida Garden",
+            "tip": "A small, often overlooked garden, perfect for a quiet break in the shade.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint at the Sanctuary",
+            "tip": "After the bustle of the climb, the area around the chapel offers moments of silence and a breathtaking view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Kaufen Sie eine Flasche des preisgekrönten Azeite de Trás-os-Montes direkt von den Herstellern oder in lokalen Geschäften."
+          },
+          {
+            "name": "Alheira und andere Würste",
+            "tip": "Nehmen Sie ein Stück des kulinarischen Erbes von Mirandela mit nach Hause. Suchen Sie nach handwerklichen Metzgern."
+          },
+          {
+            "name": "Kunsthandwerk aus der Region",
+            "tip": "Halten Sie Ausschau nach Keramik und Holzarbeiten, die die Traditionen von Trás-os-Montes widerspiegeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásároljon egy üveg díjnyertes Azeite de Trás-os-Montes olajat közvetlenül a termelőktől vagy a helyi boltokban."
+          },
+          {
+            "name": "Alheira és más kolbászok",
+            "tip": "Vigyen haza egy darabot Mirandela kulináris örökségéből. Keressen kézműves henteseket."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keresse a Trás-os-Montes hagyományait tükröző kerámiákat és fatermékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați o sticlă de Azeite de Trás-os-Montes premiat direct de la producători sau din magazinele locale."
+          },
+          {
+            "name": "Alheira și alți cârnați",
+            "tip": "Luați acasă o bucată din moștenirea culinară a Mirandelei. Căutați măcelării artizanale."
+          },
+          {
+            "name": "Artizanat regional",
+            "tip": "Fiți atenți la ceramica și obiectele din lemn care reflectă tradițiile din Trás-os-Montes."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Buy a bottle of the award-winning Azeite de Trás-os-Montes directly from producers or in local shops."
+          },
+          {
+            "name": "Alheira and other sausages",
+            "tip": "Take a piece of Mirandela's culinary heritage home with you. Look for artisanal butchers."
+          },
+          {
+            "name": "Regional Handicrafts",
+            "tip": "Look out for ceramics and woodwork that reflect the traditions of Trás-os-Montes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Haben Sie Kleingeld für Bustickets bereit oder prüfen Sie, ob es eine Tageskarte gibt.",
+          "Die Busfahrpläne können begrenzt sein, insbesondere am Wochenende. Planen Sie im Voraus.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar, sodass Sie den Bus nur für die Fahrt zum Heiligtum benötigen.",
+          "Fragen Sie Einheimische nach der richtigen Bushaltestelle; sie sind normalerweise sehr hilfsbereit."
+        ],
+        "hu": [
+          "Készítsen elő aprópénzt a buszjegyekhez, vagy nézze meg, hogy van-e napijegy.",
+          "A buszmenetrend korlátozott lehet, különösen hétvégén. Tervezzen előre.",
+          "A központ legtöbb látnivalója könnyen megközelíthető gyalog, így valószínűleg csak a szentélyhez való utazáshoz lesz szüksége buszra.",
+          "Kérdezze meg a helyieket a megfelelő buszmegállóról; általában nagyon segítőkészek."
+        ],
+        "ro": [
+          "Pregătiți monede pentru biletele de autobuz sau verificați dacă există un abonament de o zi.",
+          "Orarele autobuzelor pot fi limitate, în special în weekend. Planificați din timp.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos, deci s-ar putea să aveți nevoie de autobuz doar pentru a ajunge la sanctuar.",
+          "Întrebați localnicii despre stația de autobuz corectă; de obicei sunt foarte amabili."
+        ],
+        "en": [
+          "Have small change ready for bus tickets or check if a day pass is available.",
+          "Bus schedules can be limited, especially on weekends. Plan ahead.",
+          "Most central attractions are easily walkable, so you might only need the bus for the trip to the sanctuary.",
+          "Ask locals for the correct bus stop; they are usually very helpful."
+        ]
+      }
+    }
+  }
+}

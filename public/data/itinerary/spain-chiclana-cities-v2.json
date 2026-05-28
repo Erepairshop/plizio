@@ -1,0 +1,1388 @@
+{
+  "city_id": "spain-chiclana-cities-v2",
+  "anchor": {
+    "name": "Chiclana de la Frontera",
+    "coords": [
+      -6.1472,
+      36.4211
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Markthalle (Mercado de Abastos)",
+            "hu": "Vásárcsarnok (Mercado de Abastos)",
+            "ro": "Piața Centrală (Mercado de Abastos)",
+            "en": "Central Market (Mercado de Abastos)"
+          },
+          "coords": [
+            -6.1465,
+            36.4205
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie den frischen Fisch und die lokalen 'Chicharrones'.",
+            "hu": "Kóstolja meg a friss halat és a helyi „chicharrones”-t.",
+            "ro": "Încercați peștele proaspăt și specialitățile locale 'chicharrones'.",
+            "en": "Try the fresh fish and the local 'chicharrones'."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm (Torre del Reloj)",
+            "hu": "Óratorony (Torre del Reloj)",
+            "ro": "Turnul cu Ceas (Torre del Reloj)",
+            "en": "Clock Tower (Torre del Reloj)"
+          },
+          "coords": [
+            -6.1458,
+            36.4199
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Turm ist das Wahrzeichen der Stadt und ein tolles Fotomotiv.",
+            "hu": "A torony a város jelképe és remek fotótéma.",
+            "ro": "Turnul este simbolul orașului și un loc excelent pentru fotografii.",
+            "en": "The tower is the city's emblem and a great photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Juan Bautista",
+            "hu": "Szent János apostol templom",
+            "ro": "Biserica San Juan Bautista",
+            "en": "Church of San Juan Bautista"
+          },
+          "coords": [
+            -6.1455,
+            36.4195
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Architektur und die Kunstwerke im Inneren.",
+            "hu": "Csodálja meg a neoklasszikus építészetet és a belső műalkotásokat.",
+            "ro": "Admirați arhitectura neoclasică și operele de artă din interior.",
+            "en": "Admire the neoclassical architecture and the artworks inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Chiclana",
+            "hu": "Chiclana Múzeuma",
+            "ro": "Muzeul din Chiclana",
+            "en": "Museum of Chiclana"
+          },
+          "coords": [
+            -6.1488,
+            36.4192
+          ],
+          "category": "museums",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Geschichte der Stadt, vom Phönizier bis heute.",
+            "hu": "Ismerje meg a város történelmét a föníciaiaktól napjainkig.",
+            "ro": "Aflați mai multe despre istoria orașului, de la fenicieni până în prezent.",
+            "en": "Learn about the city's history, from the Phoenicians to the present day."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand La Barrosa",
+            "hu": "La Barrosa strand",
+            "ro": "Plaja La Barrosa",
+            "en": "La Barrosa Beach"
+          },
+          "coords": [
+            -6.195,
+            36.378
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:33",
+          "stay_min": 180,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein langer Spaziergang am Meer ist hier der perfekte Abschluss des Tages.",
+            "hu": "Egy hosszú tengerparti séta tökéletes lezárása a napnak.",
+            "ro": "O plimbare lungă pe malul mării este finalul perfect al zilei aici.",
+            "en": "A long walk by the sea is the perfect way to end the day here."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Castillo de Sancti Petri",
+            "hu": "Naplemente a Sancti Petri kastélynál",
+            "ro": "Apus de soare la Castelul Sancti Petri",
+            "en": "Sunset at Sancti Petri Castle"
+          },
+          "coords": [
+            -6.208,
+            36.395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "18:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Blick auf die Burg in der Abendsonne ist unvergesslich.",
+            "hu": "A kastély látványa az esti napfényben felejthetetlen.",
+            "ro": "Priveliștea castelului în lumina apusului este de neuitat.",
+            "en": "The view of the castle in the evening sun is unforgettable."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit den lebhaften Eindrücken des Mercado de Abastos. Schlendern Sie durch die Altstadt, vorbei am Uhrturm und der prächtigen Kirche San Juan Bautista. Am Nachmittag tauchen Sie im Stadtmuseum in die Geschichte ein. Beenden Sie den Tag mit einem langen, erfrischenden Spaziergang zum berühmten Strand La Barrosa, wo Sie einen spektakulären Sonnenuntergang mit Blick auf die Burg Sancti Petri erleben.",
+        "hu": "Kezdje a napot a Mercado de Abastos nyüzsgő hangulatával. Sétáljon végig az óvároson, elhaladva az Óratorony és a csodálatos San Juan Bautista templom mellett. Délután merüljön el a város történelmében a helyi múzeumban. A napot egy hosszú, frissítő sétával zárja a híres La Barrosa strandon, ahol a Sancti Petri várra nyíló látványos naplementében gyönyörködhet.",
+        "ro": "Începeți ziua cu atmosfera vibrantă a Mercado de Abastos. Plimbați-vă prin orașul vechi, trecând pe lângă Turnul cu Ceas și impunătoarea Biserică San Juan Bautista. După-amiaza, cufundați-vă în istoria orașului la muzeu. Încheiați ziua cu o plimbare lungă și revigorantă pe faimoasa plajă La Barrosa, unde veți asista la un apus spectaculos cu vedere la Castelul Sancti Petri.",
+        "en": "Start your day with the vibrant atmosphere of the Mercado de Abastos. Stroll through the old town, passing the Clock Tower and the magnificent Church of San Juan Bautista. In the afternoon, delve into the city's history at the museum. End the day with a long, refreshing walk to the famous La Barrosa beach, where you'll witness a spectacular sunset with views of Sancti Petri Castle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pescaito frito",
+            "tip": "Frittierter Fisch, ein Klassiker der Region. Am besten in einer 'freiduría'."
+          },
+          {
+            "name": "Tortillitas de camarones",
+            "tip": "Knusprige Garnelen-Frittaten, die man unbedingt probieren muss."
+          },
+          {
+            "name": "Vinos de Chiclana",
+            "tip": "Probieren Sie einen lokalen Moscatel oder Fino."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pescaito frito",
+            "tip": "Sült hal, a régió klasszikusa. A legjobb egy „freiduríában”."
+          },
+          {
+            "name": "Tortillitas de camarones",
+            "tip": "Ropogós garnélarák-lepény, amelyet feltétlenül meg kell kóstolni."
+          },
+          {
+            "name": "Chiclana borai",
+            "tip": "Kóstoljon meg egy helyi Moscatelt vagy Finót."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pescaito frito",
+            "tip": "Pește prăjit, un clasic al regiunii. Cel mai bun la o 'freiduría'."
+          },
+          {
+            "name": "Tortillitas de camarones",
+            "tip": "Clătite crocante cu creveți, o necesitate de încercat."
+          },
+          {
+            "name": "Vinuri din Chiclana",
+            "tip": "Gustați un Moscatel local sau un Fino."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pescaito frito",
+            "tip": "Fried fish, a classic of the region. Best enjoyed at a 'freiduría'."
+          },
+          {
+            "name": "Tortillitas de camarones",
+            "tip": "Crispy shrimp fritters, a must-try."
+          },
+          {
+            "name": "Wines of Chiclana",
+            "tip": "Taste a local Moscatel or Fino."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Strand La Barrosa",
+            "tip": "Finden Sie einen ruhigen Platz in den Dünen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eremitage Santa Ana",
+            "tip": "Genießen Sie die Stille und den Panoramablick.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pinares de la Barrosa",
+            "tip": "Ein Spaziergang durch die Pinienwälder hinter dem Strand.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a La Barrosa strandon",
+            "tip": "Keressen egy csendes helyet a dűnék között.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Ana remeteség",
+            "tip": "Élvezze a csendet és a panorámát.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pinares de la Barrosa",
+            "tip": "Séta a strand mögötti fenyőerdőben.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare pe plaja La Barrosa",
+            "tip": "Găsiți un loc liniștit în dune.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schitul Santa Ana",
+            "tip": "Bucurați-vă de liniște și de vederea panoramică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pinares de la Barrosa",
+            "tip": "O plimbare prin pădurile de pini din spatele plajei.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at La Barrosa Beach",
+            "tip": "Find a quiet spot among the dunes.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hermitage of Santa Ana",
+            "tip": "Enjoy the silence and the panoramic view.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pinares de la Barrosa",
+            "tip": "A walk through the pine forests behind the beach.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik",
+            "tip": "Handbemalte Keramik ist ein schönes Souvenir."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Kaufen Sie eine Flasche Moscatel als Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia",
+            "tip": "A kézzel festett kerámia szép ajándéktárgy."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Vásároljon egy üveg Moscatelt emlékbe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică",
+            "tip": "Ceramica pictată manual este un suvenir frumos."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați o sticlă de Moscatel ca amintire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramics",
+            "tip": "Hand-painted ceramics make a beautiful souvenir."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Buy a bottle of Moscatel as a keepsake."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Weg zum Strand lang ist.",
+          "Nehmen Sie Wasser und Sonnenschutz mit.",
+          "Planen Sie ein spätes Mittagessen am Strand ein.",
+          "Die meisten Geschäfte im Zentrum schließen während der Siesta."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a strandhoz vezető út hosszú.",
+          "Vigyen magával vizet és naptejet.",
+          "Tervezzen egy késői ebédet a strandon.",
+          "A legtöbb üzlet a központban bezár a szieszta idején."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece drumul până la plajă este lung.",
+          "Luați cu voi apă și protecție solară.",
+          "Planificați un prânz târziu pe plajă.",
+          "Majoritatea magazinelor din centru se închid în timpul siestei."
+        ],
+        "en": [
+          "Wear comfortable shoes as the walk to the beach is long.",
+          "Bring water and sunscreen.",
+          "Plan for a late lunch at the beach.",
+          "Most shops in the center close during the siesta."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Markthalle (Mercado de Abastos)",
+            "hu": "Vásárcsarnok (Mercado de Abastos)",
+            "ro": "Piața Centrală (Mercado de Abastos)",
+            "en": "Central Market (Mercado de Abastos)"
+          },
+          "coords": [
+            -6.1465,
+            36.4205
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee und beobachten Sie das Treiben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a nyüzsgést.",
+            "ro": "Începeți ziua cu o cafea și priviți agitația.",
+            "en": "Start the day with a coffee and watch the hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm & Kirche San Juan Bautista",
+            "hu": "Óratorony és Szent János apostol templom",
+            "ro": "Turnul cu Ceas & Biserica San Juan Bautista",
+            "en": "Clock Tower & Church of San Juan Bautista"
+          },
+          "coords": [
+            -6.1456,
+            36.4197
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die beiden Wahrzeichen zu Fuß.",
+            "hu": "Tegye le a biciklit, és fedezze fel a két nevezetességet gyalog.",
+            "ro": "Lăsați bicicleta și explorați cele două repere pe jos.",
+            "en": "Park your bike and explore both landmarks on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Eremitage Santa Ana",
+            "hu": "Santa Ana remeteség",
+            "ro": "Schitul Santa Ana",
+            "en": "Hermitage of Santa Ana"
+          },
+          "coords": [
+            -6.151,
+            36.413
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg ist die Aussicht wert! Ein perfekter Panoramablick über die Stadt.",
+            "hu": "A kaptató megéri a kilátást! Tökéletes panoráma nyílik a városra.",
+            "ro": "Urcușul merită priveliștea! O panoramă perfectă asupra orașului.",
+            "en": "The climb is worth the view! A perfect panoramic view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand La Barrosa",
+            "hu": "La Barrosa strand",
+            "ro": "Plaja La Barrosa",
+            "en": "La Barrosa Beach"
+          },
+          "coords": [
+            -6.195,
+            36.378
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 240,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 11.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Zeit für ein langes Mittagessen, Schwimmen und Entspannen am goldenen Sandstrand.",
+            "hu": "Itt az ideje egy hosszú ebédnek, úszásnak és pihenésnek az aranyhomokos strandon.",
+            "ro": "Timpul pentru un prânz lung, înot și relaxare pe plaja cu nisip auriu.",
+            "en": "Time for a long lunch, swimming, and relaxing on the golden sands."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Novo Sancti Petri",
+            "hu": "Naplemente Novo Sancti Petrinél",
+            "ro": "Apus de soare la Novo Sancti Petri",
+            "en": "Sunset at Novo Sancti Petri"
+          },
+          "coords": [
+            -6.19,
+            36.36
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie die Promenade entlang und genießen Sie das Farbenspiel am Himmel.",
+            "hu": "Tekerjen végig a sétányon, és élvezze az égbolt színeit.",
+            "ro": "Plimbați-vă cu bicicleta de-a lungul promenadei și bucurați-vă de culorile cerului.",
+            "en": "Cycle along the promenade and enjoy the colors of the sky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine Tour, die Stadt und Strand verbindet. Nach einem Vormittag in der historischen Innenstadt, mit Stopps am Markt und dem Panoramablick von Santa Ana, führt Sie eine längere Fahrt direkt an die Küste. Der Nachmittag gehört ganz dem Strand La Barrosa: Genießen Sie die Sonne, das Meer und ein gemütliches Mittagessen. Zum Abschluss radeln Sie die Promenade entlang in den Sonnenuntergang.",
+        "hu": "Pattanjon biciklire egy városi és tengerparti túrára. A történelmi belvárosban töltött délelőtt után, ahol megáll a piacnál és a Santa Ana panorámájánál, egy hosszabb út vezet közvetlenül a partra. A délután a La Barrosa strandé: élvezze a napot, a tengert és egy kellemes ebédet. Végül tekerjen végig a sétányon a naplementébe.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur care combină orașul și plaja. După o dimineață în centrul istoric, cu opriri la piață și la punctul panoramic Santa Ana, o călătorie mai lungă vă duce direct la coastă. După-amiaza este dedicată plajei La Barrosa: bucurați-vă de soare, mare și un prânz relaxant. La final, pedalați de-a lungul promenadei spre apus.",
+        "en": "Get on your bike for a tour that combines city and beach. After a morning in the historic center, with stops at the market and the panoramic view from Santa Ana, a longer ride takes you directly to the coast. The afternoon is all about La Barrosa beach: enjoy the sun, the sea, and a leisurely lunch. Finally, cycle along the promenade into the sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo am Strand",
+            "tip": "Kaufen Sie Zutaten auf dem Markt und machen Sie ein Picknick am Strand."
+          },
+          {
+            "name": "Chiringuito",
+            "tip": "Essen Sie in einem der Strandrestaurants frischen Fisch."
+          },
+          {
+            "name": "Helado artesanal",
+            "tip": "Ein handwerklich hergestelltes Eis nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szendvics a parton",
+            "tip": "Vásároljon hozzávalókat a piacon, és piknikezzen a strandon."
+          },
+          {
+            "name": "Chiringuito",
+            "tip": "Egyen friss halat az egyik tengerparti étteremben."
+          },
+          {
+            "name": "Kézműves fagylalt",
+            "tip": "Egy kézműves fagylalt a biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș pe plajă",
+            "tip": "Cumpărați ingrediente din piață și faceți un picnic pe plajă."
+          },
+          {
+            "name": "Chiringuito",
+            "tip": "Mâncați pește proaspăt la unul dintre restaurantele de pe plajă."
+          },
+          {
+            "name": "Înghețată artizanală",
+            "tip": "O înghețată artizanală după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo on the beach",
+            "tip": "Buy ingredients at the market and have a picnic on the beach."
+          },
+          {
+            "name": "Chiringuito",
+            "tip": "Eat fresh fish at one of the beach restaurants."
+          },
+          {
+            "name": "Artisanal ice cream",
+            "tip": "An artisanal ice cream after the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo Marítimo",
+            "tip": "Die Strandpromenade ist am frühen Nachmittag oft ruhiger.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Aussicht von Santa Ana",
+            "tip": "Ein Moment der Stille über den Dächern der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ende des Strandes La Barrosa",
+            "tip": "Je weiter Sie radeln, desto ruhiger wird es.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo Marítimo",
+            "tip": "A tengerparti sétány kora délután gyakran csendesebb.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Kilátás a Santa Anáról",
+            "tip": "Egy csendes pillanat a város háztetői felett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A La Barrosa strand vége",
+            "tip": "Minél messzebb tekersz, annál csendesebb lesz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo Marítimo",
+            "tip": "Promenada de pe plajă este adesea mai liniștită la începutul după-amiezii.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Vedere de la Santa Ana",
+            "tip": "Un moment de liniște deasupra acoperișurilor orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capătul plajei La Barrosa",
+            "tip": "Cu cât pedalezi mai departe, cu atât devine mai liniștit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo Marítimo",
+            "tip": "The beach promenade is often quieter in the early afternoon.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "View from Santa Ana",
+            "tip": "A moment of silence above the city rooftops.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "End of La Barrosa Beach",
+            "tip": "The further you cycle, the quieter it gets.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "In den Küstenorten finden Sie Geschäfte für Strand- und Fahrradbedarf."
+          },
+          {
+            "name": "Lokale Produkte vom Markt",
+            "tip": "Oliven, Käse und Wurst für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A tengerparti városokban találhat strand- és kerékpár-kiegészítőket árusító üzleteket."
+          },
+          {
+            "name": "Helyi termékek a piacról",
+            "tip": "Olajbogyó, sajt és kolbász egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "În stațiunile de pe coastă veți găsi magazine pentru articole de plajă și ciclism."
+          },
+          {
+            "name": "Produse locale de la piață",
+            "tip": "Măsline, brânză și cârnați pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessories",
+            "tip": "In the coastal towns you'll find shops for beach and bike gear."
+          },
+          {
+            "name": "Local products from the market",
+            "tip": "Olives, cheese, and sausages for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Gangschaltung für den Anstieg nach Santa Ana.",
+          "Schließen Sie Ihr Fahrrad immer gut ab.",
+          "Die Radwege entlang der Küste sind hervorragend.",
+          "Achten Sie im Stadtzentrum auf den Verkehr."
+        ],
+        "hu": [
+          "Béreljen váltós biciklit a Santa Anára való emelkedőhöz.",
+          "Mindig zárja le jól a kerékpárját.",
+          "A tengerparti kerékpárutak kiválóak.",
+          "Vigyázzon a forgalomra a városközpontban."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze pentru urcarea la Santa Ana.",
+          "Încuiati-vă întotdeauna bicicleta bine.",
+          "Pistele de biciclete de-a lungul coastei sunt excelente.",
+          "Fiți atenți la trafic în centrul orașului."
+        ],
+        "en": [
+          "Rent a bike with gears for the climb to Santa Ana.",
+          "Always lock your bike securely.",
+          "The cycle paths along the coast are excellent.",
+          "Be aware of traffic in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 24.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken & Erkundung der Altstadt",
+            "hu": "Parkolás és az óváros felfedezése",
+            "ro": "Parcare & Explorarea Orașului Vechi",
+            "en": "Parking & Old Town Exploration"
+          },
+          "coords": [
+            -6.147,
+            36.421
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie einen Parkplatz am Rande des Zentrums, um den Tag zu beginnen.",
+            "hu": "Keressen egy parkolót a központ szélén a nap megkezdéséhez.",
+            "ro": "Găsiți o parcare la marginea centrului pentru a începe ziua.",
+            "en": "Find a parking spot on the edge of the center to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Markthalle & Uhrturm",
+            "hu": "Vásárcsarnok és Óratorony",
+            "ro": "Piața Centrală și Turnul cu Ceas",
+            "en": "Market Hall & Clock Tower"
+          },
+          "coords": [
+            -6.146,
+            36.42
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erleben Sie das lokale Leben und bewundern Sie das Wahrzeichen der Stadt.",
+            "hu": "Tapasztalja meg a helyi életet, és csodálja meg a város jelképét.",
+            "ro": "Experimentați viața locală și admirați simbolul orașului.",
+            "en": "Experience local life and admire the city's landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Juan Bautista & Museum",
+            "hu": "Szent János templom és Múzeum",
+            "ro": "Biserica San Juan Bautista & Muzeul",
+            "en": "Church of San Juan Bautista & Museum"
+          },
+          "coords": [
+            -6.146,
+            36.419
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch Kunst, Kultur und Geschichte im Herzen von Chiclana.",
+            "hu": "Séta a művészet, a kultúra és a történelem világában Chiclana szívében.",
+            "ro": "O plimbare prin artă, cultură și istorie în inima orașului Chiclana.",
+            "en": "A walk through art, culture, and history in the heart of Chiclana."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Strand La Barrosa",
+            "hu": "Utazás a La Barrosa strandra",
+            "ro": "Călătorie spre plaja La Barrosa",
+            "en": "Drive to La Barrosa Beach"
+          },
+          "coords": [
+            -6.195,
+            36.378
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Promenade und genießen Sie den Nachmittag am Meer.",
+            "hu": "Parkoljon a sétány közelében, és élvezze a délutánt a tengerparton.",
+            "ro": "Parcați lângă promenadă și bucurați-vă de după-amiaza la mare.",
+            "en": "Park near the promenade and enjoy the afternoon by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Blick auf das Castillo de Sancti Petri",
+            "hu": "Kilátás a Sancti Petri kastélyra",
+            "ro": "Vedere spre Castelul Sancti Petri",
+            "en": "View of Sancti Petri Castle"
+          },
+          "coords": [
+            -6.208,
+            36.395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang entlang des Strandes für eine perfekte Aussicht.",
+            "hu": "Egy rövid séta a parton a tökéletes kilátásért.",
+            "ro": "O scurtă plimbare de-a lungul plajei pentru o priveliște perfectă.",
+            "en": "A short walk along the beach for a perfect view."
+          }
+        },
+        {
+          "name": {
+            "de": "Eremitage Santa Ana zum Sonnenuntergang",
+            "hu": "Santa Ana remeteség naplementekor",
+            "ro": "Schitul Santa Ana la apus",
+            "en": "Hermitage of Santa Ana for sunset"
+          },
+          "coords": [
+            -6.151,
+            36.413
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 10.3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum höchsten Punkt der Stadt für einen unvergesslichen Abschluss.",
+            "hu": "Vezessen fel a város legmagasabb pontjára egy felejthetetlen befejezésért.",
+            "ro": "Conduceți până la cel mai înalt punct al orașului pentru un final de neuitat.",
+            "en": "Drive to the highest point of the city for an unforgettable finale."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um Chiclanas Facetten zu entdecken. Vormittags erkunden Sie zu Fuß das historische Zentrum, nachdem Sie Ihr Auto geparkt haben. Am Mittag fahren Sie zum berühmten Strand La Barrosa für Sonne, Meer und ein spätes Mittagessen. Ein Spaziergang am Strand führt Sie zur Aussicht auf die alte Festung. Zum krönenden Abschluss fahren Sie zur Eremitage Santa Ana und erleben von dort oben einen atemberaubenden Sonnenuntergang.",
+        "hu": "Használja ki az autó rugalmasságát Chiclana felfedezéséhez. Délelőtt, a parkolás után, gyalogosan fedezze fel a történelmi központot. Délben utazzon a híres La Barrosa strandra napozni, fürdeni és egy késői ebédre. Egy tengerparti séta elvezeti a régi erődre nyíló kilátáshoz. A nap megkoronázásaként vezessen fel a Santa Ana remeteséghez, és élvezze a lélegzetelállító naplementét.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a descoperi fațetele Chiclanei. Dimineața, explorați centrul istoric pe jos după ce parcați. La prânz, mergeți la faimoasa plajă La Barrosa pentru soare, mare și un prânz târziu. O plimbare pe plajă vă duce la vederea vechii cetăți. Ca o încoronare, conduceți la Schitul Santa Ana și experimentați un apus de soare uluitor de acolo.",
+        "en": "Use the flexibility of the car to discover Chiclana's facets. In the morning, explore the historic center on foot after parking your car. At noon, drive to the famous La Barrosa beach for sun, sea, and a late lunch. A walk on the beach leads you to the view of the old fortress. To top it off, drive to the Hermitage of Santa Ana and experience a breathtaking sunset from up there."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Strand",
+            "tip": "Genießen Sie frischen Fisch mit Meerblick an der Playa La Barrosa."
+          },
+          {
+            "name": "Bodega-Besuch",
+            "tip": "Viele Weingüter bieten Verkostungen an. Ein Muss in der Sherry-Region."
+          },
+          {
+            "name": "Tapas-Bar im Zentrum",
+            "tip": "Probieren Sie verschiedene Kleinigkeiten, bevor Sie zum Strand fahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a tengerparton",
+            "tip": "Élvezze a friss halat tengeri kilátással a Playa La Barrosán."
+          },
+          {
+            "name": "Bodega látogatás",
+            "tip": "Sok borászat kínál kóstolót. Kötelező a sherry régióban."
+          },
+          {
+            "name": "Tapas bár a központban",
+            "tip": "Kóstoljon meg különböző apróságokat, mielőtt a partra menne."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe plajă",
+            "tip": "Bucurați-vă de pește proaspăt cu vedere la mare la Playa La Barrosa."
+          },
+          {
+            "name": "Vizită la Bodega",
+            "tip": "Multe crame oferă degustări. O necesitate în regiunea Sherry."
+          },
+          {
+            "name": "Bar de tapas în centru",
+            "tip": "Încercați diverse gustări înainte de a merge la plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant on the beach",
+            "tip": "Enjoy fresh fish with sea views at Playa La Barrosa."
+          },
+          {
+            "name": "Bodega visit",
+            "tip": "Many wineries offer tastings. A must in the sherry region."
+          },
+          {
+            "name": "Tapas bar in the center",
+            "tip": "Try various small bites before heading to the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eremitage Santa Ana",
+            "tip": "Der beste Ort für Ruhe und eine weite Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Salinas de Chiclana",
+            "tip": "Die Salinen bieten eine einzigartige, stille Landschaft.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Ein ruhiger Abschnitt von La Barrosa",
+            "tip": "Gehen oder fahren Sie weiter südlich für weniger Menschenmassen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Santa Ana remeteség",
+            "tip": "A legjobb hely a csendhez és a széles kilátáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Salinas de Chiclana",
+            "tip": "A sólepárlók egyedülálló, csendes tájat kínálnak.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "A La Barrosa egy csendes szakasza",
+            "tip": "Sétáljon vagy vezessen délebbre a kevesebb tömegért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schitul Santa Ana",
+            "tip": "Cel mai bun loc pentru liniște și o vedere largă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Salinas de Chiclana",
+            "tip": "Salinele oferă un peisaj unic și liniștit.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "O secțiune liniștită a La Barrosa",
+            "tip": "Mergeți sau conduceți mai la sud pentru mai puține aglomerații.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hermitage of Santa Ana",
+            "tip": "The best place for peace and a wide view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Salinas de Chiclana",
+            "tip": "The salt pans offer a unique, quiet landscape.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "A quiet section of La Barrosa",
+            "tip": "Walk or drive further south for fewer crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein aus einer Bodega",
+            "tip": "Ein authentisches Mitbringsel aus der Region."
+          },
+          {
+            "name": "Meersalz aus den Salinas",
+            "tip": "Flor de Sal ist ein hochwertiges und lokales Produkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bor egy bodegából",
+            "tip": "Autentikus ajándék a régióból."
+          },
+          {
+            "name": "Tengeri só a sólepárlókból",
+            "tip": "A Flor de Sal egy kiváló minőségű helyi termék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de la o bodegă",
+            "tip": "Un suvenir autentic din regiune."
+          },
+          {
+            "name": "Sare de mare de la saline",
+            "tip": "Flor de Sal este un produs local de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine from a bodega",
+            "tip": "An authentic souvenir from the region."
+          },
+          {
+            "name": "Sea salt from the salt pans",
+            "tip": "Flor de Sal is a high-quality local product."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Sommer am Strand schwierig sein, kommen Sie früh.",
+          "Achten Sie auf Parkzonen (blaue Linien sind kostenpflichtig).",
+          "Die Straßen im Zentrum sind eng, fahren Sie vorsichtig.",
+          "Ein Auto ist ideal, um auch die umliegenden weißen Dörfer (Pueblos Blancos) zu besuchen."
+        ],
+        "hu": [
+          "Nyáron nehéz lehet parkolni a strandon, érkezzen korán.",
+          "Figyeljen a parkolási zónákra (a kék vonalak fizetősek).",
+          "A központ utcái szűkek, vezessen óvatosan.",
+          "Az autó ideális a környező fehér falvak (Pueblos Blancos) meglátogatásához is."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă la plajă vara, veniți devreme.",
+          "Fiți atenți la zonele de parcare (liniile albastre sunt cu plată).",
+          "Străzile din centru sunt înguste, conduceți cu prudență.",
+          "O mașină este ideală pentru a vizita și satele albe din jur (Pueblos Blancos)."
+        ],
+        "en": [
+          "Parking can be difficult at the beach in summer, come early.",
+          "Pay attention to parking zones (blue lines are paid).",
+          "The streets in the center are narrow, drive carefully.",
+          "A car is ideal for also visiting the surrounding white villages (Pueblos Blancos)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 15.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft im Zentrum & Markthalle",
+            "hu": "Érkezés a központba és a Vásárcsarnok",
+            "ro": "Sosire în centru și Piața Centrală",
+            "en": "Arrival in the Center & Market Hall"
+          },
+          "coords": [
+            -6.1465,
+            36.4205
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zentralen Busbahnhof und starten Sie Ihren Tag am Markt.",
+            "hu": "Menjen busszal a központi buszpályaudvarra, és kezdje a napot a piacnál.",
+            "ro": "Luați un autobuz până la autogara centrală și începeți ziua la piață.",
+            "en": "Take a bus to the central bus station and start your day at the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang: Uhrturm & Kirche S.J. Bautista",
+            "hu": "Séta: Óratorony és Szent János templom",
+            "ro": "Plimbare: Turnul cu Ceas & Biserica S.J. Bautista",
+            "en": "Walk: Clock Tower & Church of S.J. Bautista"
+          },
+          "coords": [
+            -6.1456,
+            36.4197
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die wichtigsten Sehenswürdigkeiten des Zentrums liegen nur einen kurzen Spaziergang voneinander entfernt.",
+            "hu": "A központ legfontosabb látnivalói rövid sétára vannak egymástól.",
+            "ro": "Principalele atracții din centru sunt la o scurtă plimbare una de cealaltă.",
+            "en": "The main sights of the center are just a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Strand La Barrosa",
+            "hu": "Busz a La Barrosa strandra",
+            "ro": "Autobuz spre plaja La Barrosa",
+            "en": "Bus to La Barrosa Beach"
+          },
+          "coords": [
+            -6.195,
+            36.378
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 240,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 14.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Buslinien verbinden das Zentrum gut mit der Küste. Zeit für Strand und Mittagessen.",
+            "hu": "A buszjáratok jól összekötik a központot a parttal. Ideje a strandnak és az ebédnek.",
+            "ro": "Liniile de autobuz leagă bine centrul de coastă. Timp pentru plajă și prânz.",
+            "en": "The bus lines connect the center well with the coast. Time for beach and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Aussicht auf Sancti Petri",
+            "hu": "Séta a Sancti Petri kilátóhoz",
+            "ro": "Plimbare la punctul de vedere Sancti Petri",
+            "en": "Walk to the Sancti Petri viewpoint"
+          },
+          "coords": [
+            -6.208,
+            36.395
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang am Ufer entlang, um die Burg im Nachmittagslicht zu sehen.",
+            "hu": "Egy pihentető séta a parton, hogy megnézze a várat a délutáni fényben.",
+            "ro": "O plimbare relaxantă de-a lungul țărmului pentru a vedea castelul în lumina după-amiezii.",
+            "en": "A relaxing stroll along the shore to see the castle in the afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Strand & Rückfahrt",
+            "hu": "Vacsora a strandon és visszaút",
+            "ro": "Cină pe plajă și întoarcere",
+            "en": "Dinner at the beach & return trip"
+          },
+          "coords": [
+            -6.196,
+            36.379
+          ],
+          "category": "gastro",
+          "arrive_at": "16:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein frühes Abendessen, bevor Sie den Bus zurück ins Zentrum nehmen.",
+            "hu": "Élvezzen egy korai vacsorát, mielőtt visszamenne a buszra a központba.",
+            "ro": "Bucurați-vă de o cină devreme înainte de a lua autobuzul înapoi în centru.",
+            "en": "Enjoy an early dinner before taking the bus back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Chiclana lässt sich hervorragend mit öffentlichen Verkehrsmitteln erkunden. Starten Sie im historischen Kern mit einem Spaziergang zu den wichtigsten Monumenten. Am Mittag bringt Sie ein Bus bequem an den weitläufigen Strand La Barrosa. Verbringen Sie den Nachmittag mit Sonnenbaden, Schwimmen und einem Spaziergang zur Festung Sancti Petri. Ein frühes Abendessen in einem der Strandrestaurants rundet den Tag ab, bevor Sie der Bus wieder zurückbringt.",
+        "hu": "Chiclana kiválóan felfedezhető tömegközlekedéssel. Kezdje a történelmi központban egy sétával a legfontosabb műemlékekhez. Délben egy busz kényelmesen elviszi a tágas La Barrosa strandra. Töltse a délutánt napozással, úszással és egy sétával a Sancti Petri erődítményhez. Egy korai vacsora az egyik tengerparti étteremben teszi teljessé a napot, mielőtt a busz visszaviszi Önt.",
+        "ro": "Chiclana poate fi explorată excelent cu transportul public. Începeți în centrul istoric cu o plimbare la cele mai importante monumente. La prânz, un autobuz vă duce confortabil la plaja întinsă La Barrosa. Petreceți după-amiaza făcând plajă, înotând și plimbându-vă la fortăreața Sancti Petri. O cină devreme la unul dintre restaurantele de pe plajă completează ziua înainte ca autobuzul să vă aducă înapoi.",
+        "en": "Chiclana is great for exploring by public transport. Start in the historic core with a walk to the most important monuments. At noon, a bus will comfortably take you to the spacious La Barrosa beach. Spend the afternoon sunbathing, swimming, and taking a walk to the Sancti Petri fortress. An early dinner at one of the beach restaurants completes the day before the bus takes you back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Menú del Día",
+            "tip": "Viele Restaurants im Zentrum bieten günstige Mittagsmenüs an."
+          },
+          {
+            "name": "Tapas-Hopping",
+            "tip": "Steigen Sie an verschiedenen Haltestellen aus und probieren Sie lokale Spezialitäten."
+          },
+          {
+            "name": "Café con leche in einer Bar",
+            "tip": "Der perfekte Start in den Tag wie ein Einheimischer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menú del Día",
+            "tip": "Sok étterem a központban kínál olcsó ebédmenüt."
+          },
+          {
+            "name": "Tapas-túrázás",
+            "tip": "Szálljon le különböző megállókban, és kóstoljon helyi specialitásokat."
+          },
+          {
+            "name": "Café con leche egy bárban",
+            "tip": "A tökéletes napkezdés, mint egy helyi."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Menú del Día",
+            "tip": "Multe restaurante din centru oferă meniuri de prânz ieftine."
+          },
+          {
+            "name": "Tapas-Hopping",
+            "tip": "Coborâți la diferite stații și încercați specialități locale."
+          },
+          {
+            "name": "Café con leche într-un bar",
+            "tip": "Începutul perfect al zilei ca un localnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menú del Día",
+            "tip": "Many restaurants in the center offer affordable lunch menus."
+          },
+          {
+            "name": "Tapas-Hopping",
+            "tip": "Get off at different stops and try local specialties."
+          },
+          {
+            "name": "Café con leche in a bar",
+            "tip": "The perfect start to the day like a local."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Seitenstraße",
+            "tip": "Verlassen Sie die Hauptplätze und entdecken Sie stille Gassen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Busfahrt durch die Landschaft",
+            "tip": "Die Fahrt zum Strand bietet Blicke auf die Pinienwälder und Salinen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Morgenstunden am Strand",
+            "tip": "Wenn Sie einen frühen Bus nehmen, haben Sie den Strand fast für sich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes mellékutca",
+            "tip": "Hagyja el a főtereket, és fedezzen fel csendes sikátorokat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Buszozás a vidéken",
+            "tip": "A strand felé vezető út kilátást nyújt a fenyőerdőkre és a sólepárlókra.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Reggeli órák a strandon",
+            "tip": "Ha egy korai busszal megy, a strand szinte csak az Öné lesz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O stradă laterală liniștită",
+            "tip": "Părăsiți piețele principale și descoperiți alei tăcute.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Călătorie cu autobuzul prin peisaj",
+            "tip": "Drumul spre plajă oferă vederi ale pădurilor de pini și salinelor.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Orele de dimineață pe plajă",
+            "tip": "Dacă luați un autobuz devreme, veți avea plaja aproape numai pentru dumneavoastră.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet side street",
+            "tip": "Leave the main squares and discover silent alleys.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bus ride through the landscape",
+            "tip": "The ride to the beach offers views of the pine forests and salt pans.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Morning hours at the beach",
+            "tip": "If you take an early bus, you'll have the beach almost to yourself.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Plaza de las Bodegas",
+            "tip": "Ein Einkaufszentrum in der Nähe des Busbahnhofs für letzte Besorgungen."
+          },
+          {
+            "name": "Souvenirläden an der Promenade",
+            "tip": "Finden Sie Postkarten und kleine Geschenke am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plaza de las Bodegas",
+            "tip": "Egy bevásárlóközpont a buszpályaudvar közelében az utolsó bevásárlásokhoz."
+          },
+          {
+            "name": "Ajándékboltok a sétányon",
+            "tip": "Keressen képeslapokat és apró ajándékokat a strandon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaza de las Bodegas",
+            "tip": "Un centru comercial lângă autogară pentru cumpărături de ultim moment."
+          },
+          {
+            "name": "Magazine de suveniruri pe promenadă",
+            "tip": "Găsiți cărți poștale și mici cadouri la plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plaza de las Bodegas",
+            "tip": "A shopping center near the bus station for last-minute errands."
+          },
+          {
+            "name": "Souvenir shops on the promenade",
+            "tip": "Find postcards and small gifts at the beach."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine wiederaufladbare Buskarte für günstigere Tarife.",
+          "Prüfen Sie den Fahrplan für den letzten Bus zurück.",
+          "Validieren Sie Ihr Ticket bei jedem Einsteigen.",
+          "Die Busse können im Sommer voll sein, planen Sie etwas Pufferzeit ein."
+        ],
+        "hu": [
+          "Vásároljon újratölthető buszkártyát a kedvezőbb díjakért.",
+          "Ellenőrizze az utolsó busz menetrendjét visszafelé.",
+          "Érvényesítse a jegyét minden felszálláskor.",
+          "A buszok nyáron zsúfoltak lehetnek, tervezzen némi pufferidőt."
+        ],
+        "ro": [
+          "Cumpărați un card de autobuz reîncărcabil pentru tarife mai ieftine.",
+          "Verificați orarul ultimului autobuz de întoarcere.",
+          "Validați-vă biletul la fiecare îmbarcare.",
+          "Autobuzele pot fi aglomerate vara, planificați-vă timp suplimentar."
+        ],
+        "en": [
+          "Buy a rechargeable bus card for cheaper fares.",
+          "Check the schedule for the last bus back.",
+          "Validate your ticket every time you board.",
+          "Buses can be crowded in the summer, plan some buffer time."
+        ]
+      }
+    }
+  }
+}

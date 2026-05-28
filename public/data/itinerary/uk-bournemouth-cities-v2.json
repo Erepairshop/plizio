@@ -1,0 +1,1389 @@
+{
+  "city_id": "uk-bournemouth-cities-v2",
+  "anchor": {
+    "name": "Bournemouth",
+    "coords": [
+      -1.8808,
+      50.7192
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Peter's Kirche",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "St Peter's Church"
+          },
+          "coords": [
+            -1.8775,
+            50.7208
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf das Grab von Mary Shelley, der Autorin von Frankenstein.",
+            "hu": "Keresse meg Mary Shelley, a Frankenstein szerzőjének sírját.",
+            "ro": "Căutați mormântul lui Mary Shelley, autoarea Frankenstein.",
+            "en": "Look for the grave of Mary Shelley, the author of Frankenstein."
+          }
+        },
+        {
+          "name": {
+            "de": "Lower Gardens",
+            "hu": "Lower Gardens (Alsó Kertek)",
+            "ro": "Grădinile de Jos",
+            "en": "Lower Gardens"
+          },
+          "coords": [
+            -1.88,
+            50.718
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe am Morgen, bevor die Menschenmassen kommen.",
+            "hu": "Élvezze a reggeli csendet a tömeg érkezése előtt.",
+            "ro": "Bucurați-vă de liniștea de dimineață înainte de sosirea mulțimilor.",
+            "en": "Enjoy the morning tranquility before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Bournemouth Pavilion",
+            "hu": "Bournemouth Pavilion",
+            "ro": "Pavilionul Bournemouth",
+            "en": "Bournemouth Pavilion"
+          },
+          "coords": [
+            -1.879,
+            50.717
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm auf mögliche Matinee-Vorstellungen.",
+            "hu": "Nézze meg a műsort, hátha van délelőtti előadás.",
+            "ro": "Verificați programul pentru eventuale spectacole de matineu.",
+            "en": "Check the programme for any potential matinee shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Bournemouth Pier",
+            "hu": "Bournemouth móló",
+            "ro": "Pontonul Bournemouth",
+            "en": "Bournemouth Pier"
+          },
+          "coords": [
+            -1.875,
+            50.715
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wagen Sie sich auf die Zipline vom Pier zum Strand.",
+            "hu": "Próbálja ki a drótkötélpályát a mólóról a partra.",
+            "ro": "Încercați tiroliana de pe ponton până la plajă.",
+            "en": "Brave the zip line from the pier to the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Russell-Cotes Kunstgalerie & Museum",
+            "hu": "Russell-Cotes Művészeti Galéria és Múzeum",
+            "ro": "Galeria de Artă și Muzeul Russell-Cotes",
+            "en": "Russell-Cotes Art Gallery & Museum"
+          },
+          "coords": [
+            -1.87,
+            50.717
+          ],
+          "category": "museums",
+          "arrive_at": "13:43",
+          "stay_min": 120,
+          "hop_from_prev_min": 100,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den atemberaubenden Meerblick vom Café.",
+            "hu": "Ne hagyja ki a kávézóból nyíló lenyűgöző tengeri panorámát.",
+            "ro": "Nu ratați priveliștea uluitoare a mării de la cafenea.",
+            "en": "Don't miss the stunning sea views from the café."
+          }
+        },
+        {
+          "name": {
+            "de": "Hengistbury Head",
+            "hu": "Hengistbury Head",
+            "ro": "Hengistbury Head",
+            "en": "Hengistbury Head"
+          },
+          "coords": [
+            -1.76,
+            50.715
+          ],
+          "category": "natural features",
+          "arrive_at": "16:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Warren Hill für eine 360-Grad-Aussicht.",
+            "hu": "Másszon fel a Warren Hillre a 360 fokos panorámáért.",
+            "ro": "Urcați pe dealul Warren pentru o priveliște de 360 de grade.",
+            "en": "Climb Warren Hill for a 360-degree view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der gotischen St. Peter's Kirche, bevor Sie durch die makellosen Lower Gardens schlendern. Am Mittag genießen Sie die salzige Luft am Bournemouth Pier und tauchen in die viktorianische Pracht des Russell-Cotes Museums ein. Der Nachmittag ist für einen erfrischenden Spaziergang entlang des Strandes reserviert. Beenden Sie den Tag bei Sonnenuntergang am Hengistbury Head, wo sich die Aussicht auf das Meer und die Küste erstreckt.",
+        "hu": "Kezdje a napot a gótikus Szent Péter-templomnál, majd sétáljon végig a kifogástalan Lower Gardens-en. Délben élvezze a sós tengeri levegőt a Bournemouth mólón, majd merüljön el a Russell-Cotes Múzeum viktoriánus pompájában. A délután egy frissítő tengerparti sétára van fenntartva. Zárja a napot naplementekor a Hengistbury Head-nél, ahol a kilátás a tengerre és a partvonalra nyílik.",
+        "ro": "Începeți ziua la gotica Biserică Sf. Petru înainte de a vă plimba prin Grădinile de Jos imaculate. La prânz, bucurați-vă de aerul sărat la Pontonul Bournemouth și scufundați-vă în splendoarea victoriană a Muzeului Russell-Cotes. După-amiaza este rezervată pentru o plimbare revigorantă pe plajă. Încheiați ziua la apus la Hengistbury Head, cu vederi ample asupra mării și coastei.",
+        "en": "Begin your day at the gothic St Peter's Church before strolling through the immaculate Lower Gardens. At midday, enjoy the salty air at Bournemouth Pier and immerse yourself in the Victorian splendour of the Russell-Cotes Museum. The afternoon is reserved for a refreshing walk along the beach. End the day at sunset from Hengistbury Head, with its expansive views of the sea and coastline."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein Muss an der Küste. Genießen Sie es am besten am Strand."
+          },
+          {
+            "name": "Dorset Apple Cake",
+            "tip": "Ein traditioneller lokaler Kuchen, perfekt zu einer Tasse Tee."
+          },
+          {
+            "name": "Meeresfrüchteplatte",
+            "tip": "Probieren Sie die frischesten Fänge des Tages in einem Restaurant am Kai."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Kötelező a tengerparton. A legjobb a strandon fogyasztva."
+          },
+          {
+            "name": "Dorseti almatorta",
+            "tip": "Hagyományos helyi sütemény, tökéletes egy csésze teával."
+          },
+          {
+            "name": "Tenger gyümölcsei tál",
+            "tip": "Kóstolja meg a nap legfrissebb fogását egy rakparti étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "O necesitate pe litoral. Cel mai bine savurat pe plajă."
+          },
+          {
+            "name": "Prăjitură cu mere Dorset",
+            "tip": "O prăjitură locală tradițională, perfectă cu o ceașcă de ceai."
+          },
+          {
+            "name": "Platou cu fructe de mare",
+            "tip": "Încercați cele mai proaspete capturi ale zilei la un restaurant de pe chei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "A seaside essential. Best enjoyed on the beach."
+          },
+          {
+            "name": "Dorset Apple Cake",
+            "tip": "A traditional local cake, perfect with a cup of tea."
+          },
+          {
+            "name": "Seafood Platter",
+            "tip": "Try the freshest catch of the day at a quayside restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Upper Gardens",
+            "tip": "Weniger überlaufen als die Lower Gardens, mit einer ruhigeren Atmosphäre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenaufgang am Boscombe Pier",
+            "tip": "Erleben Sie den Beginn des Tages in friedlicher Einsamkeit.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang auf Hengistbury Head",
+            "tip": "Weite Flächen und atemberaubende Ausblicke bieten viel Raum zum Nachdenken.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Upper Gardens",
+            "tip": "Kevésbé zsúfolt, mint a Lower Gardens, nyugodtabb légkörrel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Napfelkelte a Boscombe mólónál",
+            "tip": "Legyen tanúja a nap kezdetének békés magányban.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Hengistbury Head-en",
+            "tip": "A tágas terek és a lenyűgöző kilátás bőven ad helyet az elmélkedésnek.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile de Sus",
+            "tip": "Mai puțin aglomerate decât Grădinile de Jos, cu o atmosferă mai liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Răsărit la Pontonul Boscombe",
+            "tip": "Fiți martor la începutul zilei în singurătate pașnică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare pe Hengistbury Head",
+            "tip": "Spațiile largi și priveliștile uimitoare oferă mult spațiu pentru reflecție.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper Gardens",
+            "tip": "Less crowded than the Lower Gardens, with a quieter atmosphere.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunrise at Boscombe Pier",
+            "tip": "Witness the start of the day in peaceful solitude.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hengistbury Head walk",
+            "tip": "Wide open spaces and stunning views provide plenty of room for thought.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Triangle",
+            "tip": "Ein Viertel mit unabhängigen Boutiquen und schrulligen Geschäften."
+          },
+          {
+            "name": "Westbourne",
+            "tip": "Bekannt für seine viktorianischen Arkaden mit einer Mischung aus gehobenen und einzigartigen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Triangle",
+            "tip": "Független butikokkal és furcsa üzletekkel teli negyed."
+          },
+          {
+            "name": "Westbourne",
+            "tip": "Viktoriánus árkádjairól ismert, ahol luxus és egyedi üzletek keverednek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Triangle",
+            "tip": "Un cartier cu buticuri independente și magazine excentrice."
+          },
+          {
+            "name": "Westbourne",
+            "tip": "Cunoscut pentru arcadele sale victoriene care găzduiesc un amestec de magazine de lux și unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Triangle",
+            "tip": "A neighbourhood filled with independent boutiques and quirky shops."
+          },
+          {
+            "name": "Westbourne",
+            "tip": "Known for its Victorian arcades hosting a mix of upmarket and unique stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt viele Nachfüllstationen.",
+          "Der Wind kann am Meer stark sein, also bringen Sie eine leichte Jacke mit.",
+          "Prüfen Sie die Gezeiten, bevor Sie am Strand spazieren gehen, um nicht abgeschnitten zu werden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot, sok utántöltő pont van.",
+          "A tengerparton erős lehet a szél, ezért hozzon egy könnyű dzsekit.",
+          "Ellenőrizze az árapályt, mielőtt a parton sétálna, nehogy elvágja az utat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Luați o sticlă de apă reutilizabilă; există multe stații de reumplere.",
+          "Vântul poate fi puternic pe malul mării, așa că aduceți o jachetă ușoară.",
+          "Verificați mareea înainte de a merge pe plajă pentru a evita să fiți izolat."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring a reusable water bottle; there are many refill stations available.",
+          "The wind can be strong by the sea, so bring a light jacket.",
+          "Check the tides before walking on the beach to avoid getting cut off."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hengistbury Head",
+            "hu": "Hengistbury Head",
+            "ro": "Hengistbury Head",
+            "en": "Hengistbury Head"
+          },
+          "coords": [
+            -1.758,
+            50.713
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad am Eingang, um das Gebiet leichter zu erkunden.",
+            "hu": "Béreljen kerékpárt a bejáratnál, hogy könnyebben felfedezhesse a területet.",
+            "ro": "Închiriați o bicicletă la intrare pentru a explora zona mai ușor.",
+            "en": "Rent a bike near the entrance to explore the area more easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Boscombe Pier",
+            "hu": "Boscombe móló",
+            "ro": "Pontonul Boscombe",
+            "en": "Boscombe Pier"
+          },
+          "coords": [
+            -1.849,
+            50.718
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:04",
+          "stay_min": 45,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Bekannt für seine einzigartigen, musikinstrument-inspirierten Skulpturen.",
+            "hu": "Egyedi, hangszer ihlette szobrairól ismert.",
+            "ro": "Cunoscut pentru sculpturile sale unice, inspirate de instrumente muzicale.",
+            "en": "Known for its unique, musical instrument-inspired sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Bournemouth Pier",
+            "hu": "Bournemouth móló",
+            "ro": "Pontonul Bournemouth",
+            "en": "Bournemouth Pier"
+          },
+          "coords": [
+            -1.875,
+            50.715
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Mittagessen mit Blick auf das Meer.",
+            "hu": "Nagyszerű hely egy ebédhez, kilátással a tengerre.",
+            "ro": "Un loc minunat pentru prânz cu vedere la mare.",
+            "en": "A great spot for lunch with a view of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Lower Gardens",
+            "hu": "Lower Gardens (Alsó Kertek)",
+            "ro": "Grădinile de Jos",
+            "en": "Lower Gardens"
+          },
+          "coords": [
+            -1.88,
+            50.718
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Halten Sie Ausschau nach den Heißluftballons, die oft hier starten.",
+            "hu": "Figyelje a hőlégballonokat, amelyek gyakran innen szállnak fel.",
+            "ro": "Fiți atenți la baloanele cu aer cald care decolează adesea de aici.",
+            "en": "Look out for the hot air balloons that often take off from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Russell-Cotes Kunstgalerie & Museum",
+            "hu": "Russell-Cotes Művészeti Galéria és Múzeum",
+            "ro": "Galeria de Artă și Muzeul Russell-Cotes",
+            "en": "Russell-Cotes Art Gallery & Museum"
+          },
+          "coords": [
+            -1.87,
+            50.717
+          ],
+          "category": "museums",
+          "arrive_at": "15:23",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab; das Museum ist einen langen Besuch wert.",
+            "hu": "Zárja le biztonságosan a kerékpárját, a múzeum megér egy hosszabb látogatást.",
+            "ro": "Asigurați-vă bicicleta în siguranță; muzeul merită o vizită lungă.",
+            "en": "Lock your bike securely; the museum is worth a long visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Radabenteuer am wilden Hengistbury Head und fahren Sie die Küste entlang. Am Vormittag erreichen Sie den künstlerischen Boscombe Pier. Fahren Sie weiter zum belebten Bournemouth Pier für ein Mittagessen mit Aussicht. Nach dem Essen radeln Sie zu den ruhigen Lower Gardens, um sich zu entspannen. Beenden Sie Ihren Tag mit einem kulturellen Ausflug in das prächtige Russell-Cotes Museum.",
+        "hu": "Kezdje kerékpáros kalandját a vadregényes Hengistbury Head-nél, majd tekerjen a part mentén. Délelőtt érje el a művészi Boscombe mólót. Haladjon tovább a nyüzsgő Bournemouth mólóhoz egy ebédre, kilátással. Ebéd után tekerjen a nyugodt Lower Gardens-hez egy kis pihenésért. Zárja a napot egy kulturális kitérővel a pompás Russell-Cotes Múzeumban.",
+        "ro": "Începeți aventura pe bicicletă la sălbaticul Hengistbury Head și pedalați de-a lungul coastei. Ajungeți la Pontonul artistic Boscombe la jumătatea dimineții. Continuați spre aglomeratul Ponton Bournemouth pentru prânz cu vedere. După masă, pedalați spre liniștitele Grădini de Jos pentru relaxare. Încheiați ziua cu o imersiune culturală la magnificul Muzeu Russell-Cotes.",
+        "en": "Start your cycling adventure at the wild Hengistbury Head and pedal along the coast. Arrive at the artistic Boscombe Pier mid-morning. Continue to the bustling Bournemouth Pier for lunch with a view. After your meal, cycle to the serene Lower Gardens for some relaxation. End your day with a cultural immersion at the magnificent Russell-Cotes Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eis",
+            "tip": "Eine klassische Belohnung nach einer langen Radtour entlang der Promenade."
+          },
+          {
+            "name": "Crab Sandwich",
+            "tip": "Frisch und lokal, ein leichter, aber befriedigender Snack."
+          },
+          {
+            "name": "Lokales Ale",
+            "tip": "Viele Pubs entlang der Route bieten lokale Biere an, perfekt um den Durst zu löschen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fagylalt",
+            "tip": "Klasszikus jutalom egy hosszú parti kerékpártúra után."
+          },
+          {
+            "name": "Rákos szendvics",
+            "tip": "Friss és helyi, könnyű, de laktató snack."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Az útvonal mentén számos pub kínál helyi söröket, tökéletes szomjoltó."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înghețată",
+            "tip": "O recompensă clasică după o plimbare lungă cu bicicleta de-a lungul promenadei."
+          },
+          {
+            "name": "Sandviș cu crab",
+            "tip": "Proaspăt și local, o gustare ușoară, dar satisfăcătoare."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Multe pub-uri de pe traseu oferă beri locale, perfecte pentru a vă potoli setea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ice Cream",
+            "tip": "A classic reward after a long cycle along the promenade."
+          },
+          {
+            "name": "Crab Sandwich",
+            "tip": "Fresh and local, a light but satisfying snack."
+          },
+          {
+            "name": "Local Ale",
+            "tip": "Many pubs along the route offer local brews, perfect for quenching your thirst."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Christchurch Harbour",
+            "tip": "In der Nähe von Hengistbury Head, ein friedlicher Ort zur Vogelbeobachtung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alum Chine",
+            "tip": "Ein subtropischer Garten, der zu einem ruhigen Strandabschnitt führt.",
+            "emoji": "🌴"
+          },
+          {
+            "name": "Radweg am Fluss Stour",
+            "tip": "Fahren Sie landeinwärts für eine ruhige Fahrt abseits der Menschenmassen am Meer.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Christchurch kikötő",
+            "tip": "A Hengistbury Head közelében, békés hely madármegfigyelésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alum Chine",
+            "tip": "Szubtrópusi kert, amely egy csendes partszakaszhoz vezet.",
+            "emoji": "🌴"
+          },
+          {
+            "name": "Stour folyó menti kerékpárút",
+            "tip": "Tekerjen a szárazföld belseje felé egy csendes utazásért, távol a tengerparti tömegtől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portul Christchurch",
+            "tip": "Lângă Hengistbury Head, un loc pașnic pentru observarea păsărilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alum Chine",
+            "tip": "O grădină subtropicală care duce la o porțiune liniștită de plajă.",
+            "emoji": "🌴"
+          },
+          {
+            "name": "Pista de biciclete de pe râul Stour",
+            "tip": "Pedalați în interior pentru o plimbare liniștită, departe de mulțimea de pe litoral.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Christchurch Harbour",
+            "tip": "Near Hengistbury Head, a peaceful spot for birdwatching.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alum Chine",
+            "tip": "A subtropical garden that leads down to a quiet stretch of beach.",
+            "emoji": "🌴"
+          },
+          {
+            "name": "River Stour cycle path",
+            "tip": "Head inland for a quiet ride away from the seaside crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte am Meer",
+            "tip": "Kaufen Sie Ausrüstung oder Souvenirs rund ums Radfahren."
+          },
+          {
+            "name": "Boscombe Market",
+            "tip": "An ausgewählten Tagen können Sie nach lokalen Produkten und Kunsthandwerk stöbern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengerparti kerékpárüzletek",
+            "tip": "Vásároljon kerékpáros felszerelést vagy ajándéktárgyakat."
+          },
+          {
+            "name": "Boscombe piac",
+            "tip": "Böngésszen a helyi termékek és kézműves termékek között a kijelölt napokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete pe litoral",
+            "tip": "Cumpărați echipament sau suveniruri legate de ciclism."
+          },
+          {
+            "name": "Piața Boscombe",
+            "tip": "În anumite zile, răsfoiți produsele locale și artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seaside bike shops",
+            "tip": "Pick up any cycling-related gear or souvenirs."
+          },
+          {
+            "name": "Boscombe Market",
+            "tip": "On select days, browse for local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Küstenradweg ist flach und für alle Niveaus geeignet.",
+          "Achten Sie in den Sommermonaten auf Fußgänger.",
+          "Ein Helm wird empfohlen, besonders auf verkehrsreicheren Abschnitten.",
+          "Schließen Sie Ihr Fahrrad immer an, wenn Sie es unbeaufsichtigt lassen."
+        ],
+        "hu": [
+          "A parti kerékpárút sík és minden edzettségi szintnek megfelel.",
+          "Vigyázzon a gyalogosokra a nyári hónapokban.",
+          "Sisak viselése ajánlott, különösen a forgalmasabb szakaszokon.",
+          "Mindig zárja le a kerékpárját, ha felügyelet nélkül hagyja."
+        ],
+        "ro": [
+          "Pista de biciclete de coastă este plată și potrivită pentru toate nivelurile.",
+          "Fiți atenți la pietoni în lunile de vară.",
+          "Se recomandă casca, în special pe secțiunile mai aglomerate.",
+          "Încuiți întotdeauna bicicleta când o lăsați nesupravegheată."
+        ],
+        "en": [
+          "The coastal cycle path is flat and suitable for all abilities.",
+          "Be aware of pedestrians during the summer months.",
+          "A helmet is recommended, especially on busier sections.",
+          "Always lock your bike when leaving it unattended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 17.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hengistbury Head Parkplatz",
+            "hu": "Hengistbury Head parkoló",
+            "ro": "Parcare Hengistbury Head",
+            "en": "Hengistbury Head Car Park"
+          },
+          "coords": [
+            -1.765,
+            50.718
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihre Erkundung zu Fuß.",
+            "hu": "Parkoljon itt, és kezdje meg a felfedezést gyalog.",
+            "ro": "Parcați aici și începeți explorarea pe jos.",
+            "en": "Park here and start your exploration on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hengistbury Head Gipfel",
+            "hu": "Hengistbury Head csúcs",
+            "ro": "Vârful Hengistbury Head",
+            "en": "Hengistbury Head Summit"
+          },
+          "coords": [
+            -1.758,
+            50.713
+          ],
+          "category": "natural features",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Spaziergang lohnt sich für die Panoramasicht.",
+            "hu": "A séta megéri a panorámás kilátásért.",
+            "ro": "Plimbarea merită pentru vederea panoramică.",
+            "en": "The walk is well worth it for the panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Boscombe Pier Parkplatz",
+            "hu": "Boscombe móló parkoló",
+            "ro": "Parcare Pontonul Boscombe",
+            "en": "Boscombe Pier Car Park"
+          },
+          "coords": [
+            -1.85,
+            50.72
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:05",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Boscombe und parken Sie für das nächste Cluster.",
+            "hu": "Vezessen Boscombe-ba és parkoljon a következő fürthöz.",
+            "ro": "Conduceți spre Boscombe și parcați pentru următorul cluster.",
+            "en": "Drive to Boscombe and park for the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Boscombe Pier",
+            "hu": "Boscombe móló",
+            "ro": "Pontonul Boscombe",
+            "en": "Boscombe Pier"
+          },
+          "coords": [
+            -1.849,
+            50.718
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum unkonventionellen Pier.",
+            "hu": "Rövid séta a parkolótól a különc mólóig.",
+            "ro": "O scurtă plimbare de la parcare la pontonul ciudat.",
+            "en": "A short walk from the car park to the quirky pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentral-Bournemouth Parkhaus",
+            "hu": "Bournemouth központi parkolóház",
+            "ro": "Parcare Centrală Bournemouth",
+            "en": "Central Bournemouth Car Park"
+          },
+          "coords": [
+            -1.878,
+            50.722
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:38",
+          "stay_min": 10,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon itt a nap hátralévő részére, és fedezze fel a központot gyalog.",
+            "ro": "Parcați aici pentru restul zilei și explorați centrul pe jos.",
+            "en": "Park here for the rest of the day and explore the centre on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter's Kirche",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "St Peter's Church"
+          },
+          "coords": [
+            -1.8775,
+            50.7208
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 90,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ihr erster Halt im Stadtzentrum nach dem Mittagessen.",
+            "hu": "Az első megálló a városközpontban ebéd után.",
+            "ro": "Prima dvs. oprire în centrul orașului după prânz.",
+            "en": "Your first stop in the town centre cluster after lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt zum weitläufigen Hengistbury Head, parken Sie und wandern Sie zum Gipfel. Am Vormittag fahren Sie zum künstlerischen Boscombe und spazieren zum Pier. Nach dem Mittagessen fahren Sie ins Zentrum von Bournemouth, parken für den Tag und erkunden zu Fuß. Besuchen Sie die historische St. Peter's Kirche, das prächtige Russell-Cotes Museum und beenden Sie Ihren Tag mit einem Spaziergang entlang des berühmten Piers von Bournemouth.",
+        "hu": "Kezdje a napot egy autózással a tágas Hengistbury Head-hez, parkoljon le, és sétáljon fel a csúcsra. Délelőtt vezessen a művészi Boscombe-ba, és sétáljon le a mólóhoz. Ebéd után irány Bournemouth központja, parkoljon le a nap hátralévő részére, és fedezze fel gyalog. Látogasson el a történelmi Szent Péter-templomhoz, a pompás Russell-Cotes Múzeumhoz, és zárja a napot egy sétával Bournemouth híres mólóján.",
+        "ro": "Începeți ziua cu o plimbare cu mașina până la întinsul Hengistbury Head, parcați și mergeți pe jos până la vârf. La jumătatea dimineții, conduceți spre artisticul Boscombe și plimbați-vă până la ponton. După prânz, conduceți spre centrul orașului Bournemouth, parcați pentru restul zilei și explorați pe jos. Vizitați istorica Biserică Sf. Petru, magnificul Muzeu Russell-Cotes și încheiați ziua cu o plimbare pe faimosul ponton din Bournemouth.",
+        "en": "Start your day with a drive to the expansive Hengistbury Head, park up, and hike to the summit. Mid-morning, drive to artistic Boscombe and stroll to its pier. After lunch, drive to central Bournemouth, park for the day, and explore on foot. Visit the historic St Peter's Church, the magnificent Russell-Cotes Museum, and finish with a walk along Bournemouth's famous pier."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pub-Mittagessen",
+            "tip": "Finden Sie ein gemütliches Pub in der Nähe Ihres Parkplatzes für eine herzhafte Mahlzeit."
+          },
+          {
+            "name": "Dorset Blue Vinny Käse",
+            "tip": "Halten Sie in Feinkostläden Ausschau nach diesem starken, krümeligen lokalen Käse."
+          },
+          {
+            "name": "Nachmittagstee",
+            "tip": "Viele Hotels in der Innenstadt bieten einen klassischen britischen Nachmittagstee an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pub ebéd",
+            "tip": "Keressen egy hangulatos pubot a parkoló közelében egy kiadós étkezéshez."
+          },
+          {
+            "name": "Dorset Blue Vinny sajt",
+            "tip": "Keresse ezt az erős, morzsás helyi sajtot a csemegeboltokban."
+          },
+          {
+            "name": "Délutáni tea",
+            "tip": "A belvárosi szállodák közül sok kínál klasszikus brit délutáni teát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prânz la pub",
+            "tip": "Găsiți un pub confortabil lângă parcare pentru o masă copioasă."
+          },
+          {
+            "name": "Brânză Dorset Blue Vinny",
+            "tip": "Căutați această brânză locală puternică și sfărâmicioasă în magazinele de delicatese."
+          },
+          {
+            "name": "Ceaiul de după-amiază",
+            "tip": "Multe hoteluri din centrul orașului oferă un ceai clasic britanic de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pub Lunch",
+            "tip": "Find a cosy pub near your parking spot for a hearty meal."
+          },
+          {
+            "name": "Dorset Blue Vinny cheese",
+            "tip": "Look out for this strong, crumbly local cheese in delicatessens."
+          },
+          {
+            "name": "Afternoon Tea",
+            "tip": "Many hotels in the town centre offer a classic British afternoon tea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mudeford Quay",
+            "tip": "In der Nähe von Hengistbury Head, beobachten Sie die Fischerboote und genießen Sie die Ruhe.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Italienische Gärten",
+            "tip": "Ein verstecktes Juwel in den Upper Gardens, perfekt für einen ruhigen Moment.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Fahrt entlang der Küstenstraße bei Sonnenuntergang",
+            "tip": "Genießen Sie die Aussicht von Ihrem Auto aus, wenn das Licht weicher wird.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mudeford Quay",
+            "tip": "A Hengistbury Head közelében nézze a halászhajókat és élvezze a békét.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Olasz kertek",
+            "tip": "Rejtett gyöngyszem az Upper Gardens-ben, tökéletes egy csendes pillanatra.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Naplemente autózás a parti úton",
+            "tip": "Élvezze a kilátást az autójából, ahogy a fények lágyulnak.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cheiul Mudeford",
+            "tip": "Lângă Hengistbury Head, priviți bărcile de pescuit și bucurați-vă de liniște.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Grădinile Italiene",
+            "tip": "O bijuterie ascunsă în Grădinile de Sus, perfectă pentru un moment de liniște.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Plimbare cu mașina la apus pe drumul de coastă",
+            "tip": "Bucurați-vă de priveliște din mașină în timp ce lumina se înmoaie.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mudeford Quay",
+            "tip": "Near Hengistbury Head, watch the fishing boats and enjoy the peace.",
+            "emoji": "⚓"
+          },
+          {
+            "name": "Italian Gardens",
+            "tip": "A hidden gem within the Upper Gardens, perfect for a quiet moment.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Sunset drive along the coast road",
+            "tip": "Enjoy the views from your car as the light softens.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Castlepoint Shopping Park",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand, leicht mit dem Auto zu erreichen."
+          },
+          {
+            "name": "Bauernläden im Landesinneren",
+            "tip": "Machen Sie einen kurzen Abstecher, um lokale Produkte direkt von den Bauernhöfen zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Castlepoint bevásárlópark",
+            "tip": "Nagy, külvárosi bevásárlóközpont, könnyen megközelíthető autóval."
+          },
+          {
+            "name": "Farm boltok a szárazföldön",
+            "tip": "Tegyen egy rövid kitérőt, hogy helyi termékeket vásároljon közvetlenül a gazdaságokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de cumpărături Castlepoint",
+            "tip": "Un centru comercial mare, la periferie, ușor accesibil cu mașina."
+          },
+          {
+            "name": "Magazine de fermă în interior",
+            "tip": "Faceți un scurt ocol pentru a cumpăra produse locale direct de la ferme."
+          }
+        ],
+        "en": [
+          {
+            "name": "Castlepoint Shopping Park",
+            "tip": "A large, out-of-town retail park easily accessible by car."
+          },
+          {
+            "name": "Inland Farm Shops",
+            "tip": "Take a short detour to buy local produce direct from the farms."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Bournemouth kann teuer sein, besonders im Zentrum.",
+          "Planen Sie Ihre Fahrten zwischen den Clustern außerhalb der Stoßzeiten.",
+          "Verwenden Sie eine Park-App, um leichter Parkplätze zu finden und zu bezahlen.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen, die sich in der Nähe von Stränden und Schulen ändern."
+        ],
+        "hu": [
+          "A parkolás Bournemouthban drága lehet, különösen a központban.",
+          "Tervezze az utazásokat a csúcsforgalmon kívüli időpontokra.",
+          "Használjon parkolási alkalmazást a helyek könnyebb megtalálásához és fizetéséhez.",
+          "Legyen tisztában a sebességkorlátozásokkal, amelyek a strandok és iskolák közelében változnak."
+        ],
+        "ro": [
+          "Parcarea poate fi costisitoare în Bournemouth, în special în centru.",
+          "Planificați-vă deplasările între clustere în afara orelor de vârf.",
+          "Utilizați o aplicație de parcare pentru a găsi și plăti mai ușor locurile.",
+          "Fiți conștienți de limitele de viteză care se schimbă în apropierea plajelor și a școlilor."
+        ],
+        "en": [
+          "Parking can be expensive in Bournemouth, especially in the centre.",
+          "Plan your drives between clusters outside of peak traffic hours.",
+          "Use a parking app to find and pay for spaces more easily.",
+          "Be aware of speed limits, which change near beaches and schools."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 9.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bournemouth Square",
+            "hu": "Bournemouth tér",
+            "ro": "Piața Bournemouth",
+            "en": "Bournemouth Square"
+          },
+          "coords": [
+            -1.88,
+            50.719
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der zentrale Knotenpunkt für die meisten Buslinien, ein idealer Ausgangspunkt.",
+            "hu": "A legtöbb buszjárat központi csomópontja, ideális kiindulópont.",
+            "ro": "Nodul central pentru majoritatea rutelor de autobuz, un punct de plecare ideal.",
+            "en": "The central hub for most bus routes, an ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Lower Gardens",
+            "hu": "Lower Gardens (Alsó Kertek)",
+            "ro": "Grădinile de Jos",
+            "en": "Lower Gardens"
+          },
+          "coords": [
+            -1.88,
+            50.718
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:39",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz, um Ihren Tag im Grünen zu beginnen.",
+            "hu": "Rövid séta a térről, hogy zöldben kezdje a napot.",
+            "ro": "O scurtă plimbare din piață pentru a începe ziua în verdeață.",
+            "en": "A short walk from the Square to start your day in greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter's Kirche",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "St Peter's Church"
+          },
+          "coords": [
+            -1.8775,
+            50.7208
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Gärten zu dieser beeindruckenden Kirche.",
+            "hu": "Sétáljon át a kerteken ehhez a lenyűgöző templomhoz.",
+            "ro": "Plimbați-vă prin grădini până la această biserică impresionantă.",
+            "en": "Wander up through the gardens to this impressive church."
+          }
+        },
+        {
+          "name": {
+            "de": "Russell-Cotes Museum (Bushaltestelle)",
+            "hu": "Russell-Cotes Múzeum (buszmegálló)",
+            "ro": "Muzeul Russell-Cotes (stație de autobuz)",
+            "en": "Russell-Cotes Museum (Bus Stop)"
+          },
+          "coords": [
+            -1.87,
+            50.718
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus für eine kurze Fahrt entlang der Klippe.",
+            "hu": "Szálljon buszra egy rövid sziklaszirten vezető útra.",
+            "ro": "Luați un autobuz pentru o scurtă călătorie de-a lungul stâncii.",
+            "en": "Take a bus for the short journey along the cliff top."
+          }
+        },
+        {
+          "name": {
+            "de": "Russell-Cotes Kunstgalerie & Museum",
+            "hu": "Russell-Cotes Művészeti Galéria és Múzeum",
+            "ro": "Galeria de Artă și Muzeul Russell-Cotes",
+            "en": "Russell-Cotes Art Gallery & Museum"
+          },
+          "coords": [
+            -1.87,
+            50.717
+          ],
+          "category": "museums",
+          "arrive_at": "11:43",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergab von der Bushaltestelle zum Museumseingang.",
+            "hu": "Rövid séta lefelé a buszmegállótól a múzeum bejáratáig.",
+            "ro": "O scurtă plimbare la vale de la stația de autobuz la intrarea muzeului.",
+            "en": "A short walk downhill from the bus stop to the museum entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Boscombe Pier",
+            "hu": "Boscombe móló",
+            "ro": "Pontonul Boscombe",
+            "en": "Boscombe Pier"
+          },
+          "coords": [
+            -1.849,
+            50.718
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 120,
+          "hop_from_prev_km": 6.6,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus nach Boscombe für eine andere Küstenatmosphäre.",
+            "hu": "Szálljon buszra Boscombe-ba egy másfajta tengerparti hangulatért.",
+            "ro": "Luați autobuzul spre Boscombe pentru o atmosferă de coastă diferită.",
+            "en": "Catch the bus to Boscombe for a different coastal vibe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Bournemouth Square, dem Verkehrsknotenpunkt. Schlendern Sie am Morgen durch die Lower Gardens und zur St. Peter's Kirche. Nehmen Sie mittags einen Bus zum Russell-Cotes Museum, um in Kunst und Geschichte einzutauchen. Nach dem Mittagessen bringt Sie ein weiterer Bus in das unkonventionelle Viertel Boscombe, wo Sie am Pier spazieren gehen. Kehren Sie am späten Nachmittag ins Zentrum zurück und genießen Sie die Atmosphäre, bevor Sie den Tag beenden.",
+        "hu": "Kezdje a Bournemouth téren, a közlekedési csomóponton. Reggel sétáljon át a Lower Gardens-en a Szent Péter-templomhoz. Délben szálljon buszra a Russell-Cotes Múzeumhoz, hogy elmerüljön a művészetben és a történelemben. Ebéd után egy másik busz elviszi a különc Boscombe negyedbe, ahol sétálhat a mólón. Késő délután térjen vissza a központba, hogy magába szívja a hangulatot, mielőtt befejezi a napot.",
+        "ro": "Începeți în Piața Bournemouth, nodul de transport. Plimbați-vă prin Grădinile de Jos până la Biserica Sf. Petru dimineața. La prânz, luați un autobuz spre Muzeul Russell-Cotes pentru o imersiune în artă și istorie. După prânz, un alt autobuz vă duce în cartierul excentric Boscombe pentru o plimbare pe ponton. Întoarceți-vă în centru după-amiaza târziu pentru a absorbi atmosfera înainte de a încheia ziua.",
+        "en": "Start at Bournemouth Square, the transport hub. Wander through the Lower Gardens to St Peter's Church in the morning. At midday, catch a bus to the Russell-Cotes Museum for an immersion in art and history. After lunch, another bus takes you to the quirky district of Boscombe for a stroll on its pier. Return to the centre in the late afternoon to soak up the atmosphere before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café-Kultur",
+            "tip": "Entdecken Sie die vielen unabhängigen Cafés in der Nähe der Bushaltestellen."
+          },
+          {
+            "name": "Internationale Küche",
+            "tip": "Die Buslinien verbinden Sie mit Vierteln, die eine vielfältige Auswahl an Speisen bieten."
+          },
+          {
+            "name": "Picknick im Garten",
+            "tip": "Kaufen Sie lokale Leckereien und genießen Sie sie in einem der vielen Parks der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézó kultúra",
+            "tip": "Fedezze fel a buszmegállók közelében található számos független kávézót."
+          },
+          {
+            "name": "Nemzetközi konyha",
+            "tip": "A buszjáratok összekötik Önt azokkal a negyedekkel, amelyek változatos étkezési lehetőségeket kínálnak."
+          },
+          {
+            "name": "Piknik a kertben",
+            "tip": "Vásároljon helyi finomságokat, és élvezze őket a város számos parkjának egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cultura cafenelelor",
+            "tip": "Explorați numeroasele cafenele independente din apropierea stațiilor de autobuz."
+          },
+          {
+            "name": "Bucătărie internațională",
+            "tip": "Rutele de autobuz vă conectează la cartiere care oferă o gamă variată de opțiuni culinare."
+          },
+          {
+            "name": "Picnic în grădini",
+            "tip": "Cumpărați produse locale și bucurați-vă de ele într-unul dintre numeroasele parcuri ale orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café culture",
+            "tip": "Explore the many independent cafes near the bus stops."
+          },
+          {
+            "name": "International Cuisine",
+            "tip": "The bus routes connect you to neighbourhoods offering a diverse range of food options."
+          },
+          {
+            "name": "Picnic in the gardens",
+            "tip": "Buy some local treats and enjoy them in one of the city's many parks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberdeck eines Doppeldeckerbusses",
+            "tip": "Setzen Sie sich nach vorne für eine einzigartige und ruhige Perspektive auf die Stadt.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Boscombe Chine Gardens",
+            "tip": "Ein friedlicher Spaziergang vom Pier weg, mit formellen Blumenbeeten.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Bibliothek im Stadtzentrum",
+            "tip": "Ein garantierter Ort der Ruhe und Stille, in der Nähe der zentralen Bushaltestellen.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emeletes busz felső szintje",
+            "tip": "Üljön előre, hogy egyedi és csendes perspektívából lássa a várost.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Boscombe Chine Gardens",
+            "tip": "Békés séta a mólótól, formális virágágyásokkal.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Városi könyvtár",
+            "tip": "Garantáltan csendes hely, közel a központi buszmegállókhoz.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puntea superioară a unui autobuz supraetajat",
+            "tip": "Stați în față pentru o perspectivă unică și liniștită a orașului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Grădinile Boscombe Chine",
+            "tip": "O plimbare liniștită departe de ponton, cu straturi de flori formale.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Biblioteca din centrul orașului",
+            "tip": "Un loc garantat de pace și liniște, aproape de stațiile centrale de autobuz.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of a double-decker bus",
+            "tip": "Sit at the front for a unique and quiet perspective of the city.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Boscombe Chine Gardens",
+            "tip": "A peaceful walk away from the pier, with formal flower beds.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Town Centre Library",
+            "tip": "A guaranteed spot of peace and quiet, close to the central bus stops.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The 'Sovereign' Einkaufszentrum",
+            "tip": "In Boscombe gelegen, ist es ein kurzer Spaziergang vom Pier für einige Einzelhandelstherapie."
+          },
+          {
+            "name": "Charity-Läden",
+            "tip": "Bournemouth hat viele gut sortierte Charity-Läden, in denen Sie nach Schätzen suchen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'Sovereign' bevásárlóközpont",
+            "tip": "Boscombe-ban található, rövid sétára a mólótól egy kis vásárlási terápiáért."
+          },
+          {
+            "name": "Adományboltok",
+            "tip": "Bournemouthban sok jól felszerelt adománybolt található, ahol kincsekre vadászhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial 'Sovereign'",
+            "tip": "Situat în Boscombe, este la o scurtă plimbare de ponton pentru o terapie de cumpărături."
+          },
+          {
+            "name": "Magazine de caritate",
+            "tip": "Bournemouth are multe magazine de caritate bine aprovizionate pentru vânătoarea de comori."
+          }
+        ],
+        "en": [
+          {
+            "name": "The 'Sovereign' Shopping Centre",
+            "tip": "Located in Boscombe, it's a short walk from the pier for some retail therapy."
+          },
+          {
+            "name": "Charity Shops",
+            "tip": "Bournemouth has many well-stocked charity shops for some treasure hunting."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die Bus-App herunter, um die Fahrpläne und Routen in Echtzeit zu verfolgen.",
+          "Busse können im Sommer überfüllt sein, also planen Sie zusätzliche Zeit ein.",
+          "Behalten Sie Ihr Ticket, da möglicherweise Kontrolleure an Bord sind."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a buszalkalmazást a valós idejű menetrendek és útvonalak követéséhez.",
+          "A buszok nyáron zsúfoltak lehetnek, ezért hagyjon rá extra időt.",
+          "Tartsa meg a jegyét, mivel ellenőrök lehetnek a fedélzeten."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația de autobuz pentru a urmări orarele și rutele în timp real.",
+          "Autobuzele pot fi aglomerate în timpul verii, așa că acordați timp suplimentar.",
+          "Păstrați biletul, deoarece pot exista inspectori la bord."
+        ],
+        "en": [
+          "Buy a day rider pass for unlimited travel.",
+          "Download the bus app to track live timetables and routes.",
+          "Buses can be crowded in summer, so allow extra time.",
+          "Keep hold of your ticket as inspectors may be on board."
+        ]
+      }
+    }
+  }
+}

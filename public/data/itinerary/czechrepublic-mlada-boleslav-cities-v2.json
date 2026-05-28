@@ -1,0 +1,1429 @@
+{
+  "city_id": "czechrepublic-mlada-boleslav-cities-v2",
+  "anchor": {
+    "name": "Jungbunzlau",
+    "coords": [
+      14.9032,
+      50.4114
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            14.904,
+            50.412
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Sgraffito und die astronomische Uhr an der Fassade.",
+            "hu": "Csodálja meg a sgraffito díszítést és a csillagászati órát a homlokzaton.",
+            "ro": "Admirați sgraffito-ul și ceasul astronomic de pe fațadă.",
+            "en": "Admire the sgraffito and the astronomical clock on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Templer-Palast",
+            "hu": "Templomosok Palotája",
+            "ro": "Palatul Templierilor",
+            "en": "Templar Palace"
+          },
+          "coords": [
+            14.9055,
+            50.4135
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die gotischen Architekturelemente im Inneren.",
+            "hu": "Keresse a gótikus építészeti elemeket az épület belsejében.",
+            "ro": "Căutați elementele de arhitectură gotică din interior.",
+            "en": "Look for the Gothic architectural elements inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Mladá Boleslav",
+            "hu": "Mladá Boleslav-i kastély",
+            "ro": "Castelul Mladá Boleslav",
+            "en": "Mladá Boleslav Castle"
+          },
+          "coords": [
+            14.901,
+            50.415
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Schloss beherbergt heute ein Museum über die Regionalgeschichte.",
+            "hu": "A kastély ma a régió történelmét bemutató múzeumnak ad otthont.",
+            "ro": "Castelul găzduiește acum un muzeu despre istoria regională.",
+            "en": "The castle now houses a museum about the region's history."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Vitus-Kirche",
+            "hu": "Szent Vitus-templom",
+            "ro": "Biserica Sfântul Vitus",
+            "en": "St. Vitus Church"
+          },
+          "coords": [
+            14.899,
+            50.414
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um der Hektik der Stadt für einen Moment zu entfliehen.",
+            "hu": "Csendes hely, ahol egy percre elmenekülhet a város nyüzsgése elől.",
+            "ro": "Un loc liniștit pentru a evada pentru un moment din agitația orașului.",
+            "en": "A quiet place to escape the hustle and bustle of the city for a moment."
+          }
+        },
+        {
+          "name": {
+            "de": "Škoda Museum",
+            "hu": "Škoda Múzeum",
+            "ro": "Muzeul Škoda",
+            "en": "Škoda Museum"
+          },
+          "coords": [
+            14.925,
+            50.418
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die interaktiven Ausstellungen ein. Ein Muss für Autofans!",
+            "hu": "Szánjon elég időt az interaktív kiállításokra. Kötelező az autórajongóknak!",
+            "ro": "Planificați suficient timp pentru expozițiile interactive. O necesitate pentru fanii mașinilor!",
+            "en": "Allow plenty of time for the interactive exhibits. A must for car fans!"
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            14.9035,
+            50.4125
+          ],
+          "category": "gastro",
+          "arrive_at": "16:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie die böhmische Küche in einem der traditionellen Restaurants.",
+            "hu": "Kóstolja meg a cseh konyhát az egyik hagyományos étteremben.",
+            "ro": "Încercați bucătăria cehă la unul dintre restaurantele tradiționale.",
+            "en": "Try some Bohemian cuisine in one of the traditional restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Alten Rathaus, dem Herzen der Stadt. Schlendern Sie durch die Gassen zum Templer-Palast und spüren Sie die mittelalterliche Atmosphäre. Am Mittag erklimmen Sie den Hügel zum Schloss Mladá Boleslav und genießen die Aussicht, bevor Sie die ruhige St.-Vitus-Kirche besuchen. Der Nachmittag ist der Automobilgeschichte im berühmten Škoda Museum gewidmet, ein faszinierender Einblick in die industrielle Seele der Stadt. Lassen Sie den Tag bei einem herzhaften böhmischen Abendessen ausklingen.",
+        "hu": "Kezdje a napot a Régi Városházánál, a város szívében. Sétáljon végig a sikátorokon a Templomosok Palotájáig, és érezze a középkori hangulatot. Délben másszon fel a dombra a Mladá Boleslav-i kastélyhoz, és élvezze a kilátást, mielőtt meglátogatja a csendes Szent Vitus-templomot. A délután az autóipar történelméé a híres Škoda Múzeumban, amely lenyűgöző bepillantást nyújt a város ipari lelkébe. Zárja a napot egy kiadós cseh vacsorával.",
+        "ro": "Începeți ziua la Primăria Veche, inima orașului. Plimbați-vă pe alei până la Palatul Templierilor și simțiți atmosfera medievală. La prânz, urcați dealul spre Castelul Mladá Boleslav și bucurați-vă de priveliște înainte de a vizita liniștita Biserică Sfântul Vitus. După-amiaza este dedicată istoriei automobilistice la faimosul Muzeu Škoda, o incursiune fascinantă în sufletul industrial al orașului. Încheiați ziua cu o cină boemă copioasă.",
+        "en": "Start your day at the Old Town Hall, the heart of the city. Stroll through the alleys to the Templar Palace and feel the medieval atmosphere. At noon, climb the hill to Mladá Boleslav Castle and enjoy the view before visiting the quiet St. Vitus Church. The afternoon is dedicated to automotive history at the famous Škoda Museum, a fascinating insight into the city's industrial soul. End the day with a hearty Bohemian dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Rinderbraten mit Sahnesauce und Knödeln, ein tschechischer Klassiker."
+          },
+          {
+            "name": "Restaurace U Hymrů",
+            "tip": "Traditionelles Restaurant mit gemütlicher Atmosphäre im Stadtzentrum."
+          },
+          {
+            "name": "ŠKODA Muzeum Restaurant",
+            "tip": "Modernes Restaurant direkt im Museum, ideal für eine Stärkung nach der Ausstellung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Vadasmarha tejszínes mártással és knédlivel, egy cseh klasszikus."
+          },
+          {
+            "name": "Restaurace U Hymrů",
+            "tip": "Hagyományos étterem hangulatos légkörrel a városközpontban."
+          },
+          {
+            "name": "ŠKODA Muzeum Étterem",
+            "tip": "Modern étterem közvetlenül a múzeumban, ideális feltöltődés a kiállítás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Friptură de vită cu sos de smântână și găluște, un clasic ceh."
+          },
+          {
+            "name": "Restaurace U Hymrů",
+            "tip": "Restaurant tradițional cu o atmosferă primitoare în centrul orașului."
+          },
+          {
+            "name": "Restaurantul Muzeului ŠKODA",
+            "tip": "Restaurant modern chiar în muzeu, ideal pentru o pauză după expoziție."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Beef sirloin in cream sauce with dumplings, a Czech classic."
+          },
+          {
+            "name": "Restaurace U Hymrů",
+            "tip": "Traditional restaurant with a cozy atmosphere in the city center."
+          },
+          {
+            "name": "ŠKODA Museum Restaurant",
+            "tip": "Modern restaurant right in the museum, ideal for refueling after the exhibition."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Schloss",
+            "tip": "Ein ruhiger Spaziergang mit Blick auf die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Jizera",
+            "tip": "Finden Sie eine Bank am Flussufer und beobachten Sie das Wasser.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "St.-Vitus-Kirche",
+            "tip": "Ein Moment der Stille und Besinnung.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park a kastélynál",
+            "tip": "Csendes séta a városra nyíló kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jizera folyó partja",
+            "tip": "Keressen egy padot a folyóparton, és nézze a vizet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Szent Vitus-templom",
+            "tip": "A csend és az elmélkedés pillanata.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de lângă castel",
+            "tip": "O plimbare liniștită cu vedere la oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Jizera",
+            "tip": "Găsiți o bancă pe malul râului și priviți apa.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Biserica Sfântul Vitus",
+            "tip": "Un moment de liniște și contemplare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park by the Castle",
+            "tip": "A quiet walk with a view of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Jizera River",
+            "tip": "Find a bench on the riverbank and watch the water.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "St. Vitus Church",
+            "tip": "A moment of silence and contemplation.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Škoda Museum Shop",
+            "tip": "Modellautos und Marken-Souvenirs."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie Ausschau nach regionalem Kunsthandwerk und Produkten auf dem Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Škoda Múzeum Bolt",
+            "tip": "Modellautók és márkás ajándéktárgyak."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a helyi kézműves termékeket a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului Škoda",
+            "tip": "Modele de mașini și suveniruri de marcă."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați obiecte de artizanat și produse regionale în piața principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Škoda Museum Shop",
+            "tip": "Model cars and branded souvenirs."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Look for regional crafts and produce in the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie sich Zeit, die Details der historischen Gebäude zu bewundern."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A központ legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Szánjon időt a történelmi épületek részleteinek megcsodálására."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele din orașul vechi pot fi denivelate.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Luați-vă timp pentru a admira detaliile clădirilor istorice."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights in the center are easily within walking distance.",
+          "Take time to admire the details of the historic buildings."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            14.904,
+            50.412
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt Ihrer Tour, ideal für ein erstes Foto.",
+            "hu": "A túra kiindulópontja, ideális egy első fotóhoz.",
+            "ro": "Punctul de plecare al turului, ideal pentru o primă fotografie.",
+            "en": "Starting point of your tour, ideal for a first photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Mladá Boleslav",
+            "hu": "Mladá Boleslav-i kastély",
+            "ro": "Castelul Mladá Boleslav",
+            "en": "Mladá Boleslav Castle"
+          },
+          "coords": [
+            14.901,
+            50.415
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Fuße des Hügels ab und gehen Sie das letzte Stück zu Fuß.",
+            "hu": "Hagyja a kerékpárt a domb alján, és tegye meg az utolsó szakaszt gyalog.",
+            "ro": "Lăsați bicicleta la poalele dealului și parcurgeți ultima porțiune pe jos.",
+            "en": "Park your bike at the bottom of the hill and walk the last part."
+          }
+        },
+        {
+          "name": {
+            "de": "Metall-Pfad",
+            "hu": "Fémösvény",
+            "ro": "Calea Metalului",
+            "en": "Metal Path"
+          },
+          "coords": [
+            14.915,
+            50.42
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt entlang dieses Kunstpfades, der die Industriegeschichte ehrt.",
+            "hu": "Kellemes tekerés ezen a művészeti ösvényen, amely az ipari történelmet ünnepli.",
+            "ro": "O plimbare plăcută de-a lungul acestei poteci de artă care onorează istoria industrială.",
+            "en": "A pleasant ride along this art path honoring industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Škoda Museum",
+            "hu": "Škoda Múzeum",
+            "ro": "Muzeul Škoda",
+            "en": "Škoda Museum"
+          },
+          "coords": [
+            14.925,
+            50.418
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Es gibt sichere Fahrradständer vor dem Museum.",
+            "hu": "Biztonságos kerékpártárolók vannak a múzeum előtt.",
+            "ro": "Există suporturi sigure pentru biciclete în fața muzeului.",
+            "en": "There are secure bike racks in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Luftfahrtmuseum Metoděj Vlach",
+            "hu": "Metoděj Vlach Repülőmúzeum",
+            "ro": "Muzeul Aviației Metoděj Vlach",
+            "en": "Metoděj Vlach Aviation Museum"
+          },
+          "coords": [
+            14.955,
+            50.395
+          ],
+          "category": "museums",
+          "arrive_at": "15:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein kleiner Abstecher, der sich für Technik- und Geschichtsfans lohnt.",
+            "hu": "Egy kis kitérő, ami megéri a technika és a történelem rajongóinak.",
+            "ro": "Un mic ocol care merită pentru pasionații de tehnologie și istorie.",
+            "en": "A small detour worthwhile for technology and history enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Michalovice",
+            "hu": "Michalovice várromja",
+            "ro": "Ruinele castelului Michalovice",
+            "en": "Michalovice Castle Ruin"
+          },
+          "coords": [
+            14.88,
+            50.44
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Der Anstieg ist etwas anstrengend, aber die Aussicht bei Sonnenuntergang ist die Belohnung.",
+            "hu": "Az emelkedő kissé fárasztó, de a naplementei kilátás a jutalom.",
+            "ro": "Urcușul este puțin obositor, dar priveliștea la apus este recompensa.",
+            "en": "The climb is a bit strenuous, but the sunset view is the reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen",
+            "hu": "Vacsora",
+            "ro": "Cină",
+            "en": "Dinner"
+          },
+          "coords": [
+            14.9035,
+            50.4125
+          ],
+          "category": "gastro",
+          "arrive_at": "17:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zurück im Zentrum, um den Tag ausklingen zu lassen.",
+            "hu": "Vissza a központba, hogy lezárja a napot.",
+            "ro": "Înapoi în centru pentru a încheia ziua.",
+            "en": "Back in the center to round off the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich am Alten Rathaus aufs Rad und rollen Sie zum Schloss. Nach einem historischen Exkurs führt Sie eine gemütliche Fahrt entlang des Metall-Pfads. Der Vormittag gipfelt im Škoda Museum, dem industriellen Herzstück der Stadt. Nach dem Mittagessen machen Sie einen Abstecher zum Luftfahrtmuseum, bevor Sie sich der Herausforderung der Burgruine Michalovice stellen. Der Panoramablick über das Iser-Tal bei Sonnenuntergang ist der perfekte Abschluss, bevor Sie zum Abendessen ins Zentrum zurückkehren.",
+        "hu": "Pattanjon kerékpárra a Régi Városházánál, és tekerjen el a kastélyhoz. A történelmi kitérő után egy kellemes út vezet a Fémösvény mentén. A délelőtt a Škoda Múzeumban csúcsosodik ki, a város ipari szívében. Ebéd után tegyen egy kitérőt a Repülőmúzeumba, mielőtt nekivág a Michalovice várrom kihívásának. A panorámás kilátás az Iser-völgyre naplementekor tökéletes befejezés, mielőtt visszatérne a központba vacsorázni.",
+        "ro": "Urcați-vă pe bicicletă la Primăria Veche și pedalați spre castel. După o incursiune istorică, o plimbare relaxantă vă duce de-a lungul Căii Metalului. Dimineața culminează la Muzeul Škoda, inima industrială a orașului. După prânz, faceți un ocol la Muzeul Aviației înainte de a înfrunta provocarea ruinelor castelului Michalovice. Priveliștea panoramică asupra văii Jizera la apus este finalul perfect înainte de a vă întoarce în centru pentru cină.",
+        "en": "Hop on your bike at the Old Town Hall and pedal to the castle. After a historical detour, a leisurely ride takes you along the Metal Path. The morning culminates at the Škoda Museum, the industrial heart of the city. After lunch, take a side trip to the Aviation Museum before tackling the challenge of the Michalovice Castle Ruin. The panoramic view over the Jizera valley at sunset is the perfect finish before returning to the center for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pivo",
+            "tip": "Kein Tschechien-Besuch ohne ein lokales Bier."
+          },
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "Eingelegter Camembert, ein klassischer Bier-Snack."
+          },
+          {
+            "name": "Restaurace U Hymrů",
+            "tip": "Gute, ehrliche Küche nach einem langen Tag im Sattel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pivo",
+            "tip": "Nincs csehországi látogatás helyi sör nélkül."
+          },
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "Pácolt camembert, egy klasszikus sörkorcsolya."
+          },
+          {
+            "name": "Restaurace U Hymrů",
+            "tip": "Jó, becsületes konyha egy hosszú nyeregben töltött nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pivo",
+            "tip": "Nicio vizită în Cehia fără o bere locală."
+          },
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "Camembert marinat, o gustare clasică la bere."
+          },
+          {
+            "name": "Restaurace U Hymrů",
+            "tip": "Bucătărie bună și onestă după o zi lungă în șa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pivo",
+            "tip": "No visit to Czechia is complete without a local beer."
+          },
+          {
+            "name": "Nakládaný hermelín",
+            "tip": "Pickled camembert cheese, a classic beer snack."
+          },
+          {
+            "name": "Restaurace U Hymrů",
+            "tip": "Good, honest food after a long day in the saddle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burgruine Michalovice",
+            "tip": "Oben angekommen, haben Sie einen weiten, ruhigen Blick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer der Jizera",
+            "tip": "Eine ruhige Radtour abseits der Hauptstraßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park Štěpánka",
+            "tip": "Ein großer Park, ideal für eine Pause im Grünen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Michalovice várromja",
+            "tip": "Fent egy tágas, csendes kilátás fogadja.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jizera folyó partja",
+            "tip": "Csendes kerékpártúra a főutaktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Štěpánka park",
+            "tip": "Nagy park, ideális egy zöld pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele castelului Michalovice",
+            "tip": "Odată ajuns în vârf, veți avea o priveliște largă și liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului Jizera",
+            "tip": "O plimbare liniștită cu bicicleta departe de drumurile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Štěpánka",
+            "tip": "Un parc mare, ideal pentru o pauză în verdeață.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Michalovice Castle Ruin",
+            "tip": "Once at the top, you have a wide, quiet view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Jizera River",
+            "tip": "A quiet bike ride away from the main roads.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Štěpánka Park",
+            "tip": "A large park, ideal for a break in the greenery.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Ersatzteile oder Zubehör benötigen."
+          },
+          {
+            "name": "Souvenirs aus dem Museum",
+            "tip": "Ein kleines Andenken an die technische Geschichte der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha pótalkatrészekre vagy kiegészítőkre van szüksége."
+          },
+          {
+            "name": "Múzeumi ajándéktárgyak",
+            "tip": "Egy kis emlék a város technikai történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de piese de schimb sau accesorii."
+          },
+          {
+            "name": "Suveniruri de la muzeu",
+            "tip": "O mică amintire a istoriei tehnice a orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "In case you need any spare parts or accessories."
+          },
+          {
+            "name": "Museum souvenirs",
+            "tip": "A small memento of the city's technical history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Luftdruck Ihrer Reifen, bevor Sie losfahren.",
+          "Einige Strecken außerhalb des Zentrums können hügelig sein.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders in der Nähe von Touristenattraktionen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Néhány szakasz a központon kívül dombos lehet.",
+          "Mindig zárja le jól a kerékpárját, különösen a turisztikai látványosságok közelében."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a porni.",
+          "Unele trasee din afara centrului pot fi deluroase.",
+          "Legați-vă întotdeauna bine bicicleta, mai ales în apropierea atracțiilor turistice."
+        ],
+        "en": [
+          "Check your tire pressure before you set off.",
+          "Some routes outside the center can be hilly.",
+          "Always lock your bike securely, especially near tourist attractions."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 24.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Altstadt - Parken & Gehen",
+            "hu": "1. klaszter: Óváros - Parkolj és sétálj",
+            "ro": "Cluster 1: Orașul Vechi - Parchează și mergi",
+            "en": "Cluster 1: Old Town - Park & Walk"
+          },
+          "coords": [
+            14.904,
+            50.412
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in einem der Parkhäuser am Rande der Altstadt.",
+            "hu": "Parkoljon az óváros szélén található parkolóházak egyikében.",
+            "ro": "Parcați într-una dintre parcările de la marginea orașului vechi.",
+            "en": "Park in one of the parking garages on the edge of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Mladá Boleslav",
+            "hu": "Mladá Boleslav-i kastély",
+            "ro": "Castelul Mladá Boleslav",
+            "en": "Mladá Boleslav Castle"
+          },
+          "coords": [
+            14.901,
+            50.415
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz zum Schloss.",
+            "hu": "Rövid séta a főtérről a kastélyig.",
+            "ro": "O scurtă plimbare de la piața principală la castel.",
+            "en": "A short walk from the main square to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Templer-Palast",
+            "hu": "Templomosok Palotája",
+            "ro": "Palatul Templierilor",
+            "en": "Templar Palace"
+          },
+          "coords": [
+            14.9055,
+            50.4135
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Auf dem Rückweg ins Zentrum kommen Sie hier vorbei.",
+            "hu": "A központba visszavezető úton halad el mellette.",
+            "ro": "Treceți pe aici în drumul de întoarcere spre centru.",
+            "en": "You'll pass by here on your way back to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Škoda & Luftfahrt - Museen",
+            "hu": "2. klaszter: Škoda és Repülés - Múzeumok",
+            "ro": "Cluster 2: Škoda & Aviație - Muzee",
+            "en": "Cluster 2: Škoda & Aviation - Museums"
+          },
+          "coords": [
+            14.925,
+            50.418
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Škoda Museum und parken Sie dort. Das Luftfahrtmuseum ist eine kurze Fahrt entfernt.",
+            "hu": "Vezessen a Škoda Múzeumhoz és parkoljon ott. A Repülőmúzeum egy rövid autóútra van.",
+            "ro": "Conduceți la Muzeul Škoda și parcați acolo. Muzeul Aviației este la o scurtă distanță cu mașina.",
+            "en": "Drive to the Škoda Museum and park there. The Aviation Museum is a short drive away."
+          }
+        },
+        {
+          "name": {
+            "de": "Luftfahrtmuseum Metoděj Vlach",
+            "hu": "Metoděj Vlach Repülőmúzeum",
+            "ro": "Muzeul Aviației Metoděj Vlach",
+            "en": "Metoděj Vlach Aviation Museum"
+          },
+          "coords": [
+            14.955,
+            50.395
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Perfekt für den Nachmittag, um eine andere Facette der tschechischen Ingenieurskunst zu sehen.",
+            "hu": "Tökéletes délutáni program, hogy megismerje a cseh mérnöki munka egy másik oldalát.",
+            "ro": "Perfect pentru după-amiază pentru a vedea o altă fațetă a ingineriei cehe.",
+            "en": "Perfect for the afternoon to see another facet of Czech engineering."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Burgruine Michalovice",
+            "hu": "3. klaszter: Michalovice várromja",
+            "ro": "Cluster 3: Ruinele castelului Michalovice",
+            "en": "Cluster 3: Michalovice Castle Ruin"
+          },
+          "coords": [
+            14.88,
+            50.44
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Die Fahrt zur Ruine führt durch eine malerische Landschaft.",
+            "hu": "A romhoz vezető út festői tájon vezet keresztül.",
+            "ro": "Drumul spre ruine trece printr-un peisaj pitoresc.",
+            "en": "The drive to the ruin leads through picturesque landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen",
+            "hu": "Vacsora",
+            "ro": "Cină",
+            "en": "Dinner"
+          },
+          "coords": [
+            14.9035,
+            50.4125
+          ],
+          "category": "gastro",
+          "arrive_at": "18:00",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum für ein wohlverdientes Abendessen.",
+            "hu": "Vezessen vissza a központba egy jól megérdemelt vacsoráért.",
+            "ro": "Conduceți înapoi în centru pentru o cină binemeritată.",
+            "en": "Drive back to the center for a well-deserved dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto am Rande der Altstadt und erkunden Sie den historischen Kern zu Fuß: vom Rathaus zum Schloss und dem Templer-Palast. Am Mittag fahren Sie zum ersten Technologie-Cluster: dem Škoda Museum. Nach einer tiefen Dosis Automobilgeschichte geht es weiter zum Luftfahrtmuseum, um den Himmel zu erobern. Den späten Nachmittag verbringen Sie im dritten Cluster, der Burgruine Michalovice, wo Sie die Ruhe und die Aussicht genießen, bevor Sie für ein traditionelles Abendessen in die Stadt zurückkehren.",
+        "hu": "Parkolja le autóját az óváros szélén, és fedezze fel gyalog a történelmi központot: a Városházától a kastélyig és a Templomosok Palotájáig. Délben vezessen az első technológiai klaszterhez: a Škoda Múzeumhoz. Egy mély adag autótörténet után irány a Repülőmúzeum, hogy meghódítsa az eget. A késő délutánt a harmadik klaszterben, a Michalovice várromnál tölti, ahol élvezheti a csendet és a kilátást, mielőtt visszatérne a városba egy hagyományos vacsorára.",
+        "ro": "Parcați mașina la marginea orașului vechi și explorați centrul istoric pe jos: de la primărie la castel și Palatul Templierilor. La prânz, conduceți către primul cluster tehnologic: Muzeul Škoda. După o doză profundă de istorie auto, mergeți la Muzeul Aviației pentru a cuceri cerul. Petreceți după-amiaza târziu la al treilea cluster, ruinele castelului Michalovice, unde vă bucurați de liniște și priveliște înainte de a vă întoarce în oraș pentru o cină tradițională.",
+        "en": "Park your car on the edge of the old town and explore the historic core on foot: from the Town Hall to the castle and the Templar Palace. At noon, drive to the first technology cluster: the Škoda Museum. After a deep dose of automotive history, head to the Aviation Museum to conquer the skies. Spend the late afternoon at the third cluster, the Michalovice Castle Ruin, enjoying the peace and the view before returning to the city for a traditional dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kulajda",
+            "tip": "Eine cremige Dillsuppe mit Pilzen und Ei."
+          },
+          {
+            "name": "Tankovna",
+            "tip": "Restaurant, das frisches, unpasteurisiertes Tankbier serviert."
+          },
+          {
+            "name": "Šatlava",
+            "tip": "Mittelalterliches Restaurant mit Grillgerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kulajda",
+            "tip": "Krémes kapros leves gombával és tojással."
+          },
+          {
+            "name": "Tankovna",
+            "tip": "Étterem, amely friss, pasztőrözetlen tank sört szolgál fel."
+          },
+          {
+            "name": "Šatlava",
+            "tip": "Középkori étterem grillételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kulajda",
+            "tip": "O supă cremoasă de mărar cu ciuperci și ou."
+          },
+          {
+            "name": "Tankovna",
+            "tip": "Restaurant care servește bere proaspătă, nepasteurizată, la halbă."
+          },
+          {
+            "name": "Šatlava",
+            "tip": "Restaurant medieval cu preparate la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kulajda",
+            "tip": "A creamy dill soup with mushrooms and an egg."
+          },
+          {
+            "name": "Tankovna",
+            "tip": "Restaurant serving fresh, unpasteurized tank beer."
+          },
+          {
+            "name": "Šatlava",
+            "tip": "Medieval-style restaurant with grilled dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burgruine Michalovice",
+            "tip": "Ein perfekter Ort für Weitblick und Stille abseits der Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Waldpark Štěpánka",
+            "tip": "Machen Sie einen kurzen Halt für einen Spaziergang im Grünen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Frühmorgens in der Altstadt",
+            "tip": "Erleben Sie die Gassen, bevor die Stadt erwacht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Michalovice várromja",
+            "tip": "Tökéletes hely a messzeségbe nézéshez és a csendhez a városon kívül.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Štěpánka erdei park",
+            "tip": "Álljon meg egy rövid sétára a zöldben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel az óvárosban",
+            "tip": "Tapasztalja meg a sikátorokat, mielőtt a város felébred.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele castelului Michalovice",
+            "tip": "Un loc perfect pentru priveliști și liniște departe de oraș.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul forestier Štěpánka",
+            "tip": "Faceți o scurtă oprire pentru o plimbare în natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme în orașul vechi",
+            "tip": "Experimentați aleile înainte ca orașul să se trezească.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Michalovice Castle Ruin",
+            "tip": "A perfect spot for wide views and silence away from the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Štěpánka Forest Park",
+            "tip": "Make a quick stop for a walk in the greenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning in the Old Town",
+            "tip": "Experience the alleys before the city wakes up.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Škoda Merchandising",
+            "tip": "Das ultimative Souvenir aus der Autostadt."
+          },
+          {
+            "name": "Glasmanufakturen in der Umgebung",
+            "tip": "Böhmisches Glas ist weltberühmt, mit dem Auto erreichen Sie einige Manufakturen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Škoda ajándéktárgyak",
+            "tip": "A végső szuvenír az autóvárosból."
+          },
+          {
+            "name": "Üveggyárak a környéken",
+            "tip": "A cseh üveg világhírű, autóval elérhet néhány gyárat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse Škoda",
+            "tip": "Suvenirul suprem din orașul automobilelor."
+          },
+          {
+            "name": "Fabrici de sticlă din zonă",
+            "tip": "Sticla de Boemia este renumită în întreaga lume; puteți ajunge la unele fabrici cu mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Škoda merchandise",
+            "tip": "The ultimate souvenir from the car city."
+          },
+          {
+            "name": "Glass factories in the area",
+            "tip": "Bohemian glass is world-famous; you can reach some factories by car."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'Park and Ride'-Möglichkeiten, um den Verkehr im Zentrum zu meiden.",
+          "Planen Sie Ihre Route im Voraus, besonders wenn Sie zu den abgelegeneren Sehenswürdigkeiten fahren.",
+          "Achten Sie auf die Parkgebühren im Stadtzentrum."
+        ],
+        "hu": [
+          "Használja a 'Parkolj és Utazz' lehetőségeket a belvárosi forgalom elkerülése érdekében.",
+          "Tervezze meg előre az útvonalat, különösen, ha a távolabbi látnivalókhoz megy.",
+          "Figyeljen a parkolási díjakra a városközpontban."
+        ],
+        "ro": [
+          "Folosiți opțiunile 'Park and Ride' pentru a evita traficul din centru.",
+          "Planificați-vă traseul în avans, mai ales dacă mergeți la atracțiile mai îndepărtate.",
+          "Fiți atenți la taxele de parcare din centrul orașului."
+        ],
+        "en": [
+          "Use 'Park and Ride' options to avoid city center traffic.",
+          "Plan your route in advance, especially when driving to the more remote sights.",
+          "Be mindful of parking fees in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 11.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Altstadt (zu Fuß)",
+            "hu": "1. klaszter: Óváros (gyalog)",
+            "ro": "Cluster 1: Orașul Vechi (pe jos)",
+            "en": "Cluster 1: Old Town (on foot)"
+          },
+          "coords": [
+            14.904,
+            50.412
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie am Busbahnhof und gehen Sie zum Hauptplatz.",
+            "hu": "Induljon a buszpályaudvarról, és sétáljon a főtérre.",
+            "ro": "Începeți de la autogară și mergeți spre piața principală.",
+            "en": "Start at the bus station and walk to the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Mladá Boleslav",
+            "hu": "Mladá Boleslav-i kastély",
+            "ro": "Castelul Mladá Boleslav",
+            "en": "Mladá Boleslav Castle"
+          },
+          "coords": [
+            14.901,
+            50.415
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch die historischen Gassen.",
+            "hu": "Szép séta a történelmi sikátorokon keresztül.",
+            "ro": "O plimbare frumoasă pe străduțele istorice.",
+            "en": "A nice walk through the historic alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Vitus-Kirche",
+            "hu": "Szent Vitus-templom",
+            "ro": "Biserica Sfântul Vitus",
+            "en": "St. Vitus Church"
+          },
+          "coords": [
+            14.899,
+            50.414
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gleich neben dem Schloss, ideal für eine kurze Pause.",
+            "hu": "Közvetlenül a kastély mellett, ideális egy rövid pihenőre.",
+            "ro": "Chiar lângă castel, ideal pentru o scurtă pauză.",
+            "en": "Right next to the castle, ideal for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Škoda Museum (Busfahrt)",
+            "hu": "2. klaszter: Škoda Múzeum (buszozás)",
+            "ro": "Cluster 2: Muzeul Škoda (călătorie cu autobuzul)",
+            "en": "Cluster 2: Škoda Museum (bus ride)"
+          },
+          "coords": [
+            14.925,
+            50.418
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum. Die Fahrt dauert etwa 15-20 Minuten.",
+            "hu": "Menjen busszal a városközpontból. Az út kb. 15-20 percig tart.",
+            "ro": "Luați un autobuz din centrul orașului. Călătoria durează aproximativ 15-20 de minute.",
+            "en": "Take a bus from the city center. The journey takes about 15-20 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Zentrum",
+            "hu": "Vacsora a központban",
+            "ro": "Cină în centru",
+            "en": "Dinner in the Center"
+          },
+          "coords": [
+            14.9035,
+            50.4125
+          ],
+          "category": "gastro",
+          "arrive_at": "16:00",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum, um den Tag gemütlich ausklingen zu lassen.",
+            "hu": "Menjen vissza busszal a központba, hogy kényelmesen zárja a napot.",
+            "ro": "Luați autobuzul înapoi în centru pentru a încheia ziua într-un mod relaxant.",
+            "en": "Take the bus back to the center to end the day comfortably."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Spaziergang durch den historischen Kern, vom Hauptplatz zum Schloss und zur Kirche. Lassen Sie sich von der Geschichte treiben. Am Mittag bringt Sie ein Bus bequem zum Škoda Museum. Tauchen Sie ein in die Welt der Motoren und des Designs. Verbringen Sie hier einen ausgedehnten Nachmittag. Ein weiterer Bus bringt Sie am späten Nachmittag zurück ins Zentrum, wo Sie in einem der vielen Restaurants den Tag Revue passieren lassen können.",
+        "hu": "Kezdje a napot egy sétával a történelmi központban, a főtértől a kastélyig és a templomig. Hagyja, hogy a történelem magával ragadja. Délben egy busz kényelmesen elviszi a Škoda Múzeumba. Merüljön el a motorok és a dizájn világában. Töltsön itt egy hosszú délutánt. Egy másik busz késő délután visszaviszi a központba, ahol a sok étterem egyikében áttekintheti a napot.",
+        "ro": "Începeți ziua cu o plimbare prin centrul istoric, de la piața principală la castel și biserică. Lăsați-vă purtat de istorie. La prânz, un autobuz vă va duce confortabil la Muzeul Škoda. Scufundați-vă în lumea motoarelor și a designului. Petreceți aici o după-amiază prelungită. Un alt autobuz vă va duce înapoi în centru după-amiaza târziu, unde puteți rememora ziua la unul dintre numeroasele restaurante.",
+        "en": "Start your day with a walk through the historic core, from the main square to the castle and the church. Let history guide you. At noon, a bus will take you comfortably to the Škoda Museum. Immerse yourself in the world of engines and design. Spend an extended afternoon here. Another bus will take you back to the center in the late afternoon, where you can review the day in one of the many restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trdelník",
+            "tip": "Ein süßes Gebäck, das oft auf Straßenmärkten verkauft wird."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Probieren Sie die tschechische Alternative zu Cola."
+          },
+          {
+            "name": "La Romantica",
+            "tip": "Italienisches Restaurant für eine Abwechslung zur böhmischen Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trdelník",
+            "tip": "Édes sütemény, amelyet gyakran utcai piacokon árulnak (bár nem eredeti cseh)."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Kóstolja meg a kóla cseh alternatíváját."
+          },
+          {
+            "name": "La Romantica",
+            "tip": "Olasz étterem a cseh konyha változatosságáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trdelník",
+            "tip": "Un produs de patiserie dulce vândut adesea în piețele stradale."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Încercați alternativa cehă la Cola."
+          },
+          {
+            "name": "La Romantica",
+            "tip": "Restaurant italian pentru o schimbare de la bucătăria boemă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trdelník",
+            "tip": "A sweet pastry often sold at street markets."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Try the Czech alternative to Coke."
+          },
+          {
+            "name": "La Romantica",
+            "tip": "Italian restaurant for a change from Bohemian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lesen im Park",
+            "tip": "Kaufen Sie ein Buch und genießen Sie die Ruhe im Štěpánka Park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof von St. Vitus",
+            "tip": "Ein abgeschiedener, friedlicher Ort.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fahrt mit dem Regionalzug",
+            "tip": "Nehmen Sie einen Zug zur nächsten Station und zurück, um die Landschaft zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasás a parkban",
+            "tip": "Vásároljon egy könyvet, és élvezze a csendet a Štěpánka parkban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Vitus templomkert",
+            "tip": "Elzárt, békés hely.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Utazás a regionális vonattal",
+            "tip": "Menjen vonattal a következő állomásra és vissza, hogy élvezze a tájat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Citind în parc",
+            "tip": "Cumpărați o carte și bucurați-vă de liniștea din Parcul Štěpánka.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii Sf. Vitus",
+            "tip": "Un loc izolat și pașnic.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Călătorie cu trenul regional",
+            "tip": "Luați un tren până la următoarea stație și înapoi pentru a vă bucura de peisaj.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading in the park",
+            "tip": "Buy a book and enjoy the peace in Štěpánka Park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Vitus's churchyard",
+            "tip": "A secluded, peaceful place.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A ride on the regional train",
+            "tip": "Take a train to the next station and back to enjoy the scenery.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bondy Centru",
+            "tip": "Modernes Einkaufszentrum in der Nähe des Busbahnhofs."
+          },
+          {
+            "name": "Antiquariate",
+            "tip": "Stöbern Sie nach alten Büchern und Postkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bondy Centrum",
+            "tip": "Modern bevásárlóközpont a buszpályaudvar közelében."
+          },
+          {
+            "name": "Antikváriumok",
+            "tip": "Böngésszen régi könyvek és képeslapok között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Bondy",
+            "tip": "Centru comercial modern lângă autogară."
+          },
+          {
+            "name": "Anticariate",
+            "tip": "Căutați cărți vechi și cărți poștale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bondy Centrum",
+            "tip": "Modern shopping center near the bus station."
+          },
+          {
+            "name": "Antique shops",
+            "tip": "Browse for old books and postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, das ist am günstigsten.",
+          "Prüfen Sie den Busfahrplan im Voraus, besonders am Wochenende.",
+          "Die meisten Busse sind modern und klimatisiert."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, az a legolcsóbb.",
+          "Előre ellenőrizze a buszmenetrendet, különösen hétvégén.",
+          "A legtöbb busz modern és légkondicionált."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public, este cel mai ieftin.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Majoritatea autobuzelor sunt moderne și au aer condiționat."
+        ],
+        "en": [
+          "Buy a day ticket for public transport, it's the cheapest option.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "Most buses are modern and air-conditioned."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1532 @@
+{
+  "city_id": "cy-limassol",
+  "anchor": {
+    "name": "Limassol",
+    "coords": [
+      33.0443,
+      34.675
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Alter Hafen von Limassol",
+            "hu": "Limassoli régi kikötő",
+            "ro": "Portul vechi din Limassol",
+            "en": "Limassol Old Port"
+          },
+          "coords": [
+            33.0415,
+            34.672
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für einen Morgenkaffee mit Blick auf die Fischerboote.",
+            "hu": "Tökéletes egy reggeli kávéhoz a halászhajók látványával.",
+            "ro": "Ideal pentru o cafea de dimineață cu vedere la bărcile de pescuit.",
+            "en": "Ideal for a morning coffee with a view of the fishing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Limassol",
+            "hu": "Limassoli vár",
+            "ro": "Castelul din Limassol",
+            "en": "Limassol Castle"
+          },
+          "coords": [
+            33.0419,
+            34.6725
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie das Mittelaltermuseum im Inneren der Burg.",
+            "hu": "Nézzék meg a váron belüli középkori múzeumot.",
+            "ro": "Vizitați Muzeul Medieval din interiorul castelului.",
+            "en": "Visit the Medieval Museum inside the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Agia Napa",
+            "hu": "Agia Napa Katedrális",
+            "ro": "Catedrala Agia Napa",
+            "en": "Agia Napa Cathedral"
+          },
+          "coords": [
+            33.0448,
+            34.6748
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die byzantinische Architektur und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a bizánci építészetet és a békés légkört.",
+            "ro": "Admirați arhitectura bizantină și atmosfera liniștită.",
+            "en": "Admire the Byzantine architecture and the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Molos-Promenade & Mittagessen",
+            "hu": "Molos sétány és ebéd",
+            "ro": "Promenada Molos & prânz",
+            "en": "Molos Promenade & Lunch"
+          },
+          "coords": [
+            33.05,
+            34.677
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:51",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie ein Restaurant am Meer für frischen Fisch.",
+            "hu": "Keressen egy tengerparti éttermet friss halételekért.",
+            "ro": "Găsiți un restaurant pe malul mării pentru pește proaspăt.",
+            "en": "Find a seaside restaurant for fresh fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtgarten Limassol",
+            "hu": "Limassoli városi park",
+            "ro": "Grădina Publică din Limassol",
+            "en": "Limassol Municipal Garden"
+          },
+          "coords": [
+            33.056,
+            34.681
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schattiger Rückzugsort an einem heißen Nachmittag.",
+            "hu": "Árnyékos menedék egy forró délutánon.",
+            "ro": "Un refugiu umbros într-o după-amiază fierbinte.",
+            "en": "A shady retreat on a hot afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Limassol Marina",
+            "hu": "Limassoli Marina",
+            "ro": "Portul de agrement Limassol",
+            "en": "Limassol Marina"
+          },
+          "coords": [
+            33.0378,
+            34.6695
+          ],
+          "category": "port",
+          "arrive_at": "16:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bummeln Sie durch die Geschäfte und genießen Sie den Sonnenuntergang.",
+            "hu": "Sétálgasson az üzletek között, és élvezze a naplementét.",
+            "ro": "Plimbați-vă prin magazine și bucurați-vă de apus.",
+            "en": "Stroll through the shops and enjoy the sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Altstadt",
+            "hu": "Vacsora az óvárosban",
+            "ro": "Cină în Orașul Vechi",
+            "en": "Dinner in the Old Town"
+          },
+          "coords": [
+            33.043,
+            34.674
+          ],
+          "category": "gastro",
+          "arrive_at": "18:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie eine traditionelle Meze-Taverne.",
+            "hu": "Próbáljon ki egy hagyományos meze tavernát.",
+            "ro": "Încercați o tavernă tradițională cu meze.",
+            "en": "Try a traditional meze tavern."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Alten Hafen, wo der Charme des alten Limassol spürbar ist. Nach der Erkundung der imposanten Burg und der spirituellen Stille der Agia-Napa-Kathedrale ist es Zeit für ein Mittagessen am Meer. Der Nachmittag führt Sie durch den schattigen Stadtgarten, eine grüne Oase im Herzen der Stadt. Der Abend klingt in der modernen Marina aus, wo Sie den Sonnenuntergang über dem Mittelmeer beobachten und durch die eleganten Boutiquen schlendern.",
+        "hu": "A nap a Régi Kikötőben kezdődik, ahol a régi Limassol varázsa tapintható. A lenyűgöző vár és az Agia Napa katedrális spirituális csendjének felfedezése után ideje egy tengerparti ebédnek. A délután a hűsítő Városi Parkon keresztül vezet, egy zöld oázison a város szívében. Az este a modern Marinában ér véget, ahol a Földközi-tenger feletti naplementét nézheti, és elegáns butikokban sétálhat.",
+        "ro": "Ziua dvs. începe în Portul Vechi, unde farmecul vechiului Limassol este palpabil. După explorarea impresionantului castel și a liniștii spirituale a Catedralei Agia Napa, este timpul pentru un prânz pe malul mării. După-amiaza vă duce prin Grădina Municipală umbroasă, o oază de verdeață în inima orașului. Seara se încheie în portul de agrement modern, unde puteți privi apusul peste Mediterană și vă puteți plimba prin buticurile elegante.",
+        "en": "Your day begins at the Old Port, where the charm of old Limassol is palpable. After exploring the imposing castle and the spiritual silence of Agia Napa Cathedral, it's time for a seaside lunch. The afternoon takes you through the shady Municipal Garden, a green oasis in the heart of the city. The evening concludes at the modern Marina, where you can watch the sunset over the Mediterranean and stroll through the elegant boutiques."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meze",
+            "tip": "Bestellen Sie eine Auswahl an kleinen Gerichten, um die zypriotische Küche zu erleben."
+          },
+          {
+            "name": "Halloumi",
+            "tip": "Probieren Sie den berühmten zypriotischen Käse, gegrillt oder frisch."
+          },
+          {
+            "name": "Frischer Fisch",
+            "tip": "Die Tavernen am Alten Hafen servieren den Fang des Tages."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Meze",
+            "tip": "Rendeljen egy válogatást a kis fogásokból, hogy megismerje a ciprusi konyhát."
+          },
+          {
+            "name": "Halloumi",
+            "tip": "Kóstolja meg a híres ciprusi sajtot, grillezve vagy frissen."
+          },
+          {
+            "name": "Friss hal",
+            "tip": "A Régi Kikötő tavernáiban a napi fogást szolgálják fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Meze",
+            "tip": "Comandați o selecție de mici feluri de mâncare pentru a experimenta bucătăria cipriotă."
+          },
+          {
+            "name": "Halloumi",
+            "tip": "Încercați faimoasa brânză cipriotă, la grătar sau proaspătă."
+          },
+          {
+            "name": "Pește proaspăt",
+            "tip": "Tavernele din Portul Vechi servesc captura zilei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Meze",
+            "tip": "Order a selection of small dishes to experience Cypriot cuisine."
+          },
+          {
+            "name": "Halloumi",
+            "tip": "Try the famous Cypriot cheese, grilled or fresh."
+          },
+          {
+            "name": "Fresh Fish",
+            "tip": "The taverns at the Old Port serve the catch of the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtgarten Limassol",
+            "tip": "Finden Sie eine ruhige Bank unter den Eukalyptusbäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Molos-Promenade am frühen Morgen",
+            "tip": "Genießen Sie die Ruhe, bevor die Stadt erwacht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Steg am Alten Hafen",
+            "tip": "Beobachten Sie die Fischer und das ruhige Wasser.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Limassoli városi park",
+            "tip": "Keressen egy csendes padot az eukaliptuszfák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Molos sétány kora reggel",
+            "tip": "Élvezze a csendet, mielőtt a város felébred.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Régi Kikötő mólója",
+            "tip": "Figyelje a halászokat és a nyugodt vizet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Publică din Limassol",
+            "tip": "Găsiți o bancă liniștită sub eucalipți.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Promenada Molos dimineața devreme",
+            "tip": "Bucurați-vă de liniște înainte ca orașul să se trezească.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Debarcaderul din Portul Vechi",
+            "tip": "Priviți pescarii și apa calmă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Limassol Municipal Garden",
+            "tip": "Find a quiet bench under the eucalyptus trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Molos Promenade in the early morning",
+            "tip": "Enjoy the quiet before the city wakes up.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jetty at the Old Port",
+            "tip": "Watch the fishermen and the calm water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Anexartisias-Straße",
+            "tip": "Die Haupteinkaufsstraße mit internationalen und lokalen Marken."
+          },
+          {
+            "name": "Souvenirläden in der Altstadt",
+            "tip": "Finden Sie handgefertigte Waren und lokale Produkte rund um die Burg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Anexartisias utca",
+            "tip": "A fő bevásárlóutca nemzetközi és helyi márkákkal."
+          },
+          {
+            "name": "SzOUVENÍR boltok az Óvárosban",
+            "tip": "Keressen kézműves termékeket és helyi árukat a vár környékén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Anexartisias",
+            "tip": "Principala stradă comercială cu mărci internaționale și locale."
+          },
+          {
+            "name": "Magazine de suveniruri în Orașul Vechi",
+            "tip": "Găsiți produse artizanale și locale în jurul castelului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Anexartisias Street",
+            "tip": "The main shopping street with international and local brands."
+          },
+          {
+            "name": "Souvenir shops in the Old Town",
+            "tip": "Find handmade goods and local products around the castle."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie ausreichend Wasser mit, besonders in den Sommermonaten.",
+          "Ein Hut und Sonnencreme sind unerlässlich.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Vigyen magával elegendő vizet, különösen a nyári hónapokban.",
+          "A kalap és a naptej elengedhetetlen.",
+          "A legtöbb belvárosi látnivaló könnyen elérhető gyalog."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Luați suficientă apă cu dvs., mai ales în lunile de vară.",
+          "O pălărie și cremă de protecție solară sunt esențiale.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring plenty of water, especially during the summer months.",
+          "A hat and sunscreen are essential.",
+          "Most sights in the city center are within easy walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start an der Limassol Marina",
+            "hu": "Indulás a Limassoli Marinából",
+            "ro": "Start de la Portul de agrement Limassol",
+            "en": "Start at Limassol Marina"
+          },
+          "coords": [
+            33.0378,
+            34.6695
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in einer der vielen Verleihstationen.",
+            "hu": "Béreljen kerékpárt a számos kölcsönző egyikében.",
+            "ro": "Închiriați o bicicletă de la una dintre numeroasele stații de închiriere.",
+            "en": "Rent a bike from one of the many rental stations."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Limassol & Alter Hafen",
+            "hu": "Limassoli vár és Régi kikötő",
+            "ro": "Castelul Limassol și Portul Vechi",
+            "en": "Limassol Castle & Old Port"
+          },
+          "coords": [
+            33.0419,
+            34.6725
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie die Umgebung zu Fuß.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel a környéket gyalog.",
+            "ro": "Legați-vă bicicleta și explorați zona pe jos.",
+            "en": "Lock up your bike and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Molos-Promenade",
+            "hu": "Kerékpározás a Molos sétányon",
+            "ro": "Plimbare pe Promenada Molos",
+            "en": "Ride along Molos Promenade"
+          },
+          "coords": [
+            33.05,
+            34.677
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresbrise und die Skulpturen im Park.",
+            "hu": "Élvezze a tengeri szellőt és a park szobrait.",
+            "ro": "Bucurați-vă de briza mării și de sculpturile din parc.",
+            "en": "Enjoy the sea breeze and the sculptures in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtgarten & Mittagessen",
+            "hu": "Városi park és ebéd",
+            "ro": "Grădina Publică și prânz",
+            "en": "Municipal Garden & Lunch"
+          },
+          "coords": [
+            33.056,
+            34.681
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause im Schatten und suchen Sie sich ein lokales Lokal.",
+            "hu": "Pihenjen az árnyékban és keressen egy helyi étkezdét.",
+            "ro": "Faceți o pauză la umbră și găsiți un local.",
+            "en": "Take a break in the shade and find a local eatery."
+          }
+        },
+        {
+          "name": {
+            "de": "Johannisbrotmühlen-Museum",
+            "hu": "Szentjánoskenyér-malom Múzeum",
+            "ro": "Muzeul Morii de Roșcove",
+            "en": "Carob Mill Museum"
+          },
+          "coords": [
+            33.0405,
+            34.6715
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein einzigartiges Museum über eine wichtige lokale Industrie.",
+            "hu": "Egyedi múzeum egy fontos helyi iparágról.",
+            "ro": "Un muzeu unic despre o industrie locală importantă.",
+            "en": "A unique museum about an important local industry."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung am Strand (östlich der Promenade)",
+            "hu": "Pihenés a tengerparton (a sétánytól keletre)",
+            "ro": "Relaxare pe plajă (la est de promenadă)",
+            "en": "Relaxing on the beach (east of the promenade)"
+          },
+          "coords": [
+            33.07,
+            34.688
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schwimmen Sie eine Runde, bevor Sie für den Abend zurückkehren.",
+            "hu": "Ússzon egyet, mielőtt visszatérne estére.",
+            "ro": "Faceți o baie înainte de a vă întoarce pentru seară.",
+            "en": "Go for a swim before heading back for the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erleben Sie Limassol aus einer anderen Perspektive. Sie starten an der schicken Marina und radeln entlang der Küste zum historischen Herzen der Stadt, der Burg und dem Alten Hafen. Die Molos-Promenade ist ein Paradies für Radfahrer, mit Kunst und Meeresbrise als ständige Begleiter. Nach einer Mittagspause im Stadtgarten entdecken Sie die industrielle Vergangenheit im Johannisbrotmühlen-Museum. Der Tag endet mit einer entspannten Zeit an einem der Strände östlich des Zentrums, bevor Sie den Rückweg antreten.",
+        "hu": "Két keréken más szemszögből tapasztalhatja meg Limassolt. Az elegáns Marinából indulva a part mentén kerekezik a város történelmi szívébe, a várhoz és a Régi Kikötőhöz. A Molos sétány a kerékpárosok paradicsoma, ahol a művészet és a tengeri szellő állandó társ. A Városi Parkban tartott ebédszünet után felfedezheti a szentjánoskenyér-malom múzeum ipari múltját. A nap a központtól keletre fekvő egyik strandon való pihenéssel zárul, mielőtt visszaindulna.",
+        "ro": "Pe două roți, veți experimenta Limassol dintr-o perspectivă diferită. Porniți din portul de agrement șic și pedalați de-a lungul coastei spre inima istorică a orașului, castelul și Portul Vechi. Promenada Molos este un paradis pentru bicicliști, cu arta și briza mării ca însoțitori constanți. După o pauză de prânz în Grădina Municipală, descoperiți trecutul industrial la Muzeul Morii de Roșcove. Ziua se încheie cu un timp de relaxare pe una dintre plajele la est de centru înainte de a vă întoarce.",
+        "en": "On two wheels, you'll experience Limassol from a different perspective. You start at the chic Marina and cycle along the coast to the historic heart of the city, the castle and the Old Port. The Molos Promenade is a paradise for cyclists, with art and the sea breeze as constant companions. After a lunch break in the Municipal Garden, you'll discover the industrial past at the Carob Mill Museum. The day ends with some relaxing time at one of the beaches east of the center before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souvlaki-Pita",
+            "tip": "Ein schneller und leckerer Snack, perfekt für unterwegs."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Der berühmte zypriotische Eiskaffee für eine Erfrischungspause."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Probieren Sie Tiropites (Käsetaschen) oder Elio-pites (Olivenbrote)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvlaki pitában",
+            "tip": "Gyors és ízletes harapnivaló, tökéletes útközben."
+          },
+          {
+            "name": "Frappé",
+            "tip": "A híres ciprusi jegeskávé egy frissítő szünethez."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Kóstolja meg a tiropitát (sajtos táska) vagy az elio-pitát (olívas kenyér)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvlaki în pită",
+            "tip": "O gustare rapidă și delicioasă, perfectă pentru drum."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Faimoasa cafea cu gheață cipriotă pentru o pauză răcoritoare."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Încercați Tiropites (plăcinte cu brânză) sau Elio-pites (pâinici cu măsline)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvlaki in pita",
+            "tip": "A quick and delicious snack, perfect for on the go."
+          },
+          {
+            "name": "Frappé",
+            "tip": "The famous Cypriot iced coffee for a refreshing break."
+          },
+          {
+            "name": "Local Bakery",
+            "tip": "Try tiropites (cheese pies) or elio-pites (olive breads)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strandabschnitt bei Amathus",
+            "tip": "Ein ruhigerer Strandabschnitt weiter östlich der Stadt.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Skulpturenpark auf der Molos-Promenade",
+            "tip": "Halten Sie an, um die Kunstwerke in Ruhe zu betrachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick vom Dach der Burg",
+            "tip": "Eine tolle Aussicht über die Dächer der Altstadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Amathus melletti partszakasz",
+            "tip": "Egy csendesebb strand a várostól keletebbre.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Szoborpark a Molos sétányon",
+            "tip": "Álljon meg, hogy nyugodtan megnézze a műalkotásokat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a vár tetejéről",
+            "tip": "Nagyszerű kilátás az óváros háztetőire.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja de lângă Amathus",
+            "tip": "O secțiune de plajă mai liniștită, mai la est de oraș.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Parcul de sculpturi de pe Promenada Molos",
+            "tip": "Opriți-vă pentru a admira în liniște operele de artă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de pe acoperișul castelului",
+            "tip": "O priveliște minunată asupra acoperișurilor din Orașul Vechi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach section near Amathus",
+            "tip": "A quieter stretch of beach further east of the city.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Sculpture park on the Molos Promenade",
+            "tip": "Stop to admire the artworks in peace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the castle roof",
+            "tip": "A great view over the rooftops of the Old Town.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Kaufen Sie lokales Zubehör oder einfach nur eine Flasche Wasser."
+          },
+          {
+            "name": "Markt in der Altstadt",
+            "tip": "Frisches Obst für einen Energieschub während der Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Vásároljon helyi kiegészítőket vagy csak egy üveg vizet."
+          },
+          {
+            "name": "Piac az Óvárosban",
+            "tip": "Friss gyümölcs az energia pótlására tekerés közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Cumpărați accesorii locale sau doar o sticlă de apă."
+          },
+          {
+            "name": "Piața din Orașul Vechi",
+            "tip": "Fructe proaspete pentru un plus de energie în timpul plimbării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "Buy local accessories or just a bottle of water."
+          },
+          {
+            "name": "Market in the Old Town",
+            "tip": "Fresh fruit for an energy boost during the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand des Fahrrads vor der Miete, insbesondere die Bremsen.",
+          "Nutzen Sie die ausgewiesenen Radwege, besonders entlang der Küste.",
+          "Schließen Sie Ihr Fahrrad immer gut ab.",
+          "Achten Sie auf Fußgänger auf der Promenade."
+        ],
+        "hu": [
+          "Bérlés előtt ellenőrizze a kerékpár állapotát, különösen a fékeket.",
+          "Használja a kijelölt kerékpárutakat, különösen a part mentén.",
+          "Mindig zárja le jól a kerékpárját.",
+          "Vigyázzon a gyalogosokra a sétányon."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a o închiria, în special frânele.",
+          "Folosiți pistele de biciclete desemnate, mai ales de-a lungul coastei.",
+          "Legați-vă întotdeauna bine bicicleta.",
+          "Fiți atenți la pietonii de pe promenadă."
+        ],
+        "en": [
+          "Check the condition of the bike before renting, especially the brakes.",
+          "Use the designated bike paths, especially along the coast.",
+          "Always lock your bike securely.",
+          "Watch out for pedestrians on the promenade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:23",
+      "total_km": 14.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ruinen von Amathus",
+            "hu": "Amathus romjai",
+            "ro": "Ruinele din Amathus",
+            "en": "Ruins of Amathus"
+          },
+          "coords": [
+            33.1325,
+            34.7125
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Tragen Sie festes Schuhwerk und bringen Sie Wasser mit. Die Aussicht ist die Mühe wert.",
+            "hu": "Viseljen erős cipőt és vigyen vizet. A kilátás megéri a fáradságot.",
+            "ro": "Purtați încălțăminte solidă și aduceți apă. Priveliștea merită efortul.",
+            "en": "Wear sturdy shoes and bring water. The view is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Limassol",
+            "hu": "Limassoli Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Limassol",
+            "en": "Limassol Archaeological Museum"
+          },
+          "coords": [
+            33.057,
+            34.683
+          ],
+          "category": "museums",
+          "arrive_at": "11:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Stadtgartens und gehen Sie zu Fuß.",
+            "hu": "Parkoljon a Városi Park közelében és sétáljon.",
+            "ro": "Parcați lângă Grădina Publică și mergeți pe jos.",
+            "en": "Park near the Municipal Garden and walk over."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtgarten & Mittagessen",
+            "hu": "Városi park és ebéd",
+            "ro": "Grădina Publică și prânz",
+            "en": "Municipal Garden & Lunch"
+          },
+          "coords": [
+            33.056,
+            34.681
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Mittagspause im Grünen.",
+            "hu": "Tökéletes hely egy ebédszünetre a zöldben.",
+            "ro": "Un loc perfect pentru o pauză de prânz în mijlocul naturii.",
+            "en": "A perfect spot for a lunch break amidst greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Limassol",
+            "hu": "Limassoli vár",
+            "ro": "Castelul din Limassol",
+            "en": "Limassol Castle"
+          },
+          "coords": [
+            33.0419,
+            34.6725
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie einen Parkplatz in der Nähe des Alten Hafens für den Rest des Tages.",
+            "hu": "Keressen parkolót a Régi Kikötő közelében a nap hátralévő részére.",
+            "ro": "Căutați un loc de parcare lângă Portul Vechi pentru restul zilei.",
+            "en": "Find a parking spot near the Old Port for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Agia Napa",
+            "hu": "Agia Napa Katedrális",
+            "ro": "Catedrala Agia Napa",
+            "en": "Agia Napa Cathedral"
+          },
+          "coords": [
+            33.0448,
+            34.6748
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Burg durch die malerischen Gassen.",
+            "hu": "Rövid séta a vártól a festői sikátorokon keresztül.",
+            "ro": "O scurtă plimbare de la castel pe aleile pitorești.",
+            "en": "A short walk from the castle through the picturesque alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Molos-Promenade",
+            "hu": "Molos sétány",
+            "ro": "Promenada Molos",
+            "en": "Molos Promenade"
+          },
+          "coords": [
+            33.05,
+            34.677
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für einen Spaziergang am späten Nachmittag.",
+            "hu": "Tökéletes egy késő délutáni sétához.",
+            "ro": "Perfect pentru o plimbare la sfârșitul după-amiezii.",
+            "en": "Perfect for a late afternoon stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Limassol Marina",
+            "hu": "Limassoli Marina",
+            "ro": "Portul de agrement Limassol",
+            "en": "Limassol Marina"
+          },
+          "coords": [
+            33.0378,
+            34.6695
+          ],
+          "category": "port",
+          "arrive_at": "18:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Abendessen in einem der vielen Restaurants.",
+            "hu": "Zárja a napot vacsorával a sok étterem egyikében.",
+            "ro": "Încheiați ziua cu o cină la unul dintre numeroasele restaurante.",
+            "en": "End the day with dinner at one of the many restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Auto",
+            "hu": "Vissza az autóhoz",
+            "ro": "Întoarcere la mașină",
+            "en": "Return to the car"
+          },
+          "coords": [
+            33.0419,
+            34.6725
+          ],
+          "category": "transport",
+          "arrive_at": "20:01",
+          "stay_min": 0,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter Spaziergang durch die beleuchtete Altstadt.",
+            "hu": "Egy utolsó séta a kivilágított óvárosban.",
+            "ro": "O ultimă plimbare prin orașul vechi iluminat.",
+            "en": "A final stroll through the illuminated old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die ganze Bandbreite Limassols. Der Morgen beginnt mit einer Zeitreise zu den antiken Ruinen von Amathus. Danach fahren Sie ins Zentrum, um im Archäologischen Museum in die Geschichte einzutauchen, gefolgt von einer Pause im Stadtgarten. Sie parken Ihr Auto und der Rest des Tages gehört dem historischen Kern: die Burg, die Kathedrale und die lebhafte Promenade, alles zu Fuß erreichbar. Der Abend gehört der modernen Marina, wo Sie zypriotische Gastfreundschaft genießen, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Autóval Limassol teljes spektrumát felfedezheti. A reggel egy időutazással kezdődik az ősi Amathus romjaihoz. Ezután a központba hajt, hogy elmerüljön a történelemben a Régészeti Múzeumban, majd pihenjen a Városi Parkban. Leállítja az autót, és a nap hátralévő része a történelmi magé: a vár, a katedrális és az élénk sétány, mind gyalogosan elérhető. Az este a modern Marináé, ahol élvezheti a ciprusi vendégszeretetet, mielőtt visszatérne az autójához.",
+        "ro": "Cu mașina, explorați întreaga gamă a Limassolului. Dimineața începe cu o călătorie în timp la ruinele antice din Amathus. Apoi, conduceți spre centru pentru a vă cufunda în istorie la Muzeul Arheologic, urmată de o pauză în Grădina Municipală. Parcați mașina și restul zilei este dedicat centrului istoric: castelul, catedrala și promenada plină de viață, toate accesibile pe jos. Seara este pentru portul modern, unde vă bucurați de ospitalitatea cipriotă înainte de a vă întoarce la mașină.",
+        "en": "By car, you explore the full spectrum of Limassol. The morning begins with a journey back in time to the ancient ruins of Amathus. Afterwards, you drive to the center to delve into history at the Archaeological Museum, followed by a break in the Municipal Garden. You park your car and the rest of the day is dedicated to the historic core: the castle, the cathedral, and the lively promenade, all within walking distance. The evening is for the modern marina, where you enjoy Cypriot hospitality before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Commandaria Wein",
+            "tip": "Probieren Sie den berühmten süßen Dessertwein Zyperns."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Langsam gegartes Lammfleisch, ein traditionelles Gericht."
+          },
+          {
+            "name": "Restaurant am Strand von Amathus",
+            "tip": "Genießen Sie Mittagessen mit Blick auf das Meer nach Ihrem Besuch der Ruinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Commandaria bor",
+            "tip": "Kóstolja meg Ciprus híres édes desszertborát."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Lassan főtt bárányhús, egy hagyományos étel."
+          },
+          {
+            "name": "Étterem az Amathus strandon",
+            "tip": "Élvezze az ebédet a tengerre néző kilátással a romok meglátogatása után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Commandaria",
+            "tip": "Încercați faimosul vin de desert dulce din Cipru."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Miel gătit lent, un fel de mâncare tradițional."
+          },
+          {
+            "name": "Restaurant pe plaja Amathus",
+            "tip": "Bucurați-vă de prânz cu vedere la mare după vizitarea ruinelor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Commandaria Wine",
+            "tip": "Try the famous sweet dessert wine of Cyprus."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Slow-cooked lamb, a traditional dish."
+          },
+          {
+            "name": "Restaurant at Amathus Beach",
+            "tip": "Enjoy lunch with a sea view after your visit to the ruins."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel von Amathus",
+            "tip": "Ein atemberaubender Panoramablick über die Küste.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lady's Mile Beach",
+            "tip": "Ein langer, ruhiger Strand, eine kurze Autofahrt entfernt.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Gassen der Altstadt",
+            "tip": "Verlieren Sie sich in den ruhigen Seitenstraßen abseits der Hektik.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Amathus dombja",
+            "tip": "Lélegzetelállító panoráma a partvidékre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lady's Mile strand",
+            "tip": "Hosszú, csendes strand, rövid autóútra.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Az Óváros sikátorai",
+            "tip": "Vesszen el a csendes mellékutcákban, távol a nyüzsgéstől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Amathus",
+            "tip": "O panoramă uluitoare asupra coastei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja Lady's Mile",
+            "tip": "O plajă lungă și liniștită, la o scurtă distanță cu mașina.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Aleile din Orașul Vechi",
+            "tip": "Pierdeți-vă pe străduțele liniștite, departe de agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hill of Amathus",
+            "tip": "A breathtaking panoramic view of the coastline.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lady's Mile Beach",
+            "tip": "A long, quiet beach a short drive away.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Alleys of the Old Town",
+            "tip": "Get lost in the quiet side streets away from the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "My Mall Limassol",
+            "tip": "Ein großes Einkaufszentrum am Rande der Stadt für alles, was Sie brauchen."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Kaufen Sie lokale Keramik und Spitzen in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "My Mall Limassol",
+            "tip": "Nagy bevásárlóközpont a város szélén, mindenre, amire szüksége lehet."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Vásároljon helyi kerámiát és csipkét az Óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "My Mall Limassol",
+            "tip": "Un centru comercial mare la marginea orașului pentru tot ce aveți nevoie."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Cumpărați ceramică locală și dantele din Orașul Vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "My Mall Limassol",
+            "tip": "A large shopping mall on the outskirts of the city for everything you might need."
+          },
+          {
+            "name": "Craft shops",
+            "tip": "Buy local pottery and lace in the Old Town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann eine Herausforderung sein. Nutzen Sie die öffentlichen Parkplätze.",
+          "Planen Sie genügend Zeit für den Verkehr ein, besonders in der Hochsaison.",
+          "Ein GPS ist sehr hilfreich, um sich in und um die Stadt zurechtzufinden.",
+          "Achten Sie auf die Parkgebühren und -zeiten."
+        ],
+        "hu": [
+          "A parkolás a városközpontban kihívást jelenthet. Használja a nyilvános parkolókat.",
+          "Tervezzen elegendő időt a forgalomra, különösen a főszezonban.",
+          "A GPS nagyon hasznos a városban és környékén való tájékozódáshoz.",
+          "Figyeljen a parkolási díjakra és időkre."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi o provocare. Folosiți parcările publice.",
+          "Planificați suficient timp pentru trafic, mai ales în sezonul de vârf.",
+          "Un GPS este foarte util pentru a vă orienta în oraș și în jur.",
+          "Fiți atenți la taxele și orele de parcare."
+        ],
+        "en": [
+          "Parking in the city center can be challenging. Use the public parking lots.",
+          "Allow enough time for traffic, especially during peak season.",
+          "A GPS is very helpful for navigating in and around the city.",
+          "Pay attention to parking fees and times."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "19:40",
+      "total_km": 19,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Busbahnhof der Altstadt",
+            "hu": "Indulás az Óvárosi buszpályaudvarról",
+            "ro": "Start de la autogara din Orașul Vechi",
+            "en": "Start at the Old Town bus station"
+          },
+          "coords": [
+            33.046,
+            34.676
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+            "en": "Buy a day ticket for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen von Amathus",
+            "hu": "Amathus romjai",
+            "ro": "Ruinele din Amathus",
+            "en": "Ruins of Amathus"
+          },
+          "coords": [
+            33.1325,
+            34.7125
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 9,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Buslinie 30 fährt entlang der Küste direkt zu den Ruinen.",
+            "hu": "A 30-as busz a part mentén közlekedik közvetlenül a romokhoz.",
+            "ro": "Autobuzul 30 circulă de-a lungul coastei direct la ruine.",
+            "en": "Bus line 30 runs along the coast directly to the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe von Amathus",
+            "hu": "Ebéd Amathus közelében",
+            "ro": "Prânz lângă Amathus",
+            "en": "Lunch near Amathus"
+          },
+          "coords": [
+            33.13,
+            34.71
+          ],
+          "category": "gastro",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt mehrere Tavernen mit Meerblick in der Nähe.",
+            "hu": "A közelben több tengerre néző taverna is található.",
+            "ro": "Există mai multe taverne cu vedere la mare în apropiere.",
+            "en": "There are several taverns with sea views nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Molos-Promenade",
+            "hu": "Molos sétány",
+            "ro": "Promenada Molos",
+            "en": "Molos Promenade"
+          },
+          "coords": [
+            33.05,
+            34.677
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie am Pier aus und beginnen Sie Ihren Spaziergang.",
+            "hu": "Szálljon ki a mólónál és kezdje a sétát.",
+            "ro": "Coborâți la debarcader și începeți plimbarea.",
+            "en": "Get off at the pier and start your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Limassol & Altstadt",
+            "hu": "Limassoli vár és Óváros",
+            "ro": "Castelul Limassol și Orașul Vechi",
+            "en": "Limassol Castle & Old Town"
+          },
+          "coords": [
+            33.0419,
+            34.6725
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:02",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Burg und die umliegenden Gassen.",
+            "hu": "Fedezze fel a várat és a környező sikátorokat.",
+            "ro": "Explorați castelul și aleile înconjurătoare.",
+            "en": "Explore the castle and the surrounding alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Limassol Marina",
+            "hu": "Limassoli Marina",
+            "ro": "Portul de agrement Limassol",
+            "en": "Limassol Marina"
+          },
+          "coords": [
+            33.0378,
+            34.6695
+          ],
+          "category": "port",
+          "arrive_at": "17:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang bei einem Drink.",
+            "hu": "Élvezze a naplementét egy ital mellett.",
+            "ro": "Bucurați-vă de apus cu o băutură.",
+            "en": "Enjoy the sunset with a drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Marina",
+            "hu": "Vacsora a Marinában",
+            "ro": "Cină în portul de agrement",
+            "en": "Dinner at the Marina"
+          },
+          "coords": [
+            33.038,
+            34.67
+          ],
+          "category": "gastro",
+          "arrive_at": "18:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie aus einer Vielzahl von Restaurants mit internationaler Küche.",
+            "hu": "Válasszon a nemzetközi konyhát kínáló éttermek széles választékából.",
+            "ro": "Alegeți dintr-o varietate de restaurante cu bucătărie internațională.",
+            "en": "Choose from a variety of restaurants with international cuisine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erreichen Sie mühelos die entlegensten Juwelen Limassols. Der Bus bringt Sie am Morgen zu den beeindruckenden Ruinen von Amathus, wo Sie in die antike Welt eintauchen. Nach einem Mittagessen mit Aussicht fahren Sie zurück ins Zentrum, um die lebhafte Molos-Promenade zu genießen. Den Nachmittag verbringen Sie zu Fuß, erkunden die historische Burg und die charmante Altstadt. Ihr Tag endet in der glamourösen Marina, ein Beweis für das moderne Gesicht Limassols, leicht erreichbar nach einem kurzen Spaziergang.",
+        "hu": "Tömegközlekedéssel könnyedén elérheti Limassol távoli gyöngyszemeit is. A busz reggel elviszi Önt Amathus lenyűgöző romjaihoz, ahol elmerülhet az ókori világban. Egy kilátással egybekötött ebéd után visszatér a központba, hogy élvezze az élénk Molos sétányt. A délutánt gyalog tölti, felfedezve a történelmi várat és a bájos óvárost. A nap a csillogó Marinában ér véget, amely Limassol modern arcának bizonyítéka, és egy rövid séta után könnyen elérhető.",
+        "ro": "Cu transportul public, puteți ajunge cu ușurință la cele mai îndepărtate bijuterii ale Limassolului. Autobuzul vă duce dimineața la impresionantele ruine din Amathus, unde vă puteți cufunda în lumea antică. După un prânz cu priveliște, vă întoarceți în centru pentru a vă bucura de animata promenadă Molos. Petreceți după-amiaza pe jos, explorând castelul istoric și fermecătorul oraș vechi. Ziua se încheie în portul de agrement plin de farmec, o dovadă a feței moderne a Limassolului, ușor accesibil după o scurtă plimbare.",
+        "en": "Using public transport, you can easily reach Limassol's most distant gems. The bus takes you in the morning to the impressive ruins of Amathus, where you can immerse yourself in the ancient world. After a lunch with a view, you return to the center to enjoy the lively Molos Promenade. You'll spend the afternoon on foot, exploring the historic castle and the charming old town. Your day ends at the glamorous marina, a testament to Limassol's modern face, easily reached after a short walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Meeresfrüchte",
+            "tip": "Probieren Sie Oktopus oder Calamari in einer Taverne am Meer."
+          },
+          {
+            "name": "Zypriotischer Kaffee",
+            "tip": "Bestellen Sie einen 'sketos' (ohne Zucker), 'metrios' (mittel) oder 'glykis' (süß)."
+          },
+          {
+            "name": "Sheftalia",
+            "tip": "Würzige zypriotische Würstchen, oft in einem Pita serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi tenger gyümölcsei",
+            "tip": "Kóstoljon meg polipot vagy kalmárt egy tengerparti tavernában."
+          },
+          {
+            "name": "Ciprusi kávé",
+            "tip": "Rendeljen 'sketos' (cukor nélkül), 'metrios' (közepes) vagy 'glykis' (édes) kávét."
+          },
+          {
+            "name": "Sheftalia",
+            "tip": "Fűszeres ciprusi kolbászkák, gyakran pitában tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fructe de mare locale",
+            "tip": "Încercați caracatiță sau calamari la o tavernă pe malul mării."
+          },
+          {
+            "name": "Cafea cipriotă",
+            "tip": "Comandați o cafea 'sketos' (fără zahăr), 'metrios' (mediu) sau 'glykis' (dulce)."
+          },
+          {
+            "name": "Sheftalia",
+            "tip": "Cârnați ciprioți picanți, adesea serviți într-o pită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local seafood",
+            "tip": "Try octopus or calamari at a seaside tavern."
+          },
+          {
+            "name": "Cypriot coffee",
+            "tip": "Order a 'sketos' (no sugar), 'metrios' (medium), or 'glykis' (sweet)."
+          },
+          {
+            "name": "Sheftalia",
+            "tip": "Spicy Cypriot sausages, often served in a pita."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Governor's Beach",
+            "tip": "Eine kurze Busfahrt für weiße Felsen und ruhiges Wasser.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Kirche in den Gassen der Altstadt",
+            "tip": "Finden Sie eine kleine, ruhige Kirche für einen Moment der Besinnung.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Ende der Molos-Promenade",
+            "tip": "Weniger überlaufen und ideal, um das Meer zu beobachten.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Governor's Beach",
+            "tip": "Rövid buszút a fehér sziklákhoz és a nyugodt vízhez.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Templom az Óváros sikátoraiban",
+            "tip": "Keressen egy kis, csendes templomot egy pillanatnyi elmélyüléshez.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "A Molos sétány vége",
+            "tip": "Kevésbé zsúfolt és ideális a tenger nézésére.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Governor's",
+            "tip": "O scurtă călătorie cu autobuzul pentru stânci albe și apă calmă.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Biserică pe aleile Orașului Vechi",
+            "tip": "Găsiți o biserică mică și liniștită pentru un moment de reflecție.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Capătul Promenadei Molos",
+            "tip": "Mai puțin aglomerat și ideal pentru a privi marea.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Governor's Beach",
+            "tip": "A short bus ride away for white rocks and calm waters.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Church in the Old Town alleys",
+            "tip": "Find a small, quiet church for a moment of reflection.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "End of the Molos Promenade",
+            "tip": "Less crowded and ideal for watching the sea.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentrale Markthalle",
+            "tip": "Erleben Sie das lokale Leben und kaufen Sie frische Produkte."
+          },
+          {
+            "name": "Lefkara-Spitze",
+            "tip": "Ein berühmtes zypriotisches Handwerk, das als Souvenir erhältlich ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi Vásárcsarnok",
+            "tip": "Tapasztalja meg a helyi életet és vásároljon friss termékeket."
+          },
+          {
+            "name": "Lefkara csipke",
+            "tip": "Híres ciprusi kézműves termék, szuvenírként kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Experimentați viața locală și cumpărați produse proaspete."
+          },
+          {
+            "name": "Dantelă de Lefkara",
+            "tip": "Un faimos produs artizanal cipriot, disponibil ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market Hall",
+            "tip": "Experience local life and buy fresh produce."
+          },
+          {
+            "name": "Lefkara lace",
+            "tip": "A famous Cypriot handicraft available as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt.",
+          "Geben Sie dem Fahrer ein Zeichen, wenn Sie an einer Haltestelle warten.",
+          "Die Busse können in der Hauptverkehrszeit voll sein.",
+          "Behalten Sie Ihr Ticket für eventuelle Kontrollen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó visszajáratot.",
+          "Adjon jelet a sofőrnek, ha egy megállóban várakozik.",
+          "A buszok csúcsidőben zsúfoltak lehetnek.",
+          "Őrizze meg a jegyét az esetleges ellenőrzésekhez."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie de întoarcere.",
+          "Faceți semn șoferului când așteptați într-o stație.",
+          "Autobuzele pot fi aglomerate la orele de vârf.",
+          "Păstrați biletul pentru eventuale controale."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially for the last return trip.",
+          "Signal the driver when you are waiting at a stop.",
+          "Buses can be crowded during peak hours.",
+          "Keep your ticket for any inspections."
+        ]
+      }
+    }
+  }
+}

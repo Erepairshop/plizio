@@ -1,0 +1,1532 @@
+{
+  "city_id": "spain-soria-cities-v2",
+  "anchor": {
+    "name": "Soria",
+    "coords": [
+      -2.4667,
+      41.7667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:21",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Főtér",
+            "ro": "Plaza Mayor",
+            "en": "Main Square"
+          },
+          "coords": [
+            -2.4668,
+            41.7645
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee und beobachten Sie das Erwachen der Stadt.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje, ahogy a város ébredezik.",
+            "ro": "Începeți ziua cu o cafea și priviți cum se trezește orașul.",
+            "en": "Start your day with a coffee and watch the city come to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Santo Domingo",
+            "hu": "Santo Domingo-templom",
+            "ro": "Biserica Santo Domingo",
+            "en": "Church of Santo Domingo"
+          },
+          "coords": [
+            -2.4715,
+            41.7663
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade, ein Meisterwerk der romanischen Bildhauerei.",
+            "hu": "Csodálja meg a homlokzatot, a román kori szobrászat mesterművét.",
+            "ro": "Admirați fațada, o capodoperă a sculpturii romanice.",
+            "en": "Admire the facade, a masterpiece of Romanesque sculpture."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de los Condes de Gómara",
+            "hu": "Gómara grófjainak palotája",
+            "ro": "Palatul Conților de Gómara",
+            "en": "Palace of the Counts of Gómara"
+          },
+          "coords": [
+            -2.4691,
+            41.7667
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie den imposanten Turm und die Renaissance-Fassade.",
+            "hu": "Figyelje meg a lenyűgöző tornyot és a reneszánsz homlokzatot.",
+            "ro": "Observați turnul impunător și fațada renascentistă.",
+            "en": "Note the imposing tower and the Renaissance facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Numantino",
+            "hu": "Numantino Múzeum",
+            "ro": "Muzeul Numantino",
+            "en": "Numantino Museum"
+          },
+          "coords": [
+            -2.4647,
+            41.7679
+          ],
+          "category": "museums",
+          "arrive_at": "11:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die keltiberischen Artefakte aus Numantia.",
+            "hu": "Koncentráljon a Numantiából származó keltibér leletekre.",
+            "ro": "Concentrați-vă pe artefactele celtiberice din Numantia.",
+            "en": "Focus on the Celtiberian artifacts from Numantia."
+          }
+        },
+        {
+          "name": {
+            "de": "Konkathedrale San Pedro",
+            "hu": "Szent Péter-társszékesegyház",
+            "ro": "Concatedrala San Pedro",
+            "en": "Co-cathedral of San Pedro"
+          },
+          "coords": [
+            -2.4628,
+            41.7628
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den gotischen Kreuzgang und die flämischen Wandteppiche.",
+            "hu": "Ne hagyja ki a gótikus kerengőt és a flamand faliszőnyegeket.",
+            "ro": "Nu ratați claustrul gotic și tapiseriile flamande.",
+            "en": "Don't miss the Gothic cloister and the Flemish tapestries."
+          }
+        },
+        {
+          "name": {
+            "de": "Monasterio de San Juan de Duero",
+            "hu": "San Juan de Duero-kolostor",
+            "ro": "Mănăstirea San Juan de Duero",
+            "en": "Monastery of San Juan de Duero"
+          },
+          "coords": [
+            -2.4571,
+            41.7644
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:54",
+          "stay_min": 50,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die ineinander verschlungenen Bögen des Kreuzgangs sind einzigartig in Spanien.",
+            "hu": "A kerengő egymásba fonódó ívei egyedülállóak Spanyolországban.",
+            "ro": "Arcurile împletite ale claustrului sunt unice în Spania.",
+            "en": "The interlaced arches of the cloister are unique in Spain."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei San Saturio",
+            "hu": "San Saturio remetelak",
+            "ro": "Schitul San Saturio",
+            "en": "Hermitage of San Saturio"
+          },
+          "coords": [
+            -2.4522,
+            41.7583
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:20",
+          "stay_min": 121,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf den Fluss Duero von diesem Felsenheiligtum.",
+            "hu": "Élvezze a Duero folyóra nyíló kilátást ebből a sziklaszentélyből.",
+            "ro": "Bucurați-vă de priveliștea râului Duero de la acest sanctuar de pe stâncă.",
+            "en": "Enjoy the views of the Duero River from this rock-hewn sanctuary."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Soria beginnt auf der belebten Plaza Mayor. Von dort führt Sie ein Spaziergang durch die romanische Geschichte zur Iglesia de Santo Domingo und zum prächtigen Palacio de los Condes de Gómara. Am Vormittag tauchen Sie im Museo Numantino tief in die antike Vergangenheit der Region ein. Nach dem Mittagessen überqueren Sie den Fluss Duero. Sie erkunden die ruhige Konkathedrale San Pedro und die einzigartigen Bögen des Klosters San Juan de Duero. Der Nachmittag findet seinen Höhepunkt in der Ermita de San Saturio, die malerisch in die Felsen gehauen ist und einen atemberaubenden Blick auf den Fluss bietet. Genießen Sie die friedliche Atmosphäre, bevor Sie in die Stadt zurückkehren.",
+        "hu": "Soriai napja a nyüzsgő Plaza Mayoron kezdődik. Innen egy séta vezet a román kori történelembe a Santo Domingo-templomhoz és a csodálatos Gómara grófi palotához. Délelőtt a Numantino Múzeumban mélyedhet el a régió ókori múltjában. Ebéd után átkel a Duero folyón. Felfedezi a csendes Szent Péter-társszékesegyházat és a San Juan de Duero-kolostor egyedi íveit. A délután csúcspontja a festői sziklába vájt San Saturio remetelak, ahonnan lélegzetelállító kilátás nyílik a folyóra. Élvezze a békés hangulatot, mielőtt visszatérne a városba.",
+        "ro": "Ziua dvs. în Soria începe în animata Plaza Mayor. De acolo, o plimbare vă poartă prin istoria romanică la Biserica Santo Domingo și la magnificul Palat al Conților de Gómara. Dimineața, vă veți cufunda în trecutul antic al regiunii la Muzeul Numantino. După prânz, traversați râul Duero. Explorați liniștita Concatedrală San Pedro și arcadele unice ale Mănăstirii San Juan de Duero. După-amiaza culminează cu Schitul San Saturio, sculptat pitoresc în stâncă, oferind vederi impresionante asupra râului. Bucurați-vă de atmosfera pașnică înainte de a vă întoarce în oraș.",
+        "en": "Your day in Soria begins in the bustling Plaza Mayor. From there, a walk takes you through Romanesque history to the Church of Santo Domingo and the magnificent Palace of the Counts of Gómara. In the morning, you'll delve deep into the region's ancient past at the Numantino Museum. After lunch, you cross the Duero River. You explore the tranquil Co-cathedral of San Pedro and the unique arches of the Monastery of San Juan de Duero. The afternoon culminates at the Hermitage of San Saturio, picturesquely carved into the rock and offering breathtaking views of the river. Enjoy the peaceful atmosphere before returning to the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Torreznos de Soria",
+            "tip": "Knusprig gebratener Schweinebauch, eine lokale Delikatesse."
+          },
+          {
+            "name": "Cordero asado",
+            "tip": "Im Holzofen gebratenes Lamm, ein kastilisches Festmahl."
+          },
+          {
+            "name": "Restaurante Baluarte (Michelin-Stern)",
+            "tip": "Für ein modernes kulinarisches Erlebnis, das auf lokalen Zutaten basiert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torreznos de Soria",
+            "tip": "Ropogósra sült sertéshas, helyi különlegesség."
+          },
+          {
+            "name": "Cordero asado",
+            "tip": "Fatüzelésű kemencében sült bárány, egy kasztíliai lakoma."
+          },
+          {
+            "name": "Restaurante Baluarte (Michelin-csillag)",
+            "tip": "Egy modern kulináris élményért, amely helyi alapanyagokra épül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torreznos de Soria",
+            "tip": "Burtă de porc prăjită crocant, o delicatesă locală."
+          },
+          {
+            "name": "Cordero asado",
+            "tip": "Miel fript în cuptor cu lemne, un festin castilian."
+          },
+          {
+            "name": "Restaurante Baluarte (stea Michelin)",
+            "tip": "Pentru o experiență culinară modernă bazată pe ingrediente locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torreznos de Soria",
+            "tip": "Crispy fried pork belly, a local delicacy."
+          },
+          {
+            "name": "Cordero asado",
+            "tip": "Wood-oven roasted lamb, a Castilian feast."
+          },
+          {
+            "name": "Restaurante Baluarte (Michelin Star)",
+            "tip": "For a modern culinary experience based on local ingredients."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Duero",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alameda de Cervantes",
+            "tip": "Entspannen Sie sich in diesem zentralen Park, der von den Einheimischen 'La Dehesa' genannt wird.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kreuzgang von San Juan de Duero",
+            "tip": "Meditieren Sie zwischen den mystischen, ineinander verschlungenen Bögen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duero folyó partja",
+            "tip": "Egy csendes séta a folyó mentén, különösen naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alameda de Cervantes",
+            "tip": "Pihenjen ebben a központi parkban, amelyet a helyiek 'La Dehesa'-nak hívnak.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "San Juan de Duero kerengője",
+            "tip": "Meditáljon a misztikus, egymásba fonódó ívek között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Duero",
+            "tip": "O plimbare liniștită de-a lungul râului, mai ales la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alameda de Cervantes",
+            "tip": "Relaxați-vă în acest parc central, numit 'La Dehesa' de localnici.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Claustrul San Juan de Duero",
+            "tip": "Meditați printre arcadele mistice, împletite.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Duero River",
+            "tip": "A quiet walk along the river, especially at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alameda de Cervantes",
+            "tip": "Relax in this central park, called 'La Dehesa' by locals.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cloister of San Juan de Duero",
+            "tip": "Meditate among the mystical, interlaced arches.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle El Collado",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus traditionellen Geschäften und modernen Marken."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "Kaufen Sie lokale Produkte, insbesondere die berühmte Butter von Soria (Mantequilla de Soria)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle El Collado",
+            "tip": "A fő bevásárlóutca, ahol hagyományos üzletek és modern márkák keverednek."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "Vásároljon helyi termékeket, különösen a híres Soriai vajat (Mantequilla de Soria)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle El Collado",
+            "tip": "Principala stradă comercială, cu un amestec de magazine tradiționale și mărci moderne."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "Cumpărați produse locale, în special faimosul unt de Soria (Mantequilla de Soria)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle El Collado",
+            "tip": "The main shopping street, with a mix of traditional shops and modern brands."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "Shop for local products, especially the famous butter of Soria (Mantequilla de Soria)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Viele Sehenswürdigkeiten befinden sich in der Nähe des Flusses Duero, ein Spaziergang dorthin ist sehr zu empfehlen.",
+          "Prüfen Sie die Öffnungszeiten der Kirchen, da sie mittags für eine Siesta schließen können.",
+          "Soria ist bekannt für seine Dichter; halten Sie Ausschau nach Statuen und Plaketten, die ihnen gewidmet sind."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Sok látnivaló a Duero folyó közelében található, egy séta odáig erősen ajánlott.",
+          "Ellenőrizze a templomok nyitvatartási idejét, mivel délben bezárhatnak szieszta idejére.",
+          "Soria híres költőiről; keresse a nekik szentelt szobrokat és emléktáblákat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Multe atracții sunt aproape de râul Duero, o plimbare până acolo este foarte recomandată.",
+          "Verificați orele de deschidere ale bisericilor, deoarece acestea se pot închide la prânz pentru siestă.",
+          "Soria este cunoscută pentru poeții săi; căutați statui și plăci dedicate acestora."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Many sights are near the Duero river, a walk there is highly recommended.",
+          "Check the opening hours of the churches, as they may close for a siesta at midday.",
+          "Soria is known for its poets; look for statues and plaques dedicated to them."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Alameda de Cervantes",
+            "hu": "Alameda de Cervantes",
+            "ro": "Alameda de Cervantes",
+            "en": "Alameda de Cervantes"
+          },
+          "coords": [
+            -2.4725,
+            41.7681
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe und beginnen Sie den Tag mit einer Runde durch den Park.",
+            "hu": "Béreljen kerékpárt a közelben, és kezdje a napot egy körrel a parkban.",
+            "ro": "Închiriați o bicicletă din apropiere și începeți ziua cu o tură prin parc.",
+            "en": "Rent a bike nearby and start your day with a loop around the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Numantino",
+            "hu": "Numantino Múzeum",
+            "ro": "Muzeul Numantino",
+            "en": "Numantino Museum"
+          },
+          "coords": [
+            -2.4647,
+            41.7679
+          ],
+          "category": "museums",
+          "arrive_at": "09:59",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die heldenhafte Geschichte von Numantia, bevor Sie die Stätte besuchen.",
+            "hu": "Tudjon meg többet Numantia hősies történetéről, mielőtt meglátogatná a helyszínt.",
+            "ro": "Aflați despre istoria eroică a Numantiei înainte de a vizita situl.",
+            "en": "Learn about the heroic history of Numantia before visiting the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Santo Domingo",
+            "hu": "Santo Domingo-templom",
+            "ro": "Biserica Santo Domingo",
+            "en": "Church of Santo Domingo"
+          },
+          "coords": [
+            -2.4715,
+            41.7663
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:34",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie die Details der romanischen Fassade.",
+            "hu": "Tegye le a biciklit, és csodálja meg a román kori homlokzat részleteit.",
+            "ro": "Parcați-vă bicicleta și admirați detaliile fațadei romanice.",
+            "en": "Park your bike and admire the details of the Romanesque facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Főtér",
+            "ro": "Plaza Mayor",
+            "en": "Main Square"
+          },
+          "coords": [
+            -2.4668,
+            41.7645
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schneller Stopp, um die Atmosphäre des Herzens der Stadt aufzusaugen.",
+            "hu": "Egy gyors megálló, hogy magába szívja a város szívének hangulatát.",
+            "ro": "O oprire rapidă pentru a absorbi atmosfera din inima orașului.",
+            "en": "A quick stop to soak up the atmosphere in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Konkathedrale San Pedro",
+            "hu": "Szent Péter-társszékesegyház",
+            "ro": "Concatedrala San Pedro",
+            "en": "Co-cathedral of San Pedro"
+          },
+          "coords": [
+            -2.4628,
+            41.7628
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem Fahrradständer in der Nähe des Eingangs.",
+            "hu": "Keresse a kerékpártárolót a bejárat közelében.",
+            "ro": "Căutați suportul pentru biciclete de lângă intrare.",
+            "en": "Look for the bike rack near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Monasterio de San Juan de Duero",
+            "hu": "San Juan de Duero-kolostor",
+            "ro": "Mănăstirea San Juan de Duero",
+            "en": "Monastery of San Juan de Duero"
+          },
+          "coords": [
+            -2.4571,
+            41.7644
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:42",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für eine Mittagspause im Schatten der einzigartigen Bögen.",
+            "hu": "Tökéletes hely egy ebédszünetre az egyedi ívek árnyékában.",
+            "ro": "Locul perfect pentru o pauză de prânz la umbra arcadelor unice.",
+            "en": "The perfect spot for a lunch break in the shade of the unique arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei San Saturio",
+            "hu": "San Saturio remetelak",
+            "ro": "Schitul San Saturio",
+            "en": "Hermitage of San Saturio"
+          },
+          "coords": [
+            -2.4522,
+            41.7583
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Weg ist asphaltiert, aber seien Sie auf einen kurzen Anstieg vorbereitet.",
+            "hu": "Az út aszfaltozott, de készüljön egy rövid emelkedőre.",
+            "ro": "Calea este asfaltată, dar fiți pregătiți pentru o urcare scurtă.",
+            "en": "The path is paved but be prepared for a short uphill climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt entlang des Duero",
+            "hu": "Visszaút a Duero mentén",
+            "ro": "Plimbare înapoi de-a lungul râului Duero",
+            "en": "Ride back along the Duero"
+          },
+          "coords": [
+            -2.465,
+            41.765
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:52",
+          "stay_min": 83,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Fahrt zurück ins Stadtzentrum am Flussufer.",
+            "hu": "Élvezze a nyugodt utat vissza a városközpontba a folyóparton.",
+            "ro": "Bucurați-vă de plimbarea liniștită înapoi în centrul orașului de-a lungul malului râului.",
+            "en": "Enjoy the tranquil ride back to the city center along the riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag im grünen Herzen von Soria, der Alameda de Cervantes. Von dort radeln Sie zum Museo Numantino, um in die Geschichte einzutauchen. Am Vormittag erkunden Sie das historische Zentrum mit Stopps an der romanischen Iglesia de Santo Domingo und der lebhaften Plaza Mayor. Nach einem Besuch der Konkathedrale San Pedro überqueren Sie den Fluss Duero. Am Nachmittag erwarten Sie die architektonischen Wunder des Klosters San Juan de Duero und der in den Fels gehauenen Ermita de San Saturio. Der Tag endet mit einer entspannten Radtour entlang des malerischen Flussufers zurück ins Zentrum.",
+        "hu": "Kezdje kerékpáros napját Soria zöld szívében, az Alameda de Cervantes parkban. Innen tekerjen el a Numantino Múzeumba, hogy elmerüljön a történelemben. Délelőtt fedezze fel a történelmi központot, megállva a román kori Santo Domingo-templomnál és a nyüzsgő Plaza Mayoron. A Szent Péter-társszékesegyház meglátogatása után keljen át a Duero folyón. Délután a San Juan de Duero-kolostor és a sziklába vájt San Saturio remetelak építészeti csodái várják. A nap egy pihentető kerékpártúrával zárul a festői folyóparton vissza a központba.",
+        "ro": "Începeți ziua pe bicicletă în inima verde a Sorici, Alameda de Cervantes. De acolo, pedalați spre Muzeul Numantino pentru o doză de istorie. Dimineața, explorați centrul istoric cu opriri la romanica Biserică Santo Domingo și la animata Plaza Mayor. După o vizită la Concatedrala San Pedro, traversați râul Duero. După-amiaza, vă așteaptă minunile arhitecturale ale Mănăstirii San Juan de Duero și ale Schitului San Saturio, sculptat în stâncă. Ziua se încheie cu o plimbare relaxantă cu bicicleta de-a lungul malului pitoresc al râului, înapoi în centru.",
+        "en": "Start your cycling day in the green heart of Soria, the Alameda de Cervantes. From there, pedal to the Numantino Museum for a dose of history. In the morning, explore the historic center with stops at the Romanesque Church of Santo Domingo and the lively Plaza Mayor. After a visit to the Co-cathedral of San Pedro, you'll cross the Duero River. In the afternoon, the architectural wonders of the Monastery of San Juan de Duero and the rock-hewn Hermitage of San Saturio await. The day concludes with a relaxing bike ride along the scenic riverbank back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Migas pastoriles",
+            "tip": "Ein traditionelles Gericht aus Brotkrumen, Chorizo und Trauben."
+          },
+          {
+            "name": "Boletus edulis",
+            "tip": "Probieren Sie die lokalen Steinpilze, wenn Saison ist."
+          },
+          {
+            "name": "Casa Augusto",
+            "tip": "Ein beliebter Ort für Tapas und lokale Gerichte nach Ihrer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Migas pastoriles",
+            "tip": "Hagyományos étel zsemlemorzsából, chorizóból és szőlőből."
+          },
+          {
+            "name": "Boletus edulis",
+            "tip": "Kóstolja meg a helyi vargányát, ha szezonja van."
+          },
+          {
+            "name": "Casa Augusto",
+            "tip": "Népszerű hely tapasokhoz és helyi ételekhez a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migas pastoriles",
+            "tip": "Un fel de mâncare tradițional din pesmet, chorizo și struguri."
+          },
+          {
+            "name": "Boletus edulis",
+            "tip": "Încercați hribii locali (boletus) când este sezon."
+          },
+          {
+            "name": "Casa Augusto",
+            "tip": "Un loc popular pentru tapas și mâncăruri locale după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Migas pastoriles",
+            "tip": "A traditional dish of breadcrumbs, chorizo, and grapes."
+          },
+          {
+            "name": "Boletus edulis",
+            "tip": "Try the local porcini mushrooms when in season."
+          },
+          {
+            "name": "Casa Augusto",
+            "tip": "A popular spot for tapas and local dishes after your bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Duero",
+            "tip": "Der Weg ist größtenteils flach und bietet eine friedliche Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von San Saturio",
+            "tip": "Der Aufstieg lohnt sich für die Panoramasicht auf den Fluss.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rosaleda in der Alameda de Cervantes",
+            "tip": "Ein ruhiger Rosengarten im Park.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duero kerékpárút",
+            "tip": "Az út többnyire sík, és békés utazást kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a San Saturio-tól",
+            "tip": "A mászás megéri a folyóra nyíló panorámás kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rózsakert az Alameda de Cervantes-ben",
+            "tip": "Egy csendes rózsakert a parkban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul râului Duero",
+            "tip": "Traseul este în mare parte plat și oferă o plimbare liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la San Saturio",
+            "tip": "Urcarea merită pentru vederea panoramică asupra râului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina de trandafiri din Alameda de Cervantes",
+            "tip": "O grădină de trandafiri liniștită în interiorul parcului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Duero River bike path",
+            "tip": "The path is mostly flat and offers a peaceful ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from San Saturio",
+            "tip": "The climb is worth it for the panoramic river view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rose garden in Alameda de Cervantes",
+            "tip": "A quiet rose garden within the park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Suchen Sie nach Keramik und Lederwaren in den Gassen der Altstadt."
+          },
+          {
+            "name": "Patés de Pato de Soria",
+            "tip": "Kaufen Sie Entenpastete, eine weitere lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves üzletek",
+            "tip": "Keressen kerámiát és bőrárukat az óváros sikátoraiban."
+          },
+          {
+            "name": "Patés de Pato de Soria",
+            "tip": "Vásároljon kacsapástétomot, egy másik helyi különlegességet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați ceramică și articole din piele pe străduțele din orașul vechi."
+          },
+          {
+            "name": "Patés de Pato de Soria",
+            "tip": "Cumpărați pateu de rață, o altă specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local artisan shops",
+            "tip": "Look for ceramics and leather goods in the old town's alleyways."
+          },
+          {
+            "name": "Patés de Pato de Soria",
+            "tip": "Buy some duck pâté, another local specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad für den ganzen Tag, um flexibel zu sein.",
+          "Nehmen Sie eine Wasserflasche mit, besonders für die Strecke entlang des Flusses.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht mit dem Fahrrad zu erreichen, aber für die Kirchen müssen Sie absteigen.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, auch für kurze Stopps."
+        ],
+        "hu": [
+          "Béreljen kerékpárt egész napra a rugalmasság érdekében.",
+          "Vigyen magával egy vizes palackot, különösen a folyó menti szakaszra.",
+          "A központ legtöbb látnivalója könnyen elérhető kerékpárral, de a templomokhoz le kell szállnia.",
+          "Mindig zárja le jól a kerékpárját, még rövid megállók esetén is."
+        ],
+        "ro": [
+          "Închiriați o bicicletă pentru întreaga zi pentru a fi flexibil.",
+          "Luați o sticlă de apă, mai ales pentru traseul de-a lungul râului.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile cu bicicleta, dar va trebui să descălecați pentru biserici.",
+          "Încuietăți-vă întotdeauna bicicleta bine, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Rent a bike for the full day to be flexible.",
+          "Bring a water bottle, especially for the stretch along the river.",
+          "Most central sights are easily reachable by bike, but you'll need to dismount for the churches.",
+          "Always lock your bike securely, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 11.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz nahe San Juan de Duero",
+            "hu": "Parkoló a San Juan de Duero közelében",
+            "ro": "Parcare lângă San Juan de Duero",
+            "en": "Parking near San Juan de Duero"
+          },
+          "coords": [
+            -2.456,
+            41.7648
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Fluss, wo es morgens einfacher ist, einen Parkplatz zu finden.",
+            "hu": "Kezdje a folyónál, ahol reggel könnyebb parkolóhelyet találni.",
+            "ro": "Începeți de la râu, unde este mai ușor să găsiți parcare dimineața.",
+            "en": "Start by the river where parking is easier to find in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Monasterio de San Juan de Duero",
+            "hu": "San Juan de Duero-kolostor",
+            "ro": "Mănăstirea San Juan de Duero",
+            "en": "Monastery of San Juan de Duero"
+          },
+          "coords": [
+            -2.4571,
+            41.7644
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:07",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Stopp ist ein kurzer Spaziergang vom Parkplatz entfernt.",
+            "hu": "Az első megálló egy rövid sétára van a parkolótól.",
+            "ro": "Prima oprire este la o scurtă plimbare de parcare.",
+            "en": "The first stop is a short walk from where you parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei San Saturio",
+            "hu": "San Saturio remetelak",
+            "ro": "Schitul San Saturio",
+            "en": "Hermitage of San Saturio"
+          },
+          "coords": [
+            -2.4522,
+            41.7583
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:07",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang entlang des Flusses führt Sie zur Einsiedelei.",
+            "hu": "Egy szép séta a folyó mentén vezet a remetelakhoz.",
+            "ro": "O plimbare frumoasă de-a lungul râului vă duce la schit.",
+            "en": "A beautiful walk along the river takes you to the hermitage."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum",
+            "hu": "Parkoló a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "Parking in the City Center"
+          },
+          "coords": [
+            -2.469,
+            41.768
+          ],
+          "category": "transport",
+          "arrive_at": "11:27",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum und suchen Sie einen Tiefgaragenparkplatz.",
+            "hu": "Vezessen be a központba, és keressen egy mélygarázst.",
+            "ro": "Conduceți spre centru și căutați o parcare subterană.",
+            "en": "Drive to the center and look for an underground parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Numantino",
+            "hu": "Numantino Múzeum",
+            "ro": "Muzeul Numantino",
+            "en": "Numantino Museum"
+          },
+          "coords": [
+            -2.4647,
+            41.7679
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum ist ein idealer Ort, um die heißesten Stunden des Tages zu verbringen.",
+            "hu": "A múzeum ideális hely a nap legforróbb óráinak eltöltésére.",
+            "ro": "Muzeul este un loc ideal pentru a petrece cele mai calde ore ale zilei.",
+            "en": "The museum is an ideal place to spend the hottest hours of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor & Mittagessen",
+            "hu": "Plaza Mayor és ebéd",
+            "ro": "Plaza Mayor și prânz",
+            "en": "Plaza Mayor & Lunch"
+          },
+          "coords": [
+            -2.4668,
+            41.7645
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie eines der vielen Restaurants rund um den Platz für ein authentisches Mittagessen.",
+            "hu": "Válasszon a tér körüli számos étterem közül egy autentikus ebédhez.",
+            "ro": "Alegeți unul dintre multele restaurante din jurul pieței pentru un prânz autentic.",
+            "en": "Choose one of the many restaurants around the square for an authentic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Alameda de Cervantes",
+            "hu": "Alameda de Cervantes",
+            "ro": "Alameda de Cervantes",
+            "en": "Alameda de Cervantes"
+          },
+          "coords": [
+            -2.4725,
+            41.7681
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:23",
+          "stay_min": 156,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park für einen entspannten Nachmittag. Es gibt genügend Parkplätze in der Umgebung.",
+            "hu": "Vezessen el a parkba egy pihentető délutánra. A környéken rengeteg parkolóhely van.",
+            "ro": "Conduceți la parc pentru o după-amiază relaxantă. Există suficiente locuri de parcare în zonă.",
+            "en": "Drive to the park for a relaxing afternoon. There's plenty of parking around."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt entspannt am Ufer des Duero. Parken Sie Ihr Auto und erkunden Sie zu Fuß das Cluster aus Kloster San Juan und der Einsiedelei San Saturio. Genießen Sie die morgendliche Ruhe und die spirituelle Atmosphäre. Gegen Mittag fahren Sie ins Herz der Stadt. Parken Sie in einer Tiefgarage und entdecken Sie das zweite Cluster: Tauchen Sie im Museo Numantino in die Geschichte ein und genießen Sie anschließend ein Mittagessen auf der belebten Plaza Mayor. Den Nachmittag verbringen Sie im dritten Cluster, dem weitläufigen Park Alameda de Cervantes, wo Sie sich entspannen und das lokale Leben beobachten können, bevor Sie den Tag beenden.",
+        "hu": "Autós napja nyugodtan kezdődik a Duero partján. Parkolja le autóját, és fedezze fel gyalog a San Juan-kolostor és a San Saturio remetelak alkotta csoportot. Élvezze a reggeli csendet és a spirituális hangulatot. Dél körül hajtson be a város szívébe. Parkoljon le egy mélygarázsban, és fedezze fel a második csoportot: merüljön el a történelemben a Numantino Múzeumban, majd ebédeljen a nyüzsgő Plaza Mayoron. A délutánt a harmadik csoportban, a tágas Alameda de Cervantes parkban tölti, ahol pihenhet és figyelheti a helyi életet, mielőtt befejezné a napot.",
+        "ro": "Ziua dvs. cu mașina începe relaxat pe malurile râului Duero. Parcați mașina și explorați pe jos grupul format din Mănăstirea San Juan și Schitul San Saturio. Bucurați-vă de liniștea dimineții și de atmosfera spirituală. Spre prânz, conduceți în inima orașului. Parcați într-o parcare subterană și descoperiți al doilea grup: scufundați-vă în istorie la Muzeul Numantino, apoi bucurați-vă de prânz în animata Plaza Mayor. Petreceți după-amiaza în al treilea grup, parcul întins Alameda de Cervantes, unde vă puteți relaxa și observa viața locală înainte de a încheia ziua.",
+        "en": "Your car day begins relaxed on the banks of the Duero River. Park your car and explore the cluster of the Monastery of San Juan and the Hermitage of San Saturio on foot. Enjoy the morning tranquility and spiritual atmosphere. Around noon, drive into the heart of the city. Park in an underground garage and discover the second cluster: delve into history at the Numantino Museum, then enjoy lunch in the bustling Plaza Mayor. Spend the afternoon in the third cluster, the spacious Alameda de Cervantes park, where you can relax and observe local life before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cangrejo de río",
+            "tip": "Flusskrebse, oft in einer würzigen Tomatensauce serviert."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "Ein süßes Dessert aus Eigelb und Zucker aus einer nahegelegenen Stadt."
+          },
+          {
+            "name": "Restaurante La Chistera",
+            "tip": "Bekannt für seine exzellenten Grillgerichte und die traditionelle kastilische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cangrejo de río",
+            "tip": "Folyami rák, gyakran fűszeres paradicsomszószban tálalva."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "Édes desszert tojássárgájából és cukorból egy közeli városból."
+          },
+          {
+            "name": "Restaurante La Chistera",
+            "tip": "Kiváló grillételeiről és hagyományos kasztíliai konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cangrejo de río",
+            "tip": "Raci de râu, adesea serviți într-un sos de roșii picant."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "Un desert dulce din gălbenuș de ou și zahăr dintr-un oraș din apropiere."
+          },
+          {
+            "name": "Restaurante La Chistera",
+            "tip": "Cunoscut pentru preparatele sale excelente la grătar și bucătăria tradițională castiliană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cangrejo de río",
+            "tip": "River crayfish, often served in a spicy tomato sauce."
+          },
+          {
+            "name": "Yemas de Almazán",
+            "tip": "A sweet dessert made of egg yolk and sugar from a nearby town."
+          },
+          {
+            "name": "Restaurante La Chistera",
+            "tip": "Known for its excellent grilled meats and traditional Castilian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt nach Numancia",
+            "tip": "Wenn Sie Zeit haben, ist die kurze Fahrt zur keltiberischen Stätte von Numancia sehr eindrucksvoll.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Gärten des Palacio de los Condes de Gómara",
+            "tip": "Ein versteckter und ruhiger Ort hinter dem Palast.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Monte de las Ánimas",
+            "tip": "Ein legendärer Ort in der Nähe der Stadt für einen unvergesslichen Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utazás Numanciába",
+            "tip": "Ha van ideje, a rövid út a numantiai keltibér lelőhelyhez nagyon hatásos.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Palacio de los Condes de Gómara kertjei",
+            "tip": "Egy rejtett és csendes hely a palota mögött.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Monte de las Ánimas-on",
+            "tip": "Egy legendás hely a város közelében egy felejthetetlen naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Excursie la Numancia",
+            "tip": "Dacă aveți timp, scurta călătorie cu mașina la situl celtiberic Numancia este foarte impresionantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Palatului Conților de Gómara",
+            "tip": "Un loc ascuns și liniștit în spatele palatului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare pe Monte de las Ánimas",
+            "tip": "Un loc legendar lângă oraș pentru un apus de neuitat.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive to Numancia",
+            "tip": "If you have time, the short drive to the Celtiberian site of Numancia is very impressive.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of the Palace of the Counts of Gómara",
+            "tip": "A hidden and quiet spot behind the palace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at Monte de las Ánimas",
+            "tip": "A legendary place near the city for an unforgettable sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Embutidos de Soria",
+            "tip": "Kaufen Sie lokale Wurstwaren wie Chorizo und Salchichón."
+          },
+          {
+            "name": "Käse aus der Region",
+            "tip": "Suchen Sie nach handwerklich hergestelltem Schafs- und Ziegenkäse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Embutidos de Soria",
+            "tip": "Vásároljon helyi kolbászféléket, mint a chorizo és a salchichón."
+          },
+          {
+            "name": "Helyi sajtok",
+            "tip": "Keressen kézműves juh- és kecskesajtokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Embutidos de Soria",
+            "tip": "Cumpărați mezeluri locale precum chorizo și salchichón."
+          },
+          {
+            "name": "Brânzeturi locale",
+            "tip": "Căutați brânzeturi artizanale de oaie și capră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Embutidos de Soria",
+            "tip": "Buy local cured meats like chorizo and salchichón."
+          },
+          {
+            "name": "Local cheeses",
+            "tip": "Look for artisanal sheep and goat cheeses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Zentrum eine Herausforderung sein; nutzen Sie Tiefgaragen.",
+          "Achten Sie auf Einbahnstraßen in der Altstadt.",
+          "Mit dem Auto können Sie leicht nahegelegene Sehenswürdigkeiten wie die Laguna Negra oder den Cañón del Río Lobos besuchen.",
+          "Die Cluster-Strategie spart Zeit und Nerven bei der Parkplatzsuche."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a központban; használjon mélygarázsokat.",
+          "Vigyázzon az egyirányú utcákra az óvárosban.",
+          "Autóval könnyen meglátogathat közeli látnivalókat, mint a Laguna Negra vagy a Cañón del Río Lobos.",
+          "A csoportosítási stratégia időt és idegeket takarít meg a parkolóhely-keresésnél."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centru; folosiți parcările subterane.",
+          "Atenție la străzile cu sens unic din orașul vechi.",
+          "Cu mașina puteți vizita cu ușurință atracții din apropiere, cum ar fi Laguna Negra sau Canionul Río Lobos.",
+          "Strategia pe grupuri economisește timp și nervi în căutarea unui loc de parcare."
+        ],
+        "en": [
+          "Parking can be a challenge in the center; use underground garages.",
+          "Be aware of one-way streets in the old town.",
+          "A car allows you to easily visit nearby attractions like Laguna Negra or Cañón del Río Lobos.",
+          "The cluster strategy saves time and nerves when looking for parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Alameda de Cervantes",
+            "hu": "Alameda de Cervantes",
+            "ro": "Alameda de Cervantes",
+            "en": "Alameda de Cervantes"
+          },
+          "coords": [
+            -2.4725,
+            41.7681
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zu diesem zentralen Park, um den Tag zu beginnen.",
+            "hu": "Menjen busszal ehhez a központi parkhoz a nap kezdéséhez.",
+            "ro": "Luați un autobuz până la acest parc central pentru a începe ziua.",
+            "en": "Take a bus to this central park to start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Numantino",
+            "hu": "Numantino Múzeum",
+            "ro": "Muzeul Numantino",
+            "en": "Numantino Museum"
+          },
+          "coords": [
+            -2.4647,
+            41.7679
+          ],
+          "category": "museums",
+          "arrive_at": "09:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Park aus ist es ein kurzer Spaziergang zum Museum.",
+            "hu": "A parkból egy rövid séta vezet a múzeumhoz.",
+            "ro": "De la parc, este o scurtă plimbare până la muzeu.",
+            "en": "From the park, it's a short walk to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor & Palast",
+            "hu": "Főtér és Palota",
+            "ro": "Plaza Mayor și Palatul",
+            "en": "Main Square & Palace"
+          },
+          "coords": [
+            -2.4668,
+            41.7645
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und den nahegelegenen Palacio de los Condes de Gómara.",
+            "hu": "Fedezze fel a teret és a közeli Gómara grófi palotát.",
+            "ro": "Explorați piața și Palatul Conților de Gómara din apropiere.",
+            "en": "Explore the square and the nearby Palace of the Counts of Gómara."
+          }
+        },
+        {
+          "name": {
+            "de": "Konkathedrale San Pedro",
+            "hu": "Szent Péter-társszékesegyház",
+            "ro": "Concatedrala San Pedro",
+            "en": "Co-cathedral of San Pedro"
+          },
+          "coords": [
+            -2.4628,
+            41.7628
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen kurzen Bus, um zum Flussufer-Cluster zu gelangen.",
+            "hu": "Menjen egy rövid buszúttal a folyóparti csoporthoz.",
+            "ro": "Luați un autobuz scurt pentru a ajunge la grupul de pe malul râului.",
+            "en": "Take a short bus ride to get to the riverside cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Monasterio de San Juan de Duero",
+            "hu": "San Juan de Duero-kolostor",
+            "ro": "Mănăstirea San Juan de Duero",
+            "en": "Monastery of San Juan de Duero"
+          },
+          "coords": [
+            -2.4571,
+            41.7644
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:28",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang von der Konkathedrale entlang des Flusses.",
+            "hu": "Séta a társszékesegyháztól a folyó mentén.",
+            "ro": "O plimbare de la concatedrală de-a lungul râului.",
+            "en": "A walk from the co-cathedral along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei San Saturio",
+            "hu": "San Saturio remetelak",
+            "ro": "Schitul San Saturio",
+            "en": "Hermitage of San Saturio"
+          },
+          "coords": [
+            -2.4522,
+            41.7583
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:43",
+          "stay_min": 112,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Für den letzten Abschnitt können Sie einen Bus nehmen, der Sie näher an die Einsiedelei bringt.",
+            "hu": "Az utolsó szakaszra busszal is mehet, ami közelebb visz a remetelakhoz.",
+            "ro": "Pentru ultima secțiune, puteți lua un autobuz care vă va duce mai aproape de schit.",
+            "en": "For the final leg, you can take a bus that gets you closer to the hermitage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Park Alameda de Cervantes. Von dort aus bildet das historische Zentrum Ihr erstes Wandercluster, das das Museo Numantino und die Plaza Mayor umfasst. Nach Erkundung dieses Bereichs nehmen Sie einen Bus zum zweiten Cluster am Fluss Duero. Dort erwarten Sie die Konkathedrale, die ruhigen Bögen des Klosters San Juan und schließlich die malerische Ermita de San Saturio. Diese effiziente Kombination aus Busfahrten und Spaziergängen ermöglicht es Ihnen, die wichtigsten Sehenswürdigkeiten Sorias entspannt zu erleben.",
+        "hu": "Tömegközlekedéssel töltött napja az Alameda de Cervantes parkban kezdődik. Innen a történelmi központ alkotja az első gyalogos csoportot, amely a Numantino Múzeumot és a Plaza Mayort foglalja magában. Miután felfedezte ezt a területet, busszal utazik a második csoporthoz a Duero folyó mellett. Ott várja a társszékesegyház, a San Juan-kolostor csendes ívei és végül a festői San Saturio remetelak. A buszozás és a séták hatékony kombinációja lehetővé teszi, hogy Soria legfontosabb látnivalóit nyugodtan megtapasztalja.",
+        "ro": "Ziua dvs. cu transportul public începe în parcul Alameda de Cervantes. De acolo, centrul istoric formează primul dvs. grup de mers pe jos, cuprinzând Muzeul Numantino și Plaza Mayor. După ce explorați această zonă, luați un autobuz către al doilea grup de pe malul râului Duero. Acolo, vă așteaptă concatedrala, arcadele liniștite ale Mănăstirii San Juan și, în final, pitorescul Schit San Saturio. Această combinație eficientă de călătorii cu autobuzul și plimbări vă permite să experimentați relaxat principalele atracții ale Sorici.",
+        "en": "Your day using public transit begins in Alameda de Cervantes park. From there, the historic center forms your first walking cluster, encompassing the Numantino Museum and Plaza Mayor. After exploring this area, you take a bus to the second cluster by the Duero River. There, the co-cathedral, the tranquil arches of the Monastery of San Juan, and finally the picturesque Hermitage of San Saturio await. This efficient combination of bus rides and walks allows you to experience Soria's main attractions in a relaxed manner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas in der 'Herradores'-Straße",
+            "tip": "Eine Straße voller Bars, ideal für eine Tapas-Tour."
+          },
+          {
+            "name": "Sopa castellana",
+            "tip": "Eine herzhafte Knoblauchsuppe, perfekt für einen kühleren Tag."
+          },
+          {
+            "name": "Restaurante El Fogón del Salvador",
+            "tip": "Leicht erreichbar vom Zentrum, bekannt für traditionelle Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas a 'Herradores' utcában",
+            "tip": "Egy utca tele bárokkal, ideális egy tapas-túrához."
+          },
+          {
+            "name": "Sopa castellana",
+            "tip": "Egy kiadós fokhagymaleves, tökéletes egy hűvösebb napra."
+          },
+          {
+            "name": "Restaurante El Fogón del Salvador",
+            "tip": "Könnyen elérhető a központból, hagyományos ételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas pe strada 'Herradores'",
+            "tip": "O stradă plină de baruri, ideală pentru un tur de tapas."
+          },
+          {
+            "name": "Sopa castellana",
+            "tip": "O supă de usturoi consistentă, perfectă pentru o zi mai răcoroasă."
+          },
+          {
+            "name": "Restaurante El Fogón del Salvador",
+            "tip": "Ușor accesibil din centru, cunoscut pentru mâncărurile tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas on 'Herradores' street",
+            "tip": "A street full of bars, ideal for a tapas crawl."
+          },
+          {
+            "name": "Sopa castellana",
+            "tip": "A hearty garlic soup, perfect for a cooler day."
+          },
+          {
+            "name": "Restaurante El Fogón del Salvador",
+            "tip": "Easily accessible from the center, known for traditional dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof 'El Espino'",
+            "tip": "Ein ruhiger, poetischer Ort, an dem der Dichter Gustavo Adolfo Bécquer Inspiration fand.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang über die römische Brücke",
+            "tip": "Genießen Sie die Aussicht auf die Stadt von der alten Brücke über den Duero.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirche San Juan de Rabanera",
+            "tip": "Eine weitere wunderschöne romanische Kirche, die oft übersehen wird und daher sehr ruhig ist.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "'El Espino' temető",
+            "tip": "Csendes, költői hely, ahol Gustavo Adolfo Bécquer költő ihletet merített.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a római hídon",
+            "tip": "Élvezze a városra nyíló kilátást a Duero feletti régi hídról.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "San Juan de Rabanera-templom",
+            "tip": "Egy másik gyönyörű román kori templom, amelyet gyakran figyelmen kívül hagynak, ezért nagyon csendes.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul 'El Espino'",
+            "tip": "Un loc liniștit, poetic, unde poetul Gustavo Adolfo Bécquer a găsit inspirație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare peste podul roman",
+            "tip": "Bucurați-vă de priveliștea orașului de pe podul vechi peste Duero.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica San Juan de Rabanera",
+            "tip": "O altă biserică romanică frumoasă, adesea trecută cu vederea și, prin urmare, foarte liniștită.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "'El Espino' Cemetery",
+            "tip": "A quiet, poetic place where the poet Gustavo Adolfo Bécquer found inspiration.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk across the Roman bridge",
+            "tip": "Enjoy the view of the city from the old bridge over the Duero.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Church of San Juan de Rabanera",
+            "tip": "Another beautiful Romanesque church that is often overlooked and therefore very quiet.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Buchhandlungen",
+            "tip": "Soria ist eine Stadt der Dichter, stöbern Sie in den Buchhandlungen nach Werken von Machado oder Bécquer."
+          },
+          {
+            "name": "Costrada Soriana",
+            "tip": "Kaufen Sie diesen traditionellen Blätterteigkuchen in einer örtlichen Bäckerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könyvesboltok",
+            "tip": "Soria a költők városa, böngésszen a könyvesboltokban Machado vagy Bécquer művei után."
+          },
+          {
+            "name": "Costrada Soriana",
+            "tip": "Vásárolja meg ezt a hagyományos leveles tészta süteményt egy helyi pékségben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librării",
+            "tip": "Soria este un oraș al poeților, răsfoiți librăriile pentru operele lui Machado sau Bécquer."
+          },
+          {
+            "name": "Costrada Soriana",
+            "tip": "Cumpărați această prăjitură tradițională din foietaj de la o patiserie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bookstores",
+            "tip": "Soria is a city of poets, browse the bookstores for works by Machado or Bécquer."
+          },
+          {
+            "name": "Costrada Soriana",
+            "tip": "Buy this traditional puff pastry cake from a local bakery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Die Busfahrpläne können am Wochenende und an Feiertagen seltener sein.",
+          "Die meisten Buslinien fahren durch das Zentrum, was den Umstieg erleichtert.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu erhalten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "A buszmenetrend hétvégén és ünnepnapokon ritkább lehet.",
+          "A legtöbb buszjárat a központon halad át, ami megkönnyíti az átszállást.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Orarele autobuzelor pot fi mai puțin frecvente în weekend și de sărbători.",
+          "Majoritatea liniilor de autobuz trec prin centru, ceea ce facilitează transferurile.",
+          "Descărcați aplicația locală de transport public pentru orare în timp real."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making several trips.",
+          "Bus schedules may be less frequent on weekends and holidays.",
+          "Most bus lines run through the center, making transfers easy.",
+          "Download the local public transport app for real-time schedules."
+        ]
+      }
+    }
+  }
+}

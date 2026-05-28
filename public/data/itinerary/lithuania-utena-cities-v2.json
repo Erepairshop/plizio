@@ -1,0 +1,1484 @@
+{
+  "city_id": "lithuania-utena-cities-v2",
+  "anchor": {
+    "name": "Utena",
+    "coords": [
+      25.6,
+      55.5
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Utenio-Platz",
+            "hu": "Utenio tér",
+            "ro": "Piața Utenio",
+            "en": "Utenio Square"
+          },
+          "coords": [
+            25.601,
+            55.5
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee in einem der örtlichen Cafés.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik helyi kávézójában.",
+            "ro": "Începeți ziua aici cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day here with a coffee from one of the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Christi Himmelfahrt",
+            "hu": "Krisztus Mennybemenetele templom",
+            "ro": "Biserica Înălțarea Domnului",
+            "en": "Church of Christ's Ascension"
+          },
+          "coords": [
+            25.605,
+            55.502
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beachten Sie die neobarocken Architekturelemente und die ruhige Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a neobarokk építészeti elemeket és a benti csendes légkört.",
+            "ro": "Observați elementele arhitecturale neo-baroce și atmosfera liniștită din interior.",
+            "en": "Note the neo-baroque architectural elements and the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Poststation",
+            "hu": "Régi postahivatal",
+            "ro": "Vechea Stație Poștală",
+            "en": "Old Post Station"
+          },
+          "coords": [
+            25.598,
+            55.498
+          ],
+          "category": "historical",
+          "arrive_at": "10:39",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein klassizistisches Gebäudeensemble aus dem 19. Jahrhundert, das die Geschichte der Postrouten erzählt.",
+            "hu": "Egy 19. századi klasszicista épületegyüttes, amely a postai útvonalak történetét meséli el.",
+            "ro": "Un complex de clădiri clasiciste din secolul al XIX-lea care spune povestea rutelor poștale.",
+            "en": "A 19th-century classicist building complex that tells the story of postal routes."
+          }
+        },
+        {
+          "name": {
+            "de": "Utena-Heimatmuseum",
+            "hu": "Utenai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală din Utena",
+            "en": "Utena Local Lore Museum"
+          },
+          "coords": [
+            25.594,
+            55.505
+          ],
+          "category": "museums",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die archäologischen und ethnografischen Ausstellungen ein.",
+            "hu": "Szánjon elég időt a régészeti és néprajzi kiállításokra.",
+            "ro": "Planificați suficient timp pentru expozițiile arheologice și etnografice.",
+            "en": "Allow enough time for the archaeological and ethnographic exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            25.602,
+            55.501
+          ],
+          "category": "gastro",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Probieren Sie Cepelinai, die berühmten litauischen Kartoffelknödel.",
+            "hu": "Kóstolja meg a Cepelinai-t, a híres litván burgonyagombócot.",
+            "ro": "Încercați Cepelinai, faimoasele găluște lituaniene din cartofi.",
+            "en": "Try Cepelinai, the famous Lithuanian potato dumplings."
+          }
+        },
+        {
+          "name": {
+            "de": "Dauniškis-Seepark",
+            "hu": "Dauniškis-tó parkja",
+            "ro": "Parcul Lacului Dauniškis",
+            "en": "Dauniškis Lake Park"
+          },
+          "coords": [
+            25.615,
+            55.508
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:17",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang am Nachmittag. Halten Sie Ausschau nach dem leuchtenden Brunnen.",
+            "hu": "Tökéletes egy pihentető délutáni sétához. Keresse a világító szökőkutat.",
+            "ro": "Perfect pentru o plimbare relaxantă de după-amiază. Căutați fântâna iluminată.",
+            "en": "Perfect for a relaxing afternoon walk. Look for the illuminated fountain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am Utenio-Platz, dem Herzen der Stadt. Nach der Besichtigung der nahen Kirche Christi Himmelfahrt tauchen Sie in der Alten Poststation in die Verkehrsgeschichte ein. Am Mittag stärken Sie sich mit litauischen Spezialitäten, bevor Sie das umfassende Heimatmuseum erkunden. Den Abschluss bildet ein erholsamer Spaziergang durch den Dauniškis-Seepark, wo Sie die Ruhe am Wasser genießen. Ein Tag voller Kultur und Natur.",
+        "hu": "Sétáját az Utenio téren, a város szívében kezdje. A közeli Krisztus Mennybemenetele templom megtekintése után merüljön el a közlekedés történetében a Régi Postaállomáson. Délben litván specialitásokkal erősítse meg magát, mielőtt felfedezné a gazdag helytörténeti múzeumot. A napot egy pihentető séta zárja a Dauniškis-tó parkjában, ahol élvezheti a vízparti csendet. Egy nap tele kultúrával és természettel.",
+        "ro": "Începeți turul pietonal în Piața Utenio, inima orașului. După ce vizitați Biserica Înălțarea Domnului din apropiere, cufundați-vă în istoria transporturilor la Vechea Stație Poștală. La prânz, savurați specialități lituaniene înainte de a explora vastul muzeu de istorie locală. Încheiați ziua cu o plimbare relaxantă prin Parcul Lacului Dauniškis, unde vă puteți bucura de liniștea de lângă apă. O zi plină de cultură și natură.",
+        "en": "Start your walking tour at Utenio Square, the heart of the city. After visiting the nearby Church of Christ's Ascension, delve into transport history at the Old Post Station. At midday, refuel with Lithuanian specialties before exploring the comprehensive local lore museum. Conclude the day with a relaxing walk through Dauniškis Lake Park, enjoying the tranquility by the water. A day filled with culture and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cepelinai",
+            "tip": "Gefüllte Kartoffelknödel, ein Nationalgericht."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Kalte Rote-Bete-Suppe, perfekt für den Sommer."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Mit Fleisch gefüllte Teigtaschen, oft in Trakai zu finden, aber auch hier erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cepelinai",
+            "tip": "Töltött burgonyagombóc, nemzeti étel."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Hideg céklaleves, tökéletes nyáron."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Hússal töltött tészta, gyakran Trakai-ban található, de itt is kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cepelinai",
+            "tip": "Găluște de cartofi umplute, un fel de mâncare național."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Supă rece de sfeclă roșie, perfectă pentru vară."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Plăcinte umplute cu carne, găsite adesea în Trakai, dar disponibile și aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cepelinai",
+            "tip": "Stuffed potato dumplings, a national dish."
+          },
+          {
+            "name": "Šaltibarščiai",
+            "tip": "Cold beetroot soup, perfect for summer."
+          },
+          {
+            "name": "Kibinai",
+            "tip": "Pastries filled with meat, often found in Trakai but also available here."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Dauniškis-Sees",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof der Alten Poststation",
+            "tip": "Ein abgeschiedener Ort, um der Hektik der Stadt zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Seitenschiff der Kirche",
+            "tip": "Ein Moment der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dauniškis-tó partja",
+            "tip": "Keressen egy csendes padot, és nézze a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Régi Postaállomás udvara",
+            "tip": "Egy eldugott hely, ahol elmenekülhet a város nyüzsgése elől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A templom mellékhajója",
+            "tip": "A csend és az elmélkedés pillanata.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Dauniškis",
+            "tip": "Găsiți o bancă liniștită și priviți apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a Vechei Stații Poștale",
+            "tip": "Un loc retras pentru a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Nava laterală a bisericii",
+            "tip": "Un moment de liniște și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Dauniškis Lake",
+            "tip": "Find a quiet bench and watch the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the Old Post Station",
+            "tip": "A secluded spot to escape the city bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Side aisle of the church",
+            "tip": "A moment of silence and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie Leinenprodukte, für die Litauen bekannt ist."
+          },
+          {
+            "name": "Souvenirläden am Utenio-Platz",
+            "tip": "Finden Sie handgefertigten Bernsteinschmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon vászontermékeket, amelyekről Litvánia híres."
+          },
+          {
+            "name": "Ajándékboltok az Utenio téren",
+            "tip": "Keressen kézzel készített borostyán ékszereket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse din in, pentru care Lituania este renumită."
+          },
+          {
+            "name": "Magazine de suveniruri în Piața Utenio",
+            "tip": "Găsiți bijuterii de chihlimbar lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for linen products, which Lithuania is famous for."
+          },
+          {
+            "name": "Souvenir shops in Utenio Square",
+            "tip": "Find handcrafted amber jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages auf Kopfsteinpflaster unterwegs sein werden.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Halten Sie eine Kamera für die charmante Architektur bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében macskakövön fog sétálni.",
+          "A legtöbb belvárosi látnivaló könnyen elérhető gyalog.",
+          "Ellenőrizze előre a múzeum nyitvatartási idejét.",
+          "Készítsen elő egy fényképezőgépet a bájos építészet megörökítéséhez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe pavaj în cea mai mare parte a zilei.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Verificați în prealabil orele de funcționare ale muzeului.",
+          "Pregătiți o cameră pentru arhitectura fermecătoare."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking on cobblestones for most of the day.",
+          "Most sights in the city center are within easy walking distance.",
+          "Check the museum's opening hours in advance.",
+          "Keep a camera ready for the charming architecture."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Utenio-Platz",
+            "hu": "Utenio tér",
+            "ro": "Piața Utenio",
+            "en": "Utenio Square"
+          },
+          "coords": [
+            25.601,
+            55.5
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt Ihrer Radtour, ideal um das Fahrrad zu überprüfen.",
+            "hu": "A kerékpártúra kiindulópontja, ideális a kerékpár ellenőrzéséhez.",
+            "ro": "Punctul de plecare al turului dvs. cu bicicleta, ideal pentru a vă verifica bicicleta.",
+            "en": "The starting point of your bike tour, ideal for checking your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Christi Himmelfahrt",
+            "hu": "Krisztus Mennybemenetele templom",
+            "ro": "Biserica Înălțarea Domnului",
+            "en": "Church of Christ's Ascension"
+          },
+          "coords": [
+            25.605,
+            55.502
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a templomba.",
+            "ro": "Încuiați-vă bicicleta în siguranță înainte de a intra în biserică.",
+            "en": "Lock your bike securely before entering the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Utena-Kulturzentrum",
+            "hu": "Utenai Kulturális Központ",
+            "ro": "Centrul Cultural Utena",
+            "en": "Utena Cultural Centre"
+          },
+          "coords": [
+            25.608,
+            55.497
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:09",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über aktuelle Veranstaltungen oder Ausstellungen.",
+            "hu": "Érdeklődjön az aktuális eseményekről vagy kiállításokról.",
+            "ro": "Verificați evenimentele sau expozițiile curente.",
+            "en": "Check for any current events or exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Dauniškis-Seepark",
+            "hu": "Dauniškis-tó parkja",
+            "ro": "Parcul Lacului Dauniškis",
+            "en": "Dauniškis Lake Park"
+          },
+          "coords": [
+            25.615,
+            55.508
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:41",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine gemütliche Radtour um den See.",
+            "hu": "Élvezze a kellemes kerékpártúrát a tó körül.",
+            "ro": "Bucurați-vă de o plimbare pe îndelete cu bicicleta în jurul lacului.",
+            "en": "Enjoy a leisurely bike ride around the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Utena-Heimatmuseum",
+            "hu": "Utenai Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală din Utena",
+            "en": "Utena Local Lore Museum"
+          },
+          "coords": [
+            25.594,
+            55.505
+          ],
+          "category": "museums",
+          "arrive_at": "11:53",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte, gute Parkmöglichkeiten für Fahrräder.",
+            "hu": "A történelem iránt érdeklődőknek kötelező, jó parkolási lehetőséggel a kerékpárok számára.",
+            "ro": "O necesitate pentru pasionații de istorie, parcare bună pentru biciclete.",
+            "en": "A must-visit for history buffs, good parking available for bikes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mokas-Stein",
+            "hu": "Mokas-kő",
+            "ro": "Piatra Mokas",
+            "en": "Mokas Stone"
+          },
+          "coords": [
+            25.56,
+            55.48
+          ],
+          "category": "natural features",
+          "arrive_at": "13:51",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein legendärer Findling. Die Radtour dorthin führt durch eine malerische Landschaft.",
+            "hu": "Egy legendás vándorkő. Az odavezető kerékpárút festői tájon visz keresztül.",
+            "ro": "Un bolovan legendar. Plimbarea cu bicicleta până acolo vă duce printr-un peisaj pitoresc.",
+            "en": "A legendary boulder. The bike ride to it takes you through scenic landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum & Abendessen",
+            "hu": "Vissza a központba és vacsora",
+            "ro": "Întoarcere în centru și cină",
+            "en": "Return to center & Dinner"
+          },
+          "coords": [
+            25.602,
+            55.501
+          ],
+          "category": "gastro",
+          "arrive_at": "16:01",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich nach der Radtour mit einem herzhaften litauischen Abendessen.",
+            "hu": "Jutalmazza meg magát egy kiadós litván vacsorával a kerékpártúra után.",
+            "ro": "Recompensați-vă cu o cină lituaniană copioasă după turul cu bicicleta.",
+            "en": "Reward yourself with a hearty Lithuanian dinner after the bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Utenio-Platz. Nach kurzen Stopps an der Kirche und dem Kulturzentrum radeln Sie zum Dauniškis-See für eine entspannte Runde. Das Heimatmuseum bietet eine willkommene Pause und kulturellen Input. Am Nachmittag führt Sie eine längere Tour zum sagenumwobenen Mokas-Stein durch die litauische Landschaft. Nach der Rückkehr ins Zentrum haben Sie sich ein deftiges Abendessen verdient.",
+        "hu": "Pattanjon kerékpárra és induljon az Utenio térről. A templomnál és a kulturális központnál tett rövid megállók után tekerjen el a Dauniškis-tóhoz egy pihentető körre. A helytörténeti múzeum kellemes pihenőt és kulturális feltöltődést kínál. Délután egy hosszabb túra vezet a legendás Mokas-kőhöz a litván tájon keresztül. A központba való visszatérés után megérdemel egy kiadós vacsorát.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Utenio. După scurte opriri la biserică și centrul cultural, pedalați spre Lacul Dauniškis pentru un tur relaxant. Muzeul de istorie locală oferă o pauză binevenită și o contribuție culturală. După-amiaza, un tur mai lung vă duce la legendara Piatră Mokas prin peisajul lituanian. La întoarcerea în centru, ați meritat o cină copioasă.",
+        "en": "Hop on your bike and start at Utenio Square. After brief stops at the church and cultural center, cycle to Dauniškis Lake for a relaxing loop. The local lore museum offers a welcome break and cultural input. In the afternoon, a longer tour takes you to the legendary Mokas Stone through the Lithuanian countryside. After returning to the center, you've earned a hearty dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gira",
+            "tip": "Ein traditionelles fermentiertes Getränk aus Roggenbrot, sehr erfrischend."
+          },
+          {
+            "name": "Kepta Duona",
+            "tip": "Gebratenes Knoblauchbrot, ein beliebter Snack zum Bier."
+          },
+          {
+            "name": "Vietinis Alus",
+            "tip": "Probieren Sie ein lokales Bier, Utena ist für seine Brauerei bekannt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gira",
+            "tip": "Hagyományos, erjesztett rozskenyérből készült ital, nagyon frissítő."
+          },
+          {
+            "name": "Kepta Duona",
+            "tip": "Sült fokhagymás kenyér, népszerű sörkorcsolya."
+          },
+          {
+            "name": "Vietinis Alus",
+            "tip": "Kóstoljon meg egy helyi sört, Utena híres a sörfőzdéjéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gira",
+            "tip": "O băutură tradițională fermentată din pâine de secară, foarte răcoritoare."
+          },
+          {
+            "name": "Kepta Duona",
+            "tip": "Pâine prăjită cu usturoi, o gustare populară la bere."
+          },
+          {
+            "name": "Vietinis Alus",
+            "tip": "Încercați o bere locală, Utena este renumită pentru fabrica sa de bere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gira",
+            "tip": "A traditional fermented drink made from rye bread, very refreshing."
+          },
+          {
+            "name": "Kepta Duona",
+            "tip": "Fried garlic bread, a popular beer snack."
+          },
+          {
+            "name": "Vietinis Alus",
+            "tip": "Try a local beer, Utena is known for its brewery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weg zum Mokas-Stein",
+            "tip": "Genießen Sie die Stille der ländlichen Wege.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Am Ufer des Dauniškis-Sees",
+            "tip": "Eine Pause auf der Radtour mit Blick aufs Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang über dem See",
+            "tip": "Wenn Sie länger bleiben, ein wunderschöner Anblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Út a Mokas-kőhöz",
+            "tip": "Élvezze a vidéki utak csendjét.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Dauniškis-tó partján",
+            "tip": "Pihenő a kerékpártúrán, kilátással a vízre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a tó felett",
+            "tip": "Ha tovább marad, gyönyörű látvány.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul spre Piatra Mokas",
+            "tip": "Bucurați-vă de liniștea drumurilor rurale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pe malul lacului Dauniškis",
+            "tip": "O pauză în turul cu bicicleta cu vedere la apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare peste lac",
+            "tip": "Dacă stați mai mult, o priveliște frumoasă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Path to Mokas Stone",
+            "tip": "Enjoy the silence of the country roads.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "On the shore of Dauniškis Lake",
+            "tip": "A break on the bike tour with a view of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset over the lake",
+            "tip": "If you stay longer, a beautiful sight.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen",
+            "tip": "Für eventuelle Reparaturen oder Zubehör."
+          },
+          {
+            "name": "Hofläden auf dem Land",
+            "tip": "Halten Sie Ausschau nach lokalen Produkten wie Honig oder Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Esetleges javításokhoz vagy kiegészítőkhöz."
+          },
+          {
+            "name": "Tanyasi boltok vidéken",
+            "tip": "Keresse a helyi termékeket, mint a méz vagy a sajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru eventuale reparații sau accesorii."
+          },
+          {
+            "name": "Magazine de la fermă la țară",
+            "tip": "Căutați produse locale precum miere sau brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "For any potential repairs or accessories."
+          },
+          {
+            "name": "Farm shops in the countryside",
+            "tip": "Look for local products like honey or cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nehmen Sie eine Flasche Wasser und einen kleinen Snack mit.",
+          "Einige Wege außerhalb der Stadt sind möglicherweise nicht asphaltiert.",
+          "Benutzen Sie ein gutes Schloss, um Ihr Fahrrad an den Haltepunkten zu sichern."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Vigyen magával egy üveg vizet és egy kis harapnivalót.",
+          "Néhány városon kívüli út lehet, hogy nem aszfaltozott.",
+          "Használjon jó lakatot a kerékpár lezárásához a megállóknál."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Luați cu voi o sticlă de apă și o mică gustare.",
+          "Unele drumuri din afara orașului s-ar putea să nu fie asfaltate.",
+          "Folosiți o încuietoare bună pentru a vă asigura bicicleta la opriri."
+        ],
+        "en": [
+          "Check your tire pressure before leaving.",
+          "Bring a bottle of water and a small snack.",
+          "Some roads outside the city may not be paved.",
+          "Use a good lock to secure your bike at stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 28.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Herrenhaus Vyžuonai & Mokas-Stein",
+            "hu": "1. klaszter: Vyžuonai kastély és Mokas-kő",
+            "ro": "Cluster 1: Conacul Vyžuonai și Piatra Mokas",
+            "en": "Cluster 1: Vyžuonai Manor & Mokas Stone"
+          },
+          "coords": [
+            25.503,
+            55.584
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Herrenhaus und erkunden Sie die Anlage. Der Stein ist oft nur einen kurzen Spaziergang entfernt.",
+            "hu": "Parkoljon a kastélynál és fedezze fel a területet. A kő gyakran csak egy rövid sétára van.",
+            "ro": "Parcați la conac și explorați terenurile. Piatra este adesea la o scurtă plimbare.",
+            "en": "Park at the manor and explore the grounds. The stone is often a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Mokas-Stein (im Cluster)",
+            "hu": "Mokas-kő (a klaszterben)",
+            "ro": "Piatra Mokas (în cluster)",
+            "en": "Mokas Stone (in cluster)"
+          },
+          "coords": [
+            25.56,
+            55.48
+          ],
+          "category": "natural features",
+          "arrive_at": "10:50",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Herrenhaus, um den legendären Felsen zu sehen.",
+            "hu": "Rövid séta a kastélytól a legendás szikla megtekintéséhez.",
+            "ro": "O scurtă plimbare de la conac pentru a vedea stânca legendară.",
+            "en": "A short walk from the manor to see the legendary rock."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Zentrum Utena (Parken & Mittagessen)",
+            "hu": "2. klaszter: Utena központ (parkolás és ebéd)",
+            "ro": "Cluster 2: Centrul Utena (parcare și prânz)",
+            "en": "Cluster 2: Utena Center (Parking & Lunch)"
+          },
+          "coords": [
+            25.601,
+            55.5
+          ],
+          "category": "gastro",
+          "arrive_at": "11:51",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 17.0,
+          "tip_5lang": {
+            "de": "Finden Sie einen zentralen Parkplatz und genießen Sie ein Mittagessen, bevor Sie den Stadtkern erkunden.",
+            "hu": "Keressen egy központi parkolót és ebédeljen, mielőtt felfedezné a városközpontot.",
+            "ro": "Găsiți o parcare centrală și bucurați-vă de prânz înainte de a explora centrul orașului.",
+            "en": "Find a central parking spot and enjoy lunch before exploring the city core."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Poststation (im Cluster)",
+            "hu": "Régi postahivatal (a klaszterben)",
+            "ro": "Vechea Stație Poștală (în cluster)",
+            "en": "Old Post Station (in cluster)"
+          },
+          "coords": [
+            25.598,
+            55.498
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten vom Hauptplatz entfernt.",
+            "hu": "Csak néhány perc sétára a főtértől.",
+            "ro": "La doar câteva minute de mers pe jos de piața principală.",
+            "en": "Just a few minutes' walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Christi Himmelfahrt (im Cluster)",
+            "hu": "Krisztus Mennybemenetele templom (a klaszterben)",
+            "ro": "Biserica Înălțarea Domnului (în cluster)",
+            "en": "Church of Christ's Ascension (in cluster)"
+          },
+          "coords": [
+            25.605,
+            55.502
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:13",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang über den Utenio-Platz führt Sie direkt zur Kirche.",
+            "hu": "Egy szép séta az Utenio téren keresztül egyenesen a templomhoz vezet.",
+            "ro": "O plimbare frumoasă prin Piața Utenio vă duce direct la biserică.",
+            "en": "A beautiful walk across Utenio Square leads you right to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Dauniškis-Seepark & Museum",
+            "hu": "3. klaszter: Dauniškis-tó parkja és Múzeum",
+            "ro": "Cluster 3: Parcul Lacului Dauniškis și Muzeul",
+            "en": "Cluster 3: Dauniškis Lake Park & Museum"
+          },
+          "coords": [
+            25.615,
+            55.508
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:51",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Sees für einen entspannten Spaziergang.",
+            "hu": "Parkoljon a tó közelében egy pihentető sétához.",
+            "ro": "Parcați lângă lac pentru o plimbare relaxantă.",
+            "en": "Park near the lake for a relaxing walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Utena-Heimatmuseum (im Cluster)",
+            "hu": "Utenai Helytörténeti Múzeum (a klaszterben)",
+            "ro": "Muzeul de Istorie Locală din Utena (în cluster)",
+            "en": "Utena Local Lore Museum (in cluster)"
+          },
+          "coords": [
+            25.594,
+            55.505
+          ],
+          "arrive_at": "16:16",
+          "stay_min": 75,
+          "category": "museums",
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Museum liegt in Gehweite vom Park und rundet den Kulturtag ab.",
+            "hu": "A múzeum sétatávolságra van a parktól, és lezárja a kulturális napot.",
+            "ro": "Muzeul este la câțiva pași de parc și încheie ziua culturală.",
+            "en": "The museum is within walking distance of the park, rounding off the cultural day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag mit dem Auto bei den ländlichen Juwelen, dem Herrenhaus Vyžuonai und dem Mokas-Stein. Nach diesem Ausflug in die Natur fahren Sie ins Zentrum von Utena. Parken Sie dort Ihr Auto und erkunden Sie zu Fuß die Alte Poststation und die Kirche nach einem stärkenden Mittagessen. Am Nachmittag fahren Sie zum Dauniškis-See, parken erneut und genießen den Park und das nahegelegene Heimatmuseum zu Fuß. Dieser Tag kombiniert die Flexibilität des Autos mit entspannten Spaziergängen.",
+        "hu": "Kezdje a napot autóval a vidéki ékszereknél, a Vyžuonai kastélynál és a Mokas-kőnél. A természetben tett kirándulás után hajtson be Utena központjába. Parkolja le autóját, és egy kiadós ebéd után gyalog fedezze fel a Régi Postaállomást és a templomot. Délután hajtson a Dauniškis-tóhoz, parkoljon le újra, és élvezze a parkot és a közeli helytörténeti múzeumot gyalog. Ez a nap ötvözi az autó rugalmasságát a pihentető sétákkal.",
+        "ro": "Începeți ziua cu mașina la bijuteriile rurale, Conacul Vyžuonai și Piatra Mokas. După această incursiune în natură, conduceți spre centrul orașului Utena. Parcați mașina acolo și explorați pe jos Vechea Stație Poștală și biserica după un prânz copios. După-amiaza, conduceți spre Lacul Dauniškis, parcați din nou și bucurați-vă de parc și de muzeul de istorie locală din apropiere, pe jos. Această zi combină flexibilitatea mașinii cu plimbări relaxante.",
+        "en": "Start your day by car at the rural gems, Vyžuonai Manor and the Mokas Stone. After this nature excursion, drive to the center of Utena. Park your car there and explore the Old Post Station and the church on foot after a hearty lunch. In the afternoon, drive to Dauniškis Lake, park again, and enjoy the park and the nearby local lore museum on foot. This day combines the flexibility of the car with relaxed walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Landgasthof",
+            "tip": "Suchen Sie nach einem Restaurant außerhalb der Stadt für authentische, ländliche Küche."
+          },
+          {
+            "name": "Cepelinai",
+            "tip": "Ein Muss in jedem litauischen Restaurant."
+          },
+          {
+            "name": "Šakotis",
+            "tip": "Ein traditioneller Baumkuchen, den Sie als Souvenir kaufen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki vendéglő",
+            "tip": "Keressen egy városon kívüli éttermet az autentikus, vidéki konyha érdekében."
+          },
+          {
+            "name": "Cepelinai",
+            "tip": "Minden litván étteremben kötelező."
+          },
+          {
+            "name": "Šakotis",
+            "tip": "Hagyományos kürtőskalács, amelyet ajándékba is megvásárolhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Han rustic",
+            "tip": "Căutați un restaurant în afara orașului pentru o bucătărie rurală autentică."
+          },
+          {
+            "name": "Cepelinai",
+            "tip": "O necesitate în orice restaurant lituanian."
+          },
+          {
+            "name": "Šakotis",
+            "tip": "Un tort tradițional pe băț pe care îl puteți cumpăra ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Country Inn",
+            "tip": "Look for a restaurant outside the city for authentic, rural cuisine."
+          },
+          {
+            "name": "Cepelinai",
+            "tip": "A must-try in any Lithuanian restaurant."
+          },
+          {
+            "name": "Šakotis",
+            "tip": "A traditional tree cake you can buy as a souvenir."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Herrenhaus Vyžuonai",
+            "tip": "Die Gärten des Herrenhauses sind oft sehr friedlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang um den Mokas-Stein",
+            "tip": "Die umgebende Natur ist ruhig und unberührt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eine Bank im Dauniškis-Seepark",
+            "tip": "Der perfekte Ort, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vyžuonai kastély",
+            "tip": "A kastély kertjei gyakran nagyon békések.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a Mokas-kő körül",
+            "tip": "A környező természet csendes és érintetlen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy pad a Dauniškis-tó parkjában",
+            "tip": "Tökéletes hely a nap lezárásához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Conacul Vyžuonai",
+            "tip": "Grădinile conacului sunt adesea foarte pașnice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare în jurul Pietrei Mokas",
+            "tip": "Natura înconjurătoare este liniștită și neatinsă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O bancă în Parcul Lacului Dauniškis",
+            "tip": "Locul perfect pentru a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vyžuonai Manor",
+            "tip": "The manor's gardens are often very peaceful.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk around Mokas Stone",
+            "tip": "The surrounding nature is quiet and untouched.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A bench in Dauniškis Lake Park",
+            "tip": "The perfect place to end the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt am Stadtrand",
+            "tip": "Decken Sie sich mit lokalen Snacks für die Autofahrt ein."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Finden Sie Bücher über die lokale Geschichte oder Repliken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarket a város szélén",
+            "tip": "Töltse fel magát helyi rágcsálnivalókkal az útra."
+          },
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Keressen könyveket a helyi történelemről vagy másolatokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket la periferia orașului",
+            "tip": "Aprovizionați-vă cu gustări locale pentru călătoria cu mașina."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Găsiți cărți despre istoria locală sau replici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarket on the outskirts",
+            "tip": "Stock up on local snacks for the car ride."
+          },
+          {
+            "name": "Museum Shop",
+            "tip": "Find books about local history or replicas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um die besten Routen und Parkplätze zu finden.",
+          "In Litauen ist tagsüber Abblendlicht Pflicht.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen, besonders in ländlichen Gebieten.",
+          "Nehmen Sie Kleingeld für Parkautomaten mit."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a legjobb útvonalak és parkolóhelyek megtalálásához.",
+          "Litvániában nappal is kötelező a tompított fényszóró.",
+          "Figyeljen a sebességkorlátozásokra, különösen vidéki területeken.",
+          "Vigyen magával aprópénzt a parkolóautomatákhoz."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație pentru a găsi cele mai bune rute și locuri de parcare.",
+          "În Lituania, faza scurtă este obligatorie în timpul zilei.",
+          "Fiți atenți la limitele de viteză, în special în zonele rurale.",
+          "Luați cu voi monede pentru automatele de parcare."
+        ],
+        "en": [
+          "Use a navigation app to find the best routes and parking spots.",
+          "Daytime running lights are mandatory in Lithuania.",
+          "Pay attention to speed limits, especially in rural areas.",
+          "Bring coins for parking meters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Zentrum (Ankunft & Erkundung)",
+            "hu": "1. klaszter: Központ (érkezés és felfedezés)",
+            "ro": "Cluster 1: Centru (sosire și explorare)",
+            "en": "Cluster 1: Center (Arrival & Exploration)"
+          },
+          "coords": [
+            25.601,
+            55.5
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am Utenio-Platz, der von vielen Buslinien angefahren wird.",
+            "hu": "Kezdje az Utenio téren, amelyet számos buszjárat érint.",
+            "ro": "Începeți din Piața Utenio, deservită de multe linii de autobuz.",
+            "en": "Start at Utenio Square, served by many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Christi Himmelfahrt (im Cluster)",
+            "hu": "Krisztus Mennybemenetele templom (a klaszterben)",
+            "ro": "Biserica Înălțarea Domnului (în cluster)",
+            "en": "Church of Christ's Ascension (in cluster)"
+          },
+          "coords": [
+            25.605,
+            55.502
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus.",
+            "hu": "Rövid séta a tértől.",
+            "ro": "O scurtă plimbare din piață.",
+            "en": "A short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Poststation (im Cluster)",
+            "hu": "Régi postahivatal (a klaszterben)",
+            "ro": "Vechea Stație Poștală (în cluster)",
+            "en": "Old Post Station (in cluster)"
+          },
+          "coords": [
+            25.598,
+            55.498
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses historische Ensemble, bevor Sie zu Mittag essen.",
+            "hu": "Fedezze fel ezt a történelmi együttest ebéd előtt.",
+            "ro": "Descoperiți acest ansamblu istoric înainte de a lua prânzul.",
+            "en": "Discover this historic ensemble before having lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            25.602,
+            55.501
+          ],
+          "category": "gastro",
+          "arrive_at": "11:33",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stärken Sie sich für den zweiten Teil des Tages.",
+            "hu": "Erősítse meg magát a nap második felére.",
+            "ro": "Întăriți-vă pentru a doua parte a zilei.",
+            "en": "Strengthen yourself for the second part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Seepark & Museum (Busfahrt)",
+            "hu": "2. klaszter: Tóparti park és Múzeum (buszozás)",
+            "ro": "Cluster 2: Parcul Lacului și Muzeul (călătorie cu autobuzul)",
+            "en": "Cluster 2: Lake Park & Museum (Bus Ride)"
+          },
+          "coords": [
+            25.615,
+            55.508
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:21",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Dauniškis-See. Die Haltestelle ist in der Nähe.",
+            "hu": "Menjen helyi busszal a Dauniškis-tóhoz. A megálló a közelben van.",
+            "ro": "Luați un autobuz local spre Lacul Dauniškis. Stația este în apropiere.",
+            "en": "Take a local bus to Dauniškis Lake. The stop is nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Utena-Heimatmuseum (im Cluster)",
+            "hu": "Utenai Helytörténeti Múzeum (a klaszterben)",
+            "ro": "Muzeul de Istorie Locală din Utena (în cluster)",
+            "en": "Utena Local Lore Museum (in cluster)"
+          },
+          "coords": [
+            25.594,
+            55.505
+          ],
+          "category": "museums",
+          "arrive_at": "15:06",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom See zum Museum rundet Ihren Besuch in diesem Viertel ab.",
+            "hu": "Egy kellemes séta a tótól a múzeumig teszi teljessé a látogatást ebben a negyedben.",
+            "ro": "O plimbare plăcută de la lac la muzeu completează vizita în acest cartier.",
+            "en": "A pleasant walk from the lake to the museum completes your visit to this district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Utena, dem Utenio-Platz. Erkunden Sie von hier aus zu Fuß die Kirche und die Alte Poststation. Nach dem Mittagessen bringt Sie ein kurzer Bus-Hop zum zweiten Cluster des Tages: dem Dauniškis-Seepark. Genießen Sie die Natur, bevor Sie einen Spaziergang zum nahegelegenen Heimatmuseum machen, das tiefere Einblicke in die Region bietet. Dieser Plan nutzt öffentliche Verkehrsmittel, um zwei verschiedene Bereiche der Stadt bequem zu verbinden.",
+        "hu": "A nap Utena szívében, az Utenio téren kezdődik. Innen gyalog fedezze fel a templomot és a Régi Postaállomást. Ebéd után egy rövid buszozás elviszi a nap második klaszteréhez: a Dauniškis-tó parkjához. Élvezze a természetet, mielőtt sétát tesz a közeli helytörténeti múzeumba, amely mélyebb betekintést nyújt a régióba. Ez a terv a tömegközlekedést használja a város két különböző területének kényelmes összekötésére.",
+        "ro": "Ziua dvs. începe în inima orașului Utena, Piața Utenio. De aici, explorați pe jos biserica și Vechea Stație Poștală. După prânz, o scurtă călătorie cu autobuzul vă duce la al doilea cluster al zilei: Parcul Lacului Dauniškis. Bucurați-vă de natură înainte de a face o plimbare la muzeul de istorie locală din apropiere, care oferă o perspectivă mai profundă asupra regiunii. Acest plan utilizează transportul public pentru a conecta convenabil două zone diferite ale orașului.",
+        "en": "Your day begins in the heart of Utena, Utenio Square. From here, explore the church and the Old Post Station on foot. After lunch, a short bus hop takes you to the second cluster of the day: Dauniškis Lake Park. Enjoy nature before taking a walk to the nearby local lore museum, which offers deeper insights into the region. This plan uses public transport to conveniently connect two different areas of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kavinė (Café)",
+            "tip": "Perfekt für eine kurze Pause zwischen den Busfahrten."
+          },
+          {
+            "name": "Blynai",
+            "tip": "Litauische Pfannkuchen, süß oder herzhaft."
+          },
+          {
+            "name": "Bandelių parduotuvė (Bäckerei)",
+            "tip": "Holen Sie sich ein Gebäck für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kavinė (Kávézó)",
+            "tip": "Tökéletes egy rövid szünetre a buszozások között."
+          },
+          {
+            "name": "Blynai",
+            "tip": "Litván palacsinta, édesen vagy sósan."
+          },
+          {
+            "name": "Bandelių parduotuvė (Pékség)",
+            "tip": "Vegyen egy péksüteményt útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kavinė (Cafenea)",
+            "tip": "Perfect pentru o scurtă pauză între călătoriile cu autobuzul."
+          },
+          {
+            "name": "Blynai",
+            "tip": "Clătite lituaniene, dulci sau sărate."
+          },
+          {
+            "name": "Bandelių parduotuvė (Brutărie)",
+            "tip": "Luați un produs de patiserie pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kavinė (Café)",
+            "tip": "Perfect for a short break between bus rides."
+          },
+          {
+            "name": "Blynai",
+            "tip": "Lithuanian pancakes, sweet or savory."
+          },
+          {
+            "name": "Bandelių parduotuvė (Bakery)",
+            "tip": "Grab a pastry for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Vororte",
+            "tip": "Beobachten Sie das alltägliche Leben aus dem Fenster.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Abgelegener Teil des Seeparks",
+            "tip": "Entfliehen Sie den Hauptwegen und finden Sie einen ruhigen Ort.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Leseecke im Museum",
+            "tip": "Einige Museen haben ruhige Bereiche zum Verweilen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a külvároson keresztül",
+            "tip": "Figyelje a mindennapi életet az ablakon keresztül.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A tóparti park eldugott része",
+            "tip": "Meneküljön el a fő utaktól, és keressen egy csendes helyet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Olvasósarok a múzeumban",
+            "tip": "Néhány múzeumban vannak csendes részek, ahol elidőzhet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul prin suburbii",
+            "tip": "Urmăriți viața de zi cu zi pe fereastră.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Partea izolată a parcului lacului",
+            "tip": "Evadați de pe cărările principale și găsiți un loc liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colțul de lectură din muzeu",
+            "tip": "Unele muzee au zone liniștite pentru a zăbovi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the suburbs",
+            "tip": "Watch everyday life from the window.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Secluded part of the lake park",
+            "tip": "Escape the main paths and find a quiet spot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reading corner in the museum",
+            "tip": "Some museums have quiet areas to linger.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk an der Bushaltestelle",
+            "tip": "Kaufen Sie ein Ticket oder eine Zeitschrift."
+          },
+          {
+            "name": "Geschäfte in der Nähe des Zentrums",
+            "tip": "Stöbern Sie nach lokalen Handwerksprodukten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszmegállóban",
+            "tip": "Vegyél egy jegyet vagy egy magazint."
+          },
+          {
+            "name": "Boltok a központ közelében",
+            "tip": "Böngésszen a helyi kézműves termékek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la stația de autobuz",
+            "tip": "Cumpărați un bilet sau o revistă."
+          },
+          {
+            "name": "Magazine lângă centru",
+            "tip": "Răsfoiți produsele de artizanat locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus stop",
+            "tip": "Buy a ticket or a magazine."
+          },
+          {
+            "name": "Shops near the center",
+            "tip": "Browse for local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Haben Sie den Busfahrplan zur Hand oder nutzen Sie eine App.",
+          "Geben Sie dem Fahrer ein Zeichen, wenn Sie an Ihrer Haltestelle aussteigen möchten.",
+          "Die Busse können zu Stoßzeiten voll sein, planen Sie entsprechend."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Legyen kéznél a buszmenetrend, vagy használjon egy alkalmazást.",
+          "Jelezzen a sofőrnek, ha le akar szállni a megállójában.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Aveți la îndemână orarul autobuzelor sau folosiți o aplicație.",
+          "Semnalizați șoferului când doriți să coborâți la stația dvs.",
+          "Autobuzele pot fi aglomerate la orele de vârf, planificați în consecință."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan multiple trips.",
+          "Have the bus schedule handy or use an app.",
+          "Signal the driver when you want to get off at your stop.",
+          "Buses can be crowded during peak hours, plan accordingly."
+        ]
+      }
+    }
+  }
+}

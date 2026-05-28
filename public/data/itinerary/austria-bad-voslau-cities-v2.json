@@ -1,0 +1,1484 @@
+{
+  "city_id": "austria-bad-voslau-cities-v2",
+  "anchor": {
+    "name": "Bad Vöslau",
+    "coords": [
+      16.2197,
+      47.9658
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pfarrkirche St. Jakob",
+            "hu": "Szent Jakab plébániatemplom",
+            "ro": "Biserica parohială Sf. Iacob",
+            "en": "Parish Church of St. Jacob"
+          },
+          "coords": [
+            16.2139,
+            47.9655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beachten Sie die barocken Deckenfresken und den ruhigen Innenhof.",
+            "hu": "Figyelje meg a barokk mennyezetfreskókat és a csendes belső udvart.",
+            "ro": "Observați frescele baroce de pe tavan și curtea interioară liniștită.",
+            "en": "Note the baroque ceiling frescoes and the quiet inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Vöslau",
+            "hu": "Vöslaui kastély",
+            "ro": "Castelul Vöslau",
+            "en": "Vöslau Castle"
+          },
+          "coords": [
+            16.2125,
+            47.9662
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:56",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Schloss ist heute ein Rathaus, aber der umliegende Park ist ideal für einen Spaziergang.",
+            "hu": "A kastély ma városháza, de a környező park ideális egy sétához.",
+            "ro": "Castelul este acum primărie, dar parcul înconjurător este ideal pentru o plimbare.",
+            "en": "The castle is now a town hall, but the surrounding park is ideal for a stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Kursalon und Kurpark",
+            "hu": "Kursalon és gyógypark",
+            "ro": "Kursalon și parcul balnear",
+            "en": "Kursalon and Spa Park"
+          },
+          "coords": [
+            16.2163,
+            47.9641
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:04",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um das berühmte Vöslauer Mineralwasser direkt von der Quelle zu probieren.",
+            "hu": "Szép hely, hogy megkóstolja a híres Vöslauer ásványvizet egyenesen a forrásból.",
+            "ro": "Un loc frumos pentru a gusta faimoasa apă minerală Vöslauer direct de la izvor.",
+            "en": "A beautiful spot to taste the famous Vöslauer mineral water straight from the source."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbad Bad Vöslau",
+            "hu": "Bad Vöslau termálfürdő",
+            "ro": "Ștrandul termal Bad Vöslau",
+            "en": "Thermal Bath Bad Vöslau"
+          },
+          "coords": [
+            16.2151,
+            47.9628
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bringen Sie Zeit mit! Das historische Bad und die grünen Liegewiesen sind eine Oase.",
+            "hu": "Szánjon rá időt! A történelmi fürdő és a zöld pázsit egy oázis.",
+            "ro": "Luați-vă timp! Baia istorică și pajiștile verzi sunt o oază.",
+            "en": "Bring time! The historic bath and green lawns are an oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlumberger Sektkeller",
+            "hu": "Schlumberger pezsgőpincék",
+            "ro": "Cramele Schlumberger Sekt",
+            "en": "Schlumberger Sparkling Wine Cellars"
+          },
+          "coords": [
+            16.2255,
+            47.971
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:46",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 46,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Führung im Voraus, um die beeindruckenden Keller zu sehen und zu verkosten.",
+            "hu": "Foglaljon előre vezetett túrát, hogy megnézze a lenyűgöző pincéket és kóstoljon.",
+            "ro": "Rezervați un tur în avans pentru a vedea pivnițele impresionante și pentru o degustare.",
+            "en": "Book a tour in advance to see the impressive cellars and have a tasting."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen bei einem Heurigen",
+            "hu": "Vacsora egy Heurigerben",
+            "ro": "Cină la un Heuriger",
+            "en": "Dinner at a Heuriger"
+          },
+          "coords": [
+            16.21,
+            47.968
+          ],
+          "category": "gastro",
+          "arrive_at": "17:46",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie lokalen Wein und eine traditionelle Jause in gemütlicher Atmosphäre.",
+            "hu": "Élvezze a helyi bort és a hagyományos uzsonnát hangulatos légkörben.",
+            "ro": "Bucurați-vă de vin local și o gustare tradițională într-o atmosferă primitoare.",
+            "en": "Enjoy local wine and a traditional snack in a cozy atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Spaziergang durch das historische Herz von Bad Vöslau, vorbei an der Pfarrkirche und dem Schloss. Tauchen Sie mittags in das mineralreiche Wasser des berühmten Thermalbads ein, einer Oase der Entspannung. Am Nachmittag entdecken Sie die Geheimnisse der Sektherstellung in den Schlumberger Kellern. Schließen Sie den Tag bei einem Glas Wein und einer deftigen Jause in einem der gemütlichen Heurigen der Stadt ab.",
+        "hu": "Kezdje a napot egy sétával Bad Vöslau történelmi szívében, elhaladva a plébániatemplom és a kastély mellett. Délben merüljön el a híres termálfürdő ásványi anyagokban gazdag vizében, a pihenés oázisában. Délután fedezze fel a pezsgőkészítés titkait a Schlumberger pincékben. Zárja a napot egy pohár borral és egy kiadós uzsonnával a város egyik hangulatos Heurigerjében.",
+        "ro": "Începeți ziua cu o plimbare prin inima istorică a orașului Bad Vöslau, trecând pe lângă biserica parohială și castel. La prânz, scufundați-vă în apa bogată în minerale a celebrului ștrand termal, o oază de relaxare. După-amiaza, descoperiți secretele producerii vinului spumant în cramele Schlumberger. Încheiați ziua cu un pahar de vin și o gustare consistentă la unul dintre Heurigerele primitoare ale orașului.",
+        "en": "Start your day with a walk through the historic heart of Bad Vöslau, passing the parish church and the castle. At noon, immerse yourself in the mineral-rich waters of the famous thermal bath, an oasis of relaxation. In the afternoon, discover the secrets of sparkling wine production at the Schlumberger cellars. End the day with a glass of wine and a hearty snack at one of the town's cozy Heuriger wine taverns."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heuriger",
+            "tip": "Probieren Sie den lokalen Rotwein 'Vöslauer' und eine Brettljause."
+          },
+          {
+            "name": "Konditorei",
+            "tip": "Ein Stück Apfelstrudel oder eine andere österreichische Mehlspeise im Kurpark."
+          },
+          {
+            "name": "Vöslauer Mineralwasser",
+            "tip": "Trinken Sie es direkt von der Quelle im Kurpark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heuriger",
+            "tip": "Kóstolja meg a helyi 'Vöslauer' vörösbort és egy 'Brettljause'-t (hidegtál)."
+          },
+          {
+            "name": "Cukrászda",
+            "tip": "Egy szelet almás rétes vagy más osztrák sütemény a gyógyparkban."
+          },
+          {
+            "name": "Vöslauer ásványvíz",
+            "tip": "Igyon közvetlenül a forrásból a gyógyparkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuriger",
+            "tip": "Încercați vinul roșu local 'Vöslauer' și un platou tradițional 'Brettljause'."
+          },
+          {
+            "name": "Cofetărie",
+            "tip": "O felie de ștrudel cu mere sau alt desert austriac în parcul balnear."
+          },
+          {
+            "name": "Apă minerală Vöslauer",
+            "tip": "Beți direct de la izvorul din parcul balnear."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heuriger (Wine Tavern)",
+            "tip": "Try the local 'Vöslauer' red wine and a 'Brettljause' snack platter."
+          },
+          {
+            "name": "Pastry Shop (Konditorei)",
+            "tip": "A slice of apple strudel or another Austrian pastry in the spa park."
+          },
+          {
+            "name": "Vöslauer Mineral Water",
+            "tip": "Drink it directly from the spring in the spa park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kurpark",
+            "tip": "Finden Sie eine ruhige Bank und lauschen Sie dem Plätschern des Brunnens.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Ein versteckter, friedlicher Ort hinter dem Rathaus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ruhebereich im Thermalbad",
+            "tip": "Entspannen Sie nach dem Schwimmen im Grünen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógypark (Kurpark)",
+            "tip": "Keressen egy csendes padot, és hallgassa a szökőkút csobogását.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kastélypark (Schlosspark)",
+            "tip": "Egy rejtett, békés hely a városháza mögött.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pihenő a termálfürdőben",
+            "tip": "Pihenjen úszás után a zöldben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul balnear (Kurpark)",
+            "tip": "Găsiți o bancă liniștită și ascultați susurul fântânii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul castelului (Schlosspark)",
+            "tip": "Un loc ascuns și pașnic în spatele primăriei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zona de relaxare la ștrandul termal",
+            "tip": "Relaxați-vă în zona verde după înot.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spa Park (Kurpark)",
+            "tip": "Find a quiet bench and listen to the babbling fountain.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Park (Schlosspark)",
+            "tip": "A hidden, peaceful spot behind the town hall.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Quiet zone at the Thermal Bath",
+            "tip": "Relax on the grass after your swim.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinverkauf ab Hof",
+            "tip": "Kaufen Sie Vöslauer Wein direkt vom Winzer."
+          },
+          {
+            "name": "Bademode im Thermalbad",
+            "tip": "Souvenirs und alles für den perfekten Badetag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borkimérés a termelőtől",
+            "tip": "Vásároljon Vöslauer bort közvetlenül a borásztól."
+          },
+          {
+            "name": "Fürdőruha a termálfürdőben",
+            "tip": "Ajándéktárgyak és minden a tökéletes fürdőnaphoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare de vin de la producător",
+            "tip": "Cumpărați vin Vöslauer direct de la vinificator."
+          },
+          {
+            "name": "Costume de baie la ștrandul termal",
+            "tip": "Suveniruri și tot ce aveți nevoie pentru o zi perfectă la băi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Winery sales",
+            "tip": "Buy Vöslauer wine directly from the winemaker."
+          },
+          {
+            "name": "Swimwear at the Thermal Bath",
+            "tip": "Souvenirs and everything for the perfect day at the spa."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bad Vöslau ist kompakt und lässt sich hervorragend zu Fuß erkunden.",
+          "Planen Sie genügend Zeit für das Thermalbad ein; es ist das Highlight der Stadt.",
+          "Viele Heurige haben nur an bestimmten Tagen geöffnet ('ausg'steckt ist'). Prüfen Sie die Öffnungszeiten.",
+          "Das Leitungswasser ist von ausgezeichneter Qualität und das Mineralwasser ist überall präsent."
+        ],
+        "hu": [
+          "Bad Vöslau kompakt, gyalogosan kiválóan felfedezhető.",
+          "Tervezzen elegendő időt a termálfürdőre; ez a város fénypontja.",
+          "Sok Heuriger csak bizonyos napokon tart nyitva ('ausg'steckt'). Ellenőrizze a nyitvatartási időt.",
+          "A csapvíz kiváló minőségű, és az ásványvíz mindenhol jelen van."
+        ],
+        "ro": [
+          "Bad Vöslau este un oraș compact și excelent pentru a fi explorat pe jos.",
+          "Planificați suficient timp pentru ștrandul termal; este atracția principală a orașului.",
+          "Multe Heurigere sunt deschise doar în anumite zile ('ausg'steckt'). Verificați programul.",
+          "Apa de la robinet este de o calitate excelentă, iar apa minerală este omniprezentă."
+        ],
+        "en": [
+          "Bad Vöslau is compact and excellent to explore on foot.",
+          "Plan enough time for the thermal bath; it's the highlight of the town.",
+          "Many Heuriger wine taverns are only open on specific days ('ausg'steckt'). Check their schedules.",
+          "The tap water is of excellent quality, and the mineral water is ubiquitous."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kursalon und Kurpark",
+            "hu": "Kursalon és gyógypark",
+            "ro": "Kursalon și parcul balnear",
+            "en": "Kursalon and Spa Park"
+          },
+          "coords": [
+            16.2163,
+            47.9641
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Glas frischem Mineralwasser von der Quelle.",
+            "hu": "Kezdje a napot egy pohár friss ásványvízzel a forrásból.",
+            "ro": "Începeți ziua cu un pahar de apă minerală proaspătă de la izvor.",
+            "en": "Start the day with a glass of fresh mineral water from the spring."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Vöslau",
+            "hu": "Vöslaui kastély",
+            "ro": "Castelul Vöslau",
+            "en": "Vöslau Castle"
+          },
+          "coords": [
+            16.2125,
+            47.9662
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Fotostopp vor dem heutigen Rathaus.",
+            "hu": "Egy rövid fotómegálló a mai városháza előtt.",
+            "ro": "O scurtă oprire pentru fotografii în fața primăriei de astăzi.",
+            "en": "A quick photo stop in front of today's town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldlehrpfad am Harzberg",
+            "hu": "Erdei tanösvény a Harzbergen",
+            "ro": "Potecă educativă forestieră pe Harzberg",
+            "en": "Forest educational trail on Harzberg"
+          },
+          "coords": [
+            16.205,
+            47.968
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:34",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad ab und erkunden Sie den Pfad, der die lokale Flora und Fauna erklärt.",
+            "hu": "Tegye le a biciklit és fedezze fel az ösvényt, amely a helyi flórát és faunát mutatja be.",
+            "ro": "Lăsați bicicleta și explorați poteca ce explică flora și fauna locală.",
+            "en": "Park your bike and explore the trail explaining the local flora and fauna."
+          }
+        },
+        {
+          "name": {
+            "de": "Jubiläumswarte am Harzberg",
+            "hu": "Jubileumi kilátó a Harzbergen",
+            "ro": "Turnul de observație Jubiläumswarte de pe Harzberg",
+            "en": "Jubilee Tower on Harzberg"
+          },
+          "coords": [
+            16.195,
+            47.969
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:46",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick über das Wiener Becken.",
+            "hu": "Megéri felmenni a Bécsi-medencére nyíló panorámáért.",
+            "ro": "Urcușul merită pentru vederea panoramică asupra Bazinului Vienei.",
+            "en": "The climb is worth it for the panoramic view over the Vienna Basin."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbad Bad Vöslau",
+            "hu": "Bad Vöslau termálfürdő",
+            "ro": "Ștrandul termal Bad Vöslau",
+            "en": "Thermal Bath Bad Vöslau"
+          },
+          "coords": [
+            16.2151,
+            47.9628
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:34",
+          "stay_min": 150,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine ausgedehnte Mittagspause und Abkühlung nach der Radtour.",
+            "hu": "Tökéletes egy hosszabb ebédszünethez és felfrissüléshez a biciklitúra után.",
+            "ro": "Perfect pentru o pauză de prânz prelungită și răcorire după turul cu bicicleta.",
+            "en": "Perfect for an extended lunch break and cooling off after the bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlumberger Sektkeller",
+            "hu": "Schlumberger pezsgőpincék",
+            "ro": "Cramele Schlumberger Sekt",
+            "en": "Schlumberger Sparkling Wine Cellars"
+          },
+          "coords": [
+            16.2255,
+            47.971
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:22",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine faszinierende Tour durch die Welt des Sekts. Die Verkostung ist ein Muss!",
+            "hu": "Lenyűgöző túra a pezsgő világában. A kóstolás kötelező!",
+            "ro": "Un tur fascinant prin lumea vinului spumant. Degustarea este obligatorie!",
+            "en": "A fascinating tour through the world of sparkling wine. The tasting is a must!"
+          }
+        },
+        {
+          "name": {
+            "de": "Ausklang bei einem Heurigen",
+            "hu": "Levezetés egy Heurigerben",
+            "ro": "Relaxare la un Heuriger",
+            "en": "Winding down at a Heuriger"
+          },
+          "coords": [
+            16.21,
+            47.968
+          ],
+          "category": "gastro",
+          "arrive_at": "17:22",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit regionalen Spezialitäten und einem Glas Wein.",
+            "hu": "Jutalmazza meg magát regionális specialitásokkal és egy pohár borral.",
+            "ro": "Recompensați-vă cu specialități regionale și un pahar de vin.",
+            "en": "Reward yourself with regional specialties and a glass of wine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Kurpark. Erkunden Sie das Zentrum, bevor Sie den Anstieg zum Harzberg wagen, wo der Waldlehrpfad und eine grandiose Aussicht auf Sie warten. Mittags kühlen Sie sich im historischen Thermalbad ab. Der Nachmittag steht im Zeichen des Sekts bei einer Führung durch die Schlumberger Keller. Ein gemütlicher Heurigenbesuch rundet Ihre Radtour perfekt ab.",
+        "hu": "Pattanjon biciklire és induljon a gyógyparktól. Fedezze fel a központot, mielőtt nekivág a Harzberg emelkedőjének, ahol az erdei tanösvény és egy grandiózus kilátás várja. Délben hűsöljön a történelmi termálfürdőben. A délután a pezsgő jegyében telik a Schlumberger pincékben tett túrával. Egy hangulatos Heuriger-látogatás tökéletesen lezárja a kerékpártúrát.",
+        "ro": "Urcați-vă pe bicicletă și porniți din parcul balnear. Explorați centrul înainte de a vă aventura pe urcușul spre Harzberg, unde vă așteaptă poteca educativă și o priveliște grandioasă. La prânz, răcoriți-vă în ștrandul termal istoric. După-amiaza este dedicată vinului spumant, cu un tur al cramelor Schlumberger. O vizită relaxantă la un Heuriger încheie perfect turul cu bicicleta.",
+        "en": "Get on your bike and start at the spa park. Explore the center before tackling the climb to Harzberg, where the forest trail and a magnificent view await. Cool off at noon in the historic thermal bath. The afternoon is dedicated to sparkling wine with a tour of the Schlumberger cellars. A cozy visit to a Heuriger wine tavern perfectly rounds off your bike tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heuriger",
+            "tip": "Probieren Sie den lokalen Rotwein 'Vöslauer' und eine Brettljause."
+          },
+          {
+            "name": "Konditorei",
+            "tip": "Ein Stück Apfelstrudel oder eine andere österreichische Mehlspeise im Kurpark."
+          },
+          {
+            "name": "Vöslauer Mineralwasser",
+            "tip": "Trinken Sie es direkt von der Quelle im Kurpark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heuriger",
+            "tip": "Kóstolja meg a helyi 'Vöslauer' vörösbort és egy 'Brettljause'-t (hidegtál)."
+          },
+          {
+            "name": "Cukrászda",
+            "tip": "Egy szelet almás rétes vagy más osztrák sütemény a gyógyparkban."
+          },
+          {
+            "name": "Vöslauer ásványvíz",
+            "tip": "Igyon közvetlenül a forrásból a gyógyparkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuriger",
+            "tip": "Încercați vinul roșu local 'Vöslauer' și un platou tradițional 'Brettljause'."
+          },
+          {
+            "name": "Cofetărie",
+            "tip": "O felie de ștrudel cu mere sau alt desert austriac în parcul balnear."
+          },
+          {
+            "name": "Apă minerală Vöslauer",
+            "tip": "Beți direct de la izvorul din parcul balnear."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heuriger (Wine Tavern)",
+            "tip": "Try the local 'Vöslauer' red wine and a 'Brettljause' snack platter."
+          },
+          {
+            "name": "Pastry Shop (Konditorei)",
+            "tip": "A slice of apple strudel or another Austrian pastry in the spa park."
+          },
+          {
+            "name": "Vöslauer Mineral Water",
+            "tip": "Drink it directly from the spring in the spa park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jubiläumswarte",
+            "tip": "Genießen Sie die Stille und die weite Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Waldlehrpfad",
+            "tip": "Ein ruhiger Spaziergang im Schatten der Bäume.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vöslauer Kamm",
+            "tip": "Wandern Sie ein Stück entlang des Kamms für pure Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jubileumi kilátó",
+            "tip": "Élvezze a csendet és a messzire nyúló kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Erdei tanösvény",
+            "tip": "Egy csendes séta a fák árnyékában.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vöslauer-gerinc",
+            "tip": "Túrázzon egy kicsit a gerinc mentén a tiszta természetért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul Jubileu",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Poteca educativă forestieră",
+            "tip": "O plimbare liniștită la umbra copacilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Creasta Vöslauer",
+            "tip": "Drumeție de-a lungul crestei pentru natură pură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jubilee Tower",
+            "tip": "Enjoy the silence and the wide view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Forest educational trail",
+            "tip": "A quiet walk in the shade of the trees.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vöslauer Kamm (Ridge)",
+            "tip": "Hike a bit along the ridge for pure nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinverkauf ab Hof",
+            "tip": "Kaufen Sie Vöslauer Wein direkt vom Winzer."
+          },
+          {
+            "name": "Regionale Produkte",
+            "tip": "Suchen Sie nach kleinen Läden mit lokalen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borkimérés a termelőtől",
+            "tip": "Vásároljon Vöslauer bort közvetlenül a borásztól."
+          },
+          {
+            "name": "Helyi termékek",
+            "tip": "Keressen kis boltokat helyi specialitásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare de vin de la producător",
+            "tip": "Cumpărați vin Vöslauer direct de la vinificator."
+          },
+          {
+            "name": "Produse regionale",
+            "tip": "Căutați magazine mici cu specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Winery sales",
+            "tip": "Buy Vöslauer wine directly from the winemaker."
+          },
+          {
+            "name": "Regional Products",
+            "tip": "Look for small shops with local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege zum Harzberg können steil sein; ein E-Bike könnte eine gute Option sein.",
+          "Nehmen Sie genügend Wasser mit, besonders für den Anstieg zur Jubiläumswarte.",
+          "Ein Fahrradschloss ist empfehlenswert, um das Rad sicher abzustellen.",
+          "Kombinieren Sie die Radtour mit einer entspannenden Zeit im Thermalbad."
+        ],
+        "hu": [
+          "A Harzbergre vezető utak meredekek lehetnek; egy e-bike jó választás lehet.",
+          "Vigyen magával elegendő vizet, különösen a Jubileumi kilátóhoz való emelkedőhöz.",
+          "Biciklizár ajánlott a kerékpár biztonságos leállításához.",
+          "Kombinálja a kerékpártúrát egy pihentető időtöltéssel a termálfürdőben."
+        ],
+        "ro": [
+          "Drumurile spre Harzberg pot fi abrupte; o bicicletă electrică ar putea fi o opțiune bună.",
+          "Luați suficientă apă, în special pentru urcușul spre Turnul Jubileu.",
+          "Un lacăt pentru bicicletă este recomandat pentru a o parca în siguranță.",
+          "Combinați turul cu bicicleta cu un timp de relaxare la ștrandul termal."
+        ],
+        "en": [
+          "The paths to Harzberg can be steep; an e-bike might be a good option.",
+          "Take enough water with you, especially for the climb to the Jubilee Tower.",
+          "A bike lock is recommended to park your bike safely.",
+          "Combine the bike tour with a relaxing time at the thermal bath."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Harzberg",
+            "hu": "Parkoló a Harzbergen",
+            "ro": "Parcare la Harzberg",
+            "en": "Parking at Harzberg"
+          },
+          "coords": [
+            16.198,
+            47.9685
+          ],
+          "category": "transport",
+          "arrive_at": "09:15",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit dem höchsten Punkt, um die Aussicht bei Morgenlicht zu genießen.",
+            "hu": "Kezdje a legmagasabb ponttal, hogy élvezze a kilátást a reggeli fényben.",
+            "ro": "Începeți cu cel mai înalt punct pentru a vă bucura de priveliște în lumina dimineții.",
+            "en": "Start with the highest point to enjoy the view in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Jubiläumswarte",
+            "hu": "Jubileumi kilátó",
+            "ro": "Turnul Jubileu",
+            "en": "Jubilee Tower"
+          },
+          "coords": [
+            16.195,
+            47.969
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:25",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum Turm. Der Ausblick ist die kleine Mühe wert.",
+            "hu": "Rövid séta a parkolótól a toronyig. A kilátás megéri a kis fáradságot.",
+            "ro": "O scurtă plimbare de la parcare la turn. Priveliștea merită efortul.",
+            "en": "A short walk from the parking lot to the tower. The view is worth the small effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Vöslauer Kamm",
+            "hu": "Vöslauer-gerinc",
+            "ro": "Creasta Vöslauer",
+            "en": "Vöslauer Kamm (Ridge)"
+          },
+          "coords": [
+            16.193,
+            47.967
+          ],
+          "category": "natural features",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Machen Sie einen kleinen Spaziergang entlang des Kamms, um die Natur zu genießen.",
+            "hu": "Tegyen egy rövid sétát a gerinc mentén, hogy élvezze a természetet.",
+            "ro": "Faceți o scurtă plimbare de-a lungul crestei pentru a vă bucura de natură.",
+            "en": "Take a short walk along the ridge to enjoy nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum (Schlosspark)",
+            "hu": "Parkoló a központban (Kastélypark)",
+            "ro": "Parcare în centru (Parcul Castelului)",
+            "en": "Parking in the Center (Castle Park)"
+          },
+          "coords": [
+            16.212,
+            47.9665
+          ],
+          "category": "transport",
+          "arrive_at": "11:20",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den historischen Stadtkern zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel gyalog a történelmi városközpontot.",
+            "ro": "Parcați aici și explorați centrul istoric al orașului pe jos.",
+            "en": "Park here and explore the historic town center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Vöslau & Pfarrkirche",
+            "hu": "Vöslaui kastély és plébániatemplom",
+            "ro": "Castelul Vöslau și Biserica Parohială",
+            "en": "Vöslau Castle & Parish Church"
+          },
+          "coords": [
+            16.2132,
+            47.9658
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Spaziergang zwischen dem Rathaus (Schloss) und der benachbarten Kirche.",
+            "hu": "Séta a városháza (kastély) és a szomszédos templom között.",
+            "ro": "O plimbare între primărie (castel) și biserica adiacentă.",
+            "en": "A stroll between the town hall (castle) and the neighboring church."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbad Bad Vöslau",
+            "hu": "Bad Vöslau termálfürdő",
+            "ro": "Ștrandul termal Bad Vöslau",
+            "en": "Thermal Bath Bad Vöslau"
+          },
+          "coords": [
+            16.2151,
+            47.9628
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verbringen Sie den Nachmittag mit Entspannung und Mittagessen im Bad.",
+            "hu": "Töltse a délutánt pihenéssel és ebéddel a fürdőben.",
+            "ro": "Petreceți după-amiaza relaxându-vă și luând prânzul la ștrand.",
+            "en": "Spend the afternoon relaxing and having lunch at the bath."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlumberger Sektkeller",
+            "hu": "Schlumberger pezsgőpincék",
+            "ro": "Cramele Schlumberger Sekt",
+            "en": "Schlumberger Sparkling Wine Cellars"
+          },
+          "coords": [
+            16.2255,
+            47.971
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:05",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein krönender Abschluss mit einer prickelnden Tour und Verkostung.",
+            "hu": "Fényes befejezés egy pezsgő túrával és kóstolóval.",
+            "ro": "O încheiere grandioasă cu un tur spumant și o degustare.",
+            "en": "A grand finale with a sparkling tour and tasting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens auf den Harzberg, um die atemberaubende Aussicht von der Jubiläumswarte zu genießen. Nach einem kurzen Spaziergang in der Natur fahren Sie ins Zentrum, parken Ihr Auto und erkunden das historische Herz der Stadt zu Fuß. Der Nachmittag gehört ganz der Entspannung im legendären Thermalbad. Den Abschluss bildet eine prickelnde Führung durch die Welt des Sekts in den Kellern von Schlumberger.",
+        "hu": "Reggel hajtson fel a Harzbergre, hogy élvezze a lélegzetelállító kilátást a Jubileumi kilátóból. Egy rövid természetjárás után hajtson be a központba, parkolja le az autót, és fedezze fel gyalog a város történelmi szívét. A délután teljes egészében a pihenésé a legendás termálfürdőben. A napot egy pezsgő túra zárja a Schlumberger pincéiben.",
+        "ro": "Dimineața, conduceți spre Harzberg pentru a vă bucura de priveliștea uluitoare de la Turnul Jubileu. După o scurtă plimbare în natură, mergeți în centru, parcați mașina și explorați pe jos inima istorică a orașului. După-amiaza este dedicată relaxării la legendarul ștrand termal. Ziua se încheie cu un tur spumant prin lumea vinului în cramele Schlumberger.",
+        "en": "In the morning, drive up to Harzberg to enjoy the breathtaking view from the Jubilee Tower. After a short walk in nature, drive to the center, park your car, and explore the historic heart of the town on foot. The afternoon is dedicated to relaxation at the legendary thermal bath. The day concludes with a sparkling tour through the world of sekt at the Schlumberger cellars."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heuriger",
+            "tip": "Probieren Sie den lokalen Rotwein 'Vöslauer' und eine Brettljause."
+          },
+          {
+            "name": "Restaurant im Thermalbad",
+            "tip": "Bequemes Mittagessen direkt im Badeareal."
+          },
+          {
+            "name": "Gasthaus am Harzberg",
+            "tip": "Für eine Stärkung nach der Wanderung mit schöner Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heuriger",
+            "tip": "Kóstolja meg a helyi 'Vöslauer' vörösbort és egy 'Brettljause'-t (hidegtál)."
+          },
+          {
+            "name": "Étterem a termálfürdőben",
+            "tip": "Kényelmes ebéd közvetlenül a fürdő területén."
+          },
+          {
+            "name": "Vendéglő a Harzbergen",
+            "tip": "Erősítés a túra után, gyönyörű kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuriger",
+            "tip": "Încercați vinul roșu local 'Vöslauer' și un platou tradițional 'Brettljause'."
+          },
+          {
+            "name": "Restaurant la ștrandul termal",
+            "tip": "Prânz convenabil direct în zona de băi."
+          },
+          {
+            "name": "Han la Harzberg",
+            "tip": "Pentru o gustare după drumeție, cu o priveliște frumoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heuriger (Wine Tavern)",
+            "tip": "Try the local 'Vöslauer' red wine and a 'Brettljause' snack platter."
+          },
+          {
+            "name": "Restaurant at the Thermal Bath",
+            "tip": "Convenient lunch right in the bathing area."
+          },
+          {
+            "name": "Inn on Harzberg",
+            "tip": "For a refreshment after the hike with a beautiful view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jubiläumswarte",
+            "tip": "Genießen Sie die Stille und die weite Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vöslauer Kamm",
+            "tip": "Wandern Sie ein Stück entlang des Kamms für pure Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kurpark",
+            "tip": "Finden Sie eine ruhige Bank und lauschen Sie dem Plätschern des Brunnens.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jubileumi kilátó",
+            "tip": "Élvezze a csendet és a messzire nyúló kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vöslauer-gerinc",
+            "tip": "Túrázzon egy kicsit a gerinc mentén a tiszta természetért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gyógypark (Kurpark)",
+            "tip": "Keressen egy csendes padot, és hallgassa a szökőkút csobogását.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul Jubileu",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Creasta Vöslauer",
+            "tip": "Drumeție de-a lungul crestei pentru natură pură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul balnear (Kurpark)",
+            "tip": "Găsiți o bancă liniștită și ascultați susurul fântânii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jubilee Tower",
+            "tip": "Enjoy the silence and the wide view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vöslauer Kamm (Ridge)",
+            "tip": "Hike a bit along the ridge for pure nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spa Park (Kurpark)",
+            "tip": "Find a quiet bench and listen to the babbling fountain.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinverkauf ab Hof",
+            "tip": "Kaufen Sie Vöslauer Wein direkt vom Winzer."
+          },
+          {
+            "name": "Schlumberger Shop",
+            "tip": "Nehmen Sie eine Flasche Sekt als Souvenir mit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borkimérés a termelőtől",
+            "tip": "Vásároljon Vöslauer bort közvetlenül a borásztól."
+          },
+          {
+            "name": "Schlumberger bolt",
+            "tip": "Vigyen haza egy üveg pezsgőt emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare de vin de la producător",
+            "tip": "Cumpărați vin Vöslauer direct de la vinificator."
+          },
+          {
+            "name": "Magazin Schlumberger",
+            "tip": "Luați o sticlă de vin spumant ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Winery sales",
+            "tip": "Buy Vöslauer wine directly from the winemaker."
+          },
+          {
+            "name": "Schlumberger Shop",
+            "tip": "Take a bottle of sparkling wine home as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die 'Cluster-Walking'-Methode ist ideal: Parken Sie am Harzberg und im Zentrum und erkunden Sie die Umgebung zu Fuß.",
+          "Prüfen Sie die Öffnungszeiten der Jubiläumswarte, da diese saisonal sein können.",
+          "Reservieren Sie Ihre Sektkeller-Tour im Voraus, besonders am Wochenende.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch die umliegenden Weinberge und Heurigen zu besuchen."
+        ],
+        "hu": [
+          "A 'cluster-séta' módszer ideális: parkoljon a Harzbergen és a központban, és fedezze fel a környéket gyalog.",
+          "Ellenőrizze a Jubileumi kilátó nyitvatartási idejét, mivel az szezonális lehet.",
+          "Foglalja le előre a pezsgőpince-túrát, különösen hétvégén.",
+          "Az autó rugalmasságot ad a környező szőlőültetvények és Heurigerek meglátogatásához is."
+        ],
+        "ro": [
+          "Metoda 'cluster-walking' este ideală: parcați la Harzberg și în centru și explorați zona pe jos.",
+          "Verificați programul de funcționare al Turnului Jubileu, deoarece poate fi sezonier.",
+          "Rezervați-vă turul la crama de spumant în avans, în special în weekend.",
+          "O mașină vă oferă flexibilitatea de a vizita și podgoriile și Heurigerele din jur."
+        ],
+        "en": [
+          "The 'cluster-walking' method is ideal: park at Harzberg and in the center, then explore the surroundings on foot.",
+          "Check the opening hours of the Jubilee Tower, as they can be seasonal.",
+          "Book your sparkling wine cellar tour in advance, especially on weekends.",
+          "A car gives you the flexibility to also visit the surrounding vineyards and wine taverns."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Bahnhof Bad Vöslau",
+            "hu": "Érkezés a Bad Vöslau-i vasútállomásra",
+            "ro": "Sosire la Gara Bad Vöslau",
+            "en": "Arrival at Bad Vöslau Train Station"
+          },
+          "coords": [
+            16.219,
+            47.969
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus ist das Zentrum nur einen kurzen Spaziergang entfernt.",
+            "hu": "A vasútállomástól a központ csak egy rövid sétára van.",
+            "ro": "De la gară, centrul este la doar o scurtă plimbare.",
+            "en": "From the train station, the center is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche & Schloss Vöslau",
+            "hu": "Plébániatemplom és Vöslaui kastély",
+            "ro": "Biserica parohială și Castelul Vöslau",
+            "en": "Parish Church & Vöslau Castle"
+          },
+          "coords": [
+            16.2132,
+            47.9658
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Ensemble im Herzen der Stadt.",
+            "hu": "Fedezze fel a történelmi együttest a város szívében.",
+            "ro": "Explorați ansamblul istoric din inima orașului.",
+            "en": "Explore the historic ensemble in the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kursalon und Kurpark",
+            "hu": "Kursalon és gyógypark",
+            "ro": "Kursalon și parcul balnear",
+            "en": "Kursalon and Spa Park"
+          },
+          "coords": [
+            16.2163,
+            47.9641
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:33",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie das berühmte Mineralwasser und genießen Sie die Atmosphäre.",
+            "hu": "Kóstolja meg a híres ásványvizet és élvezze a hangulatot.",
+            "ro": "Gustați faimoasa apă minerală și bucurați-vă de atmosferă.",
+            "en": "Taste the famous mineral water and enjoy the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Thermalbad",
+            "hu": "Utazás a termálfürdőhöz",
+            "ro": "Călătorie la ștrandul termal",
+            "en": "Trip to the Thermal Bath"
+          },
+          "coords": [
+            16.2151,
+            47.9628
+          ],
+          "category": "transport",
+          "arrive_at": "11:28",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein lokaler Bus bringt Sie bequem zum Eingang des Bades.",
+            "hu": "Egy helyi busz kényelmesen elviszi a fürdő bejáratához.",
+            "ro": "Un autobuz local vă duce confortabil la intrarea în ștrand.",
+            "en": "A local bus takes you comfortably to the entrance of the bath."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbad Bad Vöslau",
+            "hu": "Bad Vöslau termálfürdő",
+            "ro": "Ștrandul termal Bad Vöslau",
+            "en": "Thermal Bath Bad Vöslau"
+          },
+          "coords": [
+            16.2151,
+            47.9628
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:33",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Hier können Sie schwimmen, sonnenbaden und zu Mittag essen.",
+            "hu": "Itt úszhat, napozhat és ebédelhet.",
+            "ro": "Aici puteți înota, face plajă și lua prânzul.",
+            "en": "Here you can swim, sunbathe, and have lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlumberger Sektkeller",
+            "hu": "Schlumberger pezsgőpincék",
+            "ro": "Cramele Schlumberger Sekt",
+            "en": "Schlumberger Sparkling Wine Cellars"
+          },
+          "coords": [
+            16.2255,
+            47.971
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:21",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch die Weinberge führt Sie zu den berühmten Kellern.",
+            "hu": "Séta a szőlőültetvényeken keresztül vezet a híres pincékhez.",
+            "ro": "O plimbare prin vii vă duce la faimoasele crame.",
+            "en": "A walk through the vineyards leads you to the famous cellars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach Ihrer Ankunft am Bahnhof erkunden Sie das charmante Zentrum von Bad Vöslau zu Fuß. Nach einem Besuch in der Kirche, am Schloss und im Kurpark bringt Sie ein Bus bequem zum Thermalbad. Verbringen Sie dort einen entspannten Mittag. Am Nachmittag führt Sie ein schöner Spaziergang zu den Schlumberger Sektkellern für eine prickelnde Tour. Der Bahnhof ist für Ihre Abreise wieder leicht zu Fuß erreichbar.",
+        "hu": "Miután megérkezett a vasútállomásra, fedezze fel gyalog Bad Vöslau bájos központját. A templom, a kastély és a gyógypark meglátogatása után egy busz kényelmesen elviszi a termálfürdőhöz. Töltsön ott egy pihentető délt. Délután egy kellemes séta vezet a Schlumberger pezsgőpincékhez egy pezsgő túrára. Az állomás ismét könnyen megközelíthető gyalog az induláshoz.",
+        "ro": "După sosirea la gară, explorați pe jos centrul fermecător al orașului Bad Vöslau. După o vizită la biserică, castel și parcul balnear, un autobuz vă duce confortabil la ștrandul termal. Petreceți o amiază relaxantă acolo. După-amiaza, o plimbare plăcută vă duce la cramele Schlumberger pentru un tur spumant. Gara este din nou ușor accesibilă pe jos pentru plecare.",
+        "en": "After arriving at the train station, explore the charming center of Bad Vöslau on foot. After visiting the church, the castle, and the spa park, a bus will take you comfortably to the thermal bath. Spend a relaxing afternoon there. In the afternoon, a pleasant walk takes you to the Schlumberger sparkling wine cellars for a sparkling tour. The train station is again easily accessible on foot for your departure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heuriger",
+            "tip": "Probieren Sie den lokalen Rotwein 'Vöslauer' und eine Brettljause."
+          },
+          {
+            "name": "Konditorei",
+            "tip": "Ein Stück Apfelstrudel oder eine andere österreichische Mehlspeise im Kurpark."
+          },
+          {
+            "name": "Vöslauer Mineralwasser",
+            "tip": "Trinken Sie es direkt von der Quelle im Kurpark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heuriger",
+            "tip": "Kóstolja meg a helyi 'Vöslauer' vörösbort és egy 'Brettljause'-t (hidegtál)."
+          },
+          {
+            "name": "Cukrászda",
+            "tip": "Egy szelet almás rétes vagy más osztrák sütemény a gyógyparkban."
+          },
+          {
+            "name": "Vöslauer ásványvíz",
+            "tip": "Igyon közvetlenül a forrásból a gyógyparkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuriger",
+            "tip": "Încercați vinul roșu local 'Vöslauer' și un platou tradițional 'Brettljause'."
+          },
+          {
+            "name": "Cofetărie",
+            "tip": "O felie de ștrudel cu mere sau alt desert austriac în parcul balnear."
+          },
+          {
+            "name": "Apă minerală Vöslauer",
+            "tip": "Beți direct de la izvorul din parcul balnear."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heuriger (Wine Tavern)",
+            "tip": "Try the local 'Vöslauer' red wine and a 'Brettljause' snack platter."
+          },
+          {
+            "name": "Pastry Shop (Konditorei)",
+            "tip": "A slice of apple strudel or another Austrian pastry in the spa park."
+          },
+          {
+            "name": "Vöslauer Mineral Water",
+            "tip": "Drink it directly from the spring in the spa park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kurpark",
+            "tip": "Finden Sie eine ruhige Bank und lauschen Sie dem Plätschern des Brunnens.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Ein versteckter, friedlicher Ort hinter dem Rathaus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grüne Liegewiesen im Thermalbad",
+            "tip": "Entspannen Sie nach dem Schwimmen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógypark (Kurpark)",
+            "tip": "Keressen egy csendes padot, és hallgassa a szökőkút csobogását.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kastélypark (Schlosspark)",
+            "tip": "Egy rejtett, békés hely a városháza mögött.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zöld pázsit a termálfürdőben",
+            "tip": "Pihenjen úszás után.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul balnear (Kurpark)",
+            "tip": "Găsiți o bancă liniștită și ascultați susurul fântânii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul castelului (Schlosspark)",
+            "tip": "Un loc ascuns și pașnic în spatele primăriei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pajiștile verzi de la ștrandul termal",
+            "tip": "Relaxați-vă după înot.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spa Park (Kurpark)",
+            "tip": "Find a quiet bench and listen to the babbling fountain.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Park (Schlosspark)",
+            "tip": "A hidden, peaceful spot behind the town hall.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Green lawns at the Thermal Bath",
+            "tip": "Relax after your swim.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinverkauf ab Hof",
+            "tip": "Kaufen Sie Vöslauer Wein direkt vom Winzer."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Probieren Sie lokales Gebäck für die Heimreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borkimérés a termelőtől",
+            "tip": "Vásároljon Vöslauer bort közvetlenül a borásztól."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Kóstoljon helyi süteményt a hazaútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare de vin de la producător",
+            "tip": "Cumpărați vin Vöslauer direct de la vinificator."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Încercați produse de patiserie locale pentru călătoria spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Winery sales",
+            "tip": "Buy Vöslauer wine directly from the winemaker."
+          },
+          {
+            "name": "Local bakeries",
+            "tip": "Try some local pastries for the journey home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bad Vöslau ist gut an das Wiener S-Bahn-Netz angebunden.",
+          "Informieren Sie sich über die lokalen Buslinien, um zwischen den Hauptattraktionen zu wechseln.",
+          "Die meisten Ziele im Stadtzentrum sind bequem zu Fuß erreichbar.",
+          "Eine Tageskarte für den öffentlichen Verkehr könnte sich lohnen, wenn Sie mehrere Busfahrten planen."
+        ],
+        "hu": [
+          "Bad Vöslau jó összeköttetéssel rendelkezik a bécsi S-Bahn hálózattal.",
+          "Tájékozódjon a helyi buszjáratokról a fő látnivalók közötti váltáshoz.",
+          "A városközpont legtöbb célpontja kényelmesen elérhető gyalog.",
+          "Egy napijegy a tömegközlekedéshez megérheti, ha több buszozást tervez."
+        ],
+        "ro": [
+          "Bad Vöslau este bine conectat la rețeaua S-Bahn din Viena.",
+          "Informați-vă despre liniile locale de autobuz pentru a vă deplasa între principalele atracții.",
+          "Majoritatea destinațiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Un bilet de o zi pentru transportul public ar putea merita dacă planificați mai multe călătorii cu autobuzul."
+        ],
+        "en": [
+          "Bad Vöslau is well connected to the Vienna S-Bahn network.",
+          "Check local bus routes to switch between the main attractions.",
+          "Most destinations in the city center are easily accessible on foot.",
+          "A day ticket for public transport might be worthwhile if you plan several bus trips."
+        ]
+      }
+    }
+  }
+}

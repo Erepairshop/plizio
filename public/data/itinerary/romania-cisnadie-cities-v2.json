@@ -1,0 +1,1232 @@
+{
+  "city_id": "romania-cisnadie-cities-v2",
+  "anchor": {
+    "name": "Heltau",
+    "coords": [
+      24.15,
+      45.71
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Revolution",
+            "hu": "Forradalom tér",
+            "ro": "Piața Revoluției",
+            "en": "Revolution Square"
+          },
+          "coords": [
+            24.1511,
+            45.7112
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag hier mit einem Kaffee und beobachten Sie das lokale Leben.",
+            "hu": "Indítsa a napot egy kávéval, és figyelje a helyi életet.",
+            "ro": "Începeți ziua aici cu o cafea, observând viața locală.",
+            "en": "Start your day here with a coffee and watch the local life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Cisnădie",
+            "hu": "Nagydisznódi városháza",
+            "ro": "Primăria Cisnădie",
+            "en": "Cisnădie Town Hall"
+          },
+          "coords": [
+            24.1505,
+            45.712
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:31",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses wichtigen städtischen Gebäudes.",
+            "hu": "Csodálja meg ennek a fontos városi épületnek az építészetét.",
+            "ro": "Admirați arhitectura acestei clădiri administrative importante.",
+            "en": "Admire the architecture of this important municipal building."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirchenburg",
+            "hu": "Evangélikus erődtemplom",
+            "ro": "Biserica Fortificată Evanghelică",
+            "en": "Evangelical Fortified Church"
+          },
+          "coords": [
+            24.1485,
+            45.7135
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:59",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm für einen fantastischen Blick auf die Stadt.",
+            "hu": "Másszon fel a toronyba a városra nyíló fantasztikus kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște fantastică asupra orașului.",
+            "en": "Climb the tower for a fantastic view of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Textilindustriemuseum",
+            "hu": "Textilipari Múzeum",
+            "ro": "Muzeul Industriei Textile",
+            "en": "Museum of the Textile Industry"
+          },
+          "coords": [
+            24.1532,
+            45.7095
+          ],
+          "category": "museums",
+          "arrive_at": "11:31",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Textilherstellung in der Region.",
+            "hu": "Ismerje meg a régió gazdag textilgyártási történelmét.",
+            "ro": "Descoperiți istoria bogată a producției textile din regiune.",
+            "en": "Discover the rich history of textile manufacturing in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            24.155,
+            45.715
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:21",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beachten Sie die byzantinischen Einflüsse in der Ikonographie dieser orthodoxen Kirche.",
+            "hu": "Figyelje meg a bizánci hatásokat az ortodox templom ikonográfiájában.",
+            "ro": "Observați influențele bizantine în iconografia acestei biserici ortodoxe.",
+            "en": "Note the Byzantine influences in the iconography of this Orthodox church."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitpark Măgura",
+            "hu": "Măgura Szabadidőpark",
+            "ro": "Parcul de Agrement Măgura",
+            "en": "Măgura Leisure Park"
+          },
+          "coords": [
+            24.165,
+            45.705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:41",
+          "stay_min": 94,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort zum Entspannen am Nachmittag.",
+            "hu": "Tökéletes hely a délutáni pihenéshez.",
+            "ro": "Un loc perfect pentru a vă relaxa după-amiaza.",
+            "en": "A perfect spot to relax in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang durch Cisnădie beginnt auf dem belebten Platz der Revolution. Am Vormittag erkunden Sie das historische Zentrum, einschließlich des Rathauses und der beeindruckenden Kirchenburg, die das Herz der Stadt darstellt. Nach dem Mittagessen tauchen Sie im Textilindustriemuseum in die lokale Geschichte ein und besuchen die orthodoxe St.-Nikolaus-Kirche. Der Nachmittag endet mit einem entspannten Spaziergang zum Freizeitpark Măgura, wo Sie die ruhige Atmosphäre genießen können. Am Abend kehren Sie ins Zentrum zurück, um die lokale Küche zu probieren.",
+        "hu": "Nagydisznódi sétája a nyüzsgő Forradalom téren kezdődik. Délelőtt felfedezi a történelmi központot, beleértve a városházát és a lenyűgöző erődtemplomot, a város szívét. Ebéd után a Textilipari Múzeumban elmélyül a helyi történelemben, és meglátogatja az ortodox Szent Miklós-templomot. A délután egy pihentető sétával zárul a Măgura Szabadidőparkba, ahol élvezheti a csendes légkört. Este visszatér a központba, hogy megkóstolja a helyi konyhát.",
+        "ro": "Turul dumneavoastră pietonal prin Cisnădie începe în Piața Revoluției. Dimineața explorați centrul istoric, inclusiv primăria și impresionanta biserică fortificată, inima orașului. După prânz, aprofundați istoria locală la Muzeul Industriei Textile și vizitați Biserica Ortodoxă Sfântul Nicolae. După-amiaza se încheie cu o plimbare relaxantă spre Parcul de Agrement Măgura, unde vă puteți bucura de atmosfera liniștită. Seara vă întoarceți în centru pentru a gusta bucătăria locală.",
+        "en": "Your walking tour of Cisnădie begins in the bustling Revolution Square. In the morning, you'll explore the historic center, including the town hall and the impressive fortified church, the heart of the town. After lunch, delve into local history at the Museum of the Textile Industry and visit the St. Nicholas Orthodox Church. The afternoon concludes with a relaxing walk to the Măgura Leisure Park, where you can enjoy the quiet atmosphere. In the evening, return to the center to taste the local cuisine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Eine traditionelle rumänische Kuttelsuppe, ein Muss für Abenteuerlustige."
+          },
+          {
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen, ein beliebtes rumänisches Streetfood."
+          },
+          {
+            "name": "Restaurant La Turn",
+            "tip": "Probieren Sie authentische siebenbürgische Gerichte in der Nähe der Kirchenburg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csorba (Ciorbă de burtă)",
+            "tip": "Hagyományos román pacalleves, kötelező a kalandvágyóknak."
+          },
+          {
+            "name": "Mics (Mici)",
+            "tip": "Grillezett darált hús tekercsek, egy népszerű román utcai étel."
+          },
+          {
+            "name": "La Turn Étterem",
+            "tip": "Kóstoljon meg autentikus erdélyi ételeket az erődtemplom közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "O supă tradițională românească, o necesitate pentru cei aventuroși."
+          },
+          {
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar, un street food popular românesc."
+          },
+          {
+            "name": "Restaurant La Turn",
+            "tip": "Încercați mâncăruri transilvănene autentice lângă biserica fortificată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "A traditional Romanian tripe soup, a must-try for the adventurous."
+          },
+          {
+            "name": "Mici",
+            "tip": "Grilled minced meat rolls, a popular Romanian street food."
+          },
+          {
+            "name": "La Turn Restaurant",
+            "tip": "Try authentic Transylvanian dishes near the fortified church."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innerer Hof der Kirchenburg",
+            "tip": "Finden Sie eine ruhige Ecke innerhalb der Mauern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Sees im Freizeitpark",
+            "tip": "Ein friedlicher Ort, um am späten Nachmittag zu entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick vom Berg Măgura",
+            "tip": "Wenn Sie Zeit haben, bietet der Aufstieg einen atemberaubenden, ruhigen Blick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az erődtemplom belső udvara",
+            "tip": "Találjon egy csendes sarkot a falakon belül.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A tó partja a szabadidőparkban",
+            "tip": "Békés hely a késő délutáni pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Măgura-hegyről",
+            "tip": "Ha van ideje, a mászás lélegzetelállító, csendes kilátást kínál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea interioară a Bisericii Fortificate",
+            "tip": "Găsiți un colț liniștit în interiorul zidurilor.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul lacului din Parcul de Agrement",
+            "tip": "Un loc pașnic pentru a vă relaxa după-amiaza târziu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de pe Muntele Măgura",
+            "tip": "Dacă aveți timp, urcarea oferă o priveliște uimitoare și liniștită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Inner Courtyard of the Fortified Church",
+            "tip": "Find a quiet corner within the walls.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lakeside at the Leisure Park",
+            "tip": "A peaceful spot to unwind in the late afternoon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Măgura Mountain",
+            "tip": "If you have time, the climb offers a stunning, quiet view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen des Museums",
+            "tip": "Kaufen Sie Textil-Souvenirs und Bücher über die lokale Geschichte."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie Ausschau nach kleinen Märkten mit lokalen Produkten und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi ajándékbolt",
+            "tip": "Vásároljon textilszuveníreket és könyveket a helyi történelemről."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a kis piacokat, ahol helyi termékeket és kézműves árukat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri al muzeului",
+            "tip": "Cumpărați suveniruri textile și cărți despre istoria locală."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Fiți atenți la piețele mici cu produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Gift Shop",
+            "tip": "Purchase textile souvenirs and books on local history."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Keep an eye out for small markets with local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Die Kirchenburg ist der Höhepunkt, nehmen Sie sich also genügend Zeit dafür."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog sétálni.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "Az erődtemplom a fénypont, ezért szánjon rá elegendő időt."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Aduceți o sticlă de apă reutilizabilă.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "Biserica fortificată este punctul culminant, așa că alocați-i suficient timp."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring a reusable water bottle.",
+          "Check the museum's opening hours in advance.",
+          "The fortified church is the highlight, so allow plenty of time for it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Revolution",
+            "hu": "Forradalom tér",
+            "ro": "Piața Revoluției",
+            "en": "Revolution Square"
+          },
+          "coords": [
+            24.1511,
+            45.7112
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe und starten Sie Ihre Tour.",
+            "hu": "Béreljen kerékpárt a közelben, és kezdje meg a túrát.",
+            "ro": "Închiriați o bicicletă din apropiere și începeți turul.",
+            "en": "Rent a bike nearby and start your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirchenburg",
+            "hu": "Evangélikus erődtemplom",
+            "ro": "Biserica Fortificată Evanghelică",
+            "en": "Evangelical Fortified Church"
+          },
+          "coords": [
+            24.1485,
+            45.7135
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:26",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Festung betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép az erődbe.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în cetate.",
+            "en": "Securely lock your bike before entering the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Textilindustriemuseum",
+            "hu": "Textilipari Múzeum",
+            "ro": "Muzeul Industriei Textile",
+            "en": "Museum of the Textile Industry"
+          },
+          "coords": [
+            24.1532,
+            45.7095
+          ],
+          "category": "museums",
+          "arrive_at": "11:02",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine kurze Radtour vom Zentrum entfernt, um mehr über die lokale Industrie zu erfahren.",
+            "hu": "Egy rövid kerékpártúra a központtól, hogy többet megtudjon a helyi iparról.",
+            "ro": "O scurtă plimbare cu bicicleta din centru pentru a afla despre industria locală.",
+            "en": "A short bike ride from the center to learn about local industry."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            24.155,
+            45.715
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:44",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein schöner Halt, um die orthodoxe religiöse Kunst zu schätzen.",
+            "hu": "Szép megálló az ortodox vallási művészet megbecsülésére.",
+            "ro": "O oprire plăcută pentru a aprecia arta religioasă ortodoxă.",
+            "en": "A nice stop to appreciate Orthodox religious art."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitpark Măgura",
+            "hu": "Măgura Szabadidőpark",
+            "ro": "Parcul de Agrement Măgura",
+            "en": "Măgura Leisure Park"
+          },
+          "coords": [
+            24.165,
+            45.705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:32",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause und genießen Sie die Natur.",
+            "hu": "Tartson egy szünetet, és élvezze a természetet.",
+            "ro": "Luați o pauză și bucurați-vă de natură.",
+            "en": "Take a break and enjoy the nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuß des Berges Măgura",
+            "hu": "A Măgura-hegy lába",
+            "ro": "Poalele Muntelui Măgura",
+            "en": "Base of Măgura Mountain"
+          },
+          "coords": [
+            24.17,
+            45.7
+          ],
+          "category": "natural features",
+          "arrive_at": "15:02",
+          "stay_min": 33,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radle zum Ausgangspunkt des Wanderwegs für eine tolle Aussicht.",
+            "hu": "Kerékpározzon a turistaút kiindulópontjához a nagyszerű kilátásért.",
+            "ro": "Mergeți cu bicicleta până la începutul traseului pentru o priveliște minunată.",
+            "en": "Cycle to the trailhead for a great view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Cisnădie beginnt im Zentrum und führt Sie schnell zur majestätischen Kirchenburg. Nach der Erkundung des historischen Herzens radeln Sie zum Textilindustriemuseum, um einen Einblick in das Erbe der Stadt zu erhalten. Nach dem Mittagessen führt Sie Ihre Route zur orthodoxen St.-Nikolaus-Kirche, bevor Sie einen längeren Halt im Freizeitpark Măgura einlegen. Der Tag endet mit einer malerischen Fahrt zum Fuß des Berges Măgura, der eine lohnende Aussicht und einen perfekten Abschluss Ihres Abenteuers bietet.",
+        "hu": "Nagydisznódi kerékpártúrája a központban kezdődik, és gyorsan a fenséges erődtemplomhoz vezet. A történelmi szív felfedezése után a Textilipari Múzeumba teker, hogy bepillantást nyerjen a város örökségébe. Ebéd után az útvonal az ortodox Szent Miklós-templomhoz vezet, mielőtt hosszabb megállót tenne a Măgura Szabadidőparkban. A nap a Măgura-hegy lábához vezető festői úttal zárul, amely jutalmazó kilátást és tökéletes befejezést kínál a kalandhoz.",
+        "ro": "Turul dumneavoastră cu bicicleta prin Cisnădie începe în centru și vă duce rapid la maiestuoasa biserică fortificată. După explorarea inimii istorice, pedalați spre Muzeul Industriei Textile pentru o incursiune în patrimoniul orașului. După prânz, traseul vă duce la Biserica Ortodoxă Sfântul Nicolae, înainte de o oprire mai lungă la Parcul de Agrement Măgura. Ziua se încheie cu o plimbare pitorească până la poalele Muntelui Măgura, oferind o priveliște plină de satisfacții și o încheiere perfectă a aventurii dumneavoastră.",
+        "en": "Your bike tour of Cisnădie starts in the center, quickly taking you to the majestic fortified church. After exploring the historic heart, you'll cycle to the Museum of the Textile Industry for a glimpse into the town's heritage. After lunch, your route takes you to the St. Nicholas Orthodox Church before a longer stop at the Măgura Leisure Park. The day concludes with a scenic ride to the base of Măgura Mountain, offering a rewarding view and a perfect end to your adventure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sarmale",
+            "tip": "Kohlrouladen gefüllt mit Fleisch und Reis, ein rumänischer Klassiker."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Ein herzhafter Käsekuchen, perfekt als schneller Snack."
+          },
+          {
+            "name": "Ein lokales Café",
+            "tip": "Tanken Sie Energie mit einem starken Kaffee und einem Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Töltött káposzta (Sarmale)",
+            "tip": "Hússal és rizzsel töltött káposztatekercsek, egy román klasszikus."
+          },
+          {
+            "name": "Sajtos pite (Plăcintă cu brânză)",
+            "tip": "Sós sajtos pite, tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Egy helyi kávézó",
+            "tip": "Töltődjön fel egy erős kávéval és egy süteménnyel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sarmale",
+            "tip": "Rulouri de varză umplute cu carne și orez, un clasic românesc."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "O plăcintă sărată cu brânză, perfectă pentru o gustare rapidă."
+          },
+          {
+            "name": "O cafenea locală",
+            "tip": "Realimentați-vă cu o cafea tare și un produs de patiserie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sarmale",
+            "tip": "Cabbage rolls stuffed with meat and rice, a Romanian classic."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "A savory cheese pie, perfect for a quick snack."
+          },
+          {
+            "name": "A local café",
+            "tip": "Refuel with a strong coffee and a pastry."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wanderweg am Berg Măgura",
+            "tip": "Der Weg bietet Stille und eine großartige Aussicht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eine Bank im Freizeitpark",
+            "tip": "Ein einfacher, aber effektiver Ort, um die Stille zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Túraútvonal a Măgura-hegyen",
+            "tip": "Az ösvény csendet és nagyszerű kilátást kínál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy pad a szabadidőparkban",
+            "tip": "Egyszerű, de hatékony hely a csend élvezetére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă pe Muntele Măgura",
+            "tip": "Poteca oferă liniște și o priveliște minunată.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O bancă în Parcul de Agrement",
+            "tip": "Un loc simplu, dar eficient pentru a vă bucura de liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Trail on Măgura Mountain",
+            "tip": "The trail offers silence and a great view.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A bench in the Leisure Park",
+            "tip": "A simple but effective place to enjoy the quiet.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigter Keramik oder Holzarbeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat vagy fafaragásokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică sau obiecte din lemn lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artisan shops",
+            "tip": "Look for handmade pottery or woodcrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und schließen Sie Ihr Fahrrad immer ab.",
+          "Die Straßen im Zentrum können eng sein, seien Sie also vorsichtig.",
+          "Nehmen Sie Snacks und Wasser mit, besonders für die Fahrt zum Berg Măgura.",
+          "Einige Wege können steil sein, seien Sie also vorbereitet."
+        ],
+        "hu": [
+          "Viseljen sisakot, és mindig zárja le a kerékpárját.",
+          "A központi utcák szűkek lehetnek, ezért legyen óvatos.",
+          "Vigyen magával harapnivalót és vizet, különösen a Măgura-hegyre vezető útra.",
+          "Néhány ösvény meredek lehet, ezért készüljön fel."
+        ],
+        "ro": [
+          "Purtați cască și încuiați întotdeauna bicicleta.",
+          "Străzile din centru pot fi înguste, așa că fiți atenți.",
+          "Luați gustări și apă, mai ales pentru drumul spre Muntele Măgura.",
+          "Unele poteci pot fi abrupte, așa că fiți pregătiți."
+        ],
+        "en": [
+          "Wear a helmet and always lock your bike.",
+          "The streets in the center can be narrow, so be careful.",
+          "Bring snacks and water, especially for the ride to Măgura Mountain.",
+          "Some paths can be steep, so be prepared."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 14.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum",
+            "hu": "Parkoló a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            24.152,
+            45.711
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel az első látnivalócsoportot gyalog.",
+            "ro": "Parcați aici și explorați primul cluster de atracții pe jos.",
+            "en": "Park here and explore the first cluster of sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz der Revolution & Rathaus",
+            "hu": "Forradalom tér és Városháza",
+            "ro": "Piața Revoluției & Primăria",
+            "en": "Revolution Square & Town Hall"
+          },
+          "coords": [
+            24.1511,
+            45.7112
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:05",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, um das administrative und soziale Herz der Stadt zu sehen.",
+            "hu": "Egy rövid séta a város közigazgatási és társadalmi szívének megtekintéséhez.",
+            "ro": "O scurtă plimbare pentru a vedea inima administrativă și socială a orașului.",
+            "en": "A short walk to see the administrative and social heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirchenburg",
+            "hu": "Evangélikus erődtemplom",
+            "ro": "Biserica Fortificată Evanghelică",
+            "en": "Evangelical Fortified Church"
+          },
+          "coords": [
+            24.1485,
+            45.7135
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:43",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Dies ist die Hauptattraktion. Nehmen Sie sich Zeit für die Erkundung der Mauern und des Museums im Inneren.",
+            "hu": "Ez a fő látványosság. Szánjon időt a falak és a belső múzeum felfedezésére.",
+            "ro": "Aceasta este atracția principală. Luați-vă timp să explorați zidurile și muzeul din interior.",
+            "en": "This is the main attraction. Take your time exploring the walls and the museum inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Textilindustriemuseum",
+            "hu": "Textilipari Múzeum",
+            "ro": "Muzeul Industriei Textile",
+            "en": "Museum of the Textile Industry"
+          },
+          "coords": [
+            24.1532,
+            45.7095
+          ],
+          "category": "museums",
+          "arrive_at": "11:31",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie zurück durch die Stadt, um dieses interessante Museum zu besuchen, bevor Sie zu Ihrem Auto zurückkehren.",
+            "hu": "Sétáljon vissza a városon keresztül, hogy meglátogassa ezt az érdekes múzeumot, mielőtt visszatér az autójához.",
+            "ro": "Mergeți înapoi prin oraș pentru a vizita acest muzeu interesant înainte de a vă întoarce la mașină.",
+            "en": "Walk back through town to visit this interesting museum before returning to your car."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitpark Măgura",
+            "hu": "Măgura Szabadidőpark",
+            "ro": "Parcul de Agrement Măgura",
+            "en": "Măgura Leisure Park"
+          },
+          "coords": [
+            24.165,
+            45.705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:26",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Parken Sie und genießen Sie einen entspannten Spaziergang im Park.",
+            "hu": "Vezessen a második látnivalócsoporthoz. Parkoljon le, és élvezze a pihentető sétát a parkban.",
+            "ro": "Conduceți spre al doilea cluster. Parcați și bucurați-vă de o plimbare relaxantă în parc.",
+            "en": "Drive to the second cluster. Park and enjoy a relaxing walk in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Berg Măgura",
+            "hu": "Măgura-hegyi kilátó",
+            "ro": "Punct de belvedere Muntele Măgura",
+            "en": "Măgura Mountain Viewpoint"
+          },
+          "coords": [
+            24.172,
+            45.7
+          ],
+          "category": "natural features",
+          "arrive_at": "15:19",
+          "stay_min": 55,
+          "hop_mode": "car",
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt den Berg hinauf für eine atemberaubende Aussicht auf die Region.",
+            "hu": "Egy rövid autóút a hegyre a régióra nyíló lélegzetelállító kilátásért.",
+            "ro": "O scurtă călătorie cu mașina pe munte pentru o priveliște uluitoare a regiunii.",
+            "en": "A short drive up the mountain for a stunning view of the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Zentrum von Cisnădie parken. Der Morgen ist der fußläufigen Erkundung des historischen Kerns gewidmet, von der Kirchenburg bis zum Textilmuseum. Am Mittag kehren Sie zu Ihrem Auto zurück und fahren zum zweiten Cluster: dem Măgura-Gebiet. Verbringen Sie den Nachmittag damit, den Freizeitpark zu genießen und zum Aussichtspunkt am Berg Măgura zu fahren, der einen Panoramablick bietet. Dieser Auto-Reiseplan kombiniert städtische Erkundung mit natürlicher Schönheit.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját Nagydisznód központjában. A délelőtt a történelmi mag gyalogos felfedezésével telik, az erődtemplomtól a textilmúzeumig. Délben térjen vissza autójához, és vezessen a második látnivalócsoporthoz: a Măgura területére. Töltse a délutánt a szabadidőpark élvezetével és a Măgura-hegyi kilátóhoz való felhajtással, ahonnan panorámás kilátás nyílik. Ez az autós útiterv ötvözi a városi felfedezést a természeti szépséggel.",
+        "ro": "Începeți ziua parcând mașina în centrul Cisnădiei. Dimineața este dedicată explorării pe jos a nucleului istoric, de la biserica fortificată la muzeul textil. La prânz, reveniți la mașină și conduceți spre al doilea cluster: zona Măgura. Petreceți după-amiaza bucurându-vă de parcul de agrement și conducând până la punctul de belvedere de pe Muntele Măgura pentru vederi panoramice. Acest itinerar auto combină explorarea urbană cu frumusețea naturală.",
+        "en": "Start your day by parking your car in the center of Cisnădie. The morning is dedicated to exploring the historic core on foot, from the fortified church to the textile museum. At noon, return to your car and drive to the second cluster: the Măgura area. Spend the afternoon enjoying the leisure park and driving up to the Măgura Mountain viewpoint for panoramic views. This car itinerary combines urban exploration with natural beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Berg Măgura",
+            "tip": "Genießen Sie eine Mahlzeit mit Aussicht."
+          },
+          {
+            "name": "Bulz",
+            "tip": "Ein traditionelles Gericht aus Polenta, Käse und Sahne, oft im Ofen gebacken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Măgura-hegyen",
+            "tip": "Élvezze az étkezést kilátással."
+          },
+          {
+            "name": "Bulz",
+            "tip": "Hagyományos étel polentából, sajtból és tejfölből, gyakran sütőben sütve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe Muntele Măgura",
+            "tip": "Bucurați-vă de o masă cu priveliște."
+          },
+          {
+            "name": "Bulz",
+            "tip": "Un preparat tradițional din mămăligă, brânză și smântână, adesea copt la cuptor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant on Măgura Mountain",
+            "tip": "Enjoy a meal with a view."
+          },
+          {
+            "name": "Bulz",
+            "tip": "A traditional dish of polenta, cheese, and cream, often baked in the oven."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Berg Măgura",
+            "tip": "Der ultimative ruhige Ort mit der besten Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Măgura-hegyi kilátó",
+            "tip": "A végső csendes hely a legjobb kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Muntele Măgura",
+            "tip": "Locul liniștit suprem cu cea mai bună priveliște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Măgura Mountain Viewpoint",
+            "tip": "The ultimate quiet spot with the best view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenverkäufer in der Nähe von Măgura",
+            "tip": "Kaufen Sie lokale Marmeladen, Honig oder Sirupe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai árusok a Măgura közelében",
+            "tip": "Vásároljon helyi lekvárokat, mézet vagy szörpöket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători ambulanți lângă Măgura",
+            "tip": "Cumpărați gemuri, miere sau siropuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside vendors near Măgura",
+            "tip": "Buy local jams, honey, or syrups."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum kann an Markttagen schwierig sein.",
+          "Haben Sie etwas Bargeld für Parkgebühren oder kleine Einkäufe dabei.",
+          "Die Straßen zum Berg Măgura können eng und kurvig sein.",
+          "Planen Sie Ihre Route im Voraus, da der Handyempfang in den Bergen lückenhaft sein kann."
+        ],
+        "hu": [
+          "A parkolás a központban nehéz lehet piacnapokon.",
+          "Legyen Önnél némi készpénz a parkolási díjakhoz vagy kisebb vásárlásokhoz.",
+          "A Măgura-hegyre vezető utak szűkek és kanyargósak lehetnek.",
+          "Tervezze meg előre az útvonalat, mivel a hegyekben a mobilhálózati lefedettség foltos lehet."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi dificilă în zilele de piață.",
+          "Aveți la dumneavoastră niște numerar pentru taxele de parcare sau cumpărături mici.",
+          "Drumurile spre Muntele Măgura pot fi înguste și sinuoase.",
+          "Planificați-vă traseul în avans, deoarece semnalul mobil poate fi slab la munte."
+        ],
+        "en": [
+          "Parking in the center can be challenging on market days.",
+          "Have some cash on hand for parking fees or small purchases.",
+          "The roads to Măgura Mountain can be narrow and winding.",
+          "Plan your route in advance as cell service can be spotty in the mountains."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrale Bushaltestelle (Piața Revoluției)",
+            "hu": "Központi buszmegálló (Forradalom tér)",
+            "ro": "Stație centrală de autobuz (Piața Revoluției)",
+            "en": "Central Bus Stop (Revolution Square)"
+          },
+          "coords": [
+            24.1515,
+            45.7115
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag, indem Sie den Bus ins Herz der Stadt nehmen.",
+            "hu": "Kezdje a napot azzal, hogy busszal bemegy a város szívébe.",
+            "ro": "Începeți-vă ziua luând autobuzul spre inima orașului.",
+            "en": "Start your day by taking the bus to the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirchenburg",
+            "hu": "Evangélikus erődtemplom",
+            "ro": "Biserica Fortificată Evanghelică",
+            "en": "Evangelical Fortified Church"
+          },
+          "coords": [
+            24.1485,
+            45.7135
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der Bushaltestelle entfernt, ist dies Ihr Hauptstopp am Vormittag.",
+            "hu": "Csak egy rövid séta a buszmegállótól, ez a fő délelőtti megállója.",
+            "ro": "La o scurtă plimbare de stația de autobuz, aceasta este oprirea principală de dimineață.",
+            "en": "Just a short walk from the bus stop, this is your main morning stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Textilindustriemuseum",
+            "hu": "Textilipari Múzeum",
+            "ro": "Muzeul Industriei Textile",
+            "en": "Museum of the Textile Industry"
+          },
+          "coords": [
+            24.1532,
+            45.7095
+          ],
+          "category": "museums",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein gemütlicher Spaziergang durch die Stadt führt Sie zu diesem Museum.",
+            "hu": "Egy kellemes séta a városon keresztül elvezeti ehhez a múzeumhoz.",
+            "ro": "O plimbare lejeră prin oraș vă va duce la acest muzeu.",
+            "en": "A leisurely walk across town will take you to this museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle zum Park",
+            "hu": "Buszmegálló a park felé",
+            "ro": "Stație de autobuz spre parc",
+            "en": "Bus stop towards the Park"
+          },
+          "coords": [
+            24.154,
+            45.708
+          ],
+          "category": "transport",
+          "arrive_at": "13:08",
+          "stay_min": 10,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Warten Sie hier auf den Bus, der Sie zum zweiten Cluster des Tages bringt.",
+            "hu": "Várjon itt a buszra, amely elviszi a nap második látnivalócsoportjához.",
+            "ro": "Așteptați aici autobuzul care vă va duce la al doilea cluster al zilei.",
+            "en": "Wait here for the bus to take you to the second cluster of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitpark Măgura",
+            "hu": "Măgura Szabadidőpark",
+            "ro": "Parcul de Agrement Măgura",
+            "en": "Măgura Leisure Park"
+          },
+          "coords": [
+            24.165,
+            45.705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:48",
+          "stay_min": 123,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nach der Busfahrt können Sie sich entspannen und die Natur genießen.",
+            "hu": "A buszozás után pihenjen és élvezze a természetet.",
+            "ro": "După călătoria cu autobuzul, relaxați-vă și bucurați-vă de natură.",
+            "en": "After the bus ride, relax and enjoy the nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Busse, um Cisnădie zu erkunden. Beginnen Sie im Zentrum und spazieren Sie zur Kirchenburg und zum Textilmuseum. Dieser erste Cluster lässt sich leicht zu Fuß erkunden. Am Nachmittag nehmen Sie einen weiteren Bus zum Freizeitpark Măgura, Ihrem zweiten Cluster. Hier können Sie sich entspannen und die Ruhe außerhalb des Stadtzentrums genießen. Dieser Reiseplan ist ideal für diejenigen, die ein lokales Erlebnis ohne den Stress des Fahrens oder Parkens suchen.",
+        "hu": "Használja a helyi buszokat Nagydisznód felfedezéséhez. Kezdje a központban, és sétáljon el az erődtemplomhoz és a textilmúzeumhoz. Ez az első látnivalócsoport könnyen bejárható gyalog. Délután szálljon fel egy másik buszra a Măgura Szabadidőparkba, a második látnivalócsoporthoz. Itt pihenhet és élvezheti a városközponton kívüli nyugalmat. Ez az útiterv ideális azok számára, akik helyi élményre vágynak a vezetés vagy parkolás stressze nélkül.",
+        "ro": "Folosiți autobuzele locale pentru a explora Cisnădie. Începeți din centru, mergând pe jos la biserica fortificată și la muzeul textil. Acest prim cluster este ușor de explorat pe jos. După-amiaza, luați un alt autobuz spre Parcul de Agrement Măgura, al doilea cluster. Aici vă puteți relaxa și bucura de liniștea din afara centrului orașului. Acest itinerar este ideal pentru cei care caută o experiență locală fără stresul condusului sau parcării.",
+        "en": "Use the local buses to explore Cisnădie. Start in the center, walking to the fortified church and the textile museum. This first cluster is easily explored on foot. In the afternoon, take another bus to the Măgura Leisure Park, your second cluster. Here, you can relax and enjoy the tranquility outside the town center. This itinerary is ideal for those looking for a local experience without the stress of driving or parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi",
+            "tip": "Rumänische Brezeln, ein perfekter Snack für unterwegs."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "Ein pflanzlicher Aufstrich aus geröstetem Gemüse, köstlich auf Brot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perec (Covrigi)",
+            "tip": "Román perec, tökéletes útközbeni harapnivaló."
+          },
+          {
+            "name": "Zakuszka (Zacuscă)",
+            "tip": "Sült zöldségekből készült növényi krém, finom kenyérre kenve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi",
+            "tip": "Covrigi românești, o gustare perfectă din mers."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "O pastă vegetală din legume coapte, delicioasă pe pâine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi",
+            "tip": "Romanian pretzels, a perfect on-the-go snack."
+          },
+          {
+            "name": "Zacuscă",
+            "tip": "A vegetable spread made from roasted vegetables, delicious on bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Straße im historischen Zentrum",
+            "tip": "Verlieren Sie sich in den Gassen abseits des Hauptplatzes.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes utca a történelmi központban",
+            "tip": "Tévedjen el a főtértől távolabb eső sikátorokban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O stradă liniștită în centrul istoric",
+            "tip": "Pierdeți-vă pe aleile departe de piața principală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet street in the historic center",
+            "tip": "Get lost in the alleyways away from the main square.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bäckereien",
+            "tip": "Kaufen Sie frisches Brot und Gebäck für Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek",
+            "tip": "Vásároljon friss kenyeret és péksüteményeket az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării",
+            "tip": "Cumpărați pâine proaspătă și produse de patiserie pentru călătoria dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakeries",
+            "tip": "Buy fresh bread and pastries for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse möglicherweise nicht häufig fahren.",
+          "Kaufen Sie Tickets an einem Kiosk oder, wenn möglich, direkt beim Fahrer.",
+          "Eine Tageskarte könnte kostengünstiger sein, wenn Sie mehrere Fahrten planen.",
+          "Seien Sie sich der letzten Busverbindung zurück ins Zentrum bewusst."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mivel a buszok nem biztos, hogy gyakran közlekednek.",
+          "Vásároljon jegyet egy kioszkban, vagy ha lehetséges, közvetlenül a sofőrtől.",
+          "Egy napijegy költséghatékonyabb lehet, ha több utazást tervez.",
+          "Legyen tisztában az utolsó busz visszaindulásával a központba."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece s-ar putea să nu circule frecvent.",
+          "Cumpărați bilete de la un chioșc sau direct de la șofer, dacă este posibil.",
+          "Un abonament de o zi ar putea fi mai rentabil dacă plănuiți mai multe călătorii.",
+          "Fiți conștienți de ultimul autobuz care se întoarce în centru."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as services may not be frequent.",
+          "Purchase tickets from a kiosk or directly from the driver if possible.",
+          "A day pass might be more cost-effective if you plan on multiple trips.",
+          "Be aware of the last bus back to the center."
+        ]
+      }
+    }
+  }
+}

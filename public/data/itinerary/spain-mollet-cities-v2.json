@@ -1,0 +1,1375 @@
+{
+  "city_id": "spain-mollet-cities-v2",
+  "anchor": {
+    "name": "Mollet del Vallès",
+    "coords": [
+      2.2139,
+      41.5386
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Rathaus von Mollet",
+            "hu": "Mollet városháza",
+            "ro": "Primăria din Mollet",
+            "en": "Mollet Town Hall"
+          },
+          "coords": [
+            2.2141,
+            41.5388
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur des Gebäudes.",
+            "hu": "Csodálja meg az épület modern építészetét.",
+            "ro": "Admirați arhitectura modernă a clădirii.",
+            "en": "Admire the modern architecture of the building."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kirche Sant Vicenç",
+            "hu": "Sant Vicenç templom",
+            "ro": "Biserica Sant Vicenç",
+            "en": "Church of Sant Vicenç"
+          },
+          "coords": [
+            2.2155,
+            41.5395
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den gotischen Elementen im Inneren.",
+            "hu": "Keresse meg a gótikus elemeket a belső térben.",
+            "ro": "Căutați elementele gotice din interior.",
+            "en": "Look for the Gothic elements inside."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Millennium-Denkmal",
+            "hu": "Millenniumi emlékmű",
+            "ro": "Monumentul Mileniului",
+            "en": "Millennium Monument"
+          },
+          "coords": [
+            2.2125,
+            41.5401
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein toller Ort für ein Erinnerungsfoto.",
+            "hu": "Remek hely egy emlékfotó készítéséhez.",
+            "ro": "Un loc grozav pentru o fotografie suvenir.",
+            "en": "A great spot for a souvenir photo."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Abelló Museum",
+            "hu": "Abelló Múzeum",
+            "ro": "Muzeul Abelló",
+            "en": "Abelló Museum"
+          },
+          "coords": [
+            2.2105,
+            41.5372
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Sammlung moderner katalanischer Kunst.",
+            "hu": "Koncentráljon a modern katalán művészeti gyűjteményre.",
+            "ro": "Concentrați-vă pe colecția de artă modernă catalană.",
+            "en": "Focus on the collection of modern Catalan art."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Mittagessen im El Tabaran",
+            "hu": "Ebéd az El Tabaran-ban",
+            "ro": "Prânz la El Tabaran",
+            "en": "Lunch at El Tabaran"
+          },
+          "coords": [
+            2.2115,
+            41.5365
+          ],
+          "category": "gastro",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie die lokalen Tapas-Spezialitäten.",
+            "hu": "Kóstolja meg a helyi tapas különlegességeket.",
+            "ro": "Încercați specialitățile locale de tapas.",
+            "en": "Try the local tapas specialities."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Can Mulà Park",
+            "hu": "Can Mulà Park",
+            "ro": "Parcul Can Mulà",
+            "en": "Can Mulà Park"
+          },
+          "coords": [
+            2.218,
+            41.542
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine entspannte Pause am Nachmittag.",
+            "hu": "Ideális hely egy pihentető délutáni szünethez.",
+            "ro": "Un loc ideal pentru o pauză relaxantă de după-amiază.",
+            "en": "An ideal place for a relaxing afternoon break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Mollet am Rathausplatz und der nahegelegenen Kirche Sant Vicenç. Spüren Sie die lokale Atmosphäre, bevor Sie sich auf den Weg machen. Am Vormittag tauchen Sie in die Kunst ein. Das Millennium-Denkmal bietet einen Fotostopp, bevor Sie die beeindruckende Sammlung des Abelló-Museums erkunden. Nach der Kultur ist es Zeit für die Gastronomie. Genießen Sie ein authentisches katalanisches Mittagessen im El Tabaran und tanken Sie Energie für den Nachmittag. Den Abschluss bildet der Can Mulà Park. Schlendern Sie durch das Grün, entspannen Sie am See und lassen Sie die Eindrücke des Tages in dieser städtischen Oase Revue passieren.",
+        "hu": "Kezdje a napot Mollet szívében a Városháza téren és a közeli Sant Vicenç templomnál. Érezze a helyi légkört, mielőtt továbbhalad. Délelőtt merüljön el a művészetben. A Millenniumi emlékmű egy fotómegállót kínál, mielőtt felfedezné az Abelló Múzeum lenyűgöző gyűjteményét. A kultúra után jöhet a gasztronómia. Élvezzen egy autentikus katalán ebédet az El Tabaran-ban, és töltődjön fel energiával a délutánra. A napot a Can Mulà Park zárja. Sétáljon a zöldben, pihenjen a tónál, és elevenítse fel a nap benyomásait ebben a városi oázisban.",
+        "ro": "Începeți ziua în inima orașului Mollet, la Piața Primăriei și la biserica Sant Vicenç din apropiere. Simțiți atmosfera locală înainte de a porni la drum. Dimineața, scufundați-vă în artă. Monumentul Mileniului oferă o oprire pentru fotografii înainte de a explora colecția impresionantă a Muzeului Abelló. După cultură, este timpul pentru gastronomie. Bucurați-vă de un prânz catalan autentic la El Tabaran și reîncărcați-vă bateriile pentru după-amiază. Ziua se încheie în Parcul Can Mulà. Plimbați-vă prin verdeață, relaxați-vă lângă lac și retrăiți impresiile zilei în această oază urbană.",
+        "en": "Start your day in the heart of Mollet at the Town Hall square and the nearby Sant Vicenç church. Feel the local atmosphere before moving on. In the morning, immerse yourself in art. The Millennium Monument offers a photo stop before you explore the impressive collection of the Abelló Museum. After culture, it's time for gastronomy. Enjoy an authentic Catalan lunch at El Tabaran and recharge your energy for the afternoon. The day concludes at Can Mulà Park. Stroll through the greenery, relax by the lake, and reflect on the day's impressions in this urban oasis."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "Das klassische katalanische geröstete Brot mit Tomate und Olivenöl."
+          },
+          {
+            "name": "Escudella i carn d'olla",
+            "tip": "Ein herzhafter katalanischer Eintopf, perfekt für ein sättigendes Mittagessen."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Beenden Sie Ihr Essen mit diesem berühmten karamellisierten Pudding-Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "A klasszikus katalán pirított kenyér paradicsommal és olívaolajjal."
+          },
+          {
+            "name": "Escudella i carn d'olla",
+            "tip": "Egy kiadós katalán egytálétel, tökéletes egy laktató ebédhez."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Zárja az étkezést ezzel a híres karamellizált puding desszerttel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "Pâinea prăjită clasică catalană cu roșii și ulei de măsline."
+          },
+          {
+            "name": "Escudella i carn d'olla",
+            "tip": "O tocană catalană consistentă, perfectă pentru un prânz sățios."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Încheiați masa cu acest faimos desert de budincă caramelizată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pa amb tomàquet",
+            "tip": "The classic Catalan toasted bread with tomato and olive oil."
+          },
+          {
+            "name": "Escudella i carn d'olla",
+            "tip": "A hearty Catalan stew, perfect for a filling lunch."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "End your meal with this famous caramelized custard dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Can Mulà Park",
+            "tip": "Finden Sie eine ruhige Bank am See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gallecs (Ländliches Gebiet)",
+            "tip": "Ein Spaziergang durch die Felder außerhalb der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Früher Morgen bei Sant Vicenç",
+            "tip": "Erleben Sie die Stille, bevor die Stadt erwacht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Can Mulà Park",
+            "tip": "Keressen egy csendes padot a tónál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gallecs (Vidéki terület)",
+            "tip": "Séta a városon kívüli mezőkön.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggel a Sant Vicenç-nél",
+            "tip": "Élvezze a csendet, mielőtt a város felébred.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Can Mulà",
+            "tip": "Găsiți o bancă liniștită lângă lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gallecs (Zonă rurală)",
+            "tip": "O plimbare pe câmpurile din afara orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dimineața devreme la Sant Vicenç",
+            "tip": "Experimentați liniștea înainte ca orașul să se trezească.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Can Mulà Park",
+            "tip": "Find a quiet bench by the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gallecs (Rural Area)",
+            "tip": "A walk through the fields outside the town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Early morning at Sant Vicenç",
+            "tip": "Experience the quiet before the town wakes up.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Städtischer Markt",
+            "tip": "Kaufen Sie lokale Produkte und Käse."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Suchen Sie nach handwerklich hergestelltem Gebäck wie 'coca'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi piac",
+            "tip": "Vásároljon helyi termékeket és sajtokat."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Keressen kézműves süteményeket, mint például a 'coca'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Municipală",
+            "tip": "Cumpărați produse locale și brânzeturi."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Căutați produse de patiserie artizanale precum 'coca'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Market",
+            "tip": "Shop for local produce and cheeses."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Look for artisanal pastries like 'coca'."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine wiederverwendbare Wasserflasche ist eine gute Idee, um hydriert zu bleiben.",
+          "Starten Sie früh, um die Vormittagshitze zu vermeiden.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Egy újratölthető vizes palack jó ötlet a hidratáltsághoz.",
+          "Kezdje korán, hogy elkerülje a délelőtti hőséget.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "O sticlă de apă reutilizabilă este o idee bună pentru a rămâne hidratat.",
+          "Începeți devreme pentru a evita căldura de la amiază.",
+          "Verificați dinainte orele de deschidere ale muzeului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "A reusable water bottle is a good idea to stay hydrated.",
+          "Start early to avoid the midday heat.",
+          "Check the museum's opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Rathaus von Mollet",
+            "hu": "Mollet városháza",
+            "ro": "Primăria din Mollet",
+            "en": "Mollet Town Hall"
+          },
+          "coords": [
+            2.2141,
+            41.5388
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezi a teret.",
+            "ro": "Încuietoarea bicicletei în siguranță înainte de a explora piața.",
+            "en": "Lock your bike securely before exploring the square."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Can Mulà Park",
+            "hu": "Can Mulà Park",
+            "ro": "Parcul Can Mulà",
+            "en": "Can Mulà Park"
+          },
+          "coords": [
+            2.218,
+            41.542
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:26",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine kurze Radtour durch den Park.",
+            "hu": "Élvezze a rövid kerékpártúrát a parkon keresztül.",
+            "ro": "Bucurați-vă de o scurtă plimbare cu bicicleta prin parc.",
+            "en": "Enjoy a short bike ride through the park."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Abelló Museum",
+            "hu": "Abelló Múzeum",
+            "ro": "Muzeul Abelló",
+            "en": "Abelló Museum"
+          },
+          "coords": [
+            2.2105,
+            41.5372
+          ],
+          "category": "museums",
+          "arrive_at": "10:19",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Eingangs.",
+            "hu": "A bejárat közelében kerékpártárolók találhatók.",
+            "ro": "Există suporturi pentru biciclete lângă intrare.",
+            "en": "There are bike racks near the entrance."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Masia de Can Borrell",
+            "hu": "Masia de Can Borrell",
+            "ro": "Masia de Can Borrell",
+            "en": "Masia de Can Borrell"
+          },
+          "coords": [
+            2.198,
+            41.535
+          ],
+          "category": "historical",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein historisches Bauernhaus, das sich hervorragend für ein rustikales Mittagessen eignet.",
+            "hu": "Egy történelmi parasztház, amely kiválóan alkalmas egy rusztikus ebédre.",
+            "ro": "O fermă istorică, excelentă pentru un prânz rustic.",
+            "en": "A historic farmhouse, excellent for a rustic lunch."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Gallecs (Ländliches Gebiet)",
+            "hu": "Gallecs (Vidéki terület)",
+            "ro": "Gallecs (Zonă rurală)",
+            "en": "Gallecs (Rural Area)"
+          },
+          "coords": [
+            2.185,
+            41.55
+          ],
+          "category": "natural features",
+          "arrive_at": "13:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie auf den Feldwegen und genießen Sie die Natur.",
+            "hu": "Kerékpározzon a földutakon és élvezze a természetet.",
+            "ro": "Mergeți cu bicicleta pe drumurile de pământ și bucurați-vă de natură.",
+            "en": "Cycle on the dirt tracks and enjoy nature."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kirche Sant Vicenç",
+            "hu": "Sant Vicenç templom",
+            "ro": "Biserica Sant Vicenç",
+            "en": "Church of Sant Vicenç"
+          },
+          "coords": [
+            2.2155,
+            41.5395
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein Moment der Ruhe nach einer langen Radtour.",
+            "hu": "Egy pillanatnyi nyugalom egy hosszú kerékpártúra után.",
+            "ro": "Un moment de liniște după o plimbare lungă cu bicicleta.",
+            "en": "A moment of peace after a long bike ride."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "El Tabaran für einen Drink",
+            "hu": "Egy ital az El Tabaran-ban",
+            "ro": "O băutură la El Tabaran",
+            "en": "A drink at El Tabaran"
+          },
+          "coords": [
+            2.2115,
+            41.5365
+          ],
+          "category": "gastro",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem kalten Getränk.",
+            "hu": "Jutalmazza meg magát egy hideg itallal.",
+            "ro": "Recompensați-vă cu o băutură rece.",
+            "en": "Reward yourself with a cold drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Rathaus. Die erste Etappe führt Sie in den grünen Can Mulà Park. Nach einer kurzen Pause geht es weiter zur Kultur: Das Abelló-Museum wartet. Stärken Sie sich mittags in der historischen Masia de Can Borrell, einem perfekten Ort, um die ländliche Atmosphäre zu genießen. Der Nachmittag gehört ganz der Natur. Eine ausgedehnte Radtour durch das ländliche Gebiet von Gallecs bietet weite Ausblicke und frische Luft. Auf dem Rückweg ins Zentrum besuchen Sie die Kirche Sant Vicenç für einen Moment der Besinnung. Beenden Sie Ihren aktiven Tag mit einem erfrischenden Getränk im El Tabaran.",
+        "hu": "Pattanjon kerékpárra és induljon a Városházától. Az első szakasz a zöld Can Mulà Parkba vezet. Egy rövid szünet után irány a kultúra: az Abelló Múzeum várja. Ebédre erősítsen a történelmi Masia de Can Borrell-ben, amely tökéletes hely a vidéki hangulat élvezetéhez. A délután a természeté. Egy kiterjedt kerékpártúra a Gallecs vidéki területén tágas kilátást és friss levegőt kínál. Visszafelé a központba látogasson el a Sant Vicenç templomba egy pillanatnyi elmélyülésre. Zárja az aktív napot egy frissítő itallal az El Tabaran-ban.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la Primărie. Prima etapă vă duce în Parcul verde Can Mulà. După o scurtă pauză, continuați spre cultură: Muzeul Abelló vă așteaptă. La prânz, întăriți-vă la istorica Masia de Can Borrell, un loc perfect pentru a vă bucura de atmosfera rurală. După-amiaza este dedicată naturii. O plimbare extinsă cu bicicleta prin zona rurală Gallecs oferă vederi largi și aer proaspăt. Pe drumul de întoarcere spre centru, vizitați Biserica Sant Vicenç pentru un moment de reculegere. Încheiați ziua activă cu o băutură răcoritoare la El Tabaran.",
+        "en": "Get on your bike and start from the Town Hall. The first leg takes you to the green Can Mulà Park. After a short break, continue to culture: the Abelló Museum awaits. For lunch, refuel at the historic Masia de Can Borrell, a perfect place to enjoy the rural atmosphere. The afternoon is all about nature. An extensive bike tour through the Gallecs rural area offers wide views and fresh air. On the way back to the center, visit the Church of Sant Vicenç for a moment of reflection. End your active day with a refreshing drink at El Tabaran."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Ein klassisches spanisches Sandwich, ideal für unterwegs."
+          },
+          {
+            "name": "Frisches Obst vom Markt",
+            "tip": "Ein gesunder und erfrischender Snack."
+          },
+          {
+            "name": "Masia de Can Borrell",
+            "tip": "Genießen Sie traditionelle katalanische Küche in rustikalem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Egy klasszikus spanyol szendvics, ideális útközben."
+          },
+          {
+            "name": "Friss gyümölcs a piacról",
+            "tip": "Egészséges és frissítő snack."
+          },
+          {
+            "name": "Masia de Can Borrell",
+            "tip": "Élvezze a hagyományos katalán konyhát rusztikus környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Un sandviș spaniol clasic, ideal pentru drum."
+          },
+          {
+            "name": "Fructe proaspete de la piață",
+            "tip": "O gustare sănătoasă și răcoritoare."
+          },
+          {
+            "name": "Masia de Can Borrell",
+            "tip": "Bucurați-vă de bucătăria tradițională catalană într-un cadru rustic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "A classic Spanish sandwich, ideal for on the go."
+          },
+          {
+            "name": "Fresh fruit from the market",
+            "tip": "A healthy and refreshing snack."
+          },
+          {
+            "name": "Masia de Can Borrell",
+            "tip": "Enjoy traditional Catalan cuisine in a rustic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gallecs",
+            "tip": "Die Stille der landwirtschaftlichen Felder.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Can Mulà Park",
+            "tip": "Eine ruhige Ecke abseits der Hauptwege.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Besòs-Flusses",
+            "tip": "Ein Radweg entlang des Flusses für eine friedliche Fahrt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gallecs",
+            "tip": "A mezőgazdasági területek csendje.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Can Mulà Park",
+            "tip": "Egy csendes sarok a fő utaktól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Besòs folyó partja",
+            "tip": "Kerékpárút a folyó mentén egy békés utazáshoz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gallecs",
+            "tip": "Liniștea câmpurilor agricole.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Can Mulà",
+            "tip": "Un colț liniștit, departe de căile principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Besòs",
+            "tip": "O pistă de biciclete de-a lungul râului pentru o plimbare liniștită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gallecs",
+            "tip": "The silence of the agricultural fields.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Can Mulà Park",
+            "tip": "A quiet corner away from the main paths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Besòs River",
+            "tip": "A cycle path along the river for a peaceful ride.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Ideal, um Proviant für die Tour zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Ideális útravaló vásárlásához a túrára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Ideal pentru a cumpăra provizii pentru tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "For any accessories or quick repairs."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Ideal for buying provisions for the tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie genügend Wasser und einige Snacks mit.",
+          "Nutzen Sie ausgewiesene Radwege, wo immer möglich."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "Sisak viselése erősen ajánlott.",
+          "Vigyen magával elegendő vizet és némi harapnivalót.",
+          "Ahol csak lehetséges, használja a kijelölt kerékpárutakat."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "O cască este puternic recomandată.",
+          "Luați suficientă apă și câteva gustări.",
+          "Folosiți pistele de biciclete desemnate ori de câte ori este posibil."
+        ],
+        "en": [
+          "Check your bike before you leave, especially brakes and tires.",
+          "A helmet is highly recommended.",
+          "Take plenty of water and some snacks.",
+          "Use designated bike paths wherever possible."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Parken und Erkunden von Gallecs",
+            "hu": "Parkolás és a Gallecs felfedezése",
+            "ro": "Parcați și explorați Gallecs",
+            "en": "Park and Explore Gallecs"
+          },
+          "coords": [
+            2.185,
+            41.55
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in der Natur. Es gibt ausgewiesene Parkplätze.",
+            "hu": "Kezdje a napot a természetben. Kijelölt parkolóhelyek állnak rendelkezésre.",
+            "ro": "Începeți ziua în natură. Există parcări desemnate.",
+            "en": "Start the day in nature. There are designated parking areas."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Masia de Can Borrell",
+            "hu": "Masia de Can Borrell",
+            "ro": "Masia de Can Borrell",
+            "en": "Masia de Can Borrell"
+          },
+          "coords": [
+            2.198,
+            41.535
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein historisches Bauernhaus, das sich hervorragend für ein rustikales Mittagessen eignet.",
+            "hu": "Egy történelmi parasztház, amely kiválóan alkalmas egy rusztikus ebédre.",
+            "ro": "O fermă istorică, excelentă pentru un prânz rustic.",
+            "en": "A historic farmhouse, excellent for a rustic lunch."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Parken im Zentrum & Abelló Museum",
+            "hu": "Parkolás a központban & Abelló Múzeum",
+            "ro": "Parcare în centru & Muzeul Abelló",
+            "en": "Park in Center & Abelló Museum"
+          },
+          "coords": [
+            2.21,
+            41.5375
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen zentralen Parkplatz, um den Rest zu Fuß zu erkunden.",
+            "hu": "Keressen egy központi parkolót, hogy a többit gyalog fedezhesse fel.",
+            "ro": "Găsiți o parcare centrală pentru a explora restul pe jos.",
+            "en": "Find a central parking spot to explore the rest on foot."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Rathaus von Mollet",
+            "hu": "Mollet városháza",
+            "ro": "Primăria din Mollet",
+            "en": "Mollet Town Hall"
+          },
+          "coords": [
+            2.2141,
+            41.5388
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zum Hauptplatz der Stadt.",
+            "hu": "Rövid séta a múzeumtól a város főterére.",
+            "ro": "O scurtă plimbare de la muzeu la piața principală a orașului.",
+            "en": "A short walk from the museum to the city's main square."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kirche Sant Vicenç",
+            "hu": "Sant Vicenç templom",
+            "ro": "Biserica Sant Vicenç",
+            "en": "Church of Sant Vicenç"
+          },
+          "coords": [
+            2.2155,
+            41.5395
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Gotteshauses.",
+            "hu": "Csodálja meg ennek a történelmi templomnak az építészetét.",
+            "ro": "Admirați arhitectura acestei biserici istorice.",
+            "en": "Admire the architecture of this historic church."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Entspannung im Can Mulà Park",
+            "hu": "Pihenés a Can Mulà Parkban",
+            "ro": "Relaxare în Parcul Can Mulà",
+            "en": "Relax at Can Mulà Park"
+          },
+          "coords": [
+            2.218,
+            41.542
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang, bevor Sie zum Auto zurückkehren.",
+            "hu": "Zárja a napot egy sétával, mielőtt visszatér az autóhoz.",
+            "ro": "Încheiați ziua cu o plimbare înainte de a vă întoarce la mașină.",
+            "en": "End the day with a stroll before returning to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren motorisierten Ausflug im Grünen. Fahren Sie morgens direkt in das ländliche Gebiet von Gallecs, parken Sie Ihr Auto und genießen Sie die Natur. Anschließend fahren Sie zur historischen Masia de Can Borrell, einem idealen Ort für ein ausgedehntes Mittagessen in authentischer Umgebung. Am Nachmittag fahren Sie ins Stadtzentrum. Parken Sie Ihr Auto in der Nähe des Abelló-Museums und erkunden Sie den Rest des Tages zu Fuß. Nach dem Museumsbesuch schlendern Sie zum Rathausplatz und zur Kirche Sant Vicenç, dem pulsierenden Herzen von Mollet. Lassen Sie den Tag mit einem entspannten Spaziergang im Can Mulà Park ausklingen, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Kezdje a motorizált kirándulást a zöldben. Reggel vezessen egyenesen a Gallecs vidéki területére, parkolja le autóját és élvezze a természetet. Ezután hajtson a történelmi Masia de Can Borrell-hez, amely ideális hely egy bőséges ebédhez autentikus környezetben. Délután irány a városközpont. Parkolja le autóját az Abelló Múzeum közelében, és a nap hátralévő részét gyalog fedezze fel. A múzeumlátogatás után sétáljon el a Városháza térre és a Sant Vicenç templomhoz, Mollet lüktető szívébe. Zárja a napot egy pihentető sétával a Can Mulà Parkban, mielőtt visszatér az autójához.",
+        "ro": "Începeți excursia motorizată în natură. Dimineața, conduceți direct în zona rurală Gallecs, parcați mașina și bucurați-vă de natură. Apoi, mergeți la istorica Masia de Can Borrell, un loc ideal pentru un prânz lung într-un cadru autentic. După-amiaza, mergeți în centrul orașului. Parcați mașina lângă Muzeul Abelló și explorați restul zilei pe jos. După vizita la muzeu, plimbați-vă până la Piața Primăriei și Biserica Sant Vicenç, inima vibrantă a orașului Mollet. Încheiați ziua cu o plimbare relaxantă în Parcul Can Mulà înainte de a vă întoarce la mașină.",
+        "en": "Start your motorized trip in the green. In the morning, drive directly to the Gallecs rural area, park your car, and enjoy nature. Then, head to the historic Masia de Can Borrell, an ideal place for a leisurely lunch in an authentic setting. In the afternoon, head to the city center. Park your car near the Abelló Museum and explore the rest of the day on foot. After the museum visit, stroll to the Town Hall square and the Church of Sant Vicenç, the vibrant heart of Mollet. End the day with a relaxing walk in Can Mulà Park before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Masia de Can Borrell",
+            "tip": "Genießen Sie ein Menü mit regionalen Produkten."
+          },
+          {
+            "name": "Lokale Metzgerei (Xarcuteria)",
+            "tip": "Kaufen Sie erstklassigen Jamón Ibérico und lokale Wurstwaren für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Masia de Can Borrell",
+            "tip": "Élvezzen egy menüt regionális termékekből."
+          },
+          {
+            "name": "Helyi hentes (Xarcuteria)",
+            "tip": "Vásároljon első osztályú Jamón Ibérico-t és helyi kolbászokat egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Masia de Can Borrell",
+            "tip": "Bucurați-vă de un meniu cu produse regionale."
+          },
+          {
+            "name": "Măcelărie locală (Xarcuteria)",
+            "tip": "Cumpărați Jamón Ibérico de primă clasă și mezeluri locale pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Masia de Can Borrell",
+            "tip": "Enjoy a menu featuring regional products."
+          },
+          {
+            "name": "Local Butcher (Xarcuteria)",
+            "tip": "Buy top-quality Jamón Ibérico and local sausages for a picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gallecs",
+            "tip": "Die Ruhe der Natur nur wenige Autominuten von der Stadt entfernt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein stiller Winkel im Can Mulà Park",
+            "tip": "Perfekt für eine Pause nach dem Stadtrundgang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gallecs",
+            "tip": "A természet nyugalma csak néhány perces autóútra a várostól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendes sarok a Can Mulà Parkban",
+            "tip": "Tökéletes egy szünetre a városnézés után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gallecs",
+            "tip": "Liniștea naturii la doar câteva minute cu mașina de oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Un colț liniștit în Parcul Can Mulà",
+            "tip": "Perfect pentru o pauză după turul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gallecs",
+            "tip": "The tranquility of nature just a few minutes' drive from the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet corner in Can Mulà Park",
+            "tip": "Perfect for a break after the city tour.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in Gallecs",
+            "tip": "Kaufen Sie Bio-Gemüse und Honig direkt vom Erzeuger."
+          },
+          {
+            "name": "Weingeschäfte",
+            "tip": "Entdecken Sie Weine aus der nahen Weinregion Penedès."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok Gallecs-ben",
+            "tip": "Vásároljon biozöldséget és mézet közvetlenül a termelőtől."
+          },
+          {
+            "name": "Borboltok",
+            "tip": "Fedezze fel a közeli Penedès borrégió borait."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă în Gallecs",
+            "tip": "Cumpărați legume organice și miere direct de la producător."
+          },
+          {
+            "name": "Magazine de vinuri",
+            "tip": "Descoperiți vinuri din regiunea viticolă Penedès din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in Gallecs",
+            "tip": "Buy organic vegetables and honey directly from the producer."
+          },
+          {
+            "name": "Wine shops",
+            "tip": "Discover wines from the nearby Penedès wine region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Suchen Sie nach öffentlichen Parkplätzen (blaue Zonen sind oft zeitlich begrenzt).",
+          "Planen Sie Ihre Route im Voraus, um Verkehr zu vermeiden.",
+          "Ein kleineres Auto ist in engen Straßen von Vorteil.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+        ],
+        "hu": [
+          "Keressen nyilvános parkolókat (a kék zónák gyakran időkorlátosak).",
+          "Tervezze meg előre az útvonalat a forgalom elkerülése érdekében.",
+          "Egy kisebb autó előnyös a szűk utcákban.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban."
+        ],
+        "ro": [
+          "Căutați parcări publice (zonele albastre sunt adesea limitate în timp).",
+          "Planificați-vă traseul în avans pentru a evita traficul.",
+          "O mașină mai mică este avantajoasă pe străzile înguste.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Look for public car parks (blue zones are often time-limited).",
+          "Plan your route in advance to avoid traffic.",
+          "A smaller car is advantageous in narrow streets.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Ankunft im Zentrum & Rathaus",
+            "hu": "Érkezés a központba & Városháza",
+            "ro": "Sosire în centru & Primărie",
+            "en": "Arrival in Center & Town Hall"
+          },
+          "coords": [
+            2.2141,
+            41.5388
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Busbahnhof oder Bahnhof.",
+            "hu": "Kezdje a központi busz- vagy vasútállomáson.",
+            "ro": "Începeți de la autogara centrală sau gară.",
+            "en": "Start at the central bus or train station."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kirche Sant Vicenç",
+            "hu": "Sant Vicenç templom",
+            "ro": "Biserica Sant Vicenç",
+            "en": "Church of Sant Vicenç"
+          },
+          "coords": [
+            2.2155,
+            41.5395
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Rathausplatz.",
+            "hu": "Csak egy rövid séta a Városháza tértől.",
+            "ro": "La doar o scurtă plimbare de Piața Primăriei.",
+            "en": "Just a short walk from the Town Hall square."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Bus zum Abelló Museum",
+            "hu": "Busszal az Abelló Múzeumhoz",
+            "ro": "Autobuz spre Muzeul Abelló",
+            "en": "Bus to Abelló Museum"
+          },
+          "coords": [
+            2.2105,
+            41.5372
+          ],
+          "category": "museums",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mehrere Buslinien verbinden das Zentrum mit dem Museumsviertel.",
+            "hu": "Több buszjárat köti össze a központot a múzeumi negyeddel.",
+            "ro": "Mai multe linii de autobuz leagă centrul de cartierul muzeelor.",
+            "en": "Several bus lines connect the center to the museum district."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Mittagessen im El Tabaran",
+            "hu": "Ebéd az El Tabaran-ban",
+            "ro": "Prânz la El Tabaran",
+            "en": "Lunch at El Tabaran"
+          },
+          "coords": [
+            2.2115,
+            41.5365
+          ],
+          "category": "gastro",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum.",
+            "hu": "Rövid séta a múzeumtól.",
+            "ro": "O scurtă plimbare de la muzeu.",
+            "en": "A short walk from the museum."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Bus zum Can Mulà Park",
+            "hu": "Busszal a Can Mulà Parkba",
+            "ro": "Autobuz spre Parcul Can Mulà",
+            "en": "Bus to Can Mulà Park"
+          },
+          "coords": [
+            2.218,
+            41.542
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der Sie in die Nähe des Parks bringt.",
+            "hu": "Menjen busszal, amely a park közelébe visz.",
+            "ro": "Luați un autobuz care vă duce aproape de parc.",
+            "en": "Take a bus that gets you close to the park."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Millennium-Denkmal",
+            "hu": "Millenniumi emlékmű",
+            "ro": "Monumentul Mileniului",
+            "en": "Millennium Monument"
+          },
+          "coords": [
+            2.2125,
+            41.5401
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter Fotostopp auf dem Weg zurück zum Bahnhof.",
+            "hu": "Egy utolsó fotómegálló a vasútállomás felé vezető úton.",
+            "ro": "O ultimă oprire foto în drum spre gară.",
+            "en": "A final photo stop on your way back to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel für einen stressfreien Tag. Starten Sie im Zentrum am Rathaus und der Kirche Sant Vicenç, die leicht zu Fuß erreichbar sind. Nehmen Sie dann einen Bus zum Abelló-Museum, um in die lokale Kunstszene einzutauchen. Nach dem Museumsbesuch stärken Sie sich bei einem Mittagessen im nahegelegenen El Tabaran. Ein weiterer Bus bringt Sie am Nachmittag zum Can Mulà Park, der grünen Lunge der Stadt. Entspannen Sie sich im Park, bevor Sie zu Fuß zum Millennium-Denkmal für ein letztes Foto spazieren und von dort aus Ihre Heimreise antreten.",
+        "hu": "Használja a tömegközlekedést egy stresszmentes naphoz. Kezdje a központban a Városházánál és a Sant Vicenç templomnál, amelyek gyalogosan könnyen elérhetők. Ezután vegyen egy buszt az Abelló Múzeumhoz, hogy elmerüljön a helyi művészeti életben. A múzeumlátogatás után erősítse meg magát egy ebéddel a közeli El Tabaran-ban. Délután egy másik busz viszi el a Can Mulà Parkba, a város zöld tüdejébe. Pihenjen a parkban, mielőtt gyalog elsétál a Millenniumi emlékműhöz egy utolsó fotóért, és onnan hazaindul.",
+        "ro": "Folosiți transportul public pentru o zi fără stres. Începeți în centru, la Primărie și Biserica Sant Vicenç, ușor accesibile pe jos. Apoi, luați un autobuz spre Muzeul Abelló pentru a vă cufunda în scena artistică locală. După vizita la muzeu, reîncărcați-vă cu un prânz la El Tabaran din apropiere. Un alt autobuz vă va duce după-amiaza la Parcul Can Mulà, plămânul verde al orașului. Relaxați-vă în parc înainte de a vă plimba pe jos până la Monumentul Mileniului pentru o ultimă fotografie și de a vă întoarce acasă de acolo.",
+        "en": "Use public transport for a stress-free day. Start in the center at the Town Hall and the Church of Sant Vicenç, which are easily accessible on foot. Then, take a bus to the Abelló Museum to immerse yourself in the local art scene. After the museum visit, refuel with lunch at the nearby El Tabaran. Another bus will take you to Can Mulà Park, the city's green lung, in the afternoon. Relax in the park before walking to the Millennium Monument for a final photo and then heading home from there."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cafè amb llet (Kaffee mit Milch)",
+            "tip": "Starten Sie den Tag wie ein Einheimischer in einem Café in der Nähe des Bahnhofs."
+          },
+          {
+            "name": "Tapas-Bar-Hopping",
+            "tip": "Nutzen Sie die Busverbindungen, um verschiedene Viertel zu erkunden und deren Tapas-Bars zu testen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cafè amb llet (tejeskávé)",
+            "tip": "Kezdje a napot mint egy helyi egy kávézóban az állomás közelében."
+          },
+          {
+            "name": "Tapas bár túra",
+            "tip": "Használja a buszjáratokat a különböző negyedek felfedezéséhez és a tapas bárok kipróbálásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafè amb llet (cafea cu lapte)",
+            "tip": "Începeți ziua ca un localnic într-o cafenea lângă gară."
+          },
+          {
+            "name": "Tur de baruri de tapas",
+            "tip": "Folosiți legăturile de autobuz pentru a explora diferite cartiere și a încerca barurile lor de tapas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cafè amb llet (coffee with milk)",
+            "tip": "Start the day like a local in a café near the station."
+          },
+          {
+            "name": "Tapas bar hopping",
+            "tip": "Use the bus connections to explore different neighborhoods and try their tapas bars."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Bietet eine andere Perspektive auf die Stadt in relativer Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank im Can Mulà Park",
+            "tip": "Der perfekte Ort, um auf den nächsten Bus zu warten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Más perspektívát nyújt a városra viszonylagos nyugalomban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad a Can Mulà Parkban",
+            "tip": "Tökéletes hely a következő buszra való várakozáshoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz cu etaj",
+            "tip": "Oferă o perspectivă diferită asupra orașului într-o liniște relativă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă în Parcul Can Mulà",
+            "tip": "Locul perfect pentru a aștepta următorul autobuz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "The upper deck of a double-decker bus",
+            "tip": "Offers a different perspective of the city in relative quiet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench in Can Mulà Park",
+            "tip": "The perfect place to wait for the next bus.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe von Bushaltestellen",
+            "tip": "Ideal für schnelle Souvenireinkäufe."
+          },
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Für Zeitschriften, Snacks und Getränke für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a buszmegállók közelében",
+            "tip": "Ideális gyors szuvenírvásárláshoz."
+          },
+          {
+            "name": "Kioszk az állomáson",
+            "tip": "Magazinokért, rágcsálnivalókért és italokért az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă stațiile de autobuz",
+            "tip": "Ideal pentru cumpărături rapide de suveniruri."
+          },
+          {
+            "name": "Chioșc la gară",
+            "tip": "Pentru reviste, gustări și băuturi pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near bus stops",
+            "tip": "Ideal for quick souvenir shopping."
+          },
+          {
+            "name": "Kiosk at the station",
+            "tip": "For magazines, snacks, and drinks for the journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte (T-Dia) für unbegrenzte Fahrten.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Achten Sie auf Ihre Sachen, besonders in vollen Bussen.",
+          "Validieren Sie Ihr Ticket bei jedem Einstieg."
+        ],
+        "hu": [
+          "Vásároljon napijegyet (T-Dia) a korlátlan utazáshoz.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Vigyázzon a holmijára, különösen a zsúfolt buszokon.",
+          "Minden felszálláskor érvényesítse a jegyét."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi (T-Dia) pentru călătorii nelimitate.",
+          "Descărcați aplicația locală de transport public pentru a vedea orarele în timp real.",
+          "Aveți grijă de bunurile dumneavoastră, mai ales în autobuzele aglomerate.",
+          "Validați biletul la fiecare urcare."
+        ],
+        "en": [
+          "Buy a day ticket (T-Dia) for unlimited travel.",
+          "Download the local public transport app to see real-time schedules.",
+          "Be aware of your belongings, especially on crowded buses.",
+          "Validate your ticket every time you board."
+        ]
+      }
+    }
+  }
+}

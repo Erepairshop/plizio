@@ -1,0 +1,1484 @@
+{
+  "city_id": "moldova-balti-cities-v2",
+  "anchor": {
+    "name": "Piața Independenței",
+    "coords": [
+      27.9289,
+      47.7611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Unabhängigkeit",
+            "hu": "Függetlenség tere",
+            "ro": "Piața Independenței",
+            "en": "Independence Square"
+          },
+          "coords": [
+            27.9289,
+            47.7611
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der perfekte Startpunkt. Suchen Sie nach dem Panzerdenkmal aus der Sowjetzeit.",
+            "hu": "Tökéletes kiindulópont. Keresse a szovjet korabeli tank-emlékművet.",
+            "ro": "Punctul de plecare perfect. Căutați monumentul tancului din epoca sovietică.",
+            "en": "The perfect starting point. Look for the Soviet-era tank monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationaltheater Vasile Alecsandri",
+            "hu": "Vasile Alecsandri Nemzeti Színház",
+            "ro": "Teatrul Național „Vasile Alecsandri”",
+            "en": "Vasile Alecsandri National Theatre"
+          },
+          "coords": [
+            27.9275,
+            47.7605
+          ],
+          "category": "theatres",
+          "arrive_at": "09:39",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Architektur, auch wenn Sie keine Vorstellung besuchen.",
+            "hu": "Csodálja meg a neoklasszicista építészetet, még ha nem is megy előadásra.",
+            "ro": "Admirați arhitectura neoclasică, chiar dacă nu prindeți un spectacol.",
+            "en": "Admire the neoclassical architecture, even if you don't catch a show."
+          }
+        },
+        {
+          "name": {
+            "de": "Geschichts- und Ethnografiemuseum",
+            "hu": "Történeti és Néprajzi Múzeum",
+            "ro": "Muzeul de Istorie și Etnografie",
+            "en": "Museum of History and Ethnography"
+          },
+          "coords": [
+            27.926,
+            47.7615
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Exponate zur lokalen Kultur und den traditionellen Trachten.",
+            "hu": "Fókuszáljon a helyi kultúrát és népviseletet bemutató kiállításokra.",
+            "ro": "Concentrează-te pe exponatele despre cultura locală și costumele tradiționale.",
+            "en": "Focus on the exhibits about local culture and traditional costumes."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kathedrale",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "Saint Nicholas Cathedral"
+          },
+          "coords": [
+            27.924,
+            47.758
+          ],
+          "category": "cathedral",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine der ältesten Kirchen der Stadt, erbaut vom Kaufmann Catargiu.",
+            "hu": "A város egyik legrégebbi temploma, melyet a kereskedő Catargiu építtetett.",
+            "ro": "Una dintre cele mai vechi biserici din oraș, ctitorită de negustorul Catargiu.",
+            "en": "One of the oldest churches in the city, built by the merchant Catargiu."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Konstantin und Helena",
+            "hu": "Szent Konstantin és Heléna-székesegyház",
+            "ro": "Catedrala Sfinții Împărați Constantin și Elena",
+            "en": "Cathedral of Saints Constantine and Helen"
+          },
+          "coords": [
+            27.919,
+            47.759
+          ],
+          "category": "cathedral",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beachten Sie den rumänischen Neoromantik-Stil, untypisch für diese Region.",
+            "hu": "Figyelje meg a neoromán stílust, amely atipikus ezen a vidéken.",
+            "ro": "Observați stilul neoromânesc, atipic pentru această regiune.",
+            "en": "Notice the Neo-Romanian style, atypical for this region."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark",
+            "hu": "Központi park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            27.935,
+            47.765
+          ],
+          "category": "parks",
+          "arrive_at": "15:20",
+          "stay_min": 105,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am See oder mieten Sie ein Tretboot für eine andere Perspektive.",
+            "hu": "Pihenjen a tónál, vagy béreljen vízibiciklit egy másfajta perspektíváért.",
+            "ro": "Relaxați-vă lângă lac sau închiriați o hidrobicicletă pentru o altă perspectivă.",
+            "en": "Relax by the lake or rent a paddleboat for a different perspective."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Bălți beginnt auf dem weitläufigen Platz der Unabhängigkeit, dem Herzen der Stadt. Von dort aus schlendern Sie zum eleganten Vasile-Alecsandri-Theater. Am Vormittag tauchen Sie im Geschichts- und Ethnografiemuseum tief in die lokale Kultur ein. Nach dem Mittagessen besuchen Sie zwei bedeutende Kathedralen, die die reiche spirituelle Geschichte der Stadt widerspiegeln. Der Nachmittag endet mit einem entspannten Spaziergang durch den Zentralpark, eine grüne Oase, die zum Verweilen einlädt und einen perfekten Abschluss für Ihren Erkundungstag zu Fuß bietet.",
+        "hu": "Bălți-i napja a tágas Függetlenség terén, a város szívében kezdődik. Innen sétáljon át az elegáns Vasile Alecsandri Színházhoz. A délelőtt folyamán merüljön el a helyi kultúrában a Történeti és Néprajzi Múzeumban. Ebéd után két fontos katedrálist keres fel, amelyek a város gazdag spirituális történelmét tükrözik. A délután egy pihentető sétával zárul a Központi parkban, egy zöld oázisban, amely tökéletes lezárása a gyalogos felfedezőútnak.",
+        "ro": "Ziua ta în Bălți începe în spațioasa Piață a Independenței, inima orașului. De acolo, te plimbi spre elegantul Teatru Național „Vasile Alecsandri”. Dimineața te scufunzi în cultura locală la Muzeul de Istorie și Etnografie. După prânz, vizitezi două catedrale importante care reflectă istoria spirituală bogată a orașului. După-amiaza se încheie cu o plimbare relaxantă prin Parcul Central, o oază de verdeață perfectă pentru a încheia o zi de explorare pe jos.",
+        "en": "Your day in Bălți begins in the spacious Independence Square, the city's heart. From there, you'll stroll to the elegant Vasile Alecsandri Theatre. In the morning, you'll dive deep into local culture at the Museum of History and Ethnography. After lunch, you'll visit two important cathedrals reflecting the city's rich spiritual history. The afternoon concludes with a relaxing walk through Central Park, a green oasis perfect for winding down your day of exploration on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mămăligă cu brânză și smântână",
+            "tip": "Ein Muss. Polenta mit Schafskäse und saurer Sahne, das Nationalgericht."
+          },
+          {
+            "name": "Plăcinte",
+            "tip": "Herzhafte oder süße Teigtaschen, perfekt als schneller Snack."
+          },
+          {
+            "name": "Zeamă",
+            "tip": "Eine leichte, hausgemachte Hühnersuppe, oft mit Kräutern verfeinert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mămăligă cu brânză și smântână",
+            "tip": "Kötelező megkóstolni. Polenta juhtúróval és tejföllel, a nemzeti étel."
+          },
+          {
+            "name": "Plăcinte",
+            "tip": "Sós vagy édes töltött tészta, tökéletes gyors harapnivaló."
+          },
+          {
+            "name": "Zeamă",
+            "tip": "Könnyű, házias csirkeleves, gyakran fűszernövényekkel ízesítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mămăligă cu brânză și smântână",
+            "tip": "O necesitate. Mămăligă cu brânză de oi și smântână, felul de mâncare național."
+          },
+          {
+            "name": "Plăcinte",
+            "tip": "Plăcinte sărate sau dulci, perfecte pentru o gustare rapidă."
+          },
+          {
+            "name": "Zeamă",
+            "tip": "O supă de pui ușoară, de casă, adesea aromată cu ierburi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mămăligă cu brânză și smântână",
+            "tip": "A must-try. Polenta with sheep's cheese and sour cream, the national dish."
+          },
+          {
+            "name": "Plăcinte",
+            "tip": "Savory or sweet filled pastries, perfect for a quick snack."
+          },
+          {
+            "name": "Zeamă",
+            "tip": "A light, homemade chicken soup, often flavored with herbs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Sees im Zentralpark",
+            "tip": "Finden Sie eine Bank und beobachten Sie die Einheimischen bei ihrem Alltag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof der St.-Nikolaus-Kathedrale",
+            "tip": "Ein ruhiger, besinnlicher Ort abseits des städtischen Trubels.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Alecu-Russo-Universitätscampus",
+            "tip": "Die Grünflächen der Universität sind oft ruhig und friedlich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tópart a Központi parkban",
+            "tip": "Keressen egy padot, és figyelje a helyiek mindennapi életét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Miklós-székesegyház udvara",
+            "tip": "Csendes, elmélkedő hely a városi nyüzsgéstől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Alecu Russo Egyetem kampusz",
+            "tip": "Az egyetem zöld területei gyakran csendesek és békések.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului din Parcul Central",
+            "tip": "Găsiți o bancă și priviți localnicii în viața lor de zi cu zi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Catedralei Sfântul Nicolae",
+            "tip": "Un loc liniștit, contemplativ, departe de agitația orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Campusul Universității Alecu Russo",
+            "tip": "Zonele verzi ale universității sunt adesea liniștite și pașnice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside in Central Park",
+            "tip": "Find a bench and watch the locals go about their day.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Saint Nicholas Cathedral",
+            "tip": "A quiet, contemplative spot away from the city buzz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Alecu Russo University Campus",
+            "tip": "The university's green spaces are often quiet and peaceful.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentralmarkt (Piața Centrală)",
+            "tip": "Erleben Sie das lokale Leben und finden Sie frische Produkte und traditionelle Waren."
+          },
+          {
+            "name": "Souvenirstände",
+            "tip": "In der Nähe des Platzes der Unabhängigkeit finden Sie kleine Stände mit handgefertigten moldauischen Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac (Piața Centrală)",
+            "tip": "Tapasztalja meg a helyi életet, és találjon friss termékeket és hagyományos árukat."
+          },
+          {
+            "name": "Szuvenír standok",
+            "tip": "A Függetlenség tere közelében kis standokat talál, ahol kézzel készített moldáv ajándéktárgyakat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Experimentați viața locală și găsiți produse proaspete și bunuri tradiționale."
+          },
+          {
+            "name": "Tarabe de suveniruri",
+            "tip": "Lângă Piața Independenței, veți găsi mici tarabe care vând suveniruri moldovenești lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market (Piața Centrală)",
+            "tip": "Experience local life and find fresh produce and traditional goods."
+          },
+          {
+            "name": "Souvenir Stalls",
+            "tip": "Near Independence Square, you'll find small stalls selling handmade Moldovan souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Halten Sie immer etwas Bargeld (Moldauische Leu) für kleine Einkäufe oder Eintritte bereit.",
+          "Seien Sie respektvoll, wenn Sie Kirchen betreten; Schultern und Knie sollten bedeckt sein.",
+          "Ein einfacher Stadtplan ist nützlich, obwohl das Zentrum leicht zu navigieren ist."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek.",
+          "Mindig tartson magánál készpénzt (moldáv lej) a kisebb vásárlásokhoz vagy belépőkhöz.",
+          "Legyen tisztelettudó a templomokba lépve; a vállakat és a térdeket takarni kell.",
+          "Egy egyszerű várostérkép hasznos, bár a központ könnyen bejárható."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat.",
+          "Aveți întotdeauna la îndemână niște numerar (lei moldovenești) pentru cumpărături mici sau intrări.",
+          "Fiți respectuos la intrarea în biserici; umerii și genunchii ar trebui să fie acoperiți.",
+          "O hartă simplă a orașului este utilă, deși centrul este ușor de navigat."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Always have some cash (Moldovan Leu) on hand for small purchases or entrance fees.",
+          "Be respectful when entering churches; shoulders and knees should be covered.",
+          "A simple city map is useful, although the center is easy to navigate."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Unabhängigkeit",
+            "hu": "Függetlenség tere",
+            "ro": "Piața Independenței",
+            "en": "Independence Square"
+          },
+          "coords": [
+            27.9289,
+            47.7611
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein guter Ort, um sich zu orientieren, bevor Sie in die Pedale treten.",
+            "hu": "Jó hely a tájékozódásra, mielőtt nyeregbe pattan.",
+            "ro": "Un loc bun pentru a vă orienta înainte de a începe să pedalați.",
+            "en": "A good place to get your bearings before you start pedaling."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationaltheater Vasile Alecsandri",
+            "hu": "Vasile Alecsandri Nemzeti Színház",
+            "ro": "Teatrul Național „Vasile Alecsandri”",
+            "en": "Vasile Alecsandri National Theatre"
+          },
+          "coords": [
+            27.9275,
+            47.7605
+          ],
+          "category": "theatres",
+          "arrive_at": "09:31",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie ein schnelles Foto von der beeindruckenden Fassade.",
+            "hu": "Készítsen egy gyors fotót a lenyűgöző homlokzatról.",
+            "ro": "Faceți o fotografie rapidă a fațadei impresionante.",
+            "en": "Take a quick photo of the impressive facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark",
+            "hu": "Központi park",
+            "ro": "Parcul Central",
+            "en": "Central Park"
+          },
+          "coords": [
+            27.935,
+            47.765
+          ],
+          "category": "parks",
+          "arrive_at": "09:52",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie auf den Hauptwegen, aber schließen Sie Ihr Fahrrad ab, um am See entlang zu spazieren.",
+            "hu": "Kerékpározzon a fő utakon, de zárja le a biciklit, hogy sétálhasson a tó partján.",
+            "ro": "Mergeți pe aleile principale, dar legați-vă bicicleta pentru a vă plimba pe malul lacului.",
+            "en": "Ride on the main paths, but lock your bike to walk along the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Alecu-Russo-Universität",
+            "hu": "Alecu Russo Állami Egyetem",
+            "ro": "Universitatea de Stat „Alecu Russo”",
+            "en": "Alecu Russo State University"
+          },
+          "coords": [
+            27.915,
+            47.771
+          ],
+          "category": "historical",
+          "arrive_at": "11:04",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Campus, ein wichtiges Bildungszentrum im Norden Moldawiens.",
+            "hu": "Fedezze fel a kampuszt, Észak-Moldova fontos oktatási központját.",
+            "ro": "Explorați campusul, un important centru educațional din nordul Moldovei.",
+            "en": "Explore the campus, an important educational center in northern Moldova."
+          }
+        },
+        {
+          "name": {
+            "de": "Allee der Klassiker",
+            "hu": "Klasszikusok sétánya",
+            "ro": "Aleea Clasicilor",
+            "en": "Aleea Clasicilor (Alley of Classics)"
+          },
+          "coords": [
+            27.9145,
+            47.77
+          ],
+          "category": "monuments",
+          "arrive_at": "11:52",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine schnelle Radtour entlang der Büsten rumänischer und moldauischer Schriftsteller.",
+            "hu": "Egy gyors biciklizés a román és moldáv írók mellszobrai mentén.",
+            "ro": "O plimbare rapidă cu bicicleta pe lângă busturile scriitorilor români și moldoveni.",
+            "en": "A quick cycle past the busts of Romanian and Moldovan writers."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Konstantin und Helena",
+            "hu": "Szent Konstantin és Heléna-székesegyház",
+            "ro": "Catedrala Sfinții Împărați Constantin și Elena",
+            "en": "Cathedral of Saints Constantine and Helen"
+          },
+          "coords": [
+            27.919,
+            47.759
+          ],
+          "category": "cathedral",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die Architektur zu bewundern, nachdem Sie Ihr Fahrrad sicher abgestellt haben.",
+            "hu": "Szánjon időt az építészet megcsodálására, miután biztonságosan lezárta a kerékpárját.",
+            "ro": "Luați-vă timp să admirați arhitectura după ce v-ați asigurat bicicleta.",
+            "en": "Take your time to admire the architecture after securing your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kathedrale",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "Saint Nicholas Cathedral"
+          },
+          "coords": [
+            27.924,
+            47.758
+          ],
+          "category": "cathedral",
+          "arrive_at": "14:13",
+          "stay_min": 68,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour bei diesem historischen Juwel im Herzen der Stadt.",
+            "hu": "Fejezze be a túrát ennél a történelmi gyöngyszemnél a város szívében.",
+            "ro": "Încheiați-vă turul la această bijuterie istorică din inima orașului.",
+            "en": "End your tour at this historic gem in the heart of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Bălți beginnt im Zentrum am Platz der Unabhängigkeit. Nach einem kurzen Stopp am Theater radeln Sie nach Osten zum Zentralpark für eine erste grüne Pause. Am Vormittag fahren Sie nach Norden, um den Campus der Alecu-Russo-Universität und die benachbarte Allee der Klassiker zu erkunden. Nach dem Mittagessen führt Sie Ihre Route zurück ins Zentrum, um die beiden prächtigen Kathedralen der Stadt zu besichtigen. Diese Tour verbindet städtisches Flair mit ruhigen, akademischen Ecken und heiligen Stätten und zeigt Ihnen die Vielfalt von Bălți auf zwei Rädern.",
+        "hu": "Bălți-i kerékpártúrája a Függetlenség terén kezdődik. A színháznál tett rövid megálló után kelet felé veszi az irányt a Központi parkba egy zöld szünetért. Délelőtt északra teker, hogy felfedezze az Alecu Russo Egyetem kampuszát és a szomszédos Klasszikusok sétányát. Ebéd után az útvonal visszavezet a központba, hogy megtekintse a város két csodálatos katedrálisát. Ez a túra ötvözi a városi hangulatot a csendes, akadémiai zugokkal és szent helyekkel, bemutatva Bălți sokszínűségét két keréken.",
+        "ro": "Turul tău cu bicicleta prin Bălți începe în centru, în Piața Independenței. După o scurtă oprire la teatru, pedalezi spre est, spre Parcul Central, pentru o primă pauză verde. Dimineața te îndrepți spre nord pentru a explora campusul Universității „Alecu Russo” și Aleea Clasicilor din apropiere. După prânz, traseul te duce înapoi spre centru pentru a vizita cele două catedrale magnifice ale orașului. Acest tur combină atmosfera urbană cu colțuri academice liniștite și locuri sacre, arătându-ți diversitatea orașului Bălți pe două roți.",
+        "en": "Your bike tour of Bălți starts downtown at Independence Square. After a quick stop at the theatre, you'll pedal east to Central Park for an initial green break. In the morning, you'll head north to explore the Alecu Russo University campus and the adjacent Alley of Classics. After lunch, your route takes you back towards the center to visit the city's two magnificent cathedrals. This tour combines urban flair with quiet academic corners and sacred sites, showing you the diversity of Bălți on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mămăligă",
+            "tip": "Ein herzhaftes Gericht, das Ihnen Energie für die Radtour gibt."
+          },
+          {
+            "name": "Frische Säfte vom Markt",
+            "tip": "Eine erfrischende Pause auf dem Zentralmarkt."
+          },
+          {
+            "name": "Ciorbă",
+            "tip": "Eine traditionelle saure Suppe, ideal für ein leichtes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mămăligă",
+            "tip": "Kiadós étel, amely energiát ad a kerékpártúrához."
+          },
+          {
+            "name": "Friss gyümölcslevek a piacról",
+            "tip": "Frissítő szünet a központi piacon."
+          },
+          {
+            "name": "Csorba",
+            "tip": "Hagyományos savanyú leves, ideális könnyű ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mămăligă",
+            "tip": "O mâncare consistentă care îți va da energie pentru turul cu bicicleta."
+          },
+          {
+            "name": "Sucuri proaspete de la piață",
+            "tip": "O pauză răcoritoare la Piața Centrală."
+          },
+          {
+            "name": "Ciorbă",
+            "tip": "O supă acră tradițională, ideală pentru un prânz ușor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mămăligă",
+            "tip": "A hearty dish that will give you energy for the bike ride."
+          },
+          {
+            "name": "Fresh juices from the market",
+            "tip": "A refreshing break at the Central Market."
+          },
+          {
+            "name": "Ciorbă",
+            "tip": "A traditional sour soup, ideal for a light lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Versteckte Wege im Zentralpark",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Plätze zum Ausruhen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Universitätsbibliothek (von außen)",
+            "tip": "Die Atmosphäre rund um die Bibliothek ist oft sehr ruhig.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein stiller Moment in einer der Kathedralen",
+            "tip": "Nutzen Sie die kühle Stille für eine kurze Pause vom Radfahren.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rejtett ösvények a Központi parkban",
+            "tip": "A fő utaktól távol csendes helyeket talál a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egyetemi könyvtár (kívülről)",
+            "tip": "A könyvtár körüli légkör gyakran nagyon csendes.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy csendes pillanat az egyik katedrálisban",
+            "tip": "Használja ki a hűvös csendet egy rövid pihenőre a biciklizésből.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărări ascunse în Parcul Central",
+            "tip": "Departe de aleile principale, veți găsi locuri liniștite pentru a vă odihni.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biblioteca Universității (din exterior)",
+            "tip": "Atmosfera din jurul bibliotecii este adesea foarte liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Un moment de liniște într-una dintre catedrale",
+            "tip": "Folosiți liniștea răcoroasă pentru o scurtă pauză de la pedalat.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hidden paths in Central Park",
+            "tip": "Away from the main avenues, you'll find quiet spots to rest.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "University Library (from outside)",
+            "tip": "The atmosphere around the library is often very calm.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A quiet moment in one of the cathedrals",
+            "tip": "Use the cool silence for a short break from cycling.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Honigverkäufer",
+            "tip": "Auf dem Markt finden Sie oft Verkäufer von hochwertigem moldauischem Honig."
+          },
+          {
+            "name": "Handgefertigte Textilien",
+            "tip": "Suchen Sie nach bestickten Blusen ('ie') oder traditionellen Teppichen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi mézárusok",
+            "tip": "A piacon gyakran talál minőségi moldáv mézet árusítókat."
+          },
+          {
+            "name": "Kézzel készített textíliák",
+            "tip": "Keressen hímzett blúzokat ('ie') vagy hagyományos szőnyegeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători locali de miere",
+            "tip": "La piață veți găsi adesea vânzători de miere moldovenească de înaltă calitate."
+          },
+          {
+            "name": "Textile lucrate manual",
+            "tip": "Căutați ii brodate sau covoare tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey sellers",
+            "tip": "You can often find sellers of high-quality Moldovan honey at the market."
+          },
+          {
+            "name": "Handmade textiles",
+            "tip": "Look for embroidered blouses ('ie') or traditional carpets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Fahrradwege; wo es keine gibt, fahren Sie vorsichtig auf der Straße.",
+          "Ein gutes Schloss ist unerlässlich, besonders wenn Sie Sehenswürdigkeiten betreten.",
+          "Nehmen Sie eine Flasche Wasser mit, besonders an warmen Tagen.",
+          "Die Stadt ist relativ flach, was das Radfahren angenehm macht."
+        ],
+        "hu": [
+          "Ellenőrizze a kerékpárutakat; ahol nincsenek, óvatosan közlekedjen az úton.",
+          "Egy jó lakat elengedhetetlen, különösen, ha belép a látnivalókhoz.",
+          "Vigyen magával egy üveg vizet, különösen meleg napokon.",
+          "A város viszonylag sík, ami kellemessé teszi a kerékpározást."
+        ],
+        "ro": [
+          "Verificați pistele de biciclete; acolo unde nu există, mergeți cu prudență pe carosabil.",
+          "Un lacăt bun este esențial, mai ales când intrați în obiective turistice.",
+          "Luați cu voi o sticlă de apă, mai ales în zilele călduroase.",
+          "Orașul este relativ plat, ceea ce face ciclismul plăcut."
+        ],
+        "en": [
+          "Check for bike lanes; where there are none, ride cautiously on the road.",
+          "A good lock is essential, especially when entering sights.",
+          "Bring a bottle of water, especially on warm days.",
+          "The city is relatively flat, making for pleasant cycling."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 8.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Alecu-Russo-Universität & Allee der Klassiker",
+            "hu": "Alecu Russo Egyetem és Klasszikusok sétánya",
+            "ro": "Universitatea „Alecu Russo” și Aleea Clasicilor",
+            "en": "Alecu Russo University & Alley of Classics"
+          },
+          "coords": [
+            27.915,
+            47.771
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Tag im akademischen Herzen der Stadt.",
+            "hu": "Parkoljon le itt, és kezdje a napot a város akadémiai szívében.",
+            "ro": "Parcați aici și începeți ziua în inima academică a orașului.",
+            "en": "Park here and start your day in the academic heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Allee der Klassiker",
+            "hu": "Séta a Klasszikusok sétányához",
+            "ro": "Plimbare spre Aleea Clasicilor",
+            "en": "Walk to the Alley of Classics"
+          },
+          "coords": [
+            27.9145,
+            47.77
+          ],
+          "category": "monuments",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Universitätsparkplatz zu den berühmten Büsten.",
+            "hu": "Rövid séta az egyetemi parkolótól a híres mellszobrokig.",
+            "ro": "O scurtă plimbare de la parcarea universității la faimoasele busturi.",
+            "en": "A short walk from the university parking to the famous busts."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Konstantin und Helena",
+            "hu": "Szent Konstantin és Heléna-székesegyház",
+            "ro": "Catedrala Sfinții Împărați Constantin și Elena",
+            "en": "Cathedral of Saints Constantine and Helen"
+          },
+          "coords": [
+            27.919,
+            47.759
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:43",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem Cluster. Es gibt normalerweise Parkplätze in den Seitenstraßen.",
+            "hu": "Vezessen ehhez a csoporthoz. Általában van parkoló a mellékutcákban.",
+            "ro": "Conduceți spre acest cluster. De obicei, există parcare pe străzile laterale.",
+            "en": "Drive to this cluster. There is usually parking on the side streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur St.-Nikolaus-Kathedrale",
+            "hu": "Séta a Szent Miklós-székesegyházhoz",
+            "ro": "Plimbare la Catedrala Sfântul Nicolae",
+            "en": "Walk to Saint Nicholas Cathedral"
+          },
+          "coords": [
+            27.924,
+            47.758
+          ],
+          "category": "cathedral",
+          "arrive_at": "12:06",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang zwischen den beiden Hauptkathedralen der Stadt.",
+            "hu": "Kellemes séta a város két fő katedrálisa között.",
+            "ro": "O plimbare plăcută între cele două catedrale principale ale orașului.",
+            "en": "A pleasant walk between the city's two main cathedrals."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz der Unabhängigkeit",
+            "hu": "Függetlenség tere",
+            "ro": "Piața Independenței",
+            "en": "Independence Square"
+          },
+          "coords": [
+            27.9289,
+            47.7611
+          ],
+          "category": "squares",
+          "arrive_at": "13:02",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und erkunden Sie das Herz von Bălți.",
+            "hu": "Parkoljon a közelben, és fedezze fel Bălți szívét.",
+            "ro": "Parcați în apropiere și explorați inima orașului Bălți.",
+            "en": "Park nearby and explore the heart of Bălți."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Nationaltheater",
+            "hu": "Séta a Nemzeti Színházhoz",
+            "ro": "Plimbare la Teatrul Național",
+            "en": "Walk to the National Theatre"
+          },
+          "coords": [
+            27.9275,
+            47.7605
+          ],
+          "category": "theatres",
+          "arrive_at": "13:31",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Theater ist nur einen Steinwurf vom Hauptplatz entfernt.",
+            "hu": "A színház csak egy kőhajításnyira van a főtértől.",
+            "ro": "Teatrul este la o aruncătură de băț de piața principală.",
+            "en": "The theatre is just a stone's throw from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Museum",
+            "hu": "Séta a Múzeumhoz",
+            "ro": "Plimbare la Muzeu",
+            "en": "Walk to the Museum"
+          },
+          "coords": [
+            27.926,
+            47.7615
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 152,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren Tag mit einem tiefen Einblick in die Geschichte der Region ab.",
+            "hu": "Zárja a napot a régió történelmének mélyebb megismerésével.",
+            "ro": "Încheiați-vă ziua cu o incursiune profundă în istoria regiunii.",
+            "en": "End your day with a deep dive into the region's history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt im Norden beim Universitäts-Cluster. Nach einem Spaziergang durch die Allee der Klassiker fahren Sie zum Kathedralen-Cluster, parken und erkunden die beiden wichtigsten Gotteshäuser zu Fuß. Hier können Sie auch zu Mittag essen. Am Nachmittag fahren Sie zum letzten Cluster im Stadtzentrum. Parken Sie Ihr Auto und erkunden Sie den Platz der Unabhängigkeit, das Theater und das Geschichtsmuseum in einem gemütlichen Spaziergang. Diese Route optimiert das Parken und ermöglicht es Ihnen, drei verschiedene Viertel von Bălți mit minimalem Fahrstress zu erleben.",
+        "hu": "Autós túrája északon, az egyetemi negyedben kezdődik. A Klasszikusok sétányán tett séta után a katedrálisokhoz hajt, leparkol, és gyalog fedezi fel a két legfontosabb templomot. Itt ebédelhet is. Délután az utolsó megállóhoz, a városközponthoz hajt. Parkolja le az autót, és fedezze fel a Függetlenség terét, a színházat és a Történeti Múzeumot egy kellemes sétával. Ez az útvonal optimalizálja a parkolást, és lehetővé teszi, hogy minimális vezetési stressz mellett fedezze fel Bălți három különböző negyedét.",
+        "ro": "Turul tău cu mașina începe în nord, la clusterul universitar. După o plimbare pe Aleea Clasicilor, conduci spre clusterul catedralelor, parchezi și explorezi cele două lăcașuri de cult principale pe jos. Aici poți lua și prânzul. După-amiaza, conduci spre ultimul cluster din centrul orașului. Parchează mașina și explorează Piața Independenței, teatrul și muzeul de istorie într-o plimbare pe jos. Acest traseu optimizează parcarea și îți permite să experimentezi trei cartiere distincte din Bălți cu un stres minim la volan.",
+        "en": "Your car tour starts in the north at the university cluster. After a walk through the Alley of Classics, you'll drive to the cathedral cluster, park, and explore the two main religious sites on foot. You can also have lunch here. In the afternoon, you'll drive to the final cluster in the city center. Park your car and explore Independence Square, the theatre, and the history museum in a leisurely walk. This route optimizes parking and allows you to experience three distinct neighborhoods of Bălți with minimal driving stress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant 'La Plăcinte'",
+            "tip": "Suchen Sie nach einer Filiale dieser beliebten Kette für authentische moldauische Küche."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Kohlrouladen gefüllt mit Fleisch und Reis, ein herzhaftes Gericht."
+          },
+          {
+            "name": "Ein Glas moldauischen Weins",
+            "tip": "Probieren Sie einen lokalen Fetească oder Rară Neagră zum Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'La Plăcinte' étterem",
+            "tip": "Keressen egyet ebből a népszerű láncból az autentikus moldáv konyháért."
+          },
+          {
+            "name": "Sarmale (Töltött káposzta)",
+            "tip": "Hússal és rizzsel töltött káposztatekercs, kiadós étel."
+          },
+          {
+            "name": "Egy pohár moldáv bor",
+            "tip": "Kóstoljon meg egy helyi Fetească vagy Rară Neagră bort ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant 'La Plăcinte'",
+            "tip": "Căutați o locație a acestui lanț popular pentru bucătărie moldovenească autentică."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Rulouri de varză umplute cu carne și orez, un fel de mâncare consistent."
+          },
+          {
+            "name": "Un pahar de vin moldovenesc",
+            "tip": "Încercați un Fetească local sau Rară Neagră la prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant 'La Plăcinte'",
+            "tip": "Look for a branch of this popular chain for authentic Moldovan cuisine."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Cabbage rolls stuffed with meat and rice, a hearty dish."
+          },
+          {
+            "name": "A glass of Moldovan wine",
+            "tip": "Try a local Fetească or Rară Neagră with your lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der Campus der Universität am Morgen",
+            "tip": "Bevor die Studenten ankommen, ist der Campus ein Ort der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein Spaziergang durch einen Wohnbezirk",
+            "tip": "Abseits der Hauptstraßen können Sie das ruhige lokale Leben beobachten.",
+            "emoji": "🏘️"
+          },
+          {
+            "name": "Ein Moment der Stille im Zentralpark",
+            "tip": "Auch mit dem Auto ist ein kurzer Abstecher in den Park eine gute Möglichkeit zur Entspannung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az egyetemi kampusz reggel",
+            "tip": "Mielőtt a diákok megérkeznek, a kampusz a nyugalom helye.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta egy lakónegyedben",
+            "tip": "A főutaktól távol megfigyelheti a csendes helyi életet.",
+            "emoji": "🏘️"
+          },
+          {
+            "name": "Egy csendes pillanat a Központi parkban",
+            "tip": "Még autóval is, egy rövid kitérő a parkba jó lehetőség a pihenésre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Campusul universitar dimineața",
+            "tip": "Înainte de sosirea studenților, campusul este un loc de liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O plimbare printr-un cartier rezidențial",
+            "tip": "Departe de străzile principale, puteți observa viața locală liniștită.",
+            "emoji": "🏘️"
+          },
+          {
+            "name": "Un moment de liniște în Parcul Central",
+            "tip": "Chiar și cu mașina, o scurtă abatere prin parc este o modalitate bună de relaxare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "The university campus in the morning",
+            "tip": "Before the students arrive, the campus is a place of tranquility.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A walk through a residential district",
+            "tip": "Away from the main roads, you can observe quiet local life.",
+            "emoji": "🏘️"
+          },
+          {
+            "name": "A quiet moment in Central Park",
+            "tip": "Even by car, a short detour to the park is a good way to relax.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Größere Supermärkte am Stadtrand",
+            "tip": "Nutzen Sie das Auto, um moldauische Spezialitäten wie Wein und Süßigkeiten in großen Mengen zu kaufen."
+          },
+          {
+            "name": "Kunstgalerien",
+            "tip": "Suchen Sie nach kleinen Galerien, die Werke lokaler Künstler verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nagyobb szupermarketek a város szélén",
+            "tip": "Használja az autót, hogy nagy tételben vásároljon moldáv specialitásokat, például bort és édességeket."
+          },
+          {
+            "name": "Művészeti galériák",
+            "tip": "Keressen kis galériákat, amelyek helyi művészek alkotásait árulják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketuri mai mari la periferie",
+            "tip": "Folosiți mașina pentru a cumpăra în vrac specialități moldovenești precum vin și dulciuri."
+          },
+          {
+            "name": "Galerii de artă",
+            "tip": "Căutați mici galerii care vând lucrări ale artiștilor locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Larger supermarkets on the outskirts",
+            "tip": "Use the car to buy Moldovan specialties like wine and sweets in bulk."
+          },
+          {
+            "name": "Art galleries",
+            "tip": "Look for small galleries that sell works by local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann schwierig sein; nutzen Sie ausgewiesene Parkplätze oder Seitenstraßen.",
+          "Die Straßenqualität kann variieren, fahren Sie also vorsichtig.",
+          "Eine Navigations-App ist sehr zu empfehlen.",
+          "Achten Sie auf Fußgänger, da diese oft unerwartet die Straße überqueren."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nehézkes lehet; használja a kijelölt parkolókat vagy mellékutcákat.",
+          "Az utak minősége változó lehet, ezért vezessen óvatosan.",
+          "Navigációs alkalmazás használata erősen ajánlott.",
+          "Vigyázzon a gyalogosokra, mert gyakran váratlanul kelnek át az úton."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă; folosiți parcările desemnate sau străzile laterale.",
+          "Calitatea drumurilor poate varia, așa că conduceți cu prudență.",
+          "O aplicație de navigație este foarte recomandată.",
+          "Fiți atenți la pietoni, deoarece aceștia traversează adesea strada în mod neașteptat."
+        ],
+        "en": [
+          "Parking in the city center can be challenging; use designated parking lots or side streets.",
+          "Road quality can vary, so drive carefully.",
+          "A navigation app is highly recommended.",
+          "Be mindful of pedestrians as they often cross the street unexpectedly."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Unabhängigkeit",
+            "hu": "Függetlenség tere",
+            "ro": "Piața Independenței",
+            "en": "Independence Square"
+          },
+          "coords": [
+            27.9289,
+            47.7611
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Knotenpunkt des öffentlichen Nahverkehrs.",
+            "hu": "Kezdje a napot a tömegközlekedés központi csomópontjánál.",
+            "ro": "Începeți de la nodul central de transport public.",
+            "en": "Start at the central hub for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Nationaltheater",
+            "hu": "Séta a Nemzeti Színházhoz",
+            "ro": "Plimbare la Teatrul Național",
+            "en": "Walk to the National Theatre"
+          },
+          "coords": [
+            27.9275,
+            47.7605
+          ],
+          "category": "theatres",
+          "arrive_at": "09:34",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieses Cluster im Stadtzentrum ist leicht zu Fuß zu erkunden.",
+            "hu": "Ez a belvárosi negyed könnyen bejárható gyalog.",
+            "ro": "Acest cluster din centrul orașului este ușor de explorat pe jos.",
+            "en": "This downtown cluster is easily explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Museum",
+            "hu": "Séta a Múzeumhoz",
+            "ro": "Plimbare la Muzeu",
+            "en": "Walk to the Museum"
+          },
+          "coords": [
+            27.926,
+            47.7615
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Theater zum Museum vervollständigt diesen Cluster.",
+            "hu": "Egy rövid séta a színháztól a múzeumig teszi teljessé ezt a negyedet.",
+            "ro": "O scurtă plimbare de la teatru la muzeu completează acest cluster.",
+            "en": "A short walk from the theatre to the museum completes this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Alecu-Russo-Universität",
+            "hu": "Alecu Russo Állami Egyetem",
+            "ro": "Universitatea de Stat „Alecu Russo”",
+            "en": "Alecu Russo State University"
+          },
+          "coords": [
+            27.915,
+            47.771
+          ],
+          "category": "historical",
+          "arrive_at": "11:41",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Trolleybus nach Norden, um den Universitätscampus zu erreichen.",
+            "hu": "Menjen egy trolibusszal észak felé az egyetemi kampuszhoz.",
+            "ro": "Luați un troleibuz spre nord pentru a ajunge la campusul universitar.",
+            "en": "Take a trolleybus north to reach the university campus."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Konstantin und Helena",
+            "hu": "Szent Konstantin és Heléna-székesegyház",
+            "ro": "Catedrala Sfinții Împărați Constantin și Elena",
+            "en": "Cathedral of Saints Constantine and Helen"
+          },
+          "coords": [
+            27.919,
+            47.759
+          ],
+          "category": "cathedral",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Eine weitere Trolleybusfahrt bringt Sie in die Nähe dieser wichtigen Kathedrale.",
+            "hu": "Egy újabb trolibuszút elviszi Önt ennek a fontos katedrálisnak a közelébe.",
+            "ro": "O altă călătorie cu troleibuzul vă va aduce aproape de această catedrală importantă.",
+            "en": "Another trolleybus ride will get you close to this important cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur St.-Nikolaus-Kathedrale",
+            "hu": "Séta a Szent Miklós-székesegyházhoz",
+            "ro": "Plimbare la Catedrala Sfântul Nicolae",
+            "en": "Walk to Saint Nicholas Cathedral"
+          },
+          "coords": [
+            27.924,
+            47.758
+          ],
+          "category": "cathedral",
+          "arrive_at": "14:28",
+          "stay_min": 77,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die beiden Kathedralen bilden einen schönen, fußläufigen Cluster.",
+            "hu": "A két katedrális egy szép, gyalogosan bejárható negyedet alkot.",
+            "ro": "Cele două catedrale formează un cluster frumos, pietonal.",
+            "en": "The two cathedrals form a nice, walkable cluster."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen von Bălți am Platz der Unabhängigkeit, wo Sie das zentrale Cluster zu Fuß erkunden. Am Vormittag nehmen Sie einen Trolleybus nach Norden zum Universitäts-Cluster für einen Einblick in das akademische Leben. Nach dem Mittagessen bringt Sie eine weitere Busfahrt zum Kathedralen-Cluster, wo Sie die beiden wichtigsten spirituellen Zentren der Stadt entdecken. Diese Route nutzt das Trolleybus-Netz von Bălți, um mühelos zwischen den Hauptinteressensgebieten zu wechseln, und kombiniert kurze Fahrten mit angenehmen Spaziergängen in jedem Viertel.",
+        "hu": "Tömegközlekedési napja Bălți szívében, a Függetlenség terén kezdődik, ahol gyalogosan fedezi fel a központi negyedet. Délelőtt trolibusszal utazik északra az egyetemi negyedbe, hogy bepillantást nyerjen az akadémiai életbe. Ebéd után egy másik buszút viszi a katedrálisokhoz, ahol felfedezheti a város két legfontosabb spirituális központját. Ez az útvonal a bălți-i trolibuszhálózatot használja a főbb érdeklődési területek közötti könnyed váltáshoz, rövid utazásokat kombinálva kellemes sétákkal minden negyedben.",
+        "ro": "Ziua ta cu transportul public începe în inima orașului Bălți, în Piața Independenței, unde explorezi clusterul central pe jos. Dimineața, iei un troleibuz spre nord, către clusterul universitar, pentru o privire în viața academică. După prânz, o altă călătorie cu autobuzul te duce la clusterul catedralelor, unde descoperi cele două centre spirituale majore ale orașului. Acest traseu folosește rețeaua de troleibuze din Bălți pentru a comuta fără efort între principalele zone de interes, combinând călătorii scurte cu plimbări plăcute în fiecare cartier.",
+        "en": "Your day on public transport begins in the heart of Bălți at Independence Square, where you'll explore the central cluster on foot. In the morning, you'll take a trolleybus north to the university cluster for a glimpse into academic life. After lunch, another bus ride takes you to the cathedral cluster, where you'll discover the city's two major spiritual centers. This route utilizes Bălți's trolleybus network to switch effortlessly between main areas of interest, combining short rides with pleasant walks within each neighborhood."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Essen an einem Straßenstand",
+            "tip": "Probieren Sie Plăcinte oder Gogoși (Donuts) von einem Stand für einen schnellen, lokalen Bissen."
+          },
+          {
+            "name": "Ein Café in der Nähe der Universität",
+            "tip": "Mischen Sie sich unter die Studenten für einen Kaffee und Kuchen."
+          },
+          {
+            "name": "Kwas (Cvas)",
+            "tip": "Ein traditionelles fermentiertes Getränk, das oft an Straßenständen verkauft wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai ételárus",
+            "tip": "Kóstoljon meg egy Plăcinte-t vagy Gogoși-t (fánkot) egy standnál egy gyors, helyi falatért."
+          },
+          {
+            "name": "Kávézó az egyetem közelében",
+            "tip": "Vegye el magát a diákok között egy kávéra és süteményre."
+          },
+          {
+            "name": "Kvasz (Cvas)",
+            "tip": "Hagyományos erjesztett ital, amelyet gyakran utcai árusoknál árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mâncare de la o tarabă stradală",
+            "tip": "Încercați plăcinte sau gogoși de la o tarabă pentru o gustare locală rapidă."
+          },
+          {
+            "name": "O cafenea lângă universitate",
+            "tip": "Amestecați-vă cu studenții pentru o cafea și o prăjitură."
+          },
+          {
+            "name": "Cvas",
+            "tip": "O băutură tradițională fermentată, adesea vândută la tarabe stradale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street food stall",
+            "tip": "Try Plăcinte or Gogoși (donuts) from a stall for a quick, local bite."
+          },
+          {
+            "name": "A café near the university",
+            "tip": "Mingle with students for a coffee and a cake."
+          },
+          {
+            "name": "Kvas (Cvas)",
+            "tip": "A traditional fermented beverage often sold at street stalls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die hinteren Bänke eines Trolleybusses",
+            "tip": "Beobachten Sie die Stadt aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Ein weniger bekannter Park",
+            "tip": "Fragen Sie einen Einheimischen nach einem kleineren Park abseits der Touristenpfade.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Die Stufen einer Kirche",
+            "tip": "Ein guter Ort, um sich auszuruhen und die Atmosphäre aufzusaugen.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy trolibusz hátsó ülései",
+            "tip": "Figyelje a várost egy másik szemszögből.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy kevésbé ismert park",
+            "tip": "Kérdezzen meg egy helyit egy kisebb, a turistaösvényektől távol eső parkról.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Egy templom lépcsői",
+            "tip": "Jó hely a pihenésre és a hangulat magába szívására.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Banchetele din spatele unui troleibuz",
+            "tip": "Observați orașul dintr-o perspectivă diferită.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Un parc mai puțin cunoscut",
+            "tip": "Întrebați un localnic despre un parc mai mic, departe de traseele turistice.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Treptele unei biserici",
+            "tip": "Un loc bun pentru a vă odihni și a absorbi atmosfera.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "The back seats of a trolleybus",
+            "tip": "Observe the city from a different perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A lesser-known park",
+            "tip": "Ask a local for a smaller park off the beaten path.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The steps of a church",
+            "tip": "A good place to rest and soak up the atmosphere.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Hier finden Sie oft Zeitungen, Snacks und kleine Alltagsgegenstände."
+          },
+          {
+            "name": "Markt in der Nähe des Busbahnhofs",
+            "tip": "Oft gibt es in der Nähe von Verkehrsknotenpunkten belebte Märkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Itt gyakran talál újságokat, rágcsálnivalókat és apró mindennapi cikkeket."
+          },
+          {
+            "name": "Piac a buszpályaudvar közelében",
+            "tip": "A közlekedési csomópontok közelében gyakran vannak nyüzsgő piacok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la stațiile de autobuz",
+            "tip": "Aici veți găsi adesea ziare, gustări și mici articole de zi cu zi."
+          },
+          {
+            "name": "Piața de lângă autogară",
+            "tip": "Adesea există piețe aglomerate în apropierea nodurilor de transport."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "You can often find newspapers, snacks, and small everyday items here."
+          },
+          {
+            "name": "Market near the bus station",
+            "tip": "There are often bustling markets near transport hubs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets im Voraus an Kiosken oder direkt beim Fahrer (halten Sie Kleingeld bereit).",
+          "Die Trolleybusse sind das Rückgrat des öffentlichen Nahverkehrs in Bălți.",
+          "Die Routen können verwirrend sein; eine App oder eine lokale Nachfrage kann helfen.",
+          "Seien Sie auf Stoßzeiten vorbereitet, in denen die Busse sehr voll sein können."
+        ],
+        "hu": [
+          "Vásároljon jegyet előre a kioszkokban vagy közvetlenül a sofőrnél (tartson aprópénzt).",
+          "A trolibuszok képezik Bălți tömegközlekedésének gerincét.",
+          "Az útvonalak zavarosak lehetnek; egy alkalmazás vagy egy helyi megkérdezése segíthet.",
+          "Készüljön fel a csúcsidőre, amikor a buszok nagyon zsúfoltak lehetnek."
+        ],
+        "ro": [
+          "Cumpărați bilete în avans de la chioșcuri sau direct de la șofer (aveți bani mărunți la îndemână).",
+          "Troleibuzele sunt coloana vertebrală a transportului public din Bălți.",
+          "Rutele pot fi confuze; o aplicație sau întrebarea unui localnic poate ajuta.",
+          "Fiți pregătiți pentru orele de vârf, când autobuzele pot fi foarte aglomerate."
+        ],
+        "en": [
+          "Buy tickets in advance at kiosks or directly from the driver (have small change ready).",
+          "Trolleybuses are the backbone of public transport in Bălți.",
+          "Routes can be confusing; an app or asking a local can help.",
+          "Be prepared for peak hours when buses can be very crowded."
+        ]
+      }
+    }
+  }
+}

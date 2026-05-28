@@ -1,0 +1,1460 @@
+{
+  "city_id": "denmark-svendborg-cities-v2",
+  "anchor": {
+    "name": "Svendborg",
+    "coords": [
+      10.6,
+      55.06
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Svendborg Hafen",
+            "hu": "Svendborgi kikötő",
+            "ro": "Portul Svendborg",
+            "en": "Svendborg Harbour"
+          },
+          "coords": [
+            10.605,
+            55.058
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die alten Holzschiffe und die Fähren nach Ærø.",
+            "hu": "Figyeld meg a régi fa hajókat és az Ærø szigetére tartó kompokat.",
+            "ro": "Priviți navele vechi din lemn și feriboturile către insula Ærø.",
+            "en": "Watch the old wooden ships and the ferries leaving for Ærø island."
+          }
+        },
+        {
+          "name": {
+            "de": "Anne Hvides Gård",
+            "hu": "Anne Hvide háza",
+            "ro": "Casa Anne Hvide",
+            "en": "Anne Hvide's House"
+          },
+          "coords": [
+            10.61,
+            55.06
+          ],
+          "category": "museums",
+          "arrive_at": "10:04",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Svendborgs ältestes weltliches Haus aus dem Jahr 1560, ein wahres Juwel.",
+            "hu": "Svendborg legrégebbi világi épülete 1560-ból, egy igazi ékszerdoboz.",
+            "ro": "Cea mai veche casă laică din Svendborg, datând din 1560, o adevărată bijuterie.",
+            "en": "Svendborg's oldest secular house from 1560, a true gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Sct. Nicolai Kirke",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicolai Church"
+          },
+          "coords": [
+            10.608,
+            55.061
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf das Modell eines Schiffes, das von der Decke hängt.",
+            "hu": "Keresd a mennyezetről lógó hajómodellt, egy helyi hagyományt.",
+            "ro": "Căutați modelul de navă suspendat de tavan, o tradiție locală.",
+            "en": "Look for the model ship hanging from the ceiling, a local tradition."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturama",
+            "hu": "Naturama",
+            "ro": "Naturama",
+            "en": "Naturama"
+          },
+          "coords": [
+            11.598,
+            55.063
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein modernes Naturkundemuseum. Ideal für Familien.",
+            "hu": "Modern természettudományi múzeum. Családoknak is ideális.",
+            "ro": "Un muzeu modern de istorie naturală. Ideal pentru familii.",
+            "en": "A modern natural history museum. Great for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Danmarks Forsorgsmuseum",
+            "hu": "Dán Jóléti Múzeum",
+            "ro": "Muzeul Asistenței Sociale din Danemarca",
+            "en": "Denmark's Welfare Museum"
+          },
+          "coords": [
+            10.625,
+            55.057
+          ],
+          "category": "museums",
+          "arrive_at": "14:42",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Ein einzigartiges Museum über die Geschichte des dänischen Wohlfahrtsstaates.",
+            "hu": "Egyedülálló múzeum a dán jóléti állam történetéről.",
+            "ro": "Un muzeu unic despre istoria statului social danez.",
+            "en": "A unique museum about the history of the Danish welfare state."
+          }
+        },
+        {
+          "name": {
+            "de": "Christiansminde Strand",
+            "hu": "Christiansminde strand",
+            "ro": "Plaja Christiansminde",
+            "en": "Christiansminde Beach"
+          },
+          "coords": [
+            10.64,
+            55.052
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:22",
+          "stay_min": 93,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang am Ende des Tages mit Blick auf den Sund.",
+            "hu": "Egy pihentető séta a nap végén, kilátással a szorosra.",
+            "ro": "O plimbare relaxantă la sfârșitul zilei, cu vedere la strâmtoare.",
+            "en": "A relaxing walk at the end of the day with a view over the sound."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am lebhaften Hafen von Svendborg, dem Herzen der Seefahrtsgeschichte von Fünen. Am Vormittag erkunden Sie das historische Zentrum, besuchen das älteste Haus der Stadt, Anne Hvides Gård, und die Sct. Nicolai Kirke. Am Nachmittag tauchen Sie im Naturama in die Tierwelt Dänemarks ein, bevor Sie im einzigartigen Wohlfahrtsmuseum über die dänische Gesellschaft lernen. Schließen Sie den Tag mit einem ruhigen Spaziergang am Christiansminde Strand ab und genießen Sie die Aussicht auf den Svendborgsund.",
+        "hu": "Kezdje a napot Svendborg nyüzsgő kikötőjében, Fyn tengerészeti történelmének szívében. A délelőtt folyamán fedezze fel a történelmi központot, látogasson el a város legrégebbi házához, az Anne Hvides Gård-hoz és a Szent Miklós-templomhoz. Délután merüljön el Dánia vadvilágában a Naturama múzeumban, majd ismerje meg a dán társadalmat az egyedülálló Jóléti Múzeumban. Zárja a napot egy békés sétával a Christiansminde strandon, gyönyörködve a Svendborg-szorosra nyíló kilátásban.",
+        "ro": "Începeți ziua în portul plin de viață din Svendborg, inima istoriei maritime a insulei Funen. Dimineața, explorați centrul istoric, vizitând cea mai veche casă din oraș, Anne Hvides Gård, și Biserica Sf. Nicolae. După-amiaza, pătrundeți în fauna sălbatică a Danemarcei la Naturama, înainte de a învăța despre societatea daneză la Muzeul unic al Asistenței Sociale. Încheiați ziua cu o plimbare liniștită pe plaja Christiansminde, admirând priveliștea asupra strâmtorii Svendborg.",
+        "en": "Start your day at the bustling Svendborg Harbour, the heart of Funen's maritime history. In the morning, explore the historic center, visiting the city's oldest house, Anne Hvides Gård, and St. Nicolai Church. In the afternoon, delve into Denmark's wildlife at Naturama before learning about Danish society at the unique Welfare Museum. End your day with a peaceful walk at Christiansminde Beach, enjoying the view over the Svendborg Sound."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød med fiskefilet",
+            "tip": "Ein Klassiker: Roggenbrot mit paniertem Fischfilet und Remoulade."
+          },
+          {
+            "name": "Rygeost",
+            "tip": "Ein geräucherter Frischkäse von Fünen, oft mit Radieschen serviert."
+          },
+          {
+            "name": "Restaurant Børsen",
+            "tip": "Traditionelle dänische Küche in einem historischen Gebäude am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød sült halfilével",
+            "tip": "Klasszikus: rozskenyér rántott halfilével és remuláddal."
+          },
+          {
+            "name": "Rygeost (füstölt sajt)",
+            "tip": "Fyn szigetéről származó füstölt friss sajt, gyakran retekkel tálalva."
+          },
+          {
+            "name": "Restaurant Børsen",
+            "tip": "Hagyományos dán konyha egy történelmi épületben a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød cu file de pește",
+            "tip": "Un clasic: pâine de secară cu file de pește pane și sos remoulade."
+          },
+          {
+            "name": "Rygeost",
+            "tip": "O brânză proaspătă afumată din Funen, adesea servită cu ridichi."
+          },
+          {
+            "name": "Restaurant Børsen",
+            "tip": "Bucătărie daneză tradițională într-o clădire istorică din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød with fish fillet",
+            "tip": "A classic: rye bread with breaded fish fillet and remoulade."
+          },
+          {
+            "name": "Rygeost",
+            "tip": "A smoked fresh cheese from Funen, often served with radishes."
+          },
+          {
+            "name": "Restaurant Børsen",
+            "tip": "Traditional Danish cuisine in a historic building by the harbour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Christiansminde Strand",
+            "tip": "Der späte Nachmittag ist perfekt für einen ruhigen Moment am Wasser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Friedhof an der Sct. Nicolai Kirke",
+            "tip": "Ein überraschend friedlicher Ort mitten in der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bank am Hafen",
+            "tip": "Finden Sie eine Bank mit Blick auf Tåsinge und beobachten Sie die Boote.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Christiansminde strand",
+            "tip": "A késő délután tökéletes egy csendes pillanatra a vízparton.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Szent Miklós-templom temetője",
+            "tip": "Meglepően békés hely a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy pad a kikötőben",
+            "tip": "Keress egy padot, ahonnan Tåsinge szigetére látni, és nézd a hajókat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Christiansminde",
+            "tip": "După-amiaza târzie este perfectă pentru un moment de liniște la malul apei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul Bisericii Sf. Nicolae",
+            "tip": "Un loc surprinzător de pașnic în mijlocul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O bancă în port",
+            "tip": "Găsiți o bancă cu vedere la Tåsinge și priviți bărcile.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Christiansminde Beach",
+            "tip": "Late afternoon is perfect for a quiet moment by the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cemetery at St. Nicolai Church",
+            "tip": "A surprisingly peaceful spot in the middle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A bench at the harbour",
+            "tip": "Find a bench with a view of Tåsinge and watch the boats.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fußgängerzonen",
+            "tip": "Entdecken Sie die kleinen Boutiquen und dänischen Designläden in der Gerritsgade und Møllergade."
+          },
+          {
+            "name": "Hafenmarkt",
+            "tip": "An ausgewählten Tagen gibt es Märkte mit lokalen Produkten und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sétálóutcák",
+            "tip": "Fedezd fel a kis butikokat és dán design boltokat a Gerritsgade és Møllergade utcákban."
+          },
+          {
+            "name": "Kikötői piac",
+            "tip": "Bizonyos napokon helyi termékeket és kézműves árukat kínáló piacok vannak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Străzi pietonale",
+            "tip": "Descoperiți micile buticuri și magazine de design danez pe Gerritsgade și Møllergade."
+          },
+          {
+            "name": "Piața din port",
+            "tip": "În anumite zile, există piețe cu produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pedestrian streets",
+            "tip": "Explore the small boutiques and Danish design shops on Gerritsgade and Møllergade."
+          },
+          {
+            "name": "Harbour market",
+            "tip": "On selected days, there are markets with local products and handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Museen sind montags geschlossen, planen Sie entsprechend.",
+          "Ein Spaziergang entlang des Hafens ist zu jeder Tageszeit schön, besonders aber bei Sonnenuntergang.",
+          "Achten Sie auf die vielen kleinen Galerien und Werkstätten in den Seitenstraßen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "A legtöbb múzeum hétfőn zárva tart, tervezz ennek megfelelően.",
+          "A kikötő mentén sétálni a nap bármely szakában kellemes, de különösen naplementekor.",
+          "Figyelj a mellékutcákban megbúvó sok kis galériára és műhelyre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Majoritatea muzeelor sunt închise lunea, planificați-vă vizita în consecință.",
+          "O plimbare de-a lungul portului este frumoasă în orice moment al zilei, dar mai ales la apus.",
+          "Fiți atenți la numeroasele galerii mici și ateliere de pe străzile laterale."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most museums are closed on Mondays, so plan accordingly.",
+          "A walk along the harbour is beautiful at any time of day, but especially at sunset.",
+          "Look out for the many small galleries and workshops in the side streets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih am Hafen",
+            "hu": "Kerékpárkölcsönző a kikötőben",
+            "ro": "Închiriere de biciclete în port",
+            "en": "Bike Rental at the Harbour"
+          },
+          "coords": [
+            10.603,
+            55.059
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad für den Tag, um die Stadt und die Küste zu erkunden.",
+            "hu": "Bérelj egy biciklit a napra, hogy felfedezd a várost és a partot.",
+            "ro": "Închiriați o bicicletă pentru o zi pentru a explora orașul și coasta.",
+            "en": "Rent a bike for the day to explore the city and the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturama",
+            "hu": "Naturama",
+            "ro": "Naturama",
+            "en": "Naturama"
+          },
+          "coords": [
+            10.598,
+            55.063
+          ],
+          "category": "museums",
+          "arrive_at": "09:34",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit dem modernen Naturkundemuseum, es ist faszinierend.",
+            "hu": "Kezdd a modern természettudományi múzeummal, lenyűgöző.",
+            "ro": "Începeți cu muzeul modern de istorie naturală, este fascinant.",
+            "en": "Start with the modern natural history museum, it's fascinating."
+          }
+        },
+        {
+          "name": {
+            "de": "Sct. Nicolai Kirke & Altstadt",
+            "hu": "Szent Miklós-templom és Óváros",
+            "ro": "Biserica Sf. Nicolae și Centrul Vechi",
+            "en": "St. Nicolai Church & Old Town"
+          },
+          "coords": [
+            10.608,
+            55.061
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die Kirche und die Altstadtgassen zu Fuß.",
+            "hu": "Tedd le a biciklit, és fedezd fel gyalog a templomot és az óváros sikátorait.",
+            "ro": "Parcați bicicleta și explorați biserica și străduțele orașului vechi pe jos.",
+            "en": "Park your bike and explore the church and the old town alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Christiansminde Strand",
+            "hu": "Christiansminde strand",
+            "ro": "Plaja Christiansminde",
+            "en": "Christiansminde Beach"
+          },
+          "coords": [
+            10.64,
+            55.052
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:51",
+          "stay_min": 150,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Eine schöne Radtour entlang der Küste. Zeit für ein Mittagessen und vielleicht ein Bad.",
+            "hu": "Szép bicikliút a part mentén. Itt az idő ebédelni és talán fürdeni egyet.",
+            "ro": "O plimbare frumoasă cu bicicleta de-a lungul coastei. Timp pentru prânz și poate o baie.",
+            "en": "A beautiful bike ride along the coast. Time for lunch and maybe a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Danmarks Forsorgsmuseum",
+            "hu": "Dán Jóléti Múzeum",
+            "ro": "Muzeul Asistenței Sociale din Danemarca",
+            "en": "Denmark's Welfare Museum"
+          },
+          "coords": [
+            10.625,
+            55.057
+          ],
+          "category": "museums",
+          "arrive_at": "15:33",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Auf dem Rückweg ins Zentrum gelegen, ein nachdenklich stimmender Besuch.",
+            "hu": "A központ felé vezető úton található, elgondolkodtató látogatás.",
+            "ro": "Situat în drum spre centru, o vizită care te pune pe gânduri.",
+            "en": "Located on the way back to the center, a thought-provoking visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Svendborg Hafen",
+            "hu": "Svendborgi kikötő",
+            "ro": "Portul Svendborg",
+            "en": "Svendborg Harbour"
+          },
+          "coords": [
+            10.605,
+            55.058
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:24",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie den Abend am Wasser.",
+            "hu": "Add vissza a biciklit, és élvezd az estét a vízparton.",
+            "ro": "Returnați bicicleta și bucurați-vă de seara la malul apei.",
+            "en": "Return your bike and enjoy the evening by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in Svendborg aufs Rad für eine Tour, die Stadt und Natur verbindet. Starten Sie nach der Fahrradmiete mit dem Naturama Museum. Mittags erkunden Sie die Altstadt um die Sct. Nicolai Kirke. Am Nachmittag führt Sie eine malerische Küstenroute zum Christiansminde Strand – perfekt für eine lange Pause. Auf dem Rückweg halten Sie am Danmarks Forsorgsmuseum, bevor Sie den Tag am Hafen ausklingen lassen, wo Ihre Reise begann.",
+        "hu": "Pattanj biciklire Svendborgban egy olyan túrára, amely összeköti a várost és a természetet. A kerékpárbérlés után kezdd a Naturama Múzeummal. Délben fedezd fel az óvárost a Szent Miklós-templom körül. Délután egy festői tengerparti útvonal vezet a Christiansminde strandhoz – tökéletes egy hosszabb pihenőre. Visszafelé állj meg a Dán Jóléti Múzeumnál, mielőtt a napot a kikötőben fejezed be, ahol az utazásod kezdődött.",
+        "ro": "Urcați-vă pe bicicletă în Svendborg pentru un tur care combină orașul și natura. După închirierea bicicletei, începeți cu Muzeul Naturama. La prânz, explorați orașul vechi din jurul Bisericii Sf. Nicolae. După-amiaza, un traseu pitoresc de coastă vă duce la plaja Christiansminde - perfect pentru o pauză lungă. Pe drumul de întoarcere, opriți-vă la Muzeul Asistenței Sociale din Danemarca înainte de a încheia ziua în port, de unde a început călătoria.",
+        "en": "Get on your bike in Svendborg for a tour that combines city and nature. After renting your bike, start with the Naturama Museum. At noon, explore the old town around St. Nicolai Church. In the afternoon, a scenic coastal route takes you to Christiansminde Beach - perfect for a long break. On the way back, stop at Denmark's Welfare Museum before ending the day at the harbour where your journey began."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fynsk Æbleflæsk",
+            "tip": "Ein traditionelles Gericht aus Fünen mit Schweinefleisch und Äpfeln."
+          },
+          {
+            "name": "Café Aroma",
+            "tip": "Ein gemütliches Café für einen Kaffee und Kuchen nach der Radtour."
+          },
+          {
+            "name": "Fiskehuset",
+            "tip": "Frischer Fisch und Meeresfrüchte direkt vom Kutter am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fyn-i almás-szalonnás egytálétel (Æbleflæsk)",
+            "tip": "Hagyományos fyn-i étel sertéshússal és almával."
+          },
+          {
+            "name": "Café Aroma",
+            "tip": "Hangulatos kávézó egy kávéra és süteményre a biciklitúra után."
+          },
+          {
+            "name": "Fiskehuset (Halasház)",
+            "tip": "Friss hal és tenger gyümölcsei közvetlenül a hajókról a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fynsk Æbleflæsk",
+            "tip": "Un fel de mâncare tradițional din Funen cu carne de porc și mere."
+          },
+          {
+            "name": "Café Aroma",
+            "tip": "O cafenea primitoare pentru o cafea și o prăjitură după turul cu bicicleta."
+          },
+          {
+            "name": "Fiskehuset",
+            "tip": "Pește proaspăt și fructe de mare direct de la pescari în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fynsk Æbleflæsk",
+            "tip": "A traditional dish from Funen with pork and apples."
+          },
+          {
+            "name": "Café Aroma",
+            "tip": "A cozy café for a coffee and cake after the bike tour."
+          },
+          {
+            "name": "Fiskehuset",
+            "tip": "Fresh fish and seafood straight from the boat at the harbour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Thurø Rev",
+            "tip": "Wenn Sie Zeit haben, nehmen Sie die Fähre nach Thurø für noch mehr Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wälder bei Christiansminde",
+            "tip": "Hinter dem Strand gibt es ruhige Waldwege zum Radfahren oder Spazierengehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Sund",
+            "tip": "Finden Sie einen Platz entlang der Küste, um den Sonnenuntergang zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Thurø Rev",
+            "tip": "Ha van időd, kompozz át Thurø szigetére a még nagyobb nyugalomért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Christiansminde-i erdők",
+            "tip": "A strand mögött csendes erdei utak vannak kerékpározáshoz vagy sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a szorosnál",
+            "tip": "Keress egy helyet a part mentén, és nézd meg a naplementét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Thurø Rev",
+            "tip": "Dacă aveți timp, luați feribotul către Thurø pentru și mai multă liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurile de lângă Christiansminde",
+            "tip": "În spatele plajei există poteci forestiere liniștite pentru ciclism sau plimbări.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare peste strâmtoare",
+            "tip": "Găsiți un loc de-a lungul coastei pentru a privi apusul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Thurø Rev",
+            "tip": "If you have time, take the ferry to Thurø for even more tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Forests near Christiansminde",
+            "tip": "Behind the beach, there are quiet forest trails for cycling or walking.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset over the Sound",
+            "tip": "Find a spot along the coast to watch the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Halten Sie Ausschau nach kleinen Ständen am Straßenrand, die Obst und Gemüse verkaufen."
+          },
+          {
+            "name": "Kunsthandwerk aus Svendborg",
+            "tip": "In den Galerien finden Sie einzigartige Keramik und Glaskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "Keresd a kis standokat az út mentén, ahol gyümölcsöt és zöldséget árulnak."
+          },
+          {
+            "name": "Svendborgi kézműves termékek",
+            "tip": "A galériákban egyedi kerámiákat és üvegművészeti alkotásokat találsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole locale",
+            "tip": "Fiți atenți la micile tarabe de pe marginea drumului care vând fructe și legume."
+          },
+          {
+            "name": "Artizanat din Svendborg",
+            "tip": "În galerii veți găsi ceramică unică și artă din sticlă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local farm shops",
+            "tip": "Look out for small roadside stalls selling fruit and vegetables."
+          },
+          {
+            "name": "Svendborg handicrafts",
+            "tip": "In the galleries you will find unique ceramics and glass art."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Wind, bevor Sie losfahren; er kann an der Küste stark sein.",
+          "Dänemark ist sehr fahrradfreundlich, nutzen Sie die ausgezeichneten Radwege.",
+          "Nehmen Sie eine Wasserflasche und Snacks mit, besonders für die Tour zum Strand.",
+          "Ein Schloss für Ihr Fahrrad ist unerlässlich, auch wenn die Gegend sicher ist."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a szélirányt; a parton erős lehet.",
+          "Dánia nagyon biciklibarát, használd ki a kiváló kerékpárutakat.",
+          "Vigyél magaddal vizet és rágcsálnivalót, különösen a tengerparti túrára.",
+          "A biciklizár elengedhetetlen, még ha a környék biztonságos is."
+        ],
+        "ro": [
+          "Verificați vântul înainte de a pleca; poate fi puternic pe coastă.",
+          "Danemarca este foarte prietenoasă cu bicicletele, folosiți pistele excelente pentru biciclete.",
+          "Luați o sticlă de apă și gustări, mai ales pentru excursia la plajă.",
+          "O încuietoare pentru bicicletă este esențială, chiar dacă zona este sigură."
+        ],
+        "en": [
+          "Check the wind before you set off; it can be strong on the coast.",
+          "Denmark is very bike-friendly, make use of the excellent cycle paths.",
+          "Take a water bottle and snacks, especially for the trip to the beach.",
+          "A lock for your bike is essential, even if the area is safe."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:08",
+      "total_km": 20.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum/Hafen",
+            "hu": "Parkoló a központban/kikötőben",
+            "ro": "Parcare Centru/Port",
+            "en": "Parking City Center/Harbour"
+          },
+          "coords": [
+            10.602,
+            55.06
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Teil der Stadt zu Fuß zu erkunden.",
+            "hu": "Parkolj le itt, hogy gyalog fedezd fel a város első részét.",
+            "ro": "Parcați aici pentru a explora prima parte a orașului pe jos.",
+            "en": "Park here to explore the first part of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sct. Nicolai Kirke",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicolai Church"
+          },
+          "coords": [
+            10.608,
+            55.061
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zur Hauptkirche der Stadt.",
+            "hu": "Rövid séta a parkolótól a város főtemplomáig.",
+            "ro": "O scurtă plimbare de la parcare la biserica principală a orașului.",
+            "en": "A short walk from the parking lot to the city's main church."
+          }
+        },
+        {
+          "name": {
+            "de": "Anne Hvides Gård",
+            "hu": "Anne Hvide háza",
+            "ro": "Casa Anne Hvide",
+            "en": "Anne Hvide's House"
+          },
+          "coords": [
+            10.61,
+            55.06
+          ],
+          "category": "museums",
+          "arrive_at": "10:04",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gleich um die Ecke der Kirche befindet sich dieses historische Haus.",
+            "hu": "A templom sarkánál található ez a történelmi ház.",
+            "ro": "Chiar la colțul bisericii se află această casă istorică.",
+            "en": "Just around the corner from the church is this historic house."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturama",
+            "hu": "Naturama",
+            "ro": "Naturama",
+            "en": "Naturama"
+          },
+          "coords": [
+            10.598,
+            55.063
+          ],
+          "category": "museums",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der Spaziergang durch die Stadt zum Museum ist sehr angenehm.",
+            "hu": "A séta a városon keresztül a múzeumig nagyon kellemes.",
+            "ro": "Plimbarea prin oraș până la muzeu este foarte plăcută.",
+            "en": "The walk through the city to the museum is very pleasant."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Valdemar",
+            "hu": "Valdemar-kastély",
+            "ro": "Castelul Valdemar",
+            "en": "Valdemar's Castle"
+          },
+          "coords": [
+            10.655,
+            55.015
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:17",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Fahren Sie über die Brücke nach Tåsinge zu diesem prächtigen Schloss. Planen Sie Zeit für die Museen im Inneren ein.",
+            "hu": "Vezess át a hídon Tåsinge szigetére ehhez a csodálatos kastélyhoz. Szánj időt a benne lévő múzeumokra is.",
+            "ro": "Conduceți peste pod spre Tåsinge la acest castel magnific. Planificați timp pentru muzeele din interior.",
+            "en": "Drive across the bridge to Tåsinge to this magnificent castle. Plan time for the museums inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Christiansminde Strand",
+            "hu": "Christiansminde strand",
+            "ro": "Plaja Christiansminde",
+            "en": "Christiansminde Beach"
+          },
+          "coords": [
+            10.64,
+            55.052
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:08",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 10,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück Richtung Svendborg für einen entspannten Nachmittag am Strand.",
+            "hu": "Vezess vissza Svendborg felé egy pihentető délutánra a strandon.",
+            "ro": "Conduceți înapoi spre Svendborg pentru o după-amiază relaxantă la plajă.",
+            "en": "Drive back towards Svendborg for a relaxing afternoon at the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Hafen",
+            "hu": "Vacsora a kikötőben",
+            "ro": "Cină în port",
+            "en": "Dinner at the Harbour"
+          },
+          "coords": [
+            10.605,
+            55.058
+          ],
+          "category": "gastro",
+          "arrive_at": "17:34",
+          "stay_min": 64,
+          "hop_mode": "car",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Abendessen in einem der vielen Restaurants am Wasser.",
+            "hu": "Zárd a napot egy vacsorával a számos vízparti étterem egyikében.",
+            "ro": "Încheiați ziua cu o cină la unul dintre multele restaurante de pe malul apei.",
+            "en": "End the day with dinner at one of the many waterfront restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Zentrum von Svendborg. Nachdem Sie geparkt haben, erkunden Sie den historischen Kern zu Fuß. Am Vormittag besuchen Sie die Kirche und Museen der Innenstadt. Mittags überqueren Sie die Brücke nach Tåsinge für den Höhepunkt des Tages: das prächtige Schloss Valdemar. Verbringen Sie dort einen großen Teil des Nachmittags. Später fahren Sie zum Christiansminde Strand für einen entspannten Spaziergang, bevor Sie zum Abendessen an den lebhaften Hafen von Svendborg zurückkehren.",
+        "hu": "Autós napod Svendborg központjában kezdődik. Miután leparkoltál, gyalog fedezd fel a történelmi magot. A délelőtt folyamán látogass el a belvárosi templomhoz és múzeumokhoz. Délben kelj át a hídon Tåsinge szigetére a nap fénypontjáért: a csodálatos Valdemar-kastélyért. Töltsd ott a délután nagy részét. Később vezess el a Christiansminde strandhoz egy pihentető sétára, mielőtt visszatérsz vacsorázni Svendborg nyüzsgő kikötőjébe.",
+        "ro": "Ziua dumneavoastră cu mașina începe în centrul orașului Svendborg. După ce parcați, explorați centrul istoric pe jos. Dimineața, vizitați biserica și muzeele din centrul orașului. La prânz, traversați podul spre Tåsinge pentru punctul culminant al zilei: magnificul Castel Valdemar. Petreceți o mare parte din după-amiază acolo. Mai târziu, mergeți la plaja Christiansminde pentru o plimbare relaxantă înainte de a vă întoarce în portul plin de viață din Svendborg pentru cină.",
+        "en": "Your car day begins in the center of Svendborg. After parking, explore the historic core on foot. In the morning, visit the church and museums of the city center. At noon, cross the bridge to Tåsinge for the highlight of the day: the magnificent Valdemar's Castle. Spend a large part of the afternoon there. Later, drive to Christiansminde Beach for a relaxing walk before returning to the lively Svendborg Harbour for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Valdemars Slot",
+            "tip": "Speisen Sie königlich im Restaurant des Schlosses."
+          },
+          {
+            "name": "Hotel Christiansminde",
+            "tip": "Bietet ein Restaurant mit herrlicher Aussicht auf den Sund."
+          },
+          {
+            "name": "Svendborgsund Bryghus",
+            "tip": "Probieren Sie lokale Biere und herzhafte Speisen in dieser Brauerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Valdemars Slot",
+            "tip": "Étkezz királyi módon a kastély éttermében."
+          },
+          {
+            "name": "Hotel Christiansminde",
+            "tip": "Étterme csodálatos kilátást nyújt a szorosra."
+          },
+          {
+            "name": "Svendborgsund Sörfőzde",
+            "tip": "Kóstolj helyi söröket és kiadós ételeket ebben a sörfőzdében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Valdemars Slot",
+            "tip": "Luați o masă regească la restaurantul castelului."
+          },
+          {
+            "name": "Hotel Christiansminde",
+            "tip": "Oferă un restaurant cu o priveliște magnifică asupra strâmtorii."
+          },
+          {
+            "name": "Svendborgsund Bryghus",
+            "tip": "Încercați berile locale și mâncărurile consistente la această berărie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Valdemars Slot",
+            "tip": "Dine like royalty at the castle's restaurant."
+          },
+          {
+            "name": "Hotel Christiansminde",
+            "tip": "Offers a restaurant with a magnificent view of the sound."
+          },
+          {
+            "name": "Svendborgsund Brewery",
+            "tip": "Try local beers and hearty food at this brewery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Valdemar",
+            "tip": "Die Gärten rund um das Schloss sind riesig und friedlich.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Am Svendborgsund",
+            "tip": "Finden Sie einen ruhigen Platz entlang der Küstenstraße von Tåsinge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von der Svendborgsundbrücke",
+            "tip": "Ein kurzer Halt (sicher parken!) bietet eine tolle Aussicht.",
+            "emoji": "🌉"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Valdemar kastélyparkja",
+            "tip": "A kastély körüli kertek hatalmasak és békések.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Svendborg-szoros mentén",
+            "tip": "Keress egy csendes helyet Tåsinge tengerparti útja mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Svendborgsund-hídról",
+            "tip": "Egy rövid megálló (biztonságos parkolással!) remek kilátást nyújt.",
+            "emoji": "🌉"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Valdemar",
+            "tip": "Grădinile din jurul castelului sunt vaste și pașnice.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "De-a lungul Svendborgsund",
+            "tip": "Găsiți un loc liniștit de-a lungul drumului de coastă din Tåsinge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de pe podul Svendborgsund",
+            "tip": "O oprire scurtă (parcați în siguranță!) oferă o priveliște minunată.",
+            "emoji": "🌉"
+          }
+        ],
+        "en": [
+          {
+            "name": "Valdemar's Castle Park",
+            "tip": "The gardens surrounding the castle are vast and peaceful.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Along the Svendborg Sound",
+            "tip": "Find a quiet spot along the coastal road of Tåsinge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Svendborgsund Bridge",
+            "tip": "A quick stop (park safely!) offers a great view.",
+            "emoji": "🌉"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schlossladen Valdemar",
+            "tip": "Einzigartige Souvenirs und Delikatessen im Zusammenhang mit dem Schloss."
+          },
+          {
+            "name": "Kunsthandwerk auf Tåsinge",
+            "tip": "Halten Sie Ausschau nach Schildern für lokale Künstler und Töpfer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Valdemar kastélyboltja",
+            "tip": "Egyedi szuvenírek és finomságok a kastélyhoz kapcsolódóan."
+          },
+          {
+            "name": "Kézművesek Tåsinge szigetén",
+            "tip": "Keresd a helyi művészeket és fazekasokat jelző táblákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Castelului Valdemar",
+            "tip": "Suveniruri unice și delicatese legate de castel."
+          },
+          {
+            "name": "Artizanat pe Tåsinge",
+            "tip": "Fiți atenți la semnele care indică artiști și olari locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Valdemar's Castle Shop",
+            "tip": "Unique souvenirs and delicacies related to the castle."
+          },
+          {
+            "name": "Crafts on Tåsinge",
+            "tip": "Look out for signs for local artists and potters."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Öffnungszeiten von Schloss Valdemar, da sie saisonal sind.",
+          "Parken im Zentrum von Svendborg kann kostenpflichtig sein.",
+          "Die Brücke nach Tåsinge ist mautfrei.",
+          "Planen Sie genügend Zeit für Schloss Valdemar ein, es gibt viel zu sehen (mehrere Museen)."
+        ],
+        "hu": [
+          "Ellenőrizd a Valdemar-kastély nyitvatartási idejét, mivel szezonális.",
+          "A parkolás Svendborg központjában fizetős lehet.",
+          "A Tåsinge-híd ingyenes.",
+          "Szánj elegendő időt a Valdemar-kastélyra, sok látnivaló van (több múzeum)."
+        ],
+        "ro": [
+          "Verificați programul de funcționare al Castelului Valdemar, deoarece este sezonier.",
+          "Parcarea în centrul orașului Svendborg poate fi contra cost.",
+          "Podul spre Tåsinge este gratuit.",
+          "Alocați suficient timp pentru Castelul Valdemar, sunt multe de văzut (mai multe muzee)."
+        ],
+        "en": [
+          "Check the opening hours of Valdemar's Castle as they are seasonal.",
+          "Parking in the center of Svendborg may be subject to a fee.",
+          "The bridge to Tåsinge is toll-free.",
+          "Allow plenty of time for Valdemar's Castle, there is a lot to see (several museums)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:13",
+      "total_km": 19,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Svendborg Bahnhof",
+            "hu": "Svendborg vasútállomás",
+            "ro": "Gara Svendborg",
+            "en": "Svendborg Station"
+          },
+          "coords": [
+            10.601,
+            55.064
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der perfekte Ausgangspunkt, um die Stadt zu Fuß zu erkunden, bevor Sie den Bus nehmen.",
+            "hu": "Tökéletes kiindulópont a város gyalogos felfedezéséhez, mielőtt buszra szállnál.",
+            "ro": "Punctul de plecare perfect pentru a explora orașul pe jos înainte de a lua autobuzul.",
+            "en": "The perfect starting point to explore the city on foot before taking the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturama",
+            "hu": "Naturama",
+            "ro": "Naturama",
+            "en": "Naturama"
+          },
+          "coords": [
+            10.598,
+            55.063
+          ],
+          "category": "museums",
+          "arrive_at": "09:14",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Bahnhof entfernt, um den Tag zu beginnen.",
+            "hu": "Csak egy rövid sétára a vasútállomástól a nap kezdéséhez.",
+            "ro": "La doar o scurtă plimbare de gară pentru a începe ziua.",
+            "en": "Just a short walk from the station to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt & Sct. Nicolai Kirke",
+            "hu": "Óváros és Szent Miklós-templom",
+            "ro": "Centrul Vechi și Biserica Sf. Nicolae",
+            "en": "Old Town & St. Nicolai Church"
+          },
+          "coords": [
+            10.608,
+            55.061
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:04",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die historischen Gassen zur Kirche.",
+            "hu": "Sétálj végig a történelmi sikátorokon a templomig.",
+            "ro": "Plimbați-vă pe străduțele istorice până la biserică.",
+            "en": "Stroll through the historic alleys to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Valdemar",
+            "hu": "Valdemar-kastély",
+            "ro": "Castelul Valdemar",
+            "en": "Valdemar's Castle"
+          },
+          "coords": [
+            10.655,
+            55.015
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:44",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus 931 von Svendborg Trafikterminal. Planen Sie die Busfahrt sorgfältig.",
+            "hu": "Szállj fel a 931-es buszra a Svendborg Trafikterminal-on. Tervezd meg gondosan a buszutat.",
+            "ro": "Luați autobuzul 931 de la Svendborg Trafikterminal. Planificați cu atenție călătoria cu autobuzul.",
+            "en": "Take bus 931 from Svendborg Trafikterminal. Plan the bus trip carefully."
+          }
+        },
+        {
+          "name": {
+            "de": "Christiansminde Strand",
+            "hu": "Christiansminde strand",
+            "ro": "Plaja Christiansminde",
+            "en": "Christiansminde Beach"
+          },
+          "coords": [
+            10.64,
+            55.052
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:52",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 8,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum und dann einen anderen Bus (oder gehen Sie 20-25 Min.) zum Strand.",
+            "hu": "Menj busszal vissza a központba, majd egy másik busszal (vagy sétálj 20-25 percet) a strandig.",
+            "ro": "Luați autobuzul înapoi în centru și apoi alt autobuz (sau mergeți pe jos 20-25 min) până la plajă.",
+            "en": "Take the bus back to the center and then another bus (or walk 20-25 min) to the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Zentrum",
+            "hu": "Vacsora a központban",
+            "ro": "Cină în centru",
+            "en": "Dinner in the City Center"
+          },
+          "coords": [
+            10.61,
+            55.06
+          ],
+          "category": "gastro",
+          "arrive_at": "17:43",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Gehen Sie vom Strand zurück in die Stadt für ein wohlverdientes Abendessen.",
+            "hu": "Sétálj vissza a strandról a városba egy jól megérdemelt vacsorára.",
+            "ro": "Mergeți pe jos de la plajă înapoi în oraș pentru o cină binemeritată.",
+            "en": "Walk back from the beach into town for a well-deserved dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Svendborg und seine Umgebung. Beginnen Sie zu Fuß im Stadtzentrum, vom Bahnhof zum Naturama und durch die Altstadt. Am Mittag nehmen Sie den Bus über die Brücke zum Schloss Valdemar, dem Juwel von Tåsinge. Nach einem ausgiebigen Besuch dort fahren Sie mit dem Bus zurück und weiter zum Christiansminde Strand, um die Meeresbrise zu genießen. Der Abend klingt mit einem gemütlichen Abendessen in der Innenstadt von Svendborg aus.",
+        "hu": "Tömegközlekedéssel fedezd fel Svendborgot és környékét. Kezdd gyalog a városközpontban, a vasútállomástól a Naturamáig és az óvároson keresztül. Délben szállj buszra a hídon át a Valdemar-kastélyhoz, Tåsinge ékkövéhez. Egy alapos látogatás után buszozz vissza, majd tovább a Christiansminde strandhoz, hogy élvezd a tengeri szellőt. Az estét egy kellemes vacsorával zárd Svendborg belvárosában.",
+        "ro": "Explorați Svendborg și împrejurimile sale cu transportul public. Începeți pe jos în centrul orașului, de la gară la Naturama și prin orașul vechi. La prânz, luați autobuzul peste pod spre Castelul Valdemar, bijuteria din Tåsinge. După o vizită extinsă acolo, luați autobuzul înapoi și continuați spre plaja Christiansminde pentru a vă bucura de briza mării. Seara se încheie cu o cină relaxantă în centrul orașului Svendborg.",
+        "en": "Explore Svendborg and its surroundings by public transport. Start on foot in the city center, from the station to Naturama and through the old town. At noon, take the bus across the bridge to Valdemar's Castle, the jewel of Tåsinge. After an extensive visit there, take the bus back and on to Christiansminde Beach to enjoy the sea breeze. The evening ends with a leisurely dinner in downtown Svendborg."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølsevogn",
+            "tip": "Probieren Sie einen klassischen dänischen Hotdog von einem Wagen im Stadtzentrum."
+          },
+          {
+            "name": "Under Uret",
+            "tip": "Ein traditionelles dänisches Restaurant (Bodega) mit guter, ehrlicher Küche."
+          },
+          {
+            "name": "Bendixens Fiskehandel",
+            "tip": "Kaufen Sie ein Fisch-Sandwich für ein schnelles Mittagessen unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølsevogn (hot-dog árus)",
+            "tip": "Kóstolj meg egy klasszikus dán hot-dogot egy utcai árustól a központban."
+          },
+          {
+            "name": "Under Uret",
+            "tip": "Hagyományos dán étterem (bodega) jó, házias konyhával."
+          },
+          {
+            "name": "Bendixens Fiskehandel",
+            "tip": "Vegyél egy halas szendvicset egy gyors ebédre útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølsevogn",
+            "tip": "Încercați un hotdog danez clasic de la o tarabă din centrul orașului."
+          },
+          {
+            "name": "Under Uret",
+            "tip": "Un restaurant danez tradițional (bodega) cu mâncare bună și onestă."
+          },
+          {
+            "name": "Bendixens Fiskehandel",
+            "tip": "Cumpărați un sandviș cu pește pentru un prânz rapid pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølsevogn",
+            "tip": "Try a classic Danish hot dog from a cart in the city center."
+          },
+          {
+            "name": "Under Uret",
+            "tip": "A traditional Danish restaurant (bodega) with good, honest food."
+          },
+          {
+            "name": "Bendixens Fiskehandel",
+            "tip": "Buy a fish sandwich for a quick lunch on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Assistens Kirkegård",
+            "tip": "Ein großer, parkähnlicher Friedhof für einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Fahrt über die Brücke",
+            "tip": "Der Blick vom Bus auf den Sund ist fantastisch.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Abend am Strand",
+            "tip": "Bleiben Sie bis zum Sonnenuntergang am Christiansminde Strand.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Assistens Kirkegård",
+            "tip": "Nagy, parkszerű temető egy csendes sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Utazás a hídon",
+            "tip": "A buszról fantasztikus a kilátás a szorosra.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Este a strandon",
+            "tip": "Maradj naplementéig a Christiansminde strandon.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Assistens",
+            "tip": "Un cimitir mare, asemănător unui parc, pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Călătoria peste pod",
+            "tip": "Priveliștea de pe autobuz asupra strâmtorii este fantastică.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Seara la plajă",
+            "tip": "Rămâneți pe plaja Christiansminde până la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Assistens Cemetery",
+            "tip": "A large, park-like cemetery for a quiet walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Trip across the bridge",
+            "tip": "The view from the bus of the sound is fantastic.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Evening at the beach",
+            "tip": "Stay at Christiansminde Beach until sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bycenter",
+            "tip": "Ein kleines Einkaufszentrum in der Nähe des Bahnhofs für das Nötigste."
+          },
+          {
+            "name": "Torvet (Marktplatz)",
+            "tip": "Mittwochs und samstags findet hier ein lebhafter Markt statt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bycenter",
+            "tip": "Kis bevásárlóközpont a vasútállomás közelében a legszükségesebbekért."
+          },
+          {
+            "name": "Torvet (Piactér)",
+            "tip": "Szerdánként és szombatonként nyüzsgő piacot tartanak itt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bycenter",
+            "tip": "Un mic centru comercial lângă gară pentru lucrurile esențiale."
+          },
+          {
+            "name": "Torvet (Piața)",
+            "tip": "Miercurea și sâmbăta aici are loc o piață plină de viață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bycenter",
+            "tip": "A small shopping center near the station for essentials."
+          },
+          {
+            "name": "Torvet (Market Square)",
+            "tip": "A lively market is held here on Wednesdays and Saturdays."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Laden Sie die 'Rejseplanen'-App herunter, um Buszeiten in Echtzeit zu verfolgen.",
+          "Beachten Sie den Fahrplan für den Bus nach Tåsinge, er fährt nicht sehr oft.",
+          "Einige Busse akzeptieren nur Kartenzahlung oder die App, kein Bargeld."
+        ],
+        "hu": [
+          "Vegyél napijegyet a buszra, ha több utazást tervezel.",
+          "Töltsd le a 'Rejseplanen' alkalmazást a valós idejű buszmenetrendek követéséhez.",
+          "Figyelj a Tåsinge-be tartó busz menetrendjére, nem jár túl sűrűn.",
+          "Néhány busz csak kártyás fizetést vagy az alkalmazást fogadja el, készpénzt nem."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Descărcați aplicația 'Rejseplanen' pentru a urmări orele de autobuz în timp real.",
+          "Fiți atenți la orarul autobuzului spre Tåsinge, nu circulă foarte des.",
+          "Unele autobuze acceptă doar plata cu cardul sau prin aplicație, nu și numerar."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan multiple trips.",
+          "Download the 'Rejseplanen' app to track bus times in real time.",
+          "Pay attention to the schedule for the bus to Tåsinge, it doesn't run very often.",
+          "Some buses only accept card payment or the app, no cash."
+        ]
+      }
+    }
+  }
+}

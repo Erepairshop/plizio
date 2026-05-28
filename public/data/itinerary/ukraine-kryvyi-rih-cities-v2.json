@@ -1,0 +1,1564 @@
+{
+  "city_id": "ukraine-kryvyi-rih-cities-v2",
+  "anchor": {
+    "name": "Krywyj Rih",
+    "coords": [
+      33.3918,
+      47.9105
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Taras-Schewtschenko-Park",
+            "hu": "Tarasz Sevcsenko Park",
+            "ro": "Parcul Taras Șevcenko",
+            "en": "Taras Shevchenko Park"
+          },
+          "coords": [
+            33.3895,
+            47.912
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee von einem der örtlichen Stände.",
+            "hu": "Kezdje a napot egy kávéval a helyi standok egyikéből.",
+            "ro": "Începeți ziua aici cu o cafea de la una dintre tarabele locale.",
+            "en": "Start your day here with a coffee from one of the local stands."
+          }
+        },
+        {
+          "name": {
+            "de": "Erlöser-Verklärungs-Kathedrale",
+            "hu": "Színeváltozás-székesegyház",
+            "ro": "Catedrala Schimbarea la Față",
+            "en": "Transfiguration Cathedral"
+          },
+          "coords": [
+            33.3945,
+            47.9135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden modernen Fresken im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző modern freskókat a belső térben.",
+            "ro": "Observați frescele moderne impresionante din interior.",
+            "en": "Take note of the impressive modern frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Blumenuhr",
+            "hu": "Virágóra",
+            "ro": "Ceasul Floral",
+            "en": "Flower Clock"
+          },
+          "coords": [
+            33.401,
+            47.908
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der beste Ort für ein Foto ist von der kleinen Anhöhe gegenüber.",
+            "hu": "A legjobb fotóhely a szemközti kis emelkedőről nyílik.",
+            "ro": "Cel mai bun loc pentru o fotografie este de pe micul deal de vizavi.",
+            "en": "The best spot for a photo is from the small hill opposite."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Zirkus",
+            "hu": "Ebéd a Cirkusz közelében",
+            "ro": "Prânz lângă Circ",
+            "en": "Lunch near the Circus"
+          },
+          "coords": [
+            33.4155,
+            47.9095
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie Borschtsch in einem der traditionellen Restaurants.",
+            "hu": "Kóstolja meg a borscsot egy hagyományos étteremben.",
+            "ro": "Încercați borșul într-unul dintre restaurantele tradiționale.",
+            "en": "Try some borsch in one of the traditional restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Krywyj Rih Staatszirkus",
+            "hu": "Krivij Rih-i Állami Cirkusz",
+            "ro": "Circul de Stat din Krivîi Rih",
+            "en": "Kryvyi Rih State Circus"
+          },
+          "coords": [
+            33.414,
+            47.91
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Überprüfen Sie den Spielplan, vielleicht läuft eine Nachmittagsvorstellung.",
+            "hu": "Ellenőrizze a műsort, lehet, hogy van délutáni előadás.",
+            "ro": "Verificați programul, poate prindeți o reprezentație de după-amiază.",
+            "en": "Check the schedule, you might catch an afternoon performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bootsstation am Saksahan-Fluss",
+            "hu": "Csónakállomás a Szakszahan folyón",
+            "ro": "Stația de bărci de pe râul Saksahan",
+            "en": "Boat Station on the Saksahan River"
+          },
+          "coords": [
+            33.385,
+            47.925
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Tretboot für eine entspannte Zeit auf dem Wasser.",
+            "hu": "Béreljen vízibiciklit egy pihentető időtöltéshez a vízen.",
+            "ro": "Închiriați o hidrobicicletă pentru un moment de relaxare pe apă.",
+            "en": "Rent a paddle boat for a relaxing time on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Saksahan-Flussufer",
+            "hu": "Szakszahan folyópart",
+            "ro": "Malul râului Saksahan",
+            "en": "Saksahan Riverbank"
+          },
+          "coords": [
+            33.384,
+            47.926
+          ],
+          "category": "natural features",
+          "arrive_at": "16:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um den Sonnenuntergang über dem Wasser zu beobachten.",
+            "hu": "Szép hely a naplemente megtekintéséhez a víz felett.",
+            "ro": "Un loc frumos pentru a privi apusul peste apă.",
+            "en": "A beautiful spot to watch the sunset over the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Krywyj Rih beginnt im grünen Herzen der Stadt, dem Taras-Schewtschenko-Park. Von dort aus führt ein kurzer Spaziergang zur prächtigen Erlöser-Verklärungs-Kathedrale. Am Vormittag entdecken Sie die berühmte Blumenuhr, ein einzigartiges Wahrzeichen der Stadt und perfektes Fotomotiv. Gegen Mittag erreichen Sie die Gegend um den Staatszirkus, wo Sie in einem der lokalen Restaurants ein herzhaftes ukrainisches Mittagessen genießen können. Der Nachmittag steht im Zeichen der Entspannung am Wasser. Sie schlendern zur Bootsstation am Saksahan-Fluss, wo Sie eine Pause einlegen oder sogar ein Boot mieten können. Den Tag lassen Sie am malerischen Flussufer ausklingen, während Sie die ruhige Atmosphäre und den Blick auf das Wasser genießen, was einen friedlichen Abschluss Ihrer Erkundungstour darstellt.",
+        "hu": "Krivij Rih-i napja a város zöld szívében, a Tarasz Sevcsenko Parkban kezdődik. Innen egy rövid séta vezet a csodálatos Színeváltozás-székesegyházhoz. Délelőtt felfedezi a híres Virágórát, a város egyedi szimbólumát és tökéletes fotómotívumát. Dél körül eléri az Állami Cirkusz környékét, ahol egy helyi étteremben egy kiadós ukrán ebédet fogyaszthat el. A délután a vízparti pihenés jegyében telik. Elsétál a Szakszahan folyón lévő csónakállomáshoz, ahol szünetet tarthat, vagy akár csónakot is bérelhet. A napot a festői folyóparton fejezi be, élvezve a nyugodt légkört és a víz látványát, ami békés lezárása a felfedezőútnak.",
+        "ro": "Ziua dumneavoastră în Krivîi Rih începe în inima verde a orașului, Parcul Taras Șevcenko. De acolo, o scurtă plimbare vă duce la splendida Catedrală a Schimbării la Față. În cursul dimineții, veți descoperi faimosul Ceas Floral, un simbol unic al orașului și un loc perfect pentru fotografii. În jurul prânzului, ajungeți în zona Circului de Stat, unde vă puteți bucura de un prânz ucrainean consistent la unul dintre restaurantele locale. După-amiaza este dedicată relaxării pe malul apei. Vă plimbați până la stația de bărci de pe râul Saksahan, unde puteți face o pauză sau chiar închiria o barcă. Încheiați ziua pe malul pitoresc al râului, bucurându-vă de atmosfera liniștită și de priveliștea apei, ceea ce reprezintă o încheiere pașnică a turului dumneavoastră de explorare.",
+        "en": "Your day in Kryvyi Rih begins in the green heart of the city, Taras Shevchenko Park. From there, a short walk leads to the magnificent Transfiguration Cathedral. In the morning, you'll discover the famous Flower Clock, a unique city landmark and a perfect photo opportunity. Around noon, you'll reach the area of the State Circus, where you can enjoy a hearty Ukrainian lunch at one of the local restaurants. The afternoon is dedicated to relaxation by the water. You'll stroll to the boat station on the Saksahan River, where you can take a break or even rent a boat. You'll end the day on the picturesque riverbank, enjoying the calm atmosphere and the view of the water, providing a peaceful conclusion to your exploration tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Borschtsch",
+            "tip": "Ein Muss in der Ukraine, oft mit Pampuschki (Knoblauchbrötchen) serviert."
+          },
+          {
+            "name": "Wareniki",
+            "tip": "Gefüllte Teigtaschen, süß oder herzhaft, ähnlich wie Piroggen."
+          },
+          {
+            "name": "Deruny",
+            "tip": "Kartoffelpuffer, typischerweise mit saurer Sahne serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borscs",
+            "tip": "Ukrajnában kötelező, gyakran pampuskával (fokhagymás zsemle) tálalják."
+          },
+          {
+            "name": "Vareniki",
+            "tip": "Töltött táskák, édesen vagy sósan, a piroghoz hasonlóan."
+          },
+          {
+            "name": "Deruni",
+            "tip": "Krumplilángos, általában tejföllel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Borș",
+            "tip": "O necesitate în Ucraina, adesea servit cu pampușki (chifle cu usturoi)."
+          },
+          {
+            "name": "Vareniki",
+            "tip": "Găluște umplute, dulci sau sărate, similare cu pirogi."
+          },
+          {
+            "name": "Derunî",
+            "tip": "Clătite de cartofi, servite de obicei cu smântână."
+          }
+        ],
+        "en": [
+          {
+            "name": "Borscht",
+            "tip": "A must-try in Ukraine, often served with pampushky (garlic rolls)."
+          },
+          {
+            "name": "Varenyky",
+            "tip": "Filled dumplings, either sweet or savory, similar to pierogi."
+          },
+          {
+            "name": "Deruny",
+            "tip": "Potato pancakes, typically served with sour cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Saksahan-Flussufer",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das fließende Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Taras-Schewtschenko-Park",
+            "tip": "Abseits der Hauptwege gibt es viele ruhige Ecken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Fluss",
+            "tip": "Das goldene Licht am Abend ist besonders friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szakszahan folyópart",
+            "tip": "Keressen egy csendes padot, és nézze a hömpölygő vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tarasz Sevcsenko Park",
+            "tip": "A fő utaktól távol számos csendes sarok található.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a folyónál",
+            "tip": "Az esti arany fény különösen békés.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Saksahan",
+            "tip": "Găsiți o bancă liniștită și priviți apa curgând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Taras Șevcenko",
+            "tip": "Există multe colțuri liniștite departe de aleile principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus la râu",
+            "tip": "Lumina aurie de seară este deosebit de pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saksahan Riverbank",
+            "tip": "Find a quiet bench and watch the flowing water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Taras Shevchenko Park",
+            "tip": "There are many quiet corners away from the main paths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset by the river",
+            "tip": "The golden light in the evening is especially peaceful.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgemachten Souvenirs und lokalen Produkten."
+          },
+          {
+            "name": "Vyshyvanka",
+            "tip": "Ein traditionelles besticktes ukrainisches Hemd ist ein wunderbares Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézzel készített ajándéktárgyakat és helyi termékeket."
+          },
+          {
+            "name": "Vyshyvanka",
+            "tip": "Egy hagyományos hímzett ukrán ing csodálatos emlék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați suveniruri artizanale și produse locale."
+          },
+          {
+            "name": "Vyshyvanka",
+            "tip": "O cămașă tradițională ucraineană brodată este un suvenir minunat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade souvenirs and local produce."
+          },
+          {
+            "name": "Vyshyvanka",
+            "tip": "A traditional embroidered Ukrainian shirt makes a wonderful souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Halten Sie immer etwas Bargeld für kleine Einkäufe auf Märkten oder bei Straßenhändlern bereit.",
+          "Ein tragbares Ladegerät für Ihr Telefon ist nützlich, um den ganzen Tag über Fotos zu machen und zu navigieren."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog sétálni.",
+          "Mindig tartson magánál készpénzt a piacokon vagy utcai árusoknál történő kisebb vásárlásokhoz.",
+          "Egy hordozható töltő a telefonjához hasznos lehet, hogy egész nap fényképezhessen és navigálhasson."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Aveți întotdeauna niște numerar la îndemână pentru cumpărături mici în piețe sau de la vânzătorii ambulanți.",
+          "Un încărcător portabil pentru telefon este util pentru a face fotografii și a naviga pe tot parcursul zilei."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Always have some cash on hand for small purchases at markets or from street vendors.",
+          "A portable charger for your phone is useful for taking photos and navigating throughout the day."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 21.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            33.475,
+            48.01
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein idealer Ort, um den Tag in Ruhe zu beginnen. Verpassen Sie nicht die Rosensammlung.",
+            "hu": "Ideális hely a nap nyugodt kezdéséhez. Ne hagyja ki a rózsagyűjteményt.",
+            "ro": "Un loc ideal pentru a începe ziua în liniște. Nu ratați colecția de trandafiri.",
+            "en": "An ideal place to start the day peacefully. Don't miss the rose collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbau-Museum",
+            "hu": "Bányászati Múzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            33.42,
+            47.95
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die Freiluftausstellung mit riesigen Bergbaumaschinen ein.",
+            "hu": "Szánjon elég időt a szabadtéri kiállításra, ahol óriási bányászati gépek láthatók.",
+            "ro": "Planificați suficient timp pentru expoziția în aer liber cu mașini miniere uriașe.",
+            "en": "Plan enough time for the open-air exhibition with huge mining equipment."
+          }
+        },
+        {
+          "name": {
+            "de": "Blumenuhr",
+            "hu": "Virágóra",
+            "ro": "Ceasul Floral",
+            "en": "Flower Clock"
+          },
+          "coords": [
+            33.401,
+            47.908
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Blumenarrangements werden je nach Jahreszeit geändert.",
+            "hu": "A virágdíszeket az évszaknak megfelelően változtatják.",
+            "ro": "Aranjamentele florale sunt schimbate în funcție de sezon.",
+            "en": "The flower arrangements are changed according to the season."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            33.398,
+            47.91
+          ],
+          "category": "gastro",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Suchen Sie nach einem Restaurant mit einer Sommerterrasse.",
+            "hu": "Keressen egy éttermet nyári terasszal.",
+            "ro": "Căutați un restaurant cu o terasă de vară.",
+            "en": "Look for a restaurant with a summer terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Erlöser-Verklärungs-Kathedrale",
+            "hu": "Színeváltozás-székesegyház",
+            "ro": "Catedrala Schimbarea la Față",
+            "en": "Transfiguration Cathedral"
+          },
+          "coords": [
+            33.3945,
+            47.9135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Komplex ist ziemlich groß, nehmen Sie sich Zeit, um ihn zu erkunden.",
+            "hu": "A komplexum meglehetősen nagy, szánjon időt a felfedezésére.",
+            "ro": "Complexul este destul de mare, luați-vă timp să-l explorați.",
+            "en": "The complex is quite large, take your time to explore it."
+          }
+        },
+        {
+          "name": {
+            "de": "Taras-Schewtschenko-Park",
+            "hu": "Tarasz Sevcsenko Park",
+            "ro": "Parcul Taras Șevcenko",
+            "en": "Taras Shevchenko Park"
+          },
+          "coords": [
+            33.3895,
+            47.912
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ort, um Ihr Fahrrad kurz abzustellen und einen Spaziergang zu machen.",
+            "hu": "Jó hely a bicikli rövid letámasztására és egy sétára.",
+            "ro": "Un loc bun pentru a lăsa bicicleta pentru o vreme și a face o plimbare.",
+            "en": "A good place to park your bike for a bit and take a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bootsstation",
+            "hu": "Csónakállomás",
+            "ro": "Stația de bărci",
+            "en": "Boat Station"
+          },
+          "coords": [
+            33.385,
+            47.925
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie am Flussufer entlang, um die Aussicht zu genießen.",
+            "hu": "Kerékpározzon a folyóparton, hogy élvezze a kilátást.",
+            "ro": "Mergeți cu bicicleta pe malul râului pentru a vă bucura de priveliște.",
+            "en": "Cycle along the riverbank to enjoy the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Saksahan-Fluss",
+            "hu": "Szakszahan folyó",
+            "ro": "Râul Saksahan",
+            "en": "Saksahan River"
+          },
+          "coords": [
+            33.35,
+            47.93
+          ],
+          "category": "natural features",
+          "arrive_at": "18:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Finden Sie einen schönen Platz am Ufer, um Ihre Radtour ausklingen zu lassen.",
+            "hu": "Keressen egy szép helyet a parton, hogy lezárja a kerékpártúrát.",
+            "ro": "Găsiți un loc frumos pe mal pentru a încheia turul cu bicicleta.",
+            "en": "Find a nice spot on the bank to end your bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrradtour durch Krywyj Rih startet im ruhigen Botanischen Garten, einem perfekten Ort für einen entspannten Morgen. Von dort radeln Sie zum Bergbau-Museum, um in die industrielle Geschichte der Region einzutauchen. Am Mittag erreichen Sie die zentrale Blumenuhr für ein schnelles Foto, bevor Sie in einem nahegelegenen Restaurant eine Mittagspause einlegen. Gestärkt geht es weiter zur beeindruckenden Erlöser-Verklärungs-Kathedrale und anschließend in den Taras-Schewtschenko-Park. Am späten Nachmittag folgen Sie dem Lauf des Saksahan-Flusses, passieren die Bootsstation und beenden Ihre Tour an einem malerischen Ort am Flussufer, wo Sie die Eindrücke des Tages Revue passieren lassen können.",
+        "hu": "Krivij Rih-i kerékpártúrája a csendes Botanikus Kertben kezdődik, amely tökéletes hely egy pihentető reggelhez. Innen a Bányászati Múzeumhoz teker, hogy elmerüljön a régió ipari történelmében. Délben eléri a központi Virágórát egy gyors fotó erejéig, mielőtt ebédszünetet tartana egy közeli étteremben. Megerősödve folytatja útját a lenyűgöző Színeváltozás-székesegyházhoz, majd a Tarasz Sevcsenko Parkba. Késő délután a Szakszahan folyó mentén halad, elhalad a csónakállomás mellett, és a túrát egy festői helyen, a folyóparton fejezi be, ahol áttekintheti a nap benyomásait.",
+        "ro": "Turul dumneavoastră cu bicicleta prin Krivîi Rih începe în liniștita Grădină Botanică, un loc perfect pentru o dimineață relaxantă. De acolo, pedalați spre Muzeul Mineritului pentru a vă cufunda în istoria industrială a regiunii. La prânz, ajungeți la Ceasul Floral central pentru o fotografie rapidă, înainte de a lua o pauză de masă la un restaurant din apropiere. Revigorat, continuați spre impresionanta Catedrală a Schimbării la Față și apoi spre Parcul Taras Șevcenko. Spre sfârșitul după-amiezii, urmați cursul râului Saksahan, treceți pe lângă stația de bărci și încheiați turul într-un loc pitoresc pe malul râului, unde puteți reflecta asupra impresiilor zilei.",
+        "en": "Your bike tour through Kryvyi Rih starts in the tranquil Botanical Garden, a perfect spot for a relaxed morning. From there, you'll cycle to the Mining Museum to delve into the region's industrial history. At noon, you'll reach the central Flower Clock for a quick photo before taking a lunch break at a nearby restaurant. Refreshed, you'll continue to the impressive Transfiguration Cathedral and then to Taras Shevchenko Park. In the late afternoon, you'll follow the course of the Saksahan River, pass the boat station, and end your tour at a picturesque spot on the riverbank, where you can reflect on the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kwas",
+            "tip": "Ein fermentiertes, leicht alkoholisches Getränk, perfekt zur Erfrischung an einem warmen Tag."
+          },
+          {
+            "name": "Salat Olivier",
+            "tip": "Ein beliebter Salat, der in vielen lokalen Cafés zu finden ist."
+          },
+          {
+            "name": "Hähnchen Kiew",
+            "tip": "Ein Klassiker der ukrainischen Küche, den man probiert haben sollte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kvasz",
+            "tip": "Erjesztett, enyhén alkoholos ital, tökéletes frissítő egy meleg napon."
+          },
+          {
+            "name": "Olivier saláta",
+            "tip": "Népszerű saláta, amely számos helyi kávézóban megtalálható."
+          },
+          {
+            "name": "Kijevi csirke",
+            "tip": "Az ukrán konyha klasszikusa, amelyet érdemes megkóstolni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cvas",
+            "tip": "O băutură fermentată, ușor alcoolizată, perfectă pentru a te răcori într-o zi caldă."
+          },
+          {
+            "name": "Salată Olivier",
+            "tip": "O salată populară găsită în multe cafenele locale."
+          },
+          {
+            "name": "Pui Kiev",
+            "tip": "Un clasic al bucătăriei ucrainene care trebuie încercat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kvass",
+            "tip": "A fermented, slightly alcoholic beverage, perfect for refreshment on a warm day."
+          },
+          {
+            "name": "Olivier Salad",
+            "tip": "A popular salad found in many local cafes."
+          },
+          {
+            "name": "Chicken Kyiv",
+            "tip": "A classic of Ukrainian cuisine that should be tried."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Die abgelegenen Pfade bieten viel Ruhe und Frieden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Saksahan-Flussufer",
+            "tip": "Das Geräusch des Wassers ist sehr beruhigend.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt im Park",
+            "tip": "Finden Sie einen Hügel im Taras-Schewtschenko-Park für eine weite Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus Kert",
+            "tip": "A félreeső ösvények sok nyugalmat és békét kínálnak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szakszahan folyópart",
+            "tip": "A víz zúgása nagyon megnyugtató.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátó a parkban",
+            "tip": "Keressen egy dombot a Tarasz Sevcsenko Parkban a széles kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Cărările izolate oferă multă liniște și pace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Saksahan",
+            "tip": "Sunetul apei este foarte calmant.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere în parc",
+            "tip": "Găsiți un deal în Parcul Taras Șevcenko pentru o priveliște largă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "The secluded paths offer a lot of peace and quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Saksahan Riverbank",
+            "tip": "The sound of the water is very calming.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint in the park",
+            "tip": "Find a hill in Taras Shevchenko Park for a wide view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Souvenirstände im Park",
+            "tip": "Kleine Andenken an Ihre Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha tartozékokra vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Ajándékstandok a parkban",
+            "tip": "Kis emlékek a kerékpártúráról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          },
+          {
+            "name": "Standuri de suveniruri în parc",
+            "tip": "Mici amintiri din turul dumneavoastră cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "In case you need any accessories or a quick repair."
+          },
+          {
+            "name": "Souvenir stalls in the park",
+            "tip": "Small mementos of your bike tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltepunkten sicher abzustellen.",
+          "Eine Flasche Wasser ist unerlässlich, um hydriert zu bleiben."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Vigyen magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a megállóknál.",
+          "Egy palack víz elengedhetetlen a hidratáltság megőrzéséhez."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "O sticlă de apă este esențială pentru a rămâne hidratat."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Bring a lock to secure your bike at the stops.",
+          "A bottle of water is essential to stay hydrated."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 34.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            33.475,
+            48.01
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und erkunden Sie diesen weitläufigen Garten zu Fuß.",
+            "hu": "Parkolja le az autót, és fedezze fel ezt a tágas kertet gyalog.",
+            "ro": "Parcați mașina și explorați această grădină întinsă pe jos.",
+            "en": "Park your car and explore this vast garden on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbau-Museum",
+            "hu": "Bányászati Múzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            33.42,
+            47.95
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Das Museum hat einen eigenen Parkplatz. Die Freiluftausstellung ist ein Highlight.",
+            "hu": "A múzeumnak saját parkolója van. A szabadtéri kiállítás fénypont.",
+            "ro": "Muzeul are propria parcare. Expoziția în aer liber este un punct de atracție.",
+            "en": "The museum has its own parking lot. The open-air exhibition is a highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum (Ankunft)",
+            "hu": "1. Klaszter: Városközpont (Érkezés)",
+            "ro": "Cluster 1: Centrul Orașului (Sosire)",
+            "en": "Cluster 1: City Center (Arrival)"
+          },
+          "coords": [
+            33.402,
+            47.909
+          ],
+          "category": "cluster_start",
+          "arrive_at": "13:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für die nächsten Stunden. Suchen Sie nach einem bewachten Parkplatz.",
+            "hu": "Parkoljon itt a következő néhány órára. Keressen egy őrzött parkolót.",
+            "ro": "Parcați aici pentru următoarele ore. Căutați o parcare păzită.",
+            "en": "Park here for the next few hours. Look for a guarded parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Blumenuhr",
+            "hu": "Virágóra",
+            "ro": "Ceasul Floral",
+            "en": "Flower Clock"
+          },
+          "coords": [
+            33.401,
+            47.908
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum berühmtesten Wahrzeichen der Stadt.",
+            "hu": "Rövid séta a parkolótól a város leghíresebb nevezetességéhez.",
+            "ro": "O scurtă plimbare de la parcare la cel mai faimos punct de reper al orașului.",
+            "en": "A short walk from the parking lot to the city's most famous landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            33.398,
+            47.91
+          ],
+          "category": "gastro",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Restaurants sind von hier aus zu Fuß erreichbar.",
+            "hu": "Innen számos étterem gyalogosan elérhető.",
+            "ro": "Multe restaurante sunt la câțiva pași de aici.",
+            "en": "Many restaurants are within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Erlöser-Verklärungs-Kathedrale",
+            "hu": "Színeváltozás-székesegyház",
+            "ro": "Catedrala Schimbarea la Față",
+            "en": "Transfiguration Cathedral"
+          },
+          "coords": [
+            33.3945,
+            47.9135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch das Herz der Stadt führt Sie zu dieser modernen Kathedrale.",
+            "hu": "Egy kellemes séta a város szívében vezet ehhez a modern székesegyházhoz.",
+            "ro": "O plimbare plăcută prin inima orașului vă va duce la această catedrală modernă.",
+            "en": "A pleasant walk through the heart of the city will lead you to this modern cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Flussufer (Ankunft)",
+            "hu": "2. Klaszter: Folyópart (Érkezés)",
+            "ro": "Cluster 2: Malul Râului (Sosire)",
+            "en": "Cluster 2: Riverbank (Arrival)"
+          },
+          "coords": [
+            33.386,
+            47.924
+          ],
+          "category": "cluster_start",
+          "arrive_at": "17:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 20.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Flussufer für den entspannten Teil des Tages.",
+            "hu": "Hajtson a folyóparthoz a nap pihentető részéért.",
+            "ro": "Conduceți spre malul râului pentru partea relaxantă a zilei.",
+            "en": "Drive to the riverbank for the relaxing part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Bootsstation am Saksahan-Fluss",
+            "hu": "Csónakállomás a Szakszahan folyón",
+            "ro": "Stația de bărci de pe râul Saksahan",
+            "en": "Boat Station on the Saksahan River"
+          },
+          "coords": [
+            33.385,
+            47.925
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stellen Sie das Auto ab und genießen Sie einen Spaziergang entlang des Wassers.",
+            "hu": "Parkolja le az autót, és élvezze a sétát a víz mentén.",
+            "ro": "Parcați mașina și bucurați-vă de o plimbare pe malul apei.",
+            "en": "Park the car and enjoy a walk along the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto beginnen Sie Ihre Tour im weitläufigen Botanischen Garten, gefolgt von einem Besuch des beeindruckenden Bergbau-Museums. Gegen Mittag fahren Sie ins Stadtzentrum und parken Ihr Auto für ein paar Stunden. Zu Fuß erkunden Sie dann den ersten Cluster: die berühmte Blumenuhr, genießen ein Mittagessen und besuchen die majestätische Erlöser-Verklärungs-Kathedrale. Am späten Nachmittag nehmen Sie wieder das Auto und fahren zum zweiten Cluster am Saksahan-Fluss. Dort parken Sie erneut und lassen den Tag entspannt an der Bootsstation und am Flussufer ausklingen, eine perfekte Kombination aus Kultur und Natur.",
+        "hu": "Autóval a tágas Botanikus Kertben kezdi a túrát, majd meglátogatja a lenyűgöző Bányászati Múzeumot. Dél körül a városközpontba hajt, és leparkolja az autót néhány órára. Ezután gyalog fedezi fel az első klasztert: a híres Virágórát, ebédel, és meglátogatja a fenséges Színeváltozás-székesegyházat. Késő délután újra autóba ül, és a második klaszterhez, a Szakszahan folyóhoz hajt. Ott ismét leparkol, és a napot pihentetően a csónakállomásnál és a folyóparton fejezi be, ami a kultúra és a természet tökéletes kombinációja.",
+        "ro": "Cu mașina, începeți turul la vasta Grădină Botanică, urmată de o vizită la impresionantul Muzeu al Mineritului. În jurul prânzului, conduceți spre centrul orașului și parcați mașina pentru câteva ore. Apoi, explorați pe jos primul cluster: faimosul Ceas Floral, savurați prânzul și vizitați majestuoasa Catedrală a Schimbării la Față. Spre sfârșitul după-amiezii, luați din nou mașina și conduceți spre al doilea cluster, la râul Saksahan. Acolo, parcați din nou și încheiați ziua relaxându-vă la stația de bărci și pe malul râului, o combinație perfectă de cultură și natură.",
+        "en": "By car, you start your tour at the vast Botanical Garden, followed by a visit to the impressive Mining Museum. Around noon, you drive to the city center and park your car for a few hours. You then explore the first cluster on foot: the famous Flower Clock, enjoy lunch, and visit the majestic Transfiguration Cathedral. In the late afternoon, you take the car again and drive to the second cluster at the Saksahan River. There, you park again and end the day relaxing at the boat station and riverbank, a perfect combination of culture and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Piroggen",
+            "tip": "Probieren Sie verschiedene Füllungen in einem 'Piroggenhaus'."
+          },
+          {
+            "name": "Soljanka",
+            "tip": "Eine herzhafte, säuerlich-scharfe Suppe, ideal nach einem langen Tag."
+          },
+          {
+            "name": "Ukrainisches Bier",
+            "tip": "Entdecken Sie lokale Brauereien wie 'Lvivske' oder 'Obolon'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pirog",
+            "tip": "Kóstoljon meg különböző töltelékeket egy 'Pirog házban'."
+          },
+          {
+            "name": "Szoljanka",
+            "tip": "Kiadós, savanykás-csípős leves, ideális egy hosszú nap után."
+          },
+          {
+            "name": "Ukrán sör",
+            "tip": "Fedezze fel a helyi sörfőzdéket, mint a 'Lvivske' vagy az 'Obolon'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pirogi",
+            "tip": "Încercați diferite umpluturi la o 'Casă de Pirogi'."
+          },
+          {
+            "name": "Solianka",
+            "tip": "O supă consistentă, acră și picantă, ideală după o zi lungă."
+          },
+          {
+            "name": "Berea ucraineană",
+            "tip": "Descoperiți berăriile locale precum 'Lvivske' sau 'Obolon'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try different fillings at a 'Pierogi House'."
+          },
+          {
+            "name": "Solyanka",
+            "tip": "A hearty, sour, and spicy soup, ideal after a long day."
+          },
+          {
+            "name": "Ukrainian Beer",
+            "tip": "Discover local breweries like 'Lvivske' or 'Obolon'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Perfekt für einen ruhigen Start in den Tag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fahrt entlang des Flusses",
+            "tip": "Genießen Sie die Landschaft vom Auto aus.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Abend am Saksahan",
+            "tip": "Der Sonnenuntergang ist hier besonders schön.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus Kert",
+            "tip": "Tökéletes a nap nyugodt kezdéséhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Autózás a folyó mentén",
+            "tip": "Élvezze a tájat az autóból.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Este a Szakszahan-nál",
+            "tip": "A naplemente itt különösen szép.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Perfect pentru un început liniștit de zi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare cu mașina pe malul râului",
+            "tip": "Bucurați-vă de peisaj din mașină.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Seara la Saksahan",
+            "tip": "Apusul este deosebit de frumos aici.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "Perfect for a quiet start to the day.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Drive along the river",
+            "tip": "Enjoy the scenery from the car.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Evening at Saksahan",
+            "tip": "The sunset is particularly beautiful here.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tankstellenshops",
+            "tip": "Für schnelle Snacks und Getränke unterwegs."
+          },
+          {
+            "name": "Kunsthandwerkermarkt",
+            "tip": "Achten Sie auf Märkte in der Nähe der Kathedrale."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Benzinkút üzletek",
+            "tip": "Gyors harapnivalókért és italokért útközben."
+          },
+          {
+            "name": "Kézműves piac",
+            "tip": "Keresse a piacokat a székesegyház közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de benzinărie",
+            "tip": "Pentru gustări rapide și băuturi pe drum."
+          },
+          {
+            "name": "Piața de artizanat",
+            "tip": "Fiți atenți la piețele din apropierea catedralei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gas station shops",
+            "tip": "For quick snacks and drinks on the go."
+          },
+          {
+            "name": "Artisan market",
+            "tip": "Look out for markets near the cathedral."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App mit aktuellen Verkehrsinformationen.",
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Das Auto gibt Ihnen die Flexibilität, auch weiter entfernte Sehenswürdigkeiten wie den Botanischen Garten problemlos zu erreichen."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást aktuális forgalmi információkkal.",
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "Az autó rugalmasságot biztosít a távolabbi látnivalók, például a Botanikus Kert könnyű eléréséhez."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație cu informații actualizate despre trafic.",
+          "Verificați în avans opțiunile de parcare și taxele.",
+          "Mașina vă oferă flexibilitatea de a ajunge cu ușurință la atracții mai îndepărtate, cum ar fi Grădina Botanică."
+        ],
+        "en": [
+          "Use a navigation app with real-time traffic information.",
+          "Check parking options and fees in advance.",
+          "The car gives you the flexibility to easily reach more distant attractions like the Botanical Garden."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:35",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Zentraler Bezirk (Ankunft)",
+            "hu": "1. Klaszter: Központi kerület (Érkezés)",
+            "ro": "Cluster 1: Cartierul Central (Sosire)",
+            "en": "Cluster 1: Central District (Arrival)"
+          },
+          "coords": [
+            33.39,
+            47.9125
+          ],
+          "category": "cluster_start",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Taras-Schewtschenko-Park, der gut mit öffentlichen Verkehrsmitteln erreichbar ist.",
+            "hu": "Kezdje a Tarasz Sevcsenko Parknál, amely tömegközlekedéssel jól megközelíthető.",
+            "ro": "Începeți la Parcul Taras Șevcenko, care este bine conectat cu transportul public.",
+            "en": "Start at Taras Shevchenko Park, which is well-connected by public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Taras-Schewtschenko-Park",
+            "hu": "Tarasz Sevcsenko Park",
+            "ro": "Parcul Taras Șevcenko",
+            "en": "Taras Shevchenko Park"
+          },
+          "coords": [
+            33.3895,
+            47.912
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen Morgenspaziergang, bevor die Stadt erwacht.",
+            "hu": "Élvezze a reggeli sétát, mielőtt a város felébred.",
+            "ro": "Bucurați-vă de o plimbare de dimineață înainte ca orașul să se trezească.",
+            "en": "Enjoy a morning stroll before the city wakes up."
+          }
+        },
+        {
+          "name": {
+            "de": "Erlöser-Verklärungs-Kathedrale",
+            "hu": "Színeváltozás-székesegyház",
+            "ro": "Catedrala Schimbarea la Față",
+            "en": "Transfiguration Cathedral"
+          },
+          "coords": [
+            33.3945,
+            47.9135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park zur beeindruckenden Kathedrale.",
+            "hu": "Rövid séta a parktól a lenyűgöző székesegyházig.",
+            "ro": "O scurtă plimbare de la parc la impresionanta catedrală.",
+            "en": "A short walk from the park to the impressive cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Kulturviertel (Ankunft)",
+            "hu": "2. Klaszter: Kulturális negyed (Érkezés)",
+            "ro": "Cluster 2: Cartierul Cultural (Sosire)",
+            "en": "Cluster 2: Cultural Quarter (Arrival)"
+          },
+          "coords": [
+            33.4005,
+            47.9085
+          ],
+          "category": "cluster_start",
+          "arrive_at": "12:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder eine Marschrutka zur Blumenuhr.",
+            "hu": "Menjen busszal vagy marsrutkával a Virágórához.",
+            "ro": "Luați un autobuz sau o marshrutka până la Ceasul Floral.",
+            "en": "Take a bus or marshrutka to the Flower Clock."
+          }
+        },
+        {
+          "name": {
+            "de": "Blumenuhr & Mittagessen",
+            "hu": "Virágóra és ebéd",
+            "ro": "Ceasul Floral și Prânzul",
+            "en": "Flower Clock & Lunch"
+          },
+          "coords": [
+            33.401,
+            47.908
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Uhr und suchen Sie sich dann ein nettes Café für die Mittagspause.",
+            "hu": "Csodálja meg az órát, majd keressen egy szép kávézót az ebédszünethez.",
+            "ro": "Admirați ceasul și apoi găsiți o cafenea drăguță pentru pauza de prânz.",
+            "en": "Admire the clock and then find a nice cafe for your lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Bergbau-Erbe (Ankunft)",
+            "hu": "3. Klaszter: Bányászati örökség (Érkezés)",
+            "ro": "Cluster 3: Patrimoniul Minier (Sosire)",
+            "en": "Cluster 3: Mining Heritage (Arrival)"
+          },
+          "coords": [
+            33.42,
+            47.95
+          ],
+          "category": "cluster_start",
+          "arrive_at": "14:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine längere Fahrt zum Bergbau-Museum, das etwas außerhalb liegt.",
+            "hu": "Hosszabb utazás a Bányászati Múzeumhoz, amely kissé kívül esik.",
+            "ro": "O călătorie mai lungă până la Muzeul Mineritului, care este puțin în afara orașului.",
+            "en": "A longer ride to the Mining Museum, which is a bit out of the way."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbau-Museum",
+            "hu": "Bányászati Múzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            33.421,
+            47.9505
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Geschichte des Eisenerzes, das die Stadt geprägt hat.",
+            "hu": "Fedezze fel a vasérc történetét, amely a várost formálta.",
+            "ro": "Explorați istoria minereului de fier care a modelat orașul.",
+            "en": "Explore the history of iron ore that has shaped the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln startet im zentralen Taras-Schewtschenko-Park. Nach einem Spaziergang zur Erlöser-Verklärungs-Kathedrale nehmen Sie einen Bus zum zweiten Cluster, der Blumenuhr, wo Sie auch zu Mittag essen. Dieser Cluster-Wechsel zeigt die Effizienz des Nahverkehrs. Am Nachmittag unternehmen Sie eine längere Fahrt mit dem Bus zum Bergbau-Museum, einem wichtigen Zeugnis der industriellen Identität der Stadt. Jeder Transit-Hop verbindet verschiedene Facetten von Krywyj Rih, von spirituellen Zentren über städtische Wahrzeichen bis hin zum industriellen Erbe, alles bequem und authentisch erreichbar.",
+        "hu": "Tömegközlekedési túrája a központi Tarasz Sevcsenko Parkban kezdődik. A Színeváltozás-székesegyházhoz tett séta után busszal utazik a második klaszterhez, a Virágórához, ahol ebédel is. Ez a klaszterváltás bemutatja a helyi közlekedés hatékonyságát. Délután hosszabb buszútra indul a Bányászati Múzeumhoz, a város ipari identitásának fontos tanújához. Minden tömegközlekedési ugrás Krivij Rih különböző arcait köti össze, a spirituális központoktól a városi nevezetességeken át az ipari örökségig, mindezt kényelmesen és hitelesen elérhetővé téve.",
+        "ro": "Turul dumneavoastră cu transportul public începe în Parcul central Taras Șevcenko. După o plimbare la Catedrala Schimbării la Față, luați un autobuz spre al doilea cluster, Ceasul Floral, unde veți lua și prânzul. Această schimbare de cluster demonstrează eficiența transportului local. După-amiaza, faceți o călătorie mai lungă cu autobuzul la Muzeul Mineritului, o mărturie importantă a identității industriale a orașului. Fiecare salt cu transportul public leagă diferite fațete ale Krivîi Rih, de la centre spirituale și repere urbane la patrimoniul industrial, totul accesibil convenabil și autentic.",
+        "en": "Your public transport tour starts in the central Taras Shevchenko Park. After a walk to the Transfiguration Cathedral, you take a bus to the second cluster, the Flower Clock, where you'll also have lunch. This cluster change demonstrates the efficiency of local transport. In the afternoon, you take a longer bus ride to the Mining Museum, an important testament to the city's industrial identity. Each transit hop connects different facets of Kryvyi Rih, from spiritual centers and urban landmarks to industrial heritage, all conveniently and authentically accessible."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chebureki",
+            "tip": "Frittierte Teigtaschen, ein beliebter und schneller Snack von Straßenverkäufern."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Quarkpfannkuchen, oft zum Frühstück oder als Dessert gegessen."
+          },
+          {
+            "name": "Uzvar",
+            "tip": "Ein traditionelles Getränk aus getrockneten Früchten, sehr erfrischend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csebureki",
+            "tip": "Sült tészta, népszerű és gyors harapnivaló az utcai árusoktól."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Túrós palacsinta, gyakran reggelire vagy desszertként fogyasztják."
+          },
+          {
+            "name": "Uzvar",
+            "tip": "Hagyományos ital szárított gyümölcsökből, nagyon frissítő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cebureki",
+            "tip": "Plăcinte prăjite, o gustare populară și rapidă de la vânzătorii ambulanți."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Clătite din brânză de vaci, adesea consumate la micul dejun sau ca desert."
+          },
+          {
+            "name": "Uzvar",
+            "tip": "O băutură tradițională din fructe uscate, foarte răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chebureki",
+            "tip": "Deep-fried turnovers, a popular and quick snack from street vendors."
+          },
+          {
+            "name": "Syrniki",
+            "tip": "Curd pancakes, often eaten for breakfast or as a dessert."
+          },
+          {
+            "name": "Uzvar",
+            "tip": "A traditional drink made from dried fruits, very refreshing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Früher Morgen im Park",
+            "tip": "Genießen Sie die Stille, bevor die Stadt aufwacht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eine Bank am Fluss",
+            "tip": "Ein kurzer Spaziergang von einer Haltestelle kann Sie zu einem ruhigen Ort führen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Beobachten Sie das Stadtleben, während Sie zum nächsten Ziel fahren.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kora reggel a parkban",
+            "tip": "Élvezze a csendet, mielőtt a város felébred.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy pad a folyónál",
+            "tip": "Egy rövid séta egy megállótól egy csendes helyre viheti.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Figyelje a városi életet, miközben a következő cél felé halad.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dimineața devreme în parc",
+            "tip": "Bucurați-vă de liniște înainte ca orașul să se trezească.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O bancă pe malul râului",
+            "tip": "O scurtă plimbare de la o stație vă poate duce într-un loc liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Privind pe geamul autobuzului",
+            "tip": "Observați viața orașului în timp ce vă îndreptați spre următoarea destinație.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Early morning in the park",
+            "tip": "Enjoy the quiet before the city wakes up.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A bench by the river",
+            "tip": "A short walk from a stop can lead you to a quiet spot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "Observe the city life while traveling to the next destination.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Haltestellen",
+            "tip": "Ideal für eine Zeitung oder einen schnellen Kaffee."
+          },
+          {
+            "name": "Buchhandlungen",
+            "tip": "Suchen Sie nach Büchern über die lokale Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a megállókban",
+            "tip": "Ideális egy újságért vagy egy gyors kávéért."
+          },
+          {
+            "name": "Könyvesboltok",
+            "tip": "Keressen könyveket a helyi történelemről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri în stații",
+            "tip": "Ideal pentru un ziar sau o cafea rapidă."
+          },
+          {
+            "name": "Librării",
+            "tip": "Căutați cărți despre istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at stops",
+            "tip": "Ideal for a newspaper or a quick coffee."
+          },
+          {
+            "name": "Bookstores",
+            "tip": "Look for books on local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Marschrutkas (Minibusse) sind eine schnelle, aber oft überfüllte Alternative zu Bussen.",
+          "Laden Sie eine lokale ÖPNV-App herunter, um Routen und Fahrpläne zu überprüfen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "A marsrutkák (minibuszok) gyors, de gyakran zsúfolt alternatívái a buszoknak.",
+          "Töltsön le egy helyi tömegközlekedési alkalmazást az útvonalak és menetrendek ellenőrzéséhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Marshrutka-urile (microbuzele) sunt o alternativă rapidă, dar adesea aglomerată, la autobuze.",
+          "Descărcați o aplicație locală de transport public pentru a verifica rutele și orarele."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Marshrutkas (minibuses) are a fast but often crowded alternative to buses.",
+          "Download a local public transport app to check routes and schedules."
+        ]
+      }
+    }
+  }
+}

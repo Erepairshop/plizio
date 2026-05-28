@@ -1,0 +1,1084 @@
+{
+  "city_id": "spain-ciudad-real-cities-v2",
+  "anchor": {
+    "name": "Ciudad Real",
+    "coords": [
+      -3.9274,
+      38.9848
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor (Fő tér)",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -3.9278,
+            38.9859
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der Cafés mit Blick auf das Rathaus.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában, kilátással a városházára.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele cu vedere la primărie.",
+            "en": "Start your day with a coffee at one of the cafes overlooking the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Nuestra Señora del Prado",
+            "hu": "Nuestra Señora del Prado-székesegyház",
+            "ro": "Catedrala Nuestra Señora del Prado",
+            "en": "Cathedral of Nuestra Señora del Prado"
+          },
+          "coords": [
+            -3.9295,
+            38.9865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie das beeindruckende Barock-Retabel, eines der größten in Spanien.",
+            "hu": "Csodálja meg a lenyűgöző barokk oltárképet, Spanyolország egyik legnagyobbját.",
+            "ro": "Admirați impresionantul retablu baroc, unul dintre cele mai mari din Spania.",
+            "en": "Admire the impressive Baroque altarpiece, one of the largest in Spain."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica San Pedro",
+            "en": "Church of San Pedro"
+          },
+          "coords": [
+            -3.9262,
+            38.9868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem Grab von 'El Chantre de Calatrava', einem Meisterwerk der gotischen Bildhauerei.",
+            "hu": "Keresse meg 'El Chantre de Calatrava' sírját, a gótikus szobrászat mesterművét.",
+            "ro": "Căutați mormântul lui 'El Chantre de Calatrava', o capodoperă a sculpturii gotice.",
+            "en": "Look for the tomb of 'El Chantre de Calatrava', a masterpiece of Gothic sculpture."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta de Toledo",
+            "hu": "Toledói kapu",
+            "ro": "Poarta din Toledo",
+            "en": "Puerta de Toledo"
+          },
+          "coords": [
+            -3.9221,
+            38.9911
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies ist das einzige verbliebene von acht Toren der mittelalterlichen Stadtmauer.",
+            "hu": "Ez az egyetlen megmaradt kapu a középkori városfal nyolc kapuja közül.",
+            "ro": "Aceasta este singura poartă rămasă din cele opt ale zidului medieval al orașului.",
+            "en": "This is the only remaining of eight gates from the medieval city wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Quijote-Museum",
+            "hu": "Don Quijote Múzeum",
+            "ro": "Muzeul Don Quijote",
+            "en": "Don Quixote Museum"
+          },
+          "coords": [
+            -3.9351,
+            38.9825
+          ],
+          "category": "museums",
+          "arrive_at": "13:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Interaktive Exponate machen die Geschichte von Don Quijote auch für Kinder spannend.",
+            "hu": "Az interaktív kiállítások Don Quijote történetét a gyerekek számára is élvezetessé teszik.",
+            "ro": "Exponatele interactive fac ca povestea lui Don Quijote să fie captivantă chiar și pentru copii.",
+            "en": "Interactive exhibits make the story of Don Quixote engaging even for children."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Ciudad Real",
+            "hu": "Ciudad Real Múzeum",
+            "ro": "Muzeul din Ciudad Real",
+            "en": "Ciudad Real Museum"
+          },
+          "coords": [
+            -3.9329,
+            38.9835
+          ],
+          "category": "museums",
+          "arrive_at": "14:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die archäologische Abteilung mit Funden aus der Bronzezeit.",
+            "hu": "Fókuszáljon a régészeti részlegre, ahol bronzkori leleteket is láthat.",
+            "ro": "Concentrați-vă pe secțiunea arheologică, cu artefacte din Epoca Bronzului.",
+            "en": "Focus on the archaeology section, featuring findings from the Bronze Age."
+          }
+        },
+        {
+          "name": {
+            "de": "Gasset-Park",
+            "hu": "Gasset park",
+            "ro": "Parcul Gasset",
+            "en": "Gasset Park"
+          },
+          "coords": [
+            -3.9372,
+            38.9805
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie am Brunnen 'La Talaverana', der mit berühmter Keramik verziert ist.",
+            "hu": "Pihenjen a 'La Talaverana' szökőkútnál, melyet híres kerámiák díszítenek.",
+            "ro": "Relaxați-vă lângă fântâna 'La Talaverana', decorată cu ceramică faimoasă.",
+            "en": "Relax by the 'La Talaverana' fountain, decorated with famous ceramics."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, der Plaza Mayor. Am Vormittag erkunden Sie die prächtigen Kirchen, darunter die Kathedrale und San Pedro, die von der reichen Geschichte der Stadt zeugen. Nach dem Mittagessen tauchen Sie in die Welt von Don Quijote im ihm gewidmeten Museum ein, ein Muss in dieser Region. Schließen Sie Ihren Tag mit einem entspannenden Spaziergang durch den grünen Gasset-Park ab, ein perfekter Ort, um die Eindrücke des Tages Revue passieren zu lassen.",
+        "hu": "Kezdje a napot a város szívében, a Plaza Mayoron. A délelőtt folyamán fedezze fel a csodálatos templomokat, köztük a katedrálist és a San Pedro-templomot, amelyek a város gazdag történelméről tanúskodnak. Ebéd után merüljön el Don Quijote világában a neki szentelt múzeumban, ami kötelező látnivaló ebben a régióban. Zárja a napot egy pihentető sétával a zöldellő Gasset parkban, amely tökéletes hely a napi benyomások feldolgozására.",
+        "ro": "Începeți ziua în inima orașului, Plaza Mayor. În timpul dimineții, explorați bisericile magnifice, inclusiv Catedrala și San Pedro, care mărturisesc istoria bogată a orașului. După prânz, scufundați-vă în lumea lui Don Quijote la muzeul dedicat lui, o vizită obligatorie în această regiune. Încheiați ziua cu o plimbare relaxantă prin Parcul Gasset, un loc perfect pentru a reflecta asupra impresiilor zilei.",
+        "en": "Start your day in the heart of the city, Plaza Mayor. In the morning, explore the magnificent churches, including the Cathedral and San Pedro, which testify to the city's rich history. After lunch, immerse yourself in the world of Don Quixote at the museum dedicated to him, a must-see in this region. Conclude your day with a relaxing stroll through the green Gasset Park, a perfect place to reflect on the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Migas Manchegas",
+            "tip": "Ein traditionelles Gericht aus Brotkrumen, Chorizo und Knoblauch. Perfekt für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Pisto Manchego",
+            "tip": "Ein lokales Ratatouille, oft mit einem Spiegelei serviert. Probieren Sie es im Restaurante El Corregidor."
+          },
+          {
+            "name": "Queso Manchego",
+            "tip": "Der berühmte Schafskäse der Region. Kaufen Sie ein Stück auf dem Mercado Municipal."
+          },
+          {
+            "name": "Tiznao",
+            "tip": "Ein Kabeljau-Eintopf mit Paprika und Zwiebeln, typisch für die Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Migas Manchegas",
+            "tip": "Hagyományos étel kenyérmorzsából, chorizóból és fokhagymából. Tökéletes egy kiadós ebédhez."
+          },
+          {
+            "name": "Pisto Manchego",
+            "tip": "Helyi lecsó, gyakran tükörtojással tálalva. Kóstolja meg az El Corregidor étteremben."
+          },
+          {
+            "name": "Queso Manchego",
+            "tip": "A régió híres juhsajtja. Vegyen egy darabot a Mercado Municipal piacon."
+          },
+          {
+            "name": "Tiznao",
+            "tip": "Tőkehalragu paprikával és hagymával, a régióra jellemző étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migas Manchegas",
+            "tip": "Un fel de mâncare tradițional din pesmet, chorizo și usturoi. Perfect pentru un prânz consistent."
+          },
+          {
+            "name": "Pisto Manchego",
+            "tip": "Un ratatouille local, adesea servit cu un ou prăjit. Încercați-l la Restaurante El Corregidor."
+          },
+          {
+            "name": "Queso Manchego",
+            "tip": "Faimoasa brânză de oaie din regiune. Cumpărați o bucată de la Mercado Municipal."
+          },
+          {
+            "name": "Tiznao",
+            "tip": "O tocană de cod cu ardei și ceapă, tipică regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Migas Manchegas",
+            "tip": "A traditional dish of breadcrumbs, chorizo, and garlic. Perfect for a hearty lunch."
+          },
+          {
+            "name": "Pisto Manchego",
+            "tip": "A local ratatouille, often served with a fried egg. Try it at Restaurante El Corregidor."
+          },
+          {
+            "name": "Queso Manchego",
+            "tip": "The region's famous sheep's cheese. Buy a piece at the Mercado Municipal."
+          },
+          {
+            "name": "Tiznao",
+            "tip": "A cod stew with peppers and onions, typical of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gasset-Park",
+            "tip": "Finden Sie eine ruhige Bank im Rosengarten, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardines del Prado",
+            "tip": "Die Gärten hinter der Kathedrale sind ein friedlicher Ort für eine kurze Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Guadiana",
+            "tip": "Ein Spaziergang entlang des Flusses etwas außerhalb des Zentrums bietet Ruhe und Natur.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasset park",
+            "tip": "Keressen egy csendes padot a rózsakertben, hogy elmeneküljön a város nyüzsgésétől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardines del Prado",
+            "tip": "A katedrális mögötti kertek békés helyet kínálnak egy rövid szünetre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Guadiana folyó partja",
+            "tip": "Egy séta a folyó mentén, kicsit a központon kívül, nyugalmat és természetet kínál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Gasset",
+            "tip": "Găsiți o bancă liniștită în grădina de trandafiri pentru a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardines del Prado",
+            "tip": "Grădinile din spatele catedralei sunt un loc pașnic pentru o scurtă pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Guadiana",
+            "tip": "O plimbare de-a lungul râului, chiar în afara centrului, oferă liniște și natură.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasset Park",
+            "tip": "Find a quiet bench in the rose garden to escape the city bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardines del Prado",
+            "tip": "The gardens behind the cathedral are a peaceful spot for a short break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Guadiana River",
+            "tip": "A walk along the river just outside the center offers tranquility and nature.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle General Aguilera",
+            "tip": "Die Haupteinkaufsstraße der Stadt mit einer Mischung aus nationalen und lokalen Marken."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "Kaufen Sie lokale Produkte, insbesondere den berühmten Manchego-Käse und Wein aus der Region."
+          },
+          {
+            "name": "Keramik aus La Mancha",
+            "tip": "Suchen Sie nach handbemalter Keramik, einem klassischen Souvenir aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle General Aguilera",
+            "tip": "A város fő bevásárlóutcája, nemzeti és helyi márkák keverékével."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "Vásároljon helyi termékeket, különösen a híres Manchego sajtot és a régió borait."
+          },
+          {
+            "name": "La Mancha kerámia",
+            "tip": "Keressen kézzel festett kerámiákat, egy klasszikus ajándéktárgyat a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle General Aguilera",
+            "tip": "Principala stradă comercială a orașului, cu un amestec de mărci naționale și locale."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "Cumpărați produse locale, în special faimoasa brânză Manchego și vinul din regiune."
+          },
+          {
+            "name": "Ceramică din La Mancha",
+            "tip": "Căutați ceramică pictată manual, un suvenir clasic din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle General Aguilera",
+            "tip": "The city's main shopping street with a mix of national and local brands."
+          },
+          {
+            "name": "Mercado Municipal de Abastos",
+            "tip": "Shop for local produce, especially the famous Manchego cheese and regional wine."
+          },
+          {
+            "name": "La Mancha Pottery",
+            "tip": "Look for hand-painted ceramics, a classic souvenir from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das historische Zentrum am besten zu Fuß erkundet wird.",
+          "Viele kleinere Geschäfte und Museen schließen während der Siesta (ca. 14:00-17:00 Uhr). Planen Sie entsprechend.",
+          "Die Sommer können sehr heiß sein. Nehmen Sie Wasser mit und suchen Sie mittags schattige Plätze auf.",
+          "Probieren Sie die lokalen Tapas-Bars rund um die Plaza Mayor für ein authentisches kulinarisches Erlebnis."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a történelmi központot a legjobb gyalog felfedezni.",
+          "Sok kisebb üzlet és múzeum bezár a szieszta alatt (kb. 14:00-17:00). Tervezzen ennek megfelelően.",
+          "A nyarak nagyon forróak lehetnek. Vigyen magával vizet, és délben keressen árnyékos helyeket.",
+          "Próbálja ki a helyi tapas bárokat a Plaza Mayor környékén az autentikus kulináris élményért."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul istoric este cel mai bine explorat pe jos.",
+          "Multe magazine mici și muzee se închid în timpul siestei (aprox. 14:00-17:00). Planificați-vă în consecință.",
+          "Verile pot fi foarte calde. Luați apă cu dvs. și căutați locuri umbrite la prânz.",
+          "Încercați barurile locale de tapas din jurul Plaza Mayor pentru o experiență culinară autentică."
+        ],
+        "en": [
+          "Wear comfortable shoes as the historic center is best explored on foot.",
+          "Many smaller shops and museums close for siesta (approx. 2 PM - 5 PM). Plan accordingly.",
+          "Summers can be very hot. Carry water and seek shade during midday.",
+          "Try the local tapas bars around Plaza Mayor for an authentic culinary experience."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Gasset-Park",
+            "hu": "Gasset park",
+            "ro": "Parcul Gasset",
+            "en": "Gasset Park"
+          },
+          "coords": [
+            -3.9372,
+            38.9805
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Runde mit dem Rad, bevor Sie sich auf den Weg ins Zentrum machen.",
+            "hu": "Tegyen egy rövid kört biciklivel, mielőtt a központ felé veszi az irányt.",
+            "ro": "Faceți o scurtă tură cu bicicleta înainte de a vă îndrepta spre centru.",
+            "en": "Do a quick lap on your bike before heading into the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Quijote-Museum",
+            "hu": "Don Quijote Múzeum",
+            "ro": "Muzeul Don Quijote",
+            "en": "Don Quixote Museum"
+          },
+          "coords": [
+            -3.9351,
+            38.9825
+          ],
+          "category": "museums",
+          "arrive_at": "09:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher, bevor Sie in die Welt des berühmten Ritters eintauchen.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt elmerül a híres lovag világában.",
+            "ro": "Parcați-vă bicicleta în siguranță înainte de a intra în lumea faimosului cavaler.",
+            "en": "Park your bike securely before diving into the world of the famous knight."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor (Fő tér)",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -3.9278,
+            38.9859
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie das geschäftige Treiben im Herzen der Stadt.",
+            "hu": "Tegye le a biciklit, és élvezze a nyüzsgést a város szívében.",
+            "ro": "Lăsați bicicleta și bucurați-vă de agitația din inima orașului.",
+            "en": "Park your bike and enjoy the hustle and bustle in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Nuestra Señora del Prado",
+            "hu": "Nuestra Señora del Prado-székesegyház",
+            "ro": "Catedrala Nuestra Señora del Prado",
+            "en": "Cathedral of Nuestra Señora del Prado"
+          },
+          "coords": [
+            -3.9295,
+            38.9865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine kurze Gehdistanz von der Plaza Mayor. Schließen Sie Ihr Rad gut ab.",
+            "hu": "Rövid sétatávolságra a Plaza Mayortól. Jól zárja le a kerékpárját.",
+            "ro": "La o scurtă plimbare de Plaza Mayor. Asigurați-vă bine bicicleta.",
+            "en": "A short walk from Plaza Mayor. Lock your bike well."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica San Pedro",
+            "en": "Church of San Pedro"
+          },
+          "coords": [
+            -3.9262,
+            38.9868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein weiteres Highlight, das nur wenige Schritte von der Kathedrale entfernt ist.",
+            "hu": "Egy másik fénypont, csak pár lépésre a katedrálistól.",
+            "ro": "Un alt punct de atracție la doar câțiva pași de catedrală.",
+            "en": "Another highlight just a few steps from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta de Toledo",
+            "hu": "Toledói kapu",
+            "ro": "Poarta din Toledo",
+            "en": "Puerta de Toledo"
+          },
+          "coords": [
+            -3.9221,
+            38.9911
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie nach Norden, um dieses historische Wahrzeichen zu sehen. Ideal für ein Foto.",
+            "hu": "Tekerjen észak felé, hogy megnézze ezt a történelmi emlékművet. Ideális egy fotóhoz.",
+            "ro": "Pedalați spre nord pentru a vedea acest punct de reper istoric. Ideal pentru o fotografie.",
+            "en": "Cycle north to see this historic landmark. Great for a photo stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Santiago",
+            "hu": "Szent Jakab-templom",
+            "ro": "Biserica Santiago",
+            "en": "Church of Santiago"
+          },
+          "coords": [
+            -3.9201,
+            38.9879
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entdecken Sie diese Kirche aus dem 13. Jahrhundert, die als eine der ältesten der Stadt gilt.",
+            "hu": "Fedezze fel ezt a 13. századi templomot, a város egyik legrégebbi épületét.",
+            "ro": "Descoperiți această biserică din secolul al XIII-lea, considerată una dintre cele mai vechi din oraș.",
+            "en": "Discover this 13th-century church, considered one of the oldest in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Pilar-Viertel",
+            "hu": "Pilar negyed",
+            "ro": "Cartierul Pilar",
+            "en": "Pilar Neighborhood"
+          },
+          "coords": [
+            -3.92,
+            38.98
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:41",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie durch dieses Viertel für ein Gefühl des lokalen Lebens abseits der Touristenpfade.",
+            "hu": "Tekerjen át ezen a negyeden, hogy bepillantást nyerjen a helyi életbe a turistaösvényeken kívül.",
+            "ro": "Plimbați-vă cu bicicleta prin acest cartier pentru a simți viața locală, departe de traseele turistice.",
+            "en": "Ride through this neighborhood for a feel of local life away from the tourist tracks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag mit einer Radtour durch den Gasset-Park, bevor Sie zum Quijote-Museum fahren. Der Vormittag ist der Kultur gewidmet. Mittags erreichen Sie die Plaza Mayor, das pulsierende Herz der Stadt, wo Sie die wichtigsten Kirchen zu Fuß erkunden. Am Nachmittag radeln Sie zum historischen Puerta de Toledo und entdecken die ältere Iglesia de Santiago. Beenden Sie Ihre Tour mit einer Fahrt durch ein authentisches Wohnviertel, um das echte Ciudad Real zu erleben.",
+        "hu": "Kezdje a napot egy biciklitúrával a Gasset parkban, mielőtt a Don Quijote Múzeumhoz teker. A délelőtt a kultúráé. Délben éri el a Plaza Mayort, a város lüktető szívét, ahol gyalogosan fedezheti fel a legfontosabb templomokat. Délután tekerjen el a történelmi Puerta de Toledóhoz, és fedezze fel a régebbi Iglesia de Santiago templomot. Fejezze be a túrát egy kerékpározással egy autentikus lakónegyedben, hogy megtapasztalja az igazi Ciudad Realt.",
+        "ro": "Începeți ziua cu o plimbare cu bicicleta prin Parcul Gasset înainte de a merge la Muzeul Don Quijote. Dimineața este dedicată culturii. La prânz, ajungeți în Plaza Mayor, inima vibrantă a orașului, unde explorați principalele biserici pe jos. După-amiaza, pedalați spre istorica Puerta de Toledo și descoperiți vechea Biserică Santiago. Încheiați turul cu o plimbare printr-un cartier rezidențial autentic pentru a experimenta adevăratul Ciudad Real.",
+        "en": "Start your day with a bike ride through Gasset Park before heading to the Don Quixote Museum. The morning is dedicated to culture. At noon, you'll reach Plaza Mayor, the vibrant heart of the city, where you explore the main churches on foot. In the afternoon, cycle to the historic Puerta de Toledo and discover the older Church of Santiago. End your tour with a ride through an authentic residential neighborhood to experience the real Ciudad Real."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Ciudad Real ist relativ flach und daher ideal zum Radfahren.",
+          "Nutzen Sie die vielen Radwege, insbesondere entlang der Hauptstraßen.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders im Stadtzentrum.",
+          "Einige Einbahnstraßen für Autos sind für Fahrräder in beide Richtungen freigegeben – achten Sie auf die Beschilderung."
+        ],
+        "hu": [
+          "Ciudad Real viszonylag sík, ezért ideális a kerékpározáshoz.",
+          "Használja ki a számos kerékpárutat, különösen a főutak mentén.",
+          "Mindig gondosan zárja le a kerékpárját, különösen a városközpontban.",
+          "Néhány egyirányú utca az autók számára mindkét irányban nyitott a kerékpárosok előtt – figyeljen a táblákra."
+        ],
+        "ro": [
+          "Ciudad Real este relativ plat, fiind ideal pentru ciclism.",
+          "Folosiți numeroasele piste de biciclete, în special de-a lungul drumurilor principale.",
+          "Legați-vă întotdeauna bine bicicleta, mai ales în centrul orașului.",
+          "Unele străzi cu sens unic pentru mașini sunt deschise pentru biciclete în ambele direcții - fiți atenți la semne."
+        ],
+        "en": [
+          "Ciudad Real is relatively flat, making it ideal for cycling.",
+          "Make use of the many bike lanes, especially along the main avenues.",
+          "Always lock your bike securely, especially in the city center.",
+          "Some one-way streets for cars are open to bikes in both directions – pay attention to the signs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz bei Puerta de Toledo",
+            "hu": "Parkoló a Puerta de Toledónál",
+            "ro": "Parcare la Poarta din Toledo",
+            "en": "Parking near Puerta de Toledo"
+          },
+          "coords": [
+            -3.9215,
+            38.9915
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den nördlichen Teil des historischen Zentrums zu erkunden.",
+            "hu": "Parkoljon itt, hogy felfedezze a történelmi központ északi részét.",
+            "ro": "Parcați aici pentru a explora partea de nord a centrului istoric.",
+            "en": "Park here to explore the northern part of the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta de Toledo",
+            "hu": "Toledói kapu",
+            "ro": "Poarta din Toledo",
+            "en": "Puerta de Toledo"
+          },
+          "coords": [
+            -3.9221,
+            38.9911
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zu diesem beeindruckenden Stadttor.",
+            "hu": "Rövid séta a parkolótól ehhez a lenyűgöző városkapuhoz.",
+            "ro": "O scurtă plimbare de la parcare la această poartă impresionantă a orașului.",
+            "en": "A short walk from the parking lot to this impressive city gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor & Kathedrale (Cluster)",
+            "hu": "Plaza Mayor és Katedrális (Klaszter)",
+            "ro": "Plaza Mayor & Catedrală (Cluster)",
+            "en": "Plaza Mayor & Cathedral (Cluster)"
+          },
+          "coords": [
+            -3.9275,
+            38.986
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:04",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu einem Parkhaus im Zentrum. Von hier aus sind Plaza Mayor, Kathedrale und San Pedro zu Fuß erreichbar.",
+            "hu": "Vezessen egy belvárosi parkolóházba. Innen a Plaza Mayor, a katedrális és a San Pedro gyalog is elérhető.",
+            "ro": "Conduceți la o parcare din centru. De aici, Plaza Mayor, Catedrala și San Pedro sunt la distanță de mers pe jos.",
+            "en": "Drive to a central parking garage. From here, Plaza Mayor, the Cathedral, and San Pedro are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica San Pedro",
+            "en": "Church of San Pedro"
+          },
+          "coords": [
+            -3.9262,
+            38.9868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie von der Kathedrale zu dieser gotischen Kirche.",
+            "hu": "Sétáljon át a katedrálistól ehhez a gótikus templomhoz.",
+            "ro": "Plimbați-vă de la catedrală la această biserică gotică.",
+            "en": "Stroll from the cathedral to this Gothic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Museums-Cluster (Quijote & Ciudad Real)",
+            "hu": "Múzeumi Klaszter (Quijote & Ciudad Real)",
+            "ro": "Cluster Muzee (Quijote & Ciudad Real)",
+            "en": "Museum Cluster (Quixote & Ciudad Real)"
+          },
+          "coords": [
+            -3.935,
+            38.983
+          ],
+          "category": "museums",
+          "arrive_at": "13:14",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Gasset-Parks. Beide Museen sind nur einen kurzen Spaziergang voneinander entfernt.",
+            "hu": "Parkoljon a Gasset park közelében. Mindkét múzeum rövid sétatávolságra van egymástól.",
+            "ro": "Parcați lângă Parcul Gasset. Ambele muzee sunt la o scurtă plimbare unul de celălalt.",
+            "en": "Park near Gasset Park. Both museums are a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Gasset-Park",
+            "hu": "Gasset park",
+            "ro": "Parcul Gasset",
+            "en": "Gasset Park"
+          },
+          "coords": [
+            -3.9372,
+            38.9805
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Spaziergang durch den Park, bevor Sie zum Auto zurückkehren.",
+            "hu": "Zárja a napot egy pihentető sétával a parkban, mielőtt visszatér az autóhoz.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă prin parc înainte de a vă întoarce la mașină.",
+            "en": "End the day with a relaxing walk through the park before returning to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um bequem zwischen den Hauptattraktionen zu wechseln. Beginnen Sie im Norden bei der Puerta de Toledo. Fahren Sie dann ins Zentrum, parken Sie und erkunden Sie den Cluster um die Plaza Mayor und die Kathedrale zu Fuß. Nach dem Mittagessen fahren Sie zum Museums-Cluster, wo Sie in die Kultur eintauchen, bevor Sie den Tag im Gasset-Park ausklingen lassen. Diese Route kombiniert Fahrkomfort mit entspannten Spaziergängen.",
+        "hu": "Használja autóját a fő látnivalók közötti kényelmes közlekedéshez. Kezdjen északon, a Puerta de Toledónál. Ezután vezessen a központba, parkoljon le, és fedezze fel gyalog a Plaza Mayor és a katedrális körüli klasztert. Ebéd után irány a múzeumi negyed, ahol elmerülhet a kultúrában, mielőtt a Gasset parkban fejezi be a napot. Ez az útvonal ötvözi a vezetés kényelmét a pihentető sétákkal.",
+        "ro": "Folosiți mașina pentru a vă deplasa convenabil între principalele atracții. Începeți în nord, la Puerta de Toledo. Apoi, conduceți spre centru, parcați și explorați pe jos clusterul din jurul Plaza Mayor și al Catedralei. După prânz, mergeți la clusterul de muzee pentru o imersiune culturală, înainte de a încheia ziua în Parcul Gasset. Acest traseu combină confortul condusului cu plimbări relaxante.",
+        "en": "Use your car to conveniently move between the main attractions. Start in the north at the Puerta de Toledo. Then, drive to the center, park, and explore the cluster around Plaza Mayor and the Cathedral on foot. After lunch, drive to the museum cluster for a cultural immersion before ending the day at Gasset Park. This route combines driving comfort with relaxing walks."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Parken im Stadtzentrum kann schwierig und teuer sein. Nutzen Sie die Tiefgaragen.",
+          "Achten Sie auf die verkehrsberuhigten Zonen (ZBE) im Zentrum.",
+          "Planen Sie zusätzliche Zeit für die Parkplatzsuche ein.",
+          "Ein Auto ist ideal, um auch nahegelegene Sehenswürdigkeiten wie den Nationalpark Tablas de Daimiel zu besuchen (nicht in diesem Plan enthalten)."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nehéz és drága lehet. Használja a mélygarázsokat.",
+          "Figyeljen a központi alacsony kibocsátású zónákra (ZBE).",
+          "Tervezzen extra időt a parkolóhely keresésére.",
+          "Az autó ideális a közeli látnivalók, például a Tablas de Daimiel Nemzeti Park meglátogatásához is (ez a terv nem tartalmazza)."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă și costisitoare. Folosiți parcările subterane.",
+          "Fiți atenți la zonele cu emisii scăzute (ZBE) din centru.",
+          "Planificați timp suplimentar pentru găsirea unui loc de parcare.",
+          "O mașină este ideală pentru a vizita și atracțiile din apropiere, cum ar fi Parcul Național Tablas de Daimiel (neinclus în acest plan)."
+        ],
+        "en": [
+          "Parking in the city center can be difficult and expensive. Use the underground car parks.",
+          "Be aware of the low-emission zones (ZBE) in the center.",
+          "Plan extra time for finding a parking spot.",
+          "A car is ideal for also visiting nearby attractions like the Tablas de Daimiel National Park (not included in this plan)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum (Plaza Mayor, Kathedrale)",
+            "hu": "Központi klaszter (Plaza Mayor, Katedrális)",
+            "ro": "Clusterul Central (Plaza Mayor, Catedrală)",
+            "en": "Central Cluster (Plaza Mayor, Cathedral)"
+          },
+          "coords": [
+            -3.9278,
+            38.9859
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Plaza Mayor. Die Kathedrale und San Pedro sind von hier aus leicht zu Fuß erreichbar.",
+            "hu": "Menjen busszal a Plaza Mayorra. A katedrális és a San Pedro innen könnyen megközelíthető gyalog.",
+            "ro": "Luați un autobuz spre Plaza Mayor. Catedrala și San Pedro sunt la o distanță mică de mers pe jos de aici.",
+            "en": "Take a bus to Plaza Mayor. The Cathedral and San Pedro are an easy walk from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica San Pedro",
+            "en": "Church of San Pedro"
+          },
+          "coords": [
+            -3.9262,
+            38.9868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die historischen Gassen von der Kathedrale aus.",
+            "hu": "Rövid séta a történelmi sikátorokon keresztül a katedrálistól.",
+            "ro": "O scurtă plimbare pe străduțele istorice de la catedrală.",
+            "en": "A short walk through the historic alleys from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta de Toledo",
+            "hu": "Toledói kapu",
+            "ro": "Poarta din Toledo",
+            "en": "Puerta de Toledo"
+          },
+          "coords": [
+            -3.9221,
+            38.9911
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt vom Zentrum bringt Sie zu diesem nördlichen Wahrzeichen.",
+            "hu": "Egy rövid buszút a központból elviszi ehhez az északi nevezetességhez.",
+            "ro": "O scurtă călătorie cu autobuzul din centru vă va duce la acest punct de reper nordic.",
+            "en": "A short bus ride from the center takes you to this northern landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Gasset Park & Museen",
+            "hu": "Gasset Park és Múzeumok Klaszter",
+            "ro": "Cluster Parcul Gasset și Muzee",
+            "en": "Gasset Park & Museums Cluster"
+          },
+          "coords": [
+            -3.936,
+            38.981
+          ],
+          "category": "transport",
+          "arrive_at": "13:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Südwesten. Steigen Sie in der Nähe des Gasset-Parks aus.",
+            "hu": "Menjen busszal délnyugati irányba. Szálljon le a Gasset park közelében.",
+            "ro": "Luați un autobuz spre sud-vest. Coborâți lângă Parcul Gasset.",
+            "en": "Take a bus towards the southwest. Get off near Gasset Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Quijote-Museum",
+            "hu": "Don Quijote Múzeum",
+            "ro": "Muzeul Don Quijote",
+            "en": "Don Quixote Museum"
+          },
+          "coords": [
+            -3.9351,
+            38.9825
+          ],
+          "category": "museums",
+          "arrive_at": "13:14",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich direkt neben dem Park.",
+            "hu": "A múzeum közvetlenül a park mellett található.",
+            "ro": "Muzeul este situat chiar lângă parc.",
+            "en": "The museum is located right next to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Gasset-Park",
+            "hu": "Gasset park",
+            "ro": "Parcul Gasset",
+            "en": "Gasset Park"
+          },
+          "coords": [
+            -3.9372,
+            38.9805
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach dem Museumsbesuch im Park.",
+            "hu": "Pihenjen a parkban a múzeumlátogatás után.",
+            "ro": "Relaxați-vă în parc după vizita la muzeu.",
+            "en": "Relax in the park after the museum visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Busnetz von Ciudad Real macht es einfach, die Stadt zu erkunden. Beginnen Sie im zentralen Cluster und besichtigen Sie die Plaza Mayor und die Kirchen. Eine kurze Busfahrt bringt Sie dann zur historischen Puerta de Toledo. Am Nachmittag bringt Sie ein weiterer Bus zum zweiten Cluster, wo Sie die Museen erkunden und im Gasset-Park entspannen können. Diese Methode ist effizient und ermöglicht es Ihnen, verschiedene Teile der Stadt ohne Parkplatzsorgen zu sehen.",
+        "hu": "Ciudad Real buszhálózata megkönnyíti a város felfedezését. Kezdje a központi klaszterben, és nézze meg a Plaza Mayort és a templomokat. Egy rövid buszúttal eljuthat a történelmi Puerta de Toledóhoz. Délután egy másik busz elviszi a második klaszterbe, ahol felfedezheti a múzeumokat és pihenhet a Gasset parkban. Ez a módszer hatékony, és lehetővé teszi, hogy a város különböző részeit parkolási gondok nélkül láthassa.",
+        "ro": "Rețeaua de autobuze din Ciudad Real facilitează explorarea orașului. Începeți în clusterul central pentru a vedea Plaza Mayor și bisericile. O scurtă călătorie cu autobuzul vă duce apoi la istorica Puerta de Toledo. După-amiaza, un alt autobuz vă va duce la al doilea cluster pentru a explora muzeele și a vă relaxa în Parcul Gasset. Această metodă este eficientă și vă permite să vedeți diferite părți ale orașului fără grija parcării.",
+        "en": "Ciudad Real's bus network makes it easy to explore. Start in the central cluster to see Plaza Mayor and the churches. A short bus ride then takes you to the historic Puerta de Toledo. In the afternoon, another bus will take you to the second cluster to explore the museums and relax in Gasset Park. This method is efficient and allows you to see different parts of the city without parking worries."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'bonobús'-Karte für ermäßigte Fahrpreise, wenn Sie mehrere Fahrten planen.",
+          "Die Busfrequenzen können am Wochenende und am Abend geringer sein.",
+          "Die meisten Buslinien fahren über die zentralen Plätze, was Umstiege erleichtert.",
+          "Nutzen Sie eine ÖPNV-App, um Routen und Fahrpläne in Echtzeit zu überprüfen."
+        ],
+        "hu": [
+          "Vásároljon 'bonobús' kártyát a kedvezményes utazáshoz, ha több utat tervez.",
+          "A buszjáratok sűrűsége hétvégén és este csökkenhet.",
+          "A legtöbb buszvonal a központi tereken halad át, ami megkönnyíti az átszállást.",
+          "Használjon tömegközlekedési alkalmazást az útvonalak és menetrendek valós idejű ellenőrzéséhez."
+        ],
+        "ro": [
+          "Cumpărați un card 'bonobús' pentru tarife reduse dacă plănuiți mai multe călătorii.",
+          "Frecvența autobuzelor poate fi mai mică în weekend și seara.",
+          "Majoritatea liniilor de autobuz trec prin piețele centrale, facilitând transferurile.",
+          "Folosiți o aplicație de transport public pentru a verifica rutele și orarele în timp real."
+        ],
+        "en": [
+          "Buy a 'bonobús' card for discounted fares if you plan on making several trips.",
+          "Bus frequencies may be lower on weekends and in the evening.",
+          "Most bus lines run through the central squares, making transfers easy.",
+          "Use a public transport app to check routes and timetables in real time."
+        ]
+      }
+    }
+  }
+}

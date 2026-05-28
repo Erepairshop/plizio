@@ -1,0 +1,1414 @@
+{
+  "city_id": "spain-albacete-cities-v2",
+  "anchor": {
+    "name": "Albacete",
+    "coords": [
+      -1.8585,
+      38.9942
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pasaje de Lodares",
+            "hu": "Pasaje de Lodares",
+            "ro": "Pasajul Lodares",
+            "en": "Pasaje de Lodares"
+          },
+          "coords": [
+            -1.855,
+            38.995
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Jugendstilarchitektur und die Eisen- und Glaskonstruktion.",
+            "hu": "Csodálja meg a szecessziós építészetet és a vas-üveg szerkezetet.",
+            "ro": "Admirați arhitectura Art Nouveau și structura sa de fier și sticlă.",
+            "en": "Admire the Art Nouveau architecture and its iron and glass structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale San Juan Bautista",
+            "hu": "Keresztelő Szent János-katedrális",
+            "ro": "Catedrala San Juan Bautista",
+            "en": "Cathedral of San Juan Bautista"
+          },
+          "coords": [
+            -1.858,
+            38.996
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den einzigartigen Ölgemälden an den Wänden anstelle von traditionellen Buntglasfenstern.",
+            "hu": "Keresse a falakon lévő egyedi olajfestményeket a hagyományos ólomüveg ablakok helyett.",
+            "ro": "Căutați picturile unice în ulei de pe pereți, în locul vitraliilor tradiționale.",
+            "en": "Look for the unique oil paintings on the walls instead of traditional stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Messer-Museum (Museo de la Cuchillería)",
+            "hu": "Késmúzeum (Museo de la Cuchillería)",
+            "ro": "Muzeul Cuțitelor (Museo de la Cuchillería)",
+            "en": "Museum of Cutlery (Museo de la Cuchillería)"
+          },
+          "coords": [
+            -1.859,
+            38.9955
+          ],
+          "stay_min": 100,
+          "category": "museums",
+          "arrive_at": "11:06",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Vorführungen der Messerschmiedekunst, falls verfügbar.",
+            "hu": "Ne hagyja ki a késkészítő bemutatókat, ha elérhetők.",
+            "ro": "Nu ratați demonstrațiile de făurire a cuțitelor, dacă sunt disponibile.",
+            "en": "Don't miss the cutlery-making demonstrations if available."
+          }
+        },
+        {
+          "name": {
+            "de": "Depósitos del Sol",
+            "hu": "Depósitos del Sol",
+            "ro": "Depósitos del Sol",
+            "en": "Depósitos del Sol"
+          },
+          "coords": [
+            -1.861,
+            38.992
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Heute ein Kulturzentrum; prüfen Sie den Veranstaltungskalender für Ausstellungen.",
+            "hu": "Ma kulturális központ; nézze meg a programnaptárt a kiállításokért.",
+            "ro": "Acum este un centru cultural; verificați programul pentru expoziții.",
+            "en": "Now a cultural center; check the schedule for exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Circo",
+            "hu": "Teatro Circo",
+            "ro": "Teatro Circo",
+            "en": "Teatro Circo"
+          },
+          "coords": [
+            -1.865,
+            38.998
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neo-mudéjarische Architektur, auch wenn Sie keine Vorstellung besuchen.",
+            "hu": "Csodálja meg a neo-mudéjar építészetet, még ha nem is megy előadásra.",
+            "ro": "Admirați arhitectura neo-mudéjară chiar dacă nu participați la un spectacol.",
+            "en": "Admire the Neo-Mudéjar architecture even if not attending a show."
+          }
+        },
+        {
+          "name": {
+            "de": "Abelardo-Sánchez-Park",
+            "hu": "Abelardo Sánchez park",
+            "ro": "Parcul Abelardo Sánchez",
+            "en": "Abelardo Sánchez Park"
+          },
+          "coords": [
+            -1.86,
+            38.985
+          ],
+          "stay_min": 75,
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:39",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für eine Mittagspause oder um dem Stadttrubel zu entfliehen.",
+            "hu": "Tökéletes hely egy déli pihenőre vagy a városi nyüzsgésből való elmenekülésre.",
+            "ro": "Locul perfect pentru o pauză de prânz sau pentru a scăpa de agitația orașului.",
+            "en": "The perfect spot for a midday break or to escape the city bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de Toros",
+            "hu": "Plaza de Toros",
+            "ro": "Plaza de Toros",
+            "en": "Plaza de Toros"
+          },
+          "coords": [
+            -1.847,
+            38.998
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:26",
+          "stay_min": 45,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Auch außerhalb der Stierkampfsaison wegen seiner einzigartigen Architektur einen Besuch wert.",
+            "hu": "A bikaviadal-szezonon kívül is érdemes megnézni egyedi építészete miatt.",
+            "ro": "Merită vizitată și în afara sezonului coridelor pentru arhitectura sa unică.",
+            "en": "Worth visiting even outside the bullfighting season for its unique architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Albacete beginnt in der eleganten Pasaje de Lodares, die Sie zur beeindruckenden Kathedrale führt. Nach einem tiefen Einblick in die berühmte Messertradition der Stadt im Museo de la Cuchillería erkunden Sie das kulturelle Erbe im Depósitos del Sol und am Teatro Circo. Am Nachmittag entspannen Sie im grünen Abelardo-Sánchez-Park, bevor Sie Ihren Spaziergang an der historischen Stierkampfarena ausklingen lassen.",
+        "hu": "Az albacetei napja az elegáns Pasaje de Lodares-ben kezdődik, amely a lenyűgöző katedrálishoz vezet. Miután elmélyült a város híres késműves hagyományaiban a Késmúzeumban, felfedezi a Depósitos del Sol és a Teatro Circo kulturális örökségét. Délután az Abelardo Sánchez park zöldjében pihenhet, mielőtt sétáját a történelmi bikaviadal-arénánál fejezi be.",
+        "ro": "Ziua dvs. în Albacete începe în elegantul Pasaj Lodares, care vă duce la impresionanta Catedrală. După o incursiune în faimoasa tradiție a cuțitelor din oraș la Muzeul Cuțitelor, explorați moștenirea culturală la Depósitos del Sol și Teatro Circo. După-amiaza vă relaxați în verdele Parc Abelardo Sánchez înainte de a încheia plimbarea la istorica arenă de coride.",
+        "en": "Your day in Albacete begins at the elegant Pasaje de Lodares, leading you to the impressive Cathedral. After a deep dive into the city's famous cutlery tradition at the Museum of Cutlery, you'll explore the cultural heritage at Depósitos del Sol and Teatro Circo. In the afternoon, relax in the green Abelardo Sánchez Park before ending your walk at the historic bullring."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Atascaburras",
+            "tip": "Ein herzhafter Kabeljau- und Kartoffelbrei, perfekt für kühle Tage."
+          },
+          {
+            "name": "Gazpacho Manchego",
+            "tip": "Nicht die kalte Suppe! Ein deftiger Eintopf mit Wildfleisch."
+          },
+          {
+            "name": "Miguelitos de la Roda",
+            "tip": "Blätterteiggebäck mit Creme gefüllt, ein Muss zum Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Atascaburras",
+            "tip": "Kiadós tőkehal- és burgonyapüré, tökéletes a hűvösebb napokra."
+          },
+          {
+            "name": "Gazpacho Manchego",
+            "tip": "Nem a hideg leves! Egy tartalmas ragu vadhússal."
+          },
+          {
+            "name": "Miguelitos de la Roda",
+            "tip": "Krémmel töltött leveles tészta, kötelező desszert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atascaburras",
+            "tip": "Un piure consistent de cod și cartofi, perfect pentru zilele răcoroase."
+          },
+          {
+            "name": "Gazpacho Manchego",
+            "tip": "Nu este supa rece! O tocană consistentă cu carne de vânat."
+          },
+          {
+            "name": "Miguelitos de la Roda",
+            "tip": "Foietaj umplut cu cremă, un desert obligatoriu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Atascaburras",
+            "tip": "A hearty cod and potato puree, perfect for cooler days."
+          },
+          {
+            "name": "Gazpacho Manchego",
+            "tip": "Not the cold soup! A rich stew made with game meat."
+          },
+          {
+            "name": "Miguelitos de la Roda",
+            "tip": "Cream-filled puff pastry, a must-try dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abelardo-Sánchez-Park",
+            "tip": "Finden Sie eine ruhige Bank am Teich und beobachten Sie die Enten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines del Altozano",
+            "tip": "Ein kleiner, zentraler Platz, der überraschend friedlich sein kann.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Abelardo Sánchez park",
+            "tip": "Keressen egy csendes padot a tó mellett, és nézze a kacsákat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines del Altozano",
+            "tip": "Egy kicsi, központi tér, amely meglepően békés tud lenni.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Abelardo Sánchez",
+            "tip": "Găsiți o bancă liniștită lângă iaz și priviți rațele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines del Altozano",
+            "tip": "O piațetă centrală mică, care poate fi surprinzător de liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abelardo Sánchez Park",
+            "tip": "Find a quiet bench by the pond and watch the ducks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines del Altozano",
+            "tip": "A small, central square that can be surprisingly peaceful.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Ancha",
+            "tip": "Die Haupteinkaufsstraße mit bekannten Marken und lokalen Boutiquen."
+          },
+          {
+            "name": "Museo de la Cuchillería Shop",
+            "tip": "Kaufen Sie ein authentisches Albacete-Messer als hochwertiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Ancha",
+            "tip": "A fő bevásárlóutca ismert márkákkal és helyi butikokkal."
+          },
+          {
+            "name": "Késmúzeum boltja",
+            "tip": "Vásároljon egy autentikus albacetei kést minőségi szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Ancha",
+            "tip": "Principala stradă comercială cu mărci cunoscute și buticuri locale."
+          },
+          {
+            "name": "Magazinul Muzeului Cuțitelor",
+            "tip": "Cumpărați un cuțit autentic din Albacete ca suvenir de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Ancha",
+            "tip": "The main shopping street with well-known brands and local boutiques."
+          },
+          {
+            "name": "Museum of Cutlery Shop",
+            "tip": "Buy an authentic Albacete knife as a high-quality souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie eine längere Mittagspause ein, da viele Geschäfte Siesta halten.",
+          "Behalten Sie Ihre Wertsachen an belebten Plätzen im Auge."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog.",
+          "Tervezzen hosszabb ebédszünetet, mivel sok üzlet sziesztát tart.",
+          "Vigyázzon értékeire a forgalmas tereken."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi pe picioare toată ziua.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați o pauză de prânz mai lungă, deoarece multe magazine țin siesta.",
+          "Fiți atenți la bunurile de valoare în piețele aglomerate."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "Most central sights are within easy walking distance.",
+          "Plan for a longer lunch break as many shops observe a siesta.",
+          "Keep an eye on your belongings in busy squares."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pasaje de Lodares",
+            "hu": "Pasaje de Lodares",
+            "ro": "Pasajul Lodares",
+            "en": "Pasaje de Lodares"
+          },
+          "coords": [
+            -1.855,
+            38.995
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und spazieren Sie durch diese wunderschöne Passage.",
+            "hu": "Zárja le a kerékpárt, és sétáljon végig ezen a gyönyörű passzázson.",
+            "ro": "Legați-vă bicicleta și plimbați-vă prin acest pasaj frumos.",
+            "en": "Lock up your bike and stroll through this beautiful passage."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale San Juan Bautista",
+            "hu": "Keresztelő Szent János-katedrális",
+            "ro": "Catedrala San Juan Bautista",
+            "en": "Cathedral of San Juan Bautista"
+          },
+          "coords": [
+            -1.858,
+            38.996
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um die Kunst und Architektur zu bewundern.",
+            "hu": "Csendes hely a művészet és az építészet megcsodálására.",
+            "ro": "Un loc liniștit pentru a admira arta și arhitectura.",
+            "en": "A quiet place to admire the art and architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Messer-Museum (Museo de la Cuchillería)",
+            "hu": "Késmúzeum (Museo de la Cuchillería)",
+            "ro": "Muzeul Cuțitelor (Museo de la Cuchillería)",
+            "en": "Museum of Cutlery (Museo de la Cuchillería)"
+          },
+          "coords": [
+            -1.859,
+            38.9955
+          ],
+          "stay_min": 90,
+          "category": "museums",
+          "arrive_at": "10:35",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, die umfangreiche Sammlung ist beeindruckend.",
+            "hu": "Tervezzen elég időt, a kiterjedt gyűjtemény lenyűgöző.",
+            "ro": "Planificați suficient timp, colecția extinsă este impresionantă.",
+            "en": "Plan enough time, the extensive collection is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Recinto Ferial",
+            "hu": "Recinto Ferial",
+            "ro": "Recinto Ferial",
+            "en": "Recinto Ferial"
+          },
+          "coords": [
+            -1.848,
+            39.001
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:19",
+          "stay_min": 45,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Dieses Messegelände ist einzigartig und hat die Form einer Bratpfanne. Am besten während der Septembermesse belebt.",
+            "hu": "Ez a vásárterület egyedi, serpenyő alakú. Leginkább a szeptemberi vásár idején nyüzsög.",
+            "ro": "Acest târg este unic, în formă de tigaie. Cel mai animat în timpul târgului din septembrie.",
+            "en": "This fairground is unique, shaped like a frying pan. Most lively during the September Fair."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de Toros",
+            "hu": "Plaza de Toros",
+            "ro": "Plaza de Toros",
+            "en": "Plaza de Toros"
+          },
+          "coords": [
+            -1.847,
+            38.998
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:07",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die beeindruckende Fassade zu fotografieren.",
+            "hu": "Egy rövid megálló, hogy lefényképezze a lenyűgöző homlokzatot.",
+            "ro": "O oprire scurtă pentru a fotografia fațada impresionantă.",
+            "en": "A quick stop to photograph the impressive facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Abelardo-Sánchez-Park",
+            "hu": "Abelardo Sánchez park",
+            "ro": "Parcul Abelardo Sánchez",
+            "en": "Abelardo Sánchez Park"
+          },
+          "coords": [
+            -1.86,
+            38.985
+          ],
+          "stay_min": 75,
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie auf den Wegen und genießen Sie die grüne Lunge der Stadt.",
+            "hu": "Kerékpározzon az utakon és élvezze a város zöld tüdejét.",
+            "ro": "Mergeți cu bicicleta pe alei și bucurați-vă de plămânul verde al orașului.",
+            "en": "Cycle the pathways and enjoy the green lung of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Circo",
+            "hu": "Teatro Circo",
+            "ro": "Teatro Circo",
+            "en": "Teatro Circo"
+          },
+          "coords": [
+            -1.865,
+            38.998
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:48",
+          "stay_min": 30,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem Blick auf dieses architektonische Juwel.",
+            "hu": "Fejezze be a kerékpártúrát ennek az építészeti gyöngyszemnek a megtekintésével.",
+            "ro": "Încheiați-vă turul cu bicicleta cu o priveliște a acestei bijuterii arhitecturale.",
+            "en": "End your bike tour with a view of this architectural gem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Albacete flexibel. Starten Sie im Herzen der Stadt, an der Pasaje de Lodares und der Kathedrale. Nach dem Besuch des Messer-Museums radeln Sie zum einzigartigen Recinto Ferial. Anschließend führt Ihre Tour zur Plaza de Toros und dann in den Süden zum entspannten Abelardo-Sánchez-Park für eine ausgiebige Pause. Ihre Tour endet mit der Bewunderung des Teatro Circo, bevor Sie den Abend einläuten.",
+        "hu": "Kerékpárral rugalmasan fedezheti fel Albacetét. Induljon a város szívéből, a Pasaje de Lodares-től és a katedrálistól. A Késmúzeum meglátogatása után tekerjen el az egyedi Recinto Ferial-hoz. Ezután a túra a Plaza de Toros-hoz, majd délre, a pihentető Abelardo Sánchez parkhoz vezet egy kiadós szünetre. A túra a Teatro Circo megcsodálásával ér véget, mielőtt az estét elkezdené.",
+        "ro": "Cu bicicleta, explorați Albacete în mod flexibil. Începeți din inima orașului, la Pasajul Lodares și Catedrală. După vizitarea Muzeului Cuțitelor, pedalați spre unicul Recinto Ferial. Apoi, turul vă duce la Plaza de Toros și apoi spre sud, la relaxantul Parc Abelardo Sánchez pentru o pauză binemeritată. Turul se încheie cu admirarea Teatrului Circo înainte de a începe seara.",
+        "en": "By bike, you can explore Albacete flexibly. Start in the heart of the city, at Pasaje de Lodares and the Cathedral. After visiting the Museum of Cutlery, cycle to the unique Recinto Ferial. Your tour then takes you to the Plaza de Toros and then south to the relaxing Abelardo Sánchez Park for a proper break. Your tour ends with admiring the Teatro Circo before starting your evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Atascaburras",
+            "tip": "Ein herzhafter Kabeljau- und Kartoffelbrei, perfekt für kühle Tage."
+          },
+          {
+            "name": "Gazpacho Manchego",
+            "tip": "Nicht die kalte Suppe! Ein deftiger Eintopf mit Wildfleisch."
+          },
+          {
+            "name": "Miguelitos de la Roda",
+            "tip": "Blätterteiggebäck mit Creme gefüllt, ein Muss zum Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Atascaburras",
+            "tip": "Kiadós tőkehal- és burgonyapüré, tökéletes a hűvösebb napokra."
+          },
+          {
+            "name": "Gazpacho Manchego",
+            "tip": "Nem a hideg leves! Egy tartalmas ragu vadhússal."
+          },
+          {
+            "name": "Miguelitos de la Roda",
+            "tip": "Krémmel töltött leveles tészta, kötelező desszert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atascaburras",
+            "tip": "Un piure consistent de cod și cartofi, perfect pentru zilele răcoroase."
+          },
+          {
+            "name": "Gazpacho Manchego",
+            "tip": "Nu este supa rece! O tocană consistentă cu carne de vânat."
+          },
+          {
+            "name": "Miguelitos de la Roda",
+            "tip": "Foietaj umplut cu cremă, un desert obligatoriu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Atascaburras",
+            "tip": "A hearty cod and potato puree, perfect for cooler days."
+          },
+          {
+            "name": "Gazpacho Manchego",
+            "tip": "Not the cold soup! A rich stew made with game meat."
+          },
+          {
+            "name": "Miguelitos de la Roda",
+            "tip": "Cream-filled puff pastry, a must-try dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abelardo-Sánchez-Park",
+            "tip": "Finden Sie eine ruhige Bank am Teich und beobachten Sie die Enten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines del Altozano",
+            "tip": "Ein kleiner, zentraler Platz, der überraschend friedlich sein kann.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Abelardo Sánchez park",
+            "tip": "Keressen egy csendes padot a tó mellett, és nézze a kacsákat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines del Altozano",
+            "tip": "Egy kicsi, központi tér, amely meglepően békés tud lenni.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Abelardo Sánchez",
+            "tip": "Găsiți o bancă liniștită lângă iaz și priviți rațele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines del Altozano",
+            "tip": "O piațetă centrală mică, care poate fi surprinzător de liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abelardo Sánchez Park",
+            "tip": "Find a quiet bench by the pond and watch the ducks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines del Altozano",
+            "tip": "A small, central square that can be surprisingly peaceful.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Ancha",
+            "tip": "Die Haupteinkaufsstraße mit bekannten Marken und lokalen Boutiquen."
+          },
+          {
+            "name": "Museo de la Cuchillería Shop",
+            "tip": "Kaufen Sie ein authentisches Albacete-Messer als hochwertiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Ancha",
+            "tip": "A fő bevásárlóutca ismert márkákkal és helyi butikokkal."
+          },
+          {
+            "name": "Késmúzeum boltja",
+            "tip": "Vásároljon egy autentikus albacetei kést minőségi szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Ancha",
+            "tip": "Principala stradă comercială cu mărci cunoscute și buticuri locale."
+          },
+          {
+            "name": "Magazinul Muzeului Cuțitelor",
+            "tip": "Cumpărați un cuțit autentic din Albacete ca suvenir de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Ancha",
+            "tip": "The main shopping street with well-known brands and local boutiques."
+          },
+          {
+            "name": "Museum of Cutlery Shop",
+            "tip": "Buy an authentic Albacete knife as a high-quality souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Fahrradwege, wo immer es möglich ist.",
+          "Schließen Sie Ihr Fahrrad an sicheren Orten ab, besonders im Stadtzentrum.",
+          "Eine Wasserflasche ist an warmen Tagen unerlässlich.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus."
+        ],
+        "hu": [
+          "Használja a kerékpárutakat, ahol csak lehetséges.",
+          "Zárja le kerékpárját biztonságos helyen, különösen a városközpontban.",
+          "Egy kulacs elengedhetetlen a meleg napokon.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete ori de câte ori este posibil.",
+          "Legați-vă bicicleta în locuri sigure, mai ales în centrul orașului.",
+          "O sticlă de apă este esențială în zilele calde.",
+          "Verificați în avans programul muzeelor."
+        ],
+        "en": [
+          "Use bike lanes wherever possible.",
+          "Lock your bike in secure locations, especially in the city center.",
+          "A water bottle is essential on warm days.",
+          "Check museum opening times in advance."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 8.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum",
+            "hu": "1. klaszter: Történelmi központ",
+            "ro": "Cluster 1: Centrul Istoric",
+            "en": "Cluster 1: Historic Center"
+          },
+          "coords": [
+            -1.856,
+            38.995
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in einem Parkhaus in der Nähe der Kathedrale und beginnen Sie Ihren Spaziergang am Pasaje de Lodares.",
+            "hu": "Parkoljon egy parkolóházban a katedrális közelében, és kezdje sétáját a Pasaje de Lodares-nél.",
+            "ro": "Parcați într-o parcare subterană lângă catedrală și începeți plimbarea la Pasajul Lodares.",
+            "en": "Park in a garage near the cathedral and start your walk at Pasaje de Lodares."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale San Juan Bautista",
+            "hu": "Keresztelő Szent János-katedrális",
+            "ro": "Catedrala San Juan Bautista",
+            "en": "Cathedral of San Juan Bautista"
+          },
+          "coords": [
+            -1.858,
+            38.996
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:34",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Pasaje entfernt, das Herz des Clusters.",
+            "hu": "Rövid séta a Pasaje-től, a klaszter szíve.",
+            "ro": "O scurtă plimbare de la Pasaj, inima clusterului.",
+            "en": "A short walk from the Pasaje, the heart of the cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Messer-Museum (Museo de la Cuchillería)",
+            "hu": "Késmúzeum (Museo de la Cuchillería)",
+            "ro": "Muzeul Cuțitelor (Museo de la Cuchillería)",
+            "en": "Museum of Cutlery (Museo de la Cuchillería)"
+          },
+          "coords": [
+            -1.859,
+            38.9955
+          ],
+          "stay_min": 100,
+          "category": "museums",
+          "arrive_at": "10:38",
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gleich um die Ecke der Kathedrale, ein Muss für Technik- und Geschichtsliebhaber.",
+            "hu": "A katedrális sarkánál, kötelező a technika és a történelem szerelmeseinek.",
+            "ro": "Chiar la colțul catedralei, un must pentru pasionații de tehnică și istorie.",
+            "en": "Just around the corner from the cathedral, a must-see for tech and history buffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Kultur & Park",
+            "hu": "2. klaszter: Kultúra és park",
+            "ro": "Cluster 2: Cultură și Parc",
+            "en": "Cluster 2: Culture & Park"
+          },
+          "coords": [
+            -1.865,
+            38.998
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:35",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Teatro Circo. Suchen Sie einen Parkplatz in der Umgebung, um dieses Gebiet zu erkunden.",
+            "hu": "Vezessen a Teatro Circo-hoz. Keressen parkolóhelyet a környéken a terület felfedezéséhez.",
+            "ro": "Conduceți la Teatro Circo. Căutați un loc de parcare în zonă pentru a explora.",
+            "en": "Drive to the Teatro Circo area. Find parking nearby to explore this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Abelardo-Sánchez-Park",
+            "hu": "Abelardo Sánchez park",
+            "ro": "Parcul Abelardo Sánchez",
+            "en": "Abelardo Sánchez Park"
+          },
+          "coords": [
+            -1.86,
+            38.985
+          ],
+          "stay_min": 120,
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:16",
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch den Park ist ideal für die Mittagszeit. Hier befindet sich auch das Stadtmuseum.",
+            "hu": "Egy séta a parkban ideális ebédidőben. Itt található a városi múzeum is.",
+            "ro": "O plimbare prin parc este ideală pentru pauza de prânz. Muzeul orașului se află tot aici.",
+            "en": "A walk through the park is ideal for lunchtime. The city museum is also located here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Messe & Arena",
+            "hu": "3. klaszter: Vásár és Aréna",
+            "ro": "Cluster 3: Târg și Arenă",
+            "en": "Cluster 3: Fair & Arena"
+          },
+          "coords": [
+            -1.848,
+            39.001
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:27",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Recinto Ferial. Hier gibt es normalerweise genügend Parkplätze, außer während der Messe.",
+            "hu": "Vezessen a Recinto Ferial-hoz. Általában van elég parkoló, kivéve a vásár idején.",
+            "ro": "Conduceți la Recinto Ferial. De obicei, există suficientă parcare, cu excepția perioadei târgului.",
+            "en": "Drive to the Recinto Ferial. There's usually ample parking here, except during the fair."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de Toros",
+            "hu": "Plaza de Toros",
+            "ro": "Plaza de Toros",
+            "en": "Plaza de Toros"
+          },
+          "coords": [
+            -1.847,
+            38.998
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:22",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Messegelände aus ist die Stierkampfarena leicht zu Fuß erreichbar.",
+            "hu": "A vásárterületről a bikaviadal-aréna könnyen megközelíthető gyalog.",
+            "ro": "Arena de coride este la o scurtă plimbare de târg.",
+            "en": "The bullring is an easy walk from the fairgrounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Albacete in bequemen Clustern. Morgens parken Sie im Zentrum und entdecken zu Fuß die Pasaje de Lodares, die Kathedrale und das Messer-Museum. Mittags fahren Sie zum Kulturcluster um das Teatro Circo und den Abelardo-Sánchez-Park, ideal für eine ausgedehnte Mittagspause. Am Nachmittag steuern Sie den letzten Cluster an: das einzigartige Messegelände Recinto Ferial und die nahegelegene Plaza de Toros, die den Tag abrunden.",
+        "hu": "Autóval kényelmes klaszterekben fedezheti fel Albacetét. Reggel parkoljon a központban, és fedezze fel gyalog a Pasaje de Lodares-t, a katedrálist és a Késmúzeumot. Délben vezessen a kulturális klaszterhez a Teatro Circo és az Abelardo Sánchez park körül, amely ideális egy kiadós ebédszünetre. Délután az utolsó klasztert célozza meg: az egyedi Recinto Ferial vásárterületet és a közeli Plaza de Toros-t, amelyek lezárják a napot.",
+        "ro": "Cu mașina, explorați Albacete în clustere confortabile. Dimineața, parcați în centru și descoperiți pe jos Pasajul Lodares, Catedrala și Muzeul Cuțitelor. La prânz, conduceți spre clusterul cultural din jurul Teatro Circo și Parcului Abelardo Sánchez, ideal pentru o pauză de masă prelungită. După-amiaza, vă îndreptați spre ultimul cluster: unicul târg Recinto Ferial și Plaza de Toros din apropiere, care încheie ziua.",
+        "en": "With a car, you explore Albacete in convenient clusters. In the morning, park in the center and discover Pasaje de Lodares, the Cathedral, and the Museum of Cutlery on foot. At midday, drive to the cultural cluster around Teatro Circo and Abelardo Sánchez Park, perfect for an extended lunch break. In the afternoon, head to the final cluster: the unique Recinto Ferial fairground and the nearby Plaza de Toros to round off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Atascaburras",
+            "tip": "Ein herzhafter Kabeljau- und Kartoffelbrei, perfekt für kühle Tage."
+          },
+          {
+            "name": "Gazpacho Manchego",
+            "tip": "Nicht die kalte Suppe! Ein deftiger Eintopf mit Wildfleisch."
+          },
+          {
+            "name": "Miguelitos de la Roda",
+            "tip": "Blätterteiggebäck mit Creme gefüllt, ein Muss zum Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Atascaburras",
+            "tip": "Kiadós tőkehal- és burgonyapüré, tökéletes a hűvösebb napokra."
+          },
+          {
+            "name": "Gazpacho Manchego",
+            "tip": "Nem a hideg leves! Egy tartalmas ragu vadhússal."
+          },
+          {
+            "name": "Miguelitos de la Roda",
+            "tip": "Krémmel töltött leveles tészta, kötelező desszert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atascaburras",
+            "tip": "Un piure consistent de cod și cartofi, perfect pentru zilele răcoroase."
+          },
+          {
+            "name": "Gazpacho Manchego",
+            "tip": "Nu este supa rece! O tocană consistentă cu carne de vânat."
+          },
+          {
+            "name": "Miguelitos de la Roda",
+            "tip": "Foietaj umplut cu cremă, un desert obligatoriu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Atascaburras",
+            "tip": "A hearty cod and potato puree, perfect for cooler days."
+          },
+          {
+            "name": "Gazpacho Manchego",
+            "tip": "Not the cold soup! A rich stew made with game meat."
+          },
+          {
+            "name": "Miguelitos de la Roda",
+            "tip": "Cream-filled puff pastry, a must-try dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abelardo-Sánchez-Park",
+            "tip": "Finden Sie eine ruhige Bank am Teich und beobachten Sie die Enten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines del Altozano",
+            "tip": "Ein kleiner, zentraler Platz, der überraschend friedlich sein kann.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Abelardo Sánchez park",
+            "tip": "Keressen egy csendes padot a tó mellett, és nézze a kacsákat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines del Altozano",
+            "tip": "Egy kicsi, központi tér, amely meglepően békés tud lenni.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Abelardo Sánchez",
+            "tip": "Găsiți o bancă liniștită lângă iaz și priviți rațele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines del Altozano",
+            "tip": "O piațetă centrală mică, care poate fi surprinzător de liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abelardo Sánchez Park",
+            "tip": "Find a quiet bench by the pond and watch the ducks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines del Altozano",
+            "tip": "A small, central square that can be surprisingly peaceful.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Ancha",
+            "tip": "Die Haupteinkaufsstraße mit bekannten Marken und lokalen Boutiquen."
+          },
+          {
+            "name": "Museo de la Cuchillería Shop",
+            "tip": "Kaufen Sie ein authentisches Albacete-Messer als hochwertiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Ancha",
+            "tip": "A fő bevásárlóutca ismert márkákkal és helyi butikokkal."
+          },
+          {
+            "name": "Késmúzeum boltja",
+            "tip": "Vásároljon egy autentikus albacetei kést minőségi szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Ancha",
+            "tip": "Principala stradă comercială cu mărci cunoscute și buticuri locale."
+          },
+          {
+            "name": "Magazinul Muzeului Cuțitelor",
+            "tip": "Cumpărați un cuțit autentic din Albacete ca suvenir de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Ancha",
+            "tip": "The main shopping street with well-known brands and local boutiques."
+          },
+          {
+            "name": "Museum of Cutlery Shop",
+            "tip": "Buy an authentic Albacete knife as a high-quality souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie öffentliche Parkhäuser im Zentrum, da das Parken auf der Straße begrenzt ist.",
+          "Planen Sie Fahrzeiten zwischen den Clustern außerhalb der Stoßzeiten.",
+          "Ein GPS ist hilfreich, um sich in der Stadt zurechtzufinden.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "Használja a nyilvános parkolóházakat a központban, mivel az utcai parkolás korlátozott.",
+          "Tervezze az utazást a klaszterek között a csúcsidőn kívül.",
+          "A GPS hasznos a városban való navigáláshoz.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Folosiți parcările publice în centru, deoarece parcarea pe stradă este limitată.",
+          "Planificați timpii de condus între clustere în afara orelor de vârf.",
+          "Un GPS este util pentru a naviga prin oraș.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Use public parking garages in the center as street parking is limited.",
+          "Plan driving times between clusters outside of peak hours.",
+          "A GPS is helpful for navigating the city.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bezirk 1: Zentrum",
+            "hu": "1. kerület: Központ",
+            "ro": "Districtul 1: Centru",
+            "en": "District 1: Center"
+          },
+          "coords": [
+            -1.855,
+            38.995
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Plaza del Altozano und starten Sie am Pasaje de Lodares.",
+            "hu": "Menjen busszal a Plaza del Altozano-ra és induljon a Pasaje de Lodares-től.",
+            "ro": "Luați un autobuz până la Plaza del Altozano și începeți la Pasajul Lodares.",
+            "en": "Take a bus to Plaza del Altozano and start at Pasaje de Lodares."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale San Juan Bautista",
+            "hu": "Keresztelő Szent János-katedrális",
+            "ro": "Catedrala San Juan Bautista",
+            "en": "Cathedral of San Juan Bautista"
+          },
+          "coords": [
+            -1.858,
+            38.996
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Herz des Stadtzentrums, nur wenige Schritte entfernt.",
+            "hu": "A városközpont szíve, csak néhány lépésre.",
+            "ro": "Inima centrului orașului, la doar câțiva pași.",
+            "en": "The heart of the city center, just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Messer-Museum (Museo de la Cuchillería)",
+            "hu": "Késmúzeum (Museo de la Cuchillería)",
+            "ro": "Muzeul Cuțitelor (Museo de la Cuchillería)",
+            "en": "Museum of Cutlery (Museo de la Cuchillería)"
+          },
+          "coords": [
+            -1.859,
+            38.9955
+          ],
+          "stay_min": 100,
+          "category": "museums",
+          "arrive_at": "11:00",
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieses Handwerks.",
+            "hu": "Fedezze fel ennek a mesterségnek a gazdag történelmét.",
+            "ro": "Descoperiți istoria bogată a acestei meserii.",
+            "en": "Discover the rich history of this craft."
+          }
+        },
+        {
+          "name": {
+            "de": "Bezirk 2: Park & Kultur",
+            "hu": "2. kerület: Park és Kultúra",
+            "ro": "Districtul 2: Parc și Cultură",
+            "en": "District 2: Park & Culture"
+          },
+          "coords": [
+            -1.86,
+            38.985
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:58",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Abelardo-Sánchez-Park. Genießen Sie eine lange Pause.",
+            "hu": "Menjen busszal az Abelardo Sánchez parkhoz. Élvezzen egy hosszú szünetet.",
+            "ro": "Luați un autobuz spre Parcul Abelardo Sánchez. Bucurați-vă de o pauză lungă.",
+            "en": "Take a bus to Abelardo Sánchez Park. Enjoy a long break."
+          }
+        },
+        {
+          "name": {
+            "de": "Bezirk 3: Arena & Messe",
+            "hu": "3. kerület: Aréna és Vásár",
+            "ro": "Districtul 3: Arenă și Târg",
+            "en": "District 3: Arena & Fair"
+          },
+          "coords": [
+            -1.847,
+            38.998
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:48",
+          "stay_min": 45,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie in die Nähe der Plaza de Toros.",
+            "hu": "Egy újabb buszút visz a Plaza de Toros közelébe.",
+            "ro": "O altă călătorie cu autobuzul vă duce în apropierea Plaza de Toros.",
+            "en": "Another bus ride will take you near the Plaza de Toros."
+          }
+        },
+        {
+          "name": {
+            "de": "Recinto Ferial",
+            "hu": "Recinto Ferial",
+            "ro": "Recinto Ferial",
+            "en": "Recinto Ferial"
+          },
+          "coords": [
+            -1.848,
+            39.001
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:39",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, um das einzigartige Messegelände zu sehen.",
+            "hu": "Rövid séta az egyedi vásárterület megtekintéséhez.",
+            "ro": "O scurtă plimbare pentru a vedea târgul unic.",
+            "en": "A short walk to see the unique fairground."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Albacete in drei Etappen. Sie starten im Zentrum und besichtigen zu Fuß die Pasaje de Lodares, die Kathedrale und das Messer-Museum. Mittags bringt Sie ein Bus zum Abelardo-Sánchez-Park für eine entspannte Pause. Am Nachmittag fahren Sie mit dem Bus weiter zum Bezirk der Plaza de Toros und des Recinto Ferial, um die architektonischen Besonderheiten der Stadt zu entdecken.",
+        "hu": "Tömegközlekedéssel három szakaszban fedezheti fel Albacetét. A központban indul, és gyalog fedezi fel a Pasaje de Lodares-t, a katedrálist és a Késmúzeumot. Délben egy busz viszi az Abelardo Sánchez parkhoz egy pihentető szünetre. Délután busszal utazik tovább a Plaza de Toros és a Recinto Ferial negyedébe, hogy felfedezze a város építészeti különlegességeit.",
+        "ro": "Cu transportul public, explorați Albacete în trei etape. Începeți în centru și vizitați pe jos Pasajul Lodares, Catedrala și Muzeul Cuțitelor. La prânz, un autobuz vă duce la Parcul Abelardo Sánchez pentru o pauză relaxantă. După-amiaza, continuați cu autobuzul spre cartierul Plaza de Toros și Recinto Ferial pentru a descoperi particularitățile arhitecturale ale orașului.",
+        "en": "Using public transport, you'll explore Albacete in three stages. You start in the center, visiting Pasaje de Lodares, the Cathedral, and the Museum of Cutlery on foot. At noon, a bus takes you to Abelardo Sánchez Park for a relaxing break. In the afternoon, you'll continue by bus to the district of Plaza de Toros and Recinto Ferial to discover the city's architectural peculiarities."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Atascaburras",
+            "tip": "Ein herzhafter Kabeljau- und Kartoffelbrei, perfekt für kühle Tage."
+          },
+          {
+            "name": "Gazpacho Manchego",
+            "tip": "Nicht die kalte Suppe! Ein deftiger Eintopf mit Wildfleisch."
+          },
+          {
+            "name": "Miguelitos de la Roda",
+            "tip": "Blätterteiggebäck mit Creme gefüllt, ein Muss zum Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Atascaburras",
+            "tip": "Kiadós tőkehal- és burgonyapüré, tökéletes a hűvösebb napokra."
+          },
+          {
+            "name": "Gazpacho Manchego",
+            "tip": "Nem a hideg leves! Egy tartalmas ragu vadhússal."
+          },
+          {
+            "name": "Miguelitos de la Roda",
+            "tip": "Krémmel töltött leveles tészta, kötelező desszert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atascaburras",
+            "tip": "Un piure consistent de cod și cartofi, perfect pentru zilele răcoroase."
+          },
+          {
+            "name": "Gazpacho Manchego",
+            "tip": "Nu este supa rece! O tocană consistentă cu carne de vânat."
+          },
+          {
+            "name": "Miguelitos de la Roda",
+            "tip": "Foietaj umplut cu cremă, un desert obligatoriu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Atascaburras",
+            "tip": "A hearty cod and potato puree, perfect for cooler days."
+          },
+          {
+            "name": "Gazpacho Manchego",
+            "tip": "Not the cold soup! A rich stew made with game meat."
+          },
+          {
+            "name": "Miguelitos de la Roda",
+            "tip": "Cream-filled puff pastry, a must-try dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abelardo-Sánchez-Park",
+            "tip": "Finden Sie eine ruhige Bank am Teich und beobachten Sie die Enten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines del Altozano",
+            "tip": "Ein kleiner, zentraler Platz, der überraschend friedlich sein kann.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Abelardo Sánchez park",
+            "tip": "Keressen egy csendes padot a tó mellett, és nézze a kacsákat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines del Altozano",
+            "tip": "Egy kicsi, központi tér, amely meglepően békés tud lenni.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Abelardo Sánchez",
+            "tip": "Găsiți o bancă liniștită lângă iaz și priviți rațele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines del Altozano",
+            "tip": "O piațetă centrală mică, care poate fi surprinzător de liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abelardo Sánchez Park",
+            "tip": "Find a quiet bench by the pond and watch the ducks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardines del Altozano",
+            "tip": "A small, central square that can be surprisingly peaceful.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Ancha",
+            "tip": "Die Haupteinkaufsstraße mit bekannten Marken und lokalen Boutiquen."
+          },
+          {
+            "name": "Museo de la Cuchillería Shop",
+            "tip": "Kaufen Sie ein authentisches Albacete-Messer als hochwertiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Ancha",
+            "tip": "A fő bevásárlóutca ismert márkákkal és helyi butikokkal."
+          },
+          {
+            "name": "Késmúzeum boltja",
+            "tip": "Vásároljon egy autentikus albacetei kést minőségi szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Ancha",
+            "tip": "Principala stradă comercială cu mărci cunoscute și buticuri locale."
+          },
+          {
+            "name": "Magazinul Muzeului Cuțitelor",
+            "tip": "Cumpărați un cuțit autentic din Albacete ca suvenir de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Ancha",
+            "tip": "The main shopping street with well-known brands and local boutiques."
+          },
+          {
+            "name": "Museum of Cutlery Shop",
+            "tip": "Buy an authentic Albacete knife as a high-quality souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Prüfen Sie die Buslinien und Fahrpläne im Voraus online oder mit einer App.",
+          "Halten Sie Kleingeld für Tickets bereit, die Sie beim Fahrer kaufen.",
+          "Beachten Sie, dass die Busfrequenzen abends und am Wochenende geringer sein können."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Ellenőrizze a buszjáratokat és menetrendeket előre online vagy egy alkalmazással.",
+          "Készítsen elő aprópénzt a sofőrnél vásárolt jegyekhez.",
+          "Vegye figyelembe, hogy a buszjáratok sűrűsége este és hétvégén csökkenhet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați rutele și orarele autobuzelor în avans online sau cu o aplicație.",
+          "Pregătiți mărunțiș pentru biletele cumpărate de la șofer.",
+          "Rețineți că frecvența autobuzelor poate fi mai mică seara și în weekend."
+        ],
+        "en": [
+          "Buy a daily bus pass to save money.",
+          "Check bus routes and schedules in advance online or with an app.",
+          "Have small change ready for tickets bought from the driver.",
+          "Be aware that bus frequency may be lower in the evenings and on weekends."
+        ]
+      }
+    }
+  }
+}

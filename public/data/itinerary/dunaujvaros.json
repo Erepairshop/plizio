@@ -1,0 +1,1236 @@
+{
+  "city_id": "dunaujvaros",
+  "anchor": {
+    "name": "Rathausplatz",
+    "coords": [
+      18.9397,
+      46.9619
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Rathausplatz",
+            "hu": "Érkezés a Városháza térre",
+            "ro": "Sosire la Piața Primăriei",
+            "en": "Arrival at the Town Hall Square"
+          },
+          "coords": [
+            18.9401,
+            46.9622
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die sozialistisch-realistische Architektur, die den Platz prägt.",
+            "hu": "Figyelje meg a teret meghatározó szocreál építészetet!",
+            "ro": "Observați arhitectura realist-socialistă care definește piața.",
+            "en": "Observe the socialist-realist architecture that defines the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Bartók-Kammertheater",
+            "hu": "Bartók Kamaraszínház",
+            "ro": "Teatrul de Cameră Bartók",
+            "en": "Bartók Chamber Theatre"
+          },
+          "coords": [
+            18.9425,
+            46.9635
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:45",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Abendprogramm, vielleicht gibt es eine interessante Vorstellung.",
+            "hu": "Nézze meg az esti programot, hátha van egy érdekes előadás.",
+            "ro": "Verificați programul de seară, s-ar putea să găsiți un spectacol interesant.",
+            "en": "Check the evening schedule; you might find an interesting performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Intercisa-Museum",
+            "hu": "Intercisa Múzeum",
+            "ro": "Muzeul Intercisa",
+            "en": "Intercisa Museum"
+          },
+          "coords": [
+            18.9388,
+            46.9681
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fokus auf die römische Sammlung, sie ist das Herzstück des Museums.",
+            "hu": "Fókuszáljon a római kori gyűjteményre, ez a múzeum szíve.",
+            "ro": "Concentrează-te pe colecția romană, este piesa de rezistență a muzeului.",
+            "en": "Focus on the Roman collection; it's the heart of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Ruinen (Castellum)",
+            "hu": "Római kori romok (Castellum)",
+            "ro": "Ruinele Romane (Castellum)",
+            "en": "Roman Ruins (Castellum)"
+          },
+          "coords": [
+            18.9395,
+            46.9705
+          ],
+          "category": "historical",
+          "arrive_at": "12:20",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie sich das Leben der Soldaten an diesem alten römischen Grenzposten vor.",
+            "hu": "Képzelje el a katonák életét ezen a régi római határállomáson!",
+            "ro": "Imaginați-vă viața soldaților la acest vechi post de frontieră roman.",
+            "en": "Imagine the life of soldiers at this ancient Roman frontier post."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturenpark an der Donau",
+            "hu": "Duna-parti Szoborpark",
+            "ro": "Parcul de Sculpturi de pe malul Dunării",
+            "en": "Sculpture Park on the Danube"
+          },
+          "coords": [
+            18.9515,
+            46.9655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Mittagspicknick mit Blick auf den Fluss.",
+            "hu": "Ideális hely egy ebédpiknikhez a folyóra néző kilátással.",
+            "ro": "Un loc ideal pentru un picnic la prânz cu vedere la fluviu.",
+            "en": "An ideal spot for a lunch picnic with a view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Szalki",
+            "hu": "Szalki-sziget",
+            "ro": "Insula Szalki",
+            "en": "Szalki Island"
+          },
+          "coords": [
+            18.96,
+            46.958
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Fußgängerbrücke und genießen Sie die Ruhe der Natur.",
+            "hu": "Kelj át a gyaloghídon, és élvezd a természet csendjét!",
+            "ro": "Traversați podul pietonal și bucurați-vă de liniștea naturii.",
+            "en": "Cross the pedestrian bridge and enjoy the tranquility of nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm",
+            "hu": "Víztorony",
+            "ro": "Turnul de Apă",
+            "en": "Water Tower"
+          },
+          "coords": [
+            18.9355,
+            46.9601
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:10",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Symbol des industriellen Erbes der Stadt, tolles Fotomotiv bei Sonnenuntergang.",
+            "hu": "A város ipari örökségének szimbóluma, remek fotótéma naplementekor.",
+            "ro": "Un simbol al patrimoniului industrial al orașului, un subiect excelent pentru fotografii la apus.",
+            "en": "A symbol of the city's industrial heritage, a great photo opportunity at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Dunaújváros beginnt auf dem Rathausplatz, dem Herzen der sozialistischen Planstadt. Vormittags tauchen Sie im Intercisa-Museum tief in die römische Vergangenheit ein. Nach einem Spaziergang zu den nahen Ruinen geht es am Nachmittag an die Donau. Der Skulpturenpark und die ruhige Szalki-Insel bieten Entspannung. Der Abend klingt mit dem Blick auf den beleuchteten Wasserturm aus, ein Kontrastprogramm zur antiken Geschichte.",
+        "hu": "A nap Dunaújvárosban a Városháza téren, a szocialista tervváros szívében kezdődik. Délelőtt az Intercisa Múzeumban mélyed el a római múltban. A közeli romokhoz tett séta után délután a Duna-part felé veszi az irányt. A Szoborpark és a csendes Szalki-sziget kikapcsolódást nyújt. Az este a kivilágított Víztorony látványával zárul, kontrasztot képezve az ókori történelemmel.",
+        "ro": "Ziua dvs. în Dunaújváros începe în Piața Primăriei, inima orașului planificat socialist. Dimineața, vă veți cufunda în trecutul roman la Muzeul Intercisa. După o plimbare la ruinele din apropiere, după-amiaza vă îndreptați spre malul Dunării. Parcul de Sculpturi și liniștita Insulă Szalki oferă relaxare. Seara se încheie cu priveliștea Turnului de Apă iluminat, un contrast cu istoria antică.",
+        "en": "Your day in Dunaújváros begins at the Town Hall Square, the heart of the socialist planned city. In the morning, you'll dive deep into the Roman past at the Intercisa Museum. After a walk to the nearby ruins, the afternoon takes you to the Danube riverbank. The Sculpture Park and the quiet Szalki Island offer relaxation. The evening concludes with the view of the illuminated Water Tower, a stark contrast to the ancient history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gebratener Zander",
+            "tip": "Frisch aus der Donau, oft mit cremigen Kartoffeln serviert."
+          },
+          {
+            "name": "Kiskulacs Csárda",
+            "tip": "Ein traditionelles Restaurant für authentische ungarische Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült fogas",
+            "tip": "Frissen a Dunából, gyakran tejszínes burgonyával tálalva."
+          },
+          {
+            "name": "Kiskulacs Csárda",
+            "tip": "Hagyományos étterem az autentikus magyaros ételekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șalău prăjit",
+            "tip": "Proaspăt din Dunăre, adesea servit cu cartofi cremoși."
+          },
+          {
+            "name": "Kiskulacs Csárda",
+            "tip": "Un restaurant tradițional pentru mâncăruri maghiare autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fried Pike-Perch",
+            "tip": "Fresh from the Danube, often served with creamy potatoes."
+          },
+          {
+            "name": "Kiskulacs Csárda",
+            "tip": "A traditional restaurant for authentic Hungarian dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Szalki-Insel",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie die Schiffe auf der Donau.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obere Promenade des Skulpturenparks",
+            "tip": "Ein erhöhter Weg bietet eine friedliche Aussicht über den Fluss.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szalki-sziget partja",
+            "tip": "Keressen egy csendes padot, és nézze a Dunán úszó hajókat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szoborpark felső sétánya",
+            "tip": "Egy megemelt ösvény békés kilátást nyújt a folyóra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul insulei Szalki",
+            "tip": "Găsiți o bancă liniștită și priviți navele de pe Dunăre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Promenada superioară a Parcului de Sculpturi",
+            "tip": "O alee ridicată oferă o priveliște pașnică asupra fluviului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Szalki Island",
+            "tip": "Find a quiet bench and watch the ships on the Danube.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Upper promenade of the Sculpture Park",
+            "tip": "An elevated path offers a peaceful view over the river.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach Paprika, Honig und handgefertigten Produkten aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen paprikát, mézet és helyi kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați boia de ardei, miere și produse artizanale din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for paprika, honey, and local handcrafted products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich, besonders im Sommer.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Egy újratölthető vizes palack hasznos, különösen nyáron.",
+          "A belvárosi látnivalók többsége könnyen megközelíthető gyalog."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "O sticlă de apă reutilizabilă este utilă, mai ales vara.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "A reusable water bottle is useful, especially in the summer.",
+          "Most city center attractions are easily reachable on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz & Radverleih",
+            "hu": "Városháza tér és kerékpárkölcsönzés",
+            "ro": "Piața Primăriei & închiriere de biciclete",
+            "en": "Town Hall Square & Bike Rental"
+          },
+          "coords": [
+            18.9401,
+            46.9622
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag hier und holen Sie sich Ihr Fahrrad für die Erkundungstour.",
+            "hu": "Itt kezdje a napot, és vegye át a kerékpárt a felfedezőúthoz.",
+            "ro": "Începeți ziua aici și luați-vă bicicleta pentru turul de explorare.",
+            "en": "Start your day here and pick up your bike for the exploration tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Intercisa-Museum & Römische Ruinen",
+            "hu": "Intercisa Múzeum és Római kori romok",
+            "ro": "Muzeul Intercisa și Ruinele Romane",
+            "en": "Intercisa Museum & Roman Ruins"
+          },
+          "coords": [
+            18.9395,
+            46.9705
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie beide historischen Stätten zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel mindkét történelmi helyszínt gyalog.",
+            "ro": "Parcați bicicleta și explorați ambele situri istorice pe jos.",
+            "en": "Park your bike and explore both historical sites on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturenpark an der Donau",
+            "hu": "Duna-parti Szoborpark",
+            "ro": "Parcul de Sculpturi de pe malul Dunării",
+            "en": "Sculpture Park on the Danube"
+          },
+          "coords": [
+            18.9515,
+            46.9655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie den Radweg entlang der Skulpturen und genießen Sie die Aussicht.",
+            "hu": "Kerékpározzon végig a szobrok melletti kerékpárúton és élvezze a kilátást.",
+            "ro": "Mergeți cu bicicleta pe pista de lângă sculpturi și bucurați-vă de priveliște.",
+            "en": "Cycle along the path next to the sculptures and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Pentele-Brücke (Aussichtspunkt)",
+            "hu": "Pentelei híd (kilátópont)",
+            "ro": "Podul Pentele (punct de belvedere)",
+            "en": "Pentele Bridge (Viewpoint)"
+          },
+          "coords": [
+            18.9745,
+            46.95
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:15",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Eine anspruchsvolle Fahrt, aber die Panoramaaussicht von der Brücke ist es wert.",
+            "hu": "Kihívást jelentő út, de a hídról nyíló panoráma megéri.",
+            "ro": "O plimbare provocatoare, dar vederea panoramică de pe pod merită efortul.",
+            "en": "A challenging ride, but the panoramic view from the bridge is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Szalki (Mittagspause)",
+            "hu": "Szalki-sziget (ebédszünet)",
+            "ro": "Insula Szalki (pauză de prânz)",
+            "en": "Szalki Island (Lunch Break)"
+          },
+          "coords": [
+            18.96,
+            46.958
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ideal für eine entspannte Mittagspause in der Natur.",
+            "hu": "Ideális egy nyugodt ebédszünethez a természetben.",
+            "ro": "Ideal pentru o pauză de prânz relaxantă în natură.",
+            "en": "Ideal for a relaxing lunch break in nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm",
+            "hu": "Víztorony",
+            "ro": "Turnul de Apă",
+            "en": "Water Tower"
+          },
+          "coords": [
+            18.9355,
+            46.9601
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:00",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie ein letztes Foto von diesem ikonischen Wahrzeichen.",
+            "hu": "Készítsen egy utolsó fotót erről az ikonikus épületről.",
+            "ro": "Faceți o ultimă fotografie a acestui punct de reper iconic.",
+            "en": "Take one last photo of this iconic landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückgabe des Fahrrads",
+            "hu": "Kerékpár leadása",
+            "ro": "Returnarea bicicletei",
+            "en": "Bike Drop-off"
+          },
+          "coords": [
+            18.9401,
+            46.9622
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:25",
+          "stay_min": 35,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour dort, wo sie begonnen hat.",
+            "hu": "Fejezze be a túrát ott, ahol elkezdődött.",
+            "ro": "Încheiați turul acolo unde a început.",
+            "en": "End your tour where it began."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in Dunaújváros aufs Rad und starten Sie am Rathausplatz. Die erste Etappe führt Sie zu den römischen Wurzeln der Stadt im Intercisa-Museum. Weiter geht es entlang der Donau durch den Skulpturenpark, bevor Sie die beeindruckende Pentele-Brücke erklimmen. Nach der Anstrengung erwartet Sie eine entspannte Mittagspause auf der Szalki-Insel. Der Wasserturm markiert den Endpunkt der Tour, bevor Sie das Rad wieder abgeben.",
+        "hu": "Pattanjon kerékpárra Dunaújvárosban, és induljon a Városháza térről. Az első szakasz a város római kori gyökereihez vezet az Intercisa Múzeumba. Ezután a Duna mentén halad a Szoborparkon keresztül, mielőtt megmászná a lenyűgöző Pentelei hidat. A kihívás után egy pihentető ebédszünet várja a Szalki-szigeten. A Víztorony jelzi a túra végét, mielőtt leadná a kerékpárt.",
+        "ro": "Urcați-vă pe bicicletă în Dunaújváros și porniți din Piața Primăriei. Prima etapă vă duce la rădăcinile romane ale orașului, la Muzeul Intercisa. Continuați de-a lungul Dunării prin Parcul de Sculpturi înainte de a urca pe impresionantul Pod Pentele. După efort, vă așteaptă o pauză de prânz relaxantă pe Insula Szalki. Turnul de Apă marchează sfârșitul turului înainte de a returna bicicleta.",
+        "en": "Hop on a bike in Dunaújváros and start at the Town Hall Square. The first leg takes you to the city's Roman roots at the Intercisa Museum. Continue along the Danube through the Sculpture Park before climbing the impressive Pentele Bridge. After the effort, a relaxing lunch break awaits you on Szalki Island. The Water Tower marks the end of the tour before you return the bike."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gulaschsuppe",
+            "tip": "Ein herzhafter Klassiker, perfekt nach einer langen Radtour."
+          },
+          {
+            "name": "Campus Étterem",
+            "tip": "Moderne Küche und eine gute Auswahl für ein schnelles, aber leckeres Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gulyásleves",
+            "tip": "Egy kiadós klasszikus, tökéletes egy hosszú biciklitúra után."
+          },
+          {
+            "name": "Campus Étterem",
+            "tip": "Modern konyha és jó választék egy gyors, de finom ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de gulaș",
+            "tip": "Un clasic consistent, perfect după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Restaurant Campus",
+            "tip": "Bucătărie modernă și o selecție bună pentru un prânz rapid, dar gustos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goulash Soup",
+            "tip": "A hearty classic, perfect after a long bike ride."
+          },
+          {
+            "name": "Campus Restaurant",
+            "tip": "Modern cuisine and a good selection for a quick but tasty lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang der Donau",
+            "tip": "Finden Sie einen ruhigen Abschnitt und genießen Sie die Aussicht auf den Fluss.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Die Spitze der Pentele-Brücke",
+            "tip": "Ein Moment der Ruhe hoch über dem geschäftigen Treiben.",
+            "emoji": "🌉"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duna menti kerékpárút",
+            "tip": "Keressen egy csendes szakaszt, és élvezze a folyóra nyíló kilátást.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Pentelei híd teteje",
+            "tip": "Egy pillanatnyi csend a nyüzsgés felett.",
+            "emoji": "🌉"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Dunării",
+            "tip": "Găsiți o secțiune liniștită și bucurați-vă de priveliștea fluviului.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Vârful podului Pentele",
+            "tip": "Un moment de liniște deasupra agitației.",
+            "emoji": "🌉"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Danube",
+            "tip": "Find a quiet section and enjoy the view of the river.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "The top of Pentele Bridge",
+            "tip": "A moment of peace high above the hustle and bustle.",
+            "emoji": "🌉"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für Souvenirs wie eine Dunaújváros-Fahrradklingel oder eine Wasserflasche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ajándéktárgyakért, mint egy dunaújvárosi biciklicsengő vagy kulacs."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru suveniruri precum un clopoțel de bicicletă Dunaújváros sau o sticlă de apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "For souvenirs like a Dunaújváros bike bell or a water bottle."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nutzen Sie die ausgewiesenen Radwege, wo immer es möglich ist."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Sisak használata erősen ajánlott.",
+          "Használja a kijelölt kerékpárutakat, ahol csak lehetséges."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a porni.",
+          "Casca este puternic recomandată.",
+          "Folosiți pistele de biciclete desemnate ori de câte ori este posibil."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "A helmet is strongly recommended.",
+          "Use the designated bike paths wherever possible."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 11.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Antikes Erbe (Parken am Museum)",
+            "hu": "1. klaszter: Antik örökség (Parkolás a múzeumnál)",
+            "ro": "Cluster 1: Moștenirea Antică (Parcare la muzeu)",
+            "en": "Cluster 1: Ancient Heritage (Parking at the Museum)"
+          },
+          "coords": [
+            18.9388,
+            46.9681
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihre Zeitreise in die römische Vergangenheit von Intercisa.",
+            "hu": "Itt kezdje időutazását Intercisa római múltjába.",
+            "ro": "Începeți călătoria în timp în trecutul roman al Intercisei aici.",
+            "en": "Start your journey back in time to the Roman past of Intercisa here."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Ruinen (Castellum)",
+            "hu": "Római kori romok (Castellum)",
+            "ro": "Ruinele Romane (Castellum)",
+            "en": "Roman Ruins (Castellum)"
+          },
+          "coords": [
+            18.9395,
+            46.9705
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zu den eigentlichen Grundmauern des Forts.",
+            "hu": "Rövid séta a múzeumtól az erőd tényleges alapfalaihoz.",
+            "ro": "O scurtă plimbare de la muzeu la fundațiile fortului.",
+            "en": "A short walk from the museum to the actual foundations of the fort."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Sozialistisches Zentrum (Parken am Rathausplatz)",
+            "hu": "2. klaszter: Szocialista központ (Parkolás a Városháza térnél)",
+            "ro": "Cluster 2: Centrul Socialist (Parcare în Piața Primăriei)",
+            "en": "Cluster 2: Socialist Center (Parking at Town Hall Square)"
+          },
+          "coords": [
+            18.9401,
+            46.9622
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:55",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Spüren Sie die Atmosphäre der 1950er Jahre in diesem monumentalen Raum.",
+            "hu": "Érezze át az 1950-es évek hangulatát ezen a monumentális téren.",
+            "ro": "Simțiți atmosfera anilor 1950 în acest spațiu monumental.",
+            "en": "Feel the atmosphere of the 1950s in this monumental space."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm & Mittagessen",
+            "hu": "Víztorony és ebéd",
+            "ro": "Turnul de Apă și prânz",
+            "en": "Water Tower & Lunch"
+          },
+          "coords": [
+            18.9355,
+            46.9601
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Turm und finden Sie ein Restaurant in der Nähe.",
+            "hu": "Csodálja meg a tornyot, majd keressen egy közeli éttermet.",
+            "ro": "Admirați turnul și apoi găsiți un restaurant în apropiere.",
+            "en": "Admire the tower and then find a nearby restaurant for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Donau-Erlebnis (Parken am Skulpturenpark)",
+            "hu": "3. klaszter: Duna-élmény (Parkolás a Szoborparknál)",
+            "ro": "Cluster 3: Experiența Dunării (Parcare la Parcul de Sculpturi)",
+            "en": "Cluster 3: Danube Experience (Parking at the Sculpture Park)"
+          },
+          "coords": [
+            18.9515,
+            46.9655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein Spaziergang zwischen Kunst und Natur am Flussufer.",
+            "hu": "Séta a művészet és a természet között a folyóparton.",
+            "ro": "O plimbare între artă și natură pe malul fluviului.",
+            "en": "A walk between art and nature on the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt über die Pentele-Brücke",
+            "hu": "Áthajtás a Pentelei hídon",
+            "ro": "Traversarea Podului Pentele",
+            "en": "Drive across the Pentele Bridge"
+          },
+          "coords": [
+            18.9745,
+            46.95
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht während der Überfahrt und parken Sie kurz auf der anderen Seite für Fotos.",
+            "hu": "Élvezze a kilátást átkelés közben, és álljon meg egy rövid időre a másik oldalon fotózni.",
+            "ro": "Bucurați-vă de priveliște în timpul traversării și parcați pentru scurt timp pe cealaltă parte pentru fotografii.",
+            "en": "Enjoy the view during the crossing and park briefly on the other side for photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Dunaújváros in drei thematischen Clustern. Der Vormittag ist dem römischen Erbe gewidmet: Parken Sie am Intercisa-Museum und spazieren Sie zu den Ruinen. Mittags fahren Sie ins Stadtzentrum, um den sozialistischen Rathausplatz zu erleben und in der Nähe des Wasserturms zu Mittag zu essen. Der Nachmittag gehört der Donau: Sie parken am Skulpturenpark für einen Spaziergang am Ufer und beenden den Tag mit einer beeindruckenden Fahrt über die Pentele-Brücke.",
+        "hu": "Autóval három tematikus klaszterben fedezheti fel Dunaújvárost. A délelőtt a római örökségé: parkoljon az Intercisa Múzeumnál, és sétáljon el a romokhoz. Délben hajtson be a városközpontba, hogy megtapasztalja a szocialista Városháza teret és ebédeljen a Víztorony közelében. A délután a Dunáé: parkoljon a Szoborparknál egy parti sétára, és fejezze be a napot egy lenyűgöző áthajtással a Pentelei hídon.",
+        "ro": "Cu mașina, explorați Dunaújváros în trei clustere tematice. Dimineața este dedicată moștenirii romane: parcați la Muzeul Intercisa și plimbați-vă la ruine. La prânz, mergeți în centrul orașului pentru a experimenta Piața Primăriei socialiste și pentru a lua masa lângă Turnul de Apă. După-amiaza aparține Dunării: parcați la Parcul de Sculpturi pentru o plimbare pe mal și încheiați ziua cu o traversare impresionantă a Podului Pentele.",
+        "en": "By car, you'll explore Dunaújváros in three thematic clusters. The morning is dedicated to Roman heritage: park at the Intercisa Museum and walk to the ruins. At noon, drive to the city center to experience the socialist Town Hall Square and have lunch near the Water Tower. The afternoon belongs to the Danube: park at the Sculpture Park for a riverside walk and end the day with an impressive drive across the Pentele Bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Paprikahuhn",
+            "tip": "Ein ungarischer Klassiker, der in vielen lokalen Restaurants zu finden ist."
+          },
+          {
+            "name": "Aranyhordó Étterem",
+            "tip": "Bekannt für seine großzügigen Portionen und traditionelle Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paprikás csirke",
+            "tip": "Magyar klasszikus, amely számos helyi étteremben megtalálható."
+          },
+          {
+            "name": "Aranyhordó Étterem",
+            "tip": "Bőséges adagjairól és hagyományos konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pui cu papricaș",
+            "tip": "Un clasic maghiar care se găsește în multe restaurante locale."
+          },
+          {
+            "name": "Restaurant Aranyhordó",
+            "tip": "Cunoscut pentru porțiile sale generoase și bucătăria tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chicken Paprikash",
+            "tip": "A Hungarian classic found in many local restaurants."
+          },
+          {
+            "name": "Aranyhordó Restaurant",
+            "tip": "Known for its generous portions and traditional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt nach der Pentele-Brücke",
+            "tip": "Ein ruhiger Ort, um auf die Stadt und den Fluss zurückzublicken.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parkplatz am Museum außerhalb der Öffnungszeiten",
+            "tip": "Ein überraschend ruhiger Ort am Rande des historischen Viertels.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Pentelei híd után",
+            "tip": "Csendes hely, ahonnan visszatekinthet a városra és a folyóra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Múzeum parkolója nyitvatartási időn kívül",
+            "tip": "Meglepően csendes hely a történelmi negyed szélén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere după Podul Pentele",
+            "tip": "Un loc liniștit pentru a privi înapoi la oraș și la fluviu.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcarea muzeului în afara orelor de program",
+            "tip": "Un loc surprinzător de liniștit la marginea cartierului istoric.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint after Pentele Bridge",
+            "tip": "A quiet spot to look back at the city and the river.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Museum parking lot outside opening hours",
+            "tip": "A surprisingly quiet place on the edge of the historic district.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Wenn Sie aus der Stadt fahren, halten Sie Ausschau nach Schildern für frisches Obst und Gemüse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok a környéken",
+            "tip": "Ha kifelé tart a városból, figyelje a friss gyümölcsöt és zöldséget hirdető táblákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole din zonă",
+            "tip": "Dacă ieșiți din oraș, fiți atenți la indicatoarele pentru fructe și legume proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the surrounding area",
+            "tip": "If you're driving out of the city, look for signs for fresh fruits and vegetables."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Stadtzentrum kostenpflichtig sein.",
+          "Planen Sie Ihre Route zwischen den Clustern, um Zeit zu sparen.",
+          "Ein GPS oder eine Navigations-App ist sehr zu empfehlen."
+        ],
+        "hu": [
+          "A parkolás a városközpontban díjköteles lehet.",
+          "Tervezze meg az útvonalat a klaszterek között, hogy időt takarítson meg.",
+          "GPS vagy navigációs alkalmazás használata erősen ajánlott."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi contra cost.",
+          "Planificați-vă ruta între clustere pentru a economisi timp.",
+          "Un GPS sau o aplicație de navigație este foarte recomandată."
+        ],
+        "en": [
+          "Parking in the city center may be subject to a fee.",
+          "Plan your route between clusters to save time.",
+          "A GPS or navigation app is highly recommended."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Zentrum (Ankunft Busbahnhof)",
+            "hu": "1. klaszter: Központ (Érkezés az buszpályaudvarra)",
+            "ro": "Cluster 1: Centru (Sosire la autogară)",
+            "en": "Cluster 1: Center (Arrival at Bus Station)"
+          },
+          "coords": [
+            18.937,
+            46.963
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für uneingeschränkte Fahrten.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+            "en": "Buy a day pass for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathausplatz & Wasserturm",
+            "hu": "Városháza tér és Víztorony",
+            "ro": "Piața Primăriei și Turnul de Apă",
+            "en": "Town Hall Square & Water Tower"
+          },
+          "coords": [
+            18.9401,
+            46.9622
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen liegen nahe beieinander und sind leicht zu Fuß zu erkunden.",
+            "hu": "Ez a két nevezetesség közel van egymáshoz, könnyen felfedezhető gyalog.",
+            "ro": "Aceste două repere sunt apropiate și ușor de explorat pe jos.",
+            "en": "These two landmarks are close to each other and easy to explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Geschichte (Bus zum Museum)",
+            "hu": "2. klaszter: Történelem (Busszal a múzeumhoz)",
+            "ro": "Cluster 2: Istorie (Autobuz spre muzeu)",
+            "en": "Cluster 2: History (Bus to the Museum)"
+          },
+          "coords": [
+            18.9388,
+            46.9681
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus in Richtung des römischen Viertels.",
+            "hu": "Menjen helyi busszal a római negyed irányába.",
+            "ro": "Luați un autobuz local spre cartierul roman.",
+            "en": "Take a local bus towards the Roman quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Ruinen & Mittagessen",
+            "hu": "Római kori romok és ebéd",
+            "ro": "Ruinele Romane și prânzul",
+            "en": "Roman Ruins & Lunch"
+          },
+          "coords": [
+            18.9395,
+            46.9705
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen und genießen Sie ein spätes Mittagessen in einem nahegelegenen Restaurant.",
+            "hu": "Fedezze fel a romokat, és ebédeljen egy közeli étteremben.",
+            "ro": "Explorați ruinele și bucurați-vă de un prânz târziu la un restaurant din apropiere.",
+            "en": "Explore the ruins and enjoy a late lunch at a nearby restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Donauufer (Bus zur Promenade)",
+            "hu": "3. klaszter: Duna-part (Busszal a sétányhoz)",
+            "ro": "Cluster 3: Malul Dunării (Autobuz spre promenadă)",
+            "en": "Cluster 3: Danube Bank (Bus to the Promenade)"
+          },
+          "coords": [
+            18.9515,
+            46.9655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Der letzte Bus bringt Sie zum Skulpturenpark für einen entspannten Nachmittagsspaziergang.",
+            "hu": "Az utolsó busz a Szoborparkhoz viszi egy kellemes délutáni sétára.",
+            "ro": "Ultimul autobuz vă duce la Parcul de Sculpturi pentru o plimbare relaxantă de după-amiază.",
+            "en": "The last bus takes you to the Sculpture Park for a relaxing afternoon walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Dunaújváros effizient. Beginnen Sie im Zentrum, wo Sie den Rathausplatz und den Wasserturm zu Fuß erreichen. Ein Bus bringt Sie dann zum Geschichtscluster mit dem Intercisa-Museum und den römischen Ruinen. Nach einer ausgiebigen Mittagspause dort bringt Sie ein weiterer Bus zum Donauufer. Der Nachmittag klingt mit einem Spaziergang durch den Skulpturenpark aus, bevor Sie Ihre Rückreise antreten.",
+        "hu": "Tömegközlekedéssel hatékonyan fedezheti fel Dunaújvárost. Kezdje a központban, ahol gyalog elérheti a Városháza teret és a Víztornyot. Ezután egy busz elviszi a történelmi klaszterhez, az Intercisa Múzeumhoz és a római romokhoz. Egy kiadós ebédszünet után egy másik busz a Duna-partra viszi. A délután a Szoborparkban tett sétával zárul, mielőtt visszaindulna.",
+        "ro": "Explorați Dunaújváros eficient cu transportul public. Începeți din centru, unde puteți ajunge pe jos la Piața Primăriei și la Turnul de Apă. Un autobuz vă va duce apoi la clusterul istoric, cu Muzeul Intercisa și ruinele romane. După o pauză de prânz consistentă acolo, un alt autobuz vă va duce pe malul Dunării. După-amiaza se încheie cu o plimbare prin Parcul de Sculpturi înainte de a vă întoarce.",
+        "en": "Explore Dunaújváros efficiently using public transport. Start in the center, where you can walk to the Town Hall Square and the Water Tower. A bus will then take you to the history cluster, featuring the Intercisa Museum and the Roman ruins. After a leisurely lunch break there, another bus will take you to the Danube bank. The afternoon concludes with a walk through the Sculpture Park before you head back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lángos",
+            "tip": "Ein schneller, leckerer und authentisch ungarischer Snack für unterwegs."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Holen Sie sich ein süßes Gebäck wie Kürtőskalács (Baumstriezel) für die Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lángos",
+            "tip": "Gyors, finom és autentikus magyar harapnivaló útközben."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vegyen egy édes péksüteményt, mint a kürtőskalács, a buszozáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lángos",
+            "tip": "O gustare rapidă, delicioasă și autentic maghiară pentru drum."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Luați un produs de patiserie dulce, cum ar fi Kürtőskalács, pentru călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lángos",
+            "tip": "A quick, delicious, and authentic Hungarian snack on the go."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Grab a sweet pastry like Kürtőskalács (chimney cake) for the bus ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Skulpturenpark",
+            "tip": "Perfekt, um auf den nächsten Bus zu warten und die Ruhe zu genießen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Oberdeck eines Busses (wenn verfügbar)",
+            "tip": "Bietet eine andere Perspektive auf die Stadt in relativer Ruhe.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Szoborparkban",
+            "tip": "Tökéletes hely a következő buszra várva, hogy élvezze a csendet.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Busz emelete (ha van)",
+            "tip": "Más perspektívát nyújt a városra, viszonylagos nyugalomban.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul de Sculpturi",
+            "tip": "Perfect pentru a aștepta următorul autobuz și a te bucura de liniște.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Etajul superior al unui autobuz (dacă este disponibil)",
+            "tip": "Oferă o perspectivă diferită asupra orașului, într-o liniște relativă.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in the Sculpture Park",
+            "tip": "Perfect for waiting for the next bus and enjoying the quiet.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Upper deck of a bus (if available)",
+            "tip": "Offers a different perspective of the city in relative calm.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske am Busbahnhof",
+            "tip": "Hier finden Sie Zeitungen, Snacks und kleine Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszpályaudvaron",
+            "tip": "Itt újságokat, rágcsálnivalókat és apró ajándéktárgyakat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la autogară",
+            "tip": "Aici veți găsi ziare, gustări și mici suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at the bus station",
+            "tip": "You can find newspapers, snacks, and small souvenirs here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie den lokalen Busfahrplan herunter oder verwenden Sie eine App.",
+          "Halten Sie Kleingeld für Tickets bereit, falls Sie an Bord kaufen.",
+          "Beachten Sie die Abfahrtszeiten des letzten Busses, um nicht stecken zu bleiben."
+        ],
+        "hu": [
+          "Töltse le a helyi buszmenetrendet vagy használjon egy alkalmazást.",
+          "Tartson aprópénzt a jegyekhez, ha a fedélzeten vásárol.",
+          "Figyeljen az utolsó busz indulási idejére, hogy ne ragadjon ott."
+        ],
+        "ro": [
+          "Descărcați orarul autobuzelor locale sau utilizați o aplicație.",
+          "Aveți la îndemână mărunțiș pentru bilete dacă cumpărați la bord.",
+          "Fiți atenți la ora de plecare a ultimului autobuz pentru a nu rămâne blocat."
+        ],
+        "en": [
+          "Download the local bus schedule or use an app.",
+          "Have small change ready for tickets if buying on board.",
+          "Pay attention to the last bus departure times to avoid getting stranded."
+        ]
+      }
+    }
+  }
+}

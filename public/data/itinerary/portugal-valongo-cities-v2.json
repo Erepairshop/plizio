@@ -1,0 +1,1144 @@
+{
+  "city_id": "portugal-valongo-cities-v2",
+  "anchor": {
+    "name": "Valongo",
+    "coords": [
+      -8.4974,
+      41.1856
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Matriz von Valongo",
+            "hu": "Valongói főtemplom",
+            "ro": "Biserica Matrice din Valongo",
+            "en": "Valongo Main Church"
+          },
+          "coords": [
+            -8.4965,
+            41.1862
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die vergoldeten Holzarbeiten im Inneren, ein typisches Merkmal des portugiesischen Barocks.",
+            "hu": "Csodálja meg a belső aranyozott fafaragásokat, a portugál barokk jellegzetességét.",
+            "ro": "Admirați lemnăria aurită din interior, o caracteristică tipică a barocului portughez.",
+            "en": "Admire the gilded woodwork inside, a typical feature of Portuguese Baroque."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum von Valongo",
+            "hu": "Valongo Városi Múzeum",
+            "ro": "Muzeul Municipal din Valongo",
+            "en": "Municipal Museum of Valongo"
+          },
+          "coords": [
+            -8.4958,
+            41.187
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellung über die lokale Schieferindustrie, das 'schwarze Gold' der Region.",
+            "hu": "Fókuszáljon a helyi palaiparról szóló kiállításra, a régió 'fekete aranyára'.",
+            "ro": "Concentrați-vă pe expoziția despre industria locală de ardezie, 'aurul negru' al regiunii.",
+            "en": "Focus on the exhibit about the local slate industry, the region's 'black gold'."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke São Lázaro",
+            "hu": "São Lázaro híd",
+            "ro": "Podul São Lázaro",
+            "en": "São Lázaro Bridge"
+          },
+          "coords": [
+            -8.4988,
+            41.1845
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:31",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein schnelles Foto, besonders mit der umgebenden Vegetation.",
+            "hu": "Remek hely egy gyors fotóhoz, különösen a környező növényzettel.",
+            "ro": "Un loc excelent pentru o fotografie rapidă, mai ales cu vegetația înconjurătoare.",
+            "en": "A great spot for a quick photo, especially with the surrounding vegetation."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem lokalen Restaurant",
+            "hu": "Ebéd egy helyi étteremben",
+            "ro": "Prânz la un restaurant local",
+            "en": "Lunch at a local restaurant"
+          },
+          "coords": [
+            -8.497,
+            41.188
+          ],
+          "category": "gastro",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie 'Arroz de Forno com Cabrito', ein lokales Ofengericht mit Zicklein und Reis.",
+            "hu": "Kóstolja meg az 'Arroz de Forno com Cabrito'-t, egy helyi, sütőben sült gidahúsos rizses ételt.",
+            "ro": "Încercați 'Arroz de Forno com Cabrito', un preparat local la cuptor cu ied și orez.",
+            "en": "Try 'Arroz de Forno com Cabrito', a local oven-baked dish with kid goat and rice."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorf Couce",
+            "hu": "Couce faluja",
+            "ro": "Satul Couce",
+            "en": "Village of Couce"
+          },
+          "coords": [
+            -8.5145,
+            41.1685
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:27",
+          "stay_min": 120,
+          "hop_from_prev_min": 68,
+          "hop_from_prev_km": 5.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang hierher ist lang, aber das rustikale Dorf ist die Mühe wert. Tragen Sie bequeme Schuhe.",
+            "hu": "Hosszú séta vezet ide, de a rusztikus falu megéri a fáradságot. Viseljen kényelmes cipőt.",
+            "ro": "Plimbarea până aici este lungă, dar satul rustic merită efortul. Purtați încălțăminte comodă.",
+            "en": "The walk here is long, but the rustic village is worth the effort. Wear comfortable shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermida de Santa Justa",
+            "hu": "Santa Justa kápolna",
+            "ro": "Schitul Santa Justa",
+            "en": "Hermitage of Santa Justa"
+          },
+          "coords": [
+            -8.518,
+            41.165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:41",
+          "stay_min": 54,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre und den Panoramablick über das Tal.",
+            "hu": "Élvezze a békés légkört és a völgyre nyíló panorámás kilátást.",
+            "ro": "Bucurați-vă de atmosfera liniștită și de vederea panoramică asupra văii.",
+            "en": "Enjoy the peaceful atmosphere and the panoramic views over the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Valongo mit einem Besuch der Hauptkirche und des Stadtmuseums, um in die lokale Kultur einzutauchen. Der Vormittag steht im Zeichen der Geschichte und des Erbes der Stadt. Mittags stärken Sie sich mit einem traditionellen portugiesischen Gericht, bevor Sie sich auf einen langen, aber lohnenden Spaziergang zum rustikalen Dorf Couce begeben. Der Nachmittag ist dem ländlichen Charme gewidmet, wo Sie durch Steinhäuser schlendern und die Zeit vergessen können. Beenden Sie den Tag bei der Santa Justa Ermitage, wo die Ruhe des Ortes und die Aussicht einen perfekten Abschluss für Ihre Entdeckungstour zu Fuß bieten.",
+        "hu": "Kezdje a napot Valongo szívében a főtemplom és a városi múzeum meglátogatásával, hogy elmerüljön a helyi kultúrában. A délelőtt a város történelmének és örökségének jegyében telik. Délben egy hagyományos portugál étellel erősítse meg magát, mielőtt egy hosszú, de hálás sétára indul a rusztikus Couce faluba. A délután a vidéki bájé, ahol kőházak között sétálhat, és megfeledkezhet az időről. A napot a Santa Justa kápolnánál fejezze be, ahol a hely békéje és a kilátás tökéletes lezárást nyújt a gyalogos felfedezőtúrának.",
+        "ro": "Începeți ziua în inima orașului Valongo cu o vizită la biserica principală și la muzeul municipal pentru a vă cufunda în cultura locală. Dimineața este dedicată istoriei și patrimoniului orașului. La prânz, realimentați-vă cu un preparat tradițional portughez înainte de a porni într-o plimbare lungă, dar plină de satisfacții, spre satul rustic Couce. După-amiaza este dedicată farmecului rural, unde vă puteți plimba printre case de piatră și pierde noțiunea timpului. Încheiați ziua la Schitul Santa Justa, unde liniștea locului și priveliștea oferă o încheiere perfectă pentru explorarea dumneavoastră pe jos.",
+        "en": "Start your day in the heart of Valongo with a visit to the main church and the municipal museum to immerse yourself in local culture. The morning is dedicated to the town's history and heritage. At noon, refuel with a traditional Portuguese dish before embarking on a long but rewarding walk to the rustic village of Couce. The afternoon is dedicated to rural charm, where you can wander among stone houses and lose track of time. End the day at the Santa Justa Hermitage, where the tranquility of the place and the view provide a perfect conclusion to your walking exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pão de Ló e Biscoitos de Valongo",
+            "tip": "Probieren Sie den lokalen Biskuitkuchen und die Kekse, ein süßes Erbe der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pão de Ló e Biscoitos de Valongo",
+            "tip": "Kóstolja meg a helyi piskótát és kekszeket, a város édes örökségét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pão de Ló e Biscoitos de Valongo",
+            "tip": "Gustați pandișpanul și biscuiții locali, o moștenire dulce a orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pão de Ló e Biscoitos de Valongo",
+            "tip": "Taste the local sponge cake and biscuits, a sweet heritage of the town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Ferreira in Couce",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer, um die Natur zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Ferreira folyó partja Couce-ban",
+            "tip": "Keressen egy csendes helyet a folyóparton, hogy élvezze a természetet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Ferreira în Couce",
+            "tip": "Găsiți un loc liniștit pe malul râului pentru a vă bucura de natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Ferreira River in Couce",
+            "tip": "Find a quiet spot by the riverbank to enjoy nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie die berühmten 'Biscoitos de Valongo' direkt von den Bäckern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásárolja meg a híres 'Biscoitos de Valongo'-t közvetlenül a pékektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați faimoșii 'Biscoitos de Valongo' direct de la brutari."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Buy the famous 'Biscoitos de Valongo' directly from the bakers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie sehr bequeme Wanderschuhe, da die Strecke zum Dorf Couce lang ist.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für den ländlichen Teil der Wanderung."
+        ],
+        "hu": [
+          "Viseljen nagyon kényelmes túracipőt, mivel az út Couce faluba hosszú.",
+          "Vigyen magával vizet és harapnivalót, különösen a túra vidéki szakaszára."
+        ],
+        "ro": [
+          "Purtați pantofi de mers foarte confortabili, deoarece traseul către satul Couce este lung.",
+          "Luați apă și gustări, mai ales pentru partea rurală a plimbării."
+        ],
+        "en": [
+          "Wear very comfortable walking shoes as the route to Couce village is long.",
+          "Bring water and snacks, especially for the rural part of the walk."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 21.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorf Couce",
+            "hu": "Couce faluja",
+            "ro": "Satul Couce",
+            "en": "Village of Couce"
+          },
+          "coords": [
+            -8.5145,
+            41.1685
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, solange Sie frisch sind. Erkunden Sie die engen Gassen, bevor Sie weiterradeln.",
+            "hu": "Kezdje itt, amíg még friss. Fedezze fel a szűk utcákat, mielőtt továbbteker.",
+            "ro": "Începeți aici cât sunteți proaspăt. Explorați străduțele înguste înainte de a pedala mai departe.",
+            "en": "Start here while you're fresh. Explore the narrow streets before cycling on."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiefermuseum",
+            "hu": "Palamúzeum",
+            "ro": "Muzeul Ardeziei",
+            "en": "Slate Museum"
+          },
+          "coords": [
+            -8.5301,
+            41.1952
+          ],
+          "category": "museums",
+          "arrive_at": "10:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Muss, um die Bergbaugeschichte zu verstehen, die die Landschaft und Kultur geprägt hat.",
+            "hu": "Kötelező látnivaló a tájat és kultúrát formáló bányászati történelem megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege istoria minieră care a modelat peisajul și cultura.",
+            "en": "A must-visit to understand the mining history that shaped the landscape and culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Paläozoischer Park von Valongo",
+            "hu": "Valongói Paleozoikumi Park",
+            "ro": "Parcul Paleozoic din Valongo",
+            "en": "Paleozoic Park of Valongo"
+          },
+          "coords": [
+            -8.525,
+            41.205
+          ],
+          "category": "natural features",
+          "arrive_at": "12:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und machen Sie eine kurze Wanderung, um einige der alten Felsformationen zu sehen.",
+            "hu": "Zárja le a kerékpárját, és tegyen egy rövid túrát, hogy megnézzen néhány ősi sziklaképződményt.",
+            "ro": "Încuiați-vă bicicleta și faceți o scurtă drumeție pentru a vedea unele dintre formațiunile stâncoase antice.",
+            "en": "Lock up your bike and take a short hike to see some of the ancient rock formations."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Parks",
+            "hu": "Ebéd a park közelében",
+            "ro": "Prânz lângă parc",
+            "en": "Lunch near the park"
+          },
+          "coords": [
+            -8.52,
+            41.2
+          ],
+          "category": "gastro",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Suchen Sie ein einfaches Café für ein stärkendes Mittagessen, bevor Sie zurück in die Stadt fahren.",
+            "hu": "Keressen egy egyszerű kávézót egy kiadós ebédhez, mielőtt visszateker a városba.",
+            "ro": "Căutați o cafenea simplă pentru un prânz consistent înainte de a vă întoarce în oraș.",
+            "en": "Look for a simple café for a hearty lunch before heading back to the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Matriz von Valongo",
+            "hu": "Valongói főtemplom",
+            "ro": "Biserica Matrice din Valongo",
+            "en": "Valongo Main Church"
+          },
+          "coords": [
+            -8.4965,
+            41.1862
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:48",
+          "stay_min": 30,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Moment der Ruhe nach einer langen Radtour.",
+            "hu": "Egy pillanatnyi nyugalom a hosszú kerékpártúra után.",
+            "ro": "Un moment de liniște după o plimbare lungă cu bicicleta.",
+            "en": "A moment of tranquility after a long bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum von Valongo",
+            "hu": "Valongo Városi Múzeum",
+            "ro": "Muzeul Municipal din Valongo",
+            "en": "Municipal Museum of Valongo"
+          },
+          "coords": [
+            -8.4958,
+            41.187
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Kekse und das Brot, die Sie später probieren können.",
+            "hu": "Tudjon meg többet a kekszekről és a kenyérről, amit később megkóstolhat.",
+            "ro": "Aflați despre biscuiții și pâinea pe care le puteți gusta mai târziu.",
+            "en": "Learn about the biscuits and bread you can try later."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke São Lázaro",
+            "hu": "São Lázaro híd",
+            "ro": "Podul São Lázaro",
+            "en": "São Lázaro Bridge"
+          },
+          "coords": [
+            -8.4988,
+            41.1845
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss Ihrer Radtour, der die städtischen und ländlichen Teile verbindet.",
+            "hu": "Szép lezárása a kerékpártúrának, összekötve a városi és vidéki részeket.",
+            "ro": "Un final frumos pentru turul cu bicicleta, legând părțile urbane de cele rurale.",
+            "en": "A nice end to your bike tour, linking the urban and rural parts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im charmanten Dorf Couce und führt Sie durch die Hügel zum Schiefermuseum, wo Sie in die Industriegeschichte eintauchen. Am Vormittag erkunden Sie die natürliche Schönheit des Paläozoischen Parks. Nach einem stärkenden Mittagessen radeln Sie zurück ins Zentrum von Valongo. Der Nachmittag ist der Erkundung des städtischen Kerns gewidmet, mit Besuchen der Hauptkirche und des Stadtmuseums, die einen Kontrast zur ländlichen Landschaft des Vormittags bilden. Beenden Sie Ihre Tour an der historischen Brücke São Lázaro, einem perfekten Ort, um über die abwechslungsreiche Landschaft nachzudenken, die Sie durchquert haben.",
+        "hu": "Kerékpártúrája a bájos Couce faluból indul, és a dombokon keresztül a Palamúzeumhoz vezet, ahol elmerülhet az ipartörténetben. A délelőttöt a Paleozoikumi Park természeti szépségeinek felfedezésével tölti. Egy kiadós ebéd után visszateker Valongo központjába. A délután a városi mag felfedezéséé, a főtemplom és a városi múzeum meglátogatásával, kontrasztot alkotva a délelőtti vidéki tájjal. A túrát a történelmi São Lázaro hídnál fejezze be, amely tökéletes hely arra, hogy elgondolkodjon a bejárt változatos tájon.",
+        "ro": "Turul cu bicicleta începe în satul fermecător Couce, ducându-vă prin dealuri până la Muzeul Ardeziei pentru o incursiune în istoria industrială. Dimineața este petrecută explorând frumusețea naturală a Parcului Paleozoic. După un prânz copios, pedalați înapoi în centrul orașului Valongo. După-amiaza este dedicată explorării nucleului urban, cu vizite la biserica principală și muzeul municipal, oferind un contrast cu peisajul rural de dimineață. Încheiați turul la podul istoric São Lázaro, un loc perfect pentru a reflecta asupra peisajului variat pe care l-ați străbătut.",
+        "en": "Your bike tour starts in the charming village of Couce, taking you through the hills to the Slate Museum for a dive into industrial history. The morning is spent exploring the natural beauty of the Paleozoic Park. After a hearty lunch, you'll cycle back to the center of Valongo. The afternoon is dedicated to exploring the urban core, with visits to the main church and municipal museum, providing a contrast to the morning's rural landscape. End your tour at the historic São Lázaro bridge, a perfect spot to reflect on the varied landscape you've traversed."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Regueifa de Valongo",
+            "tip": "Probieren Sie dieses ringförmige Brot, das oft bei lokalen Festen gegessen wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Regueifa de Valongo",
+            "tip": "Kóstolja meg ezt a gyűrű alakú kenyeret, amelyet gyakran fogyasztanak a helyi fesztiválokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Regueifa de Valongo",
+            "tip": "Încercați această pâine în formă de inel, adesea consumată la festivalurile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regueifa de Valongo",
+            "tip": "Try this ring-shaped bread, often eaten at local festivals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Santa Justa Hügel",
+            "tip": "Radfahren Sie auf den Hügel für eine atemberaubende Aussicht und einen Moment der Ruhe.",
+            "emoji": "🚵"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Santa Justa-domb",
+            "tip": "Tekerjen fel a dombra a lélegzetelállító kilátásért és egy pillanatnyi békéért.",
+            "emoji": "🚵"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Santa Justa",
+            "tip": "Pedalați până în vârful dealului pentru o priveliște uluitoare și un moment de pace.",
+            "emoji": "🚵"
+          }
+        ],
+        "en": [
+          {
+            "name": "Santa Justa Hill",
+            "tip": "Cycle up the hill for a breathtaking view and a moment of peace.",
+            "emoji": "🚵"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach handgefertigten Schieferartikeln als einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen kézzel készített palatárgyakat egyedi szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați articole artizanale din ardezie ca suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for handcrafted slate items as a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Route hat einige anspruchsvolle Anstiege; ein Mountainbike oder E-Bike wird empfohlen.",
+          "Überprüfen Sie die Öffnungszeiten des Schiefermuseums im Voraus."
+        ],
+        "hu": [
+          "Az útvonalon vannak kihívást jelentő emelkedők; mountain bike vagy e-bike ajánlott.",
+          "Ellenőrizze előre a Palamúzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Traseul are câteva urcări dificile; se recomandă o bicicletă de munte sau o bicicletă electrică.",
+          "Verificați în avans programul de funcționare al Muzeului Ardeziei."
+        ],
+        "en": [
+          "The route has some challenging climbs; a mountain bike or e-bike is recommended.",
+          "Check the opening hours of the Slate Museum in advance."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 34.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Paläozoischer Park von Valongo",
+            "hu": "Valongói Paleozoikumi Park",
+            "ro": "Parcul Paleozoic din Valongo",
+            "en": "Paleozoic Park of Valongo"
+          },
+          "coords": [
+            -8.525,
+            41.205
+          ],
+          "category": "natural features",
+          "arrive_at": "09:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hauptparkplatz. Dies ist Ihr erster Cluster. Beginnen Sie mit einer Wanderung.",
+            "hu": "Hajtson a fő parkolóhoz. Ez az első állomás-csoport. Kezdje egy túrával.",
+            "ro": "Conduceți la parcarea principală. Acesta este primul dvs. cluster. Începeți cu o drumeție.",
+            "en": "Drive to the main parking area. This is your first cluster. Start with a hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Sanatorium von Montalto (Außenansicht)",
+            "hu": "Montaltói Szanatórium (kívülről)",
+            "ro": "Sanatoriul din Montalto (vedere exterioară)",
+            "en": "Sanatorium of Montalto (exterior view)"
+          },
+          "coords": [
+            -8.528,
+            41.208
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:44",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus, um die imposante verlassene Struktur zu sehen. Betreten verboten.",
+            "hu": "Egy rövid séta a parkolóból, hogy megnézze a lenyűgöző elhagyatott épületet. Belépni tilos.",
+            "ro": "O scurtă plimbare de la parcare pentru a vedea structura impunătoare abandonată. Nu intrați.",
+            "en": "A short walk from the parking area to see the imposing abandoned structure. Do not enter."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorf Couce",
+            "hu": "Couce faluja",
+            "ro": "Satul Couce",
+            "en": "Village of Couce"
+          },
+          "coords": [
+            -8.5145,
+            41.1685
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Parken Sie am Dorfeingang und erkunden Sie die Steinhäuser zu Fuß.",
+            "hu": "Hajtson a második állomás-csoporthoz. Parkoljon a falu bejáratánál, és fedezze fel a kőházakat gyalog.",
+            "ro": "Conduceți la al doilea cluster. Parcați la intrarea în sat și explorați casele de piatră pe jos.",
+            "en": "Drive to the second cluster. Park at the village entrance and explore the stone houses on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermida de Santa Justa",
+            "hu": "Santa Justa kápolna",
+            "ro": "Schitul Santa Justa",
+            "en": "Hermitage of Santa Justa"
+          },
+          "coords": [
+            -8.518,
+            41.165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:26",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Dorf Couce aus. Die Aussicht ist die kleine Wanderung wert.",
+            "hu": "Rövid séta Couce falutól. A kilátás megéri a kis túrát.",
+            "ro": "O scurtă plimbare de la satul Couce. Priveliștea merită mica drumeție.",
+            "en": "A short walk from Couce village. The view is worth the small hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum von Valongo",
+            "hu": "Ebéd Valongo központjában",
+            "ro": "Prânz în centrul orașului Valongo",
+            "en": "Lunch in Valongo center"
+          },
+          "coords": [
+            -8.497,
+            41.188
+          ],
+          "category": "gastro",
+          "arrive_at": "13:17",
+          "stay_min": 90,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum dritten Cluster. Parken Sie im Stadtzentrum und genießen Sie ein ausgiebiges Mittagessen.",
+            "hu": "Hajtson a harmadik állomás-csoporthoz. Parkoljon a városközpontban, és élvezzen egy kiadós ebédet.",
+            "ro": "Conduceți la al treilea cluster. Parcați în centrul orașului și bucurați-vă de un prânz copios.",
+            "en": "Drive to the third cluster. Park in the town center and enjoy a leisurely lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Matriz von Valongo",
+            "hu": "Valongói főtemplom",
+            "ro": "Biserica Matrice din Valongo",
+            "en": "Valongo Main Church"
+          },
+          "coords": [
+            -8.4965,
+            41.1862
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen ein kurzer Spaziergang zur Hauptkirche der Stadt.",
+            "hu": "Ebéd után egy rövid séta a város főtemplomához.",
+            "ro": "După prânz, o scurtă plimbare până la biserica principală a orașului.",
+            "en": "A short walk after lunch to the town's main church."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum von Valongo",
+            "hu": "Valongo Városi Múzeum",
+            "ro": "Muzeul Municipal din Valongo",
+            "en": "Municipal Museum of Valongo"
+          },
+          "coords": [
+            -8.4958,
+            41.187
+          ],
+          "category": "museums",
+          "arrive_at": "15:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem tiefen Einblick in die lokale Geschichte und das Handwerk.",
+            "hu": "Zárja a napot a helyi történelem és kézművesség mélyebb megismerésével.",
+            "ro": "Încheiați ziua cu o incursiune profundă în istoria și meșteșugurile locale.",
+            "en": "End your day with a deep dive into local history and craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiefermuseum",
+            "hu": "Palamúzeum",
+            "ro": "Muzeul Ardeziei",
+            "en": "Slate Museum"
+          },
+          "coords": [
+            -8.5301,
+            41.1952
+          ],
+          "category": "museums",
+          "arrive_at": "17:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein letzter kurzer Abstecher mit dem Auto zu diesem wichtigen Museum, bevor der Tag zu Ende geht.",
+            "hu": "Egy utolsó rövid autós kitérő ehhez a fontos múzeumhoz, mielőtt a nap véget ér.",
+            "ro": "Un ultim ocol rapid cu mașina la acest muzeu important înainte de încheierea zilei.",
+            "en": "A final quick detour by car to this important museum before the day ends."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto im Paläozoischen Park, wo Sie die Natur und die nahegelegene verlassene Sanatoriumsarchitektur zu Fuß erkunden. Am Vormittag fahren Sie weiter zum rustikalen Dorf Couce, parken Ihr Auto und schlendern durch die Steingassen zur Santa Justa Ermitage. Nach einem Vormittag auf dem Land fahren Sie ins Zentrum von Valongo für ein wohlverdientes Mittagessen. Der Nachmittag ist einem Stadtrundgang gewidmet, bei dem Sie die Hauptkirche und das Stadtmuseum besuchen, alles in Gehweite von Ihrem Parkplatz aus. Ein letzter Ausflug mit dem Auto führt Sie zum Schiefermuseum und rundet einen Tag ab, der Natur, ländlichen Charme und städtische Kultur perfekt miteinander verbindet.",
+        "hu": "Kezdje a napot autóval a Paleozoikumi Parkban, ahol gyalogosan fedezi fel a természetet és a közeli elhagyatott szanatórium építészetét. A délelőtt folyamán továbbhajt a rusztikus Couce faluba, leparkolja az autóját, és a kőutcákon keresztül elsétál a Santa Justa kápolnához. A vidéken töltött délelőtt után Valongo központjába hajt egy jól megérdemelt ebédre. A délután a városi sétaé, meglátogatja a főtemplomot és a városi múzeumot, mindezt sétatávolságra a parkolótól. Egy utolsó autós kitérő a Palamúzeumhoz vezet, lezárva egy napot, amely tökéletesen ötvözi a természetet, a vidéki bájt és a városi kultúrát.",
+        "ro": "Începeți ziua cu mașina în Parcul Paleozoic, explorând pe jos natura și arhitectura abandonată a sanatoriului din apropiere. Dimineața, continuați spre satul rustic Couce, parcați mașina și plimbați-vă pe străzile de piatră până la Schitul Santa Justa. După o dimineață la țară, conduceți în centrul orașului Valongo pentru un prânz binemeritat. După-amiaza este dedicată unei plimbări urbane, vizitând biserica principală și muzeul municipal, toate la distanță de mers pe jos de parcare. O ultimă excursie cu mașina vă duce la Muzeul Ardeziei, încheind o zi care îmbină perfect natura, farmecul rural și cultura urbană.",
+        "en": "Start your day by car at the Paleozoic Park, exploring nature and the nearby abandoned sanatorium architecture on foot. In the morning, drive on to the rustic village of Couce, park your car, and stroll through the stone streets to the Santa Justa Hermitage. After a morning in the countryside, drive to the center of Valongo for a well-deserved lunch. The afternoon is dedicated to an urban walk, visiting the main church and the municipal museum, all within walking distance of your parking spot. A final car trip takes you to the Slate Museum, rounding off a day that perfectly combines nature, rural charm, and urban culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cabrito assado no forno de lenha",
+            "tip": "Gebratenes Zicklein aus dem Holzofen, eine herzhafte Spezialität der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cabrito assado no forno de lenha",
+            "tip": "Fatüzelésű kemencében sült gidapecsenye, egy kiadós helyi specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cabrito assado no forno de lenha",
+            "tip": "Ied prăjit la cuptor cu lemne, o specialitate consistentă a regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cabrito assado no forno de lenha",
+            "tip": "Roasted kid goat from a wood-fired oven, a hearty regional specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkte im Paläozoischen Park",
+            "tip": "Finden Sie einen ruhigen Pfad abseits der Hauptwege für einen Moment der Einsamkeit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof von Santa Justa",
+            "tip": "Die ruhige Umgebung der Ermitage ist perfekt zum Nachdenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópontok a Paleozoikumi Parkban",
+            "tip": "Keressen egy csendes ösvényt a főbb útvonalaktól távol egy magányos pillanatért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Santa Justa kápolna udvara",
+            "tip": "A kápolna csendes környezete tökéletes az elmélyülésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puncte de belvedere în Parcul Paleozoic",
+            "tip": "Găsiți o potecă liniștită departe de căile principale pentru un moment de singurătate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea bisericii Santa Justa",
+            "tip": "Împrejurimile liniștite ale schitului sunt perfecte pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoints in the Paleozoic Park",
+            "tip": "Find a quiet trail away from the main paths for a moment of solitude.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Churchyard of Santa Justa",
+            "tip": "The quiet surroundings of the hermitage are perfect for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Direktverkauf von Bäckereien",
+            "tip": "Kaufen Sie eine Schachtel der berühmten Kekse von Valongo als Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek közvetlen értékesítése",
+            "tip": "Vásároljon egy doboz híres Valongo kekszet ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare directă de la brutării",
+            "tip": "Cumpărați o cutie de biscuiți faimoși din Valongo ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Direct sale from bakeries",
+            "tip": "Buy a box of the famous Valongo biscuits as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie strategisch in den Clustern, um unnötige Wege zu vermeiden.",
+          "Ein GPS ist unerlässlich, um zwischen den abgelegenen Standorten wie Couce und dem Paläozoischen Park zu navigieren."
+        ],
+        "hu": [
+          "Parkoljon stratégiailag az állomás-csoportokban, hogy elkerülje a felesleges gyaloglást.",
+          "GPS elengedhetetlen a távoli helyszínek, mint Couce és a Paleozoikumi Park közötti navigációhoz."
+        ],
+        "ro": [
+          "Parcați strategic în clustere pentru a evita mersul inutil pe jos.",
+          "Un GPS este esențial pentru a naviga între locațiile îndepărtate precum Couce și Parcul Paleozoic."
+        ],
+        "en": [
+          "Park strategically in the clusters to avoid unnecessary walking.",
+          "A GPS is essential for navigating between the remote locations like Couce and the Paleozoic Park."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Matriz von Valongo",
+            "hu": "Valongói főtemplom",
+            "ro": "Biserica Matrice din Valongo",
+            "en": "Valongo Main Church"
+          },
+          "coords": [
+            -8.4965,
+            41.1862
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum. Beginnen Sie Ihren Tag mit diesem architektonischen Juwel.",
+            "hu": "Menjen busszal a központba. Kezdje a napot ezzel az építészeti gyöngyszemmel.",
+            "ro": "Luați un autobuz spre centru. Începeți ziua cu această bijuterie arhitecturală.",
+            "en": "Take a bus to the center. Start your day at this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum von Valongo",
+            "hu": "Valongo Városi Múzeum",
+            "ro": "Muzeul Municipal din Valongo",
+            "en": "Municipal Museum of Valongo"
+          },
+          "coords": [
+            -8.4958,
+            41.187
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche entfernt. Tauchen Sie tief in die lokale Geschichte ein.",
+            "hu": "Rövid séta a templomtól. Merüljön el mélyen a helyi történelemben.",
+            "ro": "La o scurtă plimbare de biserică. Pătrundeți adânc în istoria locală.",
+            "en": "A short walk from the church. Dive deep into the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            -8.497,
+            41.188
+          ],
+          "category": "gastro",
+          "arrive_at": "11:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die lokale Küche, bevor Sie den Bus zum nächsten Ziel nehmen.",
+            "hu": "Élvezze a helyi konyhát, mielőtt busszal indul a következő célponthoz.",
+            "ro": "Bucurați-vă de bucătăria locală înainte de a lua autobuzul spre următoarea destinație.",
+            "en": "Enjoy the local cuisine before taking the bus to the next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorf Couce",
+            "hu": "Couce faluja",
+            "ro": "Satul Couce",
+            "en": "Village of Couce"
+          },
+          "coords": [
+            -8.5145,
+            41.1685
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Couce. Genießen Sie die Fahrt aufs Land.",
+            "hu": "Menjen busszal Couce irányába. Élvezze a vidéki utazást.",
+            "ro": "Luați un autobuz spre Couce. Bucurați-vă de călătoria spre zona rurală.",
+            "en": "Take a bus towards Couce. Enjoy the ride to the countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermida de Santa Justa",
+            "hu": "Santa Justa kápolna",
+            "ro": "Schitul Santa Justa",
+            "en": "Hermitage of Santa Justa"
+          },
+          "coords": [
+            -8.518,
+            41.165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein friedlicher Spaziergang vom Dorf zur Ermitage mit herrlicher Aussicht.",
+            "hu": "Békés séta a faluból a kápolnához, csodálatos kilátással.",
+            "ro": "O plimbare liniștită de la sat la schit, cu vederi minunate.",
+            "en": "A peaceful walk from the village to the hermitage with lovely views."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiefermuseum",
+            "hu": "Palamúzeum",
+            "ro": "Muzeul Ardeziei",
+            "en": "Slate Museum"
+          },
+          "coords": [
+            -8.5301,
+            41.1952
+          ],
+          "category": "museums",
+          "arrive_at": "16:56",
+          "stay_min": 74,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen anderen Bus, um dieses faszinierende Museum zu erreichen und den Tag abzurunden.",
+            "hu": "Menjen egy másik busszal, hogy elérje ezt a lenyűgöző múzeumot, és lezárja a napot.",
+            "ro": "Luați un alt autobuz pentru a ajunge la acest muzeu fascinant pentru a încheia ziua.",
+            "en": "Take another bus to reach this fascinating museum to round off the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise beginnt mit einer Busfahrt ins Herz von Valongo. Der Vormittag ist dem städtischen Cluster gewidmet, wo Sie die Hauptkirche und das Museum zu Fuß erkunden, gefolgt von einem lokalen Mittagessen. Am Nachmittag bringt Sie ein weiterer Bus aufs Land zum malerischen Dorf Couce. Hier können Sie die rustikale Atmosphäre und die ruhige Santa Justa Ermitage bei einem Spaziergang genießen. Der Tag endet mit einer letzten Busfahrt zum Schiefermuseum, die einen umfassenden Überblick über das vielfältige Erbe von Valongo bietet, von seinem städtischen Zentrum bis zu seinen ländlichen Wurzeln und seiner industriellen Vergangenheit.",
+        "hu": "Utazása egy buszúttal kezdődik Valongo szívébe. A délelőtt a városi klaszteré, ahol gyalogosan fedezi fel a főtemplomot és a múzeumot, majd egy helyi ebédet fogyaszt el. Délután egy másik busz a festői Couce faluba viszi vidékre. Itt egy séta során élvezheti a rusztikus hangulatot és a csendes Santa Justa kápolnát. A nap egy utolsó buszúttal ér véget a Palamúzeumhoz, amely átfogó képet nyújt Valongo sokszínű örökségéről, a városi központtól a vidéki gyökerekig és az ipari múltig.",
+        "ro": "Călătoria dvs. începe cu o cursă cu autobuzul în inima orașului Valongo. Dimineața este dedicată clusterului urban, explorând pe jos biserica principală și muzeul, urmate de un prânz local. După-amiaza, un alt autobuz vă duce la țară, în pitorescul sat Couce. Aici, vă bucurați de atmosfera rustică și de liniștitul schit Santa Justa într-o plimbare. Ziua se încheie cu o ultimă călătorie cu autobuzul la Muzeul Ardeziei, oferind o imagine cuprinzătoare a patrimoniului divers al orașului Valongo, de la centrul său urban la rădăcinile sale rurale și trecutul industrial.",
+        "en": "Your journey begins with a bus ride into the heart of Valongo. The morning is dedicated to the urban cluster, exploring the main church and museum on foot, followed by a local lunch. In the afternoon, another bus takes you to the countryside, to the picturesque village of Couce. Here, you enjoy the rustic atmosphere and the tranquil Santa Justa Hermitage on a walk. The day concludes with a final bus trip to the Slate Museum, providing a comprehensive view of Valongo's diverse heritage, from its urban core to its rural roots and industrial past."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sopa Seca",
+            "tip": "Eine traditionelle 'trockene Suppe', eher ein herzhafter Brotpudding, einzigartig in der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sopa Seca",
+            "tip": "Egy hagyományos 'száraz leves', inkább egy sós kenyérpuding, amely egyedülálló a régióban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sopa Seca",
+            "tip": "O 'supă uscată' tradițională, mai degrabă o budincă de pâine savuroasă, unică în regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sopa Seca",
+            "tip": "A traditional 'dry soup', more like a savory bread pudding, unique to the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Zentrum",
+            "tip": "Machen Sie eine Pause auf einer Bank und beobachten Sie das lokale Leben, während Sie auf Ihren Bus warten.",
+            "emoji": "🏙️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a központban",
+            "tip": "Pihenjen meg egy padon, és figyelje a helyi életet, amíg a buszára vár.",
+            "emoji": "🏙️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în centru",
+            "tip": "Luați o pauză pe o bancă și priviți viața locală în timp ce așteptați autobuzul.",
+            "emoji": "🏙️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in the center",
+            "tip": "Take a break on a bench and watch the local life while waiting for your bus.",
+            "emoji": "🏙️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske in der Nähe von Bushaltestellen",
+            "tip": "Kaufen Sie Snacks oder ein lokales Gebäck für Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállók közelében",
+            "tip": "Vásároljon rágcsálnivalót vagy egy helyi péksüteményt az utazáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri lângă stațiile de autobuz",
+            "tip": "Cumpărați gustări sau un produs de patiserie local pentru călătoria dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks near bus stops",
+            "tip": "Purchase snacks or a local pastry for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar, um Geld zu sparen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere für Routen in ländliche Gebiete wie Couce."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha elérhető, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, különösen a vidéki területekre, mint Couce, közlekedő járatok esetében."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil, pentru a economisi bani.",
+          "Verificați în avans orarele autobuzelor, în special pentru rutele către zonele rurale precum Couce."
+        ],
+        "en": [
+          "Buy a daily bus pass if available to save money.",
+          "Check bus schedules in advance, especially for routes to rural areas like Couce."
+        ]
+      }
+    }
+  }
+}

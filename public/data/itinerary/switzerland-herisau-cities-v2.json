@@ -1,0 +1,1548 @@
+{
+  "city_id": "switzerland-herisau-cities-v2",
+  "anchor": {
+    "name": "Herisau",
+    "coords": [
+      47.385,
+      9.279
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Häuserzeile am Obstmarkt",
+            "hu": "Házsor a Gyümölcspiacon (Obstmarkt)",
+            "ro": "Șirul de case din Piața de Fructe (Obstmarkt)",
+            "en": "Row of houses at the Obstmarkt"
+          },
+          "coords": [
+            9.2795,
+            47.3862
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die verzierten Erker und die farbenfrohen Fassaden.",
+            "hu": "Csodálja meg a díszes erkélyeket és a színes homlokzatokat.",
+            "ro": "Admirați bovindourile ornamentate și fațadele colorate.",
+            "en": "Admire the ornate bay windows and colourful facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche St. Laurentius",
+            "hu": "Szent Lőrinc Református Templom",
+            "ro": "Biserica Reformată Sf. Laurențiu",
+            "en": "Reformed Church of St. Lawrence"
+          },
+          "coords": [
+            9.2788,
+            47.3868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf den spätgotischen Turm, das Wahrzeichen der Stadt.",
+            "hu": "Figyelje meg a késő gótikus tornyot, a város jelképét.",
+            "ro": "Observați turnul gotic târziu, emblema orașului.",
+            "en": "Look out for the late-Gothic tower, the town's landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Regierungsgebäude",
+            "hu": "Kormányzati Épület",
+            "ro": "Clădirea Guvernamentală",
+            "en": "Government Building"
+          },
+          "coords": [
+            9.2781,
+            47.3865
+          ],
+          "category": "famous-residences",
+          "arrive_at": "10:29",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schönes Fotomotiv zusammen mit der Kirche im Hintergrund.",
+            "hu": "Szép fotótéma a templommal a háttérben.",
+            "ro": "Un subiect frumos pentru fotografii, cu biserica în fundal.",
+            "en": "A beautiful photo opportunity with the church in the background."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Herisau",
+            "hu": "Herisau Múzeum",
+            "ro": "Muzeul Herisau",
+            "en": "Herisau Museum"
+          },
+          "coords": [
+            9.2801,
+            47.3845
+          ],
+          "category": "museums",
+          "arrive_at": "11:11",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die lokale Walser-Kultur und die Textilindustrie.",
+            "hu": "Tudjon meg többet a helyi Walser kultúráról és a textiliparról.",
+            "ro": "Aflați mai multe despre cultura locală Walser și industria textilă.",
+            "en": "Learn more about the local Walser culture and the textile industry."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Appenzellerland",
+            "hu": "Ebéd Appenzell vidékén",
+            "ro": "Prânz în regiunea Appenzell",
+            "en": "Lunch in the Appenzell region"
+          },
+          "coords": [
+            9.279,
+            47.385
+          ],
+          "category": "gastro",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie die Appenzeller Siedwurst mit Chäshörnli.",
+            "hu": "Kóstolja meg az Appenzeller Siedwurstot Chäshörnlivel.",
+            "ro": "Încercați Appenzeller Siedwurst cu Chäshörnli.",
+            "en": "Try the Appenzeller Siedwurst with Chäshörnli."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruine Rosenburg",
+            "hu": "Rosenburg várromja",
+            "ro": "Ruinele Rosenburg",
+            "en": "Rosenburg Ruins"
+          },
+          "coords": [
+            9.273,
+            47.38
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:51",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht über Herisau und das Appenzellerland.",
+            "hu": "Élvezze a kilátást Herisau-ra és Appenzell vidékére.",
+            "ro": "Bucurați-vă de vederea asupra Herisau și a regiunii Appenzell.",
+            "en": "Enjoy the view over Herisau and the Appenzell region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am lebhaften Obstmarkt, dem Herzen von Herisau. Schlendern Sie zur imposanten Kirche St. Laurentius und dem nahegelegenen Regierungsgebäude. Nach einem Einblick in die lokale Geschichte im Museum Herisau stärken Sie sich mit einem traditionellen Mittagessen. Der Nachmittag gehört einem Spaziergang zur Ruine Rosenburg, von wo aus Sie einen herrlichen Blick über die Stadt und die sanften Hügel des Appenzellerlandes genießen.",
+        "hu": "Kezdje a napot a nyüzsgő Gyümölcspiacon, Herisau szívében. Sétáljon el az impozáns Szent Lőrinc-templomhoz és a közeli Kormányzati Épülethez. Miután a Herisau Múzeumban bepillantást nyert a helyi történelembe, erősítse meg magát egy hagyományos ebéddel. A délután a Rosenburg várromjához tett sétáé, ahonnan csodálatos kilátás nyílik a városra és Appenzell lankás dombjaira.",
+        "ro": "Începeți ziua în vibranta Piață de Fructe, inima orașului Herisau. Plimbați-vă până la impunătoarea Biserică Sf. Laurențiu și clădirea guvernamentală din apropiere. După o incursiune în istoria locală la Muzeul Herisau, reîncărcați-vă bateriile cu un prânz tradițional. După-amiaza este dedicată unei plimbări la ruinele Rosenburg, de unde vă puteți bucura de o priveliște magnifică asupra orașului și a dealurilor domoale din Appenzell.",
+        "en": "Start your day at the lively Obstmarkt, the heart of Herisau. Stroll to the imposing St. Lawrence Church and the nearby Government Building. After a glimpse into local history at the Herisau Museum, refuel with a traditional lunch. The afternoon is for a walk to the Rosenburg ruins, from where you can enjoy a magnificent view over the town and the rolling hills of Appenzell."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Appenzeller Käse",
+            "tip": "Besuchen Sie eine lokale Käserei oder einen Markt, um den würzigen Käse zu probieren."
+          },
+          {
+            "name": "Appenzeller Biberli",
+            "tip": "Ein Lebkuchengebäck mit Mandelfüllung, perfekt als süßer Snack."
+          },
+          {
+            "name": "Chäshörnli mit Apfelmus",
+            "tip": "Ein klassisches Schweizer Gericht, Makkaroni mit Käse und Apfelmus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Appenzeller sajt",
+            "tip": "Látogasson el egy helyi sajtüzembe vagy piacra, hogy megkóstolja a fűszeres sajtot."
+          },
+          {
+            "name": "Appenzeller Biberli",
+            "tip": "Mandulával töltött mézeskalács, tökéletes édes snack."
+          },
+          {
+            "name": "Chäshörnli almapürével",
+            "tip": "Klasszikus svájci étel, sajtos makaróni almaszósszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Appenzeller",
+            "tip": "Vizitați o fabrică de brânzeturi locală sau o piață pentru a gusta brânza aromată."
+          },
+          {
+            "name": "Appenzeller Biberli",
+            "tip": "O turtă dulce umplută cu migdale, perfectă ca gustare dulce."
+          },
+          {
+            "name": "Chäshörnli cu piure de mere",
+            "tip": "Un fel de mâncare elvețian clasic, macaroane cu brânză și sos de mere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Appenzeller cheese",
+            "tip": "Visit a local cheese dairy or market to taste the spicy cheese."
+          },
+          {
+            "name": "Appenzeller Biberli",
+            "tip": "A gingerbread pastry with an almond filling, perfect as a sweet snack."
+          },
+          {
+            "name": "Chäshörnli with apple sauce",
+            "tip": "A classic Swiss dish, macaroni with cheese and apple sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang im Ebnet",
+            "tip": "Ein ruhiger Park, ideal für eine entspannte Pause im Grünen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht von der Ruine Rosenburg",
+            "tip": "Genießen Sie die Stille und den Panoramablick weit weg vom Stadtzentrum.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schwänkelberg",
+            "tip": "Ein kurzer Aufstieg für eine noch bessere Aussicht und absolute Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta az Ebnet parkban",
+            "tip": "Egy csendes park, ideális egy pihentető szünethez a zöldben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Rosenburg romoktól",
+            "tip": "Élvezze a csendet és a panorámát a városközponttól távol.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schwänkelberg",
+            "tip": "Egy rövid emelkedő a még jobb kilátásért és az abszolút nyugalomért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare în Parcul Ebnet",
+            "tip": "Un parc liniștit, ideal pentru o pauză relaxantă în natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliștea de la ruinele Rosenburg",
+            "tip": "Bucurați-vă de liniște și de panorama departe de centrul orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schwänkelberg",
+            "tip": "O urcare scurtă pentru o priveliște și mai bună și liniște absolută.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk in Ebnet Park",
+            "tip": "A quiet park, ideal for a relaxing break in the green.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Rosenburg ruins",
+            "tip": "Enjoy the silence and the panoramic view far from the city center.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schwänkelberg",
+            "tip": "A short climb for an even better view and absolute tranquility.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Kaufen Sie lokale Produkte wie Käse, Wurst und frisches Brot."
+          },
+          {
+            "name": "Appenzeller Biberli",
+            "tip": "Suchen Sie nach handgemachten Biberli in den lokalen Bäckereien als perfektes Souvenir."
+          },
+          {
+            "name": "Lokales Handwerk",
+            "tip": "In kleinen Läden finden sich oft handgeschnitzte Holzfiguren oder bestickte Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Vásároljon helyi termékeket, például sajtot, kolbászt és friss kenyeret."
+          },
+          {
+            "name": "Appenzeller Biberli",
+            "tip": "Keressen kézzel készített Biberlit a helyi pékségekben, tökéletes szuvenír."
+          },
+          {
+            "name": "Helyi kézművesség",
+            "tip": "Kis boltokban gyakran találhatók kézzel faragott fafigurák vagy hímzett textíliák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Cumpărați produse locale precum brânză, cârnați și pâine proaspătă."
+          },
+          {
+            "name": "Appenzeller Biberli",
+            "tip": "Căutați Biberli făcuți manual în brutăriile locale ca suvenir perfect."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "În magazinele mici puteți găsi adesea figurine din lemn sculptate manual sau textile brodate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly market",
+            "tip": "Buy local products like cheese, sausages and fresh bread."
+          },
+          {
+            "name": "Appenzeller Biberli",
+            "tip": "Look for handmade Biberli in the local bakeries as a perfect souvenir."
+          },
+          {
+            "name": "Local crafts",
+            "tip": "In small shops you can often find hand-carved wooden figures or embroidered textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt ist und sich am besten zu Fuß erkunden lässt.",
+          "Der Aufstieg zur Ruine Rosenburg ist etwas steil, aber die Aussicht ist es wert.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Die meisten Geschäfte schließen am Abend und sonntags früh."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont kompakt és a legjobban gyalog fedezhető fel.",
+          "A Rosenburg romjaihoz vezető út kissé meredek, de a kilátás megéri.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "A legtöbb üzlet este és vasárnap korán bezár."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este compact și cel mai bine se explorează pe jos.",
+          "Urcarea la ruinele Rosenburg este puțin abruptă, dar priveliștea merită.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "Majoritatea magazinelor se închid devreme seara și duminica."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city centre is compact and best explored on foot.",
+          "The climb to the Rosenburg ruins is a bit steep, but the view is worth it.",
+          "Check the museum's opening hours in advance.",
+          "Most shops close early in the evening and on Sundays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Häuserzeile am Obstmarkt",
+            "hu": "Házsor a Gyümölcspiacon (Obstmarkt)",
+            "ro": "Șirul de case din Piața de Fructe (Obstmarkt)",
+            "en": "Row of houses at the Obstmarkt"
+          },
+          "coords": [
+            9.2795,
+            47.3862
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour hier mit einem Kaffee in einem der charmanten Cafés.",
+            "hu": "Indítsa a túrát egy kávéval az egyik hangulatos kávézóban.",
+            "ro": "Începeți turul aici cu o cafea la una dintre cafenelele fermecătoare.",
+            "en": "Start your tour here with a coffee in one of the charming cafés."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche St. Laurentius & Regierungsgebäude",
+            "hu": "Szent Lőrinc Református Templom & Kormányzati Épület",
+            "ro": "Biserica Reformată Sf. Laurențiu & Clădirea Guvernamentală",
+            "en": "Reformed Church St. Lawrence & Government Building"
+          },
+          "coords": [
+            9.2788,
+            47.3868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie diese beiden eng beieinander liegenden Wahrzeichen zu Fuß.",
+            "hu": "Tegye le a biciklit, és fedezze fel ezt a két, egymáshoz közeli nevezetességet gyalog.",
+            "ro": "Parcați bicicleta și explorați pe jos aceste două repere apropiate.",
+            "en": "Park your bike and explore these two closely situated landmarks on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Herisau",
+            "hu": "Herisau Múzeum",
+            "ro": "Muzeul Herisau",
+            "en": "Herisau Museum"
+          },
+          "coords": [
+            9.2801,
+            47.3845
+          ],
+          "category": "museums",
+          "arrive_at": "10:24",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahrradständer sind in der Regel in der Nähe des Eingangs vorhanden.",
+            "hu": "A bejárat közelében általában vannak kerékpártárolók.",
+            "ro": "Suporturile pentru biciclete sunt de obicei disponibile lângă intrare.",
+            "en": "Bicycle racks are usually available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            9.279,
+            47.385
+          ],
+          "category": "gastro",
+          "arrive_at": "12:04",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein Restaurant mit einer Terrasse, um die frische Luft zu genießen.",
+            "hu": "Keressen egy teraszos éttermet, hogy élvezze a friss levegőt.",
+            "ro": "Căutați un restaurant cu terasă pentru a vă bucura de aerul proaspăt.",
+            "en": "Find a restaurant with a terrace to enjoy the fresh air."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruine Rosenburg",
+            "hu": "Rosenburg várromja",
+            "ro": "Ruinele Rosenburg",
+            "en": "Rosenburg Ruins"
+          },
+          "coords": [
+            9.273,
+            47.38
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:31",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der Anstieg ist eine kleine Herausforderung, aber die Aussicht belohnt die Mühe.",
+            "hu": "Az emelkedő egy kis kihívás, de a kilátás megéri a fáradozást.",
+            "ro": "Urcușul este o mică provocare, dar priveliștea răsplătește efortul.",
+            "en": "The climb is a bit of a challenge, but the view rewards the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Ebnet",
+            "hu": "Ebnet",
+            "ro": "Ebnet",
+            "en": "Ebnet"
+          },
+          "coords": [
+            9.288,
+            47.375
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Eine entspannte Fahrt durch den Park, ideal um die Beine nach dem Aufstieg zu lockern.",
+            "hu": "Egy pihentető tekerés a parkon keresztül, ideális a lábak lazítására a mászás után.",
+            "ro": "O plimbare relaxantă prin parc, ideală pentru a vă destinde picioarele după urcare.",
+            "en": "A relaxing ride through the park, ideal for loosening your legs after the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwänkelberg",
+            "hu": "Schwänkelberg",
+            "ro": "Schwänkelberg",
+            "en": "Schwänkelberg"
+          },
+          "coords": [
+            9.265,
+            47.395
+          ],
+          "category": "natural-features",
+          "arrive_at": "16:34",
+          "stay_min": 35,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Der beste Ort, um den Sonnenuntergang über dem Appenzellerland zu beobachten.",
+            "hu": "A legjobb hely a naplemente megtekintésére Appenzell felett.",
+            "ro": "Cel mai bun loc pentru a privi apusul peste regiunea Appenzell.",
+            "en": "The best place to watch the sunset over the Appenzell region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Obstmarkt. Erkunden Sie die historischen Wahrzeichen im Zentrum, bevor Sie im Museum in die Kultur eintauchen. Nach dem Mittagessen führt Sie die Route zur Ruine Rosenburg für eine fantastische Aussicht. Anschließend radeln Sie durch das grüne Ebnet und beenden den Tag mit einem Anstieg zum Schwänkelberg, um den Panoramablick in der Abendsonne zu genießen – ein perfekter Abschluss für eine aktive Tour.",
+        "hu": "Pattanjon biciklire és induljon a Gyümölcspiacról. Fedezze fel a központ történelmi nevezetességeit, mielőtt a múzeumban elmerülne a kultúrában. Ebéd után az útvonal a Rosenburg romjaihoz vezet egy fantasztikus kilátásért. Ezután tekerjen át a zöldellő Ebneten, és fejezze be a napot egy emelkedővel a Schwänkelbergre, hogy élvezze a panorámát az esti napsütésben – tökéletes lezárása egy aktív túrának.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața de Fructe. Explorați reperele istorice din centru înainte de a vă cufunda în cultură la muzeu. După prânz, traseul vă duce la ruinele Rosenburg pentru o priveliște fantastică. Apoi pedalați prin parcul verde Ebnet și încheiați ziua cu o urcare la Schwänkelberg pentru a vă bucura de panorama în soarele serii - un final perfect pentru un tur activ.",
+        "en": "Get on your bike and start at the Obstmarkt. Explore the historic landmarks in the center before immersing yourself in culture at the museum. After lunch, the route takes you to the Rosenburg ruins for a fantastic view. Then cycle through the green Ebnet and end the day with a climb to Schwänkelberg to enjoy the panoramic view in the evening sun - a perfect end to an active tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Appenzeller Siedwurst",
+            "tip": "Ein Muss für Fleischliebhaber, oft an Imbissständen oder in lokalen Metzgern erhältlich."
+          },
+          {
+            "name": "Mostbröckli",
+            "tip": "Geräuchertes Rindfleisch, ideal für ein Picknick unterwegs."
+          },
+          {
+            "name": "Alpenkräutertee",
+            "tip": "Ein erfrischender, lokal hergestellter Tee zur Stärkung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Appenzeller Siedwurst",
+            "tip": "Húsrajongóknak kötelező, gyakran kapható standoknál vagy helyi henteseknél."
+          },
+          {
+            "name": "Mostbröckli",
+            "tip": "Füstölt marhahús, ideális egy útközbeni piknikhez."
+          },
+          {
+            "name": "Alpesi gyógytea",
+            "tip": "Egy frissítő, helyben készült tea az erőnléthez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnat Appenzeller Siedwurst",
+            "tip": "O necesitate pentru iubitorii de carne, adesea disponibil la standuri de mâncare sau la măcelarii locale."
+          },
+          {
+            "name": "Mostbröckli",
+            "tip": "Carne de vită afumată, ideală pentru un picnic pe drum."
+          },
+          {
+            "name": "Ceai de ierburi alpine",
+            "tip": "Un ceai revigorant, produs local, pentru a vă reface puterile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Appenzeller Siedwurst sausage",
+            "tip": "A must for meat lovers, often available at food stalls or local butchers."
+          },
+          {
+            "name": "Mostbröckli",
+            "tip": "Smoked beef, ideal for a picnic on the go."
+          },
+          {
+            "name": "Alpine herb tea",
+            "tip": "A refreshing, locally made tea to invigorate you."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg entlang der Glatt",
+            "tip": "Folgen Sie dem Fluss für eine ruhige Fahrt abseits der Straßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waldwege um den Schwänkelberg",
+            "tip": "Verlieren Sie sich in den ruhigen Wäldern rund um den Aussichtspunkt.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Bank im Ebnet Park",
+            "tip": "Finden Sie eine abgeschiedene Bank und genießen Sie die Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti út a Glatt folyó mentén",
+            "tip": "Kövesse a folyót egy csendes tekeréshez az utaktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erdei utak a Schwänkelberg körül",
+            "tip": "Vesszen el a kilátó körüli csendes erdőkben.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Pad az Ebnet parkban",
+            "tip": "Találjon egy eldugott padot és élvezze a természetet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calea de pe malul râului Glatt",
+            "tip": "Urmați râul pentru o plimbare liniștită, departe de drumuri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poteci forestiere în jurul Schwänkelberg",
+            "tip": "Pierdeți-vă în pădurile liniștite din jurul punctului de belvedere.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Bancă în parcul Ebnet",
+            "tip": "Găsiți o bancă retrasă și bucurați-vă de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Path along the river Glatt",
+            "tip": "Follow the river for a quiet ride away from the roads.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Forest trails around Schwänkelberg",
+            "tip": "Get lost in the quiet forests around the viewpoint.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Bench in Ebnet Park",
+            "tip": "Find a secluded bench and enjoy nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für eventuelle Reparaturen oder um lokale Radkarten zu erhalten."
+          },
+          {
+            "name": "Hofladen",
+            "tip": "Halten Sie Ausschau nach Hofläden auf dem Land, um frische Produkte direkt vom Bauernhof zu kaufen."
+          },
+          {
+            "name": "Sportgeschäft",
+            "tip": "Kaufen Sie funktionale Kleidung oder Ausrüstung für Ihre Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Esetleges javításokhoz vagy helyi kerékpáros térképek beszerzéséhez."
+          },
+          {
+            "name": "Tanyasi bolt",
+            "tip": "Keresse a tanyasi boltokat vidéken, hogy friss termékeket vásároljon közvetlenül a gazdaságból."
+          },
+          {
+            "name": "Sportbolt",
+            "tip": "Vásároljon funkcionális ruházatot vagy felszerelést a túrájához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru eventuale reparații sau pentru a obține hărți locale pentru ciclism."
+          },
+          {
+            "name": "Magazin de fermă",
+            "tip": "Fiți atenți la magazinele de la ferme din mediul rural pentru a cumpăra produse proaspete direct de la sursă."
+          },
+          {
+            "name": "Magazin de sport",
+            "tip": "Cumpărați îmbrăcăminte funcțională sau echipament pentru turul dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop",
+            "tip": "For any repairs or to get local cycling maps."
+          },
+          {
+            "name": "Farm shop",
+            "tip": "Look out for farm shops in the countryside to buy fresh produce directly from the farm."
+          },
+          {
+            "name": "Sports shop",
+            "tip": "Buy functional clothing or equipment for your tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege im Appenzellerland können hügelig sein, stellen Sie sich auf einige Anstiege ein.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie genügend Wasser und Snacks für unterwegs mit.",
+          "Achten Sie auf Wanderer, mit denen Sie sich die Wege teilen."
+        ],
+        "hu": [
+          "Az Appenzellerland útjai dombosak lehetnek, készüljön fel néhány emelkedőre.",
+          "Sisak viselése erősen ajánlott.",
+          "Vigyen magával elegendő vizet és harapnivalót az útra.",
+          "Figyeljen a túrázókra, akikkel megosztja az utakat."
+        ],
+        "ro": [
+          "Traseele din regiunea Appenzell pot fi deluroase, fiți pregătiți pentru câteva urcări.",
+          "Se recomandă insistent purtarea căștii de protecție.",
+          "Luați suficientă apă și gustări pentru drum.",
+          "Fiți atenți la drumeții cu care împărțiți potecile."
+        ],
+        "en": [
+          "The paths in the Appenzell region can be hilly, be prepared for some climbs.",
+          "A helmet is strongly recommended.",
+          "Take enough water and snacks with you for the journey.",
+          "Pay attention to hikers with whom you share the paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 16.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Altstadt: Parken & Häuserzeile am Obstmarkt",
+            "hu": "Óváros Klaszter: Parkolás és Házsor a Gyümölcspiacon",
+            "ro": "Cluster Centru Vechi: Parcare & Șirul de case din Piața de Fructe",
+            "en": "Old Town Cluster: Parking & Row of houses at Obstmarkt"
+          },
+          "coords": [
+            9.2798,
+            47.386
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Zentrums. Der Obstmarkt ist der perfekte Ausgangspunkt für Ihren Spaziergang.",
+            "hu": "Parkoljon a központ közelében. A Gyümölcspiac tökéletes kiindulópont a sétához.",
+            "ro": "Parcați în apropierea centrului. Piața de Fructe este punctul de plecare perfect pentru plimbarea dumneavoastră.",
+            "en": "Park near the center. The Obstmarkt is the perfect starting point for your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche St. Laurentius",
+            "hu": "Szent Lőrinc Református Templom",
+            "ro": "Biserica Reformată Sf. Laurențiu",
+            "en": "Reformed Church of St. Lawrence"
+          },
+          "coords": [
+            9.2788,
+            47.3868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Obstmarkt aus.",
+            "hu": "Egy rövid séta a Gyümölcspiacról.",
+            "ro": "O scurtă plimbare de la Piața de Fructe.",
+            "en": "A short walk from the Obstmarkt."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Herisau",
+            "hu": "Herisau Múzeum",
+            "ro": "Muzeul Herisau",
+            "en": "Herisau Museum"
+          },
+          "coords": [
+            9.2801,
+            47.3845
+          ],
+          "category": "museums",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal, um mehr über die reiche Geschichte der Region zu erfahren.",
+            "hu": "Ideális, hogy többet megtudjon a régió gazdag történelméről.",
+            "ro": "Ideal pentru a afla mai multe despre istoria bogată a regiunii.",
+            "en": "Ideal for learning more about the rich history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Centrul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            9.279,
+            47.385
+          ],
+          "category": "gastro",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kehren Sie zum Auto zurück und genießen Sie ein herzhaftes Mittagessen, bevor Sie weiterfahren.",
+            "hu": "Térjen vissza az autóhoz és fogyasszon el egy kiadós ebédet, mielőtt továbbhajtana.",
+            "ro": "Întoarceți-vă la mașină și savurați un prânz copios înainte de a continua drumul.",
+            "en": "Return to the car and enjoy a hearty lunch before driving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Ruinen: Ruine Rosenburg",
+            "hu": "Romok Klaszter: Rosenburg várromja",
+            "ro": "Cluster Ruine: Ruinele Rosenburg",
+            "en": "Ruins Cluster: Rosenburg Ruins"
+          },
+          "coords": [
+            9.273,
+            47.38
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:02",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz bei der Ruine. Der kurze Spaziergang nach oben bietet eine tolle Aussicht.",
+            "hu": "Hajtson a romok melletti parkolóba. A rövid séta felfelé remek kilátást nyújt.",
+            "ro": "Conduceți până la parcarea de lângă ruine. Scurta plimbare până sus oferă o priveliște minunată.",
+            "en": "Drive to the car park near the ruins. The short walk up offers a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Zeughaus",
+            "hu": "Régi Fegyvertár",
+            "ro": "Vechiul Arsenal",
+            "en": "Old Armoury"
+          },
+          "coords": [
+            9.275,
+            47.382
+          ],
+          "category": "theatres/cultural-centres",
+          "arrive_at": "14:58",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Ruine, um einen Blick auf das historische Kulturzentrum zu werfen.",
+            "hu": "Egy rövid séta a romoktól, hogy megnézze a történelmi kulturális központot.",
+            "ro": "O scurtă plimbare de la ruine pentru a arunca o privire la centrul cultural istoric.",
+            "en": "A short walk from the ruins to take a look at the historic cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Natur: Schwänkelberg",
+            "hu": "Természet Klaszter: Schwänkelberg",
+            "ro": "Cluster Natură: Schwänkelberg",
+            "en": "Nature Cluster: Schwänkelberg"
+          },
+          "coords": [
+            9.265,
+            47.395
+          ],
+          "category": "natural-features",
+          "arrive_at": "16:01",
+          "stay_min": 70,
+          "hop_mode": "car",
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum höchsten Punkt für einen unvergesslichen Panoramablick zum Abschluss des Tages.",
+            "hu": "Hajtson fel a legmagasabb pontra egy felejthetetlen panorámáért a nap végén.",
+            "ro": "Conduceți până la cel mai înalt punct pentru o panoramă de neuitat la sfârșitul zilei.",
+            "en": "Drive to the highest point for an unforgettable panoramic view to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Herisau beginnt mit dem Parken im Zentrum, um den historischen Kern rund um den Obstmarkt und die Kirche zu Fuß zu erkunden. Nach einem tiefen Einblick in die lokale Kultur im Museum, fahren Sie nach dem Mittagessen zur Ruine Rosenburg. Von dort aus ist es nur ein kurzer Spaziergang zum Alten Zeughaus. Den krönenden Abschluss bildet eine Fahrt auf den Schwänkelberg, wo Sie die Weite des Appenzellerlandes auf sich wirken lassen können.",
+        "hu": "Autós napja Herisau-ban a központban való parkolással kezdődik, hogy gyalog fedezze fel a történelmi magot a Gyümölcspiac és a templom körül. Miután a múzeumban mély betekintést nyert a helyi kultúrába, ebéd után hajtson el a Rosenburg romjaihoz. Onnan csak egy rövid séta a Régi Fegyvertár. A nap megkoronázásaként hajtson fel a Schwänkelbergre, ahol magába szívhatja Appenzell vidékének tágasságát.",
+        "ro": "Ziua dumneavoastră cu mașina în Herisau începe cu parcarea în centru pentru a explora pe jos nucleul istoric din jurul Pieței de Fructe și a bisericii. După o incursiune profundă în cultura locală la muzeu, conduceți după prânz la ruinele Rosenburg. De acolo, este doar o scurtă plimbare până la Vechiul Arsenal. Punctul culminant este o călătorie cu mașina până la Schwänkelberg, unde puteți admira întinderea regiunii Appenzell.",
+        "en": "Your car day in Herisau starts with parking in the center to explore the historic core around the Obstmarkt and the church on foot. After a deep dive into local culture at the museum, drive to the Rosenburg ruins after lunch. From there, it's just a short walk to the Old Armoury. The grand finale is a drive up to Schwänkelberg, where you can take in the vastness of the Appenzell region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant mit Aussicht",
+            "tip": "Suchen Sie ein Gasthaus in den Hügeln für ein Mittagessen mit Panoramablick."
+          },
+          {
+            "name": "Appenzeller Bier",
+            "tip": "Probieren Sie das lokale Bier, das für seinen einzigartigen Geschmack bekannt ist."
+          },
+          {
+            "name": "Zwiebel-Käse-Wähe",
+            "tip": "Ein herzhafter Kuchen, der oft auf Märkten oder in Bäckereien verkauft wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem kilátással",
+            "tip": "Keressen egy vendéglőt a dombokon egy panorámás ebédhez."
+          },
+          {
+            "name": "Appenzeller sör",
+            "tip": "Kóstolja meg a helyi sört, amely egyedi ízéről ismert."
+          },
+          {
+            "name": "Hagymás-sajtos pite (Wähe)",
+            "tip": "Egy sós sütemény, amelyet gyakran piacokon vagy pékségekben árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant cu priveliște",
+            "tip": "Căutați un han pe dealuri pentru un prânz cu vedere panoramică."
+          },
+          {
+            "name": "Berea Appenzeller",
+            "tip": "Încercați berea locală, cunoscută pentru gustul său unic."
+          },
+          {
+            "name": "Tartă cu ceapă și brânză (Wähe)",
+            "tip": "O plăcintă sărată, vândută adesea în piețe sau brutării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant with a view",
+            "tip": "Look for a hillside inn for lunch with a panoramic view."
+          },
+          {
+            "name": "Appenzeller beer",
+            "tip": "Try the local beer, known for its unique taste."
+          },
+          {
+            "name": "Onion and cheese tart (Wähe)",
+            "tip": "A savory tart often sold at markets or in bakeries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt durch die Appenzeller Hügel",
+            "tip": "Nehmen Sie sich Zeit für die Fahrt zwischen den Clustern und genießen Sie die Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Picknickplatz am Ebnet",
+            "tip": "Ein idealer Ort für eine ruhige Pause in der Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Schwänkelberg",
+            "tip": "Der perfekte Ort, um den Tag in Stille ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás az Appenzeller dombokon",
+            "tip": "Szánjon időt a klaszterek közötti útra, és élvezze a tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piknikezőhely az Ebnetnél",
+            "tip": "Ideális hely egy csendes szünetre a természetben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Schwänkelbergen",
+            "tip": "A tökéletes hely a nap csendes lezárásához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu mașina prin dealurile Appenzell",
+            "tip": "Luați-vă timp pentru drumul între clustere și bucurați-vă de peisaj.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Loc de picnic la Ebnet",
+            "tip": "Un loc ideal pentru o pauză liniștită în natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare la Schwänkelberg",
+            "tip": "Locul perfect pentru a încheia ziua în liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive through the Appenzell hills",
+            "tip": "Take your time driving between the clusters and enjoy the scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Picnic spot at Ebnet",
+            "tip": "An ideal place for a quiet break in nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at Schwänkelberg",
+            "tip": "The perfect place to end the day in silence.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käserei-Shop",
+            "tip": "Kaufen Sie den berühmten Appenzeller Käse direkt vom Hersteller."
+          },
+          {
+            "name": "Manufaktur für Holzschnitzereien",
+            "tip": "Einzigartige Souvenirs und Geschenke aus der Region."
+          },
+          {
+            "name": "Weberei-Museumsshop",
+            "tip": "Finden Sie hochwertige Textilien und Stoffe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajtüzem boltja",
+            "tip": "Vásárolja meg a híres Appenzeller sajtot közvetlenül a gyártótól."
+          },
+          {
+            "name": "Fafaragó manufaktúra",
+            "tip": "Egyedi szuvenírek és ajándékok a régióból."
+          },
+          {
+            "name": "Szövőmúzeum boltja",
+            "tip": "Találjon kiváló minőségű textíliákat és anyagokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fabricii de brânzeturi",
+            "tip": "Cumpărați faimoasa brânză Appenzeller direct de la producător."
+          },
+          {
+            "name": "Atelier de sculptură în lemn",
+            "tip": "Suveniruri și cadouri unice din regiune."
+          },
+          {
+            "name": "Magazinul muzeului de țesături",
+            "tip": "Găsiți textile și țesături de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese dairy shop",
+            "tip": "Buy the famous Appenzeller cheese directly from the producer."
+          },
+          {
+            "name": "Wood carving workshop",
+            "tip": "Unique souvenirs and gifts from the region."
+          },
+          {
+            "name": "Weaving museum shop",
+            "tip": "Find high-quality textiles and fabrics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkmöglichkeiten im Zentrum können begrenzt sein, nutzen Sie ausgewiesene Parkhäuser.",
+          "Planen Sie genügend Zeit für die Fahrten zwischen den Sehenswürdigkeiten ein.",
+          "Eine Vignette ist für die Nutzung der Schweizer Autobahnen erforderlich.",
+          "Die Straßen in den Hügeln können eng und kurvig sein, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "A parkolási lehetőségek a központban korlátozottak lehetnek, használja a kijelölt parkolóházakat.",
+          "Tervezzen elegendő időt a látnivalók közötti utazásokra.",
+          "A svájci autópályák használatához matrica szükséges.",
+          "A dombokon az utak szűkek és kanyargósak lehetnek, vezessen óvatosan."
+        ],
+        "ro": [
+          "Locurile de parcare din centru pot fi limitate, folosiți parcările desemnate.",
+          "Planificați suficient timp pentru călătoriile între obiectivele turistice.",
+          "Este necesară o vignetă pentru utilizarea autostrăzilor elvețiene.",
+          "Drumurile de pe dealuri pot fi înguste și sinuoase, conduceți cu prudență."
+        ],
+        "en": [
+          "Parking in the center can be limited, use designated car parks.",
+          "Allow enough time for the journeys between the sights.",
+          "A vignette is required to use the Swiss motorways.",
+          "The roads in the hills can be narrow and winding, drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof & Spaziergang zum Obstmarkt",
+            "hu": "Érkezés a pályaudvarra és séta a Gyümölcspiacra",
+            "ro": "Sosire la gară și plimbare până la Piața de Fructe",
+            "en": "Arrival at the station & walk to the Obstmarkt"
+          },
+          "coords": [
+            9.283,
+            47.387
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof Herisau ist es nur ein kurzer Spaziergang ins historische Zentrum.",
+            "hu": "Herisau pályaudvaráról csak egy rövid séta a történelmi központ.",
+            "ro": "De la gara Herisau este doar o scurtă plimbare până în centrul istoric.",
+            "en": "From Herisau station it is only a short walk to the historic centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche & Regierungsgebäude",
+            "hu": "Református Templom & Kormányzati Épület",
+            "ro": "Biserica Reformată & Clădirea Guvernamentală",
+            "en": "Reformed Church & Government Building"
+          },
+          "coords": [
+            9.2788,
+            47.3868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen liegen direkt nebeneinander und sind leicht zu Fuß zu erreichen.",
+            "hu": "Ez a két nevezetesség közvetlenül egymás mellett található és könnyen megközelíthető gyalog.",
+            "ro": "Aceste două repere sunt situate chiar unul lângă celălalt și sunt ușor accesibile pe jos.",
+            "en": "These two landmarks are located right next to each other and are easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Herisau",
+            "hu": "Herisau Múzeum",
+            "ro": "Muzeul Herisau",
+            "en": "Herisau Museum"
+          },
+          "coords": [
+            9.2801,
+            47.3845
+          ],
+          "category": "museums",
+          "arrive_at": "10:47",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss für jeden, der sich für die lokale Geschichte und Kultur interessiert.",
+            "hu": "Mindenki számára kötelező, aki érdeklődik a helyi történelem és kultúra iránt.",
+            "ro": "O necesitate pentru oricine este interesat de istoria și cultura locală.",
+            "en": "A must for anyone interested in local history and culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            9.279,
+            47.385
+          ],
+          "category": "gastro",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die lokale Küche in einem der vielen Restaurants im Zentrum.",
+            "hu": "Élvezze a helyi konyhát a központ számos éttermének egyikében.",
+            "ro": "Bucurați-vă de bucătăria locală la unul dintre numeroasele restaurante din centru.",
+            "en": "Enjoy the local cuisine in one of the many restaurants in the centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Ruine Rosenburg",
+            "hu": "Utazás a Rosenburg romjaihoz",
+            "ro": "Călătorie la Ruinele Rosenburg",
+            "en": "Trip to the Rosenburg Ruins"
+          },
+          "coords": [
+            9.273,
+            47.38
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:28",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, der Sie in die Nähe der Ruine bringt. Prüfen Sie den Fahrplan im Voraus.",
+            "hu": "Vegyen egy helyi buszt, amely a romok közelébe visz. Előre ellenőrizze a menetrendet.",
+            "ro": "Luați un autobuz local care vă va duce în apropierea ruinelor. Verificați programul în avans.",
+            "en": "Take a local bus that will take you near the ruins. Check the schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Park Ebnet",
+            "hu": "Séta az Ebnet parkban",
+            "ro": "Plimbare în Parcul Ebnet",
+            "en": "Walk in Ebnet Park"
+          },
+          "coords": [
+            9.288,
+            47.375
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:04",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages in der grünen Lunge der Stadt.",
+            "hu": "A nap pihentető lezárása a város zöld tüdejében.",
+            "ro": "Un final relaxant al zilei în plămânul verde al orașului.",
+            "en": "A relaxing end to the day in the city's green lung."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln startet am Bahnhof Herisau. Erkunden Sie den historischen Stadtkern zu Fuß, vom Obstmarkt über die Kirche bis zum Museum. Nach einem stärkenden Mittagessen bringt Sie ein Bus zur Ruine Rosenburg, wo Sie die Aussicht genießen. Eine weitere kurze Busfahrt führt Sie zum Park Ebnet, wo Sie den Tag bei einem entspannten Spaziergang ausklingen lassen können, bevor Sie zum Bahnhof zurückkehren.",
+        "hu": "Tömegközlekedési túrája a herisaui pályaudvarról indul. Fedezze fel gyalog a történelmi városmagot, a Gyümölcspiactól a templomon át a múzeumig. Egy kiadós ebéd után egy busz visz el a Rosenburg romjaihoz, ahol élvezheti a kilátást. Egy másik rövid buszút az Ebnet parkba vezet, ahol egy pihentető sétával zárhatja a napot, mielőtt visszatérne a pályaudvarra.",
+        "ro": "Turul dvs. cu transportul public începe de la gara Herisau. Explorați centrul istoric pe jos, de la Piața de Fructe la biserică și muzeu. După un prânz copios, un autobuz vă va duce la ruinele Rosenburg, unde vă puteți bucura de priveliște. O altă călătorie scurtă cu autobuzul vă duce la Parcul Ebnet, unde puteți încheia ziua cu o plimbare relaxantă înainte de a vă întoarce la gară.",
+        "en": "Your public transport tour starts at Herisau station. Explore the historic town centre on foot, from the Obstmarkt to the church and the museum. After a hearty lunch, a bus will take you to the Rosenburg ruins, where you can enjoy the view. Another short bus ride takes you to Ebnet Park, where you can end the day with a relaxing walk before returning to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei-Café",
+            "tip": "Ein schneller Kaffee und ein Biberli für zwischendurch."
+          },
+          {
+            "name": "Gasthof im Zentrum",
+            "tip": "Probieren Sie traditionelle Appenzeller Gerichte in einem gemütlichen Ambiente."
+          },
+          {
+            "name": "Take-away Wurststand",
+            "tip": "Für eine schnelle und authentische Stärkung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség-kávézó",
+            "tip": "Egy gyors kávé és egy Biberli útközben."
+          },
+          {
+            "name": "Vendéglő a központban",
+            "tip": "Kóstolja meg a hagyományos appenzelli ételeket egy hangulatos környezetben."
+          },
+          {
+            "name": "Elviteles kolbászstand",
+            "tip": "Egy gyors és autentikus harapnivalóért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea-brutărie",
+            "tip": "O cafea rapidă și un Biberli pentru drum."
+          },
+          {
+            "name": "Han în centru",
+            "tip": "Încercați mâncăruri tradiționale din Appenzell într-o atmosferă primitoare."
+          },
+          {
+            "name": "Stand de cârnați la pachet",
+            "tip": "Pentru o gustare rapidă și autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery-café",
+            "tip": "A quick coffee and a Biberli for on the go."
+          },
+          {
+            "name": "Inn in the centre",
+            "tip": "Try traditional Appenzell dishes in a cosy atmosphere."
+          },
+          {
+            "name": "Take-away sausage stand",
+            "tip": "For a quick and authentic snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leseecke im Museum",
+            "tip": "Finden Sie einen ruhigen Ort, um tiefer in die Exponate einzutauchen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Friedhof bei der Kirche St. Laurentius",
+            "tip": "Ein Ort der Stille und Besinnung im Herzen der Stadt.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Abgelegene Wege im Ebnet",
+            "tip": "Entfliehen Sie dem Trubel auf den weniger begangenen Pfaden des Parks.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasósarok a múzeumban",
+            "tip": "Találjon egy csendes helyet, hogy mélyebben elmerüljön a kiállítási tárgyakban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Temető a Szent Lőrinc templomnál",
+            "tip": "A csend és az elmélkedés helye a város szívében.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Eldugott utak az Ebnet parkban",
+            "tip": "Meneküljön el a nyüzsgés elől a park kevésbé járt ösvényein.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colț de lectură în muzeu",
+            "tip": "Găsiți un loc liniștit pentru a aprofunda exponatele.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cimitirul de lângă Biserica Sf. Laurențiu",
+            "tip": "Un loc de liniște și contemplare în inima orașului.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Cărări retrase în Parcul Ebnet",
+            "tip": "Evadați din agitație pe potecile mai puțin circulate ale parcului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading corner in the museum",
+            "tip": "Find a quiet place to delve deeper into the exhibits.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cemetery at St. Lawrence's Church",
+            "tip": "A place of silence and contemplation in the heart of the city.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Secluded paths in Ebnet Park",
+            "tip": "Escape the hustle and bustle on the park's less-trodden paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Kaufen Sie eine Tageskarte für den öffentlichen Verkehr und eventuell einen Reiseführer."
+          },
+          {
+            "name": "Souvenirladen im Zentrum",
+            "tip": "Finden Sie Postkarten und kleine Andenken an Ihren Besuch."
+          },
+          {
+            "name": "Drogerie",
+            "tip": "Für alle notwendigen Reiseartikel, die Sie vergessen haben könnten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a pályaudvaron",
+            "tip": "Vásároljon napijegyet a tömegközlekedéshez és esetleg egy útikönyvet."
+          },
+          {
+            "name": "Szuvenírbolt a központban",
+            "tip": "Találjon képeslapokat és apró emléktárgyakat a látogatásáról."
+          },
+          {
+            "name": "Drogéria",
+            "tip": "Minden szükséges utazási cikkért, amit esetleg elfelejtett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Cumpărați un bilet de o zi pentru transportul public și, eventual, un ghid turistic."
+          },
+          {
+            "name": "Magazin de suveniruri în centru",
+            "tip": "Găsiți cărți poștale și mici amintiri ale vizitei dumneavoastră."
+          },
+          {
+            "name": "Farmacie",
+            "tip": "Pentru orice articole de călătorie necesare pe care le-ați fi putut uita."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the station",
+            "tip": "Buy a day ticket for public transport and possibly a travel guide."
+          },
+          {
+            "name": "Souvenir shop in the centre",
+            "tip": "Find postcards and small mementos of your visit."
+          },
+          {
+            "name": "Drugstore",
+            "tip": "For any necessary travel items you may have forgotten."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Informieren Sie sich im Voraus über die Busfahrpläne, insbesondere für Fahrten außerhalb des Zentrums.",
+          "Laden Sie die App des lokalen Verkehrsverbunds für Echtzeit-Informationen herunter.",
+          "Planen Sie Pufferzeiten für eventuelle Verspätungen ein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Előre tájékozódjon a buszmenetrendekről, különösen a központon kívüli utazásokhoz.",
+          "Töltse le a helyi közlekedési vállalat alkalmazását a valós idejű információkért.",
+          "Tervezzen pufferidőt az esetleges késésekre."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Informați-vă în avans despre orarele autobuzelor, în special pentru călătoriile în afara centrului.",
+          "Descărcați aplicația companiei locale de transport public pentru informații în timp real.",
+          "Planificați timp suplimentar pentru eventualele întârzieri."
+        ],
+        "en": [
+          "Buy a day ticket for public transport to save money.",
+          "Find out in advance about the bus timetables, especially for journeys outside the centre.",
+          "Download the local public transport company's app for real-time information.",
+          "Plan for buffer times for possible delays."
+        ]
+      }
+    }
+  }
+}

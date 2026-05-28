@@ -1,0 +1,1481 @@
+{
+  "city_id": "poland-poznan-cities-v2",
+  "anchor": {
+    "name": "Posen",
+    "coords": [
+      16.9252,
+      52.4064
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Alter Markt",
+            "hu": "Régi Piactér (Stary Rynek)",
+            "ro": "Piața Veche (Stary Rynek)",
+            "en": "Old Market Square (Stary Rynek)"
+          },
+          "coords": [
+            16.9342,
+            52.4077
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie um 12:00 Uhr auf die kämpfenden Ziegenböcke am Rathaus.",
+            "hu": "Nézd meg a kecskék harcát a városházán délben!",
+            "ro": "Urmăriți caprele care se luptă la primărie la ora 12:00.",
+            "en": "Watch for the fighting goats at the Town Hall at 12:00 PM."
+          }
+        },
+        {
+          "name": {
+            "de": "Posener Rathaus",
+            "hu": "Poseni Városháza",
+            "ro": "Primăria din Poznań",
+            "en": "Poznań Town Hall"
+          },
+          "coords": [
+            16.9346,
+            52.4082
+          ],
+          "category": "landmark",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Innere beherbergt ein Museum über die Geschichte der Stadt.",
+            "hu": "Bent a város történetét bemutató múzeum található.",
+            "ro": "Interiorul găzduiește un muzeu despre istoria orașului.",
+            "en": "The interior houses a museum about the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Hörnchenmuseum",
+            "hu": "Szarvacska Múzeum (Rogalowe Muzeum)",
+            "ro": "Muzeul Croissantului (Rogalowe Muzeum)",
+            "en": "Croissant Museum (Rogalowe Muzeum)"
+          },
+          "coords": [
+            16.9338,
+            52.4085
+          ],
+          "category": "museums",
+          "arrive_at": "10:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einem Workshop teil und backen Sie Ihr eigenes St.-Martin-Hörnchen.",
+            "hu": "Vegyen részt egy workshopon és süsse meg a saját Szent Márton-kiflijét!",
+            "ro": "Participați la un atelier și coaceți propriul croissant St. Martin.",
+            "en": "Join a workshop to bake your own St. Martin's croissant."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Stanislaus",
+            "hu": "Szent Szaniszló Plébániatemplom",
+            "ro": "Biserica Parohială Sf. Stanislaus",
+            "en": "Parish Church of St. Stanislaus"
+          },
+          "coords": [
+            16.9355,
+            52.4065
+          ],
+          "category": "churches",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie ein Orgelkonzert, um die prächtige Akustik zu erleben.",
+            "hu": "Hallgasson meg egy orgonakoncertet, hogy megtapasztalja a csodálatos akusztikát.",
+            "ro": "Asistați la un concert de orgă pentru a experimenta acustica magnifică.",
+            "en": "Attend an organ concert to experience the magnificent acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostrów Tumski (Dominsel)",
+            "hu": "Ostrów Tumski (Katedrális-sziget)",
+            "ro": "Ostrów Tumski (Insula Catedralei)",
+            "en": "Ostrów Tumski (Cathedral Island)"
+          },
+          "coords": [
+            16.946,
+            52.41
+          ],
+          "category": "old-town",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Bischof-Jordan-Brücke für eine malerische Aussicht.",
+            "hu": "Menjen át a Jordán püspök hídon a festői kilátásért.",
+            "ro": "Traversați Podul Episcopului Jordan pentru o priveliște pitorească.",
+            "en": "Cross the Bishop Jordan Bridge for a picturesque view."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzkathedrale St. Peter und Paul",
+            "hu": "Szent Péter és Pál Főszékesegyház",
+            "ro": "Catedrala Sfinții Petru și Paul",
+            "en": "Archcathedral Basilica of St. Peter and St. Paul"
+          },
+          "coords": [
+            16.947,
+            52.4105
+          ],
+          "category": "churches",
+          "arrive_at": "14:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie in die Krypta hinab, um die Überreste der ersten polnischen Herrscher zu sehen.",
+            "hu": "Szálljon le a kriptába, hogy megnézze az első lengyel uralkodók maradványait.",
+            "ro": "Coborâți în criptă pentru a vedea rămășițele primilor conducători polonezi.",
+            "en": "Descend into the crypt to see the remains of the first Polish rulers."
+          }
+        },
+        {
+          "name": {
+            "de": "Citadel-Park",
+            "hu": "Citadella Park",
+            "ro": "Parcul Cetății",
+            "en": "Citadel Park"
+          },
+          "coords": [
+            16.93,
+            52.418
+          ],
+          "category": "parks",
+          "arrive_at": "15:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den „Unbekannten“ von Magdalena Abakanowicz, einer beeindruckenden Skulptureninstallation.",
+            "hu": "Keresse meg Magdalena Abakanowicz „Ismeretlenek” című lenyűgöző szoborcsoportját.",
+            "ro": "Căutați „Necunoscuții” de Magdalena Abakanowicz, o instalație sculpturală impresionantă.",
+            "en": "Look for the 'Unrecognized Ones' by Magdalena Abakanowicz, a stunning sculpture installation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem pulsierenden Alten Markt, wo Sie die berühmten Ziegen des Rathauses sehen. Nach einem süßen Intermezzo im Hörnchenmuseum besuchen Sie die barocke Pracht der Pfarrkirche. Am Nachmittag schlendern Sie über die Dominsel, dem Geburtsort der polnischen Nation, und erkunden die beeindruckende Kathedrale. Schließen Sie Ihren Tag mit einem entspannenden Spaziergang durch den weitläufigen Citadel-Park ab, ein Ort voller Geschichte und Kunst.",
+        "hu": "Kezdje a napot a nyüzsgő Régi Piactéren, ahol megnézheti a városháza híres kecskéit. Egy édes megálló után a Szarvacska Múzeumban, látogasson el a plébániatemplom barokk pompájához. Délután sétáljon át a Katedrális-szigetre, a lengyel nemzet szülőhelyére, és fedezze fel a lenyűgöző katedrálist. A napot egy pihentető sétával zárja a tágas Citadella Parkban, amely tele van történelemmel és művészettel.",
+        "ro": "Începeți ziua în Piața Veche vibrantă, unde puteți vedea celebrele capre ale Primăriei. După un interludiu dulce la Muzeul Croissantului, vizitați splendoarea barocă a Bisericii Parohiale. După-amiaza, plimbați-vă pe Insula Catedralei, locul de naștere al națiunii poloneze, și explorați impresionanta catedrală. Încheiați ziua cu o plimbare relaxantă prin vastul Parc al Cetății, un loc plin de istorie și artă.",
+        "en": "Start your day in the vibrant Old Market Square, witnessing the famous Town Hall goats. After a sweet interlude at the Croissant Museum, visit the baroque splendor of the Parish Church. In the afternoon, stroll over to Cathedral Island, the birthplace of the Polish nation, and explore the impressive cathedral. Conclude your day with a relaxing walk through the expansive Citadel Park, a place steeped in history and art."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rogal Świętomarciński",
+            "tip": "Ein mit Weißmohn und Nüssen gefülltes Croissant, ein lokales Muss."
+          },
+          {
+            "name": "Pyry z Gzikiem",
+            "tip": "Pellkartoffeln mit Hüttenkäse, Zwiebeln und Kräutern."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine traditionelle saure Roggensuppe, oft in einem Brotlaib serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Márton-kifli (Rogal Świętomarciński)",
+            "tip": "Fehér mákkal és dióval töltött kifli, helyi specialitás."
+          },
+          {
+            "name": "Pyry z Gzikiem",
+            "tip": "Héjában sült krumpli túróval, hagymával és fűszernövényekkel."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Hagyományos savanyú rozsleves, gyakran cipóban tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Croissantul Sf. Martin (Rogal Świętomarciński)",
+            "tip": "Un croissant umplut cu mac alb și nuci, o specialitate locală."
+          },
+          {
+            "name": "Pyry z Gzikiem",
+            "tip": "Cartofi în coajă cu brânză de vaci, ceapă și ierburi."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă tradițională acră de secară, adesea servită într-o pâine."
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Martin's Croissant (Rogal Świętomarciński)",
+            "tip": "A croissant filled with white poppy seeds and nuts, a local must-try."
+          },
+          {
+            "name": "Pyry z Gzikiem",
+            "tip": "Potatoes in their jackets served with cottage cheese, onion, and herbs."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A traditional sour rye soup, often served in a bread bowl."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Citadel-Park",
+            "tip": "Finden Sie eine ruhige Bank zwischen den alten Festungsanlagen. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer der Warthe",
+            "tip": "Ein Spaziergang entlang des Flusses bietet eine friedliche Pause von der Stadt. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ostrów Tumski am Abend",
+            "tip": "Die Insel ist nach Einbruch der Dunkelheit wunderschön beleuchtet und ruhig. 🌅",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citadella Park",
+            "tip": "Keressen egy csendes padot a régi erődítmények között. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Warta folyó partja",
+            "tip": "Egy séta a folyó mentén békés kikapcsolódást nyújt a város zajától. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ostrów Tumski este",
+            "tip": "A sziget sötétedés után gyönyörűen kivilágított és csendes. 🌅",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Cetății",
+            "tip": "Găsiți o bancă liniștită printre vechile fortificații. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Warta",
+            "tip": "O plimbare de-a lungul râului oferă o pauză pașnică de oraș. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ostrów Tumski seara",
+            "tip": "Insula este frumos luminată și liniștită după lăsarea întunericului. 🌅",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Citadel Park",
+            "tip": "Find a quiet bench among the old fortifications. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Warta River",
+            "tip": "A walk along the river offers a peaceful break from the city. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ostrów Tumski in the evening",
+            "tip": "The island is beautifully lit and quiet after dark. 🌅",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stary Browar",
+            "tip": "Ein preisgekröntes Einkaufszentrum in einer ehemaligen Brauerei."
+          },
+          {
+            "name": "Souvenirläden am Alten Markt",
+            "tip": "Kaufen Sie lokales Kunsthandwerk und die berühmten Ziegen-Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stary Browar",
+            "tip": "Díjnyertes bevásárlóközpont egy egykori sörfőzdében."
+          },
+          {
+            "name": "Ajándékboltok a Régi Piactéren",
+            "tip": "Vásároljon helyi kézműves termékeket és a híres kecskés ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stary Browar",
+            "tip": "Un centru comercial premiat într-o fostă fabrică de bere."
+          },
+          {
+            "name": "Magazine de suveniruri în Piața Veche",
+            "tip": "Cumpărați artizanat local și suveniruri cu celebrele capre."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stary Browar",
+            "tip": "An award-winning shopping center inside a former brewery."
+          },
+          {
+            "name": "Old Market Square Souvenir Shops",
+            "tip": "Shop for local handicrafts and the famous goat souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Viele Museen sind montags geschlossen, planen Sie entsprechend.",
+          "Halten Sie immer etwas Bargeld (Złoty) für kleine Einkäufe oder Trinkgelder bereit.",
+          "Nutzen Sie die kostenlosen Stadtpläne, die in Touristeninformationszentren erhältlich sind."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, az óvárosi macskakövek egyenetlenek lehetnek.",
+          "Sok múzeum zárva tart hétfőn, tervezzen ennek megfelelően.",
+          "Mindig legyen Önnél készpénz (Złoty) a kisebb vásárlásokhoz vagy borravalóhoz.",
+          "Használja az ingyenes várostérképeket, amelyek a turisztikai információs központokban kaphatók."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavelele din Centrul Vechi pot fi denivelate.",
+          "Multe muzee sunt închise lunea, planificați-vă vizita în consecință.",
+          "Aveți întotdeauna niște numerar (Złoty) pentru cumpărături mici sau bacșișuri.",
+          "Folosiți hărțile gratuite ale orașului disponibile la centrele de informare turistică."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the Old Town can be uneven.",
+          "Many museums are closed on Mondays, so plan accordingly.",
+          "Always have some cash (Złoty) on hand for small purchases or tips.",
+          "Take advantage of the free city maps available at tourist information centers."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Alter Markt & Rathaus",
+            "hu": "Régi Piactér és Városháza",
+            "ro": "Piața Veche și Primăria",
+            "en": "Old Market Square & Town Hall"
+          },
+          "coords": [
+            16.9342,
+            52.4077
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
+            "ro": "Încuiați-vă bicicleta în siguranță înainte de a explora piața.",
+            "en": "Lock your bike securely before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostrów Tumski & Kathedrale",
+            "hu": "Ostrów Tumski és Katedrális",
+            "ro": "Ostrów Tumski și Catedrala",
+            "en": "Ostrów Tumski & Cathedral"
+          },
+          "coords": [
+            16.946,
+            52.41
+          ],
+          "category": "old-town",
+          "arrive_at": "09:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Fahrt über die Brücke zur Insel.",
+            "hu": "Élvezze a nyugodt tekerést a hídon át a szigetre.",
+            "ro": "Bucurați-vă de plimbarea liniștită peste podul spre insulă.",
+            "en": "Enjoy the peaceful ride across the bridge to the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Malta-See",
+            "hu": "Máltai-tó",
+            "ro": "Lacul Malta",
+            "en": "Lake Malta"
+          },
+          "coords": [
+            16.98,
+            52.4
+          ],
+          "category": "lake",
+          "arrive_at": "11:37",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Radfahren Sie um den See herum oder probieren Sie die Sommerrodelbahn aus.",
+            "hu": "Kerékpározzon a tó körül, vagy próbálja ki a nyári bobpályát.",
+            "ro": "Mergeți cu bicicleta în jurul lacului sau încercați pista de tobogan de vară.",
+            "en": "Cycle around the lake or try the summer toboggan run."
+          }
+        },
+        {
+          "name": {
+            "de": "Residenzschloss",
+            "hu": "Császári kastély",
+            "ro": "Castelul Imperial",
+            "en": "Imperial Castle"
+          },
+          "coords": [
+            16.914,
+            52.406
+          ],
+          "category": "castles",
+          "arrive_at": "14:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckenden Innenhöfe und den Park.",
+            "hu": "Fedezze fel a lenyűgöző udvarokat és a parkot.",
+            "ro": "Explorați curțile interioare impresionante și parcul.",
+            "en": "Explore the impressive courtyards and the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Citadel-Park",
+            "hu": "Citadella Park",
+            "ro": "Parcul Cetății",
+            "en": "Citadel Park"
+          },
+          "coords": [
+            16.93,
+            52.418
+          ],
+          "category": "parks",
+          "arrive_at": "15:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der Park ist riesig, das Fahrrad ist ideal, um die verschiedenen Denkmäler und Museen zu erreichen.",
+            "hu": "A park hatalmas, a kerékpár ideális a különböző emlékművek és múzeumok eléréséhez.",
+            "ro": "Parcul este imens, bicicleta este ideală pentru a ajunge la diversele monumente și muzee.",
+            "en": "The park is huge; a bike is perfect for reaching the various monuments and museums within."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Stanislaus",
+            "hu": "Szent Szaniszló Plébániatemplom",
+            "ro": "Biserica Parohială Sf. Stanislaus",
+            "en": "Parish Church of St. Stanislaus"
+          },
+          "coords": [
+            16.9355,
+            52.4065
+          ],
+          "category": "churches",
+          "arrive_at": "17:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reiche barocke Innenausstattung.",
+            "hu": "Csodálja meg a gazdag barokk belső teret.",
+            "ro": "Admirați interiorul baroc bogat.",
+            "en": "Marvel at the rich baroque interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Alten Markt",
+            "hu": "Vissza a Régi Piactérre",
+            "ro": "Înapoi în Piața Veche",
+            "en": "Return to Old Market Square"
+          },
+          "coords": [
+            16.9342,
+            52.4077
+          ],
+          "category": "squares",
+          "arrive_at": "17:45",
+          "stay_min": 44,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie ein wohlverdientes Abendessen in einem der vielen Restaurants.",
+            "hu": "Élvezze a jól megérdemelt vacsorát a sok étterem egyikében.",
+            "ro": "Bucurați-vă de o cină binemeritată la unul dintre multele restaurante.",
+            "en": "Enjoy a well-deserved dinner at one of the many restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Alten Markt, bevor Sie zur historischen Dominsel radeln. Der Vormittag steht im Zeichen der Natur am weitläufigen Malta-See, ideal für eine ausgedehnte Radtour. Nach dem Mittagessen erkunden Sie das imposante Residenzschloss. Am Nachmittag fahren Sie durch den geschichtsträchtigen Citadel-Park und beenden Ihre Tour mit der barocken Pracht der Pfarrkirche, bevor Sie zum Abendessen zum Alten Markt zurückkehren.",
+        "hu": "Induljon a Régi Piactérről, majd tekerjen át a történelmi Katedrális-szigetre. A délelőtt a természeté a tágas Máltai-tónál, amely ideális egy hosszabb kerékpártúrához. Ebéd után fedezze fel a lenyűgöző Császári kastélyt. Délután áthalad a történelmi Citadella Parkon, és a túrát a plébániatemplom barokk pompájával zárja, mielőtt visszatérne a Régi Piactérre vacsorázni.",
+        "ro": "Începeți din Piața Veche înainte de a merge cu bicicleta spre istorica Insulă a Catedralei. Dimineața este dedicată naturii la vastul Lac Malta, ideal pentru o plimbare lungă cu bicicleta. După prânz, explorați impunătorul Castel Imperial. După-amiaza, pedalați prin Parcul Cetății, încărcat de istorie, și încheiați turul cu splendoarea barocă a Bisericii Parohiale înainte de a vă întoarce în Piața Veche pentru cină.",
+        "en": "Start at the Old Market Square before cycling to the historic Cathedral Island. The morning is for nature at the expansive Lake Malta, perfect for a long bike ride. After lunch, explore the imposing Imperial Castle. In the afternoon, ride through the history-filled Citadel Park, and finish your tour with the baroque splendor of the Parish Church before returning to the Old Market Square for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brovarnia",
+            "tip": "Brauerei und Restaurant im Stary Browar, perfekt für ein Bier nach der Tour."
+          },
+          {
+            "name": "Na Winklu",
+            "tip": "Berühmt für seine köstlichen, hausgemachten Pierogi (Teigtaschen)."
+          },
+          {
+            "name": "Republika Róż",
+            "tip": "Ein charmantes Café mit köstlichen Kuchen und Desserts."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brovarnia",
+            "tip": "Sörfőzde és étterem a Stary Browarban, tökéletes egy sörre a túra után."
+          },
+          {
+            "name": "Na Winklu",
+            "tip": "Híres a finom, házi készítésű pierogijairól."
+          },
+          {
+            "name": "Republika Róż",
+            "tip": "Bájos kávézó finom süteményekkel és desszertekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brovarnia",
+            "tip": "Fabrică de bere și restaurant în Stary Browar, perfect pentru o bere după tur."
+          },
+          {
+            "name": "Na Winklu",
+            "tip": "Renumit pentru delicioasele sale pierogi (găluște) de casă."
+          },
+          {
+            "name": "Republika Róż",
+            "tip": "O cafenea fermecătoare cu prăjituri și deserturi delicioase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brovarnia",
+            "tip": "Brewery and restaurant in Stary Browar, perfect for a post-tour beer."
+          },
+          {
+            "name": "Na Winklu",
+            "tip": "Famous for its delicious, homemade pierogi (dumplings)."
+          },
+          {
+            "name": "Republika Róż",
+            "tip": "A charming café with delicious cakes and desserts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Malta-See Ufer",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser, um die Ruderer zu beobachten. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rosengarten im Citadel-Park",
+            "tip": "Ein duftender und farbenfroher Ort der Ruhe. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Jordan-Brücke bei Sonnenuntergang",
+            "tip": "Bietet eine malerische Aussicht auf die beleuchtete Kathedrale. 🌅",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Máltai-tó partja",
+            "tip": "Keressen egy csendes helyet a vízparton, és nézze az evezősöket. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rózsakert a Citadella Parkban",
+            "tip": "Illatos és színes, békés hely. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Jordán híd naplementekor",
+            "tip": "Festői kilátás nyílik a kivilágított katedrálisra. 🌅",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Lacului Malta",
+            "tip": "Găsiți un loc liniștit lângă apă pentru a privi canotorii. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina de trandafiri din Parcul Cetății",
+            "tip": "Un loc parfumat și colorat de liniște. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Podul Jordan la apus",
+            "tip": "Oferă o vedere pitorească a catedralei iluminate. 🌅",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Malta shore",
+            "tip": "Find a quiet spot by the water to watch the rowers. 🏞️",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rose Garden in Citadel Park",
+            "tip": "A fragrant and colorful spot for peace and quiet. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Jordan Bridge at sunset",
+            "tip": "Offers a picturesque view of the illuminated cathedral. 🌅",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Posnania",
+            "tip": "Ein großes, modernes Einkaufszentrum in der Nähe des Malta-Sees."
+          },
+          {
+            "name": "Kunsthandwerkermärkte",
+            "tip": "Halten Sie Ausschau nach saisonalen Märkten für einzigartige Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Posnania",
+            "tip": "Nagy, modern bevásárlóközpont a Máltai-tó közelében."
+          },
+          {
+            "name": "Kézműves vásárok",
+            "tip": "Keresse a szezonális vásárokat egyedi ajándéktárgyakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Posnania",
+            "tip": "Un centru comercial mare și modern lângă Lacul Malta."
+          },
+          {
+            "name": "Târguri de artizanat",
+            "tip": "Fiți atenți la piețele sezoniere pentru suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Posnania",
+            "tip": "A large, modern shopping mall near Lake Malta."
+          },
+          {
+            "name": "Artisan Markets",
+            "tip": "Look out for seasonal markets for unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das gut ausgebaute Netz von Radwegen, besonders um den Malta-See.",
+          "Einige Bereiche in der Altstadt sind Fußgängerzonen, hier müssen Sie eventuell absteigen.",
+          "Prüfen Sie den Reifendruck und die Bremsen, bevor Sie losfahren.",
+          "Ein Helm wird für Ihre Sicherheit dringend empfohlen."
+        ],
+        "hu": [
+          "Használja a jól kiépített kerékpárút-hálózatot, különösen a Máltai-tó körül.",
+          "Az óváros egyes részei sétálóövezetek, itt lehet, hogy le kell szállnia.",
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "A biztonsága érdekében erősen ajánlott a sisak viselése."
+        ],
+        "ro": [
+          "Folosiți rețeaua bine dezvoltată de piste de biciclete, în special în jurul Lacului Malta.",
+          "Unele zone din Centrul Vechi sunt pietonale, s-ar putea să trebuiască să descălecați.",
+          "Verificați presiunea anvelopelor și frânele înainte de a porni.",
+          "O cască este puternic recomandată pentru siguranța dumneavoastră."
+        ],
+        "en": [
+          "Use the well-developed network of bike paths, especially around Lake Malta.",
+          "Some areas in the Old Town are pedestrian-only, you may need to dismount.",
+          "Check your tire pressure and brakes before setting off.",
+          "A helmet is strongly recommended for your safety."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:47",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Parken am Citadel-Park",
+            "hu": "1. klaszter: Parkolás a Citadella Parknál",
+            "ro": "Cluster 1: Parcare la Parcul Cetății",
+            "en": "Cluster 1: Park at Citadel Park"
+          },
+          "coords": [
+            16.93,
+            52.418
+          ],
+          "category": "parks",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Spaziergang durch die Geschichte und Kunst des Parks.",
+            "hu": "Kezdje a napot egy sétával a park történelmében és művészetében.",
+            "ro": "Începeți ziua cu o plimbare prin istoria și arta parcului.",
+            "en": "Start the day with a walk through the park's history and art."
+          }
+        },
+        {
+          "name": {
+            "de": "Residenzschloss",
+            "hu": "Császári kastély",
+            "ro": "Castelul Imperial",
+            "en": "Imperial Castle"
+          },
+          "coords": [
+            16.914,
+            52.406
+          ],
+          "category": "castles",
+          "arrive_at": "10:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Schloss und parken Sie in der Nähe. Ein kurzer Spaziergang vom Park.",
+            "hu": "Vezessen a kastélyhoz és parkoljon a közelben. Rövid séta a parktól.",
+            "ro": "Conduceți la castel și parcați în apropiere. O scurtă plimbare de la parc.",
+            "en": "Drive and park near the castle. A short walk from the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Parken in der Nähe des Alten Marktes",
+            "hu": "2. klaszter: Parkolás a Régi Piactér közelében",
+            "ro": "Cluster 2: Parcare lângă Piața Veche",
+            "en": "Cluster 2: Park near Old Market Square"
+          },
+          "coords": [
+            16.9342,
+            52.4077
+          ],
+          "category": "squares",
+          "arrive_at": "11:51",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz und erkunden Sie das historische Zentrum zu Fuß.",
+            "hu": "Keressen egy parkolóhelyet, és fedezze fel gyalog a történelmi központot.",
+            "ro": "Găsiți un loc de parcare și explorați centrul istoric pe jos.",
+            "en": "Find a parking spot and explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Posener Rathaus & Hörnchenmuseum",
+            "hu": "Poseni Városháza és Szarvacska Múzeum",
+            "ro": "Primăria și Muzeul Croissantului",
+            "en": "Town Hall & Croissant Museum"
+          },
+          "coords": [
+            16.934,
+            52.4083
+          ],
+          "category": "landmark",
+          "arrive_at": "12:23",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz. Ideal für eine Mittagspause.",
+            "hu": "Rövid séta a parkolótól. Ideális egy ebédszünetre.",
+            "ro": "O scurtă plimbare de la parcare. Ideal pentru o pauză de prânz.",
+            "en": "A short walk from your parking spot. Perfect for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Stanislaus",
+            "hu": "Szent Szaniszló Plébániatemplom",
+            "ro": "Biserica Parohială Sf. Stanislaus",
+            "en": "Parish Church of St. Stanislaus"
+          },
+          "coords": [
+            16.9355,
+            52.4065
+          ],
+          "category": "churches",
+          "arrive_at": "14:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte vom Hauptplatz entfernt.",
+            "hu": "Csak pár lépésre a főtértől.",
+            "ro": "La doar câțiva pași de piața principală.",
+            "en": "Just a few steps away from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Fahrt zur Dominsel",
+            "hu": "3. klaszter: Utazás a Katedrális-szigetre",
+            "ro": "Cluster 3: Deplasare spre Insula Catedralei",
+            "en": "Cluster 3: Drive to Cathedral Island"
+          },
+          "coords": [
+            16.946,
+            52.41
+          ],
+          "category": "old-town",
+          "arrive_at": "15:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zur Insel und parken Sie. Erkunden Sie die Kathedrale und die Umgebung.",
+            "hu": "Vezessen a szigetre és parkoljon. Fedezze fel a katedrálist és környékét.",
+            "ro": "Conduceți spre insulă și parcați. Explorați catedrala și zona înconjurătoare.",
+            "en": "Drive to the island and park. Explore the cathedral and its surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Malta-See",
+            "hu": "Máltai-tó",
+            "ro": "Lacul Malta",
+            "en": "Lake Malta"
+          },
+          "coords": [
+            16.98,
+            52.4
+          ],
+          "category": "lake",
+          "arrive_at": "16:51",
+          "stay_min": 86,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannenden Spaziergang am See.",
+            "hu": "Zárja a napot egy pihentető sétával a tónál.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă pe malul lacului.",
+            "en": "End your day with a relaxing walk by the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Citadel-Park und fahren Sie dann zum nahegelegenen Residenzschloss. Als Nächstes parken Sie im Herzen der Stadt, um den Alten Markt, das Rathaus und die prächtige Pfarrkirche zu Fuß zu erkunden. Am Nachmittag fahren Sie zur ruhigen Dominsel, dem Geburtsort Polens, und besichtigen die Kathedrale. Beenden Sie Ihren Ausflug am malerischen Malta-See, einem perfekten Ort, um den Abend ausklingen zu lassen.",
+        "hu": "Kezdje a napot a történelmi Citadella Parkban, majd vezessen a közeli Császári kastélyhoz. Ezután parkoljon le a város szívében, hogy gyalog fedezze fel a Régi Piacteret, a Városházát és a pompás plébániatemplomot. Délután autózzon el a békés Katedrális-szigetre, Lengyelország szülőhelyére, hogy megnézze a katedrálist. A kirándulást a festői Máltai-tónál fejezze be, amely tökéletes hely az este lezárásához.",
+        "ro": "Începeți ziua în istoricul Parc al Cetății, apoi conduceți la Castelul Imperial din apropiere. Apoi, parcați în inima orașului pentru a explora pe jos Piața Veche, Primăria și splendida Biserică Parohială. După-amiaza, conduceți spre liniștita Insulă a Catedralei, locul de naștere al Poloniei, pentru a vizita catedrala. Încheiați excursia la pitorescul Lac Malta, un loc perfect pentru a încheia seara.",
+        "en": "Start your day at the historic Citadel Park, then drive to the nearby Imperial Castle. Next, park in the heart of the city to explore the Old Market Square, Town Hall, and the splendid Parish Church on foot. In the afternoon, drive to the serene Cathedral Island, the birthplace of Poland, to see the cathedral. End your trip at the picturesque Lake Malta, a perfect spot to wrap up the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wiejskie Jadło",
+            "tip": "Traditionelle polnische Küche in rustikalem Ambiente, in der Nähe des Alten Marktes."
+          },
+          {
+            "name": "Ratuszova",
+            "tip": "Gehobene Küche mit Blick auf das Rathaus."
+          },
+          {
+            "name": "PYRA BAR",
+            "tip": "Ein Restaurant, das sich ganz der Kartoffel widmet - probieren Sie die verschiedenen Aufläufe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wiejskie Jadło",
+            "tip": "Hagyományos lengyel konyha rusztikus környezetben, a Régi Piactér közelében."
+          },
+          {
+            "name": "Ratuszova",
+            "tip": "Elegáns konyha, kilátással a Városházára."
+          },
+          {
+            "name": "PYRA BAR",
+            "tip": "Egy étterem, amely teljes egészében a burgonyának szenteli magát - kóstolja meg a különböző rakott ételeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wiejskie Jadło",
+            "tip": "Bucătărie tradițională poloneză într-un cadru rustic, lângă Piața Veche."
+          },
+          {
+            "name": "Ratuszova",
+            "tip": "Bucătărie rafinată cu vedere la Primărie."
+          },
+          {
+            "name": "PYRA BAR",
+            "tip": "Un restaurant dedicat în întregime cartofului - încercați diversele caserole."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wiejskie Jadło",
+            "tip": "Traditional Polish cuisine in a rustic setting, near the Old Market Square."
+          },
+          {
+            "name": "Ratuszova",
+            "tip": "Fine dining with a view of the Town Hall."
+          },
+          {
+            "name": "PYRA BAR",
+            "tip": "A restaurant entirely dedicated to the potato - try the various casseroles."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Ein friedlicher Ort in der Nähe des Citadel-Parks. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Śródka",
+            "tip": "Ein charmantes Viertel neben der Dominsel mit einem berühmten 3D-Wandgemälde. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am Malta-See",
+            "tip": "Finden Sie eine Bank und genießen Sie die Aussicht. 🌅",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus Kert",
+            "tip": "Békés hely a Citadella Park közelében. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Śródka",
+            "tip": "Bájos negyed a Katedrális-sziget mellett, egy híres 3D falfestménnyel. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a Máltai-tónál",
+            "tip": "Keressen egy padot, és élvezze a kilátást. 🌅",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Un loc pașnic lângă Parcul Cetății. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Śródka",
+            "tip": "Un cartier fermecător lângă Insula Catedralei, cu o celebră pictură murală 3D. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare la Lacul Malta",
+            "tip": "Găsiți o bancă și bucurați-vă de priveliște. 🌅",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "A peaceful spot near Citadel Park. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Śródka",
+            "tip": "A charming district next to Cathedral Island with a famous 3D mural. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset at Lake Malta",
+            "tip": "Find a bench and enjoy the view. 🌅",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galeria Malta",
+            "tip": "Ein Einkaufszentrum direkt am Malta-See."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "Ein Geschäft, das sich auf polnisches Volkskunsthandwerk spezialisiert hat."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galeria Malta",
+            "tip": "Bevásárlóközpont közvetlenül a Máltai-tónál."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "Lengyel népi kézműves termékekre szakosodott üzlet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Malta",
+            "tip": "Un centru comercial chiar pe malul lacului Malta."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "Un magazin specializat în artizanat popular polonez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galeria Malta",
+            "tip": "A shopping mall right by Lake Malta."
+          },
+          {
+            "name": "Cepelia",
+            "tip": "A store specializing in Polish folk art and handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Stadtzentrum kann teuer sein. Nutzen Sie Park-and-Ride-Anlagen, wenn möglich.",
+          "Achten Sie auf die Parkzonen (Strefa Płatnego Parkowania) und bezahlen Sie an den Automaten.",
+          "Der Verkehr kann während der Stoßzeiten stark sein, planen Sie zusätzliche Zeit für Fahrten ein.",
+          "Ein GPS ist unerlässlich, um sich in der Stadt zurechtzufinden."
+        ],
+        "hu": [
+          "A belvárosi parkolás drága lehet. Ha lehetséges, használja a P+R parkolókat.",
+          "Figyeljen a parkolási zónákra (Strefa Płatnego Parkowania), és fizessen az automatáknál.",
+          "A forgalom csúcsidőben sűrű lehet, tervezzen plusz időt az utazásokra.",
+          "A GPS elengedhetetlen a városban való navigáláshoz."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi scumpă. Folosiți facilitățile Park and Ride, dacă este posibil.",
+          "Fiți atenți la zonele de parcare cu plată (Strefa Płatnego Parkowania) și plătiți la automate.",
+          "Traficul poate fi aglomerat în timpul orelor de vârf, planificați timp suplimentar pentru călătorii.",
+          "Un GPS este esențial pentru a naviga prin oraș."
+        ],
+        "en": [
+          "Parking in the city center can be expensive. Use Park and Ride facilities if possible.",
+          "Be aware of the paid parking zones (Strefa Płatnego Parkowania) and pay at the meters.",
+          "Traffic can be heavy during peak hours, so plan extra time for drives.",
+          "A GPS is essential for navigating the city."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:03",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Alter Markt & Umgebung",
+            "hu": "1. klaszter: Régi Piactér és környéke",
+            "ro": "Cluster 1: Piața Veche și împrejurimile",
+            "en": "Cluster 1: Old Market Square & Surroundings"
+          },
+          "coords": [
+            16.9342,
+            52.4077
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie eine Straßenbahn zur Haltestelle 'Pl. Wielkopolski' und gehen Sie zum Markt.",
+            "hu": "Menjen villamossal a 'Pl. Wielkopolski' megállóig, és sétáljon a piacra.",
+            "ro": "Luați un tramvai până la stația 'Pl. Wielkopolski' și mergeți pe jos până la piață.",
+            "en": "Take a tram to the 'Pl. Wielkopolski' stop and walk to the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Pfarrkirche St. Stanislaus",
+            "hu": "Városháza és Szent Szaniszló Plébániatemplom",
+            "ro": "Primăria și Biserica Parohială Sf. Stanislaus",
+            "en": "Town Hall & St. Stanislaus Parish Church"
+          },
+          "coords": [
+            16.935,
+            52.407
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beide Sehenswürdigkeiten sind nur einen kurzen Spaziergang voneinander entfernt.",
+            "hu": "Mindkét látnivaló csak egy rövid sétára van egymástól.",
+            "ro": "Ambele atracții sunt la o scurtă plimbare una de cealaltă.",
+            "en": "Both landmarks are just a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Dominsel",
+            "hu": "2. klaszter: Katedrális-sziget",
+            "ro": "Cluster 2: Insula Catedralei",
+            "en": "Cluster 2: Cathedral Island"
+          },
+          "coords": [
+            16.946,
+            52.41
+          ],
+          "category": "old-town",
+          "arrive_at": "11:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie eine Straßenbahn über den Fluss zur Haltestelle 'Katedra'.",
+            "hu": "Menjen villamossal a folyón át a 'Katedra' megállóig.",
+            "ro": "Luați un tramvai peste râu până la stația 'Katedra'.",
+            "en": "Take a tram across the river to the 'Katedra' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzkathedrale St. Peter und Paul",
+            "hu": "Szent Péter és Pál Főszékesegyház",
+            "ro": "Catedrala Sfinții Petru și Paul",
+            "en": "Archcathedral Basilica of St. Peter and St. Paul"
+          },
+          "coords": [
+            16.947,
+            52.4105
+          ],
+          "category": "churches",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Direkt neben der Straßenbahnhaltestelle gelegen.",
+            "hu": "Közvetlenül a villamosmegálló mellett található.",
+            "ro": "Situată chiar lângă stația de tramvai.",
+            "en": "Located right next to the tram stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Residenzschloss & Citadel-Park",
+            "hu": "3. klaszter: Császári kastély és Citadella Park",
+            "ro": "Cluster 3: Castelul Imperial și Parcul Cetății",
+            "en": "Cluster 3: Imperial Castle & Citadel Park"
+          },
+          "coords": [
+            16.914,
+            52.406
+          ],
+          "category": "castles",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie eine Straßenbahn zum 'Zamek' und erkunden Sie das Schloss.",
+            "hu": "Menjen villamossal a 'Zamek' megállóig, és fedezze fel a kastélyt.",
+            "ro": "Luați un tramvai până la 'Zamek' și explorați castelul.",
+            "en": "Take a tram to 'Zamek' stop and explore the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Citadel-Park",
+            "hu": "Séta a Citadella Parkba",
+            "ro": "Plimbare spre Parcul Cetății",
+            "en": "Walk to Citadel Park"
+          },
+          "coords": [
+            16.93,
+            52.418
+          ],
+          "category": "parks",
+          "arrive_at": "16:05",
+          "stay_min": 118,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Schloss zum Park, um den Tag ausklingen zu lassen.",
+            "hu": "Kellemes séta a kastélytól a parkig, hogy lezárja a napot.",
+            "ro": "O plimbare plăcută de la castel la parc pentru a încheia ziua.",
+            "en": "A pleasant walk from the castle to the park to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die effiziente Straßenbahn, um zum Alten Markt zu gelangen und die Highlights des Zentrums zu erkunden. Eine kurze Fahrt bringt Sie zur historischen Dominsel, wo Sie in die Anfänge Polens eintauchen. Am Nachmittag bringt Sie eine weitere Straßenbahn zum Kulturviertel rund um das Residenzschloss. Von dort aus ist es nur ein kurzer Spaziergang zum weitläufigen Citadel-Park, wo Sie den Tag in Ruhe ausklingen lassen können.",
+        "hu": "Használja a hatékony villamost, hogy eljusson a Régi Piactérre és felfedezze a központ nevezetességeit. Egy rövid utazás elviszi a történelmi Katedrális-szigetre, ahol elmerülhet Lengyelország kezdeteiben. Délután egy másik villamossal eljuthat a Császári kastély körüli kulturális negyedbe. Onnan már csak egy rövid séta a tágas Citadella Park, ahol békében zárhatja a napot.",
+        "ro": "Folosiți tramvaiul eficient pentru a ajunge în Piața Veche și a explora atracțiile centrului. O scurtă călătorie vă duce pe istorica Insulă a Catedralei, unde puteți pătrunde în începuturile Poloniei. După-amiaza, un alt tramvai vă duce în cartierul cultural din jurul Castelului Imperial. De acolo, este doar o scurtă plimbare până la vastul Parc al Cetății, unde puteți încheia ziua în liniște.",
+        "en": "Use the efficient tram system to get to the Old Market Square and explore the city center's highlights. A short ride takes you to the historic Cathedral Island, where you can delve into Poland's origins. In the afternoon, another tram ride brings you to the cultural district around the Imperial Castle. From there, it's a short walk to the expansive Citadel Park, where you can peacefully end your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Mleczny (Milchbar)",
+            "tip": "Erleben Sie ein Stück polnischer Geschichte mit günstigen, hausgemachten Gerichten."
+          },
+          {
+            "name": "Manekin",
+            "tip": "Sehr beliebt für seine riesige Auswahl an süßen und herzhaften Crêpes."
+          },
+          {
+            "name": "Pijalnia Wódki i Piwa",
+            "tip": "Eine Bar im Stil der Volksrepublik Polen für einen schnellen Snack und ein Getränk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tejbár (Bar Mleczny)",
+            "tip": "Tapasztalja meg a lengyel történelem egy darabját olcsó, házias ételekkel."
+          },
+          {
+            "name": "Manekin",
+            "tip": "Nagyon népszerű az édes és sós palacsinták hatalmas választéka miatt."
+          },
+          {
+            "name": "Pijalnia Wódki i Piwa",
+            "tip": "A Lengyel Népköztársaság stílusában berendezett bár egy gyors harapnivalóért és italért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Mleczny (Bar de lapte)",
+            "tip": "Experimentați o bucată de istorie poloneză cu mâncăruri ieftine, gătite în casă."
+          },
+          {
+            "name": "Manekin",
+            "tip": "Foarte popular pentru selecția sa uriașă de clătite dulci și sărate."
+          },
+          {
+            "name": "Pijalnia Wódki i Piwa",
+            "tip": "Un bar în stilul Republicii Populare Polone pentru o gustare rapidă și o băutură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Mleczny (Milk Bar)",
+            "tip": "Experience a piece of Polish history with cheap, home-style meals."
+          },
+          {
+            "name": "Manekin",
+            "tip": "Very popular for its huge selection of sweet and savory crepes."
+          },
+          {
+            "name": "Pijalnia Wódki i Piwa",
+            "tip": "A Polish People's Republic-themed bar for a quick snack and drink."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wilson Park & Palmenhaus",
+            "tip": "Eine Oase der Ruhe mit exotischen Pflanzen, leicht mit der Straßenbahn zu erreichen. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedensglocke im Citadel-Park",
+            "tip": "Ein besinnlicher Ort innerhalb des Parks. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick von der Dominsel",
+            "tip": "Genießen Sie den Blick auf die Altstadt über den Fluss. 🌅",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wilson Park és Pálmaház",
+            "tip": "A béke oázisa egzotikus növényekkel, könnyen megközelíthető villamossal. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Békeharang a Citadella Parkban",
+            "tip": "Elmélkedő hely a parkon belül. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Katedrális-szigetről",
+            "tip": "Élvezze a kilátást az óvárosra a folyó túlpartjáról. 🌅",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Wilson și Palmetum",
+            "tip": "O oază de pace cu plante exotice, ușor accesibilă cu tramvaiul. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Clopotul Păcii în Parcul Cetății",
+            "tip": "Un loc contemplativ în interiorul parcului. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de pe Insula Catedralei",
+            "tip": "Bucurați-vă de priveliștea Centrului Vechi peste râu. 🌅",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wilson Park & Palm House",
+            "tip": "An oasis of peace with exotic plants, easily reachable by tram. 🍃",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Peace Bell in Citadel Park",
+            "tip": "A contemplative spot within the park. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from Cathedral Island",
+            "tip": "Enjoy the view of the Old Town across the river. 🌅",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ulica Półwiejska",
+            "tip": "Eine beliebte Einkaufsstraße, die zum Stary Browar führt."
+          },
+          {
+            "name": "Markthalle (Hala Targowa)",
+            "tip": "Kaufen Sie frische Produkte und lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Półwiejska utca",
+            "tip": "Népszerű bevásárlóutca, amely a Stary Browarhoz vezet."
+          },
+          {
+            "name": "Vásárcsarnok (Hala Targowa)",
+            "tip": "Vásároljon friss termékeket és helyi különlegességeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Półwiejska",
+            "tip": "O stradă comercială populară care duce la Stary Browar."
+          },
+          {
+            "name": "Hala Pieței (Hala Targowa)",
+            "tip": "Cumpărați produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Półwiejska Street",
+            "tip": "A popular shopping street leading to Stary Browar."
+          },
+          {
+            "name": "Market Hall (Hala Targowa)",
+            "tip": "Shop for fresh produce and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tages- oder 24-Stunden-Karte für unbegrenzte Fahrten.",
+          "Validieren Sie Ihr Ticket sofort nach dem Einsteigen in eine Straßenbahn oder einen Bus.",
+          "Die App 'jakdojade' ist sehr nützlich für die Planung von Routen mit öffentlichen Verkehrsmitteln.",
+          "Beachten Sie, dass die Nachtbuslinien andere Routen haben als die Tageslinien."
+        ],
+        "hu": [
+          "Vásároljon napi- vagy 24 órás jegyet a korlátlan utazáshoz.",
+          "Érvényesítse a jegyét azonnal, miután felszállt a villamosra vagy buszra.",
+          "A 'jakdojade' alkalmazás nagyon hasznos a tömegközlekedési útvonalak tervezéséhez.",
+          "Vegye figyelembe, hogy az éjszakai buszjáratok útvonala eltér a nappali járatokétól."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi sau de 24 de ore pentru călătorii nelimitate.",
+          "Validați biletul imediat după ce urcați într-un tramvai sau autobuz.",
+          "Aplicația 'jakdojade' este foarte utilă pentru planificarea rutelor cu transportul public.",
+          "Rețineți că liniile de autobuz de noapte au rute diferite față de cele de zi."
+        ],
+        "en": [
+          "Buy a daily or 24-hour ticket for unlimited travel.",
+          "Validate your ticket immediately after boarding a tram or bus.",
+          "The 'jakdojade' app is very useful for planning public transport routes.",
+          "Be aware that night bus lines have different routes than daytime services."
+        ]
+      }
+    }
+  }
+}

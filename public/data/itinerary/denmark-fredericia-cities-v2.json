@@ -1,0 +1,983 @@
+{
+  "city_id": "denmark-fredericia-cities-v2",
+  "anchor": {
+    "name": "Fredericia",
+    "coords": [
+      9.75,
+      55.56
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Der Landsoldat",
+            "hu": "A közlegény szobra",
+            "ro": "Statuia Soldatului",
+            "en": "The Valiant Soldier Statue"
+          },
+          "coords": [
+            9.7548,
+            55.5644
+          ],
+          "category": "monument",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Eines der berühmtesten Denkmäler Dänemarks, idealer Ausgangspunkt.",
+            "hu": "Dánia egyik leghíresebb emlékműve, ideális kiindulópont.",
+            "ro": "Unul dintre cele mai faimoase monumente din Danemarca, un punct de plecare ideal.",
+            "en": "One of Denmark's most famous monuments, an ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Fredericia-Wall",
+            "hu": "Fredericia sáncai",
+            "ro": "Valurile din Fredericia",
+            "en": "Fredericia Ramparts"
+          },
+          "coords": [
+            9.749,
+            55.566
+          ],
+          "category": "historical",
+          "arrive_at": "09:31",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie einen langen Spaziergang auf einer der am besten erhaltenen Wallanlagen Nordeuropas.",
+            "hu": "Tegyen egy hosszú sétát Észak-Európa egyik legjobb állapotban megmaradt sáncerődjén.",
+            "ro": "Faceți o plimbare lungă pe una dintre cele mai bine conservate fortificații din nordul Europei.",
+            "en": "Take a long walk on one of Northern Europe's best-preserved ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Trinitatis-Kirche",
+            "hu": "Trinitatis-templom",
+            "ro": "Biserica Trinitatis",
+            "en": "Trinitatis Church"
+          },
+          "coords": [
+            9.756,
+            55.563
+          ],
+          "category": "church",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beachten Sie die barocke Architektur und die ruhige Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a barokk építészetet és a belső tér békés hangulatát.",
+            "ro": "Observați arhitectura barocă și atmosfera liniștită din interior.",
+            "en": "Notice the baroque architecture and the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Kastell",
+            "hu": "A Citadella (Kastellet)",
+            "ro": "Citadela (Kastellet)",
+            "en": "The Citadel (Kastellet)"
+          },
+          "coords": [
+            9.761,
+            55.568
+          ],
+          "category": "fortress",
+          "arrive_at": "12:09",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der ursprünglichen Zitadelle und genießen Sie die Aussicht.",
+            "hu": "Fedezze fel az eredeti citadella maradványait, és élvezze a kilátást.",
+            "ro": "Explorați rămășițele citadelei originale și bucurați-vă de priveliște.",
+            "en": "Explore the remains of the original citadel and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Die historische Ministadt",
+            "hu": "A történelmi Miniváros",
+            "ro": "Miniorășelul Istoric",
+            "en": "The Historical Mini-Town"
+          },
+          "coords": [
+            9.735,
+            55.569
+          ],
+          "category": "historical",
+          "arrive_at": "13:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein faszinierendes Modell von Fredericia um 1849, perfekt für Geschichtsliebhaber.",
+            "hu": "Fredericia lenyűgöző modellje 1849-ből, tökéletes a történelem kedvelőinek.",
+            "ro": "Un model fascinant al Fredericiei din jurul anului 1849, perfect pentru pasionații de istorie.",
+            "en": "A fascinating model of Fredericia as it was around 1849, perfect for history buffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Der weiße Wasserturm",
+            "hu": "A Fehér Víztorony",
+            "ro": "Turnul Alb de Apă",
+            "en": "The White Water Tower"
+          },
+          "coords": [
+            9.763,
+            55.563
+          ],
+          "category": "landmark",
+          "arrive_at": "15:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf für einen Panoramablick über die Stadt und die Wälle.",
+            "hu": "Menjen fel a panorámás kilátásért a városra és a sáncokra.",
+            "ro": "Urcați pentru o vedere panoramică asupra orașului și a valurilor.",
+            "en": "Climb up for a panoramic view of the city and the ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Østerstrand",
+            "hu": "Østerstrand strand",
+            "ro": "Plaja Østerstrand",
+            "en": "Østerstrand Beach"
+          },
+          "coords": [
+            9.775,
+            55.565
+          ],
+          "category": "beach",
+          "arrive_at": "15:32",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Strand oder schwimmen Sie im Kleinen Belt. Ein perfekter Abschluss für den Tag.",
+            "hu": "Pihenjen a tengerparton, vagy ússzon egyet a Kis-Beltben. Tökéletes lezárása a napnak.",
+            "ro": "Relaxați-vă pe plajă sau înotați în Mica Centură. Un final perfect pentru o zi.",
+            "en": "Relax on the beach or take a swim in the Little Belt. A perfect end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Geschichte Fredericias mit einem Spaziergang entlang der beeindruckenden Wallanlagen, die zu den am besten erhaltenen in Europa gehören. Besuchen Sie das ikonische Denkmal des Landsoldaten und die elegante Trinitatis-Kirche, die von der reichen Vergangenheit der Festungsstadt zeugen. Die kompakte Innenstadt lässt sich leicht zu Fuß erkunden und enthüllt an jeder Ecke historische Schätze.\nAm Mittag können Sie die faszinierende historische Ministadt erkunden, die Fredericia um 1849 darstellt. Es ist wie eine Zeitreise, bei der die strategische Bedeutung der Stadt lebendig wird. Nach diesem Einblick in die Geschichte ist es Zeit für eine Mittagspause in einem der gemütlichen Cafés im Stadtzentrum. Genießen Sie ein traditionelles dänisches Smørrebrød, um neue Energie zu tanken.\nAm Nachmittag führt Sie Ihr Weg zum Weißen Wasserturm, von dem aus Sie einen herrlichen Panoramablick über die Stadt, ihre Festungsanlagen und das Meer haben. Es ist ein großartiger Ort für Fotos und um die einzigartige sternförmige Anlage der Stadt zu verstehen. Der Abstieg führt Sie dann in Richtung Küste.\nBeenden Sie Ihren Tag am Østerstrand, dem Stadtstrand von Fredericia. Hier können Sie sich entspannen, die frische Meeresbrise genießen oder ein erfrischendes Bad im Kleinen Belt nehmen. Es ist der perfekte Ort, um die Eindrücke des Tages Revue passieren zu lassen und den Abend in ruhiger Atmosphäre ausklingen zu lassen, während die Sonne über dem Wasser untergeht.",
+        "hu": "Kezdje a napot Fredericia történelmének szívében egy sétával a lenyűgöző sáncokon, amelyek Európa legjobb állapotban fennmaradt erődművei közé tartoznak. Látogassa meg az ikonikus Közlegény szobrát és az elegáns Trinitatis-templomot, mindkettő az erődváros gazdag múltjáról tanúskodik. A kompakt belváros könnyen bejárható gyalog, és minden sarkon történelmi kincseket rejt.\nDélben fedezze fel a lenyűgöző történelmi Minivárost, amely Fredericia 1849-es állapotát mutatja be. Olyan, mint egy időutazás, amely életre kelti a város stratégiai fontosságát. A történelmi kitekintés után ideje egy ebédszünetet tartani a belváros egyik hangulatos kávézójában. Kóstoljon meg egy hagyományos dán smørrebrødot, hogy feltöltődjön energiával.\nA délután folyamán másszon fel a Fehér Víztoronyba, ahonnan csodálatos panoráma nyílik a városra, az erődítményekre és a tengerre. Ez egy remek fotóhelyszín, és segít megérteni a város egyedülálló, csillag alakú elrendezését. Lefelé menet az útja a tengerpart felé vezet.\nZárja a napot az Østerstrandon, Fredericia városi strandján. Itt pihenhet, élvezheti a friss tengeri szellőt, vagy úszhat egyet a Kis-Beltben. Tökéletes hely a nap eseményeinek átgondolására és az este békés lezárására, miközben a nap a víz felett nyugszik.",
+        "ro": "Începeți ziua în inima istoriei Fredericiei cu o plimbare de-a lungul impresionantelor valuri, printre cele mai bine conservate din Europa. Vizitați monumentul iconic al Soldatului și eleganta Biserică Trinitatis, ambele mărturii ale trecutului bogat al orașului-cetate. Centrul compact este ușor de explorat pe jos, dezvăluind comori istorice la fiecare colț.\nLa amiază, explorați fascinantul Mini-oraș Istoric, care prezintă Fredericia așa cum era în 1849. Este ca o călătorie în timp, aducând la viață importanța strategică a orașului. După această incursiune în istorie, este timpul pentru o pauză de prânz la una dintre cafenelele primitoare din centrul orașului. Savurați un smørrebrød tradițional danez pentru a vă reîncărca bateriile.\nDupă-amiaza, urcați în Turnul Alb de Apă pentru o priveliște panoramică splendidă asupra orașului, fortificațiilor și mării. Este un loc excelent pentru fotografii și pentru a înțelege structura unică a orașului, în formă de stea. Coborârea vă va purta apoi spre coastă.\nÎncheiați ziua la Østerstrand, plaja orașului Fredericia. Aici vă puteți relaxa, bucura de briza proaspătă a mării sau puteți face o baie răcoritoare în Mica Centură. Este locul perfect pentru a reflecta la evenimentele zilei și a încheia seara într-o atmosferă liniștită, în timp ce soarele apune peste apă.",
+        "en": "Start your day in the heart of Fredericia's history with a walk along the impressive ramparts, among the best-preserved in Europe. Visit the iconic Valiant Soldier statue and the elegant Trinitatis Church, both testaments to the fortress town's rich past. The compact city center is easy to explore on foot, revealing historical treasures at every corner.\nAt noon, explore the fascinating Historical Mini-Town, which depicts Fredericia as it was in 1849. It's like a journey back in time, bringing the city's strategic importance to life. After this historical insight, it's time for a lunch break at one of the cozy cafes in the city center. Enjoy a traditional Danish smørrebrød to recharge your energy.\nIn the afternoon, make your way up the White Water Tower for a splendid panoramic view over the city, its fortifications, and the sea. It's a great spot for photos and for understanding the city's unique star-shaped layout. The descent will then lead you towards the coast.\nEnd your day at Østerstrand, Fredericia's city beach. Here you can relax, enjoy the fresh sea breeze, or take a refreshing swim in the Little Belt. It's the perfect place to reflect on the day's events and end the evening in a peaceful atmosphere as the sun sets over the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Probieren Sie das klassische dänische offene Sandwich. Suchen Sie nach 'Cafe Mair's' für eine authentische Version."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Dänische Fleischbällchen, oft mit Kartoffelsalat serviert. Ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Frischer Fisch",
+            "tip": "Als Küstenstadt bietet Fredericia ausgezeichnete Fischgerichte. Suchen Sie nach Restaurants in der Nähe des Hafens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Kóstolja meg a klasszikus dán szendvicset. Keresse a 'Cafe Mair's'-t egy autentikus verzióért."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Dán húsgombóc, gyakran burgonyasalátával tálalva. Kiadós ebéd."
+          },
+          {
+            "name": "Friss hal",
+            "tip": "Tengerparti városként Fredericia kiváló halételeket kínál. Keressen éttermeket a kikötő közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Încercați sandvișul deschis clasic danez. Căutați 'Cafe Mair's' pentru o versiune autentică."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Chiftele daneze, adesea servite cu salată de cartofi. Un prânz consistent."
+          },
+          {
+            "name": "Pește proaspăt",
+            "tip": "Fiind un oraș de coastă, Fredericia oferă preparate excelente din pește. Căutați restaurante lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smørrebrød",
+            "tip": "Try the classic Danish open-faced sandwich. Look for 'Cafe Mair's' for an authentic version."
+          },
+          {
+            "name": "Frikadeller",
+            "tip": "Danish meatballs, often served with potato salad. A hearty lunch."
+          },
+          {
+            "name": "Fresh Fish",
+            "tip": "As a coastal town, Fredericia offers excellent fish dishes. Look for restaurants near the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang auf dem Wall",
+            "tip": "Die grünen Wälle bieten viele ruhige Plätze mit Bänken und schöner Aussicht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Østerstrand am späten Nachmittag",
+            "tip": "Wenn die Menschenmassen nachlassen, ist der Strand ein Ort der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Trinitatis-Kirche",
+            "tip": "Treten Sie ein für einen Moment der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a sáncokon",
+            "tip": "A zöld sáncok számos csendes helyet kínálnak padokkal és gyönyörű kilátással.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Østerstrand késő délután",
+            "tip": "Amikor a tömeg alábbhagy, a strand a nyugalom helyszínévé válik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Trinitatis-templom",
+            "tip": "Lépjen be egy pillanatra a csend és az elmélkedés jegyében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe valuri",
+            "tip": "Valurile verzi oferă multe locuri liniștite cu bănci și priveliști frumoase.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Østerstrand după-amiaza târziu",
+            "tip": "Când mulțimea se retrage, plaja devine un loc de liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biserica Trinitatis",
+            "tip": "Intrați pentru un moment de liniște și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk on the Ramparts",
+            "tip": "The green ramparts offer many quiet spots with benches and beautiful views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Østerstrand in the late afternoon",
+            "tip": "As the crowds thin out, the beach is a place of tranquility.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Trinitatis Church",
+            "tip": "Step inside for a moment of silence and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gågaden (Fußgängerzonen)",
+            "tip": "Erkunden Sie die Haupteinkaufsstraßen für eine Mischung aus lokalen Boutiquen und dänischen Marken."
+          },
+          {
+            "name": "Souvenirs in der Ministadt",
+            "tip": "Der Geschenkeladen in der Historischen Ministadt bietet einzigartige, geschichtsbezogene Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gågaden (Sétálóutcák)",
+            "tip": "Fedezze fel a fő bevásárlóutcákat, ahol helyi butikok és dán márkák keverednek."
+          },
+          {
+            "name": "Szuvenírek a Minivárosban",
+            "tip": "A Történelmi Miniváros ajándékboltja egyedi, történelmi témájú emléktárgyakat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gågaden (Străzi pietonale)",
+            "tip": "Explorați principalele străzi comerciale pentru un amestec de buticuri locale și mărci daneze."
+          },
+          {
+            "name": "Suveniruri la Mini-oraș",
+            "tip": "Magazinul de cadouri de la Mini-orașul Istoric oferă suveniruri unice, cu tematică istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gågaden (Pedestrian Streets)",
+            "tip": "Explore the main shopping streets for a mix of local boutiques and Danish brands."
+          },
+          {
+            "name": "Souvenirs at the Mini-Town",
+            "tip": "The gift shop at the Historical Mini-Town offers unique history-themed keepsakes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe. Die Erkundung der Wälle bedeutet viel Laufen auf unebenem Gelände.",
+          "Prüfen Sie die Öffnungszeiten des Wasserturms, da sie saisonal sein können.",
+          "Die Innenstadt ist sehr kompakt, alles ist in 10-15 Minuten zu Fuß erreichbar.",
+          "Bringen Sie eine wiederverwendbare Wasserflasche mit; es gibt öffentliche Brunnen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt. A sáncok felfedezése sok sétát jelenthet egyenetlen terepen.",
+          "Ellenőrizze a Víztorony nyitvatartási idejét, mivel az szezonális lehet.",
+          "A belváros nagyon kompakt, minden 10-15 perces sétával elérhető.",
+          "Hozzon magával újratölthető vizes palackot; vannak nyilvános ivókutak."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă. Explorarea valurilor implică mult mers pe teren denivelat.",
+          "Verificați programul de funcționare al Turnului de Apă, deoarece poate fi sezonier.",
+          "Centrul orașului este foarte compact, totul este la o plimbare de 10-15 minute.",
+          "Aduceți o sticlă de apă reutilizabilă; există fântâni publice."
+        ],
+        "en": [
+          "Wear comfortable shoes. Exploring the ramparts involves a lot of walking on uneven ground.",
+          "Check the opening hours for the Water Tower as they can be seasonal.",
+          "The city center is very compact; everything is within a 10-15 minute walk.",
+          "Bring a reusable water bottle; there are public fountains."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Madsby Legepark",
+            "hu": "Madsby Játszópark",
+            "ro": "Parcul Madsby Legepark",
+            "en": "Madsby Legepark (Play Park)"
+          },
+          "coords": [
+            9.708,
+            55.567
+          ],
+          "category": "park",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einem aktiven Morgen in diesem riesigen Park mit Tieren und Spielplätzen.",
+            "hu": "Kezdje a napot aktívan ebben a hatalmas parkban, ahol állatok és játszóterek is vannak.",
+            "ro": "Începeți cu o dimineață activă în acest parc imens, cu animale și locuri de joacă.",
+            "en": "Start with an active morning in this huge park, complete with animals and playgrounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Die historische Ministadt",
+            "hu": "A történelmi Miniváros",
+            "ro": "Miniorășelul Istoric",
+            "en": "The Historical Mini-Town"
+          },
+          "coords": [
+            9.735,
+            55.569
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Fahren Sie von der Natur zur Geschichte. Das Modell der Stadt ist nur eine kurze Radtour entfernt.",
+            "hu": "Kerékpározzon a természetből a történelembe. A város modellje csak egy rövid bicikliútra van.",
+            "ro": "Pedalați de la natură la istorie. Modelul orașului este la o scurtă plimbare cu bicicleta.",
+            "en": "Cycle from nature to history. The model town is just a short bike ride away."
+          }
+        },
+        {
+          "name": {
+            "de": "Fredericia-Wall",
+            "hu": "Fredericia sáncai",
+            "ro": "Valurile din Fredericia",
+            "en": "Fredericia Ramparts"
+          },
+          "coords": [
+            9.749,
+            55.566
+          ],
+          "category": "historical",
+          "arrive_at": "13:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Radfahren auf den Wällen ist ein einzigartiges Erlebnis. Finden Sie einen schönen Platz für ein Picknick-Mittagessen.",
+            "hu": "Kerékpározni a sáncokon egyedülálló élmény. Keressen egy szép helyet egy piknik ebédhez.",
+            "ro": "Mersul cu bicicleta pe valuri este o experiență unică. Găsiți un loc frumos pentru un prânz la picnic.",
+            "en": "Biking on top of the ramparts is a unique experience. Find a nice spot for a picnic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Landsoldat",
+            "hu": "A közlegény szobra",
+            "ro": "Statuia Soldatului",
+            "en": "The Valiant Soldier Statue"
+          },
+          "coords": [
+            9.7548,
+            55.5644
+          ],
+          "category": "monument",
+          "arrive_at": "14:09",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause am Fuße der Wälle, um dieses berühmte Denkmal zu bewundern.",
+            "hu": "Tartson egy rövid szünetet a sáncok lábánál, hogy megcsodálja ezt a híres emlékművet.",
+            "ro": "Faceți o scurtă oprire la baza valurilor pentru a admira acest faimos monument.",
+            "en": "Take a short break at the foot of the ramparts to admire this famous monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Kastell",
+            "hu": "A Citadella (Kastellet)",
+            "ro": "Citadela (Kastellet)",
+            "en": "The Citadel (Kastellet)"
+          },
+          "coords": [
+            9.761,
+            55.568
+          ],
+          "category": "fortress",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum nordöstlichen Punkt der Festung für einen Blick auf das Meer.",
+            "hu": "Kerékpározzon az erőd északkeleti pontjához, ahonnan kilátás nyílik a tengerre.",
+            "ro": "Pedalați spre punctul de nord-est al cetății pentru o priveliște spre mare.",
+            "en": "Bike to the northeastern point of the fortress for a view of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Der weiße Wasserturm",
+            "hu": "A Fehér Víztorony",
+            "ro": "Turnul Alb de Apă",
+            "en": "The White Water Tower"
+          },
+          "coords": [
+            9.763,
+            55.563
+          ],
+          "category": "landmark",
+          "arrive_at": "15:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und steigen Sie für die beste Aussicht der Stadt hinauf.",
+            "hu": "Zárja le a kerékpárját, és másszon fel a város legjobb kilátásáért.",
+            "ro": "Parcați bicicleta și urcați pentru cea mai bună priveliște din oraș.",
+            "en": "Park your bike and climb up for the best view in town."
+          }
+        },
+        {
+          "name": {
+            "de": "Østerstrand",
+            "hu": "Østerstrand strand",
+            "ro": "Plaja Østerstrand",
+            "en": "Østerstrand Beach"
+          },
+          "coords": [
+            9.775,
+            55.565
+          ],
+          "category": "beach",
+          "arrive_at": "15:59",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannenden Zeit am Strand. Es gibt einen tollen Radweg entlang der Küste.",
+            "hu": "Fejezze be a kerékpártúrát egy pihentető időtöltéssel a tengerparton. A part mentén remek kerékpárút vezet.",
+            "ro": "Încheiați turul cu bicicleta cu un moment de relaxare pe plajă. Există o pistă de biciclete excelentă de-a lungul coastei.",
+            "en": "Finish your bike tour with a relaxing time at the beach. There's a great bike path along the coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Fahrradtag in Fredericia beginnt am besten im Grünen. Fahren Sie zum weitläufigen Madsby Legepark, wo Sie einen aktiven Morgen inmitten von Natur, Tieren und Spielbereichen verbringen können. Es ist der perfekte Start, um in Bewegung zu kommen, bevor Sie in die Geschichte der Stadt eintauchen. Die Radwege sind gut ausgebaut und führen Sie sicher aus dem Zentrum heraus.\nZu Mittag radeln Sie zurück in Richtung Zentrum und machen Halt bei der Historischen Ministadt. Hier können Sie eine Pause einlegen und das faszinierende Modell von Fredericia aus dem 19. Jahrhundert bewundern. Anschließend führt Sie Ihr Weg auf die berühmten Wallanlagen, die Sie wunderbar mit dem Fahrrad erkunden können. Suchen Sie sich einen schönen Platz für ein mitgebrachtes Mittagessen und genießen Sie die Aussicht.\nDer Nachmittag ist der Erkundung des historischen Kerns gewidmet. Fahren Sie entlang der Wälle zum Kastell, zum Denkmal des Landsoldaten und schließlich zum Weißen Wasserturm. Von dort oben haben Sie den besten Überblick über Ihre bereits zurückgelegte Strecke und die sternförmige Anlage der Stadt. Jeder Halt ist nur eine kurze, angenehme Radfahrt vom nächsten entfernt.\nIhre Tour endet am Østerstrand. Nach einem Tag im Sattel gibt es nichts Besseres, als sich am Strand zu entspannen, die Füße ins Wasser zu halten und die Meeresbrise zu genießen. Der Radweg entlang der Küste bietet eine letzte schöne Fahrt, bevor Sie den Tag bei einem Abendessen in einem der nahegelegenen Restaurants ausklingen lassen.",
+        "hu": "A fredericiai kerékpáros napot a legjobb a zöldben kezdeni. Tekerjen el a tágas Madsby Játszóparkba, ahol aktív délelőttöt tölthet a természet, állatok és játszóterek közepette. Ez a tökéletes kezdés, hogy mozgásba jöjjön, mielőtt elmerülne a város történelmében. A kerékpárutak jól kiépítettek és biztonságosan kivezetik Önt a központból.\nDélben tekerjen vissza a központ felé, és álljon meg a Történelmi Minivárosnál. Itt tarthat egy szünetet, és megcsodálhatja Fredericia 19. századi lenyűgöző modelljét. Ezután útja a híres sáncokra vezet, amelyeket csodálatosan felfedezhet kerékpárral. Keressen egy szép helyet egy hozott ebédhez, és élvezze a kilátást.\nA délután a történelmi mag felfedezésének szentelt. Tekerjen végig a sáncokon a Citadellához, a Közlegény szobrához és végül a Fehér Víztoronyhoz. Onnan fentről nyílik a legjobb kilátás a már megtett útvonalra és a város csillag alakú elrendezésére. Minden megálló csak egy rövid, kellemes kerékpárútra van a következőtől.\nA túra az Østerstrandon ér véget. Egy nyeregben töltött nap után nincs is jobb, mint pihenni a tengerparton, lógatni a lábát a vízben, és élvezni a tengeri szellőt. A part menti kerékpárút egy utolsó szép tekerést kínál, mielőtt a napot egy vacsorával zárná a közeli éttermek egyikében.",
+        "ro": "O zi cu bicicleta în Fredericia începe cel mai bine în natură. Pedalați spre vastul parc Madsby Legepark, unde puteți petrece o dimineață activă înconjurat de natură, animale și zone de joacă. Este startul perfect pentru a vă pune în mișcare înainte de a vă cufunda în istoria orașului. Piste de biciclete sunt bine dezvoltate și vă conduc în siguranță în afara centrului.\nLa prânz, pedalați înapoi spre centru și opriți-vă la Mini-orașul Istoric. Aici puteți lua o pauză și admira fascinantul model al Fredericiei din secolul al XIX-lea. Apoi, drumul vă duce pe faimoasele valuri, pe care le puteți explora minunat cu bicicleta. Găsiți un loc frumos pentru un prânz la pachet și bucurați-vă de priveliște.\nDupă-amiaza este dedicată explorării nucleului istoric. Pedalați de-a lungul valurilor până la Citadelă, la monumentul Soldatului și, în final, la Turnul Alb de Apă. De acolo, de sus, aveți cea mai bună perspectivă asupra traseului parcurs și a structurii în formă de stea a orașului. Fiecare oprire este la o scurtă și plăcută plimbare cu bicicleta de următoarea.\nTurul dumneavoastră se încheie la Østerstrand. După o zi în șa, nu există nimic mai bun decât să vă relaxați pe plajă, să vă băgați picioarele în apă și să vă bucurați de briza mării. Pista de biciclete de-a lungul coastei oferă o ultimă plimbare frumoasă înainte de a încheia ziua cu o cină la unul dintre restaurantele din apropiere.",
+        "en": "A bike day in Fredericia is best started in the green. Cycle to the expansive Madsby Legepark, where you can spend an active morning surrounded by nature, animals, and play areas. It's the perfect start to get moving before delving into the city's history. The bike paths are well-developed and lead you safely out of the center.\nAt noon, cycle back towards the center and stop at the Historical Mini-Town. Here you can take a break and admire the fascinating 19th-century model of Fredericia. Afterwards, your path leads you onto the famous ramparts, which are wonderful to explore by bike. Find a nice spot for a packed lunch and enjoy the view.\nThe afternoon is dedicated to exploring the historical core. Cycle along the ramparts to the Citadel, the Valiant Soldier monument, and finally to the White Water Tower. From up there, you have the best overview of your route and the city's star-shaped layout. Each stop is just a short, pleasant bike ride from the next.\nYour tour ends at Østerstrand. After a day in the saddle, there's nothing better than relaxing on the beach, dipping your feet in the water, and enjoying the sea breeze. The coastal bike path offers one last beautiful ride before you end the day with dinner at one of the nearby restaurants."
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in der Nähe des Bahnhofs, wenn Sie keins haben.",
+          "Die Wege auf den Wällen werden mit Fußgängern geteilt, fahren Sie also rücksichtsvoll.",
+          "Einige Straßen im Zentrum sind Einbahnstraßen, achten Sie auf die Schilder.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch bei kurzen Stopps."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a pályaudvar közelében, ha nincs sajátja.",
+          "A sáncokon lévő utakat gyalogosokkal kell megosztani, ezért közlekedjen körültekintően.",
+          "A központban néhány utca egyirányú, figyeljen a táblákra.",
+          "Mindig zárja le a kerékpárját, még rövid megállók esetén is."
+        ],
+        "ro": [
+          "Închiriați o bicicletă lângă gară dacă nu aveți una.",
+          "Căile de pe valuri sunt partajate cu pietonii, așa că mergeți cu atenție.",
+          "Unele străzi din centru sunt cu sens unic, fiți atenți la semne.",
+          "Încuiați-vă întotdeauna bicicleta, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Rent a bike near the train station if you don't have one.",
+          "The paths on the ramparts are shared with pedestrians, so ride considerately.",
+          "Some streets in the center are one-way for cars, pay attention to signs.",
+          "Always lock your bike, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 11.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Madsby Legepark",
+            "hu": "Madsby Játszópark",
+            "ro": "Parcul Madsby Legepark",
+            "en": "Madsby Legepark (Play Park)"
+          },
+          "coords": [
+            9.708,
+            55.567
+          ],
+          "category": "park",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Starten Sie hier, es gibt reichlich Parkplätze. Ein toller Ort für Familien.",
+            "hu": "Kezdje itt a napot, rengeteg a parkolóhely. Remek hely családok számára.",
+            "ro": "Începeți aici, există parcare amplă. Un loc minunat pentru familii.",
+            "en": "Start your day here; there's ample parking. A great place for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Die historische Ministadt",
+            "hu": "A történelmi Miniváros",
+            "ro": "Miniorășelul Istoric",
+            "en": "The Historical Mini-Town"
+          },
+          "coords": [
+            9.735,
+            55.569
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Parkplatz und tauchen Sie in die Geschichte von 1849 ein.",
+            "hu": "Vezessen a következő parkolóhoz, és merüljön el 1849 történelmében.",
+            "ro": "Conduceți până la următoarea parcare și scufundați-vă în istoria anului 1849.",
+            "en": "Drive to the next parking lot and dive into the history of 1849."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Stadtzentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare Centrul Orașului",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            9.752,
+            55.562
+          ],
+          "category": "transport",
+          "arrive_at": "12:35",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Nachmittags und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon itt a délután hátralévő részére, és fedezze fel a központot gyalog.",
+            "ro": "Parcați aici pentru restul după-amiezii și explorați centrul pe jos.",
+            "en": "Park here for the rest of the afternoon and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Trinitatis-Kirche",
+            "hu": "Trinitatis-templom",
+            "ro": "Biserica Trinitatis",
+            "en": "Trinitatis Church"
+          },
+          "coords": [
+            9.756,
+            55.563
+          ],
+          "category": "church",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz. Ein ruhiger Ort vor dem Mittagessen.",
+            "hu": "Egy rövid séta a parkolótól. Csendes hely ebéd előtt.",
+            "ro": "O scurtă plimbare de la parcare. Un loc liniștit înainte de prânz.",
+            "en": "A short walk from the parking area. A peaceful spot before lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Landsoldat & Wallanlagen",
+            "hu": "A közlegény szobra és a sáncok",
+            "ro": "Soldatul și Valurile",
+            "en": "The Soldier & Ramparts"
+          },
+          "coords": [
+            9.7548,
+            55.5644
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Statue und gehen Sie dann ein Stück auf den nahe gelegenen Wällen spazieren.",
+            "hu": "Csodálja meg a szobrot, majd sétáljon egyet a közeli sáncokon.",
+            "ro": "Admirați statuia și apoi faceți o plimbare pe valurile din apropiere.",
+            "en": "Admire the statue and then take a walk on the nearby ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Strand",
+            "hu": "Autózás a partra",
+            "ro": "Drumul spre plajă",
+            "en": "Drive to the Beach"
+          },
+          "coords": [
+            9.77,
+            55.565
+          ],
+          "category": "transport",
+          "arrive_at": "14:50",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Holen Sie das Auto und fahren Sie zum Østerstrand für einen entspannten Nachmittag.",
+            "hu": "Menjen vissza a kocsihoz, és vezessen az Østerstrandhoz egy pihentető délutánra.",
+            "ro": "Întoarceți-vă la mașină și conduceți spre Østerstrand pentru o după-amiază relaxantă.",
+            "en": "Get back in the car and drive to Østerstrand for a relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Østerstrand",
+            "hu": "Østerstrand strand",
+            "ro": "Plaja Østerstrand",
+            "en": "Østerstrand Beach"
+          },
+          "coords": [
+            9.775,
+            55.565
+          ],
+          "category": "beach",
+          "arrive_at": "14:52",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und genießen Sie den Rest des Tages am Meer.",
+            "hu": "Parkoljon a közelben, és élvezze a nap hátralévő részét a tengernél.",
+            "ro": "Parcați în apropiere și bucurați-vă de restul zilei la malul mării.",
+            "en": "Park nearby and enjoy the rest of your day by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Flexibilität, Ihren Tag im weitläufigen Madsby Legepark zu beginnen, der etwas außerhalb des Zentrums liegt. Hier können Sie den Vormittag in der Natur verbringen, bevor Sie zur Historischen Ministadt fahren, die ebenfalls über gute Parkmöglichkeiten verfügt. Diese ersten Stopps bieten einen sanften Einstieg in den Tag, besonders für Familien.\nAm Mittag fahren Sie ins Zentrum und stellen Ihr Auto auf einem der zentralen Parkplätze ab. Von hier aus erkunden Sie den historischen Kern zu Fuß – das ist die Cluster-Walking-Philosophie. Besuchen Sie die Trinitatis-Kirche und das Denkmal des Landsoldaten und machen Sie einen Spaziergang auf den berühmten Wällen. Ein Mittagessen in der Innenstadt verbindet die historischen Erkundungen.\nNachdem Sie das Zentrum erkundet haben, kehren Sie zu Ihrem Auto zurück für den letzten Cluster-Wechsel des Tages. Eine kurze Fahrt bringt Sie zum Østerstrand, dem Stadtstrand. Hier können Sie einen langen, entspannten Nachmittag verbringen. Der Kontrast zwischen der militärischen Geschichte am Vormittag und der entspannten Strandatmosphäre am Nachmittag macht den Tag besonders abwechslungsreich.\nBeenden Sie Ihren Tag mit Blick auf das Meer. Der Østerstrand ist der perfekte Ort, um den Sonnenuntergang zu beobachten oder einfach die frische Luft zu genießen, bevor Sie zu Ihrem Auto zurückkehren. Die Flexibilität des Autos ermöglicht es Ihnen, den Tag in Ihrem eigenen Tempo zu gestalten und sowohl die Attraktionen außerhalb als auch das historische Herz von Fredericia bequem zu erleben.",
+        "hu": "Autóval rugalmasan kezdheti a napot a központtól kissé távolabb eső, tágas Madsby Játszóparkban. Itt töltheti a délelőttöt a természetben, mielőtt a szintén jó parkolási lehetőségekkel rendelkező Történelmi Minivároshoz hajt. Ezek az első megállók kellemes bevezetést nyújtanak a napba, különösen családok számára.\nDélben hajtson be a központba, és tegye le autóját az egyik központi parkolóban. Innen gyalogosan fedezze fel a történelmi magot – ez a klaszter-séta filozófia. Látogassa meg a Trinitatis-templomot és a Közlegény szobrát, és tegyen egy sétát a híres sáncokon. Egy belvárosi ebéd összeköti a történelmi felfedezéseket.\nMiután felfedezte a központot, térjen vissza autójához a nap utolsó klaszterváltásához. Egy rövid autóút elviszi az Østerstrandhoz, a városi strandhoz. Itt egy hosszú, pihentető délutánt tölthet. A délelőtti katonai történelem és a délutáni laza tengerparti hangulat kontrasztja teszi a napot különösen változatossá.\nZárja a napot a tengerre néző kilátással. Az Østerstrand tökéletes hely a naplemente megfigyelésére vagy egyszerűen a friss levegő élvezetére, mielőtt visszatérne az autójához. Az autó rugalmassága lehetővé teszi, hogy a napot saját tempójában alakítsa, és kényelmesen megtapasztalja mind a külső látnivalókat, mind Fredericia történelmi szívét.",
+        "ro": "Cu mașina, aveți flexibilitatea de a începe ziua în vastul parc Madsby Legepark, situat puțin în afara centrului. Aici puteți petrece dimineața în natură înainte de a conduce la Mini-orașul Istoric, care are și el parcare bună. Aceste prime opriri oferă o introducere blândă în zi, în special pentru familii.\nLa prânz, conduceți în centru și parcați mașina într-una dintre parcările centrale. De aici, explorați nucleul istoric pe jos – aceasta este filozofia plimbării în cluster. Vizitați Biserica Trinitatis și monumentul Soldatului și faceți o plimbare pe faimoasele valuri. Un prânz în centrul orașului leagă explorările istorice.\nDupă ce ați explorat centrul, reveniți la mașină pentru ultima schimbare de cluster a zilei. O scurtă călătorie cu mașina vă duce la Østerstrand, plaja orașului. Aici puteți petrece o după-amiază lungă și relaxantă. Contrastul dintre istoria militară de dimineață și atmosfera relaxată de pe plajă de după-amiază face ziua deosebit de variată.\nÎncheiați ziua cu o priveliște la mare. Østerstrand este locul perfect pentru a privi apusul sau pur și simplu pentru a vă bucura de aerul proaspăt înainte de a vă întoarce la mașină. Flexibilitatea mașinii vă permite să vă creați ziua în propriul ritm și să experimentați confortabil atât atracțiile exterioare, cât și inima istorică a Fredericiei.",
+        "en": "With a car, you have the flexibility to start your day at the expansive Madsby Legepark, located slightly outside the center. You can spend the morning in nature here before driving to the Historical Mini-Town, which also has good parking. These initial stops provide a gentle start to the day, especially for families.\nAt noon, drive into the center and leave your car in one of the central parking lots. From here, explore the historic core on foot – this is the cluster-walking philosophy. Visit Trinitatis Church and the Valiant Soldier monument, and take a walk on the famous ramparts. A downtown lunch connects the historical explorations.\nAfter exploring the center, return to your car for the day's final cluster change. A short drive takes you to Østerstrand, the city beach. Here you can spend a long, relaxing afternoon. The contrast between the morning's military history and the afternoon's relaxed beach atmosphere makes the day particularly varied.\nEnd your day with a view of the sea. Østerstrand is the perfect place to watch the sunset or simply enjoy the fresh air before returning to your car. The car's flexibility allows you to shape the day at your own pace, comfortably experiencing both the outlying attractions and Fredericia's historic heart."
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkzonen (P-Zonen) und die maximale Parkdauer im Stadtzentrum.",
+          "Die meisten Parkplätze sind kostenpflichtig. Halten Sie eine Kreditkarte oder Münzen bereit.",
+          "Der Verkehr in der Innenstadt kann eng sein; das Parken am Rand und das Laufen sind oft schneller.",
+          "Tanken Sie außerhalb des Zentrums, um günstigere Preise zu erhalten."
+        ],
+        "hu": [
+          "Figyeljen a parkolási zónákra (P-zónák) és a maximális parkolási időre a városközpontban.",
+          "A legtöbb parkoló fizetős. Készítsen elő hitelkártyát vagy érméket.",
+          "A belvárosi forgalom szűkös lehet; a szélén parkolni és gyalogolni gyakran gyorsabb.",
+          "Tankoljon a központon kívül a kedvezőbb árakért."
+        ],
+        "ro": [
+          "Fiți atenți la zonele de parcare (P-zones) și la durata maximă de parcare în centrul orașului.",
+          "Majoritatea parcărilor sunt cu plată. Pregătiți un card de credit sau monede.",
+          "Traficul în centrul orașului poate fi aglomerat; parcarea la periferie și mersul pe jos sunt adesea mai rapide.",
+          "Alimentați în afara centrului pentru prețuri mai bune."
+        ],
+        "en": [
+          "Pay attention to parking zones (P-zones) and maximum parking times in the city center.",
+          "Most parking is paid. Have a credit card or coins ready.",
+          "Traffic in the city center can be tight; parking on the edge and walking is often faster.",
+          "Fill up on gas outside the city center for better prices."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Fredericia & Bus zum Zentrum",
+            "hu": "Fredericia pályaudvar és busz a központba",
+            "ro": "Gara Fredericia și autobuz spre centru",
+            "en": "Fredericia Station & Bus to Center"
+          },
+          "coords": [
+            9.742,
+            55.571
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen der häufigen Busse vom Bahnhof ins historische Zentrum.",
+            "hu": "Vegyen igénybe egy gyakori buszt a pályaudvarról a történelmi központba.",
+            "ro": "Luați unul dintre autobuzele frecvente de la gară spre centrul istoric.",
+            "en": "Take one of the frequent buses from the train station to the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Landsoldaten & Wallanlagen",
+            "hu": "A közlegény szobra és a sáncok",
+            "ro": "Soldatul și Valurile",
+            "en": "The Soldier & Ramparts"
+          },
+          "coords": [
+            9.754,
+            55.564
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Steigen Sie in der Nähe aus und beginnen Sie Ihre Erkundung des ersten Clusters zu Fuß.",
+            "hu": "Szálljon le a közelben, és kezdje meg az első klaszter gyalogos felfedezését.",
+            "ro": "Coborâți în apropiere și începeți explorarea pe jos a primului cluster.",
+            "en": "Get off nearby and begin your walking exploration of the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Trinitatis-Kirche",
+            "hu": "Trinitatis-templom",
+            "ro": "Biserica Trinitatis",
+            "en": "Trinitatis Church"
+          },
+          "coords": [
+            9.756,
+            55.563
+          ],
+          "category": "church",
+          "arrive_at": "10:56",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die malerischen Straßen des Zentrums.",
+            "hu": "Egy rövid séta a központ festői utcáin.",
+            "ro": "O scurtă plimbare pe străzile pitorești din centru.",
+            "en": "A short walk through the center's picturesque streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Madsby Legepark",
+            "hu": "Busz a Madsby Játszóparkhoz",
+            "ro": "Autobuz spre Madsby Legepark",
+            "en": "Bus to Madsby Legepark"
+          },
+          "coords": [
+            9.71,
+            55.567
+          ],
+          "category": "transport",
+          "arrive_at": "11:51",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus für den zweiten Cluster. Die Fahrt bietet einen Blick auf die Vororte.",
+            "hu": "Vegye igénybe a buszt a második klaszterhez. Az út bepillantást enged a külvárosba.",
+            "ro": "Luați autobuzul pentru al doilea cluster. Călătoria oferă o priveliște a suburbiilor.",
+            "en": "Take the bus for the second cluster. The ride offers a glimpse of the suburbs."
+          }
+        },
+        {
+          "name": {
+            "de": "Madsby Legepark",
+            "hu": "Madsby Játszópark",
+            "ro": "Parcul Madsby Legepark",
+            "en": "Madsby Legepark"
+          },
+          "coords": [
+            9.708,
+            55.567
+          ],
+          "category": "park",
+          "arrive_at": "11:53",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Park und planen Sie hier Ihre Mittagspause.",
+            "hu": "Élvezze a parkot, és tervezze ide az ebédszünetet.",
+            "ro": "Bucurați-vă de parc și planificați-vă pauza de prânz aici.",
+            "en": "Enjoy the park and plan your lunch break here."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Østerstrand",
+            "hu": "Busz az Østerstrandhoz",
+            "ro": "Autobuz spre Østerstrand",
+            "en": "Bus to Østerstrand"
+          },
+          "coords": [
+            9.775,
+            55.565
+          ],
+          "category": "beach",
+          "arrive_at": "14:05",
+          "stay_min": 180,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück durch die Stadt zum letzten Ziel, dem Strand.",
+            "hu": "Utazzon busszal vissza a városon keresztül az utolsó célponthoz, a strandhoz.",
+            "ro": "Luați autobuzul înapoi prin oraș spre destinația finală, plaja.",
+            "en": "Take the bus back through town to the final destination, the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt am Bahnhof von Fredericia, einem wichtigen Verkehrsknotenpunkt. Von hier aus bringt Sie ein kurzer Bus-Hop in den ersten Cluster: das historische Zentrum. Steigen Sie in der Nähe des Denkmals des Landsoldaten aus und erkunden Sie die beeindruckenden Wallanlagen und die Trinitatis-Kirche zu Fuß. Dieser Bereich ist kompakt und ideal für einen Spaziergang am Vormittag.\nNachdem Sie die Geschichte aufgesogen haben, ist es Zeit für den nächsten Cluster-Wechsel. Eine weitere Busfahrt bringt Sie zum weitläufigen Madsby Legepark. Hier können Sie einen Kontrast zur städtischen Umgebung erleben, die Natur genießen und in einem der Parkcafés zu Mittag essen. Der Bus verbindet bequem die historische Innenstadt mit diesem grünen Erholungsgebiet.\nAm Nachmittag steigen Sie erneut in einen Bus, der Sie quer durch die Stadt zum dritten und letzten Cluster des Tages bringt: dem Østerstrand. Dieser letzte Hop mit dem Bus zeigt Ihnen verschiedene Facetten der Stadt. Am Strand angekommen, können Sie den Rest des Nachmittags damit verbringen, sich zu entspannen, zu schwimmen oder einfach die Aussicht zu genießen.\nDer Tag endet entspannt am Meer. Wenn es Zeit ist zu gehen, bringt Sie ein Bus vom Strandbereich bequem zurück zum Bahnhof oder zu Ihrem Ausgangspunkt. Die Nutzung des Busnetzes ermöglicht es Ihnen, verschiedene Teile von Fredericia ohne den Stress des Parkens zu erleben und bietet eine nachhaltige Möglichkeit, die Stadt zu erkunden.",
+        "hu": "A tömegközlekedési túra Fredericia pályaudvarán, egy fontos közlekedési csomóponton kezdődik. Innen egy rövid buszozás elviszi az első klaszterbe: a történelmi központba. Szálljon le a Közlegény szobrának közelében, és fedezze fel gyalog a lenyűgöző sáncokat és a Trinitatis-templomot. Ez a terület kompakt és ideális egy délelőtti sétához.\nMiután magába szívta a történelmet, itt az ideje a következő klaszterváltásnak. Egy újabb buszút elviszi a tágas Madsby Játszóparkba. Itt megtapasztalhatja a városi környezet kontrasztját, élvezheti a természetet és megebédelhet a park egyik kávézójában. A busz kényelmesen összeköti a történelmi belvárost ezzel a zöld rekreációs területtel.\nDélután ismét buszra száll, amely átszeli a várost a nap harmadik és egyben utolsó klaszteréhez: az Østerstrandhoz. Ez az utolsó buszozás a város különböző arcait mutatja meg. A strandra érve a délután hátralévő részét pihenéssel, úszással vagy egyszerűen a kilátás élvezetével töltheti.\nA nap pihentetően ér véget a tengernél. Amikor eljön az indulás ideje, egy busz kényelmesen visszaviszi Önt a strandról a pályaudvarra vagy a kiindulási pontjához. A buszhálózat használata lehetővé teszi, hogy Fredericia különböző részeit a parkolási stressz nélkül tapasztalja meg, és fenntartható módon fedezze fel a várost.",
+        "ro": "Turul dumneavoastră cu transportul public începe la gara din Fredericia, un nod important de transport. De aici, o scurtă călătorie cu autobuzul vă duce la primul cluster: centrul istoric. Coborâți lângă monumentul Soldatului și explorați pe jos impresionantele valuri și Biserica Trinitatis. Această zonă este compactă și ideală pentru o plimbare de dimineață.\nDupă ce ați absorbit istoria, este timpul pentru următoarea schimbare de cluster. O altă călătorie cu autobuzul vă duce la vastul parc Madsby Legepark. Aici puteți experimenta un contrast cu mediul urban, vă puteți bucura de natură și puteți lua prânzul la una dintre cafenelele din parc. Autobuzul leagă convenabil centrul istoric de această zonă verde de recreere.\nDupă-amiaza, urcați din nou într-un autobuz care vă duce prin oraș la al treilea și ultimul cluster al zilei: Østerstrand. Această ultimă călătorie cu autobuzul vă arată diferite fațete ale orașului. Odată ajunși la plajă, puteți petrece restul după-amiezii relaxându-vă, înotând sau pur și simplu bucurându-vă de priveliște.\nZiua se încheie relaxant la malul mării. Când este timpul să plecați, un autobuz vă va duce confortabil de la zona de plajă înapoi la gară sau la punctul de plecare. Utilizarea rețelei de autobuze vă permite să experimentați diferite părți ale Fredericiei fără stresul parcării și oferă o modalitate durabilă de a explora orașul.",
+        "en": "Your public transit tour begins at Fredericia station, a major transport hub. From here, a short bus hop takes you to the first cluster: the historic center. Get off near the Valiant Soldier monument and explore the impressive ramparts and Trinitatis Church on foot. This area is compact and ideal for a morning stroll.\nAfter soaking up the history, it's time for the next cluster change. Another bus ride takes you to the expansive Madsby Legepark. Here you can experience a contrast to the urban environment, enjoy nature, and have lunch at one of the park's cafes. The bus conveniently connects the historic downtown with this green recreational area.\nIn the afternoon, you'll board another bus that takes you across town to the third and final cluster of the day: Østerstrand. This last hop by bus shows you different facets of the city. Once at the beach, you can spend the rest of the afternoon relaxing, swimming, or simply enjoying the view.\nThe day ends relaxing by the sea. When it's time to leave, a bus will comfortably take you from the beach area back to the train station or your starting point. Using the bus network allows you to experience different parts of Fredericia without the stress of parking and offers a sustainable way to explore the city."
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte (dagsbillet) für unbegrenzte Fahrten.",
+          "Verwenden Sie eine Reiseplaner-App wie 'Rejseplanen', um Buslinien und -zeiten zu überprüfen.",
+          "Busse halten möglicherweise nicht automatisch an jeder Haltestelle. Drücken Sie den 'Stop'-Knopf.",
+          "Die Frequenz der Busse kann an Wochenenden geringer sein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet (dagsbillet) a korlátlan utazáshoz.",
+          "Használjon egy útvonaltervező alkalmazást, mint a 'Rejseplanen', a buszjáratok és menetrendek ellenőrzéséhez.",
+          "A buszok nem feltétlenül állnak meg minden megállóban. Nyomja meg a 'Stop' gombot.",
+          "A buszok gyakorisága hétvégén alacsonyabb lehet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi (dagsbillet) pentru călătorii nelimitate.",
+          "Utilizați o aplicație de planificare a călătoriilor precum 'Rejseplanen' pentru a verifica rutele și orarele autobuzelor.",
+          "Autobuzele s-ar putea să nu oprească automat la fiecare stație. Apăsați butonul 'Stop'.",
+          "Frecvența autobuzelor poate fi mai redusă în weekend."
+        ],
+        "en": [
+          "Buy a day ticket (dagsbillet) for unlimited travel.",
+          "Use a journey planner app like 'Rejseplanen' to check bus routes and times.",
+          "Buses may not stop automatically at every stop. Press the 'Stop' button.",
+          "Bus frequency might be lower on weekends."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1452 @@
+{
+  "city_id": "switzerland-buchs-sg-cities-v2",
+  "anchor": {
+    "name": "Buchs (SG)",
+    "coords": [
+      9.478,
+      47.166
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Bahnhofstrasse",
+            "hu": "Indulás: Bahnhofstrasse",
+            "ro": "Start: Bahnhofstrasse",
+            "en": "Start: Bahnhofstrasse"
+          },
+          "coords": [
+            9.4781,
+            47.1662
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Holen Sie sich einen Kaffee in einem der lokalen Cafés, um den Tag zu beginnen.",
+            "hu": "Kezdje a napot egy kávéval az egyik helyi kávézóban.",
+            "ro": "Începeți ziua cu o cafea de la una dintre cafenelele locale.",
+            "en": "Grab a coffee from one of the local cafes to start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Buchs",
+            "hu": "Buchsi Városháza",
+            "ro": "Primăria din Buchs",
+            "en": "Buchs Town Hall"
+          },
+          "coords": [
+            9.4775,
+            47.1655
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur und die gepflegten Blumendekorationen.",
+            "hu": "Csodálja meg a hagyományos építészetet és a gondozott virágdíszeket.",
+            "ro": "Admirați arhitectura tradițională și decorațiunile florale bine întreținute.",
+            "en": "Admire the traditional architecture and the well-kept flower decorations."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche Buchs",
+            "hu": "Buchsi Református Templom",
+            "ro": "Biserica Reformată din Buchs",
+            "en": "Reformed Church of Buchs"
+          },
+          "coords": [
+            9.479,
+            47.167
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die schlichte Eleganz des Innenraums, typisch für reformierte Kirchen.",
+            "hu": "Figyelje meg a belső tér egyszerű eleganciáját, ami jellemző a református templomokra.",
+            "ro": "Observați eleganța sobră a interiorului, tipică bisericilor reformate.",
+            "en": "Notice the simple elegance of the interior, typical of Reformed churches."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Werdenberg & Städtli",
+            "hu": "Werdenbergi Kastély és Óváros",
+            "ro": "Castelul Werdenberg și Orășelul",
+            "en": "Werdenberg Castle & Town"
+          },
+          "coords": [
+            9.471,
+            47.164
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:01",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für einen Spaziergang durch das mittelalterliche Städtli unterhalb des Schlosses.",
+            "hu": "Szánjon időt egy sétára a kastély alatti középkori városkában.",
+            "ro": "Luați-vă timp pentru o plimbare prin micul oraș medieval de sub castel.",
+            "en": "Take time for a walk through the medieval townlet below the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Werdenbergersee",
+            "hu": "Séta a Werdenbergi-tónál",
+            "ro": "Plimbare pe malul lacului Werdenberg",
+            "en": "Walk at Werdenbergersee Lake"
+          },
+          "coords": [
+            9.47,
+            47.162
+          ],
+          "category": "natural features",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Picknick-Mittagessen mit Blick auf das Schloss.",
+            "hu": "Tökéletes hely egy piknikebédhez, kilátással a kastélyra.",
+            "ro": "Locul perfect pentru un prânz la picnic cu vedere la castel.",
+            "en": "The perfect spot for a picnic lunch with a view of the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Rheinpromenade",
+            "hu": "Rajnai sétány",
+            "ro": "Promenada Rinului",
+            "en": "Rhine Promenade"
+          },
+          "coords": [
+            9.5,
+            47.168
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie das fliessende Wasser und geniessen Sie die friedliche Atmosphäre an der Grenze zu Liechtenstein.",
+            "hu": "Nézze a hömpölygő vizet, és élvezze a békés hangulatot Liechtenstein határán.",
+            "ro": "Priviți apa curgând și bucurați-vă de atmosfera pașnică la granița cu Liechtenstein.",
+            "en": "Watch the flowing water and enjoy the peaceful atmosphere on the border with Liechtenstein."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Buchs beginnt an der belebten Bahnhofstrasse, dem Herzen der Stadt. Von dort aus schlendern Sie zum historischen Rathaus und der schlichten reformierten Kirche. Der Vormittag gipfelt in einem Ausflug in die Vergangenheit beim Schloss Werdenberg und dem malerischen See, wo Sie die mittelalterliche Atmosphäre aufsaugen. Am Nachmittag erleben Sie die Natur pur bei einem langen, entspannenden Spaziergang entlang der Rheinpromenade, wo die Schweiz auf Liechtenstein trifft. Der Abend klingt in einem gemütlichen Restaurant im Stadtzentrum aus, wo Sie die Eindrücke des Tages Revue passieren lassen.",
+        "hu": "A buchsi nap a város szívében, a nyüzsgő Bahnhofstrassén kezdődik. Innen a történelmi Városházához és az egyszerű református templomhoz sétál. A délelőtt a Werdenberg kastélynál és a festői tónál tett kirándulással csúcsosodik ki, ahol magába szívhatja a középkori hangulatot. Délután tiszta természetet élhet át egy hosszú, pihentető sétával a Rajnai sétányon, ahol Svájc és Liechtenstein találkozik. Az estét a városközpont egyik hangulatos éttermében zárja, áttekintve a nap élményeit.",
+        "ro": "Ziua dumneavoastră în Buchs începe pe animata Bahnhofstrasse, inima orașului. De acolo, vă plimbați spre Primăria istorică și sobră biserică reformată. Dimineața culminează cu o excursie în trecut la Castelul Werdenberg și lacul său pitoresc, unde absorbiți atmosfera medievală. După-amiaza, experimentați natura pură cu o plimbare lungă și relaxantă de-a lungul Promenadei Rinului, unde Elveția se întâlnește cu Liechtenstein. Seara se încheie într-un restaurant confortabil din centrul orașului, rememorând impresiile zilei.",
+        "en": "Your day in Buchs begins on the bustling Bahnhofstrasse, the heart of the city. From there, you stroll to the historic Town Hall and the simple Reformed Church. The morning culminates in a trip back in time at Werdenberg Castle and its picturesque lake, where you can soak up the medieval atmosphere. In the afternoon, you'll experience pure nature with a long, relaxing walk along the Rhine Promenade, where Switzerland meets Liechtenstein. The evening ends in a cozy restaurant in the city center, reflecting on the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "St. Galler Bratwurst",
+            "tip": "Probieren Sie sie ohne Senf, wie es die Einheimischen tun, oft mit einem knusprigen Bürli (Brot)."
+          },
+          {
+            "name": "Käsefondue",
+            "tip": "Ein Klassiker der Schweizer Alpen, perfekt für einen gemütlichen Abend."
+          },
+          {
+            "name": "Ribelmais",
+            "tip": "Ein traditionelles Gericht aus dem Rheintal, ähnlich wie Polenta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sankt Galleni sült kolbász",
+            "tip": "Kóstolja mustár nélkül, ahogy a helyiek eszik, gyakran egy ropogós 'Bürli' kenyérrel."
+          },
+          {
+            "name": "Sajtfondü",
+            "tip": "A svájci Alpok klasszikusa, tökéletes egy hangulatos estéhez."
+          },
+          {
+            "name": "Ribelmais",
+            "tip": "A Rajna-völgy hagyományos étele, hasonló a puliszkához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnat prăjit de St. Gallen",
+            "tip": "Încercați-l fără muștar, așa cum fac localnicii, adesea cu o pâine crocantă 'Bürli'."
+          },
+          {
+            "name": "Fondue de brânză",
+            "tip": "Un clasic al Alpilor Elvețieni, perfect pentru o seară confortabilă."
+          },
+          {
+            "name": "Ribelmais",
+            "tip": "Un fel de mâncare tradițional din Valea Rinului, asemănător cu mămăliga."
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Gallen Bratwurst",
+            "tip": "Try it without mustard as the locals do, often with a crispy 'Bürli' bread roll."
+          },
+          {
+            "name": "Cheese Fondue",
+            "tip": "A Swiss Alpine classic, perfect for a cozy evening."
+          },
+          {
+            "name": "Ribelmais",
+            "tip": "A traditional dish from the Rhine Valley, similar to polenta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Werdenbergersee",
+            "tip": "Finden Sie eine ruhige Bank am Ufer und genießen Sie den Blick auf das Schloss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rheinpromenade",
+            "tip": "Ein Spaziergang am frühen Morgen oder späten Nachmittag bietet die meiste Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bänke bei der Reformierten Kirche",
+            "tip": "Ein kleiner, friedlicher Ort mitten in der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Werdenbergi-tó",
+            "tip": "Keressen egy csendes padot a parton, és élvezze a kastélyra nyíló kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rajnai sétány",
+            "tip": "Egy kora reggeli vagy késő délutáni séta a legnyugodtabb.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Padok a Református Templomnál",
+            "tip": "Egy kicsi, békés hely a város közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Werdenberg",
+            "tip": "Găsiți o bancă liniștită pe mal și bucurați-vă de priveliștea castelului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Promenada Rinului",
+            "tip": "O plimbare dimineața devreme sau după-amiaza târziu oferă cea mai multă liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Băncile de lângă Biserica Reformată",
+            "tip": "Un loc mic și pașnic în mijlocul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Werdenbergersee Lake",
+            "tip": "Find a quiet bench on the shore and enjoy the view of the castle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rhine Promenade",
+            "tip": "An early morning or late afternoon walk offers the most tranquility.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Benches at the Reformed Church",
+            "tip": "A small, peaceful spot right in the middle of town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofstrasse",
+            "tip": "Die Hauptgeschäftsstrasse mit einer Mischung aus nationalen Ketten und lokalen Geschäften."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Schauen Sie nach lokalen Produkten und handwerklichen Erzeugnissen (prüfen Sie die Tage)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bahnhofstrasse",
+            "tip": "A fő bevásárlóutca, ahol nemzeti láncok és helyi üzletek keverednek."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat (ellenőrizze a napokat)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bahnhofstrasse",
+            "tip": "Principala stradă comercială cu un amestec de lanțuri naționale și magazine locale."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Căutați produse locale și articole de artizanat (verificați zilele)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bahnhofstrasse",
+            "tip": "The main shopping street with a mix of national chains and local shops."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Look for local produce and artisanal crafts (check for days)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich; es gibt viele Brunnen.",
+          "Prüfen Sie die Öffnungszeiten des Schlosses im Voraus.",
+          "Das Wetter kann sich schnell ändern, packen Sie eine leichte Jacke ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog sétálni.",
+          "Egy újratölthető vizes palack hasznos; sok ivókút van.",
+          "Előre ellenőrizze a kastély nyitvatartási idejét.",
+          "Az időjárás gyorsan változhat, csomagoljon egy könnyű kabátot."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "O sticlă de apă reutilizabilă este utilă; există multe fântâni publice.",
+          "Verificați în avans programul de funcționare al castelului.",
+          "Vremea se poate schimba rapid, așa că luați o jachetă ușoară."
+        ],
+        "en": [
+          "Wear comfortable shoes, as you will be doing a lot of walking.",
+          "A reusable water bottle is useful; there are many public fountains.",
+          "Check the castle's opening hours in advance.",
+          "The weather can change quickly, so pack a light jacket."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 11.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start an der Bahnhofstrasse",
+            "hu": "Kerékpárkölcsönzés és indulás a Bahnhofstrasséról",
+            "ro": "Închiriere biciclete & Start pe Bahnhofstrasse",
+            "en": "Bike Rental & Start at Bahnhofstrasse"
+          },
+          "coords": [
+            9.4781,
+            47.1662
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist und die Bremsen funktionieren.",
+            "hu": "Győződjön meg róla, hogy a kerékpár jó állapotban van, és a fékek működnek.",
+            "ro": "Asigurați-vă că bicicleta este în stare bună și că frânele funcționează.",
+            "en": "Make sure your bike is in good condition and the brakes are working."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Werdenberg",
+            "hu": "Werdenbergi kastély",
+            "ro": "Castelul Werdenberg",
+            "en": "Werdenberg Castle"
+          },
+          "coords": [
+            9.471,
+            47.164
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:42",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schliessen Sie Ihr Fahrrad am Fuss des Hügels ab und gehen Sie das letzte Stück zu Fuss.",
+            "hu": "Zárja le a kerékpárt a domb alján, és az utolsó szakaszt tegye meg gyalog.",
+            "ro": "Lăsați bicicleta la baza dealului și urcați ultima porțiune pe jos.",
+            "en": "Lock your bike at the bottom of the hill and walk the final stretch."
+          }
+        },
+        {
+          "name": {
+            "de": "Werdenbergersee",
+            "hu": "Werdenbergi-tó",
+            "ro": "Lacul Werdenberg",
+            "en": "Werdenbergersee Lake"
+          },
+          "coords": [
+            9.47,
+            47.162
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine Runde um den See ist eine kurze und einfache Fahrt mit schöner Aussicht.",
+            "hu": "Egy kör a tó körül egy rövid és könnyű tekerés, szép kilátással.",
+            "ro": "Un tur al lacului este o plimbare scurtă și ușoară, cu priveliști frumoase.",
+            "en": "A lap around the lake is a short and easy ride with beautiful views."
+          }
+        },
+        {
+          "name": {
+            "de": "Rheinpromenade",
+            "hu": "Rajnai sétány",
+            "ro": "Promenada Rinului",
+            "en": "Rhine Promenade"
+          },
+          "coords": [
+            9.5,
+            47.168
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:24",
+          "stay_min": 90,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Der Radweg entlang des Rheins ist flach und ideal für eine entspannte Fahrt. Bringen Sie ein Mittagessen mit!",
+            "hu": "A Rajna menti kerékpárút sík és ideális egy pihentető tekeréshez. Hozzon magával ebédet!",
+            "ro": "Pista de biciclete de-a lungul Rinului este plată și ideală pentru o plimbare relaxantă. Aduceți prânzul la pachet!",
+            "en": "The bike path along the Rhine is flat and ideal for a relaxed ride. Bring a packed lunch!"
+          }
+        },
+        {
+          "name": {
+            "de": "Greifvogelpark Buchs",
+            "hu": "Buchsi Ragadozómadár Park",
+            "ro": "Parcul de păsări de pradă din Buchs",
+            "en": "Buchs Bird of Prey Park"
+          },
+          "coords": [
+            9.485,
+            47.17
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie die Zeiten der Flugshows, um die majestätischen Vögel in Aktion zu sehen.",
+            "hu": "Ellenőrizze a repülési bemutatók időpontját, hogy láthassa a fenséges madarakat akció közben.",
+            "ro": "Verificați orele spectacolelor de zbor pentru a vedea păsările maiestuoase în acțiune.",
+            "en": "Check the flight show times to see the majestic birds in action."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zur Bahnhofstrasse",
+            "hu": "Vissza a Bahnhofstrasséra",
+            "ro": "Înapoi pe Bahnhofstrasse",
+            "en": "Back to Bahnhofstrasse"
+          },
+          "coords": [
+            9.4781,
+            47.1662
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:24",
+          "stay_min": 20,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und belohnen Sie sich mit einem Eis oder einem kühlen Getränk.",
+            "hu": "Adja vissza a kerékpárt, és jutalmazza meg magát egy fagyival vagy egy hideg itallal.",
+            "ro": "Returnați bicicleta și recompensați-vă cu o înghețată sau o băutură rece.",
+            "en": "Return your bike and reward yourself with an ice cream or a cool drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in Buchs aufs Rad und starten Sie an der Bahnhofstrasse. Ihre erste Etappe führt Sie zum historischen Schloss Werdenberg, gefolgt von einer entspannten Runde um den idyllischen See. Zur Mittagszeit radeln Sie ostwärts zur Rheinpromenade, dem perfekten Ort für ein Picknick an der Grenze zu Liechtenstein. Gestärkt geht es am Nachmittag zum Greifvogelpark, wo Sie beeindruckende Flugshows erleben können. Die Tour endet wieder im Zentrum, wo Sie den aktiven Tag gemütlich ausklingen lassen.",
+        "hu": "Pattanjon kerékpárra Buchsban, és induljon a Bahnhofstrasséról. Az első szakasz a történelmi Werdenberg kastélyhoz vezet, amit egy pihentető kör követ az idilli tó körül. Ebédidőben kelet felé teker a Rajnai sétányhoz, amely tökéletes hely egy piknikhez Liechtenstein határán. Feltöltődve délután a Ragadozómadár Parkba látogat, ahol lenyűgöző repülési bemutatókat láthat. A túra a központban ér véget, ahol kényelmesen lezárhatja az aktív napot.",
+        "ro": "Urcați-vă pe bicicletă în Buchs și porniți de pe Bahnhofstrasse. Prima etapă vă duce la castelul istoric Werdenberg, urmată de un tur relaxant în jurul lacului idilic. La prânz, pedalați spre est, spre Promenada Rinului, locul perfect pentru un picnic la granița cu Liechtenstein. Revigorați, după-amiaza mergeți la Parcul de Păsări de Pradă, unde puteți asista la spectacole de zbor impresionante. Turul se încheie înapoi în centru, unde puteți încheia ziua activă într-un mod relaxat.",
+        "en": "Hop on a bike in Buchs and start from Bahnhofstrasse. Your first stage takes you to the historic Werdenberg Castle, followed by a relaxed lap around the idyllic lake. At lunchtime, you'll cycle east to the Rhine Promenade, the perfect spot for a picnic on the border with Liechtenstein. Refreshed, the afternoon takes you to the Bird of Prey Park for impressive flight shows. The tour ends back in the center, where you can comfortably wrap up an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick am Rhein",
+            "tip": "Kaufen Sie lokale Spezialitäten auf dem Markt für ein Mittagessen im Freien."
+          },
+          {
+            "name": "Gasthof zum Trauben",
+            "tip": "Ein traditionelles Restaurant für herzhafte Schweizer Küche nach der Radtour."
+          },
+          {
+            "name": "Bäckerei-Café",
+            "tip": "Ideal für einen schnellen Energiekick mit Kaffee und Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a Rajnánál",
+            "tip": "Vásároljon helyi specialitásokat a piacon egy szabadtéri ebédhez."
+          },
+          {
+            "name": "Gasthof zum Trauben",
+            "tip": "Hagyományos étterem kiadós svájci ételekkel a kerékpártúra után."
+          },
+          {
+            "name": "Pékség-kávézó",
+            "tip": "Ideális egy gyors energialökéshez kávéval és süteménnyel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic pe Rin",
+            "tip": "Cumpărați specialități locale de la piață pentru un prânz în aer liber."
+          },
+          {
+            "name": "Gasthof zum Trauben",
+            "tip": "Un restaurant tradițional pentru bucătărie elvețiană consistentă după turul cu bicicleta."
+          },
+          {
+            "name": "Cafenea-patiserie",
+            "tip": "Ideal pentru un impuls rapid de energie cu o cafea și produse de patiserie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic on the Rhine",
+            "tip": "Buy local specialties at the market for an outdoor lunch."
+          },
+          {
+            "name": "Gasthof zum Trauben",
+            "tip": "A traditional restaurant for hearty Swiss cuisine after your bike tour."
+          },
+          {
+            "name": "Bakery-Café",
+            "tip": "Ideal for a quick energy boost with coffee and pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Werdenbergersees",
+            "tip": "Weniger belebt als der Hauptweg, perfekt für eine kurze Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Abschnitt des Rheins",
+            "tip": "Suchen Sie sich einen ruhigen Platz abseits des Hauptradwegs.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Alvier-Ausblick aus der Ferne",
+            "tip": "Halten Sie an einem Punkt mit Blick auf die Berge, um durchzuatmen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Werdenbergi-tó partja",
+            "tip": "Kevésbé forgalmas, mint a fő út, tökéletes egy rövid szünetre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Rajna egy szakasza",
+            "tip": "Keressen egy csendes helyet a fő kerékpárúttól távolabb.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az Alvier-kilátó távolról",
+            "tip": "Álljon meg egy hegyekre néző ponton, hogy levegőt vegyen.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Werdenberg",
+            "tip": "Mai puțin aglomerat decât poteca principală, perfect pentru o scurtă pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O secțiune a Rinului",
+            "tip": "Găsiți un loc liniștit departe de pista principală de biciclete.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere spre Alvier de la distanță",
+            "tip": "Opriți-vă la un punct cu vedere spre munți pentru a respira.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Werdenbergersee",
+            "tip": "Less crowded than the main path, perfect for a short break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A section of the Rhine",
+            "tip": "Find a quiet spot away from the main bike path.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Alvier viewpoint from a distance",
+            "tip": "Stop at a point with a view of the mountains to take a breath.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie Ausschau nach kleinen Bauernhofläden entlang der Radwege für frische Produkte."
+          },
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Falls Sie Zubehör für Ihre Radtour benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Keresse a kerékpárutak mentén található kis gazdaboltokat friss termékekért."
+          },
+          {
+            "name": "Sportboltok",
+            "tip": "Ha felszerelésre van szüksége a kerékpártúrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Fiți atenți la micile magazine de la ferme de-a lungul pistelor de biciclete pentru produse proaspete."
+          },
+          {
+            "name": "Magazine de sport",
+            "tip": "În cazul în care aveți nevoie de accesorii pentru turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Look out for small farm shops along the bike paths for fresh produce."
+          },
+          {
+            "name": "Sports Shops",
+            "tip": "In case you need any accessories for your bike tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und respektieren Sie die Verkehrsregeln.",
+          "Nehmen Sie genügend Wasser und einige Snacks mit.",
+          "Ein kleines Reparaturset kann nützlich sein.",
+          "Die Wege sind gut ausgeschildert, aber eine Karte oder GPS ist immer eine gute Idee."
+        ],
+        "hu": [
+          "Viseljen sisakot és tartsa be a közlekedési szabályokat.",
+          "Vigyen magával elegendő vizet és néhány harapnivalót.",
+          "Egy kis javítókészlet hasznos lehet.",
+          "Az utak jól ki vannak táblázva, de egy térkép vagy GPS mindig jó ötlet."
+        ],
+        "ro": [
+          "Purtați cască și respectați regulile de circulație.",
+          "Luați suficientă apă și câteva gustări.",
+          "Un mic kit de reparații poate fi util.",
+          "Traseele sunt bine semnalizate, dar o hartă sau un GPS este întotdeauna o idee bună."
+        ],
+        "en": [
+          "Wear a helmet and respect traffic rules.",
+          "Take enough water and some snacks with you.",
+          "A small repair kit can be useful.",
+          "The paths are well-signposted, but a map or GPS is always a good idea."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 28.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Parken im Zentrum & Bahnhofstrasse",
+            "hu": "1. klaszter: Parkolás a központban és Bahnhofstrasse",
+            "ro": "Cluster 1: Parcare în centru & Bahnhofstrasse",
+            "en": "Cluster 1: Park in the Center & Bahnhofstrasse"
+          },
+          "coords": [
+            9.478,
+            47.169
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nutzen Sie eines der Parkhäuser im Zentrum für diesen Cluster.",
+            "hu": "Használja a központi parkolóházak egyikét ehhez a klaszterhez.",
+            "ro": "Folosiți una dintre parcările supraetajate din centru pentru acest cluster.",
+            "en": "Use one of the multi-story car parks in the center for this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Reformierte Kirche",
+            "hu": "Városháza és Református Templom",
+            "ro": "Primăria & Biserica Reformată",
+            "en": "Town Hall & Reformed Church"
+          },
+          "coords": [
+            9.4775,
+            47.1655
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:28",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Sehenswürdigkeiten liegen nur wenige Gehminuten voneinander entfernt.",
+            "hu": "Ez a két látnivaló csak néhány percnyi sétára van egymástól.",
+            "ro": "Aceste două atracții sunt la doar câteva minute de mers pe jos una de cealaltă.",
+            "en": "These two sights are just a few minutes' walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Fahrt zum Schloss Werdenberg",
+            "hu": "2. klaszter: Utazás a Werdenberg kastélyhoz",
+            "ro": "Cluster 2: Conduceți la Castelul Werdenberg",
+            "en": "Cluster 2: Drive to Werdenberg Castle"
+          },
+          "coords": [
+            9.471,
+            47.164
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf dem ausgewiesenen Parkplatz und erkunden Sie das Schloss.",
+            "hu": "Parkoljon a kijelölt parkolóban, és fedezze fel a kastélyt.",
+            "ro": "Parcați în parcarea desemnată și explorați castelul.",
+            "en": "Park in the designated car park and explore the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Werdenbergersee",
+            "hu": "Séta a Werdenbergi-tónál",
+            "ro": "Plimbare pe malul lacului Werdenberg",
+            "en": "Walk at Werdenbergersee Lake"
+          },
+          "coords": [
+            9.47,
+            47.162
+          ],
+          "category": "natural features",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss zum See für eine malerische Mittagspause.",
+            "hu": "Egy rövid séta a kastélytól a tóig egy festői ebédszünethez.",
+            "ro": "O scurtă plimbare de la castel la lac pentru o pauză de prânz pitorească.",
+            "en": "A short walk from the castle to the lake for a scenic lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Fahrt zum Alvier-Ausblick",
+            "hu": "3. klaszter: Utazás az Alvier-kilátóhoz",
+            "ro": "Cluster 3: Conduceți la Punctul de belvedere Alvier",
+            "en": "Cluster 3: Drive to Alvier Viewpoint"
+          },
+          "coords": [
+            9.445,
+            47.155
+          ],
+          "category": "natural features",
+          "arrive_at": "13:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die Strasse kann eng sein. Fahren Sie vorsichtig und geniessen Sie die spektakuläre Aussicht.",
+            "hu": "Az út szűk lehet. Vezessen óvatosan, és élvezze a látványos kilátást.",
+            "ro": "Drumul poate fi îngust. Conduceți cu prudență și bucurați-vă de priveliștea spectaculoasă.",
+            "en": "The road can be narrow. Drive carefully and enjoy the spectacular view."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 4: Fahrt zur Rheinpromenade",
+            "hu": "4. klaszter: Utazás a Rajnai sétányhoz",
+            "ro": "Cluster 4: Conduceți la Promenada Rinului",
+            "en": "Cluster 4: Drive to the Rhine Promenade"
+          },
+          "coords": [
+            9.5,
+            47.168
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 13.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Brücke und machen Sie einen Spaziergang entlang des Flusses.",
+            "hu": "Parkoljon a híd közelében, és sétáljon egyet a folyó mentén.",
+            "ro": "Parcați lângă pod și faceți o plimbare de-a lungul râului.",
+            "en": "Park near the bridge and take a walk along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Greifvogelpark Buchs",
+            "hu": "Buchsi Ragadozómadár Park",
+            "ro": "Parcul de păsări de pradă din Buchs",
+            "en": "Buchs Bird of Prey Park"
+          },
+          "coords": [
+            9.485,
+            47.17
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Rhein aus ist es ein angenehmer Spaziergang zum Park.",
+            "hu": "A Rajnától kellemes séta vezet a parkba.",
+            "ro": "De la Rin, este o plimbare plăcută până la parc.",
+            "en": "From the Rhine, it's a pleasant walk to the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Buchs nutzt Cluster, um das Beste aus der Region herauszuholen. Sie beginnen im Stadtzentrum, wo Sie nach dem Parken die Bahnhofstrasse und das Rathaus zu Fuss erkunden. Ihr erstes Ziel ist das mittelalterliche Schloss Werdenberg und der See. Am frühen Nachmittag fahren Sie in die Höhe zum atemberaubenden Alvier-Ausblick. Den Abschluss bildet ein entspannter Ausflug zur Rheinpromenade und zum nahegelegenen Greifvogelpark, bevor Sie ins Zentrum zurückkehren.",
+        "hu": "Az autós nap Buchsban klasztereket használ, hogy a legtöbbet hozza ki a régióból. A városközpontban kezd, ahol parkolás után gyalog fedezi fel a Bahnhofstrassét és a Városházát. Az első úti cél a középkori Werdenberg kastély és a tó. Kora délután felautózik a lélegzetelállító Alvier-kilátóhoz. A napot egy pihentető kirándulás zárja a Rajnai sétányhoz és a közeli Ragadozómadár Parkhoz, mielőtt visszatérne a központba.",
+        "ro": "Ziua dumneavoastră cu mașina în Buchs folosește clustere pentru a profita la maximum de regiune. Începeți în centrul orașului, unde, după parcare, explorați pe jos Bahnhofstrasse și Primăria. Prima destinație este castelul medieval Werdenberg și lacul său. La începutul după-amiezii, urcați cu mașina la spectaculosul punct de belvedere Alvier. Ziua se încheie cu o excursie relaxantă la Promenada Rinului și la Parcul de Păsări de Pradă din apropiere, înainte de a vă întoarce în centru.",
+        "en": "Your car day in Buchs uses clusters to make the most of the region. You start in the city center, exploring Bahnhofstrasse and the Town Hall on foot after parking. Your first drive takes you to the medieval Werdenberg Castle and its lake. In the early afternoon, you'll drive up to the stunning Alvier viewpoint. The day concludes with a relaxing trip to the Rhine Promenade and the nearby Bird of Prey Park before heading back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Schloss Werdenberg",
+            "tip": "Geniessen Sie ein Mittagessen mit historischem Ambiente."
+          },
+          {
+            "name": "Landgasthof am Berg",
+            "tip": "Suchen Sie nach einem Gasthof in der Nähe des Alvier für authentische Küche."
+          },
+          {
+            "name": "Café im Zentrum",
+            "tip": "Für einen Kaffee und Kuchen nach Ihrer Rückkehr."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schloss Werdenberg Étterem",
+            "tip": "Élvezzen egy ebédet történelmi környezetben."
+          },
+          {
+            "name": "Hegyi fogadó",
+            "tip": "Keressen egy fogadót az Alvier közelében az autentikus konyháért."
+          },
+          {
+            "name": "Kávézó a központban",
+            "tip": "Egy kávéra és süteményre a visszaérkezés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Castelului Werdenberg",
+            "tip": "Bucurați-vă de un prânz într-o atmosferă istorică."
+          },
+          {
+            "name": "Han de munte",
+            "tip": "Căutați un han lângă Alvier pentru bucătărie autentică."
+          },
+          {
+            "name": "Cafenea în centru",
+            "tip": "Pentru o cafea și o prăjitură la întoarcere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schloss Werdenberg Restaurant",
+            "tip": "Enjoy lunch with a historical ambiance."
+          },
+          {
+            "name": "Mountain Inn",
+            "tip": "Look for an inn near the Alvier for authentic cuisine."
+          },
+          {
+            "name": "Café in the Center",
+            "tip": "For a coffee and cake upon your return."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alvier-Ausblick",
+            "tip": "Der ultimative Ort für Ruhe und eine weite Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein ruhiger Abschnitt am Werdenbergersee",
+            "tip": "Abseits des Hauptweges finden Sie leicht einen friedlichen Platz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank an der Rheinpromenade",
+            "tip": "Setzen Sie sich hin und lauschen Sie dem Rauschen des Flusses.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alvier-kilátó",
+            "tip": "A nyugalom és a páratlan kilátás végső helyszíne.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy csendes szakasz a Werdenbergi-tónál",
+            "tip": "A fő úttól távolabb könnyen talál egy békés helyet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a Rajnai sétányon",
+            "tip": "Üljön le, és hallgassa a folyó zúgását.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Alvier",
+            "tip": "Locul suprem pentru liniște și o priveliște vastă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O secțiune liniștită a lacului Werdenberg",
+            "tip": "Departe de poteca principală, puteți găsi cu ușurință un loc pașnic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bancă pe Promenada Rinului",
+            "tip": "Așezați-vă și ascultați susurul râului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alvier Viewpoint",
+            "tip": "The ultimate spot for tranquility and a wide view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A quiet section at Werdenbergersee",
+            "tip": "Away from the main path, you can easily find a peaceful spot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bench on the Rhine Promenade",
+            "tip": "Sit down and listen to the sound of the river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schloss-Shop",
+            "tip": "Einzigartige Souvenirs und Bücher über die Geschichte der Region."
+          },
+          {
+            "name": "Lokale Käserei",
+            "tip": "Suchen Sie auf Ihrer Fahrt nach Schildern für lokale Käsereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélybolt",
+            "tip": "Egyedi ajándéktárgyak és könyvek a régió történelméről."
+          },
+          {
+            "name": "Helyi sajtüzem",
+            "tip": "Útközben figyelje a helyi sajtüzemek tábláit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul castelului",
+            "tip": "Suveniruri unice și cărți despre istoria regiunii."
+          },
+          {
+            "name": "Brânzărie locală",
+            "tip": "Fiți atenți la indicatoarele către brânzăriile locale în timpul călătoriei."
+          },
+          {
+            "name": "Brânzărie locală",
+            "tip": "Fiți atenți la indicatoarele către brânzăriile locale în timpul călătoriei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Shop",
+            "tip": "Unique souvenirs and books about the region's history."
+          },
+          {
+            "name": "Local Cheesery",
+            "tip": "Look for signs for local cheese dairies on your drive."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Auto für Bergstrassen geeignet ist.",
+          "Beachten Sie die Parkgebühren und -beschränkungen.",
+          "Planen Sie zusätzliche Zeit für unvorhergesehene Stopps an schönen Aussichtspunkten ein.",
+          "Ein GPS ist unerlässlich."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy autója alkalmas a hegyi utakra.",
+          "Vegye figyelembe a parkolási díjakat és korlátozásokat.",
+          "Tervezzen plusz időt a váratlan megállókra szép kilátópontoknál.",
+          "A GPS elengedhetetlen."
+        ],
+        "ro": [
+          "Asigurați-vă că mașina este potrivită pentru drumurile montane.",
+          "Fiți atenți la taxele și restricțiile de parcare.",
+          "Planificați timp suplimentar pentru opriri neprevăzute la puncte de belvedere frumoase.",
+          "Un GPS este esențial."
+        ],
+        "en": [
+          "Make sure your car is suitable for mountain roads.",
+          "Be aware of parking fees and restrictions.",
+          "Plan extra time for unexpected stops at beautiful viewpoints.",
+          "A GPS is essential."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft am Bahnhof Buchs",
+            "hu": "1. klaszter: Érkezés a buchsi pályaudvarra",
+            "ro": "Cluster 1: Sosire la gara Buchs",
+            "en": "Cluster 1: Arrival at Buchs Station"
+          },
+          "coords": [
+            9.479,
+            47.168
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für die lokalen Busse.",
+            "hu": "Vásároljon napijegyet a helyi buszokra.",
+            "ro": "Cumpărați un bilet de o zi pentru autobuzele locale.",
+            "en": "Buy a day pass for the local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Bahnhofstrasse",
+            "hu": "Városháza és Bahnhofstrasse",
+            "ro": "Primăria & Bahnhofstrasse",
+            "en": "Town Hall & Bahnhofstrasse"
+          },
+          "coords": [
+            9.4775,
+            47.1655
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das Zentrum zu Fuss, bevor Sie den Bus nehmen.",
+            "hu": "Fedezze fel a központot gyalog, mielőtt buszra szállna.",
+            "ro": "Explorați centrul pe jos înainte de a lua autobuzul.",
+            "en": "Explore the center on foot before taking the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Busfahrt nach Werdenberg",
+            "hu": "2. klaszter: Buszozás Werdenbergbe",
+            "ro": "Cluster 2: Călătorie cu autobuzul spre Werdenberg",
+            "en": "Cluster 2: Bus Ride to Werdenberg"
+          },
+          "coords": [
+            9.4715,
+            47.1645
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Bushaltestelle 'Werdenberg, Städtli' bringt Sie direkt ans Ziel.",
+            "hu": "A 'Werdenberg, Städtli' buszmegálló közvetlenül a célhoz viszi.",
+            "ro": "Stația de autobuz 'Werdenberg, Städtli' vă duce direct la destinație.",
+            "en": "The 'Werdenberg, Städtli' bus stop takes you directly to your destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss & Werdenbergersee",
+            "hu": "Kastély és Werdenbergi-tó",
+            "ro": "Castelul & Lacul Werdenberg",
+            "en": "Castle & Werdenbergersee Lake"
+          },
+          "coords": [
+            9.47,
+            47.162
+          ],
+          "category": "natural features",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Alles ist kompakt und leicht zu Fuss zu erkunden.",
+            "hu": "Minden kompakt és könnyen felfedezhető gyalog.",
+            "ro": "Totul este compact și ușor de explorat pe jos.",
+            "en": "Everything is compact and easy to explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Bus zur Rheinpromenade",
+            "hu": "3. klaszter: Busszal a Rajnai sétányhoz",
+            "ro": "Cluster 3: Autobuz spre Promenada Rinului",
+            "en": "Cluster 3: Bus to the Rhine Promenade"
+          },
+          "coords": [
+            9.5,
+            47.168
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus Richtung Grenze und steigen Sie nahe der Rheinbrücke aus.",
+            "hu": "Menjen busszal a határ felé, és szálljon le a Rajna-híd közelében.",
+            "ro": "Luați un autobuz spre graniță și coborâți lângă podul Rinului.",
+            "en": "Take a bus towards the border and get off near the Rhine bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück zum Bahnhof",
+            "hu": "Vissza a pályaudvarra",
+            "ro": "Înapoi la gară",
+            "en": "Back to the Station"
+          },
+          "coords": [
+            9.479,
+            47.168
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:13",
+          "stay_min": 50,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Geniessen Sie einen letzten Kaffee oder ein Souvenir-Shopping, bevor Ihr Zug abfährt.",
+            "hu": "Élvezzen egy utolsó kávét vagy vásároljon ajándéktárgyat, mielőtt a vonat elindul.",
+            "ro": "Bucurați-vă de o ultimă cafea sau cumpărați un suvenir înainte de plecarea trenului.",
+            "en": "Enjoy a final coffee or do some souvenir shopping before your train departs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Buchs effizient in Clustern. Nach der Ankunft am Bahnhof erkunden Sie das Stadtzentrum zu Fuss. Ein kurzer Bus bringt Sie dann in die mittelalterliche Welt von Werdenberg mit seinem Schloss und See, wo Sie den Vormittag verbringen. Am Nachmittag bringt Sie ein weiterer Bus an die Grenze zu Liechtenstein für einen Spaziergang entlang des Rheins. Der Tag endet wieder am Bahnhof, von wo aus Sie Ihre Heimreise antreten oder den Abend in der Stadt ausklingen lassen.",
+        "hu": "Tömegközlekedéssel hatékonyan, klaszterekben fedezheti fel Buchsot. A pályaudvarra érkezés után gyalogosan ismeri meg a városközpontot. Egy rövid buszút elviszi Werdenberg középkori világába, a kastélyhoz és a tóhoz, ahol a délelőttöt tölti. Délután egy másik busz a liechtensteini határhoz viszi egy rajnai sétára. A nap a pályaudvaron ér véget, ahonnan hazautazhat, vagy a városban fejezheti be az estét.",
+        "ro": "Cu transportul public, explorați Buchs eficient, în clustere. După sosirea la gară, explorați centrul orașului pe jos. Un scurt drum cu autobuzul vă duce apoi în lumea medievală a Werdenbergului, cu castelul și lacul său, unde vă petreceți dimineața. După-amiaza, un alt autobuz vă duce la granița cu Liechtenstein pentru o plimbare de-a lungul Rinului. Ziua se încheie înapoi la gară, de unde puteți pleca acasă sau puteți încheia seara în oraș.",
+        "en": "Using public transport, you can explore Buchs efficiently in clusters. After arriving at the station, you'll explore the city center on foot. A short bus ride then takes you to the medieval world of Werdenberg with its castle and lake, where you'll spend the morning. In the afternoon, another bus takes you to the Liechtenstein border for a walk along the Rhine. The day ends back at the station, from where you can head home or finish the evening in town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am Bahnhof",
+            "tip": "Perfekt für ein schnelles Frühstück oder einen Snack für unterwegs."
+          },
+          {
+            "name": "Restaurant im Städtli Werdenberg",
+            "tip": "Geniessen Sie Ihr Mittagessen in historischer Umgebung."
+          },
+          {
+            "name": "Supermarkt-Picknick",
+            "tip": "Kaufen Sie Proviant im Supermarkt für ein günstiges Mittagessen am Rhein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a pályaudvarnál",
+            "tip": "Tökéletes egy gyors reggelihez vagy útravaló falathoz."
+          },
+          {
+            "name": "Étterem Werdenberg óvárosában",
+            "tip": "Fogyassza el ebédjét történelmi környezetben."
+          },
+          {
+            "name": "Szupermarket piknik",
+            "tip": "Vásároljon elemózsiát a szupermarketben egy olcsó ebédhez a Rajnánál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie la gară",
+            "tip": "Perfect pentru un mic dejun rapid sau o gustare pentru drum."
+          },
+          {
+            "name": "Restaurant în orășelul Werdenberg",
+            "tip": "Bucurați-vă de prânz într-un cadru istoric."
+          },
+          {
+            "name": "Picnic de la supermarket",
+            "tip": "Cumpărați provizii de la supermarket pentru un prânz ieftin pe malul Rinului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery at the station",
+            "tip": "Perfect for a quick breakfast or a snack for the road."
+          },
+          {
+            "name": "Restaurant in Werdenberg townlet",
+            "tip": "Enjoy your lunch in a historical setting."
+          },
+          {
+            "name": "Supermarket Picnic",
+            "tip": "Buy supplies at the supermarket for a cheap lunch by the Rhine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof bei der Reformierten Kirche",
+            "tip": "Ein unerwartet friedlicher Ort für einen Moment der Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick vom Schloss Werdenberg",
+            "tip": "Geniessen Sie die Aussicht über den See und die Dächer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang abseits der Rheinbrücke",
+            "tip": "Je weiter Sie sich von der Brücke entfernen, desto ruhiger wird es.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető a Református Templomnál",
+            "tip": "Váratlanul békés hely egy csendes pillanatra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Werdenberg kastélyból",
+            "tip": "Élvezze a kilátást a tóra és a háztetőkre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a Rajna-hídtól távolabb",
+            "tip": "Minél távolabb megy a hídtól, annál csendesebb lesz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă Biserica Reformată",
+            "tip": "Un loc neașteptat de pașnic pentru un moment de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Priveliște de la Castelul Werdenberg",
+            "tip": "Bucurați-vă de vederea asupra lacului și acoperișurilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare departe de podul Rinului",
+            "tip": "Cu cât vă îndepărtați mai mult de pod, cu atât devine mai liniștit.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery at the Reformed Church",
+            "tip": "An unexpectedly peaceful place for a moment of silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from Werdenberg Castle",
+            "tip": "Enjoy the view over the lake and rooftops.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk away from the Rhine bridge",
+            "tip": "The further you get from the bridge, the quieter it becomes.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Für Last-Minute-Einkäufe wie Getränke, Zeitschriften oder Tickets."
+          },
+          {
+            "name": "Geschäfte in der Bahnhofstrasse",
+            "tip": "Stöbern Sie vor der Abfahrt noch ein wenig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a pályaudvarnál",
+            "tip": "Utolsó pillanatos vásárlásokhoz, mint italok, újságok vagy jegyek."
+          },
+          {
+            "name": "Üzletek a Bahnhofstrassén",
+            "tip": "Nézzen körül egy kicsit indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Pentru cumpărături de ultim moment, cum ar fi băuturi, reviste sau bilete."
+          },
+          {
+            "name": "Magazine pe Bahnhofstrasse",
+            "tip": "Mai răsfoiți puțin înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the station",
+            "tip": "For last-minute purchases like drinks, magazines, or tickets."
+          },
+          {
+            "name": "Shops on Bahnhofstrasse",
+            "tip": "Do a little browsing before departure."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die Fahrplan-App herunter, um die Buszeiten im Auge zu behalten.",
+          "Eine Tageskarte ist oft günstiger als Einzeltickets.",
+          "Seien Sie pünktlich an der Haltestelle, die Busse fahren oft auf die Minute genau.",
+          "Nicht alle Haltestellen werden immer bedient, prüfen Sie den Linienplan."
+        ],
+        "hu": [
+          "Töltse le a menetrendi alkalmazást, hogy szemmel tartsa a busz indulási időket.",
+          "A napijegy gyakran olcsóbb, mint a vonaljegyek.",
+          "Legyen pontos a megállóban, a buszok gyakran percre pontosan indulnak.",
+          "Nem minden megállót szolgálnak ki mindig, ellenőrizze a vonalhálózati térképet."
+        ],
+        "ro": [
+          "Descărcați aplicația de orare pentru a urmări orele autobuzelor.",
+          "Un bilet de o zi este adesea mai ieftin decât biletele individuale.",
+          "Fiți la timp în stație, autobuzele pleacă adesea la minut.",
+          "Nu toate stațiile sunt deservite mereu, verificați harta traseului."
+        ],
+        "en": [
+          "Download the timetable app to keep track of bus times.",
+          "A day pass is often cheaper than single tickets.",
+          "Be at the bus stop on time, buses often leave to the minute.",
+          "Not all stops are always served, check the route map."
+        ]
+      }
+    }
+  }
+}

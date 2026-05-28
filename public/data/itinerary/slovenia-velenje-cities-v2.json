@@ -1,0 +1,1263 @@
+{
+  "city_id": "slovenia-velenje-cities-v2",
+  "anchor": {
+    "name": "Velenje",
+    "coords": [
+      46.361,
+      15.111
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tito-Statue",
+            "hu": "Tito-szobor",
+            "ro": "Statuia lui Tito",
+            "en": "Tito Statue"
+          },
+          "coords": [
+            15.1105,
+            46.36
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Ein beeindruckendes Denkmal aus der jugoslawischen Ära, ideal für ein schnelles Foto am Morgen.",
+            "hu": "Egy lenyűgöző emlékmű a jugoszláv érából, ideális egy gyors reggeli fotóhoz.",
+            "ro": "Un monument impresionant din epoca iugoslavă, perfect pentru o fotografie rapidă dimineața.",
+            "en": "An impressive monument from the Yugoslav era, perfect for a quick morning photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Velenje",
+            "hu": "Velenjei Kultúrház",
+            "ro": "Casa de Cultură Velenje",
+            "en": "Velenje House of Culture"
+          },
+          "coords": [
+            15.109,
+            46.36
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine interessante Ausstellung oder Veranstaltung.",
+            "hu": "Nézze meg a programot, hátha van egy érdekes kiállítás vagy esemény.",
+            "ro": "Verificați programul, s-ar putea să existe o expoziție sau un eveniment interesant.",
+            "en": "Check the schedule, there might be an interesting exhibition or event happening."
+          }
+        },
+        {
+          "name": {
+            "de": "Vila Herberstein",
+            "hu": "Herberstein-villa",
+            "ro": "Vila Herberstein",
+            "en": "Herberstein Villa"
+          },
+          "coords": [
+            15.112,
+            46.362
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:29",
+          "stay_min": 50,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_4lang": {
+            "de": "Bewundern Sie die Architektur von außen; das Gebäude beherbergt heute verschiedene Institutionen.",
+            "hu": "Csodálja meg az építészetet kívülről; az épület ma különböző intézményeknek ad otthont.",
+            "ro": "Admirați arhitectura din exterior; clădirea găzduiește astăzi diverse instituții.",
+            "en": "Admire the architecture from the outside; the building now houses various institutions."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Velenje",
+            "hu": "Velenjei vár",
+            "ro": "Castelul Velenje",
+            "en": "Velenje Castle"
+          },
+          "coords": [
+            15.113,
+            46.365
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Planen Sie genügend Zeit ein, um die verschiedenen Museumssammlungen im Schloss zu erkunden.",
+            "hu": "Szánjon elég időt a várban található különböző múzeumi gyűjtemények felfedezésére.",
+            "ro": "Planificați suficient timp pentru a explora diversele colecții ale muzeului din interiorul castelului.",
+            "en": "Plan enough time to explore the various museum collections inside the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Kohlenbergbaumuseum Sloweniens",
+            "hu": "Szlovén Szénbányászati Múzeum",
+            "ro": "Muzeul Mineritului de Cărbune din Slovenia",
+            "en": "Coal Mining Museum of Slovenia"
+          },
+          "coords": [
+            15.114,
+            46.366
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Die unterirdische Tour ist ein Muss! Buchen Sie Tickets im Voraus, um Wartezeiten zu vermeiden.",
+            "hu": "A földalatti túra kötelező! Foglaljon jegyet előre, hogy elkerülje a várakozást.",
+            "ro": "Turul subteran este o necesitate! Rezervați biletele în avans pentru a evita așteptarea.",
+            "en": "The underground tour is a must-do! Book tickets in advance to avoid waiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Velenje-See",
+            "hu": "Velenjei-tó",
+            "ro": "Lacul Velenje",
+            "en": "Velenje Lake"
+          },
+          "coords": [
+            15.11,
+            46.355
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.9,
+          "tip_4lang": {
+            "de": "Ein perfekter Ort für einen entspannten Nachmittagsspaziergang oder um einfach nur die Aussicht zu genießen.",
+            "hu": "Tökéletes hely egy pihentető délutáni sétához vagy csak a kilátás élvezetéhez.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă de după-amiază sau pur și simplu pentru a admira priveliștea.",
+            "en": "A perfect spot for a relaxing afternoon walk or just to enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Ercigoj Kunststickerei",
+            "hu": "Ercigoj Művészi Hímzés",
+            "ro": "Broderie artistică Ercigoj",
+            "en": "Ercigoj Art Embroidery"
+          },
+          "coords": [
+            15.115,
+            46.361
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:06",
+          "stay_min": 30,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Ein einzigartiger Einblick in die lokale Handwerkskunst. Ideal für den Kauf eines besonderen Souvenirs.",
+            "hu": "Egyedülálló betekintés a helyi kézművességbe. Ideális egy különleges szuvenír megvásárlásához.",
+            "ro": "O perspectivă unică asupra meșteșugurilor locale. Ideal pentru a cumpăra un suvenir special.",
+            "en": "A unique insight into local craftsmanship. Ideal for buying a special souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Velenje beginnt im Herzen der Stadt bei der imposanten Tito-Statue. Ein kurzer Spaziergang führt Sie zum Kulturhaus und der eleganten Vila Herberstein. Am späten Vormittag erklimmen Sie den Hügel zum Schloss Velenje, um die Geschichte der Region zu entdecken. Nach dem Mittagessen tauchen Sie im Kohlenbergbaumuseum tief in die industrielle Vergangenheit ein. Der Nachmittag klingt entspannt am Ufer des Velenje-Sees aus, bevor Sie die feine Kunst der Ercigoj-Stickerei bewundern. Ein Tag voller Kontraste zwischen Industrieerbe und Natur.",
+        "hu": "A velenjei nap a város szívében, a lenyűgöző Tito-szobornál kezdődik. Egy rövid séta elvezet a Kultúrházhoz és az elegáns Herberstein-villához. A délelőtt folyamán megmássza a dombot a Velenjei várhoz, hogy felfedezze a régió történelmét. Ebéd után a Szénbányászati Múzeumban mélyen elmerül az ipari múltban. A délután pihenéssel telik a Velenjei-tó partján, mielőtt megcsodálná az Ercigoj hímzés finom művészetét. Egy nap tele kontrasztokkal az ipari örökség és a természet között.",
+        "ro": "Ziua dvs. în Velenje începe în inima orașului, la impunătoarea statuie a lui Tito. O scurtă plimbare vă duce la Casa de Cultură și la eleganta Vilă Herberstein. Spre sfârșitul dimineții, urcați dealul spre Castelul Velenje pentru a descoperi istoria regiunii. După prânz, pătrundeți adânc în trecutul industrial la Muzeul Mineritului. După-amiaza se încheie relaxant pe malul lacului Velenje, înainte de a admira arta fină a broderiei Ercigoj. O zi plină de contraste între patrimoniul industrial și natură.",
+        "en": "Your day in Velenje begins in the heart of the city at the imposing Tito Statue. A short walk takes you to the House of Culture and the elegant Herberstein Villa. In the late morning, you'll climb the hill to Velenje Castle to discover the region's history. After lunch, delve deep into the industrial past at the Coal Mining Museum. The afternoon ends relaxing on the shore of Lake Velenje before admiring the fine art of Ercigoj embroidery. A day full of contrasts between industrial heritage and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Idrijski Žlikrofi",
+            "tip": "Probieren Sie diese traditionellen slowenischen Teigtaschen, oft mit Fleischsoße serviert."
+          },
+          {
+            "name": "Restavracija Jezero",
+            "tip": "Genießen Sie lokale Gerichte mit einem wunderschönen Blick auf den See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Idrijski Žlikrofi",
+            "tip": "Kóstolja meg ezeket a hagyományos szlovén táskákat, gyakran húsos szósszal tálalva."
+          },
+          {
+            "name": "Restavracija Jezero",
+            "tip": "Élvezze a helyi ételeket a tóra nyíló gyönyörű kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Idrijski Žlikrofi",
+            "tip": "Încercați acești găluște tradiționali sloveni, adesea serviți cu sos de carne."
+          },
+          {
+            "name": "Restavracija Jezero",
+            "tip": "Savurați mâncăruri locale cu o priveliște minunată asupra lacului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Idrijski Žlikrofi",
+            "tip": "Try these traditional Slovenian dumplings, often served with a meat sauce."
+          },
+          {
+            "name": "Restavracija Jezero",
+            "tip": "Enjoy local dishes with a beautiful view of the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Velenje-Sees",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosshof",
+            "tip": "Nach dem Museumsbesuch bietet der Innenhof einen Moment der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Velenjei-tó partja",
+            "tip": "Keressen egy csendes padot és nézze a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Várudvar",
+            "tip": "A múzeumlátogatás után az udvar egy pillanatnyi nyugalmat kínál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Velenje",
+            "tip": "Găsiți o bancă liniștită și priviți apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea castelului",
+            "tip": "După vizitarea muzeului, curtea interioară oferă un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Lake Velenje",
+            "tip": "Find a quiet bench and watch the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Courtyard",
+            "tip": "After visiting the museum, the courtyard offers a moment of peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ercigoj Kunststickerei",
+            "tip": "Einzigartige handgefertigte Souvenirs und Kunstwerke."
+          },
+          {
+            "name": "Stadtzentrum Velenje",
+            "tip": "Stöbern Sie in den kleinen Läden rund um den Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ercigoj Művészi Hímzés",
+            "tip": "Egyedi, kézzel készített ajándéktárgyak és műalkotások."
+          },
+          {
+            "name": "Velenje városközpont",
+            "tip": "Böngésszen a főtér körüli kis üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Broderie artistică Ercigoj",
+            "tip": "Suveniruri și opere de artă unice, realizate manual."
+          },
+          {
+            "name": "Centrul orașului Velenje",
+            "tip": "Răsfoiți magazinele mici din jurul pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ercigoj Art Embroidery",
+            "tip": "Unique handmade souvenirs and works of art."
+          },
+          {
+            "name": "Velenje City Center",
+            "tip": "Browse the small shops around the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie einige Hügel erklimmen werden.",
+          "Das Kohlenbergbaumuseum kann kühl sein, bringen Sie eine leichte Jacke mit.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, insbesondere außerhalb der Saison."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel néhány dombot meg kell másznia.",
+          "A Szénbányászati Múzeum hűvös lehet, vigyen magával egy könnyű dzsekit.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, különösen a szezonon kívül."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți urca câteva dealuri.",
+          "La Muzeul Mineritului poate fi răcoare, aduceți o jachetă ușoară.",
+          "Verificați din timp programul muzeelor, mai ales în afara sezonului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be climbing a few hills.",
+          "The Coal Mining Museum can be cool, so bring a light jacket.",
+          "Check museum opening times in advance, especially outside the main season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tito-Statue",
+            "hu": "Tito-szobor",
+            "ro": "Statuia lui Tito",
+            "en": "Tito Statue"
+          },
+          "coords": [
+            15.1105,
+            46.36
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Starten Sie Ihre Radtour mit einem Foto dieses monumentalen Wahrzeichens.",
+            "hu": "Kezdje a kerékpártúrát egy fotóval ennél a monumentális jelképnél.",
+            "ro": "Începeți turul pe bicicletă cu o fotografie a acestui reper monumental.",
+            "en": "Start your bike tour with a photo of this monumental landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Velenje & Kohlenbergbaumuseum",
+            "hu": "Velenjei vár és Szénbányászati Múzeum",
+            "ro": "Castelul Velenje și Muzeul Mineritului",
+            "en": "Velenje Castle & Coal Mining Museum"
+          },
+          "coords": [
+            15.113,
+            46.365
+          ],
+          "category": "museums",
+          "arrive_at": "09:34",
+          "stay_min": 200,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Kombinieren Sie beide Attraktionen. Der Anstieg ist kurz, aber steil. Schließen Sie Ihr Fahrrad gut an.",
+            "hu": "Kombinálja mindkét látnivalót. Az emelkedő rövid, de meredek. Jól zárja le a kerékpárját.",
+            "ro": "Combinați ambele atracții. Urcușul este scurt, dar abrupt. Asigurați-vă bine bicicleta.",
+            "en": "Combine both attractions. The climb is short but steep. Lock your bike securely."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Šalek",
+            "hu": "Šaleki várrom",
+            "ro": "Ruinele castelului Šalek",
+            "en": "Šalek Castle Ruins"
+          },
+          "coords": [
+            15.13,
+            46.362
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Eine kurze Radtour zu den Ruinen für einen tollen Blick über das Tal.",
+            "hu": "Egy rövid kerékpártúra a romokhoz, ahonnan remek kilátás nyílik a völgyre.",
+            "ro": "O scurtă plimbare cu bicicleta la ruine pentru o priveliște superbă asupra văii.",
+            "en": "A short bike ride to the ruins for a great view over the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Velenje-See",
+            "hu": "Velenjei-tó",
+            "ro": "Lacul Velenje",
+            "en": "Velenje Lake"
+          },
+          "coords": [
+            15.11,
+            46.355
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_4lang": {
+            "de": "Fahren Sie um den See herum. Es gibt viele Plätze für eine Pause oder sogar ein schnelles Bad im Sommer.",
+            "hu": "Kerülje meg a tavat. Számos hely van pihenésre vagy akár egy gyors nyári fürdőzésre.",
+            "ro": "Faceți o plimbare cu bicicleta în jurul lacului. Există multe locuri pentru o pauză sau chiar o baie rapidă vara.",
+            "en": "Cycle around the lake. There are plenty of spots for a break or even a quick swim in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Vila Herberstein",
+            "hu": "Herberstein-villa",
+            "ro": "Vila Herberstein",
+            "en": "Herberstein Villa"
+          },
+          "coords": [
+            15.112,
+            46.362
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:52",
+          "stay_min": 20,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Machen Sie auf dem Rückweg ins Zentrum einen kurzen Stopp, um die Fassade zu bewundern.",
+            "hu": "A központba visszafelé tartva álljon meg egy rövid időre, hogy megcsodálja a homlokzatot.",
+            "ro": "La întoarcerea în centru, faceți o scurtă oprire pentru a admira fațada.",
+            "en": "On your way back to the center, make a quick stop to admire the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Ercigoj Kunststickerei",
+            "hu": "Ercigoj Művészi Hímzés",
+            "ro": "Broderie artistică Ercigoj",
+            "en": "Ercigoj Art Embroidery"
+          },
+          "coords": [
+            15.115,
+            46.361
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Besuch dieser einzigartigen Werkstatt.",
+            "hu": "Fejezze be a túrát ennek az egyedülálló műhelynek a meglátogatásával.",
+            "ro": "Încheiați turul cu o vizită la acest atelier unic.",
+            "en": "End your tour with a visit to this unique workshop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Tito-Platz, bevor Sie den Anstieg zum Schloss Velenje und dem benachbarten Kohlenbergbaumuseum in Angriff nehmen. Nach diesem tiefen Einblick in die Geschichte fahren Sie weiter zur Burgruine Šalek für einen Panoramablick. Der Hauptteil des Nachmittags ist dem Velenje-See gewidmet, den Sie gemütlich umrunden. Auf dem Rückweg ins Zentrum passieren Sie die Vila Herberstein und beenden den Tag mit der filigranen Kunst der Ercigoj-Stickerei.",
+        "hu": "Kezdje a kerékpártúrát a Tito téren, mielőtt megkezdené az emelkedőt a Velenjei várhoz és a szomszédos Szénbányászati Múzeumhoz. A történelembe való mély betekintés után folytassa útját a Šaleki várromhoz egy panorámás kilátásért. A délután nagy részét a Velenjei-tónak szenteli, amelyet kényelmesen körbejárhat. Visszafelé a központba elhalad a Herberstein-villa mellett, és a napot az Ercigoj hímzés finom művészetével zárja.",
+        "ro": "Începeți turul pe bicicletă din Piața Tito, înainte de a aborda urcușul spre Castelul Velenje și Muzeul Mineritului din apropiere. După această incursiune profundă în istorie, mergeți mai departe spre ruinele castelului Šalek pentru o vedere panoramică. Partea principală a după-amiezii este dedicată lacului Velenje, pe care îl puteți înconjura într-un ritm lejer. Pe drumul de întoarcere spre centru, treceți pe lângă Vila Herberstein și încheiați ziua cu arta delicată a broderiei Ercigoj.",
+        "en": "Start your bike tour at Tito Square before tackling the climb to Velenje Castle and the neighboring Coal Mining Museum. After this deep dive into history, continue to the Šalek Castle Ruins for a panoramic view. The main part of the afternoon is dedicated to Lake Velenje, which you can leisurely cycle around. On the way back to the center, you'll pass the Herberstein Villa and end the day with the delicate art of Ercigoj embroidery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Šaleški grm",
+            "tip": "Ein lokaler Eintopf, perfekt zur Stärkung nach einer Radtour."
+          },
+          {
+            "name": "Gostilna pri Lipi",
+            "tip": "Traditionelle slowenische Küche in einem gemütlichen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Šaleški grm",
+            "tip": "Helyi egytálétel, tökéletes egy kerékpártúra utáni feltöltődéshez."
+          },
+          {
+            "name": "Gostilna pri Lipi",
+            "tip": "Hagyományos szlovén konyha hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Šaleški grm",
+            "tip": "O tocană locală, perfectă pentru a vă reface forțele după un tur cu bicicleta."
+          },
+          {
+            "name": "Gostilna pri Lipi",
+            "tip": "Bucătărie tradițională slovenă într-un cadru primitor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Šaleški grm",
+            "tip": "A local stew, perfect for refueling after a bike ride."
+          },
+          {
+            "name": "Gostilna pri Lipi",
+            "tip": "Traditional Slovenian cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von der Burgruine Šalek",
+            "tip": "Ein ruhiger Ort, um das Tal zu überblicken.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Versteckte Buchten am Velenje-See",
+            "tip": "Finden Sie Ihren eigenen kleinen Strandabschnitt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Šaleki várromról",
+            "tip": "Csendes hely, ahonnan belátható a völgy.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rejtett öblök a Velenjei-tónál",
+            "tip": "Találja meg a saját kis partszakaszát.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la ruinele castelului Šalek",
+            "tip": "Un loc liniștit pentru a admira valea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Golfuri ascunse la lacul Velenje",
+            "tip": "Găsiți-vă propria mică plajă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Šalek Castle Ruins",
+            "tip": "A quiet spot to overlook the valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hidden coves at Lake Velenje",
+            "tip": "Find your own little stretch of beach.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte am See",
+            "tip": "Halten Sie Ausschau nach kleinen Ständen mit Honig oder Handwerk."
+          },
+          {
+            "name": "Museumsshop im Schloss",
+            "tip": "Bücher und Souvenirs zur Geschichte der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek a tónál",
+            "tip": "Keresse a mézet vagy kézműves termékeket árusító kis standokat."
+          },
+          {
+            "name": "Múzeumbolt a várban",
+            "tip": "Könyvek és ajándéktárgyak a régió történelméről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale la lac",
+            "tip": "Căutați mici standuri care vând miere sau produse de artizanat."
+          },
+          {
+            "name": "Magazinul muzeului din castel",
+            "tip": "Cărți și suveniruri despre istoria regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local products at the lake",
+            "tip": "Look for small stalls selling honey or crafts."
+          },
+          {
+            "name": "Museum shop in the castle",
+            "tip": "Books and souvenirs about the region's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Anstiege sind steil; ein E-Bike könnte eine gute Option sein.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Tour um den See.",
+          "Achten Sie auf die Radwegbeschilderung, die in Velenje gut ausgebaut ist."
+        ],
+        "hu": [
+          "Néhány emelkedő meredek; egy e-bike jó lehetőség lehet.",
+          "Vigyen magával elegendő vizet, különösen a tó körüli túrához.",
+          "Figyeljen a kerékpárút jelzéseire, amelyek Velenjében jól kiépítettek."
+        ],
+        "ro": [
+          "Unele urcări sunt abrupte; o bicicletă electrică ar putea fi o opțiune bună.",
+          "Luați suficientă apă, mai ales pentru turul în jurul lacului.",
+          "Fiți atenți la semnele pentru pistele de biciclete, care sunt bine dezvoltate în Velenje."
+        ],
+        "en": [
+          "Some climbs are steep; an e-bike could be a good option.",
+          "Bring enough water, especially for the tour around the lake.",
+          "Pay attention to the cycle path signs, which are well-developed in Velenje."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum",
+            "hu": "1. klaszter: Városközpont",
+            "ro": "Cluster 1: Centrul orașului",
+            "en": "Cluster 1: City Center"
+          },
+          "coords": [
+            15.111,
+            46.361
+          ],
+          "category": "districts/neighborhoods",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe des Tito-Platzes. Sie erkunden diesen Bereich zu Fuß.",
+            "hu": "Parkolja le az autóját a Tito tér közelében. Ezt a területet gyalog fogja felfedezni.",
+            "ro": "Parcați mașina lângă Piața Tito. Veți explora această zonă pe jos.",
+            "en": "Park your car near Tito Square. You will explore this area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Tito-Statue",
+            "hu": "Tito-szobor",
+            "ro": "Statuia lui Tito",
+            "en": "Tito Statue"
+          },
+          "coords": [
+            15.1105,
+            46.36
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihren Rundgang am zentralen Platz der Stadt.",
+            "hu": "Kezdje a sétát a város központi terén.",
+            "ro": "Începeți turul pietonal în piața centrală a orașului.",
+            "en": "Start your walking tour in the city's central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus & Vila Herberstein",
+            "hu": "Kultúrház és Herberstein-villa",
+            "ro": "Casa de Cultură și Vila Herberstein",
+            "en": "House of Culture & Herberstein Villa"
+          },
+          "coords": [
+            15.109,
+            46.36
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Diese beiden wichtigen Gebäude liegen nahe beieinander und zeigen die moderne Architektur Velenjes.",
+            "hu": "Ez a két fontos épület közel van egymáshoz, és Velenje modern építészetét mutatja be.",
+            "ro": "Aceste două clădiri importante sunt apropiate și prezintă arhitectura modernă a orașului Velenje.",
+            "en": "These two important buildings are close to each other and showcase Velenje's modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Schlossberg",
+            "hu": "2. klaszter: Várhegy",
+            "ro": "Cluster 2: Dealul Castelului",
+            "en": "Cluster 2: Castle Hill"
+          },
+          "coords": [
+            15.113,
+            46.365
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:55",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Fahren Sie zum Parkplatz am Schloss. Von hier aus erreichen Sie das Museum zu Fuß.",
+            "hu": "Hajtson a vár parkolójába. Innen gyalog elérheti a múzeumot.",
+            "ro": "Conduceți până la parcarea de la castel. De aici puteți ajunge pe jos la muzeu.",
+            "en": "Drive to the castle's parking lot. From here, you can walk to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Velenje & Kohlenbergbaumuseum",
+            "hu": "Velenjei vár és Szénbányászati Múzeum",
+            "ro": "Castelul Velenje și Muzeul Mineritului",
+            "en": "Velenje Castle & Coal Mining Museum"
+          },
+          "coords": [
+            15.114,
+            46.366
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 220,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Planen Sie hier viel Zeit ein, einschließlich einer Mittagspause in der Nähe.",
+            "hu": "Tervezzen itt sok időt, beleértve egy ebédszünetet a közelben.",
+            "ro": "Planificați mult timp aici, inclusiv o pauză de prânz în apropiere.",
+            "en": "Plan plenty of time here, including a lunch break nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: See & Ruine",
+            "hu": "3. klaszter: Tó és romok",
+            "ro": "Cluster 3: Lac și ruine",
+            "en": "Cluster 3: Lake & Ruins"
+          },
+          "coords": [
+            15.11,
+            46.355
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 170,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Fahren Sie zum See für einen entspannten Nachmittag. Von hier können Sie auch zur Burgruine Šalek fahren.",
+            "hu": "Hajtson a tóhoz egy pihentető délutánra. Innen a Šaleki várromhoz is eljuthat.",
+            "ro": "Conduceți spre lac pentru o după-amiază relaxantă. De aici puteți conduce și la ruinele castelului Šalek.",
+            "en": "Drive to the lake for a relaxing afternoon. From here, you can also drive to the Šalek Castle Ruins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Velenje folgt einer Cluster-Strategie. Sie beginnen im Stadtzentrum, parken und erkunden den Tito-Platz und das Kulturviertel zu Fuß. Danach fahren Sie zum zweiten Cluster, dem Schlossberg, wo Sie das Schloss und das einzigartige Kohlenbergbaumuseum entdecken. Nach dem Mittagessen bringt Sie Ihr Auto zum dritten Cluster, dem Velenje-See. Hier verbringen Sie den Nachmittag mit Spaziergängen am Ufer und einem optionalen Abstecher zur Burgruine Šalek, bevor Sie den Tag ausklingen lassen.",
+        "hu": "Az autós napja Velenjében egy klaszterstratégiát követ. A városközpontban kezd, leparkol, és gyalog fedezi fel a Tito teret és a kulturális negyedet. Ezután a második klaszterhez, a Várhegyhez hajt, ahol felfedezi a várat és az egyedülálló Szénbányászati Múzeumot. Ebéd után az autója a harmadik klaszterhez, a Velenjei-tóhoz viszi. Itt tölti a délutánt a parton sétálva, és opcionálisan ellátogathat a Šaleki várromhoz, mielőtt lezárja a napot.",
+        "ro": "Ziua dvs. cu mașina în Velenje urmează o strategie de clustere. Începeți în centrul orașului, parcați și explorați Piața Tito și cartierul cultural pe jos. Apoi, conduceți spre al doilea cluster, Dealul Castelului, unde descoperiți castelul și unicul Muzeu al Mineritului. După prânz, mașina vă duce la al treilea cluster, lacul Velenje. Aici petreceți după-amiaza plimbându-vă pe mal și făcând o excursie opțională la ruinele castelului Šalek înainte de a încheia ziua.",
+        "en": "Your car day in Velenje follows a cluster strategy. You start in the city center, park, and explore Tito Square and the cultural district on foot. Then, you drive to the second cluster, Castle Hill, where you'll discover the castle and the unique Coal Mining Museum. After lunch, your car takes you to the third cluster, Lake Velenje. Here, you'll spend the afternoon strolling along the shore with an optional trip to the Šalek Castle Ruins before ending the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gostilna pri gradu",
+            "tip": "Ein Restaurant in der Nähe des Schlosses, ideal für ein Mittagessen nach dem Museumsbesuch."
+          },
+          {
+            "name": "Plaža Velenje",
+            "tip": "Cafés und Eisdielen direkt am Seeufer für eine nachmittägliche Erfrischung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gostilna pri gradu",
+            "tip": "A vár közelében található étterem, ideális ebédre a múzeumlátogatás után."
+          },
+          {
+            "name": "Plaža Velenje",
+            "tip": "Kávézók és fagyizók közvetlenül a tóparton egy délutáni frissítőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gostilna pri gradu",
+            "tip": "Un restaurant lângă castel, ideal pentru prânz după vizitarea muzeului."
+          },
+          {
+            "name": "Plaža Velenje",
+            "tip": "Cafenele și gelaterii chiar pe malul lacului pentru o băutură răcoritoare după-amiaza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gostilna pri gradu",
+            "tip": "A restaurant near the castle, ideal for lunch after the museum visit."
+          },
+          {
+            "name": "Plaža Velenje",
+            "tip": "Cafes and ice cream parlors right on the lake shore for an afternoon refreshment."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panoramablick von der Burgruine Šalek",
+            "tip": "Eine kurze Fahrt für eine weite Aussicht und Stille.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spazierweg um den See",
+            "tip": "Entfliehen Sie dem Stadttrubel und genießen Sie die Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panorámakilátás a Šaleki várromról",
+            "tip": "Rövid út egy tágas kilátásért és csendért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sétaút a tó körül",
+            "tip": "Meneküljön el a város zajától és élvezze a természetet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere panoramică de la ruinele castelului Šalek",
+            "tip": "O scurtă călătorie cu mașina pentru o priveliște largă și liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Promenadă în jurul lacului",
+            "tip": "Evadați din agitația orașului și bucurați-vă de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Panoramic view from Šalek Castle Ruins",
+            "tip": "A short drive for a wide view and silence.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walking path around the lake",
+            "tip": "Escape the city bustle and enjoy nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop des Kohlenbergbaumuseums",
+            "tip": "Finden Sie einzigartige Souvenirs, die mit dem Bergbau zu tun haben."
+          },
+          {
+            "name": "Pasaža Einkaufszentrum",
+            "tip": "Für alltägliche Einkäufe oder falls Sie etwas vergessen haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Szénbányászati Múzeum múzeumboltja",
+            "tip": "Találjon egyedi, bányászattal kapcsolatos ajándéktárgyakat."
+          },
+          {
+            "name": "Pasaža bevásárlóközpont",
+            "tip": "Mindennapi bevásárláshoz, vagy ha valamit elfelejtett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului Mineritului",
+            "tip": "Găsiți suveniruri unice legate de minerit."
+          },
+          {
+            "name": "Centrul comercial Pasaža",
+            "tip": "Pentru cumpărături de zi cu zi sau dacă ați uitat ceva."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coal Mining Museum's gift shop",
+            "tip": "Find unique souvenirs related to mining."
+          },
+          {
+            "name": "Pasaža shopping center",
+            "tip": "For everyday shopping or if you've forgotten something."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Velenje ist relativ einfach, aber achten Sie auf Parkzonen im Zentrum.",
+          "Planen Sie genügend Zeit für die Fahrt zwischen den Clustern ein.",
+          "Die Straßen sind gut ausgebaut, aber im Winter können die Bedingungen in den Hügeln anspruchsvoll sein."
+        ],
+        "hu": [
+          "A parkolás Velenjében viszonylag egyszerű, de figyeljen a parkolási zónákra a központban.",
+          "Tervezzen elegendő időt a klaszterek közötti utazásra.",
+          "Az utak jó állapotban vannak, de télen a hegyi körülmények kihívást jelenthetnek."
+        ],
+        "ro": [
+          "Parcarea în Velenje este relativ ușoară, dar fiți atenți la zonele de parcare din centru.",
+          "Planificați suficient timp pentru deplasarea între clustere.",
+          "Drumurile sunt bine întreținute, dar iarna condițiile pe dealuri pot fi dificile."
+        ],
+        "en": [
+          "Parking in Velenje is relatively easy, but pay attention to parking zones in the center.",
+          "Allow enough time for driving between clusters.",
+          "The roads are well-maintained, but winter conditions can be challenging in the hills."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 7.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum",
+            "hu": "1. klaszter: Városközpont",
+            "ro": "Cluster 1: Centrul orașului",
+            "en": "Cluster 1: City Center"
+          },
+          "coords": [
+            15.111,
+            46.361
+          ],
+          "category": "districts/neighborhoods",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Beginnen Sie am Busbahnhof oder einer zentralen Haltestelle. Die ersten Sehenswürdigkeiten sind zu Fuß erreichbar.",
+            "hu": "Kezdje a buszpályaudvaron vagy egy központi megállóban. Az első látnivalók gyalogosan elérhetők.",
+            "ro": "Începeți de la autogară sau de la o stație centrală. Primele atracții sunt accesibile pe jos.",
+            "en": "Start at the bus station or a central stop. The first sights are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Tito-Statue & Kulturhaus",
+            "hu": "Tito-szobor és Kultúrház",
+            "ro": "Statuia lui Tito și Casa de Cultură",
+            "en": "Tito Statue & House of Culture"
+          },
+          "coords": [
+            15.11,
+            46.36
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Erkunden Sie den Kern des modernen Velenje zu Fuß.",
+            "hu": "Fedezze fel gyalog a modern Velenje központját.",
+            "ro": "Explorați pe jos nucleul modern al orașului Velenje.",
+            "en": "Explore the core of modern Velenje on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Schlossberg",
+            "hu": "2. klaszter: Várhegy",
+            "ro": "Cluster 2: Dealul Castelului",
+            "en": "Cluster 2: Castle Hill"
+          },
+          "coords": [
+            15.113,
+            46.365
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nehmen Sie einen lokalen Bus in Richtung Schloss. Steigen Sie an der Haltestelle 'Grad' aus.",
+            "hu": "Vegyen egy helyi buszt a vár irányába. Szálljon le a 'Grad' megállónál.",
+            "ro": "Luați un autobuz local spre castel. Coborâți la stația 'Grad'.",
+            "en": "Take a local bus towards the castle. Get off at the 'Grad' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Velenje & Kohlenbergbaumuseum",
+            "hu": "Velenjei vár és Szénbányászati Múzeum",
+            "ro": "Castelul Velenje și Muzeul Mineritului",
+            "en": "Velenje Castle & Coal Mining Museum"
+          },
+          "coords": [
+            15.114,
+            46.366
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 240,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Der Spaziergang von der Bushaltestelle zum Schloss und Museum ist kurz. Genießen Sie die Aussicht.",
+            "hu": "A buszmegállótól a várhoz és a múzeumhoz vezető séta rövid. Élvezze a kilátást.",
+            "ro": "Plimbarea de la stația de autobuz la castel și muzeu este scurtă. Bucurați-vă de priveliște.",
+            "en": "The walk from the bus stop to the castle and museum is short. Enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Velenje-See",
+            "hu": "3. klaszter: Velenjei-tó",
+            "ro": "Cluster 3: Lacul Velenje",
+            "en": "Cluster 3: Lake Velenje"
+          },
+          "coords": [
+            15.11,
+            46.355
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 170,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nehmen Sie einen Bus vom Schlossbereich in Richtung See ('Jezero').",
+            "hu": "Vegyen egy buszt a vár területéről a tó ('Jezero') irányába.",
+            "ro": "Luați un autobuz din zona castelului spre lac ('Jezero').",
+            "en": "Take a bus from the castle area towards the lake ('Jezero')."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln startet im Zentrum, wo Sie die wichtigsten modernen Wahrzeichen zu Fuß erkunden. Ein lokaler Bus bringt Sie dann bequem zum Schlossberg, dem zweiten Cluster Ihres Tages. Hier verbringen Sie mehrere Stunden im Schloss und dem faszinierenden Kohlenbergbaumuseum. Am Nachmittag nehmen Sie einen weiteren Bus zum Velenje-See, dem dritten Cluster, um am Wasser zu entspannen und den Tag inmitten der Natur ausklingen zu lassen.",
+        "hu": "A tömegközlekedési túrája a központban kezdődik, ahol gyalogosan fedezi fel a legfontosabb modern jelképeket. Egy helyi busz ezután kényelmesen elviszi a Várhegyre, a nap második klaszteréhez. Itt több órát tölt a várban és a lenyűgöző Szénbányászati Múzeumban. Délután egy másik busszal a Velenjei-tóhoz utazik, a harmadik klaszterhez, hogy a vízparton pihenjen és a napot a természet közepén zárja.",
+        "ro": "Turul dvs. cu transportul public începe în centru, unde explorați pe jos principalele repere moderne. Un autobuz local vă va duce apoi confortabil la Dealul Castelului, al doilea cluster al zilei. Aici veți petrece câteva ore la castel și la fascinantul Muzeu al Mineritului. După-amiaza, veți lua un alt autobuz spre lacul Velenje, al treilea cluster, pentru a vă relaxa lângă apă și a încheia ziua în mijlocul naturii.",
+        "en": "Your public transport tour starts in the center, where you'll explore the main modern landmarks on foot. a local bus will then take you comfortably to Castle Hill, the second cluster of your day. Here you will spend several hours at the castle and the fascinating Coal Mining Museum. In the afternoon, you'll take another bus to Lake Velenje, the third cluster, to relax by the water and end the day surrounded by nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Okrepčevalnica Avtobusna Postaja",
+            "tip": "Ein schneller Imbiss am Busbahnhof, bevor Sie die Stadt erkunden."
+          },
+          {
+            "name": "Kavarna in slaščičarna Lucifer",
+            "tip": "Berühmt für seine Kuchen und sein Eis, ein perfekter Stopp am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Okrepčevalnica Avtobusna Postaja",
+            "tip": "Egy gyors harapnivaló a buszpályaudvaron, mielőtt felfedezné a várost."
+          },
+          {
+            "name": "Kavarna in slaščičarna Lucifer",
+            "tip": "Híres süteményeiről és fagylaltjáról, tökéletes délutáni megálló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Okrepčevalnica Avtobusna Postaja",
+            "tip": "O gustare rapidă la autogară înainte de a explora orașul."
+          },
+          {
+            "name": "Kavarna in slaščičarna Lucifer",
+            "tip": "Renumită pentru prăjiturile și înghețata sa, o oprire perfectă după-amiaza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Okrepčevalnica Avtobusna Postaja",
+            "tip": "A quick snack at the bus station before exploring the city."
+          },
+          {
+            "name": "Kavarna in slaščičarna Lucifer",
+            "tip": "Famous for its cakes and ice cream, a perfect afternoon stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick vom Schloss Velenje",
+            "tip": "Genießen Sie die Ruhe, bevor Sie die Museen betreten.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Ein Spaziergang entlang des Flusses Paka",
+            "tip": "Ein weniger bekannter, aber ruhiger Weg in der Nähe des Zentrums.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Velenjei várból",
+            "tip": "Élvezze a csendet, mielőtt belép a múzeumokba.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Séta a Paka folyó mentén",
+            "tip": "Kevésbé ismert, de csendes út a központ közelében.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Castelul Velenje",
+            "tip": "Bucurați-vă de liniște înainte de a intra în muzee.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "O plimbare de-a lungul râului Paka",
+            "tip": "O cale mai puțin cunoscută, dar liniștită, aproape de centru.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Velenje Castle",
+            "tip": "Enjoy the quiet before entering the museums.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "A walk along the Paka River",
+            "tip": "A lesser-known but quiet path near the center.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Überprüfen Sie die Markttage für frische Produkte und lokale Spezialitäten."
+          },
+          {
+            "name": "Souvenirladen im Museum",
+            "tip": "Der beste Ort für themenbezogene Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Ellenőrizze a piacnapokat a friss termékekért és a helyi specialitásokért."
+          },
+          {
+            "name": "Ajándékbolt a múzeumban",
+            "tip": "A legjobb hely tematikus ajándékokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Verificați zilele de piață pentru produse proaspete și specialități locale."
+          },
+          {
+            "name": "Magazin de suveniruri la muzeu",
+            "tip": "Cel mai bun loc pentru cadouri tematice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Check for market days for fresh produce and local specialties."
+          },
+          {
+            "name": "Museum gift shop",
+            "tip": "The best place for themed gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Beachten Sie, dass Busse am Wochenende möglicherweise seltener fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendek megtekintéséhez.",
+          "Vegye figyelembe, hogy a buszok hétvégén ritkábban közlekedhetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Descărcați aplicația locală de transport public pentru a vedea orarele în timp real.",
+          "Rețineți că autobuzele pot circula mai rar în weekend."
+        ],
+        "en": [
+          "Buy a daily bus ticket to save money.",
+          "Download the local public transport app to see real-time schedules.",
+          "Be aware that buses may run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

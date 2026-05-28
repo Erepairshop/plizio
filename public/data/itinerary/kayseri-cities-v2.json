@@ -1,0 +1,1428 @@
+{
+  "city_id": "kayseri-cities-v2",
+  "anchor": {
+    "name": "Kayseri",
+    "coords": [
+      38.7333,
+      35.4833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cumhuriyet-Platz",
+            "hu": "Cumhuriyet tér",
+            "ro": "Piața Cumhuriyet",
+            "en": "Cumhuriyet Square"
+          },
+          "coords": [
+            35.4881,
+            38.7219
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um den Herzschlag der Stadt zu spüren und das Atatürk-Denkmal zu sehen.",
+            "hu": "Kezdje itt a napot, hogy átérezze a város lüktetését és megnézze az Atatürk-emlékművet.",
+            "ro": "Începeți aici pentru a simți pulsul orașului și a vedea monumentul Atatürk.",
+            "en": "Start here to feel the city's heartbeat and see the Atatürk monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Kayseri",
+            "hu": "Kayseri vára",
+            "ro": "Cetatea Kayseri",
+            "en": "Kayseri Castle"
+          },
+          "coords": [
+            35.4895,
+            38.7205
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die schwarzen Basaltmauern sind sehr fotogen. Im Inneren finden oft Kulturmärkte statt.",
+            "hu": "A fekete bazaltfalak rendkívül fotogének. A várudvaron gyakran tartanak kulturális vásárokat.",
+            "ro": "Zidurile negre de bazalt sunt foarte fotogenice. În interior au loc adesea târguri culturale.",
+            "en": "The black basalt walls are very photogenic. Cultural markets are often held inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurşunlu-Moschee",
+            "hu": "Kurşunlu-mecset",
+            "ro": "Moscheea Kurșunlu",
+            "en": "Kurşunlu Mosque"
+          },
+          "coords": [
+            35.4911,
+            38.7218
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein klassisches Werk des Architekten Sinan. Achten Sie auf die eleganten Verzierungen.",
+            "hu": "Szinán építész klasszikus alkotása. Figyelje meg az elegáns díszítéseket!",
+            "ro": "O lucrare clasică a arhitectului Sinan. Observați decorațiunile elegante.",
+            "en": "A classic work by the architect Sinan. Pay attention to the elegant decorations."
+          }
+        },
+        {
+          "name": {
+            "de": "Hunat-Hatun-Komplex",
+            "hu": "Hunat Hatun komplexum",
+            "ro": "Complexul Hunat Hatun",
+            "en": "Hunat Hatun Complex"
+          },
+          "coords": [
+            35.4933,
+            38.7212
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Umfasst eine Moschee, ein Mausoleum und ein altes Bad. Ein Juwel der seldschukischen Architektur.",
+            "hu": "Egy mecsetet, egy mauzóleumot és egy régi fürdőt foglal magában. A szeldzsuk építészet ékköve.",
+            "ro": "Include o moschee, un mausoleu și o baie veche. O bijuterie a arhitecturii selgiucide.",
+            "en": "Includes a mosque, a mausoleum, and an old bath. A jewel of Seljuk architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Gevher-Nesibe-Museum",
+            "hu": "Gevher Nesibe Orvostörténeti Múzeum",
+            "ro": "Muzeul de Istorie a Medicinei Gevher Nesibe",
+            "en": "Gevher Nesibe Museum of the History of Medicine"
+          },
+          "coords": [
+            35.4945,
+            38.7235
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eines der ältesten Krankenhäuser der Welt, das zu einem faszinierenden Medizingeschichtsmuseum umgebaut wurde.",
+            "hu": "A világ egyik legrégebbi kórháza, ma egy lenyűgöző orvostörténeti múzeum.",
+            "ro": "Unul dintre cele mai vechi spitale din lume, transformat într-un muzeu fascinant de istoria medicinei.",
+            "en": "One of the world's oldest hospitals, now a fascinating museum of medical history."
+          }
+        },
+        {
+          "name": {
+            "de": "Sahabiye-Medrese",
+            "hu": "Sahabiye Medresze",
+            "ro": "Madrasa Sahabiye",
+            "en": "Sahabiye Madrasa"
+          },
+          "coords": [
+            35.4918,
+            38.7251
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie das kunstvolle Steinportal, ein Meisterwerk der seldschukischen Steinmetzkunst.",
+            "hu": "Csodálja meg a díszes kőportált, a szeldzsuk kőfaragás mesterművét!",
+            "ro": "Admirați portalul de piatră ornamentat, o capodoperă a sculpturii în piatră selgiucide.",
+            "en": "Admire the ornate stone portal, a masterpiece of Seljuk stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Kayseri Lisesi Museum",
+            "hu": "Kayseri Gimnázium Múzeum",
+            "ro": "Muzeul Liceului din Kayseri",
+            "en": "Kayseri High School Museum"
+          },
+          "coords": [
+            35.4866,
+            38.7185
+          ],
+          "category": "museums",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Geschichte der modernen Türkei in diesem historischen Schulgebäude.",
+            "hu": "Ismerje meg a modern Törökország történelmét ebben a történelmi iskolaépületben.",
+            "ro": "Aflați despre istoria Turciei moderne în această clădire istorică a școlii.",
+            "en": "Learn about the history of modern Turkey in this historic school building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am belebten Cumhuriyet-Platz, dem Herzen von Kayseri. Am Vormittag erkunden Sie die imposante schwarze Burg und die nahe gelegenen seldschukischen Meisterwerke, darunter die Kurşunlu-Moschee und den Hunat-Hatun-Komplex. Nach einem Mittagessen mit lokalen Spezialitäten wie Mantı tauchen Sie am Nachmittag in die faszinierende Medizingeschichte im Gevher-Nesibe-Museum ein. Der Tag endet mit einem entspannten Spaziergang durch die historischen Medresen, bevor Sie in einem der traditionellen Restaurants zu Abend essen.",
+        "hu": "A nap a nyüzsgő Cumhuriyet téren, Kayseri szívében kezdődik. Délelőtt felfedezi a lenyűgöző fekete várat és a közeli szeldzsuk remekműveket, köztük a Kurşunlu-mecsetet és a Hunat Hatun komplexumot. Egy helyi specialitásokból, például mantıból álló ebéd után délután elmerülhet az orvostudomány lenyűgöző történetében a Gevher Nesibe Múzeumban. A nap egy pihentető sétával zárul a történelmi medreszék között, mielőtt megvacsorázna az egyik hagyományos étteremben.",
+        "ro": "Ziua dvs. începe în Piața plină de viață Cumhuriyet, inima orașului Kayseri. Dimineața explorați impunătorul castel negru și capodoperele selgiucide din apropiere, inclusiv Moscheea Kurșunlu și Complexul Hunat Hatun. După un prânz cu specialități locale precum mantı, după-amiaza vă scufundați în istoria fascinantă a medicinei la Muzeul Gevher Nesibe. Ziua se încheie cu o plimbare relaxantă printre madrasele istorice înainte de a lua cina la unul dintre restaurantele tradiționale.",
+        "en": "Your day begins in the bustling Cumhuriyet Square, the heart of Kayseri. In the morning, you'll explore the imposing black castle and nearby Seljuk masterpieces, including the Kurşunlu Mosque and Hunat Hatun Complex. After a lunch of local specialties like mantı, you'll dive into the fascinating history of medicine at the Gevher Nesibe Museum in the afternoon. The day concludes with a relaxing stroll through the historic madrasas before enjoying dinner at a traditional restaurant."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kayseri Mantısı",
+            "tip": "Winzige, mit Fleisch gefüllte Teigtaschen, serviert mit Joghurt und gewürzter Butter. Ein Muss!"
+          },
+          {
+            "name": "Pastırma",
+            "tip": "Luftgetrocknetes, gewürztes Rindfleisch. Kayseri ist berühmt für das beste Pastırma der Türkei."
+          },
+          {
+            "name": "Yağlama",
+            "tip": "Dünne Teigfladen, geschichtet mit Hackfleisch. Sehr sättigend und lecker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kayseri Mantısı",
+            "tip": "Apró, hússal töltött tésztagombócok, joghurttal és fűszeres vajjal tálalva. Kötelező megkóstolni!"
+          },
+          {
+            "name": "Pastırma",
+            "tip": "Levegőn szárított, fűszeres marhahús. Kayseri a legjobb törökországi pastırmáról híres."
+          },
+          {
+            "name": "Yağlama",
+            "tip": "Vékony tésztalapok, darált hússal rétegezve. Nagyon laktató és finom."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kayseri Mantısı",
+            "tip": "Găluște minuscule umplute cu carne, servite cu iaurt și unt condimentat. O încercare obligatorie!"
+          },
+          {
+            "name": "Pastırma",
+            "tip": "Carne de vită condimentată, uscată la aer. Kayseri este renumit pentru cea mai bună pastırma din Turcia."
+          },
+          {
+            "name": "Yağlama",
+            "tip": "Straturi subțiri de aluat, stratificate cu carne tocată. Foarte sățios și delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kayseri Mantısı",
+            "tip": "Tiny dumplings filled with meat, served with yogurt and spiced butter. A must-try!"
+          },
+          {
+            "name": "Pastırma",
+            "tip": "Air-dried cured beef with spices. Kayseri is famous for having the best pastırma in Turkey."
+          },
+          {
+            "name": "Yağlama",
+            "tip": "Thin layers of flatbread layered with minced meat. Very filling and delicious."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gevher Nesibe Medresesi Innenhof",
+            "tip": "Der ruhige Innenhof des Medizinhistorischen Museums.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein Teehaus in der Nähe der Burg",
+            "tip": "Finden Sie einen ruhigen Ort, um einen Tee mit Blick auf die alten Mauern zu genießen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gevher Nesibe Medresesi udvara",
+            "tip": "Az Orvostörténeti Múzeum csendes belső udvara.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy teaház a vár közelében",
+            "tip": "Keressen egy csendes helyet egy teára, kilátással az ősi falakra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea interioară Gevher Nesibe Medresesi",
+            "tip": "Curtea liniștită a Muzeului de Istorie a Medicinei.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O ceainărie lângă castel",
+            "tip": "Găsiți un loc liniștit pentru a savura un ceai cu vedere la zidurile antice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gevher Nesibe Madrasa Courtyard",
+            "tip": "The quiet inner courtyard of the Museum of the History of Medicine.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A teahouse near the castle",
+            "tip": "Find a quiet spot to enjoy a tea with a view of the ancient walls.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kapalı Çarşı (Bedeckter Basar)",
+            "tip": "Einer der ältesten Basare der Türkei. Kaufen Sie Pastırma, Gewürze und lokales Handwerk."
+          },
+          {
+            "name": "Forum Kayseri",
+            "tip": "Ein modernes Einkaufszentrum, falls Sie internationale Marken suchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kapalı Çarşı (Fedett Bazár)",
+            "tip": "Törökország egyik legrégebbi bazárja. Vásároljon pastırmát, fűszereket és helyi kézműves termékeket."
+          },
+          {
+            "name": "Forum Kayseri",
+            "tip": "Modern bevásárlóközpont, ha nemzetközi márkákat keres."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kapalı Çarşı (Bazarul Acoperit)",
+            "tip": "Unul dintre cele mai vechi bazaruri din Turcia. Cumpărați pastırma, condimente și artizanat local."
+          },
+          {
+            "name": "Forum Kayseri",
+            "tip": "Un centru comercial modern dacă sunteți în căutarea mărcilor internaționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kapalı Çarşı (Covered Bazaar)",
+            "tip": "One of Turkey's oldest bazaars. Shop for pastırma, spices, and local handicrafts."
+          },
+          {
+            "name": "Forum Kayseri",
+            "tip": "A modern shopping mall if you're looking for international brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Beginnen Sie früh, um die Menschenmassen an den Hauptsehenswürdigkeiten zu vermeiden.",
+          "Halten Sie immer eine Flasche Wasser bereit, besonders in den Sommermonaten.",
+          "Seien Sie respektvoll beim Betreten von Moscheen; Frauen sollten ihr Haar bedecken."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek az óvárosban egyenetlenek lehetnek.",
+          "Kezdje korán a napot, hogy elkerülje a tömeget a főbb látnivalóknál.",
+          "Mindig legyen Önnél egy üveg víz, különösen a nyári hónapokban.",
+          "Legyen tisztelettudó a mecsetekbe való belépéskor; a nőknek el kell takarniuk a hajukat."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pietrele din orașul vechi pot fi denivelate.",
+          "Începeți devreme pentru a evita aglomerația la principalele atracții.",
+          "Aveți întotdeauna la îndemână o sticlă de apă, mai ales în lunile de vară.",
+          "Fiți respectuos la intrarea în moschei; femeile ar trebui să își acopere părul."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Start early to avoid the crowds at the main sights.",
+          "Always keep a bottle of water with you, especially during the summer months.",
+          "Be respectful when entering mosques; women should cover their hair."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cumhuriyet-Platz",
+            "hu": "Cumhuriyet tér",
+            "ro": "Piața Cumhuriyet",
+            "en": "Cumhuriyet Square"
+          },
+          "coords": [
+            35.4881,
+            38.7219
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit viel Platz, um Ihr Fahrrad kurz abzustellen und die Atmosphäre zu genießen.",
+            "hu": "Jó kiindulópont, bőséges hellyel, ahol lerakhatja a kerékpárt és élvezheti a hangulatot.",
+            "ro": "Un bun punct de plecare cu mult spațiu pentru a parca bicicleta și a vă bucura de atmosferă.",
+            "en": "A good starting point with plenty of space to park your bike and soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Sahabiye-Medrese",
+            "hu": "Sahabiye Medresze",
+            "ro": "Madrasa Sahabiye",
+            "en": "Sahabiye Madrasa"
+          },
+          "coords": [
+            35.4918,
+            38.7251
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich Zeit, das beeindruckende Portal zu fotografieren.",
+            "hu": "Zárja le a kerékpárt a közelben, és szánjon időt a lenyűgöző portál lefényképezésére.",
+            "ro": "Legați-vă bicicleta în apropiere și faceți-vă timp pentru a fotografia portalul impresionant.",
+            "en": "Lock your bike nearby and take your time to photograph the impressive portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Gevher-Nesibe-Museum",
+            "hu": "Gevher Nesibe Orvostörténeti Múzeum",
+            "ro": "Muzeul de Istorie a Medicinei Gevher Nesibe",
+            "en": "Gevher Nesibe Museum of the History of Medicine"
+          },
+          "coords": [
+            35.4945,
+            38.7235
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher, da Sie für dieses faszinierende Museum einige Zeit benötigen werden.",
+            "hu": "Parkolja le biztonságosan a kerékpárt, mert erre a lenyűgöző múzeumra több időre lesz szüksége.",
+            "ro": "Parcați-vă bicicleta în siguranță, deoarece veți avea nevoie de ceva timp pentru acest muzeu fascinant.",
+            "en": "Park your bike securely as you'll need some time for this fascinating museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Hunat-Hatun-Komplex",
+            "hu": "Hunat Hatun komplexum",
+            "ro": "Complexul Hunat Hatun",
+            "en": "Hunat Hatun Complex"
+          },
+          "coords": [
+            35.4933,
+            38.7212
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren Sie um den Komplex herum, um seine Größe zu erfassen, bevor Sie ihn zu Fuß erkunden.",
+            "hu": "Tekerjen körbe a komplexum körül, hogy felmérje a méretét, mielőtt gyalog felfedezné.",
+            "ro": "Pedalați în jurul complexului pentru a-i aprecia dimensiunea înainte de a explora pe jos.",
+            "en": "Cycle around the complex to grasp its scale before exploring on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Kayseri",
+            "hu": "Kayseri vára",
+            "ro": "Cetatea Kayseri",
+            "en": "Kayseri Castle"
+          },
+          "coords": [
+            35.4895,
+            38.7205
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen ist ein Besuch der Burg ideal. Der Aufstieg zu den Mauern bietet eine tolle Aussicht.",
+            "hu": "Ebéd után ideális a várat meglátogatni. A falakra való felmászás remek kilátást nyújt.",
+            "ro": "O vizită la castel este ideală după prânz. Urcarea pe ziduri oferă priveliști minunate.",
+            "en": "A visit to the castle is ideal after lunch. The climb up the walls offers great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kayseri Lisesi Museum",
+            "hu": "Kayseri Gimnázium Múzeum",
+            "ro": "Muzeul Liceului din Kayseri",
+            "en": "Kayseri High School Museum"
+          },
+          "coords": [
+            35.4866,
+            38.7185
+          ],
+          "category": "museums",
+          "arrive_at": "15:30",
+          "stay_min": 65,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt vom Stadtzentrum zu diesem wichtigen Ort der türkischen Geschichte.",
+            "hu": "Kellemes út a városközpontból a török történelem e fontos helyszínére.",
+            "ro": "O plimbare plăcută cu bicicleta din centrul orașului până la acest loc important din istoria Turciei.",
+            "en": "A pleasant ride from the city center to this important site in Turkish history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad beginnen Sie am Cumhuriyet-Platz und radeln dann zu den seldschukischen Medresen Sahabiye und Gevher Nesibe. Am Vormittag haben Sie genügend Zeit für die Museen. Nach einer Mittagspause führt Ihre Route zum großartigen Hunat-Hatun-Komplex und zur imposanten Burg von Kayseri. Am Nachmittag unternehmen Sie eine längere Fahrt zum historischen Kayseri-Lisesi-Museum, das einen Einblick in die Gründung der Republik bietet. Der Tag klingt aus, während Sie zurück ins Zentrum radeln, um die lokale Küche zu genießen.",
+        "hu": "Kerékpárral a Cumhuriyet térről indul, majd a szeldzsuk Sahabiye és Gevher Nesibe medreszékhez teker. Délelőtt bőven lesz ideje a múzeumokra. Egy ebédszünet után az útvonal a nagyszerű Hunat Hatun komplexumhoz és a lenyűgöző Kayseri várhoz vezet. Délután egy hosszabb útra indul a történelmi Kayseri Gimnázium Múzeumához, amely bepillantást enged a köztársaság megalapításába. A nap végén visszateker a központba, hogy megkóstolja a helyi konyhát.",
+        "ro": "Pe bicicletă, porniți din Piața Cumhuriyet și apoi pedalați spre madrasele selgiucide Sahabiye și Gevher Nesibe. Dimineața veți avea suficient timp pentru muzee. După o pauză de prânz, traseul vă duce la magnificul Complex Hunat Hatun și la impunătorul Castel Kayseri. După-amiaza, faceți o plimbare mai lungă până la Muzeul istoric al Liceului Kayseri, care oferă o perspectivă asupra fondării republicii. Ziua se încheie pedalând înapoi spre centru pentru a savura bucătăria locală.",
+        "en": "On your bike, you'll start at Cumhuriyet Square and then pedal to the Seljuk madrasas of Sahabiye and Gevher Nesibe. You'll have plenty of time for the museums in the morning. After a lunch break, your route takes you to the magnificent Hunat Hatun Complex and the imposing Kayseri Castle. In the afternoon, you'll take a longer ride to the historic Kayseri High School Museum, which offers insight into the founding of the republic. The day ends as you cycle back to the center to enjoy the local cuisine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kayseri Mantısı",
+            "tip": "Winzige, mit Fleisch gefüllte Teigtaschen, serviert mit Joghurt und gewürzter Butter. Ein Muss!"
+          },
+          {
+            "name": "Pastırma",
+            "tip": "Luftgetrocknetes, gewürztes Rindfleisch. Kayseri ist berühmt für das beste Pastırma der Türkei."
+          },
+          {
+            "name": "Nevzine Tatlısı",
+            "tip": "Ein lokales Dessert aus Grieß, Melasse und Nüssen. Perfekt für einen Energieschub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kayseri Mantısı",
+            "tip": "Apró, hússal töltött tésztagombócok, joghurttal és fűszeres vajjal tálalva. Kötelező megkóstolni!"
+          },
+          {
+            "name": "Pastırma",
+            "tip": "Levegőn szárított, fűszeres marhahús. Kayseri a legjobb törökországi pastırmáról híres."
+          },
+          {
+            "name": "Nevzine Tatlısı",
+            "tip": "Helyi desszert grízből, melaszból és diófélékből. Tökéletes energiafröccs."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kayseri Mantısı",
+            "tip": "Găluște minuscule umplute cu carne, servite cu iaurt și unt condimentat. O încercare obligatorie!"
+          },
+          {
+            "name": "Pastırma",
+            "tip": "Carne de vită condimentată, uscată la aer. Kayseri este renumit pentru cea mai bună pastırma din Turcia."
+          },
+          {
+            "name": "Nevzine Tatlısı",
+            "tip": "Un desert local făcut din griș, melasă și nuci. Perfect pentru un plus de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kayseri Mantısı",
+            "tip": "Tiny dumplings filled with meat, served with yogurt and spiced butter. A must-try!"
+          },
+          {
+            "name": "Pastırma",
+            "tip": "Air-dried cured beef with spices. Kayseri is famous for having the best pastırma in Turkey."
+          },
+          {
+            "name": "Nevzine Tatlısı",
+            "tip": "A local dessert made from semolina, molasses, and nuts. Perfect for an energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang der Sivas Caddesi",
+            "tip": "Ein belebterer Boulevard, aber die Radwege bieten eine andere Perspektive auf die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kurşunlu-Moschee-Garten",
+            "tip": "Ein kleiner, aber friedlicher Garten rund um die Moschee.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Sivas Caddesi mentén",
+            "tip": "Forgalmasabb sugárút, de a kerékpárutak más perspektívát nyújtanak a városról.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kurşunlu-mecset kertje",
+            "tip": "Kicsi, de békés kert a mecset körül.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Sivas Caddesi",
+            "tip": "Un bulevard mai aglomerat, dar pistele de biciclete oferă o perspectivă diferită asupra orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Moscheii Kurșunlu",
+            "tip": "O grădină mică, dar liniștită, care înconjoară moscheea.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along Sivas Caddesi",
+            "tip": "A busier boulevard, but the bike paths offer a different perspective of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kurşunlu Mosque Garden",
+            "tip": "A small but peaceful garden surrounding the mosque.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradgeschäfte",
+            "tip": "Fragen Sie nach Zubehör oder Tipps von lokalen Radfahrern."
+          },
+          {
+            "name": "Kapalı Çarşı (Bedeckter Basar)",
+            "tip": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie in das Labyrinth der Geschäfte eintauchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Kérjen tanácsot vagy kiegészítőket a helyi kerékpárosoktól."
+          },
+          {
+            "name": "Kapalı Çarşı (Fedett Bazár)",
+            "tip": "Biztonságosan parkolja le a kerékpárt, mielőtt belevetné magát az üzletek labirintusába."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Cereți accesorii sau sfaturi de la bicicliștii locali."
+          },
+          {
+            "name": "Kapalı Çarşı (Bazarul Acoperit)",
+            "tip": "Parcați-vă bicicleta în siguranță înainte de a intra în labirintul de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bike shops",
+            "tip": "Ask for accessories or tips from local cyclists."
+          },
+          {
+            "name": "Kapalı Çarşı (Covered Bazaar)",
+            "tip": "Park your bike securely before diving into the maze of shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand der Radwege; einige können uneben sein.",
+          "Ein Helm wird empfohlen, besonders auf verkehrsreichen Straßen.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad sicher abzustellen, während Sie die Sehenswürdigkeiten erkunden.",
+          "Der Verkehr in Kayseri kann chaotisch sein, fahren Sie defensiv."
+        ],
+        "hu": [
+          "Ellenőrizze a kerékpárutak állapotát; némelyik egyenetlen lehet.",
+          "Sisak használata ajánlott, különösen forgalmas utakon.",
+          "Vigyen magával egy jó lakatot, hogy biztonságban tudhassa kerékpárját a látnivalók felfedezése közben.",
+          "A kayseri forgalom kaotikus lehet, vezessen védekezően."
+        ],
+        "ro": [
+          "Verificați starea pistelor de biciclete; unele pot fi denivelate.",
+          "Se recomandă cască, mai ales pe drumurile aglomerate.",
+          "Luați un lacăt bun pentru a vă asigura bicicleta în timp ce explorați obiectivele turistice.",
+          "Traficul din Kayseri poate fi haotic, conduceți defensiv."
+        ],
+        "en": [
+          "Check the condition of bike paths; some can be uneven.",
+          "A helmet is recommended, especially on busy roads.",
+          "Bring a good lock to secure your bike while exploring the sights.",
+          "Traffic in Kayseri can be chaotic, ride defensively."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 19.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Hunat-Hatun-Komplex",
+            "hu": "1. klaszter: Hunat Hatun komplexum",
+            "ro": "Cluster 1: Complexul Hunat Hatun",
+            "en": "Cluster 1: Hunat Hatun Complex"
+          },
+          "coords": [
+            35.4933,
+            38.7212
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier. Dieser erste Halt ist Ihr Tor zum seldschukischen Viertel.",
+            "hu": "Parkoljon itt. Ez az első megálló a kapu a szeldzsuk negyedbe.",
+            "ro": "Parcați aici. Această primă oprire este poarta dvs. de acces către cartierul Seljuk.",
+            "en": "Park here. This first stop is your gateway to the Seljuk quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Gevher-Nesibe-Museum",
+            "hu": "Gevher Nesibe Orvostörténeti Múzeum",
+            "ro": "Muzeul de Istorie a Medicinei Gevher Nesibe",
+            "en": "Gevher Nesibe Museum of the History of Medicine"
+          },
+          "coords": [
+            35.4945,
+            38.7235
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hunat-Komplex. Ein Muss für Geschichts- und Wissenschaftsinteressierte.",
+            "hu": "Rövid séta a Hunat komplexumtól. Történelem- és tudománykedvelőknek kötelező.",
+            "ro": "O scurtă plimbare de la Complexul Hunat. O vizită obligatorie pentru pasionații de istorie și știință.",
+            "en": "A short walk from the Hunat Complex. A must-see for history and science enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Kayseri & Cumhuriyet-Platz",
+            "hu": "Kayseri vár és Cumhuriyet tér",
+            "ro": "Cetatea Kayseri și Piața Cumhuriyet",
+            "en": "Kayseri Castle & Cumhuriyet Square"
+          },
+          "coords": [
+            35.4895,
+            38.7205
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zurück zum zentralen Bereich, um die Burg zu erklimmen und das Treiben auf dem Platz zu beobachten.",
+            "hu": "Sétáljon vissza a központi részre, mássza meg a várat, és figyelje a tér nyüzsgését.",
+            "ro": "Mergeți înapoi în zona centrală pentru a urca în castel și a privi agitația din piață.",
+            "en": "Walk back towards the central area to climb the castle and watch the buzz in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            35.488,
+            38.722
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein Restaurant, das auf Mantı oder Pastırma spezialisiert ist.",
+            "hu": "Próbáljon ki egy mantıra vagy pastırmára szakosodott éttermet.",
+            "ro": "Încercați un restaurant specializat în mantı sau pastırma.",
+            "en": "Try a restaurant specializing in mantı or pastırma."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Talas Altstadt",
+            "hu": "2. klaszter: Talas óvárosa",
+            "ro": "Cluster 2: Orașul vechi Talas",
+            "en": "Cluster 2: Talas Old Town"
+          },
+          "coords": [
+            35.575,
+            38.71
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie nach Talas und parken Sie. Erkunden Sie die charmanten alten Steinhäuser und Gassen.",
+            "hu": "Vezessen el Talasba és parkoljon le. Fedezze fel a bájos régi kőházakat és sikátorokat.",
+            "ro": "Conduceți spre Talas și parcați. Explorați fermecătoarele case vechi de piatră și aleile.",
+            "en": "Drive to Talas and park. Explore the charming old stone houses and alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaffee und Dessert in Talas",
+            "hu": "Kávé és desszert Talasban",
+            "ro": "Cafea și desert în Talas",
+            "en": "Coffee and Dessert in Talas"
+          },
+          "coords": [
+            35.576,
+            38.711
+          ],
+          "category": "gastro",
+          "arrive_at": "16:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "In Talas gibt es viele stimmungsvolle Cafés, perfekt für eine Pause am Nachmittag.",
+            "hu": "Talasban számos hangulatos kávézó található, amelyek tökéletesek egy délutáni szünethez.",
+            "ro": "Există multe cafenele atmosferice în Talas, perfecte pentru o pauză de după-amiază.",
+            "en": "There are many atmospheric cafes in Talas, perfect for an afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt zum Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to Center"
+          },
+          "coords": [
+            35.4881,
+            38.7219
+          ],
+          "category": "travel",
+          "arrive_at": "18:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum von Kayseri, um Souvenirs zu kaufen oder zu Abend zu essen.",
+            "hu": "Vezessen vissza Kayseri központjába ajándéktárgyakat vásárolni vagy vacsorázni.",
+            "ro": "Conduceți înapoi în centrul orașului Kayseri pentru cumpărături de suveniruri sau cină.",
+            "en": "Drive back to Kayseri center for souvenir shopping or dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag konzentriert sich auf zwei Cluster. Am Morgen parken Sie im historischen Herzen von Kayseri und erkunden zu Fuß den Hunat-Hatun-Komplex, das Medizingeschichtsmuseum und die beeindruckende Burg. Nach einem traditionellen Mittagessen im Zentrum fahren Sie am Nachmittag in den charmanten Vorort Talas. Dort schlendern Sie durch die alten Steinstraßen und genießen die ruhigere Atmosphäre in einem der vielen Cafés, bevor Sie für den Abend nach Kayseri zurückkehren.",
+        "hu": "Autós napja két klaszterre összpontosít. Délelőtt Kayseri történelmi szívében parkol, és gyalog fedezi fel a Hunat Hatun komplexumot, az Orvostörténeti Múzeumot és a lenyűgöző várat. Egy hagyományos belvárosi ebéd után délután a bájos Talas külvárosába hajt. Itt sétálhat a régi kőutcákon, és élvezheti a csendesebb légkört az egyik kávézóban, mielőtt este visszatérne Kayseribe.",
+        "ro": "Ziua dvs. cu mașina se concentrează pe două clustere. Dimineața, parcați în inima istorică a orașului Kayseri pentru a explora pe jos Complexul Hunat Hatun, Muzeul de Istorie a Medicinei și impunătorul castel. După un prânz tradițional în centru, după-amiaza conduceți spre fermecătoarea suburbie Talas. Acolo, vă plimbați pe vechile străzi de piatră și vă bucurați de atmosfera mai liniștită la una dintre multele cafenele înainte de a vă întoarce la Kayseri pentru seară.",
+        "en": "Your car day focuses on two clusters. In the morning, you'll park in the historic heart of Kayseri to explore the Hunat Hatun Complex, the Museum of Medical History, and the imposing castle on foot. After a traditional lunch in the center, you'll drive to the charming suburb of Talas in the afternoon. There, you'll stroll through the old stone streets and enjoy the quieter atmosphere at one of the many cafes before returning to Kayseri for the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Elmacıoğlu İskender",
+            "tip": "Ein bekanntes Restaurant im Zentrum, berühmt für Mantı und andere lokale Gerichte."
+          },
+          {
+            "name": "Talas Börekçisi",
+            "tip": "Probieren Sie in Talas verschiedene Arten von Börek für einen schnellen und leckeren Snack."
+          },
+          {
+            "name": "Pastırmacılar Çarşısı",
+            "tip": "Kein Restaurant, aber hier können Sie das beste Pastırma direkt von den Herstellern kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elmacıoğlu İskender",
+            "tip": "Jól ismert étterem a központban, híres a mantıról és más helyi ételekről."
+          },
+          {
+            "name": "Talas Börekçisi",
+            "tip": "Talasban kóstoljon meg különféle börekeket egy gyors és finom harapnivalóért."
+          },
+          {
+            "name": "Pastırmacılar Çarşısı",
+            "tip": "Nem étterem, de itt a legjobb pastırmát vásárolhatja meg közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Elmacıoğlu İskender",
+            "tip": "Un restaurant bine-cunoscut în centru, renumit pentru mantı și alte feluri de mâncare locale."
+          },
+          {
+            "name": "Talas Börekçisi",
+            "tip": "În Talas, încercați diferite tipuri de börek pentru o gustare rapidă și delicioasă."
+          },
+          {
+            "name": "Pastırmacılar Çarşısı",
+            "tip": "Nu este un restaurant, dar aici puteți cumpăra cea mai bună pastırma direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Elmacıoğlu İskender",
+            "tip": "A well-known restaurant in the center, famous for mantı and other local dishes."
+          },
+          {
+            "name": "Talas Börekçisi",
+            "tip": "In Talas, try various types of börek for a quick and delicious snack."
+          },
+          {
+            "name": "Pastırmacılar Çarşısı",
+            "tip": "Not a restaurant, but this is where you can buy the best pastırma directly from the makers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ali Dağı (Ali Berg)",
+            "tip": "Wenn Sie Zeit haben, fahren Sie auf diesen Berg für eine Panoramaaussicht auf die Stadt und den Erciyes.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein Café in Talas",
+            "tip": "Die Atmosphäre in Talas ist viel entspannter als im Zentrum von Kayseri.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ali Dağı (Ali-hegy)",
+            "tip": "Ha van ideje, vezessen fel erre a hegyre, ahonnan panorámás kilátás nyílik a városra és az Erciyes-re.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy kávézó Talasban",
+            "tip": "A talasi légkör sokkal nyugodtabb, mint Kayseri központjában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ali Dağı (Muntele Ali)",
+            "tip": "Dacă aveți timp, conduceți până la acest munte pentru o vedere panoramică a orașului și a Muntelui Erciyes.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O cafenea în Talas",
+            "tip": "Atmosfera din Talas este mult mai relaxată decât în centrul orașului Kayseri.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ali Dağı (Ali Mountain)",
+            "tip": "If you have time, drive up this mountain for a panoramic view of the city and Mount Erciyes.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A cafe in Talas",
+            "tip": "The atmosphere in Talas is much more relaxed than in central Kayseri.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kapalı Çarşı (Bedeckter Basar)",
+            "tip": "Leicht mit dem Auto zu erreichen. Kaufen Sie authentische Produkte."
+          },
+          {
+            "name": "Talas Kunsthandwerksläden",
+            "tip": "Finden Sie einzigartige handgemachte Artikel in den Boutiquen von Talas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kapalı Çarşı (Fedett Bazár)",
+            "tip": "Könnyen megközelíthető autóval. Vásároljon autentikus termékeket."
+          },
+          {
+            "name": "Talasi kézműves boltok",
+            "tip": "Találjon egyedi, kézzel készített tárgyakat Talas butikjaiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kapalı Çarşı (Bazarul Acoperit)",
+            "tip": "Ușor de ajuns cu mașina. Cumpărați produse autentice."
+          },
+          {
+            "name": "Magazine de artizanat din Talas",
+            "tip": "Găsiți articole unice, lucrate manual, în buticurile din Talas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kapalı Çarşı (Covered Bazaar)",
+            "tip": "Easily reachable by car. Shop for authentic products."
+          },
+          {
+            "name": "Talas handicraft shops",
+            "tip": "Find unique handmade items in the boutique shops of Talas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann eine Herausforderung sein. Nutzen Sie kostenpflichtige Parkplätze für mehr Sicherheit.",
+          "Der Verkehr kann zu Stoßzeiten stark sein. Planen Sie Ihre Fahrten zwischen den Clustern entsprechend.",
+          "Google Maps funktioniert gut für die Navigation.",
+          "Talas ist ein beliebtes Ausflugsziel, besonders am Wochenende."
+        ],
+        "hu": [
+          "A parkolás a városközpontban kihívást jelenthet. A nagyobb biztonság érdekében használjon fizetős parkolókat.",
+          "A forgalom csúcsidőben nagy lehet. Tervezze meg az utazásokat a klaszterek között ennek megfelelően.",
+          "A Google Maps jól működik a navigációhoz.",
+          "Talas népszerű kirándulóhely, különösen hétvégén."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi o provocare. Folosiți parcările cu plată pentru mai multă siguranță.",
+          "Traficul poate fi intens la orele de vârf. Planificați-vă călătoriile între clustere în consecință.",
+          "Google Maps funcționează bine pentru navigație.",
+          "Talas este o destinație populară, mai ales în weekend."
+        ],
+        "en": [
+          "Parking in the city center can be challenging. Use paid parking lots for more security.",
+          "Traffic can be heavy during peak hours. Plan your drives between clusters accordingly.",
+          "Google Maps works well for navigation.",
+          "Talas is a popular getaway, especially on weekends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Cumhuriyet-Platz",
+            "hu": "1. klaszter: Cumhuriyet tér",
+            "ro": "Cluster 1: Piața Cumhuriyet",
+            "en": "Cluster 1: Cumhuriyet Square"
+          },
+          "coords": [
+            35.4881,
+            38.7219
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder die Straßenbahn zum zentralen Platz. Dies ist Ihr Ausgangspunkt.",
+            "hu": "Menjen busszal vagy villamossal a központi térre. Ez a kiindulópontja.",
+            "ro": "Luați un autobuz sau tramvai până în piața centrală. Acesta este punctul dvs. de plecare.",
+            "en": "Take a bus or tram to the central square. This is your starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Kayseri",
+            "hu": "Kayseri vára",
+            "ro": "Cetatea Kayseri",
+            "en": "Kayseri Castle"
+          },
+          "coords": [
+            35.4895,
+            38.7205
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz. Klettern Sie auf die Mauern für einen tollen Überblick.",
+            "hu": "Rövid séta a tértől. Másszon fel a falakra a remek kilátásért.",
+            "ro": "O scurtă plimbare din piață. Urcați pe ziduri pentru o priveliște minunată.",
+            "en": "A short walk from the square. Climb the walls for a great overview."
+          }
+        },
+        {
+          "name": {
+            "de": "Hunat-Hatun-Komplex",
+            "hu": "Hunat Hatun komplexum",
+            "ro": "Complexul Hunat Hatun",
+            "en": "Hunat Hatun Complex"
+          },
+          "coords": [
+            35.4933,
+            38.7212
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang zu diesem wichtigen seldschukischen Wahrzeichen fort.",
+            "hu": "Folytassa sétáját ehhez a fontos szeldzsuk nevezetességhez.",
+            "ro": "Continuați plimbarea către acest important reper selgiucid.",
+            "en": "Continue your walk to this important Seljuk landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Komplexes",
+            "hu": "Ebéd a komplexum közelében",
+            "ro": "Prânz lângă complex",
+            "en": "Lunch near the complex"
+          },
+          "coords": [
+            35.494,
+            38.722
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt viele kleine Restaurants, die authentische Hausmannskost anbieten.",
+            "hu": "Számos kis étterem kínál autentikus, házias ételeket.",
+            "ro": "Există multe restaurante mici care oferă mâncare autentică, gătită în casă.",
+            "en": "There are many small restaurants offering authentic home-cooked meals."
+          }
+        },
+        {
+          "name": {
+            "de": "Kayseri Lisesi Museum",
+            "hu": "Kayseri Gimnázium Múzeum",
+            "ro": "Muzeul Liceului din Kayseri",
+            "en": "Kayseri High School Museum"
+          },
+          "coords": [
+            35.4866,
+            38.7185
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang zu diesem Museum rundet den historischen Teil Ihrer Tour ab.",
+            "hu": "Egy séta ehhez a múzeumhoz teszi teljessé a túra történelmi részét.",
+            "ro": "O plimbare la acest muzeu completează partea istorică a turului dumneavoastră.",
+            "en": "A walk to this museum completes the historical part of your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Talas Altstadt",
+            "hu": "2. klaszter: Talas óvárosa",
+            "ro": "Cluster 2: Orașul vechi Talas",
+            "en": "Cluster 2: Talas Old Town"
+          },
+          "coords": [
+            35.575,
+            38.71
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder Dolmuş nach Talas. Der Ortswechsel ist erfrischend.",
+            "hu": "Menjen busszal vagy dolmuş-sal Talasba. A tájváltás felüdítő.",
+            "ro": "Luați un autobuz sau un dolmuș spre Talas. Schimbarea de peisaj este revigorantă.",
+            "en": "Take a bus or dolmuş to Talas. The change of scenery is refreshing."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung in Talas",
+            "hu": "Pihenés Talasban",
+            "ro": "Relaxare în Talas",
+            "en": "Relaxing in Talas"
+          },
+          "coords": [
+            35.576,
+            38.711
+          ],
+          "category": "gastro",
+          "arrive_at": "17:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie ein Café, genießen Sie die Aussicht und entspannen Sie sich nach einem langen Tag.",
+            "hu": "Keressen egy kávézót, élvezze a kilátást, és pihenjen egy hosszú nap után.",
+            "ro": "Găsiți o cafenea, bucurați-vă de priveliște și relaxați-vă după o zi lungă.",
+            "en": "Find a cafe, enjoy the view, and relax after a long day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Zentrum am Cumhuriyet-Platz. Sie erkunden das historische Cluster zu Fuß: die Burg, den Hunat-Hatun-Komplex und das Kayseri-Lisesi-Museum. Nach einem gemütlichen Mittagessen nehmen Sie am Nachmittag einen Bus oder Dolmuş in den höher gelegenen Stadtteil Talas. Dort können Sie die ruhigen Gassen und die einzigartige Atmosphäre genießen, die einen starken Kontrast zum geschäftigen Stadtzentrum bildet, bevor Sie am Abend mit den öffentlichen Verkehrsmitteln zurückfahren.",
+        "hu": "Tömegközlekedéssel töltött napja a központban, a Cumhuriyet téren kezdődik. Gyalogosan fedezi fel a történelmi klasztert: a várat, a Hunat Hatun komplexumot és a Kayseri Gimnázium Múzeumot. Egy kényelmes ebéd után délután busszal vagy dolmuş-sal juthat el a magasabban fekvő Talas negyedbe. Ott élvezheti a csendes sikátorokat és az egyedi légkört, amely éles ellentétben áll a nyüzsgő városközponttal, mielőtt este visszatérne a tömegközlekedéssel.",
+        "ro": "Ziua dvs. cu transportul public începe în centru, în Piața Cumhuriyet. Explorați clusterul istoric pe jos: castelul, Complexul Hunat Hatun și Muzeul Liceului Kayseri. După un prânz pe îndelete, după-amiaza luați un autobuz sau un dolmuș spre cartierul mai înalt Talas. Acolo vă puteți bucura de aleile liniștite și de atmosfera unică, care contrastează puternic cu centrul aglomerat al orașului, înainte de a vă întoarce cu transportul public seara.",
+        "en": "Your day using public transport begins in the center at Cumhuriyet Square. You'll explore the historic cluster on foot: the castle, the Hunat Hatun Complex, and the Kayseri High School Museum. After a leisurely lunch, you'll take a bus or dolmuş in the afternoon to the higher-altitude district of Talas. There you can enjoy the quiet alleys and unique atmosphere, a strong contrast to the bustling city center, before heading back via public transport in the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kayseri Mantısı",
+            "tip": "Winzige, mit Fleisch gefüllte Teigtaschen, serviert mit Joghurt und gewürzter Butter. Ein Muss!"
+          },
+          {
+            "name": "Pastırma",
+            "tip": "Luftgetrocknetes, gewürztes Rindfleisch. Kayseri ist berühmt für das beste Pastırma der Türkei."
+          },
+          {
+            "name": "Simit-Wagen",
+            "tip": "Für einen schnellen Snack unterwegs, holen Sie sich einen frischen Simit (Sesamkringel)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kayseri Mantısı",
+            "tip": "Apró, hússal töltött tésztagombócok, joghurttal és fűszeres vajjal tálalva. Kötelező megkóstolni!"
+          },
+          {
+            "name": "Pastırma",
+            "tip": "Levegőn szárított, fűszeres marhahús. Kayseri a legjobb törökországi pastırmáról híres."
+          },
+          {
+            "name": "Simit árusok",
+            "tip": "Egy gyors harapnivalóért útközben vegyen egy friss simitet (szezámos perecet)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kayseri Mantısı",
+            "tip": "Găluște minuscule umplute cu carne, servite cu iaurt și unt condimentat. O încercare obligatorie!"
+          },
+          {
+            "name": "Pastırma",
+            "tip": "Carne de vită condimentată, uscată la aer. Kayseri este renumit pentru cea mai bună pastırma din Turcia."
+          },
+          {
+            "name": "Vânzătorii de Simit",
+            "tip": "Pentru o gustare rapidă din mers, luați un simit proaspăt (covrig cu susan)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kayseri Mantısı",
+            "tip": "Tiny dumplings filled with meat, served with yogurt and spiced butter. A must-try!"
+          },
+          {
+            "name": "Pastırma",
+            "tip": "Air-dried cured beef with spices. Kayseri is famous for having the best pastırma in Turkey."
+          },
+          {
+            "name": "Simit carts",
+            "tip": "For a quick snack on the go, grab a fresh simit (sesame bread ring)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank in Talas",
+            "tip": "Finden Sie eine Bank mit Blick auf die Stadt und genießen Sie die Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seitenstraßen der Altstadt",
+            "tip": "Verlieren Sie sich in den ruhigeren Gassen abseits der Haupttouristenrouten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad Talasban",
+            "tip": "Keressen egy padot, ahonnan kilátás nyílik a városra, és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az óváros mellékutcái",
+            "tip": "Vesszen el a csendesebb sikátorokban, távol a fő turistaútvonalaktól.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Talas",
+            "tip": "Găsiți o bancă cu vedere la oraș și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străduțele laterale ale orașului vechi",
+            "tip": "Pierdeți-vă pe aleile mai liniștite, departe de rutele turistice principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Talas",
+            "tip": "Find a bench overlooking the city and enjoy the quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Old Town side streets",
+            "tip": "Get lost in the quieter alleys away from the main tourist routes.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kapalı Çarşı (Bedeckter Basar)",
+            "tip": "Der Basar ist von den zentralen Bushaltestellen aus leicht zu erreichen."
+          },
+          {
+            "name": "Lokale Märkte in Talas",
+            "tip": "Halten Sie Ausschau nach kleinen Märkten mit lokalen Produkten und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kapalı Çarşı (Fedett Bazár)",
+            "tip": "A bazár könnyen megközelíthető a központi buszmegállókból."
+          },
+          {
+            "name": "Helyi piacok Talasban",
+            "tip": "Keresse a helyi termékeket és kézműves termékeket kínáló kis piacokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kapalı Çarşı (Bazarul Acoperit)",
+            "tip": "Bazarul este ușor accesibil de la stațiile centrale de autobuz."
+          },
+          {
+            "name": "Piețe locale din Talas",
+            "tip": "Căutați piețe mici cu produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kapalı Çarşı (Covered Bazaar)",
+            "tip": "The bazaar is easily accessible from the central bus stops."
+          },
+          {
+            "name": "Local markets in Talas",
+            "tip": "Look out for small markets with local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Kent Kart' für eine einfachere Nutzung der öffentlichen Verkehrsmittel.",
+          "Busse und Dolmuş-Routen können verwirrend sein; fragen Sie Einheimische oder nutzen Sie eine App.",
+          "Die Straßenbahn (Kayseray) ist modern und effizient für die Hauptrouten.",
+          "Planen Sie zusätzliche Zeit für Wartezeiten an Haltestellen ein."
+        ],
+        "hu": [
+          "Vásároljon egy 'Kent Kart'-ot a tömegközlekedés egyszerűbb használatához.",
+          "A busz- és dolmuş-útvonalak zavaróak lehetnek; kérdezze meg a helyieket, vagy használjon egy alkalmazást.",
+          "A villamos (Kayseray) modern és hatékony a főbb útvonalakon.",
+          "Tervezzen plusz időt a megállókban való várakozásra."
+        ],
+        "ro": [
+          "Cumpărați un 'Kent Kart' pentru o utilizare mai ușoară a transportului public.",
+          "Rutele de autobuz și dolmuș pot fi confuze; întrebați localnicii sau folosiți o aplicație.",
+          "Tramvaiul (Kayseray) este modern și eficient pentru rutele principale.",
+          "Planificați timp suplimentar pentru așteptarea în stații."
+        ],
+        "en": [
+          "Purchase a 'Kent Kart' for easier use of public transport.",
+          "Bus and dolmuş routes can be confusing; ask locals or use an app for help.",
+          "The tram (Kayseray) is modern and efficient for main routes.",
+          "Allow extra time for waiting at stops."
+        ]
+      }
+    }
+  }
+}

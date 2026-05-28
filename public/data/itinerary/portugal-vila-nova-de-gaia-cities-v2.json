@@ -1,0 +1,1524 @@
+{
+  "city_id": "portugal-vila-nova-de-gaia-cities-v2",
+  "anchor": {
+    "name": "Vila Nova de Gaia",
+    "coords": [
+      -8.6114,
+      41.1235
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:41",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Jardim do Morro",
+            "hu": "Jardim do Morro",
+            "ro": "Jardim do Morro",
+            "en": "Jardim do Morro"
+          },
+          "coords": [
+            -8.6103,
+            41.1378
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kommen Sie früh, um die beste Aussicht auf Porto ohne die Menschenmassen zu genießen.",
+            "hu": "Érkezz kora reggel, hogy tömeg nélkül élvezhesd a legjobb kilátást Portóra.",
+            "ro": "Veniți devreme pentru a prinde cea mai bună priveliște a Porto-ului fără aglomerație.",
+            "en": "Arrive early to catch the best views of Porto without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mosteiro da Serra do Pilar",
+            "hu": "Mosteiro da Serra do Pilar",
+            "ro": "Mănăstirea Serra do Pilar",
+            "en": "Mosteiro da Serra do Pilar"
+          },
+          "coords": [
+            -8.6089,
+            41.1373
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:14",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Aufstieg auf die Kuppel ist die Panoramaaussicht auf den Fluss und die Brücke wert.",
+            "hu": "A kupolába való felmászás megéri a panorámás kilátásért a folyóra és a hídra.",
+            "ro": "Urcarea în cupolă merită pentru vederea panoramică asupra râului și podului.",
+            "en": "The climb to the dome is worth it for the panoramic view of the river and bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte Dom Luís I (Oberdeck)",
+            "hu": "Dom Luís I híd (felső szint)",
+            "ro": "Podul Dom Luís I (puntea superioară)",
+            "en": "Ponte Dom Luís I (Upper Deck)"
+          },
+          "coords": [
+            -8.6096,
+            41.1401
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:37",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Metro, die sich die Brücke mit den Fußgängern teilt.",
+            "hu": "Vigyázz a metróra, amely a gyalogosokkal közösen használja a hidat.",
+            "ro": "Fiți atenți la metroul care împarte podul cu pietonii.",
+            "en": "Watch out for the metro train that shares the bridge with pedestrians."
+          }
+        },
+        {
+          "name": {
+            "de": "Teleférico de Gaia",
+            "hu": "Teleférico de Gaia",
+            "ro": "Teleférico de Gaia",
+            "en": "Teleférico de Gaia"
+          },
+          "coords": [
+            -8.6117,
+            41.1382
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:08",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine einfache Fahrt nach unten ist ausreichend; der Spaziergang nach oben ist steil.",
+            "hu": "Elég egy egyirányú jegy lefelé; a séta felfelé meredek.",
+            "ro": "Un bilet dus este suficient; plimbarea înapoi în sus este abruptă.",
+            "en": "A one-way ticket down is enough; the walk back up is steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Cais de Gaia & Portweinkeller",
+            "hu": "Cais de Gaia & Portói Pincék",
+            "ro": "Cais de Gaia & Cramele de Vin de Porto",
+            "en": "Cais de Gaia & Port Wine Cellars"
+          },
+          "coords": [
+            -8.6152,
+            41.1371
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:36",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Buchen Sie Ihre Kellertour im Voraus, besonders bei beliebten Marken wie Taylor's oder Sandeman.",
+            "hu": "Foglalj pincetúrát előre, különösen a népszerű márkáknál, mint a Taylor's vagy a Sandeman.",
+            "ro": "Rezervați-vă turul la cramă în avans, mai ales la brandurile populare precum Taylor's sau Sandeman.",
+            "en": "Book your cellar tour in advance, especially for popular brands like Taylor's or Sandeman."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Flussufer",
+            "hu": "Ebédszünet a folyóparton",
+            "ro": "Pauză de prânz pe malul râului",
+            "en": "Lunch break by the riverside"
+          },
+          "coords": [
+            -8.618,
+            41.137
+          ],
+          "category": "gastro",
+          "arrive_at": "15:46",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Probieren Sie eine „Francesinha“ mit Blick auf die Rabelo-Boote.",
+            "hu": "Kóstolj meg egy „Francesinhát” a rabelo hajókra nyíló kilátással.",
+            "ro": "Încercați o „Francesinha” cu vedere la bărcile rabelo.",
+            "en": "Try a 'Francesinha' with a view of the Rabelo boats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer atemberaubenden Aussicht vom Jardim do Morro, gefolgt von der ruhigen Pracht des Mosteiro da Serra do Pilar. Spüren Sie die Geschichte, wenn Sie die obere Ebene der Ponte Dom Luís I überqueren, einer Ikone des Industriezeitalters, die Porto und Gaia verbindet. Der Morgen ist eine Mischung aus Panoramablicken und architektonischen Wundern.\n\nAm Mittag nehmen Sie die Seilbahn Teleférico de Gaia hinunter zum belebten Cais de Gaia. Dies ist das Herz des Portweins. Wählen Sie eine der berühmten Weinkellereien für eine Führung und eine Verkostung. Schlendern Sie entlang der Promenade, beobachten Sie die traditionellen Rabelo-Boote und nehmen Sie die lebhafte Atmosphäre am Flussufer auf.\n\nNachdem Sie sich mit Portwein vertraut gemacht haben, gönnen Sie sich ein spätes Mittagessen in einem der vielen Restaurants am Cais. Genießen Sie lokale Spezialitäten wie frische Meeresfrüchte oder die herzhafte Francesinha, während Sie die malerische Kulisse der Ribeira von Porto auf der anderen Seite des Flusses bewundern. Dies ist die perfekte Zeit, um zu entspannen und die Aromen der Region zu genießen.\n\nBeenden Sie Ihren Tag mit einem gemütlichen Spaziergang entlang des Cais, vielleicht holen Sie sich ein handwerkliches Eis. Wenn die Sonne untergeht, wirft sie einen goldenen Glanz auf das Wasser und die farbenfrohen Gebäude. Finden Sie einen Platz am Flussufer, um die magische „goldene Stunde“ zu beobachten und über einen Tag voller ikonischer Sehenswürdigkeiten und unvergesslicher Geschmäcker nachzudenken.",
+        "hu": "Kezdje a napot a Jardim do Morro lélegzetelállító panorámájával, majd folytassa a Mosteiro da Serra do Pilar csendes fenségével. Érezze a történelmet, ahogy átsétál a Dom Luís I híd felső szintjén, az ipari kor ikonikus építményén, amely összeköti Portót és Gaiát. A délelőtt a panorámás kilátások és építészeti csodák keveréke.\n\nDélben szálljon le a Teleférico de Gaia drótkötélpályán a nyüzsgő Cais de Gaia rakpartra. Ez a portói bor szíve. Válasszon egyet a híres borpincék közül egy túrára és kóstolóra. Sétáljon a promenádon, nézze a hagyományos rabelo hajókat, és szívja magába a folyóparti élénk hangulatot.\n\nA portói borral való ismerkedés után engedjen meg magának egy késői ebédet a Cais egyik éttermében. Kóstoljon meg helyi specialitásokat, mint a friss tenger gyümölcsei vagy a kiadós Francesinha, miközben a folyó túlpartján Porto festői Ribeira negyedét csodálja. Ez a tökéletes idő a pihenésre és a régió ízeinek élvezetére.\n\nA napot zárja egy kellemes sétával a Cais mentén, esetleg egy kézműves fagylalttal. Ahogy a nap lenyugszik, arany fénybe borítja a vizet és a színes épületeket. Keressen egy helyet a folyóparton, hogy megnézze a varázslatos „arany órát”, és elgondolkozzon egy ikonikus látnivalókkal és felejthetetlen ízekkel teli napon.",
+        "ro": "Începeți ziua cu o priveliște uluitoare din Jardim do Morro, urmată de grandoarea senină a Mănăstirii Serra do Pilar. Simțiți istoria în timp ce traversați puntea superioară a Podului Dom Luís I, o icoană a epocii industriale care leagă Porto și Gaia. Dimineața este un amestec de vederi panoramice și minuni arhitecturale.\n\nLa amiază, coborâți cu telecabina Teleférico de Gaia spre vibrantul Cais de Gaia. Acesta este inima vinului de Porto. Alegeți una dintre faimoasele crame pentru un tur și o degustare. Plimbați-vă de-a lungul promenadei, urmăriți bărcile tradiționale rabelo și absorbiți atmosfera plină de viață de pe malul râului.\n\nDupă ce v-ați familiarizat cu vinul de Porto, bucurați-vă de un prânz târziu la unul dintre numeroasele restaurante de pe Cais. Savurați specialități locale, cum ar fi fructele de mare proaspete sau consistenta Francesinha, în timp ce admirați fundalul pitoresc al Ribeira din Porto, de cealaltă parte a râului. Acesta este momentul perfect pentru a vă relaxa și a savura aromele regiunii.\n\nÎncheiați ziua cu o plimbare relaxantă de-a lungul Cais-ului, poate luând o înghețată artizanală. Pe măsură ce soarele apune, aruncă o strălucire aurie peste apă și clădirile colorate. Găsiți un loc pe malul râului pentru a urmări magica „oră de aur” și a reflecta asupra unei zile pline de priveliști iconice și gusturi memorabile.",
+        "en": "Start your day with a breathtaking view from Jardim do Morro, followed by the serene grandeur of Mosteiro da Serra do Pilar. Feel the history as you walk across the upper deck of Ponte Dom Luís I, an industrial-age icon connecting Porto and Gaia. The morning is a blend of panoramic vistas and architectural wonders.\n\nAt midday, take the Teleférico de Gaia cable car down to the bustling Cais de Gaia. This is the heart of Port wine country. Choose one of the famous wine cellars for a tour and a tasting session. Stroll along the promenade, watch the traditional rabelo boats, and soak in the vibrant riverside atmosphere.\n\nAfter your introduction to Port wine, indulge in a late lunch at one of the many restaurants on the Cais. Sample local specialties like fresh seafood or the hearty Francesinha while admiring the picturesque backdrop of Porto's Ribeira across the river. This is the perfect time to relax and savor the region's flavors.\n\nEnd your day with a leisurely walk along the Cais, perhaps grabbing an artisanal ice cream. As the sun sets, it casts a golden glow over the water and the colorful buildings. Find a spot by the riverfront to watch the magical 'golden hour' and reflect on a day filled with iconic sights and unforgettable tastes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Francesinha",
+            "tip": "Ein herzhaftes Sandwich aus Porto, ertränkt in Käse und einer würzigen Tomaten-Bier-Sauce. Am besten mit Pommes frites serviert."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Gesalzener Kabeljau, der auf Hunderte von Arten zubereitet wird. Probieren Sie 'Bacalhau à Brás' oder 'Bacalhau com Natas'."
+          },
+          {
+            "name": "Gegrillte Sardinen",
+            "tip": "Besonders im Sommer eine Delikatesse. Frisch vom Grill, mit einer Prise Salz und auf einer Scheibe Brot serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Francesinha",
+            "tip": "Egy kiadós portói szendvics, sajttal és fűszeres paradicsomos-sörös szósszal leöntve. Sült krumplival a legjobb."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Sózott tőkehal, amelyet százféleképpen készítenek el. Próbálja ki a 'Bacalhau à Brás' vagy 'Bacalhau com Natas' változatot."
+          },
+          {
+            "name": "Grillezett szardínia",
+            "tip": "Különösen nyáron csemege. Frissen grillezve, egy csipet sóval, egy szelet kenyéren tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Francesinha",
+            "tip": "Un sandviș consistent din Porto, înecat în brânză și un sos picant de roșii și bere. Cel mai bun servit cu cartofi prăjiți."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Cod sărat, preparat în sute de moduri. Încercați 'Bacalhau à Brás' sau 'Bacalhau com Natas'."
+          },
+          {
+            "name": "Sardine la grătar",
+            "tip": "O delicatesă, mai ales vara. Proaspete de pe grătar, cu un praf de sare și servite pe o felie de pâine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Francesinha",
+            "tip": "A hearty Porto sandwich, drowned in cheese and a tangy tomato and beer sauce. Best served with french fries."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Salted codfish, prepared in hundreds of ways. Try 'Bacalhau à Brás' or 'Bacalhau com Natas'."
+          },
+          {
+            "name": "Grilled Sardines",
+            "tip": "A delicacy, especially in the summer. Fresh off the grill, with a sprinkle of salt and served on a slice of bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardim do Morro bei Sonnenuntergang",
+            "tip": "Der beste Ort in der Stadt, um den Sonnenuntergang über Porto zu beobachten. Bringen Sie eine Decke mit.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kloster Serra do Pilar",
+            "tip": "Die Aussichtsplattform des Klosters bietet einen ruhigen Ort zum Nachdenken, abseits der Menschenmassen unten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Versteckte Gärten der Portweinkeller",
+            "tip": "Einige Keller, wie der von Taylor, haben wunderschöne, ruhige Gärten, in denen man ein Glas Portwein genießen kann.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardim do Morro naplementekor",
+            "tip": "A legjobb hely a városban, ahonnan megcsodálhatod a naplementét Porto felett. Hozz magaddal egy takarót.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Serra do Pilar kolostor",
+            "tip": "A kolostor kilátóterasza csendes helyet kínál az elmélkedéshez, távol az alant nyüzsgő tömegtől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A portói pincék rejtett kertjei",
+            "tip": "Néhány pince, mint például a Taylor's, gyönyörű, békés kertekkel rendelkezik, ahol élvezhetsz egy pohár portóit.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardim do Morro la apus",
+            "tip": "Cel mai bun loc din oraș pentru a privi apusul peste Porto. Aduceți o pătură.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mănăstirea Serra do Pilar",
+            "tip": "Platforma de vizionare a mănăstirii oferă un loc liniștit pentru reflecție, departe de mulțimile de jos.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile ascunse ale cramelor de Porto",
+            "tip": "Unele crame, precum cea a lui Taylor, au grădini frumoase și liniștite unde vă puteți bucura de un pahar de vin de Porto.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardim do Morro at Sunset",
+            "tip": "The best spot in the city to watch the sun go down over Porto. Bring a blanket.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Serra do Pilar Monastery",
+            "tip": "The monastery's viewing platform offers a quiet spot for reflection, away from the crowds below.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hidden Gardens of Port Cellars",
+            "tip": "Some cellars, like Taylor's, have beautiful, peaceful gardens to enjoy a glass of Port in.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Portwein",
+            "tip": "Kaufen Sie Flaschen direkt von den Kellern. Viele bieten seltene oder exklusive Jahrgänge an."
+          },
+          {
+            "name": "Conservas (Fischkonserven)",
+            "tip": "Suchen Sie nach Geschäften, die auf wunderschön verpackte Fischkonserven spezialisiert sind. Ein einzigartiges und leckeres Souvenir."
+          },
+          {
+            "name": "Korkprodukte",
+            "tip": "Von Taschen bis zu Postkarten, portugiesischer Kork ist ein nachhaltiges und leichtes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Portói bor",
+            "tip": "Vásárolj palackokat közvetlenül a pincészetektől. Sokan kínálnak ritka vagy exkluzív évjáratokat."
+          },
+          {
+            "name": "Conservas (konzervált hal)",
+            "tip": "Keress olyan boltokat, amelyek gyönyörűen csomagolt halkonzervekre specializálódtak. Egyedi és finom szuvenír."
+          },
+          {
+            "name": "Parafa termékek",
+            "tip": "Táskáktól a képeslapokig a portugál parafa fenntartható és könnyű ajándéktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Porto",
+            "tip": "Cumpărați sticle direct de la crame. Multe oferă ediții rare sau exclusive."
+          },
+          {
+            "name": "Conservas (conserve de pește)",
+            "tip": "Căutați magazine specializate în conserve de pește frumos ambalate. Un suvenir unic și gustos."
+          },
+          {
+            "name": "Produse din plută",
+            "tip": "De la genți la cărți poștale, pluta portugheză este un suvenir sustenabil și ușor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Port Wine",
+            "tip": "Buy bottles directly from the cellars. Many offer rare or exclusive vintages you can't find elsewhere."
+          },
+          {
+            "name": "Conservas (Tinned Fish)",
+            "tip": "Look for shops specializing in beautifully packaged tinned fish. A unique and tasty souvenir."
+          },
+          {
+            "name": "Cork Products",
+            "tip": "From bags to postcards, Portuguese cork is a sustainable and lightweight souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe. Gaia ist hügelig und die Straßen sind oft mit Kopfsteinpflaster gepflastert.",
+          "Buchen Sie Weinkellertouren im Voraus, besonders in der Hochsaison, um Enttäuschungen zu vermeiden.",
+          "Haben Sie keine Angst, die obere Ebene der Ponte Dom Luís I zu Fuß zu überqueren; die Aussicht ist es wert.",
+          "Viele Restaurants am Cais de Gaia bieten Touristenmenüs an, aber für authentischere Erlebnisse wagen Sie sich in die Seitenstraßen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt. Gaia dombos, az utcák pedig gyakran macskakövesek.",
+          "Foglalj előre a borpince-túrákra, különösen a főszezonban, hogy elkerüld a csalódást.",
+          "Ne félj átsétálni a Dom Luís I híd felső szintjén; a kilátás megéri.",
+          "Sok étterem a Cais de Gaia-n kínál turista menüt, de az autentikusabb élményekért merészkedj a mellékutcákba."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă. Gaia este deluroasă, iar străzile sunt adesea pavate cu piatră cubică.",
+          "Rezervați tururile la crame în avans, mai ales în sezonul de vârf, pentru a evita dezamăgirile.",
+          "Nu vă fie teamă să traversați pe jos puntea superioară a podului Dom Luís I; priveliștea merită.",
+          "Multe restaurante de pe Cais de Gaia oferă meniuri turistice, dar aventurați-vă pe străzile laterale pentru experiențe mai autentice."
+        ],
+        "en": [
+          "Wear comfortable shoes. Gaia is hilly, and the streets are often cobblestoned.",
+          "Book wine cellar tours in advance, especially during peak season, to avoid disappointment.",
+          "Don't be afraid to walk across the upper deck of the Ponte Dom Luís I; the views are worth it.",
+          "Many restaurants on Cais de Gaia offer tourist menus, but venture into the side streets for more authentic experiences."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 19.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Capela do Senhor da Pedra",
+            "hu": "Capela do Senhor da Pedra",
+            "ro": "Capela do Senhor da Pedra",
+            "en": "Capela do Senhor da Pedra"
+          },
+          "coords": [
+            -8.6775,
+            41.0772
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Gezeiten. Die Kapelle ist bei Flut am dramatischsten, aber bei Ebbe zugänglich.",
+            "hu": "Ellenőrizd az árapályt. A kápolna dagálykor a legdrámaibb, de apálykor megközelíthető.",
+            "ro": "Verificați mareele. Capela este cea mai dramatică la flux, dar accesibilă la reflux.",
+            "en": "Check the tides. The chapel is most dramatic at high tide, but accessible at low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Küste",
+            "hu": "Tekerés a part mentén",
+            "ro": "Plimbare pe coastă",
+            "en": "Ride along the Coastline"
+          },
+          "coords": [
+            -8.651,
+            41.115
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:40",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.3,
+          "tip_5lang": {
+            "de": "Es gibt einen speziellen Radweg, der einen Großteil der Strecke abdeckt. Genießen Sie die Meeresbrise!",
+            "hu": "Az útvonal nagy részét külön kerékpárút fedi le. Élvezd a tengeri szellőt!",
+            "ro": "Există o pistă de biciclete dedicată pe o mare parte a traseului. Bucurați-vă de briza mării!",
+            "en": "There is a dedicated cycle path covering much of the route. Enjoy the sea breeze!"
+          }
+        },
+        {
+          "name": {
+            "de": "Cais de Gaia",
+            "hu": "Cais de Gaia",
+            "ro": "Cais de Gaia",
+            "en": "Cais de Gaia"
+          },
+          "coords": [
+            -8.6152,
+            41.1371
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie die Weinkeller und Geschäfte zu Fuß.",
+            "hu": "Zárd le biztonságosan a biciklidet, és fedezd fel gyalog a borpincéket és üzleteket.",
+            "ro": "Legați-vă bicicleta în siguranță și explorați cramele și magazinele pe jos.",
+            "en": "Lock your bike securely and explore the wine cellars and shops on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Portweinprobe",
+            "hu": "Ebéd és portói kóstoló",
+            "ro": "Prânz și degustare de vin de Porto",
+            "en": "Lunch and Port Tasting"
+          },
+          "coords": [
+            -8.614,
+            41.1375
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Viele Keller bieten Speisenpaarungen an. Eine leichte Verkostung ist ratsam, wenn Sie weiter radeln.",
+            "hu": "Sok pince kínál ételpárosítást. Könnyű kóstolás ajánlott, ha tovább biciklizel.",
+            "ro": "Multe crame oferă asocieri culinare. O degustare ușoară este indicată dacă mai aveți de pedalat.",
+            "en": "Many cellars offer food pairings. A light tasting is advisable if you're cycling further."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardim do Morro",
+            "hu": "Jardim do Morro",
+            "ro": "Jardim do Morro",
+            "en": "Jardim do Morro"
+          },
+          "coords": [
+            -8.6103,
+            41.1378
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Anstieg ist eine Herausforderung, aber die Aussicht von oben ist die Belohnung.",
+            "hu": "A hegymászás kihívást jelent, de a fenti kilátás a jutalom.",
+            "ro": "Urcușul este o provocare, dar priveliștea de sus este recompensa.",
+            "en": "The climb is challenging, but the view from the top is the reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Überquerung der Ponte Dom Luís I",
+            "hu": "Átkelés a Dom Luís I hídon",
+            "ro": "Traversarea podului Dom Luís I",
+            "en": "Crossing the Ponte Dom Luís I"
+          },
+          "coords": [
+            -8.6096,
+            41.1401
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:35",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Radfahrer sollten auf dem Oberdeck vorsichtig sein und sich den Weg mit Fußgängern und der Metro teilen.",
+            "hu": "A kerékpárosoknak óvatosnak kell lenniük a felső szinten, osztozva az úton a gyalogosokkal és a metróval.",
+            "ro": "Bicicliștii ar trebui să fie precauți pe puntea superioară, împărțind calea cu pietonii și metroul.",
+            "en": "Cyclists should be cautious on the upper deck, sharing the path with pedestrians and the metro."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt an der dramatischen Capela do Senhor da Pedra, die auf Felsen am Meer thront. Atmen Sie die salzige Luft ein, bevor Sie sich auf eine belebende Fahrt Richtung Norden entlang der Küste begeben. Der spezielle Radweg macht die Fahrt sanft und bietet ständige Ausblicke auf den Atlantik.\n\nWenn Sie sich dem Fluss Douro nähern, führt Sie der Weg landeinwärts zum berühmten Cais de Gaia. Hier tauschen Sie das Meeresrauschen gegen die geschäftige Energie des Flusses. Schließen Sie Ihr Fahrrad ab und nehmen Sie sich Zeit, das Herz der Portweinindustrie zu erkunden. Ein Mittagessen mit Weinprobe ist ein Muss, aber denken Sie daran, dass Sie noch eine Fahrt vor sich haben!\n\nNach dem Mittagessen steht die Herausforderung des Tages an: der Aufstieg zum Jardim do Morro. Es ist ein steiler Anstieg, aber die Belohnung ist eine der besten Aussichten in der ganzen Gegend. Verschnaufen Sie, machen Sie Fotos und genießen Sie das Panorama von Porto und der Ponte Dom Luís I.\n\nBeenden Sie Ihre Tour mit einer unvergesslichen Fahrt über die obere Ebene der Ponte Dom Luís I nach Porto. Das Gefühl, zwischen den beiden Städten zu schweben, mit dem Fluss weit unten, ist ein perfekter Abschluss für einen Tag voller Erkundungen. Von dort aus können Sie entweder Porto weiter erkunden oder zurück nach Gaia fahren, erfüllt von den Sehenswürdigkeiten und der Anstrengung.",
+        "hu": "Kerékpáros kalandod a drámai Capela do Senhor da Pedra-nál kezdődik, amely a tengerparti sziklákon áll. Lélegezd be a sós levegőt, mielőtt egy élénkítő, észak felé tartó útra indulsz a part mentén. A kijelölt kerékpárút simává teszi az utat, és folyamatos kilátást nyújt az Atlanti-óceánra.\n\nAhogy közeledsz a Douro folyóhoz, az ösvény a szárazföld belseje felé, a híres Cais de Gaia-hoz vezet. Itt a tenger hangját a folyó nyüzsgő energiája váltja fel. Zárd le a biciklidet, és szánj időt a portói boripar szívének felfedezésére. Egy ebéddel egybekötött borkóstoló kötelező, de ne feledd, még van hátra egy út!\n\nA délutáni ebéd után jön a nap kihívása: a feljutás a Jardim do Morro-ba. Meredek emelkedő, de a jutalom az egyik legjobb kilátás az egész környéken. Fújd ki magad, készíts képeket, és élvezd a Porto és a Dom Luís I híd panorámáját.\n\nZárd a túrát egy felejthetetlen utazással a Dom Luís I híd felső szintjén át Portóba. Az érzés, ahogy a két város között lebegsz, a folyóval mélyen alattad, tökéletes befejezése egy felfedezéssel teli napnak. Onnan vagy tovább fedezheted fel Portót, vagy visszatérhetsz Gaiába, tele a látnivalókkal és az erőfeszítéssel.",
+        "ro": "Aventura ta pe bicicletă începe la dramatica Capela do Senhor da Pedra, cocoțată pe stâncile de la malul mării. Inspiră aerul sărat înainte de a porni într-o plimbare înviorătoare spre nord, de-a lungul coastei. Pista dedicată pentru biciclete face călătoria lină, cu priveliști constante ale Atlanticului.\n\nPe măsură ce te apropii de râul Douro, poteca te duce spre interior, spre faimosul Cais de Gaia. Aici, schimbi sunetul mării cu energia vibrantă a râului. Încuie-ți bicicleta și ia-ți timp să explorezi inima industriei vinului de Porto. Un prânz cu degustare de vinuri este obligatoriu, dar amintește-ți că mai ai de pedalat!\n\nDupă prânz, urmează provocarea zilei: urcarea la Jardim do Morro. Este o urcare abruptă, dar recompensa este una dintre cele mai bune priveliști din întreaga zonă. Trage-ți sufletul, fă fotografii și bucură-te de panorama Porto-ului și a podului Dom Luís I.\n\nÎncheie-ți turul cu o plimbare memorabilă peste puntea superioară a podului Dom Luís I spre Porto. Senzația de a pluti între cele două orașe, cu râul mult dedesubt, este un final perfect pentru o zi de explorare. De acolo, poți explora mai departe Porto sau te poți întoarce în Gaia, împlinit de priveliști și efort.",
+        "en": "Your cycling adventure starts at the dramatic Capela do Senhor da Pedra, perched on rocks by the sea. Breathe in the salt air before embarking on an invigorating ride north along the coastline. The dedicated cycle path makes for a smooth journey with constant Atlantic views.\n\nAs you approach the Douro river, the path leads you inland to the famous Cais de Gaia. Here, you trade the sound of the sea for the bustling energy of the river. Lock up your bike and take time to explore the heart of the Port wine industry. A lunch with a wine tasting is a must, but remember you still have cycling to do!\n\nPost-lunch, it's time for the day's challenge: the climb up to Jardim do Morro. It's a steep ascent, but the reward is one of the best views in the whole area. Catch your breath, take photos, and enjoy the panorama of Porto and the Ponte Dom Luís I.\n\nFinish your tour with a memorable ride across the upper deck of the Ponte Dom Luís I into Porto. The feeling of soaring between the two cities with the river far below is a perfect end to a day of exploration. From there, you can either explore Porto further or head back to Gaia, fulfilled by the sights and the effort."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Francesinha",
+            "tip": "Ein herzhaftes Sandwich aus Porto, ertränkt in Käse und einer würzigen Tomaten-Bier-Sauce. Am besten mit Pommes frites serviert."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Gesalzener Kabeljau, der auf Hunderte von Arten zubereitet wird. Probieren Sie 'Bacalhau à Brás' oder 'Bacalhau com Natas'."
+          },
+          {
+            "name": "Gegrillte Sardinen",
+            "tip": "Besonders im Sommer eine Delikatesse. Frisch vom Grill, mit einer Prise Salz und auf einer Scheibe Brot serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Francesinha",
+            "tip": "Egy kiadós portói szendvics, sajttal és fűszeres paradicsomos-sörös szósszal leöntve. Sült krumplival a legjobb."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Sózott tőkehal, amelyet százféleképpen készítenek el. Próbálja ki a 'Bacalhau à Brás' vagy 'Bacalhau com Natas' változatot."
+          },
+          {
+            "name": "Grillezett szardínia",
+            "tip": "Különösen nyáron csemege. Frissen grillezve, egy csipet sóval, egy szelet kenyéren tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Francesinha",
+            "tip": "Un sandviș consistent din Porto, înecat în brânză și un sos picant de roșii și bere. Cel mai bun servit cu cartofi prăjiți."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Cod sărat, preparat în sute de moduri. Încercați 'Bacalhau à Brás' sau 'Bacalhau com Natas'."
+          },
+          {
+            "name": "Sardine la grătar",
+            "tip": "O delicatesă, mai ales vara. Proaspete de pe grătar, cu un praf de sare și servite pe o felie de pâine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Francesinha",
+            "tip": "A hearty Porto sandwich, drowned in cheese and a tangy tomato and beer sauce. Best served with french fries."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Salted codfish, prepared in hundreds of ways. Try 'Bacalhau à Brás' or 'Bacalhau com Natas'."
+          },
+          {
+            "name": "Grilled Sardines",
+            "tip": "A delicacy, especially in the summer. Fresh off the grill, with a sprinkle of salt and served on a slice of bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Miramar",
+            "tip": "Der Strand neben der Capela do Senhor da Pedra ist oft weniger überfüllt als die Stadtstrände.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Naturreservat der Douro-Mündung",
+            "tip": "Ein ruhiger Ort zur Vogelbeobachtung, kurz bevor Sie das Stadtgebiet von Gaia erreichen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Palácio de Cristal (in Porto)",
+            "tip": "Nachdem Sie die Brücke überquert haben, radeln Sie zu diesen Gärten für einen friedlichen Abschluss des Tages.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Miramar part",
+            "tip": "A Capela do Senhor da Pedra melletti strand gyakran kevésbé zsúfolt, mint a városi strandok.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Douro torkolatának természetvédelmi területe",
+            "tip": "Egy csendes madármegfigyelő hely, mielőtt elérnéd Gaia városi területét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Palácio de Cristal kertjei (Portóban)",
+            "tip": "Miután átkeltél a hídon, tekerj el ezekbe a kertekbe, hogy békésen zárd a napot.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Miramar",
+            "tip": "Plaja de lângă Capela do Senhor da Pedra este adesea mai puțin aglomerată decât plajele orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rezervația Naturală a Estuarului Douro",
+            "tip": "Un loc liniștit pentru observarea păsărilor, chiar înainte de a ajunge în zona urbană Gaia.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Palatului de Cristal (în Porto)",
+            "tip": "După ce traversați podul, pedalați spre aceste grădini pentru un final de zi liniștit.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Miramar Beach",
+            "tip": "The beach beside Capela do Senhor da Pedra is often less crowded than the city beaches.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Douro Estuary Nature Reserve",
+            "tip": "A quiet spot for birdwatching just before you hit the urban Gaia area.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Crystal Palace Gardens (in Porto)",
+            "tip": "After crossing the bridge, cycle to these gardens for a peaceful end to the day.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Portwein",
+            "tip": "Kaufen Sie Flaschen direkt von den Kellern. Viele bieten seltene oder exklusive Jahrgänge an."
+          },
+          {
+            "name": "Conservas (Fischkonserven)",
+            "tip": "Suchen Sie nach Geschäften, die auf wunderschön verpackte Fischkonserven spezialisiert sind. Ein einzigartiges und leckeres Souvenir."
+          },
+          {
+            "name": "Korkprodukte",
+            "tip": "Von Taschen bis zu Postkarten, portugiesischer Kork ist ein nachhaltiges und leichtes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Portói bor",
+            "tip": "Vásárolj palackokat közvetlenül a pincészetektől. Sokan kínálnak ritka vagy exkluzív évjáratokat."
+          },
+          {
+            "name": "Conservas (konzervált hal)",
+            "tip": "Keress olyan boltokat, amelyek gyönyörűen csomagolt halkonzervekre specializálódtak. Egyedi és finom szuvenír."
+          },
+          {
+            "name": "Parafa termékek",
+            "tip": "Táskáktól a képeslapokig a portugál parafa fenntartható és könnyű ajándéktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Porto",
+            "tip": "Cumpărați sticle direct de la crame. Multe oferă ediții rare sau exclusive."
+          },
+          {
+            "name": "Conservas (conserve de pește)",
+            "tip": "Căutați magazine specializate în conserve de pește frumos ambalate. Un suvenir unic și gustos."
+          },
+          {
+            "name": "Produse din plută",
+            "tip": "De la genți la cărți poștale, pluta portugheză este un suvenir sustenabil și ușor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Port Wine",
+            "tip": "Buy bottles directly from the cellars. Many offer rare or exclusive vintages you can't find elsewhere."
+          },
+          {
+            "name": "Conservas (Tinned Fish)",
+            "tip": "Look for shops specializing in beautifully packaged tinned fish. A unique and tasty souvenir."
+          },
+          {
+            "name": "Cork Products",
+            "tip": "From bags to postcards, Portuguese cork is a sustainable and lightweight souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen und Reifen.",
+          "Nehmen Sie viel Wasser und Sonnencreme mit, besonders für die Küstenfahrt.",
+          "Seien Sie auf Hügel vorbereitet, besonders beim Übergang von der Küste zum Fluss und hinauf zum Jardim do Morro.",
+          "Ein leichtes Schloss ist unerlässlich, um Ihr Fahrrad während der Stopps zu sichern."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a biciklidet, különösen a fékeket és a gumikat.",
+          "Vigyél magaddal sok vizet és naptejet, különösen a parti útra.",
+          "Készülj fel a dombokra, főleg a partról a folyóra való áttérésnél és a Jardim do Morro-ra való feljutásnál.",
+          "Egy könnyű lakat elengedhetetlen a bicikli biztonságban tartásához a megállók alatt."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Luați multă apă și cremă de soare, mai ales pentru plimbarea pe coastă.",
+          "Fiți pregătiți pentru dealuri, în special la trecerea de la coastă la râu și la urcarea spre Jardim do Morro.",
+          "Un lacăt ușor este esențial pentru a vă asigura bicicleta în timpul opririlor."
+        ],
+        "en": [
+          "Check your bike before you set off, especially the brakes and tires.",
+          "Bring plenty of water and sunscreen, especially for the coastal ride.",
+          "Be prepared for hills, particularly when transitioning from the coast to the river and climbing to Jardim do Morro.",
+          "A lightweight lock is essential for securing your bike during stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:59",
+      "total_km": 30,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zoo Santo Inácio",
+            "hu": "Zoo Santo Inácio",
+            "ro": "Grădina Zoologică Santo Inácio",
+            "en": "Zoo Santo Inácio"
+          },
+          "coords": [
+            -8.543,
+            41.096
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "09:30",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10,
+          "tip_5lang": {
+            "de": "Planen Sie den Besuch um die Fütterungszeiten, um die Tiere am aktivsten zu sehen.",
+            "hu": "Tervezze a látogatást az etetési idők köré, hogy a legaktívabb állapotukban láthassa az állatokat.",
+            "ro": "Planificați-vă vizita în jurul orelor de hrănire pentru a vedea animalele cele mai active.",
+            "en": "Plan your visit around the feeding times to see the animals at their most active."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela do Senhor da Pedra",
+            "hu": "Capela do Senhor da Pedra",
+            "ro": "Capela do Senhor da Pedra",
+            "en": "Capela do Senhor da Pedra"
+          },
+          "coords": [
+            -8.6775,
+            41.0772
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Strandes und genießen Sie einen kurzen Spaziergang zur Kapelle. Ideal für einen Mittagsstopp.",
+            "hu": "Parkolj a strand közelében, és tegyél egy rövid sétát a kápolnához. Ideális egy ebédmegállóhoz.",
+            "ro": "Parcați lângă plajă și bucurați-vă de o scurtă plimbare până la capelă. Ideal pentru o oprire de prânz.",
+            "en": "Park near the beach and enjoy a short walk to the chapel. Great for a midday stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Miramar",
+            "hu": "Ebéd Miramarban",
+            "ro": "Prânz în Miramar",
+            "en": "Lunch in Miramar"
+          },
+          "coords": [
+            -8.675,
+            41.078
+          ],
+          "category": "gastro",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Meerblick für frische Meeresfrüchte.",
+            "hu": "Válassz egy tengerre néző éttermet friss tenger gyümölcseiért.",
+            "ro": "Alegeți un restaurant cu vedere la mare pentru fructe de mare proaspete.",
+            "en": "Choose a restaurant with a sea view for some fresh seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Cais de Gaia - Parken",
+            "hu": "Cais de Gaia - Parkolás",
+            "ro": "Cais de Gaia - Parcare",
+            "en": "Cais de Gaia - Parking"
+          },
+          "coords": [
+            -8.613,
+            41.137
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:52",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Parken Sie in einer der Tiefgaragen und erkunden Sie den Rest des Tages zu Fuß.",
+            "hu": "Parkolj az egyik mélygarázsban, és a nap hátralévő részében gyalog fedezd fel a környéket.",
+            "ro": "Parcați într-unul dintre parcajele subterane și explorați pe jos pentru restul zilei.",
+            "en": "Park in one of the underground garages and explore on foot for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Portweinkeller-Tour",
+            "hu": "Portói Pince Túra",
+            "ro": "Tur la Crama de Vin de Porto",
+            "en": "Port Wine Cellar Tour"
+          },
+          "coords": [
+            -8.6152,
+            41.1371
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:05",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wählen Sie eine Tour, die eine Verkostung verschiedener Weinsorten beinhaltet: Ruby, Tawny und White.",
+            "hu": "Válassz olyan túrát, amely különböző bortípusok kóstolását is magában foglalja: Ruby, Tawny és White.",
+            "ro": "Alegeți un tur care include o degustare a diferitelor stiluri: Ruby, Tawny și White.",
+            "en": "Choose a tour that includes a tasting of different styles: Ruby, Tawny, and White."
+          }
+        },
+        {
+          "name": {
+            "de": "Teleférico de Gaia & Jardim do Morro",
+            "hu": "Teleférico de Gaia & Jardim do Morro",
+            "ro": "Teleférico de Gaia & Jardim do Morro",
+            "en": "Teleférico de Gaia & Jardim do Morro"
+          },
+          "coords": [
+            -8.6117,
+            41.1382
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Seilbahn nach oben, um Energie für den Sonnenuntergang im Garten zu sparen.",
+            "hu": "Menj fel a drótkötélpályával, hogy energiát spórolj a kerti naplementéhez.",
+            "ro": "Luați telecabina în sus pentru a economisi energie pentru apusul din grădină.",
+            "en": "Take the cable car up to save your energy for watching the sunset in the garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Mosteiro da Serra do Pilar",
+            "hu": "Mosteiro da Serra do Pilar",
+            "ro": "Mănăstirea Serra do Pilar",
+            "en": "Mosteiro da Serra do Pilar"
+          },
+          "coords": [
+            -8.6089,
+            41.1373
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:44",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Außenansicht und die Aussichtsplattform sind auch dann beeindruckend, wenn Sie nicht hineingehen.",
+            "hu": "A külső és a kilátóterasz akkor is lenyűgöző, ha nem mész be.",
+            "ro": "Exteriorul și platforma de vizionare sunt impresionante chiar dacă nu intrați înăuntru.",
+            "en": "The exterior and viewing platform are impressive even if you don't go inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einem familienfreundlichen Ausflug zum Zoo Santo Inácio, einem grünen Heiligtum etwas außerhalb des Stadtzentrums. Verbringen Sie den Morgen damit, Tiere aus der ganzen Welt zu entdecken. Dies ist eine entspannte Art, den Tag zu beginnen, weit weg von der Hektik der Stadt.\n\nFahren Sie von der Tierwelt zur Küste zur ikonischen Capela do Senhor da Pedra. Parken Sie Ihr Auto und spazieren Sie zu dieser einzigartigen Kapelle, die auf den Felsen am Meer thront. Genießen Sie ein Mittagessen mit frischen Meeresfrüchten in einem der Restaurants in Miramar, bevor Sie zum pulsierenden Herzen von Gaia aufbrechen.\n\nAm Nachmittag parken Sie Ihr Auto in einem der Parkhäuser am Cais de Gaia und erkunden den Rest des Tages zu Fuß. Tauchen Sie in die Welt des Portweins ein bei einer Kellertour mit Verkostung. Spüren Sie die Geschichte in den kühlen, alten Kellern. Nehmen Sie anschließend die Seilbahn hinauf zum Jardim do Morro.\n\nWenn der Abend naht, ist der Jardim do Morro der perfekte Ort. Die Aussicht bei Sonnenuntergang ist legendär. Runden Sie den Tag mit einem kurzen Spaziergang zum Mosteiro da Serra do Pilar ab, dessen runde Kirche und Kloster im goldenen Licht wunderschön aussehen. Sie haben das Beste aus beiden Welten erlebt: die abgelegenen Perlen und das geschäftige Zentrum von Gaia.",
+        "hu": "Autós napod egy családbarát kirándulással kezdődik a Zoo Santo Inácio-ban, egy zöldellő menedékhelyen, kissé a városközponton kívül. Töltsd a délelőttöt a világ minden tájáról származó állatok felfedezésével. Ez egy nyugodt módja a nap kezdésének, távol a városi nyüzsgéstől.\n\nAz állatvilágból vezess a partra, az ikonikus Capela do Senhor da Pedra-hoz. Parkold le az autódat, és sétálj el ehhez az egyedülálló kápolnához, amely a tengerparti sziklákon áll. Fogyassz el egy friss tengeri herkentyűkből álló ebédet Miramar egyik éttermében, mielőtt Gaia vibráló szívébe indulsz.\n\nDélután parkolj le a Cais de Gaia egyik parkolóházában, és a nap hátralévő részét gyalog fedezd fel. Merülj el a portói bor világában egy pincetúrával és kóstolóval. Érezd a történelmet a hűvös, öreg pincékben. Ezután menj fel a drótkötélpályával a Jardim do Morro-ba.\n\nAhogy közeledik az este, a Jardim do Morro a tökéletes helyszín. A naplementés kilátás legendás. Zárd a napot egy rövid sétával a Mosteiro da Serra do Pilar-hoz, amelynek kerek temploma és kolostora gyönyörűen fest az arany fényben. Mindkét világból a legjobbat tapasztaltad meg: Gaia távoli gyöngyszemeit és nyüzsgő központját.",
+        "ro": "Ziua ta cu mașina începe cu o excursie prietenoasă cu familia la Grădina Zoologică Santo Inácio, un sanctuar verde chiar în afara centrului orașului. Petreceți dimineața descoperind animale din întreaga lume. Este un mod relaxant de a începe ziua, departe de agitația orașului.\n\nDe la faună sălbatică, conduceți spre coastă până la iconica Capela do Senhor da Pedra. Parcați mașina și faceți o plimbare până la această capelă unică, cocoțată pe stâncile de la malul mării. Bucurați-vă de un prânz cu fructe de mare proaspete la unul dintre restaurantele din Miramar înainte de a vă îndrepta spre inima vibrantă a Gaia.\n\nDupă-amiaza, parcați mașina într-unul dintre garajele de pe Cais de Gaia și explorați pe jos pentru restul zilei. Scufundați-vă în lumea vinului de Porto cu un tur al cramei și o degustare. Simțiți istoria în pivnițele răcoroase și vechi. Apoi, luați telecabina până la Jardim do Morro.\n\nPe măsură ce se apropie seara, Jardim do Morro este locul perfect. Priveliștea la apus este legendară. Încheiați ziua cu o scurtă plimbare până la Mănăstirea Serra do Pilar, a cărei biserică rotundă și mănăstire arată frumos în lumina aurie. Ați experimentat ce e mai bun din ambele lumi: bijuteriile îndepărtate și centrul plin de viață al Gaia.",
+        "en": "Your car day begins with a family-friendly trip to Zoo Santo Inácio, a green sanctuary just outside the city center. Spend the morning discovering animals from around the globe. This is a relaxed way to start the day, away from the city bustle.\n\nFrom the wildlife, drive to the coast to the iconic Capela do Senhor da Pedra. Park your car and stroll to this unique chapel perched on the rocks by the sea. Enjoy a fresh seafood lunch at one of Miramar's restaurants before heading to the vibrant heart of Gaia.\n\nIn the afternoon, park your car in one of the garages at Cais de Gaia and explore on foot for the rest of the day. Immerse yourself in the world of Port wine with a cellar tour and tasting. Feel the history in the cool, ancient cellars. Afterwards, take the cable car up to Jardim do Morro.\n\nAs evening approaches, Jardim do Morro is the perfect spot. The sunset views are legendary. Cap off the day with a short walk to Mosteiro da Serra do Pilar, its round church and cloister looking beautiful in the golden light. You've experienced the best of both worlds: Gaia's outlying gems and its bustling center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Francesinha",
+            "tip": "Ein herzhaftes Sandwich aus Porto, ertränkt in Käse und einer würzigen Tomaten-Bier-Sauce. Am besten mit Pommes frites serviert."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Gesalzener Kabeljau, der auf Hunderte von Arten zubereitet wird. Probieren Sie 'Bacalhau à Brás' oder 'Bacalhau com Natas'."
+          },
+          {
+            "name": "Gegrillte Sardinen",
+            "tip": "Besonders im Sommer eine Delikatesse. Frisch vom Grill, mit einer Prise Salz und auf einer Scheibe Brot serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Francesinha",
+            "tip": "Egy kiadós portói szendvics, sajttal és fűszeres paradicsomos-sörös szósszal leöntve. Sült krumplival a legjobb."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Sózott tőkehal, amelyet százféleképpen készítenek el. Próbálja ki a 'Bacalhau à Brás' vagy 'Bacalhau com Natas' változatot."
+          },
+          {
+            "name": "Grillezett szardínia",
+            "tip": "Különösen nyáron csemege. Frissen grillezve, egy csipet sóval, egy szelet kenyéren tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Francesinha",
+            "tip": "Un sandviș consistent din Porto, înecat în brânză și un sos picant de roșii și bere. Cel mai bun servit cu cartofi prăjiți."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Cod sărat, preparat în sute de moduri. Încercați 'Bacalhau à Brás' sau 'Bacalhau com Natas'."
+          },
+          {
+            "name": "Sardine la grătar",
+            "tip": "O delicatesă, mai ales vara. Proaspete de pe grătar, cu un praf de sare și servite pe o felie de pâine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Francesinha",
+            "tip": "A hearty Porto sandwich, drowned in cheese and a tangy tomato and beer sauce. Best served with french fries."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Salted codfish, prepared in hundreds of ways. Try 'Bacalhau à Brás' or 'Bacalhau com Natas'."
+          },
+          {
+            "name": "Grilled Sardines",
+            "tip": "A delicacy, especially in the summer. Fresh off the grill, with a sprinkle of salt and served on a slice of bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardim do Morro bei Sonnenuntergang",
+            "tip": "Der beste Ort in der Stadt, um den Sonnenuntergang über Porto zu beobachten. Bringen Sie eine Decke mit.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kloster Serra do Pilar",
+            "tip": "Die Aussichtsplattform des Klosters bietet einen ruhigen Ort zum Nachdenken, abseits der Menschenmassen unten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Versteckte Gärten der Portweinkeller",
+            "tip": "Einige Keller, wie der von Taylor, haben wunderschöne, ruhige Gärten, in denen man ein Glas Portwein genießen kann.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardim do Morro naplementekor",
+            "tip": "A legjobb hely a városban, ahonnan megcsodálhatod a naplementét Porto felett. Hozz magaddal egy takarót.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Serra do Pilar kolostor",
+            "tip": "A kolostor kilátóterasza csendes helyet kínál az elmélkedéshez, távol az alant nyüzsgő tömegtől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A portói pincék rejtett kertjei",
+            "tip": "Néhány pince, mint például a Taylor's, gyönyörű, békés kertekkel rendelkezik, ahol élvezhetsz egy pohár portóit.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardim do Morro la apus",
+            "tip": "Cel mai bun loc din oraș pentru a privi apusul peste Porto. Aduceți o pătură.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mănăstirea Serra do Pilar",
+            "tip": "Platforma de vizionare a mănăstirii oferă un loc liniștit pentru reflecție, departe de mulțimile de jos.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile ascunse ale cramelor de Porto",
+            "tip": "Unele crame, precum cea a lui Taylor, au grădini frumoase și liniștite unde vă puteți bucura de un pahar de vin de Porto.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardim do Morro at Sunset",
+            "tip": "The best spot in the city to watch the sun go down over Porto. Bring a blanket.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Serra do Pilar Monastery",
+            "tip": "The monastery's viewing platform offers a quiet spot for reflection, away from the crowds below.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hidden Gardens of Port Cellars",
+            "tip": "Some cellars, like Taylor's, have beautiful, peaceful gardens to enjoy a glass of Port in.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Portwein",
+            "tip": "Kaufen Sie Flaschen direkt von den Kellern. Viele bieten seltene oder exklusive Jahrgänge an."
+          },
+          {
+            "name": "Conservas (Fischkonserven)",
+            "tip": "Suchen Sie nach Geschäften, die auf wunderschön verpackte Fischkonserven spezialisiert sind. Ein einzigartiges und leckeres Souvenir."
+          },
+          {
+            "name": "Korkprodukte",
+            "tip": "Von Taschen bis zu Postkarten, portugiesischer Kork ist ein nachhaltiges und leichtes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Portói bor",
+            "tip": "Vásárolj palackokat közvetlenül a pincészetektől. Sokan kínálnak ritka vagy exkluzív évjáratokat."
+          },
+          {
+            "name": "Conservas (konzervált hal)",
+            "tip": "Keress olyan boltokat, amelyek gyönyörűen csomagolt halkonzervekre specializálódtak. Egyedi és finom szuvenír."
+          },
+          {
+            "name": "Parafa termékek",
+            "tip": "Táskáktól a képeslapokig a portugál parafa fenntartható és könnyű ajándéktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Porto",
+            "tip": "Cumpărați sticle direct de la crame. Multe oferă ediții rare sau exclusive."
+          },
+          {
+            "name": "Conservas (conserve de pește)",
+            "tip": "Căutați magazine specializate în conserve de pește frumos ambalate. Un suvenir unic și gustos."
+          },
+          {
+            "name": "Produse din plută",
+            "tip": "De la genți la cărți poștale, pluta portugheză este un suvenir sustenabil și ușor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Port Wine",
+            "tip": "Buy bottles directly from the cellars. Many offer rare or exclusive vintages you can't find elsewhere."
+          },
+          {
+            "name": "Conservas (Tinned Fish)",
+            "tip": "Look for shops specializing in beautifully packaged tinned fish. A unique and tasty souvenir."
+          },
+          {
+            "name": "Cork Products",
+            "tip": "From bags to postcards, Portuguese cork is a sustainable and lightweight souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Auto gibt Ihnen die Freiheit, abgelegene Orte wie den Zoo und die Kapelle zu besuchen.",
+          "Das Parken im Zentrum von Gaia kann teuer sein. Nutzen Sie die Strategie 'Parken und zu Fuß gehen'.",
+          "Der Verkehr auf der Ponte da Arrábida kann zu Stoßzeiten stark sein; planen Sie Ihre Fahrten entsprechend.",
+          "Achten Sie auf die Einbahnstraßen und engen Gassen in den älteren Teilen der Stadt."
+        ],
+        "hu": [
+          "Az autó szabadságot ad, hogy olyan távoli helyeket is meglátogass, mint az állatkert és a kápolna.",
+          "A parkolás Gaia központjában drága lehet. Használd a 'parkolj le és sétálj' stratégiát.",
+          "Az Arrábida hídon csúcsidőben nagy lehet a forgalom; ennek megfelelően tervezd az utazásaidat.",
+          "Figyelj az egyirányú utcákra és a szűk sikátorokra a város régebbi részein."
+        ],
+        "ro": [
+          "O mașină vă oferă libertatea de a vizita locuri mai îndepărtate, cum ar fi grădina zoologică și capela.",
+          "Parcarea în centrul Gaia poate fi scumpă. Utilizați strategia 'parchează și mergi pe jos'.",
+          "Traficul pe podul Arrábida poate fi aglomerat la orele de vârf; planificați-vă călătoriile în consecință.",
+          "Fiți atenți la străzile cu sens unic și la aleile înguste din părțile mai vechi ale orașului."
+        ],
+        "en": [
+          "A car gives you the freedom to visit more distant spots like the zoo and the chapel.",
+          "Parking in central Gaia can be expensive. Use the 'park and walk' strategy.",
+          "Traffic on the Arrábida bridge can be heavy during rush hour; plan your drives accordingly.",
+          "Be mindful of one-way streets and narrow alleys in the older parts of town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:27",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Jardim do Morro (Metro D)",
+            "hu": "Jardim do Morro (D metró)",
+            "ro": "Jardim do Morro (Metrou D)",
+            "en": "Jardim do Morro (Metro D)"
+          },
+          "coords": [
+            -8.6103,
+            41.1378
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Metro der Linie D bringt Sie direkt hierher. Kaufen Sie eine wiederaufladbare Andante-Karte.",
+            "hu": "A D metróvonal közvetlenül ide visz. Vásárolj egy újratölthető Andante kártyát.",
+            "ro": "Linia D de metrou vă aduce direct aici. Cumpărați un card reîncărcabil Andante.",
+            "en": "The D (Yellow) metro line drops you right here. Buy a rechargeable Andante card."
+          }
+        },
+        {
+          "name": {
+            "de": "Mosteiro da Serra do Pilar",
+            "hu": "Mosteiro da Serra do Pilar",
+            "ro": "Mănăstirea Serra do Pilar",
+            "en": "Mosteiro da Serra do Pilar"
+          },
+          "coords": [
+            -8.6089,
+            41.1373
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:02",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Jardim do Morro, bietet es eine noch höhere Aussicht.",
+            "hu": "Rövid séta a Jardim do Morro-tól, még magasabb kilátást kínál.",
+            "ro": "O scurtă plimbare de la Jardim do Morro, oferă o priveliște și mai înaltă.",
+            "en": "A short walk from Jardim do Morro, it offers an even higher vantage point."
+          }
+        },
+        {
+          "name": {
+            "de": "Cais de Gaia (per Seilbahn)",
+            "hu": "Cais de Gaia (drótkötélpályával)",
+            "ro": "Cais de Gaia (cu telecabina)",
+            "en": "Cais de Gaia (via Cable Car)"
+          },
+          "coords": [
+            -8.6152,
+            41.1371
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:12",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Seilbahnfahrt ist Teil des Erlebnisses und bietet eine fantastische Aussicht, während Sie absteigen.",
+            "hu": "A drótkötélpályás utazás az élmény része, fantasztikus kilátást nyújtva ereszkedés közben.",
+            "ro": "Călătoria cu telecabina face parte din experiență, oferind vederi fantastice pe măsură ce coborâți.",
+            "en": "The cable car ride is part of the experience, offering fantastic views as you descend."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Weinprobe",
+            "hu": "Ebéd és borkóstoló",
+            "ro": "Prânz și degustare de vin",
+            "en": "Lunch and Wine Tasting"
+          },
+          "coords": [
+            -8.614,
+            41.1375
+          ],
+          "category": "gastro",
+          "arrive_at": "13:42",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Viele Keller befinden sich in diesem Cluster. Wählen Sie einen und genießen Sie ein gemütliches Mittagessen in der Nähe.",
+            "hu": "Ebben a klaszterben számos pince található. Válassz egyet, és ebédelj a közelben.",
+            "ro": "Multe crame sunt în acest cluster. Alegeți una și bucurați-vă de un prânz relaxant în apropiere.",
+            "en": "Many cellars are within this cluster. Pick one and enjoy a leisurely lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Miramar",
+            "hu": "Utazás Miramarba",
+            "ro": "Călătorie spre Miramar",
+            "en": "Trip to Miramar"
+          },
+          "coords": [
+            -8.677,
+            41.077
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:47",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Zug vom Bahnhof Devesas oder General Torres nach Miramar. Es ist eine kurze und landschaftlich reizvolle Fahrt.",
+            "hu": "Menj vonattal a Devesas vagy General Torres állomásról Miramarba. Rövid és festői út.",
+            "ro": "Luați trenul de la gara Devesas sau General Torres spre Miramar. Este o călătorie scurtă și pitorească.",
+            "en": "Take the train from Devesas or General Torres station to Miramar. It's a short and scenic ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela do Senhor da Pedra",
+            "hu": "Capela do Senhor da Pedra",
+            "ro": "Capela do Senhor da Pedra",
+            "en": "Capela do Senhor da Pedra"
+          },
+          "coords": [
+            -8.6775,
+            41.0772
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:05",
+          "stay_min": 110,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verbringen Sie den Rest des Nachmittags damit, die Kapelle und den umliegenden Strand zu erkunden.",
+            "hu": "Töltsd a délután hátralévő részét a kápolna és a környező strand felfedezésével.",
+            "ro": "Petreceți restul după-amiezii explorând capela și plaja înconjurătoare.",
+            "en": "Spend the rest of the afternoon exploring the chapel and the surrounding beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt mühelos. Nehmen Sie die gelbe Metro-Linie (D) bis zur Haltestelle Jardim do Morro. Sie steigen aus und haben sofort eine der besten Aussichten der Stadt vor sich. Spazieren Sie zum nahegelegenen Mosteiro da Serra do Pilar und genießen Sie die ruhige Atmosphäre, bevor Sie mit der Seilbahn zum Flussufer hinunterfahren.\n\nDer späte Vormittag und der frühe Nachmittag sind dem Cais de Gaia gewidmet, dem pulsierenden Herzen der Portweinwelt. Alles ist zu Fuß erreichbar. Nehmen Sie an einer Kellertour teil, probieren Sie die berühmten Weine und genießen Sie ein gemütliches Mittagessen am Fluss. Dieser Cluster ist der Inbegriff von Gaia, und Sie können ihn ohne sich um den Verkehr zu sorgen, in sich aufnehmen.\n\nNachdem Sie das städtische Zentrum aufgesogen haben, ist es Zeit für einen Ausflug ans Meer. Gehen Sie zu Fuß oder nehmen Sie einen kurzen Bus zum Bahnhof General Torres oder Devesas und steigen Sie in einen Zug nach Süden nach Miramar. Die kurze Zugfahrt ist eine willkommene Abwechslung und bietet einen Einblick in die Küstenlandschaft.\n\nBeenden Sie Ihren Tag an der dramatischen Capela do Senhor da Pedra. Die auf den Felsen gebaute Kapelle, umgeben vom Atlantik, ist ein unvergesslicher Anblick, besonders am späten Nachmittag. Genießen Sie die Meeresbrise und die Ruhe dieses Ortes, bevor Sie den Zug zurück in die Stadt nehmen. Dieser Plan verbindet mühelos das Beste aus Gaias städtischem Charme und seiner Küstenschönheit.",
+        "hu": "Tömegközlekedéssel töltött napod könnyedén kezdődik. Szállj fel a sárga metróvonalra (D) a Jardim do Morro megállóig. Ahogy kilépsz, azonnal a város egyik legjobb kilátása tárul eléd. Sétálj el a közeli Mosteiro da Serra do Pilar-hoz, hogy élvezd a nyugodt légkört, mielőtt leereszkednél a folyópartra a drótkötélpályával.\n\nA késő délelőtt és a kora délután a Cais de Gaia-é, a portói borvilág vibráló szívéé. Minden sétatávolságra van. Vegyél részt egy pincetúrán, kóstold meg a híres borokat, és ebédelj egy kellemeset a folyóparton. Ez a klaszter Gaia esszenciája, és a forgalom miatti aggódás nélkül szívhatod magadba.\n\nMiután magadba szívtad a városi központot, itt az ideje egy tengerparti kiruccanásnak. Sétálj el vagy szállj fel egy rövid buszra a General Torres vagy a Devesas állomásig, és szállj fel egy délre tartó vonatra Miramarba. A rövid vonatút üdítő változást hoz, és bepillantást enged a tengerparti tájba.\n\nA napot a drámai Capela do Senhor da Pedra-nál zárd. A sziklákra épült kápolna, amelyet az Atlanti-óceán vesz körül, felejthetetlen látvány, különösen késő délután. Élvezd a tengeri szellőt és a hely nyugalmát, mielőtt visszavonatozol a városba. Ez a terv könnyedén ötvözi Gaia városi bájának és tengerparti szépségének legjavát.",
+        "ro": "Ziua ta cu transportul public începe fără efort. Luați linia galbenă de metrou (D) până la stația Jardim do Morro. Coborâți direct la una dintre cele mai bune priveliști din oraș. Plimbați-vă până la Mănăstirea Serra do Pilar din apropiere pentru atmosfera sa senină înainte de a coborî spre malul râului cu telecabina.\n\nDimineața târziu și după-amiaza devreme sunt dedicate Cais de Gaia, inima vibrantă a lumii vinului de Porto. Totul este la distanță de mers pe jos. Faceți un tur al unei crame, degustați vinurile renumite și bucurați-vă de un prânz relaxant pe malul râului. Acest cluster este chintesența Gaia și vă puteți bucura de el fără grija traficului.\n\nDupă ce v-ați bucurat de centrul urban, este timpul pentru o escapadă la mare. Mergeți pe jos sau luați un autobuz rapid până la gara General Torres sau Devesas și urcați-vă într-un tren spre sud, spre Miramar. Călătoria scurtă cu trenul este o pauză binevenită, oferind o privire asupra peisajului de coastă.\n\nÎncheiați ziua la dramatica Capela do Senhor da Pedra. Construită pe stânci și înconjurată de Atlantic, capela este o priveliște de neuitat, mai ales în lumina târzie a după-amiezii. Bucurați-vă de briza mării și de liniștea locului înainte de a lua trenul înapoi spre oraș. Acest itinerar combină fără efort farmecul urban și frumusețea de coastă a Gaia.",
+        "en": "Your transit day starts effortlessly. Take the D (Yellow) metro line to Jardim do Morro station. You'll step out to one of the best views in the city. Stroll to the nearby Mosteiro da Serra do Pilar for its serene atmosphere before descending to the riverfront via the cable car.\n\nThe late morning and early afternoon are dedicated to Cais de Gaia, the vibrant heart of the Port wine world. Everything is within walking distance. Take a cellar tour, sample the famous wines, and enjoy a leisurely lunch by the river. This cluster is quintessential Gaia, and you can soak it in without worrying about traffic.\n\nAfter absorbing the urban core, it's time for a seaside escape. Walk or take a short bus to General Torres or Devesas station and hop on a southbound train to Miramar. The short train ride is a welcome change of pace, offering glimpses of the coastal landscape.\n\nEnd your day at the dramatic Capela do Senhor da Pedra. Built on the rocks and surrounded by the Atlantic, the chapel is an unforgettable sight, especially in the late afternoon light. Enjoy the sea breeze and the tranquility of the spot before catching the train back to the city. This plan effortlessly combines the best of Gaia's urban charm and its coastal beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Francesinha",
+            "tip": "Ein herzhaftes Sandwich aus Porto, ertränkt in Käse und einer würzigen Tomaten-Bier-Sauce. Am besten mit Pommes frites serviert."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Gesalzener Kabeljau, der auf Hunderte von Arten zubereitet wird. Probieren Sie 'Bacalhau à Brás' oder 'Bacalhau com Natas'."
+          },
+          {
+            "name": "Gegrillte Sardinen",
+            "tip": "Besonders im Sommer eine Delikatesse. Frisch vom Grill, mit einer Prise Salz und auf einer Scheibe Brot serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Francesinha",
+            "tip": "Egy kiadós portói szendvics, sajttal és fűszeres paradicsomos-sörös szósszal leöntve. Sült krumplival a legjobb."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Sózott tőkehal, amelyet százféleképpen készítenek el. Próbálja ki a 'Bacalhau à Brás' vagy 'Bacalhau com Natas' változatot."
+          },
+          {
+            "name": "Grillezett szardínia",
+            "tip": "Különösen nyáron csemege. Frissen grillezve, egy csipet sóval, egy szelet kenyéren tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Francesinha",
+            "tip": "Un sandviș consistent din Porto, înecat în brânză și un sos picant de roșii și bere. Cel mai bun servit cu cartofi prăjiți."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Cod sărat, preparat în sute de moduri. Încercați 'Bacalhau à Brás' sau 'Bacalhau com Natas'."
+          },
+          {
+            "name": "Sardine la grătar",
+            "tip": "O delicatesă, mai ales vara. Proaspete de pe grătar, cu un praf de sare și servite pe o felie de pâine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Francesinha",
+            "tip": "A hearty Porto sandwich, drowned in cheese and a tangy tomato and beer sauce. Best served with french fries."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Salted codfish, prepared in hundreds of ways. Try 'Bacalhau à Brás' or 'Bacalhau com Natas'."
+          },
+          {
+            "name": "Grilled Sardines",
+            "tip": "A delicacy, especially in the summer. Fresh off the grill, with a sprinkle of salt and served on a slice of bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardim do Morro bei Sonnenuntergang",
+            "tip": "Der beste Ort in der Stadt, um den Sonnenuntergang über Porto zu beobachten. Bringen Sie eine Decke mit.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kloster Serra do Pilar",
+            "tip": "Die Aussichtsplattform des Klosters bietet einen ruhigen Ort zum Nachdenken, abseits der Menschenmassen unten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Versteckte Gärten der Portweinkeller",
+            "tip": "Einige Keller, wie der von Taylor, haben wunderschöne, ruhige Gärten, in denen man ein Glas Portwein genießen kann.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardim do Morro naplementekor",
+            "tip": "A legjobb hely a városban, ahonnan megcsodálhatod a naplementét Porto felett. Hozz magaddal egy takarót.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Serra do Pilar kolostor",
+            "tip": "A kolostor kilátóterasza csendes helyet kínál az elmélkedéshez, távol az alant nyüzsgő tömegtől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A portói pincék rejtett kertjei",
+            "tip": "Néhány pince, mint például a Taylor's, gyönyörű, békés kertekkel rendelkezik, ahol élvezhetsz egy pohár portóit.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardim do Morro la apus",
+            "tip": "Cel mai bun loc din oraș pentru a privi apusul peste Porto. Aduceți o pătură.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mănăstirea Serra do Pilar",
+            "tip": "Platforma de vizionare a mănăstirii oferă un loc liniștit pentru reflecție, departe de mulțimile de jos.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile ascunse ale cramelor de Porto",
+            "tip": "Unele crame, precum cea a lui Taylor, au grădini frumoase și liniștite unde vă puteți bucura de un pahar de vin de Porto.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardim do Morro at Sunset",
+            "tip": "The best spot in the city to watch the sun go down over Porto. Bring a blanket.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Serra do Pilar Monastery",
+            "tip": "The monastery's viewing platform offers a quiet spot for reflection, away from the crowds below.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hidden Gardens of Port Cellars",
+            "tip": "Some cellars, like Taylor's, have beautiful, peaceful gardens to enjoy a glass of Port in.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Portwein",
+            "tip": "Kaufen Sie Flaschen direkt von den Kellern. Viele bieten seltene oder exklusive Jahrgänge an."
+          },
+          {
+            "name": "Conservas (Fischkonserven)",
+            "tip": "Suchen Sie nach Geschäften, die auf wunderschön verpackte Fischkonserven spezialisiert sind. Ein einzigartiges und leckeres Souvenir."
+          },
+          {
+            "name": "Korkprodukte",
+            "tip": "Von Taschen bis zu Postkarten, portugiesischer Kork ist ein nachhaltiges und leichtes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Portói bor",
+            "tip": "Vásárolj palackokat közvetlenül a pincészetektől. Sokan kínálnak ritka vagy exkluzív évjáratokat."
+          },
+          {
+            "name": "Conservas (konzervált hal)",
+            "tip": "Keress olyan boltokat, amelyek gyönyörűen csomagolt halkonzervekre specializálódtak. Egyedi és finom szuvenír."
+          },
+          {
+            "name": "Parafa termékek",
+            "tip": "Táskáktól a képeslapokig a portugál parafa fenntartható és könnyű ajándéktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Porto",
+            "tip": "Cumpărați sticle direct de la crame. Multe oferă ediții rare sau exclusive."
+          },
+          {
+            "name": "Conservas (conserve de pește)",
+            "tip": "Căutați magazine specializate în conserve de pește frumos ambalate. Un suvenir unic și gustos."
+          },
+          {
+            "name": "Produse din plută",
+            "tip": "De la genți la cărți poștale, pluta portugheză este un suvenir sustenabil și ușor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Port Wine",
+            "tip": "Buy bottles directly from the cellars. Many offer rare or exclusive vintages you can't find elsewhere."
+          },
+          {
+            "name": "Conservas (Tinned Fish)",
+            "tip": "Look for shops specializing in beautifully packaged tinned fish. A unique and tasty souvenir."
+          },
+          {
+            "name": "Cork Products",
+            "tip": "From bags to postcards, Portuguese cork is a sustainable and lightweight souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Andante Tour Card für unbegrenzte Fahrten in einem bestimmten Zeitraum.",
+          "Validieren Sie Ihr Ticket jedes Mal, wenn Sie in ein neues Fahrzeug (Metro, Bus, Zug) einsteigen.",
+          "Die Metro ist der schnellste Weg, um die Ponte Dom Luís I zu überqueren, aber Busse und Züge sind besser, um die Küste zu erreichen.",
+          "Die Fahrpläne können sonntags und an Feiertagen anders sein, also überprüfen Sie sie im Voraus."
+        ],
+        "hu": [
+          "Vásárolj Andante Tour kártyát a korlátlan utazáshoz egy adott időszakra.",
+          "Érvényesítsd a jegyed minden alkalommal, amikor új járműre (metró, busz, vonat) szállsz.",
+          "A metró a leggyorsabb módja a Dom Luís I hídon való átkelésnek, de a buszok és vonatok jobbak a tengerpart eléréséhez.",
+          "A menetrendek vasárnap és ünnepnapokon eltérőek lehetnek, ezért ellenőrizd őket előre."
+        ],
+        "ro": [
+          "Cumpărați un card Andante Tour pentru călătorii nelimitate pe o anumită perioadă de timp.",
+          "Validați-vă biletul de fiecare dată când intrați într-un vehicul nou (metrou, autobuz, tren).",
+          "Metroul este cel mai rapid mod de a traversa podul Dom Luís I, dar autobuzele și trenurile sunt mai bune pentru a ajunge la coastă.",
+          "Orarele pot fi diferite duminica și de sărbătorile legale, așa că verificați în avans."
+        ],
+        "en": [
+          "Buy an Andante Tour Card for unlimited travel over a specific period.",
+          "Validate your ticket every time you enter a new vehicle (metro, bus, train).",
+          "The metro is the fastest way to cross the Ponte Dom Luís I, but buses and trains are better for reaching the coast.",
+          "Schedules can be different on Sundays and public holidays, so check in advance."
+        ]
+      }
+    }
+  }
+}

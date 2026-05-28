@@ -1,0 +1,1435 @@
+{
+  "city_id": "uk-chelmsford-cities-v2",
+  "anchor": {
+    "name": "Chelmsford",
+    "coords": [
+      0.4691,
+      51.7356
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Shire Hall",
+            "hu": "Shire Hall (Törvényszéki palota)",
+            "ro": "Shire Hall",
+            "en": "Shire Hall"
+          },
+          "coords": [
+            0.4705,
+            51.7361
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die georgianische Fassade, das Herzstück der High Street.",
+            "hu": "Csodálja meg a georgiánus homlokzatot, a High Street szívét.",
+            "ro": "Admirați fațada georgiană, piesa centrală a High Street.",
+            "en": "Admire the Georgian facade, the centerpiece of the High Street."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Chelmsford",
+            "hu": "Chelmsfordi katedrális",
+            "ro": "Catedrala din Chelmsford",
+            "en": "Chelmsford Cathedral"
+          },
+          "coords": [
+            0.473,
+            51.7364
+          ],
+          "category": "churches",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die modernen Buntglasfenster.",
+            "hu": "Figyelje a modern ólomüveg ablakokat.",
+            "ro": "Căutați vitraliile moderne.",
+            "en": "Look out for the modern stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Bond Street",
+            "hu": "Bond Street",
+            "ro": "Bond Street",
+            "en": "Bond Street"
+          },
+          "coords": [
+            0.475,
+            51.734
+          ],
+          "category": "squares",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für einen Kaffee in einem der vielen Cafés.",
+            "hu": "Remek hely egy kávéra a számos kávézó egyikében.",
+            "ro": "Un loc minunat pentru o cafea la una dintre numeroasele cafenele.",
+            "en": "A great spot for a coffee at one of the many cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Central Park",
+            "hu": "Central Park",
+            "ro": "Central Park",
+            "en": "Central Park"
+          },
+          "coords": [
+            0.465,
+            51.7305
+          ],
+          "category": "parks",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang entlang des Flusses Can. Ideal für ein Mittagspicknick.",
+            "hu": "Sétáljon egyet a Can folyó mentén. Ebédidőben piknikezésre is tökéletes.",
+            "ro": "Faceți o plimbare de-a lungul râului Can. Excelent pentru un picnic la prânz.",
+            "en": "Take a stroll along the River Can. Great for a lunch picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Chelmsford Museum",
+            "hu": "Chelmsford Múzeum",
+            "ro": "Muzeul Chelmsford",
+            "en": "Chelmsford Museum"
+          },
+          "coords": [
+            0.4635,
+            51.729
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Ausstellungen zur lokalen Geschichte und zur Marconi Company.",
+            "hu": "Ne hagyja ki a helytörténeti és a Marconi Társaságról szóló kiállításokat.",
+            "ro": "Nu ratați expozițiile despre istoria locală și Compania Marconi.",
+            "en": "Don't miss the exhibits on local history and the Marconi Company."
+          }
+        },
+        {
+          "name": {
+            "de": "Admiral's Park",
+            "hu": "Admiral's Park",
+            "ro": "Parcul Amiralului",
+            "en": "Admiral's Park"
+          },
+          "coords": [
+            0.455,
+            51.731
+          ],
+          "category": "parks",
+          "arrive_at": "14:51",
+          "stay_min": 54,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Verbindet sich mit dem Central Park und bietet mehr offene Flächen und Gärten.",
+            "hu": "A Central Parkhoz kapcsolódik, több nyílt teret és kertet kínál.",
+            "ro": "Se conectează la Central Park, oferind mai mult spațiu deschis și grădini.",
+            "en": "Connects to Central Park, offering more open space and gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Chelmsford an der Shire Hall und der Kathedrale. Am Vormittag erkunden Sie das moderne Einkaufsviertel Bond Street. Verbringen Sie den Nachmittag in der Natur und schlendern Sie durch den Central und Admiral's Park. Beenden Sie Ihre Tour mit einer Dosis Kultur im Chelmsford Museum, das die reiche Geschichte der Stadt, einschließlich ihrer Verbindung zu Marconi, dem Vater des Radios, beleuchtet.",
+        "hu": "Kezdje a napot Chelmsford történelmi szívében, a Shire Hallnál és a katedrálisnál. A délelőttöt a modern Bond Street bevásárlónegyed felfedezésével töltse. A délutánt a természetben, a Central és Admiral's parkokban sétálva élvezze. Zárja a túrát egy adag kultúrával a Chelmsford Múzeumban, amely bemutatja a város gazdag történelmét, beleértve a rádió atyjához, Marconihoz fűződő kapcsolatát.",
+        "ro": "Începeți ziua în inima istorică a orașului Chelmsford, la Shire Hall și la catedrală. Petreceți dimineața explorând cartierul comercial modern Bond Street. După-amiaza, bucurați-vă de natură plimbându-vă prin Parcul Central și Parcul Amiralului. Încheiați turul cu o doză de cultură la Muzeul Chelmsford, care prezintă istoria bogată a orașului, inclusiv legătura sa cu Marconi, părintele radioului.",
+        "en": "Start your day in Chelmsford's historic heart at Shire Hall and the Cathedral. Spend the morning exploring the modern Bond Street shopping area. Devote the afternoon to nature, strolling through Central and Admiral's Parks. Finish your tour with a dose of culture at the Chelmsford Museum, highlighting the city's rich history, including its connection to Marconi, the father of radio."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Acanteen",
+            "tip": "Ein lebhafter, unabhängiger Ort mit einer vielfältigen Speisekarte, perfekt für ein Mittagessen."
+          },
+          {
+            "name": "The Bakehouse",
+            "tip": "Bekannt für sein köstliches Gebäck und handwerklich hergestelltes Brot."
+          },
+          {
+            "name": "The Six Bells",
+            "tip": "Ein traditioneller Pub, der klassische britische Gerichte und lokale Ales serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Acanteen",
+            "tip": "Élénk, független hely, változatos étlappal, tökéletes ebédre."
+          },
+          {
+            "name": "The Bakehouse",
+            "tip": "Finom péksüteményeiről és kézműves kenyereiről ismert."
+          },
+          {
+            "name": "The Six Bells",
+            "tip": "Hagyományos pub, klasszikus brit ételekkel és helyi sörökkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Acanteen",
+            "tip": "Un loc independent și plin de viață, cu un meniu divers, perfect pentru prânz."
+          },
+          {
+            "name": "The Bakehouse",
+            "tip": "Renumit pentru produsele de patiserie delicioase și pâinea artizanală."
+          },
+          {
+            "name": "The Six Bells",
+            "tip": "Un pub tradițional care servește mâncăruri britanice clasice și beri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Acanteen",
+            "tip": "A vibrant, independent spot with a diverse menu, perfect for lunch."
+          },
+          {
+            "name": "The Bakehouse",
+            "tip": "Known for its delicious pastries and artisan bread."
+          },
+          {
+            "name": "The Six Bells",
+            "tip": "A traditional pub serving classic British fare and local ales."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Chelmer",
+            "tip": "Ein ruhiger Spaziergang abseits des Stadtzentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten der Kathedrale",
+            "tip": "Ein friedlicher Ort zum Sitzen und Nachdenken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Oaklands Park",
+            "tip": "Etwas weiter entfernt, aber die Ruhe wert.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chelmer folyó partja",
+            "tip": "Csendes séta távolabb a városközponttól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Katedrális kertjei",
+            "tip": "Békés hely az üldögélésre és elmélkedésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Oaklands Park",
+            "tip": "Kicsit távolabb, de megéri a csendért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Chelmer",
+            "tip": "O plimbare liniștită departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Catedralei",
+            "tip": "Un loc pașnic pentru a sta și a reflecta.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Oaklands",
+            "tip": "Puțin mai departe, dar merită pentru liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Chelmer banks",
+            "tip": "A quiet walk away from the city center bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cathedral gardens",
+            "tip": "A peaceful spot to sit and reflect.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Oaklands Park",
+            "tip": "A bit further out, but worth it for the quiet.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Chelmsford Market",
+            "tip": "Ein traditioneller Indoor-Markt mit einer Vielzahl von Ständen."
+          },
+          {
+            "name": "High Chelmer Shopping Centre",
+            "tip": "Bietet eine Mischung aus bekannten Markengeschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chelmsfordi piac",
+            "tip": "Hagyományos fedett piac, sokféle standdal."
+          },
+          {
+            "name": "High Chelmer bevásárlóközpont",
+            "tip": "Népszerű márkaboltok keverékét kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Chelmsford",
+            "tip": "O piață interioară tradițională cu o varietate de standuri."
+          },
+          {
+            "name": "Centrul Comercial High Chelmer",
+            "tip": "Oferă un amestec de magazine de marcă cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chelmsford Market",
+            "tip": "A traditional indoor market with a variety of stalls."
+          },
+          {
+            "name": "High Chelmer Shopping Centre",
+            "tip": "Offers a mix of high-street brand stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da dieser Rundgang etwa 4-5 km umfasst.",
+          "Die Parks sind mittags sehr beliebt; suchen Sie sich frühzeitig einen Platz für ein Picknick.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus, da diese variieren können.",
+          "Der Eintritt in die Kathedrale ist frei, Spenden sind jedoch willkommen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel ez a gyalogtúra kb. 4-5 km hosszú.",
+          "A parkok délidőben népszerűek; keressen korán helyet a piknikhez.",
+          "Ellenőrizze előre a múzeum nyitvatartási idejét, mert változhat.",
+          "A katedrálisba a belépés ingyenes, de az adományokat szívesen fogadják."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece acest tur pe jos acoperă aproximativ 4-5 km.",
+          "Parcurile sunt populare la prânz; găsiți-vă un loc pentru picnic devreme.",
+          "Verificați programul muzeului în avans, deoarece poate varia.",
+          "Intrarea la catedrală este gratuită, dar donațiile sunt apreciate."
+        ],
+        "en": [
+          "Wear comfortable shoes as this walking tour covers about 4-5 km.",
+          "The parks are popular at lunchtime; find a spot for your picnic early.",
+          "Check the museum's opening times in advance as they can vary.",
+          "Entry to the Cathedral is free, but donations are welcome."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Central Park",
+            "hu": "Central Park",
+            "ro": "Central Park",
+            "en": "Central Park"
+          },
+          "coords": [
+            0.465,
+            51.7305
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein toller Ausgangspunkt mit Radwegen entlang des Flusses.",
+            "hu": "Nagyszerű kiindulópont a folyó menti kerékpárutakkal.",
+            "ro": "Un punct de plecare excelent cu piste de biciclete de-a lungul râului.",
+            "en": "A great starting point with cycle paths along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Shire Hall",
+            "hu": "Shire Hall (Törvényszéki palota)",
+            "ro": "Shire Hall",
+            "en": "Shire Hall"
+          },
+          "coords": [
+            0.4705,
+            51.7361
+          ],
+          "category": "monuments",
+          "arrive_at": "09:48",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und bewundern Sie dieses historische Gebäude.",
+            "hu": "Zárja le a kerékpárt, és csodálja meg ezt a történelmi épületet.",
+            "ro": "Legați-vă bicicleta și admirați această clădire istorică.",
+            "en": "Lock up your bike and admire this historic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Chelmsford",
+            "hu": "Chelmsfordi katedrális",
+            "ro": "Catedrala din Chelmsford",
+            "en": "Chelmsford Cathedral"
+          },
+          "coords": [
+            0.473,
+            51.7364
+          ],
+          "category": "churches",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie die ruhige Atmosphäre im Inneren.",
+            "hu": "Parkolja le a kerékpárt, és élvezze a belső, békés légkört.",
+            "ro": "Parcați-vă bicicleta și bucurați-vă de atmosfera liniștită din interior.",
+            "en": "Park your bike and enjoy the serene atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandford Mill",
+            "hu": "Sandford Mill malom",
+            "ro": "Moara Sandford",
+            "en": "Sandford Mill"
+          },
+          "coords": [
+            0.505,
+            51.715
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt entlang des Flusses zum historischen Wasserwerk der Stadt.",
+            "hu": "Kellemes tekerés a folyó mentén a város történelmi vízművéhez.",
+            "ro": "O plimbare plăcută pe malul râului până la stația de epurare istorică a orașului.",
+            "en": "A pleasant ride along the river to the city's historical waterworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Chelmsford Museum",
+            "hu": "Chelmsford Múzeum",
+            "ro": "Muzeul Chelmsford",
+            "en": "Chelmsford Museum"
+          },
+          "coords": [
+            0.4635,
+            51.729
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Perfekt für eine Pause am Nachmittag, um mehr über die Marconi-Verbindung zu erfahren.",
+            "hu": "Tökéletes egy délutáni pihenőre, hogy többet megtudjon a Marconi-kapcsolatról.",
+            "ro": "Perfect pentru o pauză de după-amiază pentru a afla despre conexiunea Marconi.",
+            "en": "Perfect for an afternoon break to learn about the Marconi connection."
+          }
+        },
+        {
+          "name": {
+            "de": "Melbourne Stadium",
+            "hu": "Melbourne Stadion",
+            "ro": "Stadionul Melbourne",
+            "en": "Melbourne Stadium"
+          },
+          "coords": [
+            0.457,
+            51.745
+          ],
+          "category": "theatres",
+          "arrive_at": "14:13",
+          "stay_min": 92,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Sehen Sie sich den Sportkomplex an, das Herzstück der lokalen Leichtathletik.",
+            "hu": "Nézze meg a sportkomplexumot, a helyi atlétika szívét.",
+            "ro": "Vedeți complexul sportiv, inima atletismului local.",
+            "en": "Check out the sports complex, the heart of local athletics."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag im Central Park und folgen Sie den Wegen zum historischen Kern. Besuchen Sie die Shire Hall und die Kathedrale, bevor Sie eine längere Fahrt zur Sandford Mill unternehmen, die das industrielle Erbe von Chelmsford zeigt. Am Nachmittag radeln Sie zurück in die Stadt, um das Chelmsford Museum zu besuchen, und beenden den Tag mit einem Blick auf das sportliche Zentrum der Stadt, das Melbourne Stadium.",
+        "hu": "Kezdje a kerékpáros napot a Central Parkban, és kövesse az ösvényeket a történelmi városmag felé. Látogassa meg a Shire Hallt és a katedrálist, mielőtt egy hosszabb útra indulna a Sandford Millhez, amely Chelmsford ipari örökségét mutatja be. Délután tekerjen vissza a városba a Chelmsford Múzeumhoz, és zárja a napot a város sportéletének központja, a Melbourne Stadion megtekintésével.",
+        "ro": "Începeți ziua pe bicicletă în Central Park, urmând potecile spre centrul istoric. Vizitați Shire Hall și catedrala înainte de o plimbare mai lungă la Moara Sandford, care prezintă patrimoniul industrial al orașului Chelmsford. După-amiaza, pedalați înapoi în oraș pentru Muzeul Chelmsford și încheiați ziua cu o privire la centrul sportiv al orașului, Stadionul Melbourne.",
+        "en": "Start your cycling day in Central Park, following the paths towards the historic core. Visit Shire Hall and the Cathedral before a longer ride out to Sandford Mill, showcasing Chelmsford's industrial heritage. In the afternoon, pedal back into town for the Chelmsford Museum, and finish the day with a look at the city's sporting hub, Melbourne Stadium."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Anchor",
+            "tip": "Ein Riverside-Pub, ideal für eine Erfrischung nach der Fahrt."
+          },
+          {
+            "name": "Liar Liar",
+            "tip": "Ein Spezialitäten-Café, ideal für einen Koffeinschub."
+          },
+          {
+            "name": "The Ale House",
+            "tip": "Eine Mikro-Kneipe mit einer großen Auswahl an Real Ales und Craft-Bieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Anchor",
+            "tip": "Folyóparti pub, ideális frissítőre a tekerés után."
+          },
+          {
+            "name": "Liar Liar",
+            "tip": "Különleges kávézó, tökéletes egy koffein-lökéshez."
+          },
+          {
+            "name": "The Ale House",
+            "tip": "Mikropub valódi sörök és kézműves sörök nagy választékával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Anchor",
+            "tip": "Un pub pe malul râului, excelent pentru o băutură răcoritoare după plimbare."
+          },
+          {
+            "name": "Liar Liar",
+            "tip": "O cafenea de specialitate, excelentă pentru un plus de cofeină."
+          },
+          {
+            "name": "The Ale House",
+            "tip": "Un micropub cu o selecție excelentă de beri reale și artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Anchor",
+            "tip": "A riverside pub, great for a post-ride refreshment."
+          },
+          {
+            "name": "Liar Liar",
+            "tip": "A specialty coffee shop great for a caffeine boost."
+          },
+          {
+            "name": "The Ale House",
+            "tip": "A micro pub with a great selection of real ales and craft beers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pfad entlang des Flusses Chelmer",
+            "tip": "Folgen Sie dem Fluss aus der Stadt hinaus für eine friedliche Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hylands Park (längere Fahrt)",
+            "tip": "Eine anspruchsvollere Fahrt, aber der Park ist riesig und ruhig.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Admirals Park Gärten",
+            "tip": "Ein ruhigerer Abschnitt der Stadtparks.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chelmer folyó menti ösvény",
+            "tip": "Kövesse a folyót kifelé a városból egy békés tekerésért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hylands Park (hosszabb út)",
+            "tip": "Nagyobb kihívást jelentő út, de a park hatalmas és csendes.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Admiral's Park kertjei",
+            "tip": "A városi parkok csendesebb része.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă pe malul râului Chelmer",
+            "tip": "Urmați râul în afara orașului pentru o plimbare liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Hylands (plimbare mai lungă)",
+            "tip": "O plimbare mai dificilă, dar parcul este vast și liniștit.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Grădinile Parcului Amiralului",
+            "tip": "O secțiune mai liniștită a parcurilor orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Chelmer path",
+            "tip": "Follow the river out of town for a peaceful ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hylands Park (longer ride)",
+            "tip": "A more challenging ride, but the park is vast and quiet.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Admirals Park gardens",
+            "tip": "A quieter section of the city parks.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Moulsham Street",
+            "tip": "Bekannt für seine unabhängigen Geschäfte und Boutiquen."
+          },
+          {
+            "name": "Giant Store Chelmsford",
+            "tip": "Falls Sie Fahrradzubehör vergessen haben!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moulsham Street",
+            "tip": "Független üzleteiről és butikjairól ismert."
+          },
+          {
+            "name": "Giant Store Chelmsford",
+            "tip": "Ha elfelejtett valamilyen kerékpáros kiegészítőt!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Moulsham",
+            "tip": "Cunoscută pentru magazinele și buticurile sale independente."
+          },
+          {
+            "name": "Magazinul Giant Chelmsford",
+            "tip": "În caz că ați uitat vreun accesoriu pentru bicicletă!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Moulsham Street",
+            "tip": "Known for its independent shops and boutiques."
+          },
+          {
+            "name": "Giant Store Chelmsford",
+            "tip": "In case you forgot any cycling accessories!"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie ein gutes Schloss mit, da Sie Ihr Fahrrad an mehreren Haltestellen abstellen werden.",
+          "Die Flusswege können nach Regen matschig sein.",
+          "Viele der zentralen Bereiche sind fußgängerfreundlich, seien Sie also vorsichtig mit Fußgängern.",
+          "Prüfen Sie die Öffnungszeiten von Sandford Mill, da es nicht immer für die Öffentlichkeit zugänglich ist."
+        ],
+        "hu": [
+          "Hozzon magával egy jó lakatot, mert több megállónál is le kell majd zárnia a kerékpárt.",
+          "A folyóparti ösvények eső után sárosak lehetnek.",
+          "Sok központi terület gyalogosbarát, ezért legyen tekintettel a gyalogosokra.",
+          "Ellenőrizze a Sandford Mill nyitvatartási idejét, mivel nem mindig látogatható."
+        ],
+        "ro": [
+          "Aduceți un lacăt bun, deoarece veți lăsa bicicleta la mai multe opriri.",
+          "Potecile de pe malul râului pot fi noroioase după ploaie.",
+          "Multe dintre zonele centrale sunt pietonale, așa că fiți atenți la pietoni.",
+          "Verificați programul de la Moara Sandford, deoarece nu este întotdeauna deschisă publicului."
+        ],
+        "en": [
+          "Bring a good lock as you'll be leaving your bike at several stops.",
+          "The river paths can be muddy after rain.",
+          "Many of the central areas are pedestrianized, so be considerate of walkers.",
+          "Check Sandford Mill's opening times as it's not always open to the public."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 31.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "RHS Garden Hyde Hall",
+            "hu": "RHS Garden Hyde Hall",
+            "ro": "Grădina RHS Hyde Hall",
+            "en": "RHS Garden Hyde Hall"
+          },
+          "coords": [
+            0.557,
+            51.651
+          ],
+          "category": "parks",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie früh in diesem atemberaubenden Garten. Der Dry Garden ist besonders einzigartig.",
+            "hu": "Kezdje korán a napot ebben a lenyűgöző kertben. A Száraz Kert különösen egyedi.",
+            "ro": "Începeți devreme la această grădină uimitoare. Grădina Uscată este deosebit de unică.",
+            "en": "Start early at this stunning garden. The Dry Garden is particularly unique."
+          }
+        },
+        {
+          "name": {
+            "de": "Hylands House",
+            "hu": "Hylands-ház",
+            "ro": "Casa Hylands",
+            "en": "Hylands House"
+          },
+          "coords": [
+            0.418,
+            51.716
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das wunderschön restaurierte Haus und den weitläufigen Park.",
+            "hu": "Fedezze fel a gyönyörűen felújított házat és a hatalmas parkot.",
+            "ro": "Explorați casa frumos restaurată și parcul întins.",
+            "en": "Explore the beautifully restored house and the vast parkland."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken im Stadtzentrum (Cluster 1)",
+            "hu": "Parkolás a városközpontban (1. Klaszter)",
+            "ro": "Parcare în centrul orașului (Cluster 1)",
+            "en": "City Centre Parking (Cluster 1)"
+          },
+          "coords": [
+            0.471,
+            51.733
+          ],
+          "category": "transport",
+          "arrive_at": "13:30",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken Sie in einem der zentralen Parkhäuser und erkunden Sie zu Fuß.",
+            "hu": "Parkoljon egy központi parkolóházban, és fedezze fel a környéket gyalog.",
+            "ro": "Parcați într-una din parcările centrale și explorați pe jos.",
+            "en": "Park in one of the central car parks and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Shire Hall",
+            "hu": "Shire Hall",
+            "ro": "Shire Hall",
+            "en": "Shire Hall"
+          },
+          "coords": [
+            0.4705,
+            51.7361
+          ],
+          "category": "monuments",
+          "arrive_at": "13:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum historischen Gerichtshaus.",
+            "hu": "Rövid séta a parkolótól a történelmi bírósági épületig.",
+            "ro": "O scurtă plimbare de la parcare la tribunalul istoric.",
+            "en": "A short walk from the car park to the historic courthouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Chelmsford",
+            "hu": "Chelmsfordi katedrális",
+            "ro": "Catedrala din Chelmsford",
+            "en": "Chelmsford Cathedral"
+          },
+          "coords": [
+            0.473,
+            51.7364
+          ],
+          "category": "churches",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gleich um die Ecke von der Shire Hall, ein Muss.",
+            "hu": "A Shire Hall sarkánál, kötelező látnivaló.",
+            "ro": "Chiar după colț de Shire Hall, o vizită obligatorie.",
+            "en": "Just around the corner from Shire Hall, a must-visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Central Park",
+            "hu": "Central Park",
+            "ro": "Central Park",
+            "en": "Central Park"
+          },
+          "coords": [
+            0.465,
+            51.7305
+          ],
+          "category": "parks",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang, um die Beine nach dem Mittagessen zu vertreten.",
+            "hu": "Kellemes séta, hogy ebéd után kinyújtóztassa a lábát.",
+            "ro": "O plimbare relaxantă pentru a vă întinde picioarele după prânz.",
+            "en": "A relaxing walk to stretch your legs after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Chelmsford Museum",
+            "hu": "Chelmsford Múzeum",
+            "ro": "Muzeul Chelmsford",
+            "en": "Chelmsford Museum"
+          },
+          "coords": [
+            0.4635,
+            51.729
+          ],
+          "category": "museums",
+          "arrive_at": "15:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Befindet sich im Oaklands Park, ein schöner Abschluss des Stadtrundgangs.",
+            "hu": "Az Oaklands Parkban található, szép lezárása a városi sétának.",
+            "ro": "Situat în Parcul Oaklands, o modalitate plăcută de a încheia turul pe jos al orașului.",
+            "en": "Located in Oaklands Park, a nice end to the city walking cluster."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um die Attraktionen außerhalb des Zentrums zu erkunden. Beginnen Sie den Morgen in den wunderschönen RHS Gardens in Hyde Hall. Fahren Sie dann zum historischen Hylands House für einen Vormittag voller Erkundungen. Am Nachmittag parken Sie im Stadtzentrum und entdecken Sie die wichtigsten Sehenswürdigkeiten zu Fuß: die Shire Hall, die Kathedrale und das Museum, mit einer entspannenden Pause im Central Park. Dieses Cluster-Walking-Modell bietet das Beste aus beiden Welten.",
+        "hu": "Használja autóját a központon kívüli látnivalók felfedezéséhez. Kezdje a reggelt a gyönyörű RHS Garden Hyde Hallban. Ezután vezessen a történelmi Hylands House-hoz egy délelőtti felfedezőútra. Délután parkoljon le a városközpontban, és fedezze fel gyalog a főbb helyszíneket: a Shire Hallt, a katedrálist és a múzeumot, egy pihentető szünettel a Central Parkban. Ez a klaszter-séta modell mindkét világból a legjobbat nyújtja.",
+        "ro": "Folosiți-vă mașina pentru a explora atracțiile din afara centrului. Începeți dimineața la superba Grădină RHS Hyde Hall. Apoi, conduceți la istorica Casă Hylands pentru o dimineață de explorare. După-amiaza, parcați în centrul orașului și descoperiți principalele obiective pe jos: Shire Hall, Catedrala și Muzeul, cu o pauză relaxantă în Central Park. Acest model de plimbare în grup oferă ce e mai bun din ambele lumi.",
+        "en": "Use your car to explore the attractions outside the centre. Start the morning at the beautiful RHS Garden Hyde Hall. Then, drive to the historic Hylands House for a morning of exploration. In the afternoon, park in the city centre and discover the main sites on foot: Shire Hall, the Cathedral, and the Museum, with a relaxing break in Central Park. This cluster-walking model gives you the best of both worlds."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Lion Inn, Boreham",
+            "tip": "Ein hoch bewertetes Gasthaus in der Nähe von Chelmsford, ideal für ein hochwertiges Mittag- oder Abendessen."
+          },
+          {
+            "name": "The Cuckoo, Writtle",
+            "tip": "Ein charmantes Dorf-Pub mit exzellentem Essen, eine kurze Fahrt entfernt."
+          },
+          {
+            "name": "Farmshop bei Hylands Estate",
+            "tip": "Holen Sie sich lokale Produkte für ein Picknick im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Lion Inn, Boreham",
+            "tip": "Magasra értékelt fogadó Chelmsford közelében, minőségi ebédre vagy vacsorára."
+          },
+          {
+            "name": "The Cuckoo, Writtle",
+            "tip": "Bájos falusi pub kiváló ételekkel, rövid autóútra."
+          },
+          {
+            "name": "Hylands Estate farmboltja",
+            "tip": "Szerezzen be helyi termékeket egy piknikhez a parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Lion Inn, Boreham",
+            "tip": "Un han de top lângă Chelmsford, excelent pentru un prânz sau o cină de calitate."
+          },
+          {
+            "name": "The Cuckoo, Writtle",
+            "tip": "Un pub fermecător de sat cu mâncare excelentă, la o scurtă călătorie cu mașina."
+          },
+          {
+            "name": "Magazinul fermei de la Hylands Estate",
+            "tip": "Luați produse locale pentru un picnic în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Lion Inn, Boreham",
+            "tip": "A top-rated inn near Chelmsford, great for a quality lunch or dinner."
+          },
+          {
+            "name": "The Cuckoo, Writtle",
+            "tip": "A charming village pub with excellent food, a short drive away."
+          },
+          {
+            "name": "Farm shop at Hylands Estate",
+            "tip": "Pick up some local produce for a picnic in the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hylands Park",
+            "tip": "Finden Sie einen abgelegenen Platz in den 574 Hektar großen Parkanlagen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Danbury Country Park",
+            "tip": "Eine kurze Fahrt für ruhige Waldspaziergänge und Seen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die ruhigen Gärten im RHS Hyde Hall",
+            "tip": "Abseits der Hauptwege finden Sie friedliche Ecken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hylands Park",
+            "tip": "Találjon egy eldugott helyet az 574 hektáros parkban.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Danbury Country Park",
+            "tip": "Rövid autóút csendes erdei sétákhoz és tavakhoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A csendes kertek az RHS Hyde Hallban",
+            "tip": "A fő ösvényektől távol békés zugokat talál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Hylands",
+            "tip": "Găsiți un loc retras în cei 574 de acri de parc.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Parcul Național Danbury",
+            "tip": "O scurtă călătorie cu mașina pentru plimbări liniștite prin pădure și lacuri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile liniștite de la RHS Hyde Hall",
+            "tip": "Departe de potecile principale, veți găsi colțuri pașnice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hylands Park",
+            "tip": "Find a secluded spot in the 574 acres of parkland.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Danbury Country Park",
+            "tip": "A short drive for quiet woodland walks and lakes.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The quiet gardens at RHS Hyde Hall",
+            "tip": "Away from the main paths you'll find peaceful corners.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschenkeladen in Hylands House",
+            "tip": "Bietet einzigartige Geschenke und lokale Handwerkskunst."
+          },
+          {
+            "name": "Pflanzenzentrum im RHS Hyde Hall",
+            "tip": "Für Gartenliebhaber ist dies ein Muss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hylands House ajándékboltja",
+            "tip": "Egyedi ajándékokat és helyi kézműves termékeket kínál."
+          },
+          {
+            "name": "Növénycentrum az RHS Hyde Hallban",
+            "tip": "A kertészkedés szerelmeseinek kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri de la Casa Hylands",
+            "tip": "Oferă cadouri unice și artizanat local."
+          },
+          {
+            "name": "Centrul de plante de la RHS Hyde Hall",
+            "tip": "Pentru pasionații de grădinărit, aceasta este o vizită obligatorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gift shop at Hylands House",
+            "tip": "Offers unique gifts and local crafts."
+          },
+          {
+            "name": "Plant centre at RHS Hyde Hall",
+            "tip": "For gardening enthusiasts, this is a must-visit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Für RHS Hyde Hall und Hylands House sind möglicherweise Eintrittsgelder erforderlich. Buchen Sie online im Voraus, um Geld zu sparen.",
+          "Die Parkgebühren im Stadtzentrum können teuer sein; prüfen Sie die Tagessätze.",
+          "Der Verkehr in und aus Chelmsford kann zu Stoßzeiten stark sein. Planen Sie Ihre Fahrten entsprechend.",
+          "Achten Sie auf die Öffnungszeiten von Hylands House, da es oft für private Veranstaltungen geschlossen ist."
+        ],
+        "hu": [
+          "Az RHS Hyde Hall és a Hylands House belépődíjas lehet. Spóroljon, ha előre online foglal.",
+          "A városközponti parkolási díjak drágák lehetnek; ellenőrizze a napidíjakat.",
+          "Csúcsidőben nagy lehet a forgalom Chelmsfordban; ennek megfelelően tervezze az utazásait.",
+          "Figyeljen a Hylands House nyitvatartási idejére, mivel gyakran zárva van magánrendezvények miatt."
+        ],
+        "ro": [
+          "Grădina RHS Hyde Hall și Casa Hylands pot percepe taxe de intrare. Rezervați online în avans pentru a economisi bani.",
+          "Taxele de parcare din centrul orașului pot fi scumpe; verificați tarifele zilnice.",
+          "Traficul în și din Chelmsford poate fi aglomerat la orele de vârf. Planificați-vă călătoriile în consecință.",
+          "Fiți atenți la orele de deschidere ale Casei Hylands, deoarece este adesea închisă pentru evenimente private."
+        ],
+        "en": [
+          "RHS Garden Hyde Hall and Hylands House may require admission fees. Book online in advance to save money.",
+          "City centre parking fees can be expensive; check daily rates.",
+          "Traffic in and out of Chelmsford can be heavy at peak times. Plan your drives accordingly.",
+          "Be aware of Hylands House opening times as it is often closed for private functions."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bus zum Stadtzentrum (Cluster 1)",
+            "hu": "Busz a városközpontba (1. klaszter)",
+            "ro": "Autobuz spre centrul orașului (Cluster 1)",
+            "en": "Bus to City Centre (Cluster 1)"
+          },
+          "coords": [
+            0.4735,
+            51.7368
+          ],
+          "category": "transport",
+          "arrive_at": "09:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Steigen Sie in der Nähe der Kathedrale aus, um Ihre Erkundung zu beginnen.",
+            "hu": "Szálljon le a katedrális közelében a felfedezés megkezdéséhez.",
+            "ro": "Coborâți lângă Catedrală pentru a începe explorarea.",
+            "en": "Get off near the Cathedral to start your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Chelmsford",
+            "hu": "Chelmsfordi katedrális",
+            "ro": "Catedrala din Chelmsford",
+            "en": "Chelmsford Cathedral"
+          },
+          "coords": [
+            0.473,
+            51.7364
+          ],
+          "category": "churches",
+          "arrive_at": "09:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ihr erster Halt, ein friedlicher Start in den Tag.",
+            "hu": "Az első megálló, egy békés napkezdés.",
+            "ro": "Prima oprire, un început pașnic al zilei.",
+            "en": "Your first stop, a peaceful start to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Shire Hall",
+            "hu": "Shire Hall",
+            "ro": "Shire Hall",
+            "en": "Shire Hall"
+          },
+          "coords": [
+            0.4705,
+            51.7361
+          ],
+          "category": "monuments",
+          "arrive_at": "10:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, um die Fassade dieses ikonischen Gebäudes zu sehen.",
+            "hu": "Rövid séta, hogy megnézze ennek az ikonikus épületnek a homlokzatát.",
+            "ro": "O scurtă plimbare pentru a vedea fațada acestei clădiri iconice.",
+            "en": "A short walk to see the facade of this iconic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Bond Street",
+            "hu": "Bond Street",
+            "ro": "Bond Street",
+            "en": "Bond Street"
+          },
+          "coords": [
+            0.475,
+            51.734
+          ],
+          "category": "squares",
+          "arrive_at": "10:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre dieses modernen Einkaufszentrums im Freien.",
+            "hu": "Élvezze ennek a modern, szabadtéri bevásárlóközpontnak a hangulatát.",
+            "ro": "Bucurați-vă de atmosfera acestui centru comercial modern în aer liber.",
+            "en": "Soak in the atmosphere of this modern open-air shopping hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Museum (Cluster 2)",
+            "hu": "Busz a múzeumhoz (2. klaszter)",
+            "ro": "Autobuz spre muzeu (Cluster 2)",
+            "en": "Bus to Museum (Cluster 2)"
+          },
+          "coords": [
+            0.4635,
+            51.729
+          ],
+          "category": "transport",
+          "arrive_at": "11:55",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Oaklands Park, wo sich das Museum befindet.",
+            "hu": "Menjen busszal az Oaklands Parkba, ahol a múzeum található.",
+            "ro": "Luați un autobuz spre Parcul Oaklands, unde se află muzeul.",
+            "en": "Take a bus to Oaklands Park, where the museum is located."
+          }
+        },
+        {
+          "name": {
+            "de": "Chelmsford Museum & Central Park",
+            "hu": "Chelmsford Múzeum és Central Park",
+            "ro": "Muzeul Chelmsford și Parcul Central",
+            "en": "Chelmsford Museum & Central Park"
+          },
+          "coords": [
+            0.464,
+            51.73
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kombinieren Sie einen Museumsbesuch mit einem entspannten Mittagessen und einem Spaziergang im Park.",
+            "hu": "Kombinálja a múzeumlátogatást egy pihentető ebéddel és sétával a parkban.",
+            "ro": "Combinați o vizită la muzeu cu un prânz relaxant și o plimbare în parc.",
+            "en": "Combine a museum visit with a relaxed lunch and walk in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Chelmsford einfach mit dem Bus. Beginnen Sie Ihren Tag im Stadtzentrum, wo Sie die Kathedrale, die Shire Hall und die Bond Street zu Fuß erreichen können. Nehmen Sie am späten Vormittag einen Bus zum zweiten Cluster, dem Oaklands Park. Dort können Sie einen langen Nachmittag verbringen, das Chelmsford Museum erkunden und die Grünflächen des angrenzenden Central Parks genießen, bevor Sie den Bus zurücknehmen. Es ist eine effiziente Möglichkeit, die wichtigsten Sehenswürdigkeiten ohne Parkplatzsorgen zu sehen.",
+        "hu": "Fedezze fel Chelmsfordot könnyedén a busz segítségével. Kezdje a napot a városközpontban, ahol gyalogosan elérhető a katedrális, a Shire Hall és a Bond Street. Késő délelőtt szálljon buszra a második klaszterhez, az Oaklands Parkhoz. Itt egy hosszú délutánt tölthet a Chelmsford Múzeum felfedezésével és a szomszédos Central Park zöld területeinek élvezetével, mielőtt visszabuszozna. Ez hatékony módja a főbb látnivalók megtekintésének parkolási gondok nélkül.",
+        "ro": "Explorați Chelmsford cu ușurință folosind autobuzul. Începeți ziua în centrul orașului, unde Catedrala, Shire Hall și Bond Street sunt la câțiva pași. La sfârșitul dimineții, luați un autobuz spre al doilea grup, Parcul Oaklands. Acolo puteți petrece o după-amiază lungă explorând Muzeul Chelmsford și bucurându-vă de spațiile verzi ale Parcului Central adiacent, înainte de a lua autobuzul înapoi. Este o modalitate eficientă de a vedea principalele atracții fără grija parcării.",
+        "en": "Explore Chelmsford easily using the bus. Start your day in the city centre cluster, with the Cathedral, Shire Hall, and Bond Street all within walking distance. In the late morning, catch a bus to the second cluster, Oaklands Park. There, you can spend a long afternoon exploring the Chelmsford Museum and enjoying the green space of the adjoining Central Park before catching a bus back. It's an efficient way to see the key sights without parking hassles."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Queen's Head",
+            "tip": "Ein traditioneller Pub in der Nähe der Bushaltestelle im Stadtzentrum, gut für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "The Tea Room at the Museum",
+            "tip": "Praktisch für einen Snack oder ein leichtes Mittagessen während Ihres Museumsbesuchs."
+          },
+          {
+            "name": "Fête",
+            "tip": "Ein beliebtes Brunch-Lokal in der Nähe von Bond Street."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Queen's Head",
+            "tip": "Hagyományos pub a városközponti buszmegálló közelében, jó egy kiadós ebédre."
+          },
+          {
+            "name": "A múzeum teázója",
+            "tip": "Kényelmes egy harapnivalóra vagy könnyű ebédre a múzeumlátogatás alatt."
+          },
+          {
+            "name": "Fête",
+            "tip": "Népszerű brunch-hely a Bond Street közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Queen's Head",
+            "tip": "Un pub tradițional lângă stația de autobuz din centrul orașului, bun pentru un prânz copios."
+          },
+          {
+            "name": "Ceainăria de la Muzeu",
+            "tip": "Convenabilă pentru o gustare sau un prânz ușor în timpul vizitei la muzeu."
+          },
+          {
+            "name": "Fête",
+            "tip": "Un loc popular pentru brunch lângă Bond Street."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Queen's Head",
+            "tip": "A traditional pub near the city centre bus station, good for a hearty lunch."
+          },
+          {
+            "name": "The Tea Room at the Museum",
+            "tip": "Convenient for a snack or light lunch during your museum visit."
+          },
+          {
+            "name": "Fête",
+            "tip": "A popular brunch spot near Bond Street."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "West Park",
+            "tip": "Ein kleinerer, ruhigerer Park in der Nähe des Stadtzentrums.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang des Flusses Can",
+            "tip": "Verbindet den Central Park mit dem Admirals Park und bietet ruhige Abschnitte.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Beobachten Sie die Stadt aus der Ferne.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "West Park",
+            "tip": "Kisebb, csendesebb park a városközpont közelében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Can folyó mentén",
+            "tip": "Összeköti a Central Parkot az Admirals Parkkal, csendes szakaszokat kínálva.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Nézze a várost távolról.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de Vest",
+            "tip": "Un parc mai mic și mai liniștit, aproape de centrul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul râului Can",
+            "tip": "Conectează Parcul Central de Parcul Amiralului, oferind porțiuni liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Priviți orașul de la distanță.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "West Park",
+            "tip": "A smaller, quieter park close to the city centre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "River Can Walk",
+            "tip": "Connects Central Park to Admirals Park, offering quiet stretches.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Top deck of a double-decker bus",
+            "tip": "Watch the city go by from a distance.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Meadows Shopping Centre",
+            "tip": "Leicht erreichbar vom zentralen Busbahnhof."
+          },
+          {
+            "name": "Bond Street",
+            "tip": "Ein großartiger Ort zum Stöbern, mit einer Mischung aus High-End- und High-Street-Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Meadows bevásárlóközpont",
+            "tip": "Könnyen megközelíthető a központi buszpályaudvartól."
+          },
+          {
+            "name": "Bond Street",
+            "tip": "Nagyszerű hely a nézelődésre, a luxus- és a népszerű márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial The Meadows",
+            "tip": "Ușor accesibil de la autogara centrală."
+          },
+          {
+            "name": "Bond Street",
+            "tip": "Un loc minunat pentru a căuta, cu un amestec de mărci de lux și de masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Meadows Shopping Centre",
+            "tip": "Easily accessible from the central bus station."
+          },
+          {
+            "name": "Bond Street",
+            "tip": "A great place for window shopping, with a mix of high-end and high-street brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um unbegrenzte Fahrten zu erhalten. Es ist oft günstiger.",
+          "Laden Sie eine lokale Bus-App herunter, um die Fahrpläne und Routen in Echtzeit zu verfolgen.",
+          "Busse können zu Stoßzeiten voll sein, planen Sie also etwas mehr Zeit ein.",
+          "Die Bushaltestellen sind in der Regel gut ausgeschildert, aber fragen Sie den Fahrer, wenn Sie unsicher sind."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz. Gyakran olcsóbb.",
+          "Töltsön le egy helyi buszos alkalmazást a valós idejű menetrendek és útvonalak követéséhez.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, ezért hagyjon rá egy kis extra időt.",
+          "A buszmegállók általában jól ki vannak táblázva, de kérdezze meg a sofőrt, ha bizonytalan."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate. Este adesea mai ieftin.",
+          "Descărcați o aplicație locală de autobuz pentru a urmări orarele și rutele în timp real.",
+          "Autobuzele pot fi aglomerate la orele de vârf, așa că acordați-vă timp suplimentar.",
+          "Stațiile de autobuz sunt de obicei bine semnalizate, dar întrebați șoferul dacă nu sunteți sigur."
+        ],
+        "en": [
+          "Buy a day rider bus ticket for unlimited travel. It's often cheaper.",
+          "Download a local bus app to track timetables and routes in real-time.",
+          "Buses can be crowded during peak hours, so allow for a little extra time.",
+          "Bus stops are generally well-signed, but ask the driver if you are unsure."
+        ]
+      }
+    }
+  }
+}

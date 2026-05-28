@@ -1,0 +1,1431 @@
+{
+  "city_id": "poland-tychy-cities-v2",
+  "anchor": {
+    "name": "Tychy",
+    "coords": [
+      18.9918,
+      50.1231
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadtmarkt Tychy",
+            "hu": "Tychy Óváros Főtere",
+            "ro": "Piața Orașului Vechi din Tychy",
+            "en": "Tychy Old Town Market Square"
+          },
+          "coords": [
+            18.9925,
+            50.124
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit der Atmosphäre des lokalen Lebens.",
+            "hu": "Kezdje a napot a helyi életérzés magába szívásával.",
+            "ro": "Începeți ziua absorbind atmosfera vieții locale.",
+            "en": "Start your day soaking in the atmosphere of local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Maria Magdalena",
+            "hu": "Szent Mária Magdolna-templom",
+            "ro": "Biserica Sf. Maria Magdalena",
+            "en": "St. Mary Magdalene Church"
+          },
+          "coords": [
+            18.9945,
+            50.1225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Architektur und die ruhige Innenausstattung.",
+            "hu": "Csodálja meg a barokk építészetet és a békés belső teret.",
+            "ro": "Admirați arhitectura barocă și interiorul liniștit.",
+            "en": "Admire the Baroque architecture and the serene interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Tychy",
+            "hu": "Tychy Városi Múzeum",
+            "ro": "Muzeul Municipal Tychy",
+            "en": "Tychy City Museum"
+          },
+          "coords": [
+            18.9901,
+            50.1255
+          ],
+          "category": "museums",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche Geschichte der Stadt, vom Mittelalter bis heute.",
+            "hu": "Merüljön el a város gazdag történelmében a középkortól napjainkig.",
+            "ro": "Cufundați-vă în istoria bogată a orașului, din Evul Mediu până în prezent.",
+            "en": "Dive into the rich history of the city, from medieval times to the present day."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtische Kunstgalerie Obok",
+            "hu": "Obok Városi Művészeti Galéria",
+            "ro": "Galeria de Artă Municipală Obok",
+            "en": "Obok Municipal Art Gallery"
+          },
+          "coords": [
+            18.988,
+            50.1265
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische polnische Kunst in einem intimen Rahmen.",
+            "hu": "Fedezze fel a kortárs lengyel művészetet egy meghitt környezetben.",
+            "ro": "Descoperiți arta poloneză contemporană într-un cadru intim.",
+            "en": "Discover contemporary Polish art in an intimate setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauereimuseum Tyskie",
+            "hu": "Tyskie Sörfőzde Múzeum",
+            "ro": "Muzeul Fabricii de Bere Tyskie",
+            "en": "Tyskie Brewery Museum"
+          },
+          "coords": [
+            18.973,
+            50.133
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Buchen Sie die Tour im Voraus, um eine Verkostung des berühmten Bieres zu genießen.",
+            "hu": "Foglaljon előre túrát, hogy megkóstolhassa a híres sört.",
+            "ro": "Rezervați turul în avans pentru a vă bucura de o degustare a faimoasei beri.",
+            "en": "Book the tour in advance to enjoy a tasting of the famous beer."
+          }
+        },
+        {
+          "name": {
+            "de": "Paprocany-See",
+            "hu": "Paprocany-tó",
+            "ro": "Lacul Paprocany",
+            "en": "Paprocany Lake"
+          },
+          "coords": [
+            18.9655,
+            50.101
+          ],
+          "category": "lake",
+          "arrive_at": "16:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 46,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um den Tag bei einem Spaziergang am Wasser ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap lezárására egy tóparti sétával.",
+            "ro": "Un loc perfect pentru a încheia ziua cu o plimbare pe malul apei.",
+            "en": "A perfect spot to end your day with a walk by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Tychy beginnt auf dem historischen Altstadtmarkt, dem Herzen der Stadt. Am Vormittag erkunden Sie das sakrale Erbe in der St. Maria Magdalena Kirche, gefolgt von einer Reise in die Vergangenheit im Stadtmuseum. Der Nachmittag steht im Zeichen der Kultur und Industrie. Sie entdecken moderne Kunst in der Obok-Galerie und tauchen dann in die weltberühmte Brautradition im Tyskie-Museum ein, inklusive einer wohlverdienten Verkostung. Zum Abschluss des Tages entspannen Sie bei einem Spaziergang am malerischen Paprocany-See und genießen die friedliche Atmosphäre, während die Sonne untergeht.",
+        "hu": "Tychy-i napja a történelmi Óváros Főterén, a város szívében kezdődik. Délelőtt a Szent Mária Magdolna-templomban fedezi fel a szakrális örökséget, majd a Városi Múzeumban utazik a múltba. A délután a kultúra és az ipar jegyében telik. Felfedezi a modern művészetet az Obok Galériában, majd elmerül a világhírű sörfőzési hagyományokban a Tyskie Múzeumban, egy jól megérdemelt kóstolóval egybekötve. A nap végén a festői Paprocany-tó partján sétálva pihenhet, és élvezheti a békés hangulatot, ahogy a nap lemegy.",
+        "ro": "Ziua dumneavoastră în Tychy începe în Piața istorică a Orașului Vechi, inima orașului. Dimineața explorați moștenirea sacră la Biserica Sf. Maria Magdalena, urmată de o călătorie în trecut la Muzeul Municipal. După-amiaza este dedicată culturii și industriei. Descoperiți arta modernă la Galeria Obok, apoi pătrundeți în tradiția de renume mondial a berii la Muzeul Tyskie, inclusiv o degustare binemeritată. La finalul zilei, vă relaxați cu o plimbare pe malul pitorescului Lac Paprocany, bucurându-vă de atmosfera liniștită la apus.",
+        "en": "Your day in Tychy starts at the historic Old Town Market Square, the heart of the city. In the morning, you'll explore the sacred heritage at St. Mary Magdalene Church, followed by a journey into the past at the City Museum. The afternoon is dedicated to culture and industry. You'll discover modern art at the Obok Gallery, then delve into the world-famous brewing tradition at the Tyskie Museum, including a well-deserved tasting. To cap off the day, you'll relax with a walk along the picturesque Paprocany Lake, enjoying the peaceful atmosphere as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rolada śląska (Schlesische Roulade)",
+            "tip": "Ein herzhaftes Rindfleischgericht, oft mit Knödeln und Rotkohl serviert. Suchen Sie nach einem 'Karczma' (Taverne) für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "Eine saure Roggenmehlsuppe, typisch für die Region, oft mit Wurst und Ei."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die schlesische Variante, gefüllt mit Fleisch oder 'Kraut und Pilzen'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rolada śląska (Sziléziai rolád)",
+            "tip": "Kiadós marhahúsétel, gyakran gombóccal és vöröskáposztával tálalva. Keressen egy 'Karczma'-t (csárdát) az autentikus élményért."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "A régióra jellemző savanyú rozsleves, gyakran kolbásszal és tojással."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a sziléziai változatot, hússal vagy 'káposztával és gombával' töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rolada śląska (Ruladă sileziană)",
+            "tip": "Un fel de mâncare consistent din carne de vită, adesea servit cu găluște și varză roșie. Căutați o 'Karczma' (tavernă) pentru o experiență autentică."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "O ciorbă acră de secară, specifică regiunii, adesea cu cârnați și ou."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Încercați varianta sileziană, umplută cu carne sau 'varză și ciuperci'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rolada śląska (Silesian Roulade)",
+            "tip": "A hearty beef dish, often served with dumplings and red cabbage. Look for a 'Karczma' (tavern) for an authentic experience."
+          },
+          {
+            "name": "Żurek śląski",
+            "tip": "A sour rye flour soup, typical for the region, often with sausage and egg."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Try the Silesian version, filled with meat or 'cabbage and mushrooms'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Paprocany-Sees",
+            "tip": "Finden Sie eine ruhige Bank am Wasser und beobachten Sie die Vögel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bärenpark",
+            "tip": "Ein friedlicher Spaziergang zwischen den Bäumen, abseits des Stadtzentrums.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hof der St. Maria Magdalena Kirche",
+            "tip": "Ein Moment der Stille im Herzen der Altstadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paprocany-tó partja",
+            "tip": "Keressen egy csendes padot a víz mellett és figyelje a madarakat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Medvepark",
+            "tip": "Békés séta a fák között, távol a városközponttól.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Mária Magdolna-templom udvara",
+            "tip": "Egy csendes pillanat az óváros szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Paprocany",
+            "tip": "Găsiți o bancă liniștită lângă apă și priviți păsările.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Urșilor",
+            "tip": "O plimbare liniștită printre copaci, departe de centrul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Bisericii Sf. Maria Magdalena",
+            "tip": "Un moment de liniște în inima orașului vechi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Paprocany Lake",
+            "tip": "Find a quiet bench by the water and watch the birds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bear Park",
+            "tip": "A peaceful walk among the trees, away from the city center.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of St. Mary Magdalene Church",
+            "tip": "A moment of silence in the heart of the old town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus der Tyskie-Brauerei",
+            "tip": "Kaufen Sie einzigartige Biergläser, Kleidung und andere Artikel mit Markenlogo."
+          },
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie auf dem Altstadtmarkt nach kleinen Ständen mit regionalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak a Tyskie Sörfőzdéből",
+            "tip": "Vásároljon egyedi söröspoharakat, ruházatot és más márkás termékeket."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kis standokat regionális termékekkel az Óváros Főterén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la Fabrica de Bere Tyskie",
+            "tip": "Cumpărați pahare de bere unice, îmbrăcăminte și alte articole de marcă."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați tarabe mici cu produse regionale în Piața Orașului Vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs from the Tyskie Brewery",
+            "tip": "Purchase unique beer glasses, apparel, and other branded items."
+          },
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for small stalls with regional products in the Old Town Market Square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, insbesondere montags.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, különösen hétfőnként.",
+          "Hozzon magával újratölthető vizes palackot, hogy hidratált maradjon."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați în avans orele de deschidere ale muzeelor, în special lunea.",
+          "Luați o sticlă de apă reutilizabilă pentru a rămâne hidratat."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Check museum opening times in advance, especially on Mondays.",
+          "Bring a reusable water bottle to stay hydrated."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadtmarkt Tychy",
+            "hu": "Tychy Óváros Főtere",
+            "ro": "Piața Orașului Vechi din Tychy",
+            "en": "Tychy Old Town Market Square"
+          },
+          "coords": [
+            18.9925,
+            50.124
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier mit einem Kaffee, bevor Sie in die Pedale treten.",
+            "hu": "Indítson egy kávéval, mielőtt nyeregbe pattan.",
+            "ro": "Începeți cu o cafea aici înainte de a pedala.",
+            "en": "Start with a coffee here before you start pedaling."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Maria Magdalena",
+            "hu": "Szent Mária Magdolna-templom",
+            "ro": "Biserica Sf. Maria Magdalena",
+            "en": "St. Mary Magdalene Church"
+          },
+          "coords": [
+            18.9945,
+            50.1225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:42",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
+            "hu": "Biztonságosan zárja le a kerékpárját, mielőtt belép a templomba.",
+            "ro": "Încuiați-vă bicicleta în siguranță înainte de a intra în biserică.",
+            "en": "Lock your bike securely before entering the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Tychy",
+            "hu": "Tychy Városi Múzeum",
+            "ro": "Muzeul Municipal Tychy",
+            "en": "Tychy City Museum"
+          },
+          "coords": [
+            18.9901,
+            50.1255
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine gute Gelegenheit, um mehr über die Stadt zu erfahren.",
+            "hu": "Jó alkalom többet megtudni a városról.",
+            "ro": "O bună oportunitate de a învăța mai multe despre oraș.",
+            "en": "A good opportunity to learn more about the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauereimuseum Tyskie",
+            "hu": "Tyskie Sörfőzde Múzeum",
+            "ro": "Muzeul Fabricii de Bere Tyskie",
+            "en": "Tyskie Brewery Museum"
+          },
+          "coords": [
+            18.973,
+            50.133
+          ],
+          "category": "museums",
+          "arrive_at": "11:39",
+          "stay_min": 120,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Tour ist informativ, aber denken Sie daran: kein Radfahren nach der Bierprobe!",
+            "hu": "Az idegenvezetés informatív, de ne feledje: sörkóstolás után nincs biciklizés!",
+            "ro": "Turul este informativ, dar amintiți-vă: nu mergeți cu bicicleta după degustarea berii!",
+            "en": "The tour is informative, but remember: no cycling after the beer tasting!"
+          }
+        },
+        {
+          "name": {
+            "de": "Bärenpark",
+            "hu": "Medvepark",
+            "ro": "Parcul Urșilor",
+            "en": "Bear Park"
+          },
+          "coords": [
+            18.958,
+            50.115
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine kurze Pause im Grünen.",
+            "hu": "Szép hely egy rövid pihenőre a zöldben.",
+            "ro": "Un loc frumos pentru o scurtă pauză în natură.",
+            "en": "A nice place for a short break in the green."
+          }
+        },
+        {
+          "name": {
+            "de": "Paprocany-See",
+            "hu": "Paprocany-tó",
+            "ro": "Lacul Paprocany",
+            "en": "Paprocany Lake"
+          },
+          "coords": [
+            18.9655,
+            50.101
+          ],
+          "category": "lake",
+          "arrive_at": "14:59",
+          "stay_min": 90,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Radfahren Sie um den See herum für fantastische Ausblicke.",
+            "hu": "Kerékpározzon körbe a tó körül a fantasztikus kilátásért.",
+            "ro": "Mergeți cu bicicleta în jurul lacului pentru vederi fantastice.",
+            "en": "Cycle around the lake for fantastic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Winterstadion",
+            "hu": "Téli Stadion",
+            "ro": "Stadionul de iarnă",
+            "en": "Winter Stadium"
+          },
+          "coords": [
+            18.998,
+            50.119
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:59",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Überprüfen Sie den Spielplan, vielleicht erwischen Sie ein Eishockeyspiel!",
+            "hu": "Ellenőrizze a menetrendet, talán elcsíp egy jégkorongmeccset!",
+            "ro": "Verificați programul, poate prindeți un meci de hochei!",
+            "en": "Check the schedule, you might catch an ice hockey game!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in den Sattel und beginnen Sie Ihre Tychy-Radtour auf dem Altstadtmarkt. Nach kurzen Stopps an der ehrwürdigen Kirche St. Maria Magdalena und dem Stadtmuseum führt Sie Ihre Route zum industriellen Herzstück der Stadt: dem Tyskie Brauereimuseum. Nach einer ausgiebigen Mittagspause und Tour (ohne Radfahren danach!), radeln Sie weiter ins Grüne. Der Nachmittag gehört der Natur: Zuerst eine Pause im ruhigen Bärenpark, gefolgt von einer entspannten Runde um den wunderschönen Paprocany-See. Zum Abschluss rollen Sie zum Winterstadion, einem Zentrum sportlicher Leidenschaft, um den aktiven Tag ausklingen zu lassen.",
+        "hu": "Pattanjon nyeregbe, és kezdje Tychy-i kerékpártúráját az Óváros Főterén. A tiszteletreméltó Szent Mária Magdolna-templomnál és a Városi Múzeumnál tett rövid megállók után az útvonal a város ipari szívébe, a Tyskie Sörgyári Múzeumba vezet. Egy kiadós ebédszünet és túra után (utána nincs biciklizés!) tekerjen tovább a zöldbe. A délután a természeté: először egy pihenő a csendes Medveparkban, majd egy laza kör a gyönyörű Paprocany-tó körül. Végül a Téli Stadionhoz gurul, a sportos szenvedély központjához, hogy lezárja az aktív napot.",
+        "ro": "Urcați în șa și începeți turul cu bicicleta prin Tychy din Piața Orașului Vechi. După opriri scurte la venerabila Biserică Sf. Maria Magdalena și la Muzeul Municipal, traseul vă duce la inima industrială a orașului: Muzeul Fabricii de Bere Tyskie. După o pauză de prânz consistentă și un tur (fără ciclism după aceea!), pedalați mai departe spre zonele verzi. După-amiaza este dedicată naturii: mai întâi o pauză în liniștitul Parc al Urșilor, urmată de o tură relaxantă în jurul frumosului Lac Paprocany. În final, vă îndreptați spre Stadionul de Iarnă, un centru al pasiunii sportive, pentru a încheia ziua activă.",
+        "en": "Get on your bike and start your Tychy cycling tour at the Old Town Market Square. After short stops at the venerable St. Mary Magdalene Church and the City Museum, your route takes you to the industrial heart of the city: the Tyskie Brewery Museum. After a hearty lunch break and tour (no cycling afterward!), pedal on to the green spaces. The afternoon belongs to nature: first a break in the quiet Bear Park, followed by a relaxed lap around the beautiful Paprocany Lake. Finally, you'll roll to the Winter Stadium, a center of sporting passion, to round off an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein schneller, aber sättigender Snack. Ein aufgeschnittenes Baguette mit Pilzen, Käse und Ketchup."
+          },
+          {
+            "name": "Kiełbasa z grilla",
+            "tip": "Gegrillte polnische Wurst, perfekt für eine Stärkung am See."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Belohnen Sie sich mit einem dieser köstlichen, gefüllten Donuts."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Gyors, de laktató harapnivaló. Félbevágott bagett gombával, sajttal és ketchuppal."
+          },
+          {
+            "name": "Kiełbasa z grilla",
+            "tip": "Grillezett lengyel kolbász, tökéletes egy tóparti ebédhez."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Jutalmazza meg magát egy ilyen finom, töltött fánkkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "O gustare rapidă, dar sățioasă. O baghetă tăiată în două cu ciuperci, brânză și ketchup."
+          },
+          {
+            "name": "Kiełbasa z grilla",
+            "tip": "Cârnați polonezi la grătar, perfecți pentru o masă pe malul lacului."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Recompensați-vă cu una dintre aceste gogoși delicioase și umplute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "A quick but filling snack. A halved baguette with mushrooms, cheese, and ketchup."
+          },
+          {
+            "name": "Kiełbasa z grilla",
+            "tip": "Grilled Polish sausage, perfect for a lakeside meal."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Reward yourself with one of these delicious, filled donuts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Paprocany-See",
+            "tip": "Finden Sie einen abgelegenen Abschnitt des Weges für eine friedliche Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bärenpark",
+            "tip": "Weniger überlaufen als der See, ideal für eine ruhige Rast.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Morgens am Altstadtmarkt",
+            "tip": "Bevor die Menge kommt, ist der Platz ruhig und friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Paprocany-tónál",
+            "tip": "Találjon egy félreeső szakaszt az úton egy békés pihenőhöz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Medvepark",
+            "tip": "Kevésbé zsúfolt, mint a tó, ideális egy csendes pihenőhöz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Reggel az Óváros Főterén",
+            "tip": "Mielőtt a tömeg megérkezik, a tér csendes és békés.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de la Lacul Paprocany",
+            "tip": "Găsiți o secțiune izolată a traseului pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Urșilor",
+            "tip": "Mai puțin aglomerat decât lacul, ideal pentru o odihnă liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dimineața în Piața Orașului Vechi",
+            "tip": "Înainte de sosirea mulțimilor, piața este calmă și pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path at Paprocany Lake",
+            "tip": "Find a secluded section of the path for a peaceful break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bear Park",
+            "tip": "Less crowded than the lake, ideal for a quiet rest.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Morning at the Old Town Market Square",
+            "tip": "Before the crowds arrive, the square is calm and peaceful.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "In der Nähe des Sees gibt es möglicherweise Geschäfte für Radfahrer."
+          },
+          {
+            "name": "Lokale Produkte",
+            "tip": "Halten Sie Ausschau nach Honig oder anderen Spezialitäten aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpáros kiegészítők",
+            "tip": "A tó közelében lehetnek kerékpáros boltok."
+          },
+          {
+            "name": "Helyi termékek",
+            "tip": "Keresse a mézet vagy más regionális specialitásokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "S-ar putea să existe magazine pentru bicicliști în apropierea lacului."
+          },
+          {
+            "name": "Produse locale",
+            "tip": "Fiți atenți la miere sau alte specialități din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycling accessories",
+            "tip": "There might be shops for cyclists near the lake."
+          },
+          {
+            "name": "Local produce",
+            "tip": "Look out for honey or other regional specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein gutes Fahrradschloss mit.",
+          "Eine Karte oder GPS ist nützlich für die Navigation zwischen den Sehenswürdigkeiten.",
+          "Prüfen Sie den Wetterbericht, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Hozzon magával egy jó kerékpárzárat.",
+          "Térkép vagy GPS hasznos a látnivalók közötti navigáláshoz.",
+          "Indulás előtt ellenőrizze az időjárás-előrejelzést."
+        ],
+        "ro": [
+          "Aduceți un lacăt bun pentru bicicletă.",
+          "O hartă sau un GPS este util pentru navigarea între obiective.",
+          "Verificați prognoza meteo înainte de a pleca."
+        ],
+        "en": [
+          "Bring a good bike lock.",
+          "A map or GPS is useful for navigating between sights.",
+          "Check the weather forecast before you set off."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centru",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            18.991,
+            50.125
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag.",
+            "hu": "Parkoljon itt a délelőttre.",
+            "ro": "Parcați aici pentru dimineață.",
+            "en": "Park here for the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadtmarkt Tychy",
+            "hu": "Tychy Óváros Főtere",
+            "ro": "Piața Orașului Vechi din Tychy",
+            "en": "Tychy Old Town Market Square"
+          },
+          "coords": [
+            18.9925,
+            50.124
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Cluster-Stopp. Erkunden Sie die Umgebung zu Fuß.",
+            "hu": "Az első séta-klaszter megálló. Fedezze fel a környéket gyalog.",
+            "ro": "Prima oprire din cluster. Explorați zona pe jos.",
+            "en": "The first cluster stop. Explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Maria Magdalena",
+            "hu": "Szent Mária Magdolna-templom",
+            "ro": "Biserica Sf. Maria Magdalena",
+            "en": "St. Mary Magdalene Church"
+          },
+          "coords": [
+            18.9945,
+            50.1225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Markt entfernt.",
+            "hu": "Csak egy rövid séta a Főtértől.",
+            "ro": "La doar o scurtă plimbare de piață.",
+            "en": "Just a short walk from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauereimuseum Tyskie",
+            "hu": "Tyskie Sörfőzde Múzeum",
+            "ro": "Muzeul Fabricii de Bere Tyskie",
+            "en": "Tyskie Brewery Museum"
+          },
+          "coords": [
+            18.973,
+            50.133
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Hier gibt es Parkplätze. Mittagessen in der Nähe möglich.",
+            "hu": "Vezessen a következő klaszterhez. Itt van parkoló. Ebéd a közelben lehetséges.",
+            "ro": "Conduceți la următorul cluster. Există parcare aici. Prânzul este posibil în apropiere.",
+            "en": "Drive to the next cluster. Parking is available here. Lunch is possible nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Paprocany-See",
+            "hu": "Paprocany-tó",
+            "ro": "Lacul Paprocany",
+            "en": "Paprocany Lake"
+          },
+          "coords": [
+            18.9655,
+            50.101
+          ],
+          "category": "lake",
+          "arrive_at": "13:47",
+          "stay_min": 120,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der letzte Stopp des Tages. Parken Sie und genießen Sie einen langen Spaziergang.",
+            "hu": "A nap utolsó megállója. Parkoljon le és élvezzen egy hosszú sétát.",
+            "ro": "Ultima oprire a zilei. Parcați și bucurați-vă de o plimbare lungă.",
+            "en": "The last stop of the day. Park and enjoy a long walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bärenpark",
+            "hu": "Medvepark",
+            "ro": "Parcul Urșilor",
+            "en": "Bear Park"
+          },
+          "coords": [
+            18.958,
+            50.115
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom See aus leicht zu Fuß erreichbar, ein ruhiger Ort zum Entspannen.",
+            "hu": "A tótól könnyen megközelíthető, csendes hely a pihenésre.",
+            "ro": "Ușor de ajuns pe jos de la lac, un loc liniștit pentru relaxare.",
+            "en": "Easily accessible on foot from the lake, a quiet place to relax."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Tychy ist auf maximale Bequemlichkeit ausgelegt. Parken Sie Ihr Auto im Zentrum und erkunden Sie den ersten Cluster zu Fuß: den belebten Altstadtmarkt und die beeindruckende St. Maria Magdalena Kirche. Zurück im Auto fahren Sie zum zweiten Cluster, dem Tyskie Brauereimuseum, wo Sie in die Braukunst eintauchen und zu Mittag essen. Der Nachmittag gehört der Natur. Eine kurze Fahrt bringt Sie zum Paprocany-See, Ihrem dritten Cluster. Hier parken Sie erneut und verbringen den Rest des Tages mit Spaziergängen am Wasser und einem Abstecher in den ruhigen Bärenpark, bevor Sie die Heimreise antreten.",
+        "hu": "Tychy-i autós napja a maximális kényelemre van tervezve. Parkolja le autóját a központban, és fedezze fel gyalog az első klasztert: a nyüzsgő Óváros Főteret és a lenyűgöző Szent Mária Magdolna-templomot. Vissza az autóba, és irány a második klaszter, a Tyskie Sörfőzde Múzeum, ahol elmerülhet a sörfőzés művészetében és megebédelhet. A délután a természeté. Egy rövid autóút a Paprocany-tóhoz, a harmadik klaszterhez vezet. Itt újra parkol, és a nap hátralévő részét a vízparti sétákkal és a csendes Medveparkban tett kitérővel tölti, mielőtt hazaindulna.",
+        "ro": "Ziua dumneavoastră cu mașina în Tychy este concepută pentru confort maxim. Parcați mașina în centru și explorați primul cluster pe jos: Piața plină de viață a Orașului Vechi și impresionanta Biserică Sf. Maria Magdalena. Înapoi în mașină, conduceți spre al doilea cluster, Muzeul Fabricii de Bere Tyskie, unde vă veți cufunda în arta berii și veți lua prânzul. După-amiaza este dedicată naturii. O scurtă călătorie cu mașina vă duce la Lacul Paprocany, al treilea cluster. Aici parcați din nou și petreceți restul zilei cu plimbări pe malul apei și o vizită în liniștitul Parc al Urșilor înainte de a vă întoarce acasă.",
+        "en": "Your car day in Tychy is designed for maximum convenience. Park your car in the center and explore the first cluster on foot: the bustling Old Town Market Square and the impressive St. Mary Magdalene Church. Back in the car, drive to the second cluster, the Tyskie Brewery Museum, where you'll immerse yourself in the art of brewing and have lunch. The afternoon is dedicated to nature. A short drive takes you to Paprocany Lake, your third cluster. Here you'll park again and spend the rest of the day with walks by the water and a visit to the quiet Bear Park before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restauracja Browarowa Tyskie",
+            "tip": "Probieren Sie traditionelle schlesische Gerichte direkt an der Quelle des berühmten Bieres."
+          },
+          {
+            "name": "Karczma w lesie",
+            "tip": "Suchen Sie nach einer traditionellen Taverne in der Nähe des Sees für eine rustikale Mahlzeit."
+          },
+          {
+            "name": "Lody (Eiscreme)",
+            "tip": "Ein Muss an einem sonnigen Tag am Paprocany-See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restauracja Browarowa Tyskie",
+            "tip": "Kóstolja meg a hagyományos sziléziai ételeket közvetlenül a híres sör forrásánál."
+          },
+          {
+            "name": "Karczma w lesie",
+            "tip": "Keressen egy hagyományos csárdát a tó közelében egy rusztikus étkezéshez."
+          },
+          {
+            "name": "Lody (Fagylalt)",
+            "tip": "Kötelező egy napsütéses napon a Paprocany-tónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restauracja Browarowa Tyskie",
+            "tip": "Încercați mâncăruri tradiționale sileziene chiar la sursa faimoasei beri."
+          },
+          {
+            "name": "Karczma w lesie",
+            "tip": "Căutați o tavernă tradițională lângă lac pentru o masă rustică."
+          },
+          {
+            "name": "Lody (Înghețată)",
+            "tip": "O necesitate într-o zi însorită la Lacul Paprocany."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restauracja Browarowa Tyskie",
+            "tip": "Try traditional Silesian dishes right at the source of the famous beer."
+          },
+          {
+            "name": "Karczma w lesie",
+            "tip": "Look for a traditional tavern near the lake for a rustic meal."
+          },
+          {
+            "name": "Lody (Ice Cream)",
+            "tip": "A must on a sunny day at Paprocany Lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Versteckte Pfade im Bärenpark",
+            "tip": "Weichen Sie von den Hauptwegen ab und finden Sie absolute Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Das Westufer des Paprocany-Sees",
+            "tip": "Oft ruhiger als die Bereiche in der Nähe der Hauptparkplätze.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen am Markt",
+            "tip": "Kommen Sie vor 9 Uhr an, um die Stille des leeren Platzes zu erleben.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rejtett ösvények a Medveparkban",
+            "tip": "Térjen le a fő utakról, és találjon teljes nyugalmat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Paprocany-tó nyugati partja",
+            "tip": "Gyakran csendesebb, mint a fő parkolókhoz közeli területek.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a Főtéren",
+            "tip": "Érkezzen 9 óra előtt, hogy megtapasztalja az üres tér csendjét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărări ascunse în Parcul Urșilor",
+            "tip": "Abateți-vă de la potecile principale și găsiți liniște absolută.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul de vest al lacului Paprocany",
+            "tip": "Adesea mai liniștit decât zonele din apropierea parcărilor principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme în piață",
+            "tip": "Ajungeți înainte de ora 9 pentru a experimenta liniștea pieței goale.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hidden paths in the Bear Park",
+            "tip": "Deviate from the main paths and find absolute tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The west shore of Paprocany Lake",
+            "tip": "Often quieter than the areas near the main parking lots.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning at the market square",
+            "tip": "Arrive before 9 am to experience the silence of the empty square.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Großeinkauf im Tyskie-Shop",
+            "tip": "Nutzen Sie das Auto, um einen Vorrat an Bier und Souvenirs zu kaufen."
+          },
+          {
+            "name": "Regionale Märkte außerhalb",
+            "tip": "Mit dem Auto können Sie leicht zu Bauernmärkten in der Umgebung fahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nagybevásárlás a Tyskie boltban",
+            "tip": "Használja ki az autót, hogy bevásároljon sörből és ajándéktárgyakból."
+          },
+          {
+            "name": "Környező termelői piacok",
+            "tip": "Autóval könnyen eljuthat a környékbeli termelői piacokra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cumpărături în vrac la magazinul Tyskie",
+            "tip": "Folosiți mașina pentru a vă aproviziona cu bere și suveniruri."
+          },
+          {
+            "name": "Piețe regionale din afara orașului",
+            "tip": "Cu mașina puteți ajunge cu ușurință la piețele agricole din zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulk shopping at the Tyskie shop",
+            "tip": "Use the car to stock up on beer and souvenirs."
+          },
+          {
+            "name": "Regional markets outside the city",
+            "tip": "With a car, you can easily drive to farmers' markets in the area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um Parkplätze in der Nähe der Cluster zu finden.",
+          "Achten Sie auf Parkgebühren und -beschränkungen im Stadtzentrum.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders am späten Nachmittag."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a klaszterek közelében lévő parkolók megtalálásához.",
+          "Figyeljen a parkolási díjakra és korlátozásokra a városközpontban.",
+          "Tervezzen plusz időt a forgalomra, különösen késő délután."
+        ],
+        "ro": [
+          "Folosiți o aplicație de navigație pentru a găsi parcări în apropierea clusterelor.",
+          "Fiți atenți la taxele și restricțiile de parcare din centrul orașului.",
+          "Planificați timp suplimentar pentru trafic, mai ales după-amiaza târziu."
+        ],
+        "en": [
+          "Use a navigation app to find parking near the clusters.",
+          "Be aware of parking fees and restrictions in the city center.",
+          "Plan for extra time for traffic, especially in the late afternoon."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 10.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Haltestelle Zentrum",
+            "hu": "Központi megálló",
+            "ro": "Stația centrală",
+            "en": "Central Stop"
+          },
+          "coords": [
+            18.9915,
+            50.1245
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+            "en": "Buy a day ticket for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadtmarkt Tychy",
+            "hu": "Tychy Óváros Főtere",
+            "ro": "Piața Orașului Vechi din Tychy",
+            "en": "Tychy Old Town Market Square"
+          },
+          "coords": [
+            18.9925,
+            50.124
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:13",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Rundgang durch das erste Cluster hier.",
+            "hu": "Indítsa innen a sétát az első klaszteren keresztül.",
+            "ro": "Începeți turul primului cluster de aici.",
+            "en": "Start your tour of the first cluster here."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Tychy",
+            "hu": "Tychy Városi Múzeum",
+            "ro": "Muzeul Municipal Tychy",
+            "en": "Tychy City Museum"
+          },
+          "coords": [
+            18.9901,
+            50.1255
+          ],
+          "category": "museums",
+          "arrive_at": "10:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Markt, um in die Geschichte einzutauchen.",
+            "hu": "Egy rövid séta a piactól, hogy elmerüljön a történelemben.",
+            "ro": "O scurtă plimbare de la piață pentru a vă cufunda în istorie.",
+            "en": "A short walk from the market to dive into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauereimuseum Tyskie",
+            "hu": "Tyskie Sörfőzde Múzeum",
+            "ro": "Muzeul Fabricii de Bere Tyskie",
+            "en": "Tyskie Brewery Museum"
+          },
+          "coords": [
+            18.973,
+            50.133
+          ],
+          "category": "museums",
+          "arrive_at": "11:59",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zweiten Cluster. Planen Sie Zeit für die Wartezeit ein.",
+            "hu": "Menjen busszal a második klaszterhez. Tervezzen időt a várakozásra.",
+            "ro": "Luați un autobuz spre al doilea cluster. Planificați timp pentru așteptare.",
+            "en": "Take a bus to the second cluster. Plan time for waiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Paprocany-See",
+            "hu": "Paprocany-tó",
+            "ro": "Lacul Paprocany",
+            "en": "Paprocany Lake"
+          },
+          "coords": [
+            18.9655,
+            50.101
+          ],
+          "category": "lake",
+          "arrive_at": "14:59",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie zum Natur-Cluster des Tages.",
+            "hu": "Egy újabb buszozás elviszi Önt a nap természeti klaszteréhez.",
+            "ro": "O altă călătorie cu autobuzul vă duce la clusterul natural al zilei.",
+            "en": "Another bus ride takes you to the day's nature cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade",
+            "hu": "Tóparti sétány",
+            "ro": "Promenada lacului",
+            "en": "Lakeside Promenade"
+          },
+          "coords": [
+            18.968,
+            50.102
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie nach der Ankunft am See entlang des Ufers.",
+            "hu": "A tóhoz érkezve sétáljon végig a parton.",
+            "ro": "Plimbați-vă de-a lungul malului după ce ajungeți la lac.",
+            "en": "Stroll along the shore after arriving at the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit einer Tageskarte für den öffentlichen Nahverkehr erkunden Sie Tychy effizient. Der erste Bus bringt Sie ins Zentrum, wo Sie den Altstadtmarkt und das Stadtmuseum zu Fuß entdecken. Ein weiterer Bus bringt Sie zum zweiten Cluster, dem berühmten Tyskie Brauereimuseum, für eine Tour und ein Mittagessen. Der Nachmittag ist für die Natur reserviert. Die letzte Busfahrt des Tages führt Sie zum weitläufigen Paprocany-See. Dort angekommen, verbringen Sie den Rest des Tages mit einem entspannten Spaziergang entlang der Promenade, bevor Sie den Bus zurück ins Zentrum oder zu Ihrem Hotel nehmen.",
+        "hu": "Egy napijeggyel hatékonyan fedezheti fel Tychyt. Az első busz a központba viszi, ahol gyalogosan fedezi fel az Óváros Főteret és a Városi Múzeumot. Egy másik busz elviszi a második klaszterhez, a híres Tyskie Sörgyári Múzeumba, egy túrára és ebédre. A délután a természeté. A nap utolsó buszútja a tágas Paprocany-tóhoz vezet. Odaérve a nap hátralévő részét egy pihentető sétával tölti a sétányon, mielőtt visszautazna a központba vagy a szállodájába.",
+        "ro": "Cu un bilet de o zi, explorați Tychy eficient. Primul autobuz vă duce în centru, unde descoperiți pe jos Piața Orașului Vechi și Muzeul Municipal. Un alt autobuz vă duce la al doilea cluster, faimosul Muzeu al Fabricii de Bere Tyskie, pentru un tur și prânz. După-amiaza este rezervată naturii. Ultima călătorie cu autobuzul a zilei vă duce la vastul Lac Paprocany. Odată ajunși, petreceți restul zilei cu o plimbare relaxantă de-a lungul promenadei, înainte de a lua autobuzul înapoi în centru sau la hotel.",
+        "en": "Using a public transport day pass, you'll explore Tychy efficiently. The first bus takes you to the center, where you'll discover the Old Town Market Square and the City Museum on foot. Another bus takes you to the second cluster, the famous Tyskie Brewery Museum, for a tour and lunch. The afternoon is reserved for nature. The last bus ride of the day leads you to the expansive Paprocany Lake. Once there, you'll spend the rest of the day on a relaxing stroll along the promenade before taking the bus back to the center or your hotel."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro am Busbahnhof",
+            "tip": "Schnappen Sie sich einen schnellen Imbiss, während Sie auf Ihren nächsten Bus warten."
+          },
+          {
+            "name": "Kawiarnia (Café)",
+            "tip": "Ein Stück Kuchen und Kaffee ist die perfekte Stärkung am Nachmittag."
+          },
+          {
+            "name": "Gofr (Waffel)",
+            "tip": "Am See finden Sie Stände, die heiße Waffeln mit verschiedenen Belägen verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bisztró a buszpályaudvaron",
+            "tip": "Kapjon be egy gyors falatot, amíg a következő buszra vár."
+          },
+          {
+            "name": "Kawiarnia (Kávézó)",
+            "tip": "Egy szelet sütemény és egy kávé tökéletes délutáni feltöltődés."
+          },
+          {
+            "name": "Gofr (Gofri)",
+            "tip": "A tó mellett standokat talál, ahol forró gofrit árulnak különféle feltétekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro la autogară",
+            "tip": "Luați o gustare rapidă în timp ce așteptați următorul autobuz."
+          },
+          {
+            "name": "Kawiarnia (Cafenea)",
+            "tip": "O felie de prăjitură și o cafea sunt reîncărcarea perfectă de după-amiază."
+          },
+          {
+            "name": "Gofr (Vafă)",
+            "tip": "Lângă lac veți găsi tarabe care vând vafe calde cu diverse toppinguri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro at the bus station",
+            "tip": "Grab a quick bite while waiting for your next bus."
+          },
+          {
+            "name": "Kawiarnia (Coffee Shop)",
+            "tip": "A slice of cake and a coffee are the perfect afternoon pick-me-up."
+          },
+          {
+            "name": "Gofr (Waffle)",
+            "tip": "You'll find stalls by the lake selling hot waffles with various toppings."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Genießen Sie die Aussicht und eine ruhige Fahrt zwischen den Clustern.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank mit Blick auf den Paprocany-See",
+            "tip": "Der perfekte Ort, um auf den Bus zurück zu warten und die Landschaft zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Leseecke im Stadtmuseum",
+            "tip": "Einige Museen haben ruhige Bereiche zum Ausruhen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Élvezze a kilátást és a csendes utazást a klaszterek között.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad, kilátással a Paprocany-tóra",
+            "tip": "Tökéletes hely a visszaútra várva, és élvezni a tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Olvasósarok a Városi Múzeumban",
+            "tip": "Néhány múzeumban vannak csendes részek a pihenésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Bucurați-vă de priveliște și de o călătorie liniștită între clustere.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă cu vedere la Lacul Paprocany",
+            "tip": "Locul perfect pentru a aștepta autobuzul de întoarcere și a vă bucura de peisaj.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colț de lectură la Muzeul Municipal",
+            "tip": "Unele muzee au zone liniștite pentru odihnă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upstairs on a double-decker bus",
+            "tip": "Enjoy the view and a quiet ride between clusters.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench overlooking Paprocany Lake",
+            "tip": "The perfect place to wait for the bus back and enjoy the scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reading corner in the City Museum",
+            "tip": "Some museums have quiet areas for resting.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Kaufen Sie Zeitschriften oder Snacks für die Fahrt."
+          },
+          {
+            "name": "Kleine Läden in der Nähe der Haltestellen",
+            "tip": "Halten Sie die Augen offen nach einzigartigen Funden in der Nähe der Haltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk az állomáson",
+            "tip": "Vásároljon újságot vagy rágcsálnivalót az útra."
+          },
+          {
+            "name": "Kis üzletek a megállók közelében",
+            "tip": "Tartsa nyitva a szemét egyedi leletekért a megállók közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Cumpărați reviste sau gustări pentru călătorie."
+          },
+          {
+            "name": "Magazine mici lângă stații",
+            "tip": "Fiți cu ochii în patru pentru descoperiri unice în apropierea stațiilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the station",
+            "tip": "Buy magazines or snacks for the journey."
+          },
+          {
+            "name": "Small shops near the stops",
+            "tip": "Keep an eye out for unique finds near the stops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Validieren Sie Ihr Ticket bei jeder Fahrt, um Strafen zu vermeiden.",
+          "Planen Sie Pufferzeiten für mögliche Verspätungen ein."
+        ],
+        "hu": [
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Érvényesítse a jegyét minden utazáskor a büntetések elkerülése érdekében.",
+          "Tervezzen pufferidőt az esetleges késésekre."
+        ],
+        "ro": [
+          "Descărcați aplicația locală de transport public pentru orare în timp real.",
+          "Validați biletul la fiecare călătorie pentru a evita amenzile.",
+          "Planificați timp tampon pentru posibile întârzieri."
+        ],
+        "en": [
+          "Download the local public transport app for real-time schedules.",
+          "Validate your ticket on every ride to avoid fines.",
+          "Plan for buffer time for potential delays."
+        ]
+      }
+    }
+  }
+}

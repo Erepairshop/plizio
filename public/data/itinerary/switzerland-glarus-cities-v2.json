@@ -1,0 +1,1252 @@
+{
+  "city_id": "switzerland-glarus-cities-v2",
+  "anchor": {
+    "name": "Glarus",
+    "coords": [
+      47.0396,
+      9.0667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Landsgemeindeplatz",
+            "hu": "Landsgemeindeplatz",
+            "ro": "Piața Landsgemeinde",
+            "en": "Landsgemeindeplatz"
+          },
+          "coords": [
+            9.0669,
+            47.0401
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spüren Sie die Geschichte des Ortes, an dem die direkte Demokratie noch gelebt wird.",
+            "hu": "Érezze a történelem szellemét a téren, ahol a közvetlen demokrácia ma is él.",
+            "ro": "Simțiți istoria locului unde democrația directă este încă vie.",
+            "en": "Feel the history of the square where direct democracy is still practiced."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche Glarus",
+            "hu": "Glarusi városi templom",
+            "ro": "Biserica orașului Glarus",
+            "en": "Glarus City Church"
+          },
+          "coords": [
+            9.0658,
+            47.0392
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoromanische Architektur, die nach dem großen Brand von 1861 entstand.",
+            "hu": "Csodálja meg az 1861-es nagy tűzvész után épült neoromán építészetet.",
+            "ro": "Admirați arhitectura neo-romanică, reconstruită după marele incendiu din 1861.",
+            "en": "Admire the Neo-Romanesque architecture, rebuilt after the great fire of 1861."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthaus Glarus",
+            "hu": "Glarusi Művészeti Múzeum",
+            "ro": "Muzeul de Artă Glarus",
+            "en": "Glarus Art Museum"
+          },
+          "coords": [
+            9.0688,
+            47.0369
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Kunst in einem charmanten, historischen Gebäude.",
+            "hu": "Fedezzen fel kortárs művészetet egy bájos, történelmi épületben.",
+            "ro": "Descoperiți arta contemporană într-o clădire istorică fermecătoare.",
+            "en": "Discover contemporary art in a charming, historic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Anna-Göldi-Museum",
+            "hu": "Anna Göldi Múzeum",
+            "ro": "Muzeul Anna Göldi",
+            "en": "Anna Göldi Museum"
+          },
+          "coords": [
+            9.0695,
+            47.0365
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ergreifendes Museum, das der letzten als Hexe hingerichteten Frau Europas gewidmet ist.",
+            "hu": "Egy megindító múzeum, amelyet Európa utolsó, boszorkányként kivégzett asszonyának szenteltek.",
+            "ro": "Un muzeu emoționant dedicat ultimei femei executate ca vrăjitoare în Europa.",
+            "en": "A poignant museum dedicated to the last woman executed as a witch in Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Volksgarten",
+            "hu": "Volksgarten (Népkert)",
+            "ro": "Grădina Publică Volksgarten",
+            "en": "Volksgarten (Public Garden)"
+          },
+          "coords": [
+            9.0711,
+            47.0385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Mittagspause oder einen entspannten Spaziergang am Fluss.",
+            "hu": "Ideális hely egy ebédszünetre vagy egy pihentető sétára a folyóparton.",
+            "ro": "Un loc ideal pentru o pauză de prânz sau o plimbare relaxantă pe malul râului.",
+            "en": "An ideal spot for a lunch break or a relaxing stroll by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Gerichtshaus",
+            "hu": "Bíróság épülete",
+            "ro": "Palatul de Justiție",
+            "en": "Courthouse"
+          },
+          "coords": [
+            9.065,
+            47.0405
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Fassade dieses wichtigen kantonalen Gebäudes.",
+            "hu": "Csodálja meg ennek a fontos kantonális épületnek a lenyűgöző homlokzatát.",
+            "ro": "Admirați fațada impunătoare a acestei importante clădiri cantonale.",
+            "en": "Admire the imposing facade of this important cantonal building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Glarus beginnt am historischen Landsgemeindeplatz, dem Herzen der direkten Demokratie. Am Vormittag erkunden Sie die beeindruckende Stadtkirche, ein Symbol des Wiederaufbaus. Mittags tauchen Sie in die Welt der Kunst im Kunsthaus und in die bewegende Geschichte im Anna-Göldi-Museum ein. Der Nachmittag lädt zu einer entspannten Pause im Volksgarten am Flussufer ein, bevor Sie den Tag mit einem Blick auf das stattliche Gerichtshaus abrunden. Ein Spaziergang voller Geschichte und Kultur.",
+        "hu": "Glarusi napja a történelmi Landsgemeindeplatzon, a közvetlen demokrácia szívében kezdődik. Délelőtt felfedezi a lenyűgöző városi templomot, az újjáépítés szimbólumát. Délben elmerül a művészet világában a Kunsthausban és a megrázó történelemben az Anna Göldi Múzeumban. A délután egy pihentető szünetre hív a folyóparti Volksgartenben, mielőtt a napot a tekintélyes bírósági épület megtekintésével zárja. Egy séta tele történelemmel és kultúrával.",
+        "ro": "Ziua dvs. în Glarus începe în istorica Piață Landsgemeinde, inima democrației directe. În cursul dimineții, explorați impresionanta biserică a orașului, un simbol al reconstrucției. La prânz, vă scufundați în lumea artei la Kunsthaus și în istoria emoționantă la Muzeul Anna Göldi. După-amiaza vă invită la o pauză relaxantă în Volksgarten, pe malul râului, înainte de a încheia ziua cu o privire asupra impunătorului Palat de Justiție. O plimbare plină de istorie și cultură.",
+        "en": "Your day in Glarus begins at the historic Landsgemeindeplatz, the heart of direct democracy. In the morning, you'll explore the impressive city church, a symbol of reconstruction. At noon, you'll delve into the world of art at the Kunsthaus and the moving history at the Anna Göldi Museum. The afternoon invites you for a relaxing break in the Volksgarten by the river before rounding off the day with a view of the stately Courthouse. A walk full of history and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Glarner Kalberwurst",
+            "tip": "Eine lokale Spezialität, die Sie in traditionellen Restaurants probieren sollten."
+          },
+          {
+            "name": "Restaurant Schützenhaus",
+            "tip": "Bietet authentische Schweizer Küche mit herrlicher Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glarusi borjúkolbász (Kalberwurst)",
+            "tip": "Helyi specialitás, amit érdemes megkóstolni a hagyományos éttermekben."
+          },
+          {
+            "name": "Schützenhaus Étterem",
+            "tip": "Autentikus svájci konyhát kínál csodálatos kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Glarner Kalberwurst (cârnat de vițel)",
+            "tip": "O specialitate locală pe care trebuie să o încercați în restaurantele tradiționale."
+          },
+          {
+            "name": "Restaurant Schützenhaus",
+            "tip": "Oferă bucătărie elvețiană autentică cu o priveliște magnifică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Glarner Kalberwurst (veal sausage)",
+            "tip": "A local specialty you should try in traditional restaurants."
+          },
+          {
+            "name": "Restaurant Schützenhaus",
+            "tip": "Offers authentic Swiss cuisine with a magnificent view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg der Linth",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke im Volksgarten",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die alpine Landschaft.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Linth folyóparti sétány",
+            "tip": "Egy csendes séta a folyó mentén, hogy elmeneküljön a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Volksgartenben",
+            "tip": "Keressen egy csendes padot, és élvezze az alpesi tájat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe malul râului Linth",
+            "tip": "O plimbare liniștită de-a lungul râului pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Băncile din Volksgarten",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de peisajul alpin.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the River Linth",
+            "tip": "A quiet walk along the river to escape the hustle and bustle of the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches in the Volksgarten",
+            "tip": "Find a quiet bench and enjoy the alpine scenery.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Glarner Pastete",
+            "tip": "Eine süße oder salzige Blätterteigspezialität, ein perfektes Souvenir."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Findet an bestimmten Tagen statt und bietet lokale Produkte und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glarusi pástétom (Pastete)",
+            "tip": "Édes vagy sós leveles tészta specialitás, tökéletes ajándék."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Bizonyos napokon tartják, helyi termékeket és kézműves árukat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Glarner Pastete (plăcintă cu foietaj)",
+            "tip": "O specialitate dulce sau sărată din foietaj, un suvenir perfect."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Are loc în anumite zile și oferă produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Glarner Pastete (pastry)",
+            "tip": "A sweet or savory puff pastry specialty, a perfect souvenir."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Held on specific days, offering local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Glarus am besten zu Fuß erkundet wird.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel Glarust a legjobb gyalog felfedezni.",
+          "A legtöbb látnivaló közel van egymáshoz.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece Glarus este cel mai bine explorat pe jos.",
+          "Majoritatea atracțiilor sunt situate aproape una de alta.",
+          "Verificați în avans orele de program ale muzeelor."
+        ],
+        "en": [
+          "Wear comfortable shoes as Glarus is best explored on foot.",
+          "Most of the attractions are located close to each other.",
+          "Check the opening hours of the museums in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Landsgemeindeplatz",
+            "hu": "Landsgemeindeplatz",
+            "ro": "Piața Landsgemeinde",
+            "en": "Landsgemeindeplatz"
+          },
+          "coords": [
+            9.0669,
+            47.0401
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour im politischen Zentrum des Kantons.",
+            "hu": "Kezdje a kerékpártúrát a kanton politikai központjában.",
+            "ro": "Începeți turul cu bicicleta în centrul politic al cantonului.",
+            "en": "Start your bike tour in the political center of the canton."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche Glarus",
+            "hu": "Glarusi városi templom",
+            "ro": "Biserica orașului Glarus",
+            "en": "Glarus City Church"
+          },
+          "coords": [
+            9.0658,
+            47.0392
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie die Symmetrie der Zwillingstürme.",
+            "hu": "Parkolja le a biciklit, és csodálja meg az ikertornyok szimmetriáját.",
+            "ro": "Parcați bicicleta și admirați simetria turnurilor gemene.",
+            "en": "Park your bike and admire the symmetry of the twin towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Volksgarten",
+            "hu": "Volksgarten (Népkert)",
+            "ro": "Grădina Publică Volksgarten",
+            "en": "Volksgarten (Public Garden)"
+          },
+          "coords": [
+            9.0711,
+            47.0385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:09",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Radtour zum Fluss für eine erfrischende Pause.",
+            "hu": "Egy rövid biciklizés a folyóhoz egy frissítő szünetért.",
+            "ro": "O scurtă plimbare cu bicicleta până la râu pentru o pauză revigorantă.",
+            "en": "A short bike ride to the river for a refreshing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthaus & Anna-Göldi-Museum",
+            "hu": "Kunsthaus és Anna Göldi Múzeum",
+            "ro": "Kunsthaus și Muzeul Anna Göldi",
+            "en": "Kunsthaus & Anna Göldi Museum"
+          },
+          "coords": [
+            9.0692,
+            47.0367
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kombinieren Sie Kunst und Geschichte. Die Museen liegen praktisch nebeneinander.",
+            "hu": "Kombinálja a művészetet és a történelmet. A múzeumok gyakorlatilag egymás mellett vannak.",
+            "ro": "Combinați arta și istoria. Muzeele sunt practic unul lângă celălalt.",
+            "en": "Combine art and history. The museums are practically next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Kantonsschule Glarus",
+            "hu": "Glarusi Kantoniskola",
+            "ro": "Școala Cantonală Glarus",
+            "en": "Glarus Cantonal School"
+          },
+          "coords": [
+            9.062,
+            47.035
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:24",
+          "stay_min": 20,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein architektonisch interessantes Gebäude, das einen Abstecher wert ist.",
+            "hu": "Egy építészetileg érdekes épület, ami megér egy kitérőt.",
+            "ro": "O clădire interesantă din punct de vedere arhitectural, care merită un ocol.",
+            "en": "An architecturally interesting building that is worth a detour."
+          }
+        },
+        {
+          "name": {
+            "de": "Güterschuppen",
+            "hu": "Güterschuppen",
+            "ro": "Güterschuppen",
+            "en": "Güterschuppen"
+          },
+          "coords": [
+            9.0631,
+            47.0423
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:53",
+          "stay_min": 20,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm, vielleicht gibt es eine interessante Veranstaltung.",
+            "hu": "Ellenőrizze a programot, talán van egy érdekes esemény.",
+            "ro": "Verificați programul, poate există un eveniment interesant.",
+            "en": "Check the schedule, there might be an interesting event."
+          }
+        },
+        {
+          "name": {
+            "de": "Gerichtshaus",
+            "hu": "Bíróság épülete",
+            "ro": "Palatul de Justiție",
+            "en": "Courthouse"
+          },
+          "coords": [
+            9.065,
+            47.0405
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:16",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Blick auf dieses beeindruckende Regierungsgebäude.",
+            "hu": "Fejezze be a túrát ennek a lenyűgöző kormányzati épületnek a megtekintésével.",
+            "ro": "Încheiați turul cu o privire la această clădire guvernamentală impresionantă.",
+            "en": "End your tour with a look at this impressive government building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Landsgemeindeplatz. Der Vormittag führt Sie zur Stadtkirche und zu einer Pause im Volksgarten. Mittags erwartet Sie eine doppelte Dosis Kultur im Kunsthaus und Anna-Göldi-Museum. Am Nachmittag radeln Sie zu architektonischen Highlights wie der Kantonsschule und dem Kulturzentrum Güterschuppen, bevor Sie Ihre Tour am imposanten Gerichtshaus beenden. Eine aktive Art, die Vielfalt von Glarus zu erleben.",
+        "hu": "Pattanjon biciklire, és induljon a Landsgemeindeplatzról. A délelőtt a városi templomhoz és egy pihenőhöz vezet a Volksgartenben. Délben dupla adag kultúra várja a Kunsthausban és az Anna Göldi Múzeumban. Délután olyan építészeti látnivalókhoz teker, mint a Kantoniskola és a Güterschuppen kulturális központ, mielőtt a túrát a lenyűgöző Bíróságnál fejezi be. Aktív módja Glarus sokszínűségének megtapasztalásának.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Landsgemeinde. Dimineața vă duce la biserica orașului și la o pauză în Volksgarten. La prânz, vă așteaptă o doză dublă de cultură la Kunsthaus și Muzeul Anna Göldi. După-amiaza, pedalați spre atracții arhitecturale precum Școala Cantonală și centrul cultural Güterschuppen, înainte de a încheia turul la impunătorul Palat de Justiție. Un mod activ de a experimenta diversitatea din Glarus.",
+        "en": "Get on your bike and start at Landsgemeindeplatz. The morning takes you to the city church and for a break in the Volksgarten. A double dose of culture awaits you at noon at the Kunsthaus and the Anna Göldi Museum. In the afternoon, you'll cycle to architectural highlights like the Cantonal School and the Güterschuppen cultural center before finishing your tour at the imposing Courthouse. An active way to experience the diversity of Glarus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Glarner Kalberwurst",
+            "tip": "Eine lokale Spezialität, die Sie in traditionellen Restaurants probieren sollten."
+          },
+          {
+            "name": "Restaurant Schützenhaus",
+            "tip": "Bietet authentische Schweizer Küche mit herrlicher Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glarusi borjúkolbász (Kalberwurst)",
+            "tip": "Helyi specialitás, amit érdemes megkóstolni a hagyományos éttermekben."
+          },
+          {
+            "name": "Schützenhaus Étterem",
+            "tip": "Autentikus svájci konyhát kínál csodálatos kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Glarner Kalberwurst (cârnat de vițel)",
+            "tip": "O specialitate locală pe care trebuie să o încercați în restaurantele tradiționale."
+          },
+          {
+            "name": "Restaurant Schützenhaus",
+            "tip": "Oferă bucătărie elvețiană autentică cu o priveliște magnifică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Glarner Kalberwurst (veal sausage)",
+            "tip": "A local specialty you should try in traditional restaurants."
+          },
+          {
+            "name": "Restaurant Schützenhaus",
+            "tip": "Offers authentic Swiss cuisine with a magnificent view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg der Linth",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke im Volksgarten",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die alpine Landschaft.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Linth folyóparti sétány",
+            "tip": "Egy csendes séta a folyó mentén, hogy elmeneküljön a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Volksgartenben",
+            "tip": "Keressen egy csendes padot, és élvezze az alpesi tájat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe malul râului Linth",
+            "tip": "O plimbare liniștită de-a lungul râului pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Băncile din Volksgarten",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de peisajul alpin.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the River Linth",
+            "tip": "A quiet walk along the river to escape the hustle and bustle of the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches in the Volksgarten",
+            "tip": "Find a quiet bench and enjoy the alpine scenery.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Glarner Pastete",
+            "tip": "Eine süße oder salzige Blätterteigspezialität, ein perfektes Souvenir."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Findet an bestimmten Tagen statt und bietet lokale Produkte und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glarusi pástétom (Pastete)",
+            "tip": "Édes vagy sós leveles tészta specialitás, tökéletes ajándék."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Bizonyos napokon tartják, helyi termékeket és kézműves árukat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Glarner Pastete (plăcintă cu foietaj)",
+            "tip": "O specialitate dulce sau sărată din foietaj, un suvenir perfect."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Are loc în anumite zile și oferă produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Glarner Pastete (pastry)",
+            "tip": "A sweet or savory puff pastry specialty, a perfect souvenir."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Held on specific days, offering local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Glarus ist relativ flach und fahrradfreundlich.",
+          "Schließen Sie Ihr Fahrrad an den Hauptsehenswürdigkeiten gut ab.",
+          "Einige Wege führen am Fluss entlang und bieten schöne Ausblicke."
+        ],
+        "hu": [
+          "Glarus viszonylag sík és biciklibarát.",
+          "A fő látnivalóknál zárja le jól a kerékpárját.",
+          "Néhány út a folyó mentén vezet, gyönyörű kilátást nyújtva."
+        ],
+        "ro": [
+          "Glarus este relativ plat și prietenos cu bicicliștii.",
+          "Asigurați-vă bicicleta bine la principalele atracții.",
+          "Unele trasee merg de-a lungul râului și oferă priveliști frumoase."
+        ],
+        "en": [
+          "Glarus is relatively flat and bike-friendly.",
+          "Lock your bike securely at the main attractions.",
+          "Some paths run along the river, offering beautiful views."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Spaziergang zum Landsgemeindeplatz",
+            "hu": "Parkoló a központban és séta a Landsgemeindeplatzhoz",
+            "ro": "Parcare în centru și plimbare spre Piața Landsgemeinde",
+            "en": "Central Car Park & Walk to Landsgemeindeplatz"
+          },
+          "coords": [
+            9.068,
+            47.0415
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto im Zentrum und beginnen Sie Ihren Rundgang.",
+            "hu": "Parkolja le az autót a központban, és kezdje a sétát.",
+            "ro": "Parcați mașina în centru și începeți turul pietonal.",
+            "en": "Park your car in the center and start your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche und Gerichtshaus",
+            "hu": "Városi templom és Bíróság",
+            "ro": "Biserica orașului și Palatul de Justiție",
+            "en": "City Church and Courthouse"
+          },
+          "coords": [
+            9.0654,
+            47.0398
+          ],
+          "category": "cluster",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden imposanten Gebäude liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Ez a két impozáns épület csak pár lépésre van egymástól.",
+            "ro": "Aceste două clădiri impunătoare sunt la doar câțiva pași una de cealaltă.",
+            "en": "These two imposing buildings are just a few steps from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunst- und Kulturcluster",
+            "hu": "Művészeti és Kulturális negyed",
+            "ro": "Clusterul de Artă și Cultură",
+            "en": "Art and Culture Cluster"
+          },
+          "coords": [
+            9.069,
+            47.0367
+          ],
+          "category": "cluster",
+          "arrive_at": "11:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie das Kunsthaus und das Anna-Göldi-Museum, die sich in unmittelbarer Nähe befinden.",
+            "hu": "Látogassa meg a Kunsthaust és az Anna Göldi Múzeumot, amelyek a közvetlen közelben találhatók.",
+            "ro": "Vizitați Kunsthaus și Muzeul Anna Göldi, situate în imediata apropiere.",
+            "en": "Visit the Kunsthaus and the Anna Göldi Museum, which are located in close proximity."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Entspannung im Volksgarten",
+            "hu": "Ebéd és pihenés a Volksgartenben",
+            "ro": "Prânz și relaxare în Volksgarten",
+            "en": "Lunch and Relaxation in Volksgarten"
+          },
+          "coords": [
+            9.0711,
+            47.0385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach den Museen ist es Zeit für eine Mahlzeit und einen Spaziergang im Grünen.",
+            "hu": "A múzeumok után itt az ideje egy étkezésnek és egy sétának a zöldben.",
+            "ro": "După muzee, este timpul pentru o masă și o plimbare în parc.",
+            "en": "After the museums, it's time for a meal and a walk in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Parkplatz",
+            "hu": "Visszatérés a parkolóba",
+            "ro": "Întoarcere la parcare",
+            "en": "Return to the Car Park"
+          },
+          "coords": [
+            9.068,
+            47.0415
+          ],
+          "category": "transport",
+          "arrive_at": "15:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter Spaziergang durch die Stadt, bevor Sie Ihre Reise fortsetzen.",
+            "hu": "Egy utolsó séta a városon keresztül, mielőtt folytatja útját.",
+            "ro": "O ultimă plimbare prin oraș înainte de a vă continua călătoria.",
+            "en": "One last stroll through the town before continuing your journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Reisen Sie mit dem Auto an, parken Sie zentral und erkunden Sie Glarus zu Fuß. Der Vormittag gehört dem politischen und religiösen Zentrum rund um den Landsgemeindeplatz und die Stadtkirche. Zu Mittag bilden das Kunsthaus und das Anna-Göldi-Museum einen dichten Kulturcluster. Am Nachmittag entspannen Sie im Volksgarten, bevor Sie gemütlich zum Auto zurückkehren. Diese Tour verbindet den Komfort des Autos mit der Intimität eines Stadtspaziergangs.",
+        "hu": "Érkezzen autóval, parkoljon a központban, és fedezze fel Glarust gyalog. A délelőtt a politikai és vallási központé a Landsgemeindeplatz és a városi templom körül. Délben a Kunsthaus és az Anna Göldi Múzeum alkot egy sűrű kulturális csomópontot. Délután pihenjen a Volksgartenben, mielőtt kényelmesen visszasétál az autóhoz. Ez a túra ötvözi az autó kényelmét egy városi séta intimitásával.",
+        "ro": "Sosiți cu mașina, parcați în centru și explorați Glarus pe jos. Dimineața este dedicată centrului politic și religios din jurul Pieței Landsgemeinde și a bisericii orașului. La prânz, Kunsthaus și Muzeul Anna Göldi formează un cluster cultural dens. După-amiaza, relaxați-vă în Volksgarten înainte de a vă întoarce pe îndelete la mașină. Acest tur combină confortul mașinii cu intimitatea unei plimbări prin oraș.",
+        "en": "Arrive by car, park centrally, and explore Glarus on foot. The morning is dedicated to the political and religious center around Landsgemeindeplatz and the city church. At noon, the Kunsthaus and the Anna Göldi Museum form a dense cultural cluster. In the afternoon, relax in the Volksgarten before strolling back to your car. This tour combines the convenience of a car with the intimacy of a city walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Glarner Kalberwurst",
+            "tip": "Eine lokale Spezialität, die Sie in traditionellen Restaurants probieren sollten."
+          },
+          {
+            "name": "Restaurant Schützenhaus",
+            "tip": "Bietet authentische Schweizer Küche mit herrlicher Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glarusi borjúkolbász (Kalberwurst)",
+            "tip": "Helyi specialitás, amit érdemes megkóstolni a hagyományos éttermekben."
+          },
+          {
+            "name": "Schützenhaus Étterem",
+            "tip": "Autentikus svájci konyhát kínál csodálatos kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Glarner Kalberwurst (cârnat de vițel)",
+            "tip": "O specialitate locală pe care trebuie să o încercați în restaurantele tradiționale."
+          },
+          {
+            "name": "Restaurant Schützenhaus",
+            "tip": "Oferă bucătărie elvețiană autentică cu o priveliște magnifică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Glarner Kalberwurst (veal sausage)",
+            "tip": "A local specialty you should try in traditional restaurants."
+          },
+          {
+            "name": "Restaurant Schützenhaus",
+            "tip": "Offers authentic Swiss cuisine with a magnificent view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg der Linth",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke im Volksgarten",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die alpine Landschaft.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Linth folyóparti sétány",
+            "tip": "Egy csendes séta a folyó mentén, hogy elmeneküljön a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Volksgartenben",
+            "tip": "Keressen egy csendes padot, és élvezze az alpesi tájat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe malul râului Linth",
+            "tip": "O plimbare liniștită de-a lungul râului pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Băncile din Volksgarten",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de peisajul alpin.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the River Linth",
+            "tip": "A quiet walk along the river to escape the hustle and bustle of the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches in the Volksgarten",
+            "tip": "Find a quiet bench and enjoy the alpine scenery.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Glarner Pastete",
+            "tip": "Eine süße oder salzige Blätterteigspezialität, ein perfektes Souvenir."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Findet an bestimmten Tagen statt und bietet lokale Produkte und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glarusi pástétom (Pastete)",
+            "tip": "Édes vagy sós leveles tészta specialitás, tökéletes ajándék."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Bizonyos napokon tartják, helyi termékeket és kézműves árukat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Glarner Pastete (plăcintă cu foietaj)",
+            "tip": "O specialitate dulce sau sărată din foietaj, un suvenir perfect."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Are loc în anumite zile și oferă produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Glarner Pastete (pastry)",
+            "tip": "A sweet or savory puff pastry specialty, a perfect souvenir."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Held on specific days, offering local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Suchen Sie nach ausgeschilderten Parkplätzen im Stadtzentrum.",
+          "Einmal geparkt, ist die ganze Stadt leicht zu Fuß erreichbar.",
+          "Beachten Sie die Parkgebühren und -zeiten."
+        ],
+        "hu": [
+          "Keressen táblával jelzett parkolókat a városközpontban.",
+          "Miután leparkolt, az egész város könnyen elérhető gyalog.",
+          "Vegye figyelembe a parkolási díjakat és időkorlátokat."
+        ],
+        "ro": [
+          "Căutați parcări semnalizate în centrul orașului.",
+          "Odată parcat, întregul oraș este ușor de accesat pe jos.",
+          "Fiți atenți la taxele și duratele de parcare."
+        ],
+        "en": [
+          "Look for signed car parks in the city center.",
+          "Once parked, the entire town is easily accessible on foot.",
+          "Pay attention to parking fees and time limits."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Glarus & Spaziergang",
+            "hu": "Érkezés a glarusi vasútállomásra és séta",
+            "ro": "Sosire la gara Glarus și plimbare",
+            "en": "Arrival at Glarus Station & Walk"
+          },
+          "coords": [
+            9.0645,
+            47.0425
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus ist das Stadtzentrum nur einen kurzen Spaziergang entfernt.",
+            "hu": "A vasútállomásról a városközpont csak egy rövid sétára van.",
+            "ro": "De la gară, centrul orașului este la o scurtă plimbare.",
+            "en": "From the train station, the city center is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Landsgemeindeplatz und Stadtkirche",
+            "hu": "Landsgemeindeplatz és Városi templom",
+            "ro": "Piața Landsgemeinde și Biserica orașului",
+            "en": "Landsgemeindeplatz and City Church"
+          },
+          "coords": [
+            9.0663,
+            47.0396
+          ],
+          "category": "cluster",
+          "arrive_at": "09:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung im Herzen von Glarus.",
+            "hu": "Kezdje a felfedezést Glarus szívében.",
+            "ro": "Începeți explorarea în inima orașului Glarus.",
+            "en": "Start your exploration in the heart of Glarus."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthaus und Anna-Göldi-Museum",
+            "hu": "Kunsthaus és Anna Göldi Múzeum",
+            "ro": "Kunsthaus și Muzeul Anna Göldi",
+            "en": "Kunsthaus and Anna Göldi Museum"
+          },
+          "coords": [
+            9.069,
+            47.0367
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie zu den beiden wichtigsten Museen der Stadt.",
+            "hu": "Egy rövid séta elvezeti a város két legfontosabb múzeumához.",
+            "ro": "O scurtă plimbare vă duce la cele mai importante două muzee din oraș.",
+            "en": "A short walk takes you to the city's two most important museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Volksgarten",
+            "hu": "Volksgarten (Népkert)",
+            "ro": "Grădina Publică Volksgarten",
+            "en": "Volksgarten (Public Garden)"
+          },
+          "coords": [
+            9.0711,
+            47.0385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für eine ausgedehnte Mittagspause nach dem Museumsbesuch.",
+            "hu": "Tökéletes hely egy kiadós ebédszünetre a múzeumlátogatás után.",
+            "ro": "Locul perfect pentru o pauză de prânz prelungită după vizita la muzeu.",
+            "en": "The perfect place for a long lunch break after visiting the museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Gerichtshaus und Rückweg zum Bahnhof",
+            "hu": "Bíróság és visszaút a pályaudvarra",
+            "ro": "Palatul de Justiție și drumul înapoi la gară",
+            "en": "Courthouse and Walk Back to Station"
+          },
+          "coords": [
+            9.065,
+            47.0405
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Werfen Sie einen letzten Blick auf die Architektur der Stadt, bevor Sie den Zug nehmen.",
+            "hu": "Vessen egy utolsó pillantást a város építészetére, mielőtt vonatra száll.",
+            "ro": "Aruncați o ultimă privire la arhitectura orașului înainte de a lua trenul.",
+            "en": "Take one last look at the city's architecture before catching your train."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr autofreier Tag beginnt mit der Ankunft am Bahnhof Glarus. Von dort aus ist es nur ein kurzer Spaziergang zu den Hauptattraktionen. Am Vormittag erkunden Sie das politische Herz am Landsgemeindeplatz. Der Mittag ist der Kunst und Geschichte in den nahegelegenen Museen gewidmet. Der Nachmittag bietet Entspannung im Volksgarten, gefolgt von einem abschließenden Blick auf das Gerichtshaus auf dem Weg zurück zum Bahnhof. Eine nachhaltige und entspannte Art, die Stadt zu entdecken.",
+        "hu": "Autómentes napja a glarusi vasútállomásra érkezéssel kezdődik. Onnan csak egy rövid séta a fő látnivalókig. Délelőtt felfedezi a politikai központot a Landsgemeindeplatzon. A dél a közeli múzeumokban a művészetnek és a történelemnek van szentelve. A délután pihenést kínál a Volksgartenben, majd a napot a Bíróság épületének megtekintésével zárja a vasútállomás felé vezető úton. Fenntartható és nyugodt módja a város felfedezésének.",
+        "ro": "Ziua dvs. fără mașină începe cu sosirea la gara din Glarus. De acolo, atracțiile principale sunt la o scurtă plimbare. Dimineața, explorați inima politică din Piața Landsgemeinde. Prânzul este dedicat artei și istoriei în muzeele din apropiere. După-amiaza oferă relaxare în Volksgarten, urmată de o privire finală la Palatul de Justiție în drum spre gară. Un mod sustenabil și relaxat de a descoperi orașul.",
+        "en": "Your car-free day begins with your arrival at Glarus train station. From there, it's just a short walk to the main attractions. In the morning, you'll explore the political heart at Landsgemeindeplatz. Noon is dedicated to art and history in the nearby museums. The afternoon offers relaxation in the Volksgarten, followed by a final look at the Courthouse on your way back to the station. A sustainable and relaxed way to discover the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Glarner Kalberwurst",
+            "tip": "Eine lokale Spezialität, die Sie in traditionellen Restaurants probieren sollten."
+          },
+          {
+            "name": "Restaurant Schützenhaus",
+            "tip": "Bietet authentische Schweizer Küche mit herrlicher Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glarusi borjúkolbász (Kalberwurst)",
+            "tip": "Helyi specialitás, amit érdemes megkóstolni a hagyományos éttermekben."
+          },
+          {
+            "name": "Schützenhaus Étterem",
+            "tip": "Autentikus svájci konyhát kínál csodálatos kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Glarner Kalberwurst (cârnat de vițel)",
+            "tip": "O specialitate locală pe care trebuie să o încercați în restaurantele tradiționale."
+          },
+          {
+            "name": "Restaurant Schützenhaus",
+            "tip": "Oferă bucătărie elvețiană autentică cu o priveliște magnifică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Glarner Kalberwurst (veal sausage)",
+            "tip": "A local specialty you should try in traditional restaurants."
+          },
+          {
+            "name": "Restaurant Schützenhaus",
+            "tip": "Offers authentic Swiss cuisine with a magnificent view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg der Linth",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke im Volksgarten",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die alpine Landschaft.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Linth folyóparti sétány",
+            "tip": "Egy csendes séta a folyó mentén, hogy elmeneküljön a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Volksgartenben",
+            "tip": "Keressen egy csendes padot, és élvezze az alpesi tájat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe malul râului Linth",
+            "tip": "O plimbare liniștită de-a lungul râului pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Băncile din Volksgarten",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de peisajul alpin.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the River Linth",
+            "tip": "A quiet walk along the river to escape the hustle and bustle of the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches in the Volksgarten",
+            "tip": "Find a quiet bench and enjoy the alpine scenery.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Glarner Pastete",
+            "tip": "Eine süße oder salzige Blätterteigspezialität, ein perfektes Souvenir."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Findet an bestimmten Tagen statt und bietet lokale Produkte und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glarusi pástétom (Pastete)",
+            "tip": "Édes vagy sós leveles tészta specialitás, tökéletes ajándék."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Bizonyos napokon tartják, helyi termékeket és kézműves árukat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Glarner Pastete (plăcintă cu foietaj)",
+            "tip": "O specialitate dulce sau sărată din foietaj, un suvenir perfect."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Are loc în anumite zile și oferă produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Glarner Pastete (pastry)",
+            "tip": "A sweet or savory puff pastry specialty, a perfect souvenir."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Held on specific days, offering local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Glarus ist gut an das Schweizer Bahnnetz angebunden.",
+          "Vom Bahnhof aus ist alles Wichtige zu Fuß erreichbar.",
+          "Kaufen Sie Ihr Rückfahrtticket im Voraus, um Wartezeiten zu vermeiden."
+        ],
+        "hu": [
+          "Glarus jó összeköttetéssel rendelkezik a svájci vasúthálózattal.",
+          "A vasútállomásról minden fontos dolog gyalogosan elérhető.",
+          "Vásárolja meg a retúrjegyet előre, hogy elkerülje a várakozást."
+        ],
+        "ro": [
+          "Glarus este bine conectat la rețeaua feroviară elvețiană.",
+          "De la gară, tot ce este important este accesibil pe jos.",
+          "Cumpărați biletul de întoarcere în avans pentru a evita timpii de așteptare."
+        ],
+        "en": [
+          "Glarus is well-connected to the Swiss rail network.",
+          "Everything important is within walking distance from the train station.",
+          "Buy your return ticket in advance to avoid waiting times."
+        ]
+      }
+    }
+  }
+}

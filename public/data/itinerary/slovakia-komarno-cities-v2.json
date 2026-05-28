@@ -1,0 +1,1460 @@
+{
+  "city_id": "slovakia-komarno-cities-v2",
+  "anchor": {
+    "name": "Komárno",
+    "coords": [
+      47.7636,
+      18.1225
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Europa-Hof (Nádvorie Európy)",
+            "hu": "Európa-udvar (Nádvorie Európy)",
+            "ro": "Curtea Europei (Nádvorie Európy)",
+            "en": "Courtyard of Europe (Nádvorie Európy)"
+          },
+          "coords": [
+            18.1278,
+            47.7573
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige Architektur, die verschiedene europäische Stile repräsentiert.",
+            "hu": "Csodálja meg az egyedi építészetet, amely Európa különböző stílusait képviseli.",
+            "ro": "Admirați arhitectura unică ce reprezintă diverse stiluri europene.",
+            "en": "Admire the unique architecture representing various European styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von General Klapka",
+            "hu": "Klapka György tábornok szobra",
+            "ro": "Statuia Generalului Klapka",
+            "en": "Statue of General Klapka"
+          },
+          "coords": [
+            18.1265,
+            47.7585
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das zentrale Denkmal der Stadt, das dem Helden der Verteidigung von 1849 gewidmet ist.",
+            "hu": "A város központi emlékműve, az 1849-es honvédő hősnek állítva.",
+            "ro": "Monumentul central al orașului, dedicat eroului apărării din 1849.",
+            "en": "The city's central monument, dedicated to the hero of the 1849 defense."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall (Rathaus)"
+          },
+          "coords": [
+            18.126,
+            47.7588
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:11",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf das Glockenspiel zur vollen Stunde, eine charmante lokale Tradition.",
+            "hu": "Figyelje a harangjátékot minden egész órában, ez egy bájos helyi hagyomány.",
+            "ro": "Fiți atenți la carillon la fiecare oră fixă, o tradiție locală fermecătoare.",
+            "en": "Listen for the chime playing on the hour, a charming local tradition."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Andreas",
+            "hu": "Szent András-templom",
+            "ro": "Biserica Sfântul Andrei",
+            "en": "Church of Saint Andrew"
+          },
+          "coords": [
+            18.125,
+            47.7595
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie das Innere, um die beeindruckenden barocken Fresken zu sehen.",
+            "hu": "Látogasson be a belsejébe, hogy megnézze a lenyűgöző barokk freskókat.",
+            "ro": "Vizitați interiorul pentru a vedea frescele baroce impresionante.",
+            "en": "Visit the interior to see the impressive baroque frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Donaumuseum",
+            "hu": "Duna Múzeum",
+            "ro": "Muzeul Dunării",
+            "en": "Danube Museum"
+          },
+          "coords": [
+            18.128,
+            47.756
+          ],
+          "category": "museums",
+          "arrive_at": "12:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die römischen und mittelalterlichen Sammlungen, die die reiche Geschichte der Stadt zeigen.",
+            "hu": "Összpontosítson a római és középkori gyűjteményekre, amelyek a város gazdag történelmét mutatják be.",
+            "ro": "Concentrați-vă pe colecțiile romane și medievale care prezintă istoria bogată a orașului.",
+            "en": "Focus on the Roman and medieval collections showcasing the city's rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Festungssystem Komárno",
+            "hu": "Komáromi erődrendszer",
+            "ro": "Sistemul de fortificații Komárno",
+            "en": "Fortress System of Komárno"
+          },
+          "coords": [
+            18.14,
+            47.755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein; die Festung ist riesig. Konzentrieren Sie sich auf die Alte und Neue Festung.",
+            "hu": "Tervezzen elég időt, az erőd hatalmas. Koncentráljon a Régi és Új Várra.",
+            "ro": "Alocați suficient timp; fortăreața este imensă. Concentrați-vă pe Fortăreața Veche și Nouă.",
+            "en": "Allow plenty of time; the fortress is vast. Focus on the Old and New Fortresses."
+          }
+        },
+        {
+          "name": {
+            "de": "Elisabethbrücke",
+            "hu": "Erzsébet híd",
+            "ro": "Podul Elisabeta",
+            "en": "Elisabeth Bridge"
+          },
+          "coords": [
+            18.122,
+            47.754
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke nach Ungarn (Komárom) für eine einzigartige Perspektive auf zwei Städte, zwei Länder.",
+            "hu": "Sétáljon át a hídon Magyarországra (Komárom), egyedülálló perspektívát nyújtva két városra, két országra.",
+            "ro": "Traversați podul în Ungaria (Komárom) pentru o perspectivă unică asupra a două orașe, două țări.",
+            "en": "Walk across the bridge to Hungary (Komárom) for a unique two-city, two-country perspective."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Komárno am Europa-Hof, einem Symbol der Einheit. Am Vormittag erkunden Sie das historische Zentrum rund um den Klapka-Platz und die St.-Andreas-Kirche. Nach dem Mittagessen im Donaumuseum tauchen Sie in die Militärgeschichte ein, indem Sie das gewaltige Festungssystem erkunden, eine der größten Befestigungsanlagen Europas. Beenden Sie Ihren Tag mit einem Spaziergang über die Elisabethbrücke und genießen Sie den Blick auf die Donau, die zwei Nationen verbindet.",
+        "hu": "Kezdje a napot Komárom szívében, az Európa-udvarban, az egység szimbólumánál. Délelőtt fedezze fel a történelmi központot a Klapka tér és a Szent András-templom környékén. Ebéd után a Duna Múzeumban merüljön el a katonai történelemben a hatalmas erődrendszer felfedezésével, amely Európa egyik legnagyobb erődítménye. Zárja a napot egy sétával az Erzsébet hídon, élvezve a Dunára nyíló kilátást, amely két nemzetet köt össze.",
+        "ro": "Începeți ziua în inima orașului Komárno, la Curtea Europei, un simbol al unității. În cursul dimineții, explorați centrul istoric din jurul Pieței Klapka și Biserica Sfântul Andrei. După prânz la Muzeul Dunării, pătrundeți în istoria militară explorând vastul sistem de fortificații, una dintre cele mai mari fortărețe din Europa. Încheiați ziua cu o plimbare pe Podul Elisabeta, bucurându-vă de priveliștea Dunării care leagă două națiuni.",
+        "en": "Start your day in the heart of Komárno at the Courtyard of Europe, a symbol of unity. In the morning, explore the historic center around Klapka Square and the Church of Saint Andrew. After lunch at the Danube Museum, delve into military history by exploring the vast Fortress System, one of Europe's largest fortifications. End your day with a walk across the Elisabeth Bridge, enjoying the view of the Danube connecting two nations."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Jókai-Bohnensuppe",
+            "tip": "Ein herzhafter lokaler Klassiker, benannt nach dem berühmten Schriftsteller Mór Jókai."
+          },
+          {
+            "name": "Halászlé (Fischsuppe)",
+            "tip": "Probieren Sie diese würzige Fischsuppe, eine Spezialität der Donauregion."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Ein süßer Genuss, oft auf Straßenfesten zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jókai-bableves",
+            "tip": "Kiadós helyi klasszikus, Jókai Mór íróról elnevezve."
+          },
+          {
+            "name": "Halászlé",
+            "tip": "Kóstolja meg ezt a fűszeres hallevest, a Duna-régió specialitását."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Édes finomság, gyakran megtalálható utcafesztiválokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de fasole Jókai",
+            "tip": "O specialitate locală consistentă, numită după faimosul scriitor Mór Jókai."
+          },
+          {
+            "name": "Halászlé (Supă de pește)",
+            "tip": "Încercați această supă de pește picantă, o specialitate a regiunii Dunării."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Un deliciu dulce, adesea găsit la festivalurile stradale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jókai Bean Soup",
+            "tip": "A hearty local classic, named after the famous writer Mór Jókai."
+          },
+          {
+            "name": "Halászlé (Fisherman's Soup)",
+            "tip": "Try this spicy fish soup, a specialty of the Danube region."
+          },
+          {
+            "name": "Chimney Cake (Kürtőskalács)",
+            "tip": "A sweet treat often found at street festivals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Donauufer",
+            "tip": "Ein friedlicher Spaziergang am Flussufer, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Festungsmauern",
+            "tip": "Finden Sie einen ruhigen Platz auf den alten Mauern mit Blick auf die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park am Offizierspavillon",
+            "tip": "Eine kleine grüne Oase im Stadtzentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duna-part",
+            "tip": "Békés séta a folyóparton, különösen naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Várfalak",
+            "tip": "Keressen egy csendes helyet a régi falakon, ahonnan kilátás nyílik a városra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tiszti pavilon parkja",
+            "tip": "Egy kis zöld oázis a városközpontban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Dunării",
+            "tip": "O plimbare liniștită de-a lungul malului râului, mai ales la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Zidurile fortăreței",
+            "tip": "Găsiți un loc liniștit pe zidurile vechi, cu vedere la oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de lângă Pavilionul Ofițerilor",
+            "tip": "O mică oază de verdeață în centrul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Danube Riverside",
+            "tip": "A peaceful walk along the riverbank, especially at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fortress Walls",
+            "tip": "Find a quiet spot on the old walls overlooking the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park at the Officer's Pavilion",
+            "tip": "A small green oasis in the city center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weine",
+            "tip": "Suchen Sie nach Weinen aus der südlichen Slowakei."
+          },
+          {
+            "name": "Handwerksprodukte",
+            "tip": "Im Europa-Hof finden Sie kleine Geschäfte mit einzigartigen Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Keressen dél-szlovákiai borokat."
+          },
+          {
+            "name": "Kézműves termékek",
+            "tip": "Az Európa-udvarban kis boltokat talál egyedi ajándéktárgyakkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Căutați vinuri din sudul Slovaciei."
+          },
+          {
+            "name": "Produse artizanale",
+            "tip": "În Curtea Europei veți găsi mici magazine cu suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wines",
+            "tip": "Look for wines from the southern Slovak region."
+          },
+          {
+            "name": "Handicrafts",
+            "tip": "In the Courtyard of Europe, you'll find small shops with unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Halten Sie Wasser bereit, besonders im Sommer.",
+          "Die meisten zentralen Sehenswürdigkeiten sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten des Donaumuseums und der Festung im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Legyen Önnél víz, különösen nyáron.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog.",
+          "Ellenőrizze előre a Duna Múzeum és az erőd nyitvatartását."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Aveți apă la dumneavoastră, mai ales vara.",
+          "Majoritatea atracțiilor centrale sunt ușor accesibile pe jos.",
+          "Verificați în avans orele de deschidere ale Muzeului Dunării și ale fortăreței."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Keep water with you, especially in summer.",
+          "Most central attractions are easily within walking distance.",
+          "Check the opening hours for the Danube Museum and the Fortress in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Europa-Hof (Nádvorie Európy)",
+            "hu": "Európa-udvar (Nádvorie Európy)",
+            "ro": "Curtea Europei (Nádvorie Európy)",
+            "en": "Courtyard of Europe (Nádvorie Európy)"
+          },
+          "coords": [
+            18.1278,
+            47.7573
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein perfekter Ausgangspunkt für Ihre Radtour.",
+            "hu": "Tökéletes kiindulópont a kerékpártúrához.",
+            "ro": "Un punct de plecare perfect pentru turul cu bicicleta.",
+            "en": "A perfect starting point for your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Offizierspavillon",
+            "hu": "Tiszti pavilon",
+            "ro": "Pavilionul Ofițerilor",
+            "en": "Officer's Pavilion"
+          },
+          "coords": [
+            18.129,
+            47.759
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein beeindruckendes neugotisches Gebäude mit einem schönen Park.",
+            "hu": "Lenyűgöző neogótikus épület egy szép parkkal.",
+            "ro": "O clădire neogotică impresionantă, cu un parc frumos.",
+            "en": "An impressive neo-Gothic building with a lovely park."
+          }
+        },
+        {
+          "name": {
+            "de": "Festungssystem Komárno",
+            "hu": "Komáromi erődrendszer",
+            "ro": "Sistemul de fortificații Komárno",
+            "en": "Fortress System of Komárno"
+          },
+          "coords": [
+            18.14,
+            47.755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:19",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Rad durch die riesigen Anlagen, aber seien Sie bereit, abzusteigen und zu Fuß zu erkunden.",
+            "hu": "Kerékpározzon végig a hatalmas területen, de készüljön fel, hogy leszáll és gyalog fedez fel részeket.",
+            "ro": "Mergeți cu bicicleta prin complexul vast, dar fiți pregătit să coborâți și să explorați pe jos.",
+            "en": "Cycle around the vast grounds, but be prepared to dismount and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Donaumuseum",
+            "hu": "Duna Múzeum",
+            "ro": "Muzeul Dunării",
+            "en": "Danube Museum"
+          },
+          "coords": [
+            18.128,
+            47.756
+          ],
+          "category": "museums",
+          "arrive_at": "12:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um sich abzukühlen und mehr über die römische Geschichte der Region zu erfahren.",
+            "hu": "Nagyszerű hely a hűsölésre és a régió római kori történelmének megismerésére.",
+            "ro": "Un loc excelent pentru a vă răcori și a învăța despre istoria romană a regiunii.",
+            "en": "A great place to cool down and learn about the region's Roman history."
+          }
+        },
+        {
+          "name": {
+            "de": "Elisabethbrücke",
+            "hu": "Erzsébet híd",
+            "ro": "Podul Elisabeta",
+            "en": "Elisabeth Bridge"
+          },
+          "coords": [
+            18.122,
+            47.754
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:13",
+          "stay_min": 20,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren über die Grenze ist ein Muss! Es gibt einen eigenen Radweg.",
+            "hu": "A határon átbiciklizni kötelező! Külön kerékpárút van.",
+            "ro": "Traversarea graniței cu bicicleta este o necesitate! Există o pistă de biciclete dedicată.",
+            "en": "Cycling across the border is a must-do! There's a dedicated bike lane."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt am Donauufer",
+            "hu": "Bringázás a Duna-parton",
+            "ro": "Plimbare pe malul Dunării",
+            "en": "Ride along the Danube bank"
+          },
+          "coords": [
+            18.115,
+            47.752
+          ],
+          "category": "nature/scenery",
+          "arrive_at": "15:18",
+          "stay_min": 57,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die flache und malerische Strecke entlang des Flusses.",
+            "hu": "Élvezze a sík és festői útvonalat a folyó mentén.",
+            "ro": "Bucurați-vă de traseul plat și pitoresc de-a lungul râului.",
+            "en": "Enjoy the flat and scenic route along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Komárno beginnt am architektonisch einzigartigen Europa-Hof. Radeln Sie zum prächtigen Offizierspavillon, bevor Sie die gewaltige Festungsanlage in Angriff nehmen. Nach der Erkundung der Festung radeln Sie zurück ins Zentrum zum Donaumuseum für eine Dosis Geschichte. Am Nachmittag überqueren Sie die Elisabethbrücke nach Ungarn und zurück und beenden Ihren Tag mit einer entspannten Fahrt entlang des malerischen Donauufers.",
+        "hu": "A komáromi kerékpártúra az építészetileg egyedi Európa-udvartól indul. Tekerjen el a csodálatos Tiszti pavilonhoz, mielőtt nekivágna a hatalmas erődrendszernek. Az erőd felfedezése után kerekezzen vissza a központba a Duna Múzeumhoz egy adag történelemért. Délután keljen át az Erzsébet hídon Magyarországra és vissza, majd zárja a napot egy pihentető tekeréssel a festői Duna-parton.",
+        "ro": "Turul cu bicicleta prin Komárno începe la Curtea Europei, unică din punct de vedere arhitectural. Pedalați spre magnificul Pavilion al Ofițerilor înainte de a aborda vastul sistem de fortificații. După explorarea fortăreței, pedalați înapoi în centru la Muzeul Dunării pentru o doză de istorie. După-amiaza, traversați Podul Elisabeta în Ungaria și înapoi, încheind ziua cu o plimbare relaxantă de-a lungul pitorescului mal al Dunării.",
+        "en": "Your Komárno bike tour starts at the architecturally unique Courtyard of Europe. Cycle to the magnificent Officer's Pavilion before tackling the vast Fortress system. After exploring the fortress, pedal back to the center to the Danube Museum for a dose of history. In the afternoon, cross the Elisabeth Bridge to Hungary and back, finishing your day with a relaxing ride along the scenic Danube bank."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lángos",
+            "tip": "Der perfekte schnelle und sättigende Snack für Radfahrer."
+          },
+          {
+            "name": "Restaurant Klapka",
+            "tip": "Bietet traditionelle ungarische und slowakische Gerichte in der Nähe des Zentrums."
+          },
+          {
+            "name": "Eisdielen am Donauufer",
+            "tip": "Belohnen Sie sich nach Ihrer Fahrt mit einem Eis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lángos",
+            "tip": "Tökéletes, gyors és laktató harapnivaló a kerékpárosoknak."
+          },
+          {
+            "name": "Klapka Étterem",
+            "tip": "Hagyományos magyar és szlovák ételeket kínál a központ közelében."
+          },
+          {
+            "name": "Fagylaltozók a Duna-parton",
+            "tip": "Jutalmazza meg magát egy fagyival a tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lángos",
+            "tip": "Gustarea perfectă, rapidă și sățioasă pentru bicicliști."
+          },
+          {
+            "name": "Restaurantul Klapka",
+            "tip": "Oferă mâncăruri tradiționale maghiare și slovace lângă centru."
+          },
+          {
+            "name": "Înghețate pe malul Dunării",
+            "tip": "Recompensați-vă cu o înghețată după plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lángos",
+            "tip": "The perfect quick and filling snack for cyclists."
+          },
+          {
+            "name": "Klapka Restaurant",
+            "tip": "Offers traditional Hungarian and Slovak dishes near the center."
+          },
+          {
+            "name": "Ice Cream Shops on the Danube bank",
+            "tip": "Reward yourself with an ice cream after your ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Apáli-Insel",
+            "tip": "Eine ruhige Insel auf der Donau, ideal für eine Radpause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von der Festung",
+            "tip": "Genießen Sie die Stille und die weite Aussicht von den oberen Wällen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang an der Donau",
+            "tip": "Der Radweg am Flussufer ist der beste Ort, um den Sonnenuntergang zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Apáli-sziget",
+            "tip": "Egy csendes sziget a Dunán, ideális egy kerékpáros pihenőhöz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az erődből",
+            "tip": "Élvezze a csendet és a tágas kilátást a felső sáncokról.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a Dunánál",
+            "tip": "A folyóparti kerékpárút a legjobb hely a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Apáli",
+            "tip": "O insulă liniștită pe Dunăre, ideală pentru o pauză de la bicicletă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la fortăreață",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică de pe meterezele superioare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus la Dunăre",
+            "tip": "Pista de biciclete de pe malul fluviului este cel mai bun loc pentru a privi apusul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Apáli Island",
+            "tip": "A quiet island on the Danube, great for a cycling break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Fortress",
+            "tip": "Enjoy the silence and the expansive views from the upper ramparts.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset at the Danube",
+            "tip": "The riverside cycle path is the best place to watch the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Lokale Geschäfte bieten Zubehör und manchmal auch Leihfahrräder an."
+          },
+          {
+            "name": "Paprika",
+            "tip": "Kaufen Sie authentischen ungarischen Paprika in den Märkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A helyi boltok kiegészítőket és néha bérkerékpárokat is kínálnak."
+          },
+          {
+            "name": "Fűszerpaprika",
+            "tip": "Vásároljon eredeti magyar fűszerpaprikát a piacokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Magazinele locale oferă accesorii și uneori biciclete de închiriat."
+          },
+          {
+            "name": "Paprika",
+            "tip": "Cumpărați paprika autentică maghiară din piețe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Local shops offer accessories and sometimes rentals."
+          },
+          {
+            "name": "Paprika",
+            "tip": "Buy some authentic Hungarian paprika from the markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen.",
+          "Der EuroVelo 6 Radweg führt durch Komárno.",
+          "Die meisten Gebiete sind flach und fahrradfreundlich.",
+          "Achten Sie auf Fußgänger in den zentralen Plätzen."
+        ],
+        "hu": [
+          "Mindig zárja le a kerékpárját, amikor leteszi.",
+          "Az EuroVelo 6 kerékpárút áthalad Komáromon.",
+          "A legtöbb terület sík és kerékpárbarát.",
+          "Vigyázzon a gyalogosokra a központi tereken."
+        ],
+        "ro": [
+          "Încuiați-vă întotdeauna bicicleta când o parcați.",
+          "Traseul de ciclism EuroVelo 6 trece prin Komárno.",
+          "Majoritatea zonelor sunt plate și prietenoase cu bicicliștii.",
+          "Fiți atenți la pietoni în piețele centrale."
+        ],
+        "en": [
+          "Always lock your bike when leaving it.",
+          "The EuroVelo 6 cycle route passes through Komárno.",
+          "Most areas are flat and bike-friendly.",
+          "Be mindful of pedestrians in the central squares."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Start am Europa-Hof",
+            "hu": "Parkolás és indulás az Európa-udvarnál",
+            "ro": "Parcare și start la Curtea Europei",
+            "en": "Park and Start at Courtyard of Europe"
+          },
+          "coords": [
+            18.1278,
+            47.7573
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe und beginnen Sie Ihre Erkundung zu Fuß im Stadtzentrum.",
+            "hu": "Parkolja le az autót a közelben, és kezdje a felfedezést gyalog a városközpontban.",
+            "ro": "Parcați mașina în apropiere și începeți explorarea pe jos în centrul orașului.",
+            "en": "Park your car nearby and begin your exploration of the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Klapka-Platz",
+            "hu": "Városháza és Klapka tér",
+            "ro": "Primăria și Piața Klapka",
+            "en": "Town Hall & Klapka Square"
+          },
+          "coords": [
+            18.126,
+            47.7588
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang vom Europa-Hof ist kurz und führt Sie durch das Herz der Stadt.",
+            "hu": "Az Európa-udvartól tett séta rövid, és a város szívén vezet keresztül.",
+            "ro": "Plimbarea de la Curtea Europei este scurtă și vă duce prin inima orașului.",
+            "en": "The walk from the Courtyard of Europe is short and takes you through the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Andreas",
+            "hu": "Szent András-templom",
+            "ro": "Biserica Sfântul Andrei",
+            "en": "Church of Saint Andrew"
+          },
+          "coords": [
+            18.125,
+            47.7595
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:04",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf vom Hauptplatz entfernt, ein Meisterwerk des Barocks.",
+            "hu": "Csak egy kőhajításnyira a főtértől, egy barokk mestermű.",
+            "ro": "La o aruncătură de băț de piața principală, o capodoperă barocă.",
+            "en": "Just a stone's throw from the main square, a baroque masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt und Erkundung der Festung",
+            "hu": "Autózás az erőd felfedezéséhez",
+            "ro": "Condus și explorat fortăreața",
+            "en": "Drive and Explore the Fortress"
+          },
+          "coords": [
+            18.14,
+            47.755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:54",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hauptparkplatz der Festung. Das Gelände ist weitläufig, also bereiten Sie sich auf einen langen Spaziergang vor.",
+            "hu": "Hajtson az erőd fő parkolójához. A terület hatalmas, készüljön egy hosszú sétára.",
+            "ro": "Conduceți la parcarea principală a fortăreței. Terenul este vast, așa că pregătiți-vă pentru o plimbare lungă.",
+            "en": "Drive to the main fortress parking lot. The grounds are extensive, so prepare for a long walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Donaumuseum",
+            "hu": "Autózás a Duna Múzeumhoz",
+            "ro": "Condus la Muzeul Dunării",
+            "en": "Drive to the Danube Museum"
+          },
+          "coords": [
+            18.128,
+            47.756
+          ],
+          "category": "museums",
+          "arrive_at": "13:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie erneut in der Nähe des Flussufers. Dieses Museum ist der zweite Cluster Ihres Tages.",
+            "hu": "Parkoljon újra a folyópart közelében. Ez a múzeum a nap második központja.",
+            "ro": "Parcați din nou lângă malul râului. Acest muzeu este al doilea cluster al zilei.",
+            "en": "Park again near the riverfront. This museum is the second cluster of your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Elisabethbrücke",
+            "hu": "Séta az Erzsébet hídhoz",
+            "ro": "Plimbare la Podul Elisabeta",
+            "en": "Walk to Elisabeth Bridge"
+          },
+          "coords": [
+            18.122,
+            47.754
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:41",
+          "stay_min": 59,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und genießen Sie den grenzüberschreitenden Spaziergang und die Aussicht.",
+            "hu": "Hagyja az autót, és élvezze a határon átívelő sétát és a kilátást.",
+            "ro": "Lăsați mașina și bucurați-vă de plimbarea transfrontalieră și de priveliști.",
+            "en": "Leave the car and enjoy the cross-border walk and views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto in der Nähe des Europa-Hofs parken und den ersten 'Cluster' zu Fuß erkunden: das historische Zentrum von Komárno. Schlendern Sie zum Rathaus und zur St.-Andreas-Kirche. Am Vormittag fahren Sie zum zweiten Cluster, dem gewaltigen Festungssystem, wo Sie Stunden mit der Erkundung verbringen können. Nach dem Mittagessen fahren Sie zum dritten Cluster am Donauufer, parken erneut und besuchen das Donaumuseum, bevor Sie Ihren Tag mit einem malerischen Spaziergang über die Elisabethbrücke nach Ungarn beenden.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját az Európa-udvar közelében, és gyalog fedezi fel az első 'központot': Komárom történelmi belvárosát. Sétáljon el a Városházához és a Szent András-templomhoz. Délelőtt vezessen át a második központhoz, a hatalmas erődrendszerhez, ahol órákat tölthet a felfedezéssel. Ebéd után irány a harmadik központ a Duna-parton: parkoljon le újra, látogasson el a Duna Múzeumba, majd zárja a napot egy festői sétával az Erzsébet hídon át Magyarországra.",
+        "ro": "Începeți ziua parcând mașina lângă Curtea Europei și explorând primul 'cluster' pe jos: centrul istoric al Komárno. Plimbați-vă până la Primărie și Biserica Sf. Andrei. Dimineața, conduceți spre al doilea cluster, vastul sistem de fortificații, unde puteți petrece ore întregi explorând. După prânz, mergeți la al treilea cluster de pe malul Dunării, parcați din nou și vizitați Muzeul Dunării înainte de a încheia ziua cu o plimbare pitorească peste Podul Elisabeta în Ungaria.",
+        "en": "Start your day by parking your car near the Courtyard of Europe and exploring the first 'cluster' on foot: Komárno's historic center. Stroll to the Town Hall and St. Andrew's Church. In the late morning, drive to the second cluster, the vast Fortress System, where you can spend hours exploring. After lunch, drive to the third cluster on the Danube riverfront, park again, and visit the Danube Museum before ending your day with a scenic walk across the Elisabeth Bridge into Hungary."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Nádvorie Európy",
+            "tip": "Bequem im ersten Cluster gelegen, ideal für ein Mittagessen."
+          },
+          {
+            "name": "Csárda am Stadtrand",
+            "tip": "Suchen Sie nach traditionellen Restaurants etwas außerhalb des Zentrums für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Kaffee im Offizierspavillon",
+            "tip": "Genießen Sie einen Kaffee im historischen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Európa Udvar Étterem",
+            "tip": "Kényelmesen az első központban található, ideális ebédre."
+          },
+          {
+            "name": "Csárda a város szélén",
+            "tip": "Keressen hagyományos éttermeket kicsit a központon kívül az autentikus élményért."
+          },
+          {
+            "name": "Kávé a Tiszti pavilonban",
+            "tip": "Élvezzen egy kávét a történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Nádvorie Európy",
+            "tip": "Situat convenabil în primul cluster, ideal pentru prânz."
+          },
+          {
+            "name": "Csárda la periferie",
+            "tip": "Căutați restaurante tradiționale puțin în afara centrului pentru o experiență autentică."
+          },
+          {
+            "name": "Cafea la Pavilionul Ofițerilor",
+            "tip": "Savurați o cafea în ambianța istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nádvorie Európy Restaurant",
+            "tip": "Conveniently located in the first cluster, ideal for lunch."
+          },
+          {
+            "name": "Csárda on the outskirts",
+            "tip": "Look for traditional inns just outside the center for an authentic experience."
+          },
+          {
+            "name": "Coffee at the Officer's Pavilion",
+            "tip": "Enjoy a coffee in the historic ambiance."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festungs-Kasematten",
+            "tip": "Die unterirdischen Gänge der Festung bieten eine kühle, ruhige Zuflucht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ungarisches Ufer",
+            "tip": "Nach dem Überqueren der Brücke ist das ungarische Ufer oft ruhiger.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Toter Arm der Waag",
+            "tip": "Ein kurzer Ausflug mit dem Auto zu diesem ruhigen Naturgebiet.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erőd kazamatái",
+            "tip": "Az erőd földalatti járatai hűvös, csendes menedéket nyújtanak.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Magyar part",
+            "tip": "A hídon átkelve a magyar part gyakran csendesebb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vág-Duna holtág",
+            "tip": "Egy rövid autós kirándulás ehhez a csendes természeti területhez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cazematele fortăreței",
+            "tip": "Coridoarele subterane ale fortăreței oferă un refugiu răcoros și liniștit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul maghiar",
+            "tip": "După traversarea podului, malul maghiar este adesea mai liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Brațul mort al râului Váh",
+            "tip": "O scurtă excursie cu mașina la această zonă naturală liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress Casemates",
+            "tip": "The fortress's underground corridors offer a cool, quiet escape.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hungarian Bank",
+            "tip": "After crossing the bridge, the Hungarian side is often quieter.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dead arm of the Váh river",
+            "tip": "A short drive can take you to this peaceful natural area.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermärkte am Stadtrand",
+            "tip": "Nutzen Sie das Auto, um lokale Produkte wie slowakische Spirituosen oder Käse zu kaufen."
+          },
+          {
+            "name": "Souvenirs in der Festung",
+            "tip": "Der Geschenkeladen in der Festung bietet militärhistorische Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarketek a város szélén",
+            "tip": "Használja ki az autót, hogy helyi termékeket, például szlovák pálinkát vagy sajtot vásároljon."
+          },
+          {
+            "name": "Ajándéktárgyak az erődben",
+            "tip": "Az erőd ajándékboltja katonai-történelmi emléktárgyakat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketuri la periferie",
+            "tip": "Folosiți mașina pentru a cumpăra produse locale precum băuturi spirtoase sau brânzeturi slovace."
+          },
+          {
+            "name": "Suveniruri la fortăreață",
+            "tip": "Magazinul de cadouri al fortăreței oferă suveniruri cu tematică militară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarkets on the outskirts",
+            "tip": "Use the car to stock up on local products like Slovak spirits or cheeses."
+          },
+          {
+            "name": "Fortress Souvenirs",
+            "tip": "The fortress gift shop offers military-themed memorabilia."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum kann gebührenpflichtig sein; halten Sie Münzen bereit.",
+          "Planen Sie Ihre Route zwischen den Clustern im Voraus.",
+          "Die Straßen in der Altstadt sind eng; fahren Sie vorsichtig.",
+          "Die Festung hat begrenzte Parkmöglichkeiten, kommen Sie also früh."
+        ],
+        "hu": [
+          "A központi parkolás díjköteles lehet; készítsen elő aprópénzt.",
+          "Tervezze meg előre az útvonalat a központok között.",
+          "Az óváros utcái szűkek; vezessen óvatosan.",
+          "Az erődnél korlátozott a parkolóhely, érkezzen korán."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi contra cost; pregătiți monede.",
+          "Planificați-vă ruta între clustere în avans.",
+          "Străzile din orașul vechi sunt înguste; conduceți cu prudență.",
+          "Fortăreața are parcare limitată, așa că veniți devreme."
+        ],
+        "en": [
+          "Parking in the center can be paid; have coins ready.",
+          "Plan your route between clusters in advance.",
+          "Old town streets are narrow; drive carefully.",
+          "The fortress has limited parking, so arrive early."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Europa-Hof",
+            "hu": "Indulás: Európa-udvar",
+            "ro": "Start: Curtea Europei",
+            "en": "Start: Courtyard of Europe"
+          },
+          "coords": [
+            18.1278,
+            47.7573
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie in der Nähe der zentralen Bushaltestellen.",
+            "hu": "Kezdje a központi buszmegállók közelében.",
+            "ro": "Începeți în apropierea stațiilor centrale de autobuz.",
+            "en": "Start near the central bus stations."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Klapka-Statue",
+            "hu": "Városháza és Klapka-szobor",
+            "ro": "Primăria și Statuia Klapka",
+            "en": "Town Hall & Klapka Statue"
+          },
+          "coords": [
+            18.1265,
+            47.7585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:28",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom ersten Halt aus.",
+            "hu": "Rövid séta az első megállótól.",
+            "ro": "O scurtă plimbare de la prima oprire.",
+            "en": "A short walk from the first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Festung",
+            "hu": "Buszozás az erődbe",
+            "ro": "Călătorie cu autobuzul la fortăreață",
+            "en": "Transit to the Fortress"
+          },
+          "coords": [
+            18.14,
+            47.755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:28",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus in Richtung Festung. Überprüfen Sie den Fahrplan im Voraus.",
+            "hu": "Menjen helyi busszal az erőd irányába. Ellenőrizze előre a menetrendet.",
+            "ro": "Luați un autobuz local spre fortăreață. Verificați orarul în avans.",
+            "en": "Take a local bus towards the fortress. Check the schedule beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Donaumuseum",
+            "hu": "Buszozás a Duna Múzeumhoz",
+            "ro": "Călătorie cu autobuzul la Muzeul Dunării",
+            "en": "Transit to the Danube Museum"
+          },
+          "coords": [
+            18.128,
+            47.756
+          ],
+          "category": "museums",
+          "arrive_at": "13:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum, steigen Sie in der Nähe des Flussufers aus.",
+            "hu": "Menjen busszal vissza a központba, szálljon le a folyópart közelében.",
+            "ro": "Luați un autobuz înapoi în centru, coborâți lângă malul râului.",
+            "en": "Take a bus back to the center, getting off near the riverfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Offizierspavillon",
+            "hu": "Tiszti pavilon",
+            "ro": "Pavilionul Ofițerilor",
+            "en": "Officer's Pavilion"
+          },
+          "coords": [
+            18.129,
+            47.759
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:02",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum entfernt, ein schöner Ort zum Entspannen.",
+            "hu": "Rövid sétára a múzeumtól, kellemes hely a pihenésre.",
+            "ro": "La o scurtă plimbare de muzeu, un loc frumos pentru relaxare.",
+            "en": "A short walk from the museum, a nice place to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Elisabethbrücke",
+            "hu": "Séta az Erzsébet hídhoz",
+            "ro": "Plimbare la Podul Elisabeta",
+            "en": "Walk to Elisabeth Bridge"
+          },
+          "coords": [
+            18.122,
+            47.754
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:02",
+          "stay_min": 58,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss des Tages, der vom Zentrum aus leicht zu erreichen ist.",
+            "hu": "Szép befejezése a napnak, könnyen megközelíthető a központból.",
+            "ro": "O încheiere frumoasă a zilei, ușor accesibilă din centru.",
+            "en": "A lovely end to the day, easily reachable from the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel von Komárno, um die weiter entfernten Sehenswürdigkeiten zu erreichen. Beginnen Sie Ihren Tag im Zentrum und erkunden Sie den Europa-Hof und den Klapka-Platz zu Fuß. Nehmen Sie dann einen Bus zum gewaltigen Festungssystem. Nach Ihrer historischen Erkundung fahren Sie mit dem Bus zurück zum Donauufer, um das Museum und den Offizierspavillon zu besuchen. Beenden Sie Ihren Tag mit einem gemütlichen Spaziergang über die Elisabethbrücke, ein Symbol der Verbindung.",
+        "hu": "Használja Komárom tömegközlekedését a távolabbi látnivalók eléréséhez. Kezdje a napot a központban, gyalog fedezze fel az Európa-udvart és a Klapka teret. Ezután szálljon buszra a hatalmas erődrendszerhez. A történelmi felfedezőút után buszozzon vissza a Duna-parthoz, hogy meglátogassa a múzeumot és a Tiszti pavilont. Zárja a napot egy kellemes sétával az Erzsébet hídon, az összeköttetés szimbólumán.",
+        "ro": "Folosiți transportul public din Komárno pentru a ajunge la atracțiile mai îndepărtate. Începeți ziua în centru, explorând pe jos Curtea Europei și Piața Klapka. Apoi, luați un autobuz către vastul sistem de fortificații. După explorarea istorică, luați autobuzul înapoi pe malul Dunării pentru a vizita muzeul și Pavilionul Ofițerilor. Încheiați ziua cu o plimbare agale peste Podul Elisabeta, un simbol al legăturii.",
+        "en": "Use Komárno's public transport to reach the more distant sights. Start your day in the center, exploring the Courtyard of Europe and Klapka Square on foot. Then, take a bus to the vast Fortress System. After your historical exploration, take a bus back to the Danube riverfront to visit the museum and the Officer's Pavilion. End your day with a leisurely stroll across the Elisabeth Bridge, a symbol of connection."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro in der Nähe von Bushaltestellen",
+            "tip": "Schnappen Sie sich einen schnellen Happen, während Sie auf Ihren Bus warten."
+          },
+          {
+            "name": "Palatschinken",
+            "tip": "Suchen Sie nach Ständen, die diese dünnen Pfannkuchen mit süßen oder herzhaften Füllungen verkaufen."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Probieren Sie frisches Gebäck für ein schnelles Frühstück oder einen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bisztró a buszmegállók közelében",
+            "tip": "Kapjon be egy gyors falatot, amíg a buszra vár."
+          },
+          {
+            "name": "Palacsinta",
+            "tip": "Keressen standokat, ahol vékony palacsintát árulnak édes vagy sós töltelékkel."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Kóstoljon friss péksüteményt egy gyors reggelihez vagy uzsonnához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro lângă stațiile de autobuz",
+            "tip": "Luați o gustare rapidă în timp ce așteptați autobuzul."
+          },
+          {
+            "name": "Palatschinken (Clătite)",
+            "tip": "Căutați standuri care vând aceste clătite subțiri cu umpluturi dulci sau sărate."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Încercați produse de patiserie proaspete pentru un mic dejun rapid sau o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro near bus stops",
+            "tip": "Grab a quick bite while waiting for your bus."
+          },
+          {
+            "name": "Pancakes (Palatschinken)",
+            "tip": "Look for stalls selling these thin pancakes with sweet or savory fillings."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Try some fresh pastries for a quick breakfast or snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Bahnhof",
+            "tip": "Ein oft übersehener, ruhiger Ort.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedhof neben der Festung",
+            "tip": "Ein historischer und friedlicher Ort zum Nachdenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Genießen Sie die wechselnde Landschaft, während Sie durch die Stadt fahren.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park a vasútállomásnál",
+            "tip": "Gyakran figyelmen kívül hagyott, csendes hely.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Temető az erőd mellett",
+            "tip": "Történelmi és békés hely az elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Élvezze a változó tájat, miközben a városon keresztül utazik.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de lângă gară",
+            "tip": "Un loc liniștit, adesea trecut cu vederea.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul de lângă fortăreață",
+            "tip": "Un loc istoric și pașnic pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Privind pe geamul autobuzului",
+            "tip": "Bucurați-vă de peisajul în schimbare în timp ce călătoriți prin oraș.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park by the train station",
+            "tip": "An often-overlooked quiet spot.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cemetery next to the Fortress",
+            "tip": "A historical and peaceful place for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "Enjoy the changing scenery as you travel through the city.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Kaufen Sie Fahrkarten, Getränke und kleine Snacks."
+          },
+          {
+            "name": "Markthalle",
+            "tip": "Wenn Sie Zeit haben, besuchen Sie die lokale Markthalle für frische Produkte und eine authentische Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Vásároljon jegyeket, italokat és apró harapnivalókat."
+          },
+          {
+            "name": "Vásárcsarnok",
+            "tip": "Ha van ideje, látogasson el a helyi vásárcsarnokba friss termékekért és autentikus hangulatért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la stațiile de autobuz",
+            "tip": "Cumpărați bilete, băuturi și gustări mici."
+          },
+          {
+            "name": "Piața centrală",
+            "tip": "Dacă aveți timp, vizitați piața locală pentru produse proaspete și o atmosferă autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "Purchase tickets, drinks, and small snacks."
+          },
+          {
+            "name": "Market Hall",
+            "tip": "If you have time, visit the local market hall for fresh produce and an authentic atmosphere."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Laden Sie die lokale ÖPNV-App herunter oder überprüfen Sie die Fahrpläne online.",
+          "Die Busse können voll sein, besonders zu Stoßzeiten.",
+          "Behalten Sie Ihre Sachen im Auge."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Töltse le a helyi tömegközlekedési alkalmazást, vagy ellenőrizze online a menetrendeket.",
+          "A buszok zsúfoltak lehetnek, különösen csúcsidőben.",
+          "Tartsa szemmel a holmiját."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați aplicația locală de transport public sau verificați orarele online.",
+          "Autobuzele pot fi aglomerate, mai ales la orele de vârf.",
+          "Fiți cu ochii pe bunurile dumneavoastră."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Download the local transit app or check schedules online.",
+          "Buses can be crowded, especially during peak hours.",
+          "Keep an eye on your belongings."
+        ]
+      }
+    }
+  }
+}

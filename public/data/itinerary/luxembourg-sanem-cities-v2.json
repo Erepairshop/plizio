@@ -1,0 +1,1310 @@
+{
+  "city_id": "luxembourg-sanem-cities-v2",
+  "anchor": {
+    "name": "Sassenheim",
+    "coords": [
+      5.9283,
+      49.5472
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Zolwereck",
+            "hu": "Zolwereck",
+            "ro": "Zolwereck",
+            "en": "Zolwereck"
+          },
+          "coords": [
+            5.9301,
+            49.5465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name_4lang": {
+            "de": "Schloss Sanem",
+            "hu": "Sanemi kastély",
+            "ro": "Castelul Sanem",
+            "en": "Sanem Castle"
+          },
+          "coords": [
+            5.9288,
+            49.5478
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8
+        },
+        {
+          "name_4lang": {
+            "de": "CIPA Sanem Garten",
+            "hu": "CIPA Sanem Kert",
+            "ro": "Grădina CIPA Sanem",
+            "en": "CIPA Sanem Garden"
+          },
+          "coords": [
+            5.9275,
+            49.549
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:12",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6
+        },
+        {
+          "name_4lang": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            5.93,
+            49.5468
+          ],
+          "category": "gastro",
+          "arrive_at": "12:28",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8
+        },
+        {
+          "name_4lang": {
+            "de": "Église de Soleuvre",
+            "hu": "Soleuvre-i templom",
+            "ro": "Biserica din Soleuvre",
+            "en": "Soleuvre Church"
+          },
+          "coords": [
+            5.942,
+            49.542
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:12",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2
+        },
+        {
+          "name_4lang": {
+            "de": "Galerie A Spiren",
+            "hu": "A Spiren Galéria",
+            "ro": "Galeria A Spiren",
+            "en": "A Spiren Gallery"
+          },
+          "coords": [
+            5.94,
+            49.543
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Zolwereck, dem historischen Herzen von Sassenheim. Nach einem kurzen Spaziergang erkunden Sie das majestätische Schloss Sanem und seinen ruhigen Garten. Am Nachmittag entdecken Sie die lokale Kunst in der Kirche von Soleuvre und der Galerie A Spiren, die einen Einblick in die Kultur der Region bieten. Der Tag ist eine Mischung aus Geschichte, Kunst und entspannten Spaziergängen.",
+        "hu": "Kezdje a napot Zolwereckben, Sassenheim történelmi szívében. Egy rövid séta után fedezze fel a fenséges Sanemi kastélyt és annak békés kertjét. Délután a helyi művészetbe nyerhet bepillantást a Soleuvre-i templomban és az A Spiren Galériában, amelyek a régió kultúráját mutatják be. A nap a történelem, a művészet és a pihentető séták keveréke.",
+        "ro": "Începeți ziua la Zolwereck, inima istorică a Sassenheimului. După o scurtă plimbare, explorați maiestuosul Castel Sanem și grădina sa liniștită. După-amiaza, descoperiți arta locală la Biserica din Soleuvre și Galeria A Spiren, oferind o privire asupra culturii regiunii. Ziua este un amestec de istorie, artă și plimbări relaxante.",
+        "en": "Start your day at Zolwereck, the historic heart of Sassenheim. After a short walk, explore the majestic Sanem Castle and its tranquil garden. In the afternoon, discover local art at the Soleuvre Church and A Spiren Gallery, offering a glimpse into the region's culture. The day is a blend of history, art, and relaxing walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bouneschlupp",
+            "tip": "Eine traditionelle grüne Bohnensuppe, oft mit Kartoffeln und Speck."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "Ein gekochter Käse, der normalerweise auf Brot mit Senf serviert wird."
+          },
+          {
+            "name": "Restaurant Postkutsch",
+            "tip": "Bietet luxemburgische und französische Küche in einem gemütlichen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bouneschlupp",
+            "tip": "Hagyományos zöldbableves, gyakran krumplival és szalonnával."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "Főtt sajt, általában kenyéren tálalva mustárral."
+          },
+          {
+            "name": "Restaurant Postkutsch",
+            "tip": "Luxemburgi és francia konyhát kínál hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bouneschlupp",
+            "tip": "O supă tradițională de fasole verde, adesea cu cartofi și slănină."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "O brânză gătită, de obicei servită pe pâine cu muștar."
+          },
+          {
+            "name": "Restaurant Postkutsch",
+            "tip": "Oferă bucătărie luxemburgheză și franceză într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bouneschlupp",
+            "tip": "A traditional green bean soup, often with potatoes and bacon."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "A cooked cheese, typically served on bread with mustard."
+          },
+          {
+            "name": "Restaurant Postkutsch",
+            "tip": "Features Luxembourgish and French cuisine in a cozy setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "CIPA Sanem Garten",
+            "tip": "Ein friedlicher Ort, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang um Schloss Sanem",
+            "tip": "Die ruhige Umgebung des Schlosses ist perfekt für einen entspannten Spaziergang.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Mathendahl",
+            "tip": "Ein Naturgebiet für einen ruhigen Moment in der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "CIPA Sanem Kert",
+            "tip": "Békés hely a városi nyüzsgés elől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Sanemi kastély körül",
+            "tip": "A kastély csendes környéke tökéletes egy pihentető sétához.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Mathendahl",
+            "tip": "Természetvédelmi terület egy csendes pillanathoz a természetben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina CIPA Sanem",
+            "tip": "Un loc pașnic pentru a evada din agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare în jurul Castelului Sanem",
+            "tip": "Împrejurimile liniștite ale castelului sunt perfecte pentru o plimbare relaxantă.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Mathendahl",
+            "tip": "O zonă naturală pentru un moment de liniște în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "CIPA Sanem Garden",
+            "tip": "A peaceful spot to escape the town's hustle and bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk around Sanem Castle",
+            "tip": "The quiet surroundings of the castle are perfect for a relaxing stroll.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Mathendahl",
+            "tip": "A natural area for a quiet moment in nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie Ausschau nach lokalen Märkten für frische Produkte und handwerkliche Erzeugnisse."
+          },
+          {
+            "name": "Boutiquen im Zentrum",
+            "tip": "Entdecken Sie kleine Geschäfte rund um den Zolwereck für einzigartige Funde."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a helyi piacokat friss termékekért és kézműves árukért."
+          },
+          {
+            "name": "Butikok a központban",
+            "tip": "Fedezze fel a Zolwereck körüli kis üzleteket egyedi leletekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețele locale pentru produse proaspete și meșteșugărești."
+          },
+          {
+            "name": "Buticuri în centru",
+            "tip": "Explorați magazinele mici din jurul Zolwereck pentru descoperiri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look out for local markets for fresh produce and artisanal goods."
+          },
+          {
+            "name": "Boutiques in the center",
+            "tip": "Explore small shops around Zolwereck for unique finds."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel zu Fuß unterwegs sein werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Prüfen Sie die Öffnungszeiten der Galerie und der Kirche im Voraus.",
+          "Ein leichter Regenmantel ist immer eine gute Idee in Luxemburg."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Előre ellenőrizze a galéria és a templom nyitvatartási idejét.",
+          "Egy könnyű esőkabát mindig jó ötlet Luxemburgban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați cu voi o sticlă de apă reutilizabilă.",
+          "Verificați în prealabil orele de deschidere ale galeriei și bisericii.",
+          "O pelerină de ploaie ușoară este întotdeauna o idee bună în Luxemburg."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring a reusable water bottle.",
+          "Check the opening hours for the gallery and church in advance.",
+          "A light raincoat is always a good idea in Luxembourg."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Schloss Sanem",
+            "hu": "Sanemi kastély",
+            "ro": "Castelul Sanem",
+            "en": "Sanem Castle"
+          },
+          "coords": [
+            5.9288,
+            49.5478
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name_4lang": {
+            "de": "Zolwereck",
+            "hu": "Zolwereck",
+            "ro": "Zolwereck",
+            "en": "Zolwereck"
+          },
+          "coords": [
+            5.9301,
+            49.5465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:20",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8
+        },
+        {
+          "name_4lang": {
+            "de": "Église de Soleuvre",
+            "hu": "Soleuvre-i templom",
+            "ro": "Biserica din Soleuvre",
+            "en": "Soleuvre Church"
+          },
+          "coords": [
+            5.942,
+            49.542
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:57",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0
+        },
+        {
+          "name_4lang": {
+            "de": "Mathendahl",
+            "hu": "Mathendahl",
+            "ro": "Mathendahl",
+            "en": "Mathendahl"
+          },
+          "coords": [
+            5.955,
+            49.538
+          ],
+          "category": "natural features",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5
+        },
+        {
+          "name_4lang": {
+            "de": "Mittagessen in Belval",
+            "hu": "Ebéd Belvalban",
+            "ro": "Prânz în Belval",
+            "en": "Lunch in Belval"
+          },
+          "coords": [
+            5.946,
+            49.501
+          ],
+          "category": "gastro",
+          "arrive_at": "14:02",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.8
+        },
+        {
+          "name_4lang": {
+            "de": "Hochöfen von Belval",
+            "hu": "Belvali nagyolvasztók",
+            "ro": "Furnalele din Belval",
+            "en": "Belval Blast Furnaces"
+          },
+          "coords": [
+            5.9468,
+            49.5005
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:27",
+          "stay_min": 78,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour führt Sie von der historischen Pracht des Schlosses Sanem ins moderne Belval. Erkunden Sie charmante Kirchen und genießen Sie die Natur im Mathendahl. Am Nachmittag tauchen Sie in das industrielle Erbe bei den Hochöfen von Belval ein, einem Symbol für Luxemburgs Stahlvergangenheit. Diese Tour verbindet Natur, Geschichte und Industrie auf zwei Rädern.",
+        "hu": "A kerékpártúra a Sanemi kastély történelmi pompájától a modern Belvalig vezet. Fedezze fel a bájos templomokat és élvezze a természetet Mathendahlban. Délután merüljön el az ipari örökségben a Belvali nagyolvasztóknál, amely Luxemburg acélmúltjának szimbóluma. Ez a túra ötvözi a természetet, a történelmet és az ipart két keréken.",
+        "ro": "Turul cu bicicleta vă poartă de la splendoarea istorică a Castelului Sanem la modernul Belval. Explorați biserici fermecătoare și bucurați-vă de natură la Mathendahl. După-amiaza, cufundați-vă în patrimoniul industrial la Furnalele din Belval, un simbol al trecutului siderurgic al Luxemburgului. Acest tur combină natura, istoria și industria pe două roți.",
+        "en": "Your bike tour takes you from the historic splendor of Sanem Castle to modern Belval. Explore charming churches and enjoy nature at Mathendahl. In the afternoon, immerse yourself in the industrial heritage at the Belval Blast Furnaces, a symbol of Luxembourg's steel past. This tour combines nature, history, and industry on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gromperekichelcher",
+            "tip": "Knusprige Kartoffelpuffer, ein beliebter lokaler Snack."
+          },
+          {
+            "name": "Quetschentaart",
+            "tip": "Ein köstlicher Pflaumenkuchen, besonders im Spätsommer."
+          },
+          {
+            "name": "Urban Belval",
+            "tip": "Restaurant mit moderner Küche und einer tollen Aussicht auf die Hochöfen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gromperekichelcher",
+            "tip": "Ropogós burgonyalepény, egy népszerű helyi snack."
+          },
+          {
+            "name": "Quetschentaart",
+            "tip": "Ízletes szilvás pite, különösen a nyár végén."
+          },
+          {
+            "name": "Urban Belval",
+            "tip": "Modern konyhával rendelkező étterem, remek kilátással a nagyolvasztókra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gromperekichelcher",
+            "tip": "Clătite crocante de cartofi, o gustare locală populară."
+          },
+          {
+            "name": "Quetschentaart",
+            "tip": "O tartă delicioasă cu prune, în special la sfârșitul verii."
+          },
+          {
+            "name": "Urban Belval",
+            "tip": "Restaurant cu bucătărie modernă și o priveliște minunată asupra furnalelor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gromperekichelcher",
+            "tip": "Crispy potato fritters, a popular local snack."
+          },
+          {
+            "name": "Quetschentaart",
+            "tip": "A delicious plum tart, especially in late summer."
+          },
+          {
+            "name": "Urban Belval",
+            "tip": "Restaurant with modern cuisine and a great view of the blast furnaces."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mathendahl",
+            "tip": "Ein perfekter Ort für eine Pause in der Natur während Ihrer Radtour.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de Belval",
+            "tip": "Entspannen Sie sich im Park nach der Erkundung der Hochöfen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer der Alzette (in der Nähe)",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer für eine friedliche Pause.",
+            "emoji": "💧"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mathendahl",
+            "tip": "Tökéletes hely egy szünetre a természetben a kerékpártúra során.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Belval park",
+            "tip": "Pihenjen a parkban a nagyolvasztók felfedezése után.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Az Alzette partja (a közelben)",
+            "tip": "Találjon egy csendes helyet a folyóparton egy békés szünetre.",
+            "emoji": "💧"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mathendahl",
+            "tip": "Un loc perfect pentru o pauză în natură în timpul turului cu bicicleta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Belval",
+            "tip": "Relaxați-vă în parc după explorarea furnalelor.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malurile râului Alzette (în apropiere)",
+            "tip": "Găsiți un loc liniștit pe malul râului pentru o pauză pașnică.",
+            "emoji": "💧"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mathendahl",
+            "tip": "A perfect spot for a break in nature during your bike tour.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de Belval",
+            "tip": "Relax in the park after exploring the blast furnaces.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of the Alzette (nearby)",
+            "tip": "Find a quiet spot by the river for a peaceful break.",
+            "emoji": "💧"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Belval Plaza",
+            "tip": "Ein Einkaufszentrum mit einer Vielzahl von Geschäften und Restaurants."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Suchen Sie nach lokalen Fahrradgeschäften für Zubehör oder Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belval Plaza",
+            "tip": "Bevásárlóközpont üzletek és éttermek széles választékával."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Keressen helyi kerékpárboltokat kiegészítőkért vagy ajándéktárgyakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belval Plaza",
+            "tip": "Un centru comercial cu o varietate de magazine și restaurante."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Căutați magazine locale de biciclete pentru accesorii sau suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Belval Plaza",
+            "tip": "A shopping center with a variety of shops and restaurants."
+          },
+          {
+            "name": "Bike Shops",
+            "tip": "Look for local bike shops for accessories or souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist.",
+          "Tragen Sie einen Helm und sichtbare Kleidung.",
+          "Nutzen Sie die Radwege, wo immer möglich.",
+          "Planen Sie zusätzliche Zeit für unerwartete Stopps oder Pausen ein."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy a kerékpárja jó állapotban van.",
+          "Viseljen sisakot és jól látható ruházatot.",
+          "Használja a kerékpárutakat, ahol csak lehetséges.",
+          "Tervezzen plusz időt a váratlan megállókra vagy szünetekre."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este în stare bună.",
+          "Purtați cască și haine vizibile.",
+          "Folosiți pistele de biciclete ori de câte ori este posibil.",
+          "Planificați timp suplimentar pentru opriri neașteptate sau pauze."
+        ],
+        "en": [
+          "Ensure your bike is in good condition.",
+          "Wear a helmet and visible clothing.",
+          "Use bike paths wherever possible.",
+          "Plan for extra time for unexpected stops or breaks."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 11.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Cluster 1: Hochöfen von Belval",
+            "hu": "1. klaszter: Belvali nagyolvasztók",
+            "ro": "Cluster 1: Furnalele din Belval",
+            "en": "Cluster 1: Belval Blast Furnaces"
+          },
+          "coords": [
+            5.9468,
+            49.5005
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name_4lang": {
+            "de": "Parc de Belval",
+            "hu": "Belval park",
+            "ro": "Parcul Belval",
+            "en": "Parc de Belval"
+          },
+          "coords": [
+            5.948,
+            49.5025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name_4lang": {
+            "de": "Mittagessen in Belval",
+            "hu": "Ebéd Belvalban",
+            "ro": "Prânz în Belval",
+            "en": "Lunch in Belval"
+          },
+          "coords": [
+            5.946,
+            49.501
+          ],
+          "category": "gastro",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name_4lang": {
+            "de": "Cluster 2: Schloss Sanem",
+            "hu": "2. klaszter: Sanemi kastély",
+            "ro": "Cluster 2: Castelul Sanem",
+            "en": "Cluster 2: Sanem Castle"
+          },
+          "coords": [
+            5.9288,
+            49.5478
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5
+        },
+        {
+          "name_4lang": {
+            "de": "Zolwereck",
+            "hu": "Zolwereck",
+            "ro": "Zolwereck",
+            "en": "Zolwereck"
+          },
+          "coords": [
+            5.9301,
+            49.5465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:40",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name_4lang": {
+            "de": "CIPA Sanem Garten",
+            "hu": "CIPA Sanem Kert",
+            "ro": "Grădina CIPA Sanem",
+            "en": "CIPA Sanem Garden"
+          },
+          "coords": [
+            5.9275,
+            49.549
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6
+        },
+        {
+          "name_4lang": {
+            "de": "Cluster 3: Église de Soleuvre",
+            "hu": "3. klaszter: Soleuvre-i templom",
+            "ro": "Cluster 3: Biserica din Soleuvre",
+            "en": "Cluster 3: Soleuvre Church"
+          },
+          "coords": [
+            5.942,
+            49.542
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Autotag führt Sie zu den Highlights der Region. Beginnen Sie mit dem industriellen Erbe in Belval, wo Sie die Hochöfen erkunden und zu Mittag essen. Fahren Sie dann zum historischen Kern von Sassenheim, um das Schloss und den alten Platz zu entdecken. Schließen Sie den Tag mit einem Besuch der charmanten Kirche von Soleuvre ab. Die Cluster-Strategie ermöglicht es Ihnen, zu parken und die einzelnen Bereiche zu Fuß zu erkunden.",
+        "hu": "Ez az autós nap a régió fénypontjaihoz vezet. Kezdje az ipari örökséggel Belvalban, ahol felfedezheti a nagyolvasztókat és megebédelhet. Ezután hajtson Sassenheim történelmi magjába, hogy felfedezze a kastélyt és a régi teret. Zárja a napot a bájos Soleuvre-i templom meglátogatásával. A klaszter-stratégia lehetővé teszi, hogy leparkoljon és gyalog fedezze fel az egyes területeket.",
+        "ro": "Această zi cu mașina vă duce la punctele de atracție ale regiunii. Începeți cu patrimoniul industrial din Belval, explorând furnalele și luând prânzul. Apoi, conduceți spre nucleul istoric al Sassenheimului pentru a descoperi castelul și piața veche. Încheiați ziua cu o vizită la fermecătoarea Biserică din Soleuvre. Strategia pe clustere vă permite să parcați și să explorați fiecare zonă pe jos.",
+        "en": "This car-centric day takes you to the region's highlights. Start with industrial heritage in Belval, exploring the blast furnaces and having lunch. Then, drive to the historic core of Sassenheim to discover the castle and old square. End the day with a visit to the charming Soleuvre Church. The cluster strategy allows you to park and explore each area on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Geräucherter Schweinekragen mit Saubohnen, ein Nationalgericht."
+          },
+          {
+            "name": "F'rell am Rèisleck",
+            "tip": "Forelle in Rieslingsoße, eine luxemburgische Spezialität."
+          },
+          {
+            "name": "Brasserie um Schlass",
+            "tip": "In der Nähe des Schlosses, ideal für ein traditionelles luxemburgisches Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Füstölt sertéstarja lóbabbal, egy nemzeti étel."
+          },
+          {
+            "name": "F'rell am Rèisleck",
+            "tip": "Pisztráng rizlingmártásban, egy luxemburgi specialitás."
+          },
+          {
+            "name": "Brasserie um Schlass",
+            "tip": "A kastély közelében, ideális egy hagyományos luxemburgi étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Ceafă de porc afumată cu fasole fava, un preparat național."
+          },
+          {
+            "name": "F'rell am Rèisleck",
+            "tip": "Păstrăv în sos Riesling, o specialitate luxemburgheză."
+          },
+          {
+            "name": "Brasserie um Schlass",
+            "tip": "Lângă castel, ideal pentru o masă tradițională luxemburgheză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Smoked pork collar with broad beans, a national dish."
+          },
+          {
+            "name": "F'rell am Rèisleck",
+            "tip": "Trout in Riesling sauce, a Luxembourgish specialty."
+          },
+          {
+            "name": "Brasserie um Schlass",
+            "tip": "Located near the castle, ideal for a traditional Luxembourgish meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mathendahl",
+            "tip": "Machen Sie einen kurzen Abstecher für einen ruhigen Spaziergang in der Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "CIPA Sanem Garten",
+            "tip": "Ein verstecktes Juwel für einen Moment der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussicht von den Hochöfen",
+            "tip": "Genießen Sie die überraschend ruhige und weite Aussicht von oben.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mathendahl",
+            "tip": "Tegyen egy rövid kitérőt egy csendes erdei sétáért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "CIPA Sanem Kert",
+            "tip": "Rejtett gyöngyszem egy pillanatnyi békéért.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a nagyolvasztókról",
+            "tip": "Élvezze a meglepően csendes és tágas kilátást fentről.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mathendahl",
+            "tip": "Faceți un scurt ocol pentru o plimbare liniștită în natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina CIPA Sanem",
+            "tip": "O bijuterie ascunsă pentru un moment de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de la Furnale",
+            "tip": "Bucurați-vă de priveliștea surprinzător de liniștită și vastă de sus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mathendahl",
+            "tip": "Take a short detour for a quiet walk in nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "CIPA Sanem Garden",
+            "tip": "A hidden gem for a moment of tranquility.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the Blast Furnaces",
+            "tip": "Enjoy the surprisingly quiet and expansive view from the top.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Belval Plaza",
+            "tip": "Ein modernes Einkaufszentrum für alle Ihre Bedürfnisse."
+          },
+          {
+            "name": "Lokale Produkte",
+            "tip": "Suchen Sie nach Hofläden in der Umgebung für Käse und andere lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belval Plaza",
+            "tip": "Modern bevásárlóközpont minden igényt kielégít."
+          },
+          {
+            "name": "Helyi termékek",
+            "tip": "Keressen a környéken gazdaságboltokat sajtért és más helyi specialitásokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belval Plaza",
+            "tip": "Un centru comercial modern pentru toate nevoile dumneavoastră."
+          },
+          {
+            "name": "Produse locale",
+            "tip": "Căutați magazine de fermă în zonă pentru brânzeturi și alte specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Belval Plaza",
+            "tip": "A modern shopping mall for all your needs."
+          },
+          {
+            "name": "Local produce",
+            "tip": "Look for farm shops in the area for cheese and other local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Parkplätze im Voraus, besonders in Belval.",
+          "Die Cluster-Strategie spart Zeit und Parkgebühren.",
+          "Kombinieren Sie Ihren Besuch mit einem Event in der Rockhal in Belval, falls möglich.",
+          "Tanken Sie, bevor Sie ländlichere Gebiete erkunden."
+        ],
+        "hu": [
+          "Tervezze meg előre a parkolást, különösen Belvalban.",
+          "A klaszter-stratégia időt és parkolási díjakat takarít meg.",
+          "Ha lehetséges, kösse össze látogatását egy eseménnyel a belvali Rockhalban.",
+          "Tankoljon, mielőtt a vidéki területeket felfedezné."
+        ],
+        "ro": [
+          "Planificați-vă parcarea în avans, în special în Belval.",
+          "Strategia pe clustere economisește timp și taxe de parcare.",
+          "Combinați vizita cu un eveniment la Rockhal în Belval, dacă este posibil.",
+          "Alimentați cu combustibil înainte de a explora zonele rurale."
+        ],
+        "en": [
+          "Plan your parking in advance, especially in Belval.",
+          "The cluster strategy saves time and parking fees.",
+          "Combine your visit with an event at the Rockhal in Belval if possible.",
+          "Fuel up before exploring more rural areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Cluster 1: Schloss Sanem",
+            "hu": "1. klaszter: Sanemi kastély",
+            "ro": "Cluster 1: Castelul Sanem",
+            "en": "Cluster 1: Sanem Castle"
+          },
+          "coords": [
+            5.9288,
+            49.5478
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name_4lang": {
+            "de": "Zolwereck",
+            "hu": "Zolwereck",
+            "ro": "Zolwereck",
+            "en": "Zolwereck"
+          },
+          "coords": [
+            5.9301,
+            49.5465
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:30",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name_4lang": {
+            "de": "Cluster 2: Hochöfen von Belval",
+            "hu": "2. klaszter: Belvali nagyolvasztók",
+            "ro": "Cluster 2: Furnalele din Belval",
+            "en": "Cluster 2: Belval Blast Furnaces"
+          },
+          "coords": [
+            5.9468,
+            49.5005
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 9.5
+        },
+        {
+          "name_4lang": {
+            "de": "Parc de Belval",
+            "hu": "Belval park",
+            "ro": "Parcul Belval",
+            "en": "Parc de Belval"
+          },
+          "coords": [
+            5.948,
+            49.5025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:25",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name_4lang": {
+            "de": "Mittagessen und Galerie A Spiren",
+            "hu": "Ebéd és az A Spiren Galéria",
+            "ro": "Prânz și Galeria A Spiren",
+            "en": "Lunch and A Spiren Gallery"
+          },
+          "coords": [
+            5.94,
+            49.543
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name_4lang": {
+            "de": "Église de Soleuvre",
+            "hu": "Soleuvre-i templom",
+            "ro": "Biserica din Soleuvre",
+            "en": "Soleuvre Church"
+          },
+          "coords": [
+            5.942,
+            49.542
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie mühelos Sassenheim und Belval. Beginnen Sie im historischen Sassenheim mit dem Schloss und dem alten Platz. Nehmen Sie dann einen Bus oder Zug nach Belval, um in das industrielle Erbe einzutauchen und den modernen Park zu genießen. Der Tag endet mit einem entspannten Besuch der Kirche und Galerie in Soleuvre, alles bequem mit dem Nahverkehr erreichbar.",
+        "hu": "Tömegközlekedéssel könnyedén felfedezheti Sassenheimet és Belvalt. Kezdje a történelmi Sassenheimben a kastéllyal és a régi térrel. Ezután szálljon buszra vagy vonatra Belvalba, hogy elmerüljön az ipari örökségben és élvezze a modern parkot. A nap egy pihentető látogatással zárul a Soleuvre-i templomban és galériában, mindezt kényelmesen elérve a helyi közlekedéssel.",
+        "ro": "Folosind transportul public, explorați cu ușurință Sassenheim și Belval. Începeți în Sassenheimul istoric cu castelul și piața veche. Apoi, luați un autobuz sau un tren spre Belval pentru a vă cufunda în patrimoniul industrial și a vă bucura de parcul modern. Ziua se încheie cu o vizită relaxantă la biserica și galeria din Soleuvre, toate accesibile convenabil cu transportul local.",
+        "en": "Using public transit, you'll effortlessly explore Sassenheim and Belval. Start in historic Sassenheim with its castle and old square. Then, take a bus or train to Belval to immerse yourself in the industrial heritage and enjoy the modern park. The day concludes with a relaxing visit to the church and gallery in Soleuvre, all conveniently reached by local transport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rieslingspaschtéit",
+            "tip": "Eine Fleischpastete mit Riesling-Gelee, kalt serviert."
+          },
+          {
+            "name": "Thüringer",
+            "tip": "Gegrillte Würstchen, oft auf Märkten und Festen zu finden."
+          },
+          {
+            "name": "Dimmi Si",
+            "tip": "Ein beliebtes italienisches Restaurant in Belval, ideal für eine Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rieslingspaschtéit",
+            "tip": "Húspástétom rizlingzselével, hidegen tálalva."
+          },
+          {
+            "name": "Thüringer",
+            "tip": "Grillezett kolbász, gyakran kapható piacokon és fesztiválokon."
+          },
+          {
+            "name": "Dimmi Si",
+            "tip": "Népszerű olasz étterem Belvalban, ideális egy szünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rieslingspaschtéit",
+            "tip": "O plăcintă cu carne și jeleu de Riesling, servită rece."
+          },
+          {
+            "name": "Thüringer",
+            "tip": "Cârnați la grătar, adesea găsiți în piețe și la festivaluri."
+          },
+          {
+            "name": "Dimmi Si",
+            "tip": "Un restaurant italian popular în Belval, ideal pentru o pauză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rieslingspaschtéit",
+            "tip": "A meat pie with Riesling jelly, served cold."
+          },
+          {
+            "name": "Thüringer",
+            "tip": "Grilled sausages, often found at markets and festivals."
+          },
+          {
+            "name": "Dimmi Si",
+            "tip": "A popular Italian restaurant in Belval, great for a break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de Belval",
+            "tip": "Ein moderner, weitläufiger Park, der sich perfekt für eine Pause eignet.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Spaziergang entlang des Flüsschens",
+            "tip": "Finden Sie einen Weg entlang eines lokalen Baches für einen friedlichen Moment.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Lesen im CIPA Sanem Garten",
+            "tip": "Ein ruhiger Garten, um sich mit einem Buch niederzulassen.",
+            "emoji": "📖"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belval park",
+            "tip": "Modern, tágas park, amely tökéletes egy szünetre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Séta a patak mentén",
+            "tip": "Találjon egy ösvényt egy helyi patak mentén egy békés pillanatra.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Olvasás a CIPA Sanem Kertben",
+            "tip": "Csendes kert, ahol letelepedhet egy könyvvel.",
+            "emoji": "📖"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Belval",
+            "tip": "Un parc modern și întins, perfect pentru o pauză.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Plimbare pe lângă pârâu",
+            "tip": "Găsiți o cărare pe lângă un pârâu local pentru un moment de pace.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Citit în Grădina CIPA Sanem",
+            "tip": "O grădină liniștită unde vă puteți așeza cu o carte.",
+            "emoji": "📖"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de Belval",
+            "tip": "A modern, spacious park perfect for taking a break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Stroll along the stream",
+            "tip": "Find a path along a local stream for a peaceful moment.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Reading in CIPA Sanem Garden",
+            "tip": "A quiet garden to settle down with a book.",
+            "emoji": "📖"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs im Schloss-Shop",
+            "tip": "Finden Sie einzigartige Geschenke im Souvenirladen des Schlosses Sanem."
+          },
+          {
+            "name": "Belval Plaza",
+            "tip": "Nutzen Sie die Anbindung an die öffentlichen Verkehrsmittel für einen Einkaufsbummel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak a kastélyboltban",
+            "tip": "Találjon egyedi ajándékokat a Sanemi kastély ajándékboltjában."
+          },
+          {
+            "name": "Belval Plaza",
+            "tip": "Használja ki a tömegközlekedési kapcsolatot egy bevásárláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la magazinul castelului",
+            "tip": "Găsiți cadouri unice la magazinul de suveniruri al Castelului Sanem."
+          },
+          {
+            "name": "Belval Plaza",
+            "tip": "Profitați de conexiunea cu transportul public pentru o sesiune de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at the castle shop",
+            "tip": "Find unique gifts at the Sanem Castle gift shop."
+          },
+          {
+            "name": "Belval Plaza",
+            "tip": "Take advantage of the public transit connection for a shopping spree."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die App für den öffentlichen Nahverkehr herunter, um Fahrpläne in Echtzeit zu erhalten.",
+          "Beachten Sie, dass Busse in ländlichen Gebieten seltener fahren könnten.",
+          "Validieren Sie Ihr Ticket bei jeder Fahrt, um Strafen zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Vegye figyelembe, hogy a buszok ritkábban közlekedhetnek a vidéki területeken.",
+          "Érvényesítse jegyét minden utazásnál a bírságok elkerülése érdekében."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația de transport public pentru orare în timp real.",
+          "Rețineți că autobuzele pot circula mai rar în zonele rurale.",
+          "Validați biletul la fiecare călătorie pentru a evita amenzile."
+        ],
+        "en": [
+          "Purchase a day pass for unlimited travel.",
+          "Download the public transport app for real-time schedules.",
+          "Be aware that buses may be less frequent in rural areas.",
+          "Validate your ticket on each ride to avoid fines."
+        ]
+      }
+    }
+  }
+}

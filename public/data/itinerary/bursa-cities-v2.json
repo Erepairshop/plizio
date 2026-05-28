@@ -1,0 +1,1495 @@
+{
+  "city_id": "bursa-cities-v2",
+  "anchor": {
+    "name": "Bursa",
+    "coords": [
+      40.1826,
+      29.061
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Koza Han (Seidenbasar)",
+            "hu": "Koza Han (Selyempiac)",
+            "ro": "Koza Han (Bazarul de Mătase)",
+            "en": "Koza Han (Silk Bazaar)"
+          },
+          "coords": [
+            29.064,
+            40.184
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Tee im Innenhof, um das geschäftige Treiben zu beobachten.",
+            "hu": "Igyon egy teát a belső udvarban, és figyelje a nyüzsgést.",
+            "ro": "Savurați un ceai în curtea interioară pentru a observa agitația.",
+            "en": "Have a tea in the inner courtyard to watch the bustling activity."
+          }
+        },
+        {
+          "name": {
+            "de": "Ulu Cami (Große Moschee)",
+            "hu": "Ulu Cami (Nagy Mecset)",
+            "ro": "Ulu Cami (Marea Moschee)",
+            "en": "Ulu Cami (Grand Mosque)"
+          },
+          "coords": [
+            29.062,
+            40.184
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie den einzigartigen Brunnen (Şadırvan) im Inneren der Moschee.",
+            "hu": "Csodálja meg a mecseten belül található egyedi szökőkutat (Şadırvan).",
+            "ro": "Admirați fântâna unică (Șadırvan) situată în interiorul moscheii.",
+            "en": "Admire the unique fountain (Şadırvan) located inside the mosque."
+          }
+        },
+        {
+          "name": {
+            "de": "Irgandı-Brücke",
+            "hu": "Irgandı-híd",
+            "ro": "Podul Irgandı",
+            "en": "Irgandı Bridge"
+          },
+          "coords": [
+            29.068,
+            40.183
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stöbern Sie in den kleinen Kunsthandwerksläden direkt auf der Brücke.",
+            "hu": "Nézzen körül a hídon található kis kézműves boltokban.",
+            "ro": "Explorați micile magazine de artizanat situate chiar pe pod.",
+            "en": "Browse the small artisan shops located directly on the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Yeşil Türbe (Grünes Mausoleum)",
+            "hu": "Yeşil Türbe (Zöld Türbe)",
+            "ro": "Yeşil Türbe (Mausoleul Verde)",
+            "en": "Yeşil Türbe (Green Tomb)"
+          },
+          "coords": [
+            29.071,
+            40.181
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beachten Sie die exquisiten Iznik-Kacheln, die dem Mausoleum seinen Namen geben.",
+            "hu": "Figyelje meg a gyönyörű Iznik-csempéket, amelyek a türbe nevét adják.",
+            "ro": "Observați plăcile rafinate de Iznik care dau numele mausoleului.",
+            "en": "Note the exquisite Iznik tiles that give the mausoleum its name."
+          }
+        },
+        {
+          "name": {
+            "de": "Tophane-Uhrturm & Zitadelle",
+            "hu": "Tophane óratorony és citadella",
+            "ro": "Turnul cu ceas Tophane și Citadela",
+            "en": "Tophane Clock Tower & Citadel"
+          },
+          "coords": [
+            29.057,
+            40.188
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie von hier den Panoramablick über die Stadt – besonders schön bei Sonnenuntergang.",
+            "hu": "Élvezze a panorámás kilátást a városra - naplementekor különösen szép.",
+            "ro": "Bucurați-vă de vederea panoramică asupra orașului de aici - deosebit de frumoasă la apus.",
+            "en": "Enjoy the panoramic city view from here – it's especially beautiful at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Muradiye-Komplex",
+            "hu": "Muradiye-komplexum",
+            "ro": "Complexul Muradiye",
+            "en": "Muradiye Complex"
+          },
+          "coords": [
+            29.049,
+            40.188
+          ],
+          "category": "historical",
+          "arrive_at": "15:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den friedlichen Friedhof und bewundern Sie die vielen osmanischen Gräber.",
+            "hu": "Sétáljon végig a békés temetőn, és csodálja meg a számos oszmán sírt.",
+            "ro": "Plimbați-vă prin cimitirul liniștit și admirați numeroasele morminte otomane.",
+            "en": "Walk through the peaceful cemetery and admire the many Ottoman tombs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Seidenstraße im Koza Han, gefolgt von der spirituellen Atmosphäre der Ulu Cami. Am Mittag überqueren Sie die historische Irgandı-Brücke und bewundern die Kacheln des Grünen Mausoleums. Erklimmen Sie am Nachmittag den Tophane-Hügel für eine atemberaubende Aussicht, bevor Sie in die osmanische Geschichte im Muradiye-Komplex eintauchen. Der Abend gehört dem Genuss eines authentischen İskender Kebap in einem der traditionellen Restaurants der Stadt.",
+        "hu": "Kezdje a napot a Selyemút szívében, a Koza Hanban, majd merüljön el az Ulu Cami spirituális légkörében. Délben keljen át a történelmi Irgandı-hídon, és csodálja meg a Zöld Türbe csempéit. Délután másszon fel a Tophane-dombra a lélegzetelállító kilátásért, mielőtt elmerülne az oszmán történelemben a Muradiye-komplexumban. Az estét egy autentikus İskender kebap elfogyasztásával zárja a város egyik hagyományos éttermében.",
+        "ro": "Începeți ziua în inima Drumului Mătăsii la Koza Han, urmată de atmosfera spirituală a Ulu Cami. La prânz, traversați istoricul Pod Irgandı și admirați faianța de la Mausoleul Verde. După-amiaza, urcați pe Dealul Tophane pentru o priveliște uluitoare, înainte de a vă cufunda în istoria otomană la Complexul Muradiye. Seara este dedicată savurării unui İskender Kebap autentic la unul dintre restaurantele tradiționale ale orașului.",
+        "en": "Start your day in the heart of the Silk Road at Koza Han, followed by the spiritual atmosphere of Ulu Cami. At noon, cross the historic Irgandı Bridge and admire the tiles of the Green Tomb. In the afternoon, climb Tophane Hill for a breathtaking view before delving into Ottoman history at the Muradiye Complex. The evening is for enjoying an authentic İskender Kebap at one of the city's traditional restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "İskender Kebap",
+            "tip": "Das berühmteste Gericht Bursas. Probieren Sie es bei 'Kebapçı İskender' in der Nähe von Heykel."
+          },
+          {
+            "name": "Pideli Köfte",
+            "tip": "Eine weitere lokale Spezialität, leckere Fleischbällchen auf Fladenbrot."
+          },
+          {
+            "name": "Kemalpaşa Tatlısı",
+            "tip": "Ein süßer Käse-Nachtisch, getränkt in Sirup."
+          }
+        ],
+        "hu": [
+          {
+            "name": "İskender Kebap",
+            "tip": "Bursa leghíresebb étele. Kóstolja meg a 'Kebapçı İskender'-ben a Heykel közelében."
+          },
+          {
+            "name": "Pideli Köfte",
+            "tip": "Egy másik helyi specialitás, ízletes húsgombócok pitán."
+          },
+          {
+            "name": "Kemalpaşa Tatlısı",
+            "tip": "Édes sajtos desszert szirupba áztatva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "İskender Kebap",
+            "tip": "Cel mai faimos fel de mâncare din Bursa. Încercați-l la 'Kebapçı İskender' lângă Heykel."
+          },
+          {
+            "name": "Pideli Köfte",
+            "tip": "O altă specialitate locală, chiftele delicioase pe pâine plată."
+          },
+          {
+            "name": "Kemalpaşa Tatlısı",
+            "tip": "Un desert dulce cu brânză, înmuiat în sirop."
+          }
+        ],
+        "en": [
+          {
+            "name": "İskender Kebap",
+            "tip": "Bursa's most famous dish. Try it at 'Kebapçı İskender' near Heykel."
+          },
+          {
+            "name": "Pideli Köfte",
+            "tip": "Another local specialty, delicious meatballs on flatbread."
+          },
+          {
+            "name": "Kemalpaşa Tatlısı",
+            "tip": "A sweet cheese dessert soaked in syrup."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tophane Park",
+            "tip": "Setzen Sie sich auf eine Bank und genießen Sie die Aussicht abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muradiye-Komplex Garten",
+            "tip": "Ein friedlicher Ort, umgeben von Geschichte.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Uludağ Nationalpark",
+            "tip": "Nehmen Sie die Seilbahn für absolute Ruhe und spektakuläre Natur.",
+            "emoji": "🚠"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tophane Park",
+            "tip": "Üljön le egy padra, és élvezze a kilátást a tömegtől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muradiye-komplexum kertje",
+            "tip": "Békés hely, történelemmel körülvéve.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Uludağ Nemzeti Park",
+            "tip": "Menjen fel a felvonóval a teljes csendért és a látványos természetért.",
+            "emoji": "🚠"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Tophane",
+            "tip": "Așezați-vă pe o bancă și bucurați-vă de priveliște departe de mulțime.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Complexului Muradiye",
+            "tip": "Un loc pașnic înconjurat de istorie.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Național Uludağ",
+            "tip": "Luați telecabina pentru liniște absolută și natură spectaculoasă.",
+            "emoji": "🚠"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tophane Park",
+            "tip": "Sit on a bench and enjoy the view away from the crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muradiye Complex Garden",
+            "tip": "A peaceful spot surrounded by history.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Uludağ National Park",
+            "tip": "Take the cable car for absolute tranquility and spectacular nature.",
+            "emoji": "🚠"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Koza Han",
+            "tip": "Der beste Ort für hochwertige Seidenschals und Textilien."
+          },
+          {
+            "name": "Bursa Kapalı Çarşı (Überdachter Basar)",
+            "tip": "Ein Labyrinth aus Gassen mit allem von Gewürzen bis zu Antiquitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Koza Han",
+            "tip": "A legjobb hely minőségi selyemsálak és textíliák vásárlásához."
+          },
+          {
+            "name": "Bursa Kapalı Çarşı (Fedett Bazár)",
+            "tip": "Utcák labirintusa, ahol a fűszerektől az régiségekig mindent megtalál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Koza Han",
+            "tip": "Cel mai bun loc pentru eșarfe de mătase și textile de înaltă calitate."
+          },
+          {
+            "name": "Bursa Kapalı Çarşı (Bazarul Acoperit)",
+            "tip": "Un labirint de alei cu de toate, de la mirodenii la antichități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Koza Han",
+            "tip": "The best place for high-quality silk scarves and textiles."
+          },
+          {
+            "name": "Bursa Kapalı Çarşı (Covered Bazaar)",
+            "tip": "A labyrinth of alleys with everything from spices to antiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Halten Sie beim Betreten von Moscheen ein Kopftuch bereit.",
+          "Feilschen ist auf den Basaren üblich, aber bleiben Sie respektvoll.",
+          "Probieren Sie unbedingt frisch gepressten Granatapfelsaft."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek.",
+          "Legyen kéznél egy kendő, amikor mecsetekbe lép.",
+          "Az alkudozás szokás a bazárokban, de maradjon tisztelettudó.",
+          "Feltétlenül kóstolja meg a frissen facsart gránátalmalevet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele pot fi denivelate.",
+          "Aveți la îndemână o eșarfă la intrarea în moschei.",
+          "Negocierea este obișnuită în bazaruri, dar fiți respectuos.",
+          "Nu uitați să încercați sucul de rodie proaspăt stors."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Have a scarf ready when entering mosques.",
+          "Haggling is common in the bazaars, but remain respectful.",
+          "Be sure to try freshly squeezed pomegranate juice."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tophane-Park",
+            "hu": "Tophane Park",
+            "ro": "Parcul Tophane",
+            "en": "Tophane Park"
+          },
+          "coords": [
+            29.057,
+            40.188
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier für die beste Morgenansicht und um die Hügel am Anfang zu bewältigen.",
+            "hu": "Kezdje itt a legjobb reggeli kilátásért, és hogy letudja a dombokat az elején.",
+            "ro": "Începeți de aici pentru cea mai bună priveliște de dimineață și pentru a aborda dealurile la început.",
+            "en": "Start here for the best morning view and to tackle the hills at the beginning."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Bursa",
+            "hu": "Bursai citadella",
+            "ro": "Citadela din Bursa",
+            "en": "Citadel of Bursa"
+          },
+          "coords": [
+            29.056,
+            40.187
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Mauern und die Gräber von Osman und Orhan Gazi.",
+            "hu": "Fedezze fel az ősi falakat és Osman és Orhan Gazi sírját.",
+            "ro": "Explorați zidurile vechi și mormintele lui Osman și Orhan Gazi.",
+            "en": "Explore the ancient walls and the tombs of Osman and Orhan Gazi."
+          }
+        },
+        {
+          "name": {
+            "de": "Muradiye-Komplex",
+            "hu": "Muradiye-komplexum",
+            "ro": "Complexul Muradiye",
+            "en": "Muradiye Complex"
+          },
+          "coords": [
+            29.049,
+            40.188
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Dieser ruhige Komplex ist eine willkommene Abwechslung vom Trubel der Stadt.",
+            "hu": "Ez a csendes komplexum üdítő változatosság a város nyüzsgése után.",
+            "ro": "Acest complex liniștit este o pauză binevenită de la agitația orașului.",
+            "en": "This quiet complex is a welcome break from the city's hustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Koza Han",
+            "hu": "Koza Han",
+            "ro": "Koza Han",
+            "en": "Koza Han"
+          },
+          "coords": [
+            29.064,
+            40.184
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause und den Kauf von Seidensouvenirs.",
+            "hu": "Tökéletes egy ebédszünetre és selyem szuvenírek vásárlására.",
+            "ro": "Perfect pentru o pauză de prânz și pentru a cumpăra suveniruri din mătase.",
+            "en": "Perfect for a lunch break and buying silk souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Ulu Cami",
+            "hu": "Ulu Cami",
+            "ro": "Ulu Cami",
+            "en": "Ulu Cami"
+          },
+          "coords": [
+            29.062,
+            40.184
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich Zeit für die beeindruckende Kalligraphie.",
+            "hu": "Parkolja le a kerékpárt a közelben, és szánjon időt a lenyűgöző kalligráfiára.",
+            "ro": "Parcați bicicleta în apropiere și acordați-vă timp pentru caligrafia impresionantă.",
+            "en": "Park your bike nearby and take your time for the impressive calligraphy."
+          }
+        },
+        {
+          "name": {
+            "de": "Irgandı-Brücke",
+            "hu": "Irgandı-híd",
+            "ro": "Podul Irgandı",
+            "en": "Irgandı Bridge"
+          },
+          "coords": [
+            29.068,
+            40.183
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Seien Sie vorsichtig mit Fußgängern; schieben Sie Ihr Fahrrad über die Brücke.",
+            "hu": "Legyen óvatos a gyalogosokkal; tolja a kerékpárt a hídon.",
+            "ro": "Aveți grijă la pietoni; împingeți bicicleta pe pod.",
+            "en": "Be careful with pedestrians; it's best to walk your bike across the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Yeşil Türbe & Moschee",
+            "hu": "Yeşil Türbe és Mecset",
+            "ro": "Yeşil Türbe și Moscheea",
+            "en": "Yeşil Türbe & Mosque"
+          },
+          "coords": [
+            29.071,
+            40.181
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss der Tour mit Blick auf die grünen Kacheln.",
+            "hu": "A túra szép lezárása a zöld csempék látványával.",
+            "ro": "Un final frumos al turului cu vedere la faianța verde.",
+            "en": "A beautiful end to the tour with a view of the green tiles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Tag mit einer Radtour zum Tophane-Park, um die beste Aussicht zu genießen. Fahren Sie dann bergab zur historischen Zitadelle und dem friedlichen Muradiye-Komplex. Gönnen Sie sich eine Mittagspause im geschäftigen Koza Han, bevor Sie die spirituelle Ulu Cami und die einzigartige Irgandı-Brücke besuchen. Beenden Sie Ihre Radtour am Nachmittag am ikonischen Yeşil Türbe. Zum Abendessen lockt die Altstadt mit kulinarischen Köstlichkeiten.",
+        "hu": "Kezdje a napot egy biciklitúrával a Tophane Parkba a legjobb kilátásért. Ezután tekerjen le a történelmi Citadellához és a békés Muradiye-komplexumhoz. Tartson egy ebédszünetet a nyüzsgő Koza Hanban, mielőtt meglátogatná a spirituális Ulu Camit és az egyedülálló Irgandı-hidat. A délutáni biciklitúrát az ikonikus Yeşil Türbénél fejezze be. Vacsorára az óváros kulináris élvezetekkel csábít.",
+        "ro": "Începeți ziua cu o plimbare cu bicicleta în Parcul Tophane pentru cea mai bună priveliște. Apoi coborâți la Citadela istorică și la liniștitul Complex Muradiye. Luați o pauză de prânz în aglomeratul Koza Han înainte de a vizita spirituala Ulu Cami și unicul Pod Irgandı. Încheiați turul cu bicicleta după-amiaza la iconicul Yeşil Türbe. Pentru cină, orașul vechi vă atrage cu deliciile sale culinare.",
+        "en": "Start the day with a bike ride to Tophane Park for the best views. Then, cycle downhill to the historic Citadel and the peaceful Muradiye Complex. Take a lunch break in the bustling Koza Han before visiting the spiritual Ulu Cami and the unique Irgandı Bridge. Finish your afternoon bike tour at the iconic Yeşil Türbe. For dinner, the old town beckons with its culinary delights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "İskender Kebap",
+            "tip": "Ein Muss in Bursa! Probieren Sie es im historischen Zentrum."
+          },
+          {
+            "name": "Tahinli Pide",
+            "tip": "Ein süßes oder herzhaftes Fladenbrot mit Tahini, perfekt für einen schnellen Snack."
+          },
+          {
+            "name": "Kestane Şekeri",
+            "tip": "Kandierte Kastanien, eine berühmte Süßigkeit aus Bursa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "İskender Kebap",
+            "tip": "Kötelező Bursában! Kóstolja meg a történelmi központban."
+          },
+          {
+            "name": "Tahinli Pide",
+            "tip": "Édes vagy sós lepénykenyér tahinivel, tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Kestane Şekeri",
+            "tip": "Kandírozott gesztenye, egy híres bursai édesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "İskender Kebap",
+            "tip": "O necesitate în Bursa! Încercați-l în centrul istoric."
+          },
+          {
+            "name": "Tahinli Pide",
+            "tip": "O lipie dulce sau sărată cu tahini, perfectă pentru o gustare rapidă."
+          },
+          {
+            "name": "Kestane Şekeri",
+            "tip": "Castane confiate, un dulce celebru din Bursa."
+          }
+        ],
+        "en": [
+          {
+            "name": "İskender Kebap",
+            "tip": "A must-try in Bursa! Have it in the historic center."
+          },
+          {
+            "name": "Tahinli Pide",
+            "tip": "A sweet or savory flatbread with tahini, perfect for a quick snack."
+          },
+          {
+            "name": "Kestane Şekeri",
+            "tip": "Candied chestnuts, a famous sweet from Bursa."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bursa Botanik Parkı",
+            "tip": "Ein großer Park, ideal für eine entspannte Radtour abseits des Verkehrs.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Muradiye-Komplexes",
+            "tip": "Eine Oase der Ruhe, um dem Stadtlärm zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht vom Tophane-Hügel",
+            "tip": "Genießen Sie die Ruhe am frühen Morgen, bevor die Menschenmassen kommen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bursa Botanik Parkı",
+            "tip": "Nagy park, ideális egy pihentető biciklitúrához a forgalomtól távol."
+          },
+          {
+            "name": "Muradiye-komplexum kertjei",
+            "tip": "A nyugalom oázisa a város zajától távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Tophane-dombról",
+            "tip": "Élvezze a kora reggeli csendet, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Botanic Bursa",
+            "tip": "Un parc mare, ideal pentru o plimbare relaxantă cu bicicleta, departe de trafic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Complexului Muradiye",
+            "tip": "O oază de liniște pentru a scăpa de zgomotul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliștea de pe Dealul Tophane",
+            "tip": "Bucurați-vă de liniștea dimineții devreme înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bursa Botanic Park",
+            "tip": "A large park, ideal for a relaxed bike ride away from traffic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muradiye Complex Gardens",
+            "tip": "An oasis of peace to escape the city noise.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Tophane Hill",
+            "tip": "Enjoy the quiet of the early morning before the crowds arrive.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Irgandı-Brücke",
+            "tip": "Einzigartiges Kunsthandwerk von lokalen Künstlern."
+          },
+          {
+            "name": "Kayhan-Basar",
+            "tip": "Berühmt für seine Messerschmiede und Metallarbeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Irgandı-híd",
+            "tip": "Egyedi kézműves termékek helyi művészektől."
+          },
+          {
+            "name": "Kayhan Bazár",
+            "tip": "Híres késkészítőiről és fémmunkáiról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podul Irgandı",
+            "tip": "Artizanat unic de la artiști locali."
+          },
+          {
+            "name": "Bazarul Kayhan",
+            "tip": "Faimos pentru cuțitarii și lucrările sale metalice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Irgandı Bridge",
+            "tip": "Unique handicrafts from local artists."
+          },
+          {
+            "name": "Kayhan Bazaar",
+            "tip": "Famous for its cutlers and metalwork."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen für die Abfahrten.",
+          "Bursa ist hügelig; seien Sie auf einige Anstiege vorbereitet.",
+          "Vermeiden Sie die Hauptverkehrsstraßen während der Stoßzeiten.",
+          "Schließen Sie Ihr Fahrrad immer gut ab."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket a lejtőkhöz.",
+          "Bursa dombos; készüljön fel néhány emelkedőre.",
+          "Kerülje a főutakat csúcsidőben.",
+          "Mindig zárja le jól a kerékpárt."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele pentru coborâri.",
+          "Bursa este deluroasă; fiți pregătit pentru câteva urcări.",
+          "Evitați drumurile principale în timpul orelor de vârf.",
+          "Încuiati-vă întotdeauna bicicleta bine."
+        ],
+        "en": [
+          "Check your bike before you start, especially the brakes for the descents.",
+          "Bursa is hilly; be prepared for some climbs.",
+          "Avoid the main roads during peak hours.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Muradiye-Komplex",
+            "hu": "Muradiye-komplexum",
+            "ro": "Complexul Muradiye",
+            "en": "Muradiye Complex"
+          },
+          "coords": [
+            29.049,
+            40.188
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster zu erkunden. Der Komplex ist morgens ruhig.",
+            "hu": "Parkoljon itt az első klaszter felfedezéséhez. A komplexum reggel csendes.",
+            "ro": "Parcați aici pentru a explora primul cluster. Complexul este liniștit dimineața.",
+            "en": "Park here to explore the first cluster. The complex is quiet in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Karagöz-Museum",
+            "hu": "Karagöz Múzeum",
+            "ro": "Muzeul Karagöz",
+            "en": "Karagöz Museum"
+          },
+          "coords": [
+            29.045,
+            40.187
+          ],
+          "category": "museums",
+          "arrive_at": "10:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Muradiye. Ein lustiger Einblick in die türkische Kultur.",
+            "hu": "Rövid séta a Muradiye-től. Szórakoztató bepillantás a török kultúrába.",
+            "ro": "O scurtă plimbare de la Muradiye. O incursiune amuzantă în cultura turcă.",
+            "en": "A short walk from Muradiye. A fun insight into Turkish culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Tophane-Uhrturm & Zitadelle",
+            "hu": "Tophane óratorony és citadella",
+            "ro": "Turnul cu ceas Tophane și Citadela",
+            "en": "Tophane Clock Tower & Citadel"
+          },
+          "coords": [
+            29.057,
+            40.188
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:42",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Tophane-Hügel. Die Parkmöglichkeiten sind begrenzt, aber die Aussicht ist es wert.",
+            "hu": "Vezessen a Tophane-dombra. A parkolás korlátozott, de a kilátás megéri.",
+            "ro": "Conduceți până pe Dealul Tophane. Parcarea este limitată, dar priveliștea merită.",
+            "en": "Drive up to Tophane Hill. Parking is limited, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Aussicht",
+            "hu": "Ebéd kilátással",
+            "ro": "Prânz cu vedere",
+            "en": "Lunch with a View"
+          },
+          "coords": [
+            29.058,
+            40.187
+          ],
+          "category": "gastro",
+          "arrive_at": "12:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Mehrere Restaurants in Tophane bieten traditionelle Küche mit Panoramablick.",
+            "hu": "Számos étterem a Tophane-on panorámás kilátással kínál hagyományos ételeket.",
+            "ro": "Mai multe restaurante din Tophane oferă bucătărie tradițională cu vedere panoramică.",
+            "en": "Several restaurants in Tophane offer traditional cuisine with panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Koza Han & Ulu Cami",
+            "hu": "Koza Han és Ulu Cami",
+            "ro": "Koza Han & Ulu Cami",
+            "en": "Koza Han & Ulu Cami"
+          },
+          "coords": [
+            29.064,
+            40.184
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem der Parkhäuser in der Nähe des Basars für den letzten Cluster.",
+            "hu": "Parkoljon a bazár közelében lévő parkolóházak egyikében az utolsó klaszterhez.",
+            "ro": "Parcați într-una dintre parcările din apropierea bazarului pentru ultimul cluster.",
+            "en": "Park in one of the parking garages near the bazaar for the final cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Irgandı-Brücke",
+            "hu": "Irgandı-híd",
+            "ro": "Podul Irgandı",
+            "en": "Irgandı Bridge"
+          },
+          "coords": [
+            29.068,
+            40.183
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch den überdachten Basar führt Sie zu dieser einzigartigen Brücke.",
+            "hu": "Rövid séta a fedett bazáron keresztül vezet ehhez az egyedülálló hídhoz.",
+            "ro": "O scurtă plimbare prin bazarul acoperit vă va duce la acest pod unic.",
+            "en": "A short walk through the covered bazaar will lead you to this unique bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Yeşil Türbe (Grünes Mausoleum)",
+            "hu": "Yeşil Türbe (Zöld Türbe)",
+            "ro": "Yeşil Türbe (Mausoleul Verde)",
+            "en": "Yeşil Türbe (Green Tomb)"
+          },
+          "coords": [
+            29.071,
+            40.181
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 4.6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer letzter Fahrt, um die berühmten grünen Kacheln bei Sonnenuntergang zu sehen.",
+            "hu": "Egy utolsó rövid autóút, hogy naplementekor megnézze a híres zöld csempéket.",
+            "ro": "O ultimă scurtă plimbare cu mașina pentru a vedea faimoasele plăci verzi la apus.",
+            "en": "A final short drive to see the famous green tiles at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Autotag im ruhigen Muradiye-Viertel. Nach dem historischen Komplex und dem Karagöz-Museum fahren Sie zum Tophane-Hügel für ein Mittagessen mit spektakulärer Aussicht. Am Nachmittag parken Sie im Zentrum, um das Herz von Bursa zu Fuß zu erkunden: den Seidenbasar, die Große Moschee und die Künstlerbrücke. Ein kurzer abendlicher Ausflug zum Grünen Mausoleum rundet Ihren Tag ab, bevor Sie sich dem kulinarischen Highlight der Stadt widmen.",
+        "hu": "Kezdje az autós napot a csendes Muradiye negyedben. A történelmi komplexum és a Karagöz Múzeum után vezessen a Tophane-dombra egy látványos kilátással egybekötött ebédre. Délután parkoljon a központban, hogy gyalog fedezze fel Bursa szívét: a Selyem Bazárt, a Nagy Mecsetet és a művészek hídját. Egy rövid esti kitérő a Zöld Türbéhez teszi teljessé a napot, mielőtt átadná magát a város kulináris csúcspontjának.",
+        "ro": "Începeți ziua cu mașina în liniștitul cartier Muradiye. După complexul istoric și Muzeul Karagöz, conduceți spre Dealul Tophane pentru un prânz cu o priveliște spectaculoasă. După-amiaza, parcați în centru pentru a explora inima Bursei pe jos: Bazarul de Mătase, Marea Moschee și Podul Artiștilor. O scurtă excursie de seară la Mausoleul Verde completează ziua înainte de a vă dedica punctului culminant culinar al orașului.",
+        "en": "Start your car journey in the quiet Muradiye district. After the historical complex and Karagöz Museum, drive to Tophane Hill for lunch with a spectacular view. In the afternoon, park in the center to explore the heart of Bursa on foot: the Silk Bazaar, the Grand Mosque, and the artists' bridge. A short evening trip to the Green Tomb completes your day before you indulge in the city's culinary highlight."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "İskender Kebap",
+            "tip": "Fahren Sie zu einem der berühmten İskender-Restaurants außerhalb des unmittelbaren Zentrums für ein authentischeres Erlebnis."
+          },
+          {
+            "name": "Cantık",
+            "tip": "Eine Art kleine, runde Pizza mit Hackfleisch, die man in lokalen Bäckereien findet."
+          },
+          {
+            "name": "Frühstück in Cumalıkızık",
+            "tip": "Wenn Sie Zeit haben, fahren Sie in dieses osmanische Dorf für ein unvergessliches türkisches Frühstück."
+          }
+        ],
+        "hu": [
+          {
+            "name": "İskender Kebap",
+            "tip": "Vezessen el az egyik híres İskender étterembe a közvetlen központon kívül egy autentikusabb élményért."
+          },
+          {
+            "name": "Cantık",
+            "tip": "Egyfajta kis, kerek pizza darált hússal, helyi pékségekben található."
+          },
+          {
+            "name": "Reggeli Cumalıkızıkban",
+            "tip": "Ha van ideje, vezessen el ebbe az oszmán faluba egy felejthetetlen török reggeliért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "İskender Kebap",
+            "tip": "Conduceți la unul dintre faimoasele restaurante İskender din afara centrului imediat pentru o experiență mai autentică."
+          },
+          {
+            "name": "Cantık",
+            "tip": "Un fel de pizza mică, rotundă, cu carne tocată, găsită în brutăriile locale."
+          },
+          {
+            "name": "Mic dejun în Cumalıkızık",
+            "tip": "Dacă aveți timp, conduceți spre acest sat otoman pentru un mic dejun turcesc de neuitat."
+          }
+        ],
+        "en": [
+          {
+            "name": "İskender Kebap",
+            "tip": "Drive to one of the famous İskender restaurants outside the immediate center for a more authentic experience."
+          },
+          {
+            "name": "Cantık",
+            "tip": "A type of small, round pizza with minced meat, found in local bakeries."
+          },
+          {
+            "name": "Breakfast in Cumalıkızık",
+            "tip": "If you have time, drive to this Ottoman village for an unforgettable Turkish breakfast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Saitabat Wasserfall",
+            "tip": "Eine kurze Autofahrt von der Stadt entfernt, ein großartiger Ort, um der Hitze zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Uludağ Straße",
+            "tip": "Fahren Sie ein Stück den Berg hinauf für atemberaubende Ausblicke und kühle Bergluft.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Inkaya-Platane",
+            "tip": "Besuchen Sie diesen über 600 Jahre alten Baum für ein Gefühl von Frieden und Geschichte.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saitabat-vízesés",
+            "tip": "Rövid autóútra a várostól, remek hely a hőség elől való menekülésre."
+          },
+          {
+            "name": "Uludağ út",
+            "tip": "Vezessen fel egy darabig a hegyre a lélegzetelállító kilátásért és a hűvös hegyi levegőért."
+          },
+          {
+            "name": "İnkaya platánfa",
+            "tip": "Látogassa meg ezt a több mint 600 éves fát a béke és a történelem érzéséért."
+          },
+          {
+            "name": "İnkaya platánfa",
+            "tip": "Látogassa meg ezt a több mint 600 éves fát a béke és a történelem érzéséért.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascada Saitabat",
+            "tip": "La o scurtă distanță cu mașina de oraș, un loc minunat pentru a scăpa de căldură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Drumul Uludağ",
+            "tip": "Conduceți puțin pe munte pentru priveliști uimitoare și aer curat de munte.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Platanul Inkaya",
+            "tip": "Vizitați acest copac de peste 600 de ani pentru un sentiment de pace și istorie.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saitabat Waterfall",
+            "tip": "A short drive from the city, a great place to escape the heat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Uludağ Road",
+            "tip": "Drive partway up the mountain for stunning views and cool mountain air.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Inkaya Plane Tree",
+            "tip": "Visit this 600+ year old tree for a sense of peace and history.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenstände in Cumalıkızık",
+            "tip": "Hausgemachte Marmeladen, Honig und Handarbeiten."
+          },
+          {
+            "name": "Outlet-Center in Bursa",
+            "tip": "Bursa ist ein Textilzentrum, und die Outlets bieten tolle Angebote."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai árusok Cumalıkızıkban",
+            "tip": "Házi lekvárok, méz és kézműves termékek."
+          },
+          {
+            "name": "Outlet központok Bursában",
+            "tip": "Bursa textil központ, és az outletek remek ajánlatokat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe stradale în Cumalıkızık",
+            "tip": "Gemuri de casă, miere și artizanat."
+          },
+          {
+            "name": "Centre outlet în Bursa",
+            "tip": "Bursa este un centru textil, iar outleturile oferă oferte excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street stalls in Cumalıkızık",
+            "tip": "Homemade jams, honey, and handicrafts."
+          },
+          {
+            "name": "Outlet centers in Bursa",
+            "tip": "Bursa is a textile hub, and the outlets offer great deals."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine Offline-Karte herunter, da die Navigation in den engen Gassen schwierig sein kann.",
+          "Parken kann teuer und schwer zu finden sein; nutzen Sie Parkhäuser.",
+          "Der Verkehr kann in Bursa sehr dicht sein, planen Sie zusätzliche Zeit für Fahrten ein.",
+          "Achten Sie auf die 'ZTL'-Zonen (verkehrsberuhigte Bereiche)."
+        ],
+        "hu": [
+          "Töltsön le egy offline térképet, mivel a navigáció a szűk utcákban nehézkes lehet.",
+          "A parkolás drága és nehezen található lehet; használjon parkolóházakat.",
+          "A forgalom nagyon sűrű lehet Bursában, tervezzen extra időt az utazásokra.",
+          "Figyeljen a 'ZTL' zónákra (forgalomkorlátozott területek)."
+        ],
+        "ro": [
+          "Descărcați o hartă offline, deoarece navigarea pe străzile înguste poate fi dificilă.",
+          "Parcarea poate fi scumpă și greu de găsit; utilizați parcările supraetajate.",
+          "Traficul poate fi foarte aglomerat în Bursa, planificați timp suplimentar pentru călătorii.",
+          "Fiți atenți la zonele 'ZTL' (zone cu trafic limitat)."
+        ],
+        "en": [
+          "Download an offline map, as navigating the narrow streets can be tricky.",
+          "Parking can be expensive and hard to find; use parking garages.",
+          "Traffic can be very heavy in Bursa, plan extra time for drives.",
+          "Be aware of 'ZTL' zones (limited traffic zones)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 5.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ulu Cami",
+            "hu": "Ulu Cami",
+            "ro": "Ulu Cami",
+            "en": "Ulu Cami"
+          },
+          "coords": [
+            29.062,
+            40.184
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder die Straßenbahn zum Heykel-Platz, der nur einen kurzen Spaziergang entfernt ist.",
+            "hu": "Menjen busszal vagy villamossal a Heykel térre, ami egy rövid sétára van.",
+            "ro": "Luați un autobuz sau tramvaiul până la Piața Heykel, care se află la o scurtă plimbare.",
+            "en": "Take a bus or the tram to Heykel square, which is a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Koza Han",
+            "hu": "Koza Han",
+            "ro": "Koza Han",
+            "en": "Koza Han"
+          },
+          "coords": [
+            29.064,
+            40.184
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:22",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich nebenan, perfekt für einen türkischen Kaffee nach dem Moscheebesuch.",
+            "hu": "Közvetlenül mellette, tökéletes egy török kávéhoz a mecsetlátogatás után.",
+            "ro": "Chiar alături, perfect pentru o cafea turcească după vizita la moschee.",
+            "en": "Right next door, perfect for a Turkish coffee after the mosque visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Irgandı-Brücke",
+            "hu": "Irgandı-híd",
+            "ro": "Podul Irgandı",
+            "en": "Irgandı Bridge"
+          },
+          "coords": [
+            29.068,
+            40.183
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den Basar, um zu dieser charmanten, von Geschäften gesäumten Brücke zu gelangen.",
+            "hu": "Sétáljon át a bazáron, hogy eljusson ehhez a bájos, üzletekkel szegélyezett hídhoz.",
+            "ro": "Plimbați-vă prin bazar pentru a ajunge la acest pod fermecător, plin de magazine.",
+            "en": "Stroll through the bazaar to reach this charming, shop-lined bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Yeşil Türbe & Moschee",
+            "hu": "Yeşil Türbe és Mecset",
+            "ro": "Yeşil Türbe și Moscheea",
+            "en": "Yeşil Türbe & Mosque"
+          },
+          "coords": [
+            29.071,
+            40.181
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen kurzen Bus oder ein Dolmuş zum Yeşil-Viertel. Hier gibt es auch gute Mittagsrestaurants.",
+            "hu": "Menjen egy rövid busz- vagy dolmuş úttal a Yeşil negyedbe. Itt jó ebédlőhelyek is vannak.",
+            "ro": "Luați un autobuz scurt sau un dolmuș până în cartierul Yeşil. Există și locuri bune de prânz aici.",
+            "en": "Take a short bus or dolmuş to the Yeşil district. There are good lunch spots here too."
+          }
+        },
+        {
+          "name": {
+            "de": "Muradiye-Komplex",
+            "hu": "Muradiye-komplexum",
+            "ro": "Complexul Muradiye",
+            "en": "Muradiye Complex"
+          },
+          "coords": [
+            29.049,
+            40.188
+          ],
+          "category": "historical",
+          "arrive_at": "13:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine Busfahrt quer durch die Stadt bringt Sie zu diesem weitläufigen osmanischen Komplex.",
+            "hu": "Egy buszozás a városon keresztül elviszi ehhez a tágas oszmán komplexumhoz.",
+            "ro": "O călătorie cu autobuzul prin oraș vă va duce la acest complex otoman extins.",
+            "en": "A bus ride across town will take you to this sprawling Ottoman complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Karagöz-Museum",
+            "hu": "Karagöz Múzeum",
+            "ro": "Muzeul Karagöz",
+            "en": "Karagöz Museum"
+          },
+          "coords": [
+            29.045,
+            40.187
+          ],
+          "category": "museums",
+          "arrive_at": "15:11",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Welt des türkischen Schattentheaters, nur wenige Schritte entfernt.",
+            "hu": "Fedezze fel a török árnyékszínház világát, csak néhány lépésre.",
+            "ro": "Descoperiți lumea teatrului de umbre turcesc, la doar câțiva pași.",
+            "en": "Discover the world of Turkish shadow puppetry, just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Tophane-Park",
+            "hu": "Tophane Park",
+            "ro": "Parcul Tophane",
+            "en": "Tophane Park"
+          },
+          "coords": [
+            29.057,
+            40.188
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem kurzen Dolmuş-Anstieg für den besten Sonnenuntergangsblick.",
+            "hu": "Zárja a napot egy rövid dolmuş-emelkedővel a legjobb naplemente-kilátásért.",
+            "ro": "Încheiați ziua cu o scurtă urcare cu dolmușul pentru cea mai bună priveliște la apus.",
+            "en": "End the day with a short dolmuş ride up the hill for the best sunset view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Bursa mit öffentlichen Verkehrsmitteln. Beginnen Sie im zentralen Cluster mit der Großen Moschee und dem Seidenbasar. Ein kurzer Spaziergang führt zur Irgandı-Brücke. Nehmen Sie dann einen Bus zum grünen Herzen der Stadt, dem Yeşil-Komplex, für eine Mittagspause. Am Nachmittag durchqueren Sie die Stadt, um das historische Muradiye-Viertel zu erkunden. Ein letzter Aufstieg zum Tophane-Hügel belohnt Sie mit einem unvergesslichen Sonnenuntergang.",
+        "hu": "Fedezze fel Bursát tömegközlekedéssel. Kezdje a központi klaszterben a Nagy Mecsettel és a Selyem Bazárral. Rövid séta vezet az Irgandı-hídhoz. Ezután buszozzon el a város zöld szívébe, a Yeşil-komplexumba egy ebédszünetre. Délután szelje át a várost a történelmi Muradiye negyed felfedezésére. Az utolsó emelkedő a Tophane-dombra felejthetetlen naplementével jutalmazza.",
+        "ro": "Descoperiți Bursa cu transportul public. Începeți în clusterul central cu Marea Moschee și Bazarul de Mătase. O scurtă plimbare vă duce la Podul Irgandı. Apoi, luați un autobuz spre inima verde a orașului, Complexul Yeşil, pentru o pauză de prânz. După-amiaza, traversați orașul pentru a explora cartierul istoric Muradiye. O urcare finală pe Dealul Tophane vă va răsplăti cu un apus de neuitat.",
+        "en": "Discover Bursa using public transport. Start in the central cluster with the Grand Mosque and the Silk Bazaar. A short walk takes you to Irgandı Bridge. Then, take a bus to the city's green heart, the Yeşil Complex, for a lunch break. In the afternoon, cross the city to explore the historic Muradiye district. A final climb to Tophane Hill will reward you with an unforgettable sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Simit",
+            "tip": "Kaufen Sie einen frischen Simit-Ring von einem Straßenverkäufer für einen schnellen Snack."
+          },
+          {
+            "name": "Lokantas",
+            "tip": "Suchen Sie nach 'Esnaf Lokantası' für authentische und preiswerte Hausmannskost."
+          },
+          {
+            "name": "Teehäuser (Çay Bahçesi)",
+            "tip": "Machen Sie eine Pause in einem Teehaus in Tophane oder Koza Han."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Simit",
+            "tip": "Vásároljon egy friss simit karikát egy utcai árustól egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Lokanták",
+            "tip": "Keressen egy 'Esnaf Lokantası'-t az autentikus és olcsó házias ételekért."
+          },
+          {
+            "name": "Teaházak (Çay Bahçesi)",
+            "tip": "Tartson szünetet egy teaházban Tophane-ban vagy a Koza Hanban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Simit",
+            "tip": "Cumpărați un covrig proaspăt de la un vânzător ambulant pentru o gustare rapidă."
+          },
+          {
+            "name": "Lokantas",
+            "tip": "Căutați 'Esnaf Lokantası' pentru mâncare de casă autentică și accesibilă."
+          },
+          {
+            "name": "Ceainării (Çay Bahçesi)",
+            "tip": "Luați o pauză la o ceainărie din Tophane sau Koza Han."
+          }
+        ],
+        "en": [
+          {
+            "name": "Simit",
+            "tip": "Buy a fresh simit ring from a street vendor for a quick snack."
+          },
+          {
+            "name": "Lokantas",
+            "tip": "Look for an 'Esnaf Lokantası' for authentic and affordable home-style cooking."
+          },
+          {
+            "name": "Tea Gardens (Çay Bahçesi)",
+            "tip": "Take a break at a tea garden in Tophane or Koza Han."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Emir Sultan Moschee & Friedhof",
+            "tip": "In der Nähe von Yeşil, ein spiritueller und ruhiger Ort mit schöner Aussicht.",
+            "emoji": "🕌"
+          },
+          {
+            "name": "Kulturpark (Kültürpark)",
+            "tip": "Ein großer Stadtpark, der leicht mit dem Bus zu erreichen ist, ideal für eine Pause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Friedhof des Muradiye-Komplexes",
+            "tip": "Ein erstaunlich friedlicher Ort inmitten der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emir Sultan Mecset és Temető",
+            "tip": "A Yeşil közelében, egy spirituális és csendes hely, szép kilátással.",
+            "emoji": "🕌"
+          },
+          {
+            "name": "Kultúrpark (Kültürpark)",
+            "tip": "Nagy városi park, busszal könnyen megközelíthető, ideális egy szünetre."
+          },
+          {
+            "name": "Muradiye-komplexum temetője",
+            "tip": "Meglepően békés hely a város közepén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moscheea și Cimitirul Emir Sultan",
+            "tip": "Lângă Yeşil, un loc spiritual și liniștit cu o priveliște frumoasă.",
+            "emoji": "🕌"
+          },
+          {
+            "name": "Parcul Cultural (Kültürpark)",
+            "tip": "Un parc mare al orașului, ușor accesibil cu autobuzul, ideal pentru o pauză.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cimitirul Complexului Muradiye",
+            "tip": "Un loc surprinzător de pașnic în mijlocul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Emir Sultan Mosque & Cemetery",
+            "tip": "Near Yeşil, a spiritual and quiet place with a nice view.",
+            "emoji": "🕌"
+          },
+          {
+            "name": "Culture Park (Kültürpark)",
+            "tip": "A large city park easily reachable by bus, great for a break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Muradiye Complex Cemetery",
+            "tip": "A surprisingly peaceful place in the middle of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bursa City Square AVM",
+            "tip": "Ein modernes Einkaufszentrum in der Nähe einer U-Bahn-Station, wenn Sie eine Pause von historischen Sehenswürdigkeiten brauchen."
+          },
+          {
+            "name": "Antiquitätenläden in der Nähe der Zitadelle",
+            "tip": "Suchen Sie nach einzigartigen Funden in den kleinen Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bursa City Square AVM",
+            "tip": "Modern bevásárlóközpont egy metrómegálló közelében, ha szünetre van szüksége a történelmi látnivalóktól."
+          },
+          {
+            "name": "Antikváriumok a Citadella közelében",
+            "tip": "Keressen egyedi leleteket a kis boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bursa City Square AVM",
+            "tip": "Un centru comercial modern lângă o stație de metrou, dacă aveți nevoie de o pauză de la siturile istorice."
+          },
+          {
+            "name": "Magazine de antichități lângă Citadelă",
+            "tip": "Căutați comori unice în micile magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bursa City Square AVM",
+            "tip": "A modern shopping mall near a metro station if you need a break from historic sites."
+          },
+          {
+            "name": "Antique shops near the Citadel",
+            "tip": "Look for unique finds in the small shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Bursakart' für eine einfache Nutzung von Bussen und der U-Bahn (Bursaray).",
+          "Dolmuş (Sammeltaxis) sind eine flexible Möglichkeit, um bestimmte Ziele zu erreichen; sie haben feste Routen, aber keine festen Haltestellen.",
+          "Google Maps funktioniert gut für die Busroutenplanung.",
+          "Validieren Sie Ihre Karte bei jedem Einsteigen."
+        ],
+        "hu": [
+          "Vásároljon egy 'Bursakart'-ot a buszok és a metró (Bursaray) egyszerű használatához.",
+          "A Dolmuş (iránytaxi) rugalmas módja bizonyos célpontok elérésének; fix útvonalaik vannak, de nincsenek fix megállóik.",
+          "A Google Maps jól működik a buszútvonalak tervezéséhez.",
+          "Minden felszálláskor érvényesítse a kártyáját."
+        ],
+        "ro": [
+          "Cumpărați un 'Bursakart' pentru utilizarea ușoară a autobuzelor și a metroului (Bursaray).",
+          "Dolmuș-urile (taxiuri colective) sunt o modalitate flexibilă de a ajunge la anumite destinații; au rute fixe, dar nu și stații fixe.",
+          "Google Maps funcționează bine pentru planificarea rutelor de autobuz.",
+          "Validați-vă cardul de fiecare dată când urcați."
+        ],
+        "en": [
+          "Buy a 'Bursakart' for easy use of buses and the metro (Bursaray).",
+          "Dolmuş (shared taxis) are a flexible way to reach specific destinations; they have fixed routes but not fixed stops.",
+          "Google Maps works well for bus route planning.",
+          "Validate your card every time you board."
+        ]
+      }
+    }
+  }
+}

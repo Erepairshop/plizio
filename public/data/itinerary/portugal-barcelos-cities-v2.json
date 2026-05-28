@@ -1,0 +1,1533 @@
+{
+  "city_id": "portugal-barcelos-cities-v2",
+  "anchor": {
+    "name": "Barcelos",
+    "coords": [
+      -8.6192,
+      41.5322
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Campo da República",
+            "hu": "Campo da República (Köztársaság tere)",
+            "ro": "Campo da República",
+            "en": "Campo da República (Republic Square)"
+          },
+          "coords": [
+            -8.615,
+            41.5345
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den berühmten Wochenmarkt am Donnerstag, einen der größten in Portugal.",
+            "hu": "Ha csütörtökön jársz itt, ne hagyd ki a híres hetipiacot, Portugália egyik legnagyobb vásárát.",
+            "ro": "Vizitați faimoasa piață săptămânală de joi, una dintre cele mai mari din Portugalia.",
+            "en": "Visit the famous weekly market on Thursdays, one of the largest in Portugal."
+          }
+        },
+        {
+          "name": {
+            "de": "Templo do Senhor Bom Jesus da Cruz",
+            "hu": "Bom Jesus da Cruz-templom",
+            "ro": "Templo do Senhor Bom Jesus da Cruz",
+            "en": "Temple of the Lord Bom Jesus da Cruz"
+          },
+          "coords": [
+            -8.6145,
+            41.535
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige achteckige Architektur und die kunstvollen Kacheln im Inneren.",
+            "hu": "Csodáld meg az egyedülálló nyolcszögletű építészetet és a belső, díszes csempeborítást.",
+            "ro": "Admirați arhitectura unică octogonală și azulejo-urile elaborate din interior.",
+            "en": "Admire the unique octagonal architecture and the elaborate tiles inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Keramikmuseum",
+            "hu": "Kerámia Múzeum",
+            "ro": "Muzeul Olăritului",
+            "en": "Pottery Museum"
+          },
+          "coords": [
+            -8.6189,
+            41.5351
+          ],
+          "category": "museums",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Muss, um die Geschichte der bunten Keramik von Barcelos und des Hahnsymbols zu verstehen.",
+            "hu": "Kötelező látnivaló, hogy megértsd a színes barcelosi kerámia és a kakas szimbólum történetét.",
+            "ro": "O vizită obligatorie pentru a înțelege istoria ceramicii colorate din Barcelos și a simbolului cocoșului.",
+            "en": "A must-visit to understand the history of Barcelos's colourful pottery and the rooster symbol."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm von Menagem",
+            "hu": "Torre de Menagem (Öregtorony)",
+            "ro": "Torre de Menagem",
+            "en": "Keep Tower (Torre de Menagem)"
+          },
+          "coords": [
+            -8.6195,
+            41.5325
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf und genießen Sie den Panoramablick über die Altstadt und den Fluss Cávado.",
+            "hu": "Mássz fel a panorámás kilátásért az óvárosra és a Cávado folyóra.",
+            "ro": "Urcați pentru o vedere panoramică asupra orașului vechi și a râului Cávado.",
+            "en": "Climb up for a panoramic view over the old town and the Cávado river."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Barcelos",
+            "hu": "Barcelos-i Főtemplom",
+            "ro": "Igreja Matriz de Barcelos",
+            "en": "Main Church of Barcelos"
+          },
+          "coords": [
+            -8.6205,
+            41.5318
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Mischung aus romanischen und gotischen Stilelementen.",
+            "hu": "Figyeld meg a román és gótikus stílusjegyek keveredését az épületen.",
+            "ro": "Observați amestecul de elemente de stil romanic și gotic.",
+            "en": "Look for the mix of Romanesque and Gothic style elements."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Grafen von Barcelos",
+            "hu": "A barcelosi grófok palotája",
+            "ro": "Palatul Conților de Barcelos",
+            "en": "Palace of the Counts of Barcelos"
+          },
+          "coords": [
+            -8.621,
+            41.5315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Obwohl es eine Ruine ist, ist es ein stimmungsvoller Ort und ein Freilichtmuseum.",
+            "hu": "Bár csak rom, rendkívül hangulatos hely és szabadtéri múzeumként működik.",
+            "ro": "Deși este o ruină, este un loc atmosferic și un muzeu în aer liber.",
+            "en": "Although a ruin, it's an atmospheric spot and an open-air museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke von Barcelos",
+            "hu": "Barcelos-i híd",
+            "ro": "Ponte de Barcelos",
+            "en": "Barcelos Bridge"
+          },
+          "coords": [
+            -8.622,
+            41.53
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Überqueren Sie die mittelalterliche Brücke zu Fuß und genießen Sie die Aussicht auf den Fluss und die Stadt.",
+            "hu": "Sétálj át a középkori hídon, és élvezd a folyóra és a városra nyíló kilátást.",
+            "ro": "Traversați pe jos podul medieval pentru vederi pitorești ale râului și orașului.",
+            "en": "Walk across the medieval bridge for scenic views of the river and city."
+          }
+        },
+        {
+          "name": {
+            "de": "Garten von Barrocas",
+            "hu": "Barrocas kert",
+            "ro": "Jardim das Barrocas",
+            "en": "Garden of Barrocas"
+          },
+          "coords": [
+            -8.625,
+            41.529
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um am Flussufer zu entspannen und dem Trubel der Stadt zu entfliehen.",
+            "hu": "Tökéletes hely a pihenésre a folyóparton, távol a város nyüzsgésétől.",
+            "ro": "Un loc perfect pentru a vă relaxa lângă râu, departe de agitația orașului.",
+            "en": "A perfect spot to relax by the riverside, away from the city buzz."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem weitläufigen Campo da República, dem Herzen von Barcelos, besonders lebhaft an Markttagen. Von dort aus tauchen Sie in die spirituelle Atmosphäre des Templo do Senhor Bom Jesus da Cruz ein, bevor Sie sich in der farbenfrohen Welt des Keramikmuseums verlieren, das dem berühmten Hahn von Barcelos gewidmet ist. Am Mittag erklimmen Sie die mittelalterlichen Mauern. Der Aufstieg auf den Torre de Menagem bietet einen atemberaubenden Blick über die Stadt. Gleich nebenan erkunden Sie die historische Hauptkirche und die stimmungsvollen Ruinen des Grafenpalastes, die von der reichen Vergangenheit der Stadt zeugen. Der Nachmittag gehört dem Fluss Cávado. Schlendern Sie über die alte römische Brücke, ein Wahrzeichen der Stadt, und genießen Sie die Perspektive vom Wasser aus. Zum Abschluss finden Sie Ruhe und Entspannung im schattigen Jardim das Barrocas am Flussufer, ein idealer Ort, um die Eindrücke des Tages Revue passieren zu lassen. Am Abend kehren Sie ins Zentrum zurück. Genießen Sie ein traditionelles Abendessen mit lokalen Spezialitäten wie geröstetem Hahn und stoßen Sie mit einem Glas Vinho Verde auf einen erlebnisreichen Tag in der Hauptstadt des Kunsthandwerks an.",
+        "hu": "Kezdje a napot a tágas Campo da República téren, Barcelos szívében, amely a csütörtöki piaci napokon különösen élénk. Innen merüljön el a Templo do Senhor Bom Jesus da Cruz spirituális légkörében, majd vesszen el a Kerámia Múzeum színes világában, amely a híres barcelosi kakasnak állít emléket. Délben mássza meg a középkori falakat. A Torre de Menagem toronyból lélegzetelállító kilátás nyílik a városra. A szomszédban fedezze fel a történelmi Főtemplomot és a grófi palota hangulatos romjait, amelyek a város gazdag múltjáról tanúskodnak. A délután a Cávado folyóé. Sétáljon át az ősi római hídon, a város egyik jelképén, és élvezze a víz felőli látványt. Végül a folyóparti, árnyas Jardim das Barrocas kertben talál nyugalmat és pihenést, amely ideális hely a nap élményeinek átgondolására. Este térjen vissza a központba. Fogyasszon el egy hagyományos vacsorát helyi specialitásokkal, mint például a sült kakas, és koccintson egy pohár Vinho Verdével egy élményekkel teli napra a kézművesség fővárosában.",
+        "ro": "Începeți ziua în spațiosul Campo da República, inima orașului Barcelos, deosebit de animat în zilele de piață. De acolo, pătrundeți în atmosfera spirituală a Templo do Senhor Bom Jesus da Cruz, înainte de a vă pierde în lumea colorată a Muzeului de Ceramică, dedicat faimosului cocoș din Barcelos. La prânz, urcați pe zidurile medievale. Ascensiunea în Torre de Menagem oferă o priveliște uluitoare asupra orașului. Chiar alături, explorați istorica Biserică Matrice și ruinele atmosferice ale Palatului Conților, care povestesc despre trecutul bogat al orașului. După-amiaza este dedicată râului Cávado. Plimbați-vă pe vechiul pod roman, un simbol al orașului, și bucurați-vă de perspectiva de pe apă. La final, găsiți liniște și relaxare în umbrosul Jardim das Barrocas de pe malul râului, un loc ideal pentru a reflecta la impresiile zilei. Seara, întoarceți-vă în centru. Savurați o cină tradițională cu specialități locale, cum ar fi cocoșul la cuptor, și închinați un pahar de Vinho Verde pentru o zi plină de descoperiri în capitala artizanatului.",
+        "en": "Start your day in the spacious Campo da República, the heart of Barcelos, especially vibrant on market day. From there, delve into the spiritual atmosphere of the Templo do Senhor Bom Jesus da Cruz before getting lost in the colorful world of the Pottery Museum, dedicated to the famous Rooster of Barcelos. At midday, climb the medieval walls. The ascent of the Torre de Menagem offers a breathtaking view over the city. Right next door, explore the historic Main Church and the atmospheric ruins of the Counts' Palace, which tell tales of the city's rich past. The afternoon belongs to the Cávado River. Stroll across the ancient Roman bridge, a city landmark, and enjoy the perspective from the water. Finally, find peace and relaxation in the shady Jardim das Barrocas on the riverbank, an ideal place to reflect on the day's impressions. In the evening, return to the center. Enjoy a traditional dinner with local specialties like roasted rooster, and toast with a glass of Vinho Verde to an eventful day in the capital of craftsmanship."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Galo Assado (Gebratener Hahn)",
+            "tip": "Das symbolische Gericht der Stadt, oft mit Kartoffeln und Reis serviert."
+          },
+          {
+            "name": "Papas de Sarrabulho",
+            "tip": "Ein herzhafter Eintopf aus dem Minho, perfekt für kühle Tage."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Probieren Sie den jungen, spritzigen lokalen Wein, der perfekt zu Meeresfrüchten und leichten Gerichten passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galo Assado (Sült kakas)",
+            "tip": "A város szimbolikus étele, gyakran burgonyával és rizzsel tálalva."
+          },
+          {
+            "name": "Papas de Sarrabulho",
+            "tip": "Kiadós egytálétel Minho régióból, tökéletes a hűvösebb napokra."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Kóstold meg a fiatal, friss, pezsgő helyi bort, amely tökéletesen illik a tenger gyümölcseihez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galo Assado (Cocoș la cuptor)",
+            "tip": "Mâncarea simbolică a orașului, adesea servită cu cartofi și orez."
+          },
+          {
+            "name": "Papas de Sarrabulho",
+            "tip": "O tocană consistentă din regiunea Minho, perfectă pentru zilele răcoroase."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Încercați vinul local tânăr și proaspăt, care se potrivește perfect cu fructele de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galo Assado (Roasted Rooster)",
+            "tip": "The city's symbolic dish, often served with potatoes and rice."
+          },
+          {
+            "name": "Papas de Sarrabulho",
+            "tip": "A hearty stew from the Minho region, perfect for cooler days."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Try the young, crisp, and slightly sparkling local wine, a perfect match for seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardim das Barrocas",
+            "tip": "Ein ruhiger Garten am Fluss, ideal für eine Pause im Schatten.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Cávado Flusses",
+            "tip": "Ein Spaziergang entlang des Flusses bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innenhof des Keramikmuseums",
+            "tip": "Eine stille Ecke, umgeben von traditioneller Kunst.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardim das Barrocas",
+            "tip": "Csendes kert a folyóparton, ideális egy árnyékos pihenőhöz.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cávado folyó partja",
+            "tip": "Séta a folyó mentén naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kerámia Múzeum belső udvara",
+            "tip": "Egy csendes zug hagyományos művészettel körülvéve.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardim das Barrocas",
+            "tip": "O grădină liniștită lângă râu, perfectă pentru o pauză la umbră.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malurile râului Cávado",
+            "tip": "O plimbare de-a lungul râului la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea interioară a Muzeului de Ceramică",
+            "tip": "Un colț liniștit înconjurat de artă tradițională.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardim das Barrocas",
+            "tip": "A peaceful garden by the river, perfect for a break in the shade.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of the Cávado River",
+            "tip": "A walk along the river at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of the Pottery Museum",
+            "tip": "A quiet corner surrounded by traditional art.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt von Barcelos (Donnerstag)",
+            "tip": "Einer der größten und besten Märkte Portugals für alles von Keramik bis zu lokalen Produkten."
+          },
+          {
+            "name": "Handwerksläden in der Altstadt",
+            "tip": "Suchen Sie nach dem authentischen Hahn von Barcelos und handbemalter Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barcelosi piac (csütörtök)",
+            "tip": "Portugália egyik legnagyobb és legjobb piaca, ahol a kerámiától a helyi termékekig mindent megtalálsz."
+          },
+          {
+            "name": "Kézműves boltok az óvárosban",
+            "tip": "Keresd az autentikus barcelosi kakast és a kézzel festett kerámiákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Barcelos (joi)",
+            "tip": "Una dintre cele mai mari și mai bune piețe din Portugalia pentru orice, de la ceramică la produse locale."
+          },
+          {
+            "name": "Magazine de artizanat în centrul vechi",
+            "tip": "Căutați cocoșul autentic din Barcelos și ceramica pictată manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Barcelos Market (Thursdays)",
+            "tip": "One of Portugal's biggest and best markets for everything from pottery to local produce."
+          },
+          {
+            "name": "Craft shops in the Old Town",
+            "tip": "Look for the authentic Rooster of Barcelos and hand-painted ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Der Donnerstag ist der beste Tag für einen Besuch wegen des riesigen Marktes, aber es ist auch am vollsten.",
+          "Nehmen Sie sich Zeit, die kleinen Gassen abseits der Hauptplätze zu erkunden.",
+          "Viele Geschäfte schließen zur Mittagszeit (Siesta), planen Sie also entsprechend.",
+          "Probieren Sie unbedingt einen lokalen Vinho Verde in einer der Bars."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A csütörtök a legjobb nap a látogatásra a hatalmas piac miatt, de egyben a legzsúfoltabb is.",
+          "Szánj időt a főterektől távolabb eső kis sikátorok felfedezésére.",
+          "Sok üzlet bezár ebédidőben (siesta), tervezz ennek megfelelően.",
+          "Mindenképpen kóstolj meg egy helyi Vinho Verdét az egyik bárban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Joia este cea mai bună zi de vizitat datorită pieței uriașe, dar este și cea mai aglomerată.",
+          "Luați-vă timp să explorați străduțele mici de pe lângă piețele principale.",
+          "Multe magazine se închid pentru siesta de prânz, așa că planificați-vă în consecință.",
+          "Asigurați-vă că încercați un Vinho Verde local la unul dintre baruri."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Thursday is the best day to visit because of the huge market, but it's also the busiest.",
+          "Take time to explore the small alleys away from the main squares.",
+          "Many shops close for a lunch break (siesta), so plan accordingly.",
+          "Be sure to try a local Vinho Verde at one of the bars."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Campo da República",
+            "hu": "Campo da República (Köztársaság tere)",
+            "ro": "Campo da República",
+            "en": "Campo da República (Republic Square)"
+          },
+          "coords": [
+            -8.615,
+            41.5345
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour hier, nachdem Sie die Atmosphäre des Platzes aufgesogen haben.",
+            "hu": "Indítsd innen a biciklitúrát, miután magadba szívtad a tér hangulatát.",
+            "ro": "Începeți turul cu bicicleta de aici după ce ați absorbit atmosfera pieței.",
+            "en": "Start your bike tour here after soaking up the square's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Templo do Senhor Bom Jesus da Cruz",
+            "hu": "Bom Jesus da Cruz-templom",
+            "ro": "Templo do Senhor Bom Jesus da Cruz",
+            "en": "Temple of the Lord Bom Jesus da Cruz"
+          },
+          "coords": [
+            -8.6145,
+            41.535
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:52",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um das architektonische Juwel zu bewundern, bevor Sie weiterradeln.",
+            "hu": "Egy gyors megálló, hogy megcsodáld ezt az építészeti gyöngyszemet, mielőtt tovább tekersz.",
+            "ro": "O oprire scurtă pentru a admira bijuteria arhitecturală înainte de a continua.",
+            "en": "A quick stop to admire the architectural gem before cycling on."
+          }
+        },
+        {
+          "name": {
+            "de": "Keramikmuseum",
+            "hu": "Kerámia Múzeum",
+            "ro": "Muzeul Olăritului",
+            "en": "Pottery Museum"
+          },
+          "coords": [
+            -8.6189,
+            41.5351
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie ein in die reiche Geschichte der Keramik.",
+            "hu": "Parkold le a biciklit, és merülj el a kerámia gazdag történelmében.",
+            "ro": "Parcați bicicleta și scufundați-vă în istoria bogată a olăritului.",
+            "en": "Park your bike and dive into the rich history of pottery."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Grafen & Hauptkirche",
+            "hu": "Grófi Palota és Főtemplom",
+            "ro": "Palatul Conților și Biserica Matrice",
+            "en": "Counts' Palace & Main Church"
+          },
+          "coords": [
+            -8.621,
+            41.5315
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beiden benachbarten historischen Stätten zusammen.",
+            "hu": "Fedezd fel ezt a két, egymás melletti történelmi helyszínt együtt.",
+            "ro": "Explorați aceste două situri istorice adiacente împreună.",
+            "en": "Explore these two adjacent historical sites together."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke von Barcelos",
+            "hu": "Barcelos-i híd",
+            "ro": "Ponte de Barcelos",
+            "en": "Barcelos Bridge"
+          },
+          "coords": [
+            -8.622,
+            41.53
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:02",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahren Sie über die Brücke und genießen Sie die Aussicht vom anderen Ufer.",
+            "hu": "Tekerj át a hídon, és élvezd a kilátást a túlsó partról.",
+            "ro": "Traversați podul cu bicicleta pentru o priveliște excelentă de pe malul opus.",
+            "en": "Cycle across the bridge for a great view from the opposite bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrradtour entlang des Flusses Cávado",
+            "hu": "Biciklitúra a Cávado folyó mentén",
+            "ro": "Tur cu bicicleta pe malul râului Cávado",
+            "en": "Bike ride along Cávado River"
+          },
+          "coords": [
+            -8.635,
+            41.525
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannte Fahrt auf den Wegen entlang des Flusses.",
+            "hu": "Élvezd a pihentető tekerést a folyó menti ösvényeken.",
+            "ro": "Bucurați-vă de o plimbare relaxantă pe potecile de pe malul râului.",
+            "en": "Enjoy a relaxing ride on the paths along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardim das Barrocas",
+            "hu": "Barrocas kert",
+            "ro": "Jardim das Barrocas",
+            "en": "Garden of Barrocas"
+          },
+          "coords": [
+            -8.625,
+            41.529
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einer wohlverdienten Pause in diesem schönen Garten.",
+            "hu": "Fejezd be a túrát egy jól megérdemelt pihenővel ebben a szép kertben.",
+            "ro": "Încheiați turul cu o pauză binemeritată în această grădină frumoasă.",
+            "en": "End your tour with a well-deserved rest in this beautiful garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Campo da República und radeln Sie dann zum architektonischen Wunder des Templo do Senhor Bom Jesus da Cruz. Eine längere Pause legen Sie im Keramikmuseum ein, um in die lokale Handwerkskunst einzutauchen. Am Mittag radeln Sie ins Herz der Geschichte von Barcelos. Sie erkunden die Ruinen des Grafenpalastes und die benachbarte Hauptkirche, bevor Sie die mittelalterliche Brücke überqueren, um die Stadt aus einer neuen Perspektive zu sehen. Der Nachmittag ist einer malerischen Radtour entlang des Flusses Cávado gewidmet. Genießen Sie die Natur und die frische Luft auf den Wegen, die sich am Wasser entlangschlängeln. Beenden Sie Ihren aktiven Tag im ruhigen Jardim das Barrocas, wo Sie sich entspannen und die Erlebnisse des Tages Revue passieren lassen können. Kehren Sie am Abend ins Zentrum zurück, um sich mit einem herzhaften portugiesischen Essen zu belohnen.",
+        "hu": "Kezd a biciklitúrát a Campo da República téren, majd tekerj el a Templo do Senhor Bom Jesus da Cruz építészeti csodájához. Hosszabb pihenőt tarts a Kerámia Múzeumnál, hogy elmerülj a helyi kézművességben. Délben tekerj Barcelos történelmének szívébe. Fedezd fel a grófi palota romjait és a szomszédos Főtemplomot, mielőtt átkelsz a középkori hídon, hogy új perspektívából lásd a várost. A délutánt egy festői biciklitúrának szenteld a Cávado folyó mentén. Élvezd a természetet és a friss levegőt a víz mentén kanyargó ösvényeken. Aktív napodat a békés Jardim das Barrocas kertben fejezd be, ahol pihenhetsz és felidézheted a nap élményeit. Este térj vissza a központba, hogy megjutalmazd magad egy kiadós portugál étellel.",
+        "ro": "Începeți turul pe bicicletă din Campo da República, apoi pedalați spre minunea arhitecturală Templo do Senhor Bom Jesus da Cruz. Faceți o pauză mai lungă la Muzeul de Ceramică pentru a vă cufunda în meșteșugurile locale. La prânz, pedalați în inima istoriei din Barcelos. Explorați ruinele Palatului Conților și Biserica Matrice adiacentă înainte de a traversa podul medieval pentru o nouă perspectivă asupra orașului. După-amiaza este dedicată unei plimbări pitorești cu bicicleta de-a lungul râului Cávado. Bucurați-vă de natură și de aerul proaspăt pe potecile care șerpuiesc pe malul apei. Încheiați ziua activă în liniștitul Jardim das Barrocas, unde vă puteți relaxa și reflecta la aventurile zilei. Seara, întoarceți-vă în centru pentru a vă răsplăti cu o masă portugheză copioasă.",
+        "en": "Start your bike tour from Campo da República, then pedal to the architectural wonder of Templo do Senhor Bom Jesus da Cruz. Take a longer break at the Pottery Museum to immerse yourself in local craftsmanship. At midday, cycle into the heart of Barcelos's history. Explore the ruins of the Counts' Palace and the adjacent Main Church before crossing the medieval bridge for a new perspective on the city. The afternoon is dedicated to a scenic bike ride along the Cávado River. Enjoy nature and fresh air on the paths that wind along the water. End your active day in the peaceful Jardim das Barrocas, where you can relax and reflect on the day's adventures. Return to the center in the evening to reward yourself with a hearty Portuguese meal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante O Lira",
+            "tip": "Bekannt für seine traditionelle portugiesische Küche und Fischgerichte."
+          },
+          {
+            "name": "Bacalhau à Minhota",
+            "tip": "Ein klassisches Kabeljaugericht aus der Region Minho, reichhaltig und schmackhaft."
+          },
+          {
+            "name": "Pastelarias (Konditoreien)",
+            "tip": "Tanken Sie Energie mit lokalen Süßigkeiten und einem starken Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante O Lira",
+            "tip": "Híres a hagyományos portugál konyhájáról és halételeiről."
+          },
+          {
+            "name": "Bacalhau à Minhota",
+            "tip": "Klasszikus tőkehalétel Minho régióból, gazdag és ízletes."
+          },
+          {
+            "name": "Pastelarias (Cukrászdák)",
+            "tip": "Töltődj fel energiával helyi édességekkel és egy erős kávéval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante O Lira",
+            "tip": "Renumit pentru bucătăria sa tradițională portugheză și preparatele din pește."
+          },
+          {
+            "name": "Bacalhau à Minhota",
+            "tip": "Un preparat clasic din cod din regiunea Minho, bogat și gustos."
+          },
+          {
+            "name": "Pastelarias (Patiserii)",
+            "tip": "Alimentați-vă cu dulciuri locale și o cafea tare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante O Lira",
+            "tip": "Known for its traditional Portuguese cuisine and fish dishes."
+          },
+          {
+            "name": "Bacalhau à Minhota",
+            "tip": "A classic cod dish from the Minho region, rich and flavorful."
+          },
+          {
+            "name": "Pastelarias (Pastry shops)",
+            "tip": "Refuel with local sweets and a strong coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussuferweg",
+            "tip": "Finden Sie einen ruhigen Platz am Fluss, um die vorbeifahrenden Boote zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hinter den Ruinen des Palastes",
+            "tip": "Ein weniger besuchter Bereich, der einen Moment der Ruhe bietet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardim das Barrocas",
+            "tip": "Der perfekte Ort, um sich nach einer langen Fahrt im Gras auszustrecken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti ösvény",
+            "tip": "Találj egy csendes helyet a folyóparton, és nézd a csónakokat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A palota romjai mögött",
+            "tip": "Kevésbé látogatott terület, amely egy pillanatnyi békét kínál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardim das Barrocas",
+            "tip": "Tökéletes hely, hogy egy hosszú tekerés után elnyújtózz a fűben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă pe malul râului",
+            "tip": "Găsiți un loc liniștit lângă râu pentru a privi bărcile trecând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "În spatele ruinelor palatului",
+            "tip": "O zonă mai puțin aglomerată care oferă un moment de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardim das Barrocas",
+            "tip": "Locul perfect pentru a vă întinde pe iarbă după o plimbare lungă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside path",
+            "tip": "Find a quiet spot by the river to watch the boats go by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Behind the Palace ruins",
+            "tip": "A less-visited area offering a moment of peace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardim das Barrocas",
+            "tip": "The perfect place to stretch out on the grass after a long ride.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für alle Last-Minute-Reparaturen oder Zubehörteile."
+          },
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Kaufen Sie ein leichtes Souvenir wie ein bemaltes Tuch oder eine kleine Keramikfigur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Bármilyen utolsó pillanatban szükséges javításhoz vagy kiegészítőhöz."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Vásárolj egy könnyű szuvenírt, például egy festett textilt vagy egy kis kerámiafigurát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru orice reparații de ultim moment sau accesorii."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Cumpărați un suvenir ușor, cum ar fi o pânză pictată sau o mică figurină din ceramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "For any last-minute repairs or accessories."
+          },
+          {
+            "name": "Local artisan shops",
+            "tip": "Buy a lightweight souvenir like a painted cloth or a small ceramic figure."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Einige der Altstadtstraßen sind eng und für Fahrräder möglicherweise nicht zugänglich; seien Sie bereit, abzusteigen und zu schieben.",
+          "Nehmen Sie viel Wasser mit, besonders im Sommer.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es unbeaufsichtigt lassen.",
+          "Die Wege am Fluss sind meist flach und für alle Fitnesslevel geeignet."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a guminyomást.",
+          "Néhány óvárosi utca szűk és nem biztos, hogy járható biciklivel; készülj fel, hogy le kell szállnod és tolnod kell.",
+          "Vigyél magaddal sok vizet, különösen nyáron.",
+          "Mindig zárd le a biciklidet, ha felügyelet nélkül hagyod.",
+          "A folyóparti ösvények többnyire síkak és minden edzettségi szintnek megfelelnek."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Unele străzi din orașul vechi sunt înguste și s-ar putea să nu fie accesibile bicicletelor; fiți pregătiți să descălecați și să împingeți.",
+          "Luați multă apă, mai ales vara.",
+          "Legați întotdeauna bicicleta bine când o lăsați nesupravegheată.",
+          "Traseele de pe malul râului sunt în mare parte plate și potrivite pentru toate nivelurile de fitness."
+        ],
+        "en": [
+          "Check your tire pressure before heading out.",
+          "Some of the old town streets are narrow and may not be accessible by bike; be prepared to dismount and walk.",
+          "Bring plenty of water, especially in the summer.",
+          "Always lock your bike securely when leaving it unattended.",
+          "The river paths are mostly flat and suitable for all fitness levels."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 1.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum (Cluster A)",
+            "hu": "Parkoló a központban (A csoport)",
+            "ro": "Parcare Centru (Cluster A)",
+            "en": "Central Parking (Cluster A)"
+          },
+          "coords": [
+            -8.614,
+            41.534
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Die meisten zentralen Sehenswürdigkeiten sind zu Fuß erreichbar.",
+            "hu": "Parkolj le itt a délelőttre. A legtöbb központi látnivaló gyalogosan elérhető.",
+            "ro": "Parcați aici pentru dimineață. Majoritatea atracțiilor centrale sunt accesibile pe jos.",
+            "en": "Park here for the morning. Most central sights are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Campo da República",
+            "hu": "Campo da República (Köztársaság tere)",
+            "ro": "Campo da República",
+            "en": "Campo da República (Republic Square)"
+          },
+          "coords": [
+            -8.615,
+            41.5345
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum pulsierenden Herzen der Stadt.",
+            "hu": "Rövid séta a parkolótól a város lüktető szívéig.",
+            "ro": "O scurtă plimbare de la parcare până în inima vibrantă a orașului.",
+            "en": "A short walk from the parking lot to the vibrant heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Templo do Senhor Bom Jesus da Cruz",
+            "hu": "Bom Jesus da Cruz-templom",
+            "ro": "Templo do Senhor Bom Jesus da Cruz",
+            "en": "Temple of the Lord Bom Jesus da Cruz"
+          },
+          "coords": [
+            -8.6145,
+            41.535
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich um die Ecke vom Hauptplatz, ein Meisterwerk der Barockarchitektur.",
+            "hu": "Rögtön a főtér sarkánál, a barokk építészet mesterműve.",
+            "ro": "Chiar la colțul pieței principale, o capodoperă a arhitecturii baroce.",
+            "en": "Just around the corner from the main square, a masterpiece of Baroque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Keramikmuseum",
+            "hu": "Kerámia Múzeum",
+            "ro": "Muzeul Olăritului",
+            "en": "Pottery Museum"
+          },
+          "coords": [
+            -8.6189,
+            41.5351
+          ],
+          "category": "museums",
+          "arrive_at": "10:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang zum Museum führt durch charmante kleine Straßen.",
+            "hu": "A múzeumhoz vezető séta bájos kis utcákon vezet keresztül.",
+            "ro": "Plimbarea până la muzeu vă poartă pe străduțe fermecătoare.",
+            "en": "The walk to the museum takes you through charming little streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Fluss (Cluster B)",
+            "hu": "Parkoló a folyónál (B csoport)",
+            "ro": "Parcare Râu (Cluster B)",
+            "en": "Riverfront Parking (Cluster B)"
+          },
+          "coords": [
+            -8.6215,
+            41.531
+          ],
+          "category": "transport",
+          "arrive_at": "12:36",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie hierher für den Nachmittag. Ideal, um die Sehenswürdigkeiten am Fluss zu erkunden.",
+            "hu": "Vezess ide a délutánra. Ideális a folyóparti látnivalók felfedezéséhez.",
+            "ro": "Conduceți aici pentru după-amiază. Ideal pentru a explora atracțiile de pe malul râului.",
+            "en": "Drive here for the afternoon. Ideal for exploring the riverside attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast, Kirche & Turm",
+            "hu": "Palota, templom és torony",
+            "ro": "Palat, Biserică și Turn",
+            "en": "Palace, Church & Tower"
+          },
+          "coords": [
+            -8.6205,
+            41.5318
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieses historische Trio liegt direkt nebeneinander. Perfekt für eine Mittagserkundung.",
+            "hu": "Ez a történelmi trió közvetlenül egymás mellett található. Tökéletes egy déli felfedezőúthoz.",
+            "ro": "Acest trio istoric este chiar unul lângă celălalt. Perfect pentru o explorare la prânz.",
+            "en": "This historic trio is right next to each other. Perfect for a midday exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke & Garten",
+            "hu": "Híd és kert",
+            "ro": "Pod și Grădină",
+            "en": "Bridge & Garden"
+          },
+          "coords": [
+            -8.6235,
+            41.5295
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:44",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren Tag mit einem entspannten Spaziergang über die Brücke und durch den Jardim das Barrocas ab.",
+            "hu": "Zárd a napot egy pihentető sétával a hídon át és a Jardim das Barrocas kertben.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă peste pod și prin Jardim das Barrocas.",
+            "en": "Finish your day with a relaxing stroll across the bridge and through Jardim das Barrocas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Zentrum von Barcelos parken und den Vormittag zu Fuß verbringen. Erkunden Sie das lebhafte Campo da República und den beeindruckenden Templo do Senhor Bom Jesus da Cruz. Anschließend tauchen Sie im Keramikmuseum tief in die lokale Kultur ein. Zur Mittagszeit holen Sie Ihr Auto und fahren zum Flussufer. Nachdem Sie erneut geparkt haben, widmen Sie sich dem historischen Herzen der Stadt: dem Grafenpalast, der Hauptkirche und dem alten Turm, die alle bequem zu Fuß erreichbar sind. Der Nachmittag ist der Entspannung am Fluss gewidmet. Ein kurzer Spaziergang vom Parkplatz führt Sie zur ikonischen mittelalterlichen Brücke und zum friedlichen Jardim das Barrocas, wo Sie die Seele baumeln lassen können. Am Abend fahren Sie entweder zu einem Restaurant etwas außerhalb oder genießen die Gastronomie im Zentrum, bevor Sie die Heimreise antreten.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját Barcelos központjában, és gyalogosan tölti a délelőttöt. Fedezze fel az élénk Campo da República teret és a lenyűgöző Templo do Senhor Bom Jesus da Cruz templomot. Ezután merüljön el a helyi kultúrában a Kerámia Múzeumban. Délben vegye fel autóját, és vezessen a folyóparthoz. Miután újra leparkolt, szentelje magát a város történelmi szívének: a grófi palotának, a Főtemplomnak és a régi toronynak, amelyek mind kényelmesen elérhetők gyalog. A délután a folyóparti pihenésé. Egy rövid séta a parkolótól az ikonikus középkori hídhoz és a békés Jardim das Barrocas kerthez vezet, ahol kikapcsolódhat. Este vagy egy kicsit távolabbi étteremhez hajt, vagy a központban élvezi a gasztronómiát, mielőtt hazaindulna.",
+        "ro": "Începeți ziua parcând mașina în centrul orașului Barcelos și petreceți dimineața pe jos. Explorați animatul Campo da República și impresionantul Templo do Senhor Bom Jesus da Cruz. Apoi, pătrundeți în cultura locală la Muzeul de Ceramică. La prânz, luați mașina și conduceți spre malul râului. După ce parcați din nou, dedicați-vă inimii istorice a orașului: Palatul Conților, Biserica Matrice și vechiul turn, toate accesibile confortabil pe jos. După-amiaza este dedicată relaxării pe malul râului. O scurtă plimbare de la parcare vă duce la podul medieval iconic și la liniștitul Jardim das Barrocas, unde vă puteți relaxa. Seara, puteți conduce la un restaurant puțin mai departe sau vă puteți bucura de gastronomia din centru înainte de a vă întoarce acasă.",
+        "en": "Start your day by parking your car in the center of Barcelos and spending the morning on foot. Explore the lively Campo da República and the impressive Templo do Senhor Bom Jesus da Cruz. Then, dive deep into local culture at the Pottery Museum. At midday, retrieve your car and drive to the riverfront. After parking again, dedicate yourself to the historical heart of the city: the Counts' Palace, the Main Church, and the old tower, all comfortably within walking distance. The afternoon is for riverside relaxation. A short walk from the parking lot takes you to the iconic medieval bridge and the peaceful Jardim das Barrocas, where you can unwind. In the evening, either drive to a restaurant slightly out of town or enjoy the gastronomy in the center before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante O Lira",
+            "tip": "Leicht mit dem Auto zu erreichen, bietet authentische regionale Gerichte."
+          },
+          {
+            "name": "Galo Assado (Gebratener Hahn)",
+            "tip": "Ein Muss in Barcelos, fragen Sie nach der Legende dahinter."
+          },
+          {
+            "name": "Casa dos Arcos",
+            "tip": "Zentral gelegen, ideal für ein Mittagessen zwischen den Erkundungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante O Lira",
+            "tip": "Könnyen megközelíthető autóval, autentikus regionális ételeket kínál."
+          },
+          {
+            "name": "Galo Assado (Sült kakas)",
+            "tip": "Kötelező fogás Barcelosban, kérdezz rá a mögötte lévő legendára."
+          },
+          {
+            "name": "Casa dos Arcos",
+            "tip": "Központi helyen, ideális egy ebédhez a felfedezések között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante O Lira",
+            "tip": "Ușor accesibil cu mașina, oferă mâncăruri regionale autentice."
+          },
+          {
+            "name": "Galo Assado (Cocoș la cuptor)",
+            "tip": "O încercare obligatorie în Barcelos, întrebați despre legenda din spatele lui."
+          },
+          {
+            "name": "Casa dos Arcos",
+            "tip": "Situat central, ideal pentru prânz între explorări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante O Lira",
+            "tip": "Easily accessible by car, offers authentic regional dishes."
+          },
+          {
+            "name": "Galo Assado (Roasted Rooster)",
+            "tip": "A must-try in Barcelos, ask about the legend behind it."
+          },
+          {
+            "name": "Casa dos Arcos",
+            "tip": "Centrally located, great for lunch between explorations."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang des Cávado",
+            "tip": "Eine kurze Autofahrt aus der Stadt heraus bietet malerische Ausblicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardim das Barrocas",
+            "tip": "Leicht zugänglich vom Flussparkplatz, ein Ort der Ruhe.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kirchhof der Hauptkirche",
+            "tip": "Ein ruhiger Ort, um die historische Architektur zu bewundern.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a Cávado mentén",
+            "tip": "Egy rövid autóút a városon kívül festői kilátást nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardim das Barrocas",
+            "tip": "Könnyen megközelíthető a folyóparti parkolóból, a béke szigete.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Főtemplom templomkertje",
+            "tip": "Csendes hely a történelmi építészet megcsodálására.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drum de-a lungul Cávado",
+            "tip": "O scurtă călătorie cu mașina în afara orașului oferă priveliști pitorești.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardim das Barrocas",
+            "tip": "Ușor accesibil din parcarea de la râu, un loc de liniște.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Curtea Bisericii Matrice",
+            "tip": "Un loc liniștit pentru a admira arhitectura istorică.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive along the Cávado",
+            "tip": "A short drive out of town offers scenic views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardim das Barrocas",
+            "tip": "Easily accessible from the river parking, a place of peace.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Main Church Yard",
+            "tip": "A quiet spot to admire the historic architecture.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramikläden an der Ausfallstraße",
+            "tip": "Oft günstiger als im Zentrum und mit Parkplätzen."
+          },
+          {
+            "name": "Markt von Barcelos (Donnerstag)",
+            "tip": "Kommen Sie früh, um einen guten Parkplatz zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámiaboltok a kivezető úton",
+            "tip": "Gyakran olcsóbb, mint a központban, és van parkolóhelyük."
+          },
+          {
+            "name": "Barcelosi piac (csütörtök)",
+            "tip": "Érkezz korán, hogy jó parkolóhelyet találj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de ceramică la ieșirea din oraș",
+            "tip": "Adesea mai ieftine decât în centru și cu locuri de parcare."
+          },
+          {
+            "name": "Piața Barcelos (joi)",
+            "tip": "Veniți devreme pentru a găsi un loc bun de parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pottery shops on the outskirts",
+            "tip": "Often cheaper than in the center and with parking spots."
+          },
+          {
+            "name": "Barcelos Market (Thursdays)",
+            "tip": "Arrive early to find a good parking spot."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie Offline-Karten herunter, um sich in den engen Gassen zurechtzufinden.",
+          "Achten Sie auf die Parkgebühren und -zeiten, um Strafzettel zu vermeiden.",
+          "Die Straßen im Zentrum können sehr eng sein; fahren Sie vorsichtig.",
+          "Ein Auto ermöglicht es Ihnen, auch nahegelegene Sehenswürdigkeiten außerhalb der Stadt zu besuchen.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "Tölts le offline térképeket, hogy eligazodj a szűk sikátorokban.",
+          "Figyelj a parkolási díjakra és időkorlátokra a büntetések elkerülése érdekében.",
+          "A központi utcák nagyon szűkek lehetnek; vezess óvatosan.",
+          "Az autó lehetővé teszi, hogy a városon kívüli közeli látnivalókat is meglátogasd.",
+          "Ne hagyj értéktárgyakat látható helyen az autóban."
+        ],
+        "ro": [
+          "Descărcați hărți offline pentru a naviga pe străzile înguste.",
+          "Fiți atenți la taxele și orele de parcare pentru a evita amenzile.",
+          "Străzile din centru pot fi foarte înguste; conduceți cu prudență.",
+          "O mașină vă permite să vizitați și atracțiile din apropiere, în afara orașului.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Download offline maps to navigate the narrow streets.",
+          "Be aware of parking fees and timings to avoid tickets.",
+          "The streets in the center can be very narrow; drive with caution.",
+          "A car allows you to visit nearby attractions outside the city as well.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof (Cluster A)",
+            "hu": "Buszpályaudvar (A csoport)",
+            "ro": "Autogară (Cluster A)",
+            "en": "Bus Station (Cluster A)"
+          },
+          "coords": [
+            -8.613,
+            41.536
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier. Die meisten zentralen Linien halten in der Nähe.",
+            "hu": "Kezdje itt a napot. A legtöbb központi járat a közelben áll meg.",
+            "ro": "Începeți ziua aici. Majoritatea liniilor centrale opresc în apropiere.",
+            "en": "Start your day here. Most central lines stop nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Campo da República & Templo",
+            "hu": "Campo da República és a templom",
+            "ro": "Campo da República și Templul",
+            "en": "Campo da República & Temple"
+          },
+          "coords": [
+            -8.6148,
+            41.5348
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Hauptplatz und die beeindruckende Kirche gleich nebenan.",
+            "hu": "Fedezze fel a főteret és a lenyűgöző templomot a szomszédban.",
+            "ro": "Explorați piața principală și biserica impresionantă de alături.",
+            "en": "Explore the main square and the impressive church right next to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Keramikmuseum",
+            "hu": "Kerámia Múzeum",
+            "ro": "Muzeul Olăritului",
+            "en": "Pottery Museum"
+          },
+          "coords": [
+            -8.6189,
+            41.5351
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Stadt führt Sie zu diesem kulturellen Highlight.",
+            "hu": "Egy rövid séta a városon keresztül elvezet ehhez a kulturális csúcspontig.",
+            "ro": "O scurtă plimbare prin oraș vă duce la acest punct culminant cultural.",
+            "en": "A short walk through town brings you to this cultural highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle am Fluss (Cluster B)",
+            "hu": "Folyóparti megálló (B csoport)",
+            "ro": "Stație Râu (Cluster B)",
+            "en": "Riverfront Stop (Cluster B)"
+          },
+          "coords": [
+            -8.62,
+            41.5305
+          ],
+          "category": "transport",
+          "arrive_at": "12:55",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zum historischen Viertel am Fluss zu gelangen.",
+            "hu": "Menjen helyi busszal a folyóparti történelmi negyedbe.",
+            "ro": "Luați un autobuz local pentru a ajunge în cartierul istoric de lângă râu.",
+            "en": "Take a local bus to get to the historic riverside quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Ensemble (Palast, Kirche, Turm)",
+            "hu": "Történelmi együttes (Palota, templom, torony)",
+            "ro": "Ansamblu Istoric (Palat, Biserică, Turn)",
+            "en": "Historic Ensemble (Palace, Church, Tower)"
+          },
+          "coords": [
+            -8.6208,
+            41.5315
+          ],
+          "category": "historical",
+          "arrive_at": "13:03",
+          "stay_min": 150,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Alles ist von der Bushaltestelle aus leicht zu Fuß erreichbar. Nehmen Sie sich Zeit.",
+            "hu": "Minden könnyen megközelíthető gyalog a buszmegállótól. Szánjon rá időt.",
+            "ro": "Totul este la o distanță mică de mers pe jos de la stația de autobuz. Nu vă grăbiți.",
+            "en": "Everything is within easy walking distance from the bus stop. Take your time."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardim das Barrocas",
+            "hu": "Barrocas kert",
+            "ro": "Jardim das Barrocas",
+            "en": "Garden of Barrocas"
+          },
+          "coords": [
+            -8.625,
+            41.529
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages, nur einen kurzen Spaziergang vom historischen Zentrum entfernt.",
+            "hu": "A nap pihentető befejezése, csak egy rövid sétára a történelmi központtól.",
+            "ro": "O încheiere relaxantă a zilei, la o scurtă plimbare de centrul istoric.",
+            "en": "A relaxing end to the day, just a short walk from the historic center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das lokale Busnetz, um Barcelos zu erkunden. Beginnen Sie am zentralen Busbahnhof und spazieren Sie zum Campo da República und der nahegelegenen Kirche. Von dort aus ist es ein angenehmer Spaziergang zum Keramikmuseum. Am Mittag nehmen Sie einen Bus in Richtung Fluss. Steigen Sie in der Nähe des historischen Zentrums aus und verbringen Sie den frühen Nachmittag damit, die Ruinen des Palastes, die Hauptkirche und den alten Turm zu erkunden. Beenden Sie Ihren Erkundungstag mit einem entspannten Spaziergang zum Jardim das Barrocas, einem perfekten Ort, um die Atmosphäre am Fluss zu genießen. Am Abend bringen Sie die Busse bequem zurück zu Ihrem Ausgangspunkt oder zu einem Restaurant Ihrer Wahl.",
+        "hu": "Használja a helyi buszhálózatot Barcelos felfedezéséhez. Kezdje a központi buszpályaudvaron, és sétáljon el a Campo da República térre és a közeli templomhoz. Onnan kellemes séta vezet a Kerámia Múzeumhoz. Délben szálljon buszra a folyó irányába. Szálljon le a történelmi központ közelében, és töltse a kora délutánt a palota romjainak, a Főtemplomnak és a régi toronynak a felfedezésével. Fedezőútját egy pihentető sétával fejezze be a Jardim das Barrocas kertben, amely tökéletes hely a folyóparti hangulat élvezetére. Este a buszok kényelmesen visszaviszik a kiindulópontra vagy egy tetszőleges étterembe.",
+        "ro": "Folosiți rețeaua locală de autobuze pentru a explora Barcelos. Începeți de la autogara centrală și plimbați-vă până la Campo da República și biserica din apropiere. De acolo, este o plimbare plăcută până la Muzeul de Ceramică. La prânz, luați un autobuz spre râu. Coborâți lângă centrul istoric și petreceți începutul după-amiezii explorând ruinele palatului, Biserica Matrice și vechiul turn. Încheiați ziua de explorare cu o plimbare relaxantă la Jardim das Barrocas, un loc perfect pentru a vă bucura de atmosfera de pe malul râului. Seara, autobuzele vă vor duce confortabil înapoi la punctul de plecare sau la un restaurant la alegere.",
+        "en": "Use the local bus network to explore Barcelos. Start at the central bus station and walk to Campo da República and the nearby church. From there, it's a pleasant stroll to the Pottery Museum. At midday, take a bus towards the river. Get off near the historic center and spend the early afternoon exploring the palace ruins, the Main Church, and the old tower. End your day of exploration with a relaxing walk to Jardim das Barrocas, a perfect spot to enjoy the riverside atmosphere. In the evening, buses will comfortably take you back to your starting point or to a restaurant of your choice."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Tascas",
+            "tip": "Suchen Sie nach kleinen, von Einheimischen frequentierten Restaurants in der Nähe der Bushaltestellen für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Bifana-Sandwich",
+            "tip": "Ein schneller, leckerer und günstiger Snack für unterwegs."
+          },
+          {
+            "name": "Frischer Orangensaft",
+            "tip": "An vielen Ständen erhältlich, eine erfrischende Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi 'Tascák'",
+            "tip": "Keress kis, helyiek által látogatott éttermeket a buszmegállók közelében az autentikus élményért."
+          },
+          {
+            "name": "Bifana szendvics",
+            "tip": "Gyors, finom és olcsó harapnivaló útközben."
+          },
+          {
+            "name": "Frissen facsart narancslé",
+            "tip": "Sok standon kapható, frissítő szünet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tascas locale",
+            "tip": "Căutați restaurante mici, frecventate de localnici, lângă stațiile de autobuz pentru o experiență autentică."
+          },
+          {
+            "name": "Sandviș Bifana",
+            "tip": "O gustare rapidă, delicioasă și ieftină pentru drum."
+          },
+          {
+            "name": "Suc proaspăt de portocale",
+            "tip": "Disponibil la multe tarabe, o pauză răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local 'Tascas'",
+            "tip": "Look for small restaurants frequented by locals near bus stops for an authentic experience."
+          },
+          {
+            "name": "Bifana sandwich",
+            "tip": "A quick, delicious, and cheap snack on the go."
+          },
+          {
+            "name": "Fresh Orange Juice",
+            "tip": "Available at many stalls, a refreshing break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage eines Busses",
+            "tip": "Bietet eine andere Perspektive auf die Stadt in relativer Ruhe.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank im Jardim das Barrocas",
+            "tip": "Der perfekte Ort, um auf den nächsten Bus zu warten oder einfach nur zu entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang über die Ponte de Barcelos",
+            "tip": "Abseits des Verkehrs, mit Blick auf das Wasser.",
+            "emoji": "🌉"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy busz emelete",
+            "tip": "Más perspektívát nyújt a városra, viszonylagos nyugalomban.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a Jardim das Barrocas kertben",
+            "tip": "Tökéletes hely a következő buszra várni vagy csak pihenni.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Barcelos-i hídon",
+            "tip": "Távol a forgalomtól, kilátással a vízre.",
+            "emoji": "🌉"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz",
+            "tip": "Oferă o perspectivă diferită asupra orașului într-o liniște relativă.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în Jardim das Barrocas",
+            "tip": "Locul perfect pentru a aștepta următorul autobuz sau pur și simplu pentru a vă relaxa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe Ponte de Barcelos",
+            "tip": "Departe de trafic, cu vedere la apă.",
+            "emoji": "🌉"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of a bus",
+            "tip": "Offers a different perspective of the city in relative quiet.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in Jardim das Barrocas",
+            "tip": "The perfect place to wait for the next bus or just relax.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk across Ponte de Barcelos",
+            "tip": "Away from the traffic, with views of the water.",
+            "emoji": "🌉"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte rund um den Busbahnhof",
+            "tip": "Ideal für schnelle Souvenirs, bevor Sie die Stadt verlassen."
+          },
+          {
+            "name": "Donnerstagsmarkt",
+            "tip": "Leicht mit dem Bus zu erreichen; planen Sie zusätzlichen Platz für Ihre Einkäufe ein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a buszpályaudvar környékén",
+            "tip": "Ideális gyors szuvenírekhez, mielőtt elhagyod a várost."
+          },
+          {
+            "name": "Csütörtöki piac",
+            "tip": "Könnyen megközelíthető busszal; tervezz plusz helyet a vásárlásaidnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în jurul autogării",
+            "tip": "Ideal pentru suveniruri rapide înainte de a părăsi orașul."
+          },
+          {
+            "name": "Piața de joi",
+            "tip": "Ușor accesibilă cu autobuzul; planificați spațiu suplimentar pentru cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops around the bus station",
+            "tip": "Ideal for quick souvenirs before leaving town."
+          },
+          {
+            "name": "Thursday Market",
+            "tip": "Easily accessible by bus; plan for extra space for your purchases."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Fahrplan im Voraus, insbesondere für die letzte Fahrt des Tages.",
+          "Die Busse können zu Stoßzeiten voll sein.",
+          "Halten Sie Kleingeld für die Tickets bereit.",
+          "Geben Sie dem Fahrer ein Zeichen, wenn Sie möchten, dass er anhält."
+        ],
+        "hu": [
+          "Vegyél napijegyet, ha több utazást tervezel.",
+          "Ellenőrizd előre a menetrendet, különösen a nap utolsó járatát.",
+          "A buszok csúcsidőben zsúfoltak lehetnek.",
+          "Legyen nálad aprópénz a jegyekhez.",
+          "Integetéssel jelezz a sofőrnek, ha azt szeretnéd, hogy megálljon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi dacă intenționați să faceți mai multe călătorii.",
+          "Verificați programul în avans, în special pentru ultima cursă a zilei.",
+          "Autobuzele pot fi aglomerate la orele de vârf.",
+          "Aveți la îndemână mărunțiș pentru bilete.",
+          "Faceți semn șoferului dacă doriți să oprească."
+        ],
+        "en": [
+          "Buy a day pass if you plan on making multiple trips.",
+          "Check the schedule in advance, especially for the last trip of the day.",
+          "Buses can be crowded during peak hours.",
+          "Have small change ready for tickets.",
+          "Signal the driver if you want them to stop."
+        ]
+      }
+    }
+  }
+}

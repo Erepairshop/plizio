@@ -1,0 +1,1364 @@
+{
+  "city_id": "netherlands-almere-cities-v2",
+  "anchor": {
+    "name": "Almere",
+    "coords": [
+      5.2238,
+      52.3702
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Almere Stad Einkaufszentrum",
+            "hu": "Almere Stad bevásárlóközpont",
+            "ro": "Centrul Comercial Almere Stad",
+            "en": "Almere Stad Shopping Center"
+          },
+          "coords": [
+            5.217,
+            52.373
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen Cafés, bevor die Geschäfte öffnen.",
+            "hu": "Kezdje a napot egy kávéval a számos kávézó egyikében, mielőtt a boltok kinyitnak.",
+            "ro": "Începeți ziua cu o cafea la una dintre multele cafenele înainte de deschiderea magazinelor.",
+            "en": "Start the day with a coffee at one of the many cafes before the shops open."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Zitadelle",
+            "hu": "A Citadella",
+            "ro": "Citadela (Die Zitadelle)",
+            "en": "The Citadel (Die Zitadelle)"
+          },
+          "coords": [
+            5.213,
+            52.374
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf das einzigartige Design von Christian de Portzamparc, das wie eine mittelalterliche Festung wirkt.",
+            "hu": "Figyelje meg Christian de Portzamparc egyedi tervezését, amely egy középkori erődre emlékeztet.",
+            "ro": "Observați designul unic al lui Christian de Portzamparc, care seamănă cu o fortăreață medievală.",
+            "en": "Notice the unique design by Christian de Portzamparc, which feels like a medieval fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "PIT Veiligheidsmuseum",
+            "hu": "PIT Biztonsági Múzeum",
+            "ro": "Muzeul Securității PIT",
+            "en": "PIT Safety Museum"
+          },
+          "coords": [
+            5.215,
+            52.371
+          ],
+          "category": "museums",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie die interaktiven Exponate aus, besonders den Überschlagsimulator.",
+            "hu": "Próbálja ki az interaktív kiállítási tárgyakat, különösen a borulás szimulátort.",
+            "ro": "Încercați exponatele interactive, în special simulatorul de răsturnare.",
+            "en": "Try out the interactive exhibits, especially the rollover car simulator."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstlinie Almere Flevoland (KAF)",
+            "hu": "Kunstlinie Almere Flevoland (KAF)",
+            "ro": "Centrul Cultural Kunstlinie (KAF)",
+            "en": "Kunstlinie Almere Flevoland (KAF)"
+          },
+          "coords": [
+            5.221,
+            52.371
+          ],
+          "category": "cultural centres",
+          "arrive_at": "12:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan für kostenlose Ausstellungen oder genießen Sie einfach die Aussicht auf das Weerwater.",
+            "hu": "Nézze meg a programot ingyenes kiállításokért, vagy egyszerűen csak élvezze a Weerwater-tóra nyíló kilátást.",
+            "ro": "Verificați programul pentru expoziții gratuite sau pur și simplu bucurați-vă de vederea la lacul Weerwater.",
+            "en": "Check the schedule for free exhibitions or simply enjoy the view over the Weerwater lake."
+          }
+        },
+        {
+          "name": {
+            "de": "The Wave und Smaragd",
+            "hu": "The Wave és Smaragd épületek",
+            "ro": "The Wave și Smaragd",
+            "en": "The Wave and Smaragd"
+          },
+          "coords": [
+            5.228,
+            52.369
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die beste Perspektive auf diese architektonischen Juwelen hat man vom Uferweg aus.",
+            "hu": "Ezekre az építészeti gyöngyszemekre a legjobb kilátás a parti sétányról nyílik.",
+            "ro": "Cea mai bună perspectivă asupra acestor bijuterii arhitecturale este de pe aleea de pe mal.",
+            "en": "The best perspective on these architectural gems is from the shoreline path."
+          }
+        },
+        {
+          "name": {
+            "de": "Weerwater See",
+            "hu": "Weerwater-tó",
+            "ro": "Lacul Weerwater",
+            "en": "Weerwater Lake"
+          },
+          "coords": [
+            5.2238,
+            52.3702
+          ],
+          "category": "lake",
+          "arrive_at": "14:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Tretboot oder entspannen Sie einfach am Ufer und beobachten Sie die Segelboote.",
+            "hu": "Béreljen vízibiciklit, vagy csak pihenjen a parton és nézze a vitorlásokat.",
+            "ro": "Închiriați o hidrobicicletă sau relaxați-vă pe mal și priviți bărcile cu pânze.",
+            "en": "Rent a paddleboat or just relax on the shore watching the sailboats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Almere beginnt im pulsierenden Herzen der Stadt, dem Einkaufszentrum Almere Stad, wo moderne Architektur auf urbanes Leben trifft. Schlendern Sie durch die Straßen und entdecken Sie die einzigartigen Wohnkomplexe wie die Zitadelle. Der Vormittag ist der Sicherheit und Kultur gewidmet. Das interaktive PIT Veiligheidsmuseum bietet einen faszinierenden Einblick in die Arbeit der Rettungsdienste. Anschließend können Sie im Kunstlinie (KAF) am Ufer des Weerwater eine Pause einlegen und die Kunst und die Aussicht genießen. Der Nachmittag steht ganz im Zeichen des Wassers und der innovativen Architektur. Ein Spaziergang am Weerwater-See führt Sie an den beeindruckenden Wohngebäuden 'The Wave' und 'Smaragd' vorbei. Lassen Sie den Tag entspannt am Seeufer ausklingen, genießen Sie die Ruhe und die moderne Skyline von Almere. Es ist die perfekte Art, die Essenz dieser einzigartigen Polderstadt zu erleben.",
+        "hu": "Almere-i napja a város lüktető szívében, az Almere Stad bevásárlóközpontban kezdődik, ahol a modern építészet találkozik a városi élettel. Sétáljon végig az utcákon, és fedezze fel az olyan egyedi lakóparkokat, mint a Citadella. A délelőtt a biztonságról és a kultúráról szól. Az interaktív PIT Biztonsági Múzeum lenyűgöző betekintést nyújt a segélyszolgálatok munkájába. Ezután pihenjen a Weerwater partján található Kunstlinie-ban (KAF), és élvezze a művészetet és a kilátást. A délután a vízről és az innovatív építészetről szól. A Weerwater-tó mentén tett séta elvezeti Önt a lenyűgöző 'The Wave' és 'Smaragd' lakóépületekhez. A napot a tóparton pihenve zárja, élvezve Almere nyugalmát és modern sziluettjét. Ez a tökéletes módja annak, hogy megtapasztalja ennek az egyedülálló polder-városnak a lényegét.",
+        "ro": "Ziua dvs. în Almere începe în inima vibrantă a orașului, centrul comercial Almere Stad, unde arhitectura modernă se întâlnește cu viața urbană. Plimbați-vă pe străzi și descoperiți complexele rezidențiale unice, cum ar fi Citadela. Dimineața este dedicată siguranței și culturii. Muzeul interactiv de siguranță PIT oferă o perspectivă fascinantă asupra activității serviciilor de urgență. Apoi, faceți o pauză la Kunstlinie (KAF) pe malul lacului Weerwater, bucurându-vă de artă și de priveliște. După-amiaza este despre apă și arhitectură inovatoare. O plimbare de-a lungul lacului Weerwater vă va duce pe lângă impresionantele clădiri rezidențiale 'The Wave' și 'Smaragd'. Încheiați ziua relaxându-vă pe malul lacului, bucurându-vă de liniștea și de orizontul modern al orașului Almere. Este modul perfect de a experimenta esența acestui oraș unic, construit pe polder.",
+        "en": "Your day in Almere begins in the vibrant heart of the city, the Almere Stad shopping center, where modern architecture meets urban life. Stroll through the streets and discover the unique residential complexes like the Citadel. The morning is dedicated to safety and culture. The interactive PIT Safety Museum offers a fascinating insight into the work of the emergency services. Afterwards, take a break at the Kunstlinie (KAF) on the shores of the Weerwater lake, enjoying the art and the view. The afternoon is all about water and innovative architecture. A walk along the Weerwater lake will take you past the impressive residential buildings 'The Wave' and 'Smaragd'. End the day relaxing by the lake, enjoying the tranquility and the modern skyline of Almere. It's the perfect way to experience the essence of this unique polder city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Holen Sie sich eine frische, warme Stroopwafel vom Marktstand am Samstag."
+          },
+          {
+            "name": "Broodje Haring",
+            "tip": "Für die Mutigen: Probieren Sie ein traditionelles Sandwich mit rohem Hering und Zwiebeln."
+          },
+          {
+            "name": "Restaurant 't Veerhuis",
+            "tip": "Genießen Sie ein Abendessen mit Blick auf das Wasser in diesem Restaurant am Weerwater."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stroopwafels (szirupos gofri)",
+            "tip": "Szerezzen be egy friss, meleg stroopwafelt a szombati piaci standról."
+          },
+          {
+            "name": "Broodje Haring (heringes szendvics)",
+            "tip": "A bátrabbaknak: kóstoljanak meg egy hagyományos szendvicset nyers heringgel és hagymával."
+          },
+          {
+            "name": "Restaurant 't Veerhuis",
+            "tip": "Élvezze a vacsorát a vízre néző kilátással ebben a Weerwater-tóparti étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Luați un stroopwafel proaspăt și cald de la taraba din piață sâmbăta."
+          },
+          {
+            "name": "Broodje Haring",
+            "tip": "Pentru cei curajoși: încercați un sandviș tradițional cu hering crud și ceapă."
+          },
+          {
+            "name": "Restaurant 't Veerhuis",
+            "tip": "Bucurați-vă de o cină cu vedere la apă la acest restaurant de pe malul lacului Weerwater."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Get a fresh, warm stroopwafel from the market stall on Saturday."
+          },
+          {
+            "name": "Broodje Haring",
+            "tip": "For the adventurous: try a traditional sandwich with raw herring and onions."
+          },
+          {
+            "name": "Restaurant 't Veerhuis",
+            "tip": "Enjoy dinner with a view over the water at this restaurant on the Weerwater."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Weerwater",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie den Sonnenuntergang über dem See.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stille Ecke im Lumierepark",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt, bietet dieser Park friedliche Grünflächen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Architektur-Meditation",
+            "tip": "Betrachten Sie die klaren Linien der modernen Gebäude und finden Sie Ruhe in der Symmetrie.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Weerwater partja",
+            "tip": "Keressen egy csendes padot, és nézze a naplementét a tó felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Csendes sarok a Lumiereparkban",
+            "tip": "Rövid sétára a központtól, ez a park békés zöld területeket kínál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Építészeti meditáció",
+            "tip": "Szemlélje a modern épületek letisztult vonalait, és találjon nyugalmat a szimmetriában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Weerwater",
+            "tip": "Găsiți o bancă liniștită și priviți apusul peste lac.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Colț liniștit în Parcul Lumiere",
+            "tip": "La o scurtă plimbare de centru, acest parc oferă spații verzi pașnice.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Meditație arhitecturală",
+            "tip": "Contemplați liniile curate ale clădirilor moderne și găsiți pacea în simetrie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of the Weerwater",
+            "tip": "Find a quiet bench and watch the sunset over the lake.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Quiet corner in Lumierepark",
+            "tip": "A short walk from the center, this park offers peaceful green spaces.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Architectural Meditation",
+            "tip": "Contemplate the clean lines of the modern buildings and find calm in the symmetry.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Almere Stad",
+            "tip": "Jeden Mittwoch und Samstag im Stadtzentrum. Perfekt für lokale Produkte und Snacks."
+          },
+          {
+            "name": "Design-Souvenirs",
+            "tip": "Suchen Sie in den Museumsshops oder Concept Stores nach Souvenirs, die von der Architektur Almeres inspiriert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Almere Stad heti piac",
+            "tip": "Minden szerdán és szombaton a városközpontban. Tökéletes helyi termékekhez és harapnivalókhoz."
+          },
+          {
+            "name": "Design ajándéktárgyak",
+            "tip": "Keressen az Almere építészete által ihletett ajándéktárgyakat a múzeumi boltokban vagy koncepcióüzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Almere Stad",
+            "tip": "În fiecare miercuri și sâmbătă în centrul orașului. Perfect pentru produse locale și gustări."
+          },
+          {
+            "name": "Suveniruri de design",
+            "tip": "Căutați suveniruri inspirate de arhitectura din Almere în magazinele muzeelor sau în magazinele concept."
+          }
+        ],
+        "en": [
+          {
+            "name": "Almere Stad Weekly Market",
+            "tip": "Every Wednesday and Saturday in the city center. Perfect for local produce and snacks."
+          },
+          {
+            "name": "Design Souvenirs",
+            "tip": "Look for souvenirs inspired by Almere's architecture in museum shops or concept stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie das kompakte Stadtzentrum vollständig zu Fuß erkunden werden.",
+          "Almere ist sehr modern; nehmen Sie sich Zeit, die Details der einzigartigen Architektur zu bewundern.",
+          "Das Wetter kann sich schnell ändern, packen Sie also eine leichte Regenjacke ein.",
+          "Viele Cafés rund um den zentralen Platz bieten kostenloses WLAN."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a kompakt városközpontot teljes egészében gyalog fogja felfedezni.",
+          "Almere nagyon modern; szánjon időt az egyedi építészet részleteinek megcsodálására.",
+          "Az időjárás gyorsan változhat, ezért csomagoljon egy könnyű esőkabátot.",
+          "A központi tér körüli számos kávézó ingyenes Wi-Fi-t kínál."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți explora centrul compact al orașului în întregime pe jos.",
+          "Almere este foarte modern; acordați-vă timp pentru a admira detaliile arhitecturii unice.",
+          "Vremea se poate schimba rapid, așa că împachetați o geacă de ploaie subțire.",
+          "Multe cafenele din jurul pieței centrale oferă Wi-Fi gratuit."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be exploring the compact city center entirely on foot.",
+          "Almere is very modern; take your time to admire the details of the unique architecture.",
+          "The weather can change quickly, so pack a light raincoat.",
+          "Many cafes around the main square offer free Wi-Fi."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 14.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Regenboogbuurt (Regenbogenviertel)",
+            "hu": "Regenboogbuurt (Szivárvány-negyed)",
+            "ro": "Cartierul Curcubeului (Regenboogbuurt)",
+            "en": "Rainbow Neighborhood (Regenboogbuurt)"
+          },
+          "coords": [
+            5.288,
+            52.404
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie durch die Straßen und erleben Sie das volle Farbspektrum dieses einzigartigen Viertels.",
+            "hu": "Biciklizzen végig az utcákon, hogy megtapasztalja ennek az egyedülálló negyednek a teljes színskáláját.",
+            "ro": "Plimbați-vă cu bicicleta pe străzi pentru a experimenta spectrul complet de culori al acestui cartier unic.",
+            "en": "Cycle through the streets to experience the full spectrum of color in this unique neighborhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Almere Stad Einkaufszentrum",
+            "hu": "Almere Stad bevásárlóközpont",
+            "ro": "Centrul Comercial Almere Stad",
+            "en": "Almere Stad Shopping Center"
+          },
+          "coords": [
+            5.217,
+            52.373
+          ],
+          "category": "squares",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in einem der bewachten Fahrradparkplätze ab, während Sie einkaufen.",
+            "hu": "Hagyja a kerékpárját az egyik őrzött kerékpártárolóban, amíg vásárol.",
+            "ro": "Parcați-vă bicicleta într-una dintre parcările de biciclete securizate în timp ce faceți cumpărături.",
+            "en": "Park your bike in one of the secure bicycle parking facilities while you shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstlinie Almere Flevoland (KAF)",
+            "hu": "Kunstlinie Almere Flevoland (KAF)",
+            "ro": "Centrul Cultural Kunstlinie (KAF)",
+            "en": "Kunstlinie Almere Flevoland (KAF)"
+          },
+          "coords": [
+            5.221,
+            52.371
+          ],
+          "category": "cultural centres",
+          "arrive_at": "11:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Mittagspause mit kulturellem Flair und Seeblick.",
+            "hu": "Ideális hely egy ebédszünetre kulturális hangulattal és tóra néző kilátással.",
+            "ro": "Un loc ideal pentru o pauză de prânz cu o notă culturală și vedere la lac.",
+            "en": "An ideal spot for a lunch break with cultural flair and a lake view."
+          }
+        },
+        {
+          "name": {
+            "de": "Weerwater See",
+            "hu": "Weerwater-tó",
+            "ro": "Lacul Weerwater",
+            "en": "Weerwater Lake"
+          },
+          "coords": [
+            5.2238,
+            52.3702
+          ],
+          "category": "lake",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Folgen Sie dem Radweg, der einmal um den See führt, für eine entspannte Tour.",
+            "hu": "Kövesse a tó körüli kerékpárutat egy pihentető túrához.",
+            "ro": "Urmați pista de biciclete care înconjoară lacul pentru un tur relaxant.",
+            "en": "Follow the bike path that loops around the lake for a relaxing tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadslandgoed de Kemphaan",
+            "hu": "Stadslandgoed de Kemphaan",
+            "ro": "Domeniul Stadslandgoed de Kemphaan",
+            "en": "Stadslandgoed de Kemphaan"
+          },
+          "coords": [
+            5.28,
+            52.353
+          ],
+          "category": "parks",
+          "arrive_at": "13:56",
+          "stay_min": 150,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Wälder, den Kletterpark und den Stadtbauernhof. Ein großartiger Ort für einen aktiven Nachmittag.",
+            "hu": "Fedezze fel az erdőket, a kalandparkot és a városi gazdaságot. Nagyszerű hely egy aktív délutánhoz.",
+            "ro": "Explorați pădurile, parcul de aventură și ferma urbană. Un loc minunat pentru o după-amiază activă.",
+            "en": "Explore the forests, the climbing park, and the city farm. A great place for an active afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und beginnen Sie den Tag im farbenfrohen Regenboogbuurt, einem Beweis für Almeres architektonischen Wagemut. Die Fahrt führt Sie dann ins Stadtzentrum, wo Sie im geschäftigen Einkaufszentrum eine Pause einlegen können. Weiter geht es zum kulturellen Herzen der Stadt, dem Kunstlinie, direkt am Weerwater-See. Gönnen Sie sich hier eine Pause und genießen Sie die Kombination aus Kunst und Natur. Anschließend umrunden Sie den See und genießen die frische Luft und die schöne Aussicht, bevor Sie sich auf den Weg zum weitläufigen Stadslandgoed de Kemphaan machen. Dort verbringen Sie den Nachmittag damit, die Natur zu erkunden, vielleicht klettern Sie im Kletterpark oder besuchen die Tiere auf dem Bauernhof. Dieser Radtag verbindet urbanes Flair mit weitläufigen Naturerlebnissen und zeigt die Vielfalt von Almere.",
+        "hu": "Pattanjon kerékpárra, és kezdje a napot a színes Szivárvány-negyedben, amely Almere építészeti merészségének bizonyítéka. Az út ezután a városközpontba vezet, ahol megpihenhet a nyüzsgő bevásárlóközpontban. A következő állomás a város kulturális szíve, a Kunstlinie, közvetlenül a Weerwater-tó partján. Tartson itt egy szünetet, és élvezze a művészet és a természet kombinációját. Ezután tekerje körbe a tavat, élvezve a friss levegőt és a gyönyörű kilátást, mielőtt elindulna a tágas Stadslandgoed de Kemphaan felé. Töltse a délutánt a természet felfedezésével, esetleg másszon fel a kalandparkban, vagy látogassa meg az állatokat a farmon. Ez a kerékpáros nap ötvözi a városi hangulatot a kiterjedt természeti élményekkel, bemutatva Almere sokszínűségét.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua în coloratul Cartier Curcubeu, o dovadă a îndrăznelii arhitecturale a orașului Almere. Traseul vă duce apoi în centrul orașului, unde puteți face o pauză în centrul comercial aglomerat. Continuați spre inima culturală a orașului, Kunstlinie, chiar pe malul lacului Weerwater. Luați o pauză aici și bucurați-vă de combinația de artă și natură. Apoi, înconjurați lacul pe bicicletă, bucurându-vă de aerul curat și de priveliștile frumoase, înainte de a vă îndrepta spre vastul domeniu Stadslandgoed de Kemphaan. Petreceți după-amiaza explorând natura, poate urcând în parcul de aventură sau vizitând animalele de la fermă. Această zi pe bicicletă combină farmecul urban cu experiențe extinse în natură, prezentând diversitatea orașului Almere.",
+        "en": "Hop on your bike and start the day in the colorful Rainbow Neighborhood, a testament to Almere's architectural audacity. The ride then takes you into the city center, where you can take a break at the bustling shopping mall. Continue to the cultural heart of the city, the Kunstlinie, right on the Weerwater lake. Take a break here and enjoy the combination of art and nature. Afterwards, circle the lake, enjoying the fresh air and beautiful views, before heading to the expansive Stadslandgoed de Kemphaan. Spend the afternoon exploring nature, perhaps trying the climbing park or visiting the animals at the farm. This cycling day combines urban flair with extensive nature experiences, showcasing the diversity of Almere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Poffertjes",
+            "tip": "Probieren Sie diese kleinen holländischen Pfannkuchen mit Puderzucker und Butter."
+          },
+          {
+            "name": "Biologisches Mittagessen bei De Kemphaan",
+            "tip": "Das Landgut hat ein Restaurant, das Zutaten aus eigenem Anbau verwendet."
+          },
+          {
+            "name": "Frikandel Speciaal",
+            "tip": "Eine holländische Kult-Wurst, die man an vielen Imbissständen bekommt. Perfekt für einen schnellen Energieschub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poffertjes (mini palacsinta)",
+            "tip": "Kóstolja meg ezeket a kis holland palacsintákat porcukorral és vajjal."
+          },
+          {
+            "name": "Bio ebéd a De Kemphaan-ban",
+            "tip": "A birtokon van egy étterem, amely saját termesztésű alapanyagokat használ."
+          },
+          {
+            "name": "Frikandel Speciaal",
+            "tip": "Egy ikonikus holland kolbász, amelyet sok büfében kapni. Tökéletes egy gyors energiabomba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poffertjes",
+            "tip": "Încercați aceste mini-clătite olandeze cu zahăr pudră și unt."
+          },
+          {
+            "name": "Prânz organic la De Kemphaan",
+            "tip": "Domeniul are un restaurant care folosește ingrediente din producție proprie."
+          },
+          {
+            "name": "Frikandel Speciaal",
+            "tip": "Un cârnat olandez iconic disponibil la multe standuri de gustări. Perfect pentru o creștere rapidă de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Poffertjes",
+            "tip": "Try these small Dutch pancakes with powdered sugar and butter."
+          },
+          {
+            "name": "Organic Lunch at De Kemphaan",
+            "tip": "The estate has a restaurant that uses ingredients grown on-site."
+          },
+          {
+            "name": "Frikandel Speciaal",
+            "tip": "An iconic Dutch sausage available at many snack stands. Perfect for a quick energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wälder von De Kemphaan",
+            "tip": "Machen Sie einen Spaziergang abseits der Hauptwege und lauschen Sie den Geräuschen des Waldes.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Uferweg am Weerwater",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser, weit weg vom Stadtzentrum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang in Almere Buiten",
+            "tip": "Beobachten Sie, wie die Sonne über den Poldern untergeht und die bunten Häuser beleuchtet.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Kemphaan erdei",
+            "tip": "Sétáljon le a fő ösvényekről, és hallgassa az erdő hangjait.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Parti ösvény a Weerwater-tónál",
+            "tip": "Keressen egy csendes helyet a víz mellett, távol a városközponttól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente Almere Buitenben",
+            "tip": "Nézze, ahogy a nap lemegy a polderek felett, megvilágítva a színes házakat.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurile din De Kemphaan",
+            "tip": "Faceți o plimbare departe de cărările principale și ascultați sunetele pădurii.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cărare pe malul lacului Weerwater",
+            "tip": "Găsiți un loc liniștit lângă apă, departe de centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare în Almere Buiten",
+            "tip": "Priviți soarele apunând peste poldere, luminând casele colorate.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forests of De Kemphaan",
+            "tip": "Take a walk off the main paths and listen to the sounds of the forest.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Shore path at Weerwater",
+            "tip": "Find a quiet spot by the water, away from the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset in Almere Buiten",
+            "tip": "Watch the sun set over the polders, illuminating the colorful houses.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen in De Kemphaan",
+            "tip": "Kaufen Sie lokale und biologische Produkte direkt vom Bauernhof."
+          },
+          {
+            "name": "Fahrradzubehör",
+            "tip": "Almere ist eine Fahrradstadt. Besuchen Sie einen der vielen Fahrradläden für einzigartiges Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmbolt a De Kemphaan-ban",
+            "tip": "Vásároljon helyi és bio termékeket közvetlenül a gazdaságból."
+          },
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "Almere egy kerékpáros város. Látogasson el a számos kerékpárbolt egyikébe egyedi kiegészítőkért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fermei de la De Kemphaan",
+            "tip": "Cumpărați produse locale și organice direct de la fermă."
+          },
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Almere este un oraș al bicicletelor. Vizitați unul dintre multele magazine de biciclete pentru accesorii unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shop at De Kemphaan",
+            "tip": "Buy local and organic products directly from the farm."
+          },
+          {
+            "name": "Bike Accessories",
+            "tip": "Almere is a cycling city. Visit one of the many bike shops for unique accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Almere verfügt über ein ausgezeichnetes Netz von Radwegen. Sie sind sicher und gut ausgeschildert.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch wenn Sie es nur für ein paar Minuten abstellen.",
+          "Ein Fahrrad mit Gängen ist für die Brücken und die gelegentlichen Windböen empfehlenswert.",
+          "Planen Sie Ihre Route mit einer App, die Radwege anzeigt, um die schönsten Strecken zu finden."
+        ],
+        "hu": [
+          "Almere kiváló kerékpárút-hálózattal rendelkezik. Biztonságosak és jól kitáblázottak.",
+          "Mindig zárja le a kerékpárját, még akkor is, ha csak néhány percre hagyja ott.",
+          "A hidak és az alkalmi széllökések miatt ajánlott egy sebességváltós kerékpár.",
+          "Tervezze meg útvonalát egy olyan alkalmazással, amely kerékpárutakat is mutat, hogy megtalálja a legszebb szakaszokat."
+        ],
+        "ro": [
+          "Almere are o rețea excelentă de piste de biciclete. Acestea sunt sigure și bine semnalizate.",
+          "Încuietăți întotdeauna bicicleta, chiar dacă o lăsați doar pentru câteva minute.",
+          "O bicicletă cu viteze este recomandată pentru poduri și rafalele ocazionale de vânt.",
+          "Planificați-vă traseul folosind o aplicație care arată pistele de biciclete pentru a găsi cele mai frumoase rute."
+        ],
+        "en": [
+          "Almere has an excellent network of cycle paths. They are safe and well-signposted.",
+          "Always lock your bike, even if you're only leaving it for a few minutes.",
+          "A bike with gears is recommended for the bridges and the occasional gust of wind.",
+          "Plan your route using an app that shows cycle paths to find the most scenic routes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 24.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Almere Stad Einkaufszentrum",
+            "hu": "Almere Stad bevásárlóközpont",
+            "ro": "Centrul Comercial Almere Stad",
+            "en": "Almere Stad Shopping Center"
+          },
+          "coords": [
+            5.217,
+            52.373
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem der zentralen Parkhäuser für den Tag und erkunden Sie den ersten Teil der Stadt zu Fuß.",
+            "hu": "Parkoljon a központi parkolóházak egyikében a napra, és fedezze fel a város első részét gyalog.",
+            "ro": "Parcați într-una dintre parcările centrale pentru o zi și explorați prima parte a orașului pe jos.",
+            "en": "Park in one of the central parking garages for the day and explore the first part of the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "PIT Veiligheidsmuseum",
+            "hu": "PIT Biztonsági Múzeum",
+            "ro": "Muzeul Securității PIT",
+            "en": "PIT Safety Museum"
+          },
+          "coords": [
+            5.215,
+            52.371
+          ],
+          "category": "museums",
+          "arrive_at": "09:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkhaus. Planen Sie genügend Zeit für dieses überraschend fesselnde Museum ein.",
+            "hu": "Rövid séta a parkolóháztól. Tervezzen elegendő időt erre a meglepően lebilincselő múzeumra.",
+            "ro": "O scurtă plimbare de la parcare. Alocați suficient timp pentru acest muzeu surprinzător de captivant.",
+            "en": "A short walk from the parking garage. Plan enough time for this surprisingly engaging museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstlinie Almere Flevoland (KAF)",
+            "hu": "Kunstlinie Almere Flevoland (KAF)",
+            "ro": "Centrul Cultural Kunstlinie (KAF)",
+            "en": "Kunstlinie Almere Flevoland (KAF)"
+          },
+          "coords": [
+            5.221,
+            52.371
+          ],
+          "category": "cultural centres",
+          "arrive_at": "11:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen im Theatercafé, bevor Sie zurück zum Auto gehen.",
+            "hu": "Ebédeljen a színházi kávézóban, mielőtt visszatérne az autóhoz.",
+            "ro": "Luați prânzul la cafeneaua teatrului înainte de a vă întoarce la mașină.",
+            "en": "Have lunch at the theater cafe before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturpark Oostvaardersplassen",
+            "hu": "Oostvaardersplassen Natúrpark",
+            "ro": "Parcul Natural Oostvaardersplassen",
+            "en": "Oostvaardersplassen Nature Reserve"
+          },
+          "coords": [
+            5.35,
+            52.43
+          ],
+          "category": "natural features",
+          "arrive_at": "12:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Besucherzentrum und benutzen Sie die Beobachtungshütten. Bringen Sie ein Fernglas mit!",
+            "hu": "Hajtson a látogatóközponthoz, és használja a megfigyelőkunyhókat. Hozzon magával távcsövet!",
+            "ro": "Conduceți până la centrul de vizitatori și folosiți observatoarele. Aduceți binoclu!",
+            "en": "Drive to the visitor center and use the observation huts. Bring binoculars!"
+          }
+        },
+        {
+          "name": {
+            "de": "Regenboogbuurt (Regenbogenviertel)",
+            "hu": "Regenboogbuurt (Szivárvány-negyed)",
+            "ro": "Cartierul Curcubeului (Regenboogbuurt)",
+            "en": "Rainbow Neighborhood (Regenboogbuurt)"
+          },
+          "coords": [
+            5.288,
+            52.404
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Rand des Viertels und machen Sie einen Spaziergang, um die Farbenpracht zu erleben.",
+            "hu": "Parkoljon a negyed szélén, és tegyen egy sétát, hogy megtapasztalja a színek kavalkádját.",
+            "ro": "Parcați la marginea cartierului și faceți o plimbare pentru a experimenta explozia de culori.",
+            "en": "Park on the edge of the neighborhood and take a walk to experience the riot of color."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Almere beginnt mit dem Parken im Stadtzentrum. Der erste Cluster konzentriert sich auf das städtische Herz: das Einkaufszentrum, das PIT Veiligheidsmuseum und das Kulturzentrum KAF sind alle bequem zu Fuß erreichbar. Nach einem Vormittag voller urbaner Entdeckungen und Kultur steigen Sie ins Auto und fahren zum zweiten Cluster: dem riesigen Naturpark Oostvaardersplassen. Hier tauschen Sie die Stadtlandschaft gegen eine weite, wilde Ebene. Verbringen Sie den frühen Nachmittag mit der Beobachtung von Vögeln und Wildtieren. Der letzte Stopp des Tages ist ein weiterer kurzer Sprung mit dem Auto zum farbenfrohen Regenboogbuurt. Schlendern Sie durch dieses einzigartige Wohnviertel und bewundern Sie die kühne Farbgebung. Dieser Plan kombiniert das Beste aus Almeres moderner Stadtplanung, Kultur und der atemberaubenden Natur, die es umgibt.",
+        "hu": "Autós napja Almerében a városközpontban való parkolással kezdődik. Az első klaszter a városi szívre összpontosít: a bevásárlóközpont, a PIT Biztonsági Múzeum és a KAF kulturális központ mind gyalogosan elérhetőek. A városi felfedezésekkel és kultúrával teli délelőtt után autóba ül, és a második klaszterhez, a hatalmas Oostvaardersplassen Natúrparkhoz hajt. Itt a városi tájat egy hatalmas, vad síkságra cseréli. Töltse a kora délutánt madár- és vadmegfigyeléssel. A nap utolsó állomása egy újabb rövid autós ugrás a színes Szivárvány-negyedbe. Sétáljon végig ezen az egyedülálló lakónegyeden, és csodálja meg a merész színeket. Ez a terv ötvözi Almere modern várostervezésének, kultúrájának és a környező lenyűgöző természetnek a legjavát.",
+        "ro": "Ziua dvs. cu mașina în Almere începe cu parcarea în centrul orașului. Primul grup de obiective se concentrează pe inima urbană: centrul comercial, Muzeul de Siguranță PIT și centrul cultural KAF sunt toate la distanță de mers pe jos. După o dimineață de explorări urbane și cultură, urcați-vă în mașină și conduceți spre al doilea grup: vasta rezervație naturală Oostvaardersplassen. Aici, schimbați peisajul urban cu o câmpie vastă și sălbatică. Petreceți începutul după-amiezii observând păsări și animale sălbatice. Ultima oprire a zilei este un alt salt scurt cu mașina până la coloratul Cartier Curcubeu. Plimbați-vă prin acest cartier rezidențial unic, admirând schemele de culori îndrăznețe. Acest plan combină tot ce este mai bun din urbanismul modern al Almerei, cultura și natura uimitoare care o înconjoară.",
+        "en": "Your car day in Almere starts by parking in the city center. The first cluster focuses on the urban heart: the shopping center, the PIT Safety Museum, and the KAF cultural center are all within easy walking distance. After a morning of urban exploration and culture, you get in the car and drive to the second cluster: the vast Oostvaardersplassen nature reserve. Here you'll swap the cityscape for a wide, wild plain. Spend the early afternoon birdwatching and spotting wildlife. The final stop of the day is another short hop by car to the colorful Rainbow Neighborhood. Stroll through this unique residential area, admiring the bold color schemes. This plan combines the best of Almere's modern urban planning, culture, and the stunning nature that surrounds it."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick in den Oostvaardersplassen",
+            "tip": "Kaufen Sie lokale Produkte auf dem Markt und genießen Sie ein Mittagessen in der Natur."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Machen Sie eine Pause in einem Café in der Innenstadt für ein Stück traditionellen holländischen Apfelkuchen."
+          },
+          {
+            "name": "Restaurant Bakboord",
+            "tip": "Ein gehobenes Restaurant im Jachthafen von Almere Haven für ein besonderes Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik az Oostvaardersplassenben",
+            "tip": "Vásároljon helyi termékeket a piacon, és ebédeljen a természetben."
+          },
+          {
+            "name": "Appeltaart (almás pite)",
+            "tip": "Pihenjen meg egy belvárosi kávézóban egy szelet hagyományos holland almás pitére."
+          },
+          {
+            "name": "Restaurant Bakboord",
+            "tip": "Egy elegáns étterem Almere Haven kikötőjében egy különleges vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic la Oostvaardersplassen",
+            "tip": "Cumpărați produse locale de la piață și bucurați-vă de un prânz în natură."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Faceți o pauză la o cafenea din centru pentru o felie de plăcintă cu mere tradițională olandeză."
+          },
+          {
+            "name": "Restaurant Bakboord",
+            "tip": "Un restaurant de lux în portul de agrement din Almere Haven pentru o cină specială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic at Oostvaardersplassen",
+            "tip": "Buy some local produce from the market and enjoy lunch surrounded by nature."
+          },
+          {
+            "name": "Appeltaart",
+            "tip": "Take a break at a downtown cafe for a slice of traditional Dutch apple pie."
+          },
+          {
+            "name": "Restaurant Bakboord",
+            "tip": "An upscale restaurant in the marina of Almere Haven for a special dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Beobachtungshütte in den Oostvaardersplassen",
+            "tip": "Ein ruhiger Ort, um die Stille der Natur und die Tierwelt zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hannie Schaftpark",
+            "tip": "Ein friedlicher Park in der Nähe des Zentrums, ideal für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Gooimeer",
+            "tip": "Fahren Sie zum Ufer des Gooimeer für einen weiten Blick auf den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Megfigyelőkunyhó az Oostvaardersplassenben",
+            "tip": "Csendes hely a természet csendjének és a vadvilágnak az élvezetére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hannie Schaftpark",
+            "tip": "Békés park a központ közelében, ideális egy rövid szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Gooimeer-tónál",
+            "tip": "Hajtson le a Gooimeer partjára egy tágas naplementés kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Observator la Oostvaardersplassen",
+            "tip": "Un loc tăcut pentru a te bucura de liniștea naturii și de fauna sălbatică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Hannie Schaft",
+            "tip": "Un parc liniștit lângă centru, ideal pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare la lacul Gooimeer",
+            "tip": "Conduceți până pe malul lacului Gooimeer pentru o priveliște largă a apusului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Observation hut at Oostvaardersplassen",
+            "tip": "A silent place to enjoy the quiet of nature and the wildlife.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hannie Schaftpark",
+            "tip": "A peaceful park near the center, ideal for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at Gooimeer lake",
+            "tip": "Drive to the shore of the Gooimeer for a wide-open sunset view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Besucherzentrum Oostvaardersplassen",
+            "tip": "Hier finden Sie Bücher über die lokale Tierwelt und naturbezogene Geschenke."
+          },
+          {
+            "name": "Woonmall Almere",
+            "tip": "Ein großes Einkaufszentrum, das auf niederländisches Möbeldesign spezialisiert ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oostvaardersplassen Látogatóközpont",
+            "tip": "Itt a helyi vadvilágról szóló könyveket és természettel kapcsolatos ajándékokat talál."
+          },
+          {
+            "name": "Woonmall Almere",
+            "tip": "Egy nagy bevásárlóközpont, amely a holland bútortervezésre specializálódott."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul de vizitatori Oostvaardersplassen",
+            "tip": "Găsiți cărți despre fauna locală și cadouri legate de natură aici."
+          },
+          {
+            "name": "Woonmall Almere",
+            "tip": "Un centru comercial mare specializat în design de mobilier olandez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oostvaardersplassen Visitor Center",
+            "tip": "Find books about the local wildlife and nature-related gifts here."
+          },
+          {
+            "name": "Woonmall Almere",
+            "tip": "A large shopping mall specializing in Dutch furniture design."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum ist gebührenpflichtig. Planen Sie das in Ihr Budget ein.",
+          "Die Straßen in den Niederlanden sind gut, aber achten Sie immer auf Radfahrer, die Vorfahrt haben.",
+          "Ein Navigationssystem ist unerlässlich, da sich die Straßenlayouts in neuen Städten wie Almere schnell ändern können.",
+          "Überprüfen Sie die Öffnungszeiten des Besucherzentrums in Oostvaardersplassen im Voraus."
+        ],
+        "hu": [
+          "A parkolás a városközpontban fizetős. Tervezze be ezt a költségvetésébe.",
+          "Az utak Hollandiában jók, de mindig figyeljen a kerékpárosokra, akiknek elsőbbségük van.",
+          "A navigációs rendszer elengedhetetlen, mivel az úthálózatok gyorsan változhatnak az olyan új városokban, mint Almere.",
+          "Előre ellenőrizze az Oostvaardersplassen látogatóközpontjának nyitvatartási idejét."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este contra cost. Includeți acest lucru în bugetul dvs.",
+          "Drumurile din Olanda sunt bune, dar fiți mereu atenți la bicicliști, care au prioritate.",
+          "Un sistem de navigație este esențial, deoarece rețelele stradale se pot schimba rapid în orașe noi precum Almere.",
+          "Verificați în avans programul de funcționare al centrului de vizitatori de la Oostvaardersplassen."
+        ],
+        "en": [
+          "Parking in the city center is paid. Factor this into your budget.",
+          "Roads in the Netherlands are good, but always watch out for cyclists, who have the right of way.",
+          "A navigation system is essential, as road layouts can change quickly in new cities like Almere.",
+          "Check the opening hours for the Oostvaardersplassen visitor center in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 21.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Almere Stad Einkaufszentrum",
+            "hu": "Almere Stad bevásárlóközpont",
+            "ro": "Centrul Comercial Almere Stad",
+            "en": "Almere Stad Shopping Center"
+          },
+          "coords": [
+            5.217,
+            52.373
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am Bahnhof Almere Centrum, dem Hauptverkehrsknotenpunkt der Stadt.",
+            "hu": "Kezdje a napot az Almere Centrum állomáson, a város fő közlekedési csomópontjánál.",
+            "ro": "Începeți ziua la gara Almere Centrum, principalul nod de transport al orașului.",
+            "en": "Start your day at Almere Centrum station, the city's main transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "PIT Veiligheidsmuseum",
+            "hu": "PIT Biztonsági Múzeum",
+            "ro": "Muzeul Securității PIT",
+            "en": "PIT Safety Museum"
+          },
+          "coords": [
+            5.215,
+            52.371
+          ],
+          "category": "museums",
+          "arrive_at": "09:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus leicht zu Fuß erreichbar. Ein großartiger Start in Ihren Museumstag.",
+            "hu": "Könnyen megközelíthető gyalog az állomásról. Nagyszerű kezdet a múzeumi naphoz.",
+            "ro": "Ușor de ajuns pe jos de la gară. Un început excelent pentru ziua dvs. la muzeu.",
+            "en": "An easy walk from the station. A great start to your museum day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstlinie Almere Flevoland (KAF)",
+            "hu": "Kunstlinie Almere Flevoland (KAF)",
+            "ro": "Centrul Cultural Kunstlinie (KAF)",
+            "en": "Kunstlinie Almere Flevoland (KAF)"
+          },
+          "coords": [
+            5.221,
+            52.371
+          ],
+          "category": "cultural centres",
+          "arrive_at": "11:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieses Kulturzentrum liegt ebenfalls in Gehweite und ist ideal für eine Mittagspause.",
+            "hu": "Ez a kulturális központ szintén sétatávolságra van, és ideális egy ebédszünethez.",
+            "ro": "Acest centru cultural este, de asemenea, la distanță de mers pe jos și ideal pentru o pauză de prânz.",
+            "en": "This cultural center is also within walking distance and ideal for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Regenboogbuurt (Regenbogenviertel)",
+            "hu": "Regenboogbuurt (Szivárvány-negyed)",
+            "ro": "Cartierul Curcubeului (Regenboogbuurt)",
+            "en": "Rainbow Neighborhood (Regenboogbuurt)"
+          },
+          "coords": [
+            5.288,
+            52.404
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Sprinter-Zug nach Almere Buiten. Vom Bahnhof ist es ein kurzer Spaziergang.",
+            "hu": "Menjen a Sprinter vonattal Almere Buitenbe. Az állomástól rövid séta.",
+            "ro": "Luați trenul Sprinter spre Almere Buiten. Este o plimbare scurtă de la gară.",
+            "en": "Take the Sprinter train to Almere Buiten. It's a short walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadslandgoed de Kemphaan",
+            "hu": "Stadslandgoed de Kemphaan",
+            "ro": "Domeniul Stadslandgoed de Kemphaan",
+            "en": "Stadslandgoed de Kemphaan"
+          },
+          "coords": [
+            5.28,
+            52.353
+          ],
+          "category": "parks",
+          "arrive_at": "14:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Zug zurück ins Zentrum und steigen Sie dann in einen Bus (z.B. Linie M2) Richtung 'De Kemphaan'.",
+            "hu": "Menjen vissza vonattal a központba, majd szálljon át egy buszra (pl. M2-es vonal) 'De Kemphaan' felé.",
+            "ro": "Luați trenul înapoi în centru și apoi schimbați cu un autobuz (de ex. linia M2) spre 'De Kemphaan'.",
+            "en": "Take the train back to the center and then switch to a bus (e.g., line M2) towards 'De Kemphaan'."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Zentrum von Almere, das vom Bahnhof aus leicht zu erkunden ist. Der Vormittag ist ein Spaziergang durch das Herz der modernen Stadt, bei dem Sie das PIT Museum und das Kunstlinie besuchen, die beide Teil des ersten Fußgänger-Clusters sind. Nach dem Mittagessen nutzen Sie das effiziente niederländische Zugsystem für Ihren ersten Transit-Sprung. Eine kurze Fahrt bringt Sie nach Almere Buiten, wo Sie in den zweiten Cluster eintauchen: den farbenfrohen Regenboogbuurt. Als Nächstes kombinieren Sie Zug und Bus für Ihren letzten Transit des Tages, um den dritten Cluster zu erreichen: das weitläufige Stadslandgoed de Kemphaan. Verbringen Sie den Rest des Nachmittags in dieser grünen Oase, bevor Sie mit dem Bus und Zug zurück ins Zentrum fahren. Dieser Plan zeigt, wie einfach es ist, die verschiedenen Bezirke Almeres mit öffentlichen Verkehrsmitteln zu verbinden.",
+        "hu": "Tömegközlekedéssel töltött napja Almere központjában kezdődik, amely könnyen felfedezhető az állomásról. A délelőtt egy séta a modern város szívében, meglátogatva a PIT Múzeumot és a Kunstlinie-t, mindkettő az első gyalogos klaszter része. Ebéd után használja a hatékony holland vasúti rendszert az első tömegközlekedési ugráshoz. Egy rövid utazás Almere Buitenbe viszi, ahol elmerülhet a második klaszterben: a színes Szivárvány-negyedben. Ezután kombinálja a vonatot és a buszt a nap utolsó tranzitjához, hogy elérje a harmadik klasztert: a tágas Stadslandgoed de Kemphaan-t. Töltse a délután hátralévő részét ebben a zöld oázisban, mielőtt busszal és vonattal visszatérne a központba. Ez a terv bemutatja, milyen könnyű összekötni Almere különböző kerületeit tömegközlekedéssel.",
+        "ro": "Ziua dvs. cu transportul public începe în centrul orașului Almere, ușor de explorat de la gară. Dimineața este o plimbare prin inima orașului modern, vizitând Muzeul PIT și Kunstlinie, ambele parte a primului grup pietonal. După prânz, folosiți sistemul feroviar olandez eficient pentru primul salt cu transportul public. O călătorie scurtă vă duce la Almere Buiten, unde vă scufundați în al doilea grup: coloratul Cartier Curcubeu. Apoi, combinați trenul și autobuzul pentru ultimul tranzit al zilei pentru a ajunge la al treilea grup: vastul domeniu Stadslandgoed de Kemphaan. Petreceți restul după-amiezii în această oază verde înainte de a vă întoarce în centru cu autobuzul și trenul. Acest plan arată cât de ușor este să conectați diferitele cartiere ale Almerei folosind transportul public.",
+        "en": "Your public transport day starts in the center of Almere, easily explorable from the station. The morning is a walking tour through the heart of the modern city, visiting the PIT Museum and the Kunstlinie, both part of the first pedestrian cluster. After lunch, you'll use the efficient Dutch train system for your first transit hop. A short ride takes you to Almere Buiten, where you immerse yourself in the second cluster: the colorful Rainbow Neighborhood. Next, you combine train and bus for your final transit of the day to reach the third cluster: the expansive Stadslandgoed de Kemphaan. Spend the rest of the afternoon in this green oasis before heading back to the center by bus and train. This plan shows how easy it is to connect the diverse districts of Almere using public transport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kibbeling",
+            "tip": "Gebratene Fischstücke, die auf dem Markt oder an Imbissständen verkauft werden. Ein klassischer holländischer Snack."
+          },
+          {
+            "name": "Tompouce",
+            "tip": "Ein cremiges, glasiertes Gebäck, das man in jeder Bäckerei (bakkerij) findet."
+          },
+          {
+            "name": "Restaurants am Grote Markt",
+            "tip": "Der zentrale Platz ist gesäumt von Restaurants mit internationaler Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kibbeling",
+            "tip": "Sült haldarabok, amelyeket a piacon vagy büfékben árulnak. Klasszikus holland snack."
+          },
+          {
+            "name": "Tompouce",
+            "tip": "Krémes, mázas sütemény, amelyet minden pékségben (bakkerij) megtalál."
+          },
+          {
+            "name": "Éttermek a Grote Markton",
+            "tip": "A központi teret nemzetközi konyhát kínáló éttermek szegélyezik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kibbeling",
+            "tip": "Bucăți de pește prăjit vândute la piață sau la standurile de gustări. O gustare olandeză clasică."
+          },
+          {
+            "name": "Tompouce",
+            "tip": "Un produs de patiserie cremos, glazurat, găsit la orice brutărie (bakkerij)."
+          },
+          {
+            "name": "Restaurante în Grote Markt",
+            "tip": "Piața centrală este mărginită de restaurante care oferă bucătărie internațională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kibbeling",
+            "tip": "Battered and fried fish pieces sold at markets or snack stands. A classic Dutch snack."
+          },
+          {
+            "name": "Tompouce",
+            "tip": "A creamy, glazed pastry found at any bakery (bakkerij)."
+          },
+          {
+            "name": "Restaurants at Grote Markt",
+            "tip": "The main square is lined with restaurants offering international cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Beatrixpark",
+            "tip": "Ein weiterer zentraler Park, der eine ruhige Alternative zum belebteren Lumierepark darstellt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Eine Fahrt mit der Fähre",
+            "tip": "Nehmen Sie eine der kleinen Fähren über das Weerwater für eine ruhige Pause auf dem Wasser.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Bibliothek von Almere",
+            "tip": "Eine moderne, ruhige Oase im Stadtzentrum mit toller Architektur.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beatrixpark",
+            "tip": "Egy másik központi park, amely csendes alternatívája a forgalmasabb Lumiereparknak.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kompozás",
+            "tip": "Menjen át a Weerwateren az egyik kis komppal egy csendes vízi szünetért.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Almere könyvtára",
+            "tip": "Modern, csendes oázis a városközpontban, nagyszerű építészettel.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Beatrix",
+            "tip": "Un alt parc central care este o alternativă liniștită la mai aglomeratul Parc Lumiere.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "O plimbare cu feribotul",
+            "tip": "Luați unul dintre micile feriboturi peste Weerwater pentru o pauză liniștită pe apă.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Biblioteca din Almere",
+            "tip": "O oază modernă și liniștită în centrul orașului, cu o arhitectură grozavă.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beatrixpark",
+            "tip": "Another central park that's a quiet alternative to the busier Lumierepark.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A ferry ride",
+            "tip": "Take one of the small ferries across the Weerwater for a peaceful break on the water.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Library of Almere",
+            "tip": "A modern, quiet oasis in the city center with great architecture.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt in Almere Buiten",
+            "tip": "Jeden Donnerstag gibt es einen großen Markt, der sich von dem im Stadtzentrum unterscheidet."
+          },
+          {
+            "name": "Bahnhofsläden",
+            "tip": "Die Bahnhöfe in den Niederlanden haben ausgezeichnete Läden für Snacks und Last-Minute-Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac Almere Buitenben",
+            "tip": "Minden csütörtökön nagy piac van, amely különbözik a városközpontitól."
+          },
+          {
+            "name": "Boltok az állomáson",
+            "tip": "A hollandiai állomásokon kiváló boltok vannak snackekhez és utolsó pillanatos ajándéktárgyakhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Almere Buiten",
+            "tip": "Există o piață mare în fiecare joi, diferită de cea din centrul orașului."
+          },
+          {
+            "name": "Magazinele din gară",
+            "tip": "Gările din Olanda au magazine excelente pentru gustări și suveniruri de ultim moment."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market in Almere Buiten",
+            "tip": "There is a large market every Thursday, different from the one in the city center."
+          },
+          {
+            "name": "Station Shops",
+            "tip": "Stations in the Netherlands have excellent shops for snacks and last-minute souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine anonyme OV-chipkaart oder verwenden Sie Ihre kontaktlose Debit-/Kreditkarte zum Ein- und Auschecken.",
+          "Planen Sie Ihre Reise mit der 9292-App, die Echtzeit-Fahrpläne für alle öffentlichen Verkehrsmittel in den Niederlanden anzeigt.",
+          "Vergessen Sie nicht, beim Verlassen des Busses, der Straßenbahn oder des Bahnhofs auszuchecken, um eine Überbezahlung zu vermeiden.",
+          "Die Züge zwischen den Bahnhöfen von Almere (Sprinter) verkehren häufig, normalerweise alle 15 Minuten."
+        ],
+        "hu": [
+          "Vásároljon egy névtelen OV-chipkaartot, vagy használja az érintésmentes bankkártyáját a be- és kijelentkezéshez.",
+          "Tervezze meg utazását a 9292 alkalmazással, amely valós idejű menetrendeket mutat Hollandia összes tömegközlekedési eszközéhez.",
+          "Ne felejtsen el kijelentkezni, amikor elhagyja a buszt, villamost vagy állomást, hogy elkerülje a túlfizetést.",
+          "Az Almere állomásai közötti vonatok (Sprinter) gyakran, általában 15 percenként közlekednek."
+        ],
+        "ro": [
+          "Cumpărați un card OV-chipkaart anonim sau folosiți cardul de debit/credit contactless pentru a face check-in și check-out.",
+          "Planificați-vă călătoria cu aplicația 9292, care arată orare în timp real pentru tot transportul public din Olanda.",
+          "Nu uitați să faceți check-out la ieșirea din autobuz, tramvai sau gară pentru a evita plata în plus.",
+          "Trenurile dintre gările din Almere (Sprinter) circulă frecvent, de obicei la fiecare 15 minute."
+        ],
+        "en": [
+          "Buy an anonymous OV-chipkaart or use your contactless debit/credit card to check in and out.",
+          "Plan your journey with the 9292 app, which shows real-time schedules for all public transport in the Netherlands.",
+          "Don't forget to check out when leaving the bus, tram, or station to avoid being overcharged.",
+          "Trains between Almere's stations (Sprinter) are frequent, usually every 15 minutes."
+        ]
+      }
+    }
+  }
+}

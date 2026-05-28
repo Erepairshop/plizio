@@ -1,0 +1,1212 @@
+{
+  "city_id": "switzerland-stans-cities-v2",
+  "anchor": {
+    "name": "Stans",
+    "coords": [
+      8.3417,
+      46.957
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorfplatz Stans",
+            "hu": "Stans Főtere (Dorfplatz)",
+            "ro": "Piața Centrală din Stans (Dorfplatz)",
+            "en": "Stans Village Square (Dorfplatz)"
+          },
+          "coords": [
+            8.3415,
+            46.9575
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionellen Häuser und das Winkelried-Denkmal.",
+            "hu": "Csodálja meg a tradicionális házakat és a Winkelried-emlékművet.",
+            "ro": "Admirați casele tradiționale și monumentul Winkelried.",
+            "en": "Admire the traditional houses and the Winkelried monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Winkelried-Denkmal",
+            "hu": "Winkelried Emlékmű",
+            "ro": "Monumentul Winkelried",
+            "en": "Winkelried Monument"
+          },
+          "coords": [
+            8.3418,
+            46.9577
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lesen Sie die Inschrift, die an den Schweizer Helden erinnert.",
+            "hu": "Olvassa el a svájci hősnek emléket állító feliratot.",
+            "ro": "Citiți inscripția care comemorează eroul elvețian.",
+            "en": "Read the inscription commemorating the Swiss hero."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Peter und Paul",
+            "hu": "Szt. Péter és Pál Plébániatemplom",
+            "ro": "Biserica Parohială Sf. Petru și Pavel",
+            "en": "Parish Church of St. Peter and Paul"
+          },
+          "coords": [
+            8.3408,
+            46.958
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckende Doppel-Turmfassade.",
+            "hu": "Figyelje meg a lenyűgöző kettős toronyhomlokzatot.",
+            "ro": "Observați fațada impresionantă cu două turnuri.",
+            "en": "Notice the impressive double-tower facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Nidwaldner Museum Salzmagazin",
+            "hu": "Nidwaldner Múzeum (Salzmagazin)",
+            "ro": "Muzeul Nidwaldner (Salzmagazin)",
+            "en": "Nidwaldner Museum (Salzmagazin)"
+          },
+          "coords": [
+            8.3445,
+            46.9585
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fokus auf lokale Geschichte und Kunst in einem historischen Salzspeicher.",
+            "hu": "A múzeum a helyi történelemre és művészetre összpontosít egy régi sóraktárban.",
+            "ro": "Concentrează-te pe istoria și arta locală într-un depozit istoric de sare.",
+            "en": "Focus on local history and art within a historic salt warehouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Höfli (Rosenburg)",
+            "hu": "Höfli Kastély (Rosenburg)",
+            "ro": "Castelul Höfli (Rosenburg)",
+            "en": "Höfli Castle (Rosenburg)"
+          },
+          "coords": [
+            8.343,
+            46.9565
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schönes Herrenhaus, das man am besten von außen bewundert.",
+            "hu": "Egy gyönyörű udvarház, melyet a legjobb kívülről megcsodálni.",
+            "ro": "Un conac frumos, cel mai bine admirat din exterior.",
+            "en": "A beautiful manor house, best admired from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapuzinerkloster",
+            "hu": "Kapucinus Kolostor",
+            "ro": "Mănăstirea Capucinilor",
+            "en": "Capuchin Monastery"
+          },
+          "coords": [
+            8.3378,
+            46.9555
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie einen Moment der Ruhe im Klostergarten.",
+            "hu": "Keressen egy pillanatnyi csendet a kolostor kertjében.",
+            "ro": "Găsiți un moment de liniște în grădina mănăstirii.",
+            "en": "Find a moment of peace in the monastery garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Culinarium Alpinum",
+            "hu": "Culinarium Alpinum",
+            "ro": "Culinarium Alpinum",
+            "en": "Culinarium Alpinum"
+          },
+          "coords": [
+            8.337,
+            46.955
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein spätes Mittagessen hier ist ein Muss für Feinschmecker.",
+            "hu": "Egy kései ebéd itt kötelező az ínyenceknek.",
+            "ro": "Un prânz târziu aici este o necesitate pentru gurmanzi.",
+            "en": "A late lunch here is a must for foodies."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem charmanten Dorfplatz von Stans, dem Herzen der Stadt. Nach der Erkundung historischer Wahrzeichen und Kirchen bietet das Nidwaldner Museum tiefe Einblicke in die lokale Kultur. Am Nachmittag schlendern Sie durch ruhigere Straßen zum Kapuzinerkloster. Schließen Sie Ihren Spaziergang mit einem außergewöhnlichen kulinarischen Erlebnis im Culinarium Alpinum ab, das die alpinen Aromen zelebriert.",
+        "hu": "Kezdje a napot Stans bájos főterén, a város szívében. A történelmi nevezetességek és templomok felfedezése után a Nidwaldner Múzeum mély betekintést nyújt a helyi kultúrába. Délután sétáljon csendesebb utcákon a Kapucinus Kolostorhoz. Zárja a sétát egy kivételes kulináris élménnyel a Culinarium Alpinumban, amely az alpesi ízeket ünnepli.",
+        "ro": "Începeți ziua în fermecătoarea piață a satului Stans, inima orașului. După explorarea reperelor istorice și a bisericilor, Muzeul Nidwaldner oferă o perspectivă profundă asupra culturii locale. După-amiaza, plimbați-vă pe străzi mai liniștite până la Mănăstirea Capucinilor. Încheiați plimbarea cu o experiență culinară excepțională la Culinarium Alpinum, celebrând aromele alpine.",
+        "en": "Start your day in the charming village square of Stans, the heart of the town. After exploring historical landmarks and churches, the Nidwaldner Museum offers deep insights into the local culture. In the afternoon, stroll through quieter streets to the Capuchin Monastery. Conclude your walk with an exceptional culinary experience at Culinarium Alpinum, celebrating Alpine flavors."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Älplermagronen",
+            "tip": "Herzhafte Schweizer Makkaroni mit Käse, Kartoffeln und Apfelmus. Probieren Sie es im Restaurant Engel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Älplermagronen",
+            "tip": "Kiadós svájci sajtos makaróni krumplival és almaszósszal. Próbálja ki az Engel étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Älplermagronen",
+            "tip": "Macaroane elvețiene consistente cu brânză, cartofi și sos de mere. Încercați la Restaurant Engel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Älplermagronen",
+            "tip": "Hearty Swiss macaroni with cheese, potatoes, and apple sauce. Try it at Restaurant Engel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten",
+            "tip": "Der Garten des Kapuzinerklosters ist eine Oase der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Aa-Bach",
+            "tip": "Ein friedlicher Weg entlang des kleinen Flusses.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkert",
+            "tip": "A kapucinus kolostor kertje a béke oázisa.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta az Aa-patak mentén",
+            "tip": "Békés ösvény a kis folyó mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Mănăstirii",
+            "tip": "Grădina Mănăstirii Capucinilor este o oază de pace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe lângă pârâul Aa",
+            "tip": "O potecă liniștită de-a lungul micului râu.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Garden",
+            "tip": "The garden of the Capuchin Monastery is an oasis of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the Aa stream",
+            "tip": "A peaceful path alongside the small river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Jeden Samstagmorgen auf dem Dorfplatz für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Minden szombat reggel a főtéren helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare sâmbătă dimineața în piața satului pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Saturday morning in the village square for local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten liegen sehr nah beieinander, was den Spaziergang sehr angenehm macht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek.",
+          "A legtöbb látnivaló nagyon közel van egymáshoz, ami nagyon kellemessé teszi a sétát."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul poate fi denivelat.",
+          "Majoritatea atracțiilor sunt foarte apropiate, ceea ce face plimbarea foarte plăcută."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Most sights are very close to each other, making for a very pleasant walk."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorfplatz Stans",
+            "hu": "Stans Főtere (Dorfplatz)",
+            "ro": "Piața Centrală din Stans (Dorfplatz)",
+            "en": "Stans Village Square (Dorfplatz)"
+          },
+          "coords": [
+            8.3415,
+            46.9575
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour im Herzen der Stadt.",
+            "hu": "Kezdje a biciklitúrát a város szívében.",
+            "ro": "Începeți turul cu bicicleta în inima orașului.",
+            "en": "Start your bike tour in the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Peter und Paul",
+            "hu": "Szt. Péter és Pál Plébániatemplom",
+            "ro": "Biserica Parohială Sf. Petru și Pavel",
+            "en": "Parish Church of St. Peter and Paul"
+          },
+          "coords": [
+            8.3408,
+            46.958
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und nehmen Sie sich Zeit für das Innere.",
+            "hu": "Zárja le a kerékpárját, és szánjon időt a templom belsejére.",
+            "ro": "Încuiați-vă bicicleta și acordați-vă timp pentru interior.",
+            "en": "Lock up your bike and take time for the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Nidwaldner Museum Salzmagazin",
+            "hu": "Nidwaldner Múzeum (Salzmagazin)",
+            "ro": "Muzeul Nidwaldner (Salzmagazin)",
+            "en": "Nidwaldner Museum (Salzmagazin)"
+          },
+          "coords": [
+            8.3445,
+            46.9585
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Gute Fahrradständer sind direkt vor dem Museum verfügbar.",
+            "hu": "Jó kerékpártárolók állnak rendelkezésre a múzeum előtt.",
+            "ro": "Rastele bune pentru biciclete sunt disponibile chiar în fața muzeului.",
+            "en": "Good bike racks are available right in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt Richtung See",
+            "hu": "Kerékpározás a tó felé",
+            "ro": "Plimbare cu bicicleta spre lac",
+            "en": "Ride towards the lake"
+          },
+          "coords": [
+            8.355,
+            46.975
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf den Vierwaldstättersee.",
+            "hu": "Élvezze a kilátást a Vierwaldstätti-tóra.",
+            "ro": "Bucurați-vă de priveliștea spre Lacul Lucerna.",
+            "en": "Enjoy the view of Lake Lucerne."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapuzinerkloster",
+            "hu": "Kapucinus Kolostor",
+            "ro": "Mănăstirea Capucinilor",
+            "en": "Capuchin Monastery"
+          },
+          "coords": [
+            8.3378,
+            46.9555
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein steiler, aber kurzer Anstieg zum Kloster.",
+            "hu": "Meredek, de rövid emelkedő a kolostorhoz.",
+            "ro": "O urcare abruptă, dar scurtă, spre mănăstire.",
+            "en": "A steep but short climb to the monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Culinarium Alpinum",
+            "hu": "Culinarium Alpinum",
+            "ro": "Culinarium Alpinum",
+            "en": "Culinarium Alpinum"
+          },
+          "coords": [
+            8.337,
+            46.955
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein wohlverdientes Mittagessen.",
+            "hu": "Tökéletes hely egy jól megérdemelt ebédhez.",
+            "ro": "Un loc perfect pentru un prânz binemeritat.",
+            "en": "A perfect spot for a well-deserved lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanserhorn-Bahn Talstation",
+            "hu": "Stanserhorn-Bahn völgyállomás",
+            "ro": "Gara de la poalele Stanserhorn-Bahn",
+            "en": "Stanserhorn-Bahn Valley Station"
+          },
+          "coords": [
+            8.341,
+            46.946
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und fahren Sie auf den Berg. Die Aussicht ist es wert!",
+            "hu": "Parkolja le a kerékpárt, és menjen fel a hegyre. A kilátás megéri!",
+            "ro": "Parcați-vă bicicleta și urcați pe munte. Priveliștea merită!",
+            "en": "Park your bike and go up the mountain. The view is worth it!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und erkunden Sie Stans und seine Umgebung. Die Tour beginnt im Stadtzentrum, führt Sie zu den wichtigsten kulturellen Stätten und dann auf einen malerischen Abstecher in Richtung Vierwaldstättersee. Am Nachmittag erwartet Sie der Höhepunkt: die Fahrt mit der Stanserhorn-Bahn. Diese Kombination aus Kultur, Natur und Technik macht den Tag unvergesslich.",
+        "hu": "Pattanjon kerékpárra, és fedezze fel Stanst és környékét. A túra a városközpontban kezdődik, elvezet a főbb kulturális helyszínekhez, majd egy festői kitérőt tesz a Vierwaldstätti-tó felé. Délután várja a csúcspont: az utazás a Stanserhorn-Bahnnal. A kultúra, a természet és a technika ezen kombinációja felejthetetlenné teszi a napot.",
+        "ro": "Urcați-vă pe bicicletă și explorați Stans și împrejurimile sale. Turul începe în centrul orașului, vă duce la principalele situri culturale și apoi face un ocol pitoresc spre Lacul Lucerna. După-amiaza vă așteaptă punctul culminant: călătoria cu Stanserhorn-Bahn. Această combinație de cultură, natură și tehnologie face ziua de neuitat.",
+        "en": "Hop on your bike and explore Stans and its surroundings. The tour starts in the town center, takes you to the main cultural sites, and then for a scenic detour towards Lake Lucerne. In the afternoon, the highlight awaits: the ride on the Stanserhorn-Bahn. This combination of culture, nature, and technology makes the day unforgettable."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Nidwaldner Chäschüechli",
+            "tip": "Kleine Käsekuchen, ein lokaler Snack. Ideal für eine Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nidwaldner Chäschüechli",
+            "tip": "Kis sajtos piték, helyi harapnivaló. Ideális egy szünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nidwaldner Chäschüechli",
+            "tip": "Mici tarte cu brânză, o gustare locală. Ideal pentru o pauză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nidwaldner Chäschüechli",
+            "tip": "Small cheese tarts, a local snack. Ideal for a break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Stanserhorns",
+            "tip": "Oben angekommen, bietet sich eine 360°-Aussicht und absolute Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Vierwaldstättersees",
+            "tip": "Ein ruhiger Ort, um die Landschaft zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stanserhorn csúcsa",
+            "tip": "Fent 360°-os kilátás és abszolút csend vár.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vierwaldstätti-tó partja",
+            "tip": "Csendes hely a táj élvezetére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Stanserhorn",
+            "tip": "Odată ajuns în vârf, există o vedere de 360° și o liniște absolută.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul Lacului Lucerna",
+            "tip": "Un loc liniștit pentru a te bucura de peisaj.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of the Stanserhorn",
+            "tip": "Once at the top, there's a 360° view and absolute silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Shores of Lake Lucerne",
+            "tip": "A quiet spot to enjoy the scenery.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Spezialitäten",
+            "tip": "Suchen Sie nach lokalem Käse oder 'Birnenweggen' in den Bäckereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi specialitások",
+            "tip": "Keressen helyi sajtot vagy 'Birnenweggen'-t a pékségekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specialități regionale",
+            "tip": "Căutați brânză locală sau 'Birnenweggen' (pâine cu pere) în brutării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional Specialties",
+            "tip": "Look for local cheese or 'Birnenweggen' (pear bread) in the bakeries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege sind gut ausgebaut, aber einige Anstiege erfordern etwas Kondition.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad an den Sehenswürdigkeiten sicher abzustellen."
+        ],
+        "hu": [
+          "Az utak jól kiépítettek, de néhány emelkedő némi állóképességet igényel.",
+          "Vigyen magával egy jó lakatot, hogy biztonságosan lezárhassa a kerékpárt a látnivalóknál."
+        ],
+        "ro": [
+          "Traseele sunt bine întreținute, dar unele urcări necesită puțină condiție fizică.",
+          "Luați un lacăt bun pentru a vă asigura bicicleta la obiectivele turistice."
+        ],
+        "en": [
+          "The paths are well-maintained, but some climbs require a bit of fitness.",
+          "Bring a good lock to secure your bike at the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz im Zentrum",
+            "hu": "Parkolás a központban",
+            "ro": "Parcare în centru",
+            "en": "Parking in the Center"
+          },
+          "coords": [
+            8.343,
+            46.959
+          ],
+          "category": "parking",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto für den Vormittag. Das meiste ist zu Fuß erreichbar.",
+            "hu": "Parkolja le az autót a délelőttre. A legtöbb dolog gyalogosan elérhető.",
+            "ro": "Parcați-vă mașina pentru dimineață. Majoritatea locurilor sunt accesibile pe jos.",
+            "en": "Park your car for the morning. Most things are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfplatz und Winkelried-Denkmal",
+            "hu": "Főtér és Winkelried Emlékmű",
+            "ro": "Piața Centrală și Monumentul Winkelried",
+            "en": "Village Square and Winkelried Monument"
+          },
+          "coords": [
+            8.3415,
+            46.9575
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang hier. Dies ist der erste Teil Ihres Fuß-Clusters.",
+            "hu": "Kezdje a sétát itt. Ez a gyalogos klaszter első része.",
+            "ro": "Începeți turul pietonal de aici. Aceasta este prima parte a grupului pietonal.",
+            "en": "Start your walking tour here. This is the first part of your walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche und Museum",
+            "hu": "Plébániatemplom és Múzeum",
+            "ro": "Biserica Parohială și Muzeul",
+            "en": "Parish Church and Museum"
+          },
+          "coords": [
+            8.3425,
+            46.9582
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 140,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche und das nahegelegene Nidwaldner Museum.",
+            "hu": "Látogassa meg a templomot és a közeli Nidwaldner Múzeumot.",
+            "ro": "Vizitați biserica și Muzeul Nidwaldner din apropiere.",
+            "en": "Visit the church and the nearby Nidwaldner Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            8.341,
+            46.957
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie ein traditionelles Restaurant rund um den Dorfplatz.",
+            "hu": "Válasszon egy hagyományos éttermet a főtér környékén.",
+            "ro": "Alegeți un restaurant tradițional în jurul pieței satului.",
+            "en": "Choose a traditional restaurant around the village square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanserhorn-Bahn Talstation",
+            "hu": "Stanserhorn-Bahn völgyállomás",
+            "ro": "Gara de la poalele Stanserhorn-Bahn",
+            "en": "Stanserhorn-Bahn Valley Station"
+          },
+          "coords": [
+            8.341,
+            46.946
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:25",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zur Talstation. Es gibt genügend Parkplätze. Dies ist Ihr zweiter Cluster.",
+            "hu": "Vezessen a völgyállomáshoz. Van elég parkolóhely. Ez a második klaszter.",
+            "ro": "Conduceți până la stația din vale. Există suficientă parcare. Acesta este al doilea grup.",
+            "en": "Drive to the valley station. There is ample parking. This is your second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Culinarium Alpinum",
+            "hu": "Culinarium Alpinum",
+            "ro": "Culinarium Alpinum",
+            "en": "Culinarium Alpinum"
+          },
+          "coords": [
+            8.337,
+            46.955
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein letzter Halt für Kaffee und Kuchen oder einen frühen Apéro.",
+            "hu": "Egy utolsó megálló kávéra és süteményre vagy egy korai aperitifre.",
+            "ro": "O ultimă oprire pentru cafea și prăjitură sau un aperitiv timpuriu.",
+            "en": "A final stop for coffee and cake or an early aperitif."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um Stans effizient zu erleben. Parken Sie im Zentrum und erkunden Sie den historischen Kern zu Fuß. Dieser erste Cluster umfasst den Dorfplatz, die Kirche und Museen. Nach dem Mittagessen fahren Sie zur Talstation der Stanserhorn-Bahn für den Höhepunkt des Tages: eine Fahrt auf den Gipfel. Der Tag endet mit einem entspannten Besuch im Culinarium Alpinum, bevor Sie Ihre Reise fortsetzen.",
+        "hu": "Használja autóját, hogy hatékonyan fedezze fel Stanst. Parkoljon a központban, és fedezze fel gyalog a történelmi magot. Ez az első klaszter magában foglalja a főteret, a templomot és a múzeumokat. Ebéd után vezessen a Stanserhorn-Bahn völgyállomásához a nap csúcspontjáért: egy utazásért a csúcsra. A nap egy laza látogatással zárul a Culinarium Alpinumban, mielőtt folytatná útját.",
+        "ro": "Folosiți-vă mașina pentru a experimenta Stans în mod eficient. Parcați în centru și explorați nucleul istoric pe jos. Acest prim grup include piața satului, biserica și muzeele. După prânz, conduceți la stația din vale a Stanserhorn-Bahn pentru punctul culminant al zilei: o călătorie spre vârf. Ziua se încheie cu o vizită relaxantă la Culinarium Alpinum înainte de a vă continua călătoria.",
+        "en": "Use your car to experience Stans efficiently. Park in the center and explore the historic core on foot. This first cluster includes the village square, church, and museums. After lunch, drive to the Stanserhorn-Bahn valley station for the day's highlight: a trip to the summit. The day concludes with a relaxing visit to Culinarium Alpinum before you continue your journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zigerkrapfen",
+            "tip": "Eine süße oder salzige Teigtasche, gefüllt mit Ziger-Käse. Suchen Sie danach in lokalen Bäckereien."
+          },
+          {
+            "name": "Fondue",
+            "tip": "Ein Klassiker. Geniessen Sie es in einem der Restaurants am Dorfplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zigerkrapfen",
+            "tip": "Édes vagy sós tészta, Ziger sajttal töltve. Keresse a helyi pékségekben."
+          },
+          {
+            "name": "Fondü",
+            "tip": "Klasszikus. Élvezze a főtér egyik éttermében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zigerkrapfen",
+            "tip": "Un produs de patiserie dulce sau sărat umplut cu brânză Ziger. Căutați-l în brutăriile locale."
+          },
+          {
+            "name": "Fondue",
+            "tip": "Un clasic. Savurați-l într-unul dintre restaurantele din piața satului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zigerkrapfen",
+            "tip": "A sweet or savory pastry filled with Ziger cheese. Look for it in local bakeries."
+          },
+          {
+            "name": "Fondue",
+            "tip": "A classic. Enjoy it in one of the restaurants in the village square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stanserhorn Gipfel",
+            "tip": "Der 'lazy-way' Gipfel. Genießen Sie die atemberaubende Aussicht ohne Anstrengung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Drehrestaurant Rondorama",
+            "tip": "Auf dem Stanserhorn. Die Aussicht ändert sich ständig.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stanserhorn csúcs",
+            "tip": "A 'lusta út' a csúcsra. Élvezze a lélegzetelállító kilátást erőfeszítés nélkül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rondorama forgó étterem",
+            "tip": "A Stanserhornon. A kilátás folyamatosan változik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Stanserhorn",
+            "tip": "Vârful 'pentru leneși'. Bucurați-vă de priveliștea uluitoare fără efort.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Restaurantul rotativ Rondorama",
+            "tip": "Pe Stanserhorn. Priveliștea se schimbă constant.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stanserhorn Summit",
+            "tip": "The 'lazy-way' summit. Enjoy the breathtaking view without the effort.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rondorama Revolving Restaurant",
+            "tip": "On the Stanserhorn. The view is constantly changing.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stanserhorn Shop",
+            "tip": "Kaufen Sie Souvenirs und lokale Produkte direkt auf dem Berg."
+          },
+          {
+            "name": "Schmiedgasse",
+            "tip": "Eine charmante Gasse mit kleinen, unabhängigen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stanserhorn bolt",
+            "tip": "Vásároljon szuveníreket és helyi termékeket közvetlenül a hegyen."
+          },
+          {
+            "name": "Schmiedgasse",
+            "tip": "Bájos sikátor kis, független boltokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Stanserhorn",
+            "tip": "Cumpărați suveniruri și produse locale direct de pe munte."
+          },
+          {
+            "name": "Schmiedgasse",
+            "tip": "O alee fermecătoare cu mici magazine independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stanserhorn Shop",
+            "tip": "Buy souvenirs and local products right on the mountain."
+          },
+          {
+            "name": "Schmiedgasse",
+            "tip": "A charming alley with small, independent shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Betriebszeiten der Stanserhorn-Bahn im Voraus.",
+          "Parken ist im Zentrum kostenpflichtig. Halten Sie Münzen oder eine Park-App bereit."
+        ],
+        "hu": [
+          "Előre ellenőrizze a Stanserhorn-Bahn nyitvatartási idejét.",
+          "A parkolás a központban fizetős. Készítsen elő érméket vagy egy parkolóalkalmazást."
+        ],
+        "ro": [
+          "Verificați în avans programul de funcționare al Stanserhorn-Bahn.",
+          "Parcarea în centru este cu plată. Pregătiți monede sau o aplicație de parcare."
+        ],
+        "en": [
+          "Check the operating times of the Stanserhorn-Bahn in advance.",
+          "Parking in the center is paid. Have coins or a parking app ready."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Stans",
+            "hu": "Stans vasútállomás",
+            "ro": "Gara Stans",
+            "en": "Stans Train Station"
+          },
+          "coords": [
+            8.344,
+            46.96
+          ],
+          "category": "transit_stop",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ankunft im Herzen von Stans. Der erste Cluster wird zu Fuß erkundet.",
+            "hu": "Érkezés Stans szívébe. Az első klaszter gyalogosan fedezhető fel.",
+            "ro": "Sosire în inima orașului Stans. Primul grup va fi explorat pe jos.",
+            "en": "Arrival in the heart of Stans. The first cluster will be explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfplatz und Pfarrkirche",
+            "hu": "Főtér és Plébániatemplom",
+            "ro": "Piața Centrală și Biserica Parohială",
+            "en": "Village Square and Parish Church"
+          },
+          "coords": [
+            8.3412,
+            46.9578
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof zum Zentrum.",
+            "hu": "Rövid séta az állomástól a központig.",
+            "ro": "O scurtă plimbare de la gară la centru.",
+            "en": "A short walk from the station to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Nidwaldner Museum",
+            "hu": "Nidwaldner Múzeum",
+            "ro": "Muzeul Nidwaldner",
+            "en": "Nidwaldner Museum"
+          },
+          "coords": [
+            8.3445,
+            46.9585
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vertiefen Sie sich in die lokale Kultur, bevor Sie den Bus nehmen.",
+            "hu": "Mélyedjen el a helyi kultúrában, mielőtt buszra szállna.",
+            "ro": "Aprofundați cultura locală înainte de a lua autobuzul.",
+            "en": "Immerse yourself in local culture before taking the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Museums",
+            "hu": "Ebéd a múzeum közelében",
+            "ro": "Prânz lângă muzeu",
+            "en": "Lunch near the Museum"
+          },
+          "coords": [
+            8.345,
+            46.958
+          ],
+          "category": "gastro",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt mehrere gute Optionen in unmittelbarer Nähe.",
+            "hu": "A közvetlen közelben több jó lehetőség is van.",
+            "ro": "Există mai multe opțiuni bune în imediata apropiere.",
+            "en": "There are several good options in the immediate vicinity."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanserhorn-Bahn Talstation",
+            "hu": "Stanserhorn-Bahn völgyállomás",
+            "ro": "Gara de la poalele Stanserhorn-Bahn",
+            "en": "Stanserhorn-Bahn Valley Station"
+          },
+          "coords": [
+            8.341,
+            46.946
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Bus, um zur Talstation zu gelangen. Dies ist Ihr zweiter Cluster.",
+            "hu": "Menjen helyi busszal a völgyállomáshoz. Ez a második klaszter.",
+            "ro": "Luați autobuzul local pentru a ajunge la stația din vale. Acesta este al doilea grup.",
+            "en": "Take the local bus to get to the valley station. This is your second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Visszatérés a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the Center"
+          },
+          "coords": [
+            8.344,
+            46.96
+          ],
+          "category": "transit_stop",
+          "arrive_at": "15:45",
+          "stay_min": 85,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum für einen letzten Kaffee vor der Abreise.",
+            "hu": "Menjen busszal vissza a központba egy utolsó kávéra indulás előtt.",
+            "ro": "Luați autobuzul înapoi în centru pentru o ultimă cafea înainte de plecare.",
+            "en": "Take the bus back to the center for a final coffee before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Stans lässt sich hervorragend mit öffentlichen Verkehrsmitteln erkunden. Vom Bahnhof aus spazieren Sie durch den historischen Kern. Nach einer Stärkung bringt Sie ein lokaler Bus bequem zur Stanserhorn-Bahn. Genießen Sie den Nachmittag auf dem Gipfel mit seiner unvergleichlichen Aussicht. Ein Bus bringt Sie zurück ins Zentrum, wo Sie den Tag ausklingen lassen können, bevor Sie den Zug nach Hause nehmen.",
+        "hu": "Stans kiválóan felfedezhető tömegközlekedéssel. A vasútállomásról sétáljon át a történelmi központon. Egy frissítő után egy helyi busz kényelmesen elviszi a Stanserhorn-Bahnhoz. Élvezze a délutánt a csúcson, páratlan kilátással. Egy busz visszaviszi a központba, ahol a napot befejezheti, mielőtt hazaindulna vonattal.",
+        "ro": "Stans este excelent de explorat cu transportul public. De la gară, plimbați-vă prin centrul istoric. După o pauză, un autobuz local vă duce confortabil la Stanserhorn-Bahn. Bucurați-vă de după-amiaza pe vârf, cu priveliștea sa incomparabilă. Un autobuz vă duce înapoi în centru, unde puteți încheia ziua înainte de a lua trenul spre casă.",
+        "en": "Stans is excellent for exploring by public transport. From the train station, you can walk through the historic core. After a refreshment, a local bus will take you comfortably to the Stanserhorn-Bahn. Enjoy the afternoon on the summit with its incomparable view. A bus takes you back to the center, where you can end the day before taking the train home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lozärner Chügelipastete",
+            "tip": "Obwohl aus Luzern, ist diese Blätterteigpastete in der ganzen Region beliebt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lozärner Chügelipastete",
+            "tip": "Bár Luzernből származik, ez a leveles tészta pástétom az egész régióban népszerű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lozärner Chügelipastete",
+            "tip": "Deși este din Lucerna, această plăcintă cu foitaj este populară în întreaga regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lozärner Chügelipastete",
+            "tip": "Although from Lucerne, this puff pastry pie is popular throughout the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wanderweg am Stanserhorn",
+            "tip": "Ein kurzer, einfacher Rundweg auf dem Gipfel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof von St. Peter und Paul",
+            "tip": "Ein ruhiger Ort mit Blick auf die Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Túraösvény a Stanserhornon",
+            "tip": "Rövid, könnyű körút a csúcson.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szt. Péter és Pál templomkertje",
+            "tip": "Csendes hely, kilátással a városra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Traseu de drumeție pe Stanserhorn",
+            "tip": "Un traseu circular scurt și ușor pe vârf.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Bisericii Sf. Petru și Pavel",
+            "tip": "Un loc liniștit cu vedere la oraș.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hiking trail on the Stanserhorn",
+            "tip": "A short, easy circular trail on the summit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Churchyard of St. Peter and Paul",
+            "tip": "A quiet place with a view over the town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsgeschäfte",
+            "tip": "Praktisch für Last-Minute-Souvenirs oder Snacks für die Heimreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasútállomási boltok",
+            "tip": "Praktikus utolsó pillanatos szuvenírekhez vagy harapnivalókhoz a hazaútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele din gară",
+            "tip": "Practice pentru suveniruri de ultim moment sau gustări pentru călătoria spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Train station shops",
+            "tip": "Convenient for last-minute souvenirs or snacks for the journey home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die lokalen Busse, wenn Sie mehrere Fahrten planen.",
+          "Der Bahnhof ist der zentrale Knotenpunkt für alle Buslinien."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a helyi buszokra, ha több utazást tervez.",
+          "A vasútállomás az összes buszjárat központi csomópontja."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuzele locale dacă plănuiți mai multe călătorii.",
+          "Gara este nodul central pentru toate liniile de autobuz."
+        ],
+        "en": [
+          "Buy a day pass for the local buses if you plan multiple trips.",
+          "The train station is the central hub for all bus lines."
+        ]
+      }
+    }
+  }
+}

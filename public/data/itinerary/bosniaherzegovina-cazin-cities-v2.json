@@ -1,0 +1,1192 @@
+{
+  "city_id": "bosniaherzegovina-cazin-cities-v2",
+  "anchor": {
+    "name": "Cazin",
+    "coords": [
+      15.8667,
+      44.9667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Cazin",
+            "hu": "Cazin óvárosa",
+            "ro": "Centrul vechi din Cazin",
+            "en": "Old Town of Cazin"
+          },
+          "coords": [
+            15.9415,
+            44.9668
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem bosnischen Kaffee in einem der örtlichen Cafés.",
+            "hu": "Indítsa a napot egy bosnyák kávéval az egyik helyi kávézóban.",
+            "ro": "Începeți ziua aici cu o cafea bosniacă la una dintre cafenelele locale.",
+            "en": "Start your day here with a Bosnian coffee at one of the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmoschee Cazin",
+            "hu": "Cazini városi mecset",
+            "ro": "Moscheea orașului Cazin",
+            "en": "Cazin Town Mosque"
+          },
+          "coords": [
+            15.943,
+            44.9675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die Kleiderordnung. Die Architektur ist besonders bei Sonnenuntergang beeindruckend.",
+            "hu": "Ügyeljen a megfelelő öltözékre. Az építészet naplementekor különösen lenyűgöző.",
+            "ro": "Respectați codul vestimentar. Arhitectura este deosebit de impresionantă la apus.",
+            "en": "Be mindful of the dress code. The architecture is especially impressive at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Cazin",
+            "hu": "Cazini erőd",
+            "ro": "Fortăreața Cazin",
+            "en": "Cazin Fortress"
+          },
+          "coords": [
+            15.94,
+            44.97
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Mauern für einen Panoramablick über die Stadt und die umliegende Landschaft.",
+            "hu": "Másszon fel a falakra a városra és a környező vidékre nyíló panorámáért.",
+            "ro": "Urcați pe ziduri pentru o vedere panoramică asupra orașului și a peisajului înconjurător.",
+            "en": "Climb the walls for a panoramic view of the town and the surrounding countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm Radetina",
+            "hu": "Radetina-torony",
+            "ro": "Turnul Radetina",
+            "en": "Radetina Tower"
+          },
+          "coords": [
+            15.938,
+            44.971
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kleinerer, aber historisch bedeutender Turm, der oft übersehen wird. Ideal für Fotos.",
+            "hu": "Egy kisebb, de történelmileg jelentős torony, amelyet gyakran figyelmen kívül hagynak. Ideális fotózáshoz.",
+            "ro": "Un turn mai mic, dar semnificativ din punct de vedere istoric, adesea trecut cu vederea. Ideal pentru fotografii.",
+            "en": "A smaller but historically significant tower that is often overlooked. Great for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus von Nurija Pozderac",
+            "hu": "Nurija Pozderac háza",
+            "ro": "Casa lui Nurija Pozderac",
+            "en": "House of Nurija Pozderac"
+          },
+          "coords": [
+            15.944,
+            44.965
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Obwohl es sich um ein Privathaus handelt, ist es ein wichtiger Ort der lokalen Geschichte. Respektieren Sie die Privatsphäre.",
+            "hu": "Bár magánház, a helyi történelem fontos helyszíne. Tartsa tiszteletben a magánszférát.",
+            "ro": "Deși este o reședință privată, este un loc important în istoria locală. Respectați intimitatea.",
+            "en": "Although a private residence, it's an important site in local history. Be respectful of privacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus von Ibro Alajbegović",
+            "hu": "Ibro Alajbegović háza",
+            "ro": "Casa lui Ibro Alajbegović",
+            "en": "House of Ibro Alajbegović"
+          },
+          "coords": [
+            15.945,
+            44.964
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein weiteres Beispiel für traditionelle bosnische Architektur und ein Stück lokaler Identität.",
+            "hu": "A hagyományos bosnyák építészet egy újabb példája és a helyi identitás egy darabja.",
+            "ro": "Un alt exemplu de arhitectură tradițională bosniacă și o bucată de identitate locală.",
+            "en": "Another example of traditional Bosnian architecture and a piece of local identity."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang im Herzen der Altstadt von Cazin, wo Geschichte auf Schritt und Tritt lebendig wird. Am Vormittag erkunden Sie die beeindruckende Stadtmoschee und die Überreste der Festung, die über der Stadt thront. Nach einem gemütlichen Mittagessen mit lokalen Spezialitäten entdecken Sie nachmittags die architektonischen Juwelen der Stadt, darunter die historischen Häuser berühmter Persönlichkeiten. Lassen Sie den Tag mit einem Spaziergang durch die charmanten Gassen ausklingen.",
+        "hu": "Kezdje sétáját Cazin óvárosának szívében, ahol a történelem minden lépésnél megelevenedik. Délelőtt fedezze fel a lenyűgöző városi mecsetet és a város fölé magasodó erőd maradványait. Egy helyi specialitásokból álló, kényelmes ebéd után délután fedezze fel a város építészeti gyöngyszemeit, köztük híres személyiségek történelmi házait. Zárja a napot egy sétával a bájos utcákon.",
+        "ro": "Începeți turul pietonal în inima orașului vechi Cazin, unde istoria prinde viață la fiecare pas. Dimineața explorați impunătoarea moschee a orașului și rămășițele fortăreței ce domină orașul. După un prânz relaxant cu specialități locale, după-amiaza este dedicată descoperirii bijuteriilor arhitecturale, inclusiv casele istorice ale unor personalități celebre. Încheiați ziua cu o plimbare pe străzile fermecătoare.",
+        "en": "Start your walking tour in the heart of Cazin's Old Town, where history comes alive at every turn. In the morning, explore the impressive town mosque and the remnants of the fortress that looms over the city. After a leisurely lunch featuring local specialties, the afternoon is for discovering the town's architectural gems, including the historic homes of famous figures. End the day with a stroll through the charming streets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ćevapi",
+            "tip": "Probieren Sie die bosnische Spezialität in einem der kleinen Restaurants in der Altstadt."
+          },
+          {
+            "name": "Burek",
+            "tip": "Ein herzhaftes Gebäck, perfekt für einen schnellen und leckeren Snack zwischendurch."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "Ein traditioneller Eintopf, der langsam gekocht wird und reich an Geschmack ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćevapi",
+            "tip": "Kóstolja meg ezt a bosnyák specialitást az óváros egyik kis éttermében."
+          },
+          {
+            "name": "Burek",
+            "tip": "Egy kiadós pite, tökéletes egy gyors és ízletes harapnivalóhoz."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "Hagyományos, lassan főzött ragu, gazdag ízvilággal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ćevapi",
+            "tip": "Încercați această specialitate bosniacă la unul dintre micile restaurante din orașul vechi."
+          },
+          {
+            "name": "Burek",
+            "tip": "O plăcintă sărată, perfectă pentru o gustare rapidă și delicioasă."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "O tocană tradițională, gătită lent, bogată în arome."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćevapi",
+            "tip": "Try this Bosnian specialty at one of the small restaurants in the Old Town."
+          },
+          {
+            "name": "Burek",
+            "tip": "A savory pastry, perfect for a quick and delicious snack on the go."
+          },
+          {
+            "name": "Bosanski Lonac",
+            "tip": "A traditional stew, slow-cooked to perfection and rich in flavor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Una-Flusses",
+            "tip": "Auch wenn es ein Stück zu Fuß ist, bietet das Flussufer einen ruhigen Rückzugsort.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Festungsmauern bei Sonnenuntergang",
+            "tip": "Finden Sie einen ruhigen Platz auf den alten Mauern und beobachten Sie den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Una folyó partja",
+            "tip": "Bár kicsit messzebb van gyalog, a folyópart békés menedéket nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erőd falai naplementekor",
+            "tip": "Keressen egy csendes helyet a régi falakon, és nézze a naplementét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Una",
+            "tip": "Deși este o plimbare mai lungă, malurile râului oferă o evadare liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zidurile cetății la apus",
+            "tip": "Găsiți un loc liniștit pe zidurile vechi pentru a privi apusul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Una River",
+            "tip": "Although it's a bit of a walk, the river banks offer a peaceful retreat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fortress walls at sunset",
+            "tip": "Find a quiet spot on the ancient walls to watch the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigten Kupferwaren und traditionellen Textilien."
+          },
+          {
+            "name": "Souvenirläden",
+            "tip": "Kleine Modelle der Festung Ostrožac sind ein beliebtes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézzel készített réztárgyakat és hagyományos textíliákat."
+          },
+          {
+            "name": "Ajándékboltok",
+            "tip": "Az Ostrožac erőd kis modelljei népszerű emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați obiecte de cupru realizate manual și textile tradiționale."
+          },
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Machetele mici ale cetății Ostrožac sunt un suvenir popular."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade copper goods and traditional textiles."
+          },
+          {
+            "name": "Souvenir Shops",
+            "tip": "Small models of the Ostrožac Fortress are a popular souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie genügend Wasser mit, besonders an warmen Tagen.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie Zeit für spontane Entdeckungen in den kleinen Gassen ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Vigyen magával elegendő vizet, különösen meleg napokon.",
+          "A legtöbb belvárosi látnivaló könnyen elérhető gyalog.",
+          "Tervezzen időt spontán felfedezésekre a kis utcákban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Luați suficientă apă, mai ales în zilele calde.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Rezervați-vă timp pentru descoperiri spontane pe străduțele mici."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the Old Town can be uneven.",
+          "Bring plenty of water, especially on warm days.",
+          "Most sights in the city center are within easy walking distance.",
+          "Allow time for spontaneous discoveries in the small alleys."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Cazin",
+            "hu": "Cazin óvárosa",
+            "ro": "Centrul vechi din Cazin",
+            "en": "Old Town of Cazin"
+          },
+          "coords": [
+            15.9415,
+            44.9668
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie die engen Gassen zu Fuß.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel gyalog a szűk utcákat.",
+            "ro": "Asigurați-vă bicicleta și explorați străduțele înguste pe jos.",
+            "en": "Lock your bike securely and explore the narrow alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Cazin",
+            "hu": "Cazini erőd",
+            "ro": "Fortăreața Cazin",
+            "en": "Cazin Fortress"
+          },
+          "coords": [
+            15.94,
+            44.97
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg zur Festung ist eine kleine Herausforderung, aber die Aussicht ist es wert.",
+            "hu": "Az erődbe való feljutás egy kis kihívás, de a kilátás megéri.",
+            "ro": "Urcușul spre cetate este o mică provocare, dar priveliștea merită.",
+            "en": "The climb to the fortress is a bit of a challenge, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Una-Fluss",
+            "hu": "Kilátópont az Una folyónál",
+            "ro": "Punct de belvedere la râul Una",
+            "en": "Una River Viewpoint"
+          },
+          "coords": [
+            15.82,
+            44.98
+          ],
+          "category": "natural features",
+          "arrive_at": "11:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine malerische Fahrt aus der Stadt heraus. Ein perfekter Ort für eine Pause und Fotos.",
+            "hu": "Festői út a városból kifelé. Tökéletes hely egy pihenőre és fotózásra.",
+            "ro": "O plimbare pitorească în afara orașului. Un loc perfect pentru o pauză și fotografii.",
+            "en": "A scenic ride out of town. A perfect spot for a break and photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmoschee Cazin",
+            "hu": "Cazini városi mecset",
+            "ro": "Moscheea orașului Cazin",
+            "en": "Cazin Town Mosque"
+          },
+          "coords": [
+            15.943,
+            44.9675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 90,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Besuchen Sie die Moschee am Nachmittag, wenn das Licht weicher ist.",
+            "hu": "Látogassa meg a mecsetet délután, amikor a fények lágyabbak.",
+            "ro": "Vizitați moscheea după-amiaza, când lumina este mai blândă.",
+            "en": "Visit the mosque in the afternoon when the light is softer."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus von Nurija Pozderac",
+            "hu": "Nurija Pozderac háza",
+            "ro": "Casa lui Nurija Pozderac",
+            "en": "House of Nurija Pozderac"
+          },
+          "coords": [
+            15.944,
+            44.965
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie an diesem historischen Wahrzeichen vorbei, um ein Gefühl für die lokale Geschichte zu bekommen.",
+            "hu": "Tekerjen el emellett a történelmi nevezetesség mellett, hogy átérezze a helyi történelmet.",
+            "ro": "Treceți pe lângă acest reper istoric pentru a simți istoria locală.",
+            "en": "Cycle past this historic landmark to get a feel for the local history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Cazin und seine Umgebung auf zwei Rädern. Der Morgen beginnt mit einer Fahrt durch die Altstadt und einem Anstieg zur Festung, die Sie mit einer grandiosen Aussicht belohnt. Danach führt Sie eine längere, aber lohnende Fahrt zu einem malerischen Aussichtspunkt am Fluss Una. Nach dem Mittagessen kehren Sie ins Zentrum zurück, um die Stadtmoschee und andere historische Stätten in einem entspannten Tempo zu besichtigen.",
+        "hu": "Fedezze fel Cazint és környékét két keréken. A reggel az óvároson átvezető tekeréssel és az erőd megmászásával kezdődik, ami csodálatos kilátással jutalmaz. Ezután egy hosszabb, de megérő út vezet az Una folyó festői kilátópontjához. Ebéd után térjen vissza a központba, hogy kényelmes tempóban megtekintse a városi mecsetet és más történelmi helyszíneket.",
+        "ro": "Explorați Cazin și împrejurimile sale pe două roți. Dimineața începe cu o plimbare prin orașul vechi și o urcare la cetate, care vă recompensează cu o priveliște magnifică. Apoi, o plimbare mai lungă, dar plină de satisfacții, vă duce la un punct de belvedere pitoresc pe râul Una. După prânz, reveniți în centru pentru a vizita moscheea orașului și alte situri istorice într-un ritm relaxat.",
+        "en": "Explore Cazin and its surroundings on two wheels. The morning starts with a ride through the Old Town and a climb to the fortress, rewarding you with a magnificent view. Afterwards, a longer but rewarding ride takes you to a scenic viewpoint on the Una River. After lunch, return to the center to visit the town mosque and other historical sites at a relaxed pace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Grill-Platte",
+            "tip": "Stärken Sie sich nach der Radtour mit einer herzhaften Auswahl an gegrilltem Fleisch."
+          },
+          {
+            "name": "Frischer Saft",
+            "tip": "Viele Cafés bieten frisch gepresste Säfte an – eine willkommene Erfrischung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grilltál",
+            "tip": "Erősítse meg magát a kerékpártúra után egy kiadós grillezett hús válogatással."
+          },
+          {
+            "name": "Friss gyümölcslé",
+            "tip": "Sok kávézó kínál frissen facsart gyümölcsleveket – egy üdítő frissítő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platou la grătar",
+            "tip": "Recăpătați-vă forțele după turul cu bicicleta cu o selecție consistentă de carne la grătar."
+          },
+          {
+            "name": "Suc proaspăt",
+            "tip": "Multe cafenele oferă sucuri proaspăt stoarse - o băutură răcoritoare binevenită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mixed Grill Platter",
+            "tip": "Refuel after your bike ride with a hearty selection of grilled meats."
+          },
+          {
+            "name": "Fresh Juice",
+            "tip": "Many cafes offer freshly squeezed juices – a welcome refreshment."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Una-Fluss",
+            "tip": "Der perfekte Ort, um die Stille der Natur zu genießen und dem Stadtleben zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park in der Nähe der Festung",
+            "tip": "Finden Sie eine Bank und entspannen Sie sich im Schatten nach dem Aufstieg.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont az Una folyónál",
+            "tip": "Tökéletes hely a természet csendjének élvezetére és a városi élet elől való menekülésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park az erőd közelében",
+            "tip": "Keressen egy padot, és pihenjen az árnyékban a mászás után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la râul Una",
+            "tip": "Locul perfect pentru a vă bucura de liniștea naturii și a evada din viața urbană.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de lângă cetate",
+            "tip": "Găsiți o bancă și relaxați-vă la umbră după urcuș.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Una River Viewpoint",
+            "tip": "The perfect place to enjoy the tranquility of nature and escape the city life.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park near the fortress",
+            "tip": "Find a bench and relax in the shade after the climb.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Ersatzteile oder Zubehör benötigen, gibt es einige kleine Läden in der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha pótalkatrészekre vagy kiegészítőkre van szüksége, van néhány kis bolt a városban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Dacă aveți nevoie de piese de schimb sau accesorii, există câteva magazine mici în oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "In case you need any spare parts or accessories, there are a few small shops in town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads, bevor Sie losfahren, insbesondere die Bremsen für die Abfahrten.",
+          "Einige Straßen außerhalb des Zentrums sind möglicherweise nicht asphaltiert.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen.",
+          "Die Route zum Una-Fluss ist landschaftlich reizvoll, aber seien Sie auf einige Hügel vorbereitet."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát, különösen a fékeket a lejtőkön.",
+          "Néhány, a központon kívüli út esetleg nem aszfaltozott.",
+          "Vigyen magával lakatot a kerékpár biztonságos lezárásához.",
+          "Az Una folyóhoz vezető út festői, de készüljön fel néhány emelkedőre."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni, în special frânele pentru coborâri.",
+          "Unele drumuri din afara centrului s-ar putea să nu fie asfaltate.",
+          "Luați un lacăt pentru a vă asigura bicicleta.",
+          "Traseul către râul Una este pitoresc, dar fiți pregătiți pentru câteva dealuri."
+        ],
+        "en": [
+          "Check your bike's condition before you leave, especially the brakes for the descents.",
+          "Some roads outside the center may not be paved.",
+          "Bring a lock to secure your bike.",
+          "The route to the Una River is scenic, but be prepared for some hills."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 28.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg Ostrožac",
+            "hu": "Ostrožac vára",
+            "ro": "Castelul Ostrožac",
+            "en": "Ostrožac Castle"
+          },
+          "coords": [
+            15.934,
+            44.908
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, das gesamte Gelände zu erkunden, einschließlich des Skulpturenparks.",
+            "hu": "Szánjon időt az egész terület felfedezésére, beleértve a szoborparkot is.",
+            "ro": "Acordați-vă timp pentru a explora întregul domeniu, inclusiv parcul de sculpturi.",
+            "en": "Take your time to explore the entire grounds, including the sculpture park."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Cazin (Cluster)",
+            "hu": "Cazin óvárosa (Klaszter)",
+            "ro": "Centrul vechi Cazin (Cluster)",
+            "en": "Cazin Old Town (Cluster)"
+          },
+          "coords": [
+            15.9415,
+            44.9668
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und machen Sie sich bereit, das Stadtzentrum zu Fuß zu erkunden.",
+            "hu": "Parkolja le az autót, és készüljön fel a városközpont gyalogos felfedezésére.",
+            "ro": "Parcați mașina și pregătiți-vă să explorați centrul orașului pe jos.",
+            "en": "Park your car and get ready to explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmoschee Cazin",
+            "hu": "Cazini városi mecset",
+            "ro": "Moscheea orașului Cazin",
+            "en": "Cazin Town Mosque"
+          },
+          "coords": [
+            15.943,
+            44.9675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz. Bewundern Sie die osmanische Architektur.",
+            "hu": "Rövid séta a főtérről. Csodálja meg az oszmán építészetet.",
+            "ro": "O scurtă plimbare de la piața principală. Admirați arhitectura otomană.",
+            "en": "A short walk from the main square. Admire the Ottoman architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Cazin",
+            "hu": "Cazini erőd",
+            "ro": "Fortăreața Cazin",
+            "en": "Cazin Fortress"
+          },
+          "coords": [
+            15.94,
+            44.97
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber der Blick von oben ist die beste Belohnung in der Stadt.",
+            "hu": "A mászás meredek, de a fentről nyíló kilátás a legjobb jutalom a városban.",
+            "ro": "Urcușul este abrupt, dar priveliștea de sus este cea mai bună recompensă din oraș.",
+            "en": "The climb is steep, but the view from the top is the best reward in town."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Una-Fluss",
+            "hu": "Kilátópont az Una folyónál",
+            "ro": "Punct de belvedere la râul Una",
+            "en": "Una River Viewpoint"
+          },
+          "coords": [
+            15.82,
+            44.98
+          ],
+          "category": "natural features",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein idealer Ort, um den Tag ausklingen zu lassen und die smaragdgrüne Farbe des Flusses zu bewundern.",
+            "hu": "Ideális hely a nap lezárására és a folyó smaragdzöld színének megcsodálására.",
+            "ro": "Un loc ideal pentru a încheia ziua, admirând culoarea de smarald a râului.",
+            "en": "An ideal spot to end the day, admiring the emerald color of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen mit Aussicht",
+            "hu": "Vacsora kilátással",
+            "ro": "Cină cu vedere",
+            "en": "Dinner with a view"
+          },
+          "coords": [
+            15.83,
+            44.975
+          ],
+          "category": "gastro",
+          "arrive_at": "17:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Terrasse mit Blick auf den Fluss Una.",
+            "hu": "Válasszon egy teraszos éttermet, ahonnan kilátás nyílik az Una folyóra.",
+            "ro": "Alegeți un restaurant cu o terasă cu vedere la râul Una.",
+            "en": "Choose a restaurant with a terrace overlooking the Una River."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Freiheit, die Highlights von Cazin und seiner malerischen Umgebung zu entdecken. Starten Sie den Tag bei der imposanten Burg Ostrožac. Gegen Mittag fahren Sie ins Zentrum von Cazin, parken das Auto und erkunden zu Fuß die Altstadt, die Moschee und die Festung. Der Nachmittag führt Sie dann zu einem atemberaubenden Aussichtspunkt über dem Fluss Una, ein perfekter Abschluss für einen erlebnisreichen Tag.",
+        "hu": "Autóval szabadon felfedezheti Cazin és festői környékének legjavát. Kezdje a napot a lenyűgöző Ostrožac váránál. Dél körül hajtson be Cazin központjába, parkolja le az autót, és fedezze fel gyalog az óvárost, a mecsetet és az erődöt. A délután elvezeti Önt egy lélegzetelállító kilátóponthoz az Una folyó felett, ami tökéletes befejezése egy eseménydús napnak.",
+        "ro": "Cu mașina, aveți libertatea de a descoperi atracțiile din Cazin și împrejurimile sale pitorești. Începeți ziua la impunătorul castel Ostrožac. În jurul prânzului, conduceți spre centrul orașului Cazin, parcați mașina și explorați pe jos orașul vechi, moscheea și cetatea. După-amiaza vă duce la un punct de belvedere uluitor peste râul Una, o încheiere perfectă a unei zile pline de evenimente.",
+        "en": "With a car, you have the freedom to discover the highlights of Cazin and its scenic surroundings. Start the day at the imposing Ostrožac Castle. Around noon, drive to the center of Cazin, park the car, and explore the Old Town, mosque, and fortress on foot. The afternoon then takes you to a breathtaking viewpoint over the Una River, a perfect end to an eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamm am Spieß",
+            "tip": "Entlang der Straße nach Ostrožac finden Sie Restaurants, die diese Spezialität anbieten."
+          },
+          {
+            "name": "Kajmak und Uštipci",
+            "tip": "Eine cremige, köstliche Vorspeise, die man sich nicht entgehen lassen sollte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyárson sült bárány",
+            "tip": "Az Ostrožac felé vezető út mentén talál éttermeket, amelyek ezt a specialitást kínálják."
+          },
+          {
+            "name": "Kajmak és Uštipci",
+            "tip": "Krémes, ízletes előétel, amit nem szabad kihagyni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la proțap",
+            "tip": "De-a lungul drumului spre Ostrožac, veți găsi restaurante care servesc această specialitate."
+          },
+          {
+            "name": "Kajmak și Uštipci",
+            "tip": "Un aperitiv cremos și delicios care nu trebuie ratat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lamb on the spit",
+            "tip": "Along the road to Ostrožac, you'll find restaurants serving this specialty."
+          },
+          {
+            "name": "Kajmak and Uštipci",
+            "tip": "A creamy, delicious appetizer that shouldn't be missed."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Burg Ostrožac",
+            "tip": "Ein ruhiger Ort für einen Spaziergang abseits der Touristenpfade.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Versteckte Uferstellen am Una-Fluss",
+            "tip": "Fragen Sie Einheimische nach abgelegenen Plätzen zum Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ostrožac várának kertjei",
+            "tip": "Csendes hely egy sétára a turistaútvonalaktól távol.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Rejtett partszakaszok az Una folyón",
+            "tip": "Kérdezze meg a helyieket a félreeső pihenőhelyekről.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castelului Ostrožac",
+            "tip": "Un loc liniștit pentru o plimbare departe de aglomerație.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Locuri ascunse pe malul râului Una",
+            "tip": "Întrebați localnicii despre locuri retrase pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ostrožac Castle Gardens",
+            "tip": "A quiet place for a walk away from the tourist crowds.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Hidden spots on the Una riverbank",
+            "tip": "Ask locals for secluded spots to relax.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig und lokale Produkte",
+            "tip": "Entlang der Landstraßen verkaufen Imker oft ihren Honig direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Méz és helyi termékek",
+            "tip": "A vidéki utak mentén a méhészek gyakran közvetlenül árulják a mézüket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere și produse locale",
+            "tip": "De-a lungul drumurilor de țară, apicultorii își vând adesea mierea direct."
+          }
+        ],
+        "en": [
+          {
+            "name": "Honey and local produce",
+            "tip": "Along the country roads, beekeepers often sell their honey directly."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Stadtzentrum kann schwierig sein, suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Die Straßen zu den Sehenswürdigkeiten außerhalb der Stadt können eng sein, fahren Sie vorsichtig.",
+          "Ein GPS ist für die Navigation außerhalb der Stadt sehr zu empfehlen.",
+          "Überprüfen Sie die Öffnungszeiten von Burg Ostrožac im Voraus."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nehézkes lehet, keressen kijelölt parkolóhelyeket.",
+          "A városon kívüli látnivalókhoz vezető utak szűkek lehetnek, vezessen óvatosan.",
+          "GPS erősen ajánlott a városon kívüli navigációhoz.",
+          "Előre ellenőrizze az Ostrožac vár nyitvatartási idejét."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă, căutați parcări amenajate.",
+          "Drumurile către atracțiile din afara orașului pot fi înguste, conduceți cu prudență.",
+          "Un GPS este foarte recomandat pentru navigarea în afara orașului.",
+          "Verificați în avans programul de funcționare al Castelului Ostrožac."
+        ],
+        "en": [
+          "Parking in the city center can be challenging, look for designated parking areas.",
+          "The roads to sights outside the city can be narrow, drive carefully.",
+          "A GPS is highly recommended for navigating outside the city.",
+          "Check the opening hours for Ostrožac Castle in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 21.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Cazin (Ankunft)",
+            "hu": "Cazin buszpályaudvar (Érkezés)",
+            "ro": "Autogara Cazin (Sosire)",
+            "en": "Cazin Bus Station (Arrival)"
+          },
+          "coords": [
+            15.939,
+            44.965
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Orientieren Sie sich und besorgen Sie sich vielleicht einen Fahrplan für lokale Busse.",
+            "hu": "Tájékozódjon, és esetleg szerezzen be egy helyi buszmenetrendet.",
+            "ro": "Orientați-vă și obțineți un program al autobuzelor locale.",
+            "en": "Get your bearings and perhaps a schedule for local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt & Festung Cazin (Cluster)",
+            "hu": "Cazin óvárosa és erőd (Klaszter)",
+            "ro": "Centrul vechi și Cetatea Cazin (Cluster)",
+            "en": "Cazin Old Town & Fortress (Cluster)"
+          },
+          "coords": [
+            15.9415,
+            44.9668
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen Bereich zu Fuß. Besuchen Sie die Moschee, die Altstadt und steigen Sie zur Festung hinauf.",
+            "hu": "Fedezze fel ezt a területet gyalog. Látogasson el a mecsetbe, az óvárosba, és másszon fel az erődhöz.",
+            "ro": "Explorați această zonă pe jos. Vizitați moscheea, orașul vechi și urcați la cetate.",
+            "en": "Explore this area on foot. Visit the mosque, the old town, and climb up to the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Ostrožac",
+            "hu": "Busz Ostrožac felé",
+            "ro": "Autobuz spre Ostrožac",
+            "en": "Bus to Ostrožac"
+          },
+          "coords": [
+            15.939,
+            44.965
+          ],
+          "category": "transit",
+          "arrive_at": "13:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Bus in Richtung Bihać und steigen Sie in der Nähe der Burg aus.",
+            "hu": "Menjen a helyi busszal Bihać irányába, és szálljon le a vár közelében.",
+            "ro": "Luați autobuzul local spre Bihać și coborâți lângă castel.",
+            "en": "Take the local bus towards Bihać and get off near the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Ostrožac",
+            "hu": "Ostrožac vára",
+            "ro": "Castelul Ostrožac",
+            "en": "Ostrožac Castle"
+          },
+          "coords": [
+            15.934,
+            44.908
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Busstopp ist es ein kurzer Spaziergang bergauf zur Burg. Planen Sie dafür Zeit ein.",
+            "hu": "A buszmegállótól rövid séta vezet felfelé a várhoz. Tervezzen erre időt.",
+            "ro": "De la stația de autobuz este o scurtă plimbare la deal spre castel. Planificați timp pentru asta.",
+            "en": "It's a short uphill walk from the bus stop to the castle. Plan time for this."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Cazin",
+            "hu": "Visszaút Cazinba",
+            "ro": "Întoarcere la Cazin",
+            "en": "Return trip to Cazin"
+          },
+          "coords": [
+            15.939,
+            44.965
+          ],
+          "category": "transit",
+          "arrive_at": "16:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 11.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Stellen Sie sicher, dass Sie den Fahrplan für den letzten Bus zurück ins Zentrum kennen.",
+            "hu": "Győződjön meg róla, hogy ismeri az utolsó busz menetrendjét vissza a központba.",
+            "ro": "Asigurați-vă că știți orarul ultimului autobuz înapoi spre centru.",
+            "en": "Make sure you know the schedule for the last bus back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Cazin mit öffentlichen Verkehrsmitteln. Nach der Ankunft am Busbahnhof erkunden Sie das historische Zentrum zu Fuß. Am Vormittag stehen die Altstadt und die Festung auf dem Programm. Nach dem Mittagessen nehmen Sie einen lokalen Bus zur prächtigen Burg Ostrožac, einem Höhepunkt der Region. Nach einer ausgiebigen Erkundung kehren Sie am späten Nachmittag mit dem Bus nach Cazin zurück.",
+        "hu": "Fedezze fel Cazint tömegközlekedéssel. A buszpályaudvarra érkezés után gyalog fedezze fel a történelmi központot. Délelőtt az óváros és az erőd szerepel a programban. Ebéd után helyi busszal utazzon a csodálatos Ostrožac várához, a régió egyik fénypontjához. Egy alapos felfedezés után késő délután busszal térjen vissza Cazinba.",
+        "ro": "Descoperiți Cazin folosind transportul public. După sosirea la autogară, explorați centrul istoric pe jos. Dimineața este rezervată orașului vechi și cetății. După prânz, luați un autobuz local către magnificul castel Ostrožac, un punct de atracție al regiunii. După o explorare amănunțită, reveniți la Cazin cu autobuzul după-amiaza târziu.",
+        "en": "Discover Cazin using public transport. After arriving at the bus station, explore the historic center on foot. The morning is dedicated to the Old Town and the fortress. After lunch, take a local bus to the magnificent Ostrožac Castle, a highlight of the region. After a thorough exploration, return to Cazin by bus in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pekara (Bäckerei)",
+            "tip": "Holen Sie sich ein frisches Gebäck für die Busfahrt."
+          },
+          {
+            "name": "Aščinica (Traditionelles Restaurant)",
+            "tip": "Probieren Sie verschiedene hausgemachte Gerichte zu günstigen Preisen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pekara (Pékség)",
+            "tip": "Vegyen egy friss péksüteményt a buszútra."
+          },
+          {
+            "name": "Aščinica (Hagyományos étterem)",
+            "tip": "Kóstoljon meg különféle házi készítésű ételeket kedvező áron."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pekara (Brutărie)",
+            "tip": "Luați un produs de patiserie proaspăt pentru călătoria cu autobuzul."
+          },
+          {
+            "name": "Aščinica (Restaurant tradițional)",
+            "tip": "Încercați diverse feluri de mâncare de casă la prețuri accesibile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pekara (Bakery)",
+            "tip": "Grab a fresh pastry for the bus ride."
+          },
+          {
+            "name": "Aščinica (Traditional eatery)",
+            "tip": "Try a variety of home-cooked dishes at affordable prices."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Warten auf den Bus",
+            "tip": "Nutzen Sie die Wartezeit, um das lokale Leben zu beobachten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várakozás a buszra",
+            "tip": "Használja ki a várakozási időt a helyi élet megfigyelésére.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Așteptând autobuzul",
+            "tip": "Folosiți timpul de așteptare pentru a observa viața locală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Waiting for the bus",
+            "tip": "Use the waiting time to observe local life.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie Getränke und Snacks für Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon italokat és rágcsálnivalókat az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați băuturi și gustări pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy drinks and snacks for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busfahrpläne können unregelmäßig sein; informieren Sie sich im Voraus.",
+          "Kaufen Sie Tickets direkt beim Fahrer oder am Schalter.",
+          "Seien Sie darauf vorbereitet, dass Busse voll sein können, besonders zu Stoßzeiten.",
+          "Die Fahrt nach Ostrožac bietet schöne Ausblicke auf die Landschaft."
+        ],
+        "hu": [
+          "A buszmenetrendek szabálytalanok lehetnek; tájékozódjon előre.",
+          "Jegyeket közvetlenül a sofőrtől vagy a pénztárnál vásárolhat.",
+          "Készüljön fel arra, hogy a buszok zsúfoltak lehetnek, különösen csúcsidőben.",
+          "Az Ostrožac felé vezető út szép kilátást nyújt a vidékre."
+        ],
+        "ro": [
+          "Programele autobuzelor pot fi neregulate; informați-vă în avans.",
+          "Cumpărați biletele direct de la șofer sau de la ghișeu.",
+          "Fiți pregătiți ca autobuzele să fie aglomerate, mai ales la orele de vârf.",
+          "Călătoria spre Ostrožac oferă priveliști frumoase ale peisajului rural."
+        ],
+        "en": [
+          "Bus schedules can be irregular; check in advance.",
+          "Buy tickets directly from the driver or at the counter.",
+          "Be prepared for buses to be crowded, especially during peak hours.",
+          "The ride to Ostrožac offers nice views of the countryside."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1460 @@
+{
+  "city_id": "poland-bytom-cities-v2",
+  "anchor": {
+    "name": "Bytom",
+    "coords": [
+      50.3484,
+      18.9113
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            18.9221,
+            50.3475
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier, um die Atmosphäre der Stadt aufzusaugen.",
+            "hu": "Kezdje itt a napot, hogy magába szívja a város hangulatát.",
+            "ro": "Începeți ziua aici pentru a absorbi atmosfera orașului.",
+            "en": "Start your day here to soak up the city's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche",
+            "hu": "Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            18.9235,
+            50.3482
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:52",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Achten Sie auf die gotischen Gewölbe und die beeindruckenden Glasfenster.",
+            "hu": "Figyelje meg a gótikus boltozatokat és a lenyűgöző ólomüveg ablakokat.",
+            "ro": "Observați bolțile gotice și vitraliile impresionante.",
+            "en": "Notice the Gothic vaults and the impressive stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberschlesisches Museum",
+            "hu": "Felső-Sziléziai Múzeum",
+            "ro": "Muzeul Sileziei Superioare",
+            "en": "Upper Silesian Museum"
+          },
+          "coords": [
+            18.925,
+            50.3468
+          ],
+          "category": "museums",
+          "arrive_at": "10:53",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die ethnografische Sammlung ein.",
+            "hu": "Szánjon elég időt a néprajzi gyűjteményre.",
+            "ro": "Planificați suficient timp pentru colecția etnografică.",
+            "en": "Allow plenty of time for the ethnographic collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesische Oper",
+            "hu": "Sziléziai Opera",
+            "ro": "Opera Sileziană",
+            "en": "Silesian Opera"
+          },
+          "coords": [
+            18.919,
+            50.345
+          ],
+          "category": "theatres/cultural-centres",
+          "arrive_at": "13:09",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Fassade, auch wenn Sie keine Vorstellung besuchen.",
+            "hu": "Csodálja meg a neoklasszicista homlokzatot, még ha nem is megy előadásra.",
+            "ro": "Admirați fațada neoclasică, chiar dacă nu mergeți la un spectacol.",
+            "en": "Admire the neoclassical facade even if you're not attending a show."
+          }
+        },
+        {
+          "name": {
+            "de": "Kachel-Stadtpark",
+            "hu": "Kachel városi park",
+            "ro": "Parcul Kachel",
+            "en": "Kachel City Park"
+          },
+          "coords": [
+            18.915,
+            50.35
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Mittagspause und um dem Stadtlärm zu entfliehen.",
+            "hu": "Ideális hely egy ebédszünetre és a városi zaj elől való menekülésre.",
+            "ro": "Un loc ideal pentru o pauză de prânz și pentru a scăpa de zgomotul orașului.",
+            "en": "An ideal spot for a lunch break and to escape the city noise."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitskirche",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Holy Trinity Church"
+          },
+          "coords": [
+            18.927,
+            50.349
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:16",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den einzigartigen Jugendstil-Elementen im Inneren.",
+            "hu": "Keresse az egyedi szecessziós elemeket a belső térben.",
+            "ro": "Căutați elementele unice Art Nouveau în interior.",
+            "en": "Look for the unique Art Nouveau elements inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am pulsierenden Marktplatz und bewundern Sie die gotische Marienkirche. Am Mittag tauchen Sie im Oberschlesischen Museum in die reiche Geschichte der Region ein. Nachmittags entspannen Sie im grünen Kachel-Stadtpark, bevor Sie den Tag mit der architektonischen Schönheit der Dreifaltigkeitskirche und einem Blick auf die Oper ausklingen lassen. Ein Tag voller Kultur und Ruhe im Herzen von Bytom.",
+        "hu": "Kezdje sétáját a nyüzsgő Piactéren, és csodálja meg a gótikus Mária-templomot. Délben merüljön el a régió gazdag történelmében a Felső-Sziléziai Múzeumban. Délután pihenjen a zöld Kachel városi parkban, mielőtt a napot a Szentháromság-templom építészeti szépségével és az Operaház látványával zárja. Egy nap tele kultúrával és nyugalommal Bytom szívében.",
+        "ro": "Începeți plimbarea în vibranta Piață a Pieței și admirați Biserica gotică Sf. Maria. La prânz, scufundați-vă în istoria bogată a regiunii la Muzeul Sileziei Superioare. După-amiaza, relaxați-vă în Parcul verde Kachel, înainte de a încheia ziua cu frumusețea arhitecturală a Bisericii Sfânta Treime și o priveliște a Operei. O zi plină de cultură și liniște în inima orașului Bytom.",
+        "en": "Start your walk at the vibrant Market Square and admire the Gothic St. Mary's Church. At noon, delve into the region's rich history at the Upper Silesian Museum. In the afternoon, relax in the green Kachel City Park before ending the day with the architectural beauty of the Holy Trinity Church and a view of the Opera House. A day full of culture and tranquility in the heart of Bytom."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schlesische Roulade (Rolada śląska)",
+            "tip": "Ein herzhaftes Rindfleischgericht, gefüllt mit Speck, Gurken und Zwiebeln. Probieren Sie es im Restaurant 'Pod Klonem'."
+          },
+          {
+            "name": "Schlesische Klöße (Kluski śląskie)",
+            "tip": "Kartoffelklöße mit einem charakteristischen Loch in der Mitte, oft als Beilage serviert."
+          },
+          {
+            "name": "Mohnkuchen (Makowiec)",
+            "tip": "Ein traditioneller Kuchen, perfekt für eine Kaffeepause am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai tekercs (Rolada śląska)",
+            "tip": "Kiadós marhahúsétel szalonnával, uborkával és hagymával töltve. Kóstolja meg a 'Pod Klonem' étteremben."
+          },
+          {
+            "name": "Sziléziai gombóc (Kluski śląskie)",
+            "tip": "Burgonyagombóc jellegzetes lyukkal a közepén, gyakran köretként tálalva."
+          },
+          {
+            "name": "Mákos kalács (Makowiec)",
+            "tip": "Hagyományos sütemény, tökéletes egy délutáni kávészünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruladă sileziană (Rolada śląska)",
+            "tip": "Un fel de mâncare consistent din carne de vită, umplut cu slănină, castraveți și ceapă. Încercați-l la restaurantul 'Pod Klonem'."
+          },
+          {
+            "name": "Găluște sileziene (Kluski śląskie)",
+            "tip": "Găluște de cartofi cu o gaură caracteristică în mijloc, adesea servite ca garnitură."
+          },
+          {
+            "name": "Cozonac cu mac (Makowiec)",
+            "tip": "O prăjitură tradițională, perfectă pentru o pauză de cafea după-amiaza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian Roulade (Rolada śląska)",
+            "tip": "A hearty beef dish filled with bacon, pickles, and onions. Try it at 'Pod Klonem' restaurant."
+          },
+          {
+            "name": "Silesian Dumplings (Kluski śląskie)",
+            "tip": "Potato dumplings with a characteristic hole in the middle, often served as a side dish."
+          },
+          {
+            "name": "Poppy seed roll (Makowiec)",
+            "tip": "A traditional cake, perfect for an afternoon coffee break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kachel-Stadtpark",
+            "tip": "Finden Sie eine ruhige Bank am Teich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fazaniec-Park",
+            "tip": "Etwas außerhalb, aber ideal für einen längeren, ungestörten Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inneres der Marienkirche",
+            "tip": "Außerhalb der Gottesdienste ist es ein Ort der stillen Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kachel városi park",
+            "tip": "Keressen egy csendes padot a tó mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fazaniec Park",
+            "tip": "Kicsit kijjebb esik, de ideális egy hosszabb, zavartalan sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Mária-templom belseje",
+            "tip": "Istentiszteleten kívül a csendes elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kachel",
+            "tip": "Găsiți o bancă liniștită lângă iaz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Fazaniec",
+            "tip": "Puțin în afara centrului, dar ideal pentru o plimbare mai lungă și netulburată.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Interiorul Bisericii Sf. Maria",
+            "tip": "În afara slujbelor, este un loc de contemplare tăcută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kachel City Park",
+            "tip": "Find a quiet bench by the pond.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fazaniec Park",
+            "tip": "A bit further out, but ideal for a longer, undisturbed walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inside St. Mary's Church",
+            "tip": "Outside of service times, it's a place for quiet contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz",
+            "tip": "Halten Sie Ausschau nach saisonalen Märkten mit lokalen Produkten und Handwerk."
+          },
+          {
+            "name": "Straßen um den Marktplatz",
+            "tip": "Kleine Boutiquen und Geschäfte bieten einzigartige Souvenirs an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piactér",
+            "tip": "Keresse a szezonális piacokat helyi termékekkel és kézműves árukkal."
+          },
+          {
+            "name": "A Piactér körüli utcák",
+            "tip": "Kis butikok és üzletek kínálnak egyedi ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Fiți atenți la piețele sezoniere cu produse locale și artizanat."
+          },
+          {
+            "name": "Străzile din jurul Pieței",
+            "tip": "Mici buticuri și magazine oferă suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square",
+            "tip": "Look out for seasonal markets with local produce and crafts."
+          },
+          {
+            "name": "Streets around the Market Square",
+            "tip": "Small boutiques and shops offer unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus online.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, besonders an warmen Tagen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő az óvárosban egyenetlen lehet.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog.",
+          "Ellenőrizze a múzeum nyitvatartási idejét előre online.",
+          "Vigyen magával újratölthető vizes palackot, különösen meleg napokon."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Verificați online programul de funcționare al muzeului în avans.",
+          "Luați cu voi o sticlă de apă reutilizabilă, mai ales în zilele calde."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights in the city center are easily reachable on foot.",
+          "Check the museum's opening hours online in advance.",
+          "Bring a reusable water bottle, especially on warm days."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            18.9221,
+            50.3475
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie den Platz zu Fuß.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel a teret gyalog.",
+            "ro": "Asigurați-vă bicicleta și explorați piața pe jos.",
+            "en": "Lock your bike securely and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesische Oper",
+            "hu": "Sziléziai Opera",
+            "ro": "Opera Sileziană",
+            "en": "Silesian Opera"
+          },
+          "coords": [
+            18.919,
+            50.345
+          ],
+          "category": "theatres/cultural-centres",
+          "arrive_at": "09:44",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schneller Fotostopp, um die Architektur zu bewundern.",
+            "hu": "Egy gyors fotómegálló az építészet megcsodálására.",
+            "ro": "O oprire rapidă pentru fotografii pentru a admira arhitectura.",
+            "en": "A quick photo stop to admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm",
+            "hu": "Víztorony",
+            "ro": "Turnul de Apă",
+            "en": "Water Tower"
+          },
+          "coords": [
+            18.905,
+            50.36
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:17",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Beispiel für Industriearchitektur. Tolle Fotomotive!",
+            "hu": "Az ipari építészet lenyűgöző példája. Remek fotótéma!",
+            "ro": "Un exemplu impresionant de arhitectură industrială. Oportunități foto grozave!",
+            "en": "An impressive example of industrial architecture. Great photo opportunities!"
+          }
+        },
+        {
+          "name": {
+            "de": "Fazaniec-Park",
+            "hu": "Fazaniec Park",
+            "ro": "Parcul Fazaniec",
+            "en": "Fazaniec Park"
+          },
+          "coords": [
+            18.89,
+            50.37
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:02",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause und genießen Sie die Natur. Perfekt für ein Picknick.",
+            "hu": "Tartson szünetet és élvezze a természetet. Tökéletes egy piknikhez.",
+            "ro": "Faceți o pauză și bucurați-vă de natură. Perfect pentru un picnic.",
+            "en": "Take a break and enjoy nature. Perfect for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberschlesisches Museum",
+            "hu": "Felső-Sziléziai Múzeum",
+            "ro": "Muzeul Sileziei Superioare",
+            "en": "Upper Silesian Museum"
+          },
+          "coords": [
+            18.925,
+            50.3468
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad an und tauchen Sie in die Kultur ein. Eine großartige Mittagsaktivität.",
+            "hu": "Zárja le a kerékpárt és merüljön el a kultúrában. Nagyszerű déli program.",
+            "ro": "Legați-vă bicicleta și scufundați-vă în cultură. O activitate grozavă de prânz.",
+            "en": "Lock up your bike and dive into the culture. A great midday activity."
+          }
+        },
+        {
+          "name": {
+            "de": "Kachel-Stadtpark",
+            "hu": "Kachel városi park",
+            "ro": "Parcul Kachel",
+            "en": "Kachel City Park"
+          },
+          "coords": [
+            18.915,
+            50.35
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannten Runde durch diesen zentralen Park.",
+            "hu": "Fejezze be a kerékpártúrát egy pihentető körrel ebben a központi parkban.",
+            "ro": "Încheiați-vă turul cu bicicleta cu o plimbare relaxantă prin acest parc central.",
+            "en": "End your bike tour with a relaxing lap around this central park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine Tour, die urbane Entdeckungen und Natur verbindet. Vom Marktplatz radeln Sie zum industriellen Charme des Wasserturms. Mittags erwartet Sie die grüne Oase des Fazaniec-Parks für eine ausgedehnte Pause. Am Nachmittag geht es zurück ins Zentrum zum Oberschlesischen Museum, bevor Sie den Tag im Kachel-Stadtpark ausklingen lassen. Eine perfekte Mischung aus Kultur, Geschichte und Bewegung.",
+        "hu": "Pattanjon kerékpárra egy olyan túrára, amely ötvözi a városi felfedezést és a természetet. A Piactérről tekerjen el a Víztorony ipari bájáig. Délben a Fazaniec Park zöld oázisa várja egy hosszabb pihenőre. Délután térjen vissza a központba a Felső-Sziléziai Múzeumba, mielőtt a napot a Kachel városi parkban zárja. A kultúra, a történelem és a mozgás tökéletes keveréke.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur care combină explorarea urbană și natura. De la Piața Pieței, pedalați spre farmecul industrial al Turnului de Apă. La prânz, oaza verde a Parcului Fazaniec vă așteaptă pentru o pauză extinsă. După-amiaza, întoarceți-vă în centru la Muzeul Sileziei Superioare înainte de a încheia ziua în Parcul Kachel. Un amestec perfect de cultură, istorie și exercițiu.",
+        "en": "Get on your bike for a tour that combines urban exploration and nature. From the Market Square, cycle to the industrial charm of the Water Tower. At noon, the green oasis of Fazaniec Park awaits you for an extended break. In the afternoon, head back to the center to the Upper Silesian Museum before ending the day in Kachel City Park. A perfect mix of culture, history, and exercise."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi (Piroggen)",
+            "tip": "Gefüllte Teigtaschen, eine polnische Spezialität. Suchen Sie nach einem 'Pierogarnia'-Restaurant."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine saure Roggenmehlsuppe, oft mit Wurst und Ei serviert. Herzhaft und perfekt nach einer Radtour."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Polnischer Käsekuchen, eine köstliche Belohnung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi (Pirog)",
+            "tip": "Töltött tésztabatyu, lengyel specialitás. Keressen egy 'Pierogarnia' éttermet."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Savanyú rozslisztleves, gyakran kolbásszal és tojással tálalva. Kiadós és tökéletes egy kerékpártúra után."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Lengyel sajttorta, egy finom jutalom."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Găluște umplute, o specialitate poloneză. Căutați un restaurant 'Pierogarnia'."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă acră de secară, adesea servită cu cârnați și ou. consistentă și perfectă după un tur cu bicicleta."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Cheesecake polonez, o recompensă delicioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Filled dumplings, a Polish specialty. Look for a 'Pierogarnia' restaurant."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A sour rye flour soup, often served with sausage and egg. Hearty and perfect after a bike ride."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Polish cheesecake, a delicious reward."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fazaniec-Park",
+            "tip": "Fahren Sie zu den weniger besuchten Teilen des Parks für absolute Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Am Ufer des Teiches im Kachel-Stadtpark",
+            "tip": "Ein friedlicher Ort, um die Enten zu beobachten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Weg zum Wasserturm",
+            "tip": "Die ruhigeren Straßen auf dem Weg dorthin bieten eine Pause vom Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fazaniec Park",
+            "tip": "Tekerjen el a park kevésbé látogatott részeihez a teljes csendért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Kachel park tavának partján",
+            "tip": "Békés hely a kacsák megfigyelésére.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Út a Víztoronyhoz",
+            "tip": "Az odavezető csendesebb utcák pihenést nyújtanak a városközponttól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Fazaniec",
+            "tip": "Pedalați spre părțile mai puțin aglomerate ale parcului pentru o liniște absolută.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pe malul iazului din Parcul Kachel",
+            "tip": "Un loc pașnic pentru a privi rațele.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Drumul spre Turnul de Apă",
+            "tip": "Străzile mai liniștite pe drum oferă o pauză de la centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fazaniec Park",
+            "tip": "Cycle to the less-visited parts of the park for absolute tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "By the pond in Kachel City Park",
+            "tip": "A peaceful spot to watch the ducks.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The route to the Water Tower",
+            "tip": "The quieter streets on the way there offer a break from the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradgeschäfte",
+            "tip": "Fragen Sie nach lokalen Routen oder kaufen Sie ein kleines Souvenir."
+          },
+          {
+            "name": "AGORA Bytom",
+            "tip": "Ein Einkaufszentrum für alles, was Sie vielleicht vergessen haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárüzletek",
+            "tip": "Kérdezzen a helyi útvonalakról, vagy vásároljon egy kis ajándéktárgyat."
+          },
+          {
+            "name": "AGORA Bytom",
+            "tip": "Egy bevásárlóközpont mindenre, amit esetleg elfelejtett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Întrebați despre rutele locale sau cumpărați un mic suvenir."
+          },
+          {
+            "name": "AGORA Bytom",
+            "tip": "Un centru comercial pentru orice ați fi putut uita."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bike shops",
+            "tip": "Ask about local routes or pick up a small souvenir."
+          },
+          {
+            "name": "AGORA Bytom",
+            "tip": "A shopping mall for anything you might have forgotten."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads vor der Abfahrt.",
+          "Nutzen Sie Fahrradwege, wo immer möglich.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad an den Haltepunkten zu sichern."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze kerékpárja állapotát.",
+          "Ahol csak lehetséges, használjon kerékpárutakat.",
+          "A sisak viselése erősen ajánlott.",
+          "Vigyen magával egy jó lakatot, hogy lezárja a kerékpárt a megállóknál."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni.",
+          "Folosiți pistele de biciclete ori de câte ori este posibil.",
+          "O cască este foarte recomandată.",
+          "Luați un lacăt bun pentru a vă asigura bicicleta la opriri."
+        ],
+        "en": [
+          "Check the condition of your bike before setting off.",
+          "Use bike lanes wherever possible.",
+          "A helmet is highly recommended.",
+          "Bring a good lock to secure your bike at the stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Fazaniec-Park",
+            "hu": "Parkoló a Fazaniec Parknál",
+            "ro": "Parcare la Parcul Fazaniec",
+            "en": "Parking at Fazaniec Park"
+          },
+          "coords": [
+            18.892,
+            50.371
+          ],
+          "category": "transport",
+          "arrive_at": "09:20",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Tag mit einem Spaziergang.",
+            "hu": "Parkoljon le itt, és kezdje a napot egy sétával.",
+            "ro": "Parcați aici și începeți ziua cu o plimbare.",
+            "en": "Park here and start your day with a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Fazaniec-Park",
+            "hu": "Fazaniec Park",
+            "ro": "Parcul Fazaniec",
+            "en": "Fazaniec Park"
+          },
+          "coords": [
+            18.89,
+            50.37
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:27",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Morgenruhe in diesem weitläufigen Park.",
+            "hu": "Élvezze a reggeli csendet ebben a tágas parkban.",
+            "ro": "Bucurați-vă de liniștea dimineții în acest parc întins.",
+            "en": "Enjoy the morning quiet in this spacious park."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm",
+            "hu": "Víztorony",
+            "ro": "Turnul de Apă",
+            "en": "Water Tower"
+          },
+          "coords": [
+            18.905,
+            50.36
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:31",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park zu diesem industriellen Wahrzeichen.",
+            "hu": "Egy rövid séta a parktól ehhez az ipari műemlékhez.",
+            "ro": "O scurtă plimbare de la parc la acest monument industrial.",
+            "en": "A short walk from the park to this industrial landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus am Marktplatz",
+            "hu": "Parkolóház a Piactérnél",
+            "ro": "Parcare lângă Piața Centrală",
+            "en": "Parking near Market Square"
+          },
+          "coords": [
+            18.921,
+            50.346
+          ],
+          "category": "transport",
+          "arrive_at": "11:19",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon le itt a nap hátralévő részére, és fedezze fel a központot gyalog.",
+            "ro": "Parcați aici pentru restul zilei și explorați centrul pe jos.",
+            "en": "Park here for the rest of the day and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz & Mittagessen",
+            "hu": "Piactér és ebéd",
+            "ro": "Piața Centrală & Prânz",
+            "en": "Market Square & Lunch"
+          },
+          "coords": [
+            18.9221,
+            50.3475
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:26",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Finden Sie ein Restaurant am Platz und genießen Sie die schlesische Küche.",
+            "hu": "Keressen egy éttermet a téren, és élvezze a sziléziai konyhát.",
+            "ro": "Găsiți un restaurant în piață și bucurați-vă de bucătăria sileziană.",
+            "en": "Find a restaurant on the square and enjoy Silesian cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberschlesisches Museum",
+            "hu": "Felső-Sziléziai Múzeum",
+            "ro": "Muzeul Sileziei Superioare",
+            "en": "Upper Silesian Museum"
+          },
+          "coords": [
+            18.925,
+            50.3468
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Museum ist nur einen kurzen Spaziergang vom Marktplatz entfernt.",
+            "hu": "A múzeum csak egy rövid sétára van a Piactértől.",
+            "ro": "Muzeul este la o scurtă plimbare de Piața Centrală.",
+            "en": "The museum is just a short walk from the Market Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche",
+            "hu": "Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            18.9235,
+            50.3482
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:04",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Erkundung des Zentrums mit diesem gotischen Meisterwerk.",
+            "hu": "Fejezze be a központ felfedezését ezzel a gótikus remekművel.",
+            "ro": "Încheiați explorarea centrului cu această capodoperă gotică.",
+            "en": "End your exploration of the center with this Gothic masterpiece."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um Bytom umfassend zu erleben. Beginnen Sie den Tag im ruhigen Fazaniec-Park und am beeindruckenden Wasserturm. Fahren Sie dann ins Zentrum, parken Sie Ihr Auto und widmen Sie den Nachmittag dem historischen Herzen der Stadt: Genießen Sie ein Mittagessen am Marktplatz, erkunden Sie das Oberschlesische Museum und lassen Sie die gotische Pracht der Marienkirche auf sich wirken. Ein Tag, der Natur, Industrieerbe und Stadtkultur perfekt verbindet.",
+        "hu": "Használja ki az autó nyújtotta rugalmasságot Bytom átfogó megismeréséhez. Kezdje a napot a csendes Fazaniec Parkban és a lenyűgöző Víztoronynál. Ezután hajtson be a központba, parkolja le az autót, és szentelje a délutánt a város történelmi szívének: ebédeljen a Piactéren, fedezze fel a Felső-Sziléziai Múzeumot, és hagyja, hogy a Mária-templom gótikus pompája hasson Önre. Egy nap, amely tökéletesen ötvözi a természetet, az ipari örökséget és a városi kultúrát.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a experimenta Bytom în mod cuprinzător. Începeți ziua în liniștitul Parc Fazaniec și la impresionantul Turn de Apă. Apoi, conduceți spre centru, parcați mașina și dedicați după-amiaza inimii istorice a orașului: savurați prânzul în Piața Centrală, explorați Muzeul Sileziei Superioare și lăsați-vă impresionați de splendoarea gotică a Bisericii Sf. Maria. O zi care combină perfect natura, patrimoniul industrial și cultura urbană.",
+        "en": "Use the flexibility of the car to experience Bytom comprehensively. Start the day in the quiet Fazaniec Park and at the impressive Water Tower. Then drive to the center, park your car, and dedicate the afternoon to the historical heart of the city: enjoy lunch at the Market Square, explore the Upper Silesian Museum, and let the Gothic splendor of St. Mary's Church sink in. A day that perfectly combines nature, industrial heritage, and urban culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schlesisches Himmelreich",
+            "tip": "Ein traditionelles Gericht aus geräuchertem Fleisch mit Backobst in einer süß-sauren Soße. Ein einzigartiges Geschmackserlebnis."
+          },
+          {
+            "name": "Bigos",
+            "tip": "Ein herzhafter Sauerkrauteintopf mit verschiedenen Fleisch- und Wurstsorten."
+          },
+          {
+            "name": "Kompot",
+            "tip": "Ein nicht-alkoholisches Getränk aus gekochten Früchten, oft hausgemacht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai mennyország (Schlesisches Himmelreich)",
+            "tip": "Hagyományos étel füstölt húsból, aszalt gyümölcsökkel, édes-savanyú mártásban. Egyedülálló ízélmény."
+          },
+          {
+            "name": "Bigos",
+            "tip": "Kiadós savanyúkáposzta-egytálétel különféle húsokkal és kolbászokkal."
+          },
+          {
+            "name": "Kompot (Kompót)",
+            "tip": "Főtt gyümölcsből készült alkoholmentes ital, gyakran házi készítésű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paradisul Silezian (Schlesisches Himmelreich)",
+            "tip": "Un fel de mâncare tradițional din carne afumată cu fructe uscate într-un sos dulce-acrișor. O experiență gustativă unică."
+          },
+          {
+            "name": "Bigos",
+            "tip": "O tocană consistentă de varză murată cu diverse tipuri de carne și cârnați."
+          },
+          {
+            "name": "Compot",
+            "tip": "O băutură non-alcoolică din fructe fierte, adesea făcută în casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian Heaven (Schlesisches Himmelreich)",
+            "tip": "A traditional dish of smoked meat with dried fruit in a sweet and sour sauce. A unique taste experience."
+          },
+          {
+            "name": "Bigos",
+            "tip": "A hearty sauerkraut stew with various meats and sausages."
+          },
+          {
+            "name": "Kompot",
+            "tip": "A non-alcoholic beverage made from cooked fruit, often homemade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Früher Morgen im Fazaniec-Park",
+            "tip": "Bevor die Stadt erwacht, ist dies ein Ort der absoluten Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine ruhige Ecke im Oberschlesischen Museum",
+            "tip": "Die oberen Stockwerke sind oft weniger besucht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kachel-Stadtpark",
+            "tip": "Auch wenn er zentral liegt, finden sich hier ruhige Plätze.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kora reggel a Fazaniec Parkban",
+            "tip": "Mielőtt a város felébred, ez a teljes csend helye.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendes sarok a Felső-Sziléziai Múzeumban",
+            "tip": "A felső emeletek gyakran kevésbé látogatottak.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kachel városi park",
+            "tip": "Bár központi fekvésű, itt is találhatók csendes helyek.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dimineața devreme în Parcul Fazaniec",
+            "tip": "Înainte ca orașul să se trezească, acesta este un loc de liniște absolută.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Un colț liniștit în Muzeul Sileziei Superioare",
+            "tip": "Etajele superioare sunt adesea mai puțin aglomerate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Kachel",
+            "tip": "Chiar dacă este central, aici se pot găsi locuri liniștite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Early morning in Fazaniec Park",
+            "tip": "Before the city wakes up, this is a place of absolute silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet corner in the Upper Silesian Museum",
+            "tip": "The upper floors are often less crowded.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kachel City Park",
+            "tip": "Even though it's central, you can find quiet spots here.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "AGORA Bytom",
+            "tip": "Ein modernes Einkaufszentrum, falls Sie eine größere Auswahl benötigen."
+          },
+          {
+            "name": "Souvenirladen im Museum",
+            "tip": "Hier finden Sie Bücher und Repliken zur regionalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "AGORA Bytom",
+            "tip": "Modern bevásárlóközpont, ha nagyobb választékra van szüksége."
+          },
+          {
+            "name": "Ajándékbolt a múzeumban",
+            "tip": "Itt a regionális történelemmel kapcsolatos könyveket és másolatokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "AGORA Bytom",
+            "tip": "Un centru comercial modern dacă aveți nevoie de o selecție mai largă."
+          },
+          {
+            "name": "Magazinul de suveniruri al muzeului",
+            "tip": "Aici veți găsi cărți și replici legate de istoria regională."
+          }
+        ],
+        "en": [
+          {
+            "name": "AGORA Bytom",
+            "tip": "A modern shopping mall if you need a wider selection."
+          },
+          {
+            "name": "Museum gift shop",
+            "tip": "Here you will find books and replicas related to regional history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über Parkmöglichkeiten und -gebühren.",
+          "Ein Navigationssystem ist hilfreich, um sich in der Stadt zurechtzufinden.",
+          "Achten Sie auf Umweltzonen in der Innenstadt.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+        ],
+        "hu": [
+          "Tájékozódjon előre a parkolási lehetőségekről és díjakról.",
+          "A navigációs rendszer segít eligazodni a városban.",
+          "Figyeljen a belvárosi környezetvédelmi zónákra.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Informați-vă în avans despre opțiunile de parcare și taxe.",
+          "Un sistem de navigație este util pentru a vă orienta în oraș.",
+          "Fiți atenți la zonele cu emisii reduse din centrul orașului.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Find out about parking options and fees in advance.",
+          "A navigation system is helpful for getting around the city.",
+          "Be aware of low-emission zones in the city center.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 9.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof",
+            "hu": "Érkezés a buszpályaudvarra",
+            "ro": "Sosire la autogară",
+            "en": "Arrival at the bus station"
+          },
+          "coords": [
+            18.918,
+            50.344
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public.",
+            "en": "Buy a day pass for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlesische Oper",
+            "hu": "Sziléziai Opera",
+            "ro": "Opera Sileziană",
+            "en": "Silesian Opera"
+          },
+          "coords": [
+            18.919,
+            50.345
+          ],
+          "category": "theatres/cultural-centres",
+          "arrive_at": "09:17",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof, um den Tag zu beginnen.",
+            "hu": "Rövid séta a buszpályaudvartól a nap kezdéséhez.",
+            "ro": "O scurtă plimbare de la autogară pentru a începe ziua.",
+            "en": "A short walk from the bus station to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            18.9221,
+            50.3475
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt, nur wenige Gehminuten entfernt.",
+            "hu": "A város szíve, csak pár perc sétára.",
+            "ro": "Inima orașului, la doar câteva minute de mers pe jos.",
+            "en": "The heart of the city, just a few minutes' walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberschlesisches Museum",
+            "hu": "Felső-Sziléziai Múzeum",
+            "ro": "Muzeul Sileziei Superioare",
+            "en": "Upper Silesian Museum"
+          },
+          "coords": [
+            18.925,
+            50.3468
+          ],
+          "category": "museums",
+          "arrive_at": "10:19",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vertiefen Sie sich in die Geschichte, bevor Sie weiterziehen.",
+            "hu": "Mélyedjen el a történelemben, mielőtt továbbhalad.",
+            "ro": "Aprofundați istoria înainte de a merge mai departe.",
+            "en": "Delve into history before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kachel-Stadtpark",
+            "hu": "Utazás a Kachel parkba",
+            "ro": "Călătorie spre Parcul Kachel",
+            "en": "Trip to Kachel City Park"
+          },
+          "coords": [
+            18.915,
+            50.35
+          ],
+          "category": "transport",
+          "arrive_at": "12:44",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie eine Straßenbahn oder einen Bus für eine kurze Fahrt zur Entspannung.",
+            "hu": "Menjen villamossal vagy busszal egy rövid útra a pihenésért.",
+            "ro": "Luați un tramvai sau un autobuz pentru o călătorie scurtă de relaxare.",
+            "en": "Take a tram or bus for a short ride to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitskirche",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Holy Trinity Church"
+          },
+          "coords": [
+            18.927,
+            50.349
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:14",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Eine weitere kurze Fahrt bringt Sie zu diesem architektonischen Juwel.",
+            "hu": "Egy újabb rövid utazás elviszi Önt ehhez az építészeti gyöngyszemhez.",
+            "ro": "O altă călătorie scurtă vă duce la această bijuterie arhitecturală.",
+            "en": "Another short ride takes you to this architectural gem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Bytom bequem mit öffentlichen Verkehrsmitteln. Beginnen Sie im Stadtzentrum mit einem Cluster aus Oper, Marktplatz und dem Oberschlesischen Museum, alles bequem zu Fuß erreichbar. Am Nachmittag bringt Sie eine kurze Straßenbahnfahrt in den ruhigen Kachel-Stadtpark für eine grüne Auszeit. Eine weitere Fahrt führt Sie zur prächtigen Dreifaltigkeitskirche, die einen perfekten kulturellen Abschluss Ihres Tages bietet. Effizient, entspannt und voller Entdeckungen.",
+        "hu": "Fedezze fel Bytomot kényelmesen tömegközlekedéssel. Kezdje a városközpontban az Opera, a Piactér és a Felső-Sziléziai Múzeum együttesével, melyek mind könnyen megközelíthetők gyalog. Délután egy rövid villamosút elviszi a csendes Kachel városi parkba egy zöld pihenőre. Egy másik utazás a csodálatos Szentháromság-templomhoz vezet, amely tökéletes kulturális lezárása a napnak. Hatékony, pihentető és tele felfedezésekkel.",
+        "ro": "Descoperiți Bytom convenabil cu transportul public. Începeți în centrul orașului cu un grup de atracții format din Operă, Piața Centrală și Muzeul Sileziei Superioare, toate accesibile pe jos. După-amiaza, o scurtă călătorie cu tramvaiul vă va duce în liniștitul Parc Kachel pentru o pauză verde. O altă călătorie vă va conduce la magnifica Biserică Sfânta Treime, oferind o încheiere culturală perfectă a zilei. Eficient, relaxant și plin de descoperiri.",
+        "en": "Discover Bytom conveniently by public transport. Start in the city center with a cluster of the Opera, Market Square, and the Upper Silesian Museum, all easily accessible on foot. In the afternoon, a short tram ride will take you to the quiet Kachel City Park for a green break. Another ride leads you to the magnificent Holy Trinity Church, providing a perfect cultural conclusion to your day. Efficient, relaxed, and full of discoveries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein überbackenes Baguette, ein beliebter polnischer Straßensnack."
+          },
+          {
+            "name": "Krupniok śląski",
+            "tip": "Eine Art Blutwurst, eine regionale Spezialität für abenteuerlustige Esser."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Polnische Donuts, oft mit Rosenmarmelade gefüllt. Unbedingt probieren!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Sült baguette, népszerű lengyel utcai étel."
+          },
+          {
+            "name": "Krupniok śląski",
+            "tip": "Egyfajta véres hurka, regionális specialitás a kalandvágyóknak."
+          },
+          {
+            "name": "Pączki (fánk)",
+            "tip": "Lengyel fánk, gyakran rózsalekvárral töltve. Feltétlenül kóstolja meg!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "O baghetă gratinată, o gustare populară de stradă poloneză."
+          },
+          {
+            "name": "Krupniok śląski",
+            "tip": "Un tip de cârnat de sânge, o specialitate regională pentru mâncătorii aventuroși."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Gogoși poloneze, adesea umplute cu gem de trandafiri. Trebuie încercate!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "An open-faced baguette, a popular Polish street food."
+          },
+          {
+            "name": "Krupniok śląski",
+            "tip": "A type of blood sausage, a regional specialty for adventurous eaters."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Polish doughnuts, often filled with rose jam. A must-try!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Kachel-Stadtpark",
+            "tip": "Der perfekte Ort, um nach der Fahrt mit den öffentlichen Verkehrsmitteln durchzuatmen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Seitenaltäre der Dreifaltigkeitskirche",
+            "tip": "Diese Bereiche sind oft sehr ruhig und laden zur Besinnung ein.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang abseits der Hauptstraßen",
+            "tip": "Erkunden Sie die kleineren Gassen um den Marktplatz für eine ruhigere Atmosphäre.",
+            "emoji": "🚶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Kachel városi parkban",
+            "tip": "Tökéletes hely egy kis pihenésre a tömegközlekedési utazás után.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Szentháromság-templom mellékoltárai",
+            "tip": "Ezek a területek gyakran nagyon csendesek és elmélkedésre hívnak.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a főutcáktól távol",
+            "tip": "Fedezze fel a Piactér körüli kisebb sikátorokat a csendesebb hangulatért.",
+            "emoji": "🚶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Kachel",
+            "tip": "Locul perfect pentru a respira adânc după călătoria cu transportul public.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Altarele laterale ale Bisericii Sfânta Treime",
+            "tip": "Aceste zone sunt adesea foarte liniștite și invită la contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe străzile lăturalnice",
+            "tip": "Explorați aleile mai mici din jurul Pieței Centrale pentru o atmosferă mai liniștită.",
+            "emoji": "🚶"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Kachel City Park",
+            "tip": "The perfect place to take a breather after the transit ride.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Side altars of the Holy Trinity Church",
+            "tip": "These areas are often very quiet and invite contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A walk off the main streets",
+            "tip": "Explore the smaller alleys around the Market Square for a quieter atmosphere.",
+            "emoji": "🚶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an den Haltestellen",
+            "tip": "Hier finden Sie oft Zeitungen, Snacks und manchmal auch kleine Souvenirs."
+          },
+          {
+            "name": "Bäckereien in der Nähe des Marktplatzes",
+            "tip": "Kaufen Sie frisches polnisches Gebäck für die Heimreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a megállókban",
+            "tip": "Itt gyakran talál újságokat, rágcsálnivalókat és néha apró ajándéktárgyakat is."
+          },
+          {
+            "name": "Pékségek a Piactér közelében",
+            "tip": "Vásároljon friss lengyel péksüteményt az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la stații",
+            "tip": "Adesea veți găsi ziare, gustări și uneori mici suveniruri aici."
+          },
+          {
+            "name": "Brutării lângă Piața Centrală",
+            "tip": "Cumpărați produse de patiserie proaspete poloneze pentru călătoria spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at the stops",
+            "tip": "You can often find newspapers, snacks, and sometimes small souvenirs here."
+          },
+          {
+            "name": "Bakeries near the Market Square",
+            "tip": "Buy some fresh Polish pastries for the journey home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eine Tageskarte ist in der Regel die günstigste Option für mehrere Fahrten.",
+          "Laden Sie eine App für den öffentlichen Nahverkehr herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Validieren Sie Ihr Ticket beim Einsteigen, um Strafen zu vermeiden.",
+          "Beachten Sie die Stoßzeiten, zu denen Busse und Bahnen sehr voll sein können."
+        ],
+        "hu": [
+          "Általában a napijegy a legolcsóbb opció több utazáshoz.",
+          "Töltsön le egy tömegközlekedési alkalmazást a valós idejű menetrendekhez és útvonalakhoz.",
+          "Érvényesítse a jegyét felszálláskor a büntetések elkerülése érdekében.",
+          "Vegye figyelembe a csúcsidőt, amikor a buszok és villamosok nagyon zsúfoltak lehetnek."
+        ],
+        "ro": [
+          "Un bilet de o zi este de obicei cea mai ieftină opțiune pentru mai multe călătorii.",
+          "Descărcați o aplicație de transport public pentru orare și rute în timp real.",
+          "Validați biletul la urcare pentru a evita amenzile.",
+          "Fiți atenți la orele de vârf, când autobuzele și tramvaiele pot fi foarte aglomerate."
+        ],
+        "en": [
+          "A day pass is usually the cheapest option for multiple journeys.",
+          "Download a public transport app for real-time schedules and routes.",
+          "Validate your ticket upon boarding to avoid fines.",
+          "Be aware of peak hours when buses and trams can be very crowded."
+        ]
+      }
+    }
+  }
+}

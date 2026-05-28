@@ -1,0 +1,1494 @@
+{
+  "city_id": "spain-torrejon-cities-v2",
+  "anchor": {
+    "name": "Torrejón de Ardoz",
+    "coords": [
+      -3.4795,
+      40.4578
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Főtér",
+            "ro": "Plaza Mayor",
+            "en": "Main Square"
+          },
+          "coords": [
+            -3.479,
+            40.457
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das lokale Leben.",
+            "hu": "Indítsa a napot egy kávéval, és figyelje a helyi életet.",
+            "ro": "Începeți ziua aici cu o cafea, observând viața locală.",
+            "en": "Start your day here with a coffee and watch the local life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Juan Evangelista",
+            "hu": "Keresztelő Szent János evangélista-templom",
+            "ro": "Biserica San Juan Evangelista",
+            "en": "Church of San Juan Evangelista"
+          },
+          "coords": [
+            -3.478,
+            40.4565
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Mudéjar-Apsis aus dem 14. Jahrhundert.",
+            "hu": "Figyelje meg a lenyűgöző 14. századi mudéjar apszist.",
+            "ro": "Observați absida impresionantă în stil Mudéjar din secolul al XIV-lea.",
+            "en": "Look for the impressive 14th-century Mudéjar apse."
+          }
+        },
+        {
+          "name": {
+            "de": "La Casa Grande",
+            "hu": "La Casa Grande",
+            "ro": "La Casa Grande",
+            "en": "La Casa Grande"
+          },
+          "coords": [
+            -3.477,
+            40.456
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Heute ein Hotel, aber die Gärten sind oft für Besucher zugänglich.",
+            "hu": "Ma szálloda, de a kertjei gyakran látogathatók.",
+            "ro": "Astăzi este un hotel, dar grădinile sale sunt adesea deschise vizitatorilor.",
+            "en": "It's a hotel now, but its gardens are often open for visitors to appreciate."
+          }
+        },
+        {
+          "name": {
+            "de": "Ikonenmuseum",
+            "hu": "Ikonmúzeum",
+            "ro": "Muzeul de Icoane",
+            "en": "Museum of Icons"
+          },
+          "coords": [
+            -3.4775,
+            40.4555
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine einzigartige Sammlung orthodoxer Ikonen aus ganz Osteuropa.",
+            "hu": "Kelet-Európa ortodox ikonjainak egyedülálló gyűjteménye.",
+            "ro": "O colecție unică de icoane ortodoxe din toată Europa de Est.",
+            "en": "A unique collection of Orthodox icons from all over Eastern Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Theater José María Rodero",
+            "hu": "José María Rodero Városi Színház",
+            "ro": "Teatrul Municipal José María Rodero",
+            "en": "José María Rodero Municipal Theatre"
+          },
+          "coords": [
+            -3.481,
+            40.458
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:36",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm, vielleicht gibt es eine interessante Abendvorstellung.",
+            "hu": "Nézze meg a műsort, hátha van egy érdekes esti előadás.",
+            "ro": "Verificați programul, s-ar putea să prindeți un spectacol de seară interesant.",
+            "en": "Check the schedule; you might catch an interesting evening show."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Europa",
+            "hu": "Európa Park",
+            "ro": "Parque Europa",
+            "en": "Europa Park"
+          },
+          "coords": [
+            -3.456,
+            40.452
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 49,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Tretboot am See für eine entspannende Pause.",
+            "hu": "Béreljen vízibiciklit a tavon egy pihentető szünethez.",
+            "ro": "Închiriați o barcă cu pedale pe lac pentru o pauză relaxantă.",
+            "en": "Rent a paddle boat on the lake for a relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke über den Henares",
+            "hu": "Híd a Henares folyón",
+            "ro": "Podul peste Henares",
+            "en": "Bridge over the Henares"
+          },
+          "coords": [
+            -3.49,
+            40.45
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Perfekt für einen Spaziergang bei Sonnenuntergang entlang des Flusses.",
+            "hu": "Tökéletes egy naplementi sétához a folyó mentén.",
+            "ro": "Perfect pentru o plimbare la apus de-a lungul râului.",
+            "en": "Perfect for a sunset stroll along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Torrejón beginnt an der lebhaften Plaza Mayor. Nach der Erkundung der historischen Kirche San Juan Evangelista und der Casa Grande tauchen Sie im Ikonenmuseum in die Kunst ein. Am Nachmittag spazieren Sie durch den riesigen Parque Europa, der Nachbildungen berühmter europäischer Monumente beherbergt. Der Tag endet mit einem ruhigen Spaziergang über die historische Brücke über den Fluss Henares, während die Sonne untergeht.",
+        "hu": "Torrejóni napja a nyüzsgő Plaza Mayoron kezdődik. A történelmi San Juan Evangelista templom és a Casa Grande felfedezése után merüljön el a művészetben az Ikonmúzeumban. Délután sétáljon át a hatalmas Európa Parkon, ahol híres európai műemlékek másolatai találhatók. A nap egy békés sétával zárul a Henares folyó történelmi hídján, miközben a nap lenyugszik.",
+        "ro": "Ziua dvs. în Torrejón începe în vibranta Plaza Mayor. După ce explorați istorica Biserică San Juan Evangelista și Casa Grande, vă cufundați în artă la Muzeul de Icoane. După-amiaza vă plimbați prin vastul Parque Europa, cu replicile sale ale monumentelor europene celebre. Ziua se încheie cu o plimbare liniștită peste podul istoric peste râul Henares la apus.",
+        "en": "Your day in Torrejón begins at the vibrant Plaza Mayor. After exploring the historic Church of San Juan Evangelista and La Casa Grande, immerse yourself in art at the Museum of Icons. The afternoon is for strolling through the vast Europa Park, home to replicas of famous European monuments. The day concludes with a peaceful walk across the historic bridge over the Henares river as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "Ein herzhafter Kichererbseneintopf, perfekt für ein sättigendes Mittagessen."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Ein klassisches Madrider Sandwich mit frittierten Tintenfischringen."
+          },
+          {
+            "name": "Restaurante-Asador El Coto",
+            "tip": "Bekannt für seine exzellenten Grillgerichte und traditionelle spanische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "Kiadós csicseriborsó-pörkölt, tökéletes egy laktató ebédhez."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Klasszikus madridi szendvics sült tintahalkarikákkal."
+          },
+          {
+            "name": "Restaurante-Asador El Coto",
+            "tip": "Kiváló grillezett húsairól és hagyományos spanyol konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "O tocană consistentă de năut, perfectă pentru un prânz sățios."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Un sandviș clasic madrilen cu inele de calamar prăjite."
+          },
+          {
+            "name": "Restaurante-Asador El Coto",
+            "tip": "Renumit pentru carnea la grătar excelentă și bucătăria tradițională spaniolă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "A hearty chickpea stew, perfect for a filling lunch."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "A classic Madrid sandwich with fried squid rings."
+          },
+          {
+            "name": "Restaurante-Asador El Coto",
+            "tip": "Known for its excellent grilled meats and traditional Spanish cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Soto del Henares",
+            "tip": "Ein ruhiger Spaziergang entlang des Flussufers, um dem Stadttrubel zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten von La Casa Grande",
+            "tip": "Finden Sie eine ruhige Ecke in den gepflegten Gärten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang an der Puente sobre el Henares",
+            "tip": "Beobachten Sie, wie die Sonne über dem Fluss untergeht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soto del Henares",
+            "tip": "Csendes séta a folyóparton, hogy elmeneküljön a városi nyüzsgéstől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "La Casa Grande kertjei",
+            "tip": "Találjon egy csendes zugot a gondozott kertekben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Puente sobre el Henares-nél",
+            "tip": "Nézze, ahogy a nap lenyugszik a folyó felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Soto del Henares",
+            "tip": "O plimbare liniștită de-a lungul malului râului pentru a evada din agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile de la La Casa Grande",
+            "tip": "Găsiți un colț liniștit în grădinile bine întreținute.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus la Puente sobre el Henares",
+            "tip": "Priviți soarele apunând peste râu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Soto del Henares",
+            "tip": "A quiet walk along the riverbank to escape the city buzz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of La Casa Grande",
+            "tip": "Find a peaceful corner within the well-kept gardens.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at Puente sobre el Henares",
+            "tip": "Watch the sun go down over the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Märkten rund um die Plaza Mayor für frische Produkte und Käse."
+          },
+          {
+            "name": "Calle Enmedio",
+            "tip": "Eine der Haupteinkaufsstraßen im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi piacokat a Plaza Mayor környékén friss termékekért és sajtokért."
+          },
+          {
+            "name": "Calle Enmedio",
+            "tip": "A városközpont egyik fő bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețe locale în jurul Plaza Mayor pentru produse proaspete și brânzeturi."
+          },
+          {
+            "name": "Calle Enmedio",
+            "tip": "Una dintre principalele străzi comerciale din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local markets around Plaza Mayor for fresh produce and cheese."
+          },
+          {
+            "name": "Calle Enmedio",
+            "tip": "One of the main shopping streets in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders an warmen Tagen.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie genügend Zeit für den Parque Europa ein, er ist sehr groß."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Hozzon magával vizet, különösen meleg napokon.",
+          "A központi látnivalók többsége könnyen elérhető gyalog.",
+          "Szánjon elég időt az Európa Parkra, nagyon nagy."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Luați apă cu dvs., mai ales în zilele călduroase.",
+          "Majoritatea atracțiilor centrale sunt ușor accesibile pe jos.",
+          "Planificați suficient timp pentru Parque Europa, este foarte mare."
+        ],
+        "en": [
+          "Wear comfortable shoes as this itinerary involves a lot of walking.",
+          "Carry water, especially on warm days.",
+          "Most central sights are within easy walking distance of each other.",
+          "Plan enough time for Europa Park; it's very large."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Soto del Henares",
+            "hu": "Soto del Henares",
+            "ro": "Soto del Henares",
+            "en": "Soto del Henares"
+          },
+          "coords": [
+            -3.505,
+            40.448
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer erfrischenden Radtour entlang des Flusses.",
+            "hu": "Kezdje a napot egy frissítő kerékpártúrával a folyó mentén.",
+            "ro": "Începeți ziua cu o plimbare revigorantă cu bicicleta de-a lungul râului.",
+            "en": "Start the day with a refreshing bike ride along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke über den Henares",
+            "hu": "Híd a Henares folyón",
+            "ro": "Podul peste Henares",
+            "en": "Bridge over the Henares"
+          },
+          "coords": [
+            -3.49,
+            40.45
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Halten Sie an, um die Aussicht und die historische Struktur zu bewundern.",
+            "hu": "Álljon meg, hogy megcsodálja a kilátást és a történelmi építményt.",
+            "ro": "Opriți-vă pentru a admira priveliștea și structura istorică.",
+            "en": "Stop to admire the view and the historic structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Főtér",
+            "ro": "Plaza Mayor",
+            "en": "Main Square"
+          },
+          "coords": [
+            -3.479,
+            40.457
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und genießen Sie die Atmosphäre des Hauptplatzes.",
+            "hu": "Zárja le a kerékpárját, és élvezze a főtér hangulatát.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosfera din piața principală.",
+            "en": "Lock up your bike and enjoy the atmosphere of the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Juan Evangelista",
+            "hu": "Keresztelő Szent János evangélista-templom",
+            "ro": "Biserica San Juan Evangelista",
+            "en": "Church of San Juan Evangelista"
+          },
+          "coords": [
+            -3.478,
+            40.4565
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz, lassen Sie Ihr Fahrrad abgeschlossen.",
+            "hu": "Egy rövid séta a térről, hagyja a kerékpárt lezárva.",
+            "ro": "O scurtă plimbare din piață, lăsați bicicleta încuiată.",
+            "en": "A short walk from the square, leave your bike locked."
+          }
+        },
+        {
+          "name": {
+            "de": "La Casa Grande",
+            "hu": "La Casa Grande",
+            "ro": "La Casa Grande",
+            "en": "La Casa Grande"
+          },
+          "coords": [
+            -3.477,
+            40.456
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade und die Gärten dieses historischen Gebäudes.",
+            "hu": "Csodálja meg ennek a történelmi épületnek a homlokzatát és kertjeit.",
+            "ro": "Admirați fațada și grădinile acestei clădiri istorice.",
+            "en": "Admire the facade and the gardens of this historic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Europa",
+            "hu": "Európa Park",
+            "ro": "Parque Europa",
+            "en": "Europa Park"
+          },
+          "coords": [
+            -3.456,
+            40.452
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick-Mittagessen. Es gibt viel Platz zum Radfahren.",
+            "hu": "Ideális hely egy piknik ebédhez. Bőven van hely a kerékpározásra.",
+            "ro": "Un loc ideal pentru un prânz la picnic. Există mult spațiu pentru ciclism.",
+            "en": "An ideal spot for a picnic lunch. There's plenty of space to cycle around."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Iconos",
+            "hu": "Ikonmúzeum",
+            "ro": "Muzeul de Icoane",
+            "en": "Museum of Icons"
+          },
+          "coords": [
+            -3.4775,
+            40.4555
+          ],
+          "category": "museums",
+          "arrive_at": "16:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer Dosis Kultur in diesem einzigartigen Museum.",
+            "hu": "Zárja a napot egy adag kultúrával ebben az egyedülálló múzeumban.",
+            "ro": "Încheiați ziua cu o doză de cultură la acest muzeu unic.",
+            "en": "End your day with a dose of culture at this unique museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im ruhigen Park Soto del Henares und fahren Sie entlang des Flusses zur historischen Brücke. Von dort aus radeln Sie ins Stadtzentrum, um die Plaza Mayor und die nahe gelegene Kirche zu erkunden. Nach der Bewunderung von La Casa Grande führt Sie eine längere Fahrt zum weitläufigen Parque Europa, ideal für eine Mittagspause. Ihr kultureller Abschluss des Tages ist das faszinierende Ikonenmuseum.",
+        "hu": "Kezdje kerékpártúráját a békés Soto del Henares parkban, tekerjen a folyó mentén a történelmi hídig. Onnan irány a városközpont, ahol felfedezheti a Plaza Mayort és a közeli templomot. A La Casa Grande megcsodálása után egy hosszabb út vezet a tágas Európa Parkba, amely ideális egy ebédszünethez. A nap kulturális befejezése a lenyűgöző Ikonmúzeum.",
+        "ro": "Începeți turul cu bicicleta în liniștitul parc Soto del Henares, pedalând de-a lungul râului până la podul istoric. De acolo, mergeți cu bicicleta în centrul orașului pentru a explora Plaza Mayor și biserica din apropiere. După ce admirați La Casa Grande, o plimbare mai lungă vă duce la vastul Parque Europa, ideal pentru o pauză de prânz. Finalul cultural al zilei este fascinantul Muzeu de Icoane.",
+        "en": "Start your cycling tour in the peaceful Soto del Henares park, riding along the river to the historic bridge. From there, cycle to the city center to explore Plaza Mayor and the nearby church. After admiring La Casa Grande, a longer ride takes you to the expansive Europa Park, ideal for a lunch break. Your cultural finish for the day is the fascinating Museum of Icons."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas-Bars in der Nähe der Plaza Mayor",
+            "tip": "Perfekt für einen schnellen und leckeren Happen zwischendurch."
+          },
+          {
+            "name": "Menú del Día",
+            "tip": "Suchen Sie nach Restaurants, die ein Mittagsmenü anbieten, um ein gutes Preis-Leistungs-Verhältnis zu erhalten."
+          },
+          {
+            "name": "La Competencia",
+            "tip": "Eine beliebte Pizzeria, um nach einem langen Radtag neue Energie zu tanken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas bárok a Plaza Mayor közelében",
+            "tip": "Tökéletes egy gyors és ízletes falathoz."
+          },
+          {
+            "name": "Menú del Día",
+            "tip": "Keressen éttermeket, amelyek napi menüt kínálnak a jó ár-érték arányért."
+          },
+          {
+            "name": "La Competencia",
+            "tip": "Népszerű pizzéria, ahol feltöltődhet egy hosszú kerékpáros nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baruri de tapas lângă Plaza Mayor",
+            "tip": "Perfect pentru o gustare rapidă și delicioasă."
+          },
+          {
+            "name": "Menú del Día",
+            "tip": "Căutați restaurante care oferă un meniu de prânz pentru un raport calitate-preț excelent."
+          },
+          {
+            "name": "La Competencia",
+            "tip": "O pizzerie populară pentru a vă reîncărca bateriile după o zi lungă de ciclism."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas bars near Plaza Mayor",
+            "tip": "Perfect for a quick and delicious bite between sights."
+          },
+          {
+            "name": "Menú del Día",
+            "tip": "Look for restaurants offering a 'menu of the day' for great value."
+          },
+          {
+            "name": "La Competencia",
+            "tip": "A popular pizzeria to refuel after a long day of cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Soto del Henares",
+            "tip": "Die ruhigen Wege sind perfekt, um Vögel zu beobachten und die Natur zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "See im Parque Europa",
+            "tip": "Machen Sie eine Pause am Ufer des Sees.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Flussufer des Henares",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer, weg vom Stadtzentrum.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soto del Henares",
+            "tip": "A csendes ösvények tökéletesek madármegfigyelésre és a természet élvezetére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tó az Európa Parkban",
+            "tip": "Tartson szünetet a tó partján.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Henares folyópart",
+            "tip": "Találjon egy csendes helyet a folyóparton, távol a városközponttól.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Soto del Henares",
+            "tip": "Potecile liniștite sunt perfecte pentru observarea păsărilor și pentru a vă bucura de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lacul din Parque Europa",
+            "tip": "Luați o pauză pe malul lacului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul râului Henares",
+            "tip": "Găsiți un loc liniștit pe malul râului, departe de centrul orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Soto del Henares",
+            "tip": "The quiet trails are perfect for birdwatching and enjoying nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lake in Europa Park",
+            "tip": "Take a break by the shore of the lake.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Henares Riverbank",
+            "tip": "Find a quiet spot by the riverbank, away from the city center.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In der Stadt gibt es mehrere Geschäfte für eventuelle Reparaturen oder Zubehör."
+          },
+          {
+            "name": "Souvenirs im Parque Europa",
+            "tip": "Im Park finden Sie kleine Kioske mit Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A városban több bolt is található esetleges javításokhoz vagy kiegészítőkhöz."
+          },
+          {
+            "name": "Szuvenírek az Európa Parkban",
+            "tip": "A parkban kis kioszkokat talál, ahol ajándéktárgyakat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Există mai multe magazine în oraș pentru eventuale reparații sau accesorii."
+          },
+          {
+            "name": "Suveniruri în Parque Europa",
+            "tip": "Veți găsi mici chioșcuri care vând suveniruri în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "There are several shops in town for any potential repairs or accessories."
+          },
+          {
+            "name": "Souvenirs at Europa Park",
+            "tip": "You can find small kiosks selling keepsakes within the park."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Bringen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Die Radwege entlang des Flusses sind flach und einfach.",
+          "Der Parque Europa hat ausgewiesene Wege, die sich gut zum Radfahren eignen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Hozzon magával lakatot, hogy biztonságban tudja a kerékpárját a megállóknál.",
+          "A folyó menti kerékpárutak síkak és könnyen járhatók.",
+          "Az Európa Parkban kijelölt, kerékpározásra alkalmas utak vannak."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Aduceți un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Pistele de biciclete de-a lungul râului sunt plate și ușoare.",
+          "Parque Europa are poteci desemnate, potrivite pentru ciclism."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Bring a lock to secure your bike at stops.",
+          "The cycle paths along the river are flat and easy.",
+          "Europa Park has designated paths that are good for cycling."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 11.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque Europa",
+            "hu": "Európa Park",
+            "ro": "Parque Europa",
+            "en": "Europa Park"
+          },
+          "coords": [
+            -3.456,
+            40.452
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hauptparkplatz. Der Park ist riesig, planen Sie also einen langen Spaziergang ein.",
+            "hu": "Hajtson a fő parkolóhoz. A park hatalmas, tervezzen egy hosszú sétát.",
+            "ro": "Conduceți la parcarea principală. Parcul este vast, așa că planificați o plimbare lungă în interior.",
+            "en": "Drive to the main parking area. The park is huge, so plan for a long walk inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Soto del Henares",
+            "hu": "Soto del Henares",
+            "ro": "Soto del Henares",
+            "en": "Soto del Henares"
+          },
+          "coords": [
+            -3.505,
+            40.448
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein Kontrast zum städtischen Park. Genießen Sie die natürliche Landschaft.",
+            "hu": "Ellentétben a városi parkkal. Élvezze a természetes tájat.",
+            "ro": "Un contrast cu parcul urban. Bucurați-vă de peisajul natural.",
+            "en": "A contrast to the urban park. Enjoy the natural landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken im Stadtzentrum",
+            "hu": "Parkolás a központban",
+            "ro": "Parcare în centru",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            -3.48,
+            40.459
+          ],
+          "category": "transport",
+          "arrive_at": "13:25",
+          "stay_min": 0,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon itt a nap hátralévő részére, és fedezze fel a központot gyalog.",
+            "ro": "Parcați aici pentru restul zilei și explorați centrul pe jos.",
+            "en": "Park here for the rest of the day and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Főtér",
+            "ro": "Plaza Mayor",
+            "en": "Main Square"
+          },
+          "coords": [
+            -3.479,
+            40.457
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zeit für das Mittagessen. Wählen Sie eines der vielen Restaurants am Platz.",
+            "hu": "Ebédidő. Válasszon a tér számos étterme közül.",
+            "ro": "Timpul pentru prânz. Alegeți unul dintre multele restaurante din piață.",
+            "en": "Time for lunch. Choose one of the many restaurants in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Juan Evangelista",
+            "hu": "Keresztelő Szent János evangélista-templom",
+            "ro": "Biserica San Juan Evangelista",
+            "en": "Church of San Juan Evangelista"
+          },
+          "coords": [
+            -3.478,
+            40.4565
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen ein kurzer Spaziergang zu diesem historischen Juwel.",
+            "hu": "Ebéd után egy rövid séta ehhez a történelmi gyöngyszemhez.",
+            "ro": "După prânz, o scurtă plimbare până la această bijuterie istorică.",
+            "en": "After lunch, a short walk to this historic gem."
+          }
+        },
+        {
+          "name": {
+            "de": "La Casa Grande",
+            "hu": "La Casa Grande",
+            "ro": "La Casa Grande",
+            "en": "La Casa Grande"
+          },
+          "coords": [
+            -3.477,
+            40.456
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur, bevor Sie zum Museum weitergehen.",
+            "hu": "Csodálja meg az építészetet, mielőtt továbbmenne a múzeumba.",
+            "ro": "Admirați arhitectura înainte de a vă îndrepta spre muzeu.",
+            "en": "Admire the architecture before heading to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Iconos",
+            "hu": "Ikonmúzeum",
+            "ro": "Muzeul de Icoane",
+            "en": "Museum of Icons"
+          },
+          "coords": [
+            -3.4775,
+            40.4555
+          ],
+          "category": "museums",
+          "arrive_at": "16:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kultureller Abschluss des Tages, nur einen kurzen Spaziergang entfernt.",
+            "hu": "A nap kulturális befejezése, csak egy rövid sétára.",
+            "ro": "Un final cultural al zilei, la o scurtă plimbare distanță.",
+            "en": "A cultural end to the day, just a short walk away."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im beeindruckenden Parque Europa. Nach einem ausgiebigen Spaziergang fahren Sie zum natürlichen Kontrast des Soto del Henares. Am Nachmittag parken Sie im Zentrum von Torrejón. Von dort aus erkunden Sie zu Fuß die Plaza Mayor zum Mittagessen, gefolgt von der historischen Kirche San Juan, der eleganten Casa Grande und dem einzigartigen Ikonenmuseum. Dieses Cluster-Walking ermöglicht es Ihnen, das Herz der Stadt ohne Parkplatzsuche zu erleben.",
+        "hu": "Autós napja a lenyűgöző Európa Parkban kezdődik. Egy alapos séta után áthajt a Soto del Henares természetes kontrasztjához. Délután Torrejón központjában parkol le. Onnan gyalog fedezi fel a Plaza Mayort ebédre, majd a történelmi San Juan templomot, az elegáns Casa Grandét és az egyedülálló Ikonmúzeumot. Ez a csoportos séta lehetővé teszi, hogy parkolási gondok nélkül élvezze a város szívét.",
+        "ro": "Ziua cu mașina începe la impresionantul Parque Europa. După o plimbare extinsă, conduceți către contrastul natural din Soto del Henares. După-amiaza, parcați în centrul orașului Torrejón. De acolo, explorați pe jos Plaza Mayor pentru prânz, urmată de istorica Biserică San Juan, eleganta Casa Grande și unicul Muzeu de Icoane. Această plimbare pe clustere vă permite să experimentați inima orașului fără grija parcării.",
+        "en": "Your car day begins at the impressive Europa Park. After an extensive walk, you drive to the natural contrast of Soto del Henares. In the afternoon, park in the center of Torrejón. From there, you'll explore on foot: Plaza Mayor for lunch, followed by the historic San Juan Church, the elegant Casa Grande, and the unique Museum of Icons. This cluster-walking lets you experience the heart of the city without the hassle of parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Asador-Restaurants",
+            "tip": "Suchen Sie nach einem 'Asador' für exzellentes gegrilltes Fleisch."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Ein klassischer spanischer Nachmittagssnack."
+          },
+          {
+            "name": "Mesón Cervantes",
+            "tip": "Bietet authentische kastilische Küche in einem traditionellen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Asador éttermek",
+            "tip": "Keressen egy 'Asador'-t a kiváló grillezett húsokért."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Klasszikus spanyol délutáni snack."
+          },
+          {
+            "name": "Mesón Cervantes",
+            "tip": "Autentikus kasztíliai konyhát kínál hagyományos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Asador",
+            "tip": "Căutați un 'Asador' pentru carne la grătar excelentă."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "O gustare spaniolă clasică de după-amiază."
+          },
+          {
+            "name": "Mesón Cervantes",
+            "tip": "Oferă bucătărie castiliană autentică într-un cadru tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Asador Restaurants",
+            "tip": "Look for an 'Asador' for excellent grilled meats."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "A classic Spanish afternoon snack."
+          },
+          {
+            "name": "Mesón Cervantes",
+            "tip": "Offers authentic Castilian cuisine in a traditional setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque del Ocio",
+            "tip": "Ein weiterer großer Park, oft ruhiger als der Parque Europa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Fluss Henares",
+            "tip": "Fahren Sie zu einem abgelegenen Teil des Flusses für einen ruhigen Moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gärten von La Casa Grande",
+            "tip": "Ein verborgenes Juwel der Ruhe im Stadtzentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque del Ocio",
+            "tip": "Egy másik nagy park, gyakran csendesebb, mint az Európa Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a Henares folyó mentén",
+            "tip": "Hajtson a folyó egy félreeső szakaszához egy csendes pillanatért.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "La Casa Grande kertjei",
+            "tip": "A nyugalom rejtett gyöngyszeme a városközpontban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque del Ocio",
+            "tip": "Un alt parc mare, adesea mai liniștit decât Parque Europa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul râului Henares",
+            "tip": "Conduceți spre o porțiune izolată a râului pentru un moment de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile de la La Casa Grande",
+            "tip": "O bijuterie ascunsă de liniște în centrul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque del Ocio",
+            "tip": "Another large park, often quieter than Europa Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Henares River Walk",
+            "tip": "Drive to a secluded part of the river for a quiet moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gardens of La Casa Grande",
+            "tip": "A hidden gem of tranquility in the city center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Parque Corredor Shopping Center",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand für Marken-Shopping."
+          },
+          {
+            "name": "Lokale Delikatessenläden",
+            "tip": "Kaufen Sie Olivenöl, Wein und Käse aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Corredor bevásárlóközpont",
+            "tip": "Nagy bevásárlóközpont a város szélén márkás vásárláshoz."
+          },
+          {
+            "name": "Helyi csemegeboltok",
+            "tip": "Vásároljon helyi olívaolajat, bort és sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Parque Corredor",
+            "tip": "Un mare centru comercial la marginea orașului pentru cumpărături de marcă."
+          },
+          {
+            "name": "Magazine de delicatese locale",
+            "tip": "Cumpărați ulei de măsline, vin și brânzeturi locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque Corredor Shopping Center",
+            "tip": "A large mall on the outskirts for brand-name shopping."
+          },
+          {
+            "name": "Local Delicatessen Shops",
+            "tip": "Buy some local olive oil, wine, and cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Zentrum schwierig sein, nutzen Sie Tiefgaragen.",
+          "Planen Sie Ihre Route im Voraus, um Verkehr zu vermeiden.",
+          "Das Auto gibt Ihnen die Flexibilität, auch Orte außerhalb des unmittelbaren Zentrums zu besuchen.",
+          "Beachten Sie die Parkgebühren in den zentralen Bereichen."
+        ],
+        "hu": [
+          "A parkolás nehézkes lehet a központban, használjon mélygarázsokat.",
+          "Tervezze meg előre az útvonalat a forgalom elkerülése érdekében.",
+          "Az autó rugalmasságot ad a közvetlen központon kívüli helyek meglátogatásához is.",
+          "Vegye figyelembe a parkolási díjakat a központi területeken."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în centru, folosiți parcările subterane.",
+          "Planificați-vă traseul în avans pentru a evita traficul.",
+          "Mașina vă oferă flexibilitatea de a vizita locuri din afara centrului imediat.",
+          "Fiți atenți la taxele de parcare din zonele centrale."
+        ],
+        "en": [
+          "Parking can be tricky in the center; use underground car parks.",
+          "Plan your route in advance to avoid traffic.",
+          "The car gives you the flexibility to visit places outside the immediate center.",
+          "Be mindful of parking fees in central areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Torrejón de Ardoz",
+            "hu": "Érkezés a Torrejón de Ardoz állomásra",
+            "ro": "Sosire la gara Torrejón de Ardoz",
+            "en": "Arrival at Torrejón de Ardoz Station"
+          },
+          "coords": [
+            -3.483,
+            40.455
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Cercanías-Zug aus Madrid ist eine bequeme Anreisemöglichkeit.",
+            "hu": "A Madridból érkező Cercanías vonat kényelmes módja az érkezésnek.",
+            "ro": "Trenul Cercanías din Madrid este o modalitate convenabilă de a ajunge.",
+            "en": "The Cercanías train from Madrid is a convenient way to arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Főtér",
+            "ro": "Plaza Mayor",
+            "en": "Main Square"
+          },
+          "coords": [
+            -3.479,
+            40.457
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof zum Herzen der Stadt.",
+            "hu": "Rövid séta az állomástól a város szívéig.",
+            "ro": "O scurtă plimbare de la gară până în inima orașului.",
+            "en": "A short walk from the station to the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Juan Evangelista & La Casa Grande",
+            "hu": "San Juan Evangelista templom & La Casa Grande",
+            "ro": "Biserica San Juan Evangelista & La Casa Grande",
+            "en": "Church of San Juan Evangelista & La Casa Grande"
+          },
+          "coords": [
+            -3.477,
+            40.456
+          ],
+          "category": "cluster",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beiden historischen Stätten, die nahe beieinander liegen.",
+            "hu": "Fedezze fel ezt a két, egymáshoz közel fekvő történelmi helyszínt.",
+            "ro": "Explorați aceste două situri istorice, care sunt apropiate unul de celălalt.",
+            "en": "Explore these two historic sites, which are close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Europa",
+            "hu": "Európa Park",
+            "ro": "Parque Europa",
+            "en": "Europa Park"
+          },
+          "coords": [
+            -3.456,
+            40.452
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:55",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus (Linie 224-A) vom Zentrum zum Park.",
+            "hu": "Vegyen egy helyi buszt (224-A járat) a központból a parkba.",
+            "ro": "Luați un autobuz local (linia 224-A) din centru spre parc.",
+            "en": "Take a local bus (Line 224-A) from the center to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Iconos",
+            "hu": "Ikonmúzeum",
+            "ro": "Muzeul de Icoane",
+            "en": "Museum of Icons"
+          },
+          "coords": [
+            -3.4775,
+            40.4555
+          ],
+          "category": "museums",
+          "arrive_at": "15:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ins Zentrum für Ihren letzten Halt.",
+            "hu": "Menjen busszal vissza a központba az utolsó megállóhoz.",
+            "ro": "Luați autobuzul înapoi în centru pentru ultima oprire.",
+            "en": "Take the bus back towards the center for your last stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente sobre el Henares",
+            "hu": "Híd a Henares folyón",
+            "ro": "Podul peste Henares",
+            "en": "Bridge over the Henares"
+          },
+          "coords": [
+            -3.49,
+            40.45
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang zum Abschluss, bevor Sie zum Bahnhof zurückkehren.",
+            "hu": "Egy pihentető séta a befejezéshez, mielőtt visszatérne az állomásra.",
+            "ro": "O plimbare relaxantă pentru a încheia ziua înainte de a vă întoarce la gară.",
+            "en": "A relaxing final walk before heading back to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach der Ankunft mit dem Zug erkunden Sie das historische Zentrum von Torrejón zu Fuß, beginnend mit der Plaza Mayor. Ein lokaler Bus bringt Sie dann zum riesigen Parque Europa für den Großteil des Nachmittags. Nach der Rückkehr ins Zentrum tauchen Sie im Ikonenmuseum in die Kunst ein. Ein letzter Spaziergang führt Sie zur alten Brücke über den Henares, ein perfekter Abschluss, bevor Sie Ihren Zug zurück nehmen.",
+        "hu": "Vonattal érkezve gyalogosan fedezi fel Torrejón történelmi központját, a Plaza Mayorral kezdve. Ezután egy helyi busz elviszi a hatalmas Európa Parkba a délután nagy részére. A központba visszatérve elmerül a művészetben az Ikonmúzeumban. Egy utolsó séta elvezeti a régi Henares-hídhoz, tökéletes befejezés, mielőtt visszaindulna a vonattal.",
+        "ro": "Sosind cu trenul, explorați centrul istoric al Torrejónului pe jos, începând cu Plaza Mayor. Un autobuz local vă duce apoi la vastul Parque Europa pentru cea mai mare parte a după-amiezii. La întoarcerea în centru, vă cufundați în artă la Muzeul de Icoane. O plimbare finală vă duce la vechiul pod peste Henares, o încheiere perfectă înainte de a lua trenul înapoi.",
+        "en": "Arriving by train, you'll explore Torrejón's historic center on foot, starting with Plaza Mayor. A local bus then whisks you away to the vast Europa Park for the bulk of the afternoon. After returning to the center, immerse yourself in art at the Museum of Icons. A final walk takes you to the old bridge over the Henares, a perfect end before catching your train back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckereien in der Nähe des Bahnhofs",
+            "tip": "Holen Sie sich Gebäck für die Zugfahrt zurück."
+          },
+          {
+            "name": "Cafés an der Plaza Mayor",
+            "tip": "Ideal für eine Pause und um Leute zu beobachten."
+          },
+          {
+            "name": "Restaurante-Marisquería Peñafiel",
+            "tip": "Eine gute Option für Meeresfrüchte im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek az állomás közelében",
+            "tip": "Szerezzen be péksüteményt a visszaútra."
+          },
+          {
+            "name": "Kávézók a Plaza Mayoron",
+            "tip": "Ideális egy szünetre és emberek nézésére."
+          },
+          {
+            "name": "Restaurante-Marisquería Peñafiel",
+            "tip": "Jó választás tengeri ételekre a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Patiserii lângă gară",
+            "tip": "Luați produse de patiserie pentru călătoria cu trenul înapoi."
+          },
+          {
+            "name": "Cafenele în Plaza Mayor",
+            "tip": "Ideal pentru o pauză și pentru a privi oamenii."
+          },
+          {
+            "name": "Restaurante-Marisquería Peñafiel",
+            "tip": "O opțiune bună pentru fructe de mare în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakeries near the station",
+            "tip": "Grab some pastries for the train ride back."
+          },
+          {
+            "name": "Cafés in Plaza Mayor",
+            "tip": "Ideal for a break and some people-watching."
+          },
+          {
+            "name": "Restaurante-Marisquería Peñafiel",
+            "tip": "A good option for seafood in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Griechisches Theater im Parque Europa",
+            "tip": "Ein oft ruhiger Bereich im Park mit schöner Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seitenstraßen im Zentrum",
+            "tip": "Verirren Sie sich in den Gassen abseits der Hauptplätze.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Flussufer bei Sonnenuntergang",
+            "tip": "Ein friedlicher Ort, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Görög színház az Európa Parkban",
+            "tip": "Gyakran csendes terület a parkban, szép kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mellékutcák a központban",
+            "tip": "Tévedjen el a főterektől távolabb eső sikátorokban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Folyópart naplementekor",
+            "tip": "Békés hely a nap befejezéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Teatrul Grec din Parque Europa",
+            "tip": "O zonă adesea liniștită în parc, cu o priveliște frumoasă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străzi lăturalnice în centru",
+            "tip": "Pierdeți-vă pe aleile departe de piețele principale.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul râului la apus",
+            "tip": "Un loc pașnic pentru a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Greek Theatre in Europa Park",
+            "tip": "An often quiet area within the park with a nice view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Side streets in the center",
+            "tip": "Get lost in the alleys away from the main squares.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Riverbank at sunset",
+            "tip": "A peaceful spot to end the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Calle Mayor",
+            "tip": "Die Haupteinkaufsstraße, die von der Plaza Mayor ausgeht."
+          },
+          {
+            "name": "Keramik",
+            "tip": "Suchen Sie nach handbemalter spanischer Keramik als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Calle Mayoron",
+            "tip": "A fő bevásárlóutca a Plaza Mayortól indul."
+          },
+          {
+            "name": "Kerámia",
+            "tip": "Keressen kézzel festett spanyol kerámiát szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe Calle Mayor",
+            "tip": "Principala stradă comercială care pornește din Plaza Mayor."
+          },
+          {
+            "name": "Ceramică",
+            "tip": "Căutați ceramică spaniolă pictată manual ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Calle Mayor",
+            "tip": "The main commercial street leading from Plaza Mayor."
+          },
+          {
+            "name": "Ceramics",
+            "tip": "Look for hand-painted Spanish ceramics as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Multi-Trip-Karte für die Busse, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere am Wochenende.",
+          "Die Cercanías-Züge sind oft die schnellste Verbindung nach Madrid.",
+          "Behalten Sie Ihre Sachen an belebten Haltestellen im Auge."
+        ],
+        "hu": [
+          "Vásároljon több utazásra szóló kártyát a buszokra, ha több utat tervez.",
+          "Ellenőrizze előre a buszmenetrendeket, különösen hétvégén.",
+          "A Cercanías vonatok gyakran a leggyorsabb összeköttetést jelentik Madriddal.",
+          "Tartsa szemmel a holmiját a forgalmas megállókban."
+        ],
+        "ro": [
+          "Cumpărați un card cu mai multe călătorii pentru autobuze dacă plănuiți mai multe curse.",
+          "Verificați orarele autobuzelor în avans, mai ales în weekend.",
+          "Trenurile Cercanías sunt adesea cea mai rapidă legătură cu Madridul.",
+          "Fiți cu ochii pe bunurile dvs. în stațiile aglomerate."
+        ],
+        "en": [
+          "Buy a multi-trip card for the buses if you plan on several journeys.",
+          "Check bus schedules in advance, especially on weekends.",
+          "Cercanías trains are often the fastest way to connect to Madrid.",
+          "Keep an eye on your belongings at busy stops."
+        ]
+      }
+    }
+  }
+}

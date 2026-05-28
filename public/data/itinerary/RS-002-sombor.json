@@ -1,0 +1,1206 @@
+{
+  "city_id": "RS-002-sombor",
+  "anchor": {
+    "name": "Sombor",
+    "coords": [
+      19.1125,
+      45.7739
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Komitatshaus (Županija)",
+            "hu": "Vármegyeháza (Županija)",
+            "ro": "Palatul Comitatului (Županija)",
+            "en": "County Hall (Županija)"
+          },
+          "coords": [
+            19.1158,
+            45.775
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das riesige Gemälde 'Die Schlacht bei Senta' im Inneren, es ist eines der größten Ölgemälde Europas.",
+            "hu": "Csodálja meg a 'Zentai csata' című hatalmas festményt odabent, Európa egyik legnagyobb olajfestménye.",
+            "ro": "Admirați pictura uriașă 'Bătălia de la Senta' în interior, una dintre cele mai mari picturi în ulei din Europa.",
+            "en": "Admire the huge painting 'The Battle of Senta' inside, it is one of the largest oil paintings in Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitskirche",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Holy Trinity Church"
+          },
+          "coords": [
+            19.115,
+            45.7745
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die reiche Rokoko-Innenausstattung und die beeindruckende Orgel.",
+            "hu": "Figyelje meg a gazdag rokokó belső teret és a lenyűgöző orgonát.",
+            "ro": "Observați interiorul bogat în stil rococo și orga impresionantă.",
+            "en": "Pay attention to the rich Rococo interior and the impressive organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie Milan Konjović",
+            "hu": "Milan Konjović Galéria",
+            "ro": "Galeria Milan Konjović",
+            "en": "Milan Konjović Gallery"
+          },
+          "coords": [
+            19.1145,
+            45.7748
+          ],
+          "category": "museums",
+          "arrive_at": "10:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fokus auf die 'blaue Phase' des Künstlers, die von seiner Zeit in Paris inspiriert wurde.",
+            "hu": "Koncentráljon a művész 'kék korszakára', amelyet párizsi időszaka ihletett.",
+            "ro": "Concentrați-vă pe 'perioada albastră' a artistului, inspirată de timpul petrecut la Paris.",
+            "en": "Focus on the artist's 'blue phase', inspired by his time in Paris."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Sombor",
+            "hu": "Zombori Városi Múzeum",
+            "ro": "Muzeul orașului Sombor",
+            "en": "Sombor City Museum"
+          },
+          "coords": [
+            19.111,
+            45.776
+          ],
+          "category": "museums",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die archäologische Abteilung zeigt Artefakte aus der römischen und awarischen Zeit.",
+            "hu": "A régészeti osztály római és avar kori leleteket mutat be.",
+            "ro": "Departamentul de arheologie expune artefacte din perioadele romană și avară.",
+            "en": "The archaeological department displays artifacts from the Roman and Avar periods."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Georg",
+            "hu": "Szent György templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Church of Saint George"
+          },
+          "coords": [
+            19.108,
+            45.7725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:46",
+          "stay_min": 45,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Diese serbisch-orthodoxe Kirche hat eine prächtige Ikonostase, die einen Besuch wert ist.",
+            "hu": "Ez a szerb ortodox templom egy csodálatos ikonosztázzal rendelkezik, amelyet érdemes megnézni.",
+            "ro": "Această biserică sârbă-ortodoxă are o iconostasă magnifică ce merită vizitată.",
+            "en": "This Serbian-Orthodox church has a magnificent iconostasis that is well worth a visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationaltheater Sombor",
+            "hu": "Zombori Népszínház",
+            "ro": "Teatrul Național Sombor",
+            "en": "Sombor National Theatre"
+          },
+          "coords": [
+            19.1128,
+            45.773
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Überprüfen Sie das Programm im Voraus, vielleicht können Sie eine Abendvorstellung erwischen.",
+            "hu": "Ellenőrizze előre a műsort, talán elcsíphet egy esti előadást.",
+            "ro": "Verificați programul în avans, poate prindeți un spectacol de seară.",
+            "en": "Check the schedule in advance; you might catch an evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Helden",
+            "hu": "Hősök Parkja",
+            "ro": "Parcul Eroilor",
+            "en": "Park of Heroes"
+          },
+          "coords": [
+            19.119,
+            45.778
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:22",
+          "stay_min": 120,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang am späten Nachmittag. Suchen Sie nach dem Karpfen-Brunnen.",
+            "hu": "Tökéletes hely egy pihentető késő délutáni sétához. Keresse meg a Ponty-kutat.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă la sfârșitul după-amiezii. Căutați Fântâna Crapului.",
+            "en": "A perfect spot for a relaxing late afternoon walk. Look for the Carp Fountain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Sombor, am majestätischen Komitatshaus. Der Vormittag ist der Erkundung der heiligen und künstlerischen Seele der Stadt gewidmet, mit Besuchen der Dreifaltigkeitskirche und der Konjović-Galerie. Nach dem Mittagessen tauchen Sie im Stadtmuseum und in der orthodoxen Kirche des Heiligen Georg tiefer in die Geschichte ein. Schließen Sie Ihren Tag mit einem kulturellen Zwischenstopp am Nationaltheater ab, bevor Sie sich im grünen Park der Helden entspannen.",
+        "hu": "Kezdje a napot Zombor szívében, a fenséges Vármegyeházánál. A délelőtt a város szakrális és művészi lelkének felfedezésével telik, a Szentháromság-templom és a Konjović Galéria meglátogatásával. Ebéd után merüljön el mélyebben a történelemben a Városi Múzeumban és a Szent György ortodox templomban. A napot egy kulturális megállóval zárja a Népszínháznál, mielőtt a zöldellő Hősök Parkjában pihenne.",
+        "ro": "Începeți ziua în inima orașului Sombor, la majestuosul Palat al Comitatului. Dimineața este dedicată explorării sufletului sacru și artistic al orașului, cu vizite la Biserica Sfânta Treime și Galeria Konjović. După prânz, aprofundați istoria la Muzeul Orașului și la Biserica Ortodoxă Sfântul Gheorghe. Încheiați ziua cu o oprire culturală la Teatrul Național înainte de a vă relaxa în Parcul Eroilor.",
+        "en": "Start your day in the heart of Sombor at the majestic County Hall. The morning is for exploring the city's sacred and artistic soul, visiting the Holy Trinity Church and the Konjović Gallery. After lunch, delve deeper into history at the City Museum and the Saint George Orthodox Church. Conclude your day with a cultural stop at the National Theatre before unwinding in the verdant Park of Heroes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Riblja čarda",
+            "tip": "Probieren Sie den 'Ribić paprikaš' (Fischpaprikasch), eine lokale Spezialität."
+          },
+          {
+            "name": "Restoran Stari Fenjer",
+            "tip": "Bekannt für traditionelle serbische Grillgerichte in einem rustikalen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Kóstolja meg a 'riblji paprikaš'-t (halpaprikást), egy helyi specialitást."
+          },
+          {
+            "name": "Stari Fenjer Étterem",
+            "tip": "Híres a hagyományos szerb grillételeiről, rusztikus környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Riblja čarda",
+            "tip": "Încercați 'ribić paprikaš' (papricaș de pește), o specialitate locală."
+          },
+          {
+            "name": "Restaurant Stari Fenjer",
+            "tip": "Renumit pentru preparatele tradiționale sârbești la grătar într-un cadru rustic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Riblja čarda (Fish tavern)",
+            "tip": "Try the 'ribić paprikaš' (fish paprikash), a local specialty."
+          },
+          {
+            "name": "Stari Fenjer Restaurant",
+            "tip": "Known for traditional Serbian grilled dishes in a rustic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Großen Bačka-Kanal",
+            "tip": "Ein ruhiger Spaziergang entlang des Kanals bietet eine friedliche Flucht aus dem Stadtzentrum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park der Helden",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die üppige grüne Umgebung.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Nagy-Bácskai-csatorna mentén",
+            "tip": "Egy csendes séta a csatorna mentén békés kikapcsolódást nyújt a városközpontból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hősök Parkja",
+            "tip": "Keressen egy csendes padot, és élvezze a buja zöld környezetet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul Canalului Mare Bačka",
+            "tip": "O plimbare liniștită de-a lungul canalului oferă o evadare pașnică din centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Eroilor",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de împrejurimile verzi și luxuriante.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk by the Great Bačka Canal",
+            "tip": "A quiet stroll along the canal offers a peaceful escape from the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park of Heroes",
+            "tip": "Find a quiet bench and enjoy the lush green surroundings.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt von Sombor (Pijaca)",
+            "tip": "Kaufen Sie frische lokale Produkte, Käse und hausgemachte Waren."
+          },
+          {
+            "name": "Souvenirläden in der Innenstadt",
+            "tip": "Suchen Sie nach handgefertigter Keramik und traditionellen Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zombori piac (Pijaca)",
+            "tip": "Vásároljon friss helyi termékeket, sajtokat és házi készítésű árukat."
+          },
+          {
+            "name": "Belvárosi ajándékboltok",
+            "tip": "Keressen kézzel készített kerámiákat és hagyományos textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Sombor (Pijaca)",
+            "tip": "Cumpărați produse locale proaspete, brânzeturi și bunuri de casă."
+          },
+          {
+            "name": "Magazine de suveniruri din centru",
+            "tip": "Căutați ceramică lucrată manual și textile tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sombor Market (Pijaca)",
+            "tip": "Shop for fresh local produce, cheeses, and homemade goods."
+          },
+          {
+            "name": "Downtown Souvenir Shops",
+            "tip": "Look for handcrafted pottery and traditional textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster im Stadtzentrum uneben sein kann.",
+          "Sombor ist als 'die grünste Stadt' Serbiens bekannt, nehmen Sie sich also Zeit, die vielen Parks und Alleen zu genießen.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Halten Sie immer etwas Bargeld (serbische Dinar) für kleine Einkäufe und Eintritte bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a belvárosi macskakövek egyenetlenek lehetnek.",
+          "Zombor Szerbia 'legzöldebb városaként' ismert, ezért szánjon időt a sok park és fasor élvezetére.",
+          "A legtöbb központi látnivaló könnyen megközelíthető gyalog.",
+          "Mindig tartson magánál némi készpénzt (szerb dinárt) a kisebb vásárlásokhoz és belépőkhöz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul orașului poate fi denivelat.",
+          "Sombor este cunoscut ca 'cel mai verde oraș' din Serbia, așa că acordați-vă timp pentru a vă bucura de numeroasele parcuri și alei.",
+          "Majoritatea atracțiilor din centru sunt la distanță de mers pe jos.",
+          "Aveți întotdeauna la îndemână numerar (dinari sârbești) pentru cumpărături mici și bilete de intrare."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the city center can be uneven.",
+          "Sombor is known as 'the greenest city' in Serbia, so take time to enjoy its many parks and tree-lined avenues.",
+          "Most central sights are within easy walking distance of each other.",
+          "Always have some cash (Serbian Dinars) on hand for small purchases and entrance fees."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Park der Helden & Karpfen-Brunnen",
+            "hu": "Hősök Parkja és Ponty-kút",
+            "ro": "Parcul Eroilor & Fântâna Crapului",
+            "en": "Park of Heroes & Carp Fountain"
+          },
+          "coords": [
+            19.119,
+            45.778
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einer leichten Radtour durch den Park, um die grüne Atmosphäre der Stadt zu genießen.",
+            "hu": "Kezdje a napot egy könnyű kerékpártúrával a parkban, hogy magába szívja a város zöld hangulatát.",
+            "ro": "Începeți ziua cu o plimbare ușoară cu bicicleta prin parc pentru a absorbi atmosfera verde a orașului.",
+            "en": "Start the day with a light bike ride through the park to soak in the city's green atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Komitatshaus (Županija)",
+            "hu": "Vármegyeháza (Županija)",
+            "ro": "Palatul Comitatului (Županija)",
+            "en": "County Hall (Županija)"
+          },
+          "coords": [
+            19.1158,
+            45.775
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:01",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich Zeit, das beeindruckende Gebäude zu bewundern.",
+            "hu": "Parkolja le a kerékpárt a közelben, és szánjon időt a lenyűgöző épület megcsodálására.",
+            "ro": "Parcați bicicleta în apropiere și admirați clădirea impresionantă.",
+            "en": "Park your bike nearby and take time to admire the impressive building."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitskirche",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Holy Trinity Church"
+          },
+          "coords": [
+            19.115,
+            45.7745
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Hauptplatz entfernt. Der Kontrast der Architektur ist bemerkenswert.",
+            "hu": "Csak egy rövid út a főtértől. Az építészeti kontraszt figyelemre méltó.",
+            "ro": "La o scurtă plimbare cu bicicleta de piața principală. Contrastul arhitectural este remarcabil.",
+            "en": "A quick ride from the main square. The contrast in architecture is notable."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie Milan Konjović",
+            "hu": "Milan Konjović Galéria",
+            "ro": "Galeria Milan Konjović",
+            "en": "Milan Konjović Gallery"
+          },
+          "coords": [
+            19.1145,
+            45.7748
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine großartige Möglichkeit, sich in der Mitte des Vormittags in die Kunst zu vertiefen.",
+            "hu": "Remek alkalom a délelőtt közepén elmélyülni a művészetben.",
+            "ro": "O modalitate excelentă de a vă cufunda în artă la mijlocul dimineții.",
+            "en": "A great way to immerse yourself in art mid-morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationaltheater Sombor",
+            "hu": "Zombori Népszínház",
+            "ro": "Teatrul Național Sombor",
+            "en": "Sombor National Theatre"
+          },
+          "coords": [
+            19.1128,
+            45.773
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:49",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fahren Sie am Theater vorbei, um seine neoklassizistische Fassade zu sehen.",
+            "hu": "Tekerjen el a színház mellett, hogy megnézze neoklasszicista homlokzatát.",
+            "ro": "Treceți cu bicicleta pe lângă teatru pentru a-i vedea fațada neoclasică.",
+            "en": "Cycle past the theatre to see its neoclassical facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Georg",
+            "hu": "Szent György templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Church of Saint George"
+          },
+          "coords": [
+            19.108,
+            45.7725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein etwas längerer Ausflug, um die beeindruckende orthodoxe Kunst zu sehen.",
+            "hu": "Egy kicsit hosszabb kitérő, hogy megcsodálhassa a lenyűgöző ortodox művészetet.",
+            "ro": "O plimbare puțin mai lungă pentru a vedea arta ortodoxă impresionantă.",
+            "en": "A slightly longer trip to see the impressive Orthodox art."
+          }
+        },
+        {
+          "name": {
+            "de": "Rundfahrt am Großen Bačka-Kanal",
+            "hu": "Túra a Nagy-Bácskai-csatorna mentén",
+            "ro": "Tur de-a lungul Canalului Mare Bačka",
+            "en": "Ride along the Great Bačka Canal"
+          },
+          "coords": [
+            19.09,
+            45.78
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:18",
+          "stay_min": 130,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer entspannten Radtour entlang des Wassers, weg vom Trubel der Stadt.",
+            "hu": "Zárja a napot egy pihentető kerékpártúrával a víz mentén, távol a város nyüzsgésétől.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă cu bicicleta de-a lungul apei, departe de agitația orașului.",
+            "en": "End the day with a relaxing ride along the water, away from the city buzz."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag im grünen Park der Helden. Von dort aus radeln Sie ins Zentrum, um das Komitatshaus und die nahegelegene Dreifaltigkeitskirche zu bewundern. Der Vormittag bietet eine künstlerische Pause in der Konjović-Galerie. Nach dem Mittagessen führt Sie Ihre Route am Nationaltheater vorbei zur orthodoxen Kirche des Heiligen Georg. Der Nachmittag ist für eine lange, entspannende Fahrt entlang des Großen Bačka-Kanals reserviert, die einen perfekten Abschluss für Ihren aktiven Tag darstellt.",
+        "hu": "Kezdje a kerékpáros napot a zöldellő Hősök Parkjában. Innen tekerjen be a központba, hogy megcsodálja a Vármegyeházát és a közeli Szentháromság-templomot. A délelőtt művészeti pihenőt kínál a Konjović Galériában. Ebéd után az útvonal a Népszínház mellett a Szent György ortodox templomhoz vezet. A délutánt egy hosszú, pihentető tekerésnek szenteljük a Nagy-Bácskai-csatorna mentén, amely tökéletes lezárása az aktív napnak.",
+        "ro": "Începeți ziua pe bicicletă în verdele Parc al Eroilor. De acolo, pedalați spre centru pentru a admira Palatul Comitatului și Biserica Sfânta Treime din apropiere. Dimineața oferă o pauză artistică la Galeria Konjović. După prânz, traseul vă duce pe lângă Teatrul Național spre Biserica Ortodoxă Sfântul Gheorghe. După-amiaza este rezervată unei plimbări lungi și relaxante de-a lungul Canalului Mare Bačka, încheind perfect ziua activă.",
+        "en": "Start your cycling day in the green Park of Heroes. From there, pedal to the center to admire the County Hall and the nearby Holy Trinity Church. The morning offers an artistic break at the Konjović Gallery. After lunch, your route takes you past the National Theatre to the Saint George Orthodox Church. The afternoon is reserved for a long, relaxing ride along the Great Bačka Canal, perfectly ending your active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Plava Ruža",
+            "tip": "Perfekt für ein herzhaftes Mittagessen mit lokalen Spezialitäten, um Energie zu tanken."
+          },
+          {
+            "name": "Čarda Andrenj",
+            "tip": "Etwas außerhalb, aber ideal für ein Abendessen mit Fisch nach einer langen Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plava Ruža Étterem",
+            "tip": "Tökéletes egy kiadós ebédhez helyi specialitásokkal az energiapótláshoz."
+          },
+          {
+            "name": "Andrenj Csárda",
+            "tip": "Kicsit kijjebb esik, de ideális egy halvacsorához egy hosszú kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Plava Ruža",
+            "tip": "Perfect pentru un prânz copios cu specialități locale pentru a vă reîncărca."
+          },
+          {
+            "name": "Čarda Andrenj",
+            "tip": "Puțin în afara orașului, dar ideal pentru o cină cu pește după o plimbare lungă cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plava Ruža Restaurant",
+            "tip": "Perfect for a hearty lunch of local specialties to refuel."
+          },
+          {
+            "name": "Čarda Andrenj",
+            "tip": "A bit outside the city, but ideal for a fish dinner after a long bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Großen Bačka-Kanals",
+            "tip": "Der Radweg ist meist ruhig und bietet eine großartige Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen im Park der Helden",
+            "tip": "Genießen Sie die Ruhe, bevor die Stadt aufwacht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Nagy-Bácskai-csatorna partja",
+            "tip": "A kerékpárút többnyire csendes és nagyszerű kilátást nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a Hősök Parkjában",
+            "tip": "Élvezze a csendet, mielőtt a város felébred.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile Canalului Mare Bačka",
+            "tip": "Pista de biciclete este în mare parte liniștită și oferă vederi minunate.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme în Parcul Eroilor",
+            "tip": "Bucurați-vă de liniște înainte ca orașul să se trezească.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Great Bačka Canal",
+            "tip": "The cycle path is mostly quiet and offers great views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning in the Park of Heroes",
+            "tip": "Enjoy the tranquility before the city wakes up.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradläden",
+            "tip": "Fragen Sie nach lokal hergestelltem Zubehör oder Karten der Radwege."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Érdeklődjön a helyben készült kiegészítőkről vagy kerékpárút-térképekről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Întrebați despre accesorii fabricate local sau hărți ale pistelor de biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bike shops",
+            "tip": "Ask about locally made accessories or maps of cycle paths."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Sombor ist relativ flach und daher ideal zum Radfahren.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, wenn Sie Sehenswürdigkeiten besichtigen.",
+          "Eine Wasserflasche und Snacks sind für längere Fahrten entlang des Kanals unerlässlich.",
+          "Respektieren Sie Fußgänger in den gemeinsamen Zonen im Stadtzentrum."
+        ],
+        "hu": [
+          "Zombor viszonylag sík, így ideális a kerékpározáshoz.",
+          "Mindig zárja le biztonságosan a kerékpárját, amikor látnivalókat néz.",
+          "Vizes palack és rágcsálnivaló elengedhetetlen a hosszabb csatorna menti túrákhoz.",
+          "Tartsa tiszteletben a gyalogosokat a belvárosi közös zónákban."
+        ],
+        "ro": [
+          "Sombor este relativ plat, ceea ce îl face ideal pentru ciclism.",
+          "Încuiați întotdeauna bicicleta în siguranță atunci când vizitați obiectivele turistice.",
+          "O sticlă de apă și gustări sunt esențiale pentru plimbări mai lungi de-a lungul canalului.",
+          "Respectați pietonii în zonele comune din centrul orașului."
+        ],
+        "en": [
+          "Sombor is relatively flat, making it ideal for cycling.",
+          "Always lock your bike securely when visiting sights.",
+          "A water bottle and snacks are essential for longer rides along the canal.",
+          "Respect pedestrians in the shared zones of the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft & Parken am Stadtzentrum",
+            "hu": "1. klaszter: Érkezés és parkolás a városközpontban",
+            "ro": "Cluster 1: Sosire & Parcare în centrul orașului",
+            "en": "Cluster 1: Arrive & Park at City Center"
+          },
+          "coords": [
+            19.117,
+            45.773
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Hauptplatzes. Von hier aus ist der erste Cluster zu Fuß erreichbar.",
+            "hu": "Parkoljon a főtér közelében. Innen az első klaszter gyalogosan elérhető.",
+            "ro": "Parcați lângă piața principală. Primul cluster este accesibil pe jos de aici.",
+            "en": "Park near the main square. The first cluster is walkable from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Komitatshaus & Dreifaltigkeitsplatz",
+            "hu": "Vármegyeháza és Szentháromság tér",
+            "ro": "Palatul Comitatului & Piața Sfânta Treime",
+            "en": "County Hall & Holy Trinity Square"
+          },
+          "coords": [
+            19.1158,
+            45.775
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den gesamten Platz zu Fuß, einschließlich des Komitatshauses und der Dreifaltigkeitskirche.",
+            "hu": "Fedezze fel gyalog az egész teret, beleértve a Vármegyeházát és a Szentháromság-templomot.",
+            "ro": "Explorați întreaga piață pe jos, inclusiv Palatul Comitatului și Biserica Sfânta Treime.",
+            "en": "Explore the whole square on foot, including the County Hall and the Holy Trinity Church."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie Milan Konjović",
+            "hu": "Milan Konjović Galéria",
+            "ro": "Galeria Milan Konjović",
+            "en": "Milan Konjović Gallery"
+          },
+          "coords": [
+            19.1145,
+            45.7748
+          ],
+          "category": "museums",
+          "arrive_at": "10:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz entfernt, ein Muss für Kunstliebhaber.",
+            "hu": "Csak egy rövid séta a tértől, a művészetkedvelőknek kötelező.",
+            "ro": "La o scurtă plimbare de piață, o vizită obligatorie pentru iubitorii de artă.",
+            "en": "A short walk from the square, a must-visit for art lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Fahrt zum Museumsviertel",
+            "hu": "2. klaszter: Utazás a múzeumi negyedbe",
+            "ro": "Cluster 2: Conduceți spre Cartierul Muzeelor",
+            "en": "Cluster 2: Drive to the Museum Quarter"
+          },
+          "coords": [
+            19.109,
+            45.7755
+          ],
+          "category": "museums",
+          "arrive_at": "12:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren und parken Sie in der Nähe des Stadtmuseums für den zweiten Teil des Tages.",
+            "hu": "Vezessen és parkoljon a Városi Múzeum közelében a nap második részére.",
+            "ro": "Conduceți și parcați lângă Muzeul Orașului pentru a doua parte a zilei.",
+            "en": "Drive and park near the City Museum for the second part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Georg",
+            "hu": "Szent György templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Church of Saint George"
+          },
+          "coords": [
+            19.108,
+            45.7725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:42",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Museum aus ist es nur ein kurzer Spaziergang zu diesem Juwel der orthodoxen Architektur.",
+            "hu": "A múzeumtól csak egy rövid séta ez az ortodox építészet gyöngyszeme.",
+            "ro": "De la muzeu, este doar o scurtă plimbare până la această bijuterie a arhitecturii ortodoxe.",
+            "en": "From the museum, it's just a short walk to this gem of Orthodox architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Fahrt zum Park der Helden",
+            "hu": "3. klaszter: Utazás a Hősök Parkjába",
+            "ro": "Cluster 3: Conduceți spre Parcul Eroilor",
+            "en": "Cluster 3: Drive to the Park of Heroes"
+          },
+          "coords": [
+            19.119,
+            45.778
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 165,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu Ihrem letzten Ziel. Parken Sie und verbringen Sie den Rest des Nachmittags mit Erkundung des Parks.",
+            "hu": "Vezessen az utolsó célállomáshoz. Parkoljon le, és töltse a délután hátralévő részét a park felfedezésével.",
+            "ro": "Conduceți spre destinația finală. Parcați și petreceți restul după-amiezii explorând parcul.",
+            "en": "Drive to your final destination. Park and spend the rest of the afternoon exploring the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie im Zentrum von Sombor parken. Der erste Cluster konzentriert sich auf das Herz der Stadt: den Hauptplatz, das Komitatshaus und die Konjović-Galerie, alles zu Fuß erreichbar. Am Mittag fahren Sie zum zweiten Cluster, um das Stadtmuseum und die nahegelegene orthodoxe Kirche zu erkunden. Die letzte Fahrt des Tages bringt Sie zum weitläufigen Park der Helden, wo Sie den Nachmittag in der berühmten grünen Landschaft von Sombor ausklingen lassen können.",
+        "hu": "Kezdje a napot Zombor központjában parkolva. Az első klaszter a város szívére összpontosít: a főtérre, a Vármegyeházára és a Konjović Galériára, mindezt gyalogosan. Délben autózzon át a második klaszterhez, hogy felfedezze a Városi Múzeumot és a közeli ortodox templomot. A nap utolsó autózása a tágas Hősök Parkjába vezet, ahol Zombor híres zöldövezetében pihenheti ki a délutánt.",
+        "ro": "Începeți ziua parcând în centrul orașului Sombor. Primul cluster se concentrează pe inima orașului: piața principală, Palatul Comitatului și Galeria Konjović, toate explorate pe jos. La amiază, conduceți către al doilea cluster pentru a explora Muzeul Orașului și biserica ortodoxă din apropiere. Ultima călătorie a zilei vă duce la Parcul Eroilor, unde vă puteți relaxa după-amiaza în renumita verdeață a Somborului.",
+        "en": "Start your day by parking in the center of Sombor. The first cluster focuses on the city's heart: the main square, the County Hall, and the Konjović Gallery, all explored on foot. At midday, drive to the second cluster to explore the City Museum and the nearby Orthodox church. The final drive of the day takes you to the expansive Park of Heroes, where you can wind down the afternoon in Sombor's famous greenery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Etno Restoran Fijaker",
+            "tip": "Traditionelle Vojvodina-Küche, ideal für ein Mittagessen zwischen den Fahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fijaker Etno Étterem",
+            "tip": "Hagyományos vajdasági konyha, ideális ebédre a két autózás között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant etnic Fijaker",
+            "tip": "Bucătărie tradițională din Voivodina, ideală pentru prânz între călătorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fijaker Ethno Restaurant",
+            "tip": "Traditional Vojvodina cuisine, ideal for lunch between drives."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein ruhiger Seitenweg im Park der Helden",
+            "tip": "Entfliehen Sie dem Hauptweg für einen Moment der Einsamkeit.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes mellékút a Hősök Parkjában",
+            "tip": "Térjen le a fő útról egy pillanatnyi magányért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O alee liniștită în Parcul Eroilor",
+            "tip": "Evadați de pe calea principală pentru un moment de singurătate.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet side path in the Park of Heroes",
+            "tip": "Escape the main path for a moment of solitude.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingüter in der Umgebung",
+            "tip": "Wenn Sie Zeit haben, fahren Sie zu einem lokalen Weingut, um eine Flasche regionalen Weins zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Környékbeli borászatok",
+            "tip": "Ha van ideje, vezessen el egy helyi borászathoz, hogy vegyen egy üveg helyi bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame din jur",
+            "tip": "Dacă aveți timp, conduceți la o cramă locală pentru a cumpăra o sticlă de vin regional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Surrounding Wineries",
+            "tip": "If you have time, drive to a local winery to buy a bottle of regional wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum eine Herausforderung sein. Suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Planen Sie Ihre Cluster, um das Ein- und Aussteigen aus dem Auto zu minimieren.",
+          "Ein GPS ist nützlich, um zwischen den Clustern zu navigieren.",
+          "Achten Sie auf Einbahnstraßen im historischen Zentrum."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a belvárosban. Keressen kijelölt parkolóhelyeket.",
+          "Tervezze meg a klasztereket, hogy minimalizálja a kocsiból való ki- és beszállást.",
+          "A GPS hasznos a klaszterek közötti navigációhoz.",
+          "Vigyázzon az egyirányú utcákra a történelmi központban."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centrul orașului; căutați parcări desemnate.",
+          "Planificați-vă clusterele pentru a minimiza intrarea și ieșirea din mașină.",
+          "Un GPS este util pentru a naviga între clustere.",
+          "Fiți atenți la străzile cu sens unic din centrul istoric."
+        ],
+        "en": [
+          "Parking can be challenging in the city center; look for designated parking lots.",
+          "Plan your clusters to minimize getting in and out of the car.",
+          "A GPS is useful for navigating between clusters.",
+          "Be mindful of one-way streets in the historic center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:46",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft am Hauptplatz",
+            "hu": "1. klaszter: Érkezés a főtérre",
+            "ro": "Cluster 1: Sosire în Piața Principală",
+            "en": "Cluster 1: Arrival at Main Square"
+          },
+          "coords": [
+            19.116,
+            45.774
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur nächstgelegenen Haltestelle am Komitatshaus.",
+            "hu": "Menjen busszal a Vármegyeházához legközelebbi megállóig.",
+            "ro": "Luați un autobuz până la cea mai apropiată stație de Palatul Comitatului.",
+            "en": "Take a bus to the nearest stop to the County Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Komitatshaus & Dreifaltigkeitskirche",
+            "hu": "Vármegyeháza és Szentháromság-templom",
+            "ro": "Palatul Comitatului & Biserica Sfânta Treime",
+            "en": "County Hall & Holy Trinity Church"
+          },
+          "coords": [
+            19.1158,
+            45.775
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Hauptsehenswürdigkeiten liegen direkt nebeneinander.",
+            "hu": "Ez a két fő látnivaló közvetlenül egymás mellett található.",
+            "ro": "Aceste două atracții principale sunt chiar una lângă cealaltă.",
+            "en": "These two main sights are right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie Milan Konjović & Nationaltheater",
+            "hu": "Milan Konjović Galéria és Népszínház",
+            "ro": "Galeria Milan Konjović & Teatrul Național",
+            "en": "Milan Konjović Gallery & National Theatre"
+          },
+          "coords": [
+            19.1145,
+            45.7748
+          ],
+          "category": "museums",
+          "arrive_at": "10:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beide liegen nur einen kurzen Spaziergang voneinander entfernt und füllen den Rest des Vormittags.",
+            "hu": "Mindkettő csak egy rövid sétatávolságra van, kitöltve a délelőtt hátralévő részét.",
+            "ro": "Ambele sunt la o scurtă plimbare una de cealaltă, umplând restul dimineții.",
+            "en": "Both are a short walk from each other, filling up the rest of the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Busfahrt zum Museum",
+            "hu": "2. klaszter: Buszozás a múzeumhoz",
+            "ro": "Cluster 2: Călătorie cu autobuzul la muzeu",
+            "en": "Cluster 2: Bus ride to the Museum"
+          },
+          "coords": [
+            19.111,
+            45.776
+          ],
+          "category": "museums",
+          "arrive_at": "12:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus für eine kurze Fahrt zum Stadtmuseum.",
+            "hu": "Menjen busszal egy rövid útra a Városi Múzeumig.",
+            "ro": "Luați un autobuz pentru o scurtă călătorie până la Muzeul Orașului.",
+            "en": "Take a bus for the short ride over to the City Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Georg",
+            "hu": "Szent György templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "Church of Saint George"
+          },
+          "coords": [
+            19.108,
+            45.7725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang vom Museum, um diesen Cluster zu vervollständigen.",
+            "hu": "Könnyű séta a múzeumtól, hogy teljes legyen ez a klaszter.",
+            "ro": "O plimbare ușoară de la muzeu pentru a completa acest cluster.",
+            "en": "An easy walk from the museum to complete this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Busfahrt zum Park der Helden",
+            "hu": "3. klaszter: Buszozás a Hősök Parkjába",
+            "ro": "Cluster 3: Călătorie cu autobuzul la Parcul Eroilor",
+            "en": "Cluster 3: Bus ride to the Park of Heroes"
+          },
+          "coords": [
+            19.119,
+            45.778
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:01",
+          "stay_min": 135,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen letzten Bus zum Park, um sich zu entspannen und den Tag ausklingen zu lassen.",
+            "hu": "Menjen egy utolsó busszal a parkba, hogy pihenjen és lezárja a napot.",
+            "ro": "Luați un ultim autobuz spre parc pentru a vă relaxa și a încheia ziua.",
+            "en": "Take a final bus to the park to relax and end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise beginnt mit einer Busfahrt ins Herz von Sombor. Der erste Cluster ist ein Spaziergang, der das Komitatshaus, Kirchen und die Konjović-Galerie abdeckt. Nach dem Mittagessen bringt Sie ein weiterer Bus in die Nähe des Stadtmuseums, von wo aus Sie zum orthodoxen Juwel der Stadt spazieren. Die letzte Busfahrt des Tages führt Sie zum Park der Helden, einem perfekten Ort, um sich nach einem Tag voller Erkundungen mit öffentlichen Verkehrsmitteln zu entspannen.",
+        "hu": "Az utazás egy buszúttal kezdődik Zombor szívébe. Az első klaszter egy séta, amely magában foglalja a Vármegyeházát, a templomokat és a Konjović Galériát. Ebéd után egy másik busz visz a Városi Múzeum közelébe, ahonnan elsétálhat a város ortodox gyöngyszeméhez. A nap utolsó buszútja a Hősök Parkjába vezet, amely tökéletes hely a pihenésre egy tömegközlekedéssel töltött felfedezőnap után.",
+        "ro": "Călătoria dvs. începe cu un autobuz spre inima orașului Sombor. Primul cluster este o plimbare care acoperă Palatul Comitatului, bisericile și Galeria Konjović. După prânz, un alt autobuz vă va duce aproape de Muzeul Orașului, de unde veți merge pe jos la bijuteria ortodoxă a orașului. Ultima călătorie cu autobuzul a zilei vă duce la Parcul Eroilor, un loc perfect pentru a vă relaxa după o zi de explorare cu transportul public.",
+        "en": "Your journey begins with a bus ride into the heart of Sombor. The first cluster is a walking tour covering the County Hall, churches, and the Konjović Gallery. After lunch, another bus will take you near the City Museum, from where you'll walk to the city's Orthodox gem. The final bus trip of the day takes you to the Park of Heroes, a perfect place to unwind after a day of public transit exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckereien (Pekara)",
+            "tip": "Schnappen Sie sich ein 'Burek' oder 'Gibanica' für ein schnelles, günstiges Mittagessen unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek (Pekara)",
+            "tip": "Kapjon be egy 'burek'-et vagy 'gibanica'-t egy gyors, olcsó ebédre útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării (Pekara)",
+            "tip": "Luați un 'burek' sau 'gibanica' pentru un prânz rapid și ieftin din mers."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakeries (Pekara)",
+            "tip": "Grab a 'burek' or 'gibanica' for a quick, cheap lunch on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Seitenstraße",
+            "tip": "Verirren Sie sich in den kleineren Straßen zwischen den Hauptsehenswürdigkeiten, um den Charme der Stadt aufzusaugen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes mellékutca",
+            "tip": "Tévedjen el a kisebb utcákban a fő látnivalók között, hogy magába szívja a város varázsát.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O stradă laterală liniștită",
+            "tip": "Pierdeți-vă pe străzile mai mici dintre atracțiile principale pentru a absorbi farmecul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet side street",
+            "tip": "Get lost in the smaller streets between main sights to absorb the city's charm.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske",
+            "tip": "Kaufen Sie Busfahrkarten und Snacks an den allgegenwärtigen Kiosken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok",
+            "tip": "Vásároljon buszjegyeket és rágcsálnivalókat a mindenütt jelenlévő kioszkokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri",
+            "tip": "Cumpărați bilete de autobuz și gustări de la chioșcurile omniprezente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks",
+            "tip": "Buy bus tickets and snacks at the ubiquitous kiosks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere an Wochenenden.",
+          "Validieren Sie Ihr Ticket beim Einsteigen in den Bus, um eine Strafe zu vermeiden.",
+          "Behalten Sie die Haltestellennamen im Auge, da die Ansagen möglicherweise nicht immer klar sind."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén.",
+          "Érvényesítse a jegyét felszálláskor, hogy elkerülje a bírságot.",
+          "Figyelje a megállóneveket, mivel a bemondások nem mindig tiszták."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați orarele autobuzelor în avans, mai ales în weekend.",
+          "Validați biletul la urcarea în autobuz pentru a evita o amendă.",
+          "Fiți atenți la numele stațiilor, deoarece anunțurile s-ar putea să nu fie întotdeauna clare."
+        ],
+        "en": [
+          "Buy a daily bus pass if you plan on making multiple trips.",
+          "Check bus schedules in advance, especially on weekends.",
+          "Validate your ticket when you board the bus to avoid a fine.",
+          "Keep an eye on the stop names, as announcements may not always be clear."
+        ]
+      }
+    }
+  }
+}

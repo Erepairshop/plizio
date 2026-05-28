@@ -1,0 +1,1058 @@
+{
+  "city_id": "uk-slough-cities-v2",
+  "anchor": {
+    "name": "Slough",
+    "coords": [
+      -0.5916,
+      51.5085
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "The Observatory Einkaufszentrum",
+            "hu": "The Observatory bevásárlóközpont",
+            "ro": "Centrul Comercial The Observatory",
+            "en": "The Observatory Shopping Centre"
+          },
+          "coords": [
+            -0.5925,
+            51.5105
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee, bevor die Geschäfte öffnen.",
+            "hu": "Kezdje a napot egy kávéval itt, mielőtt a boltok kinyitnak.",
+            "ro": "Începeți-vă ziua aici cu o cafea înainte de deschiderea magazinelor.",
+            "en": "Start your day with a coffee here before the shops get busy."
+          }
+        },
+        {
+          "name": {
+            "de": "The Curve",
+            "hu": "The Curve kulturális központ",
+            "ro": "The Curve",
+            "en": "The Curve"
+          },
+          "coords": [
+            -0.595,
+            51.511
+          ],
+          "category": "theatres",
+          "arrive_at": "09:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Ausstellungen in der Galerie; es gibt oft lokale Kunst.",
+            "hu": "Nézze meg a galéria kiállításait; gyakran helyi művészek alkotásait mutatják be.",
+            "ro": "Verificați expozițiile din galerie; adesea există artă locală.",
+            "en": "Check the gallery exhibitions; there's often local art on display."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Marienkirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St Mary's Church"
+          },
+          "coords": [
+            -0.591,
+            51.512
+          ],
+          "category": "churches",
+          "arrive_at": "11:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die Buntglasfenster zu bewundern.",
+            "hu": "Szánjon egy percet a festett üvegablakok megcsodálására.",
+            "ro": "Luați-vă un moment pentru a admira vitraliile.",
+            "en": "Take a moment to admire the stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Slough Museum",
+            "hu": "Slough Múzeum",
+            "ro": "Muzeul Slough",
+            "en": "Slough Museum"
+          },
+          "coords": [
+            -0.596,
+            51.5115
+          ],
+          "category": "museums",
+          "arrive_at": "11:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fragen Sie nach der Geschichte des Slough Trading Estate, der das moderne Slough geformt hat.",
+            "hu": "Kérdezzen a Slough Trading Estate történetéről, amely a modern Slough-t formálta.",
+            "ro": "Întrebați despre istoria Slough Trading Estate, care a modelat Slough-ul modern.",
+            "en": "Ask about the history of the Slough Trading Estate, which shaped modern Slough."
+          }
+        },
+        {
+          "name": {
+            "de": "Herschel Park",
+            "hu": "Herschel Park",
+            "ro": "Parcul Herschel",
+            "en": "Herschel Park"
+          },
+          "coords": [
+            -0.605,
+            51.505
+          ],
+          "category": "parks",
+          "arrive_at": "14:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Picknick oder einfach nur zum Entspannen am See.",
+            "hu": "Tökéletes hely egy piknikhez vagy csak a tóparti pihenéshez.",
+            "ro": "Un loc perfect pentru un picnic sau doar pentru a vă relaxa lângă lac.",
+            "en": "A perfect spot for a picnic or just relaxing by the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im geschäftigen Zentrum von Slough, dem Observatory Shopping Centre, und genießen Sie die moderne Architektur von The Curve. Am Vormittag erkunden Sie die historische St. Mary's Church und tauchen im Slough Museum in die lokale Geschichte ein. Der Nachmittag ist für einen entspannten Spaziergang und die Ruhe im wunderschönen Herschel Park reserviert. Dieser Spaziergang bietet eine Mischung aus städtischem Leben, Geschichte und Natur.",
+        "hu": "Kezdje a napot Slough nyüzsgő központjában, az Observatory bevásárlóközpontban, majd csodálja meg a The Curve modern építészetét. A délelőtt folyamán fedezze fel a történelmi Szent Mária-templomot és merüljön el a helyi történelemben a Slough Múzeumban. A délutánt egy pihentető séta és a gyönyörű Herschel Park nyugalmának szenteljük. Ez a séta a városi élet, a történelem és a természet keverékét kínálja.",
+        "ro": "Începeți ziua în centrul plin de viață al orașului Slough, la Centrul Comercial Observatory, și admirați arhitectura modernă a The Curve. La amiază, explorați istorica Biserică Sf. Maria și aprofundați istoria locală la Muzeul Slough. După-amiaza este rezervată pentru o plimbare relaxantă și liniște în frumosul Parc Herschel. Această plimbare oferă un amestec de viață urbană, istorie și natură.",
+        "en": "Start your day in the bustling heart of Slough at the Observatory Shopping Centre, taking in the modern architecture of The Curve. Mid-morning, explore the historic St Mary's Church and dive into local history at the Slough Museum. The afternoon is reserved for a relaxing walk and tranquility in the beautiful Herschel Park. This walking tour offers a mix of urban life, history, and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ein traditioneller Pub-Lunch",
+            "tip": "Suchen Sie einen Pub in der Nähe des Stadtzentrums für ein herzhaftes britisches Essen wie Fish and Chips."
+          },
+          {
+            "name": "Tandoori Place",
+            "tip": "Bekannt für authentische südasiatische Küche, die die Vielfalt von Slough widerspiegelt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hagyományos pub ebéd",
+            "tip": "Keressen egy pubot a városközpont közelében egy kiadós brit ételért, mint a fish and chips."
+          },
+          {
+            "name": "Tandoori Place",
+            "tip": "Autentikus dél-ázsiai konyhájáról ismert, amely Slough sokszínűségét tükrözi."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un prânz tradițional la pub",
+            "tip": "Căutați un pub lângă centrul orașului pentru o masă britanică consistentă, cum ar fi fish and chips."
+          },
+          {
+            "name": "Tandoori Place",
+            "tip": "Renumit pentru bucătăria autentică din Asia de Sud, reflectând diversitatea din Slough."
+          }
+        ],
+        "en": [
+          {
+            "name": "A traditional pub lunch",
+            "tip": "Find a pub near the town centre for a hearty British meal like fish and chips."
+          },
+          {
+            "name": "Tandoori Place",
+            "tip": "Known for authentic South Asian cuisine, reflecting Slough's diversity."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Herschel Park",
+            "tip": "Finden Sie eine ruhige Bank am See.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St Mary's Churchyard",
+            "tip": "Ein friedlicher Ort inmitten der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herschel Park",
+            "tip": "Keressen egy csendes padot a tónál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Mária-templom kertje",
+            "tip": "Békés hely a város közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Herschel",
+            "tip": "Găsiți o bancă liniștită lângă lac.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul Bisericii Sf. Maria",
+            "tip": "Un loc pașnic în mijlocul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Herschel Park",
+            "tip": "Find a quiet bench by the lake.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St Mary's Churchyard",
+            "tip": "A peaceful spot in the middle of the town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Observatory Shopping Centre",
+            "tip": "Eine Mischung aus bekannten Marken und unabhängigen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Observatory bevásárlóközpont",
+            "tip": "Nagy márkák és független üzletek keveréke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial The Observatory",
+            "tip": "Un amestec de mărci de renume și magazine independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Observatory Shopping Centre",
+            "tip": "A mix of high-street brands and independent stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie einige Kilometer zurücklegen werden.",
+          "Überprüfen Sie die Öffnungszeiten des Slough Museums im Voraus.",
+          "Ein leichter Regenmantel ist immer eine gute Idee in England."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel több kilométert fog gyalogolni.",
+          "Ellenőrizze előre a Slough Múzeum nyitvatartási idejét.",
+          "Egy könnyű esőkabát mindig jó ötlet Angliában."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți parcurge câțiva kilometri.",
+          "Verificați în prealabil programul de funcționare al Muzeului Slough.",
+          "O pelerină de ploaie ușoară este întotdeauna o idee bună în Anglia."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be covering a few kilometres.",
+          "Check the opening times for the Slough Museum in advance.",
+          "A light raincoat is always a good idea in England."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Upton Court Park",
+            "hu": "Upton Court Park",
+            "ro": "Parcul Upton Court",
+            "en": "Upton Court Park"
+          },
+          "coords": [
+            -0.615,
+            51.501
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten offenen Flächen, ideal für eine morgendliche Radtour.",
+            "hu": "Élvezze a tágas tereket, ideális egy reggeli biciklizéshez.",
+            "ro": "Bucurați-vă de spațiile largi deschise, ideale pentru o plimbare matinală cu bicicleta.",
+            "en": "Enjoy the wide open spaces, perfect for a morning cycle."
+          }
+        },
+        {
+          "name": {
+            "de": "Baylis House",
+            "hu": "Baylis-ház",
+            "ro": "Casa Baylis",
+            "en": "Baylis House"
+          },
+          "coords": [
+            -0.575,
+            51.515
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die georgianische Architektur. Das Betreten ist möglicherweise nicht möglich, aber es ist ein großartiger Fotostopp.",
+            "hu": "Csodálja meg a György-korabeli építészetet. Lehet, hogy nem lehet bemenni, de remek fotómegálló.",
+            "ro": "Admirați arhitectura georgiană. Intrarea s-ar putea să nu fie posibilă, dar este o oprire excelentă pentru fotografii.",
+            "en": "Admire the Georgian architecture. Entry might not be possible, but it's a great photo stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Salt Hill Park",
+            "hu": "Salt Hill Park",
+            "ro": "Parcul Salt Hill",
+            "en": "Salt Hill Park"
+          },
+          "coords": [
+            -0.56,
+            51.516
+          ],
+          "category": "parks",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Mittagspause mit viel Grünfläche.",
+            "hu": "Szép hely egy ebédszünetre, rengeteg zöld területtel.",
+            "ro": "Un loc minunat pentru o pauză de prânz, cu mult spațiu verde.",
+            "en": "A lovely spot for a lunch break with plenty of green space."
+          }
+        },
+        {
+          "name": {
+            "de": "Langley Park",
+            "hu": "Langley Park",
+            "ro": "Parcul Langley",
+            "en": "Langley Park"
+          },
+          "coords": [
+            -0.53,
+            51.505
+          ],
+          "category": "parks",
+          "arrive_at": "13:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gärten im Rhododendron-Garten und genießen Sie die Aussicht.",
+            "hu": "Fedezze fel a rododendronkerteket és élvezze a kilátást.",
+            "ro": "Explorați grădinile de rododendroni și bucurați-vă de priveliști.",
+            "en": "Explore the rhododendron gardens and enjoy the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Observatory Shopping Centre",
+            "hu": "The Observatory bevásárlóközpont",
+            "ro": "Centrul Comercial The Observatory",
+            "en": "The Observatory Shopping Centre"
+          },
+          "coords": [
+            -0.5925,
+            51.5105
+          ],
+          "category": "squares",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 6.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit ein wenig Shopping oder einem wohlverdienten Leckerbissen.",
+            "hu": "Zárja a kerékpártúrát egy kis vásárlással vagy egy jól megérdemelt finomsággal.",
+            "ro": "Încheiați turul cu bicicleta cu puțin shopping sau cu un răsfăț binemeritat.",
+            "en": "End your bike tour with some retail therapy or a well-deserved treat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie durch die grünen Oasen von Slough. Beginnen Sie im weitläufigen Upton Court Park, radeln Sie dann zum historischen Baylis House und entspannen Sie sich im Salt Hill Park. Am Nachmittag fahren Sie zum prächtigen Langley Park, der für seine Gärten berühmt ist. Beenden Sie den Tag im städtischen Zentrum am Observatory Shopping Centre, wo Sie sich nach einem Tag voller Entdeckungen entspannen können. Es ist die perfekte Art, Natur und Stadtleben zu verbinden.",
+        "hu": "Ez a kerékpártúra Slough zöld oázisain keresztül vezet. Kezdje a tágas Upton Court Parkban, majd tekerjen el a történelmi Baylis-házhoz, és pihenjen a Salt Hill Parkban. Délután látogasson el a kertjeiről híres, csodálatos Langley Parkba. A napot a városi központban, az Observatory bevásárlóközpontban fejezze be, ahol egy felfedezéssel teli nap után feltöltődhet. Ez a tökéletes módja a természet és a városi élet ötvözésének.",
+        "ro": "Acest tur cu bicicleta vă poartă prin oazele verzi din Slough. Începeți în Parcul Upton Court, apoi pedalați spre istorica Casă Baylis și relaxați-vă în Parcul Salt Hill. După-amiaza, mergeți la magnificul Parc Langley, renumit pentru grădinile sale. Încheiați ziua în centrul urban la Centrul Comercial Observatory, unde vă puteți relaxa după o zi de explorare. Este modul perfect de a combina natura cu viața orașului.",
+        "en": "This bike tour takes you through the green oases of Slough. Start in the expansive Upton Court Park, then cycle to the historic Baylis House and relax in Salt Hill Park. In the afternoon, head to the magnificent Langley Park, famous for its gardens. Finish the day back in the urban centre at the Observatory Shopping Centre, where you can unwind after a day of exploration. It's the perfect way to combine nature and city life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick im Park",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie ein Picknick im Langley Park."
+          },
+          {
+            "name": "Internationale Küche",
+            "tip": "In der Slough High Street finden Sie eine Vielzahl von Restaurants, die Küchen aus aller Welt anbieten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a parkban",
+            "tip": "Vásároljon helyi termékeket és piknikezzen a Langley Parkban."
+          },
+          {
+            "name": "Nemzetközi konyha",
+            "tip": "A Slough High Streeten számos étterem található, amelyek a világ minden tájáról kínálnak ételeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic în parc",
+            "tip": "Cumpărați produse locale și bucurați-vă de un picnic în Parcul Langley."
+          },
+          {
+            "name": "Bucătărie internațională",
+            "tip": "Pe Slough High Street veți găsi o varietate de restaurante care oferă bucătării din întreaga lume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic in the park",
+            "tip": "Grab some local produce and enjoy a picnic lunch in Langley Park."
+          },
+          {
+            "name": "International Cuisine",
+            "tip": "Slough High Street has a diverse range of restaurants offering food from around the world."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Langley Park",
+            "tip": "Der Tempelgarten ist ein besonders ruhiger Ort.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Upton Court Park",
+            "tip": "Morgens ist es hier sehr friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Langley Park",
+            "tip": "A templomkert különösen csendes hely.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Upton Court Park",
+            "tip": "Reggelente nagyon békés a hely.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Langley",
+            "tip": "Grădina templului este un loc deosebit de liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Upton Court",
+            "tip": "Diminețile aici sunt foarte pașnice.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Langley Park",
+            "tip": "The Temple Gardens area is a particularly tranquil spot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Upton Court Park",
+            "tip": "Early mornings here are very peaceful.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradgeschäfte",
+            "tip": "Suchen Sie nach Zubehör oder mieten Sie bei Bedarf ein besseres Fahrrad."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Keressen kiegészítőket, vagy béreljen jobb kerékpárt, ha szükséges."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Căutați accesorii sau închiriați o bicicletă mai bună, dacă este necesar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bike shops",
+            "tip": "Look for any accessories you might need or hire a better bike if needed."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist.",
+          "Nehmen Sie viel Wasser und Snacks mit.",
+          "Schließen Sie Ihr Fahrrad an den Haltestellen immer sicher ab."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy a kerékpárja jó állapotban van.",
+          "Hozzon magával sok vizet és harapnivalót.",
+          "Mindig zárja le biztonságosan a kerékpárját a megállóknál."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta dumneavoastră este în stare bună.",
+          "Luați multă apă și gustări.",
+          "Întotdeauna încuiați-vă bicicleta în siguranță la opriri."
+        ],
+        "en": [
+          "Ensure your bike is in good condition.",
+          "Carry plenty of water and some snacks.",
+          "Always lock your bike securely at stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 19.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Black Park",
+            "hu": "Black Park",
+            "ro": "Parcul Negru",
+            "en": "Black Park"
+          },
+          "coords": [
+            -0.525,
+            51.535
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bekannt als Drehort, genießen Sie die Waldwege.",
+            "hu": "Filmes helyszínként ismert, élvezze az erdei ösvényeket.",
+            "ro": "Renumit ca locație de filmare, bucurați-vă de potecile din pădure.",
+            "en": "Famous as a filming location, enjoy the woodland walks."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Langley Park",
+            "hu": "Langley Park",
+            "ro": "Parcul Langley",
+            "en": "Langley Park"
+          },
+          "coords": [
+            -0.53,
+            51.505
+          ],
+          "category": "parks",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nach dem Black Park werden Sie die formaleren Gärten hier zu schätzen wissen.",
+            "hu": "A Black Park után értékelni fogja az itteni formálisabb kerteket.",
+            "ro": "După Parcul Negru, veți aprecia grădinile mai formale de aici.",
+            "en": "After Black Park, you'll appreciate the more formal gardens here."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "The Curve",
+            "hu": "The Curve",
+            "ro": "The Curve",
+            "en": "The Curve"
+          },
+          "coords": [
+            -0.595,
+            51.511
+          ],
+          "category": "theatres",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie hier Ihren Stadtrundgang.",
+            "hu": "Parkoljon a közelben, és kezdje itt a városi sétát.",
+            "ro": "Parcați în apropiere și începeți turul pe jos al orașului de aici.",
+            "en": "Park nearby and start your town walking cluster here."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "St. Marienkirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St Mary's Church"
+          },
+          "coords": [
+            -0.591,
+            51.512
+          ],
+          "category": "churches",
+          "arrive_at": "13:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von The Curve entfernt.",
+            "hu": "Rövid sétára a The Curve-tól.",
+            "ro": "La o scurtă plimbare de The Curve.",
+            "en": "A short walk from The Curve."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Slough Museum",
+            "hu": "Slough Múzeum",
+            "ro": "Muzeul Slough",
+            "en": "Slough Museum"
+          },
+          "coords": [
+            -0.596,
+            51.5115
+          ],
+          "category": "museums",
+          "arrive_at": "14:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die reiche Industrie- und Kulturgeschichte der Stadt.",
+            "hu": "Ismerje meg a város gazdag ipari és kulturális történelmét.",
+            "ro": "Aflați despre istoria industrială și culturală bogată a orașului.",
+            "en": "Learn about the town's rich industrial and cultural history."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Upton Court Park",
+            "hu": "Upton Court Park",
+            "ro": "Parcul Upton Court",
+            "en": "Upton Court Park"
+          },
+          "coords": [
+            -0.615,
+            51.501
+          ],
+          "category": "parks",
+          "arrive_at": "16:43",
+          "stay_min": 52,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Spaziergang und Blick auf Windsor Castle in der Ferne.",
+            "hu": "Zárja a napot egy pihentető sétával, a távolban a Windsori kastély látványával.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă, cu vedere la Castelul Windsor în depărtare.",
+            "en": "End your day with a relaxing walk with views of Windsor Castle in the distance."
+          },
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert die weitläufigen Parks am Rande von Slough mit dem historischen Kern. Beginnen Sie Ihren Morgen mit der Erkundung der berühmten Wälder des Black Park und der Gärten des Langley Park. Am Nachmittag fahren Sie ins Stadtzentrum, parken und erkunden zu Fuß den Kulturknotenpunkt The Curve, die St. Mary's Church und das Slough Museum. Schließen Sie Ihren Tag im Upton Court Park ab, der eine perfekte Mischung aus Natur und städtischer Entdeckung bietet.",
+        "hu": "Ez az autós túra Slough külvárosának tágas parkjait és a történelmi belvárost ötvözi. Kezdje a reggelt a híres Black Park erdeinek és a Langley Park kertjeinek felfedezésével. Délután hajtson be a városközpontba, parkoljon le, és fedezze fel gyalog a The Curve kulturális központot, a Szent Mária-templomot és a Slough Múzeumot. A napot az Upton Court Parkban zárja, amely a természet és a városi felfedezés tökéletes keverékét nyújtja.",
+        "ro": "Acest tur cu mașina combină parcurile întinse de la marginea orașului Slough cu centrul său istoric. Începeți dimineața explorând pădurile faimoase din Parcul Negru și grădinile din Parcul Langley. După-amiaza, conduceți spre centrul orașului, parcați și explorați pe jos centrul cultural The Curve, Biserica Sf. Maria și Muzeul Slough. Încheiați ziua în Parcul Upton Court, pentru un amestec perfect de natură și explorare urbană.",
+        "en": "This car tour combines the expansive parks on Slough's outskirts with its historic core. Start your morning exploring the famous woodlands of Black Park and the gardens of Langley Park. In the afternoon, drive to the town centre, park up, and explore the cultural hub of The Curve, St Mary's Church, and the Slough Museum on foot. End your day at Upton Court Park for a perfect blend of nature and urban exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Ostrich Inn, Colnbrook",
+            "tip": "Einer der ältesten Pubs Englands, eine kurze Autofahrt entfernt, für ein historisches Esserlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Ostrich Inn, Colnbrook",
+            "tip": "Anglia egyik legrégebbi pubja, rövid autóútra, egy történelmi étkezési élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Ostrich Inn, Colnbrook",
+            "tip": "Unul dintre cele mai vechi pub-uri din Anglia, la o scurtă distanță cu mașina, pentru o experiență culinară istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Ostrich Inn, Colnbrook",
+            "tip": "One of England's oldest pubs, a short drive away, for a historic dining experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Black Park Lake",
+            "tip": "Ein ruhiger Spaziergang um den See ist sehr zu empfehlen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Black Park-tó",
+            "tip": "Egy csendes séta a tó körül erősen ajánlott.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul din Parcul Negru",
+            "tip": "O plimbare liniștită în jurul lacului este foarte recomandată.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Black Park Lake",
+            "tip": "A quiet walk around the lake is highly recommended.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Farm Shop in der Nähe von Black Park",
+            "tip": "Halten Sie Ausschau nach Hofläden, die lokale Produkte und Handwerk verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farm bolt a Black Park közelében",
+            "tip": "Keresse a helyi termékeket és kézműves termékeket árusító farm boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de fermă lângă Parcul Negru",
+            "tip": "Fiți atenți la magazinele de fermă care vând produse și meșteșuguri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shop near Black Park",
+            "tip": "Look out for farm shops selling local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren für die Parks und das Stadtzentrum.",
+          "Planen Sie zusätzliche Zeit für den Verkehr während der Stoßzeiten ein.",
+          "Ein GPS ist unerlässlich, um zwischen den Standorten zu navigieren."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat a parkokban és a városközpontban.",
+          "Tervezzen plusz időt a csúcsforgalomra.",
+          "A GPS elengedhetetlen a helyszínek közötti navigációhoz."
+        ],
+        "ro": [
+          "Verificați taxele de parcare pentru parcuri și centrul orașului.",
+          "Planificați timp suplimentar pentru trafic în orele de vârf.",
+          "Un GPS este esențial pentru a naviga între locații."
+        ],
+        "en": [
+          "Check parking fees for the parks and town centre.",
+          "Allow extra time for traffic during peak hours.",
+          "A GPS is essential for navigating between locations."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Observatory Shopping Centre",
+            "hu": "The Observatory bevásárlóközpont",
+            "ro": "Centrul Comercial The Observatory",
+            "en": "The Observatory Shopping Centre"
+          },
+          "coords": [
+            -0.5925,
+            51.5105
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kommen Sie am zentralen Busbahnhof an und beginnen Sie hier Ihren Tag.",
+            "hu": "Érkezzen a központi buszpályaudvarra, és kezdje itt a napját.",
+            "ro": "Sosiți la stația centrală de autobuz și începeți ziua de aici.",
+            "en": "Arrive at the central bus station and start your day here."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "St. Marienkirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St Mary's Church"
+          },
+          "coords": [
+            -0.591,
+            51.512
+          ],
+          "category": "churches",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer, angenehmer Spaziergang vom Einkaufszentrum entfernt.",
+            "hu": "Rövid, kellemes séta a bevásárlóközponttól.",
+            "ro": "O plimbare scurtă și plăcută de la centrul comercial.",
+            "en": "A short, pleasant walk from the shopping centre."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "The Curve",
+            "hu": "The Curve",
+            "ro": "The Curve",
+            "en": "The Curve"
+          },
+          "coords": [
+            -0.595,
+            51.511
+          ],
+          "category": "theatres",
+          "arrive_at": "10:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses moderne architektonische Wahrzeichen.",
+            "hu": "Csodálja meg ezt a modern építészeti remekművet.",
+            "ro": "Admirați acest reper arhitectural modern.",
+            "en": "Admire this modern architectural landmark."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Herschel Park",
+            "hu": "Herschel Park",
+            "ro": "Parcul Herschel",
+            "en": "Herschel Park"
+          },
+          "coords": [
+            -0.605,
+            51.505
+          ],
+          "category": "parks",
+          "arrive_at": "12:16",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus für eine kurze Fahrt und genießen Sie diesen viktorianischen Park.",
+            "hu": "Szálljon buszra egy rövid útra, és élvezze ezt a viktoriánus parkot.",
+            "ro": "Luați un autobuz pentru o călătorie scurtă și bucurați-vă de acest parc victorian.",
+            "en": "Take a bus for a short ride to enjoy this Victorian park."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Upton Court Park",
+            "hu": "Upton Court Park",
+            "ro": "Parcul Upton Court",
+            "en": "Upton Court Park"
+          },
+          "coords": [
+            -0.615,
+            51.501
+          ],
+          "category": "parks",
+          "arrive_at": "14:41",
+          "stay_min": 154,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Ein weiterer kurzer Bus-Hop für eine andere Park-Erfahrung mit weiten, offenen Flächen.",
+            "hu": "Egy újabb rövid buszozás egy másik parkélményért, tágas, nyitott terekkel.",
+            "ro": "O altă scurtă călătorie cu autobuzul pentru o experiență diferită în parc, cu spații largi deschise.",
+            "en": "Another short bus hop for a different park experience with wide open spaces."
+          },
+          "hop_mode": "transit"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das öffentliche Verkehrsnetz von Slough, um die wichtigsten Sehenswürdigkeiten zu erkunden. Beginnen Sie im Stadtzentrum, wo Sie das Observatory Shopping Centre, die St. Mary's Church und The Curve zu Fuß erreichen können. Am Nachmittag nehmen Sie einen Bus zum historischen Herschel Park für eine Dosis Natur, gefolgt von einer weiteren kurzen Fahrt zum weitläufigen Upton Court Park. Diese Route zeigt, wie einfach es ist, städtische Zentren und grüne Rückzugsorte mit dem Bus zu verbinden.",
+        "hu": "Használja Slough tömegközlekedési hálózatát a főbb látnivalók felfedezéséhez. Kezdje a városközpontban, ahol gyalogosan elérheti az Observatory bevásárlóközpontot, a Szent Mária-templomot és a The Curve-ot. Délután busszal utazzon el a történelmi Herschel Parkba egy adag természetért, majd egy újabb rövid úttal a tágas Upton Court Parkba. Ez az útvonal megmutatja, milyen könnyű busszal összekötni a városi csomópontokat és a zöld menedékhelyeket.",
+        "ro": "Folosiți rețeaua de transport public din Slough pentru a explora atracțiile cheie. Începeți în centrul orașului, cu un grup pietonal care include Centrul Comercial Observatory, Biserica Sf. Maria și The Curve. După-amiaza, luați un autobuz spre istoricul Parc Herschel pentru o doză de natură, urmat de o altă scurtă călătorie spre întinsul Parc Upton Court. Acest traseu demonstrează cât de ușor este să conectați centrele urbane și evadările verzi cu autobuzul.",
+        "en": "Use Slough's public transport network to explore key attractions. Start in the town centre with a walkable cluster including the Observatory Shopping Centre, St Mary's Church, and The Curve. In the afternoon, take a bus to the historic Herschel Park for a dose of nature, followed by another short ride to the expansive Upton Court Park. This route shows how easy it is to connect urban hubs and green escapes by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Essen zum Mitnehmen",
+            "tip": "Holen Sie sich ein Sandwich oder Gebäck in der Nähe des Busbahnhofs für ein schnelles Mittagessen unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elvitelre",
+            "tip": "Vegyen egy szendvicset vagy péksüteményt a buszpályaudvar közelében egy gyors ebédhez útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mâncare la pachet",
+            "tip": "Luați un sandviș sau un produs de patiserie de lângă stația de autobuz pentru un prânz rapid din mers."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grab-and-go meal",
+            "tip": "Pick up a sandwich or a pastry near the bus station for a quick lunch on the move."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Genießen Sie die Aussicht und eine andere Perspektive auf die Stadt.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emeletes busz felső szintje",
+            "tip": "Élvezze a kilátást és a város egy másik perspektíváját.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Bucurați-vă de priveliști și de o perspectivă diferită asupra orașului.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top deck of a double-decker bus",
+            "tip": "Enjoy the views and a different perspective of the town.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Slough High Street",
+            "tip": "In der Nähe des Busbahnhofs finden Sie eine Vielzahl von Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Slough High Street",
+            "tip": "A buszpályaudvar közelében számos üzletet talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Slough High Street",
+            "tip": "Aproape de stația de autobuz, pentru o varietate de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Slough High Street",
+            "tip": "Close to the bus station for a variety of shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie eine lokale Bus-App herunter, um die Fahrpläne in Echtzeit zu verfolgen.",
+          "Halten Sie Kleingeld bereit, falls Sie Tickets im Bus kaufen müssen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltsön le egy helyi buszos alkalmazást a valós idejű menetrendek követéséhez.",
+          "Legyen Önnél aprópénz, ha a buszon kell jegyet vennie."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați o aplicație locală de autobuz pentru a urmări orarele în timp real.",
+          "Aveți la îndemână mărunțiș în caz că trebuie să cumpărați bilete din autobuz."
+        ],
+        "en": [
+          "Consider buying a day-rider ticket for unlimited travel.",
+          "Download a local bus app for real-time tracking.",
+          "Keep some change handy in case you need to buy tickets on the bus."
+        ]
+      }
+    }
+  }
+}

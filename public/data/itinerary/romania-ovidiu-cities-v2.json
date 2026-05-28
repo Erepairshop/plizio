@@ -1,0 +1,1132 @@
+{
+  "city_id": "romania-ovidiu-cities-v2",
+  "anchor": {
+    "name": "Ovidiu",
+    "coords": [
+      28.56,
+      44.26
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ovid-Denkmal",
+            "hu": "Ovidius-emlékmű",
+            "ro": "Statuia lui Ovidiu",
+            "en": "Ovid Statue"
+          },
+          "coords": [
+            28.5615,
+            44.2655
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Zentralpark Ovidiu",
+            "hu": "Ovidiu Központi Park",
+            "ro": "Parcul Central Ovidiu",
+            "en": "Ovidiu Central Park"
+          },
+          "coords": [
+            28.562,
+            44.266
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:27",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Geamia Ovidiu",
+            "hu": "Ovidiusi mecset",
+            "ro": "Geamia Ovidiu",
+            "en": "Ovidiu Mosque"
+          },
+          "coords": [
+            28.5635,
+            44.267
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:16",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Römisches Kastell",
+            "hu": "Római erőd",
+            "ro": "Castrul Roman",
+            "en": "Roman Fort"
+          },
+          "coords": [
+            28.568,
+            44.271
+          ],
+          "category": "historical",
+          "arrive_at": "11:08",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6
+        },
+        {
+          "name": {
+            "de": "Touristenhafen",
+            "hu": "Turistakikötő",
+            "ro": "Portul Turistic",
+            "en": "Tourist Harbor"
+          },
+          "coords": [
+            28.558,
+            44.261
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:38",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Siutghiol-Seeufer",
+            "hu": "Siutghiol-tó partja",
+            "ro": "Malul Lacului Siutghiol",
+            "en": "Siutghiol Lakeside"
+          },
+          "coords": [
+            28.545,
+            44.26
+          ],
+          "category": "natural features",
+          "arrive_at": "15:26",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 2.4
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Ovid-Denkmal, bevor Sie durch den Zentralpark schlendern. Erkunden Sie die historische Geamia und das römische Kastell. Am Nachmittag erreichen Sie den Touristenhafen für ein entspanntes Mittagessen. Schließen Sie den Tag mit einem langen Spaziergang am Ufer des Siutghiol-Sees ab und genießen Sie die ruhige Atmosphäre.",
+        "hu": "Kezdje a napot az Ovidius-emlékműnél, majd sétáljon át a központi parkon. Fedezze fel a történelmi mecsetet és a római erődöt. Délután érkezzen meg a turistakikötőbe egy kellemes ebédre. A napot egy hosszú sétával zárja a Siutghiol-tó partján, élvezve a nyugodt légkört.",
+        "ro": "Începeți ziua la Statuia lui Ovidiu, apoi plimbați-vă prin Parcul Central. Explorați geamia istorică și castrul roman. După-amiaza, ajungeți în Portul Turistic pentru un prânz relaxant. Încheiați ziua cu o plimbare lungă pe malul lacului Siutghiol, bucurându-vă de atmosfera liniștită.",
+        "en": "Start your day at the Ovid Statue before strolling through the Central Park. Explore the historic mosque and the Roman fort. In the afternoon, arrive at the Tourist Harbor for a relaxing lunch. End the day with a long walk along the shore of Lake Siutghiol, enjoying the peaceful atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Karpfen in Salzlake, eine lokale Spezialität."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Im Ofen gebackener Fisch mit Gemüse."
+          },
+          {
+            "name": "Cherhanaua Ovidiu",
+            "tip": "Bekannt für frische Fischgerichte direkt am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Ponty sós lében, helyi különlegesség."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Sütőben sült hal zöldségekkel."
+          },
+          {
+            "name": "Cherhanaua Ovidiu",
+            "tip": "A tónál található, friss halételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Crap gătit în saramură, o specialitate locală."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Pește la cuptor cu legume."
+          },
+          {
+            "name": "Cherhanaua Ovidiu",
+            "tip": "Renumită pentru preparatele din pește proaspăt, chiar pe malul lacului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saramură de crap",
+            "tip": "Carp in brine, a local specialty."
+          },
+          {
+            "name": "Plachie de pește",
+            "tip": "Oven-baked fish with vegetables."
+          },
+          {
+            "name": "Cherhanaua Ovidiu",
+            "tip": "Known for fresh fish dishes right by the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Siutghiol-Seeufer bei Sonnenuntergang",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie den Sonnenuntergang über dem Wasser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Zentralpark Ovidiu am frühen Morgen",
+            "tip": "Genießen Sie die Stille des Parks, bevor die Stadt erwacht.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Siutghiol-tó partja naplementekor",
+            "tip": "Keressen egy csendes padot, és nézze a naplementét a víz felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ovidiu Központi Park kora reggel",
+            "tip": "Élvezze a park csendjét, mielőtt a város felébred.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Lacului Siutghiol la apus",
+            "tip": "Găsiți o bancă liniștită și priviți apusul peste apă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Central Ovidiu dimineața devreme",
+            "tip": "Bucurați-vă de liniștea parcului înainte ca orașul să se trezească.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Siutghiol Lakeside at sunset",
+            "tip": "Find a quiet bench and watch the sunset over the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ovidiu Central Park in the early morning",
+            "tip": "Enjoy the quiet of the park before the town wakes up.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach lokalen Produkten und handgefertigten Souvenirs mit Bezug zu Ovid."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen helyi termékeket és Ovidiushoz kapcsolódó kézműves ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați produse locale și suveniruri artizanale legate de Ovidiu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for local produce and handmade souvenirs related to Ovid."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders an warmen Tagen.",
+          "Planen Sie genügend Zeit für das Mittagessen am Hafen ein, um die Aussicht zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Vigyen magával vizet, különösen meleg napokon.",
+          "Tervezzen elegendő időt az ebédre a kikötőben, hogy élvezhesse a kilátást."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați apă cu dumneavoastră, mai ales în zilele călduroase.",
+          "Planificați suficient timp pentru prânz în port pentru a vă bucura de priveliște."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring water with you, especially on warm days.",
+          "Allow plenty of time for lunch at the harbor to enjoy the view."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralpark Ovidiu",
+            "hu": "Ovidiu Központi Park",
+            "ro": "Parcul Central Ovidiu",
+            "en": "Ovidiu Central Park"
+          },
+          "coords": [
+            28.562,
+            44.266
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Ovid-Denkmal",
+            "hu": "Ovidius-emlékmű",
+            "ro": "Statuia lui Ovidiu",
+            "en": "Ovid Statue"
+          },
+          "coords": [
+            28.5615,
+            44.2655
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:41",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Ion Creangă",
+            "hu": "Ion Creangă Kulturális Központ",
+            "ro": "Centrul Cultural Ion Creangă",
+            "en": "Ion Creangă Cultural Center"
+          },
+          "coords": [
+            28.56,
+            44.268
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:59",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Geamia Ovidiu",
+            "hu": "Ovidiusi mecset",
+            "ro": "Geamia Ovidiu",
+            "en": "Ovidiu Mosque"
+          },
+          "coords": [
+            28.5635,
+            44.267
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:47",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Römisches Kastell",
+            "hu": "Római erőd",
+            "ro": "Castrul Roman",
+            "en": "Roman Fort"
+          },
+          "coords": [
+            28.568,
+            44.271
+          ],
+          "category": "historical",
+          "arrive_at": "11:32",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8
+        },
+        {
+          "name": {
+            "de": "Touristenhafen & Mittagessen",
+            "hu": "Turistakikötő és ebéd",
+            "ro": "Portul Turistic & Prânz",
+            "en": "Tourist Harbor & Lunch"
+          },
+          "coords": [
+            28.558,
+            44.261
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:44",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0
+        },
+        {
+          "name": {
+            "de": "Radtour am Siutghiol-See",
+            "hu": "Biciklitúra a Siutghiol-tó mentén",
+            "ro": "Tură cu bicicleta pe malul lacului Siutghiol",
+            "en": "Bike ride along Lake Siutghiol"
+          },
+          "coords": [
+            28.535,
+            44.255
+          ],
+          "category": "natural features",
+          "arrive_at": "15:06",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 8.5
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Ovidiu auf zwei Rädern. Starten Sie im Park, besuchen Sie die wichtigsten Kultur- und Geschichtsstätten. Machen Sie eine Mittagspause am Hafen. Der Nachmittag ist einer langen, malerischen Radtour entlang des Siutghiol-Sees gewidmet, die Ihnen atemberaubende Ausblicke und frische Luft bietet.",
+        "hu": "Fedezze fel Ovidiut két keréken. Kezdjen a parkban, látogassa meg a főbb kulturális és történelmi helyszíneket. Tartson ebédszünetet a kikötőben. A délutánt egy hosszú, festői biciklitúrának szenteli a Siutghiol-tó mentén, amely lenyűgöző kilátást és friss levegőt kínál.",
+        "ro": "Explorați Ovidiu pe două roți. Începeți în parc, vizitați principalele situri culturale și istorice. Luați o pauză de prânz în port. După-amiaza este dedicată unei lungi și pitorești plimbări cu bicicleta de-a lungul lacului Siutghiol, oferindu-vă priveliști uimitoare și aer curat.",
+        "en": "Explore Ovidiu on two wheels. Start in the park, visit the main cultural and historical sites. Take a lunch break at the harbor. The afternoon is dedicated to a long, scenic bike ride along Lake Siutghiol, offering stunning views and fresh air."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hamsii prăjite",
+            "tip": "Gebratene Sardellen, ein perfekter Snack am See."
+          },
+          {
+            "name": "Ciorbă de pește",
+            "tip": "Eine traditionelle, leicht säuerliche Fischsuppe."
+          },
+          {
+            "name": "Restaurant Insula Ovidiu",
+            "tip": "Für ein besonderes Erlebnis, nehmen Sie die Fähre zu diesem Restaurant auf der Insel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hamsii prăjite",
+            "tip": "Sült szardella, tökéletes harapnivaló a tóparton."
+          },
+          {
+            "name": "Ciorbă de pește",
+            "tip": "Hagyományos, enyhén savanykás halleves."
+          },
+          {
+            "name": "Restaurant Insula Ovidiu",
+            "tip": "Különleges élményért vegye igénybe a kompot az étteremhez a szigeten."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hamsii prăjite",
+            "tip": "Hamsii prăjite, o gustare perfectă pe malul lacului."
+          },
+          {
+            "name": "Ciorbă de pește",
+            "tip": "O ciorbă tradițională, ușor acrișoară, de pește."
+          },
+          {
+            "name": "Restaurant Insula Ovidiu",
+            "tip": "Pentru o experiență specială, luați feribotul către acest restaurant de pe insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hamsii prăjite",
+            "tip": "Fried anchovies, a perfect lakeside snack."
+          },
+          {
+            "name": "Ciorbă de pește",
+            "tip": "A traditional, slightly sour fish soup."
+          },
+          {
+            "name": "Restaurant Insula Ovidiu",
+            "tip": "For a special experience, take the ferry to this restaurant on the island."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt am Seeufer",
+            "tip": "Die Radtour selbst ist eine Form der Meditation und bietet viele ruhige Momente.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pause am römischen Kastell",
+            "tip": "Ein geschichtsträchtiger Ort, der zum Nachdenken anregt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a tó partján",
+            "tip": "Maga a biciklizés egyfajta meditáció, és sok csendes pillanatot kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pihenő a római erődnél",
+            "tip": "Történelmi hely, amely elgondolkodtat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul lacului",
+            "tip": "Plimbarea cu bicicleta în sine este o formă de meditație, oferind multe momente de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pauză la Castrul Roman",
+            "tip": "Un loc încărcat de istorie care invită la reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ride along the lakeside",
+            "tip": "The bike ride itself is a form of meditation, offering many quiet moments.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Break at the Roman Fort",
+            "tip": "A place steeped in history that invites reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksprodukte",
+            "tip": "Halten Sie Ausschau nach handgefertigter Keramik und Textilien aus der Dobrudscha-Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keresse a Dobrudzsa régióból származó kézzel készített kerámiákat és textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de artizanat locale",
+            "tip": "Căutați ceramică și textile lucrate manual din regiunea Dobrogei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local artisan products",
+            "tip": "Look for handmade pottery and textiles from the Dobrogea region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Nehmen Sie ein Schloss mit, um das Fahrrad während der Besichtigungen sicher abzustellen.",
+          "Die Strecke am See kann windig sein, eine leichte Jacke ist empfehlenswert."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Vigyen magával lakatot, hogy biztonságban lezárhassa a kerékpárt a látnivalóknál.",
+          "A tóparti szakasz szeles lehet, ajánlott egy könnyű dzseki."
+        ],
+        "ro": [
+          "Verificați bicicleta înainte de a porni.",
+          "Luați un lacăt pentru a asigura bicicleta în timpul vizitelor.",
+          "Traseul de pe malul lacului poate fi vântos, o jachetă ușoară este recomandată."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Bring a lock to secure the bike during sight visits.",
+          "The lakeside route can be windy, a light jacket is recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Ovid-Denkmal",
+            "hu": "Parkoló a központban és Ovidius-emlékmű",
+            "ro": "Parcare Centru & Statuia lui Ovidiu",
+            "en": "Central Parking & Ovid Statue"
+          },
+          "coords": [
+            28.561,
+            44.265
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Zentralpark Ovidiu",
+            "hu": "Ovidiu Központi Park",
+            "ro": "Parcul Central Ovidiu",
+            "en": "Ovidiu Central Park"
+          },
+          "coords": [
+            28.562,
+            44.266
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:27",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Geamia Ovidiu",
+            "hu": "Ovidiusi mecset",
+            "ro": "Geamia Ovidiu",
+            "en": "Ovidiu Mosque"
+          },
+          "coords": [
+            28.5635,
+            44.267
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:01",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Römischen Kastell",
+            "hu": "Utazás a Római Erődhöz",
+            "ro": "Deplasare la Castrul Roman",
+            "en": "Drive to the Roman Fort"
+          },
+          "coords": [
+            28.568,
+            44.271
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7
+        },
+        {
+          "name": {
+            "de": "Touristenhafen & Bootsfahrt zur Insel Ovidiu",
+            "hu": "Turistakikötő és hajóút az Ovidius-szigetre",
+            "ro": "Port Turistic & Plimbare cu barca pe Insula Ovidiu",
+            "en": "Tourist Harbor & Boat trip to Ovidiu Island"
+          },
+          "coords": [
+            28.558,
+            44.261
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:12",
+          "stay_min": 180,
+          "hop_mode": "car",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.0
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Siutghiol-Seeufer für den Sonnenuntergang",
+            "hu": "Utazás a Siutghiol-tó partjára naplementét nézni",
+            "ro": "Deplasare la malul Lacului Siutghiol pentru apus",
+            "en": "Drive to Siutghiol Lakeside for sunset"
+          },
+          "coords": [
+            28.53,
+            44.25
+          ],
+          "category": "natural features",
+          "arrive_at": "16:20",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 6.0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos. Parken Sie im Zentrum und erkunden Sie die Sehenswürdigkeiten zu Fuß. Fahren Sie dann zum römischen Kastell. Der Höhepunkt des Tages ist der Besuch des Hafens und eine Bootsfahrt zur Insel Ovidiu für ein unvergessliches Mittagessen. Beenden Sie den Tag mit einer kurzen Fahrt zum Seeufer, um den spektakulären Sonnenuntergang zu erleben.",
+        "hu": "Használja ki az autó nyújtotta rugalmasságot. Parkoljon a központban és fedezze fel gyalog a látnivalókat. Ezután vezessen a római erődhöz. A nap fénypontja a kikötő meglátogatása és egy hajókirándulás az Ovidius-szigetre egy felejthetetlen ebédért. A napot egy rövid autózással zárja a tóparthoz, hogy megnézze a látványos naplementét.",
+        "ro": "Profitați de flexibilitatea mașinii. Parcați în centru și explorați obiectivele turistice pe jos. Apoi, conduceți la castrul roman. Punctul culminant al zilei este vizita în port și o excursie cu barca pe Insula Ovidiu pentru un prânz de neuitat. Încheiați ziua cu o scurtă deplasare cu mașina pe malul lacului pentru a admira apusul spectaculos.",
+        "en": "Use the flexibility of the car. Park in the center and explore the sights on foot. Then drive to the Roman fort. The highlight of the day is a visit to the harbor and a boat trip to Ovidiu Island for an unforgettable lunch. End your day with a short drive to the lakeside to watch the spectacular sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Insula Ovidiu",
+            "tip": "Ein einzigartiges kulinarisches Erlebnis auf der Insel im Siutghiol-See."
+          },
+          {
+            "name": "Scrumbie la grătar",
+            "tip": "Gegrillte Schwarzmeer-Makrele, eine Delikatesse."
+          },
+          {
+            "name": "Poale-n brâu dobrogene",
+            "tip": "Ein traditioneller Käsekuchen aus der Dobrudscha."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Insula Ovidiu",
+            "tip": "Egyedülálló kulináris élmény a Siutghiol-tó szigetén."
+          },
+          {
+            "name": "Scrumbie la grătar",
+            "tip": "Grillezett fekete-tengeri makréla, igazi ínyencség."
+          },
+          {
+            "name": "Poale-n brâu dobrogene",
+            "tip": "Hagyományos dobrudzsai túrós sütemény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Insula Ovidiu",
+            "tip": "O experiență culinară unică pe insula de pe lacul Siutghiol."
+          },
+          {
+            "name": "Scrumbie la grătar",
+            "tip": "Scrumbie de Dunăre la grătar, o delicatesă."
+          },
+          {
+            "name": "Poale-n brâu dobrogene",
+            "tip": "O plăcintă tradițională cu brânză din Dobrogea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Insula Ovidiu",
+            "tip": "A unique dining experience on the island in Lake Siutghiol."
+          },
+          {
+            "name": "Scrumbie la grătar",
+            "tip": "Grilled Pontic shad, a delicacy."
+          },
+          {
+            "name": "Poale-n brâu dobrogene",
+            "tip": "A traditional cheese pie from Dobrogea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Insel Ovidiu",
+            "tip": "Entfliehen Sie dem Trubel und genießen Sie die Ruhe und Natur auf der Insel.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Abend am Siutghiol-See",
+            "tip": "Der perfekte Ort, um den Tag in Stille ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ovidius-sziget",
+            "tip": "Meneküljön el a nyüzsgés elől, és élvezze a sziget csendjét és természetét.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Este a Siutghiol-tónál",
+            "tip": "A tökéletes hely a nap csendes lezárásához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Ovidiu",
+            "tip": "Evadați din agitație și bucurați-vă de liniștea și natura de pe insulă.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Seara pe malul Lacului Siutghiol",
+            "tip": "Locul perfect pentru a încheia ziua în liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ovidiu Island",
+            "tip": "Escape the hustle and bustle and enjoy the peace and nature on the island.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Evening at Lake Siutghiol",
+            "tip": "The perfect place to end the day in tranquility.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs von der Insel Ovidiu",
+            "tip": "Finden Sie einzigartige Andenken, die von der Legende des Dichters Ovid inspiriert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak az Ovidius-szigetről",
+            "tip": "Találjon egyedi emléktárgyakat, amelyeket Ovidius költő legendája ihletett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de pe Insula Ovidiu",
+            "tip": "Găsiți amintiri unice inspirate de legenda poetului Ovidiu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs from Ovidiu Island",
+            "tip": "Find unique keepsakes inspired by the legend of the poet Ovid."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Fährzeiten zur Insel Ovidiu im Voraus.",
+          "Parkmöglichkeiten im Stadtzentrum können begrenzt sein, planen Sie etwas Zeit für die Suche ein.",
+          "Reservieren Sie einen Tisch im Inselrestaurant, besonders in der Hochsaison."
+        ],
+        "hu": [
+          "Előre ellenőrizze a kompok menetrendjét az Ovidius-szigetre.",
+          "A parkolási lehetőségek a városközpontban korlátozottak lehetnek, tervezzen időt a keresésre.",
+          "Foglaljon asztalt a szigeti étteremben, különösen a főszezonban."
+        ],
+        "ro": [
+          "Verificați în avans programul feribotului spre Insula Ovidiu.",
+          "Parcarea în centrul orașului poate fi limitată, planificați timp suplimentar pentru a găsi un loc.",
+          "Rezervați o masă la restaurantul de pe insulă, mai ales în sezonul de vârf."
+        ],
+        "en": [
+          "Check the ferry schedule to Ovidiu Island in advance.",
+          "Parking in the city center can be limited, allow extra time to find a spot.",
+          "Make a reservation at the island restaurant, especially during peak season."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 6.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrum & Ovid-Denkmal",
+            "hu": "Központ és Ovidius-emlékmű",
+            "ro": "Centru & Statuia lui Ovidiu",
+            "en": "Center & Ovid Statue"
+          },
+          "coords": [
+            28.5615,
+            44.2655
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Zentralpark und Geamia",
+            "hu": "Központi park és mecset",
+            "ro": "Parcul Central și Geamia",
+            "en": "Central Park and Mosque"
+          },
+          "coords": [
+            28.563,
+            44.2665
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:29",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Touristenhafen",
+            "hu": "Buszozás a Turistakikötőhöz",
+            "ro": "Călătorie cu transportul public la Portul Turistic",
+            "en": "Transit to Tourist Harbor"
+          },
+          "coords": [
+            28.558,
+            44.261
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:49",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0
+        },
+        {
+          "name": {
+            "de": "Bootsfahrt & Mittagessen auf der Insel Ovidiu",
+            "hu": "Hajóút és ebéd az Ovidius-szigeten",
+            "ro": "Excursie cu barca și prânz pe Insula Ovidiu",
+            "en": "Boat trip & Lunch on Ovidiu Island"
+          },
+          "coords": [
+            28.538,
+            44.248
+          ],
+          "category": "natural features",
+          "arrive_at": "11:39",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Siutghiol-Seeufer",
+            "hu": "Buszozás a Siutghiol-tó partjára",
+            "ro": "Călătorie cu transportul public la malul lacului Siutghiol",
+            "en": "Transit to Siutghiol Lakeside"
+          },
+          "coords": [
+            28.545,
+            44.26
+          ],
+          "category": "natural features",
+          "arrive_at": "15:43",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 4.4
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Ovidiu mit öffentlichen Verkehrsmitteln. Beginnen Sie im Zentrum und spazieren Sie durch den Park zur Moschee. Nehmen Sie einen Bus zum Hafen für die Bootsfahrt zur Insel Ovidiu, wo Sie zu Mittag essen. Ein weiterer Bus bringt Sie am Nachmittag zum ruhigen Ufer des Siutghiol-Sees, wo Sie den Tag ausklingen lassen.",
+        "hu": "Fedezze fel Ovidiut tömegközlekedéssel. Kezdje a központban, sétáljon át a parkon a mecsethez. Szálljon buszra a kikötőhöz, ahonnan hajóval juthat el az Ovidius-szigetre ebédelni. Egy másik busz elviszi délután a Siutghiol-tó csendes partjára, ahol befejezheti a napot.",
+        "ro": "Explorați Ovidiu folosind transportul public. Începeți în centru și plimbați-vă prin parc până la geamie. Luați un autobuz spre port pentru o excursie cu barca pe Insula Ovidiu, unde veți lua prânzul. Un alt autobuz vă va duce după-amiază pe malul liniștit al lacului Siutghiol pentru a încheia ziua.",
+        "en": "Explore Ovidiu using public transport. Start in the center and walk through the park to the mosque. Take a bus to the harbor for the boat trip to Ovidiu Island, where you'll have lunch. Another bus will take you to the peaceful shore of Lake Siutghiol in the afternoon to end your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gogoși",
+            "tip": "Probieren Sie die lokalen Donuts von einem Straßenverkäufer."
+          },
+          {
+            "name": "Storceag",
+            "tip": "Eine reichhaltige Fischeintopf-Suppe, oft mit Stör zubereitet."
+          },
+          {
+            "name": "Plăcintă dobrogeană",
+            "tip": "Salziger Käsekuchen, typisch für die Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gogoși",
+            "tip": "Kóstolja meg a helyi fánkot egy utcai árustól."
+          },
+          {
+            "name": "Storceag",
+            "tip": "Gazdag halászlé, gyakran tokhalból készítve."
+          },
+          {
+            "name": "Plăcintă dobrogeană",
+            "tip": "Sós túrós pite, a régióra jellemző."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gogoși",
+            "tip": "Încercați gogoșile locale de la un vânzător ambulant."
+          },
+          {
+            "name": "Storceag",
+            "tip": "O ciorbă bogată de pește, adesea preparată cu sturion."
+          },
+          {
+            "name": "Plăcintă dobrogeană",
+            "tip": "O plăcintă cu brânză sărată, tipică regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gogoși",
+            "tip": "Try the local doughnuts from a street vendor."
+          },
+          {
+            "name": "Storceag",
+            "tip": "A rich fish stew-soup, often made with sturgeon."
+          },
+          {
+            "name": "Plăcintă dobrogeană",
+            "tip": "Salty cheese pie, typical for the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bootsfahrt auf dem Siutghiol-See",
+            "tip": "Die Fahrt zur Insel bietet einen Moment der Ruhe und eine andere Perspektive auf die Stadt.",
+            "emoji": "🚤"
+          },
+          {
+            "name": "Spaziergang auf der Insel Ovidiu",
+            "tip": "Abseits vom Festland finden Sie hier eine friedliche Oase.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hajókázás a Siutghiol-tavon",
+            "tip": "Az utazás a szigetre egy pillanatnyi nyugalmat és más nézőpontot kínál a városra.",
+            "emoji": "🚤"
+          },
+          {
+            "name": "Séta az Ovidius-szigeten",
+            "tip": "A szárazföldtől távol egy békés oázisra talál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu barca pe Lacul Siutghiol",
+            "tip": "Călătoria spre insulă oferă un moment de liniște și o perspectivă diferită asupra orașului.",
+            "emoji": "🚤"
+          },
+          {
+            "name": "Plimbare pe Insula Ovidiu",
+            "tip": "Departe de continent, veți găsi aici o oază de pace.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Boat trip on Lake Siutghiol",
+            "tip": "The journey to the island offers a moment of peace and a different perspective of the city.",
+            "emoji": "🚤"
+          },
+          {
+            "name": "Walk on Ovidiu Island",
+            "tip": "Away from the mainland, you will find a peaceful oasis here.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Die Dobrudscha ist bekannt für ihren hochwertigen Honig, ein süßes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Dobrudzsa híres a kiváló minőségű mézéről, édes ajándéktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Dobrogea este cunoscută pentru mierea sa de înaltă calitate, un suvenir dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Dobrogea is known for its high-quality honey, a sweet souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über die Buslinien und Fahrpläne.",
+          "Kaufen Sie eine Tageskarte, wenn dies eine kostengünstigere Option ist.",
+          "Beachten Sie die Abfahrtszeiten der letzten Fähre von der Insel Ovidiu."
+        ],
+        "hu": [
+          "Tájékozódjon a buszjáratokról és a menetrendekről.",
+          "Vásároljon napijegyet, ha ez költséghatékonyabb megoldás.",
+          "Vegye figyelembe az utolsó komp indulási idejét az Ovidius-szigetről."
+        ],
+        "ro": [
+          "Informați-vă despre rutele și orarele autobuzelor.",
+          "Cumpărați un bilet de o zi dacă este o opțiune mai rentabilă.",
+          "Fiți atenți la ora de plecare a ultimului feribot de pe Insula Ovidiu."
+        ],
+        "en": [
+          "Find out about the bus routes and schedules.",
+          "Buy a day pass if it is a more cost-effective option.",
+          "Pay attention to the departure time of the last ferry from Ovidiu Island."
+        ]
+      }
+    }
+  }
+}

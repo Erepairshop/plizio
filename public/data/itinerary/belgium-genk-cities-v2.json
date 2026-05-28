@@ -1,0 +1,1206 @@
+{
+  "city_id": "belgium-genk-cities-v2",
+  "anchor": {
+    "name": "Genk",
+    "coords": [
+      5.5008,
+      50.9655
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vennestraat: Straße der Sinne",
+            "hu": "Vennestraat: Az érzékek utcája",
+            "ro": "Vennestraat: Strada simțurilor",
+            "en": "Vennestraat: Street of Senses"
+          },
+          "coords": [
+            5.5015,
+            50.9733
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Starten Sie mit einem Kaffee in einem der vielen multikulturellen Cafés.",
+            "hu": "Kezdje a napot egy kávéval a számos multikulturális kávézó egyikében.",
+            "ro": "Începeți ziua cu o cafea într-una din numeroasele cafenele multiculturale.",
+            "en": "Start your day with a coffee in one of the many multicultural cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Martins-Kirche",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Saint Martin's Church"
+          },
+          "coords": [
+            5.4988,
+            50.9658
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_4lang": {
+            "de": "Achten Sie auf die moderne Architektur, die sich in die alte Struktur einfügt.",
+            "hu": "Figyelje meg a modern építészetet, amely illeszkedik a régi szerkezethez.",
+            "ro": "Observați arhitectura modernă care se integrează în structura veche.",
+            "en": "Notice the modern architecture that blends with the old structure."
+          }
+        },
+        {
+          "name": {
+            "de": "C-Mine",
+            "hu": "C-Mine",
+            "ro": "C-Mine",
+            "en": "C-Mine"
+          },
+          "coords": [
+            5.5281,
+            50.9782
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.1,
+          "tip_4lang": {
+            "de": "Nehmen Sie an der C-Mine-Expedition teil, einem einzigartigen unterirdischen Erlebnis.",
+            "hu": "Vegyen részt a C-Mine expedíción, egy egyedülálló földalatti élményen.",
+            "ro": "Participați la expediția C-Mine, o experiență subterană unică.",
+            "en": "Take the C-Mine expedition, a unique underground experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Labiomista",
+            "hu": "Labiomista",
+            "ro": "Labiomista",
+            "en": "Labiomista"
+          },
+          "coords": [
+            5.5345,
+            50.9855
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:58",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_4lang": {
+            "de": "Erkunden Sie das Studio, das Wohnhaus und den Park dieses Gesamtkunstwerks.",
+            "hu": "Fedezze fel ennek az összművészeti alkotásnak a stúdióját, lakóházát és parkját.",
+            "ro": "Explorați studioul, casa și parcul acestei opere de artă totale.",
+            "en": "Explore the studio, the house, and the park of this total work of art."
+          }
+        },
+        {
+          "name": {
+            "de": "Thor Park",
+            "hu": "Thor Park",
+            "ro": "Parcul Thor",
+            "en": "Thor Park"
+          },
+          "coords": [
+            5.5492,
+            50.9631
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:06",
+          "stay_min": 59,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.9,
+          "tip_4lang": {
+            "de": "Besteigen Sie den alten Förderturm für einen Panoramablick.",
+            "hu": "Másszon fel a régi fejtőtoronyba a panorámás kilátásért.",
+            "ro": "Urcați în vechiul turn de extracție pentru o vedere panoramică.",
+            "en": "Climb the old headframe for a panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Genk beginnt in der lebhaften Vennestraat, dem perfekten Ort, um die multikulturelle Atmosphäre aufzusaugen. Nach einem kurzen Spaziergang erreichen Sie die moderne Sankt-Martins-Kirche. Am Mittag tauchen Sie im C-Mine in die Bergbaugeschichte ein, eine fesselnde Reise in die industrielle Vergangenheit. Der Nachmittag ist der Kunst und der Zukunft gewidmet: Zuerst erkunden Sie das einzigartige Kunstprojekt Labiomista, bevor Sie im Thor Park, einem Zentrum für Technologie und Energie, den Tag mit einem Blick in die Zukunft ausklingen lassen.",
+        "hu": "A genki nap a nyüzsgő Vennestraat-on kezdődik, amely tökéletes hely a multikulturális hangulat magába szívására. Egy rövid séta után elérkezik a modern Szent Márton-templomhoz. Délben a C-Mine bányászati történelmében merülhet el, egy lenyűgöző utazáson az ipari múltba. A délután a művészeté és a jövőé: először felfedezi az egyedülálló Labiomista művészeti projektet, majd a Thor Parkban, a technológia és energia központjában, a jövőbe pillantva zárja a napot.",
+        "ro": "Ziua dvs. în Genk începe pe vibranta Vennestraat, locul perfect pentru a absorbi atmosfera multiculturală. După o scurtă plimbare, ajungeți la moderna Biserică Sfântul Martin. La prânz, vă scufundați în istoria minieră la C-Mine, o călătorie captivantă în trecutul industrial. După-amiaza este dedicată artei și viitorului: mai întâi explorați proiectul artistic unic Labiomista, înainte de a încheia ziua cu o privire spre viitor la Thor Park, un centru pentru tehnologie și energie.",
+        "en": "Your day in Genk kicks off on the vibrant Vennestraat, the perfect spot to soak up the multicultural atmosphere. After a short walk, you'll reach the modern Saint Martin's Church. At midday, you'll dive into the mining history at C-Mine, a captivating journey into the industrial past. The afternoon is dedicated to art and the future: first exploring the unique art project Labiomista, before ending the day with a glimpse into the future at Thor Park, a hub for technology and energy."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Limburgse Vlaai",
+            "tip": "Probieren Sie diesen traditionellen Obstkuchen in einer örtlichen Bäckerei."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "Ein herzhafter flämischer Rindereintopf, perfekt nach einem langen Spaziergang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Limburgi vlaai",
+            "tip": "Kóstolja meg ezt a hagyományos gyümölcsös pitét egy helyi pékségben."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "Egy kiadós flamand marharagu, tökéletes egy hosszú séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Limburgse Vlaai",
+            "tip": "Încercați această tartă tradițională cu fructe la o brutărie locală."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "O tocană flamandă de vită consistentă, perfectă după o plimbare lungă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Limburgse Vlaai",
+            "tip": "Try this traditional fruit pie at a local bakery."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "A hearty Flemish beef stew, perfect after a long walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kattevennen",
+            "tip": "Ein Tor zum Nationalpark, ideal für einen ruhigen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Molenvijverpark",
+            "tip": "Ein friedlicher Park mit Teichen im Herzen der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kattevennen",
+            "tip": "A nemzeti park kapuja, ideális egy csendes sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Molenvijverpark",
+            "tip": "Békés park tavakkal a város szívében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kattevennen",
+            "tip": "O poartă către Parcul Național, ideală pentru o plimbare liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Molenvijver",
+            "tip": "Un parc pașnic cu iazuri în inima orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kattevennen",
+            "tip": "A gateway to the National Park, ideal for a quiet walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Molenvijverpark",
+            "tip": "A peaceful park with ponds in the heart of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Shopping 1",
+            "tip": "Entdecken Sie die Boutiquen und Geschäfte im Stadtzentrum."
+          },
+          {
+            "name": "Vennestraat Markt",
+            "tip": "Am Samstagmorgen gibt es hier einen lebhaften Markt mit lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Shopping 1",
+            "tip": "Fedezze fel a butikokat és üzleteket a városközpontban."
+          },
+          {
+            "name": "Vennestraat-i piac",
+            "tip": "Szombat reggelente nyüzsgő piac helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Shopping 1",
+            "tip": "Descoperiți buticurile și magazinele din centrul orașului."
+          },
+          {
+            "name": "Piața Vennestraat",
+            "tip": "Sâmbăta dimineața există o piață plină de viață cu produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopping 1",
+            "tip": "Discover the boutiques and shops in the city center."
+          },
+          {
+            "name": "Vennestraat Market",
+            "tip": "On Saturday mornings, there's a lively market with local products here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten von C-Mine und Labiomista im Voraus.",
+          "Die Vennestraat ist abends am lebhaftesten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Ellenőrizze előre a C-Mine és a Labiomista nyitvatartását.",
+          "A Vennestraat este a legélénkebb."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "Verificați în avans orele de deschidere ale C-Mine și Labiomista.",
+          "Vennestraat este cea mai animată seara."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Check the opening hours for C-Mine and Labiomista in advance.",
+          "Vennestraat is most lively in the evening."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 21.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Freilichtmuseum Bokrijk",
+            "hu": "Bokrijk Szabadtéri Múzeum",
+            "ro": "Muzeul în aer liber Bokrijk",
+            "en": "Bokrijk Open-Air Museum"
+          },
+          "coords": [
+            5.4125,
+            50.9635
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Planen Sie genug Zeit ein, um durch die Zeit zu radeln und die historischen Gebäude zu erkunden.",
+            "hu": "Szánjon elég időt arra, hogy átbiciklizzen az időn és felfedezze a történelmi épületeket.",
+            "ro": "Planificați suficient timp pentru a pedala prin timp și a explora clădirile istorice.",
+            "en": "Plan enough time to cycle through time and explore the historic buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Vennestraat zum Mittagessen",
+            "hu": "Vennestraat ebédre",
+            "ro": "Vennestraat pentru prânz",
+            "en": "Vennestraat for Lunch"
+          },
+          "coords": [
+            5.5015,
+            50.9733
+          ],
+          "category": "gastro",
+          "arrive_at": "12:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 8.0,
+          "tip_4lang": {
+            "de": "Eine riesige Auswahl an Restaurants aus aller Welt erwartet Sie.",
+            "hu": "Világszerte éttermek hatalmas választéka várja.",
+            "ro": "Vă așteaptă o selecție uriașă de restaurante din întreaga lume.",
+            "en": "A huge selection of restaurants from all over the world awaits you."
+          }
+        },
+        {
+          "name": {
+            "de": "C-Mine",
+            "hu": "C-Mine",
+            "ro": "C-Mine",
+            "en": "C-Mine"
+          },
+          "coords": [
+            5.5281,
+            50.9782
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und begeben Sie sich auf die unterirdische Expedition.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és induljon a föld alatti expedícióra.",
+            "ro": "Încuiați-vă bicicleta în siguranță și porniți în expediția subterană.",
+            "en": "Lock your bike securely and go on the underground expedition."
+          }
+        },
+        {
+          "name": {
+            "de": "Thor Park",
+            "hu": "Thor Park",
+            "ro": "Parcul Thor",
+            "en": "Thor Park"
+          },
+          "coords": [
+            5.5492,
+            50.9631
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Der Radweg zum Thor Park ist gut ausgebaut und führt durch grüne Landschaften.",
+            "hu": "A Thor Parkba vezető kerékpárút jól kiépített és zöld tájakon vezet keresztül.",
+            "ro": "Pista de biciclete către Parcul Thor este bine dezvoltată și trece prin peisaje verzi.",
+            "en": "The cycle path to Thor Park is well-developed and passes through green landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kattevennen",
+            "hu": "Kattevennen",
+            "ro": "Kattevennen",
+            "en": "Kattevennen"
+          },
+          "coords": [
+            5.5683,
+            50.9639
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "17:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Ein perfekter Ort, um den Tag mit einem Blick auf den Sternenhimmel im Cosmodrome ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap lezárásához a Kozmodróm csillagos égboltjának megtekintésével.",
+            "ro": "Un loc perfect pentru a încheia ziua cu o privire la cerul înstelat la Cosmodrom.",
+            "en": "A perfect place to end the day with a look at the starry sky at the Cosmodrome."
+          }
+        },
+        {
+          "name": {
+            "de": "Wildpark Limburg",
+            "hu": "Limburgi Vadaspark",
+            "ro": "Parcul de animale sălbatice Limburg",
+            "en": "Limburg Wildlife Park"
+          },
+          "coords": [
+            5.5785,
+            50.9591
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "17:54",
+          "stay_min": 35,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 6.5,
+          "tip_4lang": {
+            "de": "Radle durch den Park, aber halte Abstand zu den Tieren.",
+            "hu": "Kerékpározzon át a parkon, de tartson távolságot az állatoktól.",
+            "ro": "Pedalați prin parc, dar păstrați distanța față de animale.",
+            "en": "Cycle through the park, but keep your distance from the animals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine ausgedehnte Tour durch Genk und Umgebung. Der Morgen gehört ganz dem Freilichtmuseum Bokrijk, wo Sie in die flämische Vergangenheit eintauchen. Zum Mittagessen radeln Sie ins Herz der Stadt, in die Vennestraat, um sich kulinarisch verwöhnen zu lassen. Gestärkt geht es am Nachmittag zu den industriellen Wahrzeichen C-Mine und Thor Park. Zum Abschluss Ihrer Tour erleben Sie die Natur pur in Kattevennen und werfen einen Blick auf die heimische Tierwelt im Wildpark Limburg.",
+        "hu": "Pattanjon kerékpárra egy kiterjedt túrára Genkben és környékén. A délelőtt a Bokrijk Szabadtéri Múzeumé, ahol elmerülhet a flamand múltban. Ebédre tekerjen be a város szívébe, a Vennestraat-ra, hogy kulináris élvezetekben részesüljön. Megerősödve délután az ipari nevezetességek, a C-Mine és a Thor Park felé veszi az irányt. A túra végén élvezze a tiszta természetet Kattevennenben, és vessen egy pillantást a helyi vadvilágra a Limburgi Vadasparkban.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur extins prin Genk și împrejurimi. Dimineața este dedicată Muzeului în aer liber Bokrijk, unde vă puteți cufunda în trecutul flamand. La prânz, pedalați în inima orașului, pe Vennestraat, pentru a vă bucura de delicii culinare. Întăriți, după-amiaza vă îndreptați spre reperele industriale C-Mine și Thor Park. La finalul turului, experimentați natura pură la Kattevennen și aruncați o privire asupra faunei locale la Parcul de animale sălbatice Limburg.",
+        "en": "Get on your bike for an extensive tour through Genk and its surroundings. The morning is dedicated to the Bokrijk Open-Air Museum, where you can immerse yourself in the Flemish past. For lunch, cycle into the heart of the city, to Vennestraat, for a culinary treat. Strengthened, you'll head to the industrial landmarks C-Mine and Thor Park in the afternoon. To conclude your tour, experience pure nature at Kattevennen and take a look at the local wildlife in the Limburg Wildlife Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Genker jenever",
+            "tip": "Ein lokaler Gin, der in verschiedenen Geschmacksrichtungen erhältlich ist."
+          },
+          {
+            "name": "Pommes Frites",
+            "tip": "Belgische Pommes sind ein Muss – probieren Sie sie in einer 'Frietkot'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Genki jenever",
+            "tip": "Helyi gin, amely különböző ízekben kapható."
+          },
+          {
+            "name": "Hasábburgonya",
+            "tip": "A belga hasábburgonya kötelező – kóstolja meg egy „Frietkot”-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Genever de Genk",
+            "tip": "Un gin local disponibil în diverse arome."
+          },
+          {
+            "name": "Cartofi prăjiți",
+            "tip": "Cartofii prăjiți belgieni sunt un 'must' – încercați-i la un 'Frietkot'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Genker jenever",
+            "tip": "A local gin available in various flavors."
+          },
+          {
+            "name": "Fries",
+            "tip": "Belgian fries are a must-try – get them from a 'Frietkot'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radfahren durchs Wasser in Bokrijk",
+            "tip": "Ein einzigartiges Erlebnis, bei dem Sie auf Augenhöhe mit dem Wasser radeln.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Heempark",
+            "tip": "Ein kleiner, ruhiger Park, um die heimische Flora und Fauna zu entdecken.",
+            "emoji": "🦋"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpározás a vízen Bokrijkban",
+            "tip": "Egyedülálló élmény, ahol szemmagasságban kerékpározhat a vízzel.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Heempark",
+            "tip": "Kicsi, csendes park a helyi növény- és állatvilág felfedezéséhez.",
+            "emoji": "🦋"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciclism prin apă la Bokrijk",
+            "tip": "O experiență unică în care pedalezi la nivelul ochilor cu apa.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Heempark",
+            "tip": "Un parc mic și liniștit pentru a descoperi flora și fauna locală.",
+            "emoji": "🦋"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycling through Water in Bokrijk",
+            "tip": "A unique experience where you cycle at eye level with the water.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Heempark",
+            "tip": "A small, quiet park to discover the local flora and fauna.",
+            "emoji": "🦋"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Biere",
+            "tip": "Limburg hat viele Brauereien. Kaufen Sie ein paar lokale Biere als Souvenir."
+          },
+          {
+            "name": "C-Mine Shop",
+            "tip": "Finden Sie Designobjekte und Bücher, die mit der Geschichte des Bergbaus zusammenhängen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sörök",
+            "tip": "Limburgban sok sörfőzde található. Vásároljon néhány helyi sört szuvenírként."
+          },
+          {
+            "name": "C-Mine bolt",
+            "tip": "Találjon dizájntárgyakat és könyveket a bányászat történetével kapcsolatban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Beri locale",
+            "tip": "Limburg are multe fabrici de bere. Cumpărați câteva beri locale ca suvenir."
+          },
+          {
+            "name": "Magazinul C-Mine",
+            "tip": "Găsiți obiecte de design și cărți legate de istoria mineritului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Beers",
+            "tip": "Limburg has many breweries. Buy some local beers as a souvenir."
+          },
+          {
+            "name": "C-Mine Shop",
+            "tip": "Find design objects and books related to the history of mining."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad an einem der vielen Verleihstationen in der Stadt.",
+          "Die Radwege sind gut ausgeschildert, aber eine Karte oder GPS ist hilfreich.",
+          "Nehmen Sie genügend Wasser mit, besonders für die längeren Strecken."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a város számos kölcsönzőjének egyikében.",
+          "A kerékpárutak jól ki vannak táblázva, de egy térkép vagy GPS hasznos.",
+          "Vigyen magával elegendő vizet, különösen a hosszabb szakaszokra."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la una dintre numeroasele stații de închiriere din oraș.",
+          "Pistele de biciclete sunt bine semnalizate, dar o hartă sau un GPS este util.",
+          "Luați suficientă apă cu dvs., mai ales pentru traseele mai lungi."
+        ],
+        "en": [
+          "Rent a bike from one of the many rental stations in the city.",
+          "The cycle paths are well signposted, but a map or GPS is helpful.",
+          "Take enough water with you, especially for the longer routes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 31.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Freilichtmuseum Bokrijk",
+            "hu": "Bokrijk Szabadtéri Múzeum",
+            "ro": "Muzeul în aer liber Bokrijk",
+            "en": "Bokrijk Open-Air Museum"
+          },
+          "coords": [
+            5.4125,
+            50.9635
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Parken Sie am Hauptparkplatz. Das Museum ist riesig, planen Sie also einen langen Spaziergang ein.",
+            "hu": "Parkoljon a fő parkolóban. A múzeum hatalmas, tervezzen egy hosszú sétát.",
+            "ro": "Parcați în parcarea principală. Muzeul este imens, așa că planificați o plimbare lungă.",
+            "en": "Park at the main car park. The museum is huge, so plan for a long walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Ankunft im Stadtzentrum & Parken",
+            "hu": "Érkezés a városközpontba és parkolás",
+            "ro": "Sosire în centrul orașului și parcare",
+            "en": "Arrive & Park in City Center"
+          },
+          "coords": [
+            5.5005,
+            50.967
+          ],
+          "category": "transport",
+          "arrive_at": "12:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.4,
+          "tip_4lang": {
+            "de": "Fahren Sie zum C-Mine-Parkplatz. Von hier aus können Sie das Zentrum zu Fuß erkunden.",
+            "hu": "Hajtson a C-Mine parkolójába. Innen gyalogosan felfedezheti a központot.",
+            "ro": "Conduceți la parcarea C-Mine. De aici puteți explora centrul pe jos.",
+            "en": "Drive to the C-Mine parking area. From here you can explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "C-Mine",
+            "hu": "C-Mine",
+            "ro": "C-Mine",
+            "en": "C-Mine"
+          },
+          "coords": [
+            5.5281,
+            50.9782
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihren Stadtrundgang mit diesem beeindruckenden Industriedenkmal.",
+            "hu": "Kezdje városnézését ezzel a lenyűgöző ipari műemlékkel.",
+            "ro": "Începeți turul orașului cu acest monument industrial impresionant.",
+            "en": "Start your city tour with this impressive industrial monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Vennestraat",
+            "hu": "Ebéd a Vennestraat-on",
+            "ro": "Prânz pe Vennestraat",
+            "en": "Lunch on Vennestraat"
+          },
+          "coords": [
+            5.5015,
+            50.9733
+          ],
+          "category": "gastro",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom C-Mine entfernt finden Sie unzählige Essensmöglichkeiten.",
+            "hu": "A C-Mine-tól egy rövid sétára számtalan étkezési lehetőséget talál.",
+            "ro": "La o scurtă plimbare de C-Mine veți găsi nenumărate opțiuni de luat masa.",
+            "en": "A short walk from C-Mine you will find countless food options."
+          }
+        },
+        {
+          "name": {
+            "de": "Kattevennen & Cosmodrome",
+            "hu": "Kattevennen és Kozmodróm",
+            "ro": "Kattevennen și Cosmodrom",
+            "en": "Kattevennen & Cosmodrome"
+          },
+          "coords": [
+            5.5683,
+            50.9639
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 10.1,
+          "tip_4lang": {
+            "de": "Fahren Sie in die Natur für einen Nachmittagsspaziergang und eine Reise zu den Sternen.",
+            "hu": "Hajtson ki a természetbe egy délutáni sétára és egy utazásra a csillagok közé.",
+            "ro": "Conduceți în natură pentru o plimbare de după-amiază și o călătorie spre stele.",
+            "en": "Drive into nature for an afternoon walk and a journey to the stars."
+          }
+        },
+        {
+          "name": {
+            "de": "Wildpark Limburg",
+            "hu": "Limburgi Vadaspark",
+            "ro": "Parcul de animale sălbatice Limburg",
+            "en": "Limburg Wildlife Park"
+          },
+          "coords": [
+            5.5785,
+            50.9591
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "17:15",
+          "stay_min": 54,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 10.3,
+          "tip_4lang": {
+            "de": "Ein letzter Halt, um die heimische Tierwelt zu beobachten, bevor Sie den Tag beenden.",
+            "hu": "Egy utolsó megálló a helyi vadvilág megfigyelésére, mielőtt befejezné a napot.",
+            "ro": "O ultimă oprire pentru a observa fauna locală înainte de a încheia ziua.",
+            "en": "A final stop to observe the local wildlife before ending the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die Highlights von Genk flexibel. Starten Sie im weitläufigen Freilichtmuseum Bokrijk, wo Sie in die Vergangenheit reisen. Nach diesem ländlichen Vormittag fahren Sie ins Stadtzentrum. Parken Sie beim C-Mine und erkunden Sie diesen Industriekomplex sowie die nahegelegene, kulinarische Vennestraat zu Fuß. Am Nachmittag wechseln Sie die Szenerie komplett und fahren ins Grüne: Entdecken Sie die Naturpfade von Kattevennen und beenden Sie den Tag mit einem Besuch bei den Tieren im Wildpark Limburg.",
+        "hu": "Autóval rugalmasan fedezheti fel Genk fénypontjait. Kezdjen a tágas Bokrijk Szabadtéri Múzeumban, ahol visszautazhat a múltba. E vidéki délelőtt után hajtson be a városközpontba. Parkoljon a C-Mine-nál, és fedezze fel gyalogosan ezt az ipari komplexumot, valamint a közeli kulináris Vennestraat-ot. Délután váltson teljesen tájat, és hajtson ki a zöldbe: fedezze fel a Kattevennen természetösvényeit, és zárja a napot a Limburgi Vadaspark állatainak meglátogatásával.",
+        "ro": "Cu mașina, explorați în mod flexibil punctele de atracție ale orașului Genk. Începeți la vastul Muzeu în aer liber Bokrijk, unde călătoriți înapoi în timp. După această dimineață rurală, conduceți spre centrul orașului. Parcați la C-Mine și explorați pe jos acest complex industrial, precum și apropiata stradă culinară Vennestraat. După-amiaza, schimbați complet peisajul și mergeți în natură: descoperiți potecile naturale din Kattevennen și încheiați ziua cu o vizită la animalele din Parcul de animale sălbatice Limburg.",
+        "en": "Explore the highlights of Genk flexibly by car. Start at the spacious Bokrijk Open-Air Museum, where you travel back in time. After this rural morning, drive to the city center. Park at C-Mine and explore this industrial complex and the nearby culinary Vennestraat on foot. In the afternoon, change the scenery completely and head for the green: discover the nature trails of Kattevennen and end the day with a visit to the animals in the Limburg Wildlife Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Italienische Küche",
+            "tip": "Dank der italienischen Gastarbeiter gibt es in Genk viele authentische Pizzerien."
+          },
+          {
+            "name": "Griechische Tavernen",
+            "tip": "Auch die griechische Gemeinde hat ihre kulinarischen Spuren hinterlassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olasz konyha",
+            "tip": "Az olasz vendégmunkásoknak köszönhetően Genkben számos autentikus pizzéria található."
+          },
+          {
+            "name": "Görög tavernák",
+            "tip": "A görög közösség is otthagyta kulináris nyomait."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bucătărie italiană",
+            "tip": "Datorită muncitorilor italieni, în Genk există multe pizzerii autentice."
+          },
+          {
+            "name": "Taverne grecești",
+            "tip": "Comunitatea greacă și-a lăsat și ea amprenta culinară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Italian cuisine",
+            "tip": "Thanks to Italian guest workers, there are many authentic pizzerias in Genk."
+          },
+          {
+            "name": "Greek tavernas",
+            "tip": "The Greek community has also left its culinary mark."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "De Maten",
+            "tip": "Ein Naturschutzgebiet mit Teichen, ideal für eine ruhige Autofahrt oder einen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arboretum in Bokrijk",
+            "tip": "Ein friedlicher Teil des Anwesens mit einer beeindruckenden Baumsammlung.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Maten",
+            "tip": "Természetvédelmi terület tavakkal, ideális egy csendes autózáshoz vagy sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arborétum Bokrijkban",
+            "tip": "A birtok békés része lenyűgöző gyűjteménnyel.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "De Maten",
+            "tip": "O rezervație naturală cu iazuri, ideală pentru o plimbare liniștită cu mașina sau pe jos.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arboretul din Bokrijk",
+            "tip": "O parte pașnică a domeniului cu o colecție impresionantă de copaci.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "De Maten",
+            "tip": "A nature reserve with ponds, ideal for a quiet drive or walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arboretum in Bokrijk",
+            "tip": "A peaceful part of the estate with an impressive collection of trees.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Maasmechelen Village",
+            "tip": "Ein Designer-Outlet in der Nähe von Genk für Luxus-Shopping."
+          },
+          {
+            "name": "Lokale Produkte aus Bokrijk",
+            "tip": "Im Museumsshop finden Sie handgemachte Produkte und traditionelle Lebensmittel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maasmechelen Village",
+            "tip": "Dizájner outlet Genk közelében a luxusvásárláshoz."
+          },
+          {
+            "name": "Helyi termékek Bokrijkból",
+            "tip": "A múzeumi boltban kézzel készített termékeket és hagyományos élelmiszereket talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maasmechelen Village",
+            "tip": "Un outlet de designer lângă Genk pentru cumpărături de lux."
+          },
+          {
+            "name": "Produse locale din Bokrijk",
+            "tip": "În magazinul muzeului veți găsi produse artizanale și alimente tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maasmechelen Village",
+            "tip": "A designer outlet near Genk for luxury shopping."
+          },
+          {
+            "name": "Local products from Bokrijk",
+            "tip": "In the museum shop you will find handmade products and traditional food."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Planen Sie genügend Zeit für den Verkehr zwischen den Standorten ein.",
+          "Viele Orte sind weitläufig, tragen Sie also bequeme Schuhe, auch wenn Sie mit dem Auto anreisen."
+        ],
+        "hu": [
+          "Ellenőrizze előre a parkolási lehetőségeket és díjakat.",
+          "Tervezzen elegendő időt a helyszínek közötti forgalomra.",
+          "Sok hely tágas, ezért viseljen kényelmes cipőt, még akkor is, ha autóval érkezik."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare și taxele.",
+          "Planificați suficient timp pentru traficul dintre locații.",
+          "Multe locuri sunt spațioase, așa că purtați pantofi confortabili chiar dacă veniți cu mașina."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "Plan enough time for traffic between locations.",
+          "Many places are spacious, so wear comfortable shoes even if you arrive by car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 19.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Genk",
+            "hu": "Érkezés a genki pályaudvarra",
+            "ro": "Sosire la gara din Genk",
+            "en": "Arrival at Genk Station"
+          },
+          "coords": [
+            5.498,
+            50.963
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Kaufen Sie eine Tageskarte für das De Lijn-Busnetz.",
+            "hu": "Vásároljon napijegyet a De Lijn buszhálózatra.",
+            "ro": "Cumpărați un bilet de o zi pentru rețeaua de autobuze De Lijn.",
+            "en": "Buy a day pass for the De Lijn bus network."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Freilichtmuseum Bokrijk",
+            "hu": "Utazás a Bokrijk Szabadtéri Múzeumba",
+            "ro": "Călătorie la Muzeul în aer liber Bokrijk",
+            "en": "Trip to Bokrijk Open-Air Museum"
+          },
+          "coords": [
+            5.4125,
+            50.9635
+          ],
+          "category": "museums",
+          "arrive_at": "09:48",
+          "stay_min": 150,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 9.5,
+          "tip_4lang": {
+            "de": "Bokrijk hat einen eigenen Bahnhof, aber der Bus bringt Sie näher an den Eingang.",
+            "hu": "Bokrijknak saját vasútállomása van, de a busz közelebb visz a bejárathoz.",
+            "ro": "Bokrijk are propria sa gară, dar autobuzul vă duce mai aproape de intrare.",
+            "en": "Bokrijk has its own train station, but the bus gets you closer to the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum C-Mine",
+            "hu": "Utazás a C-Mine-hoz",
+            "ro": "Călătorie la C-Mine",
+            "en": "Trip to C-Mine"
+          },
+          "coords": [
+            5.5281,
+            50.9782
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:58",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10.0,
+          "tip_4lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum. Die Haltestelle befindet sich direkt vor dem C-Mine-Gelände.",
+            "hu": "Menjen busszal vissza a központba. A megálló közvetlenül a C-Mine területe előtt található.",
+            "ro": "Luați autobuzul înapoi în centru. Stația este chiar în fața sitului C-Mine.",
+            "en": "Take the bus back to the center. The stop is right in front of the C-Mine site."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Vennestraat",
+            "hu": "Séta a Vennestraat-ra",
+            "ro": "Plimbare pe Vennestraat",
+            "en": "Walk to Vennestraat"
+          },
+          "coords": [
+            5.5015,
+            50.9733
+          ],
+          "category": "gastro",
+          "arrive_at": "14:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Erkunden Sie diesen Cluster zu Fuß. Genießen Sie ein spätes Mittagessen.",
+            "hu": "Fedezze fel ezt a klasztert gyalog. Élvezze a késői ebédet.",
+            "ro": "Explorați acest cluster pe jos. Bucurați-vă de un prânz târziu.",
+            "en": "Explore this cluster on foot. Enjoy a late lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Martins-Kirche",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Saint Martin's Church"
+          },
+          "coords": [
+            5.4988,
+            50.9658
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:16",
+          "stay_min": 69,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_4lang": {
+            "de": "Der letzte Halt des Tages, bevor Sie zurück zum Bahnhof gehen.",
+            "hu": "A nap utolsó megállója, mielőtt visszamenne a pályaudvarra.",
+            "ro": "Ultima oprire a zilei înainte de a vă întoarce la gară.",
+            "en": "The last stop of the day before heading back to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln entdecken Sie die Vielfalt von Genk. Kaufen Sie am Bahnhof eine Tageskarte und nehmen Sie den Bus zum Freilichtmuseum Bokrijk, wo Sie den Vormittag verbringen. Zur Mittagszeit bringt Sie der Bus zurück in die Zivilisation, direkt zum C-Mine. Nach der Erkundung des Industriegeländes spazieren Sie zur nahen Vennestraat für ein spätes Mittagessen. Der letzte Halt ist die Sankt-Martins-Kirche im Stadtzentrum, bevor Sie bequem zum Bahnhof zurückkehren.",
+        "hu": "A tömegközlekedéssel felfedezheti Genk sokszínűségét. Vásároljon napijegyet a pályaudvaron, és szálljon buszra a Bokrijk Szabadtéri Múzeumba, ahol a délelőttöt tölti. Ebédidőben a busz visszaviszi a civilizációba, egyenesen a C-Mine-hoz. Az ipari terület felfedezése után sétáljon el a közeli Vennestraat-ra egy késői ebédre. Az utolsó megálló a városközpontban található Szent Márton-templom, mielőtt kényelmesen visszatérne a pályaudvarra.",
+        "ro": "Descoperiți diversitatea orașului Genk cu transportul public. Cumpărați un bilet de o zi de la gară și luați autobuzul spre Muzeul în aer liber Bokrijk, unde vă veți petrece dimineața. La prânz, autobuzul vă duce înapoi în civilizație, direct la C-Mine. După explorarea sitului industrial, faceți o plimbare până la apropiata Vennestraat pentru un prânz târziu. Ultima oprire este Biserica Sfântul Martin din centrul orașului, înainte de a vă întoarce confortabil la gară.",
+        "en": "Discover the diversity of Genk using public transport. Buy a day pass at the station and take the bus to the Bokrijk Open-Air Museum, where you'll spend the morning. At lunchtime, the bus takes you back to civilization, directly to C-Mine. After exploring the industrial site, take a walk to the nearby Vennestraat for a late lunch. The final stop is Saint Martin's Church in the city center before you comfortably return to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Snack in der Vennestraat",
+            "tip": "Probieren Sie türkische Pizza (Lahmacun) oder andere internationale Snacks."
+          },
+          {
+            "name": "Belgische Waffel",
+            "tip": "Ein süßer Genuss, den Sie an vielen Ständen in der Stadt finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falatozás a Vennestraat-on",
+            "tip": "Kóstolja meg a török pizzát (lahmacun) vagy más nemzetközi harapnivalókat."
+          },
+          {
+            "name": "Belga gofri",
+            "tip": "Édes élvezet, amelyet a város számos standjánál megtalál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustare pe Vennestraat",
+            "tip": "Încercați pizza turcească (lahmacun) sau alte gustări internaționale."
+          },
+          {
+            "name": "Gofre belgiană",
+            "tip": "Un deliciu dulce pe care îl găsiți la multe tarabe din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snack on Vennestraat",
+            "tip": "Try a Turkish pizza (lahmacun) or other international snacks."
+          },
+          {
+            "name": "Belgian Waffle",
+            "tip": "A sweet treat you can find at many stalls in the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sundial Park",
+            "tip": "Ein einzigartiger Park in Genk, der der Zeit und Astronomie gewidmet ist.",
+            "emoji": "⏳"
+          },
+          {
+            "name": "Spaziergang entlang des Albertkanals",
+            "tip": "Finden Sie einen ruhigen Abschnitt, um die vorbeifahrenden Schiffe zu beobachten.",
+            "emoji": "🚢"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Napóra Park",
+            "tip": "Egyedülálló park Genkben, az időnek és a csillagászatnak szentelve.",
+            "emoji": "⏳"
+          },
+          {
+            "name": "Séta az Albert-csatorna mentén",
+            "tip": "Találjon egy csendes szakaszt az elhaladó hajók megfigyelésére.",
+            "emoji": "🚢"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Cadranului Solar",
+            "tip": "Un parc unic în Genk, dedicat timpului și astronomiei.",
+            "emoji": "⏳"
+          },
+          {
+            "name": "Plimbare de-a lungul Canalului Albert",
+            "tip": "Găsiți o secțiune liniștită pentru a privi navele care trec.",
+            "emoji": "🚢"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sundial Park",
+            "tip": "A unique park in Genk dedicated to time and astronomy.",
+            "emoji": "⏳"
+          },
+          {
+            "name": "Walk along the Albert Canal",
+            "tip": "Find a quiet section to watch the ships go by.",
+            "emoji": "🚢"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stalenstraat",
+            "tip": "Eine weitere Einkaufsstraße mit einer Mischung aus Ketten und unabhängigen Geschäften."
+          },
+          {
+            "name": "Donderdagmarkt",
+            "tip": "Wenn Sie an einem Donnerstag hier sind, besuchen Sie den großen Wochenmarkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stalenstraat",
+            "tip": "Egy másik bevásárlóutca láncok és független üzletek keverékével."
+          },
+          {
+            "name": "Csütörtöki piac",
+            "tip": "Ha csütörtökön van itt, látogasson el a nagy heti piacra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stalenstraat",
+            "tip": "O altă stradă comercială cu un amestec de lanțuri de magazine și magazine independente."
+          },
+          {
+            "name": "Piața de joi",
+            "tip": "Dacă sunteți aici într-o joi, vizitați marea piață săptămânală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stalenstraat",
+            "tip": "Another shopping street with a mix of chain and independent stores."
+          },
+          {
+            "name": "Thursday Market",
+            "tip": "If you're here on a Thursday, visit the large weekly market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die App von De Lijn herunter, um Fahrpläne und Routen in Echtzeit zu verfolgen.",
+          "Beachten Sie die Busfahrpläne, besonders für die Rückfahrt von Bokrijk.",
+          "Validieren Sie Ihr Ticket bei jedem Einsteigen in den Bus."
+        ],
+        "hu": [
+          "Töltse le a De Lijn alkalmazást a valós idejű menetrendek és útvonalak követéséhez.",
+          "Vegye figyelembe a buszmenetrendeket, különösen a Bokrijkból való visszautazáshoz.",
+          "Érvényesítse jegyét minden buszra szálláskor."
+        ],
+        "ro": [
+          "Descărcați aplicația De Lijn pentru a urmări orarele și rutele în timp real.",
+          "Fiți atenți la orarele autobuzelor, în special pentru călătoria de întoarcere de la Bokrijk.",
+          "Validați biletul de fiecare dată când urcați în autobuz."
+        ],
+        "en": [
+          "Download the De Lijn app to track real-time schedules and routes.",
+          "Pay attention to the bus schedules, especially for the return trip from Bokrijk.",
+          "Validate your ticket every time you board the bus."
+        ]
+      }
+    }
+  }
+}

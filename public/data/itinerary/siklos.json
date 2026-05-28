@@ -1,0 +1,1300 @@
+{
+  "city_id": "siklos",
+  "anchor": {
+    "name": "Siklós",
+    "coords": [
+      18.2975,
+      45.855
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Hauptplatz",
+            "hu": "Városháza és Fő tér",
+            "ro": "Primăria și Piața Principală",
+            "en": "Town Hall and Main Square"
+          },
+          "coords": [
+            18.2975,
+            45.855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Indítsa a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Malkoch Bey",
+            "hu": "Malkocs bég dzsámija",
+            "ro": "Moscheea lui Malkoch Bey",
+            "en": "Mosque of Malkoch Bey"
+          },
+          "coords": [
+            18.2982,
+            45.8561
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ursprüngliche osmanische Architektur und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg az eredeti oszmán építészetet és a békés légkört.",
+            "ro": "Admirați arhitectura otomană originală și atmosfera liniștită.",
+            "en": "Admire the original Ottoman architecture and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Serbisch-Orthodoxe Kirche",
+            "hu": "Szerb Ortodox Templom",
+            "ro": "Biserica Ortodoxă Sârbă",
+            "en": "Serbian Orthodox Church"
+          },
+          "coords": [
+            18.2955,
+            45.857
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:28",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Ikonostase im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző ikonosztázt a templom belsejében!",
+            "ro": "Observați iconostasul impresionant din interior.",
+            "en": "Pay attention to the impressive iconostasis inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Siklós",
+            "hu": "Siklósi Vár",
+            "ro": "Castelul Siklós",
+            "en": "Siklós Castle"
+          },
+          "coords": [
+            18.296,
+            45.854
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:09",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für das Burgmuseum und den Panoramablick von den Mauern.",
+            "hu": "Szánjon időt a vármúzeumra és a falakról nyíló panorámára.",
+            "ro": "Luați-vă timp pentru muzeul castelului și priveliștea panoramică de pe ziduri.",
+            "en": "Take your time for the castle museum and the panoramic view from the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem lokalen Restaurant",
+            "hu": "Ebéd egy helyi étteremben",
+            "ro": "Prânz la un restaurant local",
+            "en": "Lunch at a local restaurant"
+          },
+          "coords": [
+            18.297,
+            45.853
+          ],
+          "category": "gastro",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie eine lokale Spezialität wie Villányer Wein.",
+            "hu": "Kóstoljon meg egy helyi specialitást és a villányi bort.",
+            "ro": "Încercați o specialitate locală, cum ar fi vinul de Villány.",
+            "en": "Try a local specialty like wine from the Villány region."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbad Siklós",
+            "hu": "Siklósi Termálfürdő",
+            "ro": "Băile Termale Siklós",
+            "en": "Siklós Thermal Spa"
+          },
+          "coords": [
+            18.299,
+            45.851
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:59",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie nach dem Spaziergang in den Thermalbecken.",
+            "hu": "Relaxáljon a séta után a termálvizes medencékben!",
+            "ro": "Relaxați-vă în piscinele termale după plimbare.",
+            "en": "Relax in the thermal pools after your walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Siklós beginnt auf dem belebten Hauptplatz, umgeben von historischer Architektur. Am Vormittag erkunden Sie das osmanische Erbe der Stadt in der Malkoch-Bey-Moschee und der orthodoxen Kirche. Das Highlight des Tages ist die mächtige Burg Siklós, wo Sie in die mittelalterliche Geschichte eintauchen. Nach einem herzhaften Mittagessen mit lokalen Weinen lassen Sie den Tag im entspannenden Thermalbad ausklingen und genießen die heilende Wirkung des Wassers.",
+        "hu": "A siklósi nap a nyüzsgő Fő téren kezdődik, történelmi épületekkel körülvéve. Délelőtt a város oszmán örökségét fedezi fel a Malkocs bég dzsámijában és az ortodox templomban. A nap fénypontja a hatalmas Siklósi Vár, ahol elmerülhet a középkori történelemben. Egy kiadós, helyi borokkal kísért ebéd után a napot a pihentető termálfürdőben zárja, élvezve a víz gyógyító hatását.",
+        "ro": "Ziua dvs. în Siklós începe în Piața Principală animată, înconjurată de arhitectură istorică. Dimineața explorați moștenirea otomană a orașului la Moscheea lui Malkoch Bey și la biserica ortodoxă. Punctul culminant al zilei este puternicul Castel Siklós, unde vă veți cufunda în istoria medievală. După un prânz copios cu vinuri locale, încheiați ziua la relaxantele băi termale, bucurându-vă de efectele curative ale apei.",
+        "en": "Your day in Siklós begins at the bustling Main Square, surrounded by historic architecture. In the morning, you'll explore the city's Ottoman heritage at the Malkoch Bey Mosque and the Orthodox church. The highlight of the day is the mighty Siklós Castle, where you'll delve into medieval history. After a hearty lunch with local wines, you'll end the day at the relaxing thermal spa, enjoying the healing effects of the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Adele Restaurant",
+            "tip": "Elegantes Restaurant in der Nähe der Burg, bekannt für seine Interpretation der ungarischen Küche."
+          },
+          {
+            "name": "Hellas Taverna",
+            "tip": "Authentische griechische Aromen im Herzen von Siklós."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Adele Étterem",
+            "tip": "Elegáns étterem a vár közelében, a magyar konyha modern interpretációiról ismert."
+          },
+          {
+            "name": "Hellas Taverna",
+            "tip": "Autentikus görög ízek Siklós szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Adele",
+            "tip": "Restaurant elegant lângă castel, cunoscut pentru interpretarea sa a bucătăriei maghiare."
+          },
+          {
+            "name": "Taverna Hellas",
+            "tip": "Arome grecești autentice în inima orașului Siklós."
+          }
+        ],
+        "en": [
+          {
+            "name": "Adele Restaurant",
+            "tip": "Elegant restaurant near the castle, known for its interpretation of Hungarian cuisine."
+          },
+          {
+            "name": "Hellas Taverna",
+            "tip": "Authentic Greek flavors in the heart of Siklós."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten der Burg",
+            "tip": "Finden Sie eine ruhige Ecke in den Burggärten, um die Aussicht zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Sees am Thermalbad",
+            "tip": "Ein friedlicher Ort zum Nachdenken nach dem Bad.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várkert",
+            "tip": "Találjon egy csendes zugot a várkertben, és élvezze a kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tópart a fürdőnél",
+            "tip": "Békés hely az elmélkedésre a fürdőzés után.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Castelului",
+            "tip": "Găsiți un colț liniștit în grădinile castelului pentru a vă bucura de priveliște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul lacului de la băile termale",
+            "tip": "Un loc pașnic pentru reflecție după baie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Garden",
+            "tip": "Find a quiet corner in the castle gardens to enjoy the view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lakeshore at the spa",
+            "tip": "A peaceful spot for reflection after your swim.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie lokale Produkte, Honig und Paprika."
+          },
+          {
+            "name": "Burg-Souvenirladen",
+            "tip": "Finden Sie handgefertigte Waren und Souvenirs mit Bezug zur Burg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi termékeket, mézet és paprikát."
+          },
+          {
+            "name": "Vár ajándékboltja",
+            "tip": "Találjon kézműves termékeket és a várhoz kapcsolódó ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse locale, miere și boia."
+          },
+          {
+            "name": "Magazinul de suveniruri al castelului",
+            "tip": "Găsiți produse artizanale și suveniruri legate de castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for local produce, honey, and paprika."
+          },
+          {
+            "name": "Castle Gift Shop",
+            "tip": "Find handcrafted goods and castle-related souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie sich für die Burg Siklós mindestens zwei Stunden Zeit, es gibt viel zu entdecken.",
+          "Viele kleine Geschäfte und Cafés akzeptieren nur Bargeld."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek az óvárosban egyenetlenek lehetnek.",
+          "Szánjon legalább két órát a Siklósi Várra, rengeteg a látnivaló.",
+          "Sok kis üzlet és kávézó csak készpénzt fogad el."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Rezervați cel puțin două ore pentru Castelul Siklós, sunt multe de explorat.",
+          "Multe magazine mici și cafenele acceptă doar numerar."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Allow at least two hours for Siklós Castle; there is a lot to explore.",
+          "Many small shops and cafes may only accept cash."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg Siklós",
+            "hu": "Siklósi Vár",
+            "ro": "Castelul Siklós",
+            "en": "Siklós Castle"
+          },
+          "coords": [
+            18.296,
+            45.854
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit der größten Attraktion. Schließen Sie Ihr Fahrrad sicher ab, bevor Sie eintreten.",
+            "hu": "Kezdje a legnagyobb attrakcióval. Zárja le biztonságosan a kerékpárját, mielőtt belép.",
+            "ro": "Începeți cu cea mai mare atracție. Asigurați-vă bicicleta înainte de a intra.",
+            "en": "Start with the main attraction. Lock your bike securely before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Malkoch Bey",
+            "hu": "Malkocs bég dzsámija",
+            "ro": "Moscheea lui Malkoch Bey",
+            "en": "Mosque of Malkoch Bey"
+          },
+          "coords": [
+            18.2982,
+            45.8561
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:53",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Schloss entfernt, ein Juwel osmanischer Geschichte.",
+            "hu": "Rövid biciklizésre a vártól, az oszmán történelem egy gyöngyszeme.",
+            "ro": "O scurtă plimbare cu bicicleta de la castel, o bijuterie a istoriei otomane.",
+            "en": "A short ride from the castle, a gem of Ottoman history."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences rendház",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            18.294,
+            45.8545
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:29",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ruhige Klostergelände.",
+            "hu": "Fedezze fel a csendes kolostor területét.",
+            "ro": "Explorați terenurile liniștite ale mănăstirii.",
+            "en": "Explore the peaceful monastery grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Stadt",
+            "hu": "Ebéd a városban",
+            "ro": "Prânz în oraș",
+            "en": "Lunch in town"
+          },
+          "coords": [
+            18.297,
+            45.853
+          ],
+          "category": "gastro",
+          "arrive_at": "12:09",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stärken Sie sich für die Nachmittagsfahrt.",
+            "hu": "Erősítsen a délutáni tekerés előtt.",
+            "ro": "Luați putere pentru plimbarea de după-amiază.",
+            "en": "Fuel up for the afternoon ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Wallfahrtskirche Máriagyűd",
+            "hu": "Máriagyűdi Kegytemplom",
+            "ro": "Biserica de pelerinaj Máriagyűd",
+            "en": "Máriagyűd Pilgrimage Church"
+          },
+          "coords": [
+            18.315,
+            45.875
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:54",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Die Fahrt bergauf lohnt sich für die spirituelle Atmosphäre und die Aussicht.",
+            "hu": "Az emelkedő megéri a spirituális légkörért és a kilátásért.",
+            "ro": "Urcușul merită pentru atmosfera spirituală și priveliște.",
+            "en": "The uphill ride is worth it for the spiritual atmosphere and the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbad Siklós",
+            "hu": "Siklósi Termálfürdő",
+            "ro": "Băile Termale Siklós",
+            "en": "Siklós Thermal Spa"
+          },
+          "coords": [
+            18.299,
+            45.851
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um müde Muskeln nach der Radtour zu entspannen.",
+            "hu": "Tökéletes hely a fáradt izmok pihentetésére a biciklitúra után.",
+            "ro": "Locul perfect pentru a relaxa mușchii obosiți după turul cu bicicleta.",
+            "en": "The perfect place to relax tired muscles after the bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Siklós beginnt an der imposanten Burg, dem historischen Herz der Stadt. Von dort aus radeln Sie zu den kleineren, aber ebenso faszinierenden religiösen Stätten. Nach einem stärkenden Mittagessen erwartet Sie die größte Herausforderung und Belohnung des Tages: die Radtour zur Wallfahrtskirche Máriagyűd mit ihrer erhabenen Aussicht. Der Tag endet mit wohlverdienter Entspannung im Thermalbad, wo Sie die Erlebnisse des Tages Revue passieren lassen können.",
+        "hu": "A siklósi kerékpártúra a lenyűgöző várnál, a város történelmi szívénél kezdődik. Innen a kisebb, de ugyanolyan lenyűgöző vallási helyszínekhez teker. Egy frissítő ebéd után a nap legnagyobb kihívása és jutalma várja: a kerékpártúra a máriagyűdi kegytemplomhoz, ahonnan fenséges kilátás nyílik. A nap a jól megérdemelt pihenéssel zárul a termálfürdőben, ahol átgondolhatja a nap élményeit.",
+        "ro": "Turul dvs. cu bicicleta prin Siklós începe la impunătorul castel, inima istorică a orașului. De acolo, pedalați spre siturile religioase mai mici, dar la fel de fascinante. După un prânz revigorant, vă așteaptă cea mai mare provocare și recompensă a zilei: turul cu bicicleta la biserica de pelerinaj Máriagyűd, cu priveliștea sa sublimă. Ziua se încheie cu o relaxare binemeritată la băile termale, unde puteți rememora experiențele zilei.",
+        "en": "Your bike tour of Siklós starts at the imposing castle, the historic heart of the city. From there, you'll cycle to the smaller but equally fascinating religious sites. After a refreshing lunch, the day's biggest challenge and reward awaits: the bike ride to the Máriagyűd pilgrimage church with its sublime view. The day ends with well-deserved relaxation at the thermal spa, where you can reflect on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Adele Restaurant",
+            "tip": "Elegantes Restaurant in der Nähe der Burg, bekannt für seine Interpretation der ungarischen Küche."
+          },
+          {
+            "name": "Csárda a la Tenkes Kapitánya",
+            "tip": "Traditionelle ungarische Gerichte in rustikalem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Adele Étterem",
+            "tip": "Elegáns étterem a vár közelében, a magyar konyha modern interpretációiról ismert."
+          },
+          {
+            "name": "Tenkes Kapitánya Csárda",
+            "tip": "Hagyományos magyar ételek, rusztikus környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Adele",
+            "tip": "Restaurant elegant lângă castel, cunoscut pentru interpretarea sa a bucătăriei maghiare."
+          },
+          {
+            "name": "Hanul Căpitanului Tenkes",
+            "tip": "Mâncăruri tradiționale maghiare într-un cadru rustic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Adele Restaurant",
+            "tip": "Elegant restaurant near the castle, known for its interpretation of Hungarian cuisine."
+          },
+          {
+            "name": "Captain of Tenkes Inn",
+            "tip": "Traditional Hungarian dishes in a rustic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel von Máriagyűd",
+            "tip": "Genießen Sie die Stille und die weite Aussicht von der Kirche.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Weinberge um Siklós",
+            "tip": "Eine friedliche Radtour durch die berühmte Weinregion Villány.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Máriagyűdi domb",
+            "tip": "Élvezze a csendet és a széles panorámát a templomtól.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Siklós környéki szőlőültetvények",
+            "tip": "Békés kerékpártúra a híres Villányi borvidéken.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Máriagyűd",
+            "tip": "Bucurați-vă de liniște și de priveliștea panoramică de la biserică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Viile din jurul Siklós",
+            "tip": "O plimbare pașnică cu bicicleta prin faimoasa regiune viticolă Villány.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Máriagyűd Hill",
+            "tip": "Enjoy the silence and the wide view from the church.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vineyards around Siklós",
+            "tip": "A peaceful bike ride through the famous Villány wine region.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinhandlungen in Villány",
+            "tip": "Kaufen Sie einige der besten Rotweine Ungarns direkt vom Erzeuger (auf dem Weg nach Máriagyűd)."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Ideal für eine schnelle Jause vor der Weiterfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villányi borboltok",
+            "tip": "Vásárolja meg Magyarország legjobb vörösborait közvetlenül a termelőtől (Máriagyűd felé)."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Ideális egy gyors harapnivalóhoz, mielőtt tovább tekerne."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de vinuri din Villány",
+            "tip": "Cumpărați unele dintre cele mai bune vinuri roșii din Ungaria direct de la producător (în drum spre Máriagyűd)."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Ideal pentru o gustare rapidă înainte de a continua drumul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine shops in Villány",
+            "tip": "Buy some of Hungary's best red wines directly from the producer (on the way to Máriagyűd)."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Ideal for a quick snack before continuing your ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen für die Abfahrt von Máriagyűd.",
+          "Nehmen Sie viel Wasser mit, besonders für den Anstieg.",
+          "Einige Radwege können Schotter sein, seien Sie also vorbereitet."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket a máriagyűdi lejtőhöz.",
+          "Vigyen magával sok vizet, különösen az emelkedőhöz.",
+          "Néhány kerékpárút murvás lehet, ezért legyen felkészülve."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele pentru coborârea de la Máriagyűd.",
+          "Luați multă apă, mai ales pentru urcare.",
+          "Unele piste de biciclete pot fi cu pietriș, așa că fiți pregătiți."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes for the descent from Máriagyűd.",
+          "Bring plenty of water, especially for the climb.",
+          "Some bike paths can be gravel, so be prepared."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 24.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Start am Fuße der Burg Siklós",
+            "hu": "Parkolás és indulás a Siklósi Vár lábánál",
+            "ro": "Parcare și pornire la poalele Castelului Siklós",
+            "en": "Park and start at the base of Siklós Castle"
+          },
+          "coords": [
+            18.295,
+            45.853
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Die meisten Sehenswürdigkeiten im Zentrum sind zu Fuß erreichbar.",
+            "hu": "Parkoljon le itt a délelőttre. A legtöbb belvárosi látnivaló gyalogosan elérhető.",
+            "ro": "Parcați aici pentru dimineață. Majoritatea atracțiilor din centru sunt accesibile pe jos.",
+            "en": "Park here for the morning. Most downtown sights are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Siklós",
+            "hu": "Siklósi Vár",
+            "ro": "Castelul Siklós",
+            "en": "Siklós Castle"
+          },
+          "coords": [
+            18.296,
+            45.854
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:11",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufige Festung und ihre Ausstellungen.",
+            "hu": "Fedezze fel a kiterjedt erődöt és kiállításait.",
+            "ro": "Explorați fortăreața întinsă și expozițiile sale.",
+            "en": "Explore the extensive fortress and its exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Malkoch Bey",
+            "hu": "Malkocs bég dzsámija",
+            "ro": "Moscheea lui Malkoch Bey",
+            "en": "Mosque of Malkoch Bey"
+          },
+          "coords": [
+            18.2982,
+            45.8561
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Altstadt führt Sie zu diesem historischen Juwel.",
+            "hu": "Egy rövid séta az óvárosban elvezeti ehhez a történelmi gyöngyszemhez.",
+            "ro": "O scurtă plimbare prin orașul vechi vă duce la această bijuterie istorică.",
+            "en": "A short walk through the old town takes you to this historic gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturenpark Nagyharsány",
+            "hu": "Nagyharsányi Szoborpark",
+            "ro": "Parcul de Sculpturi Nagyharsány",
+            "en": "Nagyharsány Sculpture Park"
+          },
+          "coords": [
+            18.35,
+            45.85
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ein Freilichtmuseum mit beeindruckenden modernen Skulpturen am Fuße des Villány-Gebirges.",
+            "hu": "Szabadtéri múzeum lenyűgöző modern szobrokkal a Villányi-hegység lábánál.",
+            "ro": "Un muzeu în aer liber cu sculpturi moderne impresionante la poalele Munților Villány.",
+            "en": "An open-air museum with impressive modern sculptures at the foot of the Villány Mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Villány",
+            "hu": "Ebéd Villányban",
+            "ro": "Prânz în Villány",
+            "en": "Lunch in Villány"
+          },
+          "coords": [
+            18.455,
+            45.869
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Kombinieren Sie Ihr Mittagessen mit einer Weinprobe in Ungarns berühmtester Rotweinregion.",
+            "hu": "Kombinálja az ebédet egy borkóstolóval Magyarország leghíresebb vörösboros vidékén.",
+            "ro": "Combinați prânzul cu o degustare de vinuri în cea mai faimoasă regiune de vin roșu din Ungaria.",
+            "en": "Combine your lunch with a wine tasting in Hungary's most famous red wine region."
+          }
+        },
+        {
+          "name": {
+            "de": "Wallfahrtskirche Máriagyűd",
+            "hu": "Máriagyűdi Kegytemplom",
+            "ro": "Biserica de pelerinaj Máriagyűd",
+            "en": "Máriagyűd Pilgrimage Church"
+          },
+          "coords": [
+            18.315,
+            45.875
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe und Spiritualität mit einer herrlichen Aussicht auf die umliegende Landschaft.",
+            "hu": "A béke és a spiritualitás helye, ahonnan csodálatos kilátás nyílik a környező tájra.",
+            "ro": "Un loc de pace și spiritualitate, cu o priveliște magnifică asupra peisajului înconjurător.",
+            "en": "A place of peace and spirituality with a magnificent view of the surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbad Siklós",
+            "hu": "Siklósi Termálfürdő",
+            "ro": "Băile Termale Siklós",
+            "en": "Siklós Thermal Spa"
+          },
+          "coords": [
+            18.299,
+            45.851
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss eines erlebnisreichen Tages.",
+            "hu": "Tökéletes befejezése egy eseménydús napnak.",
+            "ro": "Finalul perfect pentru o zi plină de evenimente.",
+            "en": "The perfect end to an eventful day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Siklós und die berühmte Weinregion Villány. Der Vormittag gehört dem historischen Zentrum von Siklós, das Sie von einem zentralen Parkplatz aus zu Fuß erkunden. Am Mittag fahren Sie in die Weinberge, besuchen den einzigartigen Skulpturenpark Nagyharsány und genießen ein Mittagessen mit Weinprobe in Villány. Der Nachmittag ist der spirituellen Einkehr in Máriagyűd gewidmet, bevor Sie den Tag im wohltuenden Wasser des Thermalbads Siklós ausklingen lassen.",
+        "hu": "Autóval fedezheti fel Siklóst és a híres Villányi borvidéket. A délelőtt Siklós történelmi központjáé, amelyet egy központi parkolóból gyalogosan fedezhet fel. Délben a szőlőültetvények felé veszi az irányt, meglátogatja az egyedülálló Nagyharsányi Szoborparkot, és egy borral egybekötött ebédet fogyaszt el Villányban. A délután a máriagyűdi lelki elmélyülésé, mielőtt a napot a siklósi termálfürdő jótékony vizében zárná.",
+        "ro": "Cu mașina, explorați Siklós și faimoasa regiune viticolă Villány. Dimineața este dedicată centrului istoric al Siklós, pe care îl explorați pe jos de la o parcare centrală. La prânz, vă îndreptați spre podgorii, vizitați unicul Parc de Sculpturi Nagyharsány și savurați un prânz cu degustare de vinuri în Villány. După-amiaza este dedicată reculegerii spirituale la Máriagyűd, înainte de a încheia ziua în apele benefice ale băilor termale din Siklós.",
+        "en": "By car, you'll explore Siklós and the famous Villány wine region. The morning is dedicated to the historic center of Siklós, which you'll explore on foot from a central parking lot. At noon, you'll head to the vineyards, visit the unique Nagyharsány Sculpture Park, and enjoy lunch with wine tasting in Villány. The afternoon is dedicated to spiritual reflection in Máriagyűd before ending the day in the soothing waters of the Siklós thermal spa."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bock Óbor Étterem (Villány)",
+            "tip": "Gehobene Küche gepaart mit den besten Weinen der Region."
+          },
+          {
+            "name": "Gere Attila Mandula Étterem (Villány)",
+            "tip": "Ein weiteres kulinarisches Highlight in der Weinregion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bock Óbor Étterem (Villány)",
+            "tip": "Kiváló konyha a régió legjobb boraival párosítva."
+          },
+          {
+            "name": "Gere Attila Mandula Étterem (Villány)",
+            "tip": "Egy másik kulináris fénypont a borvidéken."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Bock Óbor (Villány)",
+            "tip": "Bucătărie rafinată asociată cu cele mai bune vinuri din regiune."
+          },
+          {
+            "name": "Restaurant Gere Attila Mandula (Villány)",
+            "tip": "Un alt punct culminant culinar în regiunea viticolă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bock Óbor Restaurant (Villány)",
+            "tip": "Fine dining paired with the region's best wines."
+          },
+          {
+            "name": "Gere Attila Mandula Restaurant (Villány)",
+            "tip": "Another culinary highlight in the wine region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Szársomlyó-Hügel bei Nagyharsány",
+            "tip": "Genießen Sie die Aussicht vom 'Teufelsacker'.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kellergassen von Villánykövesd",
+            "tip": "Eine malerische und ruhige Gasse mit Weinkellern, ein perfekter Fotostopp.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nagyharsányi Szársomlyó-hegy",
+            "tip": "Élvezze a kilátást az 'Ördögszántotta hegyről'.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Villánykövesdi pincesor",
+            "tip": "Festői és csendes utca borospincékkel, tökéletes fotómegálló.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Szársomlyó lângă Nagyharsány",
+            "tip": "Bucurați-vă de priveliștea de pe 'Arătura Diavolului'.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strada Pivnițelor din Villánykövesd",
+            "tip": "O alee pitorească și liniștită cu pivnițe de vin, o oprire perfectă pentru fotografii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Szársomlyó Hill near Nagyharsány",
+            "tip": "Enjoy the view from the 'Devil's ploughed' hill.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cellar Row of Villánykövesd",
+            "tip": "A picturesque and quiet alley of wine cellars, a perfect photo stop.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingüter in Villány",
+            "tip": "Kaufen Sie erstklassigen Cabernet Franc und andere Rotweine."
+          },
+          {
+            "name": "Harkányer Markt",
+            "tip": "Ein größerer regionaler Markt in der Nähe mit einer großen Auswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villányi pincészetek",
+            "tip": "Vásároljon első osztályú Cabernet Franc-t és más vörösborokat."
+          },
+          {
+            "name": "Harkányi piac",
+            "tip": "Egy közeli, nagyobb regionális piac, széles választékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cramele din Villány",
+            "tip": "Cumpărați Cabernet Franc premium și alte vinuri roșii."
+          },
+          {
+            "name": "Piața Harkány",
+            "tip": "O piață regională mai mare în apropiere, cu o selecție largă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wineries in Villány",
+            "tip": "Purchase premium Cabernet Franc and other red wines."
+          },
+          {
+            "name": "Harkány Market",
+            "tip": "A larger regional market nearby with a wide selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie einen Fahrer ein, wenn Sie eine Weinprobe machen.",
+          "Die Parkplätze im Zentrum von Siklós können im Sommer schnell voll sein.",
+          "Überprüfen Sie die Öffnungszeiten der Weingüter im Voraus, einige erfordern eine Reservierung."
+        ],
+        "hu": [
+          "Jelöljön ki egy sofőrt, ha borkóstolón vesz részt.",
+          "A siklósi központi parkolók nyáron hamar megtelhetnek.",
+          "Előre ellenőrizze a pincészetek nyitvatartási idejét, néhány helyen foglalás szükséges."
+        ],
+        "ro": [
+          "Desemnați un șofer dacă participați la degustări de vinuri.",
+          "Parcările din centrul orașului Siklós se pot umple rapid vara.",
+          "Verificați în avans orele de deschidere ale cramelor, unele necesită rezervare."
+        ],
+        "en": [
+          "Designate a driver if you plan on wine tasting.",
+          "Parking in the center of Siklós can fill up quickly in the summer.",
+          "Check the opening hours of the wineries in advance, some require reservations."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 9.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof Siklós",
+            "hu": "Érkezés a siklósi buszpályaudvarra",
+            "ro": "Sosire la autogara Siklós",
+            "en": "Arrival at Siklós bus station"
+          },
+          "coords": [
+            18.299,
+            45.858
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Busbahnhof ist Ihr Ausgangspunkt für die Erkundung der Stadt.",
+            "hu": "A buszpályaudvar a kiindulópont a város felfedezéséhez.",
+            "ro": "Autogara este punctul dvs. de plecare pentru explorarea orașului.",
+            "en": "The bus station is your starting point for exploring the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Siklós",
+            "hu": "Siklósi Vár",
+            "ro": "Castelul Siklós",
+            "en": "Siklós Castle"
+          },
+          "coords": [
+            18.296,
+            45.854
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof zur Hauptattraktion.",
+            "hu": "Rövid séta a buszpályaudvartól a fő látványossághoz.",
+            "ro": "O scurtă plimbare de la autogară la atracția principală.",
+            "en": "A short walk from the bus station to the main attraction."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee und Serbische Kirche",
+            "hu": "Dzsámi és Szerb templom",
+            "ro": "Moscheea și Biserica Sârbă",
+            "en": "Mosque and Serbian Church"
+          },
+          "coords": [
+            18.2975,
+            45.8565
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beiden nahe beieinander liegenden historischen Stätten.",
+            "hu": "Fedezze fel ezt a két, egymáshoz közel fekvő történelmi helyszínt.",
+            "ro": "Explorați aceste două situri istorice apropiate.",
+            "en": "Explore these two historical sites located close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt nach Máriagyűd",
+            "hu": "Buszozás Máriagyűdre",
+            "ro": "Călătorie cu autobuzul la Máriagyűd",
+            "en": "Bus ride to Máriagyűd"
+          },
+          "coords": [
+            18.315,
+            45.875
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Wallfahrtsort. Prüfen Sie den Fahrplan im Voraus.",
+            "hu": "Menjen helyi busszal a kegyhelyre. Előre ellenőrizze a menetrendet.",
+            "ro": "Luați un autobuz local la sanctuar. Verificați orarul în avans.",
+            "en": "Take a local bus to the pilgrimage site. Check the schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Máriagyűd oder Siklós",
+            "hu": "Ebéd Máriagyűdön vagy Siklóson",
+            "ro": "Prânz în Máriagyűd sau Siklós",
+            "en": "Lunch in Máriagyűd or Siklós"
+          },
+          "coords": [
+            18.314,
+            45.874
+          ],
+          "category": "gastro",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie ein spätes Mittagessen, bevor Sie zurück nach Siklós fahren.",
+            "hu": "Élvezzen egy késői ebédet, mielőtt visszatérne Siklósra.",
+            "ro": "Bucurați-vă de un prânz târziu înainte de a vă întoarce la Siklós.",
+            "en": "Enjoy a late lunch before heading back to Siklós."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Thermalbad Siklós",
+            "hu": "Busz a Siklósi Termálfürdőhöz",
+            "ro": "Autobuz spre Băile Termale Siklós",
+            "en": "Bus to Siklós Thermal Spa"
+          },
+          "coords": [
+            18.299,
+            45.851
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 105,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach Ihrem Ausflug im warmen Wasser.",
+            "hu": "Pihenjen a kirándulás után a meleg vízben.",
+            "ro": "Relaxați-vă în apa caldă după excursie.",
+            "en": "Relax in the warm water after your excursion."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln entdecken Sie die Highlights von Siklós und seiner Umgebung. Der Vormittag steht im Zeichen der Geschichte im Zentrum von Siklós, alles bequem zu Fuß vom Busbahnhof aus erreichbar. Am Nachmittag bringt Sie ein lokaler Bus zum spirituellen Zentrum von Máriagyűd. Nach der Rückkehr nach Siklós können Sie den Tag entspannt im Thermalbad ausklingen lassen, das ebenfalls gut mit dem Bus erreichbar ist.",
+        "hu": "Tömegközlekedéssel fedezheti fel Siklós és környéke legfontosabb látnivalóit. A délelőtt a történelem jegyében telik Siklós központjában, minden kényelmesen elérhető gyalog a buszpályaudvarról. Délután egy helyi busz elviszi a máriagyűdi spirituális központba. Siklósra visszatérve a napot pihenéssel zárhatja a termálfürdőben, amely szintén könnyen megközelíthető busszal.",
+        "ro": "Cu transportul public, descoperiți punctele de atracție din Siklós și împrejurimile sale. Dimineața este dedicată istoriei în centrul Siklós, totul fiind ușor accesibil pe jos de la autogară. După-amiaza, un autobuz local vă duce la centrul spiritual din Máriagyűd. La întoarcerea în Siklós, puteți încheia ziua relaxându-vă la băile termale, care sunt, de asemenea, ușor accesibile cu autobuzul.",
+        "en": "Using public transport, you'll discover the highlights of Siklós and its surroundings. The morning is dedicated to history in the center of Siklós, all easily accessible on foot from the bus station. In the afternoon, a local bus takes you to the spiritual center of Máriagyűd. Upon returning to Siklós, you can end the day relaxing at the thermal spa, which is also easily accessible by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Adele Restaurant",
+            "tip": "Elegantes Restaurant in der Nähe der Burg."
+          },
+          {
+            "name": "Hellas Taverna",
+            "tip": "Eine gute Option für ein schnelles und leckeres Mittagessen in der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Adele Étterem",
+            "tip": "Elegáns étterem a vár közelében."
+          },
+          {
+            "name": "Hellas Taverna",
+            "tip": "Jó választás egy gyors és finom ebédhez a városban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Adele",
+            "tip": "Restaurant elegant lângă castel."
+          },
+          {
+            "name": "Taverna Hellas",
+            "tip": "O opțiune bună pentru un prânz rapid și gustos în oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Adele Restaurant",
+            "tip": "Elegant restaurant near the castle."
+          },
+          {
+            "name": "Hellas Taverna",
+            "tip": "A good option for a quick and tasty lunch in town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel von Máriagyűd",
+            "tip": "Ein ruhiger Ort für Gebet und Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park am Thermalbad",
+            "tip": "Entspannen Sie sich vor oder nach dem Baden im Grünen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Máriagyűdi domb",
+            "tip": "Csendes hely az imádságra és az elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park a termálfürdőnél",
+            "tip": "Pihenjen a zöldben fürdés előtt vagy után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Máriagyűd",
+            "tip": "Un loc liniștit pentru rugăciune și reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul de la băile termale",
+            "tip": "Relaxați-vă în zona verde înainte sau după baie.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Máriagyűd Hill",
+            "tip": "A quiet place for prayer and reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park at the thermal spa",
+            "tip": "Relax in the green space before or after your swim.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Läden in der Innenstadt",
+            "tip": "Stöbern Sie nach lokalen Handwerksprodukten."
+          },
+          {
+            "name": "Souvenirladen in Máriagyűd",
+            "tip": "Finden Sie religiöse Andenken und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis boltok a belvárosban",
+            "tip": "Böngésszen a helyi kézműves termékek között."
+          },
+          {
+            "name": "Ajándékbolt Máriagyűdön",
+            "tip": "Találjon vallási emléktárgyakat és helyi termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici magazine în centrul orașului",
+            "tip": "Căutați produse artizanale locale."
+          },
+          {
+            "name": "Magazin de suveniruri în Máriagyűd",
+            "tip": "Găsiți suveniruri religioase și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small shops in the city center",
+            "tip": "Browse for local handicrafts."
+          },
+          {
+            "name": "Souvenir shop in Máriagyűd",
+            "tip": "Find religious memorabilia and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über die Busfahrpläne, da die Verbindungen, insbesondere am Wochenende, nicht sehr häufig sind.",
+          "Kaufen Sie Tickets im Voraus oder stellen Sie sicher, dass Sie Kleingeld für den Busfahrer haben.",
+          "Planen Sie Pufferzeiten für mögliche Verspätungen ein."
+        ],
+        "hu": [
+          "Tájékozódjon a buszmenetrendekről, mivel a járatok nem túl sűrűek, különösen hétvégén.",
+          "Vásároljon jegyet előre, vagy győződjön meg róla, hogy van aprópénze a buszsofőrnek.",
+          "Tervezzen pufferidőt az esetleges késésekre."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor, deoarece serviciile pot fi rare, în special în weekend.",
+          "Cumpărați bilete în avans sau asigurați-vă că aveți bani mărunți pentru șofer.",
+          "Planificați timp suplimentar pentru posibile întârzieri."
+        ],
+        "en": [
+          "Check bus schedules as services can be infrequent, especially on weekends.",
+          "Buy tickets in advance or make sure you have small change for the driver.",
+          "Plan for buffer time for potential delays."
+        ]
+      }
+    }
+  }
+}
